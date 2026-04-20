@@ -21,7 +21,7 @@ const fullTitle = title ? `${title} — ${siteTitle}` : siteTitle;
 const metaDescription = description ?? t('site.tagline');
 const canonicalURL = canonical ?? new URL(Astro.url.pathname, Astro.site).toString();
 ---
-<\!doctype html>
+<!doctype html>
 <html lang={lang} class="h-full">
   <head>
     <meta charset="utf-8" />

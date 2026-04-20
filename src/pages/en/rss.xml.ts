@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import { ui } from '../../i18n/ui';
 
 export async function GET(context: any) {
-  const items = await getCollection('news-en', ({ data }) => \!data.draft);
+  const items = await getCollection('news-en', ({ data }) => !data.draft);
   return rss({
     title: ui.en['site.title'],
     description: ui.en['site.tagline'],
