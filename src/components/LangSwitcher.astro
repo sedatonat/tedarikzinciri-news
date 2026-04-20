@@ -1,0 +1,11 @@
+---
+import { getLangFromUrl } from '../i18n/utils';
+const lang = getLangFromUrl(Astro.url);
+const target = lang === 'tr' ? 'en' : 'tr';
+const targetHref = lang === 'tr'
+  ? '/en' + (Astro.url.pathname === '/' ? '' : Astro.url.pathname)
+  : Astro.url.pathname.replace(/^\/en/, '') || '/';
+---
+<a href={targetHref} class="px-2 py-1 text-xs font-medium uppercase rounded-md hover:bg-ink-100 dark:hover:bg-ink-800" aria-label="Change language">
+  {target}
+</a>

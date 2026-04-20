@@ -1,0 +1,23 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import NewsCard from '../../../components/NewsCard.astro';
+import { categoryLabel, categorySlug } from '../../../i18n/utils';
+
+export async function getStaticPaths() {
+  const cats = ['Lojistik','Tedarik Zinciri','Teknoloji','Envanter','Satınalma'];
+  return cats.map(cat => ({ params: { category: categorySlug(cat) }, props: { cat } }));
+}
+const { cat } = Astro.props;
+const all = (await getCollection('news-en', ({ data }) => data.category === cat && \!data.draft))
+  .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
+const label = categoryLabel[cat].en;
+---
+<BaseLayout title={label}>
+  <section class="container-wide py-10">
+    <h1 class="text-3xl font-bold mb-6">{label}</h1>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {all.map(e => <NewsCard entry={e} />)}
+    </div>
+  </section>
+</BaseLayout>

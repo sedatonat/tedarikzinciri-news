@@ -1,0 +1,23 @@
+---
+import { getLangFromUrl, useTranslations, localizedPath } from '../i18n/utils';
+import LangSwitcher from './LangSwitcher.astro';
+import ThemeToggle from './ThemeToggle.astro';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+---
+<header class="sticky top-0 z-40 border-b border-ink-200 dark:border-ink-800 bg-white/80 dark:bg-ink-950/80 backdrop-blur">
+  <div class="container-wide flex items-center justify-between h-16">
+    <a href={localizedPath(lang, '/')} class="flex items-center gap-2 group">
+      <span class="inline-block w-8 h-8 rounded-lg bg-brand-600 text-white font-bold grid place-items-center">TZ</span>
+      <span class="font-semibold text-lg hidden sm:inline">{t('site.title')}</span>
+    </a>
+    <nav class="flex items-center gap-1 sm:gap-4 text-sm">
+      <a href={localizedPath(lang, '/')} class="px-2 py-1 hover:text-brand-600">{t('nav.home')}</a>
+      <a href={lang === 'tr' ? '/kategori' : '/en/category'} class="px-2 py-1 hover:text-brand-600">{t('nav.categories')}</a>
+      <a href={localizedPath(lang, '/ara')} class="px-2 py-1 hover:text-brand-600" aria-label={t('nav.search')}>{t('nav.search')}</a>
+      <LangSwitcher />
+      <ThemeToggle />
+    </nav>
+  </div>
+</header>

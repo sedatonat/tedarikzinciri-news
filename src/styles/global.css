@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg: 255 255 255;
+    --fg: 21 21 25;
+    --muted: 108 112 124;
+    --accent: 31 105 228;
+    --card: 247 247 248;
+    --border: 215 216 220;
+  }
+  .dark {
+    --bg: 15 16 20;
+    --fg: 238 238 240;
+    --muted: 155 159 170;
+    --accent: 89 170 255;
+    --card: 26 28 34;
+    --border: 51 53 61;
+  }
+  html { font-family: Inter, system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+  body { background: rgb(var(--bg)); color: rgb(var(--fg)); }
+}
+
+@layer components {
+  .container-narrow { @apply mx-auto max-w-3xl px-4 sm:px-6; }
+  .container-wide { @apply mx-auto max-w-6xl px-4 sm:px-6; }
+  .prose-article {
+    @apply prose prose-lg dark:prose-invert max-w-none
+           prose-headings:font-semibold prose-a:text-brand-600 dark:prose-a:text-brand-400
+           prose-img:rounded-xl prose-strong:text-ink-900 dark:prose-strong:text-ink-100;
+  }
+  .chip { @apply inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium; }
+}
