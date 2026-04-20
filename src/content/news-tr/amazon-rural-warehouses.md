@@ -1,0 +1,34 @@
+---
+title: "Amazon’un Kırsal Depo Hamlesi: Onlarca Yeni Tesis"
+subtitle: "Amazon’un Kırsal Depo Hamlesi: Onlarca Yeni Tesis"
+date: "2025-02-08T00:00:00Z"
+category: "Envanter"
+image: "https://static.wixstatic.com/media/6c3915_26fb59fffde141a4b461ebca74ec64d4~mv2.png/823.png"
+imageAlt: "Amazon’un Kırsal Depo Hamlesi: Onlarca Yeni Tesis"
+wixId: "5a301dda-be01-4b7d-826d-bcf2660841b0"
+author: "Sedat Onat"
+translated: false
+draft: false
+---
+<p>Amazon’un kırsal ABD’de onlarca depo kurma planı, son kilometre kapsamını genişletmekte. Plan, micro-fulfillment centers, regional sortation hubs, ve local delivery stations ekosistemiyle hizmet verimini artırmakta. Yatırım, teslimat süresini kısaltmakta, erişimi artırmakta ve Prime sözünü daha çok bölgede mümkün kılmakta. Ağ tasarımında hub-and-spoke ile point-to-point arasında hibrit bir kurgu benimsenmekte; stok yerleşimi AI demand planning ile yönetilmekte. Yerel istihdam ve KOBİ tedarik zincirleri üzerinde çarpan etkisi beklenmekte.&nbsp;</p>
+<p><br></p>
+<p>Sonuç olarak proje, hem lojistik kapasiteyi artırmakta hem de kırsal pazarların e-ticarete erişimini demokratikleştirmekte.</p>
+<p><br></p>
+<p><strong>Önemli Notlar:</strong><br>
+1. Kırsal ağ genişlemesi teslimatı hızlandırır.<br>
+2. Micro-fulfillment erişimi artırır.<br>
+3. AI planning stok yerleşimini optimize eder.<br>
+4. Yerel istihdamda pozitif etki beklenir.<br>
+5. Kırsal pazarlarda e-ticaret yaygınlaşır.</p>
+<p><br>
+---<br>
+<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41666-amazon-plans-to-build-dozens-of-us-warehouses-in-rural-expansion"><u>https://www.supplychainbrain.com/articles/41666-amazon-plans-to-build-dozens-of-us-warehouses-in-rural-expansion</u></a><br>
+-------------------</p>
+<p><strong>!!! DUYURU !!!</strong></p>
+<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
+<p>#ERP Nedir?</p>
+<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
+<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
+<p>Şimdiden iyi okumalar dileriz.</p>
+<p><br></p>
+<p>[823]</p>

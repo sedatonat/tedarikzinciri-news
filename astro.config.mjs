@@ -27,5 +27,12 @@ export default defineConfig({
   },
   image: {
     domains: ['static.wixstatic.com']
+  },
+  vite: {
+    build: {
+      rollupOptions: {
+        maxParallelFileOps: 20
+      }
+    }
   }
 });
