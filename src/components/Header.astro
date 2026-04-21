@@ -14,7 +14,7 @@ const t = useTranslations(lang);
     </a>
     <nav class="flex items-center gap-1 sm:gap-4 text-sm">
       <a href={localizedPath(lang, '/')} class="px-2 py-1 hover:text-brand-600">{t('nav.home')}</a>
-      <a href={lang === 'tr' ? '/kategori' : '/en/category'} class="px-2 py-1 hover:text-brand-600">{t('nav.categories')}</a>
+      <a href={lang === 'tr' ? '/kategoriler' : '/en/categories'} class="px-2 py-1 hover:text-brand-600">{t('nav.categories')}</a>
       <a href={lang === 'tr' ? '/ara' : '/en/search'} class="px-2 py-1 hover:text-brand-600" aria-label={t('nav.search')}>{t('nav.search')}</a>
       <LangSwitcher />
       <ThemeToggle />
