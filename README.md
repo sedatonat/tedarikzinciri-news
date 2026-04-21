@@ -1,4 +1,4 @@
-# Tedarik Zinciri Haberleri
+# Tedarik Zinciri Portalı Haberleri
 
 Tedarik zinciri, lojistik, satınalma, envanter ve teknoloji alanındaki güncel haberlerin Türkçe ve İngilizce paylaşıldığı haber portalı.
 

@@ -3,7 +3,7 @@
   "type": "module",
   "version": "0.1.0",
   "private": true,
-  "description": "Tedarik Zinciri Haberleri - TR/EN haber portalı",
+  "description": "Tedarik Zinciri Portalı Haberleri - TR/EN haber portalı",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
