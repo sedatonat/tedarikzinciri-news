@@ -15,10 +15,12 @@ const current = page.currentPage;
 const last = page.lastPage;
 function pageHref(n: number): string {
   if (n === 1) return page.url.first || '/';
-  // Derive base from current URL
-  const cur = page.url.current;
-  // Strip trailing /<digits> if any
-  const base = cur.replace(/\/\d+\/?$/, '').replace(/\/$/, '');
+  // Derive the /prefix/<N> pattern from whichever URL the caller gave us that
+  // already contains a page number. On page 1 the "current" URL has no number
+  // (e.g. "/" or "/en/"), so we fall back to last/next/first.
+  const ref = [page.url.last, page.url.next, page.url.current, page.url.first]
+    .find(u => u && /\/\d+\/?$/.test(u)) || page.url.current;
+  const base = ref.replace(/\/\d+\/?$/, '').replace(/\/$/, '');
   return `${base}/${n}`;
 }
 const nums: (number | '…')[] = [];
