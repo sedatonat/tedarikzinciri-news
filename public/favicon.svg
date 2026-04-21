@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="12" fill="#1f69e4"/><text x="50%" y="54%" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-weight="800" font-size="28" fill="#ffffff" dominant-baseline="middle">TZ</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#000000"/>
+  <g fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="miter" stroke-linecap="butt">
+    <polygon points="32,8 52.78,20 52.78,44 32,56 11.22,44 11.22,20"/>
+    <line x1="32" y1="32" x2="52.78" y2="20"/>
+    <line x1="32" y1="32" x2="32" y2="56"/>
+    <line x1="32" y1="32" x2="11.22" y2="20"/>
+  </g>
+</svg>
