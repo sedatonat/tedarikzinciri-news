@@ -35,13 +35,36 @@ already has a non-empty `tags` array. Pass FORCE=1 to overwrite.
 
 from __future__ import annotations
 
+# --- UTF-8 enforcement (must run before anthropic/httpx are imported) -------
+# macOS system Python sometimes defaults to ASCII when LANG is unset, which
+# makes httpx choke the moment a non-ASCII character appears in any string
+# serialized into an HTTP header. We force UTF-8 everywhere up front.
+import locale as _locale
+import os as _os
+_os.environ.setdefault("LANG", "en_US.UTF-8")
+_os.environ.setdefault("LC_ALL", "en_US.UTF-8")
+_os.environ.setdefault("PYTHONIOENCODING", "utf-8")
+try:
+    _locale.setlocale(_locale.LC_ALL, "en_US.UTF-8")
+except Exception:
+    pass
+
 import argparse
+import io
 import json
 import os
 import re
 import sys
+import traceback
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
+
+# Force stdout/stderr to UTF-8 so print() of Turkish tags won't choke either
+try:
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", line_buffering=True)
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", line_buffering=True)
+except Exception:
+    pass
 
 try:
     import anthropic
@@ -124,17 +147,17 @@ TAG_TOOL = {
     },
 }
 
-TR_SYSTEM = """Sen bir tedarik zinciri, lojistik, satınalma ve teknoloji haberlerini etiketleyen profesyonel bir editörsün.
+TR_SYSTEM = """You are a professional editor who tags Turkish-language supply-chain, logistics, procurement and technology news articles.
 
-Görevin: Verilen habere 5-8 adet kısa, tutarlı, anlamlı Türkçe etiket üretmek.
+Task: produce 5-8 concise, consistent, meaningful TURKISH content tags for the supplied article. Tags must be written in Turkish (Turkish script and characters are expected and correct).
 
-Kurallar:
-- Etiketler 1-3 kelime olmalı, tercihen isim tamlamaları ("konteyner gemisi", "yapay zeka", "otonom mobil robot")
-- Şirket adları, ülke/bölge adları, teknoloji adları, olay türleri ve sektör terimleri uygundur
-- Kısaltmaları olduğu gibi bırak: "AI", "RFID", "AMR", "SEC", "CMA CGM"
-- Baş harfleri büyük yazma; sadece özel adlar büyük (örn. "Maersk", "Kızıldeniz", "Avrupa Birliği")
-- Çok genel etiketlerden kaçın ("haber", "şirket", "olay"). Tag aranabilir ve ayırt edici olmalı.
-- Sadece `submit_tags` aracını çağırarak yanıt ver. Normal metin yazma."""
+Rules:
+- Tags should be 1-3 words, typically noun phrases (e.g. "konteyner gemisi", "yapay zeka", "otonom mobil robot").
+- Company names, countries / regions, technology names, event types and industry terms are all fair game.
+- Keep acronyms unchanged: "AI", "RFID", "AMR", "SEC", "CMA CGM".
+- Capitalization: lowercase generic terms, capitalize only proper nouns (e.g. "Maersk", "Kizildeniz", "Avrupa Birligi" -> use the real Turkish spelling with correct Turkish letters).
+- Avoid overly generic tags ("haber", "sirket", "olay"). Tags must be searchable and distinguishing.
+- Respond ONLY through the `submit_tags` tool call. No plain text."""
 
 EN_TRANSLATE_SYSTEM = """You translate Turkish content tags into natural English content tags for a supply-chain / logistics news site.
 
@@ -162,8 +185,11 @@ Rules:
 # ---------------------------------------------------------------------------
 # API calls
 # ---------------------------------------------------------------------------
+_FIRST_ERROR_PRINTED = False
+
 def _call_tag_tool(system: str, user_text: str) -> list[str] | None:
     """Call the API once, return tags list or None on failure."""
+    global _FIRST_ERROR_PRINTED
     try:
         response = client.messages.create(
             model=MODEL,
@@ -175,6 +201,11 @@ def _call_tag_tool(system: str, user_text: str) -> list[str] | None:
         )
     except Exception as exc:
         print(f"    ! API error: {exc}", file=sys.stderr)
+        if not _FIRST_ERROR_PRINTED:
+            _FIRST_ERROR_PRINTED = True
+            print("    --- full traceback (once) ---", file=sys.stderr)
+            traceback.print_exc()
+            print("    --- end traceback ---", file=sys.stderr)
         return None
 
     for block in response.content:
@@ -194,11 +225,13 @@ def _call_tag_tool(system: str, user_text: str) -> list[str] | None:
 
 
 def tag_article_tr(fm: dict, body: str) -> list[str] | None:
+    # Labels are ASCII; only the article content is non-ASCII (that is fine
+    # once UTF-8 is enforced for stdout + HTTP body encoding).
     text = "\n".join([
-        f"Başlık: {fm.get('title', '')}",
-        f"Özet: {fm.get('subtitle', '')}",
+        f"Title: {fm.get('title', '')}",
+        f"Subtitle: {fm.get('subtitle', '')}",
         "",
-        "İçerik:",
+        "Body:",
         strip_html(body)[:6000],
     ])
     return _call_tag_tool(TR_SYSTEM, text)

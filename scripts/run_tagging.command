@@ -4,6 +4,14 @@
 
 set -e
 
+# Force UTF-8 locale (macOS system Python otherwise defaults to ASCII, which
+# breaks HTTP request encoding the moment a Turkish character appears).
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
+export LC_CTYPE=en_US.UTF-8
+export PYTHONIOENCODING=utf-8
+export PYTHONUTF8=1
+
 REPO="$HOME/Documents/Claude/Projects/News/tedarikzinciri-news"
 cd "$REPO" || { echo "Repo not found at $REPO"; exit 1; }
 
@@ -27,12 +35,10 @@ fi
 echo "✓ ANTHROPIC_API_KEY set (last 6: ...${ANTHROPIC_API_KEY: -6})"
 echo ""
 
-echo "--- Step 1/5: Dependency check ---"
-python3 -c "import anthropic, yaml" 2>/dev/null || {
-  echo "Bagimliliklar kuruluyor..."
-  python3 -m pip install --user anthropic pyyaml
-}
-echo "✓ anthropic + pyyaml ready"
+echo "--- Step 1/5: Dependency check (install + upgrade) ---"
+# Force upgrade so that any older anthropic/httpx gets replaced. Quiet install.
+python3 -m pip install --user --upgrade --quiet anthropic pyyaml httpx
+python3 -c "import anthropic, yaml; print(f'  anthropic={anthropic.__version__}')"
 echo ""
 
 echo "--- Step 2/5: Pilot tag (5 TR haber) ---"
