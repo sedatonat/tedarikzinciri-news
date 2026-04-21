@@ -1,0 +1,99 @@
+name: Auto-translate new TR articles to EN
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/content/news-tr/**.md'
+      - 'scripts/translate_tr_to_en.py'
+      - '.github/workflows/translate-tr-to-en.yml'
+  schedule:
+    # Fallback — günde 2 kez (sync-from-sheets ve fetch-news-drafts'ten sonra).
+    # 07:10 UTC (TR 10:10) ve 19:10 UTC (TR 22:10)
+    - cron: '10 7,19 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'En fazla kaç makale çevrilsin (boş = tümü)'
+        required: false
+        default: ''
+      model:
+        description: 'Model (boş = claude-haiku-4-5-20251001)'
+        required: false
+        default: ''
+      dry_run:
+        description: 'Sadece listele, çeviri yapma (true/false)'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: translate-tr-to-en
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # Commits we push below need to come back into the workflow checkout
+          # so subsequent pushes don't race.
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          python3 -m pip install anthropic pyyaml
+
+      - name: Check API key present
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then
+            echo "::error::ANTHROPIC_API_KEY secret tanımlı değil — repo Settings → Secrets and variables → Actions altına ekleyin."
+            exit 1
+          fi
+          echo "API key mevcut (length=${#ANTHROPIC_API_KEY})"
+
+      - name: Run translate_tr_to_en.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ github.event.inputs.model || 'claude-haiku-4-5-20251001' }}
+          CONCURRENCY: '4'
+          LIMIT: ${{ github.event.inputs.limit || '0' }}
+          DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+        run: python3 scripts/translate_tr_to_en.py
+
+      - name: Commit & push if changed
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          git config user.name "tzh-bot"
+          git config user.email "tzh-bot@users.noreply.github.com"
+          git add src/content/news-en || true
+          if git diff --cached --quiet; then
+            echo "Yeni çeviri yok, commit atlanıyor."
+            exit 0
+          fi
+          COUNT=$(git diff --cached --name-only | wc -l)
+          git commit -m "chore(content): auto-translate ${COUNT} TR articles to EN"
+          # Retry push if someone else pushed in the meantime
+          for i in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push failed, pulling rebase and retrying ($i/3)..."
+            git pull --rebase
+          done
+          echo "::error::Push failed after 3 retries"
+          exit 1
