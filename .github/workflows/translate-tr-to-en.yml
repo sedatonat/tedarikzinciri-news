@@ -76,6 +76,7 @@ jobs:
         run: python3 scripts/translate_tr_to_en.py
 
       - name: Commit & push if changed
+        id: commit
         if: github.event.inputs.dry_run != 'true'
         run: |
           git config user.name "tzh-bot"
@@ -83,6 +84,7 @@ jobs:
           git add src/content/news-en || true
           if git diff --cached --quiet; then
             echo "Yeni çeviri yok, commit atlanıyor."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           COUNT=$(git diff --cached --name-only | wc -l)
@@ -90,6 +92,7 @@ jobs:
           # Retry push if someone else pushed in the meantime
           for i in 1 2 3; do
             if git push; then
+              echo "pushed=true" >> "$GITHUB_OUTPUT"
               exit 0
             fi
             echo "Push failed, pulling rebase and retrying ($i/3)..."
@@ -97,3 +100,63 @@ jobs:
           done
           echo "::error::Push failed after 3 retries"
           exit 1
+
+      - name: Trigger Cloudflare Pages deploy
+        # Root cause we're working around:
+        #   Pushes made with GITHUB_TOKEN don't always fire Cloudflare's GitHub
+        #   App webhook, so bot commits like ours can land on main without
+        #   Cloudflare building them. Public site then lags the repo.
+        #
+        # This step explicitly tells Cloudflare to build. Two options — set
+        # EITHER one in repo Secrets (Settings → Secrets and variables → Actions):
+        #
+        #   Option A — CF_DEPLOY_HOOK  (simplest)
+        #     A POST-only URL that triggers a build of main.
+        #     Cloudflare dash → Workers & Pages → tedarikzinciri-news
+        #       → Settings → Builds → Add deploy hook (branch: main) → copy URL.
+        #
+        #   Option B — CF_API_TOKEN + CF_ACCOUNT_ID  (more robust)
+        #     A scoped API token with "Cloudflare Pages: Edit" permission.
+        #     Cloudflare dash → My Profile → API Tokens → Create Token.
+        #     CF_ACCOUNT_ID is in the Pages project URL
+        #       (dash.cloudflare.com/<ACCOUNT_ID>/pages/...).
+        #
+        # If neither secret is present we log a warning and exit cleanly so the
+        # overall run still succeeds — content commit is already pushed.
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          CF_DEPLOY_HOOK: ${{ secrets.CF_DEPLOY_HOOK }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_PROJECT: tedarikzinciri-news
+        run: |
+          set -u
+          if [ -n "${CF_DEPLOY_HOOK:-}" ]; then
+            echo "Triggering Cloudflare via Deploy Hook..."
+            HTTP=$(curl -sS -o /tmp/cf_hook_response.txt -w "%{http_code}" -X POST "$CF_DEPLOY_HOOK")
+            echo "Cloudflare response: HTTP $HTTP"
+            cat /tmp/cf_hook_response.txt || true
+            echo ""
+            if [ "$HTTP" -lt 200 ] || [ "$HTTP" -ge 300 ]; then
+              echo "::error::Deploy hook returned non-2xx status"
+              exit 1
+            fi
+            exit 0
+          fi
+          if [ -n "${CF_API_TOKEN:-}" ] && [ -n "${CF_ACCOUNT_ID:-}" ]; then
+            echo "Triggering Cloudflare via API (account=${CF_ACCOUNT_ID}, project=${CF_PROJECT})..."
+            HTTP=$(curl -sS -o /tmp/cf_api_response.txt -w "%{http_code}" \
+              -X POST \
+              -H "Authorization: Bearer ${CF_API_TOKEN}" \
+              -H "Content-Type: application/json" \
+              "https://api.cloudflare.com/client/v4/accounts/${CF_ACCOUNT_ID}/pages/projects/${CF_PROJECT}/deployments")
+            echo "Cloudflare response: HTTP $HTTP"
+            cat /tmp/cf_api_response.txt || true
+            echo ""
+            if [ "$HTTP" -lt 200 ] || [ "$HTTP" -ge 300 ]; then
+              echo "::error::Cloudflare API deployment call returned non-2xx status"
+              exit 1
+            fi
+            exit 0
+          fi
+          echo "::warning::Neither CF_DEPLOY_HOOK nor (CF_API_TOKEN + CF_ACCOUNT_ID) is set — Cloudflare rebuild will not be triggered. See this step's comment block for setup."
