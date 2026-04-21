@@ -36,7 +36,7 @@ concurrency:
 jobs:
   translate:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 90
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -70,7 +70,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           CLAUDE_MODEL: ${{ github.event.inputs.model || 'claude-haiku-4-5-20251001' }}
-          CONCURRENCY: '4'
+          CONCURRENCY: '6'
           LIMIT: ${{ github.event.inputs.limit || '0' }}
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
         run: python3 scripts/translate_tr_to_en.py

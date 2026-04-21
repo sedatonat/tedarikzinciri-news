@@ -61,7 +61,38 @@ Rules:
 - Do NOT add commentary, introductions, translator's notes, disclaimers, or "Translation:" prefixes.
 - Do NOT change meaning, merge paragraphs, or drop content.
 - Translate the article heading ("title"), subheading ("subtitle"), image alt text, and body.
-- Return ONLY a single JSON object with exactly these keys: title, subtitle, imageAlt, body. No prose before or after. No markdown code fences."""
+- Always return the translation by calling the `submit_translation` tool. Do not reply with plain text or Markdown."""
+
+TRANSLATION_TOOL = {
+    "name": "submit_translation",
+    "description": (
+        "Submit the translated article. All four fields are required. "
+        "Pass the full translated strings as arguments — the SDK handles JSON encoding for you, "
+        "so write the HTML body naturally (no extra escaping)."
+    ),
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "title": {
+                "type": "string",
+                "description": "English translation of the article title.",
+            },
+            "subtitle": {
+                "type": "string",
+                "description": "English translation of the subtitle. Pass empty string if source is empty.",
+            },
+            "imageAlt": {
+                "type": "string",
+                "description": "English translation of the image alt text. Pass empty string if source is empty.",
+            },
+            "body": {
+                "type": "string",
+                "description": "English translation of the HTML body. Preserve ALL tags exactly; translate only the text nodes.",
+            },
+        },
+        "required": ["title", "subtitle", "imageAlt", "body"],
+    },
+}
 
 FRONT_RE = re.compile(r"^---\r?\n(.*?)\r?\n---\r?\n?(.*)$", re.DOTALL)
 
@@ -114,13 +145,30 @@ def build_frontmatter(meta: dict) -> str:
     return "\n".join(lines)
 
 
-def extract_json(text: str) -> dict:
-    """Extract a JSON object from Claude's response, tolerating stray prose."""
-    start = text.find("{")
-    end = text.rfind("}")
+def extract_tool_input(resp) -> dict:
+    """Pull the arguments from the model's `submit_translation` tool_use block.
+
+    Falls back to recovering JSON from a text block if the model (rarely) ignored
+    tool_choice and emitted prose instead.
+    """
+    for block in resp.content:
+        if getattr(block, "type", "") == "tool_use" and getattr(block, "name", "") == "submit_translation":
+            return dict(block.input or {})
+
+    # Fallback: model returned text despite tool_choice. Try to salvage JSON.
+    text = "".join(
+        block.text for block in resp.content if getattr(block, "type", "") == "text"
+    )
+    stripped = text.strip()
+    # Strip optional ```json ... ``` fences
+    if stripped.startswith("```"):
+        stripped = re.sub(r"^```(?:json)?\s*", "", stripped)
+        stripped = re.sub(r"\s*```\s*$", "", stripped)
+    start = stripped.find("{")
+    end = stripped.rfind("}")
     if start < 0 or end < 0:
-        raise ValueError("no JSON object in response")
-    return json.loads(text[start : end + 1])
+        raise ValueError(f"no tool_use block and no JSON in response; first 200 chars: {text[:200]!r}")
+    return json.loads(stripped[start : end + 1])
 
 
 def translate_one(tr_path: Path) -> dict:
@@ -151,8 +199,8 @@ def translate_one(tr_path: Path) -> dict:
     }
 
     user_msg = (
-        "Translate the following Turkish news article fields to English. "
-        "Return ONLY a JSON object with keys title, subtitle, imageAlt, body.\n\n"
+        "Translate the following Turkish news article fields to English, then "
+        "return the result by calling the `submit_translation` tool.\n\n"
         + json.dumps(payload, ensure_ascii=False, indent=2)
     )
 
@@ -162,8 +210,10 @@ def translate_one(tr_path: Path) -> dict:
         try:
             resp = client.messages.create(
                 model=MODEL,
-                max_tokens=8000,
+                max_tokens=16000,
                 system=SYSTEM,
+                tools=[TRANSLATION_TOOL],
+                tool_choice={"type": "tool", "name": "submit_translation"},
                 messages=[{"role": "user", "content": user_msg}],
             )
             break
@@ -182,13 +232,10 @@ def translate_one(tr_path: Path) -> dict:
     if resp is None:
         raise last_err or RuntimeError("API failed after retries")
 
-    text = "".join(
-        block.text for block in resp.content if getattr(block, "type", "") == "text"
-    )
     try:
-        translated = extract_json(text)
+        translated = extract_tool_input(resp)
     except (json.JSONDecodeError, ValueError) as e:
-        raise ValueError(f"JSON parse failed: {e}. First 200 chars: {text[:200]!r}")
+        raise ValueError(f"tool_input extraction failed: {e}")
 
     for k in ("title", "body"):
         if not translated.get(k):
