@@ -1,0 +1,14 @@
+---
+title: "Arrive Logistics Opens New Office in Mexico Amid Nearshoring Boom"
+subtitle: "Arrive Logistics Opens New Office in Mexico Amid Nearshoring Boom"
+date: "2024-02-14T09:00:00Z"
+category: "Tedarik Zinciri"
+image: "https://static.wixstatic.com/media/6c3915_d421bbec6cba46319d09d27f59af6626~mv2.jpg"
+imageAlt: "Arrive Logistics Opens New Office in Mexico Amid Nearshoring Boom"
+wixId: "9c61268a-3999-48b4-9460-8e505e74116d"
+author: "Sedat Onat"
+translated: true
+draft: false
+---
+
+<p>Recently, the "nearshoring" trend—a growing inclination to move manufacturing and production operations to regions closer to the United States—has inspired US-based logistics providers to establish facilities in Mexico. Following this trend, freight broker <a href="https://www.arrivelogistics.com/"><u>Arrive Logistics</u></a> has announced the opening of a new office in <a href="https://www.google.com/search?q=guadalajara&amp;oq=Guadalajara&amp;gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyDQgDEC4YrwEYxwEYgAQyBwgEEC4YgAQyBwgFEAAYgAQyBwgGEAAYgAQyBggHEEUYPNIBBzMzN2owajeoAgCwAgA&amp;sourceid=chrome&amp;ie=UTF-8#eim=CAEQDBoKMjAuNjc1MTcwNyITLTEwMy4zNDczMzg0OTk5OTk5OQ"><u>Guadalajara</u></a>.</p>\n<p><br></p>\n<p>The new office demonstrates the company's commitment to its growing customer base in Mexico and its desire to leverage the region's rich talent pool and resources. Arrive, headquartered in Austin, Texas, has made substantial investments over three consecutive years to expand its cross-border operations and technology to deliver multimodal services to its clients.</p>\n<p><br></p>\n<p>Increasing trade activity between the United States and Mexico has also boosted demand for local resources to serve the growing number of companies establishing manufacturing and transportation operations in Mexico.</p>\n<p><br></p>\n<p>This move follows Florida-based third-party logistics provider (3PL) <a href="https://mybluegrace.com/"><u>BlueGrace Logistics</u></a> announcing the opening of a Guadalajara office, citing rising nearshoring demand. Arrive operates a freight brokerage, multimodal transportation, and technology services business with 1,700 employees, 6,000 customers, and 70,000 carriers in its network.</p>\n<h3>Key Takeaways</h3>\n<ul>\n  <li><p>The "nearshoring" trend has driven US-based logistics providers to open facilities in Mexico.</p></li>\n  <li><p>The company is committed to its growing customer base in Mexico and aims to leverage resources in the region.</p></li>\n  <li><p>Increased trade between the United States and Mexico has driven greater demand for local resources.</p></li>\n</ul>\n<p><br></p>\n<p><strong>News Link:</strong> <a href="https://www.supplychainquarterly.com/articles/9621-arrive-logistics-opens-guadalajara-office-as-nearshoring-boom-continues"><u>https://www.supplychainquarterly.com/articles/9621-arrive-logistics-opens-guadalajara-office-as-nearshoring-boom-continues</u></a></p>

@@ -1,0 +1,14 @@
+---
+title: "Gartner: 76% of Logistics Transformation Projects Never Fully Succeed"
+subtitle: "Gartner: 76% of Logistics Transformation Projects Never Fully Succeed"
+date: "2024-08-02T09:00:00Z"
+category: "Lojistik"
+image: "https://static.wixstatic.com/media/6c3915_6a478487291245b69317404245e944c6~mv2.png"
+imageAlt: "Gartner: 76% of Logistics Transformation Projects Never Fully Succeed"
+wixId: "5a166f5f-662e-4233-8e31-1a191284e35f"
+author: "Sedat Onat"
+translated: true
+draft: false
+---
+
+<p>While transformation projects are frequently launched in the logistics sector, Gartner research shows that 76% of these projects never fully succeed. Organizations typically fail to reach budget, timeline, or key performance indicator (KPI) targets. The most significant reason is that internal resistance blocks these projects more than external pressures do. According to Gartner, leaders should view this resistance not as a problem but as a resource and integrate it into projects.</p>\n<p><br></p>\n<p>Leaders often adopt an urgent approach that amplifies resistance and employ a directive leadership style. However, this approach reduces the likelihood of success by 47%. Instead, involving teams from the outset of the process, treating resistance as a resource, and adapting projects based on feedback increases the chances of success by 62%. This approach not only improves project management outcomes but also boosts employee morale and can unlock new competitive advantages.</p>\n<p><br></p>\n<p>Gartner's research was conducted in November and December 2023 with 306 logistics professionals from organizations with annual revenue of 500 million dollars or more. The study revealed that 81% of leaders believe transformation is critical, yet only 20% leverage resistance as a resource to tap into their teams' collective intelligence. Adopting this uncommon approach significantly increases the chances of transformation success.</p>\n<p><br></p>\n<p>More than 80% of respondents attempted four transformation initiatives within five years, meaning nearly one transformation project per year. However, a large share of these projects ended in failure.</p>\n<p><br></p>\n<p>In conclusion, logistics leaders should view team resistance not as an obstacle but as an opportunity to leverage in making projects more successful.</p>\n<p><br></p>\n<h5>Key Takeaways:</h5>\n<ol>\n  <li><p>76% of logistics transformation projects never fully succeed.</p></li>\n  <li><p>Internal resistance blocks transformation projects more than external pressures do.</p></li>\n  <li><p>Leaders viewing resistance as a resource and integrating it into projects increases the chances of success by 62%.</p></li>\n  <li><p>A common urgent approach reduces the chances of success by 47%.</p></li>\n  <li><p>The research was conducted in 2023 with 306 logistics professionals.</p></li>\n  <li><p>Four transformation attempts were made in five years, but most failed.</p></li>\n</ol>

@@ -1,0 +1,14 @@
+---
+title: "Maersk Pursues DB Schenker Acquisition"
+subtitle: "Maersk Pursues DB Schenker Acquisition"
+date: "2024-03-13T09:00:00Z"
+category: "Satınalma"
+image: "https://static.wixstatic.com/media/6c3915_6209676632634a9491da5127bee33e6c~mv2.jpg"
+imageAlt: "Maersk Pursues DB Schenker Acquisition"
+wixId: "0e18c220-a360-4f40-840f-7e85146317a5"
+author: "Sedat Onat"
+translated: true
+draft: false
+---
+
+<p>Following <a href="https://www.dhl.com/"><u>DHL</u></a>'s withdrawal from the race for one of the global logistics sector's largest acquisitions last week, <a href="https://www.maersk.com/"><u>Maersk</u></a> has hired advisors to explore a possible takeover.&nbsp;</p>\n<p><br></p>\n<p>According to Danish financial daily <a href="https://borsen.dk/"><u>Børsen</u></a>, Maersk, the world's second-largest container line, is examining a potential acquisition of <a href="https://www.dbschenker.com/global"><u>DB Schenker</u></a>, being sold by Deutsche Bahn's parent company. <a href="https://www.maersk.com/"><u>Maersk</u></a> CEO <a href="https://www.linkedin.com/in/vincent-clerc-56a7524/"><u>Vincent Clerc</u></a> told the newspaper that the company is pursuing a "very careful approach" regarding any <a href="https://www.dbschenker.com/global"><u>DB Schenker</u></a> acquisition. According to Sydbank analysts, fellow Danish logistics firm <a href="https://www.dsv.com/"><u>DSV</u></a> is considered the favourite to acquire the German transport group. <a href="https://www.dbschenker.com/global"><u>DB Schenker</u></a> is valued at 15 billion euros (16.4 billion dollars) and employs approximately 72,000 people worldwide.</p>\n<p><br></p>\n<p><br></p>\n<h5>Key Points</h5>\n<ul>\n  <li><p><a href="https://www.dhl.com/"><u>DHL</u></a>'s withdrawal from the race for a major acquisition.</p></li>\n  <li><p><a href="https://www.maersk.com/"><u>Maersk</u></a> has hired advisors to explore a possible acquisition of <a href="https://www.dbschenker.com/global"><u>DB Schenker</u></a>.</p></li>\n  <li><p><a href="https://www.maersk.com/"><u>Maersk</u></a> CEO <a href="https://www.linkedin.com/in/vincent-clerc-56a7524/"><u>Vincent Clerc</u></a> states the company is taking a very careful approach.</p></li>\n  <li><p><a href="https://www.dbschenker.com/global"><u>DB Schenker</u></a> is valued at 15 billion euros (16.4 billion dollars) and employs approximately 72,000 people worldwide.</p></li>\n  <li><p><a href="https://www.sydbank.dk/"><u>Sydbank</u></a> analysts suggest <a href="https://www.dsv.com/"><u>DSV</u></a> is the favourite to win the acquisition.</p></li>\n</ul>\n<p><br></p>\n<p><br></p>\n<p><strong>News Link:</strong> <a href="https://splash247.com/maersk-studies-possible-db-schenker-acquisition/"><u>https://splash247.com/maersk-studies-possible-db-schenker-acquisition/</u></a></p>

@@ -1,0 +1,14 @@
+---
+title: "Toyota to Build $100 Million Electric Forklift Manufacturing Facility in Indiana"
+subtitle: "Toyota to Build $100 Million Electric Forklift Manufacturing Facility in Indiana"
+date: "2024-05-30T09:00:00Z"
+category: "Envanter"
+image: "https://static.wixstatic.com/media/6c3915_8a7334fe0f44453a8ef2e81cbe73158f~mv2.png"
+imageAlt: "Toyota to Build $100 Million Electric Forklift Manufacturing Facility in Indiana"
+wixId: "31dc7022-ee20-4cfb-8172-ccf11e143265"
+author: "Sedat Onat"
+translated: true
+draft: false
+---
+
+<p>Toyota Material Handling is launching construction of a new manufacturing facility for electric forklifts in Columbus, Indiana, backed by a $100 million investment. The company, which began forklift production in Columbus in 1990, will significantly expand its existing production footprint with this new facility. The new plant will span 295,000 square meters and is scheduled to begin operations in June 2026. Through this initiative, Toyota aims to modernize its manufacturing processes to produce electric products at a faster pace while maintaining rigorous quality standards.</p>\n<p><br></p>\n<p>This project represents the latest in a series of more than 15 expansion efforts Toyota has undertaken in Indiana, with total investment exceeding $400 million. Upon completion, Toyota's total manufacturing footprint in Columbus will reach 1.8 million square meters. Brett Wood, the company's CEO, noted that electric forklifts account for 65 percent of the North American market and emphasized that this trend is expected to accelerate. Wood further highlighted that the new facility positions the company to plan not merely for the coming week or year, but for the next decade, demonstrating a proactive approach to the sector.</p>\n<p><br></p>\n<h5><strong>Key Points</strong></h5>\n<ol>\n  <li><p>Toyota Material Handling is constructing a new electric forklift manufacturing facility in Columbus, Indiana with a $100 million investment.</p></li>\n  <li><p>The new facility will cover 295,000 square meters and begin production in June 2026.</p></li>\n  <li><p>The expansion will increase Toyota's total footprint in Columbus to 1.8 million square meters.</p></li>\n  <li><p>Electric forklifts represent 65 percent of the North American market, with that share expected to grow.</p></li>\n  <li><p>Brett Wood stated that the company is making strategic plans for the next decade and aims to play a leading role in the sector.</p></li>\n</ol>\n<p><br></p>\n<p><br></p>\n<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10340-toyota-material-handling-to-build-100-million-factory-for-electric-forklifts"><u>https://www.thescxchange.com/articles/10340-toyota-material-handling-to-build-100-million-factory-for-electric-forklifts</u></a></p>
