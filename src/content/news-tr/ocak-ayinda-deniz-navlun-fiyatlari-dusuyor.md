@@ -3,7 +3,7 @@ title: "Ocak Ayında Deniz Navlun Fiyatları Düşerken, Tarifeler ve Kızılden
 subtitle: "Ocak Ayında Deniz Navlun Fiyatları Düşerken, Tarifeler ve Kızıldeniz'deki Gerilimler Endişe Yaratıyor"
 date: "2025-01-28T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_bb5318fb2be04e448c0ea1c38a4db88f~mv2.jpg/News - 2025-01-28 - Hapag-Lloyd.jpg"
+image: "https://static.wixstatic.com/media/6c3915_bb5318fb2be04e448c0ea1c38a4db88f~mv2.jpg"
 imageAlt: "Ocak Ayında Deniz Navlun Fiyatları Düşerken, Tarifeler ve Kızıldeniz'deki Gerilimler Endişe Yaratıyor"
 wixId: "7f0f2076-e2ac-4b20-8fb2-b9db200b5cf5"
 author: "Sedat Onat"

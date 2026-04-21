@@ -3,7 +3,7 @@ title: "Giyim dışı ürünlerin RFID ürün etiketlemesine ilişkin temel tekn
 subtitle: "Giyim dışı ürünlerin RFID ürün etiketlemesine ilişkin temel teknik hususlar"
 date: "2024-09-12T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_43916d89423f4ac7be87dd949f66b4ed~mv2.jpg/News - 2024-09-12 - RFID.jpg"
+image: "https://static.wixstatic.com/media/6c3915_43916d89423f4ac7be87dd949f66b4ed~mv2.jpg"
 imageAlt: "Giyim dışı ürünlerin RFID ürün etiketlemesine ilişkin temel teknik hususlar"
 wixId: "062e0341-d097-4a0e-94ab-05b009ec5f2a"
 author: "Sedat Onat"

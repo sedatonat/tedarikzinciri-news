@@ -3,7 +3,7 @@ title: "KPMG Anketine Göre ABD Şirketleri Tedarik Zincirlerini Amerika Kıtas�
 subtitle: "KPMG Anketine Göre ABD Şirketleri Tedarik Zincirlerini Amerika Kıtasına Yakınlaştırıyor"
 date: "2024-10-31T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/06566537e7943a68d8440b7b57a6da7f.jpg/Cargo Worker.jpg"
+image: "https://static.wixstatic.com/media/06566537e7943a68d8440b7b57a6da7f.jpg"
 imageAlt: "KPMG Anketine Göre ABD Şirketleri Tedarik Zincirlerini Amerika Kıtasına Yakınlaştırıyor"
 wixId: "dca54c85-2dc0-4b1b-996b-539f5db1c785"
 author: "Sedat Onat"

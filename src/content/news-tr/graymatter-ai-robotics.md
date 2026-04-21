@@ -3,7 +3,7 @@ title: "GrayMatter Robotics, Kaliforniya’da 100.000 Metrekarelik Yapay Zeka Ro
 subtitle: "GrayMatter Robotics, Kaliforniya’da 100.000 Metrekarelik Yapay Zeka Robotik İnovasyon Merkezi Açtı"
 date: "2025-10-24T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/f808ef49161b483baeb323114519dde8.jpg/Robot.jpg"
+image: "https://static.wixstatic.com/media/f808ef49161b483baeb323114519dde8.jpg"
 imageAlt: "GrayMatter Robotics, Kaliforniya’da 100.000 Metrekarelik Yapay Zeka Robotik İnovasyon Merkezi Açtı"
 wixId: "8ae58734-cd82-4bcf-9053-f0e238d024ed"
 author: "Sedat Onat"

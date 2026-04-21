@@ -3,7 +3,7 @@ title: "Walmart'ın Tedarikçi Standartlarında Yapılan Değişiklikler ve Teda
 subtitle: "Walmart'ın Tedarikçi Standartlarında Yapılan Değişiklikler ve Tedarik Zinciri Üzerindeki Etkileri"
 date: "2024-02-27T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a6539802133b4350b9029d7f1c223184~mv2.jpg/News - 2024-02-27 - Wallmart.jpg"
+image: "https://static.wixstatic.com/media/6c3915_a6539802133b4350b9029d7f1c223184~mv2.jpg"
 imageAlt: "Walmart'ın Tedarikçi Standartlarında Yapılan Değişiklikler ve Tedarik Zinciri Üzerindeki Etkileri"
 wixId: "55b9bd80-fa7e-4f0f-933d-b572e3b7edde"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Orta Doğu'da Deniz Güvenliğine Yeni Tehdit: Husilerin MV Torm Thor'a 
 subtitle: "Orta Doğu'da Deniz Güvenliğine Yeni Tehdit: Husilerin MV Torm Thor'a Saldırısı"
 date: "2024-02-25T03:45:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_c7685e0e3f87466f9a9ca9dfec812795~mv2.jpeg/News - 2024-02-24 - Husi.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_c7685e0e3f87466f9a9ca9dfec812795~mv2.jpeg"
 imageAlt: "Orta Doğu'da Deniz Güvenliğine Yeni Tehdit: Husilerin MV Torm Thor'a Saldırısı"
 wixId: "7ca6c4b7-80da-4991-82d6-1082d0c55eee"
 author: "Sedat Onat"

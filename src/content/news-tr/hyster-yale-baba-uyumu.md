@@ -3,7 +3,7 @@ title: "Hyster-Yale, Ekipmanları İçin BABA Gereksinimlerine Uymayı Taahhüt 
 subtitle: "Hyster-Yale, Ekipmanları İçin BABA Gereksinimlerine Uymayı Taahhüt Ediyor"
 date: "2024-12-28T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_3bc119c991804f6f8b413081f2bab7f4~mv2.jpg/News - 2024-12-20 - Hyster Yale Telehandler.jpg"
+image: "https://static.wixstatic.com/media/6c3915_3bc119c991804f6f8b413081f2bab7f4~mv2.jpg"
 imageAlt: "Hyster-Yale, Ekipmanları İçin BABA Gereksinimlerine Uymayı Taahhüt Ediyor"
 wixId: "f457554d-f030-4529-98a8-8f68aca3a09f"
 author: "Sedat Onat"

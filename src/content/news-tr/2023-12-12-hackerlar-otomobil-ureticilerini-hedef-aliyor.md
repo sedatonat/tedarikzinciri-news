@@ -3,7 +3,7 @@ title: "Hackerlar, Otomobil Üreticilerinin Tedarik Zincirlerindeki Üçüncü P
 subtitle: "Hackerlar, Otomobil Üreticilerinin Tedarik Zincirlerindeki Üçüncü Parti Tedarikçileri Hedef Alıyor"
 date: "2023-12-12T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_2114144feda349f8a70c91363e107a4e~mv2.jpeg/News - 2023-12-12 - Hacker.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_2114144feda349f8a70c91363e107a4e~mv2.jpeg"
 imageAlt: "Hackerlar, Otomobil Üreticilerinin Tedarik Zincirlerindeki Üçüncü Parti Tedarikçileri Hedef Alıyor"
 wixId: "2a910994-3aea-4d58-9865-af143853b77c"
 author: "Sedat Onat"

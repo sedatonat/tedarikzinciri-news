@@ -3,7 +3,7 @@ title: "CMA CGM ve Marsa Maroc, Nador West Med Terminali için Ortak Girişim An
 subtitle: "CMA CGM ve Marsa Maroc, Nador West Med Terminali için Ortak Girişim Anlaşması İmzaladı"
 date: "2024-10-29T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7c7c9b506af1401dbfc2ba80ae79cfd6~mv2.jpg/News - 2024-10-29 - CMA CGM.jpg"
+image: "https://static.wixstatic.com/media/6c3915_7c7c9b506af1401dbfc2ba80ae79cfd6~mv2.jpg"
 imageAlt: "CMA CGM ve Marsa Maroc, Nador West Med Terminali için Ortak Girişim Anlaşması İmzaladı"
 wixId: "e5527afa-d166-411c-8a6f-aaf24c29f95b"
 author: "Sedat Onat"

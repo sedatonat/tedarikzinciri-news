@@ -3,7 +3,7 @@ title: "UPS’in Düşen MD-11F Uçağında Motor Bağlantısında ‘Yorulma Ç
 subtitle: "UPS’in Düşen MD-11F Uçağında Motor Bağlantısında ‘Yorulma Çatlakları’ Tespit Edildi"
 date: "2025-11-21T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0f5e900f27fc479ea2efd255da2924a1~mv2.jpg/plane crash.jpg"
+image: "https://static.wixstatic.com/media/6c3915_0f5e900f27fc479ea2efd255da2924a1~mv2.jpg"
 imageAlt: "UPS’e ait MD-11F kargo uçağının, 4 Kasım’da Louisville’de kalkıştan hemen sonra düşmesine neden olan sol motor kopmasında, NTSB ön raporuna göre motor pylonu ve bağlantı noktalarında önemli “yorulma çatlakları” bulundu. Kaza 14 kişinin ölümüne yol açtı."
 wixId: "43210436-07b6-4f70-87e2-5459fb0933b2"
 author: "Sedat Onat"

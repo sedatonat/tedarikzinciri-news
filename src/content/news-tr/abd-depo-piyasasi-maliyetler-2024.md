@@ -3,7 +3,7 @@ title: "ABD Depo Piyasasında Karışık Sinyaller: Büyüme Hızı Yavaşlıyor
 subtitle: "ABD Depo Piyasasında Karışık Sinyaller: Büyüme Hızı Yavaşlıyor"
 date: "2024-02-27T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/11062b_939204ae9b614238a9e6d17a9368b38f~mv2.jpeg/Distribution Warehouse with High Shelves.jpeg"
+image: "https://static.wixstatic.com/media/11062b_939204ae9b614238a9e6d17a9368b38f~mv2.jpeg"
 imageAlt: "ABD Depo Piyasasında Karışık Sinyaller: Büyüme Hızı Yavaşlıyor"
 wixId: "c9ea356e-074d-4856-bd9b-0e47c413cb04"
 author: "Sedat Onat"

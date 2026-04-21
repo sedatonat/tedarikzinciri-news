@@ -3,7 +3,7 @@ title: "Lineage Logistics’in Nasdaq Halka Arzı: Soğuk Depo Devinden 18 Milya
 subtitle: "Lineage Logistics’in Nasdaq Halka Arzı: Soğuk Depo Devinden 18 Milyar Dolar Hedefi"
 date: "2024-07-25T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_603cbae20e4c4ee6aa68abef387623d3~mv2.jpeg/News - 2024-07-25 - Lineage.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_603cbae20e4c4ee6aa68abef387623d3~mv2.jpeg"
 imageAlt: "Lineage Logistics’in Nasdaq Halka Arzı: Soğuk Depo Devinden 18 Milyar Dolar Hedefi"
 wixId: "08d31a71-627a-4660-b297-322f354e31b7"
 author: "Sedat Onat"

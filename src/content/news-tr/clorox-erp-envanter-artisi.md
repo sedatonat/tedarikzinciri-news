@@ -3,7 +3,7 @@ title: "Clorox, ERP Geçişinin Yol Açtığı Stok Artışını Başarıyla Top
 subtitle: "Clorox, ERP Geçişinin Yol Açtığı Stok Artışını Başarıyla Toparladı"
 date: "2025-11-19T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_468de4cecdfc41e5961f18764f074f56~mv2.jpg/clorox.jpg"
+image: "https://static.wixstatic.com/media/6c3915_468de4cecdfc41e5961f18764f074f56~mv2.jpg"
 imageAlt: "Clorox, ABD tedarik zincirini yeni bir ERP sistemine taşırken yaşanan geçici aksaklıkları önlemek için perakendecilerdeki stok seviyesini 1,5 hafta artırmıştı. Şirket, geçiş kaynaklı stok dengesizliklerini tamamen toparladığını ve yılın geri kalanı için maddi bir risk görmediğini açıkladı."
 wixId: "cf012ac8-595a-4dc9-8cef-7643a7d38a87"
 author: "Sedat Onat"

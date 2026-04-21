@@ -3,7 +3,7 @@ title: "Denize Kıyısı Olmayan Orta Asya Ülkeleri İçin İran Demiryolu Kori
 subtitle: "Denize Kıyısı Olmayan Orta Asya Ülkeleri İçin İran Demiryolu Koridoru Planı"
 date: "2025-01-14T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_abb0a107ae9d40c5aa9666bbf26fb8ff~mv2.jpg/News - 2025-01-14 - Iranian Railway.jpg"
+image: "https://static.wixstatic.com/media/6c3915_abb0a107ae9d40c5aa9666bbf26fb8ff~mv2.jpg"
 imageAlt: "Denize Kıyısı Olmayan Orta Asya Ülkeleri İçin İran Demiryolu Koridoru Planı"
 wixId: "5d819736-77f5-4f31-b54c-931c6ec6b366"
 author: "Sedat Onat"

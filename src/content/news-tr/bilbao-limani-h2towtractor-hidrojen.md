@@ -3,7 +3,7 @@ title: "Bilbao Limanı Hidrojenli H2TowTractor ile Operasyonel Testlere Başlad�
 subtitle: "Bilbao Limanı Hidrojenli H2TowTractor ile Operasyonel Testlere Başladı: Lojistikte Retrofit Dönemi"
 date: "2025-11-26T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d17c6973f5f84ca0bc189fc25a04471a~mv2.jpg/h2 cekici traktor.jpg"
+image: "https://static.wixstatic.com/media/6c3915_d17c6973f5f84ca0bc189fc25a04471a~mv2.jpg"
 imageAlt: "Bilbao Limanı’nda hidrojen yakıt hücresi ve lityum-iyon batarya kombinasyonuyla çalışan H2TowTractor'un sıfır emisyonlu liman operasyonlarında test edilmesi."
 wixId: "af7e3036-cc5f-4bd5-9e35-ce7570f2b720"
 author: "Sedat Onat"

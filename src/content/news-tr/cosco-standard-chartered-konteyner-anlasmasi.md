@@ -3,7 +3,7 @@ title: "COSCO ve Standard Chartered'dan Konteyner Endüstrisini Dönüştürme A
 subtitle: "COSCO ve Standard Chartered'dan Konteyner Endüstrisini Dönüştürme Anlaşması"
 date: "2024-05-29T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_cf65b263e0154af8b0ffaaede56e1abc~mv2.jpg/News - 2024-05-29 - Cosco.jpg"
+image: "https://static.wixstatic.com/media/6c3915_cf65b263e0154af8b0ffaaede56e1abc~mv2.jpg"
 imageAlt: "COSCO ve Standard Chartered'dan Konteyner Endüstrisini Dönüştürme Anlaşması"
 wixId: "6062df21-1cb3-483e-9980-529ab74c01f3"
 author: "Sedat Onat"

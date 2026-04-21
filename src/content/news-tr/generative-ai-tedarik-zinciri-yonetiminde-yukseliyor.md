@@ -3,7 +3,7 @@ title: "Tedarik Zinciri Yönetiminde GenAI'nin Yükselişi: Fırsatlar ve Engell
 subtitle: "Tedarik Zinciri Yönetiminde GenAI'nin Yükselişi: Fırsatlar ve Engeller"
 date: "2024-02-21T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/11062b_dd7eac35853745cfbe041ab3acb2e3b7~mv2.jpg/User Interface.jpg"
+image: "https://static.wixstatic.com/media/11062b_dd7eac35853745cfbe041ab3acb2e3b7~mv2.jpg"
 imageAlt: "Tedarik Zinciri Yönetiminde GenAI'nin Yükselişi: Fırsatlar ve Engeller"
 wixId: "485d8ed3-5de8-43cd-9de0-d1a4b2152204"
 author: "Sedat Onat"

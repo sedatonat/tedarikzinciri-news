@@ -3,7 +3,7 @@ title: "Postrack, İngiltere’de Lojistik ve Karayolu Taşımacılığına Yön
 subtitle: "Postrack, İngiltere’de Lojistik ve Karayolu Taşımacılığına Yönelik Varlık Takip Hizmeti Başlattı"
 date: "2025-10-30T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f96a16e9b4b9483698d35c63be67d942~mv2.jpg/jonathan-Postrack-Logistics.jpg"
+image: "https://static.wixstatic.com/media/6c3915_f96a16e9b4b9483698d35c63be67d942~mv2.jpg"
 imageAlt: "Avrupa merkezli GPS takip uzmanı Postrack, İngiltere’de yeni bir operasyon başlatarak lojistik, karayolu taşımacılığı ve konteyner yönetimi sektörlerine yönelik ileri varlık izleme (asset tracking) çözümlerini pazara sundu."
 wixId: "3767601d-128a-4c04-98a5-5a0aeb1eb020"
 author: "Sedat Onat"

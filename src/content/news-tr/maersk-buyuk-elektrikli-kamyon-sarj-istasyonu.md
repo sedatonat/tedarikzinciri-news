@@ -3,7 +3,7 @@ title: "Kaliforniya'nın En Büyük Elektrikli Kamyon Şarj İstasyonu Açıldı
 subtitle: "Kaliforniya'nın En Büyük Elektrikli Kamyon Şarj İstasyonu Açıldı"
 date: "2024-05-23T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c62a89c8c3e243c4bc6b2d81b2a67a6c~mv2.jpeg/News - 2024-05-23 - Maersk.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_c62a89c8c3e243c4bc6b2d81b2a67a6c~mv2.jpeg"
 imageAlt: "Kaliforniya'nın En Büyük Elektrikli Kamyon Şarj İstasyonu Açıldı"
 wixId: "b1c5d5cd-90fc-4680-9dd4-582498e82ef1"
 author: "Sedat Onat"

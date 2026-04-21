@@ -3,7 +3,7 @@ title: "Baltimore'daki Köprü Kazasında Altıncı ve Son Kurbanın Cesedi Bulu
 subtitle: "Baltimore'daki Köprü Kazasında Altıncı ve Son Kurbanın Cesedi Bulundu"
 date: "2024-05-08T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_df1f4bb30d394374ae8df5f8c571d51e~mv2.jpg/News - 2024-05-08 - Baltimore.jpg"
+image: "https://static.wixstatic.com/media/6c3915_df1f4bb30d394374ae8df5f8c571d51e~mv2.jpg"
 imageAlt: "Baltimore'daki Köprü Kazasında Altıncı ve Son Kurbanın Cesedi Bulundu"
 wixId: "dbcabe4d-51c6-4b5f-8ead-bb7216bab616"
 author: "Sedat Onat"

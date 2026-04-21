@@ -3,7 +3,7 @@ title: "ABD Sürdürülebilir Ulaşım Geleceğinde Deniz Taşımacılığının
 subtitle: "ABD Sürdürülebilir Ulaşım Geleceğinde Deniz Taşımacılığının Kritik Rolü"
 date: "2024-12-20T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_586a2c64cb5643c28fc5ab226a672582~mv2.jpg/News - 2024-12-20 - Urges Washington.jpg"
+image: "https://static.wixstatic.com/media/6c3915_586a2c64cb5643c28fc5ab226a672582~mv2.jpg"
 imageAlt: "ABD Sürdürülebilir Ulaşım Geleceğinde Deniz Taşımacılığının Kritik Rolü"
 wixId: "9ac32159-1722-4974-ab20-8442bc61a1c5"
 author: "Sedat Onat"

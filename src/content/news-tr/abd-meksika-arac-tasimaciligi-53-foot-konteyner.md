@@ -3,7 +3,7 @@ title: "Meksika'dan ABD'ye Araç Taşımacılığında DP World'den Yenilikçi I
 subtitle: "Meksika'dan ABD'ye Araç Taşımacılığında DP World'den Yenilikçi Intermodal Hizmet"
 date: "2024-05-20T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_97553644e6834db99a6e2c00ecbb696b~mv2.jpg/News - 2024-05-20 - 53 Container.jpg"
+image: "https://static.wixstatic.com/media/6c3915_97553644e6834db99a6e2c00ecbb696b~mv2.jpg"
 imageAlt: "Meksika'dan ABD'ye Araç Taşımacılığında DP World'den Yenilikçi Intermodal Hizmet"
 wixId: "987e0ae8-e089-450a-aa0f-009a4b83679b"
 author: "Sedat Onat"

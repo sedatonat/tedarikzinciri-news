@@ -3,7 +3,7 @@ title: "Türkiye, Sualtı Güvenlik Testleri Nedeniyle Çanakkale Boğazı Geçi
 subtitle: "Türkiye, Sualtı Güvenlik Testleri Nedeniyle Çanakkale Boğazı Geçişlerini Geçici Olarak Durdurdu"
 date: "2025-11-19T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/nsplsh_375241656d2d4d696a6d59~mv2_d_4000_3000_s_4_2.jpg/Image by Jacob Waldrop.jpg"
+image: "https://static.wixstatic.com/media/nsplsh_375241656d2d4d696a6d59~mv2_d_4000_3000_s_4_2.jpg"
 imageAlt: "Türkiye, 19 Kasım’da 07:00–18:00 arasında Çanakkale Boğazı’nı çift yönlü gemi trafiğine kapatarak Sualtı Güvenlik Projesi kapsamında test faaliyetleri yürüttü; günlük 100’e yakın gemi geçişi olan stratejik hat geçici olarak durduruldu."
 wixId: "28d46731-81d2-49a4-b9e7-fcd60b0171a4"
 author: "Sedat Onat"

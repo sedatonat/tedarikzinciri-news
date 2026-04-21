@@ -3,7 +3,7 @@ title: "Meksika Başkanı, ABD Tarifelerinden Kaçınma Konusunda Güven Duyuyor
 subtitle: "Meksika Başkanı, ABD Tarifelerinden Kaçınma Konusunda Güven Duyuyor"
 date: "2024-11-30T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_124b2ee5fd5e4b3598cc4b72a9fa51dc~mv2.jpg/News - 2024-11-30 - Mexico PM.jpg"
+image: "https://static.wixstatic.com/media/6c3915_124b2ee5fd5e4b3598cc4b72a9fa51dc~mv2.jpg"
 imageAlt: "Meksika Başkanı, ABD Tarifelerinden Kaçınma Konusunda Güven Duyuyor"
 wixId: "f2376990-74a2-40be-888a-8b3c354c2545"
 author: "Sedat Onat"

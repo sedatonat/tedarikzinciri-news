@@ -3,7 +3,7 @@ title: "ABD Adalet Bakanlığı ve Grace Ocean ile Synergy Marine Arasında 103 
 subtitle: "ABD Adalet Bakanlığı ve Grace Ocean ile Synergy Marine Arasında 103 Milyon Dolarlık Anlaşma"
 date: "2024-10-25T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_fcfe9fbcd21b4f928c435149ca677c93~mv2.jpg/News - 2024-10-25 - Baltimore.jpg"
+image: "https://static.wixstatic.com/media/6c3915_fcfe9fbcd21b4f928c435149ca677c93~mv2.jpg"
 imageAlt: "ABD Adalet Bakanlığı ve Grace Ocean ile Synergy Marine Arasında 103 Milyon Dolarlık Anlaşma"
 wixId: "d7a1da48-a4f2-453d-9902-e2988372fca3"
 author: "Sedat Onat"

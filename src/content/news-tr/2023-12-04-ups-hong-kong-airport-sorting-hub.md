@@ -3,7 +3,7 @@ title: "UPS Hong Kong Havalimanında saatte 75.000 Paket Kapsiteli Paket Sırala
 subtitle: "UPS Hong Kong Havalimanında saatte 75.000 Paket Kapsiteli Paket Sıralama Tesisi Kuracak"
 date: "2023-12-04T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_aea47f18368a4a83ac560904332dd377~mv2.jpeg/News - 2023-12-04 - UPS.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_aea47f18368a4a83ac560904332dd377~mv2.jpeg"
 imageAlt: "UPS Hong Kong Havalimanında saatte 75.000 Paket Kapsiteli Paket Sıralama Tesisi Kuracak"
 wixId: "d9d7fcb8-fe92-4b2e-bdb8-8b670ddc5824"
 author: "Sedat Onat"

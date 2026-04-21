@@ -3,7 +3,7 @@ title: "Volkswagen, Kargo Gemisi Yangını Nedeniyle Dava İle Karşı Karşıya
 subtitle: "Volkswagen, Kargo Gemisi Yangını Nedeniyle Dava İle Karşı Karşıya"
 date: "2024-03-05T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_41d390d91d034f30982b8d1a22593910~mv2.jpg/News - 2024-03-05 - Cargo Ship Fire.jpg"
+image: "https://static.wixstatic.com/media/6c3915_41d390d91d034f30982b8d1a22593910~mv2.jpg"
 imageAlt: "Volkswagen, Kargo Gemisi Yangını Nedeniyle Dava İle Karşı Karşıya"
 wixId: "19550ae2-9a01-426b-bc32-a8ed0652b9dd"
 author: "Sedat Onat"

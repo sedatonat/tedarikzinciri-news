@@ -3,7 +3,7 @@ title: "ABD ve Avustralya Kritik Madenler İçin Stratejik İş Birliği Başlat
 subtitle: "ABD ve Avustralya Kritik Madenler İçin Stratejik İş Birliği Başlattı"
 date: "2025-10-23T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_2b850b0f978241a59d2c187582adca5d~mv2.jpg/usa australia.jpg"
+image: "https://static.wixstatic.com/media/6c3915_2b850b0f978241a59d2c187582adca5d~mv2.jpg"
 imageAlt: "ABD ve Avustralya, Çin’in ihracat kısıtlamaları karşısında nadir toprak ve kritik minerallerin tedarik zincirini güvence altına almak amacıyla milyarlarca dolarlık ortak yatırım planı üzerinde anlaştı."
 wixId: "0a601462-0daf-46b2-a3e7-d40791d21212"
 author: "Sedat Onat"

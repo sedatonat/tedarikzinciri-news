@@ -3,7 +3,7 @@ title: "DP World, Cebel Ali Limanı’nda İlk 1.000 Living Seawalls Panelini Ku
 subtitle: "DP World, Cebel Ali Limanı’nda İlk 1.000 Living Seawalls Panelini Kurdu"
 date: "2025-12-10T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_757aa03cb5824663a3aa650897a83f42~mv2.jpg/dpworld seawall panel.jpg"
+image: "https://static.wixstatic.com/media/6c3915_757aa03cb5824663a3aa650897a83f42~mv2.jpg"
 imageAlt: "DP World’ün Jebel Ali Port’ta Living Seawalls programı kapsamında kurduğu ilk 1.000 ekolojik panelle deniz habitatlarını güçlendirme hedefi, biyolojik çeşitlilik etkileri ve 2028’e kadar planlanan ölçekleme sürecinin detaylı özeti"
 wixId: "3ca85949-517e-41ea-b1a1-b36ac258c55f"
 author: "Sedat Onat"

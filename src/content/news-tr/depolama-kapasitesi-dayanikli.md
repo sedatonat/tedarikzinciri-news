@@ -3,7 +3,7 @@ title: "Depolama Kapasitesi, Yükleme Stratejilerine Rağmen Dayanıklılığın
 subtitle: "Depolama Kapasitesi, Yükleme Stratejilerine Rağmen Dayanıklılığını Koruyor"
 date: "2025-02-27T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/11062b_939204ae9b614238a9e6d17a9368b38f~mv2.jpeg/Distribution Warehouse with High Shelves.jpeg"
+image: "https://static.wixstatic.com/media/11062b_939204ae9b614238a9e6d17a9368b38f~mv2.jpeg"
 imageAlt: "Depolama Kapasitesi, Yükleme Stratejilerine Rağmen Dayanıklılığını Koruyor"
 wixId: "443b6506-29f0-40be-96cc-76da08915b2d"
 author: "Sedat Onat"

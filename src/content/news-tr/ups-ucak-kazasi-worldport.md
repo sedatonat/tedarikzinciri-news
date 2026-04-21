@@ -3,7 +3,7 @@ title: "UPS Uçağı Düştü: En Az 9 Kişi Hayatını Kaybetti, Worldport Oper
 subtitle: "UPS Uçağı Düştü: En Az 9 Kişi Hayatını Kaybetti, Worldport Operasyonları Aksadı"
 date: "2025-11-05T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_bc518d8d306e4bc3b951588f9198f16d~mv2.jpg/ups plane crash.jpg"
+image: "https://static.wixstatic.com/media/6c3915_bc518d8d306e4bc3b951588f9198f16d~mv2.jpg"
 imageAlt: "Louisville’de UPS’e ait bir MD-11 kargo uçağının düşmesi sonucu en az 9 kişi hayatını kaybetti. Olay, UPS’in ana hava merkezi Worldport’ta sort operasyonlarının durmasına ve hava ve uluslararası teslimatlarda gecikme riskine yol açtı."
 wixId: "077c5e4b-0312-4b08-a685-b27620f8774b"
 author: "Sedat Onat"

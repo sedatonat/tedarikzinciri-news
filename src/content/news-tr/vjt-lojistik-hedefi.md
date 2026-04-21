@@ -3,7 +3,7 @@ title: "VJT Teknoloji Grubu, Yazılım Patenti Aldıktan Sonra Lojistik Sektör�
 subtitle: "VJT Teknoloji Grubu, Yazılım Patenti Aldıktan Sonra Lojistik Sektörüne Yöneliyor"
 date: "2025-01-13T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5605ff95b5834f3fa2d7052e4cab2c4f~mv2.jpg/News - 2025-01-13 - VJ Teknoloji.jpg"
+image: "https://static.wixstatic.com/media/6c3915_5605ff95b5834f3fa2d7052e4cab2c4f~mv2.jpg"
 imageAlt: "VJT Teknoloji Grubu, Yazılım Patenti Aldıktan Sonra Lojistik Sektörüne Yöneliyor"
 wixId: "6137c431-da7e-41c3-9fbe-0a64c362565a"
 author: "Sedat Onat"

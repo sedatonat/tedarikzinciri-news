@@ -3,7 +3,7 @@ title: "Accenture ve SAP, \"Supply Chain Nerve Center\" Adını Verdikleri bir P
 subtitle: "Accenture ve SAP, \"Supply Chain Nerve Center\" Adını Verdikleri bir Platform Geliştirmek için İşbirliği Yapıyorlar"
 date: "2023-12-05T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_7ca3caea9305412aadac2ec97f65bec0~mv2.png/News - 2023-12-05 - SAP.png"
+image: "https://static.wixstatic.com/media/6c3915_7ca3caea9305412aadac2ec97f65bec0~mv2.png"
 imageAlt: "Accenture ve SAP, \"Supply Chain Nerve Center\" Adını Verdikleri bir Platform Geliştirmek için İşbirliği Yapıyorlar"
 wixId: "db7acd4d-a9f7-4a6c-9cd8-5c01b00f53fe"
 author: "Sedat Onat"

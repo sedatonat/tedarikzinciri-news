@@ -3,7 +3,7 @@ title: "Walmart, Atlanta’da Drone Teslimatlarını Başlattı: Perakendede Son
 subtitle: "Walmart, Atlanta’da Drone Teslimatlarını Başlattı: Perakendede Son Kilometre Dönüşümü Hızlanıyor"
 date: "2025-12-11T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_980a1be4c8d14000ab96d60eb641e374~mv2.jpg/drone flying.jpg"
+image: "https://static.wixstatic.com/media/6c3915_980a1be4c8d14000ab96d60eb641e374~mv2.jpg"
 imageAlt: "Walmart’ın Wing iş birliğiyle Atlanta metro bölgesinde drone teslimat hizmetini başlatması, beş dakikanın altındaki teslim süreleri, şehir bazlı ölçeklenme stratejisi ve perakende lojistiğine etkilerinin detaylı özeti"
 wixId: "fb2bb93c-3466-40da-810c-b794ea6b64a4"
 author: "Sedat Onat"

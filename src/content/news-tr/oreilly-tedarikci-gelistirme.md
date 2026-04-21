@@ -3,7 +3,7 @@ title: "O’Reilly Automotive, Tarifelere Karşı Tedarikçi Sağlığını Merk
 subtitle: "O’Reilly Automotive, Tarifelere Karşı Tedarikçi Sağlığını Merkeze Alıyor"
 date: "2025-11-03T09:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_1c48c66c752149bc83966381e128a4b1~mv2.jpg/auto parts building.jpg"
+image: "https://static.wixstatic.com/media/6c3915_1c48c66c752149bc83966381e128a4b1~mv2.jpg"
 imageAlt: "O’Reilly Automotive, tedarikçi risk yönetimini güçlendirerek finansal sağlamlık, ürün kalitesi, gönderim performansı ve tedarik çeşitlendirmesi üzerinden tarifelerin etkisini azaltmaya odaklanıyor. Çin’e bağımlılık %20’lerin ortasına düşmüş durumda."
 wixId: "9045f7e6-f082-4a8b-8c6b-739731374603"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Birmingham'da Bir Haftada Üç Ciddi Konteyner Tırı Köprü Çarpması
 subtitle: "Birmingham'da Bir Haftada Üç Ciddi Konteyner Tırı Köprü Çarpması"
 date: "2025-01-09T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_bf11148a16dd41ceb68456c427220b77~mv2.jpg/News - 2025-01-09 - Konteyner Tiri Kopru Kaza.jpg"
+image: "https://static.wixstatic.com/media/6c3915_bf11148a16dd41ceb68456c427220b77~mv2.jpg"
 imageAlt: "Birmingham'da Bir Haftada Üç Ciddi Köprü Çarpması"
 wixId: "d104fa4f-c3cb-4a9a-9411-de2289112965"
 author: "Sedat Onat"

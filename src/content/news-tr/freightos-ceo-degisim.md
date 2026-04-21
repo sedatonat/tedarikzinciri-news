@@ -3,7 +3,7 @@ title: "Freightos’ta CEO Değişimi Şirket Yeni Büyüme Aşamasına Geçiyor
 subtitle: "Freightos’ta CEO Değişimi Şirket Yeni Büyüme Aşamasına Geçiyor"
 date: "2025-12-17T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_7696a38162f8472eb65c210374747f68~mv2.jpg/freightos phone.jpg"
+image: "https://static.wixstatic.com/media/6c3915_7696a38162f8472eb65c210374747f68~mv2.jpg"
 imageAlt: "Freightos’un kurucusu ve CEO’su Zvi Schreiber görevinden ayrılma kararı aldı; şirket, ölçeklenme ve yeni büyüme fazına geçerken geçici CEO olarak CFO Pablo Pinillos görevi devralacak."
 wixId: "92568cb5-7efb-4e86-96ef-cefb970b10a9"
 author: "Sedat Onat"

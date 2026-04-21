@@ -3,7 +3,7 @@ title: "ABD'nin Yarı İletken Üretim Kapasitesi 2032'ye Kadar 3 Katına Çıka
 subtitle: "ABD'nin Yarı İletken Üretim Kapasitesi 2032'ye Kadar 3 Katına Çıkacak"
 date: "2024-05-08T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_3d37b5457e404a7bb49ef93498eff0a2~mv2.jpg/News - 2024-05-08 - Semiconductor.jpg"
+image: "https://static.wixstatic.com/media/6c3915_3d37b5457e404a7bb49ef93498eff0a2~mv2.jpg"
 imageAlt: "ABD'nin Yarı İletken Üretim Kapasitesi 2032'ye Kadar 3 Katına Çıkacak"
 wixId: "1960ea00-2dca-47c0-85fd-57a19d41f2f1"
 author: "Sedat Onat"

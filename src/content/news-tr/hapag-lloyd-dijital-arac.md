@@ -3,7 +3,7 @@ title: "Hapag-Lloyd Tedarikçi Görünürlüğü İçin Craft Platformunu Kullan
 subtitle: "Hapag-Lloyd Tedarikçi Görünürlüğü İçin Craft Platformunu Kullanıyor"
 date: "2025-01-16T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a18e789b28da4ad18ede620d7e72870d~mv2.jpg/News - 2025-01-16 - Hapag Lloyd.jpg"
+image: "https://static.wixstatic.com/media/6c3915_a18e789b28da4ad18ede620d7e72870d~mv2.jpg"
 imageAlt: "Hapag-Lloyd Tedarikçi Görünürlüğü İçin Dijital Araç Kullanıyor"
 wixId: "ae2a4de6-57b6-4746-8ce8-36d264c3bb98"
 author: "Sedat Onat"

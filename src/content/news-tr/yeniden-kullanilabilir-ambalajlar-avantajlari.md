@@ -3,7 +3,7 @@ title: "Tedarik Zincirlerinde Yeniden Kullanılabilir Ambalajların Çift Yönl�
 subtitle: "Tedarik Zincirlerinde Yeniden Kullanılabilir Ambalajların Çift Yönlü Avantajları"
 date: "2024-11-21T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_00370951a2e9481bad7e3206560ce4ef~mv2.jpg/News - 2024-11-21 - Plastic Pallet.jpg"
+image: "https://static.wixstatic.com/media/6c3915_00370951a2e9481bad7e3206560ce4ef~mv2.jpg"
 imageAlt: "Tedarik Zincirlerinde Yeniden Kullanılabilir Ambalajların Çift Yönlü Avantajları"
 wixId: "7d4d7c92-39c9-451c-b41e-003cc1c7c513"
 author: "Sedat Onat"

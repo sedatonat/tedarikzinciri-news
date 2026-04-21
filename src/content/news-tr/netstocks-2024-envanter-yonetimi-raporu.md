@@ -3,7 +3,7 @@ title: "Netstock’un 2024 Envanter Yönetimi Raporu: KOBİ’lerde Kritik Bulgu
 subtitle: "Netstock’un 2024 Envanter Yönetimi Raporu: KOBİ’lerde Kritik Bulgular"
 date: "2024-10-01T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_cfda771b8a2f41c4a3fcdbbf3af7af46~mv2.png/News - 2024-10-01 - Inv Mng Bench.png"
+image: "https://static.wixstatic.com/media/6c3915_cfda771b8a2f41c4a3fcdbbf3af7af46~mv2.png"
 imageAlt: "Netstock’un 2024 Envanter Yönetimi Raporu: KOBİ’lerde Kritik Bulgular"
 wixId: "5d36013b-9b96-43b7-be92-9b2e89b181ac"
 author: "Sedat Onat"

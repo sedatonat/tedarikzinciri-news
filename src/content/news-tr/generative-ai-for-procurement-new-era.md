@@ -3,7 +3,7 @@ title: "Tedarik ve Satın Alma Süreçlerinde Üretici Yapay Zeka: Beklentilerde
 subtitle: "Tedarik ve Satın Alma Süreçlerinde Üretici Yapay Zeka: Beklentilerden Gerçekliğe"
 date: "2024-07-25T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_8e4b816434fd41868b9f1193dd6048d2~mv2.jpg/News - 2024-07-25 - Gartner Gen AI.jpg"
+image: "https://static.wixstatic.com/media/6c3915_8e4b816434fd41868b9f1193dd6048d2~mv2.jpg"
 imageAlt: "Tedarik ve Satın Alma Süreçlerinde Üretici Yapay Zeka: Beklentilerden Gerçekliğe"
 wixId: "3188680b-d7bf-4a35-b855-67cd32994f9f"
 author: "Sedat Onat"

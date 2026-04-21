@@ -3,7 +3,7 @@ title: "Baltimore Limanı'ndaki Köprü Çökmesi Tedarik Zincirinde Dalgalanmal
 subtitle: "Baltimore Limanı'ndaki Köprü Çökmesi Tedarik Zincirinde Dalgalanmalara Neden Oluyor"
 date: "2024-03-27T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_49ce9cbe26204e89a2adbc413a9b8b6d~mv2.png/News - 2024-03-27 - Baltimore.png"
+image: "https://static.wixstatic.com/media/6c3915_49ce9cbe26204e89a2adbc413a9b8b6d~mv2.png"
 imageAlt: "Baltimore Limanı'ndaki Köprü Çökmesi Tedarik Zincirinde Dalgalanmalara Neden Oluyor"
 wixId: "18f4bf75-a91f-4b58-8c26-8ab64d0e69da"
 author: "Sedat Onat"

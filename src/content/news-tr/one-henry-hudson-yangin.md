@@ -3,7 +3,7 @@ title: "Los Angeles’ta ONE Henry Hudson Yangını Limanı Acil Duruma Geçirdi
 subtitle: "Los Angeles’ta ONE Henry Hudson Yangını Limanı Acil Duruma Geçirdi"
 date: "2025-11-23T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_930b9de459eb434ba14e8b433f6df815~mv2.jpg/one gemi yangin.jpg"
+image: "https://static.wixstatic.com/media/6c3915_930b9de459eb434ba14e8b433f6df815~mv2.jpg"
 imageAlt: "ONE Henry Hudson adlı 8.212 TEU’luk konteyner gemisinde Los Angeles Yusen Terminali’nde çıkan yangının seyri, acil müdahale detayları, tehlikeli maddeler nedeniyle artan risk ve liman operasyonlarının etkileri."
 wixId: "80e2291c-c904-4394-90ca-b0dcdd42123d"
 author: "Sedat Onat"

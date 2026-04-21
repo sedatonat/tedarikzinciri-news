@@ -3,7 +3,7 @@ title: "Siber Suç Çeteleri, Taşımacılık Şirketlerine Sızarak Kargo Hırs
 subtitle: "Siber Suç Çeteleri, Taşımacılık Şirketlerine Sızarak Kargo Hırsızlığı Yapıyor"
 date: "2025-11-03T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_5d60e94ed0384043b27f26d28f49e8de~mv2.jpg/port red blue.jpg"
+image: "https://static.wixstatic.com/media/6c3915_5d60e94ed0384043b27f26d28f49e8de~mv2.jpg"
 imageAlt: "Bloomberg’in haberine göre, Proofpoint tarafından yürütülen siber güvenlik araştırması, hack gruplarının organize suç ağlarıyla iş birliği yaparak lojistik ve taşımacılık şirketlerinden kargo çaldığını ortaya koydu. Bu yeni tehdit, küresel tedarik zincirinde milyarlarca dolarlık kayba yol açabilir."
 wixId: "5db4e711-7a1e-44a7-8b96-1facd4be8f02"
 author: "Sedat Onat"

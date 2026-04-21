@@ -3,7 +3,7 @@ title: "İki Yıl Sonra Hurdaya Ayrılan İlk Süpertanker: Bir 'Karanlık Gemi'
 subtitle: "İki Yıl Sonra Hurdaya Ayrılan İlk Süpertanker: Bir 'Karanlık Gemi'"
 date: "2024-12-27T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_aea91a7dab3840d59bf576301411adab~mv2.jpeg/News - 2024-12-27 - Supertanker.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_aea91a7dab3840d59bf576301411adab~mv2.jpeg"
 imageAlt: "İki Yıl Sonra Hurdaya Ayrılan İlk Süpertanker: Bir 'Karanlık Gemi'"
 wixId: "cbe2334a-c4b4-4546-abab-b3b0b3584962"
 author: "Sedat Onat"

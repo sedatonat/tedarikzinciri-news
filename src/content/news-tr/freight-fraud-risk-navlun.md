@@ -3,7 +3,7 @@ title: "Artan Navlun Dolandırıcılığına Karşı Koordineli Önleme Gereklil
 subtitle: "Artan Navlun Dolandırıcılığına Karşı Koordineli Önleme Gerekliliği"
 date: "2025-08-27T00:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_508b6199ab0247a99a973779e30b3e72~mv2.png/656.png"
+image: "https://static.wixstatic.com/media/6c3915_508b6199ab0247a99a973779e30b3e72~mv2.png"
 imageAlt: "Artan Navlun Dolandırıcılığına Karşı Koordineli Önleme Gerekliliği"
 wixId: "44d5b9a8-8591-4b3c-a875-8c311769c1e4"
 author: "Sedat Onat"

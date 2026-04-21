@@ -3,7 +3,7 @@ title: "Maersk, Hindistan'dan Irak'a Soğutuculu Konteyner Ek Ücretini Revize E
 subtitle: "Maersk, Hindistan'dan Irak'a Soğutuculu Konteyner Ek Ücretini Revize Etti"
 date: "2025-01-10T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2dbaed1b6f4d4a8593c3ccad06dfbba5~mv2.jpg/News - 2025-01-10 - Maersk.jpg"
+image: "https://static.wixstatic.com/media/6c3915_2dbaed1b6f4d4a8593c3ccad06dfbba5~mv2.jpg"
 imageAlt: "Maersk, Hindistan'dan Irak'a Soğutuculu Konteyner Ek Ücretini Revize Etti"
 wixId: "08bf8b62-75ae-4a73-a9c3-7fea9ef373fe"
 author: "Sedat Onat"

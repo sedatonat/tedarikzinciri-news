@@ -3,7 +3,7 @@ title: "Çin'in 3,6 Milyar Dolarlık Peru Limanı Açıldı: Latin Amerika Ticar
 subtitle: "Çin'in 3,6 Milyar Dolarlık Peru Limanı Açıldı: Latin Amerika Ticaret Rotalarını Dönüştürüyor"
 date: "2024-11-19T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e77d832db3464ea6936bfc30f2053eb5~mv2.jpg/News - 2024-11-19 - Cosco.jpg"
+image: "https://static.wixstatic.com/media/6c3915_e77d832db3464ea6936bfc30f2053eb5~mv2.jpg"
 imageAlt: "Çin'in 3,6 Milyar Dolarlık Peru Limanı Açıldı: Latin Amerika Ticaret Rotalarını Dönüştürüyor"
 wixId: "88de23b1-70a3-4492-ac75-c42ea54763b1"
 author: "Sedat Onat"

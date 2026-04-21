@@ -3,7 +3,7 @@ title: "Tedarik Zinciri Liderlerinin İzlemesi Gereken Dört Paket Etiketleme Tr
 subtitle: "Tedarik Zinciri Liderlerinin İzlemesi Gereken Dört Paket Etiketleme Trendi"
 date: "2025-10-20T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_2b4c2b4d5c3b433cbdfa3669d0dd1f1b~mv2.jpg/News - 2024-12-26 - Mexico.jpg"
+image: "https://static.wixstatic.com/media/6c3915_2b4c2b4d5c3b433cbdfa3669d0dd1f1b~mv2.jpg"
 imageAlt: "Tedarik Zinciri Liderlerinin İzlemesi Gereken Dört Paket Etiketleme Trendi"
 wixId: "c94fbca2-9559-4b3b-8547-bf84250f9350"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Arrive Logistics, Nearshoring Akımıyla Meksika'da Yeni Bir Ofis Açıy
 subtitle: "Arrive Logistics, Nearshoring Akımıyla Meksika'da Yeni Bir Ofis Açıyor"
 date: "2024-02-14T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d421bbec6cba46319d09d27f59af6626~mv2.jpg/News - 2024-02-14 - Arrive Log.jpg"
+image: "https://static.wixstatic.com/media/6c3915_d421bbec6cba46319d09d27f59af6626~mv2.jpg"
 imageAlt: "Arrive Logistics, Nearshoring Akımıyla Meksika'da Yeni Bir Ofis Açıyor"
 wixId: "9c61268a-3999-48b4-9460-8e505e74116d"
 author: "Sedat Onat"

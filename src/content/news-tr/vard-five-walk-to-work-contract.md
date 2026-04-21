@@ -3,7 +3,7 @@ title: "VARD, Uluslararası Müşteri ile Beş Walk-to-Work Gemi İçin Sözleş
 subtitle: "VARD, Uluslararası Müşteri ile Beş Walk-to-Work Gemi İçin Sözleşme İmzaladı"
 date: "2024-11-24T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_59f41518a0e447e5a882538dc21ee425~mv2.png/News - 2024-11-24 - Vessel.png"
+image: "https://static.wixstatic.com/media/6c3915_59f41518a0e447e5a882538dc21ee425~mv2.png"
 imageAlt: "VARD, Uluslararası Müşteri ile Beş Walk-to-Work Gemi İçin Sözleşme İmzaladı"
 wixId: "6ceae1e7-9c1e-4730-9cb6-11198cdcf061"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "ABD Limanlarında Yük Hacmi: Deniz Taşımacılığı Trendleri Nasıl 
 subtitle: "ABD Limanlarında Yük Hacmi: Deniz Taşımacılığı Trendleri Nasıl Şekilleniyor?"
 date: "2024-11-17T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d02177638fed49ddae20e1ade76c1388~mv2.jpg/News - 2024-11-17 - Container.jpg"
+image: "https://static.wixstatic.com/media/6c3915_d02177638fed49ddae20e1ade76c1388~mv2.jpg"
 imageAlt: "ABD Limanlarında Yük Hacmi: Deniz Taşımacılığı Trendleri Nasıl Şekilleniyor?"
 wixId: "ff337be5-e62f-4a04-a96d-896f417aa836"
 author: "Sedat Onat"

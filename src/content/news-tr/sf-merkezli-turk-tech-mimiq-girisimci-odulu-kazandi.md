@@ -3,7 +3,7 @@ title: "San Francisco Merkezli Türk Yüksek Teknoloji Şirketi Mimiq Yılın Gi
 subtitle: "San Francisco Merkezli Türk Yüksek Teknoloji Şirketi Mimiq Yılın Girişimcisi Ödülü’nü Aldı"
 date: "2023-12-20T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ac9bd08db94746d7999e82fdfa32bf0f~mv2.jpg/News - 2023-12-20 - Mimiq.jpg"
+image: "https://static.wixstatic.com/media/6c3915_ac9bd08db94746d7999e82fdfa32bf0f~mv2.jpg"
 imageAlt: "San Francisco Merkezli Türk Yüksek Teknoloji Şirketi Mimiq Yılın Girişimcisi Ödülü’nü Aldı"
 wixId: "da9acf58-223f-40b4-9fa0-be9b6c787f0a"
 author: "Sedat Onat"

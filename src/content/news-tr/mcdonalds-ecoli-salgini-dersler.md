@@ -3,7 +3,7 @@ title: "McDonald’s’in E. coli Salgını: Restoranlar ve Tedarikçiler İçin
 subtitle: "McDonald’s’in E. coli Salgını: Restoranlar ve Tedarikçiler İçin Öğrenilecek Dersler"
 date: "2024-11-18T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_5e7f1b9eb9554ac3bd2ec2b58aba6972~mv2.jpg/News - 2024-11-18 - Mac Donalds.jpg"
+image: "https://static.wixstatic.com/media/6c3915_5e7f1b9eb9554ac3bd2ec2b58aba6972~mv2.jpg"
 imageAlt: "McDonald’s’in E. coli Salgını: Restoranlar ve Tedarikçiler İçin Öğrenilecek Dersler"
 wixId: "5b9d5a88-51f7-4eb9-ace6-a1ce16d9cbc4"
 author: "Sedat Onat"

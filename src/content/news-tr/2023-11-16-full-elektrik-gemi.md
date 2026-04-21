@@ -3,7 +3,7 @@ title: "Full Elektrik Gemi kullanımı iç denizlerden başlıyor"
 subtitle: "Full Elektrik Gemi kullanımı iç denizlerden başlıyor"
 date: "2023-11-16T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4df2ee0de0a0444aab0a1972ad79bf39~mv2.jpg/News - Lojistik - 2023-11-16 - Roterdam.jpg"
+image: "https://static.wixstatic.com/media/6c3915_4df2ee0de0a0444aab0a1972ad79bf39~mv2.jpg"
 wixId: "33acbea8-8bab-4943-ade9-de8f839b1a87"
 author: "Sedat Onat"
 translated: false

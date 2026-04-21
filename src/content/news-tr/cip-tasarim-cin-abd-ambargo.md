@@ -3,7 +3,7 @@ title: "ABD, Çin’e Çip Tasarım Yazılımları ve Kimyasal Ürün İhracatı
 subtitle: "ABD, Çin’e Çip Tasarım Yazılımları ve Kimyasal Ürün İhracatına Yeni Kısıtlamalar Getirdi"
 date: "2025-05-29T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_520ef35fe21247ef96731fc6d0950188~mv2.jpg/chip design mainboard.jpg"
+image: "https://static.wixstatic.com/media/6c3915_520ef35fe21247ef96731fc6d0950188~mv2.jpg"
 imageAlt: "ABD, Çin’e Çip Tasarım Yazılımları ve Kimyasal Ürün İhracatına Yeni Kısıtlamalar Getirdi"
 wixId: "c844bfdc-6860-47e4-a81c-3a1b98f77eb6"
 author: "Sedat Onat"

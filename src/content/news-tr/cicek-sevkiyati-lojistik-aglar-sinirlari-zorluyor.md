@@ -3,7 +3,7 @@ title: "Çiçek Sevkiyatındaki Zorlu Maraton: Lojistik Ağlar Sınırlarını Z
 subtitle: "Çiçek Sevkiyatındaki Zorlu Maraton: Lojistik Ağlar Sınırlarını Zorluyor"
 date: "2024-04-29T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_702f93a1714d411680caad8c94219579~mv2.png/News - 2024-04-29 - Flower.png"
+image: "https://static.wixstatic.com/media/6c3915_702f93a1714d411680caad8c94219579~mv2.png"
 imageAlt: "Çiçek Sevkiyatındaki Zorlu Maraton: Lojistik Ağlar Sınırlarını Zorluyor"
 wixId: "be489a69-7a70-4557-8abe-89082cc6d12b"
 author: "Sedat Onat"

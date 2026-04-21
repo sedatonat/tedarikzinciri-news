@@ -3,7 +3,7 @@ title: "PITT OHIO, Yapay Zeka Destekli Sistemle 11 Milyon Dolar Tasarruf Sağlad
 subtitle: "PITT OHIO, Yapay Zeka Destekli Sistemle 11 Milyon Dolar Tasarruf Sağladı"
 date: "2024-11-04T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_45572e24b87c401299989e6c6017ccef~mv2.jpg/News - 2024-11-04 - AI Boost.jpg"
+image: "https://static.wixstatic.com/media/6c3915_45572e24b87c401299989e6c6017ccef~mv2.jpg"
 imageAlt: "PITT OHIO, Yapay Zeka Destekli Sistemle 11 Milyon Dolar Tasarruf Sağladı"
 wixId: "94a4d5df-9378-4786-acf6-fa6ffaad3d02"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "BMW'nin Yasaklı Tedarikçiden Parça Kullanarak ABD'ye Mini Cooper İhr
 subtitle: "BMW'nin Yasaklı Tedarikçiden Parça Kullanarak ABD'ye Mini Cooper İhracatı"
 date: "2024-05-23T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_e17764650e60469a918e15e8343bd611~mv2.jpg/News - 2024-05-23 - Mini Cooper.jpg"
+image: "https://static.wixstatic.com/media/6c3915_e17764650e60469a918e15e8343bd611~mv2.jpg"
 imageAlt: "BMW'nin Yasaklı Tedarikçiden Parça Kullanarak ABD'ye Mini Cooper İhracatı"
 wixId: "e7f1dec1-8a01-481a-b510-22315f121c60"
 author: "Sedat Onat"

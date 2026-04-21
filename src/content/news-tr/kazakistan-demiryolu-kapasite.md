@@ -3,7 +3,7 @@ title: "Kazakistan, Kritik Demiryolu Sınır Kapısında Kapasiteyi %40 Artırd�
 subtitle: "Kazakistan, Kritik Demiryolu Sınır Kapısında Kapasiteyi %40 Artırdı"
 date: "2025-12-16T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_afaa546484b1487589bbb345dffd5d8b~mv2.jpg/kazakhstan altynkol.jpg"
+image: "https://static.wixstatic.com/media/6c3915_afaa546484b1487589bbb345dffd5d8b~mv2.jpg"
 imageAlt: "Kazakistan’ın Altynkol–Khorgos demiryolu sınır hattında yaptığı yatırımlarla Asia–Europe rail routes üzerindeki kapasiteyi artırmasını, tıkanıklıkları azaltmasını ve transit performansı güçlendirmesini ele alan detaylı sektör özeti"
 wixId: "fa9f7d97-ff33-4f84-9ed2-e28d3a379e9b"
 author: "Sedat Onat"

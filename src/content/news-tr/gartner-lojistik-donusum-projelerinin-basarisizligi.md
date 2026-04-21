@@ -3,7 +3,7 @@ title: "Gartner: Lojistik dönüşüm projelerinin %76'sı asla tam olarak başa
 subtitle: "Gartner: Lojistik dönüşüm projelerinin %76'sı asla tam olarak başarılı olmuyor"
 date: "2024-08-02T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6a478487291245b69317404245e944c6~mv2.png/News - 2024-08-02 - Gartner.png"
+image: "https://static.wixstatic.com/media/6c3915_6a478487291245b69317404245e944c6~mv2.png"
 imageAlt: "Gartner: Lojistik dönüşüm projelerinin %76'sı asla tam olarak başarılı olmuyor"
 wixId: "5a166f5f-662e-4233-8e31-1a191284e35f"
 author: "Sedat Onat"

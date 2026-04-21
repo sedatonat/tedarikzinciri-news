@@ -3,7 +3,7 @@ title: "Bileşen Satışlarında Patent Tükenmesi: Üretici İçin Yeni Riskler
 subtitle: "Bileşen Satışlarında Patent Tükenmesi: Üretici İçin Yeni Riskler"
 date: "2025-09-05T00:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_dcb21957fb1d4da59bc604d54f8af9f7~mv2.png/651.png"
+image: "https://static.wixstatic.com/media/6c3915_dcb21957fb1d4da59bc604d54f8af9f7~mv2.png"
 imageAlt: "Bileşen Satışlarında Patent Tükenmesi: Üretici İçin Yeni Riskler"
 wixId: "ea3c5501-9a16-4fe4-a056-eca8723fc01d"
 author: "Sedat Onat"

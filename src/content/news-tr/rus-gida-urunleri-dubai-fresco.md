@@ -3,7 +3,7 @@ title: "Rus Gıda Ürünlerinin İlk Soğutmalı Konteyneri Moskova'dan Dubai'ye
 subtitle: "Rus Gıda Ürünlerinin İlk Soğutmalı Konteyneri Moskova'dan Dubai'ye Gönderildi"
 date: "2025-01-28T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ac444aa20f584f48aa36dad6a9c60a5a~mv2.jpg/News - 2025-01-28 - Fresco.jpg"
+image: "https://static.wixstatic.com/media/6c3915_ac444aa20f584f48aa36dad6a9c60a5a~mv2.jpg"
 imageAlt: "Rus Gıda Ürünlerinin İlk Soğutmalı Konteyneri Moskova'dan Dubai'ye Gönderildi"
 wixId: "0813a308-728a-488a-af72-efb89f977e59"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "CMA CGM, Hamburg CTH Terminalinde %20 Hisse Alarak Avrupa Altyapı Ağı
 subtitle: "CMA CGM, Hamburg CTH Terminalinde %20 Hisse Alarak Avrupa Altyapı Ağını Güçlendiriyor"
 date: "2025-11-13T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6637de6aac754660a7a3e09de7e26b8f~mv2.jpg/eurogate_container_terminal_hamburg_-_cma_cgm_group.jpg"
+image: "https://static.wixstatic.com/media/6c3915_6637de6aac754660a7a3e09de7e26b8f~mv2.jpg"
 imageAlt: "CMA CGM, EUROGATE Container Terminal Hamburg (CTH)’de %20 hisse almak için anlaşma imzalayarak terminal kapasitesinin 4 milyondan 6 milyon TEU’ya çıkarılacağı genişleme projesine katılıyor ve Hamburg’daki Avrupa lojistik ağını güçlendiriyor."
 wixId: "f4029793-dab1-4216-8454-fac0fc0f788d"
 author: "Sedat Onat"

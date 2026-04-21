@@ -3,7 +3,7 @@ title: "Suudi Arabistan, Yatırım Stratejisini Yeniden Şekillendirirken Lojist
 subtitle: "Suudi Arabistan, Yatırım Stratejisini Yeniden Şekillendirirken Lojistiğe Yöneliyor"
 date: "2025-10-30T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d8a5d280ccd240138d6e72ef68c7be67~mv2.jpg/saudi arabia logistics .jpg"
+image: "https://static.wixstatic.com/media/6c3915_d8a5d280ccd240138d6e72ef68c7be67~mv2.jpg"
 imageAlt: "Suudi Arabistan, Kızıldeniz’deki jeopolitik riskler ve küresel tedarik zinciri kesintileri nedeniyle yatırım odağını emlak megaproje projelerinden denizcilik ve lojistik altyapısına kaydırıyor. Krallık, Vision 2030 hedefleri kapsamında liman, lojistik merkez ve deniz taşımacılığı yatırımlarına öncelik veriyor."
 wixId: "3c1f4de6-4057-4b3d-9e9a-26bb8bf8fba6"
 author: "Sedat Onat"

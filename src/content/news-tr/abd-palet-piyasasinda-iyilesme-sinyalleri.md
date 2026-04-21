@@ -3,7 +3,7 @@ title: "ABD Palet Piyasasında İyileşme Sinyalleri: İlk Çeyrek Anket Sonuçl
 subtitle: "ABD Palet Piyasasında İyileşme Sinyalleri: İlk Çeyrek Anket Sonuçları"
 date: "2024-05-29T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_ba5fdbbf88f94607b59bab8d244e28c3~mv2.png/News - 2024-05-29 - Pallet.png"
+image: "https://static.wixstatic.com/media/6c3915_ba5fdbbf88f94607b59bab8d244e28c3~mv2.png"
 imageAlt: "ABD Palet Piyasasında İyileşme Sinyalleri: İlk Çeyrek Anket Sonuçları"
 wixId: "268c27b7-868c-430a-8fcb-e59d73c428c0"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Çin'in PVH Corp'a Yönelik Soruşturması: Sincan Pamuğu Boykotu ve Ol
 subtitle: "Çin'in PVH Corp'a Yönelik Soruşturması: Sincan Pamuğu Boykotu ve Olası Sonuçları​"
 date: "2025-01-24T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_95d327c11ba845b2abb04923b5a74da2~mv2.jpg/News - 2025-01-24 - Calvin Clein.jpg"
+image: "https://static.wixstatic.com/media/6c3915_95d327c11ba845b2abb04923b5a74da2~mv2.jpg"
 imageAlt: "Çin'in PVH Corp'a Yönelik Soruşturması: Sincan Pamuğu Boykotu ve Olası Sonuçları​"
 wixId: "d1ca62b5-9cb4-4975-9b4f-32804e683179"
 author: "Sedat Onat"

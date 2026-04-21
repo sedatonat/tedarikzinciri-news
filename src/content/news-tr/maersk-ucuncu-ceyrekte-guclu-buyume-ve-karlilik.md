@@ -3,7 +3,7 @@ title: "Maersk, Üçüncü Çeyrekte Güçlü Büyüme ve Karlılık Artışı K
 subtitle: "Maersk, Üçüncü Çeyrekte Güçlü Büyüme ve Karlılık Artışı Kaydetti"
 date: "2024-10-31T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8d937e75e068482c8796dbc986637172~mv2.jpg/News - 2024-10-31 - Maersk.jpg"
+image: "https://static.wixstatic.com/media/6c3915_8d937e75e068482c8796dbc986637172~mv2.jpg"
 imageAlt: "Maersk, Üçüncü Çeyrekte Güçlü Büyüme ve Karlılık Artışı Kaydetti"
 wixId: "2f99ff05-fb9b-44e6-91bb-4dceaa38ad72"
 author: "Sedat Onat"

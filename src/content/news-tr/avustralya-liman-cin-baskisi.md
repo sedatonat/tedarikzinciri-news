@@ -3,7 +3,7 @@ title: "Avustralya Liman Operasyonları Çin Askeri Faaliyetleri Nedeniyle Bask�
 subtitle: "Avustralya Liman Operasyonları Çin Askeri Faaliyetleri Nedeniyle Baskı Altında"
 date: "2025-03-09T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_619b57458b9e426bb23f8c4a527e1417~mv2.png/News - 2025-03-09 - Autralian Ports.png"
+image: "https://static.wixstatic.com/media/6c3915_619b57458b9e426bb23f8c4a527e1417~mv2.png"
 imageAlt: "Avustralya Liman Operasyonları Çin Askeri Faaliyetleri Nedeniyle Baskı Altında"
 wixId: "09a77c2d-dbae-4518-bdc8-bbfcf35b676e"
 author: "Sedat Onat"

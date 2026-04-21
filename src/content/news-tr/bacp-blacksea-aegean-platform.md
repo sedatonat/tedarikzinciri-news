@@ -3,7 +3,7 @@ title: "Yunanistan, Bulgaristan ve Romanya Yeni Kara Deniz–Ege Koridor Platfor
 subtitle: "Yunanistan, Bulgaristan ve Romanya Yeni Kara Deniz–Ege Koridor Platformunu Kurdu"
 date: "2025-12-05T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_17ce723270ad4622b700a5e60619301d~mv2.jpeg/The-EU-Transport-Commissioner-Tsitsikostas-with-the-Ministers-of-Transport-of-Greece-Bulga.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_17ce723270ad4622b700a5e60619301d~mv2.jpeg"
 imageAlt: "Greece–Bulgaria–Romania tarafından oluşturulan Black Sea–Aegean Sea Corridor Platform (BACP) girişiminin amaçları, sınır ötesi altyapı planlaması, AB entegrasyonu ve bölgesel lojistik etkilerine dair kapsamlı özet"
 wixId: "f8ff8efb-c4dd-4c07-b8f1-5fcdadc286cc"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Bureau Veritas, Denizcilikte Nükleer Teknolojileri Hızlandırmak İçi
 subtitle: "Bureau Veritas, Denizcilikte Nükleer Teknolojileri Hızlandırmak İçin İş Birliği Bildirisini İmzaladı"
 date: "2025-11-06T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_8d5c9626c3e14aa9bb40bc98c4dfb548~mv2.jpg/sea nuclear.jpg"
+image: "https://static.wixstatic.com/media/6c3915_8d5c9626c3e14aa9bb40bc98c4dfb548~mv2.jpg"
 imageAlt: "Bureau Veritas, 30’dan fazla Avrupa nükleer ve denizcilik kuruluşuyla birlikte küçük modüler reaktörler (SMR) ve nükleer teknolojilerin güvenli, sürdürülebilir ve düşük karbonlu denizcilik uygulamaları için hızlandırılmasını amaçlayan iş birliği deklarasyonunu imzaladı."
 wixId: "9b380eef-63e6-4635-8358-ae17522b2fe7"
 author: "Sedat Onat"

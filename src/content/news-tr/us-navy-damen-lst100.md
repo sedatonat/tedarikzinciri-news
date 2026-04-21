@@ -3,7 +3,7 @@ title: "ABD Donanması, Orta Sınıf Çıkarma Gemisi Programında Damen LST 100
 subtitle: "ABD Donanması, Orta Sınıf Çıkarma Gemisi Programında Damen LST 100 Tasarımını Seçti"
 date: "2025-12-10T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_224925880078463bbbf57c4726859638~mv2.jpg/us navy landing ship.jpg"
+image: "https://static.wixstatic.com/media/6c3915_224925880078463bbbf57c4726859638~mv2.jpg"
 imageAlt: "ABD Donanması’nın Medium Landing Ship (LSM) programı kapsamında Damen Shipyards Group’un LST 100 tasarımını seçmesi, 35 adede kadar geminin ABD tersanelerinde inşa edilmesi planı ve bu tercihin dağıtık deniz harekâtı doktrinine etkilerinin detaylı özeti"
 wixId: "469c5ec5-4e51-4180-93df-e9a2999cb7e1"
 author: "Sedat Onat"

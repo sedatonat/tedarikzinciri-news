@@ -3,7 +3,7 @@ title: "NorthStandard, BetterSea Ortaklığıyla FuelEU Uyumunu Kolaylaştırıy
 subtitle: "NorthStandard, BetterSea Ortaklığıyla FuelEU Uyumunu Kolaylaştırıyor"
 date: "2025-02-14T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_debd7dd6282144328c38f4427d184cb8~mv2.png/News - 2025-02-14 - FuelEU Northstandard.png"
+image: "https://static.wixstatic.com/media/6c3915_debd7dd6282144328c38f4427d184cb8~mv2.png"
 imageAlt: "NorthStandard, BetterSea Ortaklığıyla FuelEU Uyumunu Kolaylaştırıyor"
 wixId: "26ccc8f0-0aa1-4fab-b8b9-dc57aeae0c83"
 author: "Sedat Onat"

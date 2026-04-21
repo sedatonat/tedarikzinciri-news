@@ -3,7 +3,7 @@ title: "Drewry: 2026’da Ham Petrol Tankerleri Ürün Tankerlerini Geride Bıra
 subtitle: "Drewry: 2026’da Ham Petrol Tankerleri Ürün Tankerlerini Geride Bırakabilir"
 date: "2025-12-15T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_562a8145226d4dc6970f07b4b777c2ed~mv2.jpg/oil crude tanker.jpg"
+image: "https://static.wixstatic.com/media/6c3915_562a8145226d4dc6970f07b4b777c2ed~mv2.jpg"
 imageAlt: "Drewry’nin 2026 tanker piyasası görünümünde, sınırlı filo büyümesi ve stok dinamikleri nedeniyle crude tankers’ın product tankers’a kıyasla daha güçlü performans göstermesinin beklendiğini ele alan detaylı sektör özeti"
 wixId: "dd8ecf31-759c-4ac1-9d66-636802121c69"
 author: "Sedat Onat"

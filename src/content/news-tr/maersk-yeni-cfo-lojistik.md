@@ -3,7 +3,7 @@ title: "Maersk, Lojistik Kökenli Yeni CFO Atadı: Stratejik Odak Kara Lojistiğ
 subtitle: "Maersk, Lojistik Kökenli Yeni CFO Atadı: Stratejik Odak Kara Lojistiğine Kaymakta"
 date: "2025-12-12T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4677923e07094887b3e35a2e175f7f42~mv2.jpg/mersk container ship sailing tug boat.jpg"
+image: "https://static.wixstatic.com/media/6c3915_4677923e07094887b3e35a2e175f7f42~mv2.jpg"
 imageAlt: "A.P. Moller–Maersk’in yeni CFO olarak Robert Erni’yi ataması, lojistik geçmişinin şirketin kara lojistiği büyüme stratejisine etkisi, olası M&A sinyalleri ve yönetim kadrosundaki değişikliklerin detaylı özeti"
 wixId: "e5b764cd-877c-4afe-b402-f5c1044ddd0c"
 author: "Sedat Onat"

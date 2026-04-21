@@ -3,7 +3,7 @@ title: "Stena Line, Irish Sea Limanlarında Güvenliği Kamera Telematics Çöz�
 subtitle: "Stena Line, Irish Sea Limanlarında Güvenliği Kamera Telematics Çözümüyle Güçlendirdi"
 date: "2025-11-25T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_248914fddc7b45d595849b7e9b329eea~mv2.jpg/jonathan-Stena-Line.jpg"
+image: "https://static.wixstatic.com/media/6c3915_248914fddc7b45d595849b7e9b329eea~mv2.jpg"
 imageAlt: "Stena Line’ın Irish Sea limanlarında Camera Telematics’in çoklu kamera tabanlı video telematics sistemini uygulayarak operasyonel güvenliği, olay incelemelerini ve risk yönetimini geliştirmesine ilişkin detaylı haber özeti"
 wixId: "9706fc78-4557-4f15-bac5-6ffb0583fde6"
 author: "Sedat Onat"

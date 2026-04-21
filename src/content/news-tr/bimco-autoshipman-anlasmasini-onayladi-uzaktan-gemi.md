@@ -3,7 +3,7 @@ title: "BIMCO, Uzaktan Kontrol Edilen Gemiler İçin AUTOSHIPMAN Anlaşmasını 
 subtitle: "BIMCO, Uzaktan Kontrol Edilen Gemiler İçin AUTOSHIPMAN Anlaşmasını Onayladı"
 date: "2024-10-16T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a2a557e27b664a728dfd582e22d1d279~mv2.jpg/News - 2024-10-16 - Bimco.jpg"
+image: "https://static.wixstatic.com/media/6c3915_a2a557e27b664a728dfd582e22d1d279~mv2.jpg"
 imageAlt: "BIMCO, Uzaktan Kontrol Edilen Gemiler İçin AUTOSHIPMAN Anlaşmasını Onayladı"
 wixId: "30e6b74b-7d25-4e5c-906a-ba3672862bcd"
 author: "Sedat Onat"

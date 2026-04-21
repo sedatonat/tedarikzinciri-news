@@ -3,7 +3,7 @@ title: "Rusya’da Vagon Üretimi Daralıyor: UralVagonZavod İşgücünü Azalt
 subtitle: "Rusya’da Vagon Üretimi Daralıyor: UralVagonZavod İşgücünü Azaltmaya Hazırlanıyor"
 date: "2025-12-12T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0a19d329749a471d94b50f156e5744a8~mv2.jpg/The-Uralvagonzavod-building-in-Nizhny-Tagil.jpg"
+image: "https://static.wixstatic.com/media/6c3915_0a19d329749a471d94b50f156e5744a8~mv2.jpg"
 imageAlt: "RailFreight.com analizine göre Uralvagonzavod’un işten çıkarmalar, azalan sivil vagon talebi, askeri üretime kaydırma ve Rus demiryolu sektöründe oluşan vagon fazlası nedeniyle karşı karşıya kaldığı yapısal daralmanın detaylı özeti"
 wixId: "2d43237c-648d-49a1-a0fa-89c3dd7d7bc9"
 author: "Sedat Onat"

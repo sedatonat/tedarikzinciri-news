@@ -3,7 +3,7 @@ title: "2025'te Deniz Taşımacılığı Tedarik Zincirini İleriye Taşıyan Be
 subtitle: "2025'te Deniz Taşımacılığı Tedarik Zincirini İleriye Taşıyan Beş Eğilim"
 date: "2024-11-19T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_846a18d71502440995a341bab52ee50c~mv2.jpg/News - 2024-11-19 - Maritime.jpg"
+image: "https://static.wixstatic.com/media/6c3915_846a18d71502440995a341bab52ee50c~mv2.jpg"
 imageAlt: "2025'te Deniz Taşımacılığı Tedarik Zincirini İleriye Taşıyan Beş Eğilim"
 wixId: "16eb623b-04bf-4774-b095-b4f78fe6d5f2"
 author: "Sedat Onat"

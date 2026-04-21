@@ -3,7 +3,7 @@ title: "Bulgar Armatör, Denizaltı Kablosuna Verilen Zararı Kasıtlı Olarak Y
 subtitle: "Bulgar Armatör, Denizaltı Kablosuna Verilen Zararı Kasıtlı Olarak Yapmadığını İddia Ediyor"
 date: "2025-01-29T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7fe2794f856e488589aa745f7ccea9b5~mv2.jpg/News - 2025-01-29 - DHL.jpg"
+image: "https://static.wixstatic.com/media/6c3915_7fe2794f856e488589aa745f7ccea9b5~mv2.jpg"
 imageAlt: "Bulgar Armatör, Denizaltı Kablosuna Verilen Zararı Kasıtlı Olarak Yapmadığını İddia Ediyor"
 wixId: "711f245a-4e93-44e3-97c2-950c7a10ccc4"
 author: "Sedat Onat"

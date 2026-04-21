@@ -3,7 +3,7 @@ title: "Methanolle Çalışan İlk Konteyner Gemisi ‘Ane Maersk’, Hamburg'a 
 subtitle: "Methanolle Çalışan İlk Konteyner Gemisi ‘Ane Maersk’, Hamburg'a Uğradı"
 date: "2024-03-28T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d3313b8a07d6458a82bd65f66776deac~mv2.jpg/News - 2024-03-28 - Maersk.jpg"
+image: "https://static.wixstatic.com/media/6c3915_d3313b8a07d6458a82bd65f66776deac~mv2.jpg"
 imageAlt: "Methanolle Çalışan İlk Konteyner Gemisi ‘Ane Maersk’, Hamburg'a Uğradı"
 wixId: "f340cdbf-5e2e-4faf-8874-b0c79b8bc591"
 author: "Sedat Onat"

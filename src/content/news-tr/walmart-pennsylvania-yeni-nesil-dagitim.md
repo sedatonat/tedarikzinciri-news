@@ -3,7 +3,7 @@ title: "Walmart, Pennsylvania'da 1,5M m2'lik  Yeni Nesil Dağıtım Merkezini A�
 subtitle: "Walmart, Pennsylvania'da 1,5M m2'lik  Yeni Nesil Dağıtım Merkezini Açtı"
 date: "2024-05-17T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_5152d0ebe89a42469466d08e56f60ed9~mv2.jpeg/News - 2024-05-17 - Walmart.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_5152d0ebe89a42469466d08e56f60ed9~mv2.jpeg"
 imageAlt: "Walmart, Pennsylvania'da 1,5M m2'lik  Yeni Nesil Dağıtım Merkezini Açtı"
 wixId: "f94b83ce-3354-4135-ad80-bf4a0bae0556"
 author: "Sedat Onat"

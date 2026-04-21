@@ -3,7 +3,7 @@ title: "Denizcilik Sektöründe İstihdamın Sürdürülebilirliği İçin ISWAN
 subtitle: "Denizcilik Sektöründe İstihdamın Sürdürülebilirliği İçin ISWAN'dan Çağrı"
 date: "2024-05-13T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_410c34e78e7a4a4eae1928b52a06e319~mv2.jpg/News - 2024-05-13 - ISWAN.jpg"
+image: "https://static.wixstatic.com/media/6c3915_410c34e78e7a4a4eae1928b52a06e319~mv2.jpg"
 imageAlt: "Denizcilik Sektöründe İstihdamın Sürdürülebilirliği İçin ISWAN'dan Çağrı"
 wixId: "b5cd5510-750f-40b3-ad08-38f2629f46ae"
 author: "Sedat Onat"

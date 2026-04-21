@@ -3,7 +3,7 @@ title: "Project44, Nakliye Yazılımına Elektronik Konşimento (eBOL) İmkanı 
 subtitle: "Project44, Nakliye Yazılımına Elektronik Konşimento (eBOL) İmkanı Ekliyor"
 date: "2024-07-03T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_5554ffa5fcbf45e8a65c96925126c8de~mv2.png/News - 2024-07-03 - eBOL.png"
+image: "https://static.wixstatic.com/media/6c3915_5554ffa5fcbf45e8a65c96925126c8de~mv2.png"
 imageAlt: "Project44, Nakliye Yazılımına Elektronik Konşimento (eBOL) İmkanı Ekliyor"
 wixId: "4fae07f7-820e-4739-84f6-1d54fe7003b8"
 author: "Sedat Onat"

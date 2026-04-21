@@ -3,7 +3,7 @@ title: "Ontario'dan Trump'ın Tarifelerine Karşı Elektrik İhracatına Vergi H
 subtitle: "Ontario'dan Trump'ın Tarifelerine Karşı Elektrik İhracatına Vergi Hamlesi"
 date: "2025-03-10T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_f61f9358337c4b478107d47e6f7e2a95~mv2.jpg/News - 2025-03-10 - Electric Tower.jpg"
+image: "https://static.wixstatic.com/media/6c3915_f61f9358337c4b478107d47e6f7e2a95~mv2.jpg"
 imageAlt: "Ontario'dan Trump'ın Tarifelerine Karşı Elektrik İhracatına Vergi Hamlesi"
 wixId: "28c042e3-2406-4025-b93b-89b732750608"
 author: "Sedat Onat"

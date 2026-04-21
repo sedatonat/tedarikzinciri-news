@@ -3,7 +3,7 @@ title: "Şirketler Tedarikte Daha Fazla Küçük ve Yerel Tedarikçiye Yöneliyo
 subtitle: "Şirketler Tedarikte Daha Fazla Küçük ve Yerel Tedarikçiye Yöneliyor"
 date: "2025-12-10T09:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_fc9271da527a48ebbd3989876153e051~mv2.jpg/shelf man picking product.jpg"
+image: "https://static.wixstatic.com/media/6c3915_fc9271da527a48ebbd3989876153e051~mv2.jpg"
 imageAlt: "Supplier.io’nun 2025 State of Supplier Diversity Report’una göre şirketlerin artan tarifeler, jeopolitik riskler ve tedarik zinciri kırılganlığı nedeniyle küçük ve yerel tedarikçileri stratejik kaynak olarak konumlandırmasına dair kapsamlı özet"
 wixId: "176f47c0-5749-46e2-8f04-02bfb338ca16"
 author: "Sedat Onat"

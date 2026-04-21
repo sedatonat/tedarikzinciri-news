@@ -3,7 +3,7 @@ title: "Uzay Lojistiği İçin Yeni Gemi Projesi Project Cargo Pazarını Hedefl
 subtitle: "Uzay Lojistiği İçin Yeni Gemi Projesi Project Cargo Pazarını Hedefliyor"
 date: "2025-12-16T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_473ac77eda874139aa877856fa213a7a~mv2.jpg/MN cargo vessel ship blue sailing.jpg"
+image: "https://static.wixstatic.com/media/6c3915_473ac77eda874139aa877856fa213a7a~mv2.jpg"
 imageAlt: "Compagnie Maritime Nantaise, büyüyen uzay lojistiği ve project cargo pazarına hizmet etmek üzere, yüksek hassasiyetli ve özel tasarıma sahip yeni bir gemi inşa etmeyi planlıyor."
 wixId: "0078607a-cced-49ea-946f-63d06c8225b8"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "ABD Liman Vergisi Okyanus Hizmetlerini Altüst Edebilir, Gönderici Mali
 subtitle: "ABD Liman Vergisi Okyanus Hizmetlerini Altüst Edebilir, Gönderici Maliyetlerini Artırabilir: Drewry"
 date: "2025-02-02T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5bd60a62c49441f7ad5914e48e0f33cd~mv2.jpg/News - 2025-02-27 - Drewry Port Tax.jpg"
+image: "https://static.wixstatic.com/media/6c3915_5bd60a62c49441f7ad5914e48e0f33cd~mv2.jpg"
 imageAlt: "ABD Liman Vergisi Okyanus Hizmetlerini Altüst Edebilir, Gönderici Maliyetlerini Artırabilir: Drewry"
 wixId: "d14a1454-bbbf-40fa-927b-99fa7d33b4c0"
 author: "Sedat Onat"

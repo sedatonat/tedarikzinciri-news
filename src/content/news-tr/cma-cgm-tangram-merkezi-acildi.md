@@ -3,7 +3,7 @@ title: "CMA CGM'den Yenilik ve Eğitim Hamlesi: Marseilles'te Tangram Merkezi A�
 subtitle: "CMA CGM'den Yenilik ve Eğitim Hamlesi: Marseilles'te Tangram Merkezi Açıldı"
 date: "2024-05-08T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1852d82e700b443296ba90fb2bcb31df~mv2.png/News - 2024-05-08 - CMA CGM.png"
+image: "https://static.wixstatic.com/media/6c3915_1852d82e700b443296ba90fb2bcb31df~mv2.png"
 imageAlt: "CMA CGM'den Yenilik ve Eğitim Hamlesi: Marseilles'te Tangram Merkezi Açıldı"
 wixId: "4e3b72f9-88e0-4ae9-abe2-25a7d3d7c466"
 author: "Sedat Onat"

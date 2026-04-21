@@ -3,7 +3,7 @@ title: "Panama, İngiltere’nin Shadow Fleet Operasyonunun Ardından Gemi Kayı
 subtitle: "Panama, İngiltere’nin Shadow Fleet Operasyonunun Ardından Gemi Kayıtlarını İptal Etti"
 date: "2024-11-29T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_48f8b4dbc0d441398bd67b0565fd4d2e~mv2.jpg/News - 2024-11-29 - Panama.jpg"
+image: "https://static.wixstatic.com/media/6c3915_48f8b4dbc0d441398bd67b0565fd4d2e~mv2.jpg"
 imageAlt: "Panama, İngiltere’nin Shadow Fleet Operasyonunun Ardından Gemi Kayıtlarını İptal Etti"
 wixId: "ef735985-bfd8-47a1-b87d-791419544db4"
 author: "Sedat Onat"

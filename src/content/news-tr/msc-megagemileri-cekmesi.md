@@ -3,7 +3,7 @@ title: "MSC'nin Asya-Kuzey Avrupa Ağından Megagemileri Çekmesi: Alphaliner​
 subtitle: "MSC'nin Asya-Kuzey Avrupa Ağından Megagemileri Çekmesi: Alphaliner​"
 date: "2025-02-27T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d732591c97ac4abe935f5abf08167ebb~mv2.jpg/News - 2025-02-27 - MSC.jpg"
+image: "https://static.wixstatic.com/media/6c3915_d732591c97ac4abe935f5abf08167ebb~mv2.jpg"
 imageAlt: "MSC'nin Asya-Kuzey Avrupa Ağından Megagemileri Çekmesi: Alphaliner​"
 wixId: "2eb4f093-0780-4378-ad40-208c4e73e862"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "2025 Yeniden Yapılanmasının Ardından Ocean Alliance, Küresel Kontey
 subtitle: "2025 Yeniden Yapılanmasının Ardından Ocean Alliance, Küresel Konteyner Taşımacılığında Liderliğini Pekiştirdi"
 date: "2025-10-16T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8c863f83b51c4849bb18ae108ec1d0ff~mv2.jpg/Ocean Allience - 2025-10.jpg"
+image: "https://static.wixstatic.com/media/6c3915_8c863f83b51c4849bb18ae108ec1d0ff~mv2.jpg"
 imageAlt: "2025 Yeniden Yapılanmasının Ardından Ocean Alliance, Küresel Konteyner Taşımacılığında Liderliğini Pekiştirdi"
 wixId: "3010b7d6-4087-4392-91b1-4f6a06f6c64a"
 author: "Sedat Onat"

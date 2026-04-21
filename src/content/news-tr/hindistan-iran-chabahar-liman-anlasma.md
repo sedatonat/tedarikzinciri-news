@@ -3,7 +3,7 @@ title: "Chabahar Limanı için Hindistan ve İran Arasında 10 Yıllık Anlaşma
 subtitle: "Chabahar Limanı için Hindistan ve İran Arasında 10 Yıllık Anlaşma"
 date: "2024-05-14T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_dfaea3d5c82345d6b0638d1e5fdd0556~mv2.jpg/News - 2024-05-14 - Chabanhar.jpg"
+image: "https://static.wixstatic.com/media/6c3915_dfaea3d5c82345d6b0638d1e5fdd0556~mv2.jpg"
 imageAlt: "Chabahar Limanı için Hindistan ve İran Arasında 10 Yıllık Anlaşma"
 wixId: "2095eef1-7562-46c2-86a9-02f2d772b2f1"
 author: "Sedat Onat"

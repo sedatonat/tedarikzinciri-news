@@ -3,7 +3,7 @@ title: "Z Kuşağının Ustalık Mesleklerine Yönelişi: Tedarik Zinciri İçin
 subtitle: "Z Kuşağının Ustalık Mesleklerine Yönelişi: Tedarik Zinciri İçin Fırsat"
 date: "2025-03-04T00:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_ba24a5282df9417488ba4d0e0692c706~mv2.png/833.png"
+image: "https://static.wixstatic.com/media/6c3915_ba24a5282df9417488ba4d0e0692c706~mv2.png"
 imageAlt: "Gen Z’nin Ustalık Mesleklerine Yönelişi: Tedarik Zinciri İçin Fırsat"
 wixId: "08e9c2f6-da00-4fb0-b2e8-0d9411d50efd"
 author: "Sedat Onat"

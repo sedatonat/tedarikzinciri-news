@@ -3,7 +3,7 @@ title: "Global Kriz Ortamında Mikroçip Tedarikini Güvence Altına Almanın Ü
 subtitle: "Global Kriz Ortamında Mikroçip Tedarikini Güvence Altına Almanın Üç Yolu"
 date: "2024-05-02T09:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_aa28513e0d7d482d878f6b7ccb621aef~mv2.jpg/News - 2024-05-02 - Microchip.jpg"
+image: "https://static.wixstatic.com/media/6c3915_aa28513e0d7d482d878f6b7ccb621aef~mv2.jpg"
 imageAlt: "Global Kriz Ortamında Mikroçip Tedarikini Güvence Altına Almanın Üç Yolu"
 wixId: "c267c96f-842c-44e4-8238-3956de13edd9"
 author: "Sedat Onat"

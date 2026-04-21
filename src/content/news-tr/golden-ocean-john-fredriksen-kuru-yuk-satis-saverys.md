@@ -3,7 +3,7 @@ title: "Fredriksen Kuru Yükten Çekildi ve Golden Ocean'ı Saverys Ailesine Sat
 subtitle: "Fredriksen Kuru Yükten Çekildi ve Golden Ocean'ı Saverys Ailesine Sattı"
 date: "2025-03-05T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7d9e9b8d33944b1f9c0cd00da95143bb~mv2.jpeg/News - 2025-03-05 - Golden Ocean.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_7d9e9b8d33944b1f9c0cd00da95143bb~mv2.jpeg"
 imageAlt: "Fredriksen Kuru Yükten Çekildi ve Golden Ocean'ı Saverys Ailesine Sattı"
 wixId: "cd6c6034-8f54-4486-b852-ed30108dd766"
 author: "Sedat Onat"

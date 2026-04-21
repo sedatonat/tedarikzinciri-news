@@ -3,7 +3,7 @@ title: "Volvo ve Westport'tan Yenilenebilir Yakıtlı Araçlar için Stratejik O
 subtitle: "Volvo ve Westport'tan Yenilenebilir Yakıtlı Araçlar için Stratejik Ortaklık"
 date: "2024-06-04T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9a4674647b384d6b8d4a54551d68b682~mv2.jpg/News - 2024-06-04 - Volvo.jpg"
+image: "https://static.wixstatic.com/media/6c3915_9a4674647b384d6b8d4a54551d68b682~mv2.jpg"
 imageAlt: "Volvo ve Westport'tan Yenilenebilir Yakıtlı Araçlar için Stratejik Ortaklık"
 wixId: "8129fe90-62f7-4e0d-accd-19081171f0a1"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Tesla, Trump'ın Ticaret Savaşının Misilleme ve Maliyet Risklerine Ka
 subtitle: "Tesla, Trump'ın Ticaret Savaşının Misilleme ve Maliyet Risklerine Karşı Uyardı"
 date: "2025-03-14T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_f8b95e6d48644c80b252e5edc5d81dc5~mv2.jpg/News - 2025-03-14 - Tesla.jpg"
+image: "https://static.wixstatic.com/media/6c3915_f8b95e6d48644c80b252e5edc5d81dc5~mv2.jpg"
 imageAlt: "Tesla, Trump'ın Ticaret Savaşının Misilleme ve Maliyet Risklerine Karşı Uyardı"
 wixId: "16fb43a5-86f6-4e23-996d-2aeb27262617"
 author: "Sedat Onat"

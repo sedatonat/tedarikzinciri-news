@@ -3,7 +3,7 @@ title: "Marks & Spencer: Siber Saldırı Maliyeti 300 Milyon Sterline Ulaşabili
 subtitle: "Marks & Spencer: Siber Saldırı Maliyeti 300 Milyon Sterline Ulaşabilir"
 date: "2025-05-21T00:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_1a0171d722894b58858522f5a8f887c7~mv2.png/814.png"
+image: "https://static.wixstatic.com/media/6c3915_1a0171d722894b58858522f5a8f887c7~mv2.png"
 imageAlt: "Marks & Spencer: Siber Saldırı Maliyeti 300 Milyon Sterline Ulaşabilir"
 wixId: "f713aa72-305d-416f-b48a-fc37d74b45d8"
 author: "Sedat Onat"

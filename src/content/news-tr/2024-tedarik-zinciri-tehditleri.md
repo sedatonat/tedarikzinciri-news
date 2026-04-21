@@ -3,7 +3,7 @@ title: "2024 Tedarik Zinciri Tehditleri: Aşırı Hava Olaylarından Siber Suçl
 subtitle: "2024 Tedarik Zinciri Tehditleri: Aşırı Hava Olaylarından Siber Suçlara"
 date: "2024-01-04T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_defb14b60e824a028351322cdbbebf67~mv2.png/News - 2024-01-04 - Everstream.png"
+image: "https://static.wixstatic.com/media/6c3915_defb14b60e824a028351322cdbbebf67~mv2.png"
 imageAlt: "2024 Tedarik Zinciri Tehditleri: Aşırı Hava Olaylarından Siber Suçlara"
 wixId: "1bb7c556-9021-474c-ad6a-605d500c2e83"
 author: "Sedat Onat"

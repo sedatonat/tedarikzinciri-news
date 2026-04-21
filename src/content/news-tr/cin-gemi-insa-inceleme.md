@@ -3,7 +3,7 @@ title: "Çin'in Gemi İnşa Sektöründeki Haksız Uygulamaları ABD Tarafından
 subtitle: "Çin'in Gemi İnşa Sektöründeki Haksız Uygulamaları ABD Tarafından İnceleniyor"
 date: "2025-01-13T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1238d6e4ea9a4a6095cd22ff521b5192~mv2.jpg/News - 2025-01-13 - Chainesse Ship.jpg"
+image: "https://static.wixstatic.com/media/6c3915_1238d6e4ea9a4a6095cd22ff521b5192~mv2.jpg"
 imageAlt: "Çin'in Gemi İnşa Sektöründeki Haksız Uygulamaları ABD Tarafından İnceleniyor"
 wixId: "c3451dc1-35bb-4cd5-8e63-6621c2437c86"
 author: "Sedat Onat"

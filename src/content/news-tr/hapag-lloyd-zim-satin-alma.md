@@ -3,7 +3,7 @@ title: "Hapag-Lloyd’un ZIM’i Satın Alma Girişimi Siyasi ve Güvenlik Engel
 subtitle: "Hapag-Lloyd’un ZIM’i Satın Alma Girişimi Siyasi ve Güvenlik Engelleri Nedeniyle Zayıf Görülüyor"
 date: "2025-12-04T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1d6b7e365f514c9381698fc7582f5ee1~mv2.jpg/konteyner gemisi zim line.jpg"
+image: "https://static.wixstatic.com/media/6c3915_1d6b7e365f514c9381698fc7582f5ee1~mv2.jpg"
 imageAlt: "Hapag-Lloyd’un ZIM için sunduğu satın alma teklifinin, İsrail devletinin “special state share” yetkisi, Katar–Suudi hissedar yapısı ve ZIM çalışanlarının ulusal güvenlik itirazları nedeniyle neden düşük başarı şansına sahip olduğuna dair detaylı analiz"
 wixId: "f5a20693-bd44-406c-b3fa-b81cff70bd85"
 author: "Sedat Onat"

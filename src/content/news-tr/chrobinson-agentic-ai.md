@@ -3,7 +3,7 @@ title: "C.H. Robinson, Yapay Zekâ Destekli “Agentic Supply Chain” ile Lojis
 subtitle: "C.H. Robinson, Yapay Zekâ Destekli “Agentic Supply Chain” ile Lojistikte Yeni Bir Dönem Başlattı"
 date: "2025-10-27T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/nsplsh_e75c298a94764892bc13f014d6ff0676~mv2.jpg/Image by Steve Johnson.jpg"
+image: "https://static.wixstatic.com/media/nsplsh_e75c298a94764892bc13f014d6ff0676~mv2.jpg"
 imageAlt: "C.H. Robinson, “Agentic Supply Chain” adını verdiği yapay zekâ tabanlı ekosistemle küresel lojistik yönetiminde gerçek zamanlı karar alma, kendi kendini optimize eden operasyonlar ve Lean AI yaklaşımını birleştirerek sektörde yeni bir standart belirledi."
 wixId: "50a9ca90-32cb-4fd9-a745-57ac0cfd4de2"
 author: "Sedat Onat"

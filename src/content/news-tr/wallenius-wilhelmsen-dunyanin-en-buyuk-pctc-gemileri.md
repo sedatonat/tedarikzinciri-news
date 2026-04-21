@@ -3,7 +3,7 @@ title: "Wallenius Wilhelmsen, Dünyanın En Büyük PCTC Gemilerini İnşa Ediyo
 subtitle: "Wallenius Wilhelmsen, Dünyanın En Büyük PCTC Gemilerini İnşa Ediyor"
 date: "2024-09-27T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b79c188e9c454c3bb6a6881dee143eae~mv2.jpg/News - 2024-09-27 - PCTC.jpg"
+image: "https://static.wixstatic.com/media/6c3915_b79c188e9c454c3bb6a6881dee143eae~mv2.jpg"
 imageAlt: "Wallenius Wilhelmsen, Dünyanın En Büyük PCTC Gemilerini İnşa Ediyor"
 wixId: "fde3d8e5-3211-4fb7-b517-13a6df4b8b41"
 author: "Sedat Onat"

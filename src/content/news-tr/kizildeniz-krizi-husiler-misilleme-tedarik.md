@@ -3,7 +3,7 @@ title: "Kızıldeniz Krizi: Husilerin Misilleme Harekatı ve Küresel Tedarik Zi
 subtitle: "Kızıldeniz Krizi: Husilerin Misilleme Harekatı ve Küresel Tedarik Zincirine Etkisi"
 date: "2024-01-12T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_6092893ef44b4344bcf21345a8d549e3~mv2.jpeg/News - 2024-01-12 - Yemen.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_6092893ef44b4344bcf21345a8d549e3~mv2.jpeg"
 imageAlt: "Kızıldeniz Krizi: Husilerin Misilleme Harekatı ve Küresel Tedarik Zincirine Etkisi"
 wixId: "74a5178a-ccc0-4d65-aa79-5433c646370d"
 author: "Sedat Onat"

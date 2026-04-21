@@ -3,7 +3,7 @@ title: "Gartner 'ın Raporuna Göre, Satınalma Yöneticileri Yetenek Anketi Yay
 subtitle: "Gartner 'ın Raporuna Göre, Satınalma Yöneticileri Yetenek Anketi Yayınlandı"
 date: "2023-11-29T09:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_655743bebb7d4029839093b61c815948~mv2.png/News - 2023-11-29 - Gartner Anket.png"
+image: "https://static.wixstatic.com/media/6c3915_655743bebb7d4029839093b61c815948~mv2.png"
 imageAlt: "Gartner 'ın Raporuna Göre, Satınalma Yöneticileri Yetenek Anketi Yayınlandı"
 wixId: "8bf765b8-f9ed-4af9-bf47-ee463fea85e4"
 author: "Sedat Onat"

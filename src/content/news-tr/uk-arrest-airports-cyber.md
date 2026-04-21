@@ -3,7 +3,7 @@ title: "Avrupa Havaalanlarına Yapılan Siber Saldırı Soruşturmasında İngil
 subtitle: "Avrupa Havaalanlarına Yapılan Siber Saldırı Soruşturmasında İngiltere’de Gözaltı"
 date: "2025-09-14T00:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_50f0702cc9d947c4b28ac43586d15220~mv2.png/844.png"
+image: "https://static.wixstatic.com/media/6c3915_50f0702cc9d947c4b28ac43586d15220~mv2.png"
 imageAlt: "Avrupa Havaalanlarına Yapılan Siber Saldırı Soruşturmasında İngiltere’de Gözaltı"
 wixId: "8445c2c4-8d1f-4d7d-89a9-d089af24a701"
 author: "Sedat Onat"

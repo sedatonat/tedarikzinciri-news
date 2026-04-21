@@ -3,7 +3,7 @@ title: "Baltic Klipper Şiddetli Hava Koşullarında 16–18 Konteyner Kaybetti:
 subtitle: "Baltic Klipper Şiddetli Hava Koşullarında 16–18 Konteyner Kaybetti: Solent Trafiği ve Sahil Güvenliği Alarmda"
 date: "2025-12-08T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1fd79017ce3b464bb7c8c1f0ed94c7df~mv2.webp/hollanda-konteyner-muz.webp"
+image: "https://static.wixstatic.com/media/6c3915_1fd79017ce3b464bb7c8c1f0ed94c7df~mv2.webp"
 wixId: "3908b4e4-03e6-4db4-9f16-ed2caa667b0b"
 author: "Sedat Onat"
 translated: false

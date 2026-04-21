@@ -3,7 +3,7 @@ title: "Toyota Elektrikli Araçların Geri Dönüşüme Giden Yıllık 25.000 ad
 subtitle: "Toyota Elektrikli Araçların Geri Dönüşüme Giden Yıllık 25.000 adet Pil için Cirba Solutions ile Anlaşmaya Vardı"
 date: "2023-12-11T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_49dd4b1f6f07463eba81e6e93921969f~mv2.jpg/News - 2023-12-11 - Toyota.jpg"
+image: "https://static.wixstatic.com/media/6c3915_49dd4b1f6f07463eba81e6e93921969f~mv2.jpg"
 imageAlt: "Toyota Elektrikli Araçların Geri Dönüşüme Giden Yıllık 25.000 adet Pil için Circa ile Anlaşmaya Vardı"
 wixId: "60f79a92-e110-4a8d-90b6-5087367968d7"
 author: "Sedat Onat"

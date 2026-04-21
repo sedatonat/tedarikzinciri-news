@@ -3,7 +3,7 @@ title: "Amazon, Arizona’nın Tolleson Şehrinde Aynı Gün Drone Teslimatını
 subtitle: "Amazon, Arizona’nın Tolleson Şehrinde Aynı Gün Drone Teslimatını Başlattı"
 date: "2024-11-08T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_da1429f7a1d54c708c4d1a155fa21ac6~mv2.jpg/News - 2024-11-08 - Amazon Drone.jpg"
+image: "https://static.wixstatic.com/media/6c3915_da1429f7a1d54c708c4d1a155fa21ac6~mv2.jpg"
 imageAlt: "Amazon, Arizona’nın Tolleson Şehrinde Aynı Gün Drone Teslimatını Başlattı"
 wixId: "cbb8063d-affd-428e-aae8-559ceaf17473"
 author: "Sedat Onat"

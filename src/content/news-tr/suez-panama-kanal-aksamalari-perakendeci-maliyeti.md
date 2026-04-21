@@ -3,7 +3,7 @@ title: "Süveyş ve Panama Kanallarındaki Aksamalar Perakendecilere Pahalıya P
 subtitle: "Süveyş ve Panama Kanallarındaki Aksamalar Perakendecilere Pahalıya Patlayabilir"
 date: "2024-02-15T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_413f611a20894c10a948e71eb5c5f69c~mv2.jpg/News - 2024-02-15 - Suez Panama.jpg"
+image: "https://static.wixstatic.com/media/6c3915_413f611a20894c10a948e71eb5c5f69c~mv2.jpg"
 imageAlt: "Süveyş ve Panama Kanallarındaki Aksamalar Perakendecilere Pahalıya Patlayabilir"
 wixId: "bd8bb082-55b6-4e15-a1eb-c9ea0bcb3ef5"
 author: "Sedat Onat"

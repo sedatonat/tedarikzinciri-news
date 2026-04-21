@@ -3,7 +3,7 @@ title: "Hindistan ve Singapur: Abd Tarife Risklerine Karşı Yapay Zekâ Çip Ba
 subtitle: "Hindistan ve Singapur: Abd Tarife Risklerine Karşı Yapay Zekâ Çip Bağlarını Derinleştiriyor"
 date: "2025-09-04T00:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_75537f847d664cffa0f31301d14375ac~mv2.png/854.png"
+image: "https://static.wixstatic.com/media/6c3915_75537f847d664cffa0f31301d14375ac~mv2.png"
 imageAlt: "Hindistan-singapur: Abd Tarife Risklerine Karşı Yapay Zekâ Çip Bağlarını Derinleştiriyor"
 wixId: "d1b6bc73-f998-4d5e-8ada-8c575a62d629"
 author: "Sedat Onat"

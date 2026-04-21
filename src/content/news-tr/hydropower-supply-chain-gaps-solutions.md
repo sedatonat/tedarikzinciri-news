@@ -3,7 +3,7 @@ title: "Hidroelektrik Tedarik Zincirinde Büyük Boşluklar ve Çözüm Önerile
 subtitle: "Hidroelektrik Tedarik Zincirinde Büyük Boşluklar ve Çözüm Önerileri"
 date: "2024-08-07T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_9386064b06364d9bbf42eb736fd17405~mv2.jpg/News - 2024-08-07 - Hydropower.jpg"
+image: "https://static.wixstatic.com/media/6c3915_9386064b06364d9bbf42eb736fd17405~mv2.jpg"
 imageAlt: "Hidroelektrik Tedarik Zincirinde Büyük Boşluklar ve Çözüm Önerileri"
 wixId: "7f52205c-c292-4d16-8d35-d753360e7c13"
 author: "Sedat Onat"

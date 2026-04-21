@@ -3,7 +3,7 @@ title: "Evergreen, 14 Yeni LNG Yakıtlı Gemiyi Sipariş Ederek Filosunu 3 Milya
 subtitle: "Evergreen, 14 Yeni LNG Yakıtlı Gemiyi Sipariş Ederek Filosunu 3 Milyar Dolara Yakın Büyütüyor"
 date: "2025-11-12T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f130457e9c40406ea41e1bb1ce06ee55~mv2.jpg/evergreen container ship right.jpg"
+image: "https://static.wixstatic.com/media/6c3915_f130457e9c40406ea41e1bb1ce06ee55~mv2.jpg"
 imageAlt: "Evergreen Marine, Güney Kore ve Çin tersanelerine toplam 14 adet 14.000 TEU LNG yakıtlı gemi sipariş ederek filoya yaklaşık 3 milyar dolarlık ek kapasite kazandırıyor; siparişlerle Evergreen’in toplam filo kapasitesi 2,747,549 TEU seviyesine ulaşıyor."
 wixId: "b83d12f5-5d1e-44eb-a2a1-3b1be3209222"
 author: "Sedat Onat"

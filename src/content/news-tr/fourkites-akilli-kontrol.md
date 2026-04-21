@@ -3,7 +3,7 @@ title: "FourKites, Gelişmiş Tedarik Zinciri Otomasyonu İçin Akıllı Kontrol
 subtitle: "FourKites, Gelişmiş Tedarik Zinciri Otomasyonu İçin Akıllı Kontrol Kulesi'ni Tanıttı"
 date: "2025-01-16T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_0f0566c04f5640ea9f6412c6c814b418~mv2.jpg/News - 2025-01-16 - FourKites.jpg"
+image: "https://static.wixstatic.com/media/6c3915_0f0566c04f5640ea9f6412c6c814b418~mv2.jpg"
 imageAlt: "FourKites, Gelişmiş Tedarik Zinciri Otomasyonu İçin Akıllı Kontrol Kulesi'ni Tanıttı"
 wixId: "94c87535-4e1f-4b33-bbd3-ca0a344d25a2"
 author: "Sedat Onat"

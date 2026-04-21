@@ -3,7 +3,7 @@ title: "Kızıldeniz'de Yangın Çıkan Isa Star Gemisi Mürettebatını Tahliye
 subtitle: "Kızıldeniz'de Yangın Çıkan Isa Star Gemisi Mürettebatını Tahliye Etti"
 date: "2024-12-06T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7b59ab11ae3148ed9841915e0d33e6a0~mv2.jpeg/News - 2024-12-06 - ISA Star.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_7b59ab11ae3148ed9841915e0d33e6a0~mv2.jpeg"
 imageAlt: "Kızıldeniz'de Yangın Çıkan Isa Star Gemisi Mürettebatını Tahliye Etti"
 wixId: "9f2aaeb7-09c7-4565-8aa6-5ec69ca8de70"
 author: "Sedat Onat"

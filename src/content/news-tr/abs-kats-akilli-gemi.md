@@ -3,7 +3,7 @@ title: "ABS ve KATS, Akıllı Gemi Teknolojileri ve Ekipman Sertifikasyonunu İl
 subtitle: "ABS ve KATS, Akıllı Gemi Teknolojileri ve Ekipman Sertifikasyonunu İlerletmek İçin İş Birliği Yaptı"
 date: "2025-11-06T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_58b3e7e09f674b1cbd94ee443ea9f9bb~mv2.jpg/abs-logo-Blue.jpg"
+image: "https://static.wixstatic.com/media/6c3915_58b3e7e09f674b1cbd94ee443ea9f9bb~mv2.jpg"
 imageAlt: "ABS ve Kore Standartlar ve Teknoloji Ajansı (KATS), akıllı gemi ve akıllı tersane teknolojilerinin uluslararası standardizasyonu ile ekipman sertifikasyon süreçlerinin uyumlaştırılmasını hedefleyen bir iş birliği protokolü imzaladı."
 wixId: "2934dac8-9d48-44d1-862a-a3827d38b724"
 author: "Sedat Onat"

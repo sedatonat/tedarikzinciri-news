@@ -3,7 +3,7 @@ title: "Kazakistan ve PTC Holding, Gürcistan'ın Poti Limanı'nda Yeni Konteyne
 subtitle: "Kazakistan ve PTC Holding, Gürcistan'ın Poti Limanı'nda Yeni Konteyner Terminali İnşa Ediyor"
 date: "2025-03-07T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0dcf4514e5ee4eecacd61c479826703c~mv2.jpg/News - 2025-03-07 - Kazakh Georgia Port.jpg"
+image: "https://static.wixstatic.com/media/6c3915_0dcf4514e5ee4eecacd61c479826703c~mv2.jpg"
 imageAlt: "Kazakistan ve PTC Holding, Gürcistan'ın Poti Limanı'nda Yeni Konteyner Terminali İnşa Ediyor"
 wixId: "e1dab827-1b45-42a0-9586-5c448a9cc614"
 author: "Sedat Onat"

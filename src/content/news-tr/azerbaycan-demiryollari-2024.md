@@ -3,7 +3,7 @@ title: "Azerbaycan Demiryolları 2024'ü Değerlendiriyor: Uluslararası Koridor
 subtitle: "Azerbaycan Demiryolları 2024'ü Değerlendiriyor: Uluslararası Koridorlarda Önemli Dönüm Noktaları"
 date: "2025-01-13T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7b8802beaa744e97bf529106c15f275d~mv2.jpeg/News - 2025-01-13 - Azerbaijan.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_7b8802beaa744e97bf529106c15f275d~mv2.jpeg"
 imageAlt: "Azerbaycan Demiryolları 2024'ü Değerlendiriyor: Uluslararası Koridorlarda Önemli Dönüm Noktaları"
 wixId: "95214f7d-7420-4d72-b5da-750a18989f3a"
 author: "Sedat Onat"

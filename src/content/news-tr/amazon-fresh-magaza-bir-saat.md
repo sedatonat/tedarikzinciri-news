@@ -3,7 +3,7 @@ title: "Amazon, Bir Saat İçinde Mağazadan Teslim Al Modelini Test Etmeye Haz�
 subtitle: "Amazon, Bir Saat İçinde Mağazadan Teslim Al Modelini Test Etmeye Hazırlanıyor"
 date: "2025-12-12T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_2e3a6dd417ac4db4acf4117975eadd22~mv2.jpg/amazon fresh market.jpg"
+image: "https://static.wixstatic.com/media/6c3915_2e3a6dd417ac4db4acf4117975eadd22~mv2.jpg"
 imageAlt: "Amazon’un online ve fiziksel mağaza stoklarını tek siparişte birleştiren ve bir saat içinde teslim alma imkânı sunacak “rush pickup” modeli, click-and-collect pazarındaki rekabet ve fulfillment stratejisine etkilerinin detaylı özeti"
 wixId: "25f6862b-450f-49f7-982d-f7b425d23a11"
 author: "Sedat Onat"

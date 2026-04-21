@@ -3,7 +3,7 @@ title: "İtalya’da Yük Trenlerinde “Tek Makinist Kuralı” Dönemi Başlı
 subtitle: "İtalya’da Yük Trenlerinde “Tek Makinist Kuralı” Dönemi Başlıyor"
 date: "2025-10-24T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_dbe31058e3e2468887848f9b585192a4~mv2.jpg/italy railway.jpg"
+image: "https://static.wixstatic.com/media/6c3915_dbe31058e3e2468887848f9b585192a4~mv2.jpg"
 imageAlt: "İtalya’da Yük Trenlerinde “Tek Makinist Kuralı” Dönemi Başlıyor"
 wixId: "39b64d56-209f-490d-8da3-35308555476c"
 author: "Sedat Onat"

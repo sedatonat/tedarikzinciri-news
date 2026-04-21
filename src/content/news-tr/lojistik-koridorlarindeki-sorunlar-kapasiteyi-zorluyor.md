@@ -3,7 +3,7 @@ title: "Suez Kanalı ve Panama Kanalı'ndaki sorunlar lojistik kapasitesini zorl
 subtitle: "Suez Kanalı ve Panama Kanalı'ndaki sorunlar lojistik kapasitesini zorluyor"
 date: "2023-12-22T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_33928d88074f49579eee86319cc76a42~mv2.jpg/News - 2023-12-22 - Mendeb.jpg"
+image: "https://static.wixstatic.com/media/6c3915_33928d88074f49579eee86319cc76a42~mv2.jpg"
 imageAlt: "Suez Kanalı ve Panama Kanalı'ndaki sorunlar lojistik kapasitesini zorluyor"
 wixId: "141b4963-d93e-487d-ac3f-dc634d5849cb"
 author: "Sedat Onat"

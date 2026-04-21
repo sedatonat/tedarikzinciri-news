@@ -3,7 +3,7 @@ title: "ESA ve Ortaklarından Denizcilikte Karbon Azaltımı İçin DECARDIS Gir
 subtitle: "ESA ve Ortaklarından Denizcilikte Karbon Azaltımı İçin DECARDIS Girişimi"
 date: "2024-10-31T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a43fdb8f72a74d19aef778c6c3f38877~mv2.jpg/News - 2024-10-31 - ESA.jpg"
+image: "https://static.wixstatic.com/media/6c3915_a43fdb8f72a74d19aef778c6c3f38877~mv2.jpg"
 imageAlt: "ESA ve Ortaklarından Denizcilikte Karbon Azaltımı İçin DECARDIS Girişimi"
 wixId: "504d2261-39a1-4b0a-8dac-e7c861aab6a8"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Sürdürülebilirlik Ve Maliyet Arasında Seçim Yapmak Zorunda Değilsi
 subtitle: "Sürdürülebilirlik Ve Maliyet Arasında Seçim Yapmak Zorunda Değilsiniz"
 date: "2025-05-05T00:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b3c8b98191c74159824a9429e31ac27e~mv2.png/822.png"
+image: "https://static.wixstatic.com/media/6c3915_b3c8b98191c74159824a9429e31ac27e~mv2.png"
 imageAlt: "Sürdürülebilirlik Ve Maliyet Arasında Seçim Yapmak Zorunda Değilsiniz"
 wixId: "4eb29643-4c32-446a-9bd2-df7eeb95e3d8"
 author: "Sedat Onat"

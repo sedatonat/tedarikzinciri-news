@@ -3,7 +3,7 @@ title: "DP World, Wan Hai Lines’in Yeni Uzak Doğu–Doğu Akdeniz Servisini T
 subtitle: "DP World, Wan Hai Lines’in Yeni Uzak Doğu–Doğu Akdeniz Servisini Türkiye’ye Getirdi"
 date: "2025-10-30T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_43fae8bc2686413e84d52713298e302b~mv2.jpg/dp world wan hai lines turkiye.jpg"
+image: "https://static.wixstatic.com/media/6c3915_43fae8bc2686413e84d52713298e302b~mv2.jpg"
 imageAlt: "DP World, Tayvan merkezli Wan Hai Lines ile yaptığı anlaşma kapsamında, Uzak Doğu–Doğu Akdeniz (FM1) deniz hattını Türkiye’nin Körfez Terminali üzerinden başlattı. Hat, Çin ve Güneydoğu Asya limanlarını Süveyş Kanalı üzerinden Türkiye’ye haftalık bağlantı ile bağlıyor."
 wixId: "cc46a36c-a6da-4039-b88a-c8fc9d846f31"
 author: "Sedat Onat"

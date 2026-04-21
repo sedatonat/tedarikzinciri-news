@@ -3,7 +3,7 @@ title: "TikTok Shop, USPS Etiketlerini Zorunlu Olarak Kendi Platformuna Taşıyo
 subtitle: "TikTok Shop, USPS Etiketlerini Zorunlu Olarak Kendi Platformuna Taşıyor"
 date: "2025-11-26T09:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_02a531af207342288eaa100f96a24ba8~mv2.jpg/tiktok.jpg"
+image: "https://static.wixstatic.com/media/6c3915_02a531af207342288eaa100f96a24ba8~mv2.jpg"
 imageAlt: "TikTok Shop’un USPS gönderi etiketlerini yalnızca TikTok Shipping üzerinden satın alma zorunluluğu, satıcıların operasyonel süreçlerine etkisi, maliyet riskleri ve alternatif taşıyıcı stratejilerini kapsayan detaylı değerlendirme."
 wixId: "96f01b1c-ae9c-4d29-8fa3-c466e8f5d099"
 author: "Sedat Onat"

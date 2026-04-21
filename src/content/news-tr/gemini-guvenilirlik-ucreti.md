@@ -3,7 +3,7 @@ title: "Gemini’nin “Güvenilirlik Ücreti” Tartışma Yarattı: Gönderici
 subtitle: "Gemini’nin “Güvenilirlik Ücreti” Tartışma Yarattı: Göndericiler İkiye Bölündü"
 date: "2025-11-18T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_37863dfb55ed4c69b4fa955605fcc4d9~mv2.jpg/ship port red gantry cranes.jpg"
+image: "https://static.wixstatic.com/media/6c3915_37863dfb55ed4c69b4fa955605fcc4d9~mv2.jpg"
 imageAlt: "Maersk–Hapag-Lloyd ortaklığındaki Gemini Cooperation, %89’un üzerindeki zamanında varış performansı için premium güvenilirlik ücreti talep etmeyi değerlendiriyor; ancak göndericiler arasında ücretin haklılığı konusunda ciddi görüş ayrılığı oluşmuş durumda."
 wixId: "8851c159-79da-475e-97c6-63b17fde6402"
 author: "Sedat Onat"

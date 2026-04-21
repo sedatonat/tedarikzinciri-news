@@ -3,7 +3,7 @@ title: "Accenture, Staufen AG'yi Satın Alarak Üretim Verimliliğini Artırıyo
 subtitle: "Accenture, Staufen AG'yi Satın Alarak Üretim Verimliliğini Artırıyor"
 date: "2025-02-07T09:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_074ede3f7198403cbd97b1460325830a~mv2.jpg/News - 2025-02-07 - Accenture.jpg"
+image: "https://static.wixstatic.com/media/6c3915_074ede3f7198403cbd97b1460325830a~mv2.jpg"
 imageAlt: "Accenture, Staufen AG'yi Satın Alarak Üretim Verimliliğini Artırıyor"
 wixId: "d2f87af7-4b9a-4cbe-87a5-66ef14039568"
 author: "Sedat Onat"

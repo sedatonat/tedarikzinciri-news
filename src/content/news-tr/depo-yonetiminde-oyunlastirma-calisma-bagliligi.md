@@ -3,7 +3,7 @@ title: "Depo Yönetiminde Oyunlaştırma: Çalışan Bağlılığı ve Üretkenl
 subtitle: "Depo Yönetiminde Oyunlaştırma: Çalışan Bağlılığı ve Üretkenliği Artırmanın Yeni Yolu"
 date: "2024-02-16T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/11062b_ea86441d3460487bae226e163fbccd7c~mv2.jpg/Taking Inventory at Warehouse.jpg"
+image: "https://static.wixstatic.com/media/11062b_ea86441d3460487bae226e163fbccd7c~mv2.jpg"
 imageAlt: "Depo Yönetiminde Oyunlaştırma: Çalışan Bağlılığı ve Üretkenliği Artırmanın Yeni Yolu"
 wixId: "ef333644-938b-47fe-9720-e969f1967e65"
 author: "Sedat Onat"

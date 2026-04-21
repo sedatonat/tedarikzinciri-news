@@ -3,7 +3,7 @@ title: "Trump, Nvidia’nın Gelişmiş Yapay Zekâ Çiplerini Çin’e Satması
 subtitle: "Trump, Nvidia’nın Gelişmiş Yapay Zekâ Çiplerini Çin’e Satmasına Onay Veriyor"
 date: "2025-12-09T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_ee880828c96e401cb8a5ad99de219a28~mv2.jpg/ram yellow background.jpg"
+image: "https://static.wixstatic.com/media/6c3915_ee880828c96e401cb8a5ad99de219a28~mv2.jpg"
 imageAlt: "Trump yönetiminin Nvidia’ya H200 yapay zekâ çiplerini sınırlı Çinli müşterilere satma izni vermesi, %25 gelir paylaşımı modeli, ihracat kontrollerinde yeni yaklaşım ve ABD–Çin teknoloji ticaretine etkilerinin detaylı özeti"
 wixId: "c9530947-380d-4a79-811d-580213530257"
 author: "Sedat Onat"

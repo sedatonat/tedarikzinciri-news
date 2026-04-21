@@ -3,7 +3,7 @@ title: "Orta Ölçekli Şirketler İçin Tarifeleri Fırsata Dönüştürme Yolu
 subtitle: "Orta Ölçekli Şirketler İçin Tarifeleri Fırsata Dönüştürme Yolu"
 date: "2025-08-21T00:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_cf9cadf760b84996985cb1ccac577e73~mv2.png/660.png"
+image: "https://static.wixstatic.com/media/6c3915_cf9cadf760b84996985cb1ccac577e73~mv2.png"
 imageAlt: "Orta Ölçekli Şirketler İçin Tarifeleri Fırsata Dönüştürme Yolu"
 wixId: "8ea4908f-173a-4828-8374-f851e1857676"
 author: "Sedat Onat"

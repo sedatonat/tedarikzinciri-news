@@ -3,7 +3,7 @@ title: "Kızıldeniz'de Tırmanan Gerilim: ABD Gemiye Yönelik Füze Saldırıs�
 subtitle: "Kızıldeniz'de Tırmanan Gerilim: ABD Gemiye Yönelik Füze Saldırısı"
 date: "2024-01-16T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_58202542d43642448a2be6a9445ec973~mv2.jpg/News - 2024-01-16 - Savas Gemisi.jpg"
+image: "https://static.wixstatic.com/media/6c3915_58202542d43642448a2be6a9445ec973~mv2.jpg"
 imageAlt: "Kızıldeniz'de Tırmanan Gerilim: ABD Gemiye Yönelik Füze Saldırısı"
 wixId: "316d3790-6a5c-4f6e-898e-0b1b534df36e"
 author: "Sedat Onat"

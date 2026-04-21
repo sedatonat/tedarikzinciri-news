@@ -3,7 +3,7 @@ title: "Husi Saldırılarına Ara Verilmesi Gerginliği Azalttı, Ancak Kızıld
 subtitle: "Husi Saldırılarına Ara Verilmesi Gerginliği Azalttı, Ancak Kızıldeniz’de Risk Sürmekte"
 date: "2025-11-12T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7579308f142f4acbaa7e974836f42d58~mv2.jpg/cma cgm container ship from right.jpg"
+image: "https://static.wixstatic.com/media/6c3915_7579308f142f4acbaa7e974836f42d58~mv2.jpg"
 wixId: "34713456-aa57-4ec6-99b5-08162f4d513e"
 author: "Sedat Onat"
 translated: false

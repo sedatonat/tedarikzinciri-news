@@ -3,7 +3,7 @@ title: "Rusya Yeni Bir Özel Demiryolu Yük Taşımacılığı Operatörü Edine
 subtitle: "Rusya Yeni Bir Özel Demiryolu Yük Taşımacılığı Operatörü Edinecek Mi?"
 date: "2025-03-03T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9c96b73c2a014323b5d4229328d78594~mv2.jpg/News - 2025-03-03 - Russia Railway.jpg"
+image: "https://static.wixstatic.com/media/6c3915_9c96b73c2a014323b5d4229328d78594~mv2.jpg"
 imageAlt: "Rusya Yeni Bir Özel Demiryolu Yük Taşımacılığı Operatörü Edinecek Mi?"
 wixId: "750937d7-5ba2-4cc2-a4cf-1798a7243e18"
 author: "Sedat Onat"

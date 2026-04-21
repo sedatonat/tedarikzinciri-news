@@ -3,7 +3,7 @@ title: "Rusya’nın Ham Petrol İhracatı Eylül Ayından Bu Yana En Düşük S
 subtitle: "Rusya’nın Ham Petrol İhracatı Eylül Ayından Bu Yana En Düşük Seviyede"
 date: "2024-11-15T09:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/fb82545edb1641db909d551d5f65382b.jpg/Chemical Plant.jpg"
+image: "https://static.wixstatic.com/media/fb82545edb1641db909d551d5f65382b.jpg"
 imageAlt: "Rusya’nın Ham Petrol İhracatı Eylül Ayından Bu Yana En Düşük Seviyede"
 wixId: "f32fc1f8-c60e-45fb-a826-c1366ed3d49c"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "SAP Sistemlerinin Güncellenmemesi Üretim Sektöründe Büyük Risk Olu
 subtitle: "SAP Sistemlerinin Güncellenmemesi Üretim Sektöründe Büyük Risk Oluşturuyor"
 date: "2024-08-07T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_247d75d37cc646d1b685ceb7b154379b~mv2.jpg/News - 2024-08-07 - SAP.jpg"
+image: "https://static.wixstatic.com/media/6c3915_247d75d37cc646d1b685ceb7b154379b~mv2.jpg"
 imageAlt: "SAP Sistemlerinin Güncellenmemesi Üretim Sektöründe Büyük Risk Oluşturuyor"
 wixId: "0f00cd54-749d-48b4-a8fd-725467c5b665"
 author: "Sedat Onat"

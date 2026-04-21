@@ -3,7 +3,7 @@ title: "Demiryolu Vagonlarının Tanımlanması ve Denetlenmesinde Yapay Zeka D�
 subtitle: "Demiryolu Vagonlarının Tanımlanması ve Denetlenmesinde Yapay Zeka Dönemi"
 date: "2025-01-13T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7a0c19b5d0214d6f96d5eaaf7f7b878f~mv2.jpeg/News - 2025-01-13 - Auromatic Railcar.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_7a0c19b5d0214d6f96d5eaaf7f7b878f~mv2.jpeg"
 imageAlt: "Demiryolu Vagonlarının Tanımlanması ve Denetlenmesinde Yapay Zeka Dönemi"
 wixId: "dd1dd37c-0aee-4e5f-bb5a-6fd74276a463"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Breitling'in Fluent Commerce ile Başarıya Ulaşan Merkezi Envanter Yö
 subtitle: "Breitling'in Fluent Commerce ile Başarıya Ulaşan Merkezi Envanter Yönetimi"
 date: "2024-08-07T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_c49836bab9d0474ab4ef07e78a7bd446~mv2.jpg/News - 2024-08-07 - Breitling.jpg"
+image: "https://static.wixstatic.com/media/6c3915_c49836bab9d0474ab4ef07e78a7bd446~mv2.jpg"
 imageAlt: "Breitling'in Fluent Commerce ile Başarıya Ulaşan Merkezi Envanter Yönetimi"
 wixId: "d6ccb62a-7de5-4d81-b415-44162c1e1da0"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Siber Saldırı Sonrası Jaguar Land Rover İngiltere’de Üretimi Yeni
 subtitle: "Siber Saldırı Sonrası Jaguar Land Rover İngiltere’de Üretimi Yeniden Başlatıyor"
 date: "2025-10-03T00:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_7a41de2670954df0ba8272611e5c3852~mv2.png/836.png"
+image: "https://static.wixstatic.com/media/6c3915_7a41de2670954df0ba8272611e5c3852~mv2.png"
 imageAlt: "Siber Saldırı Sonrası Jaguar Land Rover İngiltere’de Üretimi Yeniden Başlatıyor"
 wixId: "08a0797b-379c-44b4-b45b-1d9d795decbd"
 author: "Sedat Onat"

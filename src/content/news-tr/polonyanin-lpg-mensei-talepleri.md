@@ -3,7 +3,7 @@ title: "Polonya'nın LPG Menşei Talepleri Belarus Sınırında Yüzlerce Vagonu
 subtitle: "Polonya'nın LPG Menşei Talepleri Belarus Sınırında Yüzlerce Vagonun Beklemesine Neden Oldu"
 date: "2025-01-28T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5a3625318ef0426d96dda03f1109dc16~mv2.jpg/News - 2025-01-28 - Poland rail tanker.jpg"
+image: "https://static.wixstatic.com/media/6c3915_5a3625318ef0426d96dda03f1109dc16~mv2.jpg"
 imageAlt: "Polonya'nın LPG Menşei Talepleri Belarus Sınırında Yüzlerce Vagonun Beklemesine Neden Oldu"
 wixId: "f9d1c7ed-9082-4a7d-923e-4e8f3431e55e"
 author: "Sedat Onat"

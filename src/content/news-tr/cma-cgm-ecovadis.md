@@ -3,7 +3,7 @@ title: "CMA CGM, EcoVadis Sürdürülebilirlik Değerlendirmesinde Dünyanın İ
 subtitle: "CMA CGM, EcoVadis Sürdürülebilirlik Değerlendirmesinde Dünyanın İlk %3’lük Dilimine Girdi"
 date: "2025-10-16T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_46f21a48bec646edb9d72ecd010afa24~mv2.jpg/cma-cgm ecovadis.jpg"
+image: "https://static.wixstatic.com/media/6c3915_46f21a48bec646edb9d72ecd010afa24~mv2.jpg"
 imageAlt: "CMA CGM, EcoVadis Sürdürülebilirlik Değerlendirmesinde Dünyanın İlk %3’lük Dilimine Girdi"
 wixId: "29742847-297b-4360-a1da-7d413603673f"
 author: "Sedat Onat"

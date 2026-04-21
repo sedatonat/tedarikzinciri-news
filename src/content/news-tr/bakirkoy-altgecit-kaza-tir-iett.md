@@ -3,7 +3,7 @@ title: "Bakırköy’de Alt Geçide Çarpan TIR, Yanındaki İETT Otobüsünün 
 subtitle: "Bakırköy’de Alt Geçide Çarpan TIR, Yanındaki İETT Otobüsünün Üzerine Devrildi: 6 Yaralı"
 date: "2024-08-27T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_53a3d2a717804d3197695712eb8a8598~mv2.jpg/bakirkoy konteyner iett otobusu.jpg"
+image: "https://static.wixstatic.com/media/6c3915_53a3d2a717804d3197695712eb8a8598~mv2.jpg"
 imageAlt: "Bakırköy Rauf Orbay Caddesi’nde alt geçide çarpan TIR dorsesinin devrilerek BN1 hattındaki İETT otobüsünü ezdiği, 6 kişinin yaralandığı kazanın güvenlik kamerası görüntüleri."
 wixId: "1464638a-c2cf-4d68-9b48-9a0c22e82d92"
 author: "Sedat Onat"

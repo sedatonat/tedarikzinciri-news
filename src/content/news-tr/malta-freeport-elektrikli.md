@@ -3,7 +3,7 @@ title: "Malta Freeport Terminals'e Elektrikli Boş Konteyner Taşıyıcı Teslim
 subtitle: "Malta Freeport Terminals'e Elektrikli Boş Konteyner Taşıyıcı Teslim Edilecek"
 date: "2025-01-17T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_f0130ece6fe94ca5a28654698c7fd29d~mv2.jpg/News - 2025-01-17 - Hyster Forklift.jpg"
+image: "https://static.wixstatic.com/media/6c3915_f0130ece6fe94ca5a28654698c7fd29d~mv2.jpg"
 imageAlt: "Malta Freeport Terminals'e Elektrikli Boş Konteyner Taşıyıcı Teslim Edilecek"
 wixId: "587a7b22-a7aa-4c99-909a-afc5c023ed1a"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Jeopolitik Gerginlikler Artarken Kabotaj Yasaları Küresel Kıyıların
 subtitle: "Jeopolitik Gerginlikler Artarken Kabotaj Yasaları Küresel Kıyıların %85’ine Ulaştı"
 date: "2025-10-22T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_af4ef568bbda4f10a74fdddecebceac8~mv2.jpg/Cabotage-Map-SRI.jpg"
+image: "https://static.wixstatic.com/media/6c3915_af4ef568bbda4f10a74fdddecebceac8~mv2.jpg"
 imageAlt: "Jeopolitik Gerginlikler Artarken Kabotaj Yasaları Küresel Kıyıların %85’ine Ulaştı"
 wixId: "ad904879-9117-4388-9e0e-7824ab770e5d"
 author: "Sedat Onat"

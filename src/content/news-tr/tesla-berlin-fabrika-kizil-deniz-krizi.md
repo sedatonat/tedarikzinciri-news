@@ -3,7 +3,7 @@ title: "Tesla'nın Berlin Fabrikası, Kızıl Deniz Krizi Nedeniyle Üretime Ara
 subtitle: "Tesla'nın Berlin Fabrikası, Kızıl Deniz Krizi Nedeniyle Üretime Ara Veriyor"
 date: "2024-01-12T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_5dc80a88cb2d4080b8445b07d52fe110~mv2.jpg/News - 2024-01-12 - Tesla.jpg"
+image: "https://static.wixstatic.com/media/6c3915_5dc80a88cb2d4080b8445b07d52fe110~mv2.jpg"
 imageAlt: "Tesla'nın Berlin Fabrikası, Kızıl Deniz Krizi Nedeniyle Üretime Ara Veriyor"
 wixId: "43830680-2afe-449a-8b02-e87ed0f7e7a8"
 author: "Sedat Onat"

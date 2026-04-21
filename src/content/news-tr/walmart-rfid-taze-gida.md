@@ -3,7 +3,7 @@ title: "Walmart, Taze Gıda Envanterini Takip Etmek İçin RFID Etiketlerini Kul
 subtitle: "Walmart, Taze Gıda Envanterini Takip Etmek İçin RFID Etiketlerini Kullanacak"
 date: "2025-11-03T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_5c2cecf8cefc4b86a578963973d0cbb9~mv2.jpg/walmart.jpg"
+image: "https://static.wixstatic.com/media/6c3915_5c2cecf8cefc4b86a578963973d0cbb9~mv2.jpg"
 imageAlt: "Walmart, Avery Dennison ile iş birliği yaparak et, fırın ve şarküteri ürünlerinde RFID teknolojisini devreye alıyor. Sistem, dijital son kullanma tarihleri sayesinde taze gıda envanterini izleyerek gıda israfını azaltmayı ve müşterilere daha taze ürün sunmayı hedefliyor."
 wixId: "4d018c21-2bf1-4ef2-8e50-53d8d4926e77"
 author: "Sedat Onat"

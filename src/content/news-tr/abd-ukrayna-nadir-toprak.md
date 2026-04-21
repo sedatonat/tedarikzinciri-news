@@ -3,7 +3,7 @@ title: "ABD ve Ukrayna Nadir Toprak Elementleri Anlaşmasının Tedarik Zincirin
 subtitle: "ABD ve Ukrayna Nadir Toprak Elementleri Anlaşmasının Tedarik Zincirine Etkisi"
 date: "2025-02-26T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_1e2a9d3e03fe441aabcbb39e6be88a84~mv2.jpg/News - 2025-02-26 - Amerika Ukrayna.jpg"
+image: "https://static.wixstatic.com/media/6c3915_1e2a9d3e03fe441aabcbb39e6be88a84~mv2.jpg"
 imageAlt: "ABD ve Ukrayna Nadir Toprak Elementleri Anlaşmasının Tedarik Zincirine Etkisi"
 wixId: "28dd3148-7389-48a3-a3e8-2c8f128afc9c"
 author: "Sedat Onat"

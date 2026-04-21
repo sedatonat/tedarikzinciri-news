@@ -3,7 +3,7 @@ title: "Kairos Tankeri Ahtopol Açıklarında Stabilize Edildi: Ortak Kurtarma O
 subtitle: "Kairos Tankeri Ahtopol Açıklarında Stabilize Edildi: Ortak Kurtarma Operasyonu Sürmekte"
 date: "2025-12-07T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_940535ba9dd9462c9a96126c69711a67~mv2.jpg/kairos tanker gemi.jpg"
+image: "https://static.wixstatic.com/media/6c3915_940535ba9dd9462c9a96126c69711a67~mv2.jpg"
 imageAlt: "Kairos tankerinin İstanbul Boğazı kuzeyinde yaşanan patlama sonrası sürüklenerek Ahtopol açıklarına ulaşması, Bulgar–Türk kurumlarının koordinasyonu, hava şartlarının operasyonu engellemesi ve çevresel risklerin değerlendirilmesine dair detaylı özet"
 wixId: "a6ed39dc-676d-4b9b-97dd-b3bea9a0aa6a"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Drewry 'nin 14 Kasım Raporuna Göre Shanghai Merkezli Tüm Rotalarda Fi
 subtitle: "Drewry 'nin 14 Kasım Raporuna Göre Shanghai Merkezli Tüm Rotalarda Fiyat Düşüşü Var"
 date: "2023-11-14T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c77f449d856a432b87fe1d9cabca4eee~mv2.jpeg/News - 2023-11-14 - Drewry WCI.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_c77f449d856a432b87fe1d9cabca4eee~mv2.jpeg"
 imageAlt: "Drewry 'nin 14 Kasım Raporuna Göre Shanghai Merkezli Tüm Rotalarda Fiyat Düşüşü Var"
 wixId: "1de6b813-bc7d-4048-85c8-486176db3091"
 author: "Sedat Onat"

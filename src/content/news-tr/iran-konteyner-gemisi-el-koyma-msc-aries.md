@@ -3,7 +3,7 @@ title: "İran'ın Konteyner Gemisine El Koymasıyla Beklenen Deniz Nakliye Ücre
 subtitle: "İran'ın Konteyner Gemisine El Koymasıyla Beklenen Deniz Nakliye Ücretlerinde Artış"
 date: "2024-04-15T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8326b989c75342368f3eed8791eb68a8~mv2.png/News - 2024-04-15 - Iran.png"
+image: "https://static.wixstatic.com/media/6c3915_8326b989c75342368f3eed8791eb68a8~mv2.png"
 imageAlt: "İran'ın Konteyner Gemisine El Koymasıyla Beklenen Deniz Nakliye Ücretlerinde Artış"
 wixId: "7d680579-8c93-4a99-bdb3-5784e7e2492a"
 author: "Sedat Onat"

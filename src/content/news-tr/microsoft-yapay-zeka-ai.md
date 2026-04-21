@@ -3,7 +3,7 @@ title: "Microsoft Wisconsin’de İkinci Yapay Zeka Veri Merkezi İçin 4Milyar 
 subtitle: "Microsoft Wisconsin’de İkinci Yapay Zeka Veri Merkezi İçin 4Milyar Dolar Yatırım Yapıyor"
 date: "2025-09-19T00:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_e56b06b56fea46a285b06ccedd8b322a~mv2.png/848.png"
+image: "https://static.wixstatic.com/media/6c3915_e56b06b56fea46a285b06ccedd8b322a~mv2.png"
 imageAlt: "Microsoft Wisconsin’de İkinci Yapay Zeka Veri Merkezi İçin 4b$ Yatırım Yapıyor"
 wixId: "67643209-a0bd-469b-b918-92ffdf3e7668"
 author: "Sedat Onat"

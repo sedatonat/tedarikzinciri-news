@@ -3,7 +3,7 @@ title: "NYK, Yapay Zekâ Destekli Otonom Seyir Sistemine Sahip Yeni Nesil Araç 
 subtitle: "NYK, Yapay Zekâ Destekli Otonom Seyir Sistemine Sahip Yeni Nesil Araç Taşıyıcısı Sipariş Etti"
 date: "2025-12-10T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_3ff5855f228b4827b04721bd92b526e4~mv2.jpg/nyk ai marine dx.jpg"
+image: "https://static.wixstatic.com/media/6c3915_3ff5855f228b4827b04721bd92b526e4~mv2.jpg"
 imageAlt: "NYK’nin Shinkai Toyohashi Shipbuilding’e sipariş ettiği, MEGURI2040 programı kapsamında geliştirilen AI tabanlı otonom seyir ve Marine DX sistemleriyle donatılmış yeni nesil araç taşıyıcısının teknik özellikleri ve deniz güvenliğine etkileri"
 wixId: "0f54517c-52c9-4bd0-afa2-646a44072df7"
 author: "Sedat Onat"

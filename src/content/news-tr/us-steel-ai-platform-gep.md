@@ -3,7 +3,7 @@ title: "US Steel, Yapay Zeka Destekli Platform ile Tedarik Süreçlerini Yeniliy
 subtitle: "US Steel, Yapay Zeka Destekli Platform ile Tedarik Süreçlerini Yeniliyor"
 date: "2025-01-03T09:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_3762afd5d88d4464b7d6257890ec02e6~mv2.jpg/News - 2025-01-03 - US Steel AI Proc.jpg"
+image: "https://static.wixstatic.com/media/6c3915_3762afd5d88d4464b7d6257890ec02e6~mv2.jpg"
 imageAlt: "US Steel, Yapay Zeka Destekli Platform ile Tedarik Süreçlerini Yeniliyor"
 wixId: "b35be7f2-3929-49c8-a524-2790057d9641"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Yeni Araştırma: AI İşçileri Değiştirmiyor, Depolarda Daha Fazla R
 subtitle: "Yeni Araştırma: AI İşçileri Değiştirmiyor, Depolarda Daha Fazla Rol Yaratıyor"
 date: "2025-11-26T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_27d76cac21c0445dbce2933785352753~mv2.jpg/ambar robot.jpg"
+image: "https://static.wixstatic.com/media/6c3915_27d76cac21c0445dbce2933785352753~mv2.jpg"
 imageAlt: "Depolarda yapay zekâ ve otomasyonun iş gücünü nasıl desteklediğini, üretkenliği artırdığını ve yeni uzmanlık rollerini ortaya çıkardığını anlatan kapsamlı analiz."
 wixId: "a63c7c7e-2632-4b2e-84c7-90af6d8bb1af"
 author: "Sedat Onat"

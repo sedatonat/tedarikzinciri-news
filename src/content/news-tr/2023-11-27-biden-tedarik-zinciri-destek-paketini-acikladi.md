@@ -3,7 +3,7 @@ title: "Biden Yönetimi \"Tedarik Zinciri Destek Politikaları\" Paketini açık
 subtitle: "Biden Yönetimi \"Tedarik Zinciri Destek Politikaları\" Paketini açıkladı"
 date: "2023-11-27T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_9d70a21285e342f2b29fa15adb385700~mv2.jpg/News - 2023-11-27 - Biden.jpg"
+image: "https://static.wixstatic.com/media/6c3915_9d70a21285e342f2b29fa15adb385700~mv2.jpg"
 imageAlt: "Biden Yönetimi \"Tedarik Zinciri Destek Politikaları\" Paketini açıkladı"
 wixId: "173a8a24-e292-4b98-8ea4-a2bf15cb5d7a"
 author: "Sedat Onat"

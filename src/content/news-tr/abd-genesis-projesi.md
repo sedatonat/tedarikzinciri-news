@@ -3,7 +3,7 @@ title: "ABD “Genesis Mission” ile Yapay Zekâ Destekli Bilimsel Atılım Pro
 subtitle: "ABD “Genesis Mission” ile Yapay Zekâ Destekli Bilimsel Atılım Programını Başlattı"
 date: "2025-11-24T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_f2e8f9355f1c48b49f8b88117384f2f9~mv2.jpg/abd genesis projesi.jpg"
+image: "https://static.wixstatic.com/media/6c3915_f2e8f9355f1c48b49f8b88117384f2f9~mv2.jpg"
 imageAlt: "ABD’nin 2025 tarihli Genesis Mission Executive Order ile AI destekli bilimsel araştırmaları hızlandırmak için DOE liderliğinde dev bir ulusal platform kurmasını, veri entegrasyonu, HPC altyapısı ve bilimsel meydan okumaları hedefleyen kapsamlı ulusal programın detaylı özeti"
 wixId: "6c06345f-8dc2-4082-aa61-988b7326bb60"
 author: "Sedat Onat"

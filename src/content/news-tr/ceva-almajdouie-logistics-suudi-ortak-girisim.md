@@ -3,7 +3,7 @@ title: "CEVA Logistics ve Almajdouie Logistics Suudi Arabistan'da Ortak Girişim
 subtitle: "CEVA Logistics ve Almajdouie Logistics Suudi Arabistan'da Ortak Girişim Kuruyor"
 date: "2024-10-15T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_24179b65ddc54cefba470bd59d5ed1c1~mv2.jpg/News - 2024-10-15 - CEVA.jpg"
+image: "https://static.wixstatic.com/media/6c3915_24179b65ddc54cefba470bd59d5ed1c1~mv2.jpg"
 imageAlt: "CEVA Logistics ve Almajdouie Logistics Suudi Arabistan'da Ortak Girişim Kuruyor"
 wixId: "0ad07f14-868d-4653-8b2e-2670259a6dde"
 author: "Sedat Onat"

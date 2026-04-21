@@ -3,7 +3,7 @@ title: "Global Ports Far East Terminal, Primorsky Krai'de Çok Çocuklu Aileleri
 subtitle: "Global Ports Far East Terminal, Primorsky Krai'de Çok Çocuklu Aileleri Destekleyen En İyi Şirketlerden Biri Oldu"
 date: "2024-12-27T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b89540100aa341cc859f5909402001c6~mv2.jpg/News - 2024-12-27 - Container Port.jpg"
+image: "https://static.wixstatic.com/media/6c3915_b89540100aa341cc859f5909402001c6~mv2.jpg"
 imageAlt: "Global Ports Far East Terminal, Primorsky Krai'de Çok Çocuklu Aileleri Destekleyen En İyi Şirketlerden Biri Oldu"
 wixId: "ef962c1d-dd6b-44ae-8b78-52806dea12a5"
 author: "Sedat Onat"

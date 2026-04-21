@@ -3,7 +3,7 @@ title: "Airbus A320 Serisinde Panel Kalite Sorunu İçin Geniş Çaplı İncelem
 subtitle: "Airbus A320 Serisinde Panel Kalite Sorunu İçin Geniş Çaplı İnceleme Başlattı"
 date: "2025-12-01T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_cc17f1e6d68846bbad7c1e1853026c05~mv2.jpg/airbus a320 a321 ucus.jpg"
+image: "https://static.wixstatic.com/media/6c3915_cc17f1e6d68846bbad7c1e1853026c05~mv2.jpg"
 imageAlt: "Airbus’ın A320 gövde panellerindeki kalite sorunları nedeniyle başlattığı incelemeler, teslimat hedefleri, yatırımcı etkileri ve yazılım sorunlarının ardından ortaya çıkan süreç üzerine detaylı haber özeti"
 wixId: "7d04879e-5d21-427a-af39-fb1f530b4aeb"
 author: "Sedat Onat"

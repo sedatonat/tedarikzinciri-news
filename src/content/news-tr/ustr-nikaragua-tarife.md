@@ -3,7 +3,7 @@ title: "ABD, İnsan Hakları Gerekçesiyle Nikaragua’ya %15 Ek Gümrük Vergis
 subtitle: "ABD, İnsan Hakları Gerekçesiyle Nikaragua’ya %15 Ek Gümrük Vergisi Getiriyor"
 date: "2025-12-11T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_24bf6d44dab14e998a0ab023c4a588ad~mv2.jpg/united-states-nicaragua-flags-ta.jpg"
+image: "https://static.wixstatic.com/media/6c3915_24bf6d44dab14e998a0ab023c4a588ad~mv2.jpg"
 imageAlt: "USTR’nin Section 301 soruşturması sonrası Nikaragua’ya uygulanacak kademeli %15 ek tarifeler, mevcut vergilerle birleşen yük, CAFTA-DR istisnaları ve ABD–Orta Amerika tedarik zincirine etkilerin detaylı özeti"
 wixId: "eb6c3f53-7228-4f55-8662-59986483b215"
 author: "Sedat Onat"

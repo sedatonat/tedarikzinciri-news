@@ -3,7 +3,7 @@ title: "CMA CGM’in Rusya’ya “Sessiz” Dönüşü: Doğrudan Hat YOK, Feed
 subtitle: "CMA CGM’in Rusya’ya “Sessiz” Dönüşü: Doğrudan Hat YOK, Feeder Ağı VAR"
 date: "2025-12-01T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b89d0da026c44b59ae1a68634893d5a1~mv2.jpg/cma cgm gemi.jpg"
+image: "https://static.wixstatic.com/media/6c3915_b89d0da026c44b59ae1a68634893d5a1~mv2.jpg"
 imageAlt: "Kasım–Aralık 2025 lojistik raporlarına göre CMA CGM’in Rusya’ya planlanan doğrudan dönüşünün gecikmesi, Hindistan bağlantılı feeder operasyonları ve şirketin risk yönetim stratejisinin detaylı analizi"
 wixId: "afecd0ab-2873-44b3-bb52-b0aeb0cb75fd"
 author: "Sedat Onat"

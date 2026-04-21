@@ -3,7 +3,7 @@ title: "Akıllı Satın Alma Yolculuğu: OMS Tedarik Zincirinizi Nasıl Bağlar?
 subtitle: "Akıllı Satın Alma Yolculuğu: OMS Tedarik Zincirinizi Nasıl Bağlar?"
 date: "2025-08-01T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_883445a6fa764902a1c6cc852665e320~mv2.png/868.png"
+image: "https://static.wixstatic.com/media/6c3915_883445a6fa764902a1c6cc852665e320~mv2.png"
 imageAlt: "Akıllı Satın Alma Yolculuğu: Oms Tedarik Zincirinizi Nasıl Bağlar"
 wixId: "9c195ab5-0f83-4e5c-91ec-5eefda7ea07b"
 author: "Sedat Onat"

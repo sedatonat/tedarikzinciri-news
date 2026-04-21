@@ -3,7 +3,7 @@ title: "HP, Yapay Zekâ Destekli Yeniden Yapılanma Kapsamında 6.000 Kişiyi İ
 subtitle: "HP, Yapay Zekâ Destekli Yeniden Yapılanma Kapsamında 6.000 Kişiyi İşten Çıkarmaya Hazırlanıyor"
 date: "2025-11-26T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_ad564aa5986a43ccbe075cbb6849eec9~mv2.jpg/bilgisayar grafik.jpg"
+image: "https://static.wixstatic.com/media/6c3915_ad564aa5986a43ccbe075cbb6849eec9~mv2.jpg"
 imageAlt: "HP’nin yapay zekâ entegrasyonuyla ürün geliştirmeyi hızlandırmak ve maliyetleri azaltmak amacıyla 2028’e kadar 6.000 kişilik küresel işten çıkarma planı, beklenenden düşük kâr tahminleri, CEO’nun açıklamaları, AI destekli verimlilik hedefleri ve sektör genelindeki otomasyon eğiliminin iş gücü üzerindeki etkileri."
 wixId: "aa8e7698-cffb-444f-a71d-688eee679509"
 author: "Sedat Onat"

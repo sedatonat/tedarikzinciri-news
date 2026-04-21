@@ -3,7 +3,7 @@ title: "Somaliland'ın Kızıldeniz'de Yeni Bir Ticaret Merkezi Olarak Potansiye
 subtitle: "Somaliland'ın Kızıldeniz'de Yeni Bir Ticaret Merkezi Olarak Potansiyeli"
 date: "2025-01-02T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_76a01789dfa649d3b92ebf7ecb613375~mv2.jpg/News - 2025-01-02 - Somaliland.jpg"
+image: "https://static.wixstatic.com/media/6c3915_76a01789dfa649d3b92ebf7ecb613375~mv2.jpg"
 imageAlt: "Somaliland'ın Kızıldeniz'de Yeni Bir Ticaret Merkezi Olarak Potansiyeli"
 wixId: "1364edd7-61c0-4385-8e77-0e6f4205daeb"
 author: "Sedat Onat"

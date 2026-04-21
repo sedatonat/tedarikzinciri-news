@@ -3,7 +3,7 @@ title: "Ukrayna Saldırısı Sonrası Novorossiysk’te Ham Petrol Yüklemeleri 
 subtitle: "Ukrayna Saldırısı Sonrası Novorossiysk’te Ham Petrol Yüklemeleri 2–3 Gün Gecikiyor"
 date: "2025-11-18T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_58c2039ae77147349874ab313eae4ae3~mv2.jpg/rusya novorosiysk deniz gemi tanker.jpg"
+image: "https://static.wixstatic.com/media/6c3915_58c2039ae77147349874ab313eae4ae3~mv2.jpg"
 imageAlt: "Novorossiysk limanındaki Şeskharis terminaline yönelik Ukrayna saldırısı, Suezmax iskelelerini hasara uğratarak Rusya’nın ham petrol yüklemelerinde 2–3 günlük gecikmeye yol açtı."
 wixId: "88a3a6fb-35ca-45f5-92de-a8a8196a3bfa"
 author: "Sedat Onat"

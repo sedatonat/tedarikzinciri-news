@@ -3,7 +3,7 @@ title: "Barselona Limanı 265 Milyon Avroluk Yeni Demiryolu Merkeziyle Karbonsuz
 subtitle: "Barselona Limanı 265 Milyon Avroluk Yeni Demiryolu Merkeziyle Karbonsuz Lojistikte Vites Yükseltiyor"
 date: "2025-12-02T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9b5e26dbe01a4a68b292e6daa04f72e5~mv2.jpg/Barscelona hub liman.jpg"
+image: "https://static.wixstatic.com/media/6c3915_9b5e26dbe01a4a68b292e6daa04f72e5~mv2.jpg"
 imageAlt: "Barselona Limanı’nın eski Llobregat nehir yatağını dönüştürerek inşa edeceği 265 milyon avroluk yeni South Rail Hub projesi, modal shift stratejisi, karbon azaltımı ve Avrupa lojistik altyapısına etkileri üzerine detaylı haber özeti"
 wixId: "18b6b912-e81e-47e0-bcac-9d5e99ef71b6"
 author: "Sedat Onat"

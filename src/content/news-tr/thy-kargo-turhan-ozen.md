@@ -3,7 +3,7 @@ title: "THY Kargo Yönetim Kurulu Başkanı Turhan Özen dün akşam saatlerinde
 subtitle: "THY Kargo Yönetim Kurulu Başkanı Turhan Özen dün akşam saatlerinde görevinden alındı."
 date: "2023-11-27T07:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f80d630763c14f63a4813ee92bf0c3af~mv2.jpg/News - 2023-11-27 - Turskish Kargo.jpg"
+image: "https://static.wixstatic.com/media/6c3915_f80d630763c14f63a4813ee92bf0c3af~mv2.jpg"
 imageAlt: "THY Kargo Yönetim Kurulu Başkanı Turhan Özen dün akşam saatlerinde görevinden alındı."
 wixId: "4e2dbd0f-b5b5-4dfa-bfc8-738ef2d279b5"
 author: "Sedat Onat"

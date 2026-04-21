@@ -3,7 +3,7 @@ title: "Maliyet ve Karbon Ayak İzi Azaltımı için Perakendeciler Kutularını
 subtitle: "Maliyet ve Karbon Ayak İzi Azaltımı için Perakendeciler Kutularını Yeniden Tasarlıyor"
 date: "2025-03-27T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_f3b1ed036b2640048fa23584347a26d8~mv2.png/923.png"
+image: "https://static.wixstatic.com/media/6c3915_f3b1ed036b2640048fa23584347a26d8~mv2.png"
 imageAlt: "Maliyet Ve Karbon: Perakendeciler Kutularını Yeniden Düşünüyor"
 wixId: "a0316357-9fe4-4023-a675-ab718b3a3b4b"
 author: "Sedat Onat"

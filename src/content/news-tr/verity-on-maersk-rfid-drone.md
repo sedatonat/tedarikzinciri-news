@@ -3,7 +3,7 @@ title: "Verity, On ve Maersk, RFID Drone Teknolojisiyle Depo Takibini Test Ediyo
 subtitle: "Verity, On ve Maersk, RFID Drone Teknolojisiyle Depo Takibini Test Ediyor​"
 date: "2025-02-06T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_63ec1697d7164664bc158863b6bad4f4~mv2.jpg/News - 2025-02-06 - RFID Drone.jpg"
+image: "https://static.wixstatic.com/media/6c3915_63ec1697d7164664bc158863b6bad4f4~mv2.jpg"
 imageAlt: "Verity, On ve Maersk, RFID Drone Teknolojisiyle Depo Takibini Test Ediyor​"
 wixId: "12e0779f-84af-4ef1-ae9e-feab3906545f"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Kuzey Pasifik’te Çin Araştırma Gemileri ve ABD Askerî Faaliyetleri
 subtitle: "Kuzey Pasifik’te Çin Araştırma Gemileri ve ABD Askerî Faaliyetleri Artıyor"
 date: "2025-11-21T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e97eb940835a44308a99799befef8662~mv2.jpg/cin kuzey pasifik.jpg"
+image: "https://static.wixstatic.com/media/6c3915_e97eb940835a44308a99799befef8662~mv2.jpg"
 imageAlt: "Pasifik Center for Island Security verilerine göre Çin’in uzay–füze izleme ve denizaltı haritalama gemileri Kuzey Pasifik’te aktif; aynı dönemde ABD bölgedeki çok uluslu askerî tatbikatlarını artırdı."
 wixId: "bb508a08-afca-4de8-aa1c-803be51c4790"
 author: "Sedat Onat"

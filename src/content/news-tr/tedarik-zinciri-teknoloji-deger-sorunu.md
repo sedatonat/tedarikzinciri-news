@@ -3,7 +3,7 @@ title: "Tedarik Zinciri Teknolojilerine Yatırım: Beklenen Değer Neden Sağlan
 subtitle: "Tedarik Zinciri Teknolojilerine Yatırım: Beklenen Değer Neden Sağlanamıyor?"
 date: "2024-08-15T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_f1a82425436d4d81b03bfc7d33b75ff7~mv2.jpg/News - 2024-08-15 - PWC.jpg"
+image: "https://static.wixstatic.com/media/6c3915_f1a82425436d4d81b03bfc7d33b75ff7~mv2.jpg"
 imageAlt: "Tedarik Zinciri Teknolojilerine Yatırım: Beklenen Değer Neden Sağlanamıyor?"
 wixId: "9ace5ade-460a-4563-8296-6053049162e2"
 author: "Sedat Onat"

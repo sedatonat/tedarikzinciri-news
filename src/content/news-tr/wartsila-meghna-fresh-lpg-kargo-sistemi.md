@@ -3,7 +3,7 @@ title: "Wärtsilä, Meghna Fresh'in LPG Gemisine Kargo İşleme Sistemi Sağlıy
 subtitle: "Wärtsilä, Meghna Fresh'in LPG Gemisine Kargo İşleme Sistemi Sağlıyor"
 date: "2024-11-29T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0f4863edcb234a6baf92a4723626baef~mv2.jpeg/News - 2024-11-29 - LPG.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_0f4863edcb234a6baf92a4723626baef~mv2.jpeg"
 imageAlt: "Wärtsilä, Meghna Fresh'in LPG Gemisine Kargo İşleme Sistemi Sağlıyor"
 wixId: "40ac196f-9b6d-4522-9bf8-aeea10b14506"
 author: "Sedat Onat"

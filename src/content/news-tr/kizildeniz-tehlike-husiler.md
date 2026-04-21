@@ -3,7 +3,7 @@ title: "Kızıldeniz'de Tehlike: Yemen'in Husileri Ateşkesi İzleyecek, Ancak G
 subtitle: "Kızıldeniz'de Tehlike: Yemen'in Husileri Ateşkesi İzleyecek, Ancak Gemiler Hâlâ Risk Altında"
 date: "2025-01-16T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7db01c48f6354fb196352adef628e1dc~mv2.jpg/News - 2025-01-16 - Yemen.jpg"
+image: "https://static.wixstatic.com/media/6c3915_7db01c48f6354fb196352adef628e1dc~mv2.jpg"
 imageAlt: "Kızıldeniz'de Tehlike: Yemen'in Husileri Ateşkesi İzleyecek, Ancak Gemiler Hâlâ Risk Altında"
 wixId: "1e877bad-cb12-4290-abbe-08c26909fb79"
 author: "Sedat Onat"

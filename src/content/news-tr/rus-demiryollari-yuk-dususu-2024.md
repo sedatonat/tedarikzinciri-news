@@ -3,7 +3,7 @@ title: "Rus Demiryolları Son 15 Yılın En Büyük Yükleme Düşüşünü Kayd
 subtitle: "Rus Demiryolları Son 15 Yılın En Büyük Yükleme Düşüşünü Kaydetti"
 date: "2025-01-10T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3a54bd3665c642dfb840a047931e7a14~mv2.jpeg/News - 2025-01-10 - RZD.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_3a54bd3665c642dfb840a047931e7a14~mv2.jpeg"
 imageAlt: "Rus Demiryolları Son 15 Yılın En Büyük Yükleme Düşüşünü Kaydetti"
 wixId: "cb4ebbdf-8057-418c-995c-9965499d53ed"
 author: "Sedat Onat"

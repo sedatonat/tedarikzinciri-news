@@ -3,7 +3,7 @@ title: "Hapag-Lloyd, Yeşil Dönüşüm İçin Sekiz Metanol Yakıtlı Konteyner
 subtitle: "Hapag-Lloyd, Yeşil Dönüşüm İçin Sekiz Metanol Yakıtlı Konteyner Gemisi Sipariş Etti"
 date: "2025-12-12T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c71d09f856684e9ca58cbd947c7a2901~mv2.jpg/hapag lloyd port gantry crane.jpg"
+image: "https://static.wixstatic.com/media/6c3915_c71d09f856684e9ca58cbd947c7a2901~mv2.jpg"
 imageAlt: "Hapag-Lloyd’un CIMC Raffles’a verdiği sekiz adet 4.500 TEU’luk metanol yakıtlı yeni gemi siparişi, 500 milyon doları aşan yatırım, Strategy 2030 kapsamındaki filo yenileme ve karbon azaltım hedeflerinin detaylı özeti"
 wixId: "23626974-3dae-41c8-83c4-305b58f7ad04"
 author: "Sedat Onat"

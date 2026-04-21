@@ -3,7 +3,7 @@ title: "Birleşik Krallık’ta Demiryolu Yük Taşımacılığı İçin Net Sı
 subtitle: "Birleşik Krallık’ta Demiryolu Yük Taşımacılığı İçin Net Sıfır ve %75 Büyüme Hedefi Çatışıyor"
 date: "2025-12-12T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7161583be62e419d88514dcb0dc54309~mv2.jpg/british rail train.jpg"
+image: "https://static.wixstatic.com/media/6c3915_7161583be62e419d88514dcb0dc54309~mv2.jpg"
 imageAlt: "RailFreight.com yazarı Simon Walton’ın analizine göre Birleşik Krallık’ın 2050’ye kadar demiryolu yük taşımacılığında hem net sıfır emisyon hem de %75 büyüme hedeflerine ulaşmasının teknolojik, altyapısal ve operasyonel zorluklarını ele alan kapsamlı değerlendirme"
 wixId: "7b860eae-f812-4998-bd52-f5e3d0c3a4f5"
 author: "Sedat Onat"

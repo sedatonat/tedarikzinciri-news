@@ -3,7 +3,7 @@ title: "Mısır, Yeni Süveyş Kanalı Uzantısının Deneme Geçişini Tamamlad
 subtitle: "Mısır, Yeni Süveyş Kanalı Uzantısının Deneme Geçişini Tamamladı"
 date: "2024-12-28T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2e1a99f79b994d7e878d988a404c0ba3~mv2.jpg/News - 2024-12-28 - Suez Canal.jpg"
+image: "https://static.wixstatic.com/media/6c3915_2e1a99f79b994d7e878d988a404c0ba3~mv2.jpg"
 imageAlt: "Mısır, Yeni Süveyş Kanalı Uzantısının Deneme Geçişini Tamamladı"
 wixId: "217cd637-baad-4f9b-a0c6-450262c1478b"
 author: "Sedat Onat"

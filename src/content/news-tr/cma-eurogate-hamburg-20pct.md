@@ -3,7 +3,7 @@ title: "CMA CGM, Hamburg’daki EUROGATE Terminalinde %20 Hisse Alarak Intermoda
 subtitle: "CMA CGM, Hamburg’daki EUROGATE Terminalinde %20 Hisse Alarak Intermodal Ağını Güçlendiriyor"
 date: "2025-11-17T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0a399391c9fb498790a5dae32df48867~mv2.jpg/A-CMA-CGM-ship-at-CTH.jpg"
+image: "https://static.wixstatic.com/media/6c3915_0a399391c9fb498790a5dae32df48867~mv2.jpg"
 imageAlt: "CMA CGM, EUROGATE Container Terminal Hamburg (CTH)’de %20 hisse alarak terminal kapasitesinin 4 milyon TEU’dan 6 milyon TEU’ya çıkarılacağı Western Expansion projesine ortak oldu; şirket bu adımla dikey entegre lojistik stratejisini daha da derinleştiriyor."
 wixId: "355eabc4-8e54-4757-846e-46b1def37de9"
 author: "Sedat Onat"

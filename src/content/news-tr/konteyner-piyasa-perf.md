@@ -3,7 +3,7 @@ title: "Konteyner Piyasasında Haftalık Performans: Eğilimler, Kazançlar ve K
 subtitle: "Konteyner Piyasasında Haftalık Performans: Eğilimler, Kazançlar ve Kayıplar"
 date: "2025-03-14T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1eea0ff23c974500b2cdce5c1ce2b9eb~mv2.jpg/News - 2025-03-14 - Container Market.jpg"
+image: "https://static.wixstatic.com/media/6c3915_1eea0ff23c974500b2cdce5c1ce2b9eb~mv2.jpg"
 imageAlt: "Konteyner Piyasasında Haftalık Performans: Eğilimler, Kazançlar ve Kayıplar"
 wixId: "3c3cb872-ab15-4946-9dcd-2e4cff6bce59"
 author: "Sedat Onat"

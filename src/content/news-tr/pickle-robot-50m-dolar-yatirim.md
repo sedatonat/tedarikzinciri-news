@@ -3,7 +3,7 @@ title: "Pickle Robot, AI ile Kamyon Boşaltımını Değiştirmek İçin 50 Mily
 subtitle: "Pickle Robot, AI ile Kamyon Boşaltımını Değiştirmek İçin 50 Milyon Dolar Topladı"
 date: "2024-11-20T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_00537493dea0489ea9ad2d51fc79a894~mv2.jpg/News - 2024-11-20 - Pickle Robot.jpg"
+image: "https://static.wixstatic.com/media/6c3915_00537493dea0489ea9ad2d51fc79a894~mv2.jpg"
 imageAlt: "Pickle Robot, AI ile Kamyon Boşaltımını Değiştirmek İçin 50 Milyon Dolar Topladı"
 wixId: "1224c0b3-224d-4b94-aa9b-e9cb2aa192db"
 author: "Sedat Onat"

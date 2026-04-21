@@ -3,7 +3,7 @@ title: "Kuehne+Nagel, Eski DSV Yöneticisi Aaron Scott’ı 2026’dan İtibaren
 subtitle: "Kuehne+Nagel, Eski DSV Yöneticisi Aaron Scott’ı 2026’dan İtibaren İngiltere Operasyonlarının Başına Getiriyor"
 date: "2025-11-18T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_78b1c7ea862e489b892030aaa6aee1ba~mv2.jpg/aaron scott.jpg"
+image: "https://static.wixstatic.com/media/6c3915_78b1c7ea862e489b892030aaa6aee1ba~mv2.jpg"
 imageAlt: "Kuehne+Nagel, yaklaşık 30 yıllık sektör deneyimine sahip eski DSV yöneticisi Aaron Scott’ı 2026 itibarıyla İngiltere bölümü için yeni yönetici olarak atayarak ülke stratejisini güçlendiriyor."
 wixId: "2a74dfcb-c57a-40ba-bbdf-9a61984fbc27"
 author: "Sedat Onat"

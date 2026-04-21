@@ -3,7 +3,7 @@ title: "Doğu ve Körfez Kıyıları Limanlarında Grev Tehlikesi: Anlaşma Zama
 subtitle: "Doğu ve Körfez Kıyıları Limanlarında Grev Tehlikesi: Anlaşma Zamanı Daralıyor"
 date: "2024-05-16T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_317fa8b66eb24ea0b1a12fbc5c97a2f9~mv2.jpg/News - 2024-05-16 - Port Strike.jpg"
+image: "https://static.wixstatic.com/media/6c3915_317fa8b66eb24ea0b1a12fbc5c97a2f9~mv2.jpg"
 imageAlt: "Doğu ve Körfez Kıyıları Limanlarında Grev Tehlikesi: Anlaşma Zamanı Daralıyor"
 wixId: "58243deb-43c4-43a2-806a-1cf97e4ee3ea"
 author: "Sedat Onat"

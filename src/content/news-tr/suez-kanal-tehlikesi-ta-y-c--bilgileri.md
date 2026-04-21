@@ -3,7 +3,7 @@ title: "Süveyş Kanalı Tehlikede: Taşıyıcıların Bilmesi Gerekenler ve Yö
 subtitle: "Süveyş Kanalı Tehlikede: Taşıyıcıların Bilmesi Gerekenler ve Yönlendirme Stratejileri"
 date: "2023-12-22T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_743ef9f0c31d4c8988fd97f713fe1853~mv2.jpg/News - 2023-12-22 - Suez.jpg"
+image: "https://static.wixstatic.com/media/6c3915_743ef9f0c31d4c8988fd97f713fe1853~mv2.jpg"
 imageAlt: "Süveyş Kanalı Tehlikede: Taşıyıcıların Bilmesi Gerekenler ve Yönlendirme Stratejileri"
 wixId: "f068a3f1-9ddb-4a50-b2f2-11ce6abcb6ae"
 author: "Sedat Onat"

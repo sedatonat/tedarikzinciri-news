@@ -3,7 +3,7 @@ title: "Kanadalı Havayolu Air Transat, Pilot Grevi Tehdidi Nedeniyle Uçuşlar�
 subtitle: "Kanadalı Havayolu Air Transat, Pilot Grevi Tehdidi Nedeniyle Uçuşları Askıya Almaya Başlıyor"
 date: "2025-12-08T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0fc33f202ef24f79b444e8cc8d0b0d0d~mv2.jpg/transat plane flying.jpg"
+image: "https://static.wixstatic.com/media/6c3915_0fc33f202ef24f79b444e8cc8d0b0d0d~mv2.jpg"
 imageAlt: "Air Transat pilotlarının 72 saatlik grev bildirimi sonrası havayolunun kademeli uçuş askıya alma kararı, sendika–yönetim gerilimi, operasyonel riskler ve Kanada havacılık sektörü üzerindeki etkilerin detaylı özeti"
 wixId: "84bf57a8-790a-4509-93db-aae604e41bf5"
 author: "Sedat Onat"

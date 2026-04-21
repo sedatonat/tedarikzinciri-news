@@ -3,7 +3,7 @@ title: "Truckstop, Dry Van Taşımacılara Özel Düşük Maliyetli Yük Platfor
 subtitle: "Truckstop, Dry Van Taşımacılara Özel Düşük Maliyetli Yük Platformunu Tanıttı"
 date: "2025-10-27T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_574aaeed779948a185188ffc86ebae34~mv2.jpg/Aerial View of Trucks.jpg"
+image: "https://static.wixstatic.com/media/11062b_574aaeed779948a185188ffc86ebae34~mv2.jpg"
 imageAlt: "Truckstop.com, küçük filolar ve bağımsız sürücüler için yalnızca dry van taşımacılığa odaklanan, aylık 35 dolar ücretli yeni bir yük platformu geliştirdi. Sistem, doğrulanmış yüklerle anlık fiyat verilerini birleştirerek küçük taşımacılara büyük firmalarla eşdeğer veri görünürlüğü sağlıyor."
 wixId: "9e7d8c28-689d-47de-8d05-ebef17ed4ac2"
 author: "Sedat Onat"

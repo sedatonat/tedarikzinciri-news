@@ -3,7 +3,7 @@ title: "Kongre Üyesi Van Drew ve Trump, Biden'ın Açık Deniz Rüzgar Enerjisi
 subtitle: "Kongre Üyesi Van Drew ve Trump, Biden'ın Açık Deniz Rüzgar Enerjisi Hedeflerini Engellemek İçin Bir Araya Geldi"
 date: "2025-01-16T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_5dd37be9341d4fee9dbde7e4aae2d38b~mv2.jpg/News - 2025-01-16 - Offshore Wind.jpg"
+image: "https://static.wixstatic.com/media/6c3915_5dd37be9341d4fee9dbde7e4aae2d38b~mv2.jpg"
 imageAlt: "Kongre Üyesi Van Drew ve Trump, Biden'ın Açık Deniz Rüzgar Enerjisi Hedeflerini Engellemek İçin Bir Araya Geldi"
 wixId: "d0591f4c-df7b-4d04-8837-3bfb5e21fbce"
 author: "Sedat Onat"

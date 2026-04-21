@@ -3,7 +3,7 @@ title: "Küresel Yazılım Kesintisi: Microsoft ve CrowdStrike Sistem Sorunu Dü
 subtitle: "Küresel Yazılım Kesintisi: Microsoft ve CrowdStrike Sistem Sorunu Dünyayı Sarsıyor"
 date: "2024-07-19T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_d50fc4f9997040a393020249fd3e467e~mv2.jpg/News - 2024-07-19 - internet.jpg"
+image: "https://static.wixstatic.com/media/6c3915_d50fc4f9997040a393020249fd3e467e~mv2.jpg"
 imageAlt: "Küresel Yazılım Kesintisi: Microsoft ve CrowdStrike Sistem Sorunu Dünyayı Sarsıyor"
 wixId: "0ddfa87a-8a75-4ca2-b058-a1de74f14345"
 author: "Sedat Onat"

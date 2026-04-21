@@ -3,7 +3,7 @@ title: "Veri Hazırlığıyla Fark Yaratan Perakendeciler: Beş Kat Daha Yüksek
 subtitle: "Veri Hazırlığıyla Fark Yaratan Perakendeciler: Beş Kat Daha Yüksek Büyüme"
 date: "2025-10-20T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/11062b_ae708cec5f3242a588b44741a32efc05~mv2.jpg/Data Technology.jpg"
+image: "https://static.wixstatic.com/media/11062b_ae708cec5f3242a588b44741a32efc05~mv2.jpg"
 imageAlt: "Veri Hazırlığıyla Fark Yaratan Perakendeciler: Beş Kat Daha Yüksek Büyüme"
 wixId: "bfa39fd4-c937-4447-8d58-e0a34c70be21"
 author: "Sedat Onat"

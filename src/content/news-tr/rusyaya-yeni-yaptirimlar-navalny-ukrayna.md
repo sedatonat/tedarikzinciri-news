@@ -3,7 +3,7 @@ title: "ABD ve AB'den Rusya'ya Navalny'nin Ölümü ve Ukrayna İşgali Nedeniyl
 subtitle: "ABD ve AB'den Rusya'ya Navalny'nin Ölümü ve Ukrayna İşgali Nedeniyle Yeni Yaptırımlar"
 date: "2024-02-24T01:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_03bfab521d994d208e6d272df437a161~mv2.jpg/News - 2024-02-24 - Sanctions.jpg"
+image: "https://static.wixstatic.com/media/6c3915_03bfab521d994d208e6d272df437a161~mv2.jpg"
 imageAlt: "ABD ve AB'den Rusya'ya Navalny'nin Ölümü ve Ukrayna İşgali Nedeniyle Yeni Yaptırımlar"
 wixId: "0f3ce6da-3f68-4984-ad1b-fcc8b32a91a8"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Trump Tarifalarının Temu ve Shein’in ABD Pazarındaki Geleceğini Et
 subtitle: "Trump Tarifalarının Temu ve Shein’in ABD Pazarındaki Geleceğini Etkileyip Etkilemeyeceği"
 date: "2024-11-27T09:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_b476443684d046b88a47986d02c95fa8~mv2.jpg/News - 2024-11-27 - Temu.jpg"
+image: "https://static.wixstatic.com/media/6c3915_b476443684d046b88a47986d02c95fa8~mv2.jpg"
 imageAlt: "Trump Tarifalarının Temu ve Shein’in ABD Pazarındaki Geleceğini Etkileyip Etkilemeyeceği"
 wixId: "c3b34dbb-93f3-4166-a145-8f0a37f9f654"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "IAPH, Environmental Ship Index için Yeni GHG Performans Göstergesi Gel
 subtitle: "IAPH, Environmental Ship Index için Yeni GHG Performans Göstergesi Geliştiriyor"
 date: "2024-10-01T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1fd5e95efb9246ffb1f6a0c7dcbd3c46~mv2.jpg/News - 2024-10-01 - IAPH.jpg"
+image: "https://static.wixstatic.com/media/6c3915_1fd5e95efb9246ffb1f6a0c7dcbd3c46~mv2.jpg"
 imageAlt: "IAPH, Environmental Ship Index için Yeni GHG Performans Göstergesi Geliştiriyor"
 wixId: "2ddbd722-f238-4df9-ac8e-24e0f54c67f7"
 author: "Sedat Onat"

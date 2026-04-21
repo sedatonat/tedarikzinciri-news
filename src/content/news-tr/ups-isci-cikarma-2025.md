@@ -3,7 +3,7 @@ title: "UPS, Amazon Hacmindeki Düşüşe Paralel Olarak Bu Yıl 34 Bin Kişiyi 
 subtitle: "UPS, Amazon Hacmindeki Düşüşe Paralel Olarak Bu Yıl 34 Bin Kişiyi İşten Çıkardı ve 93 Tesisi Kapattı"
 date: "2025-10-28T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0a61d7ca68d64f5ba7cdf7a25f279fd4~mv2.jpg/ups trolley.jpg"
+image: "https://static.wixstatic.com/media/6c3915_0a61d7ca68d64f5ba7cdf7a25f279fd4~mv2.jpg"
 imageAlt: "UPS, 2025’in ilk dokuz ayında 34.000 çalışanını işten çıkardı ve 93 binayı kapattı. Şirket, Amazon’dan gelen paket hacmindeki %21 düşüş ve ABD operasyon ağının yeniden yapılandırılması kapsamında maliyetleri 3,5 milyar dolara kadar azaltmayı hedefliyor."
 wixId: "9e2ad470-d5c4-4710-b99b-56cf0983be3d"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Ermenistan ve Azerbaycan Arasındaki Politik Uzlaşı, Kafkasya’da Yen
 subtitle: "Ermenistan ve Azerbaycan Arasındaki Politik Uzlaşı, Kafkasya’da Yeni Transit Koridorlarını Açıyor"
 date: "2025-10-29T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d35f03f3d5b84cadad321b115da48fb3~mv2.jpg/kafkas lojistik koridoru.jpg"
+image: "https://static.wixstatic.com/media/6c3915_d35f03f3d5b84cadad321b115da48fb3~mv2.jpg"
 imageAlt: "Ermenistan ve Azerbaycan arasındaki politik uzlaşma, Kafkasya bölgesinde demiryolu ve kara taşımacılığı ağlarını yeniden şekillendiriyor. Uzun yıllar süren kapalı sınırlar ve transit yasağının ardından, bölge artık uluslararası yük taşımacılığına yeniden açılıyor."
 wixId: "3d4d9f4e-4b25-47cd-9947-33e4943517f0"
 author: "Sedat Onat"

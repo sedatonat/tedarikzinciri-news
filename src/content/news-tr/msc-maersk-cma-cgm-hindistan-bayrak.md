@@ -3,7 +3,7 @@ title: "MSC ve Maersk, CMA CGM’nin Ardından Gemilerini Hindistan Bayrağına 
 subtitle: "MSC ve Maersk, CMA CGM’nin Ardından Gemilerini Hindistan Bayrağına Geçiriyor"
 date: "2025-10-24T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_132c9c1b1722490883bf53eef0c4e5ea~mv2.jpg/MSC Maersk CMS CGM india.jpg"
+image: "https://static.wixstatic.com/media/6c3915_132c9c1b1722490883bf53eef0c4e5ea~mv2.jpg"
 imageAlt: "MSC ve Maersk, CMA CGM’nin Ardından Gemilerini Hindistan Bayrağına Geçiriyor"
 wixId: "2493fb68-0de2-4596-8133-5ad6a29bef56"
 author: "Sedat Onat"

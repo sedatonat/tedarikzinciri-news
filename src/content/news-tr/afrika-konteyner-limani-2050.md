@@ -3,7 +3,7 @@ title: "Afrika 2050’ye Kadar Konteyner Talebinde Dev Sıçrama Vaat Ediyor, An
 subtitle: "Afrika 2050’ye Kadar Konteyner Talebinde Dev Sıçrama Vaat Ediyor, Ancak Limanlar 2025’te Krizi Kaldıramıyor"
 date: "2025-12-01T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_99d08440560b4186922a51d3ce06c298~mv2.jpg/afrika konteyner genisi liman.jpg"
+image: "https://static.wixstatic.com/media/6c3915_99d08440560b4186922a51d3ce06c298~mv2.jpg"
 imageAlt: "Sea-Intelligence’ın Afrika’nın 5% yıllık büyüme potansiyelini açıklayan projeksiyonları ile 2025’te Red Sea krizinin Afrika limanlarını nasıl zayıf halkaya dönüştürdüğüne dair kapsamlı lojistik analizi"
 wixId: "a804aaa7-71b9-4ec1-9185-f11ed753599e"
 author: "Sedat Onat"

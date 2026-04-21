@@ -3,7 +3,7 @@ title: "Kuehne+Nagel, Hindistan’daki Depolama ve Dağıtım Kapasitesini Artı
 subtitle: "Kuehne+Nagel, Hindistan’daki Depolama ve Dağıtım Kapasitesini Artırıyor"
 date: "2025-10-20T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1aca55a2e9e14823a92118c06dd55b53~mv2.jpg/Koehne Nagel.jpg"
+image: "https://static.wixstatic.com/media/6c3915_1aca55a2e9e14823a92118c06dd55b53~mv2.jpg"
 imageAlt: "Kuehne+Nagel, Hindistan’daki Depolama ve Dağıtım Kapasitesini 100.000 m² Artırmakta"
 wixId: "bbf10c83-981d-4fe8-ba42-09e89d2be41a"
 author: "Sedat Onat"

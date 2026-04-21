@@ -3,7 +3,7 @@ title: "Yük Taşımacılığı Görünürlük Sağlayıcısı Sensör Ağı Gen
 subtitle: "Yük Taşımacılığı Görünürlük Sağlayıcısı Sensör Ağı Genişletmek İçin Fon Aldı"
 date: "2025-02-03T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5e2d2e1cd397452885790e0a9535a87e~mv2.jpg/News - 2025-02-03 - Truck.jpg"
+image: "https://static.wixstatic.com/media/6c3915_5e2d2e1cd397452885790e0a9535a87e~mv2.jpg"
 imageAlt: "Yük Taşımacılığı Görünürlük Sağlayıcısı Sensör Ağı Genişletmek İçin Fon Aldı"
 wixId: "9bafe9b4-23f5-4736-88d9-478e5962f2b7"
 author: "Sedat Onat"

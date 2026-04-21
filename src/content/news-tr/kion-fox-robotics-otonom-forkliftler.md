@@ -3,7 +3,7 @@ title: "Kion ve Fox Robotics'ten Stratejik Ortaklık: Otonom Forkliftlerin Yüks
 subtitle: "Kion ve Fox Robotics'ten Stratejik Ortaklık: Otonom Forkliftlerin Yükselişi"
 date: "2024-05-07T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_60bf5e392bbc42b69fa7313f3a91d0f5~mv2.png/News - 2024-05-07 - Kion.png"
+image: "https://static.wixstatic.com/media/6c3915_60bf5e392bbc42b69fa7313f3a91d0f5~mv2.png"
 imageAlt: "Kion ve Fox Robotics'ten Stratejik Ortaklık: Otonom Forkliftlerin Yükselişi"
 wixId: "18fa5666-b89f-4e3f-a6a7-9d52ab50e00c"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Yeni ABD Tarifesi Öncesi Çin Hava Kargo Talebi ve Fiyatları Yükselme
 subtitle: "Yeni ABD Tarifesi Öncesi Çin Hava Kargo Talebi ve Fiyatları Yükselmekte"
 date: "2025-10-20T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a42a43e40d034145bc732c828e6d4fe0~mv2.jpeg/China Havalimani.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_a42a43e40d034145bc732c828e6d4fe0~mv2.jpeg"
 imageAlt: "Yeni ABD Tarifesi Öncesi Çin Hava Kargo Talebi ve Fiyatları Yükselmekte"
 wixId: "01c459c8-8b81-4c1a-a5a8-922668ee9008"
 author: "Sedat Onat"

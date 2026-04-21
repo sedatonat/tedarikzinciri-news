@@ -3,7 +3,7 @@ title: "Amazon, Avrupa'daki Tedarik Zincirlerinde Karbon Azaltma Hedefleri İçi
 subtitle: "Amazon, Avrupa'daki Tedarik Zincirlerinde Karbon Azaltma Hedefleri İçin Demiryolu ve Deniz Taşımacılığını Artırıyor"
 date: "2023-12-06T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_fb46d89f935a4603828a99ad6a40118c~mv2.png/News - 2023-12-06 - Amazon.png"
+image: "https://static.wixstatic.com/media/6c3915_fb46d89f935a4603828a99ad6a40118c~mv2.png"
 imageAlt: "Amazon, Avrupa'daki Tedarik Zincirlerinde Karbon Azaltma Hedefleri İçin Demiryolu ve Deniz Taşımacılığını Artırıyor"
 wixId: "09240326-d725-4a27-89e6-78996a910a04"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "ABD’de Üretim Geri Döner mi? Reshoring Gerçeği, Engeller ve Yeni M
 subtitle: "ABD’de Üretim Geri Döner mi? Reshoring Gerçeği, Engeller ve Yeni Model"
 date: "2025-10-31T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_7b34918722dc448dbc08d8399a345d03~mv2.jpg/rosemary coates.jpg"
+image: "https://static.wixstatic.com/media/6c3915_7b34918722dc448dbc08d8399a345d03~mv2.jpg"
 imageAlt: "Reshoring Institute Direktörü Rosemary Coates, ABD’nin üretimi geri çekme çabalarında iş gücü beceri açığı, altyapı eksikliği, yüksek maliyetler ve fabrika kapasitesi yetersizliği nedeniyle kısmi ama sınırlı bir dönüşün mümkün olduğunu; asıl fırsatın sofistike, otomasyon ağırlıklı üretimde olduğunu vurguluyor."
 wixId: "c3b5c52c-583e-4f98-960f-f1857a83569f"
 author: "Sedat Onat"

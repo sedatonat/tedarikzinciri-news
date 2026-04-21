@@ -3,7 +3,7 @@ title: "Karadeniz’de Iki Tankere Yönelik Saldırı Sonrası Acil Müdahale Ba
 subtitle: "Karadeniz’de Iki Tankere Yönelik Saldırı Sonrası Acil Müdahale Başlatıldı"
 date: "2025-11-28T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_91ca45d212a44176b3d0a76fbe8f8abd~mv2.jpg/karadeniz tanker gemi patlama saldiri rusya ukrayna.jpg"
+image: "https://static.wixstatic.com/media/6c3915_91ca45d212a44176b3d0a76fbe8f8abd~mv2.jpg"
 imageAlt: "Karadeniz’de Rusya bağlantılı Kairos ve Virat tankerlerinde yaşanan patlamalar sonrası tüm mürettebatın tahliye edildiği, gemilerde “harici etki” bulgularının incelendiği ve Türkiye’nin bölgede geniş ölçekli deniz güvenlik operasyonları yürüttüğü olaylara ilişkin detaylı haber özeti"
 wixId: "0296c0a8-662b-45ed-80cd-89805671ec03"
 author: "Sedat Onat"

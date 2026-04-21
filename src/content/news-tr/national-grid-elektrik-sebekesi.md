@@ -3,7 +3,7 @@ title: "National Grid, 76,4 Milyar Dolar Değerindeki Yüksek Gerilim Tedarik Zi
 subtitle: "National Grid, 76,4 Milyar Dolar Değerindeki Yüksek Gerilim Tedarik Zinciri Çerçevesinden Pay Aldı"
 date: "2025-03-13T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_84db95f0eaf34cdea37b9a653818806e~mv2.jpg/nationalgrid.jpg"
+image: "https://static.wixstatic.com/media/6c3915_84db95f0eaf34cdea37b9a653818806e~mv2.jpg"
 imageAlt: "National Grid, 76,4 Milyar Dolar Değerindeki Yüksek Gerilim Tedarik Zinciri Çerçevesinden Pay Aldı"
 wixId: "a968dccb-5e14-41d0-b020-d6ef9276c19f"
 author: "Sedat Onat"

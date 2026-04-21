@@ -3,7 +3,7 @@ title: "Çin’den Avrupa’ya Arktik Kuzey Deniz Rotası Üzerinden İlk Kontey
 subtitle: "Çin’den Avrupa’ya Arktik Kuzey Deniz Rotası Üzerinden İlk Konteyner Seferi Tamamlandı"
 date: "2025-10-17T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_eea2a04d7aaa4a7090dd2d321c13413f~mv2.jpg/cin avrupa kuzey denizi rotasi.jpg"
+image: "https://static.wixstatic.com/media/6c3915_eea2a04d7aaa4a7090dd2d321c13413f~mv2.jpg"
 imageAlt: "Kuzey Deniz Rotası (Northern Sea Route) üzerinden Çin’den Avrupa’ya yapılan ilk konteyner taşımacılığı seferi başarıyla tamamlandı. Gemi, 23 Eylül’de Çin’den yola çıkarak yalnızca 20 günde İngiltere’nin Felixstowe Limanı’na ulaştı ve yaklaşık 25 bin ton yük teslim etti."
 wixId: "3e10dee2-ee47-4c50-ad73-16d7b42f93d1"
 author: "Sedat Onat"

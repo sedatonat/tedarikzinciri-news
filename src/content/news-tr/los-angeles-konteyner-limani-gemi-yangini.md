@@ -3,7 +3,7 @@ title: "Los Angeles Limanı’nda Konteyner Gemisi Yangını Operasyonları Durd
 subtitle: "Los Angeles Limanı’nda Konteyner Gemisi Yangını Operasyonları Durdurdu"
 date: "2025-11-22T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1048900e337a4411811b5b2ea5b07598~mv2.jpg/konteyner limani yukaridan.jpg"
+image: "https://static.wixstatic.com/media/6c3915_1048900e337a4411811b5b2ea5b07598~mv2.jpg"
 imageAlt: "Los Angeles Limanı’nda One Henry Hudson adlı konteyner gemisinde tehlikeli madde içeren bir yangının çıkması, geminin açık alana çekilmesi ve dört terminalde operasyonların durmasıyla sonuçlanan olayın detaylı özeti."
 wixId: "8c585788-fd80-4060-9e3b-6f1b65e82139"
 author: "Sedat Onat"

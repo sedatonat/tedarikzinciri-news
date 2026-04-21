@@ -3,7 +3,7 @@ title: "Türkiye’nin İlk Özel Intermodal Terminali Railport Operasyona Başl
 subtitle: "Türkiye’nin İlk Özel Intermodal Terminali Railport Operasyona Başladı"
 date: "2025-11-24T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_883f4730340c4bd49e75062d3b1eb966~mv2.jpg/turkiye metrans demiryolu.jpg"
+image: "https://static.wixstatic.com/media/6c3915_883f4730340c4bd49e75062d3b1eb966~mv2.jpg"
 imageAlt: "Railport’un METRANS operatörlüğündeki ilk treniyle faaliyete geçmesi, terminalin kapasitesi, altyapısı, intermodal avantajları ve Türkiye–Avrupa yük taşımacılığına etkilerinin detaylı özeti."
 wixId: "db73eb1e-38d7-48da-97e9-fdbb47e96473"
 author: "Sedat Onat"

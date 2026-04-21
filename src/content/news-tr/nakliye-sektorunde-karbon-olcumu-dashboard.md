@@ -3,7 +3,7 @@ title: "Nakliye Sektöründe Karbon Emisyonlarını Ölçme: \"Carbon Dashboard\
 subtitle: "Nakliye Sektöründe Karbon Emisyonlarını Ölçme: \"Carbon Dashboard\" ile Yeni Bir Dönem"
 date: "2024-08-16T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_637800032fe6437892661655198225fe~mv2.png/News - 2024-08-16 - Carbon DB.png"
+image: "https://static.wixstatic.com/media/6c3915_637800032fe6437892661655198225fe~mv2.png"
 imageAlt: "Nakliye Sektöründe Karbon Emisyonlarını Ölçme: \"Carbon Dashboard\" ile Yeni Bir Dönem"
 wixId: "9a4375d9-5d0f-4df6-838c-43c5cd7c34f5"
 author: "Sedat Onat"

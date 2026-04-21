@@ -3,7 +3,7 @@ title: "Canada Post Grevleri Anlaşma Sonrası Askıya Alındı: Teslimatlarda R
 subtitle: "Canada Post Grevleri Anlaşma Sonrası Askıya Alındı: Teslimatlarda Rahatlama Beklentisi"
 date: "2025-11-22T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_ea68a875529546659597afa2e2364ed7~mv2.jpg/kanada posta servisi.jpg"
+image: "https://static.wixstatic.com/media/6c3915_ea68a875529546659597afa2e2364ed7~mv2.jpg"
 imageAlt: "Canada Post ile sendika arasında prensip anlaşmasına varılması sonucu grevlerin askıya alınması ve ülke genelinde teslimatların normale dönme beklentisini özetleyen detaylı açıklama."
 wixId: "ea828fae-6f46-493c-b0b4-22d181263757"
 author: "Sedat Onat"

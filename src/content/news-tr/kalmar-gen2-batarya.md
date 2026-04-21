@@ -3,7 +3,7 @@ title: "Kalmar, Elektrikli Straddle Carrier’lar İçin Gen 2 Bataryayı Tanıt
 subtitle: "Kalmar, Elektrikli Straddle Carrier’lar İçin Gen 2 Bataryayı Tanıttı"
 date: "2025-12-15T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_684a7b6a288b452786638db4475115c7~mv2.jpg/kalmar straddle carrier.jpg"
+image: "https://static.wixstatic.com/media/6c3915_684a7b6a288b452786638db4475115c7~mv2.jpg"
 imageAlt: "Kalmar tarafından geliştirilen Gen 2 lithium-ion battery çözümünün enerji kapasitesi, operasyon süresi, şarj esnekliği ve sürdürülebilirlik açısından elektrikli straddle carrier operasyonlarına getirdiği yenilikleri ele alan detaylı sektör özeti"
 wixId: "4eb3f73b-4493-435d-a33c-8bcad9e62624"
 author: "Sedat Onat"

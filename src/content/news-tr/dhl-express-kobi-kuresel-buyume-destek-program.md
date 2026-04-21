@@ -3,7 +3,7 @@ title: "DHL Express ile ABD'li Küçük İşletmelerin Küresel Büyüme Fırsat
 subtitle: "DHL Express ile ABD'li Küçük İşletmelerin Küresel Büyüme Fırsatları"
 date: "2024-08-06T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_537544e34b104dc189d7d6a3a6e47256~mv2.jpeg/News - 2024-08-06 - DHL.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_537544e34b104dc189d7d6a3a6e47256~mv2.jpeg"
 imageAlt: "DHL Express ile ABD'li Küçük İşletmelerin Küresel Büyüme Fırsatları"
 wixId: "8995955a-bbdb-464b-9bda-ee0ba570fe87"
 author: "Sedat Onat"

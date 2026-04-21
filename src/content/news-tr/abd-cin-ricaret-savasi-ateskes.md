@@ -3,7 +3,7 @@ title: "ABD–Çin Ticaret Ateşkesi: Tarifeler Düşüyor, Karşılıklı Önle
 subtitle: "ABD–Çin Ticaret Ateşkesi: Tarifeler Düşüyor, Karşılıklı Önlemler Askıya Alınıyor"
 date: "2025-10-30T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_cfb2a69863504957b776c4665894baba~mv2.jpg/us china trump ping.jpg"
+image: "https://static.wixstatic.com/media/6c3915_cfb2a69863504957b776c4665894baba~mv2.jpg"
 imageAlt: "ABD ve Çin, Busan’daki liderler görüşmesinde tarifelerin düşürüldüğü, karşılıklı yaptırımların askıya alındığı, nadir toprak ihracat kontrollerinin durdurulduğu ve bir yıllık ticaret ateşkesinin başlatıldığı kapsamlı bir anlaşmaya vardı."
 wixId: "1a49851c-1c8a-4dec-93d4-fde86f88074d"
 author: "Sedat Onat"

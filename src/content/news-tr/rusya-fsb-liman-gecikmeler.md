@@ -3,7 +3,7 @@ title: "Rus Limanlarında Yeni FSB Kuralları Gecikmeleri Artırıyor: Gemi Sahi
 subtitle: "Rus Limanlarında Yeni FSB Kuralları Gecikmeleri Artırıyor: Gemi Sahipleri Yoğun Düzenleyici Baskıya Hazırlanmak Zorunda"
 date: "2025-12-08T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e744f4d7123a41abad645b21b84c6df6~mv2.jpg/Kairos-tanker-on-fire-Turkish-Directorate-General-for-Maritime-Affairs-780x470.jpg"
+image: "https://static.wixstatic.com/media/6c3915_e744f4d7123a41abad645b21b84c6df6~mv2.jpg"
 imageAlt: "Rusya’nın 25 Kasım sonrası yürürlüğe giren FSB liman giriş rejimi, 48–53 saatlik gecikme riskleri, zorunlu sualtı kontrolleri, artan savaş sigortası primleri ve Karadeniz güvenlik ortamının tedarik zincirine etkilerine dair detaylı özet"
 wixId: "b263b01f-c722-459d-a8de-dd004861fb31"
 author: "Sedat Onat"

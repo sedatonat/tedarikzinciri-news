@@ -3,7 +3,7 @@ title: "APM Terminals, Bangladeş’in En Derin Konteyner Terminalini Chittagong
 subtitle: "APM Terminals, Bangladeş’in En Derin Konteyner Terminalini Chittagong’da Kuracak"
 date: "2025-11-17T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b0068ca939fb446da02912a7b9d46cbd~mv2.jpg/terminal container ship from top.jpg"
+image: "https://static.wixstatic.com/media/6c3915_b0068ca939fb446da02912a7b9d46cbd~mv2.jpg"
 imageAlt: "APM Terminals, Bangladeş'in ana kapısı olan Chittagong Limanı’nda 550 milyon dolarlık Laldia Container Terminali inşa edecek. 2030’da açılması planlanan terminal, ülkenin en derin ve en modern konteyner tesisi olacak ve 30 yıllık imtiyaz kapsamında APMT tarafından işletilecek."
 wixId: "b0da84e6-e743-4143-ae95-05be27ffdbf4"
 author: "Sedat Onat"

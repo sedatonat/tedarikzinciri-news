@@ -3,7 +3,7 @@ title: "Meksika Giyim ve Tekstil İthalatçıları İçin Gümrüksüz Sipariş 
 subtitle: "Meksika Giyim ve Tekstil İthalatçıları İçin Gümrüksüz Sipariş Seçeneğini Kısıtlıyor"
 date: "2024-12-26T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_2b4c2b4d5c3b433cbdfa3669d0dd1f1b~mv2.jpg/News - 2024-12-26 - Mexico.jpg"
+image: "https://static.wixstatic.com/media/6c3915_2b4c2b4d5c3b433cbdfa3669d0dd1f1b~mv2.jpg"
 imageAlt: "Meksika Giyim ve Tekstil İthalatçıları İçin Gümrüksüz Sipariş Seçeneğini Kısıtlıyor"
 wixId: "63c8eace-48eb-4057-a96f-28740378f722"
 author: "Sedat Onat"

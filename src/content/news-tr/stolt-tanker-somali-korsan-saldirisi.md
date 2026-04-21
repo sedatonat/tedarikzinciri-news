@@ -3,7 +3,7 @@ title: "Somali Açıklarında Stolt Tankerine Korsan Saldırısı: Silahlı Çat
 subtitle: "Somali Açıklarında Stolt Tankerine Korsan Saldırısı: Silahlı Çatışma Yaşandı"
 date: "2025-11-03T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8028986e6ea348469d075afbbea1f734~mv2.jpg/stolt tankers somali pirate.jpg"
+image: "https://static.wixstatic.com/media/6c3915_8028986e6ea348469d075afbbea1f734~mv2.jpg"
 imageAlt: "Stolt Tankers’e ait Cayman Adaları bayraklı kimyasal tanker Stolt Sagaland, Somali açıklarında korsan saldırısına uğradı. Gemideki silahlı güvenlik ekibi karşı ateş açarak saldırıyı püskürttü. Olayda yaralanma veya hasar meydana gelmedi."
 wixId: "41f7485e-304b-4886-8f23-5ac8ab251769"
 author: "Sedat Onat"

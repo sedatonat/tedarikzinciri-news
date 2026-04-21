@@ -3,7 +3,7 @@ title: "Hartmann ve Heidelberg Materials, Norveç İçin Metanol Yakıtlı Çime
 subtitle: "Hartmann ve Heidelberg Materials, Norveç İçin Metanol Yakıtlı Çimento Gemisi Siparişi Verdi"
 date: "2025-12-12T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_f12ed24f5d5341ad8442300d68d83cb2~mv2.jpg/hartmann group heidelberg norway.jpg"
+image: "https://static.wixstatic.com/media/6c3915_f12ed24f5d5341ad8442300d68d83cb2~mv2.jpg"
 imageAlt: "Hartmann Group ve Heidelberg Materials Northern Europe’un Norveç kıyı taşımacılığı için devreye alacağı metanol yakıtlı çimento taşıyıcısının operasyonel modeli, emisyon azaltım hedefleri ve yeşil denizcilik stratejisine etkilerinin detaylı özeti"
 wixId: "3efb2e3b-009b-49ae-8c84-5d28f51d4dc2"
 author: "Sedat Onat"

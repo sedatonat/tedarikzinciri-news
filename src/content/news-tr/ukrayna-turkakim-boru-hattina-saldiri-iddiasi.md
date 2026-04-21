@@ -3,7 +3,7 @@ title: "Ukrayna, TürkAkım Boru Hattına Saldırı Girişiminde Bulundu İddias
 subtitle: "Ukrayna, TürkAkım Boru Hattına Saldırı Girişiminde Bulundu İddiası"
 date: "2025-01-13T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_996bdd421155434f89067a1cdb2ed8d8~mv2.jpeg/News - 2025-01-13 - Turk Akimi.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_996bdd421155434f89067a1cdb2ed8d8~mv2.jpeg"
 imageAlt: "Ukrayna, TürkAkım Boru Hattına Saldırı Girişiminde Bulundu İddiası"
 wixId: "53c66a00-6bb0-48a9-a371-cdcc93dd0916"
 author: "Sedat Onat"

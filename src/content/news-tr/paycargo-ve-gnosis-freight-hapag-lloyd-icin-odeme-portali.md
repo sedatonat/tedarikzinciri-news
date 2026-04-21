@@ -3,7 +3,7 @@ title: "PayCargo ve Gnosis Freight, Hapag-Lloyd İçin Konteyner Ödeme Portalı
 subtitle: "PayCargo ve Gnosis Freight, Hapag-Lloyd İçin Konteyner Ödeme Portalı Geliştiriyor"
 date: "2025-03-04T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5384ce62dc5549968ecf4840fd0c8bf6~mv2.png/News - 2025-03-04 - Gnosis PayCargo.png"
+image: "https://static.wixstatic.com/media/6c3915_5384ce62dc5549968ecf4840fd0c8bf6~mv2.png"
 imageAlt: "PayCargo ve Gnosis Freight, Hapag-Lloyd İçin Konteyner Ödeme Portalı Geliştiriyor"
 wixId: "85efd2e5-d2da-4b46-a3cb-1886e6c4c3ce"
 author: "Sedat Onat"

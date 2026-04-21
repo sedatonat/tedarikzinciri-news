@@ -3,7 +3,7 @@ title: "2023'te Taşıyıcıların Karlılığı İçin Artan Çaba ve Çözüml
 subtitle: "2023'te Taşıyıcıların Karlılığı İçin Artan Çaba ve Çözümler"
 date: "2024-03-19T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/35950e5c49ae4628b4e4546d017b576e.jpg/Truck Car Park.jpg"
+image: "https://static.wixstatic.com/media/35950e5c49ae4628b4e4546d017b576e.jpg"
 imageAlt: "2023'te Taşıyıcıların Karlılığı İçin Artan Çaba ve Çözümler"
 wixId: "62da4ef9-148f-4b68-83f2-505145caca5e"
 author: "Sedat Onat"

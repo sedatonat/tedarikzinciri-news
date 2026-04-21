@@ -3,7 +3,7 @@ title: "Kodiak Robotics'in Otonom Kamyonları 50.000 Mil Yol Kat Etti: Taşımac
 subtitle: "Kodiak Robotics'in Otonom Kamyonları 50.000 Mil Yol Kat Etti: Taşımacılıkta Yeni Dönem"
 date: "2024-08-07T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e7c7c3efc2754f0b9fbc112b67a86238~mv2.jpg/News - 2024-08-07 - Kodiak.jpg"
+image: "https://static.wixstatic.com/media/6c3915_e7c7c3efc2754f0b9fbc112b67a86238~mv2.jpg"
 imageAlt: "Kodiak Robotics'in Otonom Kamyonları 50.000 Mil Yol Kat Etti: Taşımacılıkta Yeni Dönem"
 wixId: "def0a84c-c5aa-4896-8e36-de2eafec5e47"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Mars Hava ve Deniz Kargo, Yurt İçi Konteyner Taşımacılığına Baş
 subtitle: "Mars Hava ve Deniz Kargo, Yurt İçi Konteyner Taşımacılığına Başladı"
 date: "2024-07-31T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b3e58a1fb0574a5cbe7cf1de0a2f8ede~mv2.jpeg/News - 2021-07-31 - Mars.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_b3e58a1fb0574a5cbe7cf1de0a2f8ede~mv2.jpeg"
 imageAlt: "Mars Hava ve Deniz Kargo, Yurt İçi Konteyner Taşımacılığına Başladı"
 wixId: "0d9bf9b1-ae8a-41cb-8466-c5a20340b553"
 author: "Sedat Onat"

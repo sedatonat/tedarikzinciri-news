@@ -3,7 +3,7 @@ title: "PeakLogix ve Movu Robotics'ten Depo Otomasyonunda Stratejik İşbirliği
 subtitle: "PeakLogix ve Movu Robotics'ten Depo Otomasyonunda Stratejik İşbirliği"
 date: "2024-03-01T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_1022671aa74f4cda9af5b5d8557fc80c~mv2.jpg/News - 2024-03-01 - Movu Robotics.jpg"
+image: "https://static.wixstatic.com/media/6c3915_1022671aa74f4cda9af5b5d8557fc80c~mv2.jpg"
 imageAlt: "PeakLogix ve Movu Robotics'ten Depo Otomasyonunda Stratejik İşbirliği"
 wixId: "4e379a91-979a-4a35-8cfe-64ecbd1a63ee"
 author: "Sedat Onat"

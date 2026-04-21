@@ -3,7 +3,7 @@ title: "ABD Baskısı Altında Çin ve Hindistan, Rus Petrolünden Geri Adım At
 subtitle: "ABD Baskısı Altında Çin ve Hindistan, Rus Petrolünden Geri Adım Attı"
 date: "2025-10-24T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_70c5d4e1dfc644f5ad3366e1e15b293c~mv2.jpg/Oil Tanker Greenpeace.jpg"
+image: "https://static.wixstatic.com/media/6c3915_70c5d4e1dfc644f5ad3366e1e15b293c~mv2.jpg"
 imageAlt: "ABD Baskısı Altında Çin ve Hindistan, Rus Petrolünden Geri Adım Atmakta"
 wixId: "593b3126-50fd-42b0-85ac-3dd96486d1fb"
 author: "Sedat Onat"

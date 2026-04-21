@@ -3,7 +3,7 @@ title: "Kazakistan, İran Şehid Raci Limanı’nda Özel Lojistik Terminal Plan
 subtitle: "Kazakistan, İran Şehid Raci Limanı’nda Özel Lojistik Terminal Planını Yeniden Teyit Etti"
 date: "2025-12-12T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e08fff0a78504989b577cbea9313295c~mv2.jpg/Kazakistan iran port shadid.jpg"
+image: "https://static.wixstatic.com/media/6c3915_e08fff0a78504989b577cbea9313295c~mv2.jpg"
 imageAlt: "Kazakistan’ın İran’daki Şehid Raci Limanı’nda özel bir lojistik terminal kurma planını yeniden teyit etmesi, Kazakistan–Türkmenistan–İran koridoru, Orta Asya’nın denize erişim stratejisi ve Orta Koridor dışı alternatif transit hatlara etkisinin detaylı özeti"
 wixId: "be241590-2941-4d85-a96b-216c7d919c0e"
 author: "Sedat Onat"

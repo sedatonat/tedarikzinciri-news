@@ -3,7 +3,7 @@ title: "IANA’ya Göre Eylül Ayında Intermodal Taşımalar Yükselişini Sür
 subtitle: "IANA’ya Göre Eylül Ayında Intermodal Taşımalar Yükselişini Sürdürdü"
 date: "2025-10-24T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4542ebd37a9a4e7e990d6a2bbcb468fc~mv2.jpg/intermodal.jpg"
+image: "https://static.wixstatic.com/media/6c3915_4542ebd37a9a4e7e990d6a2bbcb468fc~mv2.jpg"
 imageAlt: "Intermodal Association of North America (IANA), Eylül 2025’te intermodal taşımaların yıllık bazda %2,4 arttığını bildirdi. Artış, tarifeler öncesi yapılan “ön yüklemelerin” etkisiyle hem yurtiçi hem de uluslararası konteyner taşımalarında istikrar sağladı."
 wixId: "23a97a9b-f232-424e-b374-69dfd6a711cb"
 author: "Sedat Onat"

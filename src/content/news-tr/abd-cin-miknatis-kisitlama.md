@@ -3,7 +3,7 @@ title: "Çinli Analistler: ABD, Nadir Mıknatıs Krizine Karşı İhracat Kısı
 subtitle: "Çinli Analistler: ABD, Nadir Mıknatıs Krizine Karşı İhracat Kısıtlamalarını Gevşetebilir"
 date: "2025-10-27T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_75e9e340d43f4fe891b55fbe9a31b8d3~mv2.jpg/cin magnet usa.jpg"
+image: "https://static.wixstatic.com/media/6c3915_75e9e340d43f4fe891b55fbe9a31b8d3~mv2.jpg"
 imageAlt: "Bloomberg’e göre Çinli analistler, Xi Jinping ve Donald Trump’ın bu hafta yapacağı görüşme öncesinde ABD’nin, nadir toprak mıknatıs arzını rahatlatmak için yeni ihracat kısıtlamalarını hafifletebileceğini öngörüyor. Görüşmeler, tarifeler, fentanil ve yüksek teknoloji ticaret kısıtlamaları dahil birçok alanı kapsıyor."
 wixId: "987c26c5-7fed-4768-9282-609fde6b739c"
 author: "Sedat Onat"

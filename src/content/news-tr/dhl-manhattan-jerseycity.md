@@ -3,7 +3,7 @@ title: "DHL, 90 Milyon Dolarlık Yatırımla Manhattan Operasyonlarını Jersey 
 subtitle: "DHL, 90 Milyon Dolarlık Yatırımla Manhattan Operasyonlarını Jersey City’ye Taşıyor"
 date: "2025-10-30T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/563916d42dce4dc3a6da1d427d33658c.jpg/Yellow Track.jpg"
+image: "https://static.wixstatic.com/media/563916d42dce4dc3a6da1d427d33658c.jpg"
 imageAlt: "DHL Express, New York bölgesindeki kapasitesini iki katına çıkarmak ve teslimat hızını artırmak amacıyla 90 milyon dolarlık yatırım planı açıkladı. Şirket, Manhattan hizmet merkezini Kasım 2025’e kadar Jersey City’deki 92.505 metrekarelik yeni tesise taşıyacak."
 wixId: "bf1ca82f-7933-4948-97b9-7d582716f0da"
 author: "Sedat Onat"

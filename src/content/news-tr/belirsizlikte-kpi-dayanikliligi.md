@@ -3,7 +3,7 @@ title: "Belirsizlikte Kpi’ları Ve Dayanıklılığı Güçlendirmenin Beş Ad
 subtitle: "Belirsizlikte Kpi’ları Ve Dayanıklılığı Güçlendirmenin Beş Adımı"
 date: "2025-08-26T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b7321448b92d4887ab46a436555a295f~mv2.png/859.png"
+image: "https://static.wixstatic.com/media/6c3915_b7321448b92d4887ab46a436555a295f~mv2.png"
 imageAlt: "Belirsizlikte Kpi’ları Ve Dayanıklılığı Güçlendirmenin Beş Adımı"
 wixId: "8b410261-f127-4ea0-a07a-d173fec66289"
 author: "Sedat Onat"

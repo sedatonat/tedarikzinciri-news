@@ -3,7 +3,7 @@ title: "Elektrikli Van Devrimi: CMA CGM, Renault ve Volvo'dan Yeni Girişim Flex
 subtitle: "Elektrikli Van Devrimi: CMA CGM, Renault ve Volvo'dan Yeni Girişim Flexis SAS"
 date: "2024-04-04T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_e52ebfe255bb4649b885fd9d03a13f11~mv2.jpg/News - 2024-04-04 - Flexis SAS.jpg"
+image: "https://static.wixstatic.com/media/6c3915_e52ebfe255bb4649b885fd9d03a13f11~mv2.jpg"
 imageAlt: "Elektrikli Van Devrimi: CMA CGM, Renault ve Volvo'dan Yeni Girişim Flexis SAS"
 wixId: "7d88d7ef-9b24-48ca-914e-1323c8d0bb76"
 author: "Sedat Onat"

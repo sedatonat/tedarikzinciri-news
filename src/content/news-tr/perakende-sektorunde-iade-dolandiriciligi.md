@@ -3,7 +3,7 @@ title: "Perakende Sektöründe İade Dolandırıcılığına Karşı Etkili Stra
 subtitle: "Perakende Sektöründe İade Dolandırıcılığına Karşı Etkili Stratejiler"
 date: "2024-04-24T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_93f0982cb652423a9cfe22ec87072b3f~mv2.jpg/News - 2024-04-24 - Fraud.jpg"
+image: "https://static.wixstatic.com/media/6c3915_93f0982cb652423a9cfe22ec87072b3f~mv2.jpg"
 imageAlt: "Perakende Sektöründe İade Dolandırıcılığına Karşı Etkili Stratejiler"
 wixId: "04d9e93a-391a-4000-bc81-a886b3d49ac1"
 author: "Sedat Onat"

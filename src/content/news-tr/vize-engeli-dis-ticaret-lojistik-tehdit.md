@@ -3,7 +3,7 @@ title: "Vize Engeli, Türkiye'nin Dış Ticaret ve Lojistik Sektörünü Nasıl 
 subtitle: "Vize Engeli, Türkiye'nin Dış Ticaret ve Lojistik Sektörünü Nasıl Tehdit Ediyor?"
 date: "2024-04-05T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b31cfafeca374acba5523e42f145d350~mv2.jpg/News - 2024-04-05 - Vize sorunu.jpg"
+image: "https://static.wixstatic.com/media/6c3915_b31cfafeca374acba5523e42f145d350~mv2.jpg"
 imageAlt: "Vize Engeli, Türkiye'nin Dış Ticaret ve Lojistik Sektörünü Nasıl Tehdit Ediyor?"
 wixId: "81af30f2-3edd-43ac-a260-8fec4f1ab156"
 author: "Sedat Onat"

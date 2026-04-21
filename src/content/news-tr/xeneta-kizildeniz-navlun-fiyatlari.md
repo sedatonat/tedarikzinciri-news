@@ -3,7 +3,7 @@ title: "Xeneta: Kızıldeniz’deki Sükûnet Navlun Fiyatlarını Sert Şekilde
 subtitle: "Xeneta: Kızıldeniz’deki Sükûnet Navlun Fiyatlarını Sert Şekilde Düşürebilir"
 date: "2025-11-12T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5273021686624cec8e54e121a9c31e8a~mv2.jpg/sea container ship.jpg"
+image: "https://static.wixstatic.com/media/6c3915_5273021686624cec8e54e121a9c31e8a~mv2.jpg"
 imageAlt: "Husilerin saldırılara ara vermesi sonrası Red Sea riskinin azalması, Suez’e kitlesel dönüş yaşanması hâlinde küresel konteyner kapasitesini artırarak navlun fiyatlarında keskin düşüşlere yol açabilir; Xeneta analistleri belirsizliğin hâlen çok yüksek olduğunu vurguluyor."
 wixId: "87dce9e8-d2f7-49b1-8d85-93ef191ac644"
 author: "Sedat Onat"

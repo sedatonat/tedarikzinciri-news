@@ -3,7 +3,7 @@ title: "Denizcilik Sektörü, Gemilerdeki Kömür Yangınlarını Önlemek İçi
 subtitle: "Denizcilik Sektörü, Gemilerdeki Kömür Yangınlarını Önlemek İçin Daha Sıkı Güvenlik"
 date: "2025-01-17T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_00371f6fb424492cad775a85f34acf3b~mv2.jpg/News - 2025-01-17 - Charcoal.jpg"
+image: "https://static.wixstatic.com/media/6c3915_00371f6fb424492cad775a85f34acf3b~mv2.jpg"
 imageAlt: "Denizcilik Sektörü, Gemilerdeki Kömür Yangınlarını Önlemek İçin Daha Sıkı Güvenlik"
 wixId: "c712bd29-528e-4b3a-867f-ebdf0883047c"
 author: "Sedat Onat"

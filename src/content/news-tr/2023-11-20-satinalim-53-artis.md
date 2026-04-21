@@ -3,7 +3,7 @@ title: "2024 'te Satınalımlarda %53 'lük Artış Bekleniyor"
 subtitle: "2024 'te Satınalımlarda %53 'lük Artış Bekleniyor"
 date: "2023-11-20T20:15:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_368c1f702e274dee969f3a3e04f804dc~mv2.png/kiz bilgisayar.png"
+image: "https://static.wixstatic.com/media/6c3915_368c1f702e274dee969f3a3e04f804dc~mv2.png"
 wixId: "3f6468da-0de1-445e-ae4d-945fe320dec7"
 author: "Sedat Onat"
 translated: false

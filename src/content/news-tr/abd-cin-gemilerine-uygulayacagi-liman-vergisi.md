@@ -3,7 +3,7 @@ title: "ABD'nin Çin Gemilerine Uygulayacağı Liman Vergisi Bazı Rotaları Sü
 subtitle: "ABD'nin Çin Gemilerine Uygulayacağı Liman Vergisi Bazı Rotaları Sürdürülemez Hale Getiriyor: MSC CEO'su Toft'in Görüşleri"
 date: "2025-03-03T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_03c31bb7e77341208db52798c90bbb67~mv2.jpg/News - 2025-03-03 - TPM.jpg"
+image: "https://static.wixstatic.com/media/6c3915_03c31bb7e77341208db52798c90bbb67~mv2.jpg"
 imageAlt: "ABD'nin Çin Gemilerine Uygulayacağı Liman Vergisi Bazı Rotaları Sürdürülemez Hale Getiriyor: MSC CEO'su Toft'in Görüşleri"
 wixId: "e1854daf-2a10-4913-ae69-2b1f0d1bfe1f"
 author: "Sedat Onat"

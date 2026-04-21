@@ -3,7 +3,7 @@ title: "Filo Operasyonlarınızı Trimble Appian'ın Son Teknoloji Geliştirmele
 subtitle: "Filo Operasyonlarınızı Trimble Appian'ın Son Teknoloji Geliştirmeleriyle Optimize Edin"
 date: "2025-02-03T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_65defaba06a944988378e731e5c6ee0f~mv2.jpg/News - 2025-02-03 - Trimble Appian.jpg"
+image: "https://static.wixstatic.com/media/6c3915_65defaba06a944988378e731e5c6ee0f~mv2.jpg"
 imageAlt: "Filo Operasyonlarınızı Trimble Appian'ın Son Teknoloji Geliştirmeleriyle Optimize Edin"
 wixId: "c4b1e845-2b29-42c4-a6a4-368e47211ed3"
 author: "Sedat Onat"

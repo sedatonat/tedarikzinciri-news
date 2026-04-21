@@ -3,7 +3,7 @@ title: "Konecranes, İlk Elektrikli Reach Stacker ve Global Remote Services Ağ�
 subtitle: "Konecranes, İlk Elektrikli Reach Stacker ve Global Remote Services Ağıyla Ecolifting’i Genişletiyor"
 date: "2025-11-25T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0cf65f0b3d7f4893b16f3b615bb10ca0~mv2.jpg/kone crane reach stacker.jpg"
+image: "https://static.wixstatic.com/media/6c3915_0cf65f0b3d7f4893b16f3b615bb10ca0~mv2.jpg"
 imageAlt: "Konecranes’in ilk elektrikli reach stacker lansmanı, Remote Services’ın küresel erişimi ve Ecolifting programının düşük-emisyon liman ekipmanlarına yönelik stratejik genişlemesini anlatan detaylı haber özeti"
 wixId: "86b445d7-f46a-418f-bb84-be210a8d4011"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Evyapport, Portchain Connect ile İskele Hizalamasını Dijitalleştiriy
 subtitle: "Evyapport, Portchain Connect ile İskele Hizalamasını Dijitalleştiriyor"
 date: "2024-03-14T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c3fb156df10349efbd26a30d33abe34e~mv2.jpg/News - 2024-03-14 - Evyaport.jpg"
+image: "https://static.wixstatic.com/media/6c3915_c3fb156df10349efbd26a30d33abe34e~mv2.jpg"
 imageAlt: "Evyapport, Portchain Connect ile İskele Hizalamasını Dijitalleştiriyor"
 wixId: "8e29dc4a-0b62-450c-b732-24379d0e2526"
 author: "Sedat Onat"

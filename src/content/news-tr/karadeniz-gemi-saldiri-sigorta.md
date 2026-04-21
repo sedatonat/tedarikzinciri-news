@@ -3,7 +3,7 @@ title: "Karadeniz’de Savaş Sigortası Primleri %250 Arttı: Gemi Saldırılar
 subtitle: "Karadeniz’de Savaş Sigortası Primleri %250 Arttı: Gemi Saldırıları Bölgesel Riskleri Tırmandırıyor"
 date: "2025-12-04T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_fed46065883b40acbd71286d756df46b~mv2.jpg/konteyner gemisi deniz.jpg"
+image: "https://static.wixstatic.com/media/6c3915_fed46065883b40acbd71286d756df46b~mv2.jpg"
 imageAlt: "Ukrayna’nın Rusya bağlantılı gemilere yönelik saldırıları sonrası Karadeniz’de war-risk sigorta primlerinin 3 kattan fazla artması, shadow fleet etkileri, bölgesel güvenlik riski ve tedarik zinciri sonuçlarının detaylı özeti"
 wixId: "cbd2ddf5-fddb-44ca-b714-866961b4784d"
 author: "Sedat Onat"

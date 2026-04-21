@@ -3,7 +3,7 @@ title: "Trump'ın Kanada ve Meksika'ya Uyguladığı Cezai Tarifeler Yürürlü�
 subtitle: "Trump'ın Kanada ve Meksika'ya Uyguladığı Cezai Tarifeler Yürürlüğe Girdi"
 date: "2025-03-04T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_35a9357dcb7a44f88bb90ab710d700e1~mv2.jpg/News - 2025-03-04 - Trump.jpg"
+image: "https://static.wixstatic.com/media/6c3915_35a9357dcb7a44f88bb90ab710d700e1~mv2.jpg"
 imageAlt: "Trump'ın Kanada ve Meksika'ya Uyguladığı Cezai Tarifeler Yürürlüğe Girdi"
 wixId: "eec2b8dd-05a5-44fb-81c9-9c8aafcefc14"
 author: "Sedat Onat"

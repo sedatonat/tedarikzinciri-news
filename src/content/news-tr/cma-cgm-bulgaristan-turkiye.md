@@ -3,7 +3,7 @@ title: "CMA CGM, Bulgaristan Limanları ile Türkiye Arasında Feeder Servisi Ba
 subtitle: "CMA CGM, Bulgaristan Limanları ile Türkiye Arasında Feeder Servisi Başlatıyor"
 date: "2025-01-16T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5c7e9c77c5d94e22843d5b6b48938c3a~mv2.jpg/News - 2025-01-16 - CMA CGM.jpg"
+image: "https://static.wixstatic.com/media/6c3915_5c7e9c77c5d94e22843d5b6b48938c3a~mv2.jpg"
 imageAlt: "CMA CGM, Bulgaristan Limanları ile Türkiye Arasında Feeder Servisi Başlatıyor"
 wixId: "ed41080f-6d45-4885-a2a7-673672b95488"
 author: "Sedat Onat"

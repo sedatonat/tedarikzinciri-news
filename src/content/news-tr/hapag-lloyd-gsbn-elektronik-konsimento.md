@@ -3,7 +3,7 @@ title: "Hapag-Lloyd, GSBN Altyapısı Üzerinden Elektronik Konşimento Uygulama
 subtitle: "Hapag-Lloyd, GSBN Altyapısı Üzerinden Elektronik Konşimento Uygulamasına Geçiyor"
 date: "2024-04-25T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6c2feeb8fcf14ce88b6d6bc6f4735337~mv2.jpg/News - 2024-04-25 - Hapag Lloyd ebl.jpg"
+image: "https://static.wixstatic.com/media/6c3915_6c2feeb8fcf14ce88b6d6bc6f4735337~mv2.jpg"
 imageAlt: "Hapag-Lloyd, GSBN Altyapısı Üzerinden Elektronik Konşimento Uygulamasına Geçiyor"
 wixId: "bbb52beb-802a-40e5-8136-268e39028d66"
 author: "Sedat Onat"

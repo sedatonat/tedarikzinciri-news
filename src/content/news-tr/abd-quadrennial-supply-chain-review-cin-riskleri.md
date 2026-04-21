@@ -3,7 +3,7 @@ title: "ABD Tedarik Zincirinde Yeni Yol Haritası: First U.S. Quadrennial Supply
 subtitle: "ABD Tedarik Zincirinde Yeni Yol Haritası: First U.S. Quadrennial Supply Chain Review"
 date: "2024-12-24T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_5240885ef772446587e529d93cbbf198~mv2.jpg/News - 2024-12-24 - China.jpg"
+image: "https://static.wixstatic.com/media/6c3915_5240885ef772446587e529d93cbbf198~mv2.jpg"
 imageAlt: "ABD Tedarik Zincirinde Yeni Yol Haritası: First U.S. Quadrennial Supply Chain Review"
 wixId: "b45d6b2c-95d4-4d65-a8fe-5b13d940f2e8"
 author: "Sedat Onat"

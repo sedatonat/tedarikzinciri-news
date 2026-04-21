@@ -3,7 +3,7 @@ title: "Kaliforniya'nın İçten Yanmalı Forklift Yasağına Propan Grubundan E
 subtitle: "Kaliforniya'nın İçten Yanmalı Forklift Yasağına Propan Grubundan Eleştiri"
 date: "2024-05-30T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e3bcac42facb432fa2821877835dfbdf~mv2.png/News - 2024-05-30 - Propane.png"
+image: "https://static.wixstatic.com/media/6c3915_e3bcac42facb432fa2821877835dfbdf~mv2.png"
 imageAlt: "Kaliforniya'nın İçten Yanmalı Forklift Yasağına Propan Grubundan Eleştiri"
 wixId: "cde55f20-0291-48e3-8e72-73e57a91ea8e"
 author: "Sedat Onat"

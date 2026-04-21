@@ -3,7 +3,7 @@ title: "İsrail 'in Filistin 'e Saldırısı Sebebi ile Suezh Kanalı da Artık 
 subtitle: "İsrail 'in Filistin 'e Saldırısı Sebebi ile Suezh Kanalı da Artık Güvenli olmaktan Uzaklaşıyor"
 date: "2023-12-16T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6d47efac409044528f3836eb4a5588da~mv2.jpg/News - 2023-12-16 - Suez.jpg"
+image: "https://static.wixstatic.com/media/6c3915_6d47efac409044528f3836eb4a5588da~mv2.jpg"
 imageAlt: "İsrail 'in Filistin 'e Saldırısı Sebebi ile Suezh Kanalı da Artık Güvenli olmaktan Uzaklaşıyor"
 wixId: "7c389533-d3e9-4698-98d0-d2b919c94813"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Küresel Ticaretin Dayanıklılığı: Jeopolitik Engellere Rağmen Büy
 subtitle: "Küresel Ticaretin Dayanıklılığı: Jeopolitik Engellere Rağmen Büyüme"
 date: "2024-03-18T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_2e79aba1fe154383b1b21c08cf008fe5~mv2.jpeg/News - 2024-03-18 - DHL.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_2e79aba1fe154383b1b21c08cf008fe5~mv2.jpeg"
 imageAlt: "Küresel Ticaretin Dayanıklılığı: Jeopolitik Engellere Rağmen Büyüme"
 wixId: "e0335cc4-3319-427f-bc8a-6bf97d9918ad"
 author: "Sedat Onat"

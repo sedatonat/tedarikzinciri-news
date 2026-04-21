@@ -3,7 +3,7 @@ title: "Kaliforniya Yangınlarının Tedarik Zincirine Etkileri"
 subtitle: "Kaliforniya Yangınlarının Tedarik Zincirine Etkileri"
 date: "2025-01-28T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a15a75a28d6d4ea7b78b68f87dba8e6e~mv2.jpg/News - 2025-01-28 - California.jpg"
+image: "https://static.wixstatic.com/media/6c3915_a15a75a28d6d4ea7b78b68f87dba8e6e~mv2.jpg"
 wixId: "f0ed9a30-4f3e-45d8-a69b-bf39910b9f84"
 author: "Sedat Onat"
 translated: false

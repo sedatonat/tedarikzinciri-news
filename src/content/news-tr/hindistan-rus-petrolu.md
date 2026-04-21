@@ -3,7 +3,7 @@ title: "Hindistan’ın En Büyük Şirketi Reliance, Rus Petrolü İthalatını
 subtitle: "Hindistan’ın En Büyük Şirketi Reliance, Rus Petrolü İthalatını Durdurdu"
 date: "2025-11-21T09:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_aa35f69770de4d639c0e91267f0815ca~mv2.jpg/oil bunker.jpg"
+image: "https://static.wixstatic.com/media/6c3915_aa35f69770de4d639c0e91267f0815ca~mv2.jpg"
 imageAlt: "Reliance Industries, AB’nin 2026’da yürürlüğe girecek Rus petrolü kısıtlamaları ve ABD’nin Rosneft–Lukoil yaptırımları nedeniyle Rus ham petrolü alımını durdurdu. Bu karar, ABD–Hindistan ticaret ilişkileri ve küresel petrol akışları açısından kritik bir dönemeç olarak değerlendiriliyor."
 wixId: "8a2809f1-5138-49d8-9401-6acb0152ea60"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Ukrayna'nın Batısında AB-Ukrayna Lojistik Bağlantısını Güçlendi
 subtitle: "Ukrayna'nın Batısında AB-Ukrayna Lojistik Bağlantısını Güçlendirecek Yeni Terminal"
 date: "2024-03-08T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a7f0b4d27ada4a8d8055956818350371~mv2.jpg/News - 2024-03-08 - Intermodal.jpg"
+image: "https://static.wixstatic.com/media/6c3915_a7f0b4d27ada4a8d8055956818350371~mv2.jpg"
 imageAlt: "Ukrayna'nın Batısında AB-Ukrayna Lojistik Bağlantısını Güçlendirecek Yeni Terminal"
 wixId: "7b47713c-56fb-460b-92b7-b80a78f19a97"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "FESCO'nun Vladivostok Terminalindeki Blok Tren İşleme Hızında Büyü
 subtitle: "FESCO'nun Vladivostok Terminalindeki Blok Tren İşleme Hızında Büyük Artış"
 date: "2024-02-28T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_cd57527fa77d4ffba75905785697b42d~mv2.jpg/News - 2024-02-28 - Fesco.jpg"
+image: "https://static.wixstatic.com/media/6c3915_cd57527fa77d4ffba75905785697b42d~mv2.jpg"
 imageAlt: "FESCO'nun Vladivostok Terminalindeki Blok Tren İşleme Hızında Büyük Artış"
 wixId: "517f3a91-428c-469e-b5ab-c7dc3e652718"
 author: "Sedat Onat"

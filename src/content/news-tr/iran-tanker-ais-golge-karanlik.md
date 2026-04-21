@@ -3,7 +3,7 @@ title: "İran Tankerleri Üç Günlük Görünürlükten Sonra Yeniden “Karanl
 subtitle: "İran Tankerleri Üç Günlük Görünürlükten Sonra Yeniden “Karanlık” Operasyonlara Döndü"
 date: "2025-10-21T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b093509a20f3474ca548b41354f72250~mv2.jpg/tanker ship dark night.jpg"
+image: "https://static.wixstatic.com/media/6c3915_b093509a20f3474ca548b41354f72250~mv2.jpg"
 imageAlt: "İran Tankerleri Üç Günlük Görünürlükten Sonra Yeniden “Karanlık” Operasyonlara Döndü"
 wixId: "27162883-2ae4-463a-b4be-cb197029d254"
 author: "Sedat Onat"

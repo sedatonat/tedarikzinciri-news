@@ -3,7 +3,7 @@ title: "Volvo ve Waabi'nin Otonom Kamyon İş Birliği"
 subtitle: "Volvo ve Waabi'nin Otonom Kamyon İş Birliği"
 date: "2025-02-05T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4c8ebf5c84394a7e974cc2d66035bdf3~mv2.png/News - 2025-02-05 - Volvo Waabi.png"
+image: "https://static.wixstatic.com/media/6c3915_4c8ebf5c84394a7e974cc2d66035bdf3~mv2.png"
 wixId: "b0950f68-6404-499d-9835-d06c38c31dcb"
 author: "Sedat Onat"
 translated: false

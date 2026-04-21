@@ -3,7 +3,7 @@ title: "Valenciaport, Yeni Çevresel Stratejisini Tanıttı: Odakta Net Sıfır,
 subtitle: "Valenciaport, Yeni Çevresel Stratejisini Tanıttı: Odakta Net Sıfır, Yeşil Koridorlar ve Hidrojen"
 date: "2025-11-12T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_69951156436a41f58649b848cbbb2cf8~mv2.jpeg/Foto_Ecofira_APV_2.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_69951156436a41f58649b848cbbb2cf8~mv2.jpeg"
 imageAlt: "Valenciaport, Ecofira 2025’te açıkladığı yeni çevre stratejisinde Net Zero Planı, yenilenebilir enerji, shore-power (OPS), alternatif yakıtlar, yeşil koridorlar ve Sagunto’daki Hydrogen Valley projeleriyle iklim uyumu ve sürdürülebilir liman hedefini güçlendirdi."
 wixId: "f140dcdf-9427-4b60-84e5-8bada075bc78"
 author: "Sedat Onat"

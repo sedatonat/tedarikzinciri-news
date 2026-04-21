@@ -3,7 +3,7 @@ title: "AB Komisyonu, MSC–NYK Ortak Girişimini Onayladı: Afrika Lojistiğind
 subtitle: "AB Komisyonu, MSC–NYK Ortak Girişimini Onayladı: Afrika Lojistiğinde Yeni İttifak"
 date: "2025-12-03T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0002e447956f42ab885bdb09400fdbb7~mv2.jpg/konteyner limani gantry vinc.jpg"
+image: "https://static.wixstatic.com/media/6c3915_0002e447956f42ab885bdb09400fdbb7~mv2.jpg"
 imageAlt: "Avrupa Komisyonu’nun MSC Group ve NYK Group arasında Afrika odaklı yeni freight forwarding joint venture’ını AB Birleşme Tüzüğü kapsamında onaylaması, rekabet analizi, AGL Kenya–Yusen Logistics iş birliği ve bölgesel lojistik etkilerinin detaylı özeti"
 wixId: "6696224c-0d5c-452e-81da-cfb93e2b3349"
 author: "Sedat Onat"

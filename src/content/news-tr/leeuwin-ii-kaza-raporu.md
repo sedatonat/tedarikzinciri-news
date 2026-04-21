@@ -3,7 +3,7 @@ title: "ATSB: Leeuwin II Kazasında Köprüüstü Ekip Koordinasyonundaki Hatala
 subtitle: "ATSB: Leeuwin II Kazasında Köprüüstü Ekip Koordinasyonundaki Hatalar Belirleyici Oldu"
 date: "2025-11-03T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_fa11dc616e3a49c59a1230c0d96aa836~mv2.jpg/gemi kaza leeuwin.jpg"
+image: "https://static.wixstatic.com/media/6c3915_fa11dc616e3a49c59a1230c0d96aa836~mv2.jpg"
 imageAlt: "Avustralya Ulaşım Güvenliği Bürosu (ATSB), Maersk Shekou adlı konteyner gemisinin Fremantle Limanı’nda yelkenli Leeuwin II ile çarpışmasına ilişkin nihai raporunu yayımladı. Soruşturma, köprüüstü ekibinin zayıf koordinasyonu, iletişim eksikliği ve dikkat dağınıklığının kazada belirleyici rol oynadığını ortaya koydu."
 wixId: "d150473e-27ac-4f62-9c90-039b6636ef16"
 author: "Sedat Onat"

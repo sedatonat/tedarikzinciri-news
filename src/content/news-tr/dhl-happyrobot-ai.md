@@ -3,7 +3,7 @@ title: "DHL, HappyRobot Yapay Zekâ Ajanlarıyla Operasyon ve Müşteri İletiş
 subtitle: "DHL, HappyRobot Yapay Zekâ Ajanlarıyla Operasyon ve Müşteri İletişimini Güçlendiriyor"
 date: "2025-11-25T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_14f64166743f40b6b5ffc8ef0056dea7~mv2.jpg/liman erkek yukaridan.jpg"
+image: "https://static.wixstatic.com/media/6c3915_14f64166743f40b6b5ffc8ef0056dea7~mv2.jpg"
 imageAlt: "DHL Supply Chain’in HappyRobot ile yaptığı iş birliği kapsamında telefon, e-posta ve mesajlaşma süreçlerini otonom yapay zekâ ajanlarıyla otomatikleştirmesi, operasyonel verimlilik ve müşteri deneyimindeki dönüşümü anlatan kapsamlı haber özeti"
 wixId: "f9e35786-ef3f-4308-a8d0-7b2fbace1b31"
 author: "Sedat Onat"

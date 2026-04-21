@@ -3,7 +3,7 @@ title: "Maersk Saltoro Vakası: Hükümetler, Sigortacılar ve Göndericiler İ�
 subtitle: "Maersk Saltoro Vakası: Hükümetler, Sigortacılar ve Göndericiler İçin Dersler"
 date: "2025-03-11T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_629f1ff6bc014d04b4172534677b01c3~mv2.jpg/News - 2025-03-11 - Maersk.jpg"
+image: "https://static.wixstatic.com/media/6c3915_629f1ff6bc014d04b4172534677b01c3~mv2.jpg"
 imageAlt: "Maersk Saltoro Vakası: Hükümetler, Sigortacılar ve Göndericiler İçin Dersler"
 wixId: "b669348b-54f5-4ed6-b7f6-20385af07043"
 author: "Sedat Onat"

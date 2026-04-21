@@ -3,7 +3,7 @@ title: "Ralph Lauren'in, Çin'den Tedariği Tek Haneli Oranlara İndirme Azaltma
 subtitle: "Ralph Lauren'in, Çin'den Tedariği Tek Haneli Oranlara İndirme Azaltma Planı"
 date: "2024-11-18T09:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_d34eed642827485e8abb441822e7094e~mv2.jpg/News - 2024-11-18 - Ralph Lauren.jpg"
+image: "https://static.wixstatic.com/media/6c3915_d34eed642827485e8abb441822e7094e~mv2.jpg"
 imageAlt: "Ralph Lauren'in, Çin'den Tedariği Tek habeli Oranlara İndirme Azaltma Planı"
 wixId: "082f1415-b64f-4d3e-9b3c-c185ef4ba982"
 author: "Sedat Onat"

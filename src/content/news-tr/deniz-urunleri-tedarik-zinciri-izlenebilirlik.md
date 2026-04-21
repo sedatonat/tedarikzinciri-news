@@ -3,7 +3,7 @@ title: "Deniz Ürünleri Tedarik Zincirinde İzlenebilirlik ve Veri Yönetimi İ
 subtitle: "Deniz Ürünleri Tedarik Zincirinde İzlenebilirlik ve Veri Yönetimi İş Birliği"
 date: "2024-04-25T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_81743ad4c12747d78385adef0b1e9531~mv2.png/News - 2024-04-25 - ReposiTrak.png"
+image: "https://static.wixstatic.com/media/6c3915_81743ad4c12747d78385adef0b1e9531~mv2.png"
 imageAlt: "Deniz Ürünleri Tedarik Zincirinde İzlenebilirlik ve Veri Yönetimi İş Birliği"
 wixId: "d34c1e2d-9352-4b76-b1c7-1e879591e87d"
 author: "Sedat Onat"

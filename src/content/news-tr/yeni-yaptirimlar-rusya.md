@@ -3,7 +3,7 @@ title: "Yeni Yaptırımlar Rusya'nın Gölge Filosu Dayanıklılığını Test E
 subtitle: "Yeni Yaptırımlar Rusya'nın Gölge Filosu Dayanıklılığını Test Ediyor"
 date: "2025-01-13T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3fcc1271825c42beadf3bd71e98b9a7e~mv2.jpg/News - 2025-01-13 - SCF Ship.jpg"
+image: "https://static.wixstatic.com/media/6c3915_3fcc1271825c42beadf3bd71e98b9a7e~mv2.jpg"
 imageAlt: "Yeni Yaptırımlar Rusya'nın Gölge Filosu Dayanıklılığını Test Ediyor"
 wixId: "c95607a4-0683-4dcf-b058-7d280b6ad3a8"
 author: "Sedat Onat"

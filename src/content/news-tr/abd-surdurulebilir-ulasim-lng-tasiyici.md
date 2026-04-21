@@ -3,7 +3,7 @@ title: "ABD Sürdürülebilir Ulaşım Geleceğinde Deniz Taşımacılığının
 subtitle: "ABD Sürdürülebilir Ulaşım Geleceğinde Deniz Taşımacılığının Kritik Rolü"
 date: "2024-12-26T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c57f724ff1a3422d82f02dae92a8b36d~mv2.jpg/News - 2024-12-26 - LNG Carrier.jpg"
+image: "https://static.wixstatic.com/media/6c3915_c57f724ff1a3422d82f02dae92a8b36d~mv2.jpg"
 imageAlt: "ABD Sürdürülebilir Ulaşım Geleceğinde Deniz Taşımacılığının Kritik Rolü"
 wixId: "ce1eb405-f8ab-4d60-917a-103ded56b498"
 author: "Sedat Onat"

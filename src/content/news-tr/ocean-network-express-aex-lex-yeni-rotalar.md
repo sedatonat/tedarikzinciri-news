@@ -3,7 +3,7 @@ title: "Ocean Network Express, Aegean Express ve Levant Express Hatlarını Duyu
 subtitle: "Ocean Network Express, Aegean Express ve Levant Express Hatlarını Duyurdu"
 date: "2024-10-10T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_032f7aa501cd463a972b53a23c7187e2~mv2.jpg/News - 2024-10-10 - ONE.jpg"
+image: "https://static.wixstatic.com/media/6c3915_032f7aa501cd463a972b53a23c7187e2~mv2.jpg"
 imageAlt: "Ocean Network Express, Aegean Express ve Levant Express Hatlarını Duyurdu"
 wixId: "751dfa09-8597-45de-a822-7f963fb72e9e"
 author: "Sedat Onat"

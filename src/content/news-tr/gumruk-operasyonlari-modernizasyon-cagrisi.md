@@ -3,7 +3,7 @@ title: "Gümrük Operasyonlarının Modernizasyonu İçin AB ve Endüstri Çağr
 subtitle: "Gümrük Operasyonlarının Modernizasyonu İçin AB ve Endüstri Çağrısı"
 date: "2025-01-24T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_803f213a8be24c31b0d57adab823a1cc~mv2.jpg/News - 2025-01-24 - EU Customs.jpg"
+image: "https://static.wixstatic.com/media/6c3915_803f213a8be24c31b0d57adab823a1cc~mv2.jpg"
 imageAlt: "Gümrük Operasyonlarının Modernizasyonu İçin AB ve Endüstri Çağrısı"
 wixId: "bff80b78-2202-4463-9c01-81dd6962a008"
 author: "Sedat Onat"

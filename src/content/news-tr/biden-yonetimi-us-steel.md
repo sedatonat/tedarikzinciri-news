@@ -3,7 +3,7 @@ title: "Biden Yönetiminden Gelen Uzatma, U.S. Steel Satışına İkinci Bir Şa
 subtitle: "Biden Yönetiminden Gelen Uzatma, U.S. Steel Satışına İkinci Bir Şans Verdi"
 date: "2025-01-13T09:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_cfbf1afdfefb439bbdc053defa2246db~mv2.jpg/News - 2025-01-13 - US Steel.jpg"
+image: "https://static.wixstatic.com/media/6c3915_cfbf1afdfefb439bbdc053defa2246db~mv2.jpg"
 imageAlt: "Biden Yönetiminden Gelen Uzatma, U.S. Steel Satışına İkinci Bir Şans Verdi"
 wixId: "8dcf24f9-eda7-4a14-8471-fc0526be0c39"
 author: "Sedat Onat"

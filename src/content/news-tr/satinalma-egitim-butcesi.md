@@ -3,7 +3,7 @@ title: "Tedarik Eğitim Bütçeleri Düşük, Yapay Zeka Boşluğu Doldurabilir 
 subtitle: "Tedarik Eğitim Bütçeleri Düşük, Yapay Zeka Boşluğu Doldurabilir mi?"
 date: "2025-02-11T09:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_1d3d81a45d2a48c7aef6b1714de0e58c~mv2.jpg/News - 2025-02-11 - Procurement.jpg"
+image: "https://static.wixstatic.com/media/6c3915_1d3d81a45d2a48c7aef6b1714de0e58c~mv2.jpg"
 imageAlt: "Tedarik Eğitim Bütçeleri Düşük, Yapay Zeka Boşluğu Doldurabilir mi?"
 wixId: "aa48c879-a885-4ecf-a1f7-974129ab5dd2"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "ABD Bankası’ndan Nakliye Sevkiyatlarında %21 Düşüş: Zorlu Taşı
 subtitle: "ABD Bankası’ndan Nakliye Sevkiyatlarında %21 Düşüş: Zorlu Taşıma Pazarı Sinyalleri"
 date: "2024-11-07T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_bd5cd22767864013b177d18954eb5b67~mv2.jpg/News - 2024-11-07 - Truck.jpg"
+image: "https://static.wixstatic.com/media/6c3915_bd5cd22767864013b177d18954eb5b67~mv2.jpg"
 imageAlt: "ABD Bankası’ndan Nakliye Sevkiyatlarında %21 Düşüş: Zorlu Taşıma Pazarı Sinyalleri"
 wixId: "d78c9472-e793-402e-a7fd-d6fef98ffcd0"
 author: "Sedat Onat"

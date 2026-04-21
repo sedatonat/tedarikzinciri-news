@@ -3,7 +3,7 @@ title: "İklim Değişikliğinin Tehdit Ettiği Panama Kanalı, Kuraklıkla Müc
 subtitle: "İklim Değişikliğinin Tehdit Ettiği Panama Kanalı, Kuraklıkla Mücadelede Büyük Planlar Yapıyor"
 date: "2024-12-02T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_db230b7415a041098674ca689b4a2de8~mv2.jpg/News - 2024-12-02 - Panama.jpg"
+image: "https://static.wixstatic.com/media/6c3915_db230b7415a041098674ca689b4a2de8~mv2.jpg"
 imageAlt: "İklim Değişikliğinin Tehdit Ettiği Panama Kanalı, Kuraklıkla Mücadelede Büyük Planlar Yapıyor"
 wixId: "e620f9df-6fc5-4f97-9add-0278555cfa9e"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Trafik Sıkışıklığı ABD'de Kamyon Taşımacılığına 108 Milyar 
 subtitle: "Trafik Sıkışıklığı ABD'de Kamyon Taşımacılığına 108 Milyar Dolara Mal Oluyor"
 date: "2025-02-19T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_18629bdf5e6c4c9f96c4e077116edeb7~mv2.jpg/Traffic Jam.jpg"
+image: "https://static.wixstatic.com/media/11062b_18629bdf5e6c4c9f96c4e077116edeb7~mv2.jpg"
 imageAlt: "Trafik Sıkışıklığı ABD'de Kamyon Taşımacılığına 108 Milyar Dolara Mal Oluyor"
 wixId: "e4a7eca1-9176-46ba-8a18-e636e8c14471"
 author: "Sedat Onat"

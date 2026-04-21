@@ -3,7 +3,7 @@ title: "Vietnam’ın 6 Milyar Dolarlık “Can Gio Süper Limanı” İçin Mae
 subtitle: "Vietnam’ın 6 Milyar Dolarlık “Can Gio Süper Limanı” İçin Maersk ve MSC Arasında Rekabet Kızışıyor"
 date: "2025-12-03T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8e3045ecdd9e4892b36aecea808da582~mv2.jpg/usa-trumptariffs-vietnam.jpg"
+image: "https://static.wixstatic.com/media/6c3915_8e3045ecdd9e4892b36aecea808da582~mv2.jpg"
 imageAlt: "Ho Chi Minh City yakınındaki Can Gio International Transshipment Port projesi için Maersk ve MSC’nin rekabeti, 16.9 milyon TEU kapasiteli süper limanın stratejik önemi ve 2M sonrası oluşan yeni güç mücadelesinin detaylı özeti"
 wixId: "919baf3f-1414-4835-bddb-ce68b9d30143"
 author: "Sedat Onat"

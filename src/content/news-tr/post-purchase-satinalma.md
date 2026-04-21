@@ -3,7 +3,7 @@ title: "Satın Alma Sonrası Süreci Güvenceye Almak: Post-purchase Tedarik Zin
 subtitle: "Satın Alma Sonrası Süreci Güvenceye Almak: Post-purchase Tedarik Zinciri"
 date: "2025-08-27T00:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_684dbf7facbe4d5b9783459f27d64e13~mv2.png/858.png"
+image: "https://static.wixstatic.com/media/6c3915_684dbf7facbe4d5b9783459f27d64e13~mv2.png"
 imageAlt: "Satın Alma Sonrası Süreci Güvenceye Almak: Post-purchase Tedarik Zinciri"
 wixId: "c1acafdf-8d77-4404-9f64-85af0c9d49e8"
 author: "Sedat Onat"

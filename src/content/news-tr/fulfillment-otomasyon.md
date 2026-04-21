@@ -3,7 +3,7 @@ title: "Hızlı Piyasada E‑Ticaret Fulfillment Otomasyonu Yeniden Düşünülm
 subtitle: "Hızlı Piyasada E‑Ticaret Fulfillment Otomasyonu Yeniden Düşünülmekte"
 date: "2025-10-06T00:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_8053247382754c7c92b0e24984cf1c3d~mv2.jpg/627.jpg"
+image: "https://static.wixstatic.com/media/6c3915_8053247382754c7c92b0e24984cf1c3d~mv2.jpg"
 imageAlt: "Hızlı Piyasada E‑Ticaret Fulfillment Otomasyonu Yeniden Düşünülmekte"
 wixId: "3f042306-e781-40ae-b683-e7e05dfc9493"
 author: "Sedat Onat"

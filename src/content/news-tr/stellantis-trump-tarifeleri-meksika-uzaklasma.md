@@ -3,7 +3,7 @@ title: "Stellantis, Trump Tarifeleri Tehdidi Altında Meksika'dan Uzaklaşmayı 
 subtitle: "Stellantis, Trump Tarifeleri Tehdidi Altında Meksika'dan Uzaklaşmayı Düşünüyor"
 date: "2024-11-25T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a0735e4634924e6d8f1451a709ee6c1b~mv2.jpg/News - 2024-11-25 - Stellantis.jpg"
+image: "https://static.wixstatic.com/media/6c3915_a0735e4634924e6d8f1451a709ee6c1b~mv2.jpg"
 imageAlt: "Stellantis, Trump Tarifeleri Tehdidi Altında Meksika'dan Uzaklaşmayı Düşünüyor"
 wixId: "02a00e81-83d1-43f4-af13-d068ef5094ad"
 author: "Sedat Onat"

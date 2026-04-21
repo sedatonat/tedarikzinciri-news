@@ -3,7 +3,7 @@ title: "Uluslararası Nakliyat Sektöründe Karbon Salınımını Sıfırlama Ya
 subtitle: "Uluslararası Nakliyat Sektöründe Karbon Salınımını Sıfırlama Yarışı"
 date: "2024-03-11T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1227fd2c1dd74ba38461712841a0fd9c~mv2.jpg/News - 2024-03-11 - CargoShip from back.jpg"
+image: "https://static.wixstatic.com/media/6c3915_1227fd2c1dd74ba38461712841a0fd9c~mv2.jpg"
 imageAlt: "Uluslararası Nakliyat Sektöründe Karbon Salınımını Sıfırlama Yarışı"
 wixId: "e799205d-90d1-4b21-84c7-da0852d9a17a"
 author: "Sedat Onat"

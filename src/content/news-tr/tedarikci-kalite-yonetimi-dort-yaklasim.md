@@ -3,7 +3,7 @@ title: "Finansal Teşviklerin Ötesinde, Tedarikçi Kalite Yönetiminde 4 Ana Ya
 subtitle: "Finansal Teşviklerin Ötesinde, Tedarikçi Kalite Yönetiminde 4 Ana Yaklaşım"
 date: "2024-02-22T09:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_05f8d8ed04fb4234961e448151a28e50~mv2.jpg/News - 2024-02-22 - Satinalma 4 imp.jpg"
+image: "https://static.wixstatic.com/media/6c3915_05f8d8ed04fb4234961e448151a28e50~mv2.jpg"
 imageAlt: "Finansal Teşviklerin Ötesinde, Tedarikçi Kalite Yönetiminde Dört Ana Yaklaşım"
 wixId: "d09fa266-e2b8-40aa-9345-4585cdb98550"
 author: "Sedat Onat"

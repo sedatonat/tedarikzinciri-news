@@ -3,7 +3,7 @@ title: "Süveyş Kanalı, 42.000 Tonluk GREEN DOCK 3 Yüzer Havuzunun Geçişini
 subtitle: "Süveyş Kanalı, 42.000 Tonluk GREEN DOCK 3 Yüzer Havuzunun Geçişini Başarıyla Tamamladı"
 date: "2025-12-08T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_74494102b1ba47908f5ee155d9c65c24~mv2.jpg/green dock 3.jpg"
+image: "https://static.wixstatic.com/media/6c3915_74494102b1ba47908f5ee155d9c65c24~mv2.jpg"
 imageAlt: "GREEN DOCK 3 adlı dev yüzer havuzun beş römorkör eşliğinde Süveyş Kanalı’ndan 24 saatte gerçekleştirdiği özel geçiş operasyonu, güvenlik prosedürleri, ekonomik etkiler ve global seyrüsefer açısından önemine dair detaylı özet"
 wixId: "a34b6caa-3e0b-42c4-9d0e-59e8f1a171d7"
 author: "Sedat Onat"

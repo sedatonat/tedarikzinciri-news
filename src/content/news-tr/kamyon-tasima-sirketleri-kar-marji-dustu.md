@@ -3,7 +3,7 @@ title: "Kamyon Taşıma Şirketlerinin Kar Marjları 14 Yılın En Düşük Sevi
 subtitle: "Kamyon Taşıma Şirketlerinin Kar Marjları 14 Yılın En Düşük Seviyesinde"
 date: "2024-05-16T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ca2f463d3a744cacabb71dacb3fc2bae~mv2.png/News - 2024-05-16 - Truck.png"
+image: "https://static.wixstatic.com/media/6c3915_ca2f463d3a744cacabb71dacb3fc2bae~mv2.png"
 imageAlt: "Kamyon Taşıma Şirketlerinin Kar Marjları 14 Yılın En Düşük Seviyesinde"
 wixId: "1b5c3676-d28f-4882-ac59-4c0d40363580"
 author: "Sedat Onat"

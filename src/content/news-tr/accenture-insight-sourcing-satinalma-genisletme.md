@@ -3,7 +3,7 @@ title: "Accenture, Kaynak ve Satın Alma Alanında Büyüyor: Insight Sourcing�
 subtitle: "Accenture, Kaynak ve Satın Alma Alanında Büyüyor: Insight Sourcing’i Bünyesine Katıyor"
 date: "2024-02-13T09:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_2218dd51b6224125973d27ebf1caee64~mv2.jpg/News - 2024-02-13 - Accenture.jpg"
+image: "https://static.wixstatic.com/media/6c3915_2218dd51b6224125973d27ebf1caee64~mv2.jpg"
 imageAlt: "Accenture, Kaynak ve Satın Alma Alanında Büyüyor: Insight Sourcing’i Bünyesine Katıyor"
 wixId: "b05103ff-8b36-46d1-8c6f-676c9719da6b"
 author: "Sedat Onat"

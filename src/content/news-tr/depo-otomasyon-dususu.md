@@ -3,7 +3,7 @@ title: "Depo Otomasyonu Siparişlerinde Düşüş ve 2024'te Beklenen Toparlanma
 subtitle: "Depo Otomasyonu Siparişlerinde Düşüş ve 2024'te Beklenen Toparlanma"
 date: "2025-02-05T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_38d00159bc4a4ec9b7f34bccf83f68ba~mv2.jpg/News - 2025-02-05 - Envanter.jpg"
+image: "https://static.wixstatic.com/media/6c3915_38d00159bc4a4ec9b7f34bccf83f68ba~mv2.jpg"
 imageAlt: "Depo Otomasyonu Siparişlerinde Düşüş ve 2024'te Beklenen Toparlanma"
 wixId: "dca6a667-d848-486e-8282-4e2d7b37cbfe"
 author: "Sedat Onat"

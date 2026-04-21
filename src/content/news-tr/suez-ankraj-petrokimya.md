@@ -3,7 +3,7 @@ title: "Suez Kanal Otoritesi ve Anchorage Investments, 2 Milyar Dolarlık Petrok
 subtitle: "Suez Kanal Otoritesi ve Anchorage Investments, 2 Milyar Dolarlık Petrokimya Kompleksi Anlaşması İmzaladı"
 date: "2025-10-24T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c74ff5d762db4840b25e9fdf55c40569~mv2.jpg/News - 2024-05-28 - Suez.jpg"
+image: "https://static.wixstatic.com/media/6c3915_c74ff5d762db4840b25e9fdf55c40569~mv2.jpg"
 imageAlt: "Suez Canal Authority (SCA), Anchorage Investments ile Ain Sokhna bölgesinde 2 milyar dolarlık petrokimya kompleksi kurulması için stratejik ortaklık anlaşması imzaladı. Proje, Mısır’ın döviz gelirlerini artırmayı ve 2.500’den fazla istihdam yaratmayı hedefliyor."
 wixId: "f5f9898a-fcda-4cca-bd8e-35b6da712996"
 author: "Sedat Onat"

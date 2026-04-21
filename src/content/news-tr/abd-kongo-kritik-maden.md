@@ -3,7 +3,7 @@ title: "ABD, Kongo’nun Kritik Maden Tedarik Zinciri İçin 1 Milyar Doların �
 subtitle: "ABD, Kongo’nun Kritik Maden Tedarik Zinciri İçin 1 Milyar Doların Üzerinde Destek Taahhüt Etti"
 date: "2025-12-05T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_29cacafc157e42c09a9f3abb9c8f2c50~mv2.jpg/maden kongo.jpg"
+image: "https://static.wixstatic.com/media/6c3915_29cacafc157e42c09a9f3abb9c8f2c50~mv2.jpg"
 imageAlt: "ABD’nin DFC aracılığıyla Kongo’da bakır–kobalt ortak girişimi ve Lobito koridoruna bağlı demiryolu rehabilitasyonu için 1 milyar doları aşan finansman planı ve bunun küresel kritik mineral tedarik zincirine etkilerinin detaylı özeti"
 wixId: "5f7ee052-faee-47aa-8736-26c706ff32cd"
 author: "Sedat Onat"

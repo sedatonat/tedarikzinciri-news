@@ -3,7 +3,7 @@ title: "Maersk ve Hapag-Lloyd’dan Suez Kanalı Duyurusuna Düzeltme: “Kesin 
 subtitle: "Maersk ve Hapag-Lloyd’dan Suez Kanalı Duyurusuna Düzeltme: “Kesin Tarih Yok”"
 date: "2025-11-26T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a7937c4cdd564a90a2b10d11d308873d~mv2.jpg/maersk cgm kizil deniz.jpg"
+image: "https://static.wixstatic.com/media/6c3915_a7937c4cdd564a90a2b10d11d308873d~mv2.jpg"
 imageAlt: "Suez Canal Authority’nin erken dönüş açıklamasına karşı Maersk ve Hapag-Lloyd’un temkinli yaklaşımı, Gemini Cooperation’ın operasyonel yapısı, risk yönetimi ve 2025–2026 tedarik zinciri etkileri üzerine detaylı haber özeti"
 wixId: "fc3033df-ba58-4e67-b893-7972838b4d36"
 author: "Sedat Onat"

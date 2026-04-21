@@ -3,7 +3,7 @@ title: "Rotterdam Limanı, Hidrojen İthalat Terminallerini Hızlandırmak İçi
 subtitle: "Rotterdam Limanı, Hidrojen İthalat Terminallerini Hızlandırmak İçin Piyasa Danışma Süreci Başlattı"
 date: "2025-11-11T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7920f8a457d640cfa5b04018242f1617~mv2.png/818.png"
+image: "https://static.wixstatic.com/media/6c3915_7920f8a457d640cfa5b04018242f1617~mv2.png"
 imageAlt: "Rotterdam Limanı, hidrojen ve taşıyıcıları (amonyak, metanol, LOHC) için ithalat terminallerinin gelişimini hızlandırmak amacıyla piyasa danışma süreci başlattı; hedef, finansal ve operasyonel darboğazları belirleyerek enerji geçişindeki “chicken-and-egg” sorununu aşmak."
 wixId: "114ae4dd-7457-45d9-b043-6828d3148c2d"
 author: "Sedat Onat"

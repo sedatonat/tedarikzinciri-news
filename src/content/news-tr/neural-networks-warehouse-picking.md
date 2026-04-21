@@ -3,7 +3,7 @@ title: "Sinir Ağları Depolarda Sipariş Toplama Süreçlerini Yeniden Şekille
 subtitle: "Sinir Ağları Depolarda Sipariş Toplama Süreçlerini Yeniden Şekillendiriyor"
 date: "2025-12-10T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_957d246206a64ae7894ba3d5fd2a4ec2~mv2.jpg/warehouse-picking.jpg"
+image: "https://static.wixstatic.com/media/6c3915_957d246206a64ae7894ba3d5fd2a4ec2~mv2.jpg"
 imageAlt: "Depolarda sipariş toplama süreçlerinde sinir ağlarının gerçek operasyon verilerini kullanarak zaman tahmini, rota optimizasyonu ve iş gücü planlamasını nasıl iyileştirdiğini anlatan detaylı analiz"
 wixId: "cc9532fa-cfdf-4a2f-8086-d4cdedc492e8"
 author: "Sedat Onat"

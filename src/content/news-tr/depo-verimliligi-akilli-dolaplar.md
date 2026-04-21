@@ -3,7 +3,7 @@ title: "Depo Verimliliğini Akıllı Dolap Sistemleri ve Anahtar Dolapları ile 
 subtitle: "Depo Verimliliğini Akıllı Dolap Sistemleri ve Anahtar Dolapları ile Artırma"
 date: "2025-02-18T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_443d2c19b686483bad4cc647524de0fc~mv2.jpg/News - 2025-02-18 - Locker Cabinets.jpg"
+image: "https://static.wixstatic.com/media/6c3915_443d2c19b686483bad4cc647524de0fc~mv2.jpg"
 imageAlt: "Depo Verimliliğini Akıllı Dolap Sistemleri ve Anahtar Dolapları ile Artırma"
 wixId: "6898b033-cf7f-47ae-aeed-d1a711d17290"
 author: "Sedat Onat"

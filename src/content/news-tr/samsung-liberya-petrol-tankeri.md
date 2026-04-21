@@ -3,7 +3,7 @@ title: "Samsung Heavy Industries, Liberyalı Armatörle 341,1 Milyar Wonluk Petr
 subtitle: "Samsung Heavy Industries, Liberyalı Armatörle 341,1 Milyar Wonluk Petrol Tankeri Sözleşmesi İmzaladı"
 date: "2025-10-24T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_aea91a7dab3840d59bf576301411adab~mv2.jpeg/News - 2024-12-27 - Supertanker.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_aea91a7dab3840d59bf576301411adab~mv2.jpeg"
 imageAlt: "Samsung Heavy Industries, Liberyalı Armatörle 341,1 Milyar Wonluk Petrol Tankeri Sözleşmesi İmzaladı"
 wixId: "f266ecc4-9c02-46c4-9441-c95819870ce7"
 author: "Sedat Onat"

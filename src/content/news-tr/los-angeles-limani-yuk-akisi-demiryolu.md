@@ -3,7 +3,7 @@ title: "Los Angeles Limanı'ndaki Gelişmiş Demiryolu Alanı ile Yük Akışı 
 subtitle: "Los Angeles Limanı'ndaki Gelişmiş Demiryolu Alanı ile Yük Akışı Artacak"
 date: "2024-07-29T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f2da2eaf1bd5408e81f85a54d6d82668~mv2.jpg/News - 2024-07-29 - Port of LA.jpg"
+image: "https://static.wixstatic.com/media/6c3915_f2da2eaf1bd5408e81f85a54d6d82668~mv2.jpg"
 imageAlt: "Los Angeles Limanı'ndaki Gelişmiş Demiryolu Alanı ile Yük Akışı Artacak"
 wixId: "3e6619f6-0665-49e7-9988-80153c6ab492"
 author: "Sedat Onat"

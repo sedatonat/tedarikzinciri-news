@@ -3,7 +3,7 @@ title: "Çin'de Köprüye Çarpan Konteyner Gemisi Faciası: İki Ölü, Üç Ka
 subtitle: "Çin'de Köprüye Çarpan Konteyner Gemisi Faciası: İki Ölü, Üç Kayıp"
 date: "2024-02-22T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ed0a3f0719fb481cb5cfb246e09aaef3~mv2.jpeg/News - 2024-02-23 - China Bridge.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_ed0a3f0719fb481cb5cfb246e09aaef3~mv2.jpeg"
 imageAlt: "Çin'de Köprüye Çarpan Konteyner Gemisi Faciası: İki Ölü, Üç Kayıp"
 wixId: "f2860834-d987-462e-a1d7-b5cb8027cf0a"
 author: "Sedat Onat"

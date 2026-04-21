@@ -3,7 +3,7 @@ title: "Kuehne+Nagel, Nearshoring Trendini Desteklemek İçin Texas'ta Yeni Loji
 subtitle: "Kuehne+Nagel, Nearshoring Trendini Desteklemek İçin Texas'ta Yeni Lojistik Tesis Açıyor"
 date: "2024-05-28T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_676158dd0eef4500a31bac81fb45e459~mv2.png/News - 2024-05-28 - Kuehna Nagel.png"
+image: "https://static.wixstatic.com/media/6c3915_676158dd0eef4500a31bac81fb45e459~mv2.png"
 imageAlt: "Kuehne+Nagel, Nearshoring Trendini Desteklemek İçin Texas'ta Yeni Lojistik Tesis Açıyor"
 wixId: "0e6d43aa-02e9-4db2-ba63-48cdfa1d34d1"
 author: "Sedat Onat"

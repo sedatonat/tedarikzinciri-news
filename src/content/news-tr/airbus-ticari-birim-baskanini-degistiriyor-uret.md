@@ -3,7 +3,7 @@ title: "Airbus SE, Ticari Uçak Biriminin Başını Değiştiriyor ve Üretim He
 subtitle: "Airbus SE, Ticari Uçak Biriminin Başını Değiştiriyor ve Üretim Hedeflerine Bağlı Kalıyor"
 date: "2024-11-01T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_554836ee0bc84824b0da4385fbcdcf2f~mv2.jpg/News - 2024-11-01 - Airbus.jpg"
+image: "https://static.wixstatic.com/media/6c3915_554836ee0bc84824b0da4385fbcdcf2f~mv2.jpg"
 imageAlt: "Airbus SE, Ticari Uçak Biriminin Başını Değiştiriyor ve Üretim Hedeflerine Bağlı Kalıyor"
 wixId: "e974c992-9319-4d31-b753-07e7fabab665"
 author: "Sedat Onat"

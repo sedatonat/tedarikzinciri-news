@@ -3,7 +3,7 @@ title: "Avrupa-Türkiye Arasında Sürdürülebilir Demiryolu Taşımacılığı
 subtitle: "Avrupa-Türkiye Arasında Sürdürülebilir Demiryolu Taşımacılığında Büyük Adım"
 date: "2024-02-27T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a6dfc1d707c24d6d97c19abd8f1882da~mv2.jpeg/News - 2024-02-24 - Hodlmayr.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_a6dfc1d707c24d6d97c19abd8f1882da~mv2.jpeg"
 imageAlt: "Avrupa-Türkiye Arasında Sürdürülebilir Demiryolu Taşımacılığında Büyük Adım"
 wixId: "6b92032c-83c3-42e4-8819-2fc07c6d31aa"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Maersk Shekou Çarpışmasında Köprüüstü İletişim Hatası Zinciri
 subtitle: "Maersk Shekou Çarpışmasında Köprüüstü İletişim Hatası Zinciri Ortaya Çıktı"
 date: "2025-11-03T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b57fbb23132c4e2b914bc44228cf92c9~mv2.jpg/liman kar gece.jpg"
+image: "https://static.wixstatic.com/media/6c3915_b57fbb23132c4e2b914bc44228cf92c9~mv2.jpg"
 imageAlt: "Maersk Shekou’nun Fremantle Limanı’nda Leeuwin II’ye çarpmasına yol açan iletişim kopuklukları, pilot hataları, dikkat dağınıklığı ve prosedür ihlallerinin detaylı analizi."
 wixId: "7b2abbce-2c75-4bf1-a97f-9bce350458f7"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "2024 IntraLogisteX'te LiBiao Robotics'in Yenilikçi Parsel Sıralama Ç�
 subtitle: "2024 IntraLogisteX'te LiBiao Robotics'in Yenilikçi Parsel Sıralama Çözümleri"
 date: "2024-03-19T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_5fce73bc8d644d01978090647fe98acc~mv2.jpg/News - 2024-03-19 - LiBiao.jpg"
+image: "https://static.wixstatic.com/media/6c3915_5fce73bc8d644d01978090647fe98acc~mv2.jpg"
 imageAlt: "2024 IntraLogisteX'te LiBiao Robotics'in Yenilikçi Parsel Sıralama Çözümleri"
 wixId: "2bc84b10-ffb2-4cd7-a795-827ce1083c34"
 author: "Sedat Onat"

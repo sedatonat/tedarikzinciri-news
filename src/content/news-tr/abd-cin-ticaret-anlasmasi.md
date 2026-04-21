@@ -3,7 +3,7 @@ title: "ABD, Çin’in 2020 Ticaret Anlaşmasına Uyumunu Soruşturma Kapsamına
 subtitle: "ABD, Çin’in 2020 Ticaret Anlaşmasına Uyumunu Soruşturma Kapsamına Aldı"
 date: "2025-10-24T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_dc4e83f045934c6c97043876474490f1~mv2.jpg/trump 001.jpg"
+image: "https://static.wixstatic.com/media/6c3915_dc4e83f045934c6c97043876474490f1~mv2.jpg"
 imageAlt: "ABD, Çin’in 2020 Ticaret Anlaşmasına Uyumunu Soruşturma Kapsamına Aldı"
 wixId: "b18e192a-73f0-4a07-a770-a655168b9428"
 author: "Sedat Onat"

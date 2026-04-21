@@ -3,7 +3,7 @@ title: "Apptronik ve Jabil Ortaklığı: Apollo İnsansı Robotlarının Üretim
 subtitle: "Apptronik ve Jabil Ortaklığı: Apollo İnsansı Robotlarının Üretimi"
 date: "2025-02-25T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_c263a9d683464e8796b152c713f61c17~mv2.jpg/News - 2025-02-25 - Apptronik.jpg"
+image: "https://static.wixstatic.com/media/6c3915_c263a9d683464e8796b152c713f61c17~mv2.jpg"
 imageAlt: "Apptronik ve Jabil Ortaklığı: Apollo İnsansı Robotlarının Üretimi"
 wixId: "d8a5821d-cc37-4003-9998-b90fa5326ebe"
 author: "Sedat Onat"

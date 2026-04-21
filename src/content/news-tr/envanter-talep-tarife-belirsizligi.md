@@ -3,7 +3,7 @@ title: "Tarife Belirsizliğine Rağmen Depo Talebi Artıyor: ABD Sanayi Gayrimen
 subtitle: "Tarife Belirsizliğine Rağmen Depo Talebi Artıyor: ABD Sanayi Gayrimenkulünde Güçlü Üçüncü Çeyrek"
 date: "2025-11-05T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_1516d1c2162e4c2c8ecb5070f424aca7~mv2.jpg/warehouse phoenix.jpg"
+image: "https://static.wixstatic.com/media/6c3915_1516d1c2162e4c2c8ecb5070f424aca7~mv2.jpg"
 imageAlt: "ABD’de Q3 2025’te net endüstriyel gayrimenkul absorpsiyonu 60 milyon ft²’ye ulaştı; Phoenix ve Indianapolis talep artışında başı çekerken, şirketlerin tarife belirsizliğine rağmen uzun vadeli depo yatırımlarına yöneldiği görüldü."
 wixId: "7221129c-d248-4020-9cdf-d6c4aa0c3b0e"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "2025 Denizcilik Güvenliği Yeniden Tanımlanıyor: Korsanlıktan Uzakta
 subtitle: "2025 Denizcilik Güvenliği Yeniden Tanımlanıyor: Korsanlıktan Uzaktan Savaşa Geçiş"
 date: "2025-12-01T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_20fa6e3313384fac9410906c213f5b3a~mv2.jpg/konteyner gemisi drone saldiri.jpg"
+image: "https://static.wixstatic.com/media/6c3915_20fa6e3313384fac9410906c213f5b3a~mv2.jpg"
 imageAlt: "2025’te deniz taşımacılığını etkileyen yeni tehdit modelinin—dronlarla yapılan uzaktan saldırılar, swarm taktikleri, liman güvenlik açıkları ve büyük hatların Red Sea geri dönüşünü ertelemesinin arka planı—üzerine detaylı haber özeti"
 wixId: "98a53778-6d85-4e26-b602-699c45b70ace"
 author: "Sedat Onat"

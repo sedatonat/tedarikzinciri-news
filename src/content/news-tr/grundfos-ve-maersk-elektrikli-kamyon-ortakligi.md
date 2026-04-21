@@ -3,7 +3,7 @@ title: "Grundfos ve Maersk Elektrikli Kamyon Dağıtımını Hızlandırmak İç
 subtitle: "Grundfos ve Maersk Elektrikli Kamyon Dağıtımını Hızlandırmak İçin Ortaklık Kurdu"
 date: "2025-01-23T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5c41654cb2ca4fd4a085bbb578a99b10~mv2.jpg/News - 2025-01-23 - Maersk.jpg"
+image: "https://static.wixstatic.com/media/6c3915_5c41654cb2ca4fd4a085bbb578a99b10~mv2.jpg"
 imageAlt: "Grundfos ve Maersk Elektrikli Kamyon Dağıtımını Hızlandırmak İçin Ortaklık Kurdu"
 wixId: "6d8fdbd6-04cd-4bfc-8a6d-c3c8829e6cd3"
 author: "Sedat Onat"

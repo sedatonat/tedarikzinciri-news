@@ -3,7 +3,7 @@ title: "Inmarsat'ın NexusWave Hizmeti ile Denizcilikte 340 Mbps Bağlantı Hız
 subtitle: "Inmarsat'ın NexusWave Hizmeti ile Denizcilikte 340 Mbps Bağlantı Hızı"
 date: "2025-03-14T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_a230a6c8cade4a4b813d52966f0a870b~mv2.jpeg/News - 2025-03-14 - Inmarsat internet.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_a230a6c8cade4a4b813d52966f0a870b~mv2.jpeg"
 imageAlt: "Inmarsat'ın NexusWave Hizmeti ile Denizcilikte 340 Mbps Bağlantı Hızı"
 wixId: "7082e36e-7d0e-4adf-9666-d468faeea4b5"
 author: "Sedat Onat"

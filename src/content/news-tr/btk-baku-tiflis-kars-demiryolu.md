@@ -3,7 +3,7 @@ title: "Gürcistan, BTK Hattını Güçlendirecek Yeni Terminal ve Dijital Gümr
 subtitle: "Gürcistan, BTK Hattını Güçlendirecek Yeni Terminal ve Dijital Gümrük Planlarını Açıkladı"
 date: "2025-10-23T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a498628229014d198011ae2a7467696b~mv2.jpg/Railway - Azerbaijan.jpg"
+image: "https://static.wixstatic.com/media/6c3915_a498628229014d198011ae2a7467696b~mv2.jpg"
 imageAlt: "Gürcistan, BTK Hattını Güçlendirecek Yeni Terminal ve Dijital Gümrük Planlarını Açıkladı"
 wixId: "4ae21c84-9210-48eb-b52e-0eb44e8fe1c4"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "FESCO, Krasnoyarsk’tan Vietnam’a Konteynerli Tahıl Hattını Devrey
 subtitle: "FESCO, Krasnoyarsk’tan Vietnam’a Konteynerli Tahıl Hattını Devreye Aldı"
 date: "2025-12-05T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_71b80e3589a143b8b72814cbec784e10~mv2.jpg/fesco-poezd-zima.jpg.jpg"
+image: "https://static.wixstatic.com/media/6c3915_71b80e3589a143b8b72814cbec784e10~mv2.jpg"
 imageAlt: "FESCO Taşıma Grubu’nun Krasnoyarsk bölgesinden Vietnam’a konteynerize tahıl ihracatını başlatması, Sibirya tarım üreticileri için yeni pazar açılması, intermodal entegrasyon ve FVDL hattının stratejik rolünün detaylı özeti"
 wixId: "dd5c5369-e94d-4f10-8a59-f0a0bace6bea"
 author: "Sedat Onat"

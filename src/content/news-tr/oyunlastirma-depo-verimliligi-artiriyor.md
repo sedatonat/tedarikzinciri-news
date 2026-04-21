@@ -3,7 +3,7 @@ title: "Oyunlaştırma, Depo Verimliliğini Artırıyor ve Personel Bağlılığ
 subtitle: "Oyunlaştırma, Depo Verimliliğini Artırıyor ve Personel Bağlılığını Güçlendiriyor"
 date: "2024-11-26T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_ae3fa646bf534f36b2ec6c75baed2fb8~mv2.jpg/News - 2024-11-26 - WH.jpg"
+image: "https://static.wixstatic.com/media/6c3915_ae3fa646bf534f36b2ec6c75baed2fb8~mv2.jpg"
 imageAlt: "Oyunlaştırma, Depo Verimliliğini Artırıyor ve Personel Bağlılığını Güçlendiriyor"
 wixId: "b8cb9b85-0deb-4a06-bc15-89e718007154"
 author: "Sedat Onat"

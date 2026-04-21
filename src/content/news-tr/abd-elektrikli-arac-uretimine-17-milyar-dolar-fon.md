@@ -3,7 +3,7 @@ title: "ABD, Elektrikli Araç Üretimini 17 Milyar Dolarlık Fon ile Destekliyor
 subtitle: "ABD, Elektrikli Araç Üretimini 17 Milyar Dolarlık Fon ile Destekliyor"
 date: "2024-07-17T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2d973b2a3e0b4c22b95547c5da64ff03~mv2.jpeg/News - 2024-07-17 - Truck.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_2d973b2a3e0b4c22b95547c5da64ff03~mv2.jpeg"
 imageAlt: "ABD, Elektrikli Araç Üretimini 17 Milyar Dolarlık Fon ile Destekliyor"
 wixId: "bb68e08b-a9d8-49e9-a1d5-705e884b3c4e"
 author: "Sedat Onat"

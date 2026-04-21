@@ -3,7 +3,7 @@ title: "Trump'ın Çin Ticaret Baskısı Sevkiyat Kaosu ve Fiyat Artışlarına 
 subtitle: "Trump'ın Çin Ticaret Baskısı Sevkiyat Kaosu ve Fiyat Artışlarına Yol Açtı"
 date: "2025-02-09T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_432800174fb94ad7ad6fb558b2afed99~mv2.jpg/News - 2025-02-09 - Cargo.jpg"
+image: "https://static.wixstatic.com/media/6c3915_432800174fb94ad7ad6fb558b2afed99~mv2.jpg"
 imageAlt: "Trump'ın Çin Ticaret Baskısı Sevkiyat Kaosu ve Fiyat Artışlarına Yol Açtı"
 wixId: "877c3958-21fc-40c9-b699-037a3882893d"
 author: "Sedat Onat"

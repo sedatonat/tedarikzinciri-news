@@ -3,7 +3,7 @@ title: "2025’te Maliyet Ve Envanter Risklerini Yönetmek İçin 5 RFID Uygulam
 subtitle: "2025’te Maliyet Ve Envanter Risklerini Yönetmek İçin 5 RFID Uygulaması"
 date: "2025-09-13T00:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_08808f82ec0f4ee09eccc4acf63416af~mv2.png/850.png"
+image: "https://static.wixstatic.com/media/6c3915_08808f82ec0f4ee09eccc4acf63416af~mv2.png"
 imageAlt: "2025’te Maliyet Ve Envanter Risklerini Yönetmek İçin Beş Rfid Uygulaması"
 wixId: "b9007ad4-204d-4798-9e5c-94a04cfcf557"
 author: "Sedat Onat"

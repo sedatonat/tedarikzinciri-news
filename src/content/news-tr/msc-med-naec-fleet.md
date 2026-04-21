@@ -3,7 +3,7 @@ title: "MSC’nin 13–15 Bin TEU Dev Gemileri MED–NAEC Hattında İki Katmanl
 subtitle: "MSC’nin 13–15 Bin TEU Dev Gemileri MED–NAEC Hattında İki Katmanlı Filo Yapısı Oluşturuyor"
 date: "2025-11-20T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4bcdd37154d942e9848be2f2407c3c8f~mv2.jpg/MSC konteyner gemisi kopru kirmizi.jpg"
+image: "https://static.wixstatic.com/media/6c3915_4bcdd37154d942e9848be2f2407c3c8f~mv2.jpg"
 imageAlt: "MSC’nin MED–NAEC hattında ultra büyük gemiler konuşlandırarak iki seviyeli filo yapısı oluşturması, Sea-Intelligence analizinde ortaya konan kapasite eğilimleri ve terminal operasyonlarına etkisi üzerine detaylı özet"
 wixId: "2d7147ed-05d5-4107-8500-0b4ce7090b47"
 author: "Sedat Onat"

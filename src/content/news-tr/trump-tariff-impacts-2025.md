@@ -3,7 +3,7 @@ title: "Trump Dönemindeki “Tariff” Uygulamalarının Ekonomi ve Tedarik Zin
 subtitle: "Trump Dönemindeki “Tariff” Uygulamalarının Ekonomi ve Tedarik Zincirine Etkisi"
 date: "2024-12-11T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_7c98b6b5c5804269948e5a2816eca309~mv2.jpg/News - 2024-12-11 - Trump.jpg"
+image: "https://static.wixstatic.com/media/6c3915_7c98b6b5c5804269948e5a2816eca309~mv2.jpg"
 imageAlt: "Trump Dönemindeki “Tariff” Uygulamalarının Ekonomi ve Tedarik Zincirine Etkisi"
 wixId: "1a5c6afc-e4c7-4cbc-bf7a-c3676e8a225b"
 author: "Sedat Onat"

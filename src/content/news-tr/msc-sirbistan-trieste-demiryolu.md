@@ -3,7 +3,7 @@ title: "MSC, Sırbistan ile Trieste Limanı Arasında Yeni Intermodal Demiryolu 
 subtitle: "MSC, Sırbistan ile Trieste Limanı Arasında Yeni Intermodal Demiryolu Hattını Hizmete Açtı"
 date: "2025-11-03T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e2a928c1b47d4599ab124a82e37a080b~mv2.jpg/msc telehandler konteyner demiryolu.jpg"
+image: "https://static.wixstatic.com/media/6c3915_e2a928c1b47d4599ab124a82e37a080b~mv2.jpg"
 imageAlt: "Mediterranean Shipping Company (MSC), Belgrad yakınındaki Batajnica terminalinden başlayarak İtalya’nın Trieste Limanı’na uzanan yeni bir intermodal demiryolu hattını devreye aldı. Yeni bağlantı, Sırbistan’ı doğrudan küresel pazarlara bağlayarak daha sürdürülebilir ve hızlı taşımacılık çözümleri sunuyor."
 wixId: "87ba8e3d-415d-433e-a45e-8564f5f44de7"
 author: "Sedat Onat"

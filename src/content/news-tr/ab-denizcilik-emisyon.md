@@ -3,7 +3,7 @@ title: "AB, Denizcilik Sektöründe Emisyon Azaltımı İçin Yeni Düzenlemeler
 subtitle: "AB, Denizcilik Sektöründe Emisyon Azaltımı İçin Yeni Düzenlemeler Getiriyor"
 date: "2025-01-17T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_60d7b7d57e4e4ca18a8e1dce935ba648~mv2.jpg/News - 2025-01-17 - NGO.jpg"
+image: "https://static.wixstatic.com/media/6c3915_60d7b7d57e4e4ca18a8e1dce935ba648~mv2.jpg"
 imageAlt: "AB, Denizcilik Sektöründe Emisyon Azaltımı İçin Yeni Düzenlemeler Getiriyor"
 wixId: "03419368-89a3-4575-ae5d-1610c6ae7d79"
 author: "Sedat Onat"

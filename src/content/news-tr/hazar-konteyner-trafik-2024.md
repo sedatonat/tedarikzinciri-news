@@ -3,7 +3,7 @@ title: "Hazar Havzası Limanları Üzerinden Konteyner Trafiği Kasım 2024'te �
 subtitle: "Hazar Havzası Limanları Üzerinden Konteyner Trafiği Kasım 2024'te İki Katına Çıktı"
 date: "2025-01-13T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c7c71900aba04e1d9558f4c4ec1afe2c~mv2.jpg/News - 2025-01-13 - Hazar.jpg"
+image: "https://static.wixstatic.com/media/6c3915_c7c71900aba04e1d9558f4c4ec1afe2c~mv2.jpg"
 imageAlt: "Hazar Havzası Limanları Üzerinden Konteyner Trafiği Kasım 2024'te İki Katına Çıktı"
 wixId: "558124e3-04c7-4c51-af68-6b71c0bbfa2a"
 author: "Sedat Onat"

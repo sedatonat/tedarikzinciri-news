@@ -3,7 +3,7 @@ title: "Bombardier, 2024 Yılına Yönelik Uçak Teslimat Hedeflerini Yükseltti
 subtitle: "Bombardier, 2024 Yılına Yönelik Uçak Teslimat Hedeflerini Yükseltti"
 date: "2024-03-11T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_28b47daf52674abca7d8a0dd8cf97365~mv2.jpg/News - 2024-03-11 - Bombardier Jet Plane.jpg"
+image: "https://static.wixstatic.com/media/6c3915_28b47daf52674abca7d8a0dd8cf97365~mv2.jpg"
 imageAlt: "2024 Yılına Yönelik Uçak Teslimat Hedeflerini Yükselten Bombardier"
 wixId: "47330f06-7e1a-4c96-b452-52ae581b197e"
 author: "Sedat Onat"

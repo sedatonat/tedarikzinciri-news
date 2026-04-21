@@ -3,7 +3,7 @@ title: "Hava Kargo Pazarında Beklenen Kasım Hareketliliği Yerini Durgunluğa 
 subtitle: "Hava Kargo Pazarında Beklenen Kasım Hareketliliği Yerini Durgunluğa Bırakıyor"
 date: "2024-12-20T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ed548aad62fb4fa09d2730d1219fbd30~mv2.jpg/News - 2024-12-20 - Air Kargo.jpg"
+image: "https://static.wixstatic.com/media/6c3915_ed548aad62fb4fa09d2730d1219fbd30~mv2.jpg"
 imageAlt: "Hava Kargo Pazarında Beklenen Kasım Hareketliliği Yerini Durgunluğa Bırakıyor"
 wixId: "63a97eee-0312-4c09-8afd-e0138bfe01eb"
 author: "Sedat Onat"

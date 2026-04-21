@@ -3,7 +3,7 @@ title: "Gemicilikte Metanol bazı motorlardan vazgeçiliyor"
 subtitle: "Gemicilikte Metanol bazı motorlardan vazgeçiliyor"
 date: "2023-11-15T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_142cdcc5209b44c0a3adbf7ca60ff60f~mv2.jpg/News - 2023-11-15 - motor.jpg"
+image: "https://static.wixstatic.com/media/6c3915_142cdcc5209b44c0a3adbf7ca60ff60f~mv2.jpg"
 wixId: "68bd7e55-66dc-461a-a805-7950b795f4ff"
 author: "Sedat Onat"
 translated: false

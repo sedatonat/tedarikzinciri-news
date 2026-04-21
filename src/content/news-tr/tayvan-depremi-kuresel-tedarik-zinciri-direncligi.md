@@ -3,7 +3,7 @@ title: "Tayvan Depremi, Küresel Tedarik Zincirlerinin Dirençliliğini Ön Plan
 subtitle: "Tayvan Depremi, Küresel Tedarik Zincirlerinin Dirençliliğini Ön Plana Çıkarıyor"
 date: "2024-04-03T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_eb188d5ed5df41f3baca0e102d8d42a1~mv2.jpg/News - 2024-04-03 - Taiwan Earthquake.jpg"
+image: "https://static.wixstatic.com/media/6c3915_eb188d5ed5df41f3baca0e102d8d42a1~mv2.jpg"
 imageAlt: "Tayvan Depremi, Küresel Tedarik Zincirlerinin Dirençliliğini Ön Plana Çıkarıyor"
 wixId: "aa7b7be1-5f06-491e-8ba7-e0a31fffc816"
 author: "Sedat Onat"

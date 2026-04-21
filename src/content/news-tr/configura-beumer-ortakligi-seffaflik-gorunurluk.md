@@ -3,7 +3,7 @@ title: "Configura ve BEUMER Group Dijital Sistem Planlama ve Görselleştirme İ
 subtitle: "Configura ve BEUMER Group Dijital Sistem Planlama ve Görselleştirme İçin Ortaklık Kurdu"
 date: "2025-02-25T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_d33a88dba71d46ab92c469ca9c7cc167~mv2.jpg/News - 2025-02-25 - Beumer.jpg"
+image: "https://static.wixstatic.com/media/6c3915_d33a88dba71d46ab92c469ca9c7cc167~mv2.jpg"
 imageAlt: "Configura ve BEUMER Group Dijital Sistem Planlama ve Görselleştirme İçin Ortaklık Kurdu"
 wixId: "a5b34db2-d811-4c98-8e63-f6428174ad76"
 author: "Sedat Onat"

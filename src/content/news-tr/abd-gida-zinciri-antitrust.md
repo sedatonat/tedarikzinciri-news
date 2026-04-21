@@ -3,7 +3,7 @@ title: "Trump Gıda Tedarik Zincirinde Rekabet İhlallerine Karşı Sert Adım A
 subtitle: "Trump Gıda Tedarik Zincirinde Rekabet İhlallerine Karşı Sert Adım Attı"
 date: "2025-12-07T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_4991eabbef88424cad6376b037df96d8~mv2.jpg/et fabrikasi.jpg"
+image: "https://static.wixstatic.com/media/6c3915_4991eabbef88424cad6376b037df96d8~mv2.jpg"
 imageAlt: "Başkan Donald Trump’ın ABD gıda tedarik zincirinde fiyat sabitleme ve anti-rekabet uygulamalarını soruşturmak için DOJ ve FTC içinde yeni task force’lar kurulmasını emreden kararnameye dair detaylı özet"
 wixId: "94cde06a-568a-454a-8b3e-9e2d7115a980"
 author: "Sedat Onat"

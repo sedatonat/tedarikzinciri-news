@@ -3,7 +3,7 @@ title: "Norveçli Denizcilik Şirketi, Rusya'nın Yardım Reddetme İddiasını 
 subtitle: "Norveçli Denizcilik Şirketi, Rusya'nın Yardım Reddetme İddiasını Yalanladı"
 date: "2024-12-27T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0dfa4486ea824ab8bf781caee2c67854~mv2.jpg/News - 2024-12-27 - Sinking Ship.jpg"
+image: "https://static.wixstatic.com/media/6c3915_0dfa4486ea824ab8bf781caee2c67854~mv2.jpg"
 imageAlt: "Norveçli Denizcilik Şirketi, Rusya'nın Yardım Reddetme İddiasını Yalanladı"
 wixId: "d012456a-9a22-4c50-b002-93d45ee816ba"
 author: "Sedat Onat"

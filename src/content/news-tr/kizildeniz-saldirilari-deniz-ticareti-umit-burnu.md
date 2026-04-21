@@ -3,7 +3,7 @@ title: "Kızıldeniz'deki Saldırılar Deniz Ticaretini Ümit Burnu'na Kaydırd�
 subtitle: "Kızıldeniz'deki Saldırılar Deniz Ticaretini Ümit Burnu'na Kaydırdı"
 date: "2024-05-28T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c74ff5d762db4840b25e9fdf55c40569~mv2.jpg/News - 2024-05-28 - Suez.jpg"
+image: "https://static.wixstatic.com/media/6c3915_c74ff5d762db4840b25e9fdf55c40569~mv2.jpg"
 imageAlt: "Kızıldeniz'deki Saldırılar Deniz Ticaretini Ümit Burnu'na Kaydırdı"
 wixId: "bf781c8d-9450-469d-a083-9f01aa0d013e"
 author: "Sedat Onat"

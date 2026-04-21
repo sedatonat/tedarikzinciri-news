@@ -3,7 +3,7 @@ title: "Epicor, Kyklo'yu Satın Alarak AI Destekli ERP Gelişimini Hızlandırı
 subtitle: "Epicor, Kyklo'yu Satın Alarak AI Destekli ERP Gelişimini Hızlandırıyor"
 date: "2024-06-12T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_54c7b0bb0d044abe8cad623fbf0d8251~mv2.png/News - 2024-06-12 - Epicor.png"
+image: "https://static.wixstatic.com/media/6c3915_54c7b0bb0d044abe8cad623fbf0d8251~mv2.png"
 imageAlt: "Epicor, Kyklo'yu Satın Alarak AI Destekli ERP Gelişimini Hızlandırıyor"
 wixId: "cbadaf7c-29bc-47d4-8f43-d0f4a7f0157c"
 author: "Sedat Onat"

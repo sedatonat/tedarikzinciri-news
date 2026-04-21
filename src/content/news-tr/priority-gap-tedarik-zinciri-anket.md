@@ -3,7 +3,7 @@ title: "Anket: Tedarik Zinciri Yöneticileri ile C-Suite Arasında Büyük Uçur
 subtitle: "Anket: Tedarik Zinciri Yöneticileri ile C-Suite Arasında Büyük Uçurum"
 date: "2024-12-02T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_f0aa167fc31a42cda619229b4ac66f3d~mv2.jpg/News - 2024-12-02 - C Level.jpg"
+image: "https://static.wixstatic.com/media/6c3915_f0aa167fc31a42cda619229b4ac66f3d~mv2.jpg"
 imageAlt: "Anket: Tedarik Zinciri Yöneticileri ile C-Suite Arasında Büyük Uçurum"
 wixId: "33085d91-1e1b-41cf-8f24-3fbf04586c62"
 author: "Sedat Onat"

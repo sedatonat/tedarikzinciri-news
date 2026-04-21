@@ -3,7 +3,7 @@ title: "İstanbul Açıklarında Tankerde Zehirli Sızıntı: Bir Mürettebat Ha
 subtitle: "İstanbul Açıklarında Tankerde Zehirli Sızıntı: Bir Mürettebat Hayatını Kaybetti"
 date: "2025-11-21T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e90f2fa112a84695afc9d8706a7e57e8~mv2.jpg/tanker sea.jpg"
+image: "https://static.wixstatic.com/media/6c3915_e90f2fa112a84695afc9d8706a7e57e8~mv2.jpg"
 imageAlt: "Panama bayraklı yeni inşa bir tanker İstanbul yakınlarında seyir hâlindeyken zehirli madde sızıntısı yaşandı; olayda bir mürettebat öldü ve gemide acil kimyasal müdahale ekipleri devreye girdi."
 wixId: "ff800d83-e52c-4e8a-9067-80bca544d2cb"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Denizde Kaybolan Konteyner Sayısında Tarihi Düşüş: 2023 Yılında 
 subtitle: "Denizde Kaybolan Konteyner Sayısında Tarihi Düşüş: 2023 Yılında 221 Konteyner Kayboldu"
 date: "2024-06-11T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1aade18a1478471f9c8ef6d0d4c634c2~mv2.png/News - 2024-06-11 - Container.png"
+image: "https://static.wixstatic.com/media/6c3915_1aade18a1478471f9c8ef6d0d4c634c2~mv2.png"
 imageAlt: "Denizde Kaybolan Konteyner Sayısında Tarihi Düşüş: 2023 Yılında 221 Konteyner Kayboldu"
 wixId: "f228a3cf-b9b2-4e34-864b-8bfe920c5fdb"
 author: "Sedat Onat"

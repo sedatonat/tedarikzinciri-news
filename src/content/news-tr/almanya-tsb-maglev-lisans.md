@@ -3,7 +3,7 @@ title: "Almanya, TSB Manyetik Trenine İlk İşletme Lisansını Verdi: “Trans
 subtitle: "Almanya, TSB Manyetik Trenine İlk İşletme Lisansını Verdi: “Transrapid Travması” Resmen Aşıldı"
 date: "2025-12-08T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_0192fe0c668342b4abcbd391ea3303b4~mv2.jpg/01-TSB-Cargo-Erprobungsstrecke-Sengenthal_1920p-1536x735-1.jpg"
+image: "https://static.wixstatic.com/media/6c3915_0192fe0c668342b4abcbd391ea3303b4~mv2.jpg"
 imageAlt: "EBA’nın Transport System Bögl (TSB) maglev hattına yolcu taşımacılığı için işletme lisansı vermesi, Transrapid sonrası Avrupa’daki ilk ticari maglev onayı, teknik özellikler ve potansiyel Nürnberg pilot hattının detaylı özeti"
 wixId: "36d9cfa5-0eb3-4de8-9cc3-92997047dc3f"
 author: "Sedat Onat"

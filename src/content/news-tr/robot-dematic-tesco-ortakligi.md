@@ -3,7 +3,7 @@ title: "Dematic ve Tesco Ortaklığı: Perakende Çözümlerinde Yeni Bir Dönem
 subtitle: "Dematic ve Tesco Ortaklığı: Perakende Çözümlerinde Yeni Bir Dönem"
 date: "2025-02-18T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_f5c3c4bf75ec4b47be23f4a20888930a~mv2.jpg/News - 2025-02-18 - Market Robot.jpg"
+image: "https://static.wixstatic.com/media/6c3915_f5c3c4bf75ec4b47be23f4a20888930a~mv2.jpg"
 imageAlt: "Dematic ve Tesco Ortaklığı: Perakende Çözümlerinde Yeni Bir Dönem"
 wixId: "b6986280-bd67-4894-a4b0-3df0ef052ad7"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Trump, Gıda Tedarik Zincirlerinde Olası Fiyat Sabitleme İçin Federal
 subtitle: "Trump, Gıda Tedarik Zincirlerinde Olası Fiyat Sabitleme İçin Federal Soruşturma Emri Verdi"
 date: "2025-12-08T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_41328419ea914dbbab8e126e453a5dbb~mv2.jpg/trump finger.jpg"
+image: "https://static.wixstatic.com/media/6c3915_41328419ea914dbbab8e126e453a5dbb~mv2.jpg"
 imageAlt: "Trump yönetiminin artan market fiyatları karşısında gıda tedarik zincirlerinde fiyat sabitleme ve rekabet ihlali iddialarını incelemek üzere DOJ ve FTC’ye yetki vermesi, özellikle yabancı sermayeli şirketlere odaklanan soruşturmanın kapsamı ve sektörel yansımalarının detaylı özeti"
 wixId: "13d0df37-6aa2-4229-a725-d280b925ec01"
 author: "Sedat Onat"

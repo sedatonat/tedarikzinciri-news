@@ -3,7 +3,7 @@ title: "ABD'li İthalatçılar İçin Artan Tarife Maliyetleri Büyük Finansal 
 subtitle: "ABD'li İthalatçılar İçin Artan Tarife Maliyetleri Büyük Finansal Değişim Yaratmakta"
 date: "2025-03-14T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_77cbb4eeebce4a11864f648034d66cd4~mv2.jpg/News - 2025-03-14 - Container Ship.jpg"
+image: "https://static.wixstatic.com/media/6c3915_77cbb4eeebce4a11864f648034d66cd4~mv2.jpg"
 imageAlt: "ABD'li İthalatçılar İçin Artan Tarife Maliyetleri Büyük Finansal Değişim Yaratmakta"
 wixId: "24de49fc-2fd2-4b1a-bf59-35d141362e5e"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "ERP Kesintileri Birleşik Krallık E-Ticaret Şirketlerine Günde 26.000
 subtitle: "ERP Kesintileri Birleşik Krallık E-Ticaret Şirketlerine Günde 26.000 Sterlinden Fazlaya Mal Olabilir"
 date: "2025-03-07T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_3b333e4b4be748f898ce4229ff8394b2~mv2.jpg/News - 2025-03-07 - ERP.jpg"
+image: "https://static.wixstatic.com/media/6c3915_3b333e4b4be748f898ce4229ff8394b2~mv2.jpg"
 imageAlt: "ERP Kesintileri Birleşik Krallık E-Ticaret Şirketlerine Günde 26.000 Sterlinden Fazlaya Mal Olabilir"
 wixId: "62ddc8fa-fa10-45fa-8c19-5fb22ef100b7"
 author: "Sedat Onat"

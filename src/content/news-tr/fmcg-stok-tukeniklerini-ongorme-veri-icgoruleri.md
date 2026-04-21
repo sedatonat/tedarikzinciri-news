@@ -3,7 +3,7 @@ title: "FMCG Sektöründe Stok Tükeniklerini Öngörme: Veriye Dayalı İçgör
 subtitle: "FMCG Sektöründe Stok Tükeniklerini Öngörme: Veriye Dayalı İçgörülerle Direnci Artırma"
 date: "2024-04-03T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_8779abf50acf48e0885ec76e646a7fad~mv2.jpg/News - 2024-04-03 - Stockouts.jpg"
+image: "https://static.wixstatic.com/media/6c3915_8779abf50acf48e0885ec76e646a7fad~mv2.jpg"
 imageAlt: "FMCG Sektöründe Stok Tükeniklerini Öngörme: Veriye Dayalı İçgörülerle Direnci Artırma"
 wixId: "c2999208-60e3-4dc4-a4a9-f92c83b3fb43"
 author: "Sedat Onat"

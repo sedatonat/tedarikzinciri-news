@@ -3,7 +3,7 @@ title: "Singapore Yeni LCP Raporunda Dünyanın Lider Konteyner Limanı Seçildi
 subtitle: "Singapore Yeni LCP Raporunda Dünyanın Lider Konteyner Limanı Seçildi"
 date: "2025-11-27T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e210000ac2984e34aa595849c102c4a2~mv2.jpg/Banner_Connecting_to_the_World_Singapore_Hub.jpg"
+image: "https://static.wixstatic.com/media/6c3915_e210000ac2984e34aa595849c102c4a2~mv2.jpg"
 imageAlt: "DNV ve Menon Economics tarafından yayımlanan Leading Container Ports of the World raporunda Singapore’un küresel lider seçilmesi, metodoloji, sıralamalar ve bölgesel lojistik etkilerini anlatan kapsamlı özet"
 wixId: "8aa4bb86-a555-456a-b513-3baec2de568a"
 author: "Sedat Onat"

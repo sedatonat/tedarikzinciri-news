@@ -3,7 +3,7 @@ title: "Süveyş Yönlendirmeleri ve IMO Anlaşmazlığı 2030 Emisyon Hedefleri
 subtitle: "Süveyş Yönlendirmeleri ve IMO Anlaşmazlığı 2030 Emisyon Hedeflerini Tehlikeye Atıyor"
 date: "2025-01-03T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2dc213247246489fb2aa6bdc9ee9d9fa~mv2.jpg/News - 2025-01-03 - Suez.jpg"
+image: "https://static.wixstatic.com/media/6c3915_2dc213247246489fb2aa6bdc9ee9d9fa~mv2.jpg"
 imageAlt: "Süveyş Saptırmaları ve IMO Anlaşmazlığı 2030 Emisyon Hedeflerini Tehlikeye Atıyor"
 wixId: "c59feab6-b623-4b8c-a994-578d2daeb319"
 author: "Sedat Onat"

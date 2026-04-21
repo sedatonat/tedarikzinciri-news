@@ -3,7 +3,7 @@ title: "Los Angeles Limanı, ONE Henry Hudson Yangını Sonrası Tam Operasyona 
 subtitle: "Los Angeles Limanı, ONE Henry Hudson Yangını Sonrası Tam Operasyona Döndü"
 date: "2025-11-25T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d9b30e040ce04e929974811495e60318~mv2.jpg/los angeles port fire container ship.jpg"
+image: "https://static.wixstatic.com/media/6c3915_d9b30e040ce04e929974811495e60318~mv2.jpg"
 imageAlt: "Port of Los Angeles’ta ONE Henry Hudson konteyner gemisindeki elektrik kaynaklı yangın sonrası terminal kapatmalarının kaldırılması ve limanın yeniden tam kapasite çalışmaya başlaması hakkında detaylı özet."
 wixId: "a40e02c5-7e64-4a41-bc57-d0ef5562d309"
 author: "Sedat Onat"

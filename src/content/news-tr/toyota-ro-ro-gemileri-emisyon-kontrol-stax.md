@@ -3,7 +3,7 @@ title: "Toyota, Ro-Ro Gemilerinin Baca Emisyonlarını Kontrol Etmek İçin Stax
 subtitle: "Toyota, Ro-Ro Gemilerinin Baca Emisyonlarını Kontrol Etmek İçin Stax Engineering ile Anlaştı"
 date: "2024-09-04T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e5b41cabd51c4c0b9af2e7effdc04d0b~mv2.jpg/News - 2024-09-04 - Toyota RoRo.jpg"
+image: "https://static.wixstatic.com/media/6c3915_e5b41cabd51c4c0b9af2e7effdc04d0b~mv2.jpg"
 imageAlt: "Toyota, Ro-Ro Gemilerinin Baca Emisyonlarını Kontrol Etmek İçin Stax Engineering ile Anlaştı"
 wixId: "c552b6ad-3c6d-4480-8b9f-b8e34ac9b8e2"
 author: "Sedat Onat"

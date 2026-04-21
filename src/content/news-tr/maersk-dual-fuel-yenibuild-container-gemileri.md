@@ -3,7 +3,7 @@ title: "Maersk, 20 Çift Yakıtlı Yeni İnşa Konteyner Gemisi Siparişini Tama
 subtitle: "Maersk, 20 Çift Yakıtlı Yeni İnşa Konteyner Gemisi Siparişini Tamamladı"
 date: "2024-12-02T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4cc5233856a44907b1c288a03b4ec300~mv2.jpg/News - 2024-12-02 - Maersk New Ship Line.jpg"
+image: "https://static.wixstatic.com/media/6c3915_4cc5233856a44907b1c288a03b4ec300~mv2.jpg"
 imageAlt: "Maersk, 20 Çift Yakıtlı Yeni İnşa Konteyner Gemisi Siparişini Tamamladı"
 wixId: "b9b5200e-49de-47a0-a5a1-a6355fe28d28"
 author: "Sedat Onat"

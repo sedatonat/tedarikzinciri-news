@@ -3,7 +3,7 @@ title: "ABD’li Robotik Üreticisi, Maliyet Krizi Nedeniyle Üretim Reformu Ça
 subtitle: "ABD’li Robotik Üreticisi, Maliyet Krizi Nedeniyle Üretim Reformu Çağrısı Yapıyor"
 date: "2025-12-02T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b4edb3e255064d1a90a33d995ff44e21~mv2.jpg/mr beard.jpg"
+image: "https://static.wixstatic.com/media/6c3915_b4edb3e255064d1a90a33d995ff44e21~mv2.jpg"
 imageAlt: "Standard Bots CEO’su Evan Beard’in ABD Kongresi’ndeki konuşmasında Çin’in ucuz robotlarının pazar tehditi, ABD’nin strateji eksikliği, maliyet dezavantajı ve üretim reformu önerilerine dair detaylı haber özeti"
 wixId: "d3cc6674-62a4-4c7b-95ce-f18b758f82d4"
 author: "Sedat Onat"

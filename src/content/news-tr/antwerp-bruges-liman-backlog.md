@@ -3,7 +3,7 @@ title: "Antwerp-Bruges Limanı, Grev Sonrası 190 Gemilik Yığılmayla Karşı 
 subtitle: "Antwerp-Bruges Limanı, Grev Sonrası 190 Gemilik Yığılmayla Karşı Karşıya"
 date: "2025-10-16T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8d909a69fa914b3f8ac6ec1ecf3e70ab~mv2.jpg/port from sea.jpg"
+image: "https://static.wixstatic.com/media/6c3915_8d909a69fa914b3f8ac6ec1ecf3e70ab~mv2.jpg"
 imageAlt: "Antwerp-Bruges Limanı, Grev Sonrası 190 Gemilik Yığılmayla Karşı Karşıya"
 wixId: "a75ff173-aeda-4f7c-92da-bbfc6c0a73ae"
 author: "Sedat Onat"

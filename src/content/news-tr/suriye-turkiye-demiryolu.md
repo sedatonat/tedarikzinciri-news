@@ -3,7 +3,7 @@ title: "Suriye ve Türkiye Arasında Demiryolu Bağlantısı İçin Yeni Fırsat
 subtitle: "Suriye ve Türkiye Arasında Demiryolu Bağlantısı İçin Yeni Fırsatlar"
 date: "2024-12-20T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_92384e15c93d4d569705a3cf513d7b5f~mv2.jpg/News - 2024-12-20 - Syria Rail.jpg"
+image: "https://static.wixstatic.com/media/6c3915_92384e15c93d4d569705a3cf513d7b5f~mv2.jpg"
 imageAlt: "Suriye ve Türkiye Arasında Demiryolu Bağlantısı İçin Yeni Fırsatlar"
 wixId: "dac2e728-67bf-4a72-bce4-7c4c523978d5"
 author: "Sedat Onat"

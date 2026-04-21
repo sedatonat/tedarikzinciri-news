@@ -3,7 +3,7 @@ title: "Walmart GoLocal ve IBM İş Birliği: Perakende Lojistiğinde Yeni Döne
 subtitle: "Walmart GoLocal ve IBM İş Birliği: Perakende Lojistiğinde Yeni Dönem"
 date: "2025-01-27T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_545d3f3271104348b250a849fef064ab~mv2.jpg/News - 2025-01-27 - Walmart.jpg"
+image: "https://static.wixstatic.com/media/6c3915_545d3f3271104348b250a849fef064ab~mv2.jpg"
 imageAlt: "Walmart GoLocal ve IBM İş Birliği: Perakende Lojistiğinde Yeni Dönem"
 wixId: "ac7d4f7d-5073-44fd-82de-1d112427ab6a"
 author: "Sedat Onat"

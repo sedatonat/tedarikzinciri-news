@@ -3,7 +3,7 @@ title: "DHL Supply Chain, Tesla Semi ile Elektrikli Ağır Vasıta Filosunu Büy
 subtitle: "DHL Supply Chain, Tesla Semi ile Elektrikli Ağır Vasıta Filosunu Büyütüyor"
 date: "2025-12-10T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_670e4bb5917b4eecb62dc7979865b87c~mv2.jpg/dhl tesla semi truck.jpg"
+image: "https://static.wixstatic.com/media/6c3915_670e4bb5917b4eecb62dc7979865b87c~mv2.jpg"
 imageAlt: "DHL Supply Chain’in Central California’da Tesla Semi’yi devreye alması, pilot sonuçları, 2026 EV filo büyüme planı ve 2050 net-zero hedefi kapsamında ağır vasıta elektrifikasyonunun lojistik etkilerinin detaylı özeti"
 wixId: "26a36df1-de11-4c7e-8ad8-2f7a4afb5cae"
 author: "Sedat Onat"

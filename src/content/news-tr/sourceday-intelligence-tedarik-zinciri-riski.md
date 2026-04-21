@@ -3,7 +3,7 @@ title: "SourceDay, Proaktif Tedarik Zinciri Risk Yönetimi İçin Yeni Platformu
 subtitle: "SourceDay, Proaktif Tedarik Zinciri Risk Yönetimi İçin Yeni Platformunu Tanıttı"
 date: "2024-11-04T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_6d2b7cb1f05e4a5da58acda1f91bc856~mv2.png/News - 2024-11-04 - Sourceday.png"
+image: "https://static.wixstatic.com/media/6c3915_6d2b7cb1f05e4a5da58acda1f91bc856~mv2.png"
 imageAlt: "SourceDay, Proaktif Tedarik Zinciri Risk Yönetimi İçin Yeni Platformunu Tanıttı"
 wixId: "b11edd25-78e7-4df6-9f74-34e8326a2486"
 author: "Sedat Onat"

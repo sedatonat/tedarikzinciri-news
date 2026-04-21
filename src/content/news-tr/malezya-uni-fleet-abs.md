@@ -3,7 +3,7 @@ title: "Malezya Merkezli Uni-Fleet, Bakım ve Satınalma Operasyonlarını Optim
 subtitle: "Malezya Merkezli Uni-Fleet, Bakım ve Satınalma Operasyonlarını Optimize Etmek için ABS"
 date: "2024-12-18T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_48a602b832bf4f83a75a6cd2e974c96a~mv2.png/News - 2024-12-18 - Uni-Fleet.png"
+image: "https://static.wixstatic.com/media/6c3915_48a602b832bf4f83a75a6cd2e974c96a~mv2.png"
 imageAlt: "Malezya Merkezli Uni-Fleet, Bakım ve Satın Alma Operasyonlarını Optimize Etmek İçin ABS"
 wixId: "d5fbb1b6-18e3-4a50-991b-9819bee0f06f"
 author: "Sedat Onat"

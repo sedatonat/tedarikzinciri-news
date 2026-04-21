@@ -3,7 +3,7 @@ title: "Sirius Insight ve Cambridge Pixel, AI Destekli Deniz Gözetim Çözümü
 subtitle: "Sirius Insight ve Cambridge Pixel, AI Destekli Deniz Gözetim Çözümü İçin İş Birliği Yapıyor"
 date: "2024-10-25T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f8c7fd76b45b4aeebbc72147c365ba1a~mv2.jpg/News - 2024-10-25 - Sirius.jpg"
+image: "https://static.wixstatic.com/media/6c3915_f8c7fd76b45b4aeebbc72147c365ba1a~mv2.jpg"
 imageAlt: "Sirius Insight ve Cambridge Pixel, AI Destekli Deniz Gözetim Çözümü İçin İş Birliği Yapıyor"
 wixId: "3c83752a-e5d9-47f2-931f-fe5643bae244"
 author: "Sedat Onat"

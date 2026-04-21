@@ -3,7 +3,7 @@ title: "Sınıf 1 Demiryollarının Hız, Bekleme Süresi ve Vagon İzleme Veril
 subtitle: "Sınıf 1 Demiryollarının Hız, Bekleme Süresi ve Vagon İzleme Verileri"
 date: "2025-03-14T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a2a531c6fca749bca9332b9573dc729e~mv2.jpg/News - 2025-03-14 - Railroad.jpg"
+image: "https://static.wixstatic.com/media/6c3915_a2a531c6fca749bca9332b9573dc729e~mv2.jpg"
 wixId: "00226226-ec5a-4fbe-8df6-a553e38d0c58"
 author: "Sedat Onat"
 translated: false

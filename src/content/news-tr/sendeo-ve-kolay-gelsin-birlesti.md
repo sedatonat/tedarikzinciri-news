@@ -3,7 +3,7 @@ title: "\"Sendeo\" ve \"Kolay Gelsin\", \"Kolay Gelsin\" çatısı altında birl
 subtitle: "\"Sendeo\" ve \"Kolay Gelsin\", \"Kolay Gelsin\" çatısı altında birleşti"
 date: "2024-05-30T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6ebd5403de7a407da346e27e0305c61c~mv2.jpg/News - 2024-05-30 - Kolay Gelsin.jpg"
+image: "https://static.wixstatic.com/media/6c3915_6ebd5403de7a407da346e27e0305c61c~mv2.jpg"
 imageAlt: "\"Sendeo\" ve \"Kolay Gelsin\", \"Kolay Gelsin\" çatısı altında birleşti"
 wixId: "dce6aa55-6439-4b83-94c7-af5c7c22d35a"
 author: "Sedat Onat"

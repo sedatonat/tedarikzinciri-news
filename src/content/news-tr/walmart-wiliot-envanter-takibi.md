@@ -3,7 +3,7 @@ title: "Walmart, Envanter Takibini ve AI Yeteneklerini Geliştirmek İçin Wilio
 subtitle: "Walmart, Envanter Takibini ve AI Yeteneklerini Geliştirmek İçin Wiliot Sensörlerini Yaygınlaştırıyor"
 date: "2025-11-04T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_ea15aedd19bc42a6978a738e9665aaa2~mv2.jpg/walmart.jpg"
+image: "https://static.wixstatic.com/media/6c3915_ea15aedd19bc42a6978a738e9665aaa2~mv2.jpg"
 imageAlt: "Walmart, Wiliot ambient IoT sensörleri ile palet bazlı stok takibini otomatikleştirerek gerçek zamanlı envanter doğruluğu, soğuk zincir uyumu ve AI destekli karar alma süreçlerini güçlendiriyor. 2026’da 4.600 mağaza ve 40+ DC kapsama alınacak."
 wixId: "aabe85dc-d0b4-472f-a343-6d67013c1ae1"
 author: "Sedat Onat"

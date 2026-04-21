@@ -3,7 +3,7 @@ title: "Baltimore'da Köprü Çarpışmasına Karışan Geminin Sahipleri DOJ il
 subtitle: "Baltimore'da Köprü Çarpışmasına Karışan Geminin Sahipleri DOJ ile 102 Milyon Dolarlık Anlaşma Yaptı"
 date: "2024-10-28T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e9eafba5b9a04a7cba4092b8f4082e62~mv2.jpg/News - 2024-10-28 - Scot Key Koprusu.jpg"
+image: "https://static.wixstatic.com/media/6c3915_e9eafba5b9a04a7cba4092b8f4082e62~mv2.jpg"
 imageAlt: "Baltimore'da Köprü Çarpışmasına Karışan Geminin Sahipleri DOJ ile 102 Milyon Dolarlık Anlaşma Yaptı"
 wixId: "67b801d6-a3d6-4749-bbf0-e416cb11dfc4"
 author: "Sedat Onat"

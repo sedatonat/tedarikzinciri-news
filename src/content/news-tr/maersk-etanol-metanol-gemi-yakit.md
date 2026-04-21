@@ -3,7 +3,7 @@ title: "Maersk, Laura Mærsk Üzerinde Etanol–Metanol Çift Yakıt Testlerine 
 subtitle: "Maersk, Laura Mærsk Üzerinde Etanol–Metanol Çift Yakıt Testlerine Başladı"
 date: "2025-12-05T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_45989e0b1df74ab8bdef8c1efb48721e~mv2.jpg/maersk konteyner gemisi etanol metanol.jpg"
+image: "https://static.wixstatic.com/media/6c3915_45989e0b1df74ab8bdef8c1efb48721e~mv2.jpg"
 imageAlt: "Maersk’in Laura Mærsk gemisinde 50/50 etanol–metanol karışımıyla başlattığı yeni deneme, E10 test sonuçları, çift yakıtlı metanol motorlarının opsiyon genişlemesi ve çoklu yakıt stratejisinin sektörel etkilerine dair kapsamlı özet"
 wixId: "ea19739a-735b-4c35-8f8b-2fbb5a4c5b7b"
 author: "Sedat Onat"

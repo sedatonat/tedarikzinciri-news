@@ -3,7 +3,7 @@ title: "Kızıldeniz Etkisiyle Küresel Taşımacılıkta Güvenilirlikte Keskin
 subtitle: "Kızıldeniz Etkisiyle Küresel Taşımacılıkta Güvenilirlikte Keskin Düşüş"
 date: "2024-02-27T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_3ee1d028888042cd859a8683909714a2~mv2_d_4380_2920_s_4_2.jpg/Cargo Ship at the Port.jpg"
+image: "https://static.wixstatic.com/media/11062b_3ee1d028888042cd859a8683909714a2~mv2_d_4380_2920_s_4_2.jpg"
 imageAlt: "Kızıldeniz Etkisiyle Küresel Taşımacılıkta Güvenilirlikte Keskin Düşüş"
 wixId: "1aa386b7-ba1b-408f-adf4-a1e7ff612a1f"
 author: "Sedat Onat"

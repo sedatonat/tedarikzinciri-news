@@ -3,7 +3,7 @@ title: "Lojistik Şirketleri 2026’da Teknolojiye Yatırımda Hız Kesmezken, S
 subtitle: "Lojistik Şirketleri 2026’da Teknolojiye Yatırımda Hız Kesmezken, Siber Güvenlik Geri Planda Kalıyor"
 date: "2025-10-30T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/9112846f96204977a0464974d2073fc3.jpg/Video Game.jpg"
+image: "https://static.wixstatic.com/media/9112846f96204977a0464974d2073fc3.jpg"
 imageAlt: "OntegosCloud’un küresel anketine göre, lojistik ve 3PL şirketlerinin %40’ı 2026 bütçelerinin dörtte birinden fazlasını teknolojiye ayırmayı planlıyor. Ancak yalnızca %11’i siber güvenlik ve regülasyon uyumunu öncelikli gündem maddesi olarak görüyor."
 wixId: "6fb50732-83c1-43fd-88c5-db38261d20bb"
 author: "Sedat Onat"

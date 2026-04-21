@@ -3,7 +3,7 @@ title: "Damen ve Windcat Offshore Enerjisi İçin Yeni Innovation Series Gemiler
 subtitle: "Damen ve Windcat Offshore Enerjisi İçin Yeni Innovation Series Gemilerini Tanıttı"
 date: "2025-11-26T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b757eef1c616445da387be057fd2f2e2~mv2.jpg/damen windcat.jpg"
+image: "https://static.wixstatic.com/media/6c3915_b757eef1c616445da387be057fd2f2e2~mv2.jpg"
 imageAlt: "Damen Shipyards Group ve Windcat’in offshore enerji projeleri için geliştirdiği yeni Innovation Series MP-ASV gemilerinin özellikleri, teknolojik yenilikleri ve sektörel etkisini özetleyen detaylı açıklama"
 wixId: "8984ec85-4392-4304-bd6c-5c1ef2ca953a"
 author: "Sedat Onat"

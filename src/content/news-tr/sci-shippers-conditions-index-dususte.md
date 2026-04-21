@@ -3,7 +3,7 @@ title: "Shippers Conditions Index (SCI) Ağustos 2023'ten Bu Yana İkinci Kez Ne
 subtitle: "Shippers Conditions Index (SCI) Ağustos 2023'ten Bu Yana İkinci Kez Negatifte"
 date: "2025-03-07T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_4e6fd7f022c4422a85d4de58cb28ffec~mv2.jpg/Cargo Ship at Port.jpg"
+image: "https://static.wixstatic.com/media/11062b_4e6fd7f022c4422a85d4de58cb28ffec~mv2.jpg"
 imageAlt: "Shippers Conditions Index (SCI) Ağustos 2023'ten Bu Yana İkinci Kez Negatifte"
 wixId: "b4a9065b-db12-4317-a370-edc9a6598ccd"
 author: "Sedat Onat"

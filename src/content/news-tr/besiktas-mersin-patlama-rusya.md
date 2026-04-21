@@ -3,7 +3,7 @@ title: "Beşiktaş Shipping, M/T Mersin Olayı Sonrası Rusya Bağlantılı Sefe
 subtitle: "Beşiktaş Shipping, M/T Mersin Olayı Sonrası Rusya Bağlantılı Seferleri Tamamen Durdurdu"
 date: "2025-12-03T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_437883bd2a15496789202ed778c134bd~mv2.jpg/petrol tankeri mersin panama.jpg"
+image: "https://static.wixstatic.com/media/6c3915_437883bd2a15496789202ed778c134bd~mv2.jpg"
 imageAlt: "M/T Mersin tankerinin Dakar açıklarında dört dış patlama yaşaması sonrası Beşiktaş Shipping’in tüm Rusya bağlantılı operasyonları sonlandırması, güvenlik riski değerlendirmesi ve tedarik zinciri etkilerinin detaylı özeti"
 wixId: "4177d233-6de6-4c13-bf0a-bc87c1209e28"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Küresel Ticaret Yavaşlıyor: Şirketler Siparişleri Beklemeye Alıyor
 subtitle: "Küresel Ticaret Yavaşlıyor: Şirketler Siparişleri Beklemeye Alıyor"
 date: "2025-04-10T00:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d218058b113241d19787d1c840dceea1~mv2.png/921.png"
+image: "https://static.wixstatic.com/media/6c3915_d218058b113241d19787d1c840dceea1~mv2.png"
 imageAlt: "Küresel Ticaret Yavaşlıyor: Şirketler Siparişleri Beklemeye Alıyor"
 wixId: "c5b242ed-05ad-45d5-b840-a39a6deebcb8"
 author: "Sedat Onat"

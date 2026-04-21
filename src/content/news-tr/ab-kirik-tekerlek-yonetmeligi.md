@@ -3,7 +3,7 @@ title: "AB’nin “Kırık Tekerlek” Yönetmelikleri Yıl Sonuna Kadar Tamaml
 subtitle: "AB’nin “Kırık Tekerlek” Yönetmelikleri Yıl Sonuna Kadar Tamamlanacak"
 date: "2025-11-12T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f1ed2a907d704dd6a88a6b4796348093~mv2.jpg/Wheels-on-a-freight-train railway.jpg"
+image: "https://static.wixstatic.com/media/6c3915_f1ed2a907d704dd6a88a6b4796348093~mv2.jpg"
 imageAlt: "Avrupa’daki Gotthard 2023 tren kazası sonrası başlatılan Broken Wheels Task Force, demiryolu yük taşımacılığında tekerlek güvenliği ve bakım kurallarını güncelleyen yeni AB yönetmeliklerini yıl sonuna kadar yayımlamaya hazırlanıyor."
 wixId: "a723a6a3-21e6-4a28-92a5-479d7efdb865"
 author: "Sedat Onat"

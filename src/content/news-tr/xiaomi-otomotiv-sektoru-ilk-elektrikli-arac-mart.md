@@ -3,7 +3,7 @@ title: "Xiaomi'den Otomotiv Sektörüne Büyük Adım: İlk Elektrikli Araç Mar
 subtitle: "Xiaomi'den Otomotiv Sektörüne Büyük Adım: İlk Elektrikli Araç Mart'ta Yollarda"
 date: "2024-03-12T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_a96f84eb2d504b30a4a4317922e8b587~mv2.jpg/News - 2024-03-12 - Xiaomi.jpg"
+image: "https://static.wixstatic.com/media/6c3915_a96f84eb2d504b30a4a4317922e8b587~mv2.jpg"
 imageAlt: "Xiaomi'den Otomotiv Sektörüne Büyük Adım: İlk Elektrikli Araç Mart'ta Yollarda"
 wixId: "62d23cf1-db62-431b-b511-6c47d809fab5"
 author: "Sedat Onat"

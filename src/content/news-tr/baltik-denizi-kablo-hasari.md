@@ -3,7 +3,7 @@ title: "Baltık Denizindeki Letonya-İsveç Fiber Optik Kablosu Harici Müdahale
 subtitle: "Baltık Denizindeki Letonya-İsveç Fiber Optik Kablosu Harici Müdahale ile Hasar Aldı"
 date: "2025-02-26T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_0afcc0530e4e49528cb9416c72ffd991~mv2.jpg/News - 2025-01-26 - Baltic Sea Cable.jpg"
+image: "https://static.wixstatic.com/media/6c3915_0afcc0530e4e49528cb9416c72ffd991~mv2.jpg"
 imageAlt: "Baltık Denizindeki Letonya-İsveç Fiber Optik Kablosu Harici Müdahale ile Hasar Aldı"
 wixId: "9df87b86-71f5-4a41-a1d5-89ddcdf7a7bd"
 author: "Sedat Onat"

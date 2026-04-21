@@ -3,7 +3,7 @@ title: "Canada Post’ta Grevler: Göndericiler Tatil Yoğunluğunu Nasıl Yöne
 subtitle: "Canada Post’ta Grevler: Göndericiler Tatil Yoğunluğunu Nasıl Yönetebilir?"
 date: "2025-11-05T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8c9599d7e30e4539bd1459db0cb71129~mv2.jpg/canada post delivery.jpg"
+image: "https://static.wixstatic.com/media/6c3915_8c9599d7e30e4539bd1459db0cb71129~mv2.jpg"
 imageAlt: "Canada Post çalışanlarının uyguladığı rotating strikes (döner grevler), tatil sezonu yaklaşırken teslimatlarda öngörülemeyen gecikme riski oluşturuyor. Uzmanlar, işletmelerin müşteri iletişimini güçlendirmesini, alternatif taşıyıcılar eklemesini ve büyük şehirlerde güçlü yerel teslimat ortakları bulundurmasını öneriyor."
 wixId: "b13aefc9-cb3c-4c1d-a08b-3d0fdcc4994e"
 author: "Sedat Onat"

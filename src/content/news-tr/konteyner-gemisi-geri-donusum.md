@@ -3,7 +3,7 @@ title: "Konteyner Gemi Geri Dönüşümünde 1,8 Milyon TEU’luk Yığılma: Fi
 subtitle: "Konteyner Gemi Geri Dönüşümünde 1,8 Milyon TEU’luk Yığılma: Filoda Yaşlanma Krizi Derinleşiyor"
 date: "2025-10-24T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ab91763227ff4ca3b30b13362f95e704~mv2.jpg/old container ship.jpg"
+image: "https://static.wixstatic.com/media/6c3915_ab91763227ff4ca3b30b13362f95e704~mv2.jpg"
 imageAlt: "Konteyner Gemi Geri Dönüşümünde 1,8 Milyon TEU’luk Yığılma: Filoda Yaşlanma Krizi Derinleşiyor"
 wixId: "a2959fa6-8faa-4316-82c6-af6d45f4137f"
 author: "Sedat Onat"

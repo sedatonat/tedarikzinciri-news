@@ -3,7 +3,7 @@ title: "IFS Softeon Satın Alımıyla Depo Yazılımlarında Industrial AI Hamle
 subtitle: "IFS Softeon Satın Alımıyla Depo Yazılımlarında Industrial AI Hamlesi Yapıyor"
 date: "2025-12-17T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_eabf006f2738451a9d5f4e56d34f28b6~mv2.jpg/IFS Softeon Logo.jpg"
+image: "https://static.wixstatic.com/media/6c3915_eabf006f2738451a9d5f4e56d34f28b6~mv2.jpg"
 imageAlt: "IFS, bulut tabanlı WMS, WES ve DOM çözümleri sunan Softeon’u satın almak üzere anlaşmaya vardı; hamle, Industrial AI, robotik entegrasyon ve akıllı depo yürütmenin tek platformda birleşmesini hedefliyor."
 wixId: "a4f5a6e3-c58d-4478-a204-c4582d8114e2"
 author: "Sedat Onat"

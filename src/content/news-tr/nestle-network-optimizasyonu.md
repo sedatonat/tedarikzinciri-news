@@ -3,7 +3,7 @@ title: "Nestlé, Dağıtım Ağı Optimizasyonuyla Maliyet, Dayanıklılık ve S
 subtitle: "Nestlé, Dağıtım Ağı Optimizasyonuyla Maliyet, Dayanıklılık ve Sürdürülebilirliği Dengeliyor"
 date: "2025-10-07T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b680461280114ce1a498cb419f717f77~mv2.jpg/nestle distribution network.jpg"
+image: "https://static.wixstatic.com/media/6c3915_b680461280114ce1a498cb419f717f77~mv2.jpg"
 imageAlt: "Nestlé, Dağıtım Ağı Optimizasyonuyla Maliyet, Dayanıklılık ve Sürdürülebilirliği Dengeliyor"
 wixId: "4b2e00ef-81b0-44e3-b580-6828b014757a"
 author: "Sedat Onat"

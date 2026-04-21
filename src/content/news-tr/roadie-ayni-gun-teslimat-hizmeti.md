@@ -3,7 +3,7 @@ title: "Büyük ve Hacimli Ürünler İçin Roadie'den Aynı Gün Teslimat Hizme
 subtitle: "Büyük ve Hacimli Ürünler İçin Roadie'den Aynı Gün Teslimat Hizmeti"
 date: "2024-06-05T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c4522c2a040f4c648d1b5d307b652486~mv2.png/News - 2024-06-05 - Roadie.png"
+image: "https://static.wixstatic.com/media/6c3915_c4522c2a040f4c648d1b5d307b652486~mv2.png"
 imageAlt: "Büyük ve Hacimli Ürünler İçin Roadie'den Aynı Gün Teslimat Hizmeti"
 wixId: "e24ad74a-6728-43a8-a10e-0562294e6694"
 author: "Sedat Onat"

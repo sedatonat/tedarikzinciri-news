@@ -3,7 +3,7 @@ title: "DP World, Türk Otomotiv Endüstrisi İçin Yeni Tedarik Zinciri Güzerg
 subtitle: "DP World, Türk Otomotiv Endüstrisi İçin Yeni Tedarik Zinciri Güzergahları Sunuyor"
 date: "2024-05-03T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_049756a29ff34e5eace94912ff20bdd3~mv2.jpg/News - 2024-05-03 - DP World Turkey.jpg"
+image: "https://static.wixstatic.com/media/6c3915_049756a29ff34e5eace94912ff20bdd3~mv2.jpg"
 imageAlt: "DP World, Türk Otomotiv Endüstrisi İçin Yeni Tedarik Zinciri Güzergahları Sunuyor"
 wixId: "29c2e144-fc47-4a87-aa84-49d415a3648c"
 author: "Sedat Onat"

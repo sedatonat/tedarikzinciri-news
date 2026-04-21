@@ -3,7 +3,7 @@ title: "Yapay Zeka 'nın bir sonraki safhası olan Yaratıcı Yapay Zeka hukuk s
 subtitle: "Yapay Zeka 'nın bir sonraki safhası olan Yaratıcı Yapay Zeka hukuk süreçlerinde de potansiyelini gösteriyor"
 date: "2023-12-16T09:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_15ac2a206054473986d5d0b6e4a0c630~mv2.jpg/News - 2023-12-16 - Proc AI.jpg"
+image: "https://static.wixstatic.com/media/6c3915_15ac2a206054473986d5d0b6e4a0c630~mv2.jpg"
 imageAlt: "Yapay Zeka 'nın bir sonraki safhası olan Yaratıcı Yapay Zeka hukuk süreçlerinde de potansiyelini gösteriyor"
 wixId: "79a2419a-c666-44f7-be07-e66db49b8527"
 author: "Sedat Onat"

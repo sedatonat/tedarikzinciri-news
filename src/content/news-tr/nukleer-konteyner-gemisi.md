@@ -3,7 +3,7 @@ title: "Seaspan Nükleer Güçlü Konteyner Gemileri İçin Yeni SMR Raporunu De
 subtitle: "Seaspan Nükleer Güçlü Konteyner Gemileri İçin Yeni SMR Raporunu Değerlendiriyor"
 date: "2025-11-27T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5a7acf81b84a4f85bb14f8e43622db0c~mv2.jpeg/seaspan boxship konteyner gemisi nukleer.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_5a7acf81b84a4f85bb14f8e43622db0c~mv2.jpeg"
 imageAlt: "Lloyd’s Register ve LucidCatalyst’in hazırladığı raporun, Seaspan’ın nükleer modüler reaktörlü konteyner gemileri için ortaya koyduğu teknik, ekonomik ve tedarik zinciri analizini içeren detaylı özet"
 wixId: "67500299-5ba8-4285-81fc-3ee45f223d8d"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Queclink’ten Akıllı Bolt-Mühür İnovasyonu: Konteyner Güvenliği 
 subtitle: "Queclink’ten Akıllı Bolt-Mühür İnovasyonu: Konteyner Güvenliği Yeni Bir Seviyeye Taşınıyor"
 date: "2025-11-02T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_fb9862a8f8a643858f7302e040bd70c2~mv2.png/smart bolt-seal.png"
+image: "https://static.wixstatic.com/media/6c3915_fb9862a8f8a643858f7302e040bd70c2~mv2.png"
 imageAlt: "IoT cihaz üreticisi Queclink Wireless Solutions, ISO 17712 standartlarına uygun yeni akıllı bolt-mühür (GES100CG) ile yüksek değerli konteyner taşımacılığında güvenliği artırmayı hedefliyor. Cihaz, LTE bağlantısı, GNSS konumlandırma ve anlık ihlal uyarısı özellikleriyle konteyner bütünlüğünü gerçek zamanlı koruma sağlıyor."
 wixId: "12e34639-6179-4ad5-9762-fa1ce75ea767"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Japon Tersaneleri ve Armatörleri Alternatif Yakıtlı Gemiler İçin Or
 subtitle: "Japon Tersaneleri ve Armatörleri Alternatif Yakıtlı Gemiler İçin Ortak Tasarım Standartlarında Anlaştı"
 date: "2025-12-01T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_13b662561d73415c824e0abc607e547f~mv2.jpg/jalonya amonyak yakit.jpg"
+image: "https://static.wixstatic.com/media/6c3915_13b662561d73415c824e0abc607e547f~mv2.jpg"
 imageAlt: "Japonya’nın önde gelen yedi gemi inşa ve denizcilik şirketinin LCO₂ taşıyıcılar ve alternatif yakıtlı gemiler için ortak tasarım platformu MILES üzerinden standart gemi tasarımı geliştirme kararı ve bunun tedarik zinciri etkilerine dair detaylı haber özeti"
 wixId: "10b1eb51-2808-4a05-9278-c2504e6eed9c"
 author: "Sedat Onat"

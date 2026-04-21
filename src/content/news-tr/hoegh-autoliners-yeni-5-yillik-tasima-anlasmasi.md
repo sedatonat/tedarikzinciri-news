@@ -3,7 +3,7 @@ title: "Höegh Autoliners, Büyük Bir Uluslararası Otomobil Üreticisi ile 5 Y
 subtitle: "Höegh Autoliners, Büyük Bir Uluslararası Otomobil Üreticisi ile 5 Yıllık Yeni Taşıma Anlaşması İmzaladı"
 date: "2024-12-06T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_eed03f1990054183b4ed97986bcbfe08~mv2.jpg/News - 2024-12-06 - Hoegh.jpg"
+image: "https://static.wixstatic.com/media/6c3915_eed03f1990054183b4ed97986bcbfe08~mv2.jpg"
 imageAlt: "Höegh Autoliners, Büyük Bir Uluslararası Otomobil Üreticisi ile 5 Yıllık Yeni Taşıma Anlaşması İmzaladı"
 wixId: "7a4404c3-134a-49d6-a4cc-4f110d81c88f"
 author: "Sedat Onat"

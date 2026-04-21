@@ -3,7 +3,7 @@ title: "Modern Tedarik Zincirlerinin Anahtarı: WMS Başarısı İçin Otomatik 
 subtitle: "Modern Tedarik Zincirlerinin Anahtarı: WMS Başarısı İçin Otomatik Testler"
 date: "2025-03-06T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_cf5d37c7fbb54940a7ad441f58c8bed2~mv2.jpg/News - 2025-03-06 - WMS.jpg"
+image: "https://static.wixstatic.com/media/6c3915_cf5d37c7fbb54940a7ad441f58c8bed2~mv2.jpg"
 imageAlt: "Modern Tedarik Zincirlerinin Anahtarı: WMS Başarısı İçin Otomatik Testler"
 wixId: "5d3514ca-7ef5-48fb-adb5-74d7789fe0cb"
 author: "Sedat Onat"

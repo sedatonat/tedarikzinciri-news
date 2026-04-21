@@ -3,7 +3,7 @@ title: "AB’nin Askerî Mobilite Paketi Demiryolu Yük Taşımacılığı İçi
 subtitle: "AB’nin Askerî Mobilite Paketi Demiryolu Yük Taşımacılığı İçin Ne Anlama Geliyor?"
 date: "2025-11-20T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d2c0cc06a4104d81965c203d0eb7fc16~mv2.jpg/panzer btr.jpg"
+image: "https://static.wixstatic.com/media/6c3915_d2c0cc06a4104d81965c203d0eb7fc16~mv2.jpg"
 imageAlt: "Avrupa Komisyonu’nun Askerî Mobilite Paketi, AB içinde askerî malzeme ve personel taşımacılığını hızlandırmayı, “askerî Schengen”e adım atmayı ve demiryolu altyapısının hem sivil hem askerî amaçlarla daha uyumlu kullanılmasını hedefliyor."
 wixId: "7897a0fa-7ebc-4c7f-b239-75d3bee94b80"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Küresel Üretimde Mayıs Sıçraması: 14 Ay Sonra İlk Kez Pozitif Yö
 subtitle: "Küresel Üretimde Mayıs Sıçraması: 14 Ay Sonra İlk Kez Pozitif Yönde"
 date: "2024-06-13T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_df9aa7fbec8c420bbdc66aaafb4cd048~mv2.jpg/News - 2024-06-13 - GEP.jpg"
+image: "https://static.wixstatic.com/media/6c3915_df9aa7fbec8c420bbdc66aaafb4cd048~mv2.jpg"
 imageAlt: "Küresel Üretimde Mayıs Sıçraması: 14 Ay Sonra İlk Kez Pozitif Yönde"
 wixId: "4bfc372d-abd9-4976-aae8-245e2de194cf"
 author: "Sedat Onat"

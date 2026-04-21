@@ -3,7 +3,7 @@ title: "Kızıl Deniz Güvenlik Krizi: Küresel Ticarette Rotayı Değiştiren T
 subtitle: "Kızıl Deniz Güvenlik Krizi: Küresel Ticarette Rotayı Değiştiren Tehditler"
 date: "2023-12-18T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b7dadd97251a46fa8b4824807dec4d2c~mv2.png/News - 2023-12-18 - Suez.png"
+image: "https://static.wixstatic.com/media/6c3915_b7dadd97251a46fa8b4824807dec4d2c~mv2.png"
 imageAlt: "Kızıl Deniz Güvenlik Krizi: Küresel Ticarette Rotayı Değiştiren Tehditler"
 wixId: "14b724f2-5375-4ad2-b012-8dcb5221043a"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Ukrayna, Ulaşım Altyapısı İçin Yeni Destek Fonu Kuruyor: Kanada, L
 subtitle: "Ukrayna, Ulaşım Altyapısı İçin Yeni Destek Fonu Kuruyor: Kanada, Litvanya ve İsveç ile Ortak Bildiri İmzalandı"
 date: "2025-12-08T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e4b501ae77dc4295a32591d8c68ac10f~mv2.jpg/ukrayne ulasim altyapi.jpg"
+image: "https://static.wixstatic.com/media/6c3915_e4b501ae77dc4295a32591d8c68ac10f~mv2.jpg"
 imageAlt: "Ukrayna’nın Kanada, Litvanya ve İsveç ile imzaladığı UTSF ortak bildirisi, ulaşım altyapısı için kurulacak uluslararası destek fonunun amaçları, Avrupa bağlantısı ve stratejik modernizasyon hedeflerinin detaylı özeti"
 wixId: "a3a8d896-9166-4561-a660-e9f6a854217c"
 author: "Sedat Onat"

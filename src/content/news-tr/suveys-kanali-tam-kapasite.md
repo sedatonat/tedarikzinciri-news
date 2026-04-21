@@ -3,7 +3,7 @@ title: "Süveyş Kanalı Tam Kapasiteye Hazır: Denizcilik Sektörü Normale Dö
 subtitle: "Süveyş Kanalı Tam Kapasiteye Hazır: Denizcilik Sektörü Normale Dönüyor"
 date: "2025-01-22T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b6af7745c65e49a390fd93c737603515~mv2.jpg/News - 2025-01-22 - Suez Canal.jpg"
+image: "https://static.wixstatic.com/media/6c3915_b6af7745c65e49a390fd93c737603515~mv2.jpg"
 imageAlt: "Süveyş Kanalı Tam Kapasiteye Hazır: Denizcilik Sektörü Normale Dönüyor"
 wixId: "e37ee38e-d898-48ae-ba5e-8be08d7436b1"
 author: "Sedat Onat"

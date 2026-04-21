@@ -3,7 +3,7 @@ title: "SAP Hakkında Ticari Sır Hırsızlığı Suçlaması: o9 Solutions Dava
 subtitle: "SAP Hakkında Ticari Sır Hırsızlığı Suçlaması: o9 Solutions Dava Açtı"
 date: "2025-11-26T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_787f148b62094fff8532b98cd9ffac6c~mv2.jpg/sap hq.jpg"
+image: "https://static.wixstatic.com/media/6c3915_787f148b62094fff8532b98cd9ffac6c~mv2.jpg"
 imageAlt: "SAP’a karşı o9 Solutions tarafından açılan ticari sır hırsızlığı davasının kapsamı, iddialar, eski yöneticilerin rolü ve tedarik zinciri planlama yazılımları arasındaki rekabetin sektörel etkilerini özetleyen detaylı açıklama."
 wixId: "da2998c1-0160-485a-b351-e691e72a9cc7"
 author: "Sedat Onat"

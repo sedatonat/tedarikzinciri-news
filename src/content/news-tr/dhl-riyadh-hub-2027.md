@@ -3,7 +3,7 @@ title: "DHL Supply Chain, Riyad’da 130 Milyon Avroluk Mega Dağıtım Merkeziy
 subtitle: "DHL Supply Chain, Riyad’da 130 Milyon Avroluk Mega Dağıtım Merkeziyle Bölgesel Lojistik Dengelerini Değiştiriyor"
 date: "2025-11-24T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_eba0f599e84d47488cfe6d4cf08bea79~mv2.jpg/dhl minibus sarı.jpg"
+image: "https://static.wixstatic.com/media/6c3915_eba0f599e84d47488cfe6d4cf08bea79~mv2.jpg"
 imageAlt: "DHL’nin Riyad’da 130 milyon avroluk yeni SILZ lojistik üssü yatırımıyla Orta Doğu ve Afrika taşımacılığında Dubai merkezli modelden “Riyad merkezli hub” modeline geçişin ayrıntılı analizi"
 wixId: "37b5be5b-dc99-40a4-89f7-5d0b5c63a2f4"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Süveyş Kanalı’nın Yeniden Açılması Küresel Filo Kapasitesine 2
 subtitle: "Süveyş Kanalı’nın Yeniden Açılması Küresel Filo Kapasitesine 2,1 Milyon TEU Ekleyebilir"
 date: "2025-10-24T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1c3c1f5ee88542d78da83a8aa9641c7a~mv2.jpg/Sez Canal Container ship.jpg"
+image: "https://static.wixstatic.com/media/6c3915_1c3c1f5ee88542d78da83a8aa9641c7a~mv2.jpg"
 imageAlt: "Süveyş Kanalı’nın Yeniden Açılması Küresel Filo Kapasitesine 2,1 Milyon TEU Ekleyebilir"
 wixId: "c8e1bd68-3f95-4102-bd5c-072569a77fcd"
 author: "Sedat Onat"

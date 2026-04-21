@@ -3,7 +3,7 @@ title: "5 Konteyner Taşımacılığı Devi Fosil Yakıtları Bırakmak için Ç
 subtitle: "5 Konteyner Taşımacılığı Devi Fosil Yakıtları Bırakmak için Çağrıda Bulundu"
 date: "2023-12-01T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_30e98668a2ed4f9aa6a01277bfbded5d~mv2.jpeg/News - 2023-12-01 - gemi yakit.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_30e98668a2ed4f9aa6a01277bfbded5d~mv2.jpeg"
 imageAlt: "5 Konteyner Taşımacılığı Devi Fosil Yakıtları Bırakmak için Çağrıda Bulundu"
 wixId: "ca434846-1d3c-4573-82e1-89dfdf64c76d"
 author: "Sedat Onat"

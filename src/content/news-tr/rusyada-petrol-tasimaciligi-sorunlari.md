@@ -3,7 +3,7 @@ title: "Rusya'da Petrol Taşımacılığında Yaşanan Sorunlar: Demiryolları v
 subtitle: "Rusya'da Petrol Taşımacılığında Yaşanan Sorunlar: Demiryolları ve Petrol Şirketleri Arasında Suçlamalar"
 date: "2025-02-14T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d3a558074f2b476e8a01351ce17754a7~mv2.jpg/News - 2025-02-14 - Rosneft.jpg"
+image: "https://static.wixstatic.com/media/6c3915_d3a558074f2b476e8a01351ce17754a7~mv2.jpg"
 imageAlt: "Rusya'da Petrol Taşımacılığında Yaşanan Sorunlar: Demiryolları ve Petrol Şirketleri Arasında Suçlamalar"
 wixId: "e14394a9-88e8-49ae-a7a0-03b01f14e456"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Firmaların %75'i 2026'ya Kadar Paketlemeyi Fonksiyonellik İçin Yenide
 subtitle: "Firmaların %75'i 2026'ya Kadar Paketlemeyi Fonksiyonellik İçin Yeniden Tasarlayacak"
 date: "2024-11-19T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d7ed6922967a4fc0884054b644cdb0a7~mv2.jpg/News - 2024-11-19 - Packaging.jpg"
+image: "https://static.wixstatic.com/media/6c3915_d7ed6922967a4fc0884054b644cdb0a7~mv2.jpg"
 imageAlt: "Firmaların %75'i 2026'ya Kadar Paketlemeyi Fonksiyonellik İçin Yeniden Tasarlayacak"
 wixId: "67f9bde4-655b-4930-9872-5d31fc9ccf00"
 author: "Sedat Onat"

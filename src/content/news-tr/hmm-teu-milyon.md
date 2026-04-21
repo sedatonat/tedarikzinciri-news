@@ -3,7 +3,7 @@ title: "HMM, 1 Milyon TEU Kapasiteyi Aşarak “TEU Milyonerleri Kulübü”ne K
 subtitle: "HMM, 1 Milyon TEU Kapasiteyi Aşarak “TEU Milyonerleri Kulübü”ne Katıldı"
 date: "2025-10-29T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7d9cdcb77dd240b093c6d7df8e7b9b43~mv2.jpg/HMM gemi teu milyon.jpg"
+image: "https://static.wixstatic.com/media/6c3915_7d9cdcb77dd240b093c6d7df8e7b9b43~mv2.jpg"
 imageAlt: "Güney Kore’nin ulusal deniz taşımacılığı şirketi HMM, 1.007.180 TEU’luk filo kapasitesine ulaşarak dünyada bu seviyeyi aşan sekizinci denizcilik hattı oldu. Şirketin filosu son beş yılda iki kat büyürken, yeni inşa edilen gemilerle 2030’a kadar kapasitenin neredeyse iki katına çıkması hedefleniyor."
 wixId: "20474c12-0d01-4fdf-a169-5018d1a48fc4"
 author: "Sedat Onat"

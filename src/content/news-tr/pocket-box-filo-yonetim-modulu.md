@@ -3,7 +3,7 @@ title: "Pocket Box, Filo Yönetimini Yenilikçi Varlık Modülüyle Güçlendiri
 subtitle: "Pocket Box, Filo Yönetimini Yenilikçi Varlık Modülüyle Güçlendiriyor"
 date: "2024-04-25T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_da1748733bb5487d907052ea8bb95806~mv2.jpg/News - 2024-04-25 - Pocket Box.jpg"
+image: "https://static.wixstatic.com/media/6c3915_da1748733bb5487d907052ea8bb95806~mv2.jpg"
 imageAlt: "Pocket Box, Filo Yönetimini Yenilikçi Varlık Modülüyle Güçlendiriyor"
 wixId: "525948f6-8e36-4069-aa0b-c047cdd96ab1"
 author: "Sedat Onat"

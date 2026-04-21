@@ -3,7 +3,7 @@ title: "Kritik Ticaret Yollarındaki Kesintiler Küresel Tedarik Zincirlerini Sa
 subtitle: "Kritik Ticaret Yollarındaki Kesintiler Küresel Tedarik Zincirlerini Sarsıyor"
 date: "2024-03-12T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_aca3991278ff44799c5529a5ec73e10b~mv2.png/News - 2024-03-12 - Suez.png"
+image: "https://static.wixstatic.com/media/6c3915_aca3991278ff44799c5529a5ec73e10b~mv2.png"
 imageAlt: "Kritik Ticaret Yollarındaki Kesintiler Küresel Tedarik Zincirlerini Sarsıyor"
 wixId: "daf89fe2-73f0-4379-9a38-eecaae4be640"
 author: "Sedat Onat"

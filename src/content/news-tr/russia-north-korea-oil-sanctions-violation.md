@@ -3,7 +3,7 @@ title: "Rusya, Bir Milyon Varilden Fazla Petrolle Kuzey Kore'ye Destek Sağlıyo
 subtitle: "Rusya, Bir Milyon Varilden Fazla Petrolle Kuzey Kore'ye Destek Sağlıyor"
 date: "2024-11-22T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_9279f620b08c4ced9b7d7b49333a07aa~mv2.jpg/News - 2024-11-22 - China Russia.jpg"
+image: "https://static.wixstatic.com/media/6c3915_9279f620b08c4ced9b7d7b49333a07aa~mv2.jpg"
 imageAlt: "Rusya, Bir Milyon Varilden Fazla Petrolle Kuzey Kore'ye Destek Sağlıyor"
 wixId: "62dd98ca-cc2b-4ee5-a213-0de8a6ef30b9"
 author: "Sedat Onat"

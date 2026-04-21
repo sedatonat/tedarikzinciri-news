@@ -3,7 +3,7 @@ title: "Kızıldeniz Krizi: Tanker Piyasasının Yükselişi ve Türk Armatörle
 subtitle: "Kızıldeniz Krizi: Tanker Piyasasının Yükselişi ve Türk Armatörlerin Fırsatı"
 date: "2024-03-21T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_61e3feef37054cdc92d3cc535cc50525~mv2.jpg/News - 2024-03-21 - Kizildeniz.jpg"
+image: "https://static.wixstatic.com/media/6c3915_61e3feef37054cdc92d3cc535cc50525~mv2.jpg"
 imageAlt: "Kızıldeniz Krizi: Tanker Piyasasının Yükselişi ve Türk Armatörlerin Fırsatı"
 wixId: "c6edf4da-7974-485c-b6f8-72423b1a17cc"
 author: "Sedat Onat"

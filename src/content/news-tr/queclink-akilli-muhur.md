@@ -3,7 +3,7 @@ title: "Queclink Akıllı Bolt-Seal ile Konteyner Güvenliğini Yeni Seviyeye Ta
 subtitle: "Queclink Akıllı Bolt-Seal ile Konteyner Güvenliğini Yeni Seviyeye Taşıyor"
 date: "2025-11-27T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e57dd3e8c7c248bc8fedf2b92623538e~mv2.jpg/queclink muhur konteyner.jpg"
+image: "https://static.wixstatic.com/media/6c3915_e57dd3e8c7c248bc8fedf2b92623538e~mv2.jpg"
 imageAlt: "Queclink’in ISO 17712 uyumlu yeni akıllı bolt-seal cihazının gerçek zamanlı ihlal tespiti, küresel konnektivite, GNSS/LBS konumlama ve yüksek güvenlikli mühür yapısıyla konteyner güvenliğinde yarattığı dönüşümün detaylı özeti"
 wixId: "fcd7dd21-863c-47eb-a078-7ee5d202566c"
 author: "Sedat Onat"

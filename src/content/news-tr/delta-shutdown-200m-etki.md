@@ -3,7 +3,7 @@ title: "Delta Air Lines, Hükümet Kapanmasının Ardından 200 Milyon Dolarlık
 subtitle: "Delta Air Lines, Hükümet Kapanmasının Ardından 200 Milyon Dolarlık Kâr Darbesi Bekliyor"
 date: "2025-12-03T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_dadb069155f145caa637c38336bc8fff~mv2.jpg/DELTA-AIRLINES-BLOOMBERG.jpg"
+image: "https://static.wixstatic.com/media/6c3915_dadb069155f145caa637c38336bc8fff~mv2.jpg"
 imageAlt: "ABD’de tarihin en uzun government shutdown’ı sonrası Delta’nın dördüncü çeyrekte 200 milyon USD kâr kaybı öngörmesi, uçuş iptalleri, talep dinamikleri ve premium segment stratejisinin detaylı özeti"
 wixId: "a28a71f4-e79e-48f6-85d3-8220a1988d85"
 author: "Sedat Onat"

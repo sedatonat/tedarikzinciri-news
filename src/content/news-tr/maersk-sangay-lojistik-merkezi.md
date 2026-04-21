@@ -3,7 +3,7 @@ title: "Maersk, Şanghay’da 140 Milyon Dolarlık Amiral Lojistik Merkezini Aç
 subtitle: "Maersk, Şanghay’da 140 Milyon Dolarlık Amiral Lojistik Merkezini Açtı"
 date: "2025-11-20T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_391718d129434643beeb81e1f3b8d1cf~mv2.jpg/maersk shanghai logistics centre.jpg"
+image: "https://static.wixstatic.com/media/6c3915_391718d129434643beeb81e1f3b8d1cf~mv2.jpg"
 imageAlt: "Maersk, Şanghay Lin-gang’da 113.000 m²’lik yeni amiral depolama ve lojistik merkezini açarak 147.000 m² depolama kapasitesi, çok kanallı fulfilment hizmetleri, AEO sertifikası ve entegre okyanus–hava–kara ağını tek çatı altında birleştirdi."
 wixId: "3f071660-cefb-4e01-a562-c045b8034b9e"
 author: "Sedat Onat"

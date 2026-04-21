@@ -3,7 +3,7 @@ title: "Hindistan'da Yeni Mega Konteyner Limanı İçin HMM ve JNPA Ortaklığı
 subtitle: "Hindistan'da Yeni Mega Konteyner Limanı İçin HMM ve JNPA Ortaklığı"
 date: "2025-01-23T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_265c539434d248bf88c58c15b93fb9d0~mv2.jpg/News - 2025-01-23 - HMM.jpg"
+image: "https://static.wixstatic.com/media/6c3915_265c539434d248bf88c58c15b93fb9d0~mv2.jpg"
 imageAlt: "Hindistan'da Yeni Mega Konteyner Limanı İçin HMM ve JNPA Ortaklığı"
 wixId: "5d596990-17d3-4274-b0b8-dfb6047b72e7"
 author: "Sedat Onat"

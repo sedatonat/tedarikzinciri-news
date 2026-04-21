@@ -3,7 +3,7 @@ title: "Avrupa Tedarik Zincirlerinde Jeopolitik Baskı Sürerken Şirketler Çok
 subtitle: "Avrupa Tedarik Zincirlerinde Jeopolitik Baskı Sürerken Şirketler Çoklu Kaynağa Yöneliyor"
 date: "2025-12-01T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_37834725b3ea4420acae465711dc601b~mv2.jpg/maersk konteyner.jpg"
+image: "https://static.wixstatic.com/media/6c3915_37834725b3ea4420acae465711dc601b~mv2.jpg"
 imageAlt: "Maersk’in 900 Avrupa şirketiyle gerçekleştirdiği ankette tedarik zincirlerinin jeopolitik stres, tarifeler ve maliyet dalgalanmaları nedeniyle nasıl etkilendiğine dair detaylı haber özeti"
 wixId: "75af142c-bdd3-4b80-9abd-1041c952a284"
 author: "Sedat Onat"

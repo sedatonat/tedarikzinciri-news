@@ -3,7 +3,7 @@ title: "Amazon'un Shreveport'daki Yeni Fulfillment Center'ı Robotikte Devrim Ya
 subtitle: "Amazon'un Shreveport'daki Yeni Fulfillment Center'ı Robotikte Devrim Yaratıyor"
 date: "2024-10-22T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/11062b_8ce3b16ee2c2452a83dc9793a0e80056~mv2.jpg/Warehouse Shelves from Above.jpg"
+image: "https://static.wixstatic.com/media/11062b_8ce3b16ee2c2452a83dc9793a0e80056~mv2.jpg"
 imageAlt: "Amazon'un Shreveport'daki Yeni Fulfillment Center'ı Robotikte Devrim Yaratıyor"
 wixId: "1103c4ca-231f-4b2c-9d90-512e972f3270"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Long Beach Limanı, 2025’te Tarife Baskılarına Rağmen Rekor Hacmi K
 subtitle: "Long Beach Limanı, 2025’te Tarife Baskılarına Rağmen Rekor Hacmi Korumayı Başardı"
 date: "2025-11-12T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_527497e481584769a80575789ce98489~mv2.jpg/ship port container blue.jpg"
+image: "https://static.wixstatic.com/media/6c3915_527497e481584769a80575789ce98489~mv2.jpg"
 imageAlt: "2025 boyunca tarife belirsizliğine rağmen güçlü yük hacimleri kaydeden Long Beach Limanı, Ekim sonu itibarıyla 8,2 milyon TEU işleyerek geçen yılın rekor seviyesine yaklaşmış durumda. Ancak frontloading etkisi nedeniyle yılın son iki ayında hacim düşüşü bekleniyor."
 wixId: "6c7e6073-ef1d-4efc-817e-37374d4d77b5"
 author: "Sedat Onat"

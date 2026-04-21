@@ -3,7 +3,7 @@ title: "ABD ve Japonya, Kritik Maden Tedarik Güvenliği İçin Yeni Çerçeve A
 subtitle: "ABD ve Japonya, Kritik Maden Tedarik Güvenliği İçin Yeni Çerçeve Anlaşması İmzaladı"
 date: "2025-10-30T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d4f3856b3c2f47fa8b72a7acb9f0d9c6~mv2.jpg/trump japonya anlasma.jpg"
+image: "https://static.wixstatic.com/media/6c3915_d4f3856b3c2f47fa8b72a7acb9f0d9c6~mv2.jpg"
 imageAlt: "ABD Başkanı Donald Trump ve Japonya Başbakanı Sanae Takaichi, Tokyo’daki Akasaka Sarayı’nda kritik mineraller ve nadir toprak elementleri tedarikine ilişkin stratejik iş birliği çerçevesi imzaladı. Anlaşma, madencilik, cevher ayrıştırma ve işleme süreçlerinde güvenli ağlar kurmayı hedefliyor."
 wixId: "542e8231-c871-4003-b9e9-cc1cfb825a88"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "İngiltere, Denizcilikte Ekolojik Koruma İçin Yeni Yönetmelikler Uygu
 subtitle: "İngiltere, Denizcilikte Ekolojik Koruma İçin Yeni Yönetmelikler Uygulamaya Koyuyor"
 date: "2024-05-10T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_cec9df16eafe45c6a7bf88a7586340ec~mv2.jpg/News - 2024-05-10 - UK Anti Fouling.jpg"
+image: "https://static.wixstatic.com/media/6c3915_cec9df16eafe45c6a7bf88a7586340ec~mv2.jpg"
 imageAlt: "İngiltere, Denizcilikte Ekolojik Koruma İçin Yeni Yönetmelikler Uygulamaya Koyuyor"
 wixId: "dd553543-de9c-4a85-a0c8-57dc7b37674a"
 author: "Sedat Onat"

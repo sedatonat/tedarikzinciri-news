@@ -3,7 +3,7 @@ title: "Çin, Artan Ticaret Gerilimleri Ortasında Hanwha’nın ABD Bağlantıl
 subtitle: "Çin, Artan Ticaret Gerilimleri Ortasında Hanwha’nın ABD Bağlantılı Şirketlerine Yaptırım Uyguluyor"
 date: "2025-10-16T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_faf3a8d7a2cd46d58dc2e117679597fa~mv2.jpg/chine usa trade war container ship.jpg"
+image: "https://static.wixstatic.com/media/6c3915_faf3a8d7a2cd46d58dc2e117679597fa~mv2.jpg"
 imageAlt: "Çin, Artan Ticaret Gerilimleri Ortasında Hanwha’nın ABD Bağlantılı Şirketlerine Yaptırım Uygulamakta"
 wixId: "1b5425ad-3cf9-41fa-9a26-73852d2a0d87"
 author: "Sedat Onat"

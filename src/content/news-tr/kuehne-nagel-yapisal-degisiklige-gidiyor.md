@@ -3,7 +3,7 @@ title: "Kuehne+Nagel, Çeviklik ve Müşteri Yakınlığını Artırmak için Ya
 subtitle: "Kuehne+Nagel, Çeviklik ve Müşteri Yakınlığını Artırmak için Yapısal Değişikliğe Gidiyor"
 date: "2024-04-08T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a280bf8dcbfb4fcca598d2ee262bd018~mv2.jpeg/News - 2024-04-08 - Kuehne Nagel.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_a280bf8dcbfb4fcca598d2ee262bd018~mv2.jpeg"
 imageAlt: "Kuehne+Nagel, Çeviklik ve Müşteri Yakınlığını Artırmak için Yapısal Değişikliğe Gidiyor"
 wixId: "aa97bff0-888f-4f7b-b431-68c16508165e"
 author: "Sedat Onat"

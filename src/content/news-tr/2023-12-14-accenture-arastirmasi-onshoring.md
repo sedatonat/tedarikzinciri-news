@@ -3,7 +3,7 @@ title: "Accenture 'un Araştırmasına göre işletmeler %38 olan onshoring oran
 subtitle: "Accenture 'un Araştırmasına göre işletmeler %38 olan onshoring oranını 2026 'ya kadar %65 'e çıkarma hedefinde"
 date: "2023-12-14T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_fcd7649466ff402285749d7d0276f033~mv2.jpeg/News - 2023-12-14 - Accenture.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_fcd7649466ff402285749d7d0276f033~mv2.jpeg"
 imageAlt: "Accenture 'un Araştırmasına göre işletmeler %38 olan onshoring oranını 2026 'ya kadar %65 'e çıkarma hedefinde"
 wixId: "12f4f2de-f22d-4a2b-9d8f-53f38187dd8e"
 author: "Sedat Onat"

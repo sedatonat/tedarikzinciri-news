@@ -3,7 +3,7 @@ title: "Doğu ve Körfez Kıyısı Limanlarındaki Anlaşmazlık Perakendecileri
 subtitle: "Doğu ve Körfez Kıyısı Limanlarındaki Anlaşmazlık Perakendecileri Kaygılandırıyor"
 date: "2024-08-08T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4c8e7e854a404bc3b9d72fe472425d26~mv2.png/News - 2024-08-08 - NRF.png"
+image: "https://static.wixstatic.com/media/6c3915_4c8e7e854a404bc3b9d72fe472425d26~mv2.png"
 imageAlt: "Doğu ve Körfez Kıyısı Limanlarındaki Anlaşmazlık Perakendecileri Kaygılandırıyor"
 wixId: "58a04763-6249-456c-8620-d6f2bf97586e"
 author: "Sedat Onat"

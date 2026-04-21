@@ -3,7 +3,7 @@ title: "Anket: ABD Lojistik Firmaları Sürdürülebilirlikten Geri Adım Atıyo
 subtitle: "Anket: ABD Lojistik Firmaları Sürdürülebilirlikten Geri Adım Atıyor"
 date: "2025-03-18T00:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_468d63d8d7a64e3ea5530cfde731bac3~mv2.png/785.png"
+image: "https://static.wixstatic.com/media/6c3915_468d63d8d7a64e3ea5530cfde731bac3~mv2.png"
 imageAlt: "Anket: Abd Lojistik Firmaları Sürdürülebilirlikten Geri Adım Atıyor"
 wixId: "1516d96e-41b0-420b-838f-f7569a3463fe"
 author: "Sedat Onat"

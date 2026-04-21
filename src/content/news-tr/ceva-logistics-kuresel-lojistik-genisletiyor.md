@@ -3,7 +3,7 @@ title: "CEVA Logistics, Ballore Logistics ile Küresel Lojistik Ağını Genişl
 subtitle: "CEVA Logistics, Ballore Logistics ile Küresel Lojistik Ağını Genişletiyor"
 date: "2024-07-03T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_be011ca380fd459db6c0dbb061fa59a8~mv2.jpg/News - 2024-07-03 - Ceva.jpg"
+image: "https://static.wixstatic.com/media/6c3915_be011ca380fd459db6c0dbb061fa59a8~mv2.jpg"
 imageAlt: "CEVA Logistics, Ballore Logistics ile Küresel Lojistik Ağını Genişletiyor"
 wixId: "fc72a720-f3f8-4b23-8448-3181bfdaf5ee"
 author: "Sedat Onat"

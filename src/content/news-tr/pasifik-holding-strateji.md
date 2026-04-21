@@ -3,7 +3,7 @@ title: "Pasifik Holding'in Küresel Teknoloji Ortaklıkları ve Liman Operasyonl
 subtitle: "Pasifik Holding'in Küresel Teknoloji Ortaklıkları ve Liman Operasyonlarına Yönelik Stratejik Hedefleri"
 date: "2025-01-15T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b8dfa50bb9474f17b77c899a33e6981a~mv2.png/News - 2025-01-15 - Pasifik.png"
+image: "https://static.wixstatic.com/media/6c3915_b8dfa50bb9474f17b77c899a33e6981a~mv2.png"
 imageAlt: "Pasifik Holding'in Küresel Teknoloji Ortaklıkları ve Liman Operasyonlarına Yönelik Stratejik Hedefleri"
 wixId: "8906614e-9c08-4314-bef7-f131f399a17f"
 author: "Sedat Onat"

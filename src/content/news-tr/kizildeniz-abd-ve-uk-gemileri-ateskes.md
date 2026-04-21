@@ -3,7 +3,7 @@ title: "ABD ve Birleşik Krallık Gemileri, Husilerin Ateşkes Sözü Sonrası K
 subtitle: "ABD ve Birleşik Krallık Gemileri, Husilerin Ateşkes Sözü Sonrası Kızıldeniz'e Döndü"
 date: "2025-01-29T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e5072049e1c041b890e4835738302866~mv2.jpg/News - 2025-01-29 - Red Sea.jpg"
+image: "https://static.wixstatic.com/media/6c3915_e5072049e1c041b890e4835738302866~mv2.jpg"
 imageAlt: "ABD ve Birleşik Krallık Gemileri, Husilerin Ateşkes Sözü Sonrası Kızıldeniz'e Döndü"
 wixId: "b9dbe93d-4771-4803-88e4-cd2872a2d30a"
 author: "Sedat Onat"

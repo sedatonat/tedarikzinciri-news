@@ -3,7 +3,7 @@ title: "LA ve Long Beach limanları, Singapur ile birlikte \"Yeşil ve Dijital N
 subtitle: "LA ve Long Beach limanları, Singapur ile birlikte \"Yeşil ve Dijital Nakliye Koridoru' oluşturmak için ortaklık kuruyor"
 date: "2023-12-14T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f459134372124ef0b60a3018d0e2492a~mv2.png/News - 2023-12-14 - Long beach.png"
+image: "https://static.wixstatic.com/media/6c3915_f459134372124ef0b60a3018d0e2492a~mv2.png"
 imageAlt: "LA ve Long Beach limanları, Singapur ile birlikte \"Yeşil ve Dijital Nakliye Koridoru' oluşturmak için ortaklık kuruyor"
 wixId: "8d89c3f2-9224-45fe-ab3d-a19bc328cb9a"
 author: "Sedat Onat"

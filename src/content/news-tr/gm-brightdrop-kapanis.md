@@ -3,7 +3,7 @@ title: "General Motors, Düşük Talep Nedeniyle BrightDrop Elektrikli Van Üret
 subtitle: "General Motors, Düşük Talep Nedeniyle BrightDrop Elektrikli Van Üretimini Durdurdu"
 date: "2025-10-27T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_bed6be3db24c4ea993a5dd2ee4ce5c2e~mv2.jpg/GM BirgtDrop.jpg"
+image: "https://static.wixstatic.com/media/6c3915_bed6be3db24c4ea993a5dd2ee4ce5c2e~mv2.jpg"
 imageAlt: "General Motors, ticari elektrikli van markası BrightDrop’un üretimini, zayıf satışlar ve yüksek maliyetler nedeniyle sonlandırdı. Şirket, EV stratejisini yeniden yapılandırarak uzun vadeli kârlılığa ve maliyet düşürmeye odaklanacak."
 wixId: "d5a2c713-bae3-4309-891a-681362fec1db"
 author: "Sedat Onat"

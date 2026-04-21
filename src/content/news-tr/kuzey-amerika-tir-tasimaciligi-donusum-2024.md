@@ -3,7 +3,7 @@ title: "Kuzey Amerika TIR Taşımacılığı Sektöründe Dönüm Noktası: Tale
 subtitle: "Kuzey Amerika TIR Taşımacılığı Sektöründe Dönüm Noktası: Talep ve Spot Fiyatların Geleceği"
 date: "2024-02-21T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/35950e5c49ae4628b4e4546d017b576e.jpg/Truck Car Park.jpg"
+image: "https://static.wixstatic.com/media/35950e5c49ae4628b4e4546d017b576e.jpg"
 imageAlt: "Kuzey Amerika TIR Taşımacılığı Sektöründe Dönüm Noktası: Talep ve Spot Fiyatların Geleceği"
 wixId: "e4ea6916-be56-4c47-9850-09f941a646e4"
 author: "Sedat Onat"

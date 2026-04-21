@@ -3,7 +3,7 @@ title: "Tedarik Zincirleri Yalnızca Tarifelere Tepki Vermemeli, Aynı Zamanda Y
 subtitle: "Tedarik Zincirleri Yalnızca Tarifelere Tepki Vermemeli, Aynı Zamanda Yatırım Yapmalı"
 date: "2025-02-07T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a65782cccbd848bbb1a48d6110ba7cde~mv2.jpg/News - 2025-02-07 - Traiffs.jpg"
+image: "https://static.wixstatic.com/media/6c3915_a65782cccbd848bbb1a48d6110ba7cde~mv2.jpg"
 imageAlt: "Tedarik Zincirleri Yalnızca Tarifelere Tepki Vermemeli, Aynı Zamanda Yatırım Yapmalı"
 wixId: "0f1b60b4-75a2-4c11-8f03-2a442794132d"
 author: "Sedat Onat"

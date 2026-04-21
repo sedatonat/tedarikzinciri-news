@@ -3,7 +3,7 @@ title: "Grimaldi’ye Ait Otomobil Gemisinde Makine Dairesi Yangını: Güç Kay
 subtitle: "Grimaldi’ye Ait Otomobil Gemisinde Makine Dairesi Yangını: Güç Kaybı Yaşandı"
 date: "2025-10-27T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c008c82aab8f416eacf14847ced8284a~mv2.jpg/vessel grimaldi.jpg"
+image: "https://static.wixstatic.com/media/6c3915_c008c82aab8f416eacf14847ced8284a~mv2.jpg"
 imageAlt: "Grimaldi Euromed filosuna ait Grande Roma adlı otomobil gemisinde, İngiliz Kanalı çıkışında makine dairesinde yangın çıktı. Mürettebatın hızlı müdahalesi sayesinde yaralanma ve çevre kirliliği yaşanmazken, gemi Abeille Liberté römorkörü eşliğinde Le Havre Limanı’na çekiliyor."
 wixId: "a5d5659d-0953-41da-a78a-beee28cd604f"
 author: "Sedat Onat"

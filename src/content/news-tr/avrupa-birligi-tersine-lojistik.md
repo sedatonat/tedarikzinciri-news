@@ -3,7 +3,7 @@ title: "Avrupa Demiryolu Sektörü, 44 Tonluk Kamyon İzni Nedeniyle “Tersine 
 subtitle: "Avrupa Demiryolu Sektörü, 44 Tonluk Kamyon İzni Nedeniyle “Tersine Modal Kayma” Uyarısı Yaptı"
 date: "2025-12-08T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b878eda8869a40d89f38fcfc3c626bec~mv2.jpg/tir yuk dagilimi avrupa birligi kisitlamalari.jpg"
+image: "https://static.wixstatic.com/media/6c3915_b878eda8869a40d89f38fcfc3c626bec~mv2.jpg"
 imageAlt: "CER, ERFA, UIRR, UIP ve UNIFE’nin Weights & Dimensions Directive’e karşı ortak uyarısı, 44 tonluk fosil yakıtlı kamyonlara sınır ötesi izin verilmesinin rail freight üzerinde yaratacağı etkiler, reverse modal shift riski ve 2050 hedeflerine tehditlerin detaylı özeti"
 wixId: "3e316df6-4553-4953-b9dc-43d92e0327ce"
 author: "Sedat Onat"

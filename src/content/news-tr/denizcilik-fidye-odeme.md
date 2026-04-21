@@ -3,7 +3,7 @@ title: "Denizcilik Sektöründe Fidye Ödemeleri: Şirketlerin Yüzde 7'si Son 1
 subtitle: "Denizcilik Sektöründe Fidye Ödemeleri: Şirketlerin Yüzde 7'si Son 12 Ayda Fidye Ödedi"
 date: "2025-03-13T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_d286fac324a7435996993adc96121566~mv2.jpg/News - 2025-03-13 - Cyberattack Ransom.jpg"
+image: "https://static.wixstatic.com/media/6c3915_d286fac324a7435996993adc96121566~mv2.jpg"
 imageAlt: "Denizcilik Sektöründe Fidye Ödemeleri: Şirketlerin Yüzde 7'si Son 12 Ayda Fidye Ödedi"
 wixId: "6871a130-b47e-494b-b75b-a2111cc51264"
 author: "Sedat Onat"

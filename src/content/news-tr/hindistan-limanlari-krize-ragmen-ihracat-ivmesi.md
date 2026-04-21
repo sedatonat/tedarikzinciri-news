@@ -3,7 +3,7 @@ title: "Hindistan Limanları Kızıldeniz Krizine Rağmen İhracatta İvme Kazan
 subtitle: "Hindistan Limanları Kızıldeniz Krizine Rağmen İhracatta İvme Kazanıyor"
 date: "2024-03-08T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_138f5c3b65c94d38abada65c775be808~mv2.jpg/News - 2024-03-08 - Indian Port.jpg"
+image: "https://static.wixstatic.com/media/6c3915_138f5c3b65c94d38abada65c775be808~mv2.jpg"
 imageAlt: "Hindistan Limanları Kızıldeniz Krizine Rağmen İhracatta İvme Kazanıyor"
 wixId: "d3840a43-144d-4766-ae61-7dc6dfc3449c"
 author: "Sedat Onat"

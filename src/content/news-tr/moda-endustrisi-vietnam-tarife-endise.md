@@ -3,7 +3,7 @@ title: "Moda Endüstrisi Vietnam Üzerindeki Olası Tarifelerden Endişe Duymakt
 subtitle: "Moda Endüstrisi Vietnam Üzerindeki Olası Tarifelerden Endişe Duymakta"
 date: "2025-03-13T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_763537cefbe44cf2832db7e1b8537905~mv2.jpg/News - 2025-03-13 - Fashion.jpg"
+image: "https://static.wixstatic.com/media/6c3915_763537cefbe44cf2832db7e1b8537905~mv2.jpg"
 imageAlt: "Moda Endüstrisi Vietnam Üzerindeki Olası Tarifelerden Endişe Duymakta"
 wixId: "cdbb8c97-fb8f-460f-96e8-e71d9a32397f"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "ABD, Kıyılarını Petrol Arama Faaliyetlerine Açmayı Planlıyor"
 subtitle: "ABD, Kıyılarını Petrol Arama Faaliyetlerine Açmayı Planlıyor"
 date: "2025-10-25T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_331fd9d423994c4ab6d8fac0406e81fb~mv2.jpg/petrol platformu yelkenli okyanus.jpg"
+image: "https://static.wixstatic.com/media/6c3915_331fd9d423994c4ab6d8fac0406e81fb~mv2.jpg"
 wixId: "9ba24739-3bb2-49df-847d-408b1fd7f3fc"
 author: "Sedat Onat"
 translated: false

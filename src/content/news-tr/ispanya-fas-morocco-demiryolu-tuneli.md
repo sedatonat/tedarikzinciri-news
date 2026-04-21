@@ -3,7 +3,7 @@ title: "İspanya–Fas Demiryolu Tüneli Son Derece Karmaşık Ama Teknik Olarak
 subtitle: "İspanya–Fas Demiryolu Tüneli Son Derece Karmaşık Ama Teknik Olarak Mümkün"
 date: "2025-11-03T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_343ed86788af4346828f55d61f87831a~mv2.jpg/spain morocco map.jpg"
+image: "https://static.wixstatic.com/media/6c3915_343ed86788af4346828f55d61f87831a~mv2.jpg"
 imageAlt: "Cebelitarık Boğazı’nın altından geçecek İspanya–Fas demiryolu tüneli projesi, İspanya hükümeti tarafından hazırlatılan fizibilite raporuna göre teknik olarak uygulanabilir, ancak jeolojik ve mühendislik açısından son derece karmaşık bir girişim olacak. Nihai kararın 2027’de verilmesi bekleniyor."
 wixId: "a311b21c-682a-4abf-bdb3-bf84c488c8a6"
 author: "Sedat Onat"

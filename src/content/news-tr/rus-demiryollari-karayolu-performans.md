@@ -3,7 +3,7 @@ title: "Rus Demiryollarının Kötü Performansı Karayolu Taşımacılığını
 subtitle: "Rus Demiryollarının Kötü Performansı Karayolu Taşımacılığını Artırdı"
 date: "2024-06-07T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_03cd8cdbd0c947a482d08414c4328699~mv2.jpeg/Truck.jpeg"
+image: "https://static.wixstatic.com/media/11062b_03cd8cdbd0c947a482d08414c4328699~mv2.jpeg"
 imageAlt: "Rus Demiryollarının Kötü Performansı Karayolu Taşımacılığını Artırdı"
 wixId: "4006defb-0376-4346-ad1f-ddda0c583bcb"
 author: "Sedat Onat"

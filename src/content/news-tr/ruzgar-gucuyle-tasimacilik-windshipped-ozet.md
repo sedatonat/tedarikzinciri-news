@@ -3,7 +3,7 @@ title: "Rüzgarın Gücüyle Sürdürülebilir Taşımacılık: 'Windshipped' Fi
 subtitle: "Rüzgarın Gücüyle Sürdürülebilir Taşımacılık: 'Windshipped' Filminin Özeti"
 date: "2024-01-09T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3fc9363ebdcb47fd84ee2931d6024184~mv2.png/News - 2024-01-09 - Amazon.png"
+image: "https://static.wixstatic.com/media/6c3915_3fc9363ebdcb47fd84ee2931d6024184~mv2.png"
 imageAlt: "Rüzgarın Gücüyle Sürdürülebilir Taşımacılık: 'Windshipped' Filminin Özeti"
 wixId: "cac373cb-1dfc-49c9-9165-1365cb447efb"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Karayolu Taşımacılığı: Demiryolunun Düşmanı mı, Zorunlu Tamaml
 subtitle: "Karayolu Taşımacılığı: Demiryolunun Düşmanı mı, Zorunlu Tamamlayıcısı mı?"
 date: "2025-11-21T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c986f8e522fd473ba7e701bc1a00d37f~mv2.jpg/dachser truck.jpg"
+image: "https://static.wixstatic.com/media/6c3915_c986f8e522fd473ba7e701bc1a00d37f~mv2.jpg"
 imageAlt: "Avrupa’da demiryolu sektörü kamyon taşımacılığının ayrıcalıklı konumda olduğunu savunurken, karayolu temsilcileri bunun bir önyargı olduğunu ve iki modun aslında birbirine bağımlı olduğunu vurguluyor; Febetra ve RailGood yöneticileri sektörel rekabet, regülasyon ve modal shift üzerine görüşlerini paylaşıyor."
 wixId: "81dfebd1-2501-47ba-8da8-aae4c39ddc22"
 author: "Sedat Onat"

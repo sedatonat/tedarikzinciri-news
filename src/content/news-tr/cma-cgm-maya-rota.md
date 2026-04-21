@@ -3,7 +3,7 @@ title: "CMA CGM, Orta Amerika Batı Kıyısı İçin Yeni “Maya” Servisini B
 subtitle: "CMA CGM, Orta Amerika Batı Kıyısı İçin Yeni “Maya” Servisini Başlattı"
 date: "2024-11-29T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_964ed5bda6674872969e07e7b8a3397e~mv2.jpg/cma cgm west coast.jpg"
+image: "https://static.wixstatic.com/media/6c3915_964ed5bda6674872969e07e7b8a3397e~mv2.jpg"
 imageAlt: "CMA CGM, Lazaro Cardenas’tan başlayarak Orta Amerika’nın batı kıyısındaki Puerto Caldera, Corinto, Acajutla ve Puerto Quetzal’e uzanan yeni haftalık Maya servisini duyurdu."
 wixId: "6430bee0-4a14-42e1-9f09-3f0a2de86c49"
 author: "Sedat Onat"

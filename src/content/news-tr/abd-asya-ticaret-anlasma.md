@@ -3,7 +3,7 @@ title: "ABD, Güneydoğu Asya ile Ticaret Anlaşmaları İmzaladı ve Çin ile A
 subtitle: "ABD, Güneydoğu Asya ile Ticaret Anlaşmaları İmzaladı ve Çin ile Ateşkes Sinyali Verdi"
 date: "2025-10-27T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_622cbbaef029477a8e0559dd518eec75~mv2.jpg/trump bressent.jpg"
+image: "https://static.wixstatic.com/media/6c3915_622cbbaef029477a8e0559dd518eec75~mv2.jpg"
 imageAlt: "ABD, Vietnam, Tayland, Kamboçya ve Malezya ile karşılıklı gümrük tarifeleri içeren ticaret anlaşmaları imzaladı. Ayrıca Çin ile yürütülen müzakerelerde ilerleme sağlandığı ve olası bir ticaret ateşkesinin yakın olduğu bildirildi."
 wixId: "adde08c9-5e7e-433f-8710-fa4f30c09610"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "ABD Körfez Kıyısı Limanları Hacim Artışını Karşılamak İçin 
 subtitle: "ABD Körfez Kıyısı Limanları Hacim Artışını Karşılamak İçin Genişliyor"
 date: "2024-12-26T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3fa61acaf9fa4443963f49169d2d7345~mv2.jpg/News - 2024-12-26 - Maersk container.jpg"
+image: "https://static.wixstatic.com/media/6c3915_3fa61acaf9fa4443963f49169d2d7345~mv2.jpg"
 imageAlt: "ABD Körfez Kıyısı Limanları Hacim Artışını Karşılamak İçin Genişliyor"
 wixId: "711c7646-9052-467a-9e64-d59f3ab7affe"
 author: "Sedat Onat"

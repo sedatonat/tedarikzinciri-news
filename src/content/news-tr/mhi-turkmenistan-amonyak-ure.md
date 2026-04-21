@@ -3,7 +3,7 @@ title: "Mitsubishi Heavy Industries, Türkmenistan’da Dev Amonyak ve Üre Komp
 subtitle: "Mitsubishi Heavy Industries, Türkmenistan’da Dev Amonyak ve Üre Kompleksi İçin EPC Sözleşmesi İmzaladı"
 date: "2025-11-10T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_c24f89fa288e4c28a80a27948d05984f~mv2.jpg/amonia ship.jpg"
+image: "https://static.wixstatic.com/media/6c3915_c24f89fa288e4c28a80a27948d05984f~mv2.jpg"
 imageAlt: "Mitsubishi Heavy Industries, GAP İnşaat ile birlikte Türkmenistan’ın Balkan bölgesindeki Kiyanly sahilinde günlük 2.000 ton amonyak ve 3.500 ton üre üretecek ülkenin en büyük gübre kompleksini kurmak üzere EPC sözleşmesi imzaladı."
 wixId: "e5eff050-8fb9-403b-966a-c8301f4c5264"
 author: "Sedat Onat"

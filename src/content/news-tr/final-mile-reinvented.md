@@ -3,7 +3,7 @@ title: "Kaçan Teslimatları Başarıya Dönüştürmek: Son Kilometre Yeniden T
 subtitle: "Kaçan Teslimatları Başarıya Dönüştürmek: Son Kilometre Yeniden Tasarlandı"
 date: "2025-06-15T00:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ce0afd8e849a4b64b0f280ebf091429a~mv2.png/807.png"
+image: "https://static.wixstatic.com/media/6c3915_ce0afd8e849a4b64b0f280ebf091429a~mv2.png"
 imageAlt: "Kaçan Teslimatları Başarıya Dönüştürmek: Son Kilometre Yeniden Tasarlandı"
 wixId: "ba5aef97-99b9-4192-809e-8ced45470811"
 author: "Sedat Onat"

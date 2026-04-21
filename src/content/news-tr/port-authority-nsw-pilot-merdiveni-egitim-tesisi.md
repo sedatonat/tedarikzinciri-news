@@ -3,7 +3,7 @@ title: "Port Authority of New South Wales, Port Kembla'da Yeni Pilot Merdiveni E
 subtitle: "Port Authority of New South Wales, Port Kembla'da Yeni Pilot Merdiveni Eğitim Tesisi Geliştirdi"
 date: "2024-10-31T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_bfa673973b7b4f65b21f21cabbdca1d3~mv2.jpg/News - 2024-10-31 - Port Kembla.jpg"
+image: "https://static.wixstatic.com/media/6c3915_bfa673973b7b4f65b21f21cabbdca1d3~mv2.jpg"
 imageAlt: "Port Authority of New South Wales, Port Kembla'da Yeni Pilot Merdiveni Eğitim Tesisi Geliştirdi"
 wixId: "37f26607-f829-430e-b914-13e35c05f21c"
 author: "Sedat Onat"

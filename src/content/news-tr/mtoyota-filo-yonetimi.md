@@ -3,7 +3,7 @@ title: "Toyota’nın Yeni MyToyota Portalı, Forklift Filo Yönetimini Dönüş
 subtitle: "Toyota’nın Yeni MyToyota Portalı, Forklift Filo Yönetimini Dönüştürüyor"
 date: "2025-11-09T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_f0762cb1cbcd4ffdb0515ab35a8f4f95~mv2.jpeg/toyota forklift file yonetimi.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_f0762cb1cbcd4ffdb0515ab35a8f4f95~mv2.jpeg"
 imageAlt: "Toyota Material Handling UK’nin yeni MyToyota portalı, forklift filoları için maliyet, enerji tüketimi, sözleşmeler, güvenlik ve servis yönetimini tek platformda birleştirerek veri odaklı, şeffaf ve verimli operasyonlar sunuyor."
 wixId: "b06d58de-6ddb-4ca9-b703-4cc9256cce6e"
 author: "Sedat Onat"

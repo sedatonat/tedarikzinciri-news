@@ -3,7 +3,7 @@ title: "ABD, Venezuela Açıklarında Yaptırımlı Petrol Tankerine El Koydu: G
 subtitle: "ABD, Venezuela Açıklarında Yaptırımlı Petrol Tankerine El Koydu: Gerilim Yeni Bir Aşamaya Taşındı"
 date: "2025-12-10T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_dba315d703114a9da83be81027905b2e~mv2.jpg/venezuella maduro.jpg"
+image: "https://static.wixstatic.com/media/6c3915_dba315d703114a9da83be81027905b2e~mv2.jpg"
 imageAlt: "ABD’nin Venezuela açıklarında Skipper adlı VLCC petrol tankerine el koyması, yaptırımların fiili deniz müdahalesine dönüşmesi, petrol fiyatlarına etkisi ve Washington–Caracas geriliminin tırmanmasına dair detaylı haber özeti"
 wixId: "2f1b4e1f-dcda-44e4-b65d-9be90c470a0a"
 author: "Sedat Onat"

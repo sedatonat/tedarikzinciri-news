@@ -3,7 +3,7 @@ title: "Leaf Home, Uber Freight TMS ile Lojistiğini Modernleştirerek Maliyetle
 subtitle: "Leaf Home, Uber Freight TMS ile Lojistiğini Modernleştirerek Maliyetleri %20 Azalttı"
 date: "2025-11-20T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/nsplsh_39507362355131544c4434~mv2.jpg/Image by Timo Volz.jpg"
+image: "https://static.wixstatic.com/media/nsplsh_39507362355131544c4434~mv2.jpg"
 imageAlt: "Leaf Home, hızlı büyüme sonrası karmaşık hâle gelen tedarik zincirini Uber Freight’in modern TMS platformu ile dijitalleştirerek 1000 saat iş gücü tasarrufu, %20 FTL maliyet düşüşü ve yüksek teslimat performansı elde etti."
 wixId: "00bcfc04-3afa-43f7-b548-ad9631c2cd88"
 author: "Sedat Onat"

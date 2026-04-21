@@ -3,7 +3,7 @@ title: "Süveyş Kanalı Trafiği %10 Arttı: Büyük Gemiler Geri Dönmeye Baş
 subtitle: "Süveyş Kanalı Trafiği %10 Arttı: Büyük Gemiler Geri Dönmeye Başladı"
 date: "2025-11-06T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_072b7c50271e43968b3da9bddd1640f9~mv2.jpg/suez-canal 2025-11-06.jpg"
+image: "https://static.wixstatic.com/media/6c3915_072b7c50271e43968b3da9bddd1640f9~mv2.jpg"
 imageAlt: "Süveyş Kanalı, 2023’te başlayan kriz sonrası en büyük trafik artışını yaşıyor. Ekim ayında 229 gemi geçiş yaptı, toplam tonaj %10 yükseldi ve CMA CGM ile MSC gibi büyük hatlar rotayı yeniden test etmeye başladı."
 wixId: "b5b00125-0130-4d2a-9816-224da99358f0"
 author: "Sedat Onat"

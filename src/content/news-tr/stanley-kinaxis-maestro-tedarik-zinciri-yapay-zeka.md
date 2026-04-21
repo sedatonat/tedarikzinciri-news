@@ -3,7 +3,7 @@ title: "Stanley 1913, Kinaxis Maestro ile Tedarik Zincirinde Yapay Zeka Kullanı
 subtitle: "Stanley 1913, Kinaxis Maestro ile Tedarik Zincirinde Yapay Zeka Kullanıyor"
 date: "2024-10-29T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_81f65a4303ba4b80977484c03ce844b5~mv2.jpg/News - 2024-10-29 - Stanley.jpg"
+image: "https://static.wixstatic.com/media/6c3915_81f65a4303ba4b80977484c03ce844b5~mv2.jpg"
 imageAlt: "Stanley 1913, Kinaxis Maestro ile Tedarik Zincirinde Yapay Zeka Kullanıyor"
 wixId: "e97aab7c-e832-4f60-be35-647022cc8ac4"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "İngiltere, Nike–Superdry–Lacoste’un “Sürdürülebilir” Rekla
 subtitle: "İngiltere, Nike–Superdry–Lacoste’un “Sürdürülebilir” Reklamlarını Yasakladı"
 date: "2025-12-03T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_3bf5ab284b034c2b8899c6990a7cea8a~mv2.jpg/supersry magaza vitrinm.jpg"
+image: "https://static.wixstatic.com/media/6c3915_3bf5ab284b034c2b8899c6990a7cea8a~mv2.jpg"
 imageAlt: "U.K. Advertising Standards Authority’nin Nike, Superdry ve Lacoste’un Google reklamlarında yer alan kanıtsız “sustainable” iddialarını yasaklaması, greenwashing denetiminin sertleşmesi ve tedarik zincirine etkilerinin detaylı özeti"
 wixId: "f2cdfbe8-b12c-495f-ac43-8178de018c82"
 author: "Sedat Onat"

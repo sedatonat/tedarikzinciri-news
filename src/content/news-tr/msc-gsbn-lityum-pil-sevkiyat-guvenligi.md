@@ -3,7 +3,7 @@ title: "MSC, GSBN İle İşbirliği Yaparak Lityum Pil Sevkiyat Güvenliğini Ar
 subtitle: "MSC, GSBN İle İşbirliği Yaparak Lityum Pil Sevkiyat Güvenliğini Artırıyor"
 date: "2024-04-25T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_face521f32c1403293d5afec53520c2f~mv2.jpg/News - 2024-04-25 - MSC.jpg"
+image: "https://static.wixstatic.com/media/6c3915_face521f32c1403293d5afec53520c2f~mv2.jpg"
 imageAlt: "MSC, GSBN İle İşbirliği Yaparak Lityum Pil Sevkiyat Güvenliğini Artırıyor"
 wixId: "6639d706-54fa-429b-a8c1-5c9542d61535"
 author: "Sedat Onat"

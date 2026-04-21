@@ -3,7 +3,7 @@ title: "Yeşil Satın Alma, Tarife Baskısına Karşı En Etkili Direnç Stratej
 subtitle: "Yeşil Satın Alma, Tarife Baskısına Karşı En Etkili Direnç Stratejisi"
 date: "2025-10-10T09:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_cd0dc1128d584647854f1223dcd87bf0~mv2.jpg/motor part manufacturing.jpg"
+image: "https://static.wixstatic.com/media/6c3915_cd0dc1128d584647854f1223dcd87bf0~mv2.jpg"
 imageAlt: "Yeşil Satın Alma, Tarife Baskısına Karşı En Etkili Direnç Stratejisi"
 wixId: "f8ebbf59-85f0-4fd6-9604-10888927b11f"
 author: "Sedat Onat"

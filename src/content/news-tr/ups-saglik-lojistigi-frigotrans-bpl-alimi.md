@@ -3,7 +3,7 @@ title: "UPS, Soğuk Zincir Lojistiğinde Zirveye Oynuyor: Frigo-Trans ve BPL Sat
 subtitle: "UPS, Soğuk Zincir Lojistiğinde Zirveye Oynuyor: Frigo-Trans ve BPL Satın Alması"
 date: "2024-09-21T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_31cda25df8a3464a9398b68714d4f045~mv2.jpg/News - 2024-09-23 - UPS.jpg"
+image: "https://static.wixstatic.com/media/6c3915_31cda25df8a3464a9398b68714d4f045~mv2.jpg"
 imageAlt: "UPS, Soğuk Zincir Lojistiğinde Zirveye Oynuyor: Frigo-Trans ve BPL Satın Alması"
 wixId: "606f2792-e98a-43f1-ba9e-c444ec02413e"
 author: "Sedat Onat"

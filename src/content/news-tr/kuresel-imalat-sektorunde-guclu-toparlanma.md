@@ -3,7 +3,7 @@ title: "2025 - 2028 Dönemi İçin Küresel İmalat Sektöründe Güçlü Toparl
 subtitle: "2025 - 2028 Dönemi İçin Küresel İmalat Sektöründe Güçlü Toparlanma Beklentisi"
 date: "2024-05-29T09:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_4bd0857a47af40688b9e070edaa58dd3~mv2.jpeg/News - 2024-05-29 - Market.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_4bd0857a47af40688b9e070edaa58dd3~mv2.jpeg"
 imageAlt: "2025 - 2028 Dönemi İçin Küresel İmalat Sektöründe Güçlü Toparlanma Beklentisi"
 wixId: "2f956c3d-36f8-4d43-9f94-af64a5ab8876"
 author: "Sedat Onat"

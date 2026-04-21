@@ -3,7 +3,7 @@ title: "ABD Hükümet Kapanması İthalat Kararlarını Zora Sokuyor: Los Angele
 subtitle: "ABD Hükümet Kapanması İthalat Kararlarını Zora Sokuyor: Los Angeles Limanı Uyardı"
 date: "2025-11-24T09:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_bd49e0f7d76740bda56b19f73cc0f79e~mv2.jpg/tran konteyner.jpg"
+image: "https://static.wixstatic.com/media/6c3915_bd49e0f7d76740bda56b19f73cc0f79e~mv2.jpg"
 imageAlt: "ABD’de federal veri akışının durması nedeniyle ithalatçıların satın alma ve yatırım kararlarında yaşanan belirsizlik, Los Angeles Limanı’nın beklentileri ve Lunar New Year öncesi yük hareketliliğine dair kapsamlı haber özeti"
 wixId: "2834aa26-bea1-43d1-9fef-081e63211aa1"
 author: "Sedat Onat"

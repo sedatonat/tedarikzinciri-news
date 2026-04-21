@@ -3,7 +3,7 @@ title: "Linerless Etiketler: Depolama ve Üretimde Sürdürülebilirlik, Verimli
 subtitle: "Linerless Etiketler: Depolama ve Üretimde Sürdürülebilirlik, Verimlilik ve Tasarrufun Üçlü Kazancı"
 date: "2025-11-03T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_f84eeefa82c44dbc9478cec22e99e4ff~mv2.jpg/tech hand green.jpg"
+image: "https://static.wixstatic.com/media/6c3915_f84eeefa82c44dbc9478cec22e99e4ff~mv2.jpg"
 imageAlt: "Linerless (astar­sız) etiket teknolojisi, üretim ve depo operasyonlarında atıkları azaltarak, maliyetleri düşürerek ve etiketleme verimliliğini artırarak şirketlere çevresel, ekonomik ve operasyonel faydalar sağlıyor. Peak Technologies ve Honeywell’in öncülük ettiği bu sistem, sürdürülebilir lojistik çözümlerinde yeni standart haline geliyor."
 wixId: "aa02beff-3a56-442f-83c4-be6b1c619ffa"
 author: "Sedat Onat"

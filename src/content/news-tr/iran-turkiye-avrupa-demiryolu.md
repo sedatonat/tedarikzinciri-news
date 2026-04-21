@@ -3,7 +3,7 @@ title: "İran–Türkiye Arasında 200 km’lik “Southern Silk Road” Hattı:
 subtitle: "İran–Türkiye Arasında 200 km’lik “Southern Silk Road” Hattı: Orta Koridor Rekabetinde Yeni Hamle"
 date: "2025-11-26T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_dcfb5ef4c0eb46c58d5263825d6db0ff~mv2.jpg/iran demiryolu.jpg"
+image: "https://static.wixstatic.com/media/6c3915_dcfb5ef4c0eb46c58d5263825d6db0ff~mv2.jpg"
 imageAlt: "İran’ın Türkiye sınırında 1,6 milyar dolarlık yeni demir yolu ile Orta Koridoru dengelemeye çalışması, Türkiye’nin KIAD hattı ile koordinasyonu ve Çin–Avrupa lojistiğinde ortaya çıkan yeni jeopolitik rotanın detayları"
 wixId: "df1fa4d8-0ad3-4ef2-a4dd-8b1cdc266752"
 author: "Sedat Onat"

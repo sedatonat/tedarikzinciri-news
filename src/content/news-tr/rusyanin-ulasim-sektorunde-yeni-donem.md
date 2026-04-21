@@ -3,7 +3,7 @@ title: "Rusya'nın Ulaştırma Sektöründe Yapısal Değişiklikler ve Yeni Ön
 subtitle: "Rusya'nın Ulaştırma Sektöründe Yapısal Değişiklikler ve Yeni Öncelikler"
 date: "2024-05-21T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/f5526380b69b4de58dcf8fc112145de9.jpg/Railway Tracks.jpg"
+image: "https://static.wixstatic.com/media/f5526380b69b4de58dcf8fc112145de9.jpg"
 imageAlt: "Rusya'nın Ulaştırma Sektöründe Yapısal Değişiklikler ve Yeni Öncelikler"
 wixId: "4dd2e80b-d548-4cce-9326-022768a0c244"
 author: "Sedat Onat"

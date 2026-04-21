@@ -3,7 +3,7 @@ title: "Port of Long Beach, Ocean Boulevard ve Vincent Thomas Bridge'i Trafiğe 
 subtitle: "Port of Long Beach, Ocean Boulevard ve Vincent Thomas Bridge'i Trafiğe Yeniden Açtı"
 date: "2024-09-30T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a1def5de47884e269654036cf902effc~mv2.jpg/News - 2024-09-30 - Long Beach.jpg"
+image: "https://static.wixstatic.com/media/6c3915_a1def5de47884e269654036cf902effc~mv2.jpg"
 imageAlt: "Port of Long Beach, Ocean Boulevard ve Vincent Thomas Bridge'i Trafiğe Yeniden Açtı"
 wixId: "d5859312-5043-4e7a-b0f5-c0125ad6fcfe"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Veri Ambarı Yatırımlarıyla Yazılım Seçeneklerini Artıran Gönder
 subtitle: "Veri Ambarı Yatırımlarıyla Yazılım Seçeneklerini Artıran Göndericiler"
 date: "2025-03-11T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/11062b_5b8d6b0dcb864a1394ad23f6bcff6e01~mv2.jpg/Shapes and Shades.jpg"
+image: "https://static.wixstatic.com/media/11062b_5b8d6b0dcb864a1394ad23f6bcff6e01~mv2.jpg"
 imageAlt: "Veri Ambarı Yatırımlarıyla Yazılım Seçeneklerini Artıran Göndericiler"
 wixId: "0aa36a0f-7df6-4e40-abde-756e447da373"
 author: "Sedat Onat"

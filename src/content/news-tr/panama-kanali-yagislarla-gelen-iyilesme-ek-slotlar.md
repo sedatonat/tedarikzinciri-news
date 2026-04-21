@@ -3,7 +3,7 @@ title: "Panama Kanalı'nda Yağışlarla Gelen İyileşme: Ek Geçiş Slotları 
 subtitle: "Panama Kanalı'nda Yağışlarla Gelen İyileşme: Ek Geçiş Slotları Eklendi"
 date: "2024-03-12T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_59dbb66aa8194f00be105736153ab39d~mv2.jpg/News - 2024-03-12 - Panama Canal EverGreen.jpg"
+image: "https://static.wixstatic.com/media/6c3915_59dbb66aa8194f00be105736153ab39d~mv2.jpg"
 imageAlt: "Panama Kanalı'nda Yağışlarla Gelen İyileşme: Ek Geçiş Slotları Eklendi"
 wixId: "4c7789cb-7f2c-44c5-b8de-8aeabb2389fc"
 author: "Sedat Onat"

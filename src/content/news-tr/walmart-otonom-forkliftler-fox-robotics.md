@@ -3,7 +3,7 @@ title: "Walmart, Otomasyonu Artırıyor: Otonom Forkliftler ve Fox Robotics ile 
 subtitle: "Walmart, Otomasyonu Artırıyor: Otonom Forkliftler ve Fox Robotics ile Ortaklık"
 date: "2024-04-11T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_9d4dd57bd6444f6ea778ca408af8a413~mv2.jpeg/News - 2024-04-11 - Walmart WH.jpeg"
+image: "https://static.wixstatic.com/media/6c3915_9d4dd57bd6444f6ea778ca408af8a413~mv2.jpeg"
 imageAlt: "Walmart, Otomasyonu Artırıyor: Otonom Forkliftler ve Fox Robotics ile Ortaklık"
 wixId: "1502cd36-adae-4645-a955-273ebb7ed990"
 author: "Sedat Onat"

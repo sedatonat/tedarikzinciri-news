@@ -3,7 +3,7 @@ title: "Alibaba, Yapay Zeka Destekli Tedarik Motorunu B2B E-Ticaret İçin Piyas
 subtitle: "Alibaba, Yapay Zeka Destekli Tedarik Motorunu B2B E-Ticaret İçin Piyasaya Sürüyor"
 date: "2024-08-02T09:00:00Z"
 category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_7b47c0f177be491da565cacdb58b2c6d~mv2.png/News - 2024-08-02 - Alibaba AI.png"
+image: "https://static.wixstatic.com/media/6c3915_7b47c0f177be491da565cacdb58b2c6d~mv2.png"
 imageAlt: "Alibaba, Yapay Zeka Destekli Tedarik Motorunu B2B E-Ticaret İçin Piyasaya Sürüyor"
 wixId: "0d1c2a94-2af0-4fe9-a6cd-d7da790b3a76"
 author: "Sedat Onat"

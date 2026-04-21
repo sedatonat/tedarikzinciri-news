@@ -3,7 +3,7 @@ title: "Airbus A320 Filosu İçin Acil Güvenlik Çağrısı ve Küresel Uçuş 
 subtitle: "Airbus A320 Filosu İçin Acil Güvenlik Çağrısı ve Küresel Uçuş Etkileri"
 date: "2025-11-30T09:00:00Z"
 category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_16898683f19f4e3682183ded3249fb1f~mv2.png/airbus a320 radyasyon.png"
+image: "https://static.wixstatic.com/media/6c3915_16898683f19f4e3682183ded3249fb1f~mv2.png"
 imageAlt: "Airbus’ın A320 uçaklarında tespit edilen radyasyon kaynaklı veri bozulması riski nedeniyle başlattığı acil yazılım ve donanım güncellemelerinin küresel havayolu operasyonlarına etkisi"
 wixId: "babf092c-a9e3-4ba5-a44a-cf0bdedd9d0d"
 author: "Sedat Onat"

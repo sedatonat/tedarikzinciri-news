@@ -3,7 +3,7 @@ title: "Kuzey Denizi’ndeki Ölümcül Çarpışmanın Ardından Stena Immacula
 subtitle: "Kuzey Denizi’ndeki Ölümcül Çarpışmanın Ardından Stena Immaculate Satıldı"
 date: "2025-10-27T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_09aed4a2b93842438fa360fbc6f8f6a2~mv2.jpg/tanker ship stena ocean.jpg"
+image: "https://static.wixstatic.com/media/6c3915_09aed4a2b93842438fa360fbc6f8f6a2~mv2.jpg"
 imageAlt: "Stena Bulk, Mart 2025’te Kuzey Denizi’nde yaşanan ölümcül kaza sonrası ağır hasar gören Stena Immaculate tankerinin onarım amacıyla Desan Tersanesi’ne satıldığını açıkladı. Gemi, satış öncesinde ABD bayrağından Malta bayrağına geçirildi."
 wixId: "d259ce8f-08ed-4a5b-afef-0d3406bfd552"
 author: "Sedat Onat"

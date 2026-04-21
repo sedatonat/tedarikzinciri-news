@@ -3,7 +3,7 @@ title: "Istanbul Bridge, Çin–Avrupa Arktik Seferini Rotterdam Limanı’na Ul
 subtitle: "Istanbul Bridge, Çin–Avrupa Arktik Seferini Rotterdam Limanı’na Ulaşarak Tamamladı"
 date: "2025-10-27T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_597dd59057a4487da23613b799cd88e6~mv2.jpeg/Sunrise in Bosphorus.jpeg"
+image: "https://static.wixstatic.com/media/11062b_597dd59057a4487da23613b799cd88e6~mv2.jpeg"
 imageAlt: "Konteyner gemisi Istanbul Bridge, Çin–Avrupa Arktik Ekspres Hattı’nın (China–Europe Arctic Express) Avrupa ayağını tamamlayarak Rotterdam Limanı’na ulaştı. Bu sefer, Arktik rotanın sunduğu zaman avantajını bir kez daha ortaya koyarken, hattın “Ice Silk Road” stratejisindeki önemini pekiştirdi."
 wixId: "dc0a66c9-f45d-42d2-a93a-26f50b77da08"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "COSCO SHIPPING, ABD’de Kapsamlı Lojistik Depo Operasyonlarını Başl
 subtitle: "COSCO SHIPPING, ABD’de Kapsamlı Lojistik Depo Operasyonlarını Başlattı"
 date: "2024-05-13T09:00:00Z"
 category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_5aaee75280e8427fbdf34bb7fec36ba8~mv2.jpg/News - 2024-05-13 - Cosco.jpg"
+image: "https://static.wixstatic.com/media/6c3915_5aaee75280e8427fbdf34bb7fec36ba8~mv2.jpg"
 imageAlt: "COSCO SHIPPING, ABD’de Kapsamlı Lojistik Depo Operasyonlarını Başlattı"
 wixId: "e271fb6d-5a33-4789-81b7-d949d9f97c6f"
 author: "Sedat Onat"

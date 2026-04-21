@@ -3,7 +3,7 @@ title: "FedEx Freight LTL Birimini Bağımsız Şirkete Dönüştürmeyi Planlı
 subtitle: "FedEx Freight LTL Birimini Bağımsız Şirkete Dönüştürmeyi Planlıyor"
 date: "2024-12-19T09:00:00Z"
 category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_729c7d5dfc4c4eb9bc14c35932d5ff04~mv2.jpg/News - 2024-12-19 - Fedex.jpg"
+image: "https://static.wixstatic.com/media/6c3915_729c7d5dfc4c4eb9bc14c35932d5ff04~mv2.jpg"
 imageAlt: "FedEx Freight LTL Birimini Bağımsız Şirkete Dönüştürmeyi Planlıyor"
 wixId: "864e7b16-717c-4742-81e6-d4aa87afd781"
 author: "Sedat Onat"
