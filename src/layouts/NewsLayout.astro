@@ -4,16 +4,65 @@ import { getLangFromUrl, useTranslations, categoryLabel, categoryPath } from '..
 
 interface Props {
   frontmatter: any;
+  slug?: string;
+  alternateSlug?: string;  // slug of same article in the other language, if any
 }
-const { frontmatter } = Astro.props;
+const { frontmatter, slug, alternateSlug } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 const date = new Date(frontmatter.date).toLocaleDateString(
   lang === 'tr' ? 'tr-TR' : 'en-US',
   { day: 'numeric', month: 'long', year: 'numeric' }
 );
+
+// Build hreflang alternate URLs
+const alternateTr = lang === 'tr' && slug
+  ? `/haber/${slug}`
+  : (alternateSlug ? `/haber/${alternateSlug}` : undefined);
+const alternateEn = lang === 'en' && slug
+  ? `/en/news/${slug}`
+  : (alternateSlug ? `/en/news/${alternateSlug}` : undefined);
+
+// JSON-LD Article schema
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? 'https://tedarikzinciri.news';
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'NewsArticle',
+  headline: frontmatter.title,
+  description: frontmatter.subtitle,
+  image: frontmatter.image ? [frontmatter.image] : undefined,
+  datePublished: new Date(frontmatter.date).toISOString(),
+  dateModified: new Date(frontmatter.date).toISOString(),
+  inLanguage: lang === 'tr' ? 'tr-TR' : 'en-US',
+  articleSection: frontmatter.category,
+  author: {
+    '@type': 'Person',
+    name: frontmatter.author ?? 'Sedat Onat'
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: t('site.title'),
+    logo: {
+      '@type': 'ImageObject',
+      url: `${siteUrl}/favicon.svg`
+    }
+  },
+  mainEntityOfPage: {
+    '@type': 'WebPage',
+    '@id': canonicalUrl
+  }
+};
 ---
-<BaseLayout title={frontmatter.title} description={frontmatter.subtitle} image={frontmatter.image} type="article">
+<BaseLayout
+  title={frontmatter.title}
+  description={frontmatter.subtitle}
+  image={frontmatter.image}
+  type="article"
+  alternateTr={alternateTr}
+  alternateEn={alternateEn}
+  jsonLd={jsonLd}
+>
   <article class="container-narrow pt-8">
     <header class="mb-8">
       <div class="flex items-center gap-3 text-sm text-ink-500 mb-3">
@@ -34,7 +83,7 @@ const date = new Date(frontmatter.date).toLocaleDateString(
              class="w-full rounded-xl" loading="eager" />
       </figure>
     )}
-    <div class="prose-article">
+    <div class="prose-article" data-pagefind-body>
       <slot />
     </div>
     {frontmatter.sourceUrl && (
@@ -42,5 +91,33 @@ const date = new Date(frontmatter.date).toLocaleDateString(
         <p><strong>{t('news.sourceLink')}:</strong> <a href={frontmatter.sourceUrl} rel="noopener nofollow" target="_blank">{frontmatter.sourceUrl}</a></p>
       </footer>
     )}
+
+    {/* Giscus comments (GitHub Discussions) — loads only if PUBLIC_GISCUS_REPO is configured */}
+    <section class="mt-12 pt-8 border-t border-ink-200 dark:border-ink-800">
+      <h2 class="text-2xl font-semibold mb-4">{t('comments.title')}</h2>
+      <div id="giscus-container"></div>
+    </section>
+    <script is:inline define:vars={{ lang }}>
+      (function () {
+        const repo = "__GISCUS_REPO__";
+        if (!repo || repo.startsWith("__")) return; // not configured
+        const s = document.createElement('script');
+        s.src = 'https://giscus.app/client.js';
+        s.setAttribute('data-repo', repo);
+        s.setAttribute('data-repo-id', '__GISCUS_REPO_ID__');
+        s.setAttribute('data-category', 'Announcements');
+        s.setAttribute('data-category-id', '__GISCUS_CATEGORY_ID__');
+        s.setAttribute('data-mapping', 'pathname');
+        s.setAttribute('data-strict', '1');
+        s.setAttribute('data-reactions-enabled', '1');
+        s.setAttribute('data-emit-metadata', '0');
+        s.setAttribute('data-input-position', 'bottom');
+        s.setAttribute('data-theme', 'preferred_color_scheme');
+        s.setAttribute('data-lang', lang === 'tr' ? 'tr' : 'en');
+        s.crossOrigin = 'anonymous';
+        s.async = true;
+        document.getElementById('giscus-container').appendChild(s);
+      })();
+    </script>
   </article>
 </BaseLayout>

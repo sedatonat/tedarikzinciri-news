@@ -1,0 +1,52 @@
+---
+interface Props {
+  page: {
+    url: { prev?: string; next?: string; first?: string; last?: string; current: string };
+    currentPage: number;
+    lastPage: number;
+  };
+  labelPrev: string;
+  labelNext: string;
+}
+const { page, labelPrev, labelNext } = Astro.props;
+
+// Build compact page list: 1 … (c-2) (c-1) c (c+1) (c+2) … last
+const current = page.currentPage;
+const last = page.lastPage;
+function pageHref(n: number): string {
+  if (n === 1) return page.url.first || '/';
+  // Derive base from current URL
+  const cur = page.url.current;
+  // Strip trailing /<digits> if any
+  const base = cur.replace(/\/\d+\/?$/, '').replace(/\/$/, '');
+  return `${base}/${n}`;
+}
+const nums: (number | '…')[] = [];
+const push = (v: number | '…') => { if (nums[nums.length - 1] !== v) nums.push(v); };
+push(1);
+for (let i = Math.max(2, current - 2); i <= Math.min(last - 1, current + 2); i++) {
+  if (i === 2 && current - 2 > 2) push('…');
+  push(i);
+  if (i === current + 2 && current + 2 < last - 1) push('…');
+}
+if (last > 1) push(last);
+---
+<nav class="flex items-center justify-center gap-1 mt-10 text-sm" aria-label="Pagination">
+  {page.url.prev ? (
+    <a href={page.url.prev} class="px-3 py-2 rounded-lg border border-ink-200 dark:border-ink-700 hover:bg-ink-100 dark:hover:bg-ink-800">← {labelPrev}</a>
+  ) : (
+    <span class="px-3 py-2 rounded-lg border border-ink-100 dark:border-ink-800 text-ink-400">← {labelPrev}</span>
+  )}
+  {nums.map(n => n === '…' ? (
+    <span class="px-2 py-2 text-ink-400">…</span>
+  ) : n === current ? (
+    <span class="px-3 py-2 rounded-lg bg-brand-600 text-white font-medium">{n}</span>
+  ) : (
+    <a href={pageHref(n)} class="px-3 py-2 rounded-lg border border-ink-200 dark:border-ink-700 hover:bg-ink-100 dark:hover:bg-ink-800">{n}</a>
+  ))}
+  {page.url.next ? (
+    <a href={page.url.next} class="px-3 py-2 rounded-lg border border-ink-200 dark:border-ink-700 hover:bg-ink-100 dark:hover:bg-ink-800">{labelNext} →</a>
+  ) : (
+    <span class="px-3 py-2 rounded-lg border border-ink-100 dark:border-ink-800 text-ink-400">{labelNext} →</span>
+  )}
+</nav>

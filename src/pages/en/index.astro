@@ -2,12 +2,29 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import NewsCard from '../../components/NewsCard.astro';
+import Pagination from '../../components/Pagination.astro';
 import { useTranslations } from '../../i18n/utils';
 
+const PAGE_SIZE = 24;
 const t = useTranslations('en');
 const all = (await getCollection('news-en', ({ data }) => !data.draft))
   .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
-const latest = all.slice(0, 24);
+
+const currentPage = 1;
+const lastPage = Math.max(1, Math.ceil(all.length / PAGE_SIZE));
+const items = all.slice(0, PAGE_SIZE);
+
+const page = {
+  url: {
+    current: '/en',
+    first: '/en',
+    last: lastPage > 1 ? `/en/page/${lastPage}` : '/en',
+    prev: undefined,
+    next: lastPage > 1 ? '/en/page/2' : undefined,
+  },
+  currentPage,
+  lastPage
+};
 ---
 <BaseLayout>
   <section class="container-wide pt-10 pb-8">
@@ -17,7 +34,8 @@ const latest = all.slice(0, 24);
   <section class="container-wide pb-12">
     <h2 class="text-2xl font-semibold mb-6">{t('home.latest')}</h2>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-      {latest.map(e => <NewsCard entry={e} />)}
+      {items.map(e => <NewsCard entry={e} />)}
     </div>
+    {lastPage > 1 && <Pagination page={page} labelPrev={t('pagination.prev')} labelNext={t('pagination.next')} />}
   </section>
 </BaseLayout>

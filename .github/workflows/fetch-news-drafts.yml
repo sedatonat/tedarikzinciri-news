@@ -1,0 +1,53 @@
+name: Fetch news drafts from RSS sources
+
+on:
+  schedule:
+    # Her gün 06:00 UTC (TR 09:00) ve 18:00 UTC (TR 21:00)
+    - cron: '0 6,18 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run fetch_sources
+        run: python3 scripts/fetch_sources.py
+
+      - name: Create Pull Request if new drafts
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore(drafts): RSS kaynaklarından yeni taslaklar"
+          title: "Yeni haber taslakları (RSS)"
+          body: |
+            Bu PR, `scripts/fetch_sources.py` tarafından otomatik üretildi.
+
+            `src/content/drafts/` altındaki dosyalar içeriklere dahil **edilmez**;
+            gözden geçirip uygun koleksiyona (`news-tr` veya `news-en`) taşıyın.
+
+            Adımlar:
+            1. Her taslak `.md`'yi aç, başlığı ve gövdeyi kendi sesinde yeniden yaz.
+            2. Kategoriyi doğrula (Lojistik / Tedarik Zinciri / Teknoloji / Envanter / Satınalma).
+            3. `draft: true` satırını sil veya `false` yap.
+            4. Dosyayı `src/content/news-tr/` veya `src/content/news-en/` altına taşı.
+            5. Taslak dosyasını sil.
+          branch: auto/news-drafts
+          delete-branch: true
+          add-paths: |
+            src/content/drafts/**
+            scripts/.seen-urls.txt

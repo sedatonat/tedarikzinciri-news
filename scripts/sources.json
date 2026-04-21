@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Supply Chain Dive",
+    "rss": "https://www.supplychaindive.com/feeds/news/",
+    "lang": "en"
+  },
+  {
+    "name": "gCaptain",
+    "rss": "https://gcaptain.com/feed/",
+    "lang": "en"
+  },
+  {
+    "name": "FreightWaves",
+    "rss": "https://www.freightwaves.com/news/feed",
+    "lang": "en"
+  },
+  {
+    "name": "The Loadstar",
+    "rss": "https://theloadstar.com/feed/",
+    "lang": "en"
+  },
+  {
+    "name": "Logistics Manager",
+    "rss": "https://www.logisticsmanager.com/feed/",
+    "lang": "en"
+  }
+]

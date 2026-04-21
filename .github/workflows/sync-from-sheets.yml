@@ -1,0 +1,46 @@
+name: Sync news from Google Sheets
+
+on:
+  schedule:
+    # Her saat başı çalışır
+    - cron: '5 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run sheets_to_markdown
+        env:
+          GOOGLE_SHEETS_CSV_URL: ${{ secrets.GOOGLE_SHEETS_CSV_URL }}
+        run: |
+          if [ -z "$GOOGLE_SHEETS_CSV_URL" ]; then
+            echo "GOOGLE_SHEETS_CSV_URL secret tanımlı değil — atlanıyor."
+            exit 0
+          fi
+          python3 scripts/sheets_to_markdown.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "tzh-bot"
+          git config user.email "tzh-bot@users.noreply.github.com"
+          git add src/content/news-tr src/content/news-en || true
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok."
+            exit 0
+          fi
+          git commit -m "chore(content): sync from Google Sheets"
+          git push

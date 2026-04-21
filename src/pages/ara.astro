@@ -1,0 +1,36 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { useTranslations } from '../i18n/utils';
+
+const t = useTranslations('tr');
+---
+<BaseLayout title={t('search.title')}>
+  <section class="container-narrow pt-10 pb-12">
+    <h1 class="text-3xl font-bold mb-6">{t('search.title')}</h1>
+    <div id="search"></div>
+  </section>
+
+  <link rel="stylesheet" href="/pagefind/pagefind-ui.css" slot="head" />
+  <script is:inline src="/pagefind/pagefind-ui.js"></script>
+  <script is:inline define:vars={{ lang: 'tr' }}>
+    window.addEventListener('DOMContentLoaded', () => {
+      if (!window.PagefindUI) return;
+      new window.PagefindUI({
+        element: '#search',
+        showImages: true,
+        showSubResults: true,
+        translations: {
+          placeholder: 'Haberlerde ara…',
+          clear_search: 'Temizle',
+          load_more: 'Daha fazla sonuç yükle',
+          search_label: 'Arama',
+          filters_label: 'Filtreler',
+          zero_results: '"[SEARCH_TERM]" için sonuç bulunamadı.',
+          many_results: '"[SEARCH_TERM]" için [COUNT] sonuç bulundu.',
+          one_result: '"[SEARCH_TERM]" için 1 sonuç bulundu.',
+          searching: '"[SEARCH_TERM]" aranıyor…'
+        }
+      });
+    });
+  </script>
+</BaseLayout>

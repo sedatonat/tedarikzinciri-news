@@ -1,0 +1,53 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsCard from '../../components/NewsCard.astro';
+import Pagination from '../../components/Pagination.astro';
+import { useTranslations } from '../../i18n/utils';
+
+const PAGE_SIZE = 24;
+
+export async function getStaticPaths() {
+  const all = await getCollection('news-tr', ({ data }) => !data.draft);
+  const lastPage = Math.ceil(all.length / PAGE_SIZE);
+  const pages = [];
+  // Pages 2..lastPage (page 1 is /)
+  for (let n = 2; n <= lastPage; n++) {
+    pages.push({ params: { page: String(n) } });
+  }
+  return pages;
+}
+
+const { page: pageParam } = Astro.params;
+const currentPage = Number(pageParam);
+
+const t = useTranslations('tr');
+const all = (await getCollection('news-tr', ({ data }) => !data.draft))
+  .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
+const lastPage = Math.ceil(all.length / PAGE_SIZE);
+const items = all.slice((currentPage - 1) * PAGE_SIZE, currentPage * PAGE_SIZE);
+
+const page = {
+  url: {
+    current: `/page/${currentPage}`,
+    first: '/',
+    last: `/page/${lastPage}`,
+    prev: currentPage === 2 ? '/' : `/page/${currentPage - 1}`,
+    next: currentPage < lastPage ? `/page/${currentPage + 1}` : undefined,
+  },
+  currentPage,
+  lastPage
+};
+---
+<BaseLayout title={`${t('pagination.page')} ${currentPage}`}>
+  <section class="container-wide pt-10 pb-6">
+    <h1 class="text-3xl font-bold tracking-tight">{t('site.title')}</h1>
+    <p class="mt-2 text-ink-500">{t('pagination.page')} {currentPage} / {lastPage}</p>
+  </section>
+  <section class="container-wide pb-12">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {items.map(e => <NewsCard entry={e} />)}
+    </div>
+    <Pagination page={page} labelPrev={t('pagination.prev')} labelNext={t('pagination.next')} />
+  </section>
+</BaseLayout>

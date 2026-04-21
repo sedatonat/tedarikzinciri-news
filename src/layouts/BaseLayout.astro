@@ -10,9 +10,12 @@ interface Props {
   image?: string;
   canonical?: string;
   type?: 'website' | 'article';
+  alternateTr?: string;  // hreflang tr path (absolute or root-relative)
+  alternateEn?: string;  // hreflang en path
+  jsonLd?: object;
 }
 
-const { title, description, image, canonical, type = 'website' } = Astro.props;
+const { title, description, image, canonical, type = 'website', alternateTr, alternateEn, jsonLd } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 
@@ -20,6 +23,20 @@ const siteTitle = t('site.title');
 const fullTitle = title ? `${title} — ${siteTitle}` : siteTitle;
 const metaDescription = description ?? t('site.tagline');
 const canonicalURL = canonical ?? new URL(Astro.url.pathname, Astro.site).toString();
+
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? 'https://tedarikzinciri.news';
+
+// Build hreflang URLs. If explicitly provided, use them; else derive from current pathname.
+function abs(p: string | undefined): string | undefined {
+  if (!p) return undefined;
+  if (p.startsWith('http')) return p;
+  return siteUrl + (p.startsWith('/') ? p : '/' + p);
+}
+const hrefTr = abs(alternateTr);
+const hrefEn = abs(alternateEn);
+
+// Cloudflare Web Analytics token — pulled from env at build time. Set CF_BEACON_TOKEN in GitHub Actions secrets.
+const cfBeaconToken = import.meta.env.PUBLIC_CF_BEACON_TOKEN;
 ---
 <!doctype html>
 <html lang={lang} class="h-full">
@@ -33,20 +50,32 @@ const canonicalURL = canonical ?? new URL(Astro.url.pathname, Astro.site).toStri
     <link rel="alternate" type="application/rss+xml" title={`${siteTitle} - TR`} href="/rss.xml" />
     <link rel="alternate" type="application/rss+xml" title={`${siteTitle} - EN`} href="/en/rss.xml" />
 
+    {hrefTr && <link rel="alternate" hreflang="tr" href={hrefTr} />}
+    {hrefEn && <link rel="alternate" hreflang="en" href={hrefEn} />}
+    {(hrefTr || hrefEn) && <link rel="alternate" hreflang="x-default" href={hrefTr ?? hrefEn} />}
+
     <meta property="og:type" content={type} />
     <meta property="og:site_name" content={siteTitle} />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={metaDescription} />
     <meta property="og:url" content={canonicalURL} />
+    <meta property="og:locale" content={lang === 'tr' ? 'tr_TR' : 'en_US'} />
     {image && <meta property="og:image" content={image} />}
     <meta name="twitter:card" content={image ? 'summary_large_image' : 'summary'} />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={metaDescription} />
+    {image && <meta name="twitter:image" content={image} />}
+
+    {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
 
     <script is:inline>
       (function () {
-        const saved = localStorage.getItem('theme');
-        const system = window.matchMedia('(prefers-color-scheme: dark)').matches;
-        const dark = saved ? saved === 'dark' : system;
-        if (dark) document.documentElement.classList.add('dark');
+        try {
+          const saved = localStorage.getItem('theme');
+          const system = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          const dark = saved ? saved === 'dark' : system;
+          if (dark) document.documentElement.classList.add('dark');
+        } catch (_) {}
       })();
     </script>
 
@@ -56,5 +85,12 @@ const canonicalURL = canonical ?? new URL(Astro.url.pathname, Astro.site).toStri
     <Header />
     <main class="flex-1 pb-16"><slot /></main>
     <Footer />
+    {cfBeaconToken && (
+      <script
+        defer
+        src="https://static.cloudflareinsights.com/beacon.min.js"
+        data-cf-beacon={`{"token": "${cfBeaconToken}"}`}
+      />
+    )}
   </body>
 </html>

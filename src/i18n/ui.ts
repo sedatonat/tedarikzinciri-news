@@ -31,7 +31,12 @@ export const ui = {
     'search.noResults': 'Sonuç bulunamadı.',
     'categories.all': 'Tümü',
     'home.latest': 'Son Haberler',
-    'home.featured': 'Öne Çıkan'
+    'home.featured': 'Öne Çıkan',
+    'pagination.prev': 'Önceki',
+    'pagination.next': 'Sonraki',
+    'pagination.page': 'Sayfa',
+    'comments.title': 'Yorumlar',
+    'search.title': 'Haberlerde Ara'
   },
   en: {
     'nav.home': 'Home',
@@ -61,7 +66,12 @@ export const ui = {
     'search.noResults': 'No results found.',
     'categories.all': 'All',
     'home.latest': 'Latest News',
-    'home.featured': 'Featured'
+    'home.featured': 'Featured',
+    'pagination.prev': 'Previous',
+    'pagination.next': 'Next',
+    'pagination.page': 'Page',
+    'comments.title': 'Comments',
+    'search.title': 'Search News'
   }
 } as const;
 
