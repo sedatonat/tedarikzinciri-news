@@ -80,7 +80,8 @@ const jsonLd = {
     {frontmatter.image && (
       <figure class="mb-8">
         <img src={frontmatter.image} alt={frontmatter.imageAlt ?? frontmatter.title}
-             class="w-full rounded-xl" loading="eager" />
+             class="w-full rounded-xl" loading="eager"
+             onerror="if(this.dataset.fallback!=='1'){this.dataset.fallback='1';this.src='/og-default.png';}" />
       </figure>
     )}
     <div class="prose-article" data-pagefind-body>

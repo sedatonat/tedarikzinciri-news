@@ -18,7 +18,8 @@ const cat = entry.data.category;
     <div class="aspect-[16/9] overflow-hidden bg-ink-100 dark:bg-ink-800">
       <img src={entry.data.image} alt={entry.data.imageAlt ?? entry.data.title}
            class="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-           loading="lazy" decoding="async" />
+           loading="lazy" decoding="async"
+           onerror="if(this.dataset.fallback!=='1'){this.dataset.fallback='1';this.src='/og-default.png';}" />
     </div>
   )}
   <div class="p-5 flex flex-col gap-2 flex-1">
