@@ -5,9 +5,8 @@ import NewsCard from '../../../components/NewsCard.astro';
 import Pagination from '../../../components/Pagination.astro';
 import { useTranslations } from '../../../i18n/utils';
 
-const PAGE_SIZE = 24;
-
 export async function getStaticPaths() {
+  const PAGE_SIZE = 24;
   const all = await getCollection('news-en', ({ data }) => !data.draft);
   const lastPage = Math.ceil(all.length / PAGE_SIZE);
   const pages = [];
@@ -17,6 +16,7 @@ export async function getStaticPaths() {
   return pages;
 }
 
+const PAGE_SIZE = 24;
 const { page: pageParam } = Astro.params;
 const currentPage = Number(pageParam);
 
