@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Timeline from '../../../components/Timeline.astro';
 import { categoryLabel, categorySlug } from '../../../i18n/utils';
 
 const CATS = ['Lojistik', 'Tedarik Zinciri', 'Teknoloji', 'Envanter', 'Satınalma'] as const;
@@ -22,6 +23,7 @@ const ICONS: Record<string, string> = {
 };
 ---
 <BaseLayout title="Categories" alternateTr="/kategoriler/" alternateEn="/en/categories/">
+  <Timeline lang="en" />
   <section class="container-wide py-10">
     <h1 class="text-3xl sm:text-4xl font-bold mb-2">Categories</h1>
     <p class="text-ink-600 dark:text-ink-300 mb-8">Pick a category to see its articles.</p>

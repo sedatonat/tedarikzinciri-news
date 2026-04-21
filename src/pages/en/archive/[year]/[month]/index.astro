@@ -1,0 +1,51 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../../../layouts/BaseLayout.astro';
+import NewsCard from '../../../../../components/NewsCard.astro';
+import Timeline from '../../../../../components/Timeline.astro';
+import { useTranslations } from '../../../../../i18n/utils';
+import { getAllMonthPaths } from '../../../../../lib/timeline';
+
+export async function getStaticPaths() {
+  const paths = await getAllMonthPaths('en');
+  return paths.map(({ year, month }) => ({
+    params: { year: String(year), month: String(month).padStart(2, '0') },
+    props: { year, month },
+  }));
+}
+
+const { year, month } = Astro.props;
+const t = useTranslations('en');
+
+const all = (await getCollection('news-en', ({ data }) => !data.draft))
+  .filter((e) => {
+    const d = new Date(e.data.date);
+    return d.getUTCFullYear() === year && d.getUTCMonth() + 1 === month;
+  })
+  .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
+
+const mm = String(month).padStart(2, '0');
+const title = `${year}/${mm}`;
+const trPath = `/arsiv/${year}/${mm}/`;
+---
+<BaseLayout title={`${title} archive`} alternateTr={trPath} alternateEn={`/en/archive/${year}/${mm}/`}>
+  <Timeline lang="en" />
+  <section class="container-wide py-10">
+    <nav class="text-sm text-ink-500 mb-2">
+      <a href="/en/" class="hover:text-brand-600">{t('nav.home')}</a>
+      <span class="mx-1">·</span>
+      <span>{year}</span>
+      <span class="mx-1">·</span>
+      <span>{mm}</span>
+    </nav>
+    <h1 class="text-3xl font-bold mb-1">{title} archive</h1>
+    <p class="text-ink-500 mb-8">{all.length} articles</p>
+    {all.length === 0 ? (
+      <p class="text-ink-500">No articles in this month.</p>
+    ) : (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {all.map((e) => <NewsCard entry={e} />)}
+      </div>
+    )}
+  </section>
+</BaseLayout>

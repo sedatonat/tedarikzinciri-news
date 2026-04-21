@@ -1,0 +1,60 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../../../layouts/BaseLayout.astro';
+import NewsCard from '../../../../../components/NewsCard.astro';
+import Timeline from '../../../../../components/Timeline.astro';
+import { useTranslations } from '../../../../../i18n/utils';
+import { getAllDayPaths } from '../../../../../lib/timeline';
+
+export async function getStaticPaths() {
+  const paths = await getAllDayPaths('tr');
+  return paths.map(({ year, month, day }) => ({
+    params: {
+      year: String(year),
+      month: String(month).padStart(2, '0'),
+      day: String(day).padStart(2, '0'),
+    },
+    props: { year, month, day },
+  }));
+}
+
+const { year, month, day } = Astro.props;
+const t = useTranslations('tr');
+
+const all = (await getCollection('news-tr', ({ data }) => !data.draft))
+  .filter((e) => {
+    const d = new Date(e.data.date);
+    return (
+      d.getUTCFullYear() === year &&
+      d.getUTCMonth() + 1 === month &&
+      d.getUTCDate() === day
+    );
+  })
+  .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
+
+const mm = String(month).padStart(2, '0');
+const dd = String(day).padStart(2, '0');
+const title = `${year}/${mm}/${dd}`;
+const enPath = `/en/archive/${year}/${mm}/${dd}/`;
+---
+<BaseLayout title={`${title} arşivi`} alternateTr={`/arsiv/${year}/${mm}/${dd}/`} alternateEn={enPath}>
+  <Timeline lang="tr" />
+  <section class="container-wide py-10">
+    <nav class="text-sm text-ink-500 mb-2">
+      <a href="/" class="hover:text-brand-600">{t('nav.home')}</a>
+      <span class="mx-1">·</span>
+      <a href={`/arsiv/${year}/${mm}/`} class="hover:text-brand-600">{year}/{mm}</a>
+      <span class="mx-1">·</span>
+      <span>{dd}</span>
+    </nav>
+    <h1 class="text-3xl font-bold mb-1">{title} arşivi</h1>
+    <p class="text-ink-500 mb-8">{all.length} haber</p>
+    {all.length === 0 ? (
+      <p class="text-ink-500">Bu günde haber yok.</p>
+    ) : (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {all.map((e) => <NewsCard entry={e} />)}
+      </div>
+    )}
+  </section>
+</BaseLayout>
