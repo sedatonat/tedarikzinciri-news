@@ -34,7 +34,6 @@ const page = {
     <p class="mt-3 text-lg text-ink-600 dark:text-ink-300 max-w-2xl">{t('site.tagline')}</p>
   </section>
   <section class="container-wide pb-12">
-    <h2 class="text-2xl font-semibold mb-6">{t('home.latest')}</h2>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
       {items.map(e => <NewsCard entry={e} />)}
     </div>
