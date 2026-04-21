@@ -19,7 +19,8 @@ const newsSchema = z.object({
   newsSequence: z.number().optional(),
   author: z.string().default('Sedat Onat'),
   draft: z.boolean().default(false),
-  translated: z.boolean().default(true)
+  translated: z.boolean().default(true),
+  tags: z.array(z.string()).default([])
 });
 
 const newsTR = defineCollection({ type: 'content', schema: newsSchema });

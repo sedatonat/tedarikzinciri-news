@@ -1,6 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import { getLangFromUrl, useTranslations, categoryLabel, categoryPath } from '../i18n/utils';
+import { tagPath } from '../lib/tags';
 
 interface Props {
   frontmatter: any;
@@ -76,6 +77,16 @@ const jsonLd = {
       <div class="mt-4 flex items-center gap-3 text-sm text-ink-500">
         <span>{frontmatter.author}</span>
       </div>
+      {Array.isArray(frontmatter.tags) && frontmatter.tags.length > 0 && (
+        <div class="mt-4 flex flex-wrap gap-2">
+          {frontmatter.tags.map((tag: string) => (
+            <a
+              href={tagPath(lang, tag)}
+              class="inline-flex items-center px-2.5 py-1 rounded-full text-xs border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 text-ink-700 dark:text-ink-200 hover:border-brand-500 hover:bg-brand-50 dark:hover:bg-brand-900/30 hover:text-brand-700 dark:hover:text-brand-300 transition-colors"
+            >{tag}</a>
+          ))}
+        </div>
+      )}
     </header>
     {frontmatter.image && (
       <figure class="mb-8">

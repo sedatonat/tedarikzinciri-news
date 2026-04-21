@@ -6,6 +6,7 @@ export const ui = {
   tr: {
     'nav.home': 'Ana Sayfa',
     'nav.categories': 'Kategoriler',
+    'nav.tags': 'Etiketler',
     'nav.about': 'Hakkında',
     'nav.search': 'Ara',
     'site.title': 'Tedarik Zinciri Portalı Haberleri',
@@ -16,6 +17,7 @@ export const ui = {
     'news.important': 'Önemli Notlar',
     'news.published': 'Yayın Tarihi',
     'news.category': 'Kategori',
+    'news.tags': 'Etiketler',
     'news.share': 'Paylaş',
     'news.related': 'İlgili Haberler',
     'news.notTranslated': 'Bu haber henüz İngilizceye çevrilmedi. Orijinal kaynak makaleyi okuyabilirsiniz.',
@@ -41,6 +43,7 @@ export const ui = {
   en: {
     'nav.home': 'Home',
     'nav.categories': 'Categories',
+    'nav.tags': 'Tags',
     'nav.about': 'About',
     'nav.search': 'Search',
     'site.title': 'Supply Chain Portal News',
@@ -51,6 +54,7 @@ export const ui = {
     'news.important': 'Key Points',
     'news.published': 'Published',
     'news.category': 'Category',
+    'news.tags': 'Tags',
     'news.share': 'Share',
     'news.related': 'Related News',
     'news.notTranslated': 'This article has not yet been translated to English. You can read the original source article.',
