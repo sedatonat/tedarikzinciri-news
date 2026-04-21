@@ -9,24 +9,8 @@ const t = useTranslations(lang);
 <header class="sticky top-0 z-40 border-b border-ink-200 dark:border-ink-800 bg-white/80 dark:bg-ink-950/80 backdrop-blur">
   <div class="container-wide flex items-center justify-between h-16">
     <a href={localizedPath(lang, '/')} class="flex items-center gap-2 group" aria-label={t('site.title')}>
-      {/* Light mode: solid black cube with white gap lines (iso cube viewed from above) */}
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" class="block dark:hidden w-8 h-8" aria-hidden="true">
-        <polygon points="32,8 52.78,20 52.78,44 32,56 11.22,44 11.22,20" fill="#000000"/>
-        <g stroke="#ffffff" stroke-width="3" stroke-linecap="butt">
-          <line x1="32" y1="32" x2="52.78" y2="20"/>
-          <line x1="32" y1="32" x2="32" y2="56"/>
-          <line x1="32" y1="32" x2="11.22" y2="20"/>
-        </g>
-      </svg>
-      {/* Dark mode: solid white cube with black gap lines */}
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" class="hidden dark:block w-8 h-8" aria-hidden="true">
-        <polygon points="32,8 52.78,20 52.78,44 32,56 11.22,44 11.22,20" fill="#ffffff"/>
-        <g stroke="#000000" stroke-width="3" stroke-linecap="butt">
-          <line x1="32" y1="32" x2="52.78" y2="20"/>
-          <line x1="32" y1="32" x2="32" y2="56"/>
-          <line x1="32" y1="32" x2="11.22" y2="20"/>
-        </g>
-      </svg>
+      <img src="/logo-light.png" alt="" width="32" height="32" class="block dark:hidden w-8 h-8 object-contain" />
+      <img src="/logo-dark.png" alt="" width="32" height="32" class="hidden dark:block w-8 h-8 object-contain" />
       <span class="font-semibold text-lg hidden sm:inline">{t('site.title')}</span>
     </a>
     <nav class="flex items-center gap-1 sm:gap-4 text-sm">
