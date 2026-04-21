@@ -24,7 +24,7 @@ const alternateEn = lang === 'en' && slug
   : (alternateSlug ? `/en/news/${alternateSlug}` : undefined);
 
 // JSON-LD Article schema
-const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? 'https://tedarikzinciri.news';
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? 'https://tzp.news';
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
 const jsonLd = {
   '@context': 'https://schema.org',

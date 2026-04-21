@@ -24,7 +24,7 @@ const fullTitle = title ? `${title} — ${siteTitle}` : siteTitle;
 const metaDescription = description ?? t('site.tagline');
 const canonicalURL = canonical ?? new URL(Astro.url.pathname, Astro.site).toString();
 
-const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? 'https://tedarikzinciri.news';
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? 'https://tzp.news';
 
 // Build hreflang URLs. If explicitly provided, use them; else derive from current pathname.
 function abs(p: string | undefined): string | undefined {

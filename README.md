@@ -2,7 +2,7 @@
 
 Tedarik zinciri, lojistik, satınalma, envanter ve teknoloji alanındaki güncel haberlerin Türkçe ve İngilizce paylaşıldığı haber portalı.
 
-**Canlı:** [tedarikzinciri.news](https://tedarikzinciri.news)
+**Canlı:** [tzp.news](https://tzp.news)
 
 ## Teknoloji Yığını
 

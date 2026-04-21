@@ -3,7 +3,7 @@ import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://tedarikzinciri.news',
+  site: 'https://tzp.news',
   trailingSlash: 'never',
   i18n: {
     defaultLocale: 'tr',

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tedarikzinciri.news/sitemap-index.xml
+Sitemap: https://tzp.news/sitemap-index.xml
