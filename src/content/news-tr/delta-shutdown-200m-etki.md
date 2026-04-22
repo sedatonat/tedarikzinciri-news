@@ -1,14 +1,22 @@
 ---
-title: "Delta Air Lines, Hükümet Kapanmasının Ardından 200 Milyon Dolarlık Kâr Darbesi Bekliyor"
-subtitle: "Delta Air Lines, Hükümet Kapanmasının Ardından 200 Milyon Dolarlık Kâr Darbesi Bekliyor"
-date: "2025-12-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_dadb069155f145caa637c38336bc8fff~mv2.jpg"
-imageAlt: "ABD’de tarihin en uzun government shutdown’ı sonrası Delta’nın dördüncü çeyrekte 200 milyon USD kâr kaybı öngörmesi, uçuş iptalleri, talep dinamikleri ve premium segment stratejisinin detaylı özeti"
-wixId: "a28a71f4-e79e-48f6-85d3-8220a1988d85"
-author: "Sedat Onat"
+title: Delta Air Lines, Hükümet Kapanmasının Ardından 200 Milyon Dolarlık Kâr Darbesi Bekliyor
+subtitle: Delta Air Lines, Hükümet Kapanmasının Ardından 200 Milyon Dolarlık Kâr Darbesi Bekliyor
+date: '2025-12-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_dadb069155f145caa637c38336bc8fff~mv2.jpg
+imageAlt: ABD’de tarihin en uzun government shutdown’ı sonrası Delta’nın dördüncü çeyrekte 200 milyon USD kâr kaybı öngörmesi, uçuş iptalleri, talep dinamikleri ve premium segment stratejisinin detaylı özeti
+wixId: a28a71f4-e79e-48f6-85d3-8220a1988d85
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Delta Air Lines
+- hükümet kapanması
+- havayolu
+- finansal etki
+- uçuş iptali
+- ABD
+- hava taşımacılığı
 ---
 <p style="text-align: justify"><strong>Delta Air Lines</strong>, 2025’in son çeyreğine ilişkin finansal görünümünü güncelleyerek <strong>yaklaşık 200 milyon USD</strong> tutarında bir <strong>profit impact</strong> beklediğini açıkladı. Şirket, ABD’de yaşanan <strong>tarihin en uzun government shutdown</strong> döneminde hava trafik kontrolörü ve güvenlik personeli eksikliği nedeniyle federal yönetim tarafından uygulanan <strong>zorunlu kapasite kısıntılarının</strong>, dördüncü çeyrek sonuçlarını belirgin biçimde zayıflattığını bildirdi.</p>
 <p><br></p>

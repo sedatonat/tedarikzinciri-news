@@ -1,16 +1,23 @@
 ---
-title: "U.S. Navy Selects Damen LST 100 Design for Medium Landing Ship Program"
-subtitle: "U.S. Navy Selects Damen LST 100 Design for Medium Landing Ship Program"
-date: "2025-12-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_224925880078463bbbf57c4726859638~mv2.jpg"
-imageAlt: "Summary of the U.S. Navy's selection of the Damen Shipyards Group LST 100 design for the Medium Landing Ship (LSM) program, plans for construction of up to 35 vessels at U.S. shipyards, and implications for distributed maritime operations doctrine"
-wixId: "469c5ec5-4e51-4180-93df-e9a2999cb7e1"
-author: "Sedat Onat"
+title: U.S. Navy Selects Damen LST 100 Design for Medium Landing Ship Program
+subtitle: U.S. Navy Selects Damen LST 100 Design for Medium Landing Ship Program
+date: '2025-12-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_224925880078463bbbf57c4726859638~mv2.jpg
+imageAlt: Summary of the U.S. Navy's selection of the Damen Shipyards Group LST 100 design for the Medium Landing Ship (LSM) program, plans for construction of up to 35 vessels at U.S. shipyards, and implications for distributed maritime operations doctrine
+wixId: 469c5ec5-4e51-4180-93df-e9a2999cb7e1
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- US Navy
+- Damen Shipyards
+- landing ship
+- LST 100
+- maritime logistics
+- amphibious operation
+- shipbuilding
 ---
-
 <p style="text-align: justify"><strong>The U.S. Navy</strong> has made a critical decision in its <strong>Medium Landing Ship (LSM)</strong> program, aimed at strengthening amphibious and littoral operations capabilities, by selecting the <strong>LST 100</strong> landing ship design developed by <strong>Damen Shipyards Group</strong>. According to the company's statement, the Navy plans to construct <strong>up to 35 vessels</strong> based on this design at U.S. shipyards.</p>
 <p><br></p>
 <p style="text-align: justify">The decision was announced to the public on <strong>December 5</strong> by <strong>Secretary of the Navy John C. Phelan</strong>. Phelan described the <strong>LST 100</strong> as "a platform that strikes the right balance in terms of capability, cost, and speed," weighing approximately <strong>4,000 tons</strong> with a <strong>range exceeding 3,400 nautical miles</strong>. For the Navy, these vessels provide a solution capable of rapidly responding to current and future operational requirements.</p>

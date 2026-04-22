@@ -1,14 +1,22 @@
 ---
-title: "MS Soroysund’un Karaya Oturması Sonrası 4.000 Litre Dizel Denize Sızdı"
-subtitle: "MS Soroysund’un Karaya Oturması Sonrası 4.000 Litre Dizel Denize Sızdı"
-date: "2025-11-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_eea2a04d7aaa4a7090dd2d321c13413f~mv2.jpg"
-imageAlt: "MS Sørøysund adlı 62 metrelik çıkarma gemisi Tjeldsund’da karaya oturdu; yaklaşık 4.000 litre dizel denize sızdı, 27.000 litrelik yakıt tankı taşınarak boşaltılıyor ve çevre ekipleri sızıntıyı bariyerlerle kontrol altına almaya çalışıyor."
-wixId: "8fff2288-1485-4667-b26b-31b65652eba3"
-author: "Sedat Onat"
+title: MS Soroysund’un Karaya Oturması Sonrası 4.000 Litre Dizel Denize Sızdı
+subtitle: MS Soroysund’un Karaya Oturması Sonrası 4.000 Litre Dizel Denize Sızdı
+date: '2025-11-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_eea2a04d7aaa4a7090dd2d321c13413f~mv2.jpg
+imageAlt: MS Sørøysund adlı 62 metrelik çıkarma gemisi Tjeldsund’da karaya oturdu; yaklaşık 4.000 litre dizel denize sızdı, 27.000 litrelik yakıt tankı taşınarak boşaltılıyor ve çevre ekipleri sızıntıyı bariyerlerle kontrol altına almaya çalışıyor.
+wixId: 8fff2288-1485-4667-b26b-31b65652eba3
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- MS Sørøysund
+- karaya oturma
+- deniz kirliliği
+- dizel sızıntısı
+- Norveç
+- çevre müdahalesi
+- kıyı güvenliği
 ---
 <p style="text-align: justify">Kuzey Norveç’te <strong>MS Sørøysund</strong> adlı 62 metrelik çıkarma gemisinin karaya oturmasının ardından yaklaşık <strong>4.000 litre dizelin</strong> denize sızdığı bildirildi. Olay, Fjelldal yakınlarında, Tjeldsund bölgesinde cumartesi günü meydana geldi ve Norveç kıyılarında acil çevre müdahale ekiplerini harekete geçirdi.</p>
 <p><br></p>

@@ -1,14 +1,23 @@
 ---
-title: "ABD Hükümet Kapanması İthalat Kararlarını Zora Sokuyor: Los Angeles Limanı Uyardı"
-subtitle: "ABD Hükümet Kapanması İthalat Kararlarını Zora Sokuyor: Los Angeles Limanı Uyardı"
-date: "2025-11-24T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_bd49e0f7d76740bda56b19f73cc0f79e~mv2.jpg"
-imageAlt: "ABD’de federal veri akışının durması nedeniyle ithalatçıların satın alma ve yatırım kararlarında yaşanan belirsizlik, Los Angeles Limanı’nın beklentileri ve Lunar New Year öncesi yük hareketliliğine dair kapsamlı haber özeti"
-wixId: "2834aa26-bea1-43d1-9fef-081e63211aa1"
-author: "Sedat Onat"
+title: 'ABD Hükümet Kapanması İthalat Kararlarını Zora Sokuyor: Los Angeles Limanı Uyardı'
+subtitle: 'ABD Hükümet Kapanması İthalat Kararlarını Zora Sokuyor: Los Angeles Limanı Uyardı'
+date: '2025-11-24T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_bd49e0f7d76740bda56b19f73cc0f79e~mv2.jpg
+imageAlt: ABD’de federal veri akışının durması nedeniyle ithalatçıların satın alma ve yatırım kararlarında yaşanan belirsizlik, Los Angeles Limanı’nın beklentileri ve Lunar New Year öncesi yük hareketliliğine dair kapsamlı haber özeti
+wixId: 2834aa26-bea1-43d1-9fef-081e63211aa1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Los Angeles Limanı
+- hükümet kapanması
+- ithalat
+- Lunar New Year
+- konteyner hacmi
+- tedarik zinciri
+- federal veri
+- liman operasyonları
 ---
 <p style="text-align: justify">ABD’de yaşanan uzun süreli <strong>government shutdown</strong>, ithalatçıların kritik planlama süreçlerini olumsuz etkilemekte. Federal kurumların veri yayınlayamaması, özellikle satın alma ve yatırım kararları açısından büyük bir belirsizlik oluşturuyor. <strong>Port of Los Angeles Executive Director Gene Seroka</strong>, 18 Kasım’da düzenlenen medya brifinginde, veri eksikliğinin ithalatçıların stratejik öngörü kabiliyetini sınırladığını vurguladı.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "MSC’nin 13–15 Bin TEU Dev Gemileri MED–NAEC Hattında İki Katmanlı Filo Yapısı Oluşturuyor"
-subtitle: "MSC’nin 13–15 Bin TEU Dev Gemileri MED–NAEC Hattında İki Katmanlı Filo Yapısı Oluşturuyor"
-date: "2025-11-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4bcdd37154d942e9848be2f2407c3c8f~mv2.jpg"
-imageAlt: "MSC’nin MED–NAEC hattında ultra büyük gemiler konuşlandırarak iki seviyeli filo yapısı oluşturması, Sea-Intelligence analizinde ortaya konan kapasite eğilimleri ve terminal operasyonlarına etkisi üzerine detaylı özet"
-wixId: "2d7147ed-05d5-4107-8500-0b4ce7090b47"
-author: "Sedat Onat"
+title: MSC’nin 13–15 Bin TEU Dev Gemileri MED–NAEC Hattında İki Katmanlı Filo Yapısı Oluşturuyor
+subtitle: MSC’nin 13–15 Bin TEU Dev Gemileri MED–NAEC Hattında İki Katmanlı Filo Yapısı Oluşturuyor
+date: '2025-11-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4bcdd37154d942e9848be2f2407c3c8f~mv2.jpg
+imageAlt: MSC’nin MED–NAEC hattında ultra büyük gemiler konuşlandırarak iki seviyeli filo yapısı oluşturması, Sea-Intelligence analizinde ortaya konan kapasite eğilimleri ve terminal operasyonlarına etkisi üzerine detaylı özet
+wixId: 2d7147ed-05d5-4107-8500-0b4ce7090b47
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- MSC
+- konteyner gemisi
+- MED-NAEC hattı
+- ultra büyük gemi
+- TEU kapasitesi
+- terminal operasyonları
+- filo yapısı
 ---
 <p style="text-align: justify"><strong>Mediterranean Shipping Company (MSC)</strong>, 13.000–15.000+ TEU segmentindeki ultra büyük gemileri <strong>Mediterranean–North America East Coast (MED–NAEC)</strong> hattına konuşlandırarak ticaret hattının yapısını yeniden şekillendirmekte. <strong>Sea-Intelligence Sunday Spotlight issue 741</strong> kapsamında yapılan analiz, 2025’in ikinci yarısında hat üzerindeki filo kompozisyonunda belirgin bir ayrışma yaşandığını ortaya koymakta. Bu ayrışma, ortalama gemi boyutunun yükselmesine yol açarken median değerin daha düşük kalması, büyümenin yalnızca sınırlı sayıdaki büyük gemiden kaynaklandığını göstermekte.</p>
 <p><br></p>

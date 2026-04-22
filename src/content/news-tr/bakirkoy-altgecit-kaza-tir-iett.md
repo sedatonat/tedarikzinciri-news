@@ -1,14 +1,22 @@
 ---
-title: "Bakırköy’de Alt Geçide Çarpan TIR, Yanındaki İETT Otobüsünün Üzerine Devrildi: 6 Yaralı"
-subtitle: "Bakırköy’de Alt Geçide Çarpan TIR, Yanındaki İETT Otobüsünün Üzerine Devrildi: 6 Yaralı"
-date: "2024-08-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_53a3d2a717804d3197695712eb8a8598~mv2.jpg"
-imageAlt: "Bakırköy Rauf Orbay Caddesi’nde alt geçide çarpan TIR dorsesinin devrilerek BN1 hattındaki İETT otobüsünü ezdiği, 6 kişinin yaralandığı kazanın güvenlik kamerası görüntüleri."
-wixId: "1464638a-c2cf-4d68-9b48-9a0c22e82d92"
-author: "Sedat Onat"
+title: 'Bakırköy’de Alt Geçide Çarpan TIR, Yanındaki İETT Otobüsünün Üzerine Devrildi: 6 Yaralı'
+subtitle: 'Bakırköy’de Alt Geçide Çarpan TIR, Yanındaki İETT Otobüsünün Üzerine Devrildi: 6 Yaralı'
+date: '2024-08-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_53a3d2a717804d3197695712eb8a8598~mv2.jpg
+imageAlt: Bakırköy Rauf Orbay Caddesi’nde alt geçide çarpan TIR dorsesinin devrilerek BN1 hattındaki İETT otobüsünü ezdiği, 6 kişinin yaralandığı kazanın güvenlik kamerası görüntüleri.
+wixId: 1464638a-c2cf-4d68-9b48-9a0c22e82d92
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- TIR kazası
+- İETT
+- Bakırköy
+- trafik güvenliği
+- alt geçit
+- lojistik kaza
+- yükseklik ihlali
 ---
 <p style="text-align: justify">İstanbul Bakırköy’de 27 Ağustos 2024 sabahı meydana gelen trafik kazası, şehir içi ulaşım güvenliği ve alt geçitlerdeki yükseklik ihlallerinin yarattığı tehlikeyi bir kez daha gündeme taşıdı. Rauf Orbay Caddesi üzerinde Florya istikametine ilerleyen <strong>35 BCJ 694 plakalı TIR</strong>, Yeşilyurt Hava Harp Okulu önündeki <strong>Havuzlu Kavşağı alt geçidine</strong> girdiği sırada dorsesinin yüksekliği nedeniyle üst yapıya çarptı. Çarpmanın etkisiyle savrulan TIR kontrolünü kaybederek <strong>yan şeritte ilerleyen İETT otobüsünün üzerine devrildi</strong>.</p>
 <p><br></p>

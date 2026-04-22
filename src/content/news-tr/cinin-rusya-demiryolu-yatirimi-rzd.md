@@ -1,14 +1,23 @@
 ---
-title: "Çin'in Rus Demiryolu Yatırımları Moskova ile Sınırlı Kalmıyor"
-subtitle: "Çin'in Rus Demiryolu Yatırımları Moskova ile Sınırlı Kalmıyor"
-date: "2025-03-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2baea6a9fc2a4f12863e3664cdccec14~mv2.jpeg"
-imageAlt: "Çin'in Rus Demiryolu Yatırımları Moskova ile Sınırlı Kalmıyor"
-wixId: "326565fd-382e-4908-96e5-d0b6301e1972"
-author: "Sedat Onat"
+title: Çin'in Rus Demiryolu Yatırımları Moskova ile Sınırlı Kalmıyor
+subtitle: Çin'in Rus Demiryolu Yatırımları Moskova ile Sınırlı Kalmıyor
+date: '2025-03-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2baea6a9fc2a4f12863e3664cdccec14~mv2.jpeg
+imageAlt: Çin'in Rus Demiryolu Yatırımları Moskova ile Sınırlı Kalmıyor
+wixId: 326565fd-382e-4908-96e5-d0b6301e1972
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Çin
+- Rusya
+- demiryolu
+- Avrasya
+- lojistik merkezi
+- Xi'an
+- altyapı yatırımı
+- Kazakistan
 ---
 <p style="text-align: justify">Çin, batıya doğru demiryolu bağlantılarını geliştirme konusunda önemli adımlar atmakta ve Avrasya genelinde birçok altyapı projesine dahil olmakta ya da dahil olmayı planlamakta. Bu projelerden dikkate değer bir örnek, Moskova yakınlarındaki Selyatino'da, Rusya, Kazakistan ve Çin'in ortaklaşa geliştirdiği yeni terminaldir. Ancak, Çin'in Rus demiryollarına olan ilgisi sadece Moskova bölgesiyle sınırlı kalmayabilir. Rus medyasına göre, Çin, Rusya genelinde daha fazla demiryolu yatırımına ilgi göstermekte.​</p>
 <p><br></p>

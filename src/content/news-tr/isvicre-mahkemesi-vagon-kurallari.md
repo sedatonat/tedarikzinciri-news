@@ -1,14 +1,23 @@
 ---
-title: "İsviçre’de Vagon Kuralları Askıya Alındı: Mahkeme AB ile Uyum Eksikliğine Dikkat Çekti"
-subtitle: "İsviçre’de Vagon Kuralları Askıya Alındı: Mahkeme AB ile Uyum Eksikliğine Dikkat Çekti"
-date: "2025-12-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_dbb038d623f0471bbf6044642c69b0dd~mv2.jpg"
-imageAlt: "İsviçre Federal İdare Mahkemesi’nin, Federal Ulaştırma Dairesi’nin tek taraflı vagon güvenlik kurallarını askıya alması, Gotthard kazası sonrası gündeme gelen tekerlek düzenlemeleri ve Avrupa demiryolu yük sektörünün verdiği tepkinin detaylı özeti"
-wixId: "693c538c-070d-4f63-99ba-af7a136052d6"
-author: "Sedat Onat"
+title: 'İsviçre’de Vagon Kuralları Askıya Alındı: Mahkeme AB ile Uyum Eksikliğine Dikkat Çekti'
+subtitle: 'İsviçre’de Vagon Kuralları Askıya Alındı: Mahkeme AB ile Uyum Eksikliğine Dikkat Çekti'
+date: '2025-12-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_dbb038d623f0471bbf6044642c69b0dd~mv2.jpg
+imageAlt: İsviçre Federal İdare Mahkemesi’nin, Federal Ulaştırma Dairesi’nin tek taraflı vagon güvenlik kurallarını askıya alması, Gotthard kazası sonrası gündeme gelen tekerlek düzenlemeleri ve Avrupa demiryolu yük sektörünün verdiği tepkinin detaylı özeti
+wixId: 693c538c-070d-4f63-99ba-af7a136052d6
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- İsviçre
+- demiryolu taşımacılığı
+- vagon güvenliği
+- interoperability
+- Avrupa Birliği
+- Gotthard Base Tunnel
+- tekerlek çapı
+- UIP
 ---
 <p style="text-align: justify"><strong>İsviçre Federal İdare Mahkemesi (Swiss Federal Administrative Court)</strong>, demiryolu yük taşımacılığı sektöründe uzun süredir tartışma yaratan bir düzenlemeyi askıya alarak sektöre geçici bir rahatlama sağlamış durumda. Mahkeme, büyük vagon kiralama şirketleri <strong>Ermewa</strong>, <strong>GATX</strong> ve <strong>VTG</strong> tarafından açılan dava sonucunda, <strong>Federal Office of Transport (FOT)</strong> tarafından tek taraflı biçimde yürürlüğe konulan yeni vagon güvenlik kurallarının <strong>dava süreci tamamlanana kadar uygulanmamasına</strong> hükmetti.</p>
 <p><br></p>

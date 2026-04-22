@@ -1,14 +1,23 @@
 ---
-title: "Canada Post Grevleri Anlaşma Sonrası Askıya Alındı: Teslimatlarda Rahatlama Beklentisi"
-subtitle: "Canada Post Grevleri Anlaşma Sonrası Askıya Alındı: Teslimatlarda Rahatlama Beklentisi"
-date: "2025-11-22T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_ea68a875529546659597afa2e2364ed7~mv2.jpg"
-imageAlt: "Canada Post ile sendika arasında prensip anlaşmasına varılması sonucu grevlerin askıya alınması ve ülke genelinde teslimatların normale dönme beklentisini özetleyen detaylı açıklama."
-wixId: "ea828fae-6f46-493c-b0b4-22d181263757"
-author: "Sedat Onat"
+title: 'Canada Post Grevleri Anlaşma Sonrası Askıya Alındı: Teslimatlarda Rahatlama Beklentisi'
+subtitle: 'Canada Post Grevleri Anlaşma Sonrası Askıya Alındı: Teslimatlarda Rahatlama Beklentisi'
+date: '2025-11-22T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_ea68a875529546659597afa2e2364ed7~mv2.jpg
+imageAlt: Canada Post ile sendika arasında prensip anlaşmasına varılması sonucu grevlerin askıya alınması ve ülke genelinde teslimatların normale dönme beklentisini özetleyen detaylı açıklama.
+wixId: ea828fae-6f46-493c-b0b4-22d181263757
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Canada Post
+- grev
+- CUPW
+- kargo teslimatı
+- e-ticaret
+- Kanada
+- posta hizmeti
+- tedarik zinciri
 ---
 <p style="text-align: justify">Kanada’nın posta hizmet sağlayıcısı <strong>Canada Post</strong> ile çalışanları temsil eden <strong>Canadian Union of Postal Workers (CUPW)</strong> arasında varılan <strong>“prensip anlaşması”</strong>, ülke genelinde 12 aydır kesintiler yaratan dönemsellik gösteren grevlerin sona erebileceğine işaret ediyor. Kurumdan yapılan açıklamaya göre grevler <strong>askıya alındı</strong>, işçiler görevlerine dönüyor ve taraflar, nihai sözleşme metnini oluşturmak için görüşmelere devam ediyor.</p>
 <p><br></p>

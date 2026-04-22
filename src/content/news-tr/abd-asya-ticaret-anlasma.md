@@ -1,14 +1,23 @@
 ---
-title: "ABD, Güneydoğu Asya ile Ticaret Anlaşmaları İmzaladı ve Çin ile Ateşkes Sinyali Verdi"
-subtitle: "ABD, Güneydoğu Asya ile Ticaret Anlaşmaları İmzaladı ve Çin ile Ateşkes Sinyali Verdi"
-date: "2025-10-27T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_622cbbaef029477a8e0559dd518eec75~mv2.jpg"
-imageAlt: "ABD, Vietnam, Tayland, Kamboçya ve Malezya ile karşılıklı gümrük tarifeleri içeren ticaret anlaşmaları imzaladı. Ayrıca Çin ile yürütülen müzakerelerde ilerleme sağlandığı ve olası bir ticaret ateşkesinin yakın olduğu bildirildi."
-wixId: "adde08c9-5e7e-433f-8710-fa4f30c09610"
-author: "Sedat Onat"
+title: ABD, Güneydoğu Asya ile Ticaret Anlaşmaları İmzaladı ve Çin ile Ateşkes Sinyali Verdi
+subtitle: ABD, Güneydoğu Asya ile Ticaret Anlaşmaları İmzaladı ve Çin ile Ateşkes Sinyali Verdi
+date: '2025-10-27T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_622cbbaef029477a8e0559dd518eec75~mv2.jpg
+imageAlt: ABD, Vietnam, Tayland, Kamboçya ve Malezya ile karşılıklı gümrük tarifeleri içeren ticaret anlaşmaları imzaladı. Ayrıca Çin ile yürütülen müzakerelerde ilerleme sağlandığı ve olası bir ticaret ateşkesinin yakın olduğu bildirildi.
+wixId: adde08c9-5e7e-433f-8710-fa4f30c09610
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD
+- Güneydoğu Asya
+- ticaret anlaşması
+- Çin
+- gümrük tarifeleri
+- ASEAN
+- tedarik zinciri
+- dijital ticaret
 ---
 <p style="text-align: justify"><strong>Amerika Birleşik Devletleri</strong>, <strong>Güneydoğu Asya’daki ticaret ilişkilerini</strong> güçlendiren bir dizi anlaşma imzalayarak, aynı zamanda <strong>Çin ile ticaret geriliminde yumuşama sinyali</strong> verdi. <strong>Malezya</strong>, <strong>Tayland</strong>, <strong>Kamboçya</strong> ve <strong>Vietnam</strong> ile yapılan anlaşmalar, hem <strong>karşılıklı gümrük tarifelerini sabitlemekte</strong> hem de <strong>ABD ihracatçılarına yeni pazar erişimi</strong> kazandırmakta.</p>
 <p><br></p>

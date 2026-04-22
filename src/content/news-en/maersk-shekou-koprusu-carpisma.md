@@ -1,16 +1,23 @@
 ---
-title: "Maersk Shekou Collision Reveals Chain of Bridge Communication Failures"
-subtitle: "Maersk Shekou Collision Reveals Chain of Bridge Communication Failures"
-date: "2025-11-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b57fbb23132c4e2b914bc44228cf92c9~mv2.jpg"
-imageAlt: "Detailed analysis of communication breakdowns, pilot errors, distraction, and procedural violations that led to Maersk Shekou's collision with the Leeuwin II at Fremantle Port."
-wixId: "7b2abbce-2c75-4bf1-a97f-9bce350458f7"
-author: "Sedat Onat"
+title: Maersk Shekou Collision Reveals Chain of Bridge Communication Failures
+subtitle: Maersk Shekou Collision Reveals Chain of Bridge Communication Failures
+date: '2025-11-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b57fbb23132c4e2b914bc44228cf92c9~mv2.jpg
+imageAlt: Detailed analysis of communication breakdowns, pilot errors, distraction, and procedural violations that led to Maersk Shekou's collision with the Leeuwin II at Fremantle Port.
+wixId: 7b2abbce-2c75-4bf1-a97f-9bce350458f7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Maersk
+- container ship
+- port accident
+- communication failure
+- Port of Fremantle
+- maritime safety
+- ATSB
 ---
-
 <p style="text-align: justify">The final report published by Australia's Transport Safety Bureau (<strong>ATSB</strong>) provides a detailed account of the chain of failures that led to the 333-meter container ship <strong>Maersk Shekou</strong> striking the historic sailing vessel <strong>Leeuwin II</strong> at <strong>Fremantle Port</strong> in Western Australia on the morning of August 30, 2024. The findings reveal that a lack of coordination on the bridge, critical distraction at a key moment, and violations of port procedures were the primary causes of the accident.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Vessel Data Recorder: An unissued command was the accident's starting point</strong></h4>

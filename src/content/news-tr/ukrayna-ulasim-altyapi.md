@@ -1,14 +1,22 @@
 ---
-title: "Ukrayna, Ulaşım Altyapısı İçin Yeni Destek Fonu Kuruyor: Kanada, Litvanya ve İsveç ile Ortak Bildiri İmzalandı"
-subtitle: "Ukrayna, Ulaşım Altyapısı İçin Yeni Destek Fonu Kuruyor: Kanada, Litvanya ve İsveç ile Ortak Bildiri İmzalandı"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e4b501ae77dc4295a32591d8c68ac10f~mv2.jpg"
-imageAlt: "Ukrayna’nın Kanada, Litvanya ve İsveç ile imzaladığı UTSF ortak bildirisi, ulaşım altyapısı için kurulacak uluslararası destek fonunun amaçları, Avrupa bağlantısı ve stratejik modernizasyon hedeflerinin detaylı özeti"
-wixId: "a3a8d896-9166-4561-a660-e9f6a854217c"
-author: "Sedat Onat"
+title: 'Ukrayna, Ulaşım Altyapısı İçin Yeni Destek Fonu Kuruyor: Kanada, Litvanya ve İsveç ile Ortak Bildiri İmzalandı'
+subtitle: 'Ukrayna, Ulaşım Altyapısı İçin Yeni Destek Fonu Kuruyor: Kanada, Litvanya ve İsveç ile Ortak Bildiri İmzalandı'
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e4b501ae77dc4295a32591d8c68ac10f~mv2.jpg
+imageAlt: Ukrayna’nın Kanada, Litvanya ve İsveç ile imzaladığı UTSF ortak bildirisi, ulaşım altyapısı için kurulacak uluslararası destek fonunun amaçları, Avrupa bağlantısı ve stratejik modernizasyon hedeflerinin detaylı özeti
+wixId: a3a8d896-9166-4561-a660-e9f6a854217c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ukrayna
+- ulaşım altyapısı
+- lojistik koridorlar
+- demiryolu
+- AB entegrasyonu
+- yeniden yapılanma
+- sınır kapıları
 ---
 <p style="text-align: justify">Ukrayna, savaş sonrası yeniden yapılanma çabalarının kritik bir bileşeni olan <strong>ulaşım altyapısının güçlendirilmesi</strong> için yeni bir uluslararası fonun kurulmasına yönelik önemli bir adım attı. Kyiv yönetimi, <strong>Canada</strong>, <strong>Lithuania</strong> ve <strong>Sweden</strong> ile birlikte <strong>Ukraine Transport Support Fund (UTSF)</strong> için ortak bir bildiri imzaladı. UTSF, hem acil hem de uzun vadeli altyapı ihtiyaçlarını karşılamak üzere tasarlanmış uluslararası bir finansman mekanizması olacak.</p>
 <p><br></p>

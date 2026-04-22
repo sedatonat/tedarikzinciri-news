@@ -1,14 +1,22 @@
 ---
-title: "Büyük ve Hacimli Ürünler İçin Roadie'den Aynı Gün Teslimat Hizmeti"
-subtitle: "Büyük ve Hacimli Ürünler İçin Roadie'den Aynı Gün Teslimat Hizmeti"
-date: "2024-06-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c4522c2a040f4c648d1b5d307b652486~mv2.png"
-imageAlt: "Büyük ve Hacimli Ürünler İçin Roadie'den Aynı Gün Teslimat Hizmeti"
-wixId: "e24ad74a-6728-43a8-a10e-0562294e6694"
-author: "Sedat Onat"
+title: Büyük ve Hacimli Ürünler İçin Roadie'den Aynı Gün Teslimat Hizmeti
+subtitle: Büyük ve Hacimli Ürünler İçin Roadie'den Aynı Gün Teslimat Hizmeti
+date: '2024-06-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c4522c2a040f4c648d1b5d307b652486~mv2.png
+imageAlt: Büyük ve Hacimli Ürünler İçin Roadie'den Aynı Gün Teslimat Hizmeti
+wixId: e24ad74a-6728-43a8-a10e-0562294e6694
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Roadie
+- aynı gün teslimat
+- UPS
+- çapraz nakliye
+- büyük hacimli ürünler
+- son mil teslimat
+- RoadieXD
 ---
 <p>Roadie, kargo devi UPS tarafından satın alındıktan üç yıl sonra, büyük ve hacimli ürünler için yeni bir teslimat hizmetini başlattı. Bu hizmet, ürünleri perakendecilerin dağıtım merkezlerinden doğrudan çapraz nakliye tesislerine taşıyarak etkin bir şekilde aynı gün teslimat sağlıyor. İlk olarak metro Atlanta bölgesinde başlatılan hizmet, şimdi New York, Miami ve Dallas'ta faaliyet gösteriyor. Chicago ve Los Angeles'taki tesislerin önümüzdeki aylarda açılması planlanıyor ve 2024 ile 2025 boyunca daha fazla lokasyonun devreye alınması bekleniyor.</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "Five Steps to Strengthen KPIs and Resilience in Uncertain Times"
-subtitle: "Five Steps to Strengthen KPIs and Resilience in Uncertain Times"
-date: "2025-08-26T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b7321448b92d4887ab46a436555a295f~mv2.png"
-imageAlt: "Five Steps to Strengthen KPIs and Resilience in Uncertain Times"
-wixId: "8b410261-f127-4ea0-a07a-d173fec66289"
-author: "Sedat Onat"
+title: Five Steps to Strengthen KPIs and Resilience in Uncertain Times
+subtitle: Five Steps to Strengthen KPIs and Resilience in Uncertain Times
+date: '2025-08-26T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b7321448b92d4887ab46a436555a295f~mv2.png
+imageAlt: Five Steps to Strengthen KPIs and Resilience in Uncertain Times
+wixId: 8b410261-f127-4ea0-a07a-d173fec66289
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- KPI
+- resilience
+- supply chain
+- data governance
+- scenario planning
+- performance measurement
+- continuous improvement
 ---
-
 <p style="text-align: justify"><strong>In periods of uncertainty</strong>, the most critical factor determining long-term resilience for organizations is the discipline of <strong>governance</strong> and <strong>measurement</strong>. An effective resilience strategy is not merely a crisis response; rather, it rests on the principles of being <strong>measurable, data-driven, and continuously improved</strong>. Within this context, the <strong>five-step framework</strong> developed here systematizes operational sustainability:</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>1️⃣ Defining outcome-based KPIs.</strong><br>

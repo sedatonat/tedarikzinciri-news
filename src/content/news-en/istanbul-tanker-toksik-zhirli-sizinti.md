@@ -1,16 +1,23 @@
 ---
-title: "Toxic Leak on Tanker off Istanbul: One Crew Member Dies"
-subtitle: "Toxic Leak on Tanker off Istanbul: One Crew Member Dies"
-date: "2025-11-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e90f2fa112a84695afc9d8706a7e57e8~mv2.jpg"
-imageAlt: "A newly built Panama-flagged tanker transiting near Istanbul experienced a toxic substance leak; one crew member died in the incident and emergency chemical response teams were activated aboard the vessel."
-wixId: "ff800d83-e52c-4e8a-9067-80bca544d2cb"
-author: "Sedat Onat"
+title: 'Toxic Leak on Tanker off Istanbul: One Crew Member Dies'
+subtitle: 'Toxic Leak on Tanker off Istanbul: One Crew Member Dies'
+date: '2025-11-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e90f2fa112a84695afc9d8706a7e57e8~mv2.jpg
+imageAlt: A newly built Panama-flagged tanker transiting near Istanbul experienced a toxic substance leak; one crew member died in the incident and emergency chemical response teams were activated aboard the vessel.
+wixId: ff800d83-e52c-4e8a-9067-80bca544d2cb
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- tanker accident
+- toxic gas leak
+- Istanbul
+- maritime safety
+- chemical tanker
+- Panama flag
+- crew loss
 ---
-
 <p style="text-align: justify">Early this week, a <strong>toxic substance leak</strong> occurred on a newly built Panama-flagged tanker transiting in international waters off Istanbul, resulting in the death of a crew member. The incident took place as the tanker was beginning commercial operations, prompting swift action from Turkish authorities and the vessel's classification society and operator.</p>
 <p><br></p>
 <p style="text-align: justify">While the tanker was on routine transit in international waters near Istanbul, a <strong>sudden gas leak</strong> erupted from one of the tanks containing the chemical cargo aboard the vessel. Initial reports indicated that a crew member working in the upper compartments of the tank inhaled the toxic gas in a short period of time, leading to his death at the scene.</p>

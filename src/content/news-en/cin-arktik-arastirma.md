@@ -1,16 +1,23 @@
 ---
-title: "China Delivers Arctic Research Vessel"
-subtitle: "China Delivers Arctic Research Vessel"
-date: "2024-12-27T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_d918c192891b4f839e97eaa3630f0b6e~mv2.jpg"
-imageAlt: "China Delivers Arctic Research Vessel"
-wixId: "91642a71-5640-48e6-b3e5-830a9b387669"
-author: "Sedat Onat"
+title: China Delivers Arctic Research Vessel
+subtitle: China Delivers Arctic Research Vessel
+date: '2024-12-27T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_d918c192891b4f839e97eaa3630f0b6e~mv2.jpg
+imageAlt: China Delivers Arctic Research Vessel
+wixId: 91642a71-5640-48e6-b3e5-830a9b387669
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- China
+- Arctic
+- research vessel
+- icebreaker
+- maritime
+- geopolitics
+- Northeast Passage
 ---
-
 <p>China has delivered <strong>Tan Suo San Hao</strong> (<strong>Exploration No. 3</strong>), its first scientific research vessel designed for global deep-sea exploration. Built by Guangzhou Shipyard International Co., Ltd., the 104-meter vessel boasts impressive capabilities including 10,000 tons of displacement, a range of 15,000 nautical miles, and dual-direction ice-breaking capabilities.</p>
 <p><br></p>
 <p>The <strong>Tan Suo San Hao</strong> project, jointly financed by the Hainan provincial government and scientific institutions, demonstrates China's technological prowess in maritime exploration. This development coincides with China's plans for a crewed Arctic Ocean floor expedition, an achievement that would make it only the second nation after Russia to accomplish this feat.</p>

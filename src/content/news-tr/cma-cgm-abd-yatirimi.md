@@ -1,14 +1,23 @@
 ---
-title: "CMA CGM'nin ABD'ye 20 Milyar Dolarlık Yatırımı"
-subtitle: "CMA CGM'nin ABD'ye 20 Milyar Dolarlık Yatırımı"
-date: "2025-03-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_cbdf8269aec54d5cae3821d3c5ce924d~mv2.jpg"
-imageAlt: "CMA CGM'nin ABD'ye 20 Milyar Dolarlık Yatırımı"
-wixId: "fabbf6cc-bcfd-436c-9d4b-db6da23716bd"
-author: "Sedat Onat"
+title: CMA CGM'nin ABD'ye 20 Milyar Dolarlık Yatırımı
+subtitle: CMA CGM'nin ABD'ye 20 Milyar Dolarlık Yatırımı
+date: '2025-03-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_cbdf8269aec54d5cae3821d3c5ce924d~mv2.jpg
+imageAlt: CMA CGM'nin ABD'ye 20 Milyar Dolarlık Yatırımı
+wixId: fabbf6cc-bcfd-436c-9d4b-db6da23716bd
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CMA CGM
+- ABD
+- denizcilik
+- konteyner gemisi
+- lojistik yatırımı
+- hava kargo
+- liman
+- Trump
 ---
 <p style="text-align: justify">Fransız denizcilik devi <a href="https://www.cma-cgm.com/"><u><strong>CMA CGM</strong></u></a>, önümüzdeki dört yıl içinde ABD'ye 20 milyar dolarlık yatırım yapmayı planlamakta. Bu yatırım, şirketin ABD'deki varlığını genişletmeyi ve ülkenin denizcilik sektörünü canlandırmayı amaçlamakta. <strong>CMA CGM</strong> CEO'su <strong>Rodolphe Saadé</strong>, bu planı ABD Başkanı <strong>Donald Trump</strong> ile birlikte Beyaz Saray'da duyurdu. ​</p>
 <p><br></p>

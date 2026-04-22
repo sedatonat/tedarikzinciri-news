@@ -1,14 +1,23 @@
 ---
-title: "Rusya’nın Ham Petrol İhracatı Eylül Ayından Bu Yana En Düşük Seviyede"
-subtitle: "Rusya’nın Ham Petrol İhracatı Eylül Ayından Bu Yana En Düşük Seviyede"
-date: "2024-11-15T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/fb82545edb1641db909d551d5f65382b.jpg"
-imageAlt: "Rusya’nın Ham Petrol İhracatı Eylül Ayından Bu Yana En Düşük Seviyede"
-wixId: "f32fc1f8-c60e-45fb-a826-c1366ed3d49c"
-author: "Sedat Onat"
+title: Rusya’nın Ham Petrol İhracatı Eylül Ayından Bu Yana En Düşük Seviyede
+subtitle: Rusya’nın Ham Petrol İhracatı Eylül Ayından Bu Yana En Düşük Seviyede
+date: '2024-11-15T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/fb82545edb1641db909d551d5f65382b.jpg
+imageAlt: Rusya’nın Ham Petrol İhracatı Eylül Ayından Bu Yana En Düşük Seviyede
+wixId: f32fc1f8-c60e-45fb-a826-c1366ed3d49c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Rusya
+- ham petrol ihracatı
+- Baltık limanları
+- OPEC+
+- Avrupa Birliği
+- gölge filo
+- Hindistan
+- Türkiye
 ---
 <p>Bloomberg tarafından &nbsp;yayımlanan habere göre, Rusya’nın denizaşırı ham petrol ihracatı Eylül ayından bu yana en düşük seviyelere geriledi. Baltık limanlarından yapılan sevkiyatlar, Ekim ayının oranlarının oldukça altında seyrediyor. 17 Kasım’a kadar olan dört haftalık ortalama akış, günlük yaklaşık 150.000 varil azalarak 3.28 milyon varile geriledi. Bu düşüş, Temmuz başlarından bu yana en büyük haftalık ihracat düşüşü ile gerçekleşti.</p>
 <p><br></p>

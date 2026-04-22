@@ -1,13 +1,22 @@
 ---
-title: "Navigating Through the Fog: Lojistikte Belirsizlik Devam Ediyor"
-subtitle: "Navigating Through the Fog: Lojistikte Belirsizlik Devam Ediyor"
-date: "2025-10-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_9b52a0adb0ac4756a04a9e7aeaa7ce3d~mv2.jpeg"
-wixId: "bdd520ce-576d-4b33-8a24-0a316b54b22a"
-author: "Sedat Onat"
+title: 'Navigating Through the Fog: Lojistikte Belirsizlik Devam Ediyor'
+subtitle: 'Navigating Through the Fog: Lojistikte Belirsizlik Devam Ediyor'
+date: '2025-10-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_9b52a0adb0ac4756a04a9e7aeaa7ce3d~mv2.jpeg
+wixId: bdd520ce-576d-4b33-8a24-0a316b54b22a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tedarik zinciri
+- lojistik belirsizlik
+- CSCMP
+- navlun fiyatları
+- dayanıklılık
+- yapay zeka
+- denizyolu taşımacılığı
+- depolama
 ---
 <p style="text-align: justify"><strong>Council of Supply Chain Management Professionals (CSCMP)</strong> tarafından yayımlanan yıllık <strong>“State of Logistics Report”</strong>, 2024 yılı için “<strong>Navigating Through the Fog</strong>” başlığıyla kamuoyuna sunulmuştu. Rapor, küresel tedarik zinciri ve lojistik sektöründe süregelen <strong>belirsizlik</strong> atmosferini yansıtmakta. Dört ay sonra, <strong>CSCMP Annual EDGE Conference</strong> kapsamında konuşan raporun başyazarı <strong>Korhan Acar</strong>, sektörün hâlâ aynı sisli ortamda ilerlemekte olduğunu vurgulamakta.</p>
 <p><br></p>

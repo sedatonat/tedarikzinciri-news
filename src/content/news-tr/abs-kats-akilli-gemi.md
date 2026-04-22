@@ -1,14 +1,22 @@
 ---
-title: "ABS ve KATS, Akıllı Gemi Teknolojileri ve Ekipman Sertifikasyonunu İlerletmek İçin İş Birliği Yaptı"
-subtitle: "ABS ve KATS, Akıllı Gemi Teknolojileri ve Ekipman Sertifikasyonunu İlerletmek İçin İş Birliği Yaptı"
-date: "2025-11-06T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_58b3e7e09f674b1cbd94ee443ea9f9bb~mv2.jpg"
-imageAlt: "ABS ve Kore Standartlar ve Teknoloji Ajansı (KATS), akıllı gemi ve akıllı tersane teknolojilerinin uluslararası standardizasyonu ile ekipman sertifikasyon süreçlerinin uyumlaştırılmasını hedefleyen bir iş birliği protokolü imzaladı."
-wixId: "2934dac8-9d48-44d1-862a-a3827d38b724"
-author: "Sedat Onat"
+title: ABS ve KATS, Akıllı Gemi Teknolojileri ve Ekipman Sertifikasyonunu İlerletmek İçin İş Birliği Yaptı
+subtitle: ABS ve KATS, Akıllı Gemi Teknolojileri ve Ekipman Sertifikasyonunu İlerletmek İçin İş Birliği Yaptı
+date: '2025-11-06T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_58b3e7e09f674b1cbd94ee443ea9f9bb~mv2.jpg
+imageAlt: ABS ve Kore Standartlar ve Teknoloji Ajansı (KATS), akıllı gemi ve akıllı tersane teknolojilerinin uluslararası standardizasyonu ile ekipman sertifikasyon süreçlerinin uyumlaştırılmasını hedefleyen bir iş birliği protokolü imzaladı.
+wixId: 2934dac8-9d48-44d1-862a-a3827d38b724
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABS
+- KATS
+- akıllı gemi
+- gemi sertifikasyonu
+- akıllı tersane
+- Kore
+- denizcilik teknolojisi
 ---
 <p style="text-align: justify">ABS (American Bureau of Shipping) ve <strong>Korean Agency for Technology and Standards (KATS)</strong>, akıllı gemi teknolojilerinin uluslararası standartlara entegrasyonunu hızlandırmak ve Koreli ekipman üreticileri için <strong>sertifikasyon süreçlerini sadeleştirmek</strong> amacıyla bir <strong>mutabakat zaptı (MOU)</strong> imzaladı. İş birliği ile birlikte iki kuruluş, gemi inşası, bakım–onarım ve akıllı tersane uygulamalarına yönelik teknik, operasyonel ve düzenleyici standartları ortaklaşa ele alacak.</p>
 <p><br></p>

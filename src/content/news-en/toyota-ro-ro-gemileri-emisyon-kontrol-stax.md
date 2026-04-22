@@ -1,16 +1,24 @@
 ---
-title: "Toyota Partners with Stax Engineering to Control Smokestack Emissions from Ro-Ro Ships"
-subtitle: "Toyota Partners with Stax Engineering to Control Smokestack Emissions from Ro-Ro Ships"
-date: "2024-09-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e5b41cabd51c4c0b9af2e7effdc04d0b~mv2.jpg"
-imageAlt: "Toyota Partners with Stax Engineering to Control Smokestack Emissions from Ro-Ro Ships"
-wixId: "c552b6ad-3c6d-4480-8b9f-b8e34ac9b8e2"
-author: "Sedat Onat"
+title: Toyota Partners with Stax Engineering to Control Smokestack Emissions from Ro-Ro Ships
+subtitle: Toyota Partners with Stax Engineering to Control Smokestack Emissions from Ro-Ro Ships
+date: '2024-09-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e5b41cabd51c4c0b9af2e7effdc04d0b~mv2.jpg
+imageAlt: Toyota Partners with Stax Engineering to Control Smokestack Emissions from Ro-Ro Ships
+wixId: c552b6ad-3c6d-4480-8b9f-b8e34ac9b8e2
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Toyota
+- Stax Engineering
+- ro-ro ship
+- emission control
+- Port of Long Beach
+- CARB
+- maritime transport
+- sustainability
 ---
-
 <p>Toyota Motor North America has signed a five-year agreement with Stax Engineering effective from 2025 for all vessels calling at the Port of Long Beach. Stax Engineering is a venture-backed startup that provides services aimed at reducing smokestack emissions in maritime transport. Aligned with new California Air Resources Board (CARB) standards, Stax will become the first and only emissions control provider serving roll-on/roll-off (ro-ro) vessels in California.</p>
 <p><br></p>
 <p>The agreement reflects rapid growth achieved by Stax Engineering since its market launch in the first quarter of this year. Supported by a $40 million investment round announced in July, the company holds exclusive service agreements at California ports including Los Angeles, Long Beach, Hueneme, Benicia, Richmond, and Oakland. It has also established partnerships with companies such as NYK Line, Hyundai GLOVIS, Shell, and now Toyota.</p>

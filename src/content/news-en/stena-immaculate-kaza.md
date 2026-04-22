@@ -1,16 +1,23 @@
 ---
-title: "Stena Immaculate Sold Following Fatal North Sea Collision"
-subtitle: "Stena Immaculate Sold Following Fatal North Sea Collision"
-date: "2025-10-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_09aed4a2b93842438fa360fbc6f8f6a2~mv2.jpg"
-imageAlt: "Stena Bulk announced that the Stena Immaculate tanker, severely damaged following a fatal accident in the North Sea in March 2025, has been sold to Desan Shipyard for repairs. The vessel was re-flagged from the United States flag to the Malta flag prior to the sale."
-wixId: "d259ce8f-08ed-4a5b-afef-0d3406bfd552"
-author: "Sedat Onat"
+title: Stena Immaculate Sold Following Fatal North Sea Collision
+subtitle: Stena Immaculate Sold Following Fatal North Sea Collision
+date: '2025-10-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_09aed4a2b93842438fa360fbc6f8f6a2~mv2.jpg
+imageAlt: Stena Bulk announced that the Stena Immaculate tanker, severely damaged following a fatal accident in the North Sea in March 2025, has been sold to Desan Shipyard for repairs. The vessel was re-flagged from the United States flag to the Malta flag prior to the sale.
+wixId: d259ce8f-08ed-4a5b-afef-0d3406bfd552
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Stena Immaculate
+- maritime accident
+- North Sea
+- oil tanker
+- fuel leak
+- Desan Shipyard
+- ship repair
 ---
-
 <p style="text-align: justify"><strong>Stena Bulk</strong> announced the sale of the oil tanker <strong>Stena Immaculate</strong>, which suffered severe damage following a tragic collision in the North Sea in March. According to the company's statement, the vessel was transferred to a buyer for <strong>repair and preparation to return to service</strong> and will be repaired at <strong>Desan Shipyard</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">With the sale, the vessel was re-flagged from <strong>the United States flag to the Malta flag</strong>. In its statement, Stena Bulk thanked all parties involved in the salvage and cargo transfer operations for their <strong>professional support and cooperation</strong>.</p>

@@ -1,14 +1,22 @@
 ---
-title: "Çin'in ABD Tarım Ürünlerine Yönelik Tarife Uygulamaları"
-subtitle: "Çin'in ABD Tarım Ürünlerine Yönelik Tarife Uygulamaları"
-date: "2025-03-10T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_6ad5169958f04d838f814a9a9a809e35~mv2.jpg"
-imageAlt: "Çin'in ABD Tarım Ürünlerine Yönelik Tarife Uygulamaları"
-wixId: "82bfcd75-5db4-4184-8c59-242e055ffd75"
-author: "Sedat Onat"
+title: Çin'in ABD Tarım Ürünlerine Yönelik Tarife Uygulamaları
+subtitle: Çin'in ABD Tarım Ürünlerine Yönelik Tarife Uygulamaları
+date: '2025-03-10T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_6ad5169958f04d838f814a9a9a809e35~mv2.jpg
+imageAlt: Çin'in ABD Tarım Ürünlerine Yönelik Tarife Uygulamaları
+wixId: 82bfcd75-5db4-4184-8c59-242e055ffd75
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Çin
+- ABD
+- tarife
+- tarım ürünleri
+- ticaret savaşı
+- gümrük vergisi
+- soya fasulyesi
 ---
 <p style="text-align: justify">Çin, ABD'nin ithal ürünlere uyguladığı tarifelere misilleme olarak, ABD'den ithal edilen tarım ürünlerine ek gümrük vergileri getirdi. Bu kapsamda, ABD'den ithal edilen tavuk, buğday ve mısır ürünlerine %15, soya fasulyesi, domuz eti, sığır eti ve meyvelere ise %10 oranında ek vergi kondu.</p>
 <p><br></p>

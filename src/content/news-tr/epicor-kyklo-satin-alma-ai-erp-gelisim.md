@@ -1,14 +1,22 @@
 ---
-title: "Epicor, Kyklo'yu Satın Alarak AI Destekli ERP Gelişimini Hızlandırıyor"
-subtitle: "Epicor, Kyklo'yu Satın Alarak AI Destekli ERP Gelişimini Hızlandırıyor"
-date: "2024-06-12T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_54c7b0bb0d044abe8cad623fbf0d8251~mv2.png"
-imageAlt: "Epicor, Kyklo'yu Satın Alarak AI Destekli ERP Gelişimini Hızlandırıyor"
-wixId: "cbadaf7c-29bc-47d4-8f43-d0f4a7f0157c"
-author: "Sedat Onat"
+title: Epicor, Kyklo'yu Satın Alarak AI Destekli ERP Gelişimini Hızlandırıyor
+subtitle: Epicor, Kyklo'yu Satın Alarak AI Destekli ERP Gelişimini Hızlandırıyor
+date: '2024-06-12T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_54c7b0bb0d044abe8cad623fbf0d8251~mv2.png
+imageAlt: Epicor, Kyklo'yu Satın Alarak AI Destekli ERP Gelişimini Hızlandırıyor
+wixId: cbadaf7c-29bc-47d4-8f43-d0f4a7f0157c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Epicor
+- Kyklo
+- satın alma
+- AI destekli ERP
+- ürün bilgi yönetimi
+- e-ticaret
+- tedarikçi işbirliği
 ---
 <p>Epicor, Buffalo, New York merkezli, dokuz yaşındaki bir girişim olan Kyklo'yu satın aldığını duyurdu. Kyklo, üreticiler ve distribütörler için satışları artırmayı hedefleyen ürün bilgi yönetimi (PIM) ve potansiyel müşteri oluşturma çözümleri sunmaktadır. Bu satın alma, Epicor'un yapay zeka destekli, bilişsel kurumsal kaynak planlaması (ERP) yazılımının geliştirilmesini hızlandırmayı amaçlamaktadır. Epicor CEO'su Steve Murphy, bu satın almanın şirketin dijital yeteneklerle donatılmış temel ortak olma hedefini desteklediğini belirtti.</p>
 <p><br></p>

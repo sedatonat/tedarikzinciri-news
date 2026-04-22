@@ -1,14 +1,23 @@
 ---
-title: "Ambarlı Limanında Konteyner Gemisi Battı"
-subtitle: "Ambarlı Limanında Konteyner Gemisi Battı"
-date: "2024-12-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_397a7164a6924cb4a37317023f3926d8~mv2.jpg"
-imageAlt: "Ambarlı Limanında Batan Konteyner Gemisi"
-wixId: "38c1f567-bc53-4699-becf-8e3e63c80006"
-author: "Sedat Onat"
+title: Ambarlı Limanında Konteyner Gemisi Battı
+subtitle: Ambarlı Limanında Konteyner Gemisi Battı
+date: '2024-12-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_397a7164a6924cb4a37317023f3926d8~mv2.jpg
+imageAlt: Ambarlı Limanında Batan Konteyner Gemisi
+wixId: 38c1f567-bc53-4699-becf-8e3e63c80006
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ambarlı Limanı
+- konteyner gemisi
+- gemi kazası
+- vinç operasyonu
+- kurtarma operasyonu
+- denizcilik güvenliği
+- liman operasyonları
+- IMO
 ---
 <p>Uzun süredir yük taşımacılığı faaliyetlerinde bulunan bir konteyner gemisi, Türkiye sınırları içindeki bir limanda beklenmedik şekilde yan yatıp kısmen suya gömüldü. Olay, limandaki operasyonların olağan akışı sırasında gerçekleşti. Geminin adı resmî kayıtlarda “Boxship” tipi bir yük gemisi olarak geçiyor ve denizcilik sektöründe orta ölçekli tonajıyla tanınıyor. Ana görev alanı, rutin ithalat ve ihracat yüklerini farklı Akdeniz destinasyonlarına ulaştırmaktı. Kaza anında gövdenin bir tarafında ani bir dengesizlik oluştu ve gemi iskeleye yanaşmak üzereyken kontrol dışı bir manevra yaptı. Bu beklenmedik hamle, geminin hızla yan yatmasına ve liman sahasında ciddi bir panik ortamı oluşmasına yol açtı.</p>
 <p><br></p>

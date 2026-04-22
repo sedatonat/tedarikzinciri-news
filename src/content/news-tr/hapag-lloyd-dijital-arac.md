@@ -1,14 +1,22 @@
 ---
-title: "Hapag-Lloyd Tedarikçi Görünürlüğü İçin Craft Platformunu Kullanıyor"
-subtitle: "Hapag-Lloyd Tedarikçi Görünürlüğü İçin Craft Platformunu Kullanıyor"
-date: "2025-01-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a18e789b28da4ad18ede620d7e72870d~mv2.jpg"
-imageAlt: "Hapag-Lloyd Tedarikçi Görünürlüğü İçin Dijital Araç Kullanıyor"
-wixId: "ae2a4de6-57b6-4746-8ce8-36d264c3bb98"
-author: "Sedat Onat"
+title: Hapag-Lloyd Tedarikçi Görünürlüğü İçin Craft Platformunu Kullanıyor
+subtitle: Hapag-Lloyd Tedarikçi Görünürlüğü İçin Craft Platformunu Kullanıyor
+date: '2025-01-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a18e789b28da4ad18ede620d7e72870d~mv2.jpg
+imageAlt: Hapag-Lloyd Tedarikçi Görünürlüğü İçin Dijital Araç Kullanıyor
+wixId: ae2a4de6-57b6-4746-8ce8-36d264c3bb98
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Hapag-Lloyd
+- Craft
+- tedarikçi görünürlüğü
+- yapay zeka
+- tedarik zinciri riski
+- liman grevi
+- Kızıldeniz
 ---
 <p style="text-align: justify">COVID-19 pandemisinin 2020'de tedarik zincirinde yarattığı zorluklar, <strong>Hapag-Lloyd</strong>'u tedarikçi tabanında daha iyi bir görünürlük sağlamaya yöneltti. O dönemde, navlun artışı ve limanlardaki tıkanıklık, veri ve bilgi paylaşımındaki eksiklikler gibi zayıf noktaları ortaya çıkardı. Bu sorunları gidermek amacıyla, <strong>Hapag-Lloyd</strong>, büyük veriyi ve yapay zekayı kullanabilecek bir ortak arayışına girdi ve 2021'de tedarik zinciri teknoloji şirketi <strong>Craft</strong>'ın platformunu devreye sokarak tedarikçi istihbarat portalı üzerinden şeffaflık sağlamayı hedefledi.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "CMA CGM, Manaus Hatlarındaki Düşük Su Seviyesi Ek Ücretinin Uygulamasını Erteledi"
-subtitle: "CMA CGM, Manaus Hatlarındaki Düşük Su Seviyesi Ek Ücretinin Uygulamasını Erteledi"
-date: "2025-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_30afa68c8d584611864eb5199dd13213~mv2.jpg"
-imageAlt: "CMA CGM, Uzak Doğu–Manaus hattındaki taşımalar için planlanan Low Water Surcharge (LWS) uygulamasını, Amazon Nehri’nin su seviyesinin beklenenden yavaş düşmesi nedeniyle 15 Kasım 2025’e erteledi."
-wixId: "e51420ce-8bea-4aab-9740-f340dc955ac8"
-author: "Sedat Onat"
+title: CMA CGM, Manaus Hatlarındaki Düşük Su Seviyesi Ek Ücretinin Uygulamasını Erteledi
+subtitle: CMA CGM, Manaus Hatlarındaki Düşük Su Seviyesi Ek Ücretinin Uygulamasını Erteledi
+date: '2025-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_30afa68c8d584611864eb5199dd13213~mv2.jpg
+imageAlt: CMA CGM, Uzak Doğu–Manaus hattındaki taşımalar için planlanan Low Water Surcharge (LWS) uygulamasını, Amazon Nehri’nin su seviyesinin beklenenden yavaş düşmesi nedeniyle 15 Kasım 2025’e erteledi.
+wixId: e51420ce-8bea-4aab-9740-f340dc955ac8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CMA CGM
+- Amazon Nehri
+- Manaus
+- düşük su seviyesi
+- ek ücret
+- konteyner taşımacılığı
+- Brezilya
 ---
 <p style="text-align: justify"><strong>CMA CGM</strong>, <strong>Uzak Doğu ile Brezilya’nın Manaus Limanı arasındaki taşımalar</strong> için planladığı <strong>Low Water Surcharge (LWS – Düşük Su Seviyesi Ek Ücreti)</strong> uygulamasını <strong>erteleme kararı</strong> aldığını duyurdu.</p>
 <p><br></p>

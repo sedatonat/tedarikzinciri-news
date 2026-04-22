@@ -1,14 +1,22 @@
 ---
-title: "Çin, ABD–Çin Ticaret Yumuşamasının Ardından Brezilya Soya Fasulyesi Alımlarını Artırdı"
-subtitle: "Çin, ABD–Çin Ticaret Yumuşamasının Ardından Brezilya Soya Fasulyesi Alımlarını Artırdı"
-date: "2025-11-03T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_0a1f71b23bab4ea29dca36e9cbbc045d~mv2.jpg"
-imageAlt: "Çinli ithalatçıların Brezilya’dan daha ucuz hâle gelen soya fasulyesi yüklerini ABD–Çin ticaret uzlaşısı beklentisiyle hızla satın almasını açıklayan detaylı haber özeti."
-wixId: "2956776b-1db3-41ed-9707-b6b05819958f"
-author: "Sedat Onat"
+title: Çin, ABD–Çin Ticaret Yumuşamasının Ardından Brezilya Soya Fasulyesi Alımlarını Artırdı
+subtitle: Çin, ABD–Çin Ticaret Yumuşamasının Ardından Brezilya Soya Fasulyesi Alımlarını Artırdı
+date: '2025-11-03T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_0a1f71b23bab4ea29dca36e9cbbc045d~mv2.jpg
+imageAlt: Çinli ithalatçıların Brezilya’dan daha ucuz hâle gelen soya fasulyesi yüklerini ABD–Çin ticaret uzlaşısı beklentisiyle hızla satın almasını açıklayan detaylı haber özeti.
+wixId: 2956776b-1db3-41ed-9707-b6b05819958f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Çin
+- Brezilya
+- soya fasulyesi
+- ABD-Çin ticaret
+- tarım ticareti
+- COFCO
+- Chicago vadeli işlemler
 ---
 <p style="text-align: justify">Çinli soya fasulyesi ithalatçıları, küresel piyasalarda fiyatların düşmesi ve ABD–Çin arasındaki ticaret yumuşamasının etkisiyle <strong>Brezilya menşeli kargolara yönelik alımlarını hızla artırdı</strong>. Reuters’a konuşan üç büyük ticaret şirketi temsilcisine göre Çinli alıcılar, <strong>Aralık 2025 sevkiyatı için 10 yük</strong>, <strong>Mart–Temmuz dönemi için ise 10 yeni yük</strong> Brezilya soya fasulyesi rezervasyonu yaptı.</p>
 <p><br></p>

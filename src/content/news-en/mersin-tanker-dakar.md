@@ -1,16 +1,23 @@
 ---
-title: "Panama-Flagged Mersin Tanker Creates Emergency Off Dakar: Environmental Alarm Over 30,000-Ton Cargo"
-subtitle: "Panama-Flagged Mersin Tanker Creates Emergency Off Dakar: Environmental Alarm Over 30,000-Ton Cargo"
-date: "2025-12-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_437883bd2a15496789202ed778c134bd~mv2.jpg"
-imageAlt: "Large-scale rescue operation launched off Dakar after the Panama-flagged Mersin tanker suffered water ingress in the machinery space, with detailed coverage of the 30,000-ton petroleum product risk and environmental protection measures"
-wixId: "325fbd4c-4f44-49e6-86e5-8f469c7e9796"
-author: "Sedat Onat"
+title: 'Panama-Flagged Mersin Tanker Creates Emergency Off Dakar: Environmental Alarm Over 30,000-Ton Cargo'
+subtitle: 'Panama-Flagged Mersin Tanker Creates Emergency Off Dakar: Environmental Alarm Over 30,000-Ton Cargo'
+date: '2025-12-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_437883bd2a15496789202ed778c134bd~mv2.jpg
+imageAlt: Large-scale rescue operation launched off Dakar after the Panama-flagged Mersin tanker suffered water ingress in the machinery space, with detailed coverage of the 30,000-ton petroleum product risk and environmental protection measures
+wixId: 325fbd4c-4f44-49e6-86e5-8f469c7e9796
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- tanker accident
+- Dakar
+- marine pollution
+- petroleum products
+- salvage operation
+- Senegal
+- LR1 tanker
 ---
-
 <p style="text-align: justify">A critical maritime emergency is unfolding off the coast of Senegal. The <strong>Panama-flagged Mersin</strong>, an LR1-class tanker, triggered a large-scale search-and-rescue and environmental protection operation in Dakar after water entered its <strong>machinery space</strong> on the night of November 28, prompting the vessel to send a <strong>distress call</strong>. According to information confirmed by both local and international media, the cause of the water ingress remains uncertain, with technical investigations ongoing.</p>
 <p><br></p>
 <p style="text-align: justify">The Port Authority of Dakar (<strong>Port Autonome de Dakar – PAD</strong>) established a multi-agency <strong>crisis unit</strong> comprising <strong>HASSMAR</strong>, the Senegal Navy, the <strong>National Agency for Maritime Affairs</strong>, and port rescue teams following the alert. <strong>Tugs</strong>, specialist response teams, and a naval vessel were dispatched to the area. All crew members aboard the tanker have been evacuated with no injuries reported.</p>

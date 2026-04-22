@@ -1,16 +1,22 @@
 ---
-title: "Port of Los Angeles Returns to Full Operations Following ONE Henry Hudson Fire"
-subtitle: "Port of Los Angeles Returns to Full Operations Following ONE Henry Hudson Fire"
-date: "2025-11-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d9b30e040ce04e929974811495e60318~mv2.jpg"
-imageAlt: "Detailed summary of the electrical fire on the ONE Henry Hudson container vessel at the Port of Los Angeles, including the lifting of terminal closures and the resumption of full-capacity port operations."
-wixId: "a40e02c5-7e64-4a41-bc57-d0ef5562d309"
-author: "Sedat Onat"
+title: Port of Los Angeles Returns to Full Operations Following ONE Henry Hudson Fire
+subtitle: Port of Los Angeles Returns to Full Operations Following ONE Henry Hudson Fire
+date: '2025-11-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d9b30e040ce04e929974811495e60318~mv2.jpg
+imageAlt: Detailed summary of the electrical fire on the ONE Henry Hudson container vessel at the Port of Los Angeles, including the lifting of terminal closures and the resumption of full-capacity port operations.
+wixId: a40e02c5-7e64-4a41-bc57-d0ef5562d309
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Port of Los Angeles
+- ONE Henry Hudson
+- container ship fire
+- port operations
+- supply chain
+- Yusen Terminals
 ---
-
 <p style="text-align: justify"><strong>Port of Los Angeles</strong> announced its return to <strong>normal operations</strong> following the completion of intensive emergency response efforts carried out throughout the weekend after an electrical fire erupted on <strong>ONE Henry Hudson</strong>, a container vessel, on Friday evening. The fire occurred at the port's <strong>Yusen Terminals</strong> facility, and due to critical safety risks, <strong>four of six container terminals were temporarily closed</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">A port spokesman said Monday morning in a statement to the Journal of Commerce that <strong>all terminals were operating at full capacity</strong>, with four terminals reopening Saturday morning after closing Friday at midnight. This rapid recovery is being attributed to the coordinated response between port management and fire units.</p>

@@ -1,16 +1,23 @@
 ---
-title: "Iberian Peninsula Power Outage"
-subtitle: "Iberian Peninsula Power Outage"
-date: "2025-04-28T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_f476b83cb8634c908d306cf03128baef~mv2.jpg"
-imageAlt: "Iberian Peninsula Power Outage"
-wixId: "dd9cd7d7-9cdc-4bb7-b9eb-ce65019e6a1e"
-author: "Sedat Onat"
+title: Iberian Peninsula Power Outage
+subtitle: Iberian Peninsula Power Outage
+date: '2025-04-28T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_f476b83cb8634c908d306cf03128baef~mv2.jpg
+imageAlt: Iberian Peninsula Power Outage
+wixId: dd9cd7d7-9cdc-4bb7-b9eb-ce65019e6a1e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- power outage
+- Iberian Peninsula
+- energy infrastructure
+- renewable energy
+- grid collapse
+- logistics disruption
+- crisis management
 ---
-
 <p style="text-align: justify"><strong>At 12:33 CEST on April 28, 2025</strong>, an <strong>extraordinary widespread power outage</strong> struck the <strong>Iberian Peninsula</strong>. Electricity was cut off for <strong>approximately 10 hours</strong> across most regions of <strong>mainland Spain</strong> and <strong>Portugal</strong>; <strong>Andorra</strong> and <strong>southwestern France</strong> experienced brief outages lasting seconds to minutes. The outage affected <strong>telecommunications</strong>, <strong>transportation</strong>, <strong>airports</strong>, <strong>healthcare services</strong>, and <strong>government institutions</strong> across multiple layers. At least <strong>±7 deaths in Spain</strong> and <strong>±1 death in Portugal</strong> were attributed to indirect causes, including <strong>candle fires</strong> and <strong>poisonings from indoor generator use</strong>. ENTSO-E and national sources reported a <strong>"total zero"</strong> condition in the Iberian power system at the time of the incident.</p>
 <p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>Pre-event and initial moments:</strong>&nbsp;</h5>

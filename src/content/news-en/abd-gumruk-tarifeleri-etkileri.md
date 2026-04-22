@@ -1,16 +1,23 @@
 ---
-title: "Global Multilateral Trade Strengthens Despite U.S. Tariffs"
-subtitle: "Global Multilateral Trade Strengthens Despite U.S. Tariffs"
-date: "2025-10-14T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_83d50220f32c4c2b8d238f5413990f04~mv2.jpg"
-imageAlt: ""
-wixId: "c9e0eab4-d478-41e5-a972-c0d9533eaba1"
-author: "Sedat Onat"
+title: Global Multilateral Trade Strengthens Despite U.S. Tariffs
+subtitle: Global Multilateral Trade Strengthens Despite U.S. Tariffs
+date: '2025-10-14T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_83d50220f32c4c2b8d238f5413990f04~mv2.jpg
+imageAlt: ''
+wixId: c9e0eab4-d478-41e5-a972-c0d9533eaba1
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- US tariffs
+- global trade
+- DHL
+- multi-hub trade
+- China
+- ASEAN
+- supply chain
 ---
-
 <p style="text-align: justify"><strong>DHL</strong> and <strong>New York University (NYU) Stern School of Business</strong> released a report showing that while <strong>new U.S. customs tariffs</strong> are disrupting global trade, they are unable to halt it.</p>
 <p><br>
 The research reveals that <strong>global trade in the first half of 2025 showed its fastest growth since 2010</strong>, and <strong>world trade volume gained strength despite the U.S.'s protectionist policies.</strong></p>

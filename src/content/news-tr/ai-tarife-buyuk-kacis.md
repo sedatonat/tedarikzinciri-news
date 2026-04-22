@@ -1,14 +1,23 @@
 ---
-title: "Yapay Zekâ, Tarifeler Ve ‘büyük Kaçış’ Stratejisi"
-subtitle: "Yapay Zekâ, Tarifeler Ve ‘büyük Kaçış’ Stratejisi"
-date: "2025-04-15T00:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_c60755fb18344bb09b87fa4202f2c150~mv2.png"
-imageAlt: "Yapay Zekâ, Tarifeler Ve ‘büyük Kaçış’ Stratejisi"
-wixId: "1a272120-5967-4064-b8e4-7efe80f7586d"
-author: "Sedat Onat"
+title: Yapay Zekâ, Tarifeler Ve ‘büyük Kaçış’ Stratejisi
+subtitle: Yapay Zekâ, Tarifeler Ve ‘büyük Kaçış’ Stratejisi
+date: '2025-04-15T00:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_c60755fb18344bb09b87fa4202f2c150~mv2.png
+imageAlt: Yapay Zekâ, Tarifeler Ve ‘büyük Kaçış’ Stratejisi
+wixId: 1a272120-5967-4064-b8e4-7efe80f7586d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- yapay zeka
+- tarifeler
+- tedarik zinciri
+- reshoring
+- Apple
+- Amazon
+- Tesla
+- machine learning
 ---
 <p><br>
 Küresel ticaret, öngörülebilirliğin azaldığı bir döneme girmiş bulunmakta. tariffs, jeopolitik gerilimler ve maliyet artışları, şirketleri yeni bir oyun planına zorlamakta.&nbsp;</p>

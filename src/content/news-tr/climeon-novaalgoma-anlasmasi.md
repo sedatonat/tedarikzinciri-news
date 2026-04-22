@@ -1,14 +1,23 @@
 ---
-title: "Climeon ve NovaAlgoma, Çimento Taşıyıcısında Isı Geri Kazanım Sistemi Kuruyor"
-subtitle: "Climeon ve NovaAlgoma, Çimento Taşıyıcısında Isı Geri Kazanım Sistemi Kuruyor"
-date: "2024-12-09T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_e048c27b8fc44190b76892091e0ef2bd~mv2.jpg"
-imageAlt: "Climeon ve NovaAlgoma, Çimento Taşıyıcısında Isı Geri Kazanım Sistemi Kuruyor"
-wixId: "4578e30b-8fc4-4020-a638-86fff88b915c"
-author: "Sedat Onat"
+title: Climeon ve NovaAlgoma, Çimento Taşıyıcısında Isı Geri Kazanım Sistemi Kuruyor
+subtitle: Climeon ve NovaAlgoma, Çimento Taşıyıcısında Isı Geri Kazanım Sistemi Kuruyor
+date: '2024-12-09T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_e048c27b8fc44190b76892091e0ef2bd~mv2.jpg
+imageAlt: Climeon ve NovaAlgoma, Çimento Taşıyıcısında Isı Geri Kazanım Sistemi Kuruyor
+wixId: 4578e30b-8fc4-4020-a638-86fff88b915c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Climeon
+- NovaAlgoma
+- ısı geri kazanım
+- çimento taşıyıcı
+- denizcilik
+- sürdürülebilirlik
+- ORC teknolojisi
+- metanol yakıt
 ---
 <p><strong>Climeon</strong>, <strong>NovaAlgoma Cement Carriers (NACC)</strong> ile yeni inşa edilecek 38.000 DWT'lik metanol çift yakıtlı çimento taşıyıcısına <strong>HeatPower 300</strong> sistemini kurmak üzere bir anlaşma imzaladı. Bu sistem, geminin motor soğutma suyu ve egzoz gazlarından elde edilen düşük dereceli atık ısıyı kullanarak 300 kW'a kadar sürdürülebilir elektrik üretecek. Bu sayede yakıt tüketimi ve emisyonlar azalacak, NACC'nin sürdürülebilirlik hedeflerine katkı sağlanacak.</p>
 <p><br></p>

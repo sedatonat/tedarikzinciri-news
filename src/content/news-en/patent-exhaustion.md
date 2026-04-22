@@ -1,16 +1,23 @@
 ---
-title: "Patent Exhaustion in Component Sales: New Risks for Manufacturers"
-subtitle: "Patent Exhaustion in Component Sales: New Risks for Manufacturers"
-date: "2025-09-05T00:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_dcb21957fb1d4da59bc604d54f8af9f7~mv2.png"
-imageAlt: "Patent Exhaustion in Component Sales: New Risks for Manufacturers"
-wixId: "ea3c5501-9a16-4fe4-a056-eca8723fc01d"
-author: "Sedat Onat"
+title: 'Patent Exhaustion in Component Sales: New Risks for Manufacturers'
+subtitle: 'Patent Exhaustion in Component Sales: New Risks for Manufacturers'
+date: '2025-09-05T00:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_dcb21957fb1d4da59bc604d54f8af9f7~mv2.png
+imageAlt: 'Patent Exhaustion in Component Sales: New Risks for Manufacturers'
+wixId: ea3c5501-9a16-4fe4-a056-eca8723fc01d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- patent expiration
+- intellectual property
+- supply chain
+- component manufacturers
+- legal risk
+- DRM
+- contract management
 ---
-
 <p>The patent exhaustion doctrine establishes that once a product is lawfully sold under a license, the patent holder's control over that product ends. This principle creates new legal risks for component manufacturers in the supply chain, particularly when products are reused, repaired, or integrated post-sale—situations where manufacturers lose patent protection.</p>
 <p><br></p>
 <p>Following the Lexmark v. Impression Products case, the U.S. Supreme Court confirmed that patent exhaustion applies not only to domestic sales but to international transactions as well. This ruling constrains manufacturers' ability to assert patent claims over products that are resold or repaired within global supply chains.</p>

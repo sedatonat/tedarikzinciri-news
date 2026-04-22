@@ -1,14 +1,22 @@
 ---
-title: "Şubat Ayı Spot Yük Hacmi ve Fiyat Düşüşleri"
-subtitle: "Şubat Ayı Spot Yük Hacmi ve Fiyat Düşüşleri"
-date: "2025-03-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_0f594c6bce5841ad80043b561a101bbe~mv2.jpeg"
-imageAlt: "Şubat Ayı Spot Yük Hacmi ve Fiyat Düşüşleri"
-wixId: "00dd24b3-ae7b-47e4-8095-3ea05c15a6a2"
-author: "Sedat Onat"
+title: Şubat Ayı Spot Yük Hacmi ve Fiyat Düşüşleri
+subtitle: Şubat Ayı Spot Yük Hacmi ve Fiyat Düşüşleri
+date: '2025-03-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_0f594c6bce5841ad80043b561a101bbe~mv2.jpeg
+imageAlt: Şubat Ayı Spot Yük Hacmi ve Fiyat Düşüşleri
+wixId: 00dd24b3-ae7b-47e4-8095-3ea05c15a6a2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- spot yük taşımacılığı
+- DAT
+- kuru yük
+- soğutmalı taşımacılık
+- fiyat düşüşü
+- TVI
+- mevsimsel talep
 ---
 <p style="text-align: justify"><strong>DAT Freight &amp; Analytics</strong> tarafından yayımlanan <strong>DAT Truckload Volume Index</strong> (TVI), Şubat 2025'te spot yük taşımacılığı hacmi ve fiyatlarında düşüşler göstermekte. Bu eğilim, mevsimsel faktörler ve piyasa dinamiklerinin birleşiminden kaynaklanmakta.​</p>
 <p style="text-align: justify"><br></p>

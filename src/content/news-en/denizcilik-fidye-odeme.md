@@ -1,16 +1,21 @@
 ---
-title: "Ransom Payments in Maritime Sector: 7% of Companies Paid Ransoms in the Last 12 Months"
-subtitle: "Ransom Payments in Maritime Sector: 7% of Companies Paid Ransoms in the Last 12 Months"
-date: "2025-03-13T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_d286fac324a7435996993adc96121566~mv2.jpg"
-imageAlt: "Ransom Payments in Maritime Sector: 7% of Companies Paid Ransoms in the Last 12 Months"
-wixId: "6871a130-b47e-494b-b75b-a2111cc51264"
-author: "Sedat Onat"
+title: 'Ransom Payments in Maritime Sector: 7% of Companies Paid Ransoms in the Last 12 Months'
+subtitle: 'Ransom Payments in Maritime Sector: 7% of Companies Paid Ransoms in the Last 12 Months'
+date: '2025-03-13T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_d286fac324a7435996993adc96121566~mv2.jpg
+imageAlt: 'Ransom Payments in Maritime Sector: 7% of Companies Paid Ransoms in the Last 12 Months'
+wixId: 6871a130-b47e-494b-b75b-a2111cc51264
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- maritime sector
+- cybersecurity
+- ransomware
+- port management
+- ship operations
 ---
-
 <p style="text-align: justify">A study of the maritime sector reveals that 7% of companies have been forced to pay ransoms in the last 12 months. This situation demonstrates the impact of cyber security threats on the maritime industry and how vulnerable companies are against these threats.​</p>
 <p><br></p>
 <p style="text-align: justify">The research indicates that ransomware attacks in the maritime sector are increasing and seriously affecting companies' operational processes. Attacks are impacting a wide range of activities, from ship operations to port management, which negatively affects the sector's overall productivity.​</p>

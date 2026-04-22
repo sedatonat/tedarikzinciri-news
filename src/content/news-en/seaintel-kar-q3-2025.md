@@ -1,16 +1,23 @@
 ---
-title: "Container Carriers Reported 5.12 Billion Dollars Profit in Q3 2025"
-subtitle: "Container Carriers Reported 5.12 Billion Dollars Profit in Q3 2025"
-date: "2025-11-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_649bb2b6c30b4eb4ac0b73e82d5e2390~mv2.jpg"
-imageAlt: "According to Sea-Intelligence data, the decline in total operating profit of global container lines in the third quarter of 2025, together with carriers' volume increases, Red Sea bypass networks, and EBIT/TEU results, with detailed analysis"
-wixId: "00920fad-270b-4411-9441-d63202a98dff"
-author: "Sedat Onat"
+title: Container Carriers Reported 5.12 Billion Dollars Profit in Q3 2025
+subtitle: Container Carriers Reported 5.12 Billion Dollars Profit in Q3 2025
+date: '2025-11-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_649bb2b6c30b4eb4ac0b73e82d5e2390~mv2.jpg
+imageAlt: According to Sea-Intelligence data, the decline in total operating profit of global container lines in the third quarter of 2025, together with carriers' volume increases, Red Sea bypass networks, and EBIT/TEU results, with detailed analysis
+wixId: 00920fad-270b-4411-9441-d63202a98dff
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- container shipping
+- Sea-Intelligence
+- COSCO
+- Red Sea
+- freight rates
+- financial performance
+- EBIT
 ---
-
 <p style="text-align: justify"><strong>Sea-Intelligence</strong> disclosed in its financial analysis for the third quarter of 2025 that the total operating profit of the world's largest container carriers declined from <strong>17.06 billion dollars</strong> in the same period last year to <strong>5.12 billion dollars</strong>. This decline reflects the continuation of expected corrections following the extraordinary financial performance witnessed in 2024. The organization nevertheless characterizes the sector's profitability remaining above 2019 levels as a positive indicator in terms of <strong>market stabilisation</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The report reveals that despite the decline in profitability, carriers sustained strong performance on the <strong>operating activity</strong> front. Among the seven major global liner carriers examined, six companies increased their <strong>global transported volumes</strong> in the third quarter. This trend demonstrates that the market has gained operational flexibility despite a demand-driven slowdown.</p>

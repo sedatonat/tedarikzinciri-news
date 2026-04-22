@@ -1,14 +1,21 @@
 ---
-title: "Elektrikli Forklift seçimindeki 5 faktör"
-subtitle: "Elektrikli Forklift seçimindeki 5 faktör"
-date: "2023-11-27T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_f0e2373d8a61412bae20ac83eb4ce943~mv2.jpg"
-imageAlt: "Elektrikli Forklift seçimindeki 5 faktör"
-wixId: "79ab27df-e7d8-4e96-83ec-82b798edac7a"
-author: "Sedat Onat"
+title: Elektrikli Forklift seçimindeki 5 faktör
+subtitle: Elektrikli Forklift seçimindeki 5 faktör
+date: '2023-11-27T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_f0e2373d8a61412bae20ac83eb4ce943~mv2.jpg
+imageAlt: Elektrikli Forklift seçimindeki 5 faktör
+wixId: 79ab27df-e7d8-4e96-83ec-82b798edac7a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- elektrikli forklift
+- filo yönetimi
+- sürdürülebilirlik
+- emisyon
+- operatör konforu
+- bakım maliyeti
 ---
 <p>Elektrikli araçların ve hatta gemilerin geliştirildiği dünyamızda, yıllardır kullanımda olan <strong>Elektrikli </strong><a href="https://www.tedarikzinciriportali.com/post/terim-ekipman-forklift-portif-telehandler"><u><strong>Forklift</strong></u><u> </u></a>seçiminde aşağıdaki 5 farktörü değerlendirmek gerekli;</p>
 <p><br></p>

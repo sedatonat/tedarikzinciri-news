@@ -1,16 +1,23 @@
 ---
-title: "Fashion Industry Concerned About Potential Tariffs on Vietnam"
-subtitle: "Fashion Industry Concerned About Potential Tariffs on Vietnam"
-date: "2025-03-13T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_763537cefbe44cf2832db7e1b8537905~mv2.jpg"
-imageAlt: "Fashion Industry Concerned About Potential Tariffs on Vietnam"
-wixId: "cdbb8c97-fb8f-460f-96e8-e71d9a32397f"
-author: "Sedat Onat"
+title: Fashion Industry Concerned About Potential Tariffs on Vietnam
+subtitle: Fashion Industry Concerned About Potential Tariffs on Vietnam
+date: '2025-03-13T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_763537cefbe44cf2832db7e1b8537905~mv2.jpg
+imageAlt: Fashion Industry Concerned About Potential Tariffs on Vietnam
+wixId: cdbb8c97-fb8f-460f-96e8-e71d9a32397f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Vietnam
+- fashion industry
+- customs tariffs
+- supply chain
+- China
+- Nike
+- textile production
 ---
-
 <p style="text-align: justify">The fashion sector, heavily dependent on imports, is preparing for current and potential tariffs from the countries it sources products from. President <strong>Donald Trump</strong> has proposed various tariff policies in the first 100 days of his second term that could affect the profit margins of the fashion industry. Companies are developing strategies to adapt to these policies.​</p>
 <p><br></p>
 <p style="text-align: justify">Although China remains the most important supplier country for the sector, <strong>Nasim Fussell</strong>, senior vice president at <strong>Lot Sixteen</strong>, a Washington D.C.-based lobbying and communications firm, states, "We are all a bit concerned about Vietnam." Fussell spoke about trade policy during Trump's second term's first 100 days at an executive summit held last week by the <a href="https://www.aafaglobal.org/"><u><strong>American Apparel and Footwear Association</strong></u><u> </u><u><strong>(AAFA)</strong></u></a>.​</p>

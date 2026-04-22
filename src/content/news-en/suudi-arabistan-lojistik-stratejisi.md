@@ -1,16 +1,24 @@
 ---
-title: "Saudi Arabia Pivots to Logistics as Kingdom Reshapes Investment Strategy"
-subtitle: "Saudi Arabia Pivots to Logistics as Kingdom Reshapes Investment Strategy"
-date: "2025-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d8a5d280ccd240138d6e72ef68c7be67~mv2.jpg"
-imageAlt: "Saudi Arabia is shifting its investment focus from real estate megaprojects to maritime and logistics infrastructure due to geopolitical risks in the Red Sea and global supply chain disruptions. The kingdom is prioritizing port, logistics center, and maritime shipping investments under its Vision 2030 objectives."
-wixId: "3c1f4de6-4057-4b3d-9e9a-26bb8bf8fba6"
-author: "Sedat Onat"
+title: Saudi Arabia Pivots to Logistics as Kingdom Reshapes Investment Strategy
+subtitle: Saudi Arabia Pivots to Logistics as Kingdom Reshapes Investment Strategy
+date: '2025-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d8a5d280ccd240138d6e72ef68c7be67~mv2.jpg
+imageAlt: Saudi Arabia is shifting its investment focus from real estate megaprojects to maritime and logistics infrastructure due to geopolitical risks in the Red Sea and global supply chain disruptions. The kingdom is prioritizing port, logistics center, and maritime shipping investments under its Vision 2030 objectives.
+wixId: 3c1f4de6-4057-4b3d-9e9a-26bb8bf8fba6
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Saudi Arabia
+- logistics infrastructure
+- Vision 2030
+- Red Sea
+- port investments
+- maritime transport
+- multimodal transport
+- supply chain
 ---
-
 <p style="text-align: justify"><strong>Saudi Arabia</strong> is reassessing its investment priorities in response to shifting global economic conditions and <strong>geopolitical tensions in the Red Sea</strong>. The Riyadh administration is moving away from <strong>real estate megaprojects</strong> toward <strong>logistics and maritime infrastructure</strong>, aiming to strengthen the <strong>logistics component of its Vision 2030 strategy</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">According to experts, this shift represents a <strong>pragmatic transformation in the kingdom's investment strategy</strong>. Seeking to increase non-oil revenue sources, Saudi Arabia is now allocating more resources to <strong>ports, intermodal transport networks, maritime trade, and warehouse infrastructure</strong>.</p>

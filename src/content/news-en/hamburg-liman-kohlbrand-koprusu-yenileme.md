@@ -1,14 +1,20 @@
 ---
-title: "Hamburg Port's Future: Renewal of the Köhlbrand Bridge"
-subtitle: "Hamburg Port's Future: Renewal of the Köhlbrand Bridge"
-date: "2024-04-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8ca8045bbbde47deae05f043a603d0ec~mv2.jpg"
-imageAlt: "Hamburg Port's Future: Renewal of the Köhlbrand Bridge"
-wixId: "eb2571d2-2aeb-4f2f-893b-c6903496310c"
-author: "Sedat Onat"
+title: 'Hamburg Port''s Future: Renewal of the Köhlbrand Bridge'
+subtitle: 'Hamburg Port''s Future: Renewal of the Köhlbrand Bridge'
+date: '2024-04-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8ca8045bbbde47deae05f043a603d0ec~mv2.jpg
+imageAlt: 'Hamburg Port''s Future: Renewal of the Köhlbrand Bridge'
+wixId: eb2571d2-2aeb-4f2f-893b-c6903496310c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Port of Hamburg
+- Köhlbrand Bridge
+- port infrastructure
+- container terminal
+- Maersk
+- vessel passage
 ---
-
 <p>The Hamburg Senate has voted in favor of constructing a new bridge during a <a href="https://en.wikipedia.org/wiki/Port_of_Hamburg"><u>Hamburg Port</u></a> session, evaluating options related to the passage of the <a href="https://en.wikipedia.org/wiki/K%C3%B6hlbrand_Bridge"><u>Köhlbrand bridge</u></a>. It has been reported that the current <a href="https://en.wikipedia.org/wiki/K%C3%B6hlbrand_Bridge"><u>Köhlbrand Bridge</u></a> has reached the end of its operational life and needs to be replaced. The new bridge is intended to provide greater clearance for vessels, allowing ships of current dimensions and potentially somewhat larger sizes to access the southern section of the port. This will eliminate a constraint that previously posed an obstacle and create new opportunities for port development. According to <a href="https://en.wikipedia.org/wiki/Port_of_Hamburg"><u>Hamburg Port</u></a>, the new bridge is planned to open to traffic from 2040 onwards and will replace the current <a href="https://en.wikipedia.org/wiki/K%C3%B6hlbrand_Bridge"><u>Köhlbrand Bridge</u></a>. The existing bridge will continue to be used and maintained until the new bridge enters service. In March, Maersk's methanol-powered container ship 'Ane Maersk' arrived at Eurogate Container Terminal Hamburg on its first voyage from Asia to Europe.</p>\n<p><br></p>\n<p><strong>Related Article:</strong> <a href="https://www.tedarikzinciriportali.com/post/maersk-baltimore-koprusu-kazasi"><u>Maersk Baltimore Francis Scott Key Bridge Accident</u></a></p>\n<p><br></p>\n<h5>Key Points</h5>\n<ul>\n  <li><p>The Hamburg Senate voted in favor of constructing a new <a href="https://en.wikipedia.org/wiki/K%C3%B6hlbrand_Bridge"><u>Köhlbrand bridge</u></a>.</p></li>\n  <li><p>The current <a href="https://en.wikipedia.org/wiki/K%C3%B6hlbrand_Bridge"><u>Köhlbrand Bridge</u></a> has reached the end of its operational life and requires replacement.</p></li>\n  <li><p>The new bridge will provide greater clearance for vessels, expanding access opportunities to the southern section of the port.</p></li>\n  <li><p>The new bridge is planned to open to traffic in 2040.</p></li>\n  <li><p>The existing bridge will continue to be used until the new bridge is completed.</p></li>\n</ul>\n<p><br></p>\n<p><strong>News Link:</strong> <a href="https://www.porttechnology.org/news/hamburg-senate-advocates-for-kohlbrand-bridge-replacement/"><u>https://www.porttechnology.org/news/hamburg-senate-advocates-for-kohlbrand-bridge-replacement/</u></a></p>

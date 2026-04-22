@@ -1,16 +1,22 @@
 ---
-title: "Visual Capitalist Publishes the 2023 Global Innovation Index"
-subtitle: "Visual Capitalist Publishes the 2023 Global Innovation Index"
-date: "2023-11-14T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_1044c513eab04fd09eea2089827d96d2~mv2.png"
-imageAlt: "Visual Capitalist Publishes the 2023 Global Innovation Index"
-wixId: "cfe5090b-625a-499e-b02a-85294c7ad1ec"
-author: "Sedat Onat"
+title: Visual Capitalist Publishes the 2023 Global Innovation Index
+subtitle: Visual Capitalist Publishes the 2023 Global Innovation Index
+date: '2023-11-14T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_1044c513eab04fd09eea2089827d96d2~mv2.png
+imageAlt: Visual Capitalist Publishes the 2023 Global Innovation Index
+wixId: cfe5090b-625a-499e-b02a-85294c7ad1ec
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- global innovation index
+- Visual Capitalist
+- R&D
+- Turkey
+- technology
+- supercomputer
 ---
-
 <p>Visual Capitalist has published the 2023 Global Innovation Index (incidentally, about half of the translated content remains in English...).<br>
 <br>
 Key takeaways at first glance:<br>

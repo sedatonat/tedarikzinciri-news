@@ -1,16 +1,23 @@
 ---
-title: "Amazon Launches Doorstep Return Service with USPS"
-subtitle: "Amazon Launches Doorstep Return Service with USPS"
-date: "2025-10-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4750aff9d6de472682d3231835e8a223~mv2.jpg"
-imageAlt: "Amazon has partnered with the U.S. Postal Service (USPS) to offer customers doorstep return pickup capabilities. The pilot program was rolled out in select regions during summer months and aims to streamline the e-commerce giant's return process, making it faster and more convenient."
-wixId: "89a40ad1-401d-48d7-9f5e-87d2e76ff416"
-author: "Sedat Onat"
+title: Amazon Launches Doorstep Return Service with USPS
+subtitle: Amazon Launches Doorstep Return Service with USPS
+date: '2025-10-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4750aff9d6de472682d3231835e8a223~mv2.jpg
+imageAlt: Amazon has partnered with the U.S. Postal Service (USPS) to offer customers doorstep return pickup capabilities. The pilot program was rolled out in select regions during summer months and aims to streamline the e-commerce giant's return process, making it faster and more convenient.
+wixId: 89a40ad1-401d-48d7-9f5e-87d2e76ff416
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Amazon
+- USPS
+- doorstep returns
+- reverse logistics
+- e-commerce
+- customer experience
+- returns management
 ---
-
 <p style="text-align: justify"><strong>Amazon</strong> has launched a new partnership with the <strong>U.S. Postal Service (USPS)</strong> to provide customers with a more convenient return experience. Through this collaboration, users will be able to use the <strong>doorstep pickup</strong> option to return eligible products from their homes.</p>
 <p><br></p>
 <p style="text-align: justify">According to a company spokesperson, the <strong>system, which was piloted during the summer months</strong>, is currently active for <strong>select customers</strong>. While Amazon has not disclosed details about the service's full scope, the company stated that the system aims to <strong>increase customer satisfaction and operational efficiency</strong>.</p>

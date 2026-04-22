@@ -1,14 +1,22 @@
 ---
-title: "Global Ports Far East Terminal, Primorsky Krai'de Çok Çocuklu Aileleri Destekleyen En İyi Şirketlerden Biri Oldu"
-subtitle: "Global Ports Far East Terminal, Primorsky Krai'de Çok Çocuklu Aileleri Destekleyen En İyi Şirketlerden Biri Oldu"
-date: "2024-12-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b89540100aa341cc859f5909402001c6~mv2.jpg"
-imageAlt: "Global Ports Far East Terminal, Primorsky Krai'de Çok Çocuklu Aileleri Destekleyen En İyi Şirketlerden Biri Oldu"
-wixId: "ef962c1d-dd6b-44ae-8b78-52806dea12a5"
-author: "Sedat Onat"
+title: Global Ports Far East Terminal, Primorsky Krai'de Çok Çocuklu Aileleri Destekleyen En İyi Şirketlerden Biri Oldu
+subtitle: Global Ports Far East Terminal, Primorsky Krai'de Çok Çocuklu Aileleri Destekleyen En İyi Şirketlerden Biri Oldu
+date: '2024-12-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b89540100aa341cc859f5909402001c6~mv2.jpg
+imageAlt: Global Ports Far East Terminal, Primorsky Krai'de Çok Çocuklu Aileleri Destekleyen En İyi Şirketlerden Biri Oldu
+wixId: ef962c1d-dd6b-44ae-8b78-52806dea12a5
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Global Ports
+- Primorsky Krai
+- sosyal sorumluluk
+- aile dostu politika
+- çalışan hakları
+- liman terminali
+- Rusya
 ---
 <p><strong>Global Ports</strong>'un Uzak Doğu Terminali, <strong>Primorsky Krai</strong> bölgesinde çok çocuklu aileleri destekleme konusundaki üstün çabalarıyla tanındı. Şirket, aile dostu politikaları ve toplum odaklı girişimleri sayesinde bölgedeki en iyi şirketler arasında yer aldı.</p>
 <p><br></p>

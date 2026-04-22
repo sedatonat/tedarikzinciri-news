@@ -1,14 +1,23 @@
 ---
-title: "Kızıldeniz'de Tırmanan Gerilim: ABD Gemiye Yönelik Füze Saldırısı"
-subtitle: "Kızıldeniz'de Tırmanan Gerilim: ABD Gemiye Yönelik Füze Saldırısı"
-date: "2024-01-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_58202542d43642448a2be6a9445ec973~mv2.jpg"
-imageAlt: "Kızıldeniz'de Tırmanan Gerilim: ABD Gemiye Yönelik Füze Saldırısı"
-wixId: "316d3790-6a5c-4f6e-898e-0b1b534df36e"
-author: "Sedat Onat"
+title: 'Kızıldeniz''de Tırmanan Gerilim: ABD Gemiye Yönelik Füze Saldırısı'
+subtitle: 'Kızıldeniz''de Tırmanan Gerilim: ABD Gemiye Yönelik Füze Saldırısı'
+date: '2024-01-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_58202542d43642448a2be6a9445ec973~mv2.jpg
+imageAlt: 'Kızıldeniz''de Tırmanan Gerilim: ABD Gemiye Yönelik Füze Saldırısı'
+wixId: 316d3790-6a5c-4f6e-898e-0b1b534df36e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kızıldeniz
+- konteyner gemisi
+- füze saldırısı
+- Husiler
+- Süveyş Kanalı
+- tedarik zinciri
+- deniz güvenliği
+- Yemen
 ---
 <p>Kızıldeniz'de artan gerilim, Yemen açıklarında ABD'nin "Gibraltar Eagle" adlı konteyner gemisinin füzeyle vurulmasıyla yeni bir boyut kazandı. İngiltere Deniz Ticaret Organizasyonu'nun (UKMTO) raporuna göre, gemi Yemen'in Aden şehri yakınlarında saldırıya uğradı. ABD Merkez Kuvvetler Komutanlığı (CENTCOM), saldırının Husiler tarafından yapıldığını ve geminin önemli bir hasar almadan yoluna devam ettiğini açıkladı.</p>
 <p>İran destekli Husiler, İsrail'in Gazze saldırılarına tepki olarak, Ekim'den bu yana bölgedeki İsrailli şirketlere ait ticari gemilere saldırı düzenliyor. ABD güçleri, Yemen'den atılan füze ve dronları düşürdüğünü duyurdu. Bu saldırılar, Süveyş Kanalı'nın güvenliğini riske atarak küresel ticarette yeni bir tedarik zinciri krizinin sinyallerini veriyor.</p>

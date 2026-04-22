@@ -1,14 +1,22 @@
 ---
-title: "DHL: ABD Tarifelerine Rağmen Küresel Ticaret Büyümeye Devam Ediyor"
-subtitle: "DHL: ABD Tarifelerine Rağmen Küresel Ticaret Büyümeye Devam Ediyor"
-date: "2025-10-23T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b0cef5af6d7a4339933404978e91e3db~mv2.jpg"
-imageAlt: "DHL: ABD Tarifelerine Rağmen Küresel Ticaret Büyümeye Devam Etmekte"
-wixId: "91bba4ac-1e2b-48c0-b4d0-f7b253ec5bab"
-author: "Sedat Onat"
+title: 'DHL: ABD Tarifelerine Rağmen Küresel Ticaret Büyümeye Devam Ediyor'
+subtitle: 'DHL: ABD Tarifelerine Rağmen Küresel Ticaret Büyümeye Devam Ediyor'
+date: '2025-10-23T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b0cef5af6d7a4339933404978e91e3db~mv2.jpg
+imageAlt: 'DHL: ABD Tarifelerine Rağmen Küresel Ticaret Büyümeye Devam Etmekte'
+wixId: 91bba4ac-1e2b-48c0-b4d0-f7b253ec5bab
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- LNG
+- Çin
+- Rusya
+- ABD yaptırımları
+- enerji ticareti
+- Arctic LNG 2
+- Beihai terminali
 ---
 <p style="text-align: justify"><strong>Bloomberg</strong> verilerine göre Çin, <strong>ABD tarafından yaptırım uygulanan Rus sıvılaştırılmış doğalgazını (LNG)</strong> ithal etmeye devam etmekte.</p>
 <p><br>

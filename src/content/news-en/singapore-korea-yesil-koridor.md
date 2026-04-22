@@ -1,16 +1,24 @@
 ---
-title: "Singapore and South Korea Sign Agreement to Establish Green and Digital Maritime Corridor"
-subtitle: "Singapore and South Korea Sign Agreement to Establish Green and Digital Maritime Corridor"
-date: "2025-11-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9303c2d15e8e4296a2f3325b50d0964f~mv2.jpg"
-imageAlt: "Singapore's Ministry of Transport and South Korea's Ministry of Oceans and Fisheries signed a Memorandum of Understanding (MoU) to establish the Singapore–ROK Green and Digital Shipping Corridor (GDSC). The agreement encompasses collaborative efforts in clean fuel infrastructure, digitalization, and training for maritime professionals."
-wixId: "7d6ae1f8-259f-46ce-9c6a-5ffd4097a958"
-author: "Sedat Onat"
+title: Singapore and South Korea Sign Agreement to Establish Green and Digital Maritime Corridor
+subtitle: Singapore and South Korea Sign Agreement to Establish Green and Digital Maritime Corridor
+date: '2025-11-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_9303c2d15e8e4296a2f3325b50d0964f~mv2.jpg
+imageAlt: Singapore's Ministry of Transport and South Korea's Ministry of Oceans and Fisheries signed a Memorandum of Understanding (MoU) to establish the Singapore–ROK Green and Digital Shipping Corridor (GDSC). The agreement encompasses collaborative efforts in clean fuel infrastructure, digitalization, and training for maritime professionals.
+wixId: 7d6ae1f8-259f-46ce-9c6a-5ffd4097a958
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Singapore
+- South Korea
+- green shipping
+- digital corridor
+- decarbonization
+- green fuel
+- maritime transport
+- bunkering
 ---
-
 <p style="text-align: justify"><strong>Singapore</strong> and <strong>South Korea</strong>, two of Asia's major maritime hubs, have joined forces to advance the <strong>decarbonization and digital transformation of maritime shipping</strong>. The relevant ministries of both countries signed a <strong>Memorandum of Understanding (MoU)</strong> to establish the <strong>Singapore–ROK Green and Digital Shipping Corridor (GDSC)</strong>.</p>
 <p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>Signing ceremony and parties</strong></h5>

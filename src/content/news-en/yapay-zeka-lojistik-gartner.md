@@ -1,16 +1,23 @@
 ---
-title: "Artificial Intelligence in Logistics According to Gartner: High-Return Use Cases Come Into Focus"
-subtitle: "Artificial Intelligence in Logistics According to Gartner: High-Return Use Cases Come Into Focus"
-date: "2025-12-09T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_66042d66384c44c09bdf43dee09e51a9~mv2.jpg"
-imageAlt: "Detailed analysis of AI scenarios offering high value and applicability in warehousing, transportation, and fulfillment processes, according to Gartner's AI use-case framework published for logistics"
-wixId: "c3a0b84d-ae74-4d6b-83b2-c792840d40cf"
-author: "Sedat Onat"
+title: 'Artificial Intelligence in Logistics According to Gartner: High-Return Use Cases Come Into Focus'
+subtitle: 'Artificial Intelligence in Logistics According to Gartner: High-Return Use Cases Come Into Focus'
+date: '2025-12-09T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_66042d66384c44c09bdf43dee09e51a9~mv2.jpg
+imageAlt: Detailed analysis of AI scenarios offering high value and applicability in warehousing, transportation, and fulfillment processes, according to Gartner's AI use-case framework published for logistics
+wixId: c3a0b84d-ae74-4d6b-83b2-c792840d40cf
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- artificial intelligence
+- logistics
+- Gartner
+- warehouse management
+- predictive maintenance
+- computer vision
+- Softeon
 ---
-
 <p style="text-align: justify"><strong>Artificial intelligence (AI)</strong> applications in the logistics sector are moving beyond experimental projects to become solutions delivering directly <strong>measurable business value</strong>. The <em>Artificial Intelligence Use-Case Comparison for Logistics</em> report published by <strong>Gartner</strong> addresses this transformation through a systematic framework, offering comparative analysis of <strong>20 distinct AI-enabled use cases</strong> applicable to logistics operations. The report scores each use case against <strong>business value</strong> and <strong>feasibility</strong> criteria, providing logistics leaders with a clear roadmap.</p>
 <p><br></p>
 <p style="text-align: justify">Gartner classifies AI use cases into three main categories: <strong>Likely Wins</strong>, <strong>Calculated Risks</strong>, and <strong>Marginal Gains</strong>. This segmentation clarifies where companies should begin and which areas warrant cautious approach.</p>

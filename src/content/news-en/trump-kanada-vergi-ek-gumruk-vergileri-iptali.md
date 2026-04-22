@@ -1,16 +1,23 @@
 ---
-title: "Trump Reverses Steel and Aluminum Tariff Increase on Canada"
-subtitle: "Trump Reverses Steel and Aluminum Tariff Increase on Canada"
-date: "2025-03-11T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_80cac6eb90bd429888eb25c00bcda3fc~mv2.jpg"
-imageAlt: "Trump Reverses Steel and Aluminum Tariff Increase on Canada"
-wixId: "994091b6-26a5-41d4-a41a-c9c085370f9a"
-author: "Sedat Onat"
+title: Trump Reverses Steel and Aluminum Tariff Increase on Canada
+subtitle: Trump Reverses Steel and Aluminum Tariff Increase on Canada
+date: '2025-03-11T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_80cac6eb90bd429888eb25c00bcda3fc~mv2.jpg
+imageAlt: Trump Reverses Steel and Aluminum Tariff Increase on Canada
+wixId: 994091b6-26a5-41d4-a41a-c9c085370f9a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- customs duties
+- steel aluminum
+- Trump
+- Canada
+- trade war
+- European Union
+- retaliatory tariffs
 ---
-
 <p style="text-align: justify">U.S. President <strong>Donald Trump</strong> has reversed his plan to increase tariffs on steel and aluminum imported from Canada. Initially, the plan was to double the existing 25% tariff on these metals. However, the Trump administration backed away from this decision after Ontario suspended plans to impose a 25% additional tariff on electricity exports to the United States. ​</p>
 <p><br></p>
 <p style="text-align: justify">Ontario Premier <strong>Doug Ford</strong> announced that his province had suspended the additional electricity tariff it had planned to apply to the United States following talks with U.S. Commerce Secretary <strong>Howard Lutnick</strong>. Following this development, the Trump administration cancelled the additional 25% tariff on steel and aluminum imports from Canada and maintained the existing 25% tariff rate. ​</p>

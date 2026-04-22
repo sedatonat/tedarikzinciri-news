@@ -1,14 +1,22 @@
 ---
-title: "Ürün Tankeri Filosu 2025'te 16 Yılın Zirvesine Ulaşacak"
-subtitle: "Ürün Tankeri Filosu 2025'te 16 Yılın Zirvesine Ulaşacak"
-date: "2025-01-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d47bdc0d0ad3468c88d8ca3d4fc157f1~mv2.jpg"
-imageAlt: "Ürün Tankeri Filosu 2025'te 16 Yılın Zirvesine Ulaşacak"
-wixId: "1bb665de-a369-4ed8-b9cb-b3a752002ee8"
-author: "Sedat Onat"
+title: Ürün Tankeri Filosu 2025'te 16 Yılın Zirvesine Ulaşacak
+subtitle: Ürün Tankeri Filosu 2025'te 16 Yılın Zirvesine Ulaşacak
+date: '2025-01-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d47bdc0d0ad3468c88d8ca3d4fc157f1~mv2.jpg
+imageAlt: Ürün Tankeri Filosu 2025'te 16 Yılın Zirvesine Ulaşacak
+wixId: 1bb665de-a369-4ed8-b9cb-b3a752002ee8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ürün tankeri
+- BIMCO
+- filo kapasitesi
+- denizcilik
+- gemi siparişleri
+- alternatif yakıt
+- Kızıldeniz
 ---
 <p style="text-align: justify"><strong>BIMCO</strong>'nun son raporuna göre, ürün tankeri sektöründe 2025 yılında filo kapasitesinde önemli bir artış beklenmekte. Yeni inşa teslimatlarının 12 milyon deadweight ton (DWT) seviyesine ulaşması öngörülüyor; bu, 2024'teki 3,4 milyon DWT'ye kıyasla %256'lık bir artışı temsil etmekte.</p>
 <p style="text-align: justify"><br></p>

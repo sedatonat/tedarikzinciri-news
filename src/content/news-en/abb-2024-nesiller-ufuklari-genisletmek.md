@@ -1,16 +1,24 @@
 ---
-title: "ABB's 2024 Generations Publication: Expanding Horizons"
-subtitle: "ABB's 2024 Generations Publication: Expanding Horizons"
-date: "2024-12-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2946375ba56744a5818e0caef036f9e7~mv2.jpg"
-imageAlt: "ABB's 2024 Generations Publication: Expanding Horizons"
-wixId: "4999bda3-f25a-4ee9-b6cb-535832d19ec8"
-author: "Sedat Onat"
+title: 'ABB''s 2024 Generations Publication: Expanding Horizons'
+subtitle: 'ABB''s 2024 Generations Publication: Expanding Horizons'
+date: '2024-12-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2946375ba56744a5818e0caef036f9e7~mv2.jpg
+imageAlt: 'ABB''s 2024 Generations Publication: Expanding Horizons'
+wixId: 4999bda3-f25a-4ee9-b6cb-535832d19ec8
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- ABB
+- maritime
+- sustainability
+- electrification
+- digitalization
+- artificial intelligence
+- hybrid ferry
+- propulsion system
 ---
-
 <p><strong>ABB</strong> has released its 2024 <strong>Generations</strong> articles under the theme "Expanding Horizons," designed to explore technological innovations, personalities, and collaborations that enable a smarter, safer, and more sustainable future in the maritime sector.</p>
 <p><br></p>
 <p>This year's <strong>Generations</strong> publication emphasizes the maritime industry's need to transition to a new energy paradigm, increase operational efficiency, and adopt sustainable business models and best practices. It further highlights that accelerating operational excellence while promoting decarbonization means navigating new horizons, unlocking innovation, seizing opportunities, and achieving success. Throughout this process, the unique expertise of <strong>ABB Marine &amp; Ports</strong> in electrification, digitalization, and automation takes center stage.</p>

@@ -1,14 +1,23 @@
 ---
-title: "Depo Otomasyonunda Gerçek Getiri: Maliyet Tasarrufunun Ötesi"
-subtitle: "Depo Otomasyonunda Gerçek Getiri: Maliyet Tasarrufunun Ötesi"
-date: "2025-09-10T00:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_d3c7a45490fc46d8baa020c5ab70b9b5~mv2.png"
-imageAlt: "Depo Otomasyonunda Gerçek Getiri: Maliyet Tasarrufunun Ötesi"
-wixId: "df27db87-4f02-4e28-9496-747b38e4a7b8"
-author: "Sedat Onat"
+title: 'Depo Otomasyonunda Gerçek Getiri: Maliyet Tasarrufunun Ötesi'
+subtitle: 'Depo Otomasyonunda Gerçek Getiri: Maliyet Tasarrufunun Ötesi'
+date: '2025-09-10T00:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_d3c7a45490fc46d8baa020c5ab70b9b5~mv2.png
+imageAlt: 'Depo Otomasyonunda Gerçek Getiri: Maliyet Tasarrufunun Ötesi'
+wixId: df27db87-4f02-4e28-9496-747b38e4a7b8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- depo otomasyonu
+- ROI
+- yapay zeka
+- robotik
+- digital twin
+- GreyOrange
+- Locus Robotics
+- Geek+
 ---
 <p>Depo otomasyonu artık yalnız maliyet düşürme değil, uzun vadeli yatırım getirisi (ROI) ve dayanıklılık açısından değerlendirilmektedir. AI destekli sistemler ve robotik entegrasyonlar, manuel hataları azaltmakla kalmayıp veri doğruluğunu da artırmaktadır. GreyOrange, Locus Robotics ve Geek+ gibi üreticiler, otomasyonun toplam sahip olma maliyetini üç yıl içinde geri kazandırabildiğini raporlamaktadır.</p>
 <p><br></p>

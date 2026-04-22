@@ -1,14 +1,22 @@
 ---
-title: "ABD LNG İhracatında Yeni Lisans Moratoryumunu Kaldırdı"
-subtitle: "ABD LNG İhracatında Yeni Lisans Moratoryumunu Kaldırdı"
-date: "2025-01-21T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/fb82545edb1641db909d551d5f65382b.jpg"
-imageAlt: "ABD LNG İhracatında Yeni Lisans Moratoryumunu Kaldırdı"
-wixId: "54b6b9f0-3d0e-4a1b-9c48-a2c566af8683"
-author: "Sedat Onat"
+title: ABD LNG İhracatında Yeni Lisans Moratoryumunu Kaldırdı
+subtitle: ABD LNG İhracatında Yeni Lisans Moratoryumunu Kaldırdı
+date: '2025-01-21T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/fb82545edb1641db909d551d5f65382b.jpg
+imageAlt: ABD LNG İhracatında Yeni Lisans Moratoryumunu Kaldırdı
+wixId: 54b6b9f0-3d0e-4a1b-9c48-a2c566af8683
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- LNG ihracatı
+- ABD
+- Donald Trump
+- enerji politikası
+- doğal gaz
+- küresel enerji piyasası
+- jeopolitik
 ---
 <p style="text-align: justify">ABD Başkanı Donald Trump, seçim kampanyasında verdiği sözlerden birini yerine getirerek, ABD'nin sıvılaştırılmış doğal gaz (<strong>LNG</strong>) ihracatına yönelik yeni lisanslar üzerindeki moratoryumu kaldırdı. Bu adım, ABD'nin enerji sektöründe önemli bir değişimi işaret etmekte ve küresel enerji piyasalarını etkileme potansiyeline sahip.​</p>
 <p><br></p>

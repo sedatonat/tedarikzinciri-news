@@ -1,16 +1,24 @@
 ---
-title: "DB Cargo Tests 360-Degree AI-Based Inspection System for Freight Cars at Munich North"
-subtitle: "DB Cargo Tests 360-Degree AI-Based Inspection System for Freight Cars at Munich North"
-date: "2025-12-10T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_fd6d1c5ef668467d9355b71d27620588~mv2.jpg"
-imageAlt: "Technical overview of the automated inspection pilot deployed by DB Cargo at Munich North marshaling yard, based on underfloor imaging, acoustic analysis and AI integration, including detailed summary of its objectives and role in the \"Smart Freight Wagon\" vision"
-wixId: "a8a9be8b-00f7-4d6f-a4ac-316d5eaa16f3"
-author: "Sedat Onat"
+title: DB Cargo Tests 360-Degree AI-Based Inspection System for Freight Cars at Munich North
+subtitle: DB Cargo Tests 360-Degree AI-Based Inspection System for Freight Cars at Munich North
+date: '2025-12-10T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_fd6d1c5ef668467d9355b71d27620588~mv2.jpg
+imageAlt: Technical overview of the automated inspection pilot deployed by DB Cargo at Munich North marshaling yard, based on underfloor imaging, acoustic analysis and AI integration, including detailed summary of its objectives and role in the "Smart Freight Wagon" vision
+wixId: a8a9be8b-00f7-4d6f-a4ac-316d5eaa16f3
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- DB Cargo
+- AI
+- rail logistics
+- automation
+- 360-degree monitoring
+- smart wagon
+- sound analysis
+- maintenance systems
 ---
-
 <p style="text-align: justify"><strong>DB Cargo</strong> is operating a next-generation <strong>fully automated wagon inspection pilot</strong> at the <strong>Munich North marshaling yard</strong>, aligned with <strong>digitalization and automation</strong> objectives in European rail freight transportation. The project aims to conduct <strong>"360-degree wagon analysis"</strong> by monitoring the technical condition of freight cars not only from the side and top surfaces but also from the <strong>underside</strong>. This approach seeks to make maintenance processes <strong>faster, more accurate, and more predictable</strong> in rail freight transportation.</p>
 <p><br></p>
 <p style="text-align: justify">In conventional practice, freight cars are mostly inspected visually from the sides and top. However, this method makes it difficult to detect damage early, particularly in <strong>axles, braking systems, and undercarriage components</strong>. With the Munich North pilot, DB Cargo plans to eliminate this blind spot and transition from a <strong>reactive to a proactive</strong> model in maintenance processes.</p>

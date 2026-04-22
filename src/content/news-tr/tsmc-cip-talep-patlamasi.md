@@ -1,14 +1,22 @@
 ---
-title: "TSMC Talep Patlamasına Yetişmek İçin Yarışıyor"
-subtitle: "TSMC Talep Patlamasına Yetişmek İçin Yarışıyor"
-date: "2025-07-17T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_514b25fa7e4d42f88f5753d3cdd14a1e~mv2.png"
-imageAlt: "Tsmc Talep Patlamasına Yetişmek İçin Yarışıyor"
-wixId: "22cdc117-e5f0-42fc-a7e7-bb03a01df4fd"
-author: "Sedat Onat"
+title: TSMC Talep Patlamasına Yetişmek İçin Yarışıyor
+subtitle: TSMC Talep Patlamasına Yetişmek İçin Yarışıyor
+date: '2025-07-17T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_514b25fa7e4d42f88f5753d3cdd14a1e~mv2.png
+imageAlt: Tsmc Talep Patlamasına Yetişmek İçin Yarışıyor
+wixId: 22cdc117-e5f0-42fc-a7e7-bb03a01df4fd
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- TSMC
+- yarı iletken
+- kapasite yatırımı
+- yapay zeka
+- tedarik dayanıklılığı
+- CoWoS
+- HBM
 ---
 <p style="text-align: justify"><strong>TSMC (Taiwan Semiconductor Manufacturing Company)</strong>, küresel yarı iletken talebindeki hızlı artışa yanıt olarak <strong>kapasite yatırımlarını hızlandırıyor.</strong> Şirket, hem ileri üretim teknolojilerinde liderliğini sürdürmek hem de tedarik güvenliğini güçlendirmek için <strong>çok boyutlu bir genişleme planı</strong> uygulamakta.</p>
 <p><br></p>

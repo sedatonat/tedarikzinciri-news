@@ -1,16 +1,24 @@
 ---
-title: "Safran Plans to Boost Procurement from India by 400% by 2030"
-subtitle: "Safran Plans to Boost Procurement from India by 400% by 2030"
-date: "2025-11-26T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_d2afe7f70bd646bb83096f87e5440c76~mv2.jpg"
-imageAlt: "Safran's target to increase procurement volume from India from 100 million euros to 500 million euros, MRO investments, Rafale engine projects, localization strategy, and the global supply chain transformation in the context of India's emerging aviation ecosystem."
-wixId: "b0ee926e-c389-40df-a4bd-6a96f9d94b61"
-author: "Sedat Onat"
+title: Safran Plans to Boost Procurement from India by 400% by 2030
+subtitle: Safran Plans to Boost Procurement from India by 400% by 2030
+date: '2025-11-26T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_d2afe7f70bd646bb83096f87e5440c76~mv2.jpg
+imageAlt: Safran's target to increase procurement volume from India from 100 million euros to 500 million euros, MRO investments, Rafale engine projects, localization strategy, and the global supply chain transformation in the context of India's emerging aviation ecosystem.
+wixId: b0ee926e-c389-40df-a4bd-6a96f9d94b61
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Safran
+- India
+- supply chain
+- aviation
+- MRO
+- defense industry
+- LEAP engine
+- Rafale
 ---
-
 <p style="text-align: justify">French aerospace giant <strong>Safran SA</strong> has announced a strategic move that reinforces its position in India's emerging aviation market at a time when the company is restructuring its global supply chain. The company aims to increase component procurement from India from the current <strong>100 million euros to 500 million euros</strong> by 2030. This increase corresponds to a <strong>400% growth</strong> in Safran's annual purchases from India, making the country one of the company's first-tier sourcing centers in its global supply network.</p>
 <p><br></p>
 <p style="text-align: justify">Safran CEO <strong>Olivier Andriès</strong> emphasized in an interview with Bloomberg that India's supply potential is advancing rapidly in both volume and quality. According to the CEO, the country attracts global aerospace players not only through cost advantages, but also through <strong>indigenous technological capabilities, a defense ecosystem suited to the threat environment</strong>, and long-term aviation investments.</p>

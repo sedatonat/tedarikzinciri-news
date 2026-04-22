@@ -1,16 +1,24 @@
 ---
-title: "Train Traffic on Kazakhstan-China Border Sets Record in 2024"
-subtitle: "Train Traffic on Kazakhstan-China Border Sets Record in 2024"
-date: "2025-01-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_940cba240f254b76a81ed4c7cee49fc6~mv2.jpg"
-imageAlt: "Train Traffic on Kazakhstan-China Border Sets Record in 2024"
-wixId: "c62c8d19-9dd2-4bbc-b97d-2100edfbad21"
-author: "Sedat Onat"
+title: Train Traffic on Kazakhstan-China Border Sets Record in 2024
+subtitle: Train Traffic on Kazakhstan-China Border Sets Record in 2024
+date: '2025-01-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_940cba240f254b76a81ed4c7cee49fc6~mv2.jpg
+imageAlt: Train Traffic on Kazakhstan-China Border Sets Record in 2024
+wixId: c62c8d19-9dd2-4bbc-b97d-2100edfbad21
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Kazakhstan
+- China
+- rail transport
+- Middle Corridor
+- Dostyk border crossing
+- container transport
+- border crossing
+- logistics infrastructure
 ---
-
 <p style="text-align: justify">In 2024, railway border crossings between <strong>Kazakhstan</strong> and <strong>China</strong> experienced significant growth. The <strong>Dostyk</strong> border gate, in particular, saw considerable congestion during the autumn months. Annual statistics show that a decade-long record was broken at Dostyk in 2024. Cargo volumes passing through this border gate increased by 13.1 percent compared to 2023, reaching 32 million tonnes. This increase underscored the importance of railway transportation along the <strong>Middle Corridor</strong> once again.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Record Growth at Dostyk Border Gate</strong></p>

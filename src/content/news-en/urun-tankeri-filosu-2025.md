@@ -1,16 +1,23 @@
 ---
-title: "Product Tanker Fleet to Reach 16-Year High in 2025"
-subtitle: "Product Tanker Fleet to Reach 16-Year High in 2025"
-date: "2025-01-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d47bdc0d0ad3468c88d8ca3d4fc157f1~mv2.jpg"
-imageAlt: "Product Tanker Fleet to Reach 16-Year High in 2025"
-wixId: "1bb665de-a369-4ed8-b9cb-b3a752002ee8"
-author: "Sedat Onat"
+title: Product Tanker Fleet to Reach 16-Year High in 2025
+subtitle: Product Tanker Fleet to Reach 16-Year High in 2025
+date: '2025-01-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d47bdc0d0ad3468c88d8ca3d4fc157f1~mv2.jpg
+imageAlt: Product Tanker Fleet to Reach 16-Year High in 2025
+wixId: 1bb665de-a369-4ed8-b9cb-b3a752002ee8
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- product tanker
+- BIMCO
+- fleet capacity
+- maritime
+- ship orders
+- alternative fuel
+- Red Sea
 ---
-
 <p style="text-align: justify"><strong>BIMCO</strong>'s latest report indicates significant fleet capacity growth expected in the product tanker sector in 2025. New ship deliveries are projected to reach 12 million deadweight tons (DWT); this represents a 256% increase compared to 3.4 million DWT in 2024.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">This growth emerges as a result of intense contracting activity conducted during 2023-2024. Over this period, a total of 551 new ship orders with a combined 38.7 million DWT capacity were placed; this figure significantly exceeds the previous decade's annual average of 122 ships.</p>

@@ -1,14 +1,23 @@
 ---
-title: "Ulaşım Yönetiminin Geleceği"
-subtitle: "Ulaşım Yönetiminin Geleceği"
-date: "2025-07-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_70bb056084b442be86a3f8fbce151491~mv2.png"
-imageAlt: "Ulaşım Yönetiminin Geleceği: Yeni Dönemi Yönetmek"
-wixId: "0556062d-08dc-4ad9-837d-8a353f105734"
-author: "Sedat Onat"
+title: Ulaşım Yönetiminin Geleceği
+subtitle: Ulaşım Yönetiminin Geleceği
+date: '2025-07-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_70bb056084b442be86a3f8fbce151491~mv2.png
+imageAlt: 'Ulaşım Yönetiminin Geleceği: Yeni Dönemi Yönetmek'
+wixId: 0556062d-08dc-4ad9-837d-8a353f105734
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- TMS
+- ulaşım yönetimi
+- yapay zeka
+- karbon muhasebesi
+- dinamik fiyatlandırma
+- gerçek zamanlı görünürlük
+- çok modlu taşımacılık
+- sürdürülebilirlik
 ---
 <p style="text-align: justify"><strong>Ulaşım yönetimi (Transportation Management)</strong>, klasik <strong>TMS (Transportation Management System)</strong> çerçevesinin ötesine geçerek <strong>event-driven (olay bazlı)</strong>, <strong>öngörücü (predictive)</strong> ve giderek <strong>özerk (autonomous)</strong> bir yapıya evrilmektedir. Yeni nesil sistemler artık yalnızca taşımayı planlamakla kalmıyor; gecikmeleri önceden tahmin ediyor, boşta kapasiteyi minimize ediyor ve ağ genelinde maliyet–hız–karbon dengesini optimize ediyor.</p>
 <p><br></p>

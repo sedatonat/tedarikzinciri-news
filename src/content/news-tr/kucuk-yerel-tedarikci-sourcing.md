@@ -1,14 +1,23 @@
 ---
-title: "Şirketler Tedarikte Daha Fazla Küçük ve Yerel Tedarikçiye Yöneliyor"
-subtitle: "Şirketler Tedarikte Daha Fazla Küçük ve Yerel Tedarikçiye Yöneliyor"
-date: "2025-12-10T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_fc9271da527a48ebbd3989876153e051~mv2.jpg"
-imageAlt: "Supplier.io’nun 2025 State of Supplier Diversity Report’una göre şirketlerin artan tarifeler, jeopolitik riskler ve tedarik zinciri kırılganlığı nedeniyle küçük ve yerel tedarikçileri stratejik kaynak olarak konumlandırmasına dair kapsamlı özet"
-wixId: "176f47c0-5749-46e2-8f04-02bfb338ca16"
-author: "Sedat Onat"
+title: Şirketler Tedarikte Daha Fazla Küçük ve Yerel Tedarikçiye Yöneliyor
+subtitle: Şirketler Tedarikte Daha Fazla Küçük ve Yerel Tedarikçiye Yöneliyor
+date: '2025-12-10T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_fc9271da527a48ebbd3989876153e051~mv2.jpg
+imageAlt: Supplier.io’nun 2025 State of Supplier Diversity Report’una göre şirketlerin artan tarifeler, jeopolitik riskler ve tedarik zinciri kırılganlığı nedeniyle küçük ve yerel tedarikçileri stratejik kaynak olarak konumlandırmasına dair kapsamlı özet
+wixId: 176f47c0-5749-46e2-8f04-02bfb338ca16
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tedarikçi çeşitliliği
+- küçük tedarikçiler
+- yerel tedarikçiler
+- tedarik zinciri dayanıklılığı
+- sourcing stratejisi
+- tedarikçi sertifikasyonu
+- Supplier.io
+- RFP
 ---
 <p style="text-align: justify">Küresel tedarik zincirlerinde artan belirsizlik, şirketlerin <strong>sourcing strategy</strong> yaklaşımlarında belirgin bir yön değişikliğine yol açmakta. <strong>Supplier.io</strong> tarafından yayımlanan <strong>2025 State of Supplier Diversity Report</strong>, şirketlerin <strong>supplier diversity</strong> programlarını artık yalnızca kurumsal itibar veya sosyal sorumluluk başlığı altında değil, doğrudan <strong>operasyonel dayanıklılık ve iş performansı</strong> ile ilişkilendirdiğini ortaya koyuyor. Bu dönüşümün merkezinde ise <strong>küçük ve yerel tedarikçiler</strong> bulunmakta.</p>
 <p><br></p>

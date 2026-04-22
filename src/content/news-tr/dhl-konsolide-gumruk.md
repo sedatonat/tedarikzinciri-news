@@ -1,14 +1,22 @@
 ---
-title: "DHL Global Forwarding, ABD Perakendecileri İçin Konsolide Gümrük Hizmetini Başlattı"
-subtitle: "DHL Global Forwarding, ABD Perakendecileri İçin Konsolide Gümrük Hizmetini Başlattı"
-date: "2025-10-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_811e814521a54fe0b11d3b4266eb235d~mv2.jpeg"
-imageAlt: "DHL Global Forwarding, ABD’ye yapılan yüksek hacimli ithalatlarda gümrük süreçlerini tek beyan altında birleştiren yeni “Consolidated Clearance Service” hizmetini duyurdu. Bu sistem, perakendecilere maliyet, hız ve uyumluluk avantajı sağlayarak özellikle Black Friday ve tatil dönemlerinde operasyonel verimliliği artırmayı hedefliyor."
-wixId: "b76a5ead-4a1b-4b47-b83b-b80257516917"
-author: "Sedat Onat"
+title: DHL Global Forwarding, ABD Perakendecileri İçin Konsolide Gümrük Hizmetini Başlattı
+subtitle: DHL Global Forwarding, ABD Perakendecileri İçin Konsolide Gümrük Hizmetini Başlattı
+date: '2025-10-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_811e814521a54fe0b11d3b4266eb235d~mv2.jpeg
+imageAlt: DHL Global Forwarding, ABD’ye yapılan yüksek hacimli ithalatlarda gümrük süreçlerini tek beyan altında birleştiren yeni “Consolidated Clearance Service” hizmetini duyurdu. Bu sistem, perakendecilere maliyet, hız ve uyumluluk avantajı sağlayarak özellikle Black Friday ve tatil dönemlerinde operasyonel verimliliği artırmayı hedefliyor.
+wixId: b76a5ead-4a1b-4b47-b83b-b80257516917
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DHL Global Forwarding
+- konsolide gümrükleme
+- ABD ithalat
+- e-ticaret lojistiği
+- perakende
+- gümrük hizmetleri
+- de minimis
 ---
 <p style="text-align: justify"><strong>DHL Global Forwarding (DGF)</strong>, <strong>ABD perakende ithalat süreçlerini sadeleştirmek ve maliyetleri azaltmak</strong> amacıyla yeni bir <strong>konsolide gümrükleme hizmeti (Consolidated Clearance Service)</strong> başlattı. Şirket, bu yeni sistemin özellikle <strong>yüksek hacimli e-ticaret ve perakende ithalatçıları</strong> için tasarlandığını ve <strong>gümrük sürecini tek bir toplu beyan üzerinden yürüterek</strong> operasyonları kolaylaştırdığını açıkladı.</p>
 <p><br></p>

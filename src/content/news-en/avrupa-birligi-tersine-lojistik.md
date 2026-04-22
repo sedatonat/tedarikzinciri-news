@@ -1,16 +1,24 @@
 ---
-title: "Europe's Railway Sector Warns of \"Reverse Modal Shift\" Over 44-Ton Truck Approval"
-subtitle: "Europe's Railway Sector Warns of \"Reverse Modal Shift\" Over 44-Ton Truck Approval"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b878eda8869a40d89f38fcfc3c626bec~mv2.jpg"
-imageAlt: "Joint warning by CER, ERFA, UIRR, UIP and UNIFE against the Weights & Dimensions Directive, detailing the impact of cross-border permits for 44-ton fossil-fuel trucks on rail freight, reverse modal shift risks, and threats to 2050 targets"
-wixId: "3e316df6-4553-4953-b9dc-43d92e0327ce"
-author: "Sedat Onat"
+title: Europe's Railway Sector Warns of "Reverse Modal Shift" Over 44-Ton Truck Approval
+subtitle: Europe's Railway Sector Warns of "Reverse Modal Shift" Over 44-Ton Truck Approval
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b878eda8869a40d89f38fcfc3c626bec~mv2.jpg
+imageAlt: Joint warning by CER, ERFA, UIRR, UIP and UNIFE against the Weights & Dimensions Directive, detailing the impact of cross-border permits for 44-ton fossil-fuel trucks on rail freight, reverse modal shift risks, and threats to 2050 targets
+wixId: 3e316df6-4553-4953-b9dc-43d92e0327ce
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- rail transport
+- modal shift
+- 44-ton truck
+- European Union
+- intermodal transport
+- gigaliner
+- sustainable logistics
+- carbon emissions
 ---
-
 <p style="text-align: justify">Europe's leading railway institutions — <strong>CER</strong>, <strong>ERFA</strong>, <strong>UIRR</strong>, <strong>UIP</strong> and <strong>UNIFE</strong> — have issued a strongly-worded joint statement opposing the European Council's approach under the <strong>Weights and Dimensions Directive (WDD)</strong> to grant cross-border transit permits for 44-ton fossil-fuel trucks and mega-trucks known as <strong>European Modular Systems (EMS)</strong> or "<strong>gigaliners</strong>". According to sector representatives, this regulation reverses the EU's long-established <strong>rail–intermodal</strong> policies, raising the risk of "<strong>reverse modal shift</strong>".</p>
 <p><br></p>
 <p style="text-align: justify">Currently in the EU, cross-border road transport is generally capped at <strong>40 tons</strong>. This limit has been a key parameter making the transport of heavy and long-distance cargo via <strong>rail freight</strong> economically more attractive. The Council's approach eliminates this advantage by permitting 44-ton fossil-fuel trucks. Sector representatives argue this constitutes a policy that <strong>subsidizes roads while weakening railways</strong>.</p>

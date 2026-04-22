@@ -1,14 +1,23 @@
 ---
-title: "Packsize Ve EFI Birleşik Kutu Üretim Ve Baskı Sistemini Tanıttı"
-subtitle: "Packsize Ve EFI Birleşik Kutu Üretim Ve Baskı Sistemini Tanıttı"
-date: "2025-10-02T00:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_21ca60f9bdf04b5a8946aee1f2bc771a~mv2.jpg"
-imageAlt: "Packsize Ve EFI Birleşik Kutu Üretim Ve Baskı Sistemini Tanıttı"
-wixId: "f9eb40e8-1fbe-4749-b846-e0bbcc009c68"
-author: "Sedat Onat"
+title: Packsize Ve EFI Birleşik Kutu Üretim Ve Baskı Sistemini Tanıttı
+subtitle: Packsize Ve EFI Birleşik Kutu Üretim Ve Baskı Sistemini Tanıttı
+date: '2025-10-02T00:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_21ca60f9bdf04b5a8946aee1f2bc771a~mv2.jpg
+imageAlt: Packsize Ve EFI Birleşik Kutu Üretim Ve Baskı Sistemini Tanıttı
+wixId: f9eb40e8-1fbe-4749-b846-e0bbcc009c68
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Packsize
+- EFI
+- X5 Nozomi
+- e-ticaret
+- ambalaj otomasyonu
+- dijital baskı
+- right-sizing
+- sürdürülebilirlik
 ---
 <p>Packsize ile EFI işbirliğiyle geliştirilen X5 Nozomi sistemi, tek akışta kutu üretimi ve tam renkli doğrudan baskıyı birleştirerek e‑ticaret ve perakende sipariş karşılama operasyonlarına yeni bir kapasite katmanı getirmekte.&nbsp;</p>
 <p><br></p>

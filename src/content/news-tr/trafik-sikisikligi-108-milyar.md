@@ -1,14 +1,22 @@
 ---
-title: "Trafik Sıkışıklığı ABD'de Kamyon Taşımacılığına 108 Milyar Dolara Mal Oluyor"
-subtitle: "Trafik Sıkışıklığı ABD'de Kamyon Taşımacılığına 108 Milyar Dolara Mal Oluyor"
-date: "2025-02-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_18629bdf5e6c4c9f96c4e077116edeb7~mv2.jpg"
-imageAlt: "Trafik Sıkışıklığı ABD'de Kamyon Taşımacılığına 108 Milyar Dolara Mal Oluyor"
-wixId: "e4a7eca1-9176-46ba-8a18-e636e8c14471"
-author: "Sedat Onat"
+title: Trafik Sıkışıklığı ABD'de Kamyon Taşımacılığına 108 Milyar Dolara Mal Oluyor
+subtitle: Trafik Sıkışıklığı ABD'de Kamyon Taşımacılığına 108 Milyar Dolara Mal Oluyor
+date: '2025-02-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_18629bdf5e6c4c9f96c4e077116edeb7~mv2.jpg
+imageAlt: Trafik Sıkışıklığı ABD'de Kamyon Taşımacılığına 108 Milyar Dolara Mal Oluyor
+wixId: e4a7eca1-9176-46ba-8a18-e636e8c14471
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- trafik sıkışıklığı
+- kamyon taşımacılığı
+- ABD
+- ATRI
+- lojistik maliyetler
+- yakıt tüketimi
+- karbon emisyonu
 ---
 <p style="text-align: justify"><strong>American Transportation Research Institute (ATRI)</strong> tarafından yapılan bir araştırmaya göre, trafik sıkışıklığı ABD'deki kamyon taşımacılığı sektörüne 2021 yılında yaklaşık 108 milyar dolara mal olmuştur. Bu durum, sektörün verimliliğini ve kârlılığını olumsuz yönde etkilemektedir.​</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "U.S. and Australia Launch Strategic Partnership on Critical Minerals"
-subtitle: "U.S. and Australia Launch Strategic Partnership on Critical Minerals"
-date: "2025-10-23T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_2b850b0f978241a59d2c187582adca5d~mv2.jpg"
-imageAlt: "The U.S. and Australia have agreed on a multi-billion-dollar joint investment plan to secure supply chains for rare earth elements and critical minerals in response to China's export restrictions."
-wixId: "0a601462-0daf-46b2-a3e7-d40791d21212"
-author: "Sedat Onat"
+title: U.S. and Australia Launch Strategic Partnership on Critical Minerals
+subtitle: U.S. and Australia Launch Strategic Partnership on Critical Minerals
+date: '2025-10-23T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_2b850b0f978241a59d2c187582adca5d~mv2.jpg
+imageAlt: The U.S. and Australia have agreed on a multi-billion-dollar joint investment plan to secure supply chains for rare earth elements and critical minerals in response to China's export restrictions.
+wixId: 0a601462-0daf-46b2-a3e7-d40791d21212
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- critical minerals
+- rare earth elements
+- USA
+- Australia
+- China
+- supply chain security
+- geopolitics
 ---
-
 <p style="text-align: justify"><strong>The United States</strong> and <strong>Australia</strong> have agreed on a <strong>multi-billion-dollar new collaborative framework</strong> to strengthen the supply chain for <strong>critical minerals</strong> vital to military and industrial production. This development gained momentum following <strong>China's tightening of export restrictions on rare earth elements</strong> and its efforts to increase strategic advantage in global markets.</p>
 <p><br></p>
 <p style="text-align: justify">In a ceremony held at <strong>the White House in Washington D.C. on October 20, 2025</strong>, <strong>U.S. President Donald Trump</strong> and <strong>Australian Prime Minister Anthony Albanese</strong> signed a <strong>non-binding collaborative framework</strong>. The agreement encompasses both public and private sector investments and envisions joint financing for <strong>mining, refining, and processing operations</strong>. Key components also include <strong>streamlined permitting processes or relaxation of certain regulations</strong>, <strong>protection of domestic producers against unfair trade practices</strong>, and the introduction of mechanisms such as <strong>price floor</strong> mechanisms.</p>

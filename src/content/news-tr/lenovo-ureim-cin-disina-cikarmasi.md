@@ -1,14 +1,23 @@
 ---
-title: "Lenovo, Çin Dışında Üretim Faaliyetlerini Artırmayı Planlıyor"
-subtitle: "Lenovo, Çin Dışında Üretim Faaliyetlerini Artırmayı Planlıyor"
-date: "2024-11-19T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_6ceb82afddf84fd98a344c90622b9e3a~mv2.jpg"
-imageAlt: "Lenovo, Çin Dışında Üretim Faaliyetlerini Artırmayı Planlıyor"
-wixId: "ad089c36-ce1f-444d-83f2-da001de285e1"
-author: "Sedat Onat"
+title: Lenovo, Çin Dışında Üretim Faaliyetlerini Artırmayı Planlıyor
+subtitle: Lenovo, Çin Dışında Üretim Faaliyetlerini Artırmayı Planlıyor
+date: '2024-11-19T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_6ceb82afddf84fd98a344c90622b9e3a~mv2.jpg
+imageAlt: Lenovo, Çin Dışında Üretim Faaliyetlerini Artırmayı Planlıyor
+wixId: ad089c36-ce1f-444d-83f2-da001de285e1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Lenovo
+- Çin
+- üretim tesisi
+- tedarik zinciri
+- Suudi Arabistan
+- tarifeler
+- jeopolitik risk
+- çeşitlendirme
 ---
 <p>Dünya çapında en büyük PC üreticisi olan Lenovo, Çin dışında daha fazla üretim tesisi açmayı planladığını açıkladı. Şirketin Yönetim Kurulu Başkanı Yang Yuanqing, Lenovo Tech World etkinliğinde yaptığı açıklamada, Çin'den ithal edilen ürünlere yönelik %60 oranında uygulanması muhtemel tarifeler ve küresel jeopolitik belirsizliklerin Lenovo'yu bu kararı almaya ittiğini belirtti.</p>
 <p><br></p>

@@ -1,14 +1,23 @@
 ---
-title: "Trump, Kanada’nın Gölge Filosuna karşı Görev Gücü Planına Karşı Çıktı"
-subtitle: "Trump, Kanada’nın Gölge Filosuna karşı Görev Gücü Planına Karşı Çıktı"
-date: "2025-03-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5475d488f80c4238ac2c6a40d0c80799~mv2.jpg"
-imageAlt: "Trump, Kanada’nın Gölge Filosuna karşı Görev Gücü Planına Karşı Çıktı"
-wixId: "711633c1-f60b-4151-b73a-246ae33cdf98"
-author: "Sedat Onat"
+title: Trump, Kanada’nın Gölge Filosuna karşı Görev Gücü Planına Karşı Çıktı
+subtitle: Trump, Kanada’nın Gölge Filosuna karşı Görev Gücü Planına Karşı Çıktı
+date: '2025-03-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5475d488f80c4238ac2c6a40d0c80799~mv2.jpg
+imageAlt: Trump, Kanada’nın Gölge Filosuna karşı Görev Gücü Planına Karşı Çıktı
+wixId: 711633c1-f60b-4151-b73a-246ae33cdf98
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- gölge filo
+- Rusya
+- Kanada
+- Trump
+- yaptırım
+- denizcilik güvenliği
+- petrol tankeri
+- G7
 ---
 <p style="text-align: justify"><strong>ABD</strong>, <strong>Kanada</strong>'nın <strong>Rusya</strong>'nın "gölge filosu" olarak adlandırılan petrol tankerlerine karşı bir görev gücü oluşturma önerisini veto etti. Bu adım, <strong>ABD</strong>'nin uluslararası denizcilik güvenliği konusundaki yaklaşımında değişikliklere işaret etti.</p>
 <p><br></p>

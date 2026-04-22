@@ -1,16 +1,24 @@
 ---
-title: "Beşiktaş Shipping Suspends All Russia-Linked Operations Following M/T Mersin Incident"
-subtitle: "Beşiktaş Shipping Suspends All Russia-Linked Operations Following M/T Mersin Incident"
-date: "2025-12-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_437883bd2a15496789202ed778c134bd~mv2.jpg"
-imageAlt: "Following four external explosions experienced by M/T Mersin tanker off the coast of Dakar, Beşiktaş Shipping's decision to terminate all Russia-linked operations, detailed summary of security risk assessment and supply chain impacts"
-wixId: "4177d233-6de6-4c13-bf0a-bc87c1209e28"
-author: "Sedat Onat"
+title: Beşiktaş Shipping Suspends All Russia-Linked Operations Following M/T Mersin Incident
+subtitle: Beşiktaş Shipping Suspends All Russia-Linked Operations Following M/T Mersin Incident
+date: '2025-12-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_437883bd2a15496789202ed778c134bd~mv2.jpg
+imageAlt: Following four external explosions experienced by M/T Mersin tanker off the coast of Dakar, Beşiktaş Shipping's decision to terminate all Russia-linked operations, detailed summary of security risk assessment and supply chain impacts
+wixId: 4177d233-6de6-4c13-bf0a-bc87c1209e28
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Beşiktaş Shipping
+- M/T Mersin
+- tanker
+- Russia
+- shadow fleet
+- maritime security
+- sanctions
+- Senegal
 ---
-
 <p style="text-align: justify"><strong>Beşiktaş Shipping</strong> has announced a significant strategic decision following a serious maritime incident off Senegal's coast on the night of November 27, 2025: the company has declared its immediate termination of <strong>all maritime operations linked to Russia</strong>. This decision comes after the Panama-flagged <strong>M/T Mersin</strong> tanker under the company's management suffered four external explosions off the coast of Dakar.</p>
 <p><br></p>
 <p style="text-align: justify">According to statements from the company and Senegal authorities, explosions occurring around <strong>23:45 UTC</strong> resulted in seawater entering the vessel's <strong>engine room</strong> and the tanker experiencing <strong>propulsion loss</strong>. M/T Mersin was carrying <strong>diesel fuel</strong> at the time of the incident. Beşiktaş Shipping and local authorities confirmed that no <strong>casualty</strong> or <strong>injury</strong> occurred on the vessel. Additionally, no <strong>fuel spill</strong> was detected. Operations teams noted that the vessel remained in <strong>stable</strong> condition, with no situation threatening navigation safety and no environmental risk posed by the vessel.</p>

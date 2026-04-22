@@ -1,16 +1,24 @@
 ---
-title: "Mexico Imposes Additional Tariffs on Apparel Imports"
-subtitle: "Mexico Imposes Additional Tariffs on Apparel Imports"
-date: "2025-01-03T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_3657a84bedfa4aecb9b7070cdf6e387c~mv2.jpg"
-imageAlt: "Mexico Imposes Additional Tariffs on Apparel Imports"
-wixId: "1a5a77a0-32e2-4880-84d3-e3d3ad6622b4"
-author: "Sedat Onat"
+title: Mexico Imposes Additional Tariffs on Apparel Imports
+subtitle: Mexico Imposes Additional Tariffs on Apparel Imports
+date: '2025-01-03T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_3657a84bedfa4aecb9b7070cdf6e387c~mv2.jpg
+imageAlt: Mexico Imposes Additional Tariffs on Apparel Imports
+wixId: 1a5a77a0-32e2-4880-84d3-e3d3ad6622b4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Mexico
+- customs duties
+- textile imports
+- apparel sector
+- China
+- IMMEX program
+- US trade
+- border-skipping
 ---
-
 <p>Mexican President <strong>Claudia Sheinbaum</strong> increased tariffs on textile and apparel imports through a presidential decree signed on December 19, 2024. The new regulation imposes additional levies of 15% or 35% on certain apparel categories and excludes many clothing products from the <strong>IMMEX</strong> program, which previously allowed duty-free imports of intermediate materials.</p>
 <p><br></p>
 <p>This step aims to protect Mexico's textile industry and reduce imports from China. It is also viewed as a strategy to prevent trade disputes with the United States. A loophole in existing trade law had allowed importers to use the <strong>Section 321</strong> provision to leverage Mexico-based warehouses as distribution centers for shipping low-cost finished goods directly to U.S. consumers. The new regulations eliminate this practice.</p>

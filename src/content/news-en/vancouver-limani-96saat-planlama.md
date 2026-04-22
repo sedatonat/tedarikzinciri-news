@@ -1,16 +1,23 @@
 ---
-title: "Vancouver Port to Provide Vessel Arrival Notice 96 Hours in Advance with New Planning System"
-subtitle: "Vancouver Port to Provide Vessel Arrival Notice 96 Hours in Advance with New Planning System"
-date: "2025-12-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_36880165ab864f93b2dd622135c1b935~mv2.jpg"
-imageAlt: "Summary of Vancouver Port's centralized planning system requiring vessel arrival information to be communicated to terminal operators at least 96 hours in advance and its detailed impacts on labor, equipment, congestion, and Trans-Pacific operations"
-wixId: "30d72d04-ed6e-4edd-860f-9c8772778b5f"
-author: "Sedat Onat"
+title: Vancouver Port to Provide Vessel Arrival Notice 96 Hours in Advance with New Planning System
+subtitle: Vancouver Port to Provide Vessel Arrival Notice 96 Hours in Advance with New Planning System
+date: '2025-12-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_36880165ab864f93b2dd622135c1b935~mv2.jpg
+imageAlt: Summary of Vancouver Port's centralized planning system requiring vessel arrival information to be communicated to terminal operators at least 96 hours in advance and its detailed impacts on labor, equipment, congestion, and Trans-Pacific operations
+wixId: 30d72d04-ed6e-4edd-860f-9c8772778b5f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Vancouver Port
+- vessel planning system
+- port operations
+- Trans-Pacific trade
+- supply chain visibility
+- terminal management
+- container ship
 ---
-
 <p style="text-align: justify"><strong>Port of Vancouver</strong>, one of North America's most complex and multimodal port infrastructures, has long grappled with operational coordination challenges. As of December 2025, the port announced the completion of a <strong>centralized vessel scheduling system</strong> project initiated two years prior. The system now mandates that container vessel arrival information be shared with all terminal operators and relevant stakeholders at least <strong>96 hours (4 days)</strong> in advance.</p>
 <p><br></p>
 <p style="text-align: justify">This innovation aims to make <strong>labor planning</strong>, <strong>yard management</strong>, <strong>equipment allocation</strong>, and <strong>berth optimization</strong> processes more predictable, particularly to accommodate the port's heavy Trans-Pacific trade flows.</p>

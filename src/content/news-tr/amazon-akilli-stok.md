@@ -1,14 +1,23 @@
 ---
-title: "Amazon, Akıllı Stok Yerleşimiyle Teslimat Hızlarında Yeni Rekorun Eşiğinde"
-subtitle: "Amazon, Akıllı Stok Yerleşimiyle Teslimat Hızlarında Yeni Rekorun Eşiğinde"
-date: "2025-11-04T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_3cc89bf671414915b8a22b98c24d846d~mv2.jpg"
-imageAlt: "Amazon, stok yerleşimini optimize ederek Prime teslimat hızlarını 2025’te yeniden rekor seviyeye taşımaya hazırlanıyor. ABD inbound lead time’ı yaklaşık 4 gün kısalırken, daha kısa mesafe, daha az dokunuş ve daha hızlı fulfillment hedefleniyor."
-wixId: "36a9d56f-bc5c-4947-9a93-984da7761cf3"
-author: "Sedat Onat"
+title: Amazon, Akıllı Stok Yerleşimiyle Teslimat Hızlarında Yeni Rekorun Eşiğinde
+subtitle: Amazon, Akıllı Stok Yerleşimiyle Teslimat Hızlarında Yeni Rekorun Eşiğinde
+date: '2025-11-04T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_3cc89bf671414915b8a22b98c24d846d~mv2.jpg
+imageAlt: Amazon, stok yerleşimini optimize ederek Prime teslimat hızlarını 2025’te yeniden rekor seviyeye taşımaya hazırlanıyor. ABD inbound lead time’ı yaklaşık 4 gün kısalırken, daha kısa mesafe, daha az dokunuş ve daha hızlı fulfillment hedefleniyor.
+wixId: 36a9d56f-bc5c-4947-9a93-984da7761cf3
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Amazon
+- stok yerleşimi
+- teslimat hızı
+- fulfillment
+- Prime teslimat
+- inbound lead time
+- bölgesel ağ
+- aynı gün teslimat
 ---
 <p style="text-align: justify">Amazon, 2025’te Prime teslimat hızlarında <strong>üçüncü yıl üst üste rekor kırmaya</strong> hazırlanıyor. Şirketin SVP &amp; CFO’su <strong>Brian Olsavsky</strong>, kazanç görüşmesinde Amazon’un hızlanmasının temel itici gücünün <strong>stokların doğru yerde konumlandırılması</strong> olduğunu vurguladı.</p>
 <p><br></p>

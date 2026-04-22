@@ -1,14 +1,23 @@
 ---
-title: "VARD, Uluslararası Müşteri ile Beş Walk-to-Work Gemi İçin Sözleşme İmzaladı"
-subtitle: "VARD, Uluslararası Müşteri ile Beş Walk-to-Work Gemi İçin Sözleşme İmzaladı"
-date: "2024-11-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_59f41518a0e447e5a882538dc21ee425~mv2.png"
-imageAlt: "VARD, Uluslararası Müşteri ile Beş Walk-to-Work Gemi İçin Sözleşme İmzaladı"
-wixId: "6ceae1e7-9c1e-4730-9cb6-11198cdcf061"
-author: "Sedat Onat"
+title: VARD, Uluslararası Müşteri ile Beş Walk-to-Work Gemi İçin Sözleşme İmzaladı
+subtitle: VARD, Uluslararası Müşteri ile Beş Walk-to-Work Gemi İçin Sözleşme İmzaladı
+date: '2024-11-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_59f41518a0e447e5a882538dc21ee425~mv2.png
+imageAlt: VARD, Uluslararası Müşteri ile Beş Walk-to-Work Gemi İçin Sözleşme İmzaladı
+wixId: 6ceae1e7-9c1e-4730-9cb6-11198cdcf061
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- VARD
+- Walk-to-Work gemisi
+- offshore enerji
+- gemi inşa
+- hibrit itki sistemi
+- SeaQ
+- Vietnam
+- petrol ve gaz
 ---
 <p>Norveç’in Ålesund kentinde bulunan VARD, 20 Kasım 2024 tarihinde uluslararası bir müşteri ile beş adet Walk-to-Work gemisinin tasarımı ve inşası için önemli bir sözleşme imzaladığını duyurdu. VARD, dünya genelinde uzmanlaşmış gemi tasarımcıları ve inşaatçıları arasında önde gelen firmalardan biri olarak, bu yeni proje ile offshore enerji pazarındaki lider konumunu güçlendirmeyi hedefliyor.</p>
 <p><br></p>

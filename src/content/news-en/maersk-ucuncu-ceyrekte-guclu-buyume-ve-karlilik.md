@@ -1,16 +1,23 @@
 ---
-title: "Maersk Reports Strong Growth and Improved Profitability in Third Quarter"
-subtitle: "Maersk Reports Strong Growth and Improved Profitability in Third Quarter"
-date: "2024-10-31T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8d937e75e068482c8796dbc986637172~mv2.jpg"
-imageAlt: "Maersk Reports Strong Growth and Improved Profitability in Third Quarter"
-wixId: "2f99ff05-fb9b-44e6-91bb-4dceaa38ad72"
-author: "Sedat Onat"
+title: Maersk Reports Strong Growth and Improved Profitability in Third Quarter
+subtitle: Maersk Reports Strong Growth and Improved Profitability in Third Quarter
+date: '2024-10-31T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8d937e75e068482c8796dbc986637172~mv2.jpg
+imageAlt: Maersk Reports Strong Growth and Improved Profitability in Third Quarter
+wixId: 2f99ff05-fb9b-44e6-91bb-4dceaa38ad72
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Maersk
+- container shipping
+- financial results
+- Red Sea
+- logistics services
+- terminal operations
+- freight rates
 ---
-
 <p>A.P. Moller-Maersk (Maersk) posted strong growth in business and financial performance during the third quarter of 2024, with improved profitability across its Ocean, Logistics &amp; Services, and Terminals segments. On October 21, the company updated its guidance for underlying EBIT for the remainder of the year to $5.2–5.7 billion, up from the previous estimate of $3–5 billion. The revision reflects the successful quarter, healthy container market demand, and the ongoing Red Sea crisis.</p>
 <p><br></p>
 <p>The Ocean segment's profitability improved in the third quarter with better freight rates and strong volume growth, driving a 41% increase in revenue. Network rerouting around the Cape of Good Hope remained a significant cost factor, increasing fuel consumption and total operating expenses. However, strong operational performance offset these costs entirely, resulting in an EBIT of $2.9 billion and a margin of 25.5%.</p>

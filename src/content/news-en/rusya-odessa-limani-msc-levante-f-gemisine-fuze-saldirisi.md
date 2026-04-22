@@ -1,16 +1,24 @@
 ---
-title: "Russia Launches Missile Attack on MSC Levante F Vessel in Odessa Port"
-subtitle: "Russia Launches Missile Attack on MSC Levante F Vessel in Odessa Port"
-date: "2025-03-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7b9ea2c8f3754f1f828339bf7e7c74ba~mv2.jpg"
-imageAlt: "Russia Launches Missile Attack on MSC Levante F Vessel in Odessa Port"
-wixId: "d3d3b223-1347-4fc8-baa3-b4380cd3a291"
-author: "Sedat Onat"
+title: Russia Launches Missile Attack on MSC Levante F Vessel in Odessa Port
+subtitle: Russia Launches Missile Attack on MSC Levante F Vessel in Odessa Port
+date: '2025-03-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7b9ea2c8f3754f1f828339bf7e7c74ba~mv2.jpg
+imageAlt: Russia Launches Missile Attack on MSC Levante F Vessel in Odessa Port
+wixId: d3d3b223-1347-4fc8-baa3-b4380cd3a291
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Odessa port
+- missile attack
+- MSC Levante F
+- container ship
+- Russia
+- Ukraine
+- maritime transport
+- port operations
 ---
-
 <p style="text-align: justify">On March 1, 2025, during a missile attack on the <strong>Odessa</strong> port conducted by <strong>Russia</strong>, the Panama-flagged container vessel <strong>MSC Levante F</strong> was targeted. In the attack, carried out with two <strong>Iskander-M</strong> missiles, the vessel sustained minor damage and departed the port safely.</p>
 <p><br></p>
 <p style="text-align: justify">During the strike, the bulk carrier <strong>Super Sarkas</strong> was also hit. The vessel was carrying 21,000 tons of corn and soybeans. As a result of the attack, the <strong>Super Sarkas</strong> vessel sustained severe damage.</p>

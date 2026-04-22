@@ -1,16 +1,23 @@
 ---
-title: "Intel Radically Reduces Transportation Costs with AI-Powered \"Rate Request Automation\""
-subtitle: "Intel Radically Reduces Transportation Costs with AI-Powered \"Rate Request Automation\""
-date: "2025-11-19T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_d3e9b11d4fd442dbbadad2a24eb58b1a~mv2.jpg"
-imageAlt: "Intel has fully automated quote collection, contract renewal, auditing, and cost optimization across its global logistics transportation rate management using its Rate Request Automation (RRA) system; the initiative has delivered $20 million in contracted savings, $4 million in non-contracted savings, and accelerated quote processes by 10-fold."
-wixId: "e70b313f-2577-4560-9e7e-aa51c90a90c4"
-author: "Sedat Onat"
+title: Intel Radically Reduces Transportation Costs with AI-Powered "Rate Request Automation"
+subtitle: Intel Radically Reduces Transportation Costs with AI-Powered "Rate Request Automation"
+date: '2025-11-19T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_d3e9b11d4fd442dbbadad2a24eb58b1a~mv2.jpg
+imageAlt: Intel has fully automated quote collection, contract renewal, auditing, and cost optimization across its global logistics transportation rate management using its Rate Request Automation (RRA) system; the initiative has delivered $20 million in contracted savings, $4 million in non-contracted savings, and accelerated quote processes by 10-fold.
+wixId: e70b313f-2577-4560-9e7e-aa51c90a90c4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Intel
+- artificial intelligence
+- logistics cost
+- automation
+- transportation
+- supply chain
+- AI/ML
 ---
-
 <p style="text-align: justify">Intel's <strong>Global Logistics Org (GLO)</strong> and <strong>Corporate Strategic Procurement (CSP)</strong> teams have long struggled with <strong>high manual workloads</strong>, <strong>repetitive data collection</strong>, <strong>slow quote processes</strong>, and <strong>excess costs from non-contracted pricing</strong> in managing transportation rates, contract administration, and logistics cost optimization.</p>
 <p><br></p>
 <p style="text-align: justify">These challenges manifested particularly in:</p>

@@ -1,16 +1,24 @@
 ---
-title: "Houthi Pause on Shipping Attacks Lowers Tensions, But Risk Remains in Red Sea"
-subtitle: "Houthi Pause on Shipping Attacks Lowers Tensions, But Risk Remains in Red Sea"
-date: "2025-11-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7579308f142f4acbaa7e974836f42d58~mv2.jpg"
-imageAlt: ""
-wixId: "34713456-aa57-4ec6-99b5-08162f4d513e"
-author: "Sedat Onat"
+title: Houthi Pause on Shipping Attacks Lowers Tensions, But Risk Remains in Red Sea
+subtitle: Houthi Pause on Shipping Attacks Lowers Tensions, But Risk Remains in Red Sea
+date: '2025-11-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7579308f142f4acbaa7e974836f42d58~mv2.jpg
+imageAlt: ''
+wixId: 34713456-aa57-4ec6-99b5-08162f4d513e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Red Sea
+- Houthi attacks
+- Suez Canal
+- container shipping
+- CMA CGM
+- marine insurance
+- port congestion
+- Cape of Good Hope
 ---
-
 <p style="text-align: justify">Months of attack threats along the Red Sea and Suez Canal route have eased somewhat following <strong>announcements by Houthi forces in Yemen that they would suspend attacks on commercial vessels and Israel-linked targets</strong>. This development offers hope that one of the most critical Asia-Europe container shipping routes could be reopened.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">However, <strong>the risk level in the region remains elevated</strong>. <strong>Jack Kennedy</strong>, S&P Global Market Intelligence Director of Country Risk for the Middle East and North Africa, notes that the absence of attacks over the past six weeks should not create a false sense of security. According to Kennedy, Houthi forces are using this period to <strong>repair infrastructure, rearm, and strengthen prospective attack capacity</strong>. While the situation may be characterized as de-escalation, the threat has not entirely dissipated.</p>

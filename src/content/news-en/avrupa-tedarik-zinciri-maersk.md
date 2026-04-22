@@ -1,16 +1,23 @@
 ---
-title: "Companies Turn to Multi-Geography Sourcing as Geopolitical Pressure Persists on European Supply Chains"
-subtitle: "Companies Turn to Multi-Geography Sourcing as Geopolitical Pressure Persists on European Supply Chains"
-date: "2025-12-01T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_37834725b3ea4420acae465711dc601b~mv2.jpg"
-imageAlt: "Detailed summary of a Maersk survey of 900 European companies showing how supply chains are affected by geopolitical stress, tariffs, and cost volatility"
-wixId: "75af142c-bdd3-4b80-9abd-1041c952a284"
-author: "Sedat Onat"
+title: Companies Turn to Multi-Geography Sourcing as Geopolitical Pressure Persists on European Supply Chains
+subtitle: Companies Turn to Multi-Geography Sourcing as Geopolitical Pressure Persists on European Supply Chains
+date: '2025-12-01T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_37834725b3ea4420acae465711dc601b~mv2.jpg
+imageAlt: Detailed summary of a Maersk survey of 900 European companies showing how supply chains are affected by geopolitical stress, tariffs, and cost volatility
+wixId: 75af142c-bdd3-4b80-9abd-1041c952a284
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- geopolitical risk
+- multi-sourcing
+- Europe
+- Maersk
+- nearshoring
+- supply chain resilience
+- US tariffs
 ---
-
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> survey findings indicate that supply chain professionals across Europe expect geopolitical dynamics to continue impacting their operations over the next two years. Research conducted by <strong>Maersk</strong> with 900 European companies reveals how firms are positioning themselves amid rising uncertainty and pursuing strategic adjustments.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>80% of survey respondents</strong> believe their operations will continue to be affected by geopolitical developments and tariffs. <strong>50% of participants</strong> report <strong>deep concern</strong> about the current geopolitical environment. This indicates that European companies are adopting a cautious stance in both short-term operational decisions and medium-term investment planning.</p>

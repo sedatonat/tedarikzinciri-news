@@ -1,16 +1,24 @@
 ---
-title: "US Imposes New Restrictions on Chip Design Software and Chemical Exports to China"
-subtitle: "US Imposes New Restrictions on Chip Design Software and Chemical Exports to China"
-date: "2025-05-29T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_520ef35fe21247ef96731fc6d0950188~mv2.jpg"
-imageAlt: "US Imposes New Restrictions on Chip Design Software and Chemical Exports to China"
-wixId: "c844bfdc-6860-47e4-a81c-3a1b98f77eb6"
-author: "Sedat Onat"
+title: US Imposes New Restrictions on Chip Design Software and Chemical Exports to China
+subtitle: US Imposes New Restrictions on Chip Design Software and Chemical Exports to China
+date: '2025-05-29T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_520ef35fe21247ef96731fc6d0950188~mv2.jpg
+imageAlt: US Imposes New Restrictions on Chip Design Software and Chemical Exports to China
+wixId: c844bfdc-6860-47e4-a81c-3a1b98f77eb6
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- USA
+- China
+- EDA software
+- semiconductor
+- export restrictions
+- Synopsys
+- Cadence
+- supply chain
 ---
-
 <p style="text-align: justify"><strong>The U.S. Department of Commerce</strong> has imposed <strong>export license requirements</strong> on a broad range of products to China, including <strong>semiconductor design software, chemicals, machine tools, aircraft equipment, and fuel products</strong>, aimed at limiting China's access to strategic technologies.</p>
 <p style="text-align: justify"><br>
 This move has the potential to <strong>further escalate trade and technology tensions between Washington and Beijing</strong>.</p>

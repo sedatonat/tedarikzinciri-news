@@ -1,14 +1,22 @@
 ---
-title: "Büyük Lojistik Şirketleri Rusya Üzerinden Taşımaya Devam Ediyor"
-subtitle: "Büyük Lojistik Şirketleri Rusya Üzerinden Taşımaya Devam Ediyor"
-date: "2025-03-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6f2db5340aca4d6b8d0da02cb23f9d9d~mv2.jpg"
-imageAlt: "Büyük Lojistik Şirketleri Rusya Üzerinden Taşımaya Devam Ediyor"
-wixId: "c1a64cce-1309-4541-8da8-aa48ec4a74b1"
-author: "Sedat Onat"
+title: Büyük Lojistik Şirketleri Rusya Üzerinden Taşımaya Devam Ediyor
+subtitle: Büyük Lojistik Şirketleri Rusya Üzerinden Taşımaya Devam Ediyor
+date: '2025-03-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_6f2db5340aca4d6b8d0da02cb23f9d9d~mv2.jpg
+imageAlt: Büyük Lojistik Şirketleri Rusya Üzerinden Taşımaya Devam Ediyor
+wixId: c1a64cce-1309-4541-8da8-aa48ec4a74b1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DHL
+- Rusya
+- demiryolu taşımacılığı
+- Ukrayna savaşı
+- jeopolitik risk
+- Nippon Express
+- tedarik zinciri
 ---
 <p style="text-align: justify">Dünyanın önde gelen lojistik şirketlerinden <strong>DHL</strong>, <strong>Scan Global Logistics</strong>, Avusturyalı <strong>ÖBB</strong> ve Japon <strong>Nippon Express</strong>, <strong>Børsen</strong>'in haberine göre, Rus demiryollarını kullanarak mal taşımaya devam etmektedir. Bu durum, Rusya'nın Ukrayna'ya karşı başlattığı savaşın ardından birçok şirketin Rusya ile olan ticari ilişkilerini yeniden değerlendirmesine rağmen gerçekleşmektedir.​</p>
 <p><br></p>

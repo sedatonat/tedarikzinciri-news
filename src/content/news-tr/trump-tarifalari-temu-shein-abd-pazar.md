@@ -1,14 +1,23 @@
 ---
-title: "Trump Tarifalarının Temu ve Shein’in ABD Pazarındaki Geleceğini Etkileyip Etkilemeyeceği"
-subtitle: "Trump Tarifalarının Temu ve Shein’in ABD Pazarındaki Geleceğini Etkileyip Etkilemeyeceği"
-date: "2024-11-27T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_b476443684d046b88a47986d02c95fa8~mv2.jpg"
-imageAlt: "Trump Tarifalarının Temu ve Shein’in ABD Pazarındaki Geleceğini Etkileyip Etkilemeyeceği"
-wixId: "c3b34dbb-93f3-4166-a145-8f0a37f9f654"
-author: "Sedat Onat"
+title: Trump Tarifalarının Temu ve Shein’in ABD Pazarındaki Geleceğini Etkileyip Etkilemeyeceği
+subtitle: Trump Tarifalarının Temu ve Shein’in ABD Pazarındaki Geleceğini Etkileyip Etkilemeyeceği
+date: '2024-11-27T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_b476443684d046b88a47986d02c95fa8~mv2.jpg
+imageAlt: Trump Tarifalarının Temu ve Shein’in ABD Pazarındaki Geleceğini Etkileyip Etkilemeyeceği
+wixId: c3b34dbb-93f3-4166-a145-8f0a37f9f654
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Trump tarifeleri
+- Temu
+- Shein
+- e-ticaret
+- Çin
+- tedarik zinciri
+- ABD pazarı
+- hızlı moda
 ---
 <p>Son dönemde ABD’de uygulanan Trump tarifaları, Çin menşeli e-ticaret devleri Temu ve Shein’in Amerikan pazarındaki varlığını tehdit edebilir mi? SupplyChainBrain tarafından yayımlanan bir makaleye göre, bu sorunun cevabı karmaşık olup, çeşitli faktörlere bağlı olarak şekilleniyor.</p>
 <p><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "DHL Acquires U.S. Pharmaceutical Logistics Firm Cryopdp"
-subtitle: "DHL Acquires U.S. Pharmaceutical Logistics Firm Cryopdp"
-date: "2025-03-31T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5f5a8fd7e1c64bce85c88868e49bdd63~mv2.jpg"
-imageAlt: "DHL Acquires U.S. Pharmaceutical Logistics Firm Cryopdp"
-wixId: "599783ad-99c9-4f5b-8ae1-8431c5fd885f"
-author: "Sedat Onat"
+title: DHL Acquires U.S. Pharmaceutical Logistics Firm Cryopdp
+subtitle: DHL Acquires U.S. Pharmaceutical Logistics Firm Cryopdp
+date: '2025-03-31T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5f5a8fd7e1c64bce85c88868e49bdd63~mv2.jpg
+imageAlt: DHL Acquires U.S. Pharmaceutical Logistics Firm Cryopdp
+wixId: 599783ad-99c9-4f5b-8ae1-8431c5fd885f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- DHL
+- Cryopdp
+- cold chain
+- pharmaceutical logistics
+- acquisition
+- biotechnology
+- healthcare logistics
+- USA
 ---
-
 <p style="text-align: justify"><strong>German logistics giant DHL</strong> announced it will acquire <strong>U.S.-based pharmaceutical transportation and cold chain logistics company Cryopdp</strong>.</p>
 <p><br>
 This move is seen as part of DHL's strategy to scale its operations in the <strong>pharmaceutical, biotechnology, and healthcare sector (Life Sciences & Healthcare)</strong> on a global basis.</p>

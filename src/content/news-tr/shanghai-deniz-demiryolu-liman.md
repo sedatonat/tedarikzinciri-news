@@ -1,14 +1,23 @@
 ---
-title: "Şanghay’ın Deniz–Demiryolu Hacmi 2025’te 1 Milyon TEU Eşiğini Aştı"
-subtitle: "Şanghay’ın Deniz–Demiryolu Hacmi 2025’te 1 Milyon TEU Eşiğini Aştı"
-date: "2025-12-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b8a5e5ac850c4dd6a805ab4217e82853~mv2.jpg"
-imageAlt: "Şanghay’ın 2025 yılında deniz–demiryolu multimodal taşımada 1 milyon TEU barajını aşması, Luchaogang İstasyonu’nun kapasite artışları, operasyonel iyileştirmeler ve Çin’in intermodal stratejisinin bölgesel etkileri üzerine detaylı özet"
-wixId: "0b0df5bd-a255-4572-a4a3-ed6afdb6ce6f"
-author: "Sedat Onat"
+title: Şanghay’ın Deniz–Demiryolu Hacmi 2025’te 1 Milyon TEU Eşiğini Aştı
+subtitle: Şanghay’ın Deniz–Demiryolu Hacmi 2025’te 1 Milyon TEU Eşiğini Aştı
+date: '2025-12-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b8a5e5ac850c4dd6a805ab4217e82853~mv2.jpg
+imageAlt: Şanghay’ın 2025 yılında deniz–demiryolu multimodal taşımada 1 milyon TEU barajını aşması, Luchaogang İstasyonu’nun kapasite artışları, operasyonel iyileştirmeler ve Çin’in intermodal stratejisinin bölgesel etkileri üzerine detaylı özet
+wixId: 0b0df5bd-a255-4572-a4a3-ed6afdb6ce6f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Şanghay
+- deniz-demiryolu taşımacılığı
+- intermodal
+- TEU
+- Yangshan Limanı
+- Çin
+- liman lojistiği
+- demiryolu altyapısı
 ---
 <p style="text-align: justify"><strong>Shanghai sea-rail intermodal network</strong>, 2025 yılında yeni bir rekora ulaştı. <strong>China News</strong> tarafından bildirildiğine göre, <strong>5 Aralık sabahı</strong> Shanghai <strong>Luchaogang Container Center Station</strong>’dan güneş paneli modülleri ve otomotiv komponentleri taşıyan bir trenin hareket etmesiyle birlikte, yılın kümülatif deniz–demiryolu hacmi <strong>1 milyon TEU eşiğini resmen geçti</strong>. Bu rakam, resmi verilere göre <strong>yıllık yaklaşık %20 büyüme</strong> ile tarihteki en yüksek seviyeyi temsil etmekte.</p>
 <p><br></p>

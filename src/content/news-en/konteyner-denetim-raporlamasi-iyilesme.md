@@ -1,16 +1,23 @@
 ---
-title: "Call for Improvement in Container Inspection Reporting"
-subtitle: "Call for Improvement in Container Inspection Reporting"
-date: "2024-09-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_cdaf774ffc3e40ad97000cbbcf09209e~mv2.jpg"
-imageAlt: "Call for Improvement in Container Inspection Reporting"
-wixId: "c7f768ca-69ba-459a-919d-802c09d232d6"
-author: "Sedat Onat"
+title: Call for Improvement in Container Inspection Reporting
+subtitle: Call for Improvement in Container Inspection Reporting
+date: '2024-09-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_cdaf774ffc3e40ad97000cbbcf09209e~mv2.jpg
+imageAlt: Call for Improvement in Container Inspection Reporting
+wixId: c7f768ca-69ba-459a-919d-802c09d232d6
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- container inspection
+- maritime transport
+- IMO
+- Cargo Integrity Group
+- security standards
+- SOLAS Convention
+- reporting
 ---
-
 <p>The Cargo Integrity Group (CIG) is calling on national governments to implement container inspection programmes and report their findings in order to enhance safety in maritime shipping. The International Maritime Organization (IMO) is being invited to compile these reports and publish them in a publicly accessible manner.</p>
 <p>Under a series of resolutions adopted more than 20 years ago, IMO member states had agreed to conduct regular inspections of cargo containers and the cargo within them. The results of these inspections should be sent annually to the IMO, compiled, and used to obtain information about global compliance levels. However, an analysis conducted by CIG shows that only 5% of the 167 national governments regularly submit these inspection results to the IMO.</p>
 <p><br></p>

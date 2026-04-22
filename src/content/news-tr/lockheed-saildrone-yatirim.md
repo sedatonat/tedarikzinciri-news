@@ -1,14 +1,22 @@
 ---
-title: "Lockheed Martin, Silahlı Otonom Deniz Platformları İçin Saildrone’a 50 Milyon Dolar Yatırım Yaptı"
-subtitle: "Lockheed Martin, Silahlı Otonom Deniz Platformları İçin Saildrone’a 50 Milyon Dolar Yatırım Yaptı"
-date: "2025-10-29T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_350cd713b5674c309b5e8223dc62903d~mv2.jpg"
-imageAlt: "Lockheed Martin, Saildrone’a yaptığı 50 milyon dolarlık yatırım ile otonom deniz yüzey araçlarına silahlı sistemler entegre etmeyi hedefliyor. Ortaklık kapsamında ABD Donanması için geliştirilecek silahlı USV (Unmanned Surface Vessel) platformları, 2026’da canlı atış testlerine girecek."
-wixId: "429c95cf-dae5-42f1-80fe-d02429b820d4"
-author: "Sedat Onat"
+title: Lockheed Martin, Silahlı Otonom Deniz Platformları İçin Saildrone’a 50 Milyon Dolar Yatırım Yaptı
+subtitle: Lockheed Martin, Silahlı Otonom Deniz Platformları İçin Saildrone’a 50 Milyon Dolar Yatırım Yaptı
+date: '2025-10-29T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_350cd713b5674c309b5e8223dc62903d~mv2.jpg
+imageAlt: Lockheed Martin, Saildrone’a yaptığı 50 milyon dolarlık yatırım ile otonom deniz yüzey araçlarına silahlı sistemler entegre etmeyi hedefliyor. Ortaklık kapsamında ABD Donanması için geliştirilecek silahlı USV (Unmanned Surface Vessel) platformları, 2026’da canlı atış testlerine girecek.
+wixId: 429c95cf-dae5-42f1-80fe-d02429b820d4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Lockheed Martin
+- Saildrone
+- otonom deniz araçları
+- savunma teknolojisi
+- insansız sistemler
+- ABD Donanması
+- füze sistemi
 ---
 <p style="text-align: justify"><strong>Lockheed Martin</strong>, otonom denizcilik teknolojilerinde önemli bir adım atarak <strong>Saildrone</strong>’a <strong>50 milyon dolar yatırım yaptığını</strong> duyurdu. Yatırımın amacı, <strong>Saildrone’un insansız deniz yüzeyi araçlarına (USV)</strong> <strong>Lockheed Martin’in savaşta kanıtlanmış silah sistemlerini</strong> entegre ederek, <strong>ABD Donanması</strong> için <strong>silahlı otonom platformlar</strong> geliştirmek.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Depo Çalışanları Daha Fazla Otomasyon Talep Ediyor"
-subtitle: "Depo Çalışanları Daha Fazla Otomasyon Talep Ediyor"
-date: "2025-02-27T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_4b498735efe649ceaa2554aac3145a3e~mv2.jpg"
-imageAlt: "Depo Çalışanları Daha Fazla Otomasyon Talep Ediyor"
-wixId: "c9fc4c01-9764-467b-83b2-f804ea3f453d"
-author: "Sedat Onat"
+title: Depo Çalışanları Daha Fazla Otomasyon Talep Ediyor
+subtitle: Depo Çalışanları Daha Fazla Otomasyon Talep Ediyor
+date: '2025-02-27T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_4b498735efe649ceaa2554aac3145a3e~mv2.jpg
+imageAlt: Depo Çalışanları Daha Fazla Otomasyon Talep Ediyor
+wixId: c9fc4c01-9764-467b-83b2-f804ea3f453d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- depo otomasyonu
+- Zebra Technologies
+- robotik sistemler
+- veri analitiği
+- çalışan eğitimi
+- iş güvenliği
+- sürdürülebilirlik
 ---
 <p style="text-align: justify"><strong>Zebra Technologies</strong> tarafından gerçekleştirilen bir araştırma, depo çalışanlarının iş süreçlerinde daha fazla otomasyon talep ettiğini ortaya koymakta. Çalışanlar, teknolojik yeniliklerin işlerini kolaylaştıracağını ve verimliliği artıracağını düşünmekte. Araştırma, depo operasyonlarının geleceği hakkında önemli ipuçları sunmakta.</p>
 <p><br></p>

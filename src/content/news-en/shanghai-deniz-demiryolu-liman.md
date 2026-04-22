@@ -1,16 +1,24 @@
 ---
-title: "Shanghai's Sea-Rail Intermodal Volume Surpasses 1 Million TEU Threshold in 2025"
-subtitle: "Shanghai's Sea-Rail Intermodal Volume Surpasses 1 Million TEU Threshold in 2025"
-date: "2025-12-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b8a5e5ac850c4dd6a805ab4217e82853~mv2.jpg"
-imageAlt: "Detailed summary of Shanghai's sea-rail multimodal transport surpassing 1 million TEU in 2025, covering Luchaogang Station capacity expansions, operational improvements, and regional implications of China's intermodal strategy"
-wixId: "0b0df5bd-a255-4572-a4a3-ed6afdb6ce6f"
-author: "Sedat Onat"
+title: Shanghai's Sea-Rail Intermodal Volume Surpasses 1 Million TEU Threshold in 2025
+subtitle: Shanghai's Sea-Rail Intermodal Volume Surpasses 1 Million TEU Threshold in 2025
+date: '2025-12-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b8a5e5ac850c4dd6a805ab4217e82853~mv2.jpg
+imageAlt: Detailed summary of Shanghai's sea-rail multimodal transport surpassing 1 million TEU in 2025, covering Luchaogang Station capacity expansions, operational improvements, and regional implications of China's intermodal strategy
+wixId: 0b0df5bd-a255-4572-a4a3-ed6afdb6ce6f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Shanghai
+- sea-rail transport
+- intermodal
+- TEU
+- Yangshan Port
+- China
+- port logistics
+- railway infrastructure
 ---
-
 <p style="text-align: justify"><strong>Shanghai sea-rail intermodal network</strong> reached a new milestone in 2025. According to <strong>China News</strong>, following the departure of a train carrying solar panel modules and automotive components from Shanghai <strong>Luchaogang Container Center Station</strong> on the <strong>morning of December 5</strong>, the year's cumulative sea-rail volume <strong>formally surpassed the 1 million TEU threshold</strong>. This figure represents the highest level on record, with <strong>year-on-year growth of approximately 20 percent</strong> according to official data.</p>
 <p><br></p>
 <p style="text-align: justify">At the heart of this growth lie intensive operational improvements executed by <strong>China Railway Shanghai Group Co., Ltd.</strong> throughout 2025. The company:</p>

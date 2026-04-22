@@ -1,16 +1,23 @@
 ---
-title: "Damen Introduces New CF 5000 ICE Ice Class Cargo Vessel"
-subtitle: "Damen Introduces New CF 5000 ICE Ice Class Cargo Vessel"
-date: "2025-11-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a839b8953cce4864b467f97d02262a96~mv2.jpg"
-imageAlt: "Detailed news summary of design innovations, energy efficiency, sustainability features, and operational capabilities of the CF 5000 ICE ice class cargo vessel unveiled by Damen Shipyards Group at Europort 2025 in Rotterdam"
-wixId: "5187293a-60a5-4d04-83e0-e4c5527a9f5c"
-author: "Sedat Onat"
+title: Damen Introduces New CF 5000 ICE Ice Class Cargo Vessel
+subtitle: Damen Introduces New CF 5000 ICE Ice Class Cargo Vessel
+date: '2025-11-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a839b8953cce4864b467f97d02262a96~mv2.jpg
+imageAlt: Detailed news summary of design innovations, energy efficiency, sustainability features, and operational capabilities of the CF 5000 ICE ice class cargo vessel unveiled by Damen Shipyards Group at Europort 2025 in Rotterdam
+wixId: 5187293a-60a5-4d04-83e0-e4c5527a9f5c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Damen
+- ice class vessel
+- cargo ship
+- CF 5000 ICE
+- hybrid propulsion system
+- sustainability
+- Triton IoT
 ---
-
 <p style="text-align: justify"><strong>Damen Shipyards Group</strong> has unveiled the next-generation ice class cargo vessel <strong>Combi Freighter (CF) 5000 ICE</strong> platform at the <strong>Europort 2025</strong> event held in Rotterdam. As the latest addition to the company's extensive cargo ship portfolio, the CF 5000 ICE is positioned as the first vessel in a new ice class series, featuring a modular and scalable design. Damen notes that this design has been developed to deliver high efficiency in both open ocean and ice-laden waters.</p>
 <p><br></p>
 <p style="text-align: justify">Damen Cargo Vessels Commercial Director <strong>Remko Bouma</strong> stated that the design process leveraged the experience gained from the existing CF series. Bouma emphasized that the CF 5000 ICE has been developed as a practical and reliable vessel with operator feedback directly integrated into its design. This design, combined with the company's experience in next generation cargo vessels, is specifically optimized for economical ice navigation.</p>

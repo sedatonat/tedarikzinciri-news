@@ -1,16 +1,23 @@
 ---
-title: "Chinese Ports Approaching 250 Million TEU Target"
-subtitle: "Chinese Ports Approaching 250 Million TEU Target"
-date: "2024-11-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6d0c3c404c6548b9b399a341a89d564c~mv2.jpg"
-imageAlt: "Chinese Ports Approaching 250 Million TEU Target"
-wixId: "ccc5fc6e-ad0a-4501-b450-cb66f8d9fc5b"
-author: "Sedat Onat"
+title: Chinese Ports Approaching 250 Million TEU Target
+subtitle: Chinese Ports Approaching 250 Million TEU Target
+date: '2024-11-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_6d0c3c404c6548b9b399a341a89d564c~mv2.jpg
+imageAlt: Chinese Ports Approaching 250 Million TEU Target
+wixId: ccc5fc6e-ad0a-4501-b450-cb66f8d9fc5b
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Chinese ports
+- container volume
+- TEU
+- Belt and Road Initiative
+- port automation
+- artificial intelligence
+- global trade
 ---
-
 <p>China's ports continue to expand their influence on global trade through strong performance demonstrated in the first nine months of 2024. According to data from China's Ministry of Transport, the total cargo throughput at ports increased by 8.4 percent year-on-year, reaching 11.96 billion tons. This growth is seen as a significant indicator that the Chinese economy is moving beyond the effects of the pandemic and entering a stable growth trajectory.</p>
 <p><br></p>
 <p>Container shipping also witnessed similar growth. Ports handled a total of 211 million TEU (Twenty-foot Equivalent Unit) containers in the first nine months of the year, representing a 5.1 percent increase compared to the previous year. September data further demonstrates the continuation of this upward trend, with cargo volume rising 10.3 percent to 1.39 billion tons and container volume increasing 5.7 percent to 23.6 million TEU.</p>

@@ -1,14 +1,23 @@
 ---
-title: "Britanya: Rus Yantar Gemisi Tehdit Olursa “Askerî Seçenekler Hazır”"
-subtitle: "Britanya: Rus Yantar Gemisi Tehdit Olursa “Askerî Seçenekler Hazır”"
-date: "2025-11-19T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_938d227faad940a7ab2a46f6d5c1c426~mv2.jpg"
-imageAlt: "Rus casus gemisi Yantar’ın RAF pilotlarına lazer tuttuğu olay sonrası İngiltere Savunma Bakanı, geminin tehdit oluşturması hâlinde askeri seçeneklerin devreye gireceğini açıkladı."
-wixId: "305d8b1a-429e-4acb-9fe7-37ea6e917172"
-author: "Sedat Onat"
+title: 'Britanya: Rus Yantar Gemisi Tehdit Olursa “Askerî Seçenekler Hazır”'
+subtitle: 'Britanya: Rus Yantar Gemisi Tehdit Olursa “Askerî Seçenekler Hazır”'
+date: '2025-11-19T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_938d227faad940a7ab2a46f6d5c1c426~mv2.jpg
+imageAlt: Rus casus gemisi Yantar’ın RAF pilotlarına lazer tuttuğu olay sonrası İngiltere Savunma Bakanı, geminin tehdit oluşturması hâlinde askeri seçeneklerin devreye gireceğini açıkladı.
+wixId: 305d8b1a-429e-4acb-9fe7-37ea6e917172
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Yantar gemisi
+- Rusya
+- Britanya
+- denizaltı kablo
+- lazer saldırı
+- RAF
+- deniz güvenliği
+- NATO
 ---
 <p style="text-align: justify">Birleşik Krallık ile Rusya arasındaki tansiyon, Rusya’nın özel amaçlı istihbarat gemisi <strong>Yantar’ın</strong>, İngiliz Kraliyet Hava Kuvvetleri (<strong>RAF</strong>) pilotlarına <strong>lazer ışığı yöneltmesi</strong> üzerine yeniden yükseldi. Reuters’ın haberine göre İngiltere Savunma Bakanı <strong>John Healey</strong>, geminin davranışının “son derece tehlikeli” olduğunu belirterek, Yantar’ın kurs değiştirmesi veya düşmanca bir manevraya yönelmesi hâlinde <strong>“askerî seçeneklerin hazır olduğunu”</strong> söyledi.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Stanley 1913, Kinaxis Maestro ile Tedarik Zincirinde Yapay Zeka Kullanıyor"
-subtitle: "Stanley 1913, Kinaxis Maestro ile Tedarik Zincirinde Yapay Zeka Kullanıyor"
-date: "2024-10-29T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_81f65a4303ba4b80977484c03ce844b5~mv2.jpg"
-imageAlt: "Stanley 1913, Kinaxis Maestro ile Tedarik Zincirinde Yapay Zeka Kullanıyor"
-wixId: "e97aab7c-e832-4f60-be35-647022cc8ac4"
-author: "Sedat Onat"
+title: Stanley 1913, Kinaxis Maestro ile Tedarik Zincirinde Yapay Zeka Kullanıyor
+subtitle: Stanley 1913, Kinaxis Maestro ile Tedarik Zincirinde Yapay Zeka Kullanıyor
+date: '2024-10-29T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_81f65a4303ba4b80977484c03ce844b5~mv2.jpg
+imageAlt: Stanley 1913, Kinaxis Maestro ile Tedarik Zincirinde Yapay Zeka Kullanıyor
+wixId: e97aab7c-e832-4f60-be35-647022cc8ac4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Stanley 1913
+- Kinaxis Maestro
+- yapay zeka
+- makine öğrenimi
+- tedarik zinciri
+- tahminleme
+- sürdürülebilirlik
 ---
 <p>Stanley 1913, 1913 yılında kurulan ve popüler içecek kapları üreten bir yiyecek ve içecek ürünleri üreticisidir. Şirket, tedarik zinciri operasyonlarını geliştirmek amacıyla Kinaxis firmasının sağladığı Maestro platformunu kullanmaya başladı. Bu işbirliğiyle, Stanley 1913, tedarik zinciri kesintilerini önceden tahmin etmek ve bu tür aksaklıkları engellemek için yapay zeka ve makine öğrenimi teknolojilerini entegre ediyor.</p>
 <p><br></p>

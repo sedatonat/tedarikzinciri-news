@@ -1,16 +1,24 @@
 ---
-title: "Occupations with the Highest Workplace Injury Rates in the Supply Chain"
-subtitle: "Occupations with the Highest Workplace Injury Rates in the Supply Chain"
-date: "2025-02-25T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_96f5e0429d6949508071b9f8bcdfbd6e~mv2.jpg"
-imageAlt: "Occupations with the Highest Workplace Injury Rates in the Supply Chain"
-wixId: "2a3a1963-229e-45a8-b0e1-ffc82cea8b0d"
-author: "Sedat Onat"
+title: Occupations with the Highest Workplace Injury Rates in the Supply Chain
+subtitle: Occupations with the Highest Workplace Injury Rates in the Supply Chain
+date: '2025-02-25T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_96f5e0429d6949508071b9f8bcdfbd6e~mv2.jpg
+imageAlt: Occupations with the Highest Workplace Injury Rates in the Supply Chain
+wixId: 2a3a1963-229e-45a8-b0e1-ffc82cea8b0d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- workplace safety
+- supply chain
+- workplace injuries
+- warehousing
+- transportation
+- automation
+- protective equipment
+- retail
 ---
-
 <p style="text-align: justify">Workers in the supply chain sector face workplace injury risks. In particular, employees operating in <strong>transportation and warehousing</strong> are among the occupational groups with high injury rates.​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Transportation and Warehousing Sector:</strong></p>

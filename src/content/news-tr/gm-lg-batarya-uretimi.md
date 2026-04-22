@@ -1,14 +1,23 @@
 ---
-title: "GM ve LG: Tennessee’de Düşük Maliyetli EV Batarya Üretimi"
-subtitle: "GM ve LG: Tennessee’de Düşük Maliyetli EV Batarya Üretimi"
-date: "2025-07-15T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_8dca8ef1f666420ea966bf553dbdcd4b~mv2.png"
-imageAlt: "Gm Ve Lg: Tennessee’de Düşük Maliyetli Ev Batarya Üretimi"
-wixId: "52644157-fba7-48a4-91fe-5e59dfe3518f"
-author: "Sedat Onat"
+title: 'GM ve LG: Tennessee’de Düşük Maliyetli EV Batarya Üretimi'
+subtitle: 'GM ve LG: Tennessee’de Düşük Maliyetli EV Batarya Üretimi'
+date: '2025-07-15T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_8dca8ef1f666420ea966bf553dbdcd4b~mv2.png
+imageAlt: 'Gm Ve Lg: Tennessee’de Düşük Maliyetli Ev Batarya Üretimi'
+wixId: 52644157-fba7-48a4-91fe-5e59dfe3518f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- EV batarya üretimi
+- GM
+- LG Energy Solution
+- Tennessee
+- süreç otomasyonu
+- tedarik zinciri yerelleşme
+- geri dönüşüm
+- öngörülü bakım
 ---
 <p style="text-align: justify"><strong>General Motors (GM)</strong> ve <strong>LG Energy Solution</strong>, Tennessee’deki ortak batarya tesisini <strong>düşük maliyetli EV batarya üretimi</strong> hedefiyle donatıyor. Projenin ana odağı, <strong>cost-per-kWh (kilovat-saat başına maliyet)</strong> metriğini düşürmek; bu da hem ölçek ekonomisi hem de süreç optimizasyonu yoluyla elektrikli araç (EV) benimsenmesini hızlandırmayı amaçlıyor.</p>
 <p style="text-align: justify"><br></p>

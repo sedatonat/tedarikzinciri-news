@@ -1,14 +1,23 @@
 ---
-title: "Geleceğin Depoları: AI ve Robotikle Yönetilen Otonom Depolar"
-subtitle: "Geleceğin Depoları: AI ve Robotikle Yönetilen Otonom Depolar"
-date: "2024-06-04T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_2015069e3e0c4a3bac3e2a28646c65b7~mv2.jpg"
-imageAlt: "Geleceğin Depoları: AI ve Robotikle Yönetilen Otonom Depolar"
-wixId: "3321c255-1e83-4c7b-a8b9-7f0a2d4f59bb"
-author: "Sedat Onat"
+title: 'Geleceğin Depoları: AI ve Robotikle Yönetilen Otonom Depolar'
+subtitle: 'Geleceğin Depoları: AI ve Robotikle Yönetilen Otonom Depolar'
+date: '2024-06-04T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_2015069e3e0c4a3bac3e2a28646c65b7~mv2.jpg
+imageAlt: 'Geleceğin Depoları: AI ve Robotikle Yönetilen Otonom Depolar'
+wixId: 3321c255-1e83-4c7b-a8b9-7f0a2d4f59bb
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- otonom depo
+- yapay zeka
+- robotik
+- Microsoft
+- Arvato
+- depo yönetimi
+- bulut bilişim
+- Gartner Supply Chain Symposium
 ---
 <p>Microsoft ve Arvato, depo yönetimi süreçlerini otonom hale getirmeyi amaçlayan "geleceğin kendi kendini yöneten deposu" projesi üzerinde iş birliği yapıyor. Bu yenilikçi projenin adı "Moonshot" ve araştırma aşamasında olan bu girişim, yapay zeka (AI), robotik ve bulut bilişim teknolojilerini entegre ederek depo süreçlerini sürekli olarak iyileştirmeyi hedefliyor. Projeye, Haziran ayında Barselona'da düzenlenecek olan Gartner Supply Chain Symposium/Xpo 2024'te yer verilecek.</p>
 <p><br></p>

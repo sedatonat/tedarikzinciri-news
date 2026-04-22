@@ -1,14 +1,22 @@
 ---
-title: "Netstock’un 2024 Envanter Yönetimi Raporu: KOBİ’lerde Kritik Bulgular"
-subtitle: "Netstock’un 2024 Envanter Yönetimi Raporu: KOBİ’lerde Kritik Bulgular"
-date: "2024-10-01T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_cfda771b8a2f41c4a3fcdbbf3af7af46~mv2.png"
-imageAlt: "Netstock’un 2024 Envanter Yönetimi Raporu: KOBİ’lerde Kritik Bulgular"
-wixId: "5d36013b-9b96-43b7-be92-9b2e89b181ac"
-author: "Sedat Onat"
+title: 'Netstock’un 2024 Envanter Yönetimi Raporu: KOBİ’lerde Kritik Bulgular'
+subtitle: 'Netstock’un 2024 Envanter Yönetimi Raporu: KOBİ’lerde Kritik Bulgular'
+date: '2024-10-01T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_cfda771b8a2f41c4a3fcdbbf3af7af46~mv2.png
+imageAlt: 'Netstock’un 2024 Envanter Yönetimi Raporu: KOBİ’lerde Kritik Bulgular'
+wixId: 5d36013b-9b96-43b7-be92-9b2e89b181ac
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- envanter yönetimi
+- KOBİ
+- Netstock
+- tedarik zinciri
+- yapay zeka
+- nearshoring
+- fazla stok
 ---
 <p>Netstock’un 2024 Inventory Management Benchmark Report raporu, dünya genelinde 2.400'den fazla müşterisinin anonim ve toplu platform verilerine dayanarak envanter yönetiminin mevcut durumunu kapsamlı bir şekilde analiz ediyor. Bu rapor, tedarik zinciri karar vericileri için önemli zorlukları ve fırsatları ortaya koyarken, küçük ve orta ölçekli işletmelerin (KOBİ'ler) envanter yönetiminde karşılaştığı başlıca sorunları gözler önüne seriyor.</p>
 <p><br></p>

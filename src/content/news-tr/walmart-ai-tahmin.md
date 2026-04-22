@@ -1,14 +1,23 @@
 ---
-title: "Walmart: Yapay Zekâ Tedarik Değişimlerini Öngörebilmekte"
-subtitle: "Walmart: Yapay Zekâ Tedarik Değişimlerini Öngörebilmekte"
-date: "2025-09-18T00:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_73d00124691f46c6becf359d19539e6b~mv2.png"
-imageAlt: "Walmart: Yapay Zekâ Tedarik Değişimlerini Öngörebilmekte"
-wixId: "fd95ac53-ee92-4fd5-a262-84c43d27a71c"
-author: "Sedat Onat"
+title: 'Walmart: Yapay Zekâ Tedarik Değişimlerini Öngörebilmekte'
+subtitle: 'Walmart: Yapay Zekâ Tedarik Değişimlerini Öngörebilmekte'
+date: '2025-09-18T00:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_73d00124691f46c6becf359d19539e6b~mv2.png
+imageAlt: 'Walmart: Yapay Zekâ Tedarik Değişimlerini Öngörebilmekte'
+wixId: fd95ac53-ee92-4fd5-a262-84c43d27a71c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Walmart
+- yapay zeka
+- tedarik zinciri
+- demand sensing
+- AMR
+- computer vision
+- tahmine dayalı analiz
+- perakende
 ---
 <p style="text-align: justify">Walmart, tedarik zinciri operasyonlarını yalnızca görünen aksaklıklara tepki veren bir sistemden çıkarıp, <strong>yaklaşan değişim sinyallerine önceden yanıt verebilen proaktif bir yapıya</strong> dönüştürüyor. Şirket, <strong>yapay zekâ destekli analiz</strong> ile mağaza içi ve çevrimiçi talepten; <strong>POS (Point of Sale) verileri</strong>, <strong>hava durumu</strong>, <strong>promosyon takvimi</strong>, <strong>sosyal medya eğilimleri</strong> ve <strong>tedarikçi performansı</strong> gibi çoklu kaynakları birleştirerek <strong>demand sensing</strong> modelleri oluşturuyor. Bu sayede talep dalgalanmaları, gerçekleşmeden önce tahmin edilip yönetilebiliyor.</p>
 <p style="text-align: justify"><br></p>

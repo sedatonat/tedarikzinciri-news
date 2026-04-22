@@ -1,14 +1,22 @@
 ---
-title: "BIMCO, Uzaktan Kontrol Edilen Gemiler İçin AUTOSHIPMAN Anlaşmasını Onayladı"
-subtitle: "BIMCO, Uzaktan Kontrol Edilen Gemiler İçin AUTOSHIPMAN Anlaşmasını Onayladı"
-date: "2024-10-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a2a557e27b664a728dfd582e22d1d279~mv2.jpg"
-imageAlt: "BIMCO, Uzaktan Kontrol Edilen Gemiler İçin AUTOSHIPMAN Anlaşmasını Onayladı"
-wixId: "30e6b74b-7d25-4e5c-906a-ba3672862bcd"
-author: "Sedat Onat"
+title: BIMCO, Uzaktan Kontrol Edilen Gemiler İçin AUTOSHIPMAN Anlaşmasını Onayladı
+subtitle: BIMCO, Uzaktan Kontrol Edilen Gemiler İçin AUTOSHIPMAN Anlaşmasını Onayladı
+date: '2024-10-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a2a557e27b664a728dfd582e22d1d279~mv2.jpg
+imageAlt: BIMCO, Uzaktan Kontrol Edilen Gemiler İçin AUTOSHIPMAN Anlaşmasını Onayladı
+wixId: 30e6b74b-7d25-4e5c-906a-ba3672862bcd
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- BIMCO
+- otonom gemi
+- uzaktan kontrol
+- denizcilik
+- AUTOSHIPMAN
+- gemi yönetimi
+- Anglo Eastern
 ---
 <p>Baltık ve Uluslararası Denizcilik Konseyi (BIMCO) Belge Komitesi, uzaktan kontrol edilen gemilerin sayısındaki artışa yanıt olarak AUTOSHIPMAN anlaşmasını onayladı. Bu anlaşma, uzaktan kontrol edilen veya tamamen otonom gemilerin işletimi için hizmet sağlayan üçüncü taraf gemi yöneticileri için standart bir sözleşme yapısı oluşturuyor.</p>
 <p><br></p>

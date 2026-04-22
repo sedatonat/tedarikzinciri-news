@@ -1,14 +1,23 @@
 ---
-title: "MSC ve Maersk, CMA CGM’nin Ardından Gemilerini Hindistan Bayrağına Geçiriyor"
-subtitle: "MSC ve Maersk, CMA CGM’nin Ardından Gemilerini Hindistan Bayrağına Geçiriyor"
-date: "2025-10-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_132c9c1b1722490883bf53eef0c4e5ea~mv2.jpg"
-imageAlt: "MSC ve Maersk, CMA CGM’nin Ardından Gemilerini Hindistan Bayrağına Geçiriyor"
-wixId: "2493fb68-0de2-4596-8133-5ad6a29bef56"
-author: "Sedat Onat"
+title: MSC ve Maersk, CMA CGM’nin Ardından Gemilerini Hindistan Bayrağına Geçiriyor
+subtitle: MSC ve Maersk, CMA CGM’nin Ardından Gemilerini Hindistan Bayrağına Geçiriyor
+date: '2025-10-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_132c9c1b1722490883bf53eef0c4e5ea~mv2.jpg
+imageAlt: MSC ve Maersk, CMA CGM’nin Ardından Gemilerini Hindistan Bayrağına Geçiriyor
+wixId: 2493fb68-0de2-4596-8133-5ad6a29bef56
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- MSC
+- Maersk
+- CMA CGM
+- Hindistan
+- konteyner taşımacılığı
+- kabotaj
+- denizcilik
+- Maritime India Vision 2030
 ---
 <p style="text-align: justify"><strong>Dünyanın en büyük üç konteyner taşımacılığı devi — MSC, Maersk ve CMA CGM — gemilerini Hindistan bayrağına geçirerek (reflagging) ülkenin kabotaj yasalarından ve hızla büyüyen kıyı ticaretinden yararlanmaya hazırlanmakta.</strong></p>
 <p><br>

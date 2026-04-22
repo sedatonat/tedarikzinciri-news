@@ -1,14 +1,22 @@
 ---
-title: "CEVA Logistics, Ağır Yük Uzmanı Fagioli Group’u Satın Alıyor"
-subtitle: "CEVA Logistics, Ağır Yük Uzmanı Fagioli Group’u Satın Alıyor"
-date: "2025-12-15T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_b4dc0cabd16146e1a71812ec33caae77~mv2.jpg"
-imageAlt: "CEVA Logistics’in Fagioli Group’u satın alma anlaşmasıyla ağır yük, proje lojistiği ve kompleks kargo operasyonlarında uçtan uca yetkinlik kazanmasını ele alan detaylı sektör özeti"
-wixId: "f618d5e5-da03-4097-bec2-eb897752d49f"
-author: "Sedat Onat"
+title: CEVA Logistics, Ağır Yük Uzmanı Fagioli Group’u Satın Alıyor
+subtitle: CEVA Logistics, Ağır Yük Uzmanı Fagioli Group’u Satın Alıyor
+date: '2025-12-15T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_b4dc0cabd16146e1a71812ec33caae77~mv2.jpg
+imageAlt: CEVA Logistics’in Fagioli Group’u satın alma anlaşmasıyla ağır yük, proje lojistiği ve kompleks kargo operasyonlarında uçtan uca yetkinlik kazanmasını ele alan detaylı sektör özeti
+wixId: f618d5e5-da03-4097-bec2-eb897752d49f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CEVA Logistics
+- Fagioli Group
+- satın alma
+- proje lojistiği
+- ağır yük taşımacılığı
+- CMA CGM
+- İtalya
 ---
 <p style="text-align: justify">Küresel lojistik oyuncularından <strong>CEVA Logistics</strong>, proje lojistiği ve ağır yük taşımacılığı alanındaki yetkinliklerini genişletmek amacıyla İtalya merkezli <strong>Fagioli Group</strong>’un yüzde 100’ünü satın almak üzere anlaşma imzaladı. Anlaşma, gerekli <strong>regulatory approvals</strong> sürecine tabi tutulmakta ve finansal detaylar kamuoyuyla paylaşılmadı. Bu adım, CEVA’nın karmaşık ve yüksek mühendislik gerektiren lojistik projelerde daha güçlü bir konuma ilerlemekte olduğunu göstermekte.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "PeakLogix ve Movu Robotics'ten Depo Otomasyonunda Stratejik İşbirliği"
-subtitle: "PeakLogix ve Movu Robotics'ten Depo Otomasyonunda Stratejik İşbirliği"
-date: "2024-03-01T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_1022671aa74f4cda9af5b5d8557fc80c~mv2.jpg"
-imageAlt: "PeakLogix ve Movu Robotics'ten Depo Otomasyonunda Stratejik İşbirliği"
-wixId: "4e379a91-979a-4a35-8cfe-64ecbd1a63ee"
-author: "Sedat Onat"
+title: PeakLogix ve Movu Robotics'ten Depo Otomasyonunda Stratejik İşbirliği
+subtitle: PeakLogix ve Movu Robotics'ten Depo Otomasyonunda Stratejik İşbirliği
+date: '2024-03-01T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_1022671aa74f4cda9af5b5d8557fc80c~mv2.jpg
+imageAlt: PeakLogix ve Movu Robotics'ten Depo Otomasyonunda Stratejik İşbirliği
+wixId: 4e379a91-979a-4a35-8cfe-64ecbd1a63ee
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- depo otomasyonu
+- PeakLogix
+- Movu Robotics
+- AMR
+- robotik çözümler
+- Kuzey Amerika
+- stratejik ortaklık
 ---
 <p><a href="https://peaklogix.com/"><u>PeakLogix</u></a>, malzeme taşıma çözümleri ve depo optimizasyon hizmetleri sunan ve 1989'dan beri sektörde öncü bir firma olarak, <a href="https://www.movu-robotics.com/en"><u>Movu Robotics</u></a> ile stratejik bir ortaklık kurduğunu duyurdu.&nbsp;</p>
 <p><br></p>

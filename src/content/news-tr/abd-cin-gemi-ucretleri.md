@@ -1,14 +1,22 @@
 ---
-title: "ABD'nin Çin Yapımı Gemilere Uyguladığı Ücretler Tartışma Yaratıyor"
-subtitle: "ABD'nin Çin Yapımı Gemilere Uyguladığı Ücretler Tartışma Yaratıyor"
-date: "2025-03-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_117d9ebd00484cf893c43e22befca0b2~mv2.jpg"
-imageAlt: "ABD'nin Çin Yapımı Gemilere Uyguladığı Ücretler Tartışma Yaratıyor"
-wixId: "a73a22e2-60ff-4c79-83b7-1d3416f14998"
-author: "Sedat Onat"
+title: ABD'nin Çin Yapımı Gemilere Uyguladığı Ücretler Tartışma Yaratıyor
+subtitle: ABD'nin Çin Yapımı Gemilere Uyguladığı Ücretler Tartışma Yaratıyor
+date: '2025-03-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_117d9ebd00484cf893c43e22befca0b2~mv2.jpg
+imageAlt: ABD'nin Çin Yapımı Gemilere Uyguladığı Ücretler Tartışma Yaratıyor
+wixId: a73a22e2-60ff-4c79-83b7-1d3416f14998
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD
+- Çin
+- gemi inşa
+- CMA CGM
+- denizcilik
+- ticaret savaşı
+- gümrük vergisi
 ---
 <p style="text-align: justify">ABD'nin Çin'den sipariş edilen gemilere uygulamayı planladığı "1 milyon dolara kadar" olan ücret, deniz taşımacılığı sektöründe endişelere yol açmakta. Bu ücret, <strong>CMA CGM</strong> yöneticilerine göre, özellikle Çin'den gemi siparişi veren büyük denizcilik şirketlerini olumsuz etkilemekte. Önerilen bu ücret, dokuz büyük denizcilik ittifakı şirketinden sekizini doğrudan etkilemekte.​<a href="https://shippingwatch.com/carriers/Container/article17958446.ece" rel="noopener" target="_blank">shippingwatch.com</a></p>
 <p><br></p>

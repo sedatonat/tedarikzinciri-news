@@ -1,14 +1,22 @@
 ---
-title: "Yeni Denizcilik Kuralı, Avrupa'nın Dizel Talebine Destek Sağlayacak"
-subtitle: "Yeni Denizcilik Kuralı, Avrupa'nın Dizel Talebine Destek Sağlayacak"
-date: "2024-10-31T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1d6d4f9952f241d8b5f2894dfba71d21~mv2.jpg"
-imageAlt: "Yeni Denizcilik Kuralı, Avrupa'nın Dizel Talebine Destek Sağlayacak"
-wixId: "1292c136-9b71-41d5-b833-ad4dfe88ce16"
-author: "Sedat Onat"
+title: Yeni Denizcilik Kuralı, Avrupa'nın Dizel Talebine Destek Sağlayacak
+subtitle: Yeni Denizcilik Kuralı, Avrupa'nın Dizel Talebine Destek Sağlayacak
+date: '2024-10-31T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1d6d4f9952f241d8b5f2894dfba71d21~mv2.jpg
+imageAlt: Yeni Denizcilik Kuralı, Avrupa'nın Dizel Talebine Destek Sağlayacak
+wixId: 1292c136-9b71-41d5-b833-ad4dfe88ce16
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- deniz taşımacılığı
+- dizel yakıt
+- Akdeniz
+- kükürt emisyonu
+- marine gas-oil
+- çevre düzenlemesi
+- Avrupa
 ---
 <p>Akdeniz'de deniz taşımacılığından kaynaklanan kirliliği azaltmayı hedefleyen yeni bir düzenleme, Avrupa'nın düşüşte olan dizel talebine destek olacak. Danışmanlık firması FGE'nin rafine ürünler bölümü başkanı Eugene Lindell'e göre, bu düzenleme gelecek yıl "marine gas-oil" olarak bilinen bir tür dizel yakıtın talebinde günlük 44.000 varillik bir artışa neden olacak.</p>
 <p><br></p>

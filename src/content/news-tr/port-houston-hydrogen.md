@@ -1,14 +1,22 @@
 ---
-title: "Port Houston'a 25 Milyon Dolarlık Hidrojen Yakıt İstasyonu Hibesi"
-subtitle: "Port Houston'a 25 Milyon Dolarlık Hidrojen Yakıt İstasyonu Hibesi"
-date: "2025-02-20T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_3142f45ded36404895c2d33a20a0c727~mv2.jpg"
-imageAlt: "Port Houston'a 25 Milyon Dolarlık Hidrojen Yakıt İstasyonu Hibesi"
-wixId: "b2c4c99a-3cd3-44d2-906b-b1ca00dd836f"
-author: "Sedat Onat"
+title: Port Houston'a 25 Milyon Dolarlık Hidrojen Yakıt İstasyonu Hibesi
+subtitle: Port Houston'a 25 Milyon Dolarlık Hidrojen Yakıt İstasyonu Hibesi
+date: '2025-02-20T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_3142f45ded36404895c2d33a20a0c727~mv2.jpg
+imageAlt: Port Houston'a 25 Milyon Dolarlık Hidrojen Yakıt İstasyonu Hibesi
+wixId: b2c4c99a-3cd3-44d2-906b-b1ca00dd836f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Port Houston
+- hidrojen yakıt
+- liman altyapısı
+- sürdürülebilirlik
+- karbon emisyonu
+- federal hibe
+- temiz enerji
 ---
 <p style="text-align: justify">ABD’nin en büyük limanlarından biri olan <strong>Port Houston</strong>, hidrojen yakıt altyapısını geliştirmek için <strong>25 milyon dolarlık</strong> bir federal hibe almaya hak kazandı. Bu fon, limanın emisyonlarını azaltmayı ve çevresel sürdürülebilirliği artırmayı hedefleyen bir hidrojen yakıt istasyonu inşası için kullanılacak. Hibe, <strong>Amerikan Ulaştırma Bakanlığı Federal Otoyol İdaresi</strong> (<strong>FHWA</strong>) tarafından sağlanmakta.</p>
 <p><br></p>

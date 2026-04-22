@@ -1,14 +1,23 @@
 ---
-title: "Türkiye 65’inci Marinasını Açtı: Denizcilik ve Lojistikte Küresel Konum Güçleniyor"
-subtitle: "Türkiye 65’inci Marinasını Açtı: Denizcilik ve Lojistikte Küresel Konum Güçleniyor"
-date: "2025-11-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/0cf27a8746ec4dd887e5a716f301b49b.jpg"
-imageAlt: "Gazipaşa Marina’nın açılmasıyla Türkiye’nin marina sayısı 65’e yükseldi; Uraloğlu sektördeki büyümeyi, ticaret filosunun 53,1 milyon DWT seviyesine çıkmasını, Aliağa’nın dünya ilk 100 liman arasına girmesini ve kruvaziyer ile yat turizmindeki artışı vurguladı."
-wixId: "be4f9252-2c87-4d01-812d-2f12048bb558"
-author: "Sedat Onat"
+title: 'Türkiye 65’inci Marinasını Açtı: Denizcilik ve Lojistikte Küresel Konum Güçleniyor'
+subtitle: 'Türkiye 65’inci Marinasını Açtı: Denizcilik ve Lojistikte Küresel Konum Güçleniyor'
+date: '2025-11-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/0cf27a8746ec4dd887e5a716f301b49b.jpg
+imageAlt: Gazipaşa Marina’nın açılmasıyla Türkiye’nin marina sayısı 65’e yükseldi; Uraloğlu sektördeki büyümeyi, ticaret filosunun 53,1 milyon DWT seviyesine çıkmasını, Aliağa’nın dünya ilk 100 liman arasına girmesini ve kruvaziyer ile yat turizmindeki artışı vurguladı.
+wixId: be4f9252-2c87-4d01-812d-2f12048bb558
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- marina
+- denizcilik altyapısı
+- yat turizmi
+- konteyner limanı
+- ticaret filosu
+- gemi inşa
+- kruvaziyer turizm
+- Gazipaşa
 ---
 <p style="text-align: justify">Türkiye, denizcilik altyapısındaki genişlemesine bir yenisini ekleyerek <strong>Gazipaşa Marina’nın açılışıyla marina sayısını 65’e çıkardı</strong>. Ulaştırma ve Altyapı Bakanı <strong>Abdulkadir Uraloğlu</strong>, açılış töreninde yeni marinanın bölgeye yalnızca yaz aylarında değil, <strong>tüm yıl boyunca yat turizmi</strong> kazandıracağını belirtti. Bu sayede Antalya’nın doğu aksında deniz turizmine dayalı ekonomik aktivitenin kış dönemine kadar yayılması hedefleniyor.</p>
 <p><br></p>

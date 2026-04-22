@@ -1,14 +1,22 @@
 ---
-title: "Pocket Box, Filo Yönetimini Yenilikçi Varlık Modülüyle Güçlendiriyor"
-subtitle: "Pocket Box, Filo Yönetimini Yenilikçi Varlık Modülüyle Güçlendiriyor"
-date: "2024-04-25T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_da1748733bb5487d907052ea8bb95806~mv2.jpg"
-imageAlt: "Pocket Box, Filo Yönetimini Yenilikçi Varlık Modülüyle Güçlendiriyor"
-wixId: "525948f6-8e36-4069-aa0b-c047cdd96ab1"
-author: "Sedat Onat"
+title: Pocket Box, Filo Yönetimini Yenilikçi Varlık Modülüyle Güçlendiriyor
+subtitle: Pocket Box, Filo Yönetimini Yenilikçi Varlık Modülüyle Güçlendiriyor
+date: '2024-04-25T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_da1748733bb5487d907052ea8bb95806~mv2.jpg
+imageAlt: Pocket Box, Filo Yönetimini Yenilikçi Varlık Modülüyle Güçlendiriyor
+wixId: 525948f6-8e36-4069-aa0b-c047cdd96ab1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Pocket Box
+- filo yönetimi
+- varlık yönetimi
+- kara taşımacılığı
+- lojistik yazılım
+- KOBİ
+- dijital çözüm
 ---
 <p><a href="https://pocketbox.co.uk/fleet-management/"><u>Pocket Box</u></a>, küçük ve orta ölçekli işletmelerin filo yönetimine yönelik yazılım çözümünü geliştirerek, kara taşımacılığı operatörlerinin artan taleplerini karşılamayı hedefliyor. Yeni eklenen varlık modülü ile <a href="https://pocketbox.co.uk/fleet-management/"><u>Pocket Box</u></a> Filo, araçlar, römorklar, ekipmanlar ve sürücülerin yönetimini kolaylaştıracak bir sistem sunuyor. Bu modül, işletmelerin çeşitli ekipmanlarını korumalarına, izlemelerine ve güvenliklerini sağlamalarına olanak tanıyor.</p>
 <p><br></p>

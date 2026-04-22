@@ -1,16 +1,22 @@
 ---
-title: "Arctic Basin Container Volume Surged 10.9% in January 2025"
-subtitle: "Arctic Basin Container Volume Surged 10.9% in January 2025"
-date: "2025-03-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_66202202dc4d49b0913d2796c08936fb~mv2.jpg"
-imageAlt: "Arctic Basin Container Volume Surged 10.9% in January 2025"
-wixId: "ca7b33b8-dc7b-4b9b-ac85-44cdc02c1333"
-author: "Sedat Onat"
+title: Arctic Basin Container Volume Surged 10.9% in January 2025
+subtitle: Arctic Basin Container Volume Surged 10.9% in January 2025
+date: '2025-03-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_66202202dc4d49b0913d2796c08936fb~mv2.jpg
+imageAlt: Arctic Basin Container Volume Surged 10.9% in January 2025
+wixId: ca7b33b8-dc7b-4b9b-ac85-44cdc02c1333
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Arctic Basin
+- container volume
+- TEU
+- Port of Murmansk
+- maritime transport
+- Russian ports
 ---
-
 <p style="text-align: justify">In January 2025, total container volume at ports in the <strong>Arctic Basin</strong> reached 100.9 thousand TEU, representing a 10.9% increase compared to the same period the previous year. This growth signals expansion in maritime transportation in the region.</p>
 <p style="text-align: justify"><strong>Murmansk Port</strong> recorded the region's highest container volume at 51.2 thousand TEU, reflecting a 15.1% increase. <strong>Arkhangelsk Port</strong> achieved 14.8 thousand TEU with a 5.7% gain. <strong>Sabetta Port</strong> also posted growth of 12.3%, reaching 8.9 thousand TEU.</p>
 <p><br></p>

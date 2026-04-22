@@ -1,14 +1,22 @@
 ---
-title: "FESCO, İlk 40’ Flexitank Blok Trenini Çin’e Sevk Etti"
-subtitle: "FESCO, İlk 40’ Flexitank Blok Trenini Çin’e Sevk Etti"
-date: "2025-11-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c63538d41ddd48c2a7828223eb4cf7a9~mv2.jpg"
-imageAlt: "FESCO’nun Omsk’tan Çin’e gönderdiği ilk 40’ flexitank blok treni, 62 konteynerlik rapiska yağı yükü, Kazakistan transit rotası ve şirketin yeni flexitank modeli hakkında detaylı haber özeti"
-wixId: "8a0e60e0-fb4b-45c9-b275-04e84ca74d78"
-author: "Sedat Onat"
+title: FESCO, İlk 40’ Flexitank Blok Trenini Çin’e Sevk Etti
+subtitle: FESCO, İlk 40’ Flexitank Blok Trenini Çin’e Sevk Etti
+date: '2025-11-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c63538d41ddd48c2a7828223eb4cf7a9~mv2.jpg
+imageAlt: FESCO’nun Omsk’tan Çin’e gönderdiği ilk 40’ flexitank blok treni, 62 konteynerlik rapiska yağı yükü, Kazakistan transit rotası ve şirketin yeni flexitank modeli hakkında detaylı haber özeti
+wixId: 8a0e60e0-fb4b-45c9-b275-04e84ca74d78
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- FESCO
+- flexitank
+- blok tren
+- Çin
+- kolza yağı
+- intermodal taşımacılık
+- Kazakistan transit
 ---
 <p style="text-align: justify"><strong>FESCO Transport Group</strong>, şirketin intermodal kapasitesini güçlendiren önemli bir adım olarak <strong>Omsk</strong>’tan Çin’e yönelik ilk <strong>40’ flexitank block train</strong> operasyonunun başarıyla başlatıldığını duyurdu. Tamamı <strong>40-foot flexitank</strong> yüklü konteynerlerden oluşan tren, 22 Kasım’da <strong>Karbyshevo</strong> istasyonundan hareket etti. Tren toplam <strong>62 adet 40’ ünite</strong> taşımakta ve bu yükün tamamı <strong>rapeseed oil</strong> (kolza yağı) olarak belirtilmekte. Sevkiyat, <strong>Kazakhstan</strong> transit rotası üzerinden ilerlemekte olup, yaklaşık <strong>14 gün</strong> içinde Çin’in <strong>Chengdu</strong> şehrine ulaşması hedeflenmekte.</p>
 <p><br></p>

@@ -1,14 +1,23 @@
 ---
-title: "Kaliforniya'nın İçten Yanmalı Forklift Yasağına Propan Grubundan Eleştiri"
-subtitle: "Kaliforniya'nın İçten Yanmalı Forklift Yasağına Propan Grubundan Eleştiri"
-date: "2024-05-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e3bcac42facb432fa2821877835dfbdf~mv2.png"
-imageAlt: "Kaliforniya'nın İçten Yanmalı Forklift Yasağına Propan Grubundan Eleştiri"
-wixId: "cde55f20-0291-48e3-8e72-73e57a91ea8e"
-author: "Sedat Onat"
+title: Kaliforniya'nın İçten Yanmalı Forklift Yasağına Propan Grubundan Eleştiri
+subtitle: Kaliforniya'nın İçten Yanmalı Forklift Yasağına Propan Grubundan Eleştiri
+date: '2024-05-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e3bcac42facb432fa2821877835dfbdf~mv2.png
+imageAlt: Kaliforniya'nın İçten Yanmalı Forklift Yasağına Propan Grubundan Eleştiri
+wixId: cde55f20-0291-48e3-8e72-73e57a91ea8e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- forklift
+- Kaliforniya
+- içten yanmalı motor
+- elektrikli forklift
+- CARB
+- propan
+- emisyon
+- depo operasyonları
 ---
 <p>Kaliforniya Hava Kaynakları Kurulu (CARB), eyalet genelinde içten yanmalı forkliftlerin batarya elektrikli versiyonlarıyla değiştirilmesini zorunlu kılacak bir politika üzerine 27 Haziran'da oy kullanmaya hazırlanıyor. Bu politika, özellikle depo, dağıtım merkezi ve limanlar gibi alanlarda kullanılan yaklaşık 100,000 forklifti kapsıyor.&nbsp;</p>
 <p><br></p>

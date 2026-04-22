@@ -1,16 +1,23 @@
 ---
-title: "Seatrium Sells Two Platform Supply Vessels to Brazilian Posidonia for $60 Million"
-subtitle: "Seatrium Sells Two Platform Supply Vessels to Brazilian Posidonia for $60 Million"
-date: "2025-11-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5dee12ed40f74af687d465ff24040faa~mv2.jpg"
-imageAlt: "Singapore-based shipbuilding group Seatrium has sold two platform support vessels (PSVs) to Brazil-based Posidonia Shipping and Trading for approximately $59.7 million. The sale is part of the company's strategy to divest non-core assets and enhance operational efficiency."
-wixId: "371517d6-d0e7-4ce4-b67d-e483fecb3cc5"
-author: "Sedat Onat"
+title: Seatrium Sells Two Platform Supply Vessels to Brazilian Posidonia for $60 Million
+subtitle: Seatrium Sells Two Platform Supply Vessels to Brazilian Posidonia for $60 Million
+date: '2025-11-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5dee12ed40f74af687d465ff24040faa~mv2.jpg
+imageAlt: Singapore-based shipbuilding group Seatrium has sold two platform support vessels (PSVs) to Brazil-based Posidonia Shipping and Trading for approximately $59.7 million. The sale is part of the company's strategy to divest non-core assets and enhance operational efficiency.
+wixId: 371517d6-d0e7-4ce4-b67d-e483fecb3cc5
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Seatrium
+- platform supply vessel
+- Posidonia
+- Brazil
+- ship sale
+- offshore energy
+- asset optimization
 ---
-
 <p style="text-align: justify"><strong>Singapore-based shipbuilding and marine engineering company Seatrium</strong> has decided to sell <strong>two platform supply vessels (PSVs)</strong> to <strong>Brazilian Posidonia Shipping and Trading.</strong> The total value of the transaction has been announced as <strong>$59.7 million.</strong></p>
 <p><br></p>
 <p style="text-align: justify">The company stated that the transaction is part of its <strong>long-term strategy to divest non-core assets</strong> and <strong>increase capital efficiency and operational performance.</strong></p>

@@ -1,14 +1,22 @@
 ---
-title: "Anket: Tedarik Zinciri Yöneticileri ile C-Suite Arasında Büyük Uçurum"
-subtitle: "Anket: Tedarik Zinciri Yöneticileri ile C-Suite Arasında Büyük Uçurum"
-date: "2024-12-02T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_f0aa167fc31a42cda619229b4ac66f3d~mv2.jpg"
-imageAlt: "Anket: Tedarik Zinciri Yöneticileri ile C-Suite Arasında Büyük Uçurum"
-wixId: "33085d91-1e1b-41cf-8f24-3fbf04586c62"
-author: "Sedat Onat"
+title: 'Anket: Tedarik Zinciri Yöneticileri ile C-Suite Arasında Büyük Uçurum'
+subtitle: 'Anket: Tedarik Zinciri Yöneticileri ile C-Suite Arasında Büyük Uçurum'
+date: '2024-12-02T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_f0aa167fc31a42cda619229b4ac66f3d~mv2.jpg
+imageAlt: 'Anket: Tedarik Zinciri Yöneticileri ile C-Suite Arasında Büyük Uçurum'
+wixId: 33085d91-1e1b-41cf-8f24-3fbf04586c62
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tedarik zinciri yönetimi
+- C-suite
+- EY anketi
+- dijitalleşme
+- tedarik zinciri direnci
+- maliyet yönetimi
+- otonom tedarik zinciri
 ---
 <p>COVID-19 pandemisi, tedarik zinciri yöneticilerinin bakış açısını kökten değiştirdi. Küresel karantinalar ve ticaret savaşları gibi etkenler, maliyetin malzeme tedarikinde ve üretimde belirleyici olmaması gerektiği düşüncesini ön plana çıkardı. Tedarikçi çeşitlendirmesi ve üretimin nihai pazarlara daha yakın bölgelere kaydırılması, önceden daha fazla harcama gerektirse de tedarik zinciri direncini sağlama stratejisinin önemli unsurları haline geldi. Ancak, COVID-19’un ortaya çıkmasından neredeyse beş yıl sonra, tedarik zinciri yöneticilerinin bu perspektiflerini koruyup korumadıkları merak konusu oldu.</p>
 <p><br></p>

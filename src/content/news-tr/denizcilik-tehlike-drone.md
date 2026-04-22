@@ -1,14 +1,23 @@
 ---
-title: "2025 Denizcilik Güvenliği Yeniden Tanımlanıyor: Korsanlıktan Uzaktan Savaşa Geçiş"
-subtitle: "2025 Denizcilik Güvenliği Yeniden Tanımlanıyor: Korsanlıktan Uzaktan Savaşa Geçiş"
-date: "2025-12-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_20fa6e3313384fac9410906c213f5b3a~mv2.jpg"
-imageAlt: "2025’te deniz taşımacılığını etkileyen yeni tehdit modelinin—dronlarla yapılan uzaktan saldırılar, swarm taktikleri, liman güvenlik açıkları ve büyük hatların Red Sea geri dönüşünü ertelemesinin arka planı—üzerine detaylı haber özeti"
-wixId: "98a53778-6d85-4e26-b602-699c45b70ace"
-author: "Sedat Onat"
+title: '2025 Denizcilik Güvenliği Yeniden Tanımlanıyor: Korsanlıktan Uzaktan Savaşa Geçiş'
+subtitle: '2025 Denizcilik Güvenliği Yeniden Tanımlanıyor: Korsanlıktan Uzaktan Savaşa Geçiş'
+date: '2025-12-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_20fa6e3313384fac9410906c213f5b3a~mv2.jpg
+imageAlt: 2025’te deniz taşımacılığını etkileyen yeni tehdit modelinin—dronlarla yapılan uzaktan saldırılar, swarm taktikleri, liman güvenlik açıkları ve büyük hatların Red Sea geri dönüşünü ertelemesinin arka planı—üzerine detaylı haber özeti
+wixId: 98a53778-6d85-4e26-b602-699c45b70ace
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- denizcilik güvenliği
+- drone saldırıları
+- Kızıldeniz
+- insansız hava aracı
+- konteyner gemisi
+- Maersk
+- siber savaş
+- liman güvenliği
 ---
 <p style="text-align: justify">2025 yılı, küresel denizcilik güvenliğinin uzun süredir görülmemiş ölçekte yeniden şekillendiği bir kırılma dönemi olarak öne çıkmakta. Tarihsel olarak deniz taşımacılığı için en büyük tehdit, gemilerin ele geçirilerek fidye istenmesine dayanan <strong>piracy</strong> faaliyetleriydi. Somali açıkları ve <strong>Gulf of Guinea</strong> gibi bölgelerde korsanlık tehdidinin temel amacı, gemi ve mürettebatı rehin alıp ekonomik kazanım elde etmekti. Ancak 2025 itibarıyla tehdit türü tamamen değişmiş durumda: artık amaç gemiyi ele geçirmek değil, <strong>yok etmek</strong>. Bu dönüşüm, devlet ve devlet dışı aktörlerin düşük maliyetli insansız sistemleri yoğun şekilde kullanmasıyla hızlanmakta.</p>
 <p><br></p>

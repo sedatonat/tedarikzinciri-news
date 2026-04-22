@@ -1,16 +1,24 @@
 ---
-title: "CLdN Orders 10 New LoLo Container Ships: Fleet Expansion"
-subtitle: "CLdN Orders 10 New LoLo Container Ships: Fleet Expansion"
-date: "2024-09-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8f88f3b0da834a229846919429eb7e72~mv2.jpg"
-imageAlt: "CLdN Orders 10 New LoLo Container Ships: Fleet Expansion"
-wixId: "6e49547b-c665-488a-861c-4739f8889066"
-author: "Sedat Onat"
+title: 'CLdN Orders 10 New LoLo Container Ships: Fleet Expansion'
+subtitle: 'CLdN Orders 10 New LoLo Container Ships: Fleet Expansion'
+date: '2024-09-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8f88f3b0da834a229846919429eb7e72~mv2.jpg
+imageAlt: 'CLdN Orders 10 New LoLo Container Ships: Fleet Expansion'
+wixId: 6e49547b-c665-488a-861c-4739f8889066
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- CLdN
+- LoLo ship
+- container ship
+- maritime transport
+- HD Hyundai Mipo
+- Rotterdam
+- fleet expansion
+- RoRo
 ---
-
 <p>Multimodal logistics provider <strong>CLdN</strong> has placed an order for 10 new lift-on/lift-off (<strong>LoLo</strong>) container ships to expand its maritime transport fleet. Each vessel will have a cargo capacity of 1,100 <strong>TEU</strong> and will join the company's existing fleet of approximately 30 <strong>RoRo</strong> ships. This move is seen as part of CLdN's strategy to strengthen its presence in the European maritime transport sector and expand its service portfolio.</p>
 <p><br></p>
 <p>The new LoLo vessels have been designed for fuel efficiency and will feature an open hatch design. The open hatch design enables the ships to carry larger and more voluminous cargo while facilitating faster loading and unloading operations at ports. This reduces handling times, increases operational efficiency, and enables faster service delivery to customers.</p>

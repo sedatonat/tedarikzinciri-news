@@ -1,14 +1,22 @@
 ---
-title: "Zebra Depo Robotik İşinden Çıkış Kararı Aldı"
-subtitle: "Zebra Depo Robotik İşinden Çıkış Kararı Aldı"
-date: "2025-12-18T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_8e75f3d5275d4c9d80b525949984de01~mv2.jpg"
-imageAlt: "Zebra Technologies, Fetch Robotics satın alımıyla girdiği depo içi mobil robot pazarından çıkmayı planlarken, odağını RFID, mobil bilişim, makine görüşü, yapay zeka ve yazılım tabanlı büyüme alanlarına kaydırıyor."
-wixId: "66ab6892-c4dc-4f83-85a3-cb14c7e990c4"
-author: "Sedat Onat"
+title: Zebra Depo Robotik İşinden Çıkış Kararı Aldı
+subtitle: Zebra Depo Robotik İşinden Çıkış Kararı Aldı
+date: '2025-12-18T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_8e75f3d5275d4c9d80b525949984de01~mv2.jpg
+imageAlt: Zebra Technologies, Fetch Robotics satın alımıyla girdiği depo içi mobil robot pazarından çıkmayı planlarken, odağını RFID, mobil bilişim, makine görüşü, yapay zeka ve yazılım tabanlı büyüme alanlarına kaydırıyor.
+wixId: 66ab6892-c4dc-4f83-85a3-cb14c7e990c4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Zebra Technologies
+- depo otomasyonu
+- otonom mobil robot
+- AMR
+- Fetch Robotics
+- robotik otomasyon
+- RFID
 ---
 <p style="text-align: justify"><strong>Zebra Technologies</strong>, depo otomasyonu alanındaki robotik faaliyetlerinden çıkma kararı aldığını açıkladı. Şirketin Aralık ayında <strong>U.S. Securities and Exchange Commission (SEC)</strong>’e yaptığı bildirimde yer alan bu karar, Zebra’nın <strong>2021 yılında 290 milyon dolar karşılığında</strong> satın aldığı <strong>Fetch Robotics</strong> ile başlattığı <strong>otonom mobil robot (AMR)</strong> stratejisinin sonuna gelindiğini gösterdi. Planlanan adım, robotik otomasyon biriminin elden çıkarılması ya da kademeli olarak kapatılması yönünde ilerlemekte.</p>
 <p><br></p>

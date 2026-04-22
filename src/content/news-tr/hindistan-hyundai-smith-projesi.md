@@ -1,14 +1,22 @@
 ---
-title: "Hindistan ve HD Hyundai’den 2 Milyar Dolarlık Mega Tersane Anlaşması: SMITH Projesi Başladı"
-subtitle: "Hindistan ve HD Hyundai’den 2 Milyar Dolarlık Mega Tersane Anlaşması: SMITH Projesi Başladı"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9ece6194bc4d45ffa53c9bb13985e7ff~mv2.jpg"
-imageAlt: "Hindistan’ın Tamil Nadu–Thoothukudi’de kurulacak HD Hyundai ortak tersanesi için imzalanan SMITH Projesi anlaşması, 2 milyar dolarlık yatırımın hedefleri, yer seçimi, tedarik zinciri etkileri ve Maritime Amrit Kaal Vision 2047 bağlamının detaylı özeti"
-wixId: "726b9317-7fa1-44d7-8e09-e03203e26237"
-author: "Sedat Onat"
+title: 'Hindistan ve HD Hyundai’den 2 Milyar Dolarlık Mega Tersane Anlaşması: SMITH Projesi Başladı'
+subtitle: 'Hindistan ve HD Hyundai’den 2 Milyar Dolarlık Mega Tersane Anlaşması: SMITH Projesi Başladı'
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_9ece6194bc4d45ffa53c9bb13985e7ff~mv2.jpg
+imageAlt: Hindistan’ın Tamil Nadu–Thoothukudi’de kurulacak HD Hyundai ortak tersanesi için imzalanan SMITH Projesi anlaşması, 2 milyar dolarlık yatırımın hedefleri, yer seçimi, tedarik zinciri etkileri ve Maritime Amrit Kaal Vision 2047 bağlamının detaylı özeti
+wixId: 726b9317-7fa1-44d7-8e09-e03203e26237
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Hindistan
+- HD Hyundai
+- tersane
+- gemi inşa
+- SMITH Projesi
+- Tamil Nadu
+- Thoothukudi
 ---
 <p style="text-align: justify">Hindistan’ın küresel <strong>shipbuilding</strong> yarışında ilk beş ülke arasına girme hedefi doğrultusunda çok önemli bir adım atıldı. <strong>7 Aralık Pazar günü</strong>, Madurai’de <strong>HD Hyundai</strong> ile Tamil Nadu hükümeti arasında imzalanan anlaşma, ülke tarihinin en büyük gemi inşa yatırımlarından birini başlatmakta. Her ne kadar resmi rakam açıklanmasa da yerel medya proje değerinin <strong>yaklaşık 2 milyar USD (₹18.000 crore)</strong> olduğunu aktarmakta.</p>
 <p><br></p>

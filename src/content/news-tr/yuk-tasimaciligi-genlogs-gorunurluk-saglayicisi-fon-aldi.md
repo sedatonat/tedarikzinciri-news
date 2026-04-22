@@ -1,14 +1,23 @@
 ---
-title: "Yük Taşımacılığı Görünürlük Sağlayıcısı Sensör Ağı Genişletmek İçin Fon Aldı"
-subtitle: "Yük Taşımacılığı Görünürlük Sağlayıcısı Sensör Ağı Genişletmek İçin Fon Aldı"
-date: "2025-02-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5e2d2e1cd397452885790e0a9535a87e~mv2.jpg"
-imageAlt: "Yük Taşımacılığı Görünürlük Sağlayıcısı Sensör Ağı Genişletmek İçin Fon Aldı"
-wixId: "9bafe9b4-23f5-4736-88d9-478e5962f2b7"
-author: "Sedat Onat"
+title: Yük Taşımacılığı Görünürlük Sağlayıcısı Sensör Ağı Genişletmek İçin Fon Aldı
+subtitle: Yük Taşımacılığı Görünürlük Sağlayıcısı Sensör Ağı Genişletmek İçin Fon Aldı
+date: '2025-02-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5e2d2e1cd397452885790e0a9535a87e~mv2.jpg
+imageAlt: Yük Taşımacılığı Görünürlük Sağlayıcısı Sensör Ağı Genişletmek İçin Fon Aldı
+wixId: 9bafe9b4-23f5-4736-88d9-478e5962f2b7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- GenLogs
+- sensör ağı
+- kamyon taşımacılığı
+- görünürlük
+- yük dolandırıcılığı
+- veri analitiği
+- Kuzey Amerika
+- yatırım
 ---
 <p style="text-align: justify"><strong>GenLogs</strong>, ABD'deki karayolu taşımacılığı sektöründe yenilikçi çözümler sunan bir teknoloji şirketi olarak, yol kenarı sensörlerinden oluşan ağıyla kamyon taşımacılığı verilerini toplamakta ve bu sayede yük taşımacılığında şeffaflık sağlamaktadır. Şirket, yakın zamanda 14,6 milyon dolar değerinde bir yatırım alarak sensör ağını genişletmeyi ve faaliyetlerini Meksika ile Kanada'ya taşımayı planlamaktadır. ​</p>
 <p><br></p>

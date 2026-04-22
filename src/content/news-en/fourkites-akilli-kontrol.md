@@ -1,16 +1,23 @@
 ---
-title: "FourKites Launches Intelligent Control Tower for Advanced Supply Chain Automation"
-subtitle: "FourKites Launches Intelligent Control Tower for Advanced Supply Chain Automation"
-date: "2025-01-16T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_0f0566c04f5640ea9f6412c6c814b418~mv2.jpg"
-imageAlt: "FourKites Launches Intelligent Control Tower for Advanced Supply Chain Automation"
-wixId: "94c87535-4e1f-4b33-bbd3-ca0a344d25a2"
-author: "Sedat Onat"
+title: FourKites Launches Intelligent Control Tower for Advanced Supply Chain Automation
+subtitle: FourKites Launches Intelligent Control Tower for Advanced Supply Chain Automation
+date: '2025-01-16T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_0f0566c04f5640ea9f6412c6c814b418~mv2.jpg
+imageAlt: FourKites Launches Intelligent Control Tower for Advanced Supply Chain Automation
+wixId: 94c87535-4e1f-4b33-bbd3-ca0a344d25a2
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- FourKites
+- control tower
+- artificial intelligence
+- supply chain automation
+- digital twin
+- real-time visibility
+- AI
 ---
-
 <p style="text-align: justify"><strong>FourKites</strong> has introduced its <strong>Intelligent Control Tower™</strong> platform to advance supply chain operations. The platform integrates real-time data, digital twins, and AI-powered automation, setting it apart from traditional control towers. While conventional control towers typically focus on retrospective analysis, <strong>Intelligent Control Tower</strong> enables proactive decision-making and autonomous actions within supply chain workflows. <a href="https://www.porttechnology.org/news/fourkites-launches-intelligent-control-tower-for-advanced-supply-chain-automation/" rel="noopener" target="_blank">porttechnology.org</a></p>
 <p><br></p>
 <p style="text-align: justify">A core feature of the platform is <strong>FourKites</strong>' extensive supply chain data network, which tracks more than 3.2 million shipments daily across more than 200 countries. It also provides visibility over shipments, orders, and assets using digital twins and automates tasks such as supplier management, appointment scheduling, and order management through a digital workforce of AI agents. <a href="https://www.porttechnology.org/news/fourkites-launches-intelligent-control-tower-for-advanced-supply-chain-automation/" rel="noopener" target="_blank">porttechnology.org</a></p>

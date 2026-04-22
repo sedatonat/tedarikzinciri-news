@@ -1,14 +1,22 @@
 ---
-title: "Akdeniz'den ABD Doğu Kıyısı ve Körfezine Yeni Sezon Ücreti"
-subtitle: "Akdeniz'den ABD Doğu Kıyısı ve Körfezine Yeni Sezon Ücreti"
-date: "2025-01-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ee45ed0890814463acb23306e3e4886a~mv2.jpg"
-imageAlt: "Akdeniz'den ABD Doğu Kıyısı ve Körfezine Yeni Sezon Ücreti"
-wixId: "a34ec254-d1c1-45fa-bf53-158d86bf234b"
-author: "Sedat Onat"
+title: Akdeniz'den ABD Doğu Kıyısı ve Körfezine Yeni Sezon Ücreti
+subtitle: Akdeniz'den ABD Doğu Kıyısı ve Körfezine Yeni Sezon Ücreti
+date: '2025-01-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_ee45ed0890814463acb23306e3e4886a~mv2.jpg
+imageAlt: Akdeniz'den ABD Doğu Kıyısı ve Körfezine Yeni Sezon Ücreti
+wixId: a34ec254-d1c1-45fa-bf53-158d86bf234b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CMA CGM
+- sezon ücreti
+- Akdeniz
+- ABD Doğu Kıyısı
+- konteyner taşımacılığı
+- PSS
+- deniz taşımacılığı
 ---
 <p><strong>CMA CGM</strong>, Akdeniz'den ABD Doğu Kıyısı ve Körfezine yeni bir <strong>Peak Season Surcharge (PSS)</strong> uygulayacağını duyurdu. Bu ek ücret, 15 Temmuz 2024 tarihinden itibaren geçerli olacak ve tüm konteyner tipleri için geçerli olacak.</p>
 <p><br></p>

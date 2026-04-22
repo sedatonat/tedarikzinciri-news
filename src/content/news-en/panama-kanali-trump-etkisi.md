@@ -1,16 +1,23 @@
 ---
-title: "The Panama Canal and Donald Trump: Impacts on Your Supply Chain"
-subtitle: "The Panama Canal and Donald Trump: Impacts on Your Supply Chain"
-date: "2024-12-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f522307c69b94859b0d2864662f40aa7~mv2.jpg"
-imageAlt: "The Panama Canal and Donald Trump: Impacts on Your Supply Chain"
-wixId: "f561bf4a-6493-4cf9-8abf-4b76bc1118e7"
-author: "Sedat Onat"
+title: 'The Panama Canal and Donald Trump: Impacts on Your Supply Chain'
+subtitle: 'The Panama Canal and Donald Trump: Impacts on Your Supply Chain'
+date: '2024-12-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f522307c69b94859b0d2864662f40aa7~mv2.jpg
+imageAlt: 'The Panama Canal and Donald Trump: Impacts on Your Supply Chain'
+wixId: f561bf4a-6493-4cf9-8abf-4b76bc1118e7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Panama Canal
+- Donald Trump
+- supply chain
+- global trade
+- maritime shipping
+- geopolitical risk
+- shipping routes
 ---
-
 <p>President-elect <strong>Donald Trump</strong>'s recent statements about regaining U.S. control over the <strong>Panama Canal</strong> could have significant implications for global supply chains, in addition to the political and diplomatic debate surrounding the issue.</p>
 <p><br></p>
 <p><strong>The Strategic Importance of the Panama Canal</strong></p>

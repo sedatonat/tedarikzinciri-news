@@ -1,16 +1,23 @@
 ---
-title: "U.S. First: Highway Charges Electric Trucks While Moving"
-subtitle: "U.S. First: Highway Charges Electric Trucks While Moving"
-date: "2025-12-12T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_c77a22a992d74091a41ee947a9288668~mv2.jpg"
-imageAlt: "Summary of a test conducted by Purdue University researchers in Indiana, featuring coils embedded beneath asphalt to wirelessly charge heavy-duty electric trucks while in motion, detailing the technology and its implications for long-distance freight."
-wixId: "88f6314a-5aef-4f3b-be83-5e19c7e4a84c"
-author: "Sedat Onat"
+title: 'U.S. First: Highway Charges Electric Trucks While Moving'
+subtitle: 'U.S. First: Highway Charges Electric Trucks While Moving'
+date: '2025-12-12T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_c77a22a992d74091a41ee947a9288668~mv2.jpg
+imageAlt: Summary of a test conducted by Purdue University researchers in Indiana, featuring coils embedded beneath asphalt to wirelessly charge heavy-duty electric trucks while in motion, detailing the technology and its implications for long-distance freight.
+wixId: 88f6314a-5aef-4f3b-be83-5e19c7e4a84c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- electric truck
+- wireless charging
+- highway infrastructure
+- Purdue University
+- heavy-duty trucking
+- Indiana
+- range anxiety
 ---
-
 <p style="text-align: justify"><strong>Range anxiety and charging times</strong>, long viewed as major barriers to electric heavy-duty trucking, have taken on a new dimension with a groundbreaking test conducted in the United States. Researchers at <strong>Purdue University</strong> have successfully charged an <strong>electric heavy-duty truck while in motion</strong> on a short highway segment in Indiana. This test represents a historic milestone, marking the first time a U.S. highway has <strong>transferred energy to a moving electric truck</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The system developed for the project is based on the principle of <strong>wireless power transfer</strong>. <strong>Magnetic coils</strong> embedded beneath the road surface transmit energy to receiver systems mounted on the truck's undercarriage. As the truck travels at <strong>highway speeds</strong>, it receives power without needing to stop or establish a physical connection. In this respect, the system differs fundamentally from conventional <strong>plug-in charging</strong> models.</p>

@@ -1,16 +1,23 @@
 ---
-title: "New Peak Season Surcharge from Mediterranean to U.S. East Coast and Gulf"
-subtitle: "New Peak Season Surcharge from Mediterranean to U.S. East Coast and Gulf"
-date: "2025-01-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ee45ed0890814463acb23306e3e4886a~mv2.jpg"
-imageAlt: "New Peak Season Surcharge from Mediterranean to U.S. East Coast and Gulf"
-wixId: "a34ec254-d1c1-45fa-bf53-158d86bf234b"
-author: "Sedat Onat"
+title: New Peak Season Surcharge from Mediterranean to U.S. East Coast and Gulf
+subtitle: New Peak Season Surcharge from Mediterranean to U.S. East Coast and Gulf
+date: '2025-01-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_ee45ed0890814463acb23306e3e4886a~mv2.jpg
+imageAlt: New Peak Season Surcharge from Mediterranean to U.S. East Coast and Gulf
+wixId: a34ec254-d1c1-45fa-bf53-158d86bf234b
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- CMA CGM
+- peak season surcharge
+- Mediterranean
+- US East Coast
+- container shipping
+- PSS
+- ocean freight
 ---
-
 <p><strong>CMA CGM</strong> has announced the implementation of a new <strong>Peak Season Surcharge (PSS)</strong> on routes from the Mediterranean to the U.S. East Coast and Gulf. This additional charge will take effect from 15 July 2024 and will apply to all container types.</p>
 <p><br></p>
 <p>The PSS is an additional charge applied by shipping companies during peak seasons to balance increased demand and operational costs. This practice helps shipping companies maintain service quality while providing customers with more stable service.</p>

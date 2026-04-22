@@ -1,16 +1,23 @@
 ---
-title: "Russia Provides North Korea with More Than One Million Barrels of Oil"
-subtitle: "Russia Provides North Korea with More Than One Million Barrels of Oil"
-date: "2024-11-22T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_9279f620b08c4ced9b7d7b49333a07aa~mv2.jpg"
-imageAlt: "Russia Provides North Korea with More Than One Million Barrels of Oil"
-wixId: "62dd98ca-cc2b-4ee5-a213-0de8a6ef30b9"
-author: "Sedat Onat"
+title: Russia Provides North Korea with More Than One Million Barrels of Oil
+subtitle: Russia Provides North Korea with More Than One Million Barrels of Oil
+date: '2024-11-22T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_9279f620b08c4ced9b7d7b49333a07aa~mv2.jpg
+imageAlt: Russia Provides North Korea with More Than One Million Barrels of Oil
+wixId: 62dd98ca-cc2b-4ee5-a213-0de8a6ef30b9
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Russia
+- North Korea
+- oil trade
+- UN sanctions
+- satellite imagery
+- oil tanker
+- nuclear program
 ---
-
 <p>Since March 2024, Russia has supplied North Korea with more than one million barrels of oil, violating United Nations (UN) sanctions that prohibit oil sales to North Korea. These findings are based on satellite imagery analysis conducted by the Open Source Centre, a UK-based non-profit research organization. According to BBC News, Russia is sending weapons and troops to North Korea in exchange for oil, with this support enabling North Korea to contribute to Moscow's war effort against Ukraine.</p>
 <p><br></p>
 <p>UN sanctions aim to constrain North Korea's economy to prevent its development of nuclear weapons. Under these restrictions, oil sales to North Korea are prohibited except for small amounts. However, satellite imagery obtained shows that more than ten different North Korean oil tankers have reached a Russian petroleum terminal in the Far East region over the past eight months, making a combined 43 visits. Additional imagery taken at sea reveals that the tankers arrive empty to Russia and depart nearly full.</p>

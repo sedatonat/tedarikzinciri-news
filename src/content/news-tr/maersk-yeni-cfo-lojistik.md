@@ -1,14 +1,22 @@
 ---
-title: "Maersk, Lojistik Kökenli Yeni CFO Atadı: Stratejik Odak Kara Lojistiğine Kaymakta"
-subtitle: "Maersk, Lojistik Kökenli Yeni CFO Atadı: Stratejik Odak Kara Lojistiğine Kaymakta"
-date: "2025-12-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4677923e07094887b3e35a2e175f7f42~mv2.jpg"
-imageAlt: "A.P. Moller–Maersk’in yeni CFO olarak Robert Erni’yi ataması, lojistik geçmişinin şirketin kara lojistiği büyüme stratejisine etkisi, olası M&A sinyalleri ve yönetim kadrosundaki değişikliklerin detaylı özeti"
-wixId: "e5b764cd-877c-4afe-b402-f5c1044ddd0c"
-author: "Sedat Onat"
+title: 'Maersk, Lojistik Kökenli Yeni CFO Atadı: Stratejik Odak Kara Lojistiğine Kaymakta'
+subtitle: 'Maersk, Lojistik Kökenli Yeni CFO Atadı: Stratejik Odak Kara Lojistiğine Kaymakta'
+date: '2025-12-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4677923e07094887b3e35a2e175f7f42~mv2.jpg
+imageAlt: A.P. Moller–Maersk’in yeni CFO olarak Robert Erni’yi ataması, lojistik geçmişinin şirketin kara lojistiği büyüme stratejisine etkisi, olası M&A sinyalleri ve yönetim kadrosundaki değişikliklerin detaylı özeti
+wixId: e5b764cd-877c-4afe-b402-f5c1044ddd0c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Maersk
+- CFO ataması
+- kara lojistiği
+- entegre lojistik
+- M&A
+- freight forwarding
+- Dachser
 ---
 <p style="text-align: justify">Danimarka merkezli küresel denizcilik ve lojistik grubu <strong>A.P. Moller–Maersk A/S</strong>, üst yönetim kadrosunda stratejik öneme sahip bir değişikliğe gitti. Şirket, <strong>Robert Erni</strong>’yi yeni <strong>Chief Financial Officer (CFO)</strong> olarak atadığını 12 Aralık tarihli resmi açıklamayla duyurdu. Bu atama, Maersk’in uzun süredir sürdürdüğü ancak beklenenden daha yavaş ilerlediği değerlendirilen <strong>land-based logistics</strong> büyüme stratejisi açısından önemli bir sinyal olarak görülmekte.</p>
 <p><br></p>

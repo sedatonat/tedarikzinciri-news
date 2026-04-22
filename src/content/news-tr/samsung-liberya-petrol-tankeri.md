@@ -1,14 +1,22 @@
 ---
-title: "Samsung Heavy Industries, Liberyalı Armatörle 341,1 Milyar Wonluk Petrol Tankeri Sözleşmesi İmzaladı"
-subtitle: "Samsung Heavy Industries, Liberyalı Armatörle 341,1 Milyar Wonluk Petrol Tankeri Sözleşmesi İmzaladı"
-date: "2025-10-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_aea91a7dab3840d59bf576301411adab~mv2.jpeg"
-imageAlt: "Samsung Heavy Industries, Liberyalı Armatörle 341,1 Milyar Wonluk Petrol Tankeri Sözleşmesi İmzaladı"
-wixId: "f266ecc4-9c02-46c4-9441-c95819870ce7"
-author: "Sedat Onat"
+title: Samsung Heavy Industries, Liberyalı Armatörle 341,1 Milyar Wonluk Petrol Tankeri Sözleşmesi İmzaladı
+subtitle: Samsung Heavy Industries, Liberyalı Armatörle 341,1 Milyar Wonluk Petrol Tankeri Sözleşmesi İmzaladı
+date: '2025-10-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_aea91a7dab3840d59bf576301411adab~mv2.jpeg
+imageAlt: Samsung Heavy Industries, Liberyalı Armatörle 341,1 Milyar Wonluk Petrol Tankeri Sözleşmesi İmzaladı
+wixId: f266ecc4-9c02-46c4-9441-c95819870ce7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Samsung Heavy Industries
+- petrol tankeri
+- gemi inşa
+- Liberya
+- Güney Kore
+- enerji taşımacılığı
+- Geoje Tersanesi
 ---
 <p><strong>Samsung Heavy Industries (SHI)</strong>, <strong>Liberya merkezli bir gemi sahibiyle üç adet petrol tankeri inşası</strong> için <strong>341,1 milyar won (yaklaşık 237 milyon dolar)</strong> tutarında yeni bir sözleşme imzaladı.</p>
 <p><br>

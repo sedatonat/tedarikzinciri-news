@@ -1,16 +1,23 @@
 ---
-title: "CMA CGM Strengthens European Infrastructure Network with 20% Stake in Hamburg CTH Terminal"
-subtitle: "CMA CGM Strengthens European Infrastructure Network with 20% Stake in Hamburg CTH Terminal"
-date: "2025-11-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6637de6aac754660a7a3e09de7e26b8f~mv2.jpg"
-imageAlt: "CMA CGM signs agreement to acquire 20% stake in EUROGATE Container Terminal Hamburg (CTH), joining the expansion project that will increase terminal capacity from 4 million to 6 million TEU and strengthen its European logistics network in Hamburg."
-wixId: "f4029793-dab1-4216-8454-fac0fc0f788d"
-author: "Sedat Onat"
+title: CMA CGM Strengthens European Infrastructure Network with 20% Stake in Hamburg CTH Terminal
+subtitle: CMA CGM Strengthens European Infrastructure Network with 20% Stake in Hamburg CTH Terminal
+date: '2025-11-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_6637de6aac754660a7a3e09de7e26b8f~mv2.jpg
+imageAlt: CMA CGM signs agreement to acquire 20% stake in EUROGATE Container Terminal Hamburg (CTH), joining the expansion project that will increase terminal capacity from 4 million to 6 million TEU and strengthen its European logistics network in Hamburg.
+wixId: f4029793-dab1-4216-8454-fac0fc0f788d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- CMA CGM
+- Hamburg
+- terminal investment
+- container terminal
+- Europe
+- intermodal transportation
+- port infrastructure
 ---
-
 <p style="text-align: justify">CMA CGM Group has announced it has signed a term sheet to acquire a <strong>20% stake</strong> in <strong>EUROGATE Container Terminal Hamburg (CTH)</strong> as part of its strategy to expand port assets in Europe. The transaction is expected to be completed in the first half of 2026, following regulatory approvals.</p>
 <p><br></p>
 <p style="text-align: justify">CMA CGM already regularly uses Hamburg CTH today, particularly through its <strong>FAL (French Asia Line)</strong> service. The FAL service consists of routes between Asia and Northern Europe operated by 23,000 TEU LNG-fueled megamax vessels. Consequently, this investment represents both a logical fit with existing operations and a strategic step toward long-term strengthening of European operations.</p>

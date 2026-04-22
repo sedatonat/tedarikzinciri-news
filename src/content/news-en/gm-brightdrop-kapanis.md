@@ -1,16 +1,24 @@
 ---
-title: "General Motors Halts BrightDrop Electric Van Production Due to Weak Demand"
-subtitle: "General Motors Halts BrightDrop Electric Van Production Due to Weak Demand"
-date: "2025-10-27T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_bed6be3db24c4ea993a5dd2ee4ce5c2e~mv2.jpg"
-imageAlt: "General Motors has ended production of BrightDrop, its commercial electric van brand, citing poor sales and high costs. The company is restructuring its EV strategy to focus on long-term profitability and cost reduction."
-wixId: "d5a2c713-bae3-4309-891a-681362fec1db"
-author: "Sedat Onat"
+title: General Motors Halts BrightDrop Electric Van Production Due to Weak Demand
+subtitle: General Motors Halts BrightDrop Electric Van Production Due to Weak Demand
+date: '2025-10-27T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_bed6be3db24c4ea993a5dd2ee4ce5c2e~mv2.jpg
+imageAlt: General Motors has ended production of BrightDrop, its commercial electric van brand, citing poor sales and high costs. The company is restructuring its EV strategy to focus on long-term profitability and cost reduction.
+wixId: d5a2c713-bae3-4309-891a-681362fec1db
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- General Motors
+- BrightDrop
+- electric van
+- last mile delivery
+- fleet management
+- production halt
+- Ontario
+- EV market
 ---
-
 <p style="text-align: justify"><strong>General Motors (GM)</strong> has announced the <strong>suspension of BrightDrop, its electric commercial vehicle (EV van) brand.</strong> The decision was made due to <strong>lower-than-expected sales</strong>, <strong>high production costs</strong>, and <strong>sluggish fleet demand growth</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The company had established BrightDrop in <strong>2021</strong> to enter the <strong>last-mile delivery market.</strong> Its customer portfolio included major brands such as <strong>FedEx, Walmart, Verizon, Hertz,</strong> and <strong>Kroger.</strong> GM had fully converted the <strong>CAMI Assembly Plant in Ingersoll, Ontario, Canada</strong> to <strong>electric vehicle production,</strong> investing approximately <strong>800 million dollars</strong> in the transformation alongside government support.</p>

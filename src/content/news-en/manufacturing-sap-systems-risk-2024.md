@@ -1,16 +1,23 @@
 ---
-title: "Failure to Update SAP Systems Creates Major Risk in Manufacturing Sector"
-subtitle: "Failure to Update SAP Systems Creates Major Risk in Manufacturing Sector"
-date: "2024-08-07T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_247d75d37cc646d1b685ceb7b154379b~mv2.jpg"
-imageAlt: "Failure to Update SAP Systems Creates Major Risk in Manufacturing Sector"
-wixId: "0f00cd54-749d-48b4-a8fd-725467c5b665"
-author: "Sedat Onat"
+title: Failure to Update SAP Systems Creates Major Risk in Manufacturing Sector
+subtitle: Failure to Update SAP Systems Creates Major Risk in Manufacturing Sector
+date: '2024-08-07T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_247d75d37cc646d1b685ceb7b154379b~mv2.jpg
+imageAlt: Failure to Update SAP Systems Creates Major Risk in Manufacturing Sector
+wixId: 0f00cd54-749d-48b4-a8fd-725467c5b665
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- SAP
+- cybersecurity
+- manufacturing sector
+- ERP systems
+- digital transformation
+- ransomware
+- security vulnerability
 ---
-
 <p>Failure to update SAP systems has emerged as a major risk in the manufacturing sector. Many companies advancing rapidly in their digital transformation processes continue to rely on outdated SAP systems. This situation leaves them vulnerable to cyberattacks. The lack of support for legacy SAP versions leads to an increase in security vulnerabilities within these systems, creating potential dangers that could result in production halts, significant financial losses, and reputational damage.</p>
 <p><br></p>
 <p>The digital transformation process, which accelerated particularly in the post-COVID-19 period, prompted many manufacturers to rapidly integrate ERP systems without implementing adequate security measures. However, this speed has led to a proliferation of security gaps. Additionally, the manufacturing sector faces increasingly complex ERP systems. These systems are not only required to perform traditional functions, but must also be integrated with sustainable practices and service-oriented models. This growing complexity creates challenges in maintaining system security.</p>

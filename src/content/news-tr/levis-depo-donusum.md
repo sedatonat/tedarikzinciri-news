@@ -1,14 +1,22 @@
 ---
-title: "Levi’s Depo Ağı Dönüşümünü Tamamlama Aşamasına Geldi"
-subtitle: "Levi’s Depo Ağı Dönüşümünü Tamamlama Aşamasına Geldi"
-date: "2025-10-23T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_a2858d4b90f042f78e359392d7194a8d~mv2.jpg"
-imageAlt: "Levi’s, sahip olduğu depoları kademeli olarak kapatarak kiralık tesislere geçişini tamamlamak üzere. Yeni model, doğrudan tüketiciye satış (DTC) kanallarına daha esnek ve verimli hizmet sunmayı hedefliyor."
-wixId: "1d2d7a34-8125-450c-a93b-d054ed5596f9"
-author: "Sedat Onat"
+title: Levi’s Depo Ağı Dönüşümünü Tamamlama Aşamasına Geldi
+subtitle: Levi’s Depo Ağı Dönüşümünü Tamamlama Aşamasına Geldi
+date: '2025-10-23T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_a2858d4b90f042f78e359392d7194a8d~mv2.jpg
+imageAlt: Levi’s, sahip olduğu depoları kademeli olarak kapatarak kiralık tesislere geçişini tamamlamak üzere. Yeni model, doğrudan tüketiciye satış (DTC) kanallarına daha esnek ve verimli hizmet sunmayı hedefliyor.
+wixId: 1d2d7a34-8125-450c-a93b-d054ed5596f9
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Levi's
+- depo ağı
+- 3PL
+- üçüncü taraf lojistik
+- dağıtım merkezi
+- DTC
+- tedarik zinciri dönüşümü
 ---
 <p style="text-align: justify"><strong>Levi Strauss &amp; Co.</strong>, sahip olduğu dağıtım merkezlerini kapatarak <strong>kiralık ve üçüncü taraf lojistik (3PL)</strong> modeliyle çalışan yeni bir <strong>depo ağına geçiş sürecini</strong> neredeyse tamamladı. Şirket, 2026’nın başlarında hem kendi işlettiği hem de kiraladığı tesisleri <strong>eşzamanlı çalıştırmayı sonlandırmayı</strong> planlamakta. Bu geçiş, Levi’s’in <strong>doğrudan tüketiciye (Direct-to-Consumer – DTC)</strong> odaklanan stratejik dönüşümünün önemli bir parçası olarak görülmekte.</p>
 <p><br></p>

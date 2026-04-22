@@ -1,14 +1,23 @@
 ---
-title: "Anket: Tedarik Zinciri Liderleri Geleceğe Nasıl Hazırlanıyor?"
-subtitle: "Anket: Tedarik Zinciri Liderleri Geleceğe Nasıl Hazırlanıyor?"
-date: "2024-12-24T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_93e269313ff645f5ab4397abf33f5655~mv2.jpg"
-imageAlt: "Anket: Tedarik Zinciri Liderleri Geleceğe Nasıl Hazırlanıyor?"
-wixId: "f04d5ec8-14a8-4f05-a068-c07009529004"
-author: "Sedat Onat"
+title: 'Anket: Tedarik Zinciri Liderleri Geleceğe Nasıl Hazırlanıyor?'
+subtitle: 'Anket: Tedarik Zinciri Liderleri Geleceğe Nasıl Hazırlanıyor?'
+date: '2024-12-24T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_93e269313ff645f5ab4397abf33f5655~mv2.jpg
+imageAlt: 'Anket: Tedarik Zinciri Liderleri Geleceğe Nasıl Hazırlanıyor?'
+wixId: f04d5ec8-14a8-4f05-a068-c07009529004
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tedarik zinciri
+- yeniden yapılandırma
+- dayanıklılık
+- çeviklik
+- anket
+- RR Donnelley
+- Gartner
+- GEODIS
 ---
 <p><strong>RR Donnelley</strong> tarafından gerçekleştirilen bir ankete göre, tedarik zinciri liderlerinin %97'si önümüzdeki iki yıl içinde büyük yeniden yapılandırma çalışmaları planlıyor.</p>
 <p><br></p>

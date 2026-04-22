@@ -1,16 +1,24 @@
 ---
-title: "New U.S. Port Fees Cost COSCO and OOCL $42 Million in First Week"
-subtitle: "New U.S. Port Fees Cost COSCO and OOCL $42 Million in First Week"
-date: "2025-10-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9849c225aee44aa2b2f22b531a2e524e~mv2.jpg"
-imageAlt: "New U.S. Port Fees Cost COSCO and OOCL $42 Million in First Week"
-wixId: "785a62cb-1c58-4f6c-976d-da739f36eefa"
-author: "Sedat Onat"
+title: New U.S. Port Fees Cost COSCO and OOCL $42 Million in First Week
+subtitle: New U.S. Port Fees Cost COSCO and OOCL $42 Million in First Week
+date: '2025-10-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_9849c225aee44aa2b2f22b531a2e524e~mv2.jpg
+imageAlt: New U.S. Port Fees Cost COSCO and OOCL $42 Million in First Week
+wixId: 785a62cb-1c58-4f6c-976d-da739f36eefa
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- port fees
+- COSCO
+- OOCL
+- US-China trade war
+- container ship
+- post-Panamax
+- freight costs
+- maritime transport
 ---
-
 <p style="text-align: justify"><strong>New U.S. port fees targeting China's maritime industry</strong> have imposed <strong>additional costs exceeding $42 million on Cosco Shipping and its affiliate OOCL (Orient Overseas Container Line) in the first week of implementation</strong>.</p>
 <p><br>
 <strong>According to vessel tracking data</strong>, <strong>post-Panamax</strong>-class ships are among the most heavily impacted by these fees.</p>

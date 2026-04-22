@@ -1,16 +1,24 @@
 ---
-title: "Valenciaport Unveils New Environmental Strategy: Net Zero, Green Corridors and Hydrogen at the Core"
-subtitle: "Valenciaport Unveils New Environmental Strategy: Net Zero, Green Corridors and Hydrogen at the Core"
-date: "2025-11-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_69951156436a41f58649b848cbbb2cf8~mv2.jpeg"
-imageAlt: "Valenciaport strengthened its climate adaptation and sustainable port goals through its new environmental strategy unveiled at Ecofira 2025, featuring a Net Zero Plan, renewable energy, shore-power (OPS), alternative fuels, green corridors and the Hydrogen Valley project in Sagunto."
-wixId: "f140dcdf-9427-4b60-84e5-8bada075bc78"
-author: "Sedat Onat"
+title: 'Valenciaport Unveils New Environmental Strategy: Net Zero, Green Corridors and Hydrogen at the Core'
+subtitle: 'Valenciaport Unveils New Environmental Strategy: Net Zero, Green Corridors and Hydrogen at the Core'
+date: '2025-11-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_69951156436a41f58649b848cbbb2cf8~mv2.jpeg
+imageAlt: Valenciaport strengthened its climate adaptation and sustainable port goals through its new environmental strategy unveiled at Ecofira 2025, featuring a Net Zero Plan, renewable energy, shore-power (OPS), alternative fuels, green corridors and the Hydrogen Valley project in Sagunto.
+wixId: f140dcdf-9427-4b60-84e5-8bada075bc78
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Valenciaport
+- net zero
+- green corridors
+- hydrogen
+- decarbonization
+- OPS
+- sustainability
+- 5G
 ---
-
 <p style="text-align: justify">Valenciaport unveiled its new <strong>environmental strategy</strong> to the public as part of the Ecofira Environmental Solutions Fair. At the center of sustainability initiatives driven by the Port Authority of Valencia (APV) are <strong>decarbonization</strong>, <strong>climate resilience</strong> and <strong>climate change mitigation</strong>. The strategy provides a framework aligned with the <strong>Net Zero Plan</strong> that shapes the port's long-term transformation roadmap.</p>
 <p><br></p>
 <p style="text-align: justify">According to APV, the new plan aims to establish Valenciaport as a <strong>leader in renewable energy use</strong>, a low-emission and competitive Mediterranean gateway. The plan's main components include:</p>

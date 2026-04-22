@@ -1,16 +1,23 @@
 ---
-title: "Oil Surges 5% Following U.S. Sanctions on Rosneft and Lukoil"
-subtitle: "Oil Surges 5% Following U.S. Sanctions on Rosneft and Lukoil"
-date: "2025-10-23T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d67635ac7ac14ed8bf1bcd5bb050944e~mv2.jpg"
-imageAlt: "Oil Surges 5% Following U.S. Sanctions on Rosneft and Lukoil"
-wixId: "c32fbf1c-f4b0-4598-8692-87ea24454a02"
-author: "Sedat Onat"
+title: Oil Surges 5% Following U.S. Sanctions on Rosneft and Lukoil
+subtitle: Oil Surges 5% Following U.S. Sanctions on Rosneft and Lukoil
+date: '2025-10-23T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_d67635ac7ac14ed8bf1bcd5bb050944e~mv2.jpg
+imageAlt: Oil Surges 5% Following U.S. Sanctions on Rosneft and Lukoil
+wixId: c32fbf1c-f4b0-4598-8692-87ea24454a02
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- oil prices
+- Rosneft
+- Lukoil
+- US sanctions
+- global energy
+- Russia
+- supply tightening
 ---
-
 <p><strong>NEW YORK – Reuters (Scott DiSavino)</strong><br>
 <strong>The United States' imposition of new sanctions on Russian energy giants Rosneft and Lukoil</strong> has triggered sharp volatility across global oil markets.</p>
 <p><br>

@@ -1,14 +1,22 @@
 ---
-title: "QatarEnergy ve Mitsui, 20 Yıllık Üre Tedarik Anlaşması İmzaladı"
-subtitle: "QatarEnergy ve Mitsui, 20 Yıllık Üre Tedarik Anlaşması İmzaladı"
-date: "2025-11-11T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/nsplsh_794554716b4c6e68735549~mv2_d_5637_3758_s_4_2.jpg"
-imageAlt: "QatarEnergy, Mitsui ile 2026’dan itibaren yılda 0,5 milyon ton üre tedarik edecek 20 yıllık uzun vadeli bir anlaşma imzaladı; anlaşma, Katar’ın küresel gübre ihracatındaki büyüme stratejisini destekliyor."
-wixId: "12f88a47-c5a8-480b-9a58-fba4ac73aa89"
-author: "Sedat Onat"
+title: QatarEnergy ve Mitsui, 20 Yıllık Üre Tedarik Anlaşması İmzaladı
+subtitle: QatarEnergy ve Mitsui, 20 Yıllık Üre Tedarik Anlaşması İmzaladı
+date: '2025-11-11T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/nsplsh_794554716b4c6e68735549~mv2_d_5637_3758_s_4_2.jpg
+imageAlt: QatarEnergy, Mitsui ile 2026’dan itibaren yılda 0,5 milyon ton üre tedarik edecek 20 yıllık uzun vadeli bir anlaşma imzaladı; anlaşma, Katar’ın küresel gübre ihracatındaki büyüme stratejisini destekliyor.
+wixId: 12f88a47-c5a8-480b-9a58-fba4ac73aa89
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- QatarEnergy
+- Mitsui
+- üre tedarik
+- gübre üretimi
+- tarım tedarik zinciri
+- Katar
+- gıda güvenliği
 ---
 <p style="text-align: justify"><strong>QatarEnergy</strong>, Japon ticaret devi <strong>Mitsui &amp; Co., Ltd.</strong> ile <strong>20 yıllık büyük ölçekli bir üre tedarik anlaşması</strong> imzaladığını duyurdu. Doha’da 10 Kasım 2025’te açıklanan anlaşma kapsamında QatarEnergy, <strong>Ocak 2026’dan itibaren yılda 0,5 milyon ton</strong> üre tedarik edecek. Bu uzun vadeli sözleşme, hem Katar’ın küresel gübre piyasasındaki etkisini artırma stratejisinin hem de Mitsui’nin gıda ve tarım tedarik zincirlerini güvence altına alma hedeflerinin önemli bir parçası.</p>
 <p><br></p>

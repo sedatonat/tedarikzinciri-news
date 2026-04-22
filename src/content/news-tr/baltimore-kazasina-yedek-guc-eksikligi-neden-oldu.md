@@ -1,14 +1,22 @@
 ---
-title: "Baltimore Köprüsü Kazasına, Yedek Güç Eksikliği Neden Oldu"
-subtitle: "Baltimore Köprüsü Kazasına, Yedek Güç Eksikliği Neden Oldu"
-date: "2024-05-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_76e9f39acdeb46a296acc5d7bd51e6ac~mv2.jpg"
-imageAlt: "Baltimore Köprüsü Kazasına, Yedek Güç Eksikliği Neden Oldu"
-wixId: "0a09d010-3359-4036-aaad-5484232c6d42"
-author: "Sedat Onat"
+title: Baltimore Köprüsü Kazasına, Yedek Güç Eksikliği Neden Oldu
+subtitle: Baltimore Köprüsü Kazasına, Yedek Güç Eksikliği Neden Oldu
+date: '2024-05-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_76e9f39acdeb46a296acc5d7bd51e6ac~mv2.jpg
+imageAlt: Baltimore Köprüsü Kazasına, Yedek Güç Eksikliği Neden Oldu
+wixId: 0a09d010-3359-4036-aaad-5484232c6d42
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Baltimore köprüsü
+- Dali gemisi
+- konteyner gemisi
+- yedek güç sistemi
+- deniz kazası
+- NTSB
+- gemi güvenliği
 ---
 <p>16 Mayıs 2024 tarihli SupplyChainBrain dergisinde yer alan bir haberde, Ulusal Ulaşım Güvenlik Kurulu (NTSB) Başkanı Jennifer Homendy, Baltimore'daki Francis Scott Key Köprüsü'ne çarpan Dali adlı konteyner gemisinin, bu tür bir kazayı önlemek için gerekli yedek güç sistemlerine sahip olmadığını ifade etti. Homendy, bu durumun çoğu yük gemisi için alışılmadık olmadığını belirtti.&nbsp;</p>
 <p><br></p>

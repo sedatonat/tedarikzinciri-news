@@ -1,14 +1,22 @@
 ---
-title: "Çiçek Sevkiyatındaki Zorlu Maraton: Lojistik Ağlar Sınırlarını Zorluyor"
-subtitle: "Çiçek Sevkiyatındaki Zorlu Maraton: Lojistik Ağlar Sınırlarını Zorluyor"
-date: "2024-04-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_702f93a1714d411680caad8c94219579~mv2.png"
-imageAlt: "Çiçek Sevkiyatındaki Zorlu Maraton: Lojistik Ağlar Sınırlarını Zorluyor"
-wixId: "be489a69-7a70-4557-8abe-89082cc6d12b"
-author: "Sedat Onat"
+title: 'Çiçek Sevkiyatındaki Zorlu Maraton: Lojistik Ağlar Sınırlarını Zorluyor'
+subtitle: 'Çiçek Sevkiyatındaki Zorlu Maraton: Lojistik Ağlar Sınırlarını Zorluyor'
+date: '2024-04-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_702f93a1714d411680caad8c94219579~mv2.png
+imageAlt: 'Çiçek Sevkiyatındaki Zorlu Maraton: Lojistik Ağlar Sınırlarını Zorluyor'
+wixId: be489a69-7a70-4557-8abe-89082cc6d12b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- çiçek lojistiği
+- sıcaklık kontrollü taşıma
+- C.H. Robinson
+- çabuk bozulan ürünler
+- soğuk zincir
+- Miami
+- Latin Amerika
 ---
 <p>Lojistik sağlayıcısı C.H. Robinson, Anneler Günü'ne kadar olan dönemde yaklaşık 56 milyon pound taze çiçeğin teslimatını kolaylaştırmak için küresel hizmetlerini ve sıcaklık kontrollü ağlarını kullanıyor. Şirket, özellikle Sevgililer Günü ve Anneler Günü'nü kapsayan üç aylık bir dönemde, tüm çiçek sevkiyatlarının yaklaşık %70'inin gerçekleştiğini belirtiyor. Bu dönemde, yılın geri kalanına kıyasla kamyon yük talebinde %3000'e varan bir artış yaşanıyor. Bu kısa süre içindeki talep artışı, global olarak tedarik edilen, çabuk bozulan ve sınırlı sıcaklık kontrollü taşıma ve depolama imkanlarına bağımlı olan ürünler için zaten mevcut olan zorluklara ekleniyor.</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "Azerbaijan Railways Reviews 2024: Major Milestones in Advancing International Corridors"
-subtitle: "Azerbaijan Railways Reviews 2024: Major Milestones in Advancing International Corridors"
-date: "2025-01-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7b8802beaa744e97bf529106c15f275d~mv2.jpeg"
-imageAlt: "Azerbaijan Railways Reviews 2024: Major Milestones in Advancing International Corridors"
-wixId: "95214f7d-7420-4d72-b5da-750a18989f3a"
-author: "Sedat Onat"
+title: 'Azerbaijan Railways Reviews 2024: Major Milestones in Advancing International Corridors'
+subtitle: 'Azerbaijan Railways Reviews 2024: Major Milestones in Advancing International Corridors'
+date: '2025-01-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7b8802beaa744e97bf529106c15f275d~mv2.jpeg
+imageAlt: 'Azerbaijan Railways Reviews 2024: Major Milestones in Advancing International Corridors'
+wixId: 95214f7d-7420-4d72-b5da-750a18989f3a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Azerbaijan Railways
+- Middle Corridor
+- INSTC
+- transit transportation
+- Baku-Tbilisi-Kars
+- digitalization
+- container train
 ---
-
 <p style="text-align: justify"><a href="https://ticket.ady.az/"><u>Azerbaijan Railways (</u><u><strong>ADY</strong></u><u>)</u></a> achieved significant progress in 2024 in developing the <a href="https://tr.wikipedia.org/wiki/Uluslararas%C4%B1_Kuzey-G%C3%BCney_Ula%C5%9Ft%C4%B1rma_Koridoru"><u><strong>Middle Corridor</strong></u><u> and the </u><u><strong>International North-South Transport Corridor (INSTC)</strong></u><u>.</u></a> These efforts were aligned with the country's objective to diversify its economy.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>Increase in Transportation Volumes</strong></p>

@@ -1,14 +1,22 @@
 ---
-title: "Gartner: Üretim Sektörü Gelişmiş Otomasyon Stratejisinde Kökten Yenilenmeye İhtiyaç Duyuyor"
-subtitle: "Gartner: Üretim Sektörü Gelişmiş Otomasyon Stratejisinde Kökten Yenilenmeye İhtiyaç Duyuyor"
-date: "2025-10-29T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_0ec560d38ca241aead3d54de08494a80~mv2.jpg"
-imageAlt: "Gartner’ın yeni raporuna göre, üretim sektörünün ileri otomasyon uygulamalarını benimseme sürecinde ciddi bir strateji boşluğu bulunuyor. Şirketlerin yarısı, mevcut üretim stratejilerinin önümüzdeki üç yılda beklenen iş sonuçlarını sağlayamayacağına inanıyor."
-wixId: "81700e1d-fc21-4a4d-93ba-38b8ee4a51e8"
-author: "Sedat Onat"
+title: 'Gartner: Üretim Sektörü Gelişmiş Otomasyon Stratejisinde Kökten Yenilenmeye İhtiyaç Duyuyor'
+subtitle: 'Gartner: Üretim Sektörü Gelişmiş Otomasyon Stratejisinde Kökten Yenilenmeye İhtiyaç Duyuyor'
+date: '2025-10-29T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_0ec560d38ca241aead3d54de08494a80~mv2.jpg
+imageAlt: Gartner’ın yeni raporuna göre, üretim sektörünün ileri otomasyon uygulamalarını benimseme sürecinde ciddi bir strateji boşluğu bulunuyor. Şirketlerin yarısı, mevcut üretim stratejilerinin önümüzdeki üç yılda beklenen iş sonuçlarını sağlayamayacağına inanıyor.
+wixId: 81700e1d-fc21-4a4d-93ba-38b8ee4a51e8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Gartner
+- ileri otomasyon
+- üretim sektörü
+- robotik otomasyon
+- tedarik zinciri entegrasyonu
+- yapay zeka
+- dijital dönüşüm
 ---
 <p style="text-align: justify"><strong>Gartner</strong> tarafından yayımlanan son rapor, küresel üretim sektörünün <strong>ileri otomasyon (advanced automation)</strong> uygulamalarında <strong>yeniden yapılanmaya ihtiyaç duyduğunu</strong> ortaya koydu. Rapora göre, şirketlerin büyük kısmı otomasyonun rekabet avantajı yaratmadaki rolünü kabul etmesine rağmen, <strong>uygulamada gerekli dönüşüm adımlarını atmaktan kaçınıyor.</strong></p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "Shanghai Port Breaches 50 Million TEU Threshold Again"
-subtitle: "Shanghai Port Breaches 50 Million TEU Threshold Again"
-date: "2024-12-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6ff1518d485c4e65aa86ff79c4dba33d~mv2.jpg"
-imageAlt: "Shanghai Port Breaches 50 Million TEU Threshold Again"
-wixId: "5626142f-0a96-4ba6-a68c-119653678dd0"
-author: "Sedat Onat"
+title: Shanghai Port Breaches 50 Million TEU Threshold Again
+subtitle: Shanghai Port Breaches 50 Million TEU Threshold Again
+date: '2024-12-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_6ff1518d485c4e65aa86ff79c4dba33d~mv2.jpg
+imageAlt: Shanghai Port Breaches 50 Million TEU Threshold Again
+wixId: 5626142f-0a96-4ba6-a68c-119653678dd0
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Shanghai Port
+- container shipping
+- TEU
+- port operations
+- digitalization
+- supply chain
+- China
 ---
-
 <p>The reporter highlights a significant development in global container shipping. Port of Shanghai has retained its position at the top of annual container throughput rankings by surpassing the 50 million TEU mark. This performance is viewed as a remarkable achievement, particularly when considering the Covid-19 restrictions experienced in 2022 and the disruptions in global supply chains. Shanghai International Port Group, which operates the port, emphasizes that maintaining operational efficiency remains the priority despite continued growth.</p>
 <p><br></p>
 <p>Looking at previous years, the port first crossed the 40 million TEU barrier in 2017, strengthening its position in global rankings. Port of Shanghai subsequently reached 47.3 million TEU in 2019, setting a new record, and continued operations in 2020 with 43.5 million TEU despite the adverse impacts of the global pandemic. In 2021, the port rebounded to 47.03 million TEU, and most recently in 2022, it crossed the 50 million TEU threshold for the second time, solidifying its leadership status.</p>

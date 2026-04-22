@@ -1,16 +1,23 @@
 ---
-title: "Cabotage Laws Expand to 85% of Global Coastlines Amid Rising Geopolitical Tensions"
-subtitle: "Cabotage Laws Expand to 85% of Global Coastlines Amid Rising Geopolitical Tensions"
-date: "2025-10-22T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_af4ef568bbda4f10a74fdddecebceac8~mv2.jpg"
-imageAlt: "Cabotage Laws Expand to 85% of Global Coastlines Amid Rising Geopolitical Tensions"
-wixId: "ad904879-9117-4388-9e0e-7824ab770e5d"
-author: "Sedat Onat"
+title: Cabotage Laws Expand to 85% of Global Coastlines Amid Rising Geopolitical Tensions
+subtitle: Cabotage Laws Expand to 85% of Global Coastlines Amid Rising Geopolitical Tensions
+date: '2025-10-22T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_af4ef568bbda4f10a74fdddecebceac8~mv2.jpg
+imageAlt: Cabotage Laws Expand to 85% of Global Coastlines Amid Rising Geopolitical Tensions
+wixId: ad904879-9117-4388-9e0e-7824ab770e5d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- cabotage laws
+- geopolitical tension
+- maritime sovereignty
+- Jones Act
+- national security
+- supply chain security
+- ITF
 ---
-
 <p style="text-align: justify"><strong>According to a new report published by Seafarers' Rights International (SRI) on behalf of the International Transport Federation (ITF)</strong>, <strong>the number of countries enforcing cabotage laws has increased from 91 in 2018 to 105 in 2025.</strong></p>
 <p><br>
 These countries now control <strong>85% of global coastlines</strong> — marking <strong>the fastest expansion period for cabotage rules in maritime history.</strong></p>

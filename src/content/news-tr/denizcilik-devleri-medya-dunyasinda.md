@@ -1,14 +1,22 @@
 ---
-title: "Denizcilik Devleri Medya Dünyasına Yelken Açıyor"
-subtitle: "Denizcilik Devleri Medya Dünyasına Yelken Açıyor"
-date: "2024-03-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_785ca5104003459491e050a5de508155~mv2.jpg"
-imageAlt: "Denizcilik Devleri Medya Dünyasına Yelken Açıyor"
-wixId: "444ddba6-7b9e-4980-945d-68d9b176fcfd"
-author: "Sedat Onat"
+title: Denizcilik Devleri Medya Dünyasına Yelken Açıyor
+subtitle: Denizcilik Devleri Medya Dünyasına Yelken Açıyor
+date: '2024-03-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_785ca5104003459491e050a5de508155~mv2.jpg
+imageAlt: Denizcilik Devleri Medya Dünyasına Yelken Açıyor
+wixId: 444ddba6-7b9e-4980-945d-68d9b176fcfd
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- MSC
+- CMA CGM
+- denizcilik
+- medya yatırımı
+- İtalya
+- gazete grubu
+- konteyner taşımacılığı
 ---
 <p><a href="https://en.wikipedia.org/wiki/Mediterranean_Shipping_Company"><u>Mediterranean Shipping Co. (MSC)</u></a>, İtalyan basın sektörüne büyük bir adım atarak Cenova merkezli gazete grubu <a href="https://www.ilsecoloxix.it/"><u>Il Secolo XIX</u></a>'ı satın aldı. Bu satın alma, denizcilikle ilgili yayınlar olan <a href="https://www.themeditelegraph.com/en/"><u>The MediTelegraph</u></a>, <a href="https://www.avvisatore.com/"><u>L’Avvisatore Marittimo</u></a>, Il Giornale del Ponente Ligure ve TTM – Tecnologie Trasporti Mare'yi de kapsıyor. Bu hamle, Gianluigi Aponte tarafından kurulan şirketin, <a href="https://en.wikipedia.org/wiki/CMA_CGM"><u>CMA CGM</u></a>'nin medya işine giriş yapmasının ardından benzer bir stratejiyi izlediğini gösteriyor. İtalyan armatörler arasında yerel medya kuruluşlarına yatırım yapma eğilimi bulunmakta; örneğin, Kuzey Avrupa ve Akdeniz'de önemli bir yolcu taşıma operatörü olan The Grimaldi Group sahipleri, Economy Magazine'e yatırım yapmış durumda.</p>
 <p><br></p>

@@ -1,14 +1,21 @@
 ---
-title: "Depo Otomasyonu Siparişlerinde Düşüş ve 2024'te Beklenen Toparlanma"
-subtitle: "Depo Otomasyonu Siparişlerinde Düşüş ve 2024'te Beklenen Toparlanma"
-date: "2025-02-05T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_38d00159bc4a4ec9b7f34bccf83f68ba~mv2.jpg"
-imageAlt: "Depo Otomasyonu Siparişlerinde Düşüş ve 2024'te Beklenen Toparlanma"
-wixId: "dca6a667-d848-486e-8282-4e2d7b37cbfe"
-author: "Sedat Onat"
+title: Depo Otomasyonu Siparişlerinde Düşüş ve 2024'te Beklenen Toparlanma
+subtitle: Depo Otomasyonu Siparişlerinde Düşüş ve 2024'te Beklenen Toparlanma
+date: '2025-02-05T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_38d00159bc4a4ec9b7f34bccf83f68ba~mv2.jpg
+imageAlt: Depo Otomasyonu Siparişlerinde Düşüş ve 2024'te Beklenen Toparlanma
+wixId: dca6a667-d848-486e-8282-4e2d7b37cbfe
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- depo otomasyonu
+- sipariş düşüşü
+- yapay zeka
+- robotik
+- dijital ikiz
+- 2024 tahminleri
 ---
 <p style="text-align: justify">Depo otomasyonu sektöründe 2023 yılında %3'lük bir sipariş düşüşü yaşandı. Bu durum, yüksek faiz oranları, piyasa belirsizlikleri ve pandemiden kaynaklanan aşırı arz gibi faktörlere bağlanmakta. Ancak sektör uzmanları, 2024 yılında bir toparlanma beklemekte.&nbsp;</p>
 <p style="text-align: justify"><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "Trump-Era Tariffs: Current Status of Global Trade Moves"
-subtitle: "Trump-Era Tariffs: Current Status of Global Trade Moves"
-date: "2025-10-27T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_86db15e1a5ad491c84aee89cc6d26b2b~mv2.jpg"
-imageAlt: "The Trump administration has launched numerous reciprocal tariffs and reviews throughout 2025; country-specific rates take effect from August 7th, while agreements and framework accords with the EU, Japan, and South Korea have been announced; a ceasefire signal emerged with China at the end of October."
-wixId: "37281d8f-9cc1-4f90-8d8e-310580a11192"
-author: "Sedat Onat"
+title: 'Trump-Era Tariffs: Current Status of Global Trade Moves'
+subtitle: 'Trump-Era Tariffs: Current Status of Global Trade Moves'
+date: '2025-10-27T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_86db15e1a5ad491c84aee89cc6d26b2b~mv2.jpg
+imageAlt: The Trump administration has launched numerous reciprocal tariffs and reviews throughout 2025; country-specific rates take effect from August 7th, while agreements and framework accords with the EU, Japan, and South Korea have been announced; a ceasefire signal emerged with China at the end of October.
+wixId: 37281d8f-9cc1-4f90-8d8e-310580a11192
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Trump tariffs
+- global trade
+- reciprocal tariff
+- US-China
+- supply chain
+- customs strategy
+- trade policy
 ---
-
 <p style="text-align: justify"><strong>U.S. President Donald Trump</strong>'s second term is advancing with trade policy <strong>rapidly and frequently shifting direction</strong>. The President signed a series of <strong>executive orders</strong> on <strong>February 1, 2025</strong>, encompassing tariffs on Canada, Mexico, and China; subsequently, he launched <strong>numerous tariff reviews</strong> and product-category investigations throughout the year. During this process, as the scope and timeline of some threats frequently changed, <strong>uncertainty increased among the business community and foreign governments</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The landscape was reshaped following the announcement of the <strong>reciprocal tariff policy</strong> on <strong>April 2</strong>. Over the summer, <strong>new country-specific tariff rates</strong> were codified and took effect on <strong>August 7</strong>. During the same period, the U.S. negotiated various <strong>tariff agreements</strong> and <strong>framework accords</strong> with the <strong>European Union, Japan, and South Korea</strong>.</p>

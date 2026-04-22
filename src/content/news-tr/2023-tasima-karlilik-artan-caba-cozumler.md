@@ -1,14 +1,22 @@
 ---
-title: "2023'te Taşıyıcıların Karlılığı İçin Artan Çaba ve Çözümler"
-subtitle: "2023'te Taşıyıcıların Karlılığı İçin Artan Çaba ve Çözümler"
-date: "2024-03-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/35950e5c49ae4628b4e4546d017b576e.jpg"
-imageAlt: "2023'te Taşıyıcıların Karlılığı İçin Artan Çaba ve Çözümler"
-wixId: "62da4ef9-148f-4b68-83f2-505145caca5e"
-author: "Sedat Onat"
+title: 2023'te Taşıyıcıların Karlılığı İçin Artan Çaba ve Çözümler
+subtitle: 2023'te Taşıyıcıların Karlılığı İçin Artan Çaba ve Çözümler
+date: '2024-03-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/35950e5c49ae4628b4e4546d017b576e.jpg
+imageAlt: 2023'te Taşıyıcıların Karlılığı İçin Artan Çaba ve Çözümler
+wixId: 62da4ef9-148f-4b68-83f2-505145caca5e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- taşıyıcı karlılığı
+- nakliye sektörü
+- yakıt maliyetleri
+- nakliye dolandırıcılığı
+- Truckstop
+- sigorta maliyetleri
+- MFA
 ---
 <p>2023 yılında nakliye taşıyıcılarının karlı kalmak için daha fazla çaba sarf etmeleri gerektiği, <a href="https://truckstop.com/about/"><u>Truckstop </u></a>tarafından yapılan bir araştırmayla ortaya kondu. Bu araştırmaya 2,000'den fazla kişi katılmış ve sonuçlar taşıyıcıların geçen yıl içinde önemli ölçüde artan bir iş yüküyle karşı karşıya kaldıklarını gösterdi. Ortalama olarak ekstra 3,000 mil yol yapmaları ve her ay iki fazla yük taşımaları gerektiği belirtildi.</p>
 <p><br></p>

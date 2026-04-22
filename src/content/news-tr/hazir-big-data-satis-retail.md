@@ -1,14 +1,22 @@
 ---
-title: "Veri Hazırlığıyla Fark Yaratan Perakendeciler: Beş Kat Daha Yüksek Büyüme"
-subtitle: "Veri Hazırlığıyla Fark Yaratan Perakendeciler: Beş Kat Daha Yüksek Büyüme"
-date: "2025-10-20T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/11062b_ae708cec5f3242a588b44741a32efc05~mv2.jpg"
-imageAlt: "Veri Hazırlığıyla Fark Yaratan Perakendeciler: Beş Kat Daha Yüksek Büyüme"
-wixId: "bfa39fd4-c937-4447-8d58-e0a34c70be21"
-author: "Sedat Onat"
+title: 'Veri Hazırlığıyla Fark Yaratan Perakendeciler: Beş Kat Daha Yüksek Büyüme'
+subtitle: 'Veri Hazırlığıyla Fark Yaratan Perakendeciler: Beş Kat Daha Yüksek Büyüme'
+date: '2025-10-20T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/11062b_ae708cec5f3242a588b44741a32efc05~mv2.jpg
+imageAlt: 'Veri Hazırlığıyla Fark Yaratan Perakendeciler: Beş Kat Daha Yüksek Büyüme'
+wixId: bfa39fd4-c937-4447-8d58-e0a34c70be21
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- veri hazırlığı
+- perakende
+- dijital dönüşüm
+- data readiness
+- analitik
+- tedarik zinciri
+- legacy sistemler
 ---
 <p style="text-align: justify">Perakende sektöründe dijital dönüşüm hız kazanmakta, ancak bu dönüşümün başarısı büyük ölçüde şirketlerin <strong>veri hazırlığı (data readiness)</strong> düzeyine bağlı bulunmakta. <strong>PYMTS</strong> ve <strong>Caret from Fiserv</strong> tarafından <strong>12 Haziran – 7 Ağustos 2024</strong> tarihleri arasında yürütülen araştırma, 2023 yılı geliri 500 milyon doların üzerinde olan <strong>390 gıda ve gıda dışı perakende yöneticisini</strong> kapsamış durumda. Bulgular, <strong>veriyle hazır (data-ready)</strong> şirketlerin, veri yönetiminde geri kalan rakiplerine kıyasla <strong>beş kat daha yüksek gelir artışı</strong> elde etmekte olduğunu göstermekte.</p>
 <p><br></p>

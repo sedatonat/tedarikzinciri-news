@@ -1,14 +1,23 @@
 ---
-title: "Flexport, Convoy Teknolojisi ile Broker Platformunu Genişletiyor"
-subtitle: "Flexport, Convoy Teknolojisi ile Broker Platformunu Genişletiyor"
-date: "2024-06-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b84e48e27fc442618cb5128d4dae461c~mv2.jpg"
-imageAlt: "Flexport, Convoy Teknolojisi ile Broker Platformunu Genişletiyor"
-wixId: "cc67f58e-4692-409b-9e77-64e456af0163"
-author: "Sedat Onat"
+title: Flexport, Convoy Teknolojisi ile Broker Platformunu Genişletiyor
+subtitle: Flexport, Convoy Teknolojisi ile Broker Platformunu Genişletiyor
+date: '2024-06-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b84e48e27fc442618cb5128d4dae461c~mv2.jpg
+imageAlt: Flexport, Convoy Teknolojisi ile Broker Platformunu Genişletiyor
+wixId: cc67f58e-4692-409b-9e77-64e456af0163
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Flexport
+- Convoy
+- yük eşleme
+- kamyon taşımacılığı
+- broker platformu
+- lojistik teknolojisi
+- dijital yük
+- taşıyıcı
 ---
 <p>Flexport, bir lojistik teknoloji sağlayıcısı, iflas eden dijital yük eşleme firması Convoy'dan geçen yıl satın aldığı yazılıma yatırım yapmaya devam ettiğini açıkladı. San Francisco merkezli şirket, brokerlara ülke çapında binlerce güvenilir taşıyıcıya erişim sağlayan Convoy Platformu'nun genişletilmesiyle, yük işlemlerini basitleştirerek hem brokerlerin hem de taşıyıcıların işletme maliyetlerini düşürmeyi amaçlıyor.</p>
 <p><br></p>

@@ -1,14 +1,23 @@
 ---
-title: "Küresel Deniz Taşımacılığında Jeopolitik Gerilimler ve Tarife Savaşları: Navlun Piyasasında Kan Banyosu"
-subtitle: "Küresel Deniz Taşımacılığında Jeopolitik Gerilimler ve Tarife Savaşları: Navlun Piyasasında Kan Banyosu"
-date: "2025-03-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_3ee1d028888042cd859a8683909714a2~mv2_d_4380_2920_s_4_2.jpg"
-imageAlt: "Küresel Deniz Taşımacılığında Jeopolitik Gerilimler ve Tarife Savaşları: Navlun Piyasasında Kan Banyosu"
-wixId: "43f08a78-db14-49bd-9e70-b36699928c88"
-author: "Sedat Onat"
+title: 'Küresel Deniz Taşımacılığında Jeopolitik Gerilimler ve Tarife Savaşları: Navlun Piyasasında Kan Banyosu'
+subtitle: 'Küresel Deniz Taşımacılığında Jeopolitik Gerilimler ve Tarife Savaşları: Navlun Piyasasında Kan Banyosu'
+date: '2025-03-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_3ee1d028888042cd859a8683909714a2~mv2_d_4380_2920_s_4_2.jpg
+imageAlt: 'Küresel Deniz Taşımacılığında Jeopolitik Gerilimler ve Tarife Savaşları: Navlun Piyasasında Kan Banyosu'
+wixId: 43f08a78-db14-49bd-9e70-b36699928c88
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- deniz taşımacılığı
+- navlun fiyatları
+- ticaret tarifeleri
+- jeopolitik gerilim
+- Maersk
+- konteyner taşımacılığı
+- Çin
+- Donald Trump
 ---
 <p style="text-align: justify">Son dönemde küresel deniz taşımacılığı sektörü, jeopolitik gerilimler, ticaret tarifeleri ve bölgesel savaşların etkisiyle ciddi bir krizle karşı karşıya kalmıştır. Bu durum, navlun piyasasında adeta bir "kan banyosu" yaşanmasına neden olmuş ve sektörün temel dinamiklerini derinden sarsmıştır.​</p>
 <p><br></p>

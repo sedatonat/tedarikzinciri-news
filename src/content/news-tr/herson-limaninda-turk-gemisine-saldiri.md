@@ -1,14 +1,21 @@
 ---
-title: "Herson Limanı'nda Türk Gemisine Saldırı"
-subtitle: "Herson Limanı'nda Türk Gemisine Saldırı"
-date: "2024-02-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_aa6dd0c24b764d408c31b84e3f5039f3~mv2.jpg"
-imageAlt: "Herson Limanı'nda Türk Gemisine Saldırı"
-wixId: "e863a75f-f8d8-4afd-9fd9-d5374e8cb14d"
-author: "Sedat Onat"
+title: Herson Limanı'nda Türk Gemisine Saldırı
+subtitle: Herson Limanı'nda Türk Gemisine Saldırı
+date: '2024-02-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_aa6dd0c24b764d408c31b84e3f5039f3~mv2.jpg
+imageAlt: Herson Limanı'nda Türk Gemisine Saldırı
+wixId: e863a75f-f8d8-4afd-9fd9-d5374e8cb14d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Herson Limanı
+- Türk gemisi
+- deniz güvenliği
+- Ukrayna-Rusya savaşı
+- kuru yük gemisi
+- gemi saldırısı
 ---
 <p>Ukrayna'nın Herson limanında demirlemiş Türk bandıralı "Kuruoğlu 3" isimli kuru yük gemisi, kaynağı belirsiz bir saldırıya uğradı. Saldırı sonucu gemi ciddi hasar alarak yan yattı. Geminin köprüüstüne isabet eden füze veya top mermisi yangına neden oldu, ancak yangın kontrol altına alındı.&nbsp;</p>
 <p><br></p>

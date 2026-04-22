@@ -1,16 +1,24 @@
 ---
-title: "Iran–Turkey 200 km \"Southern Silk Road\" Corridor: A New Move in Middle Corridor Competition"
-subtitle: "Iran–Turkey 200 km \"Southern Silk Road\" Corridor: A New Move in Middle Corridor Competition"
-date: "2025-11-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_dcfb5ef4c0eb46c58d5263825d6db0ff~mv2.jpg"
-imageAlt: "Iran's attempt to balance the Middle Corridor with a new 1.6 billion dollar railway on its Turkish border, Turkey's coordination with the KIAD line, and details of the emerging new geopolitical route in China–Europe logistics"
-wixId: "df1fa4d8-0ad3-4ef2-a4dd-8b1cdc266752"
-author: "Sedat Onat"
+title: 'Iran–Turkey 200 km "Southern Silk Road" Corridor: A New Move in Middle Corridor Competition'
+subtitle: 'Iran–Turkey 200 km "Southern Silk Road" Corridor: A New Move in Middle Corridor Competition'
+date: '2025-11-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_dcfb5ef4c0eb46c58d5263825d6db0ff~mv2.jpg
+imageAlt: Iran's attempt to balance the Middle Corridor with a new 1.6 billion dollar railway on its Turkish border, Turkey's coordination with the KIAD line, and details of the emerging new geopolitical route in China–Europe logistics
+wixId: df1fa4d8-0ad3-4ef2-a4dd-8b1cdc266752
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Iran
+- Turkey
+- railway
+- Middle Corridor
+- Zangezur Corridor
+- China
+- sanctions
+- infrastructure
 ---
-
 <p style="text-align: justify">The <strong>1.6 billion dollar</strong> new railway project announced by Iran in the final quarter of 2025 is being assessed not merely as infrastructure construction, but as a geopolitical counter-move. Announced under the heading "<strong>Southern Silk Road Revival</strong>", the project represents a strategic step developed by Iran to counter the risk of permanent bypass on the <strong>Middle Corridor</strong> route extending from China through Central Asia and Turkey to Europe. The substantial investments attracted by the Middle Corridor (a Caspian Sea-crossing connection via Kazakhstan–Azerbaijan–Turkey) and the accelerating plans for the <strong>Zangezur Corridor</strong> (direct access to Turkey via Azerbaijan–Armenia) are forcing Iran to expedite its own alternative.</p>
 <p><br></p>
 <p style="text-align: justify">The core component of the project is the <strong>200 km new railway line</strong> stretching between <strong>Marand and Cheshmeh Sorayya</strong>. Once completed, cargo transport from Iran to Turkey will be able to take place over an uninterrupted land line, rather than via <strong>Lake Van ferry</strong> or lengthy circumnavigation routes. Iran's Transport Minister <strong>Farzaneh Sadegh</strong> noted that construction is expected to take approximately 3–4 years.</p>

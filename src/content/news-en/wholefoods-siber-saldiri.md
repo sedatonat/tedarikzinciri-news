@@ -1,16 +1,23 @@
 ---
-title: "Cyberattack on Supplier Leaves Whole Foods Shelves Empty"
-subtitle: "Cyberattack on Supplier Leaves Whole Foods Shelves Empty"
-date: "2025-06-14T00:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_4cef3eec4341451eadcfe3ba722a698d~mv2.png"
-imageAlt: "Cyberattack on Supplier Leaves Whole Foods Shelves Empty"
-wixId: "b9747517-2488-4508-87d4-3c27d7337d7c"
-author: "Sedat Onat"
+title: Cyberattack on Supplier Leaves Whole Foods Shelves Empty
+subtitle: Cyberattack on Supplier Leaves Whole Foods Shelves Empty
+date: '2025-06-14T00:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_4cef3eec4341451eadcfe3ba722a698d~mv2.png
+imageAlt: Cyberattack on Supplier Leaves Whole Foods Shelves Empty
+wixId: b9747517-2488-4508-87d4-3c27d7337d7c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- cyber attack
+- Whole Foods
+- supplier risk management
+- supply disruption
+- cybersecurity
+- retail
+- alternative supplier
 ---
-
 <p style="text-align: justify"><strong>Whole Foods</strong> experienced <strong>supply disruptions</strong> and <strong>empty shelves</strong> at several store locations following a <strong>cyberattack</strong> on one of its suppliers. The incident has brought renewed attention to the strategic importance of <strong>supplier risk management</strong> and <strong>third-party cybersecurity</strong> controls in modern retail networks.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">In response to the attack, Whole Foods quickly activated <strong>allocation</strong> and <strong>substitution</strong> protocols to minimize operational impact. By integrating substitute SKUs into store planograms, the company was able to soften the blow to <strong>consumer experience</strong>. The company also maintained <strong>transparent communication</strong> with customers regarding the situation.</p>

@@ -1,14 +1,22 @@
 ---
-title: "USPS Liderliği: Tartışmalı Kesintilerin Mirası"
-subtitle: "USPS Liderliği: Tartışmalı Kesintilerin Mirası"
-date: "2025-03-25T00:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_ecb4b36d14434687a56df787853755d6~mv2.png"
-imageAlt: "Usps Liderliği: Tartışmalı Kesintilerin Mirası"
-wixId: "c5dc6fbf-8785-4e7d-ab2c-63d78c38ca7c"
-author: "Sedat Onat"
+title: 'USPS Liderliği: Tartışmalı Kesintilerin Mirası'
+subtitle: 'USPS Liderliği: Tartışmalı Kesintilerin Mirası'
+date: '2025-03-25T00:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_ecb4b36d14434687a56df787853755d6~mv2.png
+imageAlt: 'Usps Liderliği: Tartışmalı Kesintilerin Mirası'
+wixId: c5dc6fbf-8785-4e7d-ab2c-63d78c38ca7c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- USPS
+- posta hizmeti
+- maliyet kesintileri
+- otomasyon
+- teslimat gecikmeleri
+- rota optimizasyonu
+- sendika
 ---
 <p>ABD USPS liderliğinin son dönemde uyguladığı maliyet kesintileri, hizmet seviyeleri ve çalışan ilişkileri üzerinde tartışmalı bir miras bırakmakta. Operasyonel yeniden yapılanma, sorting &amp; delivery centers konsolidasyonu ve rota yeniden planlamalarıyla maliyetleri düşürmeyi hedeflemekte; ancak bazı bölgelerde teslimat gecikmeleri ve şube kapatmaları gözlemlenmekte.&nbsp;</p>
 <p><br></p>

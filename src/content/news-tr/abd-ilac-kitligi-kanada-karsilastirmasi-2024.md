@@ -1,14 +1,22 @@
 ---
-title: "ABD'de İlaç Kıtlığı, Kanada'ya Göre %40 Daha Olası"
-subtitle: "ABD'de İlaç Kıtlığı, Kanada'ya Göre %40 Daha Olası"
-date: "2024-11-01T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_f10d9afb3cff453e8eb6f359dc7910bf~mv2.jpg"
-imageAlt: "ABD'de İlaç Kıtlığı, Kanada'ya Göre %40 Daha Olası"
-wixId: "e17a11be-e8fe-4f5a-9ab0-2b966913def4"
-author: "Sedat Onat"
+title: ABD'de İlaç Kıtlığı, Kanada'ya Göre %40 Daha Olası
+subtitle: ABD'de İlaç Kıtlığı, Kanada'ya Göre %40 Daha Olası
+date: '2024-11-01T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_f10d9afb3cff453e8eb6f359dc7910bf~mv2.jpg
+imageAlt: ABD'de İlaç Kıtlığı, Kanada'ya Göre %40 Daha Olası
+wixId: e17a11be-e8fe-4f5a-9ab0-2b966913def4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ilaç kıtlığı
+- tedarik zinciri
+- ABD
+- Kanada
+- ADHD ilaçları
+- FDA
+- sağlık lojistiği
 ---
 <p>Journal of the American Medical Association (JAMA) tarafından yapılan bir araştırmaya göre, tedarik zinciri sorunları ABD'de ilaç kıtlığına yol açma olasılığını Kanada'ya kıyasla %40 artırıyor. 2017 ile 2021 yılları arasında ABD ve Kanada'da ilaçla ilgili 100 tedarik zinciri aksaklığını inceleyen JAMA, bu aksaklıkların neredeyse yarısının ABD'de doğrudan ilaç kıtlığına neden olduğunu, Kanada'da ise bu oranın sadece %34 olduğunu belirtti. Tedarik zinciri sorunlarının büyük çoğunluğu, üretim, paketleme veya nakliyedeki gecikmelere bağlandı.</p>
 <p><br></p>

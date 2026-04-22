@@ -1,16 +1,23 @@
 ---
-title: "Toyota Reaches Agreement with Cirba Solutions to Recycle 25,000 EV Batteries Annually"
-subtitle: "Toyota Reaches Agreement with Cirba Solutions to Recycle 25,000 EV Batteries Annually"
-date: "2023-12-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_49dd4b1f6f07463eba81e6e93921969f~mv2.jpg"
-imageAlt: "Toyota Reaches Agreement with Cirba Solutions to Recycle 25,000 EV Batteries Annually"
-wixId: "60f79a92-e110-4a8d-90b6-5087367968d7"
-author: "Sedat Onat"
+title: Toyota Reaches Agreement with Cirba Solutions to Recycle 25,000 EV Batteries Annually
+subtitle: Toyota Reaches Agreement with Cirba Solutions to Recycle 25,000 EV Batteries Annually
+date: '2023-12-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_49dd4b1f6f07463eba81e6e93921969f~mv2.jpg
+imageAlt: Toyota Reaches Agreement with Cirba Solutions to Recycle 25,000 EV Batteries Annually
+wixId: 60f79a92-e110-4a8d-90b6-5087367968d7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Toyota
+- electric vehicle
+- battery recycling
+- Cirba Solutions
+- lithium-ion battery
+- sustainability
+- logistics cost
 ---
-
 <p>Toyota Motor North America announced it will partner with battery materials services and recycling company <a href="https://www.cirbasolutions.com/"><u>Cirba Solutions</u></a> to expand its battery recycling network. The partnership will focus on battery collection efforts for hybrid, plug-in hybrid, and electric vehicles.</p>
 <p><br></p>
 <p>The initiative will focus on collecting, transporting, disassembling, and processing end-of-life lithium-ion electric vehicle batteries across the Midwest and Eastern United States, with operations taking place at Cirba's Lancaster facility in Ohio. Toyota noted that the facility has a 95 percent recovery rate.</p>

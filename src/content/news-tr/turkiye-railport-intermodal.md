@@ -1,14 +1,23 @@
 ---
-title: "Türkiye, İlk İntermodal Terminali Railport’u Hizmete Aldı"
-subtitle: "Türkiye, İlk İntermodal Terminali Railport’u Hizmete Aldı"
-date: "2025-12-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6f1e6f4f18bc4fa4a03d60215c87c961~mv2.jpg"
-imageAlt: "Türkiye’nin ilk intermodal terminali Railport’un Kartepe’de faaliyete başlaması, duisport–Arkas ortaklığı, Marmara ve Orta Koridor bağlantıları ile Türkiye’nin Avrupa–Asya lojistik köprüsü rolüne etkilerinin detaylı özeti"
-wixId: "6dba52e7-3dde-4ba6-b514-3560f05b5b27"
-author: "Sedat Onat"
+title: Türkiye, İlk İntermodal Terminali Railport’u Hizmete Aldı
+subtitle: Türkiye, İlk İntermodal Terminali Railport’u Hizmete Aldı
+date: '2025-12-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_6f1e6f4f18bc4fa4a03d60215c87c961~mv2.jpg
+imageAlt: Türkiye’nin ilk intermodal terminali Railport’un Kartepe’de faaliyete başlaması, duisport–Arkas ortaklığı, Marmara ve Orta Koridor bağlantıları ile Türkiye’nin Avrupa–Asya lojistik köprüsü rolüne etkilerinin detaylı özeti
+wixId: 6dba52e7-3dde-4ba6-b514-3560f05b5b27
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Railport
+- intermodal terminal
+- duisport
+- Arkas
+- Orta Koridor
+- BTK hattı
+- demiryolu taşımacılığı
+- Kartepe
 ---
 <p style="text-align: justify">Türkiye lojistik sektörü açısından yapısal bir dönüm noktası olarak değerlendirilen <strong>Railport</strong>, ülkenin <strong>ilk intermodal terminali</strong> olarak resmi olarak faaliyete başladı. İstanbul’un yaklaşık <strong>130 kilometre doğusunda</strong>, <strong>Kartepe</strong>’de konumlanan tesis; yük trenleri, konteynerler, kamyonlar ve <strong>high-bay warehouse</strong> altyapısıyla operasyon yürütmekte. Terminalin devreye alınması, yalnızca Türkiye için değil, aynı zamanda Avrupa’nın en büyük iç limanı olan <strong>Port of Duisburg (duisport)</strong> için de stratejik bir genişleme anlamı taşımakta.</p>
 <p><br></p>

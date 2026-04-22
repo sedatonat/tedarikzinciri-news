@@ -1,14 +1,22 @@
 ---
-title: "Port Authority of New South Wales, Port Kembla'da Yeni Pilot Merdiveni Eğitim Tesisi Geliştirdi"
-subtitle: "Port Authority of New South Wales, Port Kembla'da Yeni Pilot Merdiveni Eğitim Tesisi Geliştirdi"
-date: "2024-10-31T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_bfa673973b7b4f65b21f21cabbdca1d3~mv2.jpg"
-imageAlt: "Port Authority of New South Wales, Port Kembla'da Yeni Pilot Merdiveni Eğitim Tesisi Geliştirdi"
-wixId: "37f26607-f829-430e-b914-13e35c05f21c"
-author: "Sedat Onat"
+title: Port Authority of New South Wales, Port Kembla'da Yeni Pilot Merdiveni Eğitim Tesisi Geliştirdi
+subtitle: Port Authority of New South Wales, Port Kembla'da Yeni Pilot Merdiveni Eğitim Tesisi Geliştirdi
+date: '2024-10-31T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_bfa673973b7b4f65b21f21cabbdca1d3~mv2.jpg
+imageAlt: Port Authority of New South Wales, Port Kembla'da Yeni Pilot Merdiveni Eğitim Tesisi Geliştirdi
+wixId: 37f26607-f829-430e-b914-13e35c05f21c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Port Kembla
+- pilot merdiveni
+- denizcilik eğitimi
+- liman güvenliği
+- Port Authority NSW
+- Avustralya
+- eğitim tesisi
 ---
 <p>Port Authority of New South Wales (NSW), Port Kembla'da yeni bir pilot merdiveni eğitim tesisi geliştirdi. Bu yenilikçi çözüm, denizcilik profesyonelleri ve stajyerlerin hareket halindeki bir geminin yanında güvenli bir şekilde merdiven tırmanma pratiği yapmalarına olanak tanıyor.</p>
 <p><br></p>

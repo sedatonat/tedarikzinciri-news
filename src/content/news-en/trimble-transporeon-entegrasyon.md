@@ -1,16 +1,24 @@
 ---
-title: "Trimble and Transporeon: Real-Time Freight Tracking and TMS Integration"
-subtitle: "Trimble and Transporeon: Real-Time Freight Tracking and TMS Integration"
-date: "2025-02-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a749cb4b64f9458d9f1a65b512ae450a~mv2.jpg"
-imageAlt: "Trimble and Transporeon: Real-Time Freight Tracking and TMS Integration"
-wixId: "eadc5fab-283b-4d20-8d84-49f3ea0034ec"
-author: "Sedat Onat"
+title: 'Trimble and Transporeon: Real-Time Freight Tracking and TMS Integration'
+subtitle: 'Trimble and Transporeon: Real-Time Freight Tracking and TMS Integration'
+date: '2025-02-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a749cb4b64f9458d9f1a65b512ae450a~mv2.jpg
+imageAlt: 'Trimble and Transporeon: Real-Time Freight Tracking and TMS Integration'
+wixId: eadc5fab-283b-4d20-8d84-49f3ea0034ec
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Trimble
+- Transporeon
+- real-time tracking
+- TMS
+- supply chain
+- freight tracking
+- logistics management
+- digital transformation
 ---
-
 <p style="text-align: justify"><strong>Trimble</strong> and <strong>Transporeon</strong> have joined forces to revolutionize supply chain management. This partnership seamlessly brings together real-time freight tracking and <strong>Transportation Management System (TMS)</strong> integration, making logistics operations more efficient and transparent.​</p>
 <p><br></p>
 <p style="text-align: justify">Today, supply chain management has become increasingly complex due to rapidly changing market conditions and rising customer expectations. To overcome these challenges, companies are turning to innovative technologies. The partnership between <strong>Trimble</strong> and <strong>Transporeon</strong> emerges as a response to this need.​</p>

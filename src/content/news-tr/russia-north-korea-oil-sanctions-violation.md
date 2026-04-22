@@ -1,14 +1,22 @@
 ---
-title: "Rusya, Bir Milyon Varilden Fazla Petrolle Kuzey Kore'ye Destek Sağlıyor"
-subtitle: "Rusya, Bir Milyon Varilden Fazla Petrolle Kuzey Kore'ye Destek Sağlıyor"
-date: "2024-11-22T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_9279f620b08c4ced9b7d7b49333a07aa~mv2.jpg"
-imageAlt: "Rusya, Bir Milyon Varilden Fazla Petrolle Kuzey Kore'ye Destek Sağlıyor"
-wixId: "62dd98ca-cc2b-4ee5-a213-0de8a6ef30b9"
-author: "Sedat Onat"
+title: Rusya, Bir Milyon Varilden Fazla Petrolle Kuzey Kore'ye Destek Sağlıyor
+subtitle: Rusya, Bir Milyon Varilden Fazla Petrolle Kuzey Kore'ye Destek Sağlıyor
+date: '2024-11-22T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_9279f620b08c4ced9b7d7b49333a07aa~mv2.jpg
+imageAlt: Rusya, Bir Milyon Varilden Fazla Petrolle Kuzey Kore'ye Destek Sağlıyor
+wixId: 62dd98ca-cc2b-4ee5-a213-0de8a6ef30b9
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Rusya
+- Kuzey Kore
+- petrol ticareti
+- BM yaptırımları
+- uydu görüntüsü
+- petrol tankeri
+- nükleer program
 ---
 <p>Rusya, Mart 2024'ten bu yana Kuzey Kore'ye bir milyondan fazla varil petrol sağlayarak Birleşmiş Milletler (BM) tarafından uygulanan Kuzey Kore'ye yönelik petrol satışlarını yasaklayan yaptırımları ihlal ediyor. Bu bulgular, Birleşik Krallık merkezli kar amacı gütmeyen araştırma grubu Open Source Centre tarafından gerçekleştirilen uydu görüntüsü analizlerine dayanmaktadır. BBC News'in bildirdiğine göre, Rusya'nın Kuzey Kore'ye petrol karşılığında silah ve birlik gönderdiği belirtilirken, bu destek sayesinde Moskova'nın Ukrayna'ya karşı yürüttüğü savaşta Kuzey Kore'nin katkıda bulunduğu ifade edilmektedir.</p>
 <p><br></p>

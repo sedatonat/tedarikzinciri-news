@@ -1,14 +1,21 @@
 ---
-title: "IMO Konseyinin 2026–2027 Üst Kategori A Listesinde Rusya Yer Almadı"
-subtitle: "IMO Konseyinin 2026–2027 Üst Kategori A Listesinde Rusya Yer Almadı"
-date: "2025-11-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0de2ea83070b462fa1636b7268e7661e~mv2.jpg"
-imageAlt: "IMO’nun 2026–2027 dönemi için açıkladığı Category A sonuçlarında Rusya’nın yeniden seçilememesi ve bunun küresel denizcilik düzenlemelerine etkisine dair kapsamlı haber özeti"
-wixId: "634c90a5-73dd-44c8-b668-3d3fe8514a40"
-author: "Sedat Onat"
+title: IMO Konseyinin 2026–2027 Üst Kategori A Listesinde Rusya Yer Almadı
+subtitle: IMO Konseyinin 2026–2027 Üst Kategori A Listesinde Rusya Yer Almadı
+date: '2025-11-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0de2ea83070b462fa1636b7268e7661e~mv2.jpg
+imageAlt: IMO’nun 2026–2027 dönemi için açıkladığı Category A sonuçlarında Rusya’nın yeniden seçilememesi ve bunun küresel denizcilik düzenlemelerine etkisine dair kapsamlı haber özeti
+wixId: 634c90a5-73dd-44c8-b668-3d3fe8514a40
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- IMO
+- Rusya
+- denizcilik
+- uluslararası organizasyon
+- deniz taşımacılığı
+- jeopolitik
 ---
 <p style="text-align: justify">Uluslararası denizcilik yönetiminde belirleyici konuma sahip <strong>International Maritime Organization (IMO)</strong>, 2026–2027 dönemi için <strong>Konsey Category A</strong> seçim sonuçlarını açıkladı ve Rusya’nın bu en üst kategoriye yeniden seçilemediğini duyurdu. Sonuçların IMO’nun resmi sosyal medya hesabı üzerinden yayımlanmasıyla, küresel denizcilik sektöründe yoğun tartışmalara yol açan süreç resmen netlik kazandı. Category A, uluslararası deniz taşımacılığına en fazla katkı sağlayan ve sektörel düzenlemelerin oluşturulmasında doğrudan söz sahibi olan ülkelerden oluşmakta.</p>
 <p><br></p>

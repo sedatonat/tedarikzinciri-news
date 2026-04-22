@@ -1,14 +1,22 @@
 ---
-title: "Meksika'dan ABD'ye Araç Taşımacılığında DP World'den Yenilikçi Intermodal Hizmet"
-subtitle: "Meksika'dan ABD'ye Araç Taşımacılığında DP World'den Yenilikçi Intermodal Hizmet"
-date: "2024-05-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_97553644e6834db99a6e2c00ecbb696b~mv2.jpg"
-imageAlt: "Meksika'dan ABD'ye Araç Taşımacılığında DP World'den Yenilikçi Intermodal Hizmet"
-wixId: "987e0ae8-e089-450a-aa0f-009a4b83679b"
-author: "Sedat Onat"
+title: Meksika'dan ABD'ye Araç Taşımacılığında DP World'den Yenilikçi Intermodal Hizmet
+subtitle: Meksika'dan ABD'ye Araç Taşımacılığında DP World'den Yenilikçi Intermodal Hizmet
+date: '2024-05-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_97553644e6834db99a6e2c00ecbb696b~mv2.jpg
+imageAlt: Meksika'dan ABD'ye Araç Taşımacılığında DP World'den Yenilikçi Intermodal Hizmet
+wixId: 987e0ae8-e089-450a-aa0f-009a4b83679b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DP World
+- intermodal taşımacılık
+- otomotiv lojistiği
+- Meksika
+- demiryolu taşımacılığı
+- araç taşımacılığı
+- USMCA
 ---
 <p>DP World, Kuzey Amerika'daki <a href="https://www.tedarikzinciriportali.com/post/terim-roro-tasimaciligi-roll-on-roll-off"><u>Ro-Ro</u></a> ve Katlı tren kapasite sıkışıklığını hafifletmek amacıyla, Meksika'dan ABD ve Kanada'ya bitmiş araçları demiryolu ile taşımak için yeni bir intermodal hizmet başlatıyor. Dubai merkezli lojistik hizmet sağlayıcı, 53 foot'luk intermodal konteynerlerde araç taşımak için raf sistemleri kullanarak sektörde bir ilk olan bu çözümü sunuyor. Geleneksel 40 foot'luk konteynerler en fazla 4 araç alırken, bu yeni 53 foot'luk konteynerler 6 araca kadar taşıma kapasitesine sahip.</p>
 <p><br></p>

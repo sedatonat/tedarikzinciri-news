@@ -1,14 +1,22 @@
 ---
-title: "Kairos Tankeri Ahtopol Açıklarında Stabilize Edildi: Ortak Kurtarma Operasyonu Sürmekte"
-subtitle: "Kairos Tankeri Ahtopol Açıklarında Stabilize Edildi: Ortak Kurtarma Operasyonu Sürmekte"
-date: "2025-12-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_940535ba9dd9462c9a96126c69711a67~mv2.jpg"
-imageAlt: "Kairos tankerinin İstanbul Boğazı kuzeyinde yaşanan patlama sonrası sürüklenerek Ahtopol açıklarına ulaşması, Bulgar–Türk kurumlarının koordinasyonu, hava şartlarının operasyonu engellemesi ve çevresel risklerin değerlendirilmesine dair detaylı özet"
-wixId: "a6ed39dc-676d-4b9b-97dd-b3bea9a0aa6a"
-author: "Sedat Onat"
+title: 'Kairos Tankeri Ahtopol Açıklarında Stabilize Edildi: Ortak Kurtarma Operasyonu Sürmekte'
+subtitle: 'Kairos Tankeri Ahtopol Açıklarında Stabilize Edildi: Ortak Kurtarma Operasyonu Sürmekte'
+date: '2025-12-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_940535ba9dd9462c9a96126c69711a67~mv2.jpg
+imageAlt: Kairos tankerinin İstanbul Boğazı kuzeyinde yaşanan patlama sonrası sürüklenerek Ahtopol açıklarına ulaşması, Bulgar–Türk kurumlarının koordinasyonu, hava şartlarının operasyonu engellemesi ve çevresel risklerin değerlendirilmesine dair detaylı özet
+wixId: a6ed39dc-676d-4b9b-97dd-b3bea9a0aa6a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kairos tankeri
+- Ahtopol
+- kurtarma operasyonu
+- Bulgaristan
+- Karadeniz
+- deniz güvenliği
+- shadow fleet
 ---
 <p style="text-align: justify">Bulgaristan Ulaştırma ve Haberleşme Bakanlığı, <strong>Kairos</strong> adlı tankerin Ahtopol açıklarında stabil hâle getirildiğini, ancak kötü hava koşulları nedeniyle tam kapsamlı kurtarma çalışmalarının sürdüğünü açıkladı. Tanker, Türkiye karasundan ayrılarak <strong>birkaç gün boyunca sürüklenmiş</strong> ve Bulgar ulusal gözetim sistemleri tarafından tespit edildikten sonra bölgeye acil müdahale ekipleri yönlendirilmişti.</p>
 <p><br></p>

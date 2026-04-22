@@ -1,14 +1,22 @@
 ---
-title: "Kaliforniya'nın En Büyük Elektrikli Kamyon Şarj İstasyonu Açıldı"
-subtitle: "Kaliforniya'nın En Büyük Elektrikli Kamyon Şarj İstasyonu Açıldı"
-date: "2024-05-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c62a89c8c3e243c4bc6b2d81b2a67a6c~mv2.jpeg"
-imageAlt: "Kaliforniya'nın En Büyük Elektrikli Kamyon Şarj İstasyonu Açıldı"
-wixId: "b1c5d5cd-90fc-4680-9dd4-582498e82ef1"
-author: "Sedat Onat"
+title: Kaliforniya'nın En Büyük Elektrikli Kamyon Şarj İstasyonu Açıldı
+subtitle: Kaliforniya'nın En Büyük Elektrikli Kamyon Şarj İstasyonu Açıldı
+date: '2024-05-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c62a89c8c3e243c4bc6b2d81b2a67a6c~mv2.jpeg
+imageAlt: Kaliforniya'nın En Büyük Elektrikli Kamyon Şarj İstasyonu Açıldı
+wixId: b1c5d5cd-90fc-4680-9dd4-582498e82ef1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- elektrikli kamyon
+- şarj istasyonu
+- Prologis
+- Maersk
+- Los Angeles limanı
+- mikrogrid
+- Kaliforniya
 ---
 <p>Prologis, lojistik gayrimenkul firması, ve A.P. Møller – Maersk A/S'nin <a href="https://www.tedarikzinciriportali.com/post/terim-3pl-third-party-logistics-ucuncu-taraf-lojistik"><u>3ncü Taraf Lojistik</u></a> kolu Performance Team, Los Angeles ve Long Beach limanlarına yakın bir konumda, Amerika'nın en büyük ağır hizmet tipi elektrikli araç (EV) şarj deposunu açtı. Bu tesis, 96 elektrikli kamyonu aynı anda şarj edebilme kapasitesine sahip ve Performance Team'in 240 mil menzilli Volvo VNR Electric kamyon filosuna hizmet verecek. Depo, sadece beş ayda inşa edildi ve Los Angeles'ta Harbor (110) Freeway'in hemen yanında, Denker Avenue üzerinde yer alıyor. Tesis ayrıca Interstate 405 ve California State Route 91 (SR91) otoyollarına beş mil uzaklıkta.</p>
 <p><br></p>

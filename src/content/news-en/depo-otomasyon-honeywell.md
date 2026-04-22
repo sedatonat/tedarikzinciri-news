@@ -1,16 +1,23 @@
 ---
-title: "Honeywell Strengthens Presence in Warehouse Automation"
-subtitle: "Honeywell Strengthens Presence in Warehouse Automation"
-date: "2024-02-22T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_c214343839c34c97bf359517265ba4b2~mv2.jpg"
-imageAlt: "Honeywell Strengthens Presence in Warehouse Automation"
-wixId: "ff29c71f-c90f-445e-bff8-d3aa2ce9396b"
-author: "Sedat Onat"
+title: Honeywell Strengthens Presence in Warehouse Automation
+subtitle: Honeywell Strengthens Presence in Warehouse Automation
+date: '2024-02-22T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_c214343839c34c97bf359517265ba4b2~mv2.jpg
+imageAlt: Honeywell Strengthens Presence in Warehouse Automation
+wixId: ff29c71f-c90f-445e-bff8-d3aa2ce9396b
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Honeywell
+- warehouse automation
+- Intelligrated
+- Hai Robotics
+- e-commerce
+- labor shortage
+- robotics
 ---
-
 <p>Honeywell is targeting expansion of its warehouse automation business at a time when macro trends such as rising e-commerce shipments and persistent labor shortages are favorable for the market.</p>
 <p><br></p>
 <p>Analysts predict warehouse automation sales will grow this year following slowdowns in 2022 and 2023. Kevin Graebel, head of product and marketing for Honeywell's Intelligrated unit, notes that a large portion of warehouse operators are struggling to find sufficient labor, and therefore the need for automation will continue.</p>

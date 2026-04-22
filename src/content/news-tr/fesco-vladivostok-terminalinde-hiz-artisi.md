@@ -1,14 +1,22 @@
 ---
-title: "FESCO'nun Vladivostok Terminalindeki Blok Tren İşleme Hızında Büyük Artış"
-subtitle: "FESCO'nun Vladivostok Terminalindeki Blok Tren İşleme Hızında Büyük Artış"
-date: "2024-02-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_cd57527fa77d4ffba75905785697b42d~mv2.jpg"
-imageAlt: "FESCO'nun Vladivostok Terminalindeki Blok Tren İşleme Hızında Büyük Artış"
-wixId: "517f3a91-428c-469e-b5ab-c7dc3e652718"
-author: "Sedat Onat"
+title: FESCO'nun Vladivostok Terminalindeki Blok Tren İşleme Hızında Büyük Artış
+subtitle: FESCO'nun Vladivostok Terminalindeki Blok Tren İşleme Hızında Büyük Artış
+date: '2024-02-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_cd57527fa77d4ffba75905785697b42d~mv2.jpg
+imageAlt: FESCO'nun Vladivostok Terminalindeki Blok Tren İşleme Hızında Büyük Artış
+wixId: 517f3a91-428c-469e-b5ab-c7dc3e652718
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- FESCO
+- Vladivostok
+- blok tren
+- terminal operasyonları
+- konteyner terminali
+- demiryolu lojistiği
+- Rusya
 ---
 <p>FESCO Taşıma Grubu'nun, Rusya'nın Uzak Doğusunda yer alan Vladivostok'taki Ticari Limanı'ndaki Universal terminalinde blok trenlerin işlenme hızını artırdığı bildirildi. Yeni bir sahanın devreye alınması sayesinde, bir blok trenin işlenme süresi önceki süreye göre %36 azalarak 3 saat 40 dakikaya düştü. Bu iyileştirme, kullanılmayan eski bir depo alanının yerine yapılan yeni sahanın devreye alınması ile sağlandı.&nbsp;</p>
 <p><br></p>

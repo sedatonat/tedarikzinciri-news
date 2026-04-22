@@ -1,14 +1,22 @@
 ---
-title: "Ukrayna'nın Batısında AB-Ukrayna Lojistik Bağlantısını Güçlendirecek Yeni Terminal"
-subtitle: "Ukrayna'nın Batısında AB-Ukrayna Lojistik Bağlantısını Güçlendirecek Yeni Terminal"
-date: "2024-03-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a7f0b4d27ada4a8d8055956818350371~mv2.jpg"
-imageAlt: "Ukrayna'nın Batısında AB-Ukrayna Lojistik Bağlantısını Güçlendirecek Yeni Terminal"
-wixId: "7b47713c-56fb-460b-92b7-b80a78f19a97"
-author: "Sedat Onat"
+title: Ukrayna'nın Batısında AB-Ukrayna Lojistik Bağlantısını Güçlendirecek Yeni Terminal
+subtitle: Ukrayna'nın Batısında AB-Ukrayna Lojistik Bağlantısını Güçlendirecek Yeni Terminal
+date: '2024-03-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a7f0b4d27ada4a8d8055956818350371~mv2.jpg
+imageAlt: Ukrayna'nın Batısında AB-Ukrayna Lojistik Bağlantısını Güçlendirecek Yeni Terminal
+wixId: 7b47713c-56fb-460b-92b7-b80a78f19a97
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ukrayna
+- intermodal terminal
+- demiryolu
+- Avrupa Birliği
+- hat genişliği
+- Romanya
+- lojistik altyapı
 ---
 <p>Batı Ukrayna'da, Romanya sınırına yakın bir yerde yeni bir intermodal terminal inşa ediliyor. Bu terminal, trenler arası, farklı demiryolu hat genişliklerindeki geçişler ile karayolu-demiryolu ve demiryolu-karayolu arası yük transferlerini kolaylaştıracak. Amacı, Ukrayna ile Avrupa Birliği (AB) ülkeleri arasındaki lojistik bağlantıyı güçlendirmek.</p>
 <p><br></p>

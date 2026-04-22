@@ -1,14 +1,23 @@
 ---
-title: "ABD'nin Panama Kanalı İçin Askeri Planları"
-subtitle: "ABD'nin Panama Kanalı İçin Askeri Planları"
-date: "2025-03-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e7f462a965904a9b86389cf8c2400f4e~mv2.jpg"
-imageAlt: "ABD'nin Panama Kanalı İçin Askeri Planları"
-wixId: "e9076153-3f59-4cfd-92b8-9237cd36747f"
-author: "Sedat Onat"
+title: ABD'nin Panama Kanalı İçin Askeri Planları
+subtitle: ABD'nin Panama Kanalı İçin Askeri Planları
+date: '2025-03-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e7f462a965904a9b86389cf8c2400f4e~mv2.jpg
+imageAlt: ABD'nin Panama Kanalı İçin Askeri Planları
+wixId: e9076153-3f59-4cfd-92b8-9237cd36747f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Panama Kanalı
+- jeopolitik risk
+- küresel ticaret
+- tedarik zinciri
+- Çin
+- ABD
+- lojistik darboğaz
+- iklim değişikliği
 ---
 <p style="text-align: justify">ABD, <a href="https://tr.wikipedia.org/wiki/Panama_Kanal%C4%B1"><u><strong>Panama Kanalı</strong></u><u>'</u></a>ndaki artan jeopolitik riskler nedeniyle bölgeye yönelik askeri planlamalar yapmakta. Küresel ticaretin en kritik geçiş noktalarından biri olan kanal, <strong>Çin</strong>’in artan etkisi, <strong>iklim değişikliği</strong> kaynaklı su seviyesi düşüşleri ve <strong>Orta Amerika’daki istikrarsızlık</strong> nedeniyle ABD’nin ulusal güvenlik gündemine girmekte. Washington yönetimi, kanalın güvenliğini sağlamak amacıyla askeri stratejiler geliştirmekte, ancak bu planlar <strong>Panama hükümetiyle olan diplomatik ilişkileri</strong> de hassas bir noktaya taşımakta.</p>
 <p style="text-align: justify"><br></p>

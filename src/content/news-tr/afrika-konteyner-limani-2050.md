@@ -1,14 +1,23 @@
 ---
-title: "Afrika 2050’ye Kadar Konteyner Talebinde Dev Sıçrama Vaat Ediyor, Ancak Limanlar 2025’te Krizi Kaldıramıyor"
-subtitle: "Afrika 2050’ye Kadar Konteyner Talebinde Dev Sıçrama Vaat Ediyor, Ancak Limanlar 2025’te Krizi Kaldıramıyor"
-date: "2025-12-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_99d08440560b4186922a51d3ce06c298~mv2.jpg"
-imageAlt: "Sea-Intelligence’ın Afrika’nın 5% yıllık büyüme potansiyelini açıklayan projeksiyonları ile 2025’te Red Sea krizinin Afrika limanlarını nasıl zayıf halkaya dönüştürdüğüne dair kapsamlı lojistik analizi"
-wixId: "a804aaa7-71b9-4ec1-9185-f11ed753599e"
-author: "Sedat Onat"
+title: Afrika 2050’ye Kadar Konteyner Talebinde Dev Sıçrama Vaat Ediyor, Ancak Limanlar 2025’te Krizi Kaldıramıyor
+subtitle: Afrika 2050’ye Kadar Konteyner Talebinde Dev Sıçrama Vaat Ediyor, Ancak Limanlar 2025’te Krizi Kaldıramıyor
+date: '2025-12-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_99d08440560b4186922a51d3ce06c298~mv2.jpg
+imageAlt: Sea-Intelligence’ın Afrika’nın 5% yıllık büyüme potansiyelini açıklayan projeksiyonları ile 2025’te Red Sea krizinin Afrika limanlarını nasıl zayıf halkaya dönüştürdüğüne dair kapsamlı lojistik analizi
+wixId: a804aaa7-71b9-4ec1-9185-f11ed753599e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Afrika limanları
+- konteyner talebi
+- Durban
+- Cape Town
+- Kızıldeniz krizi
+- liman altyapısı
+- Tanger Med
+- Sea-Intelligence
 ---
 <p style="text-align: justify">Sea-Intelligence’ın son lojistik değerlendirmesi, Afrika’nın 2050’ye kadar küresel konteyner hacminin yeni büyüme motorlarından biri olacağına işaret etmekte. Rapora göre kıta genelinde <strong>%5 yıllık konteyner hacmi artışı</strong> mümkündür. Bu oran, uzun vadeli yapısal dinamiklere dayanan güçlü bir talep projeksiyonunu yansıtmakta. Ancak Aralık 2025 itibarıyla operasyonel gerçeklik, bu potansiyelin çok gerisinde bulunmakta. Red Sea krizinin yarattığı küresel rota kaymaları, Afrika limanlarını ciddi bir stres testine sokmuş durumda ve çoğu liman bu testi geçememekte.</p>
 <p><br></p>

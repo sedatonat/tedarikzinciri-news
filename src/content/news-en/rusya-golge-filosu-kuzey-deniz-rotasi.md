@@ -1,16 +1,24 @@
 ---
-title: "Russia's 'Shadow Fleet' Battles Early Ice on Northern Sea Route"
-subtitle: "Russia's 'Shadow Fleet' Battles Early Ice on Northern Sea Route"
-date: "2025-11-03T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_6873dc5f3c464bdc9b7f395b26837045~mv2.jpg"
-imageAlt: "Detailed overview of Russia's shadow fleet LNG tanker Buran struggling with early winter ice conditions on the Northern Sea Route and the risks this creates for Russia's Arctic LNG exports."
-wixId: "9d4ae5b3-ea6c-405d-ae7d-34d729d67dae"
-author: "Sedat Onat"
+title: Russia's 'Shadow Fleet' Battles Early Ice on Northern Sea Route
+subtitle: Russia's 'Shadow Fleet' Battles Early Ice on Northern Sea Route
+date: '2025-11-03T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_6873dc5f3c464bdc9b7f395b26837045~mv2.jpg
+imageAlt: Detailed overview of Russia's shadow fleet LNG tanker Buran struggling with early winter ice conditions on the Northern Sea Route and the risks this creates for Russia's Arctic LNG exports.
+wixId: 9d4ae5b3-ea6c-405d-ae7d-34d729d67dae
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Russia
+- shadow fleet
+- LNG tanker
+- Northern Sea Route
+- Arctic
+- icebreaker
+- Novatek
+- maritime logistics
 ---
-
 <p style="text-align: justify">The Arctic operational capacity of LNG tankers operating within Russia's post-sanctions <strong>"shadow fleet"</strong> is being tested by the unusually early freezing conditions of winter 2025. The most striking example is the <strong>Buran</strong> LNG tanker, which has been unable to make progress for days due to dense sea ice concentrated along the <strong>Northern Sea Route (NSR)</strong>. This situation once again demonstrates how fragile Moscow's dependence on this route is for sustaining Arctic LNG exports.</p>
 <p><br></p>
 <p style="text-align: justify">Buran's voyage began on October 26 with an LNG discharge at the <strong>Koryak FSU</strong> facility in Kamchatka. The vessel reached the Northern Sea Route north of the Bering Strait on October 29. However, satellite data and maritime traffic monitoring platforms show that the tanker has repeatedly conducted <strong>north-south maneuvers along the ice edge in the Chukchi Sea</strong>, indicating a search for a passable corridor.</p>

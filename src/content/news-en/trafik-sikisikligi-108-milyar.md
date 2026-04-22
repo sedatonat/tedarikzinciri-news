@@ -1,16 +1,23 @@
 ---
-title: "Traffic Congestion Costs U.S. Trucking Industry $108 Billion"
-subtitle: "Traffic Congestion Costs U.S. Trucking Industry $108 Billion"
-date: "2025-02-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_18629bdf5e6c4c9f96c4e077116edeb7~mv2.jpg"
-imageAlt: "Traffic Congestion Costs U.S. Trucking Industry $108 Billion"
-wixId: "e4a7eca1-9176-46ba-8a18-e636e8c14471"
-author: "Sedat Onat"
+title: Traffic Congestion Costs U.S. Trucking Industry $108 Billion
+subtitle: Traffic Congestion Costs U.S. Trucking Industry $108 Billion
+date: '2025-02-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_18629bdf5e6c4c9f96c4e077116edeb7~mv2.jpg
+imageAlt: Traffic Congestion Costs U.S. Trucking Industry $108 Billion
+wixId: e4a7eca1-9176-46ba-8a18-e636e8c14471
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- traffic congestion
+- truck transportation
+- USA
+- ATRI
+- logistics costs
+- fuel consumption
+- carbon emissions
 ---
-
 <p style="text-align: justify"><strong>American Transportation Research Institute (ATRI)</strong> research shows that traffic congestion cost the U.S. trucking sector approximately $108 billion in 2021. This situation negatively affects the industry's productivity and profitability.​</p>
 <p><br></p>
 <p style="text-align: justify">The research examined in detail the impact of traffic congestion on trucking operations. Particularly in major cities and heavily congested areas, the time trucks spend in traffic has increased significantly. This leads to longer delivery times, increased fuel consumption, and rising operational costs.​</p>

@@ -1,14 +1,22 @@
 ---
-title: "IANA’ya Göre Eylül Ayında Intermodal Taşımalar Yükselişini Sürdürdü"
-subtitle: "IANA’ya Göre Eylül Ayında Intermodal Taşımalar Yükselişini Sürdürdü"
-date: "2025-10-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4542ebd37a9a4e7e990d6a2bbcb468fc~mv2.jpg"
-imageAlt: "Intermodal Association of North America (IANA), Eylül 2025’te intermodal taşımaların yıllık bazda %2,4 arttığını bildirdi. Artış, tarifeler öncesi yapılan “ön yüklemelerin” etkisiyle hem yurtiçi hem de uluslararası konteyner taşımalarında istikrar sağladı."
-wixId: "23a97a9b-f232-424e-b374-69dfd6a711cb"
-author: "Sedat Onat"
+title: IANA’ya Göre Eylül Ayında Intermodal Taşımalar Yükselişini Sürdürdü
+subtitle: IANA’ya Göre Eylül Ayında Intermodal Taşımalar Yükselişini Sürdürdü
+date: '2025-10-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4542ebd37a9a4e7e990d6a2bbcb468fc~mv2.jpg
+imageAlt: Intermodal Association of North America (IANA), Eylül 2025’te intermodal taşımaların yıllık bazda %2,4 arttığını bildirdi. Artış, tarifeler öncesi yapılan “ön yüklemelerin” etkisiyle hem yurtiçi hem de uluslararası konteyner taşımalarında istikrar sağladı.
+wixId: 23a97a9b-f232-424e-b374-69dfd6a711cb
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- intermodal taşımacılık
+- IANA
+- konteyner taşımacılığı
+- tarife politikaları
+- demiryolu
+- tedarik zinciri
+- liman
 ---
 <p style="text-align: justify"><strong>Intermodal Association of North America (IANA)</strong> tarafından paylaşılan verilere göre, <strong>Eylül 2025 intermodal taşımaları yıllık bazda %2,4 artış</strong> gösterdi. Bu yükseliş, <strong>Ağustos’taki %1,6’lık</strong> artışın üzerinde, ancak <strong>Temmuz ayındaki %4,4’lük büyümenin</strong> altında kaldı. Temmuz’da görülen yüksek artış, <strong>Beyaz Saray’ın karşılıklı tarifelerine getirilen geçici duraklama</strong> öncesinde yapılan <strong>ön yükleme (frontloading)</strong> faaliyetlerinden kaynaklanmıştı.</p>
 <p><br></p>

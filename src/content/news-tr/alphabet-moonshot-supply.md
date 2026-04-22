@@ -1,14 +1,23 @@
 ---
-title: "Alphabet, ‘Moonshot’ Tedarik Zinciri Projesini Ayırıyor"
-subtitle: "Alphabet, ‘Moonshot’ Tedarik Zinciri Projesini Ayırıyor"
-date: "2025-04-17T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_5c53cc2ec93440db984748aa6599523c~mv2.png"
-imageAlt: "Alphabet, ‘moonshot’ Tedarik Zinciri Projesini Ayırıyor"
-wixId: "002e174f-4a35-45a8-a505-c7e100aff8a9"
-author: "Sedat Onat"
+title: Alphabet, ‘Moonshot’ Tedarik Zinciri Projesini Ayırıyor
+subtitle: Alphabet, ‘Moonshot’ Tedarik Zinciri Projesini Ayırıyor
+date: '2025-04-17T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_5c53cc2ec93440db984748aa6599523c~mv2.png
+imageAlt: Alphabet, ‘moonshot’ Tedarik Zinciri Projesini Ayırıyor
+wixId: 002e174f-4a35-45a8-a505-c7e100aff8a9
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Alphabet
+- spin-off
+- yapay zeka
+- dijital ikiz
+- tedarik zinciri
+- AI orkestrasyonu
+- dinamik planlama
+- kontrol kulesi
 ---
 <p style="text-align: justify"><strong>Alphabet</strong>, tedarik zinciri alanındaki deneysel bir girişimini <strong>bağımsız bir yapıya</strong> ayırarak (spin-off), bu teknolojiyi <strong>ticarileştirme sürecini hızlandırmayı</strong> hedefliyor. Bu stratejik hamle, şirketin inovatif projelerini laboratuvar ölçeğinden çıkarıp, doğrudan pazara yakın ve müşteri odaklı bir yapıya dönüştürme vizyonunun bir parçası olarak değerlendiriliyor.</p>
 <p><br></p>

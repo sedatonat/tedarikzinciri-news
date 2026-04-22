@@ -1,16 +1,22 @@
 ---
-title: "Three Steps to Managing Resource Constraints in the Supply Chain"
-subtitle: "Three Steps to Managing Resource Constraints in the Supply Chain"
-date: "2024-06-11T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_7e459351a3b347af843c8ff78a098f4b~mv2.png"
-imageAlt: "Three Steps to Managing Resource Constraints in the Supply Chain"
-wixId: "3ec19506-4f37-4dad-b372-314c76f81b3f"
-author: "Sedat Onat"
+title: Three Steps to Managing Resource Constraints in the Supply Chain
+subtitle: Three Steps to Managing Resource Constraints in the Supply Chain
+date: '2024-06-11T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_7e459351a3b347af843c8ff78a098f4b~mv2.png
+imageAlt: Three Steps to Managing Resource Constraints in the Supply Chain
+wixId: 3ec19506-4f37-4dad-b372-314c76f81b3f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Gartner
+- resource constraints
+- supply chain management
+- risk management
+- sustainability
+- stakeholder management
 ---
-
 <p>According to new research from Gartner Inc., supply chain and procurement leaders can better manage resource constraints by focusing on acute risks that threaten business survival rather than long-term challenges. These findings show that leading supply chains mobilize stakeholders by directing their attention to immediate and tangible problems. Paradoxically, this approach can be more effective than directly addressing long-term constraints.</p>
 <p><br></p>
 <p>Gartner experts explained that they have identified three main barriers preventing supply chain leaders from taking sufficient action to address resource constraints. These results were obtained from a survey conducted in January 2024 with 143 supply chain leaders and were presented this week during the Gartner Supply Chain Symposium/Xpo in Barcelona, Spain.</p>

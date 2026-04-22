@@ -1,14 +1,22 @@
 ---
-title: "Amerikan Posta Servisi (USPS) ve DOGE İşbirliğiyle Maliyet Azaltmayı Amaçlıyor"
-subtitle: "Amerikan Posta Servisi (USPS) ve DOGE İşbirliğiyle Maliyet Azaltmayı Amaçlıyor"
-date: "2025-03-14T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a74939e4959e44b9b9da05d8d20ccfe8~mv2.jpg"
-imageAlt: "Amerikan Posta Servisi (USPS) ve DOGE İşbirliğiyle Maliyet Azaltmayı Amaçlıyor"
-wixId: "efc88582-5195-495e-8a11-c245b5989bff"
-author: "Sedat Onat"
+title: Amerikan Posta Servisi (USPS) ve DOGE İşbirliğiyle Maliyet Azaltmayı Amaçlıyor
+subtitle: Amerikan Posta Servisi (USPS) ve DOGE İşbirliğiyle Maliyet Azaltmayı Amaçlıyor
+date: '2025-03-14T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_a74939e4959e44b9b9da05d8d20ccfe8~mv2.jpg
+imageAlt: Amerikan Posta Servisi (USPS) ve DOGE İşbirliğiyle Maliyet Azaltmayı Amaçlıyor
+wixId: efc88582-5195-495e-8a11-c245b5989bff
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- USPS
+- DOGE
+- maliyet azaltma
+- posta hizmetleri
+- operasyonel verimlilik
+- erken emeklilik
+- özelleştirme
 ---
 <p style="text-align: justify"><a href="https://www.usps.com/"><u><strong>U.S. Postal Service</strong></u><u> (</u><u><strong>USPS</strong></u><u>)</u></a>, maliyetleri azaltmak ve operasyonel verimliliği artırmak amacıyla <strong>Elon Musk</strong>'ın liderliğindeki <a href="https://doge.gov/"><u><strong>Department of Government Efficiency</strong></u><u> (</u><u><strong>DOGE</strong></u><u>)</u></a> ile işbirliği yapma kararı aldı. Bu kapsamda, önümüzdeki 30 gün içinde 10.000 çalışanın erken emeklilik programı ile işten ayrılması planlanmakta. ​</p>
 <p><br></p>

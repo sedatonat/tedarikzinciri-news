@@ -1,16 +1,24 @@
 ---
-title: "JLR Cyber Attack: Smart Factories Come to a Halt"
-subtitle: "JLR Cyber Attack: Smart Factories Come to a Halt"
-date: "2025-09-20T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_2b736b80dfef491a99e130b8e8406463~mv2.jpg"
-imageAlt: "JLR Cyber Attack: Smart Factories Come to a Halt, Outsourced Cyber Security Questioned, Supply Chain in Crisis"
-wixId: "ae268bac-6e62-4d7f-ab78-8138cbc41b7a"
-author: "Sedat Onat"
+title: 'JLR Cyber Attack: Smart Factories Come to a Halt'
+subtitle: 'JLR Cyber Attack: Smart Factories Come to a Halt'
+date: '2025-09-20T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_2b736b80dfef491a99e130b8e8406463~mv2.jpg
+imageAlt: 'JLR Cyber Attack: Smart Factories Come to a Halt, Outsourced Cyber Security Questioned, Supply Chain in Crisis'
+wixId: ae268bac-6e62-4d7f-ab78-8138cbc41b7a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- cyberattack
+- JLR
+- smart factory
+- supply chain
+- TCS
+- ransomware
+- automotive sector
+- production halt
 ---
-
 <p style="text-align: justify">Britain's largest automotive employer <strong>Jaguar Land Rover (JLR)</strong> halted production across its facilities in the <strong>United Kingdom, Slovakia, Brazil, and India</strong> following a <strong>large-scale cyber attack</strong> that began on the last Sunday of August and revealed its severity on Monday morning. The <strong>over-three-week shutdown</strong> resulted in the company <strong>shutting down information systems</strong>, <strong>critical applications including CAD/PLM/ERP/SAP going offline</strong>, and led to an <strong>all-or-nothing shutdown rather than a phased one</strong> due to the inability to isolate the <strong>smart factory architecture where "everything is connected"</strong>. The joint venture in China was assessed to have continued operating, but JLR's main global production network was effectively <strong>locked down</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The <strong>financial impact</strong> was severe: The attack was forecast to result in losses <strong>in the hundreds of millions of pounds</strong>; <strong>CreditSights</strong> analyst <strong>Jim Williamson</strong> calculated that cash burn in September alone could reach <strong>approximately £900 million</strong>, with <strong>working capital decline potentially reaching £1.7 billion</strong>; it was noted that some of this could be recovered later through <strong>make-up sales</strong>. JLR was reported to have a <strong>cash buffer of approximately £6 billion</strong>, with <strong>borrowing</strong>, <strong>bank credit facilities</strong>, and instruments such as <strong>UK Export Finance</strong> also on the table.</p>

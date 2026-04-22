@@ -1,14 +1,23 @@
 ---
-title: "Metrostar, İki Suezmax Tanker Satışıyla Ham Petrol Taşımacılığından Çekildi"
-subtitle: "Metrostar, İki Suezmax Tanker Satışıyla Ham Petrol Taşımacılığından Çekildi"
-date: "2025-10-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d1c010e5b35a450a9fd2ca71cb087a52~mv2.jpg"
-imageAlt: "Yunan armatör Metrostar Management, Delta Tankers’a iki Suezmax tipi tanker satarak ham petrol taşımacılığındaki faaliyetlerine resmen son verdi. Satış, güçlü ikinci el tanker piyasasının sürdüğünü gösteriyor."
-wixId: "5b7cae74-b924-461d-85e0-d13c3274dbf7"
-author: "Sedat Onat"
+title: Metrostar, İki Suezmax Tanker Satışıyla Ham Petrol Taşımacılığından Çekildi
+subtitle: Metrostar, İki Suezmax Tanker Satışıyla Ham Petrol Taşımacılığından Çekildi
+date: '2025-10-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d1c010e5b35a450a9fd2ca71cb087a52~mv2.jpg
+imageAlt: Yunan armatör Metrostar Management, Delta Tankers’a iki Suezmax tipi tanker satarak ham petrol taşımacılığındaki faaliyetlerine resmen son verdi. Satış, güçlü ikinci el tanker piyasasının sürdüğünü gösteriyor.
+wixId: 5b7cae74-b924-461d-85e0-d13c3274dbf7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Suezmax tanker
+- ham petrol taşımacılığı
+- Metrostar Management
+- Delta Tankers
+- filo yeniden yapılandırma
+- ikinci el tanker
+- ürün tankerleri
+- deniz taşımacılığı
 ---
 <p style="text-align: justify"><strong>Yunanistan merkezli armatör Metrostar Management</strong>, filosundaki son iki <strong>Suezmax tankerini</strong> satarak <strong>ham petrol taşımacılığı pazarından tamamen çıkış yaptığını</strong> duyurdu. Şirketin bu kararı, son yıllarda süregelen filo yeniden yapılandırma stratejisinin bir sonucu olarak değerlendiriliyor.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Wan Hai, 6 LNG Yakıtlı Konteyner Gemi Siparişi Verdi"
-subtitle: "Wan Hai, 6 LNG Yakıtlı Konteyner Gemi Siparişi Verdi"
-date: "2025-12-16T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_4a51affc6cf74d158326685530fa3c60~mv2.jpg"
-imageAlt: "Wan Hai Lines’ın yaklaşık 500 milyon dolar tutarındaki dual-fuel LNG-powered konteyner gemi yatırımıyla filo yapısını güçlendirmesini ve trans-Pasifik stratejisine etkilerini ele alan detaylı sektör özeti"
-wixId: "0391b7eb-6dc2-432e-a6fc-2942d3fa724d"
-author: "Sedat Onat"
+title: Wan Hai, 6 LNG Yakıtlı Konteyner Gemi Siparişi Verdi
+subtitle: Wan Hai, 6 LNG Yakıtlı Konteyner Gemi Siparişi Verdi
+date: '2025-12-16T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_4a51affc6cf74d158326685530fa3c60~mv2.jpg
+imageAlt: Wan Hai Lines’ın yaklaşık 500 milyon dolar tutarındaki dual-fuel LNG-powered konteyner gemi yatırımıyla filo yapısını güçlendirmesini ve trans-Pasifik stratejisine etkilerini ele alan detaylı sektör özeti
+wixId: 0391b7eb-6dc2-432e-a6fc-2942d3fa724d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Wan Hai Lines
+- LNG yakıtlı gemi
+- konteyner gemisi
+- gemi siparişi
+- dekarbonizasyon
+- trans-Pasifik
+- CSSC Huangpu Wenchong
 ---
 <p style="text-align: justify">Tayvan merkezli konteyner taşımacılığı şirketi <strong>Wan Hai Lines</strong>, sahip olduğu gemi filosunu güçlendirmek amacıyla yaklaşık <strong>500 milyon dolar</strong> tutarında yeni bir yatırım kararı aldı. Şirket, her biri <strong>6.000 TEU</strong> kapasiteli <strong>dual-fuel LNG-powered container ships</strong> sınıfında <strong>altı yeni gemi</strong> için anlaşmayı onayladı. Bu adım, Wan Hai’nin hem çevresel regülasyonlara uyum sağlama hem de trans-Pasifik hattındaki rekabet gücünü artırma hedefleriyle örtüşmekte.</p>
 <p><br></p>

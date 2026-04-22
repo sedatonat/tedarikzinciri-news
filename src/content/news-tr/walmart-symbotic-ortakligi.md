@@ -1,14 +1,23 @@
 ---
-title: "Walmart ve Symbotic'ten Stratejik Ortaklık: Robotik İş Birimi Satışı ve 400 Otomasyon Merkezi Yatırımı​"
-subtitle: "Walmart ve Symbotic'ten Stratejik Ortaklık: Robotik İş Birimi Satışı ve 400 Otomasyon Merkezi Yatırımı​"
-date: "2025-01-21T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_f7acf89d2f864c7ab5479b74fd627ab4~mv2.jpg"
-imageAlt: "Walmart ve Symbotic'ten Stratejik Ortaklık: Robotik İş Birimi Satışı ve 400 Otomasyon Merkezi Yatırımı​"
-wixId: "5566a91d-4b31-4c19-a070-9dadf78e86c9"
-author: "Sedat Onat"
+title: 'Walmart ve Symbotic''ten Stratejik Ortaklık: Robotik İş Birimi Satışı ve 400 Otomasyon Merkezi Yatırımı​'
+subtitle: 'Walmart ve Symbotic''ten Stratejik Ortaklık: Robotik İş Birimi Satışı ve 400 Otomasyon Merkezi Yatırımı​'
+date: '2025-01-21T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_f7acf89d2f864c7ab5479b74fd627ab4~mv2.jpg
+imageAlt: 'Walmart ve Symbotic''ten Stratejik Ortaklık: Robotik İş Birimi Satışı ve 400 Otomasyon Merkezi Yatırımı​'
+wixId: 5566a91d-4b31-4c19-a070-9dadf78e86c9
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Walmart
+- Symbotic
+- tedarik zinciri otomasyonu
+- robotik
+- yapay zeka
+- e-ticaret
+- son kilometre teslimat
+- mikro-fulfillment
 ---
 <p style="text-align: justify">Perakende devi <strong>Walmart</strong>, tedarik zinciri otomasyonunu geliştirmek amacıyla, ileri sistemler ve robotik iş birimini uzun süreli ortağı <strong>Symbotic</strong>'e satma kararı aldı. Bu stratejik hamle, <strong>Symbotic</strong>'in yapay zekâ destekli robotik platformunu kullanarak, <strong>Walmart</strong> mağazalarında hızlandırılmış teslim alma ve teslimat merkezlerinin (APD'ler) otomasyonunu hedeflemekte. ​</p>
 <p><br></p>

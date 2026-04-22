@@ -1,16 +1,24 @@
 ---
-title: "Turkey Opens Its 65th Marina: Strengthening Global Position in Maritime and Logistics"
-subtitle: "Turkey Opens Its 65th Marina: Strengthening Global Position in Maritime and Logistics"
-date: "2025-11-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/0cf27a8746ec4dd887e5a716f301b49b.jpg"
-imageAlt: "With the opening of Gazipaşa Marina, Turkey's marina count has risen to 65; Uraloğlu emphasized sector growth, the merchant fleet's rise to 53.1 million DWT, Aliağa's entry into the world's top 100 ports, and growth in cruise and yacht tourism."
-wixId: "be4f9252-2c87-4d01-812d-2f12048bb558"
-author: "Sedat Onat"
+title: 'Turkey Opens Its 65th Marina: Strengthening Global Position in Maritime and Logistics'
+subtitle: 'Turkey Opens Its 65th Marina: Strengthening Global Position in Maritime and Logistics'
+date: '2025-11-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/0cf27a8746ec4dd887e5a716f301b49b.jpg
+imageAlt: With the opening of Gazipaşa Marina, Turkey's marina count has risen to 65; Uraloğlu emphasized sector growth, the merchant fleet's rise to 53.1 million DWT, Aliağa's entry into the world's top 100 ports, and growth in cruise and yacht tourism.
+wixId: be4f9252-2c87-4d01-812d-2f12048bb558
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- marina
+- maritime infrastructure
+- yacht tourism
+- container port
+- commercial fleet
+- shipbuilding
+- cruise tourism
+- Gazipaşa
 ---
-
 <p style="text-align: justify">Turkey has added another chapter to its maritime infrastructure expansion by <strong>increasing the number of marinas to 65 with the opening of Gazipaşa Marina</strong>. Transport and Infrastructure Minister <strong>Abdulkadir Uraloğlu</strong> stated at the opening ceremony that the new marina will bring <strong>year-round yacht tourism</strong> to the region, not just during summer months. The aim is to extend economic activity based on marine tourism in eastern Antalya throughout the winter season as well.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>"Part of Our Maritime Culture and Strength"</strong></h4>

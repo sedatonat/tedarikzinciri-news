@@ -1,14 +1,23 @@
 ---
-title: "Jeopolitik, Küresel Deniz Ticareti Rotalarını Yeniden Çiziyor"
-subtitle: "Jeopolitik, Küresel Deniz Ticareti Rotalarını Yeniden Çiziyor"
-date: "2025-10-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c7bd84f0271542c8bae816de963e6108~mv2.jpg"
-imageAlt: "Jeopolitik, Küresel Deniz Ticareti Rotalarını Yeniden Çiziyor"
-wixId: "271c2f2e-2f29-4d81-b6d2-aefc36ff84a6"
-author: "Sedat Onat"
+title: Jeopolitik, Küresel Deniz Ticareti Rotalarını Yeniden Çiziyor
+subtitle: Jeopolitik, Küresel Deniz Ticareti Rotalarını Yeniden Çiziyor
+date: '2025-10-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c7bd84f0271542c8bae816de963e6108~mv2.jpg
+imageAlt: Jeopolitik, Küresel Deniz Ticareti Rotalarını Yeniden Çiziyor
+wixId: 271c2f2e-2f29-4d81-b6d2-aefc36ff84a6
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- jeopolitik
+- deniz taşımacılığı
+- küreselleşme
+- tedarik zinciri
+- ABD-Çin
+- friend-shoring
+- ticaret rotaları
+- Vietnam
 ---
 <p style="text-align: justify"><strong>Neil Shearing</strong>, <strong>Capital Economics</strong> başekonomisti ve <em>The Fractured Age</em> kitabının yazarı, son analizinde küreselleşmenin ölmediğini, ancak yön değiştirdiğini vurguluyor.</p>
 <p><br>

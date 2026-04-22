@@ -1,16 +1,24 @@
 ---
-title: "Maersk Launches Ethanol–Methanol Dual Fuel Tests on Laura Mærsk"
-subtitle: "Maersk Launches Ethanol–Methanol Dual Fuel Tests on Laura Mærsk"
-date: "2025-12-05T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_45989e0b1df74ab8bdef8c1efb48721e~mv2.jpg"
-imageAlt: "Comprehensive overview of Maersk's new trial using 50/50 ethanol–methanol blend on the Laura Mærsk vessel, E10 test results, dual-fuel methanol engine option expansion, and sectoral implications of multiple fuel strategy"
-wixId: "ea19739a-735b-4c35-8f8b-2fbb5a4c5b7b"
-author: "Sedat Onat"
+title: Maersk Launches Ethanol–Methanol Dual Fuel Tests on Laura Mærsk
+subtitle: Maersk Launches Ethanol–Methanol Dual Fuel Tests on Laura Mærsk
+date: '2025-12-05T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_45989e0b1df74ab8bdef8c1efb48721e~mv2.jpg
+imageAlt: Comprehensive overview of Maersk's new trial using 50/50 ethanol–methanol blend on the Laura Mærsk vessel, E10 test results, dual-fuel methanol engine option expansion, and sectoral implications of multiple fuel strategy
+wixId: ea19739a-735b-4c35-8f8b-2fbb5a4c5b7b
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Maersk
+- ethanol
+- methanol
+- alternative fuel
+- dual-fuel
+- container ship
+- carbon reduction
+- Laura Mærsk
 ---
-
 <p style="text-align: justify"><strong>Maersk</strong> has announced that it is accelerating work on alternative fuel technologies as part of its carbon reduction strategy and has commenced a new <strong>50/50 ethanol–methanol blend</strong> trial on the <strong>Laura Mærsk</strong>. This move follows successful initial tests conducted in October–November using a <strong>10% ethanol – 90% e-methanol (E10)</strong> mixture. The first trial aimed to determine whether ethanol could be safely used on a <strong>dual-fuel methanol engine</strong>. Maersk confirmed that the tests showed no adverse effects on engine performance.</p>
 <p><br></p>
 <p style="text-align: justify">Laura Mærsk began service in 2023 as the world's first container ship operating on the <strong>methanol dual-fuel</strong> concept. The vessel was initially designed to use only methanol-derived fuels. However, the chemical similarity between ethanol and methanol makes <strong>dual-fuel alcohol operation</strong> technically feasible from an engineering perspective. For this reason, the initial E10 test included comparative analysis of critical parameters such as <strong>ignition</strong>, <strong>burn efficiency</strong>, <strong>lubricity</strong>, and <strong>corrosiveness</strong> against methanol-only fuel.</p>

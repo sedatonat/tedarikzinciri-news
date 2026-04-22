@@ -1,14 +1,23 @@
 ---
-title: "Ocean Network Express, Aegean Express ve Levant Express Hatlarını Duyurdu"
-subtitle: "Ocean Network Express, Aegean Express ve Levant Express Hatlarını Duyurdu"
-date: "2024-10-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_032f7aa501cd463a972b53a23c7187e2~mv2.jpg"
-imageAlt: "Ocean Network Express, Aegean Express ve Levant Express Hatlarını Duyurdu"
-wixId: "751dfa09-8597-45de-a822-7f963fb72e9e"
-author: "Sedat Onat"
+title: Ocean Network Express, Aegean Express ve Levant Express Hatlarını Duyurdu
+subtitle: Ocean Network Express, Aegean Express ve Levant Express Hatlarını Duyurdu
+date: '2024-10-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_032f7aa501cd463a972b53a23c7187e2~mv2.jpg
+imageAlt: Ocean Network Express, Aegean Express ve Levant Express Hatlarını Duyurdu
+wixId: 751dfa09-8597-45de-a822-7f963fb72e9e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ocean Network Express
+- konteyner taşımacılığı
+- Akdeniz
+- Kuzey Avrupa
+- deniz hatları
+- aktarma merkezi
+- Rotterdam
+- İstanbul
 ---
 <p>Ocean Network Express (ONE), Ocak 2025 itibarıyla başlayacak iki yeni Kuzey Avrupa/Akdeniz rotası olan Aegean Express (AEX) ve Levant Express'i (LEX) duyurdu. ONE, AEX ve LEX servislerinin Kuzey-Güney bağlantısı, sektörde öncü transit süreleri ve Rotterdam, Istanbul, Piraeus ve Damietta'daki önemli aktarma merkezleri aracılığıyla Kuzey Avrupa ve Akdeniz'deki feeder ağlarına sorunsuz erişim sağlayacağını belirtti.</p>
 <p><br></p>

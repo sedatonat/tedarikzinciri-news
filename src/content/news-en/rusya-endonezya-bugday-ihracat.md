@@ -1,16 +1,23 @@
 ---
-title: "Russia Resumes Wheat Exports to Indonesia"
-subtitle: "Russia Resumes Wheat Exports to Indonesia"
-date: "2025-10-23T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_fe4e71b0159a42f5b09f9ac5bea56df3~mv2.jpg"
-imageAlt: "Russia Resumes Wheat Exports to Indonesia"
-wixId: "9350aba6-2e45-46c2-8a3b-31db45553129"
-author: "Sedat Onat"
+title: Russia Resumes Wheat Exports to Indonesia
+subtitle: Russia Resumes Wheat Exports to Indonesia
+date: '2025-10-23T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_fe4e71b0159a42f5b09f9ac5bea56df3~mv2.jpg
+imageAlt: Russia Resumes Wheat Exports to Indonesia
+wixId: 9350aba6-2e45-46c2-8a3b-31db45553129
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Russia
+- Indonesia
+- wheat exports
+- grain trade
+- Novorossiysk Port
+- accreditation
+- Southeast Asia
 ---
-
 <p style="text-align: justify"><strong>Russia</strong> resumed its <strong>first wheat shipment to Indonesia in October</strong> following a brief export suspension.</p>
 <p><br>
 Approximately <strong>52,000 tons of wheat</strong> were loaded from <strong>Novorossiysk Port in the Black Sea</strong> and sent to Indonesia.</p>

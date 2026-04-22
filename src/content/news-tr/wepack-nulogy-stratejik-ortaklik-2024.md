@@ -1,14 +1,22 @@
 ---
-title: "WePack ve Nulogy'den Dijital Dönüşümde Stratejik Ortaklık"
-subtitle: "WePack ve Nulogy'den Dijital Dönüşümde Stratejik Ortaklık"
-date: "2024-03-01T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_949aded2fc9343568bae5a0d43938a6b~mv2.jpg"
-imageAlt: "WePack ve Nulogy'den Dijital Dönüşümde Stratejik Ortaklık"
-wixId: "3961c6df-91d8-41db-b2a2-2a5b03656254"
-author: "Sedat Onat"
+title: WePack ve Nulogy'den Dijital Dönüşümde Stratejik Ortaklık
+subtitle: WePack ve Nulogy'den Dijital Dönüşümde Stratejik Ortaklık
+date: '2024-03-01T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_949aded2fc9343568bae5a0d43938a6b~mv2.jpg
+imageAlt: WePack ve Nulogy'den Dijital Dönüşümde Stratejik Ortaklık
+wixId: 3961c6df-91d8-41db-b2a2-2a5b03656254
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- WePack
+- Nulogy
+- dijital dönüşüm
+- sözleşmeli paketleme
+- yazılım çözümü
+- operasyonel çeviklik
+- ambalaj sektörü
 ---
 <p><a href="https://www.we-pack.co.uk/"><u>WePack</u></a>, bağımsız bir sözleşmeli paketleme uzmanı, operasyonlarının çevikliğini ve dayanıklılığını artırmaya odaklanırken, yazılım sağlayıcısı <a href="https://nulogy.com/"><u>Nulogy </u></a>ile <a href="https://www.packagingbirmingham.com/"><u>Packaging Innovations &amp; Empack 2024 </u></a>Etkinliğinde ortaklık kurduğunu duyurdu.&nbsp;</p>
 <p><br></p>

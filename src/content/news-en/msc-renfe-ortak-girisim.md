@@ -1,16 +1,24 @@
 ---
-title: "MSC and Renfe Sign Preliminary Agreement on Joint Rail Venture"
-subtitle: "MSC and Renfe Sign Preliminary Agreement on Joint Rail Venture"
-date: "2024-12-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b3cd1d7563ea4d19bacc5f9cac0a6b16~mv2.jpg"
-imageAlt: "MSC and Renfe Sign Preliminary Agreement on Joint Rail Venture"
-wixId: "904acc96-5a58-4eec-a1ec-5467dc82514d"
-author: "Sedat Onat"
+title: MSC and Renfe Sign Preliminary Agreement on Joint Rail Venture
+subtitle: MSC and Renfe Sign Preliminary Agreement on Joint Rail Venture
+date: '2024-12-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b3cd1d7563ea4d19bacc5f9cac0a6b16~mv2.jpg
+imageAlt: MSC and Renfe Sign Preliminary Agreement on Joint Rail Venture
+wixId: 904acc96-5a58-4eec-a1ec-5467dc82514d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- MSC
+- Renfe
+- rail transport
+- joint venture
+- Medlog
+- intermodal
+- public-private partnership
+- Spain
 ---
-
 <p>Shipping giant <strong>MSC</strong> and Spain's national railway operator <strong>Renfe</strong> have taken a significant step toward establishing a joint venture. Previously, MSC had announced it would acquire a 50% stake in <strong>Renfe Mercancías</strong>, Renfe's freight subsidiary; however, the parties have agreed on a different business model.</p>
 <p><br></p>
 <p>Currently, a non-binding agreement exists between the two parties, which foresees the signing of a binding contract. Specifically, MSC subsidiary <strong>Medlog</strong> is planned to enter into cooperation with Renfe. Renfe had been seeking a new structure as its existing freight division Renfe Mercancías had accumulated losses of 360 million euros over the past decade. MSC and Renfe plan to establish a joint venture in which each will hold a 50% stake and transfer a large portion of existing freight operations to this new company. The operational management will be conducted by <strong>Medway</strong>, a subsidiary of Medlog. At the same time, Renfe guarantees that a significant portion of the existing freight workforce will be employed in this new joint venture established with MSC.</p>

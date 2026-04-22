@@ -1,14 +1,23 @@
 ---
-title: "AB’nin Askerî Mobilite Paketi Demiryolu Yük Taşımacılığı İçin Ne Anlama Geliyor?"
-subtitle: "AB’nin Askerî Mobilite Paketi Demiryolu Yük Taşımacılığı İçin Ne Anlama Geliyor?"
-date: "2025-11-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d2c0cc06a4104d81965c203d0eb7fc16~mv2.jpg"
-imageAlt: "Avrupa Komisyonu’nun Askerî Mobilite Paketi, AB içinde askerî malzeme ve personel taşımacılığını hızlandırmayı, “askerî Schengen”e adım atmayı ve demiryolu altyapısının hem sivil hem askerî amaçlarla daha uyumlu kullanılmasını hedefliyor."
-wixId: "7897a0fa-7ebc-4c7f-b239-75d3bee94b80"
-author: "Sedat Onat"
+title: AB’nin Askerî Mobilite Paketi Demiryolu Yük Taşımacılığı İçin Ne Anlama Geliyor?
+subtitle: AB’nin Askerî Mobilite Paketi Demiryolu Yük Taşımacılığı İçin Ne Anlama Geliyor?
+date: '2025-11-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d2c0cc06a4104d81965c203d0eb7fc16~mv2.jpg
+imageAlt: Avrupa Komisyonu’nun Askerî Mobilite Paketi, AB içinde askerî malzeme ve personel taşımacılığını hızlandırmayı, “askerî Schengen”e adım atmayı ve demiryolu altyapısının hem sivil hem askerî amaçlarla daha uyumlu kullanılmasını hedefliyor.
+wixId: 7897a0fa-7ebc-4c7f-b239-75d3bee94b80
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- askerî mobilite
+- demiryolu taşımacılığı
+- Avrupa Birliği
+- TEN-T
+- savunma lojistiği
+- NATO
+- modal shift
+- çift kullanım altyapı
 ---
 <p style="text-align: justify">Avrupa Komisyonu, AB içinde askerî araçların, ekipmanın, teçhizatın ve personelin sınırlar arasında hızlı ve bürokratik engeller olmadan taşınmasını sağlayacak yeni <strong>Military Mobility Package</strong>’ı önererek savunma lojistiğinde önemli bir dönüm noktasına imza attı. Önerilen düzenleme, kamuoyunda sıkça “<strong>askerî Schengen</strong>” olarak anılan hedefin somut bir parçası olup, AB içinde askerî hareketliliği tıpkı Schengen Bölgesi içindeki insan hareketliliği gibi hızlandırmayı amaçlıyor.</p>
 <p><br></p>

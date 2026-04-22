@@ -1,16 +1,23 @@
 ---
-title: "FedEx Network Transformation Begins to Deliver First Concrete Results"
-subtitle: "FedEx Network Transformation Begins to Deliver First Concrete Results"
-date: "2025-12-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_56fd54726c3340a5b79de95a5d664c98~mv2.jpg"
-imageAlt: "Under the leadership of FedEx CEO Raj Subramaniam, a sweeping network consolidation and cost-reduction strategy is producing signals of improved profitability and revenue performance, though macroeconomic and operational risks persist."
-sourceUrl: "https://www.supplychainbrain.com/articles/43025-fedex-ceos-broad-network-overhaul-is-starting-to-bear-fruit"
-author: "Sedat Onat"
+title: FedEx Network Transformation Begins to Deliver First Concrete Results
+subtitle: FedEx Network Transformation Begins to Deliver First Concrete Results
+date: '2025-12-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_56fd54726c3340a5b79de95a5d664c98~mv2.jpg
+imageAlt: Under the leadership of FedEx CEO Raj Subramaniam, a sweeping network consolidation and cost-reduction strategy is producing signals of improved profitability and revenue performance, though macroeconomic and operational risks persist.
+sourceUrl: https://www.supplychainbrain.com/articles/43025-fedex-ceos-broad-network-overhaul-is-starting-to-bear-fruit
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- FedEx
+- network transformation
+- cost reduction
+- cargo transportation
+- operational efficiency
+- MD-11
+- air transportation
 ---
-
 <p style="text-align: justify"><strong>FedEx Corp.</strong> has shared the first concrete results of a comprehensive transformation program led by CEO <strong>Raj Subramaniam</strong> with investors. Financial results announced on December 18, 2025, revealed that the company's long-running <strong>extensive network restructuring</strong> and <strong>cost reduction initiatives</strong> are beginning to show tangible effects. The company raised the lower end of its full-year profit guidance while fourth-quarter earnings came in above Wall Street estimates.</p>
 <p><br></p>
 <p style="text-align: justify">According to the disclosed results, the performance improvement is being driven largely by <strong>rising volumes and pricing power in the U.S. domestic market</strong>. This picture demonstrates that FedEx's strategy to consolidate its ground and air transportation networks is beginning to generate operational efficiency. The strategy targets the integration of <strong>ground</strong> and <strong>air-freight</strong> networks, which the company has managed as separate operations for years, along with eliminating billions of dollars in costs from the system.</p>

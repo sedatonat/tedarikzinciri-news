@@ -1,14 +1,22 @@
 ---
-title: "Almanya, TSB Manyetik Trenine İlk İşletme Lisansını Verdi: “Transrapid Travması” Resmen Aşıldı"
-subtitle: "Almanya, TSB Manyetik Trenine İlk İşletme Lisansını Verdi: “Transrapid Travması” Resmen Aşıldı"
-date: "2025-12-08T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_0192fe0c668342b4abcbd391ea3303b4~mv2.jpg"
-imageAlt: "EBA’nın Transport System Bögl (TSB) maglev hattına yolcu taşımacılığı için işletme lisansı vermesi, Transrapid sonrası Avrupa’daki ilk ticari maglev onayı, teknik özellikler ve potansiyel Nürnberg pilot hattının detaylı özeti"
-wixId: "36d9cfa5-0eb3-4de8-9cc3-92997047dc3f"
-author: "Sedat Onat"
+title: 'Almanya, TSB Manyetik Trenine İlk İşletme Lisansını Verdi: “Transrapid Travması” Resmen Aşıldı'
+subtitle: 'Almanya, TSB Manyetik Trenine İlk İşletme Lisansını Verdi: “Transrapid Travması” Resmen Aşıldı'
+date: '2025-12-08T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_0192fe0c668342b4abcbd391ea3303b4~mv2.jpg
+imageAlt: EBA’nın Transport System Bögl (TSB) maglev hattına yolcu taşımacılığı için işletme lisansı vermesi, Transrapid sonrası Avrupa’daki ilk ticari maglev onayı, teknik özellikler ve potansiyel Nürnberg pilot hattının detaylı özeti
+wixId: 36d9cfa5-0eb3-4de8-9cc3-92997047dc3f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- maglev
+- TSB
+- Almanya
+- manyetik tren
+- kentsel mobilite
+- otonom taşımacılık
+- demiryolu teknolojisi
 ---
 <p style="text-align: justify">Avrupa’da <strong>maglev (magnetic levitation)</strong> teknolojisinin uzun yıllardır karşılaştığı düzenleyici engeller, Almanya’dan gelen tarihi bir kararla aşılmış durumda. <strong>Federal Railway Authority (EBA)</strong>, <strong>Transport System Bögl (TSB)</strong> için yolcu taşımacılığına yönelik tam işletme lisansı verildiğini açıkladı. Bu lisans, TSB teknolojisinin Almanya’nın sıkı güvenlik ve teknik standartlarını karşıladığını onaylamakta ve <strong>Transrapid</strong> projelerinin iptallerinden beri Avrupa’da yerinde sayan maglev araştırmalarında dönüm noktası oluşturmaktadır.</p>
 <p><br></p>

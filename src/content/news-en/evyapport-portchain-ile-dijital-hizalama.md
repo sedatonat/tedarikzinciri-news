@@ -1,16 +1,23 @@
 ---
-title: "Evyapport Digitizes Berth Coordination with Portchain Connect"
-subtitle: "Evyapport Digitizes Berth Coordination with Portchain Connect"
-date: "2024-03-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c3fb156df10349efbd26a30d33abe34e~mv2.jpg"
-imageAlt: "Evyapport Digitizes Berth Coordination with Portchain Connect"
-wixId: "8e29dc4a-0b62-450c-b732-24379d0e2526"
-author: "Sedat Onat"
+title: Evyapport Digitizes Berth Coordination with Portchain Connect
+subtitle: Evyapport Digitizes Berth Coordination with Portchain Connect
+date: '2024-03-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c3fb156df10349efbd26a30d33abe34e~mv2.jpg
+imageAlt: Evyapport Digitizes Berth Coordination with Portchain Connect
+wixId: 8e29dc4a-0b62-450c-b732-24379d0e2526
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Evyapport
+- Portchain Connect
+- berth alignment
+- container terminal
+- digitalization
+- port technology
+- data sharing
 ---
-
 <p><a href="https://www.evyapport.com/"><u>Evyapport</u></a> is adopting <a href="https://www.portchain.com/portchain-connect/"><u>Portchain Connect</u></a> to enhance berth coordination with customers in terms of quality and speed through digital handshakes and secure data sharing. The company is the first Turkish container terminal to join the <a href="https://www.portchain.com/portchain-connect/"><u>Portchain Connect</u></a> Network.</p>
 <p><br></p>
 <p><a href="https://www.portchain.com/portchain-connect/"><u>Portchain Connect</u></a> is expected to enable <a href="https://www.evyapport.com/"><u>Evyapport</u></a> to receive real-time schedule and move count updates directly from carrier systems, respond quickly, and make counter-proposals, thereby aligning the vessel schedule with the terminal berth plan.</p>

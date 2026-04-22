@@ -1,14 +1,22 @@
 ---
-title: "CEVA Logistics ve Almajdouie Logistics Suudi Arabistan'da Ortak Girişim Kuruyor"
-subtitle: "CEVA Logistics ve Almajdouie Logistics Suudi Arabistan'da Ortak Girişim Kuruyor"
-date: "2024-10-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_24179b65ddc54cefba470bd59d5ed1c1~mv2.jpg"
-imageAlt: "CEVA Logistics ve Almajdouie Logistics Suudi Arabistan'da Ortak Girişim Kuruyor"
-wixId: "0ad07f14-868d-4653-8b2e-2670259a6dde"
-author: "Sedat Onat"
+title: CEVA Logistics ve Almajdouie Logistics Suudi Arabistan'da Ortak Girişim Kuruyor
+subtitle: CEVA Logistics ve Almajdouie Logistics Suudi Arabistan'da Ortak Girişim Kuruyor
+date: '2024-10-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_24179b65ddc54cefba470bd59d5ed1c1~mv2.jpg
+imageAlt: CEVA Logistics ve Almajdouie Logistics Suudi Arabistan'da Ortak Girişim Kuruyor
+wixId: 0ad07f14-868d-4653-8b2e-2670259a6dde
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CEVA Logistics
+- Almajdouie Logistics
+- Suudi Arabistan
+- ortak girişim
+- entegre lojistik
+- Damman
+- Global Logistics Forum
 ---
 <p>CEVA Logistics ve Almajdouie Logistics, Suudi Arabistan'da entegre lojistik çözümlere olan artan talebi karşılamak için bir ortak girişim kurmak üzere nihai anlaşmayı imzaladı. İmza töreni, Riyad'da düzenlenen ilk Global Logistics Forum sırasında gerçekleşti. Ortak girişimde çoğunluk hissesini CEVA Logistics kontrol ediyor.</p>
 <p><br></p>

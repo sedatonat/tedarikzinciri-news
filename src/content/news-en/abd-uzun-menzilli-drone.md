@@ -1,16 +1,24 @@
 ---
-title: "US Eases Long-Range Drone Rules: Momentum for Walmart and Alphabet"
-subtitle: "US Eases Long-Range Drone Rules: Momentum for Walmart and Alphabet"
-date: "2025-08-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3000e0d0c5ee4b91a93d335ce94357d1~mv2.png"
-imageAlt: "US Eases Long-Range Drone Rules: Momentum for Walmart and Alphabet"
-wixId: "b145e0fc-3142-4034-a0db-950d88867aeb"
-author: "Sedat Onat"
+title: 'US Eases Long-Range Drone Rules: Momentum for Walmart and Alphabet'
+subtitle: 'US Eases Long-Range Drone Rules: Momentum for Walmart and Alphabet'
+date: '2025-08-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3000e0d0c5ee4b91a93d335ce94357d1~mv2.png
+imageAlt: 'US Eases Long-Range Drone Rules: Momentum for Walmart and Alphabet'
+wixId: b145e0fc-3142-4034-a0db-950d88867aeb
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- drone delivery
+- BVLOS
+- Walmart
+- Alphabet
+- last mile
+- micro fulfillment
+- sustainable logistics
+- US regulations
 ---
-
 <p style="text-align: justify"><strong>The relaxation of regulations governing long-range drone operations in the United States</strong> is initiating a new era in delivery and inspection practices across <strong>both retail and technology sectors</strong>. The new rules streamline <strong>certification processes for BVLOS (Beyond Visual Line of Sight) flights</strong> while simultaneously maintaining <strong>safety standards through the standardization of detect-and-avoid systems</strong>. This development demonstrates that drone operations are now moving beyond the testing phase into <strong>commercial scaling</strong>.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Major players such as <strong>Walmart</strong> and <strong>Alphabet's Wing</strong> division are planning to expand low-cost, rapid delivery scenarios, particularly in <strong>suburban and rural areas</strong>. This new model reinforces customer-proximity stocking strategies and reduces <strong>last-mile delivery</strong> times. Additionally, it contributes to <strong>sustainable logistics objectives</strong> by lowering carbon emissions.</p>

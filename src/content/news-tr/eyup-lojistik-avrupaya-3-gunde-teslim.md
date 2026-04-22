@@ -1,14 +1,22 @@
 ---
-title: "Eyüp Lojistik'ten Avrupa'ya 3 Günde Teslim İçin Büyük Yatırım"
-subtitle: "Eyüp Lojistik'ten Avrupa'ya 3 Günde Teslim İçin Büyük Yatırım"
-date: "2024-02-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_66b4501138f64c1dba37272edee46881~mv2.jpg"
-imageAlt: "Eyüp Lojistik'ten Avrupa'ya 3 Günde Teslim İçin Büyük Yatırım"
-wixId: "1147a034-6f9e-4e1d-9a8b-7ebf62c0ab22"
-author: "Sedat Onat"
+title: Eyüp Lojistik'ten Avrupa'ya 3 Günde Teslim İçin Büyük Yatırım
+subtitle: Eyüp Lojistik'ten Avrupa'ya 3 Günde Teslim İçin Büyük Yatırım
+date: '2024-02-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_66b4501138f64c1dba37272edee46881~mv2.jpg
+imageAlt: Eyüp Lojistik'ten Avrupa'ya 3 Günde Teslim İçin Büyük Yatırım
+wixId: 1147a034-6f9e-4e1d-9a8b-7ebf62c0ab22
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Eyüp Lojistik
+- Avrupa
+- hızlı teslimat
+- FIAT Ducato
+- ihracat
+- filo yatırımı
+- Gaziantep
 ---
 <p>Türkiye'nin köklü lojistik şirketlerinden biri olan Eyüp Lojistik, 88. yılını kutladığı 2024 yılına Avrupa'ya 3 günde teslimat yapmayı vadeden yeni bir hizmetle başladı.&nbsp;</p>
 <p><br></p>

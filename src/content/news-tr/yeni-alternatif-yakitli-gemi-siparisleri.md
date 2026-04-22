@@ -1,14 +1,23 @@
 ---
-title: "Yeni Alternatif Yakıtlı Gemi Siparişlerinin Neredeyse Tamamı Tek Bir Kategoride"
-subtitle: "Yeni Alternatif Yakıtlı Gemi Siparişlerinin Neredeyse Tamamı Tek Bir Kategoride"
-date: "2025-03-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3a56d2f3728e4972b2b0e1ecd9a06d57~mv2.jpg"
-imageAlt: "Yeni Alternatif Yakıtlı Gemi Siparişlerinin Neredeyse Tamamı Tek Bir Kategoride"
-wixId: "c5335afb-d71c-46fe-9688-caaf89cb5fe3"
-author: "Sedat Onat"
+title: Yeni Alternatif Yakıtlı Gemi Siparişlerinin Neredeyse Tamamı Tek Bir Kategoride
+subtitle: Yeni Alternatif Yakıtlı Gemi Siparişlerinin Neredeyse Tamamı Tek Bir Kategoride
+date: '2025-03-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3a56d2f3728e4972b2b0e1ecd9a06d57~mv2.jpg
+imageAlt: Yeni Alternatif Yakıtlı Gemi Siparişlerinin Neredeyse Tamamı Tek Bir Kategoride
+wixId: c5335afb-d71c-46fe-9688-caaf89cb5fe3
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- LNG
+- alternatif yakıt
+- denizcilik
+- gemi siparişleri
+- DNV
+- karbon emisyonu
+- metanol
+- amonyak
 ---
 <p style="text-align: justify">Son yıllarda, denizcilik sektöründe çevre dostu yakıt alternatiflerine olan ilgi artmakta. Bu bağlamda, <strong>DNV</strong>'nin verilerine göre, sıvılaştırılmış doğal gaz (<strong>LNG</strong>) ile çalışan gemi siparişleri, diğer alternatif yakıtlara göre belirgin bir üstünlük göstermekte. <strong>DNV</strong>'nin raporu, yeni alternatif yakıtlı gemi siparişlerinin neredeyse tamamının <strong>LNG</strong> kategorisinde olduğunu ortaya koymakta. ​</p>
 <p><br></p>

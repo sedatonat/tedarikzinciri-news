@@ -1,14 +1,22 @@
 ---
-title: "Walmart, Pennsylvania'da 1,5M m2'lik  Yeni Nesil Dağıtım Merkezini Açtı"
-subtitle: "Walmart, Pennsylvania'da 1,5M m2'lik  Yeni Nesil Dağıtım Merkezini Açtı"
-date: "2024-05-17T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_5152d0ebe89a42469466d08e56f60ed9~mv2.jpeg"
-imageAlt: "Walmart, Pennsylvania'da 1,5M m2'lik  Yeni Nesil Dağıtım Merkezini Açtı"
-wixId: "f94b83ce-3354-4135-ad80-bf4a0bae0556"
-author: "Sedat Onat"
+title: Walmart, Pennsylvania'da 1,5M m2'lik  Yeni Nesil Dağıtım Merkezini Açtı
+subtitle: Walmart, Pennsylvania'da 1,5M m2'lik  Yeni Nesil Dağıtım Merkezini Açtı
+date: '2024-05-17T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_5152d0ebe89a42469466d08e56f60ed9~mv2.jpeg
+imageAlt: Walmart, Pennsylvania'da 1,5M m2'lik  Yeni Nesil Dağıtım Merkezini Açtı
+wixId: f94b83ce-3354-4135-ad80-bf4a0bae0556
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Walmart
+- dağıtım merkezi
+- Pennsylvania
+- otomasyon
+- üçüncü taraf lojistik
+- e-ticaret
+- hızlı teslimat
 ---
 <p>Walmart, Pennsylvania'da 1,5 milyon metrekare büyüklüğünde yeni bir “sonraki nesil” dağıtım merkezi açtı. Bu tesis, hem kendi ürünleri hem de üçüncü taraf lojistik hizmeti için artan sipariş kapasitesini ve daha hızlı gönderim hızlarını desteklemek amacıyla tasarlandı. Bu, Walmart'ın dördüncü sonraki nesil dağıtım merkezi olup, beşinci tesisin 2026 yılında Kaliforniya'da açılması planlanıyor.&nbsp;</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Walmart'ın Tedarikçi Standartlarında Yapılan Değişiklikler ve Tedarik Zinciri Üzerindeki Etkileri"
-subtitle: "Walmart'ın Tedarikçi Standartlarında Yapılan Değişiklikler ve Tedarik Zinciri Üzerindeki Etkileri"
-date: "2024-02-27T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a6539802133b4350b9029d7f1c223184~mv2.jpg"
-imageAlt: "Walmart'ın Tedarikçi Standartlarında Yapılan Değişiklikler ve Tedarik Zinciri Üzerindeki Etkileri"
-wixId: "55b9bd80-fa7e-4f0f-933d-b572e3b7edde"
-author: "Sedat Onat"
+title: Walmart'ın Tedarikçi Standartlarında Yapılan Değişiklikler ve Tedarik Zinciri Üzerindeki Etkileri
+subtitle: Walmart'ın Tedarikçi Standartlarında Yapılan Değişiklikler ve Tedarik Zinciri Üzerindeki Etkileri
+date: '2024-02-27T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_a6539802133b4350b9029d7f1c223184~mv2.jpg
+imageAlt: Walmart'ın Tedarikçi Standartlarında Yapılan Değişiklikler ve Tedarik Zinciri Üzerindeki Etkileri
+wixId: 55b9bd80-fa7e-4f0f-933d-b572e3b7edde
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Walmart
+- tedarikçi standartları
+- OTIF
+- tedarik zinciri
+- teslimat performansı
+- perakende lojistiği
+- taşıyıcı uyumu
 ---
 <p><a href="https://en.wikipedia.org/wiki/Walmart"><u>Walmart</u></a>, tedarikçiler için gerekliliklerini hafiflettiğini duyurdu. 2020'de belirlenen %98 zamanında ve tam olarak teslimat barını, 1 Şubat itibarıyla %90 zamanında ve %95 tam olarak teslimata indirdi.&nbsp;</p>
 <p><br></p>

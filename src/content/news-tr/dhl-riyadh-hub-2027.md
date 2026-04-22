@@ -1,14 +1,23 @@
 ---
-title: "DHL Supply Chain, Riyad’da 130 Milyon Avroluk Mega Dağıtım Merkeziyle Bölgesel Lojistik Dengelerini Değiştiriyor"
-subtitle: "DHL Supply Chain, Riyad’da 130 Milyon Avroluk Mega Dağıtım Merkeziyle Bölgesel Lojistik Dengelerini Değiştiriyor"
-date: "2025-11-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_eba0f599e84d47488cfe6d4cf08bea79~mv2.jpg"
-imageAlt: "DHL’nin Riyad’da 130 milyon avroluk yeni SILZ lojistik üssü yatırımıyla Orta Doğu ve Afrika taşımacılığında Dubai merkezli modelden “Riyad merkezli hub” modeline geçişin ayrıntılı analizi"
-wixId: "37b5be5b-dc99-40a4-89f7-5d0b5c63a2f4"
-author: "Sedat Onat"
+title: DHL Supply Chain, Riyad’da 130 Milyon Avroluk Mega Dağıtım Merkeziyle Bölgesel Lojistik Dengelerini Değiştiriyor
+subtitle: DHL Supply Chain, Riyad’da 130 Milyon Avroluk Mega Dağıtım Merkeziyle Bölgesel Lojistik Dengelerini Değiştiriyor
+date: '2025-11-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_eba0f599e84d47488cfe6d4cf08bea79~mv2.jpg
+imageAlt: DHL’nin Riyad’da 130 milyon avroluk yeni SILZ lojistik üssü yatırımıyla Orta Doğu ve Afrika taşımacılığında Dubai merkezli modelden “Riyad merkezli hub” modeline geçişin ayrıntılı analizi
+wixId: 37b5be5b-dc99-40a4-89f7-5d0b5c63a2f4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DHL Supply Chain
+- Riyad
+- dağıtım merkezi
+- Suudi Arabistan
+- Vision 2030
+- Kızıldeniz krizi
+- hava kargo
+- bölgesel hub
 ---
 <p style="text-align: justify">Kızıldeniz’in dron saldırıları nedeniyle deniz taşımacılığı açısından kırılgan hâle geldiği bir dönemde, lojistik sektörünün en büyük oyuncularından <strong>DHL Supply Chain</strong>, Suudi Arabistan’da stratejik bir yatırımla dikkatleri üzerine çekti. Şirket, Riyad’da <strong>130 milyon avroluk (yaklaşık 560 milyon SAR)</strong> dev bir dağıtım merkezi inşa ederek, bölgenin hava-kara bağlantılı lojistik modelini yeniden şekillendirmekte. Bu gelişme, Suudi Arabistan’ın uzun süredir sürdürdüğü “<strong>Vision 2030</strong>” politikalarıyla uyumlu şekilde, ülkeyi sadece bir tüketici pazar değil; Orta Doğu ve Afrika için <strong>primary regional hub</strong> hâline getirmeyi amaçlamakta.</p>
 <p><br></p>

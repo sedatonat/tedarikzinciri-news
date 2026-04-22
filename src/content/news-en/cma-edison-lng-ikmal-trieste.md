@@ -1,16 +1,24 @@
 ---
-title: "CMA CGM and Edison Complete Italy's First LNG Ship-to-Ship Bunkering in Trieste"
-subtitle: "CMA CGM and Edison Complete Italy's First LNG Ship-to-Ship Bunkering in Trieste"
-date: "2025-11-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3bcbe330f590455e902b3a514b3cf376~mv2.jpg"
-imageAlt: "CMA CGM SALAMANQUE, the first container vessel to receive LNG via ship-to-ship bunkering at Trieste Port, was serviced by Ravenna Knutsen; the operation represents a significant milestone in the development of Italy's LNG bunkering infrastructure."
-wixId: "4cbd4189-35a5-44c9-b615-b28f0f05031f"
-author: "Sedat Onat"
+title: CMA CGM and Edison Complete Italy's First LNG Ship-to-Ship Bunkering in Trieste
+subtitle: CMA CGM and Edison Complete Italy's First LNG Ship-to-Ship Bunkering in Trieste
+date: '2025-11-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3bcbe330f590455e902b3a514b3cf376~mv2.jpg
+imageAlt: CMA CGM SALAMANQUE, the first container vessel to receive LNG via ship-to-ship bunkering at Trieste Port, was serviced by Ravenna Knutsen; the operation represents a significant milestone in the development of Italy's LNG bunkering infrastructure.
+wixId: 4cbd4189-35a5-44c9-b615-b28f0f05031f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- CMA CGM
+- Edison
+- LNG
+- ship-to-ship bunkering
+- Port of Trieste
+- sustainable shipping
+- alternative fuel
+- Italy
 ---
-
 <p style="text-align: justify">CMA CGM and Edison have successfully completed <strong>Italy's first LNG ship-to-ship (STS) bunkering operation</strong> at the Port of Trieste. This operation is regarded as a strategic turning point in the development of the country's LNG fuel bunkering infrastructure.</p>
 <p><br></p>
 <p style="text-align: justify">The bunkering took place aboard the LNG-fueled container vessel <strong>CMA CGM SALAMANQUE</strong>, supplied by the <strong>Ravenna Knutsen</strong>, an LNG bunkering vessel operated by Edison. The successful completion of the operation has demonstrated the commercial and technical viability of the LNG supply chain in the Adriatic region.</p>

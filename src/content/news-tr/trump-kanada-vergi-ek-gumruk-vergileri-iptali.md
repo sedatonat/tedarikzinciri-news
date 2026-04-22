@@ -1,14 +1,22 @@
 ---
-title: "Trump Kanada'ya Uygulanan Çelik ve Alüminyum Vergi Artışını Geri Çekti"
-subtitle: "Trump Kanada'ya Uygulanan Çelik ve Alüminyum Vergi Artışını Geri Çekti"
-date: "2025-03-11T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_80cac6eb90bd429888eb25c00bcda3fc~mv2.jpg"
-imageAlt: "Trump Kanada'ya Uygulanan Çelik ve Alüminyum Vergi Artışını Geri Çekti"
-wixId: "994091b6-26a5-41d4-a41a-c9c085370f9a"
-author: "Sedat Onat"
+title: Trump Kanada'ya Uygulanan Çelik ve Alüminyum Vergi Artışını Geri Çekti
+subtitle: Trump Kanada'ya Uygulanan Çelik ve Alüminyum Vergi Artışını Geri Çekti
+date: '2025-03-11T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_80cac6eb90bd429888eb25c00bcda3fc~mv2.jpg
+imageAlt: Trump Kanada'ya Uygulanan Çelik ve Alüminyum Vergi Artışını Geri Çekti
+wixId: 994091b6-26a5-41d4-a41a-c9c085370f9a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- gümrük vergileri
+- çelik alüminyum
+- Trump
+- Kanada
+- ticaret savaşı
+- Avrupa Birliği
+- misilleme tarifeleri
 ---
 <p style="text-align: justify">ABD Başkanı <strong>Donald Trump</strong>, Kanada'dan ithal edilen çelik ve alüminyuma uygulanan gümrük vergilerini artırma planını geri çekti. Başlangıçta, bu metallere uygulanan mevcut %25'lik verginin iki katına çıkarılması planlanmıştı. Ancak, Ontario eyaletinin ABD'ye yönelik elektrik ihracatına getirmeyi planladığı %25'lik ek vergiyi askıya almasının ardından, Trump yönetimi bu kararından vazgeçti. ​</p>
 <p><br></p>

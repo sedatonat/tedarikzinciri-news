@@ -1,16 +1,24 @@
 ---
-title: "DeliverDirect Ushers in a New Era in Small Package Delivery"
-subtitle: "DeliverDirect Ushers in a New Era in Small Package Delivery"
-date: "2025-10-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b2c611065ecc41f68b9b1d066ef9e879~mv2.jpg"
-imageAlt: "DeliverDirect, developed through Delta Cargo's collaboration with SmartKargo, leverages Delta Air Lines' flight network to create a new delivery model that delivers speed, transparency, and cost advantages in small package transportation."
-wixId: "07df00fe-f9bf-4353-83fc-d1444f76c29f"
-author: "Sedat Onat"
+title: DeliverDirect Ushers in a New Era in Small Package Delivery
+subtitle: DeliverDirect Ushers in a New Era in Small Package Delivery
+date: '2025-10-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b2c611065ecc41f68b9b1d066ef9e879~mv2.jpg
+imageAlt: DeliverDirect, developed through Delta Cargo's collaboration with SmartKargo, leverages Delta Air Lines' flight network to create a new delivery model that delivers speed, transparency, and cost advantages in small package transportation.
+wixId: 07df00fe-f9bf-4353-83fc-d1444f76c29f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- DeliverDirect
+- Delta Cargo
+- SmartKargo
+- e-commerce delivery
+- small parcel shipping
+- air cargo
+- dock-to-door
+- digital logistics
 ---
-
 <p style="text-align: justify"><strong>Delta Cargo</strong> has introduced <strong>DeliverDirect</strong>, a new solution developed to address the e-commerce sector's demand for fast and reliable delivery. Strengthened with <strong>SmartKargo</strong> infrastructure, this system represents the <strong>first comprehensive "dock-to-door" air transportation service in the United States</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">As e-commerce grows, customer expectations are shifting. Today, consumers care not only about product quality but also about <strong>delivery speed and reliability</strong>. <strong>DeliverDirect</strong> addresses these changing expectations by leveraging <strong>Delta Air Lines' network of more than 2,500 daily domestic flights</strong>, offering a <strong>hybrid model that combines the speed of air transportation with the cost advantages of ground logistics</strong>.</p>

@@ -1,14 +1,23 @@
 ---
-title: "Çinli Tedarikçi iRobot’un Kontrolünü Devralıyor"
-subtitle: "Çinli Tedarikçi iRobot’un Kontrolünü Devralıyor"
-date: "2025-12-15T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_10a14b656399480298be4174394e3e29~mv2.jpg"
-imageAlt: "Borç yükü ve finansal belirsizlik nedeniyle iflas sürecine giren iRobot’un, ana Çinli tedarikçisi Picea tarafından devralınarak özel şirkete dönüştürülmesini konu alan detaylı sektör özeti"
-wixId: "987c5663-7c7c-4f33-9a07-4f8f421031e6"
-author: "Sedat Onat"
+title: Çinli Tedarikçi iRobot’un Kontrolünü Devralıyor
+subtitle: Çinli Tedarikçi iRobot’un Kontrolünü Devralıyor
+date: '2025-12-15T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_10a14b656399480298be4174394e3e29~mv2.jpg
+imageAlt: Borç yükü ve finansal belirsizlik nedeniyle iflas sürecine giren iRobot’un, ana Çinli tedarikçisi Picea tarafından devralınarak özel şirkete dönüştürülmesini konu alan detaylı sektör özeti
+wixId: 987c5663-7c7c-4f33-9a07-4f8f421031e6
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- iRobot
+- Picea
+- iflas
+- tedarikçi kontrolü
+- Çin
+- robot süpürge
+- tedarik zinciri riski
+- dikey entegrasyon
 ---
 <p style="text-align: justify">Robot süpürge pazarının en bilinen markalarından <strong>iRobot</strong>, artan borç yükü ve zayıflayan finansal yapısı nedeniyle <strong>Chapter 11 bankruptcy</strong> sürecine girdi. Şirket, 14 Aralık 2025 tarihinde Delaware’da iflas başvurusunda bulundu. Bu gelişme, tüketici elektroniği ve ev robotları pazarında uzun süredir biriken yapısal sorunların görünür hale gelmesine neden oldu. Süreç sonunda, iRobot’un ana Çinli tedarikçilerinden biri olan <strong>Picea</strong>, şirketin kontrolünü devralarak iRobot’u borsadan çıkarma yoluna gitmekte.</p>
 <p><br></p>

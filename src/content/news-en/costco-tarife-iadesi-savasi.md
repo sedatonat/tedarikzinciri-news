@@ -1,16 +1,23 @@
 ---
-title: "Costco Sues Trump Administration for Tariff Refund"
-subtitle: "Costco Sues Trump Administration for Tariff Refund"
-date: "2025-12-03T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_22bcc5a307d14b9790b2a7d2d48b91ea~mv2.jpg"
-imageAlt: "Costco's lawsuit against the Trump administration seeking refunds for global tariffs imposed under IEEPA, Supreme Court proceedings, precedent implications, and detailed summary of potential $100 billion-plus refund risk"
-wixId: "b482500d-12fc-45e1-867e-8e4b0929c472"
-author: "Sedat Onat"
+title: Costco Sues Trump Administration for Tariff Refund
+subtitle: Costco Sues Trump Administration for Tariff Refund
+date: '2025-12-03T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_22bcc5a307d14b9790b2a7d2d48b91ea~mv2.jpg
+imageAlt: Costco's lawsuit against the Trump administration seeking refunds for global tariffs imposed under IEEPA, Supreme Court proceedings, precedent implications, and detailed summary of potential $100 billion-plus refund risk
+wixId: b482500d-12fc-45e1-867e-8e4b0929c472
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Costco
+- tariff
+- Trump administration
+- IEEPA
+- lawsuit
+- customs
+- U.S. retail
 ---
-
 <p style="text-align: justify"><strong>Costco</strong>, one of America's largest retail giants, has filed suit against President <strong>Donald Trump</strong>'s administration before the <strong>US Court of International Trade (USCIT)</strong>, seeking refunds for tariffs paid throughout the year. The Trump administration imposed <strong>global-level levies</strong> on numerous products in 2025 using <strong>IEEPA (International Emergency Economic Powers Act)</strong> authorities under a <strong>self-declared national emergency</strong>. Costco's move comes as the <strong>Supreme Court</strong> continues its examination of the legality of these tariffs.</p>
 <p><br></p>
 <p style="text-align: justify">In the suit filed on November 28, Costco aims to halt <strong>liquidation</strong> operations scheduled for December 15 by <strong>U.S. Customs and Border Protection (CBP)</strong>. If liquidation proceeds, it becomes both legally and procedurally extremely difficult for importers to subsequently seek tariff refunds. For this reason, the company emphasizes the urgent nature of the process, stating that the "<strong>Plaintiff seeks relief from the impending liquidations to ensure that its right to a complete refund is not jeopardized</strong>".</p>

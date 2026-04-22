@@ -1,14 +1,22 @@
 ---
-title: "Shanghai Limanı 50 Milyon TEU Eşiğini Tekrar Aştı"
-subtitle: "Shanghai Limanı 50 Milyon TEU Eşiğini Tekrar Aştı"
-date: "2024-12-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6ff1518d485c4e65aa86ff79c4dba33d~mv2.jpg"
-imageAlt: "Shanghai Limanı 50 Milyon TEU Eşiğini Tekrar Aştı"
-wixId: "5626142f-0a96-4ba6-a68c-119653678dd0"
-author: "Sedat Onat"
+title: Shanghai Limanı 50 Milyon TEU Eşiğini Tekrar Aştı
+subtitle: Shanghai Limanı 50 Milyon TEU Eşiğini Tekrar Aştı
+date: '2024-12-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_6ff1518d485c4e65aa86ff79c4dba33d~mv2.jpg
+imageAlt: Shanghai Limanı 50 Milyon TEU Eşiğini Tekrar Aştı
+wixId: 5626142f-0a96-4ba6-a68c-119653678dd0
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Shanghai Limanı
+- konteyner taşımacılığı
+- TEU
+- liman operasyonları
+- dijitalleşme
+- tedarik zinciri
+- Çin
 ---
 <p>Haberi hazırlayan kişi, dünya konteyner taşımacılığında kayda değer bir gelişmeye dikkat çekmektedir. Port of Shanghai, yıllık konteyner hacmi bakımından yine zirvede yer alarak 50 milyon TEU sınırını aşmayı başarmıştır. Bu performans, özellikle 2022 yılında yaşanan Covid-19 kısıtlamaları ve küresel tedarik zincirindeki aksaklıklar düşünüldüğünde kayda değer bir başarı olarak görülmektedir. Limanın işletmesini üstlenen Shanghai International Port Group, söz konusu büyümeye rağmen operasyonel verimliliği korumanın öncelikli hedef olduğunu vurgulamaktadır.</p>
 <p><br></p>

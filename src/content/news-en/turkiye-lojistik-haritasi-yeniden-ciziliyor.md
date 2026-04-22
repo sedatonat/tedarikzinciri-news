@@ -1,16 +1,22 @@
 ---
-title: "Turkey's Logistics Map Being Redrawn: 2053 Vision"
-subtitle: "Turkey's Logistics Map Being Redrawn: 2053 Vision"
-date: "2024-02-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9a10dbaf57914f80acea28d26ba75c2f~mv2.jpg"
-imageAlt: "Turkey's Logistics Map Being Redrawn: 2053 Vision"
-wixId: "3009fe66-582e-4cde-8254-e37ab783ea8c"
-author: "Sedat Onat"
+title: 'Turkey''s Logistics Map Being Redrawn: 2053 Vision'
+subtitle: 'Turkey''s Logistics Map Being Redrawn: 2053 Vision'
+date: '2024-02-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_9a10dbaf57914f80acea28d26ba75c2f~mv2.jpg
+imageAlt: 'Turkey''s Logistics Map Being Redrawn: 2053 Vision'
+wixId: 3009fe66-582e-4cde-8254-e37ab783ea8c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- logistics center
+- Kemalpaşa
+- rail transport
+- 2053 vision
+- infrastructure investment
+- Izmir
 ---
-
 <p>According to statements from Uraloğlu, who conducted inspections at the Kemalpaşa Logistics Center as part of the Izmir programme:</p>
 <p><br></p>
 <p>Work is continuing on existing projects such as the Kemalpaşa Logistics Center, while studies, design, and planning phases are ongoing for new logistics centers.</p>

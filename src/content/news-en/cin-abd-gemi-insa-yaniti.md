@@ -1,16 +1,24 @@
 ---
-title: "Beijing Rejects U.S. Shipbuilding Inquiry"
-subtitle: "Beijing Rejects U.S. Shipbuilding Inquiry"
-date: "2025-01-17T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_df82e8e8522f4f5e8ccc1a9e22c73534~mv2.jpg"
-imageAlt: "Beijing Rejects U.S. Shipbuilding Inquiry"
-wixId: "9c67d947-0bb9-4ac8-ab19-d6003c7a9c2b"
-author: "Sedat Onat"
+title: Beijing Rejects U.S. Shipbuilding Inquiry
+subtitle: Beijing Rejects U.S. Shipbuilding Inquiry
+date: '2025-01-17T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_df82e8e8522f4f5e8ccc1a9e22c73534~mv2.jpg
+imageAlt: Beijing Rejects U.S. Shipbuilding Inquiry
+wixId: 9c67d947-0bb9-4ac8-ab19-d6003c7a9c2b
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- shipbuilding
+- China
+- United States
+- maritime
+- shipyard
+- trade war
+- USTR
+- Donald Trump
 ---
-
 <p style="text-align: justify">China's Ministry of Commerce has dismissed a U.S. investigation into China's shipbuilding, maritime, and logistics sectors, characterizing it as "unilateralism and protectionism."</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">The U.S. Trade Representative (<strong>USTR</strong>) has stated that China's targeted dominance in global shipbuilding, maritime, and logistics sectors is "unreasonable" and "actionable" under U.S. trade laws.</p>

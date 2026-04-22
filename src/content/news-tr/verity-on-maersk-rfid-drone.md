@@ -1,14 +1,23 @@
 ---
-title: "Verity, On ve Maersk, RFID Drone Teknolojisiyle Depo Takibini Test Ediyor​"
-subtitle: "Verity, On ve Maersk, RFID Drone Teknolojisiyle Depo Takibini Test Ediyor​"
-date: "2025-02-06T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_63ec1697d7164664bc158863b6bad4f4~mv2.jpg"
-imageAlt: "Verity, On ve Maersk, RFID Drone Teknolojisiyle Depo Takibini Test Ediyor​"
-wixId: "12e0779f-84af-4ef1-ae9e-feab3906545f"
-author: "Sedat Onat"
+title: Verity, On ve Maersk, RFID Drone Teknolojisiyle Depo Takibini Test Ediyor​
+subtitle: Verity, On ve Maersk, RFID Drone Teknolojisiyle Depo Takibini Test Ediyor​
+date: '2025-02-06T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_63ec1697d7164664bc158863b6bad4f4~mv2.jpg
+imageAlt: Verity, On ve Maersk, RFID Drone Teknolojisiyle Depo Takibini Test Ediyor​
+wixId: 12e0779f-84af-4ef1-ae9e-feab3906545f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- RFID
+- otonom drone
+- Verity
+- Maersk
+- depo otomasyonu
+- envanter yönetimi
+- yapay zeka
+- tedarik zinciri
 ---
 <p style="text-align: justify"><strong>Verity</strong>, <strong>On</strong> ve <strong>Maersk</strong>, depo envanter yönetimini geliştirmek amacıyla RFID teknolojisiyle donatılmış otonom drone'ları test etmek için üç aylık bir pilot proje gerçekleştirdi. Bu proje kapsamında, <strong>Verity</strong>'nin yapay zeka destekli drone'ları, depolardaki RFID etiketlerini tarayarak envanter doğruluğunu ve görünürlüğünü gerçek zamanlı olarak artırdı. ​</p>
 <p><br></p>

@@ -1,14 +1,23 @@
 ---
-title: "Nükleer Kapasiteyi 2050'ye Kadar Üç Katına Çıkarma Taahhüdü"
-subtitle: "Nükleer Kapasiteyi 2050'ye Kadar Üç Katına Çıkarma Taahhüdü"
-date: "2025-03-13T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_e276101090fd45f6bb4dceb1f9aa5b91~mv2.jpg"
-imageAlt: "Nükleer Kapasiteyi 2050'ye Kadar Üç Katına Çıkarma Taahhüdü"
-wixId: "56177a3e-2a0e-41e3-92e7-fa2cd72b9d20"
-author: "Sedat Onat"
+title: Nükleer Kapasiteyi 2050'ye Kadar Üç Katına Çıkarma Taahhüdü
+subtitle: Nükleer Kapasiteyi 2050'ye Kadar Üç Katına Çıkarma Taahhüdü
+date: '2025-03-13T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_e276101090fd45f6bb4dceb1f9aa5b91~mv2.jpg
+imageAlt: Nükleer Kapasiteyi 2050'ye Kadar Üç Katına Çıkarma Taahhüdü
+wixId: 56177a3e-2a0e-41e3-92e7-fa2cd72b9d20
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- nükleer enerji
+- Lloyd's Register
+- Amazon
+- Google
+- sürdürülebilir enerji
+- karbon emisyonu
+- enerji dönüşümü
+- CERAWeek
 ---
 <p style="text-align: justify"><a href="https://www.lr.org/"><u><strong>Lloyd's Register (LR)</strong></u></a>, <a href="https://en.wikipedia.org/wiki/Amazon_(company)"><u><strong>Amazon</strong></u></a>, <strong>Google</strong> ve diğer büyük şirketler, 2050 yılına kadar küresel nükleer enerji kapasitesini üç katına çıkarmayı hedefleyen bir taahhüde katıldı. Bu girişim, enerji sektöründe temiz ve sürdürülebilir kaynaklara geçişi hızlandırmayı amaçlamakta.​</p>
 <p><br></p>

@@ -1,14 +1,23 @@
 ---
-title: "BMW'nin Yasaklı Tedarikçiden Parça Kullanarak ABD'ye Mini Cooper İhracatı"
-subtitle: "BMW'nin Yasaklı Tedarikçiden Parça Kullanarak ABD'ye Mini Cooper İhracatı"
-date: "2024-05-23T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_e17764650e60469a918e15e8343bd611~mv2.jpg"
-imageAlt: "BMW'nin Yasaklı Tedarikçiden Parça Kullanarak ABD'ye Mini Cooper İhracatı"
-wixId: "e7f1dec1-8a01-481a-b510-22315f121c60"
-author: "Sedat Onat"
+title: BMW'nin Yasaklı Tedarikçiden Parça Kullanarak ABD'ye Mini Cooper İhracatı
+subtitle: BMW'nin Yasaklı Tedarikçiden Parça Kullanarak ABD'ye Mini Cooper İhracatı
+date: '2024-05-23T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_e17764650e60469a918e15e8343bd611~mv2.jpg
+imageAlt: BMW'nin Yasaklı Tedarikçiden Parça Kullanarak ABD'ye Mini Cooper İhracatı
+wixId: e7f1dec1-8a01-481a-b510-22315f121c60
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- BMW
+- Mini Cooper
+- zorla işçilik
+- tedarik zinciri
+- Çin
+- Sincan
+- ABD
+- otomotiv
 ---
 <p>BMW Grubu, ABD Senatosu Finans Komitesi'nin bir soruşturmasına göre, Çin'in Sincan bölgesinde yer alan yasaklanmış bir tedarikçiden parça kullanan en az 8.000 Mini Cooper aracını ABD'ye gönderdi. Söz konusu tedarikçi, Sichuan Jingweida Technology Group Co., 2021'den beri Zorla İşçi Çalıştırma Önleme Yasası kapsamında zorla işçilik uygulamaları nedeniyle yasaklandı. BMW, soruşturma komitesinin sorularını yönelttiği sürece bu tedarikçiden parça kullanmaya devam etti.&nbsp;</p>
 <p><br></p>

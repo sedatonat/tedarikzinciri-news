@@ -1,16 +1,23 @@
 ---
-title: "US and China Agree on Temporary Ceasefire Over Rare Earths and Tariffs"
-subtitle: "US and China Agree on Temporary Ceasefire Over Rare Earths and Tariffs"
-date: "2025-10-27T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_1fef2bac644244db947a9ca1a87a1099~mv2.jpg"
-imageAlt: "During talks held at the ASEAN Summit in Kuala Lumpur, US and Chinese delegations reached a framework agreement on rare earth element exports and customs tariffs. The agreement is expected to be approved at a meeting between Trump and Xi in South Korea."
-wixId: "00bc973c-878d-4984-b9cd-1bf201e4df16"
-author: "Sedat Onat"
+title: US and China Agree on Temporary Ceasefire Over Rare Earths and Tariffs
+subtitle: US and China Agree on Temporary Ceasefire Over Rare Earths and Tariffs
+date: '2025-10-27T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_1fef2bac644244db947a9ca1a87a1099~mv2.jpg
+imageAlt: During talks held at the ASEAN Summit in Kuala Lumpur, US and Chinese delegations reached a framework agreement on rare earth element exports and customs tariffs. The agreement is expected to be approved at a meeting between Trump and Xi in South Korea.
+wixId: 00bc973c-878d-4984-b9cd-1bf201e4df16
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- US
+- China
+- rare earths
+- tariffs
+- trade war
+- ASEAN
+- supply chain
 ---
-
 <p style="text-align: justify">During high-level talks held at the <strong>ASEAN Summit</strong> in Kuala Lumpur, trade officials from the <strong>US</strong> and <strong>China</strong> reached agreement on a <strong>trade ceasefire framework</strong> to be approved by both countries' leaders, <strong>Donald Trump</strong> and <strong>Xi Jinping</strong>, this week. As a result of the talks, a preliminary decision was made to <strong>suspend the 100% customs tariffs that the US planned to implement on November 1</strong> and to <strong>defer China's new restrictions on rare earth element exports for one year</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">US Treasury Secretary <strong>Scott Bessent</strong> announced that negotiations conducted behind the scenes at the ASEAN meeting had prevented Trump's tariffs from taking effect and that China would postpone its <strong>rare earth minerals and magnet licensing regime</strong> by one year. However, Chinese officials made more cautious statements regarding the outcome of the talks and did not share details.</p>

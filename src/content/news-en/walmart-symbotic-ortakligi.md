@@ -1,16 +1,24 @@
 ---
-title: "Walmart and Symbotic Strategic Partnership: Robotics Business Sale and 400 Automation Center Investment"
-subtitle: "Walmart and Symbotic Strategic Partnership: Robotics Business Sale and 400 Automation Center Investment"
-date: "2025-01-21T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_f7acf89d2f864c7ab5479b74fd627ab4~mv2.jpg"
-imageAlt: "Walmart and Symbotic Strategic Partnership: Robotics Business Sale and 400 Automation Center Investment"
-wixId: "5566a91d-4b31-4c19-a070-9dadf78e86c9"
-author: "Sedat Onat"
+title: 'Walmart and Symbotic Strategic Partnership: Robotics Business Sale and 400 Automation Center Investment'
+subtitle: 'Walmart and Symbotic Strategic Partnership: Robotics Business Sale and 400 Automation Center Investment'
+date: '2025-01-21T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_f7acf89d2f864c7ab5479b74fd627ab4~mv2.jpg
+imageAlt: 'Walmart and Symbotic Strategic Partnership: Robotics Business Sale and 400 Automation Center Investment'
+wixId: 5566a91d-4b31-4c19-a070-9dadf78e86c9
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Walmart
+- Symbotic
+- supply chain automation
+- robotics
+- artificial intelligence
+- e-commerce
+- last-mile delivery
+- micro-fulfillment
 ---
-
 <p style="text-align: justify">Retail giant <strong>Walmart</strong> has decided to sell its advanced systems and robotics business unit to long-time partner <strong>Symbotic</strong> in a move designed to advance supply chain automation. This strategic step aims to leverage <strong>Symbotic</strong>'s AI-powered robotics platform to automate accelerated pickup and delivery centers (APDs) across <strong>Walmart</strong> stores.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Deal Details and Financial Scope</strong></p>

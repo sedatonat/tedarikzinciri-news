@@ -1,14 +1,23 @@
 ---
-title: "Rusya’nın “Shadow Fleet” Filosu ve Yumuşak Yaptırımlar: Petrol Akışı Sürerken Riskler Tırmanıyor"
-subtitle: "Rusya’nın “Shadow Fleet” Filosu ve Yumuşak Yaptırımlar: Petrol Akışı Sürerken Riskler Tırmanıyor"
-date: "2025-11-21T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_581637a0957f4b5789e0146304ab702c~mv2.jpg"
-imageAlt: "2025 sonunda Rus enerji devlerine yönelik yaptırımların “yumuşak” uygulanması, Rus petrolünü taşıyan shadow fleet mekanizması, sahte bayrak operasyonları, STS transferleri ve bunun küresel tedarik zinciri risklerine etkisini anlatan detaylı haber özeti"
-wixId: "8b24516a-d9d8-48f4-b7c4-00a10fc143aa"
-author: "Sedat Onat"
+title: 'Rusya’nın “Shadow Fleet” Filosu ve Yumuşak Yaptırımlar: Petrol Akışı Sürerken Riskler Tırmanıyor'
+subtitle: 'Rusya’nın “Shadow Fleet” Filosu ve Yumuşak Yaptırımlar: Petrol Akışı Sürerken Riskler Tırmanıyor'
+date: '2025-11-21T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_581637a0957f4b5789e0146304ab702c~mv2.jpg
+imageAlt: 2025 sonunda Rus enerji devlerine yönelik yaptırımların “yumuşak” uygulanması, Rus petrolünü taşıyan shadow fleet mekanizması, sahte bayrak operasyonları, STS transferleri ve bunun küresel tedarik zinciri risklerine etkisini anlatan detaylı haber özeti
+wixId: 8b24516a-d9d8-48f4-b7c4-00a10fc143aa
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Shadow Fleet
+- Rusya
+- petrol tankeri
+- yaptırımlar
+- Lukoil
+- AIS kapatma
+- denizcilik güvenliği
+- G7 price cap
 ---
 <p style="text-align: justify">Ekim 2025’te ABD ve AB, <strong>Lukoil</strong> başta olmak üzere büyük Rus enerji şirketlerine karşı yeni yaptırımlar açıkladı. Resmî söylem sert, liste uzun; ancak uygulama sahasına bakıldığında farklı bir tablo ortaya çıkmakta. Washington ve Brüksel, Rus petrolünü hedef alan yaptırımları kağıt üzerinde sıkı tutarken, sahada <strong>bilerek “gevşek” uygulamakta</strong>. Temel amaç, Rus petrol akışını tamamen kesmeden, küresel fiyatları ve enflasyonu kontrol altında tutmak; aynı zamanda “yaptırım uyguluyoruz” mesajını siyasi olarak sürdürmek.</p>
 <p><br></p>

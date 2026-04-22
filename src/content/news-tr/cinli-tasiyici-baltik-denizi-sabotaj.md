@@ -1,14 +1,22 @@
 ---
-title: "Çinli Taşıyıcı, Baltık Denizi'nde Telekom Hatlarına Müdahale Şüphesiyle Gözaltında"
-subtitle: "Çinli Taşıyıcı, Baltık Denizi'nde Telekom Hatlarına Müdahale Şüphesiyle Gözaltında"
-date: "2024-11-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ef314cf438e04494be344452247cf41d~mv2.jpg"
-imageAlt: "Çinli Taşıyıcı, Baltık Denizi'nde Telekom Hatlarına Müdahale Şüphesiyle Gözaltında"
-wixId: "ea2ea9b4-5726-4564-b18b-270accca43a2"
-author: "Sedat Onat"
+title: Çinli Taşıyıcı, Baltık Denizi'nde Telekom Hatlarına Müdahale Şüphesiyle Gözaltında
+subtitle: Çinli Taşıyıcı, Baltık Denizi'nde Telekom Hatlarına Müdahale Şüphesiyle Gözaltında
+date: '2024-11-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_ef314cf438e04494be344452247cf41d~mv2.jpg
+imageAlt: Çinli Taşıyıcı, Baltık Denizi'nde Telekom Hatlarına Müdahale Şüphesiyle Gözaltında
+wixId: ea2ea9b4-5726-4564-b18b-270accca43a2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Baltık Denizi
+- fiber-optik kablo
+- sabotaj
+- deniz güvenliği
+- Çin
+- siber güvenlik
+- yük gemisi
 ---
 <p>Danimarka Donanması, Baltık Denizi'nde iki denizaltı fiber-optik veri hattına yönelik sabotaj şüphesiyle Çinli yük gemisi <strong>Yi Peng 3</strong>'ü gözaltına aldı. Söz konusu geminin, Rusya'dan çıkış yaptıktan sonra İsveç'in münhasır ekonomik bölgesinden geçerek baltık denizindeki fiber kabloların bulunduğu bölgelerde seyrettiği tespit edildi. İlk kablo, Almanya ile Finlandiya arasında uzanan ve 17 Kasım'da hasar gören hat, ikinci kablo ise İsveç ile Litvanya arasında bulunan ve bir gün sonra kesilen hattı kapsıyor.</p>
 <p><br></p>

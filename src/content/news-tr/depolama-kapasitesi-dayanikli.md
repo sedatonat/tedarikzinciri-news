@@ -1,14 +1,23 @@
 ---
-title: "Depolama Kapasitesi, Yükleme Stratejilerine Rağmen Dayanıklılığını Koruyor"
-subtitle: "Depolama Kapasitesi, Yükleme Stratejilerine Rağmen Dayanıklılığını Koruyor"
-date: "2025-02-27T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/11062b_939204ae9b614238a9e6d17a9368b38f~mv2.jpeg"
-imageAlt: "Depolama Kapasitesi, Yükleme Stratejilerine Rağmen Dayanıklılığını Koruyor"
-wixId: "443b6506-29f0-40be-96cc-76da08915b2d"
-author: "Sedat Onat"
+title: Depolama Kapasitesi, Yükleme Stratejilerine Rağmen Dayanıklılığını Koruyor
+subtitle: Depolama Kapasitesi, Yükleme Stratejilerine Rağmen Dayanıklılığını Koruyor
+date: '2025-02-27T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/11062b_939204ae9b614238a9e6d17a9368b38f~mv2.jpeg
+imageAlt: Depolama Kapasitesi, Yükleme Stratejilerine Rağmen Dayanıklılığını Koruyor
+wixId: 443b6506-29f0-40be-96cc-76da08915b2d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- depolama kapasitesi
+- liman operasyonları
+- tarifeler
+- Port of Los Angeles
+- kargo yönetimi
+- üçüncü taraf lojistik
+- perakende
+- tedarik zinciri
 ---
 <p style="text-align: justify">Son dönemde, <strong>Trump yönetimi</strong> tarafından uygulanan yeni tarifeler ve liman işgücü endişeleri nedeniyle birçok gönderici, liman grevlerini hafifletmek amacıyla belirli ürün kategorilerine odaklanarak mallarını öne çekmekte. <strong>National Retail Federation</strong>'ın gümrük politikası ve tedarik zinciri başkan yardımcısı <strong>Jonathan Gold</strong>, birçok perakendecinin fazla kargo getirmemek konusunda dikkatli davrandığını ve bu nedenle iyi bir konumda olduklarını belirtmekte.&nbsp;</p>
 <p><br></p>

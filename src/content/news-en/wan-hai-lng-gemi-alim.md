@@ -1,16 +1,23 @@
 ---
-title: "Wan Hai Orders Six LNG-Powered Container Ships"
-subtitle: "Wan Hai Orders Six LNG-Powered Container Ships"
-date: "2025-12-16T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_4a51affc6cf74d158326685530fa3c60~mv2.jpg"
-imageAlt: "Detailed sector overview covering Wan Hai Lines' approximately 500 million dollar dual-fuel LNG-powered container ship investment to strengthen its fleet and the implications for its trans-Pacific strategy"
-wixId: "0391b7eb-6dc2-432e-a6fc-2942d3fa724d"
-author: "Sedat Onat"
+title: Wan Hai Orders Six LNG-Powered Container Ships
+subtitle: Wan Hai Orders Six LNG-Powered Container Ships
+date: '2025-12-16T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_4a51affc6cf74d158326685530fa3c60~mv2.jpg
+imageAlt: Detailed sector overview covering Wan Hai Lines' approximately 500 million dollar dual-fuel LNG-powered container ship investment to strengthen its fleet and the implications for its trans-Pacific strategy
+wixId: 0391b7eb-6dc2-432e-a6fc-2942d3fa724d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Wan Hai Lines
+- LNG-fueled vessel
+- container ship
+- ship order
+- decarbonization
+- trans-Pacific
+- CSSC Huangpu Wenchong
 ---
-
 <p style="text-align: justify">Taiwan-based container shipping company <strong>Wan Hai Lines</strong> has approved a major investment decision worth approximately <strong>500 million dollars</strong> to strengthen its vessel fleet. The company finalized an agreement for <strong>six new ships</strong> in the <strong>dual-fuel LNG-powered container ships</strong> class, each with a capacity of <strong>6,000 TEU</strong>. This move aligns with Wan Hai's objectives to comply with environmental regulations while enhancing its competitive position on the trans-Pacific route.</p>
 <p><br></p>
 <p style="text-align: justify">According to a statement by Wan Hai, the vessels will be constructed at <strong>CSSC Huangpu Wenchong Shipbuilding</strong>, a China-based shipyard. Prices per vessel are positioned in the range of <strong>75.2 million dollars</strong> to <strong>82 million dollars</strong>. This pricing structure brings the total contract value to between <strong>451.2 million dollars</strong> and <strong>492 million dollars</strong>. The investment was disclosed to the public through an official notification to the Taiwan stock exchange.</p>

@@ -1,14 +1,23 @@
 ---
-title: "Kuzey Amerika Tarifeleri Askıya Alındı, Çin Misilleme Yapıyor"
-subtitle: "Kuzey Amerika Tarifeleri Askıya Alındı, Çin Misilleme Yapıyor"
-date: "2025-03-04T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_95757a84e0ee47d4bf8ed8caa74e56f0~mv2.jpg"
-imageAlt: "Kuzey Amerika Tarifeleri Askıya Alındı, Çin Misilleme Yapıyor"
-wixId: "6a755d69-99fb-4d51-993c-33d07a28598a"
-author: "Sedat Onat"
+title: Kuzey Amerika Tarifeleri Askıya Alındı, Çin Misilleme Yapıyor
+subtitle: Kuzey Amerika Tarifeleri Askıya Alındı, Çin Misilleme Yapıyor
+date: '2025-03-04T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_95757a84e0ee47d4bf8ed8caa74e56f0~mv2.jpg
+imageAlt: Kuzey Amerika Tarifeleri Askıya Alındı, Çin Misilleme Yapıyor
+wixId: 6a755d69-99fb-4d51-993c-33d07a28598a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tarifelerin ertelenmesi
+- ticaret savaşı
+- Çin
+- Kanada
+- Meksika
+- misilleme tarifeleri
+- denizcilik
+- tedarik zinciri
 ---
 <p style="text-align: justify">Başkan Donald Trump, Kanada ve Meksika'ya uygulanması planlanan %25'lik tarifeleri, yürürlüğe girmesinden bir hafta önce 30 gün süreyle erteleme kararı aldı. Bu karar, her iki ülkenin de misilleme hazırlıklarına başlamasının hemen ardından geldi. Kanada Başbakanı <strong>Justin Trudeau</strong>, <strong>CA $155 milyar</strong> (yaklaşık <strong>$105,7 milyar</strong>) değerindeki Amerikan mallarına %25'lik bir tarife uygulayacağını duyurdu. Aynı zamanda, Meksika Devlet Başkanı <strong>Claudia Sheinbaum</strong>, ekonomi bakanına Meksika'nın çıkarlarını korumak için tarife önlemleri alması talimatını verdi ve Trump'ın uyuşturucu ile ilgili suçlamalarını şiddetle reddetti. ​</p>
 <p><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "US Removes Tariffs on Coffee and Agricultural Products from Brazil"
-subtitle: "US Removes Tariffs on Coffee and Agricultural Products from Brazil"
-date: "2025-11-21T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_73feb1867bc24d8fa22187474fd48b33~mv2.jpg"
-imageAlt: "The US has granted tariff exemptions for hundreds of agricultural and food products of Brazilian origin, including coffee, meat, tropical fruits, and spices. The decision is seen as a result of progress in trade negotiations between the two countries while easing mounting tariff pressure."
-wixId: "f8250dac-cacd-494c-a01c-e1512f8263b2"
-author: "Sedat Onat"
+title: US Removes Tariffs on Coffee and Agricultural Products from Brazil
+subtitle: US Removes Tariffs on Coffee and Agricultural Products from Brazil
+date: '2025-11-21T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_73feb1867bc24d8fa22187474fd48b33~mv2.jpg
+imageAlt: The US has granted tariff exemptions for hundreds of agricultural and food products of Brazilian origin, including coffee, meat, tropical fruits, and spices. The decision is seen as a result of progress in trade negotiations between the two countries while easing mounting tariff pressure.
+wixId: f8250dac-cacd-494c-a01c-e1512f8263b2
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- USA
+- Brazil
+- tariff exemption
+- coffee
+- agricultural products
+- global trade
+- Trump
+- foreign trade
 ---
-
 <p style="text-align: justify">The US has announced it is <strong>removing tariffs on hundreds of agricultural and food products imported from Brazil</strong>. The decision took effect through a new executive order signed by President Donald Trump and was detailed in a notice published by the US Customs and Border Protection Agency (<strong>CBP</strong>).</p>
 <p><br></p>
 <p style="text-align: justify">The exemptions are designed to align with adjustments made to <strong>global reciprocal tariffs</strong> last week. In total, <strong>238 product classifications and 11 agricultural/food categories</strong> received exemptions under this framework.</p>

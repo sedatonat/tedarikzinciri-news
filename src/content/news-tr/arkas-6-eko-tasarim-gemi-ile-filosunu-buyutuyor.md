@@ -1,14 +1,22 @@
 ---
-title: "Arkas, Filosunu Altı Eko-Tasarım Gemiyle Genişletiyor"
-subtitle: "Arkas, Filosunu Altı Eko-Tasarım Gemiyle Genişletiyor"
-date: "2024-09-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d15b8e5a64fd4a4dbc61b12357235f92~mv2.jpg"
-imageAlt: "Arkas, Filosunu Altı Eko-Tasarım Gemiyle Genişletiyor"
-wixId: "6c7d1b64-e067-404b-9335-63da2c5eaa31"
-author: "Sedat Onat"
+title: Arkas, Filosunu Altı Eko-Tasarım Gemiyle Genişletiyor
+subtitle: Arkas, Filosunu Altı Eko-Tasarım Gemiyle Genişletiyor
+date: '2024-09-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d15b8e5a64fd4a4dbc61b12357235f92~mv2.jpg
+imageAlt: Arkas, Filosunu Altı Eko-Tasarım Gemiyle Genişletiyor
+wixId: 6c7d1b64-e067-404b-9335-63da2c5eaa31
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Arkas
+- konteyner gemisi
+- eko-tasarım
+- filo genişletme
+- sürdürülebilirlik
+- CIMC Financial Leasing
+- CSSC Huangpu Wenchong
 ---
 <p>Arkas, filosunu 360 milyon dolar değerindeki altı yeni nesil eko-tasarım konteyner gemisiyle genişleteceğini duyurdu. Bu hamleyle şirketin toplam gemi sayısı 55'e, TEU kapasitesi ise 112.230'a ulaşacak. Arkas, CIMC Financial Leasing ile uzun vadeli bir finansman anlaşması yaparak filosunu büyütme ve yenileme fırsatı elde etti.</p>
 <p><br></p>

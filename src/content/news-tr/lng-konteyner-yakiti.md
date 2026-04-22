@@ -1,14 +1,23 @@
 ---
-title: "LNG, Konteyner Hatlarında Tercih Edilen Alternatif Yakıt Haline Geliyor"
-subtitle: "LNG, Konteyner Hatlarında Tercih Edilen Alternatif Yakıt Haline Geliyor"
-date: "2025-10-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a71a45d4ee374490a970371862fa8e33~mv2.jpg"
-imageAlt: "Uluslararası Denizcilik Örgütü (IMO)’nun karbonsuzlaşma gündeminde yaşanan belirsizliklere rağmen, LNG (Sıvılaştırılmış Doğal Gaz), konteyner hatları arasında en yaygın tercih edilen alternatif yakıt konumuna geldi. LNG ile çalışan gemi siparişleri, 2023 sonundaki 194’ten 2025 ortasında 362’ye yükseldi."
-wixId: "780ebb19-b95e-4c97-8c29-5fd0fecfe46a"
-author: "Sedat Onat"
+title: LNG, Konteyner Hatlarında Tercih Edilen Alternatif Yakıt Haline Geliyor
+subtitle: LNG, Konteyner Hatlarında Tercih Edilen Alternatif Yakıt Haline Geliyor
+date: '2025-10-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a71a45d4ee374490a970371862fa8e33~mv2.jpg
+imageAlt: Uluslararası Denizcilik Örgütü (IMO)’nun karbonsuzlaşma gündeminde yaşanan belirsizliklere rağmen, LNG (Sıvılaştırılmış Doğal Gaz), konteyner hatları arasında en yaygın tercih edilen alternatif yakıt konumuna geldi. LNG ile çalışan gemi siparişleri, 2023 sonundaki 194’ten 2025 ortasında 362’ye yükseldi.
+wixId: 780ebb19-b95e-4c97-8c29-5fd0fecfe46a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- LNG
+- alternatif yakıt
+- konteyner gemisi
+- karbonsuzlaşma
+- deniz taşımacılığı
+- IMO
+- metanol
+- CMA CGM
 ---
 <p style="text-align: justify"><strong>Küresel deniz taşımacılığının karbonsuzlaşma sürecinde</strong> yeni bir dönem başlıyor: <strong>LNG (sıvılaştırılmış doğal gaz)</strong>, konteyner taşımacılığı sektöründe <strong>en çok tercih edilen alternatif yakıt</strong> haline geldi.</p>
 <p><br></p>

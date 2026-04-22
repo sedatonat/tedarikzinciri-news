@@ -1,16 +1,24 @@
 ---
-title: "Russia's Crude Oil Exports at Lowest Levels Since September"
-subtitle: "Russia's Crude Oil Exports at Lowest Levels Since September"
-date: "2024-11-15T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/fb82545edb1641db909d551d5f65382b.jpg"
-imageAlt: "Russia's Crude Oil Exports at Lowest Levels Since September"
-wixId: "f32fc1f8-c60e-45fb-a826-c1366ed3d49c"
-author: "Sedat Onat"
+title: Russia's Crude Oil Exports at Lowest Levels Since September
+subtitle: Russia's Crude Oil Exports at Lowest Levels Since September
+date: '2024-11-15T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/fb82545edb1641db909d551d5f65382b.jpg
+imageAlt: Russia's Crude Oil Exports at Lowest Levels Since September
+wixId: f32fc1f8-c60e-45fb-a826-c1366ed3d49c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Russia
+- crude oil exports
+- Baltic ports
+- OPEC+
+- European Union
+- shadow fleet
+- India
+- Turkey
 ---
-
 <p>According to a Bloomberg report, Russia's overseas crude oil exports have declined to their lowest levels since September. Shipments from Baltic ports are running well below October's pace. The four-week average flow through November 17 fell to 3.28 million barrels per day, down approximately 150,000 barrels daily. This decline represents the largest weekly export drop since early July.</p>
 <p><br></p>
 <p>Russia's main Baltic port, Primorsk, has 16 cargo loadings scheduled for the first 17 days of this month, compared with 22 planned loadings during the same period last month. This situation, coupled with the reduction in loading schedules seen in October, indicates that the amount of crude oil available for export could decline as Russia ramps up refining capacity in the second week.</p>

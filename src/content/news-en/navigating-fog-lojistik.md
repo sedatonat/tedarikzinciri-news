@@ -1,16 +1,24 @@
 ---
-title: "Navigating Through the Fog: Uncertainty Persists in Logistics"
-subtitle: "Navigating Through the Fog: Uncertainty Persists in Logistics"
-date: "2025-10-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_9b52a0adb0ac4756a04a9e7aeaa7ce3d~mv2.jpeg"
-imageAlt: ""
-wixId: "bdd520ce-576d-4b33-8a24-0a316b54b22a"
-author: "Sedat Onat"
+title: 'Navigating Through the Fog: Uncertainty Persists in Logistics'
+subtitle: 'Navigating Through the Fog: Uncertainty Persists in Logistics'
+date: '2025-10-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_9b52a0adb0ac4756a04a9e7aeaa7ce3d~mv2.jpeg
+imageAlt: ''
+wixId: bdd520ce-576d-4b33-8a24-0a316b54b22a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- supply chain
+- logistics uncertainty
+- CSCMP
+- freight rates
+- resilience
+- artificial intelligence
+- maritime shipping
+- warehousing
 ---
-
 <p style="text-align: justify"><strong>The Council of Supply Chain Management Professionals (CSCMP)</strong> released its annual <strong>"State of Logistics Report"</strong> for 2024 under the title <strong>"Navigating Through the Fog."</strong> The report reflects the ongoing atmosphere of <strong>uncertainty</strong> in the global supply chain and logistics sector. Four months later, speaking at the <strong>CSCMP Annual EDGE Conference,</strong> the report's lead author <strong>Korhan Acar</strong> emphasized that the sector is still moving through the same foggy environment.</p>
 <p><br></p>
 <p style="text-align: justify">Acar noted that the sector had been "searching for visibility" last year with expectations of recovery, but this year the fog has not cleared—instead, it has thickened. This picture is largely shaped by <strong>the Trump administration's "Liberation Day" tariffs</strong> and <strong>uncertainty surrounding logistics service demand recovery.</strong> Global trade dynamics, in particular, are creating imbalances across transportation modes.</p>

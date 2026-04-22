@@ -1,13 +1,22 @@
 ---
-title: "Yeni Küresel Konteyner Limanları Endeksi (LCP - Leading Container Ports)"
-subtitle: "Yeni Küresel Konteyner Limanları Endeksi (LCP - Leading Container Ports)"
-date: "2025-11-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_df87c3b1fb084da898b2476b205c4e2c~mv2.jpg"
-wixId: "2212ecf6-6e3d-46c4-852a-9d408325d28d"
-author: "Sedat Onat"
+title: Yeni Küresel Konteyner Limanları Endeksi (LCP - Leading Container Ports)
+subtitle: Yeni Küresel Konteyner Limanları Endeksi (LCP - Leading Container Ports)
+date: '2025-11-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_df87c3b1fb084da898b2476b205c4e2c~mv2.jpg
+wixId: 2212ecf6-6e3d-46c4-852a-9d408325d28d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- konteyner limanları
+- liman endeksi
+- Singapur
+- Şanghay
+- Rotterdam
+- DNV
+- sürdürülebilirlik
+- dijitalleşme
 ---
 <p style="text-align: justify">DNV ve Menon Economics, yıllardır yayımladıkları <em>Leading Maritime Cities</em> endeksinin yanına bu kez <strong>küresel konteyner limanlarını</strong> sıralayan yeni bir endeks ekledi: <strong>Leading Container Ports of the World (LCP)</strong>.</p>
 <p style="text-align: justify">İlk sonuçlara göre:</p>

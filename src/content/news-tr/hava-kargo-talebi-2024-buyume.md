@@ -1,14 +1,22 @@
 ---
-title: "2024'te Hava Kargo Talebi Çifte Haneli Büyüme Yolunda"
-subtitle: "2024'te Hava Kargo Talebi Çifte Haneli Büyüme Yolunda"
-date: "2024-11-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c1174edf01524e4fb49608ddae791337~mv2.jpg"
-imageAlt: "2024'te Hava Kargo Talebi Çifte Haneli Büyüme Yolunda"
-wixId: "10808995-c5c9-423b-be0d-a79e2cd79554"
-author: "Sedat Onat"
+title: 2024'te Hava Kargo Talebi Çifte Haneli Büyüme Yolunda
+subtitle: 2024'te Hava Kargo Talebi Çifte Haneli Büyüme Yolunda
+date: '2024-11-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c1174edf01524e4fb49608ddae791337~mv2.jpg
+imageAlt: 2024'te Hava Kargo Talebi Çifte Haneli Büyüme Yolunda
+wixId: 10808995-c5c9-423b-be0d-a79e2cd79554
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- hava kargo
+- Xeneta
+- liman grevi
+- spot fiyat
+- yük faktörü
+- Kuzey Amerika
+- kış sezonu
 ---
 <p>2024 yılında hava kargo talebi, U.S. East ve Gulf Coast limanlarında gerçekleşen iskele işçi grevi gibi aksamalar yaşanmasına rağmen, yıl bazında yüzde 11 oranında büyümeye devam ediyor. Xeneta tarafından 31 Ekim 2024 tarihinde yayımlanan rapora göre, Ekim ayında hava kargo hacmi önceki yıla göre %11 artış gösterdi. Ortalama hava kargo spot fiyatı kilogram başına $2.68 seviyesine ulaşarak, yıllık bazda %19'luk bir artış kaydetti. Küresel dinamik yük faktörü ise %63 seviyesinde seyrediyor; bu oran, taşınan kargonun hacmi ve ağırlığı ile mevcut kapasiteyi ölçüyor.</p>
 <p><br></p>

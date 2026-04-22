@@ -1,14 +1,22 @@
 ---
-title: "Apple, Sorunlu Kaynak Kullanımı Gerekçesiyle 14 Tedarikçi ile Yollarını Ayırdı"
-subtitle: "Apple, Sorunlu Kaynak Kullanımı Gerekçesiyle 14 Tedarikçi ile Yollarını Ayırdı"
-date: "2024-04-25T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_472aa15e85f04a2f9ec3d8bc8385f074~mv2.jpg"
-imageAlt: "Apple, Sorumlu Kaynak Kullanımı Gerekçesiyle 14 Tedarikçi ile Yollarını Ayırdı"
-wixId: "80666337-80e9-4748-90e1-d3a17d809b45"
-author: "Sedat Onat"
+title: Apple, Sorunlu Kaynak Kullanımı Gerekçesiyle 14 Tedarikçi ile Yollarını Ayırdı
+subtitle: Apple, Sorunlu Kaynak Kullanımı Gerekçesiyle 14 Tedarikçi ile Yollarını Ayırdı
+date: '2024-04-25T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_472aa15e85f04a2f9ec3d8bc8385f074~mv2.jpg
+imageAlt: Apple, Sorumlu Kaynak Kullanımı Gerekçesiyle 14 Tedarikçi ile Yollarını Ayırdı
+wixId: 80666337-80e9-4748-90e1-d3a17d809b45
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Apple
+- tedarikçi yönetimi
+- çatışma mineralleri
+- sürdürülebilirlik
+- karbon nötr
+- SEC
+- tedarik zinciri
 ---
 <p>Apple, Kaynak kullanım standartlarını karşılamayan 14 tedarikçi ile geçtiğimiz yıl ilişkisini kesmiştir. Bu karar, Güvenlik ve Borsa Komisyonu'na sunulan Çatışma Mineralleri Raporu'na dayanmaktadır. Şirket, söz konusu eritme ve rafine tesislerinin üçüncü taraf denetimlerine katılmayı reddettiğini veya bu denetimleri tamamlayamadığını belirtmiştir. Apple, 2009 yılından bu yana toplamda 25 üretim tesis ve 231 tedarikçi ile yollarını ayırmıştır. Apple'ın tedarikçi davranış kodu, Birleşmiş Milletler gibi çeşitli uluslararası organizasyonların belirlediği kriterlere dayanmaktadır.</p>
 <p><br></p>

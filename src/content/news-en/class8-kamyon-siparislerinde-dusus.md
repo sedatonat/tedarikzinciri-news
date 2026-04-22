@@ -1,16 +1,24 @@
 ---
-title: "November 2025 Class 8 Truck Orders Plunge: Ten-Month Contraction Pressures 2026 Outlook"
-subtitle: "November 2025 Class 8 Truck Orders Plunge: Ten-Month Contraction Pressures 2026 Outlook"
-date: "2025-12-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_13cc595ab37c42dcb3bd17a8124aed62~mv2.jpg"
-imageAlt: "FTR and ACT Research preliminary data showing a sharp year-over-year decline in November 2025 Class 8 truck orders, highlighting weakening fleet investment appetite, risks to 2026 order cycles, and impacts of EPA'27 and tariff uncertainties"
-wixId: "4a59c88a-68f7-40e1-b281-5b0983df7640"
-author: "Sedat Onat"
+title: 'November 2025 Class 8 Truck Orders Plunge: Ten-Month Contraction Pressures 2026 Outlook'
+subtitle: 'November 2025 Class 8 Truck Orders Plunge: Ten-Month Contraction Pressures 2026 Outlook'
+date: '2025-12-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_13cc595ab37c42dcb3bd17a8124aed62~mv2.jpg
+imageAlt: FTR and ACT Research preliminary data showing a sharp year-over-year decline in November 2025 Class 8 truck orders, highlighting weakening fleet investment appetite, risks to 2026 order cycles, and impacts of EPA'27 and tariff uncertainties
+wixId: 4a59c88a-68f7-40e1-b281-5b0983df7640
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Class 8 truck
+- U.S. commercial vehicle
+- order decline
+- fleet management
+- freight demand
+- EPA regulations
+- FTR Research
+- ACT Research
 ---
-
 <p style="text-align: justify"><strong>Class 8 truck orders</strong>, a leading indicator of the U.S. heavy commercial vehicle market, continued their downward trajectory in November 2025. According to preliminary data released by <strong>FTR</strong> and <strong>ACT Research</strong>, November net orders showed pronounced contraction on both a monthly and year-over-year basis, signaling a weak start to 2026 for the sector.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>According to FTR data, November Class 8 net orders totaled 20,200 units</strong>. This figure represents:</p>

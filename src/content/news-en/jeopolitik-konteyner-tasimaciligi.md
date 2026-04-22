@@ -1,16 +1,24 @@
 ---
-title: "Geopolitics Is Redrawing Global Maritime Trade Routes"
-subtitle: "Geopolitics Is Redrawing Global Maritime Trade Routes"
-date: "2025-10-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c7bd84f0271542c8bae816de963e6108~mv2.jpg"
-imageAlt: "Geopolitics Is Redrawing Global Maritime Trade Routes"
-wixId: "271c2f2e-2f29-4d81-b6d2-aefc36ff84a6"
-author: "Sedat Onat"
+title: Geopolitics Is Redrawing Global Maritime Trade Routes
+subtitle: Geopolitics Is Redrawing Global Maritime Trade Routes
+date: '2025-10-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c7bd84f0271542c8bae816de963e6108~mv2.jpg
+imageAlt: Geopolitics Is Redrawing Global Maritime Trade Routes
+wixId: 271c2f2e-2f29-4d81-b6d2-aefc36ff84a6
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- geopolitics
+- maritime shipping
+- globalization
+- supply chain
+- US-China
+- friend-shoring
+- trade routes
+- Vietnam
 ---
-
 <p style="text-align: justify"><strong>Neil Shearing</strong>, chief economist at <strong>Capital Economics</strong> and author of <em>The Fractured Age</em>, emphasizes in his latest analysis that globalization has not died, but rather changed direction.</p>
 <p><br>
 Trade volumes continue to reach historic highs; ports are full, ships are operating.</p>

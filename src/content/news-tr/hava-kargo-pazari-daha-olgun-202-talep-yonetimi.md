@@ -1,14 +1,22 @@
 ---
-title: "Hava Kargo Pazarında Beklenen Kasım Hareketliliği Yerini Durgunluğa Bırakıyor"
-subtitle: "Hava Kargo Pazarında Beklenen Kasım Hareketliliği Yerini Durgunluğa Bırakıyor"
-date: "2024-12-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ed548aad62fb4fa09d2730d1219fbd30~mv2.jpg"
-imageAlt: "Hava Kargo Pazarında Beklenen Kasım Hareketliliği Yerini Durgunluğa Bırakıyor"
-wixId: "63a97eee-0312-4c09-8afd-e0138bfe01eb"
-author: "Sedat Onat"
+title: Hava Kargo Pazarında Beklenen Kasım Hareketliliği Yerini Durgunluğa Bırakıyor
+subtitle: Hava Kargo Pazarında Beklenen Kasım Hareketliliği Yerini Durgunluğa Bırakıyor
+date: '2024-12-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_ed548aad62fb4fa09d2730d1219fbd30~mv2.jpg
+imageAlt: Hava Kargo Pazarında Beklenen Kasım Hareketliliği Yerini Durgunluğa Bırakıyor
+wixId: 63a97eee-0312-4c09-8afd-e0138bfe01eb
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- hava kargo
+- Xeneta
+- peak season
+- dijitalleşme
+- talep yönetimi
+- navlun ücretleri
+- e-ticaret
 ---
 <p>Uzman, hava kargo pazarında geleneksel olarak Kasım ayının yüksek talep ve artan fiyatlar ile geçtiğini belirtse de, bu yıl beklenen hareketliliğin görülmediğini ifade ediyor. Hava taşımacılığının pandemi sonrasındaki gelişmiş altyapısı ve lojistik ağlarındaki iyileştirmeler, talep dalgalanmalarına daha hızlı yanıt veren bir sektör oluşturmuş durumda. Bu sayede sezonluk ani artışlar yerine daha istikrarlı bir rota izleniyor. Uzman buna “maturite” süreci diyor.</p>
 <p><br></p>

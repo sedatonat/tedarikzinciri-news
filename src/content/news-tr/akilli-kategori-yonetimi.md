@@ -1,14 +1,23 @@
 ---
-title: "Akıllı Kategori Yönetimi Ve Doğrudan Malzemede Beş Zorluk"
-subtitle: "Akıllı Kategori Yönetimi Ve Doğrudan Malzemede Beş Zorluk"
-date: "2025-03-11T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_4ac5c7f94dae47428cab67911e864593~mv2.png"
-imageAlt: "Akıllı Kategori Yönetimi Ve Doğrudan Malzemede Beş Zorluk"
-wixId: "29164fb0-ad6f-42c1-96ba-6f32000b2ea0"
-author: "Sedat Onat"
+title: Akıllı Kategori Yönetimi Ve Doğrudan Malzemede Beş Zorluk
+subtitle: Akıllı Kategori Yönetimi Ve Doğrudan Malzemede Beş Zorluk
+date: '2025-03-11T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_4ac5c7f94dae47428cab67911e864593~mv2.png
+imageAlt: Akıllı Kategori Yönetimi Ve Doğrudan Malzemede Beş Zorluk
+wixId: 29164fb0-ad6f-42c1-96ba-6f32000b2ea0
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- kategori yönetimi
+- doğrudan malzeme
+- tedarik zinciri
+- yapay zeka
+- AI
+- should-cost
+- TCO
+- veri yönetişimi
 ---
 <p style="text-align: justify"><strong>Akıllı kategori yönetimi (Intelligent Category Management)</strong>, doğrudan malzeme tedarikinde <strong>stratejik değer yaratmanın</strong> en güçlü kaldıraçlarından biri haline gelmiştir. Ancak bu dönüşüm süreci, kurumların karşısına hem <strong>veri hem organizasyon hem de teknoloji</strong> boyutunda beş temel zorluk çıkarmaktadır.</p>
 <p style="text-align: justify"><br></p>

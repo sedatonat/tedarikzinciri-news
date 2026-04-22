@@ -1,14 +1,22 @@
 ---
-title: "Baltimore Köprüsüne Çarpan Dali Nihayet Kurtarıldı"
-subtitle: "Baltimore Köprüsüne Çarpan Dali Nihayet Kurtarıldı"
-date: "2024-05-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2b3df508f0cb4f2ca5ff2f4ba2bf5b3f~mv2.jpg"
-imageAlt: "Baltimore Köprüsüne Çarpan Dali Nihayet Kurtarıldı"
-wixId: "83722f0e-aca9-4a3f-b2a4-0d53b4d4c3c2"
-author: "Sedat Onat"
+title: Baltimore Köprüsüne Çarpan Dali Nihayet Kurtarıldı
+subtitle: Baltimore Köprüsüne Çarpan Dali Nihayet Kurtarıldı
+date: '2024-05-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2b3df508f0cb4f2ca5ff2f4ba2bf5b3f~mv2.jpg
+imageAlt: Baltimore Köprüsüne Çarpan Dali Nihayet Kurtarıldı
+wixId: 83722f0e-aca9-4a3f-b2a4-0d53b4d4c3c2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Dali
+- Baltimore
+- konteyner gemisi
+- köprü kazası
+- kurtarma operasyonu
+- Francis Scott Key Köprüsü
+- liman operasyonları
 ---
 <p>Baltimore, Maryland'de bulunan <a href="https://www.tedarikzinciriportali.com/post/maersk-baltimore-koprusu-kazasi"><u>Francis Scott Key Köprüsü</u></a>'nün enkazından Dali adlı konteyner gemisi, 55 gün sonra kurtarıldı. ABD Ordusu Mühendislik Birimi'nin bildirdiğine göre, gemi, uygun çevresel koşullar altında römorkörler yardımıyla taşındı. NBC News'e göre, römorkörler Dali'yi serbest bırakıldıktan sonra yaklaşık 1 mil hızla 2,5 mil uzaklıktaki yerel bir limana doğru yönlendirdi.&nbsp;</p>
 <p><br></p>

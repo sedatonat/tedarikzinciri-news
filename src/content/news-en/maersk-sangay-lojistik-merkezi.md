@@ -1,16 +1,24 @@
 ---
-title: "Maersk Opens $140 Million Flagship Logistics Center in Shanghai"
-subtitle: "Maersk Opens $140 Million Flagship Logistics Center in Shanghai"
-date: "2025-11-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_391718d129434643beeb81e1f3b8d1cf~mv2.jpg"
-imageAlt: "Maersk opened its new flagship storage and logistics center of 113,000 m² in Shanghai Lin-gang, consolidating 147,000 m² of storage capacity, omnichannel fulfilment services, AEO certification, and an integrated ocean-air-land network under one roof."
-wixId: "3f071660-cefb-4e01-a562-c045b8034b9e"
-author: "Sedat Onat"
+title: Maersk Opens $140 Million Flagship Logistics Center in Shanghai
+subtitle: Maersk Opens $140 Million Flagship Logistics Center in Shanghai
+date: '2025-11-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_391718d129434643beeb81e1f3b8d1cf~mv2.jpg
+imageAlt: Maersk opened its new flagship storage and logistics center of 113,000 m² in Shanghai Lin-gang, consolidating 147,000 m² of storage capacity, omnichannel fulfilment services, AEO certification, and an integrated ocean-air-land network under one roof.
+wixId: 3f071660-cefb-4e01-a562-c045b8034b9e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Maersk
+- Shanghai
+- logistics center
+- warehousing
+- China
+- AEO certificate
+- omnichannel fulfilment
+- e-commerce logistics
 ---
-
 <p style="text-align: justify">A.P. Moller–Maersk has formally opened its <strong>$140 million flagship logistics center</strong> in Shanghai's Lin-gang district, marking one of the company's largest warehouse investments on a global scale. The facility, built on a <strong>113,000 square-meter site</strong>, offers a total of <strong>147,000 square meters of storage capacity</strong> and aims to make trade flows between China and the Asia-Pacific region faster, more flexible, and more resilient.</p>
 <p><br></p>
 <p style="text-align: justify">Maersk CEO <strong>Vincent Clerc</strong> highlighted at the opening that China is both the world's largest exporter and one of the most important consumer markets:</p>

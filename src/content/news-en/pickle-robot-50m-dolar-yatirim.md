@@ -1,16 +1,24 @@
 ---
-title: "Pickle Robot Raises $50 Million to Transform Truck Unloading with AI"
-subtitle: "Pickle Robot Raises $50 Million to Transform Truck Unloading with AI"
-date: "2024-11-20T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_00537493dea0489ea9ad2d51fc79a894~mv2.jpg"
-imageAlt: "Pickle Robot Raises $50 Million to Transform Truck Unloading with AI"
-wixId: "1224c0b3-224d-4b94-aa9b-e9cb2aa192db"
-author: "Sedat Onat"
+title: Pickle Robot Raises $50 Million to Transform Truck Unloading with AI
+subtitle: Pickle Robot Raises $50 Million to Transform Truck Unloading with AI
+date: '2024-11-20T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_00537493dea0489ea9ad2d51fc79a894~mv2.jpg
+imageAlt: Pickle Robot Raises $50 Million to Transform Truck Unloading with AI
+wixId: 1224c0b3-224d-4b94-aa9b-e9cb2aa192db
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Pickle Robot
+- artificial intelligence
+- automation
+- truck unloading
+- warehouse automation
+- Series B
+- robotics
+- logistics technology
 ---
-
 <p>Pickle Robot, a robotics firm focused on automating truck unloading, has announced it has raised $50 million in Series B funding. Investors in the round include major firms such as Teradyne Robotics Ventures, Toyota Ventures, and Ranpak. The capital will be directed toward product development and the company's expansion into new markets.</p>
 <p><br></p>
 <p>In the third quarter of 2024, Pickle received orders for over 30 production robots from six customers. These orders encompass pilot program transitions to be deployed in 2025, expansions from existing customers, and new customer additions. "Pickle Robot customers are experiencing the value of Physical AI applied to a widespread logistics process that challenges thousands of operations daily," said AJ Meyer, Pickle Robot's CEO and founder.</p>

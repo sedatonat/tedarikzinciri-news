@@ -1,14 +1,23 @@
 ---
-title: "Malezya Merkezli Uni-Fleet, Bakım ve Satınalma Operasyonlarını Optimize Etmek için ABS"
-subtitle: "Malezya Merkezli Uni-Fleet, Bakım ve Satınalma Operasyonlarını Optimize Etmek için ABS"
-date: "2024-12-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_48a602b832bf4f83a75a6cd2e974c96a~mv2.png"
-imageAlt: "Malezya Merkezli Uni-Fleet, Bakım ve Satın Alma Operasyonlarını Optimize Etmek İçin ABS"
-wixId: "d5fbb1b6-18e3-4a50-991b-9819bee0f06f"
-author: "Sedat Onat"
+title: Malezya Merkezli Uni-Fleet, Bakım ve Satınalma Operasyonlarını Optimize Etmek için ABS
+subtitle: Malezya Merkezli Uni-Fleet, Bakım ve Satınalma Operasyonlarını Optimize Etmek için ABS
+date: '2024-12-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_48a602b832bf4f83a75a6cd2e974c96a~mv2.png
+imageAlt: Malezya Merkezli Uni-Fleet, Bakım ve Satın Alma Operasyonlarını Optimize Etmek İçin ABS
+wixId: d5fbb1b6-18e3-4a50-991b-9819bee0f06f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- denizcilik yazılımı
+- bakım yönetimi
+- satınalma optimizasyonu
+- ABS Wavesight
+- filo yönetimi
+- dijital dönüşüm
+- tanker işletmeciliği
+- Malezya
 ---
 <p>Malezya merkezli <strong>UNI-FLEET SDN BHD</strong>, Asya'da amonyak taşımacılığına odaklanan özel bir tanker işletmecisidir. Şirket, bakım ve envanter süreçlerini iyileştirmek amacıyla <strong>ABS Wavesight™</strong>'ın <strong>Nautical Systems (NS) Maintenance Manager</strong> ve <strong>Purchasing Manager</strong> modüllerini uygulamaya karar vermiştir.</p>
 <p><br></p>

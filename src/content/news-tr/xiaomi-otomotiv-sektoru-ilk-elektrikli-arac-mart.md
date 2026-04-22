@@ -1,14 +1,22 @@
 ---
-title: "Xiaomi'den Otomotiv Sektörüne Büyük Adım: İlk Elektrikli Araç Mart'ta Yollarda"
-subtitle: "Xiaomi'den Otomotiv Sektörüne Büyük Adım: İlk Elektrikli Araç Mart'ta Yollarda"
-date: "2024-03-12T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_a96f84eb2d504b30a4a4317922e8b587~mv2.jpg"
-imageAlt: "Xiaomi'den Otomotiv Sektörüne Büyük Adım: İlk Elektrikli Araç Mart'ta Yollarda"
-wixId: "62d23cf1-db62-431b-b511-6c47d809fab5"
-author: "Sedat Onat"
+title: 'Xiaomi''den Otomotiv Sektörüne Büyük Adım: İlk Elektrikli Araç Mart''ta Yollarda'
+subtitle: 'Xiaomi''den Otomotiv Sektörüne Büyük Adım: İlk Elektrikli Araç Mart''ta Yollarda'
+date: '2024-03-12T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_a96f84eb2d504b30a4a4317922e8b587~mv2.jpg
+imageAlt: 'Xiaomi''den Otomotiv Sektörüne Büyük Adım: İlk Elektrikli Araç Mart''ta Yollarda'
+wixId: 62d23cf1-db62-431b-b511-6c47d809fab5
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Xiaomi
+- elektrikli araç
+- Çin
+- otomotiv sektörü
+- Tesla
+- BYD
+- fiyat savaşı
 ---
 <p>Xiaomi, rekabetçi otomotiv sektörüne ilk adımını atarak Mart ayında ilk elektrikli aracının (EV) teslimatına başlayacağını duyurdu. Bu girişim, BBC News'a göre, teknoloji devinin otomotiv endüstrisine ilk girişi olacak ve aracın fiyatı 28 Mart'ta açıklanacak. Çin'de beşinci en büyük akıllı telefon üreticisi olan Xiaomi, 29 şehirdeki 59 mağazasıyla sipariş almaya hazır olduğunu belirtiyor. EV üreticileri arasında, dünyanın en büyük otomobil pazarı olan Çin'de fiyat savaşları kızışırken, Xiaomi'nin bu duyurusu geldi.&nbsp;</p>
 <p><br></p>

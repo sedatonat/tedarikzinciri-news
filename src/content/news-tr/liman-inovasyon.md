@@ -1,14 +1,23 @@
 ---
-title: "Limanlar, Ekim 2025’te Zorluklara Rağmen Dijitalleşme ve Yenilik Yatırımlarını Hızlandırdı"
-subtitle: "Limanlar, Ekim 2025’te Zorluklara Rağmen Dijitalleşme ve Yenilik Yatırımlarını Hızlandırdı"
-date: "2025-11-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9388e3fd635c4a62b2dfa24ce4b9842f~mv2.jpg"
-imageAlt: "Ekim 2025, küresel deniz ticareti ve liman operasyonları açısından yoğun yatırım, otomasyon ve dijital dönüşüm projeleriyle dikkat çekti. DP World’ün Afrika ve Avrupa’daki yeni girişimleri, Süveyş Kanalı’nın yeniden açılma beklentisi ve işçi grevlerinin etkileri, sektörde hem fırsatları hem de kırılganlıkları ortaya koydu."
-wixId: "9e5a762f-d5b0-49db-aba8-d05e5ab346b0"
-author: "Sedat Onat"
+title: Limanlar, Ekim 2025’te Zorluklara Rağmen Dijitalleşme ve Yenilik Yatırımlarını Hızlandırdı
+subtitle: Limanlar, Ekim 2025’te Zorluklara Rağmen Dijitalleşme ve Yenilik Yatırımlarını Hızlandırdı
+date: '2025-11-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_9388e3fd635c4a62b2dfa24ce4b9842f~mv2.jpg
+imageAlt: Ekim 2025, küresel deniz ticareti ve liman operasyonları açısından yoğun yatırım, otomasyon ve dijital dönüşüm projeleriyle dikkat çekti. DP World’ün Afrika ve Avrupa’daki yeni girişimleri, Süveyş Kanalı’nın yeniden açılma beklentisi ve işçi grevlerinin etkileri, sektörde hem fırsatları hem de kırılganlıkları ortaya koydu.
+wixId: 9e5a762f-d5b0-49db-aba8-d05e5ab346b0
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- liman operasyonları
+- dijitalleşme
+- otomasyon
+- DP World
+- Süveyş Kanalı
+- yapay zeka
+- akıllı liman
+- işçi grevleri
 ---
 <p style="text-align: justify"><strong>Ekim 2025</strong>, küresel deniz ticareti ve liman operasyonları açısından <strong>yoğun yatırım, otomasyon ve dijital dönüşüm projeleriyle</strong> dikkat çekti. <strong>DP World’ün Afrika ve Avrupa’daki yeni girişimleri</strong>, <strong>Süveyş Kanalı’nın yeniden açılma beklentisi</strong> ve <strong>işçi grevlerinin etkileri</strong>, sektörde hem fırsatları hem de kırılganlıkları ortaya koydu.</p>
 <p><br></p>

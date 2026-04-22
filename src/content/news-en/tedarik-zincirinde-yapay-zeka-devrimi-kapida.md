@@ -1,16 +1,23 @@
 ---
-title: "Artificial Intelligence Revolution Looms in Supply Chains"
-subtitle: "Artificial Intelligence Revolution Looms in Supply Chains"
-date: "2024-10-10T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_ae58d9106a7a472f8392c6ba0317c01e~mv2.jpg"
-imageAlt: "Artificial Intelligence Revolution Looms in Supply Chains"
-wixId: "cad0ef47-1fed-4525-ad08-bfc6c9cfed31"
-author: "Sedat Onat"
+title: Artificial Intelligence Revolution Looms in Supply Chains
+subtitle: Artificial Intelligence Revolution Looms in Supply Chains
+date: '2024-10-10T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_ae58d9106a7a472f8392c6ba0317c01e~mv2.jpg
+imageAlt: Artificial Intelligence Revolution Looms in Supply Chains
+wixId: cad0ef47-1fed-4525-ad08-bfc6c9cfed31
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- artificial intelligence
+- supply chain
+- generative AI
+- automation
+- procurement
+- sustainability
+- digital transformation
 ---
-
 <p>Remko van Hoek, professor of Supply Chain Management at the University of Arkansas, emphasized the need for a fundamental rethinking of procurement processes at the Digital Procurement World (DPW) 2024 conference in Amsterdam, stating that "procurement will look very different within a year or a year and a half."</p>
 <p><br></p>
 <p>The conference highlighted that supply chains will undergo radical automation transformation through the adoption of large language model artificial intelligence and generative AI technologies. However, it was noted that most companies are lagging in this transformation, with progress in supply process automation ranging between 15% and 50%.</p>

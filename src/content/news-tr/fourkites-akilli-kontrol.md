@@ -1,14 +1,22 @@
 ---
-title: "FourKites, Gelişmiş Tedarik Zinciri Otomasyonu İçin Akıllı Kontrol Kulesi'ni Tanıttı"
-subtitle: "FourKites, Gelişmiş Tedarik Zinciri Otomasyonu İçin Akıllı Kontrol Kulesi'ni Tanıttı"
-date: "2025-01-16T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_0f0566c04f5640ea9f6412c6c814b418~mv2.jpg"
-imageAlt: "FourKites, Gelişmiş Tedarik Zinciri Otomasyonu İçin Akıllı Kontrol Kulesi'ni Tanıttı"
-wixId: "94c87535-4e1f-4b33-bbd3-ca0a344d25a2"
-author: "Sedat Onat"
+title: FourKites, Gelişmiş Tedarik Zinciri Otomasyonu İçin Akıllı Kontrol Kulesi'ni Tanıttı
+subtitle: FourKites, Gelişmiş Tedarik Zinciri Otomasyonu İçin Akıllı Kontrol Kulesi'ni Tanıttı
+date: '2025-01-16T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_0f0566c04f5640ea9f6412c6c814b418~mv2.jpg
+imageAlt: FourKites, Gelişmiş Tedarik Zinciri Otomasyonu İçin Akıllı Kontrol Kulesi'ni Tanıttı
+wixId: 94c87535-4e1f-4b33-bbd3-ca0a344d25a2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- FourKites
+- kontrol kulesi
+- yapay zeka
+- tedarik zinciri otomasyonu
+- dijital ikiz
+- gerçek zamanlı görünürlük
+- AI
 ---
 <p style="text-align: justify"><strong>FourKites</strong>, tedarik zinciri operasyonlarını ileriye taşımak amacıyla <strong>Intelligent Control Tower™</strong> platformunu tanıttı. Bu platform, gerçek zamanlı veri, dijital ikizler ve yapay zekâ destekli otomasyonu entegre ederek geleneksel kontrol kulelerinden farklılaşmakta. Geleneksel kontrol kuleleri genellikle geriye dönük analizlere odaklanırken, <strong>Intelligent Control Tower</strong>, tedarik zinciri iş akışlarında proaktif karar alma ve otonom eylemleri mümkün kılmakta. ​<a href="https://www.porttechnology.org/news/fourkites-launches-intelligent-control-tower-for-advanced-supply-chain-automation/" rel="noopener" target="_blank">porttechnology.org</a></p>
 <p><br></p>

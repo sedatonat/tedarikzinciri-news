@@ -1,16 +1,23 @@
 ---
-title: "Green Procurement: The Most Effective Resistance Strategy Against Tariff Pressures"
-subtitle: "Green Procurement: The Most Effective Resistance Strategy Against Tariff Pressures"
-date: "2025-10-10T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_cd0dc1128d584647854f1223dcd87bf0~mv2.jpg"
-imageAlt: "Green Procurement: The Most Effective Resistance Strategy Against Tariff Pressures"
-wixId: "f8ebbf59-85f0-4fd6-9604-10888927b11f"
-author: "Sedat Onat"
+title: 'Green Procurement: The Most Effective Resistance Strategy Against Tariff Pressures'
+subtitle: 'Green Procurement: The Most Effective Resistance Strategy Against Tariff Pressures'
+date: '2025-10-10T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_cd0dc1128d584647854f1223dcd87bf0~mv2.jpg
+imageAlt: 'Green Procurement: The Most Effective Resistance Strategy Against Tariff Pressures'
+wixId: f8ebbf59-85f0-4fd6-9604-10888927b11f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- green procurement
+- automotive supply chain
+- tariff
+- Canada
+- sustainability
+- supplier management
+- organizational resilience
 ---
-
 <p style="text-align: justify"><strong>The 2025 U.S.–Canada automotive trade dispute</strong> is being assessed as one of the most serious supply chain disruptions in recent years.</p>
 <p><br>
  <strong>As of April 2025</strong>, <strong>25% customs tariffs</strong> came into effect, particularly impacting <strong>small-scale Canadian automotive parts manufacturers (SSAP)</strong> severely.</p>

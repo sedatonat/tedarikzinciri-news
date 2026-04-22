@@ -1,14 +1,22 @@
 ---
-title: "ABD Tarifeleri Sürerken Kanada’da Perakende Satışlar Üçüncü Çeyrekte Yavaşladı"
-subtitle: "ABD Tarifeleri Sürerken Kanada’da Perakende Satışlar Üçüncü Çeyrekte Yavaşladı"
-date: "2025-11-21T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_68e36d43cf534371b9c48cb343d45257~mv2.jpg"
-imageAlt: "Kanada’da perakende satışlar, ABD ile devam eden ticaret savaşı, yavaşlayan nüfus artışı ve tüketici temkinliliği nedeniyle 2025’in üçüncü çeyreğinde belirgin şekilde yavaşladı. Özellikle otomotiv satışları, ABD tarifelerinin etkisiyle sert düşüş gösterdi."
-wixId: "75ec1c9f-d451-494e-bee2-432cf08d442c"
-author: "Sedat Onat"
+title: ABD Tarifeleri Sürerken Kanada’da Perakende Satışlar Üçüncü Çeyrekte Yavaşladı
+subtitle: ABD Tarifeleri Sürerken Kanada’da Perakende Satışlar Üçüncü Çeyrekte Yavaşladı
+date: '2025-11-21T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_68e36d43cf534371b9c48cb343d45257~mv2.jpg
+imageAlt: Kanada’da perakende satışlar, ABD ile devam eden ticaret savaşı, yavaşlayan nüfus artışı ve tüketici temkinliliği nedeniyle 2025’in üçüncü çeyreğinde belirgin şekilde yavaşladı. Özellikle otomotiv satışları, ABD tarifelerinin etkisiyle sert düşüş gösterdi.
+wixId: 75ec1c9f-d451-494e-bee2-432cf08d442c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kanada
+- perakende satışlar
+- ABD tarifeleri
+- otomotiv sektörü
+- tüketici harcamaları
+- merkez bankası
+- ticaret gerilimi
 ---
 <p style="text-align: justify"><strong>Kanada ekonomisi</strong>, üçüncü çeyrekte <strong>tüketici harcamalarındaki zayıflama</strong> ve <strong>ABD ile süregelen ticaret geriliminin</strong> etkileriyle önemli bir yavaşlama yaşadı. <strong>Statistics Canada</strong> verilerine göre, perakende satışlar <strong>Temmuz–Eylül döneminde yalnızca %0,2 arttı</strong>. Bu oran, ikinci çeyrekteki %0,3’lük artışın da altında kalarak <strong>son bir yılın en zayıf perakende performansı</strong> oldu.</p>
 <p style="text-align: justify"><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "Procter & Gamble: Impact of TMS Outage on Operations"
-subtitle: "Procter & Gamble: Impact of TMS Outage on Operations"
-date: "2025-01-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_af879fef607b40c6995ef30f3e8c09e1~mv2.jpg"
-imageAlt: "Procter & Gamble: Impact of TMS Outage on Operations"
-wixId: "6dd5ca3b-00f7-4c52-aabb-b548cf220f99"
-author: "Sedat Onat"
+title: 'Procter & Gamble: Impact of TMS Outage on Operations'
+subtitle: 'Procter & Gamble: Impact of TMS Outage on Operations'
+date: '2025-01-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_af879fef607b40c6995ef30f3e8c09e1~mv2.jpg
+imageAlt: 'Procter & Gamble: Impact of TMS Outage on Operations'
+wixId: 6dd5ca3b-00f7-4c52-aabb-b548cf220f99
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Procter & Gamble
+- Blue Yonder
+- TMS
+- system outage
+- supply chain
+- logistics operations
+- technology dependency
+- business continuity
 ---
-
 <p style="text-align: justify">Procter &amp; Gamble (<strong>P&amp;G</strong>) is experiencing significant disruptions to its logistics operations due to a major outage in its <strong>Blue Yonder</strong> transportation management system (<strong>TMS</strong>), a critical tool used in supply chain management. The outage began in <strong>February 2024</strong> and has continued to negatively impact <strong>P&amp;G</strong>'s shipping processes. The company is working with <strong>Blue Yonder</strong> as well as exploring alternative solutions to resolve the issue.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">The ongoing outage has once again highlighted <strong>P&amp;G</strong>'s operational risks and dependency on technology. <strong>Blue Yonder</strong> serves as one of the primary systems managing <strong>P&amp;G</strong>'s transportation operations. However, the unexpected system failure is making it difficult for the company to execute shipments on time. <strong>P&amp;G</strong> is deploying manual methods and alternative technological solutions to minimize delays in its logistics processes.</p>

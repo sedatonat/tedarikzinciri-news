@@ -1,14 +1,23 @@
 ---
-title: "İçviçreli Yük Taşıma Devi Kuehne+Nagel, Kanada 'lı Broker Firması Farrow 'u Satın Alarak Kuzey Amerika 'daki Varlığını Güçlendirdi"
-subtitle: "İçviçreli Yük Taşıma Devi Kuehne+Nagel, Kanada 'lı Broker Firması Farrow 'u Satın Alarak Kuzey Amerika 'daki Varlığını Güçlendirdi"
-date: "2023-11-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_986390c0dfbc49e3a006a8a07baff8b9~mv2.jpg"
-imageAlt: "İçviçreli Yük Taşıma Devi Kuehne+Nagel, Kanada 'lı Broker Firması Farrow 'u Satın Alarak Kuzey Amerika 'daki Varlığını Güçlendirdi"
-wixId: "e13da3a5-6a6b-44bc-a99a-be4afa0c0eac"
-author: "Sedat Onat"
+title: İçviçreli Yük Taşıma Devi Kuehne+Nagel, Kanada 'lı Broker Firması Farrow 'u Satın Alarak Kuzey Amerika 'daki Varlığını Güçlendirdi
+subtitle: İçviçreli Yük Taşıma Devi Kuehne+Nagel, Kanada 'lı Broker Firması Farrow 'u Satın Alarak Kuzey Amerika 'daki Varlığını Güçlendirdi
+date: '2023-11-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_986390c0dfbc49e3a006a8a07baff8b9~mv2.jpg
+imageAlt: İçviçreli Yük Taşıma Devi Kuehne+Nagel, Kanada 'lı Broker Firması Farrow 'u Satın Alarak Kuzey Amerika 'daki Varlığını Güçlendirdi
+wixId: e13da3a5-6a6b-44bc-a99a-be4afa0c0eac
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kuehne+Nagel
+- Farrow
+- satın alma
+- gümrük brokerı
+- Kuzey Amerika
+- Kanada
+- lojistik
+- tedarik zinciri
 ---
 <p>İsviçreli yük taşıma şirketi <a href="https://home.kuehne-nagel.com/"><u>Kuehne+Nagel</u></a>, 1911 yılında kurulan Kanada merkezli bir gümrük aracısı (Broker) olan <a href="https://farrow.com/"><u>Farrow</u></a><u> </u>'u satın aldı. Bu satın alma ile Kuehne+Nagel, Kuzey Amerika'daki varlığını genişletmeyi ve ABD sınırlarındaki Kanada ve Meksika ile olan yeteneklerini güçlendirmeyi amaçlamakta.</p>
 <p><br></p>

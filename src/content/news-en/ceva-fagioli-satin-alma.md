@@ -1,16 +1,23 @@
 ---
-title: "CEVA Logistics Acquires Heavy Hauling Specialist Fagioli Group"
-subtitle: "CEVA Logistics Acquires Heavy Hauling Specialist Fagioli Group"
-date: "2025-12-15T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_b4dc0cabd16146e1a71812ec33caae77~mv2.jpg"
-imageAlt: "Detailed sector overview addressing CEVA Logistics' acquisition of Fagioli Group, providing end-to-end competency in heavy hauling, project logistics, and complex cargo operations"
-wixId: "f618d5e5-da03-4097-bec2-eb897752d49f"
-author: "Sedat Onat"
+title: CEVA Logistics Acquires Heavy Hauling Specialist Fagioli Group
+subtitle: CEVA Logistics Acquires Heavy Hauling Specialist Fagioli Group
+date: '2025-12-15T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_b4dc0cabd16146e1a71812ec33caae77~mv2.jpg
+imageAlt: Detailed sector overview addressing CEVA Logistics' acquisition of Fagioli Group, providing end-to-end competency in heavy hauling, project logistics, and complex cargo operations
+wixId: f618d5e5-da03-4097-bec2-eb897752d49f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- CEVA Logistics
+- Fagioli Group
+- acquisition
+- project logistics
+- heavy lift transportation
+- CMA CGM
+- Italy
 ---
-
 <p style="text-align: justify">Global logistics player <strong>CEVA Logistics</strong> has signed an agreement to acquire 100 percent of Italy-based <strong>Fagioli Group</strong>, aimed at expanding its capabilities in project logistics and heavy hauling. The transaction is subject to necessary <strong>regulatory approvals</strong>, and financial details have not been disclosed. The move demonstrates CEVA's progression toward a stronger position in complex, engineered logistics projects.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Fagioli Group</strong> is recognized globally as a project logistics specialist in <strong>engineered transportation</strong>, <strong>heavy hauling</strong>, and <strong>lifting operations</strong>. The company manages some of the world's most complex project cargo within large-scale <strong>infrastructure</strong>, <strong>energy</strong>, and <strong>industrial projects</strong>. In 2024, Fagioli generated revenue of <strong>251 million USD</strong>, demonstrating its strong position in a niche but high-value-added market segment.</p>

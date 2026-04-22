@@ -1,14 +1,23 @@
 ---
-title: "İsrail 'in Filistin 'e Saldırısı Sebebi ile Suezh Kanalı da Artık Güvenli olmaktan Uzaklaşıyor"
-subtitle: "İsrail 'in Filistin 'e Saldırısı Sebebi ile Suezh Kanalı da Artık Güvenli olmaktan Uzaklaşıyor"
-date: "2023-12-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6d47efac409044528f3836eb4a5588da~mv2.jpg"
-imageAlt: "İsrail 'in Filistin 'e Saldırısı Sebebi ile Suezh Kanalı da Artık Güvenli olmaktan Uzaklaşıyor"
-wixId: "7c389533-d3e9-4698-98d0-d2b919c94813"
-author: "Sedat Onat"
+title: İsrail 'in Filistin 'e Saldırısı Sebebi ile Suezh Kanalı da Artık Güvenli olmaktan Uzaklaşıyor
+subtitle: İsrail 'in Filistin 'e Saldırısı Sebebi ile Suezh Kanalı da Artık Güvenli olmaktan Uzaklaşıyor
+date: '2023-12-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_6d47efac409044528f3836eb4a5588da~mv2.jpg
+imageAlt: İsrail 'in Filistin 'e Saldırısı Sebebi ile Suezh Kanalı da Artık Güvenli olmaktan Uzaklaşıyor
+wixId: 7c389533-d3e9-4698-98d0-d2b919c94813
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Süveyş Kanalı
+- Kızıldeniz
+- konteyner gemisi
+- Maersk
+- Hapag-Lloyd
+- jeopolitik risk
+- tedarik zinciri
+- Husi saldırıları
 ---
 <p>İsrail 'in Fİlistin 'e Saldırısı nedeniyle Kızıldeniz'de kargo gemilerine yapılan füze saldırıları sonucunda önemli lojistik koridorlarından Süveyş Kanalı üzerinden konteyner gemilerinin akışının kesintiye uğradığı belirtiliyor.&nbsp;</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Konteyner Hatlarının 2025'te Karlılığı Sürdürmesi Bekleniyor"
-subtitle: "Konteyner Hatlarının 2025'te Karlılığı Sürdürmesi Bekleniyor"
-date: "2024-12-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ac4cce78292d4be48b69c5810be5f15d~mv2.jpg"
-imageAlt: "Konteyner Hatlarının 2025'te Karlılığı Sürdürmesi Bekleniyor"
-wixId: "f911df52-d774-40f5-9d78-2b01bbde11a5"
-author: "Sedat Onat"
+title: Konteyner Hatlarının 2025'te Karlılığı Sürdürmesi Bekleniyor
+subtitle: Konteyner Hatlarının 2025'te Karlılığı Sürdürmesi Bekleniyor
+date: '2024-12-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_ac4cce78292d4be48b69c5810be5f15d~mv2.jpg
+imageAlt: Konteyner Hatlarının 2025'te Karlılığı Sürdürmesi Bekleniyor
+wixId: f911df52-d774-40f5-9d78-2b01bbde11a5
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- konteyner taşımacılığı
+- Süveyş Kanalı
+- Maersk
+- Hapag-Lloyd
+- Kızıldeniz
+- liman grevi
+- deniz taşımacılığı
 ---
 <p>Konteyner taşımacılığı sektörü, 2025 yılında da karlılığını sürdürmeye hazırlanıyor. Analistler, deniz taşımacılığındaki kapasite fazlalığına rağmen, Süveyş Kanalı'ndaki yönlendirmeler ve sağlıklı hacimlerin gemi arzını sıkı tutacağını öngörüyor.</p>
 <p><br></p>

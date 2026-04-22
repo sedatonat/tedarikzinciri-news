@@ -1,14 +1,21 @@
 ---
-title: "Yurtiçi Kargo'dan Eskişehir’e Teknolojik Devrim: Robotik Otomasyon Merkezi"
-subtitle: "Yurtiçi Kargo'dan Eskişehir’e Teknolojik Devrim: Robotik Otomasyon Merkezi"
-date: "2024-02-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_64917f61b5e14422baac9c95368dad6b~mv2.jpg"
-imageAlt: "Yurtiçi Kargo'dan Eskişehir’e Teknolojik Devrim: Robotik Otomasyon Merkezi"
-wixId: "cf33007e-e534-4a04-9031-69e13311ae45"
-author: "Sedat Onat"
+title: 'Yurtiçi Kargo''dan Eskişehir’e Teknolojik Devrim: Robotik Otomasyon Merkezi'
+subtitle: 'Yurtiçi Kargo''dan Eskişehir’e Teknolojik Devrim: Robotik Otomasyon Merkezi'
+date: '2024-02-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_64917f61b5e14422baac9c95368dad6b~mv2.jpg
+imageAlt: 'Yurtiçi Kargo''dan Eskişehir’e Teknolojik Devrim: Robotik Otomasyon Merkezi'
+wixId: cf33007e-e534-4a04-9031-69e13311ae45
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Yurtiçi Kargo
+- robotik otomasyon
+- transfer merkezi
+- Eskişehir
+- lojistik teknolojisi
+- IoT
 ---
 <p>Yurtiçi Kargo, lojistik alanında teknolojik yatırımlarını sürdürüyor. Geçen Eylül ayında duyurulan iki büyük otomasyon merkezi projesinin ilki olan Eskişehir Otomasyonlu Transfer Merkezi'nin açılışı gerçekleştirildi.&nbsp;</p>
 <p><br></p>

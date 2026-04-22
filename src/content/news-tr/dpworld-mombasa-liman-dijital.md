@@ -1,14 +1,23 @@
 ---
-title: "DP World, Kenya’da Dijital Liman Topluluk Sistemi’ni Başlattı"
-subtitle: "DP World, Kenya’da Dijital Liman Topluluk Sistemi’ni Başlattı"
-date: "2025-10-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d12623df9c674ae28bf1b1370b14e5c7~mv2.png"
-imageAlt: "DP World, Kenya’da Dijital Liman Topluluk Sistemi’ni Başlattı"
-wixId: "7937a3eb-d46d-4723-ae86-12e38cb0e5a7"
-author: "Sedat Onat"
+title: DP World, Kenya’da Dijital Liman Topluluk Sistemi’ni Başlattı
+subtitle: DP World, Kenya’da Dijital Liman Topluluk Sistemi’ni Başlattı
+date: '2025-10-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d12623df9c674ae28bf1b1370b14e5c7~mv2.png
+imageAlt: DP World, Kenya’da Dijital Liman Topluluk Sistemi’ni Başlattı
+wixId: 7937a3eb-d46d-4723-ae86-12e38cb0e5a7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DP World
+- Kenya
+- Mombasa Limanı
+- dijital liman
+- liman topluluk sistemi
+- gümrük verimliliği
+- Doğu Afrika
+- dijital dönüşüm
 ---
 <p style="text-align: justify"><strong>DP World</strong>, Kenya’da ticaretin verimliliğini artırmak ve şeffaflığı güçlendirmek amacıyla <strong>Liman Topluluk Sistemi (Port Community System – PCS)</strong>’ni devreye almaya başladı.</p>
 <p><br></p>

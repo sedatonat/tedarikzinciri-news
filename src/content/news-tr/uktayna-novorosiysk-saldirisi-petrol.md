@@ -1,14 +1,22 @@
 ---
-title: "Ukrayna Saldırısı Novorossiysk’te Küresel Petrol Arzının %2’sini Geçici Olarak Durdurdu"
-subtitle: "Ukrayna Saldırısı Novorossiysk’te Küresel Petrol Arzının %2’sini Geçici Olarak Durdurdu"
-date: "2025-11-14T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_85b310f7c629494fa8b81ce00df8ab94~mv2.jpg"
-imageAlt: "Ukrayna’nın Novorossiysk’e düzenlediği füze ve drone saldırısı, Rusya’nın Karadeniz limanında petrol yüklemelerini durdurdu; küresel arzın %2’si geçici olarak kesintiye uğradı ve iki büyük petrol iskelesi hasar aldı."
-wixId: "2a8c80ac-9808-44db-9634-5e555d38848e"
-author: "Sedat Onat"
+title: Ukrayna Saldırısı Novorossiysk’te Küresel Petrol Arzının %2’sini Geçici Olarak Durdurdu
+subtitle: Ukrayna Saldırısı Novorossiysk’te Küresel Petrol Arzının %2’sini Geçici Olarak Durdurdu
+date: '2025-11-14T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_85b310f7c629494fa8b81ce00df8ab94~mv2.jpg
+imageAlt: Ukrayna’nın Novorossiysk’e düzenlediği füze ve drone saldırısı, Rusya’nın Karadeniz limanında petrol yüklemelerini durdurdu; küresel arzın %2’si geçici olarak kesintiye uğradı ve iki büyük petrol iskelesi hasar aldı.
+wixId: 2a8c80ac-9808-44db-9634-5e555d38848e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Novorossiysk Limanı
+- petrol ihracatı
+- Ukrayna saldırısı
+- Karadeniz
+- enerji altyapısı
+- Rusya
+- küresel arz
 ---
 <p style="text-align: justify">Rusya’nın Karadeniz kıyısındaki en önemli petrol ihracat merkezlerinden biri olan <strong>Novorossiysk Limanı</strong>, 14 Kasım’da Ukrayna tarafından gerçekleştirilen geniş çaplı füze ve drone saldırısının ardından <strong>geçici olarak kapandı</strong>. Reuters’ın aktardığına göre limandaki kesinti, <strong>günde 2,2 milyon varil</strong>, yani küresel petrol arzının yaklaşık <strong>%2’sine</strong> denk gelen bir miktarın durmasına neden oldu.</p>
 <p><br></p>

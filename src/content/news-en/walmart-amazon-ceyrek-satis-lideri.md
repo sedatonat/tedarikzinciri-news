@@ -1,16 +1,23 @@
 ---
-title: "Amazon Surpasses Walmart for the First Time as Quarterly Sales Leader"
-subtitle: "Amazon Surpasses Walmart for the First Time as Quarterly Sales Leader"
-date: "2025-02-21T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_492a18b67d004ba78a95118cd7bd4684~mv2.jpg"
-imageAlt: "Amazon Surpasses Walmart for the First Time as Quarterly Sales Leader"
-wixId: "1fc17d82-a0ee-4613-ab48-fdb44ee54034"
-author: "Sedat Onat"
+title: Amazon Surpasses Walmart for the First Time as Quarterly Sales Leader
+subtitle: Amazon Surpasses Walmart for the First Time as Quarterly Sales Leader
+date: '2025-02-21T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_492a18b67d004ba78a95118cd7bd4684~mv2.jpg
+imageAlt: Amazon Surpasses Walmart for the First Time as Quarterly Sales Leader
+wixId: 1fc17d82-a0ee-4613-ab48-fdb44ee54034
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Amazon
+- Walmart
+- e-commerce
+- AWS
+- cloud computing
+- logistics
+- fast delivery
 ---
-
 <p style="text-align: justify">Amazon has seized the top spot in quarterly sales for the first time, surpassing <strong>Walmart</strong> in the fourth quarter of 2024. During this period, Amazon generated revenue of $187.8 billion, while Walmart reported revenue of $180.6 billion. ​</p>
 <p><br></p>
 <p style="text-align: justify">Amazon's achievement stems from the company's strong performance in e-commerce and cloud computing. In particular, <strong>Amazon Web Services (AWS)</strong> generated revenue of $25 billion with a 17% increase in the first quarter of 2024. Additionally, Amazon's North America sales rose 12% to $86.3 billion, while international revenue climbed 10% to $31.9 billion. The company's net income surged 225% compared to the same period of the previous year, reaching $10.4 billion. ​</p>

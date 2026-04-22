@@ -1,16 +1,23 @@
 ---
-title: "February Spot Freight Volume and Price Declines"
-subtitle: "February Spot Freight Volume and Price Declines"
-date: "2025-03-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_0f594c6bce5841ad80043b561a101bbe~mv2.jpeg"
-imageAlt: "February Spot Freight Volume and Price Declines"
-wixId: "00dd24b3-ae7b-47e4-8095-3ea05c15a6a2"
-author: "Sedat Onat"
+title: February Spot Freight Volume and Price Declines
+subtitle: February Spot Freight Volume and Price Declines
+date: '2025-03-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_0f594c6bce5841ad80043b561a101bbe~mv2.jpeg
+imageAlt: February Spot Freight Volume and Price Declines
+wixId: 00dd24b3-ae7b-47e4-8095-3ea05c15a6a2
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- spot freight
+- DAT
+- dry van
+- refrigerated transport
+- price decline
+- TVI
+- seasonal demand
 ---
-
 <p style="text-align: justify"><strong>DAT Freight &amp; Analytics</strong>' <strong>DAT Truckload Volume Index</strong> (TVI) shows declines in spot truckload volumes and rates during February 2025. This trend stems from a combination of seasonal factors and market dynamics.​</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>Spot Freight Volume and TVI Data:</strong></p>

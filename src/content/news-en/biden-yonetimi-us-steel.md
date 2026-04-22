@@ -1,16 +1,24 @@
 ---
-title: "Biden Administration Extension Gives U.S. Steel Sale a Second Chance"
-subtitle: "Biden Administration Extension Gives U.S. Steel Sale a Second Chance"
-date: "2025-01-13T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_cfbf1afdfefb439bbdc053defa2246db~mv2.jpg"
-imageAlt: "Biden Administration Extension Gives U.S. Steel Sale a Second Chance"
-wixId: "8dcf24f9-eda7-4a14-8471-fc0526be0c39"
-author: "Sedat Onat"
+title: Biden Administration Extension Gives U.S. Steel Sale a Second Chance
+subtitle: Biden Administration Extension Gives U.S. Steel Sale a Second Chance
+date: '2025-01-13T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_cfbf1afdfefb439bbdc053defa2246db~mv2.jpg
+imageAlt: Biden Administration Extension Gives U.S. Steel Sale a Second Chance
+wixId: 8dcf24f9-eda7-4a14-8471-fc0526be0c39
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- U.S. Steel
+- Nippon Steel
+- acquisition
+- national security
+- CFIUS
+- steel industry
+- Biden
+- union
 ---
-
 <p style="text-align: justify">The Biden administration has granted additional time to evaluate Japanese <strong>Nippon Steel</strong>'s offer to acquire <strong>U.S. Steel</strong>. President Joe Biden blocked the $14.9 billion deal in January 2025 citing national security concerns. However, the Committee on Foreign Investment in the United States (<strong>CFIUS</strong>) has extended the deadline for Nippon Steel to completely withdraw from the agreement until June 18, 2025.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">U.S. Steel has characterized the extension as a positive development, stating: "We look forward to completing the transaction and securing the best future for the American steel industry and all our stakeholders."</p>

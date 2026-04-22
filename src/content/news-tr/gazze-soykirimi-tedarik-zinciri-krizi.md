@@ -1,14 +1,23 @@
 ---
-title: "Gazze Soykırımı Sonrası Küresel Tedarik Zincirindeki Yeni Kriz"
-subtitle: "Gazze Soykırımı Sonrası Küresel Tedarik Zincirindeki Yeni Kriz"
-date: "2024-05-31T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_769f7d7cde06449da027a7fcf6015640~mv2.jpg"
-imageAlt: "Gazze Soykırımı Sonrası Küresel Tedarik Zincirindeki Yeni Kriz"
-wixId: "2b37cdcc-d7ee-4230-9f77-31cc73bcbb26"
-author: "Sedat Onat"
+title: Gazze Soykırımı Sonrası Küresel Tedarik Zincirindeki Yeni Kriz
+subtitle: Gazze Soykırımı Sonrası Küresel Tedarik Zincirindeki Yeni Kriz
+date: '2024-05-31T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_769f7d7cde06449da027a7fcf6015640~mv2.jpg
+imageAlt: Gazze Soykırımı Sonrası Küresel Tedarik Zincirindeki Yeni Kriz
+wixId: 2b37cdcc-d7ee-4230-9f77-31cc73bcbb26
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Gazze savaşı
+- Süveyş Kanalı
+- Ümit Burnu
+- navlun fiyatları
+- Husiler
+- konteyner kapasitesi
+- Singapur Limanı
+- MSC
 ---
 <p>Gazze savaşı, küresel tedarik zincirini olumsuz etkileyerek konteyner ve gemi arzındaki azalmayla navlun fiyatlarını tavan yaptırdı. Husilerin İsrail bağlantılı gemilere saldırmasıyla başlayan kriz, Süveyş Kanalı yerine Ümit Burnu'nun kullanılmasıyla büyüdü. Bu durum, konteyner ve gemi kapasitesinde ciddi sorunlar yaratırken, önemli aktarma limanlarında büyük yoğunluklar oluştu.&nbsp;</p>
 <p><br></p>

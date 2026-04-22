@@ -1,14 +1,22 @@
 ---
-title: "İklim Değişikliğinin Tehdit Ettiği Panama Kanalı, Kuraklıkla Mücadelede Büyük Planlar Yapıyor"
-subtitle: "İklim Değişikliğinin Tehdit Ettiği Panama Kanalı, Kuraklıkla Mücadelede Büyük Planlar Yapıyor"
-date: "2024-12-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_db230b7415a041098674ca689b4a2de8~mv2.jpg"
-imageAlt: "İklim Değişikliğinin Tehdit Ettiği Panama Kanalı, Kuraklıkla Mücadelede Büyük Planlar Yapıyor"
-wixId: "e620f9df-6fc5-4f97-9add-0278555cfa9e"
-author: "Sedat Onat"
+title: İklim Değişikliğinin Tehdit Ettiği Panama Kanalı, Kuraklıkla Mücadelede Büyük Planlar Yapıyor
+subtitle: İklim Değişikliğinin Tehdit Ettiği Panama Kanalı, Kuraklıkla Mücadelede Büyük Planlar Yapıyor
+date: '2024-12-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_db230b7415a041098674ca689b4a2de8~mv2.jpg
+imageAlt: İklim Değişikliğinin Tehdit Ettiği Panama Kanalı, Kuraklıkla Mücadelede Büyük Planlar Yapıyor
+wixId: e620f9df-6fc5-4f97-9add-0278555cfa9e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Panama Kanalı
+- iklim değişikliği
+- kuraklık
+- baraj projesi
+- deniz ticareti
+- LNG
+- yer değiştirme
 ---
 <p>Panama'nın batısında yer alan El Zaino ve La Arenosa nehir vadileri, tarım, balıkçılık ve hayvancılıkla geçinen yüzlerce aileye ev sahipliği yapıyor. Ancak, Panama Kanalı'nın iklim değişikliği karşısında sürdürülebilirliğini sağlamak amacıyla inşa edilmek istenen devasa yapay rezervuar nedeniyle bu bölgeler alt suya gömülebilir. Tres Hermanas kasabası, iki okul, kiliseler ve bir sağlık ocağı ile birlikte, devletin sahip olduğu Panama Kanalı’nın 1.6 milyar dolarlık iddialı projesi hayata geçerse önümüzdeki altı yıl içinde kaybolabilecek düzinelerce kasabadan biri olacak. Kasaba sakinleri arasında bazıları taşınmak istemezken, diğerleri zorunlu olarak yer değiştireceklerse adil tazminat talep ediyor. Memnun kalmazlarsa, geçmişteki deneyimler projenin kamuoyundan gelebilecek muhalefetin tüm projeyi tehlikeye atabileceğini gösteriyor.</p>
 <p><br></p>

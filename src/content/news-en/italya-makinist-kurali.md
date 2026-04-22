@@ -1,16 +1,23 @@
 ---
-title: "Italy Launches \"Single-Driver Rule\" Era for Freight Trains"
-subtitle: "Italy Launches \"Single-Driver Rule\" Era for Freight Trains"
-date: "2025-10-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_dbe31058e3e2468887848f9b585192a4~mv2.jpg"
-imageAlt: "Italy Launches \"Single-Driver Rule\" Era for Freight Trains"
-wixId: "39b64d56-209f-490d-8da3-35308555476c"
-author: "Sedat Onat"
+title: Italy Launches "Single-Driver Rule" Era for Freight Trains
+subtitle: Italy Launches "Single-Driver Rule" Era for Freight Trains
+date: '2025-10-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_dbe31058e3e2468887848f9b585192a4~mv2.jpg
+imageAlt: Italy Launches "Single-Driver Rule" Era for Freight Trains
+wixId: 39b64d56-209f-490d-8da3-35308555476c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Italy
+- rail transport
+- single operator
+- freight train
+- European standards
+- operational efficiency
+- ETCS
 ---
-
 <p style="text-align: justify"><strong>As of Saturday, October 25, 2025</strong>, Italy is officially permitting <strong>freight trains to operate with a single driver</strong>.</p>
 <p><br>
 The new regulation is being regarded as an <strong>"epochal shift"</strong> in the railway sector and is viewed as <strong>a significant step in aligning the country's railway operations with European standards</strong>.</p>

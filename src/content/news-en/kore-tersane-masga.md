@@ -1,16 +1,23 @@
 ---
-title: "South Korean Mid-Sized Shipyards Enter US Navy MRO Market Under MASGA Program"
-subtitle: "South Korean Mid-Sized Shipyards Enter US Navy MRO Market Under MASGA Program"
-date: "2025-11-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_80e7c90969d548bba214b22b87db3047~mv2.jpeg"
-imageAlt: "Process of South Korean mid-sized shipbuilding companies entering the US Navy maintenance-repair market under the MASGA framework, detailed summary of MSRA applications and strategic investments"
-wixId: "d566b303-8829-4642-81b3-468b1a77e5a4"
-author: "Sedat Onat"
+title: South Korean Mid-Sized Shipyards Enter US Navy MRO Market Under MASGA Program
+subtitle: South Korean Mid-Sized Shipyards Enter US Navy MRO Market Under MASGA Program
+date: '2025-11-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_80e7c90969d548bba214b22b87db3047~mv2.jpeg
+imageAlt: Process of South Korean mid-sized shipbuilding companies entering the US Navy maintenance-repair market under the MASGA framework, detailed summary of MSRA applications and strategic investments
+wixId: d566b303-8829-4642-81b3-468b1a77e5a4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- shipyard
+- MRO
+- U.S. Navy
+- South Korea
+- MASGA
+- defense industry
+- ship repair
 ---
-
 <p style="text-align: justify"><strong>The Korea Times</strong> reports that South Korea's mid-sized shipyards are accelerating preparations to enter the <strong>US Navy MRO (maintenance, repair and overhaul)</strong> market under the United States' <strong>Make American Shipbuilding Great Again (MASGA)</strong> program. This initiative combines financing mechanisms aimed at expanding US shipbuilding capacity with South Korean firms' technical expertise, creating a new defense-industry cooperation model between the two countries.</p>
 <p><br></p>
 <p style="text-align: justify">Previously, <strong>HD Hyundai Heavy Industries</strong>, <strong>Hanwha Ocean</strong>, and <strong>Samsung Heavy Industries</strong> had submitted applications to the US Department of Commerce for projects under MASGA. This time, mid-sized players <strong>HJ Shipbuilding &amp; Construction (HJSC)</strong>, <strong>SK Oceanplant</strong>, and <strong>K Shipbuilding</strong> are focusing on the <strong>Master Ship Repair Agreement (MSRA)</strong> process, which is critical for working with the US Navy.</p>

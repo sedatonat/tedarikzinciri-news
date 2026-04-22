@@ -1,14 +1,23 @@
 ---
-title: "İran–Türkiye Arasında 200 km’lik “Southern Silk Road” Hattı: Orta Koridor Rekabetinde Yeni Hamle"
-subtitle: "İran–Türkiye Arasında 200 km’lik “Southern Silk Road” Hattı: Orta Koridor Rekabetinde Yeni Hamle"
-date: "2025-11-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_dcfb5ef4c0eb46c58d5263825d6db0ff~mv2.jpg"
-imageAlt: "İran’ın Türkiye sınırında 1,6 milyar dolarlık yeni demir yolu ile Orta Koridoru dengelemeye çalışması, Türkiye’nin KIAD hattı ile koordinasyonu ve Çin–Avrupa lojistiğinde ortaya çıkan yeni jeopolitik rotanın detayları"
-wixId: "df1fa4d8-0ad3-4ef2-a4dd-8b1cdc266752"
-author: "Sedat Onat"
+title: 'İran–Türkiye Arasında 200 km’lik “Southern Silk Road” Hattı: Orta Koridor Rekabetinde Yeni Hamle'
+subtitle: 'İran–Türkiye Arasında 200 km’lik “Southern Silk Road” Hattı: Orta Koridor Rekabetinde Yeni Hamle'
+date: '2025-11-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_dcfb5ef4c0eb46c58d5263825d6db0ff~mv2.jpg
+imageAlt: İran’ın Türkiye sınırında 1,6 milyar dolarlık yeni demir yolu ile Orta Koridoru dengelemeye çalışması, Türkiye’nin KIAD hattı ile koordinasyonu ve Çin–Avrupa lojistiğinde ortaya çıkan yeni jeopolitik rotanın detayları
+wixId: df1fa4d8-0ad3-4ef2-a4dd-8b1cdc266752
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- İran
+- Türkiye
+- demir yolu
+- Orta Koridor
+- Zangezur Corridor
+- Çin
+- yaptırım
+- altyapı
 ---
 <p style="text-align: justify">2025’in son çeyreğinde İran’ın açıkladığı <strong>1,6 milyar dolarlık</strong> yeni demir yolu projesi, yalnızca altyapı inşaatı değil, aynı zamanda jeopolitik bir karşı hamle olarak değerlendiriliyor. “<strong>Southern Silk Road Revival</strong>” başlığıyla duyurulan proje, İran’ın Çin–Orta Asya–Türkiye üzerinden Avrupa’ya uzanan <strong>Middle Corridor</strong> güzergâhında kalıcı şekilde bypass edilme riskine karşı geliştirdiği stratejik bir adım niteliğinde. Orta Koridor’un (Hazar Denizi üzerinden Kazakistan–Azerbaycan–Türkiye bağlantısı) büyük yatırımlar çekmesi ve <strong>Zangezur Corridor</strong> (Azerbaycan–Ermenistan üzerinden Türkiye’ye direkt erişim) planlarının hız kazanması, İran’ı kendi alternatifini hızlandırmaya zorlamakta.</p>
 <p><br></p>

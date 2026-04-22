@@ -1,14 +1,22 @@
 ---
-title: "Hidroelektrik Tedarik Zincirinde Büyük Boşluklar ve Çözüm Önerileri"
-subtitle: "Hidroelektrik Tedarik Zincirinde Büyük Boşluklar ve Çözüm Önerileri"
-date: "2024-08-07T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_9386064b06364d9bbf42eb736fd17405~mv2.jpg"
-imageAlt: "Hidroelektrik Tedarik Zincirinde Büyük Boşluklar ve Çözüm Önerileri"
-wixId: "7f52205c-c292-4d16-8d35-d753360e7c13"
-author: "Sedat Onat"
+title: Hidroelektrik Tedarik Zincirinde Büyük Boşluklar ve Çözüm Önerileri
+subtitle: Hidroelektrik Tedarik Zincirinde Büyük Boşluklar ve Çözüm Önerileri
+date: '2024-08-07T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_9386064b06364d9bbf42eb736fd17405~mv2.jpg
+imageAlt: Hidroelektrik Tedarik Zincirinde Büyük Boşluklar ve Çözüm Önerileri
+wixId: 7f52205c-c292-4d16-8d35-d753360e7c13
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- hidroelektrik
+- tedarik zinciri
+- yenilenebilir enerji
+- yerli tedarikçi
+- ABD
+- enerji sektörü
+- yedek parça
 ---
 <p>ABD Enerji Bakanlığı (DOE), hidroelektrik enerji tedarik zincirinde büyük boşluklar olduğunu belirten bir rapor yayınladı. Rapor, hidroelektrik sektöründeki paydaşlardan gelen geri bildirimleri analiz ederek, bu alandaki tedarik zincirinin güçlendirilmesi için öneriler sundu. Hidroelektrik sistemlerinin uzun ömürlü olması (30-50 yıl) nedeniyle yedek parça planlamasında zorluklar yaşanıyor. Ayrıca, bazı bileşenler için sadece bir veya iki yerli tedarikçi bulunuyor, bazı durumlarda ise hiç yok. Diğer zorluklar arasında mevcut federal düzenlemelerden kaynaklanan satın alma kısıtlamaları, yabancı rakiplerin yerel pazarı baskılaması ve nitelikli iş gücü eksikliği yer alıyor.</p>
 <p><br></p>

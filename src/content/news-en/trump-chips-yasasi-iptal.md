@@ -1,16 +1,23 @@
 ---
-title: "Trump's Attempt to Repeal the CHIPS Act and Potential Consequences"
-subtitle: "Trump's Attempt to Repeal the CHIPS Act and Potential Consequences"
-date: "2025-03-12T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_55f11c04948d459983cbe6f68f2be0bf~mv2.jpg"
-imageAlt: "Trump's Attempt to Repeal the CHIPS Act and Potential Consequences"
-wixId: "02989872-6441-4400-a7dc-25f270bf2e4e"
-author: "Sedat Onat"
+title: Trump's Attempt to Repeal the CHIPS Act and Potential Consequences
+subtitle: Trump's Attempt to Repeal the CHIPS Act and Potential Consequences
+date: '2025-03-12T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_55f11c04948d459983cbe6f68f2be0bf~mv2.jpg
+imageAlt: Trump's Attempt to Repeal the CHIPS Act and Potential Consequences
+wixId: 02989872-6441-4400-a7dc-25f270bf2e4e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- CHIPS Act
+- semiconductor manufacturing
+- Intel
+- TSMC
+- supply chain
+- national security
+- US
 ---
-
 <p style="text-align: justify">US President Donald Trump last week called for the repeal of the <a href="https://en.wikipedia.org/wiki/CHIPS_and_Science_Act"><u><strong>CHIPS and Science Act</strong></u></a>, characterizing it as a "terrible, terrible thing" in an address to Congress. The President claimed the legislation distributed large sums of money to corporations that have not spent the funds, and suggested that remaining funds under the law be used to reduce the deficit or for other purposes.</p>
 <p><br></p>
 <p style="text-align: justify">The <strong>CHIPS and Science Act</strong>, enacted in 2022 with a budget of 52.7 billion dollars to promote semiconductor manufacturing, aims to increase semiconductor production in the United States and reduce vulnerabilities in the global supply chain. To date, the legislation has provided grants totaling 30.6 billion dollars to 19 companies, with these projects expected to create 145,000 manufacturing and construction jobs.</p>

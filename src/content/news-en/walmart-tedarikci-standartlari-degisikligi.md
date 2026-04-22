@@ -1,16 +1,23 @@
 ---
-title: "Changes to Walmart's Supplier Standards and Their Impact on the Supply Chain"
-subtitle: "Changes to Walmart's Supplier Standards and Their Impact on the Supply Chain"
-date: "2024-02-27T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a6539802133b4350b9029d7f1c223184~mv2.jpg"
-imageAlt: "Changes to Walmart's Supplier Standards and Their Impact on the Supply Chain"
-wixId: "55b9bd80-fa7e-4f0f-933d-b572e3b7edde"
-author: "Sedat Onat"
+title: Changes to Walmart's Supplier Standards and Their Impact on the Supply Chain
+subtitle: Changes to Walmart's Supplier Standards and Their Impact on the Supply Chain
+date: '2024-02-27T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_a6539802133b4350b9029d7f1c223184~mv2.jpg
+imageAlt: Changes to Walmart's Supplier Standards and Their Impact on the Supply Chain
+wixId: 55b9bd80-fa7e-4f0f-933d-b572e3b7edde
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Walmart
+- supplier standards
+- OTIF
+- supply chain
+- delivery performance
+- retail logistics
+- carrier compliance
 ---
-
 <p><a href="https://en.wikipedia.org/wiki/Walmart"><u>Walmart</u></a> has announced that it is easing requirements for its suppliers. The retailer has lowered the bar for on-time and complete delivery that was set in 2020 at 98 percent to 90 percent on-time and 95 percent complete delivery, effective February 1.</p>
 <p><br></p>
 <p>While the reason for the change was not explained, <a href="https://ziplinelogistics.com"><u>Zipline Logistics</u></a> CEO <a href="https://www.linkedin.com/in/andrew-lynch-2a67817/"><u>Andrew Lynch</u></a> suggested that it may stem from late delivery penalties at Walmart becoming a revenue source as carriers struggle to comply with the strict rules. Lynch emphasized that Walmart's real objective is not penalty revenue, but rather to encourage suppliers to provide products at competitive prices and on time.</p>

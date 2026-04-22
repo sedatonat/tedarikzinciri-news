@@ -1,16 +1,23 @@
 ---
-title: "CMA CGM Returns to Full Suez Canal Loop on INDAMEX Service"
-subtitle: "CMA CGM Returns to Full Suez Canal Loop on INDAMEX Service"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_130ffae4c75b42e2a7c7b0f96ac1ee72~mv2.jpg"
-imageAlt: "Detailed summary of CMA CGM's decision to return fully to Suez for both fronthaul and backhaul on the INDAMEX line, covering impacts on transit times, capacity reduction, market pricing, and sector implications in the Red Sea risk environment"
-wixId: "3e9bc462-025e-4c21-864d-0eb703ab2d36"
-author: "Sedat Onat"
+title: CMA CGM Returns to Full Suez Canal Loop on INDAMEX Service
+subtitle: CMA CGM Returns to Full Suez Canal Loop on INDAMEX Service
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_130ffae4c75b42e2a7c7b0f96ac1ee72~mv2.jpg
+imageAlt: Detailed summary of CMA CGM's decision to return fully to Suez for both fronthaul and backhaul on the INDAMEX line, covering impacts on transit times, capacity reduction, market pricing, and sector implications in the Red Sea risk environment
+wixId: 3e9bc462-025e-4c21-864d-0eb703ab2d36
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- CMA CGM
+- Suez Canal
+- Red Sea
+- container shipping
+- INDAMEX
+- freight rates
+- maritime security
 ---
-
 <p style="text-align: justify"><strong>CMA CGM</strong> announced a significant strategic shift at the end of 2025 on its <strong>INDAMEX</strong> service: the line will now operate a full-loop transit via the <strong>Suez Canal</strong> in both <strong>fronthaul</strong> (India/Pakistan → US East Coast) and <strong>backhaul</strong> (US East Coast → India/Pakistan) directions. The decision stands out as a notable "early return" step compared to the cautious stance major carriers have maintained following security issues in the Red Sea due to drone threats since late 2023.</p>
 <p><br></p>
 <p style="text-align: justify">The new route's first full-loop voyage will be handled by <strong>CMA CGM VERDI</strong>. The vessel departs Karachi for New York on <strong>15 January</strong>. According to <strong>eeSea by Xeneta</strong> data, the Suez route reduces INDAMEX's total transit time by two weeks to <strong>77 days</strong>. This creates significant time savings for both carriers and shippers.</p>

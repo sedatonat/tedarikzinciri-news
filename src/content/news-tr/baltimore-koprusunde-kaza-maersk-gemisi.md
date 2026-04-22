@@ -1,14 +1,22 @@
 ---
-title: "Baltimore Köprüsü'nde Kaza: Maersk'in Kiraladığı Gemi Çarptı"
-subtitle: "Baltimore Köprüsü'nde Kaza: Maersk'in Kiraladığı Gemi Çarptı"
-date: "2024-03-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a059993628dc470d90739385aad66622~mv2.png"
-imageAlt: "Baltimore Köprüsü'nde Kaza: Maersk'in Kiraladığı Gemi Çarptı"
-wixId: "60b1089f-646d-40f1-b3c9-2e9ba809480d"
-author: "Sedat Onat"
+title: 'Baltimore Köprüsü''nde Kaza: Maersk''in Kiraladığı Gemi Çarptı'
+subtitle: 'Baltimore Köprüsü''nde Kaza: Maersk''in Kiraladığı Gemi Çarptı'
+date: '2024-03-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a059993628dc470d90739385aad66622~mv2.png
+imageAlt: 'Baltimore Köprüsü''nde Kaza: Maersk''in Kiraladığı Gemi Çarptı'
+wixId: 60b1089f-646d-40f1-b3c9-2e9ba809480d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Maersk
+- Baltimore
+- konteyner gemisi
+- köprü kazası
+- liman operasyonları
+- deniz taşımacılığı
+- sigorta
 ---
 <p>Damimarka'lı nakliye devi <a href="https://en.wikipedia.org/wiki/Maersk"><u>Maersk</u></a>, ABD'nin Baltimore şehrinde <a href="https://en.wikipedia.org/wiki/Francis_Scott_Key_Bridge_(Baltimore)"><u>Francis Scott Key Köprüsü</u></a>'ne çarpan konteyner gemisini kiraladığını teyit etti. Köprü, yerel saatle sabahın erken saatlerinde 1:35 civarında meydana gelen olay sonrası kısmen çöktü.&nbsp;</p>
 <p><br></p>

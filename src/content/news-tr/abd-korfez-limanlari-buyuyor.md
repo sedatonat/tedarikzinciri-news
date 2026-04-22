@@ -1,14 +1,22 @@
 ---
-title: "ABD Körfez Kıyısı Limanları Hacim Artışını Karşılamak İçin Genişliyor"
-subtitle: "ABD Körfez Kıyısı Limanları Hacim Artışını Karşılamak İçin Genişliyor"
-date: "2024-12-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3fa61acaf9fa4443963f49169d2d7345~mv2.jpg"
-imageAlt: "ABD Körfez Kıyısı Limanları Hacim Artışını Karşılamak İçin Genişliyor"
-wixId: "711c7646-9052-467a-9e64-d59f3ab7affe"
-author: "Sedat Onat"
+title: ABD Körfez Kıyısı Limanları Hacim Artışını Karşılamak İçin Genişliyor
+subtitle: ABD Körfez Kıyısı Limanları Hacim Artışını Karşılamak İçin Genişliyor
+date: '2024-12-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3fa61acaf9fa4443963f49169d2d7345~mv2.jpg
+imageAlt: ABD Körfez Kıyısı Limanları Hacim Artışını Karşılamak İçin Genişliyor
+wixId: 711c7646-9052-467a-9e64-d59f3ab7affe
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Körfez Kıyısı limanları
+- Port of Houston
+- liman genişlemesi
+- konteyner ithalatı
+- altyapı yatırımı
+- tedarik zinciri
+- ABD limanları
 ---
 <p>ABD Körfez Kıyısı limanları, 2024 yılında tüketici harcamalarının beklenenden güçlü seyretmesi ve liman işçileri grevi olasılığı nedeniyle yük hacimlerinde artış yaşadı. Bu eğilimin 2025 yılında da devam etmesi bekleniyor. Bölgedeki yeni liman altyapı projeleri, önümüzdeki yıl boyunca akışkanlığı korumaya yardımcı olacak.</p>
 <p><br></p>

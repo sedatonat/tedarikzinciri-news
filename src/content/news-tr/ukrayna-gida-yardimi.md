@@ -1,14 +1,22 @@
 ---
-title: "Ukrayna Suriye'ye İlk Gıda Yardımını Gönderdi"
-subtitle: "Ukrayna Suriye'ye İlk Gıda Yardımını Gönderdi"
-date: "2024-12-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_8058fde008cb4b8ca96918be977fbd70~mv2.jpg"
-imageAlt: "Ukrayna Suriye'ye İlk Gıda Yardımını Gönderdi"
-wixId: "bdf0df5b-097e-461f-b46b-f288892bc84d"
-author: "Sedat Onat"
+title: Ukrayna Suriye'ye İlk Gıda Yardımını Gönderdi
+subtitle: Ukrayna Suriye'ye İlk Gıda Yardımını Gönderdi
+date: '2024-12-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_8058fde008cb4b8ca96918be977fbd70~mv2.jpg
+imageAlt: Ukrayna Suriye'ye İlk Gıda Yardımını Gönderdi
+wixId: bdf0df5b-097e-461f-b46b-f288892bc84d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ukrayna
+- Suriye
+- gıda yardımı
+- buğday unu
+- Grain from Ukraine
+- insani yardım
+- Dünya Gıda Programı
 ---
 <p>Ukrayna, küresel bir tahıl ve yağlı tohum üreticisi ve ihracatçısı olarak, Suriye'ye ilk gıda yardımını gönderdi. Ukrayna Devlet Başkanı <strong>Volodymyr Zelenskiy</strong>, 27 Aralık 2024 tarihinde yaptığı açıklamada, 500 metrik ton buğday ununun Birleşmiş Milletler Dünya Gıda Programı ile işbirliği içinde yürütülen "Grain from Ukraine" insani yardım girişimi kapsamında Suriye'ye gönderildiğini belirtti.</p>
 <p><br></p>

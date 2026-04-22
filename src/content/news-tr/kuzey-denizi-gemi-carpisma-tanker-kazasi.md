@@ -1,14 +1,22 @@
 ---
-title: "Kuzey Denizi'nde Gemi Çarpışması Sonrası Petrol Sızıntısı"
-subtitle: "Kuzey Denizi'nde Gemi Çarpışması Sonrası Petrol Sızıntısı"
-date: "2025-03-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e754aded26dc436a8e874fedc92f6af6~mv2.jpg"
-imageAlt: "Kuzey Denizi'nde Gemi Çarpışması Sonrası Petrol Sızıntısı"
-wixId: "7bf17e5b-adaf-4ab4-8541-f7d805644a19"
-author: "Sedat Onat"
+title: Kuzey Denizi'nde Gemi Çarpışması Sonrası Petrol Sızıntısı
+subtitle: Kuzey Denizi'nde Gemi Çarpışması Sonrası Petrol Sızıntısı
+date: '2025-03-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e754aded26dc436a8e874fedc92f6af6~mv2.jpg
+imageAlt: Kuzey Denizi'nde Gemi Çarpışması Sonrası Petrol Sızıntısı
+wixId: 7bf17e5b-adaf-4ab4-8541-f7d805644a19
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- gemi çarpışması
+- petrol sızıntısı
+- Kuzey Denizi
+- tanker
+- deniz kirliliği
+- kurtarma operasyonu
+- jet yakıtı
 ---
 <p style="text-align: justify">Kuzey Denizi'nde, Doğu Yorkshire açıklarında <a href="https://www.vesselfinder.com/vessels/details/9693018"><u><strong>MV Stena Immaculate</strong></u></a> adlı petrol tankeri ile <a href="https://www.vesselfinder.com/vessels/details/9322554"><u><strong>Solong</strong></u><u> </u></a>isimli kargo gemisinin çarpışması sonucu her iki gemide de yangın çıktı. Çarpışma, sabah saat 09.48'de meydana geldi ve acil durum ekipleri hemen olay yerine sevk edildi.&nbsp;</p>
 <p><br></p>

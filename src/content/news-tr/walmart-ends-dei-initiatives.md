@@ -1,14 +1,21 @@
 ---
-title: "Walmart DEI Inisiyatiflerini Sonlandırıyor"
-subtitle: "Walmart DEI Inisiyatiflerini Sonlandırıyor"
-date: "2024-11-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_86429d811604438a80c677efd1a4fb8d~mv2.jpg"
-imageAlt: "Walmart DEI Inisiyatiflerini Sonlandırıyor"
-wixId: "54b76655-8049-406d-9c26-892cb2050507"
-author: "Sedat Onat"
+title: Walmart DEI Inisiyatiflerini Sonlandırıyor
+subtitle: Walmart DEI Inisiyatiflerini Sonlandırıyor
+date: '2024-11-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_86429d811604438a80c677efd1a4fb8d~mv2.jpg
+imageAlt: Walmart DEI Inisiyatiflerini Sonlandırıyor
+wixId: 54b76655-8049-406d-9c26-892cb2050507
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Walmart
+- DEI
+- çeşitlilik ve kapsayıcılık
+- iş stratejisi
+- operasyonel verimlilik
+- kurumsal politika
 ---
 <p>Walmart, çeşitlilik, eşitlik ve dahil etme (DEI) alanındaki inisiyatiflerini sona erdireceğini açıkladı. Şirket, bu kararı, iş stratejisinde yeni önceliklere odaklanmak ve operasyonel verimliliği artırmak amacıyla aldığını belirtti. Walmart yönetimi, DEI programlarının şirketin uzun vadeli hedefleriyle uyumlu olmadığını ve kaynakların daha etkili alanlara yönlendirilmesinin gerekliliğini vurguladı.</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "Hyster-Yale Commits to Complying with BABA Requirements for Its Equipment"
-subtitle: "Hyster-Yale Commits to Complying with BABA Requirements for Its Equipment"
-date: "2024-12-28T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_3bc119c991804f6f8b413081f2bab7f4~mv2.jpg"
-imageAlt: "Hyster-Yale Commits to Complying with BABA Requirements for Its Equipment"
-wixId: "f457554d-f030-4529-98a8-8f68aca3a09f"
-author: "Sedat Onat"
+title: Hyster-Yale Commits to Complying with BABA Requirements for Its Equipment
+subtitle: Hyster-Yale Commits to Complying with BABA Requirements for Its Equipment
+date: '2024-12-28T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_3bc119c991804f6f8b413081f2bab7f4~mv2.jpg
+imageAlt: Hyster-Yale Commits to Complying with BABA Requirements for Its Equipment
+wixId: f457554d-f030-4529-98a8-8f68aca3a09f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Hyster-Yale
+- forklift
+- BABA
+- domestic production
+- electric equipment
+- container handling
+- port equipment
 ---
-
 <p><strong>Hyster-Yale Materials Handling, Inc.</strong>, a manufacturer of forklifts and container handling equipment under the <strong>Hyster</strong> and <strong>Yale</strong> brands, has announced its plan to meet domestic manufacturing requirements under the <strong>Build America, Buy America (BABA) Act</strong>.</p>
 <p><br></p>
 <p>The company aims to expand its existing American manufacturing facilities to provide high-capacity models tailored to the needs of infrastructure projects subject to BABA requirements, with a particular focus on electric options.</p>

@@ -1,16 +1,23 @@
 ---
-title: "Google Unveils Advanced Nuclear Plant Plans in Tennessee"
-subtitle: "Google Unveils Advanced Nuclear Plant Plans in Tennessee"
-date: "2025-08-16T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_516ea73140e6435992df6030dd327c22~mv2.png"
-imageAlt: "Google Unveils Advanced Nuclear Plant Plans in Tennessee"
-wixId: "6776bb47-716b-4161-a204-d929fa8b4575"
-author: "Sedat Onat"
+title: Google Unveils Advanced Nuclear Plant Plans in Tennessee
+subtitle: Google Unveils Advanced Nuclear Plant Plans in Tennessee
+date: '2025-08-16T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_516ea73140e6435992df6030dd327c22~mv2.png
+imageAlt: Google Unveils Advanced Nuclear Plant Plans in Tennessee
+wixId: 6776bb47-716b-4161-a204-d929fa8b4575
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Google
+- nuclear energy
+- data center
+- Tennessee
+- SMR
+- sustainability
+- energy infrastructure
 ---
-
 <p style="text-align: justify"><strong>Google</strong> has announced plans to establish an energy facility based on <strong>advanced nuclear technology</strong> in Tennessee. This initiative is viewed as part of the company's strategy to support its rapidly growing <strong>data center operations</strong> while achieving its goal of providing <strong>low-carbon, uninterrupted energy</strong>. In this way, Google aims to take another step closer to its goal of achieving <strong>24/7 carbon-free energy</strong> for its data centers.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">The project is based on <strong>SMR (Small Modular Reactor)</strong> and other <strong>advanced nuclear</strong> concepts. This technology, with its small-scale, modular design, offers advantages of more flexible installation, safe operation, and grid integration. From a financial perspective, the initiative is supported by <strong>PPA (Power Purchase Agreement)</strong> and <strong>long-term offtake</strong> contracts; these structures guarantee both investor confidence and price stability.</p>

@@ -1,16 +1,24 @@
 ---
-title: "Almaty to Get New Multifunctional Rail Freight Terminal"
-subtitle: "Almaty to Get New Multifunctional Rail Freight Terminal"
-date: "2025-03-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_26b9aef662c147138624f12edbc7b339~mv2.jpg"
-imageAlt: "Almaty to Get New Multifunctional Rail Freight Terminal"
-wixId: "1c64b529-b0ad-4f7a-865b-3d90889844f7"
-author: "Sedat Onat"
+title: Almaty to Get New Multifunctional Rail Freight Terminal
+subtitle: Almaty to Get New Multifunctional Rail Freight Terminal
+date: '2025-03-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_26b9aef662c147138624f12edbc7b339~mv2.jpg
+imageAlt: Almaty to Get New Multifunctional Rail Freight Terminal
+wixId: 1c64b529-b0ad-4f7a-865b-3d90889844f7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Almaty
+- rail terminal
+- Kazakhstan
+- China
+- Belt and Road Initiative
+- Kedentransservis
+- logistics infrastructure
+- Central Asia
 ---
-
 <p style="text-align: justify"><strong>Kedentransservis</strong>, Kazakhstan's largest logistics terminal operator, is planning to build a new rail freight terminal near Almaty in partnership with Chinese firm <strong>China Xinjiang Commercial Logistics</strong>. The new terminal will be designed with the capacity to handle various types of cargo.</p>
 <p><br></p>
 <p style="text-align: justify">The partnership between <strong>Kedentransservis</strong> and <strong>China Xinjiang Commercial Logistics</strong> aims to strengthen commercial relations between Kazakhstan and China and develop logistics infrastructure in the region. Almaty is positioned as Central Asia's largest passenger and cargo hub. Consequently, the construction of the new terminal is seen as an important step in increasing trade volumes in the region and optimizing logistics processes.​<a href="https://tavhavalimanlari.com.tr/tav-almatida-yeni-terminali-acti" rel="noopener" target="_blank">tavhavalimanlari.com.tr</a></p>

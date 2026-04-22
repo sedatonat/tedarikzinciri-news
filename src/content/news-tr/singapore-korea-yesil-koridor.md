@@ -1,14 +1,23 @@
 ---
-title: "Singapur ve Güney Kore, Yeşil ve Dijital Denizcilik Koridoru Kurulması İçin Anlaşma İmzaladı"
-subtitle: "Singapur ve Güney Kore, Yeşil ve Dijital Denizcilik Koridoru Kurulması İçin Anlaşma İmzaladı"
-date: "2025-11-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9303c2d15e8e4296a2f3325b50d0964f~mv2.jpg"
-imageAlt: "Singapur Ulaştırma Bakanlığı ile Güney Kore Okyanuslar ve Balıkçılık Bakanlığı, Singapur–ROK Yeşil ve Dijital Denizcilik Koridoru (GDSC) kurmak üzere mutabakat zaptı (MoU) imzaladı. Anlaşma, temiz yakıt altyapısı, dijitalleşme ve denizcilik profesyonellerinin eğitimi alanlarında ortak çalışmaları kapsıyor."
-wixId: "7d6ae1f8-259f-46ce-9c6a-5ffd4097a958"
-author: "Sedat Onat"
+title: Singapur ve Güney Kore, Yeşil ve Dijital Denizcilik Koridoru Kurulması İçin Anlaşma İmzaladı
+subtitle: Singapur ve Güney Kore, Yeşil ve Dijital Denizcilik Koridoru Kurulması İçin Anlaşma İmzaladı
+date: '2025-11-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_9303c2d15e8e4296a2f3325b50d0964f~mv2.jpg
+imageAlt: Singapur Ulaştırma Bakanlığı ile Güney Kore Okyanuslar ve Balıkçılık Bakanlığı, Singapur–ROK Yeşil ve Dijital Denizcilik Koridoru (GDSC) kurmak üzere mutabakat zaptı (MoU) imzaladı. Anlaşma, temiz yakıt altyapısı, dijitalleşme ve denizcilik profesyonellerinin eğitimi alanlarında ortak çalışmaları kapsıyor.
+wixId: 7d6ae1f8-259f-46ce-9c6a-5ffd4097a958
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Singapur
+- Güney Kore
+- yeşil denizcilik
+- dijital koridor
+- karbonsuzlaşma
+- yeşil yakıt
+- deniz taşımacılığı
+- bunkering
 ---
 <p style="text-align: justify"><strong>Singapur</strong> ve <strong>Güney Kore</strong>, Asya’nın iki büyük denizcilik merkezi olarak, <strong>deniz taşımacılığının karbonsuzlaşması ve dijital dönüşümü</strong> için güçlerini birleştirdi. İki ülkenin ilgili bakanlıkları, <strong>Singapur–ROK Yeşil ve Dijital Denizcilik Koridoru (Green and Digital Shipping Corridor – GDSC)</strong> oluşturulmasına yönelik <strong>bir mutabakat zaptı (MoU)</strong> imzaladı.</p>
 <p style="text-align: justify"><br></p>

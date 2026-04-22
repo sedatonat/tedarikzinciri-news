@@ -1,14 +1,23 @@
 ---
-title: "MACN, Asya ve Avrupa’da Denizcilik Tedarik Zincirleri İçin Yeni Yolsuzlukla Mücadele Programını Başlattı"
-subtitle: "MACN, Asya ve Avrupa’da Denizcilik Tedarik Zincirleri İçin Yeni Yolsuzlukla Mücadele Programını Başlattı"
-date: "2025-12-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0c0e4d32d6f243b3b0aa4cd2203f4e3c~mv2.jpg"
-imageAlt: "Maritime Anti-Corruption Network’ün Siemens Integrity Initiative desteğiyle Endonezya, Malezya ve Almanya’da hayata geçirdiği üç yıllık “Transparent Trade Routes” programının kapsamı, araçları ve denizcilik tedarik zincirlerinde şeffaflık hedeflerinin detaylı özeti"
-wixId: "671b0459-803d-495a-90d9-32ec6487d284"
-author: "Sedat Onat"
+title: MACN, Asya ve Avrupa’da Denizcilik Tedarik Zincirleri İçin Yeni Yolsuzlukla Mücadele Programını Başlattı
+subtitle: MACN, Asya ve Avrupa’da Denizcilik Tedarik Zincirleri İçin Yeni Yolsuzlukla Mücadele Programını Başlattı
+date: '2025-12-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0c0e4d32d6f243b3b0aa4cd2203f4e3c~mv2.jpg
+imageAlt: Maritime Anti-Corruption Network’ün Siemens Integrity Initiative desteğiyle Endonezya, Malezya ve Almanya’da hayata geçirdiği üç yıllık “Transparent Trade Routes” programının kapsamı, araçları ve denizcilik tedarik zincirlerinde şeffaflık hedeflerinin detaylı özeti
+wixId: 671b0459-803d-495a-90d9-32ec6487d284
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- MACN
+- yolsuzlukla mücadele
+- denizcilik tedarik zinciri
+- Endonezya
+- Malezya
+- Almanya
+- Siemens Integrity Initiative
+- HelpDesk
 ---
 <p style="text-align: justify"><strong>Maritime Anti-Corruption Network (MACN)</strong>, denizcilik tedarik zincirlerinde yolsuzlukla mücadeleyi güçlendirmeye yönelik yeni ve kapsamlı bir girişimi devreye almakta. <strong>“Transparent Trade Routes: Strengthening Integrity in Maritime Supply Chains”</strong> adı verilen program, <strong>Endonezya, Malezya ve Almanya</strong> odaklı olarak üç yıllık bir zaman dilimini kapsamakta. Girişim, <strong>Siemens Integrity Initiative</strong> tarafından finanse edilmekte ve MACN’nin son yıllarda geliştirdiği <strong>Collective Action</strong> yaklaşımının ölçeklendirilmesini amaçlamakta.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "FMCG Sektöründe Stok Tükeniklerini Öngörme: Veriye Dayalı İçgörülerle Direnci Artırma"
-subtitle: "FMCG Sektöründe Stok Tükeniklerini Öngörme: Veriye Dayalı İçgörülerle Direnci Artırma"
-date: "2024-04-03T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_8779abf50acf48e0885ec76e646a7fad~mv2.jpg"
-imageAlt: "FMCG Sektöründe Stok Tükeniklerini Öngörme: Veriye Dayalı İçgörülerle Direnci Artırma"
-wixId: "c2999208-60e3-4dc4-a4a9-f92c83b3fb43"
-author: "Sedat Onat"
+title: 'FMCG Sektöründe Stok Tükeniklerini Öngörme: Veriye Dayalı İçgörülerle Direnci Artırma'
+subtitle: 'FMCG Sektöründe Stok Tükeniklerini Öngörme: Veriye Dayalı İçgörülerle Direnci Artırma'
+date: '2024-04-03T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_8779abf50acf48e0885ec76e646a7fad~mv2.jpg
+imageAlt: 'FMCG Sektöründe Stok Tükeniklerini Öngörme: Veriye Dayalı İçgörülerle Direnci Artırma'
+wixId: c2999208-60e3-4dc4-a4a9-f92c83b3fb43
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- FMCG
+- stok tükeniği
+- tahmin modelleri
+- kasa dolum oranı
+- tedarik zinciri direnci
+- makine öğrenimi
+- talep değişkenliği
 ---
 <p><a href="https://en.wikipedia.org/wiki/Fast-moving_consumer_goods"><u>FMCG (Hızlı Tüketim Malları)</u></a> sektörü, 10 trilyon dolarlık mevcut değeriyle 2025 yılına kadar 15 trilyon dolara ulaşması beklenen büyüme potansiyeline sahiptir. Ancak <a href="https://en.wikipedia.org/wiki/COVID-19"><u>COVID-19</u></a> pandemisi, <a href="https://en.wikipedia.org/wiki/Suez_Canal"><u>Süveyş Kanalı</u></a>'nın bloke olması ve liman tıkanıklıkları gibi son dönemde yaşanan kesintiler, sektörün karmaşık tedarik zincirlerini ve tahmin edilemez talep modellerini daha da karmaşık hale getirmiştir. Bu zorluklar, <a href="https://en.wikipedia.org/wiki/Fast-moving_consumer_goods"><u>FMCG </u></a>sektörünün kırılganlığını vurgulayarak, müşteri taleplerinin karşılanamamasına ve işletme direncinin tehlikeye girmesine neden olmuştur.</p>
 <p><br></p>

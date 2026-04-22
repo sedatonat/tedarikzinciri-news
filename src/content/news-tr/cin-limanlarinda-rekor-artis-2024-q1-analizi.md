@@ -1,14 +1,22 @@
 ---
-title: "Çin Limanlarında Rekor Artış: 2024 İlk Çeyrek Analizi"
-subtitle: "Çin Limanlarında Rekor Artış: 2024 İlk Çeyrek Analizi"
-date: "2024-05-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_64676ac97432405eb605a5334e2520d0~mv2.jpg"
-imageAlt: "Çin Limanlarında Rekor Artış: 2024 İlk Çeyrek Analizi"
-wixId: "32a3520b-57da-4a01-b13f-37e7a14d76ec"
-author: "Sedat Onat"
+title: 'Çin Limanlarında Rekor Artış: 2024 İlk Çeyrek Analizi'
+subtitle: 'Çin Limanlarında Rekor Artış: 2024 İlk Çeyrek Analizi'
+date: '2024-05-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_64676ac97432405eb605a5334e2520d0~mv2.jpg
+imageAlt: 'Çin Limanlarında Rekor Artış: 2024 İlk Çeyrek Analizi'
+wixId: 32a3520b-57da-4a01-b13f-37e7a14d76ec
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Çin limanları
+- konteyner hacmi
+- Şanghay Limanı
+- Ningbo Zhoushan
+- TEU
+- NCFI
+- liman istatistikleri
 ---
 <p>2024'ün ilk çeyreğinde, Çin limanlarının konteyner hacmi, bir önceki yıla göre %10 artarak 76.7 milyon TEU'ya ulaştı. Bu dönemde öne çıkan Şanghay Limanı, yıllık %8,6'lık bir artışla 12.45 milyon TEU işledi. Ningbo Zhoushan Limanı ise %11.7'lik bir artışla 9.14 milyon TEU ile takip etti. Beibu Körfezi Limanı, yıllık %20.4'lük dikkate değer bir artış oranıyla ilk üç ay için toplam 1.94 milyon TEU'ya ulaştı.</p>
 <p><br></p>

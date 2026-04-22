@@ -1,14 +1,23 @@
 ---
-title: "Yeni ABD Liman Ücretleri COSCO ve OOCL’e İlk Haftada 42 Milyon Dolar Maliyete Yol Açtı"
-subtitle: "Yeni ABD Liman Ücretleri COSCO ve OOCL’e İlk Haftada 42 Milyon Dolar Maliyete Yol Açtı"
-date: "2025-10-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9849c225aee44aa2b2f22b531a2e524e~mv2.jpg"
-imageAlt: "Yeni ABD Liman Ücretleri COSCO ve OOCL’e İlk Haftada 42 Milyon Dolar Maliyete Yol Açtı"
-wixId: "785a62cb-1c58-4f6c-976d-da739f36eefa"
-author: "Sedat Onat"
+title: Yeni ABD Liman Ücretleri COSCO ve OOCL’e İlk Haftada 42 Milyon Dolar Maliyete Yol Açtı
+subtitle: Yeni ABD Liman Ücretleri COSCO ve OOCL’e İlk Haftada 42 Milyon Dolar Maliyete Yol Açtı
+date: '2025-10-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_9849c225aee44aa2b2f22b531a2e524e~mv2.jpg
+imageAlt: Yeni ABD Liman Ücretleri COSCO ve OOCL’e İlk Haftada 42 Milyon Dolar Maliyete Yol Açtı
+wixId: 785a62cb-1c58-4f6c-976d-da739f36eefa
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- liman ücretleri
+- COSCO
+- OOCL
+- ABD-Çin ticaret savaşı
+- konteyner gemisi
+- post-Panamax
+- navlun maliyetleri
+- deniz taşımacılığı
 ---
 <p style="text-align: justify"><strong>ABD’nin Çin denizcilik endüstrisini hedef alan yeni liman ücretleri</strong>, yürürlüğe girmesinin ardından <strong>ilk haftada Cosco Shipping ve bağlı şirketi OOCL’e (Orient Overseas Container Line) toplam 42 milyon doların üzerinde ek maliyet</strong> getirdi.</p>
 <p><br>

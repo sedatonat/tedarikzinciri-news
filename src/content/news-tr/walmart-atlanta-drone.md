@@ -1,14 +1,22 @@
 ---
-title: "Walmart, Atlanta’da Drone Teslimatlarını Başlattı: Perakendede Son Kilometre Dönüşümü Hızlanıyor"
-subtitle: "Walmart, Atlanta’da Drone Teslimatlarını Başlattı: Perakendede Son Kilometre Dönüşümü Hızlanıyor"
-date: "2025-12-11T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_980a1be4c8d14000ab96d60eb641e374~mv2.jpg"
-imageAlt: "Walmart’ın Wing iş birliğiyle Atlanta metro bölgesinde drone teslimat hizmetini başlatması, beş dakikanın altındaki teslim süreleri, şehir bazlı ölçeklenme stratejisi ve perakende lojistiğine etkilerinin detaylı özeti"
-wixId: "fb2bb93c-3466-40da-810c-b794ea6b64a4"
-author: "Sedat Onat"
+title: 'Walmart, Atlanta’da Drone Teslimatlarını Başlattı: Perakendede Son Kilometre Dönüşümü Hızlanıyor'
+subtitle: 'Walmart, Atlanta’da Drone Teslimatlarını Başlattı: Perakendede Son Kilometre Dönüşümü Hızlanıyor'
+date: '2025-12-11T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_980a1be4c8d14000ab96d60eb641e374~mv2.jpg
+imageAlt: Walmart’ın Wing iş birliğiyle Atlanta metro bölgesinde drone teslimat hizmetini başlatması, beş dakikanın altındaki teslim süreleri, şehir bazlı ölçeklenme stratejisi ve perakende lojistiğine etkilerinin detaylı özeti
+wixId: fb2bb93c-3466-40da-810c-b794ea6b64a4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Walmart
+- drone teslimat
+- son kilometre
+- Wing
+- Atlanta
+- perakende lojistiği
+- last-mile delivery
 ---
 <p style="text-align: justify">ABD perakende devi <strong>Walmart</strong>, <strong>last-mile delivery</strong> stratejisinde önemli bir eşiği daha aşarak <strong>Atlanta metro bölgesinde drone teslimat hizmetini</strong> resmen devreye aldı. Şirket, drone operatörü <strong>Wing</strong> ile iş birliği kapsamında Atlanta’daki <strong>altı mağazadan</strong> müşterilere hava yoluyla teslimat yapmaya başladı. Hizmetin, Walmart’ın 2026 ortasına kadar <strong>beş büyük ABD şehrine</strong> yaymayı planladığı drone teslimat ağının ilk büyük metropol adımı olduğu belirtilmekte.</p>
 <p><br></p>

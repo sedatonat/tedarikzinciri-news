@@ -1,14 +1,22 @@
 ---
-title: "ABD ve Avustralya Kritik Madenler İçin Stratejik İş Birliği Başlattı"
-subtitle: "ABD ve Avustralya Kritik Madenler İçin Stratejik İş Birliği Başlattı"
-date: "2025-10-23T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_2b850b0f978241a59d2c187582adca5d~mv2.jpg"
-imageAlt: "ABD ve Avustralya, Çin’in ihracat kısıtlamaları karşısında nadir toprak ve kritik minerallerin tedarik zincirini güvence altına almak amacıyla milyarlarca dolarlık ortak yatırım planı üzerinde anlaştı."
-wixId: "0a601462-0daf-46b2-a3e7-d40791d21212"
-author: "Sedat Onat"
+title: ABD ve Avustralya Kritik Madenler İçin Stratejik İş Birliği Başlattı
+subtitle: ABD ve Avustralya Kritik Madenler İçin Stratejik İş Birliği Başlattı
+date: '2025-10-23T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_2b850b0f978241a59d2c187582adca5d~mv2.jpg
+imageAlt: ABD ve Avustralya, Çin’in ihracat kısıtlamaları karşısında nadir toprak ve kritik minerallerin tedarik zincirini güvence altına almak amacıyla milyarlarca dolarlık ortak yatırım planı üzerinde anlaştı.
+wixId: 0a601462-0daf-46b2-a3e7-d40791d21212
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- kritik mineraller
+- nadir toprak elementleri
+- ABD
+- Avustralya
+- Çin
+- tedarik zinciri güvenliği
+- jeopolitik
 ---
 <p style="text-align: justify"><strong>ABD</strong> ve <strong>Avustralya</strong>, askeri ve sanayi üretimi için hayati öneme sahip <strong>kritik minerallerin</strong> tedarik zincirini güçlendirmek amacıyla <strong>çok milyar dolarlık yeni bir iş birliği çerçevesi</strong> üzerinde uzlaştı. Bu gelişme, özellikle <strong>Çin’in nadir toprak elementleri</strong> üzerindeki <strong>ihracat kısıtlamalarını sıkılaştırması</strong> ve küresel pazarlarda stratejik üstünlüğünü artırması sonrasında hız kazandı.</p>
 <p><br></p>

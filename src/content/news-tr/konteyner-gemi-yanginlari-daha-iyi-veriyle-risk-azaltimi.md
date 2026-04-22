@@ -1,14 +1,22 @@
 ---
-title: "Konteyner Gemilerindeki Yangınlar: Daha İyi Veriyle Risk Azaltımı"
-subtitle: "Konteyner Gemilerindeki Yangınlar: Daha İyi Veriyle Risk Azaltımı"
-date: "2024-09-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_aabff8cedc1541a5bffa56336c40ee49~mv2.jpeg"
-imageAlt: "Konteyner Gemilerindeki Yangınlar: Daha İyi Veriyle Risk Azaltımı"
-wixId: "a3cac8e5-1995-49d8-adae-d37a49240dca"
-author: "Sedat Onat"
+title: 'Konteyner Gemilerindeki Yangınlar: Daha İyi Veriyle Risk Azaltımı'
+subtitle: 'Konteyner Gemilerindeki Yangınlar: Daha İyi Veriyle Risk Azaltımı'
+date: '2024-09-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_aabff8cedc1541a5bffa56336c40ee49~mv2.jpeg
+imageAlt: 'Konteyner Gemilerindeki Yangınlar: Daha İyi Veriyle Risk Azaltımı'
+wixId: a3cac8e5-1995-49d8-adae-d37a49240dca
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- konteyner gemisi
+- yangın riski
+- veri yönetimi
+- blok zinciri
+- denizcilik güvenliği
+- tehlikeli maddeler
+- dijital platformlar
 ---
 <p>Konteyner gemilerinde meydana gelen yangınlar, denizcilik sektöründe giderek artan bir endişe kaynağı haline gelmiştir. Bu yangınlar, sadece maddi kayıplara yol açmakla kalmaz, aynı zamanda çevresel felaketlere ve insan hayatının tehlikeye girmesine neden olur. Bu sorunun temelinde, yetersiz veri yönetimi ve paylaşımı yatmaktadır. Özellikle tehlikeli maddelerin yanlış sınıflandırılması veya hiç bildirilmemesi, yangın riskini önemli ölçüde artırır.</p>
 <p>Yüklerin doğru ve detaylı bir şekilde beyan edilmesi, gemi mürettebatının ve acil durum ekiplerinin olası tehlikelere karşı hazırlıklı olmasını sağlar. Ancak mevcut sistemlerdeki eksiklikler ve bazı yük sahiplerinin kasıtlı olarak yanlış beyanları, bu süreci zorlaştırmaktadır. Bu nedenle, daha şeffaf ve etkili bir veri paylaşımına ihtiyaç vardır.</p>

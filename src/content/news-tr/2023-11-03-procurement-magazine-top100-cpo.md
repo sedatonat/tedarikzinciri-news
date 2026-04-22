@@ -1,14 +1,22 @@
 ---
-title: "Procurement Magazine, Top100 CPO (Chief Procurement Officer) Listesi 'ni yayınladı"
-subtitle: "Procurement Magazine, Top100 CPO (Chief Procurement Officer) Listesi 'ni yayınladı"
-date: "2023-11-03T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_c30911ef83234e7d9919b60dd41c317b~mv2.png"
-imageAlt: "Procurement Magazine, Top100 CPO (Chief Procurement Officer) Listesi 'ni yayınladı"
-wixId: "06c48c6d-6795-420f-8986-3d8ef3664bb4"
-author: "Sedat Onat"
+title: Procurement Magazine, Top100 CPO (Chief Procurement Officer) Listesi 'ni yayınladı
+subtitle: Procurement Magazine, Top100 CPO (Chief Procurement Officer) Listesi 'ni yayınladı
+date: '2023-11-03T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_c30911ef83234e7d9919b60dd41c317b~mv2.png
+imageAlt: Procurement Magazine, Top100 CPO (Chief Procurement Officer) Listesi 'ni yayınladı
+wixId: 06c48c6d-6795-420f-8986-3d8ef3664bb4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CPO
+- satınalma müdürü
+- Procurement Magazine
+- Google
+- Unilever
+- Nestle
+- top 100 listesi
 ---
 <p>Procurement Magazine, Top100 Satınalma Müdürü (Procurement Manager) Listesi 'ni yayınladı.<br>
 <br>

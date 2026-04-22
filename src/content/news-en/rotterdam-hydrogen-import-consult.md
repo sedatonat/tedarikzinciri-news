@@ -1,16 +1,23 @@
 ---
-title: "Port of Rotterdam Launches Market Consultation to Accelerate Hydrogen Import Terminals"
-subtitle: "Port of Rotterdam Launches Market Consultation to Accelerate Hydrogen Import Terminals"
-date: "2025-11-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7920f8a457d640cfa5b04018242f1617~mv2.png"
-imageAlt: "Port of Rotterdam has initiated a market consultation process to accelerate the development of import terminals for hydrogen and hydrogen carriers (ammonia, methanol, LOHC); the aim is to overcome the energy transition's \"chicken-and-egg\" problem by identifying financial and operational bottlenecks."
-wixId: "114ae4dd-7457-45d9-b043-6828d3148c2d"
-author: "Sedat Onat"
+title: Port of Rotterdam Launches Market Consultation to Accelerate Hydrogen Import Terminals
+subtitle: Port of Rotterdam Launches Market Consultation to Accelerate Hydrogen Import Terminals
+date: '2025-11-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7920f8a457d640cfa5b04018242f1617~mv2.png
+imageAlt: Port of Rotterdam has initiated a market consultation process to accelerate the development of import terminals for hydrogen and hydrogen carriers (ammonia, methanol, LOHC); the aim is to overcome the energy transition's "chicken-and-egg" problem by identifying financial and operational bottlenecks.
+wixId: 114ae4dd-7457-45d9-b043-6828d3148c2d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Port of Rotterdam
+- hydrogen
+- ammonia
+- energy transition
+- terminal
+- market consultation
+- Europe
 ---
-
 <p style="text-align: justify"><strong>Port of Rotterdam</strong>, Europe's largest port, has announced the launch of a comprehensive <strong>market consultation</strong> process to accelerate imports of hydrogen and hydrogen carriers (ammonia, methanol, LOHC – Liquid Organic Hydrogen Carriers). The initiative demonstrates the port's intention to take a central role in the energy transition and its readiness to assume an active position in resolving delays in hydrogen infrastructure development.</p>
 <p><br></p>
 <p style="text-align: justify">According to port authorities, many companies are preparing plans to establish hydrogen import terminals; however, <strong>final investment decisions (FID)</strong> are being delayed significantly. This slowdown is hampering the integration of hydrogen into Europe's energy system. Hydrogen and its carriers are viewed as future <strong>alternatives to fossil fuels</strong>; however, uncertainties on both the supply and demand sides are complicating investment processes.</p>

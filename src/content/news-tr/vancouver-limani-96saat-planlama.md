@@ -1,14 +1,22 @@
 ---
-title: "Vancouver Limanı Yeni Planlama Sistemiyle Gemi Varışlarını 96 Saat Önceden Bildirecek"
-subtitle: "Vancouver Limanı Yeni Planlama Sistemiyle Gemi Varışlarını 96 Saat Önceden Bildirecek"
-date: "2025-12-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_36880165ab864f93b2dd622135c1b935~mv2.jpg"
-imageAlt: "Vancouver Limanı’nın merkezi planlama sistemiyle gemi varış bilgilerinin terminal operatörlerine en az 96 saat önce iletilmesi ve bunun iş gücü, ekipman, tıkanıklık ve Trans-Pasifik operasyonları üzerindeki etkilerinin detaylı özeti"
-wixId: "30d72d04-ed6e-4edd-860f-9c8772778b5f"
-author: "Sedat Onat"
+title: Vancouver Limanı Yeni Planlama Sistemiyle Gemi Varışlarını 96 Saat Önceden Bildirecek
+subtitle: Vancouver Limanı Yeni Planlama Sistemiyle Gemi Varışlarını 96 Saat Önceden Bildirecek
+date: '2025-12-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_36880165ab864f93b2dd622135c1b935~mv2.jpg
+imageAlt: Vancouver Limanı’nın merkezi planlama sistemiyle gemi varış bilgilerinin terminal operatörlerine en az 96 saat önce iletilmesi ve bunun iş gücü, ekipman, tıkanıklık ve Trans-Pasifik operasyonları üzerindeki etkilerinin detaylı özeti
+wixId: 30d72d04-ed6e-4edd-860f-9c8772778b5f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Vancouver Limanı
+- gemi planlama sistemi
+- liman operasyonları
+- Trans-Pasifik ticaret
+- tedarik zinciri görünürlüğü
+- terminal yönetimi
+- konteyner gemisi
 ---
 <p style="text-align: justify"><strong>Port of Vancouver</strong>, Kuzey Amerika’nın en karmaşık ve çok modlu liman yapılarından biri olarak uzun süredir operasyonel koordinasyon sorunlarıyla mücadele etmekteydi. Aralık 2025 itibarıyla liman, iki yıl önce başlatılan <strong>centralized vessel scheduling system</strong> projesini tamamladığını duyurdu. Bu sistem, konteyner gemilerinin varış bilgilerinin artık <strong>en az 96 saat (4 gün)</strong> önceden tüm terminal operatörleri ve ilgili paydaşlarla paylaşılmasını zorunlu hâle getiriyor.</p>
 <p><br></p>

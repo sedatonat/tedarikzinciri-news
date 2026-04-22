@@ -1,16 +1,24 @@
 ---
-title: "China–France Green Shipping Corridor Established Between Ningbo-Zhoushan and HAROPA Ports"
-subtitle: "China–France Green Shipping Corridor Established Between Ningbo-Zhoushan and HAROPA Ports"
-date: "2025-11-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a4b243247364449aaea653107ef3c953~mv2.jpg"
-imageAlt: "The green shipping corridor launched between Ningbo-Zhoushan (China) and HAROPA (France) ports aims to accelerate maritime decarbonisation under the International Green Shipping Corridor Cooperation Initiative. The project includes Bureau Veritas, MSC, CMA CGM, Zhejiang Seaport Group and China Waterborne Transport Research Institute."
-wixId: "c28ff241-15b9-4978-98fe-bd694d0d6923"
-author: "Sedat Onat"
+title: China–France Green Shipping Corridor Established Between Ningbo-Zhoushan and HAROPA Ports
+subtitle: China–France Green Shipping Corridor Established Between Ningbo-Zhoushan and HAROPA Ports
+date: '2025-11-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a4b243247364449aaea653107ef3c953~mv2.jpg
+imageAlt: The green shipping corridor launched between Ningbo-Zhoushan (China) and HAROPA (France) ports aims to accelerate maritime decarbonisation under the International Green Shipping Corridor Cooperation Initiative. The project includes Bureau Veritas, MSC, CMA CGM, Zhejiang Seaport Group and China Waterborne Transport Research Institute.
+wixId: c28ff241-15b9-4978-98fe-bd694d0d6923
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- green maritime corridor
+- Ningbo-Zhoushan
+- HAROPA
+- decarbonization
+- Bureau Veritas
+- CMA CGM
+- MSC
+- alternative fuel
 ---
-
 <p style="text-align: justify"><strong>A new international green shipping corridor</strong> has been established between <strong>China's Ningbo-Zhoushan Port</strong> and <strong>France's HAROPA Port Complex (Le Havre–Rouen–Paris)</strong>. The corridor was developed under the <strong>International Green Shipping Corridor Cooperation Initiative</strong> and was announced during the <strong>2025 North Bund Forum</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The objective is to accelerate <strong>decarbonisation in maritime transport</strong>, create a sustainable cooperation model for <strong>clean-energy vessels</strong> and <strong>low-carbon port operations</strong>.</p>

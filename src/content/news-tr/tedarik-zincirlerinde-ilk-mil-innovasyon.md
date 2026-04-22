@@ -1,14 +1,23 @@
 ---
-title: "Tedarik Zincirlerinde First-Mile Yenilik Çağı Başlıyor"
-subtitle: "Tedarik Zincirlerinde First-Mile Yenilik Çağı Başlıyor"
-date: "2024-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3b6e538a40ab49bc94b39dbb22abe8cd~mv2.jpg"
-imageAlt: "Tedarik Zincirlerinde First-Mile Yenilik Çağı Başlıyor"
-wixId: "ab1c885f-c10b-4810-8f6d-cb551e952387"
-author: "Sedat Onat"
+title: Tedarik Zincirlerinde First-Mile Yenilik Çağı Başlıyor
+subtitle: Tedarik Zincirlerinde First-Mile Yenilik Çağı Başlıyor
+date: '2024-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3b6e538a40ab49bc94b39dbb22abe8cd~mv2.jpg
+imageAlt: Tedarik Zincirlerinde First-Mile Yenilik Çağı Başlıyor
+wixId: ab1c885f-c10b-4810-8f6d-cb551e952387
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ilk mil
+- yapay zeka
+- tedarik zinciri inovasyonu
+- dijitalleşme
+- Danone
+- Shein
+- sürdürülebilirlik
+- Zero100
 ---
 <p>Zero100’in araştırma başkan yardımcısı Lauren Acoba, tedarik zinciri inovasyonlarının büyük çoğunluğunun son mil teslimata odaklandığını belirterek, bu yaklaşımın daha kapsamlı tedarik zinciri dönüşümlerini engellediğini ifade ediyor. Son on yılda, “ücretsiz ve hızlı” teslimatın cazibesi, online perakendeyi yeni zirvelere taşırken, işletmeleri yaratıcı teslimat yöntemleri geliştirmeye ve lojistik süreçlerinden maksimum verim almaya zorladı. Bu süreçte, yol kenarı dronlardan 15 dakikalık market teslimatlarına kadar birçok son mil inovasyonu ortaya çıktı. Ancak bu yenilikler, operasyonları sürdürme maliyetlerini yüksek tutuyor; Amazon’un ABD filosunu 5 milyar dolara yükseltmesi buna örnek olarak gösteriliyor.</p>
 <p><br></p>

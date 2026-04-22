@@ -1,14 +1,23 @@
 ---
-title: "Güney Afrika İlk Liman Özelleştirme Anlaşmasını İmzaladı: Durban Limanı Yeni Bir Döneme Giriyor"
-subtitle: "Güney Afrika İlk Liman Özelleştirme Anlaşmasını İmzaladı: Durban Limanı Yeni Bir Döneme Giriyor"
-date: "2025-12-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3149c21c76334f2cbb2394ab0cbdd60e~mv2.jpg"
-imageAlt: "Transnet’in Durban Limanı Pier 2 terminali için Enrique Razon liderliğindeki ICTSI ile imzaladığı Güney Afrika’nın ilk liman özelleştirme anlaşması, 647 milyon dolarlık yatırım, kapasite artışı ve lojistik maliyetlere etkisinin detaylı özeti"
-wixId: "671a67a1-b585-4af8-9465-4f28ff7bf717"
-author: "Sedat Onat"
+title: 'Güney Afrika İlk Liman Özelleştirme Anlaşmasını İmzaladı: Durban Limanı Yeni Bir Döneme Giriyor'
+subtitle: 'Güney Afrika İlk Liman Özelleştirme Anlaşmasını İmzaladı: Durban Limanı Yeni Bir Döneme Giriyor'
+date: '2025-12-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3149c21c76334f2cbb2394ab0cbdd60e~mv2.jpg
+imageAlt: Transnet’in Durban Limanı Pier 2 terminali için Enrique Razon liderliğindeki ICTSI ile imzaladığı Güney Afrika’nın ilk liman özelleştirme anlaşması, 647 milyon dolarlık yatırım, kapasite artışı ve lojistik maliyetlere etkisinin detaylı özeti
+wixId: 671a67a1-b585-4af8-9465-4f28ff7bf717
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- liman özelleştirme
+- Durban Limanı
+- Güney Afrika
+- ICTSI
+- Transnet
+- konteyner terminali
+- liman verimliliği
+- özel sektör ortaklığı
 ---
 <p style="text-align: justify">Güney Afrika, liman işletmeciliğinde tarihî bir eşikten geçmekte. Devlete ait <strong>Transnet SOC Ltd.</strong>, ülkenin ve Afrika kıtasının en büyük konteyner limanı olan <strong>Port of Durban</strong>’da yer alan <strong>Pier 2</strong> terminalinin genişletilmesi ve işletilmesi için özel sektörle ilk kez kapsamlı bir <strong>port privatisation</strong> anlaşması imzaladı. Bloomberg’in aktardığına göre, anlaşma Filipinli milyarder <strong>Enrique Razon</strong> liderliğindeki <strong>International Container Terminal Services Inc. (ICTSI)</strong> ile gerçekleştirildi.</p>
 <p><br></p>

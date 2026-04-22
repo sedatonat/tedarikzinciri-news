@@ -1,14 +1,22 @@
 ---
-title: "Kızıldeniz’de Husi Saldırısı: Tutor Gemisi Batırıldı"
-subtitle: "Kızıldeniz’de Husi Saldırısı: Tutor Gemisi Batırıldı"
-date: "2024-06-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_64ba72777f4a4befa0e8dc6f819b5304~mv2.jpg"
-imageAlt: "Kızıldeniz’de Husi Saldırısı: Tutor Gemisi Batırıldı"
-wixId: "d57624bd-58ac-4fc6-931c-b71e1418e981"
-author: "Sedat Onat"
+title: 'Kızıldeniz’de Husi Saldırısı: Tutor Gemisi Batırıldı'
+subtitle: 'Kızıldeniz’de Husi Saldırısı: Tutor Gemisi Batırıldı'
+date: '2024-06-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_64ba72777f4a4befa0e8dc6f819b5304~mv2.jpg
+imageAlt: 'Kızıldeniz’de Husi Saldırısı: Tutor Gemisi Batırıldı'
+wixId: d57624bd-58ac-4fc6-931c-b71e1418e981
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kızıldeniz
+- Husi saldırısı
+- Tutor gemisi
+- deniz ticareti
+- Yemen
+- gemi güvenliği
+- Refah Muhafızı Operasyonu
 ---
 <p>Kızıldeniz'de yaşanan gelişmeler, Yemen'deki İran destekli Husi güçlerinin deniz ticaretine yönelik saldırılarını artırarak uluslararası dikkatleri üzerine çekiyor. 13 Haziran 2024 tarihinde Husi askeri sözcüsü Yahya Seri tarafından sosyal medya hesabında paylaşılan görüntülerde, Liberya bayrağını taşıyan ve Yunan firması tarafından işletilen Tutor isimli geminin hedef alındığı ve başarıyla batırıldığı bildirildi. Seri, bu saldırının "İsrail limanlarına erişimin yasaklanması" kararını ihlal ettiği gerekçesiyle gerçekleştirildiğini belirtti.</p>
 <p><br></p>

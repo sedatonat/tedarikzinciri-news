@@ -1,14 +1,23 @@
 ---
-title: "Temu ve Shein ABD’de Soruşturma Tehdidi Altında: Zorla Çalıştırma ve Sahte Ürün İddiaları Gündemde"
-subtitle: "Temu ve Shein ABD’de Soruşturma Tehdidi Altında: Zorla Çalıştırma ve Sahte Ürün İddiaları Gündemde"
-date: "2025-12-03T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_04c2d8f4963749adba2ea987b9535317~mv2.jpg"
-imageAlt: "ABD’de Shein ve Temu’ya yönelik zorla çalıştırma, sahtecilik ve IP ihlali iddiaları nedeniyle başlatılan siyasi ve hukuki baskının, e-ticaret tedarik zincirleri ve de minimis kuralının kaldırılmasıyla bağlantısını anlatan detaylı haber özeti"
-wixId: "df4239ef-26b1-48f5-81d2-2bc7484c47ed"
-author: "Sedat Onat"
+title: 'Temu ve Shein ABD’de Soruşturma Tehdidi Altında: Zorla Çalıştırma ve Sahte Ürün İddiaları Gündemde'
+subtitle: 'Temu ve Shein ABD’de Soruşturma Tehdidi Altında: Zorla Çalıştırma ve Sahte Ürün İddiaları Gündemde'
+date: '2025-12-03T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_04c2d8f4963749adba2ea987b9535317~mv2.jpg
+imageAlt: ABD’de Shein ve Temu’ya yönelik zorla çalıştırma, sahtecilik ve IP ihlali iddiaları nedeniyle başlatılan siyasi ve hukuki baskının, e-ticaret tedarik zincirleri ve de minimis kuralının kaldırılmasıyla bağlantısını anlatan detaylı haber özeti
+wixId: df4239ef-26b1-48f5-81d2-2bc7484c47ed
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Shein
+- Temu
+- zorla çalıştırma
+- sahte ürün
+- e-ticaret
+- tedarik zinciri
+- fikri mülkiyet
+- ABD
 ---
 <p style="text-align: justify">ABD’de iki büyük indirim odaklı e-ticaret platformu olan <strong>Shein</strong> ve <strong>Temu</strong>, Aralık 2025 itibarıyla önemli bir siyasi ve hukuki baskı altına girmiş durumda. Hem federal hem eyalet düzeyinde soruşturma çağrıları yükselirken, platformların tedarik zinciri uygulamaları, iş gücü standartları ve fikri mülkiyet politikaları yeniden tartışma konusu olmakta.</p>
 <p><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "ESA and Partners Launch DECARDIS Initiative for Carbon Reduction in Shipping"
-subtitle: "ESA and Partners Launch DECARDIS Initiative for Carbon Reduction in Shipping"
-date: "2024-10-31T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a43fdb8f72a74d19aef778c6c3f38877~mv2.jpg"
-imageAlt: "ESA and Partners Launch DECARDIS Initiative for Carbon Reduction in Shipping"
-wixId: "504d2261-39a1-4b0a-8dac-e7c861aab6a8"
-author: "Sedat Onat"
+title: ESA and Partners Launch DECARDIS Initiative for Carbon Reduction in Shipping
+subtitle: ESA and Partners Launch DECARDIS Initiative for Carbon Reduction in Shipping
+date: '2024-10-31T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a43fdb8f72a74d19aef778c6c3f38877~mv2.jpg
+imageAlt: ESA and Partners Launch DECARDIS Initiative for Carbon Reduction in Shipping
+wixId: 504d2261-39a1-4b0a-8dac-e7c861aab6a8
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- maritime
+- carbon reduction
+- digitalization
+- port optimization
+- greenhouse gas emissions
+- ESA
+- Awake.AI
+- ABB
 ---
-
 <p>The European Space Agency (ESA), in collaboration with Awake.AI, ABB, and Wallenius Marine, has launched a new initiative called "Decarbonization through Digitalization in Shipping" (DECARDIS). Financed by ESA and led by Awake.AI, the project aims to develop a port call optimization solution that addresses inefficiencies between ships and ports to reduce greenhouse gas (GHG) emissions.</p>
 <p>The partners note that despite significant advances in ship technology and port automation, communication and data sharing between port and ship systems remain limited. Since navigation and berthing information is typically held in closed systems, vessels arrive on schedule but frequently encounter delays upon arrival. This situation leads to unnecessary fuel consumption and increased emissions.</p>
 <p><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "2025 Maritime Security Redefined: The Shift from Piracy to Remote Warfare"
-subtitle: "2025 Maritime Security Redefined: The Shift from Piracy to Remote Warfare"
-date: "2025-12-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_20fa6e3313384fac9410906c213f5b3a~mv2.jpg"
-imageAlt: "Detailed news summary on the new threat model affecting maritime transport in 2025—remote attacks conducted with drones, swarm tactics, port security vulnerabilities, and the backdrop of major shipping lines delaying their return to the Red Sea"
-wixId: "98a53778-6d85-4e26-b602-699c45b70ace"
-author: "Sedat Onat"
+title: '2025 Maritime Security Redefined: The Shift from Piracy to Remote Warfare'
+subtitle: '2025 Maritime Security Redefined: The Shift from Piracy to Remote Warfare'
+date: '2025-12-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_20fa6e3313384fac9410906c213f5b3a~mv2.jpg
+imageAlt: Detailed news summary on the new threat model affecting maritime transport in 2025—remote attacks conducted with drones, swarm tactics, port security vulnerabilities, and the backdrop of major shipping lines delaying their return to the Red Sea
+wixId: 98a53778-6d85-4e26-b602-699c45b70ace
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- maritime security
+- drone attacks
+- Red Sea
+- unmanned aerial vehicle
+- container ship
+- Maersk
+- cyber warfare
+- port security
 ---
-
 <p style="text-align: justify">2025 marks a watershed moment in global maritime security as the industry undergoes unprecedented restructuring. Historically, the primary threat to merchant shipping has been <strong>piracy</strong>—seizing vessels to extort ransom. In waters off Somalia and the <strong>Gulf of Guinea</strong>, pirate operations aimed to capture ships and crews to extract economic gain. But as of 2025, the threat profile has fundamentally changed: the objective is no longer to seize vessels, but to <strong>destroy them</strong>. This transformation is accelerating as state and non-state actors increasingly deploy low-cost unmanned systems at scale.</p>
 <p><br></p>
 <p style="text-align: justify">The new security paradigm is rooted entirely in <strong>remote warfare</strong>. As demonstrated by <strong>Houthis</strong> attacks in the Red Sea, strikes in the Black Sea during the Ukraine-Russia conflict, and assaults on Baltic oil terminals, the maritime sector has become a target for lightweight, affordable, and expendable drones. The fact that <strong>Shahed-type drones</strong> cost only <strong>$20,000–40,000</strong> while a container ship is worth <strong>over $100 million</strong> creates a highly sustainable economic dynamic for attackers. In this <strong>asymmetric warfare</strong> environment, expensive commercial assets face relentless pressure from cheap attack vectors.</p>

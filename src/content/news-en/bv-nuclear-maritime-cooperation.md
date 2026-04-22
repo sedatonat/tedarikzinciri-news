@@ -1,16 +1,24 @@
 ---
-title: "Bureau Veritas Signs Cooperation Declaration to Accelerate Nuclear Technologies in Maritime"
-subtitle: "Bureau Veritas Signs Cooperation Declaration to Accelerate Nuclear Technologies in Maritime"
-date: "2025-11-06T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_8d5c9626c3e14aa9bb40bc98c4dfb548~mv2.jpg"
-imageAlt: "Bureau Veritas, alongside more than 30 European nuclear and maritime organizations, signed a cooperation declaration aimed at accelerating Small Modular Reactors (SMRs) and nuclear technologies for safe, sustainable and low-carbon maritime applications."
-wixId: "9b380eef-63e6-4635-8358-ae17522b2fe7"
-author: "Sedat Onat"
+title: Bureau Veritas Signs Cooperation Declaration to Accelerate Nuclear Technologies in Maritime
+subtitle: Bureau Veritas Signs Cooperation Declaration to Accelerate Nuclear Technologies in Maritime
+date: '2025-11-06T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_8d5c9626c3e14aa9bb40bc98c4dfb548~mv2.jpg
+imageAlt: Bureau Veritas, alongside more than 30 European nuclear and maritime organizations, signed a cooperation declaration aimed at accelerating Small Modular Reactors (SMRs) and nuclear technologies for safe, sustainable and low-carbon maritime applications.
+wixId: 9b380eef-63e6-4635-8358-ae17522b2fe7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Bureau Veritas
+- nuclear technology
+- maritime
+- SMR
+- decarbonization
+- France
+- energy transition
+- IMO
 ---
-
 <p style="text-align: justify">Bureau Veritas (BV) has taken a significant step toward <strong>decarbonizing the maritime sector through nuclear technologies</strong>, a critical goal in Europe's energy transition. During the <strong>World Nuclear Exhibition</strong> in Paris, BV formally signed the "<strong>Declaration of Cooperation for Accelerating Nuclear for Maritime Applications</strong>" alongside <strong>more than 30 companies</strong> comprised of nuclear and maritime actors from France and other European countries.</p>
 <p><br></p>
 <p style="text-align: justify">This declaration supports a Europe-based initiative by bringing together the nuclear, maritime, financial, regulatory, and research communities within a common framework aimed at <strong>developing safe, sustainable, and low-carbon maritime ecosystems</strong>.</p>

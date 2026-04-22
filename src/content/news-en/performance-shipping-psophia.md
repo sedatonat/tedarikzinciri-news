@@ -1,16 +1,23 @@
 ---
-title: "Performance Shipping Retains Its Oldest Tanker as FPSO Conversion Tender Collapses"
-subtitle: "Performance Shipping Retains Its Oldest Tanker as FPSO Conversion Tender Collapses"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e3ffd9c7a99049d1818770f703e13fa0~mv2.jpg"
-imageAlt: "A detailed overview of the cancellation of the planned forward sale agreement for Performance Shipping's 2009-built aframax tanker P Sophia due to its failure to be selected for an FPSO conversion project, and the impacts on the company's fleet"
-wixId: "6894ce0b-6c23-4aeb-ac91-37967389e4f2"
-author: "Sedat Onat"
+title: Performance Shipping Retains Its Oldest Tanker as FPSO Conversion Tender Collapses
+subtitle: Performance Shipping Retains Its Oldest Tanker as FPSO Conversion Tender Collapses
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e3ffd9c7a99049d1818770f703e13fa0~mv2.jpg
+imageAlt: A detailed overview of the cancellation of the planned forward sale agreement for Performance Shipping's 2009-built aframax tanker P Sophia due to its failure to be selected for an FPSO conversion project, and the impacts on the company's fleet
+wixId: 6894ce0b-6c23-4aeb-ac91-37967389e4f2
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Performance Shipping
+- FPSO conversion
+- aframax tanker
+- vessel sale
+- offshore production
+- tanker fleet
+- P Sophia
 ---
-
 <p style="text-align: justify">Greek tanker owner <strong>Performance Shipping</strong> has confirmed the end of a sales process for <strong>P Sophia, a 2009-built aframax</strong>, the oldest vessel in its fleet. The <strong>forward sale + exclusivity agreement</strong> announced by the company in April was contingent on the vessel being selected as a candidate for an <strong>FPSO (Floating Production Storage and Offloading)</strong> conversion project. However, the project in question did not favor P Sophia, and the agreement was thus automatically terminated.</p>
 <p><br></p>
 <p style="text-align: justify">According to Performance Shipping's announcement, the unnamed third party acting as the buyer informed the company that the vessel was eliminated at the <strong>final cut</strong> stage for the relevant offshore project. This project is aimed at an offshore production field expected to be awarded in 2026 and involved the selection of a tanker suitable for FPSO conversion. Since P Sophia did not pass this selection, the exclusivity arrangement that took effect in April 2025 has automatically terminated.</p>

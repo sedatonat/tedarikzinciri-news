@@ -1,14 +1,23 @@
 ---
-title: "Kazakistan, İran Şehid Raci Limanı’nda Özel Lojistik Terminal Planını Yeniden Teyit Etti"
-subtitle: "Kazakistan, İran Şehid Raci Limanı’nda Özel Lojistik Terminal Planını Yeniden Teyit Etti"
-date: "2025-12-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e08fff0a78504989b577cbea9313295c~mv2.jpg"
-imageAlt: "Kazakistan’ın İran’daki Şehid Raci Limanı’nda özel bir lojistik terminal kurma planını yeniden teyit etmesi, Kazakistan–Türkmenistan–İran koridoru, Orta Asya’nın denize erişim stratejisi ve Orta Koridor dışı alternatif transit hatlara etkisinin detaylı özeti"
-wixId: "be241590-2941-4d85-a96b-216c7d919c0e"
-author: "Sedat Onat"
+title: Kazakistan, İran Şehid Raci Limanı’nda Özel Lojistik Terminal Planını Yeniden Teyit Etti
+subtitle: Kazakistan, İran Şehid Raci Limanı’nda Özel Lojistik Terminal Planını Yeniden Teyit Etti
+date: '2025-12-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e08fff0a78504989b577cbea9313295c~mv2.jpg
+imageAlt: Kazakistan’ın İran’daki Şehid Raci Limanı’nda özel bir lojistik terminal kurma planını yeniden teyit etmesi, Kazakistan–Türkmenistan–İran koridoru, Orta Asya’nın denize erişim stratejisi ve Orta Koridor dışı alternatif transit hatlara etkisinin detaylı özeti
+wixId: be241590-2941-4d85-a96b-216c7d919c0e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kazakistan
+- İran
+- Shahid Rajaee Limanı
+- lojistik terminal
+- Orta Asya
+- demiryolu-denizyolu entegrasyonu
+- transit koridor
+- liman yatırımı
 ---
 <p style="text-align: justify"><strong>Kazakistan</strong>, Orta Asya’dan Orta Doğu’ya uzanan transit stratejisinde kritik bir adımı yeniden teyit ederek, İran’ın en büyük ticari limanı olan <strong>Shahid Rajaee Port</strong>’ta <strong>özel bir taşımacılık ve lojistik terminali</strong> kurma planını resmen gündemde tuttuğunu açıkladı. Kazakistan Cumhurbaşkanı <strong>Kassym-Jomart Tokayev</strong>, <strong>11 Aralık’ta Astana’da düzenlenen Kazakhstan–Iran Business Forum</strong>’da yaptığı konuşmada, bu terminali ülkenin uzun vadeli lojistik vizyonunun kilit projelerinden biri olarak tanımlamakta.</p>
 <p><br></p>

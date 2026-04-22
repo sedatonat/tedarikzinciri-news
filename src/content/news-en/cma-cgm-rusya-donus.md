@@ -1,16 +1,23 @@
 ---
-title: "CMA CGM's \"Quiet\" Return to Russia: No Direct Service, But Feeder Network Present"
-subtitle: "CMA CGM's \"Quiet\" Return to Russia: No Direct Service, But Feeder Network Present"
-date: "2025-12-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b89d0da026c44b59ae1a68634893d5a1~mv2.jpg"
-imageAlt: "According to November-December 2025 logistics reports, a detailed analysis of CMA CGM's delayed planned direct return to Russia, India-linked feeder operations, and the company's risk management strategy"
-wixId: "afecd0ab-2873-44b3-bb52-b0aeb0cb75fd"
-author: "Sedat Onat"
+title: 'CMA CGM''s "Quiet" Return to Russia: No Direct Service, But Feeder Network Present'
+subtitle: 'CMA CGM''s "Quiet" Return to Russia: No Direct Service, But Feeder Network Present'
+date: '2025-12-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b89d0da026c44b59ae1a68634893d5a1~mv2.jpg
+imageAlt: According to November-December 2025 logistics reports, a detailed analysis of CMA CGM's delayed planned direct return to Russia, India-linked feeder operations, and the company's risk management strategy
+wixId: afecd0ab-2873-44b3-bb52-b0aeb0cb75fd
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- CMA CGM
+- Russia
+- feeder shipping
+- container shipping
+- transshipment
+- sanctions compliance
+- St. Petersburg
 ---
-
 <p style="text-align: justify"><strong>CMA CGM</strong>'s return to Russia, according to logistics reports from late November and December 2025, has not materialized as a direct operation as widely reported in the media. The company has not yet launched the <strong>direct call</strong> sailings it had planned to St. Petersburg; instead, it has resumed Russia-bound transport operations in a less visible and lower-risk model using a <strong>feeder-based</strong> format. This situation confirms the "<strong>quiet return</strong>" model highlighted by analysis firms and industry experts.</p>
 <p><br></p>
 <p style="text-align: justify">The company had announced it would extend its <strong>Finland Express (FLX)</strong> service to St. Petersburg from mid-November. This move was seen as CMA CGM's official return to Russia with its own <strong>blue hull</strong> mother vessels for the first time since 2022. However, tracking conducted as of early December shows that the planned vessels called at German and Finnish ports but did not head toward Russian ports. This picture aligns with analyst <strong>Peter Sand</strong>'s assessment that "first call has not happened yet."</p>

@@ -1,16 +1,24 @@
 ---
-title: "UK Says \"Military Options Ready\" If Russian Yantar Vessel Poses Threat"
-subtitle: "UK Says \"Military Options Ready\" If Russian Yantar Vessel Poses Threat"
-date: "2025-11-19T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_938d227faad940a7ab2a46f6d5c1c426~mv2.jpg"
-imageAlt: "After the Russian spy ship Yantar directed laser light at RAF pilots, Britain's Defence Secretary announced that military options would be deployed if the vessel poses a threat."
-wixId: "305d8b1a-429e-4acb-9fe7-37ea6e917172"
-author: "Sedat Onat"
+title: UK Says "Military Options Ready" If Russian Yantar Vessel Poses Threat
+subtitle: UK Says "Military Options Ready" If Russian Yantar Vessel Poses Threat
+date: '2025-11-19T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_938d227faad940a7ab2a46f6d5c1c426~mv2.jpg
+imageAlt: After the Russian spy ship Yantar directed laser light at RAF pilots, Britain's Defence Secretary announced that military options would be deployed if the vessel poses a threat.
+wixId: 305d8b1a-429e-4acb-9fe7-37ea6e917172
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Yantar ship
+- Russia
+- Britain
+- submarine cable
+- laser attack
+- RAF
+- maritime security
+- NATO
 ---
-
 <p style="text-align: justify">Tensions between the United Kingdom and Russia have escalated following the Russian special-purpose intelligence vessel <strong>Yantar's</strong> act of directing <strong>laser light at Royal Air Force (RAF) pilots</strong>. According to Reuters, UK Defence Secretary <strong>John Healey</strong> described the vessel's behaviour as "extremely dangerous," stating that <strong>"military options are ready"</strong> should the Yantar change course or attempt a hostile maneuver.</p>
 <p><br></p>
 <p style="text-align: justify">The RAF and Royal Navy routinely monitor ships and submarines that could pose national security threats. Since Russia's 2022 invasion of Ukraine, Russian military and intelligence activities around the UK have come under increasingly close surveillance. Vessels like Yantar are closely monitored by NATO countries, particularly due to their capacity for <strong>submarine cable mapping and signals intelligence</strong> gathering.</p>

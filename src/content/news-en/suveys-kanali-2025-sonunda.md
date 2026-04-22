@@ -1,16 +1,23 @@
 ---
-title: "Suez Canal to Reopen by End of 2025"
-subtitle: "Suez Canal to Reopen by End of 2025"
-date: "2025-02-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_725ebb652b664c009717b3f240b1e60e~mv2.jpg"
-imageAlt: "Suez Canal to Reopen by End of 2025"
-wixId: "39880ef6-1103-4802-9ee2-1b0bb725581b"
-author: "Sedat Onat"
+title: Suez Canal to Reopen by End of 2025
+subtitle: Suez Canal to Reopen by End of 2025
+date: '2025-02-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_725ebb652b664c009717b3f240b1e60e~mv2.jpg
+imageAlt: Suez Canal to Reopen by End of 2025
+wixId: 39880ef6-1103-4802-9ee2-1b0bb725581b
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Suez Canal
+- Drewry
+- maritime transport
+- supply chain
+- Egypt
+- Asia-Europe trade
+- canal modernization
 ---
-
 <p style="text-align: justify"><strong>Drewry</strong> survey findings indicate that the <strong>Suez Canal</strong> is expected to reopen toward the end of 2025. This development will have significant implications for global supply chains and the maritime shipping sector.</p>
 <p><br></p>
 <p style="text-align: justify">The <strong>Suez Canal</strong> came into focus in 2021 following the grounding of the <strong>Ever Given</strong> vessel. That incident underscored the critical importance of the canal to global commerce. In its aftermath, work began on widening and modernizing the canal. The <strong>Egyptian government</strong> is undertaking various projects to increase the canal's capacity and prevent similar incidents.</p>

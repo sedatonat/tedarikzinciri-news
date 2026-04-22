@@ -1,16 +1,23 @@
 ---
-title: "Pocket Box Strengthens Fleet Management with Innovative Asset Module"
-subtitle: "Pocket Box Strengthens Fleet Management with Innovative Asset Module"
-date: "2024-04-25T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_da1748733bb5487d907052ea8bb95806~mv2.jpg"
-imageAlt: "Pocket Box Strengthens Fleet Management with Innovative Asset Module"
-wixId: "525948f6-8e36-4069-aa0b-c047cdd96ab1"
-author: "Sedat Onat"
+title: Pocket Box Strengthens Fleet Management with Innovative Asset Module
+subtitle: Pocket Box Strengthens Fleet Management with Innovative Asset Module
+date: '2024-04-25T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_da1748733bb5487d907052ea8bb95806~mv2.jpg
+imageAlt: Pocket Box Strengthens Fleet Management with Innovative Asset Module
+wixId: 525948f6-8e36-4069-aa0b-c047cdd96ab1
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Pocket Box
+- fleet management
+- asset management
+- road transport
+- logistics software
+- SME
+- digital solution
 ---
-
 <p><a href="https://pocketbox.co.uk/fleet-management/"><u>Pocket Box</u></a> is advancing its fleet management software solution for small and medium-sized enterprises, aiming to meet the growing demands of road transport operators. With the newly added asset module, <a href="https://pocketbox.co.uk/fleet-management/"><u>Pocket Box</u></a> Fleet delivers a system that simplifies the management of vehicles, trailers, equipment, and drivers. This module enables businesses to protect, monitor, and secure their various assets.</p>
 <p><br></p>
 <p>Jim Finnegan, the company's CEO, notes that since Pocket Box Fleet's launch, customers have expressed a need to manage other logistics and material handling equipment alongside their vehicle operations. The new software development aims to consolidate all resources within a single system. This will allow businesses to gain complete control and visibility over their physical assets.</p>

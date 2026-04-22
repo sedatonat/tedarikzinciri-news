@@ -1,14 +1,23 @@
 ---
-title: "Amazon’un Kırsal Depo Hamlesi: Onlarca Yeni Tesis"
-subtitle: "Amazon’un Kırsal Depo Hamlesi: Onlarca Yeni Tesis"
-date: "2025-02-08T00:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_26fb59fffde141a4b461ebca74ec64d4~mv2.png"
-imageAlt: "Amazon’un Kırsal Depo Hamlesi: Onlarca Yeni Tesis"
-wixId: "5a301dda-be01-4b7d-826d-bcf2660841b0"
-author: "Sedat Onat"
+title: 'Amazon’un Kırsal Depo Hamlesi: Onlarca Yeni Tesis'
+subtitle: 'Amazon’un Kırsal Depo Hamlesi: Onlarca Yeni Tesis'
+date: '2025-02-08T00:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_26fb59fffde141a4b461ebca74ec64d4~mv2.png
+imageAlt: 'Amazon’un Kırsal Depo Hamlesi: Onlarca Yeni Tesis'
+wixId: 5a301dda-be01-4b7d-826d-bcf2660841b0
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Amazon
+- kırsal lojistik
+- micro-fulfillment
+- son kilometre
+- depo
+- AI demand planning
+- e-ticaret
+- ABD
 ---
 <p>Amazon’un kırsal ABD’de onlarca depo kurma planı, son kilometre kapsamını genişletmekte. Plan, micro-fulfillment centers, regional sortation hubs, ve local delivery stations ekosistemiyle hizmet verimini artırmakta. Yatırım, teslimat süresini kısaltmakta, erişimi artırmakta ve Prime sözünü daha çok bölgede mümkün kılmakta. Ağ tasarımında hub-and-spoke ile point-to-point arasında hibrit bir kurgu benimsenmekte; stok yerleşimi AI demand planning ile yönetilmekte. Yerel istihdam ve KOBİ tedarik zincirleri üzerinde çarpan etkisi beklenmekte.&nbsp;</p>
 <p><br></p>

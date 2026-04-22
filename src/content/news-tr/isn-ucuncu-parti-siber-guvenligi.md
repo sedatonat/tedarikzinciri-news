@@ -1,14 +1,22 @@
 ---
-title: "ISN, Üçüncü Taraf Siber Güvenlik Gözetimini Geliştirdi"
-subtitle: "ISN, Üçüncü Taraf Siber Güvenlik Gözetimini Geliştirdi"
-date: "2025-09-04T00:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_e82dff8251ab419c82a387478884afee~mv2.png"
-imageAlt: "Isn, Üçüncü Taraf Siber Güvenlik Gözetimini Geliştirdi"
-wixId: "155c006f-984b-44e5-b0bd-24e67e87503d"
-author: "Sedat Onat"
+title: ISN, Üçüncü Taraf Siber Güvenlik Gözetimini Geliştirdi
+subtitle: ISN, Üçüncü Taraf Siber Güvenlik Gözetimini Geliştirdi
+date: '2025-09-04T00:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_e82dff8251ab419c82a387478884afee~mv2.png
+imageAlt: Isn, Üçüncü Taraf Siber Güvenlik Gözetimini Geliştirdi
+wixId: 155c006f-984b-44e5-b0bd-24e67e87503d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ISN
+- siber güvenlik
+- tedarik zinciri
+- TPRM
+- üçüncü taraf riski
+- continuous monitoring
+- güvenlik çerçeveleri
 ---
 <p style="text-align: justify"><strong>Tedarik Zinciri Siber Güvenliği</strong>, günümüzde yalnız kurum içi önlemlerle değil, <strong>üçüncü taraf risklerinin (Third-Party Risk Management – TPRM)</strong> etkin yönetimiyle sağlanabiliyor. Bu bağlamda <strong>ISN</strong> tarafından geliştirilen yeni yetenekler, <strong>yüklenici ve tedarikçi güvenlik duruşunun (security posture)</strong> çok daha derinlemesine izlenmesine imkân tanıyor. Platform, <strong>evidence-based attestation</strong>, <strong>policy mapping</strong> ve <strong>continuous monitoring</strong> fonksiyonlarını bir araya getirerek hem denetim süreçlerini sadeleştiriyor hem de sürekli görünürlük sağlıyor.</p>
 <p style="text-align: justify"><br></p>

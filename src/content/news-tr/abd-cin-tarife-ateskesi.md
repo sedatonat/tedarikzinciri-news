@@ -1,14 +1,22 @@
 ---
-title: "ABD ve Çin Ticaret Ateşkesi Kapsamında Tarifeleri Düşürme ve Soruşturmaları Askıya Alma Kararı Aldı"
-subtitle: "ABD ve Çin Ticaret Ateşkesi Kapsamında Tarifeleri Düşürme ve Soruşturmaları Askıya Alma Kararı Aldı"
-date: "2025-10-30T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_fdade5592372422584566fa3b12f241e~mv2.jpg"
-imageAlt: "ABD Başkanı Donald Trump ve Çin Devlet Başkanı Xi Jinping, Güney Kore’nin Busan kentinde düzenlenen görüşmede ticaret savaşına ilişkin ateşkes anlaşmasına vardı. Anlaşma; tarifelerin düşürülmesi, karşılıklı soruşturmaların durdurulması ve nadir toprak ihracat kontrollerinin askıya alınmasını kapsıyor."
-wixId: "ea960e41-8a86-4d5d-9356-d47d29fb6a8e"
-author: "Sedat Onat"
+title: ABD ve Çin Ticaret Ateşkesi Kapsamında Tarifeleri Düşürme ve Soruşturmaları Askıya Alma Kararı Aldı
+subtitle: ABD ve Çin Ticaret Ateşkesi Kapsamında Tarifeleri Düşürme ve Soruşturmaları Askıya Alma Kararı Aldı
+date: '2025-10-30T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_fdade5592372422584566fa3b12f241e~mv2.jpg
+imageAlt: ABD Başkanı Donald Trump ve Çin Devlet Başkanı Xi Jinping, Güney Kore’nin Busan kentinde düzenlenen görüşmede ticaret savaşına ilişkin ateşkes anlaşmasına vardı. Anlaşma; tarifelerin düşürülmesi, karşılıklı soruşturmaların durdurulması ve nadir toprak ihracat kontrollerinin askıya alınmasını kapsıyor.
+wixId: ea960e41-8a86-4d5d-9356-d47d29fb6a8e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD-Çin ticaret savaşı
+- tarifeler
+- tedarik zinciri
+- nadir toprak elementleri
+- lojistik soruşturması
+- ihracat kısıtlamaları
+- APEC zirvesi
 ---
 <p style="text-align: justify"><strong>ABD ile Çin</strong>, aylar süren müzakereler ve karşılıklı ticaret yaptırımlarının ardından <strong>tarifeler, ihracat kontrolleri ve lojistik soruşturmalar</strong> üzerine uzlaşmaya vardı. <strong>30 Ekim 2025 sabahı</strong>, <strong>Busan’daki Gimhae Hava Üssü’nde</strong> gerçekleştirilen zirvede <strong>ABD Başkanı Donald Trump</strong> ve <strong>Çin Devlet Başkanı Xi Jinping</strong>, iki ülke arasındaki <strong>ticaret ateşkesi anlaşmasını</strong> duyurdu.</p>
 <p style="text-align: justify"><br></p>

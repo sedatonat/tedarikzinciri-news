@@ -1,16 +1,23 @@
 ---
-title: "Baltimore Bridge Demolition: Reopening the Shipping Channel"
-subtitle: "Baltimore Bridge Demolition: Reopening the Shipping Channel"
-date: "2024-05-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8f53b3e2cb3d462d866437252cc92185~mv2.jpg"
-imageAlt: "Baltimore Bridge Demolition: Reopening the Shipping Channel"
-wixId: "bde179d1-482a-4816-8fb5-b726746c21fd"
-author: "Sedat Onat"
+title: 'Baltimore Bridge Demolition: Reopening the Shipping Channel'
+subtitle: 'Baltimore Bridge Demolition: Reopening the Shipping Channel'
+date: '2024-05-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8f53b3e2cb3d462d866437252cc92185~mv2.jpg
+imageAlt: 'Baltimore Bridge Demolition: Reopening the Shipping Channel'
+wixId: bde179d1-482a-4816-8fb5-b726746c21fd
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Baltimore Port
+- container ship
+- bridge collapse
+- port operations
+- Dali vessel
+- maritime accident
+- infrastructure damage
 ---
-
 <p>The controlled demolition of the Francis Scott Key Bridge in Baltimore marks a critical step in salvaging the container ship Dali, which has been trapped beneath the wreckage since March 26. The demolition followed the bridge's partial collapse seven weeks earlier and is part of efforts to reopen the main shipping channel to Baltimore Harbor. Following the demolition, the Dali is expected to be refloated and traffic to the dock is anticipated to return to normal operations. This process will end the prolonged disruption at the port, providing relief to port workers and small business owners. The estimated cost of rebuilding the bridge is between $1.7 billion and $1.9 billion, with construction expected to take approximately four years.</p>
 <p><br></p>
 <p><br></p>

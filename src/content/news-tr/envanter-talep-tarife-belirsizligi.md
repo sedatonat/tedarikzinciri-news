@@ -1,14 +1,22 @@
 ---
-title: "Tarife Belirsizliğine Rağmen Depo Talebi Artıyor: ABD Sanayi Gayrimenkulünde Güçlü Üçüncü Çeyrek"
-subtitle: "Tarife Belirsizliğine Rağmen Depo Talebi Artıyor: ABD Sanayi Gayrimenkulünde Güçlü Üçüncü Çeyrek"
-date: "2025-11-05T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_1516d1c2162e4c2c8ecb5070f424aca7~mv2.jpg"
-imageAlt: "ABD’de Q3 2025’te net endüstriyel gayrimenkul absorpsiyonu 60 milyon ft²’ye ulaştı; Phoenix ve Indianapolis talep artışında başı çekerken, şirketlerin tarife belirsizliğine rağmen uzun vadeli depo yatırımlarına yöneldiği görüldü."
-wixId: "7221129c-d248-4020-9cdf-d6c4aa0c3b0e"
-author: "Sedat Onat"
+title: 'Tarife Belirsizliğine Rağmen Depo Talebi Artıyor: ABD Sanayi Gayrimenkulünde Güçlü Üçüncü Çeyrek'
+subtitle: 'Tarife Belirsizliğine Rağmen Depo Talebi Artıyor: ABD Sanayi Gayrimenkulünde Güçlü Üçüncü Çeyrek'
+date: '2025-11-05T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_1516d1c2162e4c2c8ecb5070f424aca7~mv2.jpg
+imageAlt: ABD’de Q3 2025’te net endüstriyel gayrimenkul absorpsiyonu 60 milyon ft²’ye ulaştı; Phoenix ve Indianapolis talep artışında başı çekerken, şirketlerin tarife belirsizliğine rağmen uzun vadeli depo yatırımlarına yöneldiği görüldü.
+wixId: 7221129c-d248-4020-9cdf-d6c4aa0c3b0e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- depo talebi
+- sanayi gayrimenkul
+- ABD
+- tarife belirsizliği
+- lojistik yatırımları
+- tedarik zinciri
+- e-ticaret
 ---
 <p style="text-align: justify">ABD’de sanayi ve lojistik gayrimenkulüne yönelik talep, 2025’in üçüncü çeyreğinde yeniden ivme kazanarak tarife kaynaklı ekonomik belirsizliklere rağmen <strong>güçlü bir büyüme sinyali</strong> verdi. Colliers’ın yayımladığı rapora göre, Q3’te <strong>net absorpsiyon (occupied space artışı)</strong> <strong>60 milyon ft²</strong> seviyesine ulaşarak 2023’ün ilk çeyreğinden bu yana görülen en yüksek noktaya çıktı. Bu artış, geçen yılın aynı dönemine göre <strong>yaklaşık 20 milyon ft²’lik</strong> bir sıçramaya denk geliyor.</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "Canada Post Strikes: How Can Shippers Manage Holiday Peak Season?"
-subtitle: "Canada Post Strikes: How Can Shippers Manage Holiday Peak Season?"
-date: "2025-11-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8c9599d7e30e4539bd1459db0cb71129~mv2.jpg"
-imageAlt: "Canada Post workers' rotating strikes create unpredictable delivery delays as the holiday season approaches. Experts recommend that businesses strengthen customer communications, add alternative carriers, and maintain strong local delivery partners in major cities."
-wixId: "b13aefc9-cb3c-4c1d-a08b-3d0fdcc4994e"
-author: "Sedat Onat"
+title: 'Canada Post Strikes: How Can Shippers Manage Holiday Peak Season?'
+subtitle: 'Canada Post Strikes: How Can Shippers Manage Holiday Peak Season?'
+date: '2025-11-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8c9599d7e30e4539bd1459db0cb71129~mv2.jpg
+imageAlt: Canada Post workers' rotating strikes create unpredictable delivery delays as the holiday season approaches. Experts recommend that businesses strengthen customer communications, add alternative carriers, and maintain strong local delivery partners in major cities.
+wixId: b13aefc9-cb3c-4c1d-a08b-3d0fdcc4994e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Canada Post
+- strike
+- holiday season
+- logistics
+- alternative carriers
+- e-commerce
+- delivery delays
 ---
-
 <p style="text-align: justify">The <strong>rotating strikes</strong> launched by Canada Post workers following the collapse of collective bargaining negotiations pose a critical risk for shippers as the holiday season approaches. While less disruptive than a full-scale national stoppage, the sporadic short-term work stoppages in specific regions are causing mail and packages to face <strong>unpredictable delays</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The CUPW (Canadian Union of Postal Workers) called a <strong>national strike</strong> last holiday season, bringing Canada Post operations to a standstill. This year, the union is employing a <strong>rotating strike strategy instead of a complete shutdown</strong>, aiming to maintain pressure while reducing the burden on workers.</p>

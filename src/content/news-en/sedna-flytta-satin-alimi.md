@@ -1,16 +1,23 @@
 ---
-title: "Sedna Acquires Flytta"
-subtitle: "Sedna Acquires Flytta"
-date: "2025-03-04T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_6ebd413680444286a9310436f28affd6~mv2.jpg"
-imageAlt: "Sedna Acquires Flytta"
-wixId: "45a638d8-2449-415a-8d5a-0b40442224db"
-author: "Sedat Onat"
+title: Sedna Acquires Flytta
+subtitle: Sedna Acquires Flytta
+date: '2025-03-04T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_6ebd413680444286a9310436f28affd6~mv2.jpg
+imageAlt: Sedna Acquires Flytta
+wixId: 45a638d8-2449-415a-8d5a-0b40442224db
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Sedna
+- Flytta
+- acquisition
+- artificial intelligence
+- workflow automation
+- supply chain
+- maritime technology
 ---
-
 <p style="text-align: justify">UK-based technology firm <strong>Sedna</strong> has acquired <strong>Flytta</strong>, an artificial intelligence-powered workflow automation platform for global commerce and supply chains. The acquisition price was not disclosed.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Flytta</strong> was initially developed at <strong>Casper Shipping</strong> to streamline internal operations and was later commercialized through further development by <strong>Seer</strong>. The platform's import and export automation workflow is now part of <strong>Sedna AI</strong> and serves customers including <strong>Casper Customs</strong>, <strong>Pentagon Freight Services</strong>, and <strong>Mobius Technology</strong>.</p>

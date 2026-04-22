@@ -1,16 +1,24 @@
 ---
-title: "SAFEEN Subsea Launches Eco-Friendly Unmanned Vessel: 'SAFEEN Green'"
-subtitle: "SAFEEN Subsea Launches Eco-Friendly Unmanned Vessel: 'SAFEEN Green'"
-date: "2024-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4f603231626646a496eab606b020520a~mv2.jpg"
-imageAlt: "SAFEEN Green, an eco-friendly unmanned surface vessel from SAFEEN Subsea"
-wixId: "1bc67922-ae42-418e-b9ea-daada4e88839"
-author: "Sedat Onat"
+title: 'SAFEEN Subsea Launches Eco-Friendly Unmanned Vessel: ''SAFEEN Green'''
+subtitle: 'SAFEEN Subsea Launches Eco-Friendly Unmanned Vessel: ''SAFEEN Green'''
+date: '2024-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4f603231626646a496eab606b020520a~mv2.jpg
+imageAlt: SAFEEN Green, an eco-friendly unmanned surface vessel from SAFEEN Subsea
+wixId: 1bc67922-ae42-418e-b9ea-daada4e88839
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- unmanned surface vessel
+- USV
+- SAFEEN Subsea
+- green technology
+- autonomous vehicle
+- renewable energy
+- maritime technology
+- AD Ports Group
 ---
-
 <p>SAFEEN Subsea, part of AD Ports Group's Maritime &amp; Shipping Cluster, has introduced <strong>'SAFEEN Green'</strong>, a remotely operated unmanned surface vessel (USV) capable of operating up to 200 nautical miles offshore. The vessel is designed to gather high-quality geophysical and hydrographic data with minimal environmental impact.</p>
 <p><br></p>
 <p><strong>SAFEEN Green</strong> is operated by a Remote Operation Centre (ROC) onshore and employs advanced navigation and safety technologies for seamless and secure operations. The vessel runs on 100% renewable electricity or biofuel, emitting just 10% of the emissions of a conventional vessel, thereby significantly reducing its carbon footprint.</p>

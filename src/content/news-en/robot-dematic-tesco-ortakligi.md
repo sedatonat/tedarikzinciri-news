@@ -1,16 +1,24 @@
 ---
-title: "Dematic and Tesco Partnership: A New Era in Retail Solutions"
-subtitle: "Dematic and Tesco Partnership: A New Era in Retail Solutions"
-date: "2025-02-18T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_f5c3c4bf75ec4b47be23f4a20888930a~mv2.jpg"
-imageAlt: "Dematic and Tesco Partnership: A New Era in Retail Solutions"
-wixId: "b6986280-bd67-4894-a4b0-3df0ef052ad7"
-author: "Sedat Onat"
+title: 'Dematic and Tesco Partnership: A New Era in Retail Solutions'
+subtitle: 'Dematic and Tesco Partnership: A New Era in Retail Solutions'
+date: '2025-02-18T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_f5c3c4bf75ec4b47be23f4a20888930a~mv2.jpg
+imageAlt: 'Dematic and Tesco Partnership: A New Era in Retail Solutions'
+wixId: b6986280-bd67-4894-a4b0-3df0ef052ad7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Dematic
+- Tesco
+- retail
+- supply chain optimization
+- artificial intelligence
+- machine learning
+- order management
+- digital transformation
 ---
-
 <p style="text-align: justify"><strong>Dematic</strong> is a leading supply chain optimization company offering innovative solutions in the retail sector. <strong>Tesco</strong>, headquartered in the United Kingdom, is one of the world's largest retail chains. These two companies have established a strategic partnership to enhance the order fulfillment processes for grocery deliveries.​</p>
 <p><br></p>
 <p style="text-align: justify">The core objective of the partnership is to optimize <strong>Tesco</strong>'s order fulfillment operations using <strong>Dematic</strong>'s <strong>Dematic Transcend</strong> software platform. <strong>Dematic Transcend</strong> is a flexible and scalable software solution designed specifically for the retail sector. This platform integrates order management, inventory control, and logistics operations, increasing efficiency and reducing costs.​</p>

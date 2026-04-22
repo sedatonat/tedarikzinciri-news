@@ -1,16 +1,23 @@
 ---
-title: "Impact of Canadian Railway Strike on U.S. Ports"
-subtitle: "Impact of Canadian Railway Strike on U.S. Ports"
-date: "2024-05-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a59bc9a7024c49cf9a5994e7d932cfc3~mv2.jpg"
-imageAlt: "Impact of Canadian Railway Strike on U.S. Ports"
-wixId: "1e0c9961-02ad-4611-a7db-ca7f1323dbb3"
-author: "Sedat Onat"
+title: Impact of Canadian Railway Strike on U.S. Ports
+subtitle: Impact of Canadian Railway Strike on U.S. Ports
+date: '2024-05-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a59bc9a7024c49cf9a5994e7d932cfc3~mv2.jpg
+imageAlt: Impact of Canadian Railway Strike on U.S. Ports
+wixId: 1e0c9961-02ad-4611-a7db-ca7f1323dbb3
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Canadian rail
+- port operations
+- strike
+- container transport
+- intermodal transport
+- Los Angeles Long Beach
+- supply chain
 ---
-
 <p>A potential strike by Canadian railway workers is creating significant strain on U.S. West Coast port facilities. According to a report prepared by ITS Logistics, shippers are rerouting containers from Canada to the U.S. to avoid potential operational disruptions. This adds further pressure on a chain of effects that began when <a href="https://www.tedarikzinciriportali.com/post/maersk-baltimore-koprusu-kazasi"><u>the Francis Scott Key Bridge at Baltimore Port collapsed</u></a>, leading to port closure.</p>
 <p><br></p>
 <p>In particular, Norfolk Port is experiencing significant increases in dray and container storage capacity. This increase stems from demand shifts spreading across the U.S. East Coast. Inland point intermodal (IPI) container dwell issues continue at Los Angeles and Long Beach (LA/LB) ports.</p>

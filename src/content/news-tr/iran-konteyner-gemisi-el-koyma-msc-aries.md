@@ -1,14 +1,23 @@
 ---
-title: "İran'ın Konteyner Gemisine El Koymasıyla Beklenen Deniz Nakliye Ücretlerinde Artış"
-subtitle: "İran'ın Konteyner Gemisine El Koymasıyla Beklenen Deniz Nakliye Ücretlerinde Artış"
-date: "2024-04-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8326b989c75342368f3eed8791eb68a8~mv2.png"
-imageAlt: "İran'ın Konteyner Gemisine El Koymasıyla Beklenen Deniz Nakliye Ücretlerinde Artış"
-wixId: "7d680579-8c93-4a99-bdb3-5784e7e2492a"
-author: "Sedat Onat"
+title: İran'ın Konteyner Gemisine El Koymasıyla Beklenen Deniz Nakliye Ücretlerinde Artış
+subtitle: İran'ın Konteyner Gemisine El Koymasıyla Beklenen Deniz Nakliye Ücretlerinde Artış
+date: '2024-04-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8326b989c75342368f3eed8791eb68a8~mv2.png
+imageAlt: İran'ın Konteyner Gemisine El Koymasıyla Beklenen Deniz Nakliye Ücretlerinde Artış
+wixId: 7d680579-8c93-4a99-bdb3-5784e7e2492a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- İran
+- Hürmüz Boğazı
+- konteyner gemisi
+- deniz nakliye ücretleri
+- jeopolitik risk
+- MSC Aries
+- sigorta maliyetleri
+- enerji güvenliği
 ---
 <p>15 Nisan 2024 tarihinde İran'ın <a href="https://en.wikipedia.org/wiki/Strait_of_Hormuz"><u>Hürmüz Boğazı</u></a> yakınlarında bir ticari konteyner gemisine el koyması, deniz nakliye ücretleri ve sigorta masraflarında önemli bir artışa yol açması bekleniyor.&nbsp;</p>
 <p><br></p>

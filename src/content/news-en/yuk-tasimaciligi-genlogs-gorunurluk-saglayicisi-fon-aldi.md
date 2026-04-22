@@ -1,16 +1,24 @@
 ---
-title: "Truckload Visibility Provider Secures Funding to Expand Sensor Network"
-subtitle: "Truckload Visibility Provider Secures Funding to Expand Sensor Network"
-date: "2025-02-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5e2d2e1cd397452885790e0a9535a87e~mv2.jpg"
-imageAlt: "Truckload Visibility Provider Secures Funding to Expand Sensor Network"
-wixId: "9bafe9b4-23f5-4736-88d9-478e5962f2b7"
-author: "Sedat Onat"
+title: Truckload Visibility Provider Secures Funding to Expand Sensor Network
+subtitle: Truckload Visibility Provider Secures Funding to Expand Sensor Network
+date: '2025-02-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5e2d2e1cd397452885790e0a9535a87e~mv2.jpg
+imageAlt: Truckload Visibility Provider Secures Funding to Expand Sensor Network
+wixId: 9bafe9b4-23f5-4736-88d9-478e5962f2b7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- GenLogs
+- sensor network
+- trucking
+- visibility
+- freight fraud
+- data analytics
+- North America
+- investment
 ---
-
 <p style="text-align: justify"><strong>GenLogs</strong>, a technology company delivering innovative solutions in the U.S. trucking sector, gathers truckload transportation data through its network of roadside sensors, thereby providing transparency in freight transport. The company has recently secured a $14.6 million investment to expand its sensor network and extend operations into Mexico and Canada. ​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>GenLogs</strong> CEO Ryan Joyce states that the company currently works with more than 50 freight brokers across the United States and uses data obtained from its sensor network to help manage shipping fraud, identify sales opportunities, and assess capacity. Joyce notes that this data is also valuable for shippers and trucking companies directly, and the company aims to serve these segments as well. ​</p>

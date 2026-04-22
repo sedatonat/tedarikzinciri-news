@@ -1,14 +1,22 @@
 ---
-title: "Trump Yönetimi, Atlantik’teki Açık Deniz Petrol Arama Planlarından Geri Adım Attı"
-subtitle: "Trump Yönetimi, Atlantik’teki Açık Deniz Petrol Arama Planlarından Geri Adım Attı"
-date: "2025-10-29T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d97ceb1ba78d461cb70ee559a44a1e71~mv2.jpg"
-imageAlt: "Trump yönetimi, ABD’nin Doğu Kıyısı boyunca açık deniz petrol ve doğalgaz arama lisanslarını satışa çıkarma planını geri çekti. Karar, özellikle Güneydoğu’daki Cumhuriyetçi eyaletlerde turizme olası zarar endişeleri ve çevreci tepkiler üzerine alındı."
-wixId: "a03a67bb-374c-4417-b4c1-a221cc08dbbf"
-author: "Sedat Onat"
+title: Trump Yönetimi, Atlantik’teki Açık Deniz Petrol Arama Planlarından Geri Adım Attı
+subtitle: Trump Yönetimi, Atlantik’teki Açık Deniz Petrol Arama Planlarından Geri Adım Attı
+date: '2025-10-29T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_d97ceb1ba78d461cb70ee559a44a1e71~mv2.jpg
+imageAlt: Trump yönetimi, ABD’nin Doğu Kıyısı boyunca açık deniz petrol ve doğalgaz arama lisanslarını satışa çıkarma planını geri çekti. Karar, özellikle Güneydoğu’daki Cumhuriyetçi eyaletlerde turizme olası zarar endişeleri ve çevreci tepkiler üzerine alındı.
+wixId: a03a67bb-374c-4417-b4c1-a221cc08dbbf
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Trump yönetimi
+- açık deniz sondajı
+- petrol arama
+- Atlantik
+- Meksika Körfezi
+- enerji güvenliği
+- çevre politikası
 ---
 <p style="text-align: justify"><strong>Bloomberg</strong>’in haberine göre, <strong>Trump yönetimi</strong>, <strong>ABD’nin Atlantik kıyılarında açık deniz petrol ve doğalgaz sondaj haklarını satışa çıkarma planından</strong> geri adım attı. Bu karar, <strong>Southeast bölgesindeki Cumhuriyetçi eyaletlerden</strong> ve <strong>çevre örgütlerinden gelen güçlü tepkiler</strong> sonrasında alındı.</p>
 <p><br></p>

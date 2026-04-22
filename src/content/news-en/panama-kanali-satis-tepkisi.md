@@ -1,16 +1,24 @@
 ---
-title: "China Lashes Out Over Sale of Panama Canal Ports"
-subtitle: "China Lashes Out Over Sale of Panama Canal Ports"
-date: "2025-03-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2697124e2da047b781eaf1e3bafbe58c~mv2.jpg"
-imageAlt: "China Lashes Out Over Sale of Panama Canal Ports"
-wixId: "a1fb6dde-1599-4ca1-9c61-40e6587db7a8"
-author: "Sedat Onat"
+title: China Lashes Out Over Sale of Panama Canal Ports
+subtitle: China Lashes Out Over Sale of Panama Canal Ports
+date: '2025-03-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2697124e2da047b781eaf1e3bafbe58c~mv2.jpg
+imageAlt: China Lashes Out Over Sale of Panama Canal Ports
+wixId: a1fb6dde-1599-4ca1-9c61-40e6587db7a8
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Panama Canal
+- port sale
+- CK Hutchison
+- BlackRock
+- China
+- geopolitics
+- port operations
+- US-China tensions
 ---
-
 <p style="text-align: justify">Hong Kong-based <a href="https://en.wikipedia.org/wiki/CK_Hutchison_Holdings"><u><strong>CK Hutchison Holdings</strong></u></a> has decided to sell its majority stake in <a href="https://www.ppc.com.pa/"><u><strong>Panama Ports Company</strong></u></a>, which operates the <a href="https://en.wikipedia.org/wiki/Balboa,_Panama"><u><strong>Balboa</strong></u></a> and <a href="https://logistics.gatech.pa/en/logistics-platform/logistics-assets/seaports/main-seaports-in-panama/cristobal/"><u><strong>Cristóbal</strong></u></a> ports located at the entrance and exit points of the Panama Canal, to a U.S. consortium led by <a href="https://en.wikipedia.org/wiki/BlackRock"><u><strong>BlackRock</strong></u><u> </u></a>. The deal, valued at $22.8 billion, has drawn sharp criticism from the Chinese government.</p>
 <p style="text-align: justify">​</p>
 <p style="text-align: justify">In an article published in <strong>Ta Kung Pao</strong>, a Beijing-backed newspaper, the sale was described as "power politics" and contrary to national interests. The article emphasized that <strong>CK Hutchison</strong> should "think twice." Following these criticisms, the company's shares lost more than 6% of their value on the Hong Kong stock exchange.</p>

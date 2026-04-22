@@ -1,14 +1,22 @@
 ---
-title: "Kaliforniya Valisi Landmark Yapay Zeka Güvenlik Yasasını İmzaladı"
-subtitle: "Kaliforniya Valisi Landmark Yapay Zeka Güvenlik Yasasını İmzaladı"
-date: "2025-10-01T00:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_cb3ec6f920e045e8ba0f6b24ac8d8aa5~mv2.png"
-imageAlt: "Kaliforniya Vali Landmark Yapay Zeka Güvenlik Yasasını İmzaladı"
-wixId: "00e940e3-5c6e-4c86-af06-786babe8551d"
-author: "Sedat Onat"
+title: Kaliforniya Valisi Landmark Yapay Zeka Güvenlik Yasasını İmzaladı
+subtitle: Kaliforniya Valisi Landmark Yapay Zeka Güvenlik Yasasını İmzaladı
+date: '2025-10-01T00:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_cb3ec6f920e045e8ba0f6b24ac8d8aa5~mv2.png
+imageAlt: Kaliforniya Vali Landmark Yapay Zeka Güvenlik Yasasını İmzaladı
+wixId: 00e940e3-5c6e-4c86-af06-786babe8551d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- yapay zeka
+- AI güvenlik
+- Kaliforniya
+- tedarik zinciri
+- yapay zeka yönetişimi
+- explainability
+- risk yönetimi
 ---
 <p style="text-align: justify">Kaliforniya’da kabul edilen kapsamlı AI safety yasası, kamu ve özel sektörde yapay zekâ kullanımına dair standartları belirlemekte. Yasa; kritik altyapı, ulaştırma ve sağlık gibi yüksek riskli alanlarda risk assessment, human-in-the-loop kontrol, model denetimi ve olay raporlama gerekliliklerini içermekte.&nbsp;</p>
 <p style="text-align: justify"><br></p>

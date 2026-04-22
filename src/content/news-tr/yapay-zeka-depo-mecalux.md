@@ -1,14 +1,23 @@
 ---
-title: "Yeni Araştırma: AI İşçileri Değiştirmiyor, Depolarda Daha Fazla Rol Yaratıyor"
-subtitle: "Yeni Araştırma: AI İşçileri Değiştirmiyor, Depolarda Daha Fazla Rol Yaratıyor"
-date: "2025-11-26T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_27d76cac21c0445dbce2933785352753~mv2.jpg"
-imageAlt: "Depolarda yapay zekâ ve otomasyonun iş gücünü nasıl desteklediğini, üretkenliği artırdığını ve yeni uzmanlık rollerini ortaya çıkardığını anlatan kapsamlı analiz."
-wixId: "a63c7c7e-2632-4b2e-84c7-90af6d8bb1af"
-author: "Sedat Onat"
+title: 'Yeni Araştırma: AI İşçileri Değiştirmiyor, Depolarda Daha Fazla Rol Yaratıyor'
+subtitle: 'Yeni Araştırma: AI İşçileri Değiştirmiyor, Depolarda Daha Fazla Rol Yaratıyor'
+date: '2025-11-26T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_27d76cac21c0445dbce2933785352753~mv2.jpg
+imageAlt: Depolarda yapay zekâ ve otomasyonun iş gücünü nasıl desteklediğini, üretkenliği artırdığını ve yeni uzmanlık rollerini ortaya çıkardığını anlatan kapsamlı analiz.
+wixId: a63c7c7e-2632-4b2e-84c7-90af6d8bb1af
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- yapay zeka
+- depo otomasyonu
+- AI
+- MIT
+- Mecalux
+- istihdam
+- generative AI
+- lojistik teknolojileri
 ---
 <p style="text-align: justify">Black Friday öncesi açıklanan yeni bir çalışma, yıllardır tartışılan “AI işçileri işinden ediyor” söylemine güçlü bir karşı argüman getiriyor. <strong>Mecalux</strong> ile <strong>MIT Intelligent Logistics Systems Lab</strong> ortak araştırması, yapay zekâ ve otomasyonun depolarda çalışanları ikame etmek yerine onları <strong>daha verimli, daha hızlı ve daha güvenli</strong> çalıştırdığını ortaya koyuyor. Dahası, AI kullanan şirketlerin <strong>yarısından fazlası</strong> ek istihdam yaptığını söylüyor.</p>
 <p><br></p>

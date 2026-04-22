@@ -1,16 +1,23 @@
 ---
-title: "ERP Downtime Could Cost UK E-Commerce Firms More Than £26,000 a Day"
-subtitle: "ERP Downtime Could Cost UK E-Commerce Firms More Than £26,000 a Day"
-date: "2025-03-07T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_3b333e4b4be748f898ce4229ff8394b2~mv2.jpg"
-imageAlt: "ERP Downtime Could Cost UK E-Commerce Firms More Than £26,000 a Day"
-wixId: "62ddc8fa-fa10-45fa-8c19-5fb22ef100b7"
-author: "Sedat Onat"
+title: ERP Downtime Could Cost UK E-Commerce Firms More Than £26,000 a Day
+subtitle: ERP Downtime Could Cost UK E-Commerce Firms More Than £26,000 a Day
+date: '2025-03-07T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_3b333e4b4be748f898ce4229ff8394b2~mv2.jpg
+imageAlt: ERP Downtime Could Cost UK E-Commerce Firms More Than £26,000 a Day
+wixId: 62ddc8fa-fa10-45fa-8c19-5fb22ef100b7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- ERP
+- e-commerce
+- system outage
+- United Kingdom
+- financial loss
+- cybersecurity
+- supply chain
 ---
-
 <p style="text-align: justify">E-commerce companies operating in the United Kingdom are facing significant financial losses due to disruptions in their <strong>ERP</strong> (Enterprise Resource Planning) systems. These interruptions result in a substantial daily cost averaging £26,000.​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>The Importance of ERP Systems</strong></p>

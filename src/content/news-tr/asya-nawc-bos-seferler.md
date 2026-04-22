@@ -1,14 +1,22 @@
 ---
-title: "Asya-NAWC Rotalarında Boş Seferlerin Artması Bekleniyor"
-subtitle: "Asya-NAWC Rotalarında Boş Seferlerin Artması Bekleniyor"
-date: "2025-01-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_dd379f942abb4c5eb744c582d3bc6f45~mv2.jpg"
-imageAlt: "Asya-NAWC Rotalarında Boş Seferlerin Artması Bekleniyor"
-wixId: "f492abfb-1019-4057-b794-9bfcad29aa73"
-author: "Sedat Onat"
+title: Asya-NAWC Rotalarında Boş Seferlerin Artması Bekleniyor
+subtitle: Asya-NAWC Rotalarında Boş Seferlerin Artması Bekleniyor
+date: '2025-01-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_dd379f942abb4c5eb744c582d3bc6f45~mv2.jpg
+imageAlt: Asya-NAWC Rotalarında Boş Seferlerin Artması Bekleniyor
+wixId: f492abfb-1019-4057-b794-9bfcad29aa73
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Asya-Kuzey Amerika
+- boş sefer
+- konteyner taşımacılığı
+- kapasite yönetimi
+- Sea-Intelligence
+- MSC
+- Çin Yeni Yılı
 ---
 <p style="text-align: justify"><strong>Sea-Intelligence</strong>, 2025 Çin Yeni Yılı (CNY) döneminde <strong>Asya – Kuzey Amerika Batı Kıyısı</strong> rotasında keskin bir kapasite artışı gözlemlemekte. Mevcut kapasite dağılımı, analiz edilen dönemde en yüksek seviyeye ulaşarak yaklaşık 1,34 milyon TEU'ya ulaşmakta. Bu rakam, yüksek talep dönemi olan 2021'i bile geride bırakarak, yıllık bazda %33,3'lük bir artışı ve 2016-2019 dönemine göre %34,1'lik bir büyümeyi temsil etmekte.</p>
 <p style="text-align: justify"><br></p>

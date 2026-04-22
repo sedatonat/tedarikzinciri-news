@@ -1,16 +1,23 @@
 ---
-title: "New Visibility Technology for Refrigerated Cargo"
-subtitle: "New Visibility Technology for Refrigerated Cargo"
-date: "2025-02-03T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_fec7ee73793049cc9a4ebdd30a9539ab~mv2.jpg"
-imageAlt: "New Visibility Technology for Refrigerated Cargo"
-wixId: "393bd49b-a8b8-4260-bdba-1fd2300b2f4d"
-author: "Sedat Onat"
+title: New Visibility Technology for Refrigerated Cargo
+subtitle: New Visibility Technology for Refrigerated Cargo
+date: '2025-02-03T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_fec7ee73793049cc9a4ebdd30a9539ab~mv2.jpg
+imageAlt: New Visibility Technology for Refrigerated Cargo
+wixId: 393bd49b-a8b8-4260-bdba-1fd2300b2f4d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- MSC
+- refrigerated cargo
+- iReefer
+- real-time tracking
+- reefer container
+- visibility technology
+- maritime shipping
 ---
-
 <p style="text-align: justify"><strong>Mediterranean Shipping Co.</strong> (<strong>MSC</strong>) has introduced a new tracking system called <strong>iReefer</strong> to enhance its refrigerated cargo services. The system provides shippers with real-time updates on the location and temperature of their refrigerated shipments. The Geneva-based carrier said it has equipped over 210,000 refrigerated containers and more than 500 vessels with this new technology.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>MSC</strong> transports over 1 million refrigerated containers annually and aims to equip its entire container and vessel fleet with this technology in the coming years. <strong>Giuseppe Prudente</strong>, MSC's logistics chief, stated that "iReefer was designed with our customers in mind."</p>

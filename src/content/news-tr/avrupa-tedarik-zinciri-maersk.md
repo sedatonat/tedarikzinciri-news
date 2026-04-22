@@ -1,14 +1,22 @@
 ---
-title: "Avrupa Tedarik Zincirlerinde Jeopolitik Baskı Sürerken Şirketler Çoklu Kaynağa Yöneliyor"
-subtitle: "Avrupa Tedarik Zincirlerinde Jeopolitik Baskı Sürerken Şirketler Çoklu Kaynağa Yöneliyor"
-date: "2025-12-01T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_37834725b3ea4420acae465711dc601b~mv2.jpg"
-imageAlt: "Maersk’in 900 Avrupa şirketiyle gerçekleştirdiği ankette tedarik zincirlerinin jeopolitik stres, tarifeler ve maliyet dalgalanmaları nedeniyle nasıl etkilendiğine dair detaylı haber özeti"
-wixId: "75af142c-bdd3-4b80-9abd-1041c952a284"
-author: "Sedat Onat"
+title: Avrupa Tedarik Zincirlerinde Jeopolitik Baskı Sürerken Şirketler Çoklu Kaynağa Yöneliyor
+subtitle: Avrupa Tedarik Zincirlerinde Jeopolitik Baskı Sürerken Şirketler Çoklu Kaynağa Yöneliyor
+date: '2025-12-01T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_37834725b3ea4420acae465711dc601b~mv2.jpg
+imageAlt: Maersk’in 900 Avrupa şirketiyle gerçekleştirdiği ankette tedarik zincirlerinin jeopolitik stres, tarifeler ve maliyet dalgalanmaları nedeniyle nasıl etkilendiğine dair detaylı haber özeti
+wixId: 75af142c-bdd3-4b80-9abd-1041c952a284
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- jeopolitik risk
+- çoklu kaynak
+- Avrupa
+- Maersk
+- nearshoring
+- tedarik zinciri dayanıklılığı
+- ABD tarifeleri
 ---
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> tarafından yayımlanan ankete göre Avrupa’daki tedarik zinciri profesyonelleri, önümüzdeki iki yıl boyunca jeopolitik dinamiklerin operasyonlarını etkilemeye devam edeceğini öngörmekte. <strong>Maersk</strong> tarafından 900 Avrupa şirketi ile yapılan araştırma, firmaların artan belirsizlik ortamında nasıl konumlandığını ve stratejik uyum süreçlerini ortaya koymakta.</p>
 <p><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "CEVA Logistics Strengthens Turkish Position with Borusan Lojistik Acquisition"
-subtitle: "CEVA Logistics Strengthens Turkish Position with Borusan Lojistik Acquisition"
-date: "2025-11-05T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_cf188828e69643c8879ae0782ed30c4c~mv2.jpg"
-imageAlt: "CEVA Logistics acquires Borusan Lojistik subsidiary for $383 million, gaining 1.19 million m² of warehouse space, annual FTL transportation volume of 1 million, and strong LTL, finished-vehicle logistics, and air-sea freight capabilities; Turkey is now CEVA's third-largest country by revenue."
-wixId: "1e238cc0-fbf8-41ff-af15-50c72c088b54"
-author: "Sedat Onat"
+title: CEVA Logistics Strengthens Turkish Position with Borusan Lojistik Acquisition
+subtitle: CEVA Logistics Strengthens Turkish Position with Borusan Lojistik Acquisition
+date: '2025-11-05T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_cf188828e69643c8879ae0782ed30c4c~mv2.jpg
+imageAlt: CEVA Logistics acquires Borusan Lojistik subsidiary for $383 million, gaining 1.19 million m² of warehouse space, annual FTL transportation volume of 1 million, and strong LTL, finished-vehicle logistics, and air-sea freight capabilities; Turkey is now CEVA's third-largest country by revenue.
+wixId: 1e238cc0-fbf8-41ff-af15-50c72c088b54
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- CEVA Logistics
+- Borusan Lojistik
+- acquisition
+- 3PL
+- warehousing
+- road transport
+- FVL
+- Turkey
 ---
-
 <p style="text-align: justify"><strong>CEVA Logistics</strong> has announced the formal acquisition of a <strong>100% stake in Borusan Supply Chain Solutions and Technology Company</strong>, significantly expanding its Turkish presence. This company serves as the legal entity behind <strong>Borusan Lojistik</strong>, one of Turkey's most recognized local logistics operators. The transaction, valued at <strong>$383 million</strong>, has now closed following receipt of all necessary regulatory approvals.</p>
 <p><br></p>
 <p style="text-align: justify">The sale structure comprised two principal shareholders:</p>

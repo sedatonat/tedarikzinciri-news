@@ -1,14 +1,22 @@
 ---
-title: "Doğal Afetlere Karşı Tedarik Zincirini Korumak İçin 5 Yol​"
-subtitle: "Doğal Afetlere Karşı Tedarik Zincirini Korumak İçin 5 Yol​"
-date: "2025-02-24T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_cc1d4302a9764e26a82b0c1f6aa052f9~mv2.jpg"
-imageAlt: "Doğal Afetlere Karşı Tedarik Zincirini Korumak İçin 5 Yol​"
-wixId: "776275cf-d9be-47f8-9261-44f6bf14da8d"
-author: "Sedat Onat"
+title: Doğal Afetlere Karşı Tedarik Zincirini Korumak İçin 5 Yol​
+subtitle: Doğal Afetlere Karşı Tedarik Zincirini Korumak İçin 5 Yol​
+date: '2025-02-24T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_cc1d4302a9764e26a82b0c1f6aa052f9~mv2.jpg
+imageAlt: Doğal Afetlere Karşı Tedarik Zincirini Korumak İçin 5 Yol​
+wixId: 776275cf-d9be-47f8-9261-44f6bf14da8d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- doğal afet
+- risk yönetimi
+- tedarik zinciri
+- afet planlaması
+- dijital araçlar
+- Slimstock
+- tedarikçi çeşitlendirme
 ---
 <p style="text-align: justify">Doğal afetler, <strong>deprem</strong>, <strong>kasırga</strong>, <strong>sel</strong> ve <strong>orman yangınları</strong> gibi olaylar, tedarik zinciri altyapısını ve ulaşım yollarını ciddi şekilde bozabilmektedir. Bu durum, işletmelerin operasyonlarını aksatmakta ve müşteri memnuniyetini olumsuz etkilemektedir. Tedarik zincirini bu tür afetlere karşı korumak için aşağıdaki 5 strateji önerilmekte.</p>
 <p style="text-align: justify"><br></p>

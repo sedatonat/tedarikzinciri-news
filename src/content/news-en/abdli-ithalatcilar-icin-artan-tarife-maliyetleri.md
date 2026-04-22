@@ -1,16 +1,23 @@
 ---
-title: "Rising Tariff Costs Create Major Financial Shift for U.S. Importers"
-subtitle: "Rising Tariff Costs Create Major Financial Shift for U.S. Importers"
-date: "2025-03-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_77cbb4eeebce4a11864f648034d66cd4~mv2.jpg"
-imageAlt: "Rising Tariff Costs Create Major Financial Shift for U.S. Importers"
-wixId: "24de49fc-2fd2-4b1a-bf59-35d141362e5e"
-author: "Sedat Onat"
+title: Rising Tariff Costs Create Major Financial Shift for U.S. Importers
+subtitle: Rising Tariff Costs Create Major Financial Shift for U.S. Importers
+date: '2025-03-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_77cbb4eeebce4a11864f648034d66cd4~mv2.jpg
+imageAlt: Rising Tariff Costs Create Major Financial Shift for U.S. Importers
+wixId: 24de49fc-2fd2-4b1a-bf59-35d141362e5e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- tariff
+- U.S. imports
+- trade policy
+- China
+- supply chain
+- customs
+- retail sector
 ---
-
 <p style="text-align: justify">Recent changes in <strong>U.S.</strong> trade policy have created significant financial impacts on importers. Additional tariffs applied to products from trading partners such as <strong>China</strong>, <strong>Canada</strong>, and <strong>Mexico</strong> are substantially raising import costs. This situation is elevating importers' operational costs and adversely affecting profitability.​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Scope and Impact of Tariff Increases</strong></p>

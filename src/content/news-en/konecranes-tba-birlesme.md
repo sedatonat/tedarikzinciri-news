@@ -1,16 +1,23 @@
 ---
-title: "Konecranes and TBA Combine Warehouse Management and Automation Teams"
-subtitle: "Konecranes and TBA Combine Warehouse Management and Automation Teams"
-date: "2025-01-02T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_a819b93ed3634e60821dd1e9d4a7c4a5~mv2.jpg"
-imageAlt: "Konecranes and TBA Combine Warehouse Management and Automation Teams"
-wixId: "6c8ebea6-7711-45b8-b2fb-719291bf9f19"
-author: "Sedat Onat"
+title: Konecranes and TBA Combine Warehouse Management and Automation Teams
+subtitle: Konecranes and TBA Combine Warehouse Management and Automation Teams
+date: '2025-01-02T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_a819b93ed3634e60821dd1e9d4a7c4a5~mv2.jpg
+imageAlt: Konecranes and TBA Combine Warehouse Management and Automation Teams
+wixId: 6c8ebea6-7711-45b8-b2fb-719291bf9f19
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Konecranes
+- TBA
+- warehouse management
+- automation
+- industrial equipment
+- merger
+- logistics solutions
 ---
-
 <p><strong>Konecranes</strong> and <strong>TBA</strong> have combined their warehouse management and automation teams into a single division under <strong>Konecranes</strong>' Industrial Equipment business unit. This strategic move aims to bring together both companies' expertise in industrial equipment and automation, enabling them to deliver more integrated and efficient solutions to customers.</p>
 <p><br></p>
 <p><strong>Konecranes</strong> is a globally recognized leader in the manufacture of cranes and lifting equipment. <strong>TBA</strong> is a firm specializing in logistics and automation solutions. This combination will allow both companies to leverage their respective strengths and provide more comprehensive services in the warehouse management and automation sector.</p>

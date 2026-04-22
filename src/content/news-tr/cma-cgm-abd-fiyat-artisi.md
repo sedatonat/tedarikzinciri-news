@@ -1,14 +1,22 @@
 ---
-title: "CMA CGM ABD Sevkiyatları İçin Fiyatları Artırıyor"
-subtitle: "CMA CGM ABD Sevkiyatları İçin Fiyatları Artırıyor"
-date: "2025-01-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d1ca241e862247cb8265f46c2e8c5a2a~mv2.jpg"
-imageAlt: "CMA CGM ABD Sevkiyatları İçin Fiyatları Artırıyor"
-wixId: "e0c61e92-f742-4e72-a4f5-74854badec6b"
-author: "Sedat Onat"
+title: CMA CGM ABD Sevkiyatları İçin Fiyatları Artırıyor
+subtitle: CMA CGM ABD Sevkiyatları İçin Fiyatları Artırıyor
+date: '2025-01-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d1ca241e862247cb8265f46c2e8c5a2a~mv2.jpg
+imageAlt: CMA CGM ABD Sevkiyatları İçin Fiyatları Artırıyor
+wixId: e0c61e92-f742-4e72-a4f5-74854badec6b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CMA CGM
+- navlun fiyatları
+- konteyner taşımacılığı
+- ABD
+- Asya
+- tedarik zinciri
+- operasyonel maliyet
 ---
 <p style="text-align: justify"><strong>CMA CGM</strong>, 15 Mart 2025 tarihinden itibaren geçerli olmak üzere, ABD'ye yapılan sevkiyatlar için navlun fiyatlarında artışa gitme kararı aldı. Bu artış, <strong>Asya</strong>, <strong>Orta Doğu</strong>, <strong>Hint Alt Kıtası</strong> ve <strong>Latin Amerika</strong>'dan ABD'nin çeşitli limanlarına yapılan konteyner taşımacılığını kapsamakta.</p>
 <p><br></p>

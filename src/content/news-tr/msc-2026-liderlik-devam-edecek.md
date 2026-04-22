@@ -1,14 +1,23 @@
 ---
-title: "2026'ya Kadar MSC'nin Liderliği Devam Edecek"
-subtitle: "2026'ya Kadar MSC'nin Liderliği Devam Edecek"
-date: "2024-05-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_26c35892a5374fe0ae36bfeb1b74ff8d~mv2.png"
-imageAlt: "2026'ya Kadar MSC'nin Liderliği Devam Edecek"
-wixId: "b760624f-d293-4aad-9b6c-af61408f9439"
-author: "Sedat Onat"
+title: 2026'ya Kadar MSC'nin Liderliği Devam Edecek
+subtitle: 2026'ya Kadar MSC'nin Liderliği Devam Edecek
+date: '2024-05-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_26c35892a5374fe0ae36bfeb1b74ff8d~mv2.png
+imageAlt: 2026'ya Kadar MSC'nin Liderliği Devam Edecek
+wixId: b760624f-d293-4aad-9b6c-af61408f9439
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- MSC
+- CMA CGM
+- Maersk
+- konteyner taşımacılığı
+- filo büyüklüğü
+- Sea-Intelligence
+- Hapag-Lloyd
+- ONE
 ---
 <p>Sea-Intelligence analiz firmasının son tahminlerine göre, MSC, filo büyüklüğünü önemli ölçüde artırarak 2026 yılına kadar dünyanın en büyük taşıyıcı şirketi olarak konumunu pekiştirmeye devam edecek. Geleneksel yöntemler, yalnızca mevcut filo boyutlarına sipariş defterlerini ekleyerek gelecekteki filo büyüklüklerini tahmin etme eğilimindedir, ancak bu yöntem ikinci el piyasa işlemleri ve kiralanmış gemi kullanımındaki değişiklikleri göz ardı eder.&nbsp;</p>
 <p><br></p>

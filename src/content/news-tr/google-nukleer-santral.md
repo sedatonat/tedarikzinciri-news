@@ -1,14 +1,22 @@
 ---
-title: "Google Tennessee’de İleri Nükleer Santral Planlarını Açıkladı"
-subtitle: "Google Tennessee’de İleri Nükleer Santral Planlarını Açıkladı"
-date: "2025-08-16T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_516ea73140e6435992df6030dd327c22~mv2.png"
-imageAlt: "Google Tennessee’de İleri Nükleer Santral Planlarını Açıkladı"
-wixId: "6776bb47-716b-4161-a204-d929fa8b4575"
-author: "Sedat Onat"
+title: Google Tennessee’de İleri Nükleer Santral Planlarını Açıkladı
+subtitle: Google Tennessee’de İleri Nükleer Santral Planlarını Açıkladı
+date: '2025-08-16T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_516ea73140e6435992df6030dd327c22~mv2.png
+imageAlt: Google Tennessee’de İleri Nükleer Santral Planlarını Açıkladı
+wixId: 6776bb47-716b-4161-a204-d929fa8b4575
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Google
+- nükleer enerji
+- veri merkezi
+- Tennessee
+- SMR
+- sürdürülebilirlik
+- enerji altyapısı
 ---
 <p style="text-align: justify"><strong>Google</strong>, Tennessee’de <strong>ileri nükleer teknolojiye (advanced nuclear)</strong> dayalı bir enerji tesisi kurma planlarını duyurdu. Bu girişim, şirketin hızla büyüyen <strong>veri merkezi operasyonlarını</strong> desteklerken aynı zamanda <strong>düşük karbonlu, kesintisiz enerji</strong> sağlama hedefinin bir parçası olarak değerlendiriliyor. Böylece Google, veri merkezleri için <strong>24/7 carbon-free energy (karbonsuz sürekli enerji)</strong> hedefine bir adım daha yaklaşmayı amaçlıyor.</p>
 <p style="text-align: justify"><br></p>

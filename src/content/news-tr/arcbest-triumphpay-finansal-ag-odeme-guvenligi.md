@@ -1,14 +1,22 @@
 ---
-title: "ArcBest, TriumphPay Ağına Katılarak Ödeme Güvenliğini Artırıyor"
-subtitle: "ArcBest, TriumphPay Ağına Katılarak Ödeme Güvenliğini Artırıyor"
-date: "2024-08-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_40df264e82704e32a8637ec5df6aa916~mv2.jpg"
-imageAlt: "ArcBest, TriumphPay Ağına Katılarak Ödeme Güvenliğini Artırıyor"
-wixId: "4b1912d8-fa5d-47ae-bec1-bfad5004dc36"
-author: "Sedat Onat"
+title: ArcBest, TriumphPay Ağına Katılarak Ödeme Güvenliğini Artırıyor
+subtitle: ArcBest, TriumphPay Ağına Katılarak Ödeme Güvenliğini Artırıyor
+date: '2024-08-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_40df264e82704e32a8637ec5df6aa916~mv2.jpg
+imageAlt: ArcBest, TriumphPay Ağına Katılarak Ödeme Güvenliğini Artırıyor
+wixId: 4b1912d8-fa5d-47ae-bec1-bfad5004dc36
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ArcBest
+- TriumphPay
+- ödeme güvenliği
+- taşıyıcı ödemeleri
+- lojistik finans
+- operasyonel verimlilik
+- fatura yönetimi
 ---
 <p>ArcBest, taşıma ve lojistik hizmetlerinde ödeme süreçlerini geliştirmek amacıyla TriumphPay finansal ağına katıldı. Bu hamle, taşıyıcılara daha hızlı ve güvenli ödeme yapılmasını sağlarken, ArcBest'in operasyonel verimliliğini artırmayı ve taşıyıcılarla olan ilişkilerini güçlendirmeyi hedefliyor. TriumphPay, ulaşım faturalarının sunulması, denetlenmesi ve ödenmesi için güvenli bir ağ sunarak sektördeki ödeme süreçlerini iyileştiriyor. ArcBest, bu yenilikle taşıyıcılarına daha şeffaf bir ödeme süreci ve iyileştirilmiş güvenlik sunmayı amaçlıyor.</p>
 <p><br></p>

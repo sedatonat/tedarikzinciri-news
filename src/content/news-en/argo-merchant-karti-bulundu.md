@@ -1,16 +1,24 @@
 ---
-title: "Argo Merchant Oil Spill Drift Card Found on Scottish Isle"
-subtitle: "Argo Merchant Oil Spill Drift Card Found on Scottish Isle"
-date: "2024-12-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6ef2dc28020b4f3f8ae5533a1bec4d85~mv2.jpg"
-imageAlt: "Argo Merchant Oil Spill Drift Card Found on Scottish Isle"
-wixId: "7430e3c5-9363-4653-8790-c2f3e2d193b7"
-author: "Sedat Onat"
+title: Argo Merchant Oil Spill Drift Card Found on Scottish Isle
+subtitle: Argo Merchant Oil Spill Drift Card Found on Scottish Isle
+date: '2024-12-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_6ef2dc28020b4f3f8ae5533a1bec4d85~mv2.jpg
+imageAlt: Argo Merchant Oil Spill Drift Card Found on Scottish Isle
+wixId: 7430e3c5-9363-4653-8790-c2f3e2d193b7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Argo Merchant
+- oil spill
+- marine pollution
+- plastic waste
+- drift card
+- Scotland
+- NOAA
+- environmental impact
 ---
-
 <p>A plastic drift card released into the sea following the <strong>Argo Merchant</strong> oil spill in 1976 has been discovered on Scotland's Isle of Coll nearly fifty years later. After cleaning up debris on her property following a storm in October 2024, Barbara Payne discovered a red, credit-card-sized plastic card bearing multilingual instructions requesting contact with <strong>NOAA</strong> in Boulder, Colorado.</p>
 <p><br></p>
 <p>The card is linked to an environmental disaster that began in December 1976 when the 640-foot tanker <strong>Argo Merchant</strong> ran aground off Nantucket Island. Operating with faulty navigation equipment and having drifted 24 miles off course, the vessel broke apart six days after running aground, releasing 7.5 million gallons of oil into the sea and causing what was then the largest tanker-related oil spill in U.S. history.</p>

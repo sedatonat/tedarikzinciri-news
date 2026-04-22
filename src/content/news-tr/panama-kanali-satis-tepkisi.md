@@ -1,14 +1,23 @@
 ---
-title: "Panama Kanalı Limanlarının Satışı Üzerine Çin'den Sert Tepki"
-subtitle: "Panama Kanalı Limanlarının Satışı Üzerine Çin'den Sert Tepki"
-date: "2025-03-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2697124e2da047b781eaf1e3bafbe58c~mv2.jpg"
-imageAlt: "Panama Kanalı Limanlarının Satışı Üzerine Çin'den Sert Tepki"
-wixId: "a1fb6dde-1599-4ca1-9c61-40e6587db7a8"
-author: "Sedat Onat"
+title: Panama Kanalı Limanlarının Satışı Üzerine Çin'den Sert Tepki
+subtitle: Panama Kanalı Limanlarının Satışı Üzerine Çin'den Sert Tepki
+date: '2025-03-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2697124e2da047b781eaf1e3bafbe58c~mv2.jpg
+imageAlt: Panama Kanalı Limanlarının Satışı Üzerine Çin'den Sert Tepki
+wixId: a1fb6dde-1599-4ca1-9c61-40e6587db7a8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Panama Kanalı
+- liman satışı
+- CK Hutchison
+- BlackRock
+- Çin
+- jeopolitik
+- liman işletmeciliği
+- ABD-Çin gerilimi
 ---
 <p style="text-align: justify">Hong Kong merkezli <a href="https://en.wikipedia.org/wiki/CK_Hutchison_Holdings"><u><strong>CK Hutchison Holdings</strong></u></a>, Panama Kanalı'nın giriş ve çıkış noktalarında bulunan <a href="https://en.wikipedia.org/wiki/Balboa,_Panama"><u><strong>Balboa</strong></u></a> ve <a href="https://logistics.gatech.pa/en/logistics-platform/logistics-assets/seaports/main-seaports-in-panama/cristobal/"><u><strong>Cristóbal</strong></u></a> limanlarını işleten <a href="https://www.ppc.com.pa/"><u><strong>Panama Ports Company</strong></u></a>'deki çoğunluk hissesini, <a href="https://en.wikipedia.org/wiki/BlackRock"><u><strong>BlackRock</strong></u><u> </u></a>liderliğindeki bir ABD'li konsorsiyuma satma kararı aldı. Toplam değeri 22,8 milyar dolar olan bu anlaşma, Çin hükümetinin sert eleştirilerine neden oldu.</p>
 <p style="text-align: justify">​</p>

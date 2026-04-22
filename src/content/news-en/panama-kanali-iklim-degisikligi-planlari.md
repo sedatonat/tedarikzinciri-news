@@ -1,16 +1,23 @@
 ---
-title: "Threatened by Climate Change, Panama Canal Pushes Ambitious Plans to Combat Drought"
-subtitle: "Threatened by Climate Change, Panama Canal Pushes Ambitious Plans to Combat Drought"
-date: "2024-12-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_db230b7415a041098674ca689b4a2de8~mv2.jpg"
-imageAlt: "Threatened by Climate Change, Panama Canal Pushes Ambitious Plans to Combat Drought"
-wixId: "e620f9df-6fc5-4f97-9add-0278555cfa9e"
-author: "Sedat Onat"
+title: Threatened by Climate Change, Panama Canal Pushes Ambitious Plans to Combat Drought
+subtitle: Threatened by Climate Change, Panama Canal Pushes Ambitious Plans to Combat Drought
+date: '2024-12-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_db230b7415a041098674ca689b4a2de8~mv2.jpg
+imageAlt: Threatened by Climate Change, Panama Canal Pushes Ambitious Plans to Combat Drought
+wixId: e620f9df-6fc5-4f97-9add-0278555cfa9e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Panama Canal
+- climate change
+- drought
+- dam project
+- maritime trade
+- LNG
+- displacement
 ---
-
 <p>The El Zaino and La Arenosa river valleys in western Panama are home to hundreds of families who depend on agriculture, fishing, and livestock for their livelihoods. Yet these regions could be submerged under water due to a massive artificial reservoir that the state-owned Panama Canal wants to build to ensure its sustainability in the face of climate change. Tres Hermanas, a town complete with two schools, churches, and a health clinic, would be among dozens of settlements that could disappear within the next six years if the state's $1.6 billion ambitious project moves forward. While some town residents refuse to relocate, others facing forced displacement are demanding fair compensation. Should they remain dissatisfied, past experiences show that public opposition could jeopardize the entire project.</p>
 <p><br></p>
 <p>The Rio Indio dam project, first proposed two decades ago, has gained greater urgency in the past decade due to mounting extreme weather events and severe drought experienced last year. This drought restricted ship traffic on the canal and increased the project's importance. The Panama Canal constitutes 3.1 percent of the Central American nation's gross domestic product. This waterway, which facilitates passage for up to 14,000 ships annually, contributes 2.5 percent to global maritime trade and is critical for the United States' imports and exports from Asia, including automobiles, commercial goods, and commodities such as liquefied natural gas (LNG) via container vessels.</p>

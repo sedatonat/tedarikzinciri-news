@@ -1,14 +1,23 @@
 ---
-title: "Analitikle Filo Güvenliği Ve Kârlılığı Artırma"
-subtitle: "Analitikle Filo Güvenliği Ve Kârlılığı Artırma"
-date: "2025-06-01T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_06719f7cd7c148409a84b943baffabb8~mv2.png"
-imageAlt: "Analitikle Filo Güvenliği Ve Kârlılığı Artırma"
-wixId: "0c7775d6-bf4f-4f39-ba0b-4c686c722ad0"
-author: "Sedat Onat"
+title: Analitikle Filo Güvenliği Ve Kârlılığı Artırma
+subtitle: Analitikle Filo Güvenliği Ve Kârlılığı Artırma
+date: '2025-06-01T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_06719f7cd7c148409a84b943baffabb8~mv2.png
+imageAlt: Analitikle Filo Güvenliği Ve Kârlılığı Artırma
+wixId: 0c7775d6-bf4f-4f39-ba0b-4c686c722ad0
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- filo yönetimi
+- veri analitiği
+- telematik
+- sürücü davranışı
+- predictive maintenance
+- AI optimizasyon
+- yakıt tasarrufu
+- sigorta
 ---
 <p>Filo operasyonlarında güvenlik ve kârlılık, veri analitiği ile birlikte dönüşmekte. Kuruluşlar, telematics, dashcam analytics, driver behavior scoring, ve predictive maintenance gibi veri kaynaklarını tek bir karar altyapısında birleştirmekte. Geleneksel güvenlik programları, yalnızca geçmiş kazalara odaklanmakta; analitik yaklaşım ise olay yaşanmadan önce risk göstergelerini tespit etmekte. Gerçek zamanlı hard braking, rapid acceleration, cornering, ve idling metrikleri, sürücü koçluğunu kişiselleştirmekte. Bu sayede eğitim saatleri, sürücünün zayıf kaldığı alışkanlıklara yönelmekte; micro-learning videoları ve uygulama içi uyarılar, davranış değişimini desteklemekte. Bakım tarafında predictive maintenance modelleri, sensör verilerinden anomali tespiti yaparak arıza öncesi servis planı önermekte; bu durum unscheduled downtime ve çekici/treyler kullanım kayıplarını azaltmakta. Yakıt ekonomisi, AI route optimization ve speed governance ile desteklenmekte; veri, sürüş tarzı ile tüketim arasındaki ilişkiyi sayısal olarak ortaya koymakta. Güvenlik faydası sigorta primlerine de yansımakta; usage-based insurance türü ürünler, risk puanı yüksek filolara fiyat sinyali üretmekte. Operasyon ekipleri, control tower dashboards üzerinden kaza sıcak bölgelerini, sürücü risk dağılımını ve araç sağlığını tek panelde görmekte. Veri yönetişimi açısından privacy-by-design ilkeleri gözetilmekte; sürücülerle şeffaf iletişim, izleme programlarına olan güveni yükseltmekte.&nbsp;</p>
 <p><br></p>

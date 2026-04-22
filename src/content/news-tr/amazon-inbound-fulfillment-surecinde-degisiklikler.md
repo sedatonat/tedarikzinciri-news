@@ -1,14 +1,22 @@
 ---
-title: "Amazon, Inbound Fulfillment Sürecinde Büyük Değişiklikler Yapıyor"
-subtitle: "Amazon, Inbound Fulfillment Sürecinde Büyük Değişiklikler Yapıyor"
-date: "2024-11-01T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_0b9a69684c694372a3a6a4d3af7528a8~mv2.png"
-imageAlt: "Amazon, Inbound Fulfillment Sürecinde Büyük Değişiklikler Yapıyor"
-wixId: "6e68d012-0986-4c26-bfa0-acb16ccf7021"
-author: "Sedat Onat"
+title: Amazon, Inbound Fulfillment Sürecinde Büyük Değişiklikler Yapıyor
+subtitle: Amazon, Inbound Fulfillment Sürecinde Büyük Değişiklikler Yapıyor
+date: '2024-11-01T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_0b9a69684c694372a3a6a4d3af7528a8~mv2.png
+imageAlt: Amazon, Inbound Fulfillment Sürecinde Büyük Değişiklikler Yapıyor
+wixId: 6e68d012-0986-4c26-bfa0-acb16ccf7021
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Amazon
+- inbound fulfillment
+- envanter yönetimi
+- lojistik ağı
+- robotik otomasyon
+- e-ticaret
+- depo operasyonları
 ---
 <p>Amazon, lojistik ağına giren envanter için inbound fulfillment süreçlerini yeniliyor. CEO Andy Jassy, Perşembe günü yapılan Q3 kazanç çağrısında, envanter yerleştirmeyi iyileştirmeye yönelik ilk çabaların meyvelerini verdiğini ve daha fazla yatırımın devam ettiğini açıkladı. E-ticaret devi, ABD'deki inbound lojistik ağında "yüzlerce değişiklik" yaptığını ve inbound sürece odaklanan 15'ten fazla bina açtığını belirtti.</p>
 <p><br></p>

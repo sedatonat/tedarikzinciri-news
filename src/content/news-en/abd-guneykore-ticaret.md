@@ -1,16 +1,24 @@
 ---
-title: "U.S. and South Korea Near Completion of Trade Agreement"
-subtitle: "U.S. and South Korea Near Completion of Trade Agreement"
-date: "2025-10-29T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_29751cf84bf94a19b4888ab81c370810~mv2.jpg"
-imageAlt: "U.S. President Donald Trump and South Korean President Lee Jae Myung met in Gyeongju as part of the Asia-Pacific Economic Cooperation (APEC) summit. Trump announced that there is an \"almost completed trade agreement\" between the two countries."
-wixId: "e49a120b-4d12-40bd-a43a-e274d4324547"
-author: "Sedat Onat"
+title: U.S. and South Korea Near Completion of Trade Agreement
+subtitle: U.S. and South Korea Near Completion of Trade Agreement
+date: '2025-10-29T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_29751cf84bf94a19b4888ab81c370810~mv2.jpg
+imageAlt: U.S. President Donald Trump and South Korean President Lee Jae Myung met in Gyeongju as part of the Asia-Pacific Economic Cooperation (APEC) summit. Trump announced that there is an "almost completed trade agreement" between the two countries.
+wixId: e49a120b-4d12-40bd-a43a-e274d4324547
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- USA
+- South Korea
+- trade agreement
+- Donald Trump
+- APEC
+- tariff
+- semiconductor
+- supply chain
 ---
-
 <p style="text-align: justify"><strong>The United States and South Korea</strong> are poised to <strong>complete a new trade agreement</strong> following lengthy negotiations. <strong>U.S. President Donald Trump</strong> stated during remarks on <strong>Wednesday, October 29, 2025</strong> in South Korea's <strong>Gyeongju city</strong> that the two countries had <strong>"substantially concluded their trade agreement."</strong></p>
 <p><br></p>
 <p style="text-align: justify">Trump spoke with <strong>South Korean President Lee Jae Myung</strong> at a dinner held during the <strong>Asia-Pacific Economic Cooperation (APEC)</strong> summit. "We've made the deal, we've substantially completed the trade agreement. We also discussed national security and some other matters," Trump said, emphasizing that the talks had both economic and strategic dimensions.</p>

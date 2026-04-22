@@ -1,14 +1,23 @@
 ---
-title: "Ralph Lauren'in, Çin'den Tedariği Tek Haneli Oranlara İndirme Azaltma Planı"
-subtitle: "Ralph Lauren'in, Çin'den Tedariği Tek Haneli Oranlara İndirme Azaltma Planı"
-date: "2024-11-18T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_d34eed642827485e8abb441822e7094e~mv2.jpg"
-imageAlt: "Ralph Lauren'in, Çin'den Tedariği Tek habeli Oranlara İndirme Azaltma Planı"
-wixId: "082f1415-b64f-4d3e-9b3c-c185ef4ba982"
-author: "Sedat Onat"
+title: Ralph Lauren'in, Çin'den Tedariği Tek Haneli Oranlara İndirme Azaltma Planı
+subtitle: Ralph Lauren'in, Çin'den Tedariği Tek Haneli Oranlara İndirme Azaltma Planı
+date: '2024-11-18T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_d34eed642827485e8abb441822e7094e~mv2.jpg
+imageAlt: Ralph Lauren'in, Çin'den Tedariği Tek habeli Oranlara İndirme Azaltma Planı
+wixId: 082f1415-b64f-4d3e-9b3c-c185ef4ba982
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ralph Lauren
+- Çin
+- tedarik zinciri
+- çeşitlendirme
+- gümrük vergisi
+- Vietnam
+- üretim ağı
+- ticaret savaşı
 ---
 <p>Ralph Lauren, küresel çapta çeşitlendirilmiş üretim ağı sayesinde olası tarif artışlarına karşı iyi konumlandığını belirtti. Şirketin Başkan ve CEO’su Patrice Louvet, 7 yılı aşkın süredir tedarik kaynaklarını çeşitlendirdiklerini ve ABD'ye daha yakın üretim kapasitesini artırdıklarını ifade etti. Bu strateji, şirketin pandemi sürecinde ve sonrasında esnek ve dirençli kalmasını sağladı.</p>
 <p><br></p>

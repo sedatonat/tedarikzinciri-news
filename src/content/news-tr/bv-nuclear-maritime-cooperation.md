@@ -1,14 +1,23 @@
 ---
-title: "Bureau Veritas, Denizcilikte Nükleer Teknolojileri Hızlandırmak İçin İş Birliği Bildirisini İmzaladı"
-subtitle: "Bureau Veritas, Denizcilikte Nükleer Teknolojileri Hızlandırmak İçin İş Birliği Bildirisini İmzaladı"
-date: "2025-11-06T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_8d5c9626c3e14aa9bb40bc98c4dfb548~mv2.jpg"
-imageAlt: "Bureau Veritas, 30’dan fazla Avrupa nükleer ve denizcilik kuruluşuyla birlikte küçük modüler reaktörler (SMR) ve nükleer teknolojilerin güvenli, sürdürülebilir ve düşük karbonlu denizcilik uygulamaları için hızlandırılmasını amaçlayan iş birliği deklarasyonunu imzaladı."
-wixId: "9b380eef-63e6-4635-8358-ae17522b2fe7"
-author: "Sedat Onat"
+title: Bureau Veritas, Denizcilikte Nükleer Teknolojileri Hızlandırmak İçin İş Birliği Bildirisini İmzaladı
+subtitle: Bureau Veritas, Denizcilikte Nükleer Teknolojileri Hızlandırmak İçin İş Birliği Bildirisini İmzaladı
+date: '2025-11-06T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_8d5c9626c3e14aa9bb40bc98c4dfb548~mv2.jpg
+imageAlt: Bureau Veritas, 30’dan fazla Avrupa nükleer ve denizcilik kuruluşuyla birlikte küçük modüler reaktörler (SMR) ve nükleer teknolojilerin güvenli, sürdürülebilir ve düşük karbonlu denizcilik uygulamaları için hızlandırılmasını amaçlayan iş birliği deklarasyonunu imzaladı.
+wixId: 9b380eef-63e6-4635-8358-ae17522b2fe7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Bureau Veritas
+- nükleer teknoloji
+- denizcilik
+- SMR
+- karbonsuzlaştırma
+- Fransa
+- enerji dönüşümü
+- IMO
 ---
 <p style="text-align: justify">Bureau Veritas (BV), Avrupa’nın enerji dönüşümünde kritik bir yere sahip olan <strong>denizcilik sektörünün nükleer teknolojilerle karbonsuzlaştırılması</strong> hedefi doğrultusunda önemli bir adım attı. Paris’teki <strong>World Nuclear Exhibition</strong> kapsamında BV, Fransa ve diğer Avrupa ülkelerindeki nükleer ve denizcilik aktörlerinden oluşan <strong>30’dan fazla şirketle birlikte</strong> “<strong>Declaration of Cooperation for Accelerating Nuclear for Maritime Applications</strong>” bildirisini resmî olarak imzaladı.</p>
 <p><br></p>

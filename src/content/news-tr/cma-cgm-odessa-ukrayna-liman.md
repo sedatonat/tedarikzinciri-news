@@ -1,14 +1,22 @@
 ---
-title: "CMA CGM, Odesa Limanı’na Geri Dönmeye Hazırlanıyor"
-subtitle: "CMA CGM, Odesa Limanı’na Geri Dönmeye Hazırlanıyor"
-date: "2024-12-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8326630044564ee0ac1877bc6958171e~mv2.jpg"
-imageAlt: "CMA CGM, Odesa Limanı’na Geri Dönmeye Hazırlanıyor"
-wixId: "89dcc06b-e4ec-4895-b53c-64d9779f0285"
-author: "Sedat Onat"
+title: CMA CGM, Odesa Limanı’na Geri Dönmeye Hazırlanıyor
+subtitle: CMA CGM, Odesa Limanı’na Geri Dönmeye Hazırlanıyor
+date: '2024-12-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8326630044564ee0ac1877bc6958171e~mv2.jpg
+imageAlt: CMA CGM, Odesa Limanı’na Geri Dönmeye Hazırlanıyor
+wixId: 89dcc06b-e4ec-4895-b53c-64d9779f0285
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CMA CGM
+- Odesa limanı
+- Karadeniz
+- konteyner taşımacılığı
+- Ukrayna
+- tedarik zinciri
+- deniz taşımacılığı
 ---
 <p>Fransız konteyner taşımacılığı devi <strong>CMA CGM</strong>, Ukrayna’nın Karadeniz kıyısındaki kritik limanlarından <strong>Odesa</strong> için yeni bir adım atmaya hazırlanıyor. Ülkenin devam eden çatışma ortamında uzun süredir riskli kabul edilen deniz yolu koridorunun eskisine göre daha güvenli olduğuna dair son gelişmeler, şirketin rotalarını tekrar gözden geçirmesine yol açmış görünüyor. Bu karar, lojistik ve ticaret sektöründe küresel ölçekte önemli yankılar uyandırırken, hem bölge ekonomisi hem de uluslararası nakliye akışları için umut vadediyor.</p>
 <p><br></p>

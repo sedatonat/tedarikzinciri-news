@@ -1,16 +1,23 @@
 ---
-title: "Canadian Airline Air Transat Begins Suspending Flights Amid Pilot Strike Threat"
-subtitle: "Canadian Airline Air Transat Begins Suspending Flights Amid Pilot Strike Threat"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0fc33f202ef24f79b444e8cc8d0b0d0d~mv2.jpg"
-imageAlt: "Following a 72-hour strike notice from Air Transat pilots, the airline's phased flight suspension decision, union-management tensions, operational risks, and detailed summary of impacts on Canada's aviation sector"
-wixId: "84bf57a8-790a-4509-93db-aae604e41bf5"
-author: "Sedat Onat"
+title: Canadian Airline Air Transat Begins Suspending Flights Amid Pilot Strike Threat
+subtitle: Canadian Airline Air Transat Begins Suspending Flights Amid Pilot Strike Threat
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0fc33f202ef24f79b444e8cc8d0b0d0d~mv2.jpg
+imageAlt: Following a 72-hour strike notice from Air Transat pilots, the airline's phased flight suspension decision, union-management tensions, operational risks, and detailed summary of impacts on Canada's aviation sector
+wixId: 84bf57a8-790a-4509-93db-aae604e41bf5
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Air Transat
+- pilot strike
+- aviation sector
+- Canada
+- union negotiations
+- flight cancellation
+- supply chain
 ---
-
 <p style="text-align: justify"><strong>Air Transat</strong>, one of Canada's largest airlines, announced it has begun gradually suspending operations following a strike notice from its pilot union. The company said it made this decision to prevent the chaos that would result from a sudden and unplanned operational disruption, following a <strong>72-hour strike notice</strong> issued by the <strong>Air Line Pilots Association, Int'l (ALPA)</strong> on <strong>December 7th</strong>. Initial suspensions came into effect as of <strong>December 8th</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">According to BBC News, ALPA notified that pilots could begin work stoppage on <strong>December 10th</strong>. If no new collective agreement is reached by that date, pilots will not report for duty. The strike threat has the potential to severely impact both the airline's domestic and international flight schedules.</p>

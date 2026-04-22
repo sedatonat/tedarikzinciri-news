@@ -1,16 +1,23 @@
 ---
-title: "Uber Freight Is Redefining Logistics with Artificial Intelligence"
-subtitle: "Uber Freight Is Redefining Logistics with Artificial Intelligence"
-date: "2025-10-22T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_0ef3b6692292423cbd488e7714c5c691~mv2.jpeg"
-imageAlt: "Uber Freight is redefining logistics with artificial intelligence"
-wixId: "9167d092-c698-41cd-837b-07cff95c4b78"
-author: "Sedat Onat"
+title: Uber Freight Is Redefining Logistics with Artificial Intelligence
+subtitle: Uber Freight Is Redefining Logistics with Artificial Intelligence
+date: '2025-10-22T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_0ef3b6692292423cbd488e7714c5c691~mv2.jpeg
+imageAlt: Uber Freight is redefining logistics with artificial intelligence
+wixId: 9167d092-c698-41cd-837b-07cff95c4b78
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Uber Freight
+- artificial intelligence
+- logistics
+- generative AI
+- voice-based AI
+- fraud detection
+- pricing algorithm
 ---
-
 <p style="text-align: justify"><strong>Uber Freight</strong> is positioning artificial intelligence not merely as an experimental domain but as a fundamental pillar of its business model. According to statements made at the <strong>CSCMP EDGE Conference</strong>, the system operating across its <strong>18 billion-dollar transportation network</strong> is transforming every process—from operations to pricing and customer interactions—into an <strong>AI-powered ecosystem</strong>.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>Steve Barber, Vice President of Product at Uber Freight</strong>, noted that the company's "transformation with AI is progressing faster than expected." Having worked with <strong>big transportation data</strong> for years, the company has built a <strong>clean, reliable, and accessible data infrastructure</strong> that has enabled AI solutions to scale.</p>

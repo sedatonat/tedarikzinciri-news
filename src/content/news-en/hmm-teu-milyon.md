@@ -1,16 +1,23 @@
 ---
-title: "HMM Surpasses 1 Million TEU Capacity, Joins Exclusive \"TEU Millionaires Club\""
-subtitle: "HMM Surpasses 1 Million TEU Capacity, Joins Exclusive \"TEU Millionaires Club\""
-date: "2025-10-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7d9cdcb77dd240b093c6d7df8e7b9b43~mv2.jpg"
-imageAlt: "South Korea's national shipping company HMM reached a fleet capacity of 1,007,180 TEU, becoming the eighth shipping line globally to exceed this threshold. The company's fleet has doubled over the past five years, with new-build vessels expected to nearly double capacity by 2030."
-wixId: "20474c12-0d01-4fdf-a169-5018d1a48fc4"
-author: "Sedat Onat"
+title: HMM Surpasses 1 Million TEU Capacity, Joins Exclusive "TEU Millionaires Club"
+subtitle: HMM Surpasses 1 Million TEU Capacity, Joins Exclusive "TEU Millionaires Club"
+date: '2025-10-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7d9cdcb77dd240b093c6d7df8e7b9b43~mv2.jpg
+imageAlt: South Korea's national shipping company HMM reached a fleet capacity of 1,007,180 TEU, becoming the eighth shipping line globally to exceed this threshold. The company's fleet has doubled over the past five years, with new-build vessels expected to nearly double capacity by 2030.
+wixId: 20474c12-0d01-4fdf-a169-5018d1a48fc4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- HMM
+- container shipping
+- TEU capacity
+- fleet growth
+- South Korea
+- maritime sector
+- Alphaliner
 ---
-
 <p style="text-align: justify"><strong>HMM (Hyundai Merchant Marine)</strong> has reached <strong>a major milestone in global container shipping history.</strong> The company has achieved <strong>a fleet capacity of 1,007,180 TEU</strong> according to <strong>Alphaliner</strong> data, making it the <strong>eighth shipping company</strong> to join the exclusive group known as the <strong>"TEU Millionaires Club."</strong></p>
 <p><br></p>
 <p style="text-align: justify">This achievement reflects <strong>impressive growth demonstrated by South Korea's national carrier HMM</strong> over the past five years. According to <strong>Alphaliner's weekly report,</strong> HMM's operating capacity <strong>has doubled since 2019.</strong> The analysis highlights that <strong>the 2020s have been the most profitable period in container shipping history to date,</strong> and HMM has benefited substantially from this trend.</p>

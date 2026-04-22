@@ -1,14 +1,22 @@
 ---
-title: "ERP Kesintileri Birleşik Krallık E-Ticaret Şirketlerine Günde 26.000 Sterlinden Fazlaya Mal Olabilir"
-subtitle: "ERP Kesintileri Birleşik Krallık E-Ticaret Şirketlerine Günde 26.000 Sterlinden Fazlaya Mal Olabilir"
-date: "2025-03-07T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_3b333e4b4be748f898ce4229ff8394b2~mv2.jpg"
-imageAlt: "ERP Kesintileri Birleşik Krallık E-Ticaret Şirketlerine Günde 26.000 Sterlinden Fazlaya Mal Olabilir"
-wixId: "62ddc8fa-fa10-45fa-8c19-5fb22ef100b7"
-author: "Sedat Onat"
+title: ERP Kesintileri Birleşik Krallık E-Ticaret Şirketlerine Günde 26.000 Sterlinden Fazlaya Mal Olabilir
+subtitle: ERP Kesintileri Birleşik Krallık E-Ticaret Şirketlerine Günde 26.000 Sterlinden Fazlaya Mal Olabilir
+date: '2025-03-07T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_3b333e4b4be748f898ce4229ff8394b2~mv2.jpg
+imageAlt: ERP Kesintileri Birleşik Krallık E-Ticaret Şirketlerine Günde 26.000 Sterlinden Fazlaya Mal Olabilir
+wixId: 62ddc8fa-fa10-45fa-8c19-5fb22ef100b7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ERP
+- e-ticaret
+- sistem kesintisi
+- Birleşik Krallık
+- mali kayıp
+- siber güvenlik
+- tedarik zinciri
 ---
 <p style="text-align: justify">Birleşik Krallık'ta e-ticaret sektöründe faaliyet gösteren şirketler, <strong>ERP</strong> (Enterprise Resource Planning) sistemlerindeki kesintiler nedeniyle ciddi mali kayıplarla karşı karşıya kalmaktadır. Bu kesintiler, günlük ortalama 26.000 sterlin gibi yüksek bir maliyete yol açmaktadır.​</p>
 <p><br></p>

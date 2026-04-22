@@ -1,14 +1,22 @@
 ---
-title: "KPMG Anketine Göre ABD Şirketleri Tedarik Zincirlerini Amerika Kıtasına Yakınlaştırıyor"
-subtitle: "KPMG Anketine Göre ABD Şirketleri Tedarik Zincirlerini Amerika Kıtasına Yakınlaştırıyor"
-date: "2024-10-31T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/06566537e7943a68d8440b7b57a6da7f.jpg"
-imageAlt: "KPMG Anketine Göre ABD Şirketleri Tedarik Zincirlerini Amerika Kıtasına Yakınlaştırıyor"
-wixId: "dca54c85-2dc0-4b1b-996b-539f5db1c785"
-author: "Sedat Onat"
+title: KPMG Anketine Göre ABD Şirketleri Tedarik Zincirlerini Amerika Kıtasına Yakınlaştırıyor
+subtitle: KPMG Anketine Göre ABD Şirketleri Tedarik Zincirlerini Amerika Kıtasına Yakınlaştırıyor
+date: '2024-10-31T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/06566537e7943a68d8440b7b57a6da7f.jpg
+imageAlt: KPMG Anketine Göre ABD Şirketleri Tedarik Zincirlerini Amerika Kıtasına Yakınlaştırıyor
+wixId: dca54c85-2dc0-4b1b-996b-539f5db1c785
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- nearshoring
+- ABD
+- tedarik zinciri
+- KPMG
+- Meksika
+- dayanıklılık
+- yakınlaştırma
 ---
 <p>KPMG Americas'ın bölgesel danışmanlık lideri Jean-Pierre Trouillot ve KPMG US'in Danışmanlık Uygulaması'nda tedarik zinciri lideri olan Mary Rollman, ABD merkezli tedarik zinciri yöneticilerinin değişen tedarik stratejileri üzerine firmanın yeni anketinin bulgularını paylaştı. "The Proximity Premium: Strategically Reshaping Supply Chains in the Americas" başlıklı anket, işletmelerin tedarik zinciri verimliliğini ve dayanıklılığını artırmak amacıyla üretimi nihai pazarlara daha yakın bir konuma taşımaya (<a href="https://www.tedarikzinciriportali.com/post/terim-nearshoring-yakin-ulkede-uretim"><u><strong>Nearshoring</strong></u></a><u><strong>)</strong></u> yönelik çabalarını ortaya koydu. Bu strateji, üretimin Çin ve Asya'nın diğer bölgelerinden ABD, Meksika, Orta ve Güney Amerika ile Karayipler'e kaydırılmasını içeriyor.</p>
 <p><br></p>

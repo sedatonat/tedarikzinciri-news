@@ -1,14 +1,23 @@
 ---
-title: "Rotterdam Limanı'ndan Gemi Hareketlerinde \"Geofence\" Dönemi"
-subtitle: "Rotterdam Limanı'ndan Gemi Hareketlerinde \"Geofence\" Dönemi"
-date: "2024-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_16ced623d8b14b63891d07da1b5dc700~mv2.jpg"
-imageAlt: "Rotterdam Limanı'ndan Gemi Hareketlerinde \"Geofence\" Dönemi"
-wixId: "76a7bae0-96e5-4d50-8fff-787c5f417051"
-author: "Sedat Onat"
+title: Rotterdam Limanı'ndan Gemi Hareketlerinde "Geofence" Dönemi
+subtitle: Rotterdam Limanı'ndan Gemi Hareketlerinde "Geofence" Dönemi
+date: '2024-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_16ced623d8b14b63891d07da1b5dc700~mv2.jpg
+imageAlt: Rotterdam Limanı'ndan Gemi Hareketlerinde "Geofence" Dönemi
+wixId: 76a7bae0-96e5-4d50-8fff-787c5f417051
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Rotterdam Limanı
+- geofence
+- just-in-time sailing
+- CO2 emisyonu
+- liman operasyonları
+- gemi hareketleri
+- sürdürülebilirlik
+- IMO
 ---
 <p>Rotterdam Limanı, gemi hareketlerini optimize etmek ve liman operasyonlarının verimliliğini artırmak amacıyla yeni "Geofence" sistemini hayata geçirdi. Bu yenilikçi sistem, CO2 emisyonlarını azaltmayı ve gemi hareketlerinin etkinliğini artırmayı hedefleyen "Just-in-Time sailing" projesinin ilk aşamasının önemli bir parçası olarak duyuruldu.</p>
 <p><br></p>

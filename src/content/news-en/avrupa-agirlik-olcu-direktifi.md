@@ -1,16 +1,23 @@
 ---
-title: "Europe's Weights and Dimensions Directive Threatens Intermodal Transportation"
-subtitle: "Europe's Weights and Dimensions Directive Threatens Intermodal Transportation"
-date: "2025-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2dc52c5658e84ea9a89f98deca1ea596~mv2.jpg"
-imageAlt: "Under Europe's Weights and Dimensions Directive (WDD), plans to introduce larger trucks under the European Modular System (EMS) have drawn criticism from 16 European logistics and rail associations. The organizations argue that this will undermine railroad investments and set back intermodal transportation."
-wixId: "ffa69011-c0a7-4dde-ae08-1108e31b38c1"
-author: "Sedat Onat"
+title: Europe's Weights and Dimensions Directive Threatens Intermodal Transportation
+subtitle: Europe's Weights and Dimensions Directive Threatens Intermodal Transportation
+date: '2025-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2dc52c5658e84ea9a89f98deca1ea596~mv2.jpg
+imageAlt: Under Europe's Weights and Dimensions Directive (WDD), plans to introduce larger trucks under the European Modular System (EMS) have drawn criticism from 16 European logistics and rail associations. The organizations argue that this will undermine railroad investments and set back intermodal transportation.
+wixId: ffa69011-c0a7-4dde-ae08-1108e31b38c1
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- European Union
+- intermodal transport
+- rail transport
+- road safety
+- megatruck
+- modal shift
+- Weights and Dimensions Directive
 ---
-
 <p style="text-align: justify"><strong>16 sector associations</strong> across Europe have sent a joint letter to the European Commission, strongly objecting to the proposed implementation of the <strong>European Modular System (EMS)</strong> under the <strong>Weights and Dimensions Directive (WDD)</strong>. This system would permit the use of <strong>longer and heavier trucks (mega-trucks)</strong> on European roads.</p>
 <p><br></p>
 <p style="text-align: justify">According to the signatories, this move would <strong>undermine investments in rail transport</strong>, <strong>weaken intermodal transportation (rail–road–maritime integration)</strong>, and <strong>jeopardize road safety.</strong></p>

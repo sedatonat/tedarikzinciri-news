@@ -1,16 +1,23 @@
 ---
-title: "DHL Invests $90 Million to Relocate Manhattan Operations to Jersey City"
-subtitle: "DHL Invests $90 Million to Relocate Manhattan Operations to Jersey City"
-date: "2025-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/563916d42dce4dc3a6da1d427d33658c.jpg"
-imageAlt: "DHL Express has announced a $90 million investment plan to double its capacity in the New York region and accelerate delivery speeds. The company will relocate its Manhattan service center to a new 92,505 square-meter facility in Jersey City by November 2025."
-wixId: "bf1ca82f-7933-4948-97b9-7d582716f0da"
-author: "Sedat Onat"
+title: DHL Invests $90 Million to Relocate Manhattan Operations to Jersey City
+subtitle: DHL Invests $90 Million to Relocate Manhattan Operations to Jersey City
+date: '2025-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/563916d42dce4dc3a6da1d427d33658c.jpg
+imageAlt: DHL Express has announced a $90 million investment plan to double its capacity in the New York region and accelerate delivery speeds. The company will relocate its Manhattan service center to a new 92,505 square-meter facility in Jersey City by November 2025.
+wixId: bf1ca82f-7933-4948-97b9-7d582716f0da
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- DHL Express
+- Jersey City
+- facility investment
+- capacity expansion
+- electric vehicle
+- automation
+- New York
 ---
-
 <p style="text-align: justify"><strong>DHL Express</strong> has launched a <strong>$90 million expansion investment</strong> to strengthen its presence in the <strong>New York metropolitan region</strong>, one of the United States' most intensive logistics hubs. The company announced it will relocate its <strong>Manhattan operations to a new, high-capacity facility in Jersey City, New Jersey</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The new facility will become operational by <strong>the end of November 2025</strong> and will replace DHL's current <strong>Manhattan service center</strong>. The <strong>92,505 square-meter</strong> (approximately <strong>larger than one acre</strong>) new hub is positioned <strong>just 8 kilometers from Lower Manhattan</strong>. According to DHL's announcement, the facility will provide <strong>faster delivery, advanced automation, and sustainable vehicle infrastructure</strong>.</p>

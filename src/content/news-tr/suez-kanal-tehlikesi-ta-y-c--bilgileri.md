@@ -1,14 +1,23 @@
 ---
-title: "Süveyş Kanalı Tehlikede: Taşıyıcıların Bilmesi Gerekenler ve Yönlendirme Stratejileri"
-subtitle: "Süveyş Kanalı Tehlikede: Taşıyıcıların Bilmesi Gerekenler ve Yönlendirme Stratejileri"
-date: "2023-12-22T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_743ef9f0c31d4c8988fd97f713fe1853~mv2.jpg"
-imageAlt: "Süveyş Kanalı Tehlikede: Taşıyıcıların Bilmesi Gerekenler ve Yönlendirme Stratejileri"
-wixId: "f068a3f1-9ddb-4a50-b2f2-11ce6abcb6ae"
-author: "Sedat Onat"
+title: 'Süveyş Kanalı Tehlikede: Taşıyıcıların Bilmesi Gerekenler ve Yönlendirme Stratejileri'
+subtitle: 'Süveyş Kanalı Tehlikede: Taşıyıcıların Bilmesi Gerekenler ve Yönlendirme Stratejileri'
+date: '2023-12-22T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_743ef9f0c31d4c8988fd97f713fe1853~mv2.jpg
+imageAlt: 'Süveyş Kanalı Tehlikede: Taşıyıcıların Bilmesi Gerekenler ve Yönlendirme Stratejileri'
+wixId: f068a3f1-9ddb-4a50-b2f2-11ce6abcb6ae
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Süveyş Kanalı
+- Kızıldeniz
+- Maersk
+- CMA CGM
+- Hapag-Lloyd
+- deniz taşımacılığı
+- rota değişikliği
+- navlun maliyetleri
 ---
 <p>Süveyş Kanalı'nda yaşanan sorunlar, 2023'ün sonlarına doğru yük taşımacılığı sektörünü büyük bir belirsizlikle karşı karşıya bırakıyor. Kızıl Deniz üzerinden yapılan seyahatler sırasında gemilere yönelik saldırılar, önemli taşıyıcıların rotalarını değiştirmelerine veya geçişleri durdurmalarına neden oldu. Bu durum, lojistik yöneticilerini, ticari gemilerin güvenli geçişini sağlamak için uluslararası bir operasyon düzenlenene kadar alternatif planlar üzerinde çalışmaya itiyor.&nbsp;</p>
 <p><br></p>

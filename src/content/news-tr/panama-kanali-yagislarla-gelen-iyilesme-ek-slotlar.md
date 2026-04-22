@@ -1,14 +1,21 @@
 ---
-title: "Panama Kanalı'nda Yağışlarla Gelen İyileşme: Ek Geçiş Slotları Eklendi"
-subtitle: "Panama Kanalı'nda Yağışlarla Gelen İyileşme: Ek Geçiş Slotları Eklendi"
-date: "2024-03-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_59dbb66aa8194f00be105736153ab39d~mv2.jpg"
-imageAlt: "Panama Kanalı'nda Yağışlarla Gelen İyileşme: Ek Geçiş Slotları Eklendi"
-wixId: "4c7789cb-7f2c-44c5-b8de-8aeabb2389fc"
-author: "Sedat Onat"
+title: 'Panama Kanalı''nda Yağışlarla Gelen İyileşme: Ek Geçiş Slotları Eklendi'
+subtitle: 'Panama Kanalı''nda Yağışlarla Gelen İyileşme: Ek Geçiş Slotları Eklendi'
+date: '2024-03-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_59dbb66aa8194f00be105736153ab39d~mv2.jpg
+imageAlt: 'Panama Kanalı''nda Yağışlarla Gelen İyileşme: Ek Geçiş Slotları Eklendi'
+wixId: 4c7789cb-7f2c-44c5-b8de-8aeabb2389fc
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Panama Kanalı
+- kuraklık
+- geçiş slotları
+- panamax kilitleri
+- deniz taşımacılığı
+- ACP
 ---
 <p>Son dönemlerde <a href="https://en.wikipedia.org/wiki/Panama_Canal"><u>Panama Kanalı</u></a>'nda yaşanan rekor düzeydeki kuraklık, Haziran ayından bu yana kanalın işleyişini olumsuz etkilemiş, ancak son yağışlarla birlikte durumda iyileşme görüldü.&nbsp;</p>
 <p><br></p>

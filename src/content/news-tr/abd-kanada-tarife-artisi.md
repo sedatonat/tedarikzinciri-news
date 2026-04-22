@@ -1,14 +1,22 @@
 ---
-title: "Trump, Kanada’dan İthal Ürünlere %10 Ek Gümrük Vergisi Getirmeye Hazırlanıyor"
-subtitle: "Trump, Kanada’dan İthal Ürünlere %10 Ek Gümrük Vergisi Getirmeye Hazırlanıyor"
-date: "2025-10-25T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_bace6252b58f4ed6a3fcd72df4d5d779~mv2.jpg"
-imageAlt: "ABD Başkanı Donald Trump, Kanada ile yürütülen ticaret görüşmelerinin askıya alınmasının ardından ithal ürünlere %10 oranında ek gümrük vergisi uygulamayı planladığını duyurdu. Gerginlik, Ontario hükümetinin Ronald Reagan’ın 1987 tarihli konuşmasından alınan kesitlerle hazırladığı anti-tarife reklam kampanyası sonrasında tırmandı."
-wixId: "afb69ec1-df91-44f7-bc9f-b889af9fd441"
-author: "Sedat Onat"
+title: Trump, Kanada’dan İthal Ürünlere %10 Ek Gümrük Vergisi Getirmeye Hazırlanıyor
+subtitle: Trump, Kanada’dan İthal Ürünlere %10 Ek Gümrük Vergisi Getirmeye Hazırlanıyor
+date: '2025-10-25T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_bace6252b58f4ed6a3fcd72df4d5d779~mv2.jpg
+imageAlt: ABD Başkanı Donald Trump, Kanada ile yürütülen ticaret görüşmelerinin askıya alınmasının ardından ithal ürünlere %10 oranında ek gümrük vergisi uygulamayı planladığını duyurdu. Gerginlik, Ontario hükümetinin Ronald Reagan’ın 1987 tarihli konuşmasından alınan kesitlerle hazırladığı anti-tarife reklam kampanyası sonrasında tırmandı.
+wixId: afb69ec1-df91-44f7-bc9f-b889af9fd441
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Trump
+- Kanada
+- gümrük vergisi
+- USMCA
+- ticaret savaşı
+- tedarik zinciri
+- tarife
 ---
 <p style="text-align: justify"><strong>ABD Başkanı Donald Trump</strong>, <strong>Kanada’dan yapılan ithalata %10 ek gümrük vergisi</strong> uygulanacağını açıkladı. Duyuru, Trump’ın <strong>TruthSocial</strong> hesabından <strong>25 Ekim 2025 Cumartesi günü</strong> yapılan paylaşımda yer aldı. Ancak açıklamada yeni tarife artışının <strong>ne zaman yürürlüğe gireceği</strong> veya <strong>hangi ürünleri kapsayacağı</strong> belirtilmedi.</p>
 <p><br></p>

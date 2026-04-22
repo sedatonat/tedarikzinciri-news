@@ -1,14 +1,22 @@
 ---
-title: "RAIN RFID, Teslimat Hatalarını Azaltarak Lojistikte Görünürlüğü Artırıyor"
-subtitle: "RAIN RFID, Teslimat Hatalarını Azaltarak Lojistikte Görünürlüğü Artırıyor"
-date: "2025-12-08T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_532823d09997466abf38d2e7f70320d6~mv2.jpg"
-imageAlt: "Impinj’in RAIN RFID teknolojisinin misload ve teslimat hatalarının kök nedenlerini nasıl ortadan kaldırdığı, UPS örneğiyle ölçülebilir operasyonel kazanımlar ve yoğun sezonlarda lojistik doğruluğa etkisinin detaylı özeti"
-wixId: "a3fd37d7-a937-4f4c-a316-4da71eecaf20"
-author: "Sedat Onat"
+title: RAIN RFID, Teslimat Hatalarını Azaltarak Lojistikte Görünürlüğü Artırıyor
+subtitle: RAIN RFID, Teslimat Hatalarını Azaltarak Lojistikte Görünürlüğü Artırıyor
+date: '2025-12-08T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_532823d09997466abf38d2e7f70320d6~mv2.jpg
+imageAlt: Impinj’in RAIN RFID teknolojisinin misload ve teslimat hatalarının kök nedenlerini nasıl ortadan kaldırdığı, UPS örneğiyle ölçülebilir operasyonel kazanımlar ve yoğun sezonlarda lojistik doğruluğa etkisinin detaylı özeti
+wixId: a3fd37d7-a937-4f4c-a316-4da71eecaf20
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- RAIN RFID
+- teslimat hataları
+- lojistik görünürlüğü
+- UPS
+- misload
+- tedarik zinciri
+- otomasyon
 ---
 <p style="text-align: justify">Yoğun sezonlara girilirken lojistik operasyonları, artan hacim, zaman baskısı ve karmaşık rotalama kararları nedeniyle <strong>delivery errors</strong> ve özellikle <strong>misload</strong> sorunlarıyla daha sık karşılaşmakta. Otomasyonun birçok aşamada ilerleme sağlamasına rağmen, paketlerin yanlış araca yüklenmesi veya yanlış rotaya yönlendirilmesi hâlen sektör genelinde önemli maliyetler yaratmakta. Bu bağlamda <strong>Impinj</strong> Ürün Yönetimi Başkan Yardımcısı <strong>Gagan Luthra</strong>, <strong>RAIN RFID</strong> teknolojisinin bu kronik sorunları nasıl çözdüğünü detaylandırıyor.</p>
 <p><br></p>

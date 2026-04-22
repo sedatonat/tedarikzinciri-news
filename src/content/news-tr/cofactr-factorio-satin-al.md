@@ -1,14 +1,22 @@
 ---
-title: "Cofactr Factor.io'yu Satın Aldı: Tedarikçi Takibinde Otomasyon"
-subtitle: "Cofactr Factor.io'yu Satın Aldı: Tedarikçi Takibinde Otomasyon"
-date: "2025-02-10T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_16541b193151440baa89063ce8f1cad0~mv2.jpg"
-imageAlt: "Cofactr Factor.io'yu Satın Aldı: Tedarikçi Takibinde Otomasyon"
-wixId: "3f3b6d91-cac2-457d-b728-8f15fc6357ab"
-author: "Sedat Onat"
+title: 'Cofactr Factor.io''yu Satın Aldı: Tedarikçi Takibinde Otomasyon'
+subtitle: 'Cofactr Factor.io''yu Satın Aldı: Tedarikçi Takibinde Otomasyon'
+date: '2025-02-10T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_16541b193151440baa89063ce8f1cad0~mv2.jpg
+imageAlt: 'Cofactr Factor.io''yu Satın Aldı: Tedarikçi Takibinde Otomasyon'
+wixId: 3f3b6d91-cac2-457d-b728-8f15fc6357ab
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Cofactr
+- Factor.io
+- satın alma
+- tedarikçi takibi
+- otomasyon
+- tedarik zinciri yönetimi
+- dijital dönüşüm
 ---
 <p style="text-align: justify"><strong>Cofactr</strong>, tedarik zinciri yönetimi ve donanım lojistiği alanında faaliyet gösteren bir şirket olarak, <strong>Factor.io</strong>'yu satın alarak tedarikçi takibi süreçlerini otomatikleştirmeyi hedeflemekte. Bu stratejik hamle, <strong>Cofactr</strong>'ın müşterilerine daha verimli ve izlenebilir tedarik zinciri çözümleri sunmasına olanak tanımakta.</p>
 <p><br></p>

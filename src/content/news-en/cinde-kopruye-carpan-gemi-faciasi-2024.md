@@ -1,16 +1,23 @@
 ---
-title: "Container Ship Strikes Bridge in China: Two Dead, Three Missing"
-subtitle: "Container Ship Strikes Bridge in China: Two Dead, Three Missing"
-date: "2024-02-22T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ed0a3f0719fb481cb5cfb246e09aaef3~mv2.jpeg"
-imageAlt: "Container Ship Strikes Bridge in China: Two Dead, Three Missing"
-wixId: "f2860834-d987-462e-a1d7-b5cb8027cf0a"
-author: "Sedat Onat"
+title: 'Container Ship Strikes Bridge in China: Two Dead, Three Missing'
+subtitle: 'Container Ship Strikes Bridge in China: Two Dead, Three Missing'
+date: '2024-02-22T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_ed0a3f0719fb481cb5cfb246e09aaef3~mv2.jpeg
+imageAlt: 'Container Ship Strikes Bridge in China: Two Dead, Three Missing'
+wixId: f2860834-d987-462e-a1d7-b5cb8027cf0a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- container ship
+- bridge accident
+- Guangzhou
+- China
+- maritime accident
+- Liang Hui 688
+- Foshan Lianghui
 ---
-
 <p>On the morning of February 22, 2024, a container ship named <a href="https://www.marinetraffic.com/en/ais/details/ships/shipid:5532309/mmsi:414401920/imo:0/vessel:HUI_LIANG"><u>Liang Hui 688</u></a> in Guangzhou, Guangdong province struck the <a href="https://www.google.com/maps/place/Li+Xin+Sha+Da+Qiao,+Nan+Sha+Qu,+Guang+Zhou+Shi,+Guang+Dong+Sheng,+China/@22.6502237,113.5528193,2364m/data=!3m1!1e3!4m6!3m5!1s0x3403c86267df8239:0x3557c783c85c7fb!8m2!3d22.6519297!4d113.5571389!16s%2Fg%2F1tdkd6wd?entry=ttu"><u>Lixinsha Bridge</u></a>, resulting in two deaths and three missing persons. The ship's impact caused a section of the bridge to collapse, leading to four cars and one motorcycle falling from the bridge; two vehicles fell into the river, while the other three fell onto the ship. At the time of the collision, Liang Hui 688 was not carrying any containers.</p>
 <p><br></p>
 <p>Liang Hui 688 is a domestically produced Chinese container vessel built in 2016 with a displacement of 5,000 gt. The ship is operated by <a href="https://www.foshansourcing.com/about-shipment/"><u>Foshan Lianghui Shipping Service</u></a>, a company established in March 2021 and owned by Zhang Bingrong (60%) and Lin Yunfen (40%). Foshan Lianghui operates in the city of Foshan, Guangdong.</p>

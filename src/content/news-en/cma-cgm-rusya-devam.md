@@ -1,16 +1,23 @@
 ---
-title: "CMA CGM Resumes Limited Commercial Operations in Russia"
-subtitle: "CMA CGM Resumes Limited Commercial Operations in Russia"
-date: "2025-11-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b89d0da026c44b59ae1a68634893d5a1~mv2.jpg"
-imageAlt: "CMA CGM's resumption of food and consumer goods transportation to Russia in compliance with sanctions regulations and a comprehensive overview of the operational, legal and sectoral implications of this process."
-wixId: "66334240-740e-435d-a06c-9bfb03e9adbf"
-author: "Sedat Onat"
+title: CMA CGM Resumes Limited Commercial Operations in Russia
+subtitle: CMA CGM Resumes Limited Commercial Operations in Russia
+date: '2025-11-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b89d0da026c44b59ae1a68634893d5a1~mv2.jpg
+imageAlt: CMA CGM's resumption of food and consumer goods transportation to Russia in compliance with sanctions regulations and a comprehensive overview of the operational, legal and sectoral implications of this process.
+wixId: 66334240-740e-435d-a06c-9bfb03e9adbf
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- CMA CGM
+- Russia
+- container shipping
+- sanctions
+- CNC
+- ocean shipping
+- MSC
 ---
-
 <p style="text-align: justify">The world's third-largest container shipping company, <strong>CMA CGM Group</strong>, has confirmed that it has <strong>resumed commercial operations in Russia on a limited scale</strong>. The company emphasized that shipments are conducted solely for <strong>food and essential consumer products</strong> and that all processes are carried out in <strong>complete compliance with current sanctions regimes</strong>. This move represents a noteworthy return in the post-2022 period, when shipping services to Russia have been largely suspended across the global transport sector.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">According to the company's statement, <strong>CNC</strong>, a regional operator fully owned by CMA CGM, <strong>restarted certain commercial activities in October to meet the needs of specific customers</strong>. Within the scope of these activities, <strong>citrus fruits, coffee, and other daily consumer goods</strong> not subject to embargo are being transported to the Russian market. CNC's Northern Europe routes historically provided access to Russia through <strong>Saint Petersburg</strong>; accordingly, the restarted operations are primarily aimed at this market.</p>

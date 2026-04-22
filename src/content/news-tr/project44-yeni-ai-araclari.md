@@ -1,14 +1,22 @@
 ---
-title: "Project44 Yeni Yapay Zeka Araçlarıyla Tedarik Zincirlerini Daha Akıllı Hale Getiriyor"
-subtitle: "Project44 Yeni Yapay Zeka Araçlarıyla Tedarik Zincirlerini Daha Akıllı Hale Getiriyor"
-date: "2025-02-13T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_0f7b3dad18a44432809d667da91d2859~mv2.jpg"
-imageAlt: "Project44 Yeni Yapay Zeka Araçlarıyla Tedarik Zincirlerini Daha Akıllı Hale Getiriyor"
-wixId: "84fdeef0-481f-42f3-bb07-0def254f0520"
-author: "Sedat Onat"
+title: Project44 Yeni Yapay Zeka Araçlarıyla Tedarik Zincirlerini Daha Akıllı Hale Getiriyor
+subtitle: Project44 Yeni Yapay Zeka Araçlarıyla Tedarik Zincirlerini Daha Akıllı Hale Getiriyor
+date: '2025-02-13T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_0f7b3dad18a44432809d667da91d2859~mv2.jpg
+imageAlt: Project44 Yeni Yapay Zeka Araçlarıyla Tedarik Zincirlerini Daha Akıllı Hale Getiriyor
+wixId: 84fdeef0-481f-42f3-bb07-0def254f0520
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- project44
+- yapay zeka
+- tedarik zinciri
+- Movement platformu
+- makine öğrenimi
+- görünürlük
+- GPT
 ---
 <p style="text-align: justify"><strong>project44</strong>, tedarik zinciri görünürlüğü sağlayan lider platformlardan biri olarak, <strong>Movement</strong> adlı yeni bir platformu piyasaya sürerek tedarik zinciri yönetiminde devrim yaratmayı hedeflemekte. Bu platform, yapay zeka ve makine öğrenimi teknolojilerini kullanarak tedarik zincirlerini daha akıllı ve verimli hale getirmekte.​</p>
 <p><br></p>

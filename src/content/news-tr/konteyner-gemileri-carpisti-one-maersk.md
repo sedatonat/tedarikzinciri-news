@@ -1,14 +1,22 @@
 ---
-title: "Konteyner Gemileri Hong Kong'da Çarpıştı"
-subtitle: "Konteyner Gemileri Hong Kong'da Çarpıştı"
-date: "2025-03-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c77a9e774ae0406a88ce562af51ec469~mv2.jpg"
-imageAlt: "Konteyner Gemileri Hong Kong'da Çarpıştı"
-wixId: "4a5f5e27-37c3-4072-a158-95ba9e6c2123"
-author: "Sedat Onat"
+title: Konteyner Gemileri Hong Kong'da Çarpıştı
+subtitle: Konteyner Gemileri Hong Kong'da Çarpıştı
+date: '2025-03-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c77a9e774ae0406a88ce562af51ec469~mv2.jpg
+imageAlt: Konteyner Gemileri Hong Kong'da Çarpıştı
+wixId: 4a5f5e27-37c3-4072-a158-95ba9e6c2123
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- konteyner gemisi
+- Hong Kong
+- ONE
+- Maersk
+- liman kazası
+- denizcilik
+- gemi çarpışması
 ---
 <p style="text-align: justify">Hong Kong'da <strong>Ocean Network Express (ONE)</strong> ve <strong>Maersk</strong> şirketlerine ait iki konteyner gemisi limanda manevra yaparken çarpıştı. <strong>ONE</strong>'nin <strong>ONE Susannah</strong> adlı gemisi, <strong>Maersk</strong>'e ait <strong>Maersk Kalamata</strong> gemisine yanaşma manevrası sırasında iskele tarafında hasara neden oldu. Kaza sonucunda her iki gemide de yapısal hasar meydana geldi.</p>
 <p><br></p>

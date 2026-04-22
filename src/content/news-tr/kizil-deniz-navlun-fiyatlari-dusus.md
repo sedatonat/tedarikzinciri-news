@@ -1,14 +1,23 @@
 ---
-title: "Kızıldeniz’deki Sakinlik Navlun Fiyatlarını %25 Azaltabilir"
-subtitle: "Kızıldeniz’deki Sakinlik Navlun Fiyatlarını %25 Azaltabilir"
-date: "2025-01-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d050a3eeb6b84d0ebcbf58695dbca961~mv2.jpg"
-imageAlt: "Kızıldeniz’deki Sakinlik Navlun Fiyatlarını %25 Azaltabilir"
-wixId: "315ed78c-eeb1-4793-8ef6-69e2e61211a3"
-author: "Sedat Onat"
+title: Kızıldeniz’deki Sakinlik Navlun Fiyatlarını %25 Azaltabilir
+subtitle: Kızıldeniz’deki Sakinlik Navlun Fiyatlarını %25 Azaltabilir
+date: '2025-01-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d050a3eeb6b84d0ebcbf58695dbca961~mv2.jpg
+imageAlt: Kızıldeniz’deki Sakinlik Navlun Fiyatlarını %25 Azaltabilir
+wixId: 315ed78c-eeb1-4793-8ef6-69e2e61211a3
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kızıldeniz
+- navlun fiyatları
+- DP World
+- Süveyş Kanalı
+- Husi saldırıları
+- deniz taşımacılığı
+- tedarik zinciri
+- jeopolitik risk
 ---
 <p style="text-align: justify"><strong>DP World</strong>, Kızıldeniz’deki tansiyonun azalması durumunda küresel taşımacılık maliyetlerinin %25’e kadar düşebileceğini belirtiyor. Küresel lojistik sektöründe kritik bir geçiş noktası olan <strong>Kızıldeniz</strong>, son aylarda artan jeopolitik riskler nedeniyle nakliye rotalarında ciddi değişikliklere sahne oldu. Husi isyancılarının <strong>Bab el-Mandeb Boğazı</strong> yakınlarında ticari gemilere yönelik saldırıları, birçok taşımacılık şirketinin rotalarını değiştirmesine yol açtı.</p>
 <p><br></p>

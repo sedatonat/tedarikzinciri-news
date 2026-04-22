@@ -1,16 +1,23 @@
 ---
-title: "Gemini's \"Reliability Surcharge\" Sparks Debate: Shippers Divided"
-subtitle: "Gemini's \"Reliability Surcharge\" Sparks Debate: Shippers Divided"
-date: "2025-11-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_37863dfb55ed4c69b4fa955605fcc4d9~mv2.jpg"
-imageAlt: "Gemini Cooperation, the Maersk–Hapag-Lloyd partnership, is considering charging a premium reliability surcharge for on-time arrival performance above 89%; however, shippers remain deeply divided on the legitimacy of the fee."
-wixId: "8851c159-79da-475e-97c6-63b17fde6402"
-author: "Sedat Onat"
+title: 'Gemini''s "Reliability Surcharge" Sparks Debate: Shippers Divided'
+subtitle: 'Gemini''s "Reliability Surcharge" Sparks Debate: Shippers Divided'
+date: '2025-11-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_37863dfb55ed4c69b4fa955605fcc4d9~mv2.jpg
+imageAlt: Gemini Cooperation, the Maersk–Hapag-Lloyd partnership, is considering charging a premium reliability surcharge for on-time arrival performance above 89%; however, shippers remain deeply divided on the legitimacy of the fee.
+wixId: 8851c159-79da-475e-97c6-63b17fde6402
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Gemini Cooperation
+- Maersk
+- Hapag-Lloyd
+- reliability fee
+- on-time delivery
+- container shipping
+- supply chain cost
 ---
-
 <p style="text-align: justify"><strong>Gemini Cooperation</strong>, formed by Maersk and Hapag-Lloyd, has attracted market attention through its strong on-time delivery performance in 2025. According to Sea-Intelligence data, Gemini achieved <strong>89.1% on-time reliability across all arrivals in September</strong>, positioning itself as one of the sector's most consistent networks.</p>
 <p><br></p>
 <p style="text-align: justify">This success has prompted the two carriers to <strong>consider charging a premium for reliability</strong>. However, this proposal has triggered a clear divide among shippers.</p>

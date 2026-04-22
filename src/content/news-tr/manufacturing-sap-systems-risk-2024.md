@@ -1,14 +1,22 @@
 ---
-title: "SAP Sistemlerinin Güncellenmemesi Üretim Sektöründe Büyük Risk Oluşturuyor"
-subtitle: "SAP Sistemlerinin Güncellenmemesi Üretim Sektöründe Büyük Risk Oluşturuyor"
-date: "2024-08-07T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_247d75d37cc646d1b685ceb7b154379b~mv2.jpg"
-imageAlt: "SAP Sistemlerinin Güncellenmemesi Üretim Sektöründe Büyük Risk Oluşturuyor"
-wixId: "0f00cd54-749d-48b4-a8fd-725467c5b665"
-author: "Sedat Onat"
+title: SAP Sistemlerinin Güncellenmemesi Üretim Sektöründe Büyük Risk Oluşturuyor
+subtitle: SAP Sistemlerinin Güncellenmemesi Üretim Sektöründe Büyük Risk Oluşturuyor
+date: '2024-08-07T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_247d75d37cc646d1b685ceb7b154379b~mv2.jpg
+imageAlt: SAP Sistemlerinin Güncellenmemesi Üretim Sektöründe Büyük Risk Oluşturuyor
+wixId: 0f00cd54-749d-48b4-a8fd-725467c5b665
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- SAP
+- siber güvenlik
+- üretim sektörü
+- ERP sistemleri
+- dijital dönüşüm
+- fidye yazılımı
+- güvenlik açığı
 ---
 <p>SAP sistemlerinin güncellenmemesi, üretim sektöründe büyük bir risk olarak karşımıza çıkıyor. Dijital dönüşüm sürecinde hızla ilerleyen birçok şirket, eski SAP sistemlerine güvenmeye devam ediyor. Bu durum, siber saldırılara karşı savunmasız kalmalarına yol açıyor. SAP’nin eski sürümlerinin desteklenmemesi, bu sistemlerdeki güvenlik açıklarının artmasına neden oluyor ve bu da üretim süreçlerinin durmasına, mali kayıplara ve itibar zedelenmesine yol açabilecek potansiyel tehlikeler doğuruyor.</p>
 <p><br></p>

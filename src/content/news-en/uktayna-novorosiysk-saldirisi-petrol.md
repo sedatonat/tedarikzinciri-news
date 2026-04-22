@@ -1,16 +1,23 @@
 ---
-title: "Ukrainian Strike Temporarily Disrupts 2% of Global Oil Supply at Novorossiysk"
-subtitle: "Ukrainian Strike Temporarily Disrupts 2% of Global Oil Supply at Novorossiysk"
-date: "2025-11-14T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_85b310f7c629494fa8b81ce00df8ab94~mv2.jpg"
-imageAlt: "Ukraine's missile and drone attack on Novorossiysk halts oil loading operations at Russia's Black Sea port; approximately 2% of global supply temporarily disrupted with two major oil piers sustaining damage."
-wixId: "2a8c80ac-9808-44db-9634-5e555d38848e"
-author: "Sedat Onat"
+title: Ukrainian Strike Temporarily Disrupts 2% of Global Oil Supply at Novorossiysk
+subtitle: Ukrainian Strike Temporarily Disrupts 2% of Global Oil Supply at Novorossiysk
+date: '2025-11-14T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_85b310f7c629494fa8b81ce00df8ab94~mv2.jpg
+imageAlt: Ukraine's missile and drone attack on Novorossiysk halts oil loading operations at Russia's Black Sea port; approximately 2% of global supply temporarily disrupted with two major oil piers sustaining damage.
+wixId: 2a8c80ac-9808-44db-9634-5e555d38848e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Novorossiysk Port
+- oil exports
+- Ukraine attack
+- Black Sea
+- energy infrastructure
+- Russia
+- global supply
 ---
-
 <p style="text-align: justify"><strong>Novorossiysk Port</strong>, one of Russia's most critical oil export hubs on the Black Sea coast, <strong>temporarily shut down</strong> following an extensive missile and drone strike carried out by Ukraine on November 14. According to Reuters, the disruption at the port caused a halt to approximately <strong>2.2 million barrels per day</strong>, equivalent to roughly <strong>2% of global oil supply</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The strike, consistent with Ukraine's intensified targeting of Russian oil refineries and energy infrastructure since summer 2025, aims to further undermine Russia's oil export capacity. News of the strike pushed crude oil prices up by <strong>more than 2%</strong>, reflecting the market's risk perception and sensitivity to supply disruptions.</p>

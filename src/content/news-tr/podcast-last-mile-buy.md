@@ -1,14 +1,22 @@
 ---
-title: "Podcast: Son Kilometrede İnşa Et Mi Satın Al Mı?"
-subtitle: "Podcast: Son Kilometrede İnşa Et Mi Satın Al Mı?"
-date: "2025-04-15T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c23c4d180d3f42cc93ba830d45bffc65~mv2.png"
-imageAlt: "Podcast: Son Kilometrede İnşa Et Mi Satın Al Mı?"
-wixId: "369ff983-ff37-445d-8b9d-1ec4ed0b33bb"
-author: "Sedat Onat"
+title: 'Podcast: Son Kilometrede İnşa Et Mi Satın Al Mı?'
+subtitle: 'Podcast: Son Kilometrede İnşa Et Mi Satın Al Mı?'
+date: '2025-04-15T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c23c4d180d3f42cc93ba830d45bffc65~mv2.png
+imageAlt: 'Podcast: Son Kilometrede İnşa Et Mi Satın Al Mı?'
+wixId: 369ff983-ff37-445d-8b9d-1ec4ed0b33bb
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- son kilometre
+- 3PL
+- 4PL
+- filo yönetimi
+- build vs buy
+- hibrit model
+- CAPEX
 ---
 <p>Son kilometre taşımacılığında build vs. buy ikilemi, sermaye ve hız dengesi üzerinden tartışılmakta.&nbsp;</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "IAPH Develops New GHG Performance Indicator for Environmental Ship Index"
-subtitle: "IAPH Develops New GHG Performance Indicator for Environmental Ship Index"
-date: "2024-10-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1fd5e95efb9246ffb1f6a0c7dcbd3c46~mv2.jpg"
-imageAlt: "IAPH Develops New GHG Performance Indicator for Environmental Ship Index"
-wixId: "2ddbd722-f238-4df9-ac8e-24e0f54c67f7"
-author: "Sedat Onat"
+title: IAPH Develops New GHG Performance Indicator for Environmental Ship Index
+subtitle: IAPH Develops New GHG Performance Indicator for Environmental Ship Index
+date: '2024-10-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1fd5e95efb9246ffb1f6a0c7dcbd3c46~mv2.jpg
+imageAlt: IAPH Develops New GHG Performance Indicator for Environmental Ship Index
+wixId: 2ddbd722-f238-4df9-ac8e-24e0f54c67f7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- IAPH
+- Environmental Ship Index
+- greenhouse gas emissions
+- CII
+- maritime
+- port incentives
+- decarbonization
 ---
-
 <p>The International Association of Ports and Harbours (IAPH) has developed a new greenhouse gas (GHG) performance indicator under its Environmental Ship Index (ESI) port incentive scheme designed for ship owners. During a presentation on vessel energy efficiency, IAPH welcomed the introduction of the Carbon Intensity Indicator (CII) as a positive development while acknowledging concerns raised by the maritime industry and International Maritime Organization (IMO) member states regarding the current indicator.</p>
 <p><br></p>
 <p>For this reason, IAPH decided to develop its own GHG performance indicator. This indicator will form part of the upcoming expansion and revision of the ESI, which will become fully operational from 2026. Ship owners registered with the ESI, representing 6,425 container, general cargo, cruise, and passenger vessels, can benefit from incentives offered by more than 80 port incentive providers worldwide due to their fleets' environmental performance exceeding IMO emission standards. Incentive providers and receivers are working to adapt their data collection processes based on the new parameters ahead of the January 2026 launch.</p>

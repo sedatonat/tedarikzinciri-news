@@ -1,14 +1,22 @@
 ---
-title: "Thamesborg’un 10 Haftalık Arktik Yolculuğu Kanada’da Sona Erdi"
-subtitle: "Thamesborg’un 10 Haftalık Arktik Yolculuğu Kanada’da Sona Erdi"
-date: "2025-10-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_02497799b6ab4867b59b76ea267dd063~mv2.png"
-imageAlt: "Çin’den Kanada’ya giderken Arktik’te karaya oturan genel kargo gemisi Thamesborg, iki aylık zorlu kurtarma sürecinin ardından güvenli şekilde Baie Comeau Limanı’na ulaştı."
-wixId: "efe997e3-f7cb-4d6f-9b89-1ec4280141b6"
-author: "Sedat Onat"
+title: Thamesborg’un 10 Haftalık Arktik Yolculuğu Kanada’da Sona Erdi
+subtitle: Thamesborg’un 10 Haftalık Arktik Yolculuğu Kanada’da Sona Erdi
+date: '2025-10-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_02497799b6ab4867b59b76ea267dd063~mv2.png
+imageAlt: Çin’den Kanada’ya giderken Arktik’te karaya oturan genel kargo gemisi Thamesborg, iki aylık zorlu kurtarma sürecinin ardından güvenli şekilde Baie Comeau Limanı’na ulaştı.
+wixId: efe997e3-f7cb-4d6f-9b89-1ec4280141b6
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Thamesborg
+- Arktik nakliye
+- Wagenborg
+- karaya oturma
+- Kuzeybatı Geçidi
+- kurtarma operasyonu
+- Kanada
 ---
 <p style="text-align: justify">Çin’in <strong>Lianyungang</strong> limanından yola çıkan <strong>Wagenborg</strong> filosuna ait <strong>Thamesborg</strong> adlı genel kargo gemisinin Kanada’ya yolculuğu, planlanan üç-dört haftalık sürenin çok ötesine geçerek yaklaşık <strong>on haftalık bir deniz odyssey’ine</strong> dönüştü. Gemi, <strong>Franklin Strait</strong> bölgesinde karaya oturduktan sonra bir aydan uzun süren zorlu bir <strong>kurtarma operasyonu</strong> sonrasında yeniden yüzdürüldü. <strong>8 Ekim’de</strong> başarıyla serbest bırakılan gemi, buz kırıcı <strong>Botnica</strong> ve römorkör <strong>Beverly M I</strong> eşliğinde <strong>Baffin Bay</strong>, <strong>Davis Strait</strong> ve <strong>St. Lawrence Nehri</strong> üzerinden ilerleyerek <strong>Doğu Kanada’daki Baie Comeau</strong> limanına ulaştı.</p>
 <p><br></p>

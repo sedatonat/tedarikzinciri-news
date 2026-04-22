@@ -1,14 +1,22 @@
 ---
-title: "2025’te Maliyet Ve Envanter Risklerini Yönetmek İçin 5 RFID Uygulaması"
-subtitle: "2025’te Maliyet Ve Envanter Risklerini Yönetmek İçin 5 RFID Uygulaması"
-date: "2025-09-13T00:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_08808f82ec0f4ee09eccc4acf63416af~mv2.png"
-imageAlt: "2025’te Maliyet Ve Envanter Risklerini Yönetmek İçin Beş Rfid Uygulaması"
-wixId: "b9007ad4-204d-4798-9e5c-94a04cfcf557"
-author: "Sedat Onat"
+title: 2025’te Maliyet Ve Envanter Risklerini Yönetmek İçin 5 RFID Uygulaması
+subtitle: 2025’te Maliyet Ve Envanter Risklerini Yönetmek İçin 5 RFID Uygulaması
+date: '2025-09-13T00:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_08808f82ec0f4ee09eccc4acf63416af~mv2.png
+imageAlt: 2025’te Maliyet Ve Envanter Risklerini Yönetmek İçin Beş Rfid Uygulaması
+wixId: b9007ad4-204d-4798-9e5c-94a04cfcf557
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- RFID
+- envanter yönetimi
+- tedarik zinciri
+- maliyet azaltma
+- omnichannel
+- shrinkage kontrolü
+- RAIN RFID
 ---
 <p style="text-align: justify"><strong>RFID teknolojisi</strong>, tedarik zinciri yönetiminde <strong>envanter doğruluğunu artırarak maliyet ve riskleri azaltan</strong> temel bir dönüşüm aracı haline gelmektedir. Bu teknoloji, hem perakende hem de üretim sektörlerinde süreç görünürlüğünü yükselterek operasyonel verimliliği doğrudan etkilemektedir. RFID’nin etkisi, özellikle beş ana alanda öne çıkmaktadır:</p>
 <ol>

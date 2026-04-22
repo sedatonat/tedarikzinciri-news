@@ -1,16 +1,23 @@
 ---
-title: "Chinese Analysts: US May Ease Export Restrictions to Address Rare Magnet Crisis"
-subtitle: "Chinese Analysts: US May Ease Export Restrictions to Address Rare Magnet Crisis"
-date: "2025-10-27T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_75e9e340d43f4fe891b55fbe9a31b8d3~mv2.jpg"
-imageAlt: "According to Bloomberg, Chinese analysts predict that ahead of this week's meeting between Xi Jinping and Donald Trump, the US may relax newly imposed export restrictions to ease the supply of rare earth magnets. The talks cover multiple areas including tariffs, fentanyl, and high-tech trade restrictions."
-wixId: "987c26c5-7fed-4768-9282-609fde6b739c"
-author: "Sedat Onat"
+title: 'Chinese Analysts: US May Ease Export Restrictions to Address Rare Magnet Crisis'
+subtitle: 'Chinese Analysts: US May Ease Export Restrictions to Address Rare Magnet Crisis'
+date: '2025-10-27T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_75e9e340d43f4fe891b55fbe9a31b8d3~mv2.jpg
+imageAlt: According to Bloomberg, Chinese analysts predict that ahead of this week's meeting between Xi Jinping and Donald Trump, the US may relax newly imposed export restrictions to ease the supply of rare earth magnets. The talks cover multiple areas including tariffs, fentanyl, and high-tech trade restrictions.
+wixId: 987c26c5-7fed-4768-9282-609fde6b739c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- rare earth elements
+- export restrictions
+- U.S.-China trade
+- Huawei
+- semiconductor
+- supply chain
+- technology war
 ---
-
 <p style="text-align: justify"><strong>Bloomberg News</strong> reports that Chinese analysts expect the <strong>US to relax its recently enacted comprehensive export restrictions</strong>. The projections have intensified following trade talks scheduled ahead of a <strong>summit in South Korea this week</strong> between <strong>Chinese President Xi Jinping</strong> and <strong>US President Donald Trump</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">Last weekend, <strong>US Treasury Secretary Scott Bessent</strong> announced during the <strong>ASEAN Summit</strong> in Malaysia that a <strong>preliminary agreement draft</strong> has been completed for submission to the two countries' leaders. The draft covers subjects such as <strong>tariffs</strong>, <strong>shipping fees</strong>, <strong>fentanyl trade</strong>, and <strong>export restrictions</strong>. Bessent also stated that he believed China would <strong>"delay for one year"</strong> the <strong>export restrictions on rare earth elements</strong> it recently implemented.</p>

@@ -1,14 +1,22 @@
 ---
-title: "Ford’a Tedarik Eden Novelis Fabrikasında Yeniden Yangın Çıktı"
-subtitle: "Ford’a Tedarik Eden Novelis Fabrikasında Yeniden Yangın Çıktı"
-date: "2025-11-21T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_cef3adede9274c3e8642f34d9123ec08~mv2.jpg"
-imageAlt: "New York’taki Novelis tesisinde Ford F-150 gibi modeller için alüminyum üreten fabrikanın tekrar yangın çıkarması, tahliye süreci, potansiyel üretim etkisi ve Ford’un finansal risk değerlendirmesini anlatan ayrıntılı özet."
-wixId: "cb59f8f8-fdfc-4f26-a466-4dc95456c84f"
-author: "Sedat Onat"
+title: Ford’a Tedarik Eden Novelis Fabrikasında Yeniden Yangın Çıktı
+subtitle: Ford’a Tedarik Eden Novelis Fabrikasında Yeniden Yangın Çıktı
+date: '2025-11-21T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_cef3adede9274c3e8642f34d9123ec08~mv2.jpg
+imageAlt: New York’taki Novelis tesisinde Ford F-150 gibi modeller için alüminyum üreten fabrikanın tekrar yangın çıkarması, tahliye süreci, potansiyel üretim etkisi ve Ford’un finansal risk değerlendirmesini anlatan ayrıntılı özet.
+wixId: cb59f8f8-fdfc-4f26-a466-4dc95456c84f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ford
+- Novelis
+- tedarik zinciri
+- yangın
+- alüminyum
+- üretim kesintisi
+- F-150
 ---
 <p style="text-align: justify">ABD’de Ford Motor Company’nin en kritik tedarikçilerinden biri olan <strong>Novelis Inc.</strong>, New York’taki alüminyum tesisinde tekrar yangın çıkmasıyla bir kez daha üretim kesintisi riskiyle karşı karşıya kaldı. 20 Kasım’da meydana gelen yangın kısa sürede kontrol altına alınırken, şirket tüm çalışanların güvenli bir şekilde tahliye edildiğini açıkladı. Yerel itfaiye birimlerinin yoğun katılımıyla müdahale edilen olay, tesisin birkaç ay içindeki <strong>ikinci ciddi yangını</strong> oldu.</p>
 <p><br></p>

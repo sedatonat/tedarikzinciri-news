@@ -1,14 +1,22 @@
 ---
-title: "CMA CGM'den Yenilik ve Eğitim Hamlesi: Marseilles'te Tangram Merkezi Açıldı"
-subtitle: "CMA CGM'den Yenilik ve Eğitim Hamlesi: Marseilles'te Tangram Merkezi Açıldı"
-date: "2024-05-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1852d82e700b443296ba90fb2bcb31df~mv2.png"
-imageAlt: "CMA CGM'den Yenilik ve Eğitim Hamlesi: Marseilles'te Tangram Merkezi Açıldı"
-wixId: "4e3b72f9-88e0-4ae9-abe2-25a7d3d7c466"
-author: "Sedat Onat"
+title: 'CMA CGM''den Yenilik ve Eğitim Hamlesi: Marseilles''te Tangram Merkezi Açıldı'
+subtitle: 'CMA CGM''den Yenilik ve Eğitim Hamlesi: Marseilles''te Tangram Merkezi Açıldı'
+date: '2024-05-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1852d82e700b443296ba90fb2bcb31df~mv2.png
+imageAlt: 'CMA CGM''den Yenilik ve Eğitim Hamlesi: Marseilles''te Tangram Merkezi Açıldı'
+wixId: 4e3b72f9-88e0-4ae9-abe2-25a7d3d7c466
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CMA CGM
+- inovasyon merkezi
+- lojistik eğitimi
+- yapay zeka
+- sürdürülebilir taşımacılık
+- Marseilles
+- sanal gerçeklik
 ---
 <p>CMA CGM, büyük deniz taşımacılığı şirketi, eğitim ve yenilik merkezi olan "Tangram"ı bugün Marseilles, Fransa'da açtığını duyurdu. Bu merkez, sürdürülebilir taşımacılık ve lojistik alanlarında geleceği şekillendirmek amacıyla yılda 3,000 çalışanını ağırlayacak bir inovasyon laboratuvarı olarak hizmet verecek. Tangram, çevresel, teknolojik, jeopolitik ve ekonomik olmak üzere dört ana meydan okumayı ele almayı hedefliyor. Bu amaçla, CMA CGM Grubu çalışanları, müşteriler, ortaklar, büyük şirketler, start-up'lar, üniversiteler ve araştırma merkezleri arasında zengin bir ekosistem ve sinerji geliştirecek.</p>
 <p><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "South Africa Signs First Port Privatization Deal: Durban Port Enters a New Era"
-subtitle: "South Africa Signs First Port Privatization Deal: Durban Port Enters a New Era"
-date: "2025-12-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3149c21c76334f2cbb2394ab0cbdd60e~mv2.jpg"
-imageAlt: "South Africa's first port privatization agreement signed by Transnet with ICTSI led by Enrique Razon for Durban Port's Pier 2 terminal, featuring a comprehensive overview of the $647 million investment, capacity increases, and impact on logistics costs"
-wixId: "671a67a1-b585-4af8-9465-4f28ff7bf717"
-author: "Sedat Onat"
+title: 'South Africa Signs First Port Privatization Deal: Durban Port Enters a New Era'
+subtitle: 'South Africa Signs First Port Privatization Deal: Durban Port Enters a New Era'
+date: '2025-12-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3149c21c76334f2cbb2394ab0cbdd60e~mv2.jpg
+imageAlt: South Africa's first port privatization agreement signed by Transnet with ICTSI led by Enrique Razon for Durban Port's Pier 2 terminal, featuring a comprehensive overview of the $647 million investment, capacity increases, and impact on logistics costs
+wixId: 671a67a1-b585-4af8-9465-4f28ff7bf717
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- port privatization
+- Port of Durban
+- South Africa
+- ICTSI
+- Transnet
+- container terminal
+- port efficiency
+- private sector partnership
 ---
-
 <p style="text-align: justify">South Africa has crossed a historic threshold in port operations. State-owned <strong>Transnet SOC Ltd.</strong> has signed its first comprehensive <strong>port privatisation</strong> agreement with the private sector for the expansion and operation of the <strong>Pier 2</strong> terminal at the <strong>Port of Durban</strong>, the continent's and the country's largest container port. According to Bloomberg, the agreement was concluded with <strong>International Container Terminal Services Inc. (ICTSI)</strong>, led by Philippine billionaire <strong>Enrique Razon</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">Defined by Transnet as "<strong>South Africa's first port privatization deal</strong>," this agreement follows on from the decision two years ago to sell ICTSI approximately half of Pier 2 and grant it the <strong>right to operate for 25 years</strong>. Under the newly signed concession agreement, Razon's company is committed to investing approximately <strong>11 billion rand ($647 million USD)</strong> to modernize the terminal and increase its capacity.</p>

@@ -1,14 +1,23 @@
 ---
-title: "DeliverDirect, Küçük Paket Teslimatında Yeni Bir Dönem Başlattı"
-subtitle: "DeliverDirect, Küçük Paket Teslimatında Yeni Bir Dönem Başlattı"
-date: "2025-10-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b2c611065ecc41f68b9b1d066ef9e879~mv2.jpg"
-imageAlt: "Delta Cargo’nun SmartKargo iş birliğiyle geliştirdiği DeliverDirect, Delta Air Lines’ın uçuş ağını kullanarak küçük paket taşımacılığında hız, şeffaflık ve maliyet avantajı sunan yeni bir teslimat modeli oluşturdu."
-wixId: "07df00fe-f9bf-4353-83fc-d1444f76c29f"
-author: "Sedat Onat"
+title: DeliverDirect, Küçük Paket Teslimatında Yeni Bir Dönem Başlattı
+subtitle: DeliverDirect, Küçük Paket Teslimatında Yeni Bir Dönem Başlattı
+date: '2025-10-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b2c611065ecc41f68b9b1d066ef9e879~mv2.jpg
+imageAlt: Delta Cargo’nun SmartKargo iş birliğiyle geliştirdiği DeliverDirect, Delta Air Lines’ın uçuş ağını kullanarak küçük paket taşımacılığında hız, şeffaflık ve maliyet avantajı sunan yeni bir teslimat modeli oluşturdu.
+wixId: 07df00fe-f9bf-4353-83fc-d1444f76c29f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DeliverDirect
+- Delta Cargo
+- SmartKargo
+- e-ticaret teslimat
+- küçük paket taşımacılığı
+- hava kargo
+- dock-to-door
+- dijital lojistik
 ---
 <p style="text-align: justify"><strong>Delta Cargo</strong>, e-ticaret sektöründeki hızlı ve güvenilir teslimat ihtiyacına cevap vermek için geliştirdiği <strong>DeliverDirect</strong> adlı yeni çözümünü tanıttı. <strong>SmartKargo</strong> altyapısıyla güçlendirilen bu sistem, <strong>ABD’deki ilk tam kapsamlı “dock-to-door” (kapıdan kapıya) hava taşımacılığı hizmeti</strong> olma özelliğini taşıyor.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Sibirya’dan Dondurma İhracatı: 2025’te 3,5 Bin Tonluk Stabil Performans"
-subtitle: "Sibirya’dan Dondurma İhracatı: 2025’te 3,5 Bin Tonluk Stabil Performans"
-date: "2025-11-10T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_222567fff5a64fdcbdca9207c713bee9~mv2.jpg"
-imageAlt: "2025’in ilk dokuz ayında Sibirya’dan 3,5 bin ton dondurma ihraç edildi; ana pazar %69 payla Kazakistan olurken Özbekistan, Ermenistan ve Türkmenistan’a ihracat belirgin şekilde arttı."
-wixId: "f771c41d-55a9-4318-b024-8225c2821806"
-author: "Sedat Onat"
+title: 'Sibirya’dan Dondurma İhracatı: 2025’te 3,5 Bin Tonluk Stabil Performans'
+subtitle: 'Sibirya’dan Dondurma İhracatı: 2025’te 3,5 Bin Tonluk Stabil Performans'
+date: '2025-11-10T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_222567fff5a64fdcbdca9207c713bee9~mv2.jpg
+imageAlt: 2025’in ilk dokuz ayında Sibirya’dan 3,5 bin ton dondurma ihraç edildi; ana pazar %69 payla Kazakistan olurken Özbekistan, Ermenistan ve Türkmenistan’a ihracat belirgin şekilde arttı.
+wixId: f771c41d-55a9-4318-b024-8225c2821806
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Sibirya
+- dondurma ihracatı
+- Kazakistan
+- Rusya
+- Orta Asya
+- Novosibirsk
+- gıda lojistiği
 ---
 <p style="text-align: justify">Rusya Federal Gümrük Servisi’nin yayımladığı istatistiklere göre, <strong>Sibirya bölgesi 2025’in Ocak–Eylül döneminde 3,5 bin ton dondurma ihraç etti</strong>. Bu miktarın parasal karşılığı yaklaşık <strong>1,5 milyar ruble</strong> (yaklaşık <strong>18,5 milyon dolar</strong>) olarak hesaplandı. Yıllık bazda toplam ihracat hacmi <strong>değişmeden</strong> kaldı; bu da Sibirya dondurma endüstrisinin dış pazarlarda istikrarlı bir talep yakaladığını gösteriyor.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Gartner: 2025'e Kadar GenAI Projelerinin Üçte Biri Sonlandırılacak"
-subtitle: "Gartner: 2025'e Kadar GenAI Projelerinin Üçte Biri Sonlandırılacak"
-date: "2024-08-14T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_7aa5d25a24834ab4bd30d41417c73267~mv2.jpg"
-imageAlt: "Gartner: 2025'e Kadar GenAI Projelerinin Üçte Biri Sonlandırılacak"
-wixId: "65b97091-03fa-445b-a449-3bc2ef02ca15"
-author: "Sedat Onat"
+title: 'Gartner: 2025''e Kadar GenAI Projelerinin Üçte Biri Sonlandırılacak'
+subtitle: 'Gartner: 2025''e Kadar GenAI Projelerinin Üçte Biri Sonlandırılacak'
+date: '2024-08-14T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_7aa5d25a24834ab4bd30d41417c73267~mv2.jpg
+imageAlt: 'Gartner: 2025''e Kadar GenAI Projelerinin Üçte Biri Sonlandırılacak'
+wixId: 65b97091-03fa-445b-a449-3bc2ef02ca15
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- GenAI
+- yapay zeka
+- Gartner
+- proje yönetimi
+- veri kalitesi
+- maliyet tasarrufu
+- dijital dönüşüm
 ---
 <p>Gartner raporuna göre, 2025 sonuna kadar genel amaçlı yapay zeka (GenAI) projelerinin en az yüzde 30'u, yetersiz veri kalitesi, yetersiz risk kontrolü, artan maliyetler ve belirsiz iş değeri gibi nedenlerle başlangıç aşamasından sonra terkedilecek. Rita Sallam, yüksek beklentilere rağmen, şirketlerin yatırımlarından somut geri dönüşler göremediklerini belirtiyor. Ancak erken benimseyen bazı şirketlerin, gelirde %15.8 artış ve maliyetlerde %15.2 tasarruf gibi iş geliştirmeleri bildirdiği de görülmekte.</p>
 <p><br></p>

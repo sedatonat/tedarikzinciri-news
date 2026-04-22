@@ -1,14 +1,22 @@
 ---
-title: "Kazakistan ve PTC Holding, Gürcistan'ın Poti Limanı'nda Yeni Konteyner Terminali İnşa Ediyor"
-subtitle: "Kazakistan ve PTC Holding, Gürcistan'ın Poti Limanı'nda Yeni Konteyner Terminali İnşa Ediyor"
-date: "2025-03-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0dcf4514e5ee4eecacd61c479826703c~mv2.jpg"
-imageAlt: "Kazakistan ve PTC Holding, Gürcistan'ın Poti Limanı'nda Yeni Konteyner Terminali İnşa Ediyor"
-wixId: "e1dab827-1b45-42a0-9586-5c448a9cc614"
-author: "Sedat Onat"
+title: Kazakistan ve PTC Holding, Gürcistan'ın Poti Limanı'nda Yeni Konteyner Terminali İnşa Ediyor
+subtitle: Kazakistan ve PTC Holding, Gürcistan'ın Poti Limanı'nda Yeni Konteyner Terminali İnşa Ediyor
+date: '2025-03-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0dcf4514e5ee4eecacd61c479826703c~mv2.jpg
+imageAlt: Kazakistan ve PTC Holding, Gürcistan'ın Poti Limanı'nda Yeni Konteyner Terminali İnşa Ediyor
+wixId: e1dab827-1b45-42a0-9586-5c448a9cc614
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Poti Limanı
+- Kazakistan
+- Gürcistan
+- konteyner terminali
+- PTC Holding
+- TITR
+- multimodal taşımacılık
 ---
 <p style="text-align: justify"><a href="https://tr.wikipedia.org/wiki/Kazakistan_Demiryollar%C4%B1"><u><strong>Kazakistan Demiryolları</strong></u><u> (</u><u><strong>KTZ</strong></u><u>)</u></a> ve taşımacılık ve lojistik hizmetleri sağlayıcısı <a href="https://ptc-holding.kz/"><u><strong>PTC Holding</strong></u></a>, Gürcistan'ın Poti şehrinde yıllık 80.000 TEU kapasiteli multimodal bir konteyner terminali inşa etmek üzere bir mutabakat zaptı imzaladı. Toplam 30 milyon dolar yatırım yapılacak bu proje, <a href="https://www.utikad.org.tr/Detay/Sektor-Haberleri/30964/trans-hazar-uluslararasi-tasima-guzerg%C3%A2hi-titr-uyeleri-kazakistan-da-bir-araya-geldi"><u><strong>Trans-Hazar Uluslararası Taşımacılık Rotası</strong></u><u>'nın (</u><u><strong>TITR</strong></u><u>)</u></a> bir parçası olacak ve rotanın verimliliğini artırarak uluslararası kargo taşımacılığındaki konumunu güçlendirecek. ​</p>
 <p><br></p>

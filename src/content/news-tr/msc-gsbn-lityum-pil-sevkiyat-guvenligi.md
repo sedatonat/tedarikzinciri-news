@@ -1,14 +1,23 @@
 ---
-title: "MSC, GSBN İle İşbirliği Yaparak Lityum Pil Sevkiyat Güvenliğini Artırıyor"
-subtitle: "MSC, GSBN İle İşbirliği Yaparak Lityum Pil Sevkiyat Güvenliğini Artırıyor"
-date: "2024-04-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_face521f32c1403293d5afec53520c2f~mv2.jpg"
-imageAlt: "MSC, GSBN İle İşbirliği Yaparak Lityum Pil Sevkiyat Güvenliğini Artırıyor"
-wixId: "6639d706-54fa-429b-a8c1-5c9542d61535"
-author: "Sedat Onat"
+title: MSC, GSBN İle İşbirliği Yaparak Lityum Pil Sevkiyat Güvenliğini Artırıyor
+subtitle: MSC, GSBN İle İşbirliği Yaparak Lityum Pil Sevkiyat Güvenliğini Artırıyor
+date: '2024-04-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_face521f32c1403293d5afec53520c2f~mv2.jpg
+imageAlt: MSC, GSBN İle İşbirliği Yaparak Lityum Pil Sevkiyat Güvenliğini Artırıyor
+wixId: 6639d706-54fa-429b-a8c1-5c9542d61535
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- MSC
+- GSBN
+- lityum pil
+- blockchain
+- sevkiyat güvenliği
+- konteyner gemisi
+- Hapag-Lloyd
+- elektronik konşimento
 ---
 <p><a href="https://en.wikipedia.org/wiki/Mediterranean_Shipping_Company"><u>MSC</u></a>, bugün lityum pil sevkiyatlarının güvenli taşınmasını artırmak adına, kağıtsız nakliye veri değişimini sağlayan tarafsız, kar amacı gütmeyen bir konsorsiyum olan <a href="https://en.wikipedia.org/wiki/Global_shipping_network"><u>Global Shipping Business Network (GSBN) </u></a>ile işbirliği yapacağını duyurdu. Bu girişim, konteyner gemilerinde taşınan lityum iyon pillerin artan varlığı ve bu yüklerin yanlış beyan edilmesi riskinin artması sebebiyle önem kazanıyor.&nbsp;</p>
 <p><br></p>

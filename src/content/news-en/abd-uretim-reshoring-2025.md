@@ -1,16 +1,23 @@
 ---
-title: "Is Manufacturing Coming Back to the US? The Reality of Reshoring, Obstacles, and a New Model"
-subtitle: "Is Manufacturing Coming Back to the US? The Reality of Reshoring, Obstacles, and a New Model"
-date: "2025-10-31T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_7b34918722dc448dbc08d8399a345d03~mv2.jpg"
-imageAlt: "Rosemary Coates, Director of the Reshoring Institute, emphasizes that while a partial transformation in US manufacturing efforts is possible due to workforce skill gaps, inadequate infrastructure, high costs, and insufficient factory capacity, it will be limited. The real opportunity lies in sophisticated, automation-heavy manufacturing."
-wixId: "c3b5c52c-583e-4f98-960f-f1857a83569f"
-author: "Sedat Onat"
+title: Is Manufacturing Coming Back to the US? The Reality of Reshoring, Obstacles, and a New Model
+subtitle: Is Manufacturing Coming Back to the US? The Reality of Reshoring, Obstacles, and a New Model
+date: '2025-10-31T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_7b34918722dc448dbc08d8399a345d03~mv2.jpg
+imageAlt: Rosemary Coates, Director of the Reshoring Institute, emphasizes that while a partial transformation in US manufacturing efforts is possible due to workforce skill gaps, inadequate infrastructure, high costs, and insufficient factory capacity, it will be limited. The real opportunity lies in sophisticated, automation-heavy manufacturing.
+wixId: c3b5c52c-583e-4f98-960f-f1857a83569f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- reshoring
+- US manufacturing
+- Mexico
+- automation
+- supply chain
+- trade wars
+- China
 ---
-
 <p style="text-align: justify">The long-debated "reshoring" agenda in the United States has gained renewed importance as of 2025. However, <strong>Rosemary Coates</strong>, Director of the Reshoring Institute, says this transformation lies somewhere between "<strong>yes and no</strong>" — it is <strong>partially possible</strong>, but <strong>a large-scale and rapid return is not realistic</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">Coates recalls that in the 1990s and early 2000s, American companies operated with the goal of "getting to China as quickly as possible," which became a reflex across the sector. Few firms at that time gave thought to long-term strategy, risk, or infrastructure. While the trend began to reverse after the 2012 elections and China discussions, the real turning point emerged with the US-China trade wars.</p>

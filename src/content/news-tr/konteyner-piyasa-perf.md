@@ -1,14 +1,22 @@
 ---
-title: "Konteyner Piyasasında Haftalık Performans: Eğilimler, Kazançlar ve Kayıplar"
-subtitle: "Konteyner Piyasasında Haftalık Performans: Eğilimler, Kazançlar ve Kayıplar"
-date: "2025-03-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1eea0ff23c974500b2cdce5c1ce2b9eb~mv2.jpg"
-imageAlt: "Konteyner Piyasasında Haftalık Performans: Eğilimler, Kazançlar ve Kayıplar"
-wixId: "3c3cb872-ab15-4946-9dcd-2e4cff6bce59"
-author: "Sedat Onat"
+title: 'Konteyner Piyasasında Haftalık Performans: Eğilimler, Kazançlar ve Kayıplar'
+subtitle: 'Konteyner Piyasasında Haftalık Performans: Eğilimler, Kazançlar ve Kayıplar'
+date: '2025-03-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1eea0ff23c974500b2cdce5c1ce2b9eb~mv2.jpg
+imageAlt: 'Konteyner Piyasasında Haftalık Performans: Eğilimler, Kazançlar ve Kayıplar'
+wixId: 3c3cb872-ab15-4946-9dcd-2e4cff6bce59
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- konteyner piyasası
+- navlun oranları
+- Freightos Baltic Index
+- TEU
+- küresel ticaret
+- konteyner gemisi
+- yeni inşa siparişleri
 ---
 <p style="text-align: justify">Küresel ticaretin dalgalı doğası, konteyner piyasasında haftalık performansın değişkenliğini yansıtmaktadır. Özellikle, <a href="https://terminal.freightos.com/freightos-baltic-index-global-container-pricing-index/"><u><strong>Freightos Baltic Index (FBX)</strong></u></a> gibi endeksler, bu dalgalanmaları ölçmek için kullanılmaktadır. FBX, 40 ayaklık konteynerler için 12 küresel ticaret hattındaki spot navlun oranlarını hesaplayarak küresel konteyner navlun oranlarını ölçmektedir. Bu endeks, navlun piyasasının genel bir göstergesi olarak kabul edilmektedir. ​</p>
 <p><br></p>

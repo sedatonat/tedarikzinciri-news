@@ -1,16 +1,23 @@
 ---
-title: "Trump Approves Nvidia's Sale of Advanced AI Chips to China"
-subtitle: "Trump Approves Nvidia's Sale of Advanced AI Chips to China"
-date: "2025-12-09T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_ee880828c96e401cb8a5ad99de219a28~mv2.jpg"
-imageAlt: "Detailed summary of the Trump administration's approval for Nvidia to sell H200 AI chips to limited Chinese customers, a 25% revenue-sharing model, new approach to export controls, and impacts on U.S.–China technology trade"
-wixId: "c9530947-380d-4a79-811d-580213530257"
-author: "Sedat Onat"
+title: Trump Approves Nvidia's Sale of Advanced AI Chips to China
+subtitle: Trump Approves Nvidia's Sale of Advanced AI Chips to China
+date: '2025-12-09T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_ee880828c96e401cb8a5ad99de219a28~mv2.jpg
+imageAlt: Detailed summary of the Trump administration's approval for Nvidia to sell H200 AI chips to limited Chinese customers, a 25% revenue-sharing model, new approach to export controls, and impacts on U.S.–China technology trade
+wixId: c9530947-380d-4a79-811d-580213530257
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Nvidia
+- AI chips
+- China
+- export controls
+- semiconductors
+- Trump
+- technology trade
 ---
-
 <p style="text-align: justify">U.S. President <strong>Donald Trump</strong> announced that U.S.-based semiconductor manufacturer <strong>Nvidia</strong> will be permitted to sell <strong>advanced artificial intelligence (AI) chips</strong> to select customers in China under specific conditions. According to <strong>BBC News</strong>, under the decision Nvidia can sell its <strong>H200 AI chips</strong> model only to a limited number of Chinese buyers approved by Washington. In return, the U.S. government will receive <strong>25%</strong> of the revenue generated from these sales directly.</p>
 <p><br></p>
 <p style="text-align: justify">In a post on <strong>Truth Social</strong>, Trump characterized this policy as a step that "<strong>supports American jobs, strengthens U.S. manufacturing, and benefits American taxpayers</strong>." Administration sources indicate that similar agreements with other major U.S. chip manufacturers such as <strong>AMD</strong> and <strong>Intel</strong> are expected to be reached in the coming days.</p>

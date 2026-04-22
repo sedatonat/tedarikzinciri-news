@@ -1,14 +1,22 @@
 ---
-title: "Thyssenkrupp Tesla Elektrikli Tırlarını Test Ediyor"
-subtitle: "Thyssenkrupp Tesla Elektrikli Tırlarını Test Ediyor"
-date: "2025-06-27T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8709eb5486744dbbb2653ef9ac5df13a~mv2.png"
-imageAlt: "Thyssenkrupp Tesla Elektrikli Tırlarını Test Ediyor"
-wixId: "2677bf1b-027f-45e3-b853-ca270effb680"
-author: "Sedat Onat"
+title: Thyssenkrupp Tesla Elektrikli Tırlarını Test Ediyor
+subtitle: Thyssenkrupp Tesla Elektrikli Tırlarını Test Ediyor
+date: '2025-06-27T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8709eb5486744dbbb2653ef9ac5df13a~mv2.png
+imageAlt: Thyssenkrupp Tesla Elektrikli Tırlarını Test Ediyor
+wixId: 2677bf1b-027f-45e3-b853-ca270effb680
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Thyssenkrupp
+- Tesla
+- elektrikli tır
+- sürdürülebilir lojistik
+- karbon emisyonu
+- tedarik zinciri
+- batarya verimliliği
 ---
 <p>Thyssenkrupp, Tesla Semi Truck modelini tedarik zinciri taşımalarında test etmeye başlamıştır. Bu girişim, karbon emisyonlarını azaltmayı ve operasyonel verimliliği artırmayı hedeflemektedir. Electric logistics konsepti, sürdürülebilir taşımacılıkta yeni standart oluşturmaktadır. Battery efficiency ve charging infrastructure, projenin başarısı için kritik faktörlerdir. Sonuç olarak, elektrikli araçlar sanayi lojistiğinde dönüşümün anahtarı haline gelmektedir.</p>
 <p><br></p>

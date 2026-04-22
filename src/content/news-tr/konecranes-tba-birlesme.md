@@ -1,14 +1,22 @@
 ---
-title: "Konecranes ve TBA Depo Yönetimi ve Otomasyon Ekiplerini Birleştiriyor"
-subtitle: "Konecranes ve TBA Depo Yönetimi ve Otomasyon Ekiplerini Birleştiriyor"
-date: "2025-01-02T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_a819b93ed3634e60821dd1e9d4a7c4a5~mv2.jpg"
-imageAlt: "Konecranes ve TBA Depo Yönetimi ve Otomasyon Ekiplerini Birleştiriyor"
-wixId: "6c8ebea6-7711-45b8-b2fb-719291bf9f19"
-author: "Sedat Onat"
+title: Konecranes ve TBA Depo Yönetimi ve Otomasyon Ekiplerini Birleştiriyor
+subtitle: Konecranes ve TBA Depo Yönetimi ve Otomasyon Ekiplerini Birleştiriyor
+date: '2025-01-02T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_a819b93ed3634e60821dd1e9d4a7c4a5~mv2.jpg
+imageAlt: Konecranes ve TBA Depo Yönetimi ve Otomasyon Ekiplerini Birleştiriyor
+wixId: 6c8ebea6-7711-45b8-b2fb-719291bf9f19
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Konecranes
+- TBA
+- depo yönetimi
+- otomasyon
+- endüstriyel ekipman
+- birleşme
+- lojistik çözümleri
 ---
 <p><strong>Konecranes</strong> ve <strong>TBA</strong>, depo yönetimi ve otomasyon ekiplerini <strong>Konecranes</strong>'in Endüstriyel Ekipmanlar iş birimi altında tek bir bölümde birleştirdi. Bu stratejik hamle, her iki şirketin de endüstriyel ekipman ve otomasyon alanındaki uzmanlıklarını bir araya getirerek, müşterilere daha entegre ve verimli çözümler sunmayı hedefliyor.</p>
 <p><br></p>

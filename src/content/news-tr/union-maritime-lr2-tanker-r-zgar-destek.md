@@ -1,14 +1,23 @@
 ---
-title: "Union Maritime, Çin Yapımı LR2 Tankerlerine Rüzgar Destekli İtme Teknolojisi Ekliyor"
-subtitle: "Union Maritime, Çin Yapımı LR2 Tankerlerine Rüzgar Destekli İtme Teknolojisi Ekliyor"
-date: "2024-03-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_106ab2523268499694eec29553aa5a62~mv2.jpg"
-imageAlt: "Union Maritime, Çin Yapımı LR2 Tankerlerine Rüzgar Destekli İtme Teknolojisi Ekliyor"
-wixId: "5e1084e1-5b04-4cf5-86cf-24b16410b03d"
-author: "Sedat Onat"
+title: Union Maritime, Çin Yapımı LR2 Tankerlerine Rüzgar Destekli İtme Teknolojisi Ekliyor
+subtitle: Union Maritime, Çin Yapımı LR2 Tankerlerine Rüzgar Destekli İtme Teknolojisi Ekliyor
+date: '2024-03-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_106ab2523268499694eec29553aa5a62~mv2.jpg
+imageAlt: Union Maritime, Çin Yapımı LR2 Tankerlerine Rüzgar Destekli İtme Teknolojisi Ekliyor
+wixId: 5e1084e1-5b04-4cf5-86cf-24b16410b03d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Union Maritime
+- LR2 tanker
+- rüzgar destekli itme
+- WindWings
+- BAR Tech
+- yeşil gemi teknolojisi
+- emisyon azaltma
+- Çin tersane
 ---
 <p>Birleşik Krallık merkezli gemi sahibi Union Maritime, Çin'de inşa edilmekte olan iki LR2 tankerine BAR Tech rüzgar destekli gemi itme teknolojisini monte etme kararı aldı.&nbsp;</p>
 <p><br></p>

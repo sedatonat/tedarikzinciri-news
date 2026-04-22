@@ -1,16 +1,24 @@
 ---
-title: "Shipping Industry Tightens Security to Prevent Coal Fires on Vessels"
-subtitle: "Shipping Industry Tightens Security to Prevent Coal Fires on Vessels"
-date: "2025-01-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_00371f6fb424492cad775a85f34acf3b~mv2.jpg"
-imageAlt: "Shipping Industry Tightens Security to Prevent Coal Fires on Vessels"
-wixId: "c712bd29-528e-4b3a-867f-ebdf0883047c"
-author: "Sedat Onat"
+title: Shipping Industry Tightens Security to Prevent Coal Fires on Vessels
+subtitle: Shipping Industry Tightens Security to Prevent Coal Fires on Vessels
+date: '2025-01-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_00371f6fb424492cad775a85f34acf3b~mv2.jpg
+imageAlt: Shipping Industry Tightens Security to Prevent Coal Fires on Vessels
+wixId: c712bd29-528e-4b3a-867f-ebdf0883047c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- maritime
+- coal transport
+- ship fire
+- IMO
+- container ship
+- hazardous materials
+- IMDG Code
+- safety protocol
 ---
-
 <p style="text-align: justify">The maritime industry is strengthening its security protocols ahead of mandatory regulations set to take effect in 2026 by the <strong>International Maritime Organization (IMO)</strong>, aimed at reducing fire risks in coal transportation. This initiative follows a rise in vessel fires caused by misdeclared or improperly packaged hazardous cargo. In particular, <strong>World Shipping Council (WSC)</strong> President and CEO Joe Kramek stated, "We have witnessed numerous preventable fires aboard vessels due to misdeclared coal. These fires endanger crew members and cargo, leading to tragic consequences."</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">According to the <strong>Allianz Safety and Shipping Review 2023</strong> report, 64 fire incidents were reported on container ships over the past five years, with vessel fires in 2022 showing a rise of more than 17% compared to the previous year. One of the primary causes of these fires is the misdeclaration or non-declaration of hazardous cargo, as well as improper packaging by shippers. Despite existing regulations, the misdeclaration or non-declaration of dangerous goods in transport increases the risk of vessel fires and complicates fire-fighting efforts.</p>

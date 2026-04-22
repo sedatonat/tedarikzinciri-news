@@ -1,16 +1,23 @@
 ---
-title: "Wan Hai Orders 49,300 New Containers for Fleet Expansion"
-subtitle: "Wan Hai Orders 49,300 New Containers for Fleet Expansion"
-date: "2025-12-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_27575cd3dc3a42e09d38ebdfd19c09c7~mv2.jpg"
-imageAlt: "Wan Hai Lines places order for 49,300 new containers with total investment of 118.1 million USD; breakdown between container manufacturers CIMC and Dong Fang, unit price analysis and global capacity strategy overview"
-wixId: "91778c10-204a-4dfa-9a73-2aa3ae5f5f23"
-author: "Sedat Onat"
+title: Wan Hai Orders 49,300 New Containers for Fleet Expansion
+subtitle: Wan Hai Orders 49,300 New Containers for Fleet Expansion
+date: '2025-12-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_27575cd3dc3a42e09d38ebdfd19c09c7~mv2.jpg
+imageAlt: Wan Hai Lines places order for 49,300 new containers with total investment of 118.1 million USD; breakdown between container manufacturers CIMC and Dong Fang, unit price analysis and global capacity strategy overview
+wixId: 91778c10-204a-4dfa-9a73-2aa3ae5f5f23
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Wan Hai Lines
+- container order
+- fleet expansion
+- CIMC
+- Dong Fang International
+- intra-Asia trade
+- maritime
 ---
-
 <p style="text-align: justify"><strong>Wan Hai Lines</strong> announced an order for <strong>49,300 new containers</strong> to meet growing cargo demand and enhance operational reliability. This investment, valued at <strong>118.1 million USD</strong>, is part of the company's <strong>fleet renewal &amp; capacity expansion</strong> strategy during the 2024–2026 period. According to information relayed by DynaLiners, the order was approved by Wan Hai's Board of Directors, with the new equipment aimed at meeting the company's capacity requirements on <strong>global trade routes</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The order has been divided between two leading Chinese container manufacturers:</p>

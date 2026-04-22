@@ -1,14 +1,23 @@
 ---
-title: "Dutch Container Merchants, Chiquita ile 1.000 Adet Yüksek Teknolojili Soğutmalı Konteyner Anlaşması İmzaladı"
-subtitle: "Dutch Container Merchants, Chiquita ile 1.000 Adet Yüksek Teknolojili Soğutmalı Konteyner Anlaşması İmzaladı"
-date: "2025-10-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_dccd095a31c34b02905b6c5c78ebb3ff~mv2.jpeg"
-imageAlt: "Dutch Container Merchants (DCM), dünyanın en büyük muz üreticisi Chiquita ile 1.000 adet 40HC Reefer konteyner tedarik sözleşmesi imzaladı. Yeni konteynerler, Carrier Transicold OptimaLine soğutma sistemi ve Controlled Atmosphere (CA) teknolojisiyle donatılarak enerji verimliliğini artıracak."
-wixId: "0afa4b0d-584e-4250-a56a-b59f5d7ad4ba"
-author: "Sedat Onat"
+title: Dutch Container Merchants, Chiquita ile 1.000 Adet Yüksek Teknolojili Soğutmalı Konteyner Anlaşması İmzaladı
+subtitle: Dutch Container Merchants, Chiquita ile 1.000 Adet Yüksek Teknolojili Soğutmalı Konteyner Anlaşması İmzaladı
+date: '2025-10-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_dccd095a31c34b02905b6c5c78ebb3ff~mv2.jpeg
+imageAlt: Dutch Container Merchants (DCM), dünyanın en büyük muz üreticisi Chiquita ile 1.000 adet 40HC Reefer konteyner tedarik sözleşmesi imzaladı. Yeni konteynerler, Carrier Transicold OptimaLine soğutma sistemi ve Controlled Atmosphere (CA) teknolojisiyle donatılarak enerji verimliliğini artıracak.
+wixId: 0afa4b0d-584e-4250-a56a-b59f5d7ad4ba
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- soğutmalı konteyner
+- Dutch Container Merchants
+- Chiquita
+- enerji verimliliği
+- Controlled Atmosphere
+- soğuk zincir
+- sürdürülebilir lojistik
+- Carrier Transicold
 ---
 <p style="text-align: justify"><strong>Hollanda merkezli konteyner kiralama ve ticaret şirketi Dutch Container Merchants (DCM)</strong>, <strong>Chiquita Brands International</strong> ile <strong>1.000 yeni nesil soğutmalı konteyner (reefer)</strong> tedarik anlaşması imzaladığını duyurdu. Bu iş birliği, <strong>Chiquita’nın enerji verimliliği yüksek konteyner filosu oluşturma stratejisinin</strong> son halkası olarak değerlendiriliyor.</p>
 <p><br></p>

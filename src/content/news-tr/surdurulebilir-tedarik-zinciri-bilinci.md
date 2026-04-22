@@ -1,14 +1,21 @@
 ---
-title: "Sürdürülebilirlik: Tedarik Zincirindeki Bilinç ve Sorumluluk"
-subtitle: "Sürdürülebilirlik: Tedarik Zincirindeki Bilinç ve Sorumluluk"
-date: "2024-05-06T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/11062b_be928fefe3cf42c0960e13b0289714a8~mv2.jpg"
-imageAlt: "Sürdürülebilirlik: Tedarik Zincirindeki Bilinç ve Sorumluluk"
-wixId: "888a6450-0b1d-4416-a8c7-b4e1b4850428"
-author: "Sedat Onat"
+title: 'Sürdürülebilirlik: Tedarik Zincirindeki Bilinç ve Sorumluluk'
+subtitle: 'Sürdürülebilirlik: Tedarik Zincirindeki Bilinç ve Sorumluluk'
+date: '2024-05-06T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/11062b_be928fefe3cf42c0960e13b0289714a8~mv2.jpg
+imageAlt: 'Sürdürülebilirlik: Tedarik Zincirindeki Bilinç ve Sorumluluk'
+wixId: 888a6450-0b1d-4416-a8c7-b4e1b4850428
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- sürdürülebilirlik
+- tedarik zinciri
+- tedarikçi haritalama
+- yasal uyumluluk
+- operasyonel verimlilik
+- risk yönetimi
 ---
 <p>Maurizio Capuzzo, yüzde kırk gibi büyük bir oranla, tedarik zinciri liderlerinin sürdürülebilirlik faktörlerini karar alma süreçlerine entegre etmediğini belirtiyor. Bu durum, mevcut ve gelecekteki yasal düzenlemeler göz önünde bulundurulduğunda endişe verici bir tablo çiziyor.</p>
 <p><br></p>

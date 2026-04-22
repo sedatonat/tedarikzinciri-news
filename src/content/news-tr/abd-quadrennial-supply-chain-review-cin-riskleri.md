@@ -1,14 +1,22 @@
 ---
-title: "ABD Tedarik Zincirinde Yeni Yol Haritası: First U.S. Quadrennial Supply Chain Review"
-subtitle: "ABD Tedarik Zincirinde Yeni Yol Haritası: First U.S. Quadrennial Supply Chain Review"
-date: "2024-12-24T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_5240885ef772446587e529d93cbbf198~mv2.jpg"
-imageAlt: "ABD Tedarik Zincirinde Yeni Yol Haritası: First U.S. Quadrennial Supply Chain Review"
-wixId: "b45d6b2c-95d4-4d65-a8fe-5b13d940f2e8"
-author: "Sedat Onat"
+title: 'ABD Tedarik Zincirinde Yeni Yol Haritası: First U.S. Quadrennial Supply Chain Review'
+subtitle: 'ABD Tedarik Zincirinde Yeni Yol Haritası: First U.S. Quadrennial Supply Chain Review'
+date: '2024-12-24T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_5240885ef772446587e529d93cbbf198~mv2.jpg
+imageAlt: 'ABD Tedarik Zincirinde Yeni Yol Haritası: First U.S. Quadrennial Supply Chain Review'
+wixId: b45d6b2c-95d4-4d65-a8fe-5b13d940f2e8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD tedarik zinciri
+- Çin bağımlılığı
+- liman verimliliği
+- semiconductors
+- siber güvenlik
+- yeşil lojistik
+- de-risking
 ---
 <p>First U.S. Quadrennial Supply Chain Review, ABD’nin kritik öneme sahip tedarik zinciri altyapısını incelemek üzere ilk kez düzenlenen bir değerlendirme olarak dikkat çekiyor. Department of Transportation tarafından koordine edilen bu incelemede, küresel ticaretin merkezinde yer alan Amerika’nın özellikle China kaynaklı risklere karşı kırılganlığı vurgulanıyor. Lojistik süreçlerden limanların verimliliğine kadar pek çok başlıkta detaylı analizler içeren rapor, tedarik ekosistemindeki zayıflıklara ışık tutuyor.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "DB Schenker'dan Kişisel Eşlikli Acil Hava Kargo Hizmeti"
-subtitle: "DB Schenker'dan Kişisel Eşlikli Acil Hava Kargo Hizmeti"
-date: "2024-03-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_08c128d6234044b8a9a37e75ac999cce~mv2.jpg"
-imageAlt: "DB Schenker'dan Kişisel Eşlikli Acil Hava Kargo Hizmeti"
-wixId: "a20e04d1-33a4-4f10-a04e-2f2783ba4cc6"
-author: "Sedat Onat"
+title: DB Schenker'dan Kişisel Eşlikli Acil Hava Kargo Hizmeti
+subtitle: DB Schenker'dan Kişisel Eşlikli Acil Hava Kargo Hizmeti
+date: '2024-03-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_08c128d6234044b8a9a37e75ac999cce~mv2.jpg
+imageAlt: DB Schenker'dan Kişisel Eşlikli Acil Hava Kargo Hizmeti
+wixId: a20e04d1-33a4-4f10-a04e-2f2783ba4cc6
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DB Schenker
+- acil kurye hizmeti
+- hava kargo
+- OBC
+- otomotiv
+- sağlık lojistiği
+- gerçek zamanlı takip
 ---
 <p><a href="https://www.dbschenker.com/global"><u>DB Schenker</u></a>, otomotiv, elektronik, yüksek moda ve sağlık sektörlerindeki acil gönderiler için kişisel eşlik eden kurye hizmeti başlattı. Bu yeni hizmet, kuryelerin ticari uçuşlarda yolcu olarak kargoyu kişisel olarak taşımalarını sağlayarak, kayıp veya hasar riskini minimize etmek ve en kısa transit süresini garantilemek amacıyla tasarlandı. <a href="https://www.dbschenker.com/global"><u>DB Schenker</u></a>, bu hizmetle küçük ve yüksek değerli gönderiler için acil kurye çözümlerine ihtiyaç duyan müşterilere hitap ediyor. Hizmet, tehlikeli mallar hariç tüm gönderi türleri için mevcut olup, özellikle otomotiv, elektronik, yüksek moda ve sağlık sektörlerindeki büyük kurumsal müşterilerden yüksek talep görüyor. Gerçek zamanlı takip ile maksimum şeffaflık sunuluyor.</p>
 <p><br></p>

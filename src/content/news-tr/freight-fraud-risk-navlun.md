@@ -1,14 +1,23 @@
 ---
-title: "Artan Navlun Dolandırıcılığına Karşı Koordineli Önleme Gerekliliği"
-subtitle: "Artan Navlun Dolandırıcılığına Karşı Koordineli Önleme Gerekliliği"
-date: "2025-08-27T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_508b6199ab0247a99a973779e30b3e72~mv2.png"
-imageAlt: "Artan Navlun Dolandırıcılığına Karşı Koordineli Önleme Gerekliliği"
-wixId: "44d5b9a8-8591-4b3c-a875-8c311769c1e4"
-author: "Sedat Onat"
+title: Artan Navlun Dolandırıcılığına Karşı Koordineli Önleme Gerekliliği
+subtitle: Artan Navlun Dolandırıcılığına Karşı Koordineli Önleme Gerekliliği
+date: '2025-08-27T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_508b6199ab0247a99a973779e30b3e72~mv2.png
+imageAlt: Artan Navlun Dolandırıcılığına Karşı Koordineli Önleme Gerekliliği
+wixId: 44d5b9a8-8591-4b3c-a875-8c311769c1e4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- navlun dolandırıcılığı
+- tedarik zinciri güvenliği
+- AI doğrulama
+- blockchain
+- FBI
+- CargoNet
+- veri manipülasyonu
+- siber güvenlik
 ---
 <p style="text-align: justify">Freight Fraud, yani nakliye dolandırıcılığı, küresel tedarik zincirlerinin büyüyen bir tehdit alanına dönüşmektedir. Think Tank analizine göre, sahte taşıyıcı kimlikleri, yanlış teslim kayıtları ve veri manipülasyonu, milyarlarca dolarlık zarara neden olmakta. FBI IC3 verileri, 2024–2025 arasında bu tür olayların %63 oranında arttığını göstermekte.</p>
 <p style="text-align: justify"><br></p>

@@ -1,16 +1,22 @@
 ---
-title: "Port of Long Beach Reopens Ocean Boulevard and Vincent Thomas Bridge to Traffic"
-subtitle: "Port of Long Beach Reopens Ocean Boulevard and Vincent Thomas Bridge to Traffic"
-date: "2024-09-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a1def5de47884e269654036cf902effc~mv2.jpg"
-imageAlt: "Port of Long Beach Reopens Ocean Boulevard and Vincent Thomas Bridge to Traffic"
-wixId: "d5859312-5043-4e7a-b0f5-c0125ad6fcfe"
-author: "Sedat Onat"
+title: Port of Long Beach Reopens Ocean Boulevard and Vincent Thomas Bridge to Traffic
+subtitle: Port of Long Beach Reopens Ocean Boulevard and Vincent Thomas Bridge to Traffic
+date: '2024-09-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a1def5de47884e269654036cf902effc~mv2.jpg
+imageAlt: Port of Long Beach Reopens Ocean Boulevard and Vincent Thomas Bridge to Traffic
+wixId: d5859312-5043-4e7a-b0f5-c0125ad6fcfe
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Port of Long Beach
+- lithium-ion battery
+- port security
+- fire
+- supply chain
+- port operations
 ---
-
 <p>Port of Long Beach emphasized that it will continue working in close cooperation with the <strong>Los Angeles Fire Department</strong> and will provide support until the final resolution of the incident. Effective communication and coordination between the two agencies play a critical role in successfully managing such emergency situations. Port management highlighted the importance of continuously updating emergency plans and security protocols.</p>
 <p><br></p>
 <p>Port management thanked all stakeholders affected by the incident, particularly port employees, freight forwarders, and customers, and expressed gratitude for their patience and understanding during the return to normal operations. Additionally, emphasizing the port's importance to the regional economy and international trade, it noted that providing uninterrupted and secure services is among its core objectives.</p>

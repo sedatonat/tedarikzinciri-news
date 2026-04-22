@@ -1,14 +1,22 @@
 ---
-title: "Koreli Orta Ölçekli Tersaneler MASGA Kapsamında ABD Donanması MRO Pazarına Giriyor"
-subtitle: "Koreli Orta Ölçekli Tersaneler MASGA Kapsamında ABD Donanması MRO Pazarına Giriyor"
-date: "2025-11-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_80e7c90969d548bba214b22b87db3047~mv2.jpeg"
-imageAlt: "Güney Koreli orta ölçekli gemi inşa şirketlerinin MASGA çerçevesi altında ABD Donanması bakım-onarım pazarına giriş süreci, MSRA başvuruları ve stratejik yatırımların detaylı özeti"
-wixId: "d566b303-8829-4642-81b3-468b1a77e5a4"
-author: "Sedat Onat"
+title: Koreli Orta Ölçekli Tersaneler MASGA Kapsamında ABD Donanması MRO Pazarına Giriyor
+subtitle: Koreli Orta Ölçekli Tersaneler MASGA Kapsamında ABD Donanması MRO Pazarına Giriyor
+date: '2025-11-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_80e7c90969d548bba214b22b87db3047~mv2.jpeg
+imageAlt: Güney Koreli orta ölçekli gemi inşa şirketlerinin MASGA çerçevesi altında ABD Donanması bakım-onarım pazarına giriş süreci, MSRA başvuruları ve stratejik yatırımların detaylı özeti
+wixId: d566b303-8829-4642-81b3-468b1a77e5a4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tersane
+- MRO
+- ABD Donanması
+- Güney Kore
+- MASGA
+- savunma sanayi
+- gemi onarım
 ---
 <p style="text-align: justify"><strong>The Korea Times</strong>’ın haberine göre Güney Kore’nin orta ölçekli tersaneleri, ABD’nin <strong>Make American Shipbuilding Great Again (MASGA)</strong> programı kapsamında <strong>US Navy MRO (maintenance, repair and overhaul)</strong> pazarına girmek için hazırlıklarını hızlandırmakta. Bu girişim, ABD’nin gemi inşa kapasitesini artırmayı hedefleyen finansman mekanizmalarıyla Koreli firmaların teknik katkılarını birleştirerek iki ülke arasında yeni bir savunma-endüstri iş birliği modeli oluşturmakta.</p>
 <p><br></p>

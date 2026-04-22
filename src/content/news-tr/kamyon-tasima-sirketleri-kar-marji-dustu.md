@@ -1,14 +1,22 @@
 ---
-title: "Kamyon Taşıma Şirketlerinin Kar Marjları 14 Yılın En Düşük Seviyesinde"
-subtitle: "Kamyon Taşıma Şirketlerinin Kar Marjları 14 Yılın En Düşük Seviyesinde"
-date: "2024-05-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ca2f463d3a744cacabb71dacb3fc2bae~mv2.png"
-imageAlt: "Kamyon Taşıma Şirketlerinin Kar Marjları 14 Yılın En Düşük Seviyesinde"
-wixId: "1b5c3676-d28f-4882-ac59-4c0d40363580"
-author: "Sedat Onat"
+title: Kamyon Taşıma Şirketlerinin Kar Marjları 14 Yılın En Düşük Seviyesinde
+subtitle: Kamyon Taşıma Şirketlerinin Kar Marjları 14 Yılın En Düşük Seviyesinde
+date: '2024-05-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_ca2f463d3a744cacabb71dacb3fc2bae~mv2.png
+imageAlt: Kamyon Taşıma Şirketlerinin Kar Marjları 14 Yılın En Düşük Seviyesinde
+wixId: 1b5c3676-d28f-4882-ac59-4c0d40363580
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- kamyon taşımacılığı
+- kar marjı
+- Sınıf 8 kamyon
+- taşıma oranları
+- kapasite fazlası
+- römork satışları
+- ACT Research
 ---
 <p>2024'ün ilk çeyreğinde, güçlü bir ABD ekonomisine rağmen, kamyon yük taşıma şirketlerinin kar marjları 14 yılın en düşük seviyesine indi. ACT Research tarafından yapılan bir analize göre, bu durum, piyasada devam eden fazla kamyon kapasitesi ve taşıma oranlarının düşürülmesi ile ilişkilendiriliyor. ACT Research'in "Kuzey Amerika Ticari Araç Görünümü" raporuna göre, Sınıf 8 kamyonların satışlarının pek değişmeyeceği, ancak römork satışlarının azalacağı öngörülüyor.</p>
 <p><br></p>

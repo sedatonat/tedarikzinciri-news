@@ -1,14 +1,21 @@
 ---
-title: "İngiltere ve ABD İlaç Tarifelerini Sıfırda Tutmak İçin Yeni Anlaşmaya Vardı"
-subtitle: "İngiltere ve ABD İlaç Tarifelerini Sıfırda Tutmak İçin Yeni Anlaşmaya Vardı"
-date: "2025-12-01T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_18edea7aedd44f54a597d297993f1bd6~mv2.jpg"
-imageAlt: "ABD–İngiltere arasında imzalanan ve ilaç tarifelerini sıfırda tutan anlaşmanın, NHS’in ilaç harcamalarını artırma taahhütleri, Trump yönetiminin baskıları ve iki ülke arasındaki ticari etkileri üzerine detaylı haber özeti"
-wixId: "7d5a6005-4120-484b-89f4-040589d815c5"
-author: "Sedat Onat"
+title: İngiltere ve ABD İlaç Tarifelerini Sıfırda Tutmak İçin Yeni Anlaşmaya Vardı
+subtitle: İngiltere ve ABD İlaç Tarifelerini Sıfırda Tutmak İçin Yeni Anlaşmaya Vardı
+date: '2025-12-01T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_18edea7aedd44f54a597d297993f1bd6~mv2.jpg
+imageAlt: ABD–İngiltere arasında imzalanan ve ilaç tarifelerini sıfırda tutan anlaşmanın, NHS’in ilaç harcamalarını artırma taahhütleri, Trump yönetiminin baskıları ve iki ülke arasındaki ticari etkileri üzerine detaylı haber özeti
+wixId: 7d5a6005-4120-484b-89f4-040589d815c5
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ilaç ticareti
+- tarifeİngiltere
+- ABD
+- NHS
+- ticaret anlaşması
+- ilaç fiyatlandırma
 ---
 <p style="text-align: justify"><strong>Birleşik Krallık</strong> ve <strong>Amerika Birleşik Devletleri</strong>, ilaç ticaretindeki maliyet baskılarını azaltmak ve karşılıklı büyüme hedeflerini desteklemek amacıyla önemli bir ticaret anlaşmasına vardı. Anlaşmaya göre ABD, İngiltere’den gelen <strong>pharmaceutical exports</strong> için tarifeleri sıfırda tutmaya devam edecek; buna karşılık İngiltere, kendi ulusal sağlık sistemi olan <strong>NHS – National Health Service</strong> üzerinden ilaç üreticilerine daha yüksek ödeme yapacak. Bu karar, iki ülke arasında uzun süredir devam eden ilaç fiyatlandırma tartışmalarının ardından geldi.</p>
 <p><br></p>

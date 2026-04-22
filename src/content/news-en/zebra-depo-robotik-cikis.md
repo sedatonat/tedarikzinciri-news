@@ -1,16 +1,23 @@
 ---
-title: "Zebra Exits Warehouse Robotics Business"
-subtitle: "Zebra Exits Warehouse Robotics Business"
-date: "2025-12-18T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_8e75f3d5275d4c9d80b525949984de01~mv2.jpg"
-imageAlt: "Zebra Technologies is planning to exit the in-warehouse mobile robot market that it entered through the acquisition of Fetch Robotics, shifting its focus toward growth areas including RFID, mobile computing, machine vision, artificial intelligence, and software-based solutions."
-wixId: "66ab6892-c4dc-4f83-85a3-cb14c7e990c4"
-author: "Sedat Onat"
+title: Zebra Exits Warehouse Robotics Business
+subtitle: Zebra Exits Warehouse Robotics Business
+date: '2025-12-18T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_8e75f3d5275d4c9d80b525949984de01~mv2.jpg
+imageAlt: Zebra Technologies is planning to exit the in-warehouse mobile robot market that it entered through the acquisition of Fetch Robotics, shifting its focus toward growth areas including RFID, mobile computing, machine vision, artificial intelligence, and software-based solutions.
+wixId: 66ab6892-c4dc-4f83-85a3-cb14c7e990c4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Zebra Technologies
+- warehouse automation
+- autonomous mobile robot
+- AMR
+- Fetch Robotics
+- robotic automation
+- RFID
 ---
-
 <p style="text-align: justify"><strong>Zebra Technologies</strong> has announced its decision to exit robotic operations in warehouse automation. The company's notification to the <strong>U.S. Securities and Exchange Commission (SEC)</strong> in December revealed the end of Zebra's <strong>autonomous mobile robot (AMR)</strong> strategy launched with <strong>Fetch Robotics</strong>, which it acquired for <strong>$290 million in 2021</strong>. The planned move involves divesting or phasing out the robotics automation unit.</p>
 <p><br></p>
 <p style="text-align: justify">With the Fetch Robotics acquisition, Zebra had added AMR solutions to its portfolio that accompany workers in warehouse operations, reduce walking distances, and accelerate <strong>order picking</strong> processes. These technologies were positioned under the <strong>Symmetry Fulfillment</strong> brand within Zebra and received enhancements on both hardware and software fronts. The company released new robot capabilities, software updates, and modular solutions throughout the year that expanded use cases such as <strong>detachable cart</strong> applications.</p>

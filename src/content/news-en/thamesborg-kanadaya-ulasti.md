@@ -1,16 +1,23 @@
 ---
-title: "Thamesborg's 10-Week Arctic Journey Concludes in Canada"
-subtitle: "Thamesborg's 10-Week Arctic Journey Concludes in Canada"
-date: "2025-10-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_02497799b6ab4867b59b76ea267dd063~mv2.png"
-imageAlt: "The general cargo ship Thamesborg, which ran aground in the Arctic while traveling from China to Canada, safely reached Baie Comeau Port after a challenging two-month rescue operation."
-wixId: "efe997e3-f7cb-4d6f-9b89-1ec4280141b6"
-author: "Sedat Onat"
+title: Thamesborg's 10-Week Arctic Journey Concludes in Canada
+subtitle: Thamesborg's 10-Week Arctic Journey Concludes in Canada
+date: '2025-10-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_02497799b6ab4867b59b76ea267dd063~mv2.png
+imageAlt: The general cargo ship Thamesborg, which ran aground in the Arctic while traveling from China to Canada, safely reached Baie Comeau Port after a challenging two-month rescue operation.
+wixId: efe997e3-f7cb-4d6f-9b89-1ec4280141b6
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Thamesborg
+- Arctic shipping
+- Wagenborg
+- grounding
+- Northwest Passage
+- salvage operation
+- Canada
 ---
-
 <p style="text-align: justify">The <strong>Thamesborg</strong>, a general cargo vessel belonging to the <strong>Wagenborg</strong> fleet, departed from <strong>Lianyungang</strong> port in China destined for Canada. What was planned as a three-to-four-week voyage transformed into approximately <strong>a ten-week maritime odyssey</strong>. After running aground in the <strong>Franklin Strait</strong> region, the vessel was refloated following more than a month of challenging <strong>salvage operations</strong>. Successfully released on <strong>October 8</strong>, the ship proceeded under escort of the icebreaker <strong>Botnica</strong> and tugboat <strong>Beverly M I</strong>, transiting <strong>Baffin Bay</strong>, <strong>Davis Strait</strong>, and the <strong>St. Lawrence River</strong> to reach <strong>Baie Comeau</strong> port in Eastern Canada.</p>
 <p><br></p>
 <p style="text-align: justify">The company stated in its announcement that the vessel had safely reached port and that discharge operations of the remaining cargo had commenced. According to <strong>AIS data</strong>, the vessel remains anchored offshore. <strong>Wagenborg</strong> announced that following discharge operations, the vessel would enter <strong>repair</strong>. The <strong>Thamesborg</strong>'s ability to reach port under its own power demonstrates the successful completion of the salvage operation.</p>

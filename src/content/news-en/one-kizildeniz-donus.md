@@ -1,16 +1,23 @@
 ---
-title: "ONE Returns to Red Sea Under Slot Charter Agreement"
-subtitle: "ONE Returns to Red Sea Under Slot Charter Agreement"
-date: "2025-12-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f3ca11410d234c8aa9ac8cf7bd414e12~mv2.jpg"
-imageAlt: "Ocean Network Express is planning a controlled return to Red Sea operations that it suspended due to security risks, through a slot charter agreement with Thailand-based RCL and regional partners."
-wixId: "695f51d9-6cfa-44f4-b504-87fc7cc5d945"
-author: "Sedat Onat"
+title: ONE Returns to Red Sea Under Slot Charter Agreement
+subtitle: ONE Returns to Red Sea Under Slot Charter Agreement
+date: '2025-12-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f3ca11410d234c8aa9ac8cf7bd414e12~mv2.jpg
+imageAlt: Ocean Network Express is planning a controlled return to Red Sea operations that it suspended due to security risks, through a slot charter agreement with Thailand-based RCL and regional partners.
+wixId: 695f51d9-6cfa-44f4-b504-87fc7cc5d945
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- ONE
+- Red Sea
+- slot charter
+- container shipping
+- RCL
+- Suez
+- maritime shipping
 ---
-
 <p style="text-align: justify"><strong>Ocean Network Express (ONE)</strong>, a leading global container shipping player, is preparing a limited and cautious return to Red Sea-related transportation activities that it has suspended for an extended period. The company confirmed that it will begin offering capacity again on the Red Sea–China route under a <strong>slot charter agreement</strong> signed with three regional carriers, primarily <strong>Regional Container Lines (RCL)</strong> based in <strong>Thailand</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">According to a notification sent to customers by ONE, the agreement in question enters into effect on <strong>January 15, 2026</strong>. The maiden voyage will be operated by the <strong>SSF Dream</strong>, a vessel with a capacity of <strong>3,534 TEU</strong>, departing from <strong>Shanghai</strong>. While the company avoided sharing details on how many slots it will utilize under this service, it specifically emphasized that it made no comment regarding capacity allocations.</p>

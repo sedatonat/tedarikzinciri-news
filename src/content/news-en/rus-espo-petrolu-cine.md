@@ -1,16 +1,23 @@
 ---
-title: "Cost to Ship Russian ESPO Oil to China Triples Following Sanctions"
-subtitle: "Cost to Ship Russian ESPO Oil to China Triples Following Sanctions"
-date: "2025-01-16T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_48abb8a9c68a4aa293bc7675940200b0~mv2.jpg"
-imageAlt: "Cost to Ship Russian ESPO Oil to China Triples Following Sanctions"
-wixId: "602891c4-88ab-44e6-9306-63f78d0191f8"
-author: "Sedat Onat"
+title: Cost to Ship Russian ESPO Oil to China Triples Following Sanctions
+subtitle: Cost to Ship Russian ESPO Oil to China Triples Following Sanctions
+date: '2025-01-16T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_48abb8a9c68a4aa293bc7675940200b0~mv2.jpg
+imageAlt: Cost to Ship Russian ESPO Oil to China Triples Following Sanctions
+wixId: 602891c4-88ab-44e6-9306-63f78d0191f8
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- ESPO crude
+- U.S. sanctions
+- Russia
+- China
+- freight cost
+- Aframax tanker
+- oil transportation
 ---
-
 <p style="text-align: justify">Following recent sweeping sanctions imposed by the <strong>United States</strong> (<strong>U.S.</strong>) on <strong>Russia</strong>'s petroleum industry, shipping costs for Russian <strong>ESPO</strong> crude oil to <strong>China</strong> have increased substantially. Freight rates that previously stood at approximately 1.5 million dollars are now ranging between 5 million and 5.5 million dollars.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Last week, the <strong>U.S.</strong> broadened its sanctions on <strong>Russia</strong>'s petroleum sector, targeting two Russian companies managing more than a quarter of the <strong>OPEC+</strong> member's seaborne exports, along with their insurers and traders. According to the <strong>International Energy Agency</strong>, the blacklisted fleet accounts for approximately 22 percent of crude oil transported by sea in 2024.</p>

@@ -1,16 +1,23 @@
 ---
-title: "Supply Chain Breaking Point: The True Cost of Fragmented Systems"
-subtitle: "Supply Chain Breaking Point: The True Cost of Fragmented Systems"
-date: "2025-02-01T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_4ef40364db9144a38db4f75cff2d5ff2~mv2.jpg"
-imageAlt: "Supply Chain Breaking Point: The True Cost of Fragmented Systems"
-wixId: "590f33b8-3aa8-403a-8e3b-f967ede4a19e"
-author: "Sedat Onat"
+title: 'Supply Chain Breaking Point: The True Cost of Fragmented Systems'
+subtitle: 'Supply Chain Breaking Point: The True Cost of Fragmented Systems'
+date: '2025-02-01T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_4ef40364db9144a38db4f75cff2d5ff2~mv2.jpg
+imageAlt: 'Supply Chain Breaking Point: The True Cost of Fragmented Systems'
+wixId: 590f33b8-3aa8-403a-8e3b-f967ede4a19e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- fragmented systems
+- supply chain visibility
+- control tower
+- system integration
+- FourKites
+- ERP
+- SCM
 ---
-
 <p style="text-align: justify">Today's supply chains face significant challenges due to increasing complexity and fragmented systems. A 2025 study conducted by <strong>FourKites</strong> reveals that 75% of supply chain leaders require 3 to 10 different systems to make critical decisions, and 58% of billion-dollar companies suffer from critical blind spots.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Control Tower Effectiveness and Visibility Gaps</strong></p>

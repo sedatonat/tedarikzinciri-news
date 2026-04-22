@@ -1,14 +1,22 @@
 ---
-title: "Gartner: CSCO’lar İş Dünyasında Çok Daha Etkili Olacak"
-subtitle: "Gartner: CSCO’lar İş Dünyasında Çok Daha Etkili Olacak"
-date: "2025-05-06T00:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_354e7380b772468aa099b3d457341f0d~mv2.jpg"
-imageAlt: "Gartner: Csco’lar İş Dünyasında Çok Daha Etkili Olacak"
-wixId: "d7970b33-fd74-4e9d-bf96-36e21b7f68bb"
-author: "Sedat Onat"
+title: 'Gartner: CSCO’lar İş Dünyasında Çok Daha Etkili Olacak'
+subtitle: 'Gartner: CSCO’lar İş Dünyasında Çok Daha Etkili Olacak'
+date: '2025-05-06T00:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_354e7380b772468aa099b3d457341f0d~mv2.jpg
+imageAlt: 'Gartner: Csco’lar İş Dünyasında Çok Daha Etkili Olacak'
+wixId: d7970b33-fd74-4e9d-bf96-36e21b7f68bb
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CSCO
+- Gartner
+- tedarik zinciri stratejisi
+- yapay zeka
+- sürdürülebilirlik
+- dijital ikiz
+- tedarikçi iş birliği
 ---
 <p style="text-align: justify">Küresel krizlerin ve tedarik zinciri şoklarının ardından, <strong>Chief Supply Chain Officer (CSCO)</strong> rolü artık yalnızca operasyonel verimlilikle sınırlı kalmayıp, <strong>şirket stratejisinin merkezine</strong> yerleşmiş durumda. Yeni dönemde CSCO’lar, yalnızca <strong>cost-to-serve (hizmet maliyeti)</strong> değil, aynı zamanda <strong>büyüme, müşteri deneyimi ve sürdürülebilirlik hedeflerinin</strong> de eş lideri olarak konumlanıyor. Bu dönüşüm, tedarik zinciri yönetimini taktiksel bir işlevden stratejik bir rekabet avantajı aracına dönüştürmekte.</p>
 <p style="text-align: justify"><br></p>

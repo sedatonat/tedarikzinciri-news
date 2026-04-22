@@ -1,16 +1,23 @@
 ---
-title: "Xeneta: Calm in the Red Sea Could Sharply Drive Down Freight Rates"
-subtitle: "Xeneta: Calm in the Red Sea Could Sharply Drive Down Freight Rates"
-date: "2025-11-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5273021686624cec8e54e121a9c31e8a~mv2.jpg"
-imageAlt: "A reduction in Red Sea risk following a Houthi halt to attacks, coupled with a mass return to Suez, could increase global container capacity and trigger sharp declines in freight rates; Xeneta analysts emphasize that uncertainty remains very high."
-wixId: "87dce9e8-d2f7-49b1-8d85-93ef191ac644"
-author: "Sedat Onat"
+title: 'Xeneta: Calm in the Red Sea Could Sharply Drive Down Freight Rates'
+subtitle: 'Xeneta: Calm in the Red Sea Could Sharply Drive Down Freight Rates'
+date: '2025-11-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5273021686624cec8e54e121a9c31e8a~mv2.jpg
+imageAlt: A reduction in Red Sea risk following a Houthi halt to attacks, coupled with a mass return to Suez, could increase global container capacity and trigger sharp declines in freight rates; Xeneta analysts emphasize that uncertainty remains very high.
+wixId: 87dce9e8-d2f7-49b1-8d85-93ef191ac644
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Red Sea
+- freight rates
+- Xeneta
+- Suez Canal
+- container shipping
+- Houthis
+- Cape of Good Hope
 ---
-
 <p style="text-align: justify">The Houthis' announcement that they are suspending attacks on Israel and commercial vessels has the potential to create a <strong>game-changing impact</strong> on global container shipping. However, market intelligence platform <strong>Xeneta's Chief Analyst Peter Sand</strong> emphasized that "the situation remains extremely uncertain," noting that carriers and insurers cannot return to normal operations based solely on verbal assurance.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Risk tolerance varies from carrier to carrier</strong></h4>

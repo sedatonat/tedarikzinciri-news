@@ -1,14 +1,22 @@
 ---
-title: "Tedarik Zincirinde Yapay Zeka Devrimi Kapıda"
-subtitle: "Tedarik Zincirinde Yapay Zeka Devrimi Kapıda"
-date: "2024-10-10T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_ae58d9106a7a472f8392c6ba0317c01e~mv2.jpg"
-imageAlt: "Tedarik Zincirinde Yapay Zeka Devrimi Kapıda"
-wixId: "cad0ef47-1fed-4525-ad08-bfc6c9cfed31"
-author: "Sedat Onat"
+title: Tedarik Zincirinde Yapay Zeka Devrimi Kapıda
+subtitle: Tedarik Zincirinde Yapay Zeka Devrimi Kapıda
+date: '2024-10-10T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_ae58d9106a7a472f8392c6ba0317c01e~mv2.jpg
+imageAlt: Tedarik Zincirinde Yapay Zeka Devrimi Kapıda
+wixId: cad0ef47-1fed-4525-ad08-bfc6c9cfed31
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- yapay zeka
+- tedarik zinciri
+- generative AI
+- otomasyon
+- satın alma
+- sürdürülebilirlik
+- dijital dönüşüm
 ---
 <p>University of Arkansas'tan Supply Chain Management profesörü Remko van Hoek, Amsterdam'da düzenlenen DPW (Digital Procurement World) 2024 konferansında, "Procurement bir yıl, bir buçuk yıl içinde çok farklı görünecek" diyerek tedarik süreçlerinde köklü bir yeniden düşünmenin gerektiğini vurguladı.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "FedEx Freight LTL Birimini Bağımsız Şirkete Dönüştürmeyi Planlıyor"
-subtitle: "FedEx Freight LTL Birimini Bağımsız Şirkete Dönüştürmeyi Planlıyor"
-date: "2024-12-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_729c7d5dfc4c4eb9bc14c35932d5ff04~mv2.jpg"
-imageAlt: "FedEx Freight LTL Birimini Bağımsız Şirkete Dönüştürmeyi Planlıyor"
-wixId: "864e7b16-717c-4742-81e6-d4aa87afd781"
-author: "Sedat Onat"
+title: FedEx Freight LTL Birimini Bağımsız Şirkete Dönüştürmeyi Planlıyor
+subtitle: FedEx Freight LTL Birimini Bağımsız Şirkete Dönüştürmeyi Planlıyor
+date: '2024-12-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_729c7d5dfc4c4eb9bc14c35932d5ff04~mv2.jpg
+imageAlt: FedEx Freight LTL Birimini Bağımsız Şirkete Dönüştürmeyi Planlıyor
+wixId: 864e7b16-717c-4742-81e6-d4aa87afd781
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- FedEx Freight
+- LTL
+- spin-off
+- yeniden yapılanma
+- lojistik
+- FedEx
+- e-ticaret
 ---
 <p>FedEx, lojistik sektöründe rekabetçi konumunu güçlendirmek amacıyla önemli bir stratejik adım atmaya hazırlanıyor. Şirketin “Less-Than-Truckload” (LTL) hizmeti veren kolu olan <strong>FedEx Freight</strong> biriminin, ana şirketten ayrılarak ayrı bir yapı hâlinde faaliyet göstermesi planlanıyor. Bu hamlenin, FedEx’in uzun vadeli büyüme stratejisini desteklemesi ve tüm operasyonel faaliyetleri daha verimli şekilde yönetmesine katkıda bulunması bekleniyor. Aynı zamanda, sektör içindeki trendlerin değişmesi ve LTL pazarındaki dinamizm de bu kararı şekillendiren faktörler arasında yer alıyor.</p>
 <p>FedEx, son dönemde lojistik sektöründe yaşanan hızlı dönüşümleri yakından takip ediyor. E-ticaretin yükselişi, müşterilerin daha hızlı ve esnek teslimat beklentileri, ayrıca maliyet optimizasyonuna duyulan ihtiyaç, şirketleri farklı iş modelleri üzerinde düşünmeye sevk ediyor. FedEx de bu doğrultuda bir dizi yeniden yapılandırma planı hazırladı. Söz konusu planların en önemli parçalarından biri, FedEx Freight’in bağımsız bir firma hâline getirilerek operasyonel ve finansal hedeflerinin ayrı bir çerçevede belirlenmesi olarak öne çıkıyor.</p>

@@ -1,14 +1,23 @@
 ---
-title: "Yapay Zeka ile Satınalma: Stratejik Dönüşüm ve Büyüme Yolculuğu"
-subtitle: "Yapay Zeka ile Satınalma: Stratejik Dönüşüm ve Büyüme Yolculuğu"
-date: "2024-03-04T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_70cc9a6e38f74e2891de815d214e7af2~mv2.jpg"
-imageAlt: "Yapay Zeka ile Satın Alma: Stratejik Dönüşüm ve Büyüme Yolculuğu"
-wixId: "15dd38d1-c3f4-453f-83dd-222b4365e433"
-author: "Sedat Onat"
+title: 'Yapay Zeka ile Satınalma: Stratejik Dönüşüm ve Büyüme Yolculuğu'
+subtitle: 'Yapay Zeka ile Satınalma: Stratejik Dönüşüm ve Büyüme Yolculuğu'
+date: '2024-03-04T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_70cc9a6e38f74e2891de815d214e7af2~mv2.jpg
+imageAlt: 'Yapay Zeka ile Satın Alma: Stratejik Dönüşüm ve Büyüme Yolculuğu'
+wixId: 15dd38d1-c3f4-453f-83dd-222b4365e433
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- yapay zeka
+- satınalma
+- AI
+- tedarik zinciri yönetimi
+- dijital dönüşüm
+- chatbot
+- tahmin analizleri
+- risk yönetimi
 ---
 <p>İş dünyasının hızlı temposunda, verimlilik ve stratejik içgörü öne çıkarken, Yapay Zeka (AI) satınalma alanına dramatik bir giriş yapıyor. Bu, geçici bir trend değil; temelden satınalma işlemini yeniden tanımlayan büyük bir değişim.</p>
 <p><br></p>

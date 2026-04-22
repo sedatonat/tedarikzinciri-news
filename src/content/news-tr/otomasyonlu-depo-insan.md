@@ -1,14 +1,23 @@
 ---
-title: "Otomasyonlu Depolarda İnsan Hâlâ Önemli Mi?"
-subtitle: "Otomasyonlu Depolarda İnsan Hâlâ Önemli Mi?"
-date: "2025-12-15T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_d2e2ac7b51c145fca9e64c00aaf512f1~mv2.jpg"
-imageAlt: "Otomasyon, robotlar ve AI yatırımlarının hızlandığı modern depolarda insan emeğinin nasıl dönüştüğünü, hangi rollerin ortadan kalktığını ve hangi yeni yetkinliklerin öne çıktığını ele alan kapsamlı sektör değerlendirmesi"
-wixId: "2525e3fa-5577-4582-bf2e-e00744d6abdc"
-author: "Sedat Onat"
+title: Otomasyonlu Depolarda İnsan Hâlâ Önemli Mi?
+subtitle: Otomasyonlu Depolarda İnsan Hâlâ Önemli Mi?
+date: '2025-12-15T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_d2e2ac7b51c145fca9e64c00aaf512f1~mv2.jpg
+imageAlt: Otomasyon, robotlar ve AI yatırımlarının hızlandığı modern depolarda insan emeğinin nasıl dönüştüğünü, hangi rollerin ortadan kalktığını ve hangi yeni yetkinliklerin öne çıktığını ele alan kapsamlı sektör değerlendirmesi
+wixId: 2525e3fa-5577-4582-bf2e-e00744d6abdc
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- depo otomasyonu
+- yapay zeka
+- AMR
+- iş gücü
+- robotik
+- WMS
+- cobots
+- tedarik zinciri
 ---
 <p style="text-align: justify">Depo operasyonlarında <strong>automation</strong>, <strong>robotics</strong> ve <strong>artificial intelligence (AI)</strong> yatırımları hız kazanmakta. Bu dönüşüm, insan faktörünün giderek geri plana itildiği algısını güçlendirse de, sektör verileri ve uzman görüşleri bunun daha karmaşık bir tabloya işaret ettiğini göstermekte. <strong>Modern Materials Handling</strong> tarafından yayımlanan analiz, otomasyon çağında depolarda insanların rolünün ortadan kalkmadığını, ancak köklü biçimde değişmekte olduğunu ortaya koymakta.</p>
 <p><br></p>

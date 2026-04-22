@@ -1,16 +1,24 @@
 ---
-title: "Two Major Uncertainties for 2026: US Restocking Wave and Return to the Red Sea"
-subtitle: "Two Major Uncertainties for 2026: US Restocking Wave and Return to the Red Sea"
-date: "2025-11-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_422afbe89af644f98ed070ae7cf4aba7~mv2.jpg"
-imageAlt: "Hapag-Lloyd CEO Rolf Habben Jansen emphasizes two critical variables that will shape container shipping in 2026: when a restocking wave will begin in the US and how global routes will be affected by the reopening of Red Sea–Suez passages."
-wixId: "70b0cb76-90f9-4520-b7c6-3fc2691da3c4"
-author: "Sedat Onat"
+title: 'Two Major Uncertainties for 2026: US Restocking Wave and Return to the Red Sea'
+subtitle: 'Two Major Uncertainties for 2026: US Restocking Wave and Return to the Red Sea'
+date: '2025-11-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_422afbe89af644f98ed070ae7cf4aba7~mv2.jpg
+imageAlt: 'Hapag-Lloyd CEO Rolf Habben Jansen emphasizes two critical variables that will shape container shipping in 2026: when a restocking wave will begin in the US and how global routes will be affected by the reopening of Red Sea–Suez passages.'
+wixId: 70b0cb76-90f9-4520-b7c6-3fc2691da3c4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- container shipping
+- Red Sea
+- Suez Canal
+- restocking
+- Hapag-Lloyd
+- freight rates
+- U.S.
+- '2026'
 ---
-
 <p style="text-align: justify">As the global container shipping sector approaches 2026, industry experts are focusing on two major unknowns: <strong>a potential restocking wave in the United States</strong> and <strong>the timing of a return to the Red Sea–Suez Canal route</strong>. These two dynamics will be decisive across the entire global network, from capacity management to freight rates.</p>
 <p><br></p>
 <p style="text-align: justify">Hapag-Lloyd CEO <strong>Rolf Habben Jansen</strong> stated in an online panel discussion that US retail and industrial inventories are <strong>at historically low levels</strong>, meaning a possible "restocking sprint" could push 2026 demand into <strong>turbo mode</strong>.</p>

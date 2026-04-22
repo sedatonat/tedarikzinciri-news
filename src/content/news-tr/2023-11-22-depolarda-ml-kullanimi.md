@@ -1,14 +1,22 @@
 ---
-title: "Marketlerde Akıllı Stok Stoklamak için Makine Öğrenimi Kullanımı"
-subtitle: "Marketlerde Akıllı Stok Stoklamak için Makine Öğrenimi Kullanımı"
-date: "2023-11-22T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_efa5be96ce564528b1db77ad254f6995~mv2.jpg"
-imageAlt: "Marketlerde Akıllı Stok Stoklamak için Makine Öğrenimi Kullanımı"
-wixId: "58aded2e-ffbe-4fa3-ad96-c3fcf87570bc"
-author: "Sedat Onat"
+title: Marketlerde Akıllı Stok Stoklamak için Makine Öğrenimi Kullanımı
+subtitle: Marketlerde Akıllı Stok Stoklamak için Makine Öğrenimi Kullanımı
+date: '2023-11-22T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_efa5be96ce564528b1db77ad254f6995~mv2.jpg
+imageAlt: Marketlerde Akıllı Stok Stoklamak için Makine Öğrenimi Kullanımı
+wixId: 58aded2e-ffbe-4fa3-ad96-c3fcf87570bc
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- makine öğrenimi
+- envanter yönetimi
+- perakende
+- Fresh Hema
+- talep tahmini
+- gıda israfı
+- tedarik zinciri
 ---
 <p>Yenilikçi makine öğrenme algoritması, günlük envanter satışları, hava durumu, alışverişçi demografisi, gelir, cinsiyet, yaş, mevsimsel değişkenler ve mağaza özellikleri gibi faktörleri dikkate alarak en güncel bilgilere dayalı olarak her perakende mağazasına doğru miktarda envanter tahsis etmeyi amaçlamaktadır.</p>
 <p><br></p>

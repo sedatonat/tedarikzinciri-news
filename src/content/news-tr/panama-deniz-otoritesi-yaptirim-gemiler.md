@@ -1,14 +1,22 @@
 ---
-title: "Panama Deniz Otoritesi, Yaptırım Altındaki Gemilere Karşı Hızlı Önlem Alıyor"
-subtitle: "Panama Deniz Otoritesi, Yaptırım Altındaki Gemilere Karşı Hızlı Önlem Alıyor"
-date: "2024-12-02T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_868e609e24464645b79090bd1137fc7d~mv2.jpg"
-imageAlt: "Panama Deniz Otoritesi, Yaptırım Altındaki Gemilere Karşı Hızlı Önlem Alıyor"
-wixId: "1662cf78-922d-4876-b0e4-c861338b9d19"
-author: "Sedat Onat"
+title: Panama Deniz Otoritesi, Yaptırım Altındaki Gemilere Karşı Hızlı Önlem Alıyor
+subtitle: Panama Deniz Otoritesi, Yaptırım Altındaki Gemilere Karşı Hızlı Önlem Alıyor
+date: '2024-12-02T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_868e609e24464645b79090bd1137fc7d~mv2.jpg
+imageAlt: Panama Deniz Otoritesi, Yaptırım Altındaki Gemilere Karşı Hızlı Önlem Alıyor
+wixId: 1662cf78-922d-4876-b0e4-c861338b9d19
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Panama
+- yaptırım
+- gemi sicili
+- Birleşik Krallık
+- Rusya
+- gölge filo
+- deniz otoritesi
 ---
 <p>Panama Deniz Otoritesi (PMA), Birleşik Krallık’ın yaptırım listesine yeni eklenen altı Panama bayraklı geminin kayıt iptalini hızlandırdı. PMA'nın bu kararı, uluslararası yaptırımlardan etkilenmemek ve Panama gemi sicilinin bütünlüğünü korumak adına atılan önemli bir adım olarak değerlendiriliyor.</p>
 <p><br></p>

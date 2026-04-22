@@ -1,16 +1,23 @@
 ---
-title: "Skechers' Q3 Inventory Surge Casts No Shadow on Peak Season"
-subtitle: "Skechers' Q3 Inventory Surge Casts No Shadow on Peak Season"
-date: "2024-11-04T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_c8ffe2a018a1452dbde1dd7aac979770~mv2.jpg"
-imageAlt: "Skechers' Q3 Inventory Surge Does Not Dampen Peak Season"
-wixId: "3dc2e10a-6220-4d9d-8963-875221c96b76"
-author: "Sedat Onat"
+title: Skechers' Q3 Inventory Surge Casts No Shadow on Peak Season
+subtitle: Skechers' Q3 Inventory Surge Casts No Shadow on Peak Season
+date: '2024-11-04T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_c8ffe2a018a1452dbde1dd7aac979770~mv2.jpg
+imageAlt: Skechers' Q3 Inventory Surge Does Not Dampen Peak Season
+wixId: 3dc2e10a-6220-4d9d-8963-875221c96b76
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Skechers
+- inventory management
+- stock increase
+- China
+- Singles' Day
+- retail sector
+- peak season
 ---
-
 <p>Skechers reported a 24% year-over-year increase in inventory during the third quarter of 2024. The company attributed the rise primarily to elevated stock levels in China and products in transit. However, Skechers executives emphasized that the increased inventory levels do not negatively impact peak season expectations.</p>
 <p><br></p>
 <p>Skechers COO David Weinberg stressed in his remarks that inventories can be moved flexibly across the globe. "I want to remind everyone that our inventory is not stuck in China—we have the ability to move it around the world as needed," Weinberg said. This approach highlights the company's capacity to redirect excess stock to different markets.</p>

@@ -1,14 +1,23 @@
 ---
-title: "Gather AI Soğuk Depolama Alanında Envanter Zekasını Genişletiyor"
-subtitle: "Gather AI Soğuk Depolama Alanında Envanter Zekasını Genişletiyor"
-date: "2024-11-22T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_3bea862270b24823b3bdd21349a973fc~mv2.png"
-imageAlt: "Gather AI Soğuk Depolama Alanında Envanter Zekasını Genişletiyor"
-wixId: "2d392200-8cc8-4c3d-8dba-89895adf2591"
-author: "Sedat Onat"
+title: Gather AI Soğuk Depolama Alanında Envanter Zekasını Genişletiyor
+subtitle: Gather AI Soğuk Depolama Alanında Envanter Zekasını Genişletiyor
+date: '2024-11-22T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_3bea862270b24823b3bdd21349a973fc~mv2.png
+imageAlt: Gather AI Soğuk Depolama Alanında Envanter Zekasını Genişletiyor
+wixId: 2d392200-8cc8-4c3d-8dba-89895adf2591
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Gather AI
+- soğuk depolama
+- envanter yönetimi
+- yapay zeka
+- soğuk zincir lojistiği
+- IoT
+- otomasyon
+- tedarik zinciri dijitalleşmesi
 ---
 <p>Gather AI, tedarik zinciri yönetiminde yapay zeka tabanlı çözümleri ile tanınan lider bir teknoloji şirketi, soğuk depolama ve dondurucu alanlarında envanter zekası hizmetlerini genişletmeye devam ediyor. Şirket, bu yeni adımla birlikte soğuk zincir lojistiğinde verimliliği artırmayı ve envanter yönetiminde doğruluğu sağlamayı hedefliyor. Soğuk depolama sektörü, özellikle gıda ve ilaç gibi hassas ürünlerin saklanması ve taşınmasında kritik bir rol oynuyor. Gather AI’nin bu alandaki yenilikçi çözümleri, işletmelerin stoklarını daha etkin bir şekilde yönetmelerine, enerji tüketimini optimize etmelerine ve ürün kaybını minimize etmelerine olanak tanıyor.</p>
 <p><br></p>

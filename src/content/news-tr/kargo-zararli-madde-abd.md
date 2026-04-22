@@ -1,14 +1,23 @@
 ---
-title: "ABD’de Proje Kargosunda Zararlı Tespiti Yaptırımları Artıyor: İthalatçılar İçin Maliyet Baskısı Yükselmekte"
-subtitle: "ABD’de Proje Kargosunda Zararlı Tespiti Yaptırımları Artıyor: İthalatçılar İçin Maliyet Baskısı Yükselmekte"
-date: "2025-11-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3e43cd8bcd61499ab73ccc28c13b65be~mv2.jpg"
-imageAlt: "ABD CBP’nin ahşap ambalaj malzemelerinde (WPM) zararlı tespiti nedeniyle uyguladığı yüksek para cezaları ve yeniden ihraç riskleri, proje kargo ithalatçılarının maliyetlerini ciddi biçimde artırmakta; inceleme uygulamaları 2025’te daha sıkı hâle geldi."
-wixId: "3ba0192d-b969-47f1-a038-d9921f827f75"
-author: "Sedat Onat"
+title: 'ABD’de Proje Kargosunda Zararlı Tespiti Yaptırımları Artıyor: İthalatçılar İçin Maliyet Baskısı Yükselmekte'
+subtitle: 'ABD’de Proje Kargosunda Zararlı Tespiti Yaptırımları Artıyor: İthalatçılar İçin Maliyet Baskısı Yükselmekte'
+date: '2025-11-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3e43cd8bcd61499ab73ccc28c13b65be~mv2.jpg
+imageAlt: ABD CBP’nin ahşap ambalaj malzemelerinde (WPM) zararlı tespiti nedeniyle uyguladığı yüksek para cezaları ve yeniden ihraç riskleri, proje kargo ithalatçılarının maliyetlerini ciddi biçimde artırmakta; inceleme uygulamaları 2025’te daha sıkı hâle geldi.
+wixId: 3ba0192d-b969-47f1-a038-d9921f827f75
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- proje kargosu
+- ABD gümrük
+- ISPM 15
+- ahşap ambalaj
+- zararlı tespiti
+- CBP
+- breakbulk
+- ithalat maliyeti
 ---
 <p style="text-align: justify">ABD’nin <strong>breakbulk</strong> ve <strong>project cargo</strong> ithalatçıları, 2025 boyunca tarifeler, ekonomik belirsizlik, nakliye maliyetleri ve gecikmeler nedeniyle ciddi bir finansal baskı altında bulunmakta. Bu tabloya şimdi bir de <strong>CBP’nin ahşap ambalaj malzemelerinde zararlı tespiti için uyguladığı yoğun denetim ve yüksek cezalar</strong> eklenmiş durumda.</p>
 <p><br></p>

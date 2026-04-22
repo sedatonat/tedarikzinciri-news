@@ -1,14 +1,22 @@
 ---
-title: "Veson Nautical, IMOS X ile Kullanıcı Deneyimini Yeniliyor"
-subtitle: "Veson Nautical, IMOS X ile Kullanıcı Deneyimini Yeniliyor"
-date: "2024-09-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d81f7ce51ccf42a5abf18b388ff148ef~mv2.jpg"
-imageAlt: "Veson Nautical, IMOS X ile Kullanıcı Deneyimini Yeniliyor"
-wixId: "414f148d-ee98-4138-88a6-16b92419539f"
-author: "Sedat Onat"
+title: Veson Nautical, IMOS X ile Kullanıcı Deneyimini Yeniliyor
+subtitle: Veson Nautical, IMOS X ile Kullanıcı Deneyimini Yeniliyor
+date: '2024-09-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d81f7ce51ccf42a5abf18b388ff148ef~mv2.jpg
+imageAlt: Veson Nautical, IMOS X ile Kullanıcı Deneyimini Yeniliyor
+wixId: 414f148d-ee98-4138-88a6-16b92419539f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Veson Nautical
+- IMOS X
+- denizcilik yazılımı
+- yük yönetimi
+- emisyon takibi
+- kullanıcı deneyimi
+- dijital platform
 ---
 <p>Veson Nautical, sektörün önde gelen IMOS Platformu için yeni bir kullanıcı deneyimi olan <strong>IMOS X</strong>'i tanıttı. Mevcut IMOS Platformu, ticari yük sözleşmesi yönetimi ve sefer yürütme konusunda birincil çözüm olmaya devam ederken, şirket IMOS X'in yeni işlevlerini müşterileriyle birlikte hızla geliştiriyor ve doğruluyor. Bu yenilikler arasında talep iş akışlarında önemli iyileştirmeler, sefer emisyon verilerinin yakalanması ve raporlanması ile karşı taraf bağlantısı bulunuyor.</p>
 <p><br></p>

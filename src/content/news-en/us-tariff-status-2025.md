@@ -1,16 +1,23 @@
 ---
-title: "Trump-Era Tariffs: The State of International Trade in 2025"
-subtitle: "Trump-Era Tariffs: The State of International Trade in 2025"
-date: "2025-03-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_c049597494e04d61a5953984a28297b0~mv2.jpg"
-imageAlt: "Country-specific tariffs, reciprocal taxes, and trade investigations implemented by the U.S. throughout 2025 are creating widespread disruptions in global supply chains. The Trump administration is pursuing variable tariff policies with Canada, Mexico, China, the EU, Japan, and South Korea, while tariffs applied under IEEPA are under Supreme Court review."
-wixId: "9e627c51-01e0-4fca-8df3-85055bc06a0f"
-author: "Sedat Onat"
+title: 'Trump-Era Tariffs: The State of International Trade in 2025'
+subtitle: 'Trump-Era Tariffs: The State of International Trade in 2025'
+date: '2025-03-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_c049597494e04d61a5953984a28297b0~mv2.jpg
+imageAlt: Country-specific tariffs, reciprocal taxes, and trade investigations implemented by the U.S. throughout 2025 are creating widespread disruptions in global supply chains. The Trump administration is pursuing variable tariff policies with Canada, Mexico, China, the EU, Japan, and South Korea, while tariffs applied under IEEPA are under Supreme Court review.
+wixId: 9e627c51-01e0-4fca-8df3-85055bc06a0f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Trump tariffs
+- international trade
+- US trade policy
+- China-US trade war
+- customs duties
+- supply chain uncertainty
+- reciprocal tariff
 ---
-
 <p style="text-align: justify">2025 has been a year of <strong>intense and rapid shifts in U.S. trade policy</strong>. Since the President's return to office, the Trump administration has both expanded trade initiatives inherited from the previous period and implemented new comprehensive tariff programs. The administration is <strong>pursuing tariffs and trade investigations against different countries simultaneously</strong>, creating significant uncertainty for both U.S. companies and global commerce.</p>
 <p><br></p>
 <p style="text-align: justify">Starting in January, Trump imposed high tariffs on <strong>Canada, Mexico, and China</strong> through executive orders signed on February 1st. However, the implementation of these tariffs <strong>progressed differently for each country</strong>; some saw rapid deployment while others experienced phased or limited rollouts.</p>

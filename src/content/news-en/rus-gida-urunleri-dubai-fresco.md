@@ -1,16 +1,23 @@
 ---
-title: "First Refrigerated Container of Russian Food Products Shipped from Moscow to Dubai"
-subtitle: "First Refrigerated Container of Russian Food Products Shipped from Moscow to Dubai"
-date: "2025-01-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ac444aa20f584f48aa36dad6a9c60a5a~mv2.jpg"
-imageAlt: "First Refrigerated Container of Russian Food Products Shipped from Moscow to Dubai"
-wixId: "0813a308-728a-488a-af72-efb89f977e59"
-author: "Sedat Onat"
+title: First Refrigerated Container of Russian Food Products Shipped from Moscow to Dubai
+subtitle: First Refrigerated Container of Russian Food Products Shipped from Moscow to Dubai
+date: '2025-01-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_ac444aa20f584f48aa36dad6a9c60a5a~mv2.jpg
+imageAlt: First Refrigerated Container of Russian Food Products Shipped from Moscow to Dubai
+wixId: 0813a308-728a-488a-af72-efb89f977e59
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- refrigerated container
+- air cargo
+- Emirates SkyCargo
+- Russia
+- Dubai
+- food exports
+- Moscow Cargo
 ---
-
 <p style="text-align: justify">A significant step has been taken in the transportation of food products from Russia to the United Arab Emirates (UAE). The first refrigerated container was shipped from the <strong>Moscow Cargo</strong> terminal to Dubai via <strong>Emirates SkyCargo</strong>. This development contributes to strengthening commercial relations between Russia and the UAE.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Moscow Cargo</strong>, located at <strong>Sheremetyevo International Airport</strong>, is known as Russia's largest cargo terminal. This terminal is equipped with all the modern infrastructure necessary for the storage and transportation of refrigerated containers. <strong>Emirates SkyCargo</strong> is recognized as one of the leading air cargo carriers globally.</p>

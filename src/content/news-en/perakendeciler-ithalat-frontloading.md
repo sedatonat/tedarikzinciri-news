@@ -1,16 +1,24 @@
 ---
-title: "Retailers Accelerate Imports Ahead of Tariffs"
-subtitle: "Retailers Accelerate Imports Ahead of Tariffs"
-date: "2025-03-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_525692a42a9f4060aa967f5f63802843~mv2.jpg"
-imageAlt: "Retailers Accelerate Imports Ahead of Tariffs"
-wixId: "df839fa4-6622-406f-b887-349c354b46a2"
-author: "Sedat Onat"
+title: Retailers Accelerate Imports Ahead of Tariffs
+subtitle: Retailers Accelerate Imports Ahead of Tariffs
+date: '2025-03-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_525692a42a9f4060aa967f5f63802843~mv2.jpg
+imageAlt: Retailers Accelerate Imports Ahead of Tariffs
+wixId: df839fa4-6622-406f-b887-349c354b46a2
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- tariffs
+- retail
+- imports
+- Trump
+- port volumes
+- supply chain
+- NRF
+- China
 ---
-
 <p style="text-align: justify">Retailers are accelerating their imports amid uncertainty over the <strong>Trump</strong> administration's trade policy stance. According to the <a href="https://nrf.com/"><u><strong>National Retail Federation (NRF)</strong></u></a> and <a href="https://www.hackettassociatesllc.com/"><u><strong>Hackett Associates</strong></u></a>' <a href="https://www.hackettassociatesllc.com/global-port-tracker-north-america"><u><strong>Global Port Tracker</strong></u></a> report, cargo volumes at U.S. ports are expected to remain at elevated levels over the next three months.&nbsp;</p>
 <p><br></p>
 <p style="text-align: justify">In January, U.S. ports recorded a year-over-year increase of 13.4%. February is projected to see a 6.1% increase, while March is expected to reach 10.8%. <strong>Jonathan Gold</strong>, the NRF's vice president of supply chain and customs policy, noted that retailers continue to bring in as much goods as possible before tariff increases take effect.&nbsp;</p>

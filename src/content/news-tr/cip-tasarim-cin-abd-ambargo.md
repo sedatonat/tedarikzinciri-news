@@ -1,14 +1,23 @@
 ---
-title: "ABD, Çin’e Çip Tasarım Yazılımları ve Kimyasal Ürün İhracatına Yeni Kısıtlamalar Getirdi"
-subtitle: "ABD, Çin’e Çip Tasarım Yazılımları ve Kimyasal Ürün İhracatına Yeni Kısıtlamalar Getirdi"
-date: "2025-05-29T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_520ef35fe21247ef96731fc6d0950188~mv2.jpg"
-imageAlt: "ABD, Çin’e Çip Tasarım Yazılımları ve Kimyasal Ürün İhracatına Yeni Kısıtlamalar Getirdi"
-wixId: "c844bfdc-6860-47e4-a81c-3a1b98f77eb6"
-author: "Sedat Onat"
+title: ABD, Çin’e Çip Tasarım Yazılımları ve Kimyasal Ürün İhracatına Yeni Kısıtlamalar Getirdi
+subtitle: ABD, Çin’e Çip Tasarım Yazılımları ve Kimyasal Ürün İhracatına Yeni Kısıtlamalar Getirdi
+date: '2025-05-29T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_520ef35fe21247ef96731fc6d0950188~mv2.jpg
+imageAlt: ABD, Çin’e Çip Tasarım Yazılımları ve Kimyasal Ürün İhracatına Yeni Kısıtlamalar Getirdi
+wixId: c844bfdc-6860-47e4-a81c-3a1b98f77eb6
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD
+- Çin
+- EDA yazılımı
+- yarı iletken
+- ihracat kısıtlaması
+- Synopsys
+- Cadence
+- tedarik zinciri
 ---
 <p style="text-align: justify"><strong>ABD Ticaret Bakanlığı</strong>, Çin’in stratejik teknolojilere erişimini sınırlamak amacıyla <strong>yarı iletken tasarım yazılımları, kimyasallar, makine aletleri, uçak ekipmanları ve yakıt ürünleri</strong> dâhil olmak üzere birçok ürün grubuna <strong>ihracat lisansı zorunluluğu</strong> getirdi.</p>
 <p style="text-align: justify"><br>

@@ -1,16 +1,24 @@
 ---
-title: "Bulgaria and North Macedonia Sign Official Agreement for First Railway Border Crossing"
-subtitle: "Bulgaria and North Macedonia Sign Official Agreement for First Railway Border Crossing"
-date: "2025-11-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_95da2acf22474e87b56cfc30885ab24d~mv2.jpeg"
-imageAlt: "Bulgaria and North Macedonia have signed an agreement to create the first railway border crossing in history between the two countries by constructing a railway tunnel that will pass beneath the Deve Bair mountain; the project marks a critical step in completing Corridor VIII."
-wixId: "2bf3a56a-149b-471a-8c9a-69eb724443ad"
-author: "Sedat Onat"
+title: Bulgaria and North Macedonia Sign Official Agreement for First Railway Border Crossing
+subtitle: Bulgaria and North Macedonia Sign Official Agreement for First Railway Border Crossing
+date: '2025-11-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_95da2acf22474e87b56cfc30885ab24d~mv2.jpeg
+imageAlt: Bulgaria and North Macedonia have signed an agreement to create the first railway border crossing in history between the two countries by constructing a railway tunnel that will pass beneath the Deve Bair mountain; the project marks a critical step in completing Corridor VIII.
+wixId: 2bf3a56a-149b-471a-8c9a-69eb724443ad
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Bulgaria
+- North Macedonia
+- rail infrastructure
+- Corridor VIII
+- border crossing
+- Deve Bair tunnel
+- Balkans
+- European Union
 ---
-
 <p style="text-align: justify">Bulgaria and North Macedonia have taken a historic step to create <strong>the first railway border crossing</strong> between the two nations. An agreement signed on November 10, 2025, by the transport ministers of both countries envisages the construction of <strong>a new border tunnel passing beneath Deve Bair mountain</strong>. The project is being regarded as a "historic turning point" for the completion of <strong>Corridor VIII</strong>, one of the Western Balkans' most important transport corridors.</p>
 <p><br></p>
 <p style="text-align: justify">According to a statement by Bulgaria's Ministry of Transport, the agreement is of strategic importance in that it will strengthen regional connectivity, increase logistics capacity, and bind the two countries more tightly to European transport systems. Sofia has described the Deve Bair tunnel as "the most concrete step yet taken toward finally completing the missing link of Corridor VIII."</p>

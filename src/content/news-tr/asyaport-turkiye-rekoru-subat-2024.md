@@ -1,14 +1,22 @@
 ---
-title: "Asyaport, Şubat 2024'te Kırdığı Rekorla Türkiye'nin Zirvesinde"
-subtitle: "Asyaport, Şubat 2024'te Kırdığı Rekorla Türkiye'nin Zirvesinde"
-date: "2024-03-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7bdd730b18bb4521b01f2c71490cbc32~mv2.jpg"
-imageAlt: "Asyaport, Şubat 2024'te Kırdığı Rekorla Türkiye'nin Zirvesinde"
-wixId: "d4287fa6-7ef7-4efa-9672-abafb4cd8af4"
-author: "Sedat Onat"
+title: Asyaport, Şubat 2024'te Kırdığı Rekorla Türkiye'nin Zirvesinde
+subtitle: Asyaport, Şubat 2024'te Kırdığı Rekorla Türkiye'nin Zirvesinde
+date: '2024-03-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7bdd730b18bb4521b01f2c71490cbc32~mv2.jpg
+imageAlt: Asyaport, Şubat 2024'te Kırdığı Rekorla Türkiye'nin Zirvesinde
+wixId: d4287fa6-7ef7-4efa-9672-abafb4cd8af4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Asyaport
+- konteyner limanı
+- TEU rekoru
+- Kızıldeniz
+- MSC
+- transit yük
+- liman genişletme
 ---
 <p><a href="https://www.asyaport.com/en-US"><u>Asyaport</u></a>, 2024 Şubat ayında Türkiye'deki en büyük transit konteyner limanı olarak, 29 gün içinde 206 bin TEU üzeri yük elleçleyerek yeni bir rekora imza attı. Bu başarı, geçen yıl 1033 konteyner gemisi ağırlaması ve 24 milyon ton yük elleçlemesiyle elde edilen deneyimin üzerine inşa edildi. Kızıldeniz'deki durumdan olumlu yönde etkilenen Asyaport, özellikle Kuzey Avrupa'dan gelen yüklerin Arap Körfezi ülkelerine aktarımında kritik bir rol oynadı. <a href="https://www.msc.com/"><u>MSC</u></a>'nin <a href="https://www.asyaport.com/en-US"><u>Asyaport'u </u></a>tercih etmesiyle, limanın elleçleme hacmi daha da artış gösterdi.&nbsp;</p>
 <p><br></p>

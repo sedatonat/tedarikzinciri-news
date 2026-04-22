@@ -1,16 +1,23 @@
 ---
-title: "Trump Administration Backs Away From Atlantic Offshore Oil Drilling Plans"
-subtitle: "Trump Administration Backs Away From Atlantic Offshore Oil Drilling Plans"
-date: "2025-10-29T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d97ceb1ba78d461cb70ee559a44a1e71~mv2.jpg"
-imageAlt: "The Trump administration has withdrawn its plan to auction offshore oil and natural gas exploration licenses along the U.S. East Coast. The decision came amid concerns about potential damage to tourism, particularly in Southeast Republican states, and environmental backlash."
-wixId: "a03a67bb-374c-4417-b4c1-a221cc08dbbf"
-author: "Sedat Onat"
+title: Trump Administration Backs Away From Atlantic Offshore Oil Drilling Plans
+subtitle: Trump Administration Backs Away From Atlantic Offshore Oil Drilling Plans
+date: '2025-10-29T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_d97ceb1ba78d461cb70ee559a44a1e71~mv2.jpg
+imageAlt: The Trump administration has withdrawn its plan to auction offshore oil and natural gas exploration licenses along the U.S. East Coast. The decision came amid concerns about potential damage to tourism, particularly in Southeast Republican states, and environmental backlash.
+wixId: a03a67bb-374c-4417-b4c1-a221cc08dbbf
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Trump administration
+- offshore drilling
+- oil exploration
+- Atlantic
+- Gulf of Mexico
+- energy security
+- environmental policy
 ---
-
 <p style="text-align: justify"><strong>Bloomberg</strong> reported that the <strong>Trump administration</strong> has backed away from its plan to <strong>auction offshore oil and natural gas drilling rights along the Atlantic coast of the United States</strong>. The decision came following <strong>strong opposition from Republican states in the Southeast region</strong> and <strong>environmental organizations</strong>.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Reasons for the reversal: Political and environmental pressure</strong></h5>

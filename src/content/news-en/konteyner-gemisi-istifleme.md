@@ -1,16 +1,23 @@
 ---
-title: "How Are Containers Loaded and Stowed on Container Ships?"
-subtitle: "How Are Containers Loaded and Stowed on Container Ships?"
-date: "2024-11-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c180e96d92394228a05e6cba047fd990~mv2.jpg"
-imageAlt: "A video and process explanation showing how boxes are organized on a container ship according to weight, size, and destination."
-wixId: "b26be436-7aae-4e42-b474-8ca42041f71b"
-author: "Sedat Onat"
+title: How Are Containers Loaded and Stowed on Container Ships?
+subtitle: How Are Containers Loaded and Stowed on Container Ships?
+date: '2024-11-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c180e96d92394228a05e6cba047fd990~mv2.jpg
+imageAlt: A video and process explanation showing how boxes are organized on a container ship according to weight, size, and destination.
+wixId: b26be436-7aae-4e42-b474-8ca42041f71b
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- container ship
+- load planning
+- stowage
+- vessel stability
+- stowage planning
+- port operations
+- maritime logistics
 ---
-
 <p style="text-align: justify">Modern container ships are massive logistics platforms that form the backbone of global trade and can simultaneously transport thousands of containers. These vessels play a critical role in moving electronics, textiles, food, machinery, chemicals, and a diverse range of industrial products to world markets. Yet how such vast quantities of cargo are organized, secured, and balanced on the ship is a subject of considerable curiosity for many.</p>
 <p><br></p>
 <p style="text-align: justify">A video shared by Ali Al Samahi on X demonstrates just how complex and scientifically grounded cargo organization on container ships truly is. The footage clearly shows how containers are positioned on the ship's deck and in the lower hold sections, how each slot is planned, and how cargo balance is maintained.</p>

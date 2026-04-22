@@ -1,16 +1,23 @@
 ---
-title: "U.S. Announces Largest Maritime Sanctions Package Against Russia"
-subtitle: "U.S. Announces Largest Maritime Sanctions Package Against Russia"
-date: "2025-01-13T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d165e2c47729433a8f78f9a311eae687~mv2.jpeg"
-imageAlt: "U.S. Announces Largest Maritime Sanctions Package Against Russia"
-wixId: "f6ec3be8-5a1b-435a-86c7-0a93883687c3"
-author: "Sedat Onat"
+title: U.S. Announces Largest Maritime Sanctions Package Against Russia
+subtitle: U.S. Announces Largest Maritime Sanctions Package Against Russia
+date: '2025-01-13T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_d165e2c47729433a8f78f9a311eae687~mv2.jpeg
+imageAlt: U.S. Announces Largest Maritime Sanctions Package Against Russia
+wixId: f6ec3be8-5a1b-435a-86c7-0a93883687c3
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- US sanctions
+- Russia
+- maritime
+- energy trade
+- Ukraine war
+- shipping
+- logistics network
 ---
-
 <p style="text-align: justify">The United States has rolled out its largest maritime sanctions package to prevent Russia from financing its war in Ukraine. Under this new sanctions regime, numerous companies, vessels, and individuals instrumental in Russia's shipping and commerce operations have been targeted. These sanctions are particularly aimed at delivering a significant blow to energy trade.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>The U.S. Treasury Department</strong>, <strong>State Department</strong>, and <strong>Commerce Department</strong> have coordinated efforts to expand the blacklist. The sanctions are designed to restrict the country's war financing by making it difficult for Russia to generate revenues from its energy sector.</p>

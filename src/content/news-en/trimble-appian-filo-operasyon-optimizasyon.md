@@ -1,16 +1,23 @@
 ---
-title: "Optimize Your Fleet Operations with Trimble Appian's Latest Technology Enhancements"
-subtitle: "Optimize Your Fleet Operations with Trimble Appian's Latest Technology Enhancements"
-date: "2025-02-03T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_65defaba06a944988378e731e5c6ee0f~mv2.jpg"
-imageAlt: "Optimize Your Fleet Operations with Trimble Appian's Latest Technology Enhancements"
-wixId: "c4b1e845-2b29-42c4-a6a4-368e47211ed3"
-author: "Sedat Onat"
+title: Optimize Your Fleet Operations with Trimble Appian's Latest Technology Enhancements
+subtitle: Optimize Your Fleet Operations with Trimble Appian's Latest Technology Enhancements
+date: '2025-02-03T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_65defaba06a944988378e731e5c6ee0f~mv2.jpg
+imageAlt: Optimize Your Fleet Operations with Trimble Appian's Latest Technology Enhancements
+wixId: c4b1e845-2b29-42c4-a6a4-368e47211ed3
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Trimble
+- Appian
+- fleet management
+- real-time tracking
+- logistics technology
+- route optimization
+- operational efficiency
 ---
-
 <p style="text-align: justify"><strong>Trimble</strong> and <strong>Appian</strong> have announced the latest technology enhancements designed to make fleet operations more efficient. These innovations help companies operating in the transportation and logistics sector optimize their operational processes.</p>
 <p><br></p>
 <p style="text-align: justify">Among the new technologies are <strong>real-time tracking</strong> and <strong>analytics tools</strong>. This enables fleet managers to monitor vehicle locations in real time and optimize routes. Additionally, important metrics such as <strong>fuel consumption</strong> and <strong>driving behavior</strong> are analyzed to achieve cost savings.</p>

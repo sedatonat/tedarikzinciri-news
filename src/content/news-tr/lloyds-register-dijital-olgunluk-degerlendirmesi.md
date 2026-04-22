@@ -1,14 +1,22 @@
 ---
-title: "Lloyd's Register'dan Denizcilik Sektörüne Dijital Olgunluk Değerlendirmesi"
-subtitle: "Lloyd's Register'dan Denizcilik Sektörüne Dijital Olgunluk Değerlendirmesi"
-date: "2024-10-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_41876b5951754d4ead43bcc006bc3953~mv2.jpg"
-imageAlt: "Lloyd's Register'dan Denizcilik Sektörüne Dijital Olgunluk Değerlendirmesi"
-wixId: "994dd7b2-2186-4ca8-a713-4daff3a7dbcd"
-author: "Sedat Onat"
+title: Lloyd's Register'dan Denizcilik Sektörüne Dijital Olgunluk Değerlendirmesi
+subtitle: Lloyd's Register'dan Denizcilik Sektörüne Dijital Olgunluk Değerlendirmesi
+date: '2024-10-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_41876b5951754d4ead43bcc006bc3953~mv2.jpg
+imageAlt: Lloyd's Register'dan Denizcilik Sektörüne Dijital Olgunluk Değerlendirmesi
+wixId: 994dd7b2-2186-4ca8-a713-4daff3a7dbcd
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Lloyd's Register
+- dijital olgunluk
+- denizcilik sektörü
+- dijital dönüşüm
+- Thetius
+- siber güvenlik
+- bulut bilişim
 ---
 <p>Lloyd's Register (LR), bir organizasyonun dijital olgunluğunu değerlendirmek ve kıyaslamak için tasarlanan Digital Maturity Framework ve Index'in yayınlandığını duyurdu. LR, bu çalışmayı 'The Benchmark' adlı dijital olgunluk modelini oluşturan Thetius ile iş birliği içinde gerçekleştirdi.</p>
 <p><br></p>

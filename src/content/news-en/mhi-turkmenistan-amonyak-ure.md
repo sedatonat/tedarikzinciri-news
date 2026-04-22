@@ -1,16 +1,24 @@
 ---
-title: "Mitsubishi Heavy Industries Signs EPC Contract for Major Ammonia and Urea Complex in Turkmenistan"
-subtitle: "Mitsubishi Heavy Industries Signs EPC Contract for Major Ammonia and Urea Complex in Turkmenistan"
-date: "2025-11-10T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_c24f89fa288e4c28a80a27948d05984f~mv2.jpg"
-imageAlt: "Mitsubishi Heavy Industries, together with GAP İnşaat, signed an EPC contract to build the country's largest fertilizer complex on the Kiyanly shore in the Balkan region of Turkmenistan, which will produce 2,000 tons of ammonia and 3,500 tons of urea daily."
-wixId: "e5eff050-8fb9-403b-966a-c8301f4c5264"
-author: "Sedat Onat"
+title: Mitsubishi Heavy Industries Signs EPC Contract for Major Ammonia and Urea Complex in Turkmenistan
+subtitle: Mitsubishi Heavy Industries Signs EPC Contract for Major Ammonia and Urea Complex in Turkmenistan
+date: '2025-11-10T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_c24f89fa288e4c28a80a27948d05984f~mv2.jpg
+imageAlt: Mitsubishi Heavy Industries, together with GAP İnşaat, signed an EPC contract to build the country's largest fertilizer complex on the Kiyanly shore in the Balkan region of Turkmenistan, which will produce 2,000 tons of ammonia and 3,500 tons of urea daily.
+wixId: e5eff050-8fb9-403b-966a-c8301f4c5264
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Mitsubishi Heavy Industries
+- Turkmenistan
+- ammonia production
+- urea production
+- EPC contract
+- CO₂ capture
+- GAP Construction
+- fertilizer plant
 ---
-
 <p style="text-align: justify"><strong>Mitsubishi Heavy Industries (MHI)</strong> has signed an <strong>EPC (engineering, procurement and construction)</strong> contract with Turkmenistan's state chemical company <strong>SC Turkmenhimiya</strong> to build the country's largest ammonia and urea production complex. The project is being executed jointly with Turkey-based <strong>GAP İnşaat</strong>, and the groundbreaking ceremony was held on November 2, 2025, with the participation of Turkmenistan's President <strong>Serdar Berdimuhamedov</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The new facility will be located on the Caspian Sea shore in the <strong>Kiyanly</strong> region of Balkan state and is planned to commence operations in 2030.</p>

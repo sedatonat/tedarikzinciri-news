@@ -1,14 +1,22 @@
 ---
-title: "Türkiye’nin İlk Özel Intermodal Terminali Railport Operasyona Başladı"
-subtitle: "Türkiye’nin İlk Özel Intermodal Terminali Railport Operasyona Başladı"
-date: "2025-11-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_883f4730340c4bd49e75062d3b1eb966~mv2.jpg"
-imageAlt: "Railport’un METRANS operatörlüğündeki ilk treniyle faaliyete geçmesi, terminalin kapasitesi, altyapısı, intermodal avantajları ve Türkiye–Avrupa yük taşımacılığına etkilerinin detaylı özeti."
-wixId: "db73eb1e-38d7-48da-97e9-fdbb47e96473"
-author: "Sedat Onat"
+title: Türkiye’nin İlk Özel Intermodal Terminali Railport Operasyona Başladı
+subtitle: Türkiye’nin İlk Özel Intermodal Terminali Railport Operasyona Başladı
+date: '2025-11-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_883f4730340c4bd49e75062d3b1eb966~mv2.jpg
+imageAlt: Railport’un METRANS operatörlüğündeki ilk treniyle faaliyete geçmesi, terminalin kapasitesi, altyapısı, intermodal avantajları ve Türkiye–Avrupa yük taşımacılığına etkilerinin detaylı özeti.
+wixId: db73eb1e-38d7-48da-97e9-fdbb47e96473
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Railport
+- intermodal terminal
+- demiryolu taşımacılığı
+- Arkas Holding
+- duisport
+- METRANS
+- Türkiye-Avrupa koridoru
 ---
 <p style="text-align: justify">Türkiye’nin ilk özel intermodal terminali olan <strong>Railport</strong>, 21 Kasım’da <strong>METRANS</strong> tarafından işletilen açılış treninin hareketiyle resmi olarak operasyonlarına başladı. <strong>Arkas Holding</strong> ve Almanya merkezli <strong>duisport</strong> ortaklığında geliştirilen terminal, Türkiye ile Avrupa arasında giderek yoğunlaşan intermodal taşımacılık talebine yanıt vermek üzere tasarlandı. Yeni tesis, ülkedeki demiryolu tabanlı lojistik kapasitesini genişletecek önemli bir dönüm noktası olarak değerlendiriliyor.</p>
 <p><br></p>

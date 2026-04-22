@@ -1,16 +1,23 @@
 ---
-title: "Minimizing the Risks Associated with Extreme Weather"
-subtitle: "Minimizing the Risks Associated with Extreme Weather"
-date: "2025-05-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_9dd10aab313542bfae427f40d3a4ec5f~mv2.png"
-imageAlt: "Minimizing the Risks Associated with Extreme Weather"
-wixId: "9be5e3d0-dc61-4d45-aa22-ae64094b0ad4"
-author: "Sedat Onat"
+title: Minimizing the Risks Associated with Extreme Weather
+subtitle: Minimizing the Risks Associated with Extreme Weather
+date: '2025-05-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_9dd10aab313542bfae427f40d3a4ec5f~mv2.png
+imageAlt: Minimizing the Risks Associated with Extreme Weather
+wixId: 9be5e3d0-dc61-4d45-aa22-ae64094b0ad4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- extreme weather events
+- climate resilience
+- risk management
+- artificial intelligence
+- early warning system
+- multisourcing
+- business continuity
 ---
-
 <p style="text-align: justify"><strong>Extreme weather events</strong> are increasingly disrupting <strong>supply chains and logistics networks</strong> on a global scale. The impact of climate events such as flooding, storms, fires, and extreme temperatures affects not only transportation but also manufacturing, storage, and supply planning directly. This situation is driving companies to reshape their <strong>climate resilience</strong> strategies.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Within the risk mitigation framework, organizations are using <strong>climate risk modeling</strong> tools to analyze the vulnerability of infrastructure and supply points. These models identify which regions are exposed to which risks, enabling the preparation of <strong>prioritized intervention plans</strong>. Additionally, <strong>multi-sourcing</strong> and <strong>buffer inventory</strong> practices soften the impact of supply disruptions and enhance operational flexibility.</p>

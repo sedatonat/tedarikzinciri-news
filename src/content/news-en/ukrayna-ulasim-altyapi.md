@@ -1,16 +1,23 @@
 ---
-title: "Ukraine Establishes New Support Fund for Transport Infrastructure: Joint Declaration Signed with Canada, Lithuania, and Sweden"
-subtitle: "Ukraine Establishes New Support Fund for Transport Infrastructure: Joint Declaration Signed with Canada, Lithuania, and Sweden"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e4b501ae77dc4295a32591d8c68ac10f~mv2.jpg"
-imageAlt: "Ukraine's UTSF joint declaration signed with Canada, Lithuania, and Sweden detailing the objectives of the international support fund for transport infrastructure, European connectivity, and strategic modernization targets"
-wixId: "a3a8d896-9166-4561-a660-e9f6a854217c"
-author: "Sedat Onat"
+title: 'Ukraine Establishes New Support Fund for Transport Infrastructure: Joint Declaration Signed with Canada, Lithuania, and Sweden'
+subtitle: 'Ukraine Establishes New Support Fund for Transport Infrastructure: Joint Declaration Signed with Canada, Lithuania, and Sweden'
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e4b501ae77dc4295a32591d8c68ac10f~mv2.jpg
+imageAlt: Ukraine's UTSF joint declaration signed with Canada, Lithuania, and Sweden detailing the objectives of the international support fund for transport infrastructure, European connectivity, and strategic modernization targets
+wixId: a3a8d896-9166-4561-a660-e9f6a854217c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Ukraine
+- transportation infrastructure
+- logistics corridors
+- rail
+- EU integration
+- reconstruction
+- border crossings
 ---
-
 <p style="text-align: justify">Ukraine has taken a significant step toward establishing a new international fund for <strong>strengthening transport infrastructure</strong>, a critical component of post-war reconstruction efforts. The Kyiv administration, together with <strong>Canada</strong>, <strong>Lithuania</strong>, and <strong>Sweden</strong>, has signed a joint declaration for the <strong>Ukraine Transport Support Fund (UTSF)</strong>. The UTSF will be an international financing mechanism designed to address both urgent and long-term infrastructure needs.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Serhiy Derkach</strong>, First Deputy Minister of Ukraine responsible for crisis management, community development, and regional development, emphasized the fund's strategic importance, stating that the UTSF is not merely a <strong>political commitment</strong> but a <strong>"practical tool delivering real, tangible projects"</strong>. According to Derkach, the fund will play a central role in the processes of <strong>restoration &amp; modernization</strong> of roads, bridges, border checkpoints, logistics corridors, and public transport systems.</p>

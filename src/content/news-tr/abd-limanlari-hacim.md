@@ -1,14 +1,23 @@
 ---
-title: "ABD Limanları: Hacimlere Göre Deniz Kargo Eğilimleri"
-subtitle: "ABD Limanları: Hacimlere Göre Deniz Kargo Eğilimleri"
-date: "2025-01-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f2da2eaf1bd5408e81f85a54d6d82668~mv2.jpg"
-imageAlt: "ABD Limanları: Hacimlere Göre Deniz Kargo Eğilimleri"
-wixId: "6585b417-0c86-43f9-9405-2e42a6b02843"
-author: "Sedat Onat"
+title: 'ABD Limanları: Hacimlere Göre Deniz Kargo Eğilimleri'
+subtitle: 'ABD Limanları: Hacimlere Göre Deniz Kargo Eğilimleri'
+date: '2025-01-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f2da2eaf1bd5408e81f85a54d6d82668~mv2.jpg
+imageAlt: 'ABD Limanları: Hacimlere Göre Deniz Kargo Eğilimleri'
+wixId: 6585b417-0c86-43f9-9405-2e42a6b02843
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD limanları
+- deniz kargo
+- konteyner hacmi
+- TEU
+- liman operasyonları
+- Doğu Kıyısı
+- Port of Los Angeles
+- ticaret eğilimleri
 ---
 <p style="text-align: justify">ABD'deki deniz limanları, uluslararası ticaretin önemli bir göstergesi olarak kabul edilmekte. 2022 yılında, deniz kapıları uluslararası yük değerinin %40'ını işlemiştir. Bu nedenle, liman hacimlerini izlemek, ülke genelindeki ticaret eğilimlerini anlamak için kritik öneme sahiptir.</p>
 <p style="text-align: justify"><br></p>

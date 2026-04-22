@@ -1,14 +1,22 @@
 ---
-title: "Uluslararası Intermodal Pazarında 2025'te Daralma Bekleniyor"
-subtitle: "Uluslararası Intermodal Pazarında 2025'te Daralma Bekleniyor"
-date: "2024-12-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_cb7d263c0de54f3b8ebeb7a7052bd33e~mv2.jpg"
-imageAlt: "Uluslararası Intermodal Pazarında 2025'te Daralma Bekleniyor"
-wixId: "d4075ac1-b3f1-49e3-a0ff-e4dc01166182"
-author: "Sedat Onat"
+title: Uluslararası Intermodal Pazarında 2025'te Daralma Bekleniyor
+subtitle: Uluslararası Intermodal Pazarında 2025'te Daralma Bekleniyor
+date: '2024-12-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_cb7d263c0de54f3b8ebeb7a7052bd33e~mv2.jpg
+imageAlt: Uluslararası Intermodal Pazarında 2025'te Daralma Bekleniyor
+wixId: d4075ac1-b3f1-49e3-a0ff-e4dc01166182
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- intermodal taşımacılık
+- Kuzey Amerika
+- konteyner
+- demiryolu
+- hava kargo
+- Süveyş Kanalı
+- ISO konteyner
 ---
 <p><strong>Gross Transportation Consulting</strong> başkanı ve <strong>Journal of Commerce</strong> analisti <strong>Larry Gross</strong>, 2024 yılında Kuzey Amerika intermodal taşımacılığının dış etkenlerin etkisiyle güçlü ancak dalgalı bir dönem geçirdiğini belirtiyor. <strong>Association of American Railroads (AAR)</strong> verilerine göre, Aralık ayının ilk haftasına kadar Kuzey Amerika intermodal başlangıçları yıllık bazda %7,5 artış gösterdi. Bu büyümenin ana kaynağı, uluslararası intermodal segmentindeki hareketlilik oldu.</p>
 <p><br></p>

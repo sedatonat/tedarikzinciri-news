@@ -1,16 +1,24 @@
 ---
-title: "U.S. Justice Department Reaches $103 Million Settlement with Grace Ocean and Synergy Marine"
-subtitle: "U.S. Justice Department Reaches $103 Million Settlement with Grace Ocean and Synergy Marine"
-date: "2024-10-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_fcfe9fbcd21b4f928c435149ca677c93~mv2.jpg"
-imageAlt: "U.S. Justice Department Reaches $103 Million Settlement with Grace Ocean and Synergy Marine"
-wixId: "d7a1da48-a4f2-453d-9902-e2988372fca3"
-author: "Sedat Onat"
+title: U.S. Justice Department Reaches $103 Million Settlement with Grace Ocean and Synergy Marine
+subtitle: U.S. Justice Department Reaches $103 Million Settlement with Grace Ocean and Synergy Marine
+date: '2024-10-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_fcfe9fbcd21b4f928c435149ca677c93~mv2.jpg
+imageAlt: U.S. Justice Department Reaches $103 Million Settlement with Grace Ocean and Synergy Marine
+wixId: d7a1da48-a4f2-453d-9902-e2988372fca3
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Port of Baltimore
+- Grace Ocean
+- Synergy Marine
+- bridge accident
+- maritime law
+- Singapore
+- settlement agreement
+- port operations
 ---
-
 <h5>The U.S. Justice Department announced that Singapore-based Grace Ocean and Synergy Marine, operators of the vessel Dali that caused the collapse of the Francis Scott Key Bridge, have agreed to settle $103 million in civil damages claims.</h5>
 <p><br></p>
 <p>This settlement resolves $103 million in civil damage claims sought by the United States under the Rivers and Harbors Act, Oil Pollution Act, and fundamental maritime law. Funds obtained from the settlement will be transferred to the U.S. Treasury and to the budgets of various government departments directly affected by or involved in the response efforts.</p>

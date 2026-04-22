@@ -1,16 +1,23 @@
 ---
-title: "Generative AI, the Next Phase of Artificial Intelligence, Demonstrates Potential in Legal Processes"
-subtitle: "Generative AI, the Next Phase of Artificial Intelligence, Demonstrates Potential in Legal Processes"
-date: "2023-12-16T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_15ac2a206054473986d5d0b6e4a0c630~mv2.jpg"
-imageAlt: "Generative AI, the Next Phase of Artificial Intelligence, Demonstrates Potential in Legal Processes"
-wixId: "79a2419a-c666-44f7-be07-e66db49b8527"
-author: "Sedat Onat"
+title: Generative AI, the Next Phase of Artificial Intelligence, Demonstrates Potential in Legal Processes
+subtitle: Generative AI, the Next Phase of Artificial Intelligence, Demonstrates Potential in Legal Processes
+date: '2023-12-16T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_15ac2a206054473986d5d0b6e4a0c630~mv2.jpg
+imageAlt: Generative AI, the Next Phase of Artificial Intelligence, Demonstrates Potential in Legal Processes
+wixId: 79a2419a-c666-44f7-be07-e66db49b8527
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- generative AI
+- Gen AI
+- contract management
+- legal processes
+- Icertis
+- compliance
+- digital transformation
 ---
-
 <p><a href="https://www.icertis.com/"><u>Icertis</u></a> research projects that by 2026, 85% of legal teams will employ <a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence"><u>Generative AI (Gen AI)</u></a> to drive greater productivity in compliance. Gen AI is an AI technology capable of generating text, images, audio, video, and synthetic data.</p>
 <ul>
   <li><p>85% of professionals believe legal and compliance departments will make extensive use of Gen AI within the next three years.</p></li>

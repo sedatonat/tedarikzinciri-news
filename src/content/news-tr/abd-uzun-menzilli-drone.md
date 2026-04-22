@@ -1,14 +1,23 @@
 ---
-title: "ABD Uzun Menzilli Drone Kurallarını Gevşetiyor: Walmart Ve Alphabet İçin İvme"
-subtitle: "ABD Uzun Menzilli Drone Kurallarını Gevşetiyor: Walmart Ve Alphabet İçin İvme"
-date: "2025-08-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3000e0d0c5ee4b91a93d335ce94357d1~mv2.png"
-imageAlt: "Abd Uzun Menzilli Drone Kurallarını Gevşetiyor: Walmart Ve Alphabet İçin İvme"
-wixId: "b145e0fc-3142-4034-a0db-950d88867aeb"
-author: "Sedat Onat"
+title: 'ABD Uzun Menzilli Drone Kurallarını Gevşetiyor: Walmart Ve Alphabet İçin İvme'
+subtitle: 'ABD Uzun Menzilli Drone Kurallarını Gevşetiyor: Walmart Ve Alphabet İçin İvme'
+date: '2025-08-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3000e0d0c5ee4b91a93d335ce94357d1~mv2.png
+imageAlt: 'Abd Uzun Menzilli Drone Kurallarını Gevşetiyor: Walmart Ve Alphabet İçin İvme'
+wixId: b145e0fc-3142-4034-a0db-950d88867aeb
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- drone teslimat
+- BVLOS
+- Walmart
+- Alphabet
+- son kilometre
+- mikro depolama
+- sürdürülebilir lojistik
+- ABD regülasyonları
 ---
 <p style="text-align: justify"><strong>ABD’de uzun menzilli drone operasyonlarına</strong> ilişkin regülasyonların esnetilmesi, hem <strong>perakende hem de teknoloji sektörlerinde</strong> teslimat ve denetim uygulamalarında yeni bir dönemi başlatıyor. Yeni düzenlemeler, <strong>BVLOS (Beyond Visual Line of Sight)</strong> uçuşlar için <strong>sertifikasyon süreçlerini kolaylaştırırken</strong>, aynı zamanda <strong>detect-and-avoid</strong> sistemlerinin standartlaştırılmasıyla <strong>güvenlik seviyesini korumayı</strong> hedefliyor. Bu gelişme, drone operasyonlarının artık yalnızca test aşamasından çıkıp <strong>ticari ölçeklemeye</strong> geçtiğini gösteriyor.</p>
 <p style="text-align: justify"><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Güney Kore Gemi İnşa Sektöründe İşgücü Açığını Özbekistan ile Kapatıyor"
-subtitle: "Güney Kore Gemi İnşa Sektöründe İşgücü Açığını Özbekistan ile Kapatıyor"
-date: "2025-03-13T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_eaf71368f2594fce8f9b219156c5ab68~mv2.jpg"
-imageAlt: "Güney Kore Gemi İnşa Sektöründe İşgücü Açığını Özbekistan ile Kapatıyor"
-wixId: "c057652c-2e03-424c-b227-fa4e92ed470e"
-author: "Sedat Onat"
+title: Güney Kore Gemi İnşa Sektöründe İşgücü Açığını Özbekistan ile Kapatıyor
+subtitle: Güney Kore Gemi İnşa Sektöründe İşgücü Açığını Özbekistan ile Kapatıyor
+date: '2025-03-13T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_eaf71368f2594fce8f9b219156c5ab68~mv2.jpg
+imageAlt: Güney Kore Gemi İnşa Sektöründe İşgücü Açığını Özbekistan ile Kapatıyor
+wixId: c057652c-2e03-424c-b227-fa4e92ed470e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Güney Kore
+- gemi inşa
+- Özbekistan
+- işgücü açığı
+- tersane
+- yabancı işçi
+- Ulsan
 ---
 <p style="text-align: justify">Güney Kore, gemi inşa sektöründe yaşanan ciddi işgücü sıkıntısını gidermek için denize kıyısı olmayan <strong>Özbekistan</strong>'dan işçi alımı yapma yoluna gitmiştir. Bu kapsamda, yaklaşık 280 Özbek işçi, bu yaz <strong>Ulsan</strong> şehri etrafındaki çeşitli tersanelerde çalışmaya başlayacaktır. İşçilere saat başı 10.030 won (yaklaşık 7,60 $) olan Güney Kore asgari ücreti ödenecektir.</p>
 <p><br></p>

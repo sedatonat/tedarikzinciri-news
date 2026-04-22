@@ -1,16 +1,23 @@
 ---
-title: "Uber Freight and Better Trucks Join Forces to Expand Last-Mile Capacity and Technology"
-subtitle: "Uber Freight and Better Trucks Join Forces to Expand Last-Mile Capacity and Technology"
-date: "2025-11-13T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_b80cc07072854722ad97d231343c2917~mv2.jpg"
-imageAlt: "Uber Freight invested as a minority shareholder in Better Trucks, establishing an expanded partnership supporting mutual delivery volume sharing between the two companies, shared technology utilization, and goals to achieve last-mile coverage reaching up to 85% of the United States."
-wixId: "3054194d-843d-4614-a85d-21b889527297"
-author: "Sedat Onat"
+title: Uber Freight and Better Trucks Join Forces to Expand Last-Mile Capacity and Technology
+subtitle: Uber Freight and Better Trucks Join Forces to Expand Last-Mile Capacity and Technology
+date: '2025-11-13T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_b80cc07072854722ad97d231343c2917~mv2.jpg
+imageAlt: Uber Freight invested as a minority shareholder in Better Trucks, establishing an expanded partnership supporting mutual delivery volume sharing between the two companies, shared technology utilization, and goals to achieve last-mile coverage reaching up to 85% of the United States.
+wixId: 3054194d-843d-4614-a85d-21b889527297
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Uber Freight
+- Better Trucks
+- last mile delivery
+- address verification
+- geocoding
+- open API
+- e-commerce logistics
 ---
-
 <p style="text-align: justify">Uber Freight has invested with a <strong>minority stake in Better Trucks</strong> to expand its last-mile delivery network and strengthen its technological capabilities. This move enables the expansion of the commercial partnership between the two companies and <strong>significantly increases customer delivery coverage</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">Under the new arrangement, Uber Freight and Better Trucks will be able to <strong>transfer delivery volume to each other's service areas</strong>. This allows both companies to expand their geographic coverage while delivering faster and more consistent delivery experiences to customers.</p>

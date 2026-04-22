@@ -1,14 +1,23 @@
 ---
-title: "ABD, Güney Kore ile Ticaret Anlaşmasında Sona Yaklaştı"
-subtitle: "ABD, Güney Kore ile Ticaret Anlaşmasında Sona Yaklaştı"
-date: "2025-10-29T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_29751cf84bf94a19b4888ab81c370810~mv2.jpg"
-imageAlt: "ABD Başkanı Donald Trump ve Güney Kore Devlet Başkanı Lee Jae Myung, Asya-Pasifik Ekonomik İşbirliği (APEC) zirvesi kapsamında Gyeongju’da bir araya geldi. Trump, iki ülke arasında “neredeyse tamamlanmış bir ticaret anlaşması” olduğunu açıkladı."
-wixId: "e49a120b-4d12-40bd-a43a-e274d4324547"
-author: "Sedat Onat"
+title: ABD, Güney Kore ile Ticaret Anlaşmasında Sona Yaklaştı
+subtitle: ABD, Güney Kore ile Ticaret Anlaşmasında Sona Yaklaştı
+date: '2025-10-29T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_29751cf84bf94a19b4888ab81c370810~mv2.jpg
+imageAlt: ABD Başkanı Donald Trump ve Güney Kore Devlet Başkanı Lee Jae Myung, Asya-Pasifik Ekonomik İşbirliği (APEC) zirvesi kapsamında Gyeongju’da bir araya geldi. Trump, iki ülke arasında “neredeyse tamamlanmış bir ticaret anlaşması” olduğunu açıkladı.
+wixId: e49a120b-4d12-40bd-a43a-e274d4324547
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD
+- Güney Kore
+- ticaret anlaşması
+- Donald Trump
+- APEC
+- tarife
+- yarı iletken
+- tedarik zinciri
 ---
 <p style="text-align: justify"><strong>ABD ile Güney Kore</strong>, uzun süredir devam eden müzakerelerin ardından <strong>yeni bir ticaret anlaşmasını tamamlamak üzere</strong>. <strong>ABD Başkanı Donald Trump</strong>, <strong>29 Ekim 2025 Çarşamba günü</strong> Güney Kore’nin <strong>Gyeongju kentinde</strong> yaptığı açıklamada, iki ülkenin <strong>“ticaret anlaşmasını büyük ölçüde sonuçlandırdığını”</strong> belirtti.</p>
 <p><br></p>

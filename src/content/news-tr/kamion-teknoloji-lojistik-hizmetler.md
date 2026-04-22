@@ -1,14 +1,21 @@
 ---
-title: "Kamion: Teknoloji ile Dönüşen Lojistik Hizmetler"
-subtitle: "Kamion: Teknoloji ile Dönüşen Lojistik Hizmetler"
-date: "2024-05-09T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_ab4201d448bf486d94328ef2eae30da5~mv2.jpg"
-imageAlt: "Kamion: Teknoloji ile Dönüşen Lojistik Hizmetler"
-wixId: "1d7597e8-c03f-4d04-90bf-ee920a8383ba"
-author: "Sedat Onat"
+title: 'Kamion: Teknoloji ile Dönüşen Lojistik Hizmetler'
+subtitle: 'Kamion: Teknoloji ile Dönüşen Lojistik Hizmetler'
+date: '2024-05-09T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_ab4201d448bf486d94328ef2eae30da5~mv2.jpg
+imageAlt: 'Kamion: Teknoloji ile Dönüşen Lojistik Hizmetler'
+wixId: 1d7597e8-c03f-4d04-90bf-ee920a8383ba
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kamion
+- dijital lojistik
+- karayolu taşımacılık
+- boş sefer
+- karbon emisyonu
+- lojistik platformu
 ---
 <p>2020 yılında kurulan Kamion, dijital lojistik platformu olarak sektöre adım atmıştır. Bu platform, teknolojik altyapısıyla kamyon ve yüklerin doğru zaman ve yerde buluşmasını sağlayarak lojistik süreçlerinde verimliliği artırmayı hedeflemektedir. Kamion, Vestel ve Pepsico gibi 200'e yakın büyük kurumsal firma ile çalışmakta ve bu firmaların karayolu taşımacılık operasyonlarını yönetmektedir. Platform, yaklaşık 16 bin kamyonu bünyesinde barındırmakta ve yıllık ciroda büyük artışlar kaydetmiştir. 2023 yılı itibarıyla 10 milyon dolar ciro elde eden Kamion, ulusal ve uluslararası alanda lojistik hizmetler sunmaktadır.</p>
 <p><br></p>

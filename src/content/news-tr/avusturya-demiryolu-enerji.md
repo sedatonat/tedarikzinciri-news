@@ -1,14 +1,21 @@
 ---
-title: "Avusturya'nın Yeni Hükümeti Demiryolu Sektörüne Enerji Vergisi Muafiyeti Getirmeyi Planlıyor"
-subtitle: "Avusturya'nın Yeni Hükümeti Demiryolu Sektörüne Enerji Vergisi Muafiyeti Getirmeyi Planlıyor"
-date: "2025-03-07T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_fe1c16aad8a74fe3bba54ca3de565215~mv2.jpg"
-imageAlt: "Avusturya'nın Yeni Hükümeti Demiryolu Sektörüne Enerji Vergisi Muafiyeti Getirmeyi Planlıyor"
-wixId: "6872011a-09a1-4d2a-8139-262ff92a58c1"
-author: "Sedat Onat"
+title: Avusturya'nın Yeni Hükümeti Demiryolu Sektörüne Enerji Vergisi Muafiyeti Getirmeyi Planlıyor
+subtitle: Avusturya'nın Yeni Hükümeti Demiryolu Sektörüne Enerji Vergisi Muafiyeti Getirmeyi Planlıyor
+date: '2025-03-07T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_fe1c16aad8a74fe3bba54ca3de565215~mv2.jpg
+imageAlt: Avusturya'nın Yeni Hükümeti Demiryolu Sektörüne Enerji Vergisi Muafiyeti Getirmeyi Planlıyor
+wixId: 6872011a-09a1-4d2a-8139-262ff92a58c1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Avusturya
+- demiryolu taşımacılığı
+- enerji vergisi muafiyeti
+- ÖBB
+- yenilenebilir enerji
+- çevre dostu taşımacılık
 ---
 <p style="text-align: justify">Avusturya'da <strong>FPÖ</strong>, <strong>ÖVP</strong> ve <strong>Yeşiller</strong> partilerinin oluşturduğu yeni koalisyon hükümeti, demiryolu taşımacılığı sektörüne enerji vergisi muafiyeti getirmeyi planlıyor. Bu adım, demiryolu sektörünün rekabet gücünü artırmayı ve çevre dostu taşımacılığı teşvik etmeyi amaçlıyor.</p>
 <p><br></p>

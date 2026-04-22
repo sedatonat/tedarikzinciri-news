@@ -1,16 +1,23 @@
 ---
-title: "FedEx Ağ Dönüşümü İlk Somut Sonuçlarını Vermeye Başladı"
-subtitle: "FedEx Ağ Dönüşümü İlk Somut Sonuçlarını Vermeye Başladı"
-date: "2025-12-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_56fd54726c3340a5b79de95a5d664c98~mv2.jpg"
-imageAlt: "FedEx CEO’su Raj Subramaniam liderliğinde yürütülen geniş kapsamlı ağ birleşimi ve maliyet azaltma stratejisi, kârlılık ve gelir performansında iyileşme sinyalleri üretirken, makroekonomik ve operasyonel riskler devam etmekte."
-sourceUrl: "https://www.supplychainbrain.com/articles/43025-fedex-ceos-broad-network-overhaul-is-starting-to-bear-fruit"
-author: "Sedat Onat"
+title: FedEx Ağ Dönüşümü İlk Somut Sonuçlarını Vermeye Başladı
+subtitle: FedEx Ağ Dönüşümü İlk Somut Sonuçlarını Vermeye Başladı
+date: '2025-12-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_56fd54726c3340a5b79de95a5d664c98~mv2.jpg
+imageAlt: FedEx CEO’su Raj Subramaniam liderliğinde yürütülen geniş kapsamlı ağ birleşimi ve maliyet azaltma stratejisi, kârlılık ve gelir performansında iyileşme sinyalleri üretirken, makroekonomik ve operasyonel riskler devam etmekte.
+sourceUrl: https://www.supplychainbrain.com/articles/43025-fedex-ceos-broad-network-overhaul-is-starting-to-bear-fruit
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- FedEx
+- ağ dönüşümü
+- maliyet azaltımı
+- kargo taşımacılığı
+- operasyonel verimlilik
+- MD-11
+- hava taşımacılığı
 ---
-
 <p style="text-align: justify"><strong>FedEx Corp.</strong>, CEO <strong>Raj Subramaniam</strong> tarafından yürütülen kapsamlı dönüşüm programının ilk somut sonuçlarını yatırımcılarla paylaştı. 18 Aralık 2025’te açıklanan finansal sonuçlar, şirketin uzun süredir üzerinde çalıştığı <strong>geniş ağ yeniden yapılanması</strong> ve <strong>maliyet azaltım planının</strong> etkilerinin görünür hale gelmekte olduğunu ortaya koydu. Şirket, yıl geneline ilişkin kâr beklentisinin alt bandını yukarı yönlü revize ederken, son çeyrek kazançları da Wall Street tahminlerinin üzerinde gerçekleşti.</p>
 <p><br></p>
 <p style="text-align: justify">Açıklanan sonuçlara göre performanstaki iyileşme, özellikle <strong>ABD iç pazarında artan hacim ve fiyatlama gücü</strong> sayesinde desteklenmekte. Bu tablo, FedEx’in kara ve hava taşımacılığı ağlarını birleştirmeyi hedefleyen stratejisinin operasyonel verimlilik üretmeye başladığını göstermekte. Söz konusu strateji, şirketin yıllardır ayrı yapılar halinde yönettiği <strong>ground</strong> ve <strong>air-freight</strong> ağlarının entegrasyonunu ve buna paralel olarak milyarlarca dolarlık maliyetin sistemden çıkarılmasını hedeflemekte.</p>

@@ -1,16 +1,21 @@
 ---
-title: "Neural Networks are Reshaping Order Picking Processes in Warehouses"
-subtitle: "Neural Networks are Reshaping Order Picking Processes in Warehouses"
-date: "2025-12-10T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_957d246206a64ae7894ba3d5fd2a4ec2~mv2.jpg"
-imageAlt: "Detailed analysis of how neural networks in warehouses use real operational data to improve time estimation, route optimization, and workforce planning in order picking processes"
-wixId: "cc9532fa-cfdf-4a2f-8086-d4cdedc492e8"
-author: "Sedat Onat"
+title: Neural Networks are Reshaping Order Picking Processes in Warehouses
+subtitle: Neural Networks are Reshaping Order Picking Processes in Warehouses
+date: '2025-12-10T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_957d246206a64ae7894ba3d5fd2a4ec2~mv2.jpg
+imageAlt: Detailed analysis of how neural networks in warehouses use real operational data to improve time estimation, route optimization, and workforce planning in order picking processes
+wixId: cc9532fa-cfdf-4a2f-8086-d4cdedc492e8
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- neural networks
+- order picking
+- warehouse management
+- artificial intelligence
+- route optimization
 ---
-
 <p style="text-align: justify"><strong>Order picking</strong> is among the most labor-intensive, time-consuming, and costly activities in warehouse operations. Although it may appear straightforward on the surface, order picking emerges as an exceptionally complex process where intense human movement, diverse product characteristics, equipment utilization, and time pressure converge. Nevertheless, many warehouse management systems still plan this process based on <strong>simple averages</strong>. <strong>Neural networks</strong>, however, are fundamentally transforming this approach.</p>
 <p><br></p>
 <p style="text-align: justify">Traditional systems estimate how long an order will take to pick by examining historical averages. However, in the real world, no two orders are identical. An order consisting of small and lightweight items requires a different amount of time than picking a single heavy and bulky parcel retrieved from upper shelves. Furthermore, factors such as the time of day, shift congestion, fatigue, equipment type, and warehouse traffic significantly affect these timeframes.</p>

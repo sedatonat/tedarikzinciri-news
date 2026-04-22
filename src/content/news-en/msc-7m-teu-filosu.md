@@ -1,16 +1,23 @@
 ---
-title: "MSC Fleet Surpasses 7 Million TEU Milestone"
-subtitle: "MSC Fleet Surpasses 7 Million TEU Milestone"
-date: "2025-11-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6aabc3b91fcf4f81830ba6d94d99e171~mv2.jpg"
-imageAlt: "Comprehensive overview explaining how MSC's fleet has exceeded 7 million TEU, achieving unrivaled scale in global container shipping."
-wixId: "45e7ae3f-a479-4b09-9364-0d10b6038770"
-author: "Sedat Onat"
+title: MSC Fleet Surpasses 7 Million TEU Milestone
+subtitle: MSC Fleet Surpasses 7 Million TEU Milestone
+date: '2025-11-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_6aabc3b91fcf4f81830ba6d94d99e171~mv2.jpg
+imageAlt: Comprehensive overview explaining how MSC's fleet has exceeded 7 million TEU, achieving unrivaled scale in global container shipping.
+wixId: 45e7ae3f-a479-4b09-9364-0d10b6038770
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- MSC
+- container shipping
+- fleet capacity
+- TEU
+- Maersk
+- maritime
+- ship acquisitions
 ---
-
 <p style="text-align: justify">The world's leading container shipping operator <strong>Mediterranean Shipping Co. (MSC)</strong> has reached a new industry milestone with its fleet <strong>formally surpassing the 7 million TEU threshold</strong>. According to the latest data from Alphaliner, MSC's total capacity now stands at <strong>7,002,757 TEU</strong>. This figure represents the outcome of an aggressive expansion strategy that MSC has pursued over the past decade through both organic growth and secondhand vessel investments.</p>
 <p><br></p>
 <p style="text-align: justify">MSC's current fleet size outpaces all of the major shipping alliances competing against it. For instance, the <strong>Gemini Cooperation</strong> initiative formed by Maersk and Hapag-Lloyd has a combined capacity that lags behind MSC's existing fleet. Similarly, the combined fleet capacity of Asian carriers Yang Ming, HMM, and ONE, which make up the <strong>Premier Alliance</strong>, falls short of MSC's position.</p>

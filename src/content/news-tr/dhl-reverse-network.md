@@ -1,14 +1,22 @@
 ---
-title: "DHL, Inmar Entegrasyonu ile Tersine Lojistikte Yeni Dönem Başlatmakta"
-subtitle: "DHL, Inmar Entegrasyonu ile Tersine Lojistikte Yeni Dönem Başlatmakta"
-date: "2025-10-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4411493101ea482c81aa457aebcc85a0~mv2.jpg"
-imageAlt: "DHL, Inmar Entegrasyonu ile Tersine Lojistikte Yeni Dönem Başlatmakta"
-wixId: "392cf920-adb2-4ca8-859b-3323ab8dd23d"
-author: "Sedat Onat"
+title: DHL, Inmar Entegrasyonu ile Tersine Lojistikte Yeni Dönem Başlatmakta
+subtitle: DHL, Inmar Entegrasyonu ile Tersine Lojistikte Yeni Dönem Başlatmakta
+date: '2025-10-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4411493101ea482c81aa457aebcc85a0~mv2.jpg
+imageAlt: DHL, Inmar Entegrasyonu ile Tersine Lojistikte Yeni Dönem Başlatmakta
+wixId: 392cf920-adb2-4ca8-859b-3323ab8dd23d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DHL
+- tersine lojistik
+- Inmar
+- e-ticaret
+- recommerce
+- döngüsel ekonomi
+- iade yönetimi
 ---
 <p style="text-align: justify"><strong>DHL Supply Chain</strong>, Kuzey Amerika genelinde <strong>çoklu müşterili ulusal bir tersine lojistik ağı (reverse logistics network)</strong> başlatarak, iade süreçlerini daha verimli ve sürdürülebilir hale getirmekte. Bu adım, lojistik devinin <strong>Inmar Supply Chain Solutions</strong> şirketini satın almasının ardından <strong>tersine lojistik</strong> alanındaki en kapsamlı yeniden yapılanmasını temsil etmekte.</p>
 <p><br></p>

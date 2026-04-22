@@ -1,16 +1,24 @@
 ---
-title: "EU and Industry Call for Customs Operations Modernization"
-subtitle: "EU and Industry Call for Customs Operations Modernization"
-date: "2025-01-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_803f213a8be24c31b0d57adab823a1cc~mv2.jpg"
-imageAlt: "EU and Industry Call for Customs Operations Modernization"
-wixId: "bff80b78-2202-4463-9c01-81dd6962a008"
-author: "Sedat Onat"
+title: EU and Industry Call for Customs Operations Modernization
+subtitle: EU and Industry Call for Customs Operations Modernization
+date: '2025-01-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_803f213a8be24c31b0d57adab823a1cc~mv2.jpg
+imageAlt: EU and Industry Call for Customs Operations Modernization
+wixId: bff80b78-2202-4463-9c01-81dd6962a008
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- customs operations
+- European Union
+- modernization
+- digitalization
+- blockchain
+- AI
+- international cooperation
+- e-commerce
 ---
-
 <p style="text-align: justify">The European Union (<strong>EU</strong>) and leading industry associations are making an urgent call for the modernization of customs operations. This call aims to make customs processes more efficient, transparent, and flexible in the face of rising trade volumes and complex supply chains.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Current State of Customs Operations</strong></p>

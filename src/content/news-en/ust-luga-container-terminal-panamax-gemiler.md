@@ -1,16 +1,24 @@
 ---
-title: "Ust-Luga Container Terminal Opens to Panamax Class Vessels"
-subtitle: "Ust-Luga Container Terminal Opens to Panamax Class Vessels"
-date: "2024-08-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a91a9d74fde74e49a767d822e9b30c08~mv2.jpg"
-imageAlt: "Ust-Luga Container Terminal Opens to Panamax Class Vessels"
-wixId: "af7faf7a-e2b8-4298-a61d-6c6699d7fb31"
-author: "Sedat Onat"
+title: Ust-Luga Container Terminal Opens to Panamax Class Vessels
+subtitle: Ust-Luga Container Terminal Opens to Panamax Class Vessels
+date: '2024-08-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a91a9d74fde74e49a767d822e9b30c08~mv2.jpg
+imageAlt: Ust-Luga Container Terminal Opens to Panamax Class Vessels
+wixId: af7faf7a-e2b8-4298-a61d-6c6699d7fb31
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Ust-Luga
+- Panamax
+- container terminal
+- Global Ports
+- Russia
+- draft
+- rail connection
+- TEU
 ---
-
 <p>Ust-Luga Container Terminal (ULCT), a division of Global Ports, Russia's leading marine container terminal operator, and operating under the Delo Group, has implemented a series of measures to increase the guaranteed draft of vessels at its own berths from 12.1 meters to 12.6 meters. This new draft was approved by the port captain through an order dated July 17, 2024. Thanks to these improvements, ULCT will now be able to accommodate Panamax class container vessels and bulk carriers with displacement capacity of up to 65,000 tons.</p>
 <p>Panamax class vessels have dimensions of up to 320 meters in length, 32.3 meters in width, and 57.9 meters in height, with a capacity of approximately 5,000 TEU containers. ULCT's ability to handle these vessels will provide Global Ports' customers with the opportunity to use larger ships, reducing logistics and time costs. This will contribute to improving their operational efficiency.</p>
 <p>ULCT stands out as one of Russia's most modern marine cargo terminals and possesses the capacity to handle all types of containers and hazardous cargo classes. The terminal's extensive infrastructure and spacious land area allow for rapid expansion of yard and rail capacity. Ust-Luga port is served by the Luzhskaya railway station, the largest and most modern port station on the Oktyabrskaya railway line. This enables the marine terminal to gain direct access to the railway network, bypassing the congested St. Petersburg railway junction. This allows the port to optimize its logistics chain and reduce delivery times.</p>

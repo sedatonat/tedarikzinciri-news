@@ -1,14 +1,23 @@
 ---
-title: "Filipinler Açıklarında Radyoaktif Çinko Tozu Taşıyan Gemi Limana Alınmıyor"
-subtitle: "Filipinler Açıklarında Radyoaktif Çinko Tozu Taşıyan Gemi Limana Alınmıyor"
-date: "2025-10-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/nsplsh_3578412d4e5a43496c366b~mv2_d_5184_3456_s_4_2.jpg"
-imageAlt: "Endonezya’dan gelen 23 konteyner radyoaktif çinko tozu taşıyan bir gemi, Manila açıklarında demirli halde bekletiliyor. Filipinli yetkililer, yükü alacak veya gömecek bir tesis bulunmadığı için geminin limana girişine izin vermiyor."
-wixId: "c5382557-66f6-44eb-b552-d705afee4cd8"
-author: "Sedat Onat"
+title: Filipinler Açıklarında Radyoaktif Çinko Tozu Taşıyan Gemi Limana Alınmıyor
+subtitle: Filipinler Açıklarında Radyoaktif Çinko Tozu Taşıyan Gemi Limana Alınmıyor
+date: '2025-10-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/nsplsh_3578412d4e5a43496c366b~mv2_d_5184_3456_s_4_2.jpg
+imageAlt: Endonezya’dan gelen 23 konteyner radyoaktif çinko tozu taşıyan bir gemi, Manila açıklarında demirli halde bekletiliyor. Filipinli yetkililer, yükü alacak veya gömecek bir tesis bulunmadığı için geminin limana girişine izin vermiyor.
+wixId: c5382557-66f6-44eb-b552-d705afee4cd8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- radyoaktif yük
+- Filipinler
+- sezyum-137
+- liman güvenliği
+- çinko tozu
+- konteyner
+- Endonezya
+- nükleer kirlilik
 ---
 <p style="text-align: justify"><strong>Bloomberg</strong>’ün haberine göre, <strong>radyoaktif çinko tozu</strong> taşıyan bir gemi, <strong>Filipinler’in başkenti Manila açıklarında</strong> limana alınmadan bekletiliyor. Gemi, <strong>Endonezya’dan iade edilen 23 konteynerlik radyoaktif yük</strong> taşıyor ve şu anda <strong>uygun bir depolama veya bertaraf tesisi</strong> bulunamadığı için liman otoriteleri tarafından durdurulmuş durumda.</p>
 <p><br></p>

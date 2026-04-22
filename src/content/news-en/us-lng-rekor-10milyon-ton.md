@@ -1,16 +1,23 @@
 ---
-title: "U.S. Sets World Record with 10 Million Tonnes Monthly LNG Exports"
-subtitle: "U.S. Sets World Record with 10 Million Tonnes Monthly LNG Exports"
-date: "2025-11-03T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b95e431cef7648f79082d32b9c8b517d~mv2.jpg"
-imageAlt: ""
-wixId: "3ac92748-d614-4218-8661-7536cbabe693"
-author: "Sedat Onat"
+title: U.S. Sets World Record with 10 Million Tonnes Monthly LNG Exports
+subtitle: U.S. Sets World Record with 10 Million Tonnes Monthly LNG Exports
+date: '2025-11-03T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b95e431cef7648f79082d32b9c8b517d~mv2.jpg
+imageAlt: ''
+wixId: 3ac92748-d614-4218-8661-7536cbabe693
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- US
+- LNG exports
+- Cheniere Energy
+- Venture Global
+- Europe
+- Plaquemines LNG
+- natural gas
 ---
-
 <p style="text-align: justify">The U.S. exported <strong>10.1 million metric tonnes (mmt)</strong> of LNG in October 2025, becoming the first country in world history to achieve this level of LNG exports in a single month. According to preliminary data shared by financial institution <strong>LSEG</strong>, this volume surpassed the previous month's revised shipment of <strong>9.1 mmt</strong>, setting a new record. This momentum represents the continuation of four consecutive record-breaking months for the U.S. in 2025.</p>
 <p><br></p>
 <p style="text-align: justify">The U.S. was already the world's largest LNG exporter; however, 2025 has further strengthened America's position in the global market, particularly with the commissioning of two major facilities. The key drivers behind this surge include the ramp-up of <strong>Venture Global's Plaquemines LNG facility</strong> and <strong>Cheniere Energy's Corpus Christi Stage 3 expansion project</strong>.</p>

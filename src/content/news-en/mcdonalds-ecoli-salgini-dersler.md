@@ -1,16 +1,24 @@
 ---
-title: "McDonald's E. coli Outbreak: Lessons for Restaurants and Suppliers"
-subtitle: "McDonald's E. coli Outbreak: Lessons for Restaurants and Suppliers"
-date: "2024-11-18T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_5e7f1b9eb9554ac3bd2ec2b58aba6972~mv2.jpg"
-imageAlt: "McDonald's E. coli Outbreak: Lessons for Restaurants and Suppliers"
-wixId: "5b9d5a88-51f7-4eb9-ace6-a1ce16d9cbc4"
-author: "Sedat Onat"
+title: 'McDonald''s E. coli Outbreak: Lessons for Restaurants and Suppliers'
+subtitle: 'McDonald''s E. coli Outbreak: Lessons for Restaurants and Suppliers'
+date: '2024-11-18T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_5e7f1b9eb9554ac3bd2ec2b58aba6972~mv2.jpg
+imageAlt: 'McDonald''s E. coli Outbreak: Lessons for Restaurants and Suppliers'
+wixId: 5b9d5a88-51f7-4eb9-ace6-a1ce16d9cbc4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- E. coli
+- food safety
+- supply chain
+- McDonald's
+- Taylor Farms
+- crisis management
+- supplier relations
+- contamination
 ---
-
 <p>In October 2024, McDonald's, a globally recognized fast food chain, faced a major crisis after nearly four decades without such an incident. The chain's Quarter Pounder products were removed from menus due to an E. coli outbreak. The outbreak sickened at least 90 people and resulted in one death. Regulatory authorities identified sliced onions supplied by Taylor Farms as the source of the outbreak, and the outbreak was brought under control. Quarter Pounder products returned to menus at approximately 3,000 restaurants. Following the outbreak, questions emerged regarding the prevention of similar incidents, the impact on customer confidence, and the measures restaurants and suppliers could take to protect themselves.</p>
 <p><br></p>
 <p>Phil Kafarakis, president and CEO of the International Foodservice Manufacturers Association, praised how McDonald's managed the situation. Kafarakis noted that McDonald's was able to act quickly and effectively by relying on long-term supplier relationships. The company has integrated suppliers into its processes, giving it the capability to take swift action in a crisis situation.</p>

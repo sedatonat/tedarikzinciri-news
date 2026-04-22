@@ -1,16 +1,22 @@
 ---
-title: "Kinaxis Launches Industry's First Supply Chain Orchestration Maturity Model"
-subtitle: "Kinaxis Launches Industry's First Supply Chain Orchestration Maturity Model"
-date: "2024-11-19T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_582642804a7a48e9a548ab9c8fe14ef8~mv2.jpg"
-imageAlt: "Kinaxis Launches Industry's First Supply Chain Orchestration Maturity Model"
-wixId: "50191e36-d596-45e6-80a4-882db6ba3106"
-author: "Sedat Onat"
+title: Kinaxis Launches Industry's First Supply Chain Orchestration Maturity Model
+subtitle: Kinaxis Launches Industry's First Supply Chain Orchestration Maturity Model
+date: '2024-11-19T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_582642804a7a48e9a548ab9c8fe14ef8~mv2.jpg
+imageAlt: Kinaxis Launches Industry's First Supply Chain Orchestration Maturity Model
+wixId: 50191e36-d596-45e6-80a4-882db6ba3106
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Kinaxis
+- supply chain orchestration
+- maturity model
+- artificial intelligence
+- supply chain management
+- assessment tool
 ---
-
 <p>Kinaxis has taken a pioneering step in supply chain management by introducing the industry's first Supply Chain Orchestration (SCO) Maturity Model and Self-Assessment tool to the market. This innovative tool enables businesses to evaluate their supply chain operations across 14 core dimensions and develop actionable strategies for improvement.</p>
 <p><br></p>
 <p>Designed to address common challenges in today's rapidly evolving business environment—such as improving decision-making processes, fostering collaboration, and enabling flexible planning and execution—the model allows companies to conduct a comprehensive assessment across operational, tactical, and strategic planning and execution areas.</p>

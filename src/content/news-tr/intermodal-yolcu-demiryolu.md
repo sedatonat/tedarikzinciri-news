@@ -1,14 +1,22 @@
 ---
-title: "Intermodal Yolcu Demiryolu Gibi Ele Alınmalı"
-subtitle: "Intermodal Yolcu Demiryolu Gibi Ele Alınmalı"
-date: "2025-01-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_421586cfeecc4c5489ee0211a7b72219~mv2.jpg"
-imageAlt: "Intermodal Yolcu Demiryolu Gibi Ele Alınmalı"
-wixId: "bf0dd99f-71cd-455b-b2d1-6795a153a4af"
-author: "Sedat Onat"
+title: Intermodal Yolcu Demiryolu Gibi Ele Alınmalı
+subtitle: Intermodal Yolcu Demiryolu Gibi Ele Alınmalı
+date: '2025-01-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_421586cfeecc4c5489ee0211a7b72219~mv2.jpg
+imageAlt: Intermodal Yolcu Demiryolu Gibi Ele Alınmalı
+wixId: bf0dd99f-71cd-455b-b2d1-6795a153a4af
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- intermodal taşımacılık
+- demiryolu
+- birleşik taşımacılık
+- UIRR
+- Avrupa Birliği
+- TEN-T
+- sürdürülebilir lojistik
 ---
 <p style="text-align: justify">Intermodal ve birleşik taşımacılığın sektördeki yeri tartışılmaz bir öneme sahip. <strong>UIRR</strong> tarafından düzenlenen çevrimiçi Avrupa Intermodal Zirvesi'nde, "Intermodal, yolcu demiryolu gibi ele alınmalı" vurgusu öne çıktı. ​</p>
 <p><br></p>

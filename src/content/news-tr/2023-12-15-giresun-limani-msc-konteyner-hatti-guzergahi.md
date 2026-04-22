@@ -1,14 +1,21 @@
 ---
-title: "Giresun Limanı MSC 'nin Konteyner hattına dahil edildi"
-subtitle: "Giresun Limanı MSC 'nin Konteyner hattına dahil edildi"
-date: "2023-12-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_debb508075d744d596696e7dc744a418~mv2.jpg"
-imageAlt: "Giresun Limanı MSC 'nin Konteyner hattına dahil edildi"
-wixId: "2f9a28c5-6f24-4b22-a398-0895b4b79143"
-author: "Sedat Onat"
+title: Giresun Limanı MSC 'nin Konteyner hattına dahil edildi
+subtitle: Giresun Limanı MSC 'nin Konteyner hattına dahil edildi
+date: '2023-12-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_debb508075d744d596696e7dc744a418~mv2.jpg
+imageAlt: Giresun Limanı MSC 'nin Konteyner hattına dahil edildi
+wixId: 2f9a28c5-6f24-4b22-a398-0895b4b79143
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Giresun Limanı
+- MSC
+- konteyner taşımacılığı
+- ihracat
+- bölgesel kalkınma
+- lojistik ağ
 ---
 <p><a href="https://www.msc.com/"><u>MSC (Mediterrian Shipping Company) </u></a>ile yapılan iş birliği sayesinde Giresun Limanı, MSC'nin konteyner hattına dahil edildi.</p>
 <p><br></p>

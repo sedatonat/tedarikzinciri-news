@@ -1,14 +1,23 @@
 ---
-title: "Trump Gıda Tedarik Zincirinde Rekabet İhlallerine Karşı Sert Adım Attı"
-subtitle: "Trump Gıda Tedarik Zincirinde Rekabet İhlallerine Karşı Sert Adım Attı"
-date: "2025-12-07T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_4991eabbef88424cad6376b037df96d8~mv2.jpg"
-imageAlt: "Başkan Donald Trump’ın ABD gıda tedarik zincirinde fiyat sabitleme ve anti-rekabet uygulamalarını soruşturmak için DOJ ve FTC içinde yeni task force’lar kurulmasını emreden kararnameye dair detaylı özet"
-wixId: "94cde06a-568a-454a-8b3e-9e2d7115a980"
-author: "Sedat Onat"
+title: Trump Gıda Tedarik Zincirinde Rekabet İhlallerine Karşı Sert Adım Attı
+subtitle: Trump Gıda Tedarik Zincirinde Rekabet İhlallerine Karşı Sert Adım Attı
+date: '2025-12-07T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_4991eabbef88424cad6376b037df96d8~mv2.jpg
+imageAlt: Başkan Donald Trump’ın ABD gıda tedarik zincirinde fiyat sabitleme ve anti-rekabet uygulamalarını soruşturmak için DOJ ve FTC içinde yeni task force’lar kurulmasını emreden kararnameye dair detaylı özet
+wixId: 94cde06a-568a-454a-8b3e-9e2d7115a980
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- gıda tedarik zinciri
+- rekabet ihlali
+- price fixing
+- Trump
+- DOJ
+- FTC
+- ABD
+- ulusal güvenlik
 ---
 <p style="text-align: justify">ABD Başkanı <strong>Donald Trump</strong>, 6 Aralık 2025 tarihinde imzaladığı yeni bir <strong>executive order</strong> ile Amerikan gıda tedarik zincirinde artan fiyat baskılarına ve sektörel tekelleşmeye yönelik kapsamlı bir federal inceleme başlattı. Beyaz Saray açıklamasına göre kararname, <strong>Department of Justice (DOJ)</strong> ve <strong>Federal Trade Commission (FTC)</strong> bünyesinde yeni <strong>food supply chain security task forces</strong> kurulmasını öngörmekte. Amaç, gıda sektöründeki <strong>price fixing</strong>, <strong>market manipulation</strong> ve diğer anti-rekabetçi davranışların incelenmesi ve gerektiğinde yaptırım uygulanması.</p>
 <p><br></p>

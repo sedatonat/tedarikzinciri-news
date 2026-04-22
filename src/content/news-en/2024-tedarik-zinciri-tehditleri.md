@@ -1,16 +1,24 @@
 ---
-title: "2024 Supply Chain Threats: From Extreme Weather to Cyber Crime"
-subtitle: "2024 Supply Chain Threats: From Extreme Weather to Cyber Crime"
-date: "2024-01-04T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_defb14b60e824a028351322cdbbebf67~mv2.png"
-imageAlt: "2024 Supply Chain Threats: From Extreme Weather to Cyber Crime"
-wixId: "1bb7c556-9021-474c-ad6a-605d500c2e83"
-author: "Sedat Onat"
+title: '2024 Supply Chain Threats: From Extreme Weather to Cyber Crime'
+subtitle: '2024 Supply Chain Threats: From Extreme Weather to Cyber Crime'
+date: '2024-01-04T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_defb14b60e824a028351322cdbbebf67~mv2.png
+imageAlt: '2024 Supply Chain Threats: From Extreme Weather to Cyber Crime'
+wixId: 1bb7c556-9021-474c-ad6a-605d500c2e83
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- extreme weather events
+- supply chain risks
+- cybercrimes
+- US-China trade war
+- geopolitical instability
+- Taiwan Strait
+- commodity shortage
+- environmental regulations
 ---
-
 <p>According to a supply chain risk analysis report prepared by Everstream Analytics for 2024, extreme weather events are expected to cause the most significant logistics disruptions in supply chains. In what has been termed the "Age of Extremes," billion-dollar events are anticipated to occur every three weeks. This indicates that hurricanes, winter storms, forest fires, and floods will continue to negatively impact supply chains throughout 2024.</p>
 <p><br></p>
 <p><strong>The report identifies five additional threats beyond extreme weather events:</strong></p>

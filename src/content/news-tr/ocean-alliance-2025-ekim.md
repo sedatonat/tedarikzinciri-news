@@ -1,14 +1,23 @@
 ---
-title: "2025 Yeniden Yapılanmasının Ardından Ocean Alliance, Küresel Konteyner Taşımacılığında Liderliğini Pekiştirdi"
-subtitle: "2025 Yeniden Yapılanmasının Ardından Ocean Alliance, Küresel Konteyner Taşımacılığında Liderliğini Pekiştirdi"
-date: "2025-10-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8c863f83b51c4849bb18ae108ec1d0ff~mv2.jpg"
-imageAlt: "2025 Yeniden Yapılanmasının Ardından Ocean Alliance, Küresel Konteyner Taşımacılığında Liderliğini Pekiştirdi"
-wixId: "3010b7d6-4087-4392-91b1-4f6a06f6c64a"
-author: "Sedat Onat"
+title: 2025 Yeniden Yapılanmasının Ardından Ocean Alliance, Küresel Konteyner Taşımacılığında Liderliğini Pekiştirdi
+subtitle: 2025 Yeniden Yapılanmasının Ardından Ocean Alliance, Küresel Konteyner Taşımacılığında Liderliğini Pekiştirdi
+date: '2025-10-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8c863f83b51c4849bb18ae108ec1d0ff~mv2.jpg
+imageAlt: 2025 Yeniden Yapılanmasının Ardından Ocean Alliance, Küresel Konteyner Taşımacılığında Liderliğini Pekiştirdi
+wixId: 3010b7d6-4087-4392-91b1-4f6a06f6c64a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ocean Alliance
+- konteyner taşımacılığı
+- ittifak yeniden yapılanması
+- Transpasifik
+- Asya-Avrupa
+- pazar payı
+- Sea-Intelligence
+- CMA CGM
 ---
 <p style="text-align: justify"><strong>Sea-Intelligence</strong> tarafından yayımlanan <strong>Sunday Spotlight</strong> raporunun 736. sayısına göre, 2025 başında gerçekleşen büyük ittifak yeniden yapılanmalarının ardından, <strong>Ocean Alliance</strong> hem <strong>Transpasifik</strong> hem de <strong>Asya–Avrupa</strong> hatlarında <strong>açık ara pazar lideri</strong> konumuna yükseldi.</p>
 <p><br></p>

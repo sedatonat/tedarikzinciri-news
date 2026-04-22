@@ -1,14 +1,23 @@
 ---
-title: "ABD, Kongo’nun Kritik Maden Tedarik Zinciri İçin 1 Milyar Doların Üzerinde Destek Taahhüt Etti"
-subtitle: "ABD, Kongo’nun Kritik Maden Tedarik Zinciri İçin 1 Milyar Doların Üzerinde Destek Taahhüt Etti"
-date: "2025-12-05T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_29cacafc157e42c09a9f3abb9c8f2c50~mv2.jpg"
-imageAlt: "ABD’nin DFC aracılığıyla Kongo’da bakır–kobalt ortak girişimi ve Lobito koridoruna bağlı demiryolu rehabilitasyonu için 1 milyar doları aşan finansman planı ve bunun küresel kritik mineral tedarik zincirine etkilerinin detaylı özeti"
-wixId: "5f7ee052-faee-47aa-8736-26c706ff32cd"
-author: "Sedat Onat"
+title: ABD, Kongo’nun Kritik Maden Tedarik Zinciri İçin 1 Milyar Doların Üzerinde Destek Taahhüt Etti
+subtitle: ABD, Kongo’nun Kritik Maden Tedarik Zinciri İçin 1 Milyar Doların Üzerinde Destek Taahhüt Etti
+date: '2025-12-05T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_29cacafc157e42c09a9f3abb9c8f2c50~mv2.jpg
+imageAlt: ABD’nin DFC aracılığıyla Kongo’da bakır–kobalt ortak girişimi ve Lobito koridoruna bağlı demiryolu rehabilitasyonu için 1 milyar doları aşan finansman planı ve bunun küresel kritik mineral tedarik zincirine etkilerinin detaylı özeti
+wixId: 5f7ee052-faee-47aa-8736-26c706ff32cd
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- kritik mineraller
+- Kongo
+- kobalt
+- bakır
+- tedarik zinciri güvenliği
+- Lobito Koridoru
+- ABD-Çin rekabeti
+- DFC
 ---
 <p style="text-align: justify">ABD, 2025’in son çeyreğinde kritik mineraller tedarik zincirini güvence altına almak için Afrika’da şimdiye kadarki en agresif ekonomik ve jeopolitik adımlarından birini atıyor. <strong>U.S. International Development Finance Corporation (DFC)</strong>, Demokratik Kongo Cumhuriyeti’nde (DRC) hem maden üretimini hem de ihracat altyapısını dönüştürmeye yönelik toplam <strong>1 milyar doların üzerinde</strong> finansman planladığını açıkladı. Bu finansman, ABD’nin <strong>national security</strong> öncelikleri arasında yer alan stratejik mineraller için tedarik güvenliği oluşturmayı hedeflemekte.</p>
 <p style="text-align: justify">DFC’nin üzerinde çalıştığı iki ana proje bulunmakta:</p>

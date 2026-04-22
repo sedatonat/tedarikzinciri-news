@@ -1,14 +1,22 @@
 ---
-title: "ABB 2026’da Robotik Birimini Halka Arz İçin Ayırıyor"
-subtitle: "ABB 2026’da Robotik Birimini Halka Arz İçin Ayırıyor"
-date: "2025-04-20T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_e5b381ed8a1d480193f4ffbee494d6c3~mv2.png"
-imageAlt: "Abb 2026’da Robotik Birimini Halka Arz İçin Ayırıyor"
-wixId: "994f2886-a433-49f4-8f12-315e622efaa9"
-author: "Sedat Onat"
+title: ABB 2026’da Robotik Birimini Halka Arz İçin Ayırıyor
+subtitle: ABB 2026’da Robotik Birimini Halka Arz İçin Ayırıyor
+date: '2025-04-20T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_e5b381ed8a1d480193f4ffbee494d6c3~mv2.png
+imageAlt: Abb 2026’da Robotik Birimini Halka Arz İçin Ayırıyor
+wixId: 994f2886-a433-49f4-8f12-315e622efaa9
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABB
+- robotik
+- halka arz
+- AMR
+- cobots
+- depo otomasyonu
+- tedarik zinciri
 ---
 <p style="text-align: justify"><strong>ABB</strong>, 2026 yılında <strong>robotik birimini borsaya taşımayı (spin-off)</strong> planladığını duyurdu. Bu stratejik adım, söz konusu birimin <strong>bağımsız sermaye erişimi</strong> kazanarak kendi büyüme yol haritasını daha çevik biçimde yönetmesini hedefliyor. Aynı zamanda, ABB’nin genel portföy yapısında odaklanmayı artırarak <strong>robotik iş kolunun değerini daha görünür hale getirmesi</strong> bekleniyor.</p>
 <p style="text-align: justify"><br></p>

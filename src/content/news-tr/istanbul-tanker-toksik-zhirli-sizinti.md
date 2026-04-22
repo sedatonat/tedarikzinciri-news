@@ -1,14 +1,22 @@
 ---
-title: "İstanbul Açıklarında Tankerde Zehirli Sızıntı: Bir Mürettebat Hayatını Kaybetti"
-subtitle: "İstanbul Açıklarında Tankerde Zehirli Sızıntı: Bir Mürettebat Hayatını Kaybetti"
-date: "2025-11-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e90f2fa112a84695afc9d8706a7e57e8~mv2.jpg"
-imageAlt: "Panama bayraklı yeni inşa bir tanker İstanbul yakınlarında seyir hâlindeyken zehirli madde sızıntısı yaşandı; olayda bir mürettebat öldü ve gemide acil kimyasal müdahale ekipleri devreye girdi."
-wixId: "ff800d83-e52c-4e8a-9067-80bca544d2cb"
-author: "Sedat Onat"
+title: 'İstanbul Açıklarında Tankerde Zehirli Sızıntı: Bir Mürettebat Hayatını Kaybetti'
+subtitle: 'İstanbul Açıklarında Tankerde Zehirli Sızıntı: Bir Mürettebat Hayatını Kaybetti'
+date: '2025-11-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e90f2fa112a84695afc9d8706a7e57e8~mv2.jpg
+imageAlt: Panama bayraklı yeni inşa bir tanker İstanbul yakınlarında seyir hâlindeyken zehirli madde sızıntısı yaşandı; olayda bir mürettebat öldü ve gemide acil kimyasal müdahale ekipleri devreye girdi.
+wixId: ff800d83-e52c-4e8a-9067-80bca544d2cb
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tanker kazası
+- zehirli gaz sızıntısı
+- İstanbul
+- deniz güvenliği
+- kimyasal tanker
+- Panama bayrağı
+- mürettebat kaybı
 ---
 <p style="text-align: justify">Hafta başında İstanbul açıklarında seyreden Panama bayraklı yeni bir tankerde meydana gelen <strong>zehirli madde sızıntısı</strong>, gemi mürettebatından bir kişinin hayatını kaybetmesine yol açtı. Olay, tanker henüz ticari operasyonlara yeni başlamışken gerçekleşti ve hem Türk makamlarını hem de geminin bağlı olduğu klas ve işletme şirketlerini harekete geçirdi.</p>
 <p><br></p>

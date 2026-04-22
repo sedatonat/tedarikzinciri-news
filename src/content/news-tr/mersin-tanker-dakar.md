@@ -1,14 +1,22 @@
 ---
-title: "Panama Bayraklı Mersin Tankeri Dakar Açıklarında Acil Durum Yarattı: 30.000 Tonluk Yük İçin Çevre Alarmı"
-subtitle: "Panama Bayraklı Mersin Tankeri Dakar Açıklarında Acil Durum Yarattı: 30.000 Tonluk Yük İçin Çevre Alarmı"
-date: "2025-12-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_437883bd2a15496789202ed778c134bd~mv2.jpg"
-imageAlt: "Panama bayraklı Mersin tankerinin Dakar açıklarında makine dairesinin su alması sonrası başlatılan büyük ölçekli kurtarma operasyonu, 30.000 ton petrol ürünü riski ve çevre koruma önlemleri üzerine detaylı haber özeti"
-wixId: "325fbd4c-4f44-49e6-86e5-8f469c7e9796"
-author: "Sedat Onat"
+title: 'Panama Bayraklı Mersin Tankeri Dakar Açıklarında Acil Durum Yarattı: 30.000 Tonluk Yük İçin Çevre Alarmı'
+subtitle: 'Panama Bayraklı Mersin Tankeri Dakar Açıklarında Acil Durum Yarattı: 30.000 Tonluk Yük İçin Çevre Alarmı'
+date: '2025-12-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_437883bd2a15496789202ed778c134bd~mv2.jpg
+imageAlt: Panama bayraklı Mersin tankerinin Dakar açıklarında makine dairesinin su alması sonrası başlatılan büyük ölçekli kurtarma operasyonu, 30.000 ton petrol ürünü riski ve çevre koruma önlemleri üzerine detaylı haber özeti
+wixId: 325fbd4c-4f44-49e6-86e5-8f469c7e9796
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tanker kazası
+- Dakar
+- deniz kirliliği
+- petrol ürünleri
+- kurtarma operasyonu
+- Senegal
+- LR1 tanker
 ---
 <p style="text-align: justify">Senegal açıklarında kritik bir denizcilik acil durumu yaşanmakta. <strong>Panama bayraklı Mersin</strong> adlı LR1 sınıfı tanker, 28 Kasım gecesi <strong>machinery space</strong> bölümüne su girmesi üzerine <strong>distress call</strong> göndererek Dakar’da büyük ölçekli bir arama–kurtarma ve çevre koruma operasyonunu tetikledi. Hem yerel hem uluslararası medyanın doğruladığı bilgilere göre su almanın nedeni henüz kesinlik kazanmamış olup teknik incelemeler devam etmekte.</p>
 <p><br></p>

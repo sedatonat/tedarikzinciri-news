@@ -1,16 +1,23 @@
 ---
-title: "DHL: Global Trade Continues to Grow Despite U.S. Tariffs"
-subtitle: "DHL: Global Trade Continues to Grow Despite U.S. Tariffs"
-date: "2025-10-23T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b0cef5af6d7a4339933404978e91e3db~mv2.jpg"
-imageAlt: "DHL: Global Trade Continues to Grow Despite U.S. Tariffs"
-wixId: "91bba4ac-1e2b-48c0-b4d0-f7b253ec5bab"
-author: "Sedat Onat"
+title: 'DHL: Global Trade Continues to Grow Despite U.S. Tariffs'
+subtitle: 'DHL: Global Trade Continues to Grow Despite U.S. Tariffs'
+date: '2025-10-23T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b0cef5af6d7a4339933404978e91e3db~mv2.jpg
+imageAlt: 'DHL: Global Trade Continues to Grow Despite U.S. Tariffs'
+wixId: 91bba4ac-1e2b-48c0-b4d0-f7b253ec5bab
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- LNG
+- China
+- Russia
+- US sanctions
+- energy trade
+- Arctic LNG 2
+- Beihai terminal
 ---
-
 <p style="text-align: justify"><strong>Bloomberg</strong> data shows that China continues to import Russian liquefied natural gas (LNG) subject to U.S. sanctions.</p>
 <p><br>
 Despite U.S. President <strong>Donald Trump</strong> blacklisting Russian energy giants such as <strong>Rosneft</strong> and <strong>Lukoil</strong>, the White House did not introduce <strong>new restrictions on LNG trade</strong> in its latest sanctions package.</p>

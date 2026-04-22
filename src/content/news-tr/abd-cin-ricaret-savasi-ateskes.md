@@ -1,14 +1,22 @@
 ---
-title: "ABD–Çin Ticaret Ateşkesi: Tarifeler Düşüyor, Karşılıklı Önlemler Askıya Alınıyor"
-subtitle: "ABD–Çin Ticaret Ateşkesi: Tarifeler Düşüyor, Karşılıklı Önlemler Askıya Alınıyor"
-date: "2025-10-30T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_cfb2a69863504957b776c4665894baba~mv2.jpg"
-imageAlt: "ABD ve Çin, Busan’daki liderler görüşmesinde tarifelerin düşürüldüğü, karşılıklı yaptırımların askıya alındığı, nadir toprak ihracat kontrollerinin durdurulduğu ve bir yıllık ticaret ateşkesinin başlatıldığı kapsamlı bir anlaşmaya vardı."
-wixId: "1a49851c-1c8a-4dec-93d4-fde86f88074d"
-author: "Sedat Onat"
+title: 'ABD–Çin Ticaret Ateşkesi: Tarifeler Düşüyor, Karşılıklı Önlemler Askıya Alınıyor'
+subtitle: 'ABD–Çin Ticaret Ateşkesi: Tarifeler Düşüyor, Karşılıklı Önlemler Askıya Alınıyor'
+date: '2025-10-30T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_cfb2a69863504957b776c4665894baba~mv2.jpg
+imageAlt: ABD ve Çin, Busan’daki liderler görüşmesinde tarifelerin düşürüldüğü, karşılıklı yaptırımların askıya alındığı, nadir toprak ihracat kontrollerinin durdurulduğu ve bir yıllık ticaret ateşkesinin başlatıldığı kapsamlı bir anlaşmaya vardı.
+wixId: 1a49851c-1c8a-4dec-93d4-fde86f88074d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD-Çin ticaret savaşı
+- tarifeler
+- ticaret ateşkesi
+- nadir toprak elementleri
+- tarım ürünleri
+- Section 301
+- fentanyl
 ---
 <p style="text-align: justify">ABD ve Çin, 2025 boyunca devam eden yoğun ticaret savaşı sonrası <strong>Busan’daki kritik liderler görüşmesinde</strong> önemli bir uzlaşıya vardı.</p>
 <p><br>

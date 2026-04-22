@@ -1,16 +1,24 @@
 ---
-title: "Portchain Network Prevented 800,000 Tonnes of CO₂ Emissions in Shipping"
-subtitle: "Portchain Network Prevented 800,000 Tonnes of CO₂ Emissions in Shipping"
-date: "2025-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c519589e7a604410a0def0ce50d52ec1~mv2.jpg"
-imageAlt: "Portchain Network has delivered 800,000 tonnes of CO₂ savings in the maritime sector since 2022 through digital data sharing and Just-In-Time (JIT) port calls. The platform connects mainline carriers, feeder operators, and terminals to reduce fuel consumption and waiting times."
-wixId: "ea3bff96-c303-4592-b17f-23f427e238b2"
-author: "Sedat Onat"
+title: Portchain Network Prevented 800,000 Tonnes of CO₂ Emissions in Shipping
+subtitle: Portchain Network Prevented 800,000 Tonnes of CO₂ Emissions in Shipping
+date: '2025-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c519589e7a604410a0def0ce50d52ec1~mv2.jpg
+imageAlt: Portchain Network has delivered 800,000 tonnes of CO₂ savings in the maritime sector since 2022 through digital data sharing and Just-In-Time (JIT) port calls. The platform connects mainline carriers, feeder operators, and terminals to reduce fuel consumption and waiting times.
+wixId: ea3bff96-c303-4592-b17f-23f427e238b2
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Portchain
+- CO₂ emissions
+- container shipping
+- sustainability
+- JIT
+- digitalization
+- maritime transport
+- fuel savings
 ---
-
 <p style="text-align: justify"><strong>Portchain</strong> announced a significant sustainability milestone in the global container shipping industry. <strong>Portchain Network</strong>, the platform developed by the company, has contributed to preventing <strong>800,000 metric tonnes of CO₂ emissions</strong> since its launch in 2022.</p>
 <p><br></p>
 <p style="text-align: justify">This savings is equivalent to <strong>654,922 petrol vehicles used for one year</strong>, <strong>239 wind turbines' annual production</strong>, or <strong>13 million trees growing over 10 years</strong> in terms of environmental impact.</p>

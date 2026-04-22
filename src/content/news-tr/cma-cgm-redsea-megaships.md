@@ -1,14 +1,23 @@
 ---
-title: "CMA CGM, İki Mega Gemiyi Red Sea Üzerinden Asya’ya Geri Göndererek Güzergâhı Test Etmekte"
-subtitle: "CMA CGM, İki Mega Gemiyi Red Sea Üzerinden Asya’ya Geri Göndererek Güzergâhı Test Etmekte"
-date: "2025-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ad76fd7d3e76451b874e44e901a255d9~mv2.jpeg"
-imageAlt: "CMA CGM, Benjamin Franklin (17.859 TEU) ve Sorbonne (23.112 TEU) adlı Ocean Alliance megaship’lerini Süveyş–Kızıldeniz rotasında iki yıl sonra ilk kez yeniden denemekte; bu hareket, bölgenin temkinli şekilde normale dönmeye başladığına işaret etmekte."
-wixId: "88b49ed4-c572-49b9-adb4-90c3f62cac02"
-author: "Sedat Onat"
+title: CMA CGM, İki Mega Gemiyi Red Sea Üzerinden Asya’ya Geri Göndererek Güzergâhı Test Etmekte
+subtitle: CMA CGM, İki Mega Gemiyi Red Sea Üzerinden Asya’ya Geri Göndererek Güzergâhı Test Etmekte
+date: '2025-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_ad76fd7d3e76451b874e44e901a255d9~mv2.jpeg
+imageAlt: CMA CGM, Benjamin Franklin (17.859 TEU) ve Sorbonne (23.112 TEU) adlı Ocean Alliance megaship’lerini Süveyş–Kızıldeniz rotasında iki yıl sonra ilk kez yeniden denemekte; bu hareket, bölgenin temkinli şekilde normale dönmeye başladığına işaret etmekte.
+wixId: 88b49ed4-c572-49b9-adb4-90c3f62cac02
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CMA CGM
+- Kızıldeniz
+- Süveyş Kanalı
+- konteyner taşımacılığı
+- Ocean Alliance
+- deniz güvenliği
+- mega gemi
+- navlun maliyeti
 ---
 <p style="text-align: justify">CMA CGM, Kızıldeniz’de iki yıldır devam eden güvenlik krizinin ardından <strong>ilk büyük ölçekli test geçişini</strong> gerçekleştirmekte. Ocean Alliance’ın NEU4 ve NEU5 servislerinde çalışan iki megamax sınıfı geminin <strong>Süveyş Kanalı’na doğru yönelmesi</strong>, hat operatörlerinin rotayı temkinli şekilde yeniden açmayı değerlendirdiğini gösteriyor.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "TSMC'nin ABD'ye 100 Milyar Dolarlık Yatırımı"
-subtitle: "TSMC'nin ABD'ye 100 Milyar Dolarlık Yatırımı"
-date: "2025-03-06T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_c461be90f4334a498218d18c0f43cbe4~mv2.jpg"
-imageAlt: "TSMC'nin ABD'ye 100 Milyar Dolarlık Yatırımı"
-wixId: "a1284079-c245-4196-b57c-137968178325"
-author: "Sedat Onat"
+title: TSMC'nin ABD'ye 100 Milyar Dolarlık Yatırımı
+subtitle: TSMC'nin ABD'ye 100 Milyar Dolarlık Yatırımı
+date: '2025-03-06T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_c461be90f4334a498218d18c0f43cbe4~mv2.jpg
+imageAlt: TSMC'nin ABD'ye 100 Milyar Dolarlık Yatırımı
+wixId: a1284079-c245-4196-b57c-137968178325
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- TSMC
+- yarı iletken
+- Arizona
+- çip fabrikası
+- yapay zeka
+- Donald Trump
+- yatırım
 ---
 <p style="text-align: justify"><strong>Taiwan Semiconductor Manufacturing Company</strong> (<strong>TSMC</strong>), dünyanın en büyük yarı iletken üreticisi olarak, ABD'de 100 milyar dolarlık devasa bir yatırım planını açıkladı. Bu yatırım, şirketin halihazırda Arizona'da inşa etmekte olduğu üç çip fabrikasına ek olarak iki yeni tesisin daha kurulmasını içermekte. TSMC'nin CEO'su <strong>C.C. Wei</strong>, <strong>Başkan Donald Trump</strong> ile birlikte Beyaz Saray'da yaptığı açıklamada, bu yatırımın ABD'de yarı iletken üretim kapasitesini önemli ölçüde artıracağını ve binlerce yüksek maaşlı iş imkanı yaratacağını belirtti.</p>
 <p><br></p>

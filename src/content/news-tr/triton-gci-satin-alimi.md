@@ -1,14 +1,22 @@
 ---
-title: "Triton, GCI'yi 1 Milyar Dolardan Fazla Bir Anlaşmayla Satın Aldı"
-subtitle: "Triton, GCI'yi 1 Milyar Dolardan Fazla Bir Anlaşmayla Satın Aldı"
-date: "2025-03-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_46ef2ecda1394ef590b82bdcee819b12~mv2.jpg"
-imageAlt: "Triton, GCI'yi 1 Milyar Dolardan Fazla Bir Anlaşmayla Satın Aldı"
-wixId: "94af08d4-db52-4508-87c4-40fd081a3ab3"
-author: "Sedat Onat"
+title: Triton, GCI'yi 1 Milyar Dolardan Fazla Bir Anlaşmayla Satın Aldı
+subtitle: Triton, GCI'yi 1 Milyar Dolardan Fazla Bir Anlaşmayla Satın Aldı
+date: '2025-03-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_46ef2ecda1394ef590b82bdcee819b12~mv2.jpg
+imageAlt: Triton, GCI'yi 1 Milyar Dolardan Fazla Bir Anlaşmayla Satın Aldı
+wixId: 94af08d4-db52-4508-87c4-40fd081a3ab3
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Triton International
+- GCI
+- konteyner kiralama
+- satın alma
+- küresel ticaret
+- tedarik zinciri
+- lojistik
 ---
 <p style="text-align: justify"><a href="https://www.tritoninternational.com/"><u><strong>Triton International Limited</strong></u><u>, </u><u><strong>Global Container International LLC</strong></u></a>'yi (<strong>GCI</strong>) 1 milyar ABD dolarını aşan bir anlaşmayla satın aldı. Bu stratejik hamle, <strong>Triton</strong>'un konteyner kiralama sektöründeki liderliğini pekiştirmekte ve küresel varlığını genişletmekte.​</p>
 <p><br></p>

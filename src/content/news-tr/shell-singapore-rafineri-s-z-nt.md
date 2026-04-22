@@ -1,14 +1,22 @@
 ---
-title: "Singapur'daki Shell Rafinerisi İki Ay İçinde İkinci Petrol Sızıntısını Yaşadı"
-subtitle: "Singapur'daki Shell Rafinerisi İki Ay İçinde İkinci Petrol Sızıntısını Yaşadı"
-date: "2024-12-27T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_9baa3e161eab47c0957daaa45f53bbfa~mv2.jpeg"
-imageAlt: "Singapur'daki Shell Rafinerisi İki Ay İçinde İkinci Petrol Sızıntısını Yaşadı"
-wixId: "bf754e7a-3de7-47e9-9560-47207cfb6dea"
-author: "Sedat Onat"
+title: Singapur'daki Shell Rafinerisi İki Ay İçinde İkinci Petrol Sızıntısını Yaşadı
+subtitle: Singapur'daki Shell Rafinerisi İki Ay İçinde İkinci Petrol Sızıntısını Yaşadı
+date: '2024-12-27T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_9baa3e161eab47c0957daaa45f53bbfa~mv2.jpeg
+imageAlt: Singapur'daki Shell Rafinerisi İki Ay İçinde İkinci Petrol Sızıntısını Yaşadı
+wixId: bf754e7a-3de7-47e9-9560-47207cfb6dea
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Shell
+- Singapur
+- petrol sızıntısı
+- rafineri
+- çevre kirliliği
+- Pulau Bukom
+- deniz kirliliği
 ---
 <p>Singapur'daki <strong>Shell</strong>'in Pulau Bukom tesisinde, son iki ay içinde ikinci kez petrol sızıntısı meydana geldi. 26 Aralık 2024'te, rafinerinin bir petrol işleme ünitesinde şüpheli bir sızıntı tespit edildi ve bu ünite derhal kapatıldı. <strong>Shell</strong>, birkaç ton rafine petrol ürününün, soğutma suyu deşarjıyla birlikte sızdığını tahmin ediyor.</p>
 <p><br></p>

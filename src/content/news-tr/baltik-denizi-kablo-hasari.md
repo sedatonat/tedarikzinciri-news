@@ -1,14 +1,22 @@
 ---
-title: "Baltık Denizindeki Letonya-İsveç Fiber Optik Kablosu Harici Müdahale ile Hasar Aldı"
-subtitle: "Baltık Denizindeki Letonya-İsveç Fiber Optik Kablosu Harici Müdahale ile Hasar Aldı"
-date: "2025-02-26T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_0afcc0530e4e49528cb9416c72ffd991~mv2.jpg"
-imageAlt: "Baltık Denizindeki Letonya-İsveç Fiber Optik Kablosu Harici Müdahale ile Hasar Aldı"
-wixId: "9df87b86-71f5-4a41-a1d5-89ddcdf7a7bd"
-author: "Sedat Onat"
+title: Baltık Denizindeki Letonya-İsveç Fiber Optik Kablosu Harici Müdahale ile Hasar Aldı
+subtitle: Baltık Denizindeki Letonya-İsveç Fiber Optik Kablosu Harici Müdahale ile Hasar Aldı
+date: '2025-02-26T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_0afcc0530e4e49528cb9416c72ffd991~mv2.jpg
+imageAlt: Baltık Denizindeki Letonya-İsveç Fiber Optik Kablosu Harici Müdahale ile Hasar Aldı
+wixId: 9df87b86-71f5-4a41-a1d5-89ddcdf7a7bd
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- fiber optik kablo
+- Baltık Denizi
+- NATO
+- kritik altyapı
+- denizaltı kablo
+- Letonya
+- İsveç
 ---
 <p style="text-align: justify">26 Ocak 2025 tarihinde, <strong>Letonya</strong> ile <strong>İsveç</strong> arasında Baltık Denizi'nde bulunan bir deniz altı fiber optik kablosunun harici bir etki sonucu hasar aldığı bildirildi. <strong>Letonya Başbakanı Evika Silina</strong>, olağanüstü bir hükümet toplantısının ardından yaptığı açıklamada, hasarın büyük olasılıkla dış etkenlerden kaynaklandığını ve önemli derecede olduğunu belirtti.</p>
 <p><br></p>

@@ -1,14 +1,21 @@
 ---
-title: "Mega-Containership and Oil Tanker Collide in Strait of Gibraltar"
-subtitle: "Mega-Containership and Oil Tanker Collide in Strait of Gibraltar"
-date: "2024-12-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e5d155bf23e545d2a338d3864ac72a2d~mv2.png"
-imageAlt: "Mega-Containership and Oil Tanker Collide in Strait of Gibraltar"
-wixId: "8aea4a8d-d5d5-48bd-a320-9f14af7805fa"
-author: "Sedat Onat"
+title: Mega-Containership and Oil Tanker Collide in Strait of Gibraltar
+subtitle: Mega-Containership and Oil Tanker Collide in Strait of Gibraltar
+date: '2024-12-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e5d155bf23e545d2a338d3864ac72a2d~mv2.png
+imageAlt: Mega-Containership and Oil Tanker Collide in Strait of Gibraltar
+wixId: 8aea4a8d-d5d5-48bd-a320-9f14af7805fa
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Strait of Gibraltar
+- container ship
+- oil tanker
+- ship collision
+- HMM
+- maritime accident
+- Algeciras
 ---
-
 <p>In the Strait of Gibraltar, one of the world's largest container ships collided with a crude oil tanker in the early morning hours of Tuesday, December 3, 2024. The incident occurred when the Gloria Maris, a suezmax crude oil tanker flying the Liberian flag with 25 crew members, collided with the HMM ST Petersburg container vessel carrying 24 crew members. The collision was reported to have occurred approximately 8.9 nautical miles southeast of Algeciras.</p>\n<p><br></p>\n<p>Salvamento Maritimo, Spain's maritime rescue service, announced that following an examination by the ships' crews, damage was detected to the side structures, but there was no risk of sinking or oil spillage. Following the incident, Spanish maritime rescue services dispatched vessels named Luz de Mar and Salvamar Denébola to the scene. According to initial reports, no injuries were sustained in the collision.</p>\n<p><br></p>\n<p>The Gloria Maris was sailing in ballast after discharging 147,564 tons of crude oil at the Port of Cartagena. Meanwhile, the HMM ST Petersburg, delivered in 2020 and built for South Korea's HMM company, is the last of 12 sister ships. The vessel exceeds 400 meters in length and has a capacity of 24,000 TEU, making it one of the world's largest container ships. The HMM ST Petersburg operates on the FE4 service route between North China and North Europe.</p>\n<p><br></p>\n<p>Following the incident, the Algeciras Port Authority detained both vessels for detailed security inspections and to determine the causes of the collision. As of Wednesday, December 4, both vessels were reported to be safely anchored in the Algeciras/Strait of Gibraltar bay.</p>\n<p><br></p>\n<p>According to a post on Salvamento Maritimo's social media account, the collision occurred in the morning hours near the Algeciras Bay and rapid response measures were deployed. It was emphasized that neither vessel sustained serious damage and there was no oil spillage risk. However, authorities decided to conduct comprehensive inspections to ensure the safety of the vessels.</p>\n<p><br></p>\n<p>Accidents involving large-scale vessels transiting through heavily trafficked maritime areas such as the Strait of Gibraltar are considered significant events in terms of maritime safety and the application of international maritime law. Experts note that ship captains and crews need to exercise greater caution to prevent similar incidents from occurring.</p>\n<p><br></p>\n<p>Following the incident, necessary measures were taken to enable both vessels to resume normal operations, and relevant authorities continued their efforts to ensure uninterrupted maritime traffic flow. While investigations into the details and causes of the collision continue, international maritime authorities are expected to introduce new regulations to prevent similar incidents from recurring.</p>\n<p><br></p>\n<h5><strong>Key Points:</strong></h5>\n<ul>\n  <li><p>The collision occurred in the early morning hours of Tuesday, December 3, 2024.</p></li>\n  <li><p>The incident involved the Gloria Maris with 25 crew members and the HMM ST Petersburg with 24 crew members.</p></li>\n  <li><p>Damage was detected to the side structures of the vessels; no sinking or oil spillage occurred.</p></li>\n  <li><p>Spanish maritime rescue services dispatched Luz de Mar and Salvamar Denébola to the scene.</p></li>\n  <li><p>The Gloria Maris had discharged 147,564 tons of crude oil at the Port of Cartagena.</p></li>\n  <li><p>The HMM ST Petersburg is a container vessel delivered in 2020 with a capacity of 24,000 TEU.</p></li>\n  <li><p>Both vessels were detained by the Algeciras Port Authority and safely anchored.</p></li>\n  <li><p>Investigations into the causes and details of the collision are ongoing.</p></li>\n</ul>\n<p><br></p>\n<p>---</p>\n<p><br></p>\n<p><strong>News Link: </strong><a href="https://gcaptain.com/mega-containership-and-oil-tanker-collide-in-strait-of-gibraltar/"><u>https://gcaptain.com/mega-containership-and-oil-tanker-collide-in-strait-of-gibraltar/</u></a></p>\n<p><br></p>\n<p>-------------------</p>\n<p><strong>!!! ANNOUNCEMENT !!!</strong></p>\n<p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>\n<p>#What is ERP?</p>\n<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via the link.</p>\n<p>Your feedback would make us happy.</p>\n<p>Wishing you happy reading.</p>

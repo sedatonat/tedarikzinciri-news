@@ -1,14 +1,23 @@
 ---
-title: "Tedarik Zincirinde En Yüksek İş Yeri Yaralanma Oranlarına Sahip Meslekler"
-subtitle: "Tedarik Zincirinde En Yüksek İş Yeri Yaralanma Oranlarına Sahip Meslekler"
-date: "2025-02-25T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_96f5e0429d6949508071b9f8bcdfbd6e~mv2.jpg"
-imageAlt: "Tedarik Zincirinde En Yüksek İş Yeri Yaralanma Oranlarına Sahip Meslekler"
-wixId: "2a3a1963-229e-45a8-b0e1-ffc82cea8b0d"
-author: "Sedat Onat"
+title: Tedarik Zincirinde En Yüksek İş Yeri Yaralanma Oranlarına Sahip Meslekler
+subtitle: Tedarik Zincirinde En Yüksek İş Yeri Yaralanma Oranlarına Sahip Meslekler
+date: '2025-02-25T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_96f5e0429d6949508071b9f8bcdfbd6e~mv2.jpg
+imageAlt: Tedarik Zincirinde En Yüksek İş Yeri Yaralanma Oranlarına Sahip Meslekler
+wixId: 2a3a1963-229e-45a8-b0e1-ffc82cea8b0d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- iş güvenliği
+- tedarik zinciri
+- işyeri yaralanmaları
+- depolama
+- taşımacılık
+- otomasyon
+- koruyucu ekipman
+- perakende
 ---
 <p style="text-align: justify">Tedarik zinciri sektöründe çalışanlar, iş yerinde yaralanma riskleriyle karşı karşıya kalmakta. Özellikle <strong>taşımacılık ve depolama</strong> alanlarında faaliyet gösteren çalışanlar, yüksek yaralanma oranlarına sahip meslek grupları arasında yer almakta. ​</p>
 <p><br></p>

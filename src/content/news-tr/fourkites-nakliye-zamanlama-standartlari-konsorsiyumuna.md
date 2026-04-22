@@ -1,14 +1,22 @@
 ---
-title: "FourKites, Nakliye Zamanlama Standartları Konsorsiyumu'na Katıldı"
-subtitle: "FourKites, Nakliye Zamanlama Standartları Konsorsiyumu'na Katıldı"
-date: "2024-05-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6c59629f62454ba8b11c2f7bd34f1177~mv2.png"
-imageAlt: "FourKites, Nakliye Zamanlama Standartları Konsorsiyumu'na Katıldı"
-wixId: "0037be92-f6ab-47ab-9b06-6cf6d4b0e386"
-author: "Sedat Onat"
+title: FourKites, Nakliye Zamanlama Standartları Konsorsiyumu'na Katıldı
+subtitle: FourKites, Nakliye Zamanlama Standartları Konsorsiyumu'na Katıldı
+date: '2024-05-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_6c59629f62454ba8b11c2f7bd34f1177~mv2.png
+imageAlt: FourKites, Nakliye Zamanlama Standartları Konsorsiyumu'na Katıldı
+wixId: 0037be92-f6ab-47ab-9b06-6cf6d4b0e386
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- FourKites
+- zamanlama standartları
+- nakliye sektörü
+- API entegrasyonu
+- TMS
+- otomasyon
+- lojistik teknolojisi
 ---
 <p>FourKites, nakliye sektöründeki önemli şirketlerin ve hizmet sağlayıcılarının yer aldığı <a href="https://www.freightapis.org/"><u>Zamanlama Standartları Konsorsiyumu (SSC)</u></a>'na katıldığını duyurdu. SSC, 2023 yılında nakliye randevuları için bir endüstri standardı yayınladı ve taşıma yönetim sistemleri (TMS) geliştiricileri için bir uygulama programlama arayüzü (API) oluşturdu. Bu gelişme, tarafların daha verimli çalışmasını, gereksiz seyahatleri ve atıkları azaltmasını, maliyetleri düşürmesini ve hizmet kalitesini artırmasını sağlayacak ortak bir dil oluşturdu.&nbsp;</p>
 <p><br></p>

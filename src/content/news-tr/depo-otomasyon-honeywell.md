@@ -1,14 +1,22 @@
 ---
-title: "Honeywell Depo Otomasyonundaki Varlığını Güçlendiriyor"
-subtitle: "Honeywell Depo Otomasyonundaki Varlığını Güçlendiriyor"
-date: "2024-02-22T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_c214343839c34c97bf359517265ba4b2~mv2.jpg"
-imageAlt: "Honeywell Depo Otomasyonundaki Varlığını Güçlendiriyor"
-wixId: "ff29c71f-c90f-445e-bff8-d3aa2ce9396b"
-author: "Sedat Onat"
+title: Honeywell Depo Otomasyonundaki Varlığını Güçlendiriyor
+subtitle: Honeywell Depo Otomasyonundaki Varlığını Güçlendiriyor
+date: '2024-02-22T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_c214343839c34c97bf359517265ba4b2~mv2.jpg
+imageAlt: Honeywell Depo Otomasyonundaki Varlığını Güçlendiriyor
+wixId: ff29c71f-c90f-445e-bff8-d3aa2ce9396b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Honeywell
+- depo otomasyonu
+- Intelligrated
+- Hai Robotics
+- e-ticaret
+- işgücü sıkıntısı
+- robotik
 ---
 <p>Honeywell, artan e-ticaret gönderileri ve süregelen işgücü sıkıntıları gibi makro trendlerin pazar için olumlu olduğu bir dönemde, depo otomasyon işini güçlendirmeyi hedefliyor.&nbsp;</p>
 <p><br></p>

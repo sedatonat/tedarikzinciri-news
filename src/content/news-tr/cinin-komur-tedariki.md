@@ -1,14 +1,22 @@
 ---
-title: "Çin'in Kömür Tedariğinde Moğolistan'ın Artan Rolü"
-subtitle: "Çin'in Kömür Tedariğinde Moğolistan'ın Artan Rolü"
-date: "2025-01-21T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_6cb973cc0f6e4e4ea5493ab124a722a3~mv2.jpg"
-imageAlt: "Çin'in Kömür Tedarikinde Moğolistan'ın Artan Rolü"
-wixId: "07185edb-1944-4020-89f6-908538d8ff0a"
-author: "Sedat Onat"
+title: Çin'in Kömür Tedariğinde Moğolistan'ın Artan Rolü
+subtitle: Çin'in Kömür Tedariğinde Moğolistan'ın Artan Rolü
+date: '2025-01-21T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_6cb973cc0f6e4e4ea5493ab124a722a3~mv2.jpg
+imageAlt: Çin'in Kömür Tedarikinde Moğolistan'ın Artan Rolü
+wixId: 07185edb-1944-4020-89f6-908538d8ff0a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- kömür tedarik
+- Moğolistan
+- Çin
+- Rusya
+- enerji güvenliği
+- madencilik
+- ticaret hacmi
 ---
 <p style="text-align: justify">​Çin'in kömür talebi son yıllarda istikrar kazanmış durumda. Bu durum, <strong>Moğolistan</strong>'ı güney komşusu olan <strong>Çin</strong>'deki pazar payını koruma veya artırma konusunda avantajlı bir konuma getirmekte. Özellikle <strong>Rusya</strong>'nın Çin'e olan kömür ihracatındaki payının azalması, Moğolistan'ın bu alandaki fırsatlarını genişletmekte. ​</p>
 <p><br></p>

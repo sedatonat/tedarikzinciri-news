@@ -1,16 +1,23 @@
 ---
-title: "Russia Introduces Export Duties on Leguminous Crops"
-subtitle: "Russia Introduces Export Duties on Leguminous Crops"
-date: "2025-01-10T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_95a2a998146947229f199c1cbd3b8a2d~mv2.png"
-imageAlt: "Russia Introduces Export Duties on Leguminous Crops"
-wixId: "3bc8bba6-f174-4b65-b005-cf1598ae0034"
-author: "Sedat Onat"
+title: Russia Introduces Export Duties on Leguminous Crops
+subtitle: Russia Introduces Export Duties on Leguminous Crops
+date: '2025-01-10T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_95a2a998146947229f199c1cbd3b8a2d~mv2.png
+imageAlt: Russia Introduces Export Duties on Leguminous Crops
+wixId: 3bc8bba6-f174-4b65-b005-cf1598ae0034
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Russia
+- export tax
+- legumes
+- customs duty
+- agriculture sector
+- food security
+- supply chain
 ---
-
 <p style="text-align: justify">The Russian Federation Government has begun imposing customs duties on the export of certain leguminous products.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">This new regulation marks a significant shift in Russia's agricultural sector. Leguminous crops occupy an important place in Russia's agricultural production and exports. Products such as peas, chickpeas, and lentils are consumed in the domestic market and also sold abroad.</p>

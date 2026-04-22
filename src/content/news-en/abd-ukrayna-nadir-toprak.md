@@ -1,16 +1,24 @@
 ---
-title: "The Impact of the US-Ukraine Rare Earth Elements Agreement on Supply Chains"
-subtitle: "The Impact of the US-Ukraine Rare Earth Elements Agreement on Supply Chains"
-date: "2025-02-26T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_1e2a9d3e03fe441aabcbb39e6be88a84~mv2.jpg"
-imageAlt: "The Impact of the US-Ukraine Rare Earth Elements Agreement on Supply Chains"
-wixId: "28dd3148-7389-48a3-a3e8-2c8f128afc9c"
-author: "Sedat Onat"
+title: The Impact of the US-Ukraine Rare Earth Elements Agreement on Supply Chains
+subtitle: The Impact of the US-Ukraine Rare Earth Elements Agreement on Supply Chains
+date: '2025-02-26T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_1e2a9d3e03fe441aabcbb39e6be88a84~mv2.jpg
+imageAlt: The Impact of the US-Ukraine Rare Earth Elements Agreement on Supply Chains
+wixId: 28dd3148-7389-48a3-a3e8-2c8f128afc9c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- rare earth elements
+- USA
+- Ukraine
+- China
+- supply chain
+- critical minerals
+- green energy
+- geopolitics
 ---
-
 <p style="text-align: justify"><strong>The United States</strong> and <strong>Ukraine</strong> have signed a rare earth elements agreement that is driving significant changes in global supply chains. This agreement aims to diversify and secure supplies of critical minerals, particularly for use in technology and defense industries.</p>
 <p><br></p>
 <p style="text-align: justify">Rare earth elements are used in numerous applications, from electronic devices to military equipment. These elements serve as fundamental components in modern technology due to their high magnetic properties and conductivity. Elements such as <strong>neodymium</strong>, <strong>dysprosium</strong>, and <strong>terbium</strong> are particularly critical for green energy technologies, including wind turbines and electric vehicle motors.</p>

@@ -1,14 +1,23 @@
 ---
-title: "Çin'in 3,6 Milyar Dolarlık Peru Limanı Açıldı: Latin Amerika Ticaret Rotalarını Dönüştürüyor"
-subtitle: "Çin'in 3,6 Milyar Dolarlık Peru Limanı Açıldı: Latin Amerika Ticaret Rotalarını Dönüştürüyor"
-date: "2024-11-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e77d832db3464ea6936bfc30f2053eb5~mv2.jpg"
-imageAlt: "Çin'in 3,6 Milyar Dolarlık Peru Limanı Açıldı: Latin Amerika Ticaret Rotalarını Dönüştürüyor"
-wixId: "88de23b1-70a3-4492-ac75-c42ea54763b1"
-author: "Sedat Onat"
+title: 'Çin''in 3,6 Milyar Dolarlık Peru Limanı Açıldı: Latin Amerika Ticaret Rotalarını Dönüştürüyor'
+subtitle: 'Çin''in 3,6 Milyar Dolarlık Peru Limanı Açıldı: Latin Amerika Ticaret Rotalarını Dönüştürüyor'
+date: '2024-11-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e77d832db3464ea6936bfc30f2053eb5~mv2.jpg
+imageAlt: 'Çin''in 3,6 Milyar Dolarlık Peru Limanı Açıldı: Latin Amerika Ticaret Rotalarını Dönüştürüyor'
+wixId: 88de23b1-70a3-4492-ac75-c42ea54763b1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Chancay Port
+- Peru
+- Çin
+- COSCO
+- Belt and Road Initiative
+- Latin Amerika
+- liman altyapısı
+- lityum
 ---
 <p>Çin Devlet Başkanı Xi Jinping, 14 Kasım’da Peru’da bulunan Chancay Port’unu açtı. Bu önemli proje, Çin’in Belt and Road Initiative (BRI) kapsamında Latin Amerika’daki varlığını güçlendiriyor. 3,6 milyar dolarlık derin deniz limanı, öncelikle Çin tarafından finanse edilip Çin Ocean Shipping Company (COSCO) tarafından işletiliyor. COSCO, projede %60 hisseye sahip. Chancay Port, Güney Amerika ile Asya arasındaki ticareti dönüştürmeyi ve Kuzey Amerika’yı tamamen baypas etmeyi hedefliyor.</p>
 <p><br></p>

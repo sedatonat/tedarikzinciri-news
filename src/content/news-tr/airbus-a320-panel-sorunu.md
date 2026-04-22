@@ -1,14 +1,23 @@
 ---
-title: "Airbus A320 Serisinde Panel Kalite Sorunu İçin Geniş Çaplı İnceleme Başlattı"
-subtitle: "Airbus A320 Serisinde Panel Kalite Sorunu İçin Geniş Çaplı İnceleme Başlattı"
-date: "2025-12-01T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_cc17f1e6d68846bbad7c1e1853026c05~mv2.jpg"
-imageAlt: "Airbus’ın A320 gövde panellerindeki kalite sorunları nedeniyle başlattığı incelemeler, teslimat hedefleri, yatırımcı etkileri ve yazılım sorunlarının ardından ortaya çıkan süreç üzerine detaylı haber özeti"
-wixId: "7d04879e-5d21-427a-af39-fb1f530b4aeb"
-author: "Sedat Onat"
+title: Airbus A320 Serisinde Panel Kalite Sorunu İçin Geniş Çaplı İnceleme Başlattı
+subtitle: Airbus A320 Serisinde Panel Kalite Sorunu İçin Geniş Çaplı İnceleme Başlattı
+date: '2025-12-01T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_cc17f1e6d68846bbad7c1e1853026c05~mv2.jpg
+imageAlt: Airbus’ın A320 gövde panellerindeki kalite sorunları nedeniyle başlattığı incelemeler, teslimat hedefleri, yatırımcı etkileri ve yazılım sorunlarının ardından ortaya çıkan süreç üzerine detaylı haber özeti
+wixId: 7d04879e-5d21-427a-af39-fb1f530b4aeb
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Airbus
+- A320
+- kalite sorunu
+- havacılık
+- tedarik zinciri
+- üretim
+- yazılım güncellemesi
+- teslimat
 ---
 <p style="text-align: justify"><strong>Airbus SE</strong>, A320 ailesi uçaklarda arka arkaya yaşanan teknik sorunlarla karşı karşıya. Şirket, yaklaşık <strong>6,000 uçak</strong> için acil yazılım güncellemesi çağrısı yaptığı olayın üzerinden birkaç gün geçmişken, bu kez A320’nin gövde yapısında yer alan bazı <strong>fuselage panels</strong> üzerinde kalite sorunları tespit edildiğini açıkladı. Bu durum, Airbus’ın en popüler ürün hattında ek bir baskı oluşturmakta ve şirket hisselerinde sert bir düşüşe neden olmakta.</p>
 <p><br></p>

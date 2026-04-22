@@ -1,16 +1,23 @@
 ---
-title: "Competition Heats Up Between Maersk and MSC for Vietnam's $6 Billion \"Can Gio Mega Port\""
-subtitle: "Competition Heats Up Between Maersk and MSC for Vietnam's $6 Billion \"Can Gio Mega Port\""
-date: "2025-12-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8e3045ecdd9e4892b36aecea808da582~mv2.jpg"
-imageAlt: "The competition between Maersk and MSC for Vietnam's Can Gio International Transshipment Port project near Ho Chi Minh City, detailing the strategic importance of the mega-port with 16.9 million TEU capacity and the new power struggle emerging after the dissolution of the 2M alliance"
-wixId: "919baf3f-1414-4835-bddb-ce68b9d30143"
-author: "Sedat Onat"
+title: Competition Heats Up Between Maersk and MSC for Vietnam's $6 Billion "Can Gio Mega Port"
+subtitle: Competition Heats Up Between Maersk and MSC for Vietnam's $6 Billion "Can Gio Mega Port"
+date: '2025-12-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8e3045ecdd9e4892b36aecea808da582~mv2.jpg
+imageAlt: The competition between Maersk and MSC for Vietnam's Can Gio International Transshipment Port project near Ho Chi Minh City, detailing the strategic importance of the mega-port with 16.9 million TEU capacity and the new power struggle emerging after the dissolution of the 2M alliance
+wixId: 919baf3f-1414-4835-bddb-ce68b9d30143
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Can Gio port
+- Maersk
+- MSC
+- Vietnam
+- transshipment
+- port investment
+- Southeast Asia
 ---
-
 <p style="text-align: justify">Vietnam's planned <strong>Can Gio International Transshipment Port</strong> in the south is positioned as one of the most strategically significant port investments for Southeast Asia over the coming decade. This massive "<strong>super-port</strong>", to be constructed at a cost of approximately <strong>$6 billion USD</strong>, aims to challenge Singapore's regional transshipment leadership with an annual capacity target of roughly <strong>16.9 million TEU</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">In recent months, industry circles have been dominated by the perception that "<strong>MSC is the natural winner of the project</strong>"; indeed, MSC's terminal arm <strong>TIL</strong> has been the official bidder for Can Gio since 2022 and remains the most active party working on the project. Discussions with Vietnamese officials and the design proposals submitted by TIL had positioned MSC in an early leading position.</p>

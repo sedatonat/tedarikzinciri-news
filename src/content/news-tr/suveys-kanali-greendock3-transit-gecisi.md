@@ -1,14 +1,22 @@
 ---
-title: "Süveyş Kanalı, 42.000 Tonluk GREEN DOCK 3 Yüzer Havuzunun Geçişini Başarıyla Tamamladı"
-subtitle: "Süveyş Kanalı, 42.000 Tonluk GREEN DOCK 3 Yüzer Havuzunun Geçişini Başarıyla Tamamladı"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_74494102b1ba47908f5ee155d9c65c24~mv2.jpg"
-imageAlt: "GREEN DOCK 3 adlı dev yüzer havuzun beş römorkör eşliğinde Süveyş Kanalı’ndan 24 saatte gerçekleştirdiği özel geçiş operasyonu, güvenlik prosedürleri, ekonomik etkiler ve global seyrüsefer açısından önemine dair detaylı özet"
-wixId: "a34b6caa-3e0b-42c4-9d0e-59e8f1a171d7"
-author: "Sedat Onat"
+title: Süveyş Kanalı, 42.000 Tonluk GREEN DOCK 3 Yüzer Havuzunun Geçişini Başarıyla Tamamladı
+subtitle: Süveyş Kanalı, 42.000 Tonluk GREEN DOCK 3 Yüzer Havuzunun Geçişini Başarıyla Tamamladı
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_74494102b1ba47908f5ee155d9c65c24~mv2.jpg
+imageAlt: GREEN DOCK 3 adlı dev yüzer havuzun beş römorkör eşliğinde Süveyş Kanalı’ndan 24 saatte gerçekleştirdiği özel geçiş operasyonu, güvenlik prosedürleri, ekonomik etkiler ve global seyrüsefer açısından önemine dair detaylı özet
+wixId: a34b6caa-3e0b-42c4-9d0e-59e8f1a171d7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Süveyş Kanalı
+- yüzer havuz
+- GREEN DOCK 3
+- deniz taşımacılığı
+- römorkör operasyonu
+- emisyon tasarrufu
+- Kızıldeniz
 ---
 <p style="text-align: justify">Süveyş Kanalı İdaresi (<strong>Suez Canal Authority – SCA</strong>) Aralık 2025’te, dünyanın en büyük yedek çekilen yüzer havuzlarından biri olan <strong>GREEN DOCK 3</strong>’ün Kanal’dan <strong>başarıyla geçiş yaptığını</strong> duyurdu. SCA Başkanı <strong>Admiral Osama Rabiee</strong>, bu operasyonun “Kanalın konvansiyonel olmayan büyük deniz ünitelerini güvenli şekilde geçirebildiğini” kanıtladığını vurguladı.</p>
 <p><br></p>

@@ -1,14 +1,23 @@
 ---
-title: "Grimaldi Filosu Yeni Çok Amaçlı Gemiyle Genişliyor"
-subtitle: "Grimaldi Filosu Yeni Çok Amaçlı Gemiyle Genişliyor"
-date: "2024-12-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_27c0dd662e6b4b68b437c1d4391dd32b~mv2.jpg"
-imageAlt: "Grimaldi Filosu Yeni Çok Amaçlı Gemiyle Genişliyor"
-wixId: "04a27e81-0595-479c-8245-97abbd44524e"
-author: "Sedat Onat"
+title: Grimaldi Filosu Yeni Çok Amaçlı Gemiyle Genişliyor
+subtitle: Grimaldi Filosu Yeni Çok Amaçlı Gemiyle Genişliyor
+date: '2024-12-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_27c0dd662e6b4b68b437c1d4391dd32b~mv2.jpg
+imageAlt: Grimaldi Filosu Yeni Çok Amaçlı Gemiyle Genişliyor
+wixId: 04a27e81-0595-479c-8245-97abbd44524e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Grimaldi Group
+- ro-ro gemisi
+- çok amaçlı gemi
+- Hyundai Mipo
+- Batı Afrika
+- CO₂ emisyonu
+- cold ironing
+- TEU
 ---
 <p>20 Aralık 2024'te <strong>Grimaldi Group</strong>, Güney Kore'nin Ulsan kentindeki <strong>Hyundai Mipo Dockyard Co. Ltd</strong> tersanesinde inşa edilen <strong>Great Cotonou</strong> adlı yeni çok amaçlı ro-ro gemisini teslim aldı. Bu teslimatla birlikte, şirketin altı yenilikçi G5 sınıfı ro-ro çok amaçlı gemiden oluşan filosu tamamlanmış oldu.</p>
 <p><br></p>

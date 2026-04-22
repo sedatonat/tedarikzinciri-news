@@ -1,14 +1,22 @@
 ---
-title: "Wärtsilä, Meghna Fresh'in LPG Gemisine Kargo İşleme Sistemi Sağlıyor"
-subtitle: "Wärtsilä, Meghna Fresh'in LPG Gemisine Kargo İşleme Sistemi Sağlıyor"
-date: "2024-11-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0f4863edcb234a6baf92a4723626baef~mv2.jpeg"
-imageAlt: "Wärtsilä, Meghna Fresh'in LPG Gemisine Kargo İşleme Sistemi Sağlıyor"
-wixId: "40ac196f-9b6d-4522-9bf8-aeea10b14506"
-author: "Sedat Onat"
+title: Wärtsilä, Meghna Fresh'in LPG Gemisine Kargo İşleme Sistemi Sağlıyor
+subtitle: Wärtsilä, Meghna Fresh'in LPG Gemisine Kargo İşleme Sistemi Sağlıyor
+date: '2024-11-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0f4863edcb234a6baf92a4723626baef~mv2.jpeg
+imageAlt: Wärtsilä, Meghna Fresh'in LPG Gemisine Kargo İşleme Sistemi Sağlıyor
+wixId: 40ac196f-9b6d-4522-9bf8-aeea10b14506
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Wärtsilä
+- LPG taşıyıcısı
+- kargo işleme sistemi
+- Meghna Group
+- Bangladeş
+- gemi inşası
+- denizcilik
 ---
 <p>Wärtsilä Gas Solutions, Bangladeşli Meghna Group'un bir yan kuruluşu olan Meghna Fresh LPG için yeni bir tam basınçlı LPG taşıyıcısına kargo işleme sistemi sağlayacağını açıkladı. Meghna Group, ülkenin en büyük sanayi holdinglerinden biri olup, yeni gemiyi sahip olduğu tersane ve enerji işletmeleriyle birlikte kullanacak.</p>
 <p><br></p>

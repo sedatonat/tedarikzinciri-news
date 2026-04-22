@@ -1,14 +1,22 @@
 ---
-title: "2023 Yılında Nakliye Sektöründe Karlılık Düşüşü"
-subtitle: "2023 Yılında Nakliye Sektöründe Karlılık Düşüşü"
-date: "2024-06-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_57a23428d0b74be781e25b11f4efeaee~mv2.png"
-imageAlt: "2023 Yılında Nakliye Sektöründe Karlılık Düşüşü"
-wixId: "0705c138-263e-41d0-a563-12ff62c83985"
-author: "Sedat Onat"
+title: 2023 Yılında Nakliye Sektöründe Karlılık Düşüşü
+subtitle: 2023 Yılında Nakliye Sektöründe Karlılık Düşüşü
+date: '2024-06-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_57a23428d0b74be781e25b11f4efeaee~mv2.png
+imageAlt: 2023 Yılında Nakliye Sektöründe Karlılık Düşüşü
+wixId: 0705c138-263e-41d0-a563-12ff62c83985
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- nakliye sektörü
+- karlılık düşüşü
+- işletme marjları
+- kamyon taşımacılığı
+- sürücü maaşları
+- ATRI
+- lojistik maliyetleri
 ---
 <p>2023 yılında lojistik sektöründe karlılık düşük kaldı. Amerikan Taşımacılık Araştırma Enstitüsü'nün (ATRI) yıllık raporuna göre, nakliye sektöründe işletme marjları %6 veya daha düşük seviyelerde gerçekleşti. Bu durum, özellikle kamyon yükü ve özelleştirilmiş sektörlerde gelirlerin düşmesi ve maliyetlerin artmasıyla bağlantılı. Sigorta primleri, sürücü maaşları ve bakım maliyetleri gibi giderlerde önemli artışlar yaşandı. Bunun yanında, boşta geçen mil oranları ve sürücü devir hızlarında artış gözlendi.</p>
 <p><br></p>

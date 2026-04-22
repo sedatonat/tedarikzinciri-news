@@ -1,16 +1,23 @@
 ---
-title: "Russian Railways Records Largest Loading Decline in 15 Years"
-subtitle: "Russian Railways Records Largest Loading Decline in 15 Years"
-date: "2025-01-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3a54bd3665c642dfb840a047931e7a14~mv2.jpeg"
-imageAlt: "Russian Railways Records Largest Loading Decline in 15 Years"
-wixId: "cb4ebbdf-8057-418c-995c-9965499d53ed"
-author: "Sedat Onat"
+title: Russian Railways Records Largest Loading Decline in 15 Years
+subtitle: Russian Railways Records Largest Loading Decline in 15 Years
+date: '2025-01-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3a54bd3665c642dfb840a047931e7a14~mv2.jpeg
+imageAlt: Russian Railways Records Largest Loading Decline in 15 Years
+wixId: cb4ebbdf-8057-418c-995c-9965499d53ed
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Russian Railways
+- rail transport
+- freight transport
+- sanctions
+- infrastructure investment
+- container transport
+- Russia
 ---
-
 <p style="text-align: justify"><a href="https://eng.rzd.ru/"><u><strong>Russian Railways (RZD)</strong></u></a>, experienced the steepest decline in 15 years, registering a 4.1% drop in loading volumes, equivalent to a reduction of 51 million tons. The company completed a total of 1,181 million tons of loading in 2024, falling short of its initial target of 1,265 million tons.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Coal transportation in particular saw a 5.4% decline, representing approximately one-third of <a href="https://eng.rzd.ru/"><u><strong>RZD</strong></u></a>'s total freight. Non-ferrous metals declined by 9.3%, while construction materials fell 14.5%. In contrast, container transportation rose 1.1%, cokeable coal increased 2.3%, and fertilizers grew 6.2%.</p>

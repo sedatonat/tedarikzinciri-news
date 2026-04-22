@@ -1,14 +1,22 @@
 ---
-title: "DHL, HappyRobot Yapay Zekâ Ajanlarıyla Operasyon ve Müşteri İletişimini Güçlendiriyor"
-subtitle: "DHL, HappyRobot Yapay Zekâ Ajanlarıyla Operasyon ve Müşteri İletişimini Güçlendiriyor"
-date: "2025-11-25T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_14f64166743f40b6b5ffc8ef0056dea7~mv2.jpg"
-imageAlt: "DHL Supply Chain’in HappyRobot ile yaptığı iş birliği kapsamında telefon, e-posta ve mesajlaşma süreçlerini otonom yapay zekâ ajanlarıyla otomatikleştirmesi, operasyonel verimlilik ve müşteri deneyimindeki dönüşümü anlatan kapsamlı haber özeti"
-wixId: "f9e35786-ef3f-4308-a8d0-7b2fbace1b31"
-author: "Sedat Onat"
+title: DHL, HappyRobot Yapay Zekâ Ajanlarıyla Operasyon ve Müşteri İletişimini Güçlendiriyor
+subtitle: DHL, HappyRobot Yapay Zekâ Ajanlarıyla Operasyon ve Müşteri İletişimini Güçlendiriyor
+date: '2025-11-25T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_14f64166743f40b6b5ffc8ef0056dea7~mv2.jpg
+imageAlt: DHL Supply Chain’in HappyRobot ile yaptığı iş birliği kapsamında telefon, e-posta ve mesajlaşma süreçlerini otonom yapay zekâ ajanlarıyla otomatikleştirmesi, operasyonel verimlilik ve müşteri deneyimindeki dönüşümü anlatan kapsamlı haber özeti
+wixId: f9e35786-ef3f-4308-a8d0-7b2fbace1b31
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DHL
+- HappyRobot
+- yapay zeka
+- agentic AI
+- lojistik otomasyonu
+- müşteri iletişimi
+- depo yönetimi
 ---
 <p style="text-align: justify"><strong>DHL Group</strong>, küresel ölçekte operasyon yürüten lojistik devinin yapay zekâ stratejisini hızlandıran yeni bir adım atarak sözleşmeli lojistik kolu <strong>DHL Supply Chain</strong> ile yapay zekâ girişimi <strong>HappyRobot</strong> arasında kapsamlı bir iş birliği başlattı. Bu ortaklık, yüksek hacimli operasyonel iletişimin otomasyonunda <strong>agentic AI</strong> kullanımını merkezine almakta ve DHL’in hem müşteriye dönük süreçlerinde hem de çalışan deneyiminde köklü bir dönüşüm yaratma potansiyeline sahip.</p>
 <p><br></p>

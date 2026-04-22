@@ -1,14 +1,22 @@
 ---
-title: "ONE Slot Charter Anlaşmasıyla Kızıldeniz Hattına Geri Dönüyor"
-subtitle: "ONE Slot Charter Anlaşmasıyla Kızıldeniz Hattına Geri Dönüyor"
-date: "2025-12-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f3ca11410d234c8aa9ac8cf7bd414e12~mv2.jpg"
-imageAlt: "Ocean Network Express, güvenlik riskleri nedeniyle askıya aldığı Kızıldeniz operasyonlarına, Thailand merkezli RCL ve bölgesel ortaklarla yapılan slot charter anlaşması kapsamında kontrollü şekilde yeniden başlamayı planlıyor."
-wixId: "695f51d9-6cfa-44f4-b504-87fc7cc5d945"
-author: "Sedat Onat"
+title: ONE Slot Charter Anlaşmasıyla Kızıldeniz Hattına Geri Dönüyor
+subtitle: ONE Slot Charter Anlaşmasıyla Kızıldeniz Hattına Geri Dönüyor
+date: '2025-12-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f3ca11410d234c8aa9ac8cf7bd414e12~mv2.jpg
+imageAlt: Ocean Network Express, güvenlik riskleri nedeniyle askıya aldığı Kızıldeniz operasyonlarına, Thailand merkezli RCL ve bölgesel ortaklarla yapılan slot charter anlaşması kapsamında kontrollü şekilde yeniden başlamayı planlıyor.
+wixId: 695f51d9-6cfa-44f4-b504-87fc7cc5d945
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ONE
+- Kızıldeniz
+- slot charter
+- konteyner taşımacılığı
+- RCL
+- Süveyş
+- deniz taşımacılığı
 ---
 <p style="text-align: justify">Küresel konteyner taşımacılığının önde gelen oyuncularından <strong>Ocean Network Express (ONE)</strong>, uzun süredir askıya aldığı Kızıldeniz bağlantılı taşımacılık faaliyetlerine sınırlı ve temkinli bir geri dönüş hazırlığı yapmakta. Şirket, <strong>Thailand</strong> merkezli <strong>Regional Container Lines (RCL)</strong> başta olmak üzere üç bölgesel taşıyıcı ile imzalanan <strong>slot charter anlaşması</strong> kapsamında, Kızıldeniz–Çin hattında yeniden kapasite sunmaya başlayacağını doğruladı.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Konteyner Denetim Raporlamasında İyileştirme Çağrısı"
-subtitle: "Konteyner Denetim Raporlamasında İyileştirme Çağrısı"
-date: "2024-09-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_cdaf774ffc3e40ad97000cbbcf09209e~mv2.jpg"
-imageAlt: "Konteyner Denetim Raporlamasında İyileştirme Çağrısı"
-wixId: "c7f768ca-69ba-459a-919d-802c09d232d6"
-author: "Sedat Onat"
+title: Konteyner Denetim Raporlamasında İyileştirme Çağrısı
+subtitle: Konteyner Denetim Raporlamasında İyileştirme Çağrısı
+date: '2024-09-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_cdaf774ffc3e40ad97000cbbcf09209e~mv2.jpg
+imageAlt: Konteyner Denetim Raporlamasında İyileştirme Çağrısı
+wixId: c7f768ca-69ba-459a-919d-802c09d232d6
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- konteyner denetimi
+- deniz taşımacılığı
+- IMO
+- Cargo Integrity Group
+- güvenlik standartları
+- SOLAS Konvansiyonu
+- raporlama
 ---
 <p>Cargo Integrity Group (CIG), deniz taşımacılığında güvenliği artırmak amacıyla ulusal yönetimlere konteyner denetim programlarını uygulama ve bulgularını raporlama çağrısında bulunuyor. Uluslararası Denizcilik Örgütü (IMO) ise bu raporların toplanarak kamuya açık bir şekilde yayınlanmasını sağlamaya davet ediliyor.</p>
 <p>20 yılı aşkın süre önce kabul edilen bir dizi karar çerçevesinde, IMO üye devletleri, yük konteynerlerinin ve bunların içerisindeki kargoların düzenli denetimlerini gerçekleştirme konusunda mutabakata varmıştı. Bu denetimlerin sonuçları yıllık olarak IMO'ya gönderilip derlenmeli ve küresel ölçekte uyumluluk seviyeleri hakkında bilgi edinilmelidir. Ancak CIG'nin yaptığı analiz, 167 ulusal yönetimin sadece %5'inin bu denetim sonuçlarını düzenli olarak IMO'ya ilettiğini gösteriyor.</p>

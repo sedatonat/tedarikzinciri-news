@@ -1,14 +1,22 @@
 ---
-title: "ABD’de Kamyon Yük Talebi Zirve Sezonunda Sert Düştü"
-subtitle: "ABD’de Kamyon Yük Talebi Zirve Sezonunda Sert Düştü"
-date: "2025-11-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_563af23d84f442b0ba002005b38e1189~mv2.jpg"
-imageAlt: "ABD’de kamyon taşımacılığı talebi, Nisan–Ekim 2025 arasında yaklaşık %33 gerileyerek tatil öncesi zirve sezonuna rağmen ciddi bir yavaşlama gösterdi. Tarife baskıları, fazla kapasite ve yüksek stok seviyeleri sektörün görünümünü zayıflatıyor."
-wixId: "8a67c668-af14-4899-ab84-476e7d9000cc"
-author: "Sedat Onat"
+title: ABD’de Kamyon Yük Talebi Zirve Sezonunda Sert Düştü
+subtitle: ABD’de Kamyon Yük Talebi Zirve Sezonunda Sert Düştü
+date: '2025-11-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_563af23d84f442b0ba002005b38e1189~mv2.jpg
+imageAlt: ABD’de kamyon taşımacılığı talebi, Nisan–Ekim 2025 arasında yaklaşık %33 gerileyerek tatil öncesi zirve sezonuna rağmen ciddi bir yavaşlama gösterdi. Tarife baskıları, fazla kapasite ve yüksek stok seviyeleri sektörün görünümünü zayıflatıyor.
+wixId: 8a67c668-af14-4899-ab84-476e7d9000cc
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD
+- kamyon taşımacılığı
+- yük talebi
+- tarifeler
+- lojistik
+- Los Angeles Limanı
+- tedarik zinciri
 ---
 <p style="text-align: justify">ABD kamyon taşımacılığı sektörü, 2025’in ikinci yarısında beklenen zirve sezonuna rağmen <strong>belirgin bir talep düşüşü</strong> ile karşı karşıya kaldı. Nisan ayında lojistik profesyonellerinin <strong>%41’i “yüksek talep”</strong> olduğunu bildirirken, bu oran <strong>Ekim 2025’te yalnızca %26’ya</strong> geriledi. Bu rakamlar, <strong>Tech.co tarafından 270’den fazla lojistik uzmanıyla yapılan anketin</strong> sonuçlarına dayanıyor.</p>
 <p><br></p>

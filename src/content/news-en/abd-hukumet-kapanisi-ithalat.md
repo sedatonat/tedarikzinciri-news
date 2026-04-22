@@ -1,16 +1,24 @@
 ---
-title: "U.S. Government Shutdown Complicates Import Decisions: Los Angeles Port Warns"
-subtitle: "U.S. Government Shutdown Complicates Import Decisions: Los Angeles Port Warns"
-date: "2025-11-24T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_bd49e0f7d76740bda56b19f73cc0f79e~mv2.jpg"
-imageAlt: "Amid the halt of federal data flows in the U.S., uncertainty in importers' purchasing and investment decisions has impacted the Port of Los Angeles' expectations and cargo movement ahead of Lunar New Year, a comprehensive news summary."
-wixId: "2834aa26-bea1-43d1-9fef-081e63211aa1"
-author: "Sedat Onat"
+title: 'U.S. Government Shutdown Complicates Import Decisions: Los Angeles Port Warns'
+subtitle: 'U.S. Government Shutdown Complicates Import Decisions: Los Angeles Port Warns'
+date: '2025-11-24T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_bd49e0f7d76740bda56b19f73cc0f79e~mv2.jpg
+imageAlt: Amid the halt of federal data flows in the U.S., uncertainty in importers' purchasing and investment decisions has impacted the Port of Los Angeles' expectations and cargo movement ahead of Lunar New Year, a comprehensive news summary.
+wixId: 2834aa26-bea1-43d1-9fef-081e63211aa1
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Port of Los Angeles
+- government shutdown
+- imports
+- Lunar New Year
+- container volume
+- supply chain
+- federal data
+- port operations
 ---
-
 <p style="text-align: justify">The prolonged <strong>government shutdown</strong> in the United States is adversely affecting critical planning processes for importers. The inability of federal agencies to publish data is creating substantial uncertainty, particularly regarding purchasing and investment decisions. <strong>Port of Los Angeles Executive Director Gene Seroka</strong>, speaking at a media briefing on November 18, emphasized that the lack of data has constrained importers' strategic foresight capabilities.</p>
 <p><br></p>
 <p style="text-align: justify">According to Seroka, the vast majority of U.S. importers place orders with manufacturers in Asia during the November-December period ahead of the <strong>Lunar New Year (February 17)</strong>. These orders directly determine the container volumes that constitute much of the flow through the Port of Los Angeles. Retailers typically have an approximate <strong>three-month</strong> ordering window, while manufacturers operate on shorter timeframes. The absence of federal data is complicating demand projections and inventory management decisions.</p>

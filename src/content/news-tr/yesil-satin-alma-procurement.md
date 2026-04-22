@@ -1,14 +1,22 @@
 ---
-title: "Yeşil Satın Alma, Tarife Baskısına Karşı En Etkili Direnç Stratejisi"
-subtitle: "Yeşil Satın Alma, Tarife Baskısına Karşı En Etkili Direnç Stratejisi"
-date: "2025-10-10T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_cd0dc1128d584647854f1223dcd87bf0~mv2.jpg"
-imageAlt: "Yeşil Satın Alma, Tarife Baskısına Karşı En Etkili Direnç Stratejisi"
-wixId: "f8ebbf59-85f0-4fd6-9604-10888927b11f"
-author: "Sedat Onat"
+title: Yeşil Satın Alma, Tarife Baskısına Karşı En Etkili Direnç Stratejisi
+subtitle: Yeşil Satın Alma, Tarife Baskısına Karşı En Etkili Direnç Stratejisi
+date: '2025-10-10T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_cd0dc1128d584647854f1223dcd87bf0~mv2.jpg
+imageAlt: Yeşil Satın Alma, Tarife Baskısına Karşı En Etkili Direnç Stratejisi
+wixId: f8ebbf59-85f0-4fd6-9604-10888927b11f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- yeşil satın alma
+- otomotiv tedarik zinciri
+- tarife
+- Kanada
+- sürdürülebilirlik
+- tedarikçi yönetimi
+- organizasyonel direnç
 ---
 <p style="text-align: justify"><strong>2025 ABD–Kanada otomotiv ticaret anlaşmazlığı</strong>, son yılların en ciddi tedarik zinciri kesintilerinden biri olarak değerlendiriliyor.</p>
 <p><br>

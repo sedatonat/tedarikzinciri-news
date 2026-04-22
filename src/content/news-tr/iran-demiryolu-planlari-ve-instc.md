@@ -1,14 +1,23 @@
 ---
-title: "İran'ın Demiryolu Planları ve INSTC'nin Geleceği: Trump'ın Etkisi"
-subtitle: "İran'ın Demiryolu Planları ve INSTC'nin Geleceği: Trump'ın Etkisi"
-date: "2025-01-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5d6499350c9a4b129a58295fe7372267~mv2.png"
-imageAlt: "İran'ın Demiryolu Planları ve INSTC'nin Geleceği: Trump'ın Etkisi"
-wixId: "776cd3c2-8d2a-4ea0-a326-2bd0ae7915b5"
-author: "Sedat Onat"
+title: 'İran''ın Demiryolu Planları ve INSTC''nin Geleceği: Trump''ın Etkisi'
+subtitle: 'İran''ın Demiryolu Planları ve INSTC''nin Geleceği: Trump''ın Etkisi'
+date: '2025-01-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5d6499350c9a4b129a58295fe7372267~mv2.png
+imageAlt: 'İran''ın Demiryolu Planları ve INSTC''nin Geleceği: Trump''ın Etkisi'
+wixId: 776cd3c2-8d2a-4ea0-a326-2bd0ae7915b5
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- INSTC
+- demiryolu koridoru
+- İran
+- Chabahar Limanı
+- jeopolitik
+- yaptırım
+- Rusya
+- Azerbaycan
 ---
 <p style="text-align: justify"><strong>İran'ın Demiryolu Girişimleri ve INSTC'nin Geleceği</strong></p>
 <p style="text-align: justify">İran, son dönemde dokuz adet ülke çapında demiryolu koridoru inşa etmeyi planladığını duyurdu. Bu projeler, ülkeyi önemli bir demiryolu transit merkezi haline getirmeyi ve özellikle <strong>Uluslararası Kuzey-Güney Taşıma Koridoru</strong> (<strong>INSTC</strong>) çerçevesinde bölgesel bağlantıyı artırmayı hedeflemekte. INSTC, Hindistan, İran, Azerbaycan, Rusya ve Avrupa arasında mal taşımacılığını kolaylaştırmayı amaçlayan çok modlu bir ulaşım ağıdır. Bu koridor, geleneksel rotalara kıyasla taşımacılık süresini ve maliyetini önemli ölçüde azaltma potansiyeline sahip.​</p>

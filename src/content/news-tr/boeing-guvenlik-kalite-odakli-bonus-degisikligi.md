@@ -1,14 +1,22 @@
 ---
-title: "Boeing, Güvenlik ve Kaliteyi Önceliklendirerek Çalışan Bonus Yapısında Büyük Değişiklik Yapıyor"
-subtitle: "Boeing, Güvenlik ve Kaliteyi Önceliklendirerek Çalışan Bonus Yapısında Büyük Değişiklik Yapıyor"
-date: "2024-03-11T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b7076c3b96974ef3be664fb0d0395c8f~mv2.jpg"
-imageAlt: "Boeing, Güvenlik ve Kaliteyi Önceliklendirerek Çalışan Bonus Yapısında Büyük Değişiklik Yapıyor"
-wixId: "3b375b28-0261-4fc6-b307-8ce958659477"
-author: "Sedat Onat"
+title: Boeing, Güvenlik ve Kaliteyi Önceliklendirerek Çalışan Bonus Yapısında Büyük Değişiklik Yapıyor
+subtitle: Boeing, Güvenlik ve Kaliteyi Önceliklendirerek Çalışan Bonus Yapısında Büyük Değişiklik Yapıyor
+date: '2024-03-11T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b7076c3b96974ef3be664fb0d0395c8f~mv2.jpg
+imageAlt: Boeing, Güvenlik ve Kaliteyi Önceliklendirerek Çalışan Bonus Yapısında Büyük Değişiklik Yapıyor
+wixId: 3b375b28-0261-4fc6-b307-8ce958659477
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Boeing
+- havacılık
+- güvenlik
+- kalite yönetimi
+- çalışan bonusu
+- 737 Max
+- tedarik zinciri
 ---
 <p>Boeing Co., güvenlik ve kaliteyi çalışan bonusları için daha büyük bir metrik haline getireceğini duyurdu. Bu karar, bir dizi güvenlik ihlalinin şirketin itibarını zedelemesinin ardından geldi.&nbsp;</p>
 <p><br></p>

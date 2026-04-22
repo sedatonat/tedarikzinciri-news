@@ -1,14 +1,22 @@
 ---
-title: "Maliyetleri Düşürürken Karbon Ayak İzini Azaltmak"
-subtitle: "Maliyetleri Düşürürken Karbon Ayak İzini Azaltmak"
-date: "2025-02-10T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7437913ac0594f8d9f3949c627dd5f5c~mv2.png"
-imageAlt: "Maliyetleri Düşürürken Karbon Ayak İzini Azaltmak"
-wixId: "73d9608d-cd7e-42aa-98bc-3e2f6a93d1b2"
-author: "Sedat Onat"
+title: Maliyetleri Düşürürken Karbon Ayak İzini Azaltmak
+subtitle: Maliyetleri Düşürürken Karbon Ayak İzini Azaltmak
+date: '2025-02-10T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7437913ac0594f8d9f3949c627dd5f5c~mv2.png
+imageAlt: Maliyetleri Düşürürken Karbon Ayak İzini Azaltmak
+wixId: 73d9608d-cd7e-42aa-98bc-3e2f6a93d1b2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- karbon ayak izi
+- maliyet azaltma
+- enerji verimliliği
+- rota optimizasyonu
+- tedarikçi dekarbonizasyonu
+- Scope 3
+- sürdürülebilirlik
 ---
 <p>Şirketler, maliyetleri düşürmek ve karbon ayak izini azaltmak için ikili hedef güdümlü stratejiler geliştirmekte. Makale, energy efficiency, route optimization, ve packaging right-sizing gibi hızlı geri dönüşlü uygulamaları odağa almakta. Üretimde variable frequency drives, atölye iklimlendirmesinde akıllı kontrol ve heat recovery çözümleri, enerji tüketimini azaltmakta. Lojistikte network redesign ve mode shift (karayolundan demiryolu/denizyoluna) maliyeti ve emisyonu birlikte düşürmekte. Depolarda LED dönüşümü ve smart sensors, tüketim piklerini kontrol etmekte. Satın almada supplier decarbonization programları, Scope 3 azaltımını hızlandırmakta.&nbsp;</p>
 <p><br></p>

@@ -1,13 +1,21 @@
 ---
-title: "ABD Tarifelerine Rağmen Çok Merkezli Küresel Ticaret Güçleniyor"
-subtitle: "ABD Tarifelerine Rağmen Çok Merkezli Küresel Ticaret Güçleniyor"
-date: "2025-10-14T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_83d50220f32c4c2b8d238f5413990f04~mv2.jpg"
-wixId: "c9e0eab4-d478-41e5-a972-c0d9533eaba1"
-author: "Sedat Onat"
+title: ABD Tarifelerine Rağmen Çok Merkezli Küresel Ticaret Güçleniyor
+subtitle: ABD Tarifelerine Rağmen Çok Merkezli Küresel Ticaret Güçleniyor
+date: '2025-10-14T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_83d50220f32c4c2b8d238f5413990f04~mv2.jpg
+wixId: c9e0eab4-d478-41e5-a972-c0d9533eaba1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD tarifeleri
+- küresel ticaret
+- DHL
+- çok merkezli ticaret
+- Çin
+- ASEAN
+- tedarik zinciri
 ---
 <p style="text-align: justify"><strong>DHL</strong> ve <strong>New York University (NYU) Stern School of Business</strong> tarafından yayımlanan son rapora göre, <strong>ABD’nin yeni gümrük tarifeleri</strong> küresel ticareti sarsmakta ancak durduramamakta.</p>
 <p><br>

@@ -1,14 +1,22 @@
 ---
-title: "Çin, Hanwha Ocean’un Abd Bağlı Şirketlerine Yaptırım Uyguladı"
-subtitle: "Çin, Hanwha Ocean’un Abd Bağlı Şirketlerine Yaptırım Uyguladı"
-date: "2025-10-14T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f760cebdacbe467abad5dc39587c5350~mv2.png"
-imageAlt: "Çin, Hanwha Ocean’un Abd Bağlı Şirketlerine Yaptırım Uyguladı"
-wixId: "7a21297b-d33a-4a16-98ff-2f2a8ad7c76a"
-author: "Sedat Onat"
+title: Çin, Hanwha Ocean’un Abd Bağlı Şirketlerine Yaptırım Uyguladı
+subtitle: Çin, Hanwha Ocean’un Abd Bağlı Şirketlerine Yaptırım Uyguladı
+date: '2025-10-14T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f760cebdacbe467abad5dc39587c5350~mv2.png
+imageAlt: Çin, Hanwha Ocean’un Abd Bağlı Şirketlerine Yaptırım Uyguladı
+wixId: 7a21297b-d33a-4a16-98ff-2f2a8ad7c76a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Hanwha Ocean
+- Çin yaptırımları
+- gemi inşa
+- tedarik zinciri
+- Güney Kore
+- ABD-Çin gerilimi
+- savunma lojistiği
 ---
 <p>Çin hükümeti, Güney Kore merkezli gemi üreticisi Hanwha Ocean’ın ABD’deki bağlı kuruluşlarına yaptırım kararı aldı. Bu karar, ABD’nin Asya-Pasifik bölgesindeki güvenlik iş birlikleri kapsamında uyguladığı kısıtlamalara yanıt olarak değerlendirildi. Yaptırımlar, şirketin Çin limanlarındaki tedarik ve servis faaliyetlerini sınırlamaktadır. Uzmanlar, bu adımın defense logistics ve shipbuilding supply chain üzerinde uzun vadeli etkiler yaratabileceğini belirtmekte. Ayrıca karar, Güney Kore’nin stratejik konumunu da zorlaştırmaktadır çünkü ülke hem ABD hem Çin ile yoğun ticaret içinde.</p>
 <p><br></p>

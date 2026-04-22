@@ -1,14 +1,22 @@
 ---
-title: "Panamax Gemileri İçin Zor Zamanlar: Çin'in Tahıl İthalatı %51 Azaldı"
-subtitle: "Panamax Gemileri İçin Zor Zamanlar: Çin'in Tahıl İthalatı %51 Azaldı"
-date: "2025-01-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_0698a5424a3c4c8dbc06cdec29275c7e~mv2.jpg"
-imageAlt: "Panamax Gemileri İçin Zor Zamanlar: Çin'in Tahıl İthalatı %51 Azaldı"
-wixId: "e32f081c-81b5-4f93-a2fe-059a7c29734c"
-author: "Sedat Onat"
+title: 'Panamax Gemileri İçin Zor Zamanlar: Çin''in Tahıl İthalatı %51 Azaldı'
+subtitle: 'Panamax Gemileri İçin Zor Zamanlar: Çin''in Tahıl İthalatı %51 Azaldı'
+date: '2025-01-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_0698a5424a3c4c8dbc06cdec29275c7e~mv2.jpg
+imageAlt: 'Panamax Gemileri İçin Zor Zamanlar: Çin''in Tahıl İthalatı %51 Azaldı'
+wixId: e32f081c-81b5-4f93-a2fe-059a7c29734c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Panamax gemileri
+- Çin
+- tahıl ithalatı
+- Baltic Exchange
+- kuru dökme yük
+- BIMCO
+- deniz taşımacılığı
 ---
 <p style="text-align: justify">Ocak 2025'te, Çin'in ithal tahıl sevkiyatları, bir önceki yıla göre %51 oranında azaldı. Bu düşüş, <strong>Panamax</strong> gemilerini olumsuz etkiledi; zira bu gemiler, Çin'in tahıl kargolarının %83'ünü taşımakta. <strong>Baltic Exchange</strong>'in Panamax Endeksi, geçen yıla kıyasla %41 düştü ve bu hafta Mayıs 2020'den bu yana en düşük seviyesine ulaştı.​</p>
 <p><br></p>

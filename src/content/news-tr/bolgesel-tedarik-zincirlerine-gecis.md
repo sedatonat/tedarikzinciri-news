@@ -1,14 +1,22 @@
 ---
-title: "Bölgesel Tedarik Zincirlerine Geçiş: Küresel Kesintilere Dirençli Bir Yaklaşım"
-subtitle: "Bölgesel Tedarik Zincirlerine Geçiş: Küresel Kesintilere Dirençli Bir Yaklaşım"
-date: "2024-05-14T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_c08d1cee8bd440739d6adae6422cb1aa~mv2.jpg"
-imageAlt: "Bölgesel Tedarik Zincirlerine Geçiş: Küresel Kesintilere Dirençli Bir Yaklaşım"
-wixId: "0d24fc46-1306-4fda-a16b-dad45d407a75"
-author: "Sedat Onat"
+title: 'Bölgesel Tedarik Zincirlerine Geçiş: Küresel Kesintilere Dirençli Bir Yaklaşım'
+subtitle: 'Bölgesel Tedarik Zincirlerine Geçiş: Küresel Kesintilere Dirençli Bir Yaklaşım'
+date: '2024-05-14T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_c08d1cee8bd440739d6adae6422cb1aa~mv2.jpg
+imageAlt: 'Bölgesel Tedarik Zincirlerine Geçiş: Küresel Kesintilere Dirençli Bir Yaklaşım'
+wixId: 0d24fc46-1306-4fda-a16b-dad45d407a75
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- bölgesel tedarik zinciri
+- tedarik zinciri direnci
+- Gartner
+- jeopolitik risk
+- nearshoring
+- küresel kesintiler
+- Asya Pasifik
 ---
 <p>Son zamanlarda yaşanan iklim kaynaklı olaylar ve jeopolitik belirsizlikler, küresel tedarik zincirlerinde artan volatilite, maliyet ve teslim sürelerine neden oluyor. Gartner'ın Asya Pasifik bölgesinde yaptığı anket sonuçlarına göre, şirketlerin büyük bir kısmı üretimlerini, ana pazarlarına yakın bölgelere taşıyor veya genişletiyor.&nbsp;</p>
 <p><br></p>

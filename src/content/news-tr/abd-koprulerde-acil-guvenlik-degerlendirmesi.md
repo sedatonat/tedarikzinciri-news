@@ -1,14 +1,22 @@
 ---
-title: "ABD'deki Köprülerde Acil Güvenlik Değerlendirmesi Başlatıldı"
-subtitle: "ABD'deki Köprülerde Acil Güvenlik Değerlendirmesi Başlatıldı"
-date: "2024-05-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5e74bc7934084e5e8a08cee9ba9451bd~mv2.jpg"
-imageAlt: "ABD'deki Köprülerde Acil Güvenlik Değerlendirmesi Başlatıldı"
-wixId: "dff9b59e-db88-41b9-949a-5888ddf28058"
-author: "Sedat Onat"
+title: ABD'deki Köprülerde Acil Güvenlik Değerlendirmesi Başlatıldı
+subtitle: ABD'deki Köprülerde Acil Güvenlik Değerlendirmesi Başlatıldı
+date: '2024-05-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5e74bc7934084e5e8a08cee9ba9451bd~mv2.jpg
+imageAlt: ABD'deki Köprülerde Acil Güvenlik Değerlendirmesi Başlatıldı
+wixId: dff9b59e-db88-41b9-949a-5888ddf28058
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- köprü güvenliği
+- liman altyapısı
+- gemi çarpması
+- risk değerlendirmesi
+- kargo gemisi
+- Baltimore
+- Johns Hopkins Üniversitesi
 ---
 <p>Johns Hopkins Üniversitesi'nden mühendisler, özellikle büyük limanlara yakın büyük köprülerde olmak üzere ABD'deki köprülerin "acil bir değerlendirmesine" başladılar. Bu değerlendirme, Baltimore'daki son felaket gibi ek gemi çarpmalarının olasılığının yüksek olduğuna dair inançları nedeniyle başlatıldı. Araştırma ekibi, bu yaz ilk sonuçları yayınlamayı planlıyor. Ulusal Bilim Vakfı'nın Hızlı Yanıt Araştırma hibesi ve çok sayıda öğrencinin yardımıyla, köprülerin risk değerlendirme modellerini güncellemeyi amaçlıyorlar.</p>
 <p><br></p>

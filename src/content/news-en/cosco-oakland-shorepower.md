@@ -1,16 +1,23 @@
 ---
-title: "COSCO Achieves Full Shore Power Compliance at Port of Oakland"
-subtitle: "COSCO Achieves Full Shore Power Compliance at Port of Oakland"
-date: "2025-12-09T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2e936e328d5743b6bda4e8b8337fdefb~mv2.jpg"
-imageAlt: "COSCO SHIPPING North America's transition to 100% shore power usage at Port of Oakland, high compliance rates at Los Angeles–Long Beach ports, electric drayage trucks, and detailed overview of emissions reduction strategy in U.S. port operations"
-wixId: "4c15b4d5-d27a-48f8-9227-3d293fe962c0"
-author: "Sedat Onat"
+title: COSCO Achieves Full Shore Power Compliance at Port of Oakland
+subtitle: COSCO Achieves Full Shore Power Compliance at Port of Oakland
+date: '2025-12-09T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2e936e328d5743b6bda4e8b8337fdefb~mv2.jpg
+imageAlt: COSCO SHIPPING North America's transition to 100% shore power usage at Port of Oakland, high compliance rates at Los Angeles–Long Beach ports, electric drayage trucks, and detailed overview of emissions reduction strategy in U.S. port operations
+wixId: 4c15b4d5-d27a-48f8-9227-3d293fe962c0
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- COSCO
+- shore power
+- Port of Oakland
+- electric drayage
+- emission reduction
+- sustainability
+- port operations
 ---
-
 <p style="text-align: justify"><strong>COSCO SHIPPING North America</strong> has reached one of the most significant milestones in emissions reduction across U.S. port operations. According to the company's <strong>2024 Sustainability Report</strong>, <strong>100% shore power</strong> connectivity has been achieved for all eligible vessel calls at <strong>Port of Oakland</strong>. Meanwhile, shore power connection rates at <strong>Ports of Los Angeles and Long Beach</strong> have risen to <strong>96.5%</strong>, representing substantial progress compared to the prior year.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Shore power</strong> (cold ironing) enables vessels to draw electricity from onshore facilities while docked instead of operating diesel auxiliary engines. This practice significantly reduces <strong>NOx</strong>, <strong>SOx</strong>, and particulate matter emissions, particularly benefiting residential areas surrounding ports. COSCO's full compliance at Oakland is regarded as a benchmark implementation for environmental regulatory adherence at U.S. West Coast ports.</p>

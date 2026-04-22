@@ -1,16 +1,24 @@
 ---
-title: "The Era of First-Mile Innovation in Supply Chains Has Begun"
-subtitle: "The Era of First-Mile Innovation in Supply Chains Has Begun"
-date: "2024-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3b6e538a40ab49bc94b39dbb22abe8cd~mv2.jpg"
-imageAlt: "The Era of First-Mile Innovation in Supply Chains Has Begun"
-wixId: "ab1c885f-c10b-4810-8f6d-cb551e952387"
-author: "Sedat Onat"
+title: The Era of First-Mile Innovation in Supply Chains Has Begun
+subtitle: The Era of First-Mile Innovation in Supply Chains Has Begun
+date: '2024-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3b6e538a40ab49bc94b39dbb22abe8cd~mv2.jpg
+imageAlt: The Era of First-Mile Innovation in Supply Chains Has Begun
+wixId: ab1c885f-c10b-4810-8f6d-cb551e952387
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- first mile
+- AI
+- supply chain innovation
+- digitalization
+- Danone
+- Shein
+- sustainability
+- Zero100
 ---
-
 <p>Lauren Acoba, vice president of research at Zero100, notes that the vast majority of supply chain innovations have focused on last-mile delivery, arguing that this approach is hindering more comprehensive supply chain transformations. Over the past decade, the allure of "free and fast" delivery has propelled online retail to new heights, compelling businesses to develop creative delivery methods and extract maximum efficiency from logistics processes. During this period, numerous last-mile innovations have emerged—from roadside drones to 15-minute grocery deliveries. However, these innovations maintain high operational support costs; Amazon's expansion of its U.S. fleet to $5 billion serves as a prime example.</p>
 <p><br></p>
 <p>Within the context of complex global business operations, last-mile innovations have limited impact on efficiency and profitability, while the true innovation potential lies at the beginning of the supply chain—the first mile. The first mile encompasses product development, lifecycle management, renewable materials, and carbon reduction. Gains achieved in these areas enable companies to strengthen their entire supply chains, increase resilience, reduce carbon footprints, and mitigate reputational risks.</p>

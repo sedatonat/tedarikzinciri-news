@@ -1,14 +1,21 @@
 ---
-title: "CSCMP'den Sınavlarda Dil Engellerini Aşan Yenilik: Anında Çeviri"
-subtitle: "CSCMP'den Sınavlarda Dil Engellerini Aşan Yenilik: Anında Çeviri"
-date: "2024-07-01T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_eafa8eafdfa44ecda2d3ffe7c1b124a2~mv2.png"
-imageAlt: "CSCMP'den Sınavlarda Dil Engellerini Aşan Yenilik: Anında Çeviri"
-wixId: "df656af1-db06-4e1a-a94f-bb9d028655ab"
-author: "Sedat Onat"
+title: 'CSCMP''den Sınavlarda Dil Engellerini Aşan Yenilik: Anında Çeviri'
+subtitle: 'CSCMP''den Sınavlarda Dil Engellerini Aşan Yenilik: Anında Çeviri'
+date: '2024-07-01T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_eafa8eafdfa44ecda2d3ffe7c1b124a2~mv2.png
+imageAlt: 'CSCMP''den Sınavlarda Dil Engellerini Aşan Yenilik: Anında Çeviri'
+wixId: df656af1-db06-4e1a-a94f-bb9d028655ab
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CSCMP
+- SCPro sertifikasyon
+- anında çeviri
+- tedarik zinciri eğitim
+- dil desteği
+- profesyonel gelişim
 ---
 <p>CSCMP (Council of Supply Chain Management Professionals), üyelerine küresel erişimi artırmak adına "Anında Çeviri" aracını tanıttı. Bu araç, SCPro Değerlendirme, SCPro Temel ve SCPro Seviye 1 sertifikasyon sınavlarını 22 farklı dilde erişilebilir kılarak, dil bariyerlerini kaldırıyor. Test esnasında tercih edilen dillerde anlık çeviriler yapabilen bu interaktif araç, adayların sınav anında daha rahat ve anlayışlı olmalarını sağlıyor. Aracın esnek kullanımı, adaylara ihtiyaç duydukları anda çeviri hizmetini açıp kapatma olanağı tanıyor.</p>
 <p><br></p>

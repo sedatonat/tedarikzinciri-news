@@ -1,14 +1,22 @@
 ---
-title: "Norveçli Denizcilik Şirketi, Rusya'nın Yardım Reddetme İddiasını Yalanladı"
-subtitle: "Norveçli Denizcilik Şirketi, Rusya'nın Yardım Reddetme İddiasını Yalanladı"
-date: "2024-12-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0dfa4486ea824ab8bf781caee2c67854~mv2.jpg"
-imageAlt: "Norveçli Denizcilik Şirketi, Rusya'nın Yardım Reddetme İddiasını Yalanladı"
-wixId: "d012456a-9a22-4c50-b002-93d45ee816ba"
-author: "Sedat Onat"
+title: Norveçli Denizcilik Şirketi, Rusya'nın Yardım Reddetme İddiasını Yalanladı
+subtitle: Norveçli Denizcilik Şirketi, Rusya'nın Yardım Reddetme İddiasını Yalanladı
+date: '2024-12-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0dfa4486ea824ab8bf781caee2c67854~mv2.jpg
+imageAlt: Norveçli Denizcilik Şirketi, Rusya'nın Yardım Reddetme İddiasını Yalanladı
+wixId: d012456a-9a22-4c50-b002-93d45ee816ba
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- denizcilik
+- Rusya
+- Norveç
+- kurtarma operasyonu
+- Akdeniz
+- terör eylemi
+- Baltık Denizi
 ---
 <p>Norveçli denizcilik şirketi <strong>Bulkship Management AS</strong>, Rusya Güvenlik Konseyi Başkan Yardımcısı Dmitry Medvedev'in, Akdeniz'de batan Rus kargo gemisi <strong>Ursa Major</strong>'ın mürettebatına yardım etmeyi reddettikleri yönündeki suçlamasını reddetti.</p>
 <p><br></p>

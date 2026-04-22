@@ -1,16 +1,24 @@
 ---
-title: "IFS Makes Strategic Industrial AI Push in Warehouse Software with Softeon Acquisition"
-subtitle: "IFS Makes Strategic Industrial AI Push in Warehouse Software with Softeon Acquisition"
-date: "2025-12-17T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_eabf006f2738451a9d5f4e56d34f28b6~mv2.jpg"
-imageAlt: "IFS has agreed to acquire Softeon, which provides cloud-based WMS, WES, and DOM solutions; the move aims to unite Industrial AI, robotic integration, and intelligent warehouse operations on a single platform."
-wixId: "a4f5a6e3-c58d-4478-a204-c4582d8114e2"
-author: "Sedat Onat"
+title: IFS Makes Strategic Industrial AI Push in Warehouse Software with Softeon Acquisition
+subtitle: IFS Makes Strategic Industrial AI Push in Warehouse Software with Softeon Acquisition
+date: '2025-12-17T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_eabf006f2738451a9d5f4e56d34f28b6~mv2.jpg
+imageAlt: IFS has agreed to acquire Softeon, which provides cloud-based WMS, WES, and DOM solutions; the move aims to unite Industrial AI, robotic integration, and intelligent warehouse operations on a single platform.
+wixId: a4f5a6e3-c58d-4478-a204-c4582d8114e2
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- IFS
+- Softeon
+- warehouse management
+- Industrial AI
+- WMS
+- robotics integration
+- supply chain
+- acquisition
 ---
-
 <p style="text-align: justify"><strong>IFS</strong>, an enterprise software and industrial digitalization provider, announced it has signed a definitive agreement to acquire <strong>Softeon</strong>, marking a strategic step in the warehouse management software market. The agreement between the parties will be completed in the <strong>first quarter of 2026</strong>, subject to obtaining necessary regulatory approvals. Financial details of the acquisition were not disclosed.</p>
 <p><br></p>
 <p style="text-align: justify">In a statement by the companies, the acquisition aims to unite IFS's strong <strong>Industrial AI</strong> capabilities with the global <strong>$8.6 billion WMS software market</strong>. The envisioned structure creates an integrated platform that establishes direct and intelligent connectivity between manufacturing operations and warehouse execution processes. As a result, decision-making, planning, and execution capabilities across processes ranging from the production line to distribution centers are managed through a single digital backbone.</p>

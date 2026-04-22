@@ -1,16 +1,23 @@
 ---
-title: "U.S. Postal Service and DOGE Target Cost Reduction Through Collaboration"
-subtitle: "U.S. Postal Service and DOGE Target Cost Reduction Through Collaboration"
-date: "2025-03-14T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a74939e4959e44b9b9da05d8d20ccfe8~mv2.jpg"
-imageAlt: "U.S. Postal Service and DOGE Target Cost Reduction Through Collaboration"
-wixId: "efc88582-5195-495e-8a11-c245b5989bff"
-author: "Sedat Onat"
+title: U.S. Postal Service and DOGE Target Cost Reduction Through Collaboration
+subtitle: U.S. Postal Service and DOGE Target Cost Reduction Through Collaboration
+date: '2025-03-14T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_a74939e4959e44b9b9da05d8d20ccfe8~mv2.jpg
+imageAlt: U.S. Postal Service and DOGE Target Cost Reduction Through Collaboration
+wixId: efc88582-5195-495e-8a11-c245b5989bff
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- USPS
+- DOGE
+- cost reduction
+- postal services
+- operational efficiency
+- early retirement
+- privatization
 ---
-
 <p style="text-align: justify"><a href="https://www.usps.com/"><u><strong>U.S. Postal Service</strong></u><u> (</u><u><strong>USPS</strong></u><u>)</u></a> has decided to collaborate with <a href="https://doge.gov/"><u><strong>Department of Government Efficiency</strong></u><u> (</u><u><strong>DOGE</strong></u><u>)</u></a>, led by <strong>Elon Musk</strong>, to reduce costs and improve operational efficiency. As part of this initiative, approximately 10,000 employees are expected to depart through an early retirement program within the next 30 days.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Postmaster General Louis DeJoy</strong> stated in a letter to Congress that <strong>USPS</strong>, with an annual budget of 78 billion dollars, faces significant challenges, and the collaboration with <strong>DOGE</strong> will help address these issues. Key challenges facing <strong>USPS</strong> include mismanagement of retirement assets and restrictive regulatory requirements.</p>

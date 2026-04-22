@@ -1,14 +1,22 @@
 ---
-title: "Demiryolu Vagonlarının Tanımlanması ve Denetlenmesinde Yapay Zeka Dönemi"
-subtitle: "Demiryolu Vagonlarının Tanımlanması ve Denetlenmesinde Yapay Zeka Dönemi"
-date: "2025-01-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7a0c19b5d0214d6f96d5eaaf7f7b878f~mv2.jpeg"
-imageAlt: "Demiryolu Vagonlarının Tanımlanması ve Denetlenmesinde Yapay Zeka Dönemi"
-wixId: "dd1dd37c-0aee-4e5f-bb5a-6fd74276a463"
-author: "Sedat Onat"
+title: Demiryolu Vagonlarının Tanımlanması ve Denetlenmesinde Yapay Zeka Dönemi
+subtitle: Demiryolu Vagonlarının Tanımlanması ve Denetlenmesinde Yapay Zeka Dönemi
+date: '2025-01-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7a0c19b5d0214d6f96d5eaaf7f7b878f~mv2.jpeg
+imageAlt: Demiryolu Vagonlarının Tanımlanması ve Denetlenmesinde Yapay Zeka Dönemi
+wixId: dd1dd37c-0aee-4e5f-bb5a-6fd74276a463
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- demiryolu taşımacılığı
+- yapay zeka
+- vagon tanımlama
+- Himmelsbach GmbH
+- 5G teknoloji
+- Marmaray
+- otomatik denetleme
 ---
 <p style="text-align: justify">Demiryolu taşımacılığında vagonların otomatik tanımlanması ve denetlenmesi, operasyonel verimliliği artırmak ve güvenliği sağlamak açısından kritik bir rol oynamaktadır. Bu alanda 25 yıllık deneyime sahip olan <a href="https://www.himmelsbach-gmbh.de/"><u><strong>Himmelsbach GmbH</strong></u></a>, yapay zeka destekli çözümleriyle sektörde öncü konumdadır.</p>
 <p style="text-align: justify"><br></p>

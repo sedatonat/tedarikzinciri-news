@@ -1,14 +1,23 @@
 ---
-title: "Kanada Yeni Inland Gateway Stratejisiyle Tedarik Zincirini Güçlendiriyor"
-subtitle: "Kanada Yeni Inland Gateway Stratejisiyle Tedarik Zincirini Güçlendiriyor"
-date: "2025-11-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_fc6339ea95544844b499e350d6ce328e~mv2.jpg"
-imageAlt: "Kanada’nın Corridors Fund programı kapsamında Great Lakes ve St. Lawrence koridorunda inland port yetkilendirmeleri, CBSA genişlemesi, gümrük modernizasyonu ve ABD kaynaklı ticari belirsizliklere karşı tedarik zinciri koruma adımlarını açıklayan detaylı haber özeti"
-wixId: "d5cb8c43-ffab-4fdf-b609-59bc6edc6678"
-author: "Sedat Onat"
+title: Kanada Yeni Inland Gateway Stratejisiyle Tedarik Zincirini Güçlendiriyor
+subtitle: Kanada Yeni Inland Gateway Stratejisiyle Tedarik Zincirini Güçlendiriyor
+date: '2025-11-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_fc6339ea95544844b499e350d6ce328e~mv2.jpg
+imageAlt: Kanada’nın Corridors Fund programı kapsamında Great Lakes ve St. Lawrence koridorunda inland port yetkilendirmeleri, CBSA genişlemesi, gümrük modernizasyonu ve ABD kaynaklı ticari belirsizliklere karşı tedarik zinciri koruma adımlarını açıklayan detaylı haber özeti
+wixId: d5cb8c43-ffab-4fdf-b609-59bc6edc6678
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kanada
+- inland gateway
+- tedarik zinciri
+- CBSA
+- Great Lakes
+- liman altyapısı
+- gümrük işlemleri
+- ticaret çeşitlendirme
 ---
 <p style="text-align: justify">Kanada hükümeti, küresel jeopolitik risklerin arttığı ve güney komşusunun artan korumacılık eğilimlerinin ticareti zorlaştırdığı bir dönemde, ulusal tedarik zincirini güçlendirmek için <strong>Corridors Fund</strong> kapsamında yeni bir stratejik program başlattı. Program, ülkenin dış ticaretinin ABD sınır geçişlerine ve geleneksel Kuzey Amerika lojistik koridorlarına aşırı bağımlılığını azaltmayı hedeflemekte. Ottawa’da konuşan yetkililer, planın Kanada ekonomisine <strong>egemenlik, özerklik ve tedarik zinciri dayanıklılığı</strong> kazandırmayı amaçladığını vurguladı.</p>
 <p><br></p>

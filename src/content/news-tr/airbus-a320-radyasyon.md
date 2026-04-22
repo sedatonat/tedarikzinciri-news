@@ -1,14 +1,22 @@
 ---
-title: "Airbus A320 Filosu İçin Acil Güvenlik Çağrısı ve Küresel Uçuş Etkileri"
-subtitle: "Airbus A320 Filosu İçin Acil Güvenlik Çağrısı ve Küresel Uçuş Etkileri"
-date: "2025-11-30T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_16898683f19f4e3682183ded3249fb1f~mv2.png"
-imageAlt: "Airbus’ın A320 uçaklarında tespit edilen radyasyon kaynaklı veri bozulması riski nedeniyle başlattığı acil yazılım ve donanım güncellemelerinin küresel havayolu operasyonlarına etkisi"
-wixId: "babf092c-a9e3-4ba5-a44a-cf0bdedd9d0d"
-author: "Sedat Onat"
+title: Airbus A320 Filosu İçin Acil Güvenlik Çağrısı ve Küresel Uçuş Etkileri
+subtitle: Airbus A320 Filosu İçin Acil Güvenlik Çağrısı ve Küresel Uçuş Etkileri
+date: '2025-11-30T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_16898683f19f4e3682183ded3249fb1f~mv2.png
+imageAlt: Airbus’ın A320 uçaklarında tespit edilen radyasyon kaynaklı veri bozulması riski nedeniyle başlattığı acil yazılım ve donanım güncellemelerinin küresel havayolu operasyonlarına etkisi
+wixId: babf092c-a9e3-4ba5-a44a-cf0bdedd9d0d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Airbus A320
+- havacılık güvenliği
+- yazılım güncellemesi
+- kozmik radyasyon
+- uçuş iptalleri
+- EASA
+- havayolu operasyonları
 ---
 <p style="text-align: justify">Küresel havacılık sektörü, <strong>Airbus</strong> tarafından duyurulan kritik bir güvenlik uyarısı sonrasında geniş çaplı operasyonel değişikliklerle karşı karşıya bulunmakta. Üretici, <strong>A320 Family</strong> uçaklarında yapılan teknik bir analizde, uçuş kontrol sistemlerinin yüksek seviyede <strong>kozmik radyasyon</strong>a maruz kaldığında veri bozulması riski taşıdığını belirledi. Bu riskin, uçuş güvenliğini etkileyebilecek ani yazılım hatalarına yol açabilmesi sebebiyle şirket, dünya genelinde yaklaşık <strong>6.000 adet A320 serisi uçak</strong> için derhal <strong>yazılım güncellemesi</strong> ve gerekli görülen noktalarda <strong>donanım koruma uygulaması</strong> çağrısı yaptı.</p>
 <p><br></p>

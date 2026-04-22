@@ -1,16 +1,23 @@
 ---
-title: "FedEx MD-11 Filosu Nedeniyle 175 Milyon Dolarlık Etki Bekliyor"
-subtitle: "FedEx MD-11 Filosu Nedeniyle 175 Milyon Dolarlık Etki Bekliyor"
-date: "2025-12-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1efcd57d13cc4b30936a9ac6a066c840~mv2.jpg"
-imageAlt: "FedEx, MD-11 kargo uçaklarının yere indirilmesi nedeniyle mali yıl genelinde düzeltilmiş faaliyet kârında 175 milyon dolarlık olumsuz etki öngörürken, yoğun sezon boyunca dış kaynaklı hava kargo kapasitesine yönelmek zorunda kalıyor."
-sourceUrl: "https://www.supplychaindive.com/news/fedex-md-11-airplane-grounding-peak-season-impact/808372/"
-author: "Sedat Onat"
+title: FedEx MD-11 Filosu Nedeniyle 175 Milyon Dolarlık Etki Bekliyor
+subtitle: FedEx MD-11 Filosu Nedeniyle 175 Milyon Dolarlık Etki Bekliyor
+date: '2025-12-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1efcd57d13cc4b30936a9ac6a066c840~mv2.jpg
+imageAlt: FedEx, MD-11 kargo uçaklarının yere indirilmesi nedeniyle mali yıl genelinde düzeltilmiş faaliyet kârında 175 milyon dolarlık olumsuz etki öngörürken, yoğun sezon boyunca dış kaynaklı hava kargo kapasitesine yönelmek zorunda kalıyor.
+sourceUrl: https://www.supplychaindive.com/news/fedex-md-11-airplane-grounding-peak-season-impact/808372/
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- FedEx
+- MD-11
+- hava kargo
+- Boeing
+- FAA
+- filo yönetimi
+- operasyonel maliyet
 ---
-
 <p style="text-align: justify">Küresel hava kargo operasyonlarında önemli bir yere sahip olan <strong>FedEx</strong>, <strong>MD-11</strong> tipi kargo uçaklarının yere indirilmesi nedeniyle mali performans üzerinde ciddi bir baskıyla karşı karşıya kalmakta. Şirketin <strong>EVP ve CFO’su John Dietrich</strong>, ikinci çeyrek finansal sonuç toplantısında yaptığı açıklamada, bu durumun <strong>düzeltilmiş faaliyet kârı</strong> üzerinde mali yıl genelinde <strong>175 milyon dolarlık</strong> olumsuz etki yaratmasının beklendiğini ifade etti.</p>
 <p><br></p>
 <p style="text-align: justify">Açıklamalara göre FedEx, söz konusu etkinin <strong>25 milyon dolarlık</strong> bölümünü Kasım ayında zaten üstlenmiş durumda. Kalan tutarın ise ağırlıklı olarak mali yılın <strong>üçüncü çeyreğinde</strong> gerçekleşmesi beklenmekte. Özellikle Aralık ayı, maliyet baskısının en yoğun hissedildiği dönem olarak öne çıkmakta. Bunun temel nedeni, yoğun sezon talebini karşılayabilmek amacıyla <strong>üçüncü taraf hava kargo kapasitesine</strong> daha fazla başvurulması.</p>

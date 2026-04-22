@@ -1,14 +1,22 @@
 ---
-title: "Kanadalı Demiryolu Grevinin ABD Limanları Üzerindeki Etkileri"
-subtitle: "Kanadalı Demiryolu Grevinin ABD Limanları Üzerindeki Etkileri"
-date: "2024-05-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a59bc9a7024c49cf9a5994e7d932cfc3~mv2.jpg"
-imageAlt: "Kanadalı Demiryolu Grevinin ABD Limanları Üzerindeki Etkileri"
-wixId: "1e0c9961-02ad-4611-a7db-ca7f1323dbb3"
-author: "Sedat Onat"
+title: Kanadalı Demiryolu Grevinin ABD Limanları Üzerindeki Etkileri
+subtitle: Kanadalı Demiryolu Grevinin ABD Limanları Üzerindeki Etkileri
+date: '2024-05-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a59bc9a7024c49cf9a5994e7d932cfc3~mv2.jpg
+imageAlt: Kanadalı Demiryolu Grevinin ABD Limanları Üzerindeki Etkileri
+wixId: 1e0c9961-02ad-4611-a7db-ca7f1323dbb3
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kanada demiryolu
+- liman operasyonları
+- grev
+- konteyner taşımacılığı
+- intermodal taşımacılık
+- Los Angeles Long Beach
+- tedarik zinciri
 ---
 <p>Kanadalı demiryolu çalışanlarının potansiyel grevi, ABD'nin Batı Yakası liman tesislerinde ciddi streslere yol açıyor. ITS Lojistik tarafından hazırlanan bir rapora göre, olası operasyonel sorunlardan kaçınmak amacıyla nakliyeciler, konteynerleri Kanada'dan ABD'ye yönlendiriyor. Bu durum, <a href="https://www.tedarikzinciriportali.com/post/maersk-baltimore-koprusu-kazasi"><u>Baltimore Limanı'nın Francis Scott Key köprüsünün çökmesi</u></a> sonucu kapanmasıyla başlayan etkiler zinciri üzerine ek bir baskı oluşturuyor.</p>
 <p><br></p>

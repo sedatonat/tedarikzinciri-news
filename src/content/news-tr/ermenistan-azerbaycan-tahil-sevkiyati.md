@@ -1,14 +1,23 @@
 ---
-title: "Azerbaycan Üzerinden Ermenistan’a İlk Tahıl Sevkiyatı Gerçekleşti"
-subtitle: "Azerbaycan Üzerinden Ermenistan’a İlk Tahıl Sevkiyatı Gerçekleşti"
-date: "2025-11-13T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a5b4e1bf0b6f4c598ee311e3195e85c8~mv2.jpg"
-imageAlt: "Rusya’dan Ermenistan’a yapılan 1.050 tonluk ilk buğday sevkiyatı, 1990’lardan beri kapalı olan Azerbaycan transit hattının yeniden açılmasıyla mümkün oldu; RZD yıl sonuna kadar 132 vagon daha göndermeyi planlıyor."
-wixId: "080ecc15-4cbd-48c4-b772-476673679a7f"
-author: "Sedat Onat"
+title: Azerbaycan Üzerinden Ermenistan’a İlk Tahıl Sevkiyatı Gerçekleşti
+subtitle: Azerbaycan Üzerinden Ermenistan’a İlk Tahıl Sevkiyatı Gerçekleşti
+date: '2025-11-13T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_a5b4e1bf0b6f4c598ee311e3195e85c8~mv2.jpg
+imageAlt: Rusya’dan Ermenistan’a yapılan 1.050 tonluk ilk buğday sevkiyatı, 1990’lardan beri kapalı olan Azerbaycan transit hattının yeniden açılmasıyla mümkün oldu; RZD yıl sonuna kadar 132 vagon daha göndermeyi planlıyor.
+wixId: 080ecc15-4cbd-48c4-b772-476673679a7f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Azerbaycan
+- Ermenistan
+- tahıl sevkiyatı
+- demiryolu taşımacılığı
+- Güney Kafkasya
+- transit koridor
+- RZD
+- Rusya Demiryolları
 ---
 <p style="text-align: justify">Rusya Demiryolları (<strong>RZD</strong>), 1990’lardan bu yana kapalı olan Azerbaycan üzerinden Ermenistan’a transit taşımacılığın yeniden başlamasıyla birlikte <strong>ilk tahıl sevkiyatını</strong> başarıyla gerçekleştirdiğini açıkladı. Bu gelişme, Güney Kafkasya’daki ulaşım koridorlarının yeniden şekillendiğini ve üç ülke arasındaki ticari iletişimin yıllar sonra canlandığını gösteriyor.</p>
 <p><br></p>

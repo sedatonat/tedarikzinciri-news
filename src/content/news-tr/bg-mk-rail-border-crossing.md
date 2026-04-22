@@ -1,14 +1,23 @@
 ---
-title: "Bulgaristan ve Kuzey Makedonya, İlk Demiryolu Sınır Geçişi İçin Resmî Anlaşma İmzaladı"
-subtitle: "Bulgaristan ve Kuzey Makedonya, İlk Demiryolu Sınır Geçişi İçin Resmî Anlaşma İmzaladı"
-date: "2025-11-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_95da2acf22474e87b56cfc30885ab24d~mv2.jpeg"
-imageAlt: "Bulgaristan ve Kuzey Makedonya, Deve Bair Dağı’nın altından geçecek bir demiryolu tüneli inşa ederek iki ülke arasında tarihte ilk kez demiryolu sınır geçişi oluşturacak olan anlaşmayı imzaladı; proje, Koridor VIII’in tamamlanmasında kritik bir adım."
-wixId: "2bf3a56a-149b-471a-8c9a-69eb724443ad"
-author: "Sedat Onat"
+title: Bulgaristan ve Kuzey Makedonya, İlk Demiryolu Sınır Geçişi İçin Resmî Anlaşma İmzaladı
+subtitle: Bulgaristan ve Kuzey Makedonya, İlk Demiryolu Sınır Geçişi İçin Resmî Anlaşma İmzaladı
+date: '2025-11-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_95da2acf22474e87b56cfc30885ab24d~mv2.jpeg
+imageAlt: Bulgaristan ve Kuzey Makedonya, Deve Bair Dağı’nın altından geçecek bir demiryolu tüneli inşa ederek iki ülke arasında tarihte ilk kez demiryolu sınır geçişi oluşturacak olan anlaşmayı imzaladı; proje, Koridor VIII’in tamamlanmasında kritik bir adım.
+wixId: 2bf3a56a-149b-471a-8c9a-69eb724443ad
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Bulgaristan
+- Kuzey Makedonya
+- demiryolu altyapısı
+- Koridor VIII
+- sınır geçişi
+- Deve Bair tüneli
+- Balkanlar
+- Avrupa Birliği
 ---
 <p style="text-align: justify">Bulgaristan ve Kuzey Makedonya, iki ülke arasında tarihte ilk kez bir <strong>demiryolu sınır geçişi oluşturacak</strong> adımı attı. 10 Kasım 2025’te iki ülkenin ulaştırma bakanlarının imzaladığı anlaşma, <strong>Deve Bair Dağı’nın altından geçecek yeni bir sınır tünelinin</strong> inşasını öngörüyor. Bu proje, Batı Balkanlar’ın en önemli ulaştırma hatlarından biri olan <strong>Koridor VIII</strong>’in tamamlanması açısından “tarihi bir dönüm noktası” olarak değerlendiriliyor.</p>
 <p><br></p>

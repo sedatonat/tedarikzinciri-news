@@ -1,14 +1,23 @@
 ---
-title: "Dematic ve Tesco Ortaklığı: Perakende Çözümlerinde Yeni Bir Dönem"
-subtitle: "Dematic ve Tesco Ortaklığı: Perakende Çözümlerinde Yeni Bir Dönem"
-date: "2025-02-18T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_f5c3c4bf75ec4b47be23f4a20888930a~mv2.jpg"
-imageAlt: "Dematic ve Tesco Ortaklığı: Perakende Çözümlerinde Yeni Bir Dönem"
-wixId: "b6986280-bd67-4894-a4b0-3df0ef052ad7"
-author: "Sedat Onat"
+title: 'Dematic ve Tesco Ortaklığı: Perakende Çözümlerinde Yeni Bir Dönem'
+subtitle: 'Dematic ve Tesco Ortaklığı: Perakende Çözümlerinde Yeni Bir Dönem'
+date: '2025-02-18T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_f5c3c4bf75ec4b47be23f4a20888930a~mv2.jpg
+imageAlt: 'Dematic ve Tesco Ortaklığı: Perakende Çözümlerinde Yeni Bir Dönem'
+wixId: b6986280-bd67-4894-a4b0-3df0ef052ad7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Dematic
+- Tesco
+- perakende
+- tedarik zinciri optimizasyonu
+- yapay zeka
+- makine öğrenimi
+- sipariş yönetimi
+- dijital dönüşüm
 ---
 <p style="text-align: justify"><strong>Dematic</strong>, perakende sektöründe yenilikçi çözümler sunan lider bir tedarik zinciri optimizasyon şirketidir. <strong>Tesco</strong>, Birleşik Krallık merkezli, dünyanın en büyük perakende zincirlerinden biridir. Bu iki şirket, market siparişlerinin yerine getirilmesi süreçlerini geliştirmek amacıyla stratejik bir ortaklık kurmuştur.​</p>
 <p><br></p>

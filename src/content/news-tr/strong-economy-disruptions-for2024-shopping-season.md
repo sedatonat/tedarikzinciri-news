@@ -1,14 +1,23 @@
 ---
-title: "2024 Alışveriş Sezonunda Ekonomi ve Dalgalanmalar Dengesi"
-subtitle: "2024 Alışveriş Sezonunda Ekonomi ve Dalgalanmalar Dengesi"
-date: "2024-12-12T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_f91a1f48696e46fe99141a64ea605334~mv2.jpg"
-imageAlt: "2024 Alışveriş Sezonunda Ekonomi ve Dalgalanmalar Dengesi"
-wixId: "27cee630-333a-4bfc-98ae-81c00a9ae017"
-author: "Sedat Onat"
+title: 2024 Alışveriş Sezonunda Ekonomi ve Dalgalanmalar Dengesi
+subtitle: 2024 Alışveriş Sezonunda Ekonomi ve Dalgalanmalar Dengesi
+date: '2024-12-12T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_f91a1f48696e46fe99141a64ea605334~mv2.jpg
+imageAlt: 2024 Alışveriş Sezonunda Ekonomi ve Dalgalanmalar Dengesi
+wixId: 27cee630-333a-4bfc-98ae-81c00a9ae017
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- alışveriş sezonu
+- tedarik zinciri
+- e-ticaret
+- omnichannel
+- son mil teslimat
+- sürdürülebilirlik
+- robotik otomasyon
+- DTC
 ---
 <p>SupplyChainBrain tarafından yayımlanan bu değerlendirmeye göre, 2024 alışveriş sezonunda tüketici davranışları ve tedarik zinciri stratejileri, güçlü ekonomik göstergelerin ve yıl boyu yaşanan ani dalgalanmaların etkisi altında şekilleniyor. Kendisi, küresel ölçekte görülen ekonomik toparlanmanın talep tarafında yeni bir iyimserlik dalgası yarattığını gözlemliyor. Bu iyimserlik, perakendecilerin kapasite planlamalarını yeniden gözden geçirmesine ve sipariş tahminlerini daha agresif hale getirmesine neden oluyor. Bununla birlikte, COVID-19 sonrası ortaya çıkan hammadde ve işgücü sıkıntıları, işletmelerin stok yönetimi ve tedarik planlamasına daha temkinli yaklaşmalarını zorunlu kılıyor. Kur dalgalanmaları ve enflasyon gibi faktörler de fiyatlamalarda büyük rol oynuyor.</p>
 <p><br></p>

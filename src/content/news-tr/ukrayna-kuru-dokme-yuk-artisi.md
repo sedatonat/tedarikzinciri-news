@@ -1,14 +1,23 @@
 ---
-title: "Ukrayna'nın Kuru Dökme Yük Sevkiyatlarında %87 Artış"
-subtitle: "Ukrayna'nın Kuru Dökme Yük Sevkiyatlarında %87 Artış"
-date: "2025-02-24T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_91a346e157a24da2af3f7d5773ea716c~mv2.jpg"
-imageAlt: "Ukrayna'nın Kuru Dökme Yük Sevkiyatlarında %87 Artış"
-wixId: "9bc62059-8e1d-420f-b6ba-be28954d3bd8"
-author: "Sedat Onat"
+title: Ukrayna'nın Kuru Dökme Yük Sevkiyatlarında %87 Artış
+subtitle: Ukrayna'nın Kuru Dökme Yük Sevkiyatlarında %87 Artış
+date: '2025-02-24T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_91a346e157a24da2af3f7d5773ea716c~mv2.jpg
+imageAlt: Ukrayna'nın Kuru Dökme Yük Sevkiyatlarında %87 Artış
+wixId: 9bc62059-8e1d-420f-b6ba-be28954d3bd8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ukrayna
+- kuru dökme yük
+- demir cevheri
+- kömür ihracatı
+- Odesa Limanı
+- liman altyapısı
+- madencilik
+- Çin
 ---
 <p style="text-align: justify">Rusya'nın 2022'deki işgalinin ardından geçen üç yılda, Ukrayna'nın kuru dökme yük sevkiyatları %87 oranında artış gösterdi. Bu dönemde, özellikle kömür ve demir cevheri ihracatında belirgin bir yükseliş yaşandı.​</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Tedarik Zincirinde Dijital Dönüşümün Öncü Trendleri"
-subtitle: "Tedarik Zincirinde Dijital Dönüşümün Öncü Trendleri"
-date: "2024-05-08T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_8665c0f065d9461a98558fbb6210e18f~mv2.jpg"
-imageAlt: "Tedarik Zincirinde Dijital Dönüşümün Öncü Trendleri"
-wixId: "87a05e76-5362-40af-aa90-1c86f0dac0ff"
-author: "Sedat Onat"
+title: Tedarik Zincirinde Dijital Dönüşümün Öncü Trendleri
+subtitle: Tedarik Zincirinde Dijital Dönüşümün Öncü Trendleri
+date: '2024-05-08T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_8665c0f065d9461a98558fbb6210e18f~mv2.jpg
+imageAlt: Tedarik Zincirinde Dijital Dönüşümün Öncü Trendleri
+wixId: 87a05e76-5362-40af-aa90-1c86f0dac0ff
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- dijital dönüşüm
+- Gartner
+- yapay zeka
+- tedarik zinciri teknolojisi
+- sürdürülebilirlik
+- siber güvenlik
+- otomasyon
 ---
 <p>Gartner analist firması, tedarik zinciri teknolojisinde dikkat edilmesi gereken sekiz önemli eğilimi belirlemiştir. Bu teknolojik eğilimler hızla gelişmekte olup, çoğunun önümüzdeki iki ila beş yıl içinde olgunlaşması beklenmektedir.&nbsp;</p>
 <p><br></p>

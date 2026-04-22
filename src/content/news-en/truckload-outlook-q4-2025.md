@@ -1,16 +1,24 @@
 ---
-title: "RXO: Truckload Market Shows Weakness in Q4 2025, Gradual Recovery Expected in 2026"
-subtitle: "RXO: Truckload Market Shows Weakness in Q4 2025, Gradual Recovery Expected in 2026"
-date: "2025-12-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1756d10b84fd4d26abf8e2594c36b173~mv2.png"
-imageAlt: "Summary of RXO's Curve report detailing weak volumes in the truckload market during Q4 2025, spot rate compression, manufacturing sector stagnation, and expectations for interest-rate-driven recovery in 2026"
-wixId: "b30d3f1b-aca8-46fc-8aaf-38e4437f3c7c"
-author: "Sedat Onat"
+title: 'RXO: Truckload Market Shows Weakness in Q4 2025, Gradual Recovery Expected in 2026'
+subtitle: 'RXO: Truckload Market Shows Weakness in Q4 2025, Gradual Recovery Expected in 2026'
+date: '2025-12-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1756d10b84fd4d26abf8e2594c36b173~mv2.png
+imageAlt: Summary of RXO's Curve report detailing weak volumes in the truckload market during Q4 2025, spot rate compression, manufacturing sector stagnation, and expectations for interest-rate-driven recovery in 2026
+wixId: b30d3f1b-aca8-46fc-8aaf-38e4437f3c7c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- RXO
+- truckload market
+- US logistics
+- spot freight
+- manufacturing output
+- PMI
+- Federal Reserve
+- freight broker
 ---
-
 <p style="text-align: justify">The U.S. <strong>truckload</strong> market shows no pronounced recovery signals heading into the final quarter of 2025. The <strong>Curve Report published on November 20 by freight broker RXO</strong> suggests that volumes will remain <strong>muted</strong> in the year's final quarter, though a more meaningful directional shift is possible in 2026. The Curve brand, RXO's analytics division acquired from <strong>Coyote Logistics</strong> last year, is closely monitored by the sector.</p>\n<p><br></p>\n<p style="text-align: justify">According to the report, while October and November showed relatively better performance on a <strong>year-over-year</strong> basis, this improvement has not created sustained upward pressure on <strong>spot rates</strong>. RXO expects spot prices to experience neither sharp declines nor strong gains in the near term; the market is <strong>trading within a narrow band</strong>.</p>\n<p><br></p>\n<p style="text-align: justify">The report offers a notable assessment:<br>
  <strong>"Though this cycle peak may be atypical to previous — it may very well dip into deflation (without hitting a real trough) — we believe it will rise up to a more traditional peak in 2026."</strong><br>
 This statement indicates that the current cycle is evolving differently from past truckload crises; rather than a deep collapse, the market is experiencing <strong>prolonged horizontal weakness</strong>.</p>\n<p><br></p>\n<h3 style="text-align: justify"><strong>Demand Problem: The Critical Issue</strong></h3>\n<p style="text-align: justify">The fundamental pressure on the market stems from <strong>demand weakness</strong>. While <strong>Bob Costello</strong>, chief economist of the <strong>American Trucking Associations (ATA)</strong>, suggests that supply-side deterioration could reshape the market, academic circles emphasize that demand-side factors are more critical.</p>\n<p style="text-align: justify"><strong>Jason Miller</strong>, supply chain professor at <strong>Michigan State University</strong>, argues that the key to recovery in the truckload market is <strong>manufacturing output</strong>. According to Federal Reserve data:</p>\n<ul>

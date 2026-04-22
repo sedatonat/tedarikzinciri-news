@@ -1,14 +1,22 @@
 ---
-title: "American Club: Rus Limanlarına Girişte Yeni FSB Kuralları Gemiler İçin Ciddi Gecikme Riski Yaratıyor"
-subtitle: "American Club: Rus Limanlarına Girişte Yeni FSB Kuralları Gemiler İçin Ciddi Gecikme Riski Yaratıyor"
-date: "2025-12-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_99e4e9bd30c0485cb2c80a9b5ab42f32~mv2.jpg"
-imageAlt: "Rusya’nın 25 Kasım 2025’te yürürlüğe giren yeni FSB liman giriş kurallarının gemi sahipleri için 48–53 saate varan gecikmelere, maliyet artışlarına ve operasyonel belirsizliğe yol açabileceğine dair American Club uyarısının detaylı özeti"
-wixId: "22aee459-fd0f-461d-9dc1-1b5b8291df97"
-author: "Sedat Onat"
+title: 'American Club: Rus Limanlarına Girişte Yeni FSB Kuralları Gemiler İçin Ciddi Gecikme Riski Yaratıyor'
+subtitle: 'American Club: Rus Limanlarına Girişte Yeni FSB Kuralları Gemiler İçin Ciddi Gecikme Riski Yaratıyor'
+date: '2025-12-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_99e4e9bd30c0485cb2c80a9b5ab42f32~mv2.jpg
+imageAlt: Rusya’nın 25 Kasım 2025’te yürürlüğe giren yeni FSB liman giriş kurallarının gemi sahipleri için 48–53 saate varan gecikmelere, maliyet artışlarına ve operasyonel belirsizliğe yol açabileceğine dair American Club uyarısının detaylı özeti
+wixId: 22aee459-fd0f-461d-9dc1-1b5b8291df97
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Rusya limanları
+- FSB
+- gemi gecikmeleri
+- liman güvenliği
+- sualtı muayene
+- American Club
+- operasyonel risk
 ---
 <p style="text-align: justify"><strong>American Club</strong>, 4 Aralık tarihli üye duyurusunda, Rusya’nın yabancı limanlardan gelen gemiler için getirdiği yeni liman giriş gerekliliklerinin <strong>önemli gecikmelere, operasyonel aksamalara ve ek masraflara</strong> neden olabileceği konusunda shipowner’ları uyardı. Rusya’da <strong>25 Kasım 2025’te</strong> yürürlüğe giren yeni düzenlemeye göre, yabancı limanlardan gelen tüm ticari gemilerin <strong>Federal Security Service (FSB)</strong> üzerinden ek kontrol sürecinden geçmesi gerekiyor.</p>
 <p><br></p>

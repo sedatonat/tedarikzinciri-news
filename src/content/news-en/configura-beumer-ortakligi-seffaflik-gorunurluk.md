@@ -1,16 +1,23 @@
 ---
-title: "Configura and BEUMER Group Form Partnership on Digital System Planning and Visualization"
-subtitle: "Configura and BEUMER Group Form Partnership on Digital System Planning and Visualization"
-date: "2025-02-25T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_d33a88dba71d46ab92c469ca9c7cc167~mv2.jpg"
-imageAlt: "Configura and BEUMER Group Form Partnership on Digital System Planning and Visualization"
-wixId: "a5b34db2-d811-4c98-8e63-f6428174ad76"
-author: "Sedat Onat"
+title: Configura and BEUMER Group Form Partnership on Digital System Planning and Visualization
+subtitle: Configura and BEUMER Group Form Partnership on Digital System Planning and Visualization
+date: '2025-02-25T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_d33a88dba71d46ab92c469ca9c7cc167~mv2.jpg
+imageAlt: Configura and BEUMER Group Form Partnership on Digital System Planning and Visualization
+wixId: a5b34db2-d811-4c98-8e63-f6428174ad76
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Configura
+- BEUMER Group
+- intralogistics
+- digital transformation
+- automation
+- visualization
+- system planning
 ---
-
 <p style="text-align: justify"><strong>Configura</strong> is the developer of <strong>Parametric Graphical Configuration (PGC)</strong> software, used in fields such as industrial equipment, office furniture, and laboratory equipment. This software simplifies the design, sales, and manufacturing of complex products, thereby enhancing company productivity. <strong>BEUMER Group</strong> is a global leader in intralogistics systems and automation solutions. It provides solutions in material handling, loading, packaging, palletizing, sorting, and distribution technologies.</p>
 <p><br></p>
 <p style="text-align: justify">The two companies have formed a strategic partnership in digital system planning and visualization. This collaboration aims to improve the planning and visualization processes of <strong>BEUMER Group</strong>'s intralogistics systems. Through <strong>Configura</strong>'s PGC technology, <strong>BEUMER Group</strong>'s customers and employees can create and customize system designs more quickly and efficiently.</p>

@@ -1,14 +1,22 @@
 ---
-title: "Microsoft Wisconsin’de İkinci Yapay Zeka Veri Merkezi İçin 4Milyar Dolar Yatırım Yapıyor"
-subtitle: "Microsoft Wisconsin’de İkinci Yapay Zeka Veri Merkezi İçin 4Milyar Dolar Yatırım Yapıyor"
-date: "2025-09-19T00:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_e56b06b56fea46a285b06ccedd8b322a~mv2.png"
-imageAlt: "Microsoft Wisconsin’de İkinci Yapay Zeka Veri Merkezi İçin 4b$ Yatırım Yapıyor"
-wixId: "67643209-a0bd-469b-b918-92ffdf3e7668"
-author: "Sedat Onat"
+title: Microsoft Wisconsin’de İkinci Yapay Zeka Veri Merkezi İçin 4Milyar Dolar Yatırım Yapıyor
+subtitle: Microsoft Wisconsin’de İkinci Yapay Zeka Veri Merkezi İçin 4Milyar Dolar Yatırım Yapıyor
+date: '2025-09-19T00:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_e56b06b56fea46a285b06ccedd8b322a~mv2.png
+imageAlt: Microsoft Wisconsin’de İkinci Yapay Zeka Veri Merkezi İçin 4b$ Yatırım Yapıyor
+wixId: 67643209-a0bd-469b-b918-92ffdf3e7668
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Microsoft
+- yapay zeka
+- veri merkezi
+- Wisconsin
+- sıvı soğutma
+- yenilenebilir enerji
+- yerel tedarik
 ---
 <p style="text-align: justify">Microsoft, <strong>Wisconsin’de ikinci yapay zekâ veri merkezi (AI data center)</strong> tesisi için <strong>4 milyar dolarlık yatırım</strong> planladığını duyurdu. Bu yeni proje, yalnızca yüksek yoğunluklu bilgi işlem kapasitesi değil; aynı zamanda <strong>sıvı soğutma (liquid cooling)</strong>, <strong>yenilenebilir enerji PPA (Power Purchase Agreement)</strong> anlaşmaları ve <strong>yerel iş gücü geliştirme programlarını</strong> da kapsıyor. Amaç, hem bölgesel ekonomiyi desteklemek hem de sürdürülebilir ve ölçeklenebilir bir yapay zekâ altyapısı oluşturmak.</p>
 <p style="text-align: justify"><br></p>

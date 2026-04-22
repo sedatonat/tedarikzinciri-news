@@ -1,14 +1,22 @@
 ---
-title: "Rusya’dan İran’daki Aprin Kuru Limanına İlk Düzenli Tren Hizmeti Başladı"
-subtitle: "Rusya’dan İran’daki Aprin Kuru Limanına İlk Düzenli Tren Hizmeti Başladı"
-date: "2025-11-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_fbdd500ec95249fa8263ddc2a2b2a5a7~mv2.jpg"
-imageAlt: "Uluslararası Kuzey-Güney Ulaştırma Koridoru (INSTC) kapsamında Rusya’dan İran’ın Tahran yakınındaki Aprin Dry Port’a ilk düzenli tren servisi başlatıldı; transit süresi iki haftanın altında gerçekleşti ve koridorun gelişiminde kritik bir eşik aşıldı."
-wixId: "57b6904d-1675-47e5-a97c-56a113252800"
-author: "Sedat Onat"
+title: Rusya’dan İran’daki Aprin Kuru Limanına İlk Düzenli Tren Hizmeti Başladı
+subtitle: Rusya’dan İran’daki Aprin Kuru Limanına İlk Düzenli Tren Hizmeti Başladı
+date: '2025-11-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_fbdd500ec95249fa8263ddc2a2b2a5a7~mv2.jpg
+imageAlt: Uluslararası Kuzey-Güney Ulaştırma Koridoru (INSTC) kapsamında Rusya’dan İran’ın Tahran yakınındaki Aprin Dry Port’a ilk düzenli tren servisi başlatıldı; transit süresi iki haftanın altında gerçekleşti ve koridorun gelişiminde kritik bir eşik aşıldı.
+wixId: 57b6904d-1675-47e5-a97c-56a113252800
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- INSTC
+- Rusya
+- İran
+- kuru liman
+- demiryolu
+- transit koridor
+- Aprin
 ---
 <p style="text-align: justify">Uluslararası Kuzey-Güney Ulaştırma Koridoru’nun (<strong>INSTC</strong>) geliştirilmesi açısından kritik önemde bir adım daha atıldı. Rusya’dan İran’ın başkenti Tahran yakınlarında bulunan <strong>Aprin kuru limanına</strong> ilk düzenli tren servisi başarıyla ulaştı. Söz konusu sefer, rotanın işletme aşamasına geçtiğini gösteren en somut işaretlerden biri olarak değerlendiriliyor.</p>
 <p><br></p>

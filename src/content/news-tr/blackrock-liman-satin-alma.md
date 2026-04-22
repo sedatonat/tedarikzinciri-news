@@ -1,14 +1,22 @@
 ---
-title: "BlackRock'un Oyun Değiştiren Liman Satınalma Anlaşmasındaki Rolü"
-subtitle: "BlackRock'un Oyun Değiştiren Liman Satınalma Anlaşmasındaki Rolü"
-date: "2025-03-07T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_45adc15b80134407af94c5fb0b1460bf~mv2.jpg"
-imageAlt: "BlackRock'un Oyun Değiştiren Liman Satın Alma Anlaşmasındaki Rolü"
-wixId: "434c3fd1-e4fd-4165-aeb2-7940f6088d6f"
-author: "Sedat Onat"
+title: BlackRock'un Oyun Değiştiren Liman Satınalma Anlaşmasındaki Rolü
+subtitle: BlackRock'un Oyun Değiştiren Liman Satınalma Anlaşmasındaki Rolü
+date: '2025-03-07T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_45adc15b80134407af94c5fb0b1460bf~mv2.jpg
+imageAlt: BlackRock'un Oyun Değiştiren Liman Satın Alma Anlaşmasındaki Rolü
+wixId: 434c3fd1-e4fd-4165-aeb2-7940f6088d6f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- BlackRock
+- liman satın alma
+- Panama Kanalı
+- Global Infrastructure Partners
+- altyapı yatırımı
+- CK Hutchinson Holdings
+- Larry Fink
 ---
 <p style="text-align: justify"><strong>BlackRock</strong>, <strong>Global Infrastructure Partners</strong> ve <strong>Terminal Investment Limited</strong>, <strong>CK Hutchinson Holdings</strong>'e ait <strong>Panama Ports Company</strong>'nin %90 hissesini yaklaşık 23 milyar dolar karşılığında satın almak için anlaşmaya vardı. Bu anlaşma, <strong>Panama Kanalı</strong>'nın her iki yakasında bulunan <strong>Balboa</strong> ve <strong>Cristobal</strong> limanlarını kapsamaktadır.</p>
 <p><br></p>

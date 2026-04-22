@@ -1,14 +1,23 @@
 ---
-title: "Ulta Beauty, Tedarik Zincirinde Büyük Yatırım Yapıyor"
-subtitle: "Ulta Beauty, Tedarik Zincirinde Büyük Yatırım Yapıyor"
-date: "2024-11-12T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_016b24ee12824bf094220dbec75aca6e~mv2.jpg"
-imageAlt: "Ulta Beauty, Tedarik Zincirinde Büyük Yatırım Yapıyor"
-wixId: "61568338-36ac-4c26-89b2-58d9fee8ba39"
-author: "Sedat Onat"
+title: Ulta Beauty, Tedarik Zincirinde Büyük Yatırım Yapıyor
+subtitle: Ulta Beauty, Tedarik Zincirinde Büyük Yatırım Yapıyor
+date: '2024-11-12T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_016b24ee12824bf094220dbec75aca6e~mv2.jpg
+imageAlt: Ulta Beauty, Tedarik Zincirinde Büyük Yatırım Yapıyor
+wixId: 61568338-36ac-4c26-89b2-58d9fee8ba39
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ulta Beauty
+- tedarik zinciri dönüşümü
+- otomasyon
+- MFC
+- ERP
+- omnichannel
+- dağıtım merkezi
+- e-ticaret
 ---
 <p>Ulta Beauty, 2021 yılında başlattığı tedarik zinciri dönüşüm yolculuğunda rakiplerinden farklı bir strateji benimsedi. Şirket, mevcut bölgesel dağıtım merkezlerinden bazılarını otomasyon yükseltmeleriyle donatarak, daha verimli bir operasyon modeli oluşturmayı hedefliyor. Chief Supply Chain Officer Erik Lopez'in Supply Chain Dive ile yaptığı görüşmede belirttiğine göre, Ulta Beauty, büyük ve genellikle yıl boyunca yeterince kullanılmayan tesisler yerine, daha küçük ve esnek bir ayak izi oluşturmayı tercih etti.</p>
 <p><br></p>

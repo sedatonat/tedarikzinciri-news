@@ -1,14 +1,22 @@
 ---
-title: "Maersk, Miami'de Stratejik Hava Kargo Kapısı Açtı"
-subtitle: "Maersk, Miami'de Stratejik Hava Kargo Kapısı Açtı"
-date: "2024-05-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0c052d7b281845a28dfbd960a20f6a3e~mv2.jpg"
-imageAlt: "Maersk, Miami'de Stratejik Hava Kargo Kapısı Açtı"
-wixId: "f71810ff-17ab-430d-b04f-189a7be0939e"
-author: "Sedat Onat"
+title: Maersk, Miami'de Stratejik Hava Kargo Kapısı Açtı
+subtitle: Maersk, Miami'de Stratejik Hava Kargo Kapısı Açtı
+date: '2024-05-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0c052d7b281845a28dfbd960a20f6a3e~mv2.jpg
+imageAlt: Maersk, Miami'de Stratejik Hava Kargo Kapısı Açtı
+wixId: f71810ff-17ab-430d-b04f-189a7be0939e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Maersk
+- hava kargo
+- Miami
+- Latin Amerika
+- transit kapısı
+- lojistik çözümler
+- tedarik zinciri
 ---
 <p>A.P. Moller-Maersk (Maersk) şirketi, hava kargo operasyonlarını genişleterek Nisan ayında Miami, Florida'da tam hizmet veren bir transit geçiş çözümü olan yeni bir hava kargo kapısı başlattı. Miami kapısı, Maersk'in küresel hava kargo ağındaki kritik bir düğüm noktası olarak hizmet verecek. Bu kapı, Asya, Avrupa ve ABD'den Latin Amerika'ya bağlantı sağlayacak stratejik bir ek olarak değerlendiriliyor.</p>
 <p><br></p>

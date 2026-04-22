@@ -1,16 +1,24 @@
 ---
-title: "U.S. Sanctions Squeeze Russian Oil at Sea: 48 Million Barrels Await Buyers"
-subtitle: "U.S. Sanctions Squeeze Russian Oil at Sea: 48 Million Barrels Await Buyers"
-date: "2025-11-21T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_6415e0f014774faa8009ee3b7be8be1a~mv2.jpg"
-imageAlt: "As U.S. sanctions against Rosneft and Lukoil take effect, approximately 48 million barrels of Russian crude oil remain stranded at sea; dozens of tankers are changing course to seek alternative ports."
-wixId: "8b504025-1b4c-4070-8bf5-9a33fedc5da8"
-author: "Sedat Onat"
+title: 'U.S. Sanctions Squeeze Russian Oil at Sea: 48 Million Barrels Await Buyers'
+subtitle: 'U.S. Sanctions Squeeze Russian Oil at Sea: 48 Million Barrels Await Buyers'
+date: '2025-11-21T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_6415e0f014774faa8009ee3b7be8be1a~mv2.jpg
+imageAlt: As U.S. sanctions against Rosneft and Lukoil take effect, approximately 48 million barrels of Russian crude oil remain stranded at sea; dozens of tankers are changing course to seek alternative ports.
+wixId: 8b504025-1b4c-4070-8bf5-9a33fedc5da8
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- US sanctions
+- Russian oil
+- tanker traffic
+- Rosneft
+- Lukoil
+- India
+- China
+- maritime transportation
 ---
-
 <p style="text-align: justify">New sanctions that took effect following the U.S. decision to blacklist Rosneft PJSC and Lukoil PJSC have triggered significant disruption in global oil trade. According to Bloomberg's analysis, approximately <strong>48 million barrels of Russian crude oil</strong> are <strong>"stuck" at sea</strong> due to lack of buyers. This situation is driving new route changes in the global supply chain, adding costs, and creating irregularities in tanker traffic.</p>
 <p><br></p>
 <p style="text-align: justify">The sanctions are viewed as one of Washington's most aggressive moves to increase pressure on Moscow over the Ukraine war. The U.S. Treasury Department stated that the sanctions are "already effective," with demand for Russian oil declining and significant discounts emerging in prices.</p>

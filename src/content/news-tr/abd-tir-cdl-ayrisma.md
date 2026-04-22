@@ -1,14 +1,22 @@
 ---
-title: "ABD Kamyonculuk Sektöründe Göçmen CDL Denetimleri Ayrışma Yaratıyor"
-subtitle: "ABD Kamyonculuk Sektöründe Göçmen CDL Denetimleri Ayrışma Yaratıyor"
-date: "2025-12-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5a6ce4a40dff4a33b539cbef4b957302~mv2.jpg"
-imageAlt: "ABD’de non-domiciled CDL uygulamalarına yönelik denetimlerin ve önerilen düzenlemelerin kamyoncu arzı, navlun fiyatları ve kapasite dengesi üzerindeki etkilerini ele alan detaylı sektör özeti"
-wixId: "909ef012-d83e-4e29-ae95-e3bed6e477c8"
-author: "Sedat Onat"
+title: ABD Kamyonculuk Sektöründe Göçmen CDL Denetimleri Ayrışma Yaratıyor
+subtitle: ABD Kamyonculuk Sektöründe Göçmen CDL Denetimleri Ayrışma Yaratıyor
+date: '2025-12-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5a6ce4a40dff4a33b539cbef4b957302~mv2.jpg
+imageAlt: ABD’de non-domiciled CDL uygulamalarına yönelik denetimlerin ve önerilen düzenlemelerin kamyoncu arzı, navlun fiyatları ve kapasite dengesi üzerindeki etkilerini ele alan detaylı sektör özeti
+wixId: 909ef012-d83e-4e29-ae95-e3bed6e477c8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD kamyonculuk
+- CDL
+- göçmen sürücü
+- sürücü açığı
+- navlun piyasası
+- federal denetim
+- kapasite daralması
 ---
 <p style="text-align: justify">ABD kamyonculuk sektörü, göçmen sürücülere verilen <strong>non-domiciled commercial driver’s license (CDL)</strong> uygulamalarına yönelik sıkılaştırılan denetimler ve önerilen düzenlemeler nedeniyle belirgin bir görüş ayrışması yaşamakta. Sektörün bir kesimi, sürücü uygunluğuna yönelik federal denetimlerin kısa vadede kapasiteyi daraltarak fiyatları yukarı yönlü etkileyebileceğini savunmakta. Diğer kesim ise navlun piyasasında üç yıldır devam eden durgunluğun ancak talep tarafında yaşanacak gerçek bir toparlanma ile sona erebileceğini öne sürmekte.</p>
 <p><br></p>

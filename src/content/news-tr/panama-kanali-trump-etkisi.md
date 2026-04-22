@@ -1,14 +1,22 @@
 ---
-title: "Panama Kanalı ve Donald Trump: Tedarik Zinciriniz Üzerindeki Etkileri"
-subtitle: "Panama Kanalı ve Donald Trump: Tedarik Zinciriniz Üzerindeki Etkileri"
-date: "2024-12-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f522307c69b94859b0d2864662f40aa7~mv2.jpg"
-imageAlt: "Panama Kanalı ve Donald Trump: Tedarik Zinciriniz Üzerindeki Etkileri"
-wixId: "f561bf4a-6493-4cf9-8abf-4b76bc1118e7"
-author: "Sedat Onat"
+title: 'Panama Kanalı ve Donald Trump: Tedarik Zinciriniz Üzerindeki Etkileri'
+subtitle: 'Panama Kanalı ve Donald Trump: Tedarik Zinciriniz Üzerindeki Etkileri'
+date: '2024-12-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f522307c69b94859b0d2864662f40aa7~mv2.jpg
+imageAlt: 'Panama Kanalı ve Donald Trump: Tedarik Zinciriniz Üzerindeki Etkileri'
+wixId: f561bf4a-6493-4cf9-8abf-4b76bc1118e7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Panama Kanalı
+- Donald Trump
+- tedarik zinciri
+- küresel ticaret
+- deniz taşımacılığı
+- jeopolitik risk
+- nakliye rotaları
 ---
 <p>Başkan seçilen <strong>Donald Trump</strong>'ın, <strong>Panama Kanalı</strong> üzerinde ABD kontrolünü yeniden kazanma yönündeki son açıklamaları, siyasi ve diplomatik tartışmaların yanı sıra, küresel tedarik zincirleri üzerinde de önemli etkilere yol açabilir.</p>
 <p><br></p>

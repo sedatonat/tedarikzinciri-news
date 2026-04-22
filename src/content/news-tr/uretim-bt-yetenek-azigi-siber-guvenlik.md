@@ -1,14 +1,22 @@
 ---
-title: "Üreticiler, BT Yetenek Açığı ve Siber Güvenlikte Zorluk Yaşıyor"
-subtitle: "Üreticiler, BT Yetenek Açığı ve Siber Güvenlikte Zorluk Yaşıyor"
-date: "2024-11-20T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_56d39428d2784ac3999cca66d8b5bfe6~mv2.jpg"
-imageAlt: "Üreticiler, BT Yetenek Açığı ve Siber Güvenlikte Zorluk Yaşıyor"
-wixId: "bc88756e-8604-40d9-bf36-d83644f1c8e9"
-author: "Sedat Onat"
+title: Üreticiler, BT Yetenek Açığı ve Siber Güvenlikte Zorluk Yaşıyor
+subtitle: Üreticiler, BT Yetenek Açığı ve Siber Güvenlikte Zorluk Yaşıyor
+date: '2024-11-20T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_56d39428d2784ac3999cca66d8b5bfe6~mv2.jpg
+imageAlt: Üreticiler, BT Yetenek Açığı ve Siber Güvenlikte Zorluk Yaşıyor
+wixId: bc88756e-8604-40d9-bf36-d83644f1c8e9
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- siber güvenlik
+- üretim sektörü
+- BT yetenek açığı
+- ağ güvenliği
+- dijital dönüşüm
+- SASE
+- tedarik zinciri riskleri
 ---
 <p>GatePoint Research tarafından yürütülen ve Aryaka tarafından desteklenen "The State of Network Security in Manufacturing" başlıklı rapora göre, üretim sektörü, artan siber tehditler, görünürlük açıkları ve kaynak yetersizlikleri gibi kritik ağ güvenliği sorunlarıyla mücadele ediyor. Rapor, endüstrinin önceliklerini gerçek zamanlı ağ görünürlüğü, güvenli küresel bağlantı ve maliyet kontrolü olarak belirliyor.</p>
 <p><br></p>

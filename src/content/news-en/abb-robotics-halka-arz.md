@@ -1,16 +1,23 @@
 ---
-title: "ABB to Spin Off Robotics Unit for 2026 Stock Market Listing"
-subtitle: "ABB to Spin Off Robotics Unit for 2026 Stock Market Listing"
-date: "2025-04-20T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_e5b381ed8a1d480193f4ffbee494d6c3~mv2.png"
-imageAlt: "ABB to Spin Off Robotics Unit for 2026 Stock Market Listing"
-wixId: "994f2886-a433-49f4-8f12-315e622efaa9"
-author: "Sedat Onat"
+title: ABB to Spin Off Robotics Unit for 2026 Stock Market Listing
+subtitle: ABB to Spin Off Robotics Unit for 2026 Stock Market Listing
+date: '2025-04-20T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_e5b381ed8a1d480193f4ffbee494d6c3~mv2.png
+imageAlt: ABB to Spin Off Robotics Unit for 2026 Stock Market Listing
+wixId: 994f2886-a433-49f4-8f12-315e622efaa9
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- ABB
+- robotics
+- IPO
+- AMR
+- cobots
+- warehouse automation
+- supply chain
 ---
-
 <p style="text-align: justify"><strong>ABB</strong> has announced plans to <strong>spin off its robotics unit for a public listing (IPO) in 2026</strong>. This strategic move aims to enable the business to gain <strong>independent access to capital</strong> and manage its growth roadmap more nimbly. Simultaneously, the spin-off is expected to boost focus across ABB's broader portfolio and <strong>raise the visibility of the robotics division's value</strong>.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">From a market perspective, <strong>AMR (Autonomous Mobile Robots)</strong>, <strong>collaborative robots (cobots)</strong>, and <strong>machine vision-enabled systems</strong> are demonstrating rapid growth across both <strong>flexible production lines</strong> and <strong>warehouse automation</strong>. Demand momentum is particularly strong in sectors such as e-commerce, electronics, and automotive. As an independent entity, ABB's robotics unit plans to <strong>accelerate product development velocity</strong> and <strong>drive market-focused innovation</strong> in these segments.</p>

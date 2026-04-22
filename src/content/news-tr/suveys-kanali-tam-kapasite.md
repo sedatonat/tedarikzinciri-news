@@ -1,14 +1,22 @@
 ---
-title: "Süveyş Kanalı Tam Kapasiteye Hazır: Denizcilik Sektörü Normale Dönüyor"
-subtitle: "Süveyş Kanalı Tam Kapasiteye Hazır: Denizcilik Sektörü Normale Dönüyor"
-date: "2025-01-22T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b6af7745c65e49a390fd93c737603515~mv2.jpg"
-imageAlt: "Süveyş Kanalı Tam Kapasiteye Hazır: Denizcilik Sektörü Normale Dönüyor"
-wixId: "e37ee38e-d898-48ae-ba5e-8be08d7436b1"
-author: "Sedat Onat"
+title: 'Süveyş Kanalı Tam Kapasiteye Hazır: Denizcilik Sektörü Normale Dönüyor'
+subtitle: 'Süveyş Kanalı Tam Kapasiteye Hazır: Denizcilik Sektörü Normale Dönüyor'
+date: '2025-01-22T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b6af7745c65e49a390fd93c737603515~mv2.jpg
+imageAlt: 'Süveyş Kanalı Tam Kapasiteye Hazır: Denizcilik Sektörü Normale Dönüyor'
+wixId: e37ee38e-d898-48ae-ba5e-8be08d7436b1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Süveyş Kanalı
+- denizcilik
+- küresel ticaret
+- tedarik zinciri
+- Ever Given
+- konteyner gemisi
+- navlun
 ---
 <p style="text-align: justify"><strong>Süveyş Kanalı İdaresi (SCA)</strong> Başkanı <strong>Amiral Osama Rabiee</strong>, kanalın tam kapasiteyle çalışmaya hazır olduğunu ve denizcilik hatlarının rotalarına geri döndüğünü açıkladı. Bu gelişme, küresel ticaretin önemli bir geçiş noktası olan Süveyş Kanalı'nın eski işlevselliğine kavuştuğunu göstermekte.​</p>
 <p style="text-align: justify"><br></p>

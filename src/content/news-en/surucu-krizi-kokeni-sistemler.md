@@ -1,16 +1,23 @@
 ---
-title: "The Root of the Driver Crisis: The Problem Is Systems, Not People"
-subtitle: "The Root of the Driver Crisis: The Problem Is Systems, Not People"
-date: "2025-11-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_386cfcfaff524c1dae2d4cb7d18e2e11~mv2.jpg"
-imageAlt: "Comprehensive news summary explaining that the real cause of the driver shortage in the trucking sector is not human resources, but fragmented operations, inconsistent workflows, and disconnected data structures"
-wixId: "51e919e4-6fb8-4075-9941-ec09d51ec7aa"
-author: "Sedat Onat"
+title: 'The Root of the Driver Crisis: The Problem Is Systems, Not People'
+subtitle: 'The Root of the Driver Crisis: The Problem Is Systems, Not People'
+date: '2025-11-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_386cfcfaff524c1dae2d4cb7d18e2e11~mv2.jpg
+imageAlt: Comprehensive news summary explaining that the real cause of the driver shortage in the trucking sector is not human resources, but fragmented operations, inconsistent workflows, and disconnected data structures
+wixId: 51e919e4-6fb8-4075-9941-ec09d51ec7aa
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- driver shortage
+- Magnus Technologies
+- TMS
+- unified data
+- operational efficiency
+- automation
+- fleet management
 ---
-
 <p style="text-align: justify">North America's logistics industry has long been associated with the <strong>driver shortage</strong> problem, yet <strong>Magnus Technologies CEO Matt Cartwright</strong> argues that the root of the current crisis lies not in a lack of personnel, but in <strong>fragmented operational structures</strong>. According to Cartwright, the industry has sufficient numbers of qualified and willing drivers; the problem is that the environment in which drivers work fails to provide <strong>consistency, predictability, and data integrity</strong>. Vehicle tracking systems, dispatch applications, safety software, and customer platforms commonly used in large fleets continue to be <strong>independent tools that do not communicate with each other</strong>. This leads to unstable day-to-day operations, and drivers bear the burden of this inconsistency directly.</p>
 <p><br></p>
 <p style="text-align: justify">Cartwright points to <strong>lack of standardization in workflows</strong> as the fundamental reason drivers leave the industry, rather than the work itself. He notes that in many companies, a driver's ability to build a balanced work schedule, access accurate and current information, and receive clear instructions about loads remains largely a matter of chance. Separate departments — <strong>dispatch, safety, billing, telematics</strong> — operating with separate data sources weaken both internal communication and driver experience. This disconnect becomes particularly visible when <strong>freight variability</strong> increases, that is, when customer volumes, instructions, or delivery expectations change frequently.</p>

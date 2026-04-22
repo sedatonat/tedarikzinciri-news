@@ -1,14 +1,21 @@
 ---
-title: "Netstock's 2024 Inventory Management Report: Critical Findings for SMEs"
-subtitle: "Netstock's 2024 Inventory Management Report: Critical Findings for SMEs"
-date: "2024-10-01T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_cfda771b8a2f41c4a3fcdbbf3af7af46~mv2.png"
-imageAlt: "Netstock's 2024 Inventory Management Report: Critical Findings for SMEs"
-wixId: "5d36013b-9b96-43b7-be92-9b2e89b181ac"
-author: "Sedat Onat"
+title: 'Netstock''s 2024 Inventory Management Report: Critical Findings for SMEs'
+subtitle: 'Netstock''s 2024 Inventory Management Report: Critical Findings for SMEs'
+date: '2024-10-01T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_cfda771b8a2f41c4a3fcdbbf3af7af46~mv2.png
+imageAlt: 'Netstock''s 2024 Inventory Management Report: Critical Findings for SMEs'
+wixId: 5d36013b-9b96-43b7-be92-9b2e89b181ac
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- inventory management
+- SME
+- Netstock
+- supply chain
+- AI
+- nearshoring
+- excess inventory
 ---
-
 <p>Netstock's 2024 Inventory Management Benchmark Report conducts a comprehensive analysis of the current state of inventory management based on anonymous and aggregated platform data from more than 2,400 customers worldwide. The report reveals critical challenges and opportunities for supply chain decision-makers, while highlighting major inventory management issues faced by small and medium-sized enterprises (SMEs).</p>\n<p><br></p>\n<p>The report notes that SMEs succeeded in carrying less inventory this year, highlighting this as an indicator of strong inventory performance and effective fulfillment of customer demand. As an innovative leader in demand and supply planning solutions, Netstock is in a strong position to present its first report in this space.</p>\n<p><br></p>\n<p>Among the key findings, the report states that 72% of SMEs, particularly those sourcing from China, struggle with inconsistent lead times. In this context, sea freight emerges as the most reliable option. Additionally, only 25% of American SMEs rely on offshore suppliers, with a shift toward domestic sourcing observed. This development underscores the growing need for predictive supply chain tools.</p>\n<p><br></p>\n<p>The report reveals that excess inventory comprises 38% of SME inventories, with this percentage even higher among larger SMEs. Excess stock increases the financial burden on businesses while negatively affecting their efficiency. Financing challenges also occupy an important place in the report; more than half of SMEs finance their inventories through cash or credit, while fluctuating interest rates create additional pressures, particularly in the retail sector.</p>\n<p><br></p>\n<p>Despite artificial intelligence's (AI) potential to optimize inventory management, only 23% of SMEs have adopted AI technologies. Concerns about data security and integrity rank among the primary factors hindering AI adoption. Netstock aims to encourage AI adoption among SMEs through education and support programs in this area.</p>\n<p><br></p>\n<p>The report offers strategic recommendations to help SMEs overcome challenges in inventory management. SMEs are provided with roadmaps in areas such as enhancing supplier reliability, adopting nearshoring strategies, and integrating AI technologies. The report also includes recommendations for addressing financing challenges and effectively managing excess inventory.</p>\n<p><br></p>\n<p>This comprehensive analysis from Netstock aims to help SMEs optimize their inventory management processes and gain a competitive advantage. The report serves as a valuable resource for businesses seeking to improve their supply chain processes, enabling them to achieve more sustainable and profitable inventory management.</p>\n<p><br></p>\n<h5><strong>Key Takeaways:</strong></h5>\n<ul>\n  <li><p><strong>Data Source:</strong> Netstock's report includes data from more than 2,400 customers worldwide.</p></li>\n  <li><p><strong>Supplier Reliability:</strong> 72% of SMEs struggle with inconsistent lead times, with this rate even higher among those sourcing from China.</p></li>\n  <li><p><strong>Nearshoring Trend:</strong> Only 25% of American SMEs rely on offshore suppliers, with an increasing shift toward domestic sourcing.</p></li>\n  <li><p><strong>Excess Inventory:</strong> Excess stock comprises 38% of SME inventories, with this percentage even higher among larger SMEs.</p></li>\n  <li><p><strong>Financing Challenges:</strong> More than half of SMEs finance their inventories through cash or credit; fluctuating interest rates create additional pressure.</p></li>\n  <li><p><strong>AI Adoption Rate:</strong> Only 23% of SMEs employ artificial intelligence in inventory management, with concerns about data security and integrity remaining present.</p></li>\n  <li><p><strong>Reliable Shipping:</strong> Sea freight has been identified as the most reliable shipping option in the supply chain.</p></li>\n</ul>\n<p><br></p>\n<p>---</p>\n<p><br></p>\n<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/40359-2024-inventory-management-benchmark-report"><u>https://www.supplychainbrain.com/articles/40359-2024-inventory-management-benchmark-report</u></a></p>\n<p><br></p>\n<p>-------------------</p>\n<p><strong>!!! ANNOUNCEMENT !!!</strong></p>\n<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>\n<p>#What is ERP?</p>\n<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>\n<p>We would be delighted to receive your feedback.</p>\n<p>Wishing you good reading from the start.</p>

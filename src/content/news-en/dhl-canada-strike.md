@@ -1,16 +1,24 @@
 ---
-title: "DHL Canada Strike: Workers Walk Out Following Lockout"
-subtitle: "DHL Canada Strike: Workers Walk Out Following Lockout"
-date: "2025-06-09T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9ecd6356f4de4391929912253e984967~mv2.png"
-imageAlt: "DHL Canada Strike: Workers Walk Out Following Lockout"
-wixId: "cccbef0f-a453-4c93-89f0-56ea805ea038"
-author: "Sedat Onat"
+title: 'DHL Canada Strike: Workers Walk Out Following Lockout'
+subtitle: 'DHL Canada Strike: Workers Walk Out Following Lockout'
+date: '2025-06-09T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_9ecd6356f4de4391929912253e984967~mv2.png
+imageAlt: 'DHL Canada Strike: Workers Walk Out Following Lockout'
+wixId: cccbef0f-a453-4c93-89f0-56ea805ea038
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- DHL
+- Canada
+- strike
+- lockout
+- delivery delays
+- supply chain
+- worker rights
+- logistics
 ---
-
 <p>DHL Express Canada employees have gone on strike following a lockout resulting from a dispute with the company. The strike is causing delays in delivery operations across the country. Union representatives are seeking agreement on working conditions and wage differences. Management contingency plans are enabling limited continuation of operations. Experts predict the situation will negatively impact supply chain flow in the short term.</p>
 <p><br></p>
 <p><strong>Key Points:</strong><br>

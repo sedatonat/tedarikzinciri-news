@@ -1,14 +1,21 @@
 ---
-title: "NYK and Knutsen Unveil New-Look LCO₂ Tanker"
-subtitle: "NYK and Knutsen Unveil New-Look LCO₂ Tanker"
-date: "2024-12-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b250f1b8cb8b45d69e9f9077f654c171~mv2.jpg"
-imageAlt: "NYK and Knutsen Unveil New-Look LCO₂ Tanker"
-wixId: "11516474-a6a5-4969-9122-c69d563f8861"
-author: "Sedat Onat"
+title: NYK and Knutsen Unveil New-Look LCO₂ Tanker
+subtitle: NYK and Knutsen Unveil New-Look LCO₂ Tanker
+date: '2024-12-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b250f1b8cb8b45d69e9f9077f654c171~mv2.jpg
+imageAlt: NYK and Knutsen Unveil New-Look LCO₂ Tanker
+wixId: 11516474-a6a5-4969-9122-c69d563f8861
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- NYK
+- Knutsen
+- LCO₂ tanker
+- carbon dioxide transportation
+- maritime transportation
+- modular design
+- sustainability
 ---
-
 <p>Nippon Yusen Kaisha (NYK) has unveiled a redesigned liquid carbon dioxide (LCO₂) tanker, marking a significant innovation in the maritime transport sector. Developed in collaboration with Nihon Shipyard, the new vessel—operated by KNCC, NYK's subsidiary Knutsen NYK Carbon Carriers—offers substantially greater capacity compared to existing LCO₂ ships. Leveraging KNCC's proprietary technology, the design features pressurized cargo tanks with a capacity of 40,000 cubic metres, far exceeding the current LCO₂ vessels, which are limited to as much as 7,500 cubic metres.</p>\n<p><br></p>\n<p>Oliver Hagen-Smith, CEO of KNCC, noted that the new tanks are vertically cylindrical in shape and can be series-produced using automated manufacturing processes with standard materials. "This technology can optimize and reduce construction time," Hagen-Smith said. "The modular design enables the use of existing facilities and infrastructure, allowing more shipyards to participate in the project. This expands industry collaboration and enhances overall efficiency."</p>\n<p><br></p>\n<p>One of the most striking features of the new design is the series-production capability of the pressurized cargo tanks. This will enable more shipyards to manufacture LCO₂ tankers using their existing production lines, reducing construction costs while shortening production schedules. Additionally, the modular structure provides flexibility and scalability in ship design, paving the way for the construction of larger and more efficient LCO₂ tankers in the future.</p>\n<p><br></p>\n<p>The collaboration with Nihon Shipyard is regarded as a significant step in integrating technological innovations in maritime transport. The advanced technology developed by KNCC offers great promise for sustainability and efficiency in maritime shipping. The company aims to strengthen its competitive position in the sector and solidify its leadership in the global carbon dioxide transport market with this new tanker design.</p>\n<p>This project by NYK and KNCC stands out as an important step toward reducing environmental impacts and lowering the carbon footprint in the maritime shipping sector. The use of pressurized tanks ensures that LCO₂ is transported more safely and efficiently while offering design flexibility. This development carries significant importance not only for NYK and KNCC but also for global carbon management strategies.</p>\n<p><br></p>\n<p>In conclusion, Nippon Yusen Kaisha (NYK) and Knutsen NYK Carbon Carriers (KNCC) have introduced larger-capacity and modular LCO₂ tankers, heralding a new era in the maritime shipping sector. This innovative design aims to exceed current industry standards and achieve sustainability goals. With the launch of the new tankers, significant progress is expected in carbon management and environmental sustainability in maritime transport.</p>\n<p><br></p>\n<h5><strong>Key Points:</strong></h5>\n<ul>\n  <li><p><strong>Partnership:</strong> NYK and Knutsen NYK Carbon Carriers (KNCC) have formed a partnership with Nihon Shipyard.</p></li>\n  <li><p><strong>New Design:</strong> The new LCO₂ tanker is planned to have a capacity of 40,000 cubic metres.</p></li>\n  <li><p><strong>Current Capacity:</strong> Existing LCO₂ vessels have a maximum capacity of 7,500 cubic metres.</p></li>\n  <li><p><strong>Technology:</strong> The pressurized cargo tanks are vertically cylindrical in shape and suitable for series production through automated manufacturing processes.</p></li>\n  <li><p><strong>Modular Design:</strong> The modular structure increases shipyard participation in the project and boosts production efficiency.</p></li>\n  <li><p><strong>Sustainability:</strong> The new design contributes to reducing the carbon footprint in maritime transport.</p></li>\n  <li><p><strong>Market Target:</strong> NYK and KNCC aim to strengthen their leadership position in the global carbon dioxide transport market.</p></li>\n</ul>\n<p><br></p>\n<p>---</p>\n<p><br></p>\n<p><strong>News Link: </strong><a href="https://splash247.com/knutsen-nyk-carbon-carriers-unveils-new-look-tanker/"><u>https://splash247.com/knutsen-nyk-carbon-carriers-unveils-new-look-tanker/</u></a></p>\n<p><br></p>\n<p>-------------------</p>\n<p><strong>!!! ANNOUNCEMENT !!!</strong></p>\n<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>\n<p>#What Is ERP?</p>\n<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>\n<p>We would be delighted to receive your feedback.</p>\n<p>We wish you happy reading from the start.</p>

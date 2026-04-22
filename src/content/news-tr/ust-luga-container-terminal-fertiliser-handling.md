@@ -1,14 +1,22 @@
 ---
-title: "Ust-Luga Container Terminali, Gübre İşleme Kapasitesini Artırdı"
-subtitle: "Ust-Luga Container Terminali, Gübre İşleme Kapasitesini Artırdı"
-date: "2024-11-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4abd2ac2e47d4ee299b0bfe760c189ac~mv2.jpg"
-imageAlt: "Ust-Luga Container Terminali, Gübre İşleme Kapasitesini Artırdı"
-wixId: "07bd173a-186f-44f1-8106-397bada0504c"
-author: "Sedat Onat"
+title: Ust-Luga Container Terminali, Gübre İşleme Kapasitesini Artırdı
+subtitle: Ust-Luga Container Terminali, Gübre İşleme Kapasitesini Artırdı
+date: '2024-11-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4abd2ac2e47d4ee299b0bfe760c189ac~mv2.jpg
+imageAlt: Ust-Luga Container Terminali, Gübre İşleme Kapasitesini Artırdı
+wixId: 07bd173a-186f-44f1-8106-397bada0504c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ust-Luga
+- konteyner terminali
+- mineral gübre
+- Global Ports
+- tehlikeli kargo
+- Panamax
+- liman altyapısı
 ---
 <p>Ust-Luga Container Terminal (ULCT), derin su limanı olan Ust-Luga’da bulunan ve stevedoring holding Global Ports'a ait Delo Group'un bir parçası olarak faaliyet gösteren önemli bir konteyner terminalidir. Kasım 2023'ten itibaren ULCT, müşterilerine tehlikeli kargoları terminalde depolama imkanı sunmaya başladı. Bu yeni hizmetle birlikte, müşteriler artık limanda kimyasal ürünlerin gemi partilerini biriktirebilme olanağına sahip oldular.</p>
 <p><br></p>

@@ -1,14 +1,23 @@
 ---
-title: "OMS Manzarası Değişmekte: Bağlantılı Sipariş Yönetimi"
-subtitle: "OMS Manzarası Değişmekte: Bağlantılı Sipariş Yönetimi"
-date: "2025-04-29T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_36ea48ce0f754a2ebba4a9a1f4bc45a5~mv2.png"
-imageAlt: "Oms Manzarası Değişmekte: Bağlantılı Sipariş Yönetimi"
-wixId: "35790b18-ad5f-4389-a349-ce34926e2ca3"
-author: "Sedat Onat"
+title: 'OMS Manzarası Değişmekte: Bağlantılı Sipariş Yönetimi'
+subtitle: 'OMS Manzarası Değişmekte: Bağlantılı Sipariş Yönetimi'
+date: '2025-04-29T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_36ea48ce0f754a2ebba4a9a1f4bc45a5~mv2.png
+imageAlt: 'Oms Manzarası Değişmekte: Bağlantılı Sipariş Yönetimi'
+wixId: 35790b18-ad5f-4389-a349-ce34926e2ca3
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- OMS
+- sipariş yönetimi
+- omnichannel
+- AI routing
+- ATP
+- envanter yönetimi
+- WMS entegrasyonu
+- BOPIS
 ---
 <p style="text-align: justify"><strong>Order Management Systems (OMS)</strong>, çok kanallı (omnichannel) ticaret dünyasında artık yalnızca bir sipariş işleme aracı değil, işletmenin <strong>merkezi sinir sistemi</strong> haline gelmiştir. Modern OMS platformları, satış, stok ve lojistik akışlarını gerçek zamanlı olarak senkronize ederek işletmelere <strong>maliyet, hız ve hizmet seviyesi</strong> arasında optimum denge kurma imkânı sunmaktadır.</p>
 <p style="text-align: justify"><br></p>

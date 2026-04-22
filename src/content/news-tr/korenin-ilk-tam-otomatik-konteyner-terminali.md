@@ -1,14 +1,22 @@
 ---
-title: "Kore'nin İlk Tam Otomatik Konteyner Terminali Busan Limanı Açıldı"
-subtitle: "Kore'nin İlk Tam Otomatik Konteyner Terminali Busan Limanı Açıldı"
-date: "2024-04-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c5b1c0b60b1e44b8952d0e478110ebdd~mv2.jpg"
-imageAlt: "Kore'nin İlk Tam Otomatik Konteyner Terminali Busan Yeni Limanı'nda Açıldı"
-wixId: "f40b7139-69fe-42e1-a0e0-dc2c74d587c2"
-author: "Sedat Onat"
+title: Kore'nin İlk Tam Otomatik Konteyner Terminali Busan Limanı Açıldı
+subtitle: Kore'nin İlk Tam Otomatik Konteyner Terminali Busan Limanı Açıldı
+date: '2024-04-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c5b1c0b60b1e44b8952d0e478110ebdd~mv2.jpg
+imageAlt: Kore'nin İlk Tam Otomatik Konteyner Terminali Busan Yeni Limanı'nda Açıldı
+wixId: f40b7139-69fe-42e1-a0e0-dc2c74d587c2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Busan Limanı
+- otomasyon
+- AGV
+- konteyner terminali
+- Kore
+- dijital ikiz
+- CHESSCON
 ---
 <p>Busan Yeni Limanı, Kore'nin ilk tam otomatik konteyner terminalini açtığını duyurdu. Terminal, Busan Yeni Limanı'ndaki altıncı ve son terminalin açılışına hazırlık olarak yatay taşıma için Otomatik Kılavuzlu Araçlar (AGV) kullanılarak hibrit testlerle denendi.&nbsp;</p>
 <p><br></p>

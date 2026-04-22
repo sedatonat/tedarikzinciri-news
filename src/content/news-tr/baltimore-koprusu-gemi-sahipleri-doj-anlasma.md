@@ -1,14 +1,23 @@
 ---
-title: "Baltimore'da Köprü Çarpışmasına Karışan Geminin Sahipleri DOJ ile 102 Milyon Dolarlık Anlaşma Yaptı"
-subtitle: "Baltimore'da Köprü Çarpışmasına Karışan Geminin Sahipleri DOJ ile 102 Milyon Dolarlık Anlaşma Yaptı"
-date: "2024-10-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e9eafba5b9a04a7cba4092b8f4082e62~mv2.jpg"
-imageAlt: "Baltimore'da Köprü Çarpışmasına Karışan Geminin Sahipleri DOJ ile 102 Milyon Dolarlık Anlaşma Yaptı"
-wixId: "67b801d6-a3d6-4749-bbf0-e416cb11dfc4"
-author: "Sedat Onat"
+title: Baltimore'da Köprü Çarpışmasına Karışan Geminin Sahipleri DOJ ile 102 Milyon Dolarlık Anlaşma Yaptı
+subtitle: Baltimore'da Köprü Çarpışmasına Karışan Geminin Sahipleri DOJ ile 102 Milyon Dolarlık Anlaşma Yaptı
+date: '2024-10-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e9eafba5b9a04a7cba4092b8f4082e62~mv2.jpg
+imageAlt: Baltimore'da Köprü Çarpışmasına Karışan Geminin Sahipleri DOJ ile 102 Milyon Dolarlık Anlaşma Yaptı
+wixId: 67b801d6-a3d6-4749-bbf0-e416cb11dfc4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Baltimore
+- köprü çarpışması
+- Dali gemisi
+- DOJ
+- deniz kazası
+- tazminat anlaşması
+- Grace Ocean
+- liman operasyonları
 ---
 <p>26 Mart 2024 tarihinde Baltimore'da Francis Scott Key Köprüsü'ne çarpan ve köprünün çökmesine yol açan Dali kargo gemisinin sahipleri, ABD Adalet Bakanlığı (DOJ) ile 102 milyon dolarlık bir anlaşmaya vardı. Singapur merkezli Grace Ocean Private Limited ve Synergy Marine Private Limited, köprünün çöküşünden sonra meydana gelen temizlik ve müdahale maliyetlerini karşılamak üzere toplamda 101.98 milyon dolar ödemeyi kabul ettiler. Bu anlaşma, Rivers and Harbors Act, Oil Pollution Act ve genel deniz hukuku kapsamında DOJ tarafından talep edilen 103 milyon dolarlık sivil tazminat talebini sona erdirdi.</p>
 <p><br></p>

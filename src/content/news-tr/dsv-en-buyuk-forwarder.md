@@ -1,14 +1,22 @@
 ---
-title: "DSV, Rakibini Geride Bırakarak Dünyanın En Büyük Freight Forwarder’ı Oldu"
-subtitle: "DSV, Rakibini Geride Bırakarak Dünyanın En Büyük Freight Forwarder’ı Oldu"
-date: "2025-11-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e86e2e974ef94729a6cd2cf0b9c84478~mv2.jpg"
-imageAlt: "DSV, son finansal sonuçların karşılaştırılmasıyla Alman rakibini geçerek dünyanın en büyük freight forwarder’ı konumuna yükseldi; DHL ve Kuehne+Nagel ise zor bir çeyrek geçirdi."
-wixId: "650fa110-b610-4ef4-b3bd-b1894480f382"
-author: "Sedat Onat"
+title: DSV, Rakibini Geride Bırakarak Dünyanın En Büyük Freight Forwarder’ı Oldu
+subtitle: DSV, Rakibini Geride Bırakarak Dünyanın En Büyük Freight Forwarder’ı Oldu
+date: '2025-11-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e86e2e974ef94729a6cd2cf0b9c84478~mv2.jpg
+imageAlt: DSV, son finansal sonuçların karşılaştırılmasıyla Alman rakibini geçerek dünyanın en büyük freight forwarder’ı konumuna yükseldi; DHL ve Kuehne+Nagel ise zor bir çeyrek geçirdi.
+wixId: 650fa110-b610-4ef4-b3bd-b1894480f382
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DSV
+- freight forwarder
+- DHL
+- Kuehne+Nagel
+- lojistik
+- satın alma stratejisi
+- dijitalleşme
 ---
 <p style="text-align: justify">Avrupa’nın üç büyük lojistik devi — <strong>DSV</strong>, <strong>DHL</strong> ve <strong>Kuehne+Nagel</strong> — son finansal sonuçlarını açıkladı ve karşılaştırmalı tablolar sektörün güç dengesinde önemli bir değişim ortaya koydu. Yapılan analizlere göre <strong>DSV</strong>, Alman rakibini geride bırakarak <strong>dünyanın en büyük freight forwarder’ı</strong> konumuna yükseldi. Bu gelişme, küresel taşıma ve lojistik sektöründeki rekabetin yeniden şekillendiğini gösteriyor.</p>
 <p><br></p>

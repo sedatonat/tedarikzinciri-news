@@ -1,14 +1,22 @@
 ---
-title: "Global Schedule Reliability Ekim Ayında Hafif Artış Gösterdi"
-subtitle: "Global Schedule Reliability Ekim Ayında Hafif Artış Gösterdi"
-date: "2024-11-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7d66996fd50e4e27b746005cbaa4aa36~mv2.jpg"
-imageAlt: "Global Schedule Reliability Ekim Ayında Hafif Artış Gösterdi"
-wixId: "2ee0c14d-78b8-491f-abc6-fb08c6508f52"
-author: "Sedat Onat"
+title: Global Schedule Reliability Ekim Ayında Hafif Artış Gösterdi
+subtitle: Global Schedule Reliability Ekim Ayında Hafif Artış Gösterdi
+date: '2024-11-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7d66996fd50e4e27b746005cbaa4aa36~mv2.jpg
+imageAlt: Global Schedule Reliability Ekim Ayında Hafif Artış Gösterdi
+wixId: 2ee0c14d-78b8-491f-abc6-fb08c6508f52
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- sefer güvenilirliği
+- deniz taşımacılığı
+- Sea-Intelligence
+- Maersk
+- konteyner taşıyıcıları
+- gemi gecikmeleri
+- lojistik performans
 ---
 <p>Sea-Intelligence, Ekim 2024 dönemini kapsayan 159. Global Liner Performance (GLP) raporunu yayımladı. Rapor, küresel schedule reliability (sefer güvenilirliği) oranının Ekim ayında bir önceki aya göre %0.9 artarak %51.5’e yükseldiğini belirtti. 2024 yılı boyunca, sefer güvenilirliği genellikle %50 ile %55 arasında seyretmiş olup, bu düşük seviyelerin dalgalanma göstermemesi, göndericilere aylık bazda beklentilerini daha sağlam bir şekilde sunuyor.</p>
 <p><br></p>

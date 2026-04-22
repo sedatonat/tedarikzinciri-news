@@ -1,14 +1,22 @@
 ---
-title: "SeaLead ve GFS'den Akdeniz'de Yeni STM Hizmeti"
-subtitle: "SeaLead ve GFS'den Akdeniz'de Yeni STM Hizmeti"
-date: "2024-09-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f391ca4c214141a8acd49857876a1e73~mv2.jpg"
-imageAlt: "SeaLead ve GFS'den Akdeniz'de Yeni STM Hizmeti"
-wixId: "6eb18dae-a5cf-4fc8-bec6-cd7acd9edb3f"
-author: "Sedat Onat"
+title: SeaLead ve GFS'den Akdeniz'de Yeni STM Hizmeti
+subtitle: SeaLead ve GFS'den Akdeniz'de Yeni STM Hizmeti
+date: '2024-09-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f391ca4c214141a8acd49857876a1e73~mv2.jpg
+imageAlt: SeaLead ve GFS'den Akdeniz'de Yeni STM Hizmeti
+wixId: 6eb18dae-a5cf-4fc8-bec6-cd7acd9edb3f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- SeaLead
+- GFS
+- STM servisi
+- Akdeniz
+- konteyner taşımacılığı
+- Kumport
+- deniz taşımacılığı
 ---
 <p>SeaLead, Singapur merkezli küresel bir nakliye hattı, Global Feeder Shipping (GFS) ile işbirliği yaparak İspanya, Türkiye ve Fas limanlarını birbirine bağlayan yeni bir STM servisini başlattı. İlk seferi 13 Eylül 2024 tarihinde gerçekleştirilen bu hizmet, Uzak Doğu, Güneydoğu Asya, Hindistan, Akdeniz, Kızıldeniz ve Ortadoğu gibi bölgeler arasında sevkiyatları entegre etmeyi hedefliyor. Bu sayede küresel ticarette önemli bir rol üstlenerek, farklı bölgeler arasındaki lojistik ağları güçlendirmeyi amaçlıyor.</p>
 <p><br></p>

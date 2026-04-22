@@ -1,14 +1,23 @@
 ---
-title: "ABD, İran Petrol Tankerlerini Denizde Durdurmayı Değerlendiriyor"
-subtitle: "ABD, İran Petrol Tankerlerini Denizde Durdurmayı Değerlendiriyor"
-date: "2025-03-07T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/11062b_aa90b5dbcfcb4071b3ec6d890e0b77ed~mv2.jpg"
-imageAlt: "ABD, İran Petrol Tankerlerini Denizde Durdurmayı Değerlendiriyor"
-wixId: "4365b9b0-bb5f-4275-ac91-626e2987112c"
-author: "Sedat Onat"
+title: ABD, İran Petrol Tankerlerini Denizde Durdurmayı Değerlendiriyor
+subtitle: ABD, İran Petrol Tankerlerini Denizde Durdurmayı Değerlendiriyor
+date: '2025-03-07T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/11062b_aa90b5dbcfcb4071b3ec6d890e0b77ed~mv2.jpg
+imageAlt: ABD, İran Petrol Tankerlerini Denizde Durdurmayı Değerlendiriyor
+wixId: 4365b9b0-bb5f-4275-ac91-626e2987112c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD
+- İran
+- petrol tankeri
+- Hürmüz Boğazı
+- deniz hukuku
+- ekonomik yaptırım
+- enerji güvenliği
+- Basra Körfezi
 ---
 <p style="text-align: justify">ABD yönetimi, İran'ın petrol ihracatını engellemek amacıyla, İran petrol tankerlerini denizde durdurup incelemeyi planlamakta. Bu adım, İran'ın nükleer programına yönelik uluslararası endişelerin artması ve ekonomik yaptırımların etkisiz kalması nedeniyle gündeme gelmekte.​</p>
 <p><br></p>

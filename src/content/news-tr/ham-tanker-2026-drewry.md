@@ -1,14 +1,22 @@
 ---
-title: "Drewry: 2026’da Ham Petrol Tankerleri Ürün Tankerlerini Geride Bırakabilir"
-subtitle: "Drewry: 2026’da Ham Petrol Tankerleri Ürün Tankerlerini Geride Bırakabilir"
-date: "2025-12-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_562a8145226d4dc6970f07b4b777c2ed~mv2.jpg"
-imageAlt: "Drewry’nin 2026 tanker piyasası görünümünde, sınırlı filo büyümesi ve stok dinamikleri nedeniyle crude tankers’ın product tankers’a kıyasla daha güçlü performans göstermesinin beklendiğini ele alan detaylı sektör özeti"
-wixId: "dd8ecf31-759c-4ac1-9d66-636802121c69"
-author: "Sedat Onat"
+title: 'Drewry: 2026’da Ham Petrol Tankerleri Ürün Tankerlerini Geride Bırakabilir'
+subtitle: 'Drewry: 2026’da Ham Petrol Tankerleri Ürün Tankerlerini Geride Bırakabilir'
+date: '2025-12-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_562a8145226d4dc6970f07b4b777c2ed~mv2.jpg
+imageAlt: Drewry’nin 2026 tanker piyasası görünümünde, sınırlı filo büyümesi ve stok dinamikleri nedeniyle crude tankers’ın product tankers’a kıyasla daha güçlü performans göstermesinin beklendiğini ele alan detaylı sektör özeti
+wixId: dd8ecf31-759c-4ac1-9d66-636802121c69
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ham petrol tankeri
+- ürün tankeri
+- Drewry
+- tanker piyasası
+- filo büyümesi
+- navlun
+- denizcilik
 ---
 <p style="text-align: justify">Birleşik Krallık merkezli denizcilik danışmanlık şirketi <strong>Drewry Shipping Consultants</strong>, 2026 yılına ilişkin tanker piyasası beklentilerinde <strong>crude tankers</strong>’ın <strong>product tankers</strong>’a kıyasla daha güçlü bir performans sergilemesini öngörmekte. Bu değerlendirme, <strong>9 Aralık 2025</strong> tarihinde düzenlenen <strong>Drewry tanker market webinar</strong>’ında paylaşıldı. Sunumda konuşan <strong>Rajesh Verma</strong>, 2025 yılını tanker piyasası açısından “<strong>mixed bag</strong>” olarak nitelendirdi; yılın son bölümünde ham petrol tanker navlunlarının güçlenmekte olduğunu, buna karşılık ürün tanker gelirlerinin 2024 zirvelerinden geri çekilmekte olduğunu ifade etti.</p>
 <p><br></p>

@@ -1,14 +1,23 @@
 ---
-title: "ABD’de Temmuz–Ağustos 2025 Döneminde Öne Çıkan 10 Tedarik Zinciri Teknolojisi Yatırımı ve Satın Alması"
-subtitle: "ABD’de Temmuz–Ağustos 2025 Döneminde Öne Çıkan 10 Tedarik Zinciri Teknolojisi Yatırımı ve Satın Alması"
-date: "2025-08-31T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_6a9b33395bd0491aaef22e0a559b4543~mv2.png"
-imageAlt: "ABD’de Temmuz–Ağustos 2025 Döneminde Öne Çıkan 10 Tedarik Zinciri Teknolojisi Yatırımı ve Satın Alması"
-wixId: "3d0c0760-afce-4849-9262-002fc075249e"
-author: "Sedat Onat"
+title: ABD’de Temmuz–Ağustos 2025 Döneminde Öne Çıkan 10 Tedarik Zinciri Teknolojisi Yatırımı ve Satın Alması
+subtitle: ABD’de Temmuz–Ağustos 2025 Döneminde Öne Çıkan 10 Tedarik Zinciri Teknolojisi Yatırımı ve Satın Alması
+date: '2025-08-31T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_6a9b33395bd0491aaef22e0a559b4543~mv2.png
+imageAlt: ABD’de Temmuz–Ağustos 2025 Döneminde Öne Çıkan 10 Tedarik Zinciri Teknolojisi Yatırımı ve Satın Alması
+wixId: 3d0c0760-afce-4849-9262-002fc075249e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tedarik zinciri teknolojisi
+- yatırım
+- satın alma
+- yapay zeka
+- görünürlük
+- ABD
+- WiseTech Global
+- döngüsel ekonomi
 ---
 <p style="text-align: justify"><strong>16 Temmuz – 31 Ağustos 2025</strong> tarihleri arasında <strong>ABD tedarik zinciri teknolojileri (Supply Chain Tech)</strong> sektöründe dikkat çekici birleşme, satın alma ve yatırım anlaşmaları açıklandı.</p>
 <p><br>

@@ -1,16 +1,23 @@
 ---
-title: "Russian Wagon Production Contracts: UralVagonZavod Prepares Workforce Cuts"
-subtitle: "Russian Wagon Production Contracts: UralVagonZavod Prepares Workforce Cuts"
-date: "2025-12-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0a19d329749a471d94b50f156e5744a8~mv2.jpg"
-imageAlt: "Detailed summary of UralVagonZavod's layoffs according to RailFreight.com analysis, structural contraction facing the company due to declining civilian wagon demand, shift to military production, and wagon surplus in the Russian rail sector"
-wixId: "2d43237c-648d-49a1-a0fa-89c3dd7d7bc9"
-author: "Sedat Onat"
+title: 'Russian Wagon Production Contracts: UralVagonZavod Prepares Workforce Cuts'
+subtitle: 'Russian Wagon Production Contracts: UralVagonZavod Prepares Workforce Cuts'
+date: '2025-12-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0a19d329749a471d94b50f156e5744a8~mv2.jpg
+imageAlt: Detailed summary of UralVagonZavod's layoffs according to RailFreight.com analysis, structural contraction facing the company due to declining civilian wagon demand, shift to military production, and wagon surplus in the Russian rail sector
+wixId: 2d43237c-648d-49a1-a0fa-89c3dd7d7bc9
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- UralVagonZavod
+- railcar production
+- Russia
+- railway
+- workforce reduction
+- military production
+- supply chain
 ---
-
 <p style="text-align: justify"><strong>RailFreight.com</strong>'s analysis shows that <strong>Uralvagonzavod (UVZ)</strong>, Russia's largest wagon and armored vehicle manufacturer, is entering a comprehensive downsizing process due to severe contraction in civilian production tied to railway freight transport in the country. This process is not limited to UVZ alone; it signals <strong>a structural crisis spreading across Russia's wagon production sector as a whole</strong>.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Scope of Workforce Reductions</strong></h3>

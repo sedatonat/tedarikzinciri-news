@@ -1,16 +1,23 @@
 ---
-title: "US Trucking Sector Splits on Non-Domiciled CDL Enforcement"
-subtitle: "US Trucking Sector Splits on Non-Domiciled CDL Enforcement"
-date: "2025-12-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5a6ce4a40dff4a33b539cbef4b957302~mv2.jpg"
-imageAlt: "Detailed industry overview addressing the impact of enforcement actions and proposed regulations targeting non-domiciled CDL practices in the US on truck driver supply, freight rates, and capacity balance"
-wixId: "909ef012-d83e-4e29-ae95-e3bed6e477c8"
-author: "Sedat Onat"
+title: US Trucking Sector Splits on Non-Domiciled CDL Enforcement
+subtitle: US Trucking Sector Splits on Non-Domiciled CDL Enforcement
+date: '2025-12-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5a6ce4a40dff4a33b539cbef4b957302~mv2.jpg
+imageAlt: Detailed industry overview addressing the impact of enforcement actions and proposed regulations targeting non-domiciled CDL practices in the US on truck driver supply, freight rates, and capacity balance
+wixId: 909ef012-d83e-4e29-ae95-e3bed6e477c8
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- US trucking
+- CDL
+- immigrant driver
+- driver shortage
+- freight market
+- federal audit
+- capacity tightening
 ---
-
 <p style="text-align: justify">The US trucking sector is experiencing a pronounced divergence of views over tightening enforcement and proposed regulations targeting <strong>non-domiciled commercial driver's license (CDL)</strong> programs for immigrant drivers. One segment of the industry argues that federal compliance inspections could narrow capacity in the near term, pushing prices higher. Another contends that the three-year freight slump can only end with genuine demand recovery, not supply-side constraints.</p>
 <p><br></p>
 <p style="text-align: justify">According to <strong>US Department of Transportation (USDOT)</strong> data, approximately <strong>200,000</strong> <strong>non-domiciled CDL</strong> holders operate across the nation. The proposed new regulation aims to restrict commercial driving privileges for certain immigrant groups, including <strong>asylum seekers</strong>. If implemented, a significant portion of the current driver pool could be barred from legally operating commercial vehicles. However, the <strong>Federal Motor Carrier Safety Administration (FMCSA)</strong> has yet to verify the precise numbers.</p>

@@ -1,14 +1,22 @@
 ---
-title: "MSC'nin Asya-Kuzey Avrupa Ağından Megagemileri Çekmesi: Alphaliner​"
-subtitle: "MSC'nin Asya-Kuzey Avrupa Ağından Megagemileri Çekmesi: Alphaliner​"
-date: "2025-02-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d732591c97ac4abe935f5abf08167ebb~mv2.jpg"
-imageAlt: "MSC'nin Asya-Kuzey Avrupa Ağından Megagemileri Çekmesi: Alphaliner​"
-wixId: "2eb4f093-0780-4378-ad40-208c4e73e862"
-author: "Sedat Onat"
+title: 'MSC''nin Asya-Kuzey Avrupa Ağından Megagemileri Çekmesi: Alphaliner​'
+subtitle: 'MSC''nin Asya-Kuzey Avrupa Ağından Megagemileri Çekmesi: Alphaliner​'
+date: '2025-02-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d732591c97ac4abe935f5abf08167ebb~mv2.jpg
+imageAlt: 'MSC''nin Asya-Kuzey Avrupa Ağından Megagemileri Çekmesi: Alphaliner​'
+wixId: 2eb4f093-0780-4378-ad40-208c4e73e862
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- MSC
+- Asya-Kuzey Avrupa
+- megagemi
+- konteyner taşımacılığı
+- navlun oranları
+- slot değişimi
+- Alphaliner
 ---
 <p style="text-align: justify"><strong>Mediterranean Shipping Co. (MSC)</strong>, <strong>Alphaliner</strong>'ın analizine göre, Asya-Kuzey Avrupa hattındaki megagemilerini daha küçük tonajlı gemilerle değiştirerek kapasiteyi azaltma ve yıl başından bu yana düşüş eğiliminde olan navlun oranları üzerindeki baskıyı hafifletme stratejisi izlemekte.</p>
 <p><br></p>

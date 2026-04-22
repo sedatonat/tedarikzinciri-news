@@ -1,14 +1,22 @@
 ---
-title: "Rusya Baklagil Ürünleri İçin İhracat Vergisi Getirdi"
-subtitle: "Rusya Baklagil Ürünleri İçin İhracat Vergisi Getirdi"
-date: "2025-01-10T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_95a2a998146947229f199c1cbd3b8a2d~mv2.png"
-imageAlt: "Rusya Baklagil Ürünleri İçin İhracat Vergisi Getirdi"
-wixId: "3bc8bba6-f174-4b65-b005-cf1598ae0034"
-author: "Sedat Onat"
+title: Rusya Baklagil Ürünleri İçin İhracat Vergisi Getirdi
+subtitle: Rusya Baklagil Ürünleri İçin İhracat Vergisi Getirdi
+date: '2025-01-10T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_95a2a998146947229f199c1cbd3b8a2d~mv2.png
+imageAlt: Rusya Baklagil Ürünleri İçin İhracat Vergisi Getirdi
+wixId: 3bc8bba6-f174-4b65-b005-cf1598ae0034
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Rusya
+- ihracat vergisi
+- baklagil
+- gümrük vergisi
+- tarım sektörü
+- gıda güvenliği
+- tedarik zinciri
 ---
 <p style="text-align: justify">Rusya Federasyonu Hükümeti, bazı baklagil ürünlerinin ihracatına gümrük vergisi uygulamaya başladı.</p>
 <p style="text-align: justify"><br></p>

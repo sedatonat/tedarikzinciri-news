@@ -1,14 +1,23 @@
 ---
-title: "Sürdürülebilir Ambalajla Uyumlu Ve Rekabetçi Kalmak"
-subtitle: "Sürdürülebilir Ambalajla Uyumlu Ve Rekabetçi Kalmak"
-date: "2025-05-05T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a74b68679fa5416aac80bc1f088c868a~mv2.png"
-imageAlt: "Sürdürülebilir Ambalajla Uyumlu Ve Rekabetçi Kalmak"
-wixId: "23485d98-5486-47f1-b6e4-ff29f3660521"
-author: "Sedat Onat"
+title: Sürdürülebilir Ambalajla Uyumlu Ve Rekabetçi Kalmak
+subtitle: Sürdürülebilir Ambalajla Uyumlu Ve Rekabetçi Kalmak
+date: '2025-05-05T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_a74b68679fa5416aac80bc1f088c868a~mv2.png
+imageAlt: Sürdürülebilir Ambalajla Uyumlu Ve Rekabetçi Kalmak
+wixId: 23485d98-5486-47f1-b6e4-ff29f3660521
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- sürdürülebilir ambalaj
+- EPR
+- malzeme ikamesi
+- geri dönüştürülebilirlik
+- LCA
+- PCR
+- lojistik optimizasyonu
+- karbon ayak izi
 ---
 <p style="text-align: justify"><strong>Sürdürülebilir ambalaj</strong>, artık yalnızca bir <strong>regülasyon uyumu</strong> meselesi değil; aynı zamanda <strong>rekabet avantajı</strong> ve <strong>marka değeri</strong> yaratan stratejik bir unsur haline gelmiştir. Şirketler, <strong>EPR (Extended Producer Responsibility)</strong> ve <strong>packaging taxes</strong> gibi düzenlemelere yanıt verirken, hem <strong>maliyet</strong> hem de <strong>çevresel etki</strong> açısından kazanım sağlayan yenilikçi çözümler geliştirmektedir.</p>
 <p style="text-align: justify"><br></p>

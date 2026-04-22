@@ -1,14 +1,22 @@
 ---
-title: "Sovcomflot Yeni LNG-Ready Tanker “Ivan Aivazovsky”yi Filosuna Ekledi"
-subtitle: "Sovcomflot Yeni LNG-Ready Tanker “Ivan Aivazovsky”yi Filosuna Ekledi"
-date: "2025-11-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5f7943ac63064277bbd72bb95af5392f~mv2.jpg"
-imageAlt: "Sovcomflot’un Zvezda tersanesinde inşa edilen LNG-ready MR tanker “Ivan Aivazovsky”yi teslim alması ve buz şartlarında ürün taşımacılığı için geliştirilen yeni tanker sınıfının teknik özelliklerini anlatan detaylı haber özeti"
-wixId: "8dc1fcb7-ce25-4885-9d7a-6e9bb149962c"
-author: "Sedat Onat"
+title: Sovcomflot Yeni LNG-Ready Tanker “Ivan Aivazovsky”yi Filosuna Ekledi
+subtitle: Sovcomflot Yeni LNG-Ready Tanker “Ivan Aivazovsky”yi Filosuna Ekledi
+date: '2025-11-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5f7943ac63064277bbd72bb95af5392f~mv2.jpg
+imageAlt: Sovcomflot’un Zvezda tersanesinde inşa edilen LNG-ready MR tanker “Ivan Aivazovsky”yi teslim alması ve buz şartlarında ürün taşımacılığı için geliştirilen yeni tanker sınıfının teknik özelliklerini anlatan detaylı haber özeti
+wixId: 8dc1fcb7-ce25-4885-9d7a-6e9bb149962c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Sovcomflot
+- LNG-ready tanker
+- Zvezda Shipyard
+- buz sınıfı gemi
+- Rusya
+- denizcilik
+- ürün tankeri
 ---
 <p style="text-align: justify"><strong>Sovcomflot (SCF)</strong>, Rusya’nın Uzak Doğu bölgesindeki <strong>Zvezda Shipyard</strong> tarafından inşa edilen yeni nesil <strong>LNG-ready MR tanker</strong> “<strong>Ivan Aivazovsky</strong>”nin teslim alındığını duyurdu. Şirket, ismini ünlü Rus deniz peyzaj ressamı <strong>Ivan Aivazovsky</strong>’den alan bu gemiyi, buz şartlarında ürün taşımacılığına özel olarak geliştirilen yeni tanker serisinin ilk gemisi olarak konumlandırmakta. Tanker, Rus bayrağı altında işletilecek ve Sovcomflot’un ürün tanker filosunun modernizasyonunda stratejik bir rol üstlenecek.</p>
 <p><br></p>

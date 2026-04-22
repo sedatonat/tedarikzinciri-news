@@ -1,16 +1,23 @@
 ---
-title: "Real-Time Location and Condition Tracking Support Resilient Supply Chains"
-subtitle: "Real-Time Location and Condition Tracking Support Resilient Supply Chains"
-date: "2025-01-13T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_afc7f9a464624447a15516b6b313dee5~mv2.jpg"
-imageAlt: "Real-Time Location and Condition Tracking Support Resilient Supply Chains"
-wixId: "5eaf9fc1-3303-4a82-aadd-b346a26f729b"
-author: "Sedat Onat"
+title: Real-Time Location and Condition Tracking Support Resilient Supply Chains
+subtitle: Real-Time Location and Condition Tracking Support Resilient Supply Chains
+date: '2025-01-13T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_afc7f9a464624447a15516b6b313dee5~mv2.jpg
+imageAlt: Real-Time Location and Condition Tracking Support Resilient Supply Chains
+wixId: 5eaf9fc1-3303-4a82-aadd-b346a26f729b
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- real-time tracking
+- IoT
+- supply chain resilience
+- GPS sensor
+- inventory management
+- cold chain
+- compliance
 ---
-
 <p style="text-align: justify">Globally, businesses experience approximately <strong>$1.6 trillion</strong> in annual revenue losses due to supply chain disruptions. These interruptions have a broad impact ranging from customer satisfaction and operational continuity to public health. For example, spoiled food reaching retail shelves or delays in critical pharmaceutical shipments can have serious consequences.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Recent global crises and rising cargo theft have underscored the importance of supply chain resilience once again. Businesses managing international shipments and facing challenges such as labor shortages and extreme weather conditions are turning to innovative solutions. In this context, Internet of Things (IoT) technologies that enable real-time monitoring of product location and status play a critical role in building flexible and adaptive supply chains.</p>

@@ -1,16 +1,24 @@
 ---
-title: "Finland Moves 'Eagle S' Tanker Closer to Shore"
-subtitle: "Finland Moves 'Eagle S' Tanker Closer to Shore"
-date: "2024-12-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_c9ce1ac7583d49e09bbe8270d1774a4b~mv2.jpg"
-imageAlt: "Finland Moves 'Eagle S' Tanker Closer to Shore"
-wixId: "59c74707-7fe6-4222-8000-1a9abfa2d43c"
-author: "Sedat Onat"
+title: Finland Moves 'Eagle S' Tanker Closer to Shore
+subtitle: Finland Moves 'Eagle S' Tanker Closer to Shore
+date: '2024-12-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_c9ce1ac7583d49e09bbe8270d1774a4b~mv2.jpg
+imageAlt: Finland Moves 'Eagle S' Tanker Closer to Shore
+wixId: 59c74707-7fe6-4222-8000-1a9abfa2d43c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Eagle S
+- oil tanker
+- submarine cables
+- Finland
+- Baltic Sea
+- shadow fleet
+- Russia
+- sabotage
 ---
-
 <p>Finnish police are moving the oil tanker <strong>Eagle S</strong>, seized on suspicion of damaging submarine cables, to a location closer to shore to deepen the investigation. The vessel, sailing under the <strong>Cook Islands</strong> flag, is believed responsible for the severing of a 170-kilometer electrical cable connecting Finland and Estonia.</p>
 <p><br></p>
 <p>Authorities note that the ship's anchor is missing and may have severed the submarine cables. Additionally, cuts were detected in four data cables. Following these developments, the vessel was moved to Svartbäck, an anchorage point near <strong>Kilpilahti Harbor</strong>. This new location provides a more suitable environment for the investigation. Operations on the ship were halted during the transfer and resumed after mooring. Police established a security zone one nautical mile around the tanker and declared a flight ban over the <strong>Sköldvik Gulf</strong>.</p>

@@ -1,14 +1,22 @@
 ---
-title: "Libya'da Protestolar Doğu Limanlarında Petrol Sevkiyatını Durdurdu"
-subtitle: "Libya'da Protestolar Doğu Limanlarında Petrol Sevkiyatını Durdurdu"
-date: "2025-01-29T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a65fd43ba7f746359a1f36cb9a8dd7c0~mv2.jpg"
-imageAlt: "Libya'da Protestolar Doğu Limanlarında Petrol Sevkiyatını Durdurdu"
-wixId: "91dc7ddc-94e7-484d-a4ff-15906d0d1b7c"
-author: "Sedat Onat"
+title: Libya'da Protestolar Doğu Limanlarında Petrol Sevkiyatını Durdurdu
+subtitle: Libya'da Protestolar Doğu Limanlarında Petrol Sevkiyatını Durdurdu
+date: '2025-01-29T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_a65fd43ba7f746359a1f36cb9a8dd7c0~mv2.jpg
+imageAlt: Libya'da Protestolar Doğu Limanlarında Petrol Sevkiyatını Durdurdu
+wixId: 91dc7ddc-94e7-484d-a4ff-15906d0d1b7c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Libya
+- petrol sevkiyatı
+- liman operasyonları
+- protestolar
+- Ras Lanuf
+- Es Sider
+- petrol ihracatı
 ---
 <p style="text-align: justify">Libya'nın doğusundaki stratejik limanlar <strong>Ras Lanuf</strong> ve <strong>Es Sider</strong>, <strong>Oil Crescent Region Movement</strong> tarafından düzenlenen protestolar nedeniyle petrol yüklemelerini durdurdu. Bu gelişme, ülkenin petrol ihracatında önemli bir aksama yarattı.</p>
 <p style="text-align: justify"><br></p>

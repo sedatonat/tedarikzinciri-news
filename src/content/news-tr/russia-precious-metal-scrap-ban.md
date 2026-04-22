@@ -1,14 +1,22 @@
 ---
-title: "Rusya, Değerli Metal Hurdası İhracat Yasağını 2026 Mayıs’a Kadar Uzattı"
-subtitle: "Rusya, Değerli Metal Hurdası İhracat Yasağını 2026 Mayıs’a Kadar Uzattı"
-date: "2025-12-05T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_2b89be554cb34265a974cdcdf579c883~mv2.jpg"
-imageAlt: "Rusya Federasyonu’nun değerli metaller içeren hurda ve elektronik atık ihracatına yönelik yasağı altı ay daha uzatmasının gerekçeleri, kapsamı, istisnaları ve yerli rafinaj kapasitesini korumaya yönelik stratejik arka planının detaylı özeti"
-wixId: "5c64311e-c948-46c6-8581-bd3cacef2c37"
-author: "Sedat Onat"
+title: Rusya, Değerli Metal Hurdası İhracat Yasağını 2026 Mayıs’a Kadar Uzattı
+subtitle: Rusya, Değerli Metal Hurdası İhracat Yasağını 2026 Mayıs’a Kadar Uzattı
+date: '2025-12-05T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_2b89be554cb34265a974cdcdf579c883~mv2.jpg
+imageAlt: Rusya Federasyonu’nun değerli metaller içeren hurda ve elektronik atık ihracatına yönelik yasağı altı ay daha uzatmasının gerekçeleri, kapsamı, istisnaları ve yerli rafinaj kapasitesini korumaya yönelik stratejik arka planının detaylı özeti
+wixId: 5c64311e-c948-46c6-8581-bd3cacef2c37
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Rusya
+- değerli metal
+- ihracat yasağı
+- hurda geri dönüşüm
+- elektronik atık
+- rafinaj
+- stratejik hammadde
 ---
 <p style="text-align: justify"><strong>Rusya Federasyonu</strong>, stratejik hammaddeleri ülke içinde tutmaya yönelik politikasını sürdürerek, <strong>değerli metaller içeren hurda ve atıkların ihracatına uygulanan yasağı</strong> bir kez daha uzattı. <strong>Başbakan Mihail Mişustin</strong> tarafından imzalanan kararnameye göre, söz konusu ihracat yasağı <strong>1 Aralık 2025 – 31 Mayıs 2026</strong> tarihleri arasında <strong>altı ay süreyle</strong> yürürlükte kalmakta.</p>
 <p><br></p>

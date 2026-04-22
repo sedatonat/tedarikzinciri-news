@@ -1,16 +1,23 @@
 ---
-title: "OSHA Virginia Transformer’a Güvenlik İhlalleri Nedeniyle Yaklaşık 1 Milyon Dolar Ceza Kesti"
-subtitle: "OSHA Virginia Transformer’a Güvenlik İhlalleri Nedeniyle Yaklaşık 1 Milyon Dolar Ceza Kesti"
-date: "2025-12-18T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b14ae0b783d24e2890dc9abdb2290c6a~mv2.jpg"
-imageAlt: "OSHA, Virginia Transformer Corporation’ın Idaho’daki Pocatello tesisinde vinçler, makine korumaları, düşme riskleri ve kişisel koruyucu ekipman eksikleri nedeniyle 53 ciddi ve tekrar eden ihlal tespit etti; önerilen ceza tutarı 986.888 dolar seviyesinde."
-sourceUrl: "https://www.supplychain247.com/article/virginia-transformer-osha-nearly-1-million-safety-violations"
-author: "Sedat Onat"
+title: OSHA Virginia Transformer’a Güvenlik İhlalleri Nedeniyle Yaklaşık 1 Milyon Dolar Ceza Kesti
+subtitle: OSHA Virginia Transformer’a Güvenlik İhlalleri Nedeniyle Yaklaşık 1 Milyon Dolar Ceza Kesti
+date: '2025-12-18T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b14ae0b783d24e2890dc9abdb2290c6a~mv2.jpg
+imageAlt: OSHA, Virginia Transformer Corporation’ın Idaho’daki Pocatello tesisinde vinçler, makine korumaları, düşme riskleri ve kişisel koruyucu ekipman eksikleri nedeniyle 53 ciddi ve tekrar eden ihlal tespit etti; önerilen ceza tutarı 986.888 dolar seviyesinde.
+sourceUrl: https://www.supplychain247.com/article/virginia-transformer-osha-nearly-1-million-safety-violations
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- OSHA
+- iş güvenliği
+- Virginia Transformer
+- güvenlik ihlali
+- üretim tesisi
+- idari para cezası
+- vinç operasyonları
 ---
-
 <p style="text-align: justify">ABD iş sağlığı ve güvenliği otoritesi <strong>Occupational Safety and Health Administration (OSHA)</strong>, <strong>Virginia Transformer Corporation (VTC)</strong> hakkında kapsamlı bir yaptırım kararı açıkladı. Kurum, Idaho eyaletindeki Pocatello üretim tesisinde gerçekleştirilen denetimler sonucunda, çalışanların ciddi ve tekrar eden güvenlik risklerine maruz bırakıldığını tespit etti ve şirkete <strong>yaklaşık 1 milyon dolar</strong> tutarında idari para cezası önerdi. Toplam <strong>53 ciddi ve mükerrer ihlal</strong>, vinç operasyonları, makine korumaları, düşmeye karşı önlemler ve <strong>kişisel koruyucu ekipman (PPE)</strong> eksiklikleri başlıklarında yoğunlaşmakta.</p>
 <p><br></p>
 <p style="text-align: justify">OSHA müfettişleri, <strong>Haziran 2025</strong>’te gerçekleştirilen takip denetiminde, <strong>2024 Nisan ve Haziran</strong> aylarında yapılan iki ayrı incelemede belirlenen risklerle <strong>benzer tehlikelerin</strong> devam etmekte olduğunu ortaya koydu. İncelemelerde, ağır yüklerin taşınmasında kullanılan vinçlerde <strong>arızalı fren ve anahtarlar</strong> tespit edildi; bu durum, çalışanlar açısından yüksek yaralanma riski oluşturmakta. Bu bulgular, şirketin daha önce işaret edilen riskleri yeterince gidermediğini gösterdi.</p>

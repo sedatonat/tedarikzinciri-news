@@ -1,14 +1,23 @@
 ---
-title: "Artan Tedarik Zinciri Denetimleri, Gümrüklerin Kapasite Sınırlarını Zorluyor"
-subtitle: "Artan Tedarik Zinciri Denetimleri, Gümrüklerin Kapasite Sınırlarını Zorluyor"
-date: "2025-11-03T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_8c8252acee704cbca062c12b15a5c25a~mv2.jpg"
-imageAlt: "ABD Gümrük ve Sınır Koruma Kurumu (CBP), tedarik zincirlerinin detaylı incelenmesi için Altana ile pilot proje yürütüyor. Ancak artan ticaret regülasyonları ve karmaşık tedarik yapıları, dünya genelinde gümrük kurumlarının denetim kapasitesini aşan bir yük oluşturuyor."
-wixId: "fe56391e-e64c-4d7f-a104-076c0667207d"
-author: "Sedat Onat"
+title: Artan Tedarik Zinciri Denetimleri, Gümrüklerin Kapasite Sınırlarını Zorluyor
+subtitle: Artan Tedarik Zinciri Denetimleri, Gümrüklerin Kapasite Sınırlarını Zorluyor
+date: '2025-11-03T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_8c8252acee704cbca062c12b15a5c25a~mv2.jpg
+imageAlt: ABD Gümrük ve Sınır Koruma Kurumu (CBP), tedarik zincirlerinin detaylı incelenmesi için Altana ile pilot proje yürütüyor. Ancak artan ticaret regülasyonları ve karmaşık tedarik yapıları, dünya genelinde gümrük kurumlarının denetim kapasitesini aşan bir yük oluşturuyor.
+wixId: fe56391e-e64c-4d7f-a104-076c0667207d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- gümrük denetimi
+- tedarik zinciri şeffaflığı
+- CBP
+- Altana
+- yapay zeka
+- UFLPA
+- dijital dönüşüm
+- regülasyon
 ---
 <p style="text-align: justify"><strong>Küresel ticarette artan regülasyonlar</strong>, gümrük kurumlarını eşi görülmemiş bir baskı altına sokuyor. Özellikle <strong>ürün bileşenleri, tedarikçi ağları ve üretim süreçlerine dair şeffaflık talepleri</strong>, birçok ülke gümrük otoritesinin <strong>denetim kapasitesini aşan</strong> bir düzeye ulaşmış durumda.</p>
 <p><br></p>

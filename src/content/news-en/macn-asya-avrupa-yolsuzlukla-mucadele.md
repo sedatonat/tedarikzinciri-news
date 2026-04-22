@@ -1,16 +1,24 @@
 ---
-title: "MACN Launches New Anti-Corruption Program for Maritime Supply Chains in Asia and Europe"
-subtitle: "MACN Launches New Anti-Corruption Program for Maritime Supply Chains in Asia and Europe"
-date: "2025-12-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0c0e4d32d6f243b3b0aa4cd2203f4e3c~mv2.jpg"
-imageAlt: "Overview of the scope, tools and transparency objectives of the three-year \"Transparent Trade Routes\" program implemented by Maritime Anti-Corruption Network with support from Siemens Integrity Initiative in Indonesia, Malaysia and Germany"
-wixId: "671b0459-803d-495a-90d9-32ec6487d284"
-author: "Sedat Onat"
+title: MACN Launches New Anti-Corruption Program for Maritime Supply Chains in Asia and Europe
+subtitle: MACN Launches New Anti-Corruption Program for Maritime Supply Chains in Asia and Europe
+date: '2025-12-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0c0e4d32d6f243b3b0aa4cd2203f4e3c~mv2.jpg
+imageAlt: Overview of the scope, tools and transparency objectives of the three-year "Transparent Trade Routes" program implemented by Maritime Anti-Corruption Network with support from Siemens Integrity Initiative in Indonesia, Malaysia and Germany
+wixId: 671b0459-803d-495a-90d9-32ec6487d284
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- MACN
+- anti-corruption
+- maritime supply chain
+- Indonesia
+- Malaysia
+- Germany
+- Siemens Integrity Initiative
+- HelpDesk
 ---
-
 <p style="text-align: justify"><strong>Maritime Anti-Corruption Network (MACN)</strong> has rolled out a new and comprehensive initiative to strengthen anti-corruption efforts across maritime supply chains. The program, titled <strong>"Transparent Trade Routes: Strengthening Integrity in Maritime Supply Chains,"</strong> is focused on <strong>Indonesia, Malaysia and Germany</strong> and spans a three-year timeframe. The initiative is financed by the <strong>Siemens Integrity Initiative</strong> and aims to scale up the <strong>Collective Action</strong> approach that MACN has developed in recent years.</p>
 <p><br></p>
 <p style="text-align: justify">According to a statement by MACN, the program builds on <strong>more than six years of ongoing collaboration with Siemens.</strong> <strong>MACN CEO Cecilia Müller Torbrand</strong> emphasizes that the long-term support from Siemens Integrity Initiative demonstrates concretely that systemic change across the sector is possible. According to Torbrand, in multi-stakeholder and cross-border sectors like maritime, lasting transformation is only possible when <strong>the private sector, public authorities and civil society</strong> operate within the same framework.</p>

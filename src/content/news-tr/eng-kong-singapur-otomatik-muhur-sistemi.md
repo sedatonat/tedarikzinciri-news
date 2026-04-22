@@ -1,14 +1,22 @@
 ---
-title: "Eng Kong, Singapur'un İlk Otomatik Konteyner Mühür Dağıtım Sistemini Başlattı"
-subtitle: "Eng Kong, Singapur'un İlk Otomatik Konteyner Mühür Dağıtım Sistemini Başlattı"
-date: "2024-10-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_01e9383c84364a63a8f7e3d71d979053~mv2.jpg"
-imageAlt: "Eng Kong, Singapur'un İlk Otomatik Konteyner Mühür Dağıtım Sistemini Başlattı"
-wixId: "90b869fe-7c4a-4eb9-af71-3feac4b97a89"
-author: "Sedat Onat"
+title: Eng Kong, Singapur'un İlk Otomatik Konteyner Mühür Dağıtım Sistemini Başlattı
+subtitle: Eng Kong, Singapur'un İlk Otomatik Konteyner Mühür Dağıtım Sistemini Başlattı
+date: '2024-10-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_01e9383c84364a63a8f7e3d71d979053~mv2.jpg
+imageAlt: Eng Kong, Singapur'un İlk Otomatik Konteyner Mühür Dağıtım Sistemini Başlattı
+wixId: 90b869fe-7c4a-4eb9-af71-3feac4b97a89
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- otomasyon
+- konteyner mühür
+- Singapur
+- Eng Kong
+- depo yönetimi
+- dijital dönüşüm
+- lojistik verimliliği
 ---
 <p>Eng Kong, Singapur'un ilk otomatik konteyner mühür dağıtım sistemini kurarak kendi deposunun Container Management Systems (CMS)'ine uyarladı. Grup, bu sistemi 2025'in ilk çeyreğine kadar diğer üç Singapur deposuna ve nihayetinde 2026'nın üçüncü çeyreğine kadar mega deposuna genişletmeyi planlıyor.</p>
 <p><br></p>

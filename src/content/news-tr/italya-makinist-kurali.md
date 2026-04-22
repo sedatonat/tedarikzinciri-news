@@ -1,14 +1,22 @@
 ---
-title: "İtalya’da Yük Trenlerinde “Tek Makinist Kuralı” Dönemi Başlıyor"
-subtitle: "İtalya’da Yük Trenlerinde “Tek Makinist Kuralı” Dönemi Başlıyor"
-date: "2025-10-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_dbe31058e3e2468887848f9b585192a4~mv2.jpg"
-imageAlt: "İtalya’da Yük Trenlerinde “Tek Makinist Kuralı” Dönemi Başlıyor"
-wixId: "39b64d56-209f-490d-8da3-35308555476c"
-author: "Sedat Onat"
+title: İtalya’da Yük Trenlerinde “Tek Makinist Kuralı” Dönemi Başlıyor
+subtitle: İtalya’da Yük Trenlerinde “Tek Makinist Kuralı” Dönemi Başlıyor
+date: '2025-10-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_dbe31058e3e2468887848f9b585192a4~mv2.jpg
+imageAlt: İtalya’da Yük Trenlerinde “Tek Makinist Kuralı” Dönemi Başlıyor
+wixId: 39b64d56-209f-490d-8da3-35308555476c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- İtalya
+- demiryolu taşımacılığı
+- tek makinist
+- yük treni
+- Avrupa standartları
+- operasyonel verimlilik
+- ETCS
 ---
 <p style="text-align: justify"><strong>25 Ekim 2025 Cumartesi itibarıyla</strong>, İtalya’da <strong>yük trenlerinin tek makinistle (single driver) çalışmasına</strong> resmen izin veriliyor.</p>
 <p><br>

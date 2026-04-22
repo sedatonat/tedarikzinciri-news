@@ -1,14 +1,22 @@
 ---
-title: "Çin, Artan Ticaret Gerilimleri Ortasında Hanwha’nın ABD Bağlantılı Şirketlerine Yaptırım Uyguluyor"
-subtitle: "Çin, Artan Ticaret Gerilimleri Ortasında Hanwha’nın ABD Bağlantılı Şirketlerine Yaptırım Uyguluyor"
-date: "2025-10-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_faf3a8d7a2cd46d58dc2e117679597fa~mv2.jpg"
-imageAlt: "Çin, Artan Ticaret Gerilimleri Ortasında Hanwha’nın ABD Bağlantılı Şirketlerine Yaptırım Uygulamakta"
-wixId: "1b5425ad-3cf9-41fa-9a26-73852d2a0d87"
-author: "Sedat Onat"
+title: Çin, Artan Ticaret Gerilimleri Ortasında Hanwha’nın ABD Bağlantılı Şirketlerine Yaptırım Uyguluyor
+subtitle: Çin, Artan Ticaret Gerilimleri Ortasında Hanwha’nın ABD Bağlantılı Şirketlerine Yaptırım Uyguluyor
+date: '2025-10-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_faf3a8d7a2cd46d58dc2e117679597fa~mv2.jpg
+imageAlt: Çin, Artan Ticaret Gerilimleri Ortasında Hanwha’nın ABD Bağlantılı Şirketlerine Yaptırım Uygulamakta
+wixId: 1b5425ad-3cf9-41fa-9a26-73852d2a0d87
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Hanwha Ocean
+- Çin yaptırımları
+- gemi inşa
+- ABD-Çin ticaret savaşı
+- Güney Kore
+- savunma sanayi
+- tersane yatırımı
 ---
 <p style="text-align: justify"><strong>Çin</strong>, Güney Koreli gemi inşa devi <strong>Hanwha Ocean</strong>’ın <strong>ABD bağlantılı beş iştirakine</strong> yaptırım uygulayarak, Washington ile Pekin arasındaki ticaret gerilimini yeni bir boyuta taşımakta.</p>
 <p><br>

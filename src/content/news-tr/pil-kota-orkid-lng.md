@@ -1,14 +1,23 @@
 ---
-title: "PIL, Dördüncü LNG Çift Yakıtlı “O” Sınıfı Gemisi Kota Orkid’i Hizmete Aldı"
-subtitle: "PIL, Dördüncü LNG Çift Yakıtlı “O” Sınıfı Gemisi Kota Orkid’i Hizmete Aldı"
-date: "2025-10-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9a594132ebc341eb9ad87c9b490354ec~mv2.jpg"
-imageAlt: "Pacific International Lines (PIL), 8.200 TEU kapasiteli LNG çift yakıtlı “O” sınıfı gemi serisinin dördüncüsü Kota Orkid’i Çin’in Jiangsu bölgesindeki Yangzijiang Tersanesi’nde düzenlenen törenle denize indirdi. Yeni gemi, Asya–Batı Afrika hattında hizmet verecek."
-wixId: "a159af8a-2a7e-42d2-a43d-ca514f7f381c"
-author: "Sedat Onat"
+title: PIL, Dördüncü LNG Çift Yakıtlı “O” Sınıfı Gemisi Kota Orkid’i Hizmete Aldı
+subtitle: PIL, Dördüncü LNG Çift Yakıtlı “O” Sınıfı Gemisi Kota Orkid’i Hizmete Aldı
+date: '2025-10-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_9a594132ebc341eb9ad87c9b490354ec~mv2.jpg
+imageAlt: Pacific International Lines (PIL), 8.200 TEU kapasiteli LNG çift yakıtlı “O” sınıfı gemi serisinin dördüncüsü Kota Orkid’i Çin’in Jiangsu bölgesindeki Yangzijiang Tersanesi’nde düzenlenen törenle denize indirdi. Yeni gemi, Asya–Batı Afrika hattında hizmet verecek.
+wixId: a159af8a-2a7e-42d2-a43d-ca514f7f381c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- PIL
+- LNG çift yakıtlı
+- konteyner gemisi
+- Kota Orkid
+- sürdürülebilir taşımacılık
+- Batı Afrika
+- filo modernizasyonu
+- düşük emisyon
 ---
 <p style="text-align: justify"><strong>Pacific International Lines (PIL)</strong>, çevreci filo modernizasyon programı kapsamında <strong>dördüncü LNG çift yakıtlı “O” sınıfı konteyner gemisini</strong> hizmete aldı. <strong>Kota Orkid</strong> adı verilen 8.200 TEU kapasiteli gemi, <strong>Singapur’un ulusal çiçeği orkideden</strong> esinlenerek isimlendirildi ve <strong>direnç, zarafet ve ilerleme</strong> değerlerini simgeliyor.</p>
 <p><br></p>

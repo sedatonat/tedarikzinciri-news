@@ -1,14 +1,22 @@
 ---
-title: "Hindistan, Ganj Nehri’nde İlk Yerli Hidrojen Yakıt Hücreli Yolcu Teknesini Hizmete Aldı"
-subtitle: "Hindistan, Ganj Nehri’nde İlk Yerli Hidrojen Yakıt Hücreli Yolcu Teknesini Hizmete Aldı"
-date: "2025-12-12T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_a4cc4e77353541528fbc4d9cd1667793~mv2.jpg"
-imageAlt: "Hindistan’ın Varanasi’de Ganj Nehri üzerinde ticari faaliyete başlayan ilk yerli hidrojen yakıt hücreli yolcu teknesinin teknik özellikleri, IWAI–CSL iş birliği, hidrojen altyapısı ve iç su yollarında sıfır emisyon hedeflerine katkısının detaylı özeti"
-wixId: "49e3d797-83d4-4e84-b3a3-06980e5da18f"
-author: "Sedat Onat"
+title: Hindistan, Ganj Nehri’nde İlk Yerli Hidrojen Yakıt Hücreli Yolcu Teknesini Hizmete Aldı
+subtitle: Hindistan, Ganj Nehri’nde İlk Yerli Hidrojen Yakıt Hücreli Yolcu Teknesini Hizmete Aldı
+date: '2025-12-12T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_a4cc4e77353541528fbc4d9cd1667793~mv2.jpg
+imageAlt: Hindistan’ın Varanasi’de Ganj Nehri üzerinde ticari faaliyete başlayan ilk yerli hidrojen yakıt hücreli yolcu teknesinin teknik özellikleri, IWAI–CSL iş birliği, hidrojen altyapısı ve iç su yollarında sıfır emisyon hedeflerine katkısının detaylı özeti
+wixId: 49e3d797-83d4-4e84-b3a3-06980e5da18f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- hidrojen yakıt hücresi
+- Hindistan
+- iç su yolları
+- sıfır emisyon
+- yeşil hidrojen
+- Ganj Nehri
+- yerli teknoloji
 ---
 <p style="text-align: justify">Hindistan, iç su yollarında <strong>sıfır emisyonlu taşımacılık</strong> hedefleri doğrultusunda önemli bir dönüm noktasına ulaşmakta. Ülkenin <strong>ilk tamamen yerli hidrojen yakıt hücreli yolcu teknesi</strong>, <strong>Ganj Nehri</strong> üzerinde <strong>Varanasi</strong>’de ticari hizmete alındı. <strong>pib.gov.in</strong> tarafından duyurulan gelişmeye göre, tekne <strong>Inland Waterways Authority of India (IWAI)</strong> mülkiyetinde bulunmakta ve <strong>Cochin Shipyard Limited (CSL)</strong> tarafından inşa edildi.</p>
 <p><br></p>

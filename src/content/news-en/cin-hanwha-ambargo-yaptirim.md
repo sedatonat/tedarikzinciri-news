@@ -1,16 +1,23 @@
 ---
-title: "China Sanctions Hanwha's U.S.-Linked Subsidiaries Amid Rising Trade Tensions"
-subtitle: "China Sanctions Hanwha's U.S.-Linked Subsidiaries Amid Rising Trade Tensions"
-date: "2025-10-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_faf3a8d7a2cd46d58dc2e117679597fa~mv2.jpg"
-imageAlt: "China Implements Sanctions Against Hanwha's U.S.-Linked Subsidiaries Amid Rising Trade Tensions"
-wixId: "1b5425ad-3cf9-41fa-9a26-73852d2a0d87"
-author: "Sedat Onat"
+title: China Sanctions Hanwha's U.S.-Linked Subsidiaries Amid Rising Trade Tensions
+subtitle: China Sanctions Hanwha's U.S.-Linked Subsidiaries Amid Rising Trade Tensions
+date: '2025-10-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_faf3a8d7a2cd46d58dc2e117679597fa~mv2.jpg
+imageAlt: China Implements Sanctions Against Hanwha's U.S.-Linked Subsidiaries Amid Rising Trade Tensions
+wixId: 1b5425ad-3cf9-41fa-9a26-73852d2a0d87
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Hanwha Ocean
+- China sanctions
+- shipbuilding
+- US-China trade war
+- South Korea
+- defense industry
+- shipyard investment
 ---
-
 <p style="text-align: justify"><strong>China</strong> has escalated trade tensions with <strong>Washington</strong> by imposing sanctions on <strong>five U.S.-linked subsidiaries</strong> of South Korean shipbuilding giant <strong>Hanwha Ocean</strong>.</p>
 <p><br>
  According to <strong>Reuters</strong>, the decision was announced on <strong>October 14, 2025</strong>, and following the announcement, <strong>Hanwha Ocean shares fell 5.8%</strong>, while rival <strong>HD Hyundai Heavy Industries</strong> declined <strong>4.1%</strong>.</p>

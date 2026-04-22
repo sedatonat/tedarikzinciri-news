@@ -1,14 +1,22 @@
 ---
-title: "Rüzgarın Gücüyle Sürdürülebilir Taşımacılık: 'Windshipped' Filminin Özeti"
-subtitle: "Rüzgarın Gücüyle Sürdürülebilir Taşımacılık: 'Windshipped' Filminin Özeti"
-date: "2024-01-09T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3fc9363ebdcb47fd84ee2931d6024184~mv2.png"
-imageAlt: "Rüzgarın Gücüyle Sürdürülebilir Taşımacılık: 'Windshipped' Filminin Özeti"
-wixId: "cac373cb-1dfc-49c9-9165-1365cb447efb"
-author: "Sedat Onat"
+title: 'Rüzgarın Gücüyle Sürdürülebilir Taşımacılık: ''Windshipped'' Filminin Özeti'
+subtitle: 'Rüzgarın Gücüyle Sürdürülebilir Taşımacılık: ''Windshipped'' Filminin Özeti'
+date: '2024-01-09T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3fc9363ebdcb47fd84ee2931d6024184~mv2.png
+imageAlt: 'Rüzgarın Gücüyle Sürdürülebilir Taşımacılık: ''Windshipped'' Filminin Özeti'
+wixId: cac373cb-1dfc-49c9-9165-1365cb447efb
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- sürdürülebilir taşımacılık
+- karbon-nötr
+- yelkenli kargo
+- yeşil lojistik
+- Hudson Nehri
+- kargo bisikleti
+- alternatif taşımacılık
 ---
 <p>"Windshipped" filmi, Hudson Nehri boyunca yelken açan ve yerel ürünleri New York Şehrine taşıyan iki direkli, 64 fit uzunluğundaki çelik gövdeli Apollonia adlı şonerin hikayesini anlatıyor. Filmin ana fikri, bu yoğun nüfuslu bölgede ticari kamyon taşımacılığına karbon-nötr bir alternatif sunmak. 2020'den bu yana Apollonia, rüzgar, gelgit ve akıntı gücüyle (yalnızca liman manevralarında biraz dizel kullanılarak) 200,000 pound'dan fazla kargo taşımış. Kara tarafında, insan gücüyle çalışan kargo bisikletleri taşımacılığı sağlıyor.</p>
 <p><br></p>

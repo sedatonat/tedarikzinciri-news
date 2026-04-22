@@ -1,16 +1,24 @@
 ---
-title: "India Secures $7 Billion in New Port and Logistics Investment from DP World and Maersk"
-subtitle: "India Secures $7 Billion in New Port and Logistics Investment from DP World and Maersk"
-date: "2025-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_368399c0316444fca4761f815f3b8e12~mv2.jpg"
-imageAlt: "India has taken a significant step toward its goal of becoming a global maritime and logistics powerhouse by securing over $7 billion in fresh investment from Dubai-based DP World and Denmark's APM Terminals (Maersk Group). The investments focus on port capacity, green maritime shipping, and multimodal connectivity."
-wixId: "221ef8fe-13f7-4c59-8f83-65590f22b6e9"
-author: "Sedat Onat"
+title: India Secures $7 Billion in New Port and Logistics Investment from DP World and Maersk
+subtitle: India Secures $7 Billion in New Port and Logistics Investment from DP World and Maersk
+date: '2025-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_368399c0316444fca4761f815f3b8e12~mv2.jpg
+imageAlt: India has taken a significant step toward its goal of becoming a global maritime and logistics powerhouse by securing over $7 billion in fresh investment from Dubai-based DP World and Denmark's APM Terminals (Maersk Group). The investments focus on port capacity, green maritime shipping, and multimodal connectivity.
+wixId: 221ef8fe-13f7-4c59-8f83-65590f22b6e9
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- India
+- DP World
+- Maersk
+- port investment
+- APM Terminals
+- multimodal transportation
+- green transportation
+- Pipavav
 ---
-
 <p style="text-align: justify"><strong>India</strong> has secured <strong>over $7 billion in fresh investment commitments</strong> from <strong>DP World</strong> and <strong>A.P. Moller–Maersk Group's subsidiary APM Terminals</strong>, announced during the <strong>2025 India Maritime Week</strong>. This development provides significant momentum to the nation's goal of becoming <strong>a global maritime hub</strong> in line with its <strong>Maritime Amrit Kaal Vision 2047</strong> strategy.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>DP World's $5 billion additional investment</strong></h5>

@@ -1,16 +1,23 @@
 ---
-title: "Chinese-Flagged Ship Sinks Off Guangzhou: Two Crew Members Missing"
-subtitle: "Chinese-Flagged Ship Sinks Off Guangzhou: Two Crew Members Missing"
-date: "2025-10-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/cb034225cc5a43e0ba8ed240fa7af950.jpg"
-imageAlt: "Chinese-Flagged Ship Sinks Off Guangzhou: Two Crew Members Missing"
-wixId: "daf916e5-3e86-4fad-8816-50f1c82d7457"
-author: "Sedat Onat"
+title: 'Chinese-Flagged Ship Sinks Off Guangzhou: Two Crew Members Missing'
+subtitle: 'Chinese-Flagged Ship Sinks Off Guangzhou: Two Crew Members Missing'
+date: '2025-10-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/cb034225cc5a43e0ba8ed240fa7af950.jpg
+imageAlt: 'Chinese-Flagged Ship Sinks Off Guangzhou: Two Crew Members Missing'
+wixId: daf916e5-3e86-4fad-8816-50f1c82d7457
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- ship accident
+- China
+- Guangzhou
+- container ship
+- maritime transport
+- Singapore
+- South China Sea
 ---
-
 <p style="text-align: justify"><strong>A Chinese-flagged vessel off Guangzhou</strong> <strong>sank following a collision with a Singapore-registered container ship.</strong></p>
 <p><br>
 The incident occurred <strong>Saturday night</strong> and was confirmed by the <strong>Singapore Maritime and Port Authority (MPA)</strong> in a statement released Sunday.</p>

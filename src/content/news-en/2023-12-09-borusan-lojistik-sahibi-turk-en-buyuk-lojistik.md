@@ -1,16 +1,23 @@
 ---
-title: "Borusan Logistics: We are the largest logistics company with Turkish ownership"
-subtitle: "Borusan Logistics: We are the largest logistics company with Turkish ownership"
-date: "2023-12-09T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ca74a07783d84a498e73d70f3b7b829c~mv2.jpeg"
-imageAlt: "Borusan Logistics: We are the largest logistics company with Turkish ownership"
-wixId: "86897f75-c80a-4d5f-80de-8f4dad8fa9ec"
-author: "Sedat Onat"
+title: 'Borusan Logistics: We are the largest logistics company with Turkish ownership'
+subtitle: 'Borusan Logistics: We are the largest logistics company with Turkish ownership'
+date: '2023-12-09T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_ca74a07783d84a498e73d70f3b7b829c~mv2.jpeg
+imageAlt: 'Borusan Logistics: We are the largest logistics company with Turkish ownership'
+wixId: 86897f75-c80a-4d5f-80de-8f4dad8fa9ec
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Borusan Lojistik
+- automotive logistics
+- digitalization
+- eTA platform
+- intermodal transportation
+- sustainability
+- electric vehicles
 ---
-
 <p><a href="https://www.borusanlojistik.com/tr"><u>Borusan Logistics</u></a> General Manager <a href="https://www.linkedin.com/in/serdarercal/"><u>Serdar Erçal</u></a> shared important information regarding 2023. He stated that the company aims to close 2023 with a revenue of 684 million dollars and emphasized that there is no other firm of this scale in terms of Turkish ownership. He also expressed that Borusan Logistics has a major objective in the technology field and that they aim to become the sector's largest technology company.</p>
 <p><br></p>
 <p>Borusan Logistics provides a wide range of services in the logistics field. These services include warehousing, distribution, customs clearance, transportation and more. He particularly highlighted their prominence in automotive logistics and their collaboration with new automotive brands entering Turkey.</p>

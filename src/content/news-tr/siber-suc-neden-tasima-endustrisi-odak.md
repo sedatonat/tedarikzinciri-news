@@ -1,14 +1,22 @@
 ---
-title: "Siber Suçlular Neden Taşıma Endüstrisini Hedef Alıyor?"
-subtitle: "Siber Suçlular Neden Taşıma Endüstrisini Hedef Alıyor?"
-date: "2024-05-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_82fd88c9d5c8491ebf8a3160fe39f1e2~mv2.jpg"
-imageAlt: "Siber Suçlular Neden Taşıma Endüstrisini Hedef Alıyor?"
-wixId: "9b7d1690-faf8-4dd4-abe6-442a4a919c9e"
-author: "Sedat Onat"
+title: Siber Suçlular Neden Taşıma Endüstrisini Hedef Alıyor?
+subtitle: Siber Suçlular Neden Taşıma Endüstrisini Hedef Alıyor?
+date: '2024-05-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_82fd88c9d5c8491ebf8a3160fe39f1e2~mv2.jpg
+imageAlt: Siber Suçlular Neden Taşıma Endüstrisini Hedef Alıyor?
+wixId: 9b7d1690-faf8-4dd4-abe6-442a4a919c9e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- siber güvenlik
+- taşıma endüstrisi
+- siber saldırı
+- tedarik zinciri
+- lojistik güvenlik
+- fidye yazılımı
+- veri güvenliği
 ---
 <p>Dünya genelinde mal taşımacılığı, üretim ve satış noktaları arasındaki büyük mesafeler nedeniyle karmaşık bir veri ağı gerektirir. Bu sebeple taşıma endüstrisi, küresel ölçekte vatandaşlara gerekli ürünlerin sağlanmasında kritik bir role sahiptir. Ancak bu önem, onu siber suçlular için cazip bir hedef haline getirir. Siber suçlular, bireysel vatandaşlara yönelik dolandırıcılık e-postaları, kredi kartı hırsızlığı ve kimlik hırsızlığı gibi suçlar işleyebilirken, işletmeleri hedef aldıklarında, özellikle taşıma endüstrisi zarar görür. Sürücülerin kullandığı akıllı telefon veya tabletlerin ihlal edilmesi, teslimat programlarının kötü niyetli bir şekilde değiştirilmesine veya iptal edilmesine yol açabilir. Bu durum ciddi tedarik zinciri sorunlarına neden olabilir.</p>
 <p><br></p>

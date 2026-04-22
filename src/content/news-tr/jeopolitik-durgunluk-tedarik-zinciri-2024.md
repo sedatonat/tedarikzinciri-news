@@ -1,14 +1,22 @@
 ---
-title: "Küresel Tedarik Zincirlerine Yansıyan Jeopolitik Belirsizlikler"
-subtitle: "Küresel Tedarik Zincirlerine Yansıyan Jeopolitik Belirsizlikler"
-date: "2024-05-07T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_41788c38185a42d8b3f8558c31c26854~mv2.jpg"
-imageAlt: "Küresel Tedarik Zincirlerine Yansıyan Jeopolitik Belirsizlikler"
-wixId: "c02e9740-a1e5-4168-b47e-37a23b373f21"
-author: "Sedat Onat"
+title: Küresel Tedarik Zincirlerine Yansıyan Jeopolitik Belirsizlikler
+subtitle: Küresel Tedarik Zincirlerine Yansıyan Jeopolitik Belirsizlikler
+date: '2024-05-07T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_41788c38185a42d8b3f8558c31c26854~mv2.jpg
+imageAlt: Küresel Tedarik Zincirlerine Yansıyan Jeopolitik Belirsizlikler
+wixId: c02e9740-a1e5-4168-b47e-37a23b373f21
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- jeopolitik risk
+- tedarik zinciri
+- Gartner
+- küresel ekonomi
+- Rusya
+- Çin
+- Hürmüz Boğazı
 ---
 <p>Ian Bremmer, Gartner Tedarik Zinciri Sempozyumu'nun ikinci gününde yaptığı ana konuşmada, küresel tedarik zincirlerine "vergi" olarak yansıyan bir "jeopolitik durgunluk" döneminden bahsetti. Bremmer, jeopolitiğin de küresel ekonomi gibi dönemsel dalgalanmalar yaşadığını ve şu an jeopolitik belirsizlik ve çatışmalarla dolu bir durgunluk döneminde olduğumuzu belirtti. Bu dönemin temelinde, güçlü ülkelerin uluslararası kurallara artık uymamasının yarattığı kırılmalar yatmaktadır. Bremmer, bu durumun tedarik zincirlerini zorlayacağını ve işletmelere bir nevi vergi olarak yansıyacağını ifade etti.</p>
 <p><br></p>

@@ -1,14 +1,23 @@
 ---
-title: "Portchain Ağı, Taşımacılıkta 800 Bin Ton CO₂ Emisyonunu Önledi"
-subtitle: "Portchain Ağı, Taşımacılıkta 800 Bin Ton CO₂ Emisyonunu Önledi"
-date: "2025-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c519589e7a604410a0def0ce50d52ec1~mv2.jpg"
-imageAlt: "Portchain Network, denizcilik sektöründe dijital veri paylaşımı ve Just-In-Time (JIT) liman çağrıları sayesinde 2022’den bu yana 800.000 ton CO₂ tasarrufu sağladı. Platform, ana hat taşımacıları, feeder operatörleri ve terminalleri birbirine bağlayarak yakıt tüketimini ve bekleme sürelerini azaltıyor."
-wixId: "ea3bff96-c303-4592-b17f-23f427e238b2"
-author: "Sedat Onat"
+title: Portchain Ağı, Taşımacılıkta 800 Bin Ton CO₂ Emisyonunu Önledi
+subtitle: Portchain Ağı, Taşımacılıkta 800 Bin Ton CO₂ Emisyonunu Önledi
+date: '2025-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c519589e7a604410a0def0ce50d52ec1~mv2.jpg
+imageAlt: Portchain Network, denizcilik sektöründe dijital veri paylaşımı ve Just-In-Time (JIT) liman çağrıları sayesinde 2022’den bu yana 800.000 ton CO₂ tasarrufu sağladı. Platform, ana hat taşımacıları, feeder operatörleri ve terminalleri birbirine bağlayarak yakıt tüketimini ve bekleme sürelerini azaltıyor.
+wixId: ea3bff96-c303-4592-b17f-23f427e238b2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Portchain
+- CO₂ emisyonu
+- konteyner taşımacılığı
+- sürdürülebilirlik
+- JIT
+- dijitalleşme
+- deniz taşımacılığı
+- yakıt tasarrufu
 ---
 <p style="text-align: justify"><strong>Portchain</strong>, küresel konteyner taşımacılığı sektöründe önemli bir sürdürülebilirlik başarısı elde ettiğini duyurdu. Şirketin geliştirdiği <strong>Portchain Network</strong>, 2022’de faaliyete geçmesinden bu yana <strong>800.000 metrik ton CO₂ emisyonunun</strong> önlenmesine katkıda bulundu.</p>
 <p><br></p>

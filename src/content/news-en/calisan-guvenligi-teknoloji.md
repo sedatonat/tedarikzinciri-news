@@ -1,16 +1,23 @@
 ---
-title: "Technology's Role in Prioritizing Employee Safety"
-subtitle: "Technology's Role in Prioritizing Employee Safety"
-date: "2025-02-03T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_c6a343e016504f0db67d7ae8c4154382~mv2.jpg"
-imageAlt: "Technology's Role in Prioritizing Employee Safety"
-wixId: "ee443bcf-762d-431f-901f-767d5863aa6d"
-author: "Sedat Onat"
+title: Technology's Role in Prioritizing Employee Safety
+subtitle: Technology's Role in Prioritizing Employee Safety
+date: '2025-02-03T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_c6a343e016504f0db67d7ae8c4154382~mv2.jpg
+imageAlt: Technology's Role in Prioritizing Employee Safety
+wixId: ee443bcf-762d-431f-901f-767d5863aa6d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- worker safety
+- wearable technology
+- exoskeleton
+- artificial intelligence
+- warehouse safety
+- ergonomics
+- workplace accident
 ---
-
 <p style="text-align: justify">Today, businesses are turning to technological solutions to enhance employee safety and reduce workplace accidents. In this context, wearable technologies such as <strong>exoskeletons</strong> and <strong>exosuits</strong> are alleviating workers' physical burdens and providing ergonomic support. These devices, particularly used in physically demanding tasks such as heavy lifting, bending, and walking, reduce the risk of workplace injuries and boost employee productivity.&nbsp;</p>
 <p><br></p>
 <p style="text-align: justify">A multi-year study conducted by <strong>Verve Motion</strong> demonstrates that the use of <strong>exosuits</strong> or 'wearable robotics' has led to a reduction in workplace injuries in the examined facilities. The adoption of such technologies reduces workers' physical strain, enhancing both safety and operational efficiency.​</p>

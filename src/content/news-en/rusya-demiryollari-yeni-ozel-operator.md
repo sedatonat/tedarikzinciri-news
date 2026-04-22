@@ -1,16 +1,23 @@
 ---
-title: "Will Russia Acquire a New Private Rail Freight Operator?"
-subtitle: "Will Russia Acquire a New Private Rail Freight Operator?"
-date: "2025-03-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9c96b73c2a014323b5d4229328d78594~mv2.jpg"
-imageAlt: "Will Russia Acquire a New Private Rail Freight Operator?"
-wixId: "750937d7-5ba2-4cc2-a4cf-1798a7243e18"
-author: "Sedat Onat"
+title: Will Russia Acquire a New Private Rail Freight Operator?
+subtitle: Will Russia Acquire a New Private Rail Freight Operator?
+date: '2025-03-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_9c96b73c2a014323b5d4229328d78594~mv2.jpg
+imageAlt: Will Russia Acquire a New Private Rail Freight Operator?
+wixId: 750937d7-5ba2-4cc2-a4cf-1798a7243e18
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Russia
+- rail transport
+- Freight One
+- private operator
+- freight transport
+- logistics
+- merger
 ---
-
 <p style="text-align: justify">Russia's rail freight transport sector is undergoing significant changes. The merger of <strong>Freight One (PGK)</strong>, <strong>Transfin-M</strong>, and <strong>Atlant</strong> is planned to establish a new private rail operator with a fleet of 200,000 wagons.&nbsp;</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Freight One (PGK)</strong> is known as Russia's largest private logistics company. <strong>Transfin-M</strong> operates as a leading leasing company, while <strong>Atlant</strong> functions as a rail operator. The merger of these three companies signals a major transformation in Russia's rail transport sector.</p>

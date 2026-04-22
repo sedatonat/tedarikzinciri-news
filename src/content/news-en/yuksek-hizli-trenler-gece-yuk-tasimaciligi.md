@@ -1,14 +1,20 @@
 ---
-title: "High-Speed Trains Begin Night Freight Operations"
-subtitle: "High-Speed Trains Begin Night Freight Operations"
-date: "2024-09-09T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7cdf308358e94b08b5bfea0e91b78270~mv2.jpg"
-imageAlt: "High-Speed Trains Begin Night Freight Operations"
-wixId: "abeed626-16ec-483d-a329-b92365ff9b60"
-author: "Sedat Onat"
+title: High-Speed Trains Begin Night Freight Operations
+subtitle: High-Speed Trains Begin Night Freight Operations
+date: '2024-09-09T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7cdf308358e94b08b5bfea0e91b78270~mv2.jpg
+imageAlt: High-Speed Trains Begin Night Freight Operations
+wixId: abeed626-16ec-483d-a329-b92365ff9b60
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- high-speed rail
+- freight transport
+- TCDD
+- rail logistics
+- night transport
+- Ankara-Konya line
 ---
-
 <p>Turkey's freight traffic continues to grow owing to its geopolitical position and its role as a bridge between Asia and Europe. It is therefore understood that TCDD, which operates under the Ministry of Transport and Infrastructure, is working on new formulas to ease transportation burden. The plan involves leveraging high-speed rail lines to reduce transit times and relieve increasing traffic on existing routes.</p>\n<p><br></p>\n<p>According to the plan, high-speed rail lines will be used for freight transport during night hours when traffic is low. This strategy is believed to both increase efficiency and alleviate congestion. Conducting freight operations during these time windows when high-speed rail traffic is lighter will bring fresh momentum to the logistics sector.</p>\n<p><br></p>\n<p>Pilot services have already commenced under this framework. If the desired efficiency is achieved and no safety risks emerge on rail traffic, freight transport will be carried out initially on the Ankara-Konya-Karaman-Sivas routes alongside passenger services. There is hope that this development will expand to other routes. Turkey currently operates high-speed rail services between Ankara-Istanbul, Istanbul-Sivas, Ankara-Konya, Konya-Istanbul, Ankara-Karaman, and Istanbul-Karaman. High-speed rail work is ongoing between Ankara-Izmir.</p>\n<p><br></p>\n<p>It is believed that high-speed trains beginning freight operations will contribute to the country's economic growth. Shorter transport times and reduced costs will stimulate commercial activity. Additionally, it will enable Turkey to achieve a more significant position in international freight transport.</p>\n<p><br></p>\n<p>In conclusion, it is believed that the use of high-speed rail lines for freight transport will give tremendous momentum to Turkey's logistics sector and strengthen the country's strategic position. This innovative step is expected to create attractive opportunities for both domestic and foreign investors and positively impact the country's economic dynamics.</p>\n<p><br></p>\n<h5><strong>Key Points:</strong></h5>\n<ul>\n  <li><p>High-speed trains will now conduct freight transport.</p></li>\n  <li><p>The Ankara-Konya-Karaman-Sivas routes will be used initially.</p></li>\n  <li><p>Freight transport will be conducted during night hours.</p></li>\n  <li><p>Pilot services have begun and operations will commence if no safety risks are identified.</p></li>\n  <li><p>Turkey's freight traffic is increasing due to its geopolitical position.</p></li>\n  <li><p>High-speed rail utilization will shorten transport times and relieve congestion.</p></li>\n  <li><p>High-speed rail work is ongoing between Ankara-Izmir.</p></li>\n</ul>\n<p><br></p>\n<p><strong>News Link:</strong> <a href="https://www.yenisafak.com/ekonomi/yht-geceleri-yuk-tasiyacak-4643703"><u>https://www.yenisafak.com/ekonomi/yht-geceleri-yuk-tasiyacak-4643703</u></a></p>\n<p><br></p>\n<p>-------------------</p>\n<p><strong>!!! ANNOUNCEMENT !!!</strong></p>\n<p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>\n<p>#What is ERP?</p>\n<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via this link.</p>\n<p>Your feedback would make us happy.</p>\n<p>We wish you happy reading in advance.</p>

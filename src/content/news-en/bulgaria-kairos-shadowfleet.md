@@ -1,16 +1,24 @@
 ---
-title: "Bulgaria Secures Damaged Kairos Tanker Off Burgas"
-subtitle: "Bulgaria Secures Damaged Kairos Tanker Off Burgas"
-date: "2025-12-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_101af0a8660f4ed5871b1706529a0c73~mv2.jpg"
-imageAlt: "Status of the Kairos tanker following a Ukrainian maritime drone attack, evacuated from Turkish waters and drifting toward Bulgarian shores, detailing Bulgarian and Turkish authorities' intervention, shadow fleet risks, and implications for maritime security in the Black Sea"
-wixId: "fb1f56d7-7dd1-4bd9-9aa2-19d0184e0248"
-author: "Sedat Onat"
+title: Bulgaria Secures Damaged Kairos Tanker Off Burgas
+subtitle: Bulgaria Secures Damaged Kairos Tanker Off Burgas
+date: '2025-12-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_101af0a8660f4ed5871b1706529a0c73~mv2.jpg
+imageAlt: Status of the Kairos tanker following a Ukrainian maritime drone attack, evacuated from Turkish waters and drifting toward Bulgarian shores, detailing Bulgarian and Turkish authorities' intervention, shadow fleet risks, and implications for maritime security in the Black Sea
+wixId: fb1f56d7-7dd1-4bd9-9aa2-19d0184e0248
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Kairos tanker
+- shadow fleet
+- sea drone attack
+- Black Sea security
+- Bulgaria
+- environmental risk
+- Ukraine
+- oil transportation
 ---
-
 <p style="text-align: justify">Bulgarian and Turkish authorities are confirming new developments regarding the <strong>Kairos</strong> tanker, which is connected to Russia's <strong>"shadow fleet"</strong> network of sanctioned petroleum transport. According to information from <strong>Bulgarian News Agency (BTA)</strong>, the tanker with a capacity of approximately <strong>150,000 DWT</strong> was drifting toward Bulgarian shores following a <strong>Ukrainian maritime drone attack</strong> off Turkish waters and is currently stabilized at a safe anchorage point off <strong>Burgas</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">Bulgarian authorities report that the tanker approached Bulgarian shores to within approximately <strong>one nautical mile</strong>, but was secured following intervention operations. The vessel currently has <strong>three crew members</strong> aboard and <strong>no oil spill or marine pollution has been detected</strong>. This situation demonstrates that a significant environmental risk has been mitigated for now, given the escalating military and asymmetric threats in the Black Sea.</p>

@@ -1,14 +1,22 @@
 ---
-title: "COSCO, Newcastlemax Filosunu Büyütüyor"
-subtitle: "COSCO, Newcastlemax Filosunu Büyütüyor"
-date: "2024-12-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1c5fde16d3a14734b632d9e1d385b9a6~mv2.jpg"
-imageAlt: "COSCO, Newcastlemax Filosunu Büyütüyor"
-wixId: "c096ac2c-05e1-419b-95af-3b19621f2911"
-author: "Sedat Onat"
+title: COSCO, Newcastlemax Filosunu Büyütüyor
+subtitle: COSCO, Newcastlemax Filosunu Büyütüyor
+date: '2024-12-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1c5fde16d3a14734b632d9e1d385b9a6~mv2.jpg
+imageAlt: COSCO, Newcastlemax Filosunu Büyütüyor
+wixId: c096ac2c-05e1-419b-95af-3b19621f2911
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- COSCO
+- Newcastlemax
+- kuru yük taşımacılığı
+- gemi siparişi
+- dökme yük
+- filo genişletme
+- denizcilik
 ---
 <p>Çin merkezli COSCO, global kuru yük sektöründe rekabet gücünü artırmak için yeni bir Newcastlemax serisi siparişi vererek genişleme stratejisini sürdürüyor. Tersane kaynakları, bu hamlenin uluslararası denizcilik piyasasında belirgin bir dikkat çektiğini belirtirken, finansal ve operasyonel açıdan da yeni fırsatlar yaratacağı görüşünü dile getiriyor. Şirket, yaklaşık 210.000 dwt kapasiteye sahip Newcastlemax sınıfı gemilerin inşasıyla filo portföyünü daha da güçlendirmeyi hedefliyor. Bu girişim, Asya pazarının yanı sıra küresel ölçekte demir cevheri ve kömür gibi dökme yük taşımacılığındaki talebi karşılamak adına önemli bir adım olarak görülüyor.</p>
 <p><br></p>

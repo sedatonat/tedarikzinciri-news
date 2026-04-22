@@ -1,14 +1,22 @@
 ---
-title: "Mega-Containership ve Yağ Tankeri Cebelitarık Boğazı'nda Çarpıştı"
-subtitle: "Mega-Containership ve Yağ Tankeri Cebelitarık Boğazı'nda Çarpıştı"
-date: "2024-12-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e5d155bf23e545d2a338d3864ac72a2d~mv2.png"
-imageAlt: "Mega-Containership ve Yağ Tankeri Cebelitarık Boğazı'nda Çarpıştı"
-wixId: "8aea4a8d-d5d5-48bd-a320-9f14af7805fa"
-author: "Sedat Onat"
+title: Mega-Containership ve Yağ Tankeri Cebelitarık Boğazı'nda Çarpıştı
+subtitle: Mega-Containership ve Yağ Tankeri Cebelitarık Boğazı'nda Çarpıştı
+date: '2024-12-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e5d155bf23e545d2a338d3864ac72a2d~mv2.png
+imageAlt: Mega-Containership ve Yağ Tankeri Cebelitarık Boğazı'nda Çarpıştı
+wixId: 8aea4a8d-d5d5-48bd-a320-9f14af7805fa
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Cebelitarık Boğazı
+- konteyner gemisi
+- petrol tankeri
+- gemi çarpışması
+- HMM
+- deniz kazası
+- Algeciras
 ---
 <p>Cebelitarık Boğazı'nda, 3 Aralık 2024 Salı sabahı erken saatlerde, dünyanın en büyük konteyner gemilerinden biri ile bir ham petrol tankerinin çarpışması meydana geldi. Olay, 25 mürettebatı bulunan Liberian bayrağını taşıyan Gloria Maris isimli suezmax ham petrol tankerinin, 24 mürettebatı olan HMM ST Petersburg konteyner gemisi ile çarpışması sonucu gerçekleşti. Çarpışmanın yaklaşık 8.9 mil güneydoğu Algeciras yakınlarında gerçekleştiği bildirildi.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Avrupa Havaalanlarına Yapılan Siber Saldırı Soruşturmasında İngiltere’de Gözaltı"
-subtitle: "Avrupa Havaalanlarına Yapılan Siber Saldırı Soruşturmasında İngiltere’de Gözaltı"
-date: "2025-09-14T00:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_50f0702cc9d947c4b28ac43586d15220~mv2.png"
-imageAlt: "Avrupa Havaalanlarına Yapılan Siber Saldırı Soruşturmasında İngiltere’de Gözaltı"
-wixId: "8445c2c4-8d1f-4d7d-89a9-d089af24a701"
-author: "Sedat Onat"
+title: Avrupa Havaalanlarına Yapılan Siber Saldırı Soruşturmasında İngiltere’de Gözaltı
+subtitle: Avrupa Havaalanlarına Yapılan Siber Saldırı Soruşturmasında İngiltere’de Gözaltı
+date: '2025-09-14T00:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_50f0702cc9d947c4b28ac43586d15220~mv2.png
+imageAlt: Avrupa Havaalanlarına Yapılan Siber Saldırı Soruşturmasında İngiltere’de Gözaltı
+wixId: 8445c2c4-8d1f-4d7d-89a9-d089af24a701
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- siber saldırı
+- havaalanı güvenliği
+- Avrupa
+- İngiltere
+- siber güvenlik
+- havacılık sektörü
+- IT/OT
 ---
 <p style="text-align: justify">Avrupa genelinde havaalanlarını hedef alan cyberattack soruşturması kapsamında İngiltere’de bir şüpheli gözaltına alındı.&nbsp;</p>
 <p style="text-align: justify"><br></p>

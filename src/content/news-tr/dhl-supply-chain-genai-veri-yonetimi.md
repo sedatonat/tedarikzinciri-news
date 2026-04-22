@@ -1,14 +1,23 @@
 ---
-title: "DHL Supply Chain, GenAI ile Veri Yönetimini Geliştiriyor"
-subtitle: "DHL Supply Chain, GenAI ile Veri Yönetimini Geliştiriyor"
-date: "2024-11-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_10f74442f51b48568245e196e4b639d1~mv2.jpg"
-imageAlt: "DHL Supply Chain, GenAI ile Veri Yönetimini Geliştiriyor"
-wixId: "c28ff250-a00b-4934-858d-525dbbdb222f"
-author: "Sedat Onat"
+title: DHL Supply Chain, GenAI ile Veri Yönetimini Geliştiriyor
+subtitle: DHL Supply Chain, GenAI ile Veri Yönetimini Geliştiriyor
+date: '2024-11-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_10f74442f51b48568245e196e4b639d1~mv2.jpg
+imageAlt: DHL Supply Chain, GenAI ile Veri Yönetimini Geliştiriyor
+wixId: c28ff250-a00b-4934-858d-525dbbdb222f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DHL Supply Chain
+- GenAI
+- yapay zeka
+- veri yönetimi
+- Boston Consulting Group
+- lojistik
+- otomasyon
+- depo yönetimi
 ---
 <p>DHL Supply Chain, geçtiğimiz ay Boston Consulting Group (BCG) işbirliğiyle iki yapay zeka uygulamasını devreye aldı. Lojistik hizmet sağlayıcısı, bu Generative AI (GenAI) uygulamaları aracılığıyla veri yönetimi ve analiz yeteneklerini artırmayı hedefliyor. Şirket, müşteri içgörüsünü geliştirmek, teklifleri daha iyi değerlendirmek ve daha “özelleştirilmiş” çözümler sunmak amacıyla bu teknolojiyi kullanıyor.</p>
 <p><br></p>

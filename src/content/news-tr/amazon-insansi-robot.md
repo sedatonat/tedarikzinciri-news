@@ -1,14 +1,23 @@
 ---
-title: "Amazon, Humanoid Teslimat Robotlarını Test Etmeyi Planlıyor"
-subtitle: "Amazon, Humanoid Teslimat Robotlarını Test Etmeyi Planlıyor"
-date: "2025-06-05T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_cfdd908669f140d1a73647a452a898f4~mv2.png"
-imageAlt: "Amazon, Humanoid Teslimat Robotlarını Test Etmeyi Planlıyor"
-wixId: "4b4d77e7-7ea8-4086-8976-a7b6b569b276"
-author: "Sedat Onat"
+title: Amazon, Humanoid Teslimat Robotlarını Test Etmeyi Planlıyor
+subtitle: Amazon, Humanoid Teslimat Robotlarını Test Etmeyi Planlıyor
+date: '2025-06-05T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_cfdd908669f140d1a73647a452a898f4~mv2.png
+imageAlt: Amazon, Humanoid Teslimat Robotlarını Test Etmeyi Planlıyor
+wixId: 4b4d77e7-7ea8-4086-8976-a7b6b569b276
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Amazon
+- humanoid robot
+- son kilometre teslimat
+- AMR
+- otonom lojistik
+- bilgisayarlı görü
+- pekiştirmeli öğrenme
+- drone teslimat
 ---
 <p style="text-align: justify"><strong>Amazon</strong>, son kilometre (last-mile) teslimat süreçlerinde <strong>humanoid robotları</strong> test etmeye hazırlanıyor. Bu girişim, <strong>insan merkezli ortamlar</strong> —örneğin merdiven, kaldırım, kapı önü gibi karmaşık sahalar— için <strong>paket teslimatının fizibilitesini</strong> ölçmeyi amaçlıyor. Şirket, böylece mevcut <strong>AMR (Autonomous Mobile Robot)</strong> ve <strong>drone teslimat ağını</strong> tamamlayacak üçüncü bir otomasyon katmanı geliştirmeyi hedefliyor.</p>
 <p style="text-align: justify"><br></p>

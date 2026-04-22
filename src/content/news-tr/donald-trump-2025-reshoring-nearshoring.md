@@ -1,14 +1,23 @@
 ---
-title: "Donald Trump'ın 2025 Ticaret Gündemi: Tedarik ve Reshoring Taktikleri"
-subtitle: "Donald Trump'ın 2025 Ticaret Gündemi: Tedarik ve Reshoring Taktikleri"
-date: "2025-01-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/nsplsh_ebb778ff96d2483893c2b95ba0db2d3a~mv2.jpg"
-imageAlt: "Donald Trump'ın 2025 Ticaret Gündemi: Tedarik ve Reshoring Taktikleri"
-wixId: "9370d2d2-df16-44f7-9979-c1a0d4b390dd"
-author: "Sedat Onat"
+title: 'Donald Trump''ın 2025 Ticaret Gündemi: Tedarik ve Reshoring Taktikleri'
+subtitle: 'Donald Trump''ın 2025 Ticaret Gündemi: Tedarik ve Reshoring Taktikleri'
+date: '2025-01-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/nsplsh_ebb778ff96d2483893c2b95ba0db2d3a~mv2.jpg
+imageAlt: 'Donald Trump''ın 2025 Ticaret Gündemi: Tedarik ve Reshoring Taktikleri'
+wixId: 9370d2d2-df16-44f7-9979-c1a0d4b390dd
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Donald Trump
+- reshoring
+- tedarik zinciri
+- yapay zeka
+- ticaret politikası
+- Çin
+- Arkestro
+- ABD
 ---
 <p style="text-align: justify">Donald Trump'ın 2025 yılı için belirlediği ticaret politikaları, <strong>Arkestro</strong> şirketinin kurucu ortağı Edmund Zagorin'in analizlerine göre, tedarik zinciri yönetimi ve üretimin yeniden ülkeye kazandırılması (<a href="https://www.tedarikzinciriportali.com/post/terim-reshoring"><u><strong>reshoring</strong></u></a>) konularında önemli değişiklikler içermekte. Bu politikaların, küresel tedarik zincirleri ve işletmeler üzerinde geniş kapsamlı etkileri olması beklenmekte. ​</p>
 <p style="text-align: justify"><br></p>

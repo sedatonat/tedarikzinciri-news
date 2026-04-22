@@ -1,14 +1,22 @@
 ---
-title: "Panama, Çinli Liman Operatörünü Denetliyor"
-subtitle: "Panama, Çinli Liman Operatörünü Denetliyor"
-date: "2025-01-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f9e021e4459241d6827769d6221f151e~mv2.jpg"
-imageAlt: "Panama, Çinli Liman Operatörünü Denetliyor"
-wixId: "3a6f8077-bd53-4c3d-84c3-b2c4e2a9198d"
-author: "Sedat Onat"
+title: Panama, Çinli Liman Operatörünü Denetliyor
+subtitle: Panama, Çinli Liman Operatörünü Denetliyor
+date: '2025-01-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f9e021e4459241d6827769d6221f151e~mv2.jpg
+imageAlt: Panama, Çinli Liman Operatörünü Denetliyor
+wixId: 3a6f8077-bd53-4c3d-84c3-b2c4e2a9198d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Panama Kanalı
+- Hutchison Ports
+- liman operatörü
+- Çin yatırımları
+- jeopolitik
+- ulusal güvenlik
+- Donald Trump
 ---
 <p style="text-align: justify">Panama yetkilileri, <strong>Panama Kanalı</strong>'na bitişik iki limanı kontrol eden Çin bağlantılı bir şirketin denetimini başlattı. Bu gelişme, eski ABD Başkanı <strong>Donald Trump</strong>'ın ülkeye yapacağı ziyaret öncesinde gerçekleşti. Denetim, Çin'in stratejik öneme sahip bölgelerdeki artan varlığına yönelik küresel endişelerin arttığı bir dönemde yapılıyor.​</p>
 <p style="text-align: justify"><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "U.S. Plans to Open Coasts to Oil Exploration Activities"
-subtitle: "U.S. Plans to Open Coasts to Oil Exploration Activities"
-date: "2025-10-25T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_331fd9d423994c4ab6d8fac0406e81fb~mv2.jpg"
-imageAlt: ""
-wixId: "9ba24739-3bb2-49df-847d-408b1fd7f3fc"
-author: "Sedat Onat"
+title: U.S. Plans to Open Coasts to Oil Exploration Activities
+subtitle: U.S. Plans to Open Coasts to Oil Exploration Activities
+date: '2025-10-25T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_331fd9d423994c4ab6d8fac0406e81fb~mv2.jpg
+imageAlt: ''
+wixId: 9ba24739-3bb2-49df-847d-408b1fd7f3fc
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- oil exploration
+- offshore drilling
+- Trump administration
+- environmental policy
+- energy security
+- coastal states
+- Gulf of Mexico
 ---
-
 <p style="text-align: justify"><strong>According to documents obtained by Bloomberg</strong>, the <strong>Trump administration</strong> is preparing a plan to <strong>open nearly all of the U.S. coastline to offshore oil exploration</strong>, despite objections from environmental groups and coastal states.<br>
 The draft plan, being prepared by the <strong>Department of the Interior</strong>, envisions new oil and natural gas license sales <strong>spanning from the Atlantic to the Pacific, from Alaska to the Gulf of Mexico.</strong></p>
 <p style="text-align: justify">The plan targets regions that Trump closed off during his 2020 election campaign with <strong>promises to protect tourism revenues in Republican states like Florida.</strong></p>

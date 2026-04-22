@@ -1,14 +1,23 @@
 ---
-title: "GXO, Fransız Dağıtım Merkezine 500 Robot Yerleştirerek Otomasyonu Artırıyor"
-subtitle: "GXO, Fransız Dağıtım Merkezine 500 Robot Yerleştirerek Otomasyonu Artırıyor"
-date: "2024-05-16T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_67ba6c1c74b046c593606122dbbba8b4~mv2.jpg"
-imageAlt: "GXO, Fransız Dağıtım Merkezine 500 Robot Yerleştirerek Otomasyonu Artırıyor"
-wixId: "97120f8f-200a-4564-94a3-cc3660d8b2ee"
-author: "Sedat Onat"
+title: GXO, Fransız Dağıtım Merkezine 500 Robot Yerleştirerek Otomasyonu Artırıyor
+subtitle: GXO, Fransız Dağıtım Merkezine 500 Robot Yerleştirerek Otomasyonu Artırıyor
+date: '2024-05-16T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_67ba6c1c74b046c593606122dbbba8b4~mv2.jpg
+imageAlt: GXO, Fransız Dağıtım Merkezine 500 Robot Yerleştirerek Otomasyonu Artırıyor
+wixId: 97120f8f-200a-4564-94a3-cc3660d8b2ee
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- GXO
+- otonom mobil robot
+- AMR
+- Fransa
+- depo otomasyonu
+- Geek+
+- spor malzemeleri
+- lojistik
 ---
 <p>GXO, büyük bir küresel spor malzemeleri perakendecisine hizmet veren Fransa'daki bir dağıtım merkezinin 130,000 foot karelik bir bölümünde 500 adet otonom mobil robot (AMR) kullanmaya başladı. Avrupa'daki bu perakendecinin lojistik operasyonlarının büyük bir kısmını yöneten GXO, müşterinin taleplerini karşılamak amacıyla otomasyon teknolojilerini devreye alıyor.&nbsp;</p>
 <p><br></p>

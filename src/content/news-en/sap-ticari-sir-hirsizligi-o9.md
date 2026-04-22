@@ -1,16 +1,24 @@
 ---
-title: "SAP Accused of Trade Secret Theft: o9 Solutions Files Lawsuit"
-subtitle: "SAP Accused of Trade Secret Theft: o9 Solutions Files Lawsuit"
-date: "2025-11-26T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_787f148b62094fff8532b98cd9ffac6c~mv2.jpg"
-imageAlt: "Detailed explanation summarizing the scope of the trade secret theft lawsuit filed by o9 Solutions against SAP, the allegations, the role of former executives, and the sector impact of competition among supply chain planning software providers."
-wixId: "da2998c1-0160-485a-b351-e691e72a9cc7"
-author: "Sedat Onat"
+title: 'SAP Accused of Trade Secret Theft: o9 Solutions Files Lawsuit'
+subtitle: 'SAP Accused of Trade Secret Theft: o9 Solutions Files Lawsuit'
+date: '2025-11-26T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_787f148b62094fff8532b98cd9ffac6c~mv2.jpg
+imageAlt: Detailed explanation summarizing the scope of the trade secret theft lawsuit filed by o9 Solutions against SAP, the allegations, the role of former executives, and the sector impact of competition among supply chain planning software providers.
+wixId: da2998c1-0160-485a-b351-e691e72a9cc7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- SAP
+- o9 Solutions
+- trade secret theft
+- supply chain planning
+- artificial intelligence
+- AI
+- lawsuit
+- software
 ---
-
 <p style="text-align: justify"><strong>o9 Solutions Inc.</strong>, a rapidly growing firm in supply chain analytics and AI-powered planning solutions, has accused <strong>SAP SE</strong> of trade secret theft in a lawsuit filed on November 25 in federal court in Dallas, Texas. The company alleges that three former executives downloaded and transferred <strong>critical trade secrets</strong> related to o9's <strong>supply chain management</strong> software—including <strong>design</strong>, <strong>implementation</strong>, and <strong>testing</strong> processes—to SAP. The lawsuit draws attention at a time when competition in the market for <strong>advanced planning solutions</strong> and <strong>AI-driven supply chain optimization</strong> has intensified sharply.</p>
 <p><br></p>
 <p style="text-align: justify">o9 Solutions has grown significantly in recent years with backing from <strong>KKR</strong> and <strong>General Atlantic</strong>, reaching a <strong>3.7 billion dollar valuation</strong> in 2023. The company has attracted major enterprise customers with its more agile, cloud-based, and AI-powered products in the supply chain planning space. In its lawsuit filing, o9 argues that SAP has <strong>lost market share</strong> in this area, its <strong>existing platform has become outdated</strong>, and it has lost some customers to competitors.</p>

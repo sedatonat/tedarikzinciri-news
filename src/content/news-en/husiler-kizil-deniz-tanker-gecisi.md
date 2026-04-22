@@ -1,16 +1,23 @@
 ---
-title: "Houthis Permit Tanker Passage But Uncertainty Persists"
-subtitle: "Houthis Permit Tanker Passage But Uncertainty Persists"
-date: "2025-01-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2f7fba74faab40eda0f1615193dc4f2d~mv2.jpg"
-imageAlt: "Houthis Permit Tanker Passage But Uncertainty Persists"
-wixId: "8440aaad-fc33-4f5a-a755-b4a7be379f2a"
-author: "Sedat Onat"
+title: Houthis Permit Tanker Passage But Uncertainty Persists
+subtitle: Houthis Permit Tanker Passage But Uncertainty Persists
+date: '2025-01-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2f7fba74faab40eda0f1615193dc4f2d~mv2.jpg
+imageAlt: Houthis Permit Tanker Passage But Uncertainty Persists
+wixId: 8440aaad-fc33-4f5a-a755-b4a7be379f2a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Houthis
+- Red Sea
+- tanker transit
+- Yemen
+- maritime security
+- energy markets
+- Bab el-Mandeb
 ---
-
 <p style="text-align: justify"><strong>The Houthi Movement in Yemen</strong> is permitting tanker transits through the <strong>Red Sea</strong>, yet uncertainty and risks continue to characterize the region. <strong>The Houthis</strong> control strategic waterways in the <strong>Red Sea</strong> in retaliation for the naval blockade imposed on <strong>Yemen</strong> by the <strong>Saudi Arabia</strong>-led coalition. This situation has triggered concerns in global energy markets.</p>
 <p><br></p>
 <p style="text-align: justify">The <strong>Red Sea</strong> is a strategic region through which a significant portion of world oil trade passes. Critical chokepoints such as the <strong>Bab el-Mandeb Strait</strong> and the <strong>Suez Canal</strong> are used to transport approximately 4.8 million barrels of oil daily. The <strong>Houthis'</strong> control of this region has caused fluctuations in energy markets.</p>

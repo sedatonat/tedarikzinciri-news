@@ -1,14 +1,22 @@
 ---
-title: "Amazon İşçileri Ücret ve Çalışma Koşulları İçin Grevde"
-subtitle: "Amazon İşçileri Ücret ve Çalışma Koşulları İçin Grevde"
-date: "2024-12-19T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_f0d7bb99abb445f298565f869a515bd9~mv2.jpg"
-imageAlt: "Amazon İşçileri Ücret ve Çalışma Koşulları İçin Grevde"
-wixId: "03deb3db-2d3a-4e1d-9b60-1d5c1557eb9f"
-author: "Sedat Onat"
+title: Amazon İşçileri Ücret ve Çalışma Koşulları İçin Grevde
+subtitle: Amazon İşçileri Ücret ve Çalışma Koşulları İçin Grevde
+date: '2024-12-19T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_f0d7bb99abb445f298565f869a515bd9~mv2.jpg
+imageAlt: Amazon İşçileri Ücret ve Çalışma Koşulları İçin Grevde
+wixId: 03deb3db-2d3a-4e1d-9b60-1d5c1557eb9f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Amazon
+- grev
+- işçi hakları
+- Teamsters
+- lojistik
+- teslimat gecikmesi
+- çalışma koşulları
 ---
 <p>19 Aralık 2024 tarihinde, <strong>International Brotherhood of Teamsters</strong> sendikası, Amazon'a karşı ABD tarihindeki en büyük grevi başlattı. New York, Atlanta, San Francisco ve Los Angeles gibi şehirlerdeki yedi tesiste binlerce işçi, daha iyi ücret, avantajlar ve çalışma koşulları talebiyle iş bıraktı. Grev, tatil sezonunun en yoğun döneminde gerçekleşti.</p>
 <p><br></p>

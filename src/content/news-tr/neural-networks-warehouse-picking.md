@@ -1,14 +1,21 @@
 ---
-title: "Sinir Ağları Depolarda Sipariş Toplama Süreçlerini Yeniden Şekillendiriyor"
-subtitle: "Sinir Ağları Depolarda Sipariş Toplama Süreçlerini Yeniden Şekillendiriyor"
-date: "2025-12-10T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_957d246206a64ae7894ba3d5fd2a4ec2~mv2.jpg"
-imageAlt: "Depolarda sipariş toplama süreçlerinde sinir ağlarının gerçek operasyon verilerini kullanarak zaman tahmini, rota optimizasyonu ve iş gücü planlamasını nasıl iyileştirdiğini anlatan detaylı analiz"
-wixId: "cc9532fa-cfdf-4a2f-8086-d4cdedc492e8"
-author: "Sedat Onat"
+title: Sinir Ağları Depolarda Sipariş Toplama Süreçlerini Yeniden Şekillendiriyor
+subtitle: Sinir Ağları Depolarda Sipariş Toplama Süreçlerini Yeniden Şekillendiriyor
+date: '2025-12-10T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_957d246206a64ae7894ba3d5fd2a4ec2~mv2.jpg
+imageAlt: Depolarda sipariş toplama süreçlerinde sinir ağlarının gerçek operasyon verilerini kullanarak zaman tahmini, rota optimizasyonu ve iş gücü planlamasını nasıl iyileştirdiğini anlatan detaylı analiz
+wixId: cc9532fa-cfdf-4a2f-8086-d4cdedc492e8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- sinir ağları
+- sipariş toplama
+- depo yönetimi
+- yapay zeka
+- rota optimizasyonu
+- order picking
 ---
 <p style="text-align: justify">Depo operasyonlarında <strong>order picking</strong>, en fazla emek, zaman ve maliyet gerektiren faaliyetlerin başında gelmekte. Yüzeyde basit gibi görünse de, sipariş toplama; yoğun insan hareketi, farklı ürün özellikleri, ekipman kullanımı ve zaman baskısının bir araya geldiği son derece karmaşık bir süreç olarak öne çıkmakta. Buna rağmen pek çok depo yönetim sistemi hâlen bu süreci <strong>basit ortalamalar</strong> üzerinden planlamakta. <strong>Sinir ağları (neural networks)</strong> ise bu yaklaşımı kökten değiştirmekte.</p>
 <p><br></p>

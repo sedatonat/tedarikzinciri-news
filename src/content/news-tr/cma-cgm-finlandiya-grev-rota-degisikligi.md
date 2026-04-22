@@ -1,14 +1,22 @@
 ---
-title: "CMA CGM, Finlandiya'daki Grevler Sebebiyle Rotasını Değiştiriyor"
-subtitle: "CMA CGM, Finlandiya'daki Grevler Sebebiyle Rotasını Değiştiriyor"
-date: "2024-04-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_105a3220885044cf83c80a3cecef1c13~mv2.jpg"
-imageAlt: "CMA CGM, Finlandiya'daki Grevler Sebebiyle Rotasını Değiştiriyor"
-wixId: "4519bee3-2de6-4652-a144-3cc5a1375c2e"
-author: "Sedat Onat"
+title: CMA CGM, Finlandiya'daki Grevler Sebebiyle Rotasını Değiştiriyor
+subtitle: CMA CGM, Finlandiya'daki Grevler Sebebiyle Rotasını Değiştiriyor
+date: '2024-04-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_105a3220885044cf83c80a3cecef1c13~mv2.jpg
+imageAlt: CMA CGM, Finlandiya'daki Grevler Sebebiyle Rotasını Değiştiriyor
+wixId: 4519bee3-2de6-4652-a144-3cc5a1375c2e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CMA CGM
+- Finlandiya
+- grev
+- rota değişikliği
+- Tallinn
+- konteyner taşımacılığı
+- navlun ayarlaması
 ---
 <p><a href="https://en.wikipedia.org/wiki/CMA_CGM"><u>CMA CGM</u></a>, Finlandiya'daki grevler nedeniyle rotalarını değiştirdi. Grup, tüm Finlandiya limanlarındaki politik işçi eylemlerinin hizmetlerini etkilediğini duyurdu.&nbsp;</p>
 <p><br></p>

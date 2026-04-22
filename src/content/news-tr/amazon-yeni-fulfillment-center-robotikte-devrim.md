@@ -1,14 +1,23 @@
 ---
-title: "Amazon'un Shreveport'daki Yeni Fulfillment Center'ı Robotikte Devrim Yaratıyor"
-subtitle: "Amazon'un Shreveport'daki Yeni Fulfillment Center'ı Robotikte Devrim Yaratıyor"
-date: "2024-10-22T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/11062b_8ce3b16ee2c2452a83dc9793a0e80056~mv2.jpg"
-imageAlt: "Amazon'un Shreveport'daki Yeni Fulfillment Center'ı Robotikte Devrim Yaratıyor"
-wixId: "1103c4ca-231f-4b2c-9d90-512e972f3270"
-author: "Sedat Onat"
+title: Amazon'un Shreveport'daki Yeni Fulfillment Center'ı Robotikte Devrim Yaratıyor
+subtitle: Amazon'un Shreveport'daki Yeni Fulfillment Center'ı Robotikte Devrim Yaratıyor
+date: '2024-10-22T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/11062b_8ce3b16ee2c2452a83dc9793a0e80056~mv2.jpg
+imageAlt: Amazon'un Shreveport'daki Yeni Fulfillment Center'ı Robotikte Devrim Yaratıyor
+wixId: 1103c4ca-231f-4b2c-9d90-512e972f3270
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Amazon
+- fulfillment center
+- robotik
+- Sequoia
+- Sparrow
+- otomasyon
+- yapay zeka
+- Louisiana
 ---
 <p>Amazon, Shreveport, Louisiana'da bulunan en yeni Fulfillment Center (FC) tasarımını tanıttı ve bu merkez, önceki tasarımlara göre 10 kat daha fazla robotik teknolojiye sahip. Şirketin blogunda yayımlanan bilgilere göre, bu son nesil FC tasarımı sekiz farklı türde robotik sistemi kullanarak endüstride verimlilik ve güvenlik açısından yeni bir standart belirliyor.</p>
 <p><br></p>

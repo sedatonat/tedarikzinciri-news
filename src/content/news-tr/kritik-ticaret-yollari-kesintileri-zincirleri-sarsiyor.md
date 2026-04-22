@@ -1,14 +1,22 @@
 ---
-title: "Kritik Ticaret Yollarındaki Kesintiler Küresel Tedarik Zincirlerini Sarsıyor"
-subtitle: "Kritik Ticaret Yollarındaki Kesintiler Küresel Tedarik Zincirlerini Sarsıyor"
-date: "2024-03-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_aca3991278ff44799c5529a5ec73e10b~mv2.png"
-imageAlt: "Kritik Ticaret Yollarındaki Kesintiler Küresel Tedarik Zincirlerini Sarsıyor"
-wixId: "daf89fe2-73f0-4379-9a38-eecaae4be640"
-author: "Sedat Onat"
+title: Kritik Ticaret Yollarındaki Kesintiler Küresel Tedarik Zincirlerini Sarsıyor
+subtitle: Kritik Ticaret Yollarındaki Kesintiler Küresel Tedarik Zincirlerini Sarsıyor
+date: '2024-03-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_aca3991278ff44799c5529a5ec73e10b~mv2.png
+imageAlt: Kritik Ticaret Yollarındaki Kesintiler Küresel Tedarik Zincirlerini Sarsıyor
+wixId: daf89fe2-73f0-4379-9a38-eecaae4be640
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Süveyş Kanalı
+- Panama Kanalı
+- Kızıldeniz
+- tedarik zinciri
+- deniz taşımacılığı
+- nakliye maliyetleri
+- Ümit Burnu
 ---
 <p><a href="https://en.wikipedia.org/wiki/Suez_Canal"><u>Suez Kanalı</u></a>, Asya ile Avrupa arasındaki ana deniz yolu, 2024'ün ilk iki ayında Kızıldeniz bölgesindeki Husi saldırıları nedeniyle ticaret hacminde yıllık %50'lik bir düşüş yaşadı. Bu durum, nakliye şirketlerinin gemilerini <a href="https://en.wikipedia.org/wiki/Cape_of_Good_Hope"><u>Ümit Burnu</u></a> çevresinden dolaştırmaya yönlendirmiş ve teslimat gecikmelerine sebep olmuş. <a href="https://en.wikipedia.org/wiki/Panama_Canal"><u>Panama Kanalı</u></a> ise, genellikle küresel deniz ticaretinin yaklaşık %5'ini yönetirken, ciddi bir kuraklık nedeniyle yetkililerin, geçen Ekim ayından bu yana günlük gemi geçişlerini önemli ölçüde kısıtlaması sonucunda ticaret hacminde %32'lik bir düşüş yaşandı.</p>
 <p><br></p>

@@ -1,14 +1,23 @@
 ---
-title: "DB Cargo, Münih Kuzey’de Yük Vagonları İçin 360 Derece Yapay Zekâ Tabanlı Denetim Sistemini Test Ediyor"
-subtitle: "DB Cargo, Münih Kuzey’de Yük Vagonları İçin 360 Derece Yapay Zekâ Tabanlı Denetim Sistemini Test Ediyor"
-date: "2025-12-10T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_fd6d1c5ef668467d9355b71d27620588~mv2.jpg"
-imageAlt: "DB Cargo’nun Münih Kuzey manevra sahasında devreye aldığı, vagon altı görüntüleme, ses analizi ve yapay zekâ entegrasyonuna dayalı otomatik denetim pilotunun teknik yapısı, hedefleri ve “Akıllı Yük Vagonu” vizyonundaki rolünün detaylı özeti"
-wixId: "a8a9be8b-00f7-4d6f-a4ac-316d5eaa16f3"
-author: "Sedat Onat"
+title: DB Cargo, Münih Kuzey’de Yük Vagonları İçin 360 Derece Yapay Zekâ Tabanlı Denetim Sistemini Test Ediyor
+subtitle: DB Cargo, Münih Kuzey’de Yük Vagonları İçin 360 Derece Yapay Zekâ Tabanlı Denetim Sistemini Test Ediyor
+date: '2025-12-10T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_fd6d1c5ef668467d9355b71d27620588~mv2.jpg
+imageAlt: DB Cargo’nun Münih Kuzey manevra sahasında devreye aldığı, vagon altı görüntüleme, ses analizi ve yapay zekâ entegrasyonuna dayalı otomatik denetim pilotunun teknik yapısı, hedefleri ve “Akıllı Yük Vagonu” vizyonundaki rolünün detaylı özeti
+wixId: a8a9be8b-00f7-4d6f-a4ac-316d5eaa16f3
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DB Cargo
+- yapay zeka
+- demiryolu lojistiği
+- otomasyon
+- 360 derece denetim
+- akıllı vagon
+- ses analizi
+- bakım sistemleri
 ---
 <p style="text-align: justify"><strong>DB Cargo</strong>, Avrupa demiryolu yük taşımacılığında <strong>dijitalleşme ve otomasyon</strong> hedefleri doğrultusunda, <strong>Münih Kuzey (Munich North) manevra sahasında</strong> yeni nesil bir <strong>tam otomatik vagon denetim pilotu</strong> yürütmekte. Proje, yük vagonlarının teknik durumunun yalnızca yan ve üst yüzeylerden değil, aynı zamanda <strong>alt kısımdan da</strong> izlenmesini sağlayarak <strong>“360 derece vagon analizi”</strong> gerçekleştirmeyi amaçlamakta. Bu yaklaşım, demiryolu yük taşımacılığında bakım süreçlerini daha <strong>hızlı, doğru ve öngörülebilir</strong> hâle getirmeyi hedeflemekte.</p>
 <p><br></p>

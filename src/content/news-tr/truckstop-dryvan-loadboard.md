@@ -1,14 +1,22 @@
 ---
-title: "Truckstop, Dry Van Taşımacılara Özel Düşük Maliyetli Yük Platformunu Tanıttı"
-subtitle: "Truckstop, Dry Van Taşımacılara Özel Düşük Maliyetli Yük Platformunu Tanıttı"
-date: "2025-10-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_574aaeed779948a185188ffc86ebae34~mv2.jpg"
-imageAlt: "Truckstop.com, küçük filolar ve bağımsız sürücüler için yalnızca dry van taşımacılığa odaklanan, aylık 35 dolar ücretli yeni bir yük platformu geliştirdi. Sistem, doğrulanmış yüklerle anlık fiyat verilerini birleştirerek küçük taşımacılara büyük firmalarla eşdeğer veri görünürlüğü sağlıyor."
-wixId: "9e7d8c28-689d-47de-8d05-ebef17ed4ac2"
-author: "Sedat Onat"
+title: Truckstop, Dry Van Taşımacılara Özel Düşük Maliyetli Yük Platformunu Tanıttı
+subtitle: Truckstop, Dry Van Taşımacılara Özel Düşük Maliyetli Yük Platformunu Tanıttı
+date: '2025-10-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_574aaeed779948a185188ffc86ebae34~mv2.jpg
+imageAlt: Truckstop.com, küçük filolar ve bağımsız sürücüler için yalnızca dry van taşımacılığa odaklanan, aylık 35 dolar ücretli yeni bir yük platformu geliştirdi. Sistem, doğrulanmış yüklerle anlık fiyat verilerini birleştirerek küçük taşımacılara büyük firmalarla eşdeğer veri görünürlüğü sağlıyor.
+wixId: 9e7d8c28-689d-47de-8d05-ebef17ed4ac2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Truckstop
+- dry van
+- yük platformu
+- küçük taşımacılar
+- navlun fiyatı
+- FreightWaves SONAR
+- dijitalleşme
 ---
 <p style="text-align: justify"><strong>Truckstop.com</strong>, küçük ölçekli taşımacılar ve bağımsız sürücüler için tasarladığı <strong>yeni düşük maliyetli yük platformunu (Van Load Board)</strong> duyurdu. Sadece <strong>dry van</strong> ekipmanına yönelik geliştirilen bu sistem, kullanıcılarına <strong>doğrulanmış yük verileri</strong> ve <strong>gerçek zamanlı navlun fiyatı (real-time rate data)</strong> erişimi sunmakta.</p>
 <p><br></p>

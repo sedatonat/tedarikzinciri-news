@@ -1,16 +1,24 @@
 ---
-title: "Gather AI Shifts From Drone Vision to Warehouse Intelligence"
-subtitle: "Gather AI Shifts From Drone Vision to Warehouse Intelligence"
-date: "2025-10-24T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_29ce9f918845411cacc10a69fc6752b3~mv2.jpeg"
-imageAlt: "Gather AI Transitioning From Drone Vision to Warehouse Intelligence"
-wixId: "cb3bf26a-5923-4a69-a5c6-c2e63d01fe12"
-author: "Sedat Onat"
+title: Gather AI Shifts From Drone Vision to Warehouse Intelligence
+subtitle: Gather AI Shifts From Drone Vision to Warehouse Intelligence
+date: '2025-10-24T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_29ce9f918845411cacc10a69fc6752b3~mv2.jpeg
+imageAlt: Gather AI Transitioning From Drone Vision to Warehouse Intelligence
+wixId: cb3bf26a-5923-4a69-a5c6-c2e63d01fe12
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Gather AI
+- drone
+- artificial intelligence
+- warehouse management
+- digital twin
+- AI vision
+- supply chain
+- automation
 ---
-
 <p style="text-align: justify"><strong>Gather AI</strong>, once known for <strong>drone-based inventory scans</strong>, is now redefining <strong>warehouse intelligence and visibility</strong> through <strong>software-driven artificial intelligence vision solutions</strong>.</p>
 <p><br>
  The company, which won the <strong>Startup Award</strong> at the <strong>CSCMP EDGE Conference</strong>, is positioning itself not as a hardware manufacturer but as a platform delivering <strong>real-time warehouse management</strong> through <strong>AI-powered digital twin technologies</strong>.</p>

@@ -1,14 +1,22 @@
 ---
-title: "Rus ESPO Petrolünü Çin'e Taşıma Maliyeti Yaptırımlar Sonrası Üç Katına Çıktı"
-subtitle: "Rus ESPO Petrolünü Çin'e Taşıma Maliyeti Yaptırımlar Sonrası Üç Katına Çıktı"
-date: "2025-01-16T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_48abb8a9c68a4aa293bc7675940200b0~mv2.jpg"
-imageAlt: "Rus ESPO Petrolünü Çin'e Taşıma Maliyeti Yaptırımlar Sonrası Üç Katına Çıktı"
-wixId: "602891c4-88ab-44e6-9306-63f78d0191f8"
-author: "Sedat Onat"
+title: Rus ESPO Petrolünü Çin'e Taşıma Maliyeti Yaptırımlar Sonrası Üç Katına Çıktı
+subtitle: Rus ESPO Petrolünü Çin'e Taşıma Maliyeti Yaptırımlar Sonrası Üç Katına Çıktı
+date: '2025-01-16T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_48abb8a9c68a4aa293bc7675940200b0~mv2.jpg
+imageAlt: Rus ESPO Petrolünü Çin'e Taşıma Maliyeti Yaptırımlar Sonrası Üç Katına Çıktı
+wixId: 602891c4-88ab-44e6-9306-63f78d0191f8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ESPO petrolü
+- ABD yaptırımları
+- Rusya
+- Çin
+- navlun maliyeti
+- Aframax tanker
+- petrol taşımacılığı
 ---
 <p style="text-align: justify">Son dönemde, <strong>Amerika Birleşik Devletleri</strong>'nin (<strong>ABD</strong>) <strong>Rusya</strong>'nın petrol endüstrisine yönelik uyguladığı sert yaptırımların ardından, Rus <strong>ESPO</strong> ham petrolünü Çin'e taşıma maliyetleri önemli ölçüde artmış durumda. Önceden yaklaşık 1,5 milyon dolar olan taşıma ücretleri, şu anda 5 milyon ila 5,5 milyon dolar arasında değişmekte.</p>
 <p style="text-align: justify"><br></p>

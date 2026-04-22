@@ -1,14 +1,22 @@
 ---
-title: "Schneider National, Fast Track Premium Demiryolu Hizmetini Başlattı"
-subtitle: "Schneider National, Fast Track Premium Demiryolu Hizmetini Başlattı"
-date: "2025-11-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_997e5a18b12a4c31908060c45bf16d8d~mv2.jpg"
-imageAlt: "Schneider National, Fast Track adını verdiği yeni premium intermodal demiryolu servisiyle, ABD–Meksika hatlarında rakiplerinden iki güne kadar daha hızlı transit süreleri, %95 zamanında teslimat, öncelikli rail placement, optimize edilmiş drayage ve 24/7 takip sunarak “kamyon hızında intermodal deneyimi” sağlamayı hedefliyor."
-wixId: "b21c55f6-f2ce-487d-a9fb-71f581fc1092"
-author: "Sedat Onat"
+title: Schneider National, Fast Track Premium Demiryolu Hizmetini Başlattı
+subtitle: Schneider National, Fast Track Premium Demiryolu Hizmetini Başlattı
+date: '2025-11-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_997e5a18b12a4c31908060c45bf16d8d~mv2.jpg
+imageAlt: Schneider National, Fast Track adını verdiği yeni premium intermodal demiryolu servisiyle, ABD–Meksika hatlarında rakiplerinden iki güne kadar daha hızlı transit süreleri, %95 zamanında teslimat, öncelikli rail placement, optimize edilmiş drayage ve 24/7 takip sunarak “kamyon hızında intermodal deneyimi” sağlamayı hedefliyor.
+wixId: b21c55f6-f2ce-487d-a9fb-71f581fc1092
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Schneider National
+- intermodal taşımacılık
+- demiryolu servisi
+- ABD-Meksika
+- hızlı teslimat
+- zamanında teslimat
+- premium lojistik
 ---
 <h5 style="text-align: justify">Schneider National, intermodal taşımacılıkta hız ve güvenilirlik talebi artarken yeni premium demiryolu servisi <strong>Fast Track</strong>’i duyurdu. Şirket, Fast Track’in intermodal yapısının avantajlarını korurken <strong>kamyon hızına yakın</strong> bir deneyim sunduğunu belirtiyor.</h5>
 <p><br></p>

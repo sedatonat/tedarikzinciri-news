@@ -1,14 +1,22 @@
 ---
-title: "Keelung Port'ta Gantry Vinç Çöktü: Soruşturma Başlatıldı"
-subtitle: "Keelung Port'ta Gantry Vinç Çöktü: Soruşturma Başlatıldı"
-date: "2024-10-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_fcd32897066f4a01bcc1a730d8988290~mv2.jpg"
-imageAlt: "Keelung Port'ta Gantry Vinç Çöktü: Soruşturma Başlatıldı"
-wixId: "e00ee645-c0f1-4c55-9743-0a869de7377d"
-author: "Sedat Onat"
+title: 'Keelung Port''ta Gantry Vinç Çöktü: Soruşturma Başlatıldı'
+subtitle: 'Keelung Port''ta Gantry Vinç Çöktü: Soruşturma Başlatıldı'
+date: '2024-10-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_fcd32897066f4a01bcc1a730d8988290~mv2.jpg
+imageAlt: 'Keelung Port''ta Gantry Vinç Çöktü: Soruşturma Başlatıldı'
+wixId: e00ee645-c0f1-4c55-9743-0a869de7377d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Keelung Port
+- gantry vinç
+- liman kazası
+- vinç çöküşü
+- konteyner terminali
+- China Container Terminal
+- Taiwan
 ---
 <p>Keelung Port'ta, China Container Terminal Corporation için yeni vinçlerin teslimatı sırasında bir konteyner gantry vinç çöktü. Taiwan News'un haberine göre, olay 14 Ekim saat 14:00 sularında meydana geldi. Yuzhou Qi Hang adlı barç taşıyıcı, yeni satın alınan vinci taşırken Pier 20'deki mevcut bir karadaki vinçle çarpıştı. Çarpışmanın etkisiyle karadaki vinç devrildi.</p>
 <p><br></p>

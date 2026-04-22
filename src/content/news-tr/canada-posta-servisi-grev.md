@@ -1,14 +1,22 @@
 ---
-title: "Canada Post’ta Grevler: Göndericiler Tatil Yoğunluğunu Nasıl Yönetebilir?"
-subtitle: "Canada Post’ta Grevler: Göndericiler Tatil Yoğunluğunu Nasıl Yönetebilir?"
-date: "2025-11-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8c9599d7e30e4539bd1459db0cb71129~mv2.jpg"
-imageAlt: "Canada Post çalışanlarının uyguladığı rotating strikes (döner grevler), tatil sezonu yaklaşırken teslimatlarda öngörülemeyen gecikme riski oluşturuyor. Uzmanlar, işletmelerin müşteri iletişimini güçlendirmesini, alternatif taşıyıcılar eklemesini ve büyük şehirlerde güçlü yerel teslimat ortakları bulundurmasını öneriyor."
-wixId: "b13aefc9-cb3c-4c1d-a08b-3d0fdcc4994e"
-author: "Sedat Onat"
+title: 'Canada Post’ta Grevler: Göndericiler Tatil Yoğunluğunu Nasıl Yönetebilir?'
+subtitle: 'Canada Post’ta Grevler: Göndericiler Tatil Yoğunluğunu Nasıl Yönetebilir?'
+date: '2025-11-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8c9599d7e30e4539bd1459db0cb71129~mv2.jpg
+imageAlt: Canada Post çalışanlarının uyguladığı rotating strikes (döner grevler), tatil sezonu yaklaşırken teslimatlarda öngörülemeyen gecikme riski oluşturuyor. Uzmanlar, işletmelerin müşteri iletişimini güçlendirmesini, alternatif taşıyıcılar eklemesini ve büyük şehirlerde güçlü yerel teslimat ortakları bulundurmasını öneriyor.
+wixId: b13aefc9-cb3c-4c1d-a08b-3d0fdcc4994e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Canada Post
+- grev
+- tatil sezonu
+- lojistik
+- alternatif taşıyıcılar
+- e-ticaret
+- teslimat gecikmeleri
 ---
 <p style="text-align: justify">Canada Post çalışanlarının, yeni toplu sözleşme görüşmelerinin çıkmaza girmesi sonrası başlattığı <strong>rotating strikes (döner grevler)</strong>, tatil sezonu yaklaşırken göndericiler için kritik bir risk oluşturuyor. Grev, tam ölçekli bir ulusal duruştan daha az yıkıcı olsa da, belirli bölgelerde gerçekleşen kısa süreli iş bırakmalar nedeniyle posta ve paketlerin <strong>öngörülemeyen gecikmelerle</strong> karşılaşmasına yol açıyor.</p>
 <p><br></p>

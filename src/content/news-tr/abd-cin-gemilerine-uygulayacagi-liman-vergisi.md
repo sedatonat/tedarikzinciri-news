@@ -1,14 +1,22 @@
 ---
-title: "ABD'nin Çin Gemilerine Uygulayacağı Liman Vergisi Bazı Rotaları Sürdürülemez Hale Getiriyor: MSC CEO'su Toft'in Görüşleri"
-subtitle: "ABD'nin Çin Gemilerine Uygulayacağı Liman Vergisi Bazı Rotaları Sürdürülemez Hale Getiriyor: MSC CEO'su Toft'in Görüşleri"
-date: "2025-03-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_03c31bb7e77341208db52798c90bbb67~mv2.jpg"
-imageAlt: "ABD'nin Çin Gemilerine Uygulayacağı Liman Vergisi Bazı Rotaları Sürdürülemez Hale Getiriyor: MSC CEO'su Toft'in Görüşleri"
-wixId: "e1854daf-2a10-4913-ae69-2b1f0d1bfe1f"
-author: "Sedat Onat"
+title: 'ABD''nin Çin Gemilerine Uygulayacağı Liman Vergisi Bazı Rotaları Sürdürülemez Hale Getiriyor: MSC CEO''su Toft''in Görüşleri'
+subtitle: 'ABD''nin Çin Gemilerine Uygulayacağı Liman Vergisi Bazı Rotaları Sürdürülemez Hale Getiriyor: MSC CEO''su Toft''in Görüşleri'
+date: '2025-03-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_03c31bb7e77341208db52798c90bbb67~mv2.jpg
+imageAlt: 'ABD''nin Çin Gemilerine Uygulayacağı Liman Vergisi Bazı Rotaları Sürdürülemez Hale Getiriyor: MSC CEO''su Toft''in Görüşleri'
+wixId: e1854daf-2a10-4913-ae69-2b1f0d1bfe1f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- liman vergisi
+- MSC
+- Çin gemi inşa
+- deniz taşımacılığı
+- ABD limanları
+- Soren Toft
+- ticaret savaşı
 ---
 <p style="text-align: justify">ABD yönetimi, Çin'de inşa edilen veya Çin bayrağı taşıyan gemilerin ABD limanlarına yanaşması durumunda yeni ücretler uygulamayı planlamakta. Bu adım, yerli gemi inşa endüstrisini canlandırmayı ve Çin'in küresel deniz taşımacılığındaki etkisini azaltmayı amaçlamakta. Bu girişim, hem Cumhuriyetçi hem de Demokrat milletvekillerinin desteğini almakta, zira Çin'in denizcilik hakimiyeti, ABD'nin deniz kuvvetlerinin hazırlığını tehdit etmekte.&nbsp;</p>
 <p><br></p>

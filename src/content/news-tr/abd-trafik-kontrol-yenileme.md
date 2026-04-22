@@ -1,14 +1,22 @@
 ---
-title: "ABD Hava Trafik Kontrol Sistemi Yenileniyor: Peraton, Çok Milyar Dolarlık Modernizasyonun Lideri Oldu"
-subtitle: "ABD Hava Trafik Kontrol Sistemi Yenileniyor: Peraton, Çok Milyar Dolarlık Modernizasyonun Lideri Oldu"
-date: "2025-12-05T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_472cd125371846b6a2d4c83c0f858507~mv2.jpg"
-imageAlt: "ABD Ulaştırma Bakanlığı ve FAA’in, Peraton’u 12.5 milyar dolarlık ATC modernizasyon projesinin yürütücüsü olarak seçmesi ve 3 yıllık hava trafik kontrol altyapı dönüşümünün kapsamına dair detaylı haber özeti"
-wixId: "cd3f7c66-4da0-495a-8758-c5c8af62e128"
-author: "Sedat Onat"
+title: 'ABD Hava Trafik Kontrol Sistemi Yenileniyor: Peraton, Çok Milyar Dolarlık Modernizasyonun Lideri Oldu'
+subtitle: 'ABD Hava Trafik Kontrol Sistemi Yenileniyor: Peraton, Çok Milyar Dolarlık Modernizasyonun Lideri Oldu'
+date: '2025-12-05T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_472cd125371846b6a2d4c83c0f858507~mv2.jpg
+imageAlt: ABD Ulaştırma Bakanlığı ve FAA’in, Peraton’u 12.5 milyar dolarlık ATC modernizasyon projesinin yürütücüsü olarak seçmesi ve 3 yıllık hava trafik kontrol altyapı dönüşümünün kapsamına dair detaylı haber özeti
+wixId: cd3f7c66-4da0-495a-8758-c5c8af62e128
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- hava trafik kontrolü
+- Peraton
+- FAA
+- altyapı modernizasyonu
+- ABD
+- havacılık teknolojisi
+- ulusal güvenlik
 ---
 <p style="text-align: justify">ABD, hava trafiği yönetiminde son yılların en kapsamlı modernizasyon sürecine giriyor. <strong>U.S. Department of Transportation (DOT)</strong> ve <strong>Federal Aviation Administration (FAA)</strong>, ülkenin hava trafik kontrol altyapısının çok milyar dolarlık dönüşümünü yürütmek üzere teknoloji ve ulusal güvenlik alanında faaliyet gösteren <strong>Peraton</strong>’un seçildiğini duyurdu. Proje, Başkan Donald Trump’ın <strong>One Big Beautiful Bill</strong> kapsamında ayrılan <strong>12.5 milyar dolarlık başlangıç fonuyla</strong> başlamakta ve üç yıl içinde tamamlanması hedeflenmekte.</p>
 <p><br></p>

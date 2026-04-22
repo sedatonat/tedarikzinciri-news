@@ -1,14 +1,21 @@
 ---
-title: "TriVenture Logistics Büyümesi: WMS İnovasyonuyla İnşa Edildi"
-subtitle: "TriVenture Logistics Büyümesi: WMS İnovasyonuyla İnşa Edildi"
-date: "2025-02-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_713484bf6dac4d8e922989c9f4ca9328~mv2.jpg"
-imageAlt: "TriVenture Logistics Büyümesi: WMS İnovasyonuyla İnşa Edildi"
-wixId: "671216b2-f4b4-4ac8-b239-b60550c52d3c"
-author: "Sedat Onat"
+title: 'TriVenture Logistics Büyümesi: WMS İnovasyonuyla İnşa Edildi'
+subtitle: 'TriVenture Logistics Büyümesi: WMS İnovasyonuyla İnşa Edildi'
+date: '2025-02-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_713484bf6dac4d8e922989c9f4ca9328~mv2.jpg
+imageAlt: 'TriVenture Logistics Büyümesi: WMS İnovasyonuyla İnşa Edildi'
+wixId: 671216b2-f4b4-4ac8-b239-b60550c52d3c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- TriVenture Logistics
+- WMS
+- sağlık lojistiği
+- Tecsys
+- depo yönetim sistemi
+- inovasyon
 ---
 <p style="text-align: justify">TriVenture Logistics (TVL), sağlık lojistiği alanında faaliyet gösteren bir şirkettir. Şirket, <strong>Tecsys</strong> ile iş birliği yaparak esnek ve güçlü bir <strong>Warehouse Management System (WMS)</strong> platformu oluşturmuştur. Bu platform, sağlık sektörünün karmaşık lojistik ihtiyaçlarını karşılamak üzere tasarlanmıştır.​</p>
 <p><br></p>

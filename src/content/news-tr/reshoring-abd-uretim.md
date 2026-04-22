@@ -1,14 +1,22 @@
 ---
-title: "ABD’de Üretimin Geri Dönmesi İçin Gerçekte Ne Gerekiyor?"
-subtitle: "ABD’de Üretimin Geri Dönmesi İçin Gerçekte Ne Gerekiyor?"
-date: "2025-11-21T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_81061bd6d39547f8ae324f8752f451de~mv2.jpg"
-imageAlt: "SupplyChainBrain Podcast bu bölümde, Matt Dollard (RSM) ile ABD’ye üretimin geri taşınması (reshoring) sürecinin neden tarifelerle sağlanamayacağını ve hangi kritik unsurların yeniden sanayileşme için gerekli olduğunu ele alıyor."
-wixId: "eceb64be-d9b6-4512-84c6-ac4cf25ad20b"
-author: "Sedat Onat"
+title: ABD’de Üretimin Geri Dönmesi İçin Gerçekte Ne Gerekiyor?
+subtitle: ABD’de Üretimin Geri Dönmesi İçin Gerçekte Ne Gerekiyor?
+date: '2025-11-21T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_81061bd6d39547f8ae324f8752f451de~mv2.jpg
+imageAlt: SupplyChainBrain Podcast bu bölümde, Matt Dollard (RSM) ile ABD’ye üretimin geri taşınması (reshoring) sürecinin neden tarifelerle sağlanamayacağını ve hangi kritik unsurların yeniden sanayileşme için gerekli olduğunu ele alıyor.
+wixId: eceb64be-d9b6-4512-84c6-ac4cf25ad20b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- reshoring
+- ABD
+- üretim
+- nitelikli işgücü
+- tedarik zinciri
+- enerji maliyetleri
+- tarifeler
 ---
 <p style="text-align: justify"><strong>SupplyChainBrain Podcast</strong>’in son bölümünde, Editor-in-Chief <strong>Bob Bowman</strong>, ABD’de üretimin yeniden ülkeye dönmesi (reshoring) için gereken koşulları <strong>RSM’den Matt Dollard</strong> ile detaylı biçimde ele alıyor. Tartışmanın temel mesajı şu: <strong>Yüksek tarifeler tek başına yeterli değil — hatta bazı durumlarda geri tepebiliyor.</strong> ABD’ye üretimi geri çekecek gerçek dönüşüm çok daha kapsamlı, çok daha uzun soluklu ve çok daha sistematik bir plan gerektiriyor.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Konecranes, İlk Elektrikli Reach Stacker ve Global Remote Services Ağıyla Ecolifting’i Genişletiyor"
-subtitle: "Konecranes, İlk Elektrikli Reach Stacker ve Global Remote Services Ağıyla Ecolifting’i Genişletiyor"
-date: "2025-11-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0cf65f0b3d7f4893b16f3b615bb10ca0~mv2.jpg"
-imageAlt: "Konecranes’in ilk elektrikli reach stacker lansmanı, Remote Services’ın küresel erişimi ve Ecolifting programının düşük-emisyon liman ekipmanlarına yönelik stratejik genişlemesini anlatan detaylı haber özeti"
-wixId: "86b445d7-f46a-418f-bb84-be210a8d4011"
-author: "Sedat Onat"
+title: Konecranes, İlk Elektrikli Reach Stacker ve Global Remote Services Ağıyla Ecolifting’i Genişletiyor
+subtitle: Konecranes, İlk Elektrikli Reach Stacker ve Global Remote Services Ağıyla Ecolifting’i Genişletiyor
+date: '2025-11-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0cf65f0b3d7f4893b16f3b615bb10ca0~mv2.jpg
+imageAlt: Konecranes’in ilk elektrikli reach stacker lansmanı, Remote Services’ın küresel erişimi ve Ecolifting programının düşük-emisyon liman ekipmanlarına yönelik stratejik genişlemesini anlatan detaylı haber özeti
+wixId: 86b445d7-f46a-418f-bb84-be210a8d4011
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Konecranes
+- elektrikli reach stacker
+- liman ekipmanı
+- Ecolifting
+- Remote Services
+- Li-Ion batarya
+- sürdürülebilirlik
 ---
 <p style="text-align: justify"><strong>Konecranes</strong>, Singapur’daki <strong>TOC Asia</strong> etkinliğinde şirket tarihinin ilk <strong>electric reach stacker</strong> modelini tanıtarak liman ve endüstriyel ekipman portföyünde önemli bir dönüşüm başlattı. Lansman, küresel liman operatörlerinin elektrikli ekipman talebinin hızla arttığı bir döneme denk gelirken, şirket aynı zamanda <strong>Remote Services</strong> platformunun dünya genelinde tam erişime açıldığını duyurdu. Bu iki gelişme, Konecranes’in <strong>Ecolifting</strong> girişimini daha geniş bir yelpazeye taşımakta.</p>
 <p><br></p>

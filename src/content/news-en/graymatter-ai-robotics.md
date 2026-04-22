@@ -1,16 +1,23 @@
 ---
-title: "GrayMatter Robotics Opens 100,000-Square-Foot AI Robotics Innovation Center in California"
-subtitle: "GrayMatter Robotics Opens 100,000-Square-Foot AI Robotics Innovation Center in California"
-date: "2025-10-24T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/f808ef49161b483baeb323114519dde8.jpg"
-imageAlt: "GrayMatter Robotics Opens 100,000-Square-Foot AI Robotics Innovation Center in California"
-wixId: "8ae58734-cd82-4bcf-9053-f0e238d024ed"
-author: "Sedat Onat"
+title: GrayMatter Robotics Opens 100,000-Square-Foot AI Robotics Innovation Center in California
+subtitle: GrayMatter Robotics Opens 100,000-Square-Foot AI Robotics Innovation Center in California
+date: '2025-10-24T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/f808ef49161b483baeb323114519dde8.jpg
+imageAlt: GrayMatter Robotics Opens 100,000-Square-Foot AI Robotics Innovation Center in California
+wixId: 8ae58734-cd82-4bcf-9053-f0e238d024ed
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- GrayMatter Robotics
+- artificial intelligence
+- physical AI
+- robotic automation
+- manufacturing automation
+- California
+- innovation hub
 ---
-
 <p style="text-align: justify"><strong>GrayMatter Robotics</strong> has officially opened its new 100,000-square-foot global headquarters and innovation center in <strong>Carson, California</strong>, unveiling what the company describes as <strong>the most advanced "interactive robotics experience center" in the United States</strong>.</p>
 <p><br>
 According to the company's announcement, this facility represents a major milestone in the field of <strong>AI-powered manufacturing automation</strong> at the national level.</p>

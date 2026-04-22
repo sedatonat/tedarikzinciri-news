@@ -1,14 +1,22 @@
 ---
-title: "Çin-AB Demiryolu Taşımacılığında Rusya'dan Yeni Kısıtlama Yok"
-subtitle: "Çin-AB Demiryolu Taşımacılığında Rusya'dan Yeni Kısıtlama Yok"
-date: "2024-12-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5b7f7efc490a4eb09afd01a1fd785d02~mv2.jpg"
-imageAlt: "Çin-AB Demiryolu Taşımacılığında Rusya'dan Yeni Kısıtlama Yok"
-wixId: "f9dc31b0-33ac-4e1a-a685-e4111fa9044e"
-author: "Sedat Onat"
+title: Çin-AB Demiryolu Taşımacılığında Rusya'dan Yeni Kısıtlama Yok
+subtitle: Çin-AB Demiryolu Taşımacılığında Rusya'dan Yeni Kısıtlama Yok
+date: '2024-12-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5b7f7efc490a4eb09afd01a1fd785d02~mv2.jpg
+imageAlt: Çin-AB Demiryolu Taşımacılığında Rusya'dan Yeni Kısıtlama Yok
+wixId: f9dc31b0-33ac-4e1a-a685-e4111fa9044e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Çin-AB demiryolu
+- Rusya
+- transit taşımacılık
+- İpek Yolu
+- gümrük
+- TEU
+- RZD
 ---
 <p>Rusya, Çin ile Avrupa Birliği (AB) arasındaki demiryolu taşımacılığına ek kısıtlamalar getirmeyi planlamıyor. Aksine, bu güzergâhtaki demiryolu yüklerinin transit geçişini engelleyen mevcut bürokratik engelleri kaldırmayı hedefliyor.</p>
 <p><br></p>

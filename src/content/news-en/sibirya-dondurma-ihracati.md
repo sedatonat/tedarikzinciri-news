@@ -1,16 +1,23 @@
 ---
-title: "Siberian Ice Cream Exports: Stable 3,500-Ton Performance in 2025"
-subtitle: "Siberian Ice Cream Exports: Stable 3,500-Ton Performance in 2025"
-date: "2025-11-10T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_222567fff5a64fdcbdca9207c713bee9~mv2.jpg"
-imageAlt: "In the first nine months of 2025, Siberia exported 3,500 tons of ice cream; Kazakhstan dominated as the main market with a 69% share, while exports to Uzbekistan, Armenia, and Turkmenistan increased significantly."
-wixId: "f771c41d-55a9-4318-b024-8225c2821806"
-author: "Sedat Onat"
+title: 'Siberian Ice Cream Exports: Stable 3,500-Ton Performance in 2025'
+subtitle: 'Siberian Ice Cream Exports: Stable 3,500-Ton Performance in 2025'
+date: '2025-11-10T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_222567fff5a64fdcbdca9207c713bee9~mv2.jpg
+imageAlt: In the first nine months of 2025, Siberia exported 3,500 tons of ice cream; Kazakhstan dominated as the main market with a 69% share, while exports to Uzbekistan, Armenia, and Turkmenistan increased significantly.
+wixId: f771c41d-55a9-4318-b024-8225c2821806
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Siberia
+- ice cream exports
+- Kazakhstan
+- Russia
+- Central Asia
+- Novosibirsk
+- food logistics
 ---
-
 <p style="text-align: justify">According to statistics released by Russia's Federal Customs Service, <strong>the Siberian region exported 3,500 tons of ice cream during the January–September period of 2025</strong>. The monetary equivalent of this volume was calculated at approximately <strong>1.5 billion rubles</strong> (approximately <strong>18.5 million dollars</strong>). The total export volume remained <strong>unchanged</strong> on an annual basis, indicating that Siberia's ice cream industry has captured stable demand in foreign markets.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Kazakhstan: The Overwhelmingly Largest Buyer</strong></h4>

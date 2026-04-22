@@ -1,14 +1,23 @@
 ---
-title: "Accenture ve SAP, \"Supply Chain Nerve Center\" Adını Verdikleri bir Platform Geliştirmek için İşbirliği Yapıyorlar"
-subtitle: "Accenture ve SAP, \"Supply Chain Nerve Center\" Adını Verdikleri bir Platform Geliştirmek için İşbirliği Yapıyorlar"
-date: "2023-12-05T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_7ca3caea9305412aadac2ec97f65bec0~mv2.png"
-imageAlt: "Accenture ve SAP, \"Supply Chain Nerve Center\" Adını Verdikleri bir Platform Geliştirmek için İşbirliği Yapıyorlar"
-wixId: "db7acd4d-a9f7-4a6c-9cd8-5c01b00f53fe"
-author: "Sedat Onat"
+title: Accenture ve SAP, "Supply Chain Nerve Center" Adını Verdikleri bir Platform Geliştirmek için İşbirliği Yapıyorlar
+subtitle: Accenture ve SAP, "Supply Chain Nerve Center" Adını Verdikleri bir Platform Geliştirmek için İşbirliği Yapıyorlar
+date: '2023-12-05T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_7ca3caea9305412aadac2ec97f65bec0~mv2.png
+imageAlt: Accenture ve SAP, "Supply Chain Nerve Center" Adını Verdikleri bir Platform Geliştirmek için İşbirliği Yapıyorlar
+wixId: db7acd4d-a9f7-4a6c-9cd8-5c01b00f53fe
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Accenture
+- SAP
+- tedarik zinciri
+- yapay zeka
+- dijital ikiz
+- sürdürülebilirlik
+- ESG
+- risk yönetimi
 ---
 <p><a href="https://www.accenture.com/us-en"><u>Accenture </u></a>ve <a href="https://www.sap.com"><u>SAP</u></a>, "<a href="https://www.sap.com/documents/2023/11/f271be4a-9b7e-0010-bca6-c68f7e60039b.html"><u>Supply Chain Nerve Center</u></a>" adını verdikleri bir platform geliştirmek için işbirliği yapıyorlar. Bu platform, organizasyonların Tedarik Zincirlerini yeniden şekillendirmelerine yardımcı olacak ve riski azaltmaya, görünürlüğü artırmaya ve sürdürülebilirlik hedeflerini desteklemeye yardımcı olacak.</p>
 <p><br></p>

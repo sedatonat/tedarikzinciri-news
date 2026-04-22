@@ -1,14 +1,22 @@
 ---
-title: "NorthStandard, BetterSea Ortaklığıyla FuelEU Uyumunu Kolaylaştırıyor"
-subtitle: "NorthStandard, BetterSea Ortaklığıyla FuelEU Uyumunu Kolaylaştırıyor"
-date: "2025-02-14T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_debd7dd6282144328c38f4427d184cb8~mv2.png"
-imageAlt: "NorthStandard, BetterSea Ortaklığıyla FuelEU Uyumunu Kolaylaştırıyor"
-wixId: "26ccc8f0-0aa1-4fab-b8b9-dc57aeae0c83"
-author: "Sedat Onat"
+title: NorthStandard, BetterSea Ortaklığıyla FuelEU Uyumunu Kolaylaştırıyor
+subtitle: NorthStandard, BetterSea Ortaklığıyla FuelEU Uyumunu Kolaylaştırıyor
+date: '2025-02-14T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_debd7dd6282144328c38f4427d184cb8~mv2.png
+imageAlt: NorthStandard, BetterSea Ortaklığıyla FuelEU Uyumunu Kolaylaştırıyor
+wixId: 26ccc8f0-0aa1-4fab-b8b9-dc57aeae0c83
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- FuelEU Maritime
+- dekarbonizasyon
+- NorthStandard
+- BetterSea
+- denizcilik düzenlemeleri
+- sera gazı emisyonları
+- pooling mekanizması
 ---
 <p style="text-align: justify"><strong>NorthStandard</strong>, önde gelen denizcilik dijital dekarbonizasyon uzmanı <strong>BetterSea</strong> ile özel bir iş birliği yaparak üyelerine <strong>BetterSea FuelEU Maritime Compliance</strong> hizmetine indirimli erişim imkanı sunmakta. Bu ortaklık, gemi sahiplerinin <strong>FuelEU Maritime</strong> düzenlemelerine uyum sağlamalarını kolaylaştırmakta ve uyum maliyetlerini azaltmakta.​</p>
 <p style="text-align: justify"><br></p>

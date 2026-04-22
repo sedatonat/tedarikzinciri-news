@@ -1,14 +1,22 @@
 ---
-title: "DHL, 90 Milyon Dolarlık Yatırımla Manhattan Operasyonlarını Jersey City’ye Taşıyor"
-subtitle: "DHL, 90 Milyon Dolarlık Yatırımla Manhattan Operasyonlarını Jersey City’ye Taşıyor"
-date: "2025-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/563916d42dce4dc3a6da1d427d33658c.jpg"
-imageAlt: "DHL Express, New York bölgesindeki kapasitesini iki katına çıkarmak ve teslimat hızını artırmak amacıyla 90 milyon dolarlık yatırım planı açıkladı. Şirket, Manhattan hizmet merkezini Kasım 2025’e kadar Jersey City’deki 92.505 metrekarelik yeni tesise taşıyacak."
-wixId: "bf1ca82f-7933-4948-97b9-7d582716f0da"
-author: "Sedat Onat"
+title: DHL, 90 Milyon Dolarlık Yatırımla Manhattan Operasyonlarını Jersey City’ye Taşıyor
+subtitle: DHL, 90 Milyon Dolarlık Yatırımla Manhattan Operasyonlarını Jersey City’ye Taşıyor
+date: '2025-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/563916d42dce4dc3a6da1d427d33658c.jpg
+imageAlt: DHL Express, New York bölgesindeki kapasitesini iki katına çıkarmak ve teslimat hızını artırmak amacıyla 90 milyon dolarlık yatırım planı açıkladı. Şirket, Manhattan hizmet merkezini Kasım 2025’e kadar Jersey City’deki 92.505 metrekarelik yeni tesise taşıyacak.
+wixId: bf1ca82f-7933-4948-97b9-7d582716f0da
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DHL Express
+- Jersey City
+- tesis yatırımı
+- kapasite artırımı
+- elektrikli araç
+- otomasyon
+- New York
 ---
 <p style="text-align: justify"><strong>DHL Express</strong>, ABD’nin en yoğun lojistik merkezlerinden biri olan <strong>New York metropol bölgesindeki varlığını</strong> güçlendirmek için <strong>90 milyon dolarlık genişleme yatırımı</strong> başlattı. Şirket, <strong>Manhattan operasyonlarını Jersey City, New Jersey</strong>’deki yeni ve yüksek kapasiteli tesisine taşıyacağını duyurdu.</p>
 <p><br></p>

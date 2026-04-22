@@ -1,14 +1,21 @@
 ---
-title: "Strategic Partnership Between PeakLogix and Movu Robotics in Warehouse Automation"
-subtitle: "Strategic Partnership Between PeakLogix and Movu Robotics in Warehouse Automation"
-date: "2024-03-01T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_1022671aa74f4cda9af5b5d8557fc80c~mv2.jpg"
-imageAlt: "Strategic Partnership Between PeakLogix and Movu Robotics in Warehouse Automation"
-wixId: "4e379a91-979a-4a35-8cfe-64ecbd1a63ee"
-author: "Sedat Onat"
+title: Strategic Partnership Between PeakLogix and Movu Robotics in Warehouse Automation
+subtitle: Strategic Partnership Between PeakLogix and Movu Robotics in Warehouse Automation
+date: '2024-03-01T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_1022671aa74f4cda9af5b5d8557fc80c~mv2.jpg
+imageAlt: Strategic Partnership Between PeakLogix and Movu Robotics in Warehouse Automation
+wixId: 4e379a91-979a-4a35-8cfe-64ecbd1a63ee
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- warehouse automation
+- PeakLogix
+- Movu Robotics
+- AMR
+- robotic solutions
+- North America
+- strategic partnership
 ---
-
 <p><a href="https://peaklogix.com/"><u>PeakLogix</u></a>, a leading industry provider of material handling solutions and warehouse optimization services since 1989, has announced a strategic partnership with <a href="https://www.movu-robotics.com/en"><u>Movu Robotics</u></a>.&nbsp;</p>\n<p><br></p>\n<p><a href="https://www.movu-robotics.com/en"><u>Movu Robotics</u></a> is a global leader in warehouse automation solutions, delivering easier logistics automation technologies for warehouses worldwide. This partnership will enable customers in the North American market to benefit from <a href="https://www.movu-robotics.com/en"><u>Movu</u></a>'s plug-and-play robotic portfolio. <a href="https://peaklogix.com/"><u>PeakLogix</u></a> offers a comprehensive range of services including warehouse design, equipment integration, software solutions, and project management to help customers maximize efficiency and productivity in their warehouse operations based on their specific needs and requirements.&nbsp;</p>\n<p><br></p>\n<p><a href="https://www.movu-robotics.com/en"><u>Movu Robotics</u></a> makes automation easier by providing accessible, modular, scalable, flexible, and energy-efficient solutions for all types of warehouses.&nbsp;</p>\n<p><br></p>\n<p>The portfolio is built around innovative subsystems including <a href="https://www.movu-robotics.com/en/atlas"><u>Movu atlas</u></a>, a pallet shuttle system for very deep-lane storage, <a href="https://www.movu-robotics.com/en/escala"><u>Movu escala</u></a>, a robotized 3D storage and fulfillment system, <a href="https://www.movu-robotics.com/en/ifollow"><u>Movu ifollow</u></a> Autonomous Mobile Robots (AMRs) for transporting pallets or collaborative picking, and <a href="https://www.movu-robotics.com/en/eligo"><u>Movu eligo</u></a>, a picking arm robot. <a href="https://www.linkedin.com/in/stefanpieters/"><u>Stefan Pieters</u></a> and <a href="https://www.linkedin.com/in/mike-holler-8086224/"><u>Mike Holler</u></a> have stated that this partnership will help customers enhance their performance, resilience, and service levels by delivering more automated solutions.</p>\n<p><br></p>\n<h3>Key Takeaways:</h3>\n<ul>\n  <li><p><a href="https://peaklogix.com/"><u>PeakLogix</u></a> and <a href="https://www.movu-robotics.com/en"><u>Movu Robotics</u></a> have established a strategic partnership.</p></li>\n  <li><p><a href="https://www.movu-robotics.com/en"><u>Movu Robotics</u></a> delivers easier logistics automation technologies worldwide.</p></li>\n  <li><p>The partnership will bring the benefits of <a href="https://www.movu-robotics.com/en"><u>Movu</u></a>'s robotic portfolio to customers in the North American market.</p></li>\n  <li><p><a href="https://peaklogix.com/"><u>PeakLogix</u></a> provides warehouse design, equipment integration, software solutions, and project management.</p></li>\n  <li><p><a href="https://www.movu-robotics.com/en"><u>Movu Robotics</u></a> simplifies automation with modular, scalable, flexible, and energy-efficient solutions.</p></li>\n  <li><p><a href="https://www.movu-robotics.com/en"><u>Movu Robotics</u></a>' innovative subsystems include <a href="https://www.movu-robotics.com/en/atlas"><u>Movu atlas</u></a>, <a href="https://www.movu-robotics.com/en/escala"><u>Movu escala</u></a>, <a href="https://www.movu-robotics.com/en/ifollow"><u>Movu ifollow</u></a>, and <a href="https://www.movu-robotics.com/en/eligo"><u>Movu eligo</u></a>.</p></li>\n</ul>\n<p><br></p>\n<p><strong>News Link: </strong><a href="https://www.warehousinglogisticsinternational.com/movu-robotics-and-peaklogix-introduce-a-dynamic-collaboration-to-bring-easier-automation-to-more-warehouses/"><u>https://www.warehousinglogisticsinternational.com/movu-robotics-and-peaklogix-introduce-a-dynamic-collaboration-to-bring-easier-automation-to-more-warehouses/</u></a></p>

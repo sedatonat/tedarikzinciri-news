@@ -1,16 +1,24 @@
 ---
-title: "U.S. Launches \"Genesis Mission\" to Advance AI-Powered Scientific Breakthrough Program"
-subtitle: "U.S. Launches \"Genesis Mission\" to Advance AI-Powered Scientific Breakthrough Program"
-date: "2025-11-24T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_f2e8f9355f1c48b49f8b88117384f2f9~mv2.jpg"
-imageAlt: "Summary of the U.S. Genesis Mission Executive Order dated 2025, detailing the establishment of a major national platform led by DOE to accelerate AI-enabled scientific research, encompassing data integration, HPC infrastructure, and scientific challenges"
-wixId: "6c06345f-8dc2-4082-aa61-988b7326bb60"
-author: "Sedat Onat"
+title: U.S. Launches "Genesis Mission" to Advance AI-Powered Scientific Breakthrough Program
+subtitle: U.S. Launches "Genesis Mission" to Advance AI-Powered Scientific Breakthrough Program
+date: '2025-11-24T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_f2e8f9355f1c48b49f8b88117384f2f9~mv2.jpg
+imageAlt: Summary of the U.S. Genesis Mission Executive Order dated 2025, detailing the establishment of a major national platform led by DOE to accelerate AI-enabled scientific research, encompassing data integration, HPC infrastructure, and scientific challenges
+wixId: 6c06345f-8dc2-4082-aa61-988b7326bb60
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- artificial intelligence
+- Genesis Mission
+- USA
+- scientific research
+- AI foundation model
+- DOE
+- national security
+- HPC
 ---
-
 <p style="text-align: justify">The <strong>Genesis Mission Executive Order</strong>, issued by the U.S. President on November 24, 2025, is regarded as one of the most comprehensive federal initiatives aimed at transforming the nation's scientific and technological capacity through artificial intelligence. The executive order underscores the United States' commitment to achieving global leadership in the artificial intelligence race and emphasizes that this competition has become a matter of national security and strategic advantage, extending far beyond economic competition alone.</p>
 <p><br></p>
 <p style="text-align: justify">The document defines Genesis Mission as a national-scale program with the objective of <strong>"AI-accelerated innovation and discovery."</strong> This initiative aims to leverage the high-performance computing infrastructure of the <strong>DOE – Department of Energy</strong> and national laboratories to develop large-scale scientific foundation models and to automate research processes through <strong>AI agents</strong>. The invocation of the <strong>Manhattan Project</strong> as an analogy for the mission's inspiration underscores both its scope and strategic significance.</p>

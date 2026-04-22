@@ -1,16 +1,23 @@
 ---
-title: "Russia and Iran Discuss Container Line Between Makhachkala and Iranian Ports"
-subtitle: "Russia and Iran Discuss Container Line Between Makhachkala and Iranian Ports"
-date: "2025-11-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_55beddde3b6346c79c99089bd1d3f3c8~mv2.jpg"
-imageAlt: "Russian and Iranian delegations discussed the modernization of Makhachkala Port and the establishment of a new container line between Makhachkala and Iran; the plans include increasing the port's capacity to 10 million tons by 2030 under the North-South Corridor framework."
-wixId: "d8b10fba-4508-44db-93b4-501ff9eb07e9"
-author: "Sedat Onat"
+title: Russia and Iran Discuss Container Line Between Makhachkala and Iranian Ports
+subtitle: Russia and Iran Discuss Container Line Between Makhachkala and Iranian Ports
+date: '2025-11-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_55beddde3b6346c79c99089bd1d3f3c8~mv2.jpg
+imageAlt: Russian and Iranian delegations discussed the modernization of Makhachkala Port and the establishment of a new container line between Makhachkala and Iran; the plans include increasing the port's capacity to 10 million tons by 2030 under the North-South Corridor framework.
+wixId: d8b10fba-4508-44db-93b4-501ff9eb07e9
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Russia
+- Iran
+- container line
+- Makhachkala
+- INSTC
+- port modernization
+- Caspian Sea
 ---
-
 <p style="text-align: justify">Russia and Iran have taken a new step to expand cooperation under the <strong>North-South International Transport Corridor (INSTC)</strong>. At a meeting held in Makhachkala last week, delegations from both countries discussed the establishment of <strong>a regular container line between Makhachkala Port and a maritime port in Iran</strong>. The meeting took place under the coordination of Russia's Federal Agency for Maritime and Inland Transport (Rosmorrechflot).</p>
 <p><br></p>
 <p style="text-align: justify">Makhachkala, as one of the most important Russian ports on the Caspian Sea, serves as a critical junction for both heavy cargo trade and multimodal transport networks. The launch of a direct container line with Iran will strengthen the corridor's southern connection and increase Russia's access to Central Asian, Middle Eastern, and Indian Ocean markets.</p>

@@ -1,16 +1,23 @@
 ---
-title: "Walmart and J.B. Hunt Enter Strategic Intermodal Partnership"
-subtitle: "Walmart and J.B. Hunt Enter Strategic Intermodal Partnership"
-date: "2024-02-22T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_83ff281df79f4b8f9f3cefdb643b9664~mv2.jpg"
-imageAlt: "Walmart and J.B. Hunt Enter Strategic Intermodal Partnership"
-wixId: "957bf882-10ca-48f4-8e31-5a8e78e42c5e"
-author: "Sedat Onat"
+title: Walmart and J.B. Hunt Enter Strategic Intermodal Partnership
+subtitle: Walmart and J.B. Hunt Enter Strategic Intermodal Partnership
+date: '2024-02-22T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_83ff281df79f4b8f9f3cefdb643b9664~mv2.jpg
+imageAlt: Walmart and J.B. Hunt Enter Strategic Intermodal Partnership
+wixId: 957bf882-10ca-48f4-8e31-5a8e78e42c5e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Walmart
+- J.B. Hunt
+- intermodal transportation
+- strategic partnership
+- asset acquisition
+- container fleet
+- logistics collaboration
 ---
-
 <p><a href="https://www.jbhunt.com/"><u>J.B. Hunt Transport Services Inc.</u></a> announced on February 22 that J.B. Hunt Transport Inc., a subsidiary of the company, has entered into a multi-year intermodal service agreement with Walmart. The arrangement includes J.B. Hunt's acquisition of Walmart's intermodal assets.</p>
 <p><br></p>
 <p>The carrier noted that the strategic service agreement increases the companies' existing volume and capacity commitments and enables the development of comprehensive intermodal solutions. In conjunction with the service agreement and increased commitments, J.B. Hunt will acquire Walmart's operational intermodal container and chassis fleets.</p>

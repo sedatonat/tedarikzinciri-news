@@ -1,16 +1,24 @@
 ---
-title: "Five Digitalization Strategies to Strengthen Drayage Operations"
-subtitle: "Five Digitalization Strategies to Strengthen Drayage Operations"
-date: "2025-11-20T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_b74b7443b8224d9196e9e095b87269d1~mv2.jpg"
-imageAlt: "Best practices shared by CargoWise Landside demonstrate how the drayage sector can become more efficient, scalable, and profitable through real-time visibility, automation, mobility, rapid invoicing, and organizational digital transformation."
-wixId: "f83c9ad1-76fc-4a2e-b886-944efa729acc"
-author: "Sedat Onat"
+title: Five Digitalization Strategies to Strengthen Drayage Operations
+subtitle: Five Digitalization Strategies to Strengthen Drayage Operations
+date: '2025-11-20T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_b74b7443b8224d9196e9e095b87269d1~mv2.jpg
+imageAlt: Best practices shared by CargoWise Landside demonstrate how the drayage sector can become more efficient, scalable, and profitable through real-time visibility, automation, mobility, rapid invoicing, and organizational digital transformation.
+wixId: f83c9ad1-76fc-4a2e-b886-944efa729acc
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- drayage
+- digitalization
+- automation
+- CargoWise
+- logistics operations
+- mobile applications
+- invoicing automation
+- driver management
 ---
-
 <p><strong>The drayage sector</strong> faces greater pressure than ever in 2025.</p>
 <ul>
   <li><p>Customers demand <strong>real-time visibility</strong>.</p></li>

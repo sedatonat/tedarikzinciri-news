@@ -1,14 +1,23 @@
 ---
-title: "CMA CGM ABD Ticareti İçin Kuzey Vietnam’da Yeni Barge Koridoru Başlattı"
-subtitle: "CMA CGM ABD Ticareti İçin Kuzey Vietnam’da Yeni Barge Koridoru Başlattı"
-date: "2025-11-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2193876fb5944a36b5839a23c46082e1~mv2.jpg"
-imageAlt: "CMA CGM’nin Kuzey Vietnam’da Que Vo–Haiphong barge hattını devreye alarak ABD pazarına daha hızlı, maliyet etkin ve düşük emisyonlu taşımacılık bağlantısı sağlamasına ilişkin detaylı özet."
-wixId: "ba0a5d77-535c-4b2f-a6f6-924afff94551"
-author: "Sedat Onat"
+title: CMA CGM ABD Ticareti İçin Kuzey Vietnam’da Yeni Barge Koridoru Başlattı
+subtitle: CMA CGM ABD Ticareti İçin Kuzey Vietnam’da Yeni Barge Koridoru Başlattı
+date: '2025-11-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2193876fb5944a36b5839a23c46082e1~mv2.jpg
+imageAlt: CMA CGM’nin Kuzey Vietnam’da Que Vo–Haiphong barge hattını devreye alarak ABD pazarına daha hızlı, maliyet etkin ve düşük emisyonlu taşımacılık bağlantısı sağlamasına ilişkin detaylı özet.
+wixId: ba0a5d77-535c-4b2f-a6f6-924afff94551
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CMA CGM
+- Vietnam
+- barge taşımacılığı
+- ABD ticareti
+- Haiphong Limanı
+- tedarik zinciri
+- sürdürülebilir lojistik
+- konteyner taşımacılığı
 ---
 <p style="text-align: justify"><strong>CMA CGM</strong>, Kuzey Vietnam’da artan üretim hacmi ve ABD pazarına yönelik ihracat talebine yanıt olarak <strong>Que Vo &gt; Haiphong</strong> arasında yeni bir <strong>barge taşımacılığı koridoru</strong> başlattığını duyurdu. Bu yeni hat, şirketin bölgedeki barge ağını güçlendirirken Vietnam’ın kuzeyindeki stratejik sanayi bölgelerini ABD’nin kritik liman ve <strong>Inland Point Intermodal (IPI)</strong> noktalarına daha doğrudan şekilde bağlamayı hedefliyor.</p>
 <p><br></p>

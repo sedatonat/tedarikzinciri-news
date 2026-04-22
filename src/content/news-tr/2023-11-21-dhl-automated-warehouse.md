@@ -1,14 +1,22 @@
 ---
-title: "DHL 4 Yeni Akıllı Depo Açacak"
-subtitle: "DHL 4 Yeni Akıllı Depo Açacak"
-date: "2023-11-21T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_5036cd849efe493b927d3ef51944cb88~mv2.jpg"
-imageAlt: "DHL 4 Yeni Akıllı Depo Açacak"
-wixId: "465fa231-66b4-4dfa-b2a0-e81c9ee76a61"
-author: "Sedat Onat"
+title: DHL 4 Yeni Akıllı Depo Açacak
+subtitle: DHL 4 Yeni Akıllı Depo Açacak
+date: '2023-11-21T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_5036cd849efe493b927d3ef51944cb88~mv2.jpg
+imageAlt: DHL 4 Yeni Akıllı Depo Açacak
+wixId: 465fa231-66b4-4dfa-b2a0-e81c9ee76a61
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DHL Supply Chain
+- akıllı depo
+- otomasyon
+- AutoStore
+- robotik
+- e-ticaret
+- dijitalleşme
 ---
 <p>DHL Supply Chain, küresel depo operasyonlarını daha fazla dijitalleştirmek amacıyla 4 yeni otomatik depo açma planları yapıyor.&nbsp;</p>
 <p><br></p>

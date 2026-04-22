@@ -1,14 +1,23 @@
 ---
-title: "UPS, Soğuk Zincir Lojistiğinde Zirveye Oynuyor: Frigo-Trans ve BPL Satın Alması"
-subtitle: "UPS, Soğuk Zincir Lojistiğinde Zirveye Oynuyor: Frigo-Trans ve BPL Satın Alması"
-date: "2024-09-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_31cda25df8a3464a9398b68714d4f045~mv2.jpg"
-imageAlt: "UPS, Soğuk Zincir Lojistiğinde Zirveye Oynuyor: Frigo-Trans ve BPL Satın Alması"
-wixId: "606f2792-e98a-43f1-ba9e-c444ec02413e"
-author: "Sedat Onat"
+title: 'UPS, Soğuk Zincir Lojistiğinde Zirveye Oynuyor: Frigo-Trans ve BPL Satın Alması'
+subtitle: 'UPS, Soğuk Zincir Lojistiğinde Zirveye Oynuyor: Frigo-Trans ve BPL Satın Alması'
+date: '2024-09-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_31cda25df8a3464a9398b68714d4f045~mv2.jpg
+imageAlt: 'UPS, Soğuk Zincir Lojistiğinde Zirveye Oynuyor: Frigo-Trans ve BPL Satın Alması'
+wixId: 606f2792-e98a-43f1-ba9e-c444ec02413e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- UPS
+- soğuk zincir
+- satın alma
+- sağlık lojistiği
+- Frigo-Trans
+- biyofarma
+- Almanya
+- Türkiye
 ---
 <p>UPS, küresel sağlık lojistiği alanında lider olma hedefiyle önemli bir adım atarak Frigo-Trans ve kardeş şirketi BPL’yi satın aldı. Bu hamle, 2030'a kadar 23,7 milyar dolara ulaşması beklenen soğuk zincir pazarında zirveye ulaşma stratejisinin bir parçası. Soğuk zincir lojistiği, özellikle sıcaklık hassasiyeti yüksek ilaç ve biyolojik ürünlerin güvenli taşınmasını gerektiriyor ve UPS, bu konuda kapasitesini genişletmeyi amaçlıyor.</p>
 <p><br></p>

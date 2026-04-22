@@ -1,14 +1,22 @@
 ---
-title: "Kodiak Robotics'in Otonom Kamyonları 50.000 Mil Yol Kat Etti: Taşımacılıkta Yeni Dönem"
-subtitle: "Kodiak Robotics'in Otonom Kamyonları 50.000 Mil Yol Kat Etti: Taşımacılıkta Yeni Dönem"
-date: "2024-08-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e7c7c3efc2754f0b9fbc112b67a86238~mv2.jpg"
-imageAlt: "Kodiak Robotics'in Otonom Kamyonları 50.000 Mil Yol Kat Etti: Taşımacılıkta Yeni Dönem"
-wixId: "def0a84c-c5aa-4896-8e36-de2eafec5e47"
-author: "Sedat Onat"
+title: 'Kodiak Robotics''in Otonom Kamyonları 50.000 Mil Yol Kat Etti: Taşımacılıkta Yeni Dönem'
+subtitle: 'Kodiak Robotics''in Otonom Kamyonları 50.000 Mil Yol Kat Etti: Taşımacılıkta Yeni Dönem'
+date: '2024-08-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e7c7c3efc2754f0b9fbc112b67a86238~mv2.jpg
+imageAlt: 'Kodiak Robotics''in Otonom Kamyonları 50.000 Mil Yol Kat Etti: Taşımacılıkta Yeni Dönem'
+wixId: def0a84c-c5aa-4896-8e36-de2eafec5e47
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kodiak Robotics
+- otonom kamyon
+- sürücüsüz taşımacılık
+- yapay zeka
+- lojistik teknolojisi
+- J.B. Hunt
+- Bridgestone
 ---
 <p>Autonom sürüş teknolojisinde öne çıkan bir şirket olan Kodiak Robotics, sürücüsüz kamyonlarının toplamda 50.000 mil kat ettiğini açıkladı. Bu başarı, şirketin otonom sürüş teknolojisini gerçek dünya koşullarında nasıl güvenli ve verimli bir şekilde uygulayabildiğini göstermektedir. Kodiak'ın bu kilometre taşı, Bridgestone’un binek araç lastiklerini, South Carolina ile Dallas arasında J.B. Hunt ile yapılan bir anlaşma kapsamında taşırken gerçekleşti. Bu rota, otonom araçların uzun mesafeli taşımacılıkta ne kadar etkili olabileceğini kanıtlayan önemli bir test alanı oldu.</p>
 <p><br></p>

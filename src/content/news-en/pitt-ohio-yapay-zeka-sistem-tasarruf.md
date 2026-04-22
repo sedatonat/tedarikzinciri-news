@@ -1,16 +1,23 @@
 ---
-title: "PITT OHIO Achieves $11 Million in Savings Through AI-Powered System"
-subtitle: "PITT OHIO Achieves $11 Million in Savings Through AI-Powered System"
-date: "2024-11-04T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_45572e24b87c401299989e6c6017ccef~mv2.jpg"
-imageAlt: "PITT OHIO Achieves $11 Million in Savings Through AI-Powered System"
-wixId: "94a4d5df-9378-4786-acf6-fa6ffaad3d02"
-author: "Sedat Onat"
+title: PITT OHIO Achieves $11 Million in Savings Through AI-Powered System
+subtitle: PITT OHIO Achieves $11 Million in Savings Through AI-Powered System
+date: '2024-11-04T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_45572e24b87c401299989e6c6017ccef~mv2.jpg
+imageAlt: PITT OHIO Achieves $11 Million in Savings Through AI-Powered System
+wixId: 94a4d5df-9378-4786-acf6-fa6ffaad3d02
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- PITT OHIO
+- artificial intelligence
+- Maven
+- LTL transportation
+- fleet management
+- digital transformation
+- cost savings
 ---
-
 <p>Pennsylvania-based PITT OHIO has provided less-than-truckload (LTL), warehousing, and full truckload transportation services for more than 40 years. To make its trucking and delivery operations more efficient, the company replaced its legacy systems with an AI-powered enterprise platform. Since the initial launch of this new platform, the company has reported savings exceeding $11 million.</p>
 <p><br></p>
 <p>During the development process of its new system, PITT OHIO aimed to build a data-driven and reliable structure. The system needed to have comprehensive capabilities encompassing dispatching, pickup and delivery information, and the ability to manage all of the company's drivers across the United States. Key requirements for the new platform included automating manual processes, increasing operational efficiency, improving driver productivity and mobility, enabling rapid and accurate information flow between systems, adopting digital processes, providing a user-friendly interface, increasing business volume, improving customer service, maintaining security and compliance standards, recruiting and training high-performing drivers, and modernizing operations with a cloud-based, fast, secure, and reliable system.</p>

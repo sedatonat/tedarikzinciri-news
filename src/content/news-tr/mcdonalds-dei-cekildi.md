@@ -1,14 +1,22 @@
 ---
-title: "McDonald's Tedarik Zincirinde Çeşitlilik Hedeflerini Sonlandırdı"
-subtitle: "McDonald's Tedarik Zincirinde Çeşitlilik Hedeflerini Sonlandırdı"
-date: "2025-01-17T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_472045c141f340de977622b72392f801~mv2.jpg"
-imageAlt: "McDonald's Tedarik Zincirinde Çeşitlilik Hedeflerini Sonlandırdı"
-wixId: "897ba304-ee41-417a-bec0-80238689a5bc"
-author: "Sedat Onat"
+title: McDonald's Tedarik Zincirinde Çeşitlilik Hedeflerini Sonlandırdı
+subtitle: McDonald's Tedarik Zincirinde Çeşitlilik Hedeflerini Sonlandırdı
+date: '2025-01-17T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_472045c141f340de977622b72392f801~mv2.jpg
+imageAlt: McDonald's Tedarik Zincirinde Çeşitlilik Hedeflerini Sonlandırdı
+wixId: 897ba304-ee41-417a-bec0-80238689a5bc
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- McDonald's
+- tedarik zinciri
+- DEI
+- çeşitlilik programı
+- tedarikçi çeşitliliği
+- kurumsal politika
+- sivil haklar
 ---
 <p style="text-align: justify"><strong>McDonald's</strong>, tedarik zincirinde çeşitlilik, eşitlik ve kapsayıcılık (<strong>DEI</strong>) taahhüdünü sonlandırarak, "temsil hedefleri belirleme" uygulamasını bıraktığını duyurdu. Bu karar, 6 Ocak'ta çalışanlara ve tedarikçilere gönderilen ve kamuoyuyla paylaşılan bir mektupta açıklandı.</p>
 <p style="text-align: justify"><br></p>

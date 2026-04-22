@@ -1,14 +1,22 @@
 ---
-title: "Türkiye Demiryolu Altyapısına Çin'den 60 Milyar Dolarlık Yatırım"
-subtitle: "Türkiye Demiryolu Altyapısına Çin'den 60 Milyar Dolarlık Yatırım"
-date: "2025-01-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7221efba04cb491a831b279a3dc756e4~mv2.jpg"
-imageAlt: "Türkiye Demiryolu Altyapısına Çin'den 60 Milyar Dolarlık Yatırım"
-wixId: "59bcce36-21ce-4d33-a20f-622d41ab7d63"
-author: "Sedat Onat"
+title: Türkiye Demiryolu Altyapısına Çin'den 60 Milyar Dolarlık Yatırım
+subtitle: Türkiye Demiryolu Altyapısına Çin'den 60 Milyar Dolarlık Yatırım
+date: '2025-01-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7221efba04cb491a831b279a3dc756e4~mv2.jpg
+imageAlt: Türkiye Demiryolu Altyapısına Çin'den 60 Milyar Dolarlık Yatırım
+wixId: 59bcce36-21ce-4d33-a20f-622d41ab7d63
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Çin yatırımı
+- demiryolu altyapısı
+- Orta Koridor
+- Türkiye
+- CRRC
+- Avrasya trafiği
+- elektrifikasyon
 ---
 <p style="text-align: justify">Türkiye, Avrasya trafiği için önemli bir demiryolu merkezi olma yolunda ilerlemekte ve Orta Koridor'un gelişimi bu hedefe ulaşmada yeni fırsatlar sunmakta. Bu bağlamda, <strong>Çin</strong>, Türkiye'nin demiryolu altyapısına 60 milyar dolarlık bir yatırım yapmayı değerlendirmekte. Bu yatırım, Rusya'yı transit geçmeyen Avrasya trafiği kapasitesini artırmayı amaçlamakta.</p>
 <p><br></p>

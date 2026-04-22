@@ -1,16 +1,24 @@
 ---
-title: "Airbus Launches Broad Investigation into A320 Series Panel Quality Issues"
-subtitle: "Airbus Launches Broad Investigation into A320 Series Panel Quality Issues"
-date: "2025-12-01T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_cc17f1e6d68846bbad7c1e1853026c05~mv2.jpg"
-imageAlt: "Detailed news summary on investigations launched by Airbus due to quality issues in A320 fuselage panels, covering delivery targets, investor impacts, and processes following software problems"
-wixId: "7d04879e-5d21-427a-af39-fb1f530b4aeb"
-author: "Sedat Onat"
+title: Airbus Launches Broad Investigation into A320 Series Panel Quality Issues
+subtitle: Airbus Launches Broad Investigation into A320 Series Panel Quality Issues
+date: '2025-12-01T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_cc17f1e6d68846bbad7c1e1853026c05~mv2.jpg
+imageAlt: Detailed news summary on investigations launched by Airbus due to quality issues in A320 fuselage panels, covering delivery targets, investor impacts, and processes following software problems
+wixId: 7d04879e-5d21-427a-af39-fb1f530b4aeb
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Airbus
+- A320
+- quality issue
+- aviation
+- supply chain
+- production
+- software update
+- delivery
 ---
-
 <p style="text-align: justify"><strong>Airbus SE</strong> is facing a succession of technical challenges with its A320 family aircraft. Just days after the company issued an urgent software update call for approximately <strong>6,000 aircraft</strong>, it has now disclosed quality issues detected in certain <strong>fuselage panels</strong> that form part of the A320's structural body. This development adds further pressure to Airbus's most popular product line and has triggered a sharp decline in the company's share price.</p>
 <p><br></p>
 <p style="text-align: justify">In its statement, Airbus said it was adopting a <strong>"conservative approach"</strong>, placing all potentially affected aircraft under inspection while estimating that only a small fraction would require additional intervention. The company indicated that the root cause of the problem has <strong>been identified and brought under control</strong>, and that newly manufactured panels meet all quality requirements.</p>

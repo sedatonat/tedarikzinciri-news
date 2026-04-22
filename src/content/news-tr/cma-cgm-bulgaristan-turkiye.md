@@ -1,14 +1,23 @@
 ---
-title: "CMA CGM, Bulgaristan Limanları ile Türkiye Arasında Feeder Servisi Başlatıyor"
-subtitle: "CMA CGM, Bulgaristan Limanları ile Türkiye Arasında Feeder Servisi Başlatıyor"
-date: "2025-01-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5c7e9c77c5d94e22843d5b6b48938c3a~mv2.jpg"
-imageAlt: "CMA CGM, Bulgaristan Limanları ile Türkiye Arasında Feeder Servisi Başlatıyor"
-wixId: "ed41080f-6d45-4885-a2a7-673672b95488"
-author: "Sedat Onat"
+title: CMA CGM, Bulgaristan Limanları ile Türkiye Arasında Feeder Servisi Başlatıyor
+subtitle: CMA CGM, Bulgaristan Limanları ile Türkiye Arasında Feeder Servisi Başlatıyor
+date: '2025-01-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5c7e9c77c5d94e22843d5b6b48938c3a~mv2.jpg
+imageAlt: CMA CGM, Bulgaristan Limanları ile Türkiye Arasında Feeder Servisi Başlatıyor
+wixId: ed41080f-6d45-4885-a2a7-673672b95488
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CMA CGM
+- feeder servisi
+- Bulgaristan
+- Türkiye
+- konteyner taşımacılığı
+- Karadeniz
+- Ambarlı
+- Varna
 ---
 <p style="text-align: justify">Fransız konteyner taşımacılığı devi <strong>CMA CGM</strong>, Bulgaristan'ın <strong>Varna</strong> ve <strong>Burgas</strong> limanları ile Türkiye'nin <strong>Ambarlı</strong> ve <strong>Gebze</strong> limanları arasında yeni bir feeder servisi başlatmakta. Bu hizmet, Karadeniz ve Marmara Denizi'ndeki önemli limanları birbirine bağlayarak bölgedeki ticaret hacmini artırmayı hedeflemekte.​</p>
 <p><br></p>

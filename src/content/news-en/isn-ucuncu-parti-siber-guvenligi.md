@@ -1,16 +1,23 @@
 ---
-title: "ISN Enhances Third-Party Cybersecurity Oversight Capabilities"
-subtitle: "ISN Enhances Third-Party Cybersecurity Oversight Capabilities"
-date: "2025-09-04T00:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_e82dff8251ab419c82a387478884afee~mv2.png"
-imageAlt: "ISN Enhances Third-Party Cybersecurity Oversight Capabilities"
-wixId: "155c006f-984b-44e5-b0bd-24e67e87503d"
-author: "Sedat Onat"
+title: ISN Enhances Third-Party Cybersecurity Oversight Capabilities
+subtitle: ISN Enhances Third-Party Cybersecurity Oversight Capabilities
+date: '2025-09-04T00:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_e82dff8251ab419c82a387478884afee~mv2.png
+imageAlt: ISN Enhances Third-Party Cybersecurity Oversight Capabilities
+wixId: 155c006f-984b-44e5-b0bd-24e67e87503d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- ISN
+- cybersecurity
+- supply chain
+- TPRM
+- third-party risk
+- continuous monitoring
+- security frameworks
 ---
-
 <p style="text-align: justify"><strong>Supply Chain Cybersecurity</strong> today cannot be achieved through internal measures alone, but requires effective management of <strong>third-party risks (Third-Party Risk Management – TPRM)</strong>. In this context, new capabilities developed by <strong>ISN</strong> enable much deeper monitoring of <strong>contractor and supplier security posture</strong>. The platform combines <strong>evidence-based attestation</strong>, <strong>policy mapping</strong>, and <strong>continuous monitoring</strong> functions, simultaneously streamlining audit processes and providing ongoing visibility.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Organizations can now gather security data from stakeholders using control checklists aligned with international security frameworks such as <strong>NIST</strong>, <strong>ISO</strong>, and <strong>SSDF</strong>. These data points are analyzed through the platform's <strong>auto-scoring</strong> and <strong>risk heatmap</strong> features, helping to quickly identify high-risk areas. This reduces manual audit burden while significantly accelerating decision-making processes.</p>

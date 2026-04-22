@@ -1,14 +1,23 @@
 ---
-title: "Maersk, Laura Mærsk Üzerinde Etanol–Metanol Çift Yakıt Testlerine Başladı"
-subtitle: "Maersk, Laura Mærsk Üzerinde Etanol–Metanol Çift Yakıt Testlerine Başladı"
-date: "2025-12-05T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_45989e0b1df74ab8bdef8c1efb48721e~mv2.jpg"
-imageAlt: "Maersk’in Laura Mærsk gemisinde 50/50 etanol–metanol karışımıyla başlattığı yeni deneme, E10 test sonuçları, çift yakıtlı metanol motorlarının opsiyon genişlemesi ve çoklu yakıt stratejisinin sektörel etkilerine dair kapsamlı özet"
-wixId: "ea19739a-735b-4c35-8f8b-2fbb5a4c5b7b"
-author: "Sedat Onat"
+title: Maersk, Laura Mærsk Üzerinde Etanol–Metanol Çift Yakıt Testlerine Başladı
+subtitle: Maersk, Laura Mærsk Üzerinde Etanol–Metanol Çift Yakıt Testlerine Başladı
+date: '2025-12-05T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_45989e0b1df74ab8bdef8c1efb48721e~mv2.jpg
+imageAlt: Maersk’in Laura Mærsk gemisinde 50/50 etanol–metanol karışımıyla başlattığı yeni deneme, E10 test sonuçları, çift yakıtlı metanol motorlarının opsiyon genişlemesi ve çoklu yakıt stratejisinin sektörel etkilerine dair kapsamlı özet
+wixId: ea19739a-735b-4c35-8f8b-2fbb5a4c5b7b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Maersk
+- etanol
+- metanol
+- alternatif yakıt
+- dual-fuel
+- konteyner gemisi
+- karbon azaltım
+- Laura Mærsk
 ---
 <p style="text-align: justify"><strong>Maersk</strong>, karbon azaltım stratejisi kapsamında alternatif yakıt teknolojileri üzerindeki çalışmalarını hızlandırarak <strong>Laura Mærsk</strong> üzerinde yeni bir <strong>50/50 ethanol–methanol blend</strong> denemesine başladığını duyurdu. Bu hareket, şirketin Ekim–Kasım döneminde gerçekleştirdiği ve <strong>%10 ethanol – %90 e-methanol (E10)</strong> karışımıyla yapılan ilk testlerin olumlu sonuç vermesinin ardından geldi. İlk denemede amaç, etanolün <strong>dual-fuel methanol engine</strong> üzerinde güvenli biçimde kullanılabilir olup olmadığını belirlemekti. Maersk, testlerin motor performansında herhangi bir olumsuz etki yaratmadığını doğruladı.</p>
 <p><br></p>

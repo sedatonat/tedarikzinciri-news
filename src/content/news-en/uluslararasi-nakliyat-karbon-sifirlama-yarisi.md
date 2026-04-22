@@ -1,16 +1,24 @@
 ---
-title: "The Race to Decarbonize International Shipping"
-subtitle: "The Race to Decarbonize International Shipping"
-date: "2024-03-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1227fd2c1dd74ba38461712841a0fd9c~mv2.jpg"
-imageAlt: "The Race to Decarbonize International Shipping"
-wixId: "e799205d-90d1-4b21-84c7-da0852d9a17a"
-author: "Sedat Onat"
+title: The Race to Decarbonize International Shipping
+subtitle: The Race to Decarbonize International Shipping
+date: '2024-03-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1227fd2c1dd74ba38461712841a0fd9c~mv2.jpg
+imageAlt: The Race to Decarbonize International Shipping
+wixId: e799205d-90d1-4b21-84c7-da0852d9a17a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- carbon emissions
+- maritime transport
+- IMO
+- green fuel
+- Maersk
+- CMA CGM
+- sustainability
+- alternative fuels
 ---
-
 <p>To meet their carbon emission reduction targets in international transport, some maritime carriers and shippers are moving swiftly. The <a href="https://www.imo.org/"><u>International Maritime Organization (IMO)</u></a> has adopted a plan to reduce greenhouse gas (GHG) emissions from ships to net zero by 2050. This strategy involves the use of alternative marine fuels, with a target for 5–10 percent of the energy used by international shipping to come from these fuels by 2030. However, current usage rates fall far short of those targets.</p>
 <p><br></p>
 <p>New regulations that the <a href="https://www.imo.org/"><u>IMO</u></a> will soon introduce will push the sector toward these goals. <a href="https://www.maersk.com/about"><u>A.P. Møller-Maersk</u></a> has accelerated its net zero emissions target from 2050 to 2040 and has invested in 25 ships operating on green methanol. <a href="https://www.maersk.com/about"><u>Maersk</u></a> and other carriers are calling for the cost of transitioning to green fuels to be shared with shippers. Companies like <a href="https://www.dbschenker.com/global"><u>DB Schenker</u></a> and IKEA are also making significant investments in sustainable operations.</p>

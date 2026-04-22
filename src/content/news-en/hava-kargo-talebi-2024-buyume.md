@@ -1,16 +1,23 @@
 ---
-title: "Air Cargo Demand on Track for Double-Digit Growth in 2024"
-subtitle: "Air Cargo Demand on Track for Double-Digit Growth in 2024"
-date: "2024-11-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c1174edf01524e4fb49608ddae791337~mv2.jpg"
-imageAlt: "Air Cargo Demand on Track for Double-Digit Growth in 2024"
-wixId: "10808995-c5c9-423b-be0d-a79e2cd79554"
-author: "Sedat Onat"
+title: Air Cargo Demand on Track for Double-Digit Growth in 2024
+subtitle: Air Cargo Demand on Track for Double-Digit Growth in 2024
+date: '2024-11-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c1174edf01524e4fb49608ddae791337~mv2.jpg
+imageAlt: Air Cargo Demand on Track for Double-Digit Growth in 2024
+wixId: 10808995-c5c9-423b-be0d-a79e2cd79554
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- air cargo
+- Xeneta
+- port strike
+- spot rate
+- load factor
+- North America
+- winter season
 ---
-
 <p>Air cargo demand in 2024 continued to grow at an 11 percent year-on-year rate in October despite disruptions, including dock worker strikes at U.S. East and Gulf Coast ports. According to a report published by Xeneta on October 31, 2024, air cargo volume in October increased 11 percent compared to the previous year. The average air cargo spot price reached $2.68 per kilogram, recording a 19 percent increase on a year-on-year basis. The global dynamic load factor stood at 63 percent; this metric measures the volume and weight of cargo transported against available capacity.</p>
 <p><br></p>
 <p>Niall van de Wouw, Xeneta's Chief Airfreight Officer, noted that last month's market stability was the result of the sector's resilience and preparatory efforts. Van de Wouw said, "Market stability demonstrates the success of the sector's resilience and preparatory work. We are placing greater emphasis on maintaining relationships rather than squeezing every penny of revenue." He also added that even zero growth over the next two months would not prevent the unexpected double-digit demand surge in 2024.</p>

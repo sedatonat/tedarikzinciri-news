@@ -1,14 +1,22 @@
 ---
-title: "O’Reilly Automotive, Tarifelere Karşı Tedarikçi Sağlığını Merkeze Alıyor"
-subtitle: "O’Reilly Automotive, Tarifelere Karşı Tedarikçi Sağlığını Merkeze Alıyor"
-date: "2025-11-03T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_1c48c66c752149bc83966381e128a4b1~mv2.jpg"
-imageAlt: "O’Reilly Automotive, tedarikçi risk yönetimini güçlendirerek finansal sağlamlık, ürün kalitesi, gönderim performansı ve tedarik çeşitlendirmesi üzerinden tarifelerin etkisini azaltmaya odaklanıyor. Çin’e bağımlılık %20’lerin ortasına düşmüş durumda."
-wixId: "9045f7e6-f082-4a8b-8c6b-739731374603"
-author: "Sedat Onat"
+title: O’Reilly Automotive, Tarifelere Karşı Tedarikçi Sağlığını Merkeze Alıyor
+subtitle: O’Reilly Automotive, Tarifelere Karşı Tedarikçi Sağlığını Merkeze Alıyor
+date: '2025-11-03T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_1c48c66c752149bc83966381e128a4b1~mv2.jpg
+imageAlt: O’Reilly Automotive, tedarikçi risk yönetimini güçlendirerek finansal sağlamlık, ürün kalitesi, gönderim performansı ve tedarik çeşitlendirmesi üzerinden tarifelerin etkisini azaltmaya odaklanıyor. Çin’e bağımlılık %20’lerin ortasına düşmüş durumda.
+wixId: 9045f7e6-f082-4a8b-8c6b-739731374603
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- O'Reilly Automotive
+- tedarikçi yönetimi
+- tarifeler
+- tedarik çeşitlendirmesi
+- Çin
+- otomotiv yedek parça
+- risk yönetimi
 ---
 <p style="text-align: justify">ABD’li otomotiv yedek parça devi <strong>O’Reilly Automotive</strong>, ticaret tarifelerinin sektörde yarattığı maliyet baskılarına karşı en önemli savunma hattını <strong>tedarikçi sağlığı</strong> ve <strong>tedarik ağının çeşitlendirilmesi</strong> üzerine kuruyor.</p>
 <p><br></p>

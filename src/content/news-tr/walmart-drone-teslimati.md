@@ -1,14 +1,22 @@
 ---
-title: "Walmart, Drone Teslimatlarını Beş Şehre Yaymayı Hedefliyor"
-subtitle: "Walmart, Drone Teslimatlarını Beş Şehre Yaymayı Hedefliyor"
-date: "2025-06-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_772867ca711f4908b6e75d36712e8102~mv2.png"
-imageAlt: "Walmart, Drone Teslimatlarını Beş Şehre Yaymayı Hedefliyor"
-wixId: "234ed83f-f3f1-49c7-b3f2-c3941c0f8de1"
-author: "Sedat Onat"
+title: Walmart, Drone Teslimatlarını Beş Şehre Yaymayı Hedefliyor
+subtitle: Walmart, Drone Teslimatlarını Beş Şehre Yaymayı Hedefliyor
+date: '2025-06-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_772867ca711f4908b6e75d36712e8102~mv2.png
+imageAlt: Walmart, Drone Teslimatlarını Beş Şehre Yaymayı Hedefliyor
+wixId: 234ed83f-f3f1-49c7-b3f2-c3941c0f8de1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Walmart
+- drone teslimatı
+- son kilometre
+- micro-fulfillment
+- BVLOS
+- perakende lojistiği
+- karbon azaltımı
 ---
 <p style="text-align: justify"><strong>Walmart</strong>, drone teslimat ağını <strong>beş yeni şehre</strong> genişletmeyi planladığını duyurdu. Bu adım, perakende devinin <strong>son kilometre teslimatında hız, erişim ve sürdürülebilirlik</strong> ekseninde yürüttüğü stratejinin yeni bir fazını temsil ediyor. Girişim, <strong>micro-fulfillment merkezleri</strong>, <strong>drone docks</strong> ve <strong>appointment APIs</strong> ile entegre çalışarak teslimat süreçlerini optimize etmeyi hedefliyor.</p>
 <p style="text-align: justify"><br></p>

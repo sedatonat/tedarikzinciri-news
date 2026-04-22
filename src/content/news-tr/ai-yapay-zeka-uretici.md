@@ -1,14 +1,22 @@
 ---
-title: "Üreticilerde Tedarik Zinciri Yönetiminde Yapay Zekâ Kullanımı"
-subtitle: "Üreticilerde Tedarik Zinciri Yönetiminde Yapay Zekâ Kullanımı"
-date: "2025-04-30T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_555f7a8151cf4212a23f57dda7907e49~mv2.png"
-imageAlt: "Üreticilerde Tedarik Zinciri Yönetiminde Yapay Zekâ Kullanımı"
-wixId: "7d1f3376-600e-4bb7-bb20-6ca41a54f243"
-author: "Sedat Onat"
+title: Üreticilerde Tedarik Zinciri Yönetiminde Yapay Zekâ Kullanımı
+subtitle: Üreticilerde Tedarik Zinciri Yönetiminde Yapay Zekâ Kullanımı
+date: '2025-04-30T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_555f7a8151cf4212a23f57dda7907e49~mv2.png
+imageAlt: Üreticilerde Tedarik Zinciri Yönetiminde Yapay Zekâ Kullanımı
+wixId: 7d1f3376-600e-4bb7-bb20-6ca41a54f243
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- yapay zeka
+- tedarik zinciri yönetimi
+- üretim
+- talep tahmini
+- öngörülü bakım
+- stok optimizasyonu
+- otomasyon
 ---
 <p style="text-align: justify"><strong>Üreticiler</strong>, tedarik zinciri yönetiminde <strong>yapay zekâ (AI)</strong> uygulamalarını hızla ölçeklendirmekte. Artık hedef, yalnızca veri toplamak değil; bu veriyi <strong>öngörü, optimizasyon ve otomasyon</strong> yoluyla doğrudan operasyonel değere dönüştürmek. AI’nin etkisi, üretimden dağıtıma kadar pek çok alanda hissediliyor.</p>
 <p style="text-align: justify"><br></p>

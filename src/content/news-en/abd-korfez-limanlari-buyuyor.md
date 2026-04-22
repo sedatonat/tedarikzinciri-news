@@ -1,16 +1,23 @@
 ---
-title: "U.S. Gulf Coast Ports Expand to Handle Continued Volume Growth"
-subtitle: "U.S. Gulf Coast Ports Expand to Handle Continued Volume Growth"
-date: "2024-12-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3fa61acaf9fa4443963f49169d2d7345~mv2.jpg"
-imageAlt: "U.S. Gulf Coast Ports Expand to Handle Continued Volume Growth"
-wixId: "711c7646-9052-467a-9e64-d59f3ab7affe"
-author: "Sedat Onat"
+title: U.S. Gulf Coast Ports Expand to Handle Continued Volume Growth
+subtitle: U.S. Gulf Coast Ports Expand to Handle Continued Volume Growth
+date: '2024-12-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3fa61acaf9fa4443963f49169d2d7345~mv2.jpg
+imageAlt: U.S. Gulf Coast Ports Expand to Handle Continued Volume Growth
+wixId: 711c7646-9052-467a-9e64-d59f3ab7affe
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Gulf Coast ports
+- Port of Houston
+- port expansion
+- container imports
+- infrastructure investment
+- supply chain
+- U.S. ports
 ---
-
 <p>U.S. Gulf Coast ports experienced growth in cargo volumes in 2024 due to stronger-than-expected consumer spending and the threat of port worker strikes. This trend is expected to continue through 2025. New port infrastructure projects in the region will help maintain fluidity over the coming year.</p>
 <p><br></p>
 <p>The <strong>Port of Houston</strong>, the region's preferred transit point, recorded a 9.3% increase in container imports during the first 11 months of 2024.</p>

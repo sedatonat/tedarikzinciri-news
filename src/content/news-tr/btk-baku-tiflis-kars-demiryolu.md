@@ -1,14 +1,22 @@
 ---
-title: "Gürcistan, BTK Hattını Güçlendirecek Yeni Terminal ve Dijital Gümrük Planlarını Açıkladı"
-subtitle: "Gürcistan, BTK Hattını Güçlendirecek Yeni Terminal ve Dijital Gümrük Planlarını Açıkladı"
-date: "2025-10-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a498628229014d198011ae2a7467696b~mv2.jpg"
-imageAlt: "Gürcistan, BTK Hattını Güçlendirecek Yeni Terminal ve Dijital Gümrük Planlarını Açıkladı"
-wixId: "4ae21c84-9210-48eb-b52e-0eb44e8fe1c4"
-author: "Sedat Onat"
+title: Gürcistan, BTK Hattını Güçlendirecek Yeni Terminal ve Dijital Gümrük Planlarını Açıkladı
+subtitle: Gürcistan, BTK Hattını Güçlendirecek Yeni Terminal ve Dijital Gümrük Planlarını Açıkladı
+date: '2025-10-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a498628229014d198011ae2a7467696b~mv2.jpg
+imageAlt: Gürcistan, BTK Hattını Güçlendirecek Yeni Terminal ve Dijital Gümrük Planlarını Açıkladı
+wixId: 4ae21c84-9210-48eb-b52e-0eb44e8fe1c4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- BTK hattı
+- Gürcistan Demiryolları
+- Orta Koridor
+- dijital gümrük
+- Akhalkalaki terminali
+- demiryolu taşımacılığı
+- yeşil lojistik
 ---
 <p style="text-align: justify"><strong>Gürcistan Demiryolları (Georgian Railways)</strong>, <strong>Bakü–Tiflis–Kars (BTK) Demiryolu Hattı</strong> üzerindeki taşımacılığı artırmak amacıyla kapsamlı bir modernizasyon programı başlattığını duyurdu.</p>
 <p><br>

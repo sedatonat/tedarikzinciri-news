@@ -1,14 +1,21 @@
 ---
-title: "Tedarik Zincirinde Kaynak Kısıtlamalarını Yönetmenin Üç Adımı"
-subtitle: "Tedarik Zincirinde Kaynak Kısıtlamalarını Yönetmenin Üç Adımı"
-date: "2024-06-11T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_7e459351a3b347af843c8ff78a098f4b~mv2.png"
-imageAlt: "Tedarik Zincirinde Kaynak Kısıtlamalarını Yönetmenin Üç Adımı"
-wixId: "3ec19506-4f37-4dad-b372-314c76f81b3f"
-author: "Sedat Onat"
+title: Tedarik Zincirinde Kaynak Kısıtlamalarını Yönetmenin Üç Adımı
+subtitle: Tedarik Zincirinde Kaynak Kısıtlamalarını Yönetmenin Üç Adımı
+date: '2024-06-11T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_7e459351a3b347af843c8ff78a098f4b~mv2.png
+imageAlt: Tedarik Zincirinde Kaynak Kısıtlamalarını Yönetmenin Üç Adımı
+wixId: 3ec19506-4f37-4dad-b372-314c76f81b3f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Gartner
+- kaynak kısıtlamaları
+- tedarik zinciri yönetimi
+- risk yönetimi
+- sürdürülebilirlik
+- paydaş yönetimi
 ---
 <p>Gartner Inc.'in yeni araştırmasına göre, tedarik zinciri ve satın alma liderleri, uzun vadeli zorluklar yerine işletmenin hayatta kalmasını tehdit eden acil risklere odaklanarak kaynak kısıtlamalarını daha iyi yönetebilirler. Bu bulgular, önde gelen tedarik zincirlerinin, paydaşları acil ve somut sorunlara odaklanarak harekete geçirdiğini göstermektedir. Paradoksal olarak, bu yaklaşım, uzun vadeli kısıtlamaları doğrudan ele almaktan daha etkili olabilmektedir.</p>
 <p><br></p>

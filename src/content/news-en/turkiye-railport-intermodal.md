@@ -1,16 +1,24 @@
 ---
-title: "Turkey Launches First Intermodal Terminal Railport"
-subtitle: "Turkey Launches First Intermodal Terminal Railport"
-date: "2025-12-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6f1e6f4f18bc4fa4a03d60215c87c961~mv2.jpg"
-imageAlt: "Turkey's first intermodal terminal Railport commencing operations in Kartepe, the duisport–Arkas partnership, Marmara and Middle Corridor connections, and detailed overview of implications for Turkey's role as a Europe–Asia logistics bridge"
-wixId: "6dba52e7-3dde-4ba6-b514-3560f05b5b27"
-author: "Sedat Onat"
+title: Turkey Launches First Intermodal Terminal Railport
+subtitle: Turkey Launches First Intermodal Terminal Railport
+date: '2025-12-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_6f1e6f4f18bc4fa4a03d60215c87c961~mv2.jpg
+imageAlt: Turkey's first intermodal terminal Railport commencing operations in Kartepe, the duisport–Arkas partnership, Marmara and Middle Corridor connections, and detailed overview of implications for Turkey's role as a Europe–Asia logistics bridge
+wixId: 6dba52e7-3dde-4ba6-b514-3560f05b5b27
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Railport
+- intermodal terminal
+- duisport
+- Arkas
+- Middle Corridor
+- BTK line
+- rail transport
+- Kartepe
 ---
-
 <p style="text-align: justify"><strong>Railport</strong>, regarded as a structural turning point for Turkey's logistics sector, has officially commenced operations as the country's <strong>first intermodal terminal</strong>. Located in <strong>Kartepe</strong>, approximately <strong>130 kilometres east</strong> of Istanbul, the facility operates with freight trains, containers, trucks, and <strong>high-bay warehouse</strong> infrastructure. The terminal's inauguration represents strategic expansion not only for Turkey but also for <strong>Port of Duisburg (duisport)</strong>, Europe's largest inland port.</p>\n<p><br></p>\n<p style="text-align: justify"><strong>Railport</strong> was established as a joint venture between <strong>duisport</strong> and Turkey-based <strong>Arkas</strong> group. This partnership represents <strong>the largest foreign investment</strong> in the history of <strong>Duisburger Hafen AG</strong>. In the partnership model, Arkas contributes local market knowledge, operational experience, and its domestic network, while duisport integrates its <strong>intermodal network</strong> established across Europe and globally, terminal operations expertise, and international connectivity capabilities into the project.</p>\n<p><br></p>\n<h3 style="text-align: justify"><strong>Strategic Location: The Logistics Heart of Marmara</strong></h3>\n<p style="text-align: justify">Railport's positioning in Kartepe establishes the facility with direct connections to <strong>the Marmara Region's industrial centers</strong>, ports, and road-rail networks. The region hosts Turkey's most concentrated industrial clusters in automotive, chemicals, machinery, and consumer goods manufacturing. Railport is designed as a critical junction point connecting these production centers to <strong>European, Central Asian, and Far Eastern</strong> trade routes.</p>\n<p><br></p>\n<p style="text-align: justify">The terminal's proximity to the <strong>Marmaray Tunnel</strong> enables <strong>seamless cargo transit</strong> between Europe and Asia. This infrastructure allows trains to conduct intercontinental transport without requiring additional transshipment at the Straits crossing. This characteristic transforms Railport into not merely a terminal, but a <strong>transcontinental logistics bridge</strong>.</p>\n<p><br></p>\n<h3 style="text-align: justify"><strong>Middle Corridor and BTK Connections</strong></h3>\n<p style="text-align: justify">One of Railport's most critical advantages is its integration with the <strong>BTK line (Baku–Tbilisi–Akhalkalaki)</strong> and <strong>Middle Corridor</strong>. Through these connections, the terminal provides direct access to rail freight services between:</p>\n<ul>\n  <li style="text-align: justify"><p style="text-align: justify"><strong>Central Asia</strong>,</p></li>\n  <li style="text-align: justify"><p style="text-align: justify"><strong>China</strong>,</p></li>\n  <li style="text-align: justify"><p style="text-align: justify"><strong>Southeast Asia</strong>,</p></li>\n  <li style="text-align: justify"><p style="text-align: justify"><strong>Europe</strong></p></li>\n</ul>\n<p style="text-align: justify">Given the recent trends of <strong>nearshoring</strong>, <strong>friendshoring</strong>, and <strong>network diversification</strong>, Turkey's role across these corridors is increasingly strengthening. Railport stands out as one of the concrete projects representing the physical infrastructure of this transformation.</p>\n<p style="text-align: justify"><br></p>\n<p><strong>Duisport CEO Markus Bangen</strong>, in remarks regarding Railport's opening, emphasized Turkey's strategic importance as follows:<br>
  <strong>"The Republic of Türkiye is a key hub for supply chains between Europe and Asia. Railport establishes a strategic bridgehead for international trade, strengthening global network stability."</strong></p>\n<p><br>
 According to Bangen, the facility enhances supply chain resilience for both German industry and the Turkish market.</p>\n<p><br></p>\n<h3 style="text-align: justify"><strong>Operational Capacity and Services</strong></h3>\n<p style="text-align: justify">Railport has been developed across an area of <strong>265,000 m²</strong>. The terminal is reported to have an annual capacity of <strong>125,000 trailers</strong>. The facility provides:</p>\n<ul>\n  <li style="text-align: justify"><p style="text-align: justify"><strong>on-site customs</strong>,</p></li>\n  <li style="text-align: justify"><p style="text-align: justify"><strong>storage</strong>,</p></li>\n  <li style="text-align: justify"><p style="text-align: justify"><strong>CFS (Container Freight Station)</strong> services</p></li>\n</ul>\n<p style="text-align: justify">This structure enables cargo to be processed in a rapid, <strong>cost-efficient</strong>, and integrated manner. Through its intermodal structure, customers can flexibly utilize <strong>rail + road</strong> combinations.</p>\n<p><br></p>\n<p style="text-align: justify">Arkas Port and Terminal Services Chairman <strong>Özgür Kalelioğlu</strong> summarized the project's significance as follows:<br>

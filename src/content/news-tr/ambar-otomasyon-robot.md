@@ -1,14 +1,22 @@
 ---
-title: "Depo Robotları, İş Gücü Açığını Kapatmada Kritik Rol Üstleniyor"
-subtitle: "Depo Robotları, İş Gücü Açığını Kapatmada Kritik Rol Üstleniyor"
-date: "2025-12-10T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_d4f1bcc003a7411c8d89454dd61180b1~mv2.jpg"
-imageAlt: "ABD’de süregelen depo iş gücü açığı karşısında AMR, AGV ve AI destekli otomasyon çözümlerinin verimlilik, güvenlik ve ölçeklenebilirlik sağlayarak e-ticaret fulfillment operasyonlarını dönüştürmesine dair kapsamlı analiz"
-wixId: "856ad8db-2689-4bac-a1dd-a1c2862a6a29"
-author: "Sedat Onat"
+title: Depo Robotları, İş Gücü Açığını Kapatmada Kritik Rol Üstleniyor
+subtitle: Depo Robotları, İş Gücü Açığını Kapatmada Kritik Rol Üstleniyor
+date: '2025-12-10T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_d4f1bcc003a7411c8d89454dd61180b1~mv2.jpg
+imageAlt: ABD’de süregelen depo iş gücü açığı karşısında AMR, AGV ve AI destekli otomasyon çözümlerinin verimlilik, güvenlik ve ölçeklenebilirlik sağlayarak e-ticaret fulfillment operasyonlarını dönüştürmesine dair kapsamlı analiz
+wixId: 856ad8db-2689-4bac-a1dd-a1c2862a6a29
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- depo robotları
+- iş gücü açığı
+- depo otomasyonu
+- AMR
+- e-ticaret
+- warehouse robotics
+- otonom mobil robot
 ---
 <p style="text-align: justify">E-ticaret hacimleri artmaya devam ederken, bu büyümeyi taşıyacak <strong>depo iş gücü</strong> aynı hızda genişlememekte. ABD genelinde faaliyet gösteren depo ve dağıtım merkezleri, yüz binlerce açık pozisyonu doldurmakta zorlanmakta. <strong>Descartes</strong> tarafından yayımlanan 2024 tarihli bir araştırmaya göre, <strong>tedarik zinciri ve lojistik operasyonlarının %76’sı</strong> ciddi iş gücü eksikliği yaşamakta; en ağır darbe ise <strong>warehouse operations</strong> tarafında görülmekte. Bu tesislerin <strong>%56’sı</strong>, doğrudan personel açığı bildirmekte.</p>
 <p><br></p>

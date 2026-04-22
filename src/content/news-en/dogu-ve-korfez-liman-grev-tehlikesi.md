@@ -1,14 +1,21 @@
 ---
-title: "Strike Threat Looms Over East and Gulf Coast Ports: Window for Deal Narrows"
-subtitle: "Strike Threat Looms Over East and Gulf Coast Ports: Window for Deal Narrows"
-date: "2024-05-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_317fa8b66eb24ea0b1a12fbc5c97a2f9~mv2.jpg"
-imageAlt: "Strike Threat Looms Over East and Gulf Coast Ports: Window for Deal Narrows"
-wixId: "58243deb-43c4-43a2-806a-1cf97e4ee3ea"
-author: "Sedat Onat"
+title: 'Strike Threat Looms Over East and Gulf Coast Ports: Window for Deal Narrows'
+subtitle: 'Strike Threat Looms Over East and Gulf Coast Ports: Window for Deal Narrows'
+date: '2024-05-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_317fa8b66eb24ea0b1a12fbc5c97a2f9~mv2.jpg
+imageAlt: 'Strike Threat Looms Over East and Gulf Coast Ports: Window for Deal Narrows'
+wixId: 58243deb-43c4-43a2-806a-1cf97e4ee3ea
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- port strike
+- East Coast
+- Gulf Coast
+- ILA
+- port workers
+- container imports
+- collective bargaining agreement
 ---
-
 <p>A six-year labor contract covering port workers at East and Gulf Coast ports is set to expire on September 30. According to a joint statement from workers' and employers' representatives, local-level negotiations are expected to begin shortly and be completed by Friday.&nbsp;</p>\n<p><br></p>\n<p>The ILA, with 85,000 members, and the United States Maritime Alliance (USMX) have expressed their determination to reach a new agreement before the contract expires. Both sides hope to build on the successes achieved during the 2012 and 2018 master contract negotiations, periods during which no disruptions or delays occurred.&nbsp;</p>\n<p><br></p>\n<p>However, ILA President Harold J. Daggett has cautioned ILA locals to prepare for a strike should an agreement not be reached, and made clear that the current contract will not be extended.&nbsp;</p>\n<p><br></p>\n<p>Jess Dankert of the Retail Industry Leaders Association stated that East and Gulf Coast ports handle 13 million containers of imports annually, accounting for up to 56 percent of total U.S. import containers.&nbsp;</p>\n<p><br></p>\n<p>Dankert noted that the ILA has not struck since 1977, but characterized the current situation as less turbulent than past contract negotiations at West Coast ports.&nbsp;</p>\n<p><br></p>\n<p>Companies have already begun taking precautions to mitigate potential delays and costs in the event of a strike.</p>\n<p><br></p>\n<h5>Key Points</h5>\n<ol>\n  <li><p>The six-year labor contract for port workers at East and Gulf Coast ports expires on September 30.</p></li>\n  <li><p>The ILA and USMX are committed to reaching a new agreement before the contract's expiration date.</p></li>\n  <li><p>The ILA has not struck since 1977, but is preparing to do so if an agreement is not reached.</p></li>\n  <li><p>East and Gulf Coast ports account for a significant portion of U.S. imports.</p></li>\n  <li><p>Retailers are already taking steps to minimize the impact of potential port disruptions.</p></li>\n</ol>\n<p><br></p>\n<p><br></p>\n<p><strong>News Link:</strong> <a href="https://www.supplychaindive.com/news/east-coast-gulf-coast-port-union-negotiations-ila-usmx/716372/"><u>https://www.supplychaindive.com/news/east-coast-gulf-coast-port-union-negotiations-ila-usmx/716372/</u></a></p>

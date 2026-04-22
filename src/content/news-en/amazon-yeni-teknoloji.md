@@ -1,16 +1,23 @@
 ---
-title: "Amazon Introduces Three New Technologies Strengthening Its Warehouse and Delivery Network"
-subtitle: "Amazon Introduces Three New Technologies Strengthening Its Warehouse and Delivery Network"
-date: "2025-10-27T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_14e2be769e194e009e718db6832250ea~mv2.jpg"
-imageAlt: "Amazon aims to increase efficiency in warehouse and delivery operations with Blue Jay, a multi-armed robotic system, Project Eluna, an autonomous AI model, and smart delivery glasses."
-wixId: "8abe9cae-11e8-44f7-8a43-b4a22ddfb67d"
-author: "Sedat Onat"
+title: Amazon Introduces Three New Technologies Strengthening Its Warehouse and Delivery Network
+subtitle: Amazon Introduces Three New Technologies Strengthening Its Warehouse and Delivery Network
+date: '2025-10-27T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_14e2be769e194e009e718db6832250ea~mv2.jpg
+imageAlt: Amazon aims to increase efficiency in warehouse and delivery operations with Blue Jay, a multi-armed robotic system, Project Eluna, an autonomous AI model, and smart delivery glasses.
+wixId: 8abe9cae-11e8-44f7-8a43-b4a22ddfb67d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Amazon
+- warehouse automation
+- artificial intelligence
+- delivery technology
+- robotic system
+- Blue Jay
+- smart glasses
 ---
-
 <p style="text-align: justify"><strong>Amazon</strong> has unveiled three new technologies designed to transform its <strong>fulfillment and delivery operations</strong>: <strong>Blue Jay</strong>, <strong>Project Eluna</strong>, and <strong>smart delivery glasses</strong>. The company aims to use these innovations to <strong>boost efficiency</strong>, <strong>reduce repetitive tasks</strong>, and <strong>accelerate delivery speeds</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">These three systems represent a continuation of Amazon's technological initiatives throughout 2025. The company has also developed <strong>next-generation robotic systems</strong>, <strong>demand forecasting algorithms</strong>, and <strong>dynamic mapping solutions</strong> this year.</p>

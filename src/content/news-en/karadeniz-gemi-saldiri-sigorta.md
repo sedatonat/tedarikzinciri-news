@@ -1,16 +1,24 @@
 ---
-title: "Black Sea War Insurance Premiums Surge 250%: Ship Attacks Escalate Regional Risks"
-subtitle: "Black Sea War Insurance Premiums Surge 250%: Ship Attacks Escalate Regional Risks"
-date: "2025-12-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_fed46065883b40acbd71286d756df46b~mv2.jpg"
-imageAlt: "Following Ukraine's attacks on Russia-linked vessels, war-risk insurance premiums in the Black Sea have tripled, detailed summary of shadow fleet impacts, regional security risks, and supply chain consequences"
-wixId: "cbd2ddf5-fddb-44ca-b714-866961b4784d"
-author: "Sedat Onat"
+title: 'Black Sea War Insurance Premiums Surge 250%: Ship Attacks Escalate Regional Risks'
+subtitle: 'Black Sea War Insurance Premiums Surge 250%: Ship Attacks Escalate Regional Risks'
+date: '2025-12-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_fed46065883b40acbd71286d756df46b~mv2.jpg
+imageAlt: Following Ukraine's attacks on Russia-linked vessels, war-risk insurance premiums in the Black Sea have tripled, detailed summary of shadow fleet impacts, regional security risks, and supply chain consequences
+wixId: cbd2ddf5-fddb-44ca-b714-866961b4784d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Black Sea
+- war insurance
+- ship attacks
+- shadow fleet
+- Ukraine
+- Russia
+- maritime transport
+- supply chain risk
 ---
-
 <p style="text-align: justify">Maritime transport risks in the Black Sea have escalated dramatically as of December 2025. <strong>Bloomberg</strong>'s latest analysis reveals that <strong>war-risk insurance</strong> prices in the region have surged sharply following Ukraine's attacks on Moscow-linked vessels. According to data from <strong>Marsh</strong>, the world's largest insurance broker, war insurance rates for ships calling at Russian ports have climbed from the previous <strong>0.25–0.30%</strong> band to <strong>1%</strong> — representing a <strong>surge of more than 250%</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">Ukraine announced last week that it had attacked two vessels belonging to Russia's <strong>shadow fleet</strong>, the clandestine tanker fleet used to circumvent sanctions. Two additional attacks on Moscow-linked vessels followed. These incidents further complicate an already fragile security environment in the Black Sea.</p>

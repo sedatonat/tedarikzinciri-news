@@ -1,16 +1,24 @@
 ---
-title: "Supply Chain Risks and Anti-Fragility Strategy for 2025"
-subtitle: "Supply Chain Risks and Anti-Fragility Strategy for 2025"
-date: "2025-03-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e105317a067d4392bda3d596b542f32e~mv2.jpg"
-imageAlt: "2025 Supply Chain Risks and Anti-Fragility Strategy: Visibility, Data and Flexible Contracts Come to the Fore"
-wixId: "46c20a5d-688c-4cff-8104-9a38c1e5478b"
-author: "Sedat Onat"
+title: Supply Chain Risks and Anti-Fragility Strategy for 2025
+subtitle: Supply Chain Risks and Anti-Fragility Strategy for 2025
+date: '2025-03-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e105317a067d4392bda3d596b542f32e~mv2.jpg
+imageAlt: '2025 Supply Chain Risks and Anti-Fragility Strategy: Visibility, Data and Flexible Contracts Come to the Fore'
+wixId: 46c20a5d-688c-4cff-8104-9a38c1e5478b
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- supply chain risks
+- anti-fragile strategy
+- Maersk
+- geopolitical risk
+- AI logistics
+- ESG emissions
+- cybersecurity
+- nearshoring
 ---
-
 <p style="text-align: justify"><strong>A.P. Moller-Maersk</strong> data shows that in 2024, <strong>more than 76% of European shippers</strong> experienced supply chain disruptions, with <strong>1 in 3 companies</strong> struggling to source materials required for production. As 2025 approaches with similar conditions, businesses are shifting from <strong>avoiding risk</strong> toward <strong>embracing risk with anti-fragile</strong> structures. Pure <strong>risk avoidance</strong> strategies are giving way to <strong>proactive, agile, and adaptive risk management</strong>; because <strong>lack of visibility</strong> and <strong>insufficient risk intelligence</strong> create new hazards ranging from cost increases to damage to customer-supplier relationships. Below are the <strong>top 10 risks</strong> to monitor and key actions for each.</p>
 <p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>1) Geopolitical Risk:&nbsp;</strong></h5>

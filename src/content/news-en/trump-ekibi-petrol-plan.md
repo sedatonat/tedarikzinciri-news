@@ -1,16 +1,24 @@
 ---
-title: "Trump Team Readies Oil Sanctions Plan for Russia Deal and Iran Squeeze"
-subtitle: "Trump Team Readies Oil Sanctions Plan for Russia Deal and Iran Squeeze"
-date: "2025-01-16T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_5f0fb1901e624c24b1e9b4a3ccd32341~mv2.jpg"
-imageAlt: "Trump Team Readies Oil Sanctions Plan for Russia Deal and Iran Squeeze"
-wixId: "1883bfab-e2e6-4ecc-ad7e-e6b6dab7cd14"
-author: "Sedat Onat"
+title: Trump Team Readies Oil Sanctions Plan for Russia Deal and Iran Squeeze
+subtitle: Trump Team Readies Oil Sanctions Plan for Russia Deal and Iran Squeeze
+date: '2025-01-16T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_5f0fb1901e624c24b1e9b4a3ccd32341~mv2.jpg
+imageAlt: Trump Team Readies Oil Sanctions Plan for Russia Deal and Iran Squeeze
+wixId: 1883bfab-e2e6-4ecc-ad7e-e6b6dab7cd14
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- oil sanctions
+- Trump
+- Russia
+- Iran
+- Venezuela
+- Brent crude prices
+- Scott Bessent
+- Ukraine war
 ---
-
 <p style="text-align: justify">President-elect <strong>Donald Trump</strong>'s advisers are developing a comprehensive sanctions strategy aimed at facilitating a Russia-Ukraine diplomatic deal while simultaneously exerting pressure on <strong>Iran</strong> and <strong>Venezuela</strong>.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">The outgoing <strong>Biden</strong> administration imposed its harshest sanctions on Russian oil trade last Friday. This move raises questions about Trump's view of these measures, given his commitment to rapidly ending the war in Ukraine.</p>

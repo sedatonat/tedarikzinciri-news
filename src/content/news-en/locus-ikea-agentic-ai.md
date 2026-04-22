@@ -1,16 +1,23 @@
 ---
-title: "Locus CEO: How IKEA Acquisition and Agentic AI Are Transforming the Future of Delivery"
-subtitle: "Locus CEO: How IKEA Acquisition and Agentic AI Are Transforming the Future of Delivery"
-date: "2025-11-11T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_3270cf5633e445c6bded87435302c470~mv2.jpg"
-imageAlt: "Locus CEO Nishith Rastogi explains the company's global logistics OS vision following its acquisition by Ingka Group, IKEA's parent company, discussing how agentic AI is transforming delivery networks, innovations such as tandem deliveries and route optimization, and the \"dynamic supply chains\" AI will create in the future."
-wixId: "00951180-b809-4eb9-8439-5086f68de82c"
-author: "Sedat Onat"
+title: 'Locus CEO: How IKEA Acquisition and Agentic AI Are Transforming the Future of Delivery'
+subtitle: 'Locus CEO: How IKEA Acquisition and Agentic AI Are Transforming the Future of Delivery'
+date: '2025-11-11T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_3270cf5633e445c6bded87435302c470~mv2.jpg
+imageAlt: Locus CEO Nishith Rastogi explains the company's global logistics OS vision following its acquisition by Ingka Group, IKEA's parent company, discussing how agentic AI is transforming delivery networks, innovations such as tandem deliveries and route optimization, and the "dynamic supply chains" AI will create in the future.
+wixId: 00951180-b809-4eb9-8439-5086f68de82c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Locus
+- IKEA
+- agentic AI
+- last mile delivery
+- route optimization
+- logistics technology
+- artificial intelligence
 ---
-
 <p style="text-align: justify">Ingka Group's (IKEA Retail's parent company) acquisition of Locus marks a new era in last-mile delivery technology. CEO <strong>Nishith Rastogi</strong> says the acquisition is "a strategic move that accelerates Locus's long-term vision," and the company will maintain operational independence while continuing to grow globally.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>IKEA's strategy: A single global logistics operating system</strong></h4>

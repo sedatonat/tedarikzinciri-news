@@ -1,14 +1,22 @@
 ---
-title: "Kırgızistan'ın Yeni Demiryolu Planları: Çin-Kırgızistan-Özbekistan Hattı ve Ötesi"
-subtitle: "Kırgızistan'ın Yeni Demiryolu Planları: Çin-Kırgızistan-Özbekistan Hattı ve Ötesi"
-date: "2025-03-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9457a4db012c4e46b2e2ecb17cc7ef84~mv2.jpg"
-imageAlt: "Kırgızistan'ın Yeni Demiryolu Planları: Çin-Kırgızistan-Özbekistan Hattı ve Ötesi"
-wixId: "67b0eeda-548d-416e-a79a-71303942c1e9"
-author: "Sedat Onat"
+title: 'Kırgızistan''ın Yeni Demiryolu Planları: Çin-Kırgızistan-Özbekistan Hattı ve Ötesi'
+subtitle: 'Kırgızistan''ın Yeni Demiryolu Planları: Çin-Kırgızistan-Özbekistan Hattı ve Ötesi'
+date: '2025-03-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_9457a4db012c4e46b2e2ecb17cc7ef84~mv2.jpg
+imageAlt: 'Kırgızistan''ın Yeni Demiryolu Planları: Çin-Kırgızistan-Özbekistan Hattı ve Ötesi'
+wixId: 67b0eeda-548d-416e-a79a-71303942c1e9
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kırgızistan
+- demiryolu
+- Çin-Kırgızistan-Özbekistan
+- Orta Asya
+- altyapı projesi
+- ticaret koridoru
+- Özbekistan
 ---
 <p style="text-align: justify">Kırgızistan, <strong>Çin-Kırgızistan-Özbekistan (CKU) Demiryolu</strong> projesinin inşasına başlamasının ardından, bölgesel ulaşım ağını daha da genişletmek amacıyla yeni demiryolu projeleri planlıyor. Bu projeler, ülkenin jeopolitik konumunu güçlendirmeyi ve Orta Asya'daki ticaret yollarını çeşitlendirmeyi hedefliyor.​</p>
 <p><br></p>

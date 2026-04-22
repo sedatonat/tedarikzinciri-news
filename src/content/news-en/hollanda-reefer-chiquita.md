@@ -1,16 +1,24 @@
 ---
-title: "Dutch Container Merchants Signs 1,000-Unit High-Tech Refrigerated Container Agreement with Chiquita"
-subtitle: "Dutch Container Merchants Signs 1,000-Unit High-Tech Refrigerated Container Agreement with Chiquita"
-date: "2025-10-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_dccd095a31c34b02905b6c5c78ebb3ff~mv2.jpeg"
-imageAlt: "Dutch Container Merchants (DCM) has signed a supply agreement with Chiquita, the world's largest banana producer, for 1,000 units of 40HC Reefer containers. The new containers will be equipped with Carrier Transicold OptimaLine cooling systems and Controlled Atmosphere (CA) technology to increase energy efficiency."
-wixId: "0afa4b0d-584e-4250-a56a-b59f5d7ad4ba"
-author: "Sedat Onat"
+title: Dutch Container Merchants Signs 1,000-Unit High-Tech Refrigerated Container Agreement with Chiquita
+subtitle: Dutch Container Merchants Signs 1,000-Unit High-Tech Refrigerated Container Agreement with Chiquita
+date: '2025-10-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_dccd095a31c34b02905b6c5c78ebb3ff~mv2.jpeg
+imageAlt: Dutch Container Merchants (DCM) has signed a supply agreement with Chiquita, the world's largest banana producer, for 1,000 units of 40HC Reefer containers. The new containers will be equipped with Carrier Transicold OptimaLine cooling systems and Controlled Atmosphere (CA) technology to increase energy efficiency.
+wixId: 0afa4b0d-584e-4250-a56a-b59f5d7ad4ba
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- refrigerated container
+- Dutch Container Merchants
+- Chiquita
+- energy efficiency
+- Controlled Atmosphere
+- cold chain
+- sustainable logistics
+- Carrier Transicold
 ---
-
 <p style="text-align: justify"><strong>Dutch Container Merchants (DCM), a Netherlands-based container leasing and trading company,</strong> announced it has signed a supply agreement with <strong>Chiquita Brands International</strong> for <strong>1,000 next-generation refrigerated containers (reefer).</strong> This partnership is regarded as the final piece of <strong>Chiquita's strategy to build an energy-efficient container fleet.</strong></p>
 <p><br></p>
 <p style="text-align: justify">Under the agreement, the containers to be delivered will be <strong>40 feet high cube (40HC)</strong> in size and will be equipped with <strong>Carrier Transicold Container Refrigeration OptimaLine</strong> cooling systems and <strong>Controlled Atmosphere (CA)</strong> technology. This system aims to <strong>extend product shelf life while reducing energy consumption.</strong></p>

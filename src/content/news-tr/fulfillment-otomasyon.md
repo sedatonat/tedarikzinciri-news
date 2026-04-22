@@ -1,14 +1,22 @@
 ---
-title: "Hızlı Piyasada E‑Ticaret Fulfillment Otomasyonu Yeniden Düşünülmekte"
-subtitle: "Hızlı Piyasada E‑Ticaret Fulfillment Otomasyonu Yeniden Düşünülmekte"
-date: "2025-10-06T00:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_8053247382754c7c92b0e24984cf1c3d~mv2.jpg"
-imageAlt: "Hızlı Piyasada E‑Ticaret Fulfillment Otomasyonu Yeniden Düşünülmekte"
-wixId: "3f042306-e781-40ae-b683-e7e05dfc9493"
-author: "Sedat Onat"
+title: Hızlı Piyasada E‑Ticaret Fulfillment Otomasyonu Yeniden Düşünülmekte
+subtitle: Hızlı Piyasada E‑Ticaret Fulfillment Otomasyonu Yeniden Düşünülmekte
+date: '2025-10-06T00:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_8053247382754c7c92b0e24984cf1c3d~mv2.jpg
+imageAlt: Hızlı Piyasada E‑Ticaret Fulfillment Otomasyonu Yeniden Düşünülmekte
+wixId: 3f042306-e781-40ae-b683-e7e05dfc9493
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- AMR
+- e-ticaret
+- fulfillment
+- otomasyon
+- Locus Robotics
+- depo yönetimi
+- WMS
 ---
 <p>E‑ticaretin hız, çeşitlilik ve dalgalanma ile tanımlanmakta olduğu bir dönemde, yalnız sabit altyapıya dayanan fixed automation yaklaşımı rekabet avantajı üretmemekte. Autonomous Mobile Robots (AMR), yazılım orkestrasyonu ve modüler yerleşim mimarisi ile “piyasayla aynı hızda” esneyebilen fulfillment sistemleri öne çıkmakta. Locus Robotics perspektifinden, sabit AS/RS ve konveyör altyapıları yüksek hacimde değer üretmekte; ancak sermaye yoğun kurulum, uzun ROI döngüsü, düzen değişikliğinde iş kesintisi ve ölçeği artırmada zorluklar yaratmakta.</p>
 <p><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "U.S. Robotics Maker Calls for Manufacturing Reform Amid Cost Crisis"
-subtitle: "U.S. Robotics Maker Calls for Manufacturing Reform Amid Cost Crisis"
-date: "2025-12-02T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b4edb3e255064d1a90a33d995ff44e21~mv2.jpg"
-imageAlt: "Standard Bots CEO Evan Beard addresses Congress on the market threat of cheap Chinese robots, the U.S. strategy gap, cost disadvantage, and manufacturing reform proposals"
-wixId: "d3cc6674-62a4-4c7b-95ce-f18b758f82d4"
-author: "Sedat Onat"
+title: U.S. Robotics Maker Calls for Manufacturing Reform Amid Cost Crisis
+subtitle: U.S. Robotics Maker Calls for Manufacturing Reform Amid Cost Crisis
+date: '2025-12-02T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b4edb3e255064d1a90a33d995ff44e21~mv2.jpg
+imageAlt: Standard Bots CEO Evan Beard addresses Congress on the market threat of cheap Chinese robots, the U.S. strategy gap, cost disadvantage, and manufacturing reform proposals
+wixId: d3cc6674-62a4-4c7b-95ce-f18b758f82d4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- robotic manufacturing
+- Standard Bots
+- US-China competition
+- industrial robot
+- manufacturing cost
+- national strategy
+- MEP program
+- supply chain
 ---
-
 <p style="text-align: justify"><strong>Standard Bots</strong>, a U.S.-based robotics startup, saw its CEO <strong>Evan Beard</strong> tell Congress on November 18 that America faces a <strong>systemic competitive disadvantage</strong> in advanced robotics manufacturing. Speaking before the <strong>Joint Economic Committee</strong>, Beard identified the primary challenges for American robot makers as <strong>high component costs</strong> and the absence of a coordinated national <strong>industrial robotics strategy</strong>.</p>
 
 <p><br></p>

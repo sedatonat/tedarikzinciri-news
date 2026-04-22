@@ -1,14 +1,21 @@
 ---
-title: "Finansal Teşviklerin Ötesinde, Tedarikçi Kalite Yönetiminde 4 Ana Yaklaşım"
-subtitle: "Finansal Teşviklerin Ötesinde, Tedarikçi Kalite Yönetiminde 4 Ana Yaklaşım"
-date: "2024-02-22T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_05f8d8ed04fb4234961e448151a28e50~mv2.jpg"
-imageAlt: "Finansal Teşviklerin Ötesinde, Tedarikçi Kalite Yönetiminde Dört Ana Yaklaşım"
-wixId: "d09fa266-e2b8-40aa-9345-4585cdb98550"
-author: "Sedat Onat"
+title: Finansal Teşviklerin Ötesinde, Tedarikçi Kalite Yönetiminde 4 Ana Yaklaşım
+subtitle: Finansal Teşviklerin Ötesinde, Tedarikçi Kalite Yönetiminde 4 Ana Yaklaşım
+date: '2024-02-22T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_05f8d8ed04fb4234961e448151a28e50~mv2.jpg
+imageAlt: Finansal Teşviklerin Ötesinde, Tedarikçi Kalite Yönetiminde Dört Ana Yaklaşım
+wixId: d09fa266-e2b8-40aa-9345-4585cdb98550
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tedarikçi kalite yönetimi
+- Gartner
+- tedarikçi geliştirme
+- finansal teşvik
+- mevzuata uyum
+- tedarik zinciri
 ---
 <p>Tedarikçilerin kalite yeteneklerini sadece mevzuata uyum sağlamak için değil, ötesinde geliştirmelerini sağlamak, tedarikçi kalite liderlerinin karşılaştığı yaygın bir sorundur. <a href="https://en.wikipedia.org/wiki/Gartner"><u>Gartner</u></a>’ın Tedarikçi Kalite Yönetimi Anketi'ne katılanlara göre, tedarikçiler gerekli bilgi ve yeteneklere sahip olsalar da, organizasyonların yaklaşık üçte biri tedarikçileri bu yönde motive etmekte zorlanmaktadır.&nbsp;</p>
 <p><br></p>

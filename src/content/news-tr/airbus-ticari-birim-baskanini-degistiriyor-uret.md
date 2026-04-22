@@ -1,14 +1,22 @@
 ---
-title: "Airbus SE, Ticari Uçak Biriminin Başını Değiştiriyor ve Üretim Hedeflerine Bağlı Kalıyor"
-subtitle: "Airbus SE, Ticari Uçak Biriminin Başını Değiştiriyor ve Üretim Hedeflerine Bağlı Kalıyor"
-date: "2024-11-01T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_554836ee0bc84824b0da4385fbcdcf2f~mv2.jpg"
-imageAlt: "Airbus SE, Ticari Uçak Biriminin Başını Değiştiriyor ve Üretim Hedeflerine Bağlı Kalıyor"
-wixId: "e974c992-9319-4d31-b753-07e7fabab665"
-author: "Sedat Onat"
+title: Airbus SE, Ticari Uçak Biriminin Başını Değiştiriyor ve Üretim Hedeflerine Bağlı Kalıyor
+subtitle: Airbus SE, Ticari Uçak Biriminin Başını Değiştiriyor ve Üretim Hedeflerine Bağlı Kalıyor
+date: '2024-11-01T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_554836ee0bc84824b0da4385fbcdcf2f~mv2.jpg
+imageAlt: Airbus SE, Ticari Uçak Biriminin Başını Değiştiriyor ve Üretim Hedeflerine Bağlı Kalıyor
+wixId: e974c992-9319-4d31-b753-07e7fabab665
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Airbus
+- ticari havacılık
+- tedarik zinciri
+- üretim hedefleri
+- MTU Aero Engines
+- havacılık sektörü
+- liderlik değişimi
 ---
 <p>Airbus SE, ticari uçak biriminin başına MTU Aero Engines AG'nin CEO'su Lars Wagner'i getireceğini duyurdu. Wagner, 2026 yılının başlarında göreve başlayarak 40 yıllık Airbus veterani Christian Scherer'in yerini alacak. Şirket ayrıca, CEO Guillaume Faury'nin görev süresinin yenilenmesinin yönetim kurulu tarafından önerileceğini belirtti.</p>
 <p><br></p>

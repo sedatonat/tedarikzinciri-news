@@ -1,14 +1,22 @@
 ---
-title: "Türkiye'de lojistik merkezlerinin kriterleri belirlendi"
-subtitle: "Türkiye'de lojistik merkezlerinin kriterleri belirlendi"
-date: "2023-12-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_414bd42ad52642c1baa6b78cf8e394b8~mv2.jpg"
-imageAlt: "Türkiye'de lojistik merkezlerinin kriterleri belirlendi"
-wixId: "85fdac76-a8f7-43cc-9fe7-683d7942d48c"
-author: "Sedat Onat"
+title: Türkiye'de lojistik merkezlerinin kriterleri belirlendi
+subtitle: Türkiye'de lojistik merkezlerinin kriterleri belirlendi
+date: '2023-12-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_414bd42ad52642c1baa6b78cf8e394b8~mv2.jpg
+imageAlt: Türkiye'de lojistik merkezlerinin kriterleri belirlendi
+wixId: 85fdac76-a8f7-43cc-9fe7-683d7942d48c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- lojistik merkezi
+- Türkiye
+- Ulaştırma Bakanlığı
+- TCDD
+- lojistik altyapı
+- yer seçimi kriterleri
+- 7/24 işletme
 ---
 <p>Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu'nun açıkladığı bilgilere göre, lojistik merkezlerin yer seçimi, projelendirilmesi, yapımı ve işletilmesi için detaylı usul ve esaslar belirlenmiş durumda.&nbsp;</p>
 <p><br></p>

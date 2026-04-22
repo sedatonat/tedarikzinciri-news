@@ -1,16 +1,24 @@
 ---
-title: "UPS Bids for Cold Chain Logistics Dominance with Frigo-Trans and BPL Acquisitions"
-subtitle: "UPS Bids for Cold Chain Logistics Dominance with Frigo-Trans and BPL Acquisitions"
-date: "2024-09-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_31cda25df8a3464a9398b68714d4f045~mv2.jpg"
-imageAlt: "UPS Bids for Cold Chain Logistics Dominance with Frigo-Trans and BPL Acquisitions"
-wixId: "606f2792-e98a-43f1-ba9e-c444ec02413e"
-author: "Sedat Onat"
+title: UPS Bids for Cold Chain Logistics Dominance with Frigo-Trans and BPL Acquisitions
+subtitle: UPS Bids for Cold Chain Logistics Dominance with Frigo-Trans and BPL Acquisitions
+date: '2024-09-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_31cda25df8a3464a9398b68714d4f045~mv2.jpg
+imageAlt: UPS Bids for Cold Chain Logistics Dominance with Frigo-Trans and BPL Acquisitions
+wixId: 606f2792-e98a-43f1-ba9e-c444ec02413e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- UPS
+- cold chain
+- acquisition
+- healthcare logistics
+- Frigo-Trans
+- biopharma
+- Germany
+- Turkey
 ---
-
 <p>UPS has taken a significant step toward its goal of becoming a leader in global health logistics by acquiring Frigo-Trans and its sister company BPL. This move is part of the company's strategy to reach the top of the cold chain market, which is expected to reach $23.7 billion by 2030. Cold chain logistics requires the safe transport of temperature-sensitive pharmaceuticals and biological products, and UPS aims to expand its capacity in this area.</p>
 <p><br></p>
 <p>Frigo-Trans, a Germany-based company providing temperature-controlled storage and cold chain transportation services, stands out in the market. BPL, meanwhile, is a logistics firm specialized in transporting temperature-sensitive products for the biotechnology and biopharmaceutical sectors. Through these acquisitions, UPS aims to enhance its capacity to provide end-to-end warehousing and transportation solutions to customers and become the leading player in the health logistics market.</p>

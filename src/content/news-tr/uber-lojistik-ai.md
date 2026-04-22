@@ -1,14 +1,22 @@
 ---
-title: "Uber Freight, Yapay Zeka ile Lojistiği Yeniden Tanımlıyor"
-subtitle: "Uber Freight, Yapay Zeka ile Lojistiği Yeniden Tanımlıyor"
-date: "2025-10-22T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_0ef3b6692292423cbd488e7714c5c691~mv2.jpeg"
-imageAlt: "Uber Freight, Yapay Zeka ile Lojistiği Yeniden Tanımlamakta"
-wixId: "9167d092-c698-41cd-837b-07cff95c4b78"
-author: "Sedat Onat"
+title: Uber Freight, Yapay Zeka ile Lojistiği Yeniden Tanımlıyor
+subtitle: Uber Freight, Yapay Zeka ile Lojistiği Yeniden Tanımlıyor
+date: '2025-10-22T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_0ef3b6692292423cbd488e7714c5c691~mv2.jpeg
+imageAlt: Uber Freight, Yapay Zeka ile Lojistiği Yeniden Tanımlamakta
+wixId: 9167d092-c698-41cd-837b-07cff95c4b78
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Uber Freight
+- yapay zeka
+- lojistik
+- generative AI
+- ses tabanlı AI
+- dolandırıcılık tespiti
+- fiyat algoritması
 ---
 <p style="text-align: justify"><strong>Uber Freight</strong>, yapay zekâyı yalnızca bir deney alanı olarak değil, iş modelinin temel taşı olarak konumlandırmakta. Şirketin <strong>CSCMP EDGE Konferansı</strong>’nda yaptığı açıklamalara göre, <strong>18 milyar dolarlık taşıma ağı</strong> üzerinde çalışan bu sistem, operasyonlardan fiyatlamaya ve müşteri etkileşimine kadar tüm süreçleri <strong>AI destekli bir ekosistem</strong> haline getirmekte.</p>
 <p style="text-align: justify"><br></p>

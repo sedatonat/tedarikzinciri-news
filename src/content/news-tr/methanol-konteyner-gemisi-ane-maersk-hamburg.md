@@ -1,14 +1,22 @@
 ---
-title: "Methanolle Çalışan İlk Konteyner Gemisi ‘Ane Maersk’, Hamburg'a Uğradı"
-subtitle: "Methanolle Çalışan İlk Konteyner Gemisi ‘Ane Maersk’, Hamburg'a Uğradı"
-date: "2024-03-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d3313b8a07d6458a82bd65f66776deac~mv2.jpg"
-imageAlt: "Methanolle Çalışan İlk Konteyner Gemisi ‘Ane Maersk’, Hamburg'a Uğradı"
-wixId: "f340cdbf-5e2e-4faf-8874-b0c79b8bc591"
-author: "Sedat Onat"
+title: Methanolle Çalışan İlk Konteyner Gemisi ‘Ane Maersk’, Hamburg'a Uğradı
+subtitle: Methanolle Çalışan İlk Konteyner Gemisi ‘Ane Maersk’, Hamburg'a Uğradı
+date: '2024-03-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d3313b8a07d6458a82bd65f66776deac~mv2.jpg
+imageAlt: Methanolle Çalışan İlk Konteyner Gemisi ‘Ane Maersk’, Hamburg'a Uğradı
+wixId: f340cdbf-5e2e-4faf-8874-b0c79b8bc591
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Maersk
+- konteyner gemisi
+- methanol yakıt
+- yeşil enerji
+- Hamburg Limanı
+- emisyon azaltma
+- Eurogate
 ---
 <p>Maersk'in metanolle çalışan konteyner gemisi ‘<a href="https://www.vesselfinder.com/?imo=9948748"><u>Ane Maersk</u></a>’, Asya'dan Avrupa'ya ilk seferinde <a href="https://www.hafen-hamburg.de/en/address/eurogate-container-terminal-hamburg-gmbh-7975/"><u>Eurogate Konteyner Terminali Hamburg</u></a>'a uğradı.&nbsp;</p>
 <p><br></p>

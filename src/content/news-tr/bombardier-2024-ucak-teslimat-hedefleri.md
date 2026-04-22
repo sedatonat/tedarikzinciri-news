@@ -1,14 +1,22 @@
 ---
-title: "Bombardier, 2024 Yılına Yönelik Uçak Teslimat Hedeflerini Yükseltti"
-subtitle: "Bombardier, 2024 Yılına Yönelik Uçak Teslimat Hedeflerini Yükseltti"
-date: "2024-03-11T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_28b47daf52674abca7d8a0dd8cf97365~mv2.jpg"
-imageAlt: "2024 Yılına Yönelik Uçak Teslimat Hedeflerini Yükselten Bombardier"
-wixId: "47330f06-7e1a-4c96-b452-52ae581b197e"
-author: "Sedat Onat"
+title: Bombardier, 2024 Yılına Yönelik Uçak Teslimat Hedeflerini Yükseltti
+subtitle: Bombardier, 2024 Yılına Yönelik Uçak Teslimat Hedeflerini Yükseltti
+date: '2024-03-11T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_28b47daf52674abca7d8a0dd8cf97365~mv2.jpg
+imageAlt: 2024 Yılına Yönelik Uçak Teslimat Hedeflerini Yükselten Bombardier
+wixId: 47330f06-7e1a-4c96-b452-52ae581b197e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Bombardier
+- uçak teslimatı
+- tedarik zinciri
+- havacılık
+- tedarikçi yönetimi
+- üretim kapasitesi
+- dijitalleşme
 ---
 <p><a href="https://bombardier.com/en"><u>Bombardier</u></a>, 2024 yılında 150 ile 155 arasında uçak teslimatı hedefiyle üretim kapasitesini artırmayı planlıyor. Kanada merkezli uçak üreticisi, 2023 hedefini 138 uçak teslimatıyla başarıyla gerçekleştirdi. Bu başarının arkasında, tedarik zinciri baskılarını hafifletmeye yönelik stratejiler yatıyor.&nbsp;</p>
 <p><br></p>

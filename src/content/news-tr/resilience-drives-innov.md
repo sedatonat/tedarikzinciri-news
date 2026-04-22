@@ -1,14 +1,22 @@
 ---
-title: "Dayanıklılık: Evrim Yoluyla İnovasyonu Sürmek"
-subtitle: "Dayanıklılık: Evrim Yoluyla İnovasyonu Sürmek"
-date: "2025-02-04T00:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_ddf81ee51fc34e87b7f8b4e90d00f6b6~mv2.png"
-imageAlt: "Dayanıklılık: Evrim Yoluyla İnovasyonu Sürmek"
-wixId: "4778201b-1d19-4bcb-9328-0380c6d50e53"
-author: "Sedat Onat"
+title: 'Dayanıklılık: Evrim Yoluyla İnovasyonu Sürmek'
+subtitle: 'Dayanıklılık: Evrim Yoluyla İnovasyonu Sürmek'
+date: '2025-02-04T00:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_ddf81ee51fc34e87b7f8b4e90d00f6b6~mv2.png
+imageAlt: 'Dayanıklılık: Evrim Yoluyla İnovasyonu Sürmek'
+wixId: 4778201b-1d19-4bcb-9328-0380c6d50e53
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tedarik zinciri dayanıklılığı
+- inovasyon
+- digital twins
+- control towers
+- AI
+- kaizen
+- risk yönetimi
 ---
 <p>Tedarik zinciri dayanıklılığı, yalnızca kriz anlarında değil, sürekli gelişim ve inovasyon süreçlerinde de itici bir güç olmakta.&nbsp;</p>
 <p><br></p>

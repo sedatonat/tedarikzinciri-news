@@ -1,14 +1,23 @@
 ---
-title: "ABD'nin Gemi İnşa Soruşturmasına Pekin'den Yanıt"
-subtitle: "ABD'nin Gemi İnşa Soruşturmasına Pekin'den Yanıt"
-date: "2025-01-17T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_df82e8e8522f4f5e8ccc1a9e22c73534~mv2.jpg"
-imageAlt: "ABD'nin Gemi İnşa Soruşturmasına Pekin'den Yanıt"
-wixId: "9c67d947-0bb9-4ac8-ab19-d6003c7a9c2b"
-author: "Sedat Onat"
+title: ABD'nin Gemi İnşa Soruşturmasına Pekin'den Yanıt
+subtitle: ABD'nin Gemi İnşa Soruşturmasına Pekin'den Yanıt
+date: '2025-01-17T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_df82e8e8522f4f5e8ccc1a9e22c73534~mv2.jpg
+imageAlt: ABD'nin Gemi İnşa Soruşturmasına Pekin'den Yanıt
+wixId: 9c67d947-0bb9-4ac8-ab19-d6003c7a9c2b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- gemi inşa
+- Çin
+- ABD
+- denizcilik
+- tersane
+- ticaret savaşı
+- USTR
+- Donald Trump
 ---
 <p style="text-align: justify">Çin Ticaret Bakanlığı, ABD'nin Çin'in gemi inşa, denizcilik ve lojistik sektörlerine yönelik başlattığı soruşturmayı "tek taraflılık ve korumacılık" olarak nitelendirerek reddetmektedir.</p>
 <p style="text-align: justify"><br></p>

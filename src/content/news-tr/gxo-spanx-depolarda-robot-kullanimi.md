@@ -1,14 +1,22 @@
 ---
-title: "GXO, Spanx Depolarında İnsansı Robotlar Kullanıyor"
-subtitle: "GXO, Spanx Depolarında İnsansı Robotlar Kullanıyor"
-date: "2024-06-28T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_53f5638e0c304d688d82ad03ef945d9c~mv2.jpeg"
-imageAlt: "GXO, Spanx Depolarında İnsansı Robotlar Kullanıyor"
-wixId: "cc7da5f7-1bb8-4ed2-9d40-c12ec6bb8a86"
-author: "Sedat Onat"
+title: GXO, Spanx Depolarında İnsansı Robotlar Kullanıyor
+subtitle: GXO, Spanx Depolarında İnsansı Robotlar Kullanıyor
+date: '2024-06-28T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_53f5638e0c304d688d82ad03ef945d9c~mv2.jpeg
+imageAlt: GXO, Spanx Depolarında İnsansı Robotlar Kullanıyor
+wixId: cc7da5f7-1bb8-4ed2-9d40-c12ec6bb8a86
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- GXO Logistics
+- Spanx
+- insansı robot
+- Agility Robotics
+- AMR
+- depo otomasyonu
+- bulut platformu
 ---
 <p>GXO Logistics, Spanx için çalışan bir depoda, Agility Robotics'in ürettiği "Digit" adlı iki ayaklı humanoid robotları kullanacak. Bu robotlar, otomatik mobil robotlarla (AMR) işbirliği içinde tekrar eden görevleri yerine getirerek, taşıma kutularını robotlardan taşıma bantlarına yerleştirecek. Robotlar, bir bulut otomasyon platformu olan Agility Arc üzerinden yönetilecek. Bu yeni uygulama, hem çalışanların iş yükünü hafifletmeyi hem de operasyonları optimize etmeyi hedefliyor. GXO'nun bu adımı, robotları hizmet modeli kapsamında gerçekleştiriyor.</p>
 <p><br></p>

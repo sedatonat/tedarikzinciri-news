@@ -1,16 +1,23 @@
 ---
-title: "New Secure Release Process at German Ports"
-subtitle: "New Secure Release Process at German Ports"
-date: "2024-04-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_338363c370624da5906f9722ec382d26~mv2.jpg"
-imageAlt: "New Secure Release Process at German Ports"
-wixId: "bd44f9e0-e931-41a6-aab4-e1ec5e5ff069"
-author: "Sedat Onat"
+title: New Secure Release Process at German Ports
+subtitle: New Secure Release Process at German Ports
+date: '2024-04-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_338363c370624da5906f9722ec382d26~mv2.jpg
+imageAlt: New Secure Release Process at German Ports
+wixId: bd44f9e0-e931-41a6-aab4-e1ec5e5ff069
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- German ports
+- digital release
+- secure delivery order
+- DAKOSY
+- container security
+- port security
+- digitalization
 ---
-
 <p>German ports are introducing a new standardised digital release process for imported containers known as "Secure Delivery Order." This process will gradually replace the previously used PIN code-based transactions.</p>
 <p><br></p>
 <p>Launched by DAKOSY and dbh, this innovation will be rolled out during a pilot phase in the second half of this year. It aims to make container collection operations at German ports more secure and to implement effective safeguards against organised crime activities.</p>

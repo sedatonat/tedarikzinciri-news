@@ -1,16 +1,24 @@
 ---
-title: "New Research: AI Isn't Replacing Workers, Creating More Roles in Warehouses"
-subtitle: "New Research: AI Isn't Replacing Workers, Creating More Roles in Warehouses"
-date: "2025-11-26T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_27d76cac21c0445dbce2933785352753~mv2.jpg"
-imageAlt: "Comprehensive analysis explaining how artificial intelligence and automation support the workforce in warehouses, increase productivity, and create new specialized roles."
-wixId: "a63c7c7e-2632-4b2e-84c7-90af6d8bb1af"
-author: "Sedat Onat"
+title: 'New Research: AI Isn''t Replacing Workers, Creating More Roles in Warehouses'
+subtitle: 'New Research: AI Isn''t Replacing Workers, Creating More Roles in Warehouses'
+date: '2025-11-26T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_27d76cac21c0445dbce2933785352753~mv2.jpg
+imageAlt: Comprehensive analysis explaining how artificial intelligence and automation support the workforce in warehouses, increase productivity, and create new specialized roles.
+wixId: a63c7c7e-2632-4b2e-84c7-90af6d8bb1af
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- artificial intelligence
+- warehouse automation
+- AI
+- MIT
+- Mecalux
+- employment
+- generative AI
+- logistics technologies
 ---
-
 <p style="text-align: justify">A new study released ahead of Black Friday presents a compelling counter-argument to years of debate surrounding "AI is eliminating jobs." Joint research by <strong>Mecalux</strong> and the <strong>MIT Intelligent Logistics Systems Lab</strong> demonstrates that artificial intelligence and automation in warehouses make workers <strong>more efficient, faster, and safer</strong> rather than replacing them. Moreover, <strong>more than half</strong> of companies using AI report hiring additional staff.</p>
 <p><br></p>
 <p style="text-align: justify">The study, which included over 2,000 logistics managers from 21 countries, shows that AI-based systems are now actively in use in more than 90% of warehouses. This represents a dramatic shift from just a few years ago when such systems were confined to experimental projects—today, most large-scale companies have transitioned to <strong>advanced automation or full automation phases</strong>.</p>

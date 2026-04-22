@@ -1,16 +1,23 @@
 ---
-title: "Microsoft Invests $4 Billion in Second Wisconsin AI Data Center"
-subtitle: "Microsoft Invests $4 Billion in Second Wisconsin AI Data Center"
-date: "2025-09-19T00:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_e56b06b56fea46a285b06ccedd8b322a~mv2.png"
-imageAlt: "Microsoft Invests $4 Billion in Second Wisconsin AI Data Center"
-wixId: "67643209-a0bd-469b-b918-92ffdf3e7668"
-author: "Sedat Onat"
+title: Microsoft Invests $4 Billion in Second Wisconsin AI Data Center
+subtitle: Microsoft Invests $4 Billion in Second Wisconsin AI Data Center
+date: '2025-09-19T00:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_e56b06b56fea46a285b06ccedd8b322a~mv2.png
+imageAlt: Microsoft Invests $4 Billion in Second Wisconsin AI Data Center
+wixId: 67643209-a0bd-469b-b918-92ffdf3e7668
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Microsoft
+- artificial intelligence
+- data center
+- Wisconsin
+- liquid cooling
+- renewable energy
+- local sourcing
 ---
-
 <p style="text-align: justify">Microsoft has announced plans for a <strong>$4 billion investment in a second artificial intelligence data center (AI data center)</strong> facility in Wisconsin. The new project encompasses not only high-density computing capacity, but also <strong>liquid cooling</strong>, <strong>renewable energy Power Purchase Agreements (PPAs)</strong>, and <strong>local workforce development programs</strong>. The objective is to support both regional economic growth and to establish a sustainable and scalable artificial intelligence infrastructure.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">The investment is expected to make a significant contribution to the Wisconsin economy in terms of <strong>construction and permanent job creation</strong>. The project will generate <strong>local content opportunities for local suppliers</strong>, while expanding the potential for regional manufacturers to integrate into the AI ecosystem. This strengthens localization in the supply chain and supports the regional innovation network.</p>

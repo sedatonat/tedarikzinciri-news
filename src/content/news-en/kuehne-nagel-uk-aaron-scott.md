@@ -1,16 +1,23 @@
 ---
-title: "Kuehne+Nagel Appoints Former DSV Executive Aaron Scott to Head UK Operations from 2026"
-subtitle: "Kuehne+Nagel Appoints Former DSV Executive Aaron Scott to Head UK Operations from 2026"
-date: "2025-11-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_78b1c7ea862e489b892030aaa6aee1ba~mv2.jpg"
-imageAlt: "Kuehne+Nagel strengthens its UK strategy by appointing Aaron Scott, a former DSV executive with approximately 30 years of industry experience, as the new leader of its UK division from 2026."
-wixId: "2a74dfcb-c57a-40ba-bbdf-9a61984fbc27"
-author: "Sedat Onat"
+title: Kuehne+Nagel Appoints Former DSV Executive Aaron Scott to Head UK Operations from 2026
+subtitle: Kuehne+Nagel Appoints Former DSV Executive Aaron Scott to Head UK Operations from 2026
+date: '2025-11-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_78b1c7ea862e489b892030aaa6aee1ba~mv2.jpg
+imageAlt: Kuehne+Nagel strengthens its UK strategy by appointing Aaron Scott, a former DSV executive with approximately 30 years of industry experience, as the new leader of its UK division from 2026.
+wixId: 2a74dfcb-c57a-40ba-bbdf-9a61984fbc27
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Kuehne+Nagel
+- DSV
+- senior appointment
+- United Kingdom
+- logistics management
+- Brexit
+- strategic transformation
 ---
-
 <p style="text-align: justify">Global logistics giant <strong>Kuehne+Nagel</strong> has bolstered its UK operations by recruiting one of the industry's most experienced executives. The company announced that <strong>Aaron Scott, former DSV executive, will take the helm of its United Kingdom division from 2026</strong>. This move is regarded as a significant step by Kuehne+Nagel to increase competitiveness in the UK market, accelerate strategic transformation, and deepen operational excellence.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>30 years of sector experience</strong></h4>

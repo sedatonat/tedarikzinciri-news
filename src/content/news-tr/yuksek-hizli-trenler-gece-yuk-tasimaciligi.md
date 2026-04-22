@@ -1,14 +1,21 @@
 ---
-title: "Yüksek Hızlı Trenler Gece Yük Taşımacılığına Başlıyor"
-subtitle: "Yüksek Hızlı Trenler Gece Yük Taşımacılığına Başlıyor"
-date: "2024-09-09T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7cdf308358e94b08b5bfea0e91b78270~mv2.jpg"
-imageAlt: "Yüksek Hızlı Trenler Gece Yük Taşımacılığına Başlıyor"
-wixId: "abeed626-16ec-483d-a329-b92365ff9b60"
-author: "Sedat Onat"
+title: Yüksek Hızlı Trenler Gece Yük Taşımacılığına Başlıyor
+subtitle: Yüksek Hızlı Trenler Gece Yük Taşımacılığına Başlıyor
+date: '2024-09-09T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7cdf308358e94b08b5bfea0e91b78270~mv2.jpg
+imageAlt: Yüksek Hızlı Trenler Gece Yük Taşımacılığına Başlıyor
+wixId: abeed626-16ec-483d-a329-b92365ff9b60
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- yüksek hızlı tren
+- yük taşımacılığı
+- TCDD
+- demiryolu lojistiği
+- gece taşımacılığı
+- Ankara-Konya hattı
 ---
 <p>Jeopolitik konumu ve Asya ile Avrupa arasında köprü işlevi görmesi nedeniyle Türkiye'nin yük trafiği artarak devam ediyor. O, bu nedenle Ulaştırma ve Altyapı Bakanlığı'na bağlı TCDD'nin taşımacılık yükünü hafifletecek yeni formüller üzerinde çalıştığını biliyor. Taşımacılıkta sürenin kısaltılması ve mevcut hatlar üzerindeki artan trafiğin rahatlatılması için hızlı tren hatlarından faydalanılması planlanıyor.</p>
 <p><br></p>

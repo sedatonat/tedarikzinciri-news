@@ -1,14 +1,21 @@
 ---
-title: "Shift to Regional Supply Chains: A Resilient Approach to Global Disruptions"
-subtitle: "Shift to Regional Supply Chains: A Resilient Approach to Global Disruptions"
-date: "2024-05-14T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_c08d1cee8bd440739d6adae6422cb1aa~mv2.jpg"
-imageAlt: "Shift to Regional Supply Chains: A Resilient Approach to Global Disruptions"
-wixId: "0d24fc46-1306-4fda-a16b-dad45d407a75"
-author: "Sedat Onat"
+title: 'Shift to Regional Supply Chains: A Resilient Approach to Global Disruptions'
+subtitle: 'Shift to Regional Supply Chains: A Resilient Approach to Global Disruptions'
+date: '2024-05-14T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_c08d1cee8bd440739d6adae6422cb1aa~mv2.jpg
+imageAlt: 'Shift to Regional Supply Chains: A Resilient Approach to Global Disruptions'
+wixId: 0d24fc46-1306-4fda-a16b-dad45d407a75
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- regional supply chain
+- supply chain resilience
+- Gartner
+- geopolitical risk
+- nearshoring
+- global disruptions
+- Asia Pacific
 ---
-
 <p>Recent climate-related events and geopolitical uncertainties are causing increasing volatility, costs, and longer delivery times in global supply chains. According to survey results from Gartner in the Asia-Pacific region, many companies are relocating or expanding their production to regions close to their primary markets.&nbsp;</p>\n<p><br></p>\n<p>This trend indicates that by 2028, 70 percent of companies will adopt regionally diversified supply chain models to enhance network resilience against continuous global disruptions. Among supply chain leaders surveyed in Gartner's "Balancing Sustainability and Resilience" study, 35 percent report that their companies have already transitioned to regional production.&nbsp;</p>\n<p><br></p>\n<p>Supply chain leaders are shifting from global networks to regional models, placing greater emphasis on speed and service in customer experience. This strategy reduces disruption risks by shrinking the supply chain footprint and implementing multi-sourcing strategies across diverse facilities within the region.&nbsp;</p>\n<p><br></p>\n<p>Additionally, cost savings—such as Mexico and Canada becoming the United States' two largest trading partners in 2023—are among the advantages of regionalization.</p>\n<p><br></p>\n<p><br></p>\n<h5><strong>Key Points</strong></h5>\n<ol>\n  <li><p>As global supply chain disruptions increase, companies prefer manufacturing in locations near their primary markets.</p></li>\n  <li><p>By 2028, 70 percent of companies will adopt regional supply chain models.</p></li>\n  <li><p>Thirty-five percent of supply chain leaders report their companies have transitioned to regional production.</p></li>\n  <li><p>Regionalization provides cost savings and reduces disruption risks.</p></li>\n  <li><p>Mexico and Canada have become the United States' largest trading partners.</p></li>\n</ol>\n<p><br></p>\n<p><strong>Related article: </strong><a href="https://www.tedarikzinciriportali.com/post/terim-regionalization-bolgesel-uretim-tedarik"><u>https://www.tedarikzinciriportali.com/post/terim-regionalization-bolgesel-uretim-tedarik</u></a></p>\n<p><br></p>\n<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/39578-outpacing-disruption-by-regionalizing-supply-chains"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/39578-outpacing-disruption-by-regionalizing-supply-chains</u></a></p>

@@ -1,14 +1,22 @@
 ---
-title: "Çin: Pire Limanı Satılık Değil"
-subtitle: "Çin: Pire Limanı Satılık Değil"
-date: "2025-11-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_37b16e322015409ebc80d7268603c2e6~mv2.jpg"
-imageAlt: "Çin, ABD’nin açıklamalarına yanıt vererek Pire Limanı’nın satılmadığını ve COSCO’nun limandaki stratejik varlığını sürdüreceğini açıkladı; liman Afrika–Asya–Avrupa ticaretinin merkezindeki en önemli konteyner merkezlerinden biri."
-wixId: "a76a96e1-544b-4169-8365-a523bd6ca679"
-author: "Sedat Onat"
+title: 'Çin: Pire Limanı Satılık Değil'
+subtitle: 'Çin: Pire Limanı Satılık Değil'
+date: '2025-11-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_37b16e322015409ebc80d7268603c2e6~mv2.jpg
+imageAlt: Çin, ABD’nin açıklamalarına yanıt vererek Pire Limanı’nın satılmadığını ve COSCO’nun limandaki stratejik varlığını sürdüreceğini açıkladı; liman Afrika–Asya–Avrupa ticaretinin merkezindeki en önemli konteyner merkezlerinden biri.
+wixId: a76a96e1-544b-4169-8365-a523bd6ca679
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Pire Limanı
+- COSCO Shipping
+- Çin
+- Yunanistan
+- Kuşak ve Yol Girişimi
+- liman yönetimi
+- jeopolitik
 ---
 <p style="text-align: justify">Çin, geçtiğimiz hafta ABD’nin Atina Büyükelçisi tarafından yapılan yorumlara yanıt vererek <strong>Yunanistan’daki Pire Limanı’nın satışta olmadığını</strong> resmî olarak açıkladı. Açıklama, Çin’in Avrupa’daki en stratejik yatırımlarından biri olan Pire Limanı konusunda oluşan spekülasyonları ortadan kaldırmayı amaçlıyor.</p>
 <p><br></p>

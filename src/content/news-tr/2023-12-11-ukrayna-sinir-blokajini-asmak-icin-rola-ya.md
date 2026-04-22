@@ -1,14 +1,22 @@
 ---
-title: "Ukrayna Sınır Blokajını Aşmak için RoLa 'ya Başvurdu"
-subtitle: "Ukrayna Sınır Blokajını Aşmak için RoLa 'ya Başvurdu"
-date: "2023-12-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_556ae4eb0fbd44aea42ea4595be1a815~mv2.jpg"
-imageAlt: "Ukrayna Sınır Blokajını Aşmak için RoLa 'ya Başvurdu"
-wixId: "61c43c4d-439e-4127-a4b1-79c54ed72bae"
-author: "Sedat Onat"
+title: Ukrayna Sınır Blokajını Aşmak için RoLa 'ya Başvurdu
+subtitle: Ukrayna Sınır Blokajını Aşmak için RoLa 'ya Başvurdu
+date: '2023-12-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_556ae4eb0fbd44aea42ea4595be1a815~mv2.jpg
+imageAlt: Ukrayna Sınır Blokajını Aşmak için RoLa 'ya Başvurdu
+wixId: 61c43c4d-439e-4127-a4b1-79c54ed72bae
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ukrayna
+- Polonya
+- RoLa
+- sınır blokajı
+- demiryolu taşımacılığı
+- intermodal taşımacılık
+- protesto
 ---
 <p>Ukrayna Demiryolları, Polonya'ya ilk <a href="https://www.tedarikzinciriportali.com/post/terim-rola-rollende-landstrasse-tasimaciligi"><u>Ro-La</u></a> trenini göndererek 13 traktör ve yarı römorklar taşıdı. Servis için tercih edilen rota, yalnızca geniş raylı hatları kullanarak Sknyliv (Ukrayna) ile Slawkow (Polonya) arasındaki Izov-Hrubeshiv sınır kapısını bağlayan bir rota oldu. Bu çözüm, protesto eden Polonyalı tır şoförlerinin neden olduğu haftalarca süren Polonya-Ukrayna sınır blokajıyla başa çıkmak için uygulandı.</p>
 <p><br></p>

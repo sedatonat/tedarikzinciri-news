@@ -1,14 +1,22 @@
 ---
-title: "Panama Kanalı'nda Geçiş Kısıtlamaları ve Su Seviyeleri Üzerine Güncel Durum"
-subtitle: "Panama Kanalı'nda Geçiş Kısıtlamaları ve Su Seviyeleri Üzerine Güncel Durum"
-date: "2024-02-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_fa20aec7588f4bdb9a969f6998d9750d~mv2.jpg"
-imageAlt: "Panama Kanalı'nda Geçiş Kısıtlamaları ve Su Seviyeleri Üzerine Güncel Durum"
-wixId: "ec004e43-6853-4bca-8289-323c600a31fc"
-author: "Sedat Onat"
+title: Panama Kanalı'nda Geçiş Kısıtlamaları ve Su Seviyeleri Üzerine Güncel Durum
+subtitle: Panama Kanalı'nda Geçiş Kısıtlamaları ve Su Seviyeleri Üzerine Güncel Durum
+date: '2024-02-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_fa20aec7588f4bdb9a969f6998d9750d~mv2.jpg
+imageAlt: Panama Kanalı'nda Geçiş Kısıtlamaları ve Su Seviyeleri Üzerine Güncel Durum
+wixId: ec004e43-6853-4bca-8289-323c600a31fc
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Panama Kanalı
+- geçiş kısıtlaması
+- su seviyesi
+- kuraklık
+- Kızıldeniz
+- LNG
+- deniz taşımacılığı
 ---
 <p>Panama Kanalı İdaresi'nin Müdür Yardımcısı <a href="https://www.linkedin.com/in/ilya-espino-de-marotta/"><u>Ilya Espino</u></a>, Reuters'a yaptığı açıklamada, Panama Kanalı'nın en az Nisan ayına kadar gemi geçiş kısıtlamalarını öngörmediğini belirtti. Kanal İdaresi, kuru sezonun ardından su seviyelerini değerlendirecek ve herhangi bir karar vermeden önce su seviyelerini gözlemleyecek. Geçtiğimiz yılın son çeyreğinde yaşanan şiddetli kuraklık, otoriteleri geçiş limitleri koymaya zorlamış, ancak sonrasında gelen yağışlar sayesinde daha fazla kısıtlamanın Ocak ayına ertelenmesini sağlamıştır.</p>
 <p><br></p>

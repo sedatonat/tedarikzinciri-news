@@ -1,16 +1,23 @@
 ---
-title: "What's Next for AI in the Supply Chain"
-subtitle: "What's Next for AI in the Supply Chain"
-date: "2025-07-18T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_66019cf08e3e431d98ab797f2d08d81f~mv2.png"
-imageAlt: "What's Next for AI in the Supply Chain"
-wixId: "4fe32d52-3266-4c03-bfb1-9f17552600cf"
-author: "Sedat Onat"
+title: What's Next for AI in the Supply Chain
+subtitle: What's Next for AI in the Supply Chain
+date: '2025-07-18T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_66019cf08e3e431d98ab797f2d08d81f~mv2.png
+imageAlt: What's Next for AI in the Supply Chain
+wixId: 4fe32d52-3266-4c03-bfb1-9f17552600cf
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- artificial intelligence
+- supply chain
+- generative AI
+- RAG
+- predictive logistics
+- AI governance
+- automation
 ---
-
 <p style="text-align: justify"><strong>Artificial intelligence (AI)</strong> is transitioning from <strong>pilot implementations to scaled deployment</strong> in supply chains, with focus shifting to a combination of <strong>productivity</strong> and <strong>resilience</strong>. For organizations, the question is no longer "where should AI be used?" but rather "<strong>how can it be scaled in a measurable and secure manner?</strong>"</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">The distinction of this new era lies in how <strong>generative AI</strong> and <strong>cognitive agents</strong> technologies integrate the entire supply chain—planning, execution, and customer service—<strong>in a single loop</strong>. These systems enhance user interaction through natural language interfaces while delivering speed, transparency, and agility in operational decisions. As a result, AI is no longer merely an analytical tool but becomes a direct component of the <strong>decision support ecosystem</strong>.</p>

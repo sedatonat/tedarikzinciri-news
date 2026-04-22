@@ -1,16 +1,23 @@
 ---
-title: "Artificial Intelligence in Supply Chain Management Among Manufacturers"
-subtitle: "Artificial Intelligence in Supply Chain Management Among Manufacturers"
-date: "2025-04-30T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_555f7a8151cf4212a23f57dda7907e49~mv2.png"
-imageAlt: "Artificial Intelligence in Supply Chain Management Among Manufacturers"
-wixId: "7d1f3376-600e-4bb7-bb20-6ca41a54f243"
-author: "Sedat Onat"
+title: Artificial Intelligence in Supply Chain Management Among Manufacturers
+subtitle: Artificial Intelligence in Supply Chain Management Among Manufacturers
+date: '2025-04-30T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_555f7a8151cf4212a23f57dda7907e49~mv2.png
+imageAlt: Artificial Intelligence in Supply Chain Management Among Manufacturers
+wixId: 7d1f3376-600e-4bb7-bb20-6ca41a54f243
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- artificial intelligence
+- supply chain management
+- manufacturing
+- demand forecasting
+- predictive maintenance
+- inventory optimization
+- automation
 ---
-
 <p style="text-align: justify"><strong>Manufacturers</strong> are rapidly scaling <strong>artificial intelligence (AI)</strong> applications in supply chain management. The objective is no longer simply to collect data; rather, it is to convert this data directly into operational value through <strong>forecasting, optimization, and automation</strong>. The impact of AI is being felt across numerous areas, from production to distribution.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">The most intensive impact areas include <strong>demand forecasting</strong>, <strong>predictive maintenance</strong>, <strong>inventory optimization</strong>, <strong>quality inspection</strong> (image-processing-based quality control), and <strong>dynamic scheduling</strong>. These applications make production lines more predictable while optimizing inventory levels to reduce both costs and delays.</p>

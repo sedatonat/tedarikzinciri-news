@@ -1,14 +1,23 @@
 ---
-title: "Peninsula, Rotterdam Chane Terminali’nde Biyo-Yakıt Depolama ve Harmanlama Tesisini Genişletti"
-subtitle: "Peninsula, Rotterdam Chane Terminali’nde Biyo-Yakıt Depolama ve Harmanlama Tesisini Genişletti"
-date: "2025-11-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_422a58b90e62409bafab8afe02ac8230~mv2.jpg"
-imageAlt: "Peninsula, Rotterdam’daki Chane Terminali’nde 30.000 m³ kapasiteli dokuz yeni tank ile biyo-yakıt depolama ve harmanlama kapasitesini artırdı; 2026’da tamamlanacak ikinci fazla toplam kapasite 110.000 m³ olacak."
-wixId: "89eaa74a-b730-415a-ad95-76e2d98f1f21"
-author: "Sedat Onat"
+title: Peninsula, Rotterdam Chane Terminali’nde Biyo-Yakıt Depolama ve Harmanlama Tesisini Genişletti
+subtitle: Peninsula, Rotterdam Chane Terminali’nde Biyo-Yakıt Depolama ve Harmanlama Tesisini Genişletti
+date: '2025-11-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_422a58b90e62409bafab8afe02ac8230~mv2.jpg
+imageAlt: Peninsula, Rotterdam’daki Chane Terminali’nde 30.000 m³ kapasiteli dokuz yeni tank ile biyo-yakıt depolama ve harmanlama kapasitesini artırdı; 2026’da tamamlanacak ikinci fazla toplam kapasite 110.000 m³ olacak.
+wixId: 89eaa74a-b730-415a-ad95-76e2d98f1f21
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Peninsula
+- Rotterdam
+- biyo-yakıt
+- bunker yakıt
+- depolama tesisi
+- düşük karbonlu yakıt
+- ISCC sertifikası
+- denizcilik
 ---
 <p style="text-align: justify">Uluslararası deniz yakıt tedarikçisi <strong>Peninsula</strong>, Rotterdam Limanı’ndaki altyapısını büyüterek Chane Terminali’nde yeni bir <strong>biyo-yakıt depolama ve harmanlama tesisini</strong> devreye aldı. Şirketin açıklamasına göre proje, küresel denizcilik sektöründe giderek daha fazla talep gören düşük karbonlu yakıt çözümlerine yönelik stratejik bir yatırım niteliğinde.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Grundfos ve Maersk Elektrikli Kamyon Dağıtımını Hızlandırmak İçin Ortaklık Kurdu"
-subtitle: "Grundfos ve Maersk Elektrikli Kamyon Dağıtımını Hızlandırmak İçin Ortaklık Kurdu"
-date: "2025-01-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5c41654cb2ca4fd4a085bbb578a99b10~mv2.jpg"
-imageAlt: "Grundfos ve Maersk Elektrikli Kamyon Dağıtımını Hızlandırmak İçin Ortaklık Kurdu"
-wixId: "6d8fdbd6-04cd-4bfc-8a6d-c3c8829e6cd3"
-author: "Sedat Onat"
+title: Grundfos ve Maersk Elektrikli Kamyon Dağıtımını Hızlandırmak İçin Ortaklık Kurdu
+subtitle: Grundfos ve Maersk Elektrikli Kamyon Dağıtımını Hızlandırmak İçin Ortaklık Kurdu
+date: '2025-01-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5c41654cb2ca4fd4a085bbb578a99b10~mv2.jpg
+imageAlt: Grundfos ve Maersk Elektrikli Kamyon Dağıtımını Hızlandırmak İçin Ortaklık Kurdu
+wixId: 6d8fdbd6-04cd-4bfc-8a6d-c3c8829e6cd3
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Grundfos
+- Maersk
+- elektrikli kamyon
+- sürdürülebilir lojistik
+- karbon nötr
+- tedarik zinciri
+- yeşil taşımacılık
 ---
 <p style="text-align: justify">Danimarkalı pompa üreticisi <strong>Grundfos</strong>, küresel lojistik şirketi <strong>Maersk</strong> ile iş birliği yaparak elektrikli kamyonların tedarik zincirinde kullanımını artırmayı hedeflemekte. Bu ortaklık, <strong>Grundfos</strong>'un sürdürülebilirlik hedeflerine ulaşmasına ve karbon ayak izini azaltmasına yardımcı olmakta.​</p>
 <p><br></p>

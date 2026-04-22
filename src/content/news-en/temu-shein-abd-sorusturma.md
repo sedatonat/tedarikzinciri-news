@@ -1,16 +1,24 @@
 ---
-title: "Temu and Shein Face Investigation Threats in the US: Forced Labor and Counterfeit Product Allegations in Focus"
-subtitle: "Temu and Shein Face Investigation Threats in the US: Forced Labor and Counterfeit Product Allegations in Focus"
-date: "2025-12-03T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_04c2d8f4963749adba2ea987b9535317~mv2.jpg"
-imageAlt: "Detailed news summary explaining the connection between forced labor, counterfeiting, and IP violations allegations against Shein and Temu in the US, linked to e-commerce supply chains and the elimination of the de minimis rule"
-wixId: "df4239ef-26b1-48f5-81d2-2bc7484c47ed"
-author: "Sedat Onat"
+title: 'Temu and Shein Face Investigation Threats in the US: Forced Labor and Counterfeit Product Allegations in Focus'
+subtitle: 'Temu and Shein Face Investigation Threats in the US: Forced Labor and Counterfeit Product Allegations in Focus'
+date: '2025-12-03T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_04c2d8f4963749adba2ea987b9535317~mv2.jpg
+imageAlt: Detailed news summary explaining the connection between forced labor, counterfeiting, and IP violations allegations against Shein and Temu in the US, linked to e-commerce supply chains and the elimination of the de minimis rule
+wixId: df4239ef-26b1-48f5-81d2-2bc7484c47ed
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Shein
+- Temu
+- forced labor
+- counterfeit products
+- e-commerce
+- supply chain
+- intellectual property
+- United States
 ---
-
 <p style="text-align: justify">As of December 2025, two major discount-focused e-commerce platforms in the US, <strong>Shein</strong> and <strong>Temu</strong>, are facing significant political and legal pressure. With investigation calls mounting at both federal and state levels, the platforms' supply chain practices, labor standards, and intellectual property policies are once again becoming the subject of intense scrutiny.</p>
 <p><br></p>
 <p style="text-align: justify">According to information reported by BBC News, <strong>Texas Attorney General Ken Paxton</strong> has launched a comprehensive investigation into Shein involving allegations of <strong>forced labor</strong>, <strong>unsafe materials</strong>, and potentially <strong>deceptive marketing</strong>. Paxton has noted that the vast majority of the brand's products are manufactured in China and that labor practices within this supply chain require serious examination.</p>

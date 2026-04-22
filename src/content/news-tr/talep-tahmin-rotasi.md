@@ -1,14 +1,22 @@
 ---
-title: "Talep Tahmininde Gelecek Rotasını Çizmek"
-subtitle: "Talep Tahmininde Gelecek Rotasını Çizmek"
-date: "2025-05-05T00:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_791627cce58749aa89c4d1be4fd3a029~mv2.png"
-imageAlt: "Talep Tahmininde Gelecek Rotasını Çizmek"
-wixId: "898c7211-6a0a-4d2e-990a-cdf96cea0aba"
-author: "Sedat Onat"
+title: Talep Tahmininde Gelecek Rotasını Çizmek
+subtitle: Talep Tahmininde Gelecek Rotasını Çizmek
+date: '2025-05-05T00:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_791627cce58749aa89c4d1be4fd3a029~mv2.png
+imageAlt: Talep Tahmininde Gelecek Rotasını Çizmek
+wixId: 898c7211-6a0a-4d2e-990a-cdf96cea0aba
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- talep tahmini
+- yapay zeka
+- demand sensing
+- S&OP
+- MEIO
+- AutoML
+- tedarik zinciri
 ---
 <p style="text-align: justify"><strong>Talep tahmini (demand forecasting)</strong>, veri zenginleşmesi ve yapay zekâ destekli analizlerle birlikte yeni bir evreye girmiş durumda. Günümüzde başarılı tahmin sistemleri, yalnızca geçmiş satış verisine değil; <strong>POS (point-of-sale)</strong> bilgileri, <strong>promosyon planları</strong>, <strong>fiyat elastikiyeti</strong>, <strong>hava durumu verileri</strong> ve <strong>sosyal medya sinyalleri</strong> gibi çok boyutlu girdilere dayanıyor. Bu entegrasyon, kısa vadeli tahminlerde <strong>demand sensing (talep algılama)</strong> modellerinin isabet oranını ciddi biçimde artırmakta.</p>
 <p style="text-align: justify"><br></p>

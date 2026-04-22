@@ -1,14 +1,22 @@
 ---
-title: "Suez Kanalı ve Panama Kanalı'ndaki sorunlar lojistik kapasitesini zorluyor"
-subtitle: "Suez Kanalı ve Panama Kanalı'ndaki sorunlar lojistik kapasitesini zorluyor"
-date: "2023-12-22T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_33928d88074f49579eee86319cc76a42~mv2.jpg"
-imageAlt: "Suez Kanalı ve Panama Kanalı'ndaki sorunlar lojistik kapasitesini zorluyor"
-wixId: "141b4963-d93e-487d-ac3f-dc634d5849cb"
-author: "Sedat Onat"
+title: Suez Kanalı ve Panama Kanalı'ndaki sorunlar lojistik kapasitesini zorluyor
+subtitle: Suez Kanalı ve Panama Kanalı'ndaki sorunlar lojistik kapasitesini zorluyor
+date: '2023-12-22T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_33928d88074f49579eee86319cc76a42~mv2.jpg
+imageAlt: Suez Kanalı ve Panama Kanalı'ndaki sorunlar lojistik kapasitesini zorluyor
+wixId: 141b4963-d93e-487d-ac3f-dc634d5849cb
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Süveyş Kanalı
+- Panama Kanalı
+- Bab-el-Mandeb
+- Kızıldeniz
+- konteyner gemisi
+- gemi kapasitesi
+- Sea-Intelligence
 ---
 <p>Yemen kıyılarındaki <a href="https://www.google.com/maps/place/Bab+al-Mandab+Strait/@12.6198816,43.510642,9z/data=!3m1!4b1!4m6!3m5!1s0x16190273e93809bf:0x82668afa4df85881!8m2!3d12.4969517!4d43.5606946!16zL20vMGd0ODA?entry=ttu"><u>Bab-el-Mandeb Boğazı</u></a>'nda güvenlik durumu ciddi şekilde kötüleşti. Sea-Intelligence'e göre, Husi'ler tarafından birçok gemi saldırıya uğradı ve bu durum, birçok büyük nakliye şirketinin gemilerini Kızıldeniz'den geçmekten kaçınmak için beklemeye almasına neden oldu. Bu da Süveyş rotasının bilinmeyen bir süre için kullanılamaz hale gelmesine yol açtı.&nbsp;</p>
 <p><br></p>

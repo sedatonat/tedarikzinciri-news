@@ -1,16 +1,24 @@
 ---
-title: "VARD Signs Contract for Five Walk-to-Work Vessels with International Customer"
-subtitle: "VARD Signs Contract for Five Walk-to-Work Vessels with International Customer"
-date: "2024-11-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_59f41518a0e447e5a882538dc21ee425~mv2.png"
-imageAlt: "VARD Signs Contract for Five Walk-to-Work Vessels with International Customer"
-wixId: "6ceae1e7-9c1e-4730-9cb6-11198cdcf061"
-author: "Sedat Onat"
+title: VARD Signs Contract for Five Walk-to-Work Vessels with International Customer
+subtitle: VARD Signs Contract for Five Walk-to-Work Vessels with International Customer
+date: '2024-11-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_59f41518a0e447e5a882538dc21ee425~mv2.png
+imageAlt: VARD Signs Contract for Five Walk-to-Work Vessels with International Customer
+wixId: 6ceae1e7-9c1e-4730-9cb6-11198cdcf061
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- VARD
+- Walk-to-Work vessel
+- offshore energy
+- shipbuilding
+- hybrid propulsion system
+- SeaQ
+- Vietnam
+- oil and gas
 ---
-
 <p>VARD, based in Ålesund, Norway, announced on November 20, 2024, that it has signed a significant contract with an international customer for the design and construction of five Walk-to-Work vessels. As one of the world's leading specialized ship designers and builders, VARD aims to strengthen its leading position in the offshore energy market through this new project.</p>
 <p><br></p>
 <p>Under the contract, the five Walk-to-Work vessels to be built will provide maintenance, supply, and operational services to offshore platforms in the oil and gas sector. The vessels will be based on the VARD 3 32 design, developed by VARD in accordance with the customer's requirements. This design incorporates low fuel consumption, high operability, and the latest hull designs that optimize comfort. Additionally, the vessels will feature hybrid diesel/electric and battery-powered propulsion systems, a 3D motion-compensated gangway system, and a 3D motion-compensated crane. Comprehensive accommodation areas will be designed to provide high comfort and excellent working conditions for the crew and technicians on board.</p>

@@ -1,14 +1,22 @@
 ---
-title: "Evyapport, Portchain Connect ile İskele Hizalamasını Dijitalleştiriyor"
-subtitle: "Evyapport, Portchain Connect ile İskele Hizalamasını Dijitalleştiriyor"
-date: "2024-03-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c3fb156df10349efbd26a30d33abe34e~mv2.jpg"
-imageAlt: "Evyapport, Portchain Connect ile İskele Hizalamasını Dijitalleştiriyor"
-wixId: "8e29dc4a-0b62-450c-b732-24379d0e2526"
-author: "Sedat Onat"
+title: Evyapport, Portchain Connect ile İskele Hizalamasını Dijitalleştiriyor
+subtitle: Evyapport, Portchain Connect ile İskele Hizalamasını Dijitalleştiriyor
+date: '2024-03-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c3fb156df10349efbd26a30d33abe34e~mv2.jpg
+imageAlt: Evyapport, Portchain Connect ile İskele Hizalamasını Dijitalleştiriyor
+wixId: 8e29dc4a-0b62-450c-b732-24379d0e2526
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Evyapport
+- Portchain Connect
+- iskele hizalaması
+- konteyner terminali
+- dijitalleşme
+- liman teknolojisi
+- veri paylaşımı
 ---
 <p><a href="https://www.evyapport.com/"><u>Evyapport</u></a>, müşterilerle iskele hizalamasını dijital el sıkışmaları ve güvenli veri paylaşımı yoluyla kalite ve hız açısından artırmak amacıyla <a href="https://www.portchain.com/portchain-connect/"><u>Portchain Connect</u></a>'i kullanmaya başlayacak. Bu, <a href="https://www.portchain.com/portchain-connect/"><u>Portchain Connect </u></a>Ağı'na katılan ilk Türk konteyner terminalidir.</p>
 <p><br></p>

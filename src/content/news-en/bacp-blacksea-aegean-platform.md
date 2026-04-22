@@ -1,16 +1,24 @@
 ---
-title: "Greece, Bulgaria and Romania Establish New Black Sea–Aegean Corridor Platform"
-subtitle: "Greece, Bulgaria and Romania Establish New Black Sea–Aegean Corridor Platform"
-date: "2025-12-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_17ce723270ad4622b700a5e60619301d~mv2.jpeg"
-imageAlt: "Comprehensive overview of the Black Sea–Aegean Sea Corridor Platform (BACP) initiative created by Greece–Bulgaria–Romania, detailing objectives, cross-border infrastructure planning, EU integration and regional logistics implications"
-wixId: "f8ff8efb-c4dd-4c07-b8f1-5fcdadc286cc"
-author: "Sedat Onat"
+title: Greece, Bulgaria and Romania Establish New Black Sea–Aegean Corridor Platform
+subtitle: Greece, Bulgaria and Romania Establish New Black Sea–Aegean Corridor Platform
+date: '2025-12-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_17ce723270ad4622b700a5e60619301d~mv2.jpeg
+imageAlt: Comprehensive overview of the Black Sea–Aegean Sea Corridor Platform (BACP) initiative created by Greece–Bulgaria–Romania, detailing objectives, cross-border infrastructure planning, EU integration and regional logistics implications
+wixId: f8ff8efb-c4dd-4c07-b8f1-5fcdadc286cc
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Black Sea-Aegean corridor
+- Greece
+- Bulgaria
+- Romania
+- TEN-T
+- multimodal transport
+- rail infrastructure
+- Balkans
 ---
-
 <p style="text-align: justify">Greece, Bulgaria and Romania have launched a new multilateral cooperation initiative dubbed the <strong>Black Sea–Aegean Sea Corridor Platform (BACP)</strong>, which holds increasing strategic importance in the European Union's transport policy. Announced with the participation of EU Transport Commissioner <strong>Apostolos Tsitsikostas</strong>, the platform aims to create <strong>a shared framework for the planning, construction and operation of cross-border transport infrastructure</strong> among the three nations.</p>
 <p><br></p>
 <p style="text-align: justify">The platform's formal definition reads, "<strong>A framework for regional cooperation aimed at enhancing cross-border transport infrastructure and its planning and implementation, as well as facilitating seamless logistics</strong>." However, its practical implications are considerably broader; BACP signals a new logistics integration project aligned with the EU's <strong>TEN-T</strong> strategy along the Balkans and the Aegean–Black Sea axis.</p>

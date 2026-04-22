@@ -1,16 +1,23 @@
 ---
-title: "Port Houston Awarded $25 Million Hydrogen Fueling Station Grant"
-subtitle: "Port Houston Awarded $25 Million Hydrogen Fueling Station Grant"
-date: "2025-02-20T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_3142f45ded36404895c2d33a20a0c727~mv2.jpg"
-imageAlt: "Port Houston Awarded $25 Million Hydrogen Fueling Station Grant"
-wixId: "b2c4c99a-3cd3-44d2-906b-b1ca00dd836f"
-author: "Sedat Onat"
+title: Port Houston Awarded $25 Million Hydrogen Fueling Station Grant
+subtitle: Port Houston Awarded $25 Million Hydrogen Fueling Station Grant
+date: '2025-02-20T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_3142f45ded36404895c2d33a20a0c727~mv2.jpg
+imageAlt: Port Houston Awarded $25 Million Hydrogen Fueling Station Grant
+wixId: b2c4c99a-3cd3-44d2-906b-b1ca00dd836f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Port Houston
+- hydrogen fuel
+- port infrastructure
+- sustainability
+- carbon emissions
+- federal grant
+- clean energy
 ---
-
 <p style="text-align: justify"><strong>Port Houston</strong>, one of the largest ports in the United States, has been awarded a <strong>$25 million</strong> federal grant to develop hydrogen fuel infrastructure. The funds will be used to construct a hydrogen fueling station aimed at reducing the port's emissions and enhancing environmental sustainability. The grant is provided by the <strong>Federal Highway Administration</strong> (<strong>FHWA</strong>) of the <strong>U.S. Department of Transportation</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">Through this project, Port Houston aims to reduce carbon emissions by deploying <strong>hydrogen fuel cell vehicles</strong> and equipment in port operations. The new station will help the port achieve its carbon-neutral targets and accelerate the transition to clean energy.</p>

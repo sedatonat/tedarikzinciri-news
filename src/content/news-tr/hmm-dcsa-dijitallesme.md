@@ -1,14 +1,22 @@
 ---
-title: "HMM, DCSA Pilot Başarılarıyla Dijitalleşme Yolunda Önemli Adım Attı"
-subtitle: "HMM, DCSA Pilot Başarılarıyla Dijitalleşme Yolunda Önemli Adım Attı"
-date: "2025-11-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_63a5a35a4ad74edd8c495d43050a429d~mv2.jpg"
-imageAlt: "HMM, Genesis, Samsung SDS ve HelloContainer ile yürüttüğü DCSA Booking ve Bill of Lading pilotları sayesinde API tabanlı, standartlaştırılmış veri paylaşımını başarıyla test ederek doğruluk, hız ve görünürlükte önemli kazanımlar elde etti."
-wixId: "432e61a8-8b45-45d8-94ae-8ed13006609a"
-author: "Sedat Onat"
+title: HMM, DCSA Pilot Başarılarıyla Dijitalleşme Yolunda Önemli Adım Attı
+subtitle: HMM, DCSA Pilot Başarılarıyla Dijitalleşme Yolunda Önemli Adım Attı
+date: '2025-11-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_63a5a35a4ad74edd8c495d43050a429d~mv2.jpg
+imageAlt: HMM, Genesis, Samsung SDS ve HelloContainer ile yürüttüğü DCSA Booking ve Bill of Lading pilotları sayesinde API tabanlı, standartlaştırılmış veri paylaşımını başarıyla test ederek doğruluk, hız ve görünürlükte önemli kazanımlar elde etti.
+wixId: 432e61a8-8b45-45d8-94ae-8ed13006609a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- HMM
+- DCSA
+- dijitalleşme
+- konteyner taşımacılığı
+- API
+- Bill of Lading
+- Samsung SDS
 ---
 <p style="text-align: justify">HMM, küresel konteyner taşımacılığında dijital standartları belirleyen <strong>Digital Container Shipping Association (DCSA)</strong> ile uyumlu üç pilot projeyi başarıyla tamamlayarak dijitalleşme stratejisinde dikkat çekici bir ilerleme kaydetti. Genesis, Samsung SDS ve HelloContainer ile eş zamanlı yürütülen bu pilotlar, hem Booking hem de Bill of Lading süreçlerinde <strong>standart API tabanlı veri paylaşımının</strong> sağladığı hız, doğruluk ve operasyonel verimliliği kanıtladı.</p>
 <p><br></p>

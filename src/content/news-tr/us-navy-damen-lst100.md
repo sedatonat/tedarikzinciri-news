@@ -1,14 +1,22 @@
 ---
-title: "ABD Donanması, Orta Sınıf Çıkarma Gemisi Programında Damen LST 100 Tasarımını Seçti"
-subtitle: "ABD Donanması, Orta Sınıf Çıkarma Gemisi Programında Damen LST 100 Tasarımını Seçti"
-date: "2025-12-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_224925880078463bbbf57c4726859638~mv2.jpg"
-imageAlt: "ABD Donanması’nın Medium Landing Ship (LSM) programı kapsamında Damen Shipyards Group’un LST 100 tasarımını seçmesi, 35 adede kadar geminin ABD tersanelerinde inşa edilmesi planı ve bu tercihin dağıtık deniz harekâtı doktrinine etkilerinin detaylı özeti"
-wixId: "469c5ec5-4e51-4180-93df-e9a2999cb7e1"
-author: "Sedat Onat"
+title: ABD Donanması, Orta Sınıf Çıkarma Gemisi Programında Damen LST 100 Tasarımını Seçti
+subtitle: ABD Donanması, Orta Sınıf Çıkarma Gemisi Programında Damen LST 100 Tasarımını Seçti
+date: '2025-12-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_224925880078463bbbf57c4726859638~mv2.jpg
+imageAlt: ABD Donanması’nın Medium Landing Ship (LSM) programı kapsamında Damen Shipyards Group’un LST 100 tasarımını seçmesi, 35 adede kadar geminin ABD tersanelerinde inşa edilmesi planı ve bu tercihin dağıtık deniz harekâtı doktrinine etkilerinin detaylı özeti
+wixId: 469c5ec5-4e51-4180-93df-e9a2999cb7e1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD Donanması
+- Damen Shipyards
+- çıkarma gemisi
+- LST 100
+- deniz lojistiği
+- amfibi harekat
+- gemi inşa
 ---
 <p style="text-align: justify"><strong>ABD Donanması (US Navy)</strong>, amfibi ve kıyı odaklı harekât kabiliyetlerini güçlendirmek amacıyla yürüttüğü <strong>Medium Landing Ship (LSM)</strong> programında kritik bir karar alarak, <strong>Damen Shipyards Group</strong> tarafından geliştirilen <strong>LST 100</strong> çıkarma gemisi tasarımını seçti. Şirketin açıklamasına göre Donanma, bu tasarım temelinde <strong>35 adede kadar geminin</strong> ABD’deki tersanelerde inşa edilmesini planlamakta.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "ABD, U.S. Steel'in Nippon Steel'e Satışını Engelledi"
-subtitle: "ABD, U.S. Steel'in Nippon Steel'e Satışını Engelledi"
-date: "2025-01-03T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_baba3a1de80344d0b0e2c3e19e5d44f1~mv2.jpg"
-imageAlt: "ABD, U.S. Steel'in Nippon Steel'e Satışını Engelledi"
-wixId: "3dc4855c-cbc1-4b9b-af73-095f7bd55378"
-author: "Sedat Onat"
+title: ABD, U.S. Steel'in Nippon Steel'e Satışını Engelledi
+subtitle: ABD, U.S. Steel'in Nippon Steel'e Satışını Engelledi
+date: '2025-01-03T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_baba3a1de80344d0b0e2c3e19e5d44f1~mv2.jpg
+imageAlt: ABD, U.S. Steel'in Nippon Steel'e Satışını Engelledi
+wixId: 3dc4855c-cbc1-4b9b-af73-095f7bd55378
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- U.S. Steel
+- Nippon Steel
+- çelik endüstrisi
+- ulusal güvenlik
+- tedarik zinciri
+- ABD-Japonya ilişkileri
+- birleşme ve satın alma
 ---
 <p>3 Ocak 2025 tarihinde, ABD Başkanı Joe Biden, <strong>U.S. Steel</strong>'in Japonya merkezli <strong>Nippon Steel</strong>'e 14,9 milyar dolarlık satışını ulusal güvenlik endişeleri nedeniyle engelledi.</p>
 <p><br></p>

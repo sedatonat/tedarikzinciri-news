@@ -1,14 +1,21 @@
 ---
-title: "Evyapport Limanı'nda Vinçleri Deviren Gemi Kazası"
-subtitle: "Evyapport Limanı'nda Vinçleri Deviren Gemi Kazası"
-date: "2024-03-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a583a26170ee4ff68a212e3429007f3b~mv2.jpg"
-imageAlt: "Evyapport Limanı'nda Vinçleri Deviren Gemi Kazası"
-wixId: "690b123d-a9ef-4907-8026-77114589a3cb"
-author: "Sedat Onat"
+title: Evyapport Limanı'nda Vinçleri Deviren Gemi Kazası
+subtitle: Evyapport Limanı'nda Vinçleri Deviren Gemi Kazası
+date: '2024-03-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a583a26170ee4ff68a212e3429007f3b~mv2.jpg
+imageAlt: Evyapport Limanı'nda Vinçleri Deviren Gemi Kazası
+wixId: 690b123d-a9ef-4907-8026-77114589a3cb
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Evyapport
+- liman kazası
+- gemi kazası
+- vinç
+- Kocaeli
+- liman güvenliği
 ---
 <p>Kocaeli'nin Körfez ilçesindeki <a href="https://www.marinetraffic.com/en/ais/details/ports/17802?name=EVYAP&amp;country=Turkey"><u>Evyapport </u></a>limanında büyük bir kaza yaşandı. Seyir halindeki bir gemi, kontrolünü kaybederek kıyıda bulunan devasa vinçlere çarptı. Bu çarpmanın etkisiyle vinçler domino etkisi yaratarak birbiri ardına devrildi. Olay anı, limanda bulunan güvenlik kameraları tarafından kayda alındı ve dehşet dolu anlar gözler önüne serildi.</p>
 <p><br></p>

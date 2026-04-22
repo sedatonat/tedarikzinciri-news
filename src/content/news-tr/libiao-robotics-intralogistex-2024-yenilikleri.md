@@ -1,14 +1,22 @@
 ---
-title: "2024 IntraLogisteX'te LiBiao Robotics'in Yenilikçi Parsel Sıralama Çözümleri"
-subtitle: "2024 IntraLogisteX'te LiBiao Robotics'in Yenilikçi Parsel Sıralama Çözümleri"
-date: "2024-03-19T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_5fce73bc8d644d01978090647fe98acc~mv2.jpg"
-imageAlt: "2024 IntraLogisteX'te LiBiao Robotics'in Yenilikçi Parsel Sıralama Çözümleri"
-wixId: "2bc84b10-ffb2-4cd7-a795-827ce1083c34"
-author: "Sedat Onat"
+title: 2024 IntraLogisteX'te LiBiao Robotics'in Yenilikçi Parsel Sıralama Çözümleri
+subtitle: 2024 IntraLogisteX'te LiBiao Robotics'in Yenilikçi Parsel Sıralama Çözümleri
+date: '2024-03-19T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_5fce73bc8d644d01978090647fe98acc~mv2.jpg
+imageAlt: 2024 IntraLogisteX'te LiBiao Robotics'in Yenilikçi Parsel Sıralama Çözümleri
+wixId: 2bc84b10-ffb2-4cd7-a795-827ce1083c34
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- LiBiao Robotics
+- otonom mobil robot
+- parsel sıralama
+- IntraLogisteX
+- depo otomasyonu
+- AMR
+- lojistik teknolojisi
 ---
 <p><a href="https://www.intralogistex.co.uk"><u>IntraLogisteX 2024 </u></a>fuarında, ziyaretçiler<a href="https://www.libiaorobot.com"><u> LiBiao Robotics</u></a>'in otonom mobil robot tabanlı parsel sıralama çözümlerinin, herhangi bir lojistik tesisine veya yerine getirme merkezine önemli operasyonel verimlilikler sağlayabileceğini keşfedecekler. Bu fuar, 19 ve 20 Mart tarihlerinde Birleşik Krallık'taki Birmingham'da bulunan NEC'de gerçekleştirilecek.</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "Trump Approves \"Tiny Car\" Production: Demand Uncertainty Raises Questions in Automotive Sector"
-subtitle: "Trump Approves \"Tiny Car\" Production: Demand Uncertainty Raises Questions in Automotive Sector"
-date: "2025-12-09T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a9ef39c0d1c741f39458e0e8f1462f50~mv2.jpg"
-imageAlt: "A comprehensive overview of the Trump administration's green light for small-scale \"tiny car\" vehicle production in the United States, an approach inspired by Japanese kei car models, regulatory uncertainties, and automotive manufacturers' cautious stance"
-wixId: "54e0995a-003b-4f6e-aa2b-01f52eb75411"
-author: "Sedat Onat"
+title: 'Trump Approves "Tiny Car" Production: Demand Uncertainty Raises Questions in Automotive Sector'
+subtitle: 'Trump Approves "Tiny Car" Production: Demand Uncertainty Raises Questions in Automotive Sector'
+date: '2025-12-09T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_a9ef39c0d1c741f39458e0e8f1462f50~mv2.jpg
+imageAlt: A comprehensive overview of the Trump administration's green light for small-scale "tiny car" vehicle production in the United States, an approach inspired by Japanese kei car models, regulatory uncertainties, and automotive manufacturers' cautious stance
+wixId: 54e0995a-003b-4f6e-aa2b-01f52eb75411
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Trump
+- tiny car
+- automotive
+- USA
+- kei car
+- regulation
+- demand uncertainty
 ---
-
 <p style="text-align: justify">U.S. President <strong>Donald Trump</strong> has taken a noteworthy but uncertainty-laden step in the automotive sector, announcing approval for the production of small and low-powered vehicles defined as <strong>"tiny cars"</strong> in the United States. Through a social media post, Trump stated <strong>"I have just approved TINY CARS to be built in America,"</strong> arguing that manufacturers have long demanded such vehicles and that they are widely used globally.</p>
 <p><br></p>
 <p style="text-align: justify">In his announcement, the President noted that these vehicles could be produced with <strong>gasoline, electric, or hybrid</strong> engine options. However, the announcement was not supported by comprehensive policy documentation or a regulatory framework. The <strong>White House</strong> and <strong>Department of Transportation (DOT)</strong> did not share details about where production would take place, which safety or emissions standards might be modified, or what incentives would support this move.</p>

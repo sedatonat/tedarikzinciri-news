@@ -1,16 +1,23 @@
 ---
-title: "Russian Nuclear Icebreaker Collides with Cargo Vessel in Arctic"
-subtitle: "Russian Nuclear Icebreaker Collides with Cargo Vessel in Arctic"
-date: "2025-01-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8dc8b5f99bb44aafaf3c09620d890d1f~mv2.jpg"
-imageAlt: "Russian Nuclear Icebreaker Collides with Cargo Vessel in Arctic"
-wixId: "4d83009c-d645-44d0-8a4b-e52f2b35c760"
-author: "Sedat Onat"
+title: Russian Nuclear Icebreaker Collides with Cargo Vessel in Arctic
+subtitle: Russian Nuclear Icebreaker Collides with Cargo Vessel in Arctic
+date: '2025-01-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8dc8b5f99bb44aafaf3c09620d890d1f~mv2.jpg
+imageAlt: Russian Nuclear Icebreaker Collides with Cargo Vessel in Arctic
+wixId: 4d83009c-d645-44d0-8a4b-e52f2b35c760
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- nuclear icebreaker
+- Northern Sea Route
+- Arctic
+- cargo ship collision
+- 50 Let Pobedy
+- maritime accident
+- Polar Code
 ---
-
 <p style="text-align: justify">On the night of January 26, 2025, the <strong>50 Let Pobedy</strong>, a Russian nuclear icebreaker, collided with a cargo vessel along the Northern Sea Route, sustaining significant hull damage. The incident occurred in the <strong>Kara Sea</strong> while the icebreaker was escorting the cargo ship. Following the collision, a deep crack formed on the starboard side near the bow.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Atomflot</strong>, the operator of Russia's nuclear icebreakers, stated that the <strong>50 Let Pobedy</strong> remained seaworthy and continued operations in the <strong>Ob Gulf</strong>. It was confirmed that the damaged area is not near the nuclear reactor and the power unit is operating normally. However, uncertainty remains as to whether the vessel will complete its planned winter ice-breaking operations or return early to <strong>Murmansk</strong> for repairs.</p>

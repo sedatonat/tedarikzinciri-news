@@ -1,16 +1,23 @@
 ---
-title: "Russia Extends Gasoline Export Ban Until End of 2025"
-subtitle: "Russia Extends Gasoline Export Ban Until End of 2025"
-date: "2025-10-13T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d2d350a75d7e492a95cee63df0848262~mv2.jpg"
-imageAlt: "Russia Extends Gasoline Export Ban Until End of 2025"
-wixId: "c8af437c-ffbb-4c75-985e-05911bfe91c1"
-author: "Sedat Onat"
+title: Russia Extends Gasoline Export Ban Until End of 2025
+subtitle: Russia Extends Gasoline Export Ban Until End of 2025
+date: '2025-10-13T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_d2d350a75d7e492a95cee63df0848262~mv2.jpg
+imageAlt: Russia Extends Gasoline Export Ban Until End of 2025
+wixId: c8af437c-ffbb-4c75-985e-05911bfe91c1
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Russia
+- gasoline exports
+- export ban
+- energy policy
+- fuel supply
+- diesel fuel
+- petroleum products
 ---
-
 <p style="text-align: justify"><strong>The Russian Federation Government</strong> is extending a temporary ban on gasoline exports through <strong>December 31, 2025</strong>, to protect domestic supply security. This decision has been formalized through <strong>Government Decree No. 1503 dated September 30, 2025.</strong></p>
 <p><br></p>
 <p style="text-align: justify">According to a statement from the Government Press Office, the decision applies to all <strong>exporters and producers.</strong> As a result, restrictions on the sale of <strong>crude oil derivatives and automotive fuels</strong> abroad will continue.</p>

@@ -1,14 +1,22 @@
 ---
-title: "MSC Filosunu 7 Milyon TEU’nun Üzerine Çıkardı"
-subtitle: "MSC Filosunu 7 Milyon TEU’nun Üzerine Çıkardı"
-date: "2025-11-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6aabc3b91fcf4f81830ba6d94d99e171~mv2.jpg"
-imageAlt: "MSC’nin filosunun 7 milyon TEU’yu aşarak küresel konteyner taşımacılığında rakipsiz büyüklüğe ulaştığını açıklayan kapsamlı özet."
-wixId: "45e7ae3f-a479-4b09-9364-0d10b6038770"
-author: "Sedat Onat"
+title: MSC Filosunu 7 Milyon TEU’nun Üzerine Çıkardı
+subtitle: MSC Filosunu 7 Milyon TEU’nun Üzerine Çıkardı
+date: '2025-11-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_6aabc3b91fcf4f81830ba6d94d99e171~mv2.jpg
+imageAlt: MSC’nin filosunun 7 milyon TEU’yu aşarak küresel konteyner taşımacılığında rakipsiz büyüklüğe ulaştığını açıklayan kapsamlı özet.
+wixId: 45e7ae3f-a479-4b09-9364-0d10b6038770
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- MSC
+- konteyner taşımacılığı
+- filo kapasitesi
+- TEU
+- Maersk
+- denizcilik
+- gemi alımları
 ---
 <p style="text-align: justify">Dünya konteyner taşımacılığının lideri <strong>Mediterranean Shipping Co. (MSC)</strong>, filosunun <strong>7 milyon TEU eşiğini resmen aşmasıyla</strong> sektörde yeni bir dönüm noktasına ulaştı. Alphaliner’ın güncel verilerine göre MSC’nin toplam kapasitesi <strong>7.002.757 TEU</strong>’ya çıkmış durumda. Bu rakam, MSC’nin hem organik büyüme hem de ikinci el gemi yatırımlarıyla son on yılda gerçekleştirdiği agresif genişleme stratejisinin bir sonucu olarak öne çıkıyor.</p>
 <p><br></p>

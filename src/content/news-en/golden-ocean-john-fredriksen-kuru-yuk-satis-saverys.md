@@ -1,16 +1,22 @@
 ---
-title: "Fredriksen Exits Dry Bulk and Sells Golden Ocean to Saverys Family"
-subtitle: "Fredriksen Exits Dry Bulk and Sells Golden Ocean to Saverys Family"
-date: "2025-03-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7d9e9b8d33944b1f9c0cd00da95143bb~mv2.jpeg"
-imageAlt: "Fredriksen Exits Dry Bulk and Sells Golden Ocean to Saverys Family"
-wixId: "cd6c6034-8f54-4486-b852-ed30108dd766"
-author: "Sedat Onat"
+title: Fredriksen Exits Dry Bulk and Sells Golden Ocean to Saverys Family
+subtitle: Fredriksen Exits Dry Bulk and Sells Golden Ocean to Saverys Family
+date: '2025-03-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7d9e9b8d33944b1f9c0cd00da95143bb~mv2.jpeg
+imageAlt: Fredriksen Exits Dry Bulk and Sells Golden Ocean to Saverys Family
+wixId: cd6c6034-8f54-4486-b852-ed30108dd766
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- John Fredriksen
+- Golden Ocean
+- Saverys Family
+- dry bulk shipping
+- maritime sector
+- company sale
 ---
-
 <p style="text-align: justify"><strong>John Fredriksen</strong>, a prominent figure in the maritime industry and owner of <strong>Golden Ocean Group</strong>, has reportedly withdrawn from the dry bulk shipping sector and sold <strong>Golden Ocean</strong> to the <strong>Saverys Family</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The <strong>Saverys Family</strong>, which boasts a deep-rooted history in the maritime sector, had previously experienced financial disputes with Fredriksen. This sale stands out for having taken place despite past tensions between the two parties.</p>

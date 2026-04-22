@@ -1,14 +1,22 @@
 ---
-title: "ABD Limanlarında Yük Hacmi: Deniz Taşımacılığı Trendleri Nasıl Şekilleniyor?"
-subtitle: "ABD Limanlarında Yük Hacmi: Deniz Taşımacılığı Trendleri Nasıl Şekilleniyor?"
-date: "2024-11-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d02177638fed49ddae20e1ade76c1388~mv2.jpg"
-imageAlt: "ABD Limanlarında Yük Hacmi: Deniz Taşımacılığı Trendleri Nasıl Şekilleniyor?"
-wixId: "ff337be5-e62f-4a04-a96d-896f417aa836"
-author: "Sedat Onat"
+title: 'ABD Limanlarında Yük Hacmi: Deniz Taşımacılığı Trendleri Nasıl Şekilleniyor?'
+subtitle: 'ABD Limanlarında Yük Hacmi: Deniz Taşımacılığı Trendleri Nasıl Şekilleniyor?'
+date: '2024-11-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d02177638fed49ddae20e1ade76c1388~mv2.jpg
+imageAlt: 'ABD Limanlarında Yük Hacmi: Deniz Taşımacılığı Trendleri Nasıl Şekilleniyor?'
+wixId: ff337be5-e62f-4a04-a96d-896f417aa836
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD limanları
+- konteyner taşımacılığı
+- TEU
+- deniz taşımacılığı
+- yük hacmi
+- lojistik trendleri
+- liman operasyonları
 ---
 <p>ABD'deki 12 büyük limanın işlediği konteyner miktarı, ekonominin genel durumu hakkında önemli ipuçları sunuyor. Department of Transportation’a göre, 2022 yılında deniz taşımacılığı kapıları uluslararası yük değerinin %40'ını gerçekleştirdi. Bu nedenle, deniz limanı hacimlerini takip etmek, ulusal ticaret trendlerini yıllar ve aylar bazında değerlendirmek için iyi bir barometre olarak görülüyor.</p>
 <p><br></p>

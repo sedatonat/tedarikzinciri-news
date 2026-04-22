@@ -1,16 +1,23 @@
 ---
-title: "Chinese Air Cargo Demand and Prices Surge Ahead of New U.S. Tariffs"
-subtitle: "Chinese Air Cargo Demand and Prices Surge Ahead of New U.S. Tariffs"
-date: "2025-10-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a42a43e40d034145bc732c828e6d4fe0~mv2.jpeg"
-imageAlt: "Chinese Air Cargo Demand and Prices Surge Ahead of New U.S. Tariffs"
-wixId: "01c459c8-8b81-4c1a-a5a8-922668ee9008"
-author: "Sedat Onat"
+title: Chinese Air Cargo Demand and Prices Surge Ahead of New U.S. Tariffs
+subtitle: Chinese Air Cargo Demand and Prices Surge Ahead of New U.S. Tariffs
+date: '2025-10-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a42a43e40d034145bc732c828e6d4fe0~mv2.jpeg
+imageAlt: Chinese Air Cargo Demand and Prices Surge Ahead of New U.S. Tariffs
+wixId: 01c459c8-8b81-4c1a-a5a8-922668ee9008
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- air cargo
+- US-China
+- customs duty
+- trans-Pacific
+- supply chain
+- rare earth elements
+- spot rates
 ---
-
 <p style="text-align: justify"><strong>U.S. President Donald Trump</strong>'s threat to impose <strong>an additional 100% tariff on Chinese goods</strong> effective November 1st is rapidly increasing demand in <strong>trans-Pacific air cargo traffic</strong>. According to information reported by <strong>The Journal of Commerce (JOC)</strong>, importers are accelerating their orders to avoid potential tariffs and shifting to <strong>air cargo channels</strong>, which offer faster delivery compared to ocean freight.</p>
 <p><br></p>
 <p style="text-align: justify">In a statement released by the White House on October 10th, the measure was framed as a response to <strong>China's export restrictions on rare earth minerals</strong>. These minerals are strategic raw materials for <strong>high-technology, renewable energy, and defense industries</strong>.</p>

@@ -1,16 +1,23 @@
 ---
-title: "Container Vessels Collide in Hong Kong"
-subtitle: "Container Vessels Collide in Hong Kong"
-date: "2025-03-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c77a9e774ae0406a88ce562af51ec469~mv2.jpg"
-imageAlt: "Container Vessels Collide in Hong Kong"
-wixId: "4a5f5e27-37c3-4072-a158-95ba9e6c2123"
-author: "Sedat Onat"
+title: Container Vessels Collide in Hong Kong
+subtitle: Container Vessels Collide in Hong Kong
+date: '2025-03-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c77a9e774ae0406a88ce562af51ec469~mv2.jpg
+imageAlt: Container Vessels Collide in Hong Kong
+wixId: 4a5f5e27-37c3-4072-a158-95ba9e6c2123
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- container ship
+- Hong Kong
+- ONE
+- Maersk
+- port accident
+- maritime
+- ship collision
 ---
-
 <p style="text-align: justify">Two container vessels operated by <strong>Ocean Network Express (ONE)</strong> and <strong>Maersk</strong> collided in Hong Kong's port while maneuvering. <strong>ONE Susannah</strong>, operated by ONE, struck <strong>Maersk Kalamata</strong>, a Maersk-operated vessel, on the starboard side during docking maneuvers. The collision caused structural damage to both vessels.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>ONE Susannah</strong> is a container vessel built in 2019 with a capacity of 14,052 TEU and a length of 364 meters. <strong>Maersk Kalamata</strong> was built in 2008, has a capacity of 8,400 TEU, and measures 335 meters in length. Following the collision, both vessels were detained in port for inspection and damage assessment procedures were initiated.</p>

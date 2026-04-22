@@ -1,16 +1,23 @@
 ---
-title: "U.S. Port Tax Could Scramble Ocean Services, Raise Shipper Costs: Drewry"
-subtitle: "U.S. Port Tax Could Scramble Ocean Services, Raise Shipper Costs: Drewry"
-date: "2025-02-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5bd60a62c49441f7ad5914e48e0f33cd~mv2.jpg"
-imageAlt: "U.S. Port Tax Could Scramble Ocean Services, Raise Shipper Costs: Drewry"
-wixId: "d14a1454-bbbf-40fa-927b-99fa7d33b4c0"
-author: "Sedat Onat"
+title: 'U.S. Port Tax Could Scramble Ocean Services, Raise Shipper Costs: Drewry'
+subtitle: 'U.S. Port Tax Could Scramble Ocean Services, Raise Shipper Costs: Drewry'
+date: '2025-02-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5bd60a62c49441f7ad5914e48e0f33cd~mv2.jpg
+imageAlt: 'U.S. Port Tax Could Scramble Ocean Services, Raise Shipper Costs: Drewry'
+wixId: d14a1454-bbbf-40fa-927b-99fa7d33b4c0
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- USA
+- port tax
+- maritime transport
+- Drewry
+- supply chain
+- freight cost
+- ocean shipping
 ---
-
 <p style="text-align: justify"><strong>Drewry</strong>'s analysis suggests that a proposed U.S. port tax could cause significant disruptions to ocean shipping services and increase shipper costs. The tax could trigger a restructuring of services in the maritime transportation sector, creating uncertainties in supply chains.</p>
 <p><br></p>
 <p style="text-align: justify">The proposed port tax would elevate operational costs for maritime shipping companies, with these cost increases likely to be passed on to shippers. This situation could create additional financial burdens, particularly for companies engaged in imports and exports. Additionally, the complexity of port operational processes could increase, which may lead to service delays.</p>

@@ -1,14 +1,22 @@
 ---
-title: "Craft ile Tedarik Zinciri Risklerini Yönetmek Artık Daha Kolay"
-subtitle: "Craft ile Tedarik Zinciri Risklerini Yönetmek Artık Daha Kolay"
-date: "2024-05-08T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_c5f43e7e93444e8bbac0095cc96bd9cb~mv2.jpg"
-imageAlt: "Craft ile Tedarik Zinciri Risklerini Yönetmek Artık Daha Kolay"
-wixId: "e43d323a-8f6c-4546-9b64-c3c1ff2c63d7"
-author: "Sedat Onat"
+title: Craft ile Tedarik Zinciri Risklerini Yönetmek Artık Daha Kolay
+subtitle: Craft ile Tedarik Zinciri Risklerini Yönetmek Artık Daha Kolay
+date: '2024-05-08T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_c5f43e7e93444e8bbac0095cc96bd9cb~mv2.jpg
+imageAlt: Craft ile Tedarik Zinciri Risklerini Yönetmek Artık Daha Kolay
+wixId: e43d323a-8f6c-4546-9b64-c3c1ff2c63d7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Craft
+- tedarikçi risk yönetimi
+- SRM
+- yapay zeka
+- tedarik zinciri
+- risk yönetimi
+- işbirliği platformu
 ---
 <p>Craft, kullanıcı dostu ve yapılandırılabilir yeni bir tedarikçi risk yönetimi (SRM) platformu başlattı. Bu platform, takım işbirliğini teşvik ederek ve riskleri proaktif bir şekilde azaltarak tedarik zinciri yönetiminde devrim yaratmayı hedefliyor. Yenilikçi SRM platformu, tüm risk alanlarında daha akıllı tedarikçi kararları almayı kolaylaştırmak için kapsamlı bir veri dokusu kullanıyor. Ölçeklenebilir platform, yapay zeka destekli risk uyarıları sayesinde, tedarik zincirindeki risklere önceden tahminde bulunulmasını ve buna göre yanıt verilmesini basitleştiriyor.</p>
 <p><br></p>

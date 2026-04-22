@@ -1,16 +1,23 @@
 ---
-title: "Criteria for Logistics Centers Established in Turkey"
-subtitle: "Criteria for Logistics Centers Established in Turkey"
-date: "2023-12-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_414bd42ad52642c1baa6b78cf8e394b8~mv2.jpg"
-imageAlt: "Criteria for Logistics Centers Established in Turkey"
-wixId: "85fdac76-a8f7-43cc-9fe7-683d7942d48c"
-author: "Sedat Onat"
+title: Criteria for Logistics Centers Established in Turkey
+subtitle: Criteria for Logistics Centers Established in Turkey
+date: '2023-12-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_414bd42ad52642c1baa6b78cf8e394b8~mv2.jpg
+imageAlt: Criteria for Logistics Centers Established in Turkey
+wixId: 85fdac76-a8f7-43cc-9fe7-683d7942d48c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- logistics center
+- Turkey
+- Ministry of Transport
+- TCDD
+- logistics infrastructure
+- site selection criteria
+- 24/7 operation
 ---
-
 <p>According to information disclosed by Transport and Infrastructure Minister Abdulkadir Uraloğlu, detailed procedures and principles have been established for the site selection, planning, construction, and operation of logistics centers.</p>
 <p><br></p>
 <p>Establishment permits for logistics centers will be issued by the Logistics Coordination Board and these centers will be announced by the Transport and Infrastructure Ministry.</p>

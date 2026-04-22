@@ -1,16 +1,24 @@
 ---
-title: "Trump's China Trade Crackdown Sparks Shipping Chaos and Price Hikes"
-subtitle: "Trump's China Trade Crackdown Sparks Shipping Chaos and Price Hikes"
-date: "2025-02-09T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_432800174fb94ad7ad6fb558b2afed99~mv2.jpg"
-imageAlt: "Trump's China Trade Crackdown Sparks Shipping Chaos and Price Hikes"
-wixId: "877c3958-21fc-40c9-b699-037a3882893d"
-author: "Sedat Onat"
+title: Trump's China Trade Crackdown Sparks Shipping Chaos and Price Hikes
+subtitle: Trump's China Trade Crackdown Sparks Shipping Chaos and Price Hikes
+date: '2025-02-09T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_432800174fb94ad7ad6fb558b2afed99~mv2.jpg
+imageAlt: Trump's China Trade Crackdown Sparks Shipping Chaos and Price Hikes
+wixId: 877c3958-21fc-40c9-b699-037a3882893d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Trump
+- China
+- trade war
+- supply chain
+- tariffs
+- de minimis
+- Shein
+- Temu
 ---
-
 <p style="text-align: justify">President Donald Trump's trade pressure on China is causing significant disruptions to global supply chains and increases in consumer prices. In particular, the elimination of the "de minimis" rule that allowed small packages from China to enter the United States duty-free has created uncertainty in the logistics sector. This change affects billions of dollars worth of goods sold by retailers such as <strong>Shein</strong> and <strong>Temu</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">China reported that it exported approximately $23 billion worth of small packages to the United States last year. However, <strong>Nomura Holdings Inc.</strong> estimates that the value of packages sent to the United States could reach as high as $46 billion. The elimination of the "de minimis" rule could reduce China's export growth by 1.3 percent and decrease this year's gross domestic product growth by 0.2 percent.</p>

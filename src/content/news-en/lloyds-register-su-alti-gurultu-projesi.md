@@ -1,16 +1,24 @@
 ---
-title: "Lloyd's Register Joins Underwater Noise Pollution Project"
-subtitle: "Lloyd's Register Joins Underwater Noise Pollution Project"
-date: "2025-02-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_009a2d0be54848929227acaa4ebc9b46~mv2.jpg"
-imageAlt: "Lloyd's Register Joins Underwater Noise Pollution Project"
-wixId: "408e3750-725a-4193-a2aa-73f6aa0395e4"
-author: "Sedat Onat"
+title: Lloyd's Register Joins Underwater Noise Pollution Project
+subtitle: Lloyd's Register Joins Underwater Noise Pollution Project
+date: '2025-02-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_009a2d0be54848929227acaa4ebc9b46~mv2.jpg
+imageAlt: Lloyd's Register Joins Underwater Noise Pollution Project
+wixId: 408e3750-725a-4193-a2aa-73f6aa0395e4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Lloyd's Register
+- underwater noise
+- marine pollution
+- European Union
+- LOWNOISER project
+- maritime
+- ship technology
+- environmental protection
 ---
-
 <p style="text-align: justify">Lloyd's Register (<strong>LR</strong>) has joined the <strong>LOWNOISER</strong> project, an initiative launched to combat underwater noise pollution from maritime activities. Supported by the European Union with €6.3 million ($6.5 million), this effort brings together 15 partners to develop new noise reduction technologies, establish regulatory standards, and improve industrial applications to protect marine habitats.</p>
 <p><br></p>
 <p style="text-align: justify">Ship-generated underwater noise negatively affects marine life that communicate through sound, including whales, fish, and invertebrates. The European Commission has highlighted this issue through the <strong>Marine Strategy Framework Directive</strong>, requiring that 80% of the habitat of target species be free from physiologically harmful noise levels.</p>

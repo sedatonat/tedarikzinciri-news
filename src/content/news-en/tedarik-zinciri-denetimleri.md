@@ -1,16 +1,24 @@
 ---
-title: "Rising Supply Chain Scrutiny Strains Customs Capacity"
-subtitle: "Rising Supply Chain Scrutiny Strains Customs Capacity"
-date: "2025-11-03T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_8c8252acee704cbca062c12b15a5c25a~mv2.jpg"
-imageAlt: "The U.S. Customs and Border Protection (CBP) is running a pilot project with Altana to conduct detailed examinations of supply chains. However, rising trade regulations and complex supply structures are creating an unprecedented burden that exceeds the inspection capacity of customs authorities worldwide."
-wixId: "fe56391e-e64c-4d7f-a104-076c0667207d"
-author: "Sedat Onat"
+title: Rising Supply Chain Scrutiny Strains Customs Capacity
+subtitle: Rising Supply Chain Scrutiny Strains Customs Capacity
+date: '2025-11-03T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_8c8252acee704cbca062c12b15a5c25a~mv2.jpg
+imageAlt: The U.S. Customs and Border Protection (CBP) is running a pilot project with Altana to conduct detailed examinations of supply chains. However, rising trade regulations and complex supply structures are creating an unprecedented burden that exceeds the inspection capacity of customs authorities worldwide.
+wixId: fe56391e-e64c-4d7f-a104-076c0667207d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- customs inspection
+- supply chain transparency
+- CBP
+- Altana
+- artificial intelligence
+- UFLPA
+- digital transformation
+- regulation
 ---
-
 <p style="text-align: justify"><strong>Rising regulations in global trade</strong> are putting customs authorities under unprecedented pressure. In particular, <strong>transparency demands regarding product components, supplier networks, and manufacturing processes</strong> have reached levels that exceed the <strong>inspection capacity of many countries' customs authorities.</strong></p>
 <p><br></p>
 <p style="text-align: justify"><strong>The U.S. Customs and Border Protection (CBP)</strong> is at the forefront of this challenge. <strong>The Trump administration's escalating inspection policies on import supply chains</strong> are requiring CBP to <strong>analyze complex supply chains at the component level.</strong> However, current infrastructure and resources are proving insufficient to handle inspections at this depth.</p>

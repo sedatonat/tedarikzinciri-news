@@ -1,16 +1,24 @@
 ---
-title: "SAP: The Path to Managing a New Wave of Supply Chain Volatility is Orchestration and Real-Time Collaboration"
-subtitle: "SAP: The Path to Managing a New Wave of Supply Chain Volatility is Orchestration and Real-Time Collaboration"
-date: "2025-11-14T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_22d5e47c4b2a4d35808a1d196967f707~mv2.jpg"
-imageAlt: "SAP's Supply Chain Orchestration approach enables companies to manage volatility by connecting their supply chains end-to-end, sharing real-time data, and making AI-powered decisions in the face of rising inflation, tariffs, compliance pressures, talent shortages, and visibility challenges."
-wixId: "ac5cf5eb-f015-46fb-a428-28c76d8a99e6"
-author: "Sedat Onat"
+title: 'SAP: The Path to Managing a New Wave of Supply Chain Volatility is Orchestration and Real-Time Collaboration'
+subtitle: 'SAP: The Path to Managing a New Wave of Supply Chain Volatility is Orchestration and Real-Time Collaboration'
+date: '2025-11-14T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_22d5e47c4b2a4d35808a1d196967f707~mv2.jpg
+imageAlt: SAP's Supply Chain Orchestration approach enables companies to manage volatility by connecting their supply chains end-to-end, sharing real-time data, and making AI-powered decisions in the face of rising inflation, tariffs, compliance pressures, talent shortages, and visibility challenges.
+wixId: ac5cf5eb-f015-46fb-a428-28c76d8a99e6
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- SAP
+- supply chain orchestration
+- artificial intelligence
+- ERP
+- SAP Business Network
+- real-time collaboration
+- supply chain visibility
+- risk management
 ---
-
 <p style="text-align: justify">As global supply chains enter 2025, they face growing complexity under multiple stress factors: <strong>uncertainty, cost pressures, tariffs, compliance requirements, and talent shortages</strong>. Companies are turning to digital platforms that <strong>consolidate fragmented data silos and enable continuous "always-on," multi-layered collaboration</strong> to manage this new wave of volatility. Five key benefits outlined by SAP demonstrate why modern supply chain orchestration has become critical.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>1. Connecting the Entire Ecosystem: ERP Beyond Corporate Walls</strong></h5>

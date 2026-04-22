@@ -1,16 +1,23 @@
 ---
-title: "China Adds Electric Vehicle Battery Technologies to Export Restriction List"
-subtitle: "China Adds Electric Vehicle Battery Technologies to Export Restriction List"
-date: "2025-07-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_af8c7204842d4eac9818ff223e916b4b~mv2.png"
-imageAlt: "China Adds Residential Battery Technologies to Export Restriction List"
-wixId: "8974b9b2-28aa-4992-b777-a9b9e43e634a"
-author: "Sedat Onat"
+title: China Adds Electric Vehicle Battery Technologies to Export Restriction List
+subtitle: China Adds Electric Vehicle Battery Technologies to Export Restriction List
+date: '2025-07-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_af8c7204842d4eac9818ff223e916b4b~mv2.png
+imageAlt: China Adds Residential Battery Technologies to Export Restriction List
+wixId: 8974b9b2-28aa-4992-b777-a9b9e43e634a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- China
+- electric vehicle
+- battery technology
+- export restrictions
+- supply chain
+- LFP
+- graphite processing
 ---
-
 <p style="text-align: justify"><strong>China's government</strong> has launched a new chapter in the global supply chain by adding certain <strong>technology components and manufacturing processes</strong> that are strategically crucial to the electric vehicle (EV) battery ecosystem to its <strong>export restriction list</strong>. This decision is being regarded as a significant move from both <strong>trade policy</strong> and <strong>technology diplomacy</strong> perspectives.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">The new regulation specifically targets <strong>graphite processing</strong>, <strong>solid-state electrolyte formulations</strong>, <strong>cathode precursor chemistry</strong>, and certain <strong>manufacturing know-how</strong> transfers. In doing so, China aims to safeguard its <strong>technical superiority</strong> and <strong>intellectual property (IP) position</strong> in battery technologies.</p>

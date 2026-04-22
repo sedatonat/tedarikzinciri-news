@@ -1,14 +1,23 @@
 ---
-title: "Kazak-Çin Sınırında 2024'te Tren Trafiği Rekor Kırdı"
-subtitle: "Kazak-Çin Sınırında 2024'te Tren Trafiği Rekor Kırdı"
-date: "2025-01-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_940cba240f254b76a81ed4c7cee49fc6~mv2.jpg"
-imageAlt: "Kazak-Çin Sınırında 2024'te Tren Trafiği Rekor Kırdı"
-wixId: "c62c8d19-9dd2-4bbc-b97d-2100edfbad21"
-author: "Sedat Onat"
+title: Kazak-Çin Sınırında 2024'te Tren Trafiği Rekor Kırdı
+subtitle: Kazak-Çin Sınırında 2024'te Tren Trafiği Rekor Kırdı
+date: '2025-01-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_940cba240f254b76a81ed4c7cee49fc6~mv2.jpg
+imageAlt: Kazak-Çin Sınırında 2024'te Tren Trafiği Rekor Kırdı
+wixId: c62c8d19-9dd2-4bbc-b97d-2100edfbad21
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kazakistan
+- Çin
+- demiryolu taşımacılığı
+- Orta Koridor
+- Dostyk sınır kapısı
+- konteyner taşımacılığı
+- sınır geçişi
+- lojistik altyapı
 ---
 <p style="text-align: justify">2024 yılında, <strong>Kazakistan</strong> ile <strong>Çin</strong> arasındaki demiryolu sınır geçişlerinde önemli bir artış yaşandı. Özellikle <strong>Dostyk</strong> sınır kapısında, sonbaharda yaşanan ciddi yoğunluk dikkat çekti. Yıllık istatistikler, 2024'te Dostyk'ta on yılın rekorunun kırıldığını gösteriyor. Bu sınır kapısından geçen yük miktarı, 2023'e kıyasla %13,1 artarak 32 milyon tona ulaştı. Bu artış, <strong>Orta Koridor</strong> üzerindeki demiryolu taşımacılığının önemini bir kez daha ortaya koydu.</p>
 <p><br></p>

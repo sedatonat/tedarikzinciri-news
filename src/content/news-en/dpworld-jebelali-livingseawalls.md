@@ -1,16 +1,23 @@
 ---
-title: "DP World Installs First 1,000 Living Seawalls Panels at Jebel Ali Port"
-subtitle: "DP World Installs First 1,000 Living Seawalls Panels at Jebel Ali Port"
-date: "2025-12-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_757aa03cb5824663a3aa650897a83f42~mv2.jpg"
-imageAlt: "DP World's Living Seawalls program at Jebel Ali Port, featuring the first 1,000 ecological panels designed to strengthen marine habitats, detailed summary of biodiversity impacts and scaling plans through 2028"
-wixId: "3ca85949-517e-41ea-b1a1-b36ac258c55f"
-author: "Sedat Onat"
+title: DP World Installs First 1,000 Living Seawalls Panels at Jebel Ali Port
+subtitle: DP World Installs First 1,000 Living Seawalls Panels at Jebel Ali Port
+date: '2025-12-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_757aa03cb5824663a3aa650897a83f42~mv2.jpg
+imageAlt: DP World's Living Seawalls program at Jebel Ali Port, featuring the first 1,000 ecological panels designed to strengthen marine habitats, detailed summary of biodiversity impacts and scaling plans through 2028
+wixId: 3ca85949-517e-41ea-b1a1-b36ac258c55f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- DP World
+- Jebel Ali Port
+- Living Seawalls
+- marine ecosystem
+- sustainability
+- port infrastructure
+- biodiversity
 ---
-
 <p style="text-align: justify">Global port and logistics operator <strong>DP World</strong> has taken a significant step forward in its commitment to marine ecosystem conservation and enhancing the environmental resilience of port infrastructure at <strong>Jebel Ali Port</strong>. According to the company's announcement, <strong>1,000 eco-engineered Living Seawalls panels</strong> have been successfully installed at the port facility, completing the <strong>first phase</strong> of the program. The project aims to ensure that port infrastructure not only supports commercial operations but also creates <strong>functional marine habitats</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The Living Seawalls panels are based on the <strong>Living Seawalls</strong> program developed by the <strong>Sydney Institute of Marine Science</strong>. These modular panels are designed with <strong>shapes, grooves and surface textures</strong> that mimic natural rock formations, enabling marine organisms such as mussels, corals, algae and small crustaceans to attach to the surfaces and develop <strong>complex micro-habitats</strong> over time.</p>

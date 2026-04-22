@@ -1,16 +1,24 @@
 ---
-title: "CMA CGM Strengthens Intermodal Network with 20% Stake in EUROGATE Terminal in Hamburg"
-subtitle: "CMA CGM Strengthens Intermodal Network with 20% Stake in EUROGATE Terminal in Hamburg"
-date: "2025-11-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0a399391c9fb498790a5dae32df48867~mv2.jpg"
-imageAlt: "CMA CGM acquires a 20% stake in EUROGATE Container Terminal Hamburg (CTH) and participates in the Western Expansion project, which will increase terminal capacity from 4 million TEU to 6 million TEU; through this move, the company is deepening its vertically integrated logistics strategy."
-wixId: "355eabc4-8e54-4757-846e-46b1def37de9"
-author: "Sedat Onat"
+title: CMA CGM Strengthens Intermodal Network with 20% Stake in EUROGATE Terminal in Hamburg
+subtitle: CMA CGM Strengthens Intermodal Network with 20% Stake in EUROGATE Terminal in Hamburg
+date: '2025-11-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0a399391c9fb498790a5dae32df48867~mv2.jpg
+imageAlt: CMA CGM acquires a 20% stake in EUROGATE Container Terminal Hamburg (CTH) and participates in the Western Expansion project, which will increase terminal capacity from 4 million TEU to 6 million TEU; through this move, the company is deepening its vertically integrated logistics strategy.
+wixId: 355eabc4-8e54-4757-846e-46b1def37de9
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- CMA CGM
+- EUROGATE
+- Port of Hamburg
+- intermodal transportation
+- vertical integration
+- terminal investment
+- container terminal
+- European logistics
 ---
-
 <p style="text-align: justify">CMA CGM confirmed it has acquired a <strong>20% stake</strong> in <strong>EUROGATE Container Terminal Hamburg (CTH)</strong> as part of its strategy to expand intermodal capacity in Europe. CTH, one of Hamburg's largest container facilities, has annual handling capacity of <strong>4 million TEU</strong>. The <strong>Western Expansion</strong> project, to be implemented over the coming years, aims to increase the terminal's capacity to <strong>6 million TEU</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">CMA CGM's investment represents a continuation of the company's <strong>vertically integrated logistics structure</strong>, which has accelerated over the past five years. In 2019, the company expanded its land transportation and warehousing network by acquiring a majority stake in CEVA Logistics. This was followed by the acquisition of <strong>GEFCO</strong>, the automotive logistics giant, in 2022, and the purchase of <strong>Freightliner UK</strong>, one of the United Kingdom's largest rail freight operators, in 2025.</p>

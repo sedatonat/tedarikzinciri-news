@@ -1,14 +1,23 @@
 ---
-title: "Kızıl Deniz Güvenlik Krizi: Küresel Ticarette Rotayı Değiştiren Tehditler"
-subtitle: "Kızıl Deniz Güvenlik Krizi: Küresel Ticarette Rotayı Değiştiren Tehditler"
-date: "2023-12-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b7dadd97251a46fa8b4824807dec4d2c~mv2.png"
-imageAlt: "Kızıl Deniz Güvenlik Krizi: Küresel Ticarette Rotayı Değiştiren Tehditler"
-wixId: "14b724f2-5375-4ad2-b012-8dcb5221043a"
-author: "Sedat Onat"
+title: 'Kızıl Deniz Güvenlik Krizi: Küresel Ticarette Rotayı Değiştiren Tehditler'
+subtitle: 'Kızıl Deniz Güvenlik Krizi: Küresel Ticarette Rotayı Değiştiren Tehditler'
+date: '2023-12-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b7dadd97251a46fa8b4824807dec4d2c~mv2.png
+imageAlt: 'Kızıl Deniz Güvenlik Krizi: Küresel Ticarette Rotayı Değiştiren Tehditler'
+wixId: 14b724f2-5375-4ad2-b012-8dcb5221043a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kızıl Deniz
+- Suez Kanalı
+- konteyner taşımacılığı
+- CMA CGM
+- Ümit Burnu
+- ticaret rotası
+- güvenlik krizi
+- Avrupa Birliği
 ---
 <p>Kızıl Deniz ticaret yolu, Uzak Doğu ve Avrupa arasındaki haftalık konteyner nakliye kapasitesinin yüzde 50'den fazlasını taşıyor. Ancak, MSC ve CMA CGM gibi dev nakliye şirketleri, Suez Kanalı çevresindeki çatışmalar nedeniyle rotalarını değiştiriyor. Bu durum, küresel ticaret akışlarında artan maliyetler ve gecikmeler yaratıyor.&nbsp;</p>
 <p><br></p>

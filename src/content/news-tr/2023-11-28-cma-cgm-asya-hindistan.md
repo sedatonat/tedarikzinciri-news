@@ -1,14 +1,21 @@
 ---
-title: "CMA CGM, Asya – Hindistan Yarımadası Hizmetini Tanıtıyor"
-subtitle: "CMA CGM, Asya – Hindistan Yarımadası Hizmetini Tanıtıyor"
-date: "2023-11-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7e466861bebd48e386e9d16970e34e98~mv2.png"
-imageAlt: "CMA CGM, Asya – Hindistan Yarımadası Hizmetini Tanıtıyor"
-wixId: "87ab84aa-8685-4c22-8c5c-da2be59d4a56"
-author: "Sedat Onat"
+title: CMA CGM, Asya – Hindistan Yarımadası Hizmetini Tanıtıyor
+subtitle: CMA CGM, Asya – Hindistan Yarımadası Hizmetini Tanıtıyor
+date: '2023-11-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7e466861bebd48e386e9d16970e34e98~mv2.png
+imageAlt: CMA CGM, Asya – Hindistan Yarımadası Hizmetini Tanıtıyor
+wixId: 87ab84aa-8685-4c22-8c5c-da2be59d4a56
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CMA CGM
+- konteyner taşımacılığı
+- Asya
+- Hindistan
+- deniz taşımacılığı
+- liman rotasyonu
 ---
 <p>CMA CGM, Asya'yı Hindistan Alt Kıtası ile bağlayan yeni bir Asia Subcontinent Express 2 (AS2) hizmetini başlatacağını duyurdu.</p>
 <p><br></p>

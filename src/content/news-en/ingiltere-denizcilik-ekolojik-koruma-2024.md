@@ -1,16 +1,24 @@
 ---
-title: "UK Implements New Regulations for Marine Environmental Protection in Shipping"
-subtitle: "UK Implements New Regulations for Marine Environmental Protection in Shipping"
-date: "2024-05-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_cec9df16eafe45c6a7bf88a7586340ec~mv2.jpg"
-imageAlt: "UK Implements New Regulations for Marine Environmental Protection in Shipping"
-wixId: "dd553543-de9c-4a85-a0c8-57dc7b37674a"
-author: "Sedat Onat"
+title: UK Implements New Regulations for Marine Environmental Protection in Shipping
+subtitle: UK Implements New Regulations for Marine Environmental Protection in Shipping
+date: '2024-05-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_cec9df16eafe45c6a7bf88a7586340ec~mv2.jpg
+imageAlt: UK Implements New Regulations for Marine Environmental Protection in Shipping
+wixId: dd553543-de9c-4a85-a0c8-57dc7b37674a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- United Kingdom
+- maritime
+- environmental protection
+- antifouling
+- IMO
+- marine pollution
+- cybutryne ban
+- ship paints
 ---
-
 <p>The UK government has announced it will implement new laws regulating ship anti-fouling systems to enhance marine environmental protection. These new regulations will enforce an international agreement banning the use of cybutryne in marine paints.</p>
 <p><br></p>
 <p>Cybutryne is known to be a substance that can harm marine flora and fauna and enter the food chain. The new laws will come into force on 10 May and will apply to all UK-flagged vessels wherever they navigate. They will also cover vessels flying other countries' flags that operate in UK-controlled or UK territorial waters. Existing restrictions on equally hazardous substances, such as organotin chemicals, will remain in place.</p>

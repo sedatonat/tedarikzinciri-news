@@ -1,16 +1,23 @@
 ---
-title: "The Critical Role of Maritime Transportation in the U.S. Sustainable Transportation Future"
-subtitle: "The Critical Role of Maritime Transportation in the U.S. Sustainable Transportation Future"
-date: "2024-12-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c57f724ff1a3422d82f02dae92a8b36d~mv2.jpg"
-imageAlt: "The Critical Role of Maritime Transportation in the U.S. Sustainable Transportation Future"
-wixId: "ce1eb405-f8ab-4d60-917a-103ded56b498"
-author: "Sedat Onat"
+title: The Critical Role of Maritime Transportation in the U.S. Sustainable Transportation Future
+subtitle: The Critical Role of Maritime Transportation in the U.S. Sustainable Transportation Future
+date: '2024-12-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c57f724ff1a3422d82f02dae92a8b36d~mv2.jpg
+imageAlt: The Critical Role of Maritime Transportation in the U.S. Sustainable Transportation Future
+wixId: ce1eb405-f8ab-4d60-917a-103ded56b498
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- maritime transport
+- sustainability
+- ABS
+- intermodal transport
+- emission reduction
+- U.S. Maritime Administration
+- freight transport
 ---
-
 <p><strong>American Bureau of Shipping (ABS)</strong> President and CEO <strong>Christopher J. Wiernicki</strong> highlighted the critical role of maritime transportation in the United States' sustainable transportation future at the Sustainable Freight Transportation Workshop held at the White House.</p>
 <p><br></p>
 <p>Wiernicki emphasized that sustainability programs in the transportation sector typically focus on specific modes of transport, but what truly matters is a holistic system approach that encompasses all transportation modes from the point of origin to the final destination.</p>

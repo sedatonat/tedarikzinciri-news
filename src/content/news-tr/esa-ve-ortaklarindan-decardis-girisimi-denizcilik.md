@@ -1,14 +1,23 @@
 ---
-title: "ESA ve Ortaklarından Denizcilikte Karbon Azaltımı İçin DECARDIS Girişimi"
-subtitle: "ESA ve Ortaklarından Denizcilikte Karbon Azaltımı İçin DECARDIS Girişimi"
-date: "2024-10-31T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a43fdb8f72a74d19aef778c6c3f38877~mv2.jpg"
-imageAlt: "ESA ve Ortaklarından Denizcilikte Karbon Azaltımı İçin DECARDIS Girişimi"
-wixId: "504d2261-39a1-4b0a-8dac-e7c861aab6a8"
-author: "Sedat Onat"
+title: ESA ve Ortaklarından Denizcilikte Karbon Azaltımı İçin DECARDIS Girişimi
+subtitle: ESA ve Ortaklarından Denizcilikte Karbon Azaltımı İçin DECARDIS Girişimi
+date: '2024-10-31T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a43fdb8f72a74d19aef778c6c3f38877~mv2.jpg
+imageAlt: ESA ve Ortaklarından Denizcilikte Karbon Azaltımı İçin DECARDIS Girişimi
+wixId: 504d2261-39a1-4b0a-8dac-e7c861aab6a8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- denizcilik
+- karbon azaltımı
+- dijitalleşme
+- liman optimizasyonu
+- sera gazı emisyonu
+- ESA
+- Awake.AI
+- ABB
 ---
 <p>Avrupa Uzay Ajansı (ESA), Awake.AI, ABB ve Wallenius Marine ile iş birliği yaparak "Decarbonization through Digitalization in Shipping" (DECARDIS) adlı yeni bir girişim başlattı. ESA tarafından finanse edilen ve Awake.AI liderliğinde yürütülen proje, gemiler ve limanlar arasındaki verimsizlikleri ele alarak sera gazı (GHG) emisyonlarını azaltmayı hedefleyen bir liman çağrısı optimizasyon çözümü geliştirmeyi amaçlıyor.</p>
 <p>Ortaklar, gemi teknolojisi ve liman otomasyonunda önemli ilerlemelere rağmen, liman ve gemi sistemleri arasındaki iletişim ve veri paylaşımının hâlâ sınırlı olduğunu belirtiyor. Seyir ve yanaşma bilgileri genellikle kapalı sistemlerde bulunduğundan, gemiler zamanında varıyor ancak varışta sıklıkla gecikmelerle karşılaşıyor. Bu durum, gereksiz yakıt tüketimine ve artan emisyonlara yol açıyor.</p>

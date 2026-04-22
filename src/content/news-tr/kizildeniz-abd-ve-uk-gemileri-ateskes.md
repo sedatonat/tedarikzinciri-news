@@ -1,14 +1,22 @@
 ---
-title: "ABD ve Birleşik Krallık Gemileri, Husilerin Ateşkes Sözü Sonrası Kızıldeniz'e Döndü"
-subtitle: "ABD ve Birleşik Krallık Gemileri, Husilerin Ateşkes Sözü Sonrası Kızıldeniz'e Döndü"
-date: "2025-01-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e5072049e1c041b890e4835738302866~mv2.jpg"
-imageAlt: "ABD ve Birleşik Krallık Gemileri, Husilerin Ateşkes Sözü Sonrası Kızıldeniz'e Döndü"
-wixId: "b9dbe93d-4771-4803-88e4-cd2872a2d30a"
-author: "Sedat Onat"
+title: ABD ve Birleşik Krallık Gemileri, Husilerin Ateşkes Sözü Sonrası Kızıldeniz'e Döndü
+subtitle: ABD ve Birleşik Krallık Gemileri, Husilerin Ateşkes Sözü Sonrası Kızıldeniz'e Döndü
+date: '2025-01-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e5072049e1c041b890e4835738302866~mv2.jpg
+imageAlt: ABD ve Birleşik Krallık Gemileri, Husilerin Ateşkes Sözü Sonrası Kızıldeniz'e Döndü
+wixId: b9dbe93d-4771-4803-88e4-cd2872a2d30a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kızıldeniz
+- Husi saldırıları
+- deniz güvenliği
+- Maersk
+- MSC
+- nakliye maliyetleri
+- küresel ticaret
 ---
 <p>Son dönemde, Yemen'in <strong>Husi</strong> milislerinin ABD ve Birleşik Krallık bağlantılı gemilere yönelik saldırılarını durdurma taahhüdü vermesinin ardından, bu ülkelere ait gemiler temkinli bir şekilde Kızıldeniz'e geri dönmekte. Bu gelişme, dünya ticaretinin ana arterlerinden biri olan bölgede, bir yılı aşkın süredir devam eden aksaklıkların ardından deniz trafiğinin normalleşebileceğine işaret etmekte.​</p>
 <p><br></p>

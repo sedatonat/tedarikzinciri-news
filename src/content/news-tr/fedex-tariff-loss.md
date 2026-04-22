@@ -1,14 +1,22 @@
 ---
-title: "Fedex Tarifeler Nedeniyle 1 Milyar Dolar Kayıp Bekliyor"
-subtitle: "Fedex Tarifeler Nedeniyle 1 Milyar Dolar Kayıp Bekliyor"
-date: "2025-09-23T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a8b9d91dcb644679b253a149c2760a6b~mv2.png"
-imageAlt: "Fedex Tarifeler Nedeniyle 1 Milyar Dolar Kayıp Bekliyor"
-wixId: "0c37ea1a-347f-439e-9e0b-4f77abf51e12"
-author: "Sedat Onat"
+title: Fedex Tarifeler Nedeniyle 1 Milyar Dolar Kayıp Bekliyor
+subtitle: Fedex Tarifeler Nedeniyle 1 Milyar Dolar Kayıp Bekliyor
+date: '2025-09-23T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a8b9d91dcb644679b253a149c2760a6b~mv2.png
+imageAlt: Fedex Tarifeler Nedeniyle 1 Milyar Dolar Kayıp Bekliyor
+wixId: 0c37ea1a-347f-439e-9e0b-4f77abf51e12
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- FedEx
+- gümrük tarifeleri
+- lojistik maliyetleri
+- e-ticaret lojistiği
+- AI
+- rota optimizasyonu
+- paket teslimatı
 ---
 <p>FedEx, yeni gümrük tarifeleri nedeniyle yaklaşık 1 milyar dolarlık gelir kaybı öngörmektedir. Artan import duties ve fuel costs, paket teslim operasyonlarını etkilemektedir. Şirket, route optimization ve cost-sharing partnerships yoluyla etkileri hafifletmeye çalışmaktadır. Uzmanlar, tarife baskısının e-commerce logistics maliyetlerine yansıyacağını belirtmektedir. FedEx, AI-driven forecasting sistemleriyle rota ve fiyatlandırma stratejilerini yeniden şekillendirmektedir.</p>
 <p><br></p>

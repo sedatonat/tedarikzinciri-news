@@ -1,16 +1,24 @@
 ---
-title: "Peninsula Expands Bio-Fuel Storage and Blending Facility at Rotterdam Chane Terminal"
-subtitle: "Peninsula Expands Bio-Fuel Storage and Blending Facility at Rotterdam Chane Terminal"
-date: "2025-11-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_422a58b90e62409bafab8afe02ac8230~mv2.jpg"
-imageAlt: "Peninsula has increased bio-fuel storage and blending capacity at Rotterdam's Chane Terminal with nine new tanks with 30,000 m³ capacity; a second phase to be completed in 2026 will bring total capacity to 110,000 m³."
-wixId: "89eaa74a-b730-415a-ad95-76e2d98f1f21"
-author: "Sedat Onat"
+title: Peninsula Expands Bio-Fuel Storage and Blending Facility at Rotterdam Chane Terminal
+subtitle: Peninsula Expands Bio-Fuel Storage and Blending Facility at Rotterdam Chane Terminal
+date: '2025-11-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_422a58b90e62409bafab8afe02ac8230~mv2.jpg
+imageAlt: Peninsula has increased bio-fuel storage and blending capacity at Rotterdam's Chane Terminal with nine new tanks with 30,000 m³ capacity; a second phase to be completed in 2026 will bring total capacity to 110,000 m³.
+wixId: 89eaa74a-b730-415a-ad95-76e2d98f1f21
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Peninsula
+- Rotterdam
+- biofuel
+- bunker fuel
+- storage facility
+- low-carbon fuel
+- ISCC certification
+- maritime
 ---
-
 <p style="text-align: justify">International maritime fuel supplier <strong>Peninsula</strong> has expanded its infrastructure at the Port of Rotterdam by commissioning a new <strong>bio-fuel storage and blending facility</strong> at Chane Terminal. According to the company's statement, the project represents a strategic investment toward low-carbon fuel solutions, which are experiencing growing demand in the global maritime sector.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Phase 1: 30,000 m³ capacity, nine new tanks</strong></h4>

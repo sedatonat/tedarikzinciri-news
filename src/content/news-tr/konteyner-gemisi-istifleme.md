@@ -1,14 +1,22 @@
 ---
-title: "Konteyner Gemilerinde Yükleme ve İstifleme Nasıl Yapılıyor?"
-subtitle: "Konteyner Gemilerinde Yükleme ve İstifleme Nasıl Yapılıyor?"
-date: "2024-11-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c180e96d92394228a05e6cba047fd990~mv2.jpg"
-imageAlt: "Bir konteyner gemisinde kutuların ağırlık, boyut ve varış noktasına göre nasıl organize edildiğini gösteren video ve süreç açıklaması."
-wixId: "b26be436-7aae-4e42-b474-8ca42041f71b"
-author: "Sedat Onat"
+title: Konteyner Gemilerinde Yükleme ve İstifleme Nasıl Yapılıyor?
+subtitle: Konteyner Gemilerinde Yükleme ve İstifleme Nasıl Yapılıyor?
+date: '2024-11-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c180e96d92394228a05e6cba047fd990~mv2.jpg
+imageAlt: Bir konteyner gemisinde kutuların ağırlık, boyut ve varış noktasına göre nasıl organize edildiğini gösteren video ve süreç açıklaması.
+wixId: b26be436-7aae-4e42-b474-8ca42041f71b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- konteyner gemisi
+- yükleme planlaması
+- istifleme
+- gemi stabilitesi
+- stowage planning
+- liman operasyonları
+- denizcilik lojistiği
 ---
 <p style="text-align: justify">Modern konteyner gemileri, küresel ticaretin omurgasını oluşturan ve aynı anda binlerce konteyner taşıyabilen devasa lojistik platformlarıdır. Bu gemiler elektronik, tekstil, gıda, makineler, kimyasal maddeler ve çok çeşitli endüstriyel ürünlerin dünya pazarlarına taşınmasında kritik rol oynar. Ancak bu denli büyük hacimdeki yüklerin gemi üzerinde nasıl düzenli, güvenli ve dengeli bir şekilde istiflendiği çoğu zaman merak konusudur.</p>
 <p><br></p>

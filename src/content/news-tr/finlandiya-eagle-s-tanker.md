@@ -1,14 +1,23 @@
 ---
-title: "Finlandiya, 'Eagle S' Tankerini Karaya Yaklaştırıyor"
-subtitle: "Finlandiya, 'Eagle S' Tankerini Karaya Yaklaştırıyor"
-date: "2024-12-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_c9ce1ac7583d49e09bbe8270d1774a4b~mv2.jpg"
-imageAlt: "Finlandiya, 'Eagle S' Tankerini Karaya Yaklaştırıyor"
-wixId: "59c74707-7fe6-4222-8000-1a9abfa2d43c"
-author: "Sedat Onat"
+title: Finlandiya, 'Eagle S' Tankerini Karaya Yaklaştırıyor
+subtitle: Finlandiya, 'Eagle S' Tankerini Karaya Yaklaştırıyor
+date: '2024-12-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_c9ce1ac7583d49e09bbe8270d1774a4b~mv2.jpg
+imageAlt: Finlandiya, 'Eagle S' Tankerini Karaya Yaklaştırıyor
+wixId: 59c74707-7fe6-4222-8000-1a9abfa2d43c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Eagle S
+- petrol tankeri
+- denizaltı kabloları
+- Finlandiya
+- Baltık Denizi
+- gölge filo
+- Rusya
+- sabotaj
 ---
 <p>Finlandiya polisi, denizaltı kablolarına zarar verdiği şüphesiyle el koyduğu <strong>Eagle S</strong> adlı petrol tankerini, soruşturmayı derinleştirmek amacıyla karaya daha yakın bir noktaya taşıyor. <strong>Cook Adaları</strong> bayrağı altında seyreden bu gemi, Finlandiya ve Estonya'yı birbirine bağlayan 170 kilometrelik elektrik hattının kesilmesinden sorumlu tutuluyor.</p>
 <p><br></p>

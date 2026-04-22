@@ -1,16 +1,23 @@
 ---
-title: "Global Schedule Reliability Declined in September 2024"
-subtitle: "Global Schedule Reliability Declined in September 2024"
-date: "2024-11-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5f4655670de34d0e92389a4296d49c5d~mv2.jpg"
-imageAlt: "Global Schedule Reliability Declined in September 2024"
-wixId: "f143b63f-0013-4bb8-9c5d-d0a6264fb759"
-author: "Sedat Onat"
+title: Global Schedule Reliability Declined in September 2024
+subtitle: Global Schedule Reliability Declined in September 2024
+date: '2024-11-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5f4655670de34d0e92389a4296d49c5d~mv2.jpg
+imageAlt: Global Schedule Reliability Declined in September 2024
+wixId: f143b63f-0013-4bb8-9c5d-d0a6264fb759
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- schedule reliability
+- maritime shipping
+- Maersk
+- Sea-Intelligence
+- CMA CGM
+- container carriers
+- port performance
 ---
-
 <p>Global schedule reliability fell to 51.4% in September, declining 1.2 percentage points on a monthly basis (MoM). Sea-Intelligence released the 158th edition of its Global Liner Performance (GLP) report, which covers schedule reliability data through September 2024. The comprehensive report includes analysis across 34 trade lanes and more than 60 carriers.</p>
 <p><br></p>
 <p>In 2024, schedule reliability fluctuated between 50% and 55%, showing a slight downward trend since its peak in May. This minimal volatility provides shippers with a reasonable expectation of what to anticipate on a monthly basis. The average delay for late vessel arrivals increased by 0.21 days month-on-month to 5.67 days. This represents the third-highest monthly figure on record, surpassed only by the elevated levels seen during the 2021-2022 pandemic period.</p>

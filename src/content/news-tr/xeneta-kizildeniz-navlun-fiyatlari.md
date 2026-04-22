@@ -1,14 +1,22 @@
 ---
-title: "Xeneta: Kızıldeniz’deki Sükûnet Navlun Fiyatlarını Sert Şekilde Düşürebilir"
-subtitle: "Xeneta: Kızıldeniz’deki Sükûnet Navlun Fiyatlarını Sert Şekilde Düşürebilir"
-date: "2025-11-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5273021686624cec8e54e121a9c31e8a~mv2.jpg"
-imageAlt: "Husilerin saldırılara ara vermesi sonrası Red Sea riskinin azalması, Suez’e kitlesel dönüş yaşanması hâlinde küresel konteyner kapasitesini artırarak navlun fiyatlarında keskin düşüşlere yol açabilir; Xeneta analistleri belirsizliğin hâlen çok yüksek olduğunu vurguluyor."
-wixId: "87dce9e8-d2f7-49b1-8d85-93ef191ac644"
-author: "Sedat Onat"
+title: 'Xeneta: Kızıldeniz’deki Sükûnet Navlun Fiyatlarını Sert Şekilde Düşürebilir'
+subtitle: 'Xeneta: Kızıldeniz’deki Sükûnet Navlun Fiyatlarını Sert Şekilde Düşürebilir'
+date: '2025-11-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5273021686624cec8e54e121a9c31e8a~mv2.jpg
+imageAlt: Husilerin saldırılara ara vermesi sonrası Red Sea riskinin azalması, Suez’e kitlesel dönüş yaşanması hâlinde küresel konteyner kapasitesini artırarak navlun fiyatlarında keskin düşüşlere yol açabilir; Xeneta analistleri belirsizliğin hâlen çok yüksek olduğunu vurguluyor.
+wixId: 87dce9e8-d2f7-49b1-8d85-93ef191ac644
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kızıldeniz
+- navlun fiyatları
+- Xeneta
+- Süveyş Kanalı
+- konteyner taşımacılığı
+- Husiler
+- Ümit Burnu
 ---
 <p style="text-align: justify">Husilerin İsrail ve ticari gemilere yönelik saldırıları askıya aldığını duyurması, küresel konteyner taşımacılığında <strong>oyun değiştirici bir etki</strong> yaratma potansiyeline sahip. Ancak piyasa istihbarat platformu <strong>Xeneta’nın Baş Analisti Peter Sand</strong>, “durumun hâlen son derece belirsiz” olduğunu vurgulayarak, taşıyıcıların ve sigorta şirketlerinin yalnızca sözlü bir güvenceyle normal operasyonlara dönemeyeceğini ifade etti.</p>
 <p><br></p>

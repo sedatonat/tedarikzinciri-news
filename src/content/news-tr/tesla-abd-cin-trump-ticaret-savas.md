@@ -1,14 +1,23 @@
 ---
-title: "Tesla, Trump'ın Ticaret Savaşının Misilleme ve Maliyet Risklerine Karşı Uyardı"
-subtitle: "Tesla, Trump'ın Ticaret Savaşının Misilleme ve Maliyet Risklerine Karşı Uyardı"
-date: "2025-03-14T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_f8b95e6d48644c80b252e5edc5d81dc5~mv2.jpg"
-imageAlt: "Tesla, Trump'ın Ticaret Savaşının Misilleme ve Maliyet Risklerine Karşı Uyardı"
-wixId: "16fb43a5-86f6-4e23-996d-2aeb27262617"
-author: "Sedat Onat"
+title: Tesla, Trump'ın Ticaret Savaşının Misilleme ve Maliyet Risklerine Karşı Uyardı
+subtitle: Tesla, Trump'ın Ticaret Savaşının Misilleme ve Maliyet Risklerine Karşı Uyardı
+date: '2025-03-14T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_f8b95e6d48644c80b252e5edc5d81dc5~mv2.jpg
+imageAlt: Tesla, Trump'ın Ticaret Savaşının Misilleme ve Maliyet Risklerine Karşı Uyardı
+wixId: 16fb43a5-86f6-4e23-996d-2aeb27262617
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Tesla
+- ticaret savaşı
+- Donald Trump
+- tedarik zinciri
+- elektrikli araç
+- misilleme tarifeleri
+- Çin
+- ithalat tarifeleri
 ---
 <p style="text-align: justify"><strong>Tesla</strong>, ABD Başkanı <strong>Donald Trump</strong>'ın uygulamaya koyduğu geniş kapsamlı ithalat tarifelerinin ardından, diğer ülkelerin misilleme hamlelerinin üretim maliyetlerini artırabileceği ve araçlarının uluslararası pazarlarda rekabet gücünü azaltabileceği konusunda endişelerini dile getirdi. Şirket, 11 Mart tarihli bir mektupta, ABD Ticaret Temsilcisi <strong>Jamieson Greer</strong>'e, ABD'li ihracatçıların bu tür ticaret eylemlerine karşı orantısız etkilere maruz kalabileceğini belirtti.</p>
 <p><br></p>

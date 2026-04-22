@@ -1,16 +1,24 @@
 ---
-title: "LNG Becoming Preferred Alternative Fuel in Container Shipping Lines"
-subtitle: "LNG Becoming Preferred Alternative Fuel in Container Shipping Lines"
-date: "2025-10-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a71a45d4ee374490a970371862fa8e33~mv2.jpg"
-imageAlt: "Despite uncertainties in the International Maritime Organization (IMO)'s decarbonization agenda, LNG (liquefied natural gas) has become the most widely preferred alternative fuel among container lines. LNG-powered vessel orders have risen from 194 at the end of 2023 to 362 by mid-2025."
-wixId: "780ebb19-b95e-4c97-8c29-5fd0fecfe46a"
-author: "Sedat Onat"
+title: LNG Becoming Preferred Alternative Fuel in Container Shipping Lines
+subtitle: LNG Becoming Preferred Alternative Fuel in Container Shipping Lines
+date: '2025-10-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a71a45d4ee374490a970371862fa8e33~mv2.jpg
+imageAlt: Despite uncertainties in the International Maritime Organization (IMO)'s decarbonization agenda, LNG (liquefied natural gas) has become the most widely preferred alternative fuel among container lines. LNG-powered vessel orders have risen from 194 at the end of 2023 to 362 by mid-2025.
+wixId: 780ebb19-b95e-4c97-8c29-5fd0fecfe46a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- LNG
+- alternative fuel
+- container ship
+- decarbonization
+- maritime shipping
+- IMO
+- methanol
+- CMA CGM
 ---
-
 <p style="text-align: justify"><strong>A new era is beginning in the decarbonization process of global maritime shipping:</strong> <strong>LNG (liquefied natural gas)</strong> has become the <strong>most preferred alternative fuel</strong> in the container shipping sector.</p>
 <p><br></p>
 <p style="text-align: justify">According to analysis by <strong>Peter Tirschwell</strong>, the stalling of the decarbonization agenda at <strong>the International Maritime Organization (IMO)</strong>'s <strong>policy meeting in October 2025</strong> has directed many carriers toward <strong>LNG rather than more complex alternatives such as methanol, ammonia, or hydrogen.</strong></p>

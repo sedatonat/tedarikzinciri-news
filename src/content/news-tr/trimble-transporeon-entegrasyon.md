@@ -1,14 +1,23 @@
 ---
-title: "Trimble ve Transporeon: Gerçek Zamanlı Yük Takibi ve TMS Entegrasyonu"
-subtitle: "Trimble ve Transporeon: Gerçek Zamanlı Yük Takibi ve TMS Entegrasyonu"
-date: "2025-02-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a749cb4b64f9458d9f1a65b512ae450a~mv2.jpg"
-imageAlt: "Trimble ve Transporeon: Gerçek Zamanlı Yük Takibi ve TMS Entegrasyonu"
-wixId: "eadc5fab-283b-4d20-8d84-49f3ea0034ec"
-author: "Sedat Onat"
+title: 'Trimble ve Transporeon: Gerçek Zamanlı Yük Takibi ve TMS Entegrasyonu'
+subtitle: 'Trimble ve Transporeon: Gerçek Zamanlı Yük Takibi ve TMS Entegrasyonu'
+date: '2025-02-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a749cb4b64f9458d9f1a65b512ae450a~mv2.jpg
+imageAlt: 'Trimble ve Transporeon: Gerçek Zamanlı Yük Takibi ve TMS Entegrasyonu'
+wixId: eadc5fab-283b-4d20-8d84-49f3ea0034ec
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Trimble
+- Transporeon
+- gerçek zamanlı takip
+- TMS
+- tedarik zinciri
+- yük takibi
+- lojistik yönetimi
+- dijital dönüşüm
 ---
 <p style="text-align: justify"><strong>Trimble</strong> ve <strong>Transporeon</strong>, tedarik zinciri yönetiminde devrim yaratmak amacıyla güçlerini birleştirdi. Bu iş birliği, gerçek zamanlı yük takibi ve <strong>Transportation Management System (TMS)</strong> entegrasyonunu sorunsuz bir şekilde bir araya getirerek, lojistik operasyonlarını daha verimli ve şeffaf hale getirmekte.​</p>
 <p><br></p>

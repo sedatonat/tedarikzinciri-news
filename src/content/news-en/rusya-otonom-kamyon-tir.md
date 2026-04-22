@@ -1,16 +1,23 @@
 ---
-title: "Russia Approves Roadmap for Autonomous Road Transport"
-subtitle: "Russia Approves Roadmap for Autonomous Road Transport"
-date: "2025-10-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_406aa5557d7a48ce81988b75b5b8f99f~mv2.jpg"
-imageAlt: "Russia Approves Roadmap for Driverless Road Transport"
-wixId: "798a5f1c-09c0-41a4-88da-d5488ae070a9"
-author: "Sedat Onat"
+title: Russia Approves Roadmap for Autonomous Road Transport
+subtitle: Russia Approves Roadmap for Autonomous Road Transport
+date: '2025-10-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_406aa5557d7a48ce81988b75b5b8f99f~mv2.jpg
+imageAlt: Russia Approves Roadmap for Driverless Road Transport
+wixId: 798a5f1c-09c0-41a4-88da-d5488ae070a9
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Russia
+- autonomous vehicle
+- driverless truck
+- level 5 autonomous
+- road transport
+- digital road twins
+- logistics infrastructure
 ---
-
 <p><strong>The Russian Federation Government</strong>, at a meeting chaired by <strong>Deputy Prime Minister Vitaly Savelyev</strong>, approved a new <strong>road map</strong> for the deployment of <strong>fully autonomous (Level 5) driverless trucks</strong> on public roads.</p>
 <p><br>
 The meeting was announced by the <strong>Russian Government Press Office</strong>.</p>

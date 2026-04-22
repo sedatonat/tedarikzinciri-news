@@ -1,14 +1,23 @@
 ---
-title: "Seaspan Nükleer Güçlü Konteyner Gemileri İçin Yeni SMR Raporunu Değerlendiriyor"
-subtitle: "Seaspan Nükleer Güçlü Konteyner Gemileri İçin Yeni SMR Raporunu Değerlendiriyor"
-date: "2025-11-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5a7acf81b84a4f85bb14f8e43622db0c~mv2.jpeg"
-imageAlt: "Lloyd’s Register ve LucidCatalyst’in hazırladığı raporun, Seaspan’ın nükleer modüler reaktörlü konteyner gemileri için ortaya koyduğu teknik, ekonomik ve tedarik zinciri analizini içeren detaylı özet"
-wixId: "67500299-5ba8-4285-81fc-3ee45f223d8d"
-author: "Sedat Onat"
+title: Seaspan Nükleer Güçlü Konteyner Gemileri İçin Yeni SMR Raporunu Değerlendiriyor
+subtitle: Seaspan Nükleer Güçlü Konteyner Gemileri İçin Yeni SMR Raporunu Değerlendiriyor
+date: '2025-11-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5a7acf81b84a4f85bb14f8e43622db0c~mv2.jpeg
+imageAlt: Lloyd’s Register ve LucidCatalyst’in hazırladığı raporun, Seaspan’ın nükleer modüler reaktörlü konteyner gemileri için ortaya koyduğu teknik, ekonomik ve tedarik zinciri analizini içeren detaylı özet
+wixId: 67500299-5ba8-4285-81fc-3ee45f223d8d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- SMR
+- nükleer tahrik
+- konteyner gemisi
+- Seaspan
+- Lloyd's Register
+- denizcilik
+- emisyon azaltımı
+- sürdürülebilirlik
 ---
 <p style="text-align: justify"><strong>Seaspan Corporation</strong>, nükleer enerjiyle çalışan konteyner gemilerine yönelik yeni bir değerlendirme raporunun yayımlanmasıyla küresel denizcilik sektöründe dikkat çekici bir tartışma başlattı. <strong>Lloyd’s Register</strong> ve <strong>LucidCatalyst</strong> tarafından hazırlanan çalışma, küçük modüler reaktörlerin (<strong>SMR – Small Modular Reactor</strong>) konteyner filosuna entegre edilmesinin teknik, ekonomik ve düzenleyici açıdan mümkün olduğunu ortaya koymakta. Rapora göre nükleer tahrik sistemi, yalnızca emisyonları ortadan kaldırmakla kalmamakta; aynı zamanda navlun ekonomilerini kökten değiştirebilecek ölçekte maliyet avantajları yaratmakta.</p>
 <p><br></p>

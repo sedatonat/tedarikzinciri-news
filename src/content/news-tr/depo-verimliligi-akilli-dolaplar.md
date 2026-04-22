@@ -1,14 +1,22 @@
 ---
-title: "Depo Verimliliğini Akıllı Dolap Sistemleri ve Anahtar Dolapları ile Artırma"
-subtitle: "Depo Verimliliğini Akıllı Dolap Sistemleri ve Anahtar Dolapları ile Artırma"
-date: "2025-02-18T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_443d2c19b686483bad4cc647524de0fc~mv2.jpg"
-imageAlt: "Depo Verimliliğini Akıllı Dolap Sistemleri ve Anahtar Dolapları ile Artırma"
-wixId: "6898b033-cf7f-47ae-aeed-d1a711d17290"
-author: "Sedat Onat"
+title: Depo Verimliliğini Akıllı Dolap Sistemleri ve Anahtar Dolapları ile Artırma
+subtitle: Depo Verimliliğini Akıllı Dolap Sistemleri ve Anahtar Dolapları ile Artırma
+date: '2025-02-18T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_443d2c19b686483bad4cc647524de0fc~mv2.jpg
+imageAlt: Depo Verimliliğini Akıllı Dolap Sistemleri ve Anahtar Dolapları ile Artırma
+wixId: 6898b033-cf7f-47ae-aeed-d1a711d17290
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- akıllı dolap sistemleri
+- anahtar dolapları
+- depo verimliliği
+- envanter yönetimi
+- RFID
+- IoT
+- depo otomasyon
 ---
 <p style="text-align: justify">Depo operasyonlarının etkinliği, işletmelerin genel başarısı için kritik bir faktördür. <strong>Akıllı dolap sistemleri</strong> ve <strong>anahtar dolapları</strong>, bu operasyonların verimliliğini artırmakta önemli bir rol oynamaktadır. Bu teknolojiler, depo yönetiminde karşılaşılan zorlukları hafifletmekte ve süreçleri optimize etmektedir.</p>
 <p><br></p>

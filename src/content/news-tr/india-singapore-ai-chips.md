@@ -1,14 +1,23 @@
 ---
-title: "Hindistan ve Singapur: Abd Tarife Risklerine Karşı Yapay Zekâ Çip Bağlarını Derinleştiriyor"
-subtitle: "Hindistan ve Singapur: Abd Tarife Risklerine Karşı Yapay Zekâ Çip Bağlarını Derinleştiriyor"
-date: "2025-09-04T00:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_75537f847d664cffa0f31301d14375ac~mv2.png"
-imageAlt: "Hindistan-singapur: Abd Tarife Risklerine Karşı Yapay Zekâ Çip Bağlarını Derinleştiriyor"
-wixId: "d1b6bc73-f998-4d5e-8ada-8c575a62d629"
-author: "Sedat Onat"
+title: 'Hindistan ve Singapur: Abd Tarife Risklerine Karşı Yapay Zekâ Çip Bağlarını Derinleştiriyor'
+subtitle: 'Hindistan ve Singapur: Abd Tarife Risklerine Karşı Yapay Zekâ Çip Bağlarını Derinleştiriyor'
+date: '2025-09-04T00:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_75537f847d664cffa0f31301d14375ac~mv2.png
+imageAlt: 'Hindistan-singapur: Abd Tarife Risklerine Karşı Yapay Zekâ Çip Bağlarını Derinleştiriyor'
+wixId: d1b6bc73-f998-4d5e-8ada-8c575a62d629
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- yapay zeka çipleri
+- yarı iletken
+- Hindistan
+- Singapur
+- friend-shoring
+- tedarik zinciri
+- AI chips
+- tarife riskleri
 ---
 <p style="text-align: justify">Jeopolitik rekabetin ve tarife belirsizliklerinin arttığı bir dönemde, <strong>Hindistan ve Singapur arasında yapay zekâ çiplerine (AI chips)</strong> odaklanan yeni iş birliği dikkat çekiyor. Bu girişim, <strong>yarı iletken tasarımı (semiconductor design)</strong>, <strong>paketleme ve montaj (OSAT – Outsourced Semiconductor Assembly and Test)</strong> ile <strong>yetenek değişimi (talent exchange)</strong> alanlarını kapsayarak Asya yarı iletken tedarik zincirinde stratejik bir çeşitlenme sağlıyor.</p>
 <p style="text-align: justify"><br></p>

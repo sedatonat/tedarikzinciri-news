@@ -1,14 +1,22 @@
 ---
-title: "AB, Denizcilik Sektöründe Emisyon Azaltımı İçin Yeni Düzenlemeler Getiriyor"
-subtitle: "AB, Denizcilik Sektöründe Emisyon Azaltımı İçin Yeni Düzenlemeler Getiriyor"
-date: "2025-01-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_60d7b7d57e4e4ca18a8e1dce935ba648~mv2.jpg"
-imageAlt: "AB, Denizcilik Sektöründe Emisyon Azaltımı İçin Yeni Düzenlemeler Getiriyor"
-wixId: "03419368-89a3-4575-ae5d-1610c6ae7d79"
-author: "Sedat Onat"
+title: AB, Denizcilik Sektöründe Emisyon Azaltımı İçin Yeni Düzenlemeler Getiriyor
+subtitle: AB, Denizcilik Sektöründe Emisyon Azaltımı İçin Yeni Düzenlemeler Getiriyor
+date: '2025-01-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_60d7b7d57e4e4ca18a8e1dce935ba648~mv2.jpg
+imageAlt: AB, Denizcilik Sektöründe Emisyon Azaltımı İçin Yeni Düzenlemeler Getiriyor
+wixId: 03419368-89a3-4575-ae5d-1610c6ae7d79
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Avrupa Birliği
+- denizcilik
+- emisyon azaltımı
+- sera gazı
+- sürdürülebilirlik
+- IMO
+- karbon emisyonu
 ---
 <p style="text-align: justify">Avrupa Birliği (<strong>EU</strong>), denizcilik sektöründe sera gazı emisyonlarını azaltmak amacıyla yeni düzenlemeler uygulamaya koymakta. Bu adım, <strong>International Maritime Organization (IMO)</strong> tarafından belirlenen küresel hedeflerin ötesine geçmeyi hedeflemekte.</p>
 <p><br></p>

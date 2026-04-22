@@ -1,14 +1,22 @@
 ---
-title: "Güney Kore'nin Otonom Deniz Yolculuğunda Dev Adım"
-subtitle: "Güney Kore'nin Otonom Deniz Yolculuğunda Dev Adım"
-date: "2024-03-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_89c412378a7a4a5da275c12ac0555a0b~mv2.png"
-imageAlt: "Güney Kore'nin Otonom Deniz Yolculuğunda Dev Adım"
-wixId: "5a283b41-fe62-47e2-8f67-58fd9c810500"
-author: "Sedat Onat"
+title: Güney Kore'nin Otonom Deniz Yolculuğunda Dev Adım
+subtitle: Güney Kore'nin Otonom Deniz Yolculuğunda Dev Adım
+date: '2024-03-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_89c412378a7a4a5da275c12ac0555a0b~mv2.png
+imageAlt: Güney Kore'nin Otonom Deniz Yolculuğunda Dev Adım
+wixId: 5a283b41-fe62-47e2-8f67-58fd9c810500
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Güney Kore
+- otonom gemi
+- Hyundai Mipo Tersanesi
+- konteyner gemisi
+- Pan Ocean
+- denizcilik teknolojisi
+- IMO
 ---
 <p>Güney Kore'nin <a href="https://www.hmd.co.kr/english/main/main.jsp"><u>Hyundai Mipo Tersanesi (HMD)</u></a>, Offshore Energy'ye göre, ülkenin ilk otonom navigasyon için tasarlanmış pilot gemisini tanıttı. 8 Mart 2024'te, tersane, Güney Kore'nin otonom operasyonlar için ilk gösterim gemisi olan Pos Singapore ve Pos Laemchabang olmak üzere, aynı anda inşa edilen iki adet 1,800 TEU konteyner gemisinin isimlendirme törenini gerçekleştirdi.&nbsp;</p>
 <p><br></p>

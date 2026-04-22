@@ -1,14 +1,22 @@
 ---
-title: "Kuehne+Nagel, Hindistan’daki Depolama ve Dağıtım Kapasitesini Artırıyor"
-subtitle: "Kuehne+Nagel, Hindistan’daki Depolama ve Dağıtım Kapasitesini Artırıyor"
-date: "2025-10-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1aca55a2e9e14823a92118c06dd55b53~mv2.jpg"
-imageAlt: "Kuehne+Nagel, Hindistan’daki Depolama ve Dağıtım Kapasitesini 100.000 m² Artırmakta"
-wixId: "bbf10c83-981d-4fe8-ba42-09e89d2be41a"
-author: "Sedat Onat"
+title: Kuehne+Nagel, Hindistan’daki Depolama ve Dağıtım Kapasitesini Artırıyor
+subtitle: Kuehne+Nagel, Hindistan’daki Depolama ve Dağıtım Kapasitesini Artırıyor
+date: '2025-10-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1aca55a2e9e14823a92118c06dd55b53~mv2.jpg
+imageAlt: Kuehne+Nagel, Hindistan’daki Depolama ve Dağıtım Kapasitesini 100.000 m² Artırmakta
+wixId: bbf10c83-981d-4fe8-ba42-09e89d2be41a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kuehne+Nagel
+- Hindistan
+- fulfilment merkezi
+- depolama kapasitesi
+- otomasyon
+- e-ticaret lojistiği
+- Asya Pasifik
 ---
 <p style="text-align: justify"><strong>Kuehne+Nagel</strong>, Hindistan’daki hızlı ekonomik büyümeye paralel olarak <strong>beş yeni fulfilment merkezi (sipariş karşılama deposu)</strong> açacağını duyurdu.<br>
 Yeni tesisler, <strong>Gurgaon, Kolkata, Nagpur, Mumbai ve Rajpura</strong> şehirlerinde yer almakta ve toplamda <strong>100.000 metrekare ek alan</strong> kazandırarak şirketin <strong>Hindistan’daki toplam depolama kapasitesini 500.000 m²’ye</strong> yaklaştırmakta.</p>

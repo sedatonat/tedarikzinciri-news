@@ -1,16 +1,24 @@
 ---
-title: "The Maersk Saltoro Case: Lessons for Governments, Insurers, and Shippers"
-subtitle: "The Maersk Saltoro Case: Lessons for Governments, Insurers, and Shippers"
-date: "2025-03-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_629f1ff6bc014d04b4172534677b01c3~mv2.jpg"
-imageAlt: "The Maersk Saltoro Case: Lessons for Governments, Insurers, and Shippers"
-wixId: "b669348b-54f5-4ed6-b7f6-20385af07043"
-author: "Sedat Onat"
+title: 'The Maersk Saltoro Case: Lessons for Governments, Insurers, and Shippers'
+subtitle: 'The Maersk Saltoro Case: Lessons for Governments, Insurers, and Shippers'
+date: '2025-03-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_629f1ff6bc014d04b4172534677b01c3~mv2.jpg
+imageAlt: 'The Maersk Saltoro Case: Lessons for Governments, Insurers, and Shippers'
+wixId: b669348b-54f5-4ed6-b7f6-20385af07043
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Maersk
+- container ship
+- ocean shipping
+- General Average
+- logistics risk
+- insurance
+- Chile
+- cherry exports
 ---
-
 <h5 style="text-align: justify"><strong>Details of the Incident</strong></h5>
 <p style="text-align: justify">The container ship <a href="https://www.vesselfinder.com/vessels/details/9725706"><u><strong>Maersk Saltoro</strong></u></a> departed from Chile's <a href="https://www.vesselfinder.com/tr/ports/CLSAI001"><u><strong>San Antonio</strong></u></a> port on December 27, 2024, bound for China. The vessel was carrying over 1,300 containers of cherries intended to reach the Chinese market ahead of the Chinese New Year. However, on January 13, 2025, a main engine failure near Micronesia left the ship drifting at sea for 23 days.</p>
 <p><br></p>

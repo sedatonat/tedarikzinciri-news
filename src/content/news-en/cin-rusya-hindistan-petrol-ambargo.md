@@ -1,16 +1,24 @@
 ---
-title: "Under U.S. Pressure, China and India Back Away from Russian Oil"
-subtitle: "Under U.S. Pressure, China and India Back Away from Russian Oil"
-date: "2025-10-24T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_70c5d4e1dfc644f5ad3366e1e15b293c~mv2.jpg"
-imageAlt: "Under U.S. Pressure, China and India are Backing Away from Russian Oil"
-wixId: "593b3126-50fd-42b0-85ac-3dd96486d1fb"
-author: "Sedat Onat"
+title: Under U.S. Pressure, China and India Back Away from Russian Oil
+subtitle: Under U.S. Pressure, China and India Back Away from Russian Oil
+date: '2025-10-24T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_70c5d4e1dfc644f5ad3366e1e15b293c~mv2.jpg
+imageAlt: Under U.S. Pressure, China and India are Backing Away from Russian Oil
+wixId: 593b3126-50fd-42b0-85ac-3dd96486d1fb
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Russian oil
+- US sanctions
+- China
+- India
+- energy supply chain
+- tanker shipping
+- OPEC
+- global energy
 ---
-
 <p style="text-align: justify"><strong>Fresh U.S. sanctions</strong> are sending shockwaves through global energy markets. Following <strong>the Trump administration's</strong> imposition of sanctions on <strong>Rosneft</strong> and <strong>Lukoil</strong> this week, <strong>China and India, Russia's two largest buyers,</strong> have temporarily halted Russian crude oil imports. This development has the potential to create a significant contraction in energy revenues that have financed Moscow's war in Ukraine for the past three and a half years.</p>
 <p><br></p>
 <p style="text-align: justify">Sources report that China's major energy giants <strong>Sinopec, CNOOC,</strong> and <strong>PetroChina</strong> have suspended their seaborne purchases of Russian crude not as a political stance but due to <strong>compliance calculus</strong> concerns. According to experts, this decision reflects the view that the risk of exposure to secondary sanctions carries more weight than short-term commercial gains.</p>

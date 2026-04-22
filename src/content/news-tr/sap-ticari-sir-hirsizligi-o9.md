@@ -1,14 +1,23 @@
 ---
-title: "SAP Hakkında Ticari Sır Hırsızlığı Suçlaması: o9 Solutions Dava Açtı"
-subtitle: "SAP Hakkında Ticari Sır Hırsızlığı Suçlaması: o9 Solutions Dava Açtı"
-date: "2025-11-26T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_787f148b62094fff8532b98cd9ffac6c~mv2.jpg"
-imageAlt: "SAP’a karşı o9 Solutions tarafından açılan ticari sır hırsızlığı davasının kapsamı, iddialar, eski yöneticilerin rolü ve tedarik zinciri planlama yazılımları arasındaki rekabetin sektörel etkilerini özetleyen detaylı açıklama."
-wixId: "da2998c1-0160-485a-b351-e691e72a9cc7"
-author: "Sedat Onat"
+title: 'SAP Hakkında Ticari Sır Hırsızlığı Suçlaması: o9 Solutions Dava Açtı'
+subtitle: 'SAP Hakkında Ticari Sır Hırsızlığı Suçlaması: o9 Solutions Dava Açtı'
+date: '2025-11-26T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_787f148b62094fff8532b98cd9ffac6c~mv2.jpg
+imageAlt: SAP’a karşı o9 Solutions tarafından açılan ticari sır hırsızlığı davasının kapsamı, iddialar, eski yöneticilerin rolü ve tedarik zinciri planlama yazılımları arasındaki rekabetin sektörel etkilerini özetleyen detaylı açıklama.
+wixId: da2998c1-0160-485a-b351-e691e72a9cc7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- SAP
+- o9 Solutions
+- ticari sır hırsızlığı
+- tedarik zinciri planlama
+- yapay zeka
+- AI
+- dava
+- yazılım
 ---
 <p style="text-align: justify">Tedarik zinciri analitiği ve yapay zekâ tabanlı planlama çözümlerinde hızla büyüyen <strong>o9 Solutions Inc.</strong>, 25 Kasım’da Teksas’ın Dallas federal mahkemesinde açtığı dava ile <strong>SAP SE</strong>’yi ticari sır hırsızlığıyla suçladı. Şirket, üç eski yöneticisinin, o9’un <strong>supply chain management</strong> yazılımının <strong>tasarım</strong>, <strong>implementasyon</strong> ve <strong>test</strong> süreçlerine ilişkin <strong>kritik ticari sırları</strong> indirip SAP’ye aktardığını iddia ediyor. Bu dava, özellikle <strong>ileri planlama çözümleri</strong> ve <strong>AI-driven supply chain optimization</strong> pazarında rekabetin keskinleştiği bir dönemde dikkat çekiyor.</p>
 <p><br></p>

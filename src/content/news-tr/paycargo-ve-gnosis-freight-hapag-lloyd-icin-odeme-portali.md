@@ -1,14 +1,23 @@
 ---
-title: "PayCargo ve Gnosis Freight, Hapag-Lloyd İçin Konteyner Ödeme Portalı Geliştiriyor"
-subtitle: "PayCargo ve Gnosis Freight, Hapag-Lloyd İçin Konteyner Ödeme Portalı Geliştiriyor"
-date: "2025-03-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5384ce62dc5549968ecf4840fd0c8bf6~mv2.png"
-imageAlt: "PayCargo ve Gnosis Freight, Hapag-Lloyd İçin Konteyner Ödeme Portalı Geliştiriyor"
-wixId: "85efd2e5-d2da-4b46-a3cb-1886e6c4c3ce"
-author: "Sedat Onat"
+title: PayCargo ve Gnosis Freight, Hapag-Lloyd İçin Konteyner Ödeme Portalı Geliştiriyor
+subtitle: PayCargo ve Gnosis Freight, Hapag-Lloyd İçin Konteyner Ödeme Portalı Geliştiriyor
+date: '2025-03-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5384ce62dc5549968ecf4840fd0c8bf6~mv2.png
+imageAlt: PayCargo ve Gnosis Freight, Hapag-Lloyd İçin Konteyner Ödeme Portalı Geliştiriyor
+wixId: 85efd2e5-d2da-4b46-a3cb-1886e6c4c3ce
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- PayCargo
+- Gnosis Freight
+- Hapag-Lloyd
+- konteyner ödeme
+- dijitalleşme
+- demuraj
+- OSRA
+- liman operasyonları
 ---
 <p style="text-align: justify"><strong>PayCargo</strong> ve <strong>Gnosis Freight</strong>, dünya çapında önde gelen hat taşımacılığı şirketlerinden biri olan <strong>Hapag-Lloyd</strong> ile iş birliği yaparak yeni <strong>Konteyner Ödeme Portalı</strong>'nı (CPP) hayata geçirmekte. Bu yenilikçi çözüm, müşterilere gerçek zamanlı konteyner durumu güncellemeleri sunmakta, faturalandırma ve ödeme süreçlerini kolaylaştırmakta ve konteynerlerin daha hızlı serbest bırakılmasını sağlamaktadır. Bu sayede, kargo hareketlerinin verimliliği artırılmakta ve konteyner bekleme süreleri azaltılmaktadır.​</p>
 <p><br></p>

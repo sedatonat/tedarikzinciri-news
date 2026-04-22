@@ -1,14 +1,23 @@
 ---
-title: "Amazon Japonya’da Milyonuncu Robotunu Devreye Aldı"
-subtitle: "Amazon Japonya’da Milyonuncu Robotunu Devreye Aldı"
-date: "2025-07-02T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_6ab1d699789e42cfb8a33fe0d5470fcf~mv2.png"
-imageAlt: "Amazon Japonya’da Milyonuncu Robotunu Devreye Aldı"
-wixId: "70d32e0e-c59b-4490-b866-953b97926cc1"
-author: "Sedat Onat"
+title: Amazon Japonya’da Milyonuncu Robotunu Devreye Aldı
+subtitle: Amazon Japonya’da Milyonuncu Robotunu Devreye Aldı
+date: '2025-07-02T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_6ab1d699789e42cfb8a33fe0d5470fcf~mv2.png
+imageAlt: Amazon Japonya’da Milyonuncu Robotunu Devreye Aldı
+wixId: 70d32e0e-c59b-4490-b866-953b97926cc1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Amazon
+- depo otomasyonu
+- AMR
+- yapay zeka
+- fulfillment merkezi
+- Japonya
+- robotik
+- ASRS
 ---
 <p style="text-align: justify"><strong>Amazon</strong>, Japonya’daki bir <strong>fulfillment merkezi</strong>nde <strong>milyonuncu robotunu</strong> devreye alarak depo otomasyonunda yeni bir eşiğe ulaştı. Bu gelişme, <strong>otonom mobil robotlar (AMR)</strong> ve <strong>otomatik depolama–geri getirme sistemlerinin (ASRS)</strong> artık depo operasyonlarında <strong>ana akım teknoloji</strong> haline geldiğini göstermekte. Şirket, ölçeklenebilir otomasyon yatırımlarıyla hem <strong>verimlilikte</strong> hem de <strong>sürdürülebilirlikte</strong> yeni standartlar belirliyor.</p>
 <p style="text-align: justify"><br></p>

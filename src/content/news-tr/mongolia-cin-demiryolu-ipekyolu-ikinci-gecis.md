@@ -1,14 +1,22 @@
 ---
-title: "Moğolistan ve Çin 2028'e Kadar İkinci Demiryolu Sınır Geçişini Açmayı Planlıyor"
-subtitle: "Moğolistan ve Çin 2028'e Kadar İkinci Demiryolu Sınır Geçişini Açmayı Planlıyor"
-date: "2025-01-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a4530176c23b4a2c8139f8b1a2e8595e~mv2.jpg"
-imageAlt: "Moğolistan ve Çin 2028'e Kadar İkinci Demiryolu Sınır Geçişini Açmayı Planlıyor"
-wixId: "54e2c3e5-2ef9-45d9-87c5-ebdf3c8d004d"
-author: "Sedat Onat"
+title: Moğolistan ve Çin 2028'e Kadar İkinci Demiryolu Sınır Geçişini Açmayı Planlıyor
+subtitle: Moğolistan ve Çin 2028'e Kadar İkinci Demiryolu Sınır Geçişini Açmayı Planlıyor
+date: '2025-01-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a4530176c23b4a2c8139f8b1a2e8595e~mv2.jpg
+imageAlt: Moğolistan ve Çin 2028'e Kadar İkinci Demiryolu Sınır Geçişini Açmayı Planlıyor
+wixId: 54e2c3e5-2ef9-45d9-87c5-ebdf3c8d004d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Moğolistan
+- Çin
+- demiryolu
+- sınır geçişi
+- kömür ihracatı
+- Gashuun Sukhait
+- altyapı projesi
 ---
 <p style="text-align: justify">Moğolistan hükümeti, Çin ile 2028 yılına kadar yeni bir demiryolu sınır geçişi açmayı planladığını duyurdu. Bu yeni bağlantı, Moğolistan'ın Çin'e kömür ihracatını kolaylaştırarak kapasiteyi 30 milyon ton artırmayı hedeflemekte. ​</p>
 <p><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "IBIA and INTERCARGO Strengthen Partnership on Marine Fuels"
-subtitle: "IBIA and INTERCARGO Strengthen Partnership on Marine Fuels"
-date: "2025-11-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_759eaa7eaa3949a7a31c560ece2616f7~mv2.jpg"
-imageAlt: "The International Bunker Industry Association (IBIA) and the International Association of Dry Bulk Shipowners (INTERCARGO) signed a reciprocal membership agreement to foster closer collaboration on fuel quality, safety, and decarbonisation. This initiative aims to strengthen dialogue between shipowners and the marine fuel supply chain."
-wixId: "5b791bd5-ae42-4b26-be25-9dcc574b2f70"
-author: "Sedat Onat"
+title: IBIA and INTERCARGO Strengthen Partnership on Marine Fuels
+subtitle: IBIA and INTERCARGO Strengthen Partnership on Marine Fuels
+date: '2025-11-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_759eaa7eaa3949a7a31c560ece2616f7~mv2.jpg
+imageAlt: The International Bunker Industry Association (IBIA) and the International Association of Dry Bulk Shipowners (INTERCARGO) signed a reciprocal membership agreement to foster closer collaboration on fuel quality, safety, and decarbonisation. This initiative aims to strengthen dialogue between shipowners and the marine fuel supply chain.
+wixId: 5b791bd5-ae42-4b26-be25-9dcc574b2f70
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- IBIA
+- INTERCARGO
+- marine fuels
+- decarbonization
+- bunker
+- IMO
+- alternative fuels
+- fuel quality
 ---
-
 <p style="text-align: justify"><strong>The International Bunker Industry Association (IBIA)</strong> and the <strong>International Association of Dry Bulk Shipowners (INTERCARGO)</strong> have signed a <strong>reciprocal membership</strong> agreement to deepen collaboration in the marine fuels sector.</p>
 <p><br></p>
 <p style="text-align: justify">The new agreement <strong>formalises a close working relationship between the two organisations</strong> on <strong>fuel quality, safety, efficiency and decarbonisation</strong> and <strong>aims to support the sustainable transformation of maritime shipping</strong>.</p>

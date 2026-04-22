@@ -1,14 +1,23 @@
 ---
-title: "İsveç'te Dijital Otomatik Bağlama Denemesi Başlıyor"
-subtitle: "İsveç'te Dijital Otomatik Bağlama Denemesi Başlıyor"
-date: "2024-12-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3ef50158f246493ea388b07360c0b869~mv2.jpg"
-imageAlt: "İsveç'te Dijital Otomatik Bağlama Denemesi Başlıyor"
-wixId: "5633ac02-60d3-49c5-9edb-a34d03428181"
-author: "Sedat Onat"
+title: İsveç'te Dijital Otomatik Bağlama Denemesi Başlıyor
+subtitle: İsveç'te Dijital Otomatik Bağlama Denemesi Başlıyor
+date: '2024-12-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3ef50158f246493ea388b07360c0b869~mv2.jpg
+imageAlt: İsveç'te Dijital Otomatik Bağlama Denemesi Başlıyor
+wixId: 5633ac02-60d3-49c5-9edb-a34d03428181
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- dijital otomatik bağlama
+- DAC
+- İsveç
+- demiryolu taşımacılığı
+- Voith
+- Dellner
+- çelik taşımacılığı
+- otomasyon
 ---
 <p>İsveç'te, <strong>Digital Automatic Coupling (DAC)</strong> teknolojisinin zorlu hava koşullarındaki dayanıklılığını test etmek amacıyla iki yıllık bir pilot proje başlatılıyor. Test treninin, <strong>SSAB</strong> firmasının Luleå'daki tesisinden Borlänge'deki üretim sahasına kadar 1.000 kilometrelik mesafede çelik taşıması planlanıyor.</p>
 <p><br></p>

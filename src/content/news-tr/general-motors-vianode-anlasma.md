@@ -1,14 +1,22 @@
 ---
-title: "General Motors ve Vianode Arasında Sentetik Grafit Tedarik Anlaşması"
-subtitle: "General Motors ve Vianode Arasında Sentetik Grafit Tedarik Anlaşması"
-date: "2025-01-16T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_2ad4b418908c4adeaab359bbba0f2aa5~mv2.jpg"
-imageAlt: "General Motors ve Vianode Arasında Sentetik Grafit Tedarik Anlaşması"
-wixId: "f679ee24-c742-4bdc-9724-b5995d62f728"
-author: "Sedat Onat"
+title: General Motors ve Vianode Arasında Sentetik Grafit Tedarik Anlaşması
+subtitle: General Motors ve Vianode Arasında Sentetik Grafit Tedarik Anlaşması
+date: '2025-01-16T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_2ad4b418908c4adeaab359bbba0f2aa5~mv2.jpg
+imageAlt: General Motors ve Vianode Arasında Sentetik Grafit Tedarik Anlaşması
+wixId: f679ee24-c742-4bdc-9724-b5995d62f728
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- General Motors
+- Vianode
+- sentetik grafit
+- elektrikli araç bataryası
+- tedarik zinciri
+- lityum-iyon batarya
+- Kuzey Amerika
 ---
 <p style="text-align: justify"><strong>General Motors (GM)</strong>, Norveç merkezli ileri batarya malzemeleri üreticisi <strong>Vianode</strong> ile sentetik anot grafit tedariki için çok yıllı ve çok milyar dolarlık bir anlaşma imzaladı. Bu stratejik ortaklık, GM'nin elektrikli araç (EV) bataryalarının üretiminde kullanılacak yüksek performanslı anot grafitin tedarikini güvence altına almayı hedeflemekte.</p>
 <p style="text-align: justify"><br></p>

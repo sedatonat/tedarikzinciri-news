@@ -1,16 +1,24 @@
 ---
-title: "Denmark Prepares for 2029 Fehmarnbelt Era with iPort Zealand: €1 Billion Mega Logistics Investment"
-subtitle: "Denmark Prepares for 2029 Fehmarnbelt Era with iPort Zealand: €1 Billion Mega Logistics Investment"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6c582ae038ce4556b76bcd857ee0b2a4~mv2.jpg"
-imageAlt: "iPort Zealand's €1 billion investment in Ringsted, capacity to shift 720 trucks to rail, the North European logistics transformation upon Fehmarnbelt tunnel opening, and detailed overview of intermodal strategy"
-wixId: "832c329b-9e79-4d11-91ec-a9dd4762a46a"
-author: "Sedat Onat"
+title: 'Denmark Prepares for 2029 Fehmarnbelt Era with iPort Zealand: €1 Billion Mega Logistics Investment'
+subtitle: 'Denmark Prepares for 2029 Fehmarnbelt Era with iPort Zealand: €1 Billion Mega Logistics Investment'
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_6c582ae038ce4556b76bcd857ee0b2a4~mv2.jpg
+imageAlt: iPort Zealand's €1 billion investment in Ringsted, capacity to shift 720 trucks to rail, the North European logistics transformation upon Fehmarnbelt tunnel opening, and detailed overview of intermodal strategy
+wixId: 832c329b-9e79-4d11-91ec-a9dd4762a46a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- iPort Zealand
+- Fehmarnbelt
+- intermodal terminal
+- Denmark
+- rail logistics
+- modal shift
+- Northern Europe
+- Ringsted
 ---
-
 <p style="text-align: justify"><strong>iPort Zealand</strong>, developed within the boundaries of Ringsted Municipality in Denmark, will stand at the centre of a massive supply chain transformation that Northern Europe will experience after 2029. Spearheaded by <strong>Verdion</strong> and envisioning a total investment of <strong>€1 billion</strong>, the project aims to radically reshape Europe's northern logistics map upon the opening of the Fehmarnbelt Fixed Link.</p>
 <p><br></p>
 <p style="text-align: justify">Built across a <strong>250-hectare</strong> vast area, the project will create <strong>570,000 m²</strong> of logistics, manufacturing, and advanced industrial space. One of the most critical elements of iPort Zealand is the <strong>intermodal rail terminal</strong> that will be housed within the facility. This terminal will have the capacity to handle <strong>750-metre-long freight trains</strong>. According to the developer's calculations, when operating at full capacity, the terminal will remove <strong>approximately 720 long-distance trucks daily</strong> from motorways. This presents a modal shift strategy fully aligned with Denmark's <strong>green transition</strong> objectives.</p>

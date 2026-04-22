@@ -1,16 +1,24 @@
 ---
-title: "First Grain Shipment to Armenia via Azerbaijan Completed"
-subtitle: "First Grain Shipment to Armenia via Azerbaijan Completed"
-date: "2025-11-13T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a5b4e1bf0b6f4c598ee311e3195e85c8~mv2.jpg"
-imageAlt: "The first 1,050-ton wheat shipment from Russia to Armenia was made possible by the reopening of the Azerbaijan transit route, which had been closed since the 1990s; RZD plans to send an additional 132 cars by year-end."
-wixId: "080ecc15-4cbd-48c4-b772-476673679a7f"
-author: "Sedat Onat"
+title: First Grain Shipment to Armenia via Azerbaijan Completed
+subtitle: First Grain Shipment to Armenia via Azerbaijan Completed
+date: '2025-11-13T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_a5b4e1bf0b6f4c598ee311e3195e85c8~mv2.jpg
+imageAlt: The first 1,050-ton wheat shipment from Russia to Armenia was made possible by the reopening of the Azerbaijan transit route, which had been closed since the 1990s; RZD plans to send an additional 132 cars by year-end.
+wixId: 080ecc15-4cbd-48c4-b772-476673679a7f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Azerbaijan
+- Armenia
+- grain shipment
+- rail transport
+- South Caucasus
+- transit corridor
+- RZD
+- Russian Railways
 ---
-
 <p style="text-align: justify">Russian Railways (<strong>RZD</strong>) has announced the successful completion of <strong>the first grain shipment</strong> following the resumption of transit transportation to Armenia via Azerbaijan, a route that has remained closed since the 1990s. This development signals a reshaping of transport corridors in the South Caucasus and the revival of commercial ties among the three countries after years of disruption.</p>
 <p><br></p>
 <p style="text-align: justify">According to the announcement, <strong>1,050 tons of wheat</strong> was loaded into 15 hopper cars at the <strong>Dimitrovgrad</strong> station in Russia's Ulyanovsk region, then transported via Azerbaijan and subsequently through the Georgian route to <strong>reach Armenia</strong>. This shipment represents the de facto reopening of a trade corridor that has remained closed for years on the Russia–Azerbaijan–Georgia–Armenia line.</p>

@@ -1,14 +1,23 @@
 ---
-title: "Siber Saldırı Sonrası Whole Foods Rafları Boş Kaldı"
-subtitle: "Siber Saldırı Sonrası Whole Foods Rafları Boş Kaldı"
-date: "2025-06-11T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_949956845e5342fba1f382148bd1d71d~mv2.jpg"
-imageAlt: "Siber Saldırı Sonrası Whole Foods Rafları Boş Kaldı"
-wixId: "c6794acd-1453-48a0-aed9-297768f507f7"
-author: "Sedat Onat"
+title: Siber Saldırı Sonrası Whole Foods Rafları Boş Kaldı
+subtitle: Siber Saldırı Sonrası Whole Foods Rafları Boş Kaldı
+date: '2025-06-11T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_949956845e5342fba1f382148bd1d71d~mv2.jpg
+imageAlt: Siber Saldırı Sonrası Whole Foods Rafları Boş Kaldı
+wixId: c6794acd-1453-48a0-aed9-297768f507f7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- siber saldırı
+- tedarik zinciri
+- Whole Foods
+- UNFI
+- gıda lojistiği
+- raf boşluğu
+- fidye yazılımı
+- siber güvenlik
 ---
 <p style="text-align: justify"><strong>Amazon’a ait Whole Foods Market zinciri</strong>, ana tedarikçisi <strong>United Natural Foods Inc. (UNFI)</strong>’ye yönelik büyük çaplı bir <strong>siber saldırı</strong> sonrası Kuzey Amerika genelinde <strong>raf boşlukları ve teslimat gecikmeleri</strong>yle karşı karşıya kaldı.</p>
 <p><br>

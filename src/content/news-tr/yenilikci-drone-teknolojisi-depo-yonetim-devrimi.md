@@ -1,14 +1,22 @@
 ---
-title: "Yenilikçi Drone Teknolojisi ile Depo Yönetiminde Devrim"
-subtitle: "Yenilikçi Drone Teknolojisi ile Depo Yönetiminde Devrim"
-date: "2024-02-21T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_f9585c64396f4b7f9fbec22f606e2a79~mv2.png"
-imageAlt: "Yenilikçi Drone Teknolojisi ile Depo Yönetiminde Devrim"
-wixId: "3d593e1a-9e24-46b5-836c-ee3c39f2475c"
-author: "Sedat Onat"
+title: Yenilikçi Drone Teknolojisi ile Depo Yönetiminde Devrim
+subtitle: Yenilikçi Drone Teknolojisi ile Depo Yönetiminde Devrim
+date: '2024-02-21T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_f9585c64396f4b7f9fbec22f606e2a79~mv2.png
+imageAlt: Yenilikçi Drone Teknolojisi ile Depo Yönetiminde Devrim
+wixId: 3d593e1a-9e24-46b5-836c-ee3c39f2475c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- drone teknolojisi
+- depo yönetimi
+- envanter yönetimi
+- barkod tarama
+- Anyline
+- Mondi
+- otonom sistem
 ---
 <p>Viyanalı mobil veri yakalama ve analiz şirketi <a href="https://anyline.com/"><u>Anyline</u></a>, 19 Şubat'ta depolar için yeni bir tür otonom drone envanter yönetim yazılımının lansmanını duyurdu. <a href="https://anyline.com/"><u>Anyline</u></a>, bu otonom drone barkod tarama teknolojisini geliştirmek için çok uluslu kağıt ve ambalaj şirketi <a href="https://www.mondigroup.com/"><u>Mondi </u></a>ile çalıştığını açıkladı.&nbsp;</p>
 <p><br></p>

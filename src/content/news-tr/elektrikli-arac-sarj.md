@@ -1,14 +1,22 @@
 ---
-title: "ABD’de Bir İlk: Otoyol, Elektrikli Kamyonları Seyir Halindeyken Şarj Ediyor"
-subtitle: "ABD’de Bir İlk: Otoyol, Elektrikli Kamyonları Seyir Halindeyken Şarj Ediyor"
-date: "2025-12-12T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_c77a22a992d74091a41ee947a9288668~mv2.jpg"
-imageAlt: "Purdue University araştırmacılarının Indiana’da gerçekleştirdiği testte, asfalt altına yerleştirilen bobinlerle ağır vasıta elektrikli kamyonların seyir hâlindeyken kablosuz olarak şarj edilmesi ve bu teknolojinin uzun mesafe taşımacılığına etkilerinin detaylı özeti"
-wixId: "88f6314a-5aef-4f3b-be83-5e19c7e4a84c"
-author: "Sedat Onat"
+title: 'ABD’de Bir İlk: Otoyol, Elektrikli Kamyonları Seyir Halindeyken Şarj Ediyor'
+subtitle: 'ABD’de Bir İlk: Otoyol, Elektrikli Kamyonları Seyir Halindeyken Şarj Ediyor'
+date: '2025-12-12T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_c77a22a992d74091a41ee947a9288668~mv2.jpg
+imageAlt: Purdue University araştırmacılarının Indiana’da gerçekleştirdiği testte, asfalt altına yerleştirilen bobinlerle ağır vasıta elektrikli kamyonların seyir hâlindeyken kablosuz olarak şarj edilmesi ve bu teknolojinin uzun mesafe taşımacılığına etkilerinin detaylı özeti
+wixId: 88f6314a-5aef-4f3b-be83-5e19c7e4a84c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- elektrikli kamyon
+- kablosuz şarj
+- otoyol altyapısı
+- Purdue University
+- ağır vasıta taşımacılığı
+- Indiana
+- menzil kaygısı
 ---
 <p style="text-align: justify">Elektrikli ağır vasıta taşımacılığında en büyük engellerden biri olarak görülen <strong>menzil kaygısı ve şarj süreleri</strong>, ABD’de gerçekleştirilen yeni bir testle farklı bir boyuta taşınmakta. <strong>Purdue University</strong> araştırmacıları, Indiana eyaletinde yer alan kısa bir otoyol kesiminde, <strong>elektrikli bir ağır vasıta kamyonunu seyir hâlindeyken şarj etmeyi</strong> başardı. Bu test, ABD’de bir otoyolun ilk kez <strong>hareket hâlindeki bir elektrikli kamyona enerji aktardığını</strong> göstermesi açısından tarihî bir adım olarak değerlendiriliyor.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "PortXchange, Liman Emisyonları İçin Yeni Raporunu Yayımladı"
-subtitle: "PortXchange, Liman Emisyonları İçin Yeni Raporunu Yayımladı"
-date: "2024-09-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d71fa04704ce434cba304ce7ecc6cfd0~mv2.jpg"
-imageAlt: "PortXchange, Liman Emisyonları İçin Yeni Raporunu Yayımladı"
-wixId: "e09eb647-0d2f-4c0f-9943-1c6dbb7ec0a0"
-author: "Sedat Onat"
+title: PortXchange, Liman Emisyonları İçin Yeni Raporunu Yayımladı
+subtitle: PortXchange, Liman Emisyonları İçin Yeni Raporunu Yayımladı
+date: '2024-09-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d71fa04704ce434cba304ce7ecc6cfd0~mv2.jpg
+imageAlt: PortXchange, Liman Emisyonları İçin Yeni Raporunu Yayımladı
+wixId: e09eb647-0d2f-4c0f-9943-1c6dbb7ec0a0
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- PortXchange
+- liman emisyonları
+- sürdürülebilirlik
+- karbonsuzlaştırma
+- çevre raporlaması
+- sera gazı
+- liman teknolojisi
 ---
 <p>PortXchange, "Port Emissions Report" adlı yeni raporunun yayımlandığını duyurdu. Bu rapor, gemiler, liman gemileri, yük taşıma ekipmanları, trenler ve kamyonlar dahil olmak üzere çeşitli ulaşım türlerinden kaynaklanan emisyonların kapsamlı bir incelemesini sunuyor. Gemi hareketlerini, gemi tiplerini ve bunlarla ilişkili CO2, CO, CH4, SO2, NOx, N2O, PM10 ve CO2 eşdeğeri sera gazı emisyonlarını izleyerek, limanların iyileştirme için kritik alanları belirlemesine olanak tanıyor.</p>
 <p><br></p>

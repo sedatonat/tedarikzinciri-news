@@ -1,14 +1,23 @@
 ---
-title: "Çin, Ningbo–Ho Chi Minh Hattında İlk ASEAN “Zamanında ve Maliyet Düşürücü” Servisini Başlattı"
-subtitle: "Çin, Ningbo–Ho Chi Minh Hattında İlk ASEAN “Zamanında ve Maliyet Düşürücü” Servisini Başlattı"
-date: "2025-12-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_20f68b5032684c339befab10ad36be72~mv2.jpg"
-imageAlt: "Çin’in ulusal “on-time, cost-reduction” deniz taşımacılığı programı kapsamında Ningbo-Zhoushan ile Ho Chi Minh City arasında açtığı ilk ASEAN konteyner hattının zamanlama, maliyet ve emisyon etkilerini ortaya koyan detaylı haber özeti"
-wixId: "4e95d666-ff62-437c-b125-03c56f7acc06"
-author: "Sedat Onat"
+title: Çin, Ningbo–Ho Chi Minh Hattında İlk ASEAN “Zamanında ve Maliyet Düşürücü” Servisini Başlattı
+subtitle: Çin, Ningbo–Ho Chi Minh Hattında İlk ASEAN “Zamanında ve Maliyet Düşürücü” Servisini Başlattı
+date: '2025-12-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_20f68b5032684c339befab10ad36be72~mv2.jpg
+imageAlt: Çin’in ulusal “on-time, cost-reduction” deniz taşımacılığı programı kapsamında Ningbo-Zhoushan ile Ho Chi Minh City arasında açtığı ilk ASEAN konteyner hattının zamanlama, maliyet ve emisyon etkilerini ortaya koyan detaylı haber özeti
+wixId: 4e95d666-ff62-437c-b125-03c56f7acc06
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ningbo-Zhoushan
+- Ho Chi Minh City
+- ASEAN
+- konteyner taşımacılığı
+- maliyet azaltma
+- zamanında teslimat
+- deniz ticareti
+- emisyon azaltımı
 ---
 <p style="text-align: justify">Çin, Güneydoğu Asya ile olan deniz ticaretinde operasyonel verimliliği artırmaya yönelik yeni bir adım atmakta. <strong>Maritime Safety Administration (MSA)</strong> tarafından 12 Aralık’ta yapılan açıklamaya göre, ülkenin <strong>ilk ASEAN konteyner hattı</strong>, ulusal <strong>“on-time, cost-reduction” shipping programme</strong> kapsamında faaliyete alındı. Yeni servis, <strong>Port of Ningbo-Zhoushan</strong> ile <strong>Ho Chi Minh City</strong> arasında doğrudan bağlantı kurarak <strong>Doğu Çin – Güneydoğu Asya</strong> koridorunda zamanlama disiplini ve maliyet kontrolünü güçlendirmeyi hedeflemekte.</p>
 <p><br></p>

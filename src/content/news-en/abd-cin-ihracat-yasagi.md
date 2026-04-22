@@ -1,16 +1,24 @@
 ---
-title: "U.S. Adds More Chinese Companies to Export Ban List"
-subtitle: "U.S. Adds More Chinese Companies to Export Ban List"
-date: "2025-03-26T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_b8dd03788b8f4f7ab85c8f70260a3ef4~mv2.png"
-imageAlt: "U.S. Adds More Chinese Companies to Export Ban List"
-wixId: "b0e8430d-bac4-41bb-a13d-674f821c36aa"
-author: "Sedat Onat"
+title: U.S. Adds More Chinese Companies to Export Ban List
+subtitle: U.S. Adds More Chinese Companies to Export Ban List
+date: '2025-03-26T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_b8dd03788b8f4f7ab85c8f70260a3ef4~mv2.png
+imageAlt: U.S. Adds More Chinese Companies to Export Ban List
+wixId: b0e8430d-bac4-41bb-a13d-674f821c36aa
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- USA
+- China
+- export ban
+- semiconductor
+- supply chain
+- compliance management
+- friend-shoring
+- national security
 ---
-
 <p style="text-align: justify"><strong>The U.S. administration</strong> has added further Chinese firms to the <strong>export restrictions list (Entity List)</strong> as part of new measures against technology transfer and national security risks. This expansion entails stricter oversight and licensing mechanisms in <strong>export controls</strong> and <strong>licensing processes</strong>. The decision's impact is particularly felt in strategic sectors such as <strong>semiconductor manufacturing</strong>, <strong>advanced manufacturing equipment</strong>, and <strong>critical infrastructure solutions</strong>.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Trade with companies added to the list now falls under <strong>licensing requirements</strong> for products containing U.S.-origin components, software, or technology. This has driven greater emphasis on strategies such as <strong>alternative sourcing</strong>, <strong>product redesign</strong>, and <strong>tariff engineering</strong> in global supply chains. Particularly for products with high U.S. content, Asia- and Europe-based manufacturers are re-examining their <strong>supply risk mapping</strong> processes.</p>

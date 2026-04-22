@@ -1,16 +1,24 @@
 ---
-title: "Geopolitical Tensions and Trade Wars in Global Shipping: Bloodbath in the Freight Market"
-subtitle: "Geopolitical Tensions and Trade Wars in Global Shipping: Bloodbath in the Freight Market"
-date: "2025-03-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_3ee1d028888042cd859a8683909714a2~mv2_d_4380_2920_s_4_2.jpg"
-imageAlt: "Geopolitical Tensions and Trade Wars in Global Shipping: Bloodbath in the Freight Market"
-wixId: "43f08a78-db14-49bd-9e70-b36699928c88"
-author: "Sedat Onat"
+title: 'Geopolitical Tensions and Trade Wars in Global Shipping: Bloodbath in the Freight Market'
+subtitle: 'Geopolitical Tensions and Trade Wars in Global Shipping: Bloodbath in the Freight Market'
+date: '2025-03-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_3ee1d028888042cd859a8683909714a2~mv2_d_4380_2920_s_4_2.jpg
+imageAlt: 'Geopolitical Tensions and Trade Wars in Global Shipping: Bloodbath in the Freight Market'
+wixId: 43f08a78-db14-49bd-9e70-b36699928c88
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- maritime shipping
+- freight rates
+- trade tariffs
+- geopolitical tension
+- Maersk
+- container shipping
+- China
+- Donald Trump
 ---
-
 <p style="text-align: justify">The global maritime shipping sector has recently faced a serious crisis driven by geopolitical tensions, trade tariffs, and regional conflicts. This situation has resulted in a literal "bloodbath" in the freight market, shaking the sector's fundamental dynamics to their core.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Donald Trump</strong>'s aggressive trade policies implemented during his second presidential term have adversely affected global trade flows. In particular, import tariffs reaching 60% on <strong>China</strong> and additional charges of 10-20% applied to other countries have created uncertainty in the maritime shipping sector. This has increased importers' costs, reflected in consumer prices, and triggered inflationary pressures.</p>

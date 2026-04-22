@@ -1,16 +1,23 @@
 ---
-title: "U.S. Port Fees on Chinese-Built Ships to Make Some Routes Uneconomical: MSC CEO Toft's Views"
-subtitle: "U.S. Port Fees on Chinese-Built Ships to Make Some Routes Uneconomical: MSC CEO Toft's Views"
-date: "2025-03-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_03c31bb7e77341208db52798c90bbb67~mv2.jpg"
-imageAlt: "U.S. Port Fees on Chinese-Built Ships to Make Some Routes Uneconomical: MSC CEO Toft's Views"
-wixId: "e1854daf-2a10-4913-ae69-2b1f0d1bfe1f"
-author: "Sedat Onat"
+title: 'U.S. Port Fees on Chinese-Built Ships to Make Some Routes Uneconomical: MSC CEO Toft''s Views'
+subtitle: 'U.S. Port Fees on Chinese-Built Ships to Make Some Routes Uneconomical: MSC CEO Toft''s Views'
+date: '2025-03-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_03c31bb7e77341208db52798c90bbb67~mv2.jpg
+imageAlt: 'U.S. Port Fees on Chinese-Built Ships to Make Some Routes Uneconomical: MSC CEO Toft''s Views'
+wixId: e1854daf-2a10-4913-ae69-2b1f0d1bfe1f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- port tax
+- MSC
+- China shipbuilding
+- ocean shipping
+- U.S. ports
+- Soren Toft
+- trade war
 ---
-
 <p style="text-align: justify">The U.S. administration is planning to impose new charges when vessels built in China or flying the Chinese flag call at U.S. ports. This move aims to revitalize the domestic shipbuilding industry and reduce China's influence in global maritime shipping. The initiative is receiving support from both Republican and Democratic lawmakers, as China's maritime dominance is seen as a threat to the U.S. Navy's readiness.</p>
 <p><br></p>
 <p style="text-align: justify">Chinese shipyards have increased their share of global commercial ship tonnage production from 5% in 1999 to over 50%. This growth occurred at the expense of shipyards in Japan and South Korea. The U.S. shipbuilding sector, which peaked in the 1970s, now represents only a small fraction of industry output.</p>

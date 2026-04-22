@@ -1,14 +1,22 @@
 ---
-title: "Toyota’nın Traigo_i Forklifti, Alman Tasarım Ödülü 2026’yı da Kazandı"
-subtitle: "Toyota’nın Traigo_i Forklifti, Alman Tasarım Ödülü 2026’yı da Kazandı"
-date: "2025-02-06T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_95a079e56823447f83098965edaf740e~mv2.jpg"
-imageAlt: "Toyota’nın entegre lityum-iyon teknolojili yeni Traigo_i elektrikli forklift modeli, 2026 Alman Tasarım Ödülü’nü kazanarak 2025 Red Dot başarısının ardından ikinci büyük uluslararası tasarım ödülünü aldı."
-wixId: "4985f042-456c-43ac-824d-70a2dc0f77d6"
-author: "Sedat Onat"
+title: Toyota’nın Traigo_i Forklifti, Alman Tasarım Ödülü 2026’yı da Kazandı
+subtitle: Toyota’nın Traigo_i Forklifti, Alman Tasarım Ödülü 2026’yı da Kazandı
+date: '2025-02-06T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_95a079e56823447f83098965edaf740e~mv2.jpg
+imageAlt: Toyota’nın entegre lityum-iyon teknolojili yeni Traigo_i elektrikli forklift modeli, 2026 Alman Tasarım Ödülü’nü kazanarak 2025 Red Dot başarısının ardından ikinci büyük uluslararası tasarım ödülünü aldı.
+wixId: 4985f042-456c-43ac-824d-70a2dc0f77d6
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Toyota
+- forklift
+- lityum-iyon
+- Alman Tasarım Ödülü
+- Red Dot
+- ergonomi
+- Traigo_i
 ---
 <p style="text-align: justify">Toyota Material Handling Europe, lityum-iyon teknolojisi üzerine inşa edilen yeni nesil elektrikli denge ağırlıklı forklift modeli <strong>Toyota Traigo_i</strong> ile uluslararası arenada bir kez daha önemli bir başarıya imza attı. Şirket, modelin <strong>German Design Award 2026 – Excellent Product Design / Industry</strong> kategorisinde ödül aldığını duyurdu. Bu ödül, Traigo_i’nin 2025’te kazandığı <strong>Red Dot Design Award</strong> sonrasında ikinci büyük global tasarım takdiri oldu ve ürünü endüstriyel tasarım alanının en yenilikçi çözümleri arasına yerleştirdi.</p>
 <p><br></p>

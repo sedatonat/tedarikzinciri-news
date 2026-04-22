@@ -1,16 +1,24 @@
 ---
-title: "C.H. Robinson Launches AI-Powered \"Agentic Supply Chain,\" Ushering in a New Era of Logistics Intelligence"
-subtitle: "C.H. Robinson Launches AI-Powered \"Agentic Supply Chain,\" Ushering in a New Era of Logistics Intelligence"
-date: "2025-10-27T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/nsplsh_e75c298a94764892bc13f014d6ff0676~mv2.jpg"
-imageAlt: "C.H. Robinson has established a new industry standard in global logistics management through its AI-based ecosystem called \"Agentic Supply Chain,\" combining real-time decision-making, self-optimizing operations, and a Lean AI approach."
-wixId: "50a9ca90-32cb-4fd9-a745-57ac0cfd4de2"
-author: "Sedat Onat"
+title: C.H. Robinson Launches AI-Powered "Agentic Supply Chain," Ushering in a New Era of Logistics Intelligence
+subtitle: C.H. Robinson Launches AI-Powered "Agentic Supply Chain," Ushering in a New Era of Logistics Intelligence
+date: '2025-10-27T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/nsplsh_e75c298a94764892bc13f014d6ff0676~mv2.jpg
+imageAlt: C.H. Robinson has established a new industry standard in global logistics management through its AI-based ecosystem called "Agentic Supply Chain," combining real-time decision-making, self-optimizing operations, and a Lean AI approach.
+wixId: 50a9ca90-32cb-4fd9-a745-57ac0cfd4de2
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- C.H. Robinson
+- artificial intelligence
+- Agentic Supply Chain
+- Lean AI
+- autonomous logistics
+- supply chain optimization
+- AI agents
+- logistics technology
 ---
-
 <p style="text-align: justify"><strong>C.H. Robinson (CHR)</strong> has announced a next-generation logistics intelligence platform called <strong>"Agentic Supply Chain,"</strong> taking its more than a decade of research and development in artificial intelligence to the next level. The company describes this system as <strong>"an intelligent ecosystem that thinks, learns, adapts, and acts."</strong></p>
 <p><br></p>
 <p style="text-align: justify">The new architecture goes beyond mere automation, built on an AI framework that <strong>understands context, makes real-time decisions, and can autonomously optimize global supply chains at scale.</strong></p>

@@ -1,16 +1,24 @@
 ---
-title: "Russia's Ametist Line Launches New Novorossiysk–Izmir Shuttle Service"
-subtitle: "Russia's Ametist Line Launches New Novorossiysk–Izmir Shuttle Service"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_cb0f1c5f032343b08437730ea4837a9d~mv2.jpg"
-imageAlt: "A detailed summary of the Novorossiysk–Izmir shuttle service that Ametist Line will bring into operation in early 2026, covering capacity expansion over existing single-vessel routes, regional logistics implications, and the strengthening of East Mediterranean–Black Sea connections."
-wixId: "367ecc15-a8d3-4850-a4a9-bb83d0496672"
-author: "Sedat Onat"
+title: Russia's Ametist Line Launches New Novorossiysk–Izmir Shuttle Service
+subtitle: Russia's Ametist Line Launches New Novorossiysk–Izmir Shuttle Service
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_cb0f1c5f032343b08437730ea4837a9d~mv2.jpg
+imageAlt: A detailed summary of the Novorossiysk–Izmir shuttle service that Ametist Line will bring into operation in early 2026, covering capacity expansion over existing single-vessel routes, regional logistics implications, and the strengthening of East Mediterranean–Black Sea connections.
+wixId: 367ecc15-a8d3-4850-a4a9-bb83d0496672
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Ametist Line
+- Novorossiysk
+- Izmir
+- shuttle service
+- Black Sea
+- Eastern Mediterranean
+- container shipping
+- feeder
 ---
-
 <p style="text-align: justify">Russia-based <strong>Ametist Line</strong> has announced the launch of a new <strong>single-vessel shuttle service</strong> between <strong>Novorossiysk and Izmir</strong> in the first months of 2026. The new service is viewed as a strategic expansion to strengthen the company's presence on the Black Sea–East Mediterranean corridor. The shuttle line will operate with a single 500 TEU-capacity vessel, deployed from the existing <strong>Novorossiysk–Mersin–Beirut</strong> route that currently serves this vessel. The company indicates that the aforementioned legacy route may be entirely <strong>discontinued</strong> as a result of this development.</p>
 <p><br></p>
 <p style="text-align: justify">Ametist Line currently operates three additional Novorossiysk-based <strong>single-vessel loops</strong>. These routes operate vessels in the <strong>700 TEU</strong> and <strong>900 TEU</strong> capacity range and connect the Black Sea with major East Mediterranean ports. The company's current operational network comprises the following connections:</p>

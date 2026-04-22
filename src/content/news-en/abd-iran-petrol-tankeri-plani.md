@@ -1,16 +1,24 @@
 ---
-title: "U.S. Considers Stopping Iranian Oil Tankers at Sea"
-subtitle: "U.S. Considers Stopping Iranian Oil Tankers at Sea"
-date: "2025-03-07T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/11062b_aa90b5dbcfcb4071b3ec6d890e0b77ed~mv2.jpg"
-imageAlt: "U.S. Considers Stopping Iranian Oil Tankers at Sea"
-wixId: "4365b9b0-bb5f-4275-ac91-626e2987112c"
-author: "Sedat Onat"
+title: U.S. Considers Stopping Iranian Oil Tankers at Sea
+subtitle: U.S. Considers Stopping Iranian Oil Tankers at Sea
+date: '2025-03-07T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/11062b_aa90b5dbcfcb4071b3ec6d890e0b77ed~mv2.jpg
+imageAlt: U.S. Considers Stopping Iranian Oil Tankers at Sea
+wixId: 4365b9b0-bb5f-4275-ac91-626e2987112c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- U.S.
+- Iran
+- oil tanker
+- Strait of Hormuz
+- maritime law
+- economic sanctions
+- energy security
+- Persian Gulf
 ---
-
 <p style="text-align: justify">The U.S. administration is planning to intercept and inspect Iranian oil tankers at sea in order to block Iran's petroleum exports. This step has come to the fore due to mounting international concerns over Iran's nuclear program and the ineffectiveness of existing economic sanctions.</p>
 <p><br></p>
 <p style="text-align: justify">Iran continues its oil exports despite international sanctions, a situation that threatens U.S. strategic interests in the region. The U.S. administration aims to reduce Iran's oil revenues and thereby prevent the financing of its nuclear program.</p>

@@ -1,14 +1,22 @@
 ---
-title: "ABD'li Taşıyıcılar Okyanus Peak Sezonunu Erken Başlattı"
-subtitle: "ABD'li Taşıyıcılar Okyanus Peak Sezonunu Erken Başlattı"
-date: "2024-08-09T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c0f2055a838d47909bd455bcc720effc~mv2.png"
-imageAlt: "ABD'li Taşıyıcılar Okyanus Yoğun Sezonunu Erken Başlattı"
-wixId: "f8c557d9-1e9c-4da5-bff4-f9056b9e43d5"
-author: "Sedat Onat"
+title: ABD'li Taşıyıcılar Okyanus Peak Sezonunu Erken Başlattı
+subtitle: ABD'li Taşıyıcılar Okyanus Peak Sezonunu Erken Başlattı
+date: '2024-08-09T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c0f2055a838d47909bd455bcc720effc~mv2.png
+imageAlt: ABD'li Taşıyıcılar Okyanus Yoğun Sezonunu Erken Başlattı
+wixId: f8c557d9-1e9c-4da5-bff4-f9056b9e43d5
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD
+- Çin
+- okyanus taşımacılığı
+- ithalat
+- gümrük tarifeleri
+- liman
+- yoğun sezon
 ---
 <p>Bu yıl ABD'deki ithalatçılar, kış sezonu öncesinde yoğun sezon alışverişi için ithalatlarını beklenenden erken başlattı. Bu erken hareketin ana nedeni, Biden yönetiminin Çin'den ithal edilen bazı mallara uygulayacağı yeni tarifeler. Özellikle batı kıyısındaki limanlara yapılan ithalatlarda artış gözlemlendi. Bu eğilim, COVID-19 salgını sırasında Çin'e olan bağımlılığı azaltmaya yönelik çabalara rağmen yaşanıyor. Doğu Kıyısı limanlarında beklenen grev riski de ithalatçıların tercihlerinde etkili oldu.</p>
 <p><br></p>

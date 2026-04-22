@@ -1,14 +1,22 @@
 ---
-title: "2024 İçin Tedarik Zinciri Öngörüleri"
-subtitle: "2024 İçin Tedarik Zinciri Öngörüleri"
-date: "2024-02-19T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_22e9d98772cb43f9b13b6d15e1119a54~mv2.jpg"
-imageAlt: "2024 İçin Tedarik Zinciri Öngörüleri"
-wixId: "3269debd-6b82-476e-b2da-322da7291edd"
-author: "Sedat Onat"
+title: 2024 İçin Tedarik Zinciri Öngörüleri
+subtitle: 2024 İçin Tedarik Zinciri Öngörüleri
+date: '2024-02-19T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_22e9d98772cb43f9b13b6d15e1119a54~mv2.jpg
+imageAlt: 2024 İçin Tedarik Zinciri Öngörüleri
+wixId: 3269debd-6b82-476e-b2da-322da7291edd
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tedarik zinciri
+- sürdürülebilirlik
+- Kızıldeniz
+- yapay zeka
+- rightshoring
+- iklim değişikliği
+- navlun oranları
 ---
 <p>2023, doğal afetlerden küresel çatışmalara kadar sayısız zorlukla tedarik zinciri endüstrisini sarsan bir yıl oldu. Liderler, operasyonlarını yeniden değerlendirip, alternatif rotalar arayıp, geleceğe daha iyi hazırlanmak zorunda kaldı.&nbsp;</p>
 <p><br></p>

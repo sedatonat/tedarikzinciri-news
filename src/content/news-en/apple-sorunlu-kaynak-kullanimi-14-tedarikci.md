@@ -1,14 +1,21 @@
 ---
-title: "Apple Cuts Ties with 14 Suppliers over Problematic Sourcing Practices"
-subtitle: "Apple Cuts Ties with 14 Suppliers over Problematic Sourcing Practices"
-date: "2024-04-25T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_472aa15e85f04a2f9ec3d8bc8385f074~mv2.jpg"
-imageAlt: "Apple Cuts Ties with 14 Suppliers over Problematic Sourcing Practices"
-wixId: "80666337-80e9-4748-90e1-d3a17d809b45"
-author: "Sedat Onat"
+title: Apple Cuts Ties with 14 Suppliers over Problematic Sourcing Practices
+subtitle: Apple Cuts Ties with 14 Suppliers over Problematic Sourcing Practices
+date: '2024-04-25T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_472aa15e85f04a2f9ec3d8bc8385f074~mv2.jpg
+imageAlt: Apple Cuts Ties with 14 Suppliers over Problematic Sourcing Practices
+wixId: 80666337-80e9-4748-90e1-d3a17d809b45
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Apple
+- supplier management
+- conflict minerals
+- sustainability
+- carbon neutral
+- SEC
+- supply chain
 ---
-
 <p>Apple severed relationships with 14 suppliers last year that failed to meet its sourcing standards. The decision is based on a Conflict Minerals Report submitted to the Securities and Exchange Commission. The company stated that the smelters and refineries in question either refused to participate in third-party audits or failed to complete them. Since 2009, Apple has terminated relationships with a total of 25 production facilities and 231 suppliers. Apple's supplier code of conduct is based on criteria established by various international organizations, including the United Nations.</p>\n<p><br></p>\n<p>Additionally, Apple continues its efforts to reduce greenhouse gas emissions in line with its goal of making its entire supply chain completely carbon neutral by 2030. The company is requiring suppliers to decarbonize their operations through methods such as renewable energy. Apple stated that it views removing a supplier from its supply chain as a last resort, as this approach does not provide the necessary solution to workers and may allow violations to continue across the industry.</p>\n<p><br></p>\n<p>An SEC rule that took effect in 2012 requires companies to disclose whether their products contain conflict minerals through Form SD. Substances carrying conflict mineral risk are frequently referred to as "3TG" — tin, tantalum, tungsten, and gold. Through rigorous work conducted with information received from its suppliers, Apple identified a list of 235 multi-continental smelters and refineries that it believed processed 3TG in 2023. Of these facilities, 221 continue to remain in Apple's 3TG supply chain.</p>\n<p><br></p>\n<p><br></p>\n<h5><strong>Key Points</strong></h5>\n<ul>\n  <li><p>Apple has severed relationships with 14 suppliers that failed to meet standards.</p></li>\n  <li><p>The company aims to make its supply chain carbon neutral by 2030.</p></li>\n  <li><p>The SEC has mandated reporting on products containing conflict minerals.</p></li>\n  <li><p>Apple views removing a supplier from its supply chain as a last resort.</p></li>\n</ul>\n<p><br></p>\n<p><strong>News Link:</strong> <a href="https://www.supplychaindive.com/news/apple-cuts-14-suppliers-conflict-minerals/714301/"><u>https://www.supplychaindive.com/news/apple-cuts-14-suppliers-conflict-minerals/714301/</u></a></p>

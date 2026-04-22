@@ -1,14 +1,22 @@
 ---
-title: "CMA CGM’in Rusya’ya “Sessiz” Dönüşü: Doğrudan Hat YOK, Feeder Ağı VAR"
-subtitle: "CMA CGM’in Rusya’ya “Sessiz” Dönüşü: Doğrudan Hat YOK, Feeder Ağı VAR"
-date: "2025-12-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b89d0da026c44b59ae1a68634893d5a1~mv2.jpg"
-imageAlt: "Kasım–Aralık 2025 lojistik raporlarına göre CMA CGM’in Rusya’ya planlanan doğrudan dönüşünün gecikmesi, Hindistan bağlantılı feeder operasyonları ve şirketin risk yönetim stratejisinin detaylı analizi"
-wixId: "afecd0ab-2873-44b3-bb52-b0aeb0cb75fd"
-author: "Sedat Onat"
+title: 'CMA CGM’in Rusya’ya “Sessiz” Dönüşü: Doğrudan Hat YOK, Feeder Ağı VAR'
+subtitle: 'CMA CGM’in Rusya’ya “Sessiz” Dönüşü: Doğrudan Hat YOK, Feeder Ağı VAR'
+date: '2025-12-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b89d0da026c44b59ae1a68634893d5a1~mv2.jpg
+imageAlt: Kasım–Aralık 2025 lojistik raporlarına göre CMA CGM’in Rusya’ya planlanan doğrudan dönüşünün gecikmesi, Hindistan bağlantılı feeder operasyonları ve şirketin risk yönetim stratejisinin detaylı analizi
+wixId: afecd0ab-2873-44b3-bb52-b0aeb0cb75fd
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CMA CGM
+- Rusya
+- feeder taşımacılık
+- konteyner taşımacılığı
+- transshipment
+- yaptırım uyumluluğu
+- St. Petersburg
 ---
 <p style="text-align: justify">Kasım sonu ve Aralık 2025 lojistik raporlarına göre <strong>CMA CGM</strong>’in Rusya’ya dönüşü kamuoyunda yansıtıldığı kadar doğrudan bir operasyonla gerçekleşmiş değil. Şirket, St. Petersburg’a yönelik planladığı <strong>direct call</strong> seferlerini henüz başlatmadı; buna karşın Rusya’ya yönelik taşımacılık faaliyetini daha az görünür ve daha düşük riskli bir modelle <strong>feeder-based</strong> formda yeniden devreye aldı. Bu durum, analiz kuruluşlarının ve sektör uzmanlarının dile getirdiği “<strong>quiet return</strong>” modelini doğrulamakta.</p>
 <p><br></p>

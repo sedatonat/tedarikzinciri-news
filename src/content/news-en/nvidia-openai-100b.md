@@ -1,16 +1,24 @@
 ---
-title: "Nvidia Allocating $100B to Data Centers Through OpenAI Partnership"
-subtitle: "Nvidia Allocating $100B to Data Centers Through OpenAI Partnership"
-date: "2025-09-23T00:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_8ce299e54c1547e3a4e4ab6293413ff6~mv2.png"
-imageAlt: "Nvidia Allocating $100B to Data Centers Through OpenAI Partnership"
-wixId: "cf5a721a-bb37-4c7b-962b-67b0965b0882"
-author: "Sedat Onat"
+title: Nvidia Allocating $100B to Data Centers Through OpenAI Partnership
+subtitle: Nvidia Allocating $100B to Data Centers Through OpenAI Partnership
+date: '2025-09-23T00:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_8ce299e54c1547e3a4e4ab6293413ff6~mv2.png
+imageAlt: Nvidia Allocating $100B to Data Centers Through OpenAI Partnership
+wixId: cf5a721a-bb37-4c7b-962b-67b0965b0882
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Nvidia
+- OpenAI
+- data center
+- artificial intelligence
+- GPU
+- supply chain
+- HBM memory
+- semiconductor
 ---
-
 <p style="text-align: justify">NVIDIA's <strong>major deal with OpenAI</strong> involves planning a <strong>$100 billion investment</strong> in data center infrastructure, pushing global artificial intelligence compute capacity to a new scale. This investment extends far beyond GPU procurement; it also encompasses <strong>HGX platforms</strong>, <strong>NVLink/NVSwitch interconnects</strong>, <strong>InfiniBand/Ethernet backbone</strong>, <strong>HBM memory supply</strong>, and <strong>liquid cooling systems</strong> and other energy and thermal infrastructure. The goal is to deliver the highest possible performance and efficiency in AI model training and inference processes.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">From a supply chain perspective, this scale requires global-level coordination in areas such as <strong>foundry capacity planning</strong>, <strong>packaging technologies (particularly CoWoS)</strong>, and <strong>supply diversification</strong> (for example, across TSMC and Samsung ecosystems). Additionally, <strong>modular data center designs</strong> enable such large-scale investments to be deployed more rapidly.</p>

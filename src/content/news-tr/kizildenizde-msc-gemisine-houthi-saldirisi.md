@@ -1,14 +1,22 @@
 ---
-title: "Kızıldeniz'de MSC Konteyner Gemisine Houthi Saldırısı"
-subtitle: "Kızıldeniz'de MSC Konteyner Gemisine Houthi Saldırısı"
-date: "2024-03-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4dafd288edeb433c89708c376a3ffd10~mv2.png"
-imageAlt: "Kızıldeniz'de MSC Konteyner Gemisine Houthi Saldırısı"
-wixId: "a70ea38f-8eab-4796-83f6-bccd2783bbfb"
-author: "Sedat Onat"
+title: Kızıldeniz'de MSC Konteyner Gemisine Houthi Saldırısı
+subtitle: Kızıldeniz'de MSC Konteyner Gemisine Houthi Saldırısı
+date: '2024-03-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4dafd288edeb433c89708c376a3ffd10~mv2.png
+imageAlt: Kızıldeniz'de MSC Konteyner Gemisine Houthi Saldırısı
+wixId: a70ea38f-8eab-4796-83f6-bccd2783bbfb
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kızıldeniz
+- Houthi saldırısı
+- MSC
+- konteyner gemisi
+- deniz güvenliği
+- Yemen
+- MSC Sky II
 ---
 <p>4 Mart'ta, Kızıldeniz'i geçerken, <a href="https://www.msc.com/"><u>MSC</u></a>'ye ait bir konteyner gemisi Houthi isyancıları tarafından saldırıya uğradı. ABD Merkez Komutanlığı'na göre, 1999 yapımı, 2,169 TEU kapasiteli MSC Sky II gemisi, Aden, Yemen'in 91 deniz mili güneydoğusunda, yerel saatle sabah 2.15'te saldırıya uğradı. <a href="https://www.ukmto.org/"><u>UK Deniz Ticaret Operasyonları (UKMTO)</u></a>, geminin bölgeden ayrıldığını ve bir sonraki limanına doğru yol aldığını, gemi ve tüm mürettebatın güvende olduğunu bildirdi. Saldırı sonucu <a href="https://www.msc.com/"><u>MSC</u></a> <a href="https://www.vesselfinder.com/vessels/details/9162277"><u>Sky II</u></a>'de yangın çıktı. UK güvenlik şirketi Ambrey, gemiye iki roket atıldığını ve bunlardan ilkinin gemiden bir miktar uzakta, ikincisinin ise mürettebatın konaklama bölümlerine zarar verdiğini açıkladı. Yangın sonucu gemide çıkan yangınla mürettebatın mücadele ettiği belirtildi.&nbsp;</p>
 <p><br></p>

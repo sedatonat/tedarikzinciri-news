@@ -1,14 +1,23 @@
 ---
-title: "Japon Tersaneleri ve Armatörleri Alternatif Yakıtlı Gemiler İçin Ortak Tasarım Standartlarında Anlaştı"
-subtitle: "Japon Tersaneleri ve Armatörleri Alternatif Yakıtlı Gemiler İçin Ortak Tasarım Standartlarında Anlaştı"
-date: "2025-12-01T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_13b662561d73415c824e0abc607e547f~mv2.jpg"
-imageAlt: "Japonya’nın önde gelen yedi gemi inşa ve denizcilik şirketinin LCO₂ taşıyıcılar ve alternatif yakıtlı gemiler için ortak tasarım platformu MILES üzerinden standart gemi tasarımı geliştirme kararı ve bunun tedarik zinciri etkilerine dair detaylı haber özeti"
-wixId: "10b1eb51-2808-4a05-9278-c2504e6eed9c"
-author: "Sedat Onat"
+title: Japon Tersaneleri ve Armatörleri Alternatif Yakıtlı Gemiler İçin Ortak Tasarım Standartlarında Anlaştı
+subtitle: Japon Tersaneleri ve Armatörleri Alternatif Yakıtlı Gemiler İçin Ortak Tasarım Standartlarında Anlaştı
+date: '2025-12-01T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_13b662561d73415c824e0abc607e547f~mv2.jpg
+imageAlt: Japonya’nın önde gelen yedi gemi inşa ve denizcilik şirketinin LCO₂ taşıyıcılar ve alternatif yakıtlı gemiler için ortak tasarım platformu MILES üzerinden standart gemi tasarımı geliştirme kararı ve bunun tedarik zinciri etkilerine dair detaylı haber özeti
+wixId: 10b1eb51-2808-4a05-9278-c2504e6eed9c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Japonya
+- alternatif yakıt
+- LCO₂ taşıyıcı
+- gemi inşa
+- tersane
+- MILES
+- standart tasarım
+- yeşil gemi
 ---
 <p style="text-align: justify">Japon denizcilik ve gemi inşa sektöründe uzun süredir beklenen yapısal dönüşüm, Kasım–Aralık 2025 döneminde atılan büyük bir adımla hızlanmakta. Japonya’nın yedi büyük oyuncusu — <strong>Mitsubishi Shipbuilding</strong>, <strong>Imabari Shipbuilding</strong>, <strong>Japan Marine United (JMU)</strong>, <strong>Nihon Shipyard (NSY)</strong> ile üç büyük liner şirketi <strong>Kawasaki Kisen Kaisha (K Line)</strong>, <strong>Mitsui O.S.K. Lines (MOL)</strong> ve <strong>Nippon Yusen Kabushiki Kaisha (NYK Line)</strong> — yeni nesil <strong>LCO₂ carriers</strong> ve <strong>alternative-fuel vessels</strong> için ortak bir <strong>“standard design framework”</strong> geliştirme konusunda <strong>memorandum of understanding (MoU)</strong> imzaladı.</p>
 <p><br></p>

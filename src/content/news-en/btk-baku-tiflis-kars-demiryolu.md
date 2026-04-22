@@ -1,16 +1,23 @@
 ---
-title: "Georgia Unveils Plans for New Terminal and Digital Customs to Strengthen BTC Railway Line"
-subtitle: "Georgia Unveils Plans for New Terminal and Digital Customs to Strengthen BTC Railway Line"
-date: "2025-10-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a498628229014d198011ae2a7467696b~mv2.jpg"
-imageAlt: "Georgia Unveils Plans for New Terminal and Digital Customs to Strengthen BTC Railway Line"
-wixId: "4ae21c84-9210-48eb-b52e-0eb44e8fe1c4"
-author: "Sedat Onat"
+title: Georgia Unveils Plans for New Terminal and Digital Customs to Strengthen BTC Railway Line
+subtitle: Georgia Unveils Plans for New Terminal and Digital Customs to Strengthen BTC Railway Line
+date: '2025-10-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a498628229014d198011ae2a7467696b~mv2.jpg
+imageAlt: Georgia Unveils Plans for New Terminal and Digital Customs to Strengthen BTC Railway Line
+wixId: 4ae21c84-9210-48eb-b52e-0eb44e8fe1c4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- BTK line
+- Georgian Railways
+- Middle Corridor
+- digital customs
+- Akhalkalaki terminal
+- rail transport
+- green logistics
 ---
-
 <p style="text-align: justify"><strong>Georgian Railways</strong> announced the launch of a comprehensive modernization program aimed at increasing transport capacity along the <strong>Baku–Tbilisi–Kars (BTC) Railway Line</strong>.</p>
 <p><br>
 As part of this plan, construction of <strong>a new terminal in the Akhalkalaki region, near Georgia's border with Turkey, is set to begin in 2026.</strong></p>

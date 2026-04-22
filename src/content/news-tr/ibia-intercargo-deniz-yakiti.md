@@ -1,14 +1,23 @@
 ---
-title: "IBIA ve INTERCARGO, Deniz Yakıtları Alanında İş Birliğini Güçlendirdi"
-subtitle: "IBIA ve INTERCARGO, Deniz Yakıtları Alanında İş Birliğini Güçlendirdi"
-date: "2025-11-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_759eaa7eaa3949a7a31c560ece2616f7~mv2.jpg"
-imageAlt: "Uluslararası Bunker Endüstrisi Birliği (IBIA) ile Uluslararası Kuru Dökme Yük Armatörleri Birliği (INTERCARGO), yakıt kalitesi, güvenlik ve karbonsuzlaşma konularında daha yakın iş birliği sağlamak amacıyla karşılıklı üyelik anlaşması imzaladı. Bu adım, deniz yakıtı tedarik zinciriyle armatörler arasındaki diyaloğu güçlendirmeyi hedefliyor."
-wixId: "5b791bd5-ae42-4b26-be25-9dcc574b2f70"
-author: "Sedat Onat"
+title: IBIA ve INTERCARGO, Deniz Yakıtları Alanında İş Birliğini Güçlendirdi
+subtitle: IBIA ve INTERCARGO, Deniz Yakıtları Alanında İş Birliğini Güçlendirdi
+date: '2025-11-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_759eaa7eaa3949a7a31c560ece2616f7~mv2.jpg
+imageAlt: Uluslararası Bunker Endüstrisi Birliği (IBIA) ile Uluslararası Kuru Dökme Yük Armatörleri Birliği (INTERCARGO), yakıt kalitesi, güvenlik ve karbonsuzlaşma konularında daha yakın iş birliği sağlamak amacıyla karşılıklı üyelik anlaşması imzaladı. Bu adım, deniz yakıtı tedarik zinciriyle armatörler arasındaki diyaloğu güçlendirmeyi hedefliyor.
+wixId: 5b791bd5-ae42-4b26-be25-9dcc574b2f70
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- IBIA
+- INTERCARGO
+- deniz yakıtları
+- karbonsuzlaşma
+- bunker
+- IMO
+- alternatif yakıtlar
+- yakıt kalitesi
 ---
 <p style="text-align: justify"><strong>Uluslararası Bunker Endüstrisi Birliği (IBIA)</strong> ve <strong>Uluslararası Kuru Dökme Yük Armatörleri Birliği (INTERCARGO)</strong>, deniz yakıtları alanında iş birliğini derinleştirmek amacıyla <strong>karşılıklı üyelik (reciprocal membership)</strong> anlaşması imzaladı.</p>
 <p><br></p>

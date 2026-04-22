@@ -1,16 +1,24 @@
 ---
-title: "Suez Canal Authority and Ministry of Petroleum Establish LNG Liquefaction and Bunkering Facility in Port Said"
-subtitle: "Suez Canal Authority and Ministry of Petroleum Establish LNG Liquefaction and Bunkering Facility in Port Said"
-date: "2025-11-24T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b138afb021134c03a0e933e57ce16dba~mv2.jpg"
-imageAlt: "A memorandum of understanding signed between the Suez Canal Authority and the Ministry of Petroleum and Mineral Resources for an LNG liquefaction, storage, and bunkering facility in the Raswa region of Port Said, Egypt, detailing the project's role in the \"green channel\" development plan."
-wixId: "f5ae512d-bb37-46c5-b3c8-18d097bb13bd"
-author: "Sedat Onat"
+title: Suez Canal Authority and Ministry of Petroleum Establish LNG Liquefaction and Bunkering Facility in Port Said
+subtitle: Suez Canal Authority and Ministry of Petroleum Establish LNG Liquefaction and Bunkering Facility in Port Said
+date: '2025-11-24T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b138afb021134c03a0e933e57ce16dba~mv2.jpg
+imageAlt: A memorandum of understanding signed between the Suez Canal Authority and the Ministry of Petroleum and Mineral Resources for an LNG liquefaction, storage, and bunkering facility in the Raswa region of Port Said, Egypt, detailing the project's role in the "green channel" development plan.
+wixId: f5ae512d-bb37-46c5-b3c8-18d097bb13bd
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- LNG
+- Suez Canal
+- bunker fuel
+- Port Said
+- green corridor
+- Egypt
+- maritime
+- emissions
 ---
-
 <p style="text-align: justify">Egypt has formalized plans to establish an <strong>LNG liquefaction, storage, and bunker fuel supply facility</strong> in the Raswa region of Port Said, taking a strategic step to accelerate the global energy transition and fuel transformation in the maritime sector. A memorandum of understanding signed on November 23, 2025, between the <strong>Suez Canal Authority (SCA)</strong> and the <strong>Ministry of Petroleum and Mineral Resources</strong> will strengthen the energy component of the <strong>"green channel"</strong> concept that Egypt aims to develop along the Canal.</p>
 <p><br></p>
 <p style="text-align: justify">The agreement encompasses securing the natural gas supply chain required for the new facility, determining technical requirements for the liquefaction and storage infrastructure, and clarifying the roles of institutions involved in the project. The accord seeks to ensure the project's sustainable progress both economically and technically by enhancing coordination between public companies in the petroleum sector and the SCA.</p>

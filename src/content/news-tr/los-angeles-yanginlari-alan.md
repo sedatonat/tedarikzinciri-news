@@ -1,14 +1,22 @@
 ---
-title: "Los Angeles Yangınlarında ALAN'ın Rolü"
-subtitle: "Los Angeles Yangınlarında ALAN'ın Rolü"
-date: "2025-01-22T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d22fa0c5bf6b43b182fa31242e48a5ca~mv2.jpg"
-imageAlt: "Los Angeles Yangınlarında ALAN'ın Rolü"
-wixId: "84677a72-5bf4-48bf-9cab-200c40244892"
-author: "Sedat Onat"
+title: Los Angeles Yangınlarında ALAN'ın Rolü
+subtitle: Los Angeles Yangınlarında ALAN'ın Rolü
+date: '2025-01-22T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d22fa0c5bf6b43b182fa31242e48a5ca~mv2.jpg
+imageAlt: Los Angeles Yangınlarında ALAN'ın Rolü
+wixId: 84677a72-5bf4-48bf-9cab-200c40244892
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ALAN
+- afet lojistiği
+- Los Angeles
+- yangın
+- insani yardım
+- lojistik destek
+- depo yönetimi
 ---
 <p style="text-align: justify">Los Angeles'ta meydana gelen yıkıcı yangınlar sonrasında, <strong>American Logistics Aid Network (ALAN)</strong>, hayatta kalanlara yardım etmek için önemli lojistik destek sağlamaktadır. Toplulukların cömert bağışları sayesinde, yerel organizasyonlar şu anda malzemelerle doludur; ancak, bu malzemelerin tasnifi ve dağıtımı konusunda lojistik zorluklarla karşılaşmaktadırlar. <strong>ALAN</strong>, bu engelleri aşmalarına yardımcı olmak için kritik rehberlik sağlamaktadır ve Pazartesi günü saat 15:30 Doğu saatiyle sivil toplum kuruluşları için bir lojistik çağrısı düzenleyecektir. ​</p>
 <p><br></p>

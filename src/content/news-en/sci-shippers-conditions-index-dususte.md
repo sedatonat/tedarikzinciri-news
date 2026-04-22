@@ -1,16 +1,23 @@
 ---
-title: "Shippers Conditions Index (SCI) Turns Negative for Second Time Since August 2023"
-subtitle: "Shippers Conditions Index (SCI) Turns Negative for Second Time Since August 2023"
-date: "2025-03-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_4e6fd7f022c4422a85d4de58cb28ffec~mv2.jpg"
-imageAlt: "Shippers Conditions Index (SCI) Turns Negative for Second Time Since August 2023"
-wixId: "b4a9065b-db12-4317-a370-edc9a6598ccd"
-author: "Sedat Onat"
+title: Shippers Conditions Index (SCI) Turns Negative for Second Time Since August 2023
+subtitle: Shippers Conditions Index (SCI) Turns Negative for Second Time Since August 2023
+date: '2025-03-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_4e6fd7f022c4422a85d4de58cb28ffec~mv2.jpg
+imageAlt: Shippers Conditions Index (SCI) Turns Negative for Second Time Since August 2023
+wixId: b4a9065b-db12-4317-a370-edc9a6598ccd
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Shippers Conditions Index
+- SCI
+- freight costs
+- supply chain
+- FTR Transportation Intelligence
+- capacity management
+- fuel prices
 ---
-
 <p style="text-align: justify"><a href="https://www.ftrintel.com/"><u><strong>FTR Transportation Intelligence</strong></u></a>'s <a href="https://www.ftrintel.com/shippers-conditions-index"><u><strong>Shippers Conditions Index (SCI)</strong></u></a> has turned negative for the second time since August 2023, registering at -0.9 in November 2024. This development indicates that shippers are facing increased difficulties and that market conditions have become less favorable for them.</p>
 <p><br></p>
 <p style="text-align: justify">The <a href="https://www.ftrintel.com/shippers-conditions-index"><u><strong>Shippers Conditions Index (SCI)</strong></u></a> is a gauge that evaluates market conditions by taking into account freight costs, capacity, fuel prices, and other relevant factors facing shippers. Positive values point to more favorable conditions for shippers, while negative values indicate more challenging conditions.</p>

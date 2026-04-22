@@ -1,16 +1,23 @@
 ---
-title: "Maersk Revises Reefer Surcharge from India to Iraq"
-subtitle: "Maersk Revises Reefer Surcharge from India to Iraq"
-date: "2025-01-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2dbaed1b6f4d4a8593c3ccad06dfbba5~mv2.jpg"
-imageAlt: "Maersk Revises Reefer Surcharge from India to Iraq"
-wixId: "08bf8b62-75ae-4a73-a9c3-7fea9ef373fe"
-author: "Sedat Onat"
+title: Maersk Revises Reefer Surcharge from India to Iraq
+subtitle: Maersk Revises Reefer Surcharge from India to Iraq
+date: '2025-01-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2dbaed1b6f4d4a8593c3ccad06dfbba5~mv2.jpg
+imageAlt: Maersk Revises Reefer Surcharge from India to Iraq
+wixId: 08bf8b62-75ae-4a73-a9c3-7fea9ef373fe
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Maersk
+- reefer container
+- India
+- Iraq
+- Peak Season Surcharge
+- ocean shipping
+- logistics costs
 ---
-
 <p style="text-align: justify">Danish maritime giant <strong>Maersk</strong> has revised the <strong>Peak Season Surcharge (PSS)</strong> it applies to refrigerated container (reefer) shipments from India's <strong>Jawaharlal Nehru</strong>, <strong>Mundra</strong>, and <strong>Pipavav</strong> ports to Iraq.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">This change increases transportation costs for reefer container shipments from India to Iraq. <strong>Maersk</strong> typically applies such surcharges during peak demand periods, with the aim of offsetting rising operational costs.</p>

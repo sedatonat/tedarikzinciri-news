@@ -1,16 +1,23 @@
 ---
-title: "Trends Driving Surge in Manufacturing Merger & Acquisition Deals in 2024"
-subtitle: "Trends Driving Surge in Manufacturing Merger & Acquisition Deals in 2024"
-date: "2024-05-09T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_b3e492e6aed349e9b5b6e7e0e7ff98fc~mv2.jpg"
-imageAlt: "Trends Driving Surge in Manufacturing Merger & Acquisition Deals in 2024"
-wixId: "77d1b927-b5e3-4046-8974-55e66d895411"
-author: "Sedat Onat"
+title: Trends Driving Surge in Manufacturing Merger & Acquisition Deals in 2024
+subtitle: Trends Driving Surge in Manufacturing Merger & Acquisition Deals in 2024
+date: '2024-05-09T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_b3e492e6aed349e9b5b6e7e0e7ff98fc~mv2.jpg
+imageAlt: Trends Driving Surge in Manufacturing Merger & Acquisition Deals in 2024
+wixId: 77d1b927-b5e3-4046-8974-55e66d895411
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- M&A
+- mergers and acquisitions
+- manufacturing investments
+- generative AI
+- supply chain
+- reshoring
+- automation
 ---
-
 <p>With inflation and interest rates declining, manufacturing investments are increasing. Many major manufacturers indicated that despite the economy being in a period of slow growth, they plan to increase capital investments and merger and acquisition (M&amp;A) deals in 2024. The Datasite platform shows that new industrial deal originations increased 7% year-over-year in the fourth quarter of 2023, and deal activity increased 19% in the first quarter of 2024.</p>
 <p><br></p>
 <p>What is driving this growing interest? New U.S. legislation such as the 2021 Bipartisan Infrastructure Law, the 2022 CHIPS and Science Act, and the 2022 Inflation Reduction Act are encouraging infrastructure and manufacturing-focused initiatives. Additionally, U.S. clean technology investments reached $239 billion in 2023, and manufacturers are making substantial investments in innovative technologies and reshoring production.</p>

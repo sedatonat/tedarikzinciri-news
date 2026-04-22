@@ -1,16 +1,23 @@
 ---
-title: "Monster Expects \"Modest Impact\" From Rising Aluminum Tariffs"
-subtitle: "Monster Expects \"Modest Impact\" From Rising Aluminum Tariffs"
-date: "2025-11-20T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_f6fbdd2cd3df44d3881b9b929207ff29~mv2.jpg"
-imageAlt: "Monster Beverage disclosed that can costs are rising due to elevated Midwest aluminum premiums driven by Section 232 tariffs on imported aluminum; the company is implementing mitigation strategies to keep impacts at \"modest\" levels."
-wixId: "d37ff20a-b711-4b2f-906e-2755996a9de1"
-author: "Sedat Onat"
+title: Monster Expects "Modest Impact" From Rising Aluminum Tariffs
+subtitle: Monster Expects "Modest Impact" From Rising Aluminum Tariffs
+date: '2025-11-20T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_f6fbdd2cd3df44d3881b9b929207ff29~mv2.jpg
+imageAlt: Monster Beverage disclosed that can costs are rising due to elevated Midwest aluminum premiums driven by Section 232 tariffs on imported aluminum; the company is implementing mitigation strategies to keep impacts at "modest" levels.
+wixId: d37ff20a-b711-4b2f-906e-2755996a9de1
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Monster Beverage
+- aluminum tariffs
+- production costs
+- packaging costs
+- supply chain
+- beverage sector
+- Section 232
 ---
-
 <p style="text-align: justify"><strong>Monster Beverage</strong> disclosed that it is experiencing increased production costs from elevated tariffs on imported aluminum but expects the impact to remain <strong>modest</strong>. CEO and President Hilton Schlosberg stated during an earnings call on November 6 that the company's largest cost pressure stems from <strong>aluminum used in can production</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The tariffs have driven a sharp increase, particularly in what is known as the <strong>Midwest premium</strong> — a regional markup added to aluminum's base price. The Midwest premium, which reflects factors such as energy, transportation, and trade disputes, is a critical pricing component in the U.S. domestic aluminum supply chain. In 2025, this premium has reached record levels.</p>

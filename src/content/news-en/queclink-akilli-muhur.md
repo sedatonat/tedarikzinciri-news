@@ -1,16 +1,23 @@
 ---
-title: "Queclink Advances Container Security with Smart Bolt-Seal Technology"
-subtitle: "Queclink Advances Container Security with Smart Bolt-Seal Technology"
-date: "2025-11-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e57dd3e8c7c248bc8fedf2b92623538e~mv2.jpg"
-imageAlt: "Detailed summary of the transformation Queclink's new ISO 17712-compliant smart bolt-seal device is bringing to container security, featuring real-time breach detection, global connectivity, GNSS/LBS positioning, and highly secure seal structure"
-wixId: "fcd7dd21-863c-47eb-a078-7ee5d202566c"
-author: "Sedat Onat"
+title: Queclink Advances Container Security with Smart Bolt-Seal Technology
+subtitle: Queclink Advances Container Security with Smart Bolt-Seal Technology
+date: '2025-11-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e57dd3e8c7c248bc8fedf2b92623538e~mv2.jpg
+imageAlt: Detailed summary of the transformation Queclink's new ISO 17712-compliant smart bolt-seal device is bringing to container security, featuring real-time breach detection, global connectivity, GNSS/LBS positioning, and highly secure seal structure
+wixId: fcd7dd21-863c-47eb-a078-7ee5d202566c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Queclink
+- container security
+- smart seal
+- IoT
+- supply chain
+- ISO 17712
+- intermodal transportation
 ---
-
 <p style="text-align: justify"><strong>Container security</strong>, one of the most critical challenges facing global supply chain companies, is poised for a significant transformation through a new intelligent security solution developed by IoT hardware manufacturer <strong>Queclink Wireless Solutions</strong>. The company is introducing the <strong>smart bolt-seal GES100CG</strong> device, which complies with the <strong>ISO 17712</strong> high-security standard, aiming to enhance the security of high-value cargo across maritime, road, and rail transport.</p>
 <p><br></p>
 <p style="text-align: justify">Queclink UK Sales Director <strong>Vernon Bonser</strong> notes that the new product addresses a critical vulnerability in intermodal transportation. Traditional bolt-seal seals can be manipulated by being <strong>cloned</strong>, <strong>swapped</strong>, or <strong>re-installed</strong>. This situation often results in breaches going undetected until the container reaches its destination, creating a serious security gap that threatens container integrity. In contrast, the GES100CG, thanks to its <strong>tamper detection</strong> capability, sends immediate alerts when the seal is broken, tampered with, or subjected to unauthorized access. Since <strong>reassembly</strong> is impossible when the device is damaged, the risk of fraudulent sealing is eliminated.</p>

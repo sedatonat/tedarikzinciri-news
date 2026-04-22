@@ -1,14 +1,22 @@
 ---
-title: "Tedarik Zinciri Kırılma Noktası: Parçalanmış Sistemlerin Gerçek Maliyeti"
-subtitle: "Tedarik Zinciri Kırılma Noktası: Parçalanmış Sistemlerin Gerçek Maliyeti"
-date: "2025-02-01T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_4ef40364db9144a38db4f75cff2d5ff2~mv2.jpg"
-imageAlt: "Tedarik Zinciri Kırılma Noktası: Parçalanmış Sistemlerin Gerçek Maliyeti"
-wixId: "590f33b8-3aa8-403a-8e3b-f967ede4a19e"
-author: "Sedat Onat"
+title: 'Tedarik Zinciri Kırılma Noktası: Parçalanmış Sistemlerin Gerçek Maliyeti'
+subtitle: 'Tedarik Zinciri Kırılma Noktası: Parçalanmış Sistemlerin Gerçek Maliyeti'
+date: '2025-02-01T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_4ef40364db9144a38db4f75cff2d5ff2~mv2.jpg
+imageAlt: 'Tedarik Zinciri Kırılma Noktası: Parçalanmış Sistemlerin Gerçek Maliyeti'
+wixId: 590f33b8-3aa8-403a-8e3b-f967ede4a19e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- parçalanmış sistemler
+- tedarik zinciri görünürlüğü
+- kontrol kulesi
+- sistem entegrasyonu
+- FourKites
+- ERP
+- SCM
 ---
 <p style="text-align: justify">Günümüz tedarik zincirleri, artan karmaşıklık ve parçalanmış sistemler nedeniyle ciddi zorluklarla karşı karşıya. <strong>FourKites</strong> tarafından 2025 yılında gerçekleştirilen bir araştırma, tedarik zinciri liderlerinin %75'inin temel kararlar için 3 ila 10 farklı sisteme ihtiyaç duyduğunu ve milyar dolarlık şirketlerin %58'inin kritik kör noktalardan muzdarip olduğunu ortaya koymakta. ​</p>
 <p><br></p>

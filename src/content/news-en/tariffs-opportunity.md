@@ -1,16 +1,24 @@
 ---
-title: "Turning Tariffs into Opportunity for Mid-Market Companies"
-subtitle: "Turning Tariffs into Opportunity for Mid-Market Companies"
-date: "2025-08-21T00:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_cf9cadf760b84996985cb1ccac577e73~mv2.png"
-imageAlt: "Turning Tariffs into Opportunity for Mid-Market Companies"
-wixId: "8ea4908f-173a-4828-8374-f851e1857676"
-author: "Sedat Onat"
+title: Turning Tariffs into Opportunity for Mid-Market Companies
+subtitle: Turning Tariffs into Opportunity for Mid-Market Companies
+date: '2025-08-21T00:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_cf9cadf760b84996985cb1ccac577e73~mv2.png
+imageAlt: Turning Tariffs into Opportunity for Mid-Market Companies
+wixId: 8ea4908f-173a-4828-8374-f851e1857676
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- mid-sized companies
+- tariffs
+- AI scenario planning
+- reshoring
+- nearshoring
+- supplier diversification
+- tariff analytics
+- supply chain resilience
 ---
-
 <p style="text-align: justify">Mid-market companies are beginning to turn tariff challenges into opportunities. Because these companies lack the bureaucratic heaviness of large enterprises, they can reposition their supply networks more quickly. AI-powered scenario planning and supplier diversification strategies help offset cost pressures.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Tariff analytics tools analyze import costs on a product-by-product basis, optimizing sourcing decisions. Reshoring and nearshoring initiatives reduce both delivery times and risks. Cloud-based sourcing platforms ease the search for new suppliers, creating competitive advantage.</p>

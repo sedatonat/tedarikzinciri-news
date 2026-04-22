@@ -1,14 +1,22 @@
 ---
-title: "USPS–Amazon Sözleşmesi 2026’da Tehlikede: “Reverse Auction” Planı Pazarı Sarsıyor"
-subtitle: "USPS–Amazon Sözleşmesi 2026’da Tehlikede: “Reverse Auction” Planı Pazarı Sarsıyor"
-date: "2025-12-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2153bd8995d44a9bb809318e81b64706~mv2.jpg"
-imageAlt: "USPS’in Amazon sözleşmesi için 2026 yenileme sürecinde reverse auction planı, USPS’in finansal baskıları, Amazon’un operasyonel risk değerlendirmesi ve ABD paket teslimat ekosistemine etkilerin detaylı özeti"
-wixId: "401d1c9f-d8c0-4d7f-ba81-2f48c2614bef"
-author: "Sedat Onat"
+title: 'USPS–Amazon Sözleşmesi 2026’da Tehlikede: “Reverse Auction” Planı Pazarı Sarsıyor'
+subtitle: 'USPS–Amazon Sözleşmesi 2026’da Tehlikede: “Reverse Auction” Planı Pazarı Sarsıyor'
+date: '2025-12-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2153bd8995d44a9bb809318e81b64706~mv2.jpg
+imageAlt: USPS’in Amazon sözleşmesi için 2026 yenileme sürecinde reverse auction planı, USPS’in finansal baskıları, Amazon’un operasyonel risk değerlendirmesi ve ABD paket teslimat ekosistemine etkilerin detaylı özeti
+wixId: 401d1c9f-d8c0-4d7f-ba81-2f48c2614bef
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- USPS
+- Amazon
+- reverse auction
+- paket teslimat
+- son mil lojistiği
+- UPS
+- sözleşme yenileme
 ---
 <p style="text-align: justify">ABD paket teslimat sektörünün en kritik ticari ilişkilerinden biri olan <strong>USPS–Amazon sözleşmesi</strong>, Aralık 2025 itibarıyla ciddi belirsizlik içinde. Mevcut anlaşma <strong>Ekim 2026</strong>’da sona eriyor; ancak USPS Postmaster General <strong>David Steiner</strong>’ın 2026 başında bir <strong>reverse auction</strong> düzenlemek istediğine dair haberler, hem Amazon’u hem de kargo sektörünü hareketlendirdi. Washington Post’un haberine göre USPS, Amazon’un mevcut ayrıcalıklı erişimi yerine <strong>posta tesislerine en yüksek teklifi veren şirketlerin erişmesini</strong> sağlayacak bir model düşünüyor. Bu model hayata geçerse Amazon, USPS’in en büyük müşterisi olmasına rağmen <strong>national retail brands</strong> ve yeni bölgesel taşıyıcılarla rekabet etmek zorunda kalabilir.</p>
 <p><br></p>

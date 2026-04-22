@@ -1,14 +1,23 @@
 ---
-title: "Flexport, Convoy Teknoloji Şirketini Satıyor"
-subtitle: "Flexport, Convoy Teknoloji Şirketini Satıyor"
-date: "2025-08-15T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_733fb10386144c268711aaa6ec2650e2~mv2.png"
-imageAlt: "Flexport, Convoy Teknoloji Şirketini Satıyor"
-wixId: "cd52f29d-bf0b-4c84-87a4-b1fe121a192e"
-author: "Sedat Onat"
+title: Flexport, Convoy Teknoloji Şirketini Satıyor
+subtitle: Flexport, Convoy Teknoloji Şirketini Satıyor
+date: '2025-08-15T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_733fb10386144c268711aaa6ec2650e2~mv2.png
+imageAlt: Flexport, Convoy Teknoloji Şirketini Satıyor
+wixId: cd52f29d-bf0b-4c84-87a4-b1fe121a192e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Flexport
+- Convoy
+- dijital yük komisyonculuğu
+- TMS
+- WMS
+- portföy sadeleştirme
+- taşıyıcı pazaryeri
+- konsolidasyon
 ---
 <p style="text-align: justify"><strong>Flexport</strong>, stratejik bir yeniden yapılanma kapsamında <strong>Convoy teknoloji birimini elden çıkararak</strong> portföyünü sadeleştiriyor. Bu adım, şirketin <strong>sermaye verimliliğini artırma</strong>, <strong>temel lojistik–gümrük–taşıma entegrasyonuna odaklanma</strong> ve <strong>operasyonel basitlik</strong> hedefleriyle doğrudan bağlantılı. Böylece Flexport, hızla değişen dijital taşımacılık pazarında çekirdek faaliyet alanlarına daha güçlü bir sermaye ve yönetim odağı yönlendirmeyi amaçlıyor.</p>
 <p style="text-align: justify"><br></p>

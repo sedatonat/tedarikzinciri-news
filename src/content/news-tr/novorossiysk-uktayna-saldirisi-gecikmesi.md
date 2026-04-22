@@ -1,14 +1,23 @@
 ---
-title: "Ukrayna Saldırısı Sonrası Novorossiysk’te Ham Petrol Yüklemeleri 2–3 Gün Gecikiyor"
-subtitle: "Ukrayna Saldırısı Sonrası Novorossiysk’te Ham Petrol Yüklemeleri 2–3 Gün Gecikiyor"
-date: "2025-11-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_58c2039ae77147349874ab313eae4ae3~mv2.jpg"
-imageAlt: "Novorossiysk limanındaki Şeskharis terminaline yönelik Ukrayna saldırısı, Suezmax iskelelerini hasara uğratarak Rusya’nın ham petrol yüklemelerinde 2–3 günlük gecikmeye yol açtı."
-wixId: "88a3a6fb-35ca-45f5-92de-a8a8196a3bfa"
-author: "Sedat Onat"
+title: Ukrayna Saldırısı Sonrası Novorossiysk’te Ham Petrol Yüklemeleri 2–3 Gün Gecikiyor
+subtitle: Ukrayna Saldırısı Sonrası Novorossiysk’te Ham Petrol Yüklemeleri 2–3 Gün Gecikiyor
+date: '2025-11-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_58c2039ae77147349874ab313eae4ae3~mv2.jpg
+imageAlt: Novorossiysk limanındaki Şeskharis terminaline yönelik Ukrayna saldırısı, Suezmax iskelelerini hasara uğratarak Rusya’nın ham petrol yüklemelerinde 2–3 günlük gecikmeye yol açtı.
+wixId: 88a3a6fb-35ca-45f5-92de-a8a8196a3bfa
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Novorossiysk
+- ham petrol
+- Ukrayna
+- Karadeniz
+- liman operasyonları
+- Rusya
+- petrol ihracatı
+- Kazakistan
 ---
 <p style="text-align: justify">Rusya'nın Karadeniz’deki en kritik ham petrol ihraç noktalarından biri olan <strong>Novorossiysk Limanı</strong>, 14 Kasım’daki Ukrayna saldırısı sonrası yüklemelerde ciddi aksama yaşamaya devam ediyor. Reuters’a konuşan üç kaynak, limandaki Şeskharis petrol terminalinin ana iskelelerinden <strong>1 ve 1A numaralı rıhtımların hasar aldığını</strong> ve bu nedenle Suezmax tanker yüklemelerinin <strong>2 ile 3 gün geriden</strong> geldiğini belirtti.</p>
 <p><br></p>

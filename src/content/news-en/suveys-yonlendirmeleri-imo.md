@@ -1,16 +1,24 @@
 ---
-title: "Suez Diversions and IMO Discord Jeopardize 2030 Emissions Targets"
-subtitle: "Suez Diversions and IMO Discord Jeopardize 2030 Emissions Targets"
-date: "2025-01-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2dc213247246489fb2aa6bdc9ee9d9fa~mv2.jpg"
-imageAlt: "Suez Diversions and IMO Discord Put 2030 Emissions Targets at Risk"
-wixId: "c59feab6-b623-4b8c-a994-578d2daeb319"
-author: "Sedat Onat"
+title: Suez Diversions and IMO Discord Jeopardize 2030 Emissions Targets
+subtitle: Suez Diversions and IMO Discord Jeopardize 2030 Emissions Targets
+date: '2025-01-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2dc213247246489fb2aa6bdc9ee9d9fa~mv2.jpg
+imageAlt: Suez Diversions and IMO Discord Put 2030 Emissions Targets at Risk
+wixId: c59feab6-b623-4b8c-a994-578d2daeb319
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Suez Canal
+- Red Sea
+- carbon emissions
+- IMO
+- maritime shipping
+- Cape of Good Hope
+- alternative fuel
+- climate targets
 ---
-
 <p>In recent weeks, escalating attacks in the <strong>Red Sea</strong> have prompted vessels to opt for longer routes via <strong>Cape of Good Hope</strong> rather than the <strong>Suez Canal</strong>. This shift is significantly raising carbon emissions from maritime shipping, jeopardizing 2030 climate goals.</p>
 <p><br></p>
 <p>According to <strong>Reuters</strong>, attacks by <strong>Houthi</strong> rebels in <strong>Yemen</strong> are preventing ships from using the Suez Canal. As a result, shipments from Asia to Europe are being rerouted via Cape of Good Hope on longer, more fuel-intensive routes. For example, a large container vessel traveling from <strong>Shanghai</strong> to <strong>Hamburg</strong> via Cape of Good Hope produces 38% more CO₂ emissions compared with transiting the Suez Canal.</p>

@@ -1,16 +1,23 @@
 ---
-title: "DHL to Open 4 New Smart Warehouses"
-subtitle: "DHL to Open 4 New Smart Warehouses"
-date: "2023-11-21T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_5036cd849efe493b927d3ef51944cb88~mv2.jpg"
-imageAlt: "DHL to Open 4 New Smart Warehouses"
-wixId: "465fa231-66b4-4dfa-b2a0-e81c9ee76a61"
-author: "Sedat Onat"
+title: DHL to Open 4 New Smart Warehouses
+subtitle: DHL to Open 4 New Smart Warehouses
+date: '2023-11-21T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_5036cd849efe493b927d3ef51944cb88~mv2.jpg
+imageAlt: DHL to Open 4 New Smart Warehouses
+wixId: 465fa231-66b4-4dfa-b2a0-e81c9ee76a61
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- DHL Supply Chain
+- smart warehouse
+- automation
+- AutoStore
+- robotics
+- e-commerce
+- digitalization
 ---
-
 <p>DHL Supply Chain plans to open 4 new automated warehouses as part of its broader initiative to further digitalize global warehouse operations.</p>
 <p><br></p>
 <p>The company currently operates 9 automated warehouses globally, with 4 of them in the United States, and plans to build 5 more in the future.</p>

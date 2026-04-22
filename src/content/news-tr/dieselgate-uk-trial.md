@@ -1,14 +1,23 @@
 ---
-title: "Dieselgate’in Ardından: Otomobil Üreticileri İngiltere’de Yargılanacak"
-subtitle: "Dieselgate’in Ardından: Otomobil Üreticileri İngiltere’de Yargılanacak"
-date: "2025-10-13T00:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_bb7220e5ca7948b3b1a6e16b3ca3cbca~mv2.png"
-imageAlt: "Dizelgate’in Ardından: Otomobil Üreticileri İngiltere’de Yargılanacak"
-wixId: "8a77aab3-65ea-4a4b-b051-2537ea947a73"
-author: "Sedat Onat"
+title: 'Dieselgate’in Ardından: Otomobil Üreticileri İngiltere’de Yargılanacak'
+subtitle: 'Dieselgate’in Ardından: Otomobil Üreticileri İngiltere’de Yargılanacak'
+date: '2025-10-13T00:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_bb7220e5ca7948b3b1a6e16b3ca3cbca~mv2.png
+imageAlt: 'Dizelgate’in Ardından: Otomobil Üreticileri İngiltere’de Yargılanacak'
+wixId: 8a77aab3-65ea-4a4b-b051-2537ea947a73
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Dieselgate
+- otomobil üreticileri
+- emisyon skandalı
+- İngiltere
+- yazılım manipülasyonu
+- uyumluluk
+- OTA güncellemeler
+- tedarik zinciri
 ---
 <p>Dieselgate skandalının ardından otomobil üreticileri, İngiltere’de toplu davalar kapsamında yargı süreciyle karşı karşıya.&nbsp;</p>
 <p><br></p>

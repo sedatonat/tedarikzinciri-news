@@ -1,14 +1,22 @@
 ---
-title: "Wan Hai, Filosu İçin 49.300 Yeni Konteyner Sipariş Etti"
-subtitle: "Wan Hai, Filosu İçin 49.300 Yeni Konteyner Sipariş Etti"
-date: "2025-12-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_27575cd3dc3a42e09d38ebdfd19c09c7~mv2.jpg"
-imageAlt: "Wan Hai Lines’ın 49.300 adet yeni konteyneri toplam 118.1 milyon USD yatırımla sipariş etmesi, konteyner üreticileri CIMC ve Dong Fang’ın payları, birim fiyat analizi ve küresel kapasite stratejisine dair detaylı özet"
-wixId: "91778c10-204a-4dfa-9a73-2aa3ae5f5f23"
-author: "Sedat Onat"
+title: Wan Hai, Filosu İçin 49.300 Yeni Konteyner Sipariş Etti
+subtitle: Wan Hai, Filosu İçin 49.300 Yeni Konteyner Sipariş Etti
+date: '2025-12-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_27575cd3dc3a42e09d38ebdfd19c09c7~mv2.jpg
+imageAlt: Wan Hai Lines’ın 49.300 adet yeni konteyneri toplam 118.1 milyon USD yatırımla sipariş etmesi, konteyner üreticileri CIMC ve Dong Fang’ın payları, birim fiyat analizi ve küresel kapasite stratejisine dair detaylı özet
+wixId: 91778c10-204a-4dfa-9a73-2aa3ae5f5f23
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Wan Hai Lines
+- konteyner siparişi
+- filo genişletme
+- CIMC
+- Dong Fang International
+- Asya içi ticaret
+- denizcilik
 ---
 <p style="text-align: justify"><strong>Wan Hai Lines</strong>, büyüyen yük talebini karşılamak ve operasyonel güvenilirliğini artırmak amacıyla <strong>49.300 adet yeni konteyner</strong> siparişi verdiğini açıkladı. Toplam değeri <strong>118.1 milyon USD</strong> olan bu yatırım, şirketin 2024–2026 döneminde yürüttüğü <strong>fleet renewal &amp; capacity expansion</strong> stratejisinin önemli bir parçası olarak görülmekte. DynaLiners tarafından aktarılan bilgilere göre sipariş, Wan Hai’nın Yönetim Kurulu tarafından onaylandı ve yeni ekipmanların şirketin <strong>global trade routes</strong> üzerindeki kapasite ihtiyacını karşılaması hedefleniyor.</p>
 <p><br></p>

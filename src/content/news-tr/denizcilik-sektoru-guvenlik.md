@@ -1,14 +1,23 @@
 ---
-title: "Denizcilik Sektörü, Gemilerdeki Kömür Yangınlarını Önlemek İçin Daha Sıkı Güvenlik"
-subtitle: "Denizcilik Sektörü, Gemilerdeki Kömür Yangınlarını Önlemek İçin Daha Sıkı Güvenlik"
-date: "2025-01-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_00371f6fb424492cad775a85f34acf3b~mv2.jpg"
-imageAlt: "Denizcilik Sektörü, Gemilerdeki Kömür Yangınlarını Önlemek İçin Daha Sıkı Güvenlik"
-wixId: "c712bd29-528e-4b3a-867f-ebdf0883047c"
-author: "Sedat Onat"
+title: Denizcilik Sektörü, Gemilerdeki Kömür Yangınlarını Önlemek İçin Daha Sıkı Güvenlik
+subtitle: Denizcilik Sektörü, Gemilerdeki Kömür Yangınlarını Önlemek İçin Daha Sıkı Güvenlik
+date: '2025-01-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_00371f6fb424492cad775a85f34acf3b~mv2.jpg
+imageAlt: Denizcilik Sektörü, Gemilerdeki Kömür Yangınlarını Önlemek İçin Daha Sıkı Güvenlik
+wixId: c712bd29-528e-4b3a-867f-ebdf0883047c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- denizcilik
+- kömür taşımacılığı
+- gemi yangını
+- IMO
+- konteyner gemisi
+- tehlikeli madde
+- IMDG Code
+- güvenlik protokolü
 ---
 <p style="text-align: justify">Denizcilik sektörü, kömür taşımacılığında yaşanan yangın risklerini azaltmak amacıyla, <strong>International Maritime Organization (IMO)</strong> tarafından 2026'da yürürlüğe girecek zorunlu düzenlemeler öncesinde, güvenlik protokollerini sıkılaştırmakta. Bu adım, yanlış beyan edilen veya uygun şekilde paketlenmeyen tehlikeli yüklerin neden olduğu gemi yangınlarının artmasıyla birlikte atılmakta. Özellikle, <strong>World Shipping Council (WSC)</strong> Başkanı ve CEO'su Joe Kramek, "Gemilerde yanlış beyan edilen kömür nedeniyle çok sayıda önlenebilir yangın gördük. Bu yangınlar mürettebatı ve yükü tehlikeye atmakta ve trajik sonuçlara yol açmakta." şeklinde açıklamada bulundu.</p>
 <p style="text-align: justify"><br></p>

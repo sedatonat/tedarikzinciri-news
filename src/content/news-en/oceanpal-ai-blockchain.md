@@ -1,16 +1,24 @@
 ---
-title: "OceanPal Establishes SovereignAI, Expanding into Artificial Intelligence and Blockchain"
-subtitle: "OceanPal Establishes SovereignAI, Expanding into Artificial Intelligence and Blockchain"
-date: "2025-10-29T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_f71cbecdffd743f4981f8f9cb4fefce7~mv2.jpeg"
-imageAlt: "Greek shipping company OceanPal has ventured beyond traditional maritime transport to establish SovereignAI, a new digital subsidiary focused on artificial intelligence and blockchain. Developed in partnership with NEAR Foundation, the project aims to create privacy-focused AI cloud infrastructure powered by NVIDIA technology."
-wixId: "e75aee8b-ee75-4ce7-ac7b-910a1b97fa89"
-author: "Sedat Onat"
+title: OceanPal Establishes SovereignAI, Expanding into Artificial Intelligence and Blockchain
+subtitle: OceanPal Establishes SovereignAI, Expanding into Artificial Intelligence and Blockchain
+date: '2025-10-29T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_f71cbecdffd743f4981f8f9cb4fefce7~mv2.jpeg
+imageAlt: Greek shipping company OceanPal has ventured beyond traditional maritime transport to establish SovereignAI, a new digital subsidiary focused on artificial intelligence and blockchain. Developed in partnership with NEAR Foundation, the project aims to create privacy-focused AI cloud infrastructure powered by NVIDIA technology.
+wixId: e75aee8b-ee75-4ce7-ac7b-910a1b97fa89
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- OceanPal
+- artificial intelligence
+- blockchain
+- NEAR Protocol
+- SovereignAI
+- maritime digitalization
+- NVIDIA
+- crypto asset
 ---
-
 <p style="text-align: justify"><strong>Greece-based ship operator OceanPal</strong> has taken a significant leap beyond maritime shipping into <strong>artificial intelligence (AI)</strong> and <strong>blockchain technologies</strong>. Through its new digital subsidiary <strong>SovereignAI</strong>, the company plans to realize a vision of <strong>universal AI sovereignty</strong>.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Nasdaq-listed OceanPal</strong> announced that it has raised <strong>$120 million through a private investment in public equity (PIPE)</strong> and will direct these funds toward the <strong>SovereignAI</strong> project. The new venture will be developed in collaboration with <strong>NEAR Foundation</strong> and built on <strong>NVIDIA-based privacy-focused artificial intelligence cloud infrastructure</strong>.</p>

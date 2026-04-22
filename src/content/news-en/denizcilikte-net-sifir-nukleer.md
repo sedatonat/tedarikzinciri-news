@@ -1,16 +1,23 @@
 ---
-title: "Nuclear Energy Is Essential for Shipping to Achieve Net Zero"
-subtitle: "Nuclear Energy Is Essential for Shipping to Achieve Net Zero"
-date: "2025-02-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_adc34ea517b745f89b239c36e62f66f7~mv2.jpg"
-imageAlt: "Nuclear Energy Is Essential for Shipping to Achieve Net Zero"
-wixId: "7fe42f20-eacb-4b08-8108-4bc726979e54"
-author: "Sedat Onat"
+title: Nuclear Energy Is Essential for Shipping to Achieve Net Zero
+subtitle: Nuclear Energy Is Essential for Shipping to Achieve Net Zero
+date: '2025-02-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_adc34ea517b745f89b239c36e62f66f7~mv2.jpg
+imageAlt: Nuclear Energy Is Essential for Shipping to Achieve Net Zero
+wixId: 7fe42f20-eacb-4b08-8108-4bc726979e54
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- nuclear energy
+- maritime
+- net zero emissions
+- ABS
+- green fuel
+- ship operations
+- carbon reduction
 ---
-
 <p style="text-align: justify">The integration of <strong>nuclear energy</strong> is critical for the maritime sector to reach its net-zero emissions target by 2050. <strong>Christopher J. Wiernicki</strong>, President and CEO of the <strong>American Bureau of Shipping (ABS)</strong>, said at the "New Nuclear for Maritime Houston Summit" organized by Core Power that new nuclear technologies offer solutions for global carbon reduction and are driving significant change in commercial shipping.&nbsp;</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Wiernicki stated, "It is impossible to achieve the net-zero target by 2050 without nuclear energy."</p>

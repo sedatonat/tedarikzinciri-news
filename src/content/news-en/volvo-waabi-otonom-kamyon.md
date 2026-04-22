@@ -1,16 +1,24 @@
 ---
-title: "Volvo and Waabi Autonomous Truck Collaboration"
-subtitle: "Volvo and Waabi Autonomous Truck Collaboration"
-date: "2025-02-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4c8ebf5c84394a7e974cc2d66035bdf3~mv2.png"
-imageAlt: ""
-wixId: "b0950f68-6404-499d-9835-d06c38c31dcb"
-author: "Sedat Onat"
+title: Volvo and Waabi Autonomous Truck Collaboration
+subtitle: Volvo and Waabi Autonomous Truck Collaboration
+date: '2025-02-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4c8ebf5c84394a7e974cc2d66035bdf3~mv2.png
+imageAlt: ''
+wixId: b0950f68-6404-499d-9835-d06c38c31dcb
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Volvo
+- Waabi
+- autonomous truck
+- artificial intelligence
+- autonomous driving
+- trucking
+- Texas
+- Uber Freight
 ---
-
 <p style="text-align: justify"><strong>Volvo Autonomous Solutions</strong> has signed a strategic partnership with <a href="https://waabi.ai/"><u><strong>Waabi</strong></u><u> </u></a>, a developer of autonomous driving technologies. Under this collaboration, <strong>Waabi</strong>'s virtual driver system will be integrated into <strong>Volvo</strong>'s <a href="https://www.volvoautonomoussolutions.com/en-en/news/press-releases/2024/may/the-volvo-vnl-autonomous-proving-the-way-forward.html"><u><strong>VNL Autonomous</strong></u></a> truck model, which will be manufactured at <strong>Volvo</strong>'s New River Valley assembly facility in Virginia.&nbsp;</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Waabi</strong>'s artificial intelligence-powered system enables vehicles to adapt to different driving conditions and road scenarios. <strong>Shahrukh Kazmi</strong>, product lead at <strong>Volvo Autonomous Solutions</strong>, noted that <strong>Waabi</strong> is at the forefront of developing autonomous driving technologies by leveraging the full power of artificial intelligence, and expressed excitement about integrating <strong>Waabi</strong>'s latest technology into autonomous truck platforms.</p>

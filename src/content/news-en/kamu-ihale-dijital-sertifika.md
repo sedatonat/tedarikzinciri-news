@@ -1,16 +1,24 @@
 ---
-title: "Turkey's Public Procurement System Goes Digital: Certificate Era Begins"
-subtitle: "Turkey's Public Procurement System Goes Digital: Certificate Era Begins"
-date: "2025-01-14T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_d358e4247eb14d85b385dd9711139901~mv2.jpg"
-imageAlt: "A comprehensive reform summary explaining how the public procurement legislation dating from 1983 and 2002 will be completely renewed through a digital platform, certificate system, and centralized data registry."
-wixId: "144e7cbd-1c16-4967-8dd5-2f424c673366"
-author: "Sedat Onat"
+title: 'Turkey''s Public Procurement System Goes Digital: Certificate Era Begins'
+subtitle: 'Turkey''s Public Procurement System Goes Digital: Certificate Era Begins'
+date: '2025-01-14T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_d358e4247eb14d85b385dd9711139901~mv2.jpg
+imageAlt: A comprehensive reform summary explaining how the public procurement legislation dating from 1983 and 2002 will be completely renewed through a digital platform, certificate system, and centralized data registry.
+wixId: 144e7cbd-1c16-4967-8dd5-2f424c673366
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- public procurement
+- digitalization
+- certification system
+- Public Procurement Law
+- transparency
+- European Union compliance
+- artificial intelligence
+- municipality
 ---
-
 <p style="text-align: justify">Two foundational frameworks that have governed public procurement in Turkey for decades — the <strong>1983 State Procurement Law</strong> and the <strong>2002 Public Procurement Law</strong> — are undergoing comprehensive reform in light of the current stage of digitalization and international best practices. Economic policymakers aim to restructure the public procurement mechanism as of 2025 around principles of transparency, sustainability, certification, and data-driven governance.</p>
 <p><br></p>
 <p style="text-align: justify">The new regulation consolidates all procurement and sales processes conducted in the public sector into <strong>a single centralized digital platform</strong>. This system will expand beyond ministries to include <strong>state-owned enterprises, public companies, municipalities, and all local government bodies</strong>. The objective is to register all tenders, increase traceability, and build greater supervisory capacity over the use of public resources.</p>

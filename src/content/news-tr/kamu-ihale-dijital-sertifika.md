@@ -1,14 +1,23 @@
 ---
-title: "Kamu İhale Sistemi Dijitalleşiyor: Sertifika Dönemi Başlıyor"
-subtitle: "Kamu İhale Sistemi Dijitalleşiyor: Sertifika Dönemi Başlıyor"
-date: "2025-01-14T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_d358e4247eb14d85b385dd9711139901~mv2.jpg"
-imageAlt: "1983 ve 2002 tarihli kamu ihale mevzuatının dijital platform, sertifika sistemi ve merkezi veri kaydıyla tamamen yenileneceğini anlatan geniş kapsamlı reform özeti."
-wixId: "144e7cbd-1c16-4967-8dd5-2f424c673366"
-author: "Sedat Onat"
+title: 'Kamu İhale Sistemi Dijitalleşiyor: Sertifika Dönemi Başlıyor'
+subtitle: 'Kamu İhale Sistemi Dijitalleşiyor: Sertifika Dönemi Başlıyor'
+date: '2025-01-14T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_d358e4247eb14d85b385dd9711139901~mv2.jpg
+imageAlt: 1983 ve 2002 tarihli kamu ihale mevzuatının dijital platform, sertifika sistemi ve merkezi veri kaydıyla tamamen yenileneceğini anlatan geniş kapsamlı reform özeti.
+wixId: 144e7cbd-1c16-4967-8dd5-2f424c673366
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- kamu ihalesi
+- dijitalleşme
+- sertifika sistemi
+- Kamu İhale Kanunu
+- şeffaflık
+- Avrupa Birliği uyumu
+- yapay zeka
+- belediye
 ---
 <p style="text-align: justify">Türkiye’de kamu alımları için uzun yıllardır kullanılan iki temel çerçeve — <strong>1983 tarihli Devlet İhale Kanunu</strong> ve <strong>2002 tarihli Kamu İhale Kanunu</strong> — dijitalleşme sürecinin geldiği nokta ve uluslararası uygulamalar dikkate alınarak kapsamlı bir şekilde yenileniyor. Ekonomi yönetimi, 2025 yılı itibarıyla kamu ihale mekanizmasını şeffaflık, sürdürülebilirlik, sertifikasyon ve veri temelli yönetim ilkeleri çerçevesinde yeniden yapılandırmayı hedefliyor.</p>
 <p><br></p>

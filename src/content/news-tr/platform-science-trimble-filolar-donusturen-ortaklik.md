@@ -1,14 +1,22 @@
 ---
-title: "Platform Science ve Trimble'dan Filoları Dönüştüren Stratejik Anlaşma"
-subtitle: "Platform Science ve Trimble'dan Filoları Dönüştüren Stratejik Anlaşma"
-date: "2024-09-16T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_a375b91dc44b49a28e3d3e51740953fb~mv2.jpg"
-imageAlt: "Platform Science ve Trimble'dan Filoları Dönüştüren Stratejik Anlaşma"
-wixId: "07902a74-0551-483e-968c-d09581eb9d1d"
-author: "Sedat Onat"
+title: Platform Science ve Trimble'dan Filoları Dönüştüren Stratejik Anlaşma
+subtitle: Platform Science ve Trimble'dan Filoları Dönüştüren Stratejik Anlaşma
+date: '2024-09-16T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_a375b91dc44b49a28e3d3e51740953fb~mv2.jpg
+imageAlt: Platform Science ve Trimble'dan Filoları Dönüştüren Stratejik Anlaşma
+wixId: 07902a74-0551-483e-968c-d09581eb9d1d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Platform Science
+- Trimble
+- filo telematiği
+- ticari araç
+- stratejik ortaklık
+- sürücü deneyimi
+- satın alma
 ---
 <p>Trimble, filo telematiği teknoloji sağlayıcısı Platform Science ile bir anlaşmaya vararak, küresel ulaşım telematiği iş birimlerini Platform Science'a devredeceğini duyurdu. Bu anlaşma sonucunda Trimble, genişlemiş Platform Science işinde %32,5 hisseye sahip olacak ve şirketin yönetim kurulunda bir koltuk elde edecek. Bu stratejik ortaklık, iki şirketin kabin içi ticari araç ekosistemlerini birleştirerek sürücü deneyimini, filo güvenliğini, verimliliği ve uyumluluğu artırmayı hedefliyor.</p>
 <p><br></p>

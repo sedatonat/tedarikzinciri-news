@@ -1,16 +1,24 @@
 ---
-title: "DP World Launches Digital Port Community System in Kenya"
-subtitle: "DP World Launches Digital Port Community System in Kenya"
-date: "2025-10-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d12623df9c674ae28bf1b1370b14e5c7~mv2.png"
-imageAlt: "DP World Launches Digital Port Community System in Kenya"
-wixId: "7937a3eb-d46d-4723-ae86-12e38cb0e5a7"
-author: "Sedat Onat"
+title: DP World Launches Digital Port Community System in Kenya
+subtitle: DP World Launches Digital Port Community System in Kenya
+date: '2025-10-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d12623df9c674ae28bf1b1370b14e5c7~mv2.png
+imageAlt: DP World Launches Digital Port Community System in Kenya
+wixId: 7937a3eb-d46d-4723-ae86-12e38cb0e5a7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- DP World
+- Kenya
+- Port of Mombasa
+- digital port
+- port community system
+- customs efficiency
+- East Africa
+- digital transformation
 ---
-
 <p style="text-align: justify"><strong>DP World</strong> has begun deploying a <strong>Port Community System (PCS)</strong> in Kenya to increase trade efficiency and strengthen transparency.</p>
 <p><br></p>
 <p style="text-align: justify">This digital infrastructure is regarded as <strong>a significant milestone in the modernization of Mombasa Port</strong>. The country, surrounded by more than 12 landlocked nations in East and Central Africa, routes a large portion of its foreign trade through this port.</p>

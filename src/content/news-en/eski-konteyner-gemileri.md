@@ -1,16 +1,23 @@
 ---
-title: "Cleaner Than New Ships: Container Vessels Aged 11–15 Years Show Best Emissions Performance"
-subtitle: "Cleaner Than New Ships: Container Vessels Aged 11–15 Years Show Best Emissions Performance"
-date: "2025-11-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a1ccce3c31924461b0110b058b1608c6~mv2.jpg"
-imageAlt: "According to VesselBot's analysis of 73,000+ vessel transits, container ships aged 11–15 years produce lower emissions than new fleets thanks to route selection, loading optimization, and speed optimization; larger, fully-loaded vessels are far more efficient compared to smaller ships."
-wixId: "63952945-4bd0-4aab-adcd-7ef56fd3008f"
-author: "Sedat Onat"
+title: 'Cleaner Than New Ships: Container Vessels Aged 11–15 Years Show Best Emissions Performance'
+subtitle: 'Cleaner Than New Ships: Container Vessels Aged 11–15 Years Show Best Emissions Performance'
+date: '2025-11-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a1ccce3c31924461b0110b058b1608c6~mv2.jpg
+imageAlt: According to VesselBot's analysis of 73,000+ vessel transits, container ships aged 11–15 years produce lower emissions than new fleets thanks to route selection, loading optimization, and speed optimization; larger, fully-loaded vessels are far more efficient compared to smaller ships.
+wixId: 63952945-4bd0-4aab-adcd-7ef56fd3008f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- container ship
+- emissions
+- maritime
+- environment
+- fuel efficiency
+- South Korea
+- fleet optimization
 ---
-
 <p style="text-align: justify">Container shipping has long accepted an assumption: "<strong>new ships are more environmentally friendly</strong>." However, VesselBot's <em>Decoding Maritime Emissions Q3 2025</em> report seriously challenges this understanding.</p>
 <p><br>
 Analysis of <strong>more than 73,000 container vessel transits</strong> worldwide reveals that <strong>the cleanest voyages are being conducted by vessels aged 11–15 years old</strong>.</p>

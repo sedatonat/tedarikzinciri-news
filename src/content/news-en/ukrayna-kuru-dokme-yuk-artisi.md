@@ -1,16 +1,24 @@
 ---
-title: "Ukraine's Dry Bulk Shipments Surge 87 Percent"
-subtitle: "Ukraine's Dry Bulk Shipments Surge 87 Percent"
-date: "2025-02-24T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_91a346e157a24da2af3f7d5773ea716c~mv2.jpg"
-imageAlt: "Ukraine's Dry Bulk Shipments Surge 87 Percent"
-wixId: "9bc62059-8e1d-420f-b6ba-be28954d3bd8"
-author: "Sedat Onat"
+title: Ukraine's Dry Bulk Shipments Surge 87 Percent
+subtitle: Ukraine's Dry Bulk Shipments Surge 87 Percent
+date: '2025-02-24T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_91a346e157a24da2af3f7d5773ea716c~mv2.jpg
+imageAlt: Ukraine's Dry Bulk Shipments Surge 87 Percent
+wixId: 9bc62059-8e1d-420f-b6ba-be28954d3bd8
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Ukraine
+- dry bulk
+- iron ore
+- coal exports
+- Port of Odesa
+- port infrastructure
+- mining
+- China
 ---
-
 <p style="text-align: justify">Over the three years following Russia's 2022 invasion, Ukraine's dry bulk shipments have surged by 87 percent. During this period, notably robust growth was recorded in coal and iron ore exports.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Coal Export Growth:</strong></p>

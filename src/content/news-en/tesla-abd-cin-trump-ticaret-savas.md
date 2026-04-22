@@ -1,16 +1,24 @@
 ---
-title: "Tesla Warns It Faces Retaliation and Cost Risks from Trump's Trade War"
-subtitle: "Tesla Warns It Faces Retaliation and Cost Risks from Trump's Trade War"
-date: "2025-03-14T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_f8b95e6d48644c80b252e5edc5d81dc5~mv2.jpg"
-imageAlt: "Tesla Warns It Faces Retaliation and Cost Risks from Trump's Trade War"
-wixId: "16fb43a5-86f6-4e23-996d-2aeb27262617"
-author: "Sedat Onat"
+title: Tesla Warns It Faces Retaliation and Cost Risks from Trump's Trade War
+subtitle: Tesla Warns It Faces Retaliation and Cost Risks from Trump's Trade War
+date: '2025-03-14T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_f8b95e6d48644c80b252e5edc5d81dc5~mv2.jpg
+imageAlt: Tesla Warns It Faces Retaliation and Cost Risks from Trump's Trade War
+wixId: 16fb43a5-86f6-4e23-996d-2aeb27262617
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Tesla
+- trade war
+- Donald Trump
+- supply chain
+- electric vehicle
+- retaliatory tariffs
+- China
+- import tariffs
 ---
-
 <p style="text-align: justify"><strong>Tesla</strong> has expressed concern that retaliatory actions by other countries in response to broad import tariffs imposed by US President <strong>Donald Trump</strong> could increase production costs and diminish the competitiveness of its vehicles in international markets. In a letter dated March 11, the company told US Trade Representative <strong>Jamieson Greer</strong> that US exporters could face disproportionate impacts from such trade actions.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Tesla</strong> emphasized that despite manufacturing in the US, its supply chain depends on foreign sources for several critical components. Specifically, the company noted that additional tariffs on imports of minerals such as <strong>lithium</strong> and <strong>cobalt</strong>, which are available in limited quantities in the US, could increase electric vehicle production costs. Tesla stressed that while it is making efforts to localize its supply chain, some parts and components cannot be sourced domestically or would be extremely difficult to do so.</p>

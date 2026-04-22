@@ -1,14 +1,22 @@
 ---
-title: "ABD’de Artan Filipinli Denizci Sınır Dışıları, Manila’nın Diplomatik Müdahalesine Neden Oldu"
-subtitle: "ABD’de Artan Filipinli Denizci Sınır Dışıları, Manila’nın Diplomatik Müdahalesine Neden Oldu"
-date: "2025-10-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_62b68bad31324fe1a2ce90282647bc28~mv2.jpg"
-imageAlt: "ABD’de Artan Filipinli Denizci Sınır Dışıları, Manila’nın Diplomatik Müdahalesine Neden Oldu"
-wixId: "81d05300-45b0-4b06-ba6b-37e7e4f399f6"
-author: "Sedat Onat"
+title: ABD’de Artan Filipinli Denizci Sınır Dışıları, Manila’nın Diplomatik Müdahalesine Neden Oldu
+subtitle: ABD’de Artan Filipinli Denizci Sınır Dışıları, Manila’nın Diplomatik Müdahalesine Neden Oldu
+date: '2025-10-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_62b68bad31324fe1a2ce90282647bc28~mv2.jpg
+imageAlt: ABD’de Artan Filipinli Denizci Sınır Dışıları, Manila’nın Diplomatik Müdahalesine Neden Oldu
+wixId: 81d05300-45b0-4b06-ba6b-37e7e4f399f6
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Filipinli denizciler
+- ABD vize politikası
+- sınır dışı
+- denizcilik iş gücü
+- yolcu gemisi
+- diplomatik gerilim
+- Manila
 ---
 <p style="text-align: justify"><strong>Washington–Manila hattında diplomatik gerilim tırmanıyor.</strong></p>
 <p><br>

@@ -1,14 +1,23 @@
 ---
-title: "CSSC’nin 27,500 TEU’luk Dünyanın En Büyük Konteyner Gemisi"
-subtitle: "CSSC’nin 27,500 TEU’luk Dünyanın En Büyük Konteyner Gemisi"
-date: "2024-09-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_99c2054456e14b438a1c9a833953e146~mv2.jpg"
-imageAlt: "CSSC’nin 27,500 TEU’luk Dünyanın En Büyük Konteyner Gemisi"
-wixId: "e155b248-7523-4468-b1f6-3af23e987838"
-author: "Sedat Onat"
+title: CSSC’nin 27,500 TEU’luk Dünyanın En Büyük Konteyner Gemisi
+subtitle: CSSC’nin 27,500 TEU’luk Dünyanın En Büyük Konteyner Gemisi
+date: '2024-09-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_99c2054456e14b438a1c9a833953e146~mv2.jpg
+imageAlt: CSSC’nin 27,500 TEU’luk Dünyanın En Büyük Konteyner Gemisi
+wixId: e155b248-7523-4468-b1f6-3af23e987838
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- konteyner gemisi
+- CSSC
+- LNG
+- deniz taşımacılığı
+- sürdürülebilirlik
+- sıfır emisyon
+- SMM Denizcilik Fuarı
+- amonyak yakıt
 ---
 <p>Çin Devlet Gemi İnşa Kurumu (CSSC), Hamburg'da düzenlenen SMM Denizcilik Fuarı’nda 27,500 TEU kapasiteye sahip LNG ile çalışan dünyanın en büyük konteyner gemisini tanıttı. “Green Sealion 27500” adı verilen bu devasa gemi, hem kapasitesi hem de çevre dostu teknolojileri ile dikkat çekiyor. Bu gemi, hem geleneksel yakıtlarla hem de LNG ile çalışabiliyor ve limanlardayken sıfır emisyon ile enerji alabilme kabiliyetine sahip. Şekli optimizasyonlu gövdesi sayesinde yakıt verimliliği artırılmış durumda.</p>
 <p><br></p>

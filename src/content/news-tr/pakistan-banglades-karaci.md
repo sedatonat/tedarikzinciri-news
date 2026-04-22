@@ -1,14 +1,23 @@
 ---
-title: "Pakistan, Bangladeş’e Çin ile Ticareti Kolaylaştırmak İçin Karaçi Limanı’nı Kullanma Teklifi Yaptı"
-subtitle: "Pakistan, Bangladeş’e Çin ile Ticareti Kolaylaştırmak İçin Karaçi Limanı’nı Kullanma Teklifi Yaptı"
-date: "2025-10-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a37351dd244c414d8b5981d4dfd310a7~mv2.jpg"
-imageAlt: "Pakistan, Bangladeş’in Çin ve diğer ülkelerle ticaretini kolaylaştırmak amacıyla, Karaçi Port Trust (KPT) limanını kullanmasına izin teklif etti. Bu teklif, 9. Bangladeş–Pakistan Ortak Ekonomik Komisyonu toplantısında gündeme geldi."
-wixId: "31342070-121d-4e75-948e-5c8ccb3c243c"
-author: "Sedat Onat"
+title: Pakistan, Bangladeş’e Çin ile Ticareti Kolaylaştırmak İçin Karaçi Limanı’nı Kullanma Teklifi Yaptı
+subtitle: Pakistan, Bangladeş’e Çin ile Ticareti Kolaylaştırmak İçin Karaçi Limanı’nı Kullanma Teklifi Yaptı
+date: '2025-10-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a37351dd244c414d8b5981d4dfd310a7~mv2.jpg
+imageAlt: Pakistan, Bangladeş’in Çin ve diğer ülkelerle ticaretini kolaylaştırmak amacıyla, Karaçi Port Trust (KPT) limanını kullanmasına izin teklif etti. Bu teklif, 9. Bangladeş–Pakistan Ortak Ekonomik Komisyonu toplantısında gündeme geldi.
+wixId: 31342070-121d-4e75-948e-5c8ccb3c243c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Karaçi Limanı
+- Pakistan
+- Bangladeş
+- Çin
+- CPEC
+- bölgesel ticaret
+- liman iş birliği
+- tedarik zinciri
 ---
 <p style="text-align: justify"><strong>Pakistan</strong>, <strong>Bangladeş’in Çin ve diğer ülkelerle ticaretini kolaylaştırmak</strong> amacıyla <strong>Karaçi Port Trust (KPT)</strong> limanının kullanımını teklif etti. Güney Asya’nın en yoğun ve stratejik derin su limanlarından biri olan Karaçi Limanı, Pakistan’ın bölgesel lojistik ağındaki kilit noktası olarak öne çıkmakta.</p>
 <p><br></p>

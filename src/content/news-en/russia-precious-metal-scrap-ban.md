@@ -1,16 +1,23 @@
 ---
-title: "Russia Extends Ban on Precious Metals Scrap and Waste Exports Until May 2026"
-subtitle: "Russia Extends Ban on Precious Metals Scrap and Waste Exports Until May 2026"
-date: "2025-12-05T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_2b89be554cb34265a974cdcdf579c883~mv2.jpg"
-imageAlt: "A detailed summary of the rationale, scope, exemptions, and strategic background of Russia's extension of the ban on exports of scrap and electronic waste containing precious metals, aimed at protecting domestic refining capacity"
-wixId: "5c64311e-c948-46c6-8581-bd3cacef2c37"
-author: "Sedat Onat"
+title: Russia Extends Ban on Precious Metals Scrap and Waste Exports Until May 2026
+subtitle: Russia Extends Ban on Precious Metals Scrap and Waste Exports Until May 2026
+date: '2025-12-05T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_2b89be554cb34265a974cdcdf579c883~mv2.jpg
+imageAlt: A detailed summary of the rationale, scope, exemptions, and strategic background of Russia's extension of the ban on exports of scrap and electronic waste containing precious metals, aimed at protecting domestic refining capacity
+wixId: 5c64311e-c948-46c6-8581-bd3cacef2c37
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Russia
+- precious metal
+- export ban
+- scrap recycling
+- electronic waste
+- refining
+- strategic raw material
 ---
-
 <p style="text-align: justify"><strong>The Russian Federation</strong> has once again extended the <strong>ban on exports of scrap and waste containing precious metals</strong>, continuing its policy to keep strategic raw materials within the country. According to a decree signed by <strong>Prime Minister Mikhail Mishustin</strong>, the export ban remains in effect for <strong>six months between December 1, 2025, and May 31, 2026</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">This decision is viewed as part of Russia's strategy to secure access to high-value-added metals such as <strong>gold, silver, and platinum</strong>, and to process these metals within the <strong>domestic refining and processing chain</strong>. Government officials emphasize that the ban's primary purpose is to <strong>increase capacity utilization rates at domestic refineries</strong> and limit the flow of precious metals leaving the country as raw materials.</p>

@@ -1,16 +1,23 @@
 ---
-title: "Antwerp-Bruges Port Faces 190-Vessel Backlog Following Strike"
-subtitle: "Antwerp-Bruges Port Faces 190-Vessel Backlog Following Strike"
-date: "2025-10-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8d909a69fa914b3f8ac6ec1ecf3e70ab~mv2.jpg"
-imageAlt: "Antwerp-Bruges Port Faces 190-Vessel Backlog Following Strike"
-wixId: "a75ff173-aeda-4f7c-92da-bbfc6c0a73ae"
-author: "Sedat Onat"
+title: Antwerp-Bruges Port Faces 190-Vessel Backlog Following Strike
+subtitle: Antwerp-Bruges Port Faces 190-Vessel Backlog Following Strike
+date: '2025-10-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8d909a69fa914b3f8ac6ec1ecf3e70ab~mv2.jpg
+imageAlt: Antwerp-Bruges Port Faces 190-Vessel Backlog Following Strike
+wixId: a75ff173-aeda-4f7c-92da-bbfc6c0a73ae
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Port of Antwerp-Bruges
+- port strike
+- ship congestion
+- maritime pilots
+- energy transportation
+- port logistics
+- Belgium
 ---
-
 <p style="text-align: justify"><strong>The Antwerp-Bruges Port in Belgium</strong> is grappling with significant <strong>vessel backlog</strong> and <strong>logistical bottlenecks</strong> in the wake of a work stoppage staged by harbor pilots.</p>
 <p><br>
  According to <strong>Reuters</strong> data, despite the end of the strike, <strong>approximately 190 vessels</strong> remain waiting at the port to either dock or depart.</p>

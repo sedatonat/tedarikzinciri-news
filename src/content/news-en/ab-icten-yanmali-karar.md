@@ -1,16 +1,23 @@
 ---
-title: "European Union Steps Back from 2035 Internal Combustion Engine Ban"
-subtitle: "European Union Steps Back from 2035 Internal Combustion Engine Ban"
-date: "2025-12-16T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_b276eff5f5034aefb13188ce6eb2d7e1~mv2.jpg"
-imageAlt: "Detailed industry overview examining the European Union's reversal of its decision to ban new petrol and diesel vehicle sales by 2035, replacing it with a 90% exhaust emissions reduction requirement for automakers, and analyzing the impacts of this decision on the automotive sector and climate policies"
-wixId: "1aa73de3-a614-4fdd-a633-c0569e0efff5"
-author: "Sedat Onat"
+title: European Union Steps Back from 2035 Internal Combustion Engine Ban
+subtitle: European Union Steps Back from 2035 Internal Combustion Engine Ban
+date: '2025-12-16T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_b276eff5f5034aefb13188ce6eb2d7e1~mv2.jpg
+imageAlt: Detailed industry overview examining the European Union's reversal of its decision to ban new petrol and diesel vehicle sales by 2035, replacing it with a 90% exhaust emissions reduction requirement for automakers, and analyzing the impacts of this decision on the automotive sector and climate policies
+wixId: 1aa73de3-a614-4fdd-a633-c0569e0efff5
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- European Union
+- internal combustion engine
+- automotive sector
+- emission targets
+- electric vehicle
+- climate policy
+- supply chain
 ---
-
 <p style="text-align: justify"><strong>The European Union</strong>, in its bid to rebalance climate policies with industrial realities, has withdrawn the regulation that envisioned a complete ban on the sale of new petrol and diesel vehicles by 2035. This decision, taken by the <strong>EU Parliament</strong>, was shaped by economic pressures on the automotive sector in recent years, supply chain vulnerabilities, and slower-than-expected transition in the <strong>electric vehicle (EV)</strong> market. The decision presents a more flexible framework aimed at protecting the competitiveness of Europe-based manufacturers in particular.</p>
 <p><br></p>
 <p style="text-align: justify">The withdrawn ban was initially adopted in 2023 and was viewed as the end of <strong>internal combustion engine</strong> technology. At that time, this regulation, seen as a historic step in environmental policy, was based on achieving <strong>zero exhaust emissions</strong> in new vehicle sales. However, in the intervening period, automotive manufacturers came under significant pressure due to rising costs, aggressive pricing policies from Chinese manufacturers, and strategic dependencies on battery supply. This situation has led policymakers in Brussels to seek a more pragmatic approach.</p>

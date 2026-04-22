@@ -1,14 +1,23 @@
 ---
-title: "Meksika, Giyim İthalatına Ek Gümrük Vergileri Getirdi"
-subtitle: "Meksika, Giyim İthalatına Ek Gümrük Vergileri Getirdi"
-date: "2025-01-03T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_3657a84bedfa4aecb9b7070cdf6e387c~mv2.jpg"
-imageAlt: "Meksika, Giyim İthalatına Ek Gümrük Vergileri Getirdi"
-wixId: "1a5a77a0-32e2-4880-84d3-e3d3ad6622b4"
-author: "Sedat Onat"
+title: Meksika, Giyim İthalatına Ek Gümrük Vergileri Getirdi
+subtitle: Meksika, Giyim İthalatına Ek Gümrük Vergileri Getirdi
+date: '2025-01-03T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_3657a84bedfa4aecb9b7070cdf6e387c~mv2.jpg
+imageAlt: Meksika, Giyim İthalatına Ek Gümrük Vergileri Getirdi
+wixId: 1a5a77a0-32e2-4880-84d3-e3d3ad6622b4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Meksika
+- gümrük vergileri
+- tekstil ithalatı
+- giyim sektörü
+- Çin
+- IMMEX programı
+- ABD ticaret
+- border-skipping
 ---
 <p>Meksika Devlet Başkanı <strong>Claudia Sheinbaum</strong>, 19 Aralık 2024 tarihinde imzaladığı bir başkanlık kararnamesiyle, tekstil ve giyim ithalatına yönelik gümrük vergilerini artırdı. Bu düzenleme, belirli giyim kategorilerine %15 veya %35 oranında ek vergiler getirmekte ve birçok giyim ürününü, ara malların gümrüksüz ithalatına izin veren <strong>IMMEX</strong> programının kapsamı dışına çıkarmaktadır.</p>
 <p><br></p>

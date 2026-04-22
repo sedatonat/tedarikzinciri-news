@@ -1,16 +1,23 @@
 ---
-title: "Baltimore Bridge Collision: Maersk-Chartered Vessel Strikes Francis Scott Key Bridge"
-subtitle: "Baltimore Bridge Collision: Maersk-Chartered Vessel Strikes Francis Scott Key Bridge"
-date: "2024-03-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a059993628dc470d90739385aad66622~mv2.png"
-imageAlt: "Baltimore Bridge Collision: Maersk-Chartered Vessel Strikes Francis Scott Key Bridge"
-wixId: "60b1089f-646d-40f1-b3c9-2e9ba809480d"
-author: "Sedat Onat"
+title: 'Baltimore Bridge Collision: Maersk-Chartered Vessel Strikes Francis Scott Key Bridge'
+subtitle: 'Baltimore Bridge Collision: Maersk-Chartered Vessel Strikes Francis Scott Key Bridge'
+date: '2024-03-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a059993628dc470d90739385aad66622~mv2.png
+imageAlt: 'Baltimore Bridge Collision: Maersk-Chartered Vessel Strikes Francis Scott Key Bridge'
+wixId: 60b1089f-646d-40f1-b3c9-2e9ba809480d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Maersk
+- Baltimore
+- container ship
+- bridge accident
+- port operations
+- maritime transport
+- insurance
 ---
-
 <p>Denmark-based shipping giant <a href="https://en.wikipedia.org/wiki/Maersk"><u>Maersk</u></a> confirmed that it had chartered the container vessel that struck the <a href="https://en.wikipedia.org/wiki/Francis_Scott_Key_Bridge_(Baltimore)"><u>Francis Scott Key Bridge</u></a> in Baltimore, Maryland. The bridge partially collapsed following the incident, which occurred at approximately 1:35 a.m. local time early in the morning.&nbsp;</p>
 <p><br></p>
 <p>The vessel, named '<a href="https://www.vesselfinder.com/vessels/details/9697428"><u>DALI</u></a>', operated by the Synergy Group and carrying cargo for Maersk customers, was traveling at approximately 8 knots before the collision and was departing Baltimore bound for Colombo, Sri Lanka.&nbsp;</p>

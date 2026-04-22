@@ -1,16 +1,23 @@
 ---
-title: "General Motors and Vianode Sign Synthetic Graphite Supply Agreement"
-subtitle: "General Motors and Vianode Sign Synthetic Graphite Supply Agreement"
-date: "2025-01-16T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_2ad4b418908c4adeaab359bbba0f2aa5~mv2.jpg"
-imageAlt: "General Motors and Vianode Sign Synthetic Graphite Supply Agreement"
-wixId: "f679ee24-c742-4bdc-9724-b5995d62f728"
-author: "Sedat Onat"
+title: General Motors and Vianode Sign Synthetic Graphite Supply Agreement
+subtitle: General Motors and Vianode Sign Synthetic Graphite Supply Agreement
+date: '2025-01-16T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_2ad4b418908c4adeaab359bbba0f2aa5~mv2.jpg
+imageAlt: General Motors and Vianode Sign Synthetic Graphite Supply Agreement
+wixId: f679ee24-c742-4bdc-9724-b5995d62f728
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- General Motors
+- Vianode
+- synthetic graphite
+- electric vehicle battery
+- supply chain
+- lithium-ion battery
+- North America
 ---
-
 <p style="text-align: justify"><strong>General Motors (GM)</strong> has signed a multi-year, multi-billion dollar supply agreement with Norway-based advanced battery materials producer <strong>Vianode</strong> for synthetic anode graphite. This strategic partnership aims to secure a steady supply of high-performance anode graphite for use in the production of electric vehicle (EV) batteries.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Under the agreement, <strong>Vianode</strong> will supply synthetic anode graphite to GM from a new facility scheduled to commence operations in North America in 2027. This supply will be used in next-generation EV batteries and drivetrain units produced by <strong>Ultium Cells LLC</strong>, a joint venture between GM and <strong>LG Energy Solution</strong>. The agreement will run through 2033 and can be expanded to include other joint ventures.</p>

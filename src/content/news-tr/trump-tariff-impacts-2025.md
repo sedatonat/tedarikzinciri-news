@@ -1,14 +1,23 @@
 ---
-title: "Trump Dönemindeki “Tariff” Uygulamalarının Ekonomi ve Tedarik Zincirine Etkisi"
-subtitle: "Trump Dönemindeki “Tariff” Uygulamalarının Ekonomi ve Tedarik Zincirine Etkisi"
-date: "2024-12-11T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_7c98b6b5c5804269948e5a2816eca309~mv2.jpg"
-imageAlt: "Trump Dönemindeki “Tariff” Uygulamalarının Ekonomi ve Tedarik Zincirine Etkisi"
-wixId: "1a5c6afc-e4c7-4cbc-bf7a-c3676e8a225b"
-author: "Sedat Onat"
+title: Trump Dönemindeki “Tariff” Uygulamalarının Ekonomi ve Tedarik Zincirine Etkisi
+subtitle: Trump Dönemindeki “Tariff” Uygulamalarının Ekonomi ve Tedarik Zincirine Etkisi
+date: '2024-12-11T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_7c98b6b5c5804269948e5a2816eca309~mv2.jpg
+imageAlt: Trump Dönemindeki “Tariff” Uygulamalarının Ekonomi ve Tedarik Zincirine Etkisi
+wixId: 1a5c6afc-e4c7-4cbc-bf7a-c3676e8a225b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tarife
+- tedarik zinciri
+- Trump
+- Çin
+- ticaret savaşı
+- ABD
+- tedarikçi çeşitlendirme
+- Vietnam
 ---
 <p>Donald Trump’ın başkanlığı döneminde uygulanan “tariff” politikalarının, ABD ekonomisi ve küresel “supply chain” dinamikleri üzerindeki etkisi büyük bir tartışma konusu haline geldi. Ticari dengeyi düzeltme ve “manufacturing” faaliyetlerini ülkeye geri çekme hedefiyle yürürlüğe giren bu ek vergiler, özellikle “China” menşeli ürünlerden başlayarak geniş bir ürün yelpazesine yayıldı. Kısa vadede korumacı bir yaklaşım olarak öne çıkan bu hamlelerin, üreticiler ve tüketiciler için beklenenin ötesinde bir maliyet artışı yarattığı ileri sürülüyor. Ayrıca, “U.S.” iç piyasasında fiyatların yükselmesi, bazı ithalatçıları alternatif kaynaklara yönlendirerek “Vietnam” ve “Mexico” gibi ülkelere kayma eğilimini hızlandırdı.</p>
 <p><br></p>

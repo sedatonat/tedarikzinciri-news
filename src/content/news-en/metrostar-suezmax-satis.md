@@ -1,16 +1,24 @@
 ---
-title: "Metrostar Exits Crude Oil Shipping With Double Suezmax Tanker Sale"
-subtitle: "Metrostar Exits Crude Oil Shipping With Double Suezmax Tanker Sale"
-date: "2025-10-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d1c010e5b35a450a9fd2ca71cb087a52~mv2.jpg"
-imageAlt: "Greek shipowner Metrostar Management has formally exited its crude oil transportation operations by selling two Suezmax-type tankers to Delta Tankers. The sale reflects the continued strength in the secondhand tanker market."
-wixId: "5b7cae74-b924-461d-85e0-d13c3274dbf7"
-author: "Sedat Onat"
+title: Metrostar Exits Crude Oil Shipping With Double Suezmax Tanker Sale
+subtitle: Metrostar Exits Crude Oil Shipping With Double Suezmax Tanker Sale
+date: '2025-10-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d1c010e5b35a450a9fd2ca71cb087a52~mv2.jpg
+imageAlt: Greek shipowner Metrostar Management has formally exited its crude oil transportation operations by selling two Suezmax-type tankers to Delta Tankers. The sale reflects the continued strength in the secondhand tanker market.
+wixId: 5b7cae74-b924-461d-85e0-d13c3274dbf7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Suezmax tanker
+- crude oil transportation
+- Metrostar Management
+- Delta Tankers
+- fleet restructuring
+- secondhand tanker
+- product tankers
+- maritime transportation
 ---
-
 <p style="text-align: justify"><strong>Greece-based shipowner Metrostar Management</strong> announced its complete exit from the <strong>crude oil shipping market</strong> with the sale of its final two <strong>Suezmax tankers</strong>. The company's decision is viewed as a result of ongoing fleet restructuring strategy pursued in recent years.</p>
 <p><br></p>
 <p style="text-align: justify">Under operations led by <strong>Theodore Angelopoulos</strong>, Metrostar sold the two vessels <strong>Crude Levante</strong> and <strong>Crude Zephyrus</strong>, both built in 2021, to <strong>Delta Tankers</strong>. Each tanker has a capacity of <strong>156,800 DWT</strong> and was constructed at <strong>New Times Shipbuilding</strong> in China.</p>

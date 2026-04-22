@@ -1,16 +1,23 @@
 ---
-title: "Container Ship Fires: Mitigating Risk Through Better Data"
-subtitle: "Container Ship Fires: Mitigating Risk Through Better Data"
-date: "2024-09-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_aabff8cedc1541a5bffa56336c40ee49~mv2.jpeg"
-imageAlt: "Container Ship Fires: Mitigating Risk Through Better Data"
-wixId: "a3cac8e5-1995-49d8-adae-d37a49240dca"
-author: "Sedat Onat"
+title: 'Container Ship Fires: Mitigating Risk Through Better Data'
+subtitle: 'Container Ship Fires: Mitigating Risk Through Better Data'
+date: '2024-09-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_aabff8cedc1541a5bffa56336c40ee49~mv2.jpeg
+imageAlt: 'Container Ship Fires: Mitigating Risk Through Better Data'
+wixId: a3cac8e5-1995-49d8-adae-d37a49240dca
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- container ship
+- fire risk
+- data management
+- blockchain
+- maritime safety
+- hazardous materials
+- digital platforms
 ---
-
 <p>Fires occurring on container ships have become an increasingly serious concern in the maritime sector. These fires not only result in material losses but also lead to environmental disasters and endanger human lives. At the root of this problem lies inadequate data management and sharing. In particular, the misclassification or non-reporting of hazardous materials significantly increases fire risk.</p>
 <p>Accurate and detailed declaration of cargo ensures that ship crews and emergency response teams are prepared for potential hazards. However, shortcomings in existing systems and intentional false declarations by some cargo owners complicate this process. For this reason, there is a need for more transparent and effective data sharing.</p>
 <p><br></p>

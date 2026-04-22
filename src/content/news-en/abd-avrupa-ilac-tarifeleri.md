@@ -1,16 +1,23 @@
 ---
-title: "Will US–EU Pharma Tariffs Restore Domestic Production?"
-subtitle: "Will US–EU Pharma Tariffs Restore Domestic Production?"
-date: "2025-11-17T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_6d6893e461d443a4af1a73b78eb100b7~mv2.jpg"
-imageAlt: "The US–EU pharmaceutical tariff agreement reached last summer imposes a 15% tax on medicines imported from Europe and provides Section 232 exemptions for certain products. In the short term, it is expected to raise drug prices and insurance premiums; in the long term, it may trigger a restructuring of the supply chain."
-wixId: "7a8fe5ff-dce3-4367-8693-59ea4643b191"
-author: "Sedat Onat"
+title: Will US–EU Pharma Tariffs Restore Domestic Production?
+subtitle: Will US–EU Pharma Tariffs Restore Domestic Production?
+date: '2025-11-17T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_6d6893e461d443a4af1a73b78eb100b7~mv2.jpg
+imageAlt: The US–EU pharmaceutical tariff agreement reached last summer imposes a 15% tax on medicines imported from Europe and provides Section 232 exemptions for certain products. In the short term, it is expected to raise drug prices and insurance premiums; in the long term, it may trigger a restructuring of the supply chain.
+wixId: 7a8fe5ff-dce3-4367-8693-59ea4643b191
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- US-EU trade
+- pharmaceutical tariffs
+- domestic production
+- reshoring
+- supply chain
+- Section 232
+- European Union
 ---
-
 <p style="text-align: justify"><strong>The agreement on pharmaceutical trade that the United States and the European Union reached last summer</strong> represents a significant turning point for the global pharmaceutical sector in terms of both pricing and production strategies. The agreement will <strong>push up drug costs in the short term</strong>, but carries <strong>deep-reaching effects that could fundamentally alter the geographic distribution and production structures of the sector over the long term.</strong></p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>The agreement's key elements: 15% pharma tariff + Section 232 exemption</strong></h5>

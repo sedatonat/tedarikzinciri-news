@@ -1,14 +1,22 @@
 ---
-title: "Biden Yönetiminden Limanlara 3 Milyar Dolarlık Yeşil Yatırım"
-subtitle: "Biden Yönetiminden Limanlara 3 Milyar Dolarlık Yeşil Yatırım"
-date: "2024-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_3e26c21e64ae48a1b02ff442ab562bcf~mv2_d_3991_2661_s_4_2.jpg"
-imageAlt: "Biden Yönetiminden Limanlara 3 Milyar Dolarlık Yeşil Yatırım"
-wixId: "da51949f-0b49-44bb-ad17-be4c82a29444"
-author: "Sedat Onat"
+title: Biden Yönetiminden Limanlara 3 Milyar Dolarlık Yeşil Yatırım
+subtitle: Biden Yönetiminden Limanlara 3 Milyar Dolarlık Yeşil Yatırım
+date: '2024-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_3e26c21e64ae48a1b02ff442ab562bcf~mv2_d_3991_2661_s_4_2.jpg
+imageAlt: Biden Yönetiminden Limanlara 3 Milyar Dolarlık Yeşil Yatırım
+wixId: da51949f-0b49-44bb-ad17-be4c82a29444
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Biden yönetimi
+- liman yatırımı
+- yeşil lojistik
+- sıfır emisyon
+- kıyı güç sistemi
+- elektrikli ekipman
+- ABD limanları
 ---
 <p>Bu hafta, Biden yönetimi yeşil projelere odaklanan 3 milyar dolarlık ABD liman yatırım programını açıkladı. "Inflation Reduction Act" tarafından finanse edilen bu fonlar, 27 eyalet ve bölgede bulunan 55 seçilmiş projeye geniş bir yelpazede dağıtılacak. Başkan, bu önemli duyuruyu 29 Ekim'de yılın başlarında köprü kazasının yaşandığı Baltimore Limanı'nda gerçekleştirdi.</p>
 <p><br></p>

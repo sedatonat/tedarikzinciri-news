@@ -1,14 +1,22 @@
 ---
-title: "Denizde Kaybolan Konteyner Sayısında Tarihi Düşüş: 2023 Yılında 221 Konteyner Kayboldu"
-subtitle: "Denizde Kaybolan Konteyner Sayısında Tarihi Düşüş: 2023 Yılında 221 Konteyner Kayboldu"
-date: "2024-06-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1aade18a1478471f9c8ef6d0d4c634c2~mv2.png"
-imageAlt: "Denizde Kaybolan Konteyner Sayısında Tarihi Düşüş: 2023 Yılında 221 Konteyner Kayboldu"
-wixId: "f228a3cf-b9b2-4e34-864b-8bfe920c5fdb"
-author: "Sedat Onat"
+title: 'Denizde Kaybolan Konteyner Sayısında Tarihi Düşüş: 2023 Yılında 221 Konteyner Kayboldu'
+subtitle: 'Denizde Kaybolan Konteyner Sayısında Tarihi Düşüş: 2023 Yılında 221 Konteyner Kayboldu'
+date: '2024-06-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1aade18a1478471f9c8ef6d0d4c634c2~mv2.png
+imageAlt: 'Denizde Kaybolan Konteyner Sayısında Tarihi Düşüş: 2023 Yılında 221 Konteyner Kayboldu'
+wixId: f228a3cf-b9b2-4e34-864b-8bfe920c5fdb
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- konteyner kaybı
+- deniz güvenliği
+- WSC
+- IMO
+- konteyner gemisi
+- Marin TopTier
+- denizcilik
 ---
 <p>Dünya Denizcilik Konseyi (WSC) tarafından yayınlanan rapora göre, 2023 yılında denizde kaybolan konteyner sayısı önemli ölçüde azalarak 221 birime düşmüştür. Bu sayı, 2022 yılında kaybolan 661 konteynerden oldukça düşüktür ve 2008 yılından bu yana yapılan anketlerde kaydedilen en düşük sayıdır. Denize düşen konteynerlerin yaklaşık %33'ü geri kazanılmıştır.</p>
 <p><br></p>

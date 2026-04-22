@@ -1,14 +1,23 @@
 ---
-title: "Safran, Hindistan’dan Tedariği 2030’a Kadar %400 Artırmayı Planlıyor"
-subtitle: "Safran, Hindistan’dan Tedariği 2030’a Kadar %400 Artırmayı Planlıyor"
-date: "2025-11-26T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_d2afe7f70bd646bb83096f87e5440c76~mv2.jpg"
-imageAlt: "Safran’ın Hindistan’dan tedarik hacmini 100 milyon avrodan 500 milyon avroya çıkarma hedefi, MRO yatırımları, Rafale motor projeleri, yerelleştirme stratejisi ve Hindistan’ın yükselen havacılık-ekosistemi bağlamında uluslararası tedarik zinciri dönüşümü."
-wixId: "b0ee926e-c389-40df-a4bd-6a96f9d94b61"
-author: "Sedat Onat"
+title: Safran, Hindistan’dan Tedariği 2030’a Kadar %400 Artırmayı Planlıyor
+subtitle: Safran, Hindistan’dan Tedariği 2030’a Kadar %400 Artırmayı Planlıyor
+date: '2025-11-26T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_d2afe7f70bd646bb83096f87e5440c76~mv2.jpg
+imageAlt: Safran’ın Hindistan’dan tedarik hacmini 100 milyon avrodan 500 milyon avroya çıkarma hedefi, MRO yatırımları, Rafale motor projeleri, yerelleştirme stratejisi ve Hindistan’ın yükselen havacılık-ekosistemi bağlamında uluslararası tedarik zinciri dönüşümü.
+wixId: b0ee926e-c389-40df-a4bd-6a96f9d94b61
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Safran
+- Hindistan
+- tedarik zinciri
+- havacılık
+- MRO
+- savunma sanayi
+- LEAP motoru
+- Rafale
 ---
 <p style="text-align: justify">Fransız havacılık devi <strong>Safran SA</strong>, küresel tedarik zincirini yeniden yapılandırdığı bir dönemde, Hindistan’ın yükselen havacılık pazarındaki konumunu daha da güçlendiren stratejik bir adım açıkladı. Şirket, 2030 yılına kadar Hindistan’dan yaptığı komponent tedarikini mevcut <strong>100 milyon avrodan 500 milyon avroya</strong> çıkarmayı hedefliyor. Bu artış, Safran’ın Hindistan’dan yaptığı yıllık alımlarda <strong>%400’lük bir büyümeye</strong> karşılık geliyor ve ülkeyi şirketin küresel tedarik ağında birinci lig tedarik merkezlerinden biri hâline getiriyor.</p>
 <p><br></p>

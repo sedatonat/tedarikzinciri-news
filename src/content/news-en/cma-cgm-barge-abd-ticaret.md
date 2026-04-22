@@ -1,16 +1,24 @@
 ---
-title: "CMA CGM Launches New Barge Corridor in Northern Vietnam for U.S. Trade"
-subtitle: "CMA CGM Launches New Barge Corridor in Northern Vietnam for U.S. Trade"
-date: "2025-11-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2193876fb5944a36b5839a23c46082e1~mv2.jpg"
-imageAlt: "Detailed summary of CMA CGM deploying the Que Vo–Haiphong barge line in Northern Vietnam to provide faster, cost-effective and low-emission transportation connectivity to the U.S. market."
-wixId: "ba0a5d77-535c-4b2f-a6f6-924afff94551"
-author: "Sedat Onat"
+title: CMA CGM Launches New Barge Corridor in Northern Vietnam for U.S. Trade
+subtitle: CMA CGM Launches New Barge Corridor in Northern Vietnam for U.S. Trade
+date: '2025-11-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2193876fb5944a36b5839a23c46082e1~mv2.jpg
+imageAlt: Detailed summary of CMA CGM deploying the Que Vo–Haiphong barge line in Northern Vietnam to provide faster, cost-effective and low-emission transportation connectivity to the U.S. market.
+wixId: ba0a5d77-535c-4b2f-a6f6-924afff94551
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- CMA CGM
+- Vietnam
+- barge transportation
+- US trade
+- Haiphong Port
+- supply chain
+- sustainable logistics
+- container transportation
 ---
-
 <p style="text-align: justify"><strong>CMA CGM</strong> has announced the launch of a new <strong>barge transportation corridor</strong> between <strong>Que Vo and Haiphong</strong> in Northern Vietnam in response to growing production volumes and export demand to the U.S. market. This new service strengthens the company's barge network in the region while aiming to connect strategic industrial zones in northern Vietnam more directly to critical U.S. ports and <strong>Inland Point Intermodal (IPI)</strong> facilities.</p>
 <p><br></p>
 <p style="text-align: justify">The new corridor integrates major industrial clusters such as <strong>Bac Ninh, Hanoi and Phu Tho</strong> with Haiphong Port, offering manufacturers a <strong>faster, lower-cost and lower-emission</strong> logistics option. Northern Vietnam has become one of the critical links in global supply chains for electronics, textiles, automotive parts and consumer goods in recent years, making this connection strategically vital for exports to the U.S. market.</p>

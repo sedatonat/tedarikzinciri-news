@@ -1,16 +1,23 @@
 ---
-title: "Grundfos and Maersk Partner to Accelerate Electric Truck Deployment"
-subtitle: "Grundfos and Maersk Partner to Accelerate Electric Truck Deployment"
-date: "2025-01-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5c41654cb2ca4fd4a085bbb578a99b10~mv2.jpg"
-imageAlt: "Grundfos and Maersk Partner to Accelerate Electric Truck Deployment"
-wixId: "6d8fdbd6-04cd-4bfc-8a6d-c3c8829e6cd3"
-author: "Sedat Onat"
+title: Grundfos and Maersk Partner to Accelerate Electric Truck Deployment
+subtitle: Grundfos and Maersk Partner to Accelerate Electric Truck Deployment
+date: '2025-01-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5c41654cb2ca4fd4a085bbb578a99b10~mv2.jpg
+imageAlt: Grundfos and Maersk Partner to Accelerate Electric Truck Deployment
+wixId: 6d8fdbd6-04cd-4bfc-8a6d-c3c8829e6cd3
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Grundfos
+- Maersk
+- electric truck
+- sustainable logistics
+- carbon neutral
+- supply chain
+- green transportation
 ---
-
 <p style="text-align: justify">Danish pump manufacturer <strong>Grundfos</strong> is collaborating with global logistics company <strong>Maersk</strong> to increase the use of electric trucks in the supply chain. This partnership is helping <strong>Grundfos</strong> achieve its sustainability targets and reduce its carbon footprint.​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Grundfos</strong> plans to become carbon neutral by 2025 and reduce supply chain emissions by 50% by 2030. Working together with <strong>Maersk</strong>, the company is increasing the use of electric trucks in its transportation operations to meet these goals.​</p>

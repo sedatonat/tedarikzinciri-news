@@ -1,14 +1,22 @@
 ---
-title: "Donald Trump's 2025 Trade Agenda: Procurement and Reshoring Tactics"
-subtitle: "Donald Trump's 2025 Trade Agenda: Procurement and Reshoring Tactics"
-date: "2025-01-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/nsplsh_ebb778ff96d2483893c2b95ba0db2d3a~mv2.jpg"
-imageAlt: "Donald Trump's 2025 Trade Agenda: Procurement and Reshoring Tactics"
-wixId: "9370d2d2-df16-44f7-9979-c1a0d4b390dd"
-author: "Sedat Onat"
+title: 'Donald Trump''s 2025 Trade Agenda: Procurement and Reshoring Tactics'
+subtitle: 'Donald Trump''s 2025 Trade Agenda: Procurement and Reshoring Tactics'
+date: '2025-01-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/nsplsh_ebb778ff96d2483893c2b95ba0db2d3a~mv2.jpg
+imageAlt: 'Donald Trump''s 2025 Trade Agenda: Procurement and Reshoring Tactics'
+wixId: 9370d2d2-df16-44f7-9979-c1a0d4b390dd
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Donald Trump
+- reshoring
+- supply chain
+- artificial intelligence
+- trade policy
+- China
+- Arkestro
+- United States
 ---
-
 <p style="text-align: justify">Donald Trump's trade policies for 2025, according to analysis by Edmund Zagorin, co-founder of <strong>Arkestro</strong>, include significant changes in supply chain management and <a href="https://www.tedarikzinciriportali.com/post/terim-reshoring"><u><strong>reshoring</strong></u></a> — the return of manufacturing to the home country. These policies are expected to have far-reaching impacts on global supply chains and businesses. ​</p>\n<p style="text-align: justify"><br></p>\n<p style="text-align: justify"><strong>Reshoring and Localization Trends</strong></p>\n<p style="text-align: justify">The Trump administration's "America First" approach highlights policies that encourage bringing manufacturing back to the United States. Within this framework, regulatory reforms, tax cuts, and trade restrictions against foreign competitors are being deployed as incentives. The aim of these policies is to increase domestic production and reduce dependence on imports. ​</p>\n<p style="text-align: justify"><br></p>\n<p style="text-align: justify">Edmund Zagorin, co-founder of <strong>Arkestro</strong>, notes that these policies require supply chain managers to develop new strategies. In particular, the use of technologies such as artificial intelligence and machine learning is becoming critical for optimizing supply processes and reducing costs. ​</p>\n<p style="text-align: justify"><br></p>\n<p style="text-align: justify"><strong>Impact on Global Supply Chains</strong></p>\n<p style="text-align: justify">The new trade policies are driving significant changes in global supply chains. In particular, efforts to reduce dependence on China are pushing companies to relocate their production to the United States or closer regions. This situation requires supply chains to be reconfigured and alternative sourcing options to be identified. ​</p>\n<p style="text-align: justify"><br></p>\n<p style="text-align: justify">Furthermore, the high import tariffs being implemented by the Trump administration are forcing businesses to reassess their costs and review their procurement strategies. This situation creates challenges, particularly for small and medium-sized enterprises, while also presenting opportunities for domestic producers. ​</p>\n<p style="text-align: justify"><br></p>\n<p style="text-align: justify"><strong>Supply Chain Strategies and Technology Utilization</strong></p>\n<p style="text-align: justify">In today's dynamic business environment, organizations need to reshape their supply chain strategies. Companies like <strong>Arkestro</strong> are providing AI-powered forecasting and optimization platforms to help businesses make their supply processes more efficient. Such technologies play a critical role in reducing costs and increasing supply chain flexibility. ​</p>\n<p style="text-align: justify"><br></p>\n<p style="text-align: justify">In conclusion, Trump's 2025 trade agenda brings significant changes to supply chain management and reshoring. Businesses need to adapt their strategies and operations to remain competitive in this changing environment. The effective use of technology and the adoption of flexible supply chain models are seen as key to success in this process. ​</p>\n<p style="text-align: justify"><br></p>\n<h5 style="text-align: justify"><strong>Key Points</strong></h5>\n<ul>\n  <li style="text-align: justify"><p style="text-align: justify">Trump's "America First" policy encourages bringing manufacturing back to the United States.​</p></li>\n  <li style="text-align: justify"><p style="text-align: justify">High import tariffs are forcing businesses to reassess their procurement strategies.​</p></li>\n  <li style="text-align: justify"><p style="text-align: justify">Technologies such as artificial intelligence and machine learning play a critical role in optimizing supply processes.​</p></li>\n  <li style="text-align: justify"><p style="text-align: justify">Global supply chains are being reconfigured due to efforts to reduce dependence on China.​</p></li>\n  <li style="text-align: justify"><p style="text-align: justify">Platforms like <strong>Arkestro</strong> are helping businesses make their supply processes more efficient.</p></li>\n</ul>\n<p><br></p>\n<p>---</p>\n<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/donald-trump-2025-trade-agenda-procurement-reshoring-tactics"><u>https://www.supplychain247.com/article/donald-trump-2025-trade-agenda-procurement-reshoring-tactics</u></a></p>\n<p>-------------------</p>\n<p><strong>!!! ANNOUNCEMENT !!!</strong></p>\n<p><strong>Our book "How to Procure ERP?" has been published on Google Play Books.</strong></p>\n<p>#What is ERP?</p>\n<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a>&nbsp;You can download and read it for free via this link.</p>\n<p>Your feedback would make us happy.</p>\n<p>We wish you happy reading in advance.</p>

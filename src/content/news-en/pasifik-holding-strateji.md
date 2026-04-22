@@ -1,16 +1,22 @@
 ---
-title: "Pasifik Holding's Global Technology Partnerships and Strategic Objectives for Port Operations"
-subtitle: "Pasifik Holding's Global Technology Partnerships and Strategic Objectives for Port Operations"
-date: "2025-01-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b8dfa50bb9474f17b77c899a33e6981a~mv2.png"
-imageAlt: "Pasifik Holding's Global Technology Partnerships and Strategic Objectives for Port Operations"
-wixId: "8906614e-9c08-4314-bef7-f131f399a17f"
-author: "Sedat Onat"
+title: Pasifik Holding's Global Technology Partnerships and Strategic Objectives for Port Operations
+subtitle: Pasifik Holding's Global Technology Partnerships and Strategic Objectives for Port Operations
+date: '2025-01-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b8dfa50bb9474f17b77c899a33e6981a~mv2.png
+imageAlt: Pasifik Holding's Global Technology Partnerships and Strategic Objectives for Port Operations
+wixId: 8906614e-9c08-4314-bef7-f131f399a17f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Pasifik Holding
+- port operations
+- technology partnerships
+- logistics investment
+- digital transformation
+- port management
 ---
-
 <p style="text-align: justify"><strong>Pasifik Holding</strong>, a Turkey-based conglomerate, is planning to expand collaboration in the global technology sector and increase investment in port operations. These strategic moves are seen as part of the company's broader objectives for international growth and diversification.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Pasifik Holding</strong> is one of Turkey's leading investment groups, operating across diverse sectors including construction, real estate development, retail, and energy. In recent years, the company has been observed to be redirecting its focus toward technology and logistics sectors.</p>

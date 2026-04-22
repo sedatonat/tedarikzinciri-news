@@ -1,14 +1,22 @@
 ---
-title: "Los Angeles’ta ONE Henry Hudson Yangını Limanı Acil Duruma Geçirdi"
-subtitle: "Los Angeles’ta ONE Henry Hudson Yangını Limanı Acil Duruma Geçirdi"
-date: "2025-11-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_930b9de459eb434ba14e8b433f6df815~mv2.jpg"
-imageAlt: "ONE Henry Hudson adlı 8.212 TEU’luk konteyner gemisinde Los Angeles Yusen Terminali’nde çıkan yangının seyri, acil müdahale detayları, tehlikeli maddeler nedeniyle artan risk ve liman operasyonlarının etkileri."
-wixId: "80e2291c-c904-4394-90ca-b0dcdd42123d"
-author: "Sedat Onat"
+title: Los Angeles’ta ONE Henry Hudson Yangını Limanı Acil Duruma Geçirdi
+subtitle: Los Angeles’ta ONE Henry Hudson Yangını Limanı Acil Duruma Geçirdi
+date: '2025-11-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_930b9de459eb434ba14e8b433f6df815~mv2.jpg
+imageAlt: ONE Henry Hudson adlı 8.212 TEU’luk konteyner gemisinde Los Angeles Yusen Terminali’nde çıkan yangının seyri, acil müdahale detayları, tehlikeli maddeler nedeniyle artan risk ve liman operasyonlarının etkileri.
+wixId: 80e2291c-c904-4394-90ca-b0dcdd42123d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Los Angeles Limanı
+- konteyner gemisi
+- ONE Henry Hudson
+- liman yangını
+- tehlikeli madde
+- Yusen Terminal
+- tedarik zinciri
 ---
 <p style="text-align: justify">Los Angeles Limanı, cuma akşamı <strong>Yusen Container Terminal</strong>’de demirli olan <strong>8.212 TEU kapasiteli ONE Henry Hudson</strong> adlı konteyner gemisinde çıkan yangın nedeniyle büyük bir acil durumla karşı karşıya kaldı. Los Angeles İtfaiye Departmanı (LAFD), yangının <strong>saat 18.38’de güverte altı bölmelerinde</strong> başladığını ve muhtemel kaynağın <strong>elektrik kaynaklı bir arıza</strong> olduğunu açıkladı. Alevlerin hızla birden fazla sublevel alana yayılması, olayın ciddiyetini artırdı.</p>
 <p><br></p>

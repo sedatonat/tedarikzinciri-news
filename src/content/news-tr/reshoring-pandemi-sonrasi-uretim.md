@@ -1,14 +1,22 @@
 ---
-title: "Reshoring: Pandemi Sonrası Üretimde Köklü Değişimler"
-subtitle: "Reshoring: Pandemi Sonrası Üretimde Köklü Değişimler"
-date: "2024-05-10T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_af4a39ed286d419b91843b80b646b9fb~mv2.jpg"
-imageAlt: "Reshoring: Pandemi Sonrası Üretimde Köklü Değişimler"
-wixId: "c519e47f-1bd1-49f0-bbce-feec712b3db8"
-author: "Sedat Onat"
+title: 'Reshoring: Pandemi Sonrası Üretimde Köklü Değişimler'
+subtitle: 'Reshoring: Pandemi Sonrası Üretimde Köklü Değişimler'
+date: '2024-05-10T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_af4a39ed286d419b91843b80b646b9fb~mv2.jpg
+imageAlt: 'Reshoring: Pandemi Sonrası Üretimde Köklü Değişimler'
+wixId: c519e47f-1bd1-49f0-bbce-feec712b3db8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- reshoring
+- tedarik zinciri
+- pandemi
+- yerelleştirme
+- Çin
+- nearshoring
+- üretim stratejisi
 ---
 <p>Rosemary Coates, 30 yılı aşkın süredir tedarik zinciri alanında uzman olan Reshoring Institute'un yöneticisi, şu anda popüler bir konu olan reshoring (yurt içi üretime dönüş) trendinin nasıl geliştiğini ve nedenleri üzerine önemli bilgiler paylaştı. Covid-19 pandemisinin ardından, birçok şirketin üretimlerini yeniden yerel pazarlara taşıma eğilimi gösterdiğini belirtti. Bu değişim, başta 2012 yılında olmak üzere, Amerika'da başkanlık seçimleri sırasında Çin'e karşı yapılan eleştirilerle başladı. Trump döneminde uygulanan yüksek tarifeler ve kalite kontrolündeki düşüşler bu süreci hızlandırdı.</p>
 <p><br></p>

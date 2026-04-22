@@ -1,16 +1,24 @@
 ---
-title: "Shipbuilding Revival in Louisiana: The Era of AI-Powered and Autonomous Vessels"
-subtitle: "Shipbuilding Revival in Louisiana: The Era of AI-Powered and Autonomous Vessels"
-date: "2025-10-29T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_8f9d41e94091444aa05b2e6ac6401150~mv2.jpg"
-imageAlt: "Louisiana's shipbuilding sector is experiencing a resurgence. Companies such as Metal Shark, HavocAI, Bollinger Shipyards, and Saronic are playing a role in autonomous vessel and Arctic icebreaker production, shaping the U.S. vision for high-technology maritime operations."
-wixId: "c64a776f-2e2e-446c-891d-aaa05b97a656"
-author: "Sedat Onat"
+title: 'Shipbuilding Revival in Louisiana: The Era of AI-Powered and Autonomous Vessels'
+subtitle: 'Shipbuilding Revival in Louisiana: The Era of AI-Powered and Autonomous Vessels'
+date: '2025-10-29T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_8f9d41e94091444aa05b2e6ac6401150~mv2.jpg
+imageAlt: Louisiana's shipbuilding sector is experiencing a resurgence. Companies such as Metal Shark, HavocAI, Bollinger Shipyards, and Saronic are playing a role in autonomous vessel and Arctic icebreaker production, shaping the U.S. vision for high-technology maritime operations.
+wixId: c64a776f-2e2e-446c-891d-aaa05b97a656
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Louisiana
+- shipbuilding
+- autonomous vessels
+- artificial intelligence
+- Maritime Action Plan
+- Metal Shark
+- Bollinger Shipyards
+- Saronic
 ---
-
 <p style="text-align: justify"><strong>Louisiana</strong>, the historic center of American shipbuilding, is reviving its maritime legacy while opening a new chapter in global competition through <strong>artificial intelligence-powered autonomous vessels</strong> and <strong>advanced manufacturing</strong>. <strong>Greater New Orleans, Inc.</strong> President <strong>Michael Hecht</strong> describes this transformation as "<strong>where Louisiana's history and future converge</strong>".</p>
 <p><br></p>
 <p style="text-align: justify">Hecht emphasizes that projects across the state represent not merely economic recovery but <strong>an integrated transformation spanning defense, aerospace, and energy sectors</strong>. For instance, the partnership between <strong>Metal Shark</strong> (Jeanerette, Louisiana) and <strong>HavocAI</strong> (Rhode Island) manufactures <strong>AI-integrated unmanned surface vehicles for the U.S. Navy</strong>. According to Hecht, these projects demonstrate that "Louisiana is reasserting itself as a center for defense technology."</p>

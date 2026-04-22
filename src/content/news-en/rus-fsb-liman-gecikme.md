@@ -1,16 +1,23 @@
 ---
-title: "American Club: New FSB Rules for Russian Port Entry Create Serious Delay Risk for Vessels"
-subtitle: "American Club: New FSB Rules for Russian Port Entry Create Serious Delay Risk for Vessels"
-date: "2025-12-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_99e4e9bd30c0485cb2c80a9b5ab42f32~mv2.jpg"
-imageAlt: "Summary of American Club warning that Russia's new FSB port entry rules taking effect on November 25, 2025, could cause delays of up to 48–53 hours, increased costs, and operational uncertainty for shipowners"
-wixId: "22aee459-fd0f-461d-9dc1-1b5b8291df97"
-author: "Sedat Onat"
+title: 'American Club: New FSB Rules for Russian Port Entry Create Serious Delay Risk for Vessels'
+subtitle: 'American Club: New FSB Rules for Russian Port Entry Create Serious Delay Risk for Vessels'
+date: '2025-12-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_99e4e9bd30c0485cb2c80a9b5ab42f32~mv2.jpg
+imageAlt: Summary of American Club warning that Russia's new FSB port entry rules taking effect on November 25, 2025, could cause delays of up to 48–53 hours, increased costs, and operational uncertainty for shipowners
+wixId: 22aee459-fd0f-461d-9dc1-1b5b8291df97
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Russian ports
+- FSB
+- vessel delays
+- port security
+- underwater inspection
+- American Club
+- operational risk
 ---
-
 <p style="text-align: justify"><strong>American Club</strong>, in a member notice dated December 4, warned shipowners that new port entry requirements imposed by Russia on foreign vessels arriving from international ports could cause <strong>significant delays, operational disruptions, and additional costs</strong>. Under the new regulation that took effect in Russia on <strong>November 25, 2025</strong>, all commercial vessels arriving from foreign ports must undergo an additional control process through the <strong>Federal Security Service (FSB)</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">Under this regulation, the FSB can issue a decision of <strong>approval, denial, or further inspection</strong> regarding a vessel's port entry. According to American Club's assessment, although the FSB must issue an entry decision <strong>within 48 hours</strong>, the process can actually extend to <strong>49 hours</strong> when accounting for information transmission and document transfer. A <strong>compulsory underwater hull inspection</strong> that shipowners may face is not included in this timeframe.</p>

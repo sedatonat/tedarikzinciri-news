@@ -1,16 +1,23 @@
 ---
-title: "Nike Expands Supply Chain Chief's Authority: New COO Role Created"
-subtitle: "Nike Expands Supply Chain Chief's Authority: New COO Role Created"
-date: "2025-12-08T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_3e3845de5a164177931bfc17c1377a15~mv2.jpg"
-imageAlt: "A detailed overview of Nike's appointment of Chief Supply Chain Officer Venkatesh Alagirisamy to the newly created COO position, placing technology integration at the center of operations and the subsequent leadership restructuring"
-wixId: "d38d914e-8967-4e13-801f-c28063b1a89d"
-author: "Sedat Onat"
+title: 'Nike Expands Supply Chain Chief''s Authority: New COO Role Created'
+subtitle: 'Nike Expands Supply Chain Chief''s Authority: New COO Role Created'
+date: '2025-12-08T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_3e3845de5a164177931bfc17c1377a15~mv2.jpg
+imageAlt: A detailed overview of Nike's appointment of Chief Supply Chain Officer Venkatesh Alagirisamy to the newly created COO position, placing technology integration at the center of operations and the subsequent leadership restructuring
+wixId: d38d914e-8967-4e13-801f-c28063b1a89d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Nike
+- COO
+- supply chain
+- technology integration
+- restructuring
+- digital transformation
+- operational excellence
 ---
-
 <p style="text-align: justify">Global sports apparel and footwear giant <strong>Nike</strong> has undertaken a comprehensive restructuring of its top management to streamline operational structure and accelerate technology integration. The company announced the appointment of <strong>Venkatesh Alagirisamy</strong>, serving as <strong>Chief Supply Chain Officer (CSCO)</strong>, to the newly created position of <strong>Executive Vice President (EVP) and Chief Operating Officer (COO)</strong>. The appointment was announced through a letter to employees from CEO <strong>Elliott Hill</strong>, with the decision taking effect as of <strong>December 8, 2025</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">Under the new structure, Alagirisamy will retain his existing supply chain responsibilities while simultaneously assuming direct management of <strong>Nike's technology organization</strong>. This marks the first time Nike has unified supply chain and technology under a single <strong>operational umbrella</strong>. The move demonstrates the company's commitment to achieving end-to-end digital integration throughout the <strong>create–plan–make–deliver–sell</strong> cycle.</p>

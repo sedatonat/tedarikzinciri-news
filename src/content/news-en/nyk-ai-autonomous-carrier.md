@@ -1,16 +1,23 @@
 ---
-title: "NYK Orders Next-Generation Car Carrier with AI-Enabled Autonomous Navigation System"
-subtitle: "NYK Orders Next-Generation Car Carrier with AI-Enabled Autonomous Navigation System"
-date: "2025-12-10T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_3ff5855f228b4827b04721bd92b526e4~mv2.jpg"
-imageAlt: "Technical specifications and maritime safety implications of the next-generation car carrier ordered by NYK from Shinkai Toyohashi Shipbuilding, equipped with AI-based autonomous navigation and Marine DX systems developed under the MEGURI2040 program"
-wixId: "0f54517c-52c9-4bd0-afa2-646a44072df7"
-author: "Sedat Onat"
+title: NYK Orders Next-Generation Car Carrier with AI-Enabled Autonomous Navigation System
+subtitle: NYK Orders Next-Generation Car Carrier with AI-Enabled Autonomous Navigation System
+date: '2025-12-10T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_3ff5855f228b4827b04721bd92b526e4~mv2.jpg
+imageAlt: Technical specifications and maritime safety implications of the next-generation car carrier ordered by NYK from Shinkai Toyohashi Shipbuilding, equipped with AI-based autonomous navigation and Marine DX systems developed under the MEGURI2040 program
+wixId: 0f54517c-52c9-4bd0-afa2-646a44072df7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- NYK
+- autonomous navigation
+- artificial intelligence
+- vehicle carrier
+- MEGURI2040
+- maritime transport
+- digital transformation
 ---
-
 <p style="text-align: justify">Japanese maritime and logistics conglomerate <strong>NYK (Nippon Yusen Kabushiki Kaisha)</strong> is taking a significant step forward in digitalization and autonomy in maritime transport. The company announced it has placed an order with <strong>Shinkai Toyohashi Shipbuilding</strong> for a next-generation <strong>pure car carrier</strong> equipped with <strong>AI-enabled autonomous navigation</strong> and comprehensive <strong>Marine DX (Digital Transformation)</strong> systems. The vessel, approximately <strong>200 meters long</strong> and <strong>38 meters wide</strong>, is scheduled for delivery on <strong>31 March 2026</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The new vessel will serve not merely as a commercial car carrier but also as <strong>a test platform for advanced navigation and safety technologies</strong>. NYK aims to test the vessel under real operational conditions during regular commercial voyages.</p>

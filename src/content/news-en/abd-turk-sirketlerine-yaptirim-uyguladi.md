@@ -1,16 +1,22 @@
 ---
-title: "U.S. Imposes Sanctions on 16 Turkish Companies"
-subtitle: "U.S. Imposes Sanctions on 16 Turkish Companies"
-date: "2023-12-13T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_20fcd35a03fc4d17848b7bc9bf92d510~mv2.jpg"
-imageAlt: "U.S. Imposes Sanctions on 16 Turkish Companies"
-wixId: "ef693726-f289-4b02-940a-f1f3c0e75da7"
-author: "Sedat Onat"
+title: U.S. Imposes Sanctions on 16 Turkish Companies
+subtitle: U.S. Imposes Sanctions on 16 Turkish Companies
+date: '2023-12-13T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_20fcd35a03fc4d17848b7bc9bf92d510~mv2.jpg
+imageAlt: U.S. Imposes Sanctions on 16 Turkish Companies
+wixId: ef693726-f289-4b02-940a-f1f3c0e75da7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- US sanctions
+- Turkish companies
+- Russia embargo
+- trade restrictions
+- Ukraine war
+- technology shipments
 ---
-
 <p>The United States has imposed sanctions on hundreds of individuals and entities from Turkey, China, the UAE, and other countries accused of breaching the embargo against Russia.</p>
 <p><br></p>
 <p>According to statements from the U.S. Treasury Department and State Department, the sanctions aim to hold accountable those who support Russia's actions in Ukraine and finance the conflict.</p>

@@ -1,16 +1,24 @@
 ---
-title: "Turkey and Somalia Sign Strategic Naval Forces Agreement"
-subtitle: "Turkey and Somalia Sign Strategic Naval Forces Agreement"
-date: "2024-02-22T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_125388793d304668b9a1d3ffb2287439~mv2.jpg"
-imageAlt: "Turkey and Somalia Sign Strategic Naval Forces Agreement"
-wixId: "3ce5103c-579e-421d-9d8c-38c0dd8831de"
-author: "Sedat Onat"
+title: Turkey and Somalia Sign Strategic Naval Forces Agreement
+subtitle: Turkey and Somalia Sign Strategic Naval Forces Agreement
+date: '2024-02-22T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_125388793d304668b9a1d3ffb2287439~mv2.jpg
+imageAlt: Turkey and Somalia Sign Strategic Naval Forces Agreement
+wixId: 3ce5103c-579e-421d-9d8c-38c0dd8831de
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Turkey
+- Somalia
+- naval forces
+- Red Sea
+- Suez Canal
+- Horn of Africa
+- piracy
+- strategic agreement
 ---
-
 <p>Turkey and Somalia have signed a historic agreement aimed at protecting Somalia's territorial waters and establishing a strong naval force.</p>
 <p><br></p>
 <p>The agreement targets combating terrorism, illegal fishing, piracy, and external threats. Through Turkey's presence in Somalia, it is planned that Turkey will gain control over strategic regions such as the Red Sea and the Suez Canal. The agreement reinforces Turkey's significant role in the Horn of Africa and solidifies its position as a major player in the region.</p>

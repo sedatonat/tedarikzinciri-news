@@ -1,16 +1,23 @@
 ---
-title: "Levi's Nears Completion of Distribution Network Transformation"
-subtitle: "Levi's Nears Completion of Distribution Network Transformation"
-date: "2025-10-23T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_a2858d4b90f042f78e359392d7194a8d~mv2.jpg"
-imageAlt: "Levi's is in the process of phasing out owned distribution centers and transitioning to leased facilities. The new model aims to provide more flexible and efficient service to direct-to-consumer (DTC) channels."
-wixId: "1d2d7a34-8125-450c-a93b-d054ed5596f9"
-author: "Sedat Onat"
+title: Levi's Nears Completion of Distribution Network Transformation
+subtitle: Levi's Nears Completion of Distribution Network Transformation
+date: '2025-10-23T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_a2858d4b90f042f78e359392d7194a8d~mv2.jpg
+imageAlt: Levi's is in the process of phasing out owned distribution centers and transitioning to leased facilities. The new model aims to provide more flexible and efficient service to direct-to-consumer (DTC) channels.
+wixId: 1d2d7a34-8125-450c-a93b-d054ed5596f9
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Levi's
+- warehouse network
+- 3PL
+- third-party logistics
+- distribution center
+- DTC
+- supply chain transformation
 ---
-
 <p style="text-align: justify"><strong>Levi Strauss &amp; Co.</strong> is nearing completion of its transition from operating owned distribution centers to a new warehouse network based on <strong>leased facilities and third-party logistics (3PL)</strong> models. The company plans to end the <strong>simultaneous operation of both owned and leased facilities</strong> by early 2026. This transition is viewed as a critical component of Levi's <strong>strategic transformation toward direct-to-consumer (DTC)</strong> channels.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Harmit Singh, Executive Vice President and Chief Financial Officer (EVP &amp; CFO)</strong> of Levi's, announced during the company's third-quarter financial results presentation that <strong>distribution costs increased 19.5 percent year-over-year</strong>. Singh noted that the primary drivers of this increase were the <strong>parallel operation of warehouse networks</strong> and a <strong>reclassification of certain e-commerce expenses</strong>.</p>

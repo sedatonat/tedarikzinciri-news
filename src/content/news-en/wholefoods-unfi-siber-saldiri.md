@@ -1,16 +1,24 @@
 ---
-title: "Cyber Attack Leaves Whole Foods Shelves Empty"
-subtitle: "Cyber Attack Leaves Whole Foods Shelves Empty"
-date: "2025-06-11T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_949956845e5342fba1f382148bd1d71d~mv2.jpg"
-imageAlt: "Cyber Attack Leaves Whole Foods Shelves Empty"
-wixId: "c6794acd-1453-48a0-aed9-297768f507f7"
-author: "Sedat Onat"
+title: Cyber Attack Leaves Whole Foods Shelves Empty
+subtitle: Cyber Attack Leaves Whole Foods Shelves Empty
+date: '2025-06-11T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_949956845e5342fba1f382148bd1d71d~mv2.jpg
+imageAlt: Cyber Attack Leaves Whole Foods Shelves Empty
+wixId: c6794acd-1453-48a0-aed9-297768f507f7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- cyberattack
+- supply chain
+- Whole Foods
+- UNFI
+- food logistics
+- out-of-stock
+- ransomware
+- cybersecurity
 ---
-
 <p style="text-align: justify"><strong>Whole Foods Market, a subsidiary of Amazon,</strong> faced <strong>empty shelves and delayed deliveries</strong> across North America following a major <strong>cyber attack</strong> on its primary supplier, <strong>United Natural Foods Inc. (UNFI).</strong></p>
 <p><br>
 The company described the situation in in-store notices as "<strong>temporary supply challenges,</strong>" while employees received internal communications instructing them to "<strong>downplay the situation.</strong>"</p>

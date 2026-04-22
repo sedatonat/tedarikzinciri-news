@@ -1,16 +1,24 @@
 ---
-title: "Maersk Survey: Most Supply Chain Leaders Expect Disruptions to Continue Through 2027"
-subtitle: "Maersk Survey: Most Supply Chain Leaders Expect Disruptions to Continue Through 2027"
-date: "2025-11-11T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_5ab7bbde0a9547c6a0b723964115ade3~mv2.jpg"
-imageAlt: "According to a Maersk survey of 900+ European companies, 80% of supply chain leaders believe global disruptions will persist through 2027, with tariffs, geopolitical tensions, and trade policies continuing to impact operations."
-wixId: "d0ff9ac1-8768-4e54-b92d-6690daad4ad0"
-author: "Sedat Onat"
+title: 'Maersk Survey: Most Supply Chain Leaders Expect Disruptions to Continue Through 2027'
+subtitle: 'Maersk Survey: Most Supply Chain Leaders Expect Disruptions to Continue Through 2027'
+date: '2025-11-11T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_5ab7bbde0a9547c6a0b723964115ade3~mv2.jpg
+imageAlt: According to a Maersk survey of 900+ European companies, 80% of supply chain leaders believe global disruptions will persist through 2027, with tariffs, geopolitical tensions, and trade policies continuing to impact operations.
+wixId: d0ff9ac1-8768-4e54-b92d-6690daad4ad0
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Maersk
+- supply chain
+- geopolitical risk
+- tariffs
+- sourcing diversification
+- digitalization
+- customs management
+- Europe
 ---
-
 <p style="text-align: justify">A new supply chain survey conducted by A.P. Moller – Maersk across more than 900 companies throughout Europe reveals that uncertainty in the global logistics environment will persist for <strong>at least another two years</strong>. According to the findings, <strong>more than three-quarters</strong> of supply chain leaders expect geopolitical risks, tariffs, and trade regulations to continue affecting operations through 2027.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>78%</strong> of survey respondents believe that geopolitical factors and trade barriers will create operational consequences over the next 12–24 months. While <strong>48%</strong> report experiencing "serious concern" about the current geopolitical environment, <strong>80%</strong> say that supply chain challenges are directly impacting business growth.</p>

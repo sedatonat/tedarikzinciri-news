@@ -1,14 +1,23 @@
 ---
-title: "ABB'nin 2024 Nesiller Yayını: Ufukları Genişletmek"
-subtitle: "ABB'nin 2024 Nesiller Yayını: Ufukları Genişletmek"
-date: "2024-12-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2946375ba56744a5818e0caef036f9e7~mv2.jpg"
-imageAlt: "ABB'nin 2024 Nesiller Yayını: Ufukları Genişletmek"
-wixId: "4999bda3-f25a-4ee9-b6cb-535832d19ec8"
-author: "Sedat Onat"
+title: 'ABB''nin 2024 Nesiller Yayını: Ufukları Genişletmek'
+subtitle: 'ABB''nin 2024 Nesiller Yayını: Ufukları Genişletmek'
+date: '2024-12-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2946375ba56744a5818e0caef036f9e7~mv2.jpg
+imageAlt: 'ABB''nin 2024 Nesiller Yayını: Ufukları Genişletmek'
+wixId: 4999bda3-f25a-4ee9-b6cb-535832d19ec8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABB
+- denizcilik
+- sürdürülebilirlik
+- elektrifikasyon
+- dijitalleşme
+- yapay zeka
+- hibrit feribot
+- tahrik sistemi
 ---
 <p><strong>ABB</strong>, denizcilik sektöründe daha akıllı, güvenli ve sürdürülebilir bir geleceği mümkün kılan teknolojik yenilikleri, kişilikleri ve iş birliklerini keşfetmek amacıyla hazırladığı 2024 yılı <strong>Generations</strong> makalelerini "Expanding Horizons" temasıyla yayımladı.</p>
 <p><br></p>

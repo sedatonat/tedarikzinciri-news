@@ -1,14 +1,22 @@
 ---
-title: "Uber Freight ve Better Trucks, Son Mil Kapasitesini ve Teknolojisini Genişletmek İçin Güçlerini Birleştirdi"
-subtitle: "Uber Freight ve Better Trucks, Son Mil Kapasitesini ve Teknolojisini Genişletmek İçin Güçlerini Birleştirdi"
-date: "2025-11-13T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_b80cc07072854722ad97d231343c2917~mv2.jpg"
-imageAlt: "Uber Freight, Better Trucks’a azınlık hissedar olarak yatırım yaparak iki şirketin karşılıklı teslimat hacmi paylaşımı, ortak teknoloji kullanımı ve ABD’nin %85’ine kadar ulaşan son mil kapsaması hedeflerini destekleyen genişletilmiş bir ortaklık kurdu."
-wixId: "3054194d-843d-4614-a85d-21b889527297"
-author: "Sedat Onat"
+title: Uber Freight ve Better Trucks, Son Mil Kapasitesini ve Teknolojisini Genişletmek İçin Güçlerini Birleştirdi
+subtitle: Uber Freight ve Better Trucks, Son Mil Kapasitesini ve Teknolojisini Genişletmek İçin Güçlerini Birleştirdi
+date: '2025-11-13T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_b80cc07072854722ad97d231343c2917~mv2.jpg
+imageAlt: Uber Freight, Better Trucks’a azınlık hissedar olarak yatırım yaparak iki şirketin karşılıklı teslimat hacmi paylaşımı, ortak teknoloji kullanımı ve ABD’nin %85’ine kadar ulaşan son mil kapsaması hedeflerini destekleyen genişletilmiş bir ortaklık kurdu.
+wixId: 3054194d-843d-4614-a85d-21b889527297
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Uber Freight
+- Better Trucks
+- son mil teslimat
+- adres doğrulama
+- geokodlama
+- açık API
+- e-ticaret lojistiği
 ---
 <p style="text-align: justify">Uber Freight, son mil teslimat ağını büyütmek ve teknolojik kabiliyetlerini güçlendirmek amacıyla <strong>Better Trucks’a azınlık hissesiyle yatırım yaptı</strong>. Bu adım, iki şirket arasındaki ticari ortaklığın genişlemesini ve <strong>müşteri teslimat kapsamının önemli ölçüde artırılmasını</strong> sağlıyor.</p>
 <p><br></p>

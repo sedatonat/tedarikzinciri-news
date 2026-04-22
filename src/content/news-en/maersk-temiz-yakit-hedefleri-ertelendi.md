@@ -1,16 +1,23 @@
 ---
-title: "Maersk Delays Clean Fuel Targets"
-subtitle: "Maersk Delays Clean Fuel Targets"
-date: "2025-03-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3f6990530c5e46b2b72262a245c12d8c~mv2.png"
-imageAlt: "Maersk Delays Clean Fuel Targets"
-wixId: "6a074fc0-e52e-4ed7-9688-d74eef98a102"
-author: "Sedat Onat"
+title: Maersk Delays Clean Fuel Targets
+subtitle: Maersk Delays Clean Fuel Targets
+date: '2025-03-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3f6990530c5e46b2b72262a245c12d8c~mv2.png
+imageAlt: Maersk Delays Clean Fuel Targets
+wixId: 6a074fc0-e52e-4ed7-9688-d74eef98a102
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Maersk
+- clean fuel
+- maritime shipping
+- carbon emissions
+- energy efficiency
+- sustainability
+- alternative fuel
 ---
-
 <p style="text-align: justify"><strong>Maersk</strong>, one of the world's leading maritime shipping companies, is reassessing its environmental sustainability targets. The company has decided to postpone the clean fuel usage targets it had set for its fleet. This change marks a significant shift in <strong>Maersk</strong>'s strategy for reducing carbon emissions.</p>
 <p><br></p>
 <p style="text-align: justify">Among its primary objectives, <strong>Maersk</strong> aims to reduce emissions per container by 50 percent, and is now focusing on improving energy efficiency to reach this goal. The company plans to reduce its environmental impact by enhancing energy efficiency. This strategic shift has been made due to slower-than-expected progress in transitioning to clean fuels and current technological and economic challenges.</p>

@@ -1,16 +1,23 @@
 ---
-title: "Shanghai Reinforces Global Leadership as It Surpasses 40 Million TEU"
-subtitle: "Shanghai Reinforces Global Leadership as It Surpasses 40 Million TEU"
-date: "2025-11-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_90aee42c415a46608be38f2b5df84a9b~mv2.jpg"
-imageAlt: "China's Shanghai Port handled 4.83 million TEU in September, reaching a total of 41.5 million TEU in 2025; Ningbo-Zhoushan and other major Chinese ports also recorded robust double-digit growth."
-wixId: "018af542-d715-4eb6-beb6-4cdcf7a0eae3"
-author: "Sedat Onat"
+title: Shanghai Reinforces Global Leadership as It Surpasses 40 Million TEU
+subtitle: Shanghai Reinforces Global Leadership as It Surpasses 40 Million TEU
+date: '2025-11-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_90aee42c415a46608be38f2b5df84a9b~mv2.jpg
+imageAlt: China's Shanghai Port handled 4.83 million TEU in September, reaching a total of 41.5 million TEU in 2025; Ningbo-Zhoushan and other major Chinese ports also recorded robust double-digit growth.
+wixId: 018af542-d715-4eb6-beb6-4cdcf7a0eae3
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Shanghai Port
+- container handling
+- TEU
+- Chinese ports
+- Ningbo-Zhoushan
+- port performance
+- global logistics
 ---
-
 <p style="text-align: justify">China's major coastal ports are demonstrating strong performance as 2025 enters its final quarter. Despite persistent uncertainty in global logistics networks, <strong>Shanghai Port</strong> has surpassed the <strong>40 million TEU threshold</strong> over the first nine months of the year, reinforcing its world leadership position once again.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Shanghai: Strengthening its position as global leader</strong></h4>

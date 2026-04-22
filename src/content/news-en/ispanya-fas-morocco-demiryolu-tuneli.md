@@ -1,16 +1,23 @@
 ---
-title: "Spain–Morocco Rail Tunnel Extremely Complex But Technically Viable"
-subtitle: "Spain–Morocco Rail Tunnel Extremely Complex But Technically Viable"
-date: "2025-11-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_343ed86788af4346828f55d61f87831a~mv2.jpg"
-imageAlt: "The Spain–Morocco rail tunnel project to be built beneath the Strait of Gibraltar is technically feasible according to a feasibility report commissioned by the Spanish government, but represents an extraordinarily complex undertaking from geological and engineering perspectives. A final decision is expected in 2027."
-wixId: "a311b21c-682a-4abf-bdb3-bf84c488c8a6"
-author: "Sedat Onat"
+title: Spain–Morocco Rail Tunnel Extremely Complex But Technically Viable
+subtitle: Spain–Morocco Rail Tunnel Extremely Complex But Technically Viable
+date: '2025-11-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_343ed86788af4346828f55d61f87831a~mv2.jpg
+imageAlt: The Spain–Morocco rail tunnel project to be built beneath the Strait of Gibraltar is technically feasible according to a feasibility report commissioned by the Spanish government, but represents an extraordinarily complex undertaking from geological and engineering perspectives. A final decision is expected in 2027.
+wixId: a311b21c-682a-4abf-bdb3-bf84c488c8a6
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- railway tunnel
+- Spain
+- Morocco
+- Strait of Gibraltar
+- Europe-Africa connection
+- infrastructure project
+- TEN-T
 ---
-
 <p style="text-align: justify"><strong>The project to link Spain and Morocco with a rail tunnel across the Strait of Gibraltar</strong>, while technically feasible, has been assessed as <strong>"extremely complex" due to engineering, geological, and economic challenges.</strong></p>
 <p><br></p>
 <p style="text-align: justify">This conclusion emerged from the first findings of <strong>a feasibility study conducted by the Spanish government</strong>, as reported by local media. According to the report, the project <strong>can be executed with advanced engineering solutions</strong>, but entails <strong>an unprecedented level of difficulty</strong> in terms of cost, timeline, and infrastructure risks.</p>

@@ -1,16 +1,23 @@
 ---
-title: "According to Accenture Research, Businesses Target Doubling Onshoring Rate from 38% to 65% by 2026"
-subtitle: "According to Accenture Research, Businesses Target Doubling Onshoring Rate from 38% to 65% by 2026"
-date: "2023-12-14T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_fcd7649466ff402285749d7d0276f033~mv2.jpeg"
-imageAlt: "According to Accenture Research, Businesses Target Doubling Onshoring Rate from 38% to 65% by 2026"
-wixId: "12f4f2de-f22d-4a2b-9d8f-53f38187dd8e"
-author: "Sedat Onat"
+title: According to Accenture Research, Businesses Target Doubling Onshoring Rate from 38% to 65% by 2026
+subtitle: According to Accenture Research, Businesses Target Doubling Onshoring Rate from 38% to 65% by 2026
+date: '2023-12-14T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_fcd7649466ff402285749d7d0276f033~mv2.jpeg
+imageAlt: According to Accenture Research, Businesses Target Doubling Onshoring Rate from 38% to 65% by 2026
+wixId: 12f4f2de-f22d-4a2b-9d8f-53f38187dd8e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Accenture
+- onshoring
+- regional sourcing
+- artificial intelligence
+- digital twin
+- supply chain
+- resilience
 ---
-
 <p><a href="https://www.accenture.com/bg-en"><u>Accenture</u></a>'s "Resiliency in the Making" research shows that companies are shifting toward regional sources rather than global supply and production. By 2026, 65% of companies plan to source their core products from regional suppliers (<a href="https://www.tedarikzinciriportali.com/post/terim-onshoring-ulke-ici-uretim"><u>onshoring</u></a>), up from 38% today. Additionally, a larger number of organizations (85%) are targeting the production and sale of their products in the same region (<a href="https://www.tedarikzinciriportali.com/post/terim-onshoring-ulke-ici-uretim"><u>onshoring</u></a>).</p>
 <p><br></p>
 <p>Companies are making substantial investments to execute this shift. On average, in 2023, companies spent 1 billion dollars to digitalize, automate, and relocate supply and production facilities. This amount is expected to rise to at least 2.5 billion dollars by 2026.</p>

@@ -1,16 +1,24 @@
 ---
-title: "Daimler Truck Seeks Partner for Autonomous Unit Torc"
-subtitle: "Daimler Truck Seeks Partner for Autonomous Unit Torc"
-date: "2025-09-05T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_fd5e977d02564f479926a0118d56bcb1~mv2.png"
-imageAlt: "Daimler Truck Seeks Partner for Autonomous Unit Torc"
-wixId: "9553de5b-4185-4ec6-8e00-efe3b850210b"
-author: "Sedat Onat"
+title: Daimler Truck Seeks Partner for Autonomous Unit Torc
+subtitle: Daimler Truck Seeks Partner for Autonomous Unit Torc
+date: '2025-09-05T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_fd5e977d02564f479926a0118d56bcb1~mv2.png
+imageAlt: Daimler Truck Seeks Partner for Autonomous Unit Torc
+wixId: 9553de5b-4185-4ec6-8e00-efe3b850210b
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Daimler Truck
+- autonomous driving
+- Torc Robotics
+- Level 4 autonomy
+- heavy-duty truck
+- hub-to-hub
+- sensor fusion
+- commercialization
 ---
-
 <p style="text-align: justify"><strong>Autonomous driving technologies in the heavy vehicle segment</strong> are redefining the future of transportation in terms of safety, energy efficiency, and cost balance. <strong>Daimler Truck</strong>, which stands at the center of this transformation, has embarked on a strategic search for a partner for its subsidiary <strong>Torc Robotics</strong>. This move is regarded as a strategic initiative aimed at both <strong>increasing capital efficiency</strong> and <strong>accelerating the commercialization process</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">In autonomous trucks, the focus lies on use cases at <strong>Level 4</strong> autonomy. These systems enable safe and uninterrupted operations, particularly on <strong>hub-to-hub</strong> and <strong>controlled long-haul trucking</strong> routes. Such routes provide an ideal starting point for proving the safety of autonomous systems, as they are exposed to fewer variable traffic conditions.</p>

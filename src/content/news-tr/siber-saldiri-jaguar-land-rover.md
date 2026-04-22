@@ -1,14 +1,23 @@
 ---
-title: "JLR Siber Saldırısı: Akıllı Fabrikalar Durdu"
-subtitle: "JLR Siber Saldırısı: Akıllı Fabrikalar Durdu"
-date: "2025-09-20T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_2b736b80dfef491a99e130b8e8406463~mv2.jpg"
-imageAlt: "JLR Siber Saldırısı: Akıllı Fabrikalar Durdu, Dış Kaynaklı Siber Güvenlik Sorgulandı, Tedarik Zinciri Krize Girdi"
-wixId: "ae268bac-6e62-4d7f-ab78-8138cbc41b7a"
-author: "Sedat Onat"
+title: 'JLR Siber Saldırısı: Akıllı Fabrikalar Durdu'
+subtitle: 'JLR Siber Saldırısı: Akıllı Fabrikalar Durdu'
+date: '2025-09-20T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_2b736b80dfef491a99e130b8e8406463~mv2.jpg
+imageAlt: 'JLR Siber Saldırısı: Akıllı Fabrikalar Durdu, Dış Kaynaklı Siber Güvenlik Sorgulandı, Tedarik Zinciri Krize Girdi'
+wixId: ae268bac-6e62-4d7f-ab78-8138cbc41b7a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- siber saldırı
+- JLR
+- akıllı fabrika
+- tedarik zinciri
+- TCS
+- ransomware
+- otomotiv sektörü
+- üretim durdurma
 ---
 <p style="text-align: justify">Britanya’nın en büyük otomotiv işvereni <strong>Jaguar Land Rover (JLR)</strong>, Ağustos ayının son Pazar gününde başlayan ve Pazartesi sabahı ciddiyeti anlaşılan <strong>geniş çaplı bir siber saldırı</strong> sonrasında <strong>Birleşik Krallık, Slovakya, Brezilya ve Hindistan’daki</strong> fabrikalarında üretimi durdurdu. <strong>Üç haftayı aşan</strong> duruş, şirketin <strong>bilgi sistemlerini kapatmasına</strong>, <strong>CAD/PLM/ERP/SAP</strong> dahil kritik uygulamaların devre dışı kalmasına ve <strong>“her şeyin bağlı olduğu”</strong> akıllı fabrika mimarisinin <strong>izole edilememesi</strong> nedeniyle <strong>kademeli değil topyekûn</strong> bir kapanmaya yol açtı. Çin’deki ortak girişimin çalışmaya devam ettiği değerlendirildi, ancak JLR’nin ana küresel üretim ağı fiilen <strong>kilitlendi</strong>.</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "First Supertanker Scrapped in Two Years: A 'Dark Ship'"
-subtitle: "First Supertanker Scrapped in Two Years: A 'Dark Ship'"
-date: "2024-12-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_aea91a7dab3840d59bf576301411adab~mv2.jpeg"
-imageAlt: "First Supertanker Scrapped in Two Years: A 'Dark Ship'"
-wixId: "cbe2334a-c4b4-4546-abab-b3b0b3584962"
-author: "Sedat Onat"
+title: 'First Supertanker Scrapped in Two Years: A ''Dark Ship'''
+subtitle: 'First Supertanker Scrapped in Two Years: A ''Dark Ship'''
+date: '2024-12-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_aea91a7dab3840d59bf576301411adab~mv2.jpeg
+imageAlt: 'First Supertanker Scrapped in Two Years: A ''Dark Ship'''
+wixId: cbe2334a-c4b4-4546-abab-b3b0b3584962
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- supertanker
+- dark fleet
+- VLCC
+- Iranian oil
+- sanctions
+- scrapping
+- shadow vessels
 ---
-
 <p><strong>Amor</strong>, a 24-year-old supertanker flying the <strong>Cameroon</strong> flag and known to have carried <strong>Iranian</strong> oil, has become the first very large crude carrier (<strong>VLCC</strong>) to be scrapped in the past two years. Sold to an Indian scrapyard last week, the vessel marks the first scheduled VLCC scrapping recorded since <strong>Uranus</strong> was sent to demolition in late 2022.</p>
 <p><br></p>
 <p><strong>Russia</strong>'s invasion of <strong>Ukraine</strong> and subsequent sanctions imposed by the <strong>West</strong> on Moscow increased demand for tankers to transport restricted oil globally. During this period, private companies purchased cheap and aging vessels to form a "dark fleet" and extended the lifespan of tankers. <strong>Amor</strong>'s age, flag, and other characteristics align with this shadow fleet. Despite being added to a list of vessels involved in Iranian crude oil exports by the <strong>U.S. Energy Information Administration</strong> in October, it was not blacklisted by U.S. authorities.</p>

@@ -1,14 +1,22 @@
 ---
-title: "Lojistik ve Ticaret Eğitimiyle Tarihi Topluma Yeni Fırsatlar"
-subtitle: "Lojistik ve Ticaret Eğitimiyle Tarihi Topluma Yeni Fırsatlar"
-date: "2024-12-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/f19660f6c6e0436e9d2f00362db46eef.jpg"
-imageAlt: "Lojistik ve Ticaret Eğitimiyle Tarihi Topluma Yeni Fırsatlar"
-wixId: "d2d5c406-5aab-4fef-ac5e-b1c55ab91c30"
-author: "Sedat Onat"
+title: Lojistik ve Ticaret Eğitimiyle Tarihi Topluma Yeni Fırsatlar
+subtitle: Lojistik ve Ticaret Eğitimiyle Tarihi Topluma Yeni Fırsatlar
+date: '2024-12-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/f19660f6c6e0436e9d2f00362db46eef.jpg
+imageAlt: Lojistik ve Ticaret Eğitimiyle Tarihi Topluma Yeni Fırsatlar
+wixId: d2d5c406-5aab-4fef-ac5e-b1c55ab91c30
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- lojistik eğitimi
+- tedarik zinciri
+- DHL
+- Africatown
+- mesleki eğitim
+- GoTeach programı
+- ekonomik güçlenme
 ---
 <p>Africatown yakınlarında kurulan <strong>Pollee and Rose Allen School of Logistics and Trade</strong>, dezavantajlı genç Amerikalılara tedarik zinciri, lojistik ve ticaret alanlarında eğitim ve beceri kazandırmayı hedefliyor. <strong>Embracing Your Past to Empower Your Future, INC.</strong> adlı kâr amacı gütmeyen kuruluş tarafından, <strong>DHL Global Forwarding</strong>'in <strong>GoTeach</strong> programının desteğiyle hayata geçirilen okul, 7 Şubat 2025'te ücretsiz olarak başlayacak ve 16-24 yaş arası öğrencilere iki haftada bir seminerler sunacak.</p>
 <p><br></p>

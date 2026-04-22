@@ -1,14 +1,21 @@
 ---
-title: "Baltimore'daki Köprü Kazasında Altıncı ve Son Kurbanın Cesedi Bulundu"
-subtitle: "Baltimore'daki Köprü Kazasında Altıncı ve Son Kurbanın Cesedi Bulundu"
-date: "2024-05-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_df1f4bb30d394374ae8df5f8c571d51e~mv2.jpg"
-imageAlt: "Baltimore'daki Köprü Kazasında Altıncı ve Son Kurbanın Cesedi Bulundu"
-wixId: "dbcabe4d-51c6-4b5f-8ead-bb7216bab616"
-author: "Sedat Onat"
+title: Baltimore'daki Köprü Kazasında Altıncı ve Son Kurbanın Cesedi Bulundu
+subtitle: Baltimore'daki Köprü Kazasında Altıncı ve Son Kurbanın Cesedi Bulundu
+date: '2024-05-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_df1f4bb30d394374ae8df5f8c571d51e~mv2.jpg
+imageAlt: Baltimore'daki Köprü Kazasında Altıncı ve Son Kurbanın Cesedi Bulundu
+wixId: dbcabe4d-51c6-4b5f-8ead-bb7216bab616
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Baltimore
+- köprü çökmesi
+- Francis Scott Key Köprüsü
+- liman kazası
+- iş güvenliği
+- Maryland
 ---
 <p>Baltimore, Maryland'daki Francis Scott Key Köprüsü'nün çökmesi sonucu hayatını kaybeden altıncı ve son kurbanın cesedi 7 Mayıs'ta bulundu. José Mynor López, 37 yaşında, köprüde çukur doldurma işlemi yapan bir bakım ekibinin üyesiydi ve köprü 26 Mart'ta çarptığında olay yerindeydi.&nbsp;</p>
 <p><br></p>

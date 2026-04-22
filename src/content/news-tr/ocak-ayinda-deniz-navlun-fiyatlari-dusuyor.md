@@ -1,14 +1,23 @@
 ---
-title: "Ocak Ayında Deniz Navlun Fiyatları Düşerken, Tarifeler ve Kızıldeniz'deki Gerilimler Endişe Yaratıyor"
-subtitle: "Ocak Ayında Deniz Navlun Fiyatları Düşerken, Tarifeler ve Kızıldeniz'deki Gerilimler Endişe Yaratıyor"
-date: "2025-01-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_bb5318fb2be04e448c0ea1c38a4db88f~mv2.jpg"
-imageAlt: "Ocak Ayında Deniz Navlun Fiyatları Düşerken, Tarifeler ve Kızıldeniz'deki Gerilimler Endişe Yaratıyor"
-wixId: "7f0f2076-e2ac-4b20-8fb2-b9db200b5cf5"
-author: "Sedat Onat"
+title: Ocak Ayında Deniz Navlun Fiyatları Düşerken, Tarifeler ve Kızıldeniz'deki Gerilimler Endişe Yaratıyor
+subtitle: Ocak Ayında Deniz Navlun Fiyatları Düşerken, Tarifeler ve Kızıldeniz'deki Gerilimler Endişe Yaratıyor
+date: '2025-01-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_bb5318fb2be04e448c0ea1c38a4db88f~mv2.jpg
+imageAlt: Ocak Ayında Deniz Navlun Fiyatları Düşerken, Tarifeler ve Kızıldeniz'deki Gerilimler Endişe Yaratıyor
+wixId: 7f0f2076-e2ac-4b20-8fb2-b9db200b5cf5
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- deniz navlunu
+- spot fiyatlar
+- Kızıldeniz
+- tarife
+- Maersk
+- CMA CGM
+- konteyner taşımacılığı
+- Lunar New Year
 ---
 <p>Ocak ayında Asya'dan Kuzey Amerika'ya olan deniz taşımacılığı spot fiyatlarında belirgin bir düşüş gözlemlendi. Bu durum, mevsimsel talebin azalması ve yaklaşan <strong>Lunar New Year</strong> tatili öncesi sevkiyatların tamamlanmasıyla ilişkilendirildi. <strong>Freightos</strong> araştırma müdürü <strong>Judah Levine</strong>, tatil dönemi sonrası birikmiş işlerin durumuna bağlı olarak, fiyatların yeniden artabileceğini belirtti. ​</p>
 <p><br></p>

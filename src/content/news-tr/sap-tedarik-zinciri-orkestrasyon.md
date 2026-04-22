@@ -1,14 +1,23 @@
 ---
-title: "SAP: Yeni Dalga Tedarik Zinciri Dalgalanmalarıyla Başa Çıkmanın Yolu Orkestrasyon ve Gerçek Zamanlı İş Birliği"
-subtitle: "SAP: Yeni Dalga Tedarik Zinciri Dalgalanmalarıyla Başa Çıkmanın Yolu Orkestrasyon ve Gerçek Zamanlı İş Birliği"
-date: "2025-11-14T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_22d5e47c4b2a4d35808a1d196967f707~mv2.jpg"
-imageAlt: "SAP’nin sunduğu Supply Chain Orchestration yaklaşımı, şirketlerin artan enflasyon, tarifeler, uyum baskıları, yetenek kıtlığı ve görünürlük sorunları karşısında tedarik zincirini uçtan uca bağlamasını, gerçek zamanlı veri paylaşmasını ve yapay zekâ destekli kararlar almasını sağlayarak volatiliteyi yönetebilir hâle getiriyor."
-wixId: "ac5cf5eb-f015-46fb-a428-28c76d8a99e6"
-author: "Sedat Onat"
+title: 'SAP: Yeni Dalga Tedarik Zinciri Dalgalanmalarıyla Başa Çıkmanın Yolu Orkestrasyon ve Gerçek Zamanlı İş Birliği'
+subtitle: 'SAP: Yeni Dalga Tedarik Zinciri Dalgalanmalarıyla Başa Çıkmanın Yolu Orkestrasyon ve Gerçek Zamanlı İş Birliği'
+date: '2025-11-14T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_22d5e47c4b2a4d35808a1d196967f707~mv2.jpg
+imageAlt: SAP’nin sunduğu Supply Chain Orchestration yaklaşımı, şirketlerin artan enflasyon, tarifeler, uyum baskıları, yetenek kıtlığı ve görünürlük sorunları karşısında tedarik zincirini uçtan uca bağlamasını, gerçek zamanlı veri paylaşmasını ve yapay zekâ destekli kararlar almasını sağlayarak volatiliteyi yönetebilir hâle getiriyor.
+wixId: ac5cf5eb-f015-46fb-a428-28c76d8a99e6
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- SAP
+- tedarik zinciri orkestrasyonu
+- yapay zeka
+- ERP
+- SAP Business Network
+- gerçek zamanlı iş birliği
+- tedarik zinciri görünürlüğü
+- risk yönetimi
 ---
 <p style="text-align: justify">Küresel tedarik zincirleri 2025’e girerken <strong>belirsizlik, maliyet baskısı, tarifeler, uyum gereklilikleri ve yetenek eksikliği</strong> gibi çoklu stres kaynakları altında daha karmaşık hâle geldi. Şirketler, bu yeni volatilite dalgasını yönetebilmek için <strong>dağınık veri silolarını birleştiren, sürekli açık (“always-on”) ve çok katmanlı iş birliği sağlayan</strong> dijital platformlara yöneliyor. SAP tarafından aktarılan beş temel fayda, modern tedarik zinciri orkestrasyonunun neden kritik hale geldiğini gösteriyor.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "ABD–AB İlaç Tarifeleri Yerli Üretimi Geri Getirir mi?"
-subtitle: "ABD–AB İlaç Tarifeleri Yerli Üretimi Geri Getirir mi?"
-date: "2025-11-17T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_6d6893e461d443a4af1a73b78eb100b7~mv2.jpg"
-imageAlt: "ABD ile AB arasında yapılan ilaç tarifeleri anlaşması, Avrupa'dan gelen ilaçlara %15 vergi ve bazı ürünler için Section 232 muafiyeti getiriyor. Kısa vadede ilaç fiyatlarını ve sigorta primlerini yükseltmesi, uzun vadede ise tedarik zincirinin yeniden yapılandırılmasına yol açması bekleniyor."
-wixId: "7a8fe5ff-dce3-4367-8693-59ea4643b191"
-author: "Sedat Onat"
+title: ABD–AB İlaç Tarifeleri Yerli Üretimi Geri Getirir mi?
+subtitle: ABD–AB İlaç Tarifeleri Yerli Üretimi Geri Getirir mi?
+date: '2025-11-17T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_6d6893e461d443a4af1a73b78eb100b7~mv2.jpg
+imageAlt: ABD ile AB arasında yapılan ilaç tarifeleri anlaşması, Avrupa'dan gelen ilaçlara %15 vergi ve bazı ürünler için Section 232 muafiyeti getiriyor. Kısa vadede ilaç fiyatlarını ve sigorta primlerini yükseltmesi, uzun vadede ise tedarik zincirinin yeniden yapılandırılmasına yol açması bekleniyor.
+wixId: 7a8fe5ff-dce3-4367-8693-59ea4643b191
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD-AB ticaret
+- ilaç tarifeleri
+- yerli üretim
+- reshoring
+- tedarik zinciri
+- Section 232
+- Avrupa Birliği
 ---
 <p style="text-align: justify"><strong>ABD ile Avrupa Birliği’nin ilaç ticaretine ilişkin geçen yaz vardığı anlaşma</strong>, küresel ilaç sektöründe hem fiyatlama hem de üretim stratejileri açısından önemli bir dönüm noktasını temsil ediyor. Anlaşma, kısa vadede <strong>ilaç maliyetlerini yukarı çekecek</strong>, ancak uzun vadede <strong>sektörün coğrafi dağılımını ve üretim yapılarını derinden değiştirebilecek</strong> etkiler taşıyor.</p>
 <p><br></p>

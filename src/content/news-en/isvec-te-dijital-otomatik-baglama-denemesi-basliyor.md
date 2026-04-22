@@ -1,16 +1,24 @@
 ---
-title: "Digital Automatic Coupling Trial to Begin in Sweden"
-subtitle: "Digital Automatic Coupling Trial to Begin in Sweden"
-date: "2024-12-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3ef50158f246493ea388b07360c0b869~mv2.jpg"
-imageAlt: "Digital Automatic Coupling Trial to Begin in Sweden"
-wixId: "5633ac02-60d3-49c5-9edb-a34d03428181"
-author: "Sedat Onat"
+title: Digital Automatic Coupling Trial to Begin in Sweden
+subtitle: Digital Automatic Coupling Trial to Begin in Sweden
+date: '2024-12-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3ef50158f246493ea388b07360c0b869~mv2.jpg
+imageAlt: Digital Automatic Coupling Trial to Begin in Sweden
+wixId: 5633ac02-60d3-49c5-9edb-a34d03428181
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- digital automatic coupling
+- DAC
+- Sweden
+- rail transport
+- Voith
+- Dellner
+- steel transport
+- automation
 ---
-
 <p>Sweden is launching a two-year pilot project to test the resilience of <strong>Digital Automatic Coupling (DAC)</strong> technology in harsh weather conditions. The test train is planned to transport steel from SSAB's facility in Luleå to the production site in Borlänge, covering a distance of 1,000 kilometers.</p>
 <p><br></p>
 <p>The initiative involves Swedish infrastructure manager <strong>Trafikverket</strong>, state-owned railway operator <strong>Green Cargo</strong>, <strong>Lindholmen Science Park</strong>, <strong>Svensk Maskinprovning</strong>, and DAC coupling manufacturers <strong>Voith</strong> and <strong>Dellner</strong>. The trials will evaluate DAC's performance in extreme cold temperatures and will also be tested with heavy loads weighing 3,800 tonnes.</p>

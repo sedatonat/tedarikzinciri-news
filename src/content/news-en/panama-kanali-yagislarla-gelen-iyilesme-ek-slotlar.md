@@ -1,16 +1,22 @@
 ---
-title: "Panama Canal Shows Recovery with Rainfall: Additional Transit Slots Added"
-subtitle: "Panama Canal Shows Recovery with Rainfall: Additional Transit Slots Added"
-date: "2024-03-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_59dbb66aa8194f00be105736153ab39d~mv2.jpg"
-imageAlt: "Panama Canal Shows Recovery with Rainfall: Additional Transit Slots Added"
-wixId: "4c7789cb-7f2c-44c5-b8de-8aeabb2389fc"
-author: "Sedat Onat"
+title: 'Panama Canal Shows Recovery with Rainfall: Additional Transit Slots Added'
+subtitle: 'Panama Canal Shows Recovery with Rainfall: Additional Transit Slots Added'
+date: '2024-03-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_59dbb66aa8194f00be105736153ab39d~mv2.jpg
+imageAlt: 'Panama Canal Shows Recovery with Rainfall: Additional Transit Slots Added'
+wixId: 4c7789cb-7f2c-44c5-b8de-8aeabb2389fc
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Panama Canal
+- drought
+- transit slots
+- panamax locks
+- maritime shipping
+- ACP
 ---
-
 <p>Record-level drought at the <a href="https://en.wikipedia.org/wiki/Panama_Canal"><u>Panama Canal</u></a> has disrupted operations since June, but recent rainfall has brought signs of improvement.</p>
 <p><br></p>
 <p>The <a href="https://pancanal.com/en/"><u>Panama Canal Authority (ACP)</u></a> has added three extra slots, raising the maximum daily transits through the Panamax locks to 27. While this remains more than 10 below the canal's normal maximum, it signals that the worst of the drought may be behind us.</p>

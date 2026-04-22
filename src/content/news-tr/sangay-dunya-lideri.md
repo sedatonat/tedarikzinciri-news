@@ -1,14 +1,22 @@
 ---
-title: "Şanghay, 40 Milyon TEU’yu Aşarak Dünya Liderliğini Pekiştirdi"
-subtitle: "Şanghay, 40 Milyon TEU’yu Aşarak Dünya Liderliğini Pekiştirdi"
-date: "2025-11-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_90aee42c415a46608be38f2b5df84a9b~mv2.jpg"
-imageAlt: "Çin’in Şanghay Limanı, Eylül ayında 4.83 milyon TEU elleçleyerek 2025’te toplam 41.5 milyon TEU’ya ulaştı; Ningbo-Zhoushan ve diğer büyük Çin limanları da güçlü çift haneli büyüme kaydetti."
-wixId: "018af542-d715-4eb6-beb6-4cdcf7a0eae3"
-author: "Sedat Onat"
+title: Şanghay, 40 Milyon TEU’yu Aşarak Dünya Liderliğini Pekiştirdi
+subtitle: Şanghay, 40 Milyon TEU’yu Aşarak Dünya Liderliğini Pekiştirdi
+date: '2025-11-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_90aee42c415a46608be38f2b5df84a9b~mv2.jpg
+imageAlt: Çin’in Şanghay Limanı, Eylül ayında 4.83 milyon TEU elleçleyerek 2025’te toplam 41.5 milyon TEU’ya ulaştı; Ningbo-Zhoushan ve diğer büyük Çin limanları da güçlü çift haneli büyüme kaydetti.
+wixId: 018af542-d715-4eb6-beb6-4cdcf7a0eae3
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Şanghay Limanı
+- konteyner elleçleme
+- TEU
+- Çin limanları
+- Ningbo-Zhoushan
+- liman performansı
+- küresel lojistik
 ---
 <p style="text-align: justify">Çin’in kıyı şeridindeki büyük limanları, 2025’in son çeyreğine girilirken güçlü bir performans ortaya koymakta. Küresel lojistik ağlarında devam eden belirsizliğe rağmen, <strong>Şanghay Limanı</strong> yılın dokuz ayında <strong>40 milyon TEU eşiğini aşarak</strong> dünya liderliğini bir kez daha pekiştirdi.</p>
 <p><br></p>

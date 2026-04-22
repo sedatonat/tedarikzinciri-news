@@ -1,14 +1,21 @@
 ---
-title: "MRO Operasyonlarında Risk ve Stok Optimizasyonu Önem Kazanıyor"
-subtitle: "MRO Operasyonlarında Risk ve Stok Optimizasyonu Önem Kazanıyor"
-date: "2024-09-16T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_0652ef48fa14456b88d1b5dd31952ce3~mv2.jpg"
-imageAlt: "MRO Operasyonlarında Risk ve Stok Optimizasyonu Önem Kazanıyor"
-wixId: "75ecb56b-7297-4600-808b-96eb96836a47"
-author: "Sedat Onat"
+title: MRO Operasyonlarında Risk ve Stok Optimizasyonu Önem Kazanıyor
+subtitle: MRO Operasyonlarında Risk ve Stok Optimizasyonu Önem Kazanıyor
+date: '2024-09-16T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_0652ef48fa14456b88d1b5dd31952ce3~mv2.jpg
+imageAlt: MRO Operasyonlarında Risk ve Stok Optimizasyonu Önem Kazanıyor
+wixId: 75ecb56b-7297-4600-808b-96eb96836a47
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- MRO
+- stok optimizasyonu
+- risk yönetimi
+- yedek parça
+- yapay zeka
+- Verusen
 ---
 <p>MRO (Bakım, Onarım ve Operasyonlar) uzmanları, işletmelerin risk yönetimine ve stok optimizasyonuna daha fazla odaklanması gerektiğini vurguluyor. Verusen tarafından yapılan bir araştırmaya göre, katılımcıların %71’i MRO süreçlerinin stratejik bir inisiyatif olarak ele alınması gerektiğini düşünüyor. Ancak, yalnızca %58’i bu süreçlerin stratejik olarak yönetildiğini belirtiyor. Veriler, kritik yedek parçaların eksik planlanmasının operasyonel risklere neden olduğunu ve firmaların verimsiz stok yönetimi ve tutarsız veri formatlarıyla mücadele ettiğini ortaya koyuyor. Verusen CEO'su Scott Matthews, MRO'nun daha iyi yönetilmesinin işletmelere maliyet avantajı sağlayacağını belirtiyor.</p>
 <p><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "Amazon Places UK's Largest Ever Order for Electric Trucks"
-subtitle: "Amazon Places UK's Largest Ever Order for Electric Trucks"
-date: "2025-01-21T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_347f0e9b64e24b7f96194c94275b1348~mv2.jpg"
-imageAlt: "Amazon Places UK's Largest Ever Order for Electric Trucks"
-wixId: "db89ad88-952c-4200-bf9f-5878ddad1f6a"
-author: "Sedat Onat"
+title: Amazon Places UK's Largest Ever Order for Electric Trucks
+subtitle: Amazon Places UK's Largest Ever Order for Electric Trucks
+date: '2025-01-21T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_347f0e9b64e24b7f96194c94275b1348~mv2.jpg
+imageAlt: Amazon Places UK's Largest Ever Order for Electric Trucks
+wixId: db89ad88-952c-4200-bf9f-5878ddad1f6a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Amazon
+- electric truck
+- United Kingdom
+- sustainable logistics
+- carbon emissions
+- green transportation
+- Mercedes-Benz eActros
+- Volvo FM Electric
 ---
-
 <p style="text-align: justify">Amazon has placed the United Kingdom's largest-ever order for electric heavy-duty vehicles, aimed at reducing the carbon footprint of its delivery operations across the country. The company plans to add more than 140 <strong>Mercedes-Benz</strong> eActros 600 and eight <strong>Volvo</strong> FM Electric trucks to its fleet over the next 18 months, in addition to its existing fleet of nine electric heavy-duty vehicles.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">The order is part of Amazon's £300 million green transport investment announced in 2022, which includes a target of 700 electric heavy-duty vehicles by 2025. However, the transition to electric heavy-duty vehicles across the sector is slowing due to inadequate public infrastructure, high costs, and range concerns. According to the Road Haulage Association, only 300 of the UK's 500,000-strong truck fleet are electric.</p>

@@ -1,16 +1,23 @@
 ---
-title: "Warehouse Thefts Strain Supply Chains"
-subtitle: "Warehouse Thefts Strain Supply Chains"
-date: "2023-12-09T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_07e4f8905d2446a1a5788a46487666c1~mv2.jpg"
-imageAlt: "Warehouse Thefts Strain Supply Chains"
-wixId: "3a39830f-8ffa-4375-bda0-5118ced17732"
-author: "Sedat Onat"
+title: Warehouse Thefts Strain Supply Chains
+subtitle: Warehouse Thefts Strain Supply Chains
+date: '2023-12-09T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_07e4f8905d2446a1a5788a46487666c1~mv2.jpg
+imageAlt: Warehouse Thefts Strain Supply Chains
+wixId: 3a39830f-8ffa-4375-bda0-5118ced17732
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- retail theft
+- supply chain
+- inventory management
+- organized retail crime
+- AI
+- warehouse security
+- gross profit margin
 ---
-
 <p>Theft has become a nightmare for retail giants, emerging as a major source of concern. From everyday items to large-scale heists orchestrated by organized crime, various forms of theft are creating a serious problem in a sector already struggling with supply chain disruptions and store inventory challenges.</p>
 <p><br></p>
 <p>As a concrete example of this issue, <a href="https://www.dollartree.com/"><u>Dollar Tree</u></a> attributed the drop in gross profit margin from 32.7% in 2022 to 29.8% in the last quarter to "shrinkage." Following this, Dollar Tree CEO Richard Dreiling and CFO Jeffrey Davis announced they would implement certain measures to reduce theft, including moving specific products to checkout lanes and discounting items that are frequently stolen in some stores.</p>

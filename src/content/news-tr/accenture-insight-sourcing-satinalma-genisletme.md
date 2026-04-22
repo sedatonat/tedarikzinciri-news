@@ -1,14 +1,22 @@
 ---
-title: "Accenture, Kaynak ve Satın Alma Alanında Büyüyor: Insight Sourcing’i Bünyesine Katıyor"
-subtitle: "Accenture, Kaynak ve Satın Alma Alanında Büyüyor: Insight Sourcing’i Bünyesine Katıyor"
-date: "2024-02-13T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_2218dd51b6224125973d27ebf1caee64~mv2.jpg"
-imageAlt: "Accenture, Kaynak ve Satın Alma Alanında Büyüyor: Insight Sourcing’i Bünyesine Katıyor"
-wixId: "b05103ff-8b36-46d1-8c6f-676c9719da6b"
-author: "Sedat Onat"
+title: 'Accenture, Kaynak ve Satın Alma Alanında Büyüyor: Insight Sourcing’i Bünyesine Katıyor'
+subtitle: 'Accenture, Kaynak ve Satın Alma Alanında Büyüyor: Insight Sourcing’i Bünyesine Katıyor'
+date: '2024-02-13T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_2218dd51b6224125973d27ebf1caee64~mv2.jpg
+imageAlt: 'Accenture, Kaynak ve Satın Alma Alanında Büyüyor: Insight Sourcing’i Bünyesine Katıyor'
+wixId: b05103ff-8b36-46d1-8c6f-676c9719da6b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Accenture
+- Insight Sourcing
+- satın alma
+- tedarik zinciri
+- özel sermaye
+- stratejik kaynak
+- maliyet optimizasyonu
 ---
 <p><a href="https://www.accenture.com/us-en"><u>Accenture</u></a>, stratejik kaynak ve satın alma hizmetleri sağlayan Atlanta merkezli Stratejik Sourcing firması <a href="https://www.insightsourcing.com/"><u>Insight Sourcing</u></a> 'i satın alacağını duyurdu.&nbsp;</p>
 <p><br></p>

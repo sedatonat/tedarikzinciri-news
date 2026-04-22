@@ -1,14 +1,22 @@
 ---
-title: "Barselona Limanı 265 Milyon Avroluk Yeni Demiryolu Merkeziyle Karbonsuz Lojistikte Vites Yükseltiyor"
-subtitle: "Barselona Limanı 265 Milyon Avroluk Yeni Demiryolu Merkeziyle Karbonsuz Lojistikte Vites Yükseltiyor"
-date: "2025-12-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9b5e26dbe01a4a68b292e6daa04f72e5~mv2.jpg"
-imageAlt: "Barselona Limanı’nın eski Llobregat nehir yatağını dönüştürerek inşa edeceği 265 milyon avroluk yeni South Rail Hub projesi, modal shift stratejisi, karbon azaltımı ve Avrupa lojistik altyapısına etkileri üzerine detaylı haber özeti"
-wixId: "18b6b912-e81e-47e0-bcac-9d5e99ef71b6"
-author: "Sedat Onat"
+title: Barselona Limanı 265 Milyon Avroluk Yeni Demiryolu Merkeziyle Karbonsuz Lojistikte Vites Yükseltiyor
+subtitle: Barselona Limanı 265 Milyon Avroluk Yeni Demiryolu Merkeziyle Karbonsuz Lojistikte Vites Yükseltiyor
+date: '2025-12-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_9b5e26dbe01a4a68b292e6daa04f72e5~mv2.jpg
+imageAlt: Barselona Limanı’nın eski Llobregat nehir yatağını dönüştürerek inşa edeceği 265 milyon avroluk yeni South Rail Hub projesi, modal shift stratejisi, karbon azaltımı ve Avrupa lojistik altyapısına etkileri üzerine detaylı haber özeti
+wixId: 18b6b912-e81e-47e0-bcac-9d5e99ef71b6
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Barselona Limanı
+- demiryolu lojistiği
+- dekarbonizasyon
+- intermodal taşımacılık
+- modal shift
+- sürdürülebilir liman
+- altyapı yatırımı
 ---
 <p style="text-align: justify">2025 lojistik trendlerinde güvenlik riskleri öne çıkarken, Avrupa’nın diğer kritik ekseni <strong>agresif altyapı yatırımlarıyla desteklenen hızlı dekarbonizasyon</strong> olmaya devam ediyor. Bu kapsamda <strong>Port of Barcelona</strong>, Akdeniz havzasının en büyük lojistik dönüşümlerinden birini başlatmak üzere <strong>265 milyon avroluk South Rail Hub</strong> projesi için nihai onayı aldı. Katalonya yönetimi tarafından <strong>Urban Master Plan</strong> onayının verilmesi, limanın yıllardır hazırlığını yaptığı geniş ölçekli demiryolu dönüşümünü resmen başlatmakta.</p>
 <p><br></p>

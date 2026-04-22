@@ -1,16 +1,23 @@
 ---
-title: "U.S. Lifts Moratorium on New LNG Export Licenses"
-subtitle: "U.S. Lifts Moratorium on New LNG Export Licenses"
-date: "2025-01-21T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/fb82545edb1641db909d551d5f65382b.jpg"
-imageAlt: "U.S. Lifts Moratorium on New LNG Export Licenses"
-wixId: "54b6b9f0-3d0e-4a1b-9c48-a2c566af8683"
-author: "Sedat Onat"
+title: U.S. Lifts Moratorium on New LNG Export Licenses
+subtitle: U.S. Lifts Moratorium on New LNG Export Licenses
+date: '2025-01-21T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/fb82545edb1641db909d551d5f65382b.jpg
+imageAlt: U.S. Lifts Moratorium on New LNG Export Licenses
+wixId: 54b6b9f0-3d0e-4a1b-9c48-a2c566af8683
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- LNG exports
+- United States
+- Donald Trump
+- energy policy
+- natural gas
+- global energy market
+- geopolitics
 ---
-
 <p style="text-align: justify">U.S. President Donald Trump has lifted the moratorium on new licenses for liquefied natural gas (<strong>LNG</strong>) exports, fulfilling a campaign promise. This move signals a significant shift in U.S. energy policy and has the potential to influence global energy markets.​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Shift in Energy Policy</strong></p>

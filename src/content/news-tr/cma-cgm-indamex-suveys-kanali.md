@@ -1,14 +1,22 @@
 ---
-title: "CMA CGM, INDAMEX Servisinde Süveyş Kanalı Üzerinden Tam Döngü Geçişlere Dönüyor"
-subtitle: "CMA CGM, INDAMEX Servisinde Süveyş Kanalı Üzerinden Tam Döngü Geçişlere Dönüyor"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_130ffae4c75b42e2a7c7b0f96ac1ee72~mv2.jpg"
-imageAlt: "CMA CGM’in INDAMEX hattında hem fronthaul hem backhaul için Süveyş'e tam dönüş kararı, transit süresi etkileri, kapasite azaltımı, piyasa fiyatlaması ve Red Sea risk ortamındaki sektörel yansımaların detaylı özeti"
-wixId: "3e9bc462-025e-4c21-864d-0eb703ab2d36"
-author: "Sedat Onat"
+title: CMA CGM, INDAMEX Servisinde Süveyş Kanalı Üzerinden Tam Döngü Geçişlere Dönüyor
+subtitle: CMA CGM, INDAMEX Servisinde Süveyş Kanalı Üzerinden Tam Döngü Geçişlere Dönüyor
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_130ffae4c75b42e2a7c7b0f96ac1ee72~mv2.jpg
+imageAlt: CMA CGM’in INDAMEX hattında hem fronthaul hem backhaul için Süveyş'e tam dönüş kararı, transit süresi etkileri, kapasite azaltımı, piyasa fiyatlaması ve Red Sea risk ortamındaki sektörel yansımaların detaylı özeti
+wixId: 3e9bc462-025e-4c21-864d-0eb703ab2d36
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CMA CGM
+- Süveyş Kanalı
+- Kızıldeniz
+- konteyner taşımacılığı
+- INDAMEX
+- navlun oranları
+- deniz güvenliği
 ---
 <p style="text-align: justify"><strong>CMA CGM</strong>, 2025 sonunda yaptığı duyuruyla <strong>INDAMEX</strong> hizmetinde önemli bir stratejik değişiklik başlattı: Hat, artık hem <strong>fronthaul</strong> (India/Pakistan → US East Coast) hem de <strong>backhaul</strong> (US East Coast → India/Pakistan) yönlerinde <strong>Süveyş Kanalı</strong> üzerinden tam döngü geçiş yapacak. Bu karar, 2023 sonundan itibaren dron tehditleri nedeniyle Kızıldeniz’de yaşanan güvenlik sorunları sonrası büyük taşıyıcıların temkinli duruşuna karşı dikkat çekici bir “erken dönüş” adımı olarak görülmekte.</p>
 <p><br></p>

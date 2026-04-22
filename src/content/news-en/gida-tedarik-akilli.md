@@ -1,16 +1,24 @@
 ---
-title: "The Role of Smart Labels in Food Supply Chains"
-subtitle: "The Role of Smart Labels in Food Supply Chains"
-date: "2025-01-10T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_4740d6265a4149d7aef1dc0747eb27fd~mv2.jpg"
-imageAlt: "The Role of Smart Labels in Food Supply Chains"
-wixId: "af516186-78c6-4bb1-af7f-5cc83660358e"
-author: "Sedat Onat"
+title: The Role of Smart Labels in Food Supply Chains
+subtitle: The Role of Smart Labels in Food Supply Chains
+date: '2025-01-10T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_4740d6265a4149d7aef1dc0747eb27fd~mv2.jpg
+imageAlt: The Role of Smart Labels in Food Supply Chains
+wixId: af516186-78c6-4bb1-af7f-5cc83660358e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- smart label
+- food supply chain
+- IoT
+- RFID
+- traceability
+- Giesecke+Devrient
+- FDA
+- sensor technology
 ---
-
 <p style="text-align: justify">Global security technology company <strong>Giesecke+Devrient (G+D)</strong> has developed a new smart label designed to enable more effective tracking of agricultural products in supply chains. The label is particularly being used to monitor fruits and vegetables and aims to help agricultural stakeholders cope with the growing number of food recalls in the United States. Additionally, some food processors and distributors must comply with record-keeping and traceability measures mandated by the <strong>Food and Drug Administration (FDA)</strong>, which will take effect in 2026 and enable faster detection of contaminated food in the market.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>G+D Smart Label</strong> is designed as an adhesive label slightly larger than a credit card and converts any package into an Internet of Things (IoT) device that delivers advanced shipment visibility, security, and accountability. <strong>Sharath Muddaiah</strong>, Head of IoT Solutions Portfolio Strategy at <strong>G+D</strong>, stated that they hope these labels will serve as a cost-effective and simple solution that provides customers with a single point of contact for IoT solutions. The labels feature advanced technology sensors capable of tracking movement, temperature, and tampering, provide automatic proof of delivery, and can be used across many sectors, including agriculture. Food companies can use this data to address shipping challenges and gain a better understanding of their products' condition throughout the value chain.</p>

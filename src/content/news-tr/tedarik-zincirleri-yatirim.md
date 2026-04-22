@@ -1,14 +1,23 @@
 ---
-title: "Tedarik Zincirleri Yalnızca Tarifelere Tepki Vermemeli, Aynı Zamanda Yatırım Yapmalı"
-subtitle: "Tedarik Zincirleri Yalnızca Tarifelere Tepki Vermemeli, Aynı Zamanda Yatırım Yapmalı"
-date: "2025-02-07T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a65782cccbd848bbb1a48d6110ba7cde~mv2.jpg"
-imageAlt: "Tedarik Zincirleri Yalnızca Tarifelere Tepki Vermemeli, Aynı Zamanda Yatırım Yapmalı"
-wixId: "0f1b60b4-75a2-4c11-8f03-2a442794132d"
-author: "Sedat Onat"
+title: Tedarik Zincirleri Yalnızca Tarifelere Tepki Vermemeli, Aynı Zamanda Yatırım Yapmalı
+subtitle: Tedarik Zincirleri Yalnızca Tarifelere Tepki Vermemeli, Aynı Zamanda Yatırım Yapmalı
+date: '2025-02-07T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_a65782cccbd848bbb1a48d6110ba7cde~mv2.jpg
+imageAlt: Tedarik Zincirleri Yalnızca Tarifelere Tepki Vermemeli, Aynı Zamanda Yatırım Yapmalı
+wixId: 0f1b60b4-75a2-4c11-8f03-2a442794132d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tarifeler
+- tedarik zinciri
+- yapay zeka
+- stratejik yatırım
+- PwC
+- Gartner
+- moda sektörü
+- KOBİ
 ---
 <p style="text-align: justify">Son yıllarda, küresel ticaret politikalarında yaşanan dalgalanmalar ve özellikle tarifelerdeki değişiklikler, tedarik zincirlerini önemli ölçüde etkilemektedir. Bu durum, şirketlerin sadece tarifelere tepki vermek yerine, uzun vadeli stratejik yatırımlar yapmalarının gerekliliğini ortaya koymaktadır. <strong>PwC</strong> operasyon dönüşüm ortağı <strong>Carla DeSantis</strong>, başarılı işletmelerin kritik tedarik zinciri veya değer zinciri kararlarını yalnızca tarifelerin etkisine dayandırmamaları gerektiğini vurgulamaktadır.​</p>
 <p><br></p>

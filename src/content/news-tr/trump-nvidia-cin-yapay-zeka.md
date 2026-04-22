@@ -1,14 +1,22 @@
 ---
-title: "Trump, Nvidia’nın Gelişmiş Yapay Zekâ Çiplerini Çin’e Satmasına Onay Veriyor"
-subtitle: "Trump, Nvidia’nın Gelişmiş Yapay Zekâ Çiplerini Çin’e Satmasına Onay Veriyor"
-date: "2025-12-09T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_ee880828c96e401cb8a5ad99de219a28~mv2.jpg"
-imageAlt: "Trump yönetiminin Nvidia’ya H200 yapay zekâ çiplerini sınırlı Çinli müşterilere satma izni vermesi, %25 gelir paylaşımı modeli, ihracat kontrollerinde yeni yaklaşım ve ABD–Çin teknoloji ticaretine etkilerinin detaylı özeti"
-wixId: "c9530947-380d-4a79-811d-580213530257"
-author: "Sedat Onat"
+title: Trump, Nvidia’nın Gelişmiş Yapay Zekâ Çiplerini Çin’e Satmasına Onay Veriyor
+subtitle: Trump, Nvidia’nın Gelişmiş Yapay Zekâ Çiplerini Çin’e Satmasına Onay Veriyor
+date: '2025-12-09T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_ee880828c96e401cb8a5ad99de219a28~mv2.jpg
+imageAlt: Trump yönetiminin Nvidia’ya H200 yapay zekâ çiplerini sınırlı Çinli müşterilere satma izni vermesi, %25 gelir paylaşımı modeli, ihracat kontrollerinde yeni yaklaşım ve ABD–Çin teknoloji ticaretine etkilerinin detaylı özeti
+wixId: c9530947-380d-4a79-811d-580213530257
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Nvidia
+- yapay zeka çipleri
+- Çin
+- ihracat kontrolü
+- yarı iletken
+- Trump
+- teknoloji ticareti
 ---
 <p style="text-align: justify">ABD Başkanı <strong>Donald Trump</strong>, ABD merkezli yarı iletken üreticisi <strong>Nvidia</strong>’nın belirli koşullar altında Çin’deki bazı müşterilere <strong>gelişmiş yapay zekâ (AI) çipleri</strong> satmasına izin verileceğini açıkladı. <strong>BBC News</strong>’e göre karar kapsamında Nvidia, <strong>H200 AI chips</strong> modelini yalnızca Washington tarafından onaylanan sınırlı sayıdaki Çinli alıcıya satabilecek. Buna karşılık ABD hükümeti, bu satışlardan elde edilen gelirin <strong>%25’ini</strong> doğrudan alacak.</p>
 <p><br></p>

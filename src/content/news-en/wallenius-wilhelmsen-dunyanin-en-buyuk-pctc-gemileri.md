@@ -1,16 +1,23 @@
 ---
-title: "Wallenius Wilhelmsen to Build World's Largest PCTC Vessels"
-subtitle: "Wallenius Wilhelmsen to Build World's Largest PCTC Vessels"
-date: "2024-09-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b79c188e9c454c3bb6a6881dee143eae~mv2.jpg"
-imageAlt: "Wallenius Wilhelmsen to Build World's Largest PCTC Vessels"
-wixId: "fde3d8e5-3211-4fb7-b517-13a6df4b8b41"
-author: "Sedat Onat"
+title: Wallenius Wilhelmsen to Build World's Largest PCTC Vessels
+subtitle: Wallenius Wilhelmsen to Build World's Largest PCTC Vessels
+date: '2024-09-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b79c188e9c454c3bb6a6881dee143eae~mv2.jpg
+imageAlt: Wallenius Wilhelmsen to Build World's Largest PCTC Vessels
+wixId: fde3d8e5-3211-4fb7-b517-13a6df4b8b41
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Wallenius Wilhelmsen
+- PCTC vessel
+- methanol fuel
+- sustainability
+- shipbuilding
+- vehicle transport
+- net-zero
 ---
-
 <p>Wallenius Wilhelmsen has announced that it will increase the capacity of 4 of its 12 Shaper Class vessels ordered with Jinling Shipyard (Jiangsu) from 9,300 CEU to approximately 11,700 CEU. These vessels will be the largest Pure Car, Truck Carrier (PCTC) ships ever deployed and will form the maritime component of the company's integrated net-zero service to be rolled out to customers from 2027 onwards.</p>
 <p><br></p>
 <p>Through this comprehensive service, the company plans to cover all stages of finished vehicle transportation from factory to end consumer. To achieve this goal, it intends to effectively leverage its existing land-based logistics and transport network.</p>

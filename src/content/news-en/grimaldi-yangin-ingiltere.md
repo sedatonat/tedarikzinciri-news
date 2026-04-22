@@ -1,16 +1,23 @@
 ---
-title: "Engine Room Fire Causes Power Loss on Grimaldi Car Carrier"
-subtitle: "Engine Room Fire Causes Power Loss on Grimaldi Car Carrier"
-date: "2025-10-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c008c82aab8f416eacf14847ced8284a~mv2.jpg"
-imageAlt: "An engine room fire broke out on Grande Roma, a car carrier operated by Grimaldi Euromed, at the exit of the English Channel. Thanks to the swift response of the crew, no injuries or environmental pollution occurred, and the vessel is being towed to Le Havre Port under escort of the Abeille Liberté tugboat."
-wixId: "a5d5659d-0953-41da-a78a-beee28cd604f"
-author: "Sedat Onat"
+title: Engine Room Fire Causes Power Loss on Grimaldi Car Carrier
+subtitle: Engine Room Fire Causes Power Loss on Grimaldi Car Carrier
+date: '2025-10-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c008c82aab8f416eacf14847ced8284a~mv2.jpg
+imageAlt: An engine room fire broke out on Grande Roma, a car carrier operated by Grimaldi Euromed, at the exit of the English Channel. Thanks to the swift response of the crew, no injuries or environmental pollution occurred, and the vessel is being towed to Le Havre Port under escort of the Abeille Liberté tugboat.
+wixId: a5d5659d-0953-41da-a78a-beee28cd604f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Grimaldi
+- car carrier
+- engine room fire
+- ro-ro
+- English Channel
+- tugboat
+- maritime accident
 ---
-
 <p style="text-align: justify"><strong>Grande Roma</strong>, a car carrier operated by <strong>Grimaldi Euromed</strong>, lost <strong>propulsion power</strong> following an <strong>engine room fire that broke out at the exit of the English Channel on the night of 25 October 2025</strong>. The incident occurred around <strong>22:00 local time</strong>. According to a statement from the company, the fire started in the <strong>engine room of the vessel</strong>, which was <strong>built in 2003, flying the Italian flag, with a capacity of 5,379 vehicle units (CEU)</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">Upon detection of the fire, the crew promptly <strong>activated the carbon dioxide (CO₂) suppression system</strong> and initiated <strong>bulkhead cooling</strong> operations. The captain confirmed that <strong>no crew members were injured</strong> and that <strong>there was no spillage or pollution at sea</strong>. However, as the vessel's <strong>propulsion system was completely disabled</strong>, Grimaldi activated its <strong>emergency response team</strong> and requested the <strong>chartering of an appropriate tugboat</strong>.</p>

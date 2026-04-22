@@ -1,16 +1,24 @@
 ---
-title: "Does Human Labour Still Matter in Automated Warehouses?"
-subtitle: "Does Human Labour Still Matter in Automated Warehouses?"
-date: "2025-12-15T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_d2e2ac7b51c145fca9e64c00aaf512f1~mv2.jpg"
-imageAlt: "A comprehensive industry assessment examining how human labour is being transformed in modern warehouses where automation, robotics and AI investments are accelerating, which roles are disappearing, and what new competencies are emerging"
-wixId: "2525e3fa-5577-4582-bf2e-e00744d6abdc"
-author: "Sedat Onat"
+title: Does Human Labour Still Matter in Automated Warehouses?
+subtitle: Does Human Labour Still Matter in Automated Warehouses?
+date: '2025-12-15T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_d2e2ac7b51c145fca9e64c00aaf512f1~mv2.jpg
+imageAlt: A comprehensive industry assessment examining how human labour is being transformed in modern warehouses where automation, robotics and AI investments are accelerating, which roles are disappearing, and what new competencies are emerging
+wixId: 2525e3fa-5577-4582-bf2e-e00744d6abdc
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- warehouse automation
+- artificial intelligence
+- AMR
+- workforce
+- robotics
+- WMS
+- cobots
+- supply chain
 ---
-
 <p style="text-align: justify">Investments in <strong>automation</strong>, <strong>robotics</strong> and <strong>artificial intelligence (AI)</strong> in warehouse operations are accelerating. While this transformation reinforces the perception that the human factor is being increasingly sidelined, industry data and expert opinion point to a more complex picture. An analysis published by <strong>Modern Materials Handling</strong> shows that in the automation age, the role of humans in warehouses is not disappearing but is undergoing fundamental change.</p>
 <p><br></p>
 <p style="text-align: justify">According to <strong>U.S. Bureau of Labor Statistics (BLS)</strong> data, the number of people employed in U.S. warehouses reached <strong>1.83 million</strong> as of August 2025. This figure represents a significant increase compared to <strong>628,000</strong> in 2010 and <strong>510,000</strong> in 2000. By contrast, manufacturing employment declined sharply during the same period. Manufacturing employment, which was approximately <strong>20 million</strong> in the 1990s, fell to <strong>12.7 million</strong> as of 2025. This inverse trend demonstrates that warehouse operations are assuming an increasingly central role in the economy.</p>

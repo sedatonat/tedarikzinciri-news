@@ -1,14 +1,22 @@
 ---
-title: "Aşırı Hava Olayı Risklerini En Aza İndirmek"
-subtitle: "Aşırı Hava Olayı Risklerini En Aza İndirmek"
-date: "2025-05-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_9dd10aab313542bfae427f40d3a4ec5f~mv2.png"
-imageAlt: "Aşırı Hava Olayı Risklerini En Aza İndirmek"
-wixId: "9be5e3d0-dc61-4d45-aa22-ae64094b0ad4"
-author: "Sedat Onat"
+title: Aşırı Hava Olayı Risklerini En Aza İndirmek
+subtitle: Aşırı Hava Olayı Risklerini En Aza İndirmek
+date: '2025-05-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_9dd10aab313542bfae427f40d3a4ec5f~mv2.png
+imageAlt: Aşırı Hava Olayı Risklerini En Aza İndirmek
+wixId: 9be5e3d0-dc61-4d45-aa22-ae64094b0ad4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- aşırı hava olayları
+- iklim dayanıklılığı
+- risk yönetimi
+- yapay zeka
+- erken uyarı sistemi
+- çoklu tedarik
+- iş sürekliliği
 ---
 <p style="text-align: justify"><strong>Aşırı hava olayları</strong>, küresel ölçekte <strong>tedarik zinciri ve lojistik ağlarını</strong> giderek daha sık kesintiye uğratıyor. Sel, fırtına, yangın ve aşırı sıcaklık gibi iklim olaylarının etkileri, sadece taşımacılığı değil; üretim, depolama ve tedarik planlamasını da doğrudan etkiliyor. Bu durum, şirketlerin <strong>iklim dayanıklılığı (climate resilience)</strong> stratejilerini yeniden şekillendirmesine yol açmakta.</p>
 <p style="text-align: justify"><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "US Steel Modernizes Procurement Processes with AI-Powered Platform"
-subtitle: "US Steel Modernizes Procurement Processes with AI-Powered Platform"
-date: "2025-01-03T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_3762afd5d88d4464b7d6257890ec02e6~mv2.jpg"
-imageAlt: "US Steel Modernizes Procurement Processes with AI-Powered Platform"
-wixId: "b35be7f2-3929-49c8-a524-2790057d9641"
-author: "Sedat Onat"
+title: US Steel Modernizes Procurement Processes with AI-Powered Platform
+subtitle: US Steel Modernizes Procurement Processes with AI-Powered Platform
+date: '2025-01-03T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_3762afd5d88d4464b7d6257890ec02e6~mv2.jpg
+imageAlt: US Steel Modernizes Procurement Processes with AI-Powered Platform
+wixId: b35be7f2-3929-49c8-a524-2790057d9641
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- US Steel
+- artificial intelligence
+- GEP Software
+- sourcing process
+- procurement
+- supplier risk management
+- digital supply chain
+- steel production
 ---
-
 <p style="text-align: justify">US Steel is restructuring direct and indirect procurement operations by leveraging the AI-powered <strong>GEP Software</strong> platform to modernize its supply chain processes. The Pittsburgh-based steelmaker previously relied on manual processes and siloed systems that constrained standardization and demand-driven scalability.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Through the new <strong>GEP</strong> digital procurement and supply chain platform, US Steel aims to enhance operational efficiency and visibility by integrating external intelligence into its purchasing processes, particularly for direct materials and commodities. The software also enables cost modeling to support strategic decision-making.</p>

@@ -1,14 +1,23 @@
 ---
-title: "Biden Yönetimi \"Tedarik Zinciri Destek Politikaları\" Paketini açıkladı"
-subtitle: "Biden Yönetimi \"Tedarik Zinciri Destek Politikaları\" Paketini açıkladı"
-date: "2023-11-27T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_9d70a21285e342f2b29fa15adb385700~mv2.jpg"
-imageAlt: "Biden Yönetimi \"Tedarik Zinciri Destek Politikaları\" Paketini açıkladı"
-wixId: "173a8a24-e292-4b98-8ea4-a2bf15cb5d7a"
-author: "Sedat Onat"
+title: Biden Yönetimi "Tedarik Zinciri Destek Politikaları" Paketini açıkladı
+subtitle: Biden Yönetimi "Tedarik Zinciri Destek Politikaları" Paketini açıkladı
+date: '2023-11-27T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_9d70a21285e342f2b29fa15adb385700~mv2.jpg
+imageAlt: Biden Yönetimi "Tedarik Zinciri Destek Politikaları" Paketini açıkladı
+wixId: 173a8a24-e292-4b98-8ea4-a2bf15cb5d7a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Biden yönetimi
+- tedarik zinciri dayanıklılığı
+- Beyaz Saray
+- yapay zeka
+- kritik maddeler
+- ilaç üretimi
+- liman güvenliği
+- veri paylaşımı
 ---
 <p>Biden Yönetimi, Amerika'nın tedarik zincirlerini güçlendirmeyi, aileler için maliyetleri düşürmeyi ve önemli sektörleri güvence altına almaya yönelik geniş kapsamlı yeni politikaları hayata geçirme planında bulunuyor. Beyaz Saray, bu planın ayrıntılarını bugün yeni bir Beyaz Saray Supply Chain Resilience Konseyi'nin ilk toplantısında duyurulacak olan 30'dan fazla yeni önlemi içereceğini belirtti.</p>
 <p><br></p>

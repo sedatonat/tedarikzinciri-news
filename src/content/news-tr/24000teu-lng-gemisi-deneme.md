@@ -1,14 +1,22 @@
 ---
-title: "24.000 TEU LNG Yakıtlı Konteyner Gemisi Denemeleri Tamamladı"
-subtitle: "24.000 TEU LNG Yakıtlı Konteyner Gemisi Denemeleri Tamamladı"
-date: "2025-03-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_58d752d3893f41ac918c0ee8843f2028~mv2.jpg"
-imageAlt: "24.000 TEU LNG Yakıtlı Konteyner Gemisi Denemeleri Tamamladı"
-wixId: "de208625-e5ef-454b-820f-166756ac00bb"
-author: "Sedat Onat"
+title: 24.000 TEU LNG Yakıtlı Konteyner Gemisi Denemeleri Tamamladı
+subtitle: 24.000 TEU LNG Yakıtlı Konteyner Gemisi Denemeleri Tamamladı
+date: '2025-03-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_58d752d3893f41ac918c0ee8843f2028~mv2.jpg
+imageAlt: 24.000 TEU LNG Yakıtlı Konteyner Gemisi Denemeleri Tamamladı
+wixId: de208625-e5ef-454b-820f-166756ac00bb
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CMA CGM
+- LNG yakıtlı gemi
+- konteyner gemisi
+- 24.000 TEU
+- çift yakıtlı
+- deniz denemeleri
+- sürdürülebilirlik
 ---
 <p style="text-align: justify">Fransız denizcilik devi <a href="https://www.cma-cgm.com/"><u><strong>CMA CGM Group</strong></u></a>, sipariş ettiği dört adet 24.000 TEU kapasiteli çift yakıtlı konteyner gemisinin ilkini teslim aldı. Bu yeni nesil gemi, sıvılaştırılmış doğal gaz (<strong>LNG</strong>) ile çalışmakta olup, denizcilik sektöründe çevre dostu teknolojilerin benimsenmesine öncülük etmekte. ​</p>
 <p><br></p>

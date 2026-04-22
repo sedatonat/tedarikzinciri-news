@@ -1,16 +1,23 @@
 ---
-title: "Container Lines Expected to Sustain Profitability in 2025"
-subtitle: "Container Lines Expected to Sustain Profitability in 2025"
-date: "2024-12-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ac4cce78292d4be48b69c5810be5f15d~mv2.jpg"
-imageAlt: "Container Lines Expected to Sustain Profitability in 2025"
-wixId: "f911df52-d774-40f5-9d78-2b01bbde11a5"
-author: "Sedat Onat"
+title: Container Lines Expected to Sustain Profitability in 2025
+subtitle: Container Lines Expected to Sustain Profitability in 2025
+date: '2024-12-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_ac4cce78292d4be48b69c5810be5f15d~mv2.jpg
+imageAlt: Container Lines Expected to Sustain Profitability in 2025
+wixId: f911df52-d774-40f5-9d78-2b01bbde11a5
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- container shipping
+- Suez Canal
+- Maersk
+- Hapag-Lloyd
+- Red Sea
+- port strike
+- maritime shipping
 ---
-
 <p>The container shipping sector is preparing to maintain profitability in 2025. Analysts anticipate that despite overcapacity in maritime transport, diversions through the Suez Canal and healthy volumes will keep vessel supply tight.</p>
 <p><br></p>
 <p>Container shipping attracted attention for its high profitability in 2024. This trend is expected to continue in 2025. Geopolitical factors are increasing demand by absorbing excess supply. Particularly on the trans-Pacific route, healthy volumes will keep vessel supply tight, allowing annual fixed-rate contracts on major eastbound-westbound routes originating from Asia to exceed 2024 levels.</p>

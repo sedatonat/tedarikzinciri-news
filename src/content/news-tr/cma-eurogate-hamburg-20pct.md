@@ -1,14 +1,23 @@
 ---
-title: "CMA CGM, Hamburg’daki EUROGATE Terminalinde %20 Hisse Alarak Intermodal Ağını Güçlendiriyor"
-subtitle: "CMA CGM, Hamburg’daki EUROGATE Terminalinde %20 Hisse Alarak Intermodal Ağını Güçlendiriyor"
-date: "2025-11-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0a399391c9fb498790a5dae32df48867~mv2.jpg"
-imageAlt: "CMA CGM, EUROGATE Container Terminal Hamburg (CTH)’de %20 hisse alarak terminal kapasitesinin 4 milyon TEU’dan 6 milyon TEU’ya çıkarılacağı Western Expansion projesine ortak oldu; şirket bu adımla dikey entegre lojistik stratejisini daha da derinleştiriyor."
-wixId: "355eabc4-8e54-4757-846e-46b1def37de9"
-author: "Sedat Onat"
+title: CMA CGM, Hamburg’daki EUROGATE Terminalinde %20 Hisse Alarak Intermodal Ağını Güçlendiriyor
+subtitle: CMA CGM, Hamburg’daki EUROGATE Terminalinde %20 Hisse Alarak Intermodal Ağını Güçlendiriyor
+date: '2025-11-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0a399391c9fb498790a5dae32df48867~mv2.jpg
+imageAlt: CMA CGM, EUROGATE Container Terminal Hamburg (CTH)’de %20 hisse alarak terminal kapasitesinin 4 milyon TEU’dan 6 milyon TEU’ya çıkarılacağı Western Expansion projesine ortak oldu; şirket bu adımla dikey entegre lojistik stratejisini daha da derinleştiriyor.
+wixId: 355eabc4-8e54-4757-846e-46b1def37de9
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CMA CGM
+- EUROGATE
+- Hamburg Limanı
+- intermodal taşımacılık
+- dikey entegrasyon
+- terminal yatırımı
+- konteyner terminali
+- Avrupa lojistiği
 ---
 <p style="text-align: justify">CMA CGM, Avrupa’daki intermodal kapasitesini büyütme stratejisi doğrultusunda <strong>EUROGATE Container Terminal Hamburg (CTH)</strong>’de <strong>%20 hisse</strong> aldığını doğruladı. Hamburg’un en büyük konteyner tesislerinden biri olan CTH, yılda <strong>4 milyon TEU</strong> elleçleme kapasitesine sahip. Önümüzdeki yıllarda uygulanacak <strong>Western Expansion</strong> projesiyle terminalin kapasitesinin <strong>6 milyon TEU’ya</strong> çıkarılması hedefleniyor.</p>
 <p><br></p>

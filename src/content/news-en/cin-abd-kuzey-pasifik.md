@@ -1,16 +1,23 @@
 ---
-title: "Chinese Research Vessels and U.S. Military Activities Surge in North Pacific"
-subtitle: "Chinese Research Vessels and U.S. Military Activities Surge in North Pacific"
-date: "2025-11-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e97eb940835a44308a99799befef8662~mv2.jpg"
-imageAlt: "According to data from the Pacific Center for Island Security, Chinese space-missile tracking and submarine mapping vessels are active in the North Pacific; during the same period, the U.S. intensified multilateral military exercises in the region."
-wixId: "bb508a08-afca-4de8-aa1c-803be51c4790"
-author: "Sedat Onat"
+title: Chinese Research Vessels and U.S. Military Activities Surge in North Pacific
+subtitle: Chinese Research Vessels and U.S. Military Activities Surge in North Pacific
+date: '2025-11-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e97eb940835a44308a99799befef8662~mv2.jpg
+imageAlt: According to data from the Pacific Center for Island Security, Chinese space-missile tracking and submarine mapping vessels are active in the North Pacific; during the same period, the U.S. intensified multilateral military exercises in the region.
+wixId: bb508a08-afca-4de8-aa1c-803be51c4790
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Chinese research vessels
+- U.S.
+- North Pacific
+- militarization
+- geopolitical competition
+- Guam
+- maritime security
 ---
-
 <p style="text-align: justify">New data shows that <strong>the North Pacific is rapidly militarizing</strong>, with China and the U.S. significantly increasing their activities in the region. According to Reuters, the Guam-based <strong>Pacific Center for Island Security</strong> reported in its October-November 2025 security monitoring report that <strong>five Chinese research vessels</strong> were active in the Northwest Pacific, while during the same period the U.S. conducted <strong>nine multilateral exercises</strong> in the region.</p>
 <p><br></p>
 <p style="text-align: justify">The center's director, <strong>Leland Bettis</strong>, noted that the region is increasingly affected by intensifying geopolitical competition, stating that island populations in the North Pacific have become "potential targets in great power rivalry." According to Bettis, the presence of Chinese research vessels in this region is not surprising, as these vessels are often used for <strong>submarine and deep-sea "battlefield mapping" operations</strong>.</p>

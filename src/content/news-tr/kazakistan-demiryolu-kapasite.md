@@ -1,14 +1,22 @@
 ---
-title: "Kazakistan, Kritik Demiryolu Sınır Kapısında Kapasiteyi %40 Artırdı"
-subtitle: "Kazakistan, Kritik Demiryolu Sınır Kapısında Kapasiteyi %40 Artırdı"
-date: "2025-12-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_afaa546484b1487589bbb345dffd5d8b~mv2.jpg"
-imageAlt: "Kazakistan’ın Altynkol–Khorgos demiryolu sınır hattında yaptığı yatırımlarla Asia–Europe rail routes üzerindeki kapasiteyi artırmasını, tıkanıklıkları azaltmasını ve transit performansı güçlendirmesini ele alan detaylı sektör özeti"
-wixId: "fa9f7d97-ff33-4f84-9ed2-e28d3a379e9b"
-author: "Sedat Onat"
+title: Kazakistan, Kritik Demiryolu Sınır Kapısında Kapasiteyi %40 Artırdı
+subtitle: Kazakistan, Kritik Demiryolu Sınır Kapısında Kapasiteyi %40 Artırdı
+date: '2025-12-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_afaa546484b1487589bbb345dffd5d8b~mv2.jpg
+imageAlt: Kazakistan’ın Altynkol–Khorgos demiryolu sınır hattında yaptığı yatırımlarla Asia–Europe rail routes üzerindeki kapasiteyi artırmasını, tıkanıklıkları azaltmasını ve transit performansı güçlendirmesini ele alan detaylı sektör özeti
+wixId: fa9f7d97-ff33-4f84-9ed2-e28d3a379e9b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kazakistan
+- demiryolu taşımacılığı
+- Altynkol
+- Orta Koridor
+- Çin-Avrupa
+- sınır geçişi
+- kapasite artışı
 ---
 <p style="text-align: justify">Kazakistan, Asya–Avrupa demiryolu taşımacılığında kilit rol oynayan sınır altyapısını güçlendirmekte. Ülke, Çin sınırına yakın konumlanan <strong>Altynkol rail yard</strong>’da gerçekleştirdiği yatırımlarla tren elleçleme kapasitesini <strong>%40 oranında artırmakta</strong>. Bu hamle, özellikle <strong>Asia–Europe rail routes</strong> üzerindeki yoğunluğu azaltmayı ve uzun süredir gündemde olan sınır geçiş tıkanıklıklarını hafifletmeyi hedeflemekte.</p>
 <p><br></p>

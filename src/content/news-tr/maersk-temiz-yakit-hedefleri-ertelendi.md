@@ -1,14 +1,22 @@
 ---
-title: "Maersk Temiz Yakıt Hedeflerini Erteledi"
-subtitle: "Maersk Temiz Yakıt Hedeflerini Erteledi"
-date: "2025-03-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3f6990530c5e46b2b72262a245c12d8c~mv2.png"
-imageAlt: "Maersk Temiz Yakıt Hedeflerini Erteledi"
-wixId: "6a074fc0-e52e-4ed7-9688-d74eef98a102"
-author: "Sedat Onat"
+title: Maersk Temiz Yakıt Hedeflerini Erteledi
+subtitle: Maersk Temiz Yakıt Hedeflerini Erteledi
+date: '2025-03-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3f6990530c5e46b2b72262a245c12d8c~mv2.png
+imageAlt: Maersk Temiz Yakıt Hedeflerini Erteledi
+wixId: 6a074fc0-e52e-4ed7-9688-d74eef98a102
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Maersk
+- temiz yakıt
+- deniz taşımacılığı
+- karbon emisyonu
+- enerji verimliliği
+- sürdürülebilirlik
+- alternatif yakıt
 ---
 <p style="text-align: justify"><strong>Maersk</strong>, küresel deniz taşımacılığının önde gelen şirketlerinden biri olarak, çevresel sürdürülebilirlik hedeflerini yeniden değerlendirmekte. Şirket, filosu için belirlediği temiz yakıt kullanım hedeflerini erteleme kararı almış bulunmakta. Bu değişiklik, <strong>Maersk</strong>'in karbon emisyonlarını azaltma stratejisinde önemli bir dönüşümü işaret etmekte.</p>
 <p><br></p>

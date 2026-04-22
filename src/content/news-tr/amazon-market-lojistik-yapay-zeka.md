@@ -1,14 +1,22 @@
 ---
-title: "Amazon, Market Lojistik Merkezlerinde Karbon Emisyonlarını %15 Azalttı"
-subtitle: "Amazon, Market Lojistik Merkezlerinde Karbon Emisyonlarını %15 Azalttı"
-date: "2025-12-09T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_22b437dd30074c7bae9b0a378618d350~mv2.jpg"
-imageAlt: "Amazon’un Trane Technologies ve BrainBox AI ile yürüttüğü pilot program sayesinde grocery fulfillment center’larda enerji tüketimini %15 azaltması, ulusal yayılım planı ve 2040 karbon nötr hedefiyle ilişkili lojistik etkilerin detaylı özeti"
-wixId: "f3fb0b20-9965-4638-8a1e-71393bf69ca9"
-author: "Sedat Onat"
+title: Amazon, Market Lojistik Merkezlerinde Karbon Emisyonlarını %15 Azalttı
+subtitle: Amazon, Market Lojistik Merkezlerinde Karbon Emisyonlarını %15 Azalttı
+date: '2025-12-09T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_22b437dd30074c7bae9b0a378618d350~mv2.jpg
+imageAlt: Amazon’un Trane Technologies ve BrainBox AI ile yürüttüğü pilot program sayesinde grocery fulfillment center’larda enerji tüketimini %15 azaltması, ulusal yayılım planı ve 2040 karbon nötr hedefiyle ilişkili lojistik etkilerin detaylı özeti
+wixId: f3fb0b20-9965-4638-8a1e-71393bf69ca9
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Amazon
+- karbon emisyonu
+- lojistik merkezi
+- enerji verimliliği
+- yapay zeka
+- soğuk zincir
+- sürdürülebilirlik
 ---
 <p style="text-align: justify"><strong>Amazon</strong>, grocery operasyonlarını büyütürken aynı zamanda karbon ayak izini düşürmeye yönelik teknolojik yatırımlarını hızlandırmakta. Şirket, <strong>Trane Technologies</strong> ile birlikte yürüttüğü pilot program kapsamında, Kuzey Amerika’daki üç <strong>grocery fulfillment center</strong>’da enerji kullanımını <strong>yaklaşık %15 oranında azalttığını</strong> açıkladı. Sonuçlar, 1 Aralık tarihli şirket duyurusuyla kamuoyuna yansıtıldı.</p>
 <p><br></p>

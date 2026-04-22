@@ -1,14 +1,23 @@
 ---
-title: "Moda Markalarının Gümrük Tarifeleriyle Mücadelesi"
-subtitle: "Moda Markalarının Gümrük Tarifeleriyle Mücadelesi"
-date: "2025-02-10T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_16428487450f44e0a15a4887284525a2~mv2.jpg"
-imageAlt: "Moda Markalarının Gümrük Tarifeleriyle Mücadelesi"
-wixId: "5766e950-53e7-4a07-9e50-c596e73f20a8"
-author: "Sedat Onat"
+title: Moda Markalarının Gümrük Tarifeleriyle Mücadelesi
+subtitle: Moda Markalarının Gümrük Tarifeleriyle Mücadelesi
+date: '2025-02-10T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_16428487450f44e0a15a4887284525a2~mv2.jpg
+imageAlt: Moda Markalarının Gümrük Tarifeleriyle Mücadelesi
+wixId: 5766e950-53e7-4a07-9e50-c596e73f20a8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- gümrük tarifeleri
+- moda endüstrisi
+- tedarik zinciri
+- nearshoring
+- ticaret politikaları
+- Çin-ABD
+- sürdürülebilirlik
+- tedarik zinciri yönetimi
 ---
 <p style="text-align: justify">Moda endüstrisi, küresel ticaretin dinamik yapısı nedeniyle sürekli değişen gümrük tarifeleri ve ticaret politikalarıyla karşı karşıya kalmakta. Bu durum, moda markalarının tedarik zincirlerini ve maliyet yapılarını doğrudan etkilemekte. Özellikle son yıllarda, Amerika Birleşik Devletleri ile Çin arasındaki ticaret gerilimleri, moda sektöründe önemli etkilere yol açtı. Birçok marka, <strong>Computer Generated Solutions</strong>'ın (CGS) Başkanı <strong>Paul Magel</strong>'in de belirttiği gibi, bu zorluklarla başa çıkmak için stratejilerini yeniden gözden geçirmekte.​</p>
 <p><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "Class 1 Railroads' Speed, Dwell Time, and Car Online Data"
-subtitle: "Class 1 Railroads' Speed, Dwell Time, and Car Online Data"
-date: "2025-03-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a2a531c6fca749bca9332b9573dc729e~mv2.jpg"
-imageAlt: ""
-wixId: "00226226-ec5a-4fbe-8df6-a553e38d0c58"
-author: "Sedat Onat"
+title: Class 1 Railroads' Speed, Dwell Time, and Car Online Data
+subtitle: Class 1 Railroads' Speed, Dwell Time, and Car Online Data
+date: '2025-03-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a2a531c6fca749bca9332b9573dc729e~mv2.jpg
+imageAlt: ''
+wixId: 00226226-ec5a-4fbe-8df6-a553e38d0c58
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- rail transport
+- STB
+- train speed
+- terminal dwell time
+- railcar tracking
+- Class 1 railroads
+- performance metrics
+- logistics efficiency
 ---
-
 <p style="text-align: justify">Among the key performance metrics used to evaluate Class 1 railroad companies are train speed, terminal dwell time, and the number of cars online. These metrics have a direct impact on the efficiency and service quality of railroad transportation. The <a href="https://www.stb.gov/"><u><strong>Surface Transportation Board (STB)</strong></u></a> releases this data to the public on a weekly basis, and a dashboard prepared by <strong>Supply Chain Dive</strong> makes this data more accessible and comprehensible.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Train Speed:</strong></p>

@@ -1,14 +1,22 @@
 ---
-title: "ABD’de Fabrikaların Neredeyse Tamamı 2028’e Kadar Otomasyona Yönelmeyi Planlıyor"
-subtitle: "ABD’de Fabrikaların Neredeyse Tamamı 2028’e Kadar Otomasyona Yönelmeyi Planlıyor"
-date: "2025-12-10T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_4c1a4e67192349f3a162f8d0245a4d37~mv2.jpg"
-imageAlt: "RobCo araştırmasına göre ABD’li sanayi şirketlerinin %95’inin 2028’e kadar yeni otomasyon yatırımları planlaması, iş gücü açığı, reshoring etkisi, robot ve yapay zekâ kullanımındaki artış ile finansman modellerindeki dönüşümün detaylı özeti"
-wixId: "597c65ac-cafc-4c05-a5b4-2ab73985b472"
-author: "Sedat Onat"
+title: ABD’de Fabrikaların Neredeyse Tamamı 2028’e Kadar Otomasyona Yönelmeyi Planlıyor
+subtitle: ABD’de Fabrikaların Neredeyse Tamamı 2028’e Kadar Otomasyona Yönelmeyi Planlıyor
+date: '2025-12-10T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_4c1a4e67192349f3a162f8d0245a4d37~mv2.jpg
+imageAlt: RobCo araştırmasına göre ABD’li sanayi şirketlerinin %95’inin 2028’e kadar yeni otomasyon yatırımları planlaması, iş gücü açığı, reshoring etkisi, robot ve yapay zekâ kullanımındaki artış ile finansman modellerindeki dönüşümün detaylı özeti
+wixId: 597c65ac-cafc-4c05-a5b4-2ab73985b472
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- otomasyon
+- robotik
+- ABD imalat
+- yapay zeka
+- RaaS
+- iş gücü açığı
+- reshoring
 ---
 <p style="text-align: justify">ABD sanayi sektörü, son on yılların en kapsamlı <strong>otomasyon dalgasına</strong> hazırlanmakta. <strong>RobCo</strong> tarafından yayımlanan yeni araştırmaya göre, ABD’de faaliyet gösteren sanayi şirketlerinin <strong>%95’i</strong>, <strong>2028 yılına kadar</strong> yeni otomasyon çözümlerini devreye almayı planlamakta. Araştırma; <strong>manufacturing, construction, engineering ve healthcare</strong> gibi farklı sektörlerden <strong>400 üst düzey yöneticiyi</strong> kapsıyor ve otomasyonun artık istisna değil, <strong>varsayılan operasyon modeli</strong> hâline gelmekte olduğunu gösteriyor.</p>
 <p><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "Commitment to Triple Nuclear Capacity by 2050"
-subtitle: "Commitment to Triple Nuclear Capacity by 2050"
-date: "2025-03-13T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_e276101090fd45f6bb4dceb1f9aa5b91~mv2.jpg"
-imageAlt: "Commitment to Triple Nuclear Capacity by 2050"
-wixId: "56177a3e-2a0e-41e3-92e7-fa2cd72b9d20"
-author: "Sedat Onat"
+title: Commitment to Triple Nuclear Capacity by 2050
+subtitle: Commitment to Triple Nuclear Capacity by 2050
+date: '2025-03-13T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_e276101090fd45f6bb4dceb1f9aa5b91~mv2.jpg
+imageAlt: Commitment to Triple Nuclear Capacity by 2050
+wixId: 56177a3e-2a0e-41e3-92e7-fa2cd72b9d20
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- nuclear energy
+- Lloyd's Register
+- Amazon
+- Google
+- sustainable energy
+- carbon emissions
+- energy transition
+- CERAWeek
 ---
-
 <p style="text-align: justify"><a href="https://www.lr.org/"><u><strong>Lloyd's Register (LR)</strong></u></a>, <a href="https://en.wikipedia.org/wiki/Amazon_(company)"><u><strong>Amazon</strong></u></a>, <strong>Google</strong> and other major corporations have committed to tripling global nuclear energy capacity by 2050. This initiative aims to accelerate the transition toward clean and sustainable energy sources in the energy sector.​</p>
 <p><br></p>
 <p style="text-align: justify">This commitment, announced at the <a href="https://www.ceraweek.com/"><u><strong>CERAWeek 2025</strong></u></a> conference, is redefining the role of nuclear energy worldwide. Nuclear energy holds an important position among clean energy sources due to its low carbon emissions and high energy efficiency. For this reason, major corporations' investment in this area is viewed as a critical step in the global energy transition.​</p>

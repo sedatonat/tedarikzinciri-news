@@ -1,16 +1,24 @@
 ---
-title: "NTSB: Single Loose Cable Caused Dali's Francis Scott Key Bridge Collision"
-subtitle: "NTSB: Single Loose Cable Caused Dali's Francis Scott Key Bridge Collision"
-date: "2025-11-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c3fcbbf658014c5e87bc2d1f79d99529~mv2.jpg"
-imageAlt: "The NTSB determined that the power outage leading to the container ship Dali's collision with the Francis Scott Key Bridge in 2024 was caused by a single loose signal cable that did not fully seat in the terminal block."
-wixId: "c0fe2c62-7aba-4a69-ae39-e13ec707aa4f"
-author: "Sedat Onat"
+title: 'NTSB: Single Loose Cable Caused Dali''s Francis Scott Key Bridge Collision'
+subtitle: 'NTSB: Single Loose Cable Caused Dali''s Francis Scott Key Bridge Collision'
+date: '2025-11-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c3fcbbf658014c5e87bc2d1f79d99529~mv2.jpg
+imageAlt: The NTSB determined that the power outage leading to the container ship Dali's collision with the Francis Scott Key Bridge in 2024 was caused by a single loose signal cable that did not fully seat in the terminal block.
+wixId: c0fe2c62-7aba-4a69-ae39-e13ec707aa4f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- container ship
+- Dali
+- bridge collapse
+- NTSB
+- maritime accident
+- Baltimore
+- power failure
+- ship safety
 ---
-
 <p style="text-align: justify">The U.S. National Transportation Safety Board (<strong>NTSB</strong>) has revealed the ultimate cause of the tragic accident that led to the <strong>collapse of the Francis Scott Key Bridge in Baltimore on March 26, 2024</strong>: <strong>a single loose signal cable</strong> in the high-voltage system of the container ship <strong>Dali</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">According to the report, a <strong>label tape</strong> on the cable prevented it from fully seating in the spring lock mechanism of the terminal block. This insufficient contact caused the cable to lose its electrical connection at a critical moment, triggering the <strong>sudden opening of the high-voltage circuit breaker</strong>. This created a domino effect in the ship's electrical system, resulting in <strong>a complete blackout</strong>, followed by <strong>loss of propulsion and steering</strong>.</p>

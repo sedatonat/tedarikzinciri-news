@@ -1,14 +1,23 @@
 ---
-title: "Rusya’nın Ametist Line Şirketi Yeni Novorossiysk–İzmir Shuttle Servisini Başlatıyor"
-subtitle: "Rusya’nın Ametist Line Şirketi Yeni Novorossiysk–İzmir Shuttle Servisini Başlatıyor"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_cb0f1c5f032343b08437730ea4837a9d~mv2.jpg"
-imageAlt: "Ametist Line’ın 2026 başında devreye alacağı Novorossiysk–İzmir shuttle servisi ile mevcut tek-gemilik hatların kapasitesi, bölgesel lojistik etkiler ve Doğu Akdeniz–Karadeniz bağlantılarının güçlenmesine dair detaylı özet"
-wixId: "367ecc15-a8d3-4850-a4a9-bb83d0496672"
-author: "Sedat Onat"
+title: Rusya’nın Ametist Line Şirketi Yeni Novorossiysk–İzmir Shuttle Servisini Başlatıyor
+subtitle: Rusya’nın Ametist Line Şirketi Yeni Novorossiysk–İzmir Shuttle Servisini Başlatıyor
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_cb0f1c5f032343b08437730ea4837a9d~mv2.jpg
+imageAlt: Ametist Line’ın 2026 başında devreye alacağı Novorossiysk–İzmir shuttle servisi ile mevcut tek-gemilik hatların kapasitesi, bölgesel lojistik etkiler ve Doğu Akdeniz–Karadeniz bağlantılarının güçlenmesine dair detaylı özet
+wixId: 367ecc15-a8d3-4850-a4a9-bb83d0496672
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ametist Line
+- Novorossiysk
+- İzmir
+- shuttle servisi
+- Karadeniz
+- Doğu Akdeniz
+- konteyner taşımacılığı
+- feeder
 ---
 <p style="text-align: justify">Rusya merkezli <strong>Ametist Line</strong>, 2026’nın ilk aylarında <strong>Novorossiysk–İzmir</strong> arasında yeni bir <strong>single-vessel shuttle service</strong> başlatacağını duyurdu. Bu yeni servis, şirketin Karadeniz–Doğu Akdeniz koridorunda varlığını güçlendirmeye yönelik stratejik bir genişleme olarak görülmekte. Shuttle hattı, <strong>500 TEU</strong> kapasiteli tek bir gemiyle çalışacak ve mevcut <strong>Novorossiysk–Mersin–Beirut</strong> rotasında görev yapan geminin bu yeni hatta kaydırılmasıyla devreye alınacak. Şirket, söz konusu eski rotanın bu gelişmeyle birlikte tamamen <strong>discontinued</strong> edilebileceğini belirtiyor.</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "Shell's Singapore Refinery Experiences Second Oil Spill in Two Months"
-subtitle: "Shell's Singapore Refinery Experiences Second Oil Spill in Two Months"
-date: "2024-12-27T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_9baa3e161eab47c0957daaa45f53bbfa~mv2.jpeg"
-imageAlt: "Shell's Singapore Refinery Experiences Second Oil Spill in Two Months"
-wixId: "bf754e7a-3de7-47e9-9560-47207cfb6dea"
-author: "Sedat Onat"
+title: Shell's Singapore Refinery Experiences Second Oil Spill in Two Months
+subtitle: Shell's Singapore Refinery Experiences Second Oil Spill in Two Months
+date: '2024-12-27T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_9baa3e161eab47c0957daaa45f53bbfa~mv2.jpeg
+imageAlt: Shell's Singapore Refinery Experiences Second Oil Spill in Two Months
+wixId: bf754e7a-3de7-47e9-9560-47207cfb6dea
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Shell
+- Singapore
+- oil spill
+- refinery
+- environmental pollution
+- Pulau Bukom
+- marine pollution
 ---
-
 <p>A second oil spill has occurred at <strong>Shell</strong>'s Pulau Bukom facility in Singapore within the past two months. On 26 December 2024, a suspected leak was detected in one of the refinery's oil processing units, and the unit was immediately shut down. <strong>Shell</strong> estimates that several tonnes of refined petroleum products leaked along with cooling water discharge.</p>
 <p><br></p>
 <p><strong>Shell</strong> immediately implemented measures to prevent the spill from spreading to the sea. Absorbent materials and barriers were deployed in the cooling water discharge channel, dispersants were sprayed, and an on-site oil skimming system was activated. The company also collaborated with <strong>Singapore's Maritime and Port Authority (MPA)</strong>, using vessels and unmanned aerial vehicles to clean light oil layers. Absorbent booms were also placed as a precaution at Sisters' Islands Marine Park and Sentosa beaches.</p>

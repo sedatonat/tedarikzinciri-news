@@ -1,16 +1,23 @@
 ---
-title: "Container Ship Recycling Backlog Hits 1.8 Million TEU: Fleet Aging Crisis Deepens"
-subtitle: "Container Ship Recycling Backlog Hits 1.8 Million TEU: Fleet Aging Crisis Deepens"
-date: "2025-10-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ab91763227ff4ca3b30b13362f95e704~mv2.jpg"
-imageAlt: "Container Ship Recycling Backlog Hits 1.8 Million TEU: Fleet Aging Crisis Deepens"
-wixId: "a2959fa6-8faa-4316-82c6-af6d45f4137f"
-author: "Sedat Onat"
+title: 'Container Ship Recycling Backlog Hits 1.8 Million TEU: Fleet Aging Crisis Deepens'
+subtitle: 'Container Ship Recycling Backlog Hits 1.8 Million TEU: Fleet Aging Crisis Deepens'
+date: '2025-10-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_ab91763227ff4ca3b30b13362f95e704~mv2.jpg
+imageAlt: 'Container Ship Recycling Backlog Hits 1.8 Million TEU: Fleet Aging Crisis Deepens'
+wixId: a2959fa6-8faa-4316-82c6-af6d45f4137f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- container ship
+- recycling
+- fleet management
+- BIMCO
+- freight rates
+- emission regulations
+- maritime
 ---
-
 <p style="text-align: justify"><strong>The global container fleet</strong> faces the most severe <strong>recycling backlog</strong> of recent years.<br>
  According to the latest analysis by <strong>BIMCO</strong>, <strong>at least 500 vessels and a total capacity of 1.8 million TEU</strong> remain in active commercial service despite having long exceeded recycling age.</p>
 <p><br>

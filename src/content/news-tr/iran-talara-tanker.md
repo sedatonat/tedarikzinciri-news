@@ -1,14 +1,22 @@
 ---
-title: "İran Kuvvetleri, Talara Tankerini İran Sularına Yönlendirdi"
-subtitle: "İran Kuvvetleri, Talara Tankerini İran Sularına Yönlendirdi"
-date: "2025-11-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/nsplsh_64001c153d654cbc823819de103690da~mv2.jpg"
-imageAlt: "Marshall Adaları bayraklı Talara tankeri, Khor Fakkan açıklarında üç küçük teknenin yaklaşmasının ardından rotasını keskin biçimde değiştirerek İran’ın Cask terminali yönüne ilerledi; olayın IRGC Navy müdahalesi olduğu değerlendiriliyor."
-wixId: "dff403a3-d266-4ef3-a3b8-ec2135fc8fa1"
-author: "Sedat Onat"
+title: İran Kuvvetleri, Talara Tankerini İran Sularına Yönlendirdi
+subtitle: İran Kuvvetleri, Talara Tankerini İran Sularına Yönlendirdi
+date: '2025-11-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/nsplsh_64001c153d654cbc823819de103690da~mv2.jpg
+imageAlt: Marshall Adaları bayraklı Talara tankeri, Khor Fakkan açıklarında üç küçük teknenin yaklaşmasının ardından rotasını keskin biçimde değiştirerek İran’ın Cask terminali yönüne ilerledi; olayın IRGC Navy müdahalesi olduğu değerlendiriliyor.
+wixId: dff403a3-d266-4ef3-a3b8-ec2135fc8fa1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tanker
+- İran
+- Umman Körfezi
+- deniz güvenliği
+- IRGC
+- gemi kaçırma
+- Marshall Adaları
 ---
 <p style="text-align: justify">Bir Marshall Adaları bayraklı tanker olan <strong>Talara</strong>, Umman Körfezi’nde seyrinde ilerlerken <strong>İran güçleri tarafından yönünün değiştirildiği</strong> bildirildi. Tanker, Birleşik Arap Emirlikleri’nden <strong>Singapur’a yüksek kükürtlü gazyağı taşıyarak</strong> seyrediyordu. Olay, deniz güvenlik firmalarının, <strong>UK Maritime Trade Operations (UKMTO)</strong> biriminin ve geminin teknik yöneticisinin aktardığı bilgilerle doğrulandı.</p>
 <p><br></p>

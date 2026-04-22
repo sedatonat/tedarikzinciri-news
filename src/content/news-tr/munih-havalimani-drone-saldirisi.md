@@ -1,14 +1,22 @@
 ---
-title: "Drone Alarmı Sonrası Münih Havalimanı Yeniden Açıldı"
-subtitle: "Drone Alarmı Sonrası Münih Havalimanı Yeniden Açıldı"
-date: "2025-10-03T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_fd71ec7c1db048e3bff059c4e7a48b20~mv2.png"
-imageAlt: "Drone Alarmı Sonrası Münih Havalimanı Yeniden Açılmakta"
-wixId: "1cbfab76-b917-49fa-9840-e700e117a82d"
-author: "Sedat Onat"
+title: Drone Alarmı Sonrası Münih Havalimanı Yeniden Açıldı
+subtitle: Drone Alarmı Sonrası Münih Havalimanı Yeniden Açıldı
+date: '2025-10-03T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_fd71ec7c1db048e3bff059c4e7a48b20~mv2.png
+imageAlt: Drone Alarmı Sonrası Münih Havalimanı Yeniden Açılmakta
+wixId: 1cbfab76-b917-49fa-9840-e700e117a82d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- drone
+- Münih Havalimanı
+- hava kargo
+- U-space
+- counter-UAS
+- geofencing
+- havalimanı güvenliği
 ---
 <p style="text-align: justify">Münih Havalimanı etrafında çok sayıda drone görülmesi nedeniyle operasyonlar geçici olarak durduruldu.</p>
 <p style="text-align: justify"><br></p>

@@ -1,13 +1,21 @@
 ---
-title: "Baltic Klipper Şiddetli Hava Koşullarında 16–18 Konteyner Kaybetti: Solent Trafiği ve Sahil Güvenliği Alarmda"
-subtitle: "Baltic Klipper Şiddetli Hava Koşullarında 16–18 Konteyner Kaybetti: Solent Trafiği ve Sahil Güvenliği Alarmda"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1fd79017ce3b464bb7c8c1f0ed94c7df~mv2.webp"
-wixId: "3908b4e4-03e6-4db4-9f16-ed2caa667b0b"
-author: "Sedat Onat"
+title: 'Baltic Klipper Şiddetli Hava Koşullarında 16–18 Konteyner Kaybetti: Solent Trafiği ve Sahil Güvenliği Alarmda'
+subtitle: 'Baltic Klipper Şiddetli Hava Koşullarında 16–18 Konteyner Kaybetti: Solent Trafiği ve Sahil Güvenliği Alarmda'
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1fd79017ce3b464bb7c8c1f0ed94c7df~mv2.webp
+wixId: 3908b4e4-03e6-4db4-9f16-ed2caa667b0b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Baltic Klipper
+- konteyner kaybı
+- deniz kazası
+- Solent
+- sahil güvenliği
+- MCA
+- navigasyon tehlikesi
 ---
 <p style="text-align: justify">İngiltere’nin en yoğun deniz trafiği bölgelerinden biri olan <strong>Solent waterway</strong>, 6 Aralık Cumartesi akşamı ciddi bir denizcilik olayına sahne oldu. <strong>Baltic Klipper</strong> adlı <strong>reefer vessel</strong>, Isle of Wight kıyılarındaki <strong>Nab Tower</strong> feneri yakınlarında şiddetli hava koşullarına yakalanarak <strong>16–18 konteyneri denize düşürdü</strong>. İngiltere <strong>Maritime and Coastguard Agency (MCA)</strong> tarafından doğrulanan bilgilere göre kaybolan konteynerlerin sekizi muz, diğerleri ise plantain ve avokado yüklüydü; beş konteyner ise boştu.</p>
 <p><br></p>

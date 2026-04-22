@@ -1,14 +1,22 @@
 ---
-title: "Depolardaki Hırsızlıklar Tedarik Zincirlerini Zorluyor"
-subtitle: "Depolardaki Hırsızlıklar Tedarik Zincirlerini Zorluyor"
-date: "2023-12-09T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_07e4f8905d2446a1a5788a46487666c1~mv2.jpg"
-imageAlt: "Depolardaki Hırsızlıklar Tedarik Zincirlerini Zorluyor"
-wixId: "3a39830f-8ffa-4375-bda0-5118ced17732"
-author: "Sedat Onat"
+title: Depolardaki Hırsızlıklar Tedarik Zincirlerini Zorluyor
+subtitle: Depolardaki Hırsızlıklar Tedarik Zincirlerini Zorluyor
+date: '2023-12-09T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_07e4f8905d2446a1a5788a46487666c1~mv2.jpg
+imageAlt: Depolardaki Hırsızlıklar Tedarik Zincirlerini Zorluyor
+wixId: 3a39830f-8ffa-4375-bda0-5118ced17732
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- perakende hırsızlığı
+- tedarik zinciri
+- envanter yönetimi
+- organize perakende suçu
+- yapay zeka
+- depo güvenliği
+- brüt kar marjı
 ---
 <p>Perakende devlerinin bir kabusu haline gelen hırsızlık, büyük endişe kaynağı olarak karşımıza çıkıyor. Gündelik ürünlerden organize suçlar tarafından planlanan büyük soygunlara kadar çeşitli hırsızlık türleri, tedarik zincirlerini ve mağaza envanterini zaten zorlayan bir sektörde ciddi bir problem oluşturuyor.</p>
 <p><br></p>

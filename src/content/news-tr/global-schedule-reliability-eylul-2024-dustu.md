@@ -1,14 +1,22 @@
 ---
-title: "Global Schedule Reliability Eylül 2024'te Düşüş Gösterdi"
-subtitle: "Global Schedule Reliability Eylül 2024'te Düşüş Gösterdi"
-date: "2024-11-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5f4655670de34d0e92389a4296d49c5d~mv2.jpg"
-imageAlt: "Global Schedule Reliability Eylül 2024'te Düşüş Gösterdi"
-wixId: "f143b63f-0013-4bb8-9c5d-d0a6264fb759"
-author: "Sedat Onat"
+title: Global Schedule Reliability Eylül 2024'te Düşüş Gösterdi
+subtitle: Global Schedule Reliability Eylül 2024'te Düşüş Gösterdi
+date: '2024-11-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5f4655670de34d0e92389a4296d49c5d~mv2.jpg
+imageAlt: Global Schedule Reliability Eylül 2024'te Düşüş Gösterdi
+wixId: f143b63f-0013-4bb8-9c5d-d0a6264fb759
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- schedule reliability
+- deniz taşımacılığı
+- Maersk
+- Sea-Intelligence
+- CMA CGM
+- konteyner taşıyıcıları
+- liman performansı
 ---
 <p>Global schedule reliability, Eylül ayında aylık bazda (MoM) 1.2 puan düşerek %51.4 seviyesine geriledi. Sea-Intelligence, Global Liner Performance (GLP) raporunun 158. sayısını yayımladı ve bu rapor Eylül 2024'e kadar olan schedule reliability verilerini kapsıyor. Bu kapsamlı rapor, 34 ticaret kanalında ve 60'tan fazla taşıyıcıda yapılan incelemeleri içeriyor.</p>
 <p><br></p>

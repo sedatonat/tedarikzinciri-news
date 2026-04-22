@@ -1,16 +1,24 @@
 ---
-title: "Poland's LPG Origin Requirements Leave Hundreds of Wagons Stranded at Belarus Border"
-subtitle: "Poland's LPG Origin Requirements Leave Hundreds of Wagons Stranded at Belarus Border"
-date: "2025-01-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5a3625318ef0426d96dda03f1109dc16~mv2.jpg"
-imageAlt: "Poland's LPG Origin Requirements Leave Hundreds of Wagons Stranded at Belarus Border"
-wixId: "f9d1c7ed-9082-4a7d-923e-4e8f3431e55e"
-author: "Sedat Onat"
+title: Poland's LPG Origin Requirements Leave Hundreds of Wagons Stranded at Belarus Border
+subtitle: Poland's LPG Origin Requirements Leave Hundreds of Wagons Stranded at Belarus Border
+date: '2025-01-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5a3625318ef0426d96dda03f1109dc16~mv2.jpg
+imageAlt: Poland's LPG Origin Requirements Leave Hundreds of Wagons Stranded at Belarus Border
+wixId: f9d1c7ed-9082-4a7d-923e-4e8f3431e55e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- LPG
+- Poland
+- Belarus
+- Kazakhstan
+- certificate of origin
+- customs inspections
+- EU sanctions
+- energy supply chain
 ---
-
 <p style="text-align: justify">Poland's increased demands for origin certificates on liquefied petroleum gas (<strong>LPG</strong>) imports have caused hundreds of tanker wagons to be held up at the Belarus border. LPG shipments from Kazakhstan, in particular, have been halted as Polish customs authorities request additional documentation to verify the product's true origin. The situation has created a wagon shortage for Kazakh producers exporting LPG to Europe.</p>
 <p><br></p>
 <p style="text-align: justify">At least one hundred wagons belonging to <strong>Tengizchevroil</strong>, Kazakhstan's largest oil producer, have been detained at railway stations in Belarus's Brest and Baranavichy regions. Polish authorities are demanding additional documents to confirm that shipments genuinely originate from Kazakhstan. This situation stems from concerns among European Union (<strong>EU</strong>) customs authorities that Russian LPG could be re-exported under the guise of Kazakh LPG. Kazakhstan's Embassy in Brussels is engaged in talks with <strong>David O'Sullivan</strong>, the EU's special representative responsible for sanctions enforcement, but no agreement has yet been reached.</p>

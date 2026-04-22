@@ -1,14 +1,23 @@
 ---
-title: "Süveyş Yönlendirmeleri ve IMO Anlaşmazlığı 2030 Emisyon Hedeflerini Tehlikeye Atıyor"
-subtitle: "Süveyş Yönlendirmeleri ve IMO Anlaşmazlığı 2030 Emisyon Hedeflerini Tehlikeye Atıyor"
-date: "2025-01-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2dc213247246489fb2aa6bdc9ee9d9fa~mv2.jpg"
-imageAlt: "Süveyş Saptırmaları ve IMO Anlaşmazlığı 2030 Emisyon Hedeflerini Tehlikeye Atıyor"
-wixId: "c59feab6-b623-4b8c-a994-578d2daeb319"
-author: "Sedat Onat"
+title: Süveyş Yönlendirmeleri ve IMO Anlaşmazlığı 2030 Emisyon Hedeflerini Tehlikeye Atıyor
+subtitle: Süveyş Yönlendirmeleri ve IMO Anlaşmazlığı 2030 Emisyon Hedeflerini Tehlikeye Atıyor
+date: '2025-01-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2dc213247246489fb2aa6bdc9ee9d9fa~mv2.jpg
+imageAlt: Süveyş Saptırmaları ve IMO Anlaşmazlığı 2030 Emisyon Hedeflerini Tehlikeye Atıyor
+wixId: c59feab6-b623-4b8c-a994-578d2daeb319
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Süveyş Kanalı
+- Kızıldeniz
+- karbon emisyonu
+- IMO
+- deniz taşımacılığı
+- Ümit Burnu
+- alternatif yakıt
+- iklim hedefleri
 ---
 <p>Son dönemde, <strong>Kızıldeniz</strong>'de artan saldırılar nedeniyle gemiler, <strong>Süveyş Kanalı</strong> yerine <strong>Ümit Burnu</strong> üzerinden daha uzun rotaları tercih ediyor. Bu değişiklik, deniz taşımacılığının karbon emisyonlarını önemli ölçüde artırarak, 2030 iklim hedeflerini riske atıyor.</p>
 <p><br></p>

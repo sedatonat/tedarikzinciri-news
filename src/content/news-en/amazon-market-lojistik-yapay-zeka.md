@@ -1,16 +1,23 @@
 ---
-title: "Amazon Cuts Carbon Emissions by 15% at Market Logistics Centers"
-subtitle: "Amazon Cuts Carbon Emissions by 15% at Market Logistics Centers"
-date: "2025-12-09T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_22b437dd30074c7bae9b0a378618d350~mv2.jpg"
-imageAlt: "Amazon's pilot program with Trane Technologies and BrainBox AI has reduced energy consumption by 15% at grocery fulfillment centers, a detailed summary of logistics impacts related to the national rollout plan and 2040 carbon neutrality goal"
-wixId: "f3fb0b20-9965-4638-8a1e-71393bf69ca9"
-author: "Sedat Onat"
+title: Amazon Cuts Carbon Emissions by 15% at Market Logistics Centers
+subtitle: Amazon Cuts Carbon Emissions by 15% at Market Logistics Centers
+date: '2025-12-09T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_22b437dd30074c7bae9b0a378618d350~mv2.jpg
+imageAlt: Amazon's pilot program with Trane Technologies and BrainBox AI has reduced energy consumption by 15% at grocery fulfillment centers, a detailed summary of logistics impacts related to the national rollout plan and 2040 carbon neutrality goal
+wixId: f3fb0b20-9965-4638-8a1e-71393bf69ca9
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Amazon
+- carbon emissions
+- logistics center
+- energy efficiency
+- artificial intelligence
+- cold chain
+- sustainability
 ---
-
 <p style="text-align: justify"><strong>Amazon</strong> is accelerating its technology investments to reduce its carbon footprint while expanding grocery operations. The company announced that through a pilot program conducted with <strong>Trane Technologies</strong>, it has reduced energy consumption by <strong>approximately 15%</strong> across three <strong>grocery fulfillment centers</strong> in North America. The results were disclosed in a company announcement dated December 1st.</p>
 <p><br></p>
 <p style="text-align: justify">In the pilot application, <strong>Trane Technologies' BrainBox AI</strong> platform was deployed in integration with <strong>Amazon Web Services (AWS)</strong> infrastructure. The system autonomously manages <strong>HVAC (heating, ventilation and air conditioning)</strong> components within the building, optimizing temperature, ventilation, and energy consumption in real time. BrainBox AI treats the building not as a static structure but as a <strong>learning and adaptive system</strong>.</p>

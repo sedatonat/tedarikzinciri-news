@@ -1,14 +1,23 @@
 ---
-title: "Moda Markaları Antik ve Tehlike Altındaki Ormanlardan Tedariği Sonlandırıyor"
-subtitle: "Moda Markaları Antik ve Tehlike Altındaki Ormanlardan Tedariği Sonlandırıyor"
-date: "2025-11-25T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_c448b4086a974f138a956ae7f1a77480~mv2.jpg"
-imageAlt: "Moda markalarının antik ve tehlike altındaki ormanlardan tedariki bırakmak üzere oluşturduğu yeni küresel işbirliğini, MMCF ve ambalaj tedarik zincirlerindeki riskleri, iklim açısından kritik ormanların korunması için öngörülen dönüşümü ve sektör genelindeki etkilerini anlatan detaylı özet."
-wixId: "00cb677a-14ce-41f9-98e1-ed8996c4d901"
-author: "Sedat Onat"
+title: Moda Markaları Antik ve Tehlike Altındaki Ormanlardan Tedariği Sonlandırıyor
+subtitle: Moda Markaları Antik ve Tehlike Altındaki Ormanlardan Tedariği Sonlandırıyor
+date: '2025-11-25T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_c448b4086a974f138a956ae7f1a77480~mv2.jpg
+imageAlt: Moda markalarının antik ve tehlike altındaki ormanlardan tedariki bırakmak üzere oluşturduğu yeni küresel işbirliğini, MMCF ve ambalaj tedarik zincirlerindeki riskleri, iklim açısından kritik ormanların korunması için öngörülen dönüşümü ve sektör genelindeki etkilerini anlatan detaylı özet.
+wixId: 00cb677a-14ce-41f9-98e1-ed8996c4d901
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- sürdürülebilirlik
+- moda sektörü
+- orman koruma
+- tedarik zinciri
+- alternatif malzemeler
+- Canopy
+- MMCF
+- çevre dostu ambalaj
 ---
 <p style="text-align: justify">Moda ve yaşam tarzı sektöründe faaliyet gösteren sekiz global marka, <strong>antik ve tehlike altındaki ormanlar (Ancient and Endangered Forests – AEFs)</strong> üzerindeki baskıyı azaltmak amacıyla yeni bir tedarik dönüşüm programına dahil oluyor. <strong>Marc O’Polo, Victoria’s Secret &amp; Co., Akyn, Mint Velvet, Spell, OUTnABOUT, DÔEN ve ICICLE</strong>, çevresel sivil toplum kuruluşu <strong>Canopy</strong> tarafından yürütülen girişime katılarak hem ambalaj hem de <strong>wood-based textile</strong> zincirlerinde radikal bir değişim taahhüdü veriyor. Bu karar özellikle <strong>paper packaging</strong> ve <strong>Man-Made Cellulosic Fibers (MMCFs)</strong> üretiminde kullanılan ağaçların iklim açısından kritik bölgelerden yoğun şekilde kesilmeye devam etmesi nedeniyle önem taşıyor.</p>
 <p><br></p>

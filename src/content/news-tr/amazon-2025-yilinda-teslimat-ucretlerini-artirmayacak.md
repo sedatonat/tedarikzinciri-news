@@ -1,14 +1,22 @@
 ---
-title: "Amazon 2025 Yılı İçin Teslimat Ücretlerini Artırmayacak"
-subtitle: "Amazon 2025 Yılı İçin Teslimat Ücretlerini Artırmayacak"
-date: "2024-11-20T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_b72c501e41734953a8130c4d1c2a6198~mv2.jpg"
-imageAlt: "Amazon 2025 Yılı İçin Teslimat Ücretlerini Artırmayacak"
-wixId: "c46f47c0-4da0-4fe0-8e16-72ce0257a451"
-author: "Sedat Onat"
+title: Amazon 2025 Yılı İçin Teslimat Ücretlerini Artırmayacak
+subtitle: Amazon 2025 Yılı İçin Teslimat Ücretlerini Artırmayacak
+date: '2024-11-20T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_b72c501e41734953a8130c4d1c2a6198~mv2.jpg
+imageAlt: Amazon 2025 Yılı İçin Teslimat Ücretlerini Artırmayacak
+wixId: c46f47c0-4da0-4fe0-8e16-72ce0257a451
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Amazon
+- FBA
+- teslimat ücretleri
+- e-ticaret
+- üçüncü taraf satıcı
+- bölgesel teslimat
+- lojistik maliyetleri
 ---
 <p>Amazon, 2025 yılı için üçüncü taraf satıcılarına yönelik teslimat ücretlerinde artış yapmayacağını duyurdu. E-ticaret devi, yıl başında uyguladığı yeni ücretlendirmelerin ardından "istikrar ve sadelik" üzerine odaklanacağını belirtti.</p>
 <p><br></p>

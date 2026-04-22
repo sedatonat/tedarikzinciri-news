@@ -1,14 +1,22 @@
 ---
-title: "Yapay Zeka Destekli Tedarik Yönetiminde Devrim: GEP'nin Yeni Platformu"
-subtitle: "Yapay Zeka Destekli Tedarik Yönetiminde Devrim: GEP'nin Yeni Platformu"
-date: "2024-05-30T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_3efee120146247209968ec201912f41d~mv2.png"
-imageAlt: "Yapay Zeka Destekli Tedarik Yönetiminde Devrim: GEP'nin Yeni Platformu"
-wixId: "c99eb004-ffa4-4cd6-963e-e47e388b4850"
-author: "Sedat Onat"
+title: 'Yapay Zeka Destekli Tedarik Yönetiminde Devrim: GEP''nin Yeni Platformu'
+subtitle: 'Yapay Zeka Destekli Tedarik Yönetiminde Devrim: GEP''nin Yeni Platformu'
+date: '2024-05-30T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_3efee120146247209968ec201912f41d~mv2.png
+imageAlt: 'Yapay Zeka Destekli Tedarik Yönetiminde Devrim: GEP''nin Yeni Platformu'
+wixId: c99eb004-ffa4-4cd6-963e-e47e388b4850
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- yapay zeka
+- tedarik yönetimi
+- GEP
+- satın alma yazılımı
+- orkestrasyon platformu
+- GEP Quantum
+- doğal dil işleme
 ---
 <p>GEP, tedarik yazılımını kullanmada deneyimi olmayan kullanıcıları desteklemek için yapay zeka (YK) kullanımının önemli bir rol oynayabileceğini duyurdu. New Jersey merkezli yazılım şirketi, sektörde ilk olduğunu belirttiği YK destekli toplam orkestrasyon çözümünü piyasaya sürdüğünü açıkladı. Bu yazılım, karmaşık iş akışlarını daha basit bir kullanıcı deneyimiyle entegre ederken, kullanıcılara rehberlik eden bir ortak pilot içermektedir.</p>
 <p><br></p>

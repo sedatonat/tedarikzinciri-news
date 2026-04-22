@@ -1,14 +1,22 @@
 ---
-title: "Suudi Arabistan'da Demiryolu ile İlk Konteyner Taşımacılığı Başladı"
-subtitle: "Suudi Arabistan'da Demiryolu ile İlk Konteyner Taşımacılığı Başladı"
-date: "2024-04-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_da119d572ba34863ad1bdc0de016de91~mv2.jpg"
-imageAlt: "Suudi Arabistan'da Demiryolu ile İlk Konteyner Taşımacılığı Başladı"
-wixId: "11f368e6-e4ca-48b9-87d0-0b3dae6a9d5a"
-author: "Sedat Onat"
+title: Suudi Arabistan'da Demiryolu ile İlk Konteyner Taşımacılığı Başladı
+subtitle: Suudi Arabistan'da Demiryolu ile İlk Konteyner Taşımacılığı Başladı
+date: '2024-04-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_da119d572ba34863ad1bdc0de016de91~mv2.jpg
+imageAlt: Suudi Arabistan'da Demiryolu ile İlk Konteyner Taşımacılığı Başladı
+wixId: 11f368e6-e4ca-48b9-87d0-0b3dae6a9d5a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Suudi Arabistan
+- demiryolu taşımacılığı
+- konteyner
+- intermodal lojistik
+- MAWANI
+- MSC
+- sürdürülebilir taşımacılık
 ---
 <p>Suudi Arabistan Limanlar Otoritesi (MAWANI), Jubail Ticaret Limanı'ndan Riyad Kuru Limanı'na demiryolu ile ilk konteyner sevkiyatını başarıyla gerçekleştirdiğini duyurdu. Bu tarihi sevkiyat, 78 konteyner taşıyarak Jubail Ticaret Limanı ile Doğu Demiryolu ağı arasındaki bağlantıyı kullanmıştır. Demiryolu, sefer başına maksimum 140 TEU yük kapasitesine sahiptir.</p>
 <p><br></p>

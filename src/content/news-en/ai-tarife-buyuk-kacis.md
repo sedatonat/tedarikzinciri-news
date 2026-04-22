@@ -1,16 +1,24 @@
 ---
-title: "Artificial Intelligence, Tariffs and the 'Great Escape' Strategy"
-subtitle: "Artificial Intelligence, Tariffs and the 'Great Escape' Strategy"
-date: "2025-04-15T00:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_c60755fb18344bb09b87fa4202f2c150~mv2.png"
-imageAlt: "Artificial Intelligence, Tariffs and the 'Great Escape' Strategy"
-wixId: "1a272120-5967-4064-b8e4-7efe80f7586d"
-author: "Sedat Onat"
+title: Artificial Intelligence, Tariffs and the 'Great Escape' Strategy
+subtitle: Artificial Intelligence, Tariffs and the 'Great Escape' Strategy
+date: '2025-04-15T00:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_c60755fb18344bb09b87fa4202f2c150~mv2.png
+imageAlt: Artificial Intelligence, Tariffs and the 'Great Escape' Strategy
+wixId: 1a272120-5967-4064-b8e4-7efe80f7586d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- artificial intelligence
+- tariffs
+- supply chain
+- reshoring
+- Apple
+- Amazon
+- Tesla
+- machine learning
 ---
-
 <p><br>
 Global trade has entered a period of declining predictability. Tariffs, geopolitical tensions and rising costs are forcing companies to adopt a new game plan.&nbsp;</p>
 <p><br></p>

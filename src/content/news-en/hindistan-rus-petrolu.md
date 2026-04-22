@@ -1,16 +1,24 @@
 ---
-title: "India's Largest Company Reliance Halts Russian Oil Imports"
-subtitle: "India's Largest Company Reliance Halts Russian Oil Imports"
-date: "2025-11-21T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_aa35f69770de4d639c0e91267f0815ca~mv2.jpg"
-imageAlt: "Reliance Industries has ceased purchasing Russian crude oil due to EU restrictions on Russian oil taking effect in 2026 and US sanctions on Rosneft–Lukoil. This decision is viewed as a critical turning point in US–India trade relations and global oil flows."
-wixId: "8a2809f1-5138-49d8-9401-6acb0152ea60"
-author: "Sedat Onat"
+title: India's Largest Company Reliance Halts Russian Oil Imports
+subtitle: India's Largest Company Reliance Halts Russian Oil Imports
+date: '2025-11-21T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_aa35f69770de4d639c0e91267f0815ca~mv2.jpg
+imageAlt: Reliance Industries has ceased purchasing Russian crude oil due to EU restrictions on Russian oil taking effect in 2026 and US sanctions on Rosneft–Lukoil. This decision is viewed as a critical turning point in US–India trade relations and global oil flows.
+wixId: 8a2809f1-5138-49d8-9401-6acb0152ea60
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Reliance Industries
+- Russia
+- oil imports
+- US sanctions
+- EU ban
+- India
+- energy supply
+- refinery
 ---
-
 <p style="text-align: justify"><strong>Reliance Industries, India's largest oil importer and the country's most powerful conglomerate</strong>, announced that it has completely halted oil purchases from Russia. This decision stands out as a strategic move driven by <strong>EU bans taking effect in 2026</strong> on one hand, and <strong>US sanctions coming into force on November 21</strong> on the other.</p>
 <p><br></p>
 <p style="text-align: justify">According to Reliance's statement, <strong>the export-oriented refinery complex at Jamnagar</strong> will no longer process Russian crude oil. This facility is known as the world's largest oil export refinery and represents one of India's key nodes in global energy trade.</p>

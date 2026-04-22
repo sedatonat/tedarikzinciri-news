@@ -1,14 +1,22 @@
 ---
-title: "Kızıldeniz'de Yangın Çıkan Isa Star Gemisi Mürettebatını Tahliye Etti"
-subtitle: "Kızıldeniz'de Yangın Çıkan Isa Star Gemisi Mürettebatını Tahliye Etti"
-date: "2024-12-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7b59ab11ae3148ed9841915e0d33e6a0~mv2.jpeg"
-imageAlt: "Kızıldeniz'de Yangın Çıkan Isa Star Gemisi Mürettebatını Tahliye Etti"
-wixId: "9f2aaeb7-09c7-4565-8aa6-5ec69ca8de70"
-author: "Sedat Onat"
+title: Kızıldeniz'de Yangın Çıkan Isa Star Gemisi Mürettebatını Tahliye Etti
+subtitle: Kızıldeniz'de Yangın Çıkan Isa Star Gemisi Mürettebatını Tahliye Etti
+date: '2024-12-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7b59ab11ae3148ed9841915e0d33e6a0~mv2.jpeg
+imageAlt: Kızıldeniz'de Yangın Çıkan Isa Star Gemisi Mürettebatını Tahliye Etti
+wixId: 9f2aaeb7-09c7-4565-8aa6-5ec69ca8de70
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kızıldeniz
+- gemi yangını
+- Isa Star
+- mürettebat tahliyesi
+- Avrupa Birliği
+- deniz güvenliği
+- Yemen
 ---
 <p>Kızıldeniz bölgesinde meydana gelen talihsiz bir olayda, Isa Star genel kargo gemisinin mürettebatı, gemide çıkan yangın nedeniyle tahliye edildi. Olay, Yemen yakınlarında gerçekleşti ve geminin motor odasında çıkan yangının ardından meydana gelen su baskını nedeniyle mürettebatın güvenli bir şekilde gemiden ayrılması gerektiği bildirildi. İlk raporlar, yangının bir Husi saldırısından kaynaklanmadığını, motor odasında meydana gelen teknik bir arıza sonucu ortaya çıktığını gösteriyor.</p>
 <p><br></p>

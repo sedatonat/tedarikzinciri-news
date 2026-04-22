@@ -1,16 +1,23 @@
 ---
-title: "Survey: U.S. Logistics Firms Pull Back on Sustainability"
-subtitle: "Survey: U.S. Logistics Firms Pull Back on Sustainability"
-date: "2025-03-18T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_468d63d8d7a64e3ea5530cfde731bac3~mv2.png"
-imageAlt: "Survey: U.S. Logistics Firms Pull Back on Sustainability"
-wixId: "1516d96e-41b0-420b-838f-f7569a3463fe"
-author: "Sedat Onat"
+title: 'Survey: U.S. Logistics Firms Pull Back on Sustainability'
+subtitle: 'Survey: U.S. Logistics Firms Pull Back on Sustainability'
+date: '2025-03-18T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_468d63d8d7a64e3ea5530cfde731bac3~mv2.png
+imageAlt: 'Survey: U.S. Logistics Firms Pull Back on Sustainability'
+wixId: 1516d96e-41b0-420b-838f-f7569a3463fe
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- US logistics
+- sustainability
+- ESG
+- electric fleet
+- fuel efficiency
+- green logistics
+- environmental investments
 ---
-
 <p>A new survey reveals that logistics companies across the United States are scaling back investments in sustainability initiatives. Forty-five percent of respondents said they have delayed environmental projects due to economic pressures. Fuel efficiency programs and EV fleet adoption are slowing due to cost considerations. Despite this, ESG compliance and customer expectations are keeping sustainability on the agenda. Experts predict that following this temporary pause, regulatory pressure will drive renewed momentum.</p>
 <p><br></p>
 <p><strong>Key Takeaways:</strong><br>

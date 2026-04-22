@@ -1,16 +1,22 @@
 ---
-title: "Turkish Cargo Board Chair Turhan Özen Removed from Position"
-subtitle: "Turkish Cargo Board Chair Turhan Özen Removed from Position"
-date: "2023-11-27T07:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f80d630763c14f63a4813ee92bf0c3af~mv2.jpg"
-imageAlt: "Turkish Cargo Board Chair Turhan Özen Removed from Position"
-wixId: "4e2dbd0f-b5b5-4dfa-bfc8-738ef2d279b5"
-author: "Sedat Onat"
+title: Turkish Cargo Board Chair Turhan Özen Removed from Position
+subtitle: Turkish Cargo Board Chair Turhan Özen Removed from Position
+date: '2023-11-27T07:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f80d630763c14f63a4813ee92bf0c3af~mv2.jpg
+imageAlt: Turkish Cargo Board Chair Turhan Özen Removed from Position
+wixId: 4e2dbd0f-b5b5-4dfa-bfc8-738ef2d279b5
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- THY Kargo
+- Turkish Cargo
+- Turhan Özen
+- senior appointment
+- corruption allegation
+- air cargo
 ---
-
 <p><strong>Major upheaval at Turkish Cargo.</strong><br>
 Turhan Özen, General Manager Assistant responsible for Cargo and Chairman of the Turkish Cargo Board, <strong>has been removed from his position</strong>.</p>
 <p><br>

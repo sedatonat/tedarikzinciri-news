@@ -1,14 +1,22 @@
 ---
-title: "ABD Sürdürülebilir Ulaşım Geleceğinde Deniz Taşımacılığının Kritik Rolü"
-subtitle: "ABD Sürdürülebilir Ulaşım Geleceğinde Deniz Taşımacılığının Kritik Rolü"
-date: "2024-12-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c57f724ff1a3422d82f02dae92a8b36d~mv2.jpg"
-imageAlt: "ABD Sürdürülebilir Ulaşım Geleceğinde Deniz Taşımacılığının Kritik Rolü"
-wixId: "ce1eb405-f8ab-4d60-917a-103ded56b498"
-author: "Sedat Onat"
+title: ABD Sürdürülebilir Ulaşım Geleceğinde Deniz Taşımacılığının Kritik Rolü
+subtitle: ABD Sürdürülebilir Ulaşım Geleceğinde Deniz Taşımacılığının Kritik Rolü
+date: '2024-12-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c57f724ff1a3422d82f02dae92a8b36d~mv2.jpg
+imageAlt: ABD Sürdürülebilir Ulaşım Geleceğinde Deniz Taşımacılığının Kritik Rolü
+wixId: ce1eb405-f8ab-4d60-917a-103ded56b498
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- deniz taşımacılığı
+- sürdürülebilirlik
+- ABS
+- intermodal taşımacılık
+- emisyon azaltma
+- ABD Denizcilik İdaresi
+- yük taşımacılığı
 ---
 <p><strong>American Bureau of Shipping (ABS)</strong> Başkanı ve CEO'su <strong>Christopher J. Wiernicki</strong>, Beyaz Saray'da düzenlenen Sürdürülebilir Yük Taşımacılığı Çalıştayı'nda, deniz taşımacılığının ABD'nin sürdürülebilir ulaşım geleceğindeki kritik rolüne dikkat çekti.</p>
 <p><br></p>

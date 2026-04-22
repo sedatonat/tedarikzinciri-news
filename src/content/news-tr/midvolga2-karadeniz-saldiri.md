@@ -1,14 +1,23 @@
 ---
-title: "MIDVOLGA-2 Tankeri Türk Kıyıları Açığında Saldırı Bildirdi; Mürettebat Güvende"
-subtitle: "MIDVOLGA-2 Tankeri Türk Kıyıları Açığında Saldırı Bildirdi; Mürettebat Güvende"
-date: "2025-12-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_83225039282149589aa32a6ff9fae2d1~mv2.jpeg"
-imageAlt: "Rus bayraklı MIDVOLGA-2 tankerinin Türkiye kıyılarından 80 mil açıkta saldırı bildirmesi, geminin durumu, bölgesel güvenlik bağlamı ve Karadeniz’de artan risklere dair detaylı haber özeti"
-wixId: "05458557-a8f7-49c4-94a2-d3906a019f92"
-author: "Sedat Onat"
+title: MIDVOLGA-2 Tankeri Türk Kıyıları Açığında Saldırı Bildirdi; Mürettebat Güvende
+subtitle: MIDVOLGA-2 Tankeri Türk Kıyıları Açığında Saldırı Bildirdi; Mürettebat Güvende
+date: '2025-12-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_83225039282149589aa32a6ff9fae2d1~mv2.jpeg
+imageAlt: Rus bayraklı MIDVOLGA-2 tankerinin Türkiye kıyılarından 80 mil açıkta saldırı bildirmesi, geminin durumu, bölgesel güvenlik bağlamı ve Karadeniz’de artan risklere dair detaylı haber özeti
+wixId: 05458557-a8f7-49c4-94a2-d3906a019f92
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Karadeniz
+- tanker
+- deniz güvenliği
+- MIDVOLGA-2
+- Rusya
+- Ukrayna
+- deniz saldırısı
+- ticari gemi
 ---
 <p style="text-align: justify">Karadeniz’de ticari gemilere yönelik saldırı haberlerine bir yenisi daha eklendi. <strong>Rus bayraklı MIDVOLGA-2</strong> tankeri, Türkiye’nin kuzey kıyılarından yaklaşık <strong>80 mil (129 km)</strong> açıkta seyir hâlindeyken saldırıya uğradığını bildirdi. Türkiye <strong>Maritime Affairs Directorate</strong>, attack bilgisinin doğrudan gemi tarafından iletildiğini ancak <strong>yardım talebi yapılmadığını</strong> açıkladı. Gemi, yükünü ve operasyonel kapasitesini koruyarak rotasını <strong>Sinop</strong> limanına çevirmiş durumda.</p>
 <p><br></p>

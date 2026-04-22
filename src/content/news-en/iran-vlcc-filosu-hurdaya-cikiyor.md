@@ -1,14 +1,22 @@
 ---
-title: "Iran-Linked VLCC Fleet Prepared for Scrapping"
-subtitle: "Iran-Linked VLCC Fleet Prepared for Scrapping"
-date: "2024-12-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c6b39a65d5b343369ea29b0b977b336b~mv2.jpg"
-imageAlt: "Iran-linked VLCC fleet being prepared for scrapping"
-wixId: "7b0478fb-8337-4325-9ade-68978e170455"
-author: "Sedat Onat"
+title: Iran-Linked VLCC Fleet Prepared for Scrapping
+subtitle: Iran-Linked VLCC Fleet Prepared for Scrapping
+date: '2024-12-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c6b39a65d5b343369ea29b0b977b336b~mv2.jpg
+imageAlt: Iran-linked VLCC fleet being prepared for scrapping
+wixId: 7b0478fb-8337-4325-9ade-68978e170455
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- VLCC
+- Iran
+- shadow fleet
+- sanctions
+- tanker market
+- scrap ship
+- China
+- oil transportation
 ---
-
 <p>Iran-linked Very Large Crude Carriers (VLCC) fleet is undergoing significant changes. With only six weeks until Donald Trump, the 47th President of the United States, takes office, new sanctions targeting Iran's tanker fleet and China's efforts to reduce Iranian oil imports are creating substantial impact on the sector. According to a new report published by Braemar, two shadow fleet VLCCs are being offered for scrapping. If these vessels are scrapped, it would mark the first time since 2022 that VLCCs enter the demolition process.</p>\n<p><br></p>\n<p>Braemar noted that if sanctions continue and Chinese customers lose confidence in Iranian oil, VLCCs older than 20 years—which carry the majority of Iranian crude—could be scrapped. As of 2024, two-thirds of crude oil on vessels older than 20 years belongs to Iran. Additionally, according to Braemar, approximately 44 percent of Iranian crude transported on VLCCs this year is on sanctioned tankers. This situation and the age of the vessels make it difficult for these ships to easily return to unsanctioned trade.</p>\n<p><br></p>\n<p>During the Trump administration, the United States withdrew from the Iran nuclear deal and imposed a complete embargo on Iran's crude oil exports in 2019. As a result, Iran's crude oil shipments fell from 2.5 million barrels per day in the first half of 2018 to 250,000 barrels. Under the Biden administration, sanctions enforcement was not as strict, and Iran's exports began recovering gradually. As of 2024, according to data compiled by Poten &amp; Partners, Iran's exports exceeded an average of 1.5 million barrels per day.</p>\n<p><br></p>\n<p>Poten noted that if the United States dramatically reduces Iran's exports, it would provide significant stimulus to the VLCC market in particular. A large portion of VLCCs in the shadow fleet carry Iranian crude oil, while Venezuela's exports remain modest, and Russia relies more on Aframax and Suezmax vessels. The replacement of Iranian barrels with crude from unsanctioned other producers would create additional employment opportunities for the mainstream tanker fleet.</p>\n<p><br></p>\n<p>Five years ago, the Trump administration sanctioned Chinese state-backed carrier COSCO's subsidiaries for their participation in Iranian oil trade, a move that caused shipping rates to rise as high as $200,000 per day. The United States has so far sanctioned a total of 35 VLCCs, with 85 on a watch list. Jefferies analysts project that if the other 85 VLCCs on this list are also sanctioned, crude oil tanker capacity utilization would increase from 85 percent to 95 percent. These developments paint a positive picture for VLCCs and the tanker market more broadly.</p>\n<p><br></p>\n<h5><strong>Key Points:</strong></h5>\n<ul>\n  <li><p>The Trump administration implementing a complete crude oil embargo against Iran.</p></li>\n  <li><p>As of 2024, Iran's average daily crude oil exports of 1.5 million barrels.</p></li>\n  <li><p>According to the Braemar report, the likelihood of VLCCs over 20 years old being scrapped.</p></li>\n  <li><p>China beginning to reduce its imports of Iranian oil.</p></li>\n  <li><p>The United States having sanctioned 35 VLCCs so far and maintaining 85 on a watch list.</p></li>\n  <li><p>According to Jefferies analysis, the potential for additional sanctions to increase tanker capacity utilization from 85 percent to 95 percent.</p></li>\n  <li><p>The Trump administration imposing sanctions on Chinese state-backed COSCO's subsidiaries and its impact on shipping rates.</p></li>\n</ul>\n<p><br></p>\n<p>---</p>\n<p><br></p>\n<p><strong>News Link: </strong><a href="https://splash247.com/shadow-vlccs-lined-up-for-demolition/"><u>https://splash247.com/shadow-vlccs-lined-up-for-demolition/</u></a></p>\n<p><br></p>\n<p>-------------------</p>\n<p><strong>!!! ANNOUNCEMENT !!!</strong></p>\n<p><strong>How to Get ERP? Our Book has been published on Google Play Books.</strong></p>\n<p>#What is ERP?</p>\n<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>\n<p>We would be delighted to receive your feedback.</p>\n<p>Wishing you happy reading from the start.</p>\n<p><br></p>

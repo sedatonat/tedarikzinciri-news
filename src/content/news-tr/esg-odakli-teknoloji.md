@@ -1,14 +1,22 @@
 ---
-title: "2025’te ESG Odaklı Teknolojiyi Kurgulamak"
-subtitle: "2025’te ESG Odaklı Teknolojiyi Kurgulamak"
-date: "2025-05-05T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_b9eed94f3dfd4d2696fc959fdf9f7c3a~mv2.png"
-imageAlt: "2025’te Esg Odaklı Teknolojiyi Kurgulamak"
-wixId: "1e7cd29c-977b-4bc0-811d-ea531c4ed96a"
-author: "Sedat Onat"
+title: 2025’te ESG Odaklı Teknolojiyi Kurgulamak
+subtitle: 2025’te ESG Odaklı Teknolojiyi Kurgulamak
+date: '2025-05-05T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_b9eed94f3dfd4d2696fc959fdf9f7c3a~mv2.png
+imageAlt: 2025’te Esg Odaklı Teknolojiyi Kurgulamak
+wixId: 1e7cd29c-977b-4bc0-811d-ea531c4ed96a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ESG
+- sürdürülebilirlik
+- dijital ürün pasaportu
+- karbon ayak izi
+- tedarik zinciri
+- yapay zeka
+- CSRD
 ---
 <p style="text-align: justify"><strong>ESG odaklı teknoloji vizyonu</strong>, artık sadece sürdürülebilirlik raporlama yükümlülüğü değil; <strong>veri şeffaflığı, hesap verebilirlik ve işletme değeri üretimi</strong> üzerine kurulu bir iş modeli haline gelmektedir. Kurumlar, çevresel ve sosyal etkilerini ölçülebilir kılarak hem <strong>finansmana erişim</strong> hem de <strong>rekabet avantajı</strong> sağlamaktadır.</p>
 <p><br></p>

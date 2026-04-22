@@ -1,16 +1,24 @@
 ---
-title: "Daily $1 Billion in Exports: China Preserves Negotiating Power Despite US Tariffs"
-subtitle: "Daily $1 Billion in Exports: China Preserves Negotiating Power Despite US Tariffs"
-date: "2025-10-22T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/11062b_9bd869e00b774de699f1d757e8286d11~mv2.jpg"
-imageAlt: "Daily $1 Billion in Exports: China Preserves Negotiating Power Despite US Tariffs"
-wixId: "5f69e44b-cf36-45b8-93ed-478ab21cd178"
-author: "Sedat Onat"
+title: 'Daily $1 Billion in Exports: China Preserves Negotiating Power Despite US Tariffs'
+subtitle: 'Daily $1 Billion in Exports: China Preserves Negotiating Power Despite US Tariffs'
+date: '2025-10-22T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/11062b_9bd869e00b774de699f1d757e8286d11~mv2.jpg
+imageAlt: 'Daily $1 Billion in Exports: China Preserves Negotiating Power Despite US Tariffs'
+wixId: 5f69e44b-cf36-45b8-93ed-478ab21cd178
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- China
+- USA
+- trade war
+- customs tariffs
+- supply chain
+- exports
+- e-commerce
+- rare earth elements
 ---
-
 <p style="text-align: justify"><strong>As the trade war launched by US President Donald Trump enters its sixth month,</strong> <strong>China's export resilience</strong> clearly demonstrates Beijing's critical role in global supply chains.</p>
 <p><br>
 Despite <strong>US tariffs reaching 55 percent,</strong> China continues to export <strong>approximately $1 billion worth of goods to the United States daily.</strong></p>

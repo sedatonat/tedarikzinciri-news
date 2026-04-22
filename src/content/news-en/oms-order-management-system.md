@@ -1,16 +1,23 @@
 ---
-title: "The Smart Buying Journey: How OMS Connects Your Supply Chain"
-subtitle: "The Smart Buying Journey: How OMS Connects Your Supply Chain"
-date: "2025-08-01T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_883445a6fa764902a1c6cc852665e320~mv2.png"
-imageAlt: "The Smart Buying Journey: How OMS Connects Your Supply Chain"
-wixId: "9c195ab5-0f83-4e5c-91ec-5eefda7ea07b"
-author: "Sedat Onat"
+title: 'The Smart Buying Journey: How OMS Connects Your Supply Chain'
+subtitle: 'The Smart Buying Journey: How OMS Connects Your Supply Chain'
+date: '2025-08-01T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_883445a6fa764902a1c6cc852665e320~mv2.png
+imageAlt: 'The Smart Buying Journey: How OMS Connects Your Supply Chain'
+wixId: 9c195ab5-0f83-4e5c-91ec-5eefda7ea07b
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- OMS
+- order management
+- supply chain
+- artificial intelligence
+- BOPIS
+- inventory management
+- order routing
 ---
-
 <p style="text-align: justify"><strong>Order Management System (OMS)</strong> serves as the <strong>nervous system</strong> in the modern supply chain, connecting <strong>sales channels, inventory and logistics</strong>. An intelligent OMS uses <strong>inventory orchestration</strong>, <strong>available-to-promise (ATP)</strong> and <strong>order promising</strong> rules to direct each order to the optimal node based on customer demand and operational capacity. This ensures that each order is fulfilled with the right product, in the right location, at the right time.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">On the <strong>customer experience</strong> side, various order scenarios are managed through the OMS. Hybrid models such as <strong>Buy Online, Pick Up In Store (BOPIS)</strong>, <strong>ship-from-store</strong> and <strong>dropship</strong> leverage real-time inventory and location data from the OMS to create operational flexibility. This approach both reduces excess inventory and increases customer satisfaction.</p>

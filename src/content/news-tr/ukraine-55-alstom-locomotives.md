@@ -1,14 +1,23 @@
 ---
-title: "Ukrayna Demiryolları, Alstom’dan 55 Yeni Lokomotif Satın Alıyor"
-subtitle: "Ukrayna Demiryolları, Alstom’dan 55 Yeni Lokomotif Satın Alıyor"
-date: "2025-11-17T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_399b79804be54419b92843f9712a5a0a~mv2.jpg"
-imageAlt: "Ukrayna Demiryolları, Alstom’dan 55 Yeni Lokomotif Satın Alıyor"
-wixId: "06a86ad4-4b1e-4e53-a78c-68066952f1aa"
-author: "Sedat Onat"
+title: Ukrayna Demiryolları, Alstom’dan 55 Yeni Lokomotif Satın Alıyor
+subtitle: Ukrayna Demiryolları, Alstom’dan 55 Yeni Lokomotif Satın Alıyor
+date: '2025-11-17T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_399b79804be54419b92843f9712a5a0a~mv2.jpg
+imageAlt: Ukrayna Demiryolları, Alstom’dan 55 Yeni Lokomotif Satın Alıyor
+wixId: 06a86ad4-4b1e-4e53-a78c-68066952f1aa
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ukrayna Demiryolları
+- Alstom
+- lokomotif
+- demiryolu modernizasyonu
+- dual-voltage
+- EBRD
+- Dünya Bankası
+- AB entegrasyonu
 ---
 <p style="text-align: justify">Ukrayna Demiryolları (<strong>Ukrzaliznytsia – UZ</strong>), ülke demiryolu sisteminin modernizasyonunda uzun süredir beklenen en kritik adımlardan birini atarak Fransız üretici <strong>Alstom</strong>’dan <strong>55 adet dual-voltage elektrikli lokomotif</strong> satın alıyor. Anlaşma, Ukrayna’nın makas değiştiren altyapısının hem savaş koşullarında hem de AB ile entegrasyon hedeflerinde daha dayanıklı ve verimli çalışabilmesi için stratejik bir yatırım olarak değerlendiriliyor.</p>
 <p><br></p>

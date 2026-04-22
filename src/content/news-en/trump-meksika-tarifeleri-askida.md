@@ -1,16 +1,23 @@
 ---
-title: "Trump Suspends Mexico Tariffs Until April 2"
-subtitle: "Trump Suspends Mexico Tariffs Until April 2"
-date: "2025-03-06T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_92212f3ed01a45d196c0ba6471f03dd4~mv2.png"
-imageAlt: "Trump Suspends Mexico Tariffs Until April 2"
-wixId: "75c6c939-4ae9-4f5b-959f-3dd577534083"
-author: "Sedat Onat"
+title: Trump Suspends Mexico Tariffs Until April 2
+subtitle: Trump Suspends Mexico Tariffs Until April 2
+date: '2025-03-06T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_92212f3ed01a45d196c0ba6471f03dd4~mv2.png
+imageAlt: Trump Suspends Mexico Tariffs Until April 2
+wixId: 75c6c939-4ae9-4f5b-959f-3dd577534083
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Trump
+- Mexico
+- customs duty
+- USMCA
+- tariff
+- trade war
+- Canada
 ---
-
 <p style="text-align: justify">U.S. President <strong>Donald Trump</strong> announced on March 6, 2025, that he has suspended the 25% tariffs on products imported from <strong>Mexico</strong> and covered under the <strong>United States-Mexico-Canada Agreement</strong> (<strong>USMCA</strong>) until April 2. The decision came following a telephone conversation between Trump and Mexican President <strong>Claudia Sheinbaum</strong>.&nbsp;</p>
 <p><br></p>
 <p style="text-align: justify">In a statement on <strong>Truth Social</strong>, Trump indicated that he and Sheinbaum had reached strong agreement on border security and preventing fentanyl trafficking. He also noted that they agreed Mexico would not pay tariffs on any products covered under USMCA, with this arrangement remaining in effect until April 2.&nbsp;</p>

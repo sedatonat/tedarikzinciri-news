@@ -1,14 +1,22 @@
 ---
-title: "Postrack, İngiltere’de Lojistik ve Karayolu Taşımacılığına Yönelik Varlık Takip Hizmeti Başlattı"
-subtitle: "Postrack, İngiltere’de Lojistik ve Karayolu Taşımacılığına Yönelik Varlık Takip Hizmeti Başlattı"
-date: "2025-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f96a16e9b4b9483698d35c63be67d942~mv2.jpg"
-imageAlt: "Avrupa merkezli GPS takip uzmanı Postrack, İngiltere’de yeni bir operasyon başlatarak lojistik, karayolu taşımacılığı ve konteyner yönetimi sektörlerine yönelik ileri varlık izleme (asset tracking) çözümlerini pazara sundu."
-wixId: "3767601d-128a-4c04-98a5-5a0aeb1eb020"
-author: "Sedat Onat"
+title: Postrack, İngiltere’de Lojistik ve Karayolu Taşımacılığına Yönelik Varlık Takip Hizmeti Başlattı
+subtitle: Postrack, İngiltere’de Lojistik ve Karayolu Taşımacılığına Yönelik Varlık Takip Hizmeti Başlattı
+date: '2025-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f96a16e9b4b9483698d35c63be67d942~mv2.jpg
+imageAlt: Avrupa merkezli GPS takip uzmanı Postrack, İngiltere’de yeni bir operasyon başlatarak lojistik, karayolu taşımacılığı ve konteyner yönetimi sektörlerine yönelik ileri varlık izleme (asset tracking) çözümlerini pazara sundu.
+wixId: 3767601d-128a-4c04-98a5-5a0aeb1eb020
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Postrack
+- varlık takip
+- GPS
+- İngiltere
+- karayolu taşımacılığı
+- konteyner yönetimi
+- asset tracking
 ---
 <p style="text-align: justify"><strong>Avrupa’nın önde gelen GPS tabanlı varlık takip (asset tracking) firmalarından Postrack</strong>, <strong>İngiltere pazarına giriş yaptığını</strong> açıkladı. Bu adım, şirketin <strong>uluslararası büyüme stratejisinin</strong> bir parçası olarak <strong>yeni bir İngiltere merkezli birimin kurulmasıyla</strong> hayata geçirildi.</p>
 <p><br></p>

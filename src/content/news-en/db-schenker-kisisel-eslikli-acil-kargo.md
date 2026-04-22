@@ -1,16 +1,23 @@
 ---
-title: "DB Schenker Launches Personal Escort Emergency Air Freight Service"
-subtitle: "DB Schenker Launches Personal Escort Emergency Air Freight Service"
-date: "2024-03-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_08c128d6234044b8a9a37e75ac999cce~mv2.jpg"
-imageAlt: "DB Schenker Launches Personal Escort Emergency Air Freight Service"
-wixId: "a20e04d1-33a4-4f10-a04e-2f2783ba4cc6"
-author: "Sedat Onat"
+title: DB Schenker Launches Personal Escort Emergency Air Freight Service
+subtitle: DB Schenker Launches Personal Escort Emergency Air Freight Service
+date: '2024-03-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_08c128d6234044b8a9a37e75ac999cce~mv2.jpg
+imageAlt: DB Schenker Launches Personal Escort Emergency Air Freight Service
+wixId: a20e04d1-33a4-4f10-a04e-2f2783ba4cc6
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- DB Schenker
+- urgent courier service
+- air cargo
+- OBC
+- automotive
+- healthcare logistics
+- real-time tracking
 ---
-
 <p><a href="https://www.dbschenker.com/global"><u>DB Schenker</u></a> has launched a personal escort courier service for time-critical shipments in the automotive, electronics, high fashion, and healthcare sectors. The new service enables couriers to personally transport cargo as passengers on commercial flights, minimizing the risk of loss or damage while guaranteeing the fastest possible transit times. <a href="https://www.dbschenker.com/global"><u>DB Schenker</u></a> is targeting customers requiring urgent courier solutions for small, high-value shipments. The service is available for all shipment types except hazardous materials and is seeing strong demand from major corporate clients, particularly in the automotive, electronics, high fashion, and healthcare sectors. Maximum transparency is provided through real-time tracking.</p>
 <p><br></p>
 <h5>Key Points</h5>

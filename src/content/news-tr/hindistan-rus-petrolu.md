@@ -1,14 +1,23 @@
 ---
-title: "Hindistan’ın En Büyük Şirketi Reliance, Rus Petrolü İthalatını Durdurdu"
-subtitle: "Hindistan’ın En Büyük Şirketi Reliance, Rus Petrolü İthalatını Durdurdu"
-date: "2025-11-21T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_aa35f69770de4d639c0e91267f0815ca~mv2.jpg"
-imageAlt: "Reliance Industries, AB’nin 2026’da yürürlüğe girecek Rus petrolü kısıtlamaları ve ABD’nin Rosneft–Lukoil yaptırımları nedeniyle Rus ham petrolü alımını durdurdu. Bu karar, ABD–Hindistan ticaret ilişkileri ve küresel petrol akışları açısından kritik bir dönemeç olarak değerlendiriliyor."
-wixId: "8a2809f1-5138-49d8-9401-6acb0152ea60"
-author: "Sedat Onat"
+title: Hindistan’ın En Büyük Şirketi Reliance, Rus Petrolü İthalatını Durdurdu
+subtitle: Hindistan’ın En Büyük Şirketi Reliance, Rus Petrolü İthalatını Durdurdu
+date: '2025-11-21T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_aa35f69770de4d639c0e91267f0815ca~mv2.jpg
+imageAlt: Reliance Industries, AB’nin 2026’da yürürlüğe girecek Rus petrolü kısıtlamaları ve ABD’nin Rosneft–Lukoil yaptırımları nedeniyle Rus ham petrolü alımını durdurdu. Bu karar, ABD–Hindistan ticaret ilişkileri ve küresel petrol akışları açısından kritik bir dönemeç olarak değerlendiriliyor.
+wixId: 8a2809f1-5138-49d8-9401-6acb0152ea60
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Reliance Industries
+- Rusya
+- petrol ithalatı
+- ABD yaptırımları
+- AB yasağı
+- Hindistan
+- enerji tedariki
+- rafineri
 ---
 <p style="text-align: justify"><strong>Hindistan’ın en büyük petrol ithalatçısı ve ülkenin en güçlü holdingi olan Reliance Industries</strong>, Rusya’dan petrol alımını tamamen durdurduğunu açıkladı. Bu karar, bir yandan <strong>2026’da yürürlüğe girecek AB yasakları</strong>, diğer yandan <strong>21 Kasım’da devreye giren ABD yaptırımları</strong> nedeniyle alınmış stratejik bir adım olarak öne çıkıyor.</p>
 <p><br></p>

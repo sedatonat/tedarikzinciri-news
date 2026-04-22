@@ -1,14 +1,23 @@
 ---
-title: "Lloyd's Register Su Altı Gürültü Kirliliği Projesine Katıldı"
-subtitle: "Lloyd's Register Su Altı Gürültü Kirliliği Projesine Katıldı"
-date: "2025-02-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_009a2d0be54848929227acaa4ebc9b46~mv2.jpg"
-imageAlt: "Lloyd's Register Su Altı Gürültü Kirliliği Projesine Katıldı"
-wixId: "408e3750-725a-4193-a2aa-73f6aa0395e4"
-author: "Sedat Onat"
+title: Lloyd's Register Su Altı Gürültü Kirliliği Projesine Katıldı
+subtitle: Lloyd's Register Su Altı Gürültü Kirliliği Projesine Katıldı
+date: '2025-02-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_009a2d0be54848929227acaa4ebc9b46~mv2.jpg
+imageAlt: Lloyd's Register Su Altı Gürültü Kirliliği Projesine Katıldı
+wixId: 408e3750-725a-4193-a2aa-73f6aa0395e4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Lloyd's Register
+- su altı gürültü
+- deniz kirliliği
+- Avrupa Birliği
+- LOWNOISER projesi
+- denizcilik
+- gemi teknolojisi
+- çevre koruma
 ---
 <p style="text-align: justify">Lloyd's Register (<strong>LR</strong>), denizcilik faaliyetlerinden kaynaklanan su altı gürültü kirliliğiyle mücadele etmek amacıyla başlatılan <strong>LOWNOISER</strong> projesine katıldı. Avrupa Birliği tarafından 6,3 milyon € (6,5 milyon $) ile desteklenen bu girişim, 15 ortağı bir araya getirerek yeni gürültü azaltma teknolojileri geliştirmeyi, düzenleyici standartlar oluşturmayı ve endüstriyel uygulamaları iyileştirerek deniz habitatlarını korumayı hedeflemekte. ​</p>
 <p><br></p>

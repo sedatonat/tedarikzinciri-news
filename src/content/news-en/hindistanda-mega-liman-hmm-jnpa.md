@@ -1,16 +1,23 @@
 ---
-title: "HMM and JNPA Partnership for New Mega Container Port in India"
-subtitle: "HMM and JNPA Partnership for New Mega Container Port in India"
-date: "2025-01-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_265c539434d248bf88c58c15b93fb9d0~mv2.jpg"
-imageAlt: "HMM and JNPA Partnership for New Mega Container Port in India"
-wixId: "5d596990-17d3-4274-b0b8-dfb6047b72e7"
-author: "Sedat Onat"
+title: HMM and JNPA Partnership for New Mega Container Port in India
+subtitle: HMM and JNPA Partnership for New Mega Container Port in India
+date: '2025-01-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_265c539434d248bf88c58c15b93fb9d0~mv2.jpg
+imageAlt: HMM and JNPA Partnership for New Mega Container Port in India
+wixId: 5d596990-17d3-4274-b0b8-dfb6047b72e7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- HMM
+- JNPA
+- India
+- mega container port
+- Vadhavan Port
+- maritime shipping
+- port development
 ---
-
 <p style="text-align: justify"><strong>HMM</strong> and <strong>Jawaharlal Nehru Port Authority (JNPA)</strong> have established a strategic partnership to develop a new mega container port in the <strong>Vadhavan</strong> region of Maharashtra state in India. The project aims to enhance India's maritime transport capacity and expand trade volumes in the region.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Vadhavan Port</strong> is being planned as India's first offshore port and will be built on an artificial island. This port, under the <strong>Sagar Mala</strong> project, will serve as the country's second major port following <strong>Vizhinjam International Seaport</strong>. The port's construction cost is estimated at approximately 76,220 crore ₹ and the project will be executed by <strong>Vadhavan Port Project Limited (VPPL)</strong>. A public-private partnership model has been adopted, with <strong>Jawaharlal Nehru Port</strong> holding 74% and <strong>Maharashtra Maritime Board</strong> holding 26% of this special purpose company.</p>

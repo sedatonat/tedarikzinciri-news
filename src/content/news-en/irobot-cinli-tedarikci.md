@@ -1,16 +1,24 @@
 ---
-title: "Chinese Supplier Takes Control of iRobot"
-subtitle: "Chinese Supplier Takes Control of iRobot"
-date: "2025-12-15T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_10a14b656399480298be4174394e3e29~mv2.jpg"
-imageAlt: "Detailed sector overview on iRobot's transition to private ownership under its main Chinese supplier Picea as the company enters bankruptcy proceedings due to debt burden and financial uncertainty"
-wixId: "987c5663-7c7c-4f33-9a07-4f8f421031e6"
-author: "Sedat Onat"
+title: Chinese Supplier Takes Control of iRobot
+subtitle: Chinese Supplier Takes Control of iRobot
+date: '2025-12-15T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_10a14b656399480298be4174394e3e29~mv2.jpg
+imageAlt: Detailed sector overview on iRobot's transition to private ownership under its main Chinese supplier Picea as the company enters bankruptcy proceedings due to debt burden and financial uncertainty
+wixId: 987c5663-7c7c-4f33-9a07-4f8f421031e6
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- iRobot
+- Picea
+- bankruptcy
+- supplier control
+- China
+- robot vacuum
+- supply chain risk
+- vertical integration
 ---
-
 <p style="text-align: justify"><strong>iRobot</strong>, one of the best-known brands in the robot vacuum market, has entered <strong>Chapter 11 bankruptcy</strong> proceedings due to mounting debt and weakening financial conditions. The company filed for bankruptcy in Delaware on December 14, 2025. This development has brought to light long-standing structural issues that have accumulated in the consumer electronics and home robotics market. Through this process, <strong>Picea</strong>, one of iRobot's main Chinese suppliers, is taking control of the company and taking it private.</p>
 <p><br></p>
 <p style="text-align: justify">The debt structure clearly reveals the financial squeeze in which iRobot finds itself. The company owes approximately <strong>100 million dollars</strong> to <strong>Picea</strong>, <strong>2.7 million dollars</strong> to China-based electric vehicle manufacturer <strong>BYD</strong>, and <strong>3.4 million dollars</strong> in unpaid customs duties to <strong>U.S. Customs and Border Protection</strong>. This debt structure stands out as a striking example of how global supply chain dependencies can transform into financial risks.</p>

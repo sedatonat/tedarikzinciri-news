@@ -1,16 +1,24 @@
 ---
-title: "DHL Supply Chain Reshapes Regional Logistics with €130 Million Mega Distribution Hub in Riyadh"
-subtitle: "DHL Supply Chain Reshapes Regional Logistics with €130 Million Mega Distribution Hub in Riyadh"
-date: "2025-11-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_eba0f599e84d47488cfe6d4cf08bea79~mv2.jpg"
-imageAlt: "Detailed analysis of DHL's €130 million investment in new SILZ logistics hub in Riyadh, marking shift from Dubai-centric to Riyadh-centric hub model in Middle East and Africa transportation"
-wixId: "37b5be5b-dc99-40a4-89f7-5d0b5c63a2f4"
-author: "Sedat Onat"
+title: DHL Supply Chain Reshapes Regional Logistics with €130 Million Mega Distribution Hub in Riyadh
+subtitle: DHL Supply Chain Reshapes Regional Logistics with €130 Million Mega Distribution Hub in Riyadh
+date: '2025-11-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_eba0f599e84d47488cfe6d4cf08bea79~mv2.jpg
+imageAlt: Detailed analysis of DHL's €130 million investment in new SILZ logistics hub in Riyadh, marking shift from Dubai-centric to Riyadh-centric hub model in Middle East and Africa transportation
+wixId: 37b5be5b-dc99-40a4-89f7-5d0b5c63a2f4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- DHL Supply Chain
+- Riyadh
+- distribution center
+- Saudi Arabia
+- Vision 2030
+- Red Sea crisis
+- air cargo
+- regional hub
 ---
-
 <p style="text-align: justify">As the Red Sea becomes increasingly vulnerable to drone attacks from a maritime shipping perspective, <strong>DHL Supply Chain</strong>, one of the logistics sector's biggest players, has captured attention with a strategic investment in Saudi Arabia. The company is constructing a massive <strong>€130 million distribution center in Riyadh (approximately 560 million SAR)</strong>, fundamentally reshaping the region's air-land connected logistics model. This development aligns with Saudi Arabia's long-standing <strong>Vision 2030</strong> policies, aiming to position the country not merely as a consumer market, but as a <strong>primary regional hub</strong> for the Middle East and Africa.</p>
 <p><br></p>
 <p style="text-align: justify">The new facility will hold an <strong>anchor tenant</strong> position within the <strong>Special Integrated Logistics Zone (SILZ)</strong> being established in Riyadh. The project offers <strong>53,000 m² of warehouse capacity</strong> across <strong>78,000 m² of land</strong>. Construction is scheduled to begin in <strong>the first quarter of 2026</strong>, with operations commencing in <strong>the second quarter of 2027</strong>. Among the project's most critical elements is the facility's location just <strong>8 km from King Khalid International Airport</strong> and its integration with a direct <strong>bonded corridor</strong> connecting to the airport. This enables high-value or time-sensitive cargo to be transferred seamlessly from the airport to the warehouse without interruption.</p>

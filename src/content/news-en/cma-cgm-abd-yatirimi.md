@@ -1,16 +1,24 @@
 ---
-title: "CMA CGM's $20 Billion Investment in the United States"
-subtitle: "CMA CGM's $20 Billion Investment in the United States"
-date: "2025-03-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_cbdf8269aec54d5cae3821d3c5ce924d~mv2.jpg"
-imageAlt: "CMA CGM's $20 Billion Investment in the United States"
-wixId: "fabbf6cc-bcfd-436c-9d4b-db6da23716bd"
-author: "Sedat Onat"
+title: CMA CGM's $20 Billion Investment in the United States
+subtitle: CMA CGM's $20 Billion Investment in the United States
+date: '2025-03-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_cbdf8269aec54d5cae3821d3c5ce924d~mv2.jpg
+imageAlt: CMA CGM's $20 Billion Investment in the United States
+wixId: fabbf6cc-bcfd-436c-9d4b-db6da23716bd
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- CMA CGM
+- USA
+- maritime
+- container ship
+- logistics investment
+- air cargo
+- port
+- Trump
 ---
-
 <p style="text-align: justify">French maritime giant <a href="https://www.cma-cgm.com/"><u><strong>CMA CGM</strong></u></a> plans to invest $20 billion in the United States over the next four years. This investment aims to expand the company's presence in the U.S. and revitalize the country's maritime sector. <strong>CMA CGM</strong> CEO <strong>Rodolphe Saadé</strong> announced the plan at the White House alongside U.S. President <strong>Donald Trump</strong>.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Investment Details</strong></p>

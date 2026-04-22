@@ -1,14 +1,22 @@
 ---
-title: "Singapur’un LNG Potansiyelini Artıran Yeni Adım"
-subtitle: "Singapur’un LNG Potansiyelini Artıran Yeni Adım"
-date: "2024-12-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e0ff53d8aa994ee8be4a4082181eead3~mv2.jpg"
-imageAlt: "Singapur’un LNG Potansiyelini Artıran Yeni Adım"
-wixId: "b5c0aba2-394a-4990-990d-e0b6709cb144"
-author: "Sedat Onat"
+title: Singapur’un LNG Potansiyelini Artıran Yeni Adım
+subtitle: Singapur’un LNG Potansiyelini Artıran Yeni Adım
+date: '2024-12-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e0ff53d8aa994ee8be4a4082181eead3~mv2.jpg
+imageAlt: Singapur’un LNG Potansiyelini Artıran Yeni Adım
+wixId: b5c0aba2-394a-4990-990d-e0b6709cb144
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- LNG
+- bunkering gemisi
+- Singapur
+- deniz yakıtı
+- düşük emisyon
+- CIMC SOE
+- sürdürülebilirlik
 ---
 <p>Equatorial Marine Fuel Management Services, Singapur merkezli önemli bir deniz yakıtı tedarikçisi olarak, LNG kullanımını teşvik etme hedefi doğrultusunda yeni bir adım atıyor. CIMC SOE tersanesiyle anlaşmaya varan şirket, 8.000 cbm kapasiteye sahip bir LNG bunkering gemisi inşa ettirmeye hazırlanıyor. Teslimatın 2026’nın dördüncü çeyreğinde gerçekleşmesi planlanırken, bu geminin tek seferde büyük miktarda LNG taşıma kabiliyetine sahip olduğu belirtiliyor. Ship-to-Ship bunkering faaliyetlerinde görev alacak gemi, gelecekte Singapur limanında artan düşük emisyonlu yakıt talebine hizmet etmeyi amaçlıyor. Gelişmiş tasarımı sayesinde, geminin operasyonel verimliliği artırması ve çevresel etkileri en aza indirmesi bekleniyor. Equatorial Marine Fuel Management Services, küresel denizcilik sektöründe karbonsuzlaşmaya yönelik çabaları desteklemeye kararlı bir tutum sergiliyor.</p>
 <p><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "FedEx: Global Supply Chain Shocks Will Be Permanent, New Regional Balance Emerging"
-subtitle: "FedEx: Global Supply Chain Shocks Will Be Permanent, New Regional Balance Emerging"
-date: "2025-11-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e6b51b4eac8d479c905c11eb67ab9951~mv2.jpg"
-imageAlt: "FedEx CEO Raj Subramaniam stated that global trade has permanently changed due to technology, geopolitical risks, and tariffs, with supply chains shifting toward regionalization, and that reversing this transformation will be difficult."
-wixId: "fb10c2ca-30ae-4b93-80e5-fb02b554df4a"
-author: "Sedat Onat"
+title: 'FedEx: Global Supply Chain Shocks Will Be Permanent, New Regional Balance Emerging'
+subtitle: 'FedEx: Global Supply Chain Shocks Will Be Permanent, New Regional Balance Emerging'
+date: '2025-11-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e6b51b4eac8d479c905c11eb67ab9951~mv2.jpg
+imageAlt: FedEx CEO Raj Subramaniam stated that global trade has permanently changed due to technology, geopolitical risks, and tariffs, with supply chains shifting toward regionalization, and that reversing this transformation will be difficult.
+wixId: fb10c2ca-30ae-4b93-80e5-fb02b554df4a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- FedEx
+- supply chain
+- regionalization
+- trade wars
+- nearshoring
+- China-US trade
+- just-in-case
+- geopolitics
 ---
-
 <p style="text-align: justify"><strong>FedEx CEO Raj Subramaniam</strong> said that fluctuations in global supply chains are not temporary but rather <strong>permanent and structural changes</strong>. Speaking in Singapore at the <strong>Bloomberg New Economy Forum</strong>, Subramaniam indicated that supply chains are progressing toward a <strong>"new equilibrium point"</strong>, particularly due to <strong>technological transformation, geopolitical tensions, and trade wars</strong>.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>"Regional supply chain model becoming permanent"</strong></h5>

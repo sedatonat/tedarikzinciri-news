@@ -1,14 +1,22 @@
 ---
-title: "Golden Ray Gemisi Yazım Yanlışının Bedeli Olmaya Devam Etti"
-subtitle: "Golden Ray Gemisi Yazım Yanlışının Bedeli Olmaya Devam Etti"
-date: "2024-07-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7cdc612f4fe74335bb45dc00eb95fcce~mv2.jpg"
-imageAlt: "Golden Ray Gemisi Yazım Yanlışının Bedeli Olmaya Devam Etti"
-wixId: "46968dae-e02a-47f7-9d9b-866fd1bae774"
-author: "Sedat Onat"
+title: Golden Ray Gemisi Yazım Yanlışının Bedeli Olmaya Devam Etti
+subtitle: Golden Ray Gemisi Yazım Yanlışının Bedeli Olmaya Devam Etti
+date: '2024-07-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7cdc612f4fe74335bb45dc00eb95fcce~mv2.jpg
+imageAlt: Golden Ray Gemisi Yazım Yanlışının Bedeli Olmaya Devam Etti
+wixId: 46968dae-e02a-47f7-9d9b-866fd1bae774
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Golden Ray
+- gemi kazası
+- alabora
+- deniz taşımacılığı
+- yazım hatası
+- araç taşıma
+- kurtarma operasyonu
 ---
 <p>Golden Ray gemisi, son seferine çıktığı yolculukta yaşanan yazım yanlışı nedeniyle alabora olarak batma felaketi yaşadı. 7 bin 400 araç taşıyan gemi, sıfır kilometre araçlarını bekleyen müşteriler için büyük bir hayal kırıklığına yol açtı. Okyanus ötesine nakliyat yapan Golden Ray, 19 Ağustos 2019 tarihinde son yolculuğuna çıkarak Veracruz, Altamira ve Freeport gibi limanlardan lüks araçlar yükledi. Ardından Jacksonville ve Brunswick limanlarına yönelen gemi, planlanan rotasında Baltimore, Wilmington, Beyrut, Cidde, Sohar, Jebel Ali, Dammam ve Kuveyt’e devam edecekti. Ancak, 6 Eylül’de Jacksonville’den bir gün önce, 8 Eylül’de Brunswick’a ilerlerken gemi beklenmedik bir şekilde alabora oldu ve büyük kısmı suya gömülmeye başladı.</p>
 <p><br></p>

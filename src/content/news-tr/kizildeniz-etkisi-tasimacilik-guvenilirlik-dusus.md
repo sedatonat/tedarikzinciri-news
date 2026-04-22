@@ -1,14 +1,22 @@
 ---
-title: "Kızıldeniz Etkisiyle Küresel Taşımacılıkta Güvenilirlikte Keskin Düşüş"
-subtitle: "Kızıldeniz Etkisiyle Küresel Taşımacılıkta Güvenilirlikte Keskin Düşüş"
-date: "2024-02-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_3ee1d028888042cd859a8683909714a2~mv2_d_4380_2920_s_4_2.jpg"
-imageAlt: "Kızıldeniz Etkisiyle Küresel Taşımacılıkta Güvenilirlikte Keskin Düşüş"
-wixId: "1aa386b7-ba1b-408f-adf4-a1e7ff612a1f"
-author: "Sedat Onat"
+title: Kızıldeniz Etkisiyle Küresel Taşımacılıkta Güvenilirlikte Keskin Düşüş
+subtitle: Kızıldeniz Etkisiyle Küresel Taşımacılıkta Güvenilirlikte Keskin Düşüş
+date: '2024-02-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_3ee1d028888042cd859a8683909714a2~mv2_d_4380_2920_s_4_2.jpg
+imageAlt: Kızıldeniz Etkisiyle Küresel Taşımacılıkta Güvenilirlikte Keskin Düşüş
+wixId: 1aa386b7-ba1b-408f-adf4-a1e7ff612a1f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kızıldeniz
+- deniz taşımacılığı
+- güvenilirlik
+- CMA CGM
+- Sea-Intelligence
+- konteyner gemisi
+- Transpasifik
 ---
 <p><a href="https://www.sea-intelligence.com"><u>Sea-Intelligence</u></a>'ın Ocak 2024 için yayınladığı güvenilirlik verilerine göre, küresel taşımacılıkta güvenilirlik Kızıldeniz'deki etkiler nedeniyle keskin bir düşüş yaşadı ve sadece %51'den biraz fazla gemi zamanında varış yapabildi. Pandemi dönemi dışındaki bu durum, oldukça düşük bir oran; zira pandemi öncesi normalde bu oran %70-80 arasında değişiyordu.</p>
 <p><br></p>

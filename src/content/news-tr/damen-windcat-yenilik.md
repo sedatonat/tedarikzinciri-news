@@ -1,14 +1,23 @@
 ---
-title: "Damen ve Windcat Offshore Enerjisi İçin Yeni Innovation Series Gemilerini Tanıttı"
-subtitle: "Damen ve Windcat Offshore Enerjisi İçin Yeni Innovation Series Gemilerini Tanıttı"
-date: "2025-11-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b757eef1c616445da387be057fd2f2e2~mv2.jpg"
-imageAlt: "Damen Shipyards Group ve Windcat’in offshore enerji projeleri için geliştirdiği yeni Innovation Series MP-ASV gemilerinin özellikleri, teknolojik yenilikleri ve sektörel etkisini özetleyen detaylı açıklama"
-wixId: "8984ec85-4392-4304-bd6c-5c1ef2ca953a"
-author: "Sedat Onat"
+title: Damen ve Windcat Offshore Enerjisi İçin Yeni Innovation Series Gemilerini Tanıttı
+subtitle: Damen ve Windcat Offshore Enerjisi İçin Yeni Innovation Series Gemilerini Tanıttı
+date: '2025-11-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b757eef1c616445da387be057fd2f2e2~mv2.jpg
+imageAlt: Damen Shipyards Group ve Windcat’in offshore enerji projeleri için geliştirdiği yeni Innovation Series MP-ASV gemilerinin özellikleri, teknolojik yenilikleri ve sektörel etkisini özetleyen detaylı açıklama
+wixId: 8984ec85-4392-4304-bd6c-5c1ef2ca953a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Damen Shipyards
+- Windcat
+- offshore enerji
+- gemi inşa
+- hibrit gemi
+- dekarbonizasyon
+- hidrojen yakıt
+- Vietnam
 ---
 <p style="text-align: justify">Amsterdam’da düzenlenen Offshore Energy Conference sırasında <strong>Windcat</strong> ve <strong>Damen Shipyards Group</strong>, offshore enerji sektöründe yeni bir dönemi başlatacak <strong>Innovation Series</strong> adındaki <strong>Multi-Purpose Accommodation Support Vessel (MP-ASV)</strong> sınıfını duyurdu. 25 Kasım 2025’te imzalanan anlaşma, ilk geminin kesin siparişini ve beş ek gemi için opsiyonu kapsamakta. Bu yeni seri, Windcat ile Damen’in daha önce geliştirdiği <strong>Elevation Series Commissioning Services Operations Vessels (CSOVs)</strong> üzerine inşa edilen daha büyük ve daha yetenekli bir platform sunmakta.</p>
 <p><br></p>

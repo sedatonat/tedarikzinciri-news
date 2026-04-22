@@ -1,14 +1,22 @@
 ---
-title: "Husiler Tanker Geçişine İzin Verdi Ancak Belirsizlik Sürüyor"
-subtitle: "Husiler Tanker Geçişine İzin Verdi Ancak Belirsizlik Sürüyor"
-date: "2025-01-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2f7fba74faab40eda0f1615193dc4f2d~mv2.jpg"
-imageAlt: "Husiler Tanker Geçişine İzin Verdi Ancak Belirsizlik Sürüyor"
-wixId: "8440aaad-fc33-4f5a-a755-b4a7be379f2a"
-author: "Sedat Onat"
+title: Husiler Tanker Geçişine İzin Verdi Ancak Belirsizlik Sürüyor
+subtitle: Husiler Tanker Geçişine İzin Verdi Ancak Belirsizlik Sürüyor
+date: '2025-01-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2f7fba74faab40eda0f1615193dc4f2d~mv2.jpg
+imageAlt: Husiler Tanker Geçişine İzin Verdi Ancak Belirsizlik Sürüyor
+wixId: 8440aaad-fc33-4f5a-a755-b4a7be379f2a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Husiler
+- Kızıldeniz
+- tanker geçişi
+- Yemen
+- deniz güvenliği
+- enerji piyasaları
+- Bab el-Mandeb
 ---
 <p style="text-align: justify"><strong>Yemen'deki Husi Hareketi</strong>, <strong>Kızıldeniz</strong>'deki tanker geçişlerine izin vermekte, ancak bölgedeki belirsizlik ve riskler devam etmekte. <strong>Husiler</strong>, <strong>Suudi Arabistan</strong> liderliğindeki koalisyonun <strong>Yemen</strong>'e uyguladığı deniz ablukasına misilleme olarak, <strong>Kızıldeniz</strong>'deki stratejik su yollarını kontrol etmekte. Bu durum, küresel enerji piyasalarında endişeye yol açmakta.</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "ABS and KATS Collaborate to Advance Smart Ship Technology and Equipment Certification"
-subtitle: "ABS and KATS Collaborate to Advance Smart Ship Technology and Equipment Certification"
-date: "2025-11-06T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_58b3e7e09f674b1cbd94ee443ea9f9bb~mv2.jpg"
-imageAlt: "ABS and the Korean Agency for Technology and Standards (KATS) have signed a collaboration protocol aimed at advancing international standardization of smart ship and smart shipyard technologies and harmonizing equipment certification processes."
-wixId: "2934dac8-9d48-44d1-862a-a3827d38b724"
-author: "Sedat Onat"
+title: ABS and KATS Collaborate to Advance Smart Ship Technology and Equipment Certification
+subtitle: ABS and KATS Collaborate to Advance Smart Ship Technology and Equipment Certification
+date: '2025-11-06T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_58b3e7e09f674b1cbd94ee443ea9f9bb~mv2.jpg
+imageAlt: ABS and the Korean Agency for Technology and Standards (KATS) have signed a collaboration protocol aimed at advancing international standardization of smart ship and smart shipyard technologies and harmonizing equipment certification processes.
+wixId: 2934dac8-9d48-44d1-862a-a3827d38b724
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- ABS
+- KATS
+- smart ship
+- ship certification
+- smart shipyard
+- Korea
+- maritime technology
 ---
-
 <p style="text-align: justify">ABS (American Bureau of Shipping) and <strong>Korean Agency for Technology and Standards (KATS)</strong> have signed a <strong>memorandum of understanding (MOU)</strong> to accelerate the integration of smart ship technologies into international standards and <strong>simplify certification processes</strong> for Korean equipment manufacturers. Through this collaboration, the two organizations will jointly address technical, operational, and regulatory standards for shipbuilding, maintenance and repair, and smart shipyard applications.</p>
 <p><br></p>
 <p style="text-align: justify">According to ABS, the MOU represents a critical step toward developing a common global framework for smart ship technologies. Given Korea's rapidly growing smart shipyard and equipment manufacturing ecosystem, standardization harmonization carries strategic importance for both maritime safety and competitive advantage.</p>

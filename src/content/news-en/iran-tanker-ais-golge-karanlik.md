@@ -1,16 +1,23 @@
 ---
-title: "Iranian Tankers Return to \"Dark Operations\" After Three Days of Visibility"
-subtitle: "Iranian Tankers Return to \"Dark Operations\" After Three Days of Visibility"
-date: "2025-10-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b093509a20f3474ca548b41354f72250~mv2.jpg"
-imageAlt: "Iranian Tankers Return to \"Dark Operations\" After Three Days of Visibility"
-wixId: "27162883-2ae4-463a-b4be-cb197029d254"
-author: "Sedat Onat"
+title: Iranian Tankers Return to "Dark Operations" After Three Days of Visibility
+subtitle: Iranian Tankers Return to "Dark Operations" After Three Days of Visibility
+date: '2025-10-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b093509a20f3474ca548b41354f72250~mv2.jpg
+imageAlt: Iranian Tankers Return to "Dark Operations" After Three Days of Visibility
+wixId: 27162883-2ae4-463a-b4be-cb197029d254
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Iranian tankers
+- AIS manipulation
+- dark fleet
+- oil transport
+- sanctions
+- Windward
+- ship-to-ship transfer
 ---
-
 <p style="text-align: justify"><strong>The National Iranian Tanker Company (NITC)</strong> fleet has returned to <strong>"dark operations"</strong> following <strong>three days of extraordinary AIS (Automatic Identification System) signal transparency.</strong></p>
 <p><br>
  According to analysis by <strong>maritime AI firm Windward,</strong> between <strong>October 12–14, 2025,</strong> <strong>52 out of 88 Iranian-flagged tankers</strong> actively broadcast AIS signals — a situation unprecedented in the past seven years.</p>

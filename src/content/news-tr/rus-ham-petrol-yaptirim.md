@@ -1,14 +1,23 @@
 ---
-title: "Rus Petrolüne Yönelik Yeni Yaptırımlar"
-subtitle: "Rus Petrolüne Yönelik Yeni Yaptırımlar"
-date: "2025-10-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f8814f43deb840ba8031e523cf40d4e1~mv2.jpg"
-imageAlt: "Rus Petrolüne Yönelik Yeni Yaptırımlar"
-wixId: "c39a5334-36b4-4b26-9a1f-6d871e5f8d7c"
-author: "Sedat Onat"
+title: Rus Petrolüne Yönelik Yeni Yaptırımlar
+subtitle: Rus Petrolüne Yönelik Yeni Yaptırımlar
+date: '2025-10-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f8814f43deb840ba8031e523cf40d4e1~mv2.jpg
+imageAlt: Rus Petrolüne Yönelik Yeni Yaptırımlar
+wixId: c39a5334-36b4-4b26-9a1f-6d871e5f8d7c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Rus petrolü
+- yaptırımlar
+- Rosneft
+- Lukoil
+- tanker taşımacılığı
+- Hindistan
+- enerji akışı
+- gölge filo
 ---
 <p style="text-align: justify"><strong>ABD Başkanı Donald Trump</strong>, Rusya’nın iki enerji devi <strong>Rosneft</strong> ve <strong>Lukoil</strong>’e yönelik “<strong>tarihteki en kapsamlı enerji yaptırımlarını</strong>” açıkladı.</p>
 <p><br>

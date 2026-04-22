@@ -1,16 +1,23 @@
 ---
-title: "Port of Long Beach Maintains Record Volumes Through 2025 Despite Tariff Pressures"
-subtitle: "Port of Long Beach Maintains Record Volumes Through 2025 Despite Tariff Pressures"
-date: "2025-11-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_527497e481584769a80575789ce98489~mv2.jpg"
-imageAlt: "The Port of Long Beach, which recorded strong cargo volumes throughout 2025 despite tariff uncertainty, has processed 8.2 million TEU as of end-October and is approaching last year's record levels. However, volume declines are expected in the final two months of the year due to frontloading effects."
-wixId: "6c7e6073-ef1d-4efc-817e-37374d4d77b5"
-author: "Sedat Onat"
+title: Port of Long Beach Maintains Record Volumes Through 2025 Despite Tariff Pressures
+subtitle: Port of Long Beach Maintains Record Volumes Through 2025 Despite Tariff Pressures
+date: '2025-11-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_527497e481584769a80575789ce98489~mv2.jpg
+imageAlt: The Port of Long Beach, which recorded strong cargo volumes throughout 2025 despite tariff uncertainty, has processed 8.2 million TEU as of end-October and is approaching last year's record levels. However, volume declines are expected in the final two months of the year due to frontloading effects.
+wixId: 6c7e6073-ef1d-4efc-817e-37374d4d77b5
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Long Beach Port
+- tariff
+- frontloading
+- US-China trade
+- container volume
+- retail
+- port operations
 ---
-
 <p style="text-align: justify"><strong>Port of Long Beach</strong> has demonstrated strong performance throughout 2025, maintaining high cargo volumes despite ongoing tariff uncertainties in U.S.–China trade. According to port management, retailers and importers' practice of <strong>anticipating tariff increases and filling inventories early (frontloading)</strong> supported volumes throughout the year.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>End of October: 8.2 million TEU — 4.1% increase</strong></h5>

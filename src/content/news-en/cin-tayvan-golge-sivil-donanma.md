@@ -1,16 +1,23 @@
 ---
-title: "Reuters: China's \"Shadow Civilian Navy\" Conducts Drills for Taiwan Invasion"
-subtitle: "Reuters: China's \"Shadow Civilian Navy\" Conducts Drills for Taiwan Invasion"
-date: "2025-11-20T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d1aa9a0bc7ac460990680664773ca970~mv2.jpg"
-imageAlt: "Reuters investigation reveals China is conducting drills using civilian ferries and cargo ships for a potential amphibious landing on Taiwan; satellite imagery shows the vessels conducting beach landings."
-wixId: "c2c7bcfb-8b67-4221-9b26-3eda073fa68d"
-author: "Sedat Onat"
+title: 'Reuters: China''s "Shadow Civilian Navy" Conducts Drills for Taiwan Invasion'
+subtitle: 'Reuters: China''s "Shadow Civilian Navy" Conducts Drills for Taiwan Invasion'
+date: '2025-11-20T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_d1aa9a0bc7ac460990680664773ca970~mv2.jpg
+imageAlt: Reuters investigation reveals China is conducting drills using civilian ferries and cargo ships for a potential amphibious landing on Taiwan; satellite imagery shows the vessels conducting beach landings.
+wixId: c2c7bcfb-8b67-4221-9b26-3eda073fa68d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- China
+- Taiwan
+- RoRo ships
+- amphibious landing
+- civilian fleet
+- maritime logistics
+- military exercise
 ---
-
 <p style="text-align: justify">A comprehensive investigation by Reuters, conducted over the course of a year through data tracking, satellite imagery, and open-source analysis, has revealed that China is systematically preparing a <strong>"shadow navy" composed of civilian vessels</strong> for use in a potential invasion of Taiwan. The findings show that the People's Liberation Army conducted large-scale amphibious drills during the summer months near <strong>Jiesheng Beach</strong> in Guangdong, involving a total of 12 civilian vessels, including <strong>roll-on/roll-off (RoRo) ferries and deck cargo ships</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">According to satellite imagery, some civilian cargo vessels used their own ramps to <strong>offload vehicles directly onto the beach</strong>. Reuters published the first visual evidence of China employing this method in actual amphibious landing drills.</p>

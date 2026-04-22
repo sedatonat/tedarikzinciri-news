@@ -1,14 +1,22 @@
 ---
-title: "CMA CGM Rusya’da Ticari Faaliyetlerini Sınırlı Kapsamda Yeniden Başlattı"
-subtitle: "CMA CGM Rusya’da Ticari Faaliyetlerini Sınırlı Kapsamda Yeniden Başlattı"
-date: "2025-11-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b89d0da026c44b59ae1a68634893d5a1~mv2.jpg"
-imageAlt: "CMA CGM’nin yaptırım kurallarına uyumlu şekilde Rusya’ya gıda ve tüketim ürünleri taşımacılığını yeniden başlatması ve bu sürecin operasyonel, hukuki ve sektörel etkilerine dair kapsamlı özet."
-wixId: "66334240-740e-435d-a06c-9bfb03e9adbf"
-author: "Sedat Onat"
+title: CMA CGM Rusya’da Ticari Faaliyetlerini Sınırlı Kapsamda Yeniden Başlattı
+subtitle: CMA CGM Rusya’da Ticari Faaliyetlerini Sınırlı Kapsamda Yeniden Başlattı
+date: '2025-11-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b89d0da026c44b59ae1a68634893d5a1~mv2.jpg
+imageAlt: CMA CGM’nin yaptırım kurallarına uyumlu şekilde Rusya’ya gıda ve tüketim ürünleri taşımacılığını yeniden başlatması ve bu sürecin operasyonel, hukuki ve sektörel etkilerine dair kapsamlı özet.
+wixId: 66334240-740e-435d-a06c-9bfb03e9adbf
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CMA CGM
+- Rusya
+- konteyner taşımacılığı
+- yaptırım
+- CNC
+- deniz taşımacılığı
+- MSC
 ---
 <p style="text-align: justify">Dünyanın en büyük üçüncü konteyner taşımacılığı şirketi olan <strong>CMA CGM Group</strong>, <strong>Rusya’ya yönelik ticari faaliyetlerini sınırlı ölçekte yeniden başlattığını</strong> doğruladı. Şirket, taşımaların yalnızca <strong>gıda ve temel tüketim ürünleri</strong> için yapıldığını ve tüm süreçlerin <strong>mevcut yaptırım rejimleriyle tamamen uyumlu</strong> yürütüldüğünü vurguladı. Bu adım, küresel taşımacılık sektöründe Rusya’ya yönelik hizmetlerin büyük oranda askıya alındığı 2022 sonrası dönemde dikkat çeken bir geri dönüş niteliğinde.</p>
 <p style="text-align: justify"><br></p>

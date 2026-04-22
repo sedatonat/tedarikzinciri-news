@@ -1,16 +1,23 @@
 ---
-title: "HMM Advances Digitalization with DCSA Pilot Success"
-subtitle: "HMM Advances Digitalization with DCSA Pilot Success"
-date: "2025-11-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_63a5a35a4ad74edd8c495d43050a429d~mv2.jpg"
-imageAlt: "HMM achieved significant gains in accuracy, speed, and visibility by successfully testing API-based, standardized data sharing through DCSA Booking and Bill of Lading pilots conducted with Genesis, Samsung SDS, and HelloContainer."
-wixId: "432e61a8-8b45-45d8-94ae-8ed13006609a"
-author: "Sedat Onat"
+title: HMM Advances Digitalization with DCSA Pilot Success
+subtitle: HMM Advances Digitalization with DCSA Pilot Success
+date: '2025-11-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_63a5a35a4ad74edd8c495d43050a429d~mv2.jpg
+imageAlt: HMM achieved significant gains in accuracy, speed, and visibility by successfully testing API-based, standardized data sharing through DCSA Booking and Bill of Lading pilots conducted with Genesis, Samsung SDS, and HelloContainer.
+wixId: 432e61a8-8b45-45d8-94ae-8ed13006609a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- HMM
+- DCSA
+- digitalization
+- container shipping
+- API
+- Bill of Lading
+- Samsung SDS
 ---
-
 <p style="text-align: justify">HMM has recorded notable progress in its digitalization strategy by successfully completing three pilot projects aligned with the <strong>Digital Container Shipping Association (DCSA)</strong>, which sets digital standards in global container shipping. These pilots, conducted simultaneously with Genesis, Samsung SDS, and HelloContainer, demonstrated the speed, accuracy, and operational efficiency delivered by <strong>standard API-based data sharing</strong> in both Booking and Bill of Lading processes.</p>
 <p><br></p>
 <p style="text-align: justify">This initiative marked HMM's first effort to test DCSA standards with multiple ecosystem partners in a <strong>live operating environment</strong>. DCSA provided direct support in technical onboarding, integration facilitation, and stakeholder alignment, contributing to the seamless progress of the pilots.</p>

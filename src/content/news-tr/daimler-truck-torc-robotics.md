@@ -1,14 +1,23 @@
 ---
-title: "Daimler Truck, Otonom Birim Torc İçin Ortak Arayışında"
-subtitle: "Daimler Truck, Otonom Birim Torc İçin Ortak Arayışında"
-date: "2025-09-05T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_fd5e977d02564f479926a0118d56bcb1~mv2.png"
-imageAlt: "Daimler Truck, Otonom Birim Torc İçin Ortak Arayışında"
-wixId: "9553de5b-4185-4ec6-8e00-efe3b850210b"
-author: "Sedat Onat"
+title: Daimler Truck, Otonom Birim Torc İçin Ortak Arayışında
+subtitle: Daimler Truck, Otonom Birim Torc İçin Ortak Arayışında
+date: '2025-09-05T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_fd5e977d02564f479926a0118d56bcb1~mv2.png
+imageAlt: Daimler Truck, Otonom Birim Torc İçin Ortak Arayışında
+wixId: 9553de5b-4185-4ec6-8e00-efe3b850210b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Daimler Truck
+- otonom sürüş
+- Torc Robotics
+- Level 4 otonomi
+- ağır vasıta
+- hub-to-hub
+- sensor fusion
+- ticarileşme
 ---
 <p style="text-align: justify"><strong>Ağır vasıta segmentinde otonom sürüş teknolojileri</strong>, güvenlik, enerji verimliliği ve maliyet dengesi açısından taşımacılığın geleceğini yeniden tanımlıyor. Bu dönüşümün merkezinde yer alan <strong>Daimler Truck</strong>, iştiraki olan <strong>Torc Robotics</strong> için stratejik bir ortak arayışına girdi. Bu adım, hem <strong>sermaye verimliliğini artırmak</strong> hem de <strong>ticarileşme sürecini hızlandırmak</strong> amacıyla atılmış stratejik bir hamle olarak değerlendiriliyor.</p>
 <p><br></p>

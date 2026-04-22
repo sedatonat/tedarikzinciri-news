@@ -1,14 +1,22 @@
 ---
-title: "Tedarik Zinciriniz Başlamadan Neden Tıkanmakta"
-subtitle: "Tedarik Zinciriniz Başlamadan Neden Tıkanmakta"
-date: "2025-09-03T00:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_50a85936b66b46a2af70ab92fb31289c~mv2.png"
-imageAlt: "Tedarik Zinciriniz Başlamadan Neden Tıkanmakta"
-wixId: "ede7985c-56e8-41b3-a499-2a41aaf97326"
-author: "Sedat Onat"
+title: Tedarik Zinciriniz Başlamadan Neden Tıkanmakta
+subtitle: Tedarik Zinciriniz Başlamadan Neden Tıkanmakta
+date: '2025-09-03T00:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_50a85936b66b46a2af70ab92fb31289c~mv2.png
+imageAlt: Tedarik Zinciriniz Başlamadan Neden Tıkanmakta
+wixId: ede7985c-56e8-41b3-a499-2a41aaf97326
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tedarik zinciri
+- veri siloları
+- AI entegrasyon
+- digital twin
+- süreç sahipliği
+- planlama
+- Gartner
 ---
 <p>Tedarik zincirleri bazen sorunlarını uçtan uca yönetim sırasında değil, daha başlamadan yaşamakta. Başarısız tedarik zincirlerinin temel nedeni veri siloları, kötü planlama altyapısı ve süreç sahipliği eksikliğidir. Gartner verilerine göre, şirketlerin %62’si zincir içi verinin %40’ına erişememekte.</p>
 <p><br></p>

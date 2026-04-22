@@ -1,16 +1,23 @@
 ---
-title: "Alibaba Launches AI-Powered Supply Engine for B2B E-Commerce"
-subtitle: "Alibaba Launches AI-Powered Supply Engine for B2B E-Commerce"
-date: "2024-08-02T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_7b47c0f177be491da565cacdb58b2c6d~mv2.png"
-imageAlt: "Alibaba Launches AI-Powered Supply Engine for B2B E-Commerce"
-wixId: "0d1c2a94-2af0-4fe9-a6cd-d7da790b3a76"
-author: "Sedat Onat"
+title: Alibaba Launches AI-Powered Supply Engine for B2B E-Commerce
+subtitle: Alibaba Launches AI-Powered Supply Engine for B2B E-Commerce
+date: '2024-08-02T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_7b47c0f177be491da565cacdb58b2c6d~mv2.png
+imageAlt: Alibaba Launches AI-Powered Supply Engine for B2B E-Commerce
+wixId: 0d1c2a94-2af0-4fe9-a6cd-d7da790b3a76
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Alibaba
+- AI
+- supply chain
+- B2B e-commerce
+- SME
+- natural language processing
+- Aidge
 ---
-
 <p>Alibaba has announced the launch of an AI-powered supply engine designed for small and medium-sized enterprises. The engine uses natural language processing to interpret supply requirements and match buyers with suppliers with precision. Set to roll out in September, the tool aims to eliminate inefficiencies inherent in traditional search methods. Additionally, Alibaba's previously introduced AI toolkit called "Aidge" is being used by 500,000 merchants and is delivering significant improvements in e-commerce scenarios.</p>
 <p><br></p>
 <h5>Key Points:</h5>

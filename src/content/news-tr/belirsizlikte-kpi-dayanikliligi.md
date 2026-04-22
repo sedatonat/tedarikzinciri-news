@@ -1,14 +1,22 @@
 ---
-title: "Belirsizlikte Kpi’ları Ve Dayanıklılığı Güçlendirmenin Beş Adımı"
-subtitle: "Belirsizlikte Kpi’ları Ve Dayanıklılığı Güçlendirmenin Beş Adımı"
-date: "2025-08-26T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b7321448b92d4887ab46a436555a295f~mv2.png"
-imageAlt: "Belirsizlikte Kpi’ları Ve Dayanıklılığı Güçlendirmenin Beş Adımı"
-wixId: "8b410261-f127-4ea0-a07a-d173fec66289"
-author: "Sedat Onat"
+title: Belirsizlikte Kpi’ları Ve Dayanıklılığı Güçlendirmenin Beş Adımı
+subtitle: Belirsizlikte Kpi’ları Ve Dayanıklılığı Güçlendirmenin Beş Adımı
+date: '2025-08-26T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b7321448b92d4887ab46a436555a295f~mv2.png
+imageAlt: Belirsizlikte Kpi’ları Ve Dayanıklılığı Güçlendirmenin Beş Adımı
+wixId: 8b410261-f127-4ea0-a07a-d173fec66289
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- KPI
+- dayanıklılık
+- tedarik zinciri
+- data governance
+- scenario planning
+- performans ölçümü
+- sürekli iyileştirme
 ---
 <p style="text-align: justify"><strong>Belirsizlik dönemlerinde</strong>, işletmelerin uzun vadeli dayanıklılığını belirleyen en kritik unsur, <strong>yönetişim (governance)</strong> ve <strong>ölçüm (measurement)</strong> disiplinidir. Etkili bir dayanıklılık stratejisi, yalnızca kriz tepkisi değil; aynı zamanda <strong>ölçülebilir, veri temelli ve sürekli iyileştirme</strong> esasına dayanır. Bu kapsamda geliştirilen <strong>beş adımlı çerçeve</strong>, operasyonel sürdürülebilirliği sistematik hale getirir:</p>
 <p style="text-align: justify"><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "What Is Blank Sailing and What Does It Mean for Shippers?"
-subtitle: "What Is Blank Sailing and What Does It Mean for Shippers?"
-date: "2025-11-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4875860a00f64767bc146c1960e5242e~mv2.jpg"
-imageAlt: "Blank sailing is when a carrier cancels an entire voyage or skips certain port calls on a route; this condition creates longer transit times, additional costs, and planning difficulties."
-wixId: "bdf3ad2b-5d8f-4eba-9959-94c1d6c2bb58"
-author: "Sedat Onat"
+title: What Is Blank Sailing and What Does It Mean for Shippers?
+subtitle: What Is Blank Sailing and What Does It Mean for Shippers?
+date: '2025-11-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4875860a00f64767bc146c1960e5242e~mv2.jpg
+imageAlt: Blank sailing is when a carrier cancels an entire voyage or skips certain port calls on a route; this condition creates longer transit times, additional costs, and planning difficulties.
+wixId: bdf3ad2b-5d8f-4eba-9959-94c1d6c2bb58
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- blank sailing
+- container shipping
+- supply chain
+- capacity management
+- freight
+- port congestion
+- Maersk
 ---
-
 <p style="text-align: justify">As uncertainties in the global supply chain increase, <strong>blank sailing</strong> — the cancellation of a ship's voyage or the skipping of scheduled port calls — has become a more frequently used capacity management tool by carriers. Blank sailing is implemented due to reasons such as low demand, severe port congestion, weather conditions, geopolitical risks, or cost control, and like a cancelled airline flight, it can cause sudden disruptions in the supply chain.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>How does blank sailing occur?</strong></h4>

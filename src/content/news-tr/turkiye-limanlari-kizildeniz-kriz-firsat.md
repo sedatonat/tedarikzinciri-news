@@ -1,14 +1,22 @@
 ---
-title: "Türkiye Limanları Kızıldeniz Krizini Fırsata Çevirdi: Tarihi Rekorlar ve Yeni Yollar"
-subtitle: "Türkiye Limanları Kızıldeniz Krizini Fırsata Çevirdi: Tarihi Rekorlar ve Yeni Yollar"
-date: "2024-03-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e68f3170a381431a8fe486dcd26646ff~mv2.jpg"
-imageAlt: "Türkiye Limanları Kızıldeniz Krizini Fırsata Çevirdi: Tarihi Rekorlar ve Yeni Yollar"
-wixId: "006bd16a-6faf-4f7d-8122-8d94ee512506"
-author: "Sedat Onat"
+title: 'Türkiye Limanları Kızıldeniz Krizini Fırsata Çevirdi: Tarihi Rekorlar ve Yeni Yollar'
+subtitle: 'Türkiye Limanları Kızıldeniz Krizini Fırsata Çevirdi: Tarihi Rekorlar ve Yeni Yollar'
+date: '2024-03-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e68f3170a381431a8fe486dcd26646ff~mv2.jpg
+imageAlt: 'Türkiye Limanları Kızıldeniz Krizini Fırsata Çevirdi: Tarihi Rekorlar ve Yeni Yollar'
+wixId: 006bd16a-6faf-4f7d-8122-8d94ee512506
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kızıldeniz krizi
+- Türkiye limanları
+- konteyner trafiği
+- transit taşımacılık
+- Asyaport
+- Ambarlı
+- navlun oranları
 ---
 <p><a href="https://en.wikipedia.org/wiki/Red_Sea"><u>Kızıldeniz</u></a>'deki kriz, Türkiye limanları için beklenmedik bir fırsat yarattı. Husilerin ticari gemilere yönelik saldırıları nedeniyle küresel tedarik zincirinde yaşanan aksaklıklar, Marmara Bölgesi'ndeki limanların transit taşımacılıkta öne çıkmasına ve denizcilik şirketlerinin alternatif hatlar oluşturmasına yol açtı. Bu durum, Türkiye limanlarının konteyner trafiğinde tarihi bir rekor kırmasını sağladı.&nbsp;</p>
 <p><br></p>

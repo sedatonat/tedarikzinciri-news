@@ -1,16 +1,23 @@
 ---
-title: "EU's \"Broken Wheels\" Regulations to be Completed by Year-End"
-subtitle: "EU's \"Broken Wheels\" Regulations to be Completed by Year-End"
-date: "2025-11-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f1ed2a907d704dd6a88a6b4796348093~mv2.jpg"
-imageAlt: "Following the 2023 Gotthard train accident in Europe, the Broken Wheels Task Force launched new safety standards. The EU is preparing to publish new regulations by year-end that update wheel safety and maintenance rules in rail freight transport."
-wixId: "a723a6a3-21e6-4a28-92a5-479d7efdb865"
-author: "Sedat Onat"
+title: EU's "Broken Wheels" Regulations to be Completed by Year-End
+subtitle: EU's "Broken Wheels" Regulations to be Completed by Year-End
+date: '2025-11-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f1ed2a907d704dd6a88a6b4796348093~mv2.jpg
+imageAlt: Following the 2023 Gotthard train accident in Europe, the Broken Wheels Task Force launched new safety standards. The EU is preparing to publish new regulations by year-end that update wheel safety and maintenance rules in rail freight transport.
+wixId: a723a6a3-21e6-4a28-92a5-479d7efdb865
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- rail transport
+- European Union
+- ERA
+- wheel safety
+- Gotthard Base Tunnel
+- freight wagons
+- maintenance regulations
 ---
-
 <p style="text-align: justify">The <strong>"broken wheels" regulations</strong>, one of the most contentious issues in European rail freight over the past two years, will be completed by year-end. The <strong>JNS Broken Wheels Task Force</strong>, working under the coordination of the European Railway Agency (ERA), has been working extensively on new safety standards launched following the high-impact derailment accident that occurred in the Gotthard Base Tunnel in 2023.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>How did the Gotthard accident start this process?</strong></h4>

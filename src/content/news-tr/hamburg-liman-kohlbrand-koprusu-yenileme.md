@@ -1,14 +1,21 @@
 ---
-title: "Hamburg Limanı'nın Geleceği: Köhlbrand Köprüsü'nün Yenilenmesi"
-subtitle: "Hamburg Limanı'nın Geleceği: Köhlbrand Köprüsü'nün Yenilenmesi"
-date: "2024-04-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8ca8045bbbde47deae05f043a603d0ec~mv2.jpg"
-imageAlt: "Hamburg Limanı'nın Geleceği: Köhlbrand Köprüsü'nün Yenilenmesi"
-wixId: "eb2571d2-2aeb-4f2f-893b-c6903496310c"
-author: "Sedat Onat"
+title: 'Hamburg Limanı''nın Geleceği: Köhlbrand Köprüsü''nün Yenilenmesi'
+subtitle: 'Hamburg Limanı''nın Geleceği: Köhlbrand Köprüsü''nün Yenilenmesi'
+date: '2024-04-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8ca8045bbbde47deae05f043a603d0ec~mv2.jpg
+imageAlt: 'Hamburg Limanı''nın Geleceği: Köhlbrand Köprüsü''nün Yenilenmesi'
+wixId: eb2571d2-2aeb-4f2f-893b-c6903496310c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Hamburg Limanı
+- Köhlbrand Köprüsü
+- liman altyapısı
+- konteyner terminali
+- Maersk
+- gemi geçişi
 ---
 <p>Hamburg Senatosu, <a href="https://en.wikipedia.org/wiki/Port_of_Hamburg"><u>Hamburg Limanı</u></a> oturumunda <a href="https://en.wikipedia.org/wiki/K%C3%B6hlbrand_Bridge"><u>Köhlbrand köprüsünün</u></a> geçişiyle ilgili olanakları değerlendirerek yeni bir köprü inşası lehine oy kullanmıştır. Mevcut <a href="https://en.wikipedia.org/wiki/K%C3%B6hlbrand_Bridge"><u>Köhlbrand Köprüsü</u></a>'nün işlevsel ömrünün sonuna geldiği ve yerine yenisi yapılması gerektiği bildirilmiştir. Yapılacak yeni köprünün, gemiler için daha fazla yükseklik sunarak, mevcut boyutları ve potansiyel olarak biraz daha büyük boyutlardaki gemilerin limanın güney bölümüne giriş yapabilmesini sağlaması hedeflenmektedir. Bu durum, daha önce bir engel teşkil eden kısıtlamayı ortadan kaldıracak ve limanın gelişimi için yeni fırsatlar yaratacaktır. <a href="https://en.wikipedia.org/wiki/Port_of_Hamburg"><u>Hamburg Limanı</u></a>'na göre, yeni köprünün 2040 yılından itibaren trafiğe açılması planlanmakta ve mevcut <a href="https://en.wikipedia.org/wiki/K%C3%B6hlbrand_Bridge"><u>Köhlbrand Köprüsü</u></a>'nün yerini alacaktır. Yeni köprü hizmete girene kadar mevcut köprü kullanılmaya ve bakımı yapılmaya devam edilecektir. Mart ayında, Maersk'in metanolle çalışan konteyner gemisi ‘Ane Maersk’, Asya'dan Avrupa'ya ilk seferinde Eurogate Konteyner Terminali Hamburg'a ulaşmıştır.</p>
 <p><br></p>

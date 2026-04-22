@@ -1,16 +1,24 @@
 ---
-title: "New Sanctions Test Russia's Shadow Fleet Resilience"
-subtitle: "New Sanctions Test Russia's Shadow Fleet Resilience"
-date: "2025-01-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3fcc1271825c42beadf3bd71e98b9a7e~mv2.jpg"
-imageAlt: "New Sanctions Test Russia's Shadow Fleet Resilience"
-wixId: "c95607a4-0683-4dcf-b058-7d280b6ad3a8"
-author: "Sedat Onat"
+title: New Sanctions Test Russia's Shadow Fleet Resilience
+subtitle: New Sanctions Test Russia's Shadow Fleet Resilience
+date: '2025-01-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3fcc1271825c42beadf3bd71e98b9a7e~mv2.jpg
+imageAlt: New Sanctions Test Russia's Shadow Fleet Resilience
+wixId: c95607a4-0683-4dcf-b058-7d280b6ad3a8
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- shadow fleet
+- Russia
+- sanctions
+- oil exports
+- tanker
+- India
+- energy markets
+- Sovcomflot
 ---
-
 <p style="text-align: justify">Broad-based U.S. sanctions on Russia's oil industry are making it harder for Moscow to export crude oil by sea and increasing costs. The Biden administration announced measures targeting Russia's oil and gas revenues to give Kiev and Donald Trump's team an advantage in achieving peace in Ukraine.</p>
 <p><br></p>
 <p style="text-align: justify">Previously, the U.S., reluctant to shake global oil markets, had been unable to prevent Russia from circumventing sanctions such as the oil price cap imposed by G7 countries in 2022 and selling large quantities of crude to China and India. However, the new sanctions target traders, insurers, and a "shadow fleet" of <strong>183 vessels</strong> that enables Russia to deliver its oil to global markets.</p>

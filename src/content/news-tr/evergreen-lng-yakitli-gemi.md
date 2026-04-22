@@ -1,14 +1,22 @@
 ---
-title: "Evergreen, 14 Yeni LNG Yakıtlı Gemiyi Sipariş Ederek Filosunu 3 Milyar Dolara Yakın Büyütüyor"
-subtitle: "Evergreen, 14 Yeni LNG Yakıtlı Gemiyi Sipariş Ederek Filosunu 3 Milyar Dolara Yakın Büyütüyor"
-date: "2025-11-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f130457e9c40406ea41e1bb1ce06ee55~mv2.jpg"
-imageAlt: "Evergreen Marine, Güney Kore ve Çin tersanelerine toplam 14 adet 14.000 TEU LNG yakıtlı gemi sipariş ederek filoya yaklaşık 3 milyar dolarlık ek kapasite kazandırıyor; siparişlerle Evergreen’in toplam filo kapasitesi 2,747,549 TEU seviyesine ulaşıyor."
-wixId: "b83d12f5-5d1e-44eb-a2a1-3b1be3209222"
-author: "Sedat Onat"
+title: Evergreen, 14 Yeni LNG Yakıtlı Gemiyi Sipariş Ederek Filosunu 3 Milyar Dolara Yakın Büyütüyor
+subtitle: Evergreen, 14 Yeni LNG Yakıtlı Gemiyi Sipariş Ederek Filosunu 3 Milyar Dolara Yakın Büyütüyor
+date: '2025-11-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f130457e9c40406ea41e1bb1ce06ee55~mv2.jpg
+imageAlt: Evergreen Marine, Güney Kore ve Çin tersanelerine toplam 14 adet 14.000 TEU LNG yakıtlı gemi sipariş ederek filoya yaklaşık 3 milyar dolarlık ek kapasite kazandırıyor; siparişlerle Evergreen’in toplam filo kapasitesi 2,747,549 TEU seviyesine ulaşıyor.
+wixId: b83d12f5-5d1e-44eb-a2a1-3b1be3209222
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Evergreen Marine
+- LNG yakıtlı gemi
+- konteyner gemisi
+- Samsung Heavy Industries
+- Guangzhou Shipyard
+- filo genişletme
+- emisyon azaltımı
 ---
 <p style="text-align: justify">Tayvan merkezli <strong>Evergreen Marine</strong>, küresel konteyner taşımacılığı filosunu önemli ölçüde büyütecek yeni bir yatırım paketi açıkladı. Şirket, toplamda <strong>14 adet 14.000 TEU LNG yakıtlı konteyner gemisi</strong> için sipariş verdiğini doğruladı. Siparişin toplam değerinin <strong>2,45–2,9 milyar dolar</strong> arasında olduğu tahmin edilmekte.</p>
 <p style="text-align: justify">Yeni gemiler, iki büyük tersane arasında paylaştırıldı:</p>

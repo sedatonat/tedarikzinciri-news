@@ -1,14 +1,23 @@
 ---
-title: "Zim Satınalma Sürecinde: CEO ve Stratejik Yatırımcılar Masada"
-subtitle: "Zim Satınalma Sürecinde: CEO ve Stratejik Yatırımcılar Masada"
-date: "2025-11-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1107093ed296467596d5e0710f8b0e22~mv2.jpg"
-imageAlt: "Zim’in CEO’su Eli Glickman ve Rami Ungar tarafından verilen teklif dahil olmak üzere çoklu satın alma girişimlerini değerlendiren yönetim kurulunun süreci, şirketin filo stratejisi, finansal yapısı ve sektörel etkileriyle birlikte ayrıntılı haber özeti"
-wixId: "9e0d4f63-cdd9-47b0-9713-c26444d753d5"
-author: "Sedat Onat"
+title: 'Zim Satınalma Sürecinde: CEO ve Stratejik Yatırımcılar Masada'
+subtitle: 'Zim Satınalma Sürecinde: CEO ve Stratejik Yatırımcılar Masada'
+date: '2025-11-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1107093ed296467596d5e0710f8b0e22~mv2.jpg
+imageAlt: Zim’in CEO’su Eli Glickman ve Rami Ungar tarafından verilen teklif dahil olmak üzere çoklu satın alma girişimlerini değerlendiren yönetim kurulunun süreci, şirketin filo stratejisi, finansal yapısı ve sektörel etkileriyle birlikte ayrıntılı haber özeti
+wixId: 9e0d4f63-cdd9-47b0-9713-c26444d753d5
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Zim
+- satın alma
+- konteyner taşımacılığı
+- CEO
+- filo yönetimi
+- LNG
+- CNG
+- deniz taşımacılığı
 ---
 <p style="text-align: justify"><strong>Zim Integrated Shipping Services</strong>, aralarında kendi üst yönetiminin de bulunduğu çeşitli yatırımcılardan gelen çoklu satın alma teklifini değerlendirme sürecini sürdürmekte. Şirketin yaptığı açıklamalara göre yönetim kurulu, hem <strong>CEO Eli Glickman</strong> hem de <strong>Ray Shipping</strong>’in sahibi <strong>Rami Ungar</strong> tarafından sunulan teklif üzerinde aylardır çalışma yürütmekte. İlgili süreç sadece yönetim kaynaklı bir girişim değil; aynı zamanda başka sektör oyuncularından geldiği belirtilen <strong>“strategic interest”</strong> kapsamındaki teklifler de masada bulunmakta. Bu ifade, potansiyel alıcılardan en az birinin <strong>başka bir carrier</strong> olabileceğine işaret etmekte ve rekabetçi bir süreç ihtimalini güçlendirmekte.</p>
 <p><br></p>

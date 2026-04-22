@@ -1,14 +1,22 @@
 ---
-title: "Liman Tıkanıklıkları Sefer İptallerini Tetikliyor"
-subtitle: "Liman Tıkanıklıkları Sefer İptallerini Tetikliyor"
-date: "2024-05-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_620f7e42478847b2bcd4feb9371eb577~mv2.jpg"
-imageAlt: "Liman Tıkanıklıkları Sefer İptallerini Tetikliyor"
-wixId: "aaad5fca-4141-470d-b7c1-7d4884eab1cd"
-author: "Sedat Onat"
+title: Liman Tıkanıklıkları Sefer İptallerini Tetikliyor
+subtitle: Liman Tıkanıklıkları Sefer İptallerini Tetikliyor
+date: '2024-05-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_620f7e42478847b2bcd4feb9371eb577~mv2.jpg
+imageAlt: Liman Tıkanıklıkları Sefer İptallerini Tetikliyor
+wixId: aaad5fca-4141-470d-b7c1-7d4884eab1cd
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- liman tıkanıklığı
+- sefer iptali
+- konteyner gemisi
+- navlun oranları
+- Kızıldeniz krizi
+- Asya-Avrupa rotası
+- Sea-Intelligence
 ---
 <p>Denizcilik sektöründe, son zamanlarda artan liman tıkanıklıkları nedeniyle, nakliye şirketleri güçlü talep ve yüksek navlun oranlarına rağmen sefer iptallerine gitmek zorunda kaldı.&nbsp;</p>
 <p><br></p>

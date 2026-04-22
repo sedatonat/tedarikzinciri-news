@@ -1,14 +1,22 @@
 ---
-title: "Maersk, Üçüncü Çeyrekte Güçlü Büyüme ve Karlılık Artışı Kaydetti"
-subtitle: "Maersk, Üçüncü Çeyrekte Güçlü Büyüme ve Karlılık Artışı Kaydetti"
-date: "2024-10-31T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8d937e75e068482c8796dbc986637172~mv2.jpg"
-imageAlt: "Maersk, Üçüncü Çeyrekte Güçlü Büyüme ve Karlılık Artışı Kaydetti"
-wixId: "2f99ff05-fb9b-44e6-91bb-4dceaa38ad72"
-author: "Sedat Onat"
+title: Maersk, Üçüncü Çeyrekte Güçlü Büyüme ve Karlılık Artışı Kaydetti
+subtitle: Maersk, Üçüncü Çeyrekte Güçlü Büyüme ve Karlılık Artışı Kaydetti
+date: '2024-10-31T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8d937e75e068482c8796dbc986637172~mv2.jpg
+imageAlt: Maersk, Üçüncü Çeyrekte Güçlü Büyüme ve Karlılık Artışı Kaydetti
+wixId: 2f99ff05-fb9b-44e6-91bb-4dceaa38ad72
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Maersk
+- konteyner taşımacılığı
+- finansal sonuçlar
+- Kızıldeniz
+- lojistik hizmetleri
+- terminal operasyonları
+- navlun oranları
 ---
 <p>A.P. Moller-Maersk (Maersk), 2024 yılının üçüncü çeyreğinde iş ve finansal performansında güçlü bir büyüme yaşadı; Ocean, Logistics &amp; Services ve Terminals segmentlerinde kârlılığını artırdı. 21 Ekim'de şirket, yılın geri kalanı için temel faaliyet kârı (EBIT) beklentisini 5,2 ila 5,7 milyar dolar olarak güncelledi (önceki tahmin 3 ila 5 milyar dolardı). Bu güncelleme, başarılı geçen çeyrek, sağlıklı konteyner piyasası talebi ve devam eden Kızıldeniz krizi gibi faktörlere dayandırıldı.</p>
 <p><br></p>

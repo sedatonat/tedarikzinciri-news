@@ -1,14 +1,22 @@
 ---
-title: "Soğutulmuş Kargo İçin Yeni Görünürlük Teknolojisi"
-subtitle: "Soğutulmuş Kargo İçin Yeni Görünürlük Teknolojisi"
-date: "2025-02-03T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_fec7ee73793049cc9a4ebdd30a9539ab~mv2.jpg"
-imageAlt: "Soğutulmuş Kargo İçin Yeni Görünürlük Teknolojisi"
-wixId: "393bd49b-a8b8-4260-bdba-1fd2300b2f4d"
-author: "Sedat Onat"
+title: Soğutulmuş Kargo İçin Yeni Görünürlük Teknolojisi
+subtitle: Soğutulmuş Kargo İçin Yeni Görünürlük Teknolojisi
+date: '2025-02-03T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_fec7ee73793049cc9a4ebdd30a9539ab~mv2.jpg
+imageAlt: Soğutulmuş Kargo İçin Yeni Görünürlük Teknolojisi
+wixId: 393bd49b-a8b8-4260-bdba-1fd2300b2f4d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- MSC
+- soğutulmuş kargo
+- iReefer
+- gerçek zamanlı izleme
+- reefer konteyner
+- görünürlük teknolojisi
+- deniz taşımacılığı
 ---
 <p style="text-align: justify"><strong>Mediterranean Shipping Co.</strong> (<strong>MSC</strong>), soğutulmuş kargo hizmetlerini geliştirmek amacıyla <strong>iReefer</strong> adlı yeni bir izleme sistemi tanıttı. Bu sistem, göndericilere soğutulmuş kargolarının konumu ve sıcaklığı hakkında gerçek zamanlı güncellemeler sunmakta. Cenevre merkezli taşıyıcı, 210.000'den fazla soğutuculu konteyneri ve 500'den fazla gemiyi bu yeni teknoloji ile donattığını belirtti. ​</p>
 <p><br></p>

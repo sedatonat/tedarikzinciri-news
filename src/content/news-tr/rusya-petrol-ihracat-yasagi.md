@@ -1,14 +1,22 @@
 ---
-title: "Rusya, Benzin İhracat Yasağını 2025 Sonuna Kadar Uzattı"
-subtitle: "Rusya, Benzin İhracat Yasağını 2025 Sonuna Kadar Uzattı"
-date: "2025-10-13T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d2d350a75d7e492a95cee63df0848262~mv2.jpg"
-imageAlt: "Rusya, Benzin İhracat Yasağını 2025 Sonuna Kadar Uzattı"
-wixId: "c8af437c-ffbb-4c75-985e-05911bfe91c1"
-author: "Sedat Onat"
+title: Rusya, Benzin İhracat Yasağını 2025 Sonuna Kadar Uzattı
+subtitle: Rusya, Benzin İhracat Yasağını 2025 Sonuna Kadar Uzattı
+date: '2025-10-13T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_d2d350a75d7e492a95cee63df0848262~mv2.jpg
+imageAlt: Rusya, Benzin İhracat Yasağını 2025 Sonuna Kadar Uzattı
+wixId: c8af437c-ffbb-4c75-985e-05911bfe91c1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Rusya
+- benzin ihracatı
+- ihracat yasağı
+- enerji politikası
+- yakıt tedariki
+- dizel yakıt
+- petrol türevleri
 ---
 <p style="text-align: justify"><strong>Rusya Federasyonu Hükümeti</strong>, ülke içi arz güvenliğini koruma amacıyla <strong>benzin ihracatına yönelik geçici yasağı 31 Aralık 2025 tarihine kadar uzatmakta.</strong> Bu karar, <strong>30 Eylül 2025 tarihli ve 1503 sayılı Hükümet Kararnamesi</strong> ile resmiyet kazanmakta.</p>
 <p><br></p>

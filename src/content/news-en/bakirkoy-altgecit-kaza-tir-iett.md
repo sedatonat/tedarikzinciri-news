@@ -1,16 +1,23 @@
 ---
-title: "Truck Crashes Into Underpass in Bakırköy, Overturns Onto Adjacent IETT Bus: 6 Injured"
-subtitle: "Truck Crashes Into Underpass in Bakırköy, Overturns Onto Adjacent IETT Bus: 6 Injured"
-date: "2024-08-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_53a3d2a717804d3197695712eb8a8598~mv2.jpg"
-imageAlt: "Security camera footage of the accident on Bakırköy's Rauf Orbay Street, where a truck flatbed crashed into an underpass and overturned onto an IETT bus on the BN1 line, injuring 6 people."
-wixId: "1464638a-c2cf-4d68-9b48-9a0c22e82d92"
-author: "Sedat Onat"
+title: 'Truck Crashes Into Underpass in Bakırköy, Overturns Onto Adjacent IETT Bus: 6 Injured'
+subtitle: 'Truck Crashes Into Underpass in Bakırköy, Overturns Onto Adjacent IETT Bus: 6 Injured'
+date: '2024-08-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_53a3d2a717804d3197695712eb8a8598~mv2.jpg
+imageAlt: Security camera footage of the accident on Bakırköy's Rauf Orbay Street, where a truck flatbed crashed into an underpass and overturned onto an IETT bus on the BN1 line, injuring 6 people.
+wixId: 1464638a-c2cf-4d68-9b48-9a0c22e82d92
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- truck accident
+- IETT
+- Bakırköy
+- traffic safety
+- underpass
+- logistics accident
+- height violation
 ---
-
 <p style="text-align: justify">A traffic accident that occurred in Istanbul's Bakırköy district on the morning of August 27, 2024, has once again highlighted the dangers posed by urban transportation safety and height violations at underpasses. The <strong>truck bearing license plate 35 BCJ 694</strong>, traveling westbound on Rauf Orbay Street toward Florya, struck the upper structure of the <strong>Havuzlu Junction underpass</strong> in front of the Yeşilyurt Air War School when its flatbed's height exceeded the clearance. The impact caused the truck to lose control and <strong>overturn onto an IETT bus traveling in the adjacent lane</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">Security camera footage from the moment of impact reveals that the truck's flatbed struck the underpass's upper beam with force, causing it to roll suddenly to the left and collapse onto the <strong>bus bearing license plate 34 HL 7642 operating the BN1 line between Eminönü and Halkalı</strong> directly in its path. The bus driver, <strong>Zeynel G.</strong>, and some passengers were jolted moments before the crash by the loud impact sound, and the weight of the overturned flatbed caused severe damage to the upper section of the bus.</p>

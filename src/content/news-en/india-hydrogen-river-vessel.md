@@ -1,16 +1,23 @@
 ---
-title: "India Launches First Indigenous Hydrogen Fuel Cell Passenger Vessel on the Ganges River"
-subtitle: "India Launches First Indigenous Hydrogen Fuel Cell Passenger Vessel on the Ganges River"
-date: "2025-12-12T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_a4cc4e77353541528fbc4d9cd1667793~mv2.jpg"
-imageAlt: "Technical specifications of India's first indigenous hydrogen fuel cell passenger vessel now in commercial operation on the Ganges River in Varanasi, detailing IWAI-CSL collaboration, hydrogen infrastructure, and contributions to zero-emission goals on inland waterways"
-wixId: "49e3d797-83d4-4e84-b3a3-06980e5da18f"
-author: "Sedat Onat"
+title: India Launches First Indigenous Hydrogen Fuel Cell Passenger Vessel on the Ganges River
+subtitle: India Launches First Indigenous Hydrogen Fuel Cell Passenger Vessel on the Ganges River
+date: '2025-12-12T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_a4cc4e77353541528fbc4d9cd1667793~mv2.jpg
+imageAlt: Technical specifications of India's first indigenous hydrogen fuel cell passenger vessel now in commercial operation on the Ganges River in Varanasi, detailing IWAI-CSL collaboration, hydrogen infrastructure, and contributions to zero-emission goals on inland waterways
+wixId: 49e3d797-83d4-4e84-b3a3-06980e5da18f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- hydrogen fuel cell
+- India
+- inland waterways
+- zero emission
+- green hydrogen
+- Ganges River
+- domestic technology
 ---
-
 <p style="text-align: justify">India has reached a significant milestone in its pursuit of <strong>zero-emission transport</strong> on inland waterways. The country's <strong>first fully indigenous hydrogen fuel cell passenger vessel</strong> has been commissioned for commercial service on the <strong>Ganges River</strong> in <strong>Varanasi</strong>. According to an announcement by <strong>pib.gov.in</strong>, the vessel is owned by the <strong>Inland Waterways Authority of India (IWAI)</strong> and was constructed by <strong>Cochin Shipyard Limited (CSL)</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The vessel was formally commissioned at a ceremony held at <strong>Namo Ghat</strong> by <strong>Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal</strong>. On its inaugural voyage, accompanied by ministers, government officials, and local representatives, the vessel traversed a route of approximately <strong>five kilometers</strong> between <strong>Namo Ghat and Lalita Ghat</strong>. With this service launch, <strong>Varanasi</strong> has become the first city in India to host <strong>hydrogen-powered passenger transport</strong> on a river.</p>

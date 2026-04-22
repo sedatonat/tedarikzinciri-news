@@ -1,16 +1,23 @@
 ---
-title: "Samsung Heavy Industries Signs 341.1 Billion Won Oil Tanker Contract with Liberian Shipowner"
-subtitle: "Samsung Heavy Industries Signs 341.1 Billion Won Oil Tanker Contract with Liberian Shipowner"
-date: "2025-10-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_aea91a7dab3840d59bf576301411adab~mv2.jpeg"
-imageAlt: "Samsung Heavy Industries Signs 341.1 Billion Won Oil Tanker Contract with Liberian Shipowner"
-wixId: "f266ecc4-9c02-46c4-9441-c95819870ce7"
-author: "Sedat Onat"
+title: Samsung Heavy Industries Signs 341.1 Billion Won Oil Tanker Contract with Liberian Shipowner
+subtitle: Samsung Heavy Industries Signs 341.1 Billion Won Oil Tanker Contract with Liberian Shipowner
+date: '2025-10-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_aea91a7dab3840d59bf576301411adab~mv2.jpeg
+imageAlt: Samsung Heavy Industries Signs 341.1 Billion Won Oil Tanker Contract with Liberian Shipowner
+wixId: f266ecc4-9c02-46c4-9441-c95819870ce7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Samsung Heavy Industries
+- oil tanker
+- shipbuilding
+- Liberia
+- South Korea
+- energy transportation
+- Geoje Shipyard
 ---
-
 <p><strong>Samsung Heavy Industries (SHI)</strong> has signed a new contract valued at <strong>341.1 billion won (approximately $237 million)</strong> with <strong>a Liberia-based shipowner for the construction of three oil tankers</strong>.</p>
 <p><br>
 The agreement was disclosed to the public through <strong>a regulatory filing made on October 24, 2025 in South Korea</strong>.</p>

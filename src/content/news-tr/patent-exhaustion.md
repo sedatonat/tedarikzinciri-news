@@ -1,14 +1,22 @@
 ---
-title: "Bileşen Satışlarında Patent Tükenmesi: Üretici İçin Yeni Riskler"
-subtitle: "Bileşen Satışlarında Patent Tükenmesi: Üretici İçin Yeni Riskler"
-date: "2025-09-05T00:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_dcb21957fb1d4da59bc604d54f8af9f7~mv2.png"
-imageAlt: "Bileşen Satışlarında Patent Tükenmesi: Üretici İçin Yeni Riskler"
-wixId: "ea3c5501-9a16-4fe4-a056-eca8723fc01d"
-author: "Sedat Onat"
+title: 'Bileşen Satışlarında Patent Tükenmesi: Üretici İçin Yeni Riskler'
+subtitle: 'Bileşen Satışlarında Patent Tükenmesi: Üretici İçin Yeni Riskler'
+date: '2025-09-05T00:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_dcb21957fb1d4da59bc604d54f8af9f7~mv2.png
+imageAlt: 'Bileşen Satışlarında Patent Tükenmesi: Üretici İçin Yeni Riskler'
+wixId: ea3c5501-9a16-4fe4-a056-eca8723fc01d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- patent tükenmesi
+- fikri mülkiyet
+- tedarik zinciri
+- bileşen üreticileri
+- yasal risk
+- DRM
+- sözleşme yönetimi
 ---
 <p>Patent exhaustion ilkesi, bir ürünün lisanslı olarak satılmasından sonra patent sahibinin o ürün üzerindeki kontrolünün sona erdiğini belirtmekte. Bu kavram tedarik zincirinde özellikle bileşen üreticileri için yeni yasal riskler yaratmakta. Satış sonrası yeniden kullanım, tamir veya entegrasyon durumlarında, üreticiler patent korumasını kaybetmekte.</p>
 <p><br></p>

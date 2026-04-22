@@ -1,16 +1,23 @@
 ---
-title: "Los Angeles Harbor's Vincent Thomas Bridge Renewal Project to Begin in Early 2026"
-subtitle: "Los Angeles Harbor's Vincent Thomas Bridge Renewal Project to Begin in Early 2026"
-date: "2025-10-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_200bd6e421d745d8a83f62498033fb79~mv2.jpg"
-imageAlt: "The Vincent Thomas Bridge at the entrance to Los Angeles Harbor carries 53,000 vehicles daily, including 3,400 heavy vehicles. The California Transportation Agency (CalSTA) announced that redecking work on the 63-year-old bridge will begin in early 2026."
-wixId: "f9cfb668-ad62-469b-a6fa-8d365a52f4b7"
-author: "Sedat Onat"
+title: Los Angeles Harbor's Vincent Thomas Bridge Renewal Project to Begin in Early 2026
+subtitle: Los Angeles Harbor's Vincent Thomas Bridge Renewal Project to Begin in Early 2026
+date: '2025-10-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_200bd6e421d745d8a83f62498033fb79~mv2.jpg
+imageAlt: The Vincent Thomas Bridge at the entrance to Los Angeles Harbor carries 53,000 vehicles daily, including 3,400 heavy vehicles. The California Transportation Agency (CalSTA) announced that redecking work on the 63-year-old bridge will begin in early 2026.
+wixId: f9cfb668-ad62-469b-a6fa-8d365a52f4b7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Vincent Thomas Bridge
+- Port of Los Angeles
+- port infrastructure
+- bridge renovation
+- container shipping
+- supply chain
+- CalSTA
 ---
-
 <p style="text-align: justify"><strong>The Vincent Thomas Bridge at the entrance to Los Angeles Harbor</strong> will undergo comprehensive <strong>redecking</strong> work beginning in early 2026. The 63-year-old bridge plays a critical role both in the harbor's highway connections and in heavy vehicle traffic across the region.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>The California State Transportation Agency (CalSTA)</strong> announced that the project timeline will proceed as planned, and that launching the renewal work <strong>with no delays</strong> is the <strong>"highest priority"</strong> for ensuring the bridge's safety.</p>

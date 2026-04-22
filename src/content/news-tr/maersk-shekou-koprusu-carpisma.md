@@ -1,14 +1,22 @@
 ---
-title: "Maersk Shekou Çarpışmasında Köprüüstü İletişim Hatası Zinciri Ortaya Çıktı"
-subtitle: "Maersk Shekou Çarpışmasında Köprüüstü İletişim Hatası Zinciri Ortaya Çıktı"
-date: "2025-11-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b57fbb23132c4e2b914bc44228cf92c9~mv2.jpg"
-imageAlt: "Maersk Shekou’nun Fremantle Limanı’nda Leeuwin II’ye çarpmasına yol açan iletişim kopuklukları, pilot hataları, dikkat dağınıklığı ve prosedür ihlallerinin detaylı analizi."
-wixId: "7b2abbce-2c75-4bf1-a97f-9bce350458f7"
-author: "Sedat Onat"
+title: Maersk Shekou Çarpışmasında Köprüüstü İletişim Hatası Zinciri Ortaya Çıktı
+subtitle: Maersk Shekou Çarpışmasında Köprüüstü İletişim Hatası Zinciri Ortaya Çıktı
+date: '2025-11-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b57fbb23132c4e2b914bc44228cf92c9~mv2.jpg
+imageAlt: Maersk Shekou’nun Fremantle Limanı’nda Leeuwin II’ye çarpmasına yol açan iletişim kopuklukları, pilot hataları, dikkat dağınıklığı ve prosedür ihlallerinin detaylı analizi.
+wixId: 7b2abbce-2c75-4bf1-a97f-9bce350458f7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Maersk
+- konteyner gemisi
+- liman kazası
+- iletişim hatası
+- Fremantle Limanı
+- deniz güvenliği
+- ATSB
 ---
 <p style="text-align: justify">Avustralya Ulaşım Güvenliği Bürosu (<strong>ATSB</strong>) tarafından yayımlanan nihai rapor, <strong>Maersk Shekou</strong> adlı 333 metrelik konteyner gemisinin 30 Ağustos 2024 sabahında Western Australia’daki <strong>Fremantle Limanı’nda</strong> tarihi <strong>Leeuwin II</strong> yelkenlisini biçmesine neden olan olayın ardındaki zincirleme hataları detaylı biçimde ortaya koyuyor. Bulgular, köprüüstündeki koordinasyon eksikliği, kritik anda yaşanan dikkat dağınıklığı ve liman prosedürlerinin ihlal edilmesinin kazanın ana sebepleri olduğunu gösteriyor.</p>
 <p><br></p>

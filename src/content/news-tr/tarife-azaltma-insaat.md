@@ -1,14 +1,22 @@
 ---
-title: "İnşaatta Tarife Etkisini Azaltma Stratejileri"
-subtitle: "İnşaatta Tarife Etkisini Azaltma Stratejileri"
-date: "2025-04-17T00:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_fe4d6a4670574dd5bd1821fd631758a0~mv2.png"
-imageAlt: "İnşaatta Tarife Etkisini Azaltma Stratejileri"
-wixId: "35ee330f-4c42-458a-9654-33c35e57f3a1"
-author: "Sedat Onat"
+title: İnşaatta Tarife Etkisini Azaltma Stratejileri
+subtitle: İnşaatta Tarife Etkisini Azaltma Stratejileri
+date: '2025-04-17T00:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_fe4d6a4670574dd5bd1821fd631758a0~mv2.png
+imageAlt: İnşaatta Tarife Etkisini Azaltma Stratejileri
+wixId: 35ee330f-4c42-458a-9654-33c35e57f3a1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- inşaat sektörü
+- tarife
+- tedarik zinciri
+- fiyat artışı
+- tedarik çeşitlendirme
+- sözleşme yönetimi
+- risk yönetimi
 ---
 <p>Küresel ticaret politikalarında yaşanan belirsizlik, inşaat sektöründe özellikle çelik, alüminyum, bakır ve bitmiş komponent tedarikinde maliyetleri ve tedarik sürelerini etkilemekte.&nbsp;</p>
 <p><br></p>

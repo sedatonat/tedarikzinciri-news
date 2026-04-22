@@ -1,16 +1,23 @@
 ---
-title: "Russia Plans No New Restrictions on China-EU Rail Freight Transit"
-subtitle: "Russia Plans No New Restrictions on China-EU Rail Freight Transit"
-date: "2024-12-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5b7f7efc490a4eb09afd01a1fd785d02~mv2.jpg"
-imageAlt: "Russia Plans No New Restrictions on China-EU Rail Freight Transit"
-wixId: "f9dc31b0-33ac-4e1a-a685-e4111fa9044e"
-author: "Sedat Onat"
+title: Russia Plans No New Restrictions on China-EU Rail Freight Transit
+subtitle: Russia Plans No New Restrictions on China-EU Rail Freight Transit
+date: '2024-12-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5b7f7efc490a4eb09afd01a1fd785d02~mv2.jpg
+imageAlt: Russia Plans No New Restrictions on China-EU Rail Freight Transit
+wixId: f9dc31b0-33ac-4e1a-a685-e4111fa9044e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- China-EU rail
+- Russia
+- transit transport
+- Silk Road
+- customs
+- TEU
+- RZD
 ---
-
 <p>Russia does not plan to introduce additional restrictions on rail freight shipments transiting between China and the European Union. Instead, it aims to remove existing bureaucratic obstacles that have hindered rail cargo transit along this corridor.</p>
 <p><br></p>
 <p>Previously, some freight forwarders reported problems with cargo deliveries from China to the EU, claiming that Russian Customs Service had detained shipments on suspicion of carrying military-related materials. However, Russian Customs Service has repeatedly denied these allegations, emphasizing that such cases are few and not systematic. It also could not confirm reports of certain informal restrictions imposed on transit shipments along the Silk Road in mid-October.</p>

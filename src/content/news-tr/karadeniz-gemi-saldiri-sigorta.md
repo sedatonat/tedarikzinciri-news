@@ -1,14 +1,23 @@
 ---
-title: "Karadeniz’de Savaş Sigortası Primleri %250 Arttı: Gemi Saldırıları Bölgesel Riskleri Tırmandırıyor"
-subtitle: "Karadeniz’de Savaş Sigortası Primleri %250 Arttı: Gemi Saldırıları Bölgesel Riskleri Tırmandırıyor"
-date: "2025-12-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_fed46065883b40acbd71286d756df46b~mv2.jpg"
-imageAlt: "Ukrayna’nın Rusya bağlantılı gemilere yönelik saldırıları sonrası Karadeniz’de war-risk sigorta primlerinin 3 kattan fazla artması, shadow fleet etkileri, bölgesel güvenlik riski ve tedarik zinciri sonuçlarının detaylı özeti"
-wixId: "cbd2ddf5-fddb-44ca-b714-866961b4784d"
-author: "Sedat Onat"
+title: 'Karadeniz’de Savaş Sigortası Primleri %250 Arttı: Gemi Saldırıları Bölgesel Riskleri Tırmandırıyor'
+subtitle: 'Karadeniz’de Savaş Sigortası Primleri %250 Arttı: Gemi Saldırıları Bölgesel Riskleri Tırmandırıyor'
+date: '2025-12-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_fed46065883b40acbd71286d756df46b~mv2.jpg
+imageAlt: Ukrayna’nın Rusya bağlantılı gemilere yönelik saldırıları sonrası Karadeniz’de war-risk sigorta primlerinin 3 kattan fazla artması, shadow fleet etkileri, bölgesel güvenlik riski ve tedarik zinciri sonuçlarının detaylı özeti
+wixId: cbd2ddf5-fddb-44ca-b714-866961b4784d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Karadeniz
+- savaş sigortası
+- gemi saldırıları
+- shadow fleet
+- Ukrayna
+- Rusya
+- deniz taşımacılığı
+- tedarik zinciri riski
 ---
 <p style="text-align: justify">Karadeniz’de deniz taşımacılığı riskleri Aralık 2025 itibarıyla dramatik şekilde yükselmekte. <strong>Bloomberg</strong> tarafından yayımlanan son analiz, bölgedeki <strong>war-risk insurance</strong> fiyatlarının Ukrayna’nın Moskova bağlantılı gemilere yönelik saldırıları sonrası keskin bir artış gösterdiğini ortaya koymakta. Dünyanın en büyük sigorta brokeri <strong>Marsh</strong>’ın verilerine göre, Rus limanlarına uğrayan gemilerin savaş sigortası oranları önceki <strong>%0,25–0,30</strong> bandından <strong>%1</strong> seviyesine kadar yükselmiş durumda — bu da <strong>%250’nin üzerinde bir artış</strong> anlamına gelmekte.</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "International Intermodal Market Expected to Contract in 2025"
-subtitle: "International Intermodal Market Expected to Contract in 2025"
-date: "2024-12-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_cb7d263c0de54f3b8ebeb7a7052bd33e~mv2.jpg"
-imageAlt: "International Intermodal Market Expected to Contract in 2025"
-wixId: "d4075ac1-b3f1-49e3-a0ff-e4dc01166182"
-author: "Sedat Onat"
+title: International Intermodal Market Expected to Contract in 2025
+subtitle: International Intermodal Market Expected to Contract in 2025
+date: '2024-12-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_cb7d263c0de54f3b8ebeb7a7052bd33e~mv2.jpg
+imageAlt: International Intermodal Market Expected to Contract in 2025
+wixId: d4075ac1-b3f1-49e3-a0ff-e4dc01166182
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- intermodal transportation
+- North America
+- container
+- rail
+- air cargo
+- Suez Canal
+- ISO container
 ---
-
 <p><strong>Larry Gross</strong>, president of <strong>Gross Transportation Consulting</strong> and analyst at the <strong>Journal of Commerce</strong>, notes that North American intermodal transportation experienced a strong yet volatile period in 2024 influenced by external factors. According to data from the <strong>Association of American Railroads (AAR)</strong>, North American intermodal starts showed a year-over-year increase of 7.5% through the first week of December. The primary driver of this growth was activity in the international intermodal segment.</p>
 <p><br></p>
 <p>During the first ten months of 2024, revenue movements of <strong>ISO</strong> containers in North America increased 15% compared to the prior year. This growth suggests that a significant portion of intermodal ocean volumes expected to be transported in 2025 may have been pulled forward into 2024. This dynamic points to a potential contraction in the international intermodal market in 2025.</p>

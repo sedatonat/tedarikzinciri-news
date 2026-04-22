@@ -1,16 +1,24 @@
 ---
-title: "Somaliland's Potential as a New Trade Hub in the Red Sea"
-subtitle: "Somaliland's Potential as a New Trade Hub in the Red Sea"
-date: "2025-01-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_76a01789dfa649d3b92ebf7ecb613375~mv2.jpg"
-imageAlt: "Somaliland's Potential as a New Trade Hub in the Red Sea"
-wixId: "1364edd7-61c0-4385-8e77-0e6f4205daeb"
-author: "Sedat Onat"
+title: Somaliland's Potential as a New Trade Hub in the Red Sea
+subtitle: Somaliland's Potential as a New Trade Hub in the Red Sea
+date: '2025-01-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_76a01789dfa649d3b92ebf7ecb613375~mv2.jpg
+imageAlt: Somaliland's Potential as a New Trade Hub in the Red Sea
+wixId: 1364edd7-61c0-4385-8e77-0e6f4205daeb
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Somaliland
+- Berbera Port
+- Red Sea
+- DP World
+- Horn of Africa
+- container terminal
+- Ethiopia
+- port investment
 ---
-
 <p>Somaliland has recently attracted international attention through the strategic interests of global actors such as <strong>Israel</strong> and the <strong>United Arab Emirates (UAE)</strong>, along with significant infrastructure investments. In particular, the expansion and modernization of <strong>Berbera Port</strong> are enhancing the region's commercial and geopolitical importance.</p>
 <p><br></p>
 <p><strong>DP World</strong> signed a 30-year agreement with the Somaliland government in 2016 to operate Berbera Port. Under this agreement, an investment of $442 million USD was planned for the port. In 2021, with the participation of <strong>CDC Group</strong>, the development finance institution of the British government, the investment amount doubled to reach $1 billion.</p>

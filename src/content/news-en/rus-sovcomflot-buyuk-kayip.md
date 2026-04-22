@@ -1,16 +1,23 @@
 ---
-title: "Russian Sovcomflot Faces Significant Losses Due to Sanctions"
-subtitle: "Russian Sovcomflot Faces Significant Losses Due to Sanctions"
-date: "2025-03-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ccfddd0a2fe74af387fadba3d2b44291~mv2.jpg"
-imageAlt: "Sovcomflot Faces Significant Losses Due to Sanctions"
-wixId: "eb5785da-827b-48a5-a88d-52b867fc166d"
-author: "Sedat Onat"
+title: Russian Sovcomflot Faces Significant Losses Due to Sanctions
+subtitle: Russian Sovcomflot Faces Significant Losses Due to Sanctions
+date: '2025-03-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_ccfddd0a2fe74af387fadba3d2b44291~mv2.jpg
+imageAlt: Sovcomflot Faces Significant Losses Due to Sanctions
+wixId: eb5785da-827b-48a5-a88d-52b867fc166d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Sovcomflot
+- Russia
+- sanctions
+- tanker
+- oil transportation
+- maritime transportation
+- Ukraine
 ---
-
 <p style="text-align: justify">Russia's state-backed tanker company <a href="https://en.wikipedia.org/wiki/Sovcomflot"><u><strong>Sovcomflot</strong></u></a> experienced a 55% decline in net profit during 2024, reflecting the severe impact of sanctions on Russian oil on the company's operations.</p>
 <p><br></p>
 <p style="text-align: justify">Following the invasion of Ukraine in 2022, international sanctions against <strong>Sovcomflot</strong> and other Russian energy companies intensified, adversely affecting the company's operations and profitability.</p>

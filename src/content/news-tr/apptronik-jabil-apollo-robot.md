@@ -1,14 +1,22 @@
 ---
-title: "Apptronik ve Jabil Ortaklığı: Apollo İnsansı Robotlarının Üretimi"
-subtitle: "Apptronik ve Jabil Ortaklığı: Apollo İnsansı Robotlarının Üretimi"
-date: "2025-02-25T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_c263a9d683464e8796b152c713f61c17~mv2.jpg"
-imageAlt: "Apptronik ve Jabil Ortaklığı: Apollo İnsansı Robotlarının Üretimi"
-wixId: "d8a5821d-cc37-4003-9998-b90fa5326ebe"
-author: "Sedat Onat"
+title: 'Apptronik ve Jabil Ortaklığı: Apollo İnsansı Robotlarının Üretimi'
+subtitle: 'Apptronik ve Jabil Ortaklığı: Apollo İnsansı Robotlarının Üretimi'
+date: '2025-02-25T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_c263a9d683464e8796b152c713f61c17~mv2.jpg
+imageAlt: 'Apptronik ve Jabil Ortaklığı: Apollo İnsansı Robotlarının Üretimi'
+wixId: d8a5821d-cc37-4003-9998-b90fa5326ebe
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Apptronik
+- Jabil
+- insansı robot
+- Apollo
+- üretim otomasyonu
+- tedarik zinciri
+- otomasyon
 ---
 <p style="text-align: justify"><strong>Apptronik</strong>, Austin merkezli bir robot üreticisi olup, tedarik zinciri devi <strong>Jabil</strong> ile iş birliği yaparak <strong>Apollo</strong> adlı insansı robotlarının üretimi ve test edilmesi konusunda anlaşmaya varmıştır. Bu ortaklık, insansı robotların üretim süreçlerine entegrasyonunu hızlandırmayı ve fabrikalarda daha verimli bir çalışma ortamı oluşturmayı hedeflemektedir.​</p>
 <p><br></p>

@@ -1,14 +1,23 @@
 ---
-title: "RXO: Truckload Pazarı 2025 Son Çeyrekte Zayıf, 2026’da Kademeli Toparlanma Bekleniyor"
-subtitle: "RXO: Truckload Pazarı 2025 Son Çeyrekte Zayıf, 2026’da Kademeli Toparlanma Bekleniyor"
-date: "2025-12-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1756d10b84fd4d26abf8e2594c36b173~mv2.png"
-imageAlt: "RXO’nun Curve raporuna göre truckload pazarında 2025’in son çeyreğinde hacimlerin zayıf seyretmesi, spot navlunların sıkışması, imalat sektöründeki durgunluk ve 2026 için faiz destekli toparlanma beklentilerinin detaylı özeti"
-wixId: "b30d3f1b-aca8-46fc-8aaf-38e4437f3c7c"
-author: "Sedat Onat"
+title: 'RXO: Truckload Pazarı 2025 Son Çeyrekte Zayıf, 2026’da Kademeli Toparlanma Bekleniyor'
+subtitle: 'RXO: Truckload Pazarı 2025 Son Çeyrekte Zayıf, 2026’da Kademeli Toparlanma Bekleniyor'
+date: '2025-12-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1756d10b84fd4d26abf8e2594c36b173~mv2.png
+imageAlt: RXO’nun Curve raporuna göre truckload pazarında 2025’in son çeyreğinde hacimlerin zayıf seyretmesi, spot navlunların sıkışması, imalat sektöründeki durgunluk ve 2026 için faiz destekli toparlanma beklentilerinin detaylı özeti
+wixId: b30d3f1b-aca8-46fc-8aaf-38e4437f3c7c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- RXO
+- truckload pazarı
+- ABD lojistiği
+- spot navlun
+- imalat üretimi
+- PMI
+- Federal Reserve
+- freight broker
 ---
 <p style="text-align: justify">ABD <strong>truckload</strong> pazarı, 2025’in son çeyreğine girerken belirgin bir toparlanma sinyali vermemekte. <strong>Freight broker RXO</strong> tarafından yayımlanan <strong>20 Kasım tarihli Curve Report</strong>, yılın son çeyreğinde hacimlerin <strong>muted</strong> kalacağını, ancak 2026’da daha anlamlı bir yön değişiminin mümkün olduğunu ortaya koymakta. Curve markası, RXO’nun geçtiğimiz yıl <strong>Coyote Logistics</strong>’ten devraldığı analitik iş kolu olarak sektör tarafından yakından takip edilmekte.</p>
 <p><br></p>

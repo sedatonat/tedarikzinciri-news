@@ -1,14 +1,22 @@
 ---
-title: "Chabahar Limanı için Hindistan ve İran Arasında 10 Yıllık Anlaşma"
-subtitle: "Chabahar Limanı için Hindistan ve İran Arasında 10 Yıllık Anlaşma"
-date: "2024-05-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_dfaea3d5c82345d6b0638d1e5fdd0556~mv2.jpg"
-imageAlt: "Chabahar Limanı için Hindistan ve İran Arasında 10 Yıllık Anlaşma"
-wixId: "2095eef1-7562-46c2-86a9-02f2d772b2f1"
-author: "Sedat Onat"
+title: Chabahar Limanı için Hindistan ve İran Arasında 10 Yıllık Anlaşma
+subtitle: Chabahar Limanı için Hindistan ve İran Arasında 10 Yıllık Anlaşma
+date: '2024-05-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_dfaea3d5c82345d6b0638d1e5fdd0556~mv2.jpg
+imageAlt: Chabahar Limanı için Hindistan ve İran Arasında 10 Yıllık Anlaşma
+wixId: 2095eef1-7562-46c2-86a9-02f2d772b2f1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Chabahar Limanı
+- Hindistan
+- İran
+- liman geliştirme
+- ABD yaptırımları
+- Orta Asya
+- liman yönetimi
 ---
 <p>Hindistan ve İran, Chabahar Limanı'nı geliştirmek ve yönetmek için 10 yıllık bir anlaşma imzaladılar. Hindistan, Pakistan'ın Karaçi ve Gwadar limanlarını atlatarak, İran'ın güneydoğu kıyısındaki Umman Körfezi boyunca Chabahar Limanı'nı inşa ederek buradan İran, Afganistan ve Orta Asya ülkelerine emtia teslimatı yapıyor.&nbsp;</p>
 <p><br></p>

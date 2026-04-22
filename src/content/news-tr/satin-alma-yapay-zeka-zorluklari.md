@@ -1,14 +1,22 @@
 ---
-title: "Satınalma Süreçlerinde Yapay Zeka Benimseme Zorluklarını Aşmak"
-subtitle: "Satınalma Süreçlerinde Yapay Zeka Benimseme Zorluklarını Aşmak"
-date: "2024-11-04T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/11062b_1e2176ef42184348836267cbc4852168~mv2.jpg"
-imageAlt: "Satın Alma Süreçlerinde Yapay Zeka Benimseme Zorluklarını Aşmak"
-wixId: "4cd3474c-d696-474c-a7a9-d13d2e384c23"
-author: "Sedat Onat"
+title: Satınalma Süreçlerinde Yapay Zeka Benimseme Zorluklarını Aşmak
+subtitle: Satınalma Süreçlerinde Yapay Zeka Benimseme Zorluklarını Aşmak
+date: '2024-11-04T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/11062b_1e2176ef42184348836267cbc4852168~mv2.jpg
+imageAlt: Satın Alma Süreçlerinde Yapay Zeka Benimseme Zorluklarını Aşmak
+wixId: 4cd3474c-d696-474c-a7a9-d13d2e384c23
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- yapay zeka
+- satınalma
+- tedarik zinciri
+- dijital dönüşüm
+- veri kalitesi
+- organizasyon kültürü
+- 4C Associates
 ---
 <p>4C Associates’ın dijital inovasyon direktörü Joe Gibson, satın alma süreçlerinde yapay zeka (YZ) entegrasyonunun teknik zorluklarının yanı sıra insan faktörünün de dikkate alınması gerektiğini belirtiyor. 4C Associates, ticari ve tedarik zinciri danışmanlığı alanında faaliyet gösteren bir firma olarak, YZ’nin satın alma fonksiyonlarını tamamen devrim niteliğinde değiştirme potansiyeline sahip olduğunu ifade ediyor. Ancak, Gibson’a göre, satın alma ekiplerinin karşılaştığı en büyük zorluk sadece teknolojik değil, aynı zamanda kültürel bir sorun.</p>
 <p><br></p>

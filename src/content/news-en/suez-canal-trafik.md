@@ -1,16 +1,23 @@
 ---
-title: "Suez Canal Traffic Up 10%: Major Shipping Lines Return to Route"
-subtitle: "Suez Canal Traffic Up 10%: Major Shipping Lines Return to Route"
-date: "2025-11-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_072b7c50271e43968b3da9bddd1640f9~mv2.jpg"
-imageAlt: "The Suez Canal is experiencing its largest traffic surge since the crisis that began in 2023. In October, 229 vessels transited, total tonnage rose 10%, and major lines like CMA CGM and MSC have begun testing the route again."
-wixId: "b5b00125-0130-4d2a-9816-224da99358f0"
-author: "Sedat Onat"
+title: 'Suez Canal Traffic Up 10%: Major Shipping Lines Return to Route'
+subtitle: 'Suez Canal Traffic Up 10%: Major Shipping Lines Return to Route'
+date: '2025-11-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_072b7c50271e43968b3da9bddd1640f9~mv2.jpg
+imageAlt: The Suez Canal is experiencing its largest traffic surge since the crisis that began in 2023. In October, 229 vessels transited, total tonnage rose 10%, and major lines like CMA CGM and MSC have begun testing the route again.
+wixId: b5b00125-0130-4d2a-9816-224da99358f0
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Suez Canal
+- Red Sea
+- container shipping
+- CMA CGM
+- marine insurance
+- vessel traffic
+- MSC
 ---
-
 <p style="text-align: justify">The Suez Canal is witnessing <strong>the strongest vessel traffic recovery in two years</strong> as tensions in the Red Sea and Bab el-Mandeb region gradually ease. The Suez Canal Authority (SCA) reported that October achieved <strong>the highest monthly transit rate since the end of 2023</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">In October, <strong>229 vessels</strong> transited the canal. When evaluating July through October together, total tonnage showed <strong>a 10% annual increase</strong>. While vessel count growth was only <strong>2%</strong>, the data indicates that <strong>larger, more heavily-laden vessels are returning to the canal</strong>. Over this four-month period, transiting vessel numbers exceeded <strong>4,400</strong>.</p>

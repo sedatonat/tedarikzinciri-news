@@ -1,14 +1,23 @@
 ---
-title: "Istanbul Bridge, Çin–Avrupa Arktik Seferini Rotterdam Limanı’na Ulaşarak Tamamladı"
-subtitle: "Istanbul Bridge, Çin–Avrupa Arktik Seferini Rotterdam Limanı’na Ulaşarak Tamamladı"
-date: "2025-10-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_597dd59057a4487da23613b799cd88e6~mv2.jpeg"
-imageAlt: "Konteyner gemisi Istanbul Bridge, Çin–Avrupa Arktik Ekspres Hattı’nın (China–Europe Arctic Express) Avrupa ayağını tamamlayarak Rotterdam Limanı’na ulaştı. Bu sefer, Arktik rotanın sunduğu zaman avantajını bir kez daha ortaya koyarken, hattın “Ice Silk Road” stratejisindeki önemini pekiştirdi."
-wixId: "dc0a66c9-f45d-42d2-a93a-26f50b77da08"
-author: "Sedat Onat"
+title: Istanbul Bridge, Çin–Avrupa Arktik Seferini Rotterdam Limanı’na Ulaşarak Tamamladı
+subtitle: Istanbul Bridge, Çin–Avrupa Arktik Seferini Rotterdam Limanı’na Ulaşarak Tamamladı
+date: '2025-10-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_597dd59057a4487da23613b799cd88e6~mv2.jpeg
+imageAlt: Konteyner gemisi Istanbul Bridge, Çin–Avrupa Arktik Ekspres Hattı’nın (China–Europe Arctic Express) Avrupa ayağını tamamlayarak Rotterdam Limanı’na ulaştı. Bu sefer, Arktik rotanın sunduğu zaman avantajını bir kez daha ortaya koyarken, hattın “Ice Silk Road” stratejisindeki önemini pekiştirdi.
+wixId: dc0a66c9-f45d-42d2-a93a-26f50b77da08
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Arktik rota
+- Kuzey Deniz Rotası
+- Rotterdam Limanı
+- Haijie Shipping
+- Ice Silk Road
+- konteyner taşımacılığı
+- intermodal taşımacılık
+- Süveyş Kanalı
 ---
 <p style="text-align: justify"><strong>Kargo gemisi Istanbul Bridge</strong>, <strong>23 Ekim 2025 sabahı</strong> <strong>Hollanda’nın Rotterdam Limanı’na</strong> demir atarak <strong>Çin–Avrupa Arktik Ekspres hattının</strong> Avrupa ayağını başarıyla tamamladı. Böylece <strong>Çin’den Avrupa’ya uzanan Arktik rotası</strong> üzerinden gerçekleştirilen sefer resmen sona erdi.</p>
 <p><br></p>

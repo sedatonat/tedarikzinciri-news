@@ -1,14 +1,22 @@
 ---
-title: "Hackerlar, Otomobil Üreticilerinin Tedarik Zincirlerindeki Üçüncü Parti Tedarikçileri Hedef Alıyor"
-subtitle: "Hackerlar, Otomobil Üreticilerinin Tedarik Zincirlerindeki Üçüncü Parti Tedarikçileri Hedef Alıyor"
-date: "2023-12-12T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_2114144feda349f8a70c91363e107a4e~mv2.jpeg"
-imageAlt: "Hackerlar, Otomobil Üreticilerinin Tedarik Zincirlerindeki Üçüncü Parti Tedarikçileri Hedef Alıyor"
-wixId: "2a910994-3aea-4d58-9865-af143853b77c"
-author: "Sedat Onat"
+title: Hackerlar, Otomobil Üreticilerinin Tedarik Zincirlerindeki Üçüncü Parti Tedarikçileri Hedef Alıyor
+subtitle: Hackerlar, Otomobil Üreticilerinin Tedarik Zincirlerindeki Üçüncü Parti Tedarikçileri Hedef Alıyor
+date: '2023-12-12T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_2114144feda349f8a70c91363e107a4e~mv2.jpeg
+imageAlt: Hackerlar, Otomobil Üreticilerinin Tedarik Zincirlerindeki Üçüncü Parti Tedarikçileri Hedef Alıyor
+wixId: 2a910994-3aea-4d58-9865-af143853b77c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- siber güvenlik
+- otomotiv sektörü
+- tedarik zinciri
+- üçüncü parti tedarikçi
+- fidye yazılımı
+- OEM
+- siber saldırı
 ---
 <p>VicOne'un "VicOne Automotive Cyberthreat Landscape Report 2023" raporuna göre, otomotiv üreticilerine yönelik siber saldırıların %90'ı asıl ekipman üreticilerine (OEM) değil, onların tedarik zincirlerindeki diğer firmalara yönelik.&nbsp;</p>
 <p><br></p>

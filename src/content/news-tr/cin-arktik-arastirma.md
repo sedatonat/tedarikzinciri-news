@@ -1,14 +1,22 @@
 ---
-title: "Çin, Arktik Araştırma Gemisi Teslim Etti"
-subtitle: "Çin, Arktik Araştırma Gemisi Teslim Etti"
-date: "2024-12-27T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_d918c192891b4f839e97eaa3630f0b6e~mv2.jpg"
-imageAlt: "Çin, Arktik Araştırma Gemisi Teslim Etti"
-wixId: "91642a71-5640-48e6-b3e5-830a9b387669"
-author: "Sedat Onat"
+title: Çin, Arktik Araştırma Gemisi Teslim Etti
+subtitle: Çin, Arktik Araştırma Gemisi Teslim Etti
+date: '2024-12-27T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_d918c192891b4f839e97eaa3630f0b6e~mv2.jpg
+imageAlt: Çin, Arktik Araştırma Gemisi Teslim Etti
+wixId: 91642a71-5640-48e6-b3e5-830a9b387669
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Çin
+- Arktik
+- araştırma gemisi
+- buz kırıcı
+- denizcilik
+- jeopolitik
+- Kuzeydoğu Geçidi
 ---
 <p>Çin, küresel derin deniz keşifleri için tasarlanan ilk bilimsel araştırma gemisi <strong>Tan Suo San Hao</strong>'yu (<strong>Exploration No. 3</strong>) teslim etti. Guangzhou Shipyard International Co., Ltd. tarafından inşa edilen bu 104 metrelik gemi, 10.000 ton deplasman, 15.000 deniz mili menzil ve çift yönlü buz kırma yetenekleri gibi etkileyici özelliklere sahip.</p>
 <p><br></p>

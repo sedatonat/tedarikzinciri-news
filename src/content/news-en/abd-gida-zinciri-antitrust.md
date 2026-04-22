@@ -1,16 +1,24 @@
 ---
-title: "Trump Takes Tough Stance Against Competition Violations in Food Supply Chain"
-subtitle: "Trump Takes Tough Stance Against Competition Violations in Food Supply Chain"
-date: "2025-12-07T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_4991eabbef88424cad6376b037df96d8~mv2.jpg"
-imageAlt: "Detailed summary of President Donald Trump's executive order mandating the establishment of new task forces within the DOJ and FTC to investigate price fixing and anti-competitive practices in the U.S. food supply chain"
-wixId: "94cde06a-568a-454a-8b3e-9e2d7115a980"
-author: "Sedat Onat"
+title: Trump Takes Tough Stance Against Competition Violations in Food Supply Chain
+subtitle: Trump Takes Tough Stance Against Competition Violations in Food Supply Chain
+date: '2025-12-07T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_4991eabbef88424cad6376b037df96d8~mv2.jpg
+imageAlt: Detailed summary of President Donald Trump's executive order mandating the establishment of new task forces within the DOJ and FTC to investigate price fixing and anti-competitive practices in the U.S. food supply chain
+wixId: 94cde06a-568a-454a-8b3e-9e2d7115a980
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- food supply chain
+- antitrust violation
+- price fixing
+- Trump
+- DOJ
+- FTC
+- USA
+- national security
 ---
-
 <p style="text-align: justify">U.S. President <strong>Donald Trump</strong> launched a comprehensive federal review of rising price pressures and sector consolidation in America's food supply chain with a new <strong>executive order</strong> signed on December 6, 2025. According to White House statements, the order envisions the establishment of new <strong>food supply chain security task forces</strong> within the <strong>Department of Justice (DOJ)</strong> and <strong>Federal Trade Commission (FTC)</strong>. The objective is to investigate <strong>price fixing</strong>, <strong>market manipulation</strong>, and other anti-competitive behavior in the food sector and impose sanctions where necessary.</p>
 <p><br></p>
 <p style="text-align: justify">Trump's executive order includes the statement, "Anti-competitive behavior… threatens the stability and affordability of America's food supply." The administration contends that particularly foreign-controlled firms are distorting price formation in the food supply chain and creating national security risks. The order argues that such practices place pressure on <strong>cost of living</strong> and directly impact American consumers.</p>

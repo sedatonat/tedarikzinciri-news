@@ -1,14 +1,23 @@
 ---
-title: "Süveyş Kanalı Otoritesi ve Petrol Bakanlığı Port Said’de LNG Sıvılaştırma ve Yakıt İkmal Tesisi Kuruyor"
-subtitle: "Süveyş Kanalı Otoritesi ve Petrol Bakanlığı Port Said’de LNG Sıvılaştırma ve Yakıt İkmal Tesisi Kuruyor"
-date: "2025-11-24T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b138afb021134c03a0e933e57ce16dba~mv2.jpg"
-imageAlt: "Mısır’ın Port Said Raswa bölgesinde LNG sıvılaştırma, depolama ve bunker ikmal tesisi için Süveyş Kanalı Otoritesi ile Petrol ve Maden Kaynakları Bakanlığı arasında imzalanan mutabakat zaptı ve projenin “green channel” kalkınma planındaki rolünün detayları."
-wixId: "f5ae512d-bb37-46c5-b3c8-18d097bb13bd"
-author: "Sedat Onat"
+title: Süveyş Kanalı Otoritesi ve Petrol Bakanlığı Port Said’de LNG Sıvılaştırma ve Yakıt İkmal Tesisi Kuruyor
+subtitle: Süveyş Kanalı Otoritesi ve Petrol Bakanlığı Port Said’de LNG Sıvılaştırma ve Yakıt İkmal Tesisi Kuruyor
+date: '2025-11-24T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b138afb021134c03a0e933e57ce16dba~mv2.jpg
+imageAlt: Mısır’ın Port Said Raswa bölgesinde LNG sıvılaştırma, depolama ve bunker ikmal tesisi için Süveyş Kanalı Otoritesi ile Petrol ve Maden Kaynakları Bakanlığı arasında imzalanan mutabakat zaptı ve projenin “green channel” kalkınma planındaki rolünün detayları.
+wixId: f5ae512d-bb37-46c5-b3c8-18d097bb13bd
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- LNG
+- Süveyş Kanalı
+- bunker yakıt
+- Port Said
+- yeşil koridor
+- Mısır
+- denizcilik
+- emisyon
 ---
 <p style="text-align: justify">Mısır, küresel enerji geçişi ve denizcilik sektöründeki yakıt dönüşümünü hızlandırmaya yönelik stratejik bir adım atarak Port Said’in Raswa bölgesinde <strong>LNG sıvılaştırma, depolama ve bunker yakıt ikmal tesisi</strong> kurma planını resmileştirdi. <strong>Suez Canal Authority (SCA)</strong> ile <strong>Ministry of Petroleum and Mineral Resources</strong> arasında 23 Kasım 2025’te imzalanan mutabakat zaptı (MoU), ülkenin Kanal boyunca oluşturmayı hedeflediği <strong>“green channel”</strong> konseptinin enerji ayağını güçlendirecek.</p>
 <p><br></p>

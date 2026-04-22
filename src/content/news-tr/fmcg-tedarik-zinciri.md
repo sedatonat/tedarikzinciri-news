@@ -1,14 +1,23 @@
 ---
-title: "FMCG Tedarik Zincirlerinde Geleceğe Dayanıklılık Stratejileri"
-subtitle: "FMCG Tedarik Zincirlerinde Geleceğe Dayanıklılık Stratejileri"
-date: "2025-12-15T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_6f52f5e97d974d2b81710b36a31ce700~mv2.jpg"
-imageAlt: "FMCG üreticilerinin küresel belirsizliklere karşı değer zinciri planlaması, sanal simülasyon, çoklu tedarik ve yapay zeka tabanlı tahminleme ile tedarik zincirlerini nasıl güçlendirdiğini ele alan kapsamlı analiz."
-wixId: "65a9557b-a7e2-4d3c-8696-94fb0f3ce6bd"
-author: "Sedat Onat"
+title: FMCG Tedarik Zincirlerinde Geleceğe Dayanıklılık Stratejileri
+subtitle: FMCG Tedarik Zincirlerinde Geleceğe Dayanıklılık Stratejileri
+date: '2025-12-15T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_6f52f5e97d974d2b81710b36a31ce700~mv2.jpg
+imageAlt: FMCG üreticilerinin küresel belirsizliklere karşı değer zinciri planlaması, sanal simülasyon, çoklu tedarik ve yapay zeka tabanlı tahminleme ile tedarik zincirlerini nasıl güçlendirdiğini ele alan kapsamlı analiz.
+wixId: 65a9557b-a7e2-4d3c-8696-94fb0f3ce6bd
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- FMCG
+- tedarik zinciri
+- dayanıklılık
+- yapay zeka
+- multi-sourcing
+- virtual twin
+- DELMIA
+- talep tahmini
 ---
 <p style="text-align: justify">Hızlı tüketim ürünleri sektöründe faaliyet gösteren üreticiler, son yıllarda artan küresel belirsizlikler nedeniyle tedarik zinciri yönetimini yeniden tanımlamak zorunda kalmakta. Aşırı hava olayları, ani gümrük tarifeleri, iş gücü eksiklikleri ve ambalaj mevzuatlarında yaşanan sıkılaşmalar, <strong>Fast-Moving Consumer Goods (FMCG)</strong> değer zincirinin her aşamasında baskı yaratmakta. Bu çok yönlü risk ortamı, yalnızca operasyonel sürekliliği değil, aynı zamanda maliyet yapısını, hizmet seviyelerini ve sürdürülebilirlik hedeflerini de doğrudan etkilemekte.</p>
 <p><br></p>

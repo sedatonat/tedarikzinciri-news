@@ -1,16 +1,23 @@
 ---
-title: "Sean Duffy Confirmed as U.S. Transportation Secretary"
-subtitle: "Sean Duffy Confirmed as U.S. Transportation Secretary"
-date: "2025-01-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d0baa9b12fff4e85bc419938dcfd3dce~mv2.jpg"
-imageAlt: "Sean Duffy Confirmed as U.S. Transportation Secretary"
-wixId: "648fb579-6e40-4797-b104-bc3423c21943"
-author: "Sedat Onat"
+title: Sean Duffy Confirmed as U.S. Transportation Secretary
+subtitle: Sean Duffy Confirmed as U.S. Transportation Secretary
+date: '2025-01-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_d0baa9b12fff4e85bc419938dcfd3dce~mv2.jpg
+imageAlt: Sean Duffy Confirmed as U.S. Transportation Secretary
+wixId: 648fb579-6e40-4797-b104-bc3423c21943
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Sean Duffy
+- U.S. Department of Transportation
+- trucking
+- infrastructure
+- Boeing
+- electric vehicle
+- supply chain
 ---
-
 <p>The U.S. Senate confirmed former Wisconsin Representative <strong>Sean Duffy</strong> to lead the <strong>Department of Transportation</strong> with a vote of 77 to 22. The approval allows Duffy, nominated by <strong>President Donald Trump</strong>, to head a department that regulates safety in the automotive, aviation, rail, and trucking industries, as well as finances transportation infrastructure projects.</p>
 <p><br></p>
 <p><strong>American Trucking Associations (ATA)</strong> CEO and President <strong>Chris Spear</strong> welcomed Duffy's confirmation and noted that he is a steadfast supporter of truckers and the workers who deliver the nation's cargo. Spear said they aim to work with Duffy to modernize infrastructure and strengthen supply chain resilience.</p>

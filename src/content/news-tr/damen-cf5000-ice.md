@@ -1,14 +1,22 @@
 ---
-title: "Damen Yeni CF 5000 ICE Buz Sınıfı Kargo Gemisini Tanıttı"
-subtitle: "Damen Yeni CF 5000 ICE Buz Sınıfı Kargo Gemisini Tanıttı"
-date: "2025-11-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a839b8953cce4864b467f97d02262a96~mv2.jpg"
-imageAlt: "Damen Shipyards Group’un Rotterdam’daki Europort 2025’te tanıttığı CF 5000 ICE buz sınıfı kargo gemisinin tasarım yenilikleri, enerji verimliliği, sürdürülebilirlik özellikleri ve operasyon yetenekleri hakkında detaylı haber özeti"
-wixId: "5187293a-60a5-4d04-83e0-e4c5527a9f5c"
-author: "Sedat Onat"
+title: Damen Yeni CF 5000 ICE Buz Sınıfı Kargo Gemisini Tanıttı
+subtitle: Damen Yeni CF 5000 ICE Buz Sınıfı Kargo Gemisini Tanıttı
+date: '2025-11-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a839b8953cce4864b467f97d02262a96~mv2.jpg
+imageAlt: Damen Shipyards Group’un Rotterdam’daki Europort 2025’te tanıttığı CF 5000 ICE buz sınıfı kargo gemisinin tasarım yenilikleri, enerji verimliliği, sürdürülebilirlik özellikleri ve operasyon yetenekleri hakkında detaylı haber özeti
+wixId: 5187293a-60a5-4d04-83e0-e4c5527a9f5c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Damen
+- buz sınıfı gemi
+- kargo gemisi
+- CF 5000 ICE
+- hibrit itki sistemi
+- sürdürülebilirlik
+- Triton IoT
 ---
 <p style="text-align: justify"><strong>Damen Shipyards Group</strong>, Rotterdam’da düzenlenen <strong>Europort 2025</strong> etkinliğinde, yeni nesil buz sınıfı kargo gemisi <strong>Combi Freighter (CF) 5000 ICE</strong> platformunu tanıttı. Şirketin geniş kargo gemisi portföyündeki en yeni ürün olan CF 5000 ICE, modüler ve ölçeklenebilir tasarımıyla yeni bir buz sınıfı serisinin ilk gemisi olarak konumlanmakta. Damen, bu tasarımın hem açık deniz hem de buzlu sularda yüksek verimlilik sağlayacak şekilde geliştirildiğini belirtiyor.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Akıllı Satın Alma Yolculuğu: OMS Tedarik Zincirinizi Nasıl Bağlar?"
-subtitle: "Akıllı Satın Alma Yolculuğu: OMS Tedarik Zincirinizi Nasıl Bağlar?"
-date: "2025-08-01T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_883445a6fa764902a1c6cc852665e320~mv2.png"
-imageAlt: "Akıllı Satın Alma Yolculuğu: Oms Tedarik Zincirinizi Nasıl Bağlar"
-wixId: "9c195ab5-0f83-4e5c-91ec-5eefda7ea07b"
-author: "Sedat Onat"
+title: 'Akıllı Satın Alma Yolculuğu: OMS Tedarik Zincirinizi Nasıl Bağlar?'
+subtitle: 'Akıllı Satın Alma Yolculuğu: OMS Tedarik Zincirinizi Nasıl Bağlar?'
+date: '2025-08-01T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_883445a6fa764902a1c6cc852665e320~mv2.png
+imageAlt: 'Akıllı Satın Alma Yolculuğu: Oms Tedarik Zincirinizi Nasıl Bağlar'
+wixId: 9c195ab5-0f83-4e5c-91ec-5eefda7ea07b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- OMS
+- sipariş yönetimi
+- tedarik zinciri
+- yapay zeka
+- BOPIS
+- envanter yönetimi
+- order routing
 ---
 <p style="text-align: justify"><strong>Order Management System (OMS)</strong>, modern tedarik zincirinde <strong>satış kanalları, envanter ve lojistik</strong> arasındaki bağlantıyı kuran <strong>sinir sistemi</strong> işlevi görmektedir. Akıllı bir OMS; <strong>inventory orchestration</strong>, <strong>available-to-promise (ATP)</strong> ve <strong>order promising</strong> kurallarıyla her siparişi, müşteri talebi ve operasyonel kapasiteye göre en uygun düğüme yönlendirir. Böylece siparişin doğru ürün, doğru yer ve doğru zamanda karşılanması sağlanır.</p>
 <p style="text-align: justify"><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Malacca Boğazı'nda Yangın Sonrası Malaysia Star Limanda"
-subtitle: "Malacca Boğazı'nda Yangın Sonrası Malaysia Star Limanda"
-date: "2024-12-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c0a5fe9c888d49d8bb93e8a5b9876b5c~mv2.jpg"
-imageAlt: "Malacca Boğazı'nda Yangın Sonrası Malaysia Star Limanda"
-wixId: "94db22b5-9907-468f-944b-b53c54ddd222"
-author: "Sedat Onat"
+title: Malacca Boğazı'nda Yangın Sonrası Malaysia Star Limanda
+subtitle: Malacca Boğazı'nda Yangın Sonrası Malaysia Star Limanda
+date: '2024-12-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c0a5fe9c888d49d8bb93e8a5b9876b5c~mv2.jpg
+imageAlt: Malacca Boğazı'nda Yangın Sonrası Malaysia Star Limanda
+wixId: 94db22b5-9907-468f-944b-b53c54ddd222
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Malacca Boğazı
+- Malaysia Star
+- otomobil taşıyıcısı
+- yangın
+- MMEA
+- deniz güvenliği
+- Harbour-Link Group
 ---
 <p>2 Aralık 2024 tarihinde Malacca Boğazı'nda meydana gelen yangın olayı, Malaysia Star adlı otomobil taşıyıcısının iskelede demir atmasına yol açtı. Olay, sabah saatlerinde, Port Klang'dan Malaysia'nın Kota Kinabalu şehrine doğru seyir halinde olan gemide, yakıt tankı civarında çıkan alevlerin kontrol altına alınamaması sonucu gerçekleşti. Yangın, mürettebatın 19 kişilik ekipmanını panik halinde tahliye etmesine neden oldu.</p>
 <p><br></p>

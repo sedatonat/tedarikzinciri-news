@@ -1,14 +1,22 @@
 ---
-title: "DepOrtak ile Depolama Sektöründe Yenilikçi Çözüm"
-subtitle: "DepOrtak ile Depolama Sektöründe Yenilikçi Çözüm"
-date: "2024-04-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_daef246089254b8bb72fcafa2d7c7bf9~mv2.png"
-imageAlt: "DepOrtak ile Depolama Sektöründe Yenilikçi Çözüm"
-wixId: "fa73199c-414c-4147-b362-a162b62e408d"
-author: "Sedat Onat"
+title: DepOrtak ile Depolama Sektöründe Yenilikçi Çözüm
+subtitle: DepOrtak ile Depolama Sektöründe Yenilikçi Çözüm
+date: '2024-04-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_daef246089254b8bb72fcafa2d7c7bf9~mv2.png
+imageAlt: DepOrtak ile Depolama Sektöründe Yenilikçi Çözüm
+wixId: fa73199c-414c-4147-b362-a162b62e408d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DepOrtak
+- gri depo
+- e-ticaret
+- depolama
+- dijitalleşme
+- artırılmış zeka
+- lojistik yönetimi
 ---
 <p><a href="https://deportak.com/en/"><u>DepOrtak</u></a>, e-ticaretin hızla büyüyen depolama ihtiyaçlarına yenilikçi bir çözüm sunuyor. Pandemi sonrası e-ticaretle birlikte artan depolama talebine cevap vermek amacıyla, kurucu ortağı <a href="https://www.linkedin.com/in/oruç-kaya-aa8a4914/"><u>Oruç Kaya</u></a> liderliğinde, atıl durumdaki alanları depolama sektörüne kazandırmayı hedefleyen bir girişimdir. "Gri depo" olarak adlandırılan bu model, AirBnb benzeri bir iş modeliyle, mevcut depo kapasitelerini maksimize ederek, daha geniş ve uygun fiyatlı depolama alanları sunmayı amaçlıyor. <a href="https://deportak.com/en/"><u>DepOrtak</u></a>, 1,5 yıllık bir geliştirme sürecinin ardından, 1 Mart 2023'te hizmete açılmıştır.</p>
 <p><br></p>

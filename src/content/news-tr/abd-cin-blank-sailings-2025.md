@@ -1,14 +1,22 @@
 ---
-title: "Aylar Süren Çalkantının Ardından Çin–ABD Blank Sailing’leri Sakinleşiyor"
-subtitle: "Aylar Süren Çalkantının Ardından Çin–ABD Blank Sailing’leri Sakinleşiyor"
-date: "2025-11-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f01842f52f494d7d8692646bb525c603~mv2.jpg"
-imageAlt: "2025 boyunca tarifeler nedeniyle keskin şekilde artan Çin–ABD blank sailing oranları, ABD–Çin ticaret ateşkesinin ardından %82 düşüşle normale dönmeye başladı; taşıyıcılar yeni talep seviyelerine uyum sağlıyor."
-wixId: "a9f6d25e-cd9c-4bf6-923a-be2135d694fd"
-author: "Sedat Onat"
+title: Aylar Süren Çalkantının Ardından Çin–ABD Blank Sailing’leri Sakinleşiyor
+subtitle: Aylar Süren Çalkantının Ardından Çin–ABD Blank Sailing’leri Sakinleşiyor
+date: '2025-11-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f01842f52f494d7d8692646bb525c603~mv2.jpg
+imageAlt: 2025 boyunca tarifeler nedeniyle keskin şekilde artan Çin–ABD blank sailing oranları, ABD–Çin ticaret ateşkesinin ardından %82 düşüşle normale dönmeye başladı; taşıyıcılar yeni talep seviyelerine uyum sağlıyor.
+wixId: a9f6d25e-cd9c-4bf6-923a-be2135d694fd
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- blank sailing
+- Çin-ABD ticareti
+- konteyner taşımacılığı
+- tarife
+- kapasite yönetimi
+- transpasifik hat
+- project44
 ---
 <p style="text-align: justify">Çin–ABD arasındaki ana okyanus taşımacılığı hatlarında 2025’in büyük bölümünü belirleyen blank sailing dalgaları sonunda yatışmaya başladı. <strong>project44 verilerine göre</strong>, bahar aylarında tarifeler nedeniyle zirve yapan sefer iptalleri, son haftalarda keskin şekilde geriledi ve taşıyıcılar daha dengeli bir kapasite yönetimine geçti.</p>
 <p><br></p>

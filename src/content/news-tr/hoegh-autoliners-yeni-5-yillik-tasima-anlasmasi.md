@@ -1,14 +1,21 @@
 ---
-title: "Höegh Autoliners, Büyük Bir Uluslararası Otomobil Üreticisi ile 5 Yıllık Yeni Taşıma Anlaşması İmzaladı"
-subtitle: "Höegh Autoliners, Büyük Bir Uluslararası Otomobil Üreticisi ile 5 Yıllık Yeni Taşıma Anlaşması İmzaladı"
-date: "2024-12-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_eed03f1990054183b4ed97986bcbfe08~mv2.jpg"
-imageAlt: "Höegh Autoliners, Büyük Bir Uluslararası Otomobil Üreticisi ile 5 Yıllık Yeni Taşıma Anlaşması İmzaladı"
-wixId: "7a4404c3-134a-49d6-a4cc-4f110d81c88f"
-author: "Sedat Onat"
+title: Höegh Autoliners, Büyük Bir Uluslararası Otomobil Üreticisi ile 5 Yıllık Yeni Taşıma Anlaşması İmzaladı
+subtitle: Höegh Autoliners, Büyük Bir Uluslararası Otomobil Üreticisi ile 5 Yıllık Yeni Taşıma Anlaşması İmzaladı
+date: '2024-12-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_eed03f1990054183b4ed97986bcbfe08~mv2.jpg
+imageAlt: Höegh Autoliners, Büyük Bir Uluslararası Otomobil Üreticisi ile 5 Yıllık Yeni Taşıma Anlaşması İmzaladı
+wixId: 7a4404c3-134a-49d6-a4cc-4f110d81c88f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Höegh Autoliners
+- otomobil taşımacılığı
+- araç taşıma
+- uzun vadeli sözleşme
+- otomotiv lojistiği
+- deniz taşımacılığı
 ---
 <p>Norveç merkezli otomobil taşıma şirketi Höegh Autoliners, önemli hacimde araç taşımacılığı için yeni bir beş yıllık sözleşme imzaladı. Şirketin açıklamasına göre, bu anlaşma “büyük bir uluslararası otomobil üreticisi” ile yapıldı, ancak müşteri ismi kamuoyuyla paylaşılmadı. Araç taşımacılığı, Höegh Autoliners’in temel ticaret hatlarından ikisinde gerçekleştirilecek ve 1 Ocak 2025 itibarıyla başlayacak.</p>
 <p><br></p>

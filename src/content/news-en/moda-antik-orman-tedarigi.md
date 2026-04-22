@@ -1,16 +1,24 @@
 ---
-title: "Fashion Brands End Sourcing from Ancient and Endangered Forests"
-subtitle: "Fashion Brands End Sourcing from Ancient and Endangered Forests"
-date: "2025-11-25T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_c448b4086a974f138a956ae7f1a77480~mv2.jpg"
-imageAlt: "A detailed overview of the new global collaboration created by fashion brands to cease sourcing from ancient and endangered forests, addressing risks in MMCF and packaging supply chains, the transition planned to protect climate-critical forests, and the sector-wide implications."
-wixId: "00cb677a-14ce-41f9-98e1-ed8996c4d901"
-author: "Sedat Onat"
+title: Fashion Brands End Sourcing from Ancient and Endangered Forests
+subtitle: Fashion Brands End Sourcing from Ancient and Endangered Forests
+date: '2025-11-25T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_c448b4086a974f138a956ae7f1a77480~mv2.jpg
+imageAlt: A detailed overview of the new global collaboration created by fashion brands to cease sourcing from ancient and endangered forests, addressing risks in MMCF and packaging supply chains, the transition planned to protect climate-critical forests, and the sector-wide implications.
+wixId: 00cb677a-14ce-41f9-98e1-ed8996c4d901
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- sustainability
+- fashion industry
+- forest conservation
+- supply chain
+- alternative materials
+- Canopy
+- MMCF
+- eco-friendly packaging
 ---
-
 <p style="text-align: justify">Eight global fashion and lifestyle brands are joining a new supply-chain transformation program aimed at reducing pressure on <strong>Ancient and Endangered Forests (AEFs)</strong>. <strong>Marc O'Polo, Victoria's Secret & Co., Akyn, Mint Velvet, Spell, OUTnABOUT, DÔEN, and ICICLE</strong> are committing to radical change across both packaging and <strong>wood-based textile</strong> supply chains through an initiative led by environmental nonprofit <strong>Canopy</strong>. This decision is particularly significant given that trees used in <strong>paper packaging</strong> and <strong>Man-Made Cellulosic Fibers (MMCFs)</strong> production continue to be harvested intensively from climate-critical regions.</p>
 <p><br></p>
 <p style="text-align: justify">Under the initiative, brands are committing to completely phase out <strong>high-risk forest-sourced materials</strong> from packaging and textile supply chains in favor of <strong>lower-environmental-impact alternatives</strong>. Current paper packaging will be replaced with materials derived from <strong>wheat straw</strong>, <strong>agricultural residues</strong>, and <strong>recycled fiber</strong>; meanwhile, MMCF sourcing will accelerate toward <strong>AEF-free</strong> certified producers.</p>

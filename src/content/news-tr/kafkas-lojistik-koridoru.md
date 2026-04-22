@@ -1,14 +1,23 @@
 ---
-title: "Ermenistan ve Azerbaycan Arasındaki Politik Uzlaşı, Kafkasya’da Yeni Transit Koridorlarını Açıyor"
-subtitle: "Ermenistan ve Azerbaycan Arasındaki Politik Uzlaşı, Kafkasya’da Yeni Transit Koridorlarını Açıyor"
-date: "2025-10-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d35f03f3d5b84cadad321b115da48fb3~mv2.jpg"
-imageAlt: "Ermenistan ve Azerbaycan arasındaki politik uzlaşma, Kafkasya bölgesinde demiryolu ve kara taşımacılığı ağlarını yeniden şekillendiriyor. Uzun yıllar süren kapalı sınırlar ve transit yasağının ardından, bölge artık uluslararası yük taşımacılığına yeniden açılıyor."
-wixId: "3d4d9f4e-4b25-47cd-9947-33e4943517f0"
-author: "Sedat Onat"
+title: Ermenistan ve Azerbaycan Arasındaki Politik Uzlaşı, Kafkasya’da Yeni Transit Koridorlarını Açıyor
+subtitle: Ermenistan ve Azerbaycan Arasındaki Politik Uzlaşı, Kafkasya’da Yeni Transit Koridorlarını Açıyor
+date: '2025-10-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d35f03f3d5b84cadad321b115da48fb3~mv2.jpg
+imageAlt: Ermenistan ve Azerbaycan arasındaki politik uzlaşma, Kafkasya bölgesinde demiryolu ve kara taşımacılığı ağlarını yeniden şekillendiriyor. Uzun yıllar süren kapalı sınırlar ve transit yasağının ardından, bölge artık uluslararası yük taşımacılığına yeniden açılıyor.
+wixId: 3d4d9f4e-4b25-47cd-9947-33e4943517f0
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ermenistan
+- Azerbaycan
+- Kafkasya
+- transit koridoru
+- Middle Corridor
+- demiryolu taşımacılığı
+- Zengezur Koridoru
+- Orta Asya
 ---
 <p style="text-align: justify"><strong>Ermenistan ve Azerbaycan</strong> arasında sağlanan <strong>politik uzlaşı</strong>, <strong>Kafkasya’nın jeostratejik taşımacılık haritasını kökten değiştirmekte.</strong> On yıllardır süren sınır kapalıllığı ve transit yasakları, iki ülke arasında <strong>yeni ticaret ve transit koridorlarının</strong> açılmasıyla sona eriyor.</p>
 <p><br></p>

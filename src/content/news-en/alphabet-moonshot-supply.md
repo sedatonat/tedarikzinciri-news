@@ -1,16 +1,24 @@
 ---
-title: "Alphabet Spinning Off 'Moonshot' Supply Chain Project"
-subtitle: "Alphabet Spinning Off 'Moonshot' Supply Chain Project"
-date: "2025-04-17T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_5c53cc2ec93440db984748aa6599523c~mv2.png"
-imageAlt: "Alphabet spinning off 'moonshot' supply chain project"
-wixId: "002e174f-4a35-45a8-a505-c7e100aff8a9"
-author: "Sedat Onat"
+title: Alphabet Spinning Off 'Moonshot' Supply Chain Project
+subtitle: Alphabet Spinning Off 'Moonshot' Supply Chain Project
+date: '2025-04-17T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_5c53cc2ec93440db984748aa6599523c~mv2.png
+imageAlt: Alphabet spinning off 'moonshot' supply chain project
+wixId: 002e174f-4a35-45a8-a505-c7e100aff8a9
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Alphabet
+- spin-off
+- artificial intelligence
+- digital twin
+- supply chain
+- AI orchestration
+- dynamic planning
+- control tower
 ---
-
 <p style="text-align: justify"><strong>Alphabet</strong> is spinning off an experimental supply chain initiative into an <strong>independent structure</strong>, aiming to <strong>accelerate the commercialization</strong> of this technology. This strategic move is viewed as part of the company's vision to transition innovative projects from laboratory scale into a market-closer, customer-focused framework.</p>
 <p><br></p>
 <p style="text-align: justify">The new entity's <strong>technology stack</strong> encompasses a suite of advanced components forming the foundation of modern supply chain management:</p>

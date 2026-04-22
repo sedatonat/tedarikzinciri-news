@@ -1,16 +1,24 @@
 ---
-title: "Piraeus–Elefsis Tension: US–China Competition Dividing Mediterranean Logistics"
-subtitle: "Piraeus–Elefsis Tension: US–China Competition Dividing Mediterranean Logistics"
-date: "2025-11-24T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_6ed5a42482ad48a29ef0f55909cbabe1~mv2.jpg"
-imageAlt: "Detailed analysis of US–China power struggle over Piraeus Port, DFC-backed strategic rise of Elefsis Shipyard, NATO-aligned infrastructure requirements, and 2026 regional supply chain implications"
-wixId: "d84cff09-d1ca-4bbc-8d17-7981687bfab9"
-author: "Sedat Onat"
+title: 'Piraeus–Elefsis Tension: US–China Competition Dividing Mediterranean Logistics'
+subtitle: 'Piraeus–Elefsis Tension: US–China Competition Dividing Mediterranean Logistics'
+date: '2025-11-24T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_6ed5a42482ad48a29ef0f55909cbabe1~mv2.jpg
+imageAlt: Detailed analysis of US–China power struggle over Piraeus Port, DFC-backed strategic rise of Elefsis Shipyard, NATO-aligned infrastructure requirements, and 2026 regional supply chain implications
+wixId: d84cff09-d1ca-4bbc-8d17-7981687bfab9
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Piraeus Port
+- COSCO
+- US-China competition
+- Elefsis Shipyard
+- Mediterranean logistics
+- geopolitics
+- NATO
+- port security
 ---
-
 <p style="text-align: justify">In the final weeks of 2025, the Mediterranean logistics landscape has become a new front in US–China rivalry. <strong>COSCO</strong>, which holds a 67% controlling stake in <strong>Piraeus Port Authority</strong>, has created diplomatic tension between Washington and Athens. The United States has characterized China's control over Piraeus as "unfortunate" and is pressuring the Greek government to reduce this dependency. The White House argues that Piraeus's position within NATO's security ecosystem has been weakened due to Chinese ownership.</p>
 <p><br></p>
 <p style="text-align: justify">On the opposite pole of this debate stands <strong>Elefsis Shipyard</strong>, located just a few miles from Piraeus. The US development agency <strong>DFC – US Development Finance Corporation</strong> has invested approximately <strong>125 million USD</strong> to modernize the facility. Elefsis is being positioned from the US perspective as a "<strong>trusted maritime node</strong>"; it is being certified as a secure maintenance and repair center for NATO warships, LNG tankers, and <strong>dual-use vessels</strong>.</p>

@@ -1,14 +1,22 @@
 ---
-title: "Hapag-Lloyd, GSBN Altyapısı Üzerinden Elektronik Konşimento Uygulamasına Geçiyor"
-subtitle: "Hapag-Lloyd, GSBN Altyapısı Üzerinden Elektronik Konşimento Uygulamasına Geçiyor"
-date: "2024-04-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6c2feeb8fcf14ce88b6d6bc6f4735337~mv2.jpg"
-imageAlt: "Hapag-Lloyd, GSBN Altyapısı Üzerinden Elektronik Konşimento Uygulamasına Geçiyor"
-wixId: "bbb52beb-802a-40e5-8136-268e39028d66"
-author: "Sedat Onat"
+title: Hapag-Lloyd, GSBN Altyapısı Üzerinden Elektronik Konşimento Uygulamasına Geçiyor
+subtitle: Hapag-Lloyd, GSBN Altyapısı Üzerinden Elektronik Konşimento Uygulamasına Geçiyor
+date: '2024-04-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_6c2feeb8fcf14ce88b6d6bc6f4735337~mv2.jpg
+imageAlt: Hapag-Lloyd, GSBN Altyapısı Üzerinden Elektronik Konşimento Uygulamasına Geçiyor
+wixId: bbb52beb-802a-40e5-8136-268e39028d66
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Hapag-Lloyd
+- elektronik konşimento
+- GSBN
+- blockchain
+- DCSA
+- dijitalleşme
+- konteyner taşımacılığı
 ---
 <p>Global Shipping Business Network (GSBN), Hapag-Lloyd firmasının elektronik konşimento (eBL) çıkarmak için IQAX eBL sistemini kullanacağını duyurdu. GSBN'nin altyapısı üzerinden gerçekleşecek bu işlem, sektörde daha geniş bir kabul görmesi için Digital Container Shipping Association (DCSA) ile iş birliği içinde yürütüldü. API'ler, DCSA'nın en güncel eBL API standartlarına (versiyon 3.0) uygun şekilde veri alışverişi sağlıyor.</p>
 <p><br></p>

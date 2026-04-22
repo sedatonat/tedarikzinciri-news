@@ -1,14 +1,23 @@
 ---
-title: "SGP, Dammam Lojistik Bölgesi ve Terminal 2 Genişlemesini Başlattı"
-subtitle: "SGP, Dammam Lojistik Bölgesi ve Terminal 2 Genişlemesini Başlattı"
-date: "2025-11-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_34ee825863134600b2b39016927315ae~mv2.jpg"
-imageAlt: "Saudi Global Ports’un Dammam Integrated Logistics Zone için temel atması ve Terminal 2 kapasite artırımıyla KAP Dammam’da oluşturduğu yeni entegre lojistik ekosistemine ilişkin kapsamlı haber özeti"
-wixId: "d758fbba-c44b-4a0e-8fb0-bbcc11eeddb6"
-author: "Sedat Onat"
+title: SGP, Dammam Lojistik Bölgesi ve Terminal 2 Genişlemesini Başlattı
+subtitle: SGP, Dammam Lojistik Bölgesi ve Terminal 2 Genişlemesini Başlattı
+date: '2025-11-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_34ee825863134600b2b39016927315ae~mv2.jpg
+imageAlt: Saudi Global Ports’un Dammam Integrated Logistics Zone için temel atması ve Terminal 2 kapasite artırımıyla KAP Dammam’da oluşturduğu yeni entegre lojistik ekosistemine ilişkin kapsamlı haber özeti
+wixId: d758fbba-c44b-4a0e-8fb0-bbcc11eeddb6
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- SGP
+- Dammam
+- lojistik bölge
+- terminal genişleme
+- Suudi Arabistan
+- konteyner terminali
+- PSA International
+- Saudi Vision 2030
 ---
 <p style="text-align: justify"><strong>Saudi Global Ports (SGP)</strong>, <strong>King Abdulaziz Port Dammam</strong> kapsamında iki kritik projeyi aynı gün duyurarak Suudi Arabistan’ın doğu koridorunda güçlü bir lojistik dönüşüm başlattı. Şirket, bir yandan <strong>Terminal 2 Berth Expansion</strong> için resmi açılış törenini gerçekleştirirken, diğer yandan ülkenin yeni stratejik merkezlerinden biri olarak konumlanan <strong>Dammam Integrated Logistics Zone</strong> için temel atma sürecini başlattı. Her iki proje de Dammam’ı hem ulusal hem de uluslararası ticaret için daha yüksek kapasiteli, çok yönlü ve entegre bir lojistik platforma dönüştürmeyi hedeflemekte.</p>
 <p><br></p>

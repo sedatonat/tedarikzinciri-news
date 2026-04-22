@@ -1,14 +1,22 @@
 ---
-title: "Panama Kanalı Su Seviyesi Kuraklıktan Dolayı Azalıyor"
-subtitle: "Panama Kanalı Su Seviyesi Kuraklıktan Dolayı Azalıyor"
-date: "2023-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_26f13e42906d41c98f160f01ac05b8e6~mv2.jpg"
-imageAlt: "Panama Kanalı Su Seviyesi Kuraklıktan Dolayı Azalıyor"
-wixId: "b51c3bee-6645-4444-9d55-1f1cde22b857"
-author: "Sedat Onat"
+title: Panama Kanalı Su Seviyesi Kuraklıktan Dolayı Azalıyor
+subtitle: Panama Kanalı Su Seviyesi Kuraklıktan Dolayı Azalıyor
+date: '2023-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_26f13e42906d41c98f160f01ac05b8e6~mv2.jpg
+imageAlt: Panama Kanalı Su Seviyesi Kuraklıktan Dolayı Azalıyor
+wixId: b51c3bee-6645-4444-9d55-1f1cde22b857
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Panama Kanalı
+- kuraklık
+- konteyner taşımacılığı
+- LNG taşımacılığı
+- draft seviyesi
+- Suez Kanalı
+- tedarik zinciri
 ---
 <p>Son yayınlanan bir rapor, Panama Kanalı'nda yaşanan kuraklığın en çok kuru yük ve LNG taşımacılığı segmentlerini etkilediğini gösterdi. Ayrıca, Container xChange, Panama Kanalı kuraklığının etkilerinin 2024 boyunca devam edeceğini belirtti.</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "Drewry: Crude Tankers Could Outpace Product Tankers by 2026"
-subtitle: "Drewry: Crude Tankers Could Outpace Product Tankers by 2026"
-date: "2025-12-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_562a8145226d4dc6970f07b4b777c2ed~mv2.jpg"
-imageAlt: "Drewry's 2026 tanker market outlook, highlighting a detailed sector summary examining the expected stronger performance of crude tankers compared to product tankers due to limited fleet growth and inventory dynamics"
-wixId: "dd8ecf31-759c-4ac1-9d66-636802121c69"
-author: "Sedat Onat"
+title: 'Drewry: Crude Tankers Could Outpace Product Tankers by 2026'
+subtitle: 'Drewry: Crude Tankers Could Outpace Product Tankers by 2026'
+date: '2025-12-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_562a8145226d4dc6970f07b4b777c2ed~mv2.jpg
+imageAlt: Drewry's 2026 tanker market outlook, highlighting a detailed sector summary examining the expected stronger performance of crude tankers compared to product tankers due to limited fleet growth and inventory dynamics
+wixId: dd8ecf31-759c-4ac1-9d66-636802121c69
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- crude oil tanker
+- product tanker
+- Drewry
+- tanker market
+- fleet growth
+- freight rates
+- maritime
 ---
-
 <p style="text-align: justify">UK-based maritime consultancy <strong>Drewry Shipping Consultants</strong> forecasts that <strong>crude tankers</strong> will outperform <strong>product tankers</strong> in 2026. The assessment was presented at a <strong>Drewry tanker market webinar</strong> held on <strong>December 9, 2025</strong>. Speaking at the presentation, <strong>Rajesh Verma</strong> characterized 2025 as a "<strong>mixed bag</strong>" for the tanker market, noting that crude tanker rates have been strengthening in the year's final quarter while product tanker earnings have retreated from 2024 peaks.</p>
 <p><br></p>
 <p style="text-align: justify">Drewry's core thesis centers on supply-side growth differentials as the primary driver of 2026 performance divergence. The consultancy forecasts <strong>crude tanker fleet growth</strong> of approximately <strong>2%</strong> in 2026, following already-weak fleet expansion in 2025, indicating supply pressures will remain contained. By contrast, <strong>product tanker</strong> segment fleet growth is estimated at roughly <strong>6%</strong> in both 2025 and 2026, with similar expansion rates expected to continue.</p>

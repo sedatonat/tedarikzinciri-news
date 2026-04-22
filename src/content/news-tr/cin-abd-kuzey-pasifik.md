@@ -1,14 +1,22 @@
 ---
-title: "Kuzey Pasifik’te Çin Araştırma Gemileri ve ABD Askerî Faaliyetleri Artıyor"
-subtitle: "Kuzey Pasifik’te Çin Araştırma Gemileri ve ABD Askerî Faaliyetleri Artıyor"
-date: "2025-11-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e97eb940835a44308a99799befef8662~mv2.jpg"
-imageAlt: "Pasifik Center for Island Security verilerine göre Çin’in uzay–füze izleme ve denizaltı haritalama gemileri Kuzey Pasifik’te aktif; aynı dönemde ABD bölgedeki çok uluslu askerî tatbikatlarını artırdı."
-wixId: "bb508a08-afca-4de8-aa1c-803be51c4790"
-author: "Sedat Onat"
+title: Kuzey Pasifik’te Çin Araştırma Gemileri ve ABD Askerî Faaliyetleri Artıyor
+subtitle: Kuzey Pasifik’te Çin Araştırma Gemileri ve ABD Askerî Faaliyetleri Artıyor
+date: '2025-11-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e97eb940835a44308a99799befef8662~mv2.jpg
+imageAlt: Pasifik Center for Island Security verilerine göre Çin’in uzay–füze izleme ve denizaltı haritalama gemileri Kuzey Pasifik’te aktif; aynı dönemde ABD bölgedeki çok uluslu askerî tatbikatlarını artırdı.
+wixId: bb508a08-afca-4de8-aa1c-803be51c4790
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Çin araştırma gemileri
+- ABD
+- Kuzey Pasifik
+- askerileşme
+- jeopolitik rekabet
+- Guam
+- deniz güvenliği
 ---
 <p style="text-align: justify">Yeni veriler, <strong>Kuzey Pasifik’in hızla askerileştiğini</strong> ve Çin ile ABD’nin bölgedeki faaliyetlerinin belirgin şekilde arttığını gösteriyor. Reuters’ın aktardığına göre Guam merkezli <strong>Pacific Center for Island Security</strong>, Ekim–Kasım 2025 dönemine ilişkin güvenlik izleme raporunda Çin’e ait <strong>beş araştırma gemisinin</strong> Kuzeybatı Pasifik’te aktif olduğunu, aynı dönemde ABD’nin bölgede <strong>dokuz çok uluslu tatbikat</strong> gerçekleştirdiğini ortaya koydu.</p>
 <p><br></p>

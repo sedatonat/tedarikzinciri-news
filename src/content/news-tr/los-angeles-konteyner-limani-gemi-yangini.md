@@ -1,14 +1,22 @@
 ---
-title: "Los Angeles Limanı’nda Konteyner Gemisi Yangını Operasyonları Durdurdu"
-subtitle: "Los Angeles Limanı’nda Konteyner Gemisi Yangını Operasyonları Durdurdu"
-date: "2025-11-22T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1048900e337a4411811b5b2ea5b07598~mv2.jpg"
-imageAlt: "Los Angeles Limanı’nda One Henry Hudson adlı konteyner gemisinde tehlikeli madde içeren bir yangının çıkması, geminin açık alana çekilmesi ve dört terminalde operasyonların durmasıyla sonuçlanan olayın detaylı özeti."
-wixId: "8c585788-fd80-4060-9e3b-6f1b65e82139"
-author: "Sedat Onat"
+title: Los Angeles Limanı’nda Konteyner Gemisi Yangını Operasyonları Durdurdu
+subtitle: Los Angeles Limanı’nda Konteyner Gemisi Yangını Operasyonları Durdurdu
+date: '2025-11-22T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1048900e337a4411811b5b2ea5b07598~mv2.jpg
+imageAlt: Los Angeles Limanı’nda One Henry Hudson adlı konteyner gemisinde tehlikeli madde içeren bir yangının çıkması, geminin açık alana çekilmesi ve dört terminalde operasyonların durmasıyla sonuçlanan olayın detaylı özeti.
+wixId: 8c585788-fd80-4060-9e3b-6f1b65e82139
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Los Angeles Limanı
+- konteyner gemisi
+- yangın
+- tehlikeli madde
+- liman operasyonları
+- acil müdahale
+- One Henry Hudson
 ---
 <p style="text-align: justify">ABD’nin en yoğun deniz ticaret kapısı olan <strong>Port of Los Angeles</strong>, 21 Kasım gecesi <strong>One Henry Hudson</strong> adlı konteyner gemisinde çıkan tehlikeli madde kaynaklı yangın nedeniyle operasyonlarını geçici olarak durdurmak zorunda kaldı. Olay, hem liman güvenliğini hem de bölgedeki halk sağlığını yakından etkileyen bir acil durum olarak kayıtlara geçti.</p>
 <p><br></p>

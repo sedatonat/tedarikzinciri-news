@@ -1,14 +1,23 @@
 ---
-title: "Afganistan, Hairatan ve Torkham Sınır Kapılarını Modernize Etmek İçin DP World ile Çerçeve Anlaşma İmzaladı"
-subtitle: "Afganistan, Hairatan ve Torkham Sınır Kapılarını Modernize Etmek İçin DP World ile Çerçeve Anlaşma İmzaladı"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c095a284ad414cc69129e13d2ed94aef~mv2.jpg"
-imageAlt: "Afganistan Maliye Bakanlığı’nın DP World ile Hairatan ve Torkham sınır limanlarının modernizasyonu için imzaladığı yatırım çerçevesi, Orta Asya–Güney Asya lojistik koridorlarına etkisi ve bağlayıcı sözleşmelere giden sürecin detaylı özeti"
-wixId: "bb0b8ef3-5d22-424e-a4e1-9e8e3d63e322"
-author: "Sedat Onat"
+title: Afganistan, Hairatan ve Torkham Sınır Kapılarını Modernize Etmek İçin DP World ile Çerçeve Anlaşma İmzaladı
+subtitle: Afganistan, Hairatan ve Torkham Sınır Kapılarını Modernize Etmek İçin DP World ile Çerçeve Anlaşma İmzaladı
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c095a284ad414cc69129e13d2ed94aef~mv2.jpg
+imageAlt: Afganistan Maliye Bakanlığı’nın DP World ile Hairatan ve Torkham sınır limanlarının modernizasyonu için imzaladığı yatırım çerçevesi, Orta Asya–Güney Asya lojistik koridorlarına etkisi ve bağlayıcı sözleşmelere giden sürecin detaylı özeti
+wixId: bb0b8ef3-5d22-424e-a4e1-9e8e3d63e322
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Afganistan
+- DP World
+- sınır kapısı modernizasyonu
+- Hairatan
+- Torkham
+- bölgesel lojistik
+- Orta Asya
+- gümrük dijitalleşmesi
 ---
 <p style="text-align: justify"><strong>Afganistan</strong>, sınır ticaretini ve bölgesel lojistik entegrasyonunu güçlendirmek amacıyla <strong>Hairatan</strong> ve <strong>Torkham</strong> sınır kapılarının modernizasyonu için <strong>DP World</strong> ile önemli bir adım atmakta. Afgan hükümetinin yaptığı açıklamalara göre, <strong>Afghanistan Ministry of Finance</strong> ile DP World arasında bir <strong>investment term sheet</strong> imzalandı. Belge, <strong>7 Aralık’ta Kabil’de</strong>, <strong>Deputy Prime Minister for Economic Affairs</strong> ofisinde düzenlenen törenle imza altına alındı. Sürece, Ekonomik İşlerden Sorumlu Başbakan Yardımcısı <strong>Mufti Abdullah Azam</strong> başkanlık etti.</p>
 <p><br></p>

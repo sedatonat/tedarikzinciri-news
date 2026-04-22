@@ -1,14 +1,23 @@
 ---
-title: "Uçtan Uca İzleme: Soğuk Zincir Nasıl Serin Kalır"
-subtitle: "Uçtan Uca İzleme: Soğuk Zincir Nasıl Serin Kalır"
-date: "2025-05-29T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_922d5ac3c827480fa7f103c92e4f3419~mv2.png"
-imageAlt: "Uçtan Uca İzleme: Soğuk Zincir Nasıl Serin Kalır"
-wixId: "760b270e-2077-49a6-9dc0-4341c351b71c"
-author: "Sedat Onat"
+title: 'Uçtan Uca İzleme: Soğuk Zincir Nasıl Serin Kalır'
+subtitle: 'Uçtan Uca İzleme: Soğuk Zincir Nasıl Serin Kalır'
+date: '2025-05-29T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_922d5ac3c827480fa7f103c92e4f3419~mv2.png
+imageAlt: 'Uçtan Uca İzleme: Soğuk Zincir Nasıl Serin Kalır'
+wixId: 760b270e-2077-49a6-9dc0-4341c351b71c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- soğuk zincir
+- uçtan uca izleme
+- IoT sensörleri
+- gerçek zamanlı görünürlük
+- GDP
+- FSMA
+- data logger
+- ürün bütünlüğü
 ---
 <p style="text-align: justify"><strong>Soğuk zincirde ürün bütünlüğü</strong>, yalnız sıcaklık kontrolüyle değil, <strong>uçtan uca izleme ve veri odaklı yönetim</strong> ile güvence altına alınmaktadır. Günümüzde tedarik zinciri boyunca <strong>IoT sıcaklık/nem sensörleri</strong>, <strong>data loggers</strong> ve <strong>real-time visibility platformları</strong> entegre çalışarak, taşımalar sırasında olası <strong>sıcaklık ihlallerini anında bildirmektedir.</strong> Bu erken uyarı sistemi, hem ürün kaybını hem de müşteri memnuniyetsizliğini en aza indirir.</p>
 <p style="text-align: justify"><br></p>

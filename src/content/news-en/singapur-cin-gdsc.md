@@ -1,16 +1,24 @@
 ---
-title: "Singapore and China Sign Green and Digital Shipping Corridor Agreement"
-subtitle: "Singapore and China Sign Green and Digital Shipping Corridor Agreement"
-date: "2025-10-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/793277055bb04056b376713b6ae752ee.jpg"
-imageAlt: "Singapore and China signed a Memorandum of Understanding (MoU) to launch a joint initiative called the Green and Digital Shipping Corridor (GDSC) to advance decarbonisation and digital transformation in maritime transport. The agreement elevates bilateral cooperation on sustainability and efficiency in shipping to the national level."
-wixId: "dcb64f32-30ac-4d49-b19e-e167bf344e0e"
-author: "Sedat Onat"
+title: Singapore and China Sign Green and Digital Shipping Corridor Agreement
+subtitle: Singapore and China Sign Green and Digital Shipping Corridor Agreement
+date: '2025-10-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/793277055bb04056b376713b6ae752ee.jpg
+imageAlt: Singapore and China signed a Memorandum of Understanding (MoU) to launch a joint initiative called the Green and Digital Shipping Corridor (GDSC) to advance decarbonisation and digital transformation in maritime transport. The agreement elevates bilateral cooperation on sustainability and efficiency in shipping to the national level.
+wixId: dcb64f32-30ac-4d49-b19e-e167bf344e0e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Singapore
+- China
+- green shipping
+- digital corridor
+- decarbonization
+- smart port
+- sustainability
+- MPA Singapore
 ---
-
 <p style="text-align: justify"><strong>Singapore's Ministry of Transport</strong> and <strong>China's Ministry of Transport</strong> took a significant step on October 19, 2025, to shape the future of the maritime sector. The two countries signed a <strong>Memorandum of Understanding (MoU)</strong> to establish the <strong>Singapore–China Green and Digital Shipping Corridor (GDSC)</strong> initiative. This agreement establishes a comprehensive framework for cooperation in <strong>green energy, digitalization, and supply chain efficiency</strong> in maritime transport.</p>
 <p><br></p>
 <p style="text-align: justify">The agreement was signed by <strong>Singapore's Deputy Minister of Transport Jeffrey Siow</strong> on behalf of Singapore and <strong>China's Minister of Transport Liu Wei</strong> on behalf of China. The signatures formalized the two countries' strategic commitment at the national level to <strong>sustainable maritime shipping and supply chain innovation</strong>.</p>

@@ -1,16 +1,23 @@
 ---
-title: "Ukraine Allegedly Attempted Attack on TurkStream Pipeline"
-subtitle: "Ukraine Allegedly Attempted Attack on TurkStream Pipeline"
-date: "2025-01-13T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_996bdd421155434f89067a1cdb2ed8d8~mv2.jpeg"
-imageAlt: "Ukraine Allegedly Attempted Attack on TurkStream Pipeline"
-wixId: "53c66a00-6bb0-48a9-a371-cdcc93dd0916"
-author: "Sedat Onat"
+title: Ukraine Allegedly Attempted Attack on TurkStream Pipeline
+subtitle: Ukraine Allegedly Attempted Attack on TurkStream Pipeline
+date: '2025-01-13T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_996bdd421155434f89067a1cdb2ed8d8~mv2.jpeg
+imageAlt: Ukraine Allegedly Attempted Attack on TurkStream Pipeline
+wixId: 53c66a00-6bb0-48a9-a371-cdcc93dd0916
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- TurkStream
+- natural gas pipeline
+- Ukraine
+- Russia
+- energy security
+- UAV
+- Black Sea
 ---
-
 <p style="text-align: justify">Russia's Defense Ministry claimed that Ukraine attempted an attack on the <strong>TurkStream</strong> natural gas pipeline. The ministry alleged that Ukraine attempted to strike a compressor station that supplies the pipeline, which carries natural gas from Russia through the Black Sea to Turkey. The attack reportedly used unmanned aerial vehicles (UAVs), which were said to have been shot down by Russian air defense systems.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>TurkStream</strong> is one of two major pipelines carrying natural gas from Russia to Turkey. Running beneath the Black Sea, this line supplies a significant portion of Turkey's energy needs. The reasons for Ukraine's alleged attack attempt remain unclear. However, tensions between the two countries stemming from Russia's war in Ukraine are believed to have played a role in the attack.</p>

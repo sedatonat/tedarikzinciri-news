@@ -1,14 +1,22 @@
 ---
-title: "Ontario'dan Trump'ın Tarifelerine Karşı Elektrik İhracatına Vergi Hamlesi"
-subtitle: "Ontario'dan Trump'ın Tarifelerine Karşı Elektrik İhracatına Vergi Hamlesi"
-date: "2025-03-10T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_f61f9358337c4b478107d47e6f7e2a95~mv2.jpg"
-imageAlt: "Ontario'dan Trump'ın Tarifelerine Karşı Elektrik İhracatına Vergi Hamlesi"
-wixId: "28c042e3-2406-4025-b93b-89b732750608"
-author: "Sedat Onat"
+title: Ontario'dan Trump'ın Tarifelerine Karşı Elektrik İhracatına Vergi Hamlesi
+subtitle: Ontario'dan Trump'ın Tarifelerine Karşı Elektrik İhracatına Vergi Hamlesi
+date: '2025-03-10T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_f61f9358337c4b478107d47e6f7e2a95~mv2.jpg
+imageAlt: Ontario'dan Trump'ın Tarifelerine Karşı Elektrik İhracatına Vergi Hamlesi
+wixId: 28c042e3-2406-4025-b93b-89b732750608
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ontario
+- elektrik ihracatı
+- Trump tarifeleri
+- Kanada
+- ticaret savaşı
+- enerji sektörü
+- misilleme vergi
 ---
 <p style="text-align: justify">Kanada'nın en kalabalık eyaleti <a href="https://en.wikipedia.org/wiki/Ontario"><u><strong>Ontario</strong></u></a>, ABD Başkanı <strong>Donald Trump</strong>'ın Kanada ve Meksika'dan gelen mallara uyguladığı %25'lik tarifelere misilleme olarak, ABD'ye yaptığı elektrik ihracatına %25 oranında ek vergi koyma kararı aldı. Bu karar, <strong>Ontario Başbakanı </strong><a href="https://en.wikipedia.org/wiki/Doug_Ford"><u><strong>Doug Ford</strong></u></a> tarafından 10 Mart 2025 tarihinde açıklandı. ​</p>
 <p><br></p>

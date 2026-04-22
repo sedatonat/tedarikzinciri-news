@@ -1,14 +1,22 @@
 ---
-title: "Sefine Tersanesi, Techano Oceanlift ile 150 Tonluk Vinç Anlaşması İmzaladı"
-subtitle: "Sefine Tersanesi, Techano Oceanlift ile 150 Tonluk Vinç Anlaşması İmzaladı"
-date: "2025-03-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_098b149e8cc54a58b0f26636af6c1de0~mv2.jpg"
-imageAlt: "Sefine Tersanesi, Techano Oceanlift ile 150 Tonluk Vinç Anlaşması İmzaladı"
-wixId: "21c0d62e-8d41-4371-9943-99c713d60b40"
-author: "Sedat Onat"
+title: Sefine Tersanesi, Techano Oceanlift ile 150 Tonluk Vinç Anlaşması İmzaladı
+subtitle: Sefine Tersanesi, Techano Oceanlift ile 150 Tonluk Vinç Anlaşması İmzaladı
+date: '2025-03-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_098b149e8cc54a58b0f26636af6c1de0~mv2.jpg
+imageAlt: Sefine Tersanesi, Techano Oceanlift ile 150 Tonluk Vinç Anlaşması İmzaladı
+wixId: 21c0d62e-8d41-4371-9943-99c713d60b40
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Sefine Tersanesi
+- Techano Oceanlift
+- açık deniz vinci
+- inşaat destek gemisi
+- gemi inşa
+- denizcilik ekipmanı
+- Norveç
 ---
 <p style="text-align: justify"><a href="https://sefine.com.tr/"><u><strong>Sefine Shipyard</strong></u></a>, Norveç merkezli <a href="https://techano.no/"><u><strong>Techano Oceanlift</strong></u></a> ile yeni inşa edilecek bir inşaat destek gemisine (CSV) 150 ton kapasiteli bir açık deniz vinci tedariki için sözleşme imzaladı. Bu iş birliği, <strong>Sefine Shipyard</strong>'ın gelişmiş denizcilik ekipmanlarıyla donatılmış modern gemiler üretme konusundaki kararlılığını göstermekte.</p>
 <p><br></p>

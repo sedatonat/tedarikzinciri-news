@@ -1,14 +1,21 @@
 ---
-title: "Turkey's Ports Turn Red Sea Crisis into Opportunity: Record-Breaking Performance and New Routes"
-subtitle: "Turkey's Ports Turn Red Sea Crisis into Opportunity: Record-Breaking Performance and New Routes"
-date: "2024-03-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e68f3170a381431a8fe486dcd26646ff~mv2.jpg"
-imageAlt: "Turkey's Ports Turn Red Sea Crisis into Opportunity: Record-Breaking Performance and New Routes"
-wixId: "006bd16a-6faf-4f7d-8122-8d94ee512506"
-author: "Sedat Onat"
+title: 'Turkey''s Ports Turn Red Sea Crisis into Opportunity: Record-Breaking Performance and New Routes'
+subtitle: 'Turkey''s Ports Turn Red Sea Crisis into Opportunity: Record-Breaking Performance and New Routes'
+date: '2024-03-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e68f3170a381431a8fe486dcd26646ff~mv2.jpg
+imageAlt: 'Turkey''s Ports Turn Red Sea Crisis into Opportunity: Record-Breaking Performance and New Routes'
+wixId: 006bd16a-6faf-4f7d-8122-8d94ee512506
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Red Sea crisis
+- Turkish ports
+- container traffic
+- transit transportation
+- Asyaport
+- Ambarlı
+- freight rates
 ---
-
 <p><a href="https://en.wikipedia.org/wiki/Red_Sea"><u>The Red Sea</u></a> crisis has created an unexpected opportunity for Turkish ports. Supply chain disruptions caused by Houthi attacks on commercial vessels have thrust Marmara Region ports into the spotlight for transit shipping and prompted shipping companies to establish alternative routes. This situation has enabled Turkish ports to break historical records in container traffic.&nbsp;</p>\n<p><br></p>\n<p>In February 2024, the volume of containers handled at Turkish ports reached 1,167,210 TEU with a 38.9% increase, with transit container traffic surging by more than 100%. The Turkish maritime sector swiftly capitalized on this crisis, achieving record-breaking performance at ports. Asyaport, Ambarlı, and Aliağa ports emerged as standout performers during this period. Additionally, new export-oriented services were launched for the Middle East, and global freight rates declined 25% over two months.</p>\n<p><br></p>\n<p><br></p>\n<h5><strong>Key Points</strong></h5>\n<ul>\n  <li><p><a href="https://en.wikipedia.org/wiki/Red_Sea_crisis"><u>The Red Sea crisis</u></a> prompted Turkish ports to become leaders in transit shipping and set historical records.</p></li>\n  <li><p>In February 2024, container volumes handled in Turkey increased 38.9% to reach 1,167,210 TEU.</p></li>\n  <li><p>Transit container traffic experienced growth exceeding 100%.</p></li>\n  <li><p>The Turkish maritime sector quickly transformed the crisis into an opportunity and ports set new records.</p></li>\n  <li><p><a href="https://www.marinetraffic.com/en/ais/details/ports/17786?name=ASYAPORT&country=Turkey"><u>Asyaport</u></a>, <a href="https://www.marinetraffic.com/en/ais/details/ports/17436?name=AMBARLI&country=Turkey"><u>Ambarlı</u></a>, and <a href="https://www.marinetraffic.com/en/ais/details/ports/725?name=ALIAGA&country=Turkey"><u>Aliağa</u></a> ports stood out as leading ports during the period.</p></li>\n  <li><p>New export-focused services were launched, with increased shipments to the Middle East.</p></li>\n  <li><p>Global freight rates declined 25% over two months.</p></li>\n</ul>\n<p><br></p>\n<p><strong>News Link:</strong> <a href="https://www.lojiport.com/kizildeniz-krizine-hizli-cozum-limanlarimiza-tarihi-rekor-getirdi-116374h.htm"><u>https://www.lojiport.com/kizildeniz-krizine-hizli-cozum-limanlarimiza-tarihi-rekor-getirdi-116374h.htm</u></a></p>

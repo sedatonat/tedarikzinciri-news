@@ -1,14 +1,22 @@
 ---
-title: "Oxford Araştırması: Kırılgan Deniz Darboğazları Küresel Ticarete Yıllık 14 Milyar USD Kaybettiriyor"
-subtitle: "Oxford Araştırması: Kırılgan Deniz Darboğazları Küresel Ticarete Yıllık 14 Milyar USD Kaybettiriyor"
-date: "2025-11-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_74375d66a21740b58747d34f1ef5b7ef~mv2.jpg"
-imageAlt: "Oxford Üniversitesi’nin küresel denizcilik darboğazlarında yaşanan kesintilerin ekonomik etkilerini analiz eden çalışmasının detaylı özeti: yıllık kayıplar, risk türleri, coğrafi etkiler ve tedarik zinciri kırılganlığı"
-wixId: "3c03738a-ad99-4463-a80e-97426c31bed8"
-author: "Sedat Onat"
+title: 'Oxford Araştırması: Kırılgan Deniz Darboğazları Küresel Ticarete Yıllık 14 Milyar USD Kaybettiriyor'
+subtitle: 'Oxford Araştırması: Kırılgan Deniz Darboğazları Küresel Ticarete Yıllık 14 Milyar USD Kaybettiriyor'
+date: '2025-11-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_74375d66a21740b58747d34f1ef5b7ef~mv2.jpg
+imageAlt: 'Oxford Üniversitesi’nin küresel denizcilik darboğazlarında yaşanan kesintilerin ekonomik etkilerini analiz eden çalışmasının detaylı özeti: yıllık kayıplar, risk türleri, coğrafi etkiler ve tedarik zinciri kırılganlığı'
+wixId: 3c03738a-ad99-4463-a80e-97426c31bed8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- deniz darboğazları
+- küresel ticaret
+- tedarik zinciri
+- navlun maliyetleri
+- risk yönetimi
+- Oxford araştırması
+- maritime chokepoints
 ---
 <p style="text-align: justify"><strong>University of Oxford</strong> tarafından yayımlanan yeni bir çalışma, küresel deniz ticaretinin en kritik kırılganlık noktaları olan <strong>maritime chokepoints</strong> üzerindeki kesintilerin dünya ekonomisine yıllık büyük zarar verdiğini ortaya koymakta. Çalışmaya göre bu dar geçitlerdeki aksaklıklar her yıl yaklaşık <strong>192 milyar USD</strong> değerindeki ticareti etkilemekte ve gecikmeler, rerouting, sigorta primleri ve artan navlun maliyetleri nedeniyle <strong>14 milyar USD</strong> civarında ekonomik kayıp oluşmakta.</p>
 <p><br></p>

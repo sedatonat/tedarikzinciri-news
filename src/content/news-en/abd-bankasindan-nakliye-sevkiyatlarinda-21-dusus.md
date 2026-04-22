@@ -1,16 +1,24 @@
 ---
-title: "U.S. Bank Reports 21% Drop in Freight Shipments: Signs of Challenging Transportation Market"
-subtitle: "U.S. Bank Reports 21% Drop in Freight Shipments: Signs of Challenging Transportation Market"
-date: "2024-11-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_bd5cd22767864013b177d18954eb5b67~mv2.jpg"
-imageAlt: "U.S. Bank Reports 21% Drop in Freight Shipments: Signs of Challenging Transportation Market"
-wixId: "d78c9472-e793-402e-a7fd-d6fef98ffcd0"
-author: "Sedat Onat"
+title: 'U.S. Bank Reports 21% Drop in Freight Shipments: Signs of Challenging Transportation Market'
+subtitle: 'U.S. Bank Reports 21% Drop in Freight Shipments: Signs of Challenging Transportation Market'
+date: '2024-11-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_bd5cd22767864013b177d18954eb5b67~mv2.jpg
+imageAlt: 'U.S. Bank Reports 21% Drop in Freight Shipments: Signs of Challenging Transportation Market'
+wixId: d78c9472-e793-402e-a7fd-d6fef98ffcd0
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- U.S. Bank
+- freight shipments
+- transportation market
+- U.S. logistics
+- shipper spending
+- spot market
+- diesel fuel prices
+- DAT Freight Analytics
 ---
-
 <p>According to the third-quarter report released by U.S. Bank, freight shipments and shipper spending in the United States transportation market declined 21 percent year-over-year. This decline signals that the bank expects the market's recovery to progress slowly. Bobby Holland, director of Freight Business Analytics at U.S. Bank, noted in the report that while volume and spending contractions have moderated over the past two quarters, the bank is awaiting clear evidence that the market has reached its bottom.</p>
 <p><br></p>
 <p>The report showed that third-quarter performance continued to face challenges in terms of freight volume and shipper spending. Compared to the second quarter, shipments declined 1.9 percent while spending fell 1.4 percent. Despite these declines, the slowdown in losses across the indices was viewed as a positive signal for market recovery. Analysts noted that this moderating trend indicates the market is beginning to improve.</p>

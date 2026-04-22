@@ -1,14 +1,23 @@
 ---
-title: "IKEA, Tarifeler Nedeniyle ABD’de Üretimi Artırmaya Yöneliyor"
-subtitle: "IKEA, Tarifeler Nedeniyle ABD’de Üretimi Artırmaya Yöneliyor"
-date: "2025-12-09T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_8f2493e913ee44c8a5bde229d575da83~mv2.jpg"
-imageAlt: "IKEA’nın artan tarifeler ve lojistik maliyetler karşısında ABD’de yerel üretimi büyütme kararı, teslimat hızını artırma hedefi, tedarik zinciri risklerini azaltma stratejisi ve ABD lojistik altyapısıyla entegrasyonunun detaylı özeti"
-wixId: "b23c53e4-f6e2-4794-8df7-7ac6eb087ac6"
-author: "Sedat Onat"
+title: IKEA, Tarifeler Nedeniyle ABD’de Üretimi Artırmaya Yöneliyor
+subtitle: IKEA, Tarifeler Nedeniyle ABD’de Üretimi Artırmaya Yöneliyor
+date: '2025-12-09T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_8f2493e913ee44c8a5bde229d575da83~mv2.jpg
+imageAlt: IKEA’nın artan tarifeler ve lojistik maliyetler karşısında ABD’de yerel üretimi büyütme kararı, teslimat hızını artırma hedefi, tedarik zinciri risklerini azaltma stratejisi ve ABD lojistik altyapısıyla entegrasyonunun detaylı özeti
+wixId: b23c53e4-f6e2-4794-8df7-7ac6eb087ac6
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- IKEA
+- ABD üretim
+- tarifeler
+- nearshoring
+- tedarik zinciri
+- Locus
+- son mil teslimat
+- lojistik maliyetler
 ---
 <p style="text-align: justify">İsveç merkezli küresel mobilya perakendecisi <strong>IKEA</strong>, artan tarifeler ve yükselen uluslararası taşıma maliyetleri karşısında <strong>ABD’deki üretim payını artırma</strong> kararı almakta. <strong>Reuters</strong> kaynaklı habere göre şirket, ABD mağazalarında satılan ürünlerin daha büyük bir bölümünü yerel olarak üretmeyi planlamakta. Bu adım, yalnızca maliyet baskılarına yanıt olarak değil; aynı zamanda <strong>teslimat hızını artırma</strong>, <strong>stok bulunurluğunu iyileştirme</strong> ve <strong>küresel tedarik zinciri risklerini azaltma</strong> hedefleri doğrultusunda atılmakta.</p>
 <p style="text-align: justify"><br></p>

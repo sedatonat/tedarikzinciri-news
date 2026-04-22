@@ -1,16 +1,23 @@
 ---
-title: "Protests in Libya Halt Oil Shipments at Eastern Ports"
-subtitle: "Protests in Libya Halt Oil Shipments at Eastern Ports"
-date: "2025-01-29T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a65fd43ba7f746359a1f36cb9a8dd7c0~mv2.jpg"
-imageAlt: "Protests in Libya Halt Oil Shipments at Eastern Ports"
-wixId: "91dc7ddc-94e7-484d-a4ff-15906d0d1b7c"
-author: "Sedat Onat"
+title: Protests in Libya Halt Oil Shipments at Eastern Ports
+subtitle: Protests in Libya Halt Oil Shipments at Eastern Ports
+date: '2025-01-29T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_a65fd43ba7f746359a1f36cb9a8dd7c0~mv2.jpg
+imageAlt: Protests in Libya Halt Oil Shipments at Eastern Ports
+wixId: 91dc7ddc-94e7-484d-a4ff-15906d0d1b7c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Libya
+- oil shipment
+- port operations
+- protests
+- Ras Lanuf
+- Es Sider
+- oil exports
 ---
-
 <p style="text-align: justify">Strategic ports in eastern Libya, <strong>Ras Lanuf</strong> and <strong>Es Sider</strong>, have halted oil loading operations due to protests organized by the <strong>Oil Crescent Region Movement</strong>. This development has created a significant disruption to the country's oil exports.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>Reasons and Demands Behind the Protests</strong></p>

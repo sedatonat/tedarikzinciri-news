@@ -1,16 +1,23 @@
 ---
-title: "Suez Canal Successfully Completes Transit of 42,000-Ton GREEN DOCK 3 Floating Dock"
-subtitle: "Suez Canal Successfully Completes Transit of 42,000-Ton GREEN DOCK 3 Floating Dock"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_74494102b1ba47908f5ee155d9c65c24~mv2.jpg"
-imageAlt: "Detailed overview of the special transit operation of the massive GREEN DOCK 3 floating dock through the Suez Canal in 24 hours under escort of five tugboats, covering security procedures, economic impacts, and significance for global maritime navigation"
-wixId: "a34b6caa-3e0b-42c4-9d0e-59e8f1a171d7"
-author: "Sedat Onat"
+title: Suez Canal Successfully Completes Transit of 42,000-Ton GREEN DOCK 3 Floating Dock
+subtitle: Suez Canal Successfully Completes Transit of 42,000-Ton GREEN DOCK 3 Floating Dock
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_74494102b1ba47908f5ee155d9c65c24~mv2.jpg
+imageAlt: Detailed overview of the special transit operation of the massive GREEN DOCK 3 floating dock through the Suez Canal in 24 hours under escort of five tugboats, covering security procedures, economic impacts, and significance for global maritime navigation
+wixId: a34b6caa-3e0b-42c4-9d0e-59e8f1a171d7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Suez Canal
+- floating dock
+- GREEN DOCK 3
+- maritime transport
+- tugboat operation
+- emission savings
+- Red Sea
 ---
-
 <p style="text-align: justify">The Suez Canal Authority (<strong>SCA</strong>) announced in December 2025 that <strong>GREEN DOCK 3</strong>, one of the world's largest towed floating docks, <strong>successfully transited through the Canal</strong>. SCA President <strong>Admiral Osama Rabiee</strong> emphasized that this operation proved "the Canal's ability to safely transit unconventional large marine units."</p>
 <p><br></p>
 <p style="text-align: justify">The transit of GREEN DOCK 3 required a complex <strong>special navigation operation</strong>. Because the floating dock does not move under its own power and is entirely maneuvered by tugboats. The operation was carried out with a total of <strong>five tugboats</strong>:</p>

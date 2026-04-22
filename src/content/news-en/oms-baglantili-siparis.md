@@ -1,16 +1,24 @@
 ---
-title: "The Changing Landscape of Order Management Systems: Connected Order Management"
-subtitle: "The Changing Landscape of Order Management Systems: Connected Order Management"
-date: "2025-04-29T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_36ea48ce0f754a2ebba4a9a1f4bc45a5~mv2.png"
-imageAlt: "The Changing Landscape of Order Management Systems: Connected Order Management"
-wixId: "35790b18-ad5f-4389-a349-ce34926e2ca3"
-author: "Sedat Onat"
+title: 'The Changing Landscape of Order Management Systems: Connected Order Management'
+subtitle: 'The Changing Landscape of Order Management Systems: Connected Order Management'
+date: '2025-04-29T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_36ea48ce0f754a2ebba4a9a1f4bc45a5~mv2.png
+imageAlt: 'The Changing Landscape of Order Management Systems: Connected Order Management'
+wixId: 35790b18-ad5f-4389-a349-ce34926e2ca3
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- OMS
+- order management
+- omnichannel
+- AI routing
+- ATP
+- inventory management
+- WMS integration
+- BOPIS
 ---
-
 <p style="text-align: justify"><strong>Order Management Systems (OMS)</strong> are no longer merely order processing tools in the multichannel commerce world—they have become the <strong>central nervous system</strong> of the enterprise. Modern OMS platforms synchronize sales, inventory, and logistics flows in real time, enabling organizations to achieve optimal balance between <strong>cost, speed, and service level</strong>.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">At the core of these systems lie <strong>inventory orchestration</strong>, <strong>available-to-promise (ATP)</strong>, and <strong>order promising</strong> rules, which ensure every order is fulfilled from the most appropriate location at the lowest cost and highest speed. ATP strengthens the capability for <strong>accurate commitment</strong> to customers, while the system dynamically routes orders based on inventory, supply, and shipping capacity.</p>

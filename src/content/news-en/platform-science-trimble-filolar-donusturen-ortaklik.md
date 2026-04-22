@@ -1,14 +1,21 @@
 ---
-title: "Strategic Agreement Between Platform Science and Trimble to Transform Fleets"
-subtitle: "Strategic Agreement Between Platform Science and Trimble to Transform Fleets"
-date: "2024-09-16T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_a375b91dc44b49a28e3d3e51740953fb~mv2.jpg"
-imageAlt: "Strategic Agreement Between Platform Science and Trimble to Transform Fleets"
-wixId: "07902a74-0551-483e-968c-d09581eb9d1d"
-author: "Sedat Onat"
+title: Strategic Agreement Between Platform Science and Trimble to Transform Fleets
+subtitle: Strategic Agreement Between Platform Science and Trimble to Transform Fleets
+date: '2024-09-16T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_a375b91dc44b49a28e3d3e51740953fb~mv2.jpg
+imageAlt: Strategic Agreement Between Platform Science and Trimble to Transform Fleets
+wixId: 07902a74-0551-483e-968c-d09581eb9d1d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Platform Science
+- Trimble
+- fleet telematics
+- commercial vehicle
+- strategic partnership
+- driver experience
+- acquisition
 ---
-
 <p>Trimble announced an agreement with telematics technology provider Platform Science, under which Trimble will transfer its global transportation telematics business units to Platform Science. As a result of this agreement, Trimble will hold a 32.5% stake in the expanded Platform Science business and secure a seat on the company's board of directors. This strategic partnership aims to combine the two companies' in-cabin commercial vehicle ecosystems to enhance driver experience, fleet safety, efficiency, and compliance.</p>\n<p><br></p>\n<p>Platform Science plans to offer its customers a broader range of applications and services through this merger. Trimble's existing customers will be able to continue using their own solutions while benefiting from the flexibility of Platform Science's Virtual Vehicle platform. This platform offers hundreds of new and enhanced applications, software, and solution providers focused on improving driver quality of life and fleet performance.</p>\n<p><br></p>\n<p>Trimble's other core transportation business units—Enterprise, Maps, Vusion, and Transporeon—are not included in this agreement and will continue to remain within the company's Transportation and Logistics segment. Trimble CEO Rob Painter stated that they believe this merger will take fleet mobility even further and that they will continue to provide customers with commercial mapping, transportation management, freight procurement, and visibility solutions. He also emphasized that this agreement will create growth opportunities and a competitive business environment for employees.</p>\n<p><br></p>\n<p>This acquisition comes five months after Platform Science raised 125 million dollars in growth capital from major players in the freight transportation sector. The company aims to use this investment to accelerate innovation in the commercial transportation industry. It is also viewed as part of Trimble's strategy to restructure its transportation technology assets; the company previously sold four construction-focused business units to private equity firm The Jordan Company.</p>\n<p><br></p>\n<h5>Key Points:</h5>\n<ul>\n  <li><p><strong>Platform Science</strong> is acquiring Trimble's global transportation telematics business units.</p></li>\n  <li><p><strong>Trimble</strong> will hold a 32.5% stake in Platform Science's expanded business and have a seat on the board of directors.</p></li>\n  <li><p>The agreement aims to combine the two companies' in-cabin commercial vehicle ecosystems to improve driver experience and fleet performance.</p></li>\n  <li><p><strong>Trimble</strong>'s other transportation business units are not included in the agreement and will continue to operate within their existing segments.</p></li>\n  <li><p>The acquisition is part of Platform Science's strategy to accelerate innovation in the sector and represents a continuation of Trimble's process of restructuring its assets.</p></li>\n</ul>\n<p><br></p>\n<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/platform-science-buys-telematics-business-units-from-trimble"><u>https://www.thescxchange.com/platform-science-buys-telematics-business-units-from-trimble</u></a></p>

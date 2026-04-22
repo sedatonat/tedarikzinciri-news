@@ -1,14 +1,23 @@
 ---
-title: "CMA CGM, Çin’de İnşa Edilen İlk Metanol Çift Yakıtlı Gemisi ANTIGONE’u Hizmete Aldı"
-subtitle: "CMA CGM, Çin’de İnşa Edilen İlk Metanol Çift Yakıtlı Gemisi ANTIGONE’u Hizmete Aldı"
-date: "2025-12-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0569df8f19b84f97a958610027952d10~mv2.jpeg"
-imageAlt: "CMA CGM’in Jiangnan Shipyard’da inşa edilen ilk metanol çift yakıtlı konteyner gemisi CMA CGM ANTIGONE’un teknik özellikleri, Kun serisi kapsamındaki yenilikler ve grubun düşük karbonlu filo stratejisindeki yeri"
-wixId: "aeccc6a8-115b-47e7-a876-133bff310dad"
-author: "Sedat Onat"
+title: CMA CGM, Çin’de İnşa Edilen İlk Metanol Çift Yakıtlı Gemisi ANTIGONE’u Hizmete Aldı
+subtitle: CMA CGM, Çin’de İnşa Edilen İlk Metanol Çift Yakıtlı Gemisi ANTIGONE’u Hizmete Aldı
+date: '2025-12-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0569df8f19b84f97a958610027952d10~mv2.jpeg
+imageAlt: CMA CGM’in Jiangnan Shipyard’da inşa edilen ilk metanol çift yakıtlı konteyner gemisi CMA CGM ANTIGONE’un teknik özellikleri, Kun serisi kapsamındaki yenilikler ve grubun düşük karbonlu filo stratejisindeki yeri
+wixId: aeccc6a8-115b-47e7-a876-133bff310dad
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CMA CGM
+- metanol çift yakıtlı
+- konteyner gemisi
+- Jiangnan Shipyard
+- Çin
+- dekarbonizasyon
+- düşük karbonlu yakıt
+- denizcilik
 ---
 <p style="text-align: justify">Fransız konteyner taşımacılığı ve lojistik grubu <strong>CMA CGM</strong>, düşük karbonlu filo dönüşümünde önemli bir eşiği daha geride bırakmakta. Şirket, <strong>11 Aralık’ta</strong> Şanghay’daki <strong>Jiangnan Shipyard</strong>’da düzenlenen törenle <strong>metanol çift yakıtlı konteyner gemisi CMA CGM ANTIGONE</strong>’un isimlendirme ve teslimat sürecini gerçekleştirdi. Bu gemi, CMA CGM’in <strong>Çin’de inşa edilerek teslim aldığı ilk metanol dual-fuel konteyner gemisi</strong> olma özelliğini taşımakta ve aynı zamanda tersanenin grup için ürettiği <strong>on sekizinci gemi</strong> konumunda bulunmakta.</p>
 <p><br></p>

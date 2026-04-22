@@ -1,16 +1,22 @@
 ---
-title: "TriVenture Logistics Growth: Built on WMS Innovation"
-subtitle: "TriVenture Logistics Growth: Built on WMS Innovation"
-date: "2025-02-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_713484bf6dac4d8e922989c9f4ca9328~mv2.jpg"
-imageAlt: "TriVenture Logistics Growth: Built on WMS Innovation"
-wixId: "671216b2-f4b4-4ac8-b239-b60550c52d3c"
-author: "Sedat Onat"
+title: 'TriVenture Logistics Growth: Built on WMS Innovation'
+subtitle: 'TriVenture Logistics Growth: Built on WMS Innovation'
+date: '2025-02-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_713484bf6dac4d8e922989c9f4ca9328~mv2.jpg
+imageAlt: 'TriVenture Logistics Growth: Built on WMS Innovation'
+wixId: 671216b2-f4b4-4ac8-b239-b60550c52d3c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- TriVenture Logistics
+- WMS
+- healthcare logistics
+- Tecsys
+- warehouse management system
+- innovation
 ---
-
 <p style="text-align: justify">TriVenture Logistics (TVL) is a company operating in the healthcare logistics sector. Through a collaboration with <strong>Tecsys</strong>, the company has developed a flexible and robust <strong>Warehouse Management System (WMS)</strong> platform. This platform has been designed to address the complex logistics needs of the healthcare sector.​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Brandy Peterson</strong> and <strong>Zachary Daniell</strong> serve as CFO and COO at TVL, respectively. Both have previously worked at a non-profit healthcare distribution cooperative and have brought that experience to TVL. Peterson notes that transporting healthcare products is costly, and the company's goal is to increase reliability and reduce costs by providing complete transparency in shipments from manufacturers to hospitals. Daniell expresses confidence that, relying on their long-standing relationship with Tecsys, they can overcome these challenges with flexible platforms and robust systems.​</p>

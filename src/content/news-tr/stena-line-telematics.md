@@ -1,14 +1,23 @@
 ---
-title: "Stena Line, Irish Sea Limanlarında Güvenliği Kamera Telematics Çözümüyle Güçlendirdi"
-subtitle: "Stena Line, Irish Sea Limanlarında Güvenliği Kamera Telematics Çözümüyle Güçlendirdi"
-date: "2025-11-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_248914fddc7b45d595849b7e9b329eea~mv2.jpg"
-imageAlt: "Stena Line’ın Irish Sea limanlarında Camera Telematics’in çoklu kamera tabanlı video telematics sistemini uygulayarak operasyonel güvenliği, olay incelemelerini ve risk yönetimini geliştirmesine ilişkin detaylı haber özeti"
-wixId: "9706fc78-4557-4f15-bac5-6ffb0583fde6"
-author: "Sedat Onat"
+title: Stena Line, Irish Sea Limanlarında Güvenliği Kamera Telematics Çözümüyle Güçlendirdi
+subtitle: Stena Line, Irish Sea Limanlarında Güvenliği Kamera Telematics Çözümüyle Güçlendirdi
+date: '2025-11-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_248914fddc7b45d595849b7e9b329eea~mv2.jpg
+imageAlt: Stena Line’ın Irish Sea limanlarında Camera Telematics’in çoklu kamera tabanlı video telematics sistemini uygulayarak operasyonel güvenliği, olay incelemelerini ve risk yönetimini geliştirmesine ilişkin detaylı haber özeti
+wixId: 9706fc78-4557-4f15-bac5-6ffb0583fde6
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Stena Line
+- video telematics
+- liman güvenliği
+- Irish Sea
+- terminal tractor
+- Camera Telematics
+- iş güvenliği
+- filo yönetimi
 ---
 <p style="text-align: justify"><strong>Stena Line</strong>, Irish Sea operasyonlarında iş sağlığı ve güvenliğini artırmak amacıyla kapsamlı bir teknoloji yatırımı gerçekleştirerek <strong>Camera Telematics</strong> tarafından geliştirilen gelişmiş <strong>video telematics</strong> çözümünü beş limanda yaygın biçimde kullanmaya başladı. Bu kapsamda şirket, <strong>100’den fazla terminal tractor</strong>, <strong>bus</strong> ve <strong>luggage van</strong> için çoklu kamera sistemi kurdu. Sistem, olay inceleme süreçlerini hızlandırmakta, personel güvenliğini artırmakta ve operasyonel riskleri azaltmakta.</p>
 <p><br></p>

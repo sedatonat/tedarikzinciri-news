@@ -1,14 +1,21 @@
 ---
-title: "Avrupa Tedarik Zincirinde Elektrikli Kamyon Devrimi"
-subtitle: "Avrupa Tedarik Zincirinde Elektrikli Kamyon Devrimi"
-date: "2024-03-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_434123f407194313ac06939d7444baf7~mv2.jpg"
-imageAlt: "Avrupa Tedarik Zincirinde Elektrikli Kamyon Devrimi"
-wixId: "dfe27952-afc6-45c8-9d75-a3898201440e"
-author: "Sedat Onat"
+title: Avrupa Tedarik Zincirinde Elektrikli Kamyon Devrimi
+subtitle: Avrupa Tedarik Zincirinde Elektrikli Kamyon Devrimi
+date: '2024-03-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_434123f407194313ac06939d7444baf7~mv2.jpg
+imageAlt: Avrupa Tedarik Zincirinde Elektrikli Kamyon Devrimi
+wixId: dfe27952-afc6-45c8-9d75-a3898201440e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- elektrikli kamyon
+- Avrupa
+- CO2 emisyon
+- şarj altyapısı
+- lojistik planlama
+- tedarik zinciri
 ---
 <p>Elektrikli kamyonların CO2 emisyonlarını önemli ölçüde azaltma potansiyeli varken, taşıma kapasitesi ve menzil gibi operasyonel kısıtlamalar getirdiği de vurgulanıyor. Yeni kurallar, 2030'a kadar 7,5 ton üzeri yeni satılan kamyonlardan kaynaklanan CO2 emisyonlarının %45, 2035'te %65 ve 2040'ta %90 azaltılmasını talep ediyor. Bu değişiklikler, lojistik planlamada önemli değişiklikleri beraberinde getiriyor.</p>
 <p><br></p>

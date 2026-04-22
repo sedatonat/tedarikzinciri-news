@@ -1,16 +1,23 @@
 ---
-title: "New FSB Rules at Russian Ports Driving Delays: Ship Owners Forced to Prepare for Intense Regulatory Pressure"
-subtitle: "New FSB Rules at Russian Ports Driving Delays: Ship Owners Forced to Prepare for Intense Regulatory Pressure"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e744f4d7123a41abad645b21b84c6df6~mv2.jpg"
-imageAlt: "Detailed summary of Russia's FSB port-entry regime in effect since November 25, covering 48–53 hour delay risks, mandatory underwater inspections, rising war-risk insurance premiums, and impacts of the Black Sea security environment on supply chains"
-wixId: "b263b01f-c722-459d-a8de-dd004861fb31"
-author: "Sedat Onat"
+title: 'New FSB Rules at Russian Ports Driving Delays: Ship Owners Forced to Prepare for Intense Regulatory Pressure'
+subtitle: 'New FSB Rules at Russian Ports Driving Delays: Ship Owners Forced to Prepare for Intense Regulatory Pressure'
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e744f4d7123a41abad645b21b84c6df6~mv2.jpg
+imageAlt: Detailed summary of Russia's FSB port-entry regime in effect since November 25, covering 48–53 hour delay risks, mandatory underwater inspections, rising war-risk insurance premiums, and impacts of the Black Sea security environment on supply chains
+wixId: b263b01f-c722-459d-a8de-dd004861fb31
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Russian ports
+- FSB
+- Black Sea
+- ship delays
+- supply chain
+- war-risk insurance
+- underwater inspection
 ---
-
 <p style="text-align: justify">Russia's renewed attacks in the Black Sea and surrounding areas are making ship operations in the region extremely complex, while Moscow's new port-entry procedures for foreign-flagged vessels are creating an additional regulatory burden on supply chains. With the decree taking effect on <strong>November 25, 2025</strong>, all <strong>foreign-flagged vessels</strong> seeking entry into Russia must now obtain a <strong>port-entry clearance</strong> issued by the <strong>Federal Security Service (FSB)</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">This new regime, as underscored in an alert from the <strong>American Club</strong> dated December 8, is creating <strong>significant delays, cost increases, and operational uncertainties</strong> for ship owners and charterers.</p>

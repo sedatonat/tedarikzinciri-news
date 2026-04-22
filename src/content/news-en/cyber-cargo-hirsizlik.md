@@ -1,16 +1,24 @@
 ---
-title: "Cyber Crime Gangs Infiltrate Trucking Companies to Steal Shipments"
-subtitle: "Cyber Crime Gangs Infiltrate Trucking Companies to Steal Shipments"
-date: "2025-11-03T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_5d60e94ed0384043b27f26d28f49e8de~mv2.jpg"
-imageAlt: "According to Bloomberg, cybersecurity research conducted by Proofpoint has revealed that hacker groups are collaborating with organized crime networks to steal cargo from logistics and transportation companies. This emerging threat could lead to billions of dollars in losses across the global supply chain."
-wixId: "5db4e711-7a1e-44a7-8b96-1facd4be8f02"
-author: "Sedat Onat"
+title: Cyber Crime Gangs Infiltrate Trucking Companies to Steal Shipments
+subtitle: Cyber Crime Gangs Infiltrate Trucking Companies to Steal Shipments
+date: '2025-11-03T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_5d60e94ed0384043b27f26d28f49e8de~mv2.jpg
+imageAlt: According to Bloomberg, cybersecurity research conducted by Proofpoint has revealed that hacker groups are collaborating with organized crime networks to steal cargo from logistics and transportation companies. This emerging threat could lead to billions of dollars in losses across the global supply chain.
+wixId: 5db4e711-7a1e-44a7-8b96-1facd4be8f02
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- cybersecurity
+- cargo theft
+- supply chain
+- Proofpoint
+- trucking
+- cybercrime
+- freight brokers
+- logistics security
 ---
-
 <p style="text-align: justify">A new wave of threats has emerged in the global logistics sector. According to a report published by <strong>Proofpoint Inc.</strong>, <strong>cyber criminals are collaborating with organized crime organizations to steal shipments from trucking companies.</strong></p>
 <p><br></p>
 <p style="text-align: justify"><strong>Proofpoint, based in California</strong>, reported that attackers are <strong>specifically targeting trucking companies and freight brokers.</strong> Attacks are being carried out by deploying <strong>malware that provides remote access to company networks.</strong> The ultimate goal is to <strong>seize shipments and sell the stolen goods in online marketplaces or overseas.</strong></p>

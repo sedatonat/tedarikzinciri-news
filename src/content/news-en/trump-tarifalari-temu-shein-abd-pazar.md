@@ -1,16 +1,24 @@
 ---
-title: "Will Trump Tariffs Impact Temu and Shein's Future in the U.S. Market?"
-subtitle: "Will Trump Tariffs Impact Temu and Shein's Future in the U.S. Market?"
-date: "2024-11-27T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_b476443684d046b88a47986d02c95fa8~mv2.jpg"
-imageAlt: "Will Trump Tariffs Impact Temu and Shein's Future in the U.S. Market?"
-wixId: "c3b34dbb-93f3-4166-a145-8f0a37f9f654"
-author: "Sedat Onat"
+title: Will Trump Tariffs Impact Temu and Shein's Future in the U.S. Market?
+subtitle: Will Trump Tariffs Impact Temu and Shein's Future in the U.S. Market?
+date: '2024-11-27T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_b476443684d046b88a47986d02c95fa8~mv2.jpg
+imageAlt: Will Trump Tariffs Impact Temu and Shein's Future in the U.S. Market?
+wixId: c3b34dbb-93f3-4166-a145-8f0a37f9f654
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Trump tariffs
+- Temu
+- Shein
+- e-commerce
+- China
+- supply chain
+- US market
+- fast fashion
 ---
-
 <p>Will Trump tariffs recently implemented in the United States threaten the presence of Chinese e-commerce giants Temu and Shein in the American market? According to an article published by SupplyChainBrain, the answer to this question is complex and shaped by various factors.</p>
 <p><br></p>
 <p>The tariffs implemented during the Trump administration have increased the cost of many products imported from China, altering the competitive landscape. Fast-fashion and e-commerce platforms like Temu and Shein appeal to American consumers through their low-cost products. However, rising tariffs could negatively impact these businesses' pricing strategies and profit margins.</p>

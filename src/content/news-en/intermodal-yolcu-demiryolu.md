@@ -1,16 +1,23 @@
 ---
-title: "Intermodal Should Be Treated Like Passenger Rail"
-subtitle: "Intermodal Should Be Treated Like Passenger Rail"
-date: "2025-01-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_421586cfeecc4c5489ee0211a7b72219~mv2.jpg"
-imageAlt: "Intermodal Should Be Treated Like Passenger Rail"
-wixId: "bf0dd99f-71cd-455b-b2d1-6795a153a4af"
-author: "Sedat Onat"
+title: Intermodal Should Be Treated Like Passenger Rail
+subtitle: Intermodal Should Be Treated Like Passenger Rail
+date: '2025-01-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_421586cfeecc4c5489ee0211a7b72219~mv2.jpg
+imageAlt: Intermodal Should Be Treated Like Passenger Rail
+wixId: bf0dd99f-71cd-455b-b2d1-6795a153a4af
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- intermodal transport
+- rail
+- combined transport
+- UIRR
+- European Union
+- TEN-T
+- sustainable logistics
 ---
-
 <p style="text-align: justify">Intermodal and combined transport hold undisputed strategic importance in the sector. At the online European Intermodal Summit organized by <strong>UIRR</strong>, emphasis was placed on the principle that "intermodal should be treated like passenger rail."</p>
 <p><br></p>
 <p style="text-align: justify">The summit discussed important policy instruments such as <strong>Capacity Management Regulation</strong> and the <strong>Combined Transport Directive</strong>. These regulations aim to enhance the efficiency of intermodal transport and strengthen the competitiveness of rail freight. In particular, it was emphasized that intermodal transport deserves priority equivalent to that given to passenger rail.</p>

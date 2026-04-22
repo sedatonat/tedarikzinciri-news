@@ -1,16 +1,23 @@
 ---
-title: "Trump Administration's Wind Energy Policies Harm U.S. Ports"
-subtitle: "Trump Administration's Wind Energy Policies Harm U.S. Ports"
-date: "2025-10-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_02633b913132468fa713f6312a7708da~mv2.jpg"
-imageAlt: "Trump Administration's Wind Energy Policies Harm U.S. Ports"
-wixId: "772ef36e-5576-4456-83f3-28933e560c74"
-author: "Sedat Onat"
+title: Trump Administration's Wind Energy Policies Harm U.S. Ports
+subtitle: Trump Administration's Wind Energy Policies Harm U.S. Ports
+date: '2025-10-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_02633b913132468fa713f6312a7708da~mv2.jpg
+imageAlt: Trump Administration's Wind Energy Policies Harm U.S. Ports
+wixId: 772ef36e-5576-4456-83f3-28933e560c74
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- wind energy
+- Trump
+- port infrastructure
+- Maersk
+- offshore
+- clean energy
+- shipbuilding
 ---
-
 <p style="text-align: justify"><strong>U.S. President Donald Trump's rollback of offshore wind energy policies</strong> has triggered <strong>significant economic losses across the nation's shipbuilding and port sectors.</strong></p>
 <p><br>
 Following the policy shift, <strong>an anticipated $679 million in federal funding was cancelled,</strong> while numerous <strong>vessel orders and port infrastructure projects</strong> were suspended or delayed.</p>

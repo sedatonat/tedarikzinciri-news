@@ -1,16 +1,24 @@
 ---
-title: "VJT Technology Group Eyes Logistics Sector Following Software Patent Award"
-subtitle: "VJT Technology Group Eyes Logistics Sector Following Software Patent Award"
-date: "2025-01-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5605ff95b5834f3fa2d7052e4cab2c4f~mv2.jpg"
-imageAlt: "VJT Technology Group Eyes Logistics Sector Following Software Patent Award"
-wixId: "6137c431-da7e-41c3-9fbe-0a64c362565a"
-author: "Sedat Onat"
+title: VJT Technology Group Eyes Logistics Sector Following Software Patent Award
+subtitle: VJT Technology Group Eyes Logistics Sector Following Software Patent Award
+date: '2025-01-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5605ff95b5834f3fa2d7052e4cab2c4f~mv2.jpg
+imageAlt: VJT Technology Group Eyes Logistics Sector Following Software Patent Award
+wixId: 6137c431-da7e-41c3-9fbe-0a64c362565a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- VJT Teknoloji Grubu
+- Sellfware
+- software patent
+- supply chain management
+- logistics software
+- Opus platform
+- digital transformation
+- artificial intelligence
 ---
-
 <p style="text-align: justify"><a href="https://www.vjtechnology.com/"><u><strong>VJ Technology Group</strong></u></a>'s software division, <strong>Sellfware</strong>, has secured a patent for its core supply chain platform, <strong>Opus</strong>. This development is viewed as part of the company's strategic focus on the logistics sector.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>Opus</strong> stands out as a software platform designed to optimize supply chain management. The platform delivers efficiency to businesses by integrating various processes ranging from order processing to inventory management. The patent award demonstrates <strong>Sellfware</strong>'s commitment to developing innovative solutions.</p>

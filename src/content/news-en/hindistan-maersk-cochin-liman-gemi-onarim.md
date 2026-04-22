@@ -1,16 +1,23 @@
 ---
-title: "Maersk and Cochin Shipyard Expand Ship Repair Operations in India"
-subtitle: "Maersk and Cochin Shipyard Expand Ship Repair Operations in India"
-date: "2025-02-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7d27e6ca0c1044d290658acf1e6c9eb6~mv2.jpg"
-imageAlt: "Maersk and Cochin Shipyard Expand Ship Repair Operations in India"
-wixId: "f599b97c-4214-4540-8fb8-6a3773a12e86"
-author: "Sedat Onat"
+title: Maersk and Cochin Shipyard Expand Ship Repair Operations in India
+subtitle: Maersk and Cochin Shipyard Expand Ship Repair Operations in India
+date: '2025-02-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7d27e6ca0c1044d290658acf1e6c9eb6~mv2.jpg
+imageAlt: Maersk and Cochin Shipyard Expand Ship Repair Operations in India
+wixId: f599b97c-4214-4540-8fb8-6a3773a12e86
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Maersk
+- Cochin Shipyard
+- ship repair
+- India
+- Asia-Pacific
+- maritime
+- shipyard
 ---
-
 <p style="text-align: justify"><strong>Maersk</strong> has forged a strategic partnership with <strong>Cochin Shipyard Limited</strong> (CSL), India's leading shipyard, to expand ship repair services. This collaboration aims to enhance <strong>Maersk</strong>'s operational efficiency in the Asia-Pacific region and improve maritime services across the region.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Maersk</strong> holds a leading position in the global maritime shipping sector, and the Asia-Pacific region is one of the company's most active operational areas. Consequently, the effectiveness of ship repair and maintenance services in the region is critical to the company's operational continuity and customer satisfaction. <strong>Cochin Shipyard Limited</strong>, one of India's largest shipyards, provides comprehensive ship construction and repair services. Through this partnership, <strong>Maersk</strong>'s fleet maintenance needs in the region will be met more quickly and efficiently.</p>

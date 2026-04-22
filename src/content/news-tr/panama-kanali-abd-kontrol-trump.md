@@ -1,14 +1,23 @@
 ---
-title: "Panama Kanalı Üzerindeki Çin Etkisi ve ABD'nin Kontrol Talebi"
-subtitle: "Panama Kanalı Üzerindeki Çin Etkisi ve ABD'nin Kontrol Talebi"
-date: "2025-01-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2503c867ac4a4d73b25d12d6ca12984e~mv2.jpg"
-imageAlt: "Panama Kanalı Üzerindeki Çin Etkisi ve ABD'nin Kontrol Talebi"
-wixId: "3d3d7c9c-a2a2-48ad-b872-befecce6500d"
-author: "Sedat Onat"
+title: Panama Kanalı Üzerindeki Çin Etkisi ve ABD'nin Kontrol Talebi
+subtitle: Panama Kanalı Üzerindeki Çin Etkisi ve ABD'nin Kontrol Talebi
+date: '2025-01-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2503c867ac4a4d73b25d12d6ca12984e~mv2.jpg
+imageAlt: Panama Kanalı Üzerindeki Çin Etkisi ve ABD'nin Kontrol Talebi
+wixId: 3d3d7c9c-a2a2-48ad-b872-befecce6500d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Panama Kanalı
+- Çin etkisi
+- deniz ticareti
+- jeopolitik
+- konteyner limanı
+- Hutchison Ports
+- ABD
+- geçiş ücretleri
 ---
 <p style="text-align: justify">Ocak 2025'te, ABD Senatosu Ticaret Komitesi, <strong>Panama Kanalı</strong> üzerindeki Çin etkisini ve ABD'nin kanal üzerindeki kontrolünü yeniden kazanma taleplerini tartışmak üzere bir oturum düzenledi. Komite Başkanı <strong>Ted Cruz</strong>, Çinli şirketlerin kanalın her iki ucundaki konteyner limanlarını kontrol etmesi ve su yolu üzerinde bir köprü inşa etmesi nedeniyle Çin'in potansiyel olarak kanal erişimini engelleyebileceğini belirtti.</p>
 <p><br></p>

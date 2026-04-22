@@ -1,14 +1,23 @@
 ---
-title: "C.H. Robinson, Yapay Zekâ Destekli “Agentic Supply Chain” ile Lojistikte Yeni Bir Dönem Başlattı"
-subtitle: "C.H. Robinson, Yapay Zekâ Destekli “Agentic Supply Chain” ile Lojistikte Yeni Bir Dönem Başlattı"
-date: "2025-10-27T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/nsplsh_e75c298a94764892bc13f014d6ff0676~mv2.jpg"
-imageAlt: "C.H. Robinson, “Agentic Supply Chain” adını verdiği yapay zekâ tabanlı ekosistemle küresel lojistik yönetiminde gerçek zamanlı karar alma, kendi kendini optimize eden operasyonlar ve Lean AI yaklaşımını birleştirerek sektörde yeni bir standart belirledi."
-wixId: "50a9ca90-32cb-4fd9-a745-57ac0cfd4de2"
-author: "Sedat Onat"
+title: C.H. Robinson, Yapay Zekâ Destekli “Agentic Supply Chain” ile Lojistikte Yeni Bir Dönem Başlattı
+subtitle: C.H. Robinson, Yapay Zekâ Destekli “Agentic Supply Chain” ile Lojistikte Yeni Bir Dönem Başlattı
+date: '2025-10-27T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/nsplsh_e75c298a94764892bc13f014d6ff0676~mv2.jpg
+imageAlt: C.H. Robinson, “Agentic Supply Chain” adını verdiği yapay zekâ tabanlı ekosistemle küresel lojistik yönetiminde gerçek zamanlı karar alma, kendi kendini optimize eden operasyonlar ve Lean AI yaklaşımını birleştirerek sektörde yeni bir standart belirledi.
+wixId: 50a9ca90-32cb-4fd9-a745-57ac0cfd4de2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- C.H. Robinson
+- yapay zeka
+- Agentic Supply Chain
+- Lean AI
+- otonom lojistik
+- tedarik zinciri optimizasyonu
+- AI ajanları
+- lojistik teknolojisi
 ---
 <p style="text-align: justify"><strong>C.H. Robinson (CHR)</strong>, yapay zekâ alanındaki on yılı aşkın Ar-Ge deneyimini bir üst seviyeye taşıyarak <strong>“Agentic Supply Chain”</strong> adını verdiği yeni nesil lojistik zekâ platformunu duyurdu. Şirket, bu sistemi “<strong>düşünen, öğrenen, uyum sağlayan ve eyleme geçen akıllı bir ekosistem</strong>” olarak tanımlamakta.</p>
 <p><br></p>

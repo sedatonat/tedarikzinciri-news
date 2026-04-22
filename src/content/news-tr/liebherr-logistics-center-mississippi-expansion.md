@@ -1,14 +1,22 @@
 ---
-title: "Liebherr, Mississippi'de Lojistik Merkezi İnşa Ediyor"
-subtitle: "Liebherr, Mississippi'de Lojistik Merkezi İnşa Ediyor"
-date: "2024-07-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ca7002cd6660466aa37e4bd1276fc2b5~mv2.jpg"
-imageAlt: "Liebherr, Mississippi'de Lojistik Merkezi İnşa Ediyor"
-wixId: "b8f3f83b-8535-453c-ad49-3a06b6bc6afc"
-author: "Sedat Onat"
+title: Liebherr, Mississippi'de Lojistik Merkezi İnşa Ediyor
+subtitle: Liebherr, Mississippi'de Lojistik Merkezi İnşa Ediyor
+date: '2024-07-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_ca7002cd6660466aa37e4bd1276fc2b5~mv2.jpg
+imageAlt: Liebherr, Mississippi'de Lojistik Merkezi İnşa Ediyor
+wixId: b8f3f83b-8535-453c-ad49-3a06b6bc6afc
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Liebherr
+- Mississippi
+- lojistik merkezi
+- inşaat ekipmanları
+- otomasyon
+- sürdürülebilirlik
+- ABD
 ---
 <p>Liebherr, inşaat ekipmanları üretiminde dünya liderlerinden biri olarak, Amerika Birleşik Devletleri'ndeki operasyonlarını genişletmek amacıyla Mississippi'de yeni bir lojistik merkezi kuracağını duyurdu. Bu adım, şirketin ABD pazarındaki büyüme stratejisinin bir parçası olup, özellikle inşaat ve madencilik sektörlerindeki talebi karşılamak amacıyla atılıyor.</p>
 <p><br></p>

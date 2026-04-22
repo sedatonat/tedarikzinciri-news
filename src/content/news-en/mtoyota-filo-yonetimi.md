@@ -1,16 +1,23 @@
 ---
-title: "Toyota's New MyToyota Portal Transforms Forklift Fleet Management"
-subtitle: "Toyota's New MyToyota Portal Transforms Forklift Fleet Management"
-date: "2025-11-09T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_f0762cb1cbcd4ffdb0515ab35a8f4f95~mv2.jpeg"
-imageAlt: "Toyota Material Handling UK's new MyToyota portal unifies cost, energy consumption, contracts, safety, and service management for forklift fleets in a single platform, delivering data-driven, transparent, and efficient operations."
-wixId: "b06d58de-6ddb-4ca9-b703-4cc9256cce6e"
-author: "Sedat Onat"
+title: Toyota's New MyToyota Portal Transforms Forklift Fleet Management
+subtitle: Toyota's New MyToyota Portal Transforms Forklift Fleet Management
+date: '2025-11-09T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_f0762cb1cbcd4ffdb0515ab35a8f4f95~mv2.jpeg
+imageAlt: Toyota Material Handling UK's new MyToyota portal unifies cost, energy consumption, contracts, safety, and service management for forklift fleets in a single platform, delivering data-driven, transparent, and efficient operations.
+wixId: b06d58de-6ddb-4ca9-b703-4cc9256cce6e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Toyota
+- forklift
+- fleet management
+- MyToyota
+- digital transformation
+- I_Site
+- telematics
 ---
-
 <p style="text-align: justify">Toyota Material Handling UK has launched <strong>MyToyota</strong>, a new customer portal, at a time when expectations for transparency, efficiency, and data-driven operations in forklift fleet management are rising rapidly. The platform enables businesses to manage all costs, energy consumption, contracts, service plans, and safety protocols across their entire forklift fleet through a single digital ecosystem.</p>
 <p><br></p>
 <p style="text-align: justify">Toyota positions MyToyota not merely as a reporting tool but as a <strong>multi-layered service platform</strong> that enables businesses to manage their fleets more strategically and effectively. The portal delivers reliable and up-to-date insights into every aspect of the fleet, helping users make swift, data-based, and cost-effective decisions.</p>

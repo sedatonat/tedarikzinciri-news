@@ -1,14 +1,23 @@
 ---
-title: "Ningbo-Zhoushan ve HAROPA Limanları Arasında Çin–Fransa Yeşil Denizcilik Koridoru Kuruldu"
-subtitle: "Ningbo-Zhoushan ve HAROPA Limanları Arasında Çin–Fransa Yeşil Denizcilik Koridoru Kuruldu"
-date: "2025-11-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a4b243247364449aaea653107ef3c953~mv2.jpg"
-imageAlt: "Ningbo-Zhoushan (Çin) ve HAROPA (Fransa) limanları arasında başlatılan yeşil denizcilik koridoru, Uluslararası Yeşil Denizcilik Koridoru İş Birliği Girişimi kapsamında deniz taşımacılığının karbonsuzlaşmasını hızlandırmayı hedefliyor. Projede Bureau Veritas, MSC, CMA CGM, Zhejiang Seaport Group ve China Waterborne Transport Research Institute yer alıyor."
-wixId: "c28ff241-15b9-4978-98fe-bd694d0d6923"
-author: "Sedat Onat"
+title: Ningbo-Zhoushan ve HAROPA Limanları Arasında Çin–Fransa Yeşil Denizcilik Koridoru Kuruldu
+subtitle: Ningbo-Zhoushan ve HAROPA Limanları Arasında Çin–Fransa Yeşil Denizcilik Koridoru Kuruldu
+date: '2025-11-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a4b243247364449aaea653107ef3c953~mv2.jpg
+imageAlt: Ningbo-Zhoushan (Çin) ve HAROPA (Fransa) limanları arasında başlatılan yeşil denizcilik koridoru, Uluslararası Yeşil Denizcilik Koridoru İş Birliği Girişimi kapsamında deniz taşımacılığının karbonsuzlaşmasını hızlandırmayı hedefliyor. Projede Bureau Veritas, MSC, CMA CGM, Zhejiang Seaport Group ve China Waterborne Transport Research Institute yer alıyor.
+wixId: c28ff241-15b9-4978-98fe-bd694d0d6923
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- yeşil denizcilik koridoru
+- Ningbo-Zhoushan
+- HAROPA
+- karbonsuzlaşma
+- Bureau Veritas
+- CMA CGM
+- MSC
+- alternatif yakıt
 ---
 <p style="text-align: justify"><strong>Çin’in Ningbo-Zhoushan Limanı</strong> ile <strong>Fransa’nın HAROPA Liman Kompleksi (Le Havre–Rouen–Paris)</strong> arasında yeni bir <strong>uluslararası yeşil denizcilik koridoru</strong> oluşturuldu. Bu koridor, <strong>Uluslararası Yeşil Denizcilik Koridoru İş Birliği Girişimi (International Green Shipping Corridor Cooperation Initiative)</strong> kapsamında geliştirildi ve <strong>2025 North Bund Forum</strong> sırasında duyuruldu.</p>
 <p><br></p>

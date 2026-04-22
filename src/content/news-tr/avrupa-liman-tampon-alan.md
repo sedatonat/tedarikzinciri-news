@@ -1,14 +1,23 @@
 ---
-title: "Avrupa Limanlarında Tampon Alan Yetersizliği Talep Artışlarını Yönetemiyor"
-subtitle: "Avrupa Limanlarında Tampon Alan Yetersizliği Talep Artışlarını Yönetemiyor"
-date: "2025-11-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e9a7f688173e4de5987d1cbf3d7743b4~mv2.jpg"
-imageAlt: "Avrupa’nın en büyük limanları Rotterdam, Antwerp ve Hamburg, artan hacimler ve değişen sezon etkileri karşısında “tampon kapasite eksikliği” nedeniyle operasyonel sıkışıklık yaşıyor; terminaller ve iç taşımacılık ağları, tıkanıklıkları eritmekte zorlanıyor."
-wixId: "9a627700-05e3-4fc1-bd8e-6d7c273b1bca"
-author: "Sedat Onat"
+title: Avrupa Limanlarında Tampon Alan Yetersizliği Talep Artışlarını Yönetemiyor
+subtitle: Avrupa Limanlarında Tampon Alan Yetersizliği Talep Artışlarını Yönetemiyor
+date: '2025-11-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e9a7f688173e4de5987d1cbf3d7743b4~mv2.jpg
+imageAlt: Avrupa’nın en büyük limanları Rotterdam, Antwerp ve Hamburg, artan hacimler ve değişen sezon etkileri karşısında “tampon kapasite eksikliği” nedeniyle operasyonel sıkışıklık yaşıyor; terminaller ve iç taşımacılık ağları, tıkanıklıkları eritmekte zorlanıyor.
+wixId: 9a627700-05e3-4fc1-bd8e-6d7c273b1bca
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Avrupa limanları
+- tampon kapasite
+- liman tıkanıklığı
+- Rotterdam
+- Hamburg
+- Antwerp
+- hinterland lojistiği
+- demiryolu taşımacılığı
 ---
 <p style="text-align: justify">Avrupa limanlarında süregelen tıkanıklık, bölgenin hem deniz terminallerinde hem de iç lojistik ağlarında <strong>yetersiz tampon (buffer) kapasitesine</strong> sahip olduğunu net şekilde ortaya koyuyor. Kuehne + Nagel’ın <strong>SeaExplorer</strong> görünürlük aracına göre, Avrupa’nın üç ana ithalat kapısı — <strong>Rotterdam, Antwerp ve Hamburg</strong> — hâlâ “ağır şekilde bozulan operasyonlar” kategorisinde yer alıyor.</p>
 <p><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "IKEA Ramps Up U.S. Manufacturing in Response to Tariffs"
-subtitle: "IKEA Ramps Up U.S. Manufacturing in Response to Tariffs"
-date: "2025-12-09T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_8f2493e913ee44c8a5bde229d575da83~mv2.jpg"
-imageAlt: "IKEA's decision to expand local manufacturing in the U.S. in response to rising tariffs and logistics costs, aimed at improving delivery speed, reducing supply chain risks, and integrating with U.S. logistics infrastructure"
-wixId: "b23c53e4-f6e2-4794-8df7-7ac6eb087ac6"
-author: "Sedat Onat"
+title: IKEA Ramps Up U.S. Manufacturing in Response to Tariffs
+subtitle: IKEA Ramps Up U.S. Manufacturing in Response to Tariffs
+date: '2025-12-09T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_8f2493e913ee44c8a5bde229d575da83~mv2.jpg
+imageAlt: IKEA's decision to expand local manufacturing in the U.S. in response to rising tariffs and logistics costs, aimed at improving delivery speed, reducing supply chain risks, and integrating with U.S. logistics infrastructure
+wixId: b23c53e4-f6e2-4794-8df7-7ac6eb087ac6
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- IKEA
+- US manufacturing
+- tariffs
+- nearshoring
+- supply chain
+- Locus
+- last mile delivery
+- logistics costs
 ---
-
 <p style="text-align: justify">Swedish global furniture retailer <strong>IKEA</strong> is moving to <strong>increase its U.S. manufacturing footprint</strong> in the face of rising tariffs and surging international shipping costs. According to reporting from <strong>Reuters</strong>, the company plans to produce a larger proportion of its U.S. store inventory locally. This step is driven not merely by cost pressures, but by broader objectives to <strong>accelerate delivery speed</strong>, <strong>improve stock availability</strong>, and <strong>mitigate global supply chain risks</strong>.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Currently, only <strong>approximately 15 percent</strong> of products sold in IKEA's U.S. stores are produced domestically. This share falls well below the company's local production levels in Europe and Asia. IKEA previously attempted manufacturing in the U.S., but shuttered its facility in <strong>Danville, Virginia</strong> in <strong>2019</strong>, shifting production back to Europe. The company's renewed focus on U.S. manufacturing reflects a fundamental shift in global trade conditions over the past six years.</p>

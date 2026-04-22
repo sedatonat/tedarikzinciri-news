@@ -1,14 +1,23 @@
 ---
-title: "Soğuk Zinciri Tehdit Eden Gizli Risk: Kontrol Sistemlerindeki Siber Açıklar"
-subtitle: "Soğuk Zinciri Tehdit Eden Gizli Risk: Kontrol Sistemlerindeki Siber Açıklar"
-date: "2025-12-08T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_490b787fd54d4cd2afc709ab62bfb49b~mv2.jpg"
-imageAlt: "Copeland’ın soğuk zincir kontrol sistemlerinde tespit edilen “Frostbyte 10” güvenlik açıkları, OT sistemlerinin siber saldırılara açıklığı ve gıda ile ilaç tedarik zinciri üzerindeki potansiyel etkilerin detaylı özeti"
-wixId: "7224f976-4487-4573-abf9-96310fddb273"
-author: "Sedat Onat"
+title: 'Soğuk Zinciri Tehdit Eden Gizli Risk: Kontrol Sistemlerindeki Siber Açıklar'
+subtitle: 'Soğuk Zinciri Tehdit Eden Gizli Risk: Kontrol Sistemlerindeki Siber Açıklar'
+date: '2025-12-08T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_490b787fd54d4cd2afc709ab62bfb49b~mv2.jpg
+imageAlt: Copeland’ın soğuk zincir kontrol sistemlerinde tespit edilen “Frostbyte 10” güvenlik açıkları, OT sistemlerinin siber saldırılara açıklığı ve gıda ile ilaç tedarik zinciri üzerindeki potansiyel etkilerin detaylı özeti
+wixId: 7224f976-4487-4573-abf9-96310fddb273
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- soğuk zincir
+- siber güvenlik
+- Copeland
+- Armis Labs
+- CISA
+- OT güvenliği
+- Frostbyte 10
+- kontrol sistemleri
 ---
 <p style="text-align: justify">Küresel <strong>cold chain</strong> altyapısının siber saldırılarla hedef alınabileceği fikri, birkaç yıl öncesine kadar bilim kurgu senaryosu gibi algılanmaktaydı. Ancak <strong>SupplyChainBrain</strong>’de yayımlanan son analiz, bu riskin artık son derece somut olduğunu ortaya koyuyor. <strong>Copeland LP</strong>, soğuk zincir için kullanılan <strong>facility management</strong> ve <strong>supervisory control</strong> sistemlerinin güvenliğini test etmek amacıyla siber güvenlik firması <strong>Armis Labs</strong> ile çalıştı ve sonuçlar, tedarik zinciri güvenliği açısından ciddi uyarılar içeriyor.</p>
 <p><br></p>

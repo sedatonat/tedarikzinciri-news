@@ -1,14 +1,22 @@
 ---
-title: "2023'te ABD'de Sıfır Emisyonlu Kamyon Kullanımında Büyük Artış"
-subtitle: "2023'te ABD'de Sıfır Emisyonlu Kamyon Kullanımında Büyük Artış"
-date: "2024-05-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_41884d0c6bbb4a6d8f1fdb654f93670b~mv2.jpg"
-imageAlt: "2023'te ABD'de Sıfır Emisyonlu Kamyon Kullanımında Büyük Artış"
-wixId: "e68226ef-a629-403a-a796-ad26a7244a5b"
-author: "Sedat Onat"
+title: 2023'te ABD'de Sıfır Emisyonlu Kamyon Kullanımında Büyük Artış
+subtitle: 2023'te ABD'de Sıfır Emisyonlu Kamyon Kullanımında Büyük Artış
+date: '2024-05-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_41884d0c6bbb4a6d8f1fdb654f93670b~mv2.jpg
+imageAlt: 2023'te ABD'de Sıfır Emisyonlu Kamyon Kullanımında Büyük Artış
+wixId: e68226ef-a629-403a-a796-ad26a7244a5b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- sıfır emisyonlu kamyon
+- elektrikli araç
+- kargo vanı
+- sürdürülebilir lojistik
+- CALSTART
+- ABD
+- karbon salımı
 ---
 <p>2023 yılı itibariyle, Amerika Birleşik Devletleri'nde sıfır emisyonlu kamyon (ZET) kullanımında büyük bir artış yaşandı. CALSTART'ın son verilerine göre, sadece 2023 yılında 25,378 adet yeni ZET taşıtının devreye alındığı ve toplamda 30,000'den fazla ZET'in yollarda olduğu belirtilmiştir. Bu taşıtların büyük çoğunluğunu, %86 oranında, sıfır emisyonlu kargo vanları oluşturmaktadır. Ayrıca, orta ve ağır hizmet sınıfındaki kamyonlar da dahil olmak üzere, çeşitli kategorilerdeki araçların kullanımı genişlemiştir.</p>
 <p><br></p>

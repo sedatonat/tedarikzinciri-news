@@ -1,14 +1,23 @@
 ---
-title: "Denizcilik Sektöründe İstihdamın Sürdürülebilirliği İçin ISWAN'dan Çağrı"
-subtitle: "Denizcilik Sektöründe İstihdamın Sürdürülebilirliği İçin ISWAN'dan Çağrı"
-date: "2024-05-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_410c34e78e7a4a4eae1928b52a06e319~mv2.jpg"
-imageAlt: "Denizcilik Sektöründe İstihdamın Sürdürülebilirliği İçin ISWAN'dan Çağrı"
-wixId: "b5cd5510-750f-40b3-ad08-38f2629f46ae"
-author: "Sedat Onat"
+title: Denizcilik Sektöründe İstihdamın Sürdürülebilirliği İçin ISWAN'dan Çağrı
+subtitle: Denizcilik Sektöründe İstihdamın Sürdürülebilirliği İçin ISWAN'dan Çağrı
+date: '2024-05-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_410c34e78e7a4a4eae1928b52a06e319~mv2.jpg
+imageAlt: Denizcilik Sektöründe İstihdamın Sürdürülebilirliği İçin ISWAN'dan Çağrı
+wixId: b5cd5510-750f-40b3-ad08-38f2629f46ae
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- denizcilik
+- ISWAN
+- istihdam
+- iş gücü
+- çalışma koşulları
+- refah
+- teknoloji
+- kapsayıcılık
 ---
 <p>Uluslararası Denizciler Refah ve Yardım Ağı (ISWAN), denizcilik sektöründe istihdam ve personel tutma sorunlarına çözüm bulmak amacıyla doğrudan denizcilerle iletişime geçilmesi gerektiğini vurguladı.&nbsp;</p>
 <p><br></p>

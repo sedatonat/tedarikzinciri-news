@@ -1,14 +1,22 @@
 ---
-title: "Inmarsat'ın NexusWave Hizmeti ile Denizcilikte 340 Mbps Bağlantı Hızı"
-subtitle: "Inmarsat'ın NexusWave Hizmeti ile Denizcilikte 340 Mbps Bağlantı Hızı"
-date: "2025-03-14T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_a230a6c8cade4a4b813d52966f0a870b~mv2.jpeg"
-imageAlt: "Inmarsat'ın NexusWave Hizmeti ile Denizcilikte 340 Mbps Bağlantı Hızı"
-wixId: "7082e36e-7d0e-4adf-9666-d468faeea4b5"
-author: "Sedat Onat"
+title: Inmarsat'ın NexusWave Hizmeti ile Denizcilikte 340 Mbps Bağlantı Hızı
+subtitle: Inmarsat'ın NexusWave Hizmeti ile Denizcilikte 340 Mbps Bağlantı Hızı
+date: '2025-03-14T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_a230a6c8cade4a4b813d52966f0a870b~mv2.jpeg
+imageAlt: Inmarsat'ın NexusWave Hizmeti ile Denizcilikte 340 Mbps Bağlantı Hızı
+wixId: 7082e36e-7d0e-4adf-9666-d468faeea4b5
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Inmarsat
+- NexusWave
+- denizcilik
+- uydu iletişimi
+- ağ birleştirme
+- Viasat
+- bağlantı hızı
 ---
 <p style="text-align: justify"><strong>Inmarsat Maritime</strong>, <strong>Viasat</strong> şirketinin bir parçası olarak, denizcilik sektörüne yönelik geliştirdiği <strong>NexusWave</strong> hizmetiyle, gerçek dünya testlerinde 330–340 megabit/saniye (Mbps) maksimum indirme ve 70–80 Mbps maksimum yükleme hızlarına ulaşmıştır. Bu testlerde, ortalama indirme hızları 120–150 Mbps, yükleme hızları ise 20–45 Mbps olarak kaydedilmiş; <strong>NexusWave</strong> hizmetinin gemilerdeki ağ kullanılabilirliği %99,99'un üzerinde gerçekleşmiştir.</p>
 <p><br></p>

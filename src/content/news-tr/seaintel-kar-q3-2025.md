@@ -1,14 +1,22 @@
 ---
-title: "Konteyner Taşımacıları Q3 2025’te 5.12 Milyar Dolar Kâr Açıkladı"
-subtitle: "Konteyner Taşımacıları Q3 2025’te 5.12 Milyar Dolar Kâr Açıkladı"
-date: "2025-11-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_649bb2b6c30b4eb4ac0b73e82d5e2390~mv2.jpg"
-imageAlt: "Sea-Intelligence verilerine göre 2025’in üçüncü çeyreğinde küresel konteyner hatlarının toplam işletme kârındaki düşüş, taşıyıcıların hacim artışı, Red Sea bypass ağları ve EBIT/TEU sonuçlarıyla birlikte detaylı analiz"
-wixId: "00920fad-270b-4411-9441-d63202a98dff"
-author: "Sedat Onat"
+title: Konteyner Taşımacıları Q3 2025’te 5.12 Milyar Dolar Kâr Açıkladı
+subtitle: Konteyner Taşımacıları Q3 2025’te 5.12 Milyar Dolar Kâr Açıkladı
+date: '2025-11-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_649bb2b6c30b4eb4ac0b73e82d5e2390~mv2.jpg
+imageAlt: Sea-Intelligence verilerine göre 2025’in üçüncü çeyreğinde küresel konteyner hatlarının toplam işletme kârındaki düşüş, taşıyıcıların hacim artışı, Red Sea bypass ağları ve EBIT/TEU sonuçlarıyla birlikte detaylı analiz
+wixId: 00920fad-270b-4411-9441-d63202a98dff
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- konteyner taşımacılığı
+- Sea-Intelligence
+- COSCO
+- Kızıldeniz
+- navlun
+- finansal performans
+- EBIT
 ---
 <p style="text-align: justify"><strong>Sea-Intelligence</strong>, 2025’in üçüncü çeyreğine ilişkin finansal analizinde, dünyanın en büyük konteyner taşıyıcılarının toplam işletme kârının geçen yılın aynı dönemindeki <strong>17.06 milyar dolar</strong> seviyesinden <strong>5.12 milyar dolara</strong> gerilediğini açıkladı. Bu düşüş, 2024’te yaşanan olağanüstü finansal performansların ardından beklenen düzeltmenin devam ettiğini göstermekte. Kuruluş yine de sektör kârlılığının 2019 seviyelerinin üzerinde bulunmasını <strong>market stabilisation</strong> açısından olumlu bir gösterge olarak nitelendirmekte.</p>
 <p><br></p>

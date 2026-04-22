@@ -1,16 +1,24 @@
 ---
-title: "Russian-Flagged MIDVOLGA-2 Tanker Reports Attack off Turkish Coast; Crew Safe"
-subtitle: "Russian-Flagged MIDVOLGA-2 Tanker Reports Attack off Turkish Coast; Crew Safe"
-date: "2025-12-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_83225039282149589aa32a6ff9fae2d1~mv2.jpeg"
-imageAlt: "The Russian-flagged MIDVOLGA-2 tanker's attack report 80 nautical miles off Turkey's coast, the vessel's status, regional security context, and detailed news summary regarding escalating risks in the Black Sea"
-wixId: "05458557-a8f7-49c4-94a2-d3906a019f92"
-author: "Sedat Onat"
+title: Russian-Flagged MIDVOLGA-2 Tanker Reports Attack off Turkish Coast; Crew Safe
+subtitle: Russian-Flagged MIDVOLGA-2 Tanker Reports Attack off Turkish Coast; Crew Safe
+date: '2025-12-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_83225039282149589aa32a6ff9fae2d1~mv2.jpeg
+imageAlt: The Russian-flagged MIDVOLGA-2 tanker's attack report 80 nautical miles off Turkey's coast, the vessel's status, regional security context, and detailed news summary regarding escalating risks in the Black Sea
+wixId: 05458557-a8f7-49c4-94a2-d3906a019f92
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Black Sea
+- tanker
+- maritime security
+- MIDVOLGA-2
+- Russia
+- Ukraine
+- maritime attack
+- commercial vessel
 ---
-
 <p style="text-align: justify">Commercial shipping in the Black Sea has been hit by yet another attack report. The <strong>Russian-flagged MIDVOLGA-2</strong> tanker reported coming under attack while transiting approximately <strong>80 nautical miles (129 km)</strong> off Turkey's northern coast. Turkey's <strong>Maritime Affairs Directorate</strong> confirmed that the attack information was communicated directly by the vessel but noted that <strong>no assistance was requested</strong>. The ship has maintained its cargo and operational capacity while altering course toward <strong>Sinop</strong> port.</p>
 <p><br></p>
 <p style="text-align: justify">The MIDVOLGA-2 was carrying <strong>sunflower oil</strong> from Russia to Georgia, and all <strong>13 crew members aboard were reported safe</strong>. Authorities confirmed that the vessel was proceeding normally with its engines and that no emergency status had been recorded. Turkish authorities did not provide additional technical details regarding the incident and made no statement about the nature, source, or method of the attack.</p>

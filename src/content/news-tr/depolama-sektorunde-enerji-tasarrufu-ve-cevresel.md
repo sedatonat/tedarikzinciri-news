@@ -1,14 +1,23 @@
 ---
-title: "Depolama Sektöründe Enerji Tasarrufu ve Çevresel Düzenlemeler"
-subtitle: "Depolama Sektöründe Enerji Tasarrufu ve Çevresel Düzenlemeler"
-date: "2024-05-13T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_27d104aae3584617b81b3550609821b2~mv2.jpg"
-imageAlt: "Depolama Sektöründe Enerji Tasarrufu ve Çevresel Düzenlemeler"
-wixId: "242f1ce2-d73e-4ad5-b1b1-096a6e8070cc"
-author: "Sedat Onat"
+title: Depolama Sektöründe Enerji Tasarrufu ve Çevresel Düzenlemeler
+subtitle: Depolama Sektöründe Enerji Tasarrufu ve Çevresel Düzenlemeler
+date: '2024-05-13T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_27d104aae3584617b81b3550609821b2~mv2.jpg
+imageAlt: Depolama Sektöründe Enerji Tasarrufu ve Çevresel Düzenlemeler
+wixId: 242f1ce2-d73e-4ad5-b1b1-096a6e8070cc
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- depolama
+- enerji tasarrufu
+- sürdürülebilirlik
+- çevresel düzenlemeler
+- yenilenebilir enerji
+- LED aydınlatma
+- HVAC sistemleri
+- karbon ayak izi
 ---
 <p>Depolama, modern tedarik zinciri yönetiminin vazgeçilmez bir parçasıdır ve malların saklanması, sınıflandırılması ve dağıtılması gibi süreçlerde merkezi bir rol oynar. Ancak çevresel sorunlara olan farkındalığın artması ve sürdürülebilir uygulamaların her sektörde zorunlu hale gelmesi ile depolama sektörü, çevresel etkilerini en aza indirgeme konusunda giderek daha fazla denetlenmektedir. Enerji tasarrufu ve sıkı çevresel düzenlemelere uyum, depolama operasyonlarının sürdürülebilirliği için şarttır.</p>
 <p><br></p>

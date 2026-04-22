@@ -1,16 +1,24 @@
 ---
-title: "MSC and Maersk Follow CMA CGM in Reflagging Ships to Indian Flag"
-subtitle: "MSC and Maersk Follow CMA CGM in Reflagging Ships to Indian Flag"
-date: "2025-10-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_132c9c1b1722490883bf53eef0c4e5ea~mv2.jpg"
-imageAlt: "MSC and Maersk Follow CMA CGM in Reflagging Ships to Indian Flag"
-wixId: "2493fb68-0de2-4596-8133-5ad6a29bef56"
-author: "Sedat Onat"
+title: MSC and Maersk Follow CMA CGM in Reflagging Ships to Indian Flag
+subtitle: MSC and Maersk Follow CMA CGM in Reflagging Ships to Indian Flag
+date: '2025-10-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_132c9c1b1722490883bf53eef0c4e5ea~mv2.jpg
+imageAlt: MSC and Maersk Follow CMA CGM in Reflagging Ships to Indian Flag
+wixId: 2493fb68-0de2-4596-8133-5ad6a29bef56
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- MSC
+- Maersk
+- CMA CGM
+- India
+- container shipping
+- cabotage
+- maritime
+- Maritime India Vision 2030
 ---
-
 <p style="text-align: justify"><strong>The world's three largest container shipping giants — MSC, Maersk and CMA CGM — are preparing to reflag their vessels under the Indian flag to capitalize on the country's cabotage laws and rapidly expanding coastal trade.</strong></p>
 <p><br>
 This strategic move aligns directly with <strong>India's "Maritime India Vision 2030" plan, which aims to strengthen the country's maritime sector on the global stage.</strong></p>

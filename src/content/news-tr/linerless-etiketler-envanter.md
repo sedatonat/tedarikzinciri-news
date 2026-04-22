@@ -1,14 +1,22 @@
 ---
-title: "Linerless Etiketler: Depolama ve Üretimde Sürdürülebilirlik, Verimlilik ve Tasarrufun Üçlü Kazancı"
-subtitle: "Linerless Etiketler: Depolama ve Üretimde Sürdürülebilirlik, Verimlilik ve Tasarrufun Üçlü Kazancı"
-date: "2025-11-03T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_f84eeefa82c44dbc9478cec22e99e4ff~mv2.jpg"
-imageAlt: "Linerless (astar­sız) etiket teknolojisi, üretim ve depo operasyonlarında atıkları azaltarak, maliyetleri düşürerek ve etiketleme verimliliğini artırarak şirketlere çevresel, ekonomik ve operasyonel faydalar sağlıyor. Peak Technologies ve Honeywell’in öncülük ettiği bu sistem, sürdürülebilir lojistik çözümlerinde yeni standart haline geliyor."
-wixId: "aa02beff-3a56-442f-83c4-be6b1c619ffa"
-author: "Sedat Onat"
+title: 'Linerless Etiketler: Depolama ve Üretimde Sürdürülebilirlik, Verimlilik ve Tasarrufun Üçlü Kazancı'
+subtitle: 'Linerless Etiketler: Depolama ve Üretimde Sürdürülebilirlik, Verimlilik ve Tasarrufun Üçlü Kazancı'
+date: '2025-11-03T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_f84eeefa82c44dbc9478cec22e99e4ff~mv2.jpg
+imageAlt: Linerless (astar­sız) etiket teknolojisi, üretim ve depo operasyonlarında atıkları azaltarak, maliyetleri düşürerek ve etiketleme verimliliğini artırarak şirketlere çevresel, ekonomik ve operasyonel faydalar sağlıyor. Peak Technologies ve Honeywell’in öncülük ettiği bu sistem, sürdürülebilir lojistik çözümlerinde yeni standart haline geliyor.
+wixId: aa02beff-3a56-442f-83c4-be6b1c619ffa
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- linerless etiket
+- sürdürülebilirlik
+- depolama
+- atık azaltma
+- etiketleme teknolojisi
+- Honeywell
+- Peak Technologies
 ---
 <p style="text-align: justify"><strong>Sürdürülebilirlik</strong> artık işletmeler için bir tercih değil, zorunluluk haline geldi. Hükümet düzenlemeleri, tüketici beklentileri ve ESG (Environmental, Social, Governance) hedefleri, şirketleri çevre dostu çözümler aramaya yönlendiriyor. Ancak çoğu zaman odak, elektrikli araçlar veya güneş enerjili tesisler gibi büyük dönüşümlere kayıyor. Oysa <strong>depo ve üretim alanlarında daha hızlı bir çevresel kazanım</strong>, <strong>linerless etiket teknolojisi</strong> ile elde edilebiliyor.</p>
 <p><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "Flexport Expands Broker Platform With Convoy Technology"
-subtitle: "Flexport Expands Broker Platform With Convoy Technology"
-date: "2024-06-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b84e48e27fc442618cb5128d4dae461c~mv2.jpg"
-imageAlt: "Flexport Expands Broker Platform With Convoy Technology"
-wixId: "cc67f58e-4692-409b-9e77-64e456af0163"
-author: "Sedat Onat"
+title: Flexport Expands Broker Platform With Convoy Technology
+subtitle: Flexport Expands Broker Platform With Convoy Technology
+date: '2024-06-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b84e48e27fc442618cb5128d4dae461c~mv2.jpg
+imageAlt: Flexport Expands Broker Platform With Convoy Technology
+wixId: cc67f58e-4692-409b-9e77-64e456af0163
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Flexport
+- Convoy
+- freight matching
+- trucking
+- broker platform
+- logistics technology
+- digital freight
+- carrier
 ---
-
 <p>Flexport, a logistics technology provider, has announced it is continuing to invest in software it acquired last year from Convoy, the defunct digital freight-matching firm. The San Francisco-based company is expanding the Convoy Platform, which provides brokers access to thousands of trusted carriers nationwide, aiming to simplify freight operations and reduce operating costs for both brokers and carriers.</p>
 <p><br></p>
 <p>Through its platform, which Flexport says simplifies global trade and connects everyone in the supply chain, the company acquired the technology stack of Seattle-based startup Convoy. Convoy shut down after eight years of operations despite hundreds of millions of dollars in venture capital backing. The company faced headwinds from the post-pandemic transportation recession in America and rapidly rising interest rates.</p>

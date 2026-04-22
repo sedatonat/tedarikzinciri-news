@@ -1,14 +1,22 @@
 ---
-title: "Kuehne+Nagel, Çeviklik ve Müşteri Yakınlığını Artırmak için Yapısal Değişikliğe Gidiyor"
-subtitle: "Kuehne+Nagel, Çeviklik ve Müşteri Yakınlığını Artırmak için Yapısal Değişikliğe Gidiyor"
-date: "2024-04-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a280bf8dcbfb4fcca598d2ee262bd018~mv2.jpeg"
-imageAlt: "Kuehne+Nagel, Çeviklik ve Müşteri Yakınlığını Artırmak için Yapısal Değişikliğe Gidiyor"
-wixId: "aa97bff0-888f-4f7b-b431-68c16508165e"
-author: "Sedat Onat"
+title: Kuehne+Nagel, Çeviklik ve Müşteri Yakınlığını Artırmak için Yapısal Değişikliğe Gidiyor
+subtitle: Kuehne+Nagel, Çeviklik ve Müşteri Yakınlığını Artırmak için Yapısal Değişikliğe Gidiyor
+date: '2024-04-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a280bf8dcbfb4fcca598d2ee262bd018~mv2.jpeg
+imageAlt: Kuehne+Nagel, Çeviklik ve Müşteri Yakınlığını Artırmak için Yapısal Değişikliğe Gidiyor
+wixId: aa97bff0-888f-4f7b-b431-68c16508165e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kuehne+Nagel
+- organizasyon yapısı
+- yapısal değişiklik
+- lojistik
+- çeviklik
+- müşteri yakınlığı
+- verimlilik
 ---
 <p>İsviçre merkezli lojistik devi <a href="https://en.wikipedia.org/wiki/Kuehne_%2B_Nagel"><u>Kuehne+Nagel</u></a>, organizasyon yapısını daha çevik ve piyasa koşullarına hızla adapte olabilecek şekilde yeniden düzenliyor. Şirket, bölgesel yönetici bazlı yapısını kaldırarak, ülke organizasyonlarının doğrudan yönetim kuruluna raporlamasını sağlayacak bir değişiklik yapıyor. Bu değişiklikle müşteri yakınlığını güçlendirmeyi ve piyasa koşullarındaki hızlı değişikliklere adapte olma yeteneğini artırmayı hedefliyor.&nbsp;</p>
 <p><br></p>

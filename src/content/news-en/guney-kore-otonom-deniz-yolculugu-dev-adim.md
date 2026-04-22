@@ -1,14 +1,21 @@
 ---
-title: "South Korea Takes Major Stride in Autonomous Maritime Navigation"
-subtitle: "South Korea Takes Major Stride in Autonomous Maritime Navigation"
-date: "2024-03-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_89c412378a7a4a5da275c12ac0555a0b~mv2.png"
-imageAlt: "South Korea Takes Major Stride in Autonomous Maritime Navigation"
-wixId: "5a283b41-fe62-47e2-8f67-58fd9c810500"
-author: "Sedat Onat"
+title: South Korea Takes Major Stride in Autonomous Maritime Navigation
+subtitle: South Korea Takes Major Stride in Autonomous Maritime Navigation
+date: '2024-03-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_89c412378a7a4a5da275c12ac0555a0b~mv2.png
+imageAlt: South Korea Takes Major Stride in Autonomous Maritime Navigation
+wixId: 5a283b41-fe62-47e2-8f67-58fd9c810500
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- South Korea
+- autonomous ship
+- Hyundai Mipo Dockyard
+- container ship
+- Pan Ocean
+- maritime technology
+- IMO
 ---
-
 <p>South Korea's <a href="https://www.hmd.co.kr/english/main/main.jsp"><u>Hyundai Mipo Dockyard (HMD)</u></a>, according to Offshore Energy, has introduced the country's first pilot vessel designed for autonomous navigation. On 8 March 2024, the dockyard held a naming ceremony for two 1,800 TEU container ships—Pos Singapore and Pos Laemchabang—which are being built simultaneously as South Korea's first demonstration vessels for autonomous operations.&nbsp;</p>\n<p><br></p>\n<p>Ordered by South Korean shipping company Pan Ocean in April 2022, these Liberia-flagged Handy container vessels measure 172 metres in length and 27.4 metres in breadth, with a carrying capacity of 1,800 TEU. Both newly built ships are equipped with various environmentally friendly technologies such as <a href="https://www.wartsila.com/encyclopedia/term/exhaust-gas-cleaning-system-(egcs)"> </a><a href="https://www.wartsila.com/encyclopedia/term/exhaust-gas-cleaning-system-(egcs)"><u>Exhaust Gas Cleaning Systems (EGCS)</u></a><a href="https://www.wartsila.com/encyclopedia/term/exhaust-gas-cleaning-system-(egcs)"> </a>or scrubbers, and ballast water treatment systems (BWTS).&nbsp;</p>\n<p><br></p>\n<p>Pos Singapore will validate core autonomous operation technologies, such as an intelligent navigation system and engine automation system being developed in Korea. HMD is a subsidiary of HD Korea Shipbuilding &amp; Offshore Engineering. In 2020, the country's Ministry of Oceans and Fisheries (MOF) and the Ministry of Trade, Industry and Energy (MOTIE) launched an 'Autonomous Ship Technology Development Project Integrated Project Team' to support the development of core technologies by local industry-academy research institutes. Various sea trials are currently being conducted on the newly built Pos Singapore to enhance crew safety. The plan is to achieve 'degree 3 autonomous operation'.&nbsp;</p>\n<p><br></p>\n<p>According to the regulatory framework for Maritime Autonomous Surface Ships (MASS) of the <a href="https://www.imo.org/"><u>International Maritime Organization (IMO)</u></a>, degree 3 autonomy refers to a situation where the ship is controlled and operated remotely from another location without seafarers. Pos Singapore is expected to be delivered to Pan Ocean this month.&nbsp;</p>\n<p><br></p>\n<p>Last year, the South Korean government announced it was planning to invest 710 billion KRW (545 million dollars) in next-generation ship construction technology and carbon-free fuels. The government will support, among other projects, the early commercialization of autonomous self-navigating vessels.</p>\n<p><br></p>\n<p><br></p>\n<h5>Key Takeaways</h5>\n<ul>\n  <li><p>South Korea's first pilot vessel designed for autonomous navigation has been introduced.</p></li>\n  <li><p>Two 1,800 TEU container ships, Pos Singapore and Pos Laemchabang, have been named.</p></li>\n  <li><p>The vessels are equipped with environmentally friendly technologies.</p></li>\n  <li><p>Pos Singapore will validate autonomous operation technologies.</p></li>\n  <li><p>Degree 3 autonomous operation refers to vessels remotely controlled without seafarers.</p></li>\n  <li><p>The South Korean government is planning significant investment in next-generation ship construction technology and carbon-free fuels.</p></li>\n</ul>\n<p><br></p>\n<p><br></p>\n<p><strong>News Link:</strong> <a href="https://en.portnews.ru/news/360628/"><u>https://en.portnews.ru/news/360628/</u></a></p>

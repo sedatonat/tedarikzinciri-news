@@ -1,16 +1,22 @@
 ---
-title: "Cass International Freight Expands Invoice Auditing Tools"
-subtitle: "Cass International Freight Expands Invoice Auditing Tools"
-date: "2025-01-02T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_b98bd1d2c3c74a45badd9c1993adb5ed~mv2.jpg"
-imageAlt: "Cass International Freight Expands Invoice Auditing Tools"
-wixId: "859934f5-64c6-49d3-b200-c556f719be14"
-author: "Sedat Onat"
+title: Cass International Freight Expands Invoice Auditing Tools
+subtitle: Cass International Freight Expands Invoice Auditing Tools
+date: '2025-01-02T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_b98bd1d2c3c74a45badd9c1993adb5ed~mv2.jpg
+imageAlt: Cass International Freight Expands Invoice Auditing Tools
+wixId: 859934f5-64c6-49d3-b200-c556f719be14
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Cass Information Systems
+- invoice audit
+- international transportation
+- digitalization
+- cost optimization
+- procurement
 ---
-
 <p>US-based <strong>Cass Information Systems</strong> is broadening its service portfolio by acquiring an invoice auditing tool for international freight forwarding. The company aims to offer a wider range of services not only to domestic but also to international customers. This strategic acquisition seeks to increase Cass's impact across different transportation modes and reach a broader market base.</p>
 <p><br></p>
 <p><strong>Cass Information Systems</strong> has long maintained a leading position in the processing and auditing of logistics and freight invoices. The company's existing systems enable customers to optimize shipping costs and reduce billing errors. The newly acquired auditing tool is specifically designed to more effectively manage complex billing processes in international transportation.</p>

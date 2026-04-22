@@ -1,16 +1,23 @@
 ---
-title: "Triton Acquires GCI in Deal Exceeding $1 Billion"
-subtitle: "Triton Acquires GCI in Deal Exceeding $1 Billion"
-date: "2025-03-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_46ef2ecda1394ef590b82bdcee819b12~mv2.jpg"
-imageAlt: "Triton Acquires GCI in Deal Exceeding $1 Billion"
-wixId: "94af08d4-db52-4508-87c4-40fd081a3ab3"
-author: "Sedat Onat"
+title: Triton Acquires GCI in Deal Exceeding $1 Billion
+subtitle: Triton Acquires GCI in Deal Exceeding $1 Billion
+date: '2025-03-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_46ef2ecda1394ef590b82bdcee819b12~mv2.jpg
+imageAlt: Triton Acquires GCI in Deal Exceeding $1 Billion
+wixId: 94af08d4-db52-4508-87c4-40fd081a3ab3
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Triton International
+- GCI
+- container leasing
+- acquisition
+- global trade
+- supply chain
+- logistics
 ---
-
 <p style="text-align: justify"><a href="https://www.tritoninternational.com/"><u><strong>Triton International Limited</strong></u><u>, </u><u><strong>Global Container International LLC</strong></u></a> (<strong>GCI</strong>) has been acquired in a deal exceeding $1 billion. This strategic move reinforces <strong>Triton</strong>'s leadership in the container leasing sector and expands its global presence.​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Triton</strong>, one of the world's largest container leasing companies, is known for its extensive fleet and global service network. <a href="https://gcxint.com/"><u><strong>GCI</strong></u></a>, meanwhile, stands as a significant player in the sector, recognized for its innovative solutions and customer-focused service approach. This acquisition makes a substantial contribution to <strong>Triton</strong>'s fleet and increases the company's market share.​</p>

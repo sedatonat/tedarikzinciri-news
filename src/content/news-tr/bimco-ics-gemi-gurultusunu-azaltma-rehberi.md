@@ -1,14 +1,22 @@
 ---
-title: "BIMCO ve ICS, Gemi Gürültüsünü Azaltmak İçin Rehber Yayınladı"
-subtitle: "BIMCO ve ICS, Gemi Gürültüsünü Azaltmak İçin Rehber Yayınladı"
-date: "2024-10-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_35770bd10cf347aca97903a0a2041111~mv2.jpg"
-imageAlt: "BIMCO ve ICS, Gemi Gürültüsünü Azaltmak İçin Rehber Yayınladı"
-wixId: "5a0711e2-6fe5-4739-94c0-53a9bfa7fd24"
-author: "Sedat Onat"
+title: BIMCO ve ICS, Gemi Gürültüsünü Azaltmak İçin Rehber Yayınladı
+subtitle: BIMCO ve ICS, Gemi Gürültüsünü Azaltmak İçin Rehber Yayınladı
+date: '2024-10-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_35770bd10cf347aca97903a0a2041111~mv2.jpg
+imageAlt: BIMCO ve ICS, Gemi Gürültüsünü Azaltmak İçin Rehber Yayınladı
+wixId: 5a0711e2-6fe5-4739-94c0-53a9bfa7fd24
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- BIMCO
+- ICS
+- su altı gürültü
+- denizcilik
+- çevre koruma
+- IMO
+- enerji verimliliği
 ---
 <p>Baltic and International Maritime Council (BIMCO) ve International Chamber of Shipping (ICS), denizcilik sektörünün gemilerden kaynaklanan su altı radyal gürültüyü anlamasına ve en aza indirmesine yardımcı olmak amacıyla bir el kitabı oluşturdu.</p>
 <p><br></p>

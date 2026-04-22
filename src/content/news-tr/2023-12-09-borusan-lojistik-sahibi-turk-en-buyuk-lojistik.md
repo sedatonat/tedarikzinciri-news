@@ -1,14 +1,22 @@
 ---
-title: "Borusan Lojistik: Sahibi Türk, en büyük lojistik firması biziz."
-subtitle: "Borusan Lojistik: Sahibi Türk, en büyük lojistik firması biziz."
-date: "2023-12-09T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ca74a07783d84a498e73d70f3b7b829c~mv2.jpeg"
-imageAlt: "Borusan Lojistik: Sahibi Türk, en büyük lojistik firması biziz."
-wixId: "86897f75-c80a-4d5f-80de-8f4dad8fa9ec"
-author: "Sedat Onat"
+title: 'Borusan Lojistik: Sahibi Türk, en büyük lojistik firması biziz.'
+subtitle: 'Borusan Lojistik: Sahibi Türk, en büyük lojistik firması biziz.'
+date: '2023-12-09T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_ca74a07783d84a498e73d70f3b7b829c~mv2.jpeg
+imageAlt: 'Borusan Lojistik: Sahibi Türk, en büyük lojistik firması biziz.'
+wixId: 86897f75-c80a-4d5f-80de-8f4dad8fa9ec
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Borusan Lojistik
+- otomotiv lojistiği
+- dijitalleşme
+- eTA platformu
+- intermodal taşımacılık
+- sürdürülebilirlik
+- elektrikli araçlar
 ---
 <p><a href="https://www.borusanlojistik.com/tr"><u>Borusan Lojistik</u></a> Genel Müdürü <a href="https://www.linkedin.com/in/serdarercal/"><u>Serdar Erçal</u></a>, 2023 yılına ilişkin önemli bilgiler paylaştı. Şirketin 2023 yılını 684 milyon dolar ciro ile kapatmayı hedeflediğini belirtti ve Türk sahipliği açısından bu ölçekte başka bir firmanın olmadığını vurguladı. Ayrıca, Borusan Lojistik'in teknoloji alanında büyük bir hedefi olduğunu ve sektörün en büyük teknoloji firması olmayı amaçladıklarını ifade etti.</p>
 <p><br></p>

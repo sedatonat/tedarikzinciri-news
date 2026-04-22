@@ -1,16 +1,23 @@
 ---
-title: "4PL Model Ushers in a New Era in Logistics"
-subtitle: "4PL Model Ushers in a New Era in Logistics"
-date: "2024-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_940e5d285a7849d7ad53db377fabf5b4~mv2.jpg"
-imageAlt: "4PL Model Ushers in a New Era in Logistics"
-wixId: "1eae72b4-3394-4496-ab91-84d5ed11a7cf"
-author: "Sedat Onat"
+title: 4PL Model Ushers in a New Era in Logistics
+subtitle: 4PL Model Ushers in a New Era in Logistics
+date: '2024-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_940e5d285a7849d7ad53db377fabf5b4~mv2.jpg
+imageAlt: 4PL Model Ushers in a New Era in Logistics
+wixId: 1eae72b4-3394-4496-ab91-84d5ed11a7cf
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- 4PL
+- 3PL
+- supply chain
+- logistics management
+- Gartner
+- automotive sector
+- supply chain resilience
 ---
-
 <p>According to Gartner analyst Mathew Beckett, the "4PL" concept, long successfully implemented in the automotive sector, is now gaining momentum across the industry more broadly. Traditionally, 4PLs have been defined as service providers that manage other 3PLs (Third-Party Logistics), reducing companies' need to manage individual 3PLs themselves.</p>
 <p><br></p>
 <p>Gartner defines 4PLs more specifically: "Fourth-party logistics (4PL) are supply chain service providers that, for a fee, design, build, operate, measure, and orchestrate all or part of an end-to-end logistics network." Additionally, 4PLs "coordinate logistics operations through internal and/or external parties, providing visibility, management control, and optimization through an integrated technology platform."</p>

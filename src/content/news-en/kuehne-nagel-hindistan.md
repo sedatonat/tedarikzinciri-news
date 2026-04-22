@@ -1,16 +1,23 @@
 ---
-title: "Kuehne+Nagel Expanding Warehousing and Distribution Capacity in India"
-subtitle: "Kuehne+Nagel Expanding Warehousing and Distribution Capacity in India"
-date: "2025-10-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1aca55a2e9e14823a92118c06dd55b53~mv2.jpg"
-imageAlt: "Kuehne+Nagel Expanding Warehousing and Distribution Capacity in India by 100,000 m²"
-wixId: "bbf10c83-981d-4fe8-ba42-09e89d2be41a"
-author: "Sedat Onat"
+title: Kuehne+Nagel Expanding Warehousing and Distribution Capacity in India
+subtitle: Kuehne+Nagel Expanding Warehousing and Distribution Capacity in India
+date: '2025-10-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1aca55a2e9e14823a92118c06dd55b53~mv2.jpg
+imageAlt: Kuehne+Nagel Expanding Warehousing and Distribution Capacity in India by 100,000 m²
+wixId: bbf10c83-981d-4fe8-ba42-09e89d2be41a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Kuehne+Nagel
+- India
+- fulfillment center
+- storage capacity
+- automation
+- e-commerce logistics
+- Asia Pacific
 ---
-
 <p style="text-align: justify"><strong>Kuehne+Nagel</strong> has announced the opening of <strong>five new fulfilment centers</strong> in India, keeping pace with the country's rapid economic growth.<br>
 The new facilities will be located in <strong>Gurgaon, Kolkata, Nagpur, Mumbai and Rajpura</strong>, adding a combined <strong>100,000 square meters of additional space</strong> and bringing the company's <strong>total warehousing capacity in India to approximately 500,000 m²</strong>.</p>
 <p><br></p>

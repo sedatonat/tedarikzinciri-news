@@ -1,16 +1,24 @@
 ---
-title: "Honda Çip Krizi Nedeniyle Japonya Ve Çin’de Üretimi Durduruyor"
-subtitle: "Honda Çip Krizi Nedeniyle Japonya Ve Çin’de Üretimi Durduruyor"
-date: "2025-12-19T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_ad567dac9805491aa94a985a617c8838~mv2.jpg"
-imageAlt: "Küresel yarı iletken tedarik sorunları sürerken Honda, Japonya ve Çin’deki tesislerinde üretimi geçici olarak durdurma kararı aldı; karar otomotiv tedarik zincirindeki kırılganlığın devam ettiğini gösteriyor."
-sourceUrl: "https://www.supplychainbrain.com/articles/43024-chip-shortage-lingers-as-honda-plans-to-halt-output-in-japan-china"
-author: "Sedat Onat"
+title: Honda Çip Krizi Nedeniyle Japonya Ve Çin’de Üretimi Durduruyor
+subtitle: Honda Çip Krizi Nedeniyle Japonya Ve Çin’de Üretimi Durduruyor
+date: '2025-12-19T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_ad567dac9805491aa94a985a617c8838~mv2.jpg
+imageAlt: Küresel yarı iletken tedarik sorunları sürerken Honda, Japonya ve Çin’deki tesislerinde üretimi geçici olarak durdurma kararı aldı; karar otomotiv tedarik zincirindeki kırılganlığın devam ettiğini gösteriyor.
+sourceUrl: https://www.supplychainbrain.com/articles/43024-chip-shortage-lingers-as-honda-plans-to-halt-output-in-japan-china
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Honda
+- çip krizi
+- yarı iletken
+- üretim durdurma
+- tedarik zinciri
+- Japonya
+- Çin
+- otomotiv
 ---
-
 <p style="text-align: justify">Küresel otomotiv sektöründe uzun süredir etkisini sürdüren <strong>yarı iletken tedarik krizi</strong>, üretim planlarını zorlamaya devam etmekte. <strong>Honda</strong>, Japonya ve Çin’de bulunan bazı tesislerinde üretimi geçici olarak durdurma kararı alarak, tedarik zincirindeki aksaklıkların hâlen tam anlamıyla giderilemediğini ortaya koydu. <strong>Bloomberg</strong> tarafından aktarılan bilgilere göre, karar önümüzdeki haftalarda kademeli olarak devreye girmekte.</p>
 <p><br></p>
 <p style="text-align: justify">Şirketten yapılan açıklamaya göre Honda, Japonya’daki üretim faaliyetlerini <strong>5 ve 6 Ocak</strong> tarihlerinde askıya almakta. Hangi tesislerin bu karardan etkileneceği açıklanmazken, üretim duruşunun kısa süreli fakat planlı olduğu ifade edilmekte. Çin tarafında ise Honda’nın ortak girişimi olan <strong>Guangqi Honda Automobile Co.</strong> bünyesindeki <strong>üç tesisin tamamı</strong>, <strong>29 Aralık – 2 Ocak</strong> tarihleri arasında üretim dışı kalmakta. Bu tablo, Asya merkezli üretim ağında eş zamanlı bir yavaşlamaya işaret etmekte.</p>

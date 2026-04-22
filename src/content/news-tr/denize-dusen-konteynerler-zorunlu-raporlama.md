@@ -1,14 +1,22 @@
 ---
-title: "Denize Düşen Konteynerlerin Raporlanması Artık Zorunlu"
-subtitle: "Denize Düşen Konteynerlerin Raporlanması Artık Zorunlu"
-date: "2024-06-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_02801667808141c4a24587ddf51c8964~mv2.jpg"
-imageAlt: "Denize Düşen Konteynerlerin Raporlanması Artık Zorunlu"
-wixId: "cc48c29c-c5d4-4096-812a-a27a78facfa3"
-author: "Sedat Onat"
+title: Denize Düşen Konteynerlerin Raporlanması Artık Zorunlu
+subtitle: Denize Düşen Konteynerlerin Raporlanması Artık Zorunlu
+date: '2024-06-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_02801667808141c4a24587ddf51c8964~mv2.jpg
+imageAlt: Denize Düşen Konteynerlerin Raporlanması Artık Zorunlu
+wixId: cc48c29c-c5d4-4096-812a-a27a78facfa3
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- konteyner kaybı
+- deniz güvenliği
+- IMO
+- WSC
+- çevre koruması
+- zorunlu raporlama
+- denizcilik düzenlemesi
 ---
 <p>Dünya Denizcilik Konseyi (World Shipping Council - WSC), 2026 itibarıyla denize düşen tüm konteynerlerin zorunlu olarak raporlanması gerektiğini öngören yeni Uluslararası Denizcilik Örgütü (International Maritime Organization - IMO) kuralını desteklediğini açıkladı. IMO, bu kuralın denizdeki çöplerle mücadele için gerekliliğini vurgularken, kaybolan konteynerlerin yelkenli tekneler, balıkçı gemileri ve diğer küçük deniz araçları için ciddi bir tehlike oluşturduğunu belirtti. Bu yeni düzenleme, deniz güvenliğini ve çevre korumayı önemli ölçüde ileri taşıyacak bir adım olarak görülüyor.</p>
 <p><br></p>

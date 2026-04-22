@@ -1,16 +1,23 @@
 ---
-title: "Three Steps to Supply Chain Decarbonization"
-subtitle: "Three Steps to Supply Chain Decarbonization"
-date: "2025-05-05T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_47f8ca0f88304ecab823a41785b16558~mv2.png"
-imageAlt: "Three Steps to Supply Chain Decarbonization"
-wixId: "8bc70e70-a9f9-48a5-971b-539a1604d7d1"
-author: "Sedat Onat"
+title: Three Steps to Supply Chain Decarbonization
+subtitle: Three Steps to Supply Chain Decarbonization
+date: '2025-05-05T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_47f8ca0f88304ecab823a41785b16558~mv2.png
+imageAlt: Three Steps to Supply Chain Decarbonization
+wixId: 8bc70e70-a9f9-48a5-971b-539a1604d7d1
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- decarbonization
+- Scope 3 emissions
+- supply chain
+- supplier engagement
+- SBTi
+- carbon footprint
+- sustainability
 ---
-
 <p style="text-align: justify"><strong>Supply chain decarbonization</strong> now requires a structured <strong>roadmap</strong> that extends beyond direct emissions (Scope 1–2) to encompass <strong>indirect emissions management (Scope 3)</strong>. For businesses, this process transforms into a comprehensive transformation program incorporating data consolidation, abatement portfolio development, and corporate governance measures.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>First step: Emissions inventory consolidation.</strong><br>

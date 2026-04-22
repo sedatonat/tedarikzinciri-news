@@ -1,16 +1,23 @@
 ---
-title: "DHL Enhances Operations and Customer Communication with HappyRobot AI Agents"
-subtitle: "DHL Enhances Operations and Customer Communication with HappyRobot AI Agents"
-date: "2025-11-25T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_14f64166743f40b6b5ffc8ef0056dea7~mv2.jpg"
-imageAlt: "DHL Supply Chain's collaboration with HappyRobot to automate phone, email, and messaging processes with autonomous AI agents, detailing the transformation in operational efficiency and customer experience"
-wixId: "f9e35786-ef3f-4308-a8d0-7b2fbace1b31"
-author: "Sedat Onat"
+title: DHL Enhances Operations and Customer Communication with HappyRobot AI Agents
+subtitle: DHL Enhances Operations and Customer Communication with HappyRobot AI Agents
+date: '2025-11-25T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_14f64166743f40b6b5ffc8ef0056dea7~mv2.jpg
+imageAlt: DHL Supply Chain's collaboration with HappyRobot to automate phone, email, and messaging processes with autonomous AI agents, detailing the transformation in operational efficiency and customer experience
+wixId: f9e35786-ef3f-4308-a8d0-7b2fbace1b31
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- DHL
+- HappyRobot
+- artificial intelligence
+- agentic AI
+- logistics automation
+- customer communication
+- warehouse management
 ---
-
 <p style="text-align: justify"><strong>DHL Group</strong>, the global logistics giant accelerating its artificial intelligence strategy, has launched a comprehensive partnership between its contract logistics unit <strong>DHL Supply Chain</strong> and AI startup <strong>HappyRobot</strong>. This partnership centers on the use of <strong>agentic AI</strong> in automating high-volume operational communications and holds significant potential to drive transformation across both customer-facing processes and employee experience at DHL.</p>
 <p><br></p>
 <p style="text-align: justify">DHL Supply Chain is already actively deploying HappyRobot's <strong>AI agents</strong> solutions across different regions worldwide. These agents manage high-volume, repetitive processes such as appointment scheduling, driver communications, and critical warehouse coordination through fully autonomous interactions via <strong>phone</strong>, <strong>email</strong>, and <strong>messaging</strong>. This enables operations teams to shift focus away from routine tasks toward exception management and customer-centric processes.</p>

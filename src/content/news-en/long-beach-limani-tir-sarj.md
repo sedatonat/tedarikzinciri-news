@@ -1,16 +1,23 @@
 ---
-title: "Port of Long Beach Opens North America's Largest Zero-Emission Truck Charging Hub"
-subtitle: "Port of Long Beach Opens North America's Largest Zero-Emission Truck Charging Hub"
-date: "2024-12-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_96933ca3430a4f82b152cb60568a0d25~mv2.jpg"
-imageAlt: "The massive facility with 30 ultra-fast charging units opened at the Port of Long Beach serves a fleet of 79 zero-emission Class 8 trucks and supports California's 2035 zero-emission targets."
-wixId: "c7a4d6a4-e406-4042-b27b-7b00d288cb4c"
-author: "Sedat Onat"
+title: Port of Long Beach Opens North America's Largest Zero-Emission Truck Charging Hub
+subtitle: Port of Long Beach Opens North America's Largest Zero-Emission Truck Charging Hub
+date: '2024-12-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_96933ca3430a4f82b152cb60568a0d25~mv2.jpg
+imageAlt: The massive facility with 30 ultra-fast charging units opened at the Port of Long Beach serves a fleet of 79 zero-emission Class 8 trucks and supports California's 2035 zero-emission targets.
+wixId: c7a4d6a4-e406-4042-b27b-7b00d288cb4c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Long Beach Port
+- zero-emission truck
+- charging infrastructure
+- sustainable logistics
+- California
+- 4 Gen Logistics
+- electric vehicle fleet
 ---
-
 <p style="text-align: justify">The <strong>Port of Long Beach</strong>, one of the United States' busiest port complexes, has opened what is North America's largest <strong>Class 8 zero-emission truck charging facility</strong> to date. This milestone is viewed as a pivotal turning point both for strengthening sustainable logistics infrastructure in the San Pedro Bay port region and for meeting California's <strong>2035 zero-emission drayage truck mandate</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The new Long Beach charging hub is operated by <strong>4 Gen Logistics</strong> and features <strong>30 ultra-fast charging units</strong> that form the facility's backbone, providing uninterrupted power to the company's fleet of 79 zero-emission trucks. The facility will be expanded shortly to serve other battery-electric heavy-duty vehicles operating within the San Pedro Bay port complex.</p>

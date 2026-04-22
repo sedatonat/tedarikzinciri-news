@@ -1,14 +1,22 @@
 ---
-title: "ABD Sahil Güvenlik Siber Güvenlik Kuralı Yürürlükte"
-subtitle: "ABD Sahil Güvenlik Siber Güvenlik Kuralı Yürürlükte"
-date: "2025-07-25T00:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_d84bbfe3ded1455796c970cbdb016171~mv2.png"
-imageAlt: "Abd Sahil Güvenlik Siber Güvenlik Kuralı Yürürlükte"
-wixId: "ff4f05d6-c638-4b98-8d78-618621d59c05"
-author: "Sedat Onat"
+title: ABD Sahil Güvenlik Siber Güvenlik Kuralı Yürürlükte
+subtitle: ABD Sahil Güvenlik Siber Güvenlik Kuralı Yürürlükte
+date: '2025-07-25T00:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_d84bbfe3ded1455796c970cbdb016171~mv2.png
+imageAlt: Abd Sahil Güvenlik Siber Güvenlik Kuralı Yürürlükte
+wixId: ff4f05d6-c638-4b98-8d78-618621d59c05
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- siber güvenlik
+- ABD Sahil Güvenlik
+- liman güvenliği
+- OT sistemleri
+- tedarik zinciri dayanıklılığı
+- risk analizi
+- denizcilik altyapısı
 ---
 <p><strong>ABD denizcilik altyapısında siber güvenlik</strong>, yeni yayımlanan <strong>U.S. Coast Guard (USCG)</strong> kural setiyle birlikte yeni bir döneme girdi. Yürürlüğe giren bu kapsamlı düzenleme, <strong>limanlar ve denizcilik tesisleri</strong> için siber güvenlikte zorunlu asgari standartları belirlemekte. Kurallar; <strong>risk assessment (risk analizi)</strong>, <strong>incident reporting (olay raporlaması)</strong>, <strong>response planning (müdahale planlaması)</strong> ve <strong>teknik kontrollerin uygulanması</strong> gibi alanlarda bağlayıcı hükümler içermekte.</p>
 <p><br></p>

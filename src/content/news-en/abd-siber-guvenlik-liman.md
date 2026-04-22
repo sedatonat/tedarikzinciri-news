@@ -1,16 +1,23 @@
 ---
-title: "U.S. Coast Guard Cybersecurity Rule Enters Into Force"
-subtitle: "U.S. Coast Guard Cybersecurity Rule Enters Into Force"
-date: "2025-07-25T00:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_d84bbfe3ded1455796c970cbdb016171~mv2.png"
-imageAlt: "U.S. Coast Guard Cybersecurity Rule Enters Into Force"
-wixId: "ff4f05d6-c638-4b98-8d78-618621d59c05"
-author: "Sedat Onat"
+title: U.S. Coast Guard Cybersecurity Rule Enters Into Force
+subtitle: U.S. Coast Guard Cybersecurity Rule Enters Into Force
+date: '2025-07-25T00:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_d84bbfe3ded1455796c970cbdb016171~mv2.png
+imageAlt: U.S. Coast Guard Cybersecurity Rule Enters Into Force
+wixId: ff4f05d6-c638-4b98-8d78-618621d59c05
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- U.S. Coast Guard
+- cybersecurity
+- maritime infrastructure
+- port operations
+- OT systems
+- incident reporting
+- supply chain resilience
 ---
-
 <p><strong>Cybersecurity in U.S. maritime infrastructure</strong> has entered a new era with the recently published <strong>U.S. Coast Guard (USCG)</strong> regulatory framework. This comprehensive regulation now in effect establishes mandatory minimum cybersecurity standards for <strong>ports and maritime facilities</strong>. The rules contain binding provisions in areas such as <strong>risk assessment</strong>, <strong>incident reporting</strong>, <strong>response planning</strong>, and the <strong>implementation of technical controls</strong>.</p>
 <p><br></p>
 <p>From a supply chain perspective, the regulation particularly strengthens cybersecurity resilience requirements for <strong>port operational technology (OT systems)</strong>—cranes, conveyors, fuel supply systems—as well as <strong>port community systems</strong>, <strong>customs interfaces</strong>, and <strong>terminal operating systems (TOS)</strong>. The protection of these systems is of critical importance for the <strong>continuity and security of ship-to-shore operations</strong>.</p>

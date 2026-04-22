@@ -1,14 +1,21 @@
 ---
-title: "Russian Railways' Net Profit 90% Lower Than Expected"
-subtitle: "Russian Railways' Net Profit 90% Lower Than Expected"
-date: "2024-12-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_80ac8cac983446d888225e5b6202789b~mv2.jpeg"
-imageAlt: "Russian Railways' Net Profit 90% Lower Than Expected"
-wixId: "1ba19d03-f0ac-4b58-92df-84d0770919dd"
-author: "Sedat Onat"
+title: Russian Railways' Net Profit 90% Lower Than Expected
+subtitle: Russian Railways' Net Profit 90% Lower Than Expected
+date: '2024-12-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_80ac8cac983446d888225e5b6202789b~mv2.jpeg
+imageAlt: Russian Railways' Net Profit 90% Lower Than Expected
+wixId: 1ba19d03-f0ac-4b58-92df-84d0770919dd
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Russian Railways
+- rail transport
+- Russia
+- financial performance
+- freight transport
+- staff shortage
+- locomotive shortage
 ---
-
 <p><strong>Russian Railways (RZD)</strong> closed 2024 with net profit 90% lower than projected. The company's financial surplus reached 15 billion rubles (142.4 million euros), while the target figure was 122 billion rubles (1.16 billion euros).</p>\n<p><br></p>\n<p>Throughout 2024, <strong>RZD</strong> faced staff and locomotive shortages, encountering declining cargo volumes each month. Preliminary results show the company achieved only one-tenth of its annual target. This situation requires <strong>RZD</strong> to revise its investment program and financial plan for the coming year. At a forthcoming meeting, financial plans for 2025 will be discussed.</p>\n<p><br></p>\n<p>According to preliminary data, <strong>RZD</strong>'s cargo volume fell 4% compared to 2023, falling 6.5% short of projections. Instead of the targeted 1,265.4 million tons, 1,189.9 million tons were loaded. Losses were particularly significant in construction materials (-32 million tons), coal (-28 million tons), ores (-14.9 million tons), ferrous metals (-6.3 million tons), and petroleum products (-4.4 million tons).</p>\n<p><br></p>\n<p>Beyond staff and locomotive shortages, price disputes with Taman Port in the Black Sea and a shift toward road transportation also contributed to these adverse results.</p>\n<p>Compounding these challenges, two major accidents occurred recently on Russia's railway network. In the Zabaykalsky region of eastern Russia, an axle fracture caused a freight train carrying 42 wagons to derail. Additionally, a passenger train collided with a freight train in the Murmansk region; one woman was killed and 22 people were injured in the accident.</p>\n<p><br></p>\n<p><strong>RZD</strong>, Russia's largest employer, employed 685,200 people in 2024. However, due to rising interest rates and economic challenges, the company's net debt is expected to reach 3.90 trillion rubles in 2025. This situation has led the company to plans to significantly reduce its investment program. In particular, budget cuts are anticipated for the expansion of the Baikal-Amur Mainline and the Trans-Siberian Railway, aimed at increasing trade with Asia.</p>\n<p><br></p>\n<p>While Russia's economy has shown recovery following Western sanctions, high military expenditures have driven inflation and consumer spending increases. This economic overheating has prompted the Russian Central Bank to raise interest rates. The Central Bank projects average interest rates will range from 17% to 20% in 2025, increasing the financial burden on companies.</p>\n<p><br></p>\n<p><strong>RZD</strong> plans to allocate 687.5 billion rubles (6.91 billion dollars) for interest payments in 2025, representing approximately a sixfold increase compared to 2023. Additionally, with corporate tax rising from 20% to 25%, annual profit for 2025 is expected to fall to 81.6 billion rubles, representing a decline of more than 50% compared to 2023.</p>\n<p><br></p>\n<p>In conclusion, <strong>Russian Railways</strong> achieved far lower profit than expected in 2024 and faces rising costs and economic headwinds in 2025. The company will be forced to reassess its investment programs and financial strategies to address these challenges.</p>\n<p><br></p>\n<h5><strong>Key Points:</strong></h5>\n<ul>\n  <li><p><strong>RZD</strong> achieved only 10% of its expected net profit in 2024.</p></li>\n  <li><p>Cargo volume declined 4% compared to 2023.</p></li>\n  <li><p>Staff and locomotive shortages negatively impacted financial results.</p></li>\n  <li><p>Interest payments are expected to increase sixfold in 2025.</p></li>\n  <li><p>Significant cuts to investment programs are planned.</p></li>\n  <li><p>Rising economic challenges require the company to reassess its financial strategies.</p></li>\n</ul>\n<p><br></p>\n<p>---</p>\n<p><strong>News Link: </strong><a href="https://www.railfreight.com/beltandroad/2024/12/23/russian-railways-net-profit-90-per-cent-lower-than-projected/"><u>https://www.railfreight.com/beltandroad/2024/12/23/russian-railways-net-profit-90-per-cent-lower-than-projected/</u></a></p>\n<p>-------------------</p>\n<p><strong>!!! ANNOUNCEMENT !!!</strong></p>\n<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>\n<p>#What is ERP?</p>\n<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>\n<p>We would be delighted to receive your feedback.</p>\n<p>Wishing you happy reading in advance.</p>

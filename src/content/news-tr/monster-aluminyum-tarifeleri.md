@@ -1,14 +1,22 @@
 ---
-title: "Monster, Alüminyum Tarifeleri Nedeniyle Artan Maliyetlerde “Sınırlı Etki” Bekliyor"
-subtitle: "Monster, Alüminyum Tarifeleri Nedeniyle Artan Maliyetlerde “Sınırlı Etki” Bekliyor"
-date: "2025-11-20T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_f6fbdd2cd3df44d3881b9b929207ff29~mv2.jpg"
-imageAlt: "Monster Beverage, ithal alüminyum üzerindeki Section 232 tarifelerinin artırdığı Midwest aluminum premium nedeniyle kutu maliyetlerinin yükseldiğini açıkladı; şirket etkileri “mütevazı” düzeyde tutmak için mitigasyon stratejileri uyguluyor."
-wixId: "d37ff20a-b711-4b2f-906e-2755996a9de1"
-author: "Sedat Onat"
+title: Monster, Alüminyum Tarifeleri Nedeniyle Artan Maliyetlerde “Sınırlı Etki” Bekliyor
+subtitle: Monster, Alüminyum Tarifeleri Nedeniyle Artan Maliyetlerde “Sınırlı Etki” Bekliyor
+date: '2025-11-20T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_f6fbdd2cd3df44d3881b9b929207ff29~mv2.jpg
+imageAlt: Monster Beverage, ithal alüminyum üzerindeki Section 232 tarifelerinin artırdığı Midwest aluminum premium nedeniyle kutu maliyetlerinin yükseldiğini açıkladı; şirket etkileri “mütevazı” düzeyde tutmak için mitigasyon stratejileri uyguluyor.
+wixId: d37ff20a-b711-4b2f-906e-2755996a9de1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Monster Beverage
+- alüminyum tarifeleri
+- üretim maliyetleri
+- ambalaj maliyetleri
+- tedarik zinciri
+- içecek sektörü
+- Section 232
 ---
 <p style="text-align: justify"><strong>Monster Beverage</strong>, ithal alüminyuma uygulanan yüksek tarifeler nedeniyle üretim maliyetlerinde artış yaşadığını ancak etkilerin <strong>sınırlı (modest)</strong> kalmasını beklediğini açıkladı. CEO ve Başkan Yardımcısı <strong>Hilton Schlosberg</strong>, 6 Kasım tarihli kazanç çağrısında şirketin en büyük maliyet baskısının <strong>kutu üretiminde kullanılan alüminyum</strong>dan kaynaklandığını ifade etti.</p>
 <p><br></p>

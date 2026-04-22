@@ -1,14 +1,23 @@
 ---
-title: "Exotec ve E80 Ortaklığı: CPG ve Gıda Depolarında Otomasyon"
-subtitle: "Exotec ve E80 Ortaklığı: CPG ve Gıda Depolarında Otomasyon"
-date: "2025-09-10T00:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_75203954941645a8a57c72b68f6433bb~mv2.png"
-imageAlt: "Exotec Ve E80 Ortaklığı: Cpg Ve Gıda Depolarında Otomasyon"
-wixId: "7469d4d5-acb9-4098-8a68-89021ba9bd83"
-author: "Sedat Onat"
+title: 'Exotec ve E80 Ortaklığı: CPG ve Gıda Depolarında Otomasyon'
+subtitle: 'Exotec ve E80 Ortaklığı: CPG ve Gıda Depolarında Otomasyon'
+date: '2025-09-10T00:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_75203954941645a8a57c72b68f6433bb~mv2.png
+imageAlt: 'Exotec Ve E80 Ortaklığı: Cpg Ve Gıda Depolarında Otomasyon'
+wixId: 7469d4d5-acb9-4098-8a68-89021ba9bd83
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Exotec
+- E80 Group
+- depo otomasyonu
+- CPG
+- soğuk zincir
+- AI orchestration
+- micro-fulfillment
+- digital twin
 ---
 <p>CPG ve market tedarik zincirlerinde hız, doğruluk ve raf tazeliği beklentisi giderek artıyor. Bu doğrultuda <strong>Exotec</strong> ile <strong>E80 Group</strong> arasında kurulan yeni ortaklık, depo otomasyonuna yenilikçi bir mimari kazandırıyor. Bu model, Exotec’in çok katlı <strong>Skypod shuttle/robot taşıma sistemini</strong>, E80’nin <strong>paletleme, depalletizing ve iç lojistikteki uzmanlığı</strong> ile birleştiriyor. Amaç; karmaşık sipariş yapısına sahip gıda perakendesinde doğruluk, hız ve raf tazeliği dengesini yeniden tanımlamak.</p>
 <p><br></p>

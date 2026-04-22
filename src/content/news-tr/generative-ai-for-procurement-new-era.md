@@ -1,14 +1,22 @@
 ---
-title: "Tedarik ve Satın Alma Süreçlerinde Üretici Yapay Zeka: Beklentilerden Gerçekliğe"
-subtitle: "Tedarik ve Satın Alma Süreçlerinde Üretici Yapay Zeka: Beklentilerden Gerçekliğe"
-date: "2024-07-25T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_8e4b816434fd41868b9f1193dd6048d2~mv2.jpg"
-imageAlt: "Tedarik ve Satın Alma Süreçlerinde Üretici Yapay Zeka: Beklentilerden Gerçekliğe"
-wixId: "3188680b-d7bf-4a35-b855-67cd32994f9f"
-author: "Sedat Onat"
+title: 'Tedarik ve Satın Alma Süreçlerinde Üretici Yapay Zeka: Beklentilerden Gerçekliğe'
+subtitle: 'Tedarik ve Satın Alma Süreçlerinde Üretici Yapay Zeka: Beklentilerden Gerçekliğe'
+date: '2024-07-25T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_8e4b816434fd41868b9f1193dd6048d2~mv2.jpg
+imageAlt: 'Tedarik ve Satın Alma Süreçlerinde Üretici Yapay Zeka: Beklentilerden Gerçekliğe'
+wixId: 3188680b-d7bf-4a35-b855-67cd32994f9f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- üretici yapay zeka
+- GenAI
+- tedarik zinciri
+- satın alma
+- sözleşme yönetimi
+- tedarikçi yönetimi
+- Gartner
 ---
 <p>Son dönemde, tedarik ve satın alma süreçlerinde Üretici Yapay Zeka'nın (GenAI) potansiyel kullanım alanları üzerine artan bir ilgi gözlemleniyor. Gartner'ın son araştırmasına göre, bu teknoloji iki yıl içinde yaygın bir şekilde benimsenebilir hale gelebilir. Üretici Yapay Zeka, metin, görüntü, video gibi çeşitli içerikler üretebilen bir teknolojidir ve özellikle ChatGPT gibi popüler örnekleriyle tanınıyor. Gartner, GenAI'nin şu anda "şişirilmiş beklentiler" zirvesinde olduğunu belirtiyor. Ancak bu, GenAI'nin hızlı bir şekilde olgunlaşma sürecine gireceği ve tedarik zincirlerinde önemli bir rol oynayacağı anlamına geliyor.</p>
 <p><br></p>

@@ -1,14 +1,23 @@
 ---
-title: "Günlük 1 Milyar Dolarlık İhracat: Çin, ABD Tarifelerine Rağmen Müzakere Gücünü Koruyor"
-subtitle: "Günlük 1 Milyar Dolarlık İhracat: Çin, ABD Tarifelerine Rağmen Müzakere Gücünü Koruyor"
-date: "2025-10-22T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/11062b_9bd869e00b774de699f1d757e8286d11~mv2.jpg"
-imageAlt: "Günlük 1 Milyar Dolarlık İhracat: Çin, ABD Tarifelerine Rağmen Müzakere Gücünü Korumakta"
-wixId: "5f69e44b-cf36-45b8-93ed-478ab21cd178"
-author: "Sedat Onat"
+title: 'Günlük 1 Milyar Dolarlık İhracat: Çin, ABD Tarifelerine Rağmen Müzakere Gücünü Koruyor'
+subtitle: 'Günlük 1 Milyar Dolarlık İhracat: Çin, ABD Tarifelerine Rağmen Müzakere Gücünü Koruyor'
+date: '2025-10-22T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/11062b_9bd869e00b774de699f1d757e8286d11~mv2.jpg
+imageAlt: 'Günlük 1 Milyar Dolarlık İhracat: Çin, ABD Tarifelerine Rağmen Müzakere Gücünü Korumakta'
+wixId: 5f69e44b-cf36-45b8-93ed-478ab21cd178
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Çin
+- ABD
+- ticaret savaşı
+- gümrük tarifeleri
+- tedarik zinciri
+- ihracat
+- e-ticaret
+- nadir toprak elementleri
 ---
 <p style="text-align: justify"><strong>ABD Başkanı Donald Trump’ın</strong> başlattığı yeni ticaret savaşı altıncı ayına girerken, <strong>Çin’in ihracat dayanıklılığı</strong> Pekin’in küresel tedarik zincirlerindeki kilit rolünü açık biçimde ortaya koymakta.</p>
 <p><br>

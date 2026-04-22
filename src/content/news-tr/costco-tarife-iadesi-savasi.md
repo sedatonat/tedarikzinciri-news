@@ -1,14 +1,22 @@
 ---
-title: "Costco, Trump Yönetimine Karşı Tarife İadesi Davası Açtı"
-subtitle: "Costco, Trump Yönetimine Karşı Tarife İadesi Davası Açtı"
-date: "2025-12-03T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_22bcc5a307d14b9790b2a7d2d48b91ea~mv2.jpg"
-imageAlt: "Costco’nun Trump yönetiminin IEEPA kapsamında uyguladığı küresel tarifeler için iade talebiyle açtığı dava, Supreme Court süreci, presedans etkisi ve potansiyel yüz milyar dolarlık iade riskinin detaylı özeti"
-wixId: "b482500d-12fc-45e1-867e-8e4b0929c472"
-author: "Sedat Onat"
+title: Costco, Trump Yönetimine Karşı Tarife İadesi Davası Açtı
+subtitle: Costco, Trump Yönetimine Karşı Tarife İadesi Davası Açtı
+date: '2025-12-03T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_22bcc5a307d14b9790b2a7d2d48b91ea~mv2.jpg
+imageAlt: Costco’nun Trump yönetiminin IEEPA kapsamında uyguladığı küresel tarifeler için iade talebiyle açtığı dava, Supreme Court süreci, presedans etkisi ve potansiyel yüz milyar dolarlık iade riskinin detaylı özeti
+wixId: b482500d-12fc-45e1-867e-8e4b0929c472
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Costco
+- tarife
+- Trump yönetimi
+- IEEPA
+- dava
+- gümrük
+- ABD perakende
 ---
 <p style="text-align: justify">ABD’nin büyük perakende devlerinden <strong>Costco</strong>, Başkan <strong>Donald Trump</strong> yönetimine karşı <strong>US Court of International Trade (USCIT)</strong> nezdinde dava açarak yıl boyunca ödediği tarifelerin iadesini talep etti. Trump yönetimi 2025’te, <strong>self-declared national emergency</strong> kapsamında <strong>IEEPA (International Emergency Economic Powers Act)</strong> yetkilerini kullanarak çok sayıda ürüne <strong>global-level levies</strong> getirmişti. Costco’nun adımı, bu tarifelerin hukuka uygunluğu konusunda <strong>Supreme Court</strong> tarafından yürütülen inceleme devam ederken geldi.</p>
 <p><br></p>

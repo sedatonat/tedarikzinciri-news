@@ -1,14 +1,22 @@
 ---
-title: "Kanadalı Havayolu Air Transat, Pilot Grevi Tehdidi Nedeniyle Uçuşları Askıya Almaya Başlıyor"
-subtitle: "Kanadalı Havayolu Air Transat, Pilot Grevi Tehdidi Nedeniyle Uçuşları Askıya Almaya Başlıyor"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0fc33f202ef24f79b444e8cc8d0b0d0d~mv2.jpg"
-imageAlt: "Air Transat pilotlarının 72 saatlik grev bildirimi sonrası havayolunun kademeli uçuş askıya alma kararı, sendika–yönetim gerilimi, operasyonel riskler ve Kanada havacılık sektörü üzerindeki etkilerin detaylı özeti"
-wixId: "84bf57a8-790a-4509-93db-aae604e41bf5"
-author: "Sedat Onat"
+title: Kanadalı Havayolu Air Transat, Pilot Grevi Tehdidi Nedeniyle Uçuşları Askıya Almaya Başlıyor
+subtitle: Kanadalı Havayolu Air Transat, Pilot Grevi Tehdidi Nedeniyle Uçuşları Askıya Almaya Başlıyor
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0fc33f202ef24f79b444e8cc8d0b0d0d~mv2.jpg
+imageAlt: Air Transat pilotlarının 72 saatlik grev bildirimi sonrası havayolunun kademeli uçuş askıya alma kararı, sendika–yönetim gerilimi, operasyonel riskler ve Kanada havacılık sektörü üzerindeki etkilerin detaylı özeti
+wixId: 84bf57a8-790a-4509-93db-aae604e41bf5
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Air Transat
+- pilot grevi
+- havacılık sektörü
+- Kanada
+- sendika müzakereleri
+- uçuş iptali
+- tedarik zinciri
 ---
 <p style="text-align: justify">Kanada’nın en büyük havayollarından biri olan <strong>Air Transat</strong>, pilot sendikasının grev bildirimi sonrası operasyonlarını kademeli olarak askıya almaya başladığını duyurdu. Şirket, <strong>Air Line Pilots Association, Int’l (ALPA)</strong> tarafından 7 Aralık’ta verilen <strong>72 saatlik strike notice</strong>’ın ardından, ani ve plansız bir operasyon kesintisinin yaratacağı kaosu önlemek amacıyla bu kararı aldığını açıkladı. İlk askıya almalar <strong>8 Aralık</strong> itibarıyla devreye girmekte.</p>
 <p><br></p>

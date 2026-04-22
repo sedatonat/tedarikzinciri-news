@@ -1,16 +1,23 @@
 ---
-title: "RAIN RFID Boosts Logistics Visibility by Reducing Delivery Errors"
-subtitle: "RAIN RFID Boosts Logistics Visibility by Reducing Delivery Errors"
-date: "2025-12-08T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_532823d09997466abf38d2e7f70320d6~mv2.jpg"
-imageAlt: "A detailed summary of how Impinj's RAIN RFID technology eliminates root causes of misload and delivery errors, with a UPS example showing measurable operational gains and impact on logistics accuracy during peak seasons"
-wixId: "a3fd37d7-a937-4f4c-a316-4da71eecaf20"
-author: "Sedat Onat"
+title: RAIN RFID Boosts Logistics Visibility by Reducing Delivery Errors
+subtitle: RAIN RFID Boosts Logistics Visibility by Reducing Delivery Errors
+date: '2025-12-08T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_532823d09997466abf38d2e7f70320d6~mv2.jpg
+imageAlt: A detailed summary of how Impinj's RAIN RFID technology eliminates root causes of misload and delivery errors, with a UPS example showing measurable operational gains and impact on logistics accuracy during peak seasons
+wixId: a3fd37d7-a937-4f4c-a316-4da71eecaf20
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- RAIN RFID
+- delivery errors
+- logistics visibility
+- UPS
+- misload
+- supply chain
+- automation
 ---
-
 <p style="text-align: justify">As logistics operations enter peak seasons, they face increasing instances of <strong>delivery errors</strong> and particularly <strong>misload</strong> problems due to rising volumes, time pressure, and complex routing decisions. Despite automation advances across many stages, packages being loaded onto the wrong vehicle or routed incorrectly continue to create significant costs across the industry. In this context, <strong>Impinj</strong> Vice President of Product Management <strong>Gagan Luthra</strong> details how <strong>RAIN RFID</strong> technology solves these chronic problems.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>RAIN RFID</strong> is defined as a passive, battery-free, and low-cost <strong>wireless identification</strong> technology. Its ability to operate without line of sight, read up to <strong>1,000 tagged items per second</strong> simultaneously, and provide <strong>item-level visibility</strong> make the technology attractive for logistics operations. Data obtained through fixed or portable readers is transferred to enterprise systems and transformed into <strong>actionable insights</strong> that support operational decisions.</p>

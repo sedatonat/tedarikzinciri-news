@@ -1,16 +1,23 @@
 ---
-title: "Baltic Klipper Loses 16–18 Containers in Severe Weather: Solent Traffic and Coastguard Alarmed"
-subtitle: "Baltic Klipper Loses 16–18 Containers in Severe Weather: Solent Traffic and Coastguard Alarmed"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1fd79017ce3b464bb7c8c1f0ed94c7df~mv2.webp"
-imageAlt: ""
-wixId: "3908b4e4-03e6-4db4-9f16-ed2caa667b0b"
-author: "Sedat Onat"
+title: 'Baltic Klipper Loses 16–18 Containers in Severe Weather: Solent Traffic and Coastguard Alarmed'
+subtitle: 'Baltic Klipper Loses 16–18 Containers in Severe Weather: Solent Traffic and Coastguard Alarmed'
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1fd79017ce3b464bb7c8c1f0ed94c7df~mv2.webp
+imageAlt: ''
+wixId: 3908b4e4-03e6-4db4-9f16-ed2caa667b0b
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Baltic Klipper
+- container loss
+- maritime accident
+- Solent
+- coast guard
+- MCA
+- navigation hazard
 ---
-
 <p style="text-align: justify">The <strong>Solent waterway</strong>, one of the busiest maritime traffic corridors in the United Kingdom, experienced a serious maritime incident on Saturday evening, December 6. The <strong>Baltic Klipper</strong>, a <strong>reefer vessel</strong>, encountered severe weather conditions near the <strong>Nab Tower</strong> lighthouse off the Isle of Wight coast and <strong>lost 16–18 containers overboard</strong>. According to information confirmed by the UK <strong>Maritime and Coastguard Agency (MCA)</strong>, eight of the lost containers were loaded with bananas, others with plantains and avocados; five containers were empty.</p>
 <p><br></p>
 <p style="text-align: justify">The container loss from Baltic Klipper created a serious <strong>navigational hazard</strong> not only for the local environment but also for UK maritime operations. The Solent region serves as a strategic corridor for commercial vessels, ferries, fishing boats, and cruise ships. Floating or semi-submerged containers pose a high collision risk to smaller tonnage vessels. For this reason, the MCA partially slowed traffic in the region immediately following the incident.</p>

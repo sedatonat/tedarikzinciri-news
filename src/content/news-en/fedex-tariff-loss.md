@@ -1,16 +1,23 @@
 ---
-title: "FedEx Braces for $1 Billion Loss Due to Tariffs"
-subtitle: "FedEx Braces for $1 Billion Loss Due to Tariffs"
-date: "2025-09-23T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a8b9d91dcb644679b253a149c2760a6b~mv2.png"
-imageAlt: "FedEx Braces for $1 Billion Loss Due to Tariffs"
-wixId: "0c37ea1a-347f-439e-9e0b-4f77abf51e12"
-author: "Sedat Onat"
+title: FedEx Braces for $1 Billion Loss Due to Tariffs
+subtitle: FedEx Braces for $1 Billion Loss Due to Tariffs
+date: '2025-09-23T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a8b9d91dcb644679b253a149c2760a6b~mv2.png
+imageAlt: FedEx Braces for $1 Billion Loss Due to Tariffs
+wixId: 0c37ea1a-347f-439e-9e0b-4f77abf51e12
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- FedEx
+- customs tariffs
+- logistics costs
+- e-commerce logistics
+- AI
+- route optimization
+- parcel delivery
 ---
-
 <p>FedEx is anticipating approximately $1 billion in revenue losses due to new customs tariffs. Rising import duties and fuel costs are impacting parcel delivery operations. The company is working to mitigate effects through route optimization and cost-sharing partnerships. Experts note that tariff pressure will be reflected in e-commerce logistics costs. FedEx is reshaping its routing and pricing strategies with AI-driven forecasting systems.</p>
 <p><br></p>
 <p><strong>Key Points:</strong><br>

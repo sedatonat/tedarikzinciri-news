@@ -1,14 +1,22 @@
 ---
-title: "Amazon, Bir Saat İçinde Mağazadan Teslim Al Modelini Test Etmeye Hazırlanıyor"
-subtitle: "Amazon, Bir Saat İçinde Mağazadan Teslim Al Modelini Test Etmeye Hazırlanıyor"
-date: "2025-12-12T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_2e3a6dd417ac4db4acf4117975eadd22~mv2.jpg"
-imageAlt: "Amazon’un online ve fiziksel mağaza stoklarını tek siparişte birleştiren ve bir saat içinde teslim alma imkânı sunacak “rush pickup” modeli, click-and-collect pazarındaki rekabet ve fulfillment stratejisine etkilerinin detaylı özeti"
-wixId: "25f6862b-450f-49f7-982d-f7b425d23a11"
-author: "Sedat Onat"
+title: Amazon, Bir Saat İçinde Mağazadan Teslim Al Modelini Test Etmeye Hazırlanıyor
+subtitle: Amazon, Bir Saat İçinde Mağazadan Teslim Al Modelini Test Etmeye Hazırlanıyor
+date: '2025-12-12T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_2e3a6dd417ac4db4acf4117975eadd22~mv2.jpg
+imageAlt: Amazon’un online ve fiziksel mağaza stoklarını tek siparişte birleştiren ve bir saat içinde teslim alma imkânı sunacak “rush pickup” modeli, click-and-collect pazarındaki rekabet ve fulfillment stratejisine etkilerinin detaylı özeti
+wixId: 25f6862b-450f-49f7-982d-f7b425d23a11
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Amazon
+- mağazadan teslim alma
+- click-and-collect
+- hızlı teslimat
+- Whole Foods
+- omnichannel
+- perakende lojistiği
 ---
 <p style="text-align: justify"><strong>Amazon</strong>, fulfillment hızını daha da artırmak ve sahip olduğu fiziksel mağaza ağını daha verimli kullanmak amacıyla yeni bir <strong>one-hour in-store pickup</strong> modeli üzerinde çalışmakta. <strong>Business Insider</strong> kaynaklı habere göre şirket, dahili olarak “<strong>rush pickup</strong>” olarak adlandırılan bu yeni hizmetle müşterilerin siparişlerini <strong>bir saat içinde Amazon’a ait mağazalardan teslim alabilmesini</strong> hedeflemekte.</p>
 <p><br></p>

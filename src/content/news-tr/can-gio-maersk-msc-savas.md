@@ -1,14 +1,22 @@
 ---
-title: "Vietnam’ın 6 Milyar Dolarlık “Can Gio Süper Limanı” İçin Maersk ve MSC Arasında Rekabet Kızışıyor"
-subtitle: "Vietnam’ın 6 Milyar Dolarlık “Can Gio Süper Limanı” İçin Maersk ve MSC Arasında Rekabet Kızışıyor"
-date: "2025-12-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8e3045ecdd9e4892b36aecea808da582~mv2.jpg"
-imageAlt: "Ho Chi Minh City yakınındaki Can Gio International Transshipment Port projesi için Maersk ve MSC’nin rekabeti, 16.9 milyon TEU kapasiteli süper limanın stratejik önemi ve 2M sonrası oluşan yeni güç mücadelesinin detaylı özeti"
-wixId: "919baf3f-1414-4835-bddb-ce68b9d30143"
-author: "Sedat Onat"
+title: Vietnam’ın 6 Milyar Dolarlık “Can Gio Süper Limanı” İçin Maersk ve MSC Arasında Rekabet Kızışıyor
+subtitle: Vietnam’ın 6 Milyar Dolarlık “Can Gio Süper Limanı” İçin Maersk ve MSC Arasında Rekabet Kızışıyor
+date: '2025-12-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8e3045ecdd9e4892b36aecea808da582~mv2.jpg
+imageAlt: Ho Chi Minh City yakınındaki Can Gio International Transshipment Port projesi için Maersk ve MSC’nin rekabeti, 16.9 milyon TEU kapasiteli süper limanın stratejik önemi ve 2M sonrası oluşan yeni güç mücadelesinin detaylı özeti
+wixId: 919baf3f-1414-4835-bddb-ce68b9d30143
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Can Gio limanı
+- Maersk
+- MSC
+- Vietnam
+- transshipment
+- liman yatırımı
+- Güneydoğu Asya
 ---
 <p style="text-align: justify">Vietnam’ın güneyinde planlanan <strong>Can Gio International Transshipment Port</strong>, Güneydoğu Asya’nın gelecek on yılındaki en stratejik liman yatırımlarından biri olarak gösterilmekte. Yaklaşık <strong>6 milyar USD</strong> maliyetle inşa edilmesi planlanan bu dev “<strong>super-port</strong>”, yıllık yaklaşık <strong>16,9 milyon TEU</strong> kapasite hedefiyle Singapur’un bölgesel transshipment liderliğine meydan okumayı amaçlamakta.</p>
 <p><br></p>

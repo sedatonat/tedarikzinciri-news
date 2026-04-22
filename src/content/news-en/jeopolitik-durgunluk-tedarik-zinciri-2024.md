@@ -1,16 +1,23 @@
 ---
-title: "Geopolitical Uncertainties Rippling Across Global Supply Chains"
-subtitle: "Geopolitical Uncertainties Rippling Across Global Supply Chains"
-date: "2024-05-07T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_41788c38185a42d8b3f8558c31c26854~mv2.jpg"
-imageAlt: "Geopolitical Uncertainties Rippling Across Global Supply Chains"
-wixId: "c02e9740-a1e5-4168-b47e-37a23b373f21"
-author: "Sedat Onat"
+title: Geopolitical Uncertainties Rippling Across Global Supply Chains
+subtitle: Geopolitical Uncertainties Rippling Across Global Supply Chains
+date: '2024-05-07T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_41788c38185a42d8b3f8558c31c26854~mv2.jpg
+imageAlt: Geopolitical Uncertainties Rippling Across Global Supply Chains
+wixId: c02e9740-a1e5-4168-b47e-37a23b373f21
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- geopolitical risk
+- supply chain
+- Gartner
+- global economy
+- Russia
+- China
+- Strait of Hormuz
 ---
-
 <p>Ian Bremmer, speaking at the keynote session on the second day of the Gartner Supply Chain Symposium, described a "geopolitical recession" being imposed as a "tax" on global supply chains. Bremmer noted that geopolitics, like the global economy, experiences cyclical fluctuations, and we are currently in a period of recession marked by geopolitical uncertainty and conflict. At the root of this period lie fractures created by powerful nations no longer adhering to international rules. Bremmer stated that this situation will strain supply chains and manifest as a form of tax on businesses.</p>
 <p><br></p>
 <p>Bremmer outlined three main destabilizing factors underlying the current geopolitical recession:</p>

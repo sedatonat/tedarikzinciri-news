@@ -1,14 +1,23 @@
 ---
-title: "Drayage Operasyonlarını Güçlendirmek İçin Beş Dijitalleşme Stratejisi"
-subtitle: "Drayage Operasyonlarını Güçlendirmek İçin Beş Dijitalleşme Stratejisi"
-date: "2025-11-20T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_b74b7443b8224d9196e9e095b87269d1~mv2.jpg"
-imageAlt: "CargoWise Landside tarafından aktarılan en iyi uygulamalar, drayage sektörünün gerçek zamanlı görünürlük, otomasyon, mobilite, hızlı faturalama ve organizasyonel dijital dönüşüm ile nasıl daha verimli, ölçeklenebilir ve kârlı hâle gelebileceğini gösteriyor."
-wixId: "f83c9ad1-76fc-4a2e-b886-944efa729acc"
-author: "Sedat Onat"
+title: Drayage Operasyonlarını Güçlendirmek İçin Beş Dijitalleşme Stratejisi
+subtitle: Drayage Operasyonlarını Güçlendirmek İçin Beş Dijitalleşme Stratejisi
+date: '2025-11-20T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_b74b7443b8224d9196e9e095b87269d1~mv2.jpg
+imageAlt: CargoWise Landside tarafından aktarılan en iyi uygulamalar, drayage sektörünün gerçek zamanlı görünürlük, otomasyon, mobilite, hızlı faturalama ve organizasyonel dijital dönüşüm ile nasıl daha verimli, ölçeklenebilir ve kârlı hâle gelebileceğini gösteriyor.
+wixId: f83c9ad1-76fc-4a2e-b886-944efa729acc
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- drayage
+- dijitalleşme
+- otomasyon
+- CargoWise
+- lojistik operasyonları
+- mobil uygulamalar
+- faturalama otomasyonu
+- sürücü yönetimi
 ---
 <p><strong>Drayage sektörü</strong>, 2025’te her zamankinden daha yüksek baskı altında.</p>
 <ul>

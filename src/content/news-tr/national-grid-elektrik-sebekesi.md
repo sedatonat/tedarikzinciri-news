@@ -1,14 +1,22 @@
 ---
-title: "National Grid, 76,4 Milyar Dolar Değerindeki Yüksek Gerilim Tedarik Zinciri Çerçevesinden Pay Aldı"
-subtitle: "National Grid, 76,4 Milyar Dolar Değerindeki Yüksek Gerilim Tedarik Zinciri Çerçevesinden Pay Aldı"
-date: "2025-03-13T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_84db95f0eaf34cdea37b9a653818806e~mv2.jpg"
-imageAlt: "National Grid, 76,4 Milyar Dolar Değerindeki Yüksek Gerilim Tedarik Zinciri Çerçevesinden Pay Aldı"
-wixId: "a968dccb-5e14-41d0-b020-d6ef9276c19f"
-author: "Sedat Onat"
+title: National Grid, 76,4 Milyar Dolar Değerindeki Yüksek Gerilim Tedarik Zinciri Çerçevesinden Pay Aldı
+subtitle: National Grid, 76,4 Milyar Dolar Değerindeki Yüksek Gerilim Tedarik Zinciri Çerçevesinden Pay Aldı
+date: '2025-03-13T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_84db95f0eaf34cdea37b9a653818806e~mv2.jpg
+imageAlt: National Grid, 76,4 Milyar Dolar Değerindeki Yüksek Gerilim Tedarik Zinciri Çerçevesinden Pay Aldı
+wixId: a968dccb-5e14-41d0-b020-d6ef9276c19f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- National Grid
+- HVDC
+- enerji altyapısı
+- tedarik zinciri
+- yenilenebilir enerji
+- Birleşik Krallık
+- yüksek gerilim
 ---
 <p style="text-align: justify"><strong>Reuters</strong>’ın haberine göre, <strong>Birleşik Krallık’ın enerji altyapı devi National Grid</strong>, ülkenin <strong>yüksek gerilim doğru akım (HVDC – High Voltage Direct Current)</strong> altyapısını güçlendirmeye yönelik <strong>59 milyar sterlinlik (yaklaşık 76,4 milyar dolar)</strong> tedarik zinciri çerçevesinin iki bölümünü kazandı.</p>
 <p><br>

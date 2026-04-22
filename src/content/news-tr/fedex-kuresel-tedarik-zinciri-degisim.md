@@ -1,14 +1,23 @@
 ---
-title: "FedEx: Küresel Tedarik Zinciri Şokları Kalıcı Olacak, Yeni Bölgesel Denge Oluşuyor"
-subtitle: "FedEx: Küresel Tedarik Zinciri Şokları Kalıcı Olacak, Yeni Bölgesel Denge Oluşuyor"
-date: "2025-11-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e6b51b4eac8d479c905c11eb67ab9951~mv2.jpg"
-imageAlt: "FedEx CEO’su Raj Subramaniam, küresel ticaretin teknoloji, jeopolitik riskler ve tarifeler nedeniyle kalıcı olarak değiştiğini, tedarik zincirlerinin bölgeselleşmeye kaydığını ve bu dönüşümün geri döndürülmesinin zor olduğunu belirtti."
-wixId: "fb10c2ca-30ae-4b93-80e5-fb02b554df4a"
-author: "Sedat Onat"
+title: 'FedEx: Küresel Tedarik Zinciri Şokları Kalıcı Olacak, Yeni Bölgesel Denge Oluşuyor'
+subtitle: 'FedEx: Küresel Tedarik Zinciri Şokları Kalıcı Olacak, Yeni Bölgesel Denge Oluşuyor'
+date: '2025-11-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e6b51b4eac8d479c905c11eb67ab9951~mv2.jpg
+imageAlt: FedEx CEO’su Raj Subramaniam, küresel ticaretin teknoloji, jeopolitik riskler ve tarifeler nedeniyle kalıcı olarak değiştiğini, tedarik zincirlerinin bölgeselleşmeye kaydığını ve bu dönüşümün geri döndürülmesinin zor olduğunu belirtti.
+wixId: fb10c2ca-30ae-4b93-80e5-fb02b554df4a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- FedEx
+- tedarik zinciri
+- bölgeselleşme
+- ticaret savaşları
+- nearshoring
+- Çin-ABD ticareti
+- just-in-case
+- jeopolitik
 ---
 <p style="text-align: justify"><strong>FedEx CEO’su Raj Subramaniam</strong>, küresel tedarik zincirlerinde yaşanan dalgalanmaların geçici değil, <strong>kalıcı ve yapısal değişimler</strong> olduğunu söyledi. <strong>Bloomberg New Economy Forum</strong> kapsamında Singapur’da yaptığı konuşmada Subramaniam, özellikle <strong>teknolojik dönüşüm, jeopolitik gerilimler ve ticaret savaşları</strong> nedeniyle tedarik zincirlerinin “<strong>yeni bir denge noktasına</strong>” doğru ilerlediğini ifade etti.</p>
 <p><br></p>

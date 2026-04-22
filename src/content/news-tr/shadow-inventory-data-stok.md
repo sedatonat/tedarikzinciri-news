@@ -1,14 +1,23 @@
 ---
-title: "Gölge Envanter: Veri Silolarının Sakladığı Gerçekler"
-subtitle: "Gölge Envanter: Veri Silolarının Sakladığı Gerçekler"
-date: "2025-08-26T00:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_8dab9fd938414d57af5fa2c6049cade9~mv2.png"
-imageAlt: "Gölge Envanter: Veri Silolarının Sakladığı Gerçekler"
-wixId: "11c7b97d-30db-4fcc-bee5-2db088538b45"
-author: "Sedat Onat"
+title: 'Gölge Envanter: Veri Silolarının Sakladığı Gerçekler'
+subtitle: 'Gölge Envanter: Veri Silolarının Sakladığı Gerçekler'
+date: '2025-08-26T00:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_8dab9fd938414d57af5fa2c6049cade9~mv2.png
+imageAlt: 'Gölge Envanter: Veri Silolarının Sakladığı Gerçekler'
+wixId: 11c7b97d-30db-4fcc-bee5-2db088538b45
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- gölge envanter
+- veri siloları
+- stok yönetimi
+- AI
+- RFID
+- IoT
+- cloud ERP
+- tedarik zinciri
 ---
 <p style="text-align: justify">Shadow inventory, yani sistem dışında kalan stok verileri, tedarik zincirlerinde planlama hatalarının temel nedenlerinden biridir. Think Tank analizine göre, manuel süreçler ve silo hâlindeki sistemler, gerçek stok seviyesini gizlemekte ve karar doğruluğunu zayıflatmaktadır. Gartner raporlarına göre, işletmelerin %35’i aktif stoklarının bir kısmının kayıt dışı olduğunu tespit etmektedir.</p>
 <p style="text-align: justify"><br></p>

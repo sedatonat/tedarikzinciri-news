@@ -1,16 +1,23 @@
 ---
-title: "NorthStandard Eases FuelEU Compliance with BetterSea Partnership"
-subtitle: "NorthStandard Eases FuelEU Compliance with BetterSea Partnership"
-date: "2025-02-14T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_debd7dd6282144328c38f4427d184cb8~mv2.png"
-imageAlt: "NorthStandard Eases FuelEU Compliance with BetterSea Partnership"
-wixId: "26ccc8f0-0aa1-4fab-b8b9-dc57aeae0c83"
-author: "Sedat Onat"
+title: NorthStandard Eases FuelEU Compliance with BetterSea Partnership
+subtitle: NorthStandard Eases FuelEU Compliance with BetterSea Partnership
+date: '2025-02-14T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_debd7dd6282144328c38f4427d184cb8~mv2.png
+imageAlt: NorthStandard Eases FuelEU Compliance with BetterSea Partnership
+wixId: 26ccc8f0-0aa1-4fab-b8b9-dc57aeae0c83
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- FuelEU Maritime
+- decarbonization
+- NorthStandard
+- BetterSea
+- maritime regulations
+- greenhouse gas emissions
+- pooling mechanism
 ---
-
 <p style="text-align: justify"><strong>NorthStandard</strong>, in partnership with leading maritime digital decarbonization specialist <strong>BetterSea</strong>, is offering members discounted access to the <strong>BetterSea FuelEU Maritime Compliance</strong> service. This partnership facilitates shipowners' compliance with <strong>FuelEU Maritime</strong> regulations and reduces compliance costs.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>FuelEU Maritime</strong> reporting requirements came into effect on January 1, 2025. This new legislation requires vessels to monitor the greenhouse gas (GHG) intensity of energy consumed and achieve a series of reduction targets. Non-compliant vessels are subject to financial penalties, which can only be mitigated through alternative energy use or a compliance mechanism called 'pooling.' Pooling refers to bringing together compliant and non-compliant vessels in a fleet to collectively meet regulatory targets.</p>

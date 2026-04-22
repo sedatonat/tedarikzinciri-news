@@ -1,14 +1,22 @@
 ---
-title: "Çin, Elektrikli Araç Batarya Teknolojilerini İhracat Kısıtlarına Ekledi"
-subtitle: "Çin, Elektrikli Araç Batarya Teknolojilerini İhracat Kısıtlarına Ekledi"
-date: "2025-07-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_af8c7204842d4eac9818ff223e916b4b~mv2.png"
-imageAlt: "Çin, Ev Batarya Teknolojilerini İhracat Kısıtlarına Ekledi"
-wixId: "8974b9b2-28aa-4992-b777-a9b9e43e634a"
-author: "Sedat Onat"
+title: Çin, Elektrikli Araç Batarya Teknolojilerini İhracat Kısıtlarına Ekledi
+subtitle: Çin, Elektrikli Araç Batarya Teknolojilerini İhracat Kısıtlarına Ekledi
+date: '2025-07-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_af8c7204842d4eac9818ff223e916b4b~mv2.png
+imageAlt: Çin, Ev Batarya Teknolojilerini İhracat Kısıtlarına Ekledi
+wixId: 8974b9b2-28aa-4992-b777-a9b9e43e634a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Çin
+- elektrikli araç
+- batarya teknolojisi
+- ihracat kısıtlaması
+- tedarik zinciri
+- LFP
+- grafit işleme
 ---
 <p style="text-align: justify"><strong>Çin yönetimi</strong>, elektrikli araç (EV) batarya ekosisteminde stratejik öneme sahip bazı <strong>teknoloji bileşenlerini ve üretim süreçlerini ihracat kısıtları listesine</strong> ekleyerek küresel tedarik zincirinde yeni bir dönemi başlatıyor. Bu karar, hem <strong>ticaret politikası</strong> hem de <strong>teknoloji diplomasisi</strong> açısından dikkat çekici bir adım olarak değerlendiriliyor.</p>
 <p style="text-align: justify"><br></p>

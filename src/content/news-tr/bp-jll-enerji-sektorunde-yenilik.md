@@ -1,14 +1,23 @@
 ---
-title: "BP ve JLL İşbirliğiyle Enerji Sektöründe Yeni Bir Dönem Başladı"
-subtitle: "BP ve JLL İşbirliğiyle Enerji Sektöründe Yeni Bir Dönem Başladı"
-date: "2024-11-04T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_746161d57e4c4cbe8bb63a22b130a14d~mv2.jpg"
-imageAlt: "BP ve JLL İşbirliğiyle Enerji Sektöründe Yeni Bir Dönem Başladı"
-wixId: "13760874-5e2a-4bf9-b5b0-04983d68dc7b"
-author: "Sedat Onat"
+title: BP ve JLL İşbirliğiyle Enerji Sektöründe Yeni Bir Dönem Başladı
+subtitle: BP ve JLL İşbirliğiyle Enerji Sektöründe Yeni Bir Dönem Başladı
+date: '2024-11-04T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_746161d57e4c4cbe8bb63a22b130a14d~mv2.jpg
+imageAlt: BP ve JLL İşbirliğiyle Enerji Sektöründe Yeni Bir Dönem Başladı
+wixId: 13760874-5e2a-4bf9-b5b0-04983d68dc7b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- BP
+- JLL
+- gayrimenkul yönetimi
+- tesis yönetimi
+- stratejik tedarik
+- vested metodolojisi
+- enerji sektörü
+- sürdürülebilirlik
 ---
 <p>2020 yılında uluslararası enerji devi BP (eski adıyla British Petroleum), entegre bir enerji şirketi olarak kendini yeniden yapılandırma ve tanımlama sürecine girdi. Şirket, düşük karbonlu geleceğe geçişi yansıtacak yeni bir ürün kaynakları karışımıyla bu dönüşümü gerçekleştirmeyi hedefledi. Bu çaba, BP'nin Jones Lang LaSalle (JLL) gibi stratejik tedarikçilerle nasıl çalıştığını kapsadı; JLL, BP’nin küresel işyerleri için gayrimenkul ve tesis yönetimi, küçük işyeri ve sermaye projeleri dahil olmak üzere hizmet sunuyor.</p>
 <p><br></p>

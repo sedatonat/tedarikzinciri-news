@@ -1,14 +1,21 @@
 ---
-title: "Pasifik Holding'in Küresel Teknoloji Ortaklıkları ve Liman Operasyonlarına Yönelik Stratejik Hedefleri"
-subtitle: "Pasifik Holding'in Küresel Teknoloji Ortaklıkları ve Liman Operasyonlarına Yönelik Stratejik Hedefleri"
-date: "2025-01-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b8dfa50bb9474f17b77c899a33e6981a~mv2.png"
-imageAlt: "Pasifik Holding'in Küresel Teknoloji Ortaklıkları ve Liman Operasyonlarına Yönelik Stratejik Hedefleri"
-wixId: "8906614e-9c08-4314-bef7-f131f399a17f"
-author: "Sedat Onat"
+title: Pasifik Holding'in Küresel Teknoloji Ortaklıkları ve Liman Operasyonlarına Yönelik Stratejik Hedefleri
+subtitle: Pasifik Holding'in Küresel Teknoloji Ortaklıkları ve Liman Operasyonlarına Yönelik Stratejik Hedefleri
+date: '2025-01-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b8dfa50bb9474f17b77c899a33e6981a~mv2.png
+imageAlt: Pasifik Holding'in Küresel Teknoloji Ortaklıkları ve Liman Operasyonlarına Yönelik Stratejik Hedefleri
+wixId: 8906614e-9c08-4314-bef7-f131f399a17f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Pasifik Holding
+- liman operasyonları
+- teknoloji ortaklıkları
+- lojistik yatırım
+- dijital dönüşüm
+- liman işletmeciliği
 ---
 <p style="text-align: justify">Türkiye merkezli <strong>Pasifik Holding</strong>, küresel teknoloji sektöründe daha fazla iş birliği yapmayı ve liman operasyonlarına yatırım yapmayı planlamakta. Bu stratejik hamleler, şirketin uluslararası alanda büyüme ve çeşitlenme hedeflerinin bir parçası olarak görülmekte.​</p>
 <p><br></p>

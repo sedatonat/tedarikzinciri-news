@@ -1,14 +1,23 @@
 ---
-title: "Biden Yönetiminden Gelen Uzatma, U.S. Steel Satışına İkinci Bir Şans Verdi"
-subtitle: "Biden Yönetiminden Gelen Uzatma, U.S. Steel Satışına İkinci Bir Şans Verdi"
-date: "2025-01-13T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_cfbf1afdfefb439bbdc053defa2246db~mv2.jpg"
-imageAlt: "Biden Yönetiminden Gelen Uzatma, U.S. Steel Satışına İkinci Bir Şans Verdi"
-wixId: "8dcf24f9-eda7-4a14-8471-fc0526be0c39"
-author: "Sedat Onat"
+title: Biden Yönetiminden Gelen Uzatma, U.S. Steel Satışına İkinci Bir Şans Verdi
+subtitle: Biden Yönetiminden Gelen Uzatma, U.S. Steel Satışına İkinci Bir Şans Verdi
+date: '2025-01-13T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_cfbf1afdfefb439bbdc053defa2246db~mv2.jpg
+imageAlt: Biden Yönetiminden Gelen Uzatma, U.S. Steel Satışına İkinci Bir Şans Verdi
+wixId: 8dcf24f9-eda7-4a14-8471-fc0526be0c39
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- U.S. Steel
+- Nippon Steel
+- satın alma
+- ulusal güvenlik
+- CFIUS
+- çelik endüstrisi
+- Biden
+- sendika
 ---
 <p style="text-align: justify">Biden yönetimi, Japon <strong>Nippon Steel</strong>'in <strong>U.S. Steel</strong>'i satın alma teklifini değerlendirmek için ek süre tanıdı. Başkan Joe Biden, Ocak 2025'te ulusal güvenlik endişeleri nedeniyle bu 14,9 milyar dolarlık anlaşmayı engellemişti. Ancak, Yabancı Yatırımlar Komitesi (<strong>CFIUS</strong>), Nippon Steel'e anlaşmadan tamamen vazgeçmesi için verilen süreyi 18 Haziran 2025'e kadar uzattı.</p>
 <p style="text-align: justify"><br></p>

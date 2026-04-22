@@ -1,16 +1,23 @@
 ---
-title: "Panama Maritime Authority Takes Swift Action Against Sanctioned Vessels"
-subtitle: "Panama Maritime Authority Takes Swift Action Against Sanctioned Vessels"
-date: "2024-12-02T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_868e609e24464645b79090bd1137fc7d~mv2.jpg"
-imageAlt: "Panama Maritime Authority Takes Swift Action Against Sanctioned Vessels"
-wixId: "1662cf78-922d-4876-b0e4-c861338b9d19"
-author: "Sedat Onat"
+title: Panama Maritime Authority Takes Swift Action Against Sanctioned Vessels
+subtitle: Panama Maritime Authority Takes Swift Action Against Sanctioned Vessels
+date: '2024-12-02T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_868e609e24464645b79090bd1137fc7d~mv2.jpg
+imageAlt: Panama Maritime Authority Takes Swift Action Against Sanctioned Vessels
+wixId: 1662cf78-922d-4876-b0e4-c861338b9d19
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Panama
+- sanctions
+- ship registry
+- United Kingdom
+- Russia
+- shadow fleet
+- maritime authority
 ---
-
 <p>The Panama Maritime Authority (PMA) has accelerated the deregistration of six Panama-flagged vessels newly added to the United Kingdom's sanctions list. The PMA's decision is regarded as a significant step taken to shield itself from international sanctions and preserve the integrity of the Panama registry.</p>
 <p><br></p>
 <p>The United Kingdom stands as the country applying the most extensive sanctions against shadow vessels linked to Russia. The Barbados Maritime Ship Registry, based in London, has emerged as the registry with the highest proportion of vessels subject to UK sanctions. The PMA highlighted that this registry has had more than 73 tankers targeted following the latest UK sanctions package. This development has occurred since UK Prime Minister Keir Starmer took office in early July.</p>

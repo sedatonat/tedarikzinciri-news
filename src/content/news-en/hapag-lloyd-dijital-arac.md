@@ -1,16 +1,23 @@
 ---
-title: "Hapag-Lloyd Uses Craft Platform for Supplier Visibility"
-subtitle: "Hapag-Lloyd Uses Craft Platform for Supplier Visibility"
-date: "2025-01-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a18e789b28da4ad18ede620d7e72870d~mv2.jpg"
-imageAlt: "Hapag-Lloyd Uses Digital Tool for Supplier Visibility"
-wixId: "ae2a4de6-57b6-4746-8ce8-36d264c3bb98"
-author: "Sedat Onat"
+title: Hapag-Lloyd Uses Craft Platform for Supplier Visibility
+subtitle: Hapag-Lloyd Uses Craft Platform for Supplier Visibility
+date: '2025-01-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a18e789b28da4ad18ede620d7e72870d~mv2.jpg
+imageAlt: Hapag-Lloyd Uses Digital Tool for Supplier Visibility
+wixId: ae2a4de6-57b6-4746-8ce8-36d264c3bb98
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Hapag-Lloyd
+- Craft
+- supplier visibility
+- artificial intelligence
+- supply chain risk
+- port strike
+- Red Sea
 ---
-
 <p style="text-align: justify">The disruptions that COVID-19 caused to supply chains in 2020 prompted <strong>Hapag-Lloyd</strong> to seek better visibility across its supplier base. During that period, freight rate increases and port congestion exposed vulnerabilities, particularly the lack of data and information sharing. To address these challenges, <strong>Hapag-Lloyd</strong> sought a partner capable of leveraging big data and artificial intelligence, and in 2021 deployed the platform of supply chain technology company <strong>Craft</strong> to provide transparency through a supplier intelligence portal.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Hapag-Lloyd</strong> gathers information from <strong>Craft</strong>'s supplier profiles across three main areas: core information about each company, relevant news alerts, and internal collaboration. <strong>Craft</strong> collects supplier data from industry partners, its own machine learning algorithms, and companies' operational data.</p>

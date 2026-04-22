@@ -1,14 +1,22 @@
 ---
-title: "Intel, Taşımacılık Maliyetlerini Yapay Zekâ Destekli “Rate Request Automation” ile Radikal Şekilde Azalttı"
-subtitle: "Intel, Taşımacılık Maliyetlerini Yapay Zekâ Destekli “Rate Request Automation” ile Radikal Şekilde Azalttı"
-date: "2025-11-19T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_d3e9b11d4fd442dbbadad2a24eb58b1a~mv2.jpg"
-imageAlt: "Intel, küresel lojistik taşıma ücretlerini yönetmek için geliştirdiği Rate Request Automation (RRA) sistemiyle, teklif toplama, sözleşme yenileme, denetim ve maliyet optimizasyonunu uçtan uca otomatikleştirdi; 20 milyon $ sözleşmeli, 4 milyon $ sözleşmesiz tasarruf elde etti ve teklif süreçlerini 10 kat hızlandırdı."
-wixId: "e70b313f-2577-4560-9e7e-aa51c90a90c4"
-author: "Sedat Onat"
+title: Intel, Taşımacılık Maliyetlerini Yapay Zekâ Destekli “Rate Request Automation” ile Radikal Şekilde Azalttı
+subtitle: Intel, Taşımacılık Maliyetlerini Yapay Zekâ Destekli “Rate Request Automation” ile Radikal Şekilde Azalttı
+date: '2025-11-19T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_d3e9b11d4fd442dbbadad2a24eb58b1a~mv2.jpg
+imageAlt: Intel, küresel lojistik taşıma ücretlerini yönetmek için geliştirdiği Rate Request Automation (RRA) sistemiyle, teklif toplama, sözleşme yenileme, denetim ve maliyet optimizasyonunu uçtan uca otomatikleştirdi; 20 milyon $ sözleşmeli, 4 milyon $ sözleşmesiz tasarruf elde etti ve teklif süreçlerini 10 kat hızlandırdı.
+wixId: e70b313f-2577-4560-9e7e-aa51c90a90c4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Intel
+- yapay zeka
+- lojistik maliyeti
+- otomasyon
+- taşımacılık
+- tedarik zinciri
+- AI/ML
 ---
 <p style="text-align: justify">Intel’in <strong>Global Logistics Org (GLO)</strong> ve <strong>Corporate Strategic Procurement (CSP)</strong> ekipleri, yıllardır taşıma tarifeleri, sözleşme yönetimi ve lojistik maliyet optimizasyonu konusunda <strong>yüksek manuel iş yükü</strong>, <strong>tekrarlayan veri toplama</strong>, <strong>yavaş teklif süreçleri</strong> ve <strong>sözleşmesiz (non-contracted) fiyat kullanımından doğan ekstra maliyetler</strong> gibi ciddi sorunlarla karşılaşıyordu.</p>
 <p><br></p>

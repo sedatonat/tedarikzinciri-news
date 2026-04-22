@@ -1,14 +1,23 @@
 ---
-title: "Port Optimizasyonuyla GHG Emisyonlarında Dramatik Azalma Sağlandı"
-subtitle: "Port Optimizasyonuyla GHG Emisyonlarında Dramatik Azalma Sağlandı"
-date: "2024-12-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9dc4e490c25747618eab7dd4f2ee1b70~mv2.jpg"
-imageAlt: "Port Optimizasyonuyla GHG Emisyonlarında Dramatik Azalma Sağlandı"
-wixId: "4feb4e3b-fc6d-40e0-9a34-76a83f2b1c95"
-author: "Sedat Onat"
+title: Port Optimizasyonuyla GHG Emisyonlarında Dramatik Azalma Sağlandı
+subtitle: Port Optimizasyonuyla GHG Emisyonlarında Dramatik Azalma Sağlandı
+date: '2024-12-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_9dc4e490c25747618eab7dd4f2ee1b70~mv2.jpg
+imageAlt: Port Optimizasyonuyla GHG Emisyonlarında Dramatik Azalma Sağlandı
+wixId: 4feb4e3b-fc6d-40e0-9a34-76a83f2b1c95
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- port optimizasyonu
+- sera gazı emisyonları
+- deniz taşımacılığı
+- karbon ayak izi
+- liman verimliliği
+- IMO
+- UCL Energy Institute
+- konteyner gemisi
 ---
 <p>Londra'nın UCL Energy Institute ve deniz taşımacılığında karbon ayak izini azaltmaya yönelik danışmanlık hizmeti sunan UMAS tarafından gerçekleştirilen yeni bir çalışma, 2018-2022 yılları arasında yapılan gemi hareketlerini analiz etti. Çalışma, liman varışlarının liman tıkanıklığı veya bekleme süreleri göz önünde bulundurularak optimize edilmesinin bazı gemi türlerinde seyahat emisyonlarını %25'e kadar azaltabileceğini ortaya koydu.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "RFID Teknolojisi, Tedarik Zinciri Profesyonellerinin %97'sini Çekiyor"
-subtitle: "RFID Teknolojisi, Tedarik Zinciri Profesyonellerinin %97'sini Çekiyor"
-date: "2023-11-30T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_4932b33a709d4f2ebd79502275c6d0c4~mv2.jpg"
-imageAlt: "RFID Teknolojisi, Tedarik Zinciri Profesyonellerinin %97'sini Çekiyor"
-wixId: "c99d9127-0898-4b98-8460-0b755341960e"
-author: "Sedat Onat"
+title: RFID Teknolojisi, Tedarik Zinciri Profesyonellerinin %97'sini Çekiyor
+subtitle: RFID Teknolojisi, Tedarik Zinciri Profesyonellerinin %97'sini Çekiyor
+date: '2023-11-30T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_4932b33a709d4f2ebd79502275c6d0c4~mv2.jpg
+imageAlt: RFID Teknolojisi, Tedarik Zinciri Profesyonellerinin %97'sini Çekiyor
+wixId: c99d9127-0898-4b98-8460-0b755341960e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- RFID
+- tedarik zinciri
+- envanter yönetimi
+- işgücü sıkıntısı
+- sürdürülebilirlik
+- RAIN RFID
+- IoT
 ---
 <p>Tedarik zincirleri, çoğu endüstrinin belkemiğini oluşturarak mal ve hizmetlerin kesintisiz akışını sağlamada kritik bir rol oynamaktadır. Ancak, günümüzün hızla değişen küresel ve ekonomik ortamı, tedarik zinciri profesyonellerine beklenmedik zorluklar sunmaktadır. Impinj ve Supply Chain Dive tarafından hazırlanan “Inventory, Labor, and Sustainability: How RFID Solves Today’s Supply Chain Challenges” başlıklı yeni rapora göre, tedarik zinciri uzmanlarının %96’sı devam eden işgücü sıkıntılarından endişe duymaktadır.&nbsp;</p>
 <p><br></p>

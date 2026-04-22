@@ -1,14 +1,23 @@
 ---
-title: "Amazon Birleşik Krallık'ta Elektrikli Kamyon Siparişi Verdi"
-subtitle: "Amazon Birleşik Krallık'ta Elektrikli Kamyon Siparişi Verdi"
-date: "2025-01-21T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_347f0e9b64e24b7f96194c94275b1348~mv2.jpg"
-imageAlt: "Amazon Birleşik Krallık'ta Elektrikli Kamyon Siparişi Verdi"
-wixId: "db89ad88-952c-4200-bf9f-5878ddad1f6a"
-author: "Sedat Onat"
+title: Amazon Birleşik Krallık'ta Elektrikli Kamyon Siparişi Verdi
+subtitle: Amazon Birleşik Krallık'ta Elektrikli Kamyon Siparişi Verdi
+date: '2025-01-21T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_347f0e9b64e24b7f96194c94275b1348~mv2.jpg
+imageAlt: Amazon Birleşik Krallık'ta Elektrikli Kamyon Siparişi Verdi
+wixId: db89ad88-952c-4200-bf9f-5878ddad1f6a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Amazon
+- elektrikli kamyon
+- Birleşik Krallık
+- sürdürülebilir lojistik
+- karbon emisyonu
+- yeşil taşımacılık
+- Mercedes-Benz eActros
+- Volvo FM Electric
 ---
 <p style="text-align: justify">Amazon, Birleşik Krallık'taki teslimat operasyonlarının karbon ayak izini azaltmak amacıyla, ülkenin bugüne kadarki en büyük elektrikli ağır vasıta siparişini verdi. Şirket, mevcut dokuz elektrikli ağır vasıta filosuna ek olarak, önümüzdeki 18 ay içinde 140'tan fazla <strong>Mercedes-Benz</strong> eActros 600 ve sekiz <strong>Volvo</strong> FM Electric kamyonu filosuna katmayı planlamakta. ​</p>
 <p style="text-align: justify"><br></p>

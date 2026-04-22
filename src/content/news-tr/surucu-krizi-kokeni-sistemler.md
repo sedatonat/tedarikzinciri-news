@@ -1,14 +1,22 @@
 ---
-title: "Sürücü Krizinin Kökeni: Sorun İnsanlar Değil Sistemler"
-subtitle: "Sürücü Krizinin Kökeni: Sorun İnsanlar Değil Sistemler"
-date: "2025-11-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_386cfcfaff524c1dae2d4cb7d18e2e11~mv2.jpg"
-imageAlt: "Trucking sektöründe sürücü krizinin gerçek nedeninin insan kaynağı değil, parçalı operasyonlar, tutarsız iş akışları ve kopuk veri yapıları olduğunu açıklayan kapsamlı haber özeti"
-wixId: "51e919e4-6fb8-4075-9941-ec09d51ec7aa"
-author: "Sedat Onat"
+title: 'Sürücü Krizinin Kökeni: Sorun İnsanlar Değil Sistemler'
+subtitle: 'Sürücü Krizinin Kökeni: Sorun İnsanlar Değil Sistemler'
+date: '2025-11-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_386cfcfaff524c1dae2d4cb7d18e2e11~mv2.jpg
+imageAlt: Trucking sektöründe sürücü krizinin gerçek nedeninin insan kaynağı değil, parçalı operasyonlar, tutarsız iş akışları ve kopuk veri yapıları olduğunu açıklayan kapsamlı haber özeti
+wixId: 51e919e4-6fb8-4075-9941-ec09d51ec7aa
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- sürücü krizi
+- Magnus Technologies
+- TMS
+- unified data
+- operasyonel verimlilik
+- otomasyon
+- filo yönetimi
 ---
 <p style="text-align: justify">Kuzey Amerika lojistik endüstrisi uzun zamandır <strong>driver shortage</strong> sorunu ile anılıyor ancak <strong>Magnus Technologies CEO’su Matt Cartwright</strong>, mevcut krizin kökeninde insan eksikliği değil, <strong>parçalı operasyonel yapıların</strong> bulunduğunu vurguluyor. Cartwright’a göre sektör, yeterli sayıda nitelikli ve istekli sürücüye sahip; problem sürücülerin çalıştığı ortamın <strong>tutarlılık, öngörülebilirlik ve veri bütünlüğü</strong> sunmaması. Özellikle büyük filolarda kullanılan araç takip sistemleri, dispatch uygulamaları, güvenlik yazılımları ve müşteri platformları çoğu zaman <strong>birbiriyle konuşmayan bağımsız araçlar</strong> olmaya devam etmekte. Bu durum günlük operasyonun istikrarsız ilerlemesine yol açmakta ve sürücüler bu değişkenliğin yükünü doğrudan hissetmekte.</p>
 <p><br></p>

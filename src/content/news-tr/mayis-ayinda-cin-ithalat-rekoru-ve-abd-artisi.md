@@ -1,14 +1,22 @@
 ---
-title: "Mayıs Ayında Çin'den İthalat Rekoru ve ABD'nin İthalat Artışı"
-subtitle: "Mayıs Ayında Çin'den İthalat Rekoru ve ABD'nin İthalat Artışı"
-date: "2024-06-07T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_bac2a97f86e04774b0025f633c446bb6~mv2.png"
-imageAlt: "Mayıs Ayında Çin'den İthalat Rekoru ve ABD'nin İthalat Artışı"
-wixId: "78de4731-1741-4b63-9648-de3f80b137e2"
-author: "Sedat Onat"
+title: Mayıs Ayında Çin'den İthalat Rekoru ve ABD'nin İthalat Artışı
+subtitle: Mayıs Ayında Çin'den İthalat Rekoru ve ABD'nin İthalat Artışı
+date: '2024-06-07T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_bac2a97f86e04774b0025f633c446bb6~mv2.png
+imageAlt: Mayıs Ayında Çin'den İthalat Rekoru ve ABD'nin İthalat Artışı
+wixId: 78de4731-1741-4b63-9648-de3f80b137e2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Çin
+- ABD
+- ithalat
+- konteyner
+- tedarik zinciri
+- liman
+- Descartes Systems Group
 ---
 <p>Mayıs ayında, Amerika Birleşik Devletleri'ne yapılan ithalat, özellikle Çin'den gelen ithalatlarla önemli bir artış gösterdi.&nbsp;</p>
 <p><br></p>

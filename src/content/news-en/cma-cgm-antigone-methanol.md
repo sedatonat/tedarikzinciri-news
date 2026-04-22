@@ -1,16 +1,24 @@
 ---
-title: "CMA CGM Commissions First Methanol Dual-Fuel Container Ship ANTIGONE Built in China"
-subtitle: "CMA CGM Commissions First Methanol Dual-Fuel Container Ship ANTIGONE Built in China"
-date: "2025-12-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0569df8f19b84f97a958610027952d10~mv2.jpeg"
-imageAlt: "Technical specifications of CMA CGM ANTIGONE, the first methanol dual-fuel container ship built by Jiangnan Shipyard for CMA CGM, innovations within the Kun series, and the vessel's place in the group's low-carbon fleet strategy"
-wixId: "aeccc6a8-115b-47e7-a876-133bff310dad"
-author: "Sedat Onat"
+title: CMA CGM Commissions First Methanol Dual-Fuel Container Ship ANTIGONE Built in China
+subtitle: CMA CGM Commissions First Methanol Dual-Fuel Container Ship ANTIGONE Built in China
+date: '2025-12-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0569df8f19b84f97a958610027952d10~mv2.jpeg
+imageAlt: Technical specifications of CMA CGM ANTIGONE, the first methanol dual-fuel container ship built by Jiangnan Shipyard for CMA CGM, innovations within the Kun series, and the vessel's place in the group's low-carbon fleet strategy
+wixId: aeccc6a8-115b-47e7-a876-133bff310dad
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- CMA CGM
+- methanol dual-fuel
+- container ship
+- Jiangnan Shipyard
+- China
+- decarbonization
+- low-carbon fuel
+- maritime
 ---
-
 <p style="text-align: justify">French container shipping and logistics group <strong>CMA CGM</strong> has reached another significant milestone in its low-carbon fleet transformation. On <strong>December 11</strong>, the company formally named and took delivery of the <strong>methanol dual-fuel container ship CMA CGM ANTIGONE</strong> at a ceremony held at <strong>Jiangnan Shipyard</strong> in Shanghai. The vessel marks <strong>CMA CGM's first methanol dual-fuel container ship delivered from a Chinese shipyard</strong> and represents the <strong>eighteenth vessel</strong> produced by the yard for the group.</p>
 <p><br></p>
 <p style="text-align: justify">Representatives from <strong>CMA CGM</strong>, <strong>China Shipbuilding Trading</strong>, <strong>Jiangnan Shipyard</strong>, financial institutions, and classification society <strong>Bureau Veritas (BV)</strong> attended the ceremony. <strong>Harriet Wu</strong>, senior advisor at <strong>CMA CGM China</strong>, served as the ship's godmother. According to company statements, the vessel is under the command of <strong>Captain Zhang Zequan</strong> and will enter service on the <strong>Asia–Middle East–Mediterranean</strong> route under the <strong>Phoenician Express (BEX2)</strong> service.</p>

@@ -1,16 +1,24 @@
 ---
-title: "U.S. Ports: Ocean Cargo Trends by Volume"
-subtitle: "U.S. Ports: Ocean Cargo Trends by Volume"
-date: "2025-01-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f2da2eaf1bd5408e81f85a54d6d82668~mv2.jpg"
-imageAlt: "U.S. Ports: Ocean Cargo Trends by Volume"
-wixId: "6585b417-0c86-43f9-9405-2e42a6b02843"
-author: "Sedat Onat"
+title: 'U.S. Ports: Ocean Cargo Trends by Volume'
+subtitle: 'U.S. Ports: Ocean Cargo Trends by Volume'
+date: '2025-01-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f2da2eaf1bd5408e81f85a54d6d82668~mv2.jpg
+imageAlt: 'U.S. Ports: Ocean Cargo Trends by Volume'
+wixId: 6585b417-0c86-43f9-9405-2e42a6b02843
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- US ports
+- ocean freight
+- container volume
+- TEU
+- port operations
+- East Coast
+- Port of Los Angeles
+- trade trends
 ---
-
 <p style="text-align: justify">U.S. ocean ports are regarded as an important indicator of international trade. In 2022, sea gateways handled 40% of international cargo value. For this reason, monitoring port volumes is critical to understanding trade trends across the country.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">During the COVID-19 pandemic, from 2018 to 2020, the 12 largest U.S. ports handled approximately 46 million TEU (twenty-foot equivalent units) of cargo. However, in 2021 and 2022, this figure rose above 53 million TEU, causing severe congestion and logistics delays. In 2023, volumes at these ports fell to 46.67 million TEU, returning to pre-pandemic levels.</p>

@@ -1,16 +1,24 @@
 ---
-title: "Afghanistan Signs Framework Agreement with DP World to Modernize Hairatan and Torkham Border Gates"
-subtitle: "Afghanistan Signs Framework Agreement with DP World to Modernize Hairatan and Torkham Border Gates"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c095a284ad414cc69129e13d2ed94aef~mv2.jpg"
-imageAlt: "Afghanistan's Ministry of Finance framework investment agreement with DP World for modernization of Hairatan and Torkham border ports, detailing impact on Central Asia–South Asia logistics corridors and pathway to binding agreements"
-wixId: "bb0b8ef3-5d22-424e-a4e1-9e8e3d63e322"
-author: "Sedat Onat"
+title: Afghanistan Signs Framework Agreement with DP World to Modernize Hairatan and Torkham Border Gates
+subtitle: Afghanistan Signs Framework Agreement with DP World to Modernize Hairatan and Torkham Border Gates
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c095a284ad414cc69129e13d2ed94aef~mv2.jpg
+imageAlt: Afghanistan's Ministry of Finance framework investment agreement with DP World for modernization of Hairatan and Torkham border ports, detailing impact on Central Asia–South Asia logistics corridors and pathway to binding agreements
+wixId: bb0b8ef3-5d22-424e-a4e1-9e8e3d63e322
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Afghanistan
+- DP World
+- border gate modernization
+- Hairatan
+- Torkham
+- regional logistics
+- Central Asia
+- customs digitalization
 ---
-
 <p style="text-align: justify"><strong>Afghanistan</strong> is taking a significant step with <strong>DP World</strong> to modernize its <strong>Hairatan</strong> and <strong>Torkham</strong> border gates with the goal of strengthening border trade and regional logistics integration. According to statements from the Afghan government, an <strong>investment term sheet</strong> was signed between the <strong>Afghanistan Ministry of Finance</strong> and DP World. The document was signed during a ceremony held on <strong>December 7 in Kabul</strong> at the office of the <strong>Deputy Prime Minister for Economic Affairs</strong>. The process was led by <strong>Mufti Abdullah Azam</strong>, Deputy Prime Minister for Economic Affairs.</p>
 <p><br></p>
 <p style="text-align: justify">Officials noted that the signed document serves as a <strong>framework leading to binding agreements</strong> and aims to implement <strong>foreign investment</strong> and <strong>operational modernization</strong> projects in subsequent phases. The framework's ultimate objective is defined as transforming Afghanistan's commercial border gates into logistics centers that comply with <strong>international standards</strong>, are <strong>technology-focused</strong>, and have <strong>high capacity</strong>.</p>

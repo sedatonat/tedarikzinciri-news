@@ -1,16 +1,23 @@
 ---
-title: "Tariff Impact Mitigation Strategies in Construction"
-subtitle: "Tariff Impact Mitigation Strategies in Construction"
-date: "2025-04-17T00:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_fe4d6a4670574dd5bd1821fd631758a0~mv2.png"
-imageAlt: "Tariff Impact Mitigation Strategies in Construction"
-wixId: "35ee330f-4c42-458a-9654-33c35e57f3a1"
-author: "Sedat Onat"
+title: Tariff Impact Mitigation Strategies in Construction
+subtitle: Tariff Impact Mitigation Strategies in Construction
+date: '2025-04-17T00:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_fe4d6a4670574dd5bd1821fd631758a0~mv2.png
+imageAlt: Tariff Impact Mitigation Strategies in Construction
+wixId: 35ee330f-4c42-458a-9654-33c35e57f3a1
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- construction sector
+- tariff
+- supply chain
+- price increase
+- supply diversification
+- contract management
+- risk management
 ---
-
 <p>Uncertainty in global trade policies is affecting costs and lead times in the construction sector, particularly in the sourcing of steel, aluminium, copper and finished components.</p>
 <p><br></p>
 <p>Contractors are directly grappling with concepts such as</p>

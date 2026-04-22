@@ -1,14 +1,23 @@
 ---
-title: "Gather AI, Drone Görüşünden Depo Zekasına Geçiş Yapıyor"
-subtitle: "Gather AI, Drone Görüşünden Depo Zekasına Geçiş Yapıyor"
-date: "2025-10-24T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_29ce9f918845411cacc10a69fc6752b3~mv2.jpeg"
-imageAlt: "Gather AI, Drone Görüşünden Depo Zekasına Geçiş Yapmakta"
-wixId: "cb3bf26a-5923-4a69-a5c6-c2e63d01fe12"
-author: "Sedat Onat"
+title: Gather AI, Drone Görüşünden Depo Zekasına Geçiş Yapıyor
+subtitle: Gather AI, Drone Görüşünden Depo Zekasına Geçiş Yapıyor
+date: '2025-10-24T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_29ce9f918845411cacc10a69fc6752b3~mv2.jpeg
+imageAlt: Gather AI, Drone Görüşünden Depo Zekasına Geçiş Yapmakta
+wixId: cb3bf26a-5923-4a69-a5c6-c2e63d01fe12
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Gather AI
+- drone
+- yapay zeka
+- depo yönetimi
+- dijital ikiz
+- AI vision
+- tedarik zinciri
+- otomasyon
 ---
 <p style="text-align: justify"><strong>Gather AI</strong>, bir zamanlar <strong>drone tabanlı envanter taramalarıyla</strong> tanınırken, bugün <strong>yazılım odaklı yapay zeka (AI vision)</strong> çözümleriyle <strong>depo zekası ve görünürlüğünü</strong> yeniden tanımlamakta.</p>
 <p><br>

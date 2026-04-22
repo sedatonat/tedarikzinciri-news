@@ -1,14 +1,22 @@
 ---
-title: "Epicor’un Yeni Özel Sermaye Sahibi: CVC"
-subtitle: "Epicor’un Yeni Özel Sermaye Sahibi: CVC"
-date: "2024-08-13T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_db8b99ab732a4dd29733080a4558422e~mv2.png"
-imageAlt: "Epicor’un Yeni Özel Sermaye Sahibi: CVC"
-wixId: "7a60e53b-5dd1-4a2e-a25d-24532e1fc9ad"
-author: "Sedat Onat"
+title: 'Epicor’un Yeni Özel Sermaye Sahibi: CVC'
+subtitle: 'Epicor’un Yeni Özel Sermaye Sahibi: CVC'
+date: '2024-08-13T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_db8b99ab732a4dd29733080a4558422e~mv2.png
+imageAlt: 'Epicor’un Yeni Özel Sermaye Sahibi: CVC'
+wixId: 7a60e53b-5dd1-4a2e-a25d-24532e1fc9ad
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Epicor
+- CVC
+- ERP yazılımı
+- SaaS
+- özel sermaye
+- satın alma
+- bulut tabanlı platform
 ---
 <p>Epicor, imalat, dağıtım, perakende ve hizmet sektörleri için ERP yazılımı sağlayıcısıdır ve kısa süre önce özel sermaye şirketi CVC tarafından satın alındı. Önceki sahibi Clayton, Dubilier &amp; Rice (CD&amp;R), şirketin SaaS'a dönüşmesi ve uluslararası genişlemesi sürecinde önemli adımlar attı. Epicor, yakın zamanda Kyklo ve Smart Software gibi şirketleri satın alarak bulut tabanlı platformlarını güçlendirdi. Şirket, 150'den fazla ülkede 23.000 müşteriye hizmet veriyor ve yıllık tekrarlayan gelirini 1 milyar doların üzerine çıkardı.</p>
 <p><br></p>

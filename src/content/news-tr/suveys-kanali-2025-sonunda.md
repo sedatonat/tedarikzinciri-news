@@ -1,14 +1,22 @@
 ---
-title: "Süveyş Kanalı 2025 Sonunda Yeniden Açılıyor"
-subtitle: "Süveyş Kanalı 2025 Sonunda Yeniden Açılıyor"
-date: "2025-02-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_725ebb652b664c009717b3f240b1e60e~mv2.jpg"
-imageAlt: "Süveyş Kanalı 2025 Sonunda Yeniden Açılıyor"
-wixId: "39880ef6-1103-4802-9ee2-1b0bb725581b"
-author: "Sedat Onat"
+title: Süveyş Kanalı 2025 Sonunda Yeniden Açılıyor
+subtitle: Süveyş Kanalı 2025 Sonunda Yeniden Açılıyor
+date: '2025-02-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_725ebb652b664c009717b3f240b1e60e~mv2.jpg
+imageAlt: Süveyş Kanalı 2025 Sonunda Yeniden Açılıyor
+wixId: 39880ef6-1103-4802-9ee2-1b0bb725581b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Süveyş Kanalı
+- Drewry
+- deniz taşımacılığı
+- tedarik zinciri
+- Mısır
+- Asya-Avrupa ticaret
+- kanal modernizasyonu
 ---
 <p style="text-align: justify"><strong>Drewry</strong> tarafından gerçekleştirilen bir ankete göre, <strong>Süveyş Kanalı</strong>'nın 2025 yılının sonlarına doğru yeniden açılması planlanmakta. Bu gelişme, küresel tedarik zinciri ve deniz taşımacılığı sektöründe önemli bir etkiye sahip olacak.</p>
 <p><br></p>

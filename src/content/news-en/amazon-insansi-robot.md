@@ -1,16 +1,24 @@
 ---
-title: "Amazon Plans to Test Humanoid Delivery Robots"
-subtitle: "Amazon Plans to Test Humanoid Delivery Robots"
-date: "2025-06-05T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_cfdd908669f140d1a73647a452a898f4~mv2.png"
-imageAlt: "Amazon Plans to Test Humanoid Delivery Robots"
-wixId: "4b4d77e7-7ea8-4086-8976-a7b6b569b276"
-author: "Sedat Onat"
+title: Amazon Plans to Test Humanoid Delivery Robots
+subtitle: Amazon Plans to Test Humanoid Delivery Robots
+date: '2025-06-05T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_cfdd908669f140d1a73647a452a898f4~mv2.png
+imageAlt: Amazon Plans to Test Humanoid Delivery Robots
+wixId: 4b4d77e7-7ea8-4086-8976-a7b6b569b276
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Amazon
+- humanoid robot
+- last mile delivery
+- AMR
+- autonomous logistics
+- computer vision
+- reinforcement learning
+- drone delivery
 ---
-
 <p style="text-align: justify"><strong>Amazon</strong> is preparing to test <strong>humanoid robots</strong> in last-mile delivery processes. This initiative aims to measure the <strong>feasibility of package delivery</strong> in <strong>human-centric environments</strong>—such as stairs, sidewalks, doorsteps, and other complex areas—thereby developing a third automation layer to complement the company's existing <strong>AMR (Autonomous Mobile Robot)</strong> and <strong>drone delivery network</strong>.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">From a technical standpoint, the focus lies on advancing <strong>bipedal locomotion</strong>, <strong>grasping/manipulation</strong>, and <strong>safe human–robot interaction</strong>. In the systems Amazon is testing, combinations of <strong>computer vision</strong> and <strong>reinforcement learning</strong> stand out. This enables robots to perceive environmental factors, maintain balance, and dynamically navigate around obstacles.</p>

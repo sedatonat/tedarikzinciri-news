@@ -1,14 +1,21 @@
 ---
-title: "Çalışanları Cezbeden Modern İmkan: İş Yerlerinde EV Şarj İstasyonları"
-subtitle: "Çalışanları Cezbeden Modern İmkan: İş Yerlerinde EV Şarj İstasyonları"
-date: "2024-05-07T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_f91b32e596fa4b66b3395ad2e604333a~mv2.jpg"
-imageAlt: "Çalışanları Cezbeden Modern İmkan: İş Yerlerinde EV Şarj İstasyonları"
-wixId: "f16016b5-9876-4242-9eb5-188d1ed4b5ff"
-author: "Sedat Onat"
+title: 'Çalışanları Cezbeden Modern İmkan: İş Yerlerinde EV Şarj İstasyonları'
+subtitle: 'Çalışanları Cezbeden Modern İmkan: İş Yerlerinde EV Şarj İstasyonları'
+date: '2024-05-07T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_f91b32e596fa4b66b3395ad2e604333a~mv2.jpg
+imageAlt: 'Çalışanları Cezbeden Modern İmkan: İş Yerlerinde EV Şarj İstasyonları'
+wixId: f16016b5-9876-4242-9eb5-188d1ed4b5ff
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- EV şarj istasyonu
+- elektrikli araç
+- çalışan memnuniyeti
+- ChargePoint
+- ticari mülk
+- sürdürülebilirlik
 ---
 <p>İş yerlerinde elektrikli araç (EV) şarj istasyonlarının kurulması, çalışanları elde tutma amacıyla ticari mülk sahipleri ve büyük işletmeler tarafından tercih edilen önemli bir hizmet olarak öne çıkıyor.&nbsp;</p>
 <p><br></p>

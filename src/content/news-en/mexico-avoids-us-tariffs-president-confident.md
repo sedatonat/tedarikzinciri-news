@@ -1,16 +1,24 @@
 ---
-title: "Mexico's President Confident Country Can Avoid U.S. Tariffs"
-subtitle: "Mexico's President Confident Country Can Avoid U.S. Tariffs"
-date: "2024-11-30T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_124b2ee5fd5e4b3598cc4b72a9fa51dc~mv2.jpg"
-imageAlt: "Mexico's President Confident Country Can Avoid U.S. Tariffs"
-wixId: "f2376990-74a2-40be-888a-8b3c354c2545"
-author: "Sedat Onat"
+title: Mexico's President Confident Country Can Avoid U.S. Tariffs
+subtitle: Mexico's President Confident Country Can Avoid U.S. Tariffs
+date: '2024-11-30T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_124b2ee5fd5e4b3598cc4b72a9fa51dc~mv2.jpg
+imageAlt: Mexico's President Confident Country Can Avoid U.S. Tariffs
+wixId: f2376990-74a2-40be-888a-8b3c354c2545
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Mexico
+- USA
+- tariffs
+- USMCA
+- trade agreements
+- automotive sector
+- exports
+- diplomatic relations
 ---
-
 <p>Mexico's president stated recently that his country is confident it can shield itself from potential tariffs that the United States may impose. The president said that comprehensive strategies and partnerships have been developed to minimize any negative effects such tariffs could have on Mexico's economy.</p>
 <p><br></p>
 <p>Given the importance of trade relations between the U.S. and Mexico, possible tariffs could significantly impact Mexico's exports. However, the Mexican government is seeking to reduce the impact of such measures by strengthening existing trade agreements and signing new free trade pacts. In particular, negotiations conducted under the USMCA (United States-Mexico-Canada Agreement) framework are expected to yield positive results toward eliminating or minimizing tariffs.</p>

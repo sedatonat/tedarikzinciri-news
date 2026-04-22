@@ -1,16 +1,24 @@
 ---
-title: "US Investigates China's Compliance with 2020 Trade Agreement"
-subtitle: "US Investigates China's Compliance with 2020 Trade Agreement"
-date: "2025-10-24T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_dc4e83f045934c6c97043876474490f1~mv2.jpg"
-imageAlt: "US Investigates China's Compliance with 2020 Trade Agreement"
-wixId: "b18e192a-73f0-4a07-a770-a655168b9428"
-author: "Sedat Onat"
+title: US Investigates China's Compliance with 2020 Trade Agreement
+subtitle: US Investigates China's Compliance with 2020 Trade Agreement
+date: '2025-10-24T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_dc4e83f045934c6c97043876474490f1~mv2.jpg
+imageAlt: US Investigates China's Compliance with 2020 Trade Agreement
+wixId: b18e192a-73f0-4a07-a770-a655168b9428
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- USA
+- China
+- trade agreement
+- Section 301
+- tariffs
+- USTR
+- supply chain
+- trade war
 ---
-
 <p style="text-align: justify"><strong>The US Trade Representative (USTR)</strong> has launched a new investigation under <strong>Section 301</strong> to examine whether China is fulfilling its obligations under the <strong>"Phase One Agreement" signed in 2020</strong>.</p>
 <p><br>
 The investigation will assess whether China is breaching its commitments on <strong>intellectual property (IP), forced technology transfer, agriculture, and financial services</strong>.</p>

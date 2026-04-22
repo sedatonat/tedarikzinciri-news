@@ -1,16 +1,23 @@
 ---
-title: "Road Transport: Enemy of Rail or Necessary Complement?"
-subtitle: "Road Transport: Enemy of Rail or Necessary Complement?"
-date: "2025-11-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c986f8e522fd473ba7e701bc1a00d37f~mv2.jpg"
-imageAlt: "As Europe's rail sector argues that truck transport occupies a privileged position, road representatives emphasize this is a bias and that the two modes are actually interdependent; Febetra and RailGood executives share their views on sectoral competition, regulation, and modal shift."
-wixId: "81dfebd1-2501-47ba-8da8-aae4c39ddc22"
-author: "Sedat Onat"
+title: 'Road Transport: Enemy of Rail or Necessary Complement?'
+subtitle: 'Road Transport: Enemy of Rail or Necessary Complement?'
+date: '2025-11-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c986f8e522fd473ba7e701bc1a00d37f~mv2.jpg
+imageAlt: As Europe's rail sector argues that truck transport occupies a privileged position, road representatives emphasize this is a bias and that the two modes are actually interdependent; Febetra and RailGood executives share their views on sectoral competition, regulation, and modal shift.
+wixId: 81dfebd1-2501-47ba-8da8-aae4c39ddc22
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- road transport
+- rail transport
+- modal shift
+- intermodal transport
+- Europe
+- LHV
+- sustainable transport
 ---
-
 <p style="text-align: justify">As debates on sustainable transport and modal shift continue across Europe, <strong>competition between road transport and rail freight transport</strong> has returned to the spotlight. In RailFreight's assessment titled "Road transport: friend or foe?", a discussion emerges that emphasizes the relationship between the two modes is not black and white, yet perceptions are largely shaped by sectoral interests.</p>
 <p><br></p>
 <p style="text-align: justify">The article addresses this debate through two key figures:</p>

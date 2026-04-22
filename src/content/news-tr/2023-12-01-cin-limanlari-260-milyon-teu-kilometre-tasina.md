@@ -1,14 +1,22 @@
 ---
-title: "Çin Limanları \"260milyon TEU\" Kilometre Taşına Yaklaşıyor"
-subtitle: "Çin Limanları \"260milyon TEU\" Kilometre Taşına Yaklaşıyor"
-date: "2023-12-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_672a766ba17c4a16a7ba7003aa703434~mv2.jpg"
-imageAlt: "Çin Limanları \"260milyon TEU\" Kilometre Taşına Yaklaşıyor"
-wixId: "3a4f7437-ad29-44dd-9c7d-60404bfdcdf7"
-author: "Sedat Onat"
+title: Çin Limanları "260milyon TEU" Kilometre Taşına Yaklaşıyor
+subtitle: Çin Limanları "260milyon TEU" Kilometre Taşına Yaklaşıyor
+date: '2023-12-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_672a766ba17c4a16a7ba7003aa703434~mv2.jpg
+imageAlt: Çin Limanları "260milyon TEU" Kilometre Taşına Yaklaşıyor
+wixId: 3a4f7437-ad29-44dd-9c7d-60404bfdcdf7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Çin limanları
+- konteyner taşımacılığı
+- TEU
+- Shanghai Limanı
+- Ningbo-Zhoushan Limanı
+- navlun fiyatları
+- fazla kapasite
 ---
 <p>Çin'in limanları, yılın ilk on ayında konteyner taşımacılığında %4,9'luk yıllık artış gördü ve toplamda 257 milyon TEU taşıdı.</p>
 <p><br></p>

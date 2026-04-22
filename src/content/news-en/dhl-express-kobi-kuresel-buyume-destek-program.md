@@ -1,16 +1,23 @@
 ---
-title: "DHL Express and Global Growth Opportunities for U.S. Small Businesses"
-subtitle: "DHL Express and Global Growth Opportunities for U.S. Small Businesses"
-date: "2024-08-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_537544e34b104dc189d7d6a3a6e47256~mv2.jpeg"
-imageAlt: "DHL Express and Global Growth Opportunities for U.S. Small Businesses"
-wixId: "8995955a-bbdb-464b-9bda-ee0ba570fe87"
-author: "Sedat Onat"
+title: DHL Express and Global Growth Opportunities for U.S. Small Businesses
+subtitle: DHL Express and Global Growth Opportunities for U.S. Small Businesses
+date: '2024-08-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_537544e34b104dc189d7d6a3a6e47256~mv2.jpeg
+imageAlt: DHL Express and Global Growth Opportunities for U.S. Small Businesses
+wixId: 8995955a-bbdb-464b-9bda-ee0ba570fe87
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- DHL Express
+- SME
+- international shipping
+- e-commerce
+- sustainability
+- USA
+- GoGreen Plus
 ---
-
 <p>DHL Express has launched the "Small Business PartnerSHIP Program" to support small and medium-sized enterprises (SMEs) in the United States on their path to global growth. The program offers a range of services at no cost to SMEs to encourage international expansion. Through this program, DHL provides SMEs with access to international shipping resources, e-commerce guidance, webinars, and solutions aimed at reducing carbon footprint such as GoGreen Plus. Additionally, SMEs are provided with dedicated international experts and mentoring services.</p>
 <p><br></p>
 <h5>Key Highlights:</h5>

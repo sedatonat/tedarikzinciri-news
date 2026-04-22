@@ -1,14 +1,22 @@
 ---
-title: "Rusya'nın Ulaştırma Sektöründe Yapısal Değişiklikler ve Yeni Öncelikler"
-subtitle: "Rusya'nın Ulaştırma Sektöründe Yapısal Değişiklikler ve Yeni Öncelikler"
-date: "2024-05-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/f5526380b69b4de58dcf8fc112145de9.jpg"
-imageAlt: "Rusya'nın Ulaştırma Sektöründe Yapısal Değişiklikler ve Yeni Öncelikler"
-wixId: "4dd2e80b-d548-4cce-9326-022768a0c244"
-author: "Sedat Onat"
+title: Rusya'nın Ulaştırma Sektöründe Yapısal Değişiklikler ve Yeni Öncelikler
+subtitle: Rusya'nın Ulaştırma Sektöründe Yapısal Değişiklikler ve Yeni Öncelikler
+date: '2024-05-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/f5526380b69b4de58dcf8fc112145de9.jpg
+imageAlt: Rusya'nın Ulaştırma Sektöründe Yapısal Değişiklikler ve Yeni Öncelikler
+wixId: 4dd2e80b-d548-4cce-9326-022768a0c244
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Rusya
+- demiryolu koridoru
+- ulaştırma sektörü
+- Doğu Poligonu
+- INSTC
+- lojistik altyapı
+- hükümet politikası
 ---
 <p>Rusya, ülkenin taşıma ve lojistik gelişimini hızlandırmak amacıyla taşımacılık sektöründeki hükümet liderliğinde önemli değişiklikler yapmakta. Geleneksel ulaştırma bakanının yanı sıra, eski ulaştırma bakanı Vitaly Savelyev yeni Ulaştırma Başbakan Yardımcısı olarak atandı. İkili, "Doğu Poligonu" ve uluslararası demiryolu koridorlarının geliştirilmesine öncelik verecekler.</p>
 <p><br></p>

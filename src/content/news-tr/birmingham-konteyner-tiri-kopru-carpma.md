@@ -1,14 +1,22 @@
 ---
-title: "Birmingham'da Bir Haftada Üç Ciddi Konteyner Tırı Köprü Çarpması"
-subtitle: "Birmingham'da Bir Haftada Üç Ciddi Konteyner Tırı Köprü Çarpması"
-date: "2025-01-09T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_bf11148a16dd41ceb68456c427220b77~mv2.jpg"
-imageAlt: "Birmingham'da Bir Haftada Üç Ciddi Köprü Çarpması"
-wixId: "d104fa4f-c3cb-4a9a-9411-de2289112965"
-author: "Sedat Onat"
+title: Birmingham'da Bir Haftada Üç Ciddi Konteyner Tırı Köprü Çarpması
+subtitle: Birmingham'da Bir Haftada Üç Ciddi Konteyner Tırı Köprü Çarpması
+date: '2025-01-09T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_bf11148a16dd41ceb68456c427220b77~mv2.jpg
+imageAlt: Birmingham'da Bir Haftada Üç Ciddi Köprü Çarpması
+wixId: d104fa4f-c3cb-4a9a-9411-de2289112965
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- köprü çarpması
+- konteyner tırı
+- Birmingham
+- demiryolu
+- HGV
+- Network Rail
+- lojistik güvenlik
 ---
 <p style="text-align: justify">Birmingham'da, 7 Ocak 2025 Çarşamba günü, şehir merkezindeki bir demiryolu hattı, potansiyel olarak felaketle sonuçlanabilecek bir köprü çarpması nedeniyle kapandı. Bu olay, dört gün önce meydana gelen ciddi bir kazanın ardından, aynı hafta içinde yaşanan üçüncü köprü çarpması oldu. <strong>Network Rail</strong>, ulusal farkındalık kampanyalarına rağmen artan bu tür olaylar karşısında büyük endişe duyduğunu belirtti.</p>
 <p style="text-align: justify"><br></p>

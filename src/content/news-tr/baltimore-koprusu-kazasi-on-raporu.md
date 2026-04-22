@@ -1,14 +1,22 @@
 ---
-title: "Baltimore Köprüsü Kazası Ön Raporu Yayımlandı"
-subtitle: "Baltimore Köprüsü Kazası Ön Raporu Yayımlandı"
-date: "2024-05-14T09:15:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_20267e1aaa284b4bb7a13ecc77c9f028~mv2.jpeg"
-imageAlt: "Baltimore Köprüsü Kazası Ön Raporu Yayımlandı"
-wixId: "53346a78-49e2-4425-ab99-35a1fb68d272"
-author: "Sedat Onat"
+title: Baltimore Köprüsü Kazası Ön Raporu Yayımlandı
+subtitle: Baltimore Köprüsü Kazası Ön Raporu Yayımlandı
+date: '2024-05-14T09:15:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_20267e1aaa284b4bb7a13ecc77c9f028~mv2.jpeg
+imageAlt: Baltimore Köprüsü Kazası Ön Raporu Yayımlandı
+wixId: 53346a78-49e2-4425-ab99-35a1fb68d272
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Baltimore
+- köprü kazası
+- Dali gemisi
+- NTSB
+- liman operasyonları
+- deniz kazası
+- kargo gemisi
 ---
 <p>Ulusal Ulaşım Güvenlik Kurulu (NTSB), 26 Mart 2024'te Baltimore'daki Francis Scott Key Köprüsü'nde meydana gelen ve Singapur bayraklı kargo gemisi Dali'nin karıştığı felaketle ilgili ön raporunu yayımladı.&nbsp;</p>
 <p><br></p>

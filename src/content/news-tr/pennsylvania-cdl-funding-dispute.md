@@ -1,14 +1,22 @@
 ---
-title: "Trump Yönetimi, Göçmen Tır Şoförleri İçin Pennsylvania’ya Fon Kesintisi Uyarısı Yaptı"
-subtitle: "Trump Yönetimi, Göçmen Tır Şoförleri İçin Pennsylvania’ya Fon Kesintisi Uyarısı Yaptı"
-date: "2025-11-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7f4abaf7398c461bbbf791047b9b55cd~mv2.jpg"
-imageAlt: "Trump yönetiminin Pennsylvania’nın göçmen tır şoförlerine yönelik CDL verme sürecini yasa dışı ilan ederek 75 milyon dolarlık federal fonu kesmekle tehdit etmesi, PennDOT’un bu iddiaları reddetmesi, federal gözetim süreçleri, DHS tutuklaması ve eyalet–federal çekişmenin ABD ulaştırma ve tedarik zinciri güvenliğine etkileri."
-wixId: "d81b0fbe-32ea-4e4f-a2a4-f5e55ceec193"
-author: "Sedat Onat"
+title: Trump Yönetimi, Göçmen Tır Şoförleri İçin Pennsylvania’ya Fon Kesintisi Uyarısı Yaptı
+subtitle: Trump Yönetimi, Göçmen Tır Şoförleri İçin Pennsylvania’ya Fon Kesintisi Uyarısı Yaptı
+date: '2025-11-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7f4abaf7398c461bbbf791047b9b55cd~mv2.jpg
+imageAlt: Trump yönetiminin Pennsylvania’nın göçmen tır şoförlerine yönelik CDL verme sürecini yasa dışı ilan ederek 75 milyon dolarlık federal fonu kesmekle tehdit etmesi, PennDOT’un bu iddiaları reddetmesi, federal gözetim süreçleri, DHS tutuklaması ve eyalet–federal çekişmenin ABD ulaştırma ve tedarik zinciri güvenliğine etkileri.
+wixId: d81b0fbe-32ea-4e4f-a2a4-f5e55ceec193
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Trump yönetimi
+- göçmen şoförler
+- CDL
+- Pennsylvania
+- lojistik
+- şoför açığı
+- federal yaptırım
 ---
 <p style="text-align: justify">ABD’de ticari sürücü lisansları (<strong>Commercial Driver’s License – CDL</strong>) üzerinden büyüyen federal–eyalet gerilimi, <strong>Trump yönetimi ile Pennsylvania</strong> arasında dikkat çekici bir çatışmaya dönüştü. Ulaştırma Bakanı <strong>Sean Duffy</strong>, 20 Kasım tarihli açıklamasında Pennsylvania’nın göçmen statüsündeki sürücülere “yasa dışı CDL verdiğini” öne sürerek, eyalete tahsis edilen <strong>75 milyon dolarlık federal fonun kesilebileceği</strong> uyarısında bulundu. Duffy’ye göre Pennsylvania’nın ilgili birimi, sürücülerin <strong>ABD’deki yasal kalış süresini aşan geçerlilik tarihleriyle</strong> CDL düzenledi ve lisans süreçlerinde <strong>yasal varlık doğrulaması (proof of lawful presence)</strong> talep edilmedi.</p>
 <p><br></p>

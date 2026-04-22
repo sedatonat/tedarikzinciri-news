@@ -1,14 +1,22 @@
 ---
-title: "Kuzey Denizi’ndeki Ölümcül Çarpışmanın Ardından Stena Immaculate Satıldı"
-subtitle: "Kuzey Denizi’ndeki Ölümcül Çarpışmanın Ardından Stena Immaculate Satıldı"
-date: "2025-10-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_09aed4a2b93842438fa360fbc6f8f6a2~mv2.jpg"
-imageAlt: "Stena Bulk, Mart 2025’te Kuzey Denizi’nde yaşanan ölümcül kaza sonrası ağır hasar gören Stena Immaculate tankerinin onarım amacıyla Desan Tersanesi’ne satıldığını açıkladı. Gemi, satış öncesinde ABD bayrağından Malta bayrağına geçirildi."
-wixId: "d259ce8f-08ed-4a5b-afef-0d3406bfd552"
-author: "Sedat Onat"
+title: Kuzey Denizi’ndeki Ölümcül Çarpışmanın Ardından Stena Immaculate Satıldı
+subtitle: Kuzey Denizi’ndeki Ölümcül Çarpışmanın Ardından Stena Immaculate Satıldı
+date: '2025-10-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_09aed4a2b93842438fa360fbc6f8f6a2~mv2.jpg
+imageAlt: Stena Bulk, Mart 2025’te Kuzey Denizi’nde yaşanan ölümcül kaza sonrası ağır hasar gören Stena Immaculate tankerinin onarım amacıyla Desan Tersanesi’ne satıldığını açıkladı. Gemi, satış öncesinde ABD bayrağından Malta bayrağına geçirildi.
+wixId: d259ce8f-08ed-4a5b-afef-0d3406bfd552
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Stena Immaculate
+- deniz kazası
+- Kuzey Denizi
+- petrol tankeri
+- yakıt sızıntısı
+- Desan Shipyard
+- gemi onarımı
 ---
 <p style="text-align: justify"><strong>Stena Bulk</strong>, Mart ayında Kuzey Denizi’nde meydana gelen trajik çarpışma olayının ardından ağır hasar gören <strong>Stena Immaculate</strong> adlı petrol tankerinin satıldığını duyurdu. Şirketin açıklamasına göre, gemi <strong>onarım ve yeniden faaliyete hazırlık</strong> amacıyla bir alıcıya devredildi ve <strong>Desan Shipyard</strong>’da onarılacak.</p>
 <p><br></p>

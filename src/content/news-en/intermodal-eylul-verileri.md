@@ -1,16 +1,23 @@
 ---
-title: "Intermodal Shipments Continue Growth in September, According to IANA"
-subtitle: "Intermodal Shipments Continue Growth in September, According to IANA"
-date: "2025-10-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4542ebd37a9a4e7e990d6a2bbcb468fc~mv2.jpg"
-imageAlt: "The Intermodal Association of North America (IANA) reported that intermodal shipments grew 2.4% year-over-year in September 2025. The increase provided stability in both domestic and international container shipments, driven by \"frontloading\" activity ahead of tariff implementation."
-wixId: "23a97a9b-f232-424e-b374-69dfd6a711cb"
-author: "Sedat Onat"
+title: Intermodal Shipments Continue Growth in September, According to IANA
+subtitle: Intermodal Shipments Continue Growth in September, According to IANA
+date: '2025-10-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4542ebd37a9a4e7e990d6a2bbcb468fc~mv2.jpg
+imageAlt: The Intermodal Association of North America (IANA) reported that intermodal shipments grew 2.4% year-over-year in September 2025. The increase provided stability in both domestic and international container shipments, driven by "frontloading" activity ahead of tariff implementation.
+wixId: 23a97a9b-f232-424e-b374-69dfd6a711cb
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- intermodal transportation
+- IANA
+- container transportation
+- tariff policies
+- rail
+- supply chain
+- port
 ---
-
 <p style="text-align: justify"><strong>According to data released by the Intermodal Association of North America (IANA)</strong>, <strong>September 2025 intermodal shipments showed a year-over-year growth of 2.4%</strong>. This growth exceeded <strong>the 1.6% increase in August</strong>, but remained below <strong>July's 4.4% expansion</strong>. The elevated growth seen in July had been driven by <strong>frontloading activities ahead of the White House's temporary pause on reciprocal tariffs</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">In September, <strong>total units transported reached 1,550,599</strong>.</p>

@@ -1,16 +1,23 @@
 ---
-title: "U.S. Blocks Nippon Steel's Acquisition of U.S. Steel"
-subtitle: "U.S. Blocks Nippon Steel's Acquisition of U.S. Steel"
-date: "2025-01-03T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_baba3a1de80344d0b0e2c3e19e5d44f1~mv2.jpg"
-imageAlt: "U.S. Blocks Nippon Steel's Acquisition of U.S. Steel"
-wixId: "3dc4855c-cbc1-4b9b-af73-095f7bd55378"
-author: "Sedat Onat"
+title: U.S. Blocks Nippon Steel's Acquisition of U.S. Steel
+subtitle: U.S. Blocks Nippon Steel's Acquisition of U.S. Steel
+date: '2025-01-03T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_baba3a1de80344d0b0e2c3e19e5d44f1~mv2.jpg
+imageAlt: U.S. Blocks Nippon Steel's Acquisition of U.S. Steel
+wixId: 3dc4855c-cbc1-4b9b-af73-095f7bd55378
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- U.S. Steel
+- Nippon Steel
+- steel industry
+- national security
+- supply chain
+- U.S.-Japan relations
+- mergers and acquisitions
 ---
-
 <p>On January 3, 2025, U.S. President Joe Biden blocked <strong>U.S. Steel</strong>'s $14.9 billion sale to Japan-based <strong>Nippon Steel</strong> citing national security concerns.</p>
 <p><br></p>
 <p>The decision was made on grounds that the transfer of U.S. Steel, one of America's largest steel producers, to foreign control could pose risks to critical supply chains and national defense.</p>

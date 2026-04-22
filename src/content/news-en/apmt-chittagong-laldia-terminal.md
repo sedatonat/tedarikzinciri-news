@@ -1,16 +1,24 @@
 ---
-title: "APM Terminals to Build Bangladesh's Deepest Container Terminal in Chittagong"
-subtitle: "APM Terminals to Build Bangladesh's Deepest Container Terminal in Chittagong"
-date: "2025-11-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b0068ca939fb446da02912a7b9d46cbd~mv2.jpg"
-imageAlt: "APM Terminals will construct the $550 million Laldia Container Terminal at Chittagong Port, Bangladesh's main gateway. Scheduled to open in 2030, the terminal will be the country's deepest and most modern container facility and will be operated by APMT under a 30-year concession agreement."
-wixId: "b0da84e6-e743-4143-ae95-05be27ffdbf4"
-author: "Sedat Onat"
+title: APM Terminals to Build Bangladesh's Deepest Container Terminal in Chittagong
+subtitle: APM Terminals to Build Bangladesh's Deepest Container Terminal in Chittagong
+date: '2025-11-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b0068ca939fb446da02912a7b9d46cbd~mv2.jpg
+imageAlt: APM Terminals will construct the $550 million Laldia Container Terminal at Chittagong Port, Bangladesh's main gateway. Scheduled to open in 2030, the terminal will be the country's deepest and most modern container facility and will be operated by APMT under a 30-year concession agreement.
+wixId: b0da84e6-e743-4143-ae95-05be27ffdbf4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- APM Terminals
+- Bangladesh
+- Chittagong
+- container terminal
+- port infrastructure
+- port congestion
+- export
+- textile
 ---
-
 <p style="text-align: justify">Bangladesh has long faced port congestion, operational inefficiencies, and limited infrastructure that constrain Chittagong's capacity. Although Chittagong Port, the country's main trade gateway, is critical for textile exporters, shallow depths, aging infrastructure, and limited berth capacity frequently result in extended vessel waiting times.</p>
 <p><br></p>
 <p style="text-align: justify">A critical step to relieve these pressures comes with <strong>APM Terminals' (APMT)</strong> new investment. The company has been selected by the Bangladesh government to build and operate the <strong>Laldia Container Terminal</strong> under a <strong>30-year concession</strong> agreement. The project cost has been announced at <strong>$550 million</strong>, with the possibility of extending this period based on performance indicators.</p>

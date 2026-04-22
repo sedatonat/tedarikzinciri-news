@@ -1,16 +1,23 @@
 ---
-title: "Tough Times for Panamax Ships: China's Grain Imports Drop 51%"
-subtitle: "Tough Times for Panamax Ships: China's Grain Imports Drop 51%"
-date: "2025-01-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_0698a5424a3c4c8dbc06cdec29275c7e~mv2.jpg"
-imageAlt: "Tough Times for Panamax Ships: China's Grain Imports Drop 51%"
-wixId: "e32f081c-81b5-4f93-a2fe-059a7c29734c"
-author: "Sedat Onat"
+title: 'Tough Times for Panamax Ships: China''s Grain Imports Drop 51%'
+subtitle: 'Tough Times for Panamax Ships: China''s Grain Imports Drop 51%'
+date: '2025-01-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_0698a5424a3c4c8dbc06cdec29275c7e~mv2.jpg
+imageAlt: 'Tough Times for Panamax Ships: China''s Grain Imports Drop 51%'
+wixId: e32f081c-81b5-4f93-a2fe-059a7c29734c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Panamax ships
+- China
+- grain imports
+- Baltic Exchange
+- dry bulk cargo
+- BIMCO
+- maritime transport
 ---
-
 <p style="text-align: justify">In January 2025, China's grain import shipments fell 51% compared with the previous year. This decline has hit <strong>Panamax</strong> vessels hard, as these ships carry 83% of China's grain cargo. The <strong>Baltic Exchange</strong>'s Panamax Index dropped 41% year-on-year and reached its lowest level this week since May 2020.</p>
 <p><br></p>
 <p style="text-align: justify">According to <strong>BIMCO</strong>'s analysis, major exporters have been affected differently: Brazil, which accounts for 47% of shipments, experienced a 29% decline; U.S. cargo, representing 22% of shipments, fell 57%. Since Brazil-China routes are approximately one-quarter longer than U.S.-China routes, the preference for Brazilian cargo is providing some relief to the dry bulk sector.</p>

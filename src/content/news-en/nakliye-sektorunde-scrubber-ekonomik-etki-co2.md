@@ -1,16 +1,24 @@
 ---
-title: "The Economic Impact of Scrubbers in the Shipping Sector"
-subtitle: "The Economic Impact of Scrubbers in the Shipping Sector"
-date: "2024-02-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f9e3abe063ef4de28f949f0dd7fae8d5~mv2.png"
-imageAlt: "The Economic Impact of Scrubbers in the Shipping Sector"
-wixId: "e8469d92-e427-4c6b-aa20-e06cebca5aa8"
-author: "Sedat Onat"
+title: The Economic Impact of Scrubbers in the Shipping Sector
+subtitle: The Economic Impact of Scrubbers in the Shipping Sector
+date: '2024-02-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f9e3abe063ef4de28f949f0dd7fae8d5~mv2.png
+imageAlt: The Economic Impact of Scrubbers in the Shipping Sector
+wixId: e8469d92-e427-4c6b-aa20-e06cebca5aa8
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- scrubber
+- maritime
+- fuel savings
+- IMO 2020
+- VLSFO
+- Sea-Intelligence
+- carbon emissions
+- Red Sea
 ---
-
 <p><a href="https://www.sea-intelligence.com/"><u>Sea-Intelligence</u></a> analysis shows that scrubbers, exhaust gas cleaning systems installed on vessels, have generated $13 billion in savings on shipping fuel. Scrubbers enable the use of IFO380 fuel, which has higher sulphur content and is cheaper than alternatives. Researchers noted that as scrubber installations increase, the proportion of vessels able to capitalize on the potential to purchase cheaper standard fuel rather than the more expensive low-sulphur Very Low Sulphur Fuel Oil (VLSFO) will rise.</p>
 <p><br></p>
 <p>The current price premium for VLSFO is set at $166 per tonne.</p>

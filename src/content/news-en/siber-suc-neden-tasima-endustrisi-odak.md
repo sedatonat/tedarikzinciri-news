@@ -1,14 +1,21 @@
 ---
-title: "Why Do Cybercriminals Target the Transportation Industry?"
-subtitle: "Why Do Cybercriminals Target the Transportation Industry?"
-date: "2024-05-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_82fd88c9d5c8491ebf8a3160fe39f1e2~mv2.jpg"
-imageAlt: "Why Do Cybercriminals Target the Transportation Industry?"
-wixId: "9b7d1690-faf8-4dd4-abe6-442a4a919c9e"
-author: "Sedat Onat"
+title: Why Do Cybercriminals Target the Transportation Industry?
+subtitle: Why Do Cybercriminals Target the Transportation Industry?
+date: '2024-05-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_82fd88c9d5c8491ebf8a3160fe39f1e2~mv2.jpg
+imageAlt: Why Do Cybercriminals Target the Transportation Industry?
+wixId: 9b7d1690-faf8-4dd4-abe6-442a4a919c9e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- cybersecurity
+- transportation industry
+- cyberattack
+- supply chain
+- logistics security
+- ransomware
+- data security
 ---
-
 <p>Global freight logistics requires a complex data network due to the vast distances between manufacturing and distribution points. For this reason, the transportation industry plays a critical role in supplying citizens worldwide with essential products. Yet this very importance makes it an attractive target for cybercriminals. While cybercriminals may commit fraud against individual citizens—such as phishing emails, credit card theft, and identity theft—when they target businesses, the transportation industry suffers particularly acute damage. Compromised smartphones or tablets used by drivers can lead to malicious alteration or cancellation of delivery schedules, potentially causing serious supply chain disruptions.</p>\n<p><br></p>\n<p>One of the primary reasons cybercriminals target the transportation industry is that a single network failure has the potential to create widespread chaos. Furthermore, weak security measures and poor email hygiene pose significant risks, capable of causing shutdowns at critical infrastructure points such as ports, airports, or railway stations.</p>\n<p><br></p>\n<p>New software and improved computer systems can be deployed to prevent cyberattacks. However, independent hackers can quickly circumvent these protections. For this reason, extra emphasis must be placed on technology's cybersecurity capabilities. Additionally, increasing penalties for cybercriminals and understanding the terrorist threats they can pose is essential. The fragility of supply chains in developed countries demonstrates the need for robust sanctions against cybercriminals, including national and international terrorism charges.</p>\n<p><br></p>\n<p><br></p>\n<h5><strong>Key Points</strong></h5>\n<ol>\n  <li><p>The transportation industry plays a critical role on a global scale.</p></li>\n  <li><p>Cybercriminals can exploit industrial network failures to create major disruptions.</p></li>\n  <li><p>Weak security and poor email hygiene carry substantial risks.</p></li>\n  <li><p>In addition to technological protections, emphasis must be placed on cybersecurity training.</p></li>\n  <li><p>Strengthening national and international legal sanctions against cybercriminals is important.</p></li>\n</ol>\n<p><br></p>\n<p><strong>News Link: </strong><a href="https://www.allthingssupplychain.com/why-cybercriminals-target-the-freight-industry/"><u>https://www.allthingssupplychain.com/why-cybercriminals-target-the-freight-industry/</u></a></p>

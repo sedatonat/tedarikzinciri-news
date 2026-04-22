@@ -1,14 +1,22 @@
 ---
-title: "Trump, Gıda Tedarik Zincirlerinde Olası Fiyat Sabitleme İçin Federal Soruşturma Emri Verdi"
-subtitle: "Trump, Gıda Tedarik Zincirlerinde Olası Fiyat Sabitleme İçin Federal Soruşturma Emri Verdi"
-date: "2025-12-08T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_41328419ea914dbbab8e126e453a5dbb~mv2.jpg"
-imageAlt: "Trump yönetiminin artan market fiyatları karşısında gıda tedarik zincirlerinde fiyat sabitleme ve rekabet ihlali iddialarını incelemek üzere DOJ ve FTC’ye yetki vermesi, özellikle yabancı sermayeli şirketlere odaklanan soruşturmanın kapsamı ve sektörel yansımalarının detaylı özeti"
-wixId: "13d0df37-6aa2-4229-a725-d280b925ec01"
-author: "Sedat Onat"
+title: Trump, Gıda Tedarik Zincirlerinde Olası Fiyat Sabitleme İçin Federal Soruşturma Emri Verdi
+subtitle: Trump, Gıda Tedarik Zincirlerinde Olası Fiyat Sabitleme İçin Federal Soruşturma Emri Verdi
+date: '2025-12-08T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_41328419ea914dbbab8e126e453a5dbb~mv2.jpg
+imageAlt: Trump yönetiminin artan market fiyatları karşısında gıda tedarik zincirlerinde fiyat sabitleme ve rekabet ihlali iddialarını incelemek üzere DOJ ve FTC’ye yetki vermesi, özellikle yabancı sermayeli şirketlere odaklanan soruşturmanın kapsamı ve sektörel yansımalarının detaylı özeti
+wixId: 13d0df37-6aa2-4229-a725-d280b925ec01
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- fiyat sabitleme
+- gıda tedarik zinciri
+- Trump
+- et sektörü
+- DOJ
+- FTC
+- yabancı sermaye
 ---
 <p style="text-align: justify">ABD Başkanı <strong>Donald Trump</strong>, hızla yükselen market fiyatlarının yarattığı siyasi ve toplumsal baskı karşısında, ABD gıda tedarik zincirlerinde <strong>fiyat sabitleme (price fixing)</strong> ve diğer <strong>anti-competitive practices</strong> olasılıklarını araştırmak üzere kapsamlı bir federal soruşturma başlatılması talimatını verdi. <strong>Food Dive</strong> kaynaklı habere göre başkanlık kararnamesi, <strong>Department of Justice (DOJ)</strong> ve <strong>Federal Trade Commission (FTC)</strong> bünyesinde özel <strong>task force</strong>’lar kurulmasını öngörmekte.</p>
 <p><br></p>

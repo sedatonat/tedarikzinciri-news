@@ -1,14 +1,23 @@
 ---
-title: "Wärtsilä, Denizcilikte Karbonsuzlaştırma İçin 'TwinShip' Projesine Katılıyor"
-subtitle: "Wärtsilä, Denizcilikte Karbonsuzlaştırma İçin 'TwinShip' Projesine Katılıyor"
-date: "2024-10-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d1d98be8b0fb468bb900811284c02b2b~mv2.jpg"
-imageAlt: "Wärtsilä, Denizcilikte Karbonsuzlaştırma İçin 'TwinShip' Projesine Katılıyor"
-wixId: "aaa9a97c-b6d1-4de2-b98c-657578521fbb"
-author: "Sedat Onat"
+title: Wärtsilä, Denizcilikte Karbonsuzlaştırma İçin 'TwinShip' Projesine Katılıyor
+subtitle: Wärtsilä, Denizcilikte Karbonsuzlaştırma İçin 'TwinShip' Projesine Katılıyor
+date: '2024-10-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d1d98be8b0fb468bb900811284c02b2b~mv2.jpg
+imageAlt: Wärtsilä, Denizcilikte Karbonsuzlaştırma İçin 'TwinShip' Projesine Katılıyor
+wixId: aaa9a97c-b6d1-4de2-b98c-657578521fbb
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Wärtsilä
+- karbonsuzlaştırma
+- TwinShip
+- denizcilik
+- yapay zeka
+- Avrupa Birliği
+- IMO
+- sera gazı emisyonları
 ---
 <p>Wärtsilä, filo operasyonlarının karbonsuzlaştırılmasına yönelik daha akıllı denizcilik kararları alınabilmesi için güvenilir verilere erişimi iyileştirmeyi amaçlayan 'TwinShip' girişimine katıldığını duyurdu. Avrupa Birliği (EU) tarafından finanse edilen ve 2025'ten 2028'e kadar sürecek olan bu proje, teknoloji ve hizmet sağlayıcılar, gemi tasarımı ve denizcilik şirketleri, sınıflandırma kuruluşları, limanlar, yazılım geliştiricileri ile araştırma ve akademik kuruluşlardan oluşan ondan fazla partneri bir araya getirecek.</p>
 <p><br></p>

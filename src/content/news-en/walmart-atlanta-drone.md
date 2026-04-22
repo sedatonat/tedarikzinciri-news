@@ -1,16 +1,23 @@
 ---
-title: "Walmart Launches Drone Deliveries in Atlanta: Last-Mile Transformation Accelerating in Retail"
-subtitle: "Walmart Launches Drone Deliveries in Atlanta: Last-Mile Transformation Accelerating in Retail"
-date: "2025-12-11T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_980a1be4c8d14000ab96d60eb641e374~mv2.jpg"
-imageAlt: "Walmart's launch of drone delivery service in the Atlanta metro area through its Wing partnership, featuring sub-five-minute delivery times, city-based scaling strategy, and detailed summary of retail logistics impacts"
-wixId: "fb2bb93c-3466-40da-810c-b794ea6b64a4"
-author: "Sedat Onat"
+title: 'Walmart Launches Drone Deliveries in Atlanta: Last-Mile Transformation Accelerating in Retail'
+subtitle: 'Walmart Launches Drone Deliveries in Atlanta: Last-Mile Transformation Accelerating in Retail'
+date: '2025-12-11T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_980a1be4c8d14000ab96d60eb641e374~mv2.jpg
+imageAlt: Walmart's launch of drone delivery service in the Atlanta metro area through its Wing partnership, featuring sub-five-minute delivery times, city-based scaling strategy, and detailed summary of retail logistics impacts
+wixId: fb2bb93c-3466-40da-810c-b794ea6b64a4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Walmart
+- drone delivery
+- last mile
+- Wing
+- Atlanta
+- retail logistics
+- last-mile delivery
 ---
-
 <p style="text-align: justify">U.S. retail giant <strong>Walmart</strong> has crossed another major milestone in its <strong>last-mile delivery</strong> strategy by formally launching <strong>drone delivery service in the Atlanta metro area</strong>. In partnership with drone operator <strong>Wing</strong>, the company has begun airborne deliveries from <strong>six stores</strong> in Atlanta to customers. The service represents the first major metropolitan rollout of Walmart's drone delivery network, which the company plans to expand to <strong>five major U.S. cities by mid-2026</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">According to an announcement from <strong>Wing</strong>, drone deliveries in Atlanta commenced as of <strong>December 3rd</strong>. The service covers the delivery of:</p>

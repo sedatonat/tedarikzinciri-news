@@ -1,16 +1,23 @@
 ---
-title: "Panama Scrutinizes Chinese Port Operator"
-subtitle: "Panama Scrutinizes Chinese Port Operator"
-date: "2025-01-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f9e021e4459241d6827769d6221f151e~mv2.jpg"
-imageAlt: "Panama Scrutinizes Chinese Port Operator"
-wixId: "3a6f8077-bd53-4c3d-84c3-b2c4e2a9198d"
-author: "Sedat Onat"
+title: Panama Scrutinizes Chinese Port Operator
+subtitle: Panama Scrutinizes Chinese Port Operator
+date: '2025-01-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f9e021e4459241d6827769d6221f151e~mv2.jpg
+imageAlt: Panama Scrutinizes Chinese Port Operator
+wixId: 3a6f8077-bd53-4c3d-84c3-b2c4e2a9198d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Panama Canal
+- Hutchison Ports
+- port operator
+- Chinese investments
+- geopolitics
+- national security
+- Donald Trump
 ---
-
 <p style="text-align: justify">Panamanian authorities have launched an audit of a China-linked company that controls two ports adjacent to the <strong>Panama Canal</strong>. This development comes ahead of a visit to the country by former U.S. President <strong>Donald Trump</strong>. The audit occurs at a time of heightened global concern over China's increasing presence in strategically important regions.​</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>Scope and Rationale for the Audit</strong></p>

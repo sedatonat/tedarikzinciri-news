@@ -1,16 +1,24 @@
 ---
-title: "New Global Container Ports Index (LCP - Leading Container Ports)"
-subtitle: "New Global Container Ports Index (LCP - Leading Container Ports)"
-date: "2025-11-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_df87c3b1fb084da898b2476b205c4e2c~mv2.jpg"
-imageAlt: ""
-wixId: "2212ecf6-6e3d-46c4-852a-9d408325d28d"
-author: "Sedat Onat"
+title: New Global Container Ports Index (LCP - Leading Container Ports)
+subtitle: New Global Container Ports Index (LCP - Leading Container Ports)
+date: '2025-11-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_df87c3b1fb084da898b2476b205c4e2c~mv2.jpg
+imageAlt: ''
+wixId: 2212ecf6-6e3d-46c4-852a-9d408325d28d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- container ports
+- port index
+- Singapore
+- Shanghai
+- Rotterdam
+- DNV
+- sustainability
+- digitalization
 ---
-
 <p style="text-align: justify">DNV and Menon Economics have introduced a new index alongside their long-running <em>Leading Maritime Cities</em> index, this time ranking the world's <strong>leading container ports</strong>: the <strong>Leading Container Ports of the World (LCP)</strong>.</p>
 <p style="text-align: justify">According to the initial results:</p>
 <ul>

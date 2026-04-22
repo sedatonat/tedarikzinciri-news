@@ -1,14 +1,22 @@
 ---
-title: "Birleşik Krallık, Demiryollarında Drone Devriyelerine İzin Verdi"
-subtitle: "Birleşik Krallık, Demiryollarında Drone Devriyelerine İzin Verdi"
-date: "2025-06-13T00:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_d558a740e55648c5931068c1eba5bd87~mv2.png"
-imageAlt: "Birleşik Krallık Demiryollarında Drone Devriyelerine İzin Verdi"
-wixId: "e653fecb-2e42-49bd-a506-600ecb4f3557"
-author: "Sedat Onat"
+title: Birleşik Krallık, Demiryollarında Drone Devriyelerine İzin Verdi
+subtitle: Birleşik Krallık, Demiryollarında Drone Devriyelerine İzin Verdi
+date: '2025-06-13T00:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_d558a740e55648c5931068c1eba5bd87~mv2.png
+imageAlt: Birleşik Krallık Demiryollarında Drone Devriyelerine İzin Verdi
+wixId: e653fecb-2e42-49bd-a506-600ecb4f3557
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- drone
+- demiryolu
+- Birleşik Krallık
+- BVLOS
+- computer vision
+- altyapı bakımı
+- dijitalleşme
 ---
 <p style="text-align: justify"><strong>Birleşik Krallık</strong>, demiryolu altyapısında <strong>Drone Patrol (drone devriyesi)</strong> uygulamasına izin vererek bakım ve güvenlik gözetimini dijitalleştiriyor. Yeni sistemle birlikte dronlar, hat boyunca <strong>BVLOS (Beyond Visual Line of Sight – Görüş Alanı Dışı)</strong> senaryolarında görev yaparak köprü, tünel ve ray segmentlerinde bakım kontrollerini hızlandırıyor. <strong>Computer vision</strong> destekli analiz sistemleri, yüzey çatlakları, deformasyonlar ve erken aşama kusurları tespit ederek altyapı arızalarının önüne geçiyor.</p>
 <p style="text-align: justify"><br></p>

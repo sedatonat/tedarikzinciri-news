@@ -1,14 +1,23 @@
 ---
-title: "2024 Yılında Siyasetin Tedarik Zincirlerine Etkisi"
-subtitle: "2024 Yılında Siyasetin Tedarik Zincirlerine Etkisi"
-date: "2024-02-23T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_21fcae7a7129422094874dcc092216ef~mv2.jpg"
-imageAlt: "2024 Yılında Siyasetin Tedarik Zincirlerine Etkisi"
-wixId: "4638a040-7592-4b9d-ac86-bc2feeac121d"
-author: "Sedat Onat"
+title: 2024 Yılında Siyasetin Tedarik Zincirlerine Etkisi
+subtitle: 2024 Yılında Siyasetin Tedarik Zincirlerine Etkisi
+date: '2024-02-23T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_21fcae7a7129422094874dcc092216ef~mv2.jpg
+imageAlt: 2024 Yılında Siyasetin Tedarik Zincirlerine Etkisi
+wixId: 4638a040-7592-4b9d-ac86-bc2feeac121d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- siyaset
+- tedarik zinciri
+- reshoring
+- Meksika
+- Çin
+- yapay zeka
+- çevresel düzenlemeler
+- USMCA
 ---
 <p>2024 yılı için <a href="https://reshoringinstitute.org/"><u>Reshoring Institute</u></a> tarafından yapılan tahmin anketi, sonuçlarıyla dikkat çekti. Anket sonuçlarına göre, siyaset bu yıl tedarik zincirlerini etkileyecek en önemli faktör olarak öne çıktı. Yirmi yıl öncesinde hemen hemen hiç bahsi geçmeyen siyaset, bugün tedarik zinciri kararlarının çoğunu etkileyen bir unsur haline geldi. Ankete katılanların %70'i siyaseti cevaplarında belirtti.</p>
 <p><br></p>

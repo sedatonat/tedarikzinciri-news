@@ -1,16 +1,23 @@
 ---
-title: "UPS Cuts 34,000 Positions and Closes 93 Facilities in 2025 Amid Amazon Volume Decline"
-subtitle: "UPS Cuts 34,000 Positions and Closes 93 Facilities in 2025 Amid Amazon Volume Decline"
-date: "2025-10-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0a61d7ca68d64f5ba7cdf7a25f279fd4~mv2.jpg"
-imageAlt: "In the first nine months of 2025, UPS shed 34,000 employees and closed 93 facilities. The company aims to reduce costs by up to 3.5 billion dollars as it contends with a 21 percent decline in package volume from Amazon and restructures its U.S. operations network."
-wixId: "9e2ad470-d5c4-4710-b99b-56cf0983be3d"
-author: "Sedat Onat"
+title: UPS Cuts 34,000 Positions and Closes 93 Facilities in 2025 Amid Amazon Volume Decline
+subtitle: UPS Cuts 34,000 Positions and Closes 93 Facilities in 2025 Amid Amazon Volume Decline
+date: '2025-10-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0a61d7ca68d64f5ba7cdf7a25f279fd4~mv2.jpg
+imageAlt: In the first nine months of 2025, UPS shed 34,000 employees and closed 93 facilities. The company aims to reduce costs by up to 3.5 billion dollars as it contends with a 21 percent decline in package volume from Amazon and restructures its U.S. operations network.
+wixId: 9e2ad470-d5c4-4710-b99b-56cf0983be3d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- UPS
+- Amazon
+- layoffs
+- restructuring
+- automation
+- logistics
+- cost savings
 ---
-
 <p style="text-align: justify"><strong>United Parcel Service (UPS)</strong> is undertaking its most comprehensive restructuring in company history during 2025, <strong>reducing approximately 34,000 positions</strong> and <strong>closing 93 facilities</strong>. The company's <strong>third-quarter financial report</strong> revealed that these measures are planned in parallel with <strong>declining Amazon volumes</strong> and <strong>optimization of the U.S. distribution network</strong>.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Workforce reduction and driver program</strong></h5>

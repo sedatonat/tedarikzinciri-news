@@ -1,14 +1,22 @@
 ---
-title: "Moda Endüstrisi Vietnam Üzerindeki Olası Tarifelerden Endişe Duymakta"
-subtitle: "Moda Endüstrisi Vietnam Üzerindeki Olası Tarifelerden Endişe Duymakta"
-date: "2025-03-13T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_763537cefbe44cf2832db7e1b8537905~mv2.jpg"
-imageAlt: "Moda Endüstrisi Vietnam Üzerindeki Olası Tarifelerden Endişe Duymakta"
-wixId: "cdbb8c97-fb8f-460f-96e8-e71d9a32397f"
-author: "Sedat Onat"
+title: Moda Endüstrisi Vietnam Üzerindeki Olası Tarifelerden Endişe Duymakta
+subtitle: Moda Endüstrisi Vietnam Üzerindeki Olası Tarifelerden Endişe Duymakta
+date: '2025-03-13T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_763537cefbe44cf2832db7e1b8537905~mv2.jpg
+imageAlt: Moda Endüstrisi Vietnam Üzerindeki Olası Tarifelerden Endişe Duymakta
+wixId: cdbb8c97-fb8f-460f-96e8-e71d9a32397f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Vietnam
+- moda endüstrisi
+- gümrük tarifeleri
+- tedarik zinciri
+- Çin
+- Nike
+- tekstil üretimi
 ---
 <p style="text-align: justify">Moda sektörü, ithalata büyük ölçüde bağımlı olması nedeniyle, ürün tedarik ettiği ülkelerden gelen mevcut ve olası gümrük tarifeleri karşısında hazırlık yapmaktadır. Başkan <strong>Donald Trump</strong>, ikinci döneminin ilk 100 gününde, moda endüstrisinin kâr marjını etkileyecek çeşitli tarife politikaları önermiştir. Şirketler, bu politikalara uygun stratejiler geliştirmektedir.​</p>
 <p><br></p>

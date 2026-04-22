@@ -1,14 +1,22 @@
 ---
-title: "ABD ve Çin, Nadir Topraklar ve Gümrük Vergileri Üzerine Geçici Ateşkeste Anlaştı"
-subtitle: "ABD ve Çin, Nadir Topraklar ve Gümrük Vergileri Üzerine Geçici Ateşkeste Anlaştı"
-date: "2025-10-27T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_1fef2bac644244db947a9ca1a87a1099~mv2.jpg"
-imageAlt: "Kuala Lumpur’daki ASEAN Zirvesi kapsamında yapılan görüşmelerde, ABD ve Çin heyetleri nadir toprak elementleri ihracatı ve gümrük tarifeleri konusunda çerçeve anlaşmasına vardı. Anlaşma, Trump ve Xi’nin Güney Kore’deki görüşmesinde onaylanacak."
-wixId: "00bc973c-878d-4984-b9cd-1bf201e4df16"
-author: "Sedat Onat"
+title: ABD ve Çin, Nadir Topraklar ve Gümrük Vergileri Üzerine Geçici Ateşkeste Anlaştı
+subtitle: ABD ve Çin, Nadir Topraklar ve Gümrük Vergileri Üzerine Geçici Ateşkeste Anlaştı
+date: '2025-10-27T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_1fef2bac644244db947a9ca1a87a1099~mv2.jpg
+imageAlt: Kuala Lumpur’daki ASEAN Zirvesi kapsamında yapılan görüşmelerde, ABD ve Çin heyetleri nadir toprak elementleri ihracatı ve gümrük tarifeleri konusunda çerçeve anlaşmasına vardı. Anlaşma, Trump ve Xi’nin Güney Kore’deki görüşmesinde onaylanacak.
+wixId: 00bc973c-878d-4984-b9cd-1bf201e4df16
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD
+- Çin
+- nadir topraklar
+- gümrük vergileri
+- ticaret savaşı
+- ASEAN
+- tedarik zinciri
 ---
 <p style="text-align: justify">Kuala Lumpur’da düzenlenen <strong>ASEAN Zirvesi</strong> kapsamında gerçekleştirilen üst düzey görüşmelerde, <strong>ABD</strong> ve <strong>Çin</strong> ticaret yetkilileri, iki ülke liderleri <strong>Donald Trump</strong> ve <strong>Xi Jinping</strong> tarafından bu hafta onaylanmak üzere bir <strong>ticaret ateşkesi çerçevesi</strong> üzerinde uzlaşmaya vardı. Görüşmelerin sonucunda, <strong>ABD’nin 1 Kasım’da yürürlüğe koymayı planladığı %100 gümrük tarifelerinin askıya alınması</strong> ve <strong>Çin’in nadir toprak elementleri ihracatına yönelik yeni kısıtlamalarının bir yıl ertelenmesi</strong> yönünde prensip kararı alındı.</p>
 <p><br></p>

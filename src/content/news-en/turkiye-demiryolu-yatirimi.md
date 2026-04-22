@@ -1,16 +1,23 @@
 ---
-title: "China to Invest $60 Billion in Turkish Railway Infrastructure"
-subtitle: "China to Invest $60 Billion in Turkish Railway Infrastructure"
-date: "2025-01-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7221efba04cb491a831b279a3dc756e4~mv2.jpg"
-imageAlt: "China to Invest $60 Billion in Turkish Railway Infrastructure"
-wixId: "59bcce36-21ce-4d33-a20f-622d41ab7d63"
-author: "Sedat Onat"
+title: China to Invest $60 Billion in Turkish Railway Infrastructure
+subtitle: China to Invest $60 Billion in Turkish Railway Infrastructure
+date: '2025-01-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7221efba04cb491a831b279a3dc756e4~mv2.jpg
+imageAlt: China to Invest $60 Billion in Turkish Railway Infrastructure
+wixId: 59bcce36-21ce-4d33-a20f-622d41ab7d63
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Chinese investment
+- railway infrastructure
+- Middle Corridor
+- Turkey
+- CRRC
+- Eurasian traffic
+- electrification
 ---
-
 <p style="text-align: justify">Turkey is advancing toward becoming a major railway hub for Eurasian traffic, with the development of the Middle Corridor opening new opportunities to achieve this goal. In this context, <strong>China</strong> is evaluating a $60 billion investment in Turkey's railway infrastructure. This investment aims to increase capacity for Eurasian traffic that bypasses Russia.</p>
 <p><br></p>
 <p style="text-align: justify">Given European countries' desire to bypass Russia by utilizing the Middle Corridor, <strong>China</strong> appears highly willing to realize this opportunity. The $60 billion railway investment in Turkey could help secure future China-Europe railway freight traffic amid tense relations between Europe and Russia. This information was disclosed in comments made by a Turkish investment official to the <strong>South China Morning Post</strong> newspaper.</p>

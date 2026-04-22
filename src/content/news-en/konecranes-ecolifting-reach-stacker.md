@@ -1,16 +1,23 @@
 ---
-title: "Konecranes Expands Ecolifting With First Electric Reach Stacker and Global Remote Services Network"
-subtitle: "Konecranes Expands Ecolifting With First Electric Reach Stacker and Global Remote Services Network"
-date: "2025-11-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0cf65f0b3d7f4893b16f3b615bb10ca0~mv2.jpg"
-imageAlt: "Detailed news summary describing Konecranes' launch of its first electric reach stacker, the global expansion of Remote Services, and the strategic expansion of the Ecolifting program toward low-emission port equipment"
-wixId: "86b445d7-f46a-418f-bb84-be210a8d4011"
-author: "Sedat Onat"
+title: Konecranes Expands Ecolifting With First Electric Reach Stacker and Global Remote Services Network
+subtitle: Konecranes Expands Ecolifting With First Electric Reach Stacker and Global Remote Services Network
+date: '2025-11-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0cf65f0b3d7f4893b16f3b615bb10ca0~mv2.jpg
+imageAlt: Detailed news summary describing Konecranes' launch of its first electric reach stacker, the global expansion of Remote Services, and the strategic expansion of the Ecolifting program toward low-emission port equipment
+wixId: 86b445d7-f46a-418f-bb84-be210a8d4011
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Konecranes
+- electric reach stacker
+- port equipment
+- Ecolifting
+- Remote Services
+- Li-Ion battery
+- sustainability
 ---
-
 <p style="text-align: justify"><strong>Konecranes</strong> has launched the company's first <strong>electric reach stacker</strong> model at the <strong>TOC Asia</strong> event in Singapore, marking a significant transformation in its port and industrial equipment portfolio. The launch comes as global port operators accelerate their demand for electric equipment, while the company also announced that its <strong>Remote Services</strong> platform is now accessible worldwide. These two developments extend Konecranes' <strong>Ecolifting</strong> initiative to a broader range of solutions.</p>
 <p><br></p>
 <p style="text-align: justify">The new <strong>electric reach stacker</strong> will initially be offered in the <strong>APAC</strong>, <strong>Middle East &amp; Africa</strong>, and <strong>South America</strong> markets. The equipment operates with high-performance <strong>electric drivetrain</strong> and advanced <strong>Li-Ion battery</strong> technology. With up to <strong>16 hours</strong> of operating time per charge, the machine is now suitable not only for short shifts but also for intensive terminal operations. The company notes that the electric powertrain does not compromise container handling-and-transport capacity; instead, it delivers improved operational efficiency through reduced noise and lower maintenance costs.</p>

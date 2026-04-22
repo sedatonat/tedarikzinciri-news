@@ -1,14 +1,23 @@
 ---
-title: "Suez Kanalı Trafik ve Gelirlerinin 2026 Sonunda Tam Normalleşmesi Bekleniyor"
-subtitle: "Suez Kanalı Trafik ve Gelirlerinin 2026 Sonunda Tam Normalleşmesi Bekleniyor"
-date: "2025-11-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c4c1e02a45e74090903ad52517f99eed~mv2.jpg"
-imageAlt: "Suez Canal Authority’nin 2026 sonunda gelirlerin ve gemi trafiğinin tamamen normale döneceğine dair açıklaması, Maersk’in dönüşü, teşvikler, transit verileri ve bölgesel istikrar etkileri üzerine kapsamlı özet"
-wixId: "31119de2-88ef-4646-ba5e-88ebce552878"
-author: "Sedat Onat"
+title: Suez Kanalı Trafik ve Gelirlerinin 2026 Sonunda Tam Normalleşmesi Bekleniyor
+subtitle: Suez Kanalı Trafik ve Gelirlerinin 2026 Sonunda Tam Normalleşmesi Bekleniyor
+date: '2025-11-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c4c1e02a45e74090903ad52517f99eed~mv2.jpg
+imageAlt: Suez Canal Authority’nin 2026 sonunda gelirlerin ve gemi trafiğinin tamamen normale döneceğine dair açıklaması, Maersk’in dönüşü, teşvikler, transit verileri ve bölgesel istikrar etkileri üzerine kapsamlı özet
+wixId: 31119de2-88ef-4646-ba5e-88ebce552878
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Suez Kanalı
+- Maersk
+- CMA CGM
+- deniz taşımacılığı
+- konteyner gemisi
+- Kızıldeniz
+- liman gelirleri
+- Houthis
 ---
 <p style="text-align: justify"><strong>Suez Canal Authority (SCA)</strong> Başkanı <strong>Osama Rabie</strong>, Al Arabiya Business’a verdiği röportajda, kanal trafiğinin ve gelirlerinin <strong>2026 yılının sonuna kadar tam normal seviyelere ulaşmasını beklediklerini</strong> açıkladı. Rabie, özellikle <strong>Maersk</strong>’in kademeli dönüş kararının, altı ay boyunca sürdürülen kesintisiz iletişimin sonucunda şekillendiğini belirtti. Maersk’in Aralık ayından itibaren kısmi geçişlere başlayacağı, sürecin daha sonra tam kapasiteye tamamlanacağı ifade edilmekte.</p>
 <p><br></p>

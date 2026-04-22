@@ -1,16 +1,23 @@
 ---
-title: "Leaf Home Cuts Logistics Costs by 20% After Modernizing Supply Chain with Uber Freight TMS"
-subtitle: "Leaf Home Cuts Logistics Costs by 20% After Modernizing Supply Chain with Uber Freight TMS"
-date: "2025-11-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/nsplsh_39507362355131544c4434~mv2.jpg"
-imageAlt: "Leaf Home digitized its increasingly complex supply chain following rapid growth by deploying Uber Freight's modern TMS platform, achieving 1,000 hours of labor savings, a 20% reduction in FTL costs, and improved delivery performance."
-wixId: "00bcfc04-3afa-43f7-b548-ad9631c2cd88"
-author: "Sedat Onat"
+title: Leaf Home Cuts Logistics Costs by 20% After Modernizing Supply Chain with Uber Freight TMS
+subtitle: Leaf Home Cuts Logistics Costs by 20% After Modernizing Supply Chain with Uber Freight TMS
+date: '2025-11-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/nsplsh_39507362355131544c4434~mv2.jpg
+imageAlt: Leaf Home digitized its increasingly complex supply chain following rapid growth by deploying Uber Freight's modern TMS platform, achieving 1,000 hours of labor savings, a 20% reduction in FTL costs, and improved delivery performance.
+wixId: 00bcfc04-3afa-43f7-b548-ad9631c2cd88
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Uber Freight
+- TMS
+- Leaf Home
+- cost reduction
+- logistics optimization
+- digital transformation
+- automation
 ---
-
 <p style="text-align: justify"><strong>Leaf Home</strong> is a direct-to-consumer brand serving North America with a broad product portfolio ranging from gutter protection systems to water filtration solutions and in-home mobility products. The pandemic-driven boom in home renovation pushed the company to expand from <strong>30 to 250+ locations</strong>. However, rapid growth created a significant bottleneck in Leaf Home's <strong>logistics management, which still relied on manual processes</strong>.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Because the company specializes in <strong>large, high-volume products</strong>, it manages a complex last-mile distribution model requiring significant flexibility. Products are first transported to field offices and then to customers' homes; any delay cascades throughout the entire operation.</p>

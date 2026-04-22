@@ -1,14 +1,23 @@
 ---
-title: "Almanya'da NKT ve TenneT Arasında 1 Milyar Dolarlık Kablo Anlaşması"
-subtitle: "Almanya'da NKT ve TenneT Arasında 1 Milyar Dolarlık Kablo Anlaşması"
-date: "2024-12-27T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_1bd3787731c143a4a8e0fbbc07c662c1~mv2.jpg"
-imageAlt: "Almanya'da NKT ve TenneT Arasında 1 Milyar Dolarlık Kablo Anlaşması"
-wixId: "fe1a0911-ec9f-4e7f-ab6c-132c70127251"
-author: "Sedat Onat"
+title: Almanya'da NKT ve TenneT Arasında 1 Milyar Dolarlık Kablo Anlaşması
+subtitle: Almanya'da NKT ve TenneT Arasında 1 Milyar Dolarlık Kablo Anlaşması
+date: '2024-12-27T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_1bd3787731c143a4a8e0fbbc07c662c1~mv2.jpg
+imageAlt: Almanya'da NKT ve TenneT Arasında 1 Milyar Dolarlık Kablo Anlaşması
+wixId: fe1a0911-ec9f-4e7f-ab6c-132c70127251
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- NKT
+- TenneT
+- enerji altyapısı
+- HVDC
+- rüzgar enerjisi
+- Almanya
+- yenilenebilir enerji
+- deniz kablosu
 ---
 <p>Danimarkalı açık deniz kablolama uzmanı <strong>NKT</strong>, Almanya'da iki anahtar teslim proje için iletim sistemi operatörü <strong>TenneT</strong> ile yaklaşık 1 milyar Euro (1,04 milyar dolar) değerinde anlaşma imzaladı. Bu projeler, TenneT'in Avrupa'daki enerji geçişini desteklemeyi amaçlayan 2GW Programı kapsamında yer alıyor.</p>
 <p>Anlaşma, 2023 yılında imzalanan ve 2028'e kadar sürecek olan çok yıllı bir çerçeve anlaşmanın parçası olup, 2031'e kadar uzatma opsiyonu bulunuyor. Bu kapsamda NKT, toplamda beş proje üstlenmiş durumda.</p>

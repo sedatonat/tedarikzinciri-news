@@ -1,14 +1,23 @@
 ---
-title: "Bulgaristan, Hasar Gören Kairos Tankerini Burgaz Açıklarında Emniyete Aldı"
-subtitle: "Bulgaristan, Hasar Gören Kairos Tankerini Burgaz Açıklarında Emniyete Aldı"
-date: "2025-12-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_101af0a8660f4ed5871b1706529a0c73~mv2.jpg"
-imageAlt: "Ukrayna deniz dronu saldırısının ardından Türkiye’den çekilen ve Bulgaristan kıyılarına sürüklenen Kairos tankerinin durumu, Bulgar ve Türk makamlarının müdahalesi, gölge filo riski ve Karadeniz’de deniz güvenliğine etkilerinin detaylı özeti"
-wixId: "fb1f56d7-7dd1-4bd9-9aa2-19d0184e0248"
-author: "Sedat Onat"
+title: Bulgaristan, Hasar Gören Kairos Tankerini Burgaz Açıklarında Emniyete Aldı
+subtitle: Bulgaristan, Hasar Gören Kairos Tankerini Burgaz Açıklarında Emniyete Aldı
+date: '2025-12-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_101af0a8660f4ed5871b1706529a0c73~mv2.jpg
+imageAlt: Ukrayna deniz dronu saldırısının ardından Türkiye’den çekilen ve Bulgaristan kıyılarına sürüklenen Kairos tankerinin durumu, Bulgar ve Türk makamlarının müdahalesi, gölge filo riski ve Karadeniz’de deniz güvenliğine etkilerinin detaylı özeti
+wixId: fb1f56d7-7dd1-4bd9-9aa2-19d0184e0248
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kairos tankeri
+- shadow fleet
+- deniz dronu saldırısı
+- Karadeniz güvenliği
+- Bulgaristan
+- çevre riski
+- Ukrayna
+- petrol taşımacılığı
 ---
 <p style="text-align: justify">Bulgaristan ve Türkiye makamları, Rusya’nın <strong>“shadow fleet”</strong> olarak adlandırılan yaptırımlı petrol taşımacılığı ağıyla bağlantılı <strong>Kairos</strong> tankerine ilişkin yeni gelişmeleri doğrulamakta. <strong>Bulgarian News Agency (BTA)</strong> kaynaklı bilgilere göre, yaklaşık <strong>150.000 DWT</strong> kapasiteli tanker, Türkiye açıklarında yaşanan bir <strong>Ukrayna deniz dronu saldırısının</strong> ardından Bulgaristan kıyılarına doğru sürüklendi ve şu anda <strong>Burgaz</strong> açıklarında güvenli bir demirleme noktasında stabilize edilmiş durumda.</p>
 <p><br></p>

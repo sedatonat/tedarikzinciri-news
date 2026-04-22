@@ -1,14 +1,22 @@
 ---
-title: "Sürdürülebilirlik Ve Maliyet Arasında Seçim Yapmak Zorunda Değilsiniz"
-subtitle: "Sürdürülebilirlik Ve Maliyet Arasında Seçim Yapmak Zorunda Değilsiniz"
-date: "2025-05-05T00:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b3c8b98191c74159824a9429e31ac27e~mv2.png"
-imageAlt: "Sürdürülebilirlik Ve Maliyet Arasında Seçim Yapmak Zorunda Değilsiniz"
-wixId: "4eb29643-4c32-446a-9bd2-df7eeb95e3d8"
-author: "Sedat Onat"
+title: Sürdürülebilirlik Ve Maliyet Arasında Seçim Yapmak Zorunda Değilsiniz
+subtitle: Sürdürülebilirlik Ve Maliyet Arasında Seçim Yapmak Zorunda Değilsiniz
+date: '2025-05-05T00:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b3c8b98191c74159824a9429e31ac27e~mv2.png
+imageAlt: Sürdürülebilirlik Ve Maliyet Arasında Seçim Yapmak Zorunda Değilsiniz
+wixId: 4eb29643-4c32-446a-9bd2-df7eeb95e3d8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- sürdürülebilirlik
+- maliyet optimizasyonu
+- AI procurement
+- döngüsel ekonomi
+- LCA
+- tersine lojistik
+- TCO
 ---
 <p>Sürdürülebilirlik ile maliyet arasındaki varsayılan çelişki, veri temelli uygulamalarla çözülebilmekte. Makale, LCA-guided sourcing, circular packaging, ve reverse logistics yaklaşımlarının, toplam sahip olma maliyetini (TCO) düşürürken çevresel etkileri azalttığını göstermekte. AI procurement analytics, materyal ve tedarikçi seçiminde karbon ve maliyet optimizasyonunu aynı tabloda sunmakta. Operasyonlarda waste-to-value projeleri ve energy recovery, ek gelir ve tasarruf üretmekte. Müşteri tarafında eco-design ve minimalist packaging, hasar ve iade oranlarını da azaltmakta.&nbsp;</p>
 <p><br></p>

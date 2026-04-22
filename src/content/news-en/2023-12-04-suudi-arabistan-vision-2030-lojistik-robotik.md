@@ -1,16 +1,24 @@
 ---
-title: "Saudi Arabia Believes Robotics Holds Key to Meeting Vision 2030's Logistics Demands"
-subtitle: "Saudi Arabia Believes Robotics Holds Key to Meeting Vision 2030's Logistics Demands"
-date: "2023-12-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_addefd3d8f964978841976c1a64a33ed~mv2.png"
-imageAlt: "Saudi Arabia Believes Robotics Holds Key to Meeting Vision 2030's Logistics Demands"
-wixId: "f3748c62-8f66-43b6-87ec-1f9e3e615855"
-author: "Sedat Onat"
+title: Saudi Arabia Believes Robotics Holds Key to Meeting Vision 2030's Logistics Demands
+subtitle: Saudi Arabia Believes Robotics Holds Key to Meeting Vision 2030's Logistics Demands
+date: '2023-12-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_addefd3d8f964978841976c1a64a33ed~mv2.png
+imageAlt: Saudi Arabia Believes Robotics Holds Key to Meeting Vision 2030's Logistics Demands
+wixId: f3748c62-8f66-43b6-87ec-1f9e3e615855
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Saudi Arabia
+- Vision 2030
+- robotics
+- logistics infrastructure
+- AI
+- automation
+- NEOM
+- digital transformation
 ---
-
 <p>Saudi Arabia continues to invest in its "<a href="https://www.vision2030.gov.sa/"><u>Vision 2030</u></a>" plan to develop the country's logistics infrastructure and believes this effort will trigger rapid growth in the robotics sector.</p>
 <p><br></p>
 <p>The kingdom aims to transform itself into a "global logistics hub" by constructing dozens of distribution centers to diversify its economy and reduce its dependence on oil revenues. Robotics and automation are expected to play a crucial role in enabling these new capabilities.</p>

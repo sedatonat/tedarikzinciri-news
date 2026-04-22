@@ -1,16 +1,24 @@
 ---
-title: "Maersk and Hapag-Lloyd Correct Suez Canal Announcement: \"No Fixed Timeline\""
-subtitle: "Maersk and Hapag-Lloyd Correct Suez Canal Announcement: \"No Fixed Timeline\""
-date: "2025-11-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a7937c4cdd564a90a2b10d11d308873d~mv2.jpg"
-imageAlt: "Suez Canal Authority's early return announcement versus Maersk and Hapag-Lloyd's cautious approach, Gemini Cooperation's operational structure, risk management, and detailed news summary on 2025-2026 supply chain impacts"
-wixId: "fc3033df-ba58-4e67-b893-7972838b4d36"
-author: "Sedat Onat"
+title: 'Maersk and Hapag-Lloyd Correct Suez Canal Announcement: "No Fixed Timeline"'
+subtitle: 'Maersk and Hapag-Lloyd Correct Suez Canal Announcement: "No Fixed Timeline"'
+date: '2025-11-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a7937c4cdd564a90a2b10d11d308873d~mv2.jpg
+imageAlt: Suez Canal Authority's early return announcement versus Maersk and Hapag-Lloyd's cautious approach, Gemini Cooperation's operational structure, risk management, and detailed news summary on 2025-2026 supply chain impacts
+wixId: fc3033df-ba58-4e67-b893-7972838b4d36
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Maersk
+- Hapag-Lloyd
+- Suez Canal
+- Red Sea
+- Gemini Cooperation
+- container shipping
+- CMA CGM
+- maritime security
 ---
-
 <p style="text-align: justify">In early December 2025, a significant communication crisis grabbed attention in the global maritime sector. The <strong>Suez Canal Authority (SCA)</strong> announced that Maersk would resume transits through the Red Sea beginning in early December. However, just hours after this announcement, <strong>Maersk</strong> and <strong>Hapag-Lloyd</strong> issued a public correction on behalf of their joint venture <strong>Gemini Cooperation</strong>:<br>
  <strong>"No timeline has been announced for Red Sea return."</strong></p>
 <p><br></p>

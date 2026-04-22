@@ -1,16 +1,23 @@
 ---
-title: "McDonald's Ends Supply Chain Diversity Goals"
-subtitle: "McDonald's Ends Supply Chain Diversity Goals"
-date: "2025-01-17T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_472045c141f340de977622b72392f801~mv2.jpg"
-imageAlt: "McDonald's Ends Supply Chain Diversity Goals"
-wixId: "897ba304-ee41-417a-bec0-80238689a5bc"
-author: "Sedat Onat"
+title: McDonald's Ends Supply Chain Diversity Goals
+subtitle: McDonald's Ends Supply Chain Diversity Goals
+date: '2025-01-17T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_472045c141f340de977622b72392f801~mv2.jpg
+imageAlt: McDonald's Ends Supply Chain Diversity Goals
+wixId: 897ba304-ee41-417a-bec0-80238689a5bc
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- McDonald's
+- supply chain
+- DEI
+- diversity program
+- supplier diversity
+- corporate policy
+- civil rights
 ---
-
 <p style="text-align: justify"><strong>McDonald's</strong> has discontinued its commitment to diversity, equity, and inclusion (<strong>DEI</strong>) in its supply chain, announcing that it will cease establishing "representation targets." The decision was disclosed in a letter sent to employees and suppliers on January 6 and shared with the public.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Despite this shift, the company noted that it exceeded its goal of spending 25% of its procurement budget with diverse-owned suppliers three years ahead of schedule. The target, announced in 2021, had aimed to allocate 25% of annual supply chain spending in the U.S. to suppliers owned by women and minorities by 2025.</p>

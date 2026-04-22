@@ -1,16 +1,24 @@
 ---
-title: "ISWAN Calls for Sustainable Employment in Maritime Sector"
-subtitle: "ISWAN Calls for Sustainable Employment in Maritime Sector"
-date: "2024-05-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_410c34e78e7a4a4eae1928b52a06e319~mv2.jpg"
-imageAlt: "ISWAN Calls for Sustainable Employment in Maritime Sector"
-wixId: "b5cd5510-750f-40b3-ad08-38f2629f46ae"
-author: "Sedat Onat"
+title: ISWAN Calls for Sustainable Employment in Maritime Sector
+subtitle: ISWAN Calls for Sustainable Employment in Maritime Sector
+date: '2024-05-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_410c34e78e7a4a4eae1928b52a06e319~mv2.jpg
+imageAlt: ISWAN Calls for Sustainable Employment in Maritime Sector
+wixId: b5cd5510-750f-40b3-ad08-38f2629f46ae
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- maritime
+- ISWAN
+- employment
+- workforce
+- working conditions
+- welfare
+- technology
+- inclusivity
 ---
-
 <p>The International Seafarers' Welfare and Assistance Network (ISWAN) has emphasized the need for direct engagement with seafarers to address employment and staff retention challenges in the maritime sector.</p>
 <p><br></p>
 <p>The ISWAN Seminar, held in November 2023, brought together sector professionals to discuss rapid changes unfolding in the maritime industry and their impact on seafarers and the maritime profession. During the seminar, expert committees comprising business leaders, academics, unions, welfare organizations, and active seafarers examined various aspects of the problem and developed actionable solutions.</p>

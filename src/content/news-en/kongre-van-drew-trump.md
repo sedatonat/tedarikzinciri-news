@@ -1,16 +1,23 @@
 ---
-title: "Congressman Van Drew and Trump Team Up to Block Biden's Offshore Wind Targets"
-subtitle: "Congressman Van Drew and Trump Team Up to Block Biden's Offshore Wind Targets"
-date: "2025-01-16T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_5dd37be9341d4fee9dbde7e4aae2d38b~mv2.jpg"
-imageAlt: "Congressman Van Drew and Trump Team Up to Block Biden's Offshore Wind Targets"
-wixId: "d0591f4c-df7b-4d04-8837-3bfb5e21fbce"
-author: "Sedat Onat"
+title: Congressman Van Drew and Trump Team Up to Block Biden's Offshore Wind Targets
+subtitle: Congressman Van Drew and Trump Team Up to Block Biden's Offshore Wind Targets
+date: '2025-01-16T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_5dd37be9341d4fee9dbde7e4aae2d38b~mv2.jpg
+imageAlt: Congressman Van Drew and Trump Team Up to Block Biden's Offshore Wind Targets
+wixId: d0591f4c-df7b-4d04-8837-3bfb5e21fbce
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- offshore wind energy
+- Trump
+- Biden
+- executive order
+- New Jersey
+- Atlantic Shores
+- energy policy
 ---
-
 <p style="text-align: justify">Republican Congressman <strong>Jeff Van Drew</strong> is working with President-elect <strong>Donald Trump</strong> to draft an executive order aimed at halting offshore wind turbine operations along the East Coast.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Van Drew has criticized the approval process for these projects, characterizing them as "an economic and environmental disaster."</p>

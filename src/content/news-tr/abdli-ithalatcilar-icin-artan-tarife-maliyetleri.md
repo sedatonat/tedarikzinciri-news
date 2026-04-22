@@ -1,14 +1,22 @@
 ---
-title: "ABD'li İthalatçılar İçin Artan Tarife Maliyetleri Büyük Finansal Değişim Yaratmakta"
-subtitle: "ABD'li İthalatçılar İçin Artan Tarife Maliyetleri Büyük Finansal Değişim Yaratmakta"
-date: "2025-03-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_77cbb4eeebce4a11864f648034d66cd4~mv2.jpg"
-imageAlt: "ABD'li İthalatçılar İçin Artan Tarife Maliyetleri Büyük Finansal Değişim Yaratmakta"
-wixId: "24de49fc-2fd2-4b1a-bf59-35d141362e5e"
-author: "Sedat Onat"
+title: ABD'li İthalatçılar İçin Artan Tarife Maliyetleri Büyük Finansal Değişim Yaratmakta
+subtitle: ABD'li İthalatçılar İçin Artan Tarife Maliyetleri Büyük Finansal Değişim Yaratmakta
+date: '2025-03-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_77cbb4eeebce4a11864f648034d66cd4~mv2.jpg
+imageAlt: ABD'li İthalatçılar İçin Artan Tarife Maliyetleri Büyük Finansal Değişim Yaratmakta
+wixId: 24de49fc-2fd2-4b1a-bf59-35d141362e5e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tarife
+- ABD ithalat
+- ticaret politikası
+- Çin
+- tedarik zinciri
+- gümrük
+- perakende sektörü
 ---
 <p style="text-align: justify">Son dönemde <strong>ABD</strong> yönetiminin ticaret politikalarında yaptığı değişiklikler, ithalatçılar üzerinde önemli finansal etkiler yaratmakta. Özellikle <strong>Çin</strong>, <strong>Kanada</strong> ve <strong>Meksika</strong> gibi ticaret ortaklarından gelen ürünlere uygulanan ek tarifeler, ithalat maliyetlerini önemli ölçüde artırmakta. Bu durum, ithalatçıların operasyonel maliyetlerini yükseltmekte ve kârlılıklarını olumsuz etkilemekte. ​</p>
 <p><br></p>

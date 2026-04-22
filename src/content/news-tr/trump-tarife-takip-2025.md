@@ -1,14 +1,22 @@
 ---
-title: "Trump Dönemi Tarifeleri: Küresel Ticaret Hamlelerinin Güncel Durumu"
-subtitle: "Trump Dönemi Tarifeleri: Küresel Ticaret Hamlelerinin Güncel Durumu"
-date: "2025-10-27T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_86db15e1a5ad491c84aee89cc6d26b2b~mv2.jpg"
-imageAlt: "Trump yönetimi 2025 boyunca çok sayıda karşılıklı (reciprocal) tarife ve inceleme başlattı; ülke bazlı oranlar 7 Ağustos’tan itibaren geçerli olurken, AB, Japonya ve Güney Kore ile anlaşma/çerçeve mutabakatları açıklandı, Çin ile ise Ekim sonunda ateşkes sinyali geldi."
-wixId: "37281d8f-9cc1-4f90-8d8e-310580a11192"
-author: "Sedat Onat"
+title: 'Trump Dönemi Tarifeleri: Küresel Ticaret Hamlelerinin Güncel Durumu'
+subtitle: 'Trump Dönemi Tarifeleri: Küresel Ticaret Hamlelerinin Güncel Durumu'
+date: '2025-10-27T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_86db15e1a5ad491c84aee89cc6d26b2b~mv2.jpg
+imageAlt: Trump yönetimi 2025 boyunca çok sayıda karşılıklı (reciprocal) tarife ve inceleme başlattı; ülke bazlı oranlar 7 Ağustos’tan itibaren geçerli olurken, AB, Japonya ve Güney Kore ile anlaşma/çerçeve mutabakatları açıklandı, Çin ile ise Ekim sonunda ateşkes sinyali geldi.
+wixId: 37281d8f-9cc1-4f90-8d8e-310580a11192
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Trump tarifeleri
+- küresel ticaret
+- karşılıklı tarife
+- ABD-Çin
+- tedarik zinciri
+- gümrük stratejisi
+- ticaret politikası
 ---
 <p style="text-align: justify"><strong>ABD Başkanı Donald Trump</strong>’ın ikinci döneminde ticaret politikası <strong>hızla ve sık yön değiştirerek</strong> ilerliyor. Başkan, <strong>1 Şubat 2025’te</strong> Kanada, Meksika ve Çin’e yönelik tarifeleri içeren bir dizi <strong>başkanlık kararnamesi</strong> imzaladı; akabinde yıl içinde <strong>çok sayıda tarife incelemesi</strong> ve başlık bazlı soruşturma başlattı. Bu süreçte, bazı tehditlerin kapsamı ve uygulanma takvimi sıkça değiştiği için, <strong>iş dünyası ve yabancı hükümetler</strong> arasında <strong>belirsizlik</strong> arttı.</p>
 <p><br></p>

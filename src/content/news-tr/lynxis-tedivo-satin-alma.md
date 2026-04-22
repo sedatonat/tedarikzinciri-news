@@ -1,14 +1,22 @@
 ---
-title: "Lynxis, TEDIVO'yu Satın Alarak Dijital Çözümlerini Genişletiyor"
-subtitle: "Lynxis, TEDIVO'yu Satın Alarak Dijital Çözümlerini Genişletiyor"
-date: "2025-01-16T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_e020a04258cb4a5daade8fdbff500ded~mv2.jpg"
-imageAlt: "Lynxis, TEDIVO'yu Satın Alarak Dijital Çözümlerini Genişletiyor"
-wixId: "f9d6244a-8e79-4959-97de-f588b61d1d96"
-author: "Sedat Onat"
+title: Lynxis, TEDIVO'yu Satın Alarak Dijital Çözümlerini Genişletiyor
+subtitle: Lynxis, TEDIVO'yu Satın Alarak Dijital Çözümlerini Genişletiyor
+date: '2025-01-16T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_e020a04258cb4a5daade8fdbff500ded~mv2.jpg
+imageAlt: Lynxis, TEDIVO'yu Satın Alarak Dijital Çözümlerini Genişletiyor
+wixId: f9d6244a-8e79-4959-97de-f588b61d1d96
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Lynxis
+- TEDIVO
+- satın alma
+- deniz terminali
+- dijitalleşme
+- gemi operasyonları
+- lojistik yazılım
 ---
 <p style="text-align: justify"><strong>Lynxis LLC</strong>, karasal lojistik için optimizasyon çözümleri sunan bir şirket olarak, deniz terminallerinde gemi operasyonlarını kolaylaştıran yazılımlar geliştiren <strong>TEDIVO LLC</strong>'yi satın aldı. Bu stratejik hamle, <strong>Lynxis</strong>'in dijitalleşme alanındaki yetkinliklerini artırarak, nakliye hatları ve terminal operatörlerinin gemi gecikmeleri, yanlış yükleme ve güvenlik risklerini azaltmalarına yardımcı olmayı hedeflemekte.</p>
 <p><br></p>

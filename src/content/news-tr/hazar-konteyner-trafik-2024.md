@@ -1,14 +1,23 @@
 ---
-title: "Hazar Havzası Limanları Üzerinden Konteyner Trafiği Kasım 2024'te İki Katına Çıktı"
-subtitle: "Hazar Havzası Limanları Üzerinden Konteyner Trafiği Kasım 2024'te İki Katına Çıktı"
-date: "2025-01-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c7c71900aba04e1d9558f4c4ec1afe2c~mv2.jpg"
-imageAlt: "Hazar Havzası Limanları Üzerinden Konteyner Trafiği Kasım 2024'te İki Katına Çıktı"
-wixId: "558124e3-04c7-4c51-af68-6b71c0bbfa2a"
-author: "Sedat Onat"
+title: Hazar Havzası Limanları Üzerinden Konteyner Trafiği Kasım 2024'te İki Katına Çıktı
+subtitle: Hazar Havzası Limanları Üzerinden Konteyner Trafiği Kasım 2024'te İki Katına Çıktı
+date: '2025-01-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c7c71900aba04e1d9558f4c4ec1afe2c~mv2.jpg
+imageAlt: Hazar Havzası Limanları Üzerinden Konteyner Trafiği Kasım 2024'te İki Katına Çıktı
+wixId: 558124e3-04c7-4c51-af68-6b71c0bbfa2a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Hazar Denizi
+- konteyner trafiği
+- liman
+- Bir Kuşak Bir Yol
+- Rusya
+- Azerbaycan
+- Kazakistan
+- lojistik altyapı
 ---
 <p style="text-align: justify">Kasım 2024'te, <strong>Hazar Denizi</strong>'ndeki limanlar üzerinden gerçekleştirilen konteyner trafiği, bir önceki yılın aynı dönemine kıyasla 2 katına çıkarak önemli bir artış gösterdi. Bu büyüme, bölgedeki ticaret faaliyetlerinin yoğunlaştığını ve lojistik altyapının etkinliğini artırdığını göstermekte.</p>
 <p style="text-align: justify"><br></p>

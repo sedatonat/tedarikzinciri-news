@@ -1,16 +1,24 @@
 ---
-title: "Union Pacific–Norfolk Southern Merger Could Shift Trucking Dynamics"
-subtitle: "Union Pacific–Norfolk Southern Merger Could Shift Trucking Dynamics"
-date: "2025-12-09T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4f1486fc53a7498aad6c00c5a38363e8~mv2.jpg"
-imageAlt: "Detailed overview of the potential impact of the major railroad merger between Union Pacific and Norfolk Southern on the intermodal transportation and trucking industry, including pressure on long-haul OTR transportation, drayage and last-mile opportunities, and industry perspectives"
-wixId: "4e419b10-fc30-4679-9b29-73276a973d49"
-author: "Sedat Onat"
+title: Union Pacific–Norfolk Southern Merger Could Shift Trucking Dynamics
+subtitle: Union Pacific–Norfolk Southern Merger Could Shift Trucking Dynamics
+date: '2025-12-09T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4f1486fc53a7498aad6c00c5a38363e8~mv2.jpg
+imageAlt: Detailed overview of the potential impact of the major railroad merger between Union Pacific and Norfolk Southern on the intermodal transportation and trucking industry, including pressure on long-haul OTR transportation, drayage and last-mile opportunities, and industry perspectives
+wixId: 4e419b10-fc30-4679-9b29-73276a973d49
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Union Pacific
+- Norfolk Southern
+- railroad merger
+- intermodal transportation
+- drayage
+- OTR trucking
+- last mile delivery
+- Chicago
 ---
-
 <p style="text-align: justify">The planned merger between <strong>Union Pacific (UP)</strong> and <strong>Norfolk Southern (NS)</strong>, two of the largest railroad operators in the United States, is poised to affect not only rail transportation but also the <strong>trucking and intermodal ecosystem</strong> directly. According to industry assessments reported by <strong>Trucking Dive</strong>, the merger—approved by shareholders of both companies on November 14—presents a complex picture that could create both <strong>opportunities and losses</strong> for road transportation.</p>
 <p><br></p>
 <p style="text-align: justify">Valued at approximately <strong>85 billion USD</strong>, the merger aims to consolidate a railroad network spanning <strong>50,000 miles across 43 states</strong> and <strong>100 ports</strong> under a single system. An integration of this scale could create the first truly <strong>coast-to-coast railroad backbone</strong> in the United States. This situation is creating competitive pressure, particularly for the <strong>long-haul OTR (over-the-road) trucking</strong> segment.</p>

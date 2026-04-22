@@ -1,16 +1,23 @@
 ---
-title: "BIMCO and ICS Release Guide to Reduce Ship Noise"
-subtitle: "BIMCO and ICS Release Guide to Reduce Ship Noise"
-date: "2024-10-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_35770bd10cf347aca97903a0a2041111~mv2.jpg"
-imageAlt: "BIMCO and ICS Release Guide to Reduce Ship Noise"
-wixId: "5a0711e2-6fe5-4739-94c0-53a9bfa7fd24"
-author: "Sedat Onat"
+title: BIMCO and ICS Release Guide to Reduce Ship Noise
+subtitle: BIMCO and ICS Release Guide to Reduce Ship Noise
+date: '2024-10-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_35770bd10cf347aca97903a0a2041111~mv2.jpg
+imageAlt: BIMCO and ICS Release Guide to Reduce Ship Noise
+wixId: 5a0711e2-6fe5-4739-94c0-53a9bfa7fd24
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- BIMCO
+- ICS
+- underwater noise
+- maritime
+- environmental protection
+- IMO
+- energy efficiency
 ---
-
 <p>The Baltic and International Maritime Council (BIMCO) and International Chamber of Shipping (ICS) have developed a handbook to help the maritime sector understand and minimize underwater radiated noise from ships.</p>
 <p><br></p>
 <p>In recent years, focus on underwater radiated noise from ships has increased dramatically, and the impetus for action has grown due to its adverse effects on marine life and the environment. Commercial shipping is recognized as one of the primary sources of underwater noise at low frequencies, and research shows that this noise damages vital life processes of various marine organisms.</p>

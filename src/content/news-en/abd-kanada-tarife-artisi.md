@@ -1,16 +1,23 @@
 ---
-title: "Trump Prepares to Impose 10% Additional Tariff on Canadian Imports"
-subtitle: "Trump Prepares to Impose 10% Additional Tariff on Canadian Imports"
-date: "2025-10-25T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_bace6252b58f4ed6a3fcd72df4d5d779~mv2.jpg"
-imageAlt: "US President Donald Trump announced plans to impose an additional 10% tariff on imports from Canada following a suspension of trade negotiations with the country. Tensions escalated after Ontario's government launched an anti-tariff advertising campaign using excerpts from a 1987 speech by Ronald Reagan."
-wixId: "afb69ec1-df91-44f7-bc9f-b889af9fd441"
-author: "Sedat Onat"
+title: Trump Prepares to Impose 10% Additional Tariff on Canadian Imports
+subtitle: Trump Prepares to Impose 10% Additional Tariff on Canadian Imports
+date: '2025-10-25T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_bace6252b58f4ed6a3fcd72df4d5d779~mv2.jpg
+imageAlt: US President Donald Trump announced plans to impose an additional 10% tariff on imports from Canada following a suspension of trade negotiations with the country. Tensions escalated after Ontario's government launched an anti-tariff advertising campaign using excerpts from a 1987 speech by Ronald Reagan.
+wixId: afb69ec1-df91-44f7-bc9f-b889af9fd441
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Trump
+- Canada
+- customs duty
+- USMCA
+- trade war
+- supply chain
+- tariff
 ---
-
 <p style="text-align: justify"><strong>US President Donald Trump</strong> announced that <strong>an additional 10% tariff will be applied to imports from Canada</strong>. The announcement was made on Trump's <strong>TruthSocial</strong> account on <strong>Saturday, October 25, 2025</strong>. However, the announcement did not specify <strong>when the new tariff increase would take effect</strong> or <strong>which products would be covered</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">Currently, <strong>goods imported from Canada</strong> are subject to <strong>a 35% tariff rate since August 1, 2025</strong>. This rate applies to <strong>products outside the scope of the United States–Mexico–Canada Agreement (USMCA)</strong>. Additionally, special tariff arrangements exist in sectors such as <strong>automotive</strong>, <strong>lumber</strong>, and <strong>steel</strong>. The decision to increase tariffs is being viewed as <strong>an indicator that tensions between the two countries are escalating again</strong>.</p>

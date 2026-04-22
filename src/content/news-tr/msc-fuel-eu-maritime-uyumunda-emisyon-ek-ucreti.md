@@ -1,14 +1,23 @@
 ---
-title: "MSC, FuelEU Maritime Uyum Sürecinde Emisyon Ek Ücreti Getiriyor"
-subtitle: "MSC, FuelEU Maritime Uyum Sürecinde Emisyon Ek Ücreti Getiriyor"
-date: "2024-10-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_de03ba988dcc47b1957e5f9d3fecaafa~mv2.jpg"
-imageAlt: "MSC, FuelEU Maritime Uyum Sürecinde Emisyon Ek Ücreti Getiriyor"
-wixId: "25682fd6-769c-4f70-8ae0-3d6d9ed6041b"
-author: "Sedat Onat"
+title: MSC, FuelEU Maritime Uyum Sürecinde Emisyon Ek Ücreti Getiriyor
+subtitle: MSC, FuelEU Maritime Uyum Sürecinde Emisyon Ek Ücreti Getiriyor
+date: '2024-10-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_de03ba988dcc47b1957e5f9d3fecaafa~mv2.jpg
+imageAlt: MSC, FuelEU Maritime Uyum Sürecinde Emisyon Ek Ücreti Getiriyor
+wixId: 25682fd6-769c-4f70-8ae0-3d6d9ed6041b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- MSC
+- FuelEU Maritime
+- emisyon ücreti
+- dekarbonizasyon
+- LNG gemileri
+- Avrupa Birliği
+- deniz taşımacılığı
+- sera gazı
 ---
 <p>Mediterranean Shipping Company (MSC), European Union’un FuelEU Maritime regülasyonuna uyum sağlamak amacıyla müşterilerine emisyon ek ücreti uygulayacağını duyurdu. 1 Ocak 2025'ten itibaren yürürlüğe girecek olan bu regülasyon, AB'nin geniş kapsamlı Fit-for-55 paketi içinde yer alıyor ve deniz taşımacılığında sera gazı (GHG) emisyonlarını azaltmayı hedefliyor. Hedefler, 2025 yılında %2'lik bir azaltımla başlayarak 2050 yılına kadar %80'e varan bir azalmayı amaçlıyor.</p>
 <p><br></p>

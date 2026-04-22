@@ -1,14 +1,22 @@
 ---
-title: "MSC, Hindistan’a 12 Konteyner Gemisini Yeniden Bayraklayarak Ülkenin Denizcilik Hedeflerini Destekleyecek"
-subtitle: "MSC, Hindistan’a 12 Konteyner Gemisini Yeniden Bayraklayarak Ülkenin Denizcilik Hedeflerini Destekleyecek"
-date: "2025-11-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_937441646a66494aa4ecb24a88905ba1~mv2.jpeg"
-imageAlt: "Mediterranean Shipping Co. (MSC), Hindistan bayrağı altında 12 konteyner gemisini yeniden tescil etme (reflagging) kararı aldı. Bu adım, şirketin liman ve kara lojistiği yatırımlarını genişleterek Hindistan’ın denizcilik ve ticaret altyapısına uzun vadeli desteğini güçlendiriyor."
-wixId: "ef0994e4-4c5b-4630-a4cd-378febf24d0e"
-author: "Sedat Onat"
+title: MSC, Hindistan’a 12 Konteyner Gemisini Yeniden Bayraklayarak Ülkenin Denizcilik Hedeflerini Destekleyecek
+subtitle: MSC, Hindistan’a 12 Konteyner Gemisini Yeniden Bayraklayarak Ülkenin Denizcilik Hedeflerini Destekleyecek
+date: '2025-11-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_937441646a66494aa4ecb24a88905ba1~mv2.jpeg
+imageAlt: Mediterranean Shipping Co. (MSC), Hindistan bayrağı altında 12 konteyner gemisini yeniden tescil etme (reflagging) kararı aldı. Bu adım, şirketin liman ve kara lojistiği yatırımlarını genişleterek Hindistan’ın denizcilik ve ticaret altyapısına uzun vadeli desteğini güçlendiriyor.
+wixId: ef0994e4-4c5b-4630-a4cd-378febf24d0e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- MSC
+- konteyner gemisi
+- Hindistan
+- yeniden bayraklama
+- denizcilik
+- liman yatırımı
+- Adani Ports
 ---
 <p style="text-align: justify"><strong>Dünyanın en büyük konteyner taşımacılığı şirketi Mediterranean Shipping Co. (MSC)</strong>, Hindistan’daki varlığını güçlendirmek amacıyla <strong>12 konteyner gemisini Hindistan siciline kaydettirme (reflagging)</strong> kararı aldı. Bu adım, şirketin <strong>porttan porta taşımacılık modelinin ötesine geçerek</strong> ülkenin <strong>denizcilik, liman ve lojistik sektörlerine</strong> yönelik yatırımlarını çeşitlendirme stratejisinin bir parçası.</p>
 <p><br></p>

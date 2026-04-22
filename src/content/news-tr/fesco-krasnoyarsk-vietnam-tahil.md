@@ -1,14 +1,23 @@
 ---
-title: "FESCO, Krasnoyarsk’tan Vietnam’a Konteynerli Tahıl Hattını Devreye Aldı"
-subtitle: "FESCO, Krasnoyarsk’tan Vietnam’a Konteynerli Tahıl Hattını Devreye Aldı"
-date: "2025-12-05T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_71b80e3589a143b8b72814cbec784e10~mv2.jpg"
-imageAlt: "FESCO Taşıma Grubu’nun Krasnoyarsk bölgesinden Vietnam’a konteynerize tahıl ihracatını başlatması, Sibirya tarım üreticileri için yeni pazar açılması, intermodal entegrasyon ve FVDL hattının stratejik rolünün detaylı özeti"
-wixId: "dd5c5369-e94d-4f10-8a59-f0a0bace6bea"
-author: "Sedat Onat"
+title: FESCO, Krasnoyarsk’tan Vietnam’a Konteynerli Tahıl Hattını Devreye Aldı
+subtitle: FESCO, Krasnoyarsk’tan Vietnam’a Konteynerli Tahıl Hattını Devreye Aldı
+date: '2025-12-05T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_71b80e3589a143b8b72814cbec784e10~mv2.jpg
+imageAlt: FESCO Taşıma Grubu’nun Krasnoyarsk bölgesinden Vietnam’a konteynerize tahıl ihracatını başlatması, Sibirya tarım üreticileri için yeni pazar açılması, intermodal entegrasyon ve FVDL hattının stratejik rolünün detaylı özeti
+wixId: dd5c5369-e94d-4f10-8a59-f0a0bace6bea
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- FESCO
+- Krasnoyarsk
+- Vietnam
+- konteynerli taşımacılık
+- tahıl ihracatı
+- intermodal lojistik
+- Vladivostok
+- Güneydoğu Asya
 ---
 <p style="text-align: justify"><strong>FESCO Transportation Group</strong>, Rusya’nın Sibirya bölgesinde yer alan <strong>Krasnoyarsk</strong>’tan Vietnam’a yönelik <strong>konteynerize tahıl ihracatını</strong> başlatarak hem şirketin coğrafi erişimini genişletmekte hem de bölgesel tarım ekonomisine yeni bir lojistik kanal kazandırmakta. Şirket tarafından yapılan açıklamada, bu yeni rotanın <strong>Batı Sibirya tarım üreticileri için Asya pazarlarına açılan stratejik bir kapı</strong> niteliği taşıdığı vurgulanmakta.</p>
 <p><br></p>

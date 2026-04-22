@@ -1,14 +1,22 @@
 ---
-title: "Gartner’a Göre Lojistikte Yapay Zekâ: Yüksek Getiri Sağlayan Kullanım Alanları Netleşiyor"
-subtitle: "Gartner’a Göre Lojistikte Yapay Zekâ: Yüksek Getiri Sağlayan Kullanım Alanları Netleşiyor"
-date: "2025-12-09T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_66042d66384c44c09bdf43dee09e51a9~mv2.jpg"
-imageAlt: "Gartner’ın lojistik için yayımladığı AI kullanım alanları çerçevesine göre depolama, taşımacılık ve fulfillment süreçlerinde yüksek değer ve uygulanabilirlik sunan yapay zekâ senaryolarının detaylı analizi"
-wixId: "c3a0b84d-ae74-4d6b-83b2-c792840d40cf"
-author: "Sedat Onat"
+title: 'Gartner’a Göre Lojistikte Yapay Zekâ: Yüksek Getiri Sağlayan Kullanım Alanları Netleşiyor'
+subtitle: 'Gartner’a Göre Lojistikte Yapay Zekâ: Yüksek Getiri Sağlayan Kullanım Alanları Netleşiyor'
+date: '2025-12-09T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_66042d66384c44c09bdf43dee09e51a9~mv2.jpg
+imageAlt: Gartner’ın lojistik için yayımladığı AI kullanım alanları çerçevesine göre depolama, taşımacılık ve fulfillment süreçlerinde yüksek değer ve uygulanabilirlik sunan yapay zekâ senaryolarının detaylı analizi
+wixId: c3a0b84d-ae74-4d6b-83b2-c792840d40cf
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- yapay zeka
+- lojistik
+- Gartner
+- depo yönetimi
+- predictive maintenance
+- bilgisayarlı görü
+- Softeon
 ---
 <p style="text-align: justify">Lojistik sektöründe <strong>yapay zekâ (AI)</strong> uygulamaları, deneysel projelerden çıkıp doğrudan <strong>ölçülebilir iş değeri</strong> üreten çözümlere dönüşmekte. <strong>Gartner</strong> tarafından yayımlanan <em>Artificial Intelligence Use-Case Comparison for Logistics</em> raporu, bu dönüşümü sistematik bir çerçeveyle ele alarak lojistik operasyonlarında kullanılabilecek <strong>20 farklı AI destekli kullanım alanını</strong> karşılaştırmalı biçimde analiz ediyor. Rapor, her bir kullanım alanını <strong>business value</strong> ve <strong>feasibility</strong> kriterlerine göre puanlayarak, lojistik liderlerine net bir yol haritası sunmakta.</p>
 <p><br></p>

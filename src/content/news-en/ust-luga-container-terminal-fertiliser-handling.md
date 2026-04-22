@@ -1,14 +1,21 @@
 ---
-title: "Ust-Luga Container Terminal Expands Fertilizer Handling Capacity"
-subtitle: "Ust-Luga Container Terminal Expands Fertilizer Handling Capacity"
-date: "2024-11-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4abd2ac2e47d4ee299b0bfe760c189ac~mv2.jpg"
-imageAlt: "Ust-Luga Container Terminal Expands Fertilizer Handling Capacity"
-wixId: "07bd173a-186f-44f1-8106-397bada0504c"
-author: "Sedat Onat"
+title: Ust-Luga Container Terminal Expands Fertilizer Handling Capacity
+subtitle: Ust-Luga Container Terminal Expands Fertilizer Handling Capacity
+date: '2024-11-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4abd2ac2e47d4ee299b0bfe760c189ac~mv2.jpg
+imageAlt: Ust-Luga Container Terminal Expands Fertilizer Handling Capacity
+wixId: 07bd173a-186f-44f1-8106-397bada0504c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Ust-Luga
+- container terminal
+- mineral fertilizer
+- Global Ports
+- hazardous cargo
+- Panamax
+- port infrastructure
 ---
-
 <p>Ust-Luga Container Terminal (ULCT), an important container terminal located in the deep-water port of Ust-Luga and operating as part of Delo Group under stevedoring holding Global Ports, has significantly expanded its operational capabilities. From November 2023 onward, ULCT began offering customers the ability to store hazardous cargo at the terminal. With this new service, customers now have the opportunity to accumulate shipboard batches of chemical products at the port.</p>\n<p><br></p>\n<p>To obtain storage permits, ULCT allocated and equipped the necessary storage facilities. Additionally, extra safety and technical systems were installed and personnel received comprehensive training. The new storage area was assigned a capacity of 100,000 tons, significantly increasing the terminal's hazardous cargo storage capacity.</p>\n<p><br></p>\n<p>In April 2024, ULCT expanded its service portfolio with the commencement of mineral fertilizer processing. During the summer of 2024, ULCT increased the permitted draft depth at its berths to 12.6 meters, enabling the terminal to accommodate Panamax vessels with displacement exceeding 50,000 tons. The terminal infrastructure allows for the acceptance of block trains up to 71 conventional wagon lengths, and in favorable weather conditions, the terminal reached a daily processing capacity of 10,000 tons per vessel. These developments have enabled ULCT to play an important role in mineral fertilizer exports.</p>\n<p><br></p>\n<p>Fertilizers arrive at the port in special containers beforehand and are then reloaded onto the ship's deck. This technological method allows for more efficient and rapid processing operations. ULCT installed three inclined spreaders on STS cranes to enable cargo transportation in special containers. Two additional spreaders are expected to be delivered in early 2025, which will further increase the terminal's processing capacity.</p>\n<p><br></p>\n<p>ULCT handles both hazardous and non-hazardous mineral fertilizers. In addition to performing cargo operations using special containers owned by Global Ports, the terminal also provides rail platforms for customers to transport fleet containers. Besides ULCT, Petrolesport and First Container Terminal in Saint Petersburg, both belonging to Global Ports, facilitate the maritime transportation of fertilizers. Global Ports terminals processed a total of 3.1 million tons of cargo during the first 10 months of 2024, recording a 39% increase compared to the same period. This growth underscores Global Ports' leading position in mineral fertilizer exports.</p>\n<p><br></p>\n<p>ULCT's capacity expansions and technological investments provide higher efficiency and reliability in mineral fertilizer exports while offering customers a broader range of services. These developments make Ust-Luga Container Terminal more competitive in regional and international trade. The advanced storage and processing capacity provided by ULCT plays a critical role in meeting demand in the mineral fertilizer market.</p>\n<p><br></p>\n<h5><strong>Key Points:</strong></h5>\n<ul>\n  <li><p>ULCT began offering hazardous cargo storage capabilities from November 2023.</p></li>\n  <li><p>The new storage area has a capacity of 100,000 tons.</p></li>\n  <li><p>Mineral fertilizer processing operations commenced in April 2024.</p></li>\n  <li><p>The draft depth for Panamax vessels was increased to 12.6 meters in summer 2024.</p></li>\n  <li><p>The terminal can process 10,000 tons per day.</p></li>\n  <li><p>A total of five inclined spreaders are planned to be installed on STS cranes.</p></li>\n  <li><p>Global Ports terminals processed 3.1 million tons of cargo during the first 10 months of 2024.</p></li>\n</ul>\n<p><br></p>\n<p>---</p>\n<p><br></p>\n<p><strong>News Link: </strong><a href="https://www.globalports.com/en/news-and-media/press-releases-and-news/20241112/"><u>https://www.globalports.com/en/news-and-media/press-releases-and-news/20241112/</u></a></p>\n<p><br></p>\n<p>-------------------</p>\n<p><strong>!!! ANNOUNCEMENT !!!</strong></p>\n<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>\n<p>#What is ERP?</p>\n<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge through this link.</p>\n<p>We would appreciate your feedback.</p>\n<p>Wishing you happy reading.</p>

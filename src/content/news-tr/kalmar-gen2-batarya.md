@@ -1,14 +1,23 @@
 ---
-title: "Kalmar, Elektrikli Straddle Carrier’lar İçin Gen 2 Bataryayı Tanıttı"
-subtitle: "Kalmar, Elektrikli Straddle Carrier’lar İçin Gen 2 Bataryayı Tanıttı"
-date: "2025-12-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_684a7b6a288b452786638db4475115c7~mv2.jpg"
-imageAlt: "Kalmar tarafından geliştirilen Gen 2 lithium-ion battery çözümünün enerji kapasitesi, operasyon süresi, şarj esnekliği ve sürdürülebilirlik açısından elektrikli straddle carrier operasyonlarına getirdiği yenilikleri ele alan detaylı sektör özeti"
-wixId: "4eb3f73b-4493-435d-a33c-8bcad9e62624"
-author: "Sedat Onat"
+title: Kalmar, Elektrikli Straddle Carrier’lar İçin Gen 2 Bataryayı Tanıttı
+subtitle: Kalmar, Elektrikli Straddle Carrier’lar İçin Gen 2 Bataryayı Tanıttı
+date: '2025-12-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_684a7b6a288b452786638db4475115c7~mv2.jpg
+imageAlt: Kalmar tarafından geliştirilen Gen 2 lithium-ion battery çözümünün enerji kapasitesi, operasyon süresi, şarj esnekliği ve sürdürülebilirlik açısından elektrikli straddle carrier operasyonlarına getirdiği yenilikleri ele alan detaylı sektör özeti
+wixId: 4eb3f73b-4493-435d-a33c-8bcad9e62624
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kalmar
+- elektrikli straddle carrier
+- Gen 2 batarya
+- lithium-ion
+- liman ekipmanları
+- megawatt charging
+- elektrikleşme
+- dekarbonizasyon
 ---
 <p style="text-align: justify">Liman ve terminal ekipmanları alanında küresel oyunculardan biri olan <strong>Kalmar</strong>, elektrikli <strong>straddle carrier</strong> çözümleri için geliştirdiği yeni nesil <strong>Gen 2 lithium-ion (Li-ion) battery</strong> sistemini küresel ölçekte kullanıma sundu. Yeni batarya çözümü, artan enerji kapasitesi, geliştirilmiş <strong>thermal stability</strong> ve daha uzun operasyon süreleri ile dikkat çekmekte. Kalmar, bu adımla birlikte müşterilerin daha güvenli, daha verimli ve daha sürdürülebilir <strong>cargo-handling</strong> operasyonlarına geçişini hızlandırmayı hedeflemekte.</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "UK and US Reach New Agreement to Keep Drug Tariffs at Zero"
-subtitle: "UK and US Reach New Agreement to Keep Drug Tariffs at Zero"
-date: "2025-12-01T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_18edea7aedd44f54a597d297993f1bd6~mv2.jpg"
-imageAlt: "Detailed news summary on the agreement signed between the US and UK maintaining drug tariffs at zero, covering NHS commitments to increase drug spending, Trump administration pressures, and commercial implications for both nations"
-wixId: "7d5a6005-4120-484b-89f4-040589d815c5"
-author: "Sedat Onat"
+title: UK and US Reach New Agreement to Keep Drug Tariffs at Zero
+subtitle: UK and US Reach New Agreement to Keep Drug Tariffs at Zero
+date: '2025-12-01T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_18edea7aedd44f54a597d297993f1bd6~mv2.jpg
+imageAlt: Detailed news summary on the agreement signed between the US and UK maintaining drug tariffs at zero, covering NHS commitments to increase drug spending, Trump administration pressures, and commercial implications for both nations
+wixId: 7d5a6005-4120-484b-89f4-040589d815c5
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- pharmaceutical trade
+- tariffs
+- UK
+- US
+- NHS
+- trade agreement
+- drug pricing
 ---
-
 <p style="text-align: justify"><strong>The United Kingdom</strong> and <strong>the United States</strong> have reached a significant trade agreement aimed at reducing cost pressures in pharmaceutical commerce and supporting mutual growth objectives. Under the agreement, the US will continue to maintain zero tariffs on <strong>pharmaceutical exports</strong> from the UK; in return, the UK has committed to raising payments to drug manufacturers through its national healthcare system, the <strong>NHS – National Health Service</strong>. This decision comes after protracted price-setting discussions between the two nations.</p>
 <p><br></p>
 <p style="text-align: justify">According to information reported by <strong>BBC News</strong>, the UK has agreed to increase NHS payment levels for newly developed medicines by <strong>25 percent</strong>. This increase effectively responds to claims put forward by the <strong>Trump administration</strong> that "the US unfairly bears the burden of international drug pricing." The Trump administration had contended that elevated prescription drug prices in the US are partly attributable to other nations' supplies of lower-priced pharmaceuticals.</p>

@@ -1,14 +1,22 @@
 ---
-title: "Rus Demiryolları Son 15 Yılın En Büyük Yükleme Düşüşünü Kaydetti"
-subtitle: "Rus Demiryolları Son 15 Yılın En Büyük Yükleme Düşüşünü Kaydetti"
-date: "2025-01-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3a54bd3665c642dfb840a047931e7a14~mv2.jpeg"
-imageAlt: "Rus Demiryolları Son 15 Yılın En Büyük Yükleme Düşüşünü Kaydetti"
-wixId: "cb4ebbdf-8057-418c-995c-9965499d53ed"
-author: "Sedat Onat"
+title: Rus Demiryolları Son 15 Yılın En Büyük Yükleme Düşüşünü Kaydetti
+subtitle: Rus Demiryolları Son 15 Yılın En Büyük Yükleme Düşüşünü Kaydetti
+date: '2025-01-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3a54bd3665c642dfb840a047931e7a14~mv2.jpeg
+imageAlt: Rus Demiryolları Son 15 Yılın En Büyük Yükleme Düşüşünü Kaydetti
+wixId: cb4ebbdf-8057-418c-995c-9965499d53ed
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Rus Demiryolları
+- demiryolu taşımacılığı
+- yük taşımacılığı
+- yaptırımlar
+- altyapı yatırımları
+- konteyner taşımacılığı
+- Rusya
 ---
 <p style="text-align: justify"><a href="https://eng.rzd.ru/"><u><strong>Russian Railways (RZD)</strong></u></a>, son 15 yılın en büyük düşüşünü yaşayarak yükleme hacminde %4,1 oranında, yani 51 milyon tonluk bir azalma kaydetti. 2024 yılında toplam 1.181 milyon ton yükleme gerçekleştiren şirket, başlangıçta hedeflediği 1.265 milyon tonun gerisinde kaldı.</p>
 <p style="text-align: justify"><br></p>

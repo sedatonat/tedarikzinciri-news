@@ -1,16 +1,23 @@
 ---
-title: "China–US Blank Sailings Stabilizing After Months of Turbulence"
-subtitle: "China–US Blank Sailings Stabilizing After Months of Turbulence"
-date: "2025-11-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f01842f52f494d7d8692646bb525c603~mv2.jpg"
-imageAlt: "China–US blank sailing rates, which spiked sharply during 2025 due to tariffs, have begun normalizing with an 82 percent decline following the US–China trade ceasefire; carriers are adjusting to new demand levels."
-wixId: "a9f6d25e-cd9c-4bf6-923a-be2135d694fd"
-author: "Sedat Onat"
+title: China–US Blank Sailings Stabilizing After Months of Turbulence
+subtitle: China–US Blank Sailings Stabilizing After Months of Turbulence
+date: '2025-11-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f01842f52f494d7d8692646bb525c603~mv2.jpg
+imageAlt: China–US blank sailing rates, which spiked sharply during 2025 due to tariffs, have begun normalizing with an 82 percent decline following the US–China trade ceasefire; carriers are adjusting to new demand levels.
+wixId: a9f6d25e-cd9c-4bf6-923a-be2135d694fd
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- blank sailing
+- China-US trade
+- container shipping
+- tariff
+- capacity management
+- transpacific route
+- project44
 ---
-
 <p style="text-align: justify">The waves of blank sailings that defined much of 2025 on major transpacific shipping routes between China and the US are finally beginning to subside. <strong>According to project44 data</strong>, voyage cancellations that peaked in the spring months due to tariffs have retreated sharply in recent weeks, with carriers shifting to more balanced capacity management.</p>
 <p><br></p>
 <p style="text-align: justify">Throughout 2025, freight flows in both the China → US and US → China directions exhibited extreme volatility due to <strong>importers front-loading orders to avoid tariff increases</strong> and carriers making aggressive cuts to rebalance supply and demand.</p>

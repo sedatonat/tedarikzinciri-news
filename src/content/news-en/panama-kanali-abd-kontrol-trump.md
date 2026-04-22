@@ -1,16 +1,24 @@
 ---
-title: "China's Influence Over the Panama Canal and U.S. Calls for Control"
-subtitle: "China's Influence Over the Panama Canal and U.S. Calls for Control"
-date: "2025-01-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2503c867ac4a4d73b25d12d6ca12984e~mv2.jpg"
-imageAlt: "China's Influence Over the Panama Canal and U.S. Calls for Control"
-wixId: "3d3d7c9c-a2a2-48ad-b872-befecce6500d"
-author: "Sedat Onat"
+title: China's Influence Over the Panama Canal and U.S. Calls for Control
+subtitle: China's Influence Over the Panama Canal and U.S. Calls for Control
+date: '2025-01-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2503c867ac4a4d73b25d12d6ca12984e~mv2.jpg
+imageAlt: China's Influence Over the Panama Canal and U.S. Calls for Control
+wixId: 3d3d7c9c-a2a2-48ad-b872-befecce6500d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Panama Canal
+- China influence
+- maritime trade
+- geopolitics
+- container port
+- Hutchison Ports
+- USA
+- transit fees
 ---
-
 <p style="text-align: justify">In January 2025, the U.S. Senate Commerce Committee held a hearing to discuss China's influence over the <strong>Panama Canal</strong> and U.S. demands to reclaim control of the waterway. Committee Chair <strong>Ted Cruz</strong> noted that Chinese companies control container terminals at both ends of the canal and are constructing a bridge over the waterway, raising concerns that China could potentially block access to the canal.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Louis Sola</strong>, chairman of the Federal Maritime Commission, emphasized that corruption problems in Panama have enabled China's expansion. Sola stated that Chinese firms are pursuing multibillion-dollar development contracts in Panama, some involving physical infrastructure projects at or near the Panama Canal, and that some of these projects were awarded without competitive bidding and in violation of business laws.</p>

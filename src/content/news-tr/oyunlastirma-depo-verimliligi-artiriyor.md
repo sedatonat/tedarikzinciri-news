@@ -1,14 +1,22 @@
 ---
-title: "Oyunlaştırma, Depo Verimliliğini Artırıyor ve Personel Bağlılığını Güçlendiriyor"
-subtitle: "Oyunlaştırma, Depo Verimliliğini Artırıyor ve Personel Bağlılığını Güçlendiriyor"
-date: "2024-11-26T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_ae3fa646bf534f36b2ec6c75baed2fb8~mv2.jpg"
-imageAlt: "Oyunlaştırma, Depo Verimliliğini Artırıyor ve Personel Bağlılığını Güçlendiriyor"
-wixId: "b8cb9b85-0deb-4a06-bc15-89e718007154"
-author: "Sedat Onat"
+title: Oyunlaştırma, Depo Verimliliğini Artırıyor ve Personel Bağlılığını Güçlendiriyor
+subtitle: Oyunlaştırma, Depo Verimliliğini Artırıyor ve Personel Bağlılığını Güçlendiriyor
+date: '2024-11-26T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_ae3fa646bf534f36b2ec6c75baed2fb8~mv2.jpg
+imageAlt: Oyunlaştırma, Depo Verimliliğini Artırıyor ve Personel Bağlılığını Güçlendiriyor
+wixId: b8cb9b85-0deb-4a06-bc15-89e718007154
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- oyunlaştırma
+- depo verimliliği
+- çalışan bağlılığı
+- gamifikasyon
+- Körber
+- tedarik zinciri yazılımı
+- personel motivasyonu
 ---
 <p>Depo, tedarik zincirinin belkemiğini oluşturuyor. Etkin depo operasyonları, ürünlerin verimli bir şekilde taşınmasını sağlarken, fazla envanteri azaltıyor ve işletmelerin kar marjlarını iyileştiriyor. Ancak, depoyu tedarik zincirinin belkemiği yaparken, depo içindeki çalışanların başarının kilit faktörlerinden biri olduğu da unutulmamalıdır.</p>
 <p><br></p>

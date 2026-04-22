@@ -1,14 +1,23 @@
 ---
-title: "McDonald’s’in E. coli Salgını: Restoranlar ve Tedarikçiler İçin Öğrenilecek Dersler"
-subtitle: "McDonald’s’in E. coli Salgını: Restoranlar ve Tedarikçiler İçin Öğrenilecek Dersler"
-date: "2024-11-18T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_5e7f1b9eb9554ac3bd2ec2b58aba6972~mv2.jpg"
-imageAlt: "McDonald’s’in E. coli Salgını: Restoranlar ve Tedarikçiler İçin Öğrenilecek Dersler"
-wixId: "5b9d5a88-51f7-4eb9-ace6-a1ce16d9cbc4"
-author: "Sedat Onat"
+title: 'McDonald’s’in E. coli Salgını: Restoranlar ve Tedarikçiler İçin Öğrenilecek Dersler'
+subtitle: 'McDonald’s’in E. coli Salgını: Restoranlar ve Tedarikçiler İçin Öğrenilecek Dersler'
+date: '2024-11-18T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_5e7f1b9eb9554ac3bd2ec2b58aba6972~mv2.jpg
+imageAlt: 'McDonald’s’in E. coli Salgını: Restoranlar ve Tedarikçiler İçin Öğrenilecek Dersler'
+wixId: 5b9d5a88-51f7-4eb9-ace6-a1ce16d9cbc4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- E. coli
+- gıda güvenliği
+- tedarik zinciri
+- McDonald's
+- Taylor Farms
+- kriz yönetimi
+- tedarikçi ilişkileri
+- kontaminasyon
 ---
 <p>2024 yılı Ekim ayında, dünya genelinde tanınmış fast food zinciri McDonald’s, yaklaşık 40 yıl aradan sonra büyük bir krizle karşı karşıya kaldı. Zincirin Quarter Pounder ürünleri, E. coli salgını nedeniyle menülerden kaldırıldı. Bu salgın, en az 90 kişiyi hasta ederken, bir kişinin hayatını kaybetmesine neden oldu. Regülatör kurumlar, Taylor Farms tarafından sağlanan dilimlenmiş soğanların salgının kaynağı olduğunu belirledi ve salgın kontrol altına alındı. Quarter Pounder ürünleri yaklaşık 3,000 restoranda tekrar satışa sunuldu. Salgın sonrasında, benzer olayların önlenmesi, müşteri duyarlılığının etkilenmesi ve restoranların ve tedarikçilerin kendilerini korumak için alabilecekleri önlemler konusunda sorular gündeme geldi.</p>
 <p><br></p>

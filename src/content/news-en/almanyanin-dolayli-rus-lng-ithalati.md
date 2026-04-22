@@ -1,16 +1,23 @@
 ---
-title: "Germany's Indirect Russian LNG Imports Rising Through European Ports"
-subtitle: "Germany's Indirect Russian LNG Imports Rising Through European Ports"
-date: "2025-01-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a8e0faecaa4842379f7a36a5eb05363c~mv2.jpg"
-imageAlt: "Germany's Indirect Russian LNG Imports Rising Through European Ports"
-wixId: "c4a61095-739f-4233-8a45-e2f7a97713c2"
-author: "Sedat Onat"
+title: Germany's Indirect Russian LNG Imports Rising Through European Ports
+subtitle: Germany's Indirect Russian LNG Imports Rising Through European Ports
+date: '2025-01-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_a8e0faecaa4842379f7a36a5eb05363c~mv2.jpg
+imageAlt: Germany's Indirect Russian LNG Imports Rising Through European Ports
+wixId: c4a61095-739f-4233-8a45-e2f7a97713c2
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Germany
+- Russia
+- LNG imports
+- energy security
+- European ports
+- natural gas
+- energy policy
 ---
-
 <p style="text-align: justify">Germany is significantly increasing its imports of Russian liquefied natural gas (<strong>LNG</strong>) through European ports, despite maintaining a ban on direct shipments. This development has reignited debates surrounding Berlin's energy policies and Europe's energy supply security.</p>
 <p><br></p>
 <p style="text-align: justify">Although Germany has banned direct <strong>LNG</strong> imports from Russia, it continues to source Russian <strong>LNG</strong> indirectly through other European ports. This strategy is seen as an effort by Berlin to meet the country's energy needs. However, the arrangement has raised questions about the consistency of Germany's energy policies and Europe's broader energy security concerns.</p>

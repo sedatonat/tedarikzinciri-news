@@ -1,14 +1,22 @@
 ---
-title: "Kongre Üyesi Van Drew ve Trump, Biden'ın Açık Deniz Rüzgar Enerjisi Hedeflerini Engellemek İçin Bir Araya Geldi"
-subtitle: "Kongre Üyesi Van Drew ve Trump, Biden'ın Açık Deniz Rüzgar Enerjisi Hedeflerini Engellemek İçin Bir Araya Geldi"
-date: "2025-01-16T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_5dd37be9341d4fee9dbde7e4aae2d38b~mv2.jpg"
-imageAlt: "Kongre Üyesi Van Drew ve Trump, Biden'ın Açık Deniz Rüzgar Enerjisi Hedeflerini Engellemek İçin Bir Araya Geldi"
-wixId: "d0591f4c-df7b-4d04-8837-3bfb5e21fbce"
-author: "Sedat Onat"
+title: Kongre Üyesi Van Drew ve Trump, Biden'ın Açık Deniz Rüzgar Enerjisi Hedeflerini Engellemek İçin Bir Araya Geldi
+subtitle: Kongre Üyesi Van Drew ve Trump, Biden'ın Açık Deniz Rüzgar Enerjisi Hedeflerini Engellemek İçin Bir Araya Geldi
+date: '2025-01-16T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_5dd37be9341d4fee9dbde7e4aae2d38b~mv2.jpg
+imageAlt: Kongre Üyesi Van Drew ve Trump, Biden'ın Açık Deniz Rüzgar Enerjisi Hedeflerini Engellemek İçin Bir Araya Geldi
+wixId: d0591f4c-df7b-4d04-8837-3bfb5e21fbce
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- açık deniz rüzgar enerjisi
+- Trump
+- Biden
+- yürütme emri
+- New Jersey
+- Atlantic Shores
+- enerji politikası
 ---
 <p style="text-align: justify">Cumhuriyetçi Kongre Üyesi <strong>Jeff Van Drew</strong>, Başkan seçilen <strong>Donald Trump</strong> ile birlikte, Doğu Kıyısı boyunca açık deniz rüzgar türbini faaliyetlerini durdurmayı amaçlayan bir yürütme emri hazırlamak üzere çalışmakta.</p>
 <p style="text-align: justify"><br></p>

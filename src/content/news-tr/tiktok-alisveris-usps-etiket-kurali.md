@@ -1,14 +1,22 @@
 ---
-title: "TikTok Shop, USPS Etiketlerini Zorunlu Olarak Kendi Platformuna Taşıyor"
-subtitle: "TikTok Shop, USPS Etiketlerini Zorunlu Olarak Kendi Platformuna Taşıyor"
-date: "2025-11-26T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_02a531af207342288eaa100f96a24ba8~mv2.jpg"
-imageAlt: "TikTok Shop’un USPS gönderi etiketlerini yalnızca TikTok Shipping üzerinden satın alma zorunluluğu, satıcıların operasyonel süreçlerine etkisi, maliyet riskleri ve alternatif taşıyıcı stratejilerini kapsayan detaylı değerlendirme."
-wixId: "96f01b1c-ae9c-4d29-8fa3-c466e8f5d099"
-author: "Sedat Onat"
+title: TikTok Shop, USPS Etiketlerini Zorunlu Olarak Kendi Platformuna Taşıyor
+subtitle: TikTok Shop, USPS Etiketlerini Zorunlu Olarak Kendi Platformuna Taşıyor
+date: '2025-11-26T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_02a531af207342288eaa100f96a24ba8~mv2.jpg
+imageAlt: TikTok Shop’un USPS gönderi etiketlerini yalnızca TikTok Shipping üzerinden satın alma zorunluluğu, satıcıların operasyonel süreçlerine etkisi, maliyet riskleri ve alternatif taşıyıcı stratejilerini kapsayan detaylı değerlendirme.
+wixId: 96f01b1c-ae9c-4d29-8fa3-c466e8f5d099
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- TikTok Shop
+- USPS
+- e-ticaret lojistiği
+- gönderi etiketi
+- 3PL
+- kargo maliyeti
+- platform entegrasyonu
 ---
 <p style="text-align: justify">TikTok Shop, 2026’ya girerken ABD’deki satıcılarını doğrudan etkileyecek önemli bir operasyonel değişiklik duyurdu. Platform, 14 Kasım tarihli satıcı bilgilendirmesine göre, <strong>1 Ocak itibarıyla tüm USPS gönderi etiketlerinin yalnızca TikTok Shipping üzerinden satın alınmasını ve yazdırılmasını</strong> zorunlu hâle getiriyor. Bu adım, TikTok Shop’un kendi lojistik altyapısı üzerindeki kontrolünü artırma stratejisinin belirgin bir devamı niteliğinde.</p>
 <p><br></p>

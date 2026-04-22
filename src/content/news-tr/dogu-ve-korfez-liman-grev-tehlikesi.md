@@ -1,14 +1,22 @@
 ---
-title: "Doğu ve Körfez Kıyıları Limanlarında Grev Tehlikesi: Anlaşma Zamanı Daralıyor"
-subtitle: "Doğu ve Körfez Kıyıları Limanlarında Grev Tehlikesi: Anlaşma Zamanı Daralıyor"
-date: "2024-05-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_317fa8b66eb24ea0b1a12fbc5c97a2f9~mv2.jpg"
-imageAlt: "Doğu ve Körfez Kıyıları Limanlarında Grev Tehlikesi: Anlaşma Zamanı Daralıyor"
-wixId: "58243deb-43c4-43a2-806a-1cf97e4ee3ea"
-author: "Sedat Onat"
+title: 'Doğu ve Körfez Kıyıları Limanlarında Grev Tehlikesi: Anlaşma Zamanı Daralıyor'
+subtitle: 'Doğu ve Körfez Kıyıları Limanlarında Grev Tehlikesi: Anlaşma Zamanı Daralıyor'
+date: '2024-05-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_317fa8b66eb24ea0b1a12fbc5c97a2f9~mv2.jpg
+imageAlt: 'Doğu ve Körfez Kıyıları Limanlarında Grev Tehlikesi: Anlaşma Zamanı Daralıyor'
+wixId: 58243deb-43c4-43a2-806a-1cf97e4ee3ea
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- liman grevi
+- Doğu Kıyısı
+- Körfez Kıyısı
+- ILA
+- liman işçileri
+- konteyner ithalatı
+- toplu iş sözleşmesi
 ---
 <p>Doğu ve Körfez Kıyıları'ndaki liman işçilerini kapsayan altı yıllık iş sözleşmesi 30 Eylül'de sona erecek. İşçi ve işveren temsilcilerinden yapılan ortak açıklamaya göre, yerel düzeyde pazarlık yakında başlayacak ve Cuma günü tamamlanması bekleniyor.&nbsp;</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Ukrayna, TürkAkım Boru Hattına Saldırı Girişiminde Bulundu İddiası"
-subtitle: "Ukrayna, TürkAkım Boru Hattına Saldırı Girişiminde Bulundu İddiası"
-date: "2025-01-13T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_996bdd421155434f89067a1cdb2ed8d8~mv2.jpeg"
-imageAlt: "Ukrayna, TürkAkım Boru Hattına Saldırı Girişiminde Bulundu İddiası"
-wixId: "53c66a00-6bb0-48a9-a371-cdcc93dd0916"
-author: "Sedat Onat"
+title: Ukrayna, TürkAkım Boru Hattına Saldırı Girişiminde Bulundu İddiası
+subtitle: Ukrayna, TürkAkım Boru Hattına Saldırı Girişiminde Bulundu İddiası
+date: '2025-01-13T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_996bdd421155434f89067a1cdb2ed8d8~mv2.jpeg
+imageAlt: Ukrayna, TürkAkım Boru Hattına Saldırı Girişiminde Bulundu İddiası
+wixId: 53c66a00-6bb0-48a9-a371-cdcc93dd0916
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- TürkAkım
+- doğalgaz boru hattı
+- Ukrayna
+- Rusya
+- enerji güvenliği
+- İHA
+- Karadeniz
 ---
 <p style="text-align: justify">Rusya Savunma Bakanlığı, Ukrayna'nın <strong>TürkAkım</strong> doğalgaz boru hattına yönelik bir saldırı girişiminde bulunduğunu iddia etti. Bakanlık, Ukrayna'nın Rusya'dan başlayıp Karadeniz üzerinden Türkiye'ye doğalgaz taşıyan boru hattını besleyen bir kompresör istasyonunu vurmaya çalıştığını öne sürdü. Saldırıda insansız hava araçlarının (İHA) kullanıldığı ve bu İHA'ların Rus hava savunma sistemleri tarafından düşürüldüğü belirtildi.</p>
 <p style="text-align: justify"><br></p>

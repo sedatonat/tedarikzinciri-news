@@ -1,14 +1,22 @@
 ---
-title: "Trump Yönetiminin Rüzgâr Enerjisi Politikalarının Limanlara Zararı"
-subtitle: "Trump Yönetiminin Rüzgâr Enerjisi Politikalarının Limanlara Zararı"
-date: "2025-10-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_02633b913132468fa713f6312a7708da~mv2.jpg"
-imageAlt: "Trump Yönetiminin Rüzgâr Enerjisi Politikalarının Limanlara Zararı"
-wixId: "772ef36e-5576-4456-83f3-28933e560c74"
-author: "Sedat Onat"
+title: Trump Yönetiminin Rüzgâr Enerjisi Politikalarının Limanlara Zararı
+subtitle: Trump Yönetiminin Rüzgâr Enerjisi Politikalarının Limanlara Zararı
+date: '2025-10-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_02633b913132468fa713f6312a7708da~mv2.jpg
+imageAlt: Trump Yönetiminin Rüzgâr Enerjisi Politikalarının Limanlara Zararı
+wixId: 772ef36e-5576-4456-83f3-28933e560c74
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- rüzgâr enerjisi
+- Trump
+- liman altyapısı
+- Maersk
+- offshore
+- temiz enerji
+- gemi inşa
 ---
 <p style="text-align: justify"><strong>ABD Başkanı Donald Trump’ın açık deniz rüzgâr enerjisi politikalarını geri çekmesi</strong>, ülkenin <strong>gemi inşa ve liman sektörlerinde ciddi ekonomik kayıplara</strong> yol açtı.</p>
 <p><br>

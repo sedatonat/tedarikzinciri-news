@@ -1,14 +1,22 @@
 ---
-title: "Polonya, Doğu Hatlarında Orduyu Devreye Aldı: Rusya Destekli Sabotaj Kesinleşti"
-subtitle: "Polonya, Doğu Hatlarında Orduyu Devreye Aldı: Rusya Destekli Sabotaj Kesinleşti"
-date: "2025-11-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1291bfd66fa14ff29c93e0dd8c0f9f99~mv2.jpg"
-imageAlt: "Polonya, Ukrayna’ya uzanan stratejik hat Line No.7’deki patlamanın iki Ukraynalı ajan tarafından Rus istihbaratı adına gerçekleştirildiğini açıkladı; olay sonrası doğu demiryolu hatları ordu tarafından korunmaya alındı."
-wixId: "5b1f9ee5-9936-414a-b9fc-48479e07db07"
-author: "Sedat Onat"
+title: 'Polonya, Doğu Hatlarında Orduyu Devreye Aldı: Rusya Destekli Sabotaj Kesinleşti'
+subtitle: 'Polonya, Doğu Hatlarında Orduyu Devreye Aldı: Rusya Destekli Sabotaj Kesinleşti'
+date: '2025-11-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1291bfd66fa14ff29c93e0dd8c0f9f99~mv2.jpg
+imageAlt: Polonya, Ukrayna’ya uzanan stratejik hat Line No.7’deki patlamanın iki Ukraynalı ajan tarafından Rus istihbaratı adına gerçekleştirildiğini açıkladı; olay sonrası doğu demiryolu hatları ordu tarafından korunmaya alındı.
+wixId: 5b1f9ee5-9936-414a-b9fc-48479e07db07
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Polonya
+- demiryolu sabotajı
+- Rusya
+- Ukrayna
+- NATO lojistiği
+- hibrit savaş
+- kritik altyapı
 ---
 <p style="text-align: justify">Polonya Başbakanı <strong>Donald Tusk</strong>, ülkenin doğusundaki kritik demiryolu hattında pazar günü yaşanan patlamanın arkasında <strong>Rusya’nın bulunduğunu kesin olarak tespit ettiklerini</strong> açıkladı. Tusk, saldırıyı gerçekleştiren kişilerin kimliklerinin belirlendiğini ve iki Ukrayna vatandaşının uzun süredir <strong>Rus istihbaratı adına faaliyet yürüttüğünü</strong> söyledi. Olay, Ukrayna’ya silah, yakıt ve insani yardım sevkiyatında kullanılan en stratejik koridorlardan biri olan <strong>demiryolu hattı No. 7</strong> üzerinde meydana geldi.</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "Clorox Successfully Recovers from ERP Transition-Driven Inventory Build"
-subtitle: "Clorox Successfully Recovers from ERP Transition-Driven Inventory Build"
-date: "2025-11-19T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_468de4cecdfc41e5961f18764f074f56~mv2.jpg"
-imageAlt: "As Clorox moved its U.S. supply chain and business operations to a new ERP system, the company proactively increased inventory levels at retailers by 1.5 weeks to prevent temporary disruptions. The company announced it has fully recovered from transition-related inventory imbalances and sees no material risk for the remainder of the year."
-wixId: "cf012ac8-595a-4dc9-8cef-7643a7d38a87"
-author: "Sedat Onat"
+title: Clorox Successfully Recovers from ERP Transition-Driven Inventory Build
+subtitle: Clorox Successfully Recovers from ERP Transition-Driven Inventory Build
+date: '2025-11-19T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_468de4cecdfc41e5961f18764f074f56~mv2.jpg
+imageAlt: As Clorox moved its U.S. supply chain and business operations to a new ERP system, the company proactively increased inventory levels at retailers by 1.5 weeks to prevent temporary disruptions. The company announced it has fully recovered from transition-related inventory imbalances and sees no material risk for the remainder of the year.
+wixId: cf012ac8-595a-4dc9-8cef-7643a7d38a87
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Clorox
+- ERP transition
+- inventory management
+- supply chain
+- digital transformation
+- enterprise resource planning
+- inventory balancing
 ---
-
 <p style="text-align: justify"><strong>The Clorox Company</strong> announced it has resolved temporary imbalances experienced while transitioning its U.S. supply chain and business operations to a new <strong>enterprise resource planning (ERP)</strong> system. CEO and Chairman <strong>Linda Rendle</strong> said during an earnings call on November 3 that inventory increases created during the system transition are now under control.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Proactive approach: Retail inventory levels increased by 1.5 weeks</strong></h5>

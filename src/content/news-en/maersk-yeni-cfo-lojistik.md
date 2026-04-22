@@ -1,16 +1,23 @@
 ---
-title: "Maersk Appoints New CFO With Logistics Background as Strategic Focus Shifts to Land-Based Operations"
-subtitle: "Maersk Appoints New CFO With Logistics Background as Strategic Focus Shifts to Land-Based Operations"
-date: "2025-12-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4677923e07094887b3e35a2e175f7f42~mv2.jpg"
-imageAlt: "A.P. Moller–Maersk's appointment of Robert Erni as new CFO, highlighting his logistics background's impact on the company's land-based logistics growth strategy, potential M&A signals, and detailed summary of management team changes"
-wixId: "e5b764cd-877c-4afe-b402-f5c1044ddd0c"
-author: "Sedat Onat"
+title: Maersk Appoints New CFO With Logistics Background as Strategic Focus Shifts to Land-Based Operations
+subtitle: Maersk Appoints New CFO With Logistics Background as Strategic Focus Shifts to Land-Based Operations
+date: '2025-12-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4677923e07094887b3e35a2e175f7f42~mv2.jpg
+imageAlt: A.P. Moller–Maersk's appointment of Robert Erni as new CFO, highlighting his logistics background's impact on the company's land-based logistics growth strategy, potential M&A signals, and detailed summary of management team changes
+wixId: e5b764cd-877c-4afe-b402-f5c1044ddd0c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Maersk
+- CFO appointment
+- land logistics
+- integrated logistics
+- M&A
+- freight forwarding
+- Dachser
 ---
-
 <p style="text-align: justify">Denmark-based global shipping and logistics group <strong>A.P. Moller–Maersk A/S</strong> has made a strategically significant change to its senior management. The company announced on December 12 that it had appointed <strong>Robert Erni</strong> as its new <strong>Chief Financial Officer (CFO)</strong>. The appointment is viewed as an important signal regarding Maersk's long-standing but slower-than-anticipated progress in its <strong>land-based logistics</strong> growth strategy.</p>
 <p><br></p>
 <p style="text-align: justify">Robert Erni, 59, is joining Maersk from Germany-based <strong>Dachser GmbH &amp; Co. KG</strong>. During his tenure as CFO at Dachser, Erni played an active role in financial discipline, cost management, and scalable growth processes across both the company's European and global logistics operations. His prior career experience at global freight forwarders including <strong>Panalpina AG</strong> and <strong>Kuehne + Nagel International AG</strong> distinguishes him from traditional maritime finance executives.</p>

@@ -1,14 +1,22 @@
 ---
-title: "Maersk, Rotterdam'da Yenilikçi Cross Dock Tesisi Açtı"
-subtitle: "Maersk, Rotterdam'da Yenilikçi Cross Dock Tesisi Açtı"
-date: "2024-05-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_bf25870813c64397918af1cc243c5b4b~mv2.jpg"
-imageAlt: "Maersk, Rotterdam'da Yenilikçi Cross Dock Tesisi Açtı"
-wixId: "da860a98-8a6d-477b-8fe1-1b6c31b87986"
-author: "Sedat Onat"
+title: Maersk, Rotterdam'da Yenilikçi Cross Dock Tesisi Açtı
+subtitle: Maersk, Rotterdam'da Yenilikçi Cross Dock Tesisi Açtı
+date: '2024-05-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_bf25870813c64397918af1cc243c5b4b~mv2.jpg
+imageAlt: Maersk, Rotterdam'da Yenilikçi Cross Dock Tesisi Açtı
+wixId: da860a98-8a6d-477b-8fe1-1b6c31b87986
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Maersk
+- Rotterdam
+- cross dock
+- Maasvlakte II
+- soğuk hava deposu
+- sıfır emisyon
+- BREEAM
 ---
 <p>Maersk, Rotterdam'daki Maasvlakte II terminalinde yeni bir cross dock (aktarma) deposu açtığını duyurdu. Bu tesis, özellikle Benelux, Almanya ve Fransa arka bölgelerine yönelik yük akışını büyük ölçüde artıracak. Gelen gemilerden boşaltılan konteynerlerin içeriği, birkaç saat içinde nihai varış noktalarına ulaştırılmak üzere kamyonlara aktarılabilir. Toplam 23,000 metrekarelik bir alana sahip olan depo, 120 yükleme rampası ve geçici depolama alanına sahiptir. Tam kapasite çalıştığında, depo 200'den fazla yeni iş imkanı sağlayacak.&nbsp;</p>
 <p><br></p>

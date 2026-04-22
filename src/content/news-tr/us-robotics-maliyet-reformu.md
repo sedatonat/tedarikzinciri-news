@@ -1,14 +1,23 @@
 ---
-title: "ABD’li Robotik Üreticisi, Maliyet Krizi Nedeniyle Üretim Reformu Çağrısı Yapıyor"
-subtitle: "ABD’li Robotik Üreticisi, Maliyet Krizi Nedeniyle Üretim Reformu Çağrısı Yapıyor"
-date: "2025-12-02T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b4edb3e255064d1a90a33d995ff44e21~mv2.jpg"
-imageAlt: "Standard Bots CEO’su Evan Beard’in ABD Kongresi’ndeki konuşmasında Çin’in ucuz robotlarının pazar tehditi, ABD’nin strateji eksikliği, maliyet dezavantajı ve üretim reformu önerilerine dair detaylı haber özeti"
-wixId: "d3cc6674-62a4-4c7b-95ce-f18b758f82d4"
-author: "Sedat Onat"
+title: ABD’li Robotik Üreticisi, Maliyet Krizi Nedeniyle Üretim Reformu Çağrısı Yapıyor
+subtitle: ABD’li Robotik Üreticisi, Maliyet Krizi Nedeniyle Üretim Reformu Çağrısı Yapıyor
+date: '2025-12-02T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b4edb3e255064d1a90a33d995ff44e21~mv2.jpg
+imageAlt: Standard Bots CEO’su Evan Beard’in ABD Kongresi’ndeki konuşmasında Çin’in ucuz robotlarının pazar tehditi, ABD’nin strateji eksikliği, maliyet dezavantajı ve üretim reformu önerilerine dair detaylı haber özeti
+wixId: d3cc6674-62a4-4c7b-95ce-f18b758f82d4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- robotik üretim
+- Standard Bots
+- ABD-Çin rekabeti
+- endüstriyel robot
+- üretim maliyeti
+- ulusal strateji
+- MEP programı
+- tedarik zinciri
 ---
 <p style="text-align: justify">ABD merkezli robotik startup’ı <strong>Standard Bots</strong>’un CEO’su <strong>Evan Beard</strong>, 18 Kasım’da ABD Kongresi’nin <strong>Joint Economic Committee</strong> oturumunda yaptığı konuşmada, ABD’nin gelişmiş robotik üretiminde <strong>sistemsel bir rekabet dezavantajı</strong> içinde olduğunu söyledi. Beard’e göre ABD’li robot üreticilerinin en büyük sorunu <strong>yüksek parça maliyetleri</strong> ve ulusal ölçekte koordineli bir <strong>industrial robotics strategy</strong> eksikliği.</p>
 <p><br></p>

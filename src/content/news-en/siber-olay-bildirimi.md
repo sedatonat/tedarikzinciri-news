@@ -1,16 +1,23 @@
 ---
-title: "Cydome: Free Tool for Cyber Incident Reporting"
-subtitle: "Cydome: Free Tool for Cyber Incident Reporting"
-date: "2025-08-11T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_d38a8729bf1b40fb97d154139c66d5f6~mv2.png"
-imageAlt: "Cydome: Free Tool for Cyber Incident Reporting"
-wixId: "74b4eeeb-720c-4541-b8cf-625d34801ee2"
-author: "Sedat Onat"
+title: 'Cydome: Free Tool for Cyber Incident Reporting'
+subtitle: 'Cydome: Free Tool for Cyber Incident Reporting'
+date: '2025-08-11T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_d38a8729bf1b40fb97d154139c66d5f6~mv2.png
+imageAlt: 'Cydome: Free Tool for Cyber Incident Reporting'
+wixId: 74b4eeeb-720c-4541-b8cf-625d34801ee2
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Cydome
+- cybersecurity
+- incident reporting
+- IT/OT infrastructure
+- maritime logistics
+- compliance
+- SME
 ---
-
 <p style="text-align: justify"><strong>Cydome</strong> has released <strong>a free tool</strong> designed to <strong>streamline cyber incident notification processes</strong> for organizations. This solution targets standardization and speed in the early stages of cyber incident management, particularly in sectors with complex and distributed <strong>IT/OT infrastructure</strong> —such as maritime and logistics.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">The tool provides security teams with an operational framework through <strong>standardized reporting templates</strong>, <strong>evidence collection guidance</strong>, and <strong>regulatory mapping</strong> features. This enables incident reports generated after detection to achieve compliance with legal requirements in both form and content, ensuring consistency and assurance in audit processes.</p>

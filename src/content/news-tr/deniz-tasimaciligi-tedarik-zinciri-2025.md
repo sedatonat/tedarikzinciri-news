@@ -1,14 +1,22 @@
 ---
-title: "2025'te Deniz Taşımacılığı Tedarik Zincirini İleriye Taşıyan Beş Eğilim"
-subtitle: "2025'te Deniz Taşımacılığı Tedarik Zincirini İleriye Taşıyan Beş Eğilim"
-date: "2024-11-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_846a18d71502440995a341bab52ee50c~mv2.jpg"
-imageAlt: "2025'te Deniz Taşımacılığı Tedarik Zincirini İleriye Taşıyan Beş Eğilim"
-wixId: "16eb623b-04bf-4774-b095-b4f78fe6d5f2"
-author: "Sedat Onat"
+title: 2025'te Deniz Taşımacılığı Tedarik Zincirini İleriye Taşıyan Beş Eğilim
+subtitle: 2025'te Deniz Taşımacılığı Tedarik Zincirini İleriye Taşıyan Beş Eğilim
+date: '2024-11-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_846a18d71502440995a341bab52ee50c~mv2.jpg
+imageAlt: 2025'te Deniz Taşımacılığı Tedarik Zincirini İleriye Taşıyan Beş Eğilim
+wixId: 16eb623b-04bf-4774-b095-b4f78fe6d5f2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- deniz taşımacılığı
+- tedarik zinciri
+- yapay zeka
+- sürdürülebilirlik
+- iç su yolları
+- liman altyapısı
+- elektrikli gemi
 ---
 <p><em>Deniz taşımacılığı tedarik zincirinin geleceğini şekillendiren beş önemli trend, 2025 yılına doğru hızla ilerliyor. OpenTug CEO'su Jason Aristides'in analizine göre, sürdürülebilir yakıt kullanımı, yapay zeka destekli lojistik ve önemli altyapı yatırımları, küresel deniz taşımacılığında daha akıllı ve sürdürülebilir bir geleceğin temelini oluşturuyor.</em></p>
 <p><br></p>

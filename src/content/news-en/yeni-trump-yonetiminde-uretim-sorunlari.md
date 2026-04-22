@@ -1,16 +1,23 @@
 ---
-title: "Four Manufacturing Issues to Watch Under the New Trump Administration"
-subtitle: "Four Manufacturing Issues to Watch Under the New Trump Administration"
-date: "2024-11-12T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_15b96612048940c69910daabb2146803~mv2.png"
-imageAlt: "Four Manufacturing Issues to Watch Under the New Trump Administration"
-wixId: "a8ab6a4f-ad16-40ab-975b-2501688e1673"
-author: "Sedat Onat"
+title: Four Manufacturing Issues to Watch Under the New Trump Administration
+subtitle: Four Manufacturing Issues to Watch Under the New Trump Administration
+date: '2024-11-12T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_15b96612048940c69910daabb2146803~mv2.png
+imageAlt: Four Manufacturing Issues to Watch Under the New Trump Administration
+wixId: a8ab6a4f-ad16-40ab-975b-2501688e1673
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Trump administration
+- tariffs
+- manufacturing sector
+- tax cuts
+- US
+- reshoring
+- clean energy
 ---
-
 <p>The agenda of newly elected President Donald Trump could have significant implications for the U.S. manufacturing sector. With Trump's reelection, industry leaders are bracing for potential changes, including elevated tariffs, tax cuts, and reductions in clean energy subsidies. Here are four manufacturing issues that experts say the new administration is most likely to impact:</p>
 <p><br></p>
 <p><strong>1. Tariffs</strong></p>

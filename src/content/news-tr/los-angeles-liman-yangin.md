@@ -1,14 +1,21 @@
 ---
-title: "Los Angeles Limanı, ONE Henry Hudson Yangını Sonrası Tam Operasyona Döndü"
-subtitle: "Los Angeles Limanı, ONE Henry Hudson Yangını Sonrası Tam Operasyona Döndü"
-date: "2025-11-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d9b30e040ce04e929974811495e60318~mv2.jpg"
-imageAlt: "Port of Los Angeles’ta ONE Henry Hudson konteyner gemisindeki elektrik kaynaklı yangın sonrası terminal kapatmalarının kaldırılması ve limanın yeniden tam kapasite çalışmaya başlaması hakkında detaylı özet."
-wixId: "a40e02c5-7e64-4a41-bc57-d0ef5562d309"
-author: "Sedat Onat"
+title: Los Angeles Limanı, ONE Henry Hudson Yangını Sonrası Tam Operasyona Döndü
+subtitle: Los Angeles Limanı, ONE Henry Hudson Yangını Sonrası Tam Operasyona Döndü
+date: '2025-11-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d9b30e040ce04e929974811495e60318~mv2.jpg
+imageAlt: Port of Los Angeles’ta ONE Henry Hudson konteyner gemisindeki elektrik kaynaklı yangın sonrası terminal kapatmalarının kaldırılması ve limanın yeniden tam kapasite çalışmaya başlaması hakkında detaylı özet.
+wixId: a40e02c5-7e64-4a41-bc57-d0ef5562d309
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Los Angeles Limanı
+- ONE Henry Hudson
+- konteyner gemisi yangını
+- liman operasyonları
+- tedarik zinciri
+- Yusen Terminals
 ---
 <p style="text-align: justify"><strong>Port of Los Angeles</strong>, cuma akşamı <strong>ONE Henry Hudson</strong> adlı konteyner gemisinde çıkan elektrik kaynaklı yangının ardından hafta sonu boyunca yürütülen yoğun acil müdahale çalışmalarının tamamlanmasıyla <strong>normal operasyonlara geri döndüğünü</strong> açıkladı. Yangın, limanın <strong>Yusen Terminals</strong> tesisinde meydana gelmiş, kritik güvenlik riski nedeniyle <strong>altı konteyner terminalinin dördü geçici olarak kapatılmıştı</strong>.</p>
 <p><br></p>

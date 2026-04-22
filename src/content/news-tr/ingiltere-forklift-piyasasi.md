@@ -1,14 +1,23 @@
 ---
-title: "Forklift Pazarı 2026’dan İtibaren Güven Toparlayarak Kademeli Büyümeye Giriyor"
-subtitle: "Forklift Pazarı 2026’dan İtibaren Güven Toparlayarak Kademeli Büyümeye Giriyor"
-date: "2025-11-28T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_d6ef6b716b2044c486872df70b260523~mv2.jpg"
-imageAlt: "Oxford Economics tarafından hazırlanan UK Forklift Truck Market Outlook raporunda 2025’teki zayıf talep, 2026’daki toparlanma beklentisi ve segment bazlı sipariş projeksiyonlarının detaylı özeti"
-wixId: "cdbead48-7038-49ef-8378-451be62a2b22"
-author: "Sedat Onat"
+title: Forklift Pazarı 2026’dan İtibaren Güven Toparlayarak Kademeli Büyümeye Giriyor
+subtitle: Forklift Pazarı 2026’dan İtibaren Güven Toparlayarak Kademeli Büyümeye Giriyor
+date: '2025-11-28T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_d6ef6b716b2044c486872df70b260523~mv2.jpg
+imageAlt: Oxford Economics tarafından hazırlanan UK Forklift Truck Market Outlook raporunda 2025’teki zayıf talep, 2026’daki toparlanma beklentisi ve segment bazlı sipariş projeksiyonlarının detaylı özeti
+wixId: cdbead48-7038-49ef-8378-451be62a2b22
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- forklift
+- Birleşik Krallık
+- malzeme taşıma
+- pazar büyümesi
+- UKMHA
+- depo ekipmanları
+- yatırım döngüsü
+- IMHX 2027
 ---
 <p style="text-align: justify">Bir yıl boyunca ertelenen yatırımlar, yükselen maliyetler ve zayıflayan güvenle karakterize edilen 2025’in ardından, <strong>UK forklift truck market</strong> geri çekilme değil, kontrollü bir <strong>adjustment</strong> döneminden geçmekte. <strong>UK Material Handling Association (UKMHA)</strong> için <strong>Oxford Economics</strong> tarafından hazırlanan son <strong>UK Forklift Truck Market Outlook</strong>, sektördeki görünümün 2026’dan itibaren kademeli olarak iyileşmeye yöneleceğini ortaya koymakta.</p>
 <p><br></p>

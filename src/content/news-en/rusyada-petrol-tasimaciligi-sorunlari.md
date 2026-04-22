@@ -1,16 +1,24 @@
 ---
-title: "Russia's Oil Transportation Crisis: Railways and Oil Companies Trade Blame"
-subtitle: "Russia's Oil Transportation Crisis: Railways and Oil Companies Trade Blame"
-date: "2025-02-14T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d3a558074f2b476e8a01351ce17754a7~mv2.jpg"
-imageAlt: "Russia's Oil Transportation Crisis: Railways and Oil Companies Trade Blame"
-wixId: "e14394a9-88e8-49ae-a7a0-03b01f14e456"
-author: "Sedat Onat"
+title: 'Russia''s Oil Transportation Crisis: Railways and Oil Companies Trade Blame'
+subtitle: 'Russia''s Oil Transportation Crisis: Railways and Oil Companies Trade Blame'
+date: '2025-02-14T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_d3a558074f2b476e8a01351ce17754a7~mv2.jpg
+imageAlt: 'Russia''s Oil Transportation Crisis: Railways and Oil Companies Trade Blame'
+wixId: e14394a9-88e8-49ae-a7a0-03b01f14e456
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Russia
+- oil transportation
+- railway
+- refinery
+- Russian Railways
+- Gazprom Neft
+- Rosneft
+- Ukraine attacks
 ---
-
 <p style="text-align: justify">Russia's rail network is experiencing a notable disruption. Up to 40 percent of oil destined for the country's refineries is being rejected for transport by <strong>Russian Railways (RZD)</strong>, according to oil companies. Meanwhile, <strong>RZD</strong> claims that refineries are not submitting the volumes they plan to transport.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Oil Companies' Complaints</strong></p>

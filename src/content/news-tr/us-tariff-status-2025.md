@@ -1,14 +1,22 @@
 ---
-title: "Trump Döneminde Tarifeler: 2025’te Uluslararası Ticarette Son Durum"
-subtitle: "Trump Döneminde Tarifeler: 2025’te Uluslararası Ticarette Son Durum"
-date: "2025-03-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_c049597494e04d61a5953984a28297b0~mv2.jpg"
-imageAlt: "ABD’nin 2025 boyunca uygulamaya aldığı ülkeye özel tarifeler, karşılıklı vergiler ve ticaret soruşturmaları, küresel tedarik zincirlerinde geniş çaplı dalgalanma yaratıyor. Trump yönetimi; Kanada, Meksika, Çin, AB, Japonya ve Güney Kore ile değişken tarife politikaları yürütürken, IEEPA kapsamında uygulanan tarifeler Yüksek Mahkeme incelemesinde bulunuyor."
-wixId: "9e627c51-01e0-4fca-8df3-85055bc06a0f"
-author: "Sedat Onat"
+title: 'Trump Döneminde Tarifeler: 2025’te Uluslararası Ticarette Son Durum'
+subtitle: 'Trump Döneminde Tarifeler: 2025’te Uluslararası Ticarette Son Durum'
+date: '2025-03-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_c049597494e04d61a5953984a28297b0~mv2.jpg
+imageAlt: ABD’nin 2025 boyunca uygulamaya aldığı ülkeye özel tarifeler, karşılıklı vergiler ve ticaret soruşturmaları, küresel tedarik zincirlerinde geniş çaplı dalgalanma yaratıyor. Trump yönetimi; Kanada, Meksika, Çin, AB, Japonya ve Güney Kore ile değişken tarife politikaları yürütürken, IEEPA kapsamında uygulanan tarifeler Yüksek Mahkeme incelemesinde bulunuyor.
+wixId: 9e627c51-01e0-4fca-8df3-85055bc06a0f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Trump tarifeleri
+- uluslararası ticaret
+- ABD ticaret politikası
+- Çin-ABD ticaret savaşı
+- gümrük vergileri
+- tedarik zinciri belirsizliği
+- karşılıklı tarife
 ---
 <p style="text-align: justify">2025 yılı, ABD’nin ticaret politikasında <strong>yoğun ve hızlı değişimlerin yaşandığı</strong> bir dönem oldu. Trump yönetimi, Başkan’ın göreve geri dönmesinden bu yana hem önceki dönemden miras kalan ticaret girişimlerini genişletti hem de yeni kapsamlı tarife programları uygulamaya aldı. Yönetim, <strong>farklı ülkelere yönelik tarifeleri ve ticaret incelemelerini eş zamanlı yürütüyor</strong>, bu da hem ABD şirketlerinde hem de küresel ticarette önemli belirsizlik yaratıyor.</p>
 <p><br></p>

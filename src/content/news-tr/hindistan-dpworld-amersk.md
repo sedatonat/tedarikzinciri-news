@@ -1,14 +1,23 @@
 ---
-title: "Hindistan, DP World ve Maersk’ten 7 Milyar Dolarlık Yeni Liman ve Lojistik Yatırımı Aldı"
-subtitle: "Hindistan, DP World ve Maersk’ten 7 Milyar Dolarlık Yeni Liman ve Lojistik Yatırımı Aldı"
-date: "2025-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_368399c0316444fca4761f815f3b8e12~mv2.jpg"
-imageAlt: "Hindistan, Dubai merkezli DP World ve Danimarkalı APM Terminals (Maersk Group)’ten toplam 7 milyar doların üzerinde yeni yatırım alarak küresel denizcilik ve lojistik gücü olma hedefinde önemli bir adım attı. Yatırımlar, liman kapasitesi, yeşil deniz taşımacılığı ve intermodal bağlantılar üzerine yoğunlaşıyor."
-wixId: "221ef8fe-13f7-4c59-8f83-65590f22b6e9"
-author: "Sedat Onat"
+title: Hindistan, DP World ve Maersk’ten 7 Milyar Dolarlık Yeni Liman ve Lojistik Yatırımı Aldı
+subtitle: Hindistan, DP World ve Maersk’ten 7 Milyar Dolarlık Yeni Liman ve Lojistik Yatırımı Aldı
+date: '2025-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_368399c0316444fca4761f815f3b8e12~mv2.jpg
+imageAlt: Hindistan, Dubai merkezli DP World ve Danimarkalı APM Terminals (Maersk Group)’ten toplam 7 milyar doların üzerinde yeni yatırım alarak küresel denizcilik ve lojistik gücü olma hedefinde önemli bir adım attı. Yatırımlar, liman kapasitesi, yeşil deniz taşımacılığı ve intermodal bağlantılar üzerine yoğunlaşıyor.
+wixId: 221ef8fe-13f7-4c59-8f83-65590f22b6e9
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Hindistan
+- DP World
+- Maersk
+- liman yatırımı
+- APM Terminals
+- çok modlu taşımacılık
+- yeşil taşımacılık
+- Pipavav
 ---
 <p style="text-align: justify"><strong>Hindistan</strong>, 2025 <strong>India Maritime Week</strong> kapsamında yapılan açıklamalarla, <strong>DP World</strong> ve <strong>A.P. Moller–Maersk Grubu’nun iştiraki APM Terminals</strong> tarafından toplamda <strong>7 milyar doları aşan yeni yatırım taahhütleri</strong> elde etti. Bu gelişme, ülkenin <strong>Maritime Amrit Kaal Vision 2047</strong> vizyonu doğrultusunda <strong>küresel bir denizcilik merkezi olma hedefinde</strong> önemli bir ivme kazandırıyor.</p>
 <p><br></p>

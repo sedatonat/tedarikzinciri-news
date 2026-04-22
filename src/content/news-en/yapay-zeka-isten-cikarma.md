@@ -1,16 +1,23 @@
 ---
-title: "U.S. Bipartisan Bill Would Require Companies to Report AI-Related Layoffs"
-subtitle: "U.S. Bipartisan Bill Would Require Companies to Report AI-Related Layoffs"
-date: "2025-11-18T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_abb5e22af9984214811bddcb831431b6~mv2.jpg"
-imageAlt: "The AI-Related Job Impacts Clarity Act, introduced by Senators Josh Hawley and Mark Warner, would require large employers and federal agencies to report AI-related layoffs to the U.S. Department of Labor. The legislation also mandates public reporting on AI's impact on the workforce."
-wixId: "74461019-9972-4ac8-a0f4-8155b74363c4"
-author: "Sedat Onat"
+title: U.S. Bipartisan Bill Would Require Companies to Report AI-Related Layoffs
+subtitle: U.S. Bipartisan Bill Would Require Companies to Report AI-Related Layoffs
+date: '2025-11-18T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_abb5e22af9984214811bddcb831431b6~mv2.jpg
+imageAlt: The AI-Related Job Impacts Clarity Act, introduced by Senators Josh Hawley and Mark Warner, would require large employers and federal agencies to report AI-related layoffs to the U.S. Department of Labor. The legislation also mandates public reporting on AI's impact on the workforce.
+wixId: 74461019-9972-4ac8-a0f4-8155b74363c4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- AI
+- layoffs
+- United States
+- workforce policy
+- transparency
+- automation
+- legal regulation
 ---
-
 <p style="text-align: justify">The United States has taken an important step forward in workforce policy. Republican Senator <strong>Josh Hawley (Missouri)</strong> and Democratic Senator <strong>Mark Warner (Virginia)</strong> introduced the <strong>AI-Related Job Impacts Clarity Act</strong>, a bipartisan bill, on November 5. The legislation aims to ensure that job losses resulting from artificial intelligence and automation are tracked and reported with greater transparency.</p>
 <p><br></p>
 <p style="text-align: justify">Under the proposed bill, <strong>large companies and federal agencies</strong> would be required to report all layoffs resulting from AI technologies to the <strong>U.S. Department of Labor (DOL)</strong>.</p>

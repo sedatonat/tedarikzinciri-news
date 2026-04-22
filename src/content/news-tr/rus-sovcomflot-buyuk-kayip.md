@@ -1,14 +1,22 @@
 ---
-title: "Rus Sovcomflot Yaptırımlar Nedeniyle Büyük Kayıp Yaşamakta"
-subtitle: "Rus Sovcomflot Yaptırımlar Nedeniyle Büyük Kayıp Yaşamakta"
-date: "2025-03-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ccfddd0a2fe74af387fadba3d2b44291~mv2.jpg"
-imageAlt: "Sovcomflot Yaptırımlar Nedeniyle Büyük Kayıp Yaşamakta"
-wixId: "eb5785da-827b-48a5-a88d-52b867fc166d"
-author: "Sedat Onat"
+title: Rus Sovcomflot Yaptırımlar Nedeniyle Büyük Kayıp Yaşamakta
+subtitle: Rus Sovcomflot Yaptırımlar Nedeniyle Büyük Kayıp Yaşamakta
+date: '2025-03-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_ccfddd0a2fe74af387fadba3d2b44291~mv2.jpg
+imageAlt: Sovcomflot Yaptırımlar Nedeniyle Büyük Kayıp Yaşamakta
+wixId: eb5785da-827b-48a5-a88d-52b867fc166d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Sovcomflot
+- Rusya
+- yaptırımlar
+- tanker
+- petrol taşımacılığı
+- deniz taşımacılığı
+- Ukrayna
 ---
 <p style="text-align: justify">Rusya'nın devlet destekli tanker şirketi <a href="https://en.wikipedia.org/wiki/Sovcomflot"><u><strong>Sovcomflot</strong></u></a>, 2024 yılında net kârında %55'lik bir düşüş yaşadı. Bu durum, Rus petrolüne uygulanan yaptırımların şirket üzerindeki olumsuz etkilerini gösterdi.</p>
 <p><br></p>

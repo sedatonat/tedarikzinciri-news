@@ -1,16 +1,24 @@
 ---
-title: "The Impact of Trump-Era Tariff Policies on the Economy and Supply Chain"
-subtitle: "The Impact of Trump-Era Tariff Policies on the Economy and Supply Chain"
-date: "2024-12-11T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_7c98b6b5c5804269948e5a2816eca309~mv2.jpg"
-imageAlt: "The Impact of Trump-Era Tariff Policies on the Economy and Supply Chain"
-wixId: "1a5c6afc-e4c7-4cbc-bf7a-c3676e8a225b"
-author: "Sedat Onat"
+title: The Impact of Trump-Era Tariff Policies on the Economy and Supply Chain
+subtitle: The Impact of Trump-Era Tariff Policies on the Economy and Supply Chain
+date: '2024-12-11T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_7c98b6b5c5804269948e5a2816eca309~mv2.jpg
+imageAlt: The Impact of Trump-Era Tariff Policies on the Economy and Supply Chain
+wixId: 1a5c6afc-e4c7-4cbc-bf7a-c3676e8a225b
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- tariff
+- supply chain
+- Trump
+- China
+- trade war
+- USA
+- supplier diversification
+- Vietnam
 ---
-
 <p>The tariff policies implemented during Donald Trump's presidency have become a major subject of debate regarding their impact on the U.S. economy and global supply chain dynamics. Introduced with the goal of correcting trade imbalances and bringing manufacturing activities back to the country, these additional taxes initially focused on products from China before expanding to a broad range of goods. These protectionist measures, while appearing beneficial in the short term, have created cost increases far beyond what many producers and consumers anticipated. Furthermore, rising prices in the U.S. domestic market have redirected some importers toward alternative sources, accelerating the shift to countries such as Vietnam and Mexico.</p>
 <p><br></p>
 <p>In certain sectors, tariff applications did not deliver a significant reduction in the U.S. trade deficit. Some economists point out that the share of supplier countries outside China has grown, suggesting that the tariff burden is directly reflected in the costs borne by importers and ultimately end consumers. Consequently, opinions are gaining ground that the additional taxes have created new cost factors in the global supply chain rather than boosting the competitive advantage of domestic producers. During this process, many companies have adopted supply chain diversification strategies to distribute risk. Rather than completely eliminating production sourced from China, firms are shifting operations to different geographies with lower labor costs.</p>

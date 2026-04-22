@@ -1,16 +1,23 @@
 ---
-title: "CMA CGM Postpones Implementation of Low Water Surcharge on Manaus Routes"
-subtitle: "CMA CGM Postpones Implementation of Low Water Surcharge on Manaus Routes"
-date: "2025-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_30afa68c8d584611864eb5199dd13213~mv2.jpg"
-imageAlt: "CMA CGM has postponed the implementation of the planned Low Water Surcharge (LWS) for shipments on its Far East–Manaus route to November 15, 2025, citing slower-than-expected decline in water levels on the Amazon River."
-wixId: "e51420ce-8bea-4aab-9740-f340dc955ac8"
-author: "Sedat Onat"
+title: CMA CGM Postpones Implementation of Low Water Surcharge on Manaus Routes
+subtitle: CMA CGM Postpones Implementation of Low Water Surcharge on Manaus Routes
+date: '2025-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_30afa68c8d584611864eb5199dd13213~mv2.jpg
+imageAlt: CMA CGM has postponed the implementation of the planned Low Water Surcharge (LWS) for shipments on its Far East–Manaus route to November 15, 2025, citing slower-than-expected decline in water levels on the Amazon River.
+wixId: e51420ce-8bea-4aab-9740-f340dc955ac8
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- CMA CGM
+- Amazon River
+- Manaus
+- low water level
+- surcharge
+- container shipping
+- Brazil
 ---
-
 <p style="text-align: justify"><strong>CMA CGM</strong> announced its decision to postpone the implementation of the <strong>Low Water Surcharge (LWS)</strong> that was planned for <strong>shipments between the Far East and Manaus Port in Brazil</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The decision was made as a result of <strong>the Amazon River's water level declining more slowly than expected</strong>. According to the company's current assessments, navigability in the river has not yet reached a level that would create a serious operational constraint.</p>

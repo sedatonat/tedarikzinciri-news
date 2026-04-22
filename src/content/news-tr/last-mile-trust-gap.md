@@ -1,14 +1,23 @@
 ---
-title: "Son Mil Teslimatında Güven Açığını Kapatmak: Teknolojinin Köprüsü"
-subtitle: "Son Mil Teslimatında Güven Açığını Kapatmak: Teknolojinin Köprüsü"
-date: "2025-09-09T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_daa0aaf20fb5419a874bfcebec83464f~mv2.png"
-imageAlt: "Son Mil Teslimatında Güven Açığını Kapatmak: Teknolojinin Köprüsü"
-wixId: "1f322858-0814-4a0c-a3f4-06b2f6176071"
-author: "Sedat Onat"
+title: 'Son Mil Teslimatında Güven Açığını Kapatmak: Teknolojinin Köprüsü'
+subtitle: 'Son Mil Teslimatında Güven Açığını Kapatmak: Teknolojinin Köprüsü'
+date: '2025-09-09T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_daa0aaf20fb5419a874bfcebec83464f~mv2.png
+imageAlt: 'Son Mil Teslimatında Güven Açığını Kapatmak: Teknolojinin Köprüsü'
+wixId: 1f322858-0814-4a0c-a3f4-06b2f6176071
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- son mil teslimat
+- müşteri deneyimi
+- yapay zeka
+- IoT
+- blockchain
+- e-POD
+- akıllı kasa
+- dijital kimlik
 ---
 <p>Son mil teslimatları, müşteri memnuniyetinde belirleyici olmakla birlikte güven sorunlarına en açık aşamayı temsil etmekte. Teslimat sürecindeki görünürlük eksikliği ve yanlış bilgilendirme, hem marka itibarını hem müşteri sadakatini zedelemektedir. AI, IoT ve dijital kimlik teknolojileri, bu güven açığını kapatmada temel rol oynamakta.</p>
 <p><br></p>

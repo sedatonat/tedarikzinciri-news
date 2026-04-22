@@ -1,14 +1,22 @@
 ---
-title: "SourceDay, Proaktif Tedarik Zinciri Risk Yönetimi İçin Yeni Platformunu Tanıttı"
-subtitle: "SourceDay, Proaktif Tedarik Zinciri Risk Yönetimi İçin Yeni Platformunu Tanıttı"
-date: "2024-11-04T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_6d2b7cb1f05e4a5da58acda1f91bc856~mv2.png"
-imageAlt: "SourceDay, Proaktif Tedarik Zinciri Risk Yönetimi İçin Yeni Platformunu Tanıttı"
-wixId: "b11edd25-78e7-4df6-9f74-34e8326a2486"
-author: "Sedat Onat"
+title: SourceDay, Proaktif Tedarik Zinciri Risk Yönetimi İçin Yeni Platformunu Tanıttı
+subtitle: SourceDay, Proaktif Tedarik Zinciri Risk Yönetimi İçin Yeni Platformunu Tanıttı
+date: '2024-11-04T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_6d2b7cb1f05e4a5da58acda1f91bc856~mv2.png
+imageAlt: SourceDay, Proaktif Tedarik Zinciri Risk Yönetimi İçin Yeni Platformunu Tanıttı
+wixId: b11edd25-78e7-4df6-9f74-34e8326a2486
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- SourceDay
+- yapay zeka
+- makine öğrenimi
+- risk yönetimi
+- tedarik zinciri
+- satın alma siparişi
+- tedarikçi yönetimi
 ---
 <p>Direct materials procurement platformu olan SourceDay, yeni platformu SourceDay Intelligence'ı tanıttı. Bu yeni platform, SourceDay’in patent başvurusu yapılan yapay zeka ve makine öğrenimi yazılımını kullanarak, reaktif tedarik riski hafifletmeyi proaktif risk yönetimine dönüştürüyor ve sevkiyat öncesinde meydana gelen %70’e varan iç tedarik sorunlarını önlemeyi hedefliyor.</p>
 <p><br></p>

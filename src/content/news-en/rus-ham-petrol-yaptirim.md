@@ -1,16 +1,24 @@
 ---
-title: "New Sanctions on Russian Oil"
-subtitle: "New Sanctions on Russian Oil"
-date: "2025-10-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f8814f43deb840ba8031e523cf40d4e1~mv2.jpg"
-imageAlt: "New Sanctions on Russian Oil"
-wixId: "c39a5334-36b4-4b26-9a1f-6d871e5f8d7c"
-author: "Sedat Onat"
+title: New Sanctions on Russian Oil
+subtitle: New Sanctions on Russian Oil
+date: '2025-10-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f8814f43deb840ba8031e523cf40d4e1~mv2.jpg
+imageAlt: New Sanctions on Russian Oil
+wixId: c39a5334-36b4-4b26-9a1f-6d871e5f8d7c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Russian oil
+- sanctions
+- Rosneft
+- Lukoil
+- tanker shipping
+- India
+- energy flow
+- shadow fleet
 ---
-
 <p style="text-align: justify"><strong>US President Donald Trump</strong> announced "<strong>the most comprehensive energy sanctions in history</strong>" targeting Russia's two energy giants <strong>Rosneft</strong> and <strong>Lukoil</strong>.</p>
 <p><br>
 Trump characterized these measures—aimed at <strong>forcing Moscow to the negotiating table over the Ukraine war</strong>—as "<strong>tremendous sanctions</strong>."</p>

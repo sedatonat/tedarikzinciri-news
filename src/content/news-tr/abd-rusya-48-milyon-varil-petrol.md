@@ -1,14 +1,23 @@
 ---
-title: "ABD Yaptırımları Rus Petrolünü Denizde Sıkıştırıyor: 48 Milyon Varil Alıcı Bekliyor"
-subtitle: "ABD Yaptırımları Rus Petrolünü Denizde Sıkıştırıyor: 48 Milyon Varil Alıcı Bekliyor"
-date: "2025-11-21T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_6415e0f014774faa8009ee3b7be8be1a~mv2.jpg"
-imageAlt: "ABD’nin Rosneft ve Lukoil’e yönelik yaptırımları yürürlüğe girince yaklaşık 48 milyon varil Rus ham petrolü denizde sıkıştı; onlarca tanker yön değiştirerek alternatif liman arıyor."
-wixId: "8b504025-1b4c-4070-8bf5-9a33fedc5da8"
-author: "Sedat Onat"
+title: 'ABD Yaptırımları Rus Petrolünü Denizde Sıkıştırıyor: 48 Milyon Varil Alıcı Bekliyor'
+subtitle: 'ABD Yaptırımları Rus Petrolünü Denizde Sıkıştırıyor: 48 Milyon Varil Alıcı Bekliyor'
+date: '2025-11-21T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_6415e0f014774faa8009ee3b7be8be1a~mv2.jpg
+imageAlt: ABD’nin Rosneft ve Lukoil’e yönelik yaptırımları yürürlüğe girince yaklaşık 48 milyon varil Rus ham petrolü denizde sıkıştı; onlarca tanker yön değiştirerek alternatif liman arıyor.
+wixId: 8b504025-1b4c-4070-8bf5-9a33fedc5da8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD yaptırımları
+- Rus petrolü
+- tanker trafiği
+- Rosneft
+- Lukoil
+- Hindistan
+- Çin
+- deniz taşımacılığı
 ---
 <p style="text-align: justify">ABD’nin Rosneft PJSC ve Lukoil PJSC’yi kara listeye almasının ardından yürürlüğe giren yeni yaptırımlar, küresel petrol ticaretinde büyük bir dalgalanmaya neden oldu. Bloomberg’in analizine göre yaklaşık <strong>48 milyon varil Rus ham petrolü</strong>, alıcı bulamadığı için <strong>deniz üzerinde “sıkışmış” durumda</strong>. Bu durum, küresel taşımacılık zincirinde yeni rota değişikliklerine, ilave maliyetlere ve tanker trafiğinde düzensizliğe yol açıyor.</p>
 <p><br></p>

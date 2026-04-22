@@ -1,14 +1,22 @@
 ---
-title: "Konteyner Hatlarının Büyüyen Gemilere Olan Bitmeyen İlgisi"
-subtitle: "Konteyner Hatlarının Büyüyen Gemilere Olan Bitmeyen İlgisi"
-date: "2024-03-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_aaf3570a7751410ba7fedc2a4b473cd2~mv2.jpg"
-imageAlt: "Konteyner Hatlarının Büyüyen Gemilere Olan Bitmeyen İlgisi"
-wixId: "57bc7b03-37cf-4dae-a746-7be9103fa764"
-author: "Sedat Onat"
+title: Konteyner Hatlarının Büyüyen Gemilere Olan Bitmeyen İlgisi
+subtitle: Konteyner Hatlarının Büyüyen Gemilere Olan Bitmeyen İlgisi
+date: '2024-03-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_aaf3570a7751410ba7fedc2a4b473cd2~mv2.jpg
+imageAlt: Konteyner Hatlarının Büyüyen Gemilere Olan Bitmeyen İlgisi
+wixId: 57bc7b03-37cf-4dae-a746-7be9103fa764
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- konteyner gemisi
+- gemi siparişi
+- kapasite fazlalığı
+- navlun oranları
+- Kızıldeniz
+- TEU
+- Alphaliner
 ---
 <p>Dünyanın önde gelen konteyner hatları, ciddi bir kapasite fazlalığı ve sonuç olarak navlun oranlarında düşüş tehdidine rağmen, büyük yeni gemilere olan ilgisini kaybetmiyor. <a href="https://public.alphaliner.com/"><u>Alphaliner</u></a>'ın kıdemli analisti <a href="https://www.linkedin.com/in/jan-tiedemann-hamburg/"><u>Jan Tiedemann</u></a>'a göre, sipariş edilen konteyner gemilerinin sayısı, mevcut küresel filonun kapasitesinin yaklaşık dörtte birine denk gelen yaklaşık 7 milyon 20 foot eşdeğer birim (TEU) oluşturuyor.&nbsp;</p>
 <p><br></p>

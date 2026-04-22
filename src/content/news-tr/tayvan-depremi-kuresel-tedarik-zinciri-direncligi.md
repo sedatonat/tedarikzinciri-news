@@ -1,14 +1,21 @@
 ---
-title: "Tayvan Depremi, Küresel Tedarik Zincirlerinin Dirençliliğini Ön Plana Çıkarıyor"
-subtitle: "Tayvan Depremi, Küresel Tedarik Zincirlerinin Dirençliliğini Ön Plana Çıkarıyor"
-date: "2024-04-03T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_eb188d5ed5df41f3baca0e102d8d42a1~mv2.jpg"
-imageAlt: "Tayvan Depremi, Küresel Tedarik Zincirlerinin Dirençliliğini Ön Plana Çıkarıyor"
-wixId: "aa7b7be1-5f06-491e-8ba7-e0a31fffc816"
-author: "Sedat Onat"
+title: Tayvan Depremi, Küresel Tedarik Zincirlerinin Dirençliliğini Ön Plana Çıkarıyor
+subtitle: Tayvan Depremi, Küresel Tedarik Zincirlerinin Dirençliliğini Ön Plana Çıkarıyor
+date: '2024-04-03T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_eb188d5ed5df41f3baca0e102d8d42a1~mv2.jpg
+imageAlt: Tayvan Depremi, Küresel Tedarik Zincirlerinin Dirençliliğini Ön Plana Çıkarıyor
+wixId: aa7b7be1-5f06-491e-8ba7-e0a31fffc816
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Tayvan depremi
+- tedarik zinciri dirençliliği
+- yarı iletken
+- TSMC
+- risk yönetimi
+- yüksek teknoloji
 ---
 <h3>Özet</h3>
 <p>3 Nisan 2024'te Tayvan'ı sarsan 7.4 büyüklüğündeki deprem, küresel yüksek teknoloji ve yarı iletken tedarik zincirlerine etkileri açısından ciddi endişeler uyandırdı. <a href="https://www.resilinc.com/"><u>Resilinc </u></a>verilerine göre, 13.000'den fazla site, 21.000 ürün ve 58.000 parça etkilenebilir. Bu durum, küresel tedarik zincirlerinin ne kadar birbirine bağlı ve risklere maruz kaldığının önemli bir göstergesidir. Etkin, proaktif, öngörücü tedarik zinciri yeteneklerinin, bu tür yıkıcı olaylara daha iyi tepki vermek için hayati öneme sahip olduğu vurgulanmaktadır.</p>

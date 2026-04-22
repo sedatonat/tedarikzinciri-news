@@ -1,16 +1,23 @@
 ---
-title: "PortXchange Releases New Report on Port Emissions"
-subtitle: "PortXchange Releases New Report on Port Emissions"
-date: "2024-09-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d71fa04704ce434cba304ce7ecc6cfd0~mv2.jpg"
-imageAlt: "PortXchange Releases New Report on Port Emissions"
-wixId: "e09eb647-0d2f-4c0f-9943-1c6dbb7ec0a0"
-author: "Sedat Onat"
+title: PortXchange Releases New Report on Port Emissions
+subtitle: PortXchange Releases New Report on Port Emissions
+date: '2024-09-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d71fa04704ce434cba304ce7ecc6cfd0~mv2.jpg
+imageAlt: PortXchange Releases New Report on Port Emissions
+wixId: e09eb647-0d2f-4c0f-9943-1c6dbb7ec0a0
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- PortXchange
+- port emissions
+- sustainability
+- decarbonization
+- environmental reporting
+- greenhouse gas
+- port technology
 ---
-
 <p>PortXchange has announced the release of its new "Port Emissions Report." The report provides a comprehensive assessment of emissions arising from various modes of transport, including vessels, harbour tugs, cargo handling equipment, trains, and trucks. By monitoring vessel movements, vessel types, and associated CO2, CO, CH4, SO2, NOx, N2O, PM10, and CO2 equivalent greenhouse gas emissions, it enables ports to identify critical areas for improvement.</p>
 <p><br></p>
 <p>The report helps ports comply with local and international environmental requirements, protecting them from potential penalties such as administrative sanctions, financial fines, or public criticism. By providing actionable data, it contributes to ports' ability to enhance their sustainability initiatives and achieve decarbonization targets.</p>

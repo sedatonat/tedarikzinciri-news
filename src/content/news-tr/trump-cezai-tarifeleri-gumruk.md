@@ -1,14 +1,23 @@
 ---
-title: "Trump'ın Kanada ve Meksika'ya Uyguladığı Cezai Tarifeler Yürürlüğe Girdi"
-subtitle: "Trump'ın Kanada ve Meksika'ya Uyguladığı Cezai Tarifeler Yürürlüğe Girdi"
-date: "2025-03-04T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_35a9357dcb7a44f88bb90ab710d700e1~mv2.jpg"
-imageAlt: "Trump'ın Kanada ve Meksika'ya Uyguladığı Cezai Tarifeler Yürürlüğe Girdi"
-wixId: "eec2b8dd-05a5-44fb-81c9-9c8aafcefc14"
-author: "Sedat Onat"
+title: Trump'ın Kanada ve Meksika'ya Uyguladığı Cezai Tarifeler Yürürlüğe Girdi
+subtitle: Trump'ın Kanada ve Meksika'ya Uyguladığı Cezai Tarifeler Yürürlüğe Girdi
+date: '2025-03-04T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_35a9357dcb7a44f88bb90ab710d700e1~mv2.jpg
+imageAlt: Trump'ın Kanada ve Meksika'ya Uyguladığı Cezai Tarifeler Yürürlüğe Girdi
+wixId: eec2b8dd-05a5-44fb-81c9-9c8aafcefc14
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Trump
+- cezai tarifeler
+- Kanada
+- Meksika
+- ticaret savaşı
+- çelik alüminyum
+- misilleme
+- küresel ticaret
 ---
 <p style="text-align: justify">ABD Başkanı <strong>Donald Trump</strong>, Kanada ve Meksika'dan ithal edilen ürünlere yönelik %25 oranındaki cezai tarifeleri 4 Mart'ta yürürlüğe koydu. Bu karar, Trump'ın daha önce iki ülkeyle yaptığı ticaret görüşmelerinde uzlaşma sağlanamaması nedeniyle alındı.​</p>
 <p><br></p>

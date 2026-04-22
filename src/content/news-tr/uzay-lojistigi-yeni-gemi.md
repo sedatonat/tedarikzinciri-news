@@ -1,14 +1,23 @@
 ---
-title: "Uzay Lojistiği İçin Yeni Gemi Projesi Project Cargo Pazarını Hedefliyor"
-subtitle: "Uzay Lojistiği İçin Yeni Gemi Projesi Project Cargo Pazarını Hedefliyor"
-date: "2025-12-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_473ac77eda874139aa877856fa213a7a~mv2.jpg"
-imageAlt: "Compagnie Maritime Nantaise, büyüyen uzay lojistiği ve project cargo pazarına hizmet etmek üzere, yüksek hassasiyetli ve özel tasarıma sahip yeni bir gemi inşa etmeyi planlıyor."
-wixId: "0078607a-cced-49ea-946f-63d06c8225b8"
-author: "Sedat Onat"
+title: Uzay Lojistiği İçin Yeni Gemi Projesi Project Cargo Pazarını Hedefliyor
+subtitle: Uzay Lojistiği İçin Yeni Gemi Projesi Project Cargo Pazarını Hedefliyor
+date: '2025-12-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_473ac77eda874139aa877856fa213a7a~mv2.jpg
+imageAlt: Compagnie Maritime Nantaise, büyüyen uzay lojistiği ve project cargo pazarına hizmet etmek üzere, yüksek hassasiyetli ve özel tasarıma sahip yeni bir gemi inşa etmeyi planlıyor.
+wixId: 0078607a-cced-49ea-946f-63d06c8225b8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- uzay lojistiği
+- project cargo
+- Compagnie Maritime Nantaise
+- ESA
+- Arianespace
+- breakbulk taşımacılığı
+- özel gemi tasarımı
+- uydu taşımacılığı
 ---
 <p style="text-align: justify">Küresel ölçekte hız kazanan <strong>uzay endüstrisi</strong>, yalnızca fırlatma teknolojileri ve uydu sistemleriyle değil, bu karmaşık ekipmanların güvenli şekilde taşınmasını sağlayan <strong>lojistik altyapılarla</strong> da dikkat çekmekte. Bu gelişmeler doğrultusunda <strong>Compagnie Maritime Nantaise (MN)</strong>, özellikle <strong>uzay lojistiği project cargo</strong> segmentine odaklanan yeni bir gemi inşa projesi üzerinde çalışmakta. Şirket, bu yeni nesil gemiyi, hassas ve yüksek değerli uzay ekipmanlarının taşınmasına özel olarak tasarlamayı hedeflemekte.</p>
 <p><br></p>

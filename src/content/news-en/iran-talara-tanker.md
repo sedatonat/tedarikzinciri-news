@@ -1,16 +1,23 @@
 ---
-title: "Iranian Forces Divert Talara Tanker to Iranian Waters"
-subtitle: "Iranian Forces Divert Talara Tanker to Iranian Waters"
-date: "2025-11-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/nsplsh_64001c153d654cbc823819de103690da~mv2.jpg"
-imageAlt: "The Marshall Islands-flagged Talara tanker sharply changed course toward Iran's Cask terminal after three small vessels approached it off Khor Fakkan; the incident is assessed to be an intervention by the IRGC Navy."
-wixId: "dff403a3-d266-4ef3-a3b8-ec2135fc8fa1"
-author: "Sedat Onat"
+title: Iranian Forces Divert Talara Tanker to Iranian Waters
+subtitle: Iranian Forces Divert Talara Tanker to Iranian Waters
+date: '2025-11-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/nsplsh_64001c153d654cbc823819de103690da~mv2.jpg
+imageAlt: The Marshall Islands-flagged Talara tanker sharply changed course toward Iran's Cask terminal after three small vessels approached it off Khor Fakkan; the incident is assessed to be an intervention by the IRGC Navy.
+wixId: dff403a3-d266-4ef3-a3b8-ec2135fc8fa1
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- tanker
+- Iran
+- Gulf of Oman
+- maritime security
+- IRGC
+- ship seizure
+- Marshall Islands
 ---
-
 <p style="text-align: justify">The <strong>Talara</strong>, a Marshall Islands-flagged tanker, <strong>had its course altered by Iranian forces</strong> while transiting through the Gulf of Oman. The tanker was carrying <strong>high-sulfur fuel oil from the United Arab Emirates to Singapore</strong>. The incident has been corroborated by maritime security firms, the <strong>UK Maritime Trade Operations (UKMTO)</strong> unit, and the vessel's technical manager.</p>
 <p><br></p>
 <p style="text-align: justify">The vessel's course abruptly changed <strong>20–22 nautical miles east of Khor Fakkan</strong>. Vessel tracking data showed the Talara heading toward Iran's Cask terminal and the AIS signal cutting out in that area <strong>following the sudden course change</strong>.</p>

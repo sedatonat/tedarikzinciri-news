@@ -1,16 +1,24 @@
 ---
-title: "Global Trade Slows as Companies Pause Orders"
-subtitle: "Global Trade Slows as Companies Pause Orders"
-date: "2025-04-10T00:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d218058b113241d19787d1c840dceea1~mv2.png"
-imageAlt: "Global Trade Slows as Companies Pause Orders"
-wixId: "c5b242ed-05ad-45d5-b840-a39a6deebcb8"
-author: "Sedat Onat"
+title: Global Trade Slows as Companies Pause Orders
+subtitle: Global Trade Slows as Companies Pause Orders
+date: '2025-04-10T00:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_d218058b113241d19787d1c840dceea1~mv2.png
+imageAlt: Global Trade Slows as Companies Pause Orders
+wixId: c5b242ed-05ad-45d5-b840-a39a6deebcb8
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- global trade
+- supply chain
+- customs tariffs
+- nearshoring
+- order management
+- scenario planning
+- control tower
+- political uncertainty
 ---
-
 <p style="text-align: justify"><strong>Global trade</strong> is losing momentum due to rising <strong>political uncertainty</strong>, <strong>tariff risks</strong>, and potential <strong>export restrictions</strong>. Companies, particularly in long-lead <strong>capital goods</strong> and <strong>intermediate goods orders</strong>, are adopting an increasingly cautious stance, deferring new orders through a <strong>"wait-and-see"</strong> approach. This is causing fluctuations in global production planning, shift management, and capacity utilization.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">On the policy front, <strong>tariffs</strong>, <strong>export controls</strong>, and potential <strong>sanctions</strong> expansions are complicating decision-making processes. Company investment, purchasing, and inventory policies are increasingly grounded in <strong>evidence and scenario analysis</strong> under this uncertainty. In particular, trade flows along the Asia–U.S. and Europe–China axes are being rapidly affected by policy signals.</p>

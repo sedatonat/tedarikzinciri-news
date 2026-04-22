@@ -1,16 +1,23 @@
 ---
-title: "National Grid Secures Share of $76.4 Billion High Voltage Supply Chain Framework"
-subtitle: "National Grid Secures Share of $76.4 Billion High Voltage Supply Chain Framework"
-date: "2025-03-13T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_84db95f0eaf34cdea37b9a653818806e~mv2.jpg"
-imageAlt: "National Grid Secures Share of $76.4 Billion High Voltage Supply Chain Framework"
-wixId: "a968dccb-5e14-41d0-b020-d6ef9276c19f"
-author: "Sedat Onat"
+title: National Grid Secures Share of $76.4 Billion High Voltage Supply Chain Framework
+subtitle: National Grid Secures Share of $76.4 Billion High Voltage Supply Chain Framework
+date: '2025-03-13T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_84db95f0eaf34cdea37b9a653818806e~mv2.jpg
+imageAlt: National Grid Secures Share of $76.4 Billion High Voltage Supply Chain Framework
+wixId: a968dccb-5e14-41d0-b020-d6ef9276c19f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- National Grid
+- HVDC
+- energy infrastructure
+- supply chain
+- renewable energy
+- United Kingdom
+- high voltage
 ---
-
 <p style="text-align: justify"><strong>Reuters</strong> reports that <strong>the United Kingdom's energy infrastructure giant National Grid</strong> has won two sections of a <strong>£59 billion (approximately $76.4 billion) supply chain framework</strong> aimed at strengthening the country's <strong>high voltage direct current (HVDC)</strong> infrastructure.</p>
 <p><br>
 This framework programme is regarded as one of the UK's most significant strategic initiatives toward <strong>achieving energy transformation goals and long-term electricity transmission infrastructure investments</strong>.</p>

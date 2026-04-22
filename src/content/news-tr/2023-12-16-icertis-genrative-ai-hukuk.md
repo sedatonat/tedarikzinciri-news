@@ -1,14 +1,22 @@
 ---
-title: "Yapay Zeka 'nın bir sonraki safhası olan Yaratıcı Yapay Zeka hukuk süreçlerinde de potansiyelini gösteriyor"
-subtitle: "Yapay Zeka 'nın bir sonraki safhası olan Yaratıcı Yapay Zeka hukuk süreçlerinde de potansiyelini gösteriyor"
-date: "2023-12-16T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_15ac2a206054473986d5d0b6e4a0c630~mv2.jpg"
-imageAlt: "Yapay Zeka 'nın bir sonraki safhası olan Yaratıcı Yapay Zeka hukuk süreçlerinde de potansiyelini gösteriyor"
-wixId: "79a2419a-c666-44f7-be07-e66db49b8527"
-author: "Sedat Onat"
+title: Yapay Zeka 'nın bir sonraki safhası olan Yaratıcı Yapay Zeka hukuk süreçlerinde de potansiyelini gösteriyor
+subtitle: Yapay Zeka 'nın bir sonraki safhası olan Yaratıcı Yapay Zeka hukuk süreçlerinde de potansiyelini gösteriyor
+date: '2023-12-16T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_15ac2a206054473986d5d0b6e4a0c630~mv2.jpg
+imageAlt: Yapay Zeka 'nın bir sonraki safhası olan Yaratıcı Yapay Zeka hukuk süreçlerinde de potansiyelini gösteriyor
+wixId: 79a2419a-c666-44f7-be07-e66db49b8527
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- yaratıcı yapay zeka
+- Gen AI
+- sözleşme yönetimi
+- hukuk süreçleri
+- Icertis
+- uyumluluk
+- dijital dönüşüm
 ---
 <p><a href="https://www.icertis.com/"><u>Icertis </u></a>tarafından yapılan bir araştırmaya göre, 2026 yılına kadar hukuk ekiplerinin %85'inin uyumlulukta daha fazla verimlilik için <a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence"><u>Generative AI (Gen AI) / Yaratıcı Yapay Zeka'yı</u></a> kullanacağı öngörülüyor. Gen AI, metin, görüntü, ses, video ve sentetik veri üretebilme yeteneğine sahip bir AI teknolojisidir.&nbsp;</p>
 <ul>

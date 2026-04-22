@@ -1,14 +1,22 @@
 ---
-title: "Yeni Trump Yönetiminde Dikkat Edilmesi Gereken 4 Üretim Sorunu"
-subtitle: "Yeni Trump Yönetiminde Dikkat Edilmesi Gereken 4 Üretim Sorunu"
-date: "2024-11-12T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_15b96612048940c69910daabb2146803~mv2.png"
-imageAlt: "Yeni Trump Yönetiminde Dikkat Edilmesi Gereken 4 Üretim Sorunu"
-wixId: "a8ab6a4f-ad16-40ab-975b-2501688e1673"
-author: "Sedat Onat"
+title: Yeni Trump Yönetiminde Dikkat Edilmesi Gereken 4 Üretim Sorunu
+subtitle: Yeni Trump Yönetiminde Dikkat Edilmesi Gereken 4 Üretim Sorunu
+date: '2024-11-12T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_15b96612048940c69910daabb2146803~mv2.png
+imageAlt: Yeni Trump Yönetiminde Dikkat Edilmesi Gereken 4 Üretim Sorunu
+wixId: a8ab6a4f-ad16-40ab-975b-2501688e1673
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Trump yönetimi
+- tarifeler
+- üretim sektörü
+- vergi indirimleri
+- ABD
+- reshoring
+- temiz enerji
 ---
 <p>Yeni seçilen Başkan Donald Trump’ın gündemi, ABD üretim sektörü üzerinde önemli etkiler yaratabilir. Trump’ın yeniden seçilmesiyle birlikte, sektör liderleri olası değişikliklere hazırlık yaparken, artırılmış tarifeler, vergi indirimleri ve temiz enerji sübvansiyonlarında kesintiler gibi politikaların ön plana çıkması bekleniyor. İşte uzmanların öne sürdüğü, yeni yönetimin en çok etkileyecek dört üretim konusu:</p>
 <p><br></p>

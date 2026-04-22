@@ -1,16 +1,24 @@
 ---
-title: "GM and LG: Low-Cost EV Battery Production in Tennessee"
-subtitle: "GM and LG: Low-Cost EV Battery Production in Tennessee"
-date: "2025-07-15T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_8dca8ef1f666420ea966bf553dbdcd4b~mv2.png"
-imageAlt: "GM and LG: Low-Cost EV Battery Production in Tennessee"
-wixId: "52644157-fba7-48a4-91fe-5e59dfe3518f"
-author: "Sedat Onat"
+title: 'GM and LG: Low-Cost EV Battery Production in Tennessee'
+subtitle: 'GM and LG: Low-Cost EV Battery Production in Tennessee'
+date: '2025-07-15T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_8dca8ef1f666420ea966bf553dbdcd4b~mv2.png
+imageAlt: 'GM and LG: Low-Cost EV Battery Production in Tennessee'
+wixId: 52644157-fba7-48a4-91fe-5e59dfe3518f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- EV battery production
+- GM
+- LG Energy Solution
+- Tennessee
+- process automation
+- supply chain localization
+- recycling
+- predictive maintenance
 ---
-
 <p style="text-align: justify"><strong>General Motors (GM)</strong> and <strong>LG Energy Solution</strong> are equipping their joint battery facility in Tennessee with the objective of <strong>low-cost EV battery production</strong>. The project's primary focus is reducing the <strong>cost-per-kWh (cost per kilowatt-hour)</strong> metric, which aims to accelerate electric vehicle (EV) adoption through both economies of scale and process optimization.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">On the production side, <strong>process automation</strong>, <strong>yield improvement</strong>, and <strong>scrap reduction</strong> are key priorities. Automated production lines reduce human intervention while enhancing quality consistency; minimizing yield losses further drives down per-unit manufacturing costs.</p>

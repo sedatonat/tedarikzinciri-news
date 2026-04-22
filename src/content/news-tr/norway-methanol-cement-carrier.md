@@ -1,14 +1,23 @@
 ---
-title: "Hartmann ve Heidelberg Materials, Norveç İçin Metanol Yakıtlı Çimento Gemisi Siparişi Verdi"
-subtitle: "Hartmann ve Heidelberg Materials, Norveç İçin Metanol Yakıtlı Çimento Gemisi Siparişi Verdi"
-date: "2025-12-12T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_f12ed24f5d5341ad8442300d68d83cb2~mv2.jpg"
-imageAlt: "Hartmann Group ve Heidelberg Materials Northern Europe’un Norveç kıyı taşımacılığı için devreye alacağı metanol yakıtlı çimento taşıyıcısının operasyonel modeli, emisyon azaltım hedefleri ve yeşil denizcilik stratejisine etkilerinin detaylı özeti"
-wixId: "3efb2e3b-009b-49ae-8c84-5d28f51d4dc2"
-author: "Sedat Onat"
+title: Hartmann ve Heidelberg Materials, Norveç İçin Metanol Yakıtlı Çimento Gemisi Siparişi Verdi
+subtitle: Hartmann ve Heidelberg Materials, Norveç İçin Metanol Yakıtlı Çimento Gemisi Siparişi Verdi
+date: '2025-12-12T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_f12ed24f5d5341ad8442300d68d83cb2~mv2.jpg
+imageAlt: Hartmann Group ve Heidelberg Materials Northern Europe’un Norveç kıyı taşımacılığı için devreye alacağı metanol yakıtlı çimento taşıyıcısının operasyonel modeli, emisyon azaltım hedefleri ve yeşil denizcilik stratejisine etkilerinin detaylı özeti
+wixId: 3efb2e3b-009b-49ae-8c84-5d28f51d4dc2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- metanol yakıtlı gemi
+- çimento taşıyıcısı
+- Hartmann Group
+- Heidelberg Materials
+- yeşil denizcilik
+- Norveç
+- emisyon azaltımı
+- alternatif yakıt
 ---
 <p style="text-align: justify">Almanya merkezli <strong>Hartmann Group</strong> ile <strong>Heidelberg Materials Northern Europe</strong>, Norveç kıyı taşımacılığı kapsamında <strong>metanol yakıtlı yeni bir çimento taşıyıcısı</strong>nı devreye alma kararı almakta. Şirket açıklamasına göre proje, Norveç iç hat deniz taşımacılığında <strong>fosil yakıtlardan uzaklaşmayı</strong> ve karbon ayak izini önemli ölçüde azaltmayı hedeflemekte. Yeni gemi, Norveç’in sıkı çevresel regülasyonları ve yeşil denizcilik politikalarıyla uyumlu şekilde tasarlanmakta.</p>
 <p><br></p>

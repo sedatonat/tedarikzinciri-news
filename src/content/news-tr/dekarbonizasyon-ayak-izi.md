@@ -1,14 +1,22 @@
 ---
-title: "Tedarik Zinciri Dekarbonizasyonu İçin Üç Adım"
-subtitle: "Tedarik Zinciri Dekarbonizasyonu İçin Üç Adım"
-date: "2025-05-05T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_47f8ca0f88304ecab823a41785b16558~mv2.png"
-imageAlt: "Tedarik Zinciri Dekarbonizasyonu İçin Üç Adım"
-wixId: "8bc70e70-a9f9-48a5-971b-539a1604d7d1"
-author: "Sedat Onat"
+title: Tedarik Zinciri Dekarbonizasyonu İçin Üç Adım
+subtitle: Tedarik Zinciri Dekarbonizasyonu İçin Üç Adım
+date: '2025-05-05T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_47f8ca0f88304ecab823a41785b16558~mv2.png
+imageAlt: Tedarik Zinciri Dekarbonizasyonu İçin Üç Adım
+wixId: 8bc70e70-a9f9-48a5-971b-539a1604d7d1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- dekarbonizasyon
+- Scope 3 emisyonlar
+- tedarik zinciri
+- tedarikçi katılımı
+- SBTi
+- karbon ayak izi
+- sürdürülebilirlik
 ---
 <p style="text-align: justify"><strong>Tedarik zincirinde dekarbonizasyon</strong>, artık yalnız doğrudan (Scope 1–2) değil, <strong>dolaylı emisyonların (Scope 3)</strong> yönetimini de kapsayan, yapılandırılmış bir <strong>yol haritası</strong> gerektirmektedir. İşletmeler için bu süreç; veri konsolidasyonu, azaltım portföyü oluşturma ve kurumsal yönetişim adımlarını içeren bütünsel bir dönüşüm programına dönüşmektedir.</p>
 <p style="text-align: justify"><br></p>

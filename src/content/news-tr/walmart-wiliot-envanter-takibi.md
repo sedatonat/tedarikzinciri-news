@@ -1,14 +1,22 @@
 ---
-title: "Walmart, Envanter Takibini ve AI Yeteneklerini Geliştirmek İçin Wiliot Sensörlerini Yaygınlaştırıyor"
-subtitle: "Walmart, Envanter Takibini ve AI Yeteneklerini Geliştirmek İçin Wiliot Sensörlerini Yaygınlaştırıyor"
-date: "2025-11-04T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_ea15aedd19bc42a6978a738e9665aaa2~mv2.jpg"
-imageAlt: "Walmart, Wiliot ambient IoT sensörleri ile palet bazlı stok takibini otomatikleştirerek gerçek zamanlı envanter doğruluğu, soğuk zincir uyumu ve AI destekli karar alma süreçlerini güçlendiriyor. 2026’da 4.600 mağaza ve 40+ DC kapsama alınacak."
-wixId: "aabe85dc-d0b4-472f-a343-6d67013c1ae1"
-author: "Sedat Onat"
+title: Walmart, Envanter Takibini ve AI Yeteneklerini Geliştirmek İçin Wiliot Sensörlerini Yaygınlaştırıyor
+subtitle: Walmart, Envanter Takibini ve AI Yeteneklerini Geliştirmek İçin Wiliot Sensörlerini Yaygınlaştırıyor
+date: '2025-11-04T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_ea15aedd19bc42a6978a738e9665aaa2~mv2.jpg
+imageAlt: Walmart, Wiliot ambient IoT sensörleri ile palet bazlı stok takibini otomatikleştirerek gerçek zamanlı envanter doğruluğu, soğuk zincir uyumu ve AI destekli karar alma süreçlerini güçlendiriyor. 2026’da 4.600 mağaza ve 40+ DC kapsama alınacak.
+wixId: aabe85dc-d0b4-472f-a343-6d67013c1ae1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Walmart
+- Wiliot
+- ambient IoT sensörleri
+- envanter yönetimi
+- yapay zeka
+- soğuk zincir
+- tedarik zinciri görünürlüğü
 ---
 <p style="text-align: justify">Walmart, tedarik zincirini daha görünür ve daha akıllı hâle getirmek için envanter izleme teknolojilerine yaptığı yatırımları büyütüyor. Perakende devi, <strong>Wiliot</strong> iş birliği kapsamında tedarik zincirine <strong>ambient IoT sensörleri</strong> yerleştirerek stok yönetiminden soğuk zincire kadar birçok alanda otomasyon ve gerçek zamanlı veri kullanımını genişletiyor.</p>
 <p><br></p>

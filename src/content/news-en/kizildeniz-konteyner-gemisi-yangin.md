@@ -1,16 +1,23 @@
 ---
-title: "Fire in the Red Sea: ASL Bauhinia Crew Evacuated"
-subtitle: "Fire in the Red Sea: ASL Bauhinia Crew Evacuated"
-date: "2025-01-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_78240bb589fa477caa9cfad90f7182bb~mv2.jpg"
-imageAlt: "Fire in the Red Sea: ASL Bauhinia Crew Evacuated"
-wixId: "fe1413cc-859d-46c0-898d-364d06d45842"
-author: "Sedat Onat"
+title: 'Fire in the Red Sea: ASL Bauhinia Crew Evacuated'
+subtitle: 'Fire in the Red Sea: ASL Bauhinia Crew Evacuated'
+date: '2025-01-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_78240bb589fa477caa9cfad90f7182bb~mv2.jpg
+imageAlt: 'Fire in the Red Sea: ASL Bauhinia Crew Evacuated'
+wixId: fe1413cc-859d-46c0-898d-364d06d45842
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Red Sea
+- container ship
+- ASL Bauhinia
+- ship fire
+- crew evacuation
+- maritime security
+- Hong Kong
 ---
-
 <p style="text-align: justify">The Hong Kong-flagged container ship <strong>ASL Bauhinia</strong> caught fire while transiting the Red Sea. As the fire spread rapidly, the crew was forced to abandon the vessel for safety reasons.</p>
 <p><br></p>
 <p style="text-align: justify">The incident has raised concerns within the maritime sector. The cause of the fire remains unknown at this time, and an investigation has been initiated by the relevant authorities. The safe evacuation of the crew prevented potential loss of life.</p>

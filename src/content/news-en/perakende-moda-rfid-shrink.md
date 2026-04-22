@@ -1,16 +1,23 @@
 ---
-title: "Fashion Retail Tackles Rising \"Shrink\" Problem with RFID Technology"
-subtitle: "Fashion Retail Tackles Rising \"Shrink\" Problem with RFID Technology"
-date: "2025-11-24T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_f40b5b84c889409fbe0921e5b234b5e2~mv2.jpg"
-imageAlt: "A comprehensive overview of the rapidly growing causes of shrink losses in fashion retail, visibility gaps across the supply chain, and the role RFID technology plays in improving inventory accuracy and combating theft"
-wixId: "2d129001-cdbe-4050-bd85-79d41c7c0993"
-author: "Sedat Onat"
+title: Fashion Retail Tackles Rising "Shrink" Problem with RFID Technology
+subtitle: Fashion Retail Tackles Rising "Shrink" Problem with RFID Technology
+date: '2025-11-24T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_f40b5b84c889409fbe0921e5b234b5e2~mv2.jpg
+imageAlt: A comprehensive overview of the rapidly growing causes of shrink losses in fashion retail, visibility gaps across the supply chain, and the role RFID technology plays in improving inventory accuracy and combating theft
+wixId: 2d129001-cdbe-4050-bd85-79d41c7c0993
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- RFID
+- fashion retail
+- shrink
+- inventory loss
+- inventory management
+- theft
+- supply chain visibility
 ---
-
 <p style="text-align: justify">Fashion retail faces a rapidly expanding <strong>shrink</strong> problem in recent years. According to an analysis in <strong>SupplyChainBrain</strong>, inventory losses are no longer limited to in-store theft; they have become a systemic issue across the entire supply chain, spanning from production to warehouse, from store backrooms to e-commerce. Data from the <strong>National Retail Federation (NRF)</strong> reveals that shoplifting cases increased by <strong>93% during 2019–2023</strong>, with associated financial losses rising by <strong>90%</strong>. Total annual shrink losses are estimated to reach approximately <strong>$100 billion USD</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">According to a recent survey by <strong>Avery Dennison</strong> involving 250 retailers, more than <strong>64% of participants</strong> identified <strong>"inaccurate or incomplete shipping information"</strong> as one of the root causes of shrink. <strong>Uwe Hennig</strong>, senior executive responsible for the company's global retail segment, summarizes the issue as follows:<br>

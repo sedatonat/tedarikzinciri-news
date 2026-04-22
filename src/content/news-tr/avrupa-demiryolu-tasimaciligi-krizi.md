@@ -1,14 +1,23 @@
 ---
-title: "Avrupa Demiryolu Yük Taşımacılığı Kriz Noktasında: Sektör Yardım Çığlıklarını Duyuramıyor"
-subtitle: "Avrupa Demiryolu Yük Taşımacılığı Kriz Noktasında: Sektör Yardım Çığlıklarını Duyuramıyor"
-date: "2025-11-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d917004caa9d413392bd7aaf0ceb6469~mv2.jpg"
-imageAlt: "Avrupa’daki demiryolu yük taşımacılığı sektörü, mali baskılar, operasyonel aksaklıklar ve politik ilgisizlik nedeniyle kırılma noktasına yaklaşıyor. Sektör temsilcileri, AB kurumlarının yetersiz desteği ve ulusal önceliklerin öne çıkması nedeniyle reformların tıkanmasından endişe ediyor."
-wixId: "b6470a9d-c6c8-4fe5-a0fc-f63d1cafb828"
-author: "Sedat Onat"
+title: 'Avrupa Demiryolu Yük Taşımacılığı Kriz Noktasında: Sektör Yardım Çığlıklarını Duyuramıyor'
+subtitle: 'Avrupa Demiryolu Yük Taşımacılığı Kriz Noktasında: Sektör Yardım Çığlıklarını Duyuramıyor'
+date: '2025-11-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d917004caa9d413392bd7aaf0ceb6469~mv2.jpg
+imageAlt: Avrupa’daki demiryolu yük taşımacılığı sektörü, mali baskılar, operasyonel aksaklıklar ve politik ilgisizlik nedeniyle kırılma noktasına yaklaşıyor. Sektör temsilcileri, AB kurumlarının yetersiz desteği ve ulusal önceliklerin öne çıkması nedeniyle reformların tıkanmasından endişe ediyor.
+wixId: b6470a9d-c6c8-4fe5-a0fc-f63d1cafb828
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- demiryolu taşımacılığı
+- Avrupa Birliği
+- yük taşımacılığı
+- yeşil mutabakat
+- altyapı yatırımı
+- karayolu rekabeti
+- karbon emisyonu
+- ERFA
 ---
 <p style="text-align: justify"><strong>Avrupa demiryolu yük taşımacılığı sektörü</strong>, son haftalarda artan kriz sinyalleriyle dikkat çekiyor. Sektör temsilcileri, <strong>AB kurumlarından yeterli destek göremediklerini</strong> ve <strong>üye devletlerin ulusal çıkarlarını Avrupa’nın demiryolu hedeflerinin önüne koyduğunu</strong> belirterek alarm veriyor.</p>
 <p><br></p>

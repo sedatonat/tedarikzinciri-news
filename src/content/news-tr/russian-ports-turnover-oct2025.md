@@ -1,14 +1,23 @@
 ---
-title: "Rus Deniz Limanlarında Yük Hacmi Ekim 2025’te %5,1 Arttı"
-subtitle: "Rus Deniz Limanlarında Yük Hacmi Ekim 2025’te %5,1 Arttı"
-date: "2025-11-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_92f310a0b7924636b86f2332bca5579c~mv2.jpg"
-imageAlt: "Rusya’nın tüm deniz limanlarındaki yük hacmi 2025 Ekim ayında yıllık bazda %5,1 arttı; büyümeyi özellikle petrol, kömür, LNG ve hurda yükleri desteklerken ithalat %13 düştü."
-wixId: "8d878fe2-8ca6-4e05-8745-a02f63817f12"
-author: "Sedat Onat"
+title: Rus Deniz Limanlarında Yük Hacmi Ekim 2025’te %5,1 Arttı
+subtitle: Rus Deniz Limanlarında Yük Hacmi Ekim 2025’te %5,1 Arttı
+date: '2025-11-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_92f310a0b7924636b86f2332bca5579c~mv2.jpg
+imageAlt: Rusya’nın tüm deniz limanlarındaki yük hacmi 2025 Ekim ayında yıllık bazda %5,1 arttı; büyümeyi özellikle petrol, kömür, LNG ve hurda yükleri desteklerken ithalat %13 düştü.
+wixId: 8d878fe2-8ca6-4e05-8745-a02f63817f12
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Rusya
+- deniz limanları
+- yük elleçleme
+- enerji ürünleri
+- LNG
+- transit taşımacılık
+- Karadeniz havzası
+- ihracat
 ---
 <p style="text-align: justify">Rusya’nın tüm deniz limanlarındaki yük elleçleme hacmi <strong>Ekim 2025’te geçen yılın aynı ayına göre %5,1 arttı</strong>. Resmî verilere göre bu artış; enerji ürünlerinin güçlü performansı, transit taşımacılığın yeniden hız kazanması ve iç kabotajdaki büyüme sayesinde gerçekleşti. Buna karşın, ithalat tarafında belirgin bir düşüş yaşandı.</p>
 <p><br></p>

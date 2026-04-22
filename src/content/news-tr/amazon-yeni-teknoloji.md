@@ -1,14 +1,22 @@
 ---
-title: "Amazon, Depo ve Teslimat Ağını Güçlendiren Üç Yeni Teknolojisini Tanıttı"
-subtitle: "Amazon, Depo ve Teslimat Ağını Güçlendiren Üç Yeni Teknolojisini Tanıttı"
-date: "2025-10-27T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_14e2be769e194e009e718db6832250ea~mv2.jpg"
-imageAlt: "Amazon, Blue Jay adlı çok kollu robot sistemi, Project Eluna adlı otonom yapay zekâ modeli ve akıllı teslimat gözlükleriyle depo ve teslimat operasyonlarında verimliliği artırmayı hedefliyor."
-wixId: "8abe9cae-11e8-44f7-8a43-b4a22ddfb67d"
-author: "Sedat Onat"
+title: Amazon, Depo ve Teslimat Ağını Güçlendiren Üç Yeni Teknolojisini Tanıttı
+subtitle: Amazon, Depo ve Teslimat Ağını Güçlendiren Üç Yeni Teknolojisini Tanıttı
+date: '2025-10-27T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_14e2be769e194e009e718db6832250ea~mv2.jpg
+imageAlt: Amazon, Blue Jay adlı çok kollu robot sistemi, Project Eluna adlı otonom yapay zekâ modeli ve akıllı teslimat gözlükleriyle depo ve teslimat operasyonlarında verimliliği artırmayı hedefliyor.
+wixId: 8abe9cae-11e8-44f7-8a43-b4a22ddfb67d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Amazon
+- depo otomasyonu
+- yapay zeka
+- teslimat teknolojisi
+- robotik sistem
+- Blue Jay
+- akıllı gözlük
 ---
 <p style="text-align: justify"><strong>Amazon</strong>, <strong>sipariş karşılama (fulfillment)</strong> ve <strong>teslimat operasyonlarını</strong> dönüştürecek üç yeni teknolojisini tanıttı: <strong>Blue Jay</strong>, <strong>Project Eluna</strong> ve <strong>akıllı teslimat gözlükleri</strong>. Şirket, bu yeniliklerle <strong>verimliliği artırmayı</strong>, <strong>tekrarlayan görevleri azaltmayı</strong> ve <strong>teslimat hızını yükseltmeyi</strong> amaçlamakta.</p>
 <p><br></p>

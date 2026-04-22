@@ -1,14 +1,22 @@
 ---
-title: "Seatrium, İki Platform Tedarik Gemisini Brezilyalı Posidonia’ya 60 Milyon Dolar Karşılığında Sattı"
-subtitle: "Seatrium, İki Platform Tedarik Gemisini Brezilyalı Posidonia’ya 60 Milyon Dolar Karşılığında Sattı"
-date: "2025-11-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5dee12ed40f74af687d465ff24040faa~mv2.jpg"
-imageAlt: "Singapurlu gemi inşa grubu Seatrium, iki platform destek gemisini (PSV) Brezilya merkezli Posidonia Shipping and Trading’e yaklaşık 59,7 milyon dolar karşılığında sattı. Satış, şirketin çekirdek dışı varlıkları elden çıkarma ve operasyonel verimliliği artırma stratejisi kapsamında gerçekleştiriliyor."
-wixId: "371517d6-d0e7-4ce4-b67d-e483fecb3cc5"
-author: "Sedat Onat"
+title: Seatrium, İki Platform Tedarik Gemisini Brezilyalı Posidonia’ya 60 Milyon Dolar Karşılığında Sattı
+subtitle: Seatrium, İki Platform Tedarik Gemisini Brezilyalı Posidonia’ya 60 Milyon Dolar Karşılığında Sattı
+date: '2025-11-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5dee12ed40f74af687d465ff24040faa~mv2.jpg
+imageAlt: Singapurlu gemi inşa grubu Seatrium, iki platform destek gemisini (PSV) Brezilya merkezli Posidonia Shipping and Trading’e yaklaşık 59,7 milyon dolar karşılığında sattı. Satış, şirketin çekirdek dışı varlıkları elden çıkarma ve operasyonel verimliliği artırma stratejisi kapsamında gerçekleştiriliyor.
+wixId: 371517d6-d0e7-4ce4-b67d-e483fecb3cc5
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Seatrium
+- platform tedarik gemisi
+- Posidonia
+- Brezilya
+- gemi satışı
+- offshore enerji
+- varlık optimizasyonu
 ---
 <p style="text-align: justify"><strong>Singapur merkezli gemi inşa ve deniz mühendisliği şirketi Seatrium</strong>, sahip olduğu <strong>iki platform tedarik gemisini (Platform Supply Vessel – PSV)</strong> <strong>Brezilyalı Posidonia Shipping and Trading’e</strong> satma kararı aldı. Satışın toplam değeri <strong>59,7 milyon ABD doları</strong> olarak açıklandı.</p>
 <p><br></p>

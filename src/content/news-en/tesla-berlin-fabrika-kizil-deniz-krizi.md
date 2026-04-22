@@ -1,16 +1,23 @@
 ---
-title: "Tesla's Berlin Factory Halts Production Due to Red Sea Crisis"
-subtitle: "Tesla's Berlin Factory Halts Production Due to Red Sea Crisis"
-date: "2024-01-12T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_5dc80a88cb2d4080b8445b07d52fe110~mv2.jpg"
-imageAlt: "Tesla's Berlin Factory Halts Production Due to Red Sea Crisis"
-wixId: "43830680-2afe-449a-8b02-e87ed0f7e7a8"
-author: "Sedat Onat"
+title: Tesla's Berlin Factory Halts Production Due to Red Sea Crisis
+subtitle: Tesla's Berlin Factory Halts Production Due to Red Sea Crisis
+date: '2024-01-12T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_5dc80a88cb2d4080b8445b07d52fe110~mv2.jpg
+imageAlt: Tesla's Berlin Factory Halts Production Due to Red Sea Crisis
+wixId: 43830680-2afe-449a-8b02-e87ed0f7e7a8
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Tesla
+- Red Sea
+- supply chain
+- production disruption
+- Houthi
+- Berlin factory
+- maritime shipping
 ---
-
 <p>Tesla announced it will suspend most vehicle manufacturing operations at its factory near Berlin from January 29 to February 11. The suspension is linked to supply chain disruptions caused by shipping companies rerouting vessels due to attacks by Houthi militants in the Red Sea. According to Reuters, Tesla is among the first companies globally to experience production interruptions due to Houthi militant attacks.</p>
 <p><br></p>
 <p>According to Tesla's statement, armed conflicts in the Red Sea and the rerouting of transport routes between Europe and Asia via the Cape of Good Hope are affecting production at Gruenheide. In particular, extended transit times are creating gaps in supply chains.</p>

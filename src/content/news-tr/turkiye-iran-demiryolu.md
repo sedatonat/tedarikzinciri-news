@@ -1,14 +1,21 @@
 ---
-title: "Türkiye ve İran Demiryolu Yük Taşımacılığı Hedeflerine Ulaşmak İçin Çalışmalarını Sürdürüyor"
-subtitle: "Türkiye ve İran Demiryolu Yük Taşımacılığı Hedeflerine Ulaşmak İçin Çalışmalarını Sürdürüyor"
-date: "2025-01-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_992b0bb8070349139d9f03611a1eca66~mv2.jpg"
-imageAlt: "Türkiye ve İran Demiryolu Yük Taşımacılığı Hedeflerine Ulaşmak İçin Çalışmalarını Sürdürüyor"
-wixId: "d6e4744a-0a90-470d-a0ca-d2391eeff46c"
-author: "Sedat Onat"
+title: Türkiye ve İran Demiryolu Yük Taşımacılığı Hedeflerine Ulaşmak İçin Çalışmalarını Sürdürüyor
+subtitle: Türkiye ve İran Demiryolu Yük Taşımacılığı Hedeflerine Ulaşmak İçin Çalışmalarını Sürdürüyor
+date: '2025-01-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_992b0bb8070349139d9f03611a1eca66~mv2.jpg
+imageAlt: Türkiye ve İran Demiryolu Yük Taşımacılığı Hedeflerine Ulaşmak İçin Çalışmalarını Sürdürüyor
+wixId: d6e4744a-0a90-470d-a0ca-d2391eeff46c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Türkiye
+- İran
+- demiryolu taşımacılığı
+- INSTC
+- altyapı geliştirme
+- uluslararası koridor
 ---
 <p style="text-align: justify">Türkiye ve İran, 2025 yılı için demiryolu yük taşımacılığında toplam bir milyon tonluk hacme ulaşmayı hedeflemekte. Bu hedef, Türk Ulaştırma Bakanlığı ile İranlı yetkililer arasında yakın zamanda gerçekleştirilen bir toplantıda belirlendi. Ancak, bu hedef ilk kez 2021 yılında konulmuştu ve o dönemde de benzer bir büyüme öngörülmekteydi. 2020 yılında iki ülke arasındaki demiryolu yük taşımacılığı hacmi 564.000 ton olarak kaydedilmişti. ​</p>
 <p><br></p>

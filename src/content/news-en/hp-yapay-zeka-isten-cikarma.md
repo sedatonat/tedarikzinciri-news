@@ -1,16 +1,23 @@
 ---
-title: "HP Prepares to Cut 6,000 Jobs as Part of AI-Driven Restructuring"
-subtitle: "HP Prepares to Cut 6,000 Jobs as Part of AI-Driven Restructuring"
-date: "2025-11-26T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_ad564aa5986a43ccbe075cbb6849eec9~mv2.jpg"
-imageAlt: "HP's plan to cut 6,000 jobs globally by 2028 through AI integration aimed at accelerating product development and reducing costs, coupled with lower-than-expected profit forecasts, CEO remarks, AI-driven productivity targets, and the sector-wide impact of automation trends on the workforce."
-wixId: "aa8e7698-cffb-444f-a71d-688eee679509"
-author: "Sedat Onat"
+title: HP Prepares to Cut 6,000 Jobs as Part of AI-Driven Restructuring
+subtitle: HP Prepares to Cut 6,000 Jobs as Part of AI-Driven Restructuring
+date: '2025-11-26T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_ad564aa5986a43ccbe075cbb6849eec9~mv2.jpg
+imageAlt: HP's plan to cut 6,000 jobs globally by 2028 through AI integration aimed at accelerating product development and reducing costs, coupled with lower-than-expected profit forecasts, CEO remarks, AI-driven productivity targets, and the sector-wide impact of automation trends on the workforce.
+wixId: aa8e7698-cffb-444f-a71d-688eee679509
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- HP
+- artificial intelligence
+- layoffs
+- restructuring
+- automation
+- cost savings
+- AI
 ---
-
 <p style="text-align: justify">HP (Hewlett-Packard) has announced plans to eliminate <strong>4,000 to 6,000 employees</strong> over the next three years, responding to mounting cost pressures in the global technology market, weakening revenue expectations, and a drive to increase automation within company operations. The decision was announced alongside <strong>profit guidance that fell short of expectations</strong> for fiscal year 2026, bringing greater clarity to the scope of HP's restructuring process. These cuts represent approximately <strong>11 percent</strong> of the company's total workforce.</p>
 <p><br></p>
 <p style="text-align: justify">CEO <strong>Enrique Lores</strong> emphasized in his statement that <strong>artificial intelligence (AI)</strong> sits at the center of HP's future growth strategy. According to Lores, the company aims to deploy AI applications more intensively to accelerate product innovation, enhance customer satisfaction, and boost internal efficiency. As part of this transformation, HP will implement layoffs across a broad range of units, from development teams to operations and customer support divisions.</p>

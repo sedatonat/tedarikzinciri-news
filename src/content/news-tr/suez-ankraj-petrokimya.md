@@ -1,14 +1,22 @@
 ---
-title: "Suez Kanal Otoritesi ve Anchorage Investments, 2 Milyar Dolarlık Petrokimya Kompleksi Anlaşması İmzaladı"
-subtitle: "Suez Kanal Otoritesi ve Anchorage Investments, 2 Milyar Dolarlık Petrokimya Kompleksi Anlaşması İmzaladı"
-date: "2025-10-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c74ff5d762db4840b25e9fdf55c40569~mv2.jpg"
-imageAlt: "Suez Canal Authority (SCA), Anchorage Investments ile Ain Sokhna bölgesinde 2 milyar dolarlık petrokimya kompleksi kurulması için stratejik ortaklık anlaşması imzaladı. Proje, Mısır’ın döviz gelirlerini artırmayı ve 2.500’den fazla istihdam yaratmayı hedefliyor."
-wixId: "f5f9898a-fcda-4cca-bd8e-35b6da712996"
-author: "Sedat Onat"
+title: Suez Kanal Otoritesi ve Anchorage Investments, 2 Milyar Dolarlık Petrokimya Kompleksi Anlaşması İmzaladı
+subtitle: Suez Kanal Otoritesi ve Anchorage Investments, 2 Milyar Dolarlık Petrokimya Kompleksi Anlaşması İmzaladı
+date: '2025-10-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c74ff5d762db4840b25e9fdf55c40569~mv2.jpg
+imageAlt: Suez Canal Authority (SCA), Anchorage Investments ile Ain Sokhna bölgesinde 2 milyar dolarlık petrokimya kompleksi kurulması için stratejik ortaklık anlaşması imzaladı. Proje, Mısır’ın döviz gelirlerini artırmayı ve 2.500’den fazla istihdam yaratmayı hedefliyor.
+wixId: f5f9898a-fcda-4cca-bd8e-35b6da712996
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Süveyş Kanalı
+- petrokimya
+- Mısır
+- Anchorage Investments
+- polipropilen
+- enerji sektörü
+- endüstriyel yatırım
 ---
 <p style="text-align: justify"><strong>Suez Canal Authority (SCA)</strong>, <strong>22 Ekim 2025</strong> tarihinde <strong>Anchorage Investments</strong> ile <strong>Ain Sokhna</strong> bölgesinde, Süveyş Körfezi’nin kuzeybatısında yer alan <strong>Suez Canal Economic Zone (SCEZ)</strong> sınırları içinde <strong>büyük ölçekli bir petrokimya kompleksi</strong> kurulmasına yönelik stratejik ortaklık anlaşması imzaladı. Bu anlaşma, Mısır’ın sanayi çeşitliliğini artırmak ve enerji sektöründeki ihracat kapasitesini güçlendirmek için atılmış önemli bir adım olarak değerlendiriliyor.</p>
 <p><br></p>

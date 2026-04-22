@@ -1,14 +1,22 @@
 ---
-title: "Çitin Ötesinden Bakış: Tedarikte Denge Arayışı"
-subtitle: "Çitin Ötesinden Bakış: Tedarikte Denge Arayışı"
-date: "2025-05-13T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_120add6c163f4c4491aa248ce647efcc~mv2.png"
-imageAlt: "Çitin Ötesinden Bakış: Tedarikte Denge Arayışı"
-wixId: "027b1e0c-a42f-4f7b-b181-207848f033a2"
-author: "Sedat Onat"
+title: 'Çitin Ötesinden Bakış: Tedarikte Denge Arayışı'
+subtitle: 'Çitin Ötesinden Bakış: Tedarikte Denge Arayışı'
+date: '2025-05-13T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_120add6c163f4c4491aa248ce647efcc~mv2.png
+imageAlt: 'Çitin Ötesinden Bakış: Tedarikte Denge Arayışı'
+wixId: 027b1e0c-a42f-4f7b-b181-207848f033a2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tedarik zinciri dayanıklılığı
+- nearshoring
+- multi-sourcing
+- AI forecasting
+- Scope 3 emisyon
+- supply chain finance
+- çok senaryolu mimari
 ---
 <p style="text-align: justify"><strong>“Çitin ötesinden bakış”</strong> yaklaşımı, günümüz tedarik zincirlerinde <strong>maliyet–hız–dayanıklılık</strong> dengesinin artık geçici bir hedef değil, <strong>kalıcı bir stratejik öncelik</strong> haline geldiğini vurgulamaktadır. Küresel ölçekte artan belirsizlikler, şirketleri tek bir “optimum model” arayışından çok, <strong>çok senaryolu bir dayanıklılık mimarisi</strong> kurmaya yöneltmektedir.</p>
 <p><br></p>

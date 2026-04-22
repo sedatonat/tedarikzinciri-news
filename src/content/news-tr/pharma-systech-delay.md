@@ -1,14 +1,22 @@
 ---
-title: "İlaç Üreticisi Systech Ile Nakliye Gecikmelerini Aştı"
-subtitle: "İlaç Üreticisi Systech Ile Nakliye Gecikmelerini Aştı"
-date: "2025-03-04T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8ad82a3b103e445db01158db322cd61c~mv2.jpg"
-imageAlt: "İlaç Üreticisi Systech Ile Nakliye Gecikmelerini Aştı"
-wixId: "115ff0d0-0bd2-469b-a291-f4c84969b1ce"
-author: "Sedat Onat"
+title: İlaç Üreticisi Systech Ile Nakliye Gecikmelerini Aştı
+subtitle: İlaç Üreticisi Systech Ile Nakliye Gecikmelerini Aştı
+date: '2025-03-04T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8ad82a3b103e445db01158db322cd61c~mv2.jpg
+imageAlt: İlaç Üreticisi Systech Ile Nakliye Gecikmelerini Aştı
+wixId: 115ff0d0-0bd2-469b-a291-f4c84969b1ce
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ilaç sektörü
+- Systech UniTrace
+- izlenebilirlik
+- AI analytics
+- serialization
+- nakliye gecikmesi
+- risk yönetimi
 ---
 <p>Bir ilaç üreticisi, Systech UniTrace sistemine geçerek üç aylık nakliye gecikmelerini ortadan kaldırmıştır. Yeni platform, track-and-trace, serialization, ve data integrity yönetimini sağlamaktadır. AI-driven analytics, operasyonel darboğazları önceden tespit etmektedir. Bu dönüşüm, gelir kaybını önleyerek müşteri teslimat sürekliliğini korumuştur. Uzmanlara göre dijital izlenebilirlik, ilaç sektöründe risk yönetiminin temelidir.</p>
 <p><br></p>

@@ -1,14 +1,23 @@
 ---
-title: "ABD, İhracat Yasağı Listesine Daha Fazla Çinli Şirket Ekledi"
-subtitle: "ABD, İhracat Yasağı Listesine Daha Fazla Çinli Şirket Ekledi"
-date: "2025-03-26T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_b8dd03788b8f4f7ab85c8f70260a3ef4~mv2.png"
-imageAlt: "Abd, İhracat Yasağı Listesine Daha Fazla Çinli Şirket Ekledi"
-wixId: "b0e8430d-bac4-41bb-a13d-674f821c36aa"
-author: "Sedat Onat"
+title: ABD, İhracat Yasağı Listesine Daha Fazla Çinli Şirket Ekledi
+subtitle: ABD, İhracat Yasağı Listesine Daha Fazla Çinli Şirket Ekledi
+date: '2025-03-26T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_b8dd03788b8f4f7ab85c8f70260a3ef4~mv2.png
+imageAlt: Abd, İhracat Yasağı Listesine Daha Fazla Çinli Şirket Ekledi
+wixId: b0e8430d-bac4-41bb-a13d-674f821c36aa
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD
+- Çin
+- ihracat yasağı
+- yarı iletken
+- tedarik zinciri
+- uyum yönetimi
+- friend-shoring
+- ulusal güvenlik
 ---
 <p style="text-align: justify"><strong>ABD yönetimi</strong>, teknoloji transferi ve ulusal güvenlik risklerine karşı aldığı yeni önlemler kapsamında, <strong>ihracat kısıtlamaları listesine (Entity List)</strong> ek Çinli firmalar dahil etti. Bu genişleme, <strong>export controls (ihracat kontrolleri)</strong> ve <strong>lisans süreçlerinde</strong> daha sıkı denetim ve izin mekanizmaları anlamına geliyor. Kararın etkisi, özellikle <strong>yarı iletken üretimi</strong>, <strong>ileri imalat ekipmanları</strong> ve <strong>kritik altyapı çözümleri</strong> gibi stratejik sektörlerde hissediliyor.</p>
 <p style="text-align: justify"><br></p>

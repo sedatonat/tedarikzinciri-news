@@ -1,14 +1,22 @@
 ---
-title: "Volkswagen, Kargo Gemisi Yangını Nedeniyle Dava İle Karşı Karşıya"
-subtitle: "Volkswagen, Kargo Gemisi Yangını Nedeniyle Dava İle Karşı Karşıya"
-date: "2024-03-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_41d390d91d034f30982b8d1a22593910~mv2.jpg"
-imageAlt: "Volkswagen, Kargo Gemisi Yangını Nedeniyle Dava İle Karşı Karşıya"
-wixId: "19550ae2-9a01-426b-bc32-a8ed0652b9dd"
-author: "Sedat Onat"
+title: Volkswagen, Kargo Gemisi Yangını Nedeniyle Dava İle Karşı Karşıya
+subtitle: Volkswagen, Kargo Gemisi Yangını Nedeniyle Dava İle Karşı Karşıya
+date: '2024-03-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_41d390d91d034f30982b8d1a22593910~mv2.jpg
+imageAlt: Volkswagen, Kargo Gemisi Yangını Nedeniyle Dava İle Karşı Karşıya
+wixId: 19550ae2-9a01-426b-bc32-a8ed0652b9dd
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Volkswagen
+- kargo gemisi
+- yangın
+- Felicity Ace
+- lityum-iyon batarya
+- elektrikli araç
+- deniz kazası
 ---
 <p>2022 yılında, Volkswagen Grubu'nun 3.965 aracını taşıyan<a href="https://en.wikipedia.org/wiki/Felicity_Ace"><u> Felicity Ace</u></a> gemisi, Emden, Almanya'dan yola çıkarak Kuzey Atlantik üzerinden Davisville, Rhode Island'a doğru ilerlerken 16 Şubat'ta yük bölümünde bir yangın çıktı. Yangın sırasında gemi, Azorlar'ın Terceira Adası'ndan yaklaşık 320 kilometre uzaktaydı. Gemiye Audi, Porsche, Lamborghini ve Bentley modelleri dahil olmak üzere Volkswagen Grubu araçları yüklüydü.&nbsp;</p>
 <p><br></p>

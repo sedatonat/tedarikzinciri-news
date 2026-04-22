@@ -1,14 +1,22 @@
 ---
-title: "Panama Kanalı'nda Gerilim: Trump’ın Tehdidi ve Cortizo’nun Yanıtı"
-subtitle: "Panama Kanalı'nda Gerilim: Trump’ın Tehdidi ve Cortizo’nun Yanıtı"
-date: "2024-12-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1c7850716fbd4b7aa453209300708acc~mv2.jpg"
-imageAlt: "Panama Kanalı'nda Gerilim: Trump’ın Tehdidi ve Cortizo’nun Yanıtı"
-wixId: "683f4598-26f7-4e29-9398-f7a278143871"
-author: "Sedat Onat"
+title: 'Panama Kanalı''nda Gerilim: Trump’ın Tehdidi ve Cortizo’nun Yanıtı'
+subtitle: 'Panama Kanalı''nda Gerilim: Trump’ın Tehdidi ve Cortizo’nun Yanıtı'
+date: '2024-12-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1c7850716fbd4b7aa453209300708acc~mv2.jpg
+imageAlt: 'Panama Kanalı''nda Gerilim: Trump’ın Tehdidi ve Cortizo’nun Yanıtı'
+wixId: 683f4598-26f7-4e29-9398-f7a278143871
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Panama Kanalı
+- Trump
+- Çin
+- egemenlik
+- deniz ticareti
+- jeopolitik
+- uluslararası lojistik
 ---
 <p>Panama Devlet Başkanı Laurentino Cortizo, eski ABD Başkanı Donald Trump tarafından gündeme getirilen “Panama Canal” üzerindeki olası bir “takeover” tehdidine karşı oldukça net bir açıklama yaparak ülkesinin egemenlik haklarını güçlü bir şekilde savunuyor. Kendisi, “Panama Canal”ın ulusal onurun önemli bir parçası olduğunu ve herhangi bir dış gücün bu stratejik su yolunu ele geçirme girişimine göz yumulmayacağını vurguluyor. Özellikle Trump’ın, “China” ile ilgili dile getirdiği olası etkiler ve Amerika Birleşik Devletleri’nin “Panama Canal” üzerindeki tarihi bağlarına atıfta bulunarak yaptığı yorumlar, Panama yönetimi tarafından tepkiyle karşılanıyor.</p>
 <p><br></p>

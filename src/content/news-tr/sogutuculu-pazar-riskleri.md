@@ -1,14 +1,23 @@
 ---
-title: "Soğutuculu Konteyner Pazarında 2025 Riskleri"
-subtitle: "Soğutuculu Konteyner Pazarında 2025 Riskleri"
-date: "2024-12-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_32407111589c4471b502bc4bbeac9ace~mv2.jpg"
-imageAlt: "Soğutuculu Konteyner Pazarında 2025 Riskleri"
-wixId: "03ec0578-29b7-43a1-87ce-efc995a347e1"
-author: "Sedat Onat"
+title: Soğutuculu Konteyner Pazarında 2025 Riskleri
+subtitle: Soğutuculu Konteyner Pazarında 2025 Riskleri
+date: '2024-12-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_32407111589c4471b502bc4bbeac9ace~mv2.jpg
+imageAlt: Soğutuculu Konteyner Pazarında 2025 Riskleri
+wixId: 03ec0578-29b7-43a1-87ce-efc995a347e1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- soğutuculu konteyner
+- reefer
+- soğuk zincir
+- CMA CGM
+- karbonsuzlaştırma
+- yeşil yakıt
+- Süveyş Kanalı
+- konteyner taşımacılığı
 ---
 <p>2025 yılında soğutuculu konteyner (reefer) pazarının büyümesi beklenirken, sektörde çeşitli riskler ve zorluklar öne çıkmaktadır. Artan ekipman talebi ve pazar büyümesi, rekabeti artırırken, liman işgücü müzakerelerinden kaynaklanan operasyonel kesintiler, özellikle bozulabilir yükler için tehdit oluşturmaktadır.</p>
 <p><br></p>

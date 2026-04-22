@@ -1,16 +1,24 @@
 ---
-title: "Companies Increasingly Turning to Smaller and Local Suppliers in Procurement"
-subtitle: "Companies Increasingly Turning to Smaller and Local Suppliers in Procurement"
-date: "2025-12-10T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_fc9271da527a48ebbd3989876153e051~mv2.jpg"
-imageAlt: "Comprehensive summary of how companies are positioning small and local suppliers as strategic sources due to rising tariffs, geopolitical risks, and supply chain fragility, according to Supplier.io's 2025 State of Supplier Diversity Report"
-wixId: "176f47c0-5749-46e2-8f04-02bfb338ca16"
-author: "Sedat Onat"
+title: Companies Increasingly Turning to Smaller and Local Suppliers in Procurement
+subtitle: Companies Increasingly Turning to Smaller and Local Suppliers in Procurement
+date: '2025-12-10T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_fc9271da527a48ebbd3989876153e051~mv2.jpg
+imageAlt: Comprehensive summary of how companies are positioning small and local suppliers as strategic sources due to rising tariffs, geopolitical risks, and supply chain fragility, according to Supplier.io's 2025 State of Supplier Diversity Report
+wixId: 176f47c0-5749-46e2-8f04-02bfb338ca16
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- supplier diversity
+- small suppliers
+- local suppliers
+- supply chain resilience
+- sourcing strategy
+- supplier certification
+- Supplier.io
+- RFP
 ---
-
 <p style="text-align: justify">Mounting uncertainty in global supply chains is driving a pronounced shift in corporate <strong>sourcing strategy</strong> approaches. The <strong>2025 State of Supplier Diversity Report</strong> published by <strong>Supplier.io</strong> reveals that companies are no longer viewing <strong>supplier diversity</strong> programs merely as matters of corporate reputation or social responsibility, but rather linking them directly to <strong>operational resilience and business performance</strong>. At the heart of this transformation lies a focus on <strong>small and local suppliers</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">According to the report, <strong>46% of organizations plan to increase procurement volumes from small suppliers</strong>, while <strong>38% aim to deepen their overall focus on small suppliers</strong>. This trend reflects corporate efforts to establish supply networks that are <strong>closer, more controllable, and more flexible</strong> during a period marked by volatile tariffs, increased political pressure, and persistent global supply chain risks.</p>

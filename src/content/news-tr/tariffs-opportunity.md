@@ -1,14 +1,23 @@
 ---
-title: "Orta Ölçekli Şirketler İçin Tarifeleri Fırsata Dönüştürme Yolu"
-subtitle: "Orta Ölçekli Şirketler İçin Tarifeleri Fırsata Dönüştürme Yolu"
-date: "2025-08-21T00:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_cf9cadf760b84996985cb1ccac577e73~mv2.png"
-imageAlt: "Orta Ölçekli Şirketler İçin Tarifeleri Fırsata Dönüştürme Yolu"
-wixId: "8ea4908f-173a-4828-8374-f851e1857676"
-author: "Sedat Onat"
+title: Orta Ölçekli Şirketler İçin Tarifeleri Fırsata Dönüştürme Yolu
+subtitle: Orta Ölçekli Şirketler İçin Tarifeleri Fırsata Dönüştürme Yolu
+date: '2025-08-21T00:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_cf9cadf760b84996985cb1ccac577e73~mv2.png
+imageAlt: Orta Ölçekli Şirketler İçin Tarifeleri Fırsata Dönüştürme Yolu
+wixId: 8ea4908f-173a-4828-8374-f851e1857676
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- orta ölçekli şirketler
+- tarifeler
+- AI senaryo planlama
+- reshoring
+- nearshoring
+- tedarikçi çeşitlendirme
+- tariff analytics
+- tedarik zinciri esnekliği
 ---
 <p style="text-align: justify">Orta ölçekli şirketler (mid‑market companies), tarifelerin getirdiği zorlukları fırsata çevirmeye başlamakta. Bu şirketler büyük kurumsal yapılar kadar hantal olmadıkları için tedarik ağlarını daha hızlı yeniden konumlandırabilmekte. AI destekli senaryo planlama ve tedarikçi çeşitlendirme stratejileri, maliyet baskısını dengelemekte.</p>
 <p style="text-align: justify"><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "Lynxis Expands Digital Solutions with TEDIVO Acquisition"
-subtitle: "Lynxis Expands Digital Solutions with TEDIVO Acquisition"
-date: "2025-01-16T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_e020a04258cb4a5daade8fdbff500ded~mv2.jpg"
-imageAlt: "Lynxis Expands Digital Solutions with TEDIVO Acquisition"
-wixId: "f9d6244a-8e79-4959-97de-f588b61d1d96"
-author: "Sedat Onat"
+title: Lynxis Expands Digital Solutions with TEDIVO Acquisition
+subtitle: Lynxis Expands Digital Solutions with TEDIVO Acquisition
+date: '2025-01-16T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_e020a04258cb4a5daade8fdbff500ded~mv2.jpg
+imageAlt: Lynxis Expands Digital Solutions with TEDIVO Acquisition
+wixId: f9d6244a-8e79-4959-97de-f588b61d1d96
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Lynxis
+- TEDIVO
+- acquisition
+- marine terminal
+- digitalization
+- vessel operations
+- logistics software
 ---
-
 <p style="text-align: justify"><strong>Lynxis LLC</strong>, a provider of optimization solutions for land-based logistics, has acquired <strong>TEDIVO LLC</strong>, which develops software that streamlines vessel operations at marine terminals. This strategic move aims to strengthen <strong>Lynxis</strong>'s capabilities in digitalization, helping shipping lines and terminal operators reduce vessel delays, incorrect stowage, and security risks.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Lynxis LLC</strong> CEO Larry Cuddy Jr. highlighted the synergy between the two companies, stating: "The <strong>TEDIVO</strong> platform, particularly <strong>BAPLIE Viewer Online</strong> and its ancillary products, aligns perfectly with our mission to deliver next-generation innovative solutions that quickly create value for our customers."</p>

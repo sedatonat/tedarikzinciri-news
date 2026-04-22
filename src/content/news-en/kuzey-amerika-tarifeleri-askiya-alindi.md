@@ -1,16 +1,24 @@
 ---
-title: "North America Tariffs Suspended While China Retaliates"
-subtitle: "North America Tariffs Suspended While China Retaliates"
-date: "2025-03-04T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_95757a84e0ee47d4bf8ed8caa74e56f0~mv2.jpg"
-imageAlt: "North America Tariffs Suspended While China Retaliates"
-wixId: "6a755d69-99fb-4d51-993c-33d07a28598a"
-author: "Sedat Onat"
+title: North America Tariffs Suspended While China Retaliates
+subtitle: North America Tariffs Suspended While China Retaliates
+date: '2025-03-04T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_95757a84e0ee47d4bf8ed8caa74e56f0~mv2.jpg
+imageAlt: North America Tariffs Suspended While China Retaliates
+wixId: 6a755d69-99fb-4d51-993c-33d07a28598a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- tariff postponement
+- trade war
+- China
+- Canada
+- Mexico
+- retaliatory tariffs
+- maritime
+- supply chain
 ---
-
 <p style="text-align: justify">President Donald Trump has postponed for 30 days the 25% tariffs planned for Canada and Mexico, delaying their implementation by one week. The decision came shortly after both countries began preparing retaliatory measures. Canadian Prime Minister <strong>Justin Trudeau</strong> announced that Canada would impose a 25% tariff on American goods valued at <strong>CA $155 billion</strong> (approximately <strong>$105.7 billion</strong>). Meanwhile, Mexican President <strong>Claudia Sheinbaum</strong> instructed her economy minister to implement tariff measures to protect Mexico's interests and vehemently rejected Trump's allegations related to drugs. ​</p>
 <p><br></p>
 <p style="text-align: justify">This tariff postponement has pulled the North American continent back from the brink of a trade war, at least temporarily. However, a friendly resolution between the United States and China appears to remain elusive. The 10% tariff imposed by the United States on Chinese imports took effect on February 4, prompting China to retaliate. Beijing announced that it would impose 15% tariffs on American goods such as coal and liquefied natural gas, and 10% tariffs on crude oil and agricultural machinery. These tariffs are scheduled to take effect on February 10. ​</p>

@@ -1,14 +1,22 @@
 ---
-title: "Amazon, Veri Merkezleri İçin Nükleer Enerjiye Yatırım Yapıyor"
-subtitle: "Amazon, Veri Merkezleri İçin Nükleer Enerjiye Yatırım Yapıyor"
-date: "2024-10-17T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_9d5221203a4045b8beb2864d31614dbd~mv2.jpg"
-imageAlt: "Amazon, Veri Merkezleri İçin Nükleer Enerjiye Yatırım Yapıyor"
-wixId: "3cc51940-face-4c0e-977c-87fe0cdf6a22"
-author: "Sedat Onat"
+title: Amazon, Veri Merkezleri İçin Nükleer Enerjiye Yatırım Yapıyor
+subtitle: Amazon, Veri Merkezleri İçin Nükleer Enerjiye Yatırım Yapıyor
+date: '2024-10-17T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_9d5221203a4045b8beb2864d31614dbd~mv2.jpg
+imageAlt: Amazon, Veri Merkezleri İçin Nükleer Enerjiye Yatırım Yapıyor
+wixId: 3cc51940-face-4c0e-977c-87fe0cdf6a22
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Amazon
+- nükleer enerji
+- veri merkezi
+- SMR
+- karbon nötr
+- Google
+- Microsoft
 ---
 <p>Amazon, nükleer reaktörleri veri merkezlerini güçlendirmek için kullanan en son teknoloji devi oldu ve küçük modüler reaktör (SMR) teknolojisini geliştirmek için üç anlaşma imzaladı. Bu anlaşmalar kapsamında, Washington merkezli kamu hizmeti konsorsiyumu Energy Northwest ile dört gelişmiş SMR geliştirme projesine katılacak. Avrupa Komisyonu'nun enerji birimine göre, SMR'ler geleneksel nükleer santrallerin onda biri ile dörtte biri arasında boyutlara sahip olabilir. Bu özellikleri sayesinde daha az soğutma kapasitesi gerektirirler, daha küçük alanlarda kullanılabilirler ve fabrikada monte edilip başka bir lokasyonda modüler olarak kolayca kurulabilirler.</p>
 <p><br></p>

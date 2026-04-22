@@ -1,14 +1,23 @@
 ---
-title: "DP World, Wan Hai Lines’in Yeni Uzak Doğu–Doğu Akdeniz Servisini Türkiye’ye Getirdi"
-subtitle: "DP World, Wan Hai Lines’in Yeni Uzak Doğu–Doğu Akdeniz Servisini Türkiye’ye Getirdi"
-date: "2025-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_43fae8bc2686413e84d52713298e302b~mv2.jpg"
-imageAlt: "DP World, Tayvan merkezli Wan Hai Lines ile yaptığı anlaşma kapsamında, Uzak Doğu–Doğu Akdeniz (FM1) deniz hattını Türkiye’nin Körfez Terminali üzerinden başlattı. Hat, Çin ve Güneydoğu Asya limanlarını Süveyş Kanalı üzerinden Türkiye’ye haftalık bağlantı ile bağlıyor."
-wixId: "cc46a36c-a6da-4039-b88a-c8fc9d846f31"
-author: "Sedat Onat"
+title: DP World, Wan Hai Lines’in Yeni Uzak Doğu–Doğu Akdeniz Servisini Türkiye’ye Getirdi
+subtitle: DP World, Wan Hai Lines’in Yeni Uzak Doğu–Doğu Akdeniz Servisini Türkiye’ye Getirdi
+date: '2025-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_43fae8bc2686413e84d52713298e302b~mv2.jpg
+imageAlt: DP World, Tayvan merkezli Wan Hai Lines ile yaptığı anlaşma kapsamında, Uzak Doğu–Doğu Akdeniz (FM1) deniz hattını Türkiye’nin Körfez Terminali üzerinden başlattı. Hat, Çin ve Güneydoğu Asya limanlarını Süveyş Kanalı üzerinden Türkiye’ye haftalık bağlantı ile bağlıyor.
+wixId: cc46a36c-a6da-4039-b88a-c8fc9d846f31
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DP World
+- Wan Hai Lines
+- Körfez Terminali
+- konteyner taşımacılığı
+- Uzak Doğu
+- Doğu Akdeniz
+- Süveyş Kanalı
+- deniz taşımacılığı
 ---
 <p style="text-align: justify"><strong>DP World</strong>, <strong>Wan Hai Lines</strong> ile yaptığı yeni iş birliğiyle <strong>Türkiye’yi Uzak Doğu–Doğu Akdeniz konteyner trafiğinde önemli bir merkez haline getirecek yeni bir deniz hattını</strong> devreye aldı. <strong>FM1</strong> adı verilen bu hat, <strong>Çin ve Güneydoğu Asya limanlarını</strong> Süveyş Kanalı üzerinden <strong>Türkiye’nin Körfez Terminali</strong> ile doğrudan bağlayacak.</p>
 <p><br></p>

@@ -1,14 +1,23 @@
 ---
-title: "Ust-Luga Container Terminal Panamax Sınıfı Gemilere Açıldı"
-subtitle: "Ust-Luga Container Terminal Panamax Sınıfı Gemilere Açıldı"
-date: "2024-08-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a91a9d74fde74e49a767d822e9b30c08~mv2.jpg"
-imageAlt: "Ust-Luga Container Terminal Panamax Sınıfı Gemilere Açıldı"
-wixId: "af7faf7a-e2b8-4298-a61d-6c6699d7fb31"
-author: "Sedat Onat"
+title: Ust-Luga Container Terminal Panamax Sınıfı Gemilere Açıldı
+subtitle: Ust-Luga Container Terminal Panamax Sınıfı Gemilere Açıldı
+date: '2024-08-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a91a9d74fde74e49a767d822e9b30c08~mv2.jpg
+imageAlt: Ust-Luga Container Terminal Panamax Sınıfı Gemilere Açıldı
+wixId: af7faf7a-e2b8-4298-a61d-6c6699d7fb31
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ust-Luga
+- Panamax
+- konteyner terminali
+- Global Ports
+- Rusya
+- draft
+- demiryolu bağlantısı
+- TEU
 ---
 <p>Ust-Luga Container Terminal (ULCT), Rusya'nın önde gelen deniz konteyner terminal operatörü Global Ports'un bir parçası ve Delo Group bünyesinde faaliyet göstermektedir. ULCT, kendi iskelelerinde gemilerin garantili draftını 12.1 metreden 12.6 metreye çıkaracak bir dizi önlemi hayata geçirdi. Bu yeni draft liman kaptanı tarafından 17 Temmuz 2024 tarihli emirle onaylandı. Yapılan bu iyileştirmeler sayesinde ULCT, Panamax sınıfı konteyner gemileri ve 65.000 tona kadar deplasman kapasitesine sahip kuru dökme yük gemilerini kabul edebilecek.</p>
 <p>Panamax sınıfı gemiler, 320 metreye kadar uzunluk, 32.3 metreye kadar genişlik ve 57.9 metreye kadar yükseklik gibi ölçülere sahip olup, yaklaşık 5.000 TEU konteyner kapasitesine sahiptir. ULCT'nin bu gemileri kabul etmesi, Global Ports'un müşterilerine daha büyük gemileri kullanma imkanı sağlayarak lojistik ve zaman maliyetlerini azaltma fırsatı sunacak. Bu da müşterilerin operasyonel verimliliklerini artırmalarına katkıda bulunacak.</p>

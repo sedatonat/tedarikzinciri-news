@@ -1,14 +1,23 @@
 ---
-title: "Nestlé, Dağıtım Ağı Optimizasyonuyla Maliyet, Dayanıklılık ve Sürdürülebilirliği Dengeliyor"
-subtitle: "Nestlé, Dağıtım Ağı Optimizasyonuyla Maliyet, Dayanıklılık ve Sürdürülebilirliği Dengeliyor"
-date: "2025-10-07T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b680461280114ce1a498cb419f717f77~mv2.jpg"
-imageAlt: "Nestlé, Dağıtım Ağı Optimizasyonuyla Maliyet, Dayanıklılık ve Sürdürülebilirliği Dengeliyor"
-wixId: "4b2e00ef-81b0-44e3-b580-6828b014757a"
-author: "Sedat Onat"
+title: Nestlé, Dağıtım Ağı Optimizasyonuyla Maliyet, Dayanıklılık ve Sürdürülebilirliği Dengeliyor
+subtitle: Nestlé, Dağıtım Ağı Optimizasyonuyla Maliyet, Dayanıklılık ve Sürdürülebilirliği Dengeliyor
+date: '2025-10-07T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b680461280114ce1a498cb419f717f77~mv2.jpg
+imageAlt: Nestlé, Dağıtım Ağı Optimizasyonuyla Maliyet, Dayanıklılık ve Sürdürülebilirliği Dengeliyor
+wixId: 4b2e00ef-81b0-44e3-b580-6828b014757a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Nestlé
+- dağıtım ağı optimizasyonu
+- yapay zeka
+- tedarik zinciri
+- sürdürülebilirlik
+- 3PL
+- CSCMP
+- network optimization
 ---
 <p style="text-align: justify"><strong>Nestlé USA</strong>, tedarik zinciri stratejisini her yıl yenileyen <strong>dağıtım ağı optimizasyon modeli (network optimization modeling)</strong> sayesinde hem <strong>toplam teslimat maliyetlerini düşürmekte</strong>, hem de <strong>risk, sürdürülebilirlik ve müşteri memnuniyetini</strong> aynı anda gözetmekte.</p>
 <p><br></p>

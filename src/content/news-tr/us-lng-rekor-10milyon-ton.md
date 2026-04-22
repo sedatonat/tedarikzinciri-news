@@ -1,13 +1,21 @@
 ---
-title: "ABD, Aylık 10 Milyon Ton LNG İhracatıyla Dünya Rekoru Kırdı"
-subtitle: "ABD, Aylık 10 Milyon Ton LNG İhracatıyla Dünya Rekoru Kırdı"
-date: "2025-11-03T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b95e431cef7648f79082d32b9c8b517d~mv2.jpg"
-wixId: "3ac92748-d614-4218-8661-7536cbabe693"
-author: "Sedat Onat"
+title: ABD, Aylık 10 Milyon Ton LNG İhracatıyla Dünya Rekoru Kırdı
+subtitle: ABD, Aylık 10 Milyon Ton LNG İhracatıyla Dünya Rekoru Kırdı
+date: '2025-11-03T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b95e431cef7648f79082d32b9c8b517d~mv2.jpg
+wixId: 3ac92748-d614-4218-8661-7536cbabe693
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD
+- LNG ihracatı
+- Cheniere Energy
+- Venture Global
+- Avrupa
+- Plaquemines LNG
+- doğal gaz
 ---
 <p style="text-align: justify">ABD, Ekim 2025’te <strong>10,1 milyon metrik ton (mmt)</strong> LNG ihraç ederek dünya tarihinde ilk kez tek bir ay içinde bu düzeyde LNG ihracatı gerçekleştiren ülke oldu. Finans kuruluşu <strong>LSEG</strong> tarafından paylaşılan öncü verilere göre bu miktar, bir önceki ayın revize edilmiş <strong>9,1 mmt</strong> sevkiyatının da üzerine çıkarak yeni bir rekor kırdı. Bu ivme, 2025 yılı boyunca ABD’nin yaşadığı dört ardışık rekor ayının devamı niteliğinde.</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "5 Ways to Protect Your Supply Chain Against Natural Disasters"
-subtitle: "5 Ways to Protect Your Supply Chain Against Natural Disasters"
-date: "2025-02-24T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_cc1d4302a9764e26a82b0c1f6aa052f9~mv2.jpg"
-imageAlt: "5 Ways to Protect Your Supply Chain Against Natural Disasters"
-wixId: "776275cf-d9be-47f8-9261-44f6bf14da8d"
-author: "Sedat Onat"
+title: 5 Ways to Protect Your Supply Chain Against Natural Disasters
+subtitle: 5 Ways to Protect Your Supply Chain Against Natural Disasters
+date: '2025-02-24T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_cc1d4302a9764e26a82b0c1f6aa052f9~mv2.jpg
+imageAlt: 5 Ways to Protect Your Supply Chain Against Natural Disasters
+wixId: 776275cf-d9be-47f8-9261-44f6bf14da8d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- natural disaster
+- risk management
+- supply chain
+- disaster planning
+- digital tools
+- Slimstock
+- supplier diversification
 ---
-
 <p style="text-align: justify">Natural disasters such as <strong>earthquakes</strong>, <strong>hurricanes</strong>, <strong>floods</strong>, and <strong>wildfires</strong> can seriously disrupt supply chain infrastructure and transportation networks. This disruption can interrupt business operations and negatively impact customer satisfaction. The following five strategies are recommended to protect the supply chain against such disasters.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>1. Risk Assessment and Planning</strong></p>

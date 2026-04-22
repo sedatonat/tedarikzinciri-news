@@ -1,14 +1,21 @@
 ---
-title: "Gartner 'ın Raporuna Göre, Satınalma Yöneticileri Yetenek Anketi Yayınlandı"
-subtitle: "Gartner 'ın Raporuna Göre, Satınalma Yöneticileri Yetenek Anketi Yayınlandı"
-date: "2023-11-29T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_655743bebb7d4029839093b61c815948~mv2.png"
-imageAlt: "Gartner 'ın Raporuna Göre, Satınalma Yöneticileri Yetenek Anketi Yayınlandı"
-wixId: "8bf765b8-f9ed-4af9-bf47-ee463fea85e4"
-author: "Sedat Onat"
+title: Gartner 'ın Raporuna Göre, Satınalma Yöneticileri Yetenek Anketi Yayınlandı
+subtitle: Gartner 'ın Raporuna Göre, Satınalma Yöneticileri Yetenek Anketi Yayınlandı
+date: '2023-11-29T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_655743bebb7d4029839093b61c815948~mv2.png
+imageAlt: Gartner 'ın Raporuna Göre, Satınalma Yöneticileri Yetenek Anketi Yayınlandı
+wixId: 8bf765b8-f9ed-4af9-bf47-ee463fea85e4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Gartner
+- satınalma
+- yetenek yönetimi
+- tedarik zinciri dönüşümü
+- teknoloji becerileri
+- veri becerileri
 ---
 <p>Consulting firması Gartner, Inc. tarafından Haziran 2023 'te gerçekleştirilen bir ankete göre, Satınalma Liderlerinin Sadece %14 'ü, fonksiyonun gelecekteki ihtiyaçlarını karşılama konusunda yeteneklerinden emin olduklarını ifade ediyor. Ankete katılan 111 Satınalma Liderinin mevcut ve gelecekteki yetenek ihtiyaçlarına ilişkin değerlendirmeleri arasında önemli bir farklılık ortaya çıktı.</p>
 <ul>

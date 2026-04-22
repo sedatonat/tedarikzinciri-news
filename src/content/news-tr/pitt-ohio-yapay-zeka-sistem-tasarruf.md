@@ -1,14 +1,22 @@
 ---
-title: "PITT OHIO, Yapay Zeka Destekli Sistemle 11 Milyon Dolar Tasarruf Sağladı"
-subtitle: "PITT OHIO, Yapay Zeka Destekli Sistemle 11 Milyon Dolar Tasarruf Sağladı"
-date: "2024-11-04T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_45572e24b87c401299989e6c6017ccef~mv2.jpg"
-imageAlt: "PITT OHIO, Yapay Zeka Destekli Sistemle 11 Milyon Dolar Tasarruf Sağladı"
-wixId: "94a4d5df-9378-4786-acf6-fa6ffaad3d02"
-author: "Sedat Onat"
+title: PITT OHIO, Yapay Zeka Destekli Sistemle 11 Milyon Dolar Tasarruf Sağladı
+subtitle: PITT OHIO, Yapay Zeka Destekli Sistemle 11 Milyon Dolar Tasarruf Sağladı
+date: '2024-11-04T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_45572e24b87c401299989e6c6017ccef~mv2.jpg
+imageAlt: PITT OHIO, Yapay Zeka Destekli Sistemle 11 Milyon Dolar Tasarruf Sağladı
+wixId: 94a4d5df-9378-4786-acf6-fa6ffaad3d02
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- PITT OHIO
+- yapay zeka
+- Maven
+- LTL taşımacılık
+- filo yönetimi
+- dijital dönüşüm
+- maliyet tasarrufu
 ---
 <p>Pennsylvania merkezli PITT OHIO, 40 yılı aşkın süredir less-than-truckload (LTL), depolama ve tam kamyon yükü taşımacılığı hizmetleri sunmaktadır. Şirket, kamyonculuk ve teslimat hizmetlerini daha verimli hale getirmek amacıyla, eski işletim sistemlerini yapay zeka destekli bir kurumsal modelle değiştirdi. Bu yeni platformun ilk lansmanından bu yana şirkete 11 milyon dolardan fazla tasarruf sağladığı bildirildi.</p>
 <p><br></p>

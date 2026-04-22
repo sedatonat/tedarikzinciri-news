@@ -1,16 +1,24 @@
 ---
-title: "MSC Set to Maintain Leadership Through 2026"
-subtitle: "MSC Set to Maintain Leadership Through 2026"
-date: "2024-05-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_26c35892a5374fe0ae36bfeb1b74ff8d~mv2.png"
-imageAlt: "MSC Set to Maintain Leadership Through 2026"
-wixId: "b760624f-d293-4aad-9b6c-af61408f9439"
-author: "Sedat Onat"
+title: MSC Set to Maintain Leadership Through 2026
+subtitle: MSC Set to Maintain Leadership Through 2026
+date: '2024-05-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_26c35892a5374fe0ae36bfeb1b74ff8d~mv2.png
+imageAlt: MSC Set to Maintain Leadership Through 2026
+wixId: b760624f-d293-4aad-9b6c-af61408f9439
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- MSC
+- CMA CGM
+- Maersk
+- container shipping
+- fleet size
+- Sea-Intelligence
+- Hapag-Lloyd
+- ONE
 ---
-
 <p>According to the latest forecasts from analysis firm Sea-Intelligence, MSC will continue to solidify its position as the world's largest shipping carrier through 2026 by significantly expanding its fleet. Traditional methodologies tend to estimate future fleet sizes by simply adding order books to existing fleet dimensions, but this approach overlooks changes in the secondhand market transactions and shifts in the use of chartered vessels.</p>
 <p><br></p>
 <p>Sea-Intelligence recommends making more meaningful predictions by examining carriers' past fleet adjustment strategies. According to this analysis, calculations based on simple forecasting methods typically overestimate actual growth.</p>

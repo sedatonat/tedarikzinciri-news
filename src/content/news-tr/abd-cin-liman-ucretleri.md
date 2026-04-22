@@ -1,14 +1,22 @@
 ---
-title: "ABD ve Çin, Ticaret Anlaşması Kapsamında Karşılıklı Liman Ücretlerini Bir Yıllığına Askıya Aldı"
-subtitle: "ABD ve Çin, Ticaret Anlaşması Kapsamında Karşılıklı Liman Ücretlerini Bir Yıllığına Askıya Aldı"
-date: "2025-10-30T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_0fd3a3038fcd48f1a49a8381dea4e48e~mv2.jpg"
-imageAlt: "ABD Başkanı Donald Trump ve Çin Devlet Başkanı Xi Jinping, Güney Kore’deki APEC Zirvesi kapsamında gerçekleştirdikleri görüşmede, iki ülke arasındaki liman ücretleri ve ticari yaptırımların bir bölümünü bir yıl süreyle askıya alma kararı aldı."
-wixId: "27d2234f-f756-4a3a-962f-6cb61e171e87"
-author: "Sedat Onat"
+title: ABD ve Çin, Ticaret Anlaşması Kapsamında Karşılıklı Liman Ücretlerini Bir Yıllığına Askıya Aldı
+subtitle: ABD ve Çin, Ticaret Anlaşması Kapsamında Karşılıklı Liman Ücretlerini Bir Yıllığına Askıya Aldı
+date: '2025-10-30T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_0fd3a3038fcd48f1a49a8381dea4e48e~mv2.jpg
+imageAlt: ABD Başkanı Donald Trump ve Çin Devlet Başkanı Xi Jinping, Güney Kore’deki APEC Zirvesi kapsamında gerçekleştirdikleri görüşmede, iki ülke arasındaki liman ücretleri ve ticari yaptırımların bir bölümünü bir yıl süreyle askıya alma kararı aldı.
+wixId: 27d2234f-f756-4a3a-962f-6cb61e171e87
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD-Çin ticaret anlaşması
+- liman ücretleri
+- APEC zirvesi
+- deniz taşımacılığı
+- konteyner taşımacılığı
+- ticaret savaşı
+- navlun maliyetleri
 ---
 <p style="text-align: justify"><strong>ABD ve Çin</strong>, ticaret gerilimlerini azaltmaya yönelik çabaların bir parçası olarak, <strong>karşılıklı liman ücretlerini (reciprocal port fees)</strong> <strong>bir yıllığına askıya alma</strong> konusunda anlaşmaya vardı. Karar, <strong>30 Ekim 2025’te Güney Kore’de düzenlenen Asya-Pasifik Ekonomik İşbirliği (APEC)</strong> zirvesi sırasında <strong>ABD Başkanı Donald Trump</strong> ve <strong>Çin Devlet Başkanı Xi Jinping</strong> arasında yapılan görüşmede açıklandı.</p>
 <p><br></p>

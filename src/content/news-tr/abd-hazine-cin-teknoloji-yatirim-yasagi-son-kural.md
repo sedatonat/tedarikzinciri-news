@@ -1,14 +1,23 @@
 ---
-title: "ABD Hazine Bakanlığı Çin'e Yatırım Yasağını Son Haline Getirdi"
-subtitle: "ABD Hazine Bakanlığı Çin'e Yatırım Yasağını Son Haline Getirdi"
-date: "2024-10-30T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_3eea29c429b54944bef019a29d21f289~mv2.jpg"
-imageAlt: "ABD Hazine Bakanlığı Çin'e Yatırım Yasağını Son Haline Getirdi"
-wixId: "f3a1c6b0-e1f8-46cc-8f4c-10123a984cca"
-author: "Sedat Onat"
+title: ABD Hazine Bakanlığı Çin'e Yatırım Yasağını Son Haline Getirdi
+subtitle: ABD Hazine Bakanlığı Çin'e Yatırım Yasağını Son Haline Getirdi
+date: '2024-10-30T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_3eea29c429b54944bef019a29d21f289~mv2.jpg
+imageAlt: ABD Hazine Bakanlığı Çin'e Yatırım Yasağını Son Haline Getirdi
+wixId: f3a1c6b0-e1f8-46cc-8f4c-10123a984cca
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD
+- Çin
+- yatırım yasağı
+- yapay zeka
+- yarı iletken
+- kuantum bilişim
+- tedarik zinciri
+- ulusal güvenlik
 ---
 <p>ABD Hazine Bakanlığı, ulusal güvenlik endişeleri nedeniyle Çin'deki yarı iletkenler, yapay zeka ve kuantum bilişim alanlarına yapılacak yatırımları yasaklayan bir kuralı nihai hale getirdi. Hazine Bakan Yardımcısı Paul Rosen, 28 Ekim tarihli açıklamasında, "Biden-Harris Yönetimi, Amerika'nın ulusal güvenliğini korumaya ve kritik ileri teknolojilerin, ulusal güvenliğimizi tehdit edebileceklerin eline geçmesini önlemeye kararlıdır. Yapay zeka, yarı iletkenler ve kuantum teknolojileri, bir sonraki nesil askeri, gözetim, istihbarat ve belirli siber güvenlik uygulamalarının geliştirilmesinde temeldir," ifadelerini kullandı.</p>
 <p><br></p>

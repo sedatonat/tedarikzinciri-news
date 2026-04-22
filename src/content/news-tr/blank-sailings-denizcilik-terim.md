@@ -1,14 +1,22 @@
 ---
-title: "Blank Sailing Nedir ve Yük Sahipleri İçin Ne Anlama Gelir?"
-subtitle: "Blank Sailing Nedir ve Yük Sahipleri İçin Ne Anlama Gelir?"
-date: "2025-11-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4875860a00f64767bc146c1960e5242e~mv2.jpg"
-imageAlt: "Blank sailing, taşıyıcının bir seferi tamamen iptal etmesi veya rotadaki bazı liman çağrılarını atlamasıdır; bu durum daha uzun transit süreleri, ek maliyetler ve planlama zorlukları yaratır."
-wixId: "bdf3ad2b-5d8f-4eba-9959-94c1d6c2bb58"
-author: "Sedat Onat"
+title: Blank Sailing Nedir ve Yük Sahipleri İçin Ne Anlama Gelir?
+subtitle: Blank Sailing Nedir ve Yük Sahipleri İçin Ne Anlama Gelir?
+date: '2025-11-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4875860a00f64767bc146c1960e5242e~mv2.jpg
+imageAlt: Blank sailing, taşıyıcının bir seferi tamamen iptal etmesi veya rotadaki bazı liman çağrılarını atlamasıdır; bu durum daha uzun transit süreleri, ek maliyetler ve planlama zorlukları yaratır.
+wixId: bdf3ad2b-5d8f-4eba-9959-94c1d6c2bb58
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- blank sailing
+- konteyner taşımacılığı
+- tedarik zinciri
+- kapasite yönetimi
+- navlun
+- liman sıkışıklığı
+- Maersk
 ---
 <p style="text-align: justify">Küresel tedarik zincirindeki belirsizlikler arttıkça, <strong>blank sailing</strong> —yani bir gemi seferinin iptal edilmesi veya planlanan liman çağrılarının atlanması— taşıyıcılar tarafından daha sık kullanılan bir kapasite yönetimi aracı hâline geldi. Blank sailing; düşük talep, yoğun liman sıkışıklığı, hava koşulları, jeopolitik riskler veya maliyet kontrolü gibi nedenlerle uygulanıyor ve tıpkı iptal edilen bir uçak seferi gibi tedarik zincirinde ani kırılmalara yol açabiliyor.</p>
 <p><br></p>

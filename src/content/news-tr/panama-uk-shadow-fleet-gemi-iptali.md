@@ -1,14 +1,22 @@
 ---
-title: "Panama, İngiltere’nin Shadow Fleet Operasyonunun Ardından Gemi Kayıtlarını İptal Etti"
-subtitle: "Panama, İngiltere’nin Shadow Fleet Operasyonunun Ardından Gemi Kayıtlarını İptal Etti"
-date: "2024-11-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_48f8b4dbc0d441398bd67b0565fd4d2e~mv2.jpg"
-imageAlt: "Panama, İngiltere’nin Shadow Fleet Operasyonunun Ardından Gemi Kayıtlarını İptal Etti"
-wixId: "ef735985-bfd8-47a1-b87d-791419544db4"
-author: "Sedat Onat"
+title: Panama, İngiltere’nin Shadow Fleet Operasyonunun Ardından Gemi Kayıtlarını İptal Etti
+subtitle: Panama, İngiltere’nin Shadow Fleet Operasyonunun Ardından Gemi Kayıtlarını İptal Etti
+date: '2024-11-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_48f8b4dbc0d441398bd67b0565fd4d2e~mv2.jpg
+imageAlt: Panama, İngiltere’nin Shadow Fleet Operasyonunun Ardından Gemi Kayıtlarını İptal Etti
+wixId: ef735985-bfd8-47a1-b87d-791419544db4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Panama
+- shadow fleet
+- gemi kaydı
+- İngiltere yaptırımları
+- denizcilik otoritesi
+- Rusya
+- tanker filosu
 ---
 <p>Panama Maritime Authority (PMA), Birleşik Krallık’ın finansal yaptırım hedefleri konsolide listesine 25 Kasım 2024 tarihinde eklenen altı Panamalı bayraklı gemiye yönelik hızlı iptal prosedürlerini başlattı. Bu hamle, PMA’nın Ekim ayında yayınladığı Yönetmelik Kararnamesi 512 kapsamında, uluslararası yaptırım listelerinde yer alan gemilerin kayıt ve navigasyon lisanslarını hızla iptal etme yetkisini genişletmesiyle mümkün oldu.</p>
 <p><br></p>

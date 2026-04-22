@@ -1,14 +1,22 @@
 ---
-title: "Küresel Üretimde Mayıs Sıçraması: 14 Ay Sonra İlk Kez Pozitif Yönde"
-subtitle: "Küresel Üretimde Mayıs Sıçraması: 14 Ay Sonra İlk Kez Pozitif Yönde"
-date: "2024-06-13T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_df9aa7fbec8c420bbdc66aaafb4cd048~mv2.jpg"
-imageAlt: "Küresel Üretimde Mayıs Sıçraması: 14 Ay Sonra İlk Kez Pozitif Yönde"
-wixId: "4bfc372d-abd9-4976-aae8-245e2de194cf"
-author: "Sedat Onat"
+title: 'Küresel Üretimde Mayıs Sıçraması: 14 Ay Sonra İlk Kez Pozitif Yönde'
+subtitle: 'Küresel Üretimde Mayıs Sıçraması: 14 Ay Sonra İlk Kez Pozitif Yönde'
+date: '2024-06-13T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_df9aa7fbec8c420bbdc66aaafb4cd048~mv2.jpg
+imageAlt: 'Küresel Üretimde Mayıs Sıçraması: 14 Ay Sonra İlk Kez Pozitif Yönde'
+wixId: 4bfc372d-abd9-4976-aae8-245e2de194cf
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- küresel üretim
+- tedarik zinciri
+- GEP
+- üretim endeksi
+- satın alma faaliyeti
+- Asya
+- emtia fiyatları
 ---
 <p>Küresel üretim faaliyetleri Mayıs ayında büyük bir sıçrama yaparak son 14 ay içinde ilk kez pozitif yönde hareket etti ve 2024'ün ikinci yarısı için "güçlü bir görünüm" sundu. New Jersey merkezli yazılım satıcısı GEP'nin "GEP Küresel Tedarik Zinciri Dalgalanma Endeksi" raporuna göre, bu artış, talep koşulları, tedarik sıkıntıları, taşımacılık maliyetleri, envanterler ve birikmiş işlerin aylık olarak 27.000 işletme üzerinden yapılan bir anketle takip edilmesi sonucu ortaya çıktı.</p>
 <p><br></p>

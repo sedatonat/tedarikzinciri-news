@@ -1,14 +1,21 @@
 ---
-title: "Accenture Expands Sourcing and Procurement Services with Acquisition of Insight Sourcing"
-subtitle: "Accenture Expands Sourcing and Procurement Services with Acquisition of Insight Sourcing"
-date: "2024-02-13T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_2218dd51b6224125973d27ebf1caee64~mv2.jpg"
-imageAlt: "Accenture Expands Sourcing and Procurement Services with Acquisition of Insight Sourcing"
-wixId: "b05103ff-8b36-46d1-8c6f-676c9719da6b"
-author: "Sedat Onat"
+title: Accenture Expands Sourcing and Procurement Services with Acquisition of Insight Sourcing
+subtitle: Accenture Expands Sourcing and Procurement Services with Acquisition of Insight Sourcing
+date: '2024-02-13T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_2218dd51b6224125973d27ebf1caee64~mv2.jpg
+imageAlt: Accenture Expands Sourcing and Procurement Services with Acquisition of Insight Sourcing
+wixId: b05103ff-8b36-46d1-8c6f-676c9719da6b
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Accenture
+- Insight Sourcing
+- procurement
+- supply chain
+- private equity
+- strategic sourcing
+- cost optimization
 ---
-
 <p><a href="https://www.accenture.com/us-en"><u>Accenture</u></a> announced it will acquire <a href="https://www.insightsourcing.com/"><u>Insight Sourcing</u></a>, an Atlanta-based strategic sourcing firm that provides strategic sourcing and procurement services.&nbsp;</p>\n<p><br></p>\n<p>The move aims to expand sourcing and procurement services, particularly for private equity firms and clients in the consumer products, retail, technology, and industrial sectors. <a href="https://www.insightsourcing.com/"><u>Insight Sourcing</u></a> will add approximately 220 sourcing consultants and more than 40 technology procurement tools to <a href="https://www.accenture.com/us-en"><u>Accenture's</u></a> Supply Chain &amp; Operations business unit. These tools will accelerate value realization for clients.</p>\n<p><br></p>\n<p><a href="https://www.insightsourcing.com/"><u>Insight Sourcing</u></a> supports its clients by delivering cost optimization in:</p>\n<ul>\n  <li><p>Direct materials: metals, electronics, food ingredients, chemicals, clinical services</p></li>\n  <li><p>Indirect materials: logistics, packaging, IT, marketing</p></li>\n  <li><p>Capital expenditure-related services: construction, facility equipment</p></li>\n  <li><p>Energy procurement management&nbsp;</p></li>\n</ul>\n<p></p>\n<p><br></p>\n<p>This acquisition is part of <a href="https://www.accenture.com/us-en"><u>Accenture's</u></a> strategy to expand capabilities for private equity clients. <a href="https://www.insightsourcing.com/"><u>Insight Sourcing</u></a> serves more than 60 companies in the industry, including 10 of the top 25 private equity funds in North America. <a href="https://www.accenture.com/us-en"><u>Accenture</u></a> recently added other sourcing and procurement service providers to its portfolio, such as <a href="https://impendi.com/"><u>Impendi</u></a> and <a href="https://www.theshelbygroup.com/"><u>The Shelby Group</u></a>, which support private equity firms.</p>\n<p><br></p>\n<p><a href="https://www.accenture.com/us-en/about/leadership/leadership-index"><u>Muqsit Ashraf</u></a>, Accenture's Global Strategy Lead, stated that the acquisition was made in response to private equity investors' search for value-creating, customized, and repeatable solutions. With the addition of <a href="https://www.insightsourcing.com/"><u>Insight Sourcing</u></a>, <a href="https://www.accenture.com/us-en"><u>Accenture's</u></a> proven expertise in strategy, consulting, technology, and managed services will be complemented by critical spending and sourcing capabilities.</p>\n<p><br></p>\n<p><br></p>\n<p><strong>Key Points:</strong></p>\n<ul>\n  <li><p>Accenture will acquire Insight Sourcing.</p></li>\n  <li><p>The acquisition will add 220 consultants and 40 technology tools to Accenture.</p></li>\n  <li><p>Insight Sourcing delivers cost optimization particularly in direct and indirect materials, capital expenditure-related services, and energy procurement management.</p></li>\n  <li><p>Accenture aims to expand its capabilities for private equity clients through this acquisition.</p></li>\n  <li><p>Insight Sourcing serves major private equity funds in North America.</p></li>\n  <li><p>Accenture provides expertise in strategy, consulting, technology, and managed services for private equity.</p></li>\n</ul>\n<p><br></p>\n<p><strong>News Link:</strong> <a href="https://newsroom.accenture.com/news/2024/accenture-to-strengthen-sourcing-and-procurement-services-with-acquisition-of-insight-sourcing"><u>https://newsroom.accenture.com/news/2024/accenture-to-strengthen-sourcing-and-procurement-services-with-acquisition-of-insight-sourcing</u></a></p>

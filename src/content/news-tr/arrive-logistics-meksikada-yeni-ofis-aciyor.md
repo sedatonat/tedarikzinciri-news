@@ -1,14 +1,22 @@
 ---
-title: "Arrive Logistics, Nearshoring Akımıyla Meksika'da Yeni Bir Ofis Açıyor"
-subtitle: "Arrive Logistics, Nearshoring Akımıyla Meksika'da Yeni Bir Ofis Açıyor"
-date: "2024-02-14T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d421bbec6cba46319d09d27f59af6626~mv2.jpg"
-imageAlt: "Arrive Logistics, Nearshoring Akımıyla Meksika'da Yeni Bir Ofis Açıyor"
-wixId: "9c61268a-3999-48b4-9460-8e505e74116d"
-author: "Sedat Onat"
+title: Arrive Logistics, Nearshoring Akımıyla Meksika'da Yeni Bir Ofis Açıyor
+subtitle: Arrive Logistics, Nearshoring Akımıyla Meksika'da Yeni Bir Ofis Açıyor
+date: '2024-02-14T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_d421bbec6cba46319d09d27f59af6626~mv2.jpg
+imageAlt: Arrive Logistics, Nearshoring Akımıyla Meksika'da Yeni Bir Ofis Açıyor
+wixId: 9c61268a-3999-48b4-9460-8e505e74116d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- nearshoring
+- Meksika
+- Arrive Logistics
+- 3PL
+- sınır ötesi operasyon
+- Guadalajara
+- nakliye brokeri
 ---
 <p>Son zamanlarda, üretim ve imalat aşamalarını ABD'ye daha yakın bölgelere taşıma eğilimi olan "<a href="https://www.tedarikzinciriportali.com/post/terim-nearshoring-yakin-ulkede-uretim"><u>Nearshoring</u></a>" akımı, ABD merkezli lojistik sağlayıcılarının Meksika'da tesis açmalarına ilham vermiştir. Bu trende uyarak, nakliye brokeri <a href="https://www.arrivelogistics.com/"><u>Arrive Logistics</u></a>, <a href="https://www.google.com/search?q=guadalajara&amp;oq=Guadalajara&amp;gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyDQgDEC4YrwEYxwEYgAQyBwgEEC4YgAQyBwgFEAAYgAQyBwgGEAAYgAQyBggHEEUYPNIBBzMzN2owajeoAgCwAgA&amp;sourceid=chrome&amp;ie=UTF-8#eim=CAEQDBoKMjAuNjc1MTcwNyITLTEwMy4zNDczMzg0OTk5OTk5OQ"><u>Guadalajara </u></a>ofisini açıkladı.&nbsp;</p>
 <p><br></p>

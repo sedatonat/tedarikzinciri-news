@@ -1,14 +1,22 @@
 ---
-title: "Union Pacific ve Norfolk Southern Birleşmesi Sonuçları"
-subtitle: "Union Pacific ve Norfolk Southern Birleşmesi Sonuçları"
-date: "2025-10-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_814b0a7fa2e24adba1fe2bb262e4e74e~mv2.jpg"
-imageAlt: "Union Pacific ve Norfolk Southern Birleşmesi Sonuçları"
-wixId: "0ecc410e-3614-48c0-89a5-318714a82432"
-author: "Sedat Onat"
+title: Union Pacific ve Norfolk Southern Birleşmesi Sonuçları
+subtitle: Union Pacific ve Norfolk Southern Birleşmesi Sonuçları
+date: '2025-10-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_814b0a7fa2e24adba1fe2bb262e4e74e~mv2.jpg
+imageAlt: Union Pacific ve Norfolk Southern Birleşmesi Sonuçları
+wixId: 0ecc410e-3614-48c0-89a5-318714a82432
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Union Pacific
+- Norfolk Southern
+- demiryolu birleşmesi
+- vagon yükü taşımacılığı
+- transit süre
+- Chicago
+- doğu-batı geçiş noktaları
 ---
 <p><strong>Union Pacific (UP)</strong> ve <strong>Norfolk Southern (NS)</strong>, birleşmelerinin özellikle <strong>vagon yükü (carload)</strong> taşımacılığında transit sürelerini <strong>iki güne kadar kısaltabileceğini</strong> iddia ediyor.</p>
 <p><br>

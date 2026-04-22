@@ -1,16 +1,23 @@
 ---
-title: "DeepOcean Wins Major Subsea Decommissioning Project Off Western Australia"
-subtitle: "DeepOcean Wins Major Subsea Decommissioning Project Off Western Australia"
-date: "2025-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8f654f89398b4ae3b0c029d29fdb735e~mv2.jpg"
-imageAlt: "DeepOcean has secured a new contract for subsea decommissioning operations in oil and gas fields offshore Western Australia. The project will combine Shelf Subsea's regional expertise with DeepOcean's global experience."
-wixId: "87ea53e3-eaaa-4be9-abea-8aa7520e9b28"
-author: "Sedat Onat"
+title: DeepOcean Wins Major Subsea Decommissioning Project Off Western Australia
+subtitle: DeepOcean Wins Major Subsea Decommissioning Project Off Western Australia
+date: '2025-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8f654f89398b4ae3b0c029d29fdb735e~mv2.jpg
+imageAlt: DeepOcean has secured a new contract for subsea decommissioning operations in oil and gas fields offshore Western Australia. The project will combine Shelf Subsea's regional expertise with DeepOcean's global experience.
+wixId: 87ea53e3-eaaa-4be9-abea-8aa7520e9b28
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- DeepOcean
+- Western Australia
+- subsea infrastructure
+- decommissioning
+- Shelf Subsea
+- offshore services
+- oil and gas
 ---
-
 <p style="text-align: justify"><strong>Norwegian-based offshore service provider DeepOcean</strong> has secured a significant contract for <strong>subsea decommissioning of production infrastructure in oil and gas fields offshore Western Australia</strong>. This project marks a <strong>milestone in strengthening the company's presence in Australia's energy market</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">According to company statements, the scope of work includes <strong>the safe shutdown and removal of subsea production systems</strong>. Specifically:</p>

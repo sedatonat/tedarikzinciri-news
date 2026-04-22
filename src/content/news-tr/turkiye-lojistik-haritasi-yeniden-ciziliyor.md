@@ -1,14 +1,21 @@
 ---
-title: "Türkiye'nin Lojistik Haritası Yeniden Çiziliyor: 2053 Vizyonu"
-subtitle: "Türkiye'nin Lojistik Haritası Yeniden Çiziliyor: 2053 Vizyonu"
-date: "2024-02-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9a10dbaf57914f80acea28d26ba75c2f~mv2.jpg"
-imageAlt: "Türkiye'nin Lojistik Haritası Yeniden Çiziliyor: 2053 Vizyonu"
-wixId: "3009fe66-582e-4cde-8254-e37ab783ea8c"
-author: "Sedat Onat"
+title: 'Türkiye''nin Lojistik Haritası Yeniden Çiziliyor: 2053 Vizyonu'
+subtitle: 'Türkiye''nin Lojistik Haritası Yeniden Çiziliyor: 2053 Vizyonu'
+date: '2024-02-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_9a10dbaf57914f80acea28d26ba75c2f~mv2.jpg
+imageAlt: 'Türkiye''nin Lojistik Haritası Yeniden Çiziliyor: 2053 Vizyonu'
+wixId: 3009fe66-582e-4cde-8254-e37ab783ea8c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- lojistik merkezi
+- Kemalpaşa
+- demiryolu taşımacılığı
+- 2053 vizyonu
+- altyapı yatırımı
+- İzmir
 ---
 <p>İzmir programı kapsamında Kemalpaşa Lojistik Merkezi'nde incelemelerde bulunan Uraloğlu'nun açıklamalarına göre;</p>
 <p><br></p>

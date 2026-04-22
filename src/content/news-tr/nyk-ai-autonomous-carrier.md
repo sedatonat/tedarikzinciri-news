@@ -1,14 +1,22 @@
 ---
-title: "NYK, Yapay Zekâ Destekli Otonom Seyir Sistemine Sahip Yeni Nesil Araç Taşıyıcısı Sipariş Etti"
-subtitle: "NYK, Yapay Zekâ Destekli Otonom Seyir Sistemine Sahip Yeni Nesil Araç Taşıyıcısı Sipariş Etti"
-date: "2025-12-10T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_3ff5855f228b4827b04721bd92b526e4~mv2.jpg"
-imageAlt: "NYK’nin Shinkai Toyohashi Shipbuilding’e sipariş ettiği, MEGURI2040 programı kapsamında geliştirilen AI tabanlı otonom seyir ve Marine DX sistemleriyle donatılmış yeni nesil araç taşıyıcısının teknik özellikleri ve deniz güvenliğine etkileri"
-wixId: "0f54517c-52c9-4bd0-afa2-646a44072df7"
-author: "Sedat Onat"
+title: NYK, Yapay Zekâ Destekli Otonom Seyir Sistemine Sahip Yeni Nesil Araç Taşıyıcısı Sipariş Etti
+subtitle: NYK, Yapay Zekâ Destekli Otonom Seyir Sistemine Sahip Yeni Nesil Araç Taşıyıcısı Sipariş Etti
+date: '2025-12-10T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_3ff5855f228b4827b04721bd92b526e4~mv2.jpg
+imageAlt: NYK’nin Shinkai Toyohashi Shipbuilding’e sipariş ettiği, MEGURI2040 programı kapsamında geliştirilen AI tabanlı otonom seyir ve Marine DX sistemleriyle donatılmış yeni nesil araç taşıyıcısının teknik özellikleri ve deniz güvenliğine etkileri
+wixId: 0f54517c-52c9-4bd0-afa2-646a44072df7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- NYK
+- otonom seyir
+- yapay zeka
+- araç taşıyıcı
+- MEGURI2040
+- deniz taşımacılığı
+- dijital dönüşüm
 ---
 <p style="text-align: justify">Japon denizcilik ve lojistik grubu <strong>NYK (Nippon Yusen Kabushiki Kaisha)</strong>, deniz taşımacılığında dijitalleşme ve otonomi alanında önemli bir adım atmakta. Şirket, <strong>Shinkai Toyohashi Shipbuilding</strong> tersanesine, <strong>AI-enabled autonomous navigation</strong> ve kapsamlı <strong>Marine DX (Digital Transformation)</strong> sistemleriyle donatılmış yeni nesil bir <strong>pure car carrier</strong> siparişi verdiğini açıkladı. Yaklaşık <strong>200 metre uzunluğunda</strong> ve <strong>38 metre genişliğinde</strong> olan geminin, <strong>31 Mart 2026</strong> tarihinde teslim edilmesi planlanmakta.</p>
 <p><br></p>

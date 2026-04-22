@@ -1,14 +1,23 @@
 ---
-title: "Procter & Gamble Operasyonlarında TMS Kesintisinin Etkileri"
-subtitle: "Procter & Gamble Operasyonlarında TMS Kesintisinin Etkileri"
-date: "2025-01-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_af879fef607b40c6995ef30f3e8c09e1~mv2.jpg"
-imageAlt: "Procter & Gamble Operasyonlarında TMS Kesintisinin Etkileri"
-wixId: "6dd5ca3b-00f7-4c52-aabb-b548cf220f99"
-author: "Sedat Onat"
+title: Procter & Gamble Operasyonlarında TMS Kesintisinin Etkileri
+subtitle: Procter & Gamble Operasyonlarında TMS Kesintisinin Etkileri
+date: '2025-01-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_af879fef607b40c6995ef30f3e8c09e1~mv2.jpg
+imageAlt: Procter & Gamble Operasyonlarında TMS Kesintisinin Etkileri
+wixId: 6dd5ca3b-00f7-4c52-aabb-b548cf220f99
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Procter & Gamble
+- Blue Yonder
+- TMS
+- sistem kesintisi
+- tedarik zinciri
+- lojistik operasyonları
+- teknoloji bağımlılığı
+- iş sürekliliği
 ---
 <p style="text-align: justify">Procter &amp; Gamble (<strong>P&amp;G</strong>), tedarik zinciri yönetiminde kullanılan <strong>Blue Yonder</strong> ulaşım yönetim sistemi (<strong>TMS</strong>) kaynaklı büyük bir kesinti nedeniyle lojistik operasyonlarında ciddi aksamalar yaşamakta. Kesinti, <strong>Şubat 2024</strong>'te başladı ve devam eden süreçte <strong>P&amp;G</strong>’nin sevkiyat süreçlerini olumsuz etkiledi. Şirket, sorunun çözümü için hem <strong>Blue Yonder</strong> ile hem de alternatif çözüm yolları üzerinde çalışmakta.</p>
 <p style="text-align: justify"><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "Mitsubishi Electric's MiFly Warehouse Drones Navigate in Darkness"
-subtitle: "Mitsubishi Electric's MiFly Warehouse Drones Navigate in Darkness"
-date: "2025-02-19T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_41297c7389ee4f2bb4f252972f96655f~mv2.jpg"
-imageAlt: "Mitsubishi Electric's MiFly Warehouse Drones Navigate in Darkness"
-wixId: "6b3d8f01-12ce-4bc4-8abf-336c87002c6e"
-author: "Sedat Onat"
+title: Mitsubishi Electric's MiFly Warehouse Drones Navigate in Darkness
+subtitle: Mitsubishi Electric's MiFly Warehouse Drones Navigate in Darkness
+date: '2025-02-19T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_41297c7389ee4f2bb4f252972f96655f~mv2.jpg
+imageAlt: Mitsubishi Electric's MiFly Warehouse Drones Navigate in Darkness
+wixId: 6b3d8f01-12ce-4bc4-8abf-336c87002c6e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Mitsubishi Electric
+- MiFly
+- warehouse drone
+- AI
+- inventory management
+- warehouse automation
+- logistics technology
 ---
-
 <p style="text-align: justify"><strong>Mitsubishi Electric</strong>'s drones called <strong>MiFly</strong> are drawing attention for their ability to navigate in dark warehouse environments. This innovative technology has the potential to revolutionize the storage and logistics sector.​</p>
 <p><br></p>
 <p style="text-align: justify">Developed to increase automation and efficiency in warehouses, <strong>MiFly</strong> drones can operate without requiring light. This feature provides energy savings while reducing operational costs. Moreover, thanks to their ability to work in dark environments, they enable 24/7 uninterrupted warehouse operations.​</p>

@@ -1,16 +1,23 @@
 ---
-title: "Mongolia's Growing Role in China's Coal Supply"
-subtitle: "Mongolia's Growing Role in China's Coal Supply"
-date: "2025-01-21T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_6cb973cc0f6e4e4ea5493ab124a722a3~mv2.jpg"
-imageAlt: "Mongolia's Growing Role in China's Coal Supply"
-wixId: "07185edb-1944-4020-89f6-908538d8ff0a"
-author: "Sedat Onat"
+title: Mongolia's Growing Role in China's Coal Supply
+subtitle: Mongolia's Growing Role in China's Coal Supply
+date: '2025-01-21T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_6cb973cc0f6e4e4ea5493ab124a722a3~mv2.jpg
+imageAlt: Mongolia's Growing Role in China's Coal Supply
+wixId: 07185edb-1944-4020-89f6-908538d8ff0a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- coal supply
+- Mongolia
+- China
+- Russia
+- energy security
+- mining
+- trade volume
 ---
-
 <p style="text-align: justify">​China's coal demand has stabilized in recent years. This development places <strong>Mongolia</strong>, China's southern neighbor, in an advantageous position to maintain or expand its market share. In particular, the declining share of <strong>Russia</strong>'s coal exports to China is expanding opportunities for Mongolia in this sector. ​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Mongolia</strong> stands out as a country with abundant coal reserves. Thanks to its geographic proximity and low transportation costs, it holds an important position as a major coal supplier to China. In recent years, the trade volume between the two countries has been increasing, and this trend is expected to continue.​</p>

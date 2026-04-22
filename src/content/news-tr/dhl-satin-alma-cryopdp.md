@@ -1,14 +1,23 @@
 ---
-title: "DHL, ABD’li İlaç Lojistik Şirketi Cryopdp’yi Satın Alıyor"
-subtitle: "DHL, ABD’li İlaç Lojistik Şirketi Cryopdp’yi Satın Alıyor"
-date: "2025-03-31T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5f5a8fd7e1c64bce85c88868e49bdd63~mv2.jpg"
-imageAlt: "DHL, ABD’li İlaç Lojistik Şirketi Cryopdp’yi Satın Alıyor"
-wixId: "599783ad-99c9-4f5b-8ae1-8431c5fd885f"
-author: "Sedat Onat"
+title: DHL, ABD’li İlaç Lojistik Şirketi Cryopdp’yi Satın Alıyor
+subtitle: DHL, ABD’li İlaç Lojistik Şirketi Cryopdp’yi Satın Alıyor
+date: '2025-03-31T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5f5a8fd7e1c64bce85c88868e49bdd63~mv2.jpg
+imageAlt: DHL, ABD’li İlaç Lojistik Şirketi Cryopdp’yi Satın Alıyor
+wixId: 599783ad-99c9-4f5b-8ae1-8431c5fd885f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DHL
+- Cryopdp
+- soğuk zincir
+- ilaç lojistiği
+- satın alma
+- biyoteknoloji
+- sağlık lojistiği
+- ABD
 ---
 <p style="text-align: justify"><strong>Alman lojistik devi DHL</strong>, ABD merkezli <strong>ilaç taşımacılığı ve soğuk zincir lojistiği şirketi Cryopdp’yi</strong> satın alacağını duyurdu.</p>
 <p><br>

@@ -1,16 +1,24 @@
 ---
-title: "Ocean Freight Rates Decline in January as Tariffs and Red Sea Tensions Stoke Concern"
-subtitle: "Ocean Freight Rates Decline in January as Tariffs and Red Sea Tensions Stoke Concern"
-date: "2025-01-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_bb5318fb2be04e448c0ea1c38a4db88f~mv2.jpg"
-imageAlt: "Ocean Freight Rates Decline in January as Tariffs and Red Sea Tensions Stoke Concern"
-wixId: "7f0f2076-e2ac-4b20-8fb2-b9db200b5cf5"
-author: "Sedat Onat"
+title: Ocean Freight Rates Decline in January as Tariffs and Red Sea Tensions Stoke Concern
+subtitle: Ocean Freight Rates Decline in January as Tariffs and Red Sea Tensions Stoke Concern
+date: '2025-01-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_bb5318fb2be04e448c0ea1c38a4db88f~mv2.jpg
+imageAlt: Ocean Freight Rates Decline in January as Tariffs and Red Sea Tensions Stoke Concern
+wixId: 7f0f2076-e2ac-4b20-8fb2-b9db200b5cf5
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- ocean freight
+- spot rates
+- Red Sea
+- tariff
+- Maersk
+- CMA CGM
+- container shipping
+- Lunar New Year
 ---
-
 <p>Ocean freight spot rates from Asia to North America experienced a notable decline in January, a development linked to seasonal demand softening and the completion of shipments ahead of the forthcoming <strong>Lunar New Year</strong> holiday. <strong>Freightos</strong> research director <strong>Judah Levine</strong> noted that freight rates could rebound depending on the volume of accumulated cargo following the holiday period.</p>
 <p><br></p>
 <p>According to <strong>Freightos</strong> data, 40-foot container spot rates from Asia to the U.S. West Coast fell 7% to $4,938 during the week of January 28. Over the same period, rates from Asia to the U.S. East Coast declined 1% to $6,656. These decreases were attributed to the completion of pre-holiday shipments and reduced seasonal demand.</p>

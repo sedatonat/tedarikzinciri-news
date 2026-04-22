@@ -1,14 +1,22 @@
 ---
-title: "Stellantis, Trump Tarifeleri Tehdidi Altında Meksika'dan Uzaklaşmayı Düşünüyor"
-subtitle: "Stellantis, Trump Tarifeleri Tehdidi Altında Meksika'dan Uzaklaşmayı Düşünüyor"
-date: "2024-11-25T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a0735e4634924e6d8f1451a709ee6c1b~mv2.jpg"
-imageAlt: "Stellantis, Trump Tarifeleri Tehdidi Altında Meksika'dan Uzaklaşmayı Düşünüyor"
-wixId: "02a00e81-83d1-43f4-af13-d068ef5094ad"
-author: "Sedat Onat"
+title: Stellantis, Trump Tarifeleri Tehdidi Altında Meksika'dan Uzaklaşmayı Düşünüyor
+subtitle: Stellantis, Trump Tarifeleri Tehdidi Altında Meksika'dan Uzaklaşmayı Düşünüyor
+date: '2024-11-25T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_a0735e4634924e6d8f1451a709ee6c1b~mv2.jpg
+imageAlt: Stellantis, Trump Tarifeleri Tehdidi Altında Meksika'dan Uzaklaşmayı Düşünüyor
+wixId: 02a00e81-83d1-43f4-af13-d068ef5094ad
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Stellantis
+- Trump tarifeleri
+- Meksika
+- otomotiv tedarik zinciri
+- Ram kamyon
+- elektrikli araç
+- üretim stratejisi
 ---
 <p>Stellantis NV’nin Ram marka başkanı Chris Feuell, otomotiv devinin, Başkanlık seçimini kazanan Donald Trump’ın sektöre yeni tarifeler uygulama tehdidi karşısında, Meksika gibi daha düşük maliyetli ülkelere yönelik planlarını gözden geçirmeye açık olduğunu belirtti. Feuell, Haziran 2024’te Ram markasının sorumluluğunu üstlendikten sonra, şirketin fabrika ve tedarikçi ağlarında yapılabilecek değişiklikleri değerlendiriyor. Yeni yönetimin uygulayacağı politikaların tedarik zincirlerini aksatması durumunda, pandemiden edinilen tedarikçi bulma ve parça yeniden tasarlama deneyimlerinin faydalı olabileceğini ifade etti.</p>
 <p><br></p>

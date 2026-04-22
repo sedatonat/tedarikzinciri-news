@@ -1,14 +1,22 @@
 ---
-title: "DP World, Cebel Ali Limanı’nda İlk 1.000 Living Seawalls Panelini Kurdu"
-subtitle: "DP World, Cebel Ali Limanı’nda İlk 1.000 Living Seawalls Panelini Kurdu"
-date: "2025-12-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_757aa03cb5824663a3aa650897a83f42~mv2.jpg"
-imageAlt: "DP World’ün Jebel Ali Port’ta Living Seawalls programı kapsamında kurduğu ilk 1.000 ekolojik panelle deniz habitatlarını güçlendirme hedefi, biyolojik çeşitlilik etkileri ve 2028’e kadar planlanan ölçekleme sürecinin detaylı özeti"
-wixId: "3ca85949-517e-41ea-b1a1-b36ac258c55f"
-author: "Sedat Onat"
+title: DP World, Cebel Ali Limanı’nda İlk 1.000 Living Seawalls Panelini Kurdu
+subtitle: DP World, Cebel Ali Limanı’nda İlk 1.000 Living Seawalls Panelini Kurdu
+date: '2025-12-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_757aa03cb5824663a3aa650897a83f42~mv2.jpg
+imageAlt: DP World’ün Jebel Ali Port’ta Living Seawalls programı kapsamında kurduğu ilk 1.000 ekolojik panelle deniz habitatlarını güçlendirme hedefi, biyolojik çeşitlilik etkileri ve 2028’e kadar planlanan ölçekleme sürecinin detaylı özeti
+wixId: 3ca85949-517e-41ea-b1a1-b36ac258c55f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DP World
+- Cebel Ali Limanı
+- Living Seawalls
+- deniz ekosistemi
+- sürdürülebilirlik
+- liman altyapısı
+- biyolojik çeşitlilik
 ---
 <p style="text-align: justify">Küresel liman ve lojistik işletmecisi <strong>DP World</strong>, deniz ekosistemlerinin korunması ve liman altyapısının çevresel dayanıklılığının artırılması hedefi doğrultusunda <strong>Jebel Ali Port</strong>’ta önemli bir adımı hayata geçirmekte. Şirketin yaptığı açıklamaya göre, <strong>1.000 adet eco-engineered Living Seawalls paneli</strong> liman sahasında başarıyla kuruldu ve bu sayede programın <strong>ilk fazı</strong> tamamlandı. Proje, liman altyapısının yalnızca ticari faaliyetleri desteklemekle kalmayıp aynı zamanda <strong>işlevsel deniz habitatları</strong> oluşturmasını amaçlamakta.</p>
 <p><br></p>

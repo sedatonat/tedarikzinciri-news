@@ -1,14 +1,22 @@
 ---
-title: "Grimaldi’ye Ait Otomobil Gemisinde Makine Dairesi Yangını: Güç Kaybı Yaşandı"
-subtitle: "Grimaldi’ye Ait Otomobil Gemisinde Makine Dairesi Yangını: Güç Kaybı Yaşandı"
-date: "2025-10-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c008c82aab8f416eacf14847ced8284a~mv2.jpg"
-imageAlt: "Grimaldi Euromed filosuna ait Grande Roma adlı otomobil gemisinde, İngiliz Kanalı çıkışında makine dairesinde yangın çıktı. Mürettebatın hızlı müdahalesi sayesinde yaralanma ve çevre kirliliği yaşanmazken, gemi Abeille Liberté römorkörü eşliğinde Le Havre Limanı’na çekiliyor."
-wixId: "a5d5659d-0953-41da-a78a-beee28cd604f"
-author: "Sedat Onat"
+title: 'Grimaldi’ye Ait Otomobil Gemisinde Makine Dairesi Yangını: Güç Kaybı Yaşandı'
+subtitle: 'Grimaldi’ye Ait Otomobil Gemisinde Makine Dairesi Yangını: Güç Kaybı Yaşandı'
+date: '2025-10-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c008c82aab8f416eacf14847ced8284a~mv2.jpg
+imageAlt: Grimaldi Euromed filosuna ait Grande Roma adlı otomobil gemisinde, İngiliz Kanalı çıkışında makine dairesinde yangın çıktı. Mürettebatın hızlı müdahalesi sayesinde yaralanma ve çevre kirliliği yaşanmazken, gemi Abeille Liberté römorkörü eşliğinde Le Havre Limanı’na çekiliyor.
+wixId: a5d5659d-0953-41da-a78a-beee28cd604f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Grimaldi
+- otomobil gemisi
+- makine dairesi yangını
+- ro-ro
+- İngiliz Kanalı
+- römorkör
+- deniz kazası
 ---
 <p style="text-align: justify"><strong>Grimaldi Euromed</strong> şirketine ait <strong>Grande Roma</strong> adlı otomobil gemisi, <strong>25 Ekim 2025 gecesi</strong> <strong>İngiliz Kanalı çıkışında</strong> makine dairesinde çıkan yangın nedeniyle <strong>itki gücünü kaybetti</strong>. Olay, yerel saatle <strong>22:00 civarında</strong> meydana geldi. Şirketten yapılan açıklamada, yangının <strong>2003 yapımı, İtalyan bayraklı, 5.379 araç kapasiteli (CEU)</strong> geminin <strong>makine dairesinde</strong> başladığı belirtildi.</p>
 <p><br></p>

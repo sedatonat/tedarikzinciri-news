@@ -1,14 +1,22 @@
 ---
-title: "Dallas'ta İkinci Sıcaklık Kontrollü Depo Açıldı"
-subtitle: "Dallas'ta İkinci Sıcaklık Kontrollü Depo Açıldı"
-date: "2024-08-09T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_a41a266c87b04dab84acec4d89fdb8f4~mv2.png"
-imageAlt: "Dallas'ta İkinci Sıcaklık Kontrollü Depo Açıldı"
-wixId: "943ea22e-e9d1-42fd-a4cf-17fbf9258080"
-author: "Sedat Onat"
+title: Dallas'ta İkinci Sıcaklık Kontrollü Depo Açıldı
+subtitle: Dallas'ta İkinci Sıcaklık Kontrollü Depo Açıldı
+date: '2024-08-09T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_a41a266c87b04dab84acec4d89fdb8f4~mv2.png
+imageAlt: Dallas'ta İkinci Sıcaklık Kontrollü Depo Açıldı
+wixId: 943ea22e-e9d1-42fd-a4cf-17fbf9258080
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- sıcaklık kontrollü depo
+- Vertical Cold Storage
+- Dallas-Fort Worth
+- soğuk zincir
+- dondurulmuş gıda
+- Teksas
+- depo genişletme
 ---
 <p>Vertical Cold Storage, Dallas-Fort Worth bölgesinde ikinci sıcaklık kontrollü deposunu açarak operasyonlarını genişletti. Burleson, Teksas'ta bulunan bu yeni tesis, 400.000 metrekarelik alanıyla dikkat çekiyor ve patlayıcı dondurma, kutu toplama, kitting ve etiketleme gibi çeşitli hizmetler sunuyor. Tesis, genişliği ve çok yönlü soğutma kapasiteleri ile dondurulmuş ve soğutulmuş gıdalar gibi bozulabilir ürünler için ideal bir yer sağlıyor. Şirketin CEO'su West Hutchison, yeni tesisin DFW pazarının her iki tarafında da geniş bir hizmet yelpazesi sunduğunu belirtti.</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "Train Theft: Vehicle-Loaded Train Sitting Idle for Three Weeks Plundered"
-subtitle: "Train Theft: Vehicle-Loaded Train Sitting Idle for Three Weeks Plundered"
-date: "2025-01-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d91fb4a224ad44c8aad0dd48e9baaa4c~mv2.jpg"
-imageAlt: "Train Theft: Vehicle-Loaded Train Sitting Idle for 3 Weeks Plundered"
-wixId: "332d6fb1-f7e3-43a5-950a-a6ea4b163296"
-author: "Sedat Onat"
+title: 'Train Theft: Vehicle-Loaded Train Sitting Idle for Three Weeks Plundered'
+subtitle: 'Train Theft: Vehicle-Loaded Train Sitting Idle for Three Weeks Plundered'
+date: '2025-01-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d91fb4a224ad44c8aad0dd48e9baaa4c~mv2.jpg
+imageAlt: 'Train Theft: Vehicle-Loaded Train Sitting Idle for 3 Weeks Plundered'
+wixId: 332d6fb1-f7e3-43a5-950a-a6ea4b163296
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- train theft
+- rail transport
+- automotive transport
+- cargo security
+- Milan
+- logistics security
+- freight train
 ---
-
 <p style="text-align: justify">At the end of December, a freight train carrying vehicles that had been parked for three weeks north of Milan became the target of thieves. The train, stationed in the dedicated freight area at <a href="https://en.wikipedia.org/wiki/Desio_railway_station"><u><strong>Desio</strong></u></a> station, extended over a busy national highway due to its length. This situation placed the train in a highly visible public location and attracted the attention of unscrupulous individuals.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">According to Italian media, thieves who noticed the abandoned train began looting the vehicles. Bumpers, windows, and internal electronic components were stolen; in some cases, the vehicle canopies were damaged. The train was heading to an automotive center in <a href="https://en.wikipedia.org/wiki/Piadena"><u><strong>Piadena</strong></u></a>, but many vehicles arrived in a damaged condition.</p>

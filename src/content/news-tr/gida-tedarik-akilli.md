@@ -1,14 +1,23 @@
 ---
-title: "Gıda Tedarik Zincirinde Akıllı Etiketlerin Rolü"
-subtitle: "Gıda Tedarik Zincirinde Akıllı Etiketlerin Rolü"
-date: "2025-01-10T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_4740d6265a4149d7aef1dc0747eb27fd~mv2.jpg"
-imageAlt: "Gıda Tedarik Zincirinde Akıllı Etiketlerin Rolü"
-wixId: "af516186-78c6-4bb1-af7f-5cc83660358e"
-author: "Sedat Onat"
+title: Gıda Tedarik Zincirinde Akıllı Etiketlerin Rolü
+subtitle: Gıda Tedarik Zincirinde Akıllı Etiketlerin Rolü
+date: '2025-01-10T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_4740d6265a4149d7aef1dc0747eb27fd~mv2.jpg
+imageAlt: Gıda Tedarik Zincirinde Akıllı Etiketlerin Rolü
+wixId: af516186-78c6-4bb1-af7f-5cc83660358e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- akıllı etiket
+- gıda tedarik zinciri
+- IoT
+- RFID
+- izlenebilirlik
+- Giesecke+Devrient
+- FDA
+- sensör teknolojisi
 ---
 <p style="text-align: justify">Küresel güvenlik teknolojisi şirketi <strong>Giesecke+Devrient (G+D)</strong>, tarım ürünlerinin tedarik zincirinde daha etkin izlenmesi amacıyla yeni bir akıllı etiket geliştirdi. Bu etiket, özellikle meyve ve sebzelerin izlenmesinde kullanılmakta ve ABD'de artan gıda geri çağırmalarıyla başa çıkmada tarım paydaşlarına yardımcı olmayı hedeflemekte. Ayrıca, bazı gıda işleyicileri ve distribütörleri, <strong>Gıda ve İlaç Dairesi (FDA)</strong>'nin 2026 yılında yürürlüğe girecek olan ve piyasadaki kontamine gıdaların daha hızlı tespitini sağlayacak kayıt tutma ve izlenebilirlik önlemlerine uyum sağlamak zorunda.</p>
 <p style="text-align: justify"><br></p>

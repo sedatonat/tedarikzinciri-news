@@ -1,16 +1,24 @@
 ---
-title: "Top 10 U.S. Supply Chain Technology Investments and Acquisitions: July–August 2025"
-subtitle: "Top 10 U.S. Supply Chain Technology Investments and Acquisitions: July–August 2025"
-date: "2025-08-31T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_6a9b33395bd0491aaef22e0a559b4543~mv2.png"
-imageAlt: "Top 10 U.S. Supply Chain Technology Investments and Acquisitions: July–August 2025"
-wixId: "3d0c0760-afce-4849-9262-002fc075249e"
-author: "Sedat Onat"
+title: 'Top 10 U.S. Supply Chain Technology Investments and Acquisitions: July–August 2025'
+subtitle: 'Top 10 U.S. Supply Chain Technology Investments and Acquisitions: July–August 2025'
+date: '2025-08-31T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_6a9b33395bd0491aaef22e0a559b4543~mv2.png
+imageAlt: 'Top 10 U.S. Supply Chain Technology Investments and Acquisitions: July–August 2025'
+wixId: 3d0c0760-afce-4849-9262-002fc075249e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- supply chain technology
+- investment
+- acquisition
+- AI
+- visibility
+- USA
+- WiseTech Global
+- circular economy
 ---
-
 <p style="text-align: justify"><strong>Between July 16 and August 31, 2025,</strong> the <strong>U.S. supply chain technology sector</strong> witnessed notable merger, acquisition, and investment deals.</p>
 <p><br>
 This period demonstrated sustained strong capital flows toward both <strong>logistics software and AI-enabled supply chain solutions.</strong></p>

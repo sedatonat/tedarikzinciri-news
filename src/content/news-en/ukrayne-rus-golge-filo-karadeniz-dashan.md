@@ -1,16 +1,24 @@
 ---
-title: "Ukraine Strikes Russia's \"Shadow Fleet\" Tanker Dashan with Sea Baby Drones in Black Sea"
-subtitle: "Ukraine Strikes Russia's \"Shadow Fleet\" Tanker Dashan with Sea Baby Drones in Black Sea"
-date: "2025-12-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3eda22a6a97244e29bad4ff2a66e31d0~mv2.jpg"
-imageAlt: "Ukraine's SBU strikes Comoros-flagged tanker Dashan in Black Sea with Sea Baby maritime drones, marking third attack on shadow fleet, rising insurance risks, and logistics impacts of regional tensions—detailed overview"
-wixId: "983a2093-f668-4621-9d74-91b089154c07"
-author: "Sedat Onat"
+title: Ukraine Strikes Russia's "Shadow Fleet" Tanker Dashan with Sea Baby Drones in Black Sea
+subtitle: Ukraine Strikes Russia's "Shadow Fleet" Tanker Dashan with Sea Baby Drones in Black Sea
+date: '2025-12-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3eda22a6a97244e29bad4ff2a66e31d0~mv2.jpg
+imageAlt: Ukraine's SBU strikes Comoros-flagged tanker Dashan in Black Sea with Sea Baby maritime drones, marking third attack on shadow fleet, rising insurance risks, and logistics impacts of regional tensions—detailed overview
+wixId: 983a2093-f668-4621-9d74-91b089154c07
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Black Sea
+- shadow fleet
+- Sea Baby drone
+- Ukraine
+- oil tanker
+- war insurance
+- Russia sanctions
+- maritime security
 ---
-
 <p style="text-align: justify">Ukraine's security service <strong>SBU</strong> continues to expand operations targeting Russia's clandestine oil tanker network known as the <strong>shadow fleet</strong> in the Black Sea. As of December 10, the SBU confirmed an attack on the Comoros-flagged oil tanker <strong>Dashan</strong> using Sea Baby-class <strong>unmanned marine drones</strong>. This marks Ukraine's third strike against Russia-linked tankers within a week; previous attacks had targeted the <strong>Kairos</strong> and <strong>Virat</strong> tankers.</p>
 <p><br></p>
 <p style="text-align: justify">During the attack, Dashan was transiting within <strong>Ukraine's exclusive economic zone (EEZ)</strong> en route to Russia's <strong>Novorossiysk</strong> terminal. According to Ukrainian sources, the tanker was part of the shadow fleet actively engaged in circumventing Russia's sanctions, a flotilla Moscow uses to bypass international restrictions. Initial reports indicated successive violent explosions in the vessel's <strong>stern area</strong>, causing the tanker to <strong>lose maneuvering capability</strong>. Footage of the attack circulated widely on social media.</p>

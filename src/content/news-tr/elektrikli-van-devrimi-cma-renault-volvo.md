@@ -1,14 +1,23 @@
 ---
-title: "Elektrikli Van Devrimi: CMA CGM, Renault ve Volvo'dan Yeni Girişim Flexis SAS"
-subtitle: "Elektrikli Van Devrimi: CMA CGM, Renault ve Volvo'dan Yeni Girişim Flexis SAS"
-date: "2024-04-04T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_e52ebfe255bb4649b885fd9d03a13f11~mv2.jpg"
-imageAlt: "Elektrikli Van Devrimi: CMA CGM, Renault ve Volvo'dan Yeni Girişim Flexis SAS"
-wixId: "7d88d7ef-9b24-48ca-914e-1323c8d0bb76"
-author: "Sedat Onat"
+title: 'Elektrikli Van Devrimi: CMA CGM, Renault ve Volvo''dan Yeni Girişim Flexis SAS'
+subtitle: 'Elektrikli Van Devrimi: CMA CGM, Renault ve Volvo''dan Yeni Girişim Flexis SAS'
+date: '2024-04-04T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_e52ebfe255bb4649b885fd9d03a13f11~mv2.jpg
+imageAlt: 'Elektrikli Van Devrimi: CMA CGM, Renault ve Volvo''dan Yeni Girişim Flexis SAS'
+wixId: 7d88d7ef-9b24-48ca-914e-1323c8d0bb76
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- elektrikli van
+- CMA CGM
+- Renault
+- Volvo
+- Flexis SAS
+- hafif ticari araç
+- karbon salınımı
+- lojistik
 ---
 <p><a href="https://en.wikipedia.org/wiki/CMA_CGM"><u>CMA CGM </u></a>Group, Renault Group ve Volvo Group, Flexis SAS adlı yeni nesil elektrikli van girişiminde kurucu üye olarak faaliyete geçtiğini duyurdu. <a href="https://en.wikipedia.org/wiki/CMA_CGM"><u>CMA CGM</u></a>, enerji yatırım aracı PULSE aracılığıyla Flexis SAS'ta %10'luk bir pay aldı ve 2026'ya kadar 120 milyon Euro'ya (129 milyon dolar) kadar stratejik yatırım yapmayı planladığını ifade etti. <a href="https://en.wikipedia.org/wiki/CMA_CGM"><u>CMA CGM Group</u></a>'un Enerji Fonu PULSE, lojistik değer zincirinin karbon salınımını azaltmaya yönelik 1,5 milyar dolarlık bir taahhüt ile 2022'de Rodolphe Saadé tarafından kuruldu. Volvo Group ve Renault Group, her biri Flexis SAS'te %45 paya sahip olup, önümüzdeki üç yıl içinde 300 milyon Euro (323 milyon dolar) yatırım yapmayı hedefliyor.</p>
 <p><br></p>

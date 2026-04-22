@@ -1,14 +1,22 @@
 ---
-title: "Nike, Tedarik Zinciri Liderinin Yetkilerini Genişletti: COO Rolü Oluşturuldu"
-subtitle: "Nike, Tedarik Zinciri Liderinin Yetkilerini Genişletti: COO Rolü Oluşturuldu"
-date: "2025-12-08T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_3e3845de5a164177931bfc17c1377a15~mv2.jpg"
-imageAlt: "Nike’ın Chief Supply Chain Officer’ı Venkatesh Alagirisamy’yi yeni oluşturulan COO pozisyonuna ataması, teknoloji entegrasyonunun operasyonların merkezine alınması ve liderlik yapılanmasındaki değişimin detaylı özeti"
-wixId: "d38d914e-8967-4e13-801f-c28063b1a89d"
-author: "Sedat Onat"
+title: 'Nike, Tedarik Zinciri Liderinin Yetkilerini Genişletti: COO Rolü Oluşturuldu'
+subtitle: 'Nike, Tedarik Zinciri Liderinin Yetkilerini Genişletti: COO Rolü Oluşturuldu'
+date: '2025-12-08T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_3e3845de5a164177931bfc17c1377a15~mv2.jpg
+imageAlt: Nike’ın Chief Supply Chain Officer’ı Venkatesh Alagirisamy’yi yeni oluşturulan COO pozisyonuna ataması, teknoloji entegrasyonunun operasyonların merkezine alınması ve liderlik yapılanmasındaki değişimin detaylı özeti
+wixId: d38d914e-8967-4e13-801f-c28063b1a89d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Nike
+- COO
+- tedarik zinciri
+- teknoloji entegrasyonu
+- yeniden yapılanma
+- dijital dönüşüm
+- operasyonel mükemmellik
 ---
 <p style="text-align: justify">Küresel spor giyim ve ayakkabı devi <strong>Nike</strong>, operasyonel yapısını sadeleştirmek ve teknoloji entegrasyonunu hızlandırmak amacıyla üst yönetimde kapsamlı bir yeniden yapılanmaya gitti. Şirket, <strong>Chief Supply Chain Officer (CSCO)</strong> olarak görev yapan <strong>Venkatesh Alagirisamy</strong>’yi, yeni oluşturulan <strong>Executive Vice President (EVP) ve Chief Operating Officer (COO)</strong> pozisyonuna atadığını duyurdu. Atama, CEO <strong>Elliott Hill</strong> tarafından çalışanlara gönderilen bir mektupla açıklandı ve kararın <strong>8 Aralık 2025</strong> itibarıyla yürürlüğe girdiği belirtildi.</p>
 <p><br></p>

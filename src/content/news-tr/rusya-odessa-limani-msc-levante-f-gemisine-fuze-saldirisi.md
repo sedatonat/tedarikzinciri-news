@@ -1,14 +1,23 @@
 ---
-title: "Rusya'nın Odessa Limanı'nda MSC Levante F Gemisine Füze Saldırısı​"
-subtitle: "Rusya'nın Odessa Limanı'nda MSC Levante F Gemisine Füze Saldırısı​"
-date: "2025-03-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7b9ea2c8f3754f1f828339bf7e7c74ba~mv2.jpg"
-imageAlt: "Rusya'nın Odessa Limanı'nda MSC Levante F Gemisine Füze Saldırısı​"
-wixId: "d3d3b223-1347-4fc8-baa3-b4380cd3a291"
-author: "Sedat Onat"
+title: Rusya'nın Odessa Limanı'nda MSC Levante F Gemisine Füze Saldırısı​
+subtitle: Rusya'nın Odessa Limanı'nda MSC Levante F Gemisine Füze Saldırısı​
+date: '2025-03-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7b9ea2c8f3754f1f828339bf7e7c74ba~mv2.jpg
+imageAlt: Rusya'nın Odessa Limanı'nda MSC Levante F Gemisine Füze Saldırısı​
+wixId: d3d3b223-1347-4fc8-baa3-b4380cd3a291
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Odessa limanı
+- füze saldırısı
+- MSC Levante F
+- konteyner gemisi
+- Rusya
+- Ukrayna
+- deniz taşımacılığı
+- liman operasyonları
 ---
 <p style="text-align: justify">1 Mart 2025 tarihinde, <strong>Rusya</strong>'nın <strong>Odessa</strong> limanına düzenlediği füze saldırısında, <strong>MSC Levante F</strong> adlı Panama bayraklı konteyner gemisi hedef alındı. <strong>Iskander-M</strong> tipi iki füze ile gerçekleştirilen saldırıda, gemi hafif hasar aldı ve limandan güvenli bir şekilde ayrıldı.&nbsp;</p>
 <p><br></p>

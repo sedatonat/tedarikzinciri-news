@@ -1,14 +1,21 @@
 ---
-title: "Visual Capitalist 2023 Küresel İnovasyon Endeksi 'ni yayınladı"
-subtitle: "Visual Capitalist 2023 Küresel İnovasyon Endeksi 'ni yayınladı"
-date: "2023-11-14T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_1044c513eab04fd09eea2089827d96d2~mv2.png"
-imageAlt: "Visual Capitalist 2023 Küresel İnovasyon Endeksi 'ni yayınladı"
-wixId: "cfe5090b-625a-499e-b02a-85294c7ad1ec"
-author: "Sedat Onat"
+title: Visual Capitalist 2023 Küresel İnovasyon Endeksi 'ni yayınladı
+subtitle: Visual Capitalist 2023 Küresel İnovasyon Endeksi 'ni yayınladı
+date: '2023-11-14T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_1044c513eab04fd09eea2089827d96d2~mv2.png
+imageAlt: Visual Capitalist 2023 Küresel İnovasyon Endeksi 'ni yayınladı
+wixId: cfe5090b-625a-499e-b02a-85294c7ad1ec
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- küresel inovasyon endeksi
+- Visual Capitalist
+- Ar-Ge
+- Türkiye
+- teknoloji
+- süperbilgisayar
 ---
 <p>Visual Capitalist 2023 Küresel İnovasyon Endeksi 'ni yayınladı (Bu arada çevirinin yarısı yine ingilizce oldu...).<br>
 <br>

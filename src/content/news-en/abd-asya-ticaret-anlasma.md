@@ -1,16 +1,24 @@
 ---
-title: "U.S. Signs Trade Agreements with Southeast Asia and Signals Ceasefire with China"
-subtitle: "U.S. Signs Trade Agreements with Southeast Asia and Signals Ceasefire with China"
-date: "2025-10-27T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_622cbbaef029477a8e0559dd518eec75~mv2.jpg"
-imageAlt: "The U.S. signed trade agreements with Vietnam, Thailand, Cambodia, and Malaysia that include reciprocal tariff rates. Progress was also reported in negotiations with China, with an imminent trade ceasefire in the offing."
-wixId: "adde08c9-5e7e-433f-8710-fa4f30c09610"
-author: "Sedat Onat"
+title: U.S. Signs Trade Agreements with Southeast Asia and Signals Ceasefire with China
+subtitle: U.S. Signs Trade Agreements with Southeast Asia and Signals Ceasefire with China
+date: '2025-10-27T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_622cbbaef029477a8e0559dd518eec75~mv2.jpg
+imageAlt: The U.S. signed trade agreements with Vietnam, Thailand, Cambodia, and Malaysia that include reciprocal tariff rates. Progress was also reported in negotiations with China, with an imminent trade ceasefire in the offing.
+wixId: adde08c9-5e7e-433f-8710-fa4f30c09610
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- USA
+- Southeast Asia
+- trade agreement
+- China
+- customs tariffs
+- ASEAN
+- supply chain
+- digital trade
 ---
-
 <p style="text-align: justify"><strong>The United States</strong> signed a series of agreements <strong>strengthening trade relations in Southeast Asia</strong>, while simultaneously <strong>signaling a softening in trade tensions with China</strong>. The agreements concluded with <strong>Malaysia</strong>, <strong>Thailand</strong>, <strong>Cambodia</strong>, and <strong>Vietnam</strong> both <strong>establish reciprocal tariff rates</strong> and <strong>grant U.S. exporters access to new markets</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The agreements were announced during the <strong>ASEAN Summit in Malaysia</strong>. The White House announced that, following talks held over the weekend, it <strong>signed formal trade agreements with Malaysia and Cambodia</strong>, and <strong>framework deals with Thailand and Vietnam</strong>.</p>

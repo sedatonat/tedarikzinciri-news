@@ -1,16 +1,23 @@
 ---
-title: "Sovcomflot Takes Delivery of New LNG-Ready Tanker \"Ivan Aivazovsky\""
-subtitle: "Sovcomflot Takes Delivery of New LNG-Ready Tanker \"Ivan Aivazovsky\""
-date: "2025-11-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5f7943ac63064277bbd72bb95af5392f~mv2.jpg"
-imageAlt: "Detailed news summary explaining Sovcomflot's acceptance of the LNG-ready MR tanker \"Ivan Aivazovsky\" built at Zvezda shipyard and the technical specifications of the new tanker class developed for product transportation in ice conditions"
-wixId: "8dc1fcb7-ce25-4885-9d7a-6e9bb149962c"
-author: "Sedat Onat"
+title: Sovcomflot Takes Delivery of New LNG-Ready Tanker "Ivan Aivazovsky"
+subtitle: Sovcomflot Takes Delivery of New LNG-Ready Tanker "Ivan Aivazovsky"
+date: '2025-11-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5f7943ac63064277bbd72bb95af5392f~mv2.jpg
+imageAlt: Detailed news summary explaining Sovcomflot's acceptance of the LNG-ready MR tanker "Ivan Aivazovsky" built at Zvezda shipyard and the technical specifications of the new tanker class developed for product transportation in ice conditions
+wixId: 8dc1fcb7-ce25-4885-9d7a-6e9bb149962c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Sovcomflot
+- LNG-ready tanker
+- Zvezda Shipyard
+- ice class vessel
+- Russia
+- maritime
+- product tanker
 ---
-
 <p style="text-align: justify"><strong>Sovcomflot (SCF)</strong>, a Russian shipping company, has announced the delivery of a new-generation <strong>LNG-ready MR tanker</strong> "<strong>Ivan Aivazovsky</strong>" built by <strong>Zvezda Shipyard</strong> in Russia's Far Eastern region. The company positions this vessel, named after the renowned Russian maritime landscape painter <strong>Ivan Aivazovsky</strong>, as the first ship in a new tanker series specifically developed for product transportation in ice conditions. The tanker will operate under the Russian flag and will play a strategic role in Sovcomflot's modernization of its product tanker fleet.</p>
 <p><br></p>
 <p style="text-align: justify">The new vessel has been designed to meet growing demand for Russia's product transportation along icy water routes. The ship holds <strong>Ice Class 1B</strong> certification, which enables safe operations on routes with moderate ice conditions during winter months. Sovcomflot emphasizes that vessels in this segment are increasingly needed, particularly in the Baltic, Black Sea, and along Russia's northern offshore routes.</p>

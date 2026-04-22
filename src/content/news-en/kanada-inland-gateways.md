@@ -1,16 +1,24 @@
 ---
-title: "Canada Strengthens Supply Chain with New Inland Gateway Strategy"
-subtitle: "Canada Strengthens Supply Chain with New Inland Gateway Strategy"
-date: "2025-11-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_fc6339ea95544844b499e350d6ce328e~mv2.jpg"
-imageAlt: "A detailed news summary explaining Canada's Corridors Fund program initiatives, including inland port authorizations in the Great Lakes and St. Lawrence corridor, CBSA expansion, customs modernization, and supply chain protection measures against U.S.-sourced trade uncertainty"
-wixId: "d5cb8c43-ffab-4fdf-b609-59bc6edc6678"
-author: "Sedat Onat"
+title: Canada Strengthens Supply Chain with New Inland Gateway Strategy
+subtitle: Canada Strengthens Supply Chain with New Inland Gateway Strategy
+date: '2025-11-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_fc6339ea95544844b499e350d6ce328e~mv2.jpg
+imageAlt: A detailed news summary explaining Canada's Corridors Fund program initiatives, including inland port authorizations in the Great Lakes and St. Lawrence corridor, CBSA expansion, customs modernization, and supply chain protection measures against U.S.-sourced trade uncertainty
+wixId: d5cb8c43-ffab-4fdf-b609-59bc6edc6678
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Canada
+- inland gateway
+- supply chain
+- CBSA
+- Great Lakes
+- port infrastructure
+- customs clearance
+- trade diversification
 ---
-
 <p style="text-align: justify">The Canadian government has launched a new strategic program under the <strong>Corridors Fund</strong> to strengthen the national supply chain amid heightened global geopolitical risks and protectionist policies from its southern neighbor complicating trade. The program aims to reduce the country's dependence on U.S. border crossings and conventional North American logistics corridors for foreign trade. Officials speaking in Ottawa emphasized that the plan seeks to enhance the Canadian economy with <strong>sovereignty, autonomy, and supply chain resilience</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">According to the Minister of Finance, the government is prioritizing the conversion of inland ports along the <strong>St. Lawrence</strong> and <strong>Great Lakes</strong> routes into fully authorized <strong>inland gateways</strong> rather than routing containers exclusively through coastal ports such as Vancouver, Montreal, and Halifax. "Canada cannot remain dependent on a single logistics corridor for its goods to reach global markets. This investment is part of our determination to diversify the critical nodes of the supply chain," the assessment states.</p>

@@ -1,16 +1,23 @@
 ---
-title: "Lloyd's Register Releases Digital Maturity Assessment for Maritime Sector"
-subtitle: "Lloyd's Register Releases Digital Maturity Assessment for Maritime Sector"
-date: "2024-10-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_41876b5951754d4ead43bcc006bc3953~mv2.jpg"
-imageAlt: "Lloyd's Register Releases Digital Maturity Assessment for Maritime Sector"
-wixId: "994dd7b2-2186-4ca8-a713-4daff3a7dbcd"
-author: "Sedat Onat"
+title: Lloyd's Register Releases Digital Maturity Assessment for Maritime Sector
+subtitle: Lloyd's Register Releases Digital Maturity Assessment for Maritime Sector
+date: '2024-10-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_41876b5951754d4ead43bcc006bc3953~mv2.jpg
+imageAlt: Lloyd's Register Releases Digital Maturity Assessment for Maritime Sector
+wixId: 994dd7b2-2186-4ca8-a713-4daff3a7dbcd
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Lloyd's Register
+- digital maturity
+- maritime sector
+- digital transformation
+- Thetius
+- cybersecurity
+- cloud computing
 ---
-
 <p>Lloyd's Register (LR) has announced the publication of a Digital Maturity Framework and Index designed to assess and benchmark an organization's digital maturity. LR developed this initiative in collaboration with Thetius, which created the digital maturity model called 'The Benchmark'.</p>
 <p><br></p>
 <p>The model provides a starting point for understanding an organization's position across the digital transformation spectrum—from basic digital infrastructure to advanced data-driven decision-making processes. LR's Digital Maturity Index (DMI) serves as a free web-based tool rooted in real maritime use cases, enabling businesses to analyze their digital readiness, compare themselves against sector competitors, and identify areas where they should invest in technology and capabilities.</p>

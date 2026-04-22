@@ -1,16 +1,24 @@
 ---
-title: "Latest Maritime News and Developments"
-subtitle: "Latest Maritime News and Developments"
-date: "2025-01-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_437130fd148e40bb9f2838db862dff64~mv2.jpg"
-imageAlt: "Latest Maritime News and Developments"
-wixId: "deddc14a-a7ae-49be-896c-ca2542a89e55"
-author: "Sedat Onat"
+title: Latest Maritime News and Developments
+subtitle: Latest Maritime News and Developments
+date: '2025-01-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_437130fd148e40bb9f2838db862dff64~mv2.jpg
+imageAlt: Latest Maritime News and Developments
+wixId: deddc14a-a7ae-49be-896c-ca2542a89e55
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- maritime
+- oil spill
+- Black Sea
+- Russia
+- tanker safety
+- subsea cable
+- cruise tax
+- Guyana
 ---
-
 <p style="text-align: justify">The maritime sector has experienced several significant developments in recent times. According to reports from <strong>gCaptain</strong>, the <strong>Guyana</strong> government is accelerating debris removal operations in its waterways to enhance the safety of oil supply vessels. This measure aligns with the country's growth objectives in the energy sector.</p>
 <p><br></p>
 <p style="text-align: justify">Meanwhile, <strong>Russia</strong> declared a state of emergency in the <strong>Crimea</strong> region following an oil spill in the <strong>Black Sea</strong>. Authorities are making intensive efforts to minimize the environmental impact of the spill.</p>

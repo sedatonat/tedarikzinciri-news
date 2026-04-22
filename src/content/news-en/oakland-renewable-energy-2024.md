@@ -1,16 +1,23 @@
 ---
-title: "Port of Oakland Sourced 86% of Its Electricity from Renewable Sources in 2024"
-subtitle: "Port of Oakland Sourced 86% of Its Electricity from Renewable Sources in 2024"
-date: "2025-11-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6696b58a4c7746e5be0ab2166d1bc579~mv2.jpg"
-imageAlt: "Port of Oakland achieved significant progress toward its goal of becoming one of the U.S.'s cleanest ports in 2024 by sourcing 86% of its electricity from renewable or zero-carbon sources; the port also accelerated its clean energy transition through a 20-year, 4 MW energy storage agreement."
-wixId: "7fa50090-4b3a-4076-bde5-fc06350baf77"
-author: "Sedat Onat"
+title: Port of Oakland Sourced 86% of Its Electricity from Renewable Sources in 2024
+subtitle: Port of Oakland Sourced 86% of Its Electricity from Renewable Sources in 2024
+date: '2025-11-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_6696b58a4c7746e5be0ab2166d1bc579~mv2.jpg
+imageAlt: Port of Oakland achieved significant progress toward its goal of becoming one of the U.S.'s cleanest ports in 2024 by sourcing 86% of its electricity from renewable or zero-carbon sources; the port also accelerated its clean energy transition through a 20-year, 4 MW energy storage agreement.
+wixId: 7fa50090-4b3a-4076-bde5-fc06350baf77
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Port of Oakland
+- renewable energy
+- sustainability
+- energy storage
+- green port
+- California
+- carbon neutral
 ---
-
 <p style="text-align: justify"><strong>Port of Oakland</strong> achieved two critical milestones in 2024 in pursuit of its goal to become "the cleanest and greenest port in the United States." The port's <strong>Power Source Disclosure Report</strong>, verified by the California Energy Commission, revealed that <strong>86% of the electricity supplied to the port's tenants and facilities in 2024 came from renewable or zero-carbon sources</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">According to the report's details, the energy portfolio comprised:</p>

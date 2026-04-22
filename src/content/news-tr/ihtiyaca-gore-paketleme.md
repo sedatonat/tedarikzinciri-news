@@ -1,14 +1,22 @@
 ---
-title: "Akıllı, İhtiyaca Göre Üretilen Paketleme ile Verimlilik ve Sürdürülebilirlik Artıyor"
-subtitle: "Akıllı, İhtiyaca Göre Üretilen Paketleme ile Verimlilik ve Sürdürülebilirlik Artıyor"
-date: "2025-11-17T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_16dec01e583c419daf37459aeed5ae10~mv2.jpg"
-imageAlt: "Packsize’nin on-demand, right-sized packaging çözümleri, şirketlerin DIM maliyetlerini düşürmesini, malzeme kullanımını azaltmasını, depolama alanı kazanmasını ve operasyon verimliliğini artırmasını sağlayarak hem sürdürülebilirlik hem de finansal fayda sunuyor."
-wixId: "3b1379c5-c17a-4ec0-ac32-1ff12890b2e8"
-author: "Sedat Onat"
+title: Akıllı, İhtiyaca Göre Üretilen Paketleme ile Verimlilik ve Sürdürülebilirlik Artıyor
+subtitle: Akıllı, İhtiyaca Göre Üretilen Paketleme ile Verimlilik ve Sürdürülebilirlik Artıyor
+date: '2025-11-17T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_16dec01e583c419daf37459aeed5ae10~mv2.jpg
+imageAlt: Packsize’nin on-demand, right-sized packaging çözümleri, şirketlerin DIM maliyetlerini düşürmesini, malzeme kullanımını azaltmasını, depolama alanı kazanmasını ve operasyon verimliliğini artırmasını sağlayarak hem sürdürülebilirlik hem de finansal fayda sunuyor.
+wixId: 3b1379c5-c17a-4ec0-ac32-1ff12890b2e8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- akıllı paketleme
+- sürdürülebilirlik
+- otomasyon
+- Packsize
+- depo verimliliği
+- DIM maliyeti
+- e-ticaret
 ---
 <p style="text-align: justify">Karmaşıklaşan tedarik zincirleri, artan maliyet baskıları ve sürdürülebilirlik zorunlulukları, şirketleri paketleme süreçlerini yeniden düşünmeye zorluyor. <strong>On-demand (ihtiyaca göre), right-sized (tam uyumlu) paketleme teknolojileri</strong>, bu baskının tam merkezinde yer alıyor. Packsize’in sunduğu modern otomasyon çözümleri, hem <strong>maliyetleri düşürmek</strong> hem de <strong>operasyonları ölçeklendirmek</strong> isteyen şirketler için güçlü bir dönüşüm aracı haline geldi.</p>
 <p><br></p>

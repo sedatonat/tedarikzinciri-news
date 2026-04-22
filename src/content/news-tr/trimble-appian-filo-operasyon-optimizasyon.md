@@ -1,14 +1,22 @@
 ---
-title: "Filo Operasyonlarınızı Trimble Appian'ın Son Teknoloji Geliştirmeleriyle Optimize Edin"
-subtitle: "Filo Operasyonlarınızı Trimble Appian'ın Son Teknoloji Geliştirmeleriyle Optimize Edin"
-date: "2025-02-03T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_65defaba06a944988378e731e5c6ee0f~mv2.jpg"
-imageAlt: "Filo Operasyonlarınızı Trimble Appian'ın Son Teknoloji Geliştirmeleriyle Optimize Edin"
-wixId: "c4b1e845-2b29-42c4-a6a4-368e47211ed3"
-author: "Sedat Onat"
+title: Filo Operasyonlarınızı Trimble Appian'ın Son Teknoloji Geliştirmeleriyle Optimize Edin
+subtitle: Filo Operasyonlarınızı Trimble Appian'ın Son Teknoloji Geliştirmeleriyle Optimize Edin
+date: '2025-02-03T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_65defaba06a944988378e731e5c6ee0f~mv2.jpg
+imageAlt: Filo Operasyonlarınızı Trimble Appian'ın Son Teknoloji Geliştirmeleriyle Optimize Edin
+wixId: c4b1e845-2b29-42c4-a6a4-368e47211ed3
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Trimble
+- Appian
+- filo yönetimi
+- gerçek zamanlı izleme
+- lojistik teknolojisi
+- rota optimizasyonu
+- operasyonel verimlilik
 ---
 <p style="text-align: justify"><strong>Trimble</strong> ve <strong>Appian</strong>, filo operasyonlarını daha verimli hale getirmek için en son teknoloji geliştirmelerini duyurdu. Bu yenilikler, taşımacılık ve lojistik sektöründe faaliyet gösteren şirketlerin operasyonel süreçlerini optimize etmelerine yardımcı olmakta.</p>
 <p><br></p>

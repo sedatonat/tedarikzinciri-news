@@ -1,16 +1,24 @@
 ---
-title: "Nestlé Balances Cost, Resilience and Sustainability Through Distribution Network Optimization"
-subtitle: "Nestlé Balances Cost, Resilience and Sustainability Through Distribution Network Optimization"
-date: "2025-10-07T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b680461280114ce1a498cb419f717f77~mv2.jpg"
-imageAlt: "Nestlé Balances Cost, Resilience and Sustainability Through Distribution Network Optimization"
-wixId: "4b2e00ef-81b0-44e3-b580-6828b014757a"
-author: "Sedat Onat"
+title: Nestlé Balances Cost, Resilience and Sustainability Through Distribution Network Optimization
+subtitle: Nestlé Balances Cost, Resilience and Sustainability Through Distribution Network Optimization
+date: '2025-10-07T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b680461280114ce1a498cb419f717f77~mv2.jpg
+imageAlt: Nestlé Balances Cost, Resilience and Sustainability Through Distribution Network Optimization
+wixId: 4b2e00ef-81b0-44e3-b580-6828b014757a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Nestlé
+- distribution network optimization
+- artificial intelligence
+- supply chain
+- sustainability
+- 3PL
+- CSCMP
+- network optimization
 ---
-
 <p style="text-align: justify"><strong>Nestlé USA</strong> uses a <strong>distribution network optimization modeling</strong> approach that it refines annually as part of its supply chain strategy, enabling the company to reduce <strong>total delivery costs</strong> while simultaneously addressing <strong>risk, sustainability, and customer satisfaction</strong>.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Karan Gill, Head of Artificial Intelligence for Supply Chain Optimization</strong> at Nestlé, presented at the <strong>CSCMP EDGE Conference</strong> on how the company shapes its distribution network decisions using a data-driven approach.</p>

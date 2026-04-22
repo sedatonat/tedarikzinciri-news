@@ -1,14 +1,23 @@
 ---
-title: "Perakendeciler, Tarifeler Nedeniyle İthalatları Öne Çekiyor"
-subtitle: "Perakendeciler, Tarifeler Nedeniyle İthalatları Öne Çekiyor"
-date: "2025-03-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_525692a42a9f4060aa967f5f63802843~mv2.jpg"
-imageAlt: "Perakendeciler, Tarifeler Nedeniyle İthalatları Öne Çekiyor"
-wixId: "df839fa4-6622-406f-b887-349c354b46a2"
-author: "Sedat Onat"
+title: Perakendeciler, Tarifeler Nedeniyle İthalatları Öne Çekiyor
+subtitle: Perakendeciler, Tarifeler Nedeniyle İthalatları Öne Çekiyor
+date: '2025-03-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_525692a42a9f4060aa967f5f63802843~mv2.jpg
+imageAlt: Perakendeciler, Tarifeler Nedeniyle İthalatları Öne Çekiyor
+wixId: df839fa4-6622-406f-b887-349c354b46a2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tarifeler
+- perakende
+- ithalat
+- Trump
+- liman hacimleri
+- tedarik zinciri
+- NRF
+- Çin
 ---
 <p style="text-align: justify">Perakendeciler, <strong>Trump</strong> yönetiminin ticaret politikalarındaki belirsizlikler nedeniyle ithalatlarını öne çekmekte. <a href="https://nrf.com/"><u><strong>National Retail Federation (NRF)</strong></u></a> ve <a href="https://www.hackettassociatesllc.com/"><u><strong>Hackett Associates</strong></u></a>'in <a href="https://www.hackettassociatesllc.com/global-port-tracker-north-america"><u><strong>Global Port Tracker</strong></u></a> raporuna göre, ABD limanlarındaki kargo hacimleri önümüzdeki üç ay boyunca yüksek seviyelerde kalacak.&nbsp;</p>
 <p><br></p>

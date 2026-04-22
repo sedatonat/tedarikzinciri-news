@@ -1,14 +1,23 @@
 ---
-title: "Avrupa Demiryolu Sektörü, 44 Tonluk Kamyon İzni Nedeniyle “Tersine Modal Kayma” Uyarısı Yaptı"
-subtitle: "Avrupa Demiryolu Sektörü, 44 Tonluk Kamyon İzni Nedeniyle “Tersine Modal Kayma” Uyarısı Yaptı"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b878eda8869a40d89f38fcfc3c626bec~mv2.jpg"
-imageAlt: "CER, ERFA, UIRR, UIP ve UNIFE’nin Weights & Dimensions Directive’e karşı ortak uyarısı, 44 tonluk fosil yakıtlı kamyonlara sınır ötesi izin verilmesinin rail freight üzerinde yaratacağı etkiler, reverse modal shift riski ve 2050 hedeflerine tehditlerin detaylı özeti"
-wixId: "3e316df6-4553-4953-b9dc-43d92e0327ce"
-author: "Sedat Onat"
+title: Avrupa Demiryolu Sektörü, 44 Tonluk Kamyon İzni Nedeniyle “Tersine Modal Kayma” Uyarısı Yaptı
+subtitle: Avrupa Demiryolu Sektörü, 44 Tonluk Kamyon İzni Nedeniyle “Tersine Modal Kayma” Uyarısı Yaptı
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b878eda8869a40d89f38fcfc3c626bec~mv2.jpg
+imageAlt: CER, ERFA, UIRR, UIP ve UNIFE’nin Weights & Dimensions Directive’e karşı ortak uyarısı, 44 tonluk fosil yakıtlı kamyonlara sınır ötesi izin verilmesinin rail freight üzerinde yaratacağı etkiler, reverse modal shift riski ve 2050 hedeflerine tehditlerin detaylı özeti
+wixId: 3e316df6-4553-4953-b9dc-43d92e0327ce
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- demiryolu taşımacılığı
+- modal kayma
+- 44 tonluk kamyon
+- Avrupa Birliği
+- intermodal taşımacılık
+- gigaliner
+- sürdürülebilir lojistik
+- karbon emisyonu
 ---
 <p style="text-align: justify">Avrupa’nın önde gelen demiryolu kurumları — <strong>CER</strong>, <strong>ERFA</strong>, <strong>UIRR</strong>, <strong>UIP</strong> ve <strong>UNIFE</strong> — Avrupa Konseyi’nin <strong>Weights and Dimensions Directive (WDD)</strong> kapsamında 44 tonluk fosil yakıtlı kamyonlara ve <strong>European Modular Systems (EMS)</strong> yani “<strong>gigaliners</strong>” olarak bilinen mega kamyonlara sınır ötesi geçiş izni tanıma yönündeki yaklaşımına karşı sert bir ortak açıklama yayımladı. Sektör temsilcilerinin ifadesine göre bu düzenleme, Avrupa Birliği’nin yıllardır inşa ettiği <strong>rail–intermodal</strong> politikasını tersine çevirerek, “<strong>reverse modal shift</strong>” riskini gündeme getirmekte.</p>
 <p><br></p>

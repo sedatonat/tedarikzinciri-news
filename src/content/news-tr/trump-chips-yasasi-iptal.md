@@ -1,14 +1,22 @@
 ---
-title: "Trump'ın CHIPS Yasası'nı İptal Etme Girişimi ve Olası Sonuçları"
-subtitle: "Trump'ın CHIPS Yasası'nı İptal Etme Girişimi ve Olası Sonuçları"
-date: "2025-03-12T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_55f11c04948d459983cbe6f68f2be0bf~mv2.jpg"
-imageAlt: "Trump'ın CHIPS Yasası'nı İptal Etme Girişimi ve Olası Sonuçları"
-wixId: "02989872-6441-4400-a7dc-25f270bf2e4e"
-author: "Sedat Onat"
+title: Trump'ın CHIPS Yasası'nı İptal Etme Girişimi ve Olası Sonuçları
+subtitle: Trump'ın CHIPS Yasası'nı İptal Etme Girişimi ve Olası Sonuçları
+date: '2025-03-12T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_55f11c04948d459983cbe6f68f2be0bf~mv2.jpg
+imageAlt: Trump'ın CHIPS Yasası'nı İptal Etme Girişimi ve Olası Sonuçları
+wixId: 02989872-6441-4400-a7dc-25f270bf2e4e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CHIPS Yasası
+- yarı iletken üretimi
+- Intel
+- TSMC
+- tedarik zinciri
+- ulusal güvenlik
+- ABD
 ---
 <p style="text-align: justify">ABD Başkanı Donald Trump, geçtiğimiz hafta Kongre'ye hitaben yaptığı konuşmada, <a href="https://en.wikipedia.org/wiki/CHIPS_and_Science_Act"><u><strong>CHIPS and Science Act</strong></u></a>'i "korkunç, korkunç bir şey" olarak nitelendirerek iptal edilmesi çağrısında bulundu. Başkan, bu yasanın büyük meblağlarda parayı şirketlere verdiğini ve bu paraların harcanmadığını iddia ederek, yasa kapsamında kalan fonların borcun azaltılması veya başka amaçlar için kullanılmasını önerdi.</p>
 <p><br></p>

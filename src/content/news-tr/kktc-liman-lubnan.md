@@ -1,13 +1,21 @@
 ---
-title: "KKTC, Güney Kıbrıs Rum Yönetimi ile Lübnan Arasındaki Deniz Sınırı Anlaşmasına İtiraz Etti"
-subtitle: "KKTC, Güney Kıbrıs Rum Yönetimi ile Lübnan Arasındaki Deniz Sınırı Anlaşmasına İtiraz Etti"
-date: "2025-11-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_35e0dc955c844f0683c622a4027ef892~mv2.jpg"
-wixId: "a8fa4aaf-c42b-4e87-aa2f-e1e3098966c7"
-author: "Sedat Onat"
+title: KKTC, Güney Kıbrıs Rum Yönetimi ile Lübnan Arasındaki Deniz Sınırı Anlaşmasına İtiraz Etti
+subtitle: KKTC, Güney Kıbrıs Rum Yönetimi ile Lübnan Arasındaki Deniz Sınırı Anlaşmasına İtiraz Etti
+date: '2025-11-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_35e0dc955c844f0683c622a4027ef892~mv2.jpg
+wixId: a8fa4aaf-c42b-4e87-aa2f-e1e3098966c7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- KKTC
+- Kıbrıs
+- deniz yetki alanı
+- Lübnan
+- Doğu Akdeniz
+- EEZ
+- enerji kaynakları
 ---
 <p style="text-align: justify"><strong>Kuzey Kıbrıs Türk Cumhuriyeti (KKTC)</strong>, <strong>Kıbrıs Rum Yönetimi (Cyprus Administration)</strong> ve <strong>Lübnan</strong> arasında 2007’de parafe edilen deniz yetki alanı sınırlandırma anlaşmasının 26 Kasım’da <strong>Beirut</strong>’ta yeniden imzalanmasına tepki gösterdi. Söz konusu anlaşma, Lübnan hükümetinin 23 Ekim 2025’te yaklaşık <strong>18 yıl</strong> bekleyen belgeyi onaylamasıyla yeniden gündeme gelmişti. İmza töreni, Kıbrıs Rum Yönetimi lideri <strong>Nikos Hristodulidis</strong>’in Lübnan ziyareti sırasında gerçekleşti.</p>
 <p><br></p>

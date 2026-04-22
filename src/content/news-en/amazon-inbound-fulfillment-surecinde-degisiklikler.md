@@ -1,16 +1,23 @@
 ---
-title: "Amazon Making Major Changes to Inbound Fulfillment Process"
-subtitle: "Amazon Making Major Changes to Inbound Fulfillment Process"
-date: "2024-11-01T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_0b9a69684c694372a3a6a4d3af7528a8~mv2.png"
-imageAlt: "Amazon Making Major Changes to Inbound Fulfillment Process"
-wixId: "6e68d012-0986-4c26-bfa0-acb16ccf7021"
-author: "Sedat Onat"
+title: Amazon Making Major Changes to Inbound Fulfillment Process
+subtitle: Amazon Making Major Changes to Inbound Fulfillment Process
+date: '2024-11-01T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_0b9a69684c694372a3a6a4d3af7528a8~mv2.png
+imageAlt: Amazon Making Major Changes to Inbound Fulfillment Process
+wixId: 6e68d012-0986-4c26-bfa0-acb16ccf7021
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Amazon
+- inbound fulfillment
+- inventory management
+- logistics network
+- robotic automation
+- e-commerce
+- warehouse operations
 ---
-
 <p>Amazon is overhauling inbound fulfillment processes for inventory entering its logistics network. CEO Andy Jassy disclosed during Thursday's Q3 earnings call that initial efforts to improve inventory placement are bearing fruit, with further investments underway. The e-commerce giant said it has made "hundreds of changes" to its U.S. inbound logistics network and opened more than 15 facilities focused on the inbound process.</p>
 <p><br></p>
 <p>Jassy stated, "While we are still in relatively early stages of this restructuring, we have increased our inventory distribution capability on an annualized basis by 25%. This allows us to have more of the products customers need in fulfillment centers closest to them. As a result, we can compile shipments and send them to customers more quickly."</p>

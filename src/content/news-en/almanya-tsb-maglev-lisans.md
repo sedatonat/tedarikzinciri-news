@@ -1,16 +1,23 @@
 ---
-title: "Germany Issues First Operating License for TSB Magnetic Levitation Train: \"Transrapid Trauma\" Officially Overcome"
-subtitle: "Germany Issues First Operating License for TSB Magnetic Levitation Train: \"Transrapid Trauma\" Officially Overcome"
-date: "2025-12-08T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_0192fe0c668342b4abcbd391ea3303b4~mv2.jpg"
-imageAlt: "The Federal Railway Authority (EBA) grants Transport System Bögl (TSB) maglev line an operating license for passenger transport, marking Europe's first commercial maglev approval since Transrapid, with detailed overview of technical specifications and potential Nuremberg pilot line"
-wixId: "36d9cfa5-0eb3-4de8-9cc3-92997047dc3f"
-author: "Sedat Onat"
+title: 'Germany Issues First Operating License for TSB Magnetic Levitation Train: "Transrapid Trauma" Officially Overcome'
+subtitle: 'Germany Issues First Operating License for TSB Magnetic Levitation Train: "Transrapid Trauma" Officially Overcome'
+date: '2025-12-08T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_0192fe0c668342b4abcbd391ea3303b4~mv2.jpg
+imageAlt: The Federal Railway Authority (EBA) grants Transport System Bögl (TSB) maglev line an operating license for passenger transport, marking Europe's first commercial maglev approval since Transrapid, with detailed overview of technical specifications and potential Nuremberg pilot line
+wixId: 36d9cfa5-0eb3-4de8-9cc3-92997047dc3f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- maglev
+- TSB
+- Germany
+- magnetic train
+- urban mobility
+- autonomous transportation
+- railway technology
 ---
-
 <p style="text-align: justify">Europe's long-standing regulatory barriers to <strong>maglev (magnetic levitation)</strong> technology have been overcome through a historic decision from Germany. The <strong>Federal Railway Authority (EBA)</strong> announced that it has granted a full operating license for passenger transport to <strong>Transport System Bögl (TSB)</strong>. This license confirms that TSB technology meets Germany's stringent safety and technical standards, and marks a turning point for maglev research in Europe, which has stalled since the cancellation of <strong>Transrapid</strong> projects.</p>
 <p><br></p>
 <p style="text-align: justify">With the EBA's approval, TSB Betriebs GmbH can now legally operate as a <strong>railway infrastructure company</strong>. This distinction, mandated by German railway law, fulfills the requirement that infrastructure managers and operating units be independent from one another. TSB has thus evolved from a mere technology provider into a <strong>market-ready transport system</strong> compliant with infrastructure and operations models.</p>

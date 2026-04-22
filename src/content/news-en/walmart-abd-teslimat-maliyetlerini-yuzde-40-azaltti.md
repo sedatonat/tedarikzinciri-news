@@ -1,14 +1,21 @@
 ---
-title: "Walmart Cuts U.S. Delivery Costs by 40% for Third Consecutive Quarter"
-subtitle: "Walmart Cuts U.S. Delivery Costs by 40% for Third Consecutive Quarter"
-date: "2024-11-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4bb2a291d16a445b9ce9cb59bcfb20b5~mv2.jpg"
-imageAlt: "Walmart Cuts U.S. Delivery Costs by 40% for Third Consecutive Quarter"
-wixId: "80364e88-5804-4f2e-b263-206d02dbc688"
-author: "Sedat Onat"
+title: Walmart Cuts U.S. Delivery Costs by 40% for Third Consecutive Quarter
+subtitle: Walmart Cuts U.S. Delivery Costs by 40% for Third Consecutive Quarter
+date: '2024-11-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4bb2a291d16a445b9ce9cb59bcfb20b5~mv2.jpg
+imageAlt: Walmart Cuts U.S. Delivery Costs by 40% for Third Consecutive Quarter
+wixId: 80364e88-5804-4f2e-b263-206d02dbc688
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Walmart
+- delivery cost
+- last mile
+- automation
+- e-commerce
+- supply chain
+- fast delivery
 ---
-
 <p>Walmart announced in the third quarter that it has reduced net delivery costs in the United States by 40%. The company's Senior Vice President and CFO John David Rainey stated during an earnings call on Tuesday that this achievement was driven by increasing automation and more efficient driver routes. Rainey said, "There are several key factors driving this progress: delivery concentration, increasing penetration of paid expedited delivery orders, and automation in our supply chain."</p>\n<p><br></p>\n<p>On a year-over-year basis, the number of orders per delivery increased by 20%, which made driver routes more cost-effective and productive. Walmart also manages more than 50% of the volume at distribution centers through automation, a rate that has doubled compared to a year ago.</p>\n<p><br></p>\n<p><strong>Key Figures:</strong></p>\n<ul>\n  <li><p>20% year-over-year increase in orders fulfilled by stores.</p></li>\n  <li><p>30% share of orders where customers pay extra for delivery in three hours or less.</p></li>\n  <li><p>40% reduction in net delivery costs in the U.S. in the third quarter.</p></li>\n  <li><p>50% of volume at distribution centers managed through automation.</p></li>\n</ul>\n<p><br></p>\n<p>Walmart has made steady progress in reducing last-mile delivery costs this year while expanding its online shopper base to spread expenses across more customers. Rainey said that store-fulfilled delivery sales grew nearly 50% year-over-year in the third quarter and exceeded a monthly run rate of $2.5 billion. "For the past 12 consecutive months, deliveries have exceeded $2 billion," he added.</p>\n<p><br></p>\n<p>Sales growth came as Walmart increased the number of stores offering delivery in the U.S. from 4,200 to 4,500 in the last quarter. While the company is working to provide more efficient delivery operations from these stores, it is not willing to compromise on delivery speed. According to Rainey, more than 30% of store-fulfilled deliveries come from orders where customers pay extra for delivery in three hours or less.</p>\n<p>Rainey noted that delivery speed investments, which will cause some delay in reaching profitability in the e-commerce business, are not a concern. "We want to deliver faster. We are very confident that we will make money in e-commerce," he said.</p>\n<p>Walmart has made fast delivery a priority in light of increasing competition with Amazon. The company's CEO Doug McMillon had announced in May that Walmart delivered 4.4 billion products with same-day or next-day delivery speeds in the U.S. While McMillon did not provide an update to this statistic during Tuesday's call, he noted that delivery speeds are "becoming increasingly important for customers."</p>\n<p><br></p>\n<h5><strong>Key Takeaways:</strong></h5>\n<ul>\n  <li><p>Walmart reduced net delivery costs by 40% in the U.S. in the third quarter.</p></li>\n  <li><p>Delivery concentration, paid expedited delivery, and automation are main drivers of cost reduction.</p></li>\n  <li><p>Store-fulfilled order volume increased 20% year-over-year.</p></li>\n  <li><p>Automation usage at distribution centers increased to 50%.</p></li>\n  <li><p>Store-fulfilled delivery sales grew 50% year-over-year in the third quarter.</p></li>\n  <li><p>Walmart expanded the number of stores offering delivery in the U.S. from 4,200 to 4,500.</p></li>\n  <li><p>The company achieved cost efficiency without compromising on delivery speed.</p></li>\n  <li><p>Walmart is committed to achieving profitability in e-commerce.</p></li>\n</ul>\n<p><br></p>\n<p>---</p>\n<p><br></p>\n<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/walmart-reduces-delivery-costs-earnings/733492/"><u>https://www.supplychaindive.com/news/walmart-reduces-delivery-costs-earnings/733492/</u></a></p>\n<p><br></p>\n<p>-------------------</p>\n<p><strong>!!! ANNOUNCEMENT !!!</strong></p>\n<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>\n<p>#What is ERP?</p>\n<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>\n<p>We would be delighted to hear your feedback.</p>\n<p>We wish you happy reading in advance.</p>

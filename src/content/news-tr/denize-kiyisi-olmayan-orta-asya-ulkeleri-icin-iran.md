@@ -1,14 +1,22 @@
 ---
-title: "Denize Kıyısı Olmayan Orta Asya Ülkeleri İçin İran Demiryolu Koridoru Planı"
-subtitle: "Denize Kıyısı Olmayan Orta Asya Ülkeleri İçin İran Demiryolu Koridoru Planı"
-date: "2025-01-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_abb0a107ae9d40c5aa9666bbf26fb8ff~mv2.jpg"
-imageAlt: "Denize Kıyısı Olmayan Orta Asya Ülkeleri İçin İran Demiryolu Koridoru Planı"
-wixId: "5d819736-77f5-4f31-b54c-931c6ec6b366"
-author: "Sedat Onat"
+title: Denize Kıyısı Olmayan Orta Asya Ülkeleri İçin İran Demiryolu Koridoru Planı
+subtitle: Denize Kıyısı Olmayan Orta Asya Ülkeleri İçin İran Demiryolu Koridoru Planı
+date: '2025-01-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_abb0a107ae9d40c5aa9666bbf26fb8ff~mv2.jpg
+imageAlt: Denize Kıyısı Olmayan Orta Asya Ülkeleri İçin İran Demiryolu Koridoru Planı
+wixId: 5d819736-77f5-4f31-b54c-931c6ec6b366
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- İran
+- Orta Asya
+- demiryolu koridoru
+- Chabahar Limanı
+- INSTC
+- Ashgabat Anlaşması
+- Hint Okyanusu
 ---
 <p style="text-align: justify">İran, Orta Asya'daki denize kıyısı olmayan ülkelerin Hint Okyanusu'na doğrudan erişimini sağlamak amacıyla kapsamlı bir demiryolu ağı geliştirme planı üzerinde çalışmakta. Bu plan, ülke genelinde dokuz ana koridor oluşturacak şekilde 3.200 kilometre yeni demiryolu hattının inşasını ve toplamda yaklaşık 17.000 kilometrelik bir demiryolu ağına ulaşmayı hedeflemekte. ​</p>
 <p><br></p>

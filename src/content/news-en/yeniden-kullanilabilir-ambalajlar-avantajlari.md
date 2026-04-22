@@ -1,16 +1,24 @@
 ---
-title: "The Dual Benefits of Reusable Packaging in Supply Chains"
-subtitle: "The Dual Benefits of Reusable Packaging in Supply Chains"
-date: "2024-11-21T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_00370951a2e9481bad7e3206560ce4ef~mv2.jpg"
-imageAlt: "The Dual Benefits of Reusable Packaging in Supply Chains"
-wixId: "7d4d7c92-39c9-451c-b41e-003cc1c7c513"
-author: "Sedat Onat"
+title: The Dual Benefits of Reusable Packaging in Supply Chains
+subtitle: The Dual Benefits of Reusable Packaging in Supply Chains
+date: '2024-11-21T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_00370951a2e9481bad7e3206560ce4ef~mv2.jpg
+imageAlt: The Dual Benefits of Reusable Packaging in Supply Chains
+wixId: 7d4d7c92-39c9-451c-b41e-003cc1c7c513
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- reusable packaging
+- sustainability
+- cost savings
+- carbon footprint
+- supply chain
+- Pack Expo International
+- 48forty Solutions
+- Tosca
 ---
-
 <p>At a training session held during Pack Expo International, the dual benefits of reusable transport packaging in supply chains were examined. It was emphasized that reusable packaging systems not only help companies achieve sustainability goals but also generate cost savings. An article prepared by Katie Pyzyk highlighted that increasing regulations and reporting requirements in the sustainability sector are directing companies toward reusable packaging solutions.</p>
 <p><br></p>
 <p>Jessica Bonsall, ESG Director at 48forty Solutions, stated, "Regulations, whether we like them or not, are here to stay," underscoring the significant role these regulations play in sustainability efforts. Karin Witton, Global Sustainability Manager at Tosca, noted that financial and environmental factors must be balanced. Witton explained that the cost of reusable packaging decreases with each use and improves operational efficiency.</p>

@@ -1,16 +1,23 @@
 ---
-title: "Panama Canal: Current Status on Transit Restrictions and Water Levels"
-subtitle: "Panama Canal: Current Status on Transit Restrictions and Water Levels"
-date: "2024-02-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_fa20aec7588f4bdb9a969f6998d9750d~mv2.jpg"
-imageAlt: "Panama Canal: Current Status on Transit Restrictions and Water Levels"
-wixId: "ec004e43-6853-4bca-8289-323c600a31fc"
-author: "Sedat Onat"
+title: 'Panama Canal: Current Status on Transit Restrictions and Water Levels'
+subtitle: 'Panama Canal: Current Status on Transit Restrictions and Water Levels'
+date: '2024-02-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_fa20aec7588f4bdb9a969f6998d9750d~mv2.jpg
+imageAlt: 'Panama Canal: Current Status on Transit Restrictions and Water Levels'
+wixId: ec004e43-6853-4bca-8289-323c600a31fc
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Panama Canal
+- transit restriction
+- water level
+- drought
+- Red Sea
+- LNG
+- maritime transport
 ---
-
 <p>Ilya Espino, Deputy Administrator of the Panama Canal Authority, told Reuters that the Panama Canal does not foresee further vessel transit restrictions at least through April. The Canal Authority will assess water levels following the dry season and will monitor water conditions before making any decisions. Severe drought in the final quarter of last year forced authorities to impose transit caps, but subsequent rainfall enabled further restrictions to be delayed until January.</p>
 <p><br></p>
 <p>Espino noted that recent attacks on vessels transiting through the Red Sea have increased shipping carriers' demand for passage through Panama as they seek alternative routes for Asia trade lanes. However, despite growing demand, the obligation to maintain reservoir water levels has prevented the canal from accommodating the redirected traffic. According to Espino, while many seeking alternative routes due to Red Sea disruptions have turned to Panama, this has not been feasible.</p>

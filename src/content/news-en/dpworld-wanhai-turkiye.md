@@ -1,16 +1,24 @@
 ---
-title: "DP World Brings Wan Hai Lines' New Far East–East Mediterranean Service to Turkey"
-subtitle: "DP World Brings Wan Hai Lines' New Far East–East Mediterranean Service to Turkey"
-date: "2025-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_43fae8bc2686413e84d52713298e302b~mv2.jpg"
-imageAlt: "Under an agreement with Taiwan-based Wan Hai Lines, DP World has launched the Far East–East Mediterranean (FM1) shipping line through Turkey's Gulf Terminal. The service connects ports in China and Southeast Asia to Turkey via the Suez Canal with weekly connections."
-wixId: "cc46a36c-a6da-4039-b88a-c8fc9d846f31"
-author: "Sedat Onat"
+title: DP World Brings Wan Hai Lines' New Far East–East Mediterranean Service to Turkey
+subtitle: DP World Brings Wan Hai Lines' New Far East–East Mediterranean Service to Turkey
+date: '2025-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_43fae8bc2686413e84d52713298e302b~mv2.jpg
+imageAlt: Under an agreement with Taiwan-based Wan Hai Lines, DP World has launched the Far East–East Mediterranean (FM1) shipping line through Turkey's Gulf Terminal. The service connects ports in China and Southeast Asia to Turkey via the Suez Canal with weekly connections.
+wixId: cc46a36c-a6da-4039-b88a-c8fc9d846f31
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- DP World
+- Wan Hai Lines
+- Gulf Terminal
+- container shipping
+- Far East
+- Eastern Mediterranean
+- Suez Canal
+- maritime shipping
 ---
-
 <p style="text-align: justify"><strong>DP World</strong>, through a new partnership with <strong>Wan Hai Lines</strong>, has launched a new shipping line that will <strong>position Turkey as a significant hub in Far East–East Mediterranean container traffic</strong>. The service, named <strong>FM1</strong>, will <strong>directly connect ports in China and Southeast Asia</strong> to <strong>Turkey's Gulf Terminal</strong> via the Suez Canal.</p>
 <p><br></p>
 <p style="text-align: justify">According to the agreement, <strong>the FM1 service will call at Gulf Terminal on a weekly basis</strong> and will operate with vessels each with <strong>4,300–6,500 TEU</strong> capacity. The first vessel on the route, <strong>Wan Hai 513</strong>, <strong>made its inaugural call to Turkey on October 23, 2025</strong>.</p>

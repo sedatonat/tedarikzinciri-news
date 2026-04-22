@@ -1,14 +1,22 @@
 ---
-title: "Birleşik Krallık Denizcilik Sektörü için Net Sıfır Vizyonu"
-subtitle: "Birleşik Krallık Denizcilik Sektörü için Net Sıfır Vizyonu"
-date: "2024-06-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_35160c2aac1747ebaed13d7e28cda9c5~mv2.jpg"
-imageAlt: "Birleşik Krallık Denizcilik Sektörü için Net Sıfır Vizyonu"
-wixId: "f8ddd29b-06ec-4ed2-bd48-5ae0d6e5cea6"
-author: "Sedat Onat"
+title: Birleşik Krallık Denizcilik Sektörü için Net Sıfır Vizyonu
+subtitle: Birleşik Krallık Denizcilik Sektörü için Net Sıfır Vizyonu
+date: '2024-06-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_35160c2aac1747ebaed13d7e28cda9c5~mv2.jpg
+imageAlt: Birleşik Krallık Denizcilik Sektörü için Net Sıfır Vizyonu
+wixId: f8ddd29b-06ec-4ed2-bd48-5ae0d6e5cea6
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Birleşik Krallık
+- denizcilik sektörü
+- net sıfır
+- dekarbonizasyon
+- sıfır emisyon
+- deniz yakıtları
+- sürdürülebilirlik
 ---
 <p>Çevre Denetim Komitesi, Birleşik Krallık'ın denizcilik sektöründeki 'net sıfır' hedefine yönelik bulgularını yayınladı. Mart 2021'de, Komite, karbon salınımını azaltması zor olan sivil havacılık ve denizcilik sektörlerinde dekarbonizasyonu teşvik etmek için bir araştırma başlattı. Komitenin raporunda, hükümetten 2024 Parlamento açılışından üç ay içinde 2019 Temiz Denizcilik Planı'nı güncellemesi talep edilmekte.&nbsp;</p>
 <p><br></p>

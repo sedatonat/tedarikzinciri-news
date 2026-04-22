@@ -1,14 +1,22 @@
 ---
-title: "Depo Yönetiminde Oyunlaştırma: Çalışan Bağlılığı ve Üretkenliği Artırmanın Yeni Yolu"
-subtitle: "Depo Yönetiminde Oyunlaştırma: Çalışan Bağlılığı ve Üretkenliği Artırmanın Yeni Yolu"
-date: "2024-02-16T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/11062b_ea86441d3460487bae226e163fbccd7c~mv2.jpg"
-imageAlt: "Depo Yönetiminde Oyunlaştırma: Çalışan Bağlılığı ve Üretkenliği Artırmanın Yeni Yolu"
-wixId: "ef333644-938b-47fe-9720-e969f1967e65"
-author: "Sedat Onat"
+title: 'Depo Yönetiminde Oyunlaştırma: Çalışan Bağlılığı ve Üretkenliği Artırmanın Yeni Yolu'
+subtitle: 'Depo Yönetiminde Oyunlaştırma: Çalışan Bağlılığı ve Üretkenliği Artırmanın Yeni Yolu'
+date: '2024-02-16T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/11062b_ea86441d3460487bae226e163fbccd7c~mv2.jpg
+imageAlt: 'Depo Yönetiminde Oyunlaştırma: Çalışan Bağlılığı ve Üretkenliği Artırmanın Yeni Yolu'
+wixId: ef333644-938b-47fe-9720-e969f1967e65
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- oyunlaştırma
+- depo yönetimi
+- çalışan bağlılığı
+- üretkenlik
+- tedarik zinciri
+- Lucas Systems
+- depo çalışanları
 ---
 <p>Depo yöneticileri için çalışan bağlılığını ve çekiciliğini artırma, ulusal çapta öncelikli konular arasında yer almaya devam ediyor. Depo ve depolama sektöründe istihdam, Kasım 2021'den bu yana en düşük seviyeye Aralık'ta düşerek 1.85 milyon çalışana geriledi. Bu durum, şirketlerin işe alımdan ziyade tedarik zincirlerini daha verimli hale getirmeye odaklandıklarını gösteriyor. Lucas Systems tarafından yapılan bir araştırma, bonus ödeme, ödül veya tanıma gibi teşvikler için yarışmalar gibi oyun mekaniği uygulamalarının, doğru yapıldığında çalışanların bağlılığını artırırken üretkenliği de artırabilecek bir strateji olarak popülerleştiğini ortaya koydu. Araştırma, 750 ABD ve İngiltere'deki depo çalışanını kapsayarak, çalışanların %84'ünün iş yerinde rekabeti içeren bir program geliştiren bir şirkette kalmaya daha meyilli olacağını buldu.</p>
 <p><strong>Önemli Notlar:</strong></p>

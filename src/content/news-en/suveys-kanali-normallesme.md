@@ -1,16 +1,24 @@
 ---
-title: "Suez Canal Traffic and Revenues Expected to Fully Normalize by End of 2026"
-subtitle: "Suez Canal Traffic and Revenues Expected to Fully Normalize by End of 2026"
-date: "2025-11-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c4c1e02a45e74090903ad52517f99eed~mv2.jpg"
-imageAlt: "Suez Canal Authority's statement on revenues and vessel traffic returning to full normality by end of 2026, Maersk's return, incentives, transit data and regional stability impacts comprehensive overview"
-wixId: "31119de2-88ef-4646-ba5e-88ebce552878"
-author: "Sedat Onat"
+title: Suez Canal Traffic and Revenues Expected to Fully Normalize by End of 2026
+subtitle: Suez Canal Traffic and Revenues Expected to Fully Normalize by End of 2026
+date: '2025-11-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c4c1e02a45e74090903ad52517f99eed~mv2.jpg
+imageAlt: Suez Canal Authority's statement on revenues and vessel traffic returning to full normality by end of 2026, Maersk's return, incentives, transit data and regional stability impacts comprehensive overview
+wixId: 31119de2-88ef-4646-ba5e-88ebce552878
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Suez Canal
+- Maersk
+- CMA CGM
+- maritime shipping
+- container ship
+- Red Sea
+- port revenues
+- Houthis
 ---
-
 <p style="text-align: justify"><strong>Suez Canal Authority (SCA)</strong> Chairman <strong>Osama Rabie</strong> told Al Arabiya Business in an interview that <strong>canal traffic and revenues are expected to return to fully normal levels by the end of 2026</strong>. Rabie noted that <strong>Maersk</strong>'s decision to stage a gradual return took shape as a result of six months of uninterrupted communication. Maersk will begin partial transits from December onwards, with the process subsequently ramping up to full capacity.</p>
 <p><br></p>
 <p style="text-align: justify">Rabie emphasized three key factors in restoring stability: the <strong>Sharm el-Sheikh peace conference</strong>, reassurance messages delivered on October 7 by <strong>President Abdel Fattah al-Sisi</strong> and <strong>U.S. President Donald Trump</strong>, and the announcement that <strong>Houthis</strong> have ceased attacks on transit vessels. These developments are said to have reduced international shipping companies' concerns about safely transiting through the canal.</p>

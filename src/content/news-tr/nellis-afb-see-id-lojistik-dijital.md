@@ -1,14 +1,22 @@
 ---
-title: "Nellis AFB, SEE ID Inc. ile Lojistik Yönetimini Dijitalleştiriyor"
-subtitle: "Nellis AFB, SEE ID Inc. ile Lojistik Yönetimini Dijitalleştiriyor"
-date: "2024-11-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4b0f49c5d02542f1b00bf8820eedef81~mv2.jpg"
-imageAlt: "Nellis AFB, SEE ID Inc. ile Lojistik Yönetimini Dijitalleştiriyor"
-wixId: "5492afaf-1885-48c0-bec0-cf497b22c1f4"
-author: "Sedat Onat"
+title: Nellis AFB, SEE ID Inc. ile Lojistik Yönetimini Dijitalleştiriyor
+subtitle: Nellis AFB, SEE ID Inc. ile Lojistik Yönetimini Dijitalleştiriyor
+date: '2024-11-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4b0f49c5d02542f1b00bf8820eedef81~mv2.jpg
+imageAlt: Nellis AFB, SEE ID Inc. ile Lojistik Yönetimini Dijitalleştiriyor
+wixId: 5492afaf-1885-48c0-bec0-cf497b22c1f4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Nellis AFB
+- SEE ID Inc
+- 5G teknoloji
+- varlık takibi
+- dijital lojistik
+- mühimmat yönetimi
+- RFID
 ---
 <p>Nellis Hava Kuvvetleri Üssü'nde bulunan 57. Munition Squadron (MUNS), mühimmat ve lojistik yönetiminde önemli zorluklarla karşı karşıya bulunuyordu. Geleneksel operasyonlar, yaklaşık 250 insan saati gerektiren manuel işlemlerle verimsiz, hataya açık ve sürdürülemez bir yapıya sahipti. Las Vegas, Nevada yakınlarında yer alan Nellis AFB, yüzlerce depolama sığınağına ev sahipliği yapıyor ve bu sığınakların doğru envanter kayıtları, envanter yönetimi, varlık takibi ve veri girişi için manuel operasyonlar gerektiriyordu. Ancak mevcut varlık yönetim platformu, Theater Integrated Combat Munitions System (TICMS), manuel veri girişi üzerine kurulu olması, verimsizlikleri ve kırılganlıkları artırıyordu.</p>
 <p><br></p>

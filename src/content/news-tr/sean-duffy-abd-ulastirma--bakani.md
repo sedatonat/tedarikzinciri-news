@@ -1,14 +1,22 @@
 ---
-title: "Sean Duffy ABD Ulaştırma Bakanı Olarak Onaylandı"
-subtitle: "Sean Duffy ABD Ulaştırma Bakanı Olarak Onaylandı"
-date: "2025-01-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d0baa9b12fff4e85bc419938dcfd3dce~mv2.jpg"
-imageAlt: "Sean Duffy ABD Ulaştırma Bakanı Olarak Onaylandı"
-wixId: "648fb579-6e40-4797-b104-bc3423c21943"
-author: "Sedat Onat"
+title: Sean Duffy ABD Ulaştırma Bakanı Olarak Onaylandı
+subtitle: Sean Duffy ABD Ulaştırma Bakanı Olarak Onaylandı
+date: '2025-01-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_d0baa9b12fff4e85bc419938dcfd3dce~mv2.jpg
+imageAlt: Sean Duffy ABD Ulaştırma Bakanı Olarak Onaylandı
+wixId: 648fb579-6e40-4797-b104-bc3423c21943
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Sean Duffy
+- ABD Ulaştırma Bakanlığı
+- kamyon taşımacılığı
+- altyapı
+- Boeing
+- elektrikli araç
+- tedarik zinciri
 ---
 <p>ABD Senatosu, eski Wisconsin milletvekili <strong>Sean Duffy</strong>'yi <strong>Ulaştırma Bakanlığı</strong>'nın başına getirmek üzere 77'ye karşı 22 oyla onayladı. Bu onay, <strong>Başkan Donald Trump</strong>'ın aday gösterdiği Duffy'nin, otomotiv, havacılık, demiryolu ve kamyon taşımacılığı endüstrilerinde güvenliği düzenleyen ve ulaşım altyapı projelerini finanse eden ajansları denetleyen bir departmanın başına geçmesini sağladı.</p>
 <p><br></p>

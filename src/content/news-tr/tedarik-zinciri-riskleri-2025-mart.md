@@ -1,14 +1,23 @@
 ---
-title: "2025’te Tedarik Zinciri Riskleri ve Anti-Fragil Stratejisi"
-subtitle: "2025’te Tedarik Zinciri Riskleri ve Anti-Fragil Stratejisi"
-date: "2025-03-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e105317a067d4392bda3d596b542f32e~mv2.jpg"
-imageAlt: "2025’te Tedarik Zinciri Riskleri ve Anti-Fragil Strateji: Görünürlük, Veri ve Esnek Sözleşmeler Öne Çıkmakta"
-wixId: "46c20a5d-688c-4cff-8104-9a38c1e5478b"
-author: "Sedat Onat"
+title: 2025’te Tedarik Zinciri Riskleri ve Anti-Fragil Stratejisi
+subtitle: 2025’te Tedarik Zinciri Riskleri ve Anti-Fragil Stratejisi
+date: '2025-03-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e105317a067d4392bda3d596b542f32e~mv2.jpg
+imageAlt: '2025’te Tedarik Zinciri Riskleri ve Anti-Fragil Strateji: Görünürlük, Veri ve Esnek Sözleşmeler Öne Çıkmakta'
+wixId: 46c20a5d-688c-4cff-8104-9a38c1e5478b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tedarik zinciri riskleri
+- anti-kırılgan strateji
+- Maersk
+- jeopolitik risk
+- AI lojistik
+- ESG emisyon
+- siber güvenlik
+- nearshoring
 ---
 <p style="text-align: justify"><strong>A.P. Moller-Maersk</strong> verilerine göre, 2024’te Avrupa’daki göndericilerin <strong>%76’sından fazlası</strong> tedarik zinciri kesintisi yaşamakta, her <strong>3 şirketten 1’i</strong> üretim için gerekli malzemeleri teminde zorlanmakta. 2025’in benzer koşullarla gelmesi, işletmeleri <strong>riskten kaçınmak</strong> yerine <strong>riski kucaklayan, anti-kırılgan</strong> yapılara yöneltmekte. Saf <strong>riskten kaçınma</strong> stratejileri yerini <strong>proaktif, çevik ve uyarlanabilir risk yönetimine</strong> bırakmakta; çünkü <strong>görünürlük eksikliği</strong> ve <strong>risk bilgisindeki yetersizlik</strong>, maliyet artışından müşteri-tedarikçi ilişkilerinin zedelenmesine kadar yeni riskler doğurmakta. Aşağıda, izlenmesi gereken <strong>ilk 10 risk</strong> ve her biri için öne çıkan aksiyonlar yer almakta.</p>
 <p style="text-align: justify"><br></p>

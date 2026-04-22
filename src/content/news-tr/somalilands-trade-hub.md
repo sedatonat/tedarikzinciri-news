@@ -1,14 +1,23 @@
 ---
-title: "Somaliland'ın Kızıldeniz'de Yeni Bir Ticaret Merkezi Olarak Potansiyeli"
-subtitle: "Somaliland'ın Kızıldeniz'de Yeni Bir Ticaret Merkezi Olarak Potansiyeli"
-date: "2025-01-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_76a01789dfa649d3b92ebf7ecb613375~mv2.jpg"
-imageAlt: "Somaliland'ın Kızıldeniz'de Yeni Bir Ticaret Merkezi Olarak Potansiyeli"
-wixId: "1364edd7-61c0-4385-8e77-0e6f4205daeb"
-author: "Sedat Onat"
+title: Somaliland'ın Kızıldeniz'de Yeni Bir Ticaret Merkezi Olarak Potansiyeli
+subtitle: Somaliland'ın Kızıldeniz'de Yeni Bir Ticaret Merkezi Olarak Potansiyeli
+date: '2025-01-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_76a01789dfa649d3b92ebf7ecb613375~mv2.jpg
+imageAlt: Somaliland'ın Kızıldeniz'de Yeni Bir Ticaret Merkezi Olarak Potansiyeli
+wixId: 1364edd7-61c0-4385-8e77-0e6f4205daeb
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Somaliland
+- Berbera Limanı
+- Kızıldeniz
+- DP World
+- Afrika Boynuzu
+- konteyner terminali
+- Etiyopya
+- liman yatırımı
 ---
 <p>Somaliland, son dönemde <strong>İsrail</strong> ve <strong>Birleşik Arap Emirlikleri (BAE)</strong> gibi küresel aktörlerin ilgisi ve stratejik altyapı yatırımlarıyla uluslararası arenada dikkat çekmektedir. Özellikle <strong>Berbera Limanı</strong>'nın genişletilmesi ve modernizasyonu, bölgenin ticaret ve jeopolitik önemini artırmaktadır.</p>
 <p><br></p>

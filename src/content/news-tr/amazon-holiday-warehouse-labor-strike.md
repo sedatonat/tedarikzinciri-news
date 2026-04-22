@@ -1,14 +1,23 @@
 ---
-title: "Amazon’da Tatil Sezonu Öncesi Grev Gerginliği"
-subtitle: "Amazon’da Tatil Sezonu Öncesi Grev Gerginliği"
-date: "2024-12-20T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a72d441dd7af44698a8327bd70728333~mv2.jpg"
-imageAlt: "Amazon’da Tatil Sezonu Öncesi Grev Gerginliği"
-wixId: "ffea44b8-35e8-422c-88f0-412c5f4dbd27"
-author: "Sedat Onat"
+title: Amazon’da Tatil Sezonu Öncesi Grev Gerginliği
+subtitle: Amazon’da Tatil Sezonu Öncesi Grev Gerginliği
+date: '2024-12-20T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_a72d441dd7af44698a8327bd70728333~mv2.jpg
+imageAlt: Amazon’da Tatil Sezonu Öncesi Grev Gerginliği
+wixId: ffea44b8-35e8-422c-88f0-412c5f4dbd27
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Amazon
+- grev
+- Teamsters
+- teslimat sürücüleri
+- tatil sezonu
+- sendika
+- tedarik zinciri
+- Southern California
 ---
 <p>Amazon, tatil sezonu yaklaşırken çeşitli dağıtım merkezlerinde ve teslimat ağlarında iş bırakma eylemleriyle gündeme geliyor. Southern California bölgesindeki bazı sürücüler, iş yükleri ve ücretlere dair yaşadıkları sorunlar nedeniyle dikkat çekici protestolar gerçekleştiriyor. Bu sürücülerin büyük bir kısmı, tedarik zincirinin önemli bir halkasında yer alarak özellikle “peak” döneminde teslimat sürekliliğini sağlamak için kritik role sahip oluyor. Fakat iş ve yaşam dengesinin bozulması, hak taleplerinin karşılanmaması ve ek koruyucu düzenlemelerin yetersizliği gibi nedenler, endişeleri giderek artırıyor. Bu atmosferde “Teamsters” adıyla bilinen sendika, işçilerin hak mücadelesine güçlü bir destek sunuyor.</p>
 <p><br></p>

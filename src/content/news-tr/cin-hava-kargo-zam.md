@@ -1,14 +1,22 @@
 ---
-title: "Yeni ABD Tarifesi Öncesi Çin Hava Kargo Talebi ve Fiyatları Yükselmekte"
-subtitle: "Yeni ABD Tarifesi Öncesi Çin Hava Kargo Talebi ve Fiyatları Yükselmekte"
-date: "2025-10-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a42a43e40d034145bc732c828e6d4fe0~mv2.jpeg"
-imageAlt: "Yeni ABD Tarifesi Öncesi Çin Hava Kargo Talebi ve Fiyatları Yükselmekte"
-wixId: "01c459c8-8b81-4c1a-a5a8-922668ee9008"
-author: "Sedat Onat"
+title: Yeni ABD Tarifesi Öncesi Çin Hava Kargo Talebi ve Fiyatları Yükselmekte
+subtitle: Yeni ABD Tarifesi Öncesi Çin Hava Kargo Talebi ve Fiyatları Yükselmekte
+date: '2025-10-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a42a43e40d034145bc732c828e6d4fe0~mv2.jpeg
+imageAlt: Yeni ABD Tarifesi Öncesi Çin Hava Kargo Talebi ve Fiyatları Yükselmekte
+wixId: 01c459c8-8b81-4c1a-a5a8-922668ee9008
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- hava kargo
+- ABD-Çin
+- gümrük vergisi
+- trans-Pasifik
+- tedarik zinciri
+- nadir toprak elementleri
+- spot fiyatlar
 ---
 <p style="text-align: justify"><strong>ABD Başkanı Donald Trump</strong>’ın 1 Kasım’dan itibaren <strong>Çin mallarına %100 ek gümrük vergisi</strong> uygulama tehdidi, <strong>trans-Pasifik hava kargo trafiğinde</strong> talebi hızla artırmakta. <strong>The Journal of Commerce (JOC)</strong> tarafından aktarılan bilgilere göre, ithalatçılar potansiyel tarifelerden kaçınmak için siparişlerini öne çekmekte ve denizyolu taşımacılığına kıyasla daha hızlı teslimat sağlayan <strong>hava kargo kanallarına</strong> yönelmekte.</p>
 <p><br></p>

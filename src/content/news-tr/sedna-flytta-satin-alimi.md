@@ -1,14 +1,22 @@
 ---
-title: "Sedna, Flytta'yı Satın Aldı"
-subtitle: "Sedna, Flytta'yı Satın Aldı"
-date: "2025-03-04T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_6ebd413680444286a9310436f28affd6~mv2.jpg"
-imageAlt: "Sedna, Flytta'yı Satın Aldı"
-wixId: "45a638d8-2449-415a-8d5a-0b40442224db"
-author: "Sedat Onat"
+title: Sedna, Flytta'yı Satın Aldı
+subtitle: Sedna, Flytta'yı Satın Aldı
+date: '2025-03-04T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_6ebd413680444286a9310436f28affd6~mv2.jpg
+imageAlt: Sedna, Flytta'yı Satın Aldı
+wixId: 45a638d8-2449-415a-8d5a-0b40442224db
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Sedna
+- Flytta
+- satın alma
+- yapay zeka
+- iş akışı otomasyonu
+- tedarik zinciri
+- denizcilik teknolojisi
 ---
 <p style="text-align: justify">Birleşik Krallık merkezli teknoloji firması <strong>Sedna</strong>, küresel ticaret ve tedarik zincirleri için yapay zekâ destekli iş akışı otomasyon platformu <strong>Flytta</strong>'yı satın aldı. Satınalım bedeli açıklanmadı.&nbsp;</p>
 <p><br></p>

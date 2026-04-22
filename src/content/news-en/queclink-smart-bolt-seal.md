@@ -1,16 +1,23 @@
 ---
-title: "Queclink's Smart Bolt-Seal Innovation: Container Security Elevated to New Heights"
-subtitle: "Queclink's Smart Bolt-Seal Innovation: Container Security Elevated to New Heights"
-date: "2025-11-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_fb9862a8f8a643858f7302e040bd70c2~mv2.png"
-imageAlt: "IoT device manufacturer Queclink Wireless Solutions is targeting enhanced security in high-value container shipping with its new smart bolt-seal (GES100CG) compliant with ISO 17712 standards. The device provides real-time container integrity protection with LTE connectivity, GNSS positioning, and instant breach alert capabilities."
-wixId: "12e34639-6179-4ad5-9762-fa1ce75ea767"
-author: "Sedat Onat"
+title: 'Queclink''s Smart Bolt-Seal Innovation: Container Security Elevated to New Heights'
+subtitle: 'Queclink''s Smart Bolt-Seal Innovation: Container Security Elevated to New Heights'
+date: '2025-11-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_fb9862a8f8a643858f7302e040bd70c2~mv2.png
+imageAlt: IoT device manufacturer Queclink Wireless Solutions is targeting enhanced security in high-value container shipping with its new smart bolt-seal (GES100CG) compliant with ISO 17712 standards. The device provides real-time container integrity protection with LTE connectivity, GNSS positioning, and instant breach alert capabilities.
+wixId: 12e34639-6179-4ad5-9762-fa1ce75ea767
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Queclink
+- smart seal
+- container security
+- IoT
+- supply chain
+- maritime shipping
+- real-time tracking
 ---
-
 <p style="text-align: justify"><strong>Queclink Wireless Solutions</strong> has introduced a next-generation <strong>smart bolt-seal solution</strong> aimed at <strong>strengthening container security</strong> in the global supply chain.</p>
 <p><br>
 The new product, <strong>GES100CG</strong>, is designed for both <strong>ocean shipping</strong> and <strong>intermodal freight transport</strong> and offers full compliance with the <strong>ISO 17712 high-security standard</strong>.</p>

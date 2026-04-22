@@ -1,14 +1,22 @@
 ---
-title: "Leaf Home, Uber Freight TMS ile Lojistiğini Modernleştirerek Maliyetleri %20 Azalttı"
-subtitle: "Leaf Home, Uber Freight TMS ile Lojistiğini Modernleştirerek Maliyetleri %20 Azalttı"
-date: "2025-11-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/nsplsh_39507362355131544c4434~mv2.jpg"
-imageAlt: "Leaf Home, hızlı büyüme sonrası karmaşık hâle gelen tedarik zincirini Uber Freight’in modern TMS platformu ile dijitalleştirerek 1000 saat iş gücü tasarrufu, %20 FTL maliyet düşüşü ve yüksek teslimat performansı elde etti."
-wixId: "00bcfc04-3afa-43f7-b548-ad9631c2cd88"
-author: "Sedat Onat"
+title: Leaf Home, Uber Freight TMS ile Lojistiğini Modernleştirerek Maliyetleri %20 Azalttı
+subtitle: Leaf Home, Uber Freight TMS ile Lojistiğini Modernleştirerek Maliyetleri %20 Azalttı
+date: '2025-11-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/nsplsh_39507362355131544c4434~mv2.jpg
+imageAlt: Leaf Home, hızlı büyüme sonrası karmaşık hâle gelen tedarik zincirini Uber Freight’in modern TMS platformu ile dijitalleştirerek 1000 saat iş gücü tasarrufu, %20 FTL maliyet düşüşü ve yüksek teslimat performansı elde etti.
+wixId: 00bcfc04-3afa-43f7-b548-ad9631c2cd88
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Uber Freight
+- TMS
+- Leaf Home
+- maliyet azaltma
+- lojistik optimizasyonu
+- dijital dönüşüm
+- otomasyon
 ---
 <p style="text-align: justify"><strong>Leaf Home</strong>, oluk koruma sistemlerinden su filtrasyon çözümlerine ve ev içi mobilite ürünlerine kadar geniş bir ürün gamı sunan, Kuzey Amerika genelinde doğrudan tüketiciye hizmet veren bir marka. Pandemi döneminde ev yenileme sektöründeki patlama, şirketin <strong>30’dan 250+ lokasyona</strong> genişlemesine yol açtı. Ancak büyüme hızı, Leaf Home’un hâlâ <strong>manuel süreçlere dayanan lojistik yönetimi</strong> için ciddi bir darboğaza dönüştü.</p>
 <p style="text-align: justify"><br></p>

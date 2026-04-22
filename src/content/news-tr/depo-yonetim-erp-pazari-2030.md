@@ -1,14 +1,23 @@
 ---
-title: "Depo Yönetim Sistemleri Pazarı 2030'da 10 Milyar Dolara Ulaşacak"
-subtitle: "Depo Yönetim Sistemleri Pazarı 2030'da 10 Milyar Dolara Ulaşacak"
-date: "2025-02-24T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_a9b020aac2e04c05b2101c977f410a2d~mv2.jpg"
-imageAlt: "Depo Yönetim Sistemleri Pazarı 2030'da 10 Milyar Dolara Ulaşacak"
-wixId: "a65127e1-cc3c-48fd-95e5-436c66ba49b8"
-author: "Sedat Onat"
+title: Depo Yönetim Sistemleri Pazarı 2030'da 10 Milyar Dolara Ulaşacak
+subtitle: Depo Yönetim Sistemleri Pazarı 2030'da 10 Milyar Dolara Ulaşacak
+date: '2025-02-24T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_a9b020aac2e04c05b2101c977f410a2d~mv2.jpg
+imageAlt: Depo Yönetim Sistemleri Pazarı 2030'da 10 Milyar Dolara Ulaşacak
+wixId: a65127e1-cc3c-48fd-95e5-436c66ba49b8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- WMS
+- depo yönetim sistemi
+- pazar büyümesi
+- yapay zeka
+- blockchain
+- RPA
+- dijital dönüşüm
+- e-ticaret
 ---
 <p style="text-align: justify"><strong>ABI Research</strong>'ün son raporuna göre, <strong>Depo Yönetim Sistemleri (WMS)</strong> pazarının 2024 ile 2030 yılları arasında yıllık bileşik büyüme oranının (CAGR) %15,7 olması ve gelirlerin 4,5 milyar dolardan 10,7 milyar dolara yükselmesi beklenmektedir. ​</p>
 <p><br></p>

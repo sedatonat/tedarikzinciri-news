@@ -1,14 +1,23 @@
 ---
-title: "Tedarik Eğitim Bütçeleri Düşük, Yapay Zeka Boşluğu Doldurabilir mi?"
-subtitle: "Tedarik Eğitim Bütçeleri Düşük, Yapay Zeka Boşluğu Doldurabilir mi?"
-date: "2025-02-11T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_1d3d81a45d2a48c7aef6b1714de0e58c~mv2.jpg"
-imageAlt: "Tedarik Eğitim Bütçeleri Düşük, Yapay Zeka Boşluğu Doldurabilir mi?"
-wixId: "aa48c879-a885-4ecf-a1f7-974129ab5dd2"
-author: "Sedat Onat"
+title: Tedarik Eğitim Bütçeleri Düşük, Yapay Zeka Boşluğu Doldurabilir mi?
+subtitle: Tedarik Eğitim Bütçeleri Düşük, Yapay Zeka Boşluğu Doldurabilir mi?
+date: '2025-02-11T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_1d3d81a45d2a48c7aef6b1714de0e58c~mv2.jpg
+imageAlt: Tedarik Eğitim Bütçeleri Düşük, Yapay Zeka Boşluğu Doldurabilir mi?
+wixId: aa48c879-a885-4ecf-a1f7-974129ab5dd2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- yapay zeka
+- tedarik zinciri
+- GenAI
+- Gartner
+- eğitim bütçesi
+- AI agents
+- veri yönetimi
+- otomasyon
 ---
 <p style="text-align: justify">Tedarik zinciri yönetiminde <strong>Yapay Zeka (YZ)</strong>'nın yükselişi, sektörde önemli değişimlere yol açmakta. <strong>Gartner</strong>'ın araştırmasına göre, <strong>Generative AI (GenAI)</strong>, tedarik süreçlerini yeniden tanımlayan üç önemli yenilik sunmakta: <strong>agentic reasoning</strong>, <strong>multimodality</strong> ve <strong>AI agents</strong>. Bu yenilikler, tedarik süreçlerini daha verimli hale getirerek profesyonellerin rollerini dönüştürmekte. ​</p>
 <p><br></p>

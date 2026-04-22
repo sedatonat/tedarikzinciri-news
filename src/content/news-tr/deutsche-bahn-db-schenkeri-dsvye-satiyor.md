@@ -1,14 +1,22 @@
 ---
-title: "Deutsche Bahn, DB Schenker'i DSV'ye Satıyor"
-subtitle: "Deutsche Bahn, DB Schenker'i DSV'ye Satıyor"
-date: "2024-10-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_cf235d5d8ed44059a0bbebb562c0edd2~mv2.jpg"
-imageAlt: "Deutsche Bahn, DB Schenker'i DSV'ye Satıyor"
-wixId: "8b863c32-d89e-4ea0-ad24-565a72f17120"
-author: "Sedat Onat"
+title: Deutsche Bahn, DB Schenker'i DSV'ye Satıyor
+subtitle: Deutsche Bahn, DB Schenker'i DSV'ye Satıyor
+date: '2024-10-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_cf235d5d8ed44059a0bbebb562c0edd2~mv2.jpg
+imageAlt: Deutsche Bahn, DB Schenker'i DSV'ye Satıyor
+wixId: 8b863c32-d89e-4ea0-ad24-565a72f17120
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Deutsche Bahn
+- DB Schenker
+- DSV
+- satın alma
+- lojistik
+- Danimarka
+- demiryolu
 ---
 <p>Deutsche Bahn AG'nin Denetim Kurulu, 1 Ekim'de yapılan toplantıda DB Schenker'in Danimarkalı taşımacılık ve lojistik grubu DSV'ye satılmasını onayladı. Aynı zamanda federal hükümet, Federal Bütçe Yasası (BHO) kapsamında gerekli onayı verdi. Tüm düzenleyici onayların alınmasının ardından, satışın 2025 yılında tamamlanması bekleniyor.</p>
 <p><br></p>

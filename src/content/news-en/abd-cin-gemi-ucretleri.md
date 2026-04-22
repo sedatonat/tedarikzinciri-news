@@ -1,16 +1,23 @@
 ---
-title: "U.S. Tariffs on Chinese-Built Vessels Spark Controversy"
-subtitle: "U.S. Tariffs on Chinese-Built Vessels Spark Controversy"
-date: "2025-03-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_117d9ebd00484cf893c43e22befca0b2~mv2.jpg"
-imageAlt: "U.S. Tariffs on Chinese-Built Vessels Spark Controversy"
-wixId: "a73a22e2-60ff-4c79-83b7-1d3416f14998"
-author: "Sedat Onat"
+title: U.S. Tariffs on Chinese-Built Vessels Spark Controversy
+subtitle: U.S. Tariffs on Chinese-Built Vessels Spark Controversy
+date: '2025-03-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_117d9ebd00484cf893c43e22befca0b2~mv2.jpg
+imageAlt: U.S. Tariffs on Chinese-Built Vessels Spark Controversy
+wixId: a73a22e2-60ff-4c79-83b7-1d3416f14998
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- USA
+- China
+- shipbuilding
+- CMA CGM
+- maritime
+- trade war
+- tariff
 ---
-
 <p style="text-align: justify">The U.S. plan to impose tariffs of "up to 1 million dollars" on vessels ordered from China is raising concerns across the maritime shipping sector. According to <strong>CMA CGM</strong> executives, these tariffs would particularly impact large shipping companies that place orders with Chinese shipyards. The proposed tariff would directly affect eight of the nine major shipping alliance companies.​<a href="https://shippingwatch.com/carriers/Container/article17958446.ece" rel="noopener" target="_blank">shippingwatch.com</a></p>
 <p><br></p>
 <p style="text-align: justify"><strong>CMA CGM</strong> officials contend that such a tariff would create unfair competition in the maritime sector and negatively impact trade flows. China has emerged as a leader in shipbuilding in recent years, with many major shipping companies redirecting vessel orders to Chinese shipyards to capitalize on cost advantages.​</p>

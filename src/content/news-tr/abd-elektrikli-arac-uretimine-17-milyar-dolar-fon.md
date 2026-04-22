@@ -1,14 +1,22 @@
 ---
-title: "ABD, Elektrikli Araç Üretimini 17 Milyar Dolarlık Fon ile Destekliyor"
-subtitle: "ABD, Elektrikli Araç Üretimini 17 Milyar Dolarlık Fon ile Destekliyor"
-date: "2024-07-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2d973b2a3e0b4c22b95547c5da64ff03~mv2.jpeg"
-imageAlt: "ABD, Elektrikli Araç Üretimini 17 Milyar Dolarlık Fon ile Destekliyor"
-wixId: "bb68e08b-a9d8-49e9-a1d5-705e884b3c4e"
-author: "Sedat Onat"
+title: ABD, Elektrikli Araç Üretimini 17 Milyar Dolarlık Fon ile Destekliyor
+subtitle: ABD, Elektrikli Araç Üretimini 17 Milyar Dolarlık Fon ile Destekliyor
+date: '2024-07-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2d973b2a3e0b4c22b95547c5da64ff03~mv2.jpeg
+imageAlt: ABD, Elektrikli Araç Üretimini 17 Milyar Dolarlık Fon ile Destekliyor
+wixId: bb68e08b-a9d8-49e9-a1d5-705e884b3c4e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- elektrikli araç
+- ABD
+- tedarik zinciri
+- batarya üretimi
+- iklim değişikliği
+- Biden yönetimi
+- otomotiv
 ---
 <p>ABD hükümeti, elektrikli araç (EV) üretimini ve tedarik zincirini güçlendirmek için 17 milyar dolarlık bir fon ayırdı. Bu fon, elektrikli araç üreticilerine yönelik kredi ve hibelerden oluşuyor. ABD Enerji Bakanlığı (DOE), bu kaynakları mevcut otomotiv fabrikalarının dönüştürülmesi ve yeni elektrikli araç bileşenlerinin üretimi için kullanmayı planlıyor. Ayrıca, bu fon, gelişmiş batarya üretimi için de kullanılacak ve ABD'nin küresel elektrikli araç pazarında lider olmasına yardımcı olacak. Hedef, 2030 yılına kadar ABD'de üretilen batarya kapasitelerini 10 katına çıkarmak ve bu süreçte on milyonlarca yeni iş imkanı yaratmak.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Reuters: Çin’in “Gölgeli Sivil Donanması” Tayvan Çıkarması İçin Tatbikat Yapıyor"
-subtitle: "Reuters: Çin’in “Gölgeli Sivil Donanması” Tayvan Çıkarması İçin Tatbikat Yapıyor"
-date: "2025-11-20T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d1aa9a0bc7ac460990680664773ca970~mv2.jpg"
-imageAlt: "Reuters araştırması, Çin’in sivil feribotlar ve kargo gemilerini kullanarak Tayvan’a olası bir amfibi çıkarma için tatbikat yürüttüğünü; uydu görüntülerinin gemilerin plaj çıkarmaları yaptığını ortaya koydu."
-wixId: "c2c7bcfb-8b67-4221-9b26-3eda073fa68d"
-author: "Sedat Onat"
+title: 'Reuters: Çin’in “Gölgeli Sivil Donanması” Tayvan Çıkarması İçin Tatbikat Yapıyor'
+subtitle: 'Reuters: Çin’in “Gölgeli Sivil Donanması” Tayvan Çıkarması İçin Tatbikat Yapıyor'
+date: '2025-11-20T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_d1aa9a0bc7ac460990680664773ca970~mv2.jpg
+imageAlt: Reuters araştırması, Çin’in sivil feribotlar ve kargo gemilerini kullanarak Tayvan’a olası bir amfibi çıkarma için tatbikat yürüttüğünü; uydu görüntülerinin gemilerin plaj çıkarmaları yaptığını ortaya koydu.
+wixId: c2c7bcfb-8b67-4221-9b26-3eda073fa68d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Çin
+- Tayvan
+- RoRo gemileri
+- amfibi çıkarma
+- sivil donanma
+- deniz lojistiği
+- askerî tatbikat
 ---
 <p style="text-align: justify">Reuters’ın bir yıllık veri takibi, uydu görüntüleri ve açık kaynaklı analizlerle yürüttüğü kapsamlı araştırma, Çin’in <strong>sivil gemilerden oluşan bir “gölge donanmayı”</strong> Tayvan’a karşı olası bir işgalde kullanmak üzere sistematik şekilde hazırladığını gün yüzüne çıkardı. Bulgular, Çin Halk Kurtuluş Ordusu’nun yaz aylarında Guangdong’daki <strong>Jiesheng Plajı</strong> yakınlarında geniş ölçekli amfibi tatbikatlar yürüttüğünü, bu tatbikatlarda <strong>roll-on/roll-off (RoRo) feribotlar ve deck cargo gemileri</strong> dahil toplam 12 sivil geminin yer aldığını gösteriyor.</p>
 <p><br></p>

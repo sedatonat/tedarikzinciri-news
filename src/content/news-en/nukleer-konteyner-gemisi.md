@@ -1,16 +1,24 @@
 ---
-title: "Seaspan Evaluates New SMR Report for Nuclear-Powered Container Ships"
-subtitle: "Seaspan Evaluates New SMR Report for Nuclear-Powered Container Ships"
-date: "2025-11-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5a7acf81b84a4f85bb14f8e43622db0c~mv2.jpeg"
-imageAlt: "A detailed summary of the report prepared by Lloyd's Register and LucidCatalyst, presenting Seaspan's technical, economic and supply chain analysis for container ships powered by small modular reactors."
-wixId: "67500299-5ba8-4285-81fc-3ee45f223d8d"
-author: "Sedat Onat"
+title: Seaspan Evaluates New SMR Report for Nuclear-Powered Container Ships
+subtitle: Seaspan Evaluates New SMR Report for Nuclear-Powered Container Ships
+date: '2025-11-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5a7acf81b84a4f85bb14f8e43622db0c~mv2.jpeg
+imageAlt: A detailed summary of the report prepared by Lloyd's Register and LucidCatalyst, presenting Seaspan's technical, economic and supply chain analysis for container ships powered by small modular reactors.
+wixId: 67500299-5ba8-4285-81fc-3ee45f223d8d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- SMR
+- nuclear propulsion
+- container ship
+- Seaspan
+- Lloyd's Register
+- maritime
+- emission reduction
+- sustainability
 ---
-
 <p style="text-align: justify"><strong>Seaspan Corporation</strong> has sparked a compelling debate in the global maritime sector with the publication of a new evaluation report on nuclear-powered container ships. The study, prepared by <strong>Lloyd's Register</strong> and <strong>LucidCatalyst</strong>, demonstrates that small modular reactors (<strong>SMR</strong>) can be technically, economically and regulatorily feasible for integration into container fleets. According to the report, nuclear propulsion not only eliminates emissions; it also creates cost advantages on a scale that could fundamentally transform freight economics.</p>
 <p><br></p>
 <p style="text-align: justify">The analysis shows that a nuclear-powered vessel could deliver annual savings of approximately <strong>$68 million</strong>. Of this, <strong>$50 million</strong> would come from the elimination of bunker fuel costs, and <strong>$18 million</strong> from the removal of carbon penalties. The report emphasizes that nuclear propulsion will create a striking transformation not only in emissions but also in the largest line items of ship operating costs.</p>

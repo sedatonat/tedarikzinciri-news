@@ -1,14 +1,23 @@
 ---
-title: "İran'a Bağlı VLCC Filosu Hurdaya Çıkmaya Hazırlanıyor"
-subtitle: "İran'a Bağlı VLCC Filosu Hurdaya Çıkmaya Hazırlanıyor"
-date: "2024-12-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c6b39a65d5b343369ea29b0b977b336b~mv2.jpg"
-imageAlt: "İran'a Bağlı VLCC Filosu Hurdaya çıkmak için hazırlanıyor"
-wixId: "7b0478fb-8337-4325-9ade-68978e170455"
-author: "Sedat Onat"
+title: İran'a Bağlı VLCC Filosu Hurdaya Çıkmaya Hazırlanıyor
+subtitle: İran'a Bağlı VLCC Filosu Hurdaya Çıkmaya Hazırlanıyor
+date: '2024-12-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c6b39a65d5b343369ea29b0b977b336b~mv2.jpg
+imageAlt: İran'a Bağlı VLCC Filosu Hurdaya çıkmak için hazırlanıyor
+wixId: 7b0478fb-8337-4325-9ade-68978e170455
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- VLCC
+- İran
+- gölge filo
+- yaptırımlar
+- tanker piyasası
+- hurda gemi
+- Çin
+- petrol taşımacılığı
 ---
 <p>İran bağlantılı Very Large Crude Carriers (VLCC) filosunda önemli değişiklikler yaşanıyor. ABD'nin 47. Başkanı Donald Trump'ın göreve başlamasına sadece altı hafta kala, İran'ın tankeri filosuna yönelik yeni yaptırımlar ve Çin'in İran petrolü ithalatını hafifletmeye başlaması, sektör üzerinde büyük etki yaratıyor. Braemar'ın yayımladığı yeni bir rapora göre, iki gölge filo VLCC'si hurdaya için piyasaya sürülüyor. Bu gemiler hurdaya çıkarılırsa, 2022'den bu yana ilk kez VLCC'lerin söküme girme sürecine girmesi söz konusu olacak.</p>
 <p><br></p>

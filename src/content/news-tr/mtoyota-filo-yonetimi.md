@@ -1,14 +1,22 @@
 ---
-title: "Toyota’nın Yeni MyToyota Portalı, Forklift Filo Yönetimini Dönüştürüyor"
-subtitle: "Toyota’nın Yeni MyToyota Portalı, Forklift Filo Yönetimini Dönüştürüyor"
-date: "2025-11-09T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_f0762cb1cbcd4ffdb0515ab35a8f4f95~mv2.jpeg"
-imageAlt: "Toyota Material Handling UK’nin yeni MyToyota portalı, forklift filoları için maliyet, enerji tüketimi, sözleşmeler, güvenlik ve servis yönetimini tek platformda birleştirerek veri odaklı, şeffaf ve verimli operasyonlar sunuyor."
-wixId: "b06d58de-6ddb-4ca9-b703-4cc9256cce6e"
-author: "Sedat Onat"
+title: Toyota’nın Yeni MyToyota Portalı, Forklift Filo Yönetimini Dönüştürüyor
+subtitle: Toyota’nın Yeni MyToyota Portalı, Forklift Filo Yönetimini Dönüştürüyor
+date: '2025-11-09T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_f0762cb1cbcd4ffdb0515ab35a8f4f95~mv2.jpeg
+imageAlt: Toyota Material Handling UK’nin yeni MyToyota portalı, forklift filoları için maliyet, enerji tüketimi, sözleşmeler, güvenlik ve servis yönetimini tek platformda birleştirerek veri odaklı, şeffaf ve verimli operasyonlar sunuyor.
+wixId: b06d58de-6ddb-4ca9-b703-4cc9256cce6e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Toyota
+- forklift
+- filo yönetimi
+- MyToyota
+- dijital dönüşüm
+- I_Site
+- telematik
 ---
 <p style="text-align: justify">Toyota Material Handling UK, forklift filolarının yönetiminde şeffaflık, verimlilik ve veri odaklı operasyon beklentilerinin hızla arttığı bir dönemde <strong>MyToyota</strong> isimli yeni müşteri portalını piyasaya sundu. Platform, işletmelerin tüm forklift filolarına ilişkin maliyet, enerji tüketimi, sözleşmeler, servis planları ve güvenlik protokollerini tek bir dijital ekosistem üzerinden yönetmesine olanak tanıyor.</p>
 <p><br></p>

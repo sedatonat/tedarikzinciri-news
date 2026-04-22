@@ -1,14 +1,22 @@
 ---
-title: "İtalyan Domates Püresi Ürünlerinin Çin Kaynaklı Olduğu Ortaya Çıktı"
-subtitle: "İtalyan Domates Püresi Ürünlerinin Çin Kaynaklı Olduğu Ortaya Çıktı"
-date: "2024-12-02T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_a65b3549ba884821b2b76439233c5a78~mv2.jpg"
-imageAlt: "İtalyan Domates Püresi Ürünlerinin Çin Kaynaklı Olduğu Ortaya Çıktı"
-wixId: "074520a7-edc2-44a0-a26c-a445d167b5b7"
-author: "Sedat Onat"
+title: İtalyan Domates Püresi Ürünlerinin Çin Kaynaklı Olduğu Ortaya Çıktı
+subtitle: İtalyan Domates Püresi Ürünlerinin Çin Kaynaklı Olduğu Ortaya Çıktı
+date: '2024-12-02T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_a65b3549ba884821b2b76439233c5a78~mv2.jpg
+imageAlt: İtalyan Domates Püresi Ürünlerinin Çin Kaynaklı Olduğu Ortaya Çıktı
+wixId: 074520a7-edc2-44a0-a26c-a445d167b5b7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- domates püresi
+- Çin
+- İtalya
+- tedarik zinciri
+- menşe şeffaflığı
+- gıda güvenliği
+- Birleşik Krallık
 ---
 <p>Bazı İtalyan domates püresi ürünlerinin Birleşik Krallık süpermarketlerinde Çin'den temin edildiği ortaya çıktı. Bu durum, tüketiciler arasında ürünlerin gerçek İtalyan kalitesi ve menşei konusunda soru işaretlerine yol açtı. SupplyChainBrain tarafından yapılan araştırma, özellikle popüler markaların bazılarının aslen Çin'de üretildiğini gösterdi. Bu gelişme, hem üretici firmalar hem de perakendeciler için önemli bir itibar sorunu oluşturabilir.</p>
 <p><br></p>

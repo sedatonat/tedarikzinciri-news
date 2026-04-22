@@ -1,14 +1,23 @@
 ---
-title: "Polonya'nın LPG Menşei Talepleri Belarus Sınırında Yüzlerce Vagonun Beklemesine Neden Oldu"
-subtitle: "Polonya'nın LPG Menşei Talepleri Belarus Sınırında Yüzlerce Vagonun Beklemesine Neden Oldu"
-date: "2025-01-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5a3625318ef0426d96dda03f1109dc16~mv2.jpg"
-imageAlt: "Polonya'nın LPG Menşei Talepleri Belarus Sınırında Yüzlerce Vagonun Beklemesine Neden Oldu"
-wixId: "f9d1c7ed-9082-4a7d-923e-4e8f3431e55e"
-author: "Sedat Onat"
+title: Polonya'nın LPG Menşei Talepleri Belarus Sınırında Yüzlerce Vagonun Beklemesine Neden Oldu
+subtitle: Polonya'nın LPG Menşei Talepleri Belarus Sınırında Yüzlerce Vagonun Beklemesine Neden Oldu
+date: '2025-01-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5a3625318ef0426d96dda03f1109dc16~mv2.jpg
+imageAlt: Polonya'nın LPG Menşei Talepleri Belarus Sınırında Yüzlerce Vagonun Beklemesine Neden Oldu
+wixId: f9d1c7ed-9082-4a7d-923e-4e8f3431e55e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- LPG
+- Polonya
+- Belarus
+- Kazakistan
+- menşe belgesi
+- gümrük kontrolleri
+- AB yaptırımları
+- enerji tedarik zinciri
 ---
 <p style="text-align: justify">Polonya'nın sıvılaştırılmış petrol gazı (<strong>LPG</strong>) ithalatında menşe belgesi taleplerini artırması, Belarus sınırında yüzlerce tanker vagonunun beklemesine yol açtı. Özellikle Kazakistan'dan gelen LPG sevkiyatları, Polonya gümrük yetkililerinin ürünün gerçek menşeini doğrulamak için ek belgeler istemesi nedeniyle sınırda durduruldu. Bu durum, Kazak üreticilerin Avrupa'ya LPG ihracatında vagon sıkıntısı yaşamasına sebep oldu.​</p>
 <p><br></p>

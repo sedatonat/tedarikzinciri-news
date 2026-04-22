@@ -1,14 +1,23 @@
 ---
-title: "New York City, Yük Taşımacılığında Su Yollarını Devreye Alıyor: Blue Highways Pilot Programı Başladı"
-subtitle: "New York City, Yük Taşımacılığında Su Yollarını Devreye Alıyor: Blue Highways Pilot Programı Başladı"
-date: "2025-12-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c0f47e05131942b0a46e8eda6dd83f85~mv2.jpg"
-imageAlt: "New York City’nin Blue Highways programı kapsamında Manhattan–Brooklyn arasında başlattığı su yolu bazlı freight pilotu, kamyon trafiğini azaltma hedefi, elektrikli cargo bike entegrasyonu ve kentsel lojistikte dayanıklılık arayışının detaylı özeti"
-wixId: "65ea2326-bfb3-4ffa-8427-5f99d3cd3781"
-author: "Sedat Onat"
+title: 'New York City, Yük Taşımacılığında Su Yollarını Devreye Alıyor: Blue Highways Pilot Programı Başladı'
+subtitle: 'New York City, Yük Taşımacılığında Su Yollarını Devreye Alıyor: Blue Highways Pilot Programı Başladı'
+date: '2025-12-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c0f47e05131942b0a46e8eda6dd83f85~mv2.jpg
+imageAlt: New York City’nin Blue Highways programı kapsamında Manhattan–Brooklyn arasında başlattığı su yolu bazlı freight pilotu, kamyon trafiğini azaltma hedefi, elektrikli cargo bike entegrasyonu ve kentsel lojistikte dayanıklılık arayışının detaylı özeti
+wixId: 65ea2326-bfb3-4ffa-8427-5f99d3cd3781
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- New York City
+- su yolu taşımacılığı
+- Blue Highways
+- son kilometre teslimatı
+- electric cargo bike
+- kentsel lojistik
+- multimodal taşımacılık
+- emisyon azaltımı
 ---
 <p style="text-align: justify"><strong>New York City</strong>, artan teslimat hacmi, yoğun kamyon trafiği ve kentsel hava kirliliği sorunlarına karşı lojistik altyapısında köklü bir denemeye başladı. Şehir yönetimi, yük taşımacılığında kara yolu bağımlılığını azaltmak amacıyla <strong>su yollarını aktif bir freight network</strong> olarak kullanan yeni bir pilot projeyi devreye aldı. Bu girişim, <strong>Blue Highways</strong> programı kapsamında hayata geçirilmekte ve New York’un tarihsel liman kimliğini modern kentsel lojistikle yeniden buluşturmayı hedeflemekte.</p>
 <p><br></p>

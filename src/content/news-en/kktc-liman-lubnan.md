@@ -1,16 +1,23 @@
 ---
-title: "Turkish Republic of Northern Cyprus Protests Maritime Boundary Agreement Between Cyprus and Lebanon"
-subtitle: "Turkish Republic of Northern Cyprus Protests Maritime Boundary Agreement Between Cyprus and Lebanon"
-date: "2025-11-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_35e0dc955c844f0683c622a4027ef892~mv2.jpg"
-imageAlt: ""
-wixId: "a8fa4aaf-c42b-4e87-aa2f-e1e3098966c7"
-author: "Sedat Onat"
+title: Turkish Republic of Northern Cyprus Protests Maritime Boundary Agreement Between Cyprus and Lebanon
+subtitle: Turkish Republic of Northern Cyprus Protests Maritime Boundary Agreement Between Cyprus and Lebanon
+date: '2025-11-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_35e0dc955c844f0683c622a4027ef892~mv2.jpg
+imageAlt: ''
+wixId: a8fa4aaf-c42b-4e87-aa2f-e1e3098966c7
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- TRNC
+- Cyprus
+- maritime jurisdiction area
+- Lebanon
+- Eastern Mediterranean
+- EEZ
+- energy resources
 ---
-
 <p style="text-align: justify"><strong>The Turkish Republic of Northern Cyprus (TRNC)</strong> has protested the re-signing of a maritime jurisdiction delimitation agreement between the <strong>Cyprus Administration</strong> and <strong>Lebanon</strong>, which was initialed in 2007, at a ceremony held on November 26 in <strong>Beirut</strong>. The agreement returned to the agenda following Lebanon's government approval of the document on October 23, 2025, after approximately <strong>18 years</strong> of waiting. The signing ceremony took place during a visit to Lebanon by Cyprus Administration leader <strong>Nikos Hristodulidis</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The TRNC characterizes the signing of the agreement as another link in a chain of unilateral actions taken by the Cyprus Administration in the Eastern Mediterranean since 2003. The statement emphasizes that these steps do not take into account the "<strong>equal rights and interests</strong>" framework of the Turkish Cypriot people. The TRNC maintains that the Cyprus Administration's unilateral maritime jurisdiction delimitation initiatives are "<strong>entirely null and void</strong>" and that the 2007 agreement falls within this category.</p>

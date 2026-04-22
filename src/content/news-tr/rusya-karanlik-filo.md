@@ -1,14 +1,23 @@
 ---
-title: "Rusya ve Çin, İlk “Karanlık” LNG Aktarımıyla Yaptırımları Aşıyor"
-subtitle: "Rusya ve Çin, İlk “Karanlık” LNG Aktarımıyla Yaptırımları Aşıyor"
-date: "2025-10-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f7dfd260682d4d7d99ab69900e748e8d~mv2.jpg"
-imageAlt: "Rusya ve Çin, İlk “Karanlık” LNG Aktarımıyla Yaptırımları Aşıyor"
-wixId: "c664d80b-5447-4904-9637-3a3ffea9ec39"
-author: "Sedat Onat"
+title: Rusya ve Çin, İlk “Karanlık” LNG Aktarımıyla Yaptırımları Aşıyor
+subtitle: Rusya ve Çin, İlk “Karanlık” LNG Aktarımıyla Yaptırımları Aşıyor
+date: '2025-10-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f7dfd260682d4d7d99ab69900e748e8d~mv2.jpg
+imageAlt: Rusya ve Çin, İlk “Karanlık” LNG Aktarımıyla Yaptırımları Aşıyor
+wixId: c664d80b-5447-4904-9637-3a3ffea9ec39
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- LNG
+- karanlık filo
+- Rusya
+- Çin
+- yaptırım
+- gemiden-gemiye aktarım
+- Gazprom
+- enerji ticareti
 ---
 <p style="text-align: justify"><strong>Rusya</strong>, Batı yaptırımlarını aşma stratejisinde yeni bir aşamaya geçmekte. Ülke, <strong>Çinli bir LNG taşıyıcısıyla iş birliği yaparak ilk kez “karanlık filo (shadow fleet)” üzerinden sıvılaştırılmış doğalgaz (LNG) gemiden-gemiye aktarımı (ship-to-ship transfer / STS)</strong> gerçekleştirmekte. Uydu görüntüleri ve <strong>AIS (Automatic Identification System)</strong> verilerinin kısmen kapalı olduğu bu operasyonun <strong>18 Ekim 2025’te Malezya açıklarında</strong> gerçekleştiği tespit edilmekte.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Karadeniz’de Iki Tankere Yönelik Saldırı Sonrası Acil Müdahale Başlatıldı"
-subtitle: "Karadeniz’de Iki Tankere Yönelik Saldırı Sonrası Acil Müdahale Başlatıldı"
-date: "2025-11-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_91ca45d212a44176b3d0a76fbe8f8abd~mv2.jpg"
-imageAlt: "Karadeniz’de Rusya bağlantılı Kairos ve Virat tankerlerinde yaşanan patlamalar sonrası tüm mürettebatın tahliye edildiği, gemilerde “harici etki” bulgularının incelendiği ve Türkiye’nin bölgede geniş ölçekli deniz güvenlik operasyonları yürüttüğü olaylara ilişkin detaylı haber özeti"
-wixId: "0296c0a8-662b-45ed-80cd-89805671ec03"
-author: "Sedat Onat"
+title: Karadeniz’de Iki Tankere Yönelik Saldırı Sonrası Acil Müdahale Başlatıldı
+subtitle: Karadeniz’de Iki Tankere Yönelik Saldırı Sonrası Acil Müdahale Başlatıldı
+date: '2025-11-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_91ca45d212a44176b3d0a76fbe8f8abd~mv2.jpg
+imageAlt: Karadeniz’de Rusya bağlantılı Kairos ve Virat tankerlerinde yaşanan patlamalar sonrası tüm mürettebatın tahliye edildiği, gemilerde “harici etki” bulgularının incelendiği ve Türkiye’nin bölgede geniş ölçekli deniz güvenlik operasyonları yürüttüğü olaylara ilişkin detaylı haber özeti
+wixId: 0296c0a8-662b-45ed-80cd-89805671ec03
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Karadeniz
+- tanker
+- shadow fleet
+- deniz güvenliği
+- Rusya yaptırımları
+- enerji taşımacılığı
+- deniz mayını
 ---
 <p style="text-align: justify">Karadeniz’in kuzeybatı kesiminde <strong>Gambia bayraklı 150.000 dwt’lik Kairos</strong> ve <strong>115.600 dwt’lik Virat</strong> tankerlerinde yaşanan ardışık patlamalar, bölgesel güvenlik açısından önemli bir alarm etkisi oluşturdu. Türkiye’nin <strong>Ulaştırma ve Altyapı Bakanlığı</strong>, ilk sinyalin Kairos’tan geldiğini ve geminin Kocaeli açıklarında <strong>yaklaşık 28 deniz mili mesafede</strong> “harici bir etki” sonrası yangın çıkardığını açıkladı. Olay anında ballast durumunda olan Kairos’ta <strong>25 kişilik mürettebatın tamamı</strong> hızlı şekilde tahliye edildi. Tahliye kararının ardından <strong>Rescue-12</strong>, <strong>Nene Hatun</strong> acil müdahale gemisi ve iki hızlı müdahale botu bölgeye sevk edildi. Açık güverte yangını tamamen söndürüldü, kapalı bölümlerde ise soğutma ve gaz ölçümleri devam etmekte.</p>
 <p><br></p>

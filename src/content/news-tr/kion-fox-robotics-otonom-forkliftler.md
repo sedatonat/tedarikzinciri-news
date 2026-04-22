@@ -1,14 +1,23 @@
 ---
-title: "Kion ve Fox Robotics'ten Stratejik Ortaklık: Otonom Forkliftlerin Yükselişi"
-subtitle: "Kion ve Fox Robotics'ten Stratejik Ortaklık: Otonom Forkliftlerin Yükselişi"
-date: "2024-05-07T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_60bf5e392bbc42b69fa7313f3a91d0f5~mv2.png"
-imageAlt: "Kion ve Fox Robotics'ten Stratejik Ortaklık: Otonom Forkliftlerin Yükselişi"
-wixId: "18fa5666-b89f-4e3f-a6a7-9d52ab50e00c"
-author: "Sedat Onat"
+title: 'Kion ve Fox Robotics''ten Stratejik Ortaklık: Otonom Forkliftlerin Yükselişi'
+subtitle: 'Kion ve Fox Robotics''ten Stratejik Ortaklık: Otonom Forkliftlerin Yükselişi'
+date: '2024-05-07T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_60bf5e392bbc42b69fa7313f3a91d0f5~mv2.png
+imageAlt: 'Kion ve Fox Robotics''ten Stratejik Ortaklık: Otonom Forkliftlerin Yükselişi'
+wixId: 18fa5666-b89f-4e3f-a6a7-9d52ab50e00c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kion
+- Fox Robotics
+- otonom forklift
+- depo otomasyonu
+- AMR
+- Walmart
+- yapay zeka
+- tedarik zinciri
 ---
 <p>Kion North America, Fox Robotics ile yapılan bir anlaşma doğrultusunda, şirketin otonom forkliftlerinden FoxBot ATL'leri (autonomous trailer loader/unloader) üretecek. Bu işbirliği, Güney Carolina, Summerville'deki tesislerde gerçekleştirilecek. Fox Robotics, 2019 yılından bu yana otonom mobil robotlar (AMR) sınıfında dünyanın ilk elektrikli, stand-up otonom forklifti olan FoxBot'u satışa sunuyor. FoxBot, depo yükleme alanlarında yüklemeyi ve boşaltmayı otomatize eden bir teknolojiye sahip.</p>
 <p><br></p>

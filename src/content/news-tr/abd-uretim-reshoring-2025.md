@@ -1,14 +1,22 @@
 ---
-title: "ABD’de Üretim Geri Döner mi? Reshoring Gerçeği, Engeller ve Yeni Model"
-subtitle: "ABD’de Üretim Geri Döner mi? Reshoring Gerçeği, Engeller ve Yeni Model"
-date: "2025-10-31T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_7b34918722dc448dbc08d8399a345d03~mv2.jpg"
-imageAlt: "Reshoring Institute Direktörü Rosemary Coates, ABD’nin üretimi geri çekme çabalarında iş gücü beceri açığı, altyapı eksikliği, yüksek maliyetler ve fabrika kapasitesi yetersizliği nedeniyle kısmi ama sınırlı bir dönüşün mümkün olduğunu; asıl fırsatın sofistike, otomasyon ağırlıklı üretimde olduğunu vurguluyor."
-wixId: "c3b5c52c-583e-4f98-960f-f1857a83569f"
-author: "Sedat Onat"
+title: ABD’de Üretim Geri Döner mi? Reshoring Gerçeği, Engeller ve Yeni Model
+subtitle: ABD’de Üretim Geri Döner mi? Reshoring Gerçeği, Engeller ve Yeni Model
+date: '2025-10-31T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_7b34918722dc448dbc08d8399a345d03~mv2.jpg
+imageAlt: Reshoring Institute Direktörü Rosemary Coates, ABD’nin üretimi geri çekme çabalarında iş gücü beceri açığı, altyapı eksikliği, yüksek maliyetler ve fabrika kapasitesi yetersizliği nedeniyle kısmi ama sınırlı bir dönüşün mümkün olduğunu; asıl fırsatın sofistike, otomasyon ağırlıklı üretimde olduğunu vurguluyor.
+wixId: c3b5c52c-583e-4f98-960f-f1857a83569f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- reshoring
+- ABD üretim
+- Meksika
+- otomasyon
+- tedarik zinciri
+- ticaret savaşları
+- Çin
 ---
 <p style="text-align: justify">ABD’de uzun zamandır tartışılan “üretimi eve döndürme” (reshoring) gündemi, 2025 itibarıyla yeniden önem kazanmış durumda. Ancak Reshoring Institute’un Direktörü <strong>Rosemary Coates</strong>, bu dönüşün “<strong>evet ve hayır</strong>” arası bir cevap olduğunu; yani <strong>kısmi olarak mümkün</strong>, ama <strong>geniş ölçekli ve hızlı bir geri dönüşün gerçekçi olmadığını</strong> belirtiyor.</p>
 <p><br></p>

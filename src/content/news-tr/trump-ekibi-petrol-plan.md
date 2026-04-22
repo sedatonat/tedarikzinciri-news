@@ -1,14 +1,23 @@
 ---
-title: "Trump Ekibi, Rusya Anlaşması ve İran Baskısı İçin Petrol Yaptırımları Planını Hazırlıyor"
-subtitle: "Trump Ekibi, Rusya Anlaşması ve İran Baskısı İçin Petrol Yaptırımları Planını Hazırlıyor"
-date: "2025-01-16T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_5f0fb1901e624c24b1e9b4a3ccd32341~mv2.jpg"
-imageAlt: "Trump Ekibi, Rusya Anlaşması ve İran Baskısı İçin Petrol Yaptırımları Planını Hazırlıyor"
-wixId: "1883bfab-e2e6-4ecc-ad7e-e6b6dab7cd14"
-author: "Sedat Onat"
+title: Trump Ekibi, Rusya Anlaşması ve İran Baskısı İçin Petrol Yaptırımları Planını Hazırlıyor
+subtitle: Trump Ekibi, Rusya Anlaşması ve İran Baskısı İçin Petrol Yaptırımları Planını Hazırlıyor
+date: '2025-01-16T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_5f0fb1901e624c24b1e9b4a3ccd32341~mv2.jpg
+imageAlt: Trump Ekibi, Rusya Anlaşması ve İran Baskısı İçin Petrol Yaptırımları Planını Hazırlıyor
+wixId: 1883bfab-e2e6-4ecc-ad7e-e6b6dab7cd14
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- petrol yaptırımları
+- Trump
+- Rusya
+- İran
+- Venezuela
+- Brent petrol fiyatları
+- Scott Bessent
+- Ukrayna savaşı
 ---
 <p style="text-align: justify">Başkan seçilen <strong>Donald Trump</strong>'ın danışmanları, Rusya-Ukrayna diplomatik anlaşmasını kolaylaştırmak ve aynı zamanda <strong>İran</strong> ve <strong>Venezuela</strong>'ya baskı uygulamak amacıyla kapsamlı bir yaptırım stratejisi üzerinde çalışmakta.</p>
 <p style="text-align: justify"><br></p>

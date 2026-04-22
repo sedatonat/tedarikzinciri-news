@@ -1,14 +1,22 @@
 ---
-title: "Mitsubishi Electric'in MiFly Depo Drone'ları Karanlıkta Gezinmekte"
-subtitle: "Mitsubishi Electric'in MiFly Depo Drone'ları Karanlıkta Gezinmekte"
-date: "2025-02-19T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_41297c7389ee4f2bb4f252972f96655f~mv2.jpg"
-imageAlt: "Mitsubishi Electric'in MiFly Depo Drone'ları Karanlıkta Gezinmekte"
-wixId: "6b3d8f01-12ce-4bc4-8abf-336c87002c6e"
-author: "Sedat Onat"
+title: Mitsubishi Electric'in MiFly Depo Drone'ları Karanlıkta Gezinmekte
+subtitle: Mitsubishi Electric'in MiFly Depo Drone'ları Karanlıkta Gezinmekte
+date: '2025-02-19T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_41297c7389ee4f2bb4f252972f96655f~mv2.jpg
+imageAlt: Mitsubishi Electric'in MiFly Depo Drone'ları Karanlıkta Gezinmekte
+wixId: 6b3d8f01-12ce-4bc4-8abf-336c87002c6e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Mitsubishi Electric
+- MiFly
+- depo drone
+- yapay zeka
+- envanter yönetimi
+- depo otomasyonu
+- lojistik teknolojisi
 ---
 <p style="text-align: justify"><strong>Mitsubishi Electric</strong>'in geliştirdiği <strong>MiFly</strong> adlı drone'lar, depolarda karanlık ortamlarda gezinme yeteneğiyle dikkat çekmekte. Bu yenilikçi teknoloji, depolama ve lojistik sektöründe devrim yaratma potansiyeline sahip.​</p>
 <p><br></p>

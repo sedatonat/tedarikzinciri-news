@@ -1,14 +1,23 @@
 ---
-title: "Almatı'ya Yeni Çok Fonksiyonlu Demiryolu Yük Terminali"
-subtitle: "Almatı'ya Yeni Çok Fonksiyonlu Demiryolu Yük Terminali"
-date: "2025-03-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_26b9aef662c147138624f12edbc7b339~mv2.jpg"
-imageAlt: "Almatı'ya Yeni Çok Fonksiyonlu Demiryolu Yük Terminali"
-wixId: "1c64b529-b0ad-4f7a-865b-3d90889844f7"
-author: "Sedat Onat"
+title: Almatı'ya Yeni Çok Fonksiyonlu Demiryolu Yük Terminali
+subtitle: Almatı'ya Yeni Çok Fonksiyonlu Demiryolu Yük Terminali
+date: '2025-03-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_26b9aef662c147138624f12edbc7b339~mv2.jpg
+imageAlt: Almatı'ya Yeni Çok Fonksiyonlu Demiryolu Yük Terminali
+wixId: 1c64b529-b0ad-4f7a-865b-3d90889844f7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Almatı
+- demiryolu terminali
+- Kazakistan
+- Çin
+- Belt and Road Initiative
+- Kedentransservis
+- lojistik altyapı
+- Orta Asya
 ---
 <p style="text-align: justify">Kazakistan'ın en büyük lojistik terminal operatörü olan <strong>Kedentransservis</strong>, Çinli <strong>China Xinjiang Commercial Logistics</strong> şirketiyle ortak bir girişim kurarak, Almatı yakınlarında yeni bir demiryolu yük terminali inşa etmeyi planlamakta. Bu yeni terminal, çeşitli yük türlerini işleyebilecek kapasiteye sahip olacak şekilde tasarlanmakta.</p>
 <p><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "First Container Shipment From China to Europe via Arctic Northern Sea Route Successfully Completed"
-subtitle: "First Container Shipment From China to Europe via Arctic Northern Sea Route Successfully Completed"
-date: "2025-10-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_eea2a04d7aaa4a7090dd2d321c13413f~mv2.jpg"
-imageAlt: "The first container shipping voyage from China to Europe via the Northern Sea Route (Northern Sea Route) has been successfully completed. The vessel departed from China on September 23 and reached the Port of Felixstowe in the United Kingdom in just 20 days, delivering approximately 25,000 tons of cargo."
-wixId: "3e10dee2-ee47-4c50-ad73-16d7b42f93d1"
-author: "Sedat Onat"
+title: First Container Shipment From China to Europe via Arctic Northern Sea Route Successfully Completed
+subtitle: First Container Shipment From China to Europe via Arctic Northern Sea Route Successfully Completed
+date: '2025-10-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_eea2a04d7aaa4a7090dd2d321c13413f~mv2.jpg
+imageAlt: The first container shipping voyage from China to Europe via the Northern Sea Route (Northern Sea Route) has been successfully completed. The vessel departed from China on September 23 and reached the Port of Felixstowe in the United Kingdom in just 20 days, delivering approximately 25,000 tons of cargo.
+wixId: 3e10dee2-ee47-4c50-ad73-16d7b42f93d1
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Northern Sea Route
+- Arctic
+- container shipping
+- China
+- Suez Canal
+- icebreaker
+- Ice Silk Road
+- Russia
 ---
-
 <p style="text-align: justify"><strong>According to a statement from the Russian Federation's Ministry of Transport,</strong> <strong>the first container shipping voyage from China to Europe via the Northern Sea Route (NSR) has been successfully completed.</strong> This voyage is viewed as a significant milestone in global maritime history; it has proven the <strong>logistical viability</strong> of a new trade corridor that could <strong>serve as an alternative to the traditional Suez Canal route.</strong></p>
 <p><br></p>
 <p style="text-align: justify">The container vessel <strong>departed from its loading port in China on September 23, 2025</strong> and reached <strong>the Port of Felixstowe in the United Kingdom in just 20 days.</strong> The vessel carried approximately <strong>25,000 tons of cargo.</strong> This timeline represents <strong>approximately 50 percent time savings</strong> when compared to the same voyage via the <strong>Suez Canal, which takes approximately 40 days,</strong> or <strong>around 50 days via the Cape of Good Hope route.</strong></p>

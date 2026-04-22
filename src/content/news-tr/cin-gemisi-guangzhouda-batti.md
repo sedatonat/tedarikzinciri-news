@@ -1,14 +1,22 @@
 ---
-title: "Çin Bayraklı Gemi Guangzhou Açıklarında Battı: İki Mürettebat Kayıp"
-subtitle: "Çin Bayraklı Gemi Guangzhou Açıklarında Battı: İki Mürettebat Kayıp"
-date: "2025-10-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/cb034225cc5a43e0ba8ed240fa7af950.jpg"
-imageAlt: "Çin Bayraklı Gemi Guangzhou Açıklarında Battı: İki Mürettebat Kayıp"
-wixId: "daf916e5-3e86-4fad-8816-50f1c82d7457"
-author: "Sedat Onat"
+title: 'Çin Bayraklı Gemi Guangzhou Açıklarında Battı: İki Mürettebat Kayıp'
+subtitle: 'Çin Bayraklı Gemi Guangzhou Açıklarında Battı: İki Mürettebat Kayıp'
+date: '2025-10-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/cb034225cc5a43e0ba8ed240fa7af950.jpg
+imageAlt: 'Çin Bayraklı Gemi Guangzhou Açıklarında Battı: İki Mürettebat Kayıp'
+wixId: daf916e5-3e86-4fad-8816-50f1c82d7457
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- gemi kazası
+- Çin
+- Guangzhou
+- konteyner gemisi
+- deniz taşımacılığı
+- Singapur
+- Güney Çin Denizi
 ---
 <p style="text-align: justify"><strong>Guangzhou açıklarında bir Çin bandıralı gemi</strong>, bir <strong>Singapur tescilli konteyner gemisiyle çarpışmasının ardından battı.</strong></p>
 <p><br>

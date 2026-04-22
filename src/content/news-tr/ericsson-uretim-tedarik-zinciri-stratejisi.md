@@ -1,14 +1,22 @@
 ---
-title: "Ericsson'in Geniş Tabanlı Üretim Stratejisi ve Tedarik Zinciri Dayanıklılığı"
-subtitle: "Ericsson'in Geniş Tabanlı Üretim Stratejisi ve Tedarik Zinciri Dayanıklılığı"
-date: "2025-01-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_aa32c248a1744783a304e887b65c6d57~mv2.jpg"
-imageAlt: "Ericsson'in Geniş Tabanlı Üretim Stratejisi ve Tedarik Zinciri Dayanıklılığı"
-wixId: "16d76a2c-8c7e-45e4-abe9-9356ad325f8d"
-author: "Sedat Onat"
+title: Ericsson'in Geniş Tabanlı Üretim Stratejisi ve Tedarik Zinciri Dayanıklılığı
+subtitle: Ericsson'in Geniş Tabanlı Üretim Stratejisi ve Tedarik Zinciri Dayanıklılığı
+date: '2025-01-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_aa32c248a1744783a304e887b65c6d57~mv2.jpg
+imageAlt: Ericsson'in Geniş Tabanlı Üretim Stratejisi ve Tedarik Zinciri Dayanıklılığı
+wixId: 16d76a2c-8c7e-45e4-abe9-9356ad325f8d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ericsson
+- tedarik zinciri dayanıklılığı
+- üretim stratejisi
+- Texas
+- tarife
+- jeopolitik risk
+- küresel üretim ağı
 ---
 <p><strong>Ericsson</strong>, son iki yılda ABD'deki 300.000 metrekarelik fabrikasına 50 milyon dolar yatırım yaparak, tedarik zinciri kesintilerinin etkilerini azaltmayı hedeflemekte. Bu yatırımlar, <strong>President Donald Trump</strong> yönetimi altında olası yeni tarifeler de dahil olmak üzere, çeşitli tedarik zinciri aksaklıklarına karşı bir önlem olarak görülmekte. ​</p>
 <p><br></p>

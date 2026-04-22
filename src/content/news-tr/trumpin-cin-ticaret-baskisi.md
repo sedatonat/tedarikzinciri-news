@@ -1,14 +1,23 @@
 ---
-title: "Trump'ın Çin Ticaret Baskısı Sevkiyat Kaosu ve Fiyat Artışlarına Yol Açtı"
-subtitle: "Trump'ın Çin Ticaret Baskısı Sevkiyat Kaosu ve Fiyat Artışlarına Yol Açtı"
-date: "2025-02-09T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_432800174fb94ad7ad6fb558b2afed99~mv2.jpg"
-imageAlt: "Trump'ın Çin Ticaret Baskısı Sevkiyat Kaosu ve Fiyat Artışlarına Yol Açtı"
-wixId: "877c3958-21fc-40c9-b699-037a3882893d"
-author: "Sedat Onat"
+title: Trump'ın Çin Ticaret Baskısı Sevkiyat Kaosu ve Fiyat Artışlarına Yol Açtı
+subtitle: Trump'ın Çin Ticaret Baskısı Sevkiyat Kaosu ve Fiyat Artışlarına Yol Açtı
+date: '2025-02-09T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_432800174fb94ad7ad6fb558b2afed99~mv2.jpg
+imageAlt: Trump'ın Çin Ticaret Baskısı Sevkiyat Kaosu ve Fiyat Artışlarına Yol Açtı
+wixId: 877c3958-21fc-40c9-b699-037a3882893d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Trump
+- Çin
+- ticaret savaşı
+- tedarik zinciri
+- tarifeler
+- de minimis
+- Shein
+- Temu
 ---
 <p style="text-align: justify">ABD Başkanı Donald Trump'ın Çin'e yönelik ticaret baskıları, küresel tedarik zincirlerinde önemli aksamalara ve tüketici fiyatlarında artışlara neden olmaktadır. Özellikle, Çin'den ABD'ye küçük paketlerin gümrüksüz girişine izin veren "de minimis" kuralının kaldırılması, lojistik sektöründe belirsizlik yaratmıştır. Bu değişiklik, <strong>Shein</strong> ve <strong>Temu</strong> gibi perakendecilerin milyarlarca dolarlık ürününü etkilemektedir.&nbsp;</p>
 <p><br></p>

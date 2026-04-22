@@ -1,16 +1,22 @@
 ---
-title: "Austria's New Government Plans Energy Tax Exemption for Railway Sector"
-subtitle: "Austria's New Government Plans Energy Tax Exemption for Railway Sector"
-date: "2025-03-07T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_fe1c16aad8a74fe3bba54ca3de565215~mv2.jpg"
-imageAlt: "Austria's New Government Plans Energy Tax Exemption for Railway Sector"
-wixId: "6872011a-09a1-4d2a-8139-262ff92a58c1"
-author: "Sedat Onat"
+title: Austria's New Government Plans Energy Tax Exemption for Railway Sector
+subtitle: Austria's New Government Plans Energy Tax Exemption for Railway Sector
+date: '2025-03-07T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_fe1c16aad8a74fe3bba54ca3de565215~mv2.jpg
+imageAlt: Austria's New Government Plans Energy Tax Exemption for Railway Sector
+wixId: 6872011a-09a1-4d2a-8139-262ff92a58c1
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Austria
+- rail transport
+- energy tax exemption
+- ÖBB
+- renewable energy
+- environmentally friendly transport
 ---
-
 <p style="text-align: justify">Austria's new coalition government, formed by the <strong>FPÖ</strong>, <strong>ÖVP</strong>, and <strong>Greens</strong> parties, is planning to introduce an energy tax exemption for the railway transport sector. This step aims to strengthen the competitiveness of the railway sector and promote environmentally friendly transport.</p>
 <p><br></p>
 <p style="text-align: justify">In Austria, energy production does not meet energy consumption needs, which is why the country imports more than half of the energy it uses. Nevertheless, Austria also has energy exports. Given the limited availability of energy sources such as coal and oil in Austria, renewable energy sources play a particularly important role in the country's energy policy. In this context, significant public funds have been allocated to renewable energy technologies, and it is among the government's priority areas.</p>

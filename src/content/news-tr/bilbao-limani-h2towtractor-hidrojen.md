@@ -1,14 +1,22 @@
 ---
-title: "Bilbao Limanı Hidrojenli H2TowTractor ile Operasyonel Testlere Başladı: Lojistikte Retrofit Dönemi"
-subtitle: "Bilbao Limanı Hidrojenli H2TowTractor ile Operasyonel Testlere Başladı: Lojistikte Retrofit Dönemi"
-date: "2025-11-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d17c6973f5f84ca0bc189fc25a04471a~mv2.jpg"
-imageAlt: "Bilbao Limanı’nda hidrojen yakıt hücresi ve lityum-iyon batarya kombinasyonuyla çalışan H2TowTractor'un sıfır emisyonlu liman operasyonlarında test edilmesi."
-wixId: "af7e3036-cc5f-4bd5-9e35-ce7570f2b720"
-author: "Sedat Onat"
+title: 'Bilbao Limanı Hidrojenli H2TowTractor ile Operasyonel Testlere Başladı: Lojistikte Retrofit Dönemi'
+subtitle: 'Bilbao Limanı Hidrojenli H2TowTractor ile Operasyonel Testlere Başladı: Lojistikte Retrofit Dönemi'
+date: '2025-11-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d17c6973f5f84ca0bc189fc25a04471a~mv2.jpg
+imageAlt: Bilbao Limanı’nda hidrojen yakıt hücresi ve lityum-iyon batarya kombinasyonuyla çalışan H2TowTractor'un sıfır emisyonlu liman operasyonlarında test edilmesi.
+wixId: af7e3036-cc5f-4bd5-9e35-ce7570f2b720
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- hidrojen
+- liman lojistiği
+- Bilbao Limanı
+- retrofit
+- sürdürülebilirlik
+- yakıt hücresi
+- sıfır emisyon
 ---
 <p style="text-align: justify">Avrupa’nın liman operasyonlarında sürdürülebilirlik baskısı artarken, <strong>Bilbao Limanı</strong>, hidrojen teknolojisinin liman lojistiğindeki en kritik engeli—yüksek güç gereksinimi—çözmeye aday bir projeye ev sahipliği yapıyor. <em>H2TowTractor</em>, endüstriyel çekicilerin tamamını yenilemek yerine, mevcut filolara kolayca uygulanabilen bir <strong>retrofit hidrojen kiti</strong> ile sahada test ediliyor. Bu test, Avrupa’da gerçek operasyon ortamında yapılan ilk uygulama olmasıyla da dikkat çekiyor.</p>
 <p><br></p>

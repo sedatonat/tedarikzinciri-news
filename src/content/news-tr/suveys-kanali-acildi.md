@@ -1,14 +1,22 @@
 ---
-title: "Süveyş Kanalı’nın Yeniden Açılması Küresel Filo Kapasitesine 2,1 Milyon TEU Ekleyebilir"
-subtitle: "Süveyş Kanalı’nın Yeniden Açılması Küresel Filo Kapasitesine 2,1 Milyon TEU Ekleyebilir"
-date: "2025-10-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1c3c1f5ee88542d78da83a8aa9641c7a~mv2.jpg"
-imageAlt: "Süveyş Kanalı’nın Yeniden Açılması Küresel Filo Kapasitesine 2,1 Milyon TEU Ekleyebilir"
-wixId: "c8e1bd68-3f95-4102-bd5c-072569a77fcd"
-author: "Sedat Onat"
+title: Süveyş Kanalı’nın Yeniden Açılması Küresel Filo Kapasitesine 2,1 Milyon TEU Ekleyebilir
+subtitle: Süveyş Kanalı’nın Yeniden Açılması Küresel Filo Kapasitesine 2,1 Milyon TEU Ekleyebilir
+date: '2025-10-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1c3c1f5ee88542d78da83a8aa9641c7a~mv2.jpg
+imageAlt: Süveyş Kanalı’nın Yeniden Açılması Küresel Filo Kapasitesine 2,1 Milyon TEU Ekleyebilir
+wixId: c8e1bd68-3f95-4102-bd5c-072569a77fcd
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Süveyş Kanalı
+- konteyner taşımacılığı
+- TEU kapasitesi
+- Asya-Avrupa hattı
+- liman tıkanıklığı
+- Sea-Intelligence
+- navlun fiyatları
 ---
 <p style="text-align: justify"><strong>Sea-Intelligence</strong> tarafından yapılan yeni bir analiz, <strong>İsrail–Hamas ateşkesinin ardından Süveyş Kanalı’ndan geçişlerin yeniden başlaması durumunda</strong>, küresel konteyner taşımacılığında önemli bir kapasite artışı yaşanabileceğini ortaya koydu.</p>
 <p><br>

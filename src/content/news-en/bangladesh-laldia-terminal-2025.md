@@ -1,16 +1,23 @@
 ---
-title: "Bangladesh Formally Approves 550 Million Dollar Laldia Terminal Concession Agreement"
-subtitle: "Bangladesh Formally Approves 550 Million Dollar Laldia Terminal Concession Agreement"
-date: "2025-11-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_bf43403df6de4c9ebfaed3fda1d0a5cd~mv2.jpg"
-imageAlt: "Bangladesh has signed a 550 million dollar PPP agreement with APM Terminals and QNS Container Services for the Laldia Container Terminal in Chattogram, opening the way for a low-emission deep-water terminal that will increase the country's annual capacity by 800,000 TEU, accommodate vessels up to 6,000 TEU, and become operational by 2030."
-wixId: "af775e9c-eaca-4605-b8fe-29ef712f6be8"
-author: "Sedat Onat"
+title: Bangladesh Formally Approves 550 Million Dollar Laldia Terminal Concession Agreement
+subtitle: Bangladesh Formally Approves 550 Million Dollar Laldia Terminal Concession Agreement
+date: '2025-11-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_bf43403df6de4c9ebfaed3fda1d0a5cd~mv2.jpg
+imageAlt: Bangladesh has signed a 550 million dollar PPP agreement with APM Terminals and QNS Container Services for the Laldia Container Terminal in Chattogram, opening the way for a low-emission deep-water terminal that will increase the country's annual capacity by 800,000 TEU, accommodate vessels up to 6,000 TEU, and become operational by 2030.
+wixId: af775e9c-eaca-4605-b8fe-29ef712f6be8
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Bangladesh
+- Laldia Terminal
+- APM Terminals
+- port infrastructure
+- container terminal
+- green port
+- PPP
 ---
-
 <p style="text-align: justify">The Bangladesh government has formally approved the <strong>Laldia Container Terminal project</strong>, which is of critical importance for <strong>Chattogram</strong>, the country's largest port. The project, valued at over <strong>550 million dollars</strong>, stands out as one of Bangladesh's largest Public-Private Partnership (<strong>PPP</strong>) investments to date.</p>
 <p><br></p>
 <p style="text-align: justify">The agreement was signed between <strong>Chittagong Port Authority</strong>, <strong>APM Terminals (APMT)</strong>, and local partner <strong>QNS Container Services Ltd.</strong> The <strong>30-year operating concession</strong> granted to APMT is renewable subject to performance criteria. The financing, design, construction, and operation of the terminal will be undertaken entirely by investors; this model represents a first for Bangladesh port infrastructure.</p>

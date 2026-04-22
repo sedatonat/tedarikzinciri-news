@@ -1,14 +1,23 @@
 ---
-title: "DP World, Türk Otomotiv Endüstrisi İçin Yeni Tedarik Zinciri Güzergahları Sunuyor"
-subtitle: "DP World, Türk Otomotiv Endüstrisi İçin Yeni Tedarik Zinciri Güzergahları Sunuyor"
-date: "2024-05-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_049756a29ff34e5eace94912ff20bdd3~mv2.jpg"
-imageAlt: "DP World, Türk Otomotiv Endüstrisi İçin Yeni Tedarik Zinciri Güzergahları Sunuyor"
-wixId: "29c2e144-fc47-4a87-aa84-49d415a3648c"
-author: "Sedat Onat"
+title: DP World, Türk Otomotiv Endüstrisi İçin Yeni Tedarik Zinciri Güzergahları Sunuyor
+subtitle: DP World, Türk Otomotiv Endüstrisi İçin Yeni Tedarik Zinciri Güzergahları Sunuyor
+date: '2024-05-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_049756a29ff34e5eace94912ff20bdd3~mv2.jpg
+imageAlt: DP World, Türk Otomotiv Endüstrisi İçin Yeni Tedarik Zinciri Güzergahları Sunuyor
+wixId: 29c2e144-fc47-4a87-aa84-49d415a3648c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DP World
+- otomotiv endüstrisi
+- tedarik zinciri
+- Kızıldeniz
+- demiryolu taşımacılığı
+- Türkiye
+- Çin
+- ham madde
 ---
 <p>DP World, Türk ithalatçılarının özellikle otomotiv sektöründe yaşadığı ham madde kıtlıklarını hafifletmek amacıyla yeni güzergahlar oluşturdu. Türkiye, son yıllarda özellikle otomotiv alanında bir üretim merkezi haline gelmiş ve Çin'den gelen çelik, kimyasallar gibi temel hammaddelere büyük ölçüde bağımlı hale gelmiştir. Ancak Kızıldeniz'deki aksamalar, Türk ithalat ve ihracatında büyük gecikmelere neden olmuştur.</p>
 <p><br></p>

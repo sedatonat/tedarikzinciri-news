@@ -1,14 +1,23 @@
 ---
-title: "Türkiye ve Somali'den Stratejik Deniz Kuvvetleri Anlaşması"
-subtitle: "Türkiye ve Somali'den Stratejik Deniz Kuvvetleri Anlaşması"
-date: "2024-02-22T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_125388793d304668b9a1d3ffb2287439~mv2.jpg"
-imageAlt: "Türkiye ve Somali'den Stratejik Deniz Kuvvetleri Anlaşması"
-wixId: "3ce5103c-579e-421d-9d8c-38c0dd8831de"
-author: "Sedat Onat"
+title: Türkiye ve Somali'den Stratejik Deniz Kuvvetleri Anlaşması
+subtitle: Türkiye ve Somali'den Stratejik Deniz Kuvvetleri Anlaşması
+date: '2024-02-22T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_125388793d304668b9a1d3ffb2287439~mv2.jpg
+imageAlt: Türkiye ve Somali'den Stratejik Deniz Kuvvetleri Anlaşması
+wixId: 3ce5103c-579e-421d-9d8c-38c0dd8831de
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Türkiye
+- Somali
+- deniz kuvvetleri
+- Kızıldeniz
+- Süveyş Kanalı
+- Afrika Boynuzu
+- korsanlık
+- stratejik anlaşma
 ---
 <p>Türkiye ve Somali arasında, Somali'nin deniz sularını korumak ve güçlü bir deniz kuvveti kurmak amacıyla tarihi bir anlaşma imzalandı.&nbsp;</p>
 <p><br></p>

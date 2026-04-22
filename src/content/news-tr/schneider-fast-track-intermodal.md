@@ -1,14 +1,22 @@
 ---
-title: "Schneider Fast Track: Intermodal Taşımacılıkta Kamyon Hızında Yeni Dönem"
-subtitle: "Schneider Fast Track: Intermodal Taşımacılıkta Kamyon Hızında Yeni Dönem"
-date: "2025-11-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a23a76a421044b8aa24f69d70325e338~mv2.jpg"
-imageAlt: "Schneider National, Fast Track hizmetiyle ABD–Meksika hatlarında 2 güne kadar daha hızlı transit, %95+ zamanında teslimat ve 99.99% hırsızlıksız operasyon sunarak intermodal taşımacılığı kamyon seviyesinde hız ve güvenilirliğe taşıyor."
-wixId: "b6829095-69f2-4b1a-9fb3-d30b95eaa564"
-author: "Sedat Onat"
+title: 'Schneider Fast Track: Intermodal Taşımacılıkta Kamyon Hızında Yeni Dönem'
+subtitle: 'Schneider Fast Track: Intermodal Taşımacılıkta Kamyon Hızında Yeni Dönem'
+date: '2025-11-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a23a76a421044b8aa24f69d70325e338~mv2.jpg
+imageAlt: Schneider National, Fast Track hizmetiyle ABD–Meksika hatlarında 2 güne kadar daha hızlı transit, %95+ zamanında teslimat ve 99.99% hırsızlıksız operasyon sunarak intermodal taşımacılığı kamyon seviyesinde hız ve güvenilirliğe taşıyor.
+wixId: b6829095-69f2-4b1a-9fb3-d30b95eaa564
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Schneider National
+- intermodal taşımacılık
+- ABD-Meksika
+- demiryolu
+- otomotiv lojistiği
+- just-in-time
+- tedarik zinciri
 ---
 <p style="text-align: justify">Schneider National, intermodal taşımacılığın hız ve güvenilirlik standartlarını yeniden tanımlayan yeni premium hizmeti <strong>Fast Track</strong>’i resmen kullanıma sundu. Amaç, intermodal taşımayı kamyon seviyesine yakın hız ve kesinlik ile sunarak, zaman duyarlı yükleri taşıyan göndericilere <strong>kesintisiz bir taşıma deneyimi</strong> sağlamak.</p>
 <p><br></p>

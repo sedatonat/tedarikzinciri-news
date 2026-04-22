@@ -1,16 +1,24 @@
 ---
-title: "Istanbul Bridge Completes China–Europe Arctic Voyage Arriving at Rotterdam Port"
-subtitle: "Istanbul Bridge Completes China–Europe Arctic Voyage Arriving at Rotterdam Port"
-date: "2025-10-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_597dd59057a4487da23613b799cd88e6~mv2.jpeg"
-imageAlt: "Container ship Istanbul Bridge completed the European leg of the China–Europe Arctic Express route and arrived at Rotterdam Port. This voyage once again demonstrated the time advantage offered by the Arctic route while reinforcing its significance in the \"Ice Silk Road\" strategy."
-wixId: "dc0a66c9-f45d-42d2-a93a-26f50b77da08"
-author: "Sedat Onat"
+title: Istanbul Bridge Completes China–Europe Arctic Voyage Arriving at Rotterdam Port
+subtitle: Istanbul Bridge Completes China–Europe Arctic Voyage Arriving at Rotterdam Port
+date: '2025-10-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_597dd59057a4487da23613b799cd88e6~mv2.jpeg
+imageAlt: Container ship Istanbul Bridge completed the European leg of the China–Europe Arctic Express route and arrived at Rotterdam Port. This voyage once again demonstrated the time advantage offered by the Arctic route while reinforcing its significance in the "Ice Silk Road" strategy.
+wixId: dc0a66c9-f45d-42d2-a93a-26f50b77da08
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Arctic route
+- Northern Sea Route
+- Port of Rotterdam
+- Haijie Shipping
+- Ice Silk Road
+- container shipping
+- intermodal transport
+- Suez Canal
 ---
-
 <p style="text-align: justify"><strong>Cargo vessel Istanbul Bridge</strong> dropped anchor at <strong>Rotterdam Port in the Netherlands on the morning of 23 October 2025</strong>, successfully completing the European leg of the <strong>China–Europe Arctic Express route</strong>. Thus the voyage conducted over the <strong>Arctic route spanning from China to Europe</strong> has formally concluded.</p>
 <p><br></p>
 <p style="text-align: justify">With the discharge of the final container of the voyage, this transport line conducted over the <strong>Northern Sea Route</strong> has once again proven its <strong>time advantage and operational efficiency</strong>. However, the operator disclosed that the return voyage will be conducted <strong>not via the Arctic, but through the Suez Canal</strong>, a decision made taking into account <strong>regional loading demand and trade concentration</strong>.</p>

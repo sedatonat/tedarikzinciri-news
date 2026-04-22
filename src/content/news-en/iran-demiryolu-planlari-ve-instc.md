@@ -1,16 +1,24 @@
 ---
-title: "Iran's Railway Plans and INSTC's Future: Trump's Impact"
-subtitle: "Iran's Railway Plans and INSTC's Future: Trump's Impact"
-date: "2025-01-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5d6499350c9a4b129a58295fe7372267~mv2.png"
-imageAlt: "Iran's Railway Plans and INSTC's Future: Trump's Impact"
-wixId: "776cd3c2-8d2a-4ea0-a326-2bd0ae7915b5"
-author: "Sedat Onat"
+title: 'Iran''s Railway Plans and INSTC''s Future: Trump''s Impact'
+subtitle: 'Iran''s Railway Plans and INSTC''s Future: Trump''s Impact'
+date: '2025-01-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5d6499350c9a4b129a58295fe7372267~mv2.png
+imageAlt: 'Iran''s Railway Plans and INSTC''s Future: Trump''s Impact'
+wixId: 776cd3c2-8d2a-4ea0-a326-2bd0ae7915b5
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- INSTC
+- rail corridor
+- Iran
+- Chabahar Port
+- geopolitics
+- sanctions
+- Russia
+- Azerbaijan
 ---
-
 <p style="text-align: justify"><strong>Iran's Railway Initiatives and the Future of INSTC</strong></p>
 <p style="text-align: justify">Iran has recently announced plans to construct nine national railway corridors. These projects aim to transform the country into a major railway transit hub and increase regional connectivity, particularly within the framework of the <strong>International North-South Transport Corridor</strong> (<strong>INSTC</strong>). INSTC is a multimodal transport network designed to facilitate goods transportation between India, Iran, Azerbaijan, Russia, and Europe. This corridor has the potential to significantly reduce transportation time and costs compared to conventional routes.​</p>
 <p><br></p>

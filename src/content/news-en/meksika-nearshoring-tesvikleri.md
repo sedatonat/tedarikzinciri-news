@@ -1,16 +1,24 @@
 ---
-title: "Mexico's Nearshoring Incentives Drive Regional Integration Push"
-subtitle: "Mexico's Nearshoring Incentives Drive Regional Integration Push"
-date: "2025-01-24T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d20ee61eb73343c583a7c9934ad91711~mv2.jpg"
-imageAlt: "Mexico's Nearshoring Incentives Drive Regional Integration Push"
-wixId: "f104c836-b732-4bc6-b469-429f82a93c6f"
-author: "Sedat Onat"
+title: Mexico's Nearshoring Incentives Drive Regional Integration Push
+subtitle: Mexico's Nearshoring Incentives Drive Regional Integration Push
+date: '2025-01-24T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_d20ee61eb73343c583a7c9934ad91711~mv2.jpg
+imageAlt: Mexico's Nearshoring Incentives Drive Regional Integration Push
+wixId: f104c836-b732-4bc6-b469-429f82a93c6f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- nearshoring
+- Mexico
+- supply chain
+- Plan México
+- regional integration
+- North America
+- logistics
+- investment incentives
 ---
-
 <p style="text-align: justify">Mexican President <strong>Claudia Sheinbaum</strong> has announced a nearshoring incentive package worth 30 billion pesos (approximately $1.4 billion) aimed at strengthening the country's role in regional supply chains. The incentive package is part of a long-term economic growth plan dubbed <strong>Plan México</strong>, which seeks to increase integration into North American supply chains.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Plan México</strong>'s core objective is to encourage the production of inputs used across various economic sectors within Mexico. To this end, 28.5 billion pesos from the incentive package will be allocated to companies investing in new fixed assets in the country, while the remaining 1.5 billion pesos will be directed toward education and innovation incentives. Funds will be available for use until September 30, 2030, and distribution criteria will be determined by a federal committee within the coming two months.</p>

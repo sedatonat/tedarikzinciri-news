@@ -1,14 +1,23 @@
 ---
-title: "Singapur ve Çin, Yeşil ve Dijital Denizcilik Koridoru Anlaşması İmzaladı"
-subtitle: "Singapur ve Çin, Yeşil ve Dijital Denizcilik Koridoru Anlaşması İmzaladı"
-date: "2025-10-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/793277055bb04056b376713b6ae752ee.jpg"
-imageAlt: "Singapur ve Çin, deniz taşımacılığında karbonsuzlaşma ve dijital dönüşüm hedefleri doğrultusunda Green and Digital Shipping Corridor (GDSC) adlı ortak bir girişim başlatmak için Mutabakat Zaptı (MoU) imzaladı. Anlaşma, iki ülkenin denizcilikte sürdürülebilirlik ve verimlilik odaklı iş birliğini ulusal düzeye taşıyor."
-wixId: "dcb64f32-30ac-4d49-b19e-e167bf344e0e"
-author: "Sedat Onat"
+title: Singapur ve Çin, Yeşil ve Dijital Denizcilik Koridoru Anlaşması İmzaladı
+subtitle: Singapur ve Çin, Yeşil ve Dijital Denizcilik Koridoru Anlaşması İmzaladı
+date: '2025-10-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/793277055bb04056b376713b6ae752ee.jpg
+imageAlt: Singapur ve Çin, deniz taşımacılığında karbonsuzlaşma ve dijital dönüşüm hedefleri doğrultusunda Green and Digital Shipping Corridor (GDSC) adlı ortak bir girişim başlatmak için Mutabakat Zaptı (MoU) imzaladı. Anlaşma, iki ülkenin denizcilikte sürdürülebilirlik ve verimlilik odaklı iş birliğini ulusal düzeye taşıyor.
+wixId: dcb64f32-30ac-4d49-b19e-e167bf344e0e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Singapur
+- Çin
+- yeşil denizcilik
+- dijital koridor
+- karbonsuzlaştırma
+- akıllı liman
+- sürdürülebilirlik
+- MPA Singapore
 ---
 <p style="text-align: justify"><strong>Singapur Ulaştırma Bakanlığı</strong> ile <strong>Çin Halk Cumhuriyeti Ulaştırma Bakanlığı</strong>, 19 Ekim 2025 tarihinde denizcilik sektörünün geleceğini şekillendirecek önemli bir adım attı. İki ülke, <strong>Singapore–China Green and Digital Shipping Corridor (GDSC)</strong> adlı girişimin kurulması için <strong>Mutabakat Zaptı (Memorandum of Understanding – MoU)</strong> imzaladı. Bu anlaşma, deniz taşımacılığında <strong>yeşil enerji, dijitalleşme ve tedarik zinciri verimliliği</strong> konularında kapsamlı bir iş birliği çerçevesi oluşturmakta.</p>
 <p><br></p>

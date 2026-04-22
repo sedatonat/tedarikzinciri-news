@@ -1,14 +1,22 @@
 ---
-title: "Kuzey Amerika TIR Taşımacılığı Sektöründe Dönüm Noktası: Talep ve Spot Fiyatların Geleceği"
-subtitle: "Kuzey Amerika TIR Taşımacılığı Sektöründe Dönüm Noktası: Talep ve Spot Fiyatların Geleceği"
-date: "2024-02-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/35950e5c49ae4628b4e4546d017b576e.jpg"
-imageAlt: "Kuzey Amerika TIR Taşımacılığı Sektöründe Dönüm Noktası: Talep ve Spot Fiyatların Geleceği"
-wixId: "e4ea6916-be56-4c47-9850-09f941a646e4"
-author: "Sedat Onat"
+title: 'Kuzey Amerika TIR Taşımacılığı Sektöründe Dönüm Noktası: Talep ve Spot Fiyatların Geleceği'
+subtitle: 'Kuzey Amerika TIR Taşımacılığı Sektöründe Dönüm Noktası: Talep ve Spot Fiyatların Geleceği'
+date: '2024-02-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/35950e5c49ae4628b4e4546d017b576e.jpg
+imageAlt: 'Kuzey Amerika TIR Taşımacılığı Sektöründe Dönüm Noktası: Talep ve Spot Fiyatların Geleceği'
+wixId: e4ea6916-be56-4c47-9850-09f941a646e4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- TIR taşımacılığı
+- Kuzey Amerika
+- spot fiyatlar
+- yük talebi
+- sahibi-operatör
+- kapasite yönetimi
+- karayolu taşımacılığı
 ---
 <p>2023'ün son çeyreğinde yapılan bir anket, TIR sahibi-operatörlerin ve küçük filoların çoğunluğunun, mevcut TIR yük talebinin dip noktasına ulaştığına inandığını ortaya koydu. Truckstop ve Bloomberg Intelligence tarafından yapılan araştırmaya göre, Kuzey Amerika TIR yük spot piyasasının en kötü günleri yakın olabilir.&nbsp;</p>
 <p><br></p>

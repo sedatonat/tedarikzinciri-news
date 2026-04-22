@@ -1,14 +1,23 @@
 ---
-title: "AB Komisyonu, MSC–NYK Ortak Girişimini Onayladı: Afrika Lojistiğinde Yeni İttifak"
-subtitle: "AB Komisyonu, MSC–NYK Ortak Girişimini Onayladı: Afrika Lojistiğinde Yeni İttifak"
-date: "2025-12-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0002e447956f42ab885bdb09400fdbb7~mv2.jpg"
-imageAlt: "Avrupa Komisyonu’nun MSC Group ve NYK Group arasında Afrika odaklı yeni freight forwarding joint venture’ını AB Birleşme Tüzüğü kapsamında onaylaması, rekabet analizi, AGL Kenya–Yusen Logistics iş birliği ve bölgesel lojistik etkilerinin detaylı özeti"
-wixId: "6696224c-0d5c-452e-81da-cfb93e2b3349"
-author: "Sedat Onat"
+title: 'AB Komisyonu, MSC–NYK Ortak Girişimini Onayladı: Afrika Lojistiğinde Yeni İttifak'
+subtitle: 'AB Komisyonu, MSC–NYK Ortak Girişimini Onayladı: Afrika Lojistiğinde Yeni İttifak'
+date: '2025-12-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0002e447956f42ab885bdb09400fdbb7~mv2.jpg
+imageAlt: Avrupa Komisyonu’nun MSC Group ve NYK Group arasında Afrika odaklı yeni freight forwarding joint venture’ını AB Birleşme Tüzüğü kapsamında onaylaması, rekabet analizi, AGL Kenya–Yusen Logistics iş birliği ve bölgesel lojistik etkilerinin detaylı özeti
+wixId: 6696224c-0d5c-452e-81da-cfb93e2b3349
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- MSC
+- NYK
+- ortak girişim
+- Afrika
+- freight forwarding
+- Avrupa Komisyonu
+- deniz taşımacılığı
+- Kenya
 ---
 <p style="text-align: justify">Avrupa Komisyonu, İsviçre merkezli <strong>MSC Mediterranean Shipping Company (MSC Group)</strong> ile Japonya merkezli <strong>Nippon Yusen Kabushiki Kaisha (NYK Group)</strong> arasında yeni bir ortak girişim kurulmasına resmen onay verdi. Karar, <strong>EU Merger Regulation</strong> kapsamında (Case <strong>M.12166</strong>) yürütülen inceleme sonucunda alındı ve Komisyon, girişimin <strong>European Economic Area (EEA)</strong> içinde rekabet sorunları doğurmadığını belirterek <strong>simplified merger procedure</strong> üzerinden hızlı bir onay süreci yürüttü.</p>
 <p><br></p>

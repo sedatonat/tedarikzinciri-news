@@ -1,16 +1,23 @@
 ---
-title: "SourceDay Introduces New Platform for Proactive Supply Chain Risk Management"
-subtitle: "SourceDay Introduces New Platform for Proactive Supply Chain Risk Management"
-date: "2024-11-04T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_6d2b7cb1f05e4a5da58acda1f91bc856~mv2.png"
-imageAlt: "SourceDay Introduces New Platform for Proactive Supply Chain Risk Management"
-wixId: "b11edd25-78e7-4df6-9f74-34e8326a2486"
-author: "Sedat Onat"
+title: SourceDay Introduces New Platform for Proactive Supply Chain Risk Management
+subtitle: SourceDay Introduces New Platform for Proactive Supply Chain Risk Management
+date: '2024-11-04T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_6d2b7cb1f05e4a5da58acda1f91bc856~mv2.png
+imageAlt: SourceDay Introduces New Platform for Proactive Supply Chain Risk Management
+wixId: b11edd25-78e7-4df6-9f74-34e8326a2486
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- SourceDay
+- artificial intelligence
+- machine learning
+- risk management
+- supply chain
+- purchase order
+- supplier management
 ---
-
 <p>SourceDay, a direct materials procurement platform, has unveiled SourceDay Intelligence, its new platform. Using SourceDay's patent-pending artificial intelligence and machine learning software, the new platform transforms reactive supply chain risk mitigation into proactive risk management, aiming to prevent up to 70% of internal supply issues that occur before shipment.</p>
 <p><br></p>
 <p>SourceDay Intelligence is designed to enhance supply chain performance by identifying and predicting both known and unknown internal supply risks, recommending effective solutions, and automating low-risk purchase order (PO) changes. This enables companies to focus more resources on critical activities.</p>

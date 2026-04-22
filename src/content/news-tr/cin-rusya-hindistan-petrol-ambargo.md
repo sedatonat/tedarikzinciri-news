@@ -1,14 +1,23 @@
 ---
-title: "ABD Baskısı Altında Çin ve Hindistan, Rus Petrolünden Geri Adım Attı"
-subtitle: "ABD Baskısı Altında Çin ve Hindistan, Rus Petrolünden Geri Adım Attı"
-date: "2025-10-24T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_70c5d4e1dfc644f5ad3366e1e15b293c~mv2.jpg"
-imageAlt: "ABD Baskısı Altında Çin ve Hindistan, Rus Petrolünden Geri Adım Atmakta"
-wixId: "593b3126-50fd-42b0-85ac-3dd96486d1fb"
-author: "Sedat Onat"
+title: ABD Baskısı Altında Çin ve Hindistan, Rus Petrolünden Geri Adım Attı
+subtitle: ABD Baskısı Altında Çin ve Hindistan, Rus Petrolünden Geri Adım Attı
+date: '2025-10-24T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_70c5d4e1dfc644f5ad3366e1e15b293c~mv2.jpg
+imageAlt: ABD Baskısı Altında Çin ve Hindistan, Rus Petrolünden Geri Adım Atmakta
+wixId: 593b3126-50fd-42b0-85ac-3dd96486d1fb
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Rus petrolü
+- ABD yaptırımları
+- Çin
+- Hindistan
+- enerji tedarik zinciri
+- tanker taşımacılığı
+- OPEC
+- küresel enerji
 ---
 <p style="text-align: justify"><strong>ABD’nin yeni yaptırımları</strong>, küresel enerji piyasalarında sarsıcı bir etki yaratmakta. <strong>Donald Trump yönetimi</strong>, bu hafta <strong>Rosneft</strong> ve <strong>Lukoil</strong>’e yaptırım uyguladıktan sonra, <strong>Rusya’nın en büyük iki alıcısı olan Çin ve Hindistan</strong>, Rus petrolü ithalatını geçici olarak durdurmakta. Bu gelişme, son üç buçuk yıldır Moskova’nın Ukrayna savaşını finanse etmesine katkı sağlayan enerji gelirlerinde ciddi bir daralma yaratma potansiyeline sahip.</p>
 <p><br></p>

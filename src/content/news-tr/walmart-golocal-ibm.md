@@ -1,14 +1,22 @@
 ---
-title: "Walmart GoLocal ve IBM İş Birliği: Perakende Lojistiğinde Yeni Dönem"
-subtitle: "Walmart GoLocal ve IBM İş Birliği: Perakende Lojistiğinde Yeni Dönem"
-date: "2025-01-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_545d3f3271104348b250a849fef064ab~mv2.jpg"
-imageAlt: "Walmart GoLocal ve IBM İş Birliği: Perakende Lojistiğinde Yeni Dönem"
-wixId: "ac7d4f7d-5073-44fd-82de-1d112427ab6a"
-author: "Sedat Onat"
+title: 'Walmart GoLocal ve IBM İş Birliği: Perakende Lojistiğinde Yeni Dönem'
+subtitle: 'Walmart GoLocal ve IBM İş Birliği: Perakende Lojistiğinde Yeni Dönem'
+date: '2025-01-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_545d3f3271104348b250a849fef064ab~mv2.jpg
+imageAlt: 'Walmart GoLocal ve IBM İş Birliği: Perakende Lojistiğinde Yeni Dönem'
+wixId: ac7d4f7d-5073-44fd-82de-1d112427ab6a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Walmart GoLocal
+- IBM
+- son mil teslimat
+- perakende lojistiği
+- sipariş yönetimi
+- teslimat hizmeti
+- entegrasyon
 ---
 <p style="text-align: justify"><strong>Walmart</strong>'ın beyaz etiketli teslimat hizmeti <strong>Walmart GoLocal</strong>, <strong>IBM</strong>'in sipariş yönetim sistemi <strong>IBM Sterling Order Management</strong> ile entegre edilerek perakendecilere daha kolay erişim ve uygulama imkanı sunmakta. Bu entegrasyon, perakende müşterilerinin iş sistemlerine <strong>Walmart GoLocal</strong>'ı "kullanıcı dostu ve yüksek derecede özelleştirilebilir" bir şekilde entegre etmeyi amaçlamakta.&nbsp;</p>
 <p style="text-align: justify"><br></p>

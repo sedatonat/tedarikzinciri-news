@@ -1,14 +1,23 @@
 ---
-title: "Toyota, Ro-Ro Gemilerinin Baca Emisyonlarını Kontrol Etmek İçin Stax Engineering ile Anlaştı"
-subtitle: "Toyota, Ro-Ro Gemilerinin Baca Emisyonlarını Kontrol Etmek İçin Stax Engineering ile Anlaştı"
-date: "2024-09-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e5b41cabd51c4c0b9af2e7effdc04d0b~mv2.jpg"
-imageAlt: "Toyota, Ro-Ro Gemilerinin Baca Emisyonlarını Kontrol Etmek İçin Stax Engineering ile Anlaştı"
-wixId: "c552b6ad-3c6d-4480-8b9f-b8e34ac9b8e2"
-author: "Sedat Onat"
+title: Toyota, Ro-Ro Gemilerinin Baca Emisyonlarını Kontrol Etmek İçin Stax Engineering ile Anlaştı
+subtitle: Toyota, Ro-Ro Gemilerinin Baca Emisyonlarını Kontrol Etmek İçin Stax Engineering ile Anlaştı
+date: '2024-09-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e5b41cabd51c4c0b9af2e7effdc04d0b~mv2.jpg
+imageAlt: Toyota, Ro-Ro Gemilerinin Baca Emisyonlarını Kontrol Etmek İçin Stax Engineering ile Anlaştı
+wixId: c552b6ad-3c6d-4480-8b9f-b8e34ac9b8e2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Toyota
+- Stax Engineering
+- ro-ro gemisi
+- emisyon kontrolü
+- Long Beach Limanı
+- CARB
+- deniz taşımacılığı
+- sürdürülebilirlik
 ---
 <p>Toyota Motor Kuzey Amerika, 2025 yılından itibaren Long Beach Limanı'na gelen tüm gemileri için Stax Engineering ile beş yıllık bir anlaşma imzaladı. Stax Engineering, deniz taşımacılığında baca emisyonlarını azaltmaya yönelik hizmetler sunan, yatırım destekli bir girişim olarak dikkat çekiyor. Yeni Kaliforniya Hava Kaynakları Kurulu (CARB) standartlarına paralel olarak, Stax, Kaliforniya'da roll-on/roll-off (ro-ro) gemilerine hizmet veren ilk ve tek emisyon kontrol sağlayıcısı olacak.</p>
 <p><br></p>

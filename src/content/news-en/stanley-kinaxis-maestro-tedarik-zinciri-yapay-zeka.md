@@ -1,16 +1,23 @@
 ---
-title: "Stanley 1913 Uses Artificial Intelligence in Supply Chain with Kinaxis Maestro"
-subtitle: "Stanley 1913 Uses Artificial Intelligence in Supply Chain with Kinaxis Maestro"
-date: "2024-10-29T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_81f65a4303ba4b80977484c03ce844b5~mv2.jpg"
-imageAlt: "Stanley 1913 Uses Artificial Intelligence in Supply Chain with Kinaxis Maestro"
-wixId: "e97aab7c-e832-4f60-be35-647022cc8ac4"
-author: "Sedat Onat"
+title: Stanley 1913 Uses Artificial Intelligence in Supply Chain with Kinaxis Maestro
+subtitle: Stanley 1913 Uses Artificial Intelligence in Supply Chain with Kinaxis Maestro
+date: '2024-10-29T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_81f65a4303ba4b80977484c03ce844b5~mv2.jpg
+imageAlt: Stanley 1913 Uses Artificial Intelligence in Supply Chain with Kinaxis Maestro
+wixId: e97aab7c-e832-4f60-be35-647022cc8ac4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Stanley 1913
+- Kinaxis Maestro
+- artificial intelligence
+- machine learning
+- supply chain
+- forecasting
+- sustainability
 ---
-
 <p>Stanley 1913, a food and beverage products manufacturer founded in 1913 that produces popular beverage containers, has begun using the Maestro platform provided by Kinaxis to enhance its supply chain operations. Through this partnership, Stanley 1913 is integrating artificial intelligence and machine learning technologies to anticipate supply chain disruptions and prevent such delays.</p>
 <p><br></p>
 <p>Kinaxis's Maestro platform provides Stanley 1913 with the ability to identify supply chain bottlenecks in real time and quickly generate solutions. According to Kinaxis's October 28, 2024 press release, through the Maestro platform, Stanley 1913 will be able to view every stage of its supply chain comprehensively and thereby develop robust scenario planning to support sustainable growth.</p>

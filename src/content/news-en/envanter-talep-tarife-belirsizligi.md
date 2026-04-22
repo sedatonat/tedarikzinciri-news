@@ -1,16 +1,23 @@
 ---
-title: "Warehouse Demand Surges Despite Tariff Uncertainty: Strong Third Quarter for U.S. Industrial Real Estate"
-subtitle: "Warehouse Demand Surges Despite Tariff Uncertainty: Strong Third Quarter for U.S. Industrial Real Estate"
-date: "2025-11-05T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_1516d1c2162e4c2c8ecb5070f424aca7~mv2.jpg"
-imageAlt: "U.S. net industrial real estate absorption reached 60 million sq ft in Q3 2025; Phoenix and Indianapolis led demand growth, as companies continued long-term warehouse investments despite tariff uncertainty."
-wixId: "7221129c-d248-4020-9cdf-d6c4aa0c3b0e"
-author: "Sedat Onat"
+title: 'Warehouse Demand Surges Despite Tariff Uncertainty: Strong Third Quarter for U.S. Industrial Real Estate'
+subtitle: 'Warehouse Demand Surges Despite Tariff Uncertainty: Strong Third Quarter for U.S. Industrial Real Estate'
+date: '2025-11-05T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_1516d1c2162e4c2c8ecb5070f424aca7~mv2.jpg
+imageAlt: U.S. net industrial real estate absorption reached 60 million sq ft in Q3 2025; Phoenix and Indianapolis led demand growth, as companies continued long-term warehouse investments despite tariff uncertainty.
+wixId: 7221129c-d248-4020-9cdf-d6c4aa0c3b0e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- warehouse demand
+- industrial real estate
+- USA
+- tariff uncertainty
+- logistics investments
+- supply chain
+- e-commerce
 ---
-
 <p style="text-align: justify">Demand for industrial and logistics real estate in the United States gained renewed momentum in the third quarter of 2025, signaling <strong>robust growth</strong> despite tariff-driven economic uncertainty. According to a report published by Colliers, Q3 <strong>net absorption (occupied space growth)</strong> reached <strong>60 million sq ft</strong>, marking the highest level since the first quarter of 2023. This increase represents a surge of approximately <strong>20 million sq ft</strong> compared to the same period last year.</p>
 <p><br></p>
 <p style="text-align: justify">While Colliers's analysis shows that the year-to-date total for the first three quarters still lags behind 2024, the "aggressive recovery" observed in the third quarter demonstrates that momentum has returned to the industrial real estate market. <strong>Phoenix</strong> and <strong>Indianapolis</strong> are leading demand growth, driven by strong big-box demand, build-to-suit projects, and large-scale user transactions.</p>

@@ -1,14 +1,22 @@
 ---
-title: "Kızıldeniz'de Yangın: ASL Bauhinia Mürettebatı Tahliye Edildi"
-subtitle: "Kızıldeniz'de Yangın: ASL Bauhinia Mürettebatı Tahliye Edildi"
-date: "2025-01-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_78240bb589fa477caa9cfad90f7182bb~mv2.jpg"
-imageAlt: "Kızıldeniz'de Yangın: ASL Bauhinia Mürettebatı Tahliye Edildi"
-wixId: "fe1413cc-859d-46c0-898d-364d06d45842"
-author: "Sedat Onat"
+title: 'Kızıldeniz''de Yangın: ASL Bauhinia Mürettebatı Tahliye Edildi'
+subtitle: 'Kızıldeniz''de Yangın: ASL Bauhinia Mürettebatı Tahliye Edildi'
+date: '2025-01-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_78240bb589fa477caa9cfad90f7182bb~mv2.jpg
+imageAlt: 'Kızıldeniz''de Yangın: ASL Bauhinia Mürettebatı Tahliye Edildi'
+wixId: fe1413cc-859d-46c0-898d-364d06d45842
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kızıldeniz
+- konteyner gemisi
+- ASL Bauhinia
+- gemi yangını
+- mürettebat tahliyesi
+- deniz güvenliği
+- Hong Kong
 ---
 <p style="text-align: justify">Hong Kong bayraklı konteyner gemisi <strong>ASL Bauhinia</strong>, Kızıldeniz'de seyrederken yangın çıktı. Yangının hızla yayılması üzerine mürettebat, güvenlik gerekçesiyle gemiyi terk etmek zorunda kaldı.</p>
 <p><br></p>

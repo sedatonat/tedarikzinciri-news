@@ -1,14 +1,22 @@
 ---
-title: "DHL Supply Chain, Tesla Semi ile Elektrikli Ağır Vasıta Filosunu Büyütüyor"
-subtitle: "DHL Supply Chain, Tesla Semi ile Elektrikli Ağır Vasıta Filosunu Büyütüyor"
-date: "2025-12-10T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_670e4bb5917b4eecb62dc7979865b87c~mv2.jpg"
-imageAlt: "DHL Supply Chain’in Central California’da Tesla Semi’yi devreye alması, pilot sonuçları, 2026 EV filo büyüme planı ve 2050 net-zero hedefi kapsamında ağır vasıta elektrifikasyonunun lojistik etkilerinin detaylı özeti"
-wixId: "26a36df1-de11-4c7e-8ad8-2f7a4afb5cae"
-author: "Sedat Onat"
+title: DHL Supply Chain, Tesla Semi ile Elektrikli Ağır Vasıta Filosunu Büyütüyor
+subtitle: DHL Supply Chain, Tesla Semi ile Elektrikli Ağır Vasıta Filosunu Büyütüyor
+date: '2025-12-10T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_670e4bb5917b4eecb62dc7979865b87c~mv2.jpg
+imageAlt: DHL Supply Chain’in Central California’da Tesla Semi’yi devreye alması, pilot sonuçları, 2026 EV filo büyüme planı ve 2050 net-zero hedefi kapsamında ağır vasıta elektrifikasyonunun lojistik etkilerinin detaylı özeti
+wixId: 26a36df1-de11-4c7e-8ad8-2f7a4afb5cae
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DHL Supply Chain
+- Tesla Semi
+- elektrikli kamyon
+- ağır vasıta
+- emisyon azaltımı
+- net-zero
+- filo elektrifikasyonu
 ---
 <p style="text-align: justify">Küresel lojistik hizmet sağlayıcısı <strong>DHL Supply Chain</strong>, ağır vasıta taşımacılığında elektrifikasyon stratejisini ileri bir aşamaya taşıyarak <strong>Tesla Semi</strong>’yi operasyonlarına dahil ettiğini açıkladı. Şirketin <strong>Central California</strong> bölgesinde devreye aldığı elektrikli çekici, günlük yaklaşık <strong>100 mil</strong> mesafe kat etmekte ve <strong>haftada yalnızca bir kez şarj</strong> gerektirmekte. Bu uygulama, DHL’in uzun vadeli <strong>net-zero</strong> hedefleri doğrultusunda ağır vasıta elektrifikasyonunun pratikte nasıl ölçeklenebileceğine dair önemli bir gösterge olarak değerlendiriliyor.</p>
 <p><br></p>

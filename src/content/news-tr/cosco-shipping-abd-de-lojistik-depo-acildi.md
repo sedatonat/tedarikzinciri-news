@@ -1,14 +1,23 @@
 ---
-title: "COSCO SHIPPING, ABD’de Kapsamlı Lojistik Depo Operasyonlarını Başlattı"
-subtitle: "COSCO SHIPPING, ABD’de Kapsamlı Lojistik Depo Operasyonlarını Başlattı"
-date: "2024-05-13T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_5aaee75280e8427fbdf34bb7fec36ba8~mv2.jpg"
-imageAlt: "COSCO SHIPPING, ABD’de Kapsamlı Lojistik Depo Operasyonlarını Başlattı"
-wixId: "e271fb6d-5a33-4789-81b7-d949d9f97c6f"
-author: "Sedat Onat"
+title: COSCO SHIPPING, ABD’de Kapsamlı Lojistik Depo Operasyonlarını Başlattı
+subtitle: COSCO SHIPPING, ABD’de Kapsamlı Lojistik Depo Operasyonlarını Başlattı
+date: '2024-05-13T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_5aaee75280e8427fbdf34bb7fec36ba8~mv2.jpg
+imageAlt: COSCO SHIPPING, ABD’de Kapsamlı Lojistik Depo Operasyonlarını Başlattı
+wixId: e271fb6d-5a33-4789-81b7-d949d9f97c6f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- COSCO SHIPPING
+- lojistik deposu
+- Los Angeles
+- depo operasyonları
+- WMS
+- OMS
+- gerçek zamanlı takip
+- EDI
 ---
 <p>COSCO SHIPPING, ABD'de kendi işlettiği bir lojistik deposu kurduğunu resmi olarak duyurdu. Yeni depo, 177,141 metrekare büyüklüğünde olup, Los Angeles Uluslararası Havalimanı ve Los Angeles Limanı'na yaklaşık 60 dakika uzaklıkta, Büyük Los Angeles bölgesinde yer almakta. Depo, siparişlerin %95'ini 24 saat içinde ve %98'ini 48 saat içinde teslim edebilme kapasitesine sahip.&nbsp;</p>
 <p><br></p>

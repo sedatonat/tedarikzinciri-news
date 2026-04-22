@@ -1,16 +1,23 @@
 ---
-title: "Walmart Scales Wiliot Sensors to Strengthen Inventory Tracking and AI Capabilities"
-subtitle: "Walmart Scales Wiliot Sensors to Strengthen Inventory Tracking and AI Capabilities"
-date: "2025-11-04T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_ea15aedd19bc42a6978a738e9665aaa2~mv2.jpg"
-imageAlt: "Walmart is automating pallet-level inventory tracking with Wiliot ambient IoT sensors, enhancing real-time inventory accuracy, cold chain compliance, and AI-driven decision-making. By 2026, coverage will include 4,600 stores and 40+ distribution centers."
-wixId: "aabe85dc-d0b4-472f-a343-6d67013c1ae1"
-author: "Sedat Onat"
+title: Walmart Scales Wiliot Sensors to Strengthen Inventory Tracking and AI Capabilities
+subtitle: Walmart Scales Wiliot Sensors to Strengthen Inventory Tracking and AI Capabilities
+date: '2025-11-04T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_ea15aedd19bc42a6978a738e9665aaa2~mv2.jpg
+imageAlt: Walmart is automating pallet-level inventory tracking with Wiliot ambient IoT sensors, enhancing real-time inventory accuracy, cold chain compliance, and AI-driven decision-making. By 2026, coverage will include 4,600 stores and 40+ distribution centers.
+wixId: aabe85dc-d0b4-472f-a343-6d67013c1ae1
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Walmart
+- Wiliot
+- ambient IoT sensors
+- inventory management
+- artificial intelligence
+- cold chain
+- supply chain visibility
 ---
-
 <p style="text-align: justify">Walmart is expanding its investments in inventory tracking technologies to make its supply chain more visible and intelligent. The retail giant is partnering with <strong>Wiliot</strong> to deploy <strong>ambient IoT sensors</strong> throughout its supply chain, broadening automation and real-time data usage across inventory management, cold chain operations, and beyond.</p>
 <p><br></p>
 <p style="text-align: justify">Walmart's objective is clear: deliver <strong>faster, more accurate, and more efficient inventory management</strong> to further strengthen its AI-powered supply chain.</p>

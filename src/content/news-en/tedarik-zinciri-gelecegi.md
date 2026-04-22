@@ -1,16 +1,24 @@
 ---
-title: "Survey: How Supply Chain Leaders Are Preparing for the Future"
-subtitle: "Survey: How Supply Chain Leaders Are Preparing for the Future"
-date: "2024-12-24T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_93e269313ff645f5ab4397abf33f5655~mv2.jpg"
-imageAlt: "Survey: How Supply Chain Leaders Are Preparing for the Future"
-wixId: "f04d5ec8-14a8-4f05-a068-c07009529004"
-author: "Sedat Onat"
+title: 'Survey: How Supply Chain Leaders Are Preparing for the Future'
+subtitle: 'Survey: How Supply Chain Leaders Are Preparing for the Future'
+date: '2024-12-24T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_93e269313ff645f5ab4397abf33f5655~mv2.jpg
+imageAlt: 'Survey: How Supply Chain Leaders Are Preparing for the Future'
+wixId: f04d5ec8-14a8-4f05-a068-c07009529004
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- supply chain
+- restructuring
+- resilience
+- agility
+- survey
+- RR Donnelley
+- Gartner
+- GEODIS
 ---
-
 <p><strong>RR Donnelley</strong> has released a survey showing that 97% of supply chain leaders are planning major restructuring initiatives over the next two years.</p>
 <p><br></p>
 <p>These leaders are focused on strategic changes to boost operational efficiency and adapt to shifting market conditions.</p>

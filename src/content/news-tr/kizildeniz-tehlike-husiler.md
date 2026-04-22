@@ -1,14 +1,22 @@
 ---
-title: "Kızıldeniz'de Tehlike: Yemen'in Husileri Ateşkesi İzleyecek, Ancak Gemiler Hâlâ Risk Altında"
-subtitle: "Kızıldeniz'de Tehlike: Yemen'in Husileri Ateşkesi İzleyecek, Ancak Gemiler Hâlâ Risk Altında"
-date: "2025-01-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7db01c48f6354fb196352adef628e1dc~mv2.jpg"
-imageAlt: "Kızıldeniz'de Tehlike: Yemen'in Husileri Ateşkesi İzleyecek, Ancak Gemiler Hâlâ Risk Altında"
-wixId: "1e877bad-cb12-4290-abbe-08c26909fb79"
-author: "Sedat Onat"
+title: 'Kızıldeniz''de Tehlike: Yemen''in Husileri Ateşkesi İzleyecek, Ancak Gemiler Hâlâ Risk Altında'
+subtitle: 'Kızıldeniz''de Tehlike: Yemen''in Husileri Ateşkesi İzleyecek, Ancak Gemiler Hâlâ Risk Altında'
+date: '2025-01-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7db01c48f6354fb196352adef628e1dc~mv2.jpg
+imageAlt: 'Kızıldeniz''de Tehlike: Yemen''in Husileri Ateşkesi İzleyecek, Ancak Gemiler Hâlâ Risk Altında'
+wixId: 1e877bad-cb12-4290-abbe-08c26909fb79
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kızıldeniz
+- Husi saldırıları
+- deniz taşımacılığı
+- Süveyş Kanalı
+- gemi güvenliği
+- küresel ticaret
+- sigorta maliyetleri
 ---
 <p style="text-align: justify"><a href="https://gcaptain.com/red-sea-roulette-yemens-houthis-to-monitor-ceasefire-but-ships-remain-at-risk/">Yemen'in İran destekli Husi hareketinin lideri <strong>Abdul Malik al-Houthi</strong>, İsrail ve Hamas arasında Gazze'deki 15 aylık savaşı sonlandırmayı amaçlayan ateşkes anlaşmasının uygulanmasını izleyeceklerini ve anlaşmanın ihlali durumunda saldırılarına devam edeceklerini belirtti.</a></p>
 <p style="text-align: justify"><br></p>

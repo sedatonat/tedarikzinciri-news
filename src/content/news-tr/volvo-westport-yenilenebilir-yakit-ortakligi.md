@@ -1,14 +1,23 @@
 ---
-title: "Volvo ve Westport'tan Yenilenebilir Yakıtlı Araçlar için Stratejik Ortaklık"
-subtitle: "Volvo ve Westport'tan Yenilenebilir Yakıtlı Araçlar için Stratejik Ortaklık"
-date: "2024-06-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9a4674647b384d6b8d4a54551d68b682~mv2.jpg"
-imageAlt: "Volvo ve Westport'tan Yenilenebilir Yakıtlı Araçlar için Stratejik Ortaklık"
-wixId: "8129fe90-62f7-4e0d-accd-19081171f0a1"
-author: "Sedat Onat"
+title: Volvo ve Westport'tan Yenilenebilir Yakıtlı Araçlar için Stratejik Ortaklık
+subtitle: Volvo ve Westport'tan Yenilenebilir Yakıtlı Araçlar için Stratejik Ortaklık
+date: '2024-06-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_9a4674647b384d6b8d4a54551d68b682~mv2.jpg
+imageAlt: Volvo ve Westport'tan Yenilenebilir Yakıtlı Araçlar için Stratejik Ortaklık
+wixId: 8129fe90-62f7-4e0d-accd-19081171f0a1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Volvo
+- Westport
+- yenilenebilir yakıt
+- içten yanmalı motor
+- HPDI
+- hidrojen
+- ağır taşımacılık
+- ortak girişim
 ---
 <p>Volvo Group ve Westport Fuel Systems Inc., uzun yol ve arazi uygulamaları için yenilenebilir yakıtlı içten yanmalı motor (ICE) teknolojisinin ticarileştirilmesini hızlandırmak amacıyla bir ortak girişim başlattı. Bu girişim, özellikle ağır taşımacılık ve arazi uygulamaları gibi zor sektörlerde uygun maliyetli çözümler sunmayı hedeflemektedir. Westport'un yüksek basınçlı doğrudan enjeksiyon (HPDI) yakıt sistemini kullanarak, dizel gibi sera gazı yayan yakıtlar yerine biyogaz veya hidrojen gibi karbon-nötr veya sıfır-karbon yakıtlar kullanılacak. Bu yaklaşım, kullanıcıların içten yanmalı motorları tork, güç veya verimlilikten ödün vermeden kullanmaya devam etmelerini sağlarken, neredeyse sıfır sera gazı emisyonu elde etmelerine olanak tanır.</p>
 <p><br></p>

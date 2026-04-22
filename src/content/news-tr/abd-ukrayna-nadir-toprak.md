@@ -1,14 +1,23 @@
 ---
-title: "ABD ve Ukrayna Nadir Toprak Elementleri Anlaşmasının Tedarik Zincirine Etkisi"
-subtitle: "ABD ve Ukrayna Nadir Toprak Elementleri Anlaşmasının Tedarik Zincirine Etkisi"
-date: "2025-02-26T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_1e2a9d3e03fe441aabcbb39e6be88a84~mv2.jpg"
-imageAlt: "ABD ve Ukrayna Nadir Toprak Elementleri Anlaşmasının Tedarik Zincirine Etkisi"
-wixId: "28dd3148-7389-48a3-a3e8-2c8f128afc9c"
-author: "Sedat Onat"
+title: ABD ve Ukrayna Nadir Toprak Elementleri Anlaşmasının Tedarik Zincirine Etkisi
+subtitle: ABD ve Ukrayna Nadir Toprak Elementleri Anlaşmasının Tedarik Zincirine Etkisi
+date: '2025-02-26T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_1e2a9d3e03fe441aabcbb39e6be88a84~mv2.jpg
+imageAlt: ABD ve Ukrayna Nadir Toprak Elementleri Anlaşmasının Tedarik Zincirine Etkisi
+wixId: 28dd3148-7389-48a3-a3e8-2c8f128afc9c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- nadir toprak elementleri
+- ABD
+- Ukrayna
+- Çin
+- tedarik zinciri
+- kritik mineraller
+- yeşil enerji
+- jeopolitik
 ---
 <p style="text-align: justify"><strong>Amerika Birleşik Devletleri (ABD)</strong> ile <strong>Ukrayna</strong> arasında imzalanan nadir toprak elementleri anlaşması, küresel tedarik zincirlerinde önemli değişikliklere yol açmakta. Bu anlaşma, özellikle teknoloji ve savunma sanayilerinde kullanılan kritik minerallerin tedarikini çeşitlendirmeyi ve güvence altına almayı hedeflemekte.​</p>
 <p><br></p>

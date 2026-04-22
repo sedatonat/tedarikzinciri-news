@@ -1,16 +1,24 @@
 ---
-title: "PIL Puts Fourth LNG Dual-Fuel \"O\" Class Vessel Kota Orkid into Service"
-subtitle: "PIL Puts Fourth LNG Dual-Fuel \"O\" Class Vessel Kota Orkid into Service"
-date: "2025-10-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9a594132ebc341eb9ad87c9b490354ec~mv2.jpg"
-imageAlt: "Pacific International Lines (PIL) launched the fourth vessel in its 8,200 TEU capacity LNG dual-fuel \"O\" class ship series, Kota Orkid, at a ceremony held at Yangzijiang Shipyard in Jiangsu province, China. The new vessel will serve the Asia–West Africa route."
-wixId: "a159af8a-2a7e-42d2-a43d-ca514f7f381c"
-author: "Sedat Onat"
+title: PIL Puts Fourth LNG Dual-Fuel "O" Class Vessel Kota Orkid into Service
+subtitle: PIL Puts Fourth LNG Dual-Fuel "O" Class Vessel Kota Orkid into Service
+date: '2025-10-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_9a594132ebc341eb9ad87c9b490354ec~mv2.jpg
+imageAlt: Pacific International Lines (PIL) launched the fourth vessel in its 8,200 TEU capacity LNG dual-fuel "O" class ship series, Kota Orkid, at a ceremony held at Yangzijiang Shipyard in Jiangsu province, China. The new vessel will serve the Asia–West Africa route.
+wixId: a159af8a-2a7e-42d2-a43d-ca514f7f381c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- PIL
+- LNG dual-fuel
+- container ship
+- Kota Orkid
+- sustainable transport
+- West Africa
+- fleet modernization
+- low emission
 ---
-
 <p style="text-align: justify"><strong>Pacific International Lines (PIL)</strong> has put into service its <strong>fourth LNG dual-fuel "O" class container vessel</strong> as part of its environmentally conscious fleet modernization program. The <strong>Kota Orkid</strong>, which has a capacity of 8,200 TEU, was named after <strong>Singapore's national flower, the orchid</strong>, and symbolizes <strong>resilience, elegance, and progress</strong>.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Naming ceremony</strong></h5>

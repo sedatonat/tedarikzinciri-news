@@ -1,14 +1,23 @@
 ---
-title: "Uluslararası Nakliyat Sektöründe Karbon Salınımını Sıfırlama Yarışı"
-subtitle: "Uluslararası Nakliyat Sektöründe Karbon Salınımını Sıfırlama Yarışı"
-date: "2024-03-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1227fd2c1dd74ba38461712841a0fd9c~mv2.jpg"
-imageAlt: "Uluslararası Nakliyat Sektöründe Karbon Salınımını Sıfırlama Yarışı"
-wixId: "e799205d-90d1-4b21-84c7-da0852d9a17a"
-author: "Sedat Onat"
+title: Uluslararası Nakliyat Sektöründe Karbon Salınımını Sıfırlama Yarışı
+subtitle: Uluslararası Nakliyat Sektöründe Karbon Salınımını Sıfırlama Yarışı
+date: '2024-03-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1227fd2c1dd74ba38461712841a0fd9c~mv2.jpg
+imageAlt: Uluslararası Nakliyat Sektöründe Karbon Salınımını Sıfırlama Yarışı
+wixId: e799205d-90d1-4b21-84c7-da0852d9a17a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- karbon salınımı
+- deniz taşımacılığı
+- IMO
+- yeşil yakıt
+- Maersk
+- CMA CGM
+- sürdürülebilirlik
+- alternatif yakıtlar
 ---
 <p>Uluslararası taşımacılıkta karbon salınımlarını azaltma hedeflerine ulaşmak için bazı deniz taşıyıcıları ve nakliyeciler hızla harekete geçiyor. <a href="https://www.imo.org/"><u>Uluslararası Denizcilik Örgütü (IMO)</u></a>, 2050 yılına kadar gemilerden kaynaklanan sera gazı (<a href="https://en.wikipedia.org/wiki/Greenhouse_gas"><u>GHG - Green House Gas</u></a>) emisyonlarını net sıfıra indirme planını benimsemiştir. Bu strateji, alternatif gemi yakıtlarının kullanımını içeriyor ve 2030 yılına kadar uluslararası nakliyat tarafından kullanılan enerjinin %5 ile %10'u arasının bu yakıtlardan sağlanması hedefleniyor. Ancak, şu anki kullanım oranları hedeflenenin çok altında.</p>
 <p><br></p>

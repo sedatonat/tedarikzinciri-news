@@ -1,16 +1,23 @@
 ---
-title: "Survey: Major Disconnect Between Supply Chain Executives and the C-Suite"
-subtitle: "Survey: Major Disconnect Between Supply Chain Executives and the C-Suite"
-date: "2024-12-02T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_f0aa167fc31a42cda619229b4ac66f3d~mv2.jpg"
-imageAlt: "Survey: Major Disconnect Between Supply Chain Executives and the C-Suite"
-wixId: "33085d91-1e1b-41cf-8f24-3fbf04586c62"
-author: "Sedat Onat"
+title: 'Survey: Major Disconnect Between Supply Chain Executives and the C-Suite'
+subtitle: 'Survey: Major Disconnect Between Supply Chain Executives and the C-Suite'
+date: '2024-12-02T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_f0aa167fc31a42cda619229b4ac66f3d~mv2.jpg
+imageAlt: 'Survey: Major Disconnect Between Supply Chain Executives and the C-Suite'
+wixId: 33085d91-1e1b-41cf-8f24-3fbf04586c62
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- supply chain management
+- C-suite
+- EY survey
+- digitalization
+- supply chain resilience
+- cost management
+- autonomous supply chain
 ---
-
 <p>The COVID-19 pandemic fundamentally altered the perspective of supply chain managers. Global lockdowns and trade wars highlighted the notion that cost should not be the determining factor in material procurement and manufacturing. Supplier diversification and the shift of production to regions closer to end markets—despite requiring greater upfront expenditure—became critical components of supply chain resilience strategy. Yet nearly five years after COVID-19 emerged, questions remain about whether supply chain managers have maintained these perspectives.</p>
 <p><br></p>
 <p>A survey of 347 supply chain leaders conducted by EY encompassed companies with annual revenues of at least $500 million. According to survey results, 88 percent of respondents stated that C-suites view the supply chain as a cost center, signaling a reversion to pre-pandemic attitudes. However, while 90 percent said that CEOs appreciate the financial impact of supply chains, 78 percent indicated that their organizations have reprioritized cost management in key decisions.</p>

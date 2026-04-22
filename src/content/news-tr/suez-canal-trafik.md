@@ -1,14 +1,22 @@
 ---
-title: "Süveyş Kanalı Trafiği %10 Arttı: Büyük Gemiler Geri Dönmeye Başladı"
-subtitle: "Süveyş Kanalı Trafiği %10 Arttı: Büyük Gemiler Geri Dönmeye Başladı"
-date: "2025-11-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_072b7c50271e43968b3da9bddd1640f9~mv2.jpg"
-imageAlt: "Süveyş Kanalı, 2023’te başlayan kriz sonrası en büyük trafik artışını yaşıyor. Ekim ayında 229 gemi geçiş yaptı, toplam tonaj %10 yükseldi ve CMA CGM ile MSC gibi büyük hatlar rotayı yeniden test etmeye başladı."
-wixId: "b5b00125-0130-4d2a-9816-224da99358f0"
-author: "Sedat Onat"
+title: 'Süveyş Kanalı Trafiği %10 Arttı: Büyük Gemiler Geri Dönmeye Başladı'
+subtitle: 'Süveyş Kanalı Trafiği %10 Arttı: Büyük Gemiler Geri Dönmeye Başladı'
+date: '2025-11-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_072b7c50271e43968b3da9bddd1640f9~mv2.jpg
+imageAlt: Süveyş Kanalı, 2023’te başlayan kriz sonrası en büyük trafik artışını yaşıyor. Ekim ayında 229 gemi geçiş yaptı, toplam tonaj %10 yükseldi ve CMA CGM ile MSC gibi büyük hatlar rotayı yeniden test etmeye başladı.
+wixId: b5b00125-0130-4d2a-9816-224da99358f0
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Süveyş Kanalı
+- Kızıldeniz
+- konteyner taşımacılığı
+- CMA CGM
+- deniz sigortası
+- gemi trafiği
+- MSC
 ---
 <p style="text-align: justify">Süveyş Kanalı, Kızıldeniz ve Bab el-Mendeb bölgesindeki gerilimin kademeli olarak azalmasıyla <strong>iki yılın en güçlü gemi dönüşüne</strong> tanık oluyor. Süveyş Kanalı İdaresi (SCA), Ekim ayının 2023 sonundan bu yana <strong>en yüksek aylık dönüş oranına</strong> ulaştığını bildirdi.</p>
 <p><br></p>

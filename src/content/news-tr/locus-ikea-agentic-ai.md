@@ -1,14 +1,22 @@
 ---
-title: "Locus CEO’su: IKEA Satın Alımı ve Agentic AI, Teslimatın Geleceğini Nasıl Değiştiriyor?"
-subtitle: "Locus CEO’su: IKEA Satın Alımı ve Agentic AI, Teslimatın Geleceğini Nasıl Değiştiriyor?"
-date: "2025-11-11T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_3270cf5633e445c6bded87435302c470~mv2.jpg"
-imageAlt: "Locus CEO Nishith Rastogi, IKEA’nın ana şirketi Ingka Group tarafından satın alınmasının ardından küresel lojistik OS vizyonunu, agentic AI’nin teslimat ağlarını nasıl dönüştürdüğünü, tandem teslimatlar ve rota optimizasyonu gibi yenilikleri ve AI’nın gelecekte oluşturacağı “dinamik tedarik zincirleri”ni anlatıyor."
-wixId: "00951180-b809-4eb9-8439-5086f68de82c"
-author: "Sedat Onat"
+title: 'Locus CEO’su: IKEA Satın Alımı ve Agentic AI, Teslimatın Geleceğini Nasıl Değiştiriyor?'
+subtitle: 'Locus CEO’su: IKEA Satın Alımı ve Agentic AI, Teslimatın Geleceğini Nasıl Değiştiriyor?'
+date: '2025-11-11T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_3270cf5633e445c6bded87435302c470~mv2.jpg
+imageAlt: Locus CEO Nishith Rastogi, IKEA’nın ana şirketi Ingka Group tarafından satın alınmasının ardından küresel lojistik OS vizyonunu, agentic AI’nin teslimat ağlarını nasıl dönüştürdüğünü, tandem teslimatlar ve rota optimizasyonu gibi yenilikleri ve AI’nın gelecekte oluşturacağı “dinamik tedarik zincirleri”ni anlatıyor.
+wixId: 00951180-b809-4eb9-8439-5086f68de82c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Locus
+- IKEA
+- agentic AI
+- son mil teslimat
+- rota optimizasyonu
+- lojistik teknolojisi
+- yapay zeka
 ---
 <p style="text-align: justify">Locus’un Ingka Group (IKEA Retail’in ana şirketi) tarafından satın alınması, son mil teslimat teknolojilerinde yeni bir dönemi işaret ediyor. CEO <strong>Nishith Rastogi</strong>, bu satın almanın “Locus’un uzun vadeli vizyonunu hızlandıran stratejik bir adım” olduğunu ve şirketin operasyonel bağımsızlığını koruyarak dünya çapında büyümeye devam edeceğini söylüyor.</p>
 <p><br></p>

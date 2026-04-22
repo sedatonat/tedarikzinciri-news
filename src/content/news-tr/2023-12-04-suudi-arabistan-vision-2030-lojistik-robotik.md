@@ -1,14 +1,23 @@
 ---
-title: "Suudi Arabistan, Vision 2030 'un Lojistik Taleplerini Karşılamanın Robotik 'ten Geçtiğine İnanıyor"
-subtitle: "Suudi Arabistan, Vision 2030 'un Lojistik Taleplerini Karşılamanın Robotik 'ten Geçtiğine İnanıyor"
-date: "2023-12-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_addefd3d8f964978841976c1a64a33ed~mv2.png"
-imageAlt: "Suudi Arabistan, Vision 20230 'un Lojistik Taleplerini Karşılamanın Robotik 'ten Geçtiğine İnanıyor"
-wixId: "f3748c62-8f66-43b6-87ec-1f9e3e615855"
-author: "Sedat Onat"
+title: Suudi Arabistan, Vision 2030 'un Lojistik Taleplerini Karşılamanın Robotik 'ten Geçtiğine İnanıyor
+subtitle: Suudi Arabistan, Vision 2030 'un Lojistik Taleplerini Karşılamanın Robotik 'ten Geçtiğine İnanıyor
+date: '2023-12-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_addefd3d8f964978841976c1a64a33ed~mv2.png
+imageAlt: Suudi Arabistan, Vision 20230 'un Lojistik Taleplerini Karşılamanın Robotik 'ten Geçtiğine İnanıyor
+wixId: f3748c62-8f66-43b6-87ec-1f9e3e615855
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Suudi Arabistan
+- Vision 2030
+- robotik
+- lojistik altyapı
+- yapay zeka
+- otomasyon
+- NEOM
+- dijital dönüşüm
 ---
 <p>Suudi Arabistan Ülkenin lojistik altyapısını geliştirmek için "<a href="https://www.vision2030.gov.sa/"><u>Vision 2030</u></a>" planına yatırım yapmaya devam ediyor ve bu çabanın robotik alanında hızlı bir büyümeyi tetikleyeceğini düşünüyor.</p>
 <p><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "BP and JLL Partnership Marks a New Era in the Energy Sector"
-subtitle: "BP and JLL Partnership Marks a New Era in the Energy Sector"
-date: "2024-11-04T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_746161d57e4c4cbe8bb63a22b130a14d~mv2.jpg"
-imageAlt: "BP and JLL Partnership Marks a New Era in the Energy Sector"
-wixId: "13760874-5e2a-4bf9-b5b0-04983d68dc7b"
-author: "Sedat Onat"
+title: BP and JLL Partnership Marks a New Era in the Energy Sector
+subtitle: BP and JLL Partnership Marks a New Era in the Energy Sector
+date: '2024-11-04T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_746161d57e4c4cbe8bb63a22b130a14d~mv2.jpg
+imageAlt: BP and JLL Partnership Marks a New Era in the Energy Sector
+wixId: 13760874-5e2a-4bf9-b5b0-04983d68dc7b
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- BP
+- JLL
+- real estate management
+- facility management
+- strategic sourcing
+- vested methodology
+- energy sector
+- sustainability
 ---
-
 <p>In 2020, international energy giant BP (formerly British Petroleum) embarked on a restructuring and rebranding process as an integrated energy company. The company aimed to achieve this transformation through a new product resource mix that would reflect the transition to a low-carbon future. This effort encompassed how BP collaborated with strategic suppliers such as Jones Lang LaSalle (JLL); JLL provides real estate and facilities management services for BP's global workplaces, including small office and capital projects.</p>
 <p><br></p>
 <p>BP's global workplace solutions president Wendy Cuthbert encouraged the company's workplace leaders to explore the University of Tennessee's (UT) "vested" methodology, which aims to create highly collaborative business relationships where both parties are mutually committed to each other's success. In spring 2020, BP selected JLL to transition from four primary real estate management suppliers to a single global provider. As the BP-JLL joint deal architecture team (DAT) worked to reduce costs, increase service levels, and achieve workplace sustainability goals, it also ensured that JLL benefited from incentives to increase BP's profits.</p>

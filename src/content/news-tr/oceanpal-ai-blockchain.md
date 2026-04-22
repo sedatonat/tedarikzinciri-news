@@ -1,14 +1,23 @@
 ---
-title: "OceanPal, Yapay Zekâ ve Blockchain Alanına Giriş Yaparak SovereignAI’yi Kurdu"
-subtitle: "OceanPal, Yapay Zekâ ve Blockchain Alanına Giriş Yaparak SovereignAI’yi Kurdu"
-date: "2025-10-29T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_f71cbecdffd743f4981f8f9cb4fefce7~mv2.jpeg"
-imageAlt: "Yunan denizcilik şirketi OceanPal, geleneksel taşımacılıktan çıkarak yapay zekâ ve blockchain odaklı SovereignAI adlı yeni bir dijital iştirak kurdu. NEAR Foundation ortaklığıyla geliştirilen proje, NVIDIA teknolojisiyle desteklenen gizlilik odaklı AI bulut altyapısı oluşturmayı hedefliyor."
-wixId: "e75aee8b-ee75-4ce7-ac7b-910a1b97fa89"
-author: "Sedat Onat"
+title: OceanPal, Yapay Zekâ ve Blockchain Alanına Giriş Yaparak SovereignAI’yi Kurdu
+subtitle: OceanPal, Yapay Zekâ ve Blockchain Alanına Giriş Yaparak SovereignAI’yi Kurdu
+date: '2025-10-29T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_f71cbecdffd743f4981f8f9cb4fefce7~mv2.jpeg
+imageAlt: Yunan denizcilik şirketi OceanPal, geleneksel taşımacılıktan çıkarak yapay zekâ ve blockchain odaklı SovereignAI adlı yeni bir dijital iştirak kurdu. NEAR Foundation ortaklığıyla geliştirilen proje, NVIDIA teknolojisiyle desteklenen gizlilik odaklı AI bulut altyapısı oluşturmayı hedefliyor.
+wixId: e75aee8b-ee75-4ce7-ac7b-910a1b97fa89
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- OceanPal
+- yapay zeka
+- blockchain
+- NEAR Protocol
+- SovereignAI
+- denizcilik dijitalleşme
+- NVIDIA
+- kripto varlık
 ---
 <p style="text-align: justify"><strong>Yunanistan merkezli gemi işletmecisi OceanPal</strong>, deniz taşımacılığının ötesine geçerek <strong>yapay zekâ (AI)</strong> ve <strong>blockchain teknolojileri</strong> alanında büyük bir adım attı. Şirket, <strong>SovereignAI</strong> adlı yeni dijital iştirakiyle <strong>evrensel yapay zekâ egemenliği (universal AI sovereignty)</strong> vizyonunu hayata geçirmeyi planlıyor.</p>
 <p><br></p>

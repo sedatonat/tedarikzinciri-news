@@ -1,14 +1,22 @@
 ---
-title: "İşiniz İçin Doğru Tedarik Zinciri Uzmanını Seçmek"
-subtitle: "İşiniz İçin Doğru Tedarik Zinciri Uzmanını Seçmek"
-date: "2025-05-15T00:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_5799e57388464fa1b5f1127d24eeb7c1~mv2.png"
-imageAlt: "İşiniz İçin Doğru Tedarik Zinciri Uzmanını Seçmek"
-wixId: "28e17c2b-c0ee-471e-aac9-6f47a8954e22"
-author: "Sedat Onat"
+title: İşiniz İçin Doğru Tedarik Zinciri Uzmanını Seçmek
+subtitle: İşiniz İçin Doğru Tedarik Zinciri Uzmanını Seçmek
+date: '2025-05-15T00:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_5799e57388464fa1b5f1127d24eeb7c1~mv2.png
+imageAlt: İşiniz İçin Doğru Tedarik Zinciri Uzmanını Seçmek
+wixId: 28e17c2b-c0ee-471e-aac9-6f47a8954e22
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tedarik zinciri
+- danışmanlık
+- ERP entegrasyonu
+- change management
+- WMS
+- TMS
+- dijital dönüşüm
 ---
 <p>Doğru supply chain expert seçimi, dönüşüm programlarının başarısında belirleyici olmaktadır. Şirketler, uzman seçiminde sektör tecrübesi, referanslı vaka sonuçları, metodoloji netliği ve change management yetkinliğini birlikte değerlendirmekte. İlk adım, iş hedeflerinin netleştirilmesi ve KPI setinin tanımlanması; adayın diagnostic yaklaşımı ve hipotez bazlı problem çözme disiplini gözlemlenmekte. Teknoloji tarafında ERP/WMS/TMS integration, data governance, ve advanced planning deneyimi aranmakta; çünkü süreç tasarımı ile sistem yetenekleri birlikte ele alınmakta. Sözleşme yapısında milestone-based fees ve somut çıktı tanımı, risk paylaşımını dengelemekte. İletişim ve kültürel uyum, saha ekipleriyle güven bağını kurmakta; bu da önerilerin benimsenmesini hızlandırmakta.&nbsp;</p>
 <p><br></p>

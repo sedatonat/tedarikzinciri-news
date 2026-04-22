@@ -1,14 +1,21 @@
 ---
-title: "Veri Ambarı Yatırımlarıyla Yazılım Seçeneklerini Artıran Göndericiler"
-subtitle: "Veri Ambarı Yatırımlarıyla Yazılım Seçeneklerini Artıran Göndericiler"
-date: "2025-03-11T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/11062b_5b8d6b0dcb864a1394ad23f6bcff6e01~mv2.jpg"
-imageAlt: "Veri Ambarı Yatırımlarıyla Yazılım Seçeneklerini Artıran Göndericiler"
-wixId: "0aa36a0f-7df6-4e40-abde-756e447da373"
-author: "Sedat Onat"
+title: Veri Ambarı Yatırımlarıyla Yazılım Seçeneklerini Artıran Göndericiler
+subtitle: Veri Ambarı Yatırımlarıyla Yazılım Seçeneklerini Artıran Göndericiler
+date: '2025-03-11T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/11062b_5b8d6b0dcb864a1394ad23f6bcff6e01~mv2.jpg
+imageAlt: Veri Ambarı Yatırımlarıyla Yazılım Seçeneklerini Artıran Göndericiler
+wixId: 0aa36a0f-7df6-4e40-abde-756e447da373
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- veri ambarı
+- SaaS
+- göndericiler
+- lojistik yazılımı
+- veri yönetimi
+- dijital dönüşüm
 ---
 <p style="text-align: justify">Lojistik sektöründe <strong>Yazılım Hizmeti (SaaS)</strong> araçlarının hızla çoğalması, göndericileri kendi iç sistemlerinin dışında veri temelleri oluşturmaya yönlendirmekte. Bu eğilim, göndericilerin farklı yazılım çözümlerini daha esnek bir şekilde kullanabilmelerine olanak tanımakta.</p>
 <p><br></p>

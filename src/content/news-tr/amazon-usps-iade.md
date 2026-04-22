@@ -1,14 +1,22 @@
 ---
-title: "Amazon, USPS ile Kapıdan İade Hizmetini Başlattı"
-subtitle: "Amazon, USPS ile Kapıdan İade Hizmetini Başlattı"
-date: "2025-10-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4750aff9d6de472682d3231835e8a223~mv2.jpg"
-imageAlt: "Amazon, ABD Posta Servisi (USPS) ile iş birliği yaparak müşterilerine kapıdan iade imkânı sunmaya başladı. Pilot uygulama, yaz aylarında seçili bölgelerde devreye alındı ve e-ticaret devinin iade sürecini daha hızlı ve kolay hale getirmeyi hedefliyor."
-wixId: "89a40ad1-401d-48d7-9f5e-87d2e76ff416"
-author: "Sedat Onat"
+title: Amazon, USPS ile Kapıdan İade Hizmetini Başlattı
+subtitle: Amazon, USPS ile Kapıdan İade Hizmetini Başlattı
+date: '2025-10-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4750aff9d6de472682d3231835e8a223~mv2.jpg
+imageAlt: Amazon, ABD Posta Servisi (USPS) ile iş birliği yaparak müşterilerine kapıdan iade imkânı sunmaya başladı. Pilot uygulama, yaz aylarında seçili bölgelerde devreye alındı ve e-ticaret devinin iade sürecini daha hızlı ve kolay hale getirmeyi hedefliyor.
+wixId: 89a40ad1-401d-48d7-9f5e-87d2e76ff416
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Amazon
+- USPS
+- kapıdan iade
+- tersine lojistik
+- e-ticaret
+- müşteri deneyimi
+- iade yönetimi
 ---
 <p style="text-align: justify"><strong>Amazon</strong>, müşterilerine daha kolay bir iade deneyimi sunmak amacıyla <strong>ABD Posta Servisi (USPS)</strong> ile yeni bir ortaklık başlattı. Bu iş birliği sayesinde kullanıcılar, uygun ürünleri <strong>kapılarından teslim alınarak iade etme (doorstep pickup)</strong> seçeneğini kullanabilecek.</p>
 <p><br></p>

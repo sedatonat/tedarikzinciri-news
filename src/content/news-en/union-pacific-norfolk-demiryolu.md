@@ -1,16 +1,23 @@
 ---
-title: "Union Pacific and Norfolk Southern Merger Outcomes"
-subtitle: "Union Pacific and Norfolk Southern Merger Outcomes"
-date: "2025-10-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_814b0a7fa2e24adba1fe2bb262e4e74e~mv2.jpg"
-imageAlt: "Union Pacific and Norfolk Southern Merger Outcomes"
-wixId: "0ecc410e-3614-48c0-89a5-318714a82432"
-author: "Sedat Onat"
+title: Union Pacific and Norfolk Southern Merger Outcomes
+subtitle: Union Pacific and Norfolk Southern Merger Outcomes
+date: '2025-10-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_814b0a7fa2e24adba1fe2bb262e4e74e~mv2.jpg
+imageAlt: Union Pacific and Norfolk Southern Merger Outcomes
+wixId: 0ecc410e-3614-48c0-89a5-318714a82432
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Union Pacific
+- Norfolk Southern
+- rail merger
+- carload shipping
+- transit time
+- Chicago
+- east-west gateways
 ---
-
 <p><strong>Union Pacific (UP)</strong> and <strong>Norfolk Southern (NS)</strong> claim that their merger could cut transit times by <strong>as much as two days</strong>, particularly in <strong>carload</strong> transportation.</p>
 <p><br>
 However, shippers looking at the results of past mergers are <strong>taking a cautious view of these promises.</strong></p>

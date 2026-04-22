@@ -1,14 +1,21 @@
 ---
-title: "U.S. Warehouse Market Sends Mixed Signals: Growth Rate Slowing"
-subtitle: "U.S. Warehouse Market Sends Mixed Signals: Growth Rate Slowing"
-date: "2024-02-27T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/11062b_939204ae9b614238a9e6d17a9368b38f~mv2.jpeg"
-imageAlt: "U.S. Warehouse Market Sends Mixed Signals: Growth Rate Slowing"
-wixId: "c9ea356e-074d-4856-bd9b-0e47c413cb04"
-author: "Sedat Onat"
+title: 'U.S. Warehouse Market Sends Mixed Signals: Growth Rate Slowing'
+subtitle: 'U.S. Warehouse Market Sends Mixed Signals: Growth Rate Slowing'
+date: '2024-02-27T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/11062b_939204ae9b614238a9e6d17a9368b38f~mv2.jpeg
+imageAlt: 'U.S. Warehouse Market Sends Mixed Signals: Growth Rate Slowing'
+wixId: c9ea356e-074d-4856-bd9b-0e47c413cb04
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- US
+- warehouse market
+- Inland Empire
+- rental rates
+- real estate
+- Prologis
+- trucking
 ---
-
 <p>The U.S. warehouse and distribution space market has begun to cool slightly after experiencing intense demand recently. Even strong regions like the Inland Empire near Los Angeles have felt the slowdown. According to analysis by real estate firm Colliers, warehouse rents across the U.S. saw an average increase of 20.6% in 2023. This increase pushed average rents nationwide to a record level of $9.72 per square meter. However, these figures can vary significantly in some markets, both higher and lower.</p>\n<p><br></p>\n<p>While rent growth rates decelerated in the second half of the year, Colliers forecasts the upward rent trend to continue this year. This is based on vacancy rates that remain low. Warehouse developer Prologis also predicts "modest positive" rent growth for 2024. This represents a slowdown compared to the strong increases experienced in the post-pandemic years.</p>\n<p><br></p>\n<p>The Inland Empire region experienced boom periods in recent years with virtually zero distribution properties available for lease and no vacant land to build new facilities. However, according to the Los Angeles Times, the rapid growth in distribution in this region has stalled, creating uncertainty for thousands of workers and the industry, which is an important indicator for the regional economy. For example, the Inland Empire is experiencing its first warehouse job decline in over 20 years, and truck transportation activity has been declining since early summer.</p>\n<p><br></p>\n<p>Since 2000, the Inland Empire's population has grown 45% to reach 4.7 million. During this period, the labor force increased 68% to 1.7 million, with approximately 270,000 people working in transportation and material handling jobs. In the early days of the pandemic, many job opportunities were created as dozens of ships waited to unload at the LA and Long Beach ports.</p>\n<p><br></p>\n<h3>Key Points</h3>\n<ul>\n  <li><p>The U.S. warehouse and distribution space market is cooling; however, rents have not yet declined.</p></li>\n  <li><p>In 2023, warehouse rents saw an average increase of 20.6%, with average rates reaching $9.72 per square meter.</p></li>\n  <li><p>Rent growth rates slowed in the second half of the year.</p></li>\n  <li><p>Colliers and Prologis forecast that upward rent trends will continue.</p></li>\n  <li><p>Rapid growth in warehouse and distribution in the Inland Empire region has halted, with jobs and truck transportation activity in decline.</p></li>\n</ul>\n<p><br></p>\n<p><br></p>\n<p><strong>News Link:</strong> <a href="https://www.scdigest.com/ONTARGET/24-02-27_WAREHOUSE_SPACE_MARKET_COOLING.PHP?cid=21283&ctype=content"><u>https://www.scdigest.com/ONTARGET/24-02-27_WAREHOUSE_SPACE_MARKET_COOLING.PHP?cid=21283&ctype=content</u></a></p>

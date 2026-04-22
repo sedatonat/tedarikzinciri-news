@@ -1,16 +1,23 @@
 ---
-title: "DHL Supply Chain Expands Electric Heavy-Duty Vehicle Fleet with Tesla Semi"
-subtitle: "DHL Supply Chain Expands Electric Heavy-Duty Vehicle Fleet with Tesla Semi"
-date: "2025-12-10T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_670e4bb5917b4eecb62dc7979865b87c~mv2.jpg"
-imageAlt: "DHL Supply Chain's deployment of Tesla Semi in Central California, pilot results, 2026 EV fleet growth plans, and detailed overview of heavy-duty vehicle electrification logistics impact within 2050 net-zero objectives"
-wixId: "26a36df1-de11-4c7e-8ad8-2f7a4afb5cae"
-author: "Sedat Onat"
+title: DHL Supply Chain Expands Electric Heavy-Duty Vehicle Fleet with Tesla Semi
+subtitle: DHL Supply Chain Expands Electric Heavy-Duty Vehicle Fleet with Tesla Semi
+date: '2025-12-10T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_670e4bb5917b4eecb62dc7979865b87c~mv2.jpg
+imageAlt: DHL Supply Chain's deployment of Tesla Semi in Central California, pilot results, 2026 EV fleet growth plans, and detailed overview of heavy-duty vehicle electrification logistics impact within 2050 net-zero objectives
+wixId: 26a36df1-de11-4c7e-8ad8-2f7a4afb5cae
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- DHL Supply Chain
+- Tesla Semi
+- electric truck
+- heavy-duty vehicle
+- emissions reduction
+- net-zero
+- fleet electrification
 ---
-
 <p style="text-align: justify">Global logistics provider <strong>DHL Supply Chain</strong> has announced the integration of <strong>Tesla Semi</strong> into its operations, advancing its electrification strategy for heavy-duty trucking. The electric tractor deployed by the company in the <strong>Central California</strong> region covers approximately <strong>100 miles daily</strong> and requires charging <strong>only once per week</strong>. This initiative is viewed as a significant indicator of how heavy-duty vehicle electrification can be scaled in practice, aligned with DHL's long-term <strong>net-zero</strong> objectives.</p>
 <p><br></p>
 <p style="text-align: justify">According to information shared by DHL, the pilot program involving Tesla Semi extended beyond short-distance distribution operations. Within the pilot scope, the vehicle was also tested on a <strong>390-mile long-haul</strong> route with <strong>75,000 pound gross combined weight</strong>. This performance demonstrates that range and payload capacity combinations previously unattainable by electric heavy-duty vehicles are now feasible.</p>

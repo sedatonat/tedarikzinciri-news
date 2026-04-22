@@ -1,14 +1,23 @@
 ---
-title: "Tedarik Zinciri Yönetiminde GenAI'nin Yükselişi: Fırsatlar ve Engeller"
-subtitle: "Tedarik Zinciri Yönetiminde GenAI'nin Yükselişi: Fırsatlar ve Engeller"
-date: "2024-02-21T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/11062b_dd7eac35853745cfbe041ab3acb2e3b7~mv2.jpg"
-imageAlt: "Tedarik Zinciri Yönetiminde GenAI'nin Yükselişi: Fırsatlar ve Engeller"
-wixId: "485d8ed3-5de8-43cd-9de0-d1a4b2152204"
-author: "Sedat Onat"
+title: 'Tedarik Zinciri Yönetiminde GenAI''nin Yükselişi: Fırsatlar ve Engeller'
+subtitle: 'Tedarik Zinciri Yönetiminde GenAI''nin Yükselişi: Fırsatlar ve Engeller'
+date: '2024-02-21T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/11062b_dd7eac35853745cfbe041ab3acb2e3b7~mv2.jpg
+imageAlt: 'Tedarik Zinciri Yönetiminde GenAI''nin Yükselişi: Fırsatlar ve Engeller'
+wixId: 485d8ed3-5de8-43cd-9de0-d1a4b2152204
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- GenAI
+- tedarik zinciri yönetimi
+- yapay zeka
+- dijital ikiz
+- veri güvenliği
+- EY
+- eski sistemler
+- düzenleyici uyum
 ---
 <p>Ernst &amp; Young LLP'den Sumit Dutta'nın beyaz kağıdında belirttiği gibi, GenAI (Yapay Zeka'nın Yeni Nesli), dünya çapında işletmeler için dönüştürücü etkilere sahip olabilecek bir teknoloji. Ancak, veri güvenliği, yetenek temini ve eski sistemlerle uyumsuzluk gibi engellerin üstesinden gelinmesi gerekiyor. EY'nin araştırması, Tedarik Zinciri yönetiminde GenAI'nin temel uygulama alanlarını, liderlerin karşılaştığı zorlukları ve başarılı bir GenAI programının özelliklerini sorgulayan üç ana soruyu gündeme getiriyor.</p>
 <p><br></p>

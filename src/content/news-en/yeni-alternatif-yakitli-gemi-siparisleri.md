@@ -1,16 +1,24 @@
 ---
-title: "Nearly All New Alternative Fuel Ship Orders Concentrated in a Single Category"
-subtitle: "Nearly All New Alternative Fuel Ship Orders Concentrated in a Single Category"
-date: "2025-03-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3a56d2f3728e4972b2b0e1ecd9a06d57~mv2.jpg"
-imageAlt: "Nearly All New Alternative Fuel Ship Orders Concentrated in a Single Category"
-wixId: "c5335afb-d71c-46fe-9688-caaf89cb5fe3"
-author: "Sedat Onat"
+title: Nearly All New Alternative Fuel Ship Orders Concentrated in a Single Category
+subtitle: Nearly All New Alternative Fuel Ship Orders Concentrated in a Single Category
+date: '2025-03-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3a56d2f3728e4972b2b0e1ecd9a06d57~mv2.jpg
+imageAlt: Nearly All New Alternative Fuel Ship Orders Concentrated in a Single Category
+wixId: c5335afb-d71c-46fe-9688-caaf89cb5fe3
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- LNG
+- alternative fuel
+- maritime
+- ship orders
+- DNV
+- carbon emissions
+- methanol
+- ammonia
 ---
-
 <p style="text-align: justify">In recent years, interest in environmentally friendly fuel alternatives has been growing in the maritime sector. In this context, according to <strong>DNV</strong> data, ship orders powered by liquefied natural gas (<strong>LNG</strong>) demonstrate a distinct advantage over other alternative fuels. <strong>DNV</strong>'s report reveals that nearly all new alternative fuel ship orders fall within the <strong>LNG</strong> category.​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>LNG</strong> is regarded as a cleaner option among fossil fuels and has the potential to reduce carbon emissions. For this reason, the maritime industry aims to reduce its environmental impact by transitioning to <strong>LNG</strong>. However, <strong>LNG</strong> also has environmental drawbacks such as methane leakage, and this situation is criticized by some environmental organizations.​</p>

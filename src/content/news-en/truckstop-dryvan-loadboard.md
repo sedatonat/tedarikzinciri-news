@@ -1,16 +1,23 @@
 ---
-title: "Truckstop Launches Low-Cost Load Platform Tailored for Dry Van Carriers"
-subtitle: "Truckstop Launches Low-Cost Load Platform Tailored for Dry Van Carriers"
-date: "2025-10-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_574aaeed779948a185188ffc86ebae34~mv2.jpg"
-imageAlt: "Truckstop.com has developed a new low-cost load platform focused exclusively on dry van freight for small fleets and independent drivers, priced at $35 per month. The system combines verified loads with real-time rate data, providing small carriers with equivalent data visibility to large enterprises."
-wixId: "9e7d8c28-689d-47de-8d05-ebef17ed4ac2"
-author: "Sedat Onat"
+title: Truckstop Launches Low-Cost Load Platform Tailored for Dry Van Carriers
+subtitle: Truckstop Launches Low-Cost Load Platform Tailored for Dry Van Carriers
+date: '2025-10-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_574aaeed779948a185188ffc86ebae34~mv2.jpg
+imageAlt: Truckstop.com has developed a new low-cost load platform focused exclusively on dry van freight for small fleets and independent drivers, priced at $35 per month. The system combines verified loads with real-time rate data, providing small carriers with equivalent data visibility to large enterprises.
+wixId: 9e7d8c28-689d-47de-8d05-ebef17ed4ac2
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Truckstop
+- dry van
+- load board
+- small carriers
+- freight rate
+- FreightWaves SONAR
+- digitalization
 ---
-
 <p style="text-align: justify"><strong>Truckstop.com</strong> announced the launch of a <strong>new low-cost load platform (Van Load Board)</strong> designed for small-scale carriers and independent drivers. Developed exclusively for <strong>dry van</strong> equipment, this system provides users with access to <strong>verified load data</strong> and <strong>real-time rate data</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">Available at an introductory price of just <strong>$35 per month</strong>, the platform offers <strong>unlimited load searches</strong>. The new offering aims to enhance the competitive position of <strong>small fleets</strong> and <strong>independent carriers</strong> in the marketplace.</p>

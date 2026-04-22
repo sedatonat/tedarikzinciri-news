@@ -1,14 +1,22 @@
 ---
-title: "Orta Doğu'da Deniz Güvenliğine Yeni Tehdit: Husilerin MV Torm Thor'a Saldırısı"
-subtitle: "Orta Doğu'da Deniz Güvenliğine Yeni Tehdit: Husilerin MV Torm Thor'a Saldırısı"
-date: "2024-02-25T03:45:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_c7685e0e3f87466f9a9ca9dfec812795~mv2.jpeg"
-imageAlt: "Orta Doğu'da Deniz Güvenliğine Yeni Tehdit: Husilerin MV Torm Thor'a Saldırısı"
-wixId: "7ca6c4b7-80da-4991-82d6-1082d0c55eee"
-author: "Sedat Onat"
+title: 'Orta Doğu''da Deniz Güvenliğine Yeni Tehdit: Husilerin MV Torm Thor''a Saldırısı'
+subtitle: 'Orta Doğu''da Deniz Güvenliğine Yeni Tehdit: Husilerin MV Torm Thor''a Saldırısı'
+date: '2024-02-25T03:45:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_c7685e0e3f87466f9a9ca9dfec812795~mv2.jpeg
+imageAlt: 'Orta Doğu''da Deniz Güvenliğine Yeni Tehdit: Husilerin MV Torm Thor''a Saldırısı'
+wixId: 7ca6c4b7-80da-4991-82d6-1082d0c55eee
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Husiler
+- deniz güvenliği
+- petrol tankeri
+- Aden Körfezi
+- Yemen
+- gemilere saldırı
+- Orta Doğu
 ---
 <p>Yemen'in Husileri, Gazze'deki Filistinlilerle dayanışma içinde gemi geçiş yollarına yönelik saldırılarını sürdürürken, ABD bayraklı, sahipli ve işletilen<a href="https://www.vesselfinder.com/vessels/details/9712292"><u> MV Torm Thor</u></a> petrol tankerini, Aden Körfezi'nde hedef aldı. İran destekli grubun askeri sözcüsü Yahya Sarea, pazar günü yaptığı televizyon konuşmasında, grubun tankeri "uygun sayıda deniz füzesi" ile hedef aldığını söyledi.&nbsp;</p>
 <p><br></p>

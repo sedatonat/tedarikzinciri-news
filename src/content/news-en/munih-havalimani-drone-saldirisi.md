@@ -1,16 +1,23 @@
 ---
-title: "Munich Airport Reopens After Drone Scare"
-subtitle: "Munich Airport Reopens After Drone Scare"
-date: "2025-10-03T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_fd71ec7c1db048e3bff059c4e7a48b20~mv2.png"
-imageAlt: "Munich Airport Reopening After Drone Scare"
-wixId: "1cbfab76-b917-49fa-9840-e700e117a82d"
-author: "Sedat Onat"
+title: Munich Airport Reopens After Drone Scare
+subtitle: Munich Airport Reopens After Drone Scare
+date: '2025-10-03T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_fd71ec7c1db048e3bff059c4e7a48b20~mv2.png
+imageAlt: Munich Airport Reopening After Drone Scare
+wixId: 1cbfab76-b917-49fa-9840-e700e117a82d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- drone
+- Munich Airport
+- air cargo
+- U-space
+- counter-UAS
+- geofencing
+- airport security
 ---
-
 <p style="text-align: justify">Munich Airport temporarily halted operations after multiple drones were spotted in the vicinity of the airport.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Operations were then restarted in a controlled manner. Airport security protocols emphasize geofencing, integrated radar and imaging detection, and rapid response teams. The disruption caused short-term delays in European air cargo and passenger flows; slot coordination and re-accommodation plans were activated.</p>

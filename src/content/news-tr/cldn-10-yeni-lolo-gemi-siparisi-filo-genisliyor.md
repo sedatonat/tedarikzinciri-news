@@ -1,14 +1,23 @@
 ---
-title: "CLdN'den 10 Yeni LoLo Gemi Siparişi: Filoyu Genişletiyor"
-subtitle: "CLdN'den 10 Yeni LoLo Gemi Siparişi: Filoyu Genişletiyor"
-date: "2024-09-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8f88f3b0da834a229846919429eb7e72~mv2.jpg"
-imageAlt: "CLdN'den 10 Yeni LoLo Gemi Siparişi: Filoyu Genişletiyor"
-wixId: "6e49547b-c665-488a-861c-4739f8889066"
-author: "Sedat Onat"
+title: 'CLdN''den 10 Yeni LoLo Gemi Siparişi: Filoyu Genişletiyor'
+subtitle: 'CLdN''den 10 Yeni LoLo Gemi Siparişi: Filoyu Genişletiyor'
+date: '2024-09-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8f88f3b0da834a229846919429eb7e72~mv2.jpg
+imageAlt: 'CLdN''den 10 Yeni LoLo Gemi Siparişi: Filoyu Genişletiyor'
+wixId: 6e49547b-c665-488a-861c-4739f8889066
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CLdN
+- LoLo gemisi
+- konteyner gemisi
+- deniz taşımacılığı
+- HD Hyundai Mipo
+- Rotterdam
+- filo genişletme
+- RoRo
 ---
 <p>Multimodal lojistik sağlayıcısı <strong>CLdN</strong>'nin deniz taşımacılığı filosunu genişletmek amacıyla 10 yeni yükle/boşalt (<strong>LoLo</strong>) konteyner gemisi siparişi verdiğini öğrendi. Bu gemilerin her biri 1.100 <strong>TEU</strong> yük kapasitesine sahip olacak ve şirketin mevcut yaklaşık 30 <strong>RoRo</strong> gemisinden oluşan filosuna katılacak. Bu hamle, CLdN'nin Avrupa deniz taşımacılığı sektöründeki varlığını güçlendirme ve hizmet yelpazesini genişletme stratejisinin bir parçası olarak görülüyor.</p>
 <p><br></p>

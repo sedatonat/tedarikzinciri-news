@@ -1,14 +1,22 @@
 ---
-title: "Baltimore Köprüsü Kazasına Kirli Yakıt Sebep Olmuş Olabilir"
-subtitle: "Baltimore Köprüsü Kazasına Kirli Yakıt Sebep Olmuş Olabilir"
-date: "2024-03-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d54876b048bb44f8833da361aa18211e~mv2.jpg"
-imageAlt: "Baltimore Köprüsü Kazasına Kirli Yakıt Sebep Olmuş Olabilir"
-wixId: "2bad8738-7ee3-4862-a707-5b2837038a85"
-author: "Sedat Onat"
+title: Baltimore Köprüsü Kazasına Kirli Yakıt Sebep Olmuş Olabilir
+subtitle: Baltimore Köprüsü Kazasına Kirli Yakıt Sebep Olmuş Olabilir
+date: '2024-03-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d54876b048bb44f8833da361aa18211e~mv2.jpg
+imageAlt: Baltimore Köprüsü Kazasına Kirli Yakıt Sebep Olmuş Olabilir
+wixId: 2bad8738-7ee3-4862-a707-5b2837038a85
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Baltimore
+- Dali gemisi
+- köprü kazası
+- kirli yakıt
+- güç kaybı
+- deniz kazası
+- Singapur
 ---
 <p>ABD'nin Baltimore kentinde <a href="https://en.wikipedia.org/wiki/Francis_Scott_Key_Bridge_(Baltimore)"><u>Francis Scott Key Köprüsü</u></a>'nün yıkılmasına neden olan kazada, Singapur bandıralı yük gemisi <a href="https://www.vesselfinder.com/vessels/details/9697428"><u>Dali</u></a>'de kullanılan yakıtın rolü üzerinde duruluyor. Gemi, Kolombo'ya doğru yola çıktıktan kısa bir süre sonra, limandan ayrıldıktan sonra güç kaybetti ve kontrolsüz bir şekilde hareket ederek köprüye çarptı. Bu çarpışma sonucu köprü yıkıldı ve altı yol işçisi hayatını kaybetti.&nbsp;</p>
 <p><br></p>

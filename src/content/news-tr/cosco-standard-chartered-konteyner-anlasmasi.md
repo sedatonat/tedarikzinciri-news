@@ -1,14 +1,23 @@
 ---
-title: "COSCO ve Standard Chartered'dan Konteyner Endüstrisini Dönüştürme Anlaşması"
-subtitle: "COSCO ve Standard Chartered'dan Konteyner Endüstrisini Dönüştürme Anlaşması"
-date: "2024-05-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_cf65b263e0154af8b0ffaaede56e1abc~mv2.jpg"
-imageAlt: "COSCO ve Standard Chartered'dan Konteyner Endüstrisini Dönüştürme Anlaşması"
-wixId: "6062df21-1cb3-483e-9980-529ab74c01f3"
-author: "Sedat Onat"
+title: COSCO ve Standard Chartered'dan Konteyner Endüstrisini Dönüştürme Anlaşması
+subtitle: COSCO ve Standard Chartered'dan Konteyner Endüstrisini Dönüştürme Anlaşması
+date: '2024-05-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_cf65b263e0154af8b0ffaaede56e1abc~mv2.jpg
+imageAlt: COSCO ve Standard Chartered'dan Konteyner Endüstrisini Dönüştürme Anlaşması
+wixId: 6062df21-1cb3-483e-9980-529ab74c01f3
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- COSCO SHIPPING
+- Standard Chartered
+- konteyner endüstrisi
+- yeşil finansman
+- sürdürülebilirlik
+- ESG
+- düşük karbon
+- geçiş finansmanı
 ---
 <p>COSCO SHIPPING Development ve Standard Chartered Bank (China) Limited, konteyner endüstrisi zincirini modernize etmeye yönelik bir çerçeve anlaşması imzaladılar. Bu iş birliği, ulusal, bölgesel ve küresel düzeylerde sürekli bilgi paylaşımını artırarak her iki organizasyon arasındaki iletişimi güçlendirecek. Ayrıca, geçiş finansmanı, likidite ve risk yönetimi üzerine iş birliklerini derinleştirecek ve yeşil ve sürdürülebilir gelişim projelerinin teşvik edilmesine katkı sağlayacak. Bu adım, çevresel, sosyal ve yönetişim (ESG) endüstrisinde yüksek kaliteli iyileştirmeleri desteklemeyi amaçlamaktadır.</p>
 <p><br></p>

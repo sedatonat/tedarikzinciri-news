@@ -1,14 +1,22 @@
 ---
-title: "Çin Limanları 250 Milyon TEU Hedefine Yaklaşıyor"
-subtitle: "Çin Limanları 250 Milyon TEU Hedefine Yaklaşıyor"
-date: "2024-11-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6d0c3c404c6548b9b399a341a89d564c~mv2.jpg"
-imageAlt: "Çin Limanları 250 Milyon TEU Hedefine Yaklaşıyor"
-wixId: "ccc5fc6e-ad0a-4501-b450-cb66f8d9fc5b"
-author: "Sedat Onat"
+title: Çin Limanları 250 Milyon TEU Hedefine Yaklaşıyor
+subtitle: Çin Limanları 250 Milyon TEU Hedefine Yaklaşıyor
+date: '2024-11-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_6d0c3c404c6548b9b399a341a89d564c~mv2.jpg
+imageAlt: Çin Limanları 250 Milyon TEU Hedefine Yaklaşıyor
+wixId: ccc5fc6e-ad0a-4501-b450-cb66f8d9fc5b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Çin limanları
+- konteyner hacmi
+- TEU
+- Belt and Road Initiative
+- liman otomasyonu
+- yapay zeka
+- küresel ticaret
 ---
 <p>Çin'in limanları, 2024 yılının ilk üç çeyreğinde sergiledikleri güçlü performansla küresel ticaretteki etkilerini artırmaya devam ediyor. Çin Ulaştırma Bakanlığı'nın verilerine göre, limanların toplam yük hacmi geçen yılın aynı dönemine göre %8,4 artarak 11,96 milyar tona ulaştı. Bu artış, Çin ekonomisinin pandeminin etkilerini geride bırakarak istikrarlı bir büyüme trendine girdiğinin önemli bir göstergesi olarak değerlendiriliyor.</p>
 <p><br></p>

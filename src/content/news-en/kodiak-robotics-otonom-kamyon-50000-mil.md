@@ -1,16 +1,23 @@
 ---
-title: "Kodiak Robotics' Autonomous Trucks Hit 50,000 Miles: A New Era in Freight"
-subtitle: "Kodiak Robotics' Autonomous Trucks Hit 50,000 Miles: A New Era in Freight"
-date: "2024-08-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e7c7c3efc2754f0b9fbc112b67a86238~mv2.jpg"
-imageAlt: "Kodiak Robotics' Autonomous Trucks Hit 50,000 Miles: A New Era in Freight"
-wixId: "def0a84c-c5aa-4896-8e36-de2eafec5e47"
-author: "Sedat Onat"
+title: 'Kodiak Robotics'' Autonomous Trucks Hit 50,000 Miles: A New Era in Freight'
+subtitle: 'Kodiak Robotics'' Autonomous Trucks Hit 50,000 Miles: A New Era in Freight'
+date: '2024-08-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e7c7c3efc2754f0b9fbc112b67a86238~mv2.jpg
+imageAlt: 'Kodiak Robotics'' Autonomous Trucks Hit 50,000 Miles: A New Era in Freight'
+wixId: def0a84c-c5aa-4896-8e36-de2eafec5e47
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Kodiak Robotics
+- autonomous truck
+- driverless transportation
+- artificial intelligence
+- logistics technology
+- J.B. Hunt
+- Bridgestone
 ---
-
 <p>Kodiak Robotics, a leading company in autonomous driving technology, has announced that its driverless trucks have collectively covered 50,000 miles. This milestone demonstrates how the company can safely and efficiently apply its autonomous driving technology in real-world conditions. Kodiak achieved this milestone while hauling Bridgestone truck tires between South Carolina and Dallas under an agreement with J.B. Hunt. This route proved to be an important testing ground, demonstrating the effectiveness of autonomous vehicles in long-distance freight operations.</p>
 <p><br></p>
 <p>Using its autonomous driving system called "Kodiak Driver," the company completed this distance without requiring human intervention during operation. The system is equipped with advanced sensors and artificial intelligence-powered algorithms that continuously scan the environment to ensure safe driving. Through this technology, the company aims to increase efficiency in the commercial freight sector and raise safety standards.</p>

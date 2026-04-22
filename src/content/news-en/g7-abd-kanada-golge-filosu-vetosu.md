@@ -1,16 +1,24 @@
 ---
-title: "Trump Opposes Canada's Task Force Plan Against Russia's Shadow Fleet"
-subtitle: "Trump Opposes Canada's Task Force Plan Against Russia's Shadow Fleet"
-date: "2025-03-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5475d488f80c4238ac2c6a40d0c80799~mv2.jpg"
-imageAlt: "Trump Opposes Canada's Task Force Plan Against Russia's Shadow Fleet"
-wixId: "711633c1-f60b-4151-b73a-246ae33cdf98"
-author: "Sedat Onat"
+title: Trump Opposes Canada's Task Force Plan Against Russia's Shadow Fleet
+subtitle: Trump Opposes Canada's Task Force Plan Against Russia's Shadow Fleet
+date: '2025-03-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5475d488f80c4238ac2c6a40d0c80799~mv2.jpg
+imageAlt: Trump Opposes Canada's Task Force Plan Against Russia's Shadow Fleet
+wixId: 711633c1-f60b-4151-b73a-246ae33cdf98
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- shadow fleet
+- Russia
+- Canada
+- Trump
+- sanctions
+- maritime security
+- oil tanker
+- G7
 ---
-
 <p style="text-align: justify"><strong>The United States</strong> vetoed <strong>Canada</strong>'s proposal to establish a task force against oil tankers referred to as <strong>Russia</strong>'s "shadow fleet." This move signaled a shift in <strong>the U.S.</strong>'s approach to international maritime security.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Canada</strong> called for stricter measures against <strong>Russia</strong>'s "shadow fleet," which the country uses to continue its oil exports. This fleet consists of older vessels that typically fail to meet safety standards and are deployed to circumvent sanctions. <strong>Canada</strong>'s proposal included establishing a task force to monitor and prevent such activities.</p>

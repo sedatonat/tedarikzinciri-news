@@ -1,14 +1,23 @@
 ---
-title: "Perakende Sektöründe Robotlar İşçi Devir Oranını Azaltıyor"
-subtitle: "Perakende Sektöründe Robotlar İşçi Devir Oranını Azaltıyor"
-date: "2024-06-07T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_e3c837513dca40d893eb33e3153ed521~mv2.jpeg"
-imageAlt: "Perakende Sektöründe Robotlar İşçi Devir Oranını Azaltıyor"
-wixId: "0d5bf5db-0cf0-4e34-aa35-a565337f9e79"
-author: "Sedat Onat"
+title: Perakende Sektöründe Robotlar İşçi Devir Oranını Azaltıyor
+subtitle: Perakende Sektöründe Robotlar İşçi Devir Oranını Azaltıyor
+date: '2024-06-07T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_e3c837513dca40d893eb33e3153ed521~mv2.jpeg
+imageAlt: Perakende Sektöründe Robotlar İşçi Devir Oranını Azaltıyor
+wixId: 0d5bf5db-0cf0-4e34-aa35-a565337f9e79
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- perakende
+- envanter yönetimi
+- otonom robot
+- Simbe
+- Tally
+- işçi devir oranı
+- bilgisayarlı görü
+- müşteri hizmetleri
 ---
 <p>Simbe'nin yapılan bir anketine göre, perakende mağazalarında envanter yönetimi teknolojilerinin kullanılması, yüksek personel devir oranlarına sahip sektörde çalışanların işte kalma sürelerini artırıyor. San Francisco merkezli şirket tarafından geliştirilen "Tally" adlı robot, mağaza koridorlarında dolaşarak ürünleri bilgisayarlı görü teknolojisiyle tarayıp, ürünlerin tam yerini, stok seviyesini ve fiyatlandırma &amp; promosyon bilgilerini tespit ediyor. Bu bilgiler, envanter yönetimini ve mağaza operasyonlarını kolaylaştırıyor.</p>
 <p><br></p>

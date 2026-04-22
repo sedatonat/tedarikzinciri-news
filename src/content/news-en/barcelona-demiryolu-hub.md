@@ -1,16 +1,23 @@
 ---
-title: "Barcelona Port Shifts into Higher Gear on Carbon-Free Logistics with €265 Million New Rail Hub"
-subtitle: "Barcelona Port Shifts into Higher Gear on Carbon-Free Logistics with €265 Million New Rail Hub"
-date: "2025-12-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_9b5e26dbe01a4a68b292e6daa04f72e5~mv2.jpg"
-imageAlt: "Barcelona Port's €265 million South Rail Hub project to be built by transforming the former Llobregat riverbed, detailed news summary covering modal shift strategy, carbon reduction, and impact on European logistics infrastructure"
-wixId: "18b6b912-e81e-47e0-bcac-9d5e99ef71b6"
-author: "Sedat Onat"
+title: Barcelona Port Shifts into Higher Gear on Carbon-Free Logistics with €265 Million New Rail Hub
+subtitle: Barcelona Port Shifts into Higher Gear on Carbon-Free Logistics with €265 Million New Rail Hub
+date: '2025-12-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_9b5e26dbe01a4a68b292e6daa04f72e5~mv2.jpg
+imageAlt: Barcelona Port's €265 million South Rail Hub project to be built by transforming the former Llobregat riverbed, detailed news summary covering modal shift strategy, carbon reduction, and impact on European logistics infrastructure
+wixId: 18b6b912-e81e-47e0-bcac-9d5e99ef71b6
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Port of Barcelona
+- rail logistics
+- decarbonization
+- intermodal transport
+- modal shift
+- sustainable port
+- infrastructure investment
 ---
-
 <p style="text-align: justify">As security risks take centre stage in 2025 logistics trends, Europe's other critical axis continues to be <strong>rapid decarbonization backed by aggressive infrastructure investments</strong>. In this context, <strong>Port of Barcelona</strong> has secured final approval for the <strong>€265 million South Rail Hub</strong> project, set to launch one of the Mediterranean basin's most significant logistics transformations. Catalonia's administration approval of the <strong>Urban Master Plan</strong> formally initiates the port's long-prepared large-scale rail overhaul.</p>
 <p><br></p>
 <p style="text-align: justify">At the heart of the project lies the repurposing of the city's former <strong>Llobregat riverbed</strong> area for heavy logistics operations. This zone, previously a flood channel, is being converted into a modern <strong>intermodal rail platform</strong>. The South Rail Hub creates a rail network with <strong>six terminals</strong> linking the port to strategic industrial zones such as <strong>Zona Franca</strong> and <strong>Polígon Pratenc</strong>.</p>

@@ -1,14 +1,21 @@
 ---
-title: "Baltimore Köprüsü Kazasında Beşinci İşçi Cesedi Bulundu"
-subtitle: "Baltimore Köprüsü Kazasında Beşinci İşçi Cesedi Bulundu"
-date: "2024-05-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5957d98d299c4d8084ba947825f0c9d1~mv2.jpg"
-imageAlt: "Baltimore Köprüsü Kazasında Beşinci İşçi Cesedi Bulundu"
-wixId: "ce1d5b20-8717-4559-b6f1-d3d8fe891c5b"
-author: "Sedat Onat"
+title: Baltimore Köprüsü Kazasında Beşinci İşçi Cesedi Bulundu
+subtitle: Baltimore Köprüsü Kazasında Beşinci İşçi Cesedi Bulundu
+date: '2024-05-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5957d98d299c4d8084ba947825f0c9d1~mv2.jpg
+imageAlt: Baltimore Köprüsü Kazasında Beşinci İşçi Cesedi Bulundu
+wixId: ce1d5b20-8717-4559-b6f1-d3d8fe891c5b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Baltimore
+- köprü çökmesi
+- Francis Scott Key Köprüsü
+- kurtarma operasyonu
+- iş kazası
+- liman altyapısı
 ---
 <p>Baltimore'daki Francis Scott Key Köprüsü'nün çökmesi sonucu beşinci işçinin cesedi bulundu. 26 Mart'ta meydana gelen köprü çökmesi sırasında kaybolan altı işçiden biri olan 49 yaşındaki Miguel Angel Luna Gonzalez'in kayıp kamyonu, Birleşik Komuta kurtarma ekipleri tarafından bulundu.&nbsp;</p>
 <p><br></p>

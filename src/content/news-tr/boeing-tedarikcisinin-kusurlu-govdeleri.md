@@ -1,14 +1,22 @@
 ---
-title: "Boeing Tedarikçisinin Kusurlu Gövdeler Teslim Ettiği İddiaları"
-subtitle: "Boeing Tedarikçisinin Kusurlu Gövdeler Teslim Ettiği İddiaları"
-date: "2024-05-09T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_3a413df7637644ee9583bc2d0f729214~mv2.jpg"
-imageAlt: "Boeing Tedarikçisinin Kusurlu Gövdeler Teslim Ettiği İddiaları"
-wixId: "ff409ea5-8532-447f-a83e-59f15465d0c4"
-author: "Sedat Onat"
+title: Boeing Tedarikçisinin Kusurlu Gövdeler Teslim Ettiği İddiaları
+subtitle: Boeing Tedarikçisinin Kusurlu Gövdeler Teslim Ettiği İddiaları
+date: '2024-05-09T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_3a413df7637644ee9583bc2d0f729214~mv2.jpg
+imageAlt: Boeing Tedarikçisinin Kusurlu Gövdeler Teslim Ettiği İddiaları
+wixId: ff409ea5-8532-447f-a83e-59f15465d0c4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Boeing
+- Spirit AeroSystems
+- tedarikçi kalitesi
+- 737 Max
+- kalite yönetimi
+- havacılık tedarik zinciri
+- uyarıcı
 ---
 <p>Boeing'in tedarikçisi Spirit AeroSystems'ın eski bir kalite yöneticisi Santiago Paredes, şirketin yıllar boyunca bilerek kusurlu 737 Max gövdelerini Boeing'e teslim ettiğini iddia etti. Paredes, Kansas'taki Wichita fabrikasında gövdeleri incelediğini ve 2005'te Boeing'den ayrılan Spirit AeroSystems'ın 737 Max serisinin çoğunu ürettiğini belirtti.&nbsp;</p>
 <p><br></p>

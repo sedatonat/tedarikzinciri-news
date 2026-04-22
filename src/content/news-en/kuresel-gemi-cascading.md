@@ -1,16 +1,24 @@
 ---
-title: "Sea-Intelligence: Structural Transformation Underway in Global Vessel Cascading"
-subtitle: "Sea-Intelligence: Structural Transformation Underway in Global Vessel Cascading"
-date: "2025-12-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_046495df615646aba3d79786e918ab5b~mv2.jpg"
-imageAlt: "According to Sea-Intelligence analysis, in the second half of 2025, the global container fleet is entering a new and permanent phase in the vessel cascading process, with capacity being structurally redistributed from primary mainlines to secondary trade lanes"
-wixId: "9d03adaf-9c85-442e-b2ea-9e23bf871d64"
-author: "Sedat Onat"
+title: 'Sea-Intelligence: Structural Transformation Underway in Global Vessel Cascading'
+subtitle: 'Sea-Intelligence: Structural Transformation Underway in Global Vessel Cascading'
+date: '2025-12-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_046495df615646aba3d79786e918ab5b~mv2.jpg
+imageAlt: According to Sea-Intelligence analysis, in the second half of 2025, the global container fleet is entering a new and permanent phase in the vessel cascading process, with capacity being structurally redistributed from primary mainlines to secondary trade lanes
+wixId: 9d03adaf-9c85-442e-b2ea-9e23bf871d64
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Sea-Intelligence
+- vessel cascading
+- container shipping
+- capacity management
+- Asia-Europe route
+- Mediterranean-North America
+- structural transformation
+- Red Sea crisis
 ---
-
 <p style="text-align: justify">Maritime data and analytics firm <strong>Sea-Intelligence</strong> reported that the dynamics of <strong>vessel cascading</strong> in global container shipping are entering a new and structural phase in the second half of 2025 (<strong>2025-2H</strong>). The analysis, published as part of <strong>Sunday Spotlight – Issue 744</strong>, is based on data from <strong>more than 16,000 vessel transfers</strong> occurring during 2024–2025 and points to a permanent shift in global capacity distribution.</p>
 <p><br></p>
 <p style="text-align: justify">According to the analysis, forced route changes in container lines during 2024 due to the <strong>Red Sea crisis</strong> led to intensive capacity redeployment, particularly on the <strong>Asia–Europe</strong> mainline. During this period, significant tonnage flowing out of main East–West routes was redirected to <strong>Asia–North Europe</strong> and subsequently to <strong>Asia–Mediterranean</strong> lines. However, Sea-Intelligence notes that as of the second half of 2025, these routes have now reached <strong>capacity saturation</strong> levels.</p>

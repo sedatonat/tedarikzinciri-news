@@ -1,16 +1,23 @@
 ---
-title: "CEO Transition at Freightos Marks Company's Move Into New Growth Phase"
-subtitle: "CEO Transition at Freightos Marks Company's Move Into New Growth Phase"
-date: "2025-12-17T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_7696a38162f8472eb65c210374747f68~mv2.jpg"
-imageAlt: "Zvi Schreiber, founder and CEO of Freightos, has decided to step down from his role; as the company enters a new growth phase and pursues scaling, CFO Pablo Pinillos will assume the position of interim CEO."
-wixId: "92568cb5-7efb-4e86-96ef-cefb970b10a9"
-author: "Sedat Onat"
+title: CEO Transition at Freightos Marks Company's Move Into New Growth Phase
+subtitle: CEO Transition at Freightos Marks Company's Move Into New Growth Phase
+date: '2025-12-17T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_7696a38162f8472eb65c210374747f68~mv2.jpg
+imageAlt: Zvi Schreiber, founder and CEO of Freightos, has decided to step down from his role; as the company enters a new growth phase and pursues scaling, CFO Pablo Pinillos will assume the position of interim CEO.
+wixId: 92568cb5-7efb-4e86-96ef-cefb970b10a9
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Freightos
+- CEO change
+- digital freight
+- logistics technology
+- management change
+- scaling
+- freight platform
 ---
-
 <p style="text-align: justify"><strong>Freightos</strong>, a leading player in digital freight logistics and shipping technology, is undergoing a significant management restructuring. The company's founder and CEO, <strong>Zvi Schreiber</strong>, has announced his intention to step down from the CEO role effective January 31, 2026. According to Freightos's announcement, Schreiber will not sever ties with the company entirely; following the transition, he will remain with Freightos as a <strong>non-executive board member</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The decision is viewed as part of Freightos's transition into the "<strong>next phase</strong>" of its development. As the company shifts from founder-led management to professionally scaled operations, operational focus is expected to sharpen around growth, profitability, and global expansion. During this transition, the current <strong>Chief Financial Officer (CFO)</strong>, <strong>Pablo Pinillos</strong>, will assume the role of <strong>interim CEO</strong> effective <strong>February 1, 2026</strong>.</p>

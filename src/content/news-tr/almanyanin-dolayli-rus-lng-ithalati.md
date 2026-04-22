@@ -1,14 +1,22 @@
 ---
-title: "Almanya'nın Dolaylı Rus LNG İthalatı Avrupa Limanları Üzerinden Artış Gösteriyor"
-subtitle: "Almanya'nın Dolaylı Rus LNG İthalatı Avrupa Limanları Üzerinden Artış Gösteriyor"
-date: "2025-01-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a8e0faecaa4842379f7a36a5eb05363c~mv2.jpg"
-imageAlt: "Almanya'nın Dolaylı Rus LNG İthalatı Avrupa Limanları Üzerinden Artış Gösteriyor"
-wixId: "c4a61095-739f-4233-8a45-e2f7a97713c2"
-author: "Sedat Onat"
+title: Almanya'nın Dolaylı Rus LNG İthalatı Avrupa Limanları Üzerinden Artış Gösteriyor
+subtitle: Almanya'nın Dolaylı Rus LNG İthalatı Avrupa Limanları Üzerinden Artış Gösteriyor
+date: '2025-01-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_a8e0faecaa4842379f7a36a5eb05363c~mv2.jpg
+imageAlt: Almanya'nın Dolaylı Rus LNG İthalatı Avrupa Limanları Üzerinden Artış Gösteriyor
+wixId: c4a61095-739f-4233-8a45-e2f7a97713c2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Almanya
+- Rusya
+- LNG ithalatı
+- enerji güvenliği
+- Avrupa limanları
+- doğal gaz
+- enerji politikası
 ---
 <p style="text-align: justify">Almanya, doğrudan sevkiyatlara uyguladığı yasağa rağmen, Avrupa limanları üzerinden Rus sıvılaştırılmış doğal gaz (<strong>LNG</strong>) ithalatını önemli ölçüde artırmakta. Bu durum, Berlin'in enerji politikaları ve Avrupa'nın enerji arz güvenliği konusundaki tartışmaları yeniden alevlendirmekte.​</p>
 <p><br></p>

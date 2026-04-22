@@ -1,16 +1,24 @@
 ---
-title: "CMA CGM Tests Red Sea Route with Two Megaships on Return to Asia"
-subtitle: "CMA CGM Tests Red Sea Route with Two Megaships on Return to Asia"
-date: "2025-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ad76fd7d3e76451b874e44e901a255d9~mv2.jpeg"
-imageAlt: "CMA CGM is conducting its first pilot passage in two years on the Suez–Red Sea corridor with the Ocean Alliance megaships Benjamin Franklin (17,859 TEU) and Sorbonne (23,112 TEU), a move signaling the region is cautiously returning to normalcy after two years of security crisis."
-wixId: "88b49ed4-c572-49b9-adb4-90c3f62cac02"
-author: "Sedat Onat"
+title: CMA CGM Tests Red Sea Route with Two Megaships on Return to Asia
+subtitle: CMA CGM Tests Red Sea Route with Two Megaships on Return to Asia
+date: '2025-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_ad76fd7d3e76451b874e44e901a255d9~mv2.jpeg
+imageAlt: CMA CGM is conducting its first pilot passage in two years on the Suez–Red Sea corridor with the Ocean Alliance megaships Benjamin Franklin (17,859 TEU) and Sorbonne (23,112 TEU), a move signaling the region is cautiously returning to normalcy after two years of security crisis.
+wixId: 88b49ed4-c572-49b9-adb4-90c3f62cac02
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- CMA CGM
+- Red Sea
+- Suez Canal
+- container shipping
+- Ocean Alliance
+- maritime security
+- mega ship
+- freight cost
 ---
-
 <p style="text-align: justify">CMA CGM is conducting <strong>its first large-scale test transit</strong> following two years of ongoing security crisis in the Red Sea. The movement of two megamax-class vessels operating on Ocean Alliance's NEU4 and NEU5 services <strong>toward the Suez Canal</strong> indicates that line operators are evaluating cautiously reopening the route.</p>
 <p><br></p>
 <p style="text-align: justify">Analyst <strong>Linerlytica</strong> reported that <strong>the 17,859 TEU CMA CGM Benjamin Franklin</strong> operating on the NEU4 service is progressing toward the Suez on its <strong>Europe outbound eastbound backhaul return to the Mediterranean</strong>. Similarly, the <strong>23,112 TEU CMA CGM Sorbonne</strong> on the NEU5 service is heading toward the Mediterranean in a similar fashion.</p>

@@ -1,16 +1,24 @@
 ---
-title: "Damen and Windcat Introduce Innovation Series Vessels for Offshore Energy"
-subtitle: "Damen and Windcat Introduce Innovation Series Vessels for Offshore Energy"
-date: "2025-11-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b757eef1c616445da387be057fd2f2e2~mv2.jpg"
-imageAlt: "Detailed explanation summarizing the features, technological innovations, and sectoral impact of the new Innovation Series MP-ASV vessels developed by Damen Shipyards Group and Windcat for offshore energy projects"
-wixId: "8984ec85-4392-4304-bd6c-5c1ef2ca953a"
-author: "Sedat Onat"
+title: Damen and Windcat Introduce Innovation Series Vessels for Offshore Energy
+subtitle: Damen and Windcat Introduce Innovation Series Vessels for Offshore Energy
+date: '2025-11-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b757eef1c616445da387be057fd2f2e2~mv2.jpg
+imageAlt: Detailed explanation summarizing the features, technological innovations, and sectoral impact of the new Innovation Series MP-ASV vessels developed by Damen Shipyards Group and Windcat for offshore energy projects
+wixId: 8984ec85-4392-4304-bd6c-5c1ef2ca953a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Damen Shipyards
+- Windcat
+- offshore energy
+- shipbuilding
+- hybrid vessel
+- decarbonization
+- hydrogen fuel
+- Vietnam
 ---
-
 <p style="text-align: justify">During the Offshore Energy Conference held in Amsterdam, <strong>Windcat</strong> and <strong>Damen Shipyards Group</strong> announced a new <strong>Multi-Purpose Accommodation Support Vessel (MP-ASV)</strong> class called the <strong>Innovation Series</strong>, which marks a new era in the offshore energy sector. The agreement signed on November 25, 2025, encompasses a firm order for the first vessel and options for five additional ships. This new series provides a larger and more capable platform built upon the <strong>Elevation Series Commissioning Services Operations Vessels (CSOVs)</strong> previously developed by Windcat and Damen.</p>
 <p><br></p>
 <p style="text-align: justify">The new MP-ASV class, with dimensions of <strong>102m x 20m</strong>, offers wider operational capability compared to previous CSOV designs. The vessel features a <strong>750m² open deck</strong>, a <strong>150-ton capacity subsea crane</strong>, and <strong>infrastructure suitable for ROV operations</strong>. The design presents a hybrid structure that combines both heavy-lift operations and long-duration accommodation for offshore energy projects on the same platform.</p>

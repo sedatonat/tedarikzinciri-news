@@ -1,14 +1,23 @@
 ---
-title: "Maersk Saltoro Vakası: Hükümetler, Sigortacılar ve Göndericiler İçin Dersler"
-subtitle: "Maersk Saltoro Vakası: Hükümetler, Sigortacılar ve Göndericiler İçin Dersler"
-date: "2025-03-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_629f1ff6bc014d04b4172534677b01c3~mv2.jpg"
-imageAlt: "Maersk Saltoro Vakası: Hükümetler, Sigortacılar ve Göndericiler İçin Dersler"
-wixId: "b669348b-54f5-4ed6-b7f6-20385af07043"
-author: "Sedat Onat"
+title: 'Maersk Saltoro Vakası: Hükümetler, Sigortacılar ve Göndericiler İçin Dersler'
+subtitle: 'Maersk Saltoro Vakası: Hükümetler, Sigortacılar ve Göndericiler İçin Dersler'
+date: '2025-03-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_629f1ff6bc014d04b4172534677b01c3~mv2.jpg
+imageAlt: 'Maersk Saltoro Vakası: Hükümetler, Sigortacılar ve Göndericiler İçin Dersler'
+wixId: b669348b-54f5-4ed6-b7f6-20385af07043
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Maersk
+- konteyner gemisi
+- deniz taşımacılığı
+- General Average
+- lojistik risk
+- sigorta
+- Şili
+- kiraz ihracatı
 ---
 <h5 style="text-align: justify"><strong>Olayın Detayı</strong></h5>
 <p style="text-align: justify"><a href="https://www.vesselfinder.com/vessels/details/9725706"><u><strong>Maersk Saltoro</strong></u></a> adlı konteyner gemisi, 27 Aralık 2024 tarihinde Şili'nin <a href="https://www.vesselfinder.com/tr/ports/CLSAI001"><u><strong>San Antonio</strong></u></a> limanından Çin'e doğru yola çıktı. Gemi, Çin Yeni Yılı öncesinde Çin pazarına ulaşması planlanan 1.300'den fazla konteyner kiraz taşıyordu. Ancak, 13 Ocak 2025 tarihinde, Mikronezya yakınlarında ana makine arızası nedeniyle 23 gün boyunca denizde sürüklendi.</p>

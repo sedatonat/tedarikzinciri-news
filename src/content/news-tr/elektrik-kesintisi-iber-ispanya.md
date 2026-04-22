@@ -1,14 +1,22 @@
 ---
-title: "İber Yarımadası Elektrik Kesintisi"
-subtitle: "İber Yarımadası Elektrik Kesintisi"
-date: "2025-04-28T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_f476b83cb8634c908d306cf03128baef~mv2.jpg"
-imageAlt: "İber Yarımadası Elektrik Kesintisi"
-wixId: "dd9cd7d7-9cdc-4bb7-b9eb-ce65019e6a1e"
-author: "Sedat Onat"
+title: İber Yarımadası Elektrik Kesintisi
+subtitle: İber Yarımadası Elektrik Kesintisi
+date: '2025-04-28T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_f476b83cb8634c908d306cf03128baef~mv2.jpg
+imageAlt: İber Yarımadası Elektrik Kesintisi
+wixId: dd9cd7d7-9cdc-4bb7-b9eb-ce65019e6a1e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- elektrik kesintisi
+- İber Yarımadası
+- enerji altyapısı
+- yenilenebilir enerji
+- şebeke çöküşü
+- lojistik aksaklık
+- kriz yönetimi
 ---
 <p style="text-align: justify"><strong>28 Nisan 2025, 12:33 CEST’te</strong> <strong>İber Yarımadası</strong> genelinde <strong>olağanüstü kapsamlı bir elektrik kesintisi</strong> yaşandı. <strong>İspanya anakarası</strong> ve <strong>Portekiz</strong>’de elektrik çoğu bölgede <strong>yaklaşık 10 saat</strong> kesik kaldı; <strong>Andorra</strong> ve <strong>Fransa’nın güneybatısı</strong> saniyeler–dakikalar arası kısa kesintiler gördü. Kesinti <strong>telekomünikasyon</strong>, <strong>ulaştırma</strong>, <strong>havalimanları</strong>, <strong>sağlık hizmetleri</strong> ve <strong>kamu kurumlarını</strong> çok katmanlı biçimde vurdu. <strong>İspanya’da en az ±7</strong>, <strong>Portekiz’de ±1</strong> ölüm, <strong>mum yangınları</strong> ve <strong>kapalı alanda jeneratör kullanımına bağlı zehirlenmeler</strong> gibi dolaylı nedenlerle ilişkilendirildi. ENTSO-E ve ulusal kaynaklar olay anında <strong>İber elektrik sisteminde “total zero”</strong> durumunun oluştuğunu bildirdi.</p>
 <p style="text-align: justify"><br></p>

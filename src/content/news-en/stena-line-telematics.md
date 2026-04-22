@@ -1,16 +1,24 @@
 ---
-title: "Stena Line Strengthens Security at Irish Sea Ports with Camera Telematics Solution"
-subtitle: "Stena Line Strengthens Security at Irish Sea Ports with Camera Telematics Solution"
-date: "2025-11-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_248914fddc7b45d595849b7e9b329eea~mv2.jpg"
-imageAlt: "Detailed news summary regarding Stena Line's implementation of Camera Telematics' multi-camera-based video telematics system at Irish Sea ports to enhance operational safety, incident investigation, and risk management"
-wixId: "9706fc78-4557-4f15-bac5-6ffb0583fde6"
-author: "Sedat Onat"
+title: Stena Line Strengthens Security at Irish Sea Ports with Camera Telematics Solution
+subtitle: Stena Line Strengthens Security at Irish Sea Ports with Camera Telematics Solution
+date: '2025-11-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_248914fddc7b45d595849b7e9b329eea~mv2.jpg
+imageAlt: Detailed news summary regarding Stena Line's implementation of Camera Telematics' multi-camera-based video telematics system at Irish Sea ports to enhance operational safety, incident investigation, and risk management
+wixId: 9706fc78-4557-4f15-bac5-6ffb0583fde6
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Stena Line
+- video telematics
+- port security
+- Irish Sea
+- terminal tractor
+- Camera Telematics
+- workplace safety
+- fleet management
 ---
-
 <p style="text-align: justify"><strong>Stena Line</strong> has undertaken a comprehensive technology investment to enhance occupational health and safety in its Irish Sea operations, rolling out an advanced <strong>video telematics</strong> solution developed by <strong>Camera Telematics</strong> across five ports. The company has installed multi-camera systems for more than <strong>100 terminal tractors</strong>, <strong>buses</strong> and <strong>luggage vans</strong>. The system accelerates incident investigation processes, enhances personnel safety and reduces operational risks.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Eamon Fortune</strong>, a senior port manager responsible for Stena Line's Irish Sea operations, underscores that employee and passenger safety remain priorities for the company and that this new technology has significantly improved safety standards. Stena Line and Camera Telematics teams have conducted comprehensive work with driver and stevedore crews operating at the port, maintaining transparent communication on the technology's purpose, data use and privacy considerations.</p>

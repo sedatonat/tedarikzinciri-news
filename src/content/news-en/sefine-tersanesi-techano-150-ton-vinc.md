@@ -1,16 +1,23 @@
 ---
-title: "Sefine Shipyard Signs 150-Ton Offshore Crane Agreement with Techano Oceanlift"
-subtitle: "Sefine Shipyard Signs 150-Ton Offshore Crane Agreement with Techano Oceanlift"
-date: "2025-03-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_098b149e8cc54a58b0f26636af6c1de0~mv2.jpg"
-imageAlt: "Sefine Shipyard Signs 150-Ton Offshore Crane Agreement with Techano Oceanlift"
-wixId: "21c0d62e-8d41-4371-9943-99c713d60b40"
-author: "Sedat Onat"
+title: Sefine Shipyard Signs 150-Ton Offshore Crane Agreement with Techano Oceanlift
+subtitle: Sefine Shipyard Signs 150-Ton Offshore Crane Agreement with Techano Oceanlift
+date: '2025-03-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_098b149e8cc54a58b0f26636af6c1de0~mv2.jpg
+imageAlt: Sefine Shipyard Signs 150-Ton Offshore Crane Agreement with Techano Oceanlift
+wixId: 21c0d62e-8d41-4371-9943-99c713d60b40
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Sefine Shipyard
+- Techano Oceanlift
+- offshore crane
+- construction support vessel
+- shipbuilding
+- maritime equipment
+- Norway
 ---
-
 <p style="text-align: justify"><a href="https://sefine.com.tr/"><u><strong>Sefine Shipyard</strong></u></a> has signed a contract with Norway-based <a href="https://techano.no/"><u><strong>Techano Oceanlift</strong></u></a> to supply a 150-ton-capacity offshore crane for a newly constructed Construction Support Vessel (CSV). This collaboration demonstrates <strong>Sefine Shipyard</strong>'s commitment to producing modern vessels equipped with advanced maritime equipment.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Techano Oceanlift</strong> is recognized as a firm that provides innovative and reliable lifting solutions in the maritime sector. The company's product range includes offshore cranes, lifting equipment, and specialized maritime solutions. The 150-ton-capacity crane to be used in this project has been designed to deliver high performance and reliability in offshore operations. The crane is capable of performing precise and safe lifting operations even in challenging marine conditions.</p>

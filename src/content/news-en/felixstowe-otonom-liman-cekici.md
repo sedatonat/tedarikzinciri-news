@@ -1,16 +1,24 @@
 ---
-title: "Port of Felixstowe Expands Autonomous Truck Fleet with 34 Vehicles"
-subtitle: "Port of Felixstowe Expands Autonomous Truck Fleet with 34 Vehicles"
-date: "2025-11-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c4911ef9746747d1b6bcce170e91d9d5~mv2.jpg"
-imageAlt: "A detailed summary of Port of Felixstowe's strengthening of operational efficiency, emission reduction, and net-zero targets with new autonomous trucks acquired from Westwell."
-wixId: "349d0225-ce0f-4943-8c74-8d38142f06d8"
-author: "Sedat Onat"
+title: Port of Felixstowe Expands Autonomous Truck Fleet with 34 Vehicles
+subtitle: Port of Felixstowe Expands Autonomous Truck Fleet with 34 Vehicles
+date: '2025-11-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c4911ef9746747d1b6bcce170e91d9d5~mv2.jpg
+imageAlt: A detailed summary of Port of Felixstowe's strengthening of operational efficiency, emission reduction, and net-zero targets with new autonomous trucks acquired from Westwell.
+wixId: 349d0225-ce0f-4943-8c74-8d38142f06d8
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- autonomous truck
+- Felixstowe Port
+- electric vehicle
+- port automation
+- LiDAR
+- Shanghai Westwell
+- net-zero emissions
+- battery swapping
 ---
-
 <p style="text-align: justify"><strong>Port of Felixstowe</strong>, one of Europe's busiest container terminals, has entered a new phase in autonomous land transport, taking delivery of the first two units of a new generation of <strong>34 autonomous trucks (AT)</strong> manufactured by <strong>Shanghai Westwell Technology</strong>. These vehicles will double the fleet operating at the port's Trinity Terminal, which already has 34 ATs in service, and will significantly expand autonomous operating capacity.</p>
 <p><br></p>
 <p style="text-align: justify">Felixstowe was the first port in Europe to integrate autonomous trucks into real operations in a <strong>mixed traffic environment</strong>. The new vehicles play a critical role in the port's operational transformation vision and are seen as a key lever in the port's plan to achieve <strong>net-zero Scope 1 & 2 emissions by 2035</strong>.</p>

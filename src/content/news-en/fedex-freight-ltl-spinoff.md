@@ -1,16 +1,23 @@
 ---
-title: "FedEx Plans to Spin Off FedEx Freight LTL Unit as Independent Company"
-subtitle: "FedEx Plans to Spin Off FedEx Freight LTL Unit as Independent Company"
-date: "2024-12-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_729c7d5dfc4c4eb9bc14c35932d5ff04~mv2.jpg"
-imageAlt: "FedEx Plans to Spin Off FedEx Freight LTL Unit as Independent Company"
-wixId: "864e7b16-717c-4742-81e6-d4aa87afd781"
-author: "Sedat Onat"
+title: FedEx Plans to Spin Off FedEx Freight LTL Unit as Independent Company
+subtitle: FedEx Plans to Spin Off FedEx Freight LTL Unit as Independent Company
+date: '2024-12-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_729c7d5dfc4c4eb9bc14c35932d5ff04~mv2.jpg
+imageAlt: FedEx Plans to Spin Off FedEx Freight LTL Unit as Independent Company
+wixId: 864e7b16-717c-4742-81e6-d4aa87afd781
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- FedEx Freight
+- LTL
+- spin-off
+- restructuring
+- logistics
+- FedEx
+- e-commerce
 ---
-
 <p>FedEx is preparing to take a significant strategic step to strengthen its competitive position in the logistics sector. The company's <strong>FedEx Freight</strong> unit, which provides Less-Than-Truckload (LTL) services, is planned to operate as a separate entity independent from the parent company. This move is expected to support FedEx's long-term growth strategy and contribute to more efficient management of all operational activities. Additionally, shifts in industry trends and dynamism in the LTL market are among the factors shaping this decision.</p>
 <p>FedEx has been closely monitoring the rapid transformations occurring in the logistics sector recently. The rise of e-commerce, customer expectations for faster and more flexible delivery, and the need for cost optimization are prompting companies to reconsider different business models. FedEx has prepared a series of restructuring plans accordingly. Among the most important pieces of these plans is the transformation of FedEx Freight into an independent firm, with its operational and financial objectives determined within a separate framework.</p>
 <p>FedEx Freight holds a strong position in the LTL segment of the U.S. market. LTL is defined as a model that distributes shipments smaller than a truck's full capacity collectively to different customers, and FedEx Freight operates a high-volume operation in this space. The company uses this model to provide fast, cost-effective, and reliable transportation between different regions. It seeks to gain competitive advantage through customized solutions for customers, scheduling, and traceability services.</p>

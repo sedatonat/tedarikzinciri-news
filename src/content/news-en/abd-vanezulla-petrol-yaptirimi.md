@@ -1,16 +1,24 @@
 ---
-title: "U.S. Seizes Sanctioned Oil Tanker Off Venezuela's Coast: Tensions Escalate to New Level"
-subtitle: "U.S. Seizes Sanctioned Oil Tanker Off Venezuela's Coast: Tensions Escalate to New Level"
-date: "2025-12-10T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_dba315d703114a9da83be81027905b2e~mv2.jpg"
-imageAlt: "Detailed news summary on the U.S. seizure of the Skipper VLCC oil tanker off Venezuela's coast, the shift from sanctions to physical naval intervention, impact on oil prices, and escalation of Washington–Caracas tensions"
-wixId: "2f1b4e1f-dcda-44e4-b65d-9be90c470a0a"
-author: "Sedat Onat"
+title: 'U.S. Seizes Sanctioned Oil Tanker Off Venezuela''s Coast: Tensions Escalate to New Level'
+subtitle: 'U.S. Seizes Sanctioned Oil Tanker Off Venezuela''s Coast: Tensions Escalate to New Level'
+date: '2025-12-10T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_dba315d703114a9da83be81027905b2e~mv2.jpg
+imageAlt: Detailed news summary on the U.S. seizure of the Skipper VLCC oil tanker off Venezuela's coast, the shift from sanctions to physical naval intervention, impact on oil prices, and escalation of Washington–Caracas tensions
+wixId: 2f1b4e1f-dcda-44e4-b65d-9be90c470a0a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- US
+- Venezuela
+- oil tanker
+- sanctions
+- VLCC
+- shadow fleet
+- Brent crude
+- geopolitics
 ---
-
 <p style="text-align: justify">The U.S. has crossed a critical threshold in its long-running political and economic dispute with Venezuela. According to <strong>Bloomberg</strong> sources, U.S. forces seized a <strong>very large crude carrier (VLCC)</strong> oil tanker sailing off <strong>Venezuela's coast</strong> that appeared on sanctions lists. This move marks a pivotal turning point, as Washington has shifted its pressure campaign from primarily financial and commercial sanctions to the level of <strong>physical interdiction</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">According to U.S. officials, the operation was conducted under <strong>judicial enforcement action</strong> targeting a vessel classified as a <strong>stateless vessel</strong>. President <strong>Donald Trump</strong> confirmed the seizure operation in a statement from the White House on December 10, using the following words:<br>

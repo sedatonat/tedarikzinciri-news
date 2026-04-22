@@ -1,14 +1,22 @@
 ---
-title: "CMA CGM, EcoVadis Sürdürülebilirlik Değerlendirmesinde Dünyanın İlk %3’lük Dilimine Girdi"
-subtitle: "CMA CGM, EcoVadis Sürdürülebilirlik Değerlendirmesinde Dünyanın İlk %3’lük Dilimine Girdi"
-date: "2025-10-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_46f21a48bec646edb9d72ecd010afa24~mv2.jpg"
-imageAlt: "CMA CGM, EcoVadis Sürdürülebilirlik Değerlendirmesinde Dünyanın İlk %3’lük Dilimine Girdi"
-wixId: "29742847-297b-4360-a1da-7d413603673f"
-author: "Sedat Onat"
+title: CMA CGM, EcoVadis Sürdürülebilirlik Değerlendirmesinde Dünyanın İlk %3’lük Dilimine Girdi
+subtitle: CMA CGM, EcoVadis Sürdürülebilirlik Değerlendirmesinde Dünyanın İlk %3’lük Dilimine Girdi
+date: '2025-10-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_46f21a48bec646edb9d72ecd010afa24~mv2.jpg
+imageAlt: CMA CGM, EcoVadis Sürdürülebilirlik Değerlendirmesinde Dünyanın İlk %3’lük Dilimine Girdi
+wixId: 29742847-297b-4360-a1da-7d413603673f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CMA CGM
+- EcoVadis
+- sürdürülebilirlik
+- deniz taşımacılığı
+- kurumsal sosyal sorumluluk
+- yeşil lojistik
+- alternatif yakıt
 ---
 <p style="text-align: justify"><strong>CMA CGM Group</strong>, sürdürülebilirlik performansıyla bir kez daha uluslararası takdir topladı.</p>
 <p><br>

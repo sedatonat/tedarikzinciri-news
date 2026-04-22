@@ -1,14 +1,23 @@
 ---
-title: "ABD, İnsan Hakları Gerekçesiyle Nikaragua’ya %15 Ek Gümrük Vergisi Getiriyor"
-subtitle: "ABD, İnsan Hakları Gerekçesiyle Nikaragua’ya %15 Ek Gümrük Vergisi Getiriyor"
-date: "2025-12-11T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_24bf6d44dab14e998a0ab023c4a588ad~mv2.jpg"
-imageAlt: "USTR’nin Section 301 soruşturması sonrası Nikaragua’ya uygulanacak kademeli %15 ek tarifeler, mevcut vergilerle birleşen yük, CAFTA-DR istisnaları ve ABD–Orta Amerika tedarik zincirine etkilerin detaylı özeti"
-wixId: "eb6c3f53-7228-4f55-8662-59986483b215"
-author: "Sedat Onat"
+title: ABD, İnsan Hakları Gerekçesiyle Nikaragua’ya %15 Ek Gümrük Vergisi Getiriyor
+subtitle: ABD, İnsan Hakları Gerekçesiyle Nikaragua’ya %15 Ek Gümrük Vergisi Getiriyor
+date: '2025-12-11T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_24bf6d44dab14e998a0ab023c4a588ad~mv2.jpg
+imageAlt: USTR’nin Section 301 soruşturması sonrası Nikaragua’ya uygulanacak kademeli %15 ek tarifeler, mevcut vergilerle birleşen yük, CAFTA-DR istisnaları ve ABD–Orta Amerika tedarik zincirine etkilerin detaylı özeti
+wixId: eb6c3f53-7228-4f55-8662-59986483b215
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD
+- Nikaragua
+- gümrük vergisi
+- Section 301
+- insan hakları
+- tekstil
+- CAFTA-DR
+- tedarik zinciri
 ---
 <p style="text-align: justify">ABD Ticaret Temsilciliği (<strong>U.S. Trade Representative – USTR</strong>), <strong>Nikaragua</strong>’ya yönelik yeni ve kademeli bir tarife rejimini devreye almaya hazırlandığını duyurdu. <strong>Trump yönetimi</strong>, ülkedeki <strong>insan hakları ihlalleri ve emek standartlarına aykırı uygulamalar</strong> gerekçesiyle Nikaragua menşeli ürünlere <strong>%15’e kadar ek gümrük vergisi</strong> uygulanacağını açıkladı. Bu karar, Aralık 2024’te başlatılan ve <strong>Section 301</strong> kapsamında yürütülen resmi soruşturmanın sonuçlarına dayanmakta.</p>
 <p><br></p>

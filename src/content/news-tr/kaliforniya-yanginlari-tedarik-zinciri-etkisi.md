@@ -1,13 +1,21 @@
 ---
-title: "Kaliforniya Yangınlarının Tedarik Zincirine Etkileri"
-subtitle: "Kaliforniya Yangınlarının Tedarik Zincirine Etkileri"
-date: "2025-01-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a15a75a28d6d4ea7b78b68f87dba8e6e~mv2.jpg"
-wixId: "f0ed9a30-4f3e-45d8-a69b-bf39910b9f84"
-author: "Sedat Onat"
+title: Kaliforniya Yangınlarının Tedarik Zincirine Etkileri
+subtitle: Kaliforniya Yangınlarının Tedarik Zincirine Etkileri
+date: '2025-01-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_a15a75a28d6d4ea7b78b68f87dba8e6e~mv2.jpg
+wixId: f0ed9a30-4f3e-45d8-a69b-bf39910b9f84
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kaliforniya yangınları
+- tedarik zinciri
+- depolama talebi
+- lojistik merkezleri
+- altyapı
+- yapı malzemeleri
+- tedarik zinciri dayanıklılığı
 ---
 <p style="text-align: justify">Güney Kaliforniya'da meydana gelen son orman yangınları, Altadena, Lake Hughes, Pacific Palisades ve San Diego County gibi bölgelerde birçok mahalleyi yok etmiş, yolları ve otoyolları kapatmış ve birçok sakinin hayatını altüst etmiştir. Kaliforniya Orman ve Yangın Koruma Departmanı'nın 27 Ocak'ta güncellenen haritasına göre, Eaton yangını %99, Hughes yangını ise %98 oranında kontrol altına alınmıştır. Toplamda dört aktif yangın, 54.519 dönümlük bir alanı etkilemiştir.​</p>
 <p style="text-align: justify"><br></p>

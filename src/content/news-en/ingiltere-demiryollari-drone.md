@@ -1,16 +1,23 @@
 ---
-title: "UK Approves Drone Patrols for Railway Infrastructure"
-subtitle: "UK Approves Drone Patrols for Railway Infrastructure"
-date: "2025-06-13T00:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_d558a740e55648c5931068c1eba5bd87~mv2.png"
-imageAlt: "UK Approves Drone Patrols for Railway Infrastructure"
-wixId: "e653fecb-2e42-49bd-a506-600ecb4f3557"
-author: "Sedat Onat"
+title: UK Approves Drone Patrols for Railway Infrastructure
+subtitle: UK Approves Drone Patrols for Railway Infrastructure
+date: '2025-06-13T00:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_d558a740e55648c5931068c1eba5bd87~mv2.png
+imageAlt: UK Approves Drone Patrols for Railway Infrastructure
+wixId: e653fecb-2e42-49bd-a506-600ecb4f3557
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- drone
+- rail
+- United Kingdom
+- BVLOS
+- computer vision
+- infrastructure maintenance
+- digitalization
 ---
-
 <p style="text-align: justify"><strong>The United Kingdom</strong> is digitalizing maintenance and security monitoring across railway infrastructure by authorizing <strong>Drone Patrol</strong> operations. With the new system, drones operate along rail corridors in <strong>BVLOS (Beyond Visual Line of Sight)</strong> scenarios, accelerating maintenance inspections on bridges, tunnels, and rail segments. <strong>Computer vision</strong>-enabled analysis systems detect surface cracks, deformations, and early-stage defects, preventing infrastructure failures.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Operations are conducted in compliance with <strong>geofencing</strong>, <strong>safe altitude</strong>, and <strong>privacy regulations</strong>. This ensures drones operate only in authorized rail sections and protects surrounding safety. High-resolution imagery and sensor data collected during operations are stored and analyzed on <strong>secure cloud</strong> infrastructure, representing a significant step forward in data integrity, traceability, and standardized maintenance reporting.</p>

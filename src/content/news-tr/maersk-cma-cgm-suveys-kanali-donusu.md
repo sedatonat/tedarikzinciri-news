@@ -1,14 +1,23 @@
 ---
-title: "Maersk ve CMA CGM Aralık Ayında Süveyş’e Tam Kapasite Dönüyor: Yeni Ortaklık Anlaşması Süreci Hızlandırıyor"
-subtitle: "Maersk ve CMA CGM Aralık Ayında Süveyş’e Tam Kapasite Dönüyor: Yeni Ortaklık Anlaşması Süreci Hızlandırıyor"
-date: "2025-11-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_68248f4aecb44ec5a8dc230c659f5519~mv2.jpg"
-imageAlt: "Süveyş Kanalı İdaresi ile Maersk arasında imzalanan stratejik ortaklık anlaşmasının ardından Maersk ve CMA CGM gemilerinin Aralık ayında Süveyş Kanalı transitlerine tam kapasite dönmesi."
-wixId: "7933f781-38f4-4f19-9670-e836b2b8ef0a"
-author: "Sedat Onat"
+title: 'Maersk ve CMA CGM Aralık Ayında Süveyş’e Tam Kapasite Dönüyor: Yeni Ortaklık Anlaşması Süreci Hızlandırıyor'
+subtitle: 'Maersk ve CMA CGM Aralık Ayında Süveyş’e Tam Kapasite Dönüyor: Yeni Ortaklık Anlaşması Süreci Hızlandırıyor'
+date: '2025-11-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_68248f4aecb44ec5a8dc230c659f5519~mv2.jpg
+imageAlt: Süveyş Kanalı İdaresi ile Maersk arasında imzalanan stratejik ortaklık anlaşmasının ardından Maersk ve CMA CGM gemilerinin Aralık ayında Süveyş Kanalı transitlerine tam kapasite dönmesi.
+wixId: 7933f781-38f4-4f19-9670-e836b2b8ef0a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Maersk
+- CMA CGM
+- Süveyş Kanalı
+- Kızıldeniz
+- deniz taşımacılığı
+- navlun
+- konteyner gemisi
+- tedarik zinciri
 ---
 <p style="text-align: justify">Süveyş Kanalı İdaresi (<strong>Suez Canal Authority – SCA</strong>) ile <strong>A.P. Moller–Maersk Group</strong> arasında imzalanan yeni stratejik ortaklık anlaşması, küresel deniz ticareti açısından kritik bir dönüm noktasını işaret ediyor. Anlaşma, <strong>Maersk bağlı gemilerin</strong> Aralık ayı başında kademeli olarak, Aralık ayı içerisinde ise <strong>tam kapasite</strong> ile Süveyş Kanalı’na dönmesini sağlayacak. Aynı kapsamda <strong>CMA CGM</strong> de Aralık itibarıyla tüm seferlerini yeniden Bab el-Mendeb–Süveyş rotasına yönlendirmeye hazırlanıyor. Böylece yaklaşık iki yıldır devam eden rota kaymaları, artan yakıt maliyetleri ve kapasite kayıpları sonrasında, Doğu–Batı ticaret hattının ana arterinde normalleşme sürecinin hızlanması bekleniyor.</p>
 <p><br></p>

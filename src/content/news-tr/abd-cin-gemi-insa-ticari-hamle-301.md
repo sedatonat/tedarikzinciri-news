@@ -1,14 +1,22 @@
 ---
-title: "Çin'in Gemi İnşa Hakimiyetine Karşı ABD'den Ticari Hamle"
-subtitle: "Çin'in Gemi İnşa Hakimiyetine Karşı ABD'den Ticari Hamle"
-date: "2024-03-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7a6b4cf9de79432fb9933d44dca4f086~mv2.jpeg"
-imageAlt: "Çin'in Gemi İnşa Hakimiyetine Karşı ABD'den Ticari Hamle"
-wixId: "10b434ef-b2ce-47da-b9cf-33f805cc3a1d"
-author: "Sedat Onat"
+title: Çin'in Gemi İnşa Hakimiyetine Karşı ABD'den Ticari Hamle
+subtitle: Çin'in Gemi İnşa Hakimiyetine Karşı ABD'den Ticari Hamle
+date: '2024-03-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7a6b4cf9de79432fb9933d44dca4f086~mv2.jpeg
+imageAlt: Çin'in Gemi İnşa Hakimiyetine Karşı ABD'den Ticari Hamle
+wixId: 10b434ef-b2ce-47da-b9cf-33f805cc3a1d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- gemi inşa
+- Çin
+- ABD
+- ticaret politikası
+- ulusal güvenlik
+- tersane
+- liman altyapısı
 ---
 <p>Amerika Birleşik Devletleri'nde demir-çelik işçilerini temsil eden <a href="https://www.usw.org/"><u>United Steelworkers (USW) </u></a>sendikası, Çin'in rekabete aykırı ticari gemi inşa uygulamalarını incelemesi için <a href="https://ustr.gov/"><u>ABD Ticaret Temsilciliği'ne (USTR)</u></a> bir Bölüm 301 dilekçesi sunmuştur. Son yirmi yıl içinde, Çin Halk Cumhuriyeti (ÇHC), küresel taşımacılık ve lojistik ağları üzerinde kontrol sağlamayı hedefleyen, küresel gemi inşasında hakimiyet kurmayı ve rekabeti dışlamayı amaçlayan çeşitli piyasa dışı politikalar uygulamıştır. Bu süre zarfında, Amerika Birleşik Devletleri'nde gemi inşa kapasitesi sürekli olarak azalmıştır.</p>
 <p><br></p>

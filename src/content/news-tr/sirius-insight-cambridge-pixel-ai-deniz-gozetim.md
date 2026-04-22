@@ -1,14 +1,23 @@
 ---
-title: "Sirius Insight ve Cambridge Pixel, AI Destekli Deniz Gözetim Çözümü İçin İş Birliği Yapıyor"
-subtitle: "Sirius Insight ve Cambridge Pixel, AI Destekli Deniz Gözetim Çözümü İçin İş Birliği Yapıyor"
-date: "2024-10-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f8c7fd76b45b4aeebbc72147c365ba1a~mv2.jpg"
-imageAlt: "Sirius Insight ve Cambridge Pixel, AI Destekli Deniz Gözetim Çözümü İçin İş Birliği Yapıyor"
-wixId: "3c83752a-e5d9-47f2-931f-fe5643bae244"
-author: "Sedat Onat"
+title: Sirius Insight ve Cambridge Pixel, AI Destekli Deniz Gözetim Çözümü İçin İş Birliği Yapıyor
+subtitle: Sirius Insight ve Cambridge Pixel, AI Destekli Deniz Gözetim Çözümü İçin İş Birliği Yapıyor
+date: '2024-10-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f8c7fd76b45b4aeebbc72147c365ba1a~mv2.jpg
+imageAlt: Sirius Insight ve Cambridge Pixel, AI Destekli Deniz Gözetim Çözümü İçin İş Birliği Yapıyor
+wixId: 3c83752a-e5d9-47f2-931f-fe5643bae244
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- AI
+- deniz gözetim
+- Sirius Insight
+- Cambridge Pixel
+- radar teknolojisi
+- AIS
+- bilgisayarlı görü
+- deniz güvenliği
 ---
 <p>Sirius Insight, İngiltere kıyılarının gözetimi ve durumsal farkındalığı için AI destekli bir deniz gözetim çözümü oluşturmak amacıyla Cambridge Pixel ile ortaklık kurdu. Sirius Insight, hizmetlerine Cambridge Pixel'in radar izleme yazılımını entegre ederek, gemi radarlarından gelen radar video verilerinin kullanımını mümkün kıldı.</p>
 <p>Cambridge Pixel'e göre, bu radar verileri Otomatik Tanımlama Sistemi (AIS) gibi ek iz raporlarıyla birleştirilerek deniz faaliyetlerinin daha kapsamlı bir görünümü oluşturuluyor. Radar tarafından tespit edildikten sonra, pan-tilt-zoom (PTZ) kameralar otomatik olarak hedefe odaklanıyor. Bu görseller, hedefin eylemlerini sınıflandıran bir bilgisayarlı görü sistemi tarafından analiz ediliyor.</p>

@@ -1,14 +1,22 @@
 ---
-title: "ABD, Rusya'ya Yönelik En Büyük Denizcilik Yaptırımlarını Açıkladı"
-subtitle: "ABD, Rusya'ya Yönelik En Büyük Denizcilik Yaptırımlarını Açıkladı"
-date: "2025-01-13T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d165e2c47729433a8f78f9a311eae687~mv2.jpeg"
-imageAlt: "ABD, Rusya'ya Yönelik En Büyük Denizcilik Yaptırımlarını Açıkladı"
-wixId: "f6ec3be8-5a1b-435a-86c7-0a93883687c3"
-author: "Sedat Onat"
+title: ABD, Rusya'ya Yönelik En Büyük Denizcilik Yaptırımlarını Açıkladı
+subtitle: ABD, Rusya'ya Yönelik En Büyük Denizcilik Yaptırımlarını Açıkladı
+date: '2025-01-13T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_d165e2c47729433a8f78f9a311eae687~mv2.jpeg
+imageAlt: ABD, Rusya'ya Yönelik En Büyük Denizcilik Yaptırımlarını Açıkladı
+wixId: f6ec3be8-5a1b-435a-86c7-0a93883687c3
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD yaptırımları
+- Rusya
+- denizcilik
+- enerji ticareti
+- Ukrayna savaşı
+- gemi taşımacılığı
+- lojistik ağı
 ---
 <p style="text-align: justify">ABD, Rusya'nın Ukrayna'daki savaşı finanse etmesini engellemek amacıyla en büyük denizcilik yaptırım paketini devreye soktu. Bu yeni yaptırımlar kapsamında, Rusya'nın gemi taşımacılığı ve ticaretinde etkili olan çok sayıda şirket, gemi ve şahıs hedef alınmakta. Özellikle, bu yaptırımlar enerji ticaretine büyük bir darbe vurmayı amaçlamakta.</p>
 <p style="text-align: justify"><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "Amazon Deploys Its Millionth Robot at Japan Fulfillment Center"
-subtitle: "Amazon Deploys Its Millionth Robot at Japan Fulfillment Center"
-date: "2025-07-02T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_6ab1d699789e42cfb8a33fe0d5470fcf~mv2.png"
-imageAlt: "Amazon Deploys Its Millionth Robot at Japan Fulfillment Center"
-wixId: "70d32e0e-c59b-4490-b866-953b97926cc1"
-author: "Sedat Onat"
+title: Amazon Deploys Its Millionth Robot at Japan Fulfillment Center
+subtitle: Amazon Deploys Its Millionth Robot at Japan Fulfillment Center
+date: '2025-07-02T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_6ab1d699789e42cfb8a33fe0d5470fcf~mv2.png
+imageAlt: Amazon Deploys Its Millionth Robot at Japan Fulfillment Center
+wixId: 70d32e0e-c59b-4490-b866-953b97926cc1
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Amazon
+- warehouse automation
+- AMR
+- artificial intelligence
+- fulfillment center
+- Japan
+- robotics
+- ASRS
 ---
-
 <p style="text-align: justify"><strong>Amazon</strong> has reached a new milestone in warehouse automation by deploying its <strong>millionth robot</strong> at a <strong>fulfillment center</strong> in Japan. This development underscores how <strong>autonomous mobile robots (AMR)</strong> and <strong>automated storage and retrieval systems (ASRS)</strong> have become <strong>mainstream technology</strong> in warehouse operations. Through scalable automation investments, the company is setting new standards in both <strong>efficiency</strong> and <strong>sustainability</strong>.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">The robots in the system work <strong>in collaboration</strong> with humans on <strong>goods-to-person</strong>, <strong>sortation</strong>, and <strong>safety</strong> tasks. Powered by <strong>machine vision</strong> and <strong>AI orchestration</strong>, robots receive task assignments <strong>dynamically</strong> based on real-time demand and priorities. This approach balances workload, prevents bottlenecks, and enhances overall operational agility.</p>

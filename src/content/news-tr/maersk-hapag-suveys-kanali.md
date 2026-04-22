@@ -1,14 +1,23 @@
 ---
-title: "Maersk ve Hapag-Lloyd’dan Suez Kanalı Duyurusuna Düzeltme: “Kesin Tarih Yok”"
-subtitle: "Maersk ve Hapag-Lloyd’dan Suez Kanalı Duyurusuna Düzeltme: “Kesin Tarih Yok”"
-date: "2025-11-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a7937c4cdd564a90a2b10d11d308873d~mv2.jpg"
-imageAlt: "Suez Canal Authority’nin erken dönüş açıklamasına karşı Maersk ve Hapag-Lloyd’un temkinli yaklaşımı, Gemini Cooperation’ın operasyonel yapısı, risk yönetimi ve 2025–2026 tedarik zinciri etkileri üzerine detaylı haber özeti"
-wixId: "fc3033df-ba58-4e67-b893-7972838b4d36"
-author: "Sedat Onat"
+title: 'Maersk ve Hapag-Lloyd’dan Suez Kanalı Duyurusuna Düzeltme: “Kesin Tarih Yok”'
+subtitle: 'Maersk ve Hapag-Lloyd’dan Suez Kanalı Duyurusuna Düzeltme: “Kesin Tarih Yok”'
+date: '2025-11-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a7937c4cdd564a90a2b10d11d308873d~mv2.jpg
+imageAlt: Suez Canal Authority’nin erken dönüş açıklamasına karşı Maersk ve Hapag-Lloyd’un temkinli yaklaşımı, Gemini Cooperation’ın operasyonel yapısı, risk yönetimi ve 2025–2026 tedarik zinciri etkileri üzerine detaylı haber özeti
+wixId: fc3033df-ba58-4e67-b893-7972838b4d36
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Maersk
+- Hapag-Lloyd
+- Suez Kanalı
+- Kızıldeniz
+- Gemini Cooperation
+- konteyner taşımacılığı
+- CMA CGM
+- deniz güvenliği
 ---
 <p style="text-align: justify">Aralık 2025’in başında küresel denizcilik sektöründe dikkat çeken önemli bir iletişim krizi yaşandı. <strong>Suez Canal Authority (SCA)</strong>, Maersk’in Aralık ayı başından itibaren Kızıldeniz üzerinden geçişlere yeniden başlayacağını duyurdu. Ancak bu açıklamadan yalnızca saatler sonra <strong>Maersk</strong> ve <strong>Hapag-Lloyd</strong>, ortak girişimleri olan <strong>Gemini Cooperation</strong> adına kamuya açık bir düzeltme yaptı:<br>
  <strong>“Red Sea return için herhangi bir timeline açıklanmadı.”</strong></p>

@@ -1,16 +1,24 @@
 ---
-title: "Kazakhstan Reaffirms Plan for Special Logistics Terminal at Iran's Shahid Rajaee Port"
-subtitle: "Kazakhstan Reaffirms Plan for Special Logistics Terminal at Iran's Shahid Rajaee Port"
-date: "2025-12-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e08fff0a78504989b577cbea9313295c~mv2.jpg"
-imageAlt: "A detailed overview of Kazakhstan's renewed commitment to establishing a special logistics terminal at Iran's Shahid Rajaee Port, detailing its impact on the Kazakhstan–Turkmenistan–Iran corridor, Central Asia's maritime access strategy, and alternative transit routes outside the Middle Corridor"
-wixId: "be241590-2941-4d85-a96b-216c7d919c0e"
-author: "Sedat Onat"
+title: Kazakhstan Reaffirms Plan for Special Logistics Terminal at Iran's Shahid Rajaee Port
+subtitle: Kazakhstan Reaffirms Plan for Special Logistics Terminal at Iran's Shahid Rajaee Port
+date: '2025-12-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e08fff0a78504989b577cbea9313295c~mv2.jpg
+imageAlt: A detailed overview of Kazakhstan's renewed commitment to establishing a special logistics terminal at Iran's Shahid Rajaee Port, detailing its impact on the Kazakhstan–Turkmenistan–Iran corridor, Central Asia's maritime access strategy, and alternative transit routes outside the Middle Corridor
+wixId: be241590-2941-4d85-a96b-216c7d919c0e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Kazakhstan
+- Iran
+- Shahid Rajaee Port
+- logistics terminal
+- Central Asia
+- rail-sea integration
+- transit corridor
+- port investment
 ---
-
 <p style="text-align: justify"><strong>Kazakhstan</strong> has formally reaffirmed its critical step in its transit strategy spanning Central Asia to the Middle East, keeping on the agenda its plan to establish <strong>a specialized transportation and logistics terminal</strong> at <strong>Shahid Rajaee Port</strong>, Iran's largest commercial port. During his address at the <strong>Kazakhstan–Iran Business Forum held in Astana on December 11</strong>, Kazakhstani President <strong>Kassym-Jomart Tokayev</strong> identified this terminal as one of the key projects of his nation's long-term logistics vision.</p>
 <p><br></p>
 <p style="text-align: justify">According to Tokayev, cargo volumes on the <strong>Kazakhstan–Turkmenistan–Iran railway line</strong> could <strong>double by 2030</strong>. To manage this increase sustainably, <strong>the Kazakh terminal planned at Shahid Rajaee</strong> is positioned as a foundational infrastructure element enabling rail-to-sea integration. President Tokayev emphasized that Kazakhstan sees itself as <strong>one of Eurasia's key transportation and logistics hubs</strong>.</p>

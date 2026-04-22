@@ -1,16 +1,24 @@
 ---
-title: "Hartmann and Heidelberg Materials Order Methanol-Fueled Cement Ship for Norway"
-subtitle: "Hartmann and Heidelberg Materials Order Methanol-Fueled Cement Ship for Norway"
-date: "2025-12-12T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_f12ed24f5d5341ad8442300d68d83cb2~mv2.jpg"
-imageAlt: "Operational model of the methanol-fueled cement carrier to be deployed by Hartmann Group and Heidelberg Materials Northern Europe for Norwegian coastal shipping, including detailed overview of emission reduction targets and impact on green shipping strategy"
-wixId: "3efb2e3b-009b-49ae-8c84-5d28f51d4dc2"
-author: "Sedat Onat"
+title: Hartmann and Heidelberg Materials Order Methanol-Fueled Cement Ship for Norway
+subtitle: Hartmann and Heidelberg Materials Order Methanol-Fueled Cement Ship for Norway
+date: '2025-12-12T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_f12ed24f5d5341ad8442300d68d83cb2~mv2.jpg
+imageAlt: Operational model of the methanol-fueled cement carrier to be deployed by Hartmann Group and Heidelberg Materials Northern Europe for Norwegian coastal shipping, including detailed overview of emission reduction targets and impact on green shipping strategy
+wixId: 3efb2e3b-009b-49ae-8c84-5d28f51d4dc2
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- methanol-fueled vessel
+- cement carrier
+- Hartmann Group
+- Heidelberg Materials
+- green shipping
+- Norway
+- emission reduction
+- alternative fuel
 ---
-
 <p style="text-align: justify">Germany-based <strong>Hartmann Group</strong> and <strong>Heidelberg Materials Northern Europe</strong> have decided to deploy a <strong>new methanol-fueled cement carrier</strong> for Norwegian coastal shipping operations. According to the company statement, the project aims to move <strong>away from fossil fuels</strong> in Norwegian domestic maritime transport and significantly reduce carbon footprint. The new vessel is being designed in compliance with Norway's strict environmental regulations and green shipping policies.</p>
 <p><br></p>
 <p style="text-align: justify">The project is supported by <strong>60 million NOK</strong> in grants through Norway's <strong>NOx Fund</strong> mechanism and falls within the country's <strong>Green Shipping Programme</strong>, which is based on public-private partnership cooperation. Authorities note that these subsidies not only alleviate the financial burden on the project, but also accelerate the commercialization of alternative-fuel vessels.</p>

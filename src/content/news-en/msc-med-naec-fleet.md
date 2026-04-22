@@ -1,16 +1,23 @@
 ---
-title: "MSC's 13,000–15,000 TEU Mega-Ships Create Two-Tier Fleet Structure on MED–NAEC Route"
-subtitle: "MSC's 13,000–15,000 TEU Mega-Ships Create Two-Tier Fleet Structure on MED–NAEC Route"
-date: "2025-11-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4bcdd37154d942e9848be2f2407c3c8f~mv2.jpg"
-imageAlt: "MSC's deployment of ultra-large vessels on the MED–NAEC route, creating a two-tier fleet structure, alongside detailed analysis of capacity trends and terminal operations impact as outlined in Sea-Intelligence research"
-wixId: "2d7147ed-05d5-4107-8500-0b4ce7090b47"
-author: "Sedat Onat"
+title: MSC's 13,000–15,000 TEU Mega-Ships Create Two-Tier Fleet Structure on MED–NAEC Route
+subtitle: MSC's 13,000–15,000 TEU Mega-Ships Create Two-Tier Fleet Structure on MED–NAEC Route
+date: '2025-11-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4bcdd37154d942e9848be2f2407c3c8f~mv2.jpg
+imageAlt: MSC's deployment of ultra-large vessels on the MED–NAEC route, creating a two-tier fleet structure, alongside detailed analysis of capacity trends and terminal operations impact as outlined in Sea-Intelligence research
+wixId: 2d7147ed-05d5-4107-8500-0b4ce7090b47
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- MSC
+- container ship
+- MED-NAEC route
+- ultra large vessel
+- TEU capacity
+- terminal operations
+- fleet structure
 ---
-
 <p style="text-align: justify"><strong>Mediterranean Shipping Company (MSC)</strong> is reshaping the structure of the Mediterranean–North America East Coast (MED–NAEC) trade route by deploying ultra-large vessels in the 13,000–15,000+ TEU segment. Analysis within <strong>Sea-Intelligence Sunday Spotlight issue 741</strong> reveals a marked divergence in fleet composition on the route during the second half of 2025. This divergence has driven up the average vessel size while keeping the median value lower, indicating that growth is concentrated among only a limited number of large ships.</p>
 <p><br></p>
 <p style="text-align: justify">Sea-Intelligence has conducted a graphical examination of all vessels deployed on the route since 2012, clearly distinguishing between standard fleet evolution and the current outlier vessels. The analysis shows that the MED–NAEC route remains dominated by a dense cluster of vessels in the <strong>800 TEU to 9,600 TEU</strong> range. This segment is defined as the "primary cluster," representing the route's traditional operational structure.</p>

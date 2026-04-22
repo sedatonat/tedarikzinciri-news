@@ -1,14 +1,23 @@
 ---
-title: "Accenture, Staufen AG'yi Satın Alarak Üretim Verimliliğini Artırıyor"
-subtitle: "Accenture, Staufen AG'yi Satın Alarak Üretim Verimliliğini Artırıyor"
-date: "2025-02-07T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_074ede3f7198403cbd97b1460325830a~mv2.jpg"
-imageAlt: "Accenture, Staufen AG'yi Satın Alarak Üretim Verimliliğini Artırıyor"
-wixId: "d2f87af7-4b9a-4cbe-87a5-66ef14039568"
-author: "Sedat Onat"
+title: Accenture, Staufen AG'yi Satın Alarak Üretim Verimliliğini Artırıyor
+subtitle: Accenture, Staufen AG'yi Satın Alarak Üretim Verimliliğini Artırıyor
+date: '2025-02-07T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_074ede3f7198403cbd97b1460325830a~mv2.jpg
+imageAlt: Accenture, Staufen AG'yi Satın Alarak Üretim Verimliliğini Artırıyor
+wixId: d2f87af7-4b9a-4cbe-87a5-66ef14039568
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Accenture
+- Staufen AG
+- satın alma
+- üretim verimliliği
+- dijital dönüşüm
+- tedarik zinciri
+- yalın yönetim
+- Industry X
 ---
 <p style="text-align: justify"><strong>Accenture</strong>, global yönetim danışmanlığı ve profesyonel hizmetler alanında önde gelen bir şirket olarak, <strong>Staufen AG</strong>'yi satın alarak üretim verimliliğini artırma yolunda önemli bir adım atmıştır. Bu stratejik hamle, Accenture'ın endüstriyel operasyonlar ve performans iyileştirme konularındaki yetkinliklerini güçlendirmekte ve müşterilerine daha kapsamlı çözümler sunmasına olanak tanımaktadır.</p>
 <p><br></p>

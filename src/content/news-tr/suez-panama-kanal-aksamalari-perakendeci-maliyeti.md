@@ -1,14 +1,22 @@
 ---
-title: "Süveyş ve Panama Kanallarındaki Aksamalar Perakendecilere Pahalıya Patlayabilir"
-subtitle: "Süveyş ve Panama Kanallarındaki Aksamalar Perakendecilere Pahalıya Patlayabilir"
-date: "2024-02-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_413f611a20894c10a948e71eb5c5f69c~mv2.jpg"
-imageAlt: "Süveyş ve Panama Kanallarındaki Aksamalar Perakendecilere Pahalıya Patlayabilir"
-wixId: "bd8bb082-55b6-4e15-a1eb-c9ea0bcb3ef5"
-author: "Sedat Onat"
+title: Süveyş ve Panama Kanallarındaki Aksamalar Perakendecilere Pahalıya Patlayabilir
+subtitle: Süveyş ve Panama Kanallarındaki Aksamalar Perakendecilere Pahalıya Patlayabilir
+date: '2024-02-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_413f611a20894c10a948e71eb5c5f69c~mv2.jpg
+imageAlt: Süveyş ve Panama Kanallarındaki Aksamalar Perakendecilere Pahalıya Patlayabilir
+wixId: bd8bb082-55b6-4e15-a1eb-c9ea0bcb3ef5
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Süveyş Kanalı
+- Panama Kanalı
+- navlun maliyetleri
+- perakende sektörü
+- Kızıldeniz
+- tedarik zinciri
+- deniz taşımacılığı
 ---
 <p><a href="https://ratings.moodys.io/"><u>Moody’s Investors Service</u></a> tarafından bu hafta yayımlanan bir rapora göre, <a href="https://tr.wikipedia.org/wiki/S%C3%BCvey%C5%9F_Kanal%C4%B1"><u>Süveyş </u></a>ve <a href="https://tr.wikipedia.org/wiki/Panama_Kanal%C4%B1"><u>Panama </u></a>Kanallarında yaşanan nakliye aksamaları, perakendecilere büyük maliyetlere yol açabilir. Aralık ortasından bu yana Kızıl Deniz'deki saldırılar, özellikle Asya ile Batı arasında, Avrupa ve ABD'nin Doğu Kıyısı limanları arasındaki ticaret rotalarını etkileyen Süveyş Kanalı'ndaki gecikme ve aksamalara neden oldu.&nbsp;</p>
 <p><br></p>

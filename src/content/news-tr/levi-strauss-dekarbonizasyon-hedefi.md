@@ -1,14 +1,22 @@
 ---
-title: "Levi Strauss Tedarik Zincirini Karbonsuzlaştırmayı Hedefliyor"
-subtitle: "Levi Strauss Tedarik Zincirini Karbonsuzlaştırmayı Hedefliyor"
-date: "2024-11-04T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_905450d024d04e46a61409a54a21e97d~mv2.jpg"
-imageAlt: "Levi Strauss Tedarik Zincirini Karbonsuzlaştırmayı Hedefliyor"
-wixId: "8004d71b-a92d-4f8d-8267-9365cb78021c"
-author: "Sedat Onat"
+title: Levi Strauss Tedarik Zincirini Karbonsuzlaştırmayı Hedefliyor
+subtitle: Levi Strauss Tedarik Zincirini Karbonsuzlaştırmayı Hedefliyor
+date: '2024-11-04T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_905450d024d04e46a61409a54a21e97d~mv2.jpg
+imageAlt: Levi Strauss Tedarik Zincirini Karbonsuzlaştırmayı Hedefliyor
+wixId: 8004d71b-a92d-4f8d-8267-9365cb78021c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Levi Strauss
+- karbonsuzlaştırma
+- sürdürülebilirlik
+- net sıfır emisyon
+- tedarik zinciri
+- Scope 3
+- yenilenebilir enerji
 ---
 <p>Levi Strauss &amp; Co., denim sektöründe sürdürülebilirlik taahhüdünü güçlendirerek 2050 yılına kadar tüm tedarik zincirinde net sıfır emisyon hedefine ulaşmayı planladığını açıkladı. Şirket, 16 Ekim’de yayımladığı ilk iklim geçiş planında, 2030 yılına kadar Scope 3 emisyonlarını %42 oranında azaltmayı ve 2025 yılına kadar Scope 1 ve Scope 2 emisyonlarını 2016 baz yılına göre %90 oranında düşürmeyi hedeflediğini belirtti.</p>
 <p><br></p>

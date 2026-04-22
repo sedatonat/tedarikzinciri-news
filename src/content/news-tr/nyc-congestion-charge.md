@@ -1,14 +1,23 @@
 ---
-title: "NYC Trafik Ücreti Üzerine Siyasi Çekişme"
-subtitle: "NYC Trafik Ücreti Üzerine Siyasi Çekişme"
-date: "2025-02-05T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_94674632d8ee4a5181e16151ba0ea8cf~mv2.png"
-imageAlt: "Nyc Trafik Ücreti Üzerine Siyasi Çekişme"
-wixId: "d6948a99-5c85-464b-bf35-63638be0877c"
-author: "Sedat Onat"
+title: NYC Trafik Ücreti Üzerine Siyasi Çekişme
+subtitle: NYC Trafik Ücreti Üzerine Siyasi Çekişme
+date: '2025-02-05T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_94674632d8ee4a5181e16151ba0ea8cf~mv2.png
+imageAlt: Nyc Trafik Ücreti Üzerine Siyasi Çekişme
+wixId: d6948a99-5c85-464b-bf35-63638be0877c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- New York
+- trafik ücreti
+- congestion charge
+- kentsel lojistik
+- toplu taşıma
+- MTA
+- micro-hub
+- off-peak teslimat
 ---
 <p>New York’ta congestion charge tartışması, yerel yönetim ve muhalif figürler arasında siyasi bir bilek güreşine dönüşmekte. Tartışmanın odağında, Manhattan’ın belirli bölgelerine girişte uygulanacak ücretin toplu taşıma finansmanı, trafik sıkışıklığı ve çevresel etkiler üzerindeki muhtemel sonuçları bulunmakta.&nbsp;</p>
 <p><br></p>

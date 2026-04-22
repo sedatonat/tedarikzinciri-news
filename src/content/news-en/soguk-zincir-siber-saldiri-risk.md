@@ -1,16 +1,24 @@
 ---
-title: "The Hidden Risk Threatening the Cold Chain: Cybersecurity Vulnerabilities in Control Systems"
-subtitle: "The Hidden Risk Threatening the Cold Chain: Cybersecurity Vulnerabilities in Control Systems"
-date: "2025-12-08T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_490b787fd54d4cd2afc709ab62bfb49b~mv2.jpg"
-imageAlt: "Detailed summary of \"Frostbyte 10\" security vulnerabilities identified in Copeland's cold chain control systems, exposing OT systems to cyber attacks and outlining potential impacts on food and pharmaceutical supply chains"
-wixId: "7224f976-4487-4573-abf9-96310fddb273"
-author: "Sedat Onat"
+title: 'The Hidden Risk Threatening the Cold Chain: Cybersecurity Vulnerabilities in Control Systems'
+subtitle: 'The Hidden Risk Threatening the Cold Chain: Cybersecurity Vulnerabilities in Control Systems'
+date: '2025-12-08T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_490b787fd54d4cd2afc709ab62bfb49b~mv2.jpg
+imageAlt: Detailed summary of "Frostbyte 10" security vulnerabilities identified in Copeland's cold chain control systems, exposing OT systems to cyber attacks and outlining potential impacts on food and pharmaceutical supply chains
+wixId: 7224f976-4487-4573-abf9-96310fddb273
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- cold chain
+- cybersecurity
+- Copeland
+- Armis Labs
+- CISA
+- OT security
+- Frostbyte 10
+- control systems
 ---
-
 <p style="text-align: justify">Until a few years ago, the notion that global <strong>cold chain</strong> infrastructure could be targeted by cyber attacks was perceived as science fiction. However, a recent analysis published in <strong>SupplyChainBrain</strong> demonstrates that this risk is now starkly tangible. <strong>Copeland LP</strong> partnered with cyber security firm <strong>Armis Labs</strong> to test the security of <strong>facility management</strong> and <strong>supervisory control</strong> systems used in cold chain operations, and the findings contain serious warnings for supply chain security.</p>
 <p><br></p>
 <p style="text-align: justify">Copeland requested that Armis prepare an official <strong>Common Vulnerabilities and Exposures (CVE)</strong> report for <strong>E2</strong> and <strong>E3</strong> model controllers and submit it to the <strong>Cybersecurity and Infrastructure Security Agency (CISA)</strong>, which is under the U.S. Department of Homeland Security. Armis's work culminated in the identification of a total of <strong>10 critical security vulnerabilities</strong>. These vulnerabilities were designated as <strong>"Frostbyte 10"</strong> by Armis.</p>

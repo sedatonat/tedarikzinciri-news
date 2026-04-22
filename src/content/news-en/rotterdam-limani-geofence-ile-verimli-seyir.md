@@ -1,16 +1,24 @@
 ---
-title: "Port of Rotterdam Enters \"Geofence\" Era for Vessel Movements"
-subtitle: "Port of Rotterdam Enters \"Geofence\" Era for Vessel Movements"
-date: "2024-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_16ced623d8b14b63891d07da1b5dc700~mv2.jpg"
-imageAlt: "Port of Rotterdam Enters \"Geofence\" Era for Vessel Movements"
-wixId: "76a7bae0-96e5-4d50-8fff-787c5f417051"
-author: "Sedat Onat"
+title: Port of Rotterdam Enters "Geofence" Era for Vessel Movements
+subtitle: Port of Rotterdam Enters "Geofence" Era for Vessel Movements
+date: '2024-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_16ced623d8b14b63891d07da1b5dc700~mv2.jpg
+imageAlt: Port of Rotterdam Enters "Geofence" Era for Vessel Movements
+wixId: 76a7bae0-96e5-4d50-8fff-787c5f417051
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Port of Rotterdam
+- geofence
+- just-in-time sailing
+- CO2 emissions
+- port operations
+- vessel movements
+- sustainability
+- IMO
 ---
-
 <p>The Port of Rotterdam has implemented a new "Geofence" system to optimize vessel movements and increase the efficiency of port operations. The innovative system was announced as a key component of the first phase of the "Just-in-Time sailing" project, which aims to reduce CO2 emissions and enhance the effectiveness of vessel movements.</p>
 <p><br></p>
 <p>Since mid-October, terminal planners and shipping agents have been receiving instant email notifications when a vessel crosses an imaginary boundary—referred to as a "geofence"—and enters the inland navigation "Port-passage Planning Area (PPA)." This geofence is positioned at a distance of 240 nautical miles around the Maascenter buoy. When vessels cross this line, they receive their "Actual Time of Arrival (ATA)" information for arrival at the PPA. This enables more precise arrival scheduling and reduces waiting times.</p>

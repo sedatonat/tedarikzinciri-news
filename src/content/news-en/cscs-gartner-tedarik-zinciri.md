@@ -1,16 +1,23 @@
 ---
-title: "Gartner: CSCOs Will Become Far More Influential in Business"
-subtitle: "Gartner: CSCOs Will Become Far More Influential in Business"
-date: "2025-05-06T00:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_354e7380b772468aa099b3d457341f0d~mv2.jpg"
-imageAlt: "Gartner: CSCOs Will Become Far More Influential in Business"
-wixId: "d7970b33-fd74-4e9d-bf96-36e21b7f68bb"
-author: "Sedat Onat"
+title: 'Gartner: CSCOs Will Become Far More Influential in Business'
+subtitle: 'Gartner: CSCOs Will Become Far More Influential in Business'
+date: '2025-05-06T00:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_354e7380b772468aa099b3d457341f0d~mv2.jpg
+imageAlt: 'Gartner: CSCOs Will Become Far More Influential in Business'
+wixId: d7970b33-fd74-4e9d-bf96-36e21b7f68bb
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- CSCO
+- Gartner
+- supply chain strategy
+- artificial intelligence
+- sustainability
+- digital twin
+- supplier collaboration
 ---
-
 <p style="text-align: justify">In the aftermath of global crises and supply chain shocks, the <strong>Chief Supply Chain Officer (CSCO)</strong> role is no longer confined to operational efficiency alone; it has been positioned at the <strong>center of corporate strategy</strong>. In the new era, CSCOs are being positioned as co-leaders not only of <strong>cost-to-serve</strong>, but also of <strong>growth, customer experience, and sustainability objectives</strong>. This transformation is converting supply chain management from a tactical function into a strategic competitive advantage.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">According to <strong>Gartner</strong> analysis, the modern supply function is evolving into an <strong>end-to-end</strong> structure. Within this scope, <strong>S&amp;OP/IBP (Sales &amp; Operations Planning / Integrated Business Planning)</strong>, <strong>product portfolio management</strong>, <strong>network design</strong>, and <strong>supplier strategy</strong> are being managed in an integrated manner under a single umbrella. As a result, the supply chain becomes the heart of corporate strategy and an equal partner to other business units.</p>

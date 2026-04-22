@@ -1,16 +1,23 @@
 ---
-title: "MS Sørøysund Grounds: 4,000 Liters of Diesel Spills Into Sea"
-subtitle: "MS Sørøysund Grounds: 4,000 Liters of Diesel Spills Into Sea"
-date: "2025-11-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_eea2a04d7aaa4a7090dd2d321c13413f~mv2.jpg"
-imageAlt: "The 62-meter landing craft MS Sørøysund ran aground in Tjeldsund; approximately 4,000 liters of diesel spilled into the sea, a 27,000-liter fuel tank is being transferred and emptied, and environmental teams are attempting to contain the spill with barriers."
-wixId: "8fff2288-1485-4667-b26b-31b65652eba3"
-author: "Sedat Onat"
+title: 'MS Sørøysund Grounds: 4,000 Liters of Diesel Spills Into Sea'
+subtitle: 'MS Sørøysund Grounds: 4,000 Liters of Diesel Spills Into Sea'
+date: '2025-11-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_eea2a04d7aaa4a7090dd2d321c13413f~mv2.jpg
+imageAlt: The 62-meter landing craft MS Sørøysund ran aground in Tjeldsund; approximately 4,000 liters of diesel spilled into the sea, a 27,000-liter fuel tank is being transferred and emptied, and environmental teams are attempting to contain the spill with barriers.
+wixId: 8fff2288-1485-4667-b26b-31b65652eba3
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- MS Sørøysund
+- grounding
+- marine pollution
+- diesel leak
+- Norway
+- environmental response
+- coastal safety
 ---
-
 <p style="text-align: justify">The 62-meter landing craft <strong>MS Sørøysund</strong> has run aground in northern Norway, releasing approximately <strong>4,000 liters of diesel</strong> into the sea. The incident occurred near Fjelldal in the Tjeldsund area on Saturday and triggered an emergency environmental response from Norwegian coastal authorities.</p>
 <p><br></p>
 <p style="text-align: justify">According to local authorities and regional news sources, the accident took place during initial salvage operations aimed at refloating the vessel. Work halted when a <strong>fuel tank leak was detected</strong> during night operations. Emergency pumping began immediately to safely transfer the fuel.</p>

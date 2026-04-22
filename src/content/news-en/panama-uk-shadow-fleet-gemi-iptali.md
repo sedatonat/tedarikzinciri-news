@@ -1,16 +1,23 @@
 ---
-title: "Panama Cancels Ship Registrations Following UK's Shadow Fleet Crackdown"
-subtitle: "Panama Cancels Ship Registrations Following UK's Shadow Fleet Crackdown"
-date: "2024-11-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_48f8b4dbc0d441398bd67b0565fd4d2e~mv2.jpg"
-imageAlt: "Panama Cancels Ship Registrations Following UK's Shadow Fleet Crackdown"
-wixId: "ef735985-bfd8-47a1-b87d-791419544db4"
-author: "Sedat Onat"
+title: Panama Cancels Ship Registrations Following UK's Shadow Fleet Crackdown
+subtitle: Panama Cancels Ship Registrations Following UK's Shadow Fleet Crackdown
+date: '2024-11-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_48f8b4dbc0d441398bd67b0565fd4d2e~mv2.jpg
+imageAlt: Panama Cancels Ship Registrations Following UK's Shadow Fleet Crackdown
+wixId: ef735985-bfd8-47a1-b87d-791419544db4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Panama
+- shadow fleet
+- ship registry
+- UK sanctions
+- maritime authority
+- Russia
+- tanker fleet
 ---
-
 <p>The Panama Maritime Authority (PMA) has initiated accelerated cancellation procedures for six Panama-flagged vessels added to the United Kingdom's consolidated list of financial sanctions targets on November 25, 2024. This action became possible following the PMA's expansion of authority in October through Executive Decree 512, which grants the agency the power to rapidly revoke ship registrations and navigation licenses for vessels appearing on international sanctions lists.</p>
 <p><br></p>
 <p>PMA Director General Ramón Franco stated that preserving the integrity of the Panamanian ship registry is the state's fundamental responsibility. "Protecting the prestige of our flag is the top priority of this administration," Franco said. Panama's comprehensive initiative to strengthen its ship registry has been noteworthy, with the nation—which operates one of the world's largest registries—successfully canceling three vessel registrations and advancing the cancellation process for eight additional vessels since implementing Executive Decree 512.</p>

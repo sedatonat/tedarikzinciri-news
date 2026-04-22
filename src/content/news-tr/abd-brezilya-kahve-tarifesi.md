@@ -1,14 +1,23 @@
 ---
-title: "ABD, Brezilya’dan Gelen Kahve ve Tarım Ürünlerine Uygulanan Tarifeleri Kaldırdı"
-subtitle: "ABD, Brezilya’dan Gelen Kahve ve Tarım Ürünlerine Uygulanan Tarifeleri Kaldırdı"
-date: "2025-11-21T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_73feb1867bc24d8fa22187474fd48b33~mv2.jpg"
-imageAlt: "ABD, kahve, et, tropikal meyveler ve baharatlar dahil olmak üzere Brezilya menşeli yüzlerce tarım ve gıda ürünü için tarife muafiyeti getirdi. Karar, ağırlaşan tarife baskısını hafifletirken iki ülke arasındaki ticaret müzakerelerindeki ilerlemenin bir sonucu olarak görülüyor."
-wixId: "f8250dac-cacd-494c-a01c-e1512f8263b2"
-author: "Sedat Onat"
+title: ABD, Brezilya’dan Gelen Kahve ve Tarım Ürünlerine Uygulanan Tarifeleri Kaldırdı
+subtitle: ABD, Brezilya’dan Gelen Kahve ve Tarım Ürünlerine Uygulanan Tarifeleri Kaldırdı
+date: '2025-11-21T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_73feb1867bc24d8fa22187474fd48b33~mv2.jpg
+imageAlt: ABD, kahve, et, tropikal meyveler ve baharatlar dahil olmak üzere Brezilya menşeli yüzlerce tarım ve gıda ürünü için tarife muafiyeti getirdi. Karar, ağırlaşan tarife baskısını hafifletirken iki ülke arasındaki ticaret müzakerelerindeki ilerlemenin bir sonucu olarak görülüyor.
+wixId: f8250dac-cacd-494c-a01c-e1512f8263b2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD
+- Brezilya
+- tarife muafiyeti
+- kahve
+- tarım ürünleri
+- küresel ticaret
+- Trump
+- dış ticaret
 ---
 <p style="text-align: justify">ABD, Brezilya’dan ithal edilen <strong>yüzlerce tarım ve gıda ürününde tarifeleri kaldırdığını</strong> açıkladı. Karar, Başkan Donald Trump’ın imzaladığı yeni bir başkanlık kararnamesiyle yürürlüğe girdi ve ABD Tarım ve Gümrük Koruma Birimi (<strong>CBP</strong>) tarafından yayımlanan bildirimle detaylandırıldı.</p>
 <p><br></p>

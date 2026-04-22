@@ -1,14 +1,22 @@
 ---
-title: "Somali Açıklarında Stolt Tankerine Korsan Saldırısı: Silahlı Çatışma Yaşandı"
-subtitle: "Somali Açıklarında Stolt Tankerine Korsan Saldırısı: Silahlı Çatışma Yaşandı"
-date: "2025-11-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8028986e6ea348469d075afbbea1f734~mv2.jpg"
-imageAlt: "Stolt Tankers’e ait Cayman Adaları bayraklı kimyasal tanker Stolt Sagaland, Somali açıklarında korsan saldırısına uğradı. Gemideki silahlı güvenlik ekibi karşı ateş açarak saldırıyı püskürttü. Olayda yaralanma veya hasar meydana gelmedi."
-wixId: "41f7485e-304b-4886-8f23-5ac8ab251769"
-author: "Sedat Onat"
+title: 'Somali Açıklarında Stolt Tankerine Korsan Saldırısı: Silahlı Çatışma Yaşandı'
+subtitle: 'Somali Açıklarında Stolt Tankerine Korsan Saldırısı: Silahlı Çatışma Yaşandı'
+date: '2025-11-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8028986e6ea348469d075afbbea1f734~mv2.jpg
+imageAlt: Stolt Tankers’e ait Cayman Adaları bayraklı kimyasal tanker Stolt Sagaland, Somali açıklarında korsan saldırısına uğradı. Gemideki silahlı güvenlik ekibi karşı ateş açarak saldırıyı püskürttü. Olayda yaralanma veya hasar meydana gelmedi.
+wixId: 41f7485e-304b-4886-8f23-5ac8ab251769
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- korsan saldırısı
+- Somali
+- kimyasal tanker
+- Stolt Tankers
+- deniz güvenliği
+- EU NAVFOR
+- Hint Okyanusu
 ---
 <p style="text-align: justify"><strong>Stolt Tankers</strong> tarafından işletilen <strong>Cayman Adaları bayraklı kimyasal tanker </strong><em><strong>Stolt Sagaland</strong></em><strong>,</strong> Somali kıyıları açıklarında <strong>silahlı korsanlar tarafından hedef alındı.</strong> Olay, <strong>Vanguard Tech</strong> adlı deniz güvenliği firması tarafından doğrulandı.</p>
 <p><br></p>

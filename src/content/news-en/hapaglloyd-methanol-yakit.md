@@ -1,16 +1,24 @@
 ---
-title: "Hapag-Lloyd Orders Eight Methanol-Fueled Container Ships for Green Transformation"
-subtitle: "Hapag-Lloyd Orders Eight Methanol-Fueled Container Ships for Green Transformation"
-date: "2025-12-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c71d09f856684e9ca58cbd947c7a2901~mv2.jpg"
-imageAlt: "Hapag-Lloyd's order for eight 4,500 TEU methanol-fueled new ships from CIMC Raffles, investment exceeding 500 million dollars, detailed summary of fleet renewal and carbon reduction targets within Strategy 2030"
-wixId: "23626974-3dae-41c8-83c4-305b58f7ad04"
-author: "Sedat Onat"
+title: Hapag-Lloyd Orders Eight Methanol-Fueled Container Ships for Green Transformation
+subtitle: Hapag-Lloyd Orders Eight Methanol-Fueled Container Ships for Green Transformation
+date: '2025-12-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c71d09f856684e9ca58cbd947c7a2901~mv2.jpg
+imageAlt: Hapag-Lloyd's order for eight 4,500 TEU methanol-fueled new ships from CIMC Raffles, investment exceeding 500 million dollars, detailed summary of fleet renewal and carbon reduction targets within Strategy 2030
+wixId: 23626974-3dae-41c8-83c4-305b58f7ad04
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Hapag-Lloyd
+- methanol-fueled vessel
+- container ship
+- green transition
+- decarbonization
+- CIMC Raffles
+- dual-fuel engine
+- LNG
 ---
-
 <p style="text-align: justify">Germany-based global container shipping company <strong>Hapag-Lloyd</strong> has taken a significant step in fleet transformation by launching its <strong>first methanol-centered newbuild program</strong>. Under an agreement with Chinese shipyard <strong>CIMC Raffles</strong>, the company has ordered <strong>eight 4,500 TEU container ships</strong>. The vessels, scheduled for delivery in 2028 and 2029, represent a total investment <strong>exceeding 500 million USD</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The newly constructed ships will be equipped with <strong>dual-fuel methanol engines</strong>. These systems deliver <strong>fuel efficiency improvements of up to 30%</strong> compared to existing older tonnage and enable a reduction of <strong>up to 350,000 tonnes of CO₂e emissions annually</strong> through methanol use. The order is regarded as one of the most concrete steps Hapag-Lloyd has taken in line with its carbon reduction targets.</p>

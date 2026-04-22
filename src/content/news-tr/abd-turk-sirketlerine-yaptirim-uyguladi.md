@@ -1,14 +1,21 @@
 ---
-title: "ABD'den 16 Türk Şirketine Yaptırım Kararı"
-subtitle: "ABD'den 16 Türk Şirketine Yaptırım Kararı"
-date: "2023-12-13T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_20fcd35a03fc4d17848b7bc9bf92d510~mv2.jpg"
-imageAlt: "ABD'den 16 Türk Şirketine Yaptırım Kararı"
-wixId: "ef693726-f289-4b02-940a-f1f3c0e75da7"
-author: "Sedat Onat"
+title: ABD'den 16 Türk Şirketine Yaptırım Kararı
+subtitle: ABD'den 16 Türk Şirketine Yaptırım Kararı
+date: '2023-12-13T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_20fcd35a03fc4d17848b7bc9bf92d510~mv2.jpg
+imageAlt: ABD'den 16 Türk Şirketine Yaptırım Kararı
+wixId: ef693726-f289-4b02-940a-f1f3c0e75da7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD yaptırımları
+- Türk şirketleri
+- Rusya ambargosu
+- ticaret kısıtlamaları
+- Ukrayna savaşı
+- teknoloji sevkiyatı
 ---
 <p>ABD, Rusya'ya yönelik ambargoyu delmekle suçlanan Türk, Çin, BAE ve diğer ülkelerden yüzlerce kişi ve kuruluşa yaptırım uyguladı.&nbsp;</p>
 <p><br></p>

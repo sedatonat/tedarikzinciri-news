@@ -1,16 +1,23 @@
 ---
-title: "Global Schedule Reliability Shows Modest Improvement in October"
-subtitle: "Global Schedule Reliability Shows Modest Improvement in October"
-date: "2024-11-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7d66996fd50e4e27b746005cbaa4aa36~mv2.jpg"
-imageAlt: "Global Schedule Reliability Shows Modest Improvement in October"
-wixId: "2ee0c14d-78b8-491f-abc6-fb08c6508f52"
-author: "Sedat Onat"
+title: Global Schedule Reliability Shows Modest Improvement in October
+subtitle: Global Schedule Reliability Shows Modest Improvement in October
+date: '2024-11-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7d66996fd50e4e27b746005cbaa4aa36~mv2.jpg
+imageAlt: Global Schedule Reliability Shows Modest Improvement in October
+wixId: 2ee0c14d-78b8-491f-abc6-fb08c6508f52
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- schedule reliability
+- ocean shipping
+- Sea-Intelligence
+- Maersk
+- container carriers
+- vessel delays
+- logistics performance
 ---
-
 <p>Sea-Intelligence released its 159th Global Liner Performance (GLP) report covering the October 2024 period. The report noted that the global schedule reliability rate increased by 0.9 percentage points month-over-month to reach 51.5% in October. Throughout 2024, schedule reliability has generally fluctuated between 50% and 55%, and the stability of these lower levels provides shippers with more reliable monthly forecasts.</p>
 <p><br></p>
 <p>Sea-Intelligence's comprehensive research evaluated the global reliability landscape by examining 34 trade lanes and more than 60 carriers. According to the report, the average delay duration for LATE vessel arrivals decreased by 0.14 days on a monthly basis to 5.72 days. This represents the highest total delay time for this month since the pandemic peak in 2021.</p>

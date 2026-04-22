@@ -1,14 +1,22 @@
 ---
-title: "IAPH, Environmental Ship Index için Yeni GHG Performans Göstergesi Geliştiriyor"
-subtitle: "IAPH, Environmental Ship Index için Yeni GHG Performans Göstergesi Geliştiriyor"
-date: "2024-10-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1fd5e95efb9246ffb1f6a0c7dcbd3c46~mv2.jpg"
-imageAlt: "IAPH, Environmental Ship Index için Yeni GHG Performans Göstergesi Geliştiriyor"
-wixId: "2ddbd722-f238-4df9-ac8e-24e0f54c67f7"
-author: "Sedat Onat"
+title: IAPH, Environmental Ship Index için Yeni GHG Performans Göstergesi Geliştiriyor
+subtitle: IAPH, Environmental Ship Index için Yeni GHG Performans Göstergesi Geliştiriyor
+date: '2024-10-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1fd5e95efb9246ffb1f6a0c7dcbd3c46~mv2.jpg
+imageAlt: IAPH, Environmental Ship Index için Yeni GHG Performans Göstergesi Geliştiriyor
+wixId: 2ddbd722-f238-4df9-ac8e-24e0f54c67f7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- IAPH
+- Environmental Ship Index
+- sera gazı emisyonu
+- CII
+- denizcilik
+- liman teşvikleri
+- karbonsuzlaştırma
 ---
 <p>International Association of Ports and Harbours (IAPH), gemi sahipleri için oluşturduğu Environmental Ship Index (ESI) liman teşvik programı kapsamında yeni bir sera gazı (GHG) performans göstergesi geliştirdi. IAPH, gemilerin enerji verimliliği konusunda yaptığı bir sunumda, Carbon Intensity Indicator (CII)'ın tanıtımını olumlu bir gelişme olarak karşılarken, denizcilik endüstrisi ve International Maritime Organization (IMO) üye devletlerinin mevcut göstergeyle ilgili endişelerini de kabul ediyor.</p>
 <p><br></p>

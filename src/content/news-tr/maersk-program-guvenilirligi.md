@@ -1,14 +1,21 @@
 ---
-title: "Kasım 2024'te Maersk Program Güvenilirliğinde Zirvede"
-subtitle: "Kasım 2024'te Maersk Program Güvenilirliğinde Zirvede"
-date: "2025-01-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5ab7bbde0a9547c6a0b723964115ade3~mv2.jpg"
-imageAlt: "Kasım 2024'te Maersk Program Güvenilirliğinde Zirvede"
-wixId: "21f2a674-5fca-4c30-8c22-9d58c2ae28dc"
-author: "Sedat Onat"
+title: Kasım 2024'te Maersk Program Güvenilirliğinde Zirvede
+subtitle: Kasım 2024'te Maersk Program Güvenilirliğinde Zirvede
+date: '2025-01-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5ab7bbde0a9547c6a0b723964115ade3~mv2.jpg
+imageAlt: Kasım 2024'te Maersk Program Güvenilirliğinde Zirvede
+wixId: 21f2a674-5fca-4c30-8c22-9d58c2ae28dc
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Maersk
+- program güvenilirliği
+- deniz taşımacılığı
+- Gemini Cooperation
+- Kızıldeniz
+- tedarik zinciri
 ---
 <p>Kasım 2024'te küresel deniz taşımacılığı program güvenilirliği, bir önceki aya göre 4,1 puan artarak %54,8'e yükseldi. Bu artışa rağmen, 2024 yılı genelinde program güvenilirliği %50 ile %55 arasında dalgalandı. Gecikmeli gemi varışlarının ortalama süresi ise 0,43 gün azalarak 5,41 güne indi; ancak bu süre, 2021'deki pandemi zirvesinden sonra kaydedilen en yüksek ikinci değer olarak dikkat çekiyor.</p>
 <p><br></p>

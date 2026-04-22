@@ -1,14 +1,22 @@
 ---
-title: "Rus Demiryolları'nın Net Kârı Beklenenden %90 Daha Düşük"
-subtitle: "Rus Demiryolları'nın Net Kârı Beklenenden %90 Daha Düşük"
-date: "2024-12-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_80ac8cac983446d888225e5b6202789b~mv2.jpeg"
-imageAlt: "Rus Demiryolları'nın Net Kârı Beklenenden %90 Daha Düşük"
-wixId: "1ba19d03-f0ac-4b58-92df-84d0770919dd"
-author: "Sedat Onat"
+title: Rus Demiryolları'nın Net Kârı Beklenenden %90 Daha Düşük
+subtitle: Rus Demiryolları'nın Net Kârı Beklenenden %90 Daha Düşük
+date: '2024-12-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_80ac8cac983446d888225e5b6202789b~mv2.jpeg
+imageAlt: Rus Demiryolları'nın Net Kârı Beklenenden %90 Daha Düşük
+wixId: 1ba19d03-f0ac-4b58-92df-84d0770919dd
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Russian Railways
+- demiryolu taşımacılığı
+- Rusya
+- finansal performans
+- yük taşımacılığı
+- personel eksikliği
+- lokomotif eksikliği
 ---
 <p><strong>Russian Railways (RZD)</strong>, 2024 yılını beklenenden %90 daha düşük bir net kârla kapatıyor. Şirketin finansal artığı 15 milyar ruble (142,4 milyon euro) olarak gerçekleşirken, hedeflenen rakam 122 milyar rubleydi (1,16 milyar euro).</p>
 <p><br></p>

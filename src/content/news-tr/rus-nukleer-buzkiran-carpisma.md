@@ -1,14 +1,22 @@
 ---
-title: "Rus Nükleer Buzkıran Arktik'te Kargo Gemisiyle Çarpıştı"
-subtitle: "Rus Nükleer Buzkıran Arktik'te Kargo Gemisiyle Çarpıştı"
-date: "2025-01-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8dc8b5f99bb44aafaf3c09620d890d1f~mv2.jpg"
-imageAlt: "Rus Nükleer Buzkıran Arktik'te Kargo Gemisiyle Çarpıştı"
-wixId: "4d83009c-d645-44d0-8a4b-e52f2b35c760"
-author: "Sedat Onat"
+title: Rus Nükleer Buzkıran Arktik'te Kargo Gemisiyle Çarpıştı
+subtitle: Rus Nükleer Buzkıran Arktik'te Kargo Gemisiyle Çarpıştı
+date: '2025-01-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8dc8b5f99bb44aafaf3c09620d890d1f~mv2.jpg
+imageAlt: Rus Nükleer Buzkıran Arktik'te Kargo Gemisiyle Çarpıştı
+wixId: 4d83009c-d645-44d0-8a4b-e52f2b35c760
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- nükleer buzkıran
+- Kuzey Deniz Rotası
+- Arktik
+- kargo gemisi çarpışması
+- 50 Let Pobedy
+- deniz kazası
+- Polar Code
 ---
 <p style="text-align: justify">26 Ocak 2025 gecesi, <strong>50 Let Pobedy</strong> adlı Rus nükleer buzkıran, Kuzey Deniz Rotası'nda bir kargo gemisiyle çarpışarak gövdesinde önemli hasar aldı. Olay, <strong>Kara Denizi</strong>'nde, buzkıranın kargo gemisine eskortluk yaptığı sırada meydana geldi. Çarpışmanın ardından, buzkıranın sancak tarafında, pruvaya yakın derin bir yarık oluştu.</p>
 <p><br></p>

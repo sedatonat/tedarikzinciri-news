@@ -1,14 +1,22 @@
 ---
-title: "Maersk, Hindistan'dan Irak'a Soğutuculu Konteyner Ek Ücretini Revize Etti"
-subtitle: "Maersk, Hindistan'dan Irak'a Soğutuculu Konteyner Ek Ücretini Revize Etti"
-date: "2025-01-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2dbaed1b6f4d4a8593c3ccad06dfbba5~mv2.jpg"
-imageAlt: "Maersk, Hindistan'dan Irak'a Soğutuculu Konteyner Ek Ücretini Revize Etti"
-wixId: "08bf8b62-75ae-4a73-a9c3-7fea9ef373fe"
-author: "Sedat Onat"
+title: Maersk, Hindistan'dan Irak'a Soğutuculu Konteyner Ek Ücretini Revize Etti
+subtitle: Maersk, Hindistan'dan Irak'a Soğutuculu Konteyner Ek Ücretini Revize Etti
+date: '2025-01-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2dbaed1b6f4d4a8593c3ccad06dfbba5~mv2.jpg
+imageAlt: Maersk, Hindistan'dan Irak'a Soğutuculu Konteyner Ek Ücretini Revize Etti
+wixId: 08bf8b62-75ae-4a73-a9c3-7fea9ef373fe
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Maersk
+- soğutuculu konteyner
+- Hindistan
+- Irak
+- Peak Season Surcharge
+- deniz taşımacılığı
+- lojistik maliyetleri
 ---
 <p style="text-align: justify">Danimarkalı deniz taşımacılığı devi <strong>Maersk</strong>, Hindistan'ın <strong>Jawaharlal Nehru</strong>, <strong>Mundra</strong> ve <strong>Pipavav</strong> limanlarından Irak'a yapılan soğutuculu konteyner (reefer) sevkiyatları için uyguladığı <strong>Peak Season Surcharge (PSS)</strong> ücretinde revizyona gitmekte.</p>
 <p style="text-align: justify"><br></p>

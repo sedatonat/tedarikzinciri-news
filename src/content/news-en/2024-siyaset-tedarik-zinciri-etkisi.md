@@ -1,16 +1,24 @@
 ---
-title: "How Politics Will Impact Supply Chains in 2024"
-subtitle: "How Politics Will Impact Supply Chains in 2024"
-date: "2024-02-23T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_21fcae7a7129422094874dcc092216ef~mv2.jpg"
-imageAlt: "How Politics Will Impact Supply Chains in 2024"
-wixId: "4638a040-7592-4b9d-ac86-bc2feeac121d"
-author: "Sedat Onat"
+title: How Politics Will Impact Supply Chains in 2024
+subtitle: How Politics Will Impact Supply Chains in 2024
+date: '2024-02-23T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_21fcae7a7129422094874dcc092216ef~mv2.jpg
+imageAlt: How Politics Will Impact Supply Chains in 2024
+wixId: 4638a040-7592-4b9d-ac86-bc2feeac121d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- politics
+- supply chain
+- reshoring
+- Mexico
+- China
+- artificial intelligence
+- environmental regulations
+- USMCA
 ---
-
 <p>A forecast survey conducted by the <a href="https://reshoringinstitute.org/"><u>Reshoring Institute</u></a> for 2024 has drawn attention with its results. According to the survey findings, politics has emerged as the most important factor that will impact supply chains this year. Politics, which was barely mentioned two decades ago, has become an element influencing most supply chain decisions today. Seventy percent of survey respondents cited politics in their answers.</p>
 <p><br></p>
 <p>If Trump is elected, the United States is expected to pursue a more inward-looking policy, close its borders, and reduce relations with other countries. These policies will lead to increased sourcing and production from domestic resources (See: <a href="https://www.tedarikzinciriportali.com/post/terim-onshoring-ulke-ici-uretim"><u>Onshoring</u></a> &amp; <a href="https://www.tedarikzinciriportali.com/post/terim-reshoring"><u>Reshoring</u></a>)</p>

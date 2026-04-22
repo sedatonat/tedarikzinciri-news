@@ -1,16 +1,23 @@
 ---
-title: "Lockheed Martin Invests $50 Million in Saildrone for Armed Autonomous Marine Platforms"
-subtitle: "Lockheed Martin Invests $50 Million in Saildrone for Armed Autonomous Marine Platforms"
-date: "2025-10-29T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_350cd713b5674c309b5e8223dc62903d~mv2.jpg"
-imageAlt: "With its $50 million investment in Saildrone, Lockheed Martin aims to integrate armed systems into autonomous maritime vehicles. Under the partnership, armed USV (Unmanned Surface Vessel) platforms being developed for the U.S. Navy will undergo live-fire testing in 2026."
-wixId: "429c95cf-dae5-42f1-80fe-d02429b820d4"
-author: "Sedat Onat"
+title: Lockheed Martin Invests $50 Million in Saildrone for Armed Autonomous Marine Platforms
+subtitle: Lockheed Martin Invests $50 Million in Saildrone for Armed Autonomous Marine Platforms
+date: '2025-10-29T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_350cd713b5674c309b5e8223dc62903d~mv2.jpg
+imageAlt: With its $50 million investment in Saildrone, Lockheed Martin aims to integrate armed systems into autonomous maritime vehicles. Under the partnership, armed USV (Unmanned Surface Vessel) platforms being developed for the U.S. Navy will undergo live-fire testing in 2026.
+wixId: 429c95cf-dae5-42f1-80fe-d02429b820d4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Lockheed Martin
+- Saildrone
+- autonomous marine vehicles
+- defense technology
+- unmanned systems
+- U.S. Navy
+- missile system
 ---
-
 <p style="text-align: justify"><strong>Lockheed Martin</strong> has announced a <strong>$50 million investment in Saildrone</strong>, marking a significant step forward in autonomous maritime technology. The investment aims to develop <strong>armed autonomous platforms for the U.S. Navy</strong> by integrating <strong>Lockheed Martin's battle-proven weapon systems</strong> into <strong>Saildrone's unmanned surface vessels (USVs)</strong>.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Project scope and objectives</strong></h5>

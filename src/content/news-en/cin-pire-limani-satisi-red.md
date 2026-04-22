@@ -1,16 +1,23 @@
 ---
-title: "China: Piraeus Port Is Not for Sale"
-subtitle: "China: Piraeus Port Is Not for Sale"
-date: "2025-11-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_37b16e322015409ebc80d7268603c2e6~mv2.jpg"
-imageAlt: "China responded to U.S. statements, confirming that Piraeus Port is not for sale and that COSCO will maintain its strategic presence at the port; the port is one of the most important container hubs at the center of Africa-Asia-Europe trade."
-wixId: "a76a96e1-544b-4169-8365-a523bd6ca679"
-author: "Sedat Onat"
+title: 'China: Piraeus Port Is Not for Sale'
+subtitle: 'China: Piraeus Port Is Not for Sale'
+date: '2025-11-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_37b16e322015409ebc80d7268603c2e6~mv2.jpg
+imageAlt: China responded to U.S. statements, confirming that Piraeus Port is not for sale and that COSCO will maintain its strategic presence at the port; the port is one of the most important container hubs at the center of Africa-Asia-Europe trade.
+wixId: a76a96e1-544b-4169-8365-a523bd6ca679
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Piraeus Port
+- COSCO Shipping
+- China
+- Greece
+- Belt and Road Initiative
+- port management
+- geopolitics
 ---
-
 <p style="text-align: justify">China formally clarified this week that <strong>Piraeus Port in Greece is not for sale</strong>, responding to remarks made by the U.S. Ambassador to Athens in the previous week. The statement aims to dispel speculation surrounding Piraeus Port, one of China's most strategic investments in Europe.</p>
 <p><br></p>
 <p style="text-align: justify">Piraeus Port is operated by China's state-controlled <strong>COSCO Shipping</strong> and has long been regarded as a key gateway for the "Belt and Road Initiative" to Europe. In recent years, as geopolitical competition between the United States and China has extended to European ports, diplomatic messages from Washington have intensified pressure on Athens.</p>

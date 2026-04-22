@@ -1,16 +1,23 @@
 ---
-title: "Three Serious Container Truck Bridge Strikes in Birmingham Within a Week"
-subtitle: "Three Serious Container Truck Bridge Strikes in Birmingham Within a Week"
-date: "2025-01-09T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_bf11148a16dd41ceb68456c427220b77~mv2.jpg"
-imageAlt: "Three Serious Bridge Strikes in Birmingham Within a Week"
-wixId: "d104fa4f-c3cb-4a9a-9411-de2289112965"
-author: "Sedat Onat"
+title: Three Serious Container Truck Bridge Strikes in Birmingham Within a Week
+subtitle: Three Serious Container Truck Bridge Strikes in Birmingham Within a Week
+date: '2025-01-09T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_bf11148a16dd41ceb68456c427220b77~mv2.jpg
+imageAlt: Three Serious Bridge Strikes in Birmingham Within a Week
+wixId: d104fa4f-c3cb-4a9a-9411-de2289112965
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- bridge strike
+- container truck
+- Birmingham
+- railway
+- HGV
+- Network Rail
+- logistics safety
 ---
-
 <p style="text-align: justify">On Wednesday, 7 January 2025, a railway line in Birmingham city centre was closed due to a bridge strike that could potentially have resulted in a catastrophe. The incident marked the third bridge strike in the same week, following a serious accident that occurred four days earlier. <strong>Network Rail</strong> expressed grave concern over the rising frequency of such incidents despite ongoing national awareness campaigns.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Lorry drivers are being urged to be aware of their vehicles' height, as a bridge in Birmingham was struck three times within a week. In one of these incidents, a laden container lorry overturned and fell onto an active pedestrian walkway. The bridge over <strong>Summer Road</strong> near <strong>Erdington Station</strong> in the north of the city centre was forced to close repeatedly for safety inspections.</p>

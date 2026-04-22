@@ -1,14 +1,23 @@
 ---
-title: "Panama Kanalı'nın ABD Ekonomisi İçin Önemi"
-subtitle: "Panama Kanalı'nın ABD Ekonomisi İçin Önemi"
-date: "2025-01-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5035aabb1ecd45a0b13b22eec5662c6e~mv2.jpg"
-imageAlt: "Panama Kanalı'nın ABD Ekonomisi İçin Önemi"
-wixId: "ae81cb42-c3b9-46ef-b1bf-3a82c23fb437"
-author: "Sedat Onat"
+title: Panama Kanalı'nın ABD Ekonomisi İçin Önemi
+subtitle: Panama Kanalı'nın ABD Ekonomisi İçin Önemi
+date: '2025-01-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5035aabb1ecd45a0b13b22eec5662c6e~mv2.jpg
+imageAlt: Panama Kanalı'nın ABD Ekonomisi İçin Önemi
+wixId: ae81cb42-c3b9-46ef-b1bf-3a82c23fb437
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Panama Kanalı
+- FMC
+- ABD ekonomisi
+- konteyner trafiği
+- deniz ticareti
+- Süveyş Kanalı
+- küresel ticaret
+- tedarik zinciri
 ---
 <p style="text-align: justify"><strong>Federal Maritime Commission (FMC)</strong> Başkanı <strong>Louis E. Sola</strong> ve Komiser <strong>Daniel B. Maffei</strong>, <strong>28 Ocak 2025</strong> tarihinde <strong>ABD Senatosu Ticaret, Bilim ve Ulaştırma Komitesi</strong> önünde <strong>Panama Kanalı</strong>'nın işletimi, kontrolü ve kullanım maliyeti hakkında önemli açıklamalarda bulundu.&nbsp;</p>
 <p><br></p>

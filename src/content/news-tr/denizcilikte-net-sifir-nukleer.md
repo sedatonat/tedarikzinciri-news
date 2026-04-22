@@ -1,14 +1,22 @@
 ---
-title: "Denizcilikte Net Sıfır İçin Nükleer Enerji Şart"
-subtitle: "Denizcilikte Net Sıfır İçin Nükleer Enerji Şart"
-date: "2025-02-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_adc34ea517b745f89b239c36e62f66f7~mv2.jpg"
-imageAlt: "Denizcilikte Net Sıfır İçin Nükleer Enerji Şart"
-wixId: "7fe42f20-eacb-4b08-8108-4bc726979e54"
-author: "Sedat Onat"
+title: Denizcilikte Net Sıfır İçin Nükleer Enerji Şart
+subtitle: Denizcilikte Net Sıfır İçin Nükleer Enerji Şart
+date: '2025-02-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_adc34ea517b745f89b239c36e62f66f7~mv2.jpg
+imageAlt: Denizcilikte Net Sıfır İçin Nükleer Enerji Şart
+wixId: 7fe42f20-eacb-4b08-8108-4bc726979e54
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- nükleer enerji
+- denizcilik
+- net sıfır emisyon
+- ABS
+- yeşil yakıt
+- gemi operasyonları
+- karbon azaltımı
 ---
 <p style="text-align: justify">Denizcilik sektörünün 2050 yılına kadar net sıfır emisyon hedefine ulaşabilmesi için <strong>nükleer enerji</strong>nin entegrasyonu kritik bir öneme sahip. <strong>American Bureau of Shipping (ABS)</strong> Başkanı ve CEO'su <strong>Christopher J. Wiernicki</strong>, <strong>Core Power</strong> tarafından düzenlenen "New Nuclear for Maritime Houston Summit" etkinliğinde yaptığı konuşmada, yeni nükleer teknolojilerin küresel karbon azaltımı için çözüm sunduğunu ve ticari deniz taşımacılığında önemli bir değişim yarattığını belirtti.&nbsp;</p>
 <p style="text-align: justify"><br></p>

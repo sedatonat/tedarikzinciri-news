@@ -1,16 +1,24 @@
 ---
-title: "Flexport Sells Convoy Technology Unit"
-subtitle: "Flexport Sells Convoy Technology Unit"
-date: "2025-08-15T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_733fb10386144c268711aaa6ec2650e2~mv2.png"
-imageAlt: "Flexport Sells Convoy Technology Unit"
-wixId: "cd52f29d-bf0b-4c84-87a4-b1fe121a192e"
-author: "Sedat Onat"
+title: Flexport Sells Convoy Technology Unit
+subtitle: Flexport Sells Convoy Technology Unit
+date: '2025-08-15T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_733fb10386144c268711aaa6ec2650e2~mv2.png
+imageAlt: Flexport Sells Convoy Technology Unit
+wixId: cd52f29d-bf0b-4c84-87a4-b1fe121a192e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Flexport
+- Convoy
+- digital freight brokerage
+- TMS
+- WMS
+- portfolio simplification
+- carrier marketplace
+- consolidation
 ---
-
 <p style="text-align: justify"><strong>Flexport</strong> is streamlining its portfolio by <strong>divesting its Convoy technology unit</strong> as part of a strategic restructuring. This move is directly aligned with the company's objectives to <strong>improve capital efficiency</strong>, <strong>focus on core logistics-customs-transportation integration</strong>, and achieve <strong>operational simplicity</strong>. Through this action, Flexport aims to direct stronger capital and management focus toward its core business areas in the rapidly evolving digital freight market.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">From a market dynamics perspective, the <strong>consolidation trend</strong> in the <strong>digital freight brokerage</strong> segment has gained significant momentum. In the sector, data access, customer base, and algorithmic pricing capabilities are increasingly concentrated in the hands of a small number of strong players. Flexport's sale of its Convoy unit is viewed as a natural reflection of this trend.</p>

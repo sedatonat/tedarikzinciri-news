@@ -1,16 +1,24 @@
 ---
-title: "PayCargo and Gnosis Freight Develop Container Payment Portal for Hapag-Lloyd"
-subtitle: "PayCargo and Gnosis Freight Develop Container Payment Portal for Hapag-Lloyd"
-date: "2025-03-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5384ce62dc5549968ecf4840fd0c8bf6~mv2.png"
-imageAlt: "PayCargo and Gnosis Freight Develop Container Payment Portal for Hapag-Lloyd"
-wixId: "85efd2e5-d2da-4b46-a3cb-1886e6c4c3ce"
-author: "Sedat Onat"
+title: PayCargo and Gnosis Freight Develop Container Payment Portal for Hapag-Lloyd
+subtitle: PayCargo and Gnosis Freight Develop Container Payment Portal for Hapag-Lloyd
+date: '2025-03-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5384ce62dc5549968ecf4840fd0c8bf6~mv2.png
+imageAlt: PayCargo and Gnosis Freight Develop Container Payment Portal for Hapag-Lloyd
+wixId: 85efd2e5-d2da-4b46-a3cb-1886e6c4c3ce
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- PayCargo
+- Gnosis Freight
+- Hapag-Lloyd
+- container payment
+- digitalization
+- demurrage
+- OSRA
+- port operations
 ---
-
 <p style="text-align: justify"><strong>PayCargo</strong> and <strong>Gnosis Freight</strong> are partnering with <strong>Hapag-Lloyd</strong>, one of the world's leading container shipping companies, to launch the new <strong>Container Payment Portal</strong> (CPP). This innovative solution delivers real-time container status updates to customers, streamlines invoicing and payment processes, and enables faster container release. As a result, cargo operation efficiency is improved and container dwell times are reduced.</p>
 <p><br></p>
 <p style="text-align: justify">The <strong>Container Payment Portal</strong> serves as the primary interface for <strong>Hapag-Lloyd</strong> customers to manage compliance with the <strong>Ocean Shipping Reform Act of 2022 (OSRA)</strong> and to facilitate payment of import line demurrage fees for shipments to the United States. Powered by <strong>PayCargo</strong>'s industry-leading payment network and <strong>Gnosis Freight</strong>'s <strong>Container Lifecycle Management® Platform</strong>, the portal offers the following features:</p>

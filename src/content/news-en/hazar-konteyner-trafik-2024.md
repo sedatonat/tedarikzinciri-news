@@ -1,16 +1,24 @@
 ---
-title: "Container Traffic via Caspian Basin Ports Doubled in November 2024"
-subtitle: "Container Traffic via Caspian Basin Ports Doubled in November 2024"
-date: "2025-01-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c7c71900aba04e1d9558f4c4ec1afe2c~mv2.jpg"
-imageAlt: "Container Traffic via Caspian Basin Ports Doubled in November 2024"
-wixId: "558124e3-04c7-4c51-af68-6b71c0bbfa2a"
-author: "Sedat Onat"
+title: Container Traffic via Caspian Basin Ports Doubled in November 2024
+subtitle: Container Traffic via Caspian Basin Ports Doubled in November 2024
+date: '2025-01-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c7c71900aba04e1d9558f4c4ec1afe2c~mv2.jpg
+imageAlt: Container Traffic via Caspian Basin Ports Doubled in November 2024
+wixId: 558124e3-04c7-4c51-af68-6b71c0bbfa2a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Caspian Sea
+- container traffic
+- port
+- Belt and Road
+- Russia
+- Azerbaijan
+- Kazakhstan
+- logistics infrastructure
 ---
-
 <p style="text-align: justify">In November 2024, container traffic through ports in the <strong>Caspian Sea</strong> doubled compared to the same period in the previous year, marking a significant surge. This growth underscores the intensification of trade activities in the region and demonstrates the improved effectiveness of logistics infrastructure.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">According to a <strong>SeaNews</strong> report, container volumes transported through <strong>Caspian Basin</strong> ports in November 2024 experienced a 100% increase compared to November 2023, doubling in the process. This expansion reflects the revitalization of regional trade and the expanded capacity of logistics services.</p>

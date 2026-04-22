@@ -1,16 +1,23 @@
 ---
-title: "USPS–Amazon Contract at Risk in 2026: \"Reverse Auction\" Plan Shakes Market"
-subtitle: "USPS–Amazon Contract at Risk in 2026: \"Reverse Auction\" Plan Shakes Market"
-date: "2025-12-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2153bd8995d44a9bb809318e81b64706~mv2.jpg"
-imageAlt: "USPS Amazon contract 2026 renewal process with reverse auction plan, USPS financial pressures, Amazon operational risk assessment, and detailed summary of impacts on the U.S. parcel delivery ecosystem"
-wixId: "401d1c9f-d8c0-4d7f-ba81-2f48c2614bef"
-author: "Sedat Onat"
+title: 'USPS–Amazon Contract at Risk in 2026: "Reverse Auction" Plan Shakes Market'
+subtitle: 'USPS–Amazon Contract at Risk in 2026: "Reverse Auction" Plan Shakes Market'
+date: '2025-12-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2153bd8995d44a9bb809318e81b64706~mv2.jpg
+imageAlt: USPS Amazon contract 2026 renewal process with reverse auction plan, USPS financial pressures, Amazon operational risk assessment, and detailed summary of impacts on the U.S. parcel delivery ecosystem
+wixId: 401d1c9f-d8c0-4d7f-ba81-2f48c2614bef
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- USPS
+- Amazon
+- reverse auction
+- parcel delivery
+- last mile logistics
+- UPS
+- contract renewal
 ---
-
 <p style="text-align: justify">One of the most critical commercial relationships in the U.S. parcel delivery sector, the <strong>USPS–Amazon contract</strong>, is mired in serious uncertainty as of December 2025. The current agreement expires in <strong>October 2026</strong>; however, reports that USPS Postmaster General <strong>David Steiner</strong> wants to conduct a <strong>reverse auction</strong> early in 2026 have galvanized both Amazon and the broader shipping industry. According to Washington Post reporting, USPS is considering a model that would grant <strong>access to postal facilities to the companies bidding highest</strong>, replacing Amazon's current privileged access. If implemented, Amazon would need to compete with <strong>national retail brands</strong> and new regional carriers, despite being USPS's largest customer.</p>
 <p><br></p>
 <p style="text-align: justify">The move comes as a surprise, as Amazon noted it has been in contract renewal discussions with USPS for nearly <strong>a year</strong>, and the change in direction adds uncertainty to its distribution network. Amazon's statement reads:</p>

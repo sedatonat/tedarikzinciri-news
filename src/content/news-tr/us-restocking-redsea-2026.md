@@ -1,14 +1,23 @@
 ---
-title: "2026 İçin İki Büyük Belirsizlik: ABD Restocking Dalgası ve Kızıldeniz’e Dönüş"
-subtitle: "2026 İçin İki Büyük Belirsizlik: ABD Restocking Dalgası ve Kızıldeniz’e Dönüş"
-date: "2025-11-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_422afbe89af644f98ed070ae7cf4aba7~mv2.jpg"
-imageAlt: "Hapag-Lloyd CEO’su Rolf Habben Jansen, 2026’da konteyner taşımacılığını şekillendirecek iki kritik değişkeni vurguluyor: ABD’de stok yenileme dalgasının ne zaman başlayacağı ve Kızıldeniz–Süveyş geçişlerinin yeniden açılmasıyla küresel rotaların nasıl etkileneceği."
-wixId: "70b0cb76-90f9-4520-b7c6-3fc2691da3c4"
-author: "Sedat Onat"
+title: '2026 İçin İki Büyük Belirsizlik: ABD Restocking Dalgası ve Kızıldeniz’e Dönüş'
+subtitle: '2026 İçin İki Büyük Belirsizlik: ABD Restocking Dalgası ve Kızıldeniz’e Dönüş'
+date: '2025-11-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_422afbe89af644f98ed070ae7cf4aba7~mv2.jpg
+imageAlt: 'Hapag-Lloyd CEO’su Rolf Habben Jansen, 2026’da konteyner taşımacılığını şekillendirecek iki kritik değişkeni vurguluyor: ABD’de stok yenileme dalgasının ne zaman başlayacağı ve Kızıldeniz–Süveyş geçişlerinin yeniden açılmasıyla küresel rotaların nasıl etkileneceği.'
+wixId: 70b0cb76-90f9-4520-b7c6-3fc2691da3c4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- konteyner taşımacılığı
+- Kızıldeniz
+- Süveyş Kanalı
+- restocking
+- Hapag-Lloyd
+- navlun fiyatları
+- ABD
+- '2026'
 ---
 <p style="text-align: justify">Küresel konteyner taşımacılığında 2026’ya yaklaşılırken, sektör uzmanları iki büyük bilinmez üzerinde duruyor: <strong>ABD’de potansiyel stok yenileme (restocking) dalgası</strong> ve <strong>Kızıldeniz–Süveyş Kanalı rotasına dönüşün zamanlaması</strong>. Bu iki dinamik, kapasite yönetiminden navlun fiyatlarına kadar tüm küresel ağ üzerinde belirleyici olacak.</p>
 <p><br></p>

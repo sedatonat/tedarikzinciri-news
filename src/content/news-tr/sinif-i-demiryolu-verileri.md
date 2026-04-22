@@ -1,13 +1,22 @@
 ---
-title: "Sınıf 1 Demiryollarının Hız, Bekleme Süresi ve Vagon İzleme Verileri"
-subtitle: "Sınıf 1 Demiryollarının Hız, Bekleme Süresi ve Vagon İzleme Verileri"
-date: "2025-03-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a2a531c6fca749bca9332b9573dc729e~mv2.jpg"
-wixId: "00226226-ec5a-4fbe-8df6-a553e38d0c58"
-author: "Sedat Onat"
+title: Sınıf 1 Demiryollarının Hız, Bekleme Süresi ve Vagon İzleme Verileri
+subtitle: Sınıf 1 Demiryollarının Hız, Bekleme Süresi ve Vagon İzleme Verileri
+date: '2025-03-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a2a531c6fca749bca9332b9573dc729e~mv2.jpg
+wixId: 00226226-ec5a-4fbe-8df6-a553e38d0c58
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- demiryolu taşımacılığı
+- STB
+- tren hızı
+- terminal bekleme süresi
+- vagon izleme
+- Sınıf 1 demiryolları
+- performans metrikleri
+- lojistik verimliliği
 ---
 <p style="text-align: justify">Sınıf I demiryolu şirketlerinin performansını değerlendirmek için kullanılan temel göstergeler arasında tren hızı, terminal bekleme süresi ve çevrimiçi vagon sayısı bulunmakta. Bu metrikler, demiryolu taşımacılığının verimliliği ve hizmet kalitesi üzerinde doğrudan etkiye sahip. <a href="https://www.stb.gov/"><u><strong>Surface Transportation Board (STB)</strong></u></a>, bu verileri haftalık olarak kamuoyuna sunmakta ve <strong>Supply Chain Dive</strong> tarafından hazırlanan bir gösterge panosu, bu verileri daha erişilebilir ve anlaşılır hale getirmekte.​</p>
 <p><br></p>

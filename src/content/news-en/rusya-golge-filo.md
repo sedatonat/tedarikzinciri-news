@@ -1,16 +1,24 @@
 ---
-title: "Russia's \"Shadow Fleet\" and Soft Sanctions: Risks Mount as Oil Flows Continue"
-subtitle: "Russia's \"Shadow Fleet\" and Soft Sanctions: Risks Mount as Oil Flows Continue"
-date: "2025-11-21T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_581637a0957f4b5789e0146304ab702c~mv2.jpg"
-imageAlt: "Detailed news summary explaining the \"soft\" application of sanctions against Russian energy giants by end of 2025, the shadow fleet mechanism transporting Russian oil, false flag operations, STS transfers, and its impact on global supply chain risks"
-wixId: "8b24516a-d9d8-48f4-b7c4-00a10fc143aa"
-author: "Sedat Onat"
+title: 'Russia''s "Shadow Fleet" and Soft Sanctions: Risks Mount as Oil Flows Continue'
+subtitle: 'Russia''s "Shadow Fleet" and Soft Sanctions: Risks Mount as Oil Flows Continue'
+date: '2025-11-21T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_581637a0957f4b5789e0146304ab702c~mv2.jpg
+imageAlt: Detailed news summary explaining the "soft" application of sanctions against Russian energy giants by end of 2025, the shadow fleet mechanism transporting Russian oil, false flag operations, STS transfers, and its impact on global supply chain risks
+wixId: 8b24516a-d9d8-48f4-b7c4-00a10fc143aa
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Shadow Fleet
+- Russia
+- oil tanker
+- sanctions
+- Lukoil
+- AIS shutdown
+- maritime safety
+- G7 price cap
 ---
-
 <p style="text-align: justify">In October 2025, the US and EU announced fresh sanctions against major Russian energy companies, notably <strong>Lukoil</strong>. The official rhetoric is stern, the list lengthy; yet on the ground, a different picture emerges. While Washington and Brussels keep sanctions targeting Russian oil tight on paper, in practice they are deliberately <strong>applying them loosely</strong>. The core aim is to curtail Russian oil flows without cutting them entirely, thereby maintaining control over global prices and inflation, while simultaneously sustaining the political message of "imposing sanctions."</p>
 <p><br></p>
 <p style="text-align: justify">At the centre of this grey zone lies a concept frequently cited in 2025's maritime literature: the <strong>"Shadow Fleet."</strong> This fleet comprises hundreds of tankers, mostly <strong>older than 15 years</strong>, with questionable technical condition, partially disconnected from Western financial and insurance systems. Their mission: to circumvent the <strong>G7 price cap</strong> mechanism and transport Russian oil to Asian and other markets.</p>

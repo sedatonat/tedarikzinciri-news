@@ -1,16 +1,24 @@
 ---
-title: "DP World Opens New Supply Chain Routes for Turkish Automotive Industry"
-subtitle: "DP World Opens New Supply Chain Routes for Turkish Automotive Industry"
-date: "2024-05-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_049756a29ff34e5eace94912ff20bdd3~mv2.jpg"
-imageAlt: "DP World Opens New Supply Chain Routes for Turkish Automotive Industry"
-wixId: "29c2e144-fc47-4a87-aa84-49d415a3648c"
-author: "Sedat Onat"
+title: DP World Opens New Supply Chain Routes for Turkish Automotive Industry
+subtitle: DP World Opens New Supply Chain Routes for Turkish Automotive Industry
+date: '2024-05-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_049756a29ff34e5eace94912ff20bdd3~mv2.jpg
+imageAlt: DP World Opens New Supply Chain Routes for Turkish Automotive Industry
+wixId: 29c2e144-fc47-4a87-aa84-49d415a3648c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- DP World
+- automotive industry
+- supply chain
+- Red Sea
+- rail transport
+- Turkey
+- China
+- raw materials
 ---
-
 <p>DP World has established new routes designed to alleviate raw material shortages faced by Turkish importers, particularly in the automotive sector. Turkey has emerged as a production hub in recent years, especially in automotive manufacturing, and has become heavily dependent on essential raw materials such as steel and chemicals sourced from China. However, disruptions in the Red Sea have caused significant delays in Turkish imports and exports.</p>
 <p><br></p>
 <p>To overcome the challenges posed by Red Sea disruptions, DP World noted that transit times have increased from 25 days to 60 days by using a new route via South Africa. This situation has adversely affected the availability and predictability of critical supplies for the automotive industry. In collaboration with a long-standing partner, DP World has identified a previously underutilized Chinese railway service to find a solution. This route begins in China, passes through Central Asia to the city of Baku in Azerbaijan, and from there goods are imported into Turkey.</p>

@@ -1,16 +1,24 @@
 ---
-title: "Walmart to Use RFID Labels to Track Fresh Food Inventory"
-subtitle: "Walmart to Use RFID Labels to Track Fresh Food Inventory"
-date: "2025-11-03T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_5c2cecf8cefc4b86a578963973d0cbb9~mv2.jpg"
-imageAlt: "Walmart is partnering with Avery Dennison to deploy RFID technology on meat, bakery, and deli products. The system aims to reduce food waste and provide customers with fresher products by tracking fresh food inventory through digital expiration dates."
-wixId: "4d018c21-2bf1-4ef2-8e50-53d8d4926e77"
-author: "Sedat Onat"
+title: Walmart to Use RFID Labels to Track Fresh Food Inventory
+subtitle: Walmart to Use RFID Labels to Track Fresh Food Inventory
+date: '2025-11-03T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_5c2cecf8cefc4b86a578963973d0cbb9~mv2.jpg
+imageAlt: Walmart is partnering with Avery Dennison to deploy RFID technology on meat, bakery, and deli products. The system aims to reduce food waste and provide customers with fresher products by tracking fresh food inventory through digital expiration dates.
+wixId: 4d018c21-2bf1-4ef2-8e50-53d8d4926e77
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- RFID
+- Walmart
+- fresh food
+- food waste
+- inventory management
+- Avery Dennison
+- sustainability
+- supply chain digitalization
 ---
-
 <p style="text-align: justify"><strong>Walmart</strong> is implementing <strong>RFID (Radio Frequency Identification)</strong> technology in its fresh food supply chain to increase efficiency and reduce food waste. The company announced a strategic partnership with <strong>technology provider Avery Dennison</strong> to support the initiative.</p>
 <p><br></p>
 <p style="text-align: justify">The new system will use <strong>RFID labels</strong>, particularly on <strong>meat, bakery, and deli products</strong>, to enable <strong>freshness tracking</strong> through <strong>digital expiration dates</strong> on products.</p>

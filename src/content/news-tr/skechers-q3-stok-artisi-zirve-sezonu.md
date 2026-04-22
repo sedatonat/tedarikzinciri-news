@@ -1,14 +1,22 @@
 ---
-title: "Skechers’in Q3 Stok Artışı Zirve Sezonuna Gölge Düşürmüyor"
-subtitle: "Skechers’in Q3 Stok Artışı Zirve Sezonuna Gölge Düşürmüyor"
-date: "2024-11-04T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_c8ffe2a018a1452dbde1dd7aac979770~mv2.jpg"
-imageAlt: "Skechers’in Q3 Stok Artışı Zirve Sezonuna Gölge Düşürmüyo"
-wixId: "3dc2e10a-6220-4d9d-8963-875221c96b76"
-author: "Sedat Onat"
+title: Skechers’in Q3 Stok Artışı Zirve Sezonuna Gölge Düşürmüyor
+subtitle: Skechers’in Q3 Stok Artışı Zirve Sezonuna Gölge Düşürmüyor
+date: '2024-11-04T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_c8ffe2a018a1452dbde1dd7aac979770~mv2.jpg
+imageAlt: Skechers’in Q3 Stok Artışı Zirve Sezonuna Gölge Düşürmüyo
+wixId: 3dc2e10a-6220-4d9d-8963-875221c96b76
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Skechers
+- envanter yönetimi
+- stok artışı
+- Çin
+- Singles' Day
+- perakende sektörü
+- zirve sezonu
 ---
 <p>Skechers, 2024 üçüncü çeyreğinde envanterinde yıllık bazda %24 artış kaydettiğini açıkladı. Şirketin bu artışının başlıca nedeni Çin’deki yüksek stok seviyeleri ve nakliye aşamasındaki ürünler olarak belirtildi. Ancak, Skechers yöneticileri, artan stok miktarının zirve sezonu beklentilerini olumsuz etkilemediğini ifade etti.</p>
 <p><br></p>

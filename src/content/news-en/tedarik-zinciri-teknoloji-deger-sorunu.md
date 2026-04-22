@@ -1,16 +1,23 @@
 ---
-title: "Investing in Supply Chain Technologies: Why Expected Value Falls Short"
-subtitle: "Investing in Supply Chain Technologies: Why Expected Value Falls Short"
-date: "2024-08-15T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_f1a82425436d4d81b03bfc7d33b75ff7~mv2.jpg"
-imageAlt: "Investing in Supply Chain Technologies: Why Expected Value Falls Short"
-wixId: "9ace5ade-460a-4563-8296-6053049162e2"
-author: "Sedat Onat"
+title: 'Investing in Supply Chain Technologies: Why Expected Value Falls Short'
+subtitle: 'Investing in Supply Chain Technologies: Why Expected Value Falls Short'
+date: '2024-08-15T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_f1a82425436d4d81b03bfc7d33b75ff7~mv2.jpg
+imageAlt: 'Investing in Supply Chain Technologies: Why Expected Value Falls Short'
+wixId: 9ace5ade-460a-4563-8296-6053049162e2
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- supply chain technology
+- digital transformation
+- change management
+- technology investment
+- PwC
+- continuous improvement
+- digital capability
 ---
-
 <p>Following the 2020 pandemic, companies made substantial investments in supply chain technologies. However, according to a PwC survey, most companies are not realizing the results they expected from these investments. The issue lies not in the technologies themselves, but in inadequate change management and the implementation of technologies in alignment with strategic objectives. Companies should direct their investments toward the right technologies, develop their workforce, and establish continuous improvement processes.</p>
 <p><br></p>
 <h5>Key Points:</h5>

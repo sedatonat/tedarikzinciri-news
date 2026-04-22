@@ -1,14 +1,23 @@
 ---
-title: "Ukrayna İlk ABD LNG Sevkiyatını Aldı"
-subtitle: "Ukrayna İlk ABD LNG Sevkiyatını Aldı"
-date: "2024-12-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_1347b84e0e034f0ab4053178d25f3d05~mv2.jpg"
-imageAlt: "Ukrayna İlk ABD LNG Sevkiyatını Aldı"
-wixId: "2fd1ff03-58d2-47c7-b267-b7938da986bf"
-author: "Sedat Onat"
+title: Ukrayna İlk ABD LNG Sevkiyatını Aldı
+subtitle: Ukrayna İlk ABD LNG Sevkiyatını Aldı
+date: '2024-12-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_1347b84e0e034f0ab4053178d25f3d05~mv2.jpg
+imageAlt: Ukrayna İlk ABD LNG Sevkiyatını Aldı
+wixId: 2fd1ff03-58d2-47c7-b267-b7938da986bf
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- LNG
+- Ukrayna
+- ABD
+- DTEK
+- Venture Global
+- enerji güvenliği
+- doğal gaz
+- Rusya
 ---
 <p>Ukrayna, tarihinde ilk kez <strong>ABD</strong>'den sıvılaştırılmış doğal gaz (<strong>LNG</strong>) sevkiyatı aldı. Bu sevkiyat, Ukrayna'nın en büyük özel enerji şirketi <strong>DTEK</strong> tarafından Yunanistan'daki bir LNG terminali aracılığıyla gerçekleştirildi.</p>
 <p><br></p>

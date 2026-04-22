@@ -1,14 +1,22 @@
 ---
-title: "Moda Perakendesi, Artan “Shrink” Sorununa RFID Teknolojisiyle Karşılık Veriyor"
-subtitle: "Moda Perakendesi, Artan “Shrink” Sorununa RFID Teknolojisiyle Karşılık Veriyor"
-date: "2025-11-24T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_f40b5b84c889409fbe0921e5b234b5e2~mv2.jpg"
-imageAlt: "Moda perakendecilerinde hızla büyüyen shrink kayıplarının nedenleri, tedarik zinciri boyunca artan görünürlük sorunları ve RFID teknolojisinin envanter doğruluğu ile hırsızlıkla mücadelede oynadığı rolün detaylı özeti"
-wixId: "2d129001-cdbe-4050-bd85-79d41c7c0993"
-author: "Sedat Onat"
+title: Moda Perakendesi, Artan “Shrink” Sorununa RFID Teknolojisiyle Karşılık Veriyor
+subtitle: Moda Perakendesi, Artan “Shrink” Sorununa RFID Teknolojisiyle Karşılık Veriyor
+date: '2025-11-24T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_f40b5b84c889409fbe0921e5b234b5e2~mv2.jpg
+imageAlt: Moda perakendecilerinde hızla büyüyen shrink kayıplarının nedenleri, tedarik zinciri boyunca artan görünürlük sorunları ve RFID teknolojisinin envanter doğruluğu ile hırsızlıkla mücadelede oynadığı rolün detaylı özeti
+wixId: 2d129001-cdbe-4050-bd85-79d41c7c0993
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- RFID
+- moda perakendesi
+- shrink
+- stok kaybı
+- envanter yönetimi
+- hırsızlık
+- tedarik zinciri görünürlüğü
 ---
 <p style="text-align: justify">Moda perakendesi, son yıllarda hızla büyüyen <strong>shrink</strong> problemiyle karşı karşıya kalmakta. <strong>SupplyChainBrain</strong>’de yer alan analize göre, stok kayıpları artık yalnızca mağaza içi hırsızlıkla sınırlı değil; üretimden depoya, mağaza arkasından e-ticarete uzanan tüm tedarik zinciri boyunca sistemik bir sorun hâline gelmiş durumda. <strong>National Retail Federation (NRF)</strong> verileri, 2019–2023 döneminde <strong>shoplifting vakalarının %93 arttığını</strong>, buna bağlı olarak maddi kayıpların <strong>%90 yükseldiğini</strong> ortaya koyuyor. Toplam shrink kaybının yıllık bazda <strong>yaklaşık 100 milyar USD</strong> seviyesine ulaştığı tahmin edilmekte.</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "Latvia-Sweden Fiber Optic Cable in Baltic Sea Damaged by External Interference"
-subtitle: "Latvia-Sweden Fiber Optic Cable in Baltic Sea Damaged by External Interference"
-date: "2025-02-26T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_0afcc0530e4e49528cb9416c72ffd991~mv2.jpg"
-imageAlt: "Latvia-Sweden Fiber Optic Cable in Baltic Sea Damaged by External Interference"
-wixId: "9df87b86-71f5-4a41-a1d5-89ddcdf7a7bd"
-author: "Sedat Onat"
+title: Latvia-Sweden Fiber Optic Cable in Baltic Sea Damaged by External Interference
+subtitle: Latvia-Sweden Fiber Optic Cable in Baltic Sea Damaged by External Interference
+date: '2025-02-26T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_0afcc0530e4e49528cb9416c72ffd991~mv2.jpg
+imageAlt: Latvia-Sweden Fiber Optic Cable in Baltic Sea Damaged by External Interference
+wixId: 9df87b86-71f5-4a41-a1d5-89ddcdf7a7bd
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- fiber optic cable
+- Baltic Sea
+- NATO
+- critical infrastructure
+- submarine cable
+- Latvia
+- Sweden
 ---
-
 <p style="text-align: justify">On January 26, 2025, an undersea fiber optic cable between <strong>Latvia</strong> and <strong>Sweden</strong> in the Baltic Sea was damaged due to external interference, according to reports. <strong>Latvian Prime Minister Evika Silina</strong> stated following an extraordinary government meeting that the damage was likely caused by external factors and was of considerable significance.</p>
 <p><br></p>
 <p style="text-align: justify">In response to the incident, the <strong>Latvian Navy</strong> dispatched a patrol boat to examine a vessel suspected of being connected to the incident. Additionally, two other vessels in the area have been brought into the investigation. <strong>Latvia</strong> is working in coordination with <strong>NATO</strong> and other countries in the Baltic Sea region to clarify the details of the incident. <strong>Prime Minister Silina</strong> stated on the <strong>X</strong> platform that the incident is being investigated together with Swedish allies and <strong>NATO</strong>.</p>

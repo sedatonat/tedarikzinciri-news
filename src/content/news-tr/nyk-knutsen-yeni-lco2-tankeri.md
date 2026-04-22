@@ -1,14 +1,22 @@
 ---
-title: "NYK ve Knutsen, Yeni Görünümlü LCO₂ Tankerini Tanıttı"
-subtitle: "NYK ve Knutsen, Yeni Görünümlü LCO₂ Tankerini Tanıttı"
-date: "2024-12-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b250f1b8cb8b45d69e9f9077f654c171~mv2.jpg"
-imageAlt: "NYK ve Knutsen, Yeni Görünümlü LCO₂ Tankerini Tanıttı"
-wixId: "11516474-a6a5-4969-9122-c69d563f8861"
-author: "Sedat Onat"
+title: NYK ve Knutsen, Yeni Görünümlü LCO₂ Tankerini Tanıttı
+subtitle: NYK ve Knutsen, Yeni Görünümlü LCO₂ Tankerini Tanıttı
+date: '2024-12-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b250f1b8cb8b45d69e9f9077f654c171~mv2.jpg
+imageAlt: NYK ve Knutsen, Yeni Görünümlü LCO₂ Tankerini Tanıttı
+wixId: 11516474-a6a5-4969-9122-c69d563f8861
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- NYK
+- Knutsen
+- LCO₂ tankeri
+- karbon dioksit taşımacılığı
+- deniz taşımacılığı
+- modüler tasarım
+- sürdürülebilirlik
 ---
 <p>Nippon Yusen Kaisha (NYK), deniz taşımacılığı sektöründe önemli bir yeniliğe imza atarak, yeni tasarımlı sıvı karbon dioksit (LCO₂) tankerini kamuoyuna sundu. NYK'nin iştiraki olan Knutsen NYK Carbon Carriers (KNCC) ile birlikte, Nihon Shipyard ile iş birliği içerisinde geliştirilen bu yeni tanker, mevcut LCO₂ gemilerine kıyasla çok daha büyük bir kapasite sunuyor. KNCC’nin sahip olduğu özel teknoloji sayesinde, yükseltilmiş basınçlı kargo tankları kullanılarak 40.000 kubik metre hacmine sahip bu tasarım, şu anda sadece 7.500 kubik metreye kadar olan mevcut LCO₂ gemilerinin kapasitesini aşmayı hedefliyor.</p>
 <p><br></p>

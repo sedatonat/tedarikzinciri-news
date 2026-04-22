@@ -1,14 +1,22 @@
 ---
-title: "ABD İmalat Sektöründe Daralma Ekim Ayında Derinleşti"
-subtitle: "ABD İmalat Sektöründe Daralma Ekim Ayında Derinleşti"
-date: "2024-11-05T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/3206646ceb6b41fa90c3f63279531957.jpg"
-imageAlt: "ABD İmalat Sektöründe Daralma Ekim Ayında Derinleşti"
-wixId: "dbc109aa-e90d-4733-92d3-1f401c582d11"
-author: "Sedat Onat"
+title: ABD İmalat Sektöründe Daralma Ekim Ayında Derinleşti
+subtitle: ABD İmalat Sektöründe Daralma Ekim Ayında Derinleşti
+date: '2024-11-05T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/3206646ceb6b41fa90c3f63279531957.jpg
+imageAlt: ABD İmalat Sektöründe Daralma Ekim Ayında Derinleşti
+wixId: dbc109aa-e90d-4733-92d3-1f401c582d11
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD
+- imalat sektörü
+- PMI
+- ISM
+- tedarik zinciri
+- enflasyon
+- üretim endeksi
 ---
 <p>Institute for Supply Management (ISM) tarafından açıklanan verilere göre, ABD'de Ekim ayı Purchasing Managers Index (PMI) 46.5 seviyesine düşerek 2024 yılının en düşük değerine ulaştı. Eylül ayındaki 47.2'lik değerden gerileyen PMI, 50 eşik değerinin altında kalarak imalat sektöründeki daralmanın sürdüğünü gösterdi.</p>
 <p>PMI, Mart ayında kısa bir süreliğine genişleme bölgesine çıksa da son yedi aydır yeniden daralma eğiliminde. ISM'e göre, 42.5'in üzerindeki bir Manufacturing PMI, genel ekonomide genişlemeye işaret etse de imalat sektöründeki bu düşüş, ekonomik büyümenin zayıfladığını gösteriyor. Nisan 2020'deki bir aylık daralmanın ardından genel ekonomi 54 aydır genişleme gösterse de imalat sektöründeki sıkıntılar devam ediyor.</p>

@@ -1,16 +1,24 @@
 ---
-title: "Fashion Brands' Battle with Customs Tariffs"
-subtitle: "Fashion Brands' Battle with Customs Tariffs"
-date: "2025-02-10T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_16428487450f44e0a15a4887284525a2~mv2.jpg"
-imageAlt: "Fashion Brands' Battle with Customs Tariffs"
-wixId: "5766e950-53e7-4a07-9e50-c596e73f20a8"
-author: "Sedat Onat"
+title: Fashion Brands' Battle with Customs Tariffs
+subtitle: Fashion Brands' Battle with Customs Tariffs
+date: '2025-02-10T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_16428487450f44e0a15a4887284525a2~mv2.jpg
+imageAlt: Fashion Brands' Battle with Customs Tariffs
+wixId: 5766e950-53e7-4a07-9e50-c596e73f20a8
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- customs tariffs
+- fashion industry
+- supply chain
+- nearshoring
+- trade policies
+- China-US
+- sustainability
+- supply chain management
 ---
-
 <p style="text-align: justify">The fashion industry faces constantly evolving customs tariffs and trade policies due to the dynamic nature of global commerce. This situation directly impacts fashion brands' supply chains and cost structures. In recent years, particularly, trade tensions between the United States and China have had significant repercussions across the fashion sector. Many brands are reassessing their strategies to cope with these challenges, as <strong>Computer Generated Solutions</strong> (CGS) President <strong>Paul Magel</strong> has noted.​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Paul Magel</strong> emphasizes that fashion brands need to be proactive in facing such trade barriers. He points out that brands must mitigate risks by diversifying their supply chains and seeking alternative production centers. In particular, other countries in Asia are being evaluated as potential alternatives for manufacturing. This strategy reduces brands' dependency on a single country, making them more flexible in adapting to sudden changes in trade policies.​</p>

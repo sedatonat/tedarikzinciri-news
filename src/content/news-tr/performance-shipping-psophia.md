@@ -1,14 +1,22 @@
 ---
-title: "Performance Shipping, FPSO Dönüşüm İhalesi Çökünce En Eski Tankerini Filoda Tutuyor"
-subtitle: "Performance Shipping, FPSO Dönüşüm İhalesi Çökünce En Eski Tankerini Filoda Tutuyor"
-date: "2025-12-08T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e3ffd9c7a99049d1818770f703e13fa0~mv2.jpg"
-imageAlt: "Performance Shipping’in 2009 yapımı aframax tankeri P Sophia için planlanan forward sale anlaşmasının FPSO dönüşüm projesine seçilememesi nedeniyle iptal olması ve şirket filosu üzerindeki etkilerin detaylı özeti"
-wixId: "6894ce0b-6c23-4aeb-ac91-37967389e4f2"
-author: "Sedat Onat"
+title: Performance Shipping, FPSO Dönüşüm İhalesi Çökünce En Eski Tankerini Filoda Tutuyor
+subtitle: Performance Shipping, FPSO Dönüşüm İhalesi Çökünce En Eski Tankerini Filoda Tutuyor
+date: '2025-12-08T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e3ffd9c7a99049d1818770f703e13fa0~mv2.jpg
+imageAlt: Performance Shipping’in 2009 yapımı aframax tankeri P Sophia için planlanan forward sale anlaşmasının FPSO dönüşüm projesine seçilememesi nedeniyle iptal olması ve şirket filosu üzerindeki etkilerin detaylı özeti
+wixId: 6894ce0b-6c23-4aeb-ac91-37967389e4f2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Performance Shipping
+- FPSO dönüşümü
+- aframax tanker
+- gemi satışı
+- offshore üretim
+- tanker filosu
+- P Sophia
 ---
 <p style="text-align: justify">Yunan tanker sahibi <strong>Performance Shipping</strong>, filosundaki en eski gemi olan <strong>2009 yapımı aframax P Sophia</strong> için yürütülen satış sürecinin sona erdiğini doğruladı. Şirketin Nisan ayında açıkladığı <strong>forward sale + exclusivity agreement</strong>, geminin bir <strong>FPSO (Floating Production Storage and Offloading)</strong> dönüşüm projesi için aday gösterilmesine bağlıydı. Ancak söz konusu proje, P Sophia’yı tercih etmedi ve böylece anlaşma otomatik olarak feshedildi.</p>
 <p><br></p>

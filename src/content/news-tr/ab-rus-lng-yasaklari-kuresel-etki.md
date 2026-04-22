@@ -1,14 +1,22 @@
 ---
-title: "AB'nin Rus LNG Yasaklarının Küresel Gaz Piyasasına Etkileri"
-subtitle: "AB'nin Rus LNG Yasaklarının Küresel Gaz Piyasasına Etkileri"
-date: "2024-05-14T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_227edfe2248445eca4f65181c66adf34~mv2.jpg"
-imageAlt: "AB'nin Rus LNG Yasaklarının Küresel Gaz Piyasasına Etkileri"
-wixId: "1b2fe02d-fcb8-4167-8329-f7e448809d82"
-author: "Sedat Onat"
+title: AB'nin Rus LNG Yasaklarının Küresel Gaz Piyasasına Etkileri
+subtitle: AB'nin Rus LNG Yasaklarının Küresel Gaz Piyasasına Etkileri
+date: '2024-05-14T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_227edfe2248445eca4f65181c66adf34~mv2.jpg
+imageAlt: AB'nin Rus LNG Yasaklarının Küresel Gaz Piyasasına Etkileri
+wixId: 1b2fe02d-fcb8-4167-8329-f7e448809d82
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Avrupa Birliği
+- LNG
+- Rusya yaptırımları
+- gaz piyasası
+- liman operasyonları
+- Yamal LNG
+- yeniden ihracat
 ---
 <p>Avrupa Birliği'nin (AB) Rusya'dan gelen sıvılaştırılmış doğal gaz (LNG) ithalatını yeniden ihraç etmek için AB limanlarının kullanımını yasaklama planı, Rusya'nın fosil yakıt gelirlerini kısmak için yeni bir adım olarak değerlendiriliyor. Bu yasak, özellikle Arktik yakıtları için Avrupa üzerinden Asya'ya gönderim yapılmasını zorlaştırarak Rusya'nın Novatek PJSC şirketinin LNG taşımacılığına önemli engeller getirecek. Avrupa'da Rus LNG ithalatı artmış olsa da, bu hamle Asya'daki büyük alıcıları, örneğin Çin ve Hindistan'ı rahatsız edebilir. AB'nin bu kararı, lojistik firmaları ve siyasi anlamda bazı zorluklara neden olabilir.</p>
 <p><br></p>

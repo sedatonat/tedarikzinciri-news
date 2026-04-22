@@ -1,16 +1,24 @@
 ---
-title: "GMS: Ship Recycling Market Contracts Amid Weak Steel Prices and Currency Pressure"
-subtitle: "GMS: Ship Recycling Market Contracts Amid Weak Steel Prices and Currency Pressure"
-date: "2025-11-25T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b106a8fd44144652a44cd84fca4a0213~mv2.jpg"
-imageAlt: "GMS Week 47 update provides a comprehensive news summary explaining how global ship recycling markets are struggling due to weak steel prices, foreign exchange volatility, sanctions pressure, and low tonnage flows"
-wixId: "c4ec2976-6aab-44fb-a266-1b5e3a81ed5e"
-author: "Sedat Onat"
+title: 'GMS: Ship Recycling Market Contracts Amid Weak Steel Prices and Currency Pressure'
+subtitle: 'GMS: Ship Recycling Market Contracts Amid Weak Steel Prices and Currency Pressure'
+date: '2025-11-25T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b106a8fd44144652a44cd84fca4a0213~mv2.jpg
+imageAlt: GMS Week 47 update provides a comprehensive news summary explaining how global ship recycling markets are struggling due to weak steel prices, foreign exchange volatility, sanctions pressure, and low tonnage flows
+wixId: c4ec2976-6aab-44fb-a266-1b5e3a81ed5e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- ship recycling
+- steel prices
+- GMS
+- Bangladesh
+- Pakistan
+- HKC
+- shadow fleet
+- exchange rate
 ---
-
 <p style="text-align: justify">Global ship recycling markets are navigating yet another challenging week as 2025 draws to a close, according to the <strong>GMS Weekly Podcast – Forums and Frictions (Week 47)</strong> update. Deteriorating macroeconomic indicators combined with regional imbalances are exerting marked pressure on recycling hubs in South Asia and Turkey. <strong>GMS (Global Marketing Systems)</strong>, one of the world's largest ship recycling brokers, reports that weakening steel prices, currency fluctuations, sanctions-related risks, and constrained tonnage supply are creating a squeeze on the market.</p>
 <p><br></p>
 <p style="text-align: justify">As the final week of November approaches, <strong>oil futures</strong> have retreated to approximately <strong>USD 57.7</strong>, signaling declines both over the past month and year-to-date. The <strong>freight market</strong> remains active in certain segments but continues to trade well below last year's levels. Notably, <strong>steel plate prices</strong> are declining in Bangladesh and Pakistan, putting pressure on recycling facility margins.</p>

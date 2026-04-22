@@ -1,14 +1,23 @@
 ---
-title: "Valenciaport, Yeni Çevresel Stratejisini Tanıttı: Odakta Net Sıfır, Yeşil Koridorlar ve Hidrojen"
-subtitle: "Valenciaport, Yeni Çevresel Stratejisini Tanıttı: Odakta Net Sıfır, Yeşil Koridorlar ve Hidrojen"
-date: "2025-11-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_69951156436a41f58649b848cbbb2cf8~mv2.jpeg"
-imageAlt: "Valenciaport, Ecofira 2025’te açıkladığı yeni çevre stratejisinde Net Zero Planı, yenilenebilir enerji, shore-power (OPS), alternatif yakıtlar, yeşil koridorlar ve Sagunto’daki Hydrogen Valley projeleriyle iklim uyumu ve sürdürülebilir liman hedefini güçlendirdi."
-wixId: "f140dcdf-9427-4b60-84e5-8bada075bc78"
-author: "Sedat Onat"
+title: 'Valenciaport, Yeni Çevresel Stratejisini Tanıttı: Odakta Net Sıfır, Yeşil Koridorlar ve Hidrojen'
+subtitle: 'Valenciaport, Yeni Çevresel Stratejisini Tanıttı: Odakta Net Sıfır, Yeşil Koridorlar ve Hidrojen'
+date: '2025-11-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_69951156436a41f58649b848cbbb2cf8~mv2.jpeg
+imageAlt: Valenciaport, Ecofira 2025’te açıkladığı yeni çevre stratejisinde Net Zero Planı, yenilenebilir enerji, shore-power (OPS), alternatif yakıtlar, yeşil koridorlar ve Sagunto’daki Hydrogen Valley projeleriyle iklim uyumu ve sürdürülebilir liman hedefini güçlendirdi.
+wixId: f140dcdf-9427-4b60-84e5-8bada075bc78
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Valenciaport
+- net sıfır
+- yeşil koridorlar
+- hidrojen
+- karbonsuzlaşma
+- OPS
+- sürdürülebilirlik
+- 5G
 ---
 <p style="text-align: justify">Valenciaport, Ecofira Environmental Solutions Fair kapsamında yeni <strong>çevresel stratejisini</strong> kamuoyuna duyurdu. Port Authority of Valencia (APV) tarafından yürütülen sürdürülebilirlik girişimlerinin merkezinde <strong>karbonsuzlaşma</strong>, <strong>iklim dayanıklılığı</strong> ve <strong>iklim değişikliğiyle mücadele</strong> bulunmakta. Strateji, limanın uzun vadeli dönüşüm planını şekillendiren <strong>Net Zero Planı</strong> ile uyumlu bir çerçeve sunmakta.</p>
 <p><br></p>

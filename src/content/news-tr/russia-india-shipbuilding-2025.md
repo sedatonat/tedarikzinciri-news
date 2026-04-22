@@ -1,14 +1,23 @@
 ---
-title: "Rusya, Hindistan’a Buz Sınıfı ve Yeşil Gemi İnşasında Stratejik İş Birliği Teklif Etti"
-subtitle: "Rusya, Hindistan’a Buz Sınıfı ve Yeşil Gemi İnşasında Stratejik İş Birliği Teklif Etti"
-date: "2025-11-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/nsplsh_025e4b30a3bb45d49eea6c105c93e29d~mv2.jpg"
-imageAlt: "Rusya, Hindistan’a buz sınıfı gemiler, balıkçı ve yolcu gemisi tasarımları, yeşil gemi inşası, Ar-Ge, mürettebat eğitimi ve Mumbai/Chennai’de ortak tersane kümeleri kurulması dahil geniş kapsamlı bir gemi inşa iş birliği paketi sundu."
-wixId: "60878653-368a-4530-b1b8-4b8cfd93acff"
-author: "Sedat Onat"
+title: Rusya, Hindistan’a Buz Sınıfı ve Yeşil Gemi İnşasında Stratejik İş Birliği Teklif Etti
+subtitle: Rusya, Hindistan’a Buz Sınıfı ve Yeşil Gemi İnşasında Stratejik İş Birliği Teklif Etti
+date: '2025-11-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/nsplsh_025e4b30a3bb45d49eea6c105c93e29d~mv2.jpg
+imageAlt: Rusya, Hindistan’a buz sınıfı gemiler, balıkçı ve yolcu gemisi tasarımları, yeşil gemi inşası, Ar-Ge, mürettebat eğitimi ve Mumbai/Chennai’de ortak tersane kümeleri kurulması dahil geniş kapsamlı bir gemi inşa iş birliği paketi sundu.
+wixId: 60878653-368a-4530-b1b8-4b8cfd93acff
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Rusya
+- Hindistan
+- gemi inşası
+- buz sınıfı gemi
+- yeşil gemi
+- denizcilik teknolojisi
+- Krylov Merkezi
+- tersane
 ---
 <p style="text-align: justify">Rusya, Hindistan ile <strong>gemi inşası, denizcilik teknolojisi ve yeşil dönüşüm odaklı</strong> kapsamlı bir iş birliği paketi önererek iki ülke arasındaki sivil denizcilik ilişkilerini yeni bir seviyeye taşımayı hedefliyor. Teklif, New Delhi’de gerçekleştirilen görüşmeler sırasında Rusya Devlet Başkanı’nın Danışmanı ve Rusya Denizcilik Kurulu Başkanı <strong>Nikolay Patruşev</strong> tarafından Hindistan Ulusal Güvenlik Danışmanı <strong>Ajit Doval</strong>, Ulusal Denizcilik Güvenliği Koordinatörü <strong>Koramiral Biswajit Dasgupta</strong> ve Hindistan Limanlar, Denizcilik ve Su Yolları Bakanı <strong>Sarbananda Sonowal</strong> ile paylaşılmış durumda.</p>
 <p><br></p>

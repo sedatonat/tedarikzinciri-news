@@ -1,14 +1,23 @@
 ---
-title: "Özel Filolar İçin Beş Kolay Sürdürülebilirlik Girişimi"
-subtitle: "Özel Filolar İçin Beş Kolay Sürdürülebilirlik Girişimi"
-date: "2025-03-25T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_df2c93e45ff54b5c9aec19da3ac8b910~mv2.png"
-imageAlt: "Özel Filolar İçin Beş Kolay Sürdürülebilirlik Girişimi"
-wixId: "b4df6e65-2b20-4d8d-92f4-a2a385c4c2a6"
-author: "Sedat Onat"
+title: Özel Filolar İçin Beş Kolay Sürdürülebilirlik Girişimi
+subtitle: Özel Filolar İçin Beş Kolay Sürdürülebilirlik Girişimi
+date: '2025-03-25T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_df2c93e45ff54b5c9aec19da3ac8b910~mv2.png
+imageAlt: Özel Filolar İçin Beş Kolay Sürdürülebilirlik Girişimi
+wixId: b4df6e65-2b20-4d8d-92f4-a2a385c4c2a6
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- özel filo
+- sürdürülebilirlik
+- yakıt verimliliği
+- eco-driving
+- alternatif yakıtlar
+- emisyon azaltımı
+- rota optimizasyonu
+- önleyici bakım
 ---
 <p>Özel filolar, düşük maliyet ve hızlı geri dönüş sağlayan sürdürülebilirlik girişimleriyle hem çevresel hem finansal fayda elde etmekte.&nbsp;</p>
 <p>1: Idle reduction ve eco-driving eğitimleri ile yakıt tüketimi düşürülmekte.&nbsp;</p>

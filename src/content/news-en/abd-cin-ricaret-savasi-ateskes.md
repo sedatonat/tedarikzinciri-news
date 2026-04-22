@@ -1,16 +1,23 @@
 ---
-title: "U.S.–China Trade Truce: Tariffs Falling, Reciprocal Measures Suspended"
-subtitle: "U.S.–China Trade Truce: Tariffs Falling, Reciprocal Measures Suspended"
-date: "2025-10-30T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_cfb2a69863504957b776c4665894baba~mv2.jpg"
-imageAlt: "The U.S. and China reached a comprehensive agreement at a leaders' meeting in Busan in which tariffs were reduced, reciprocal sanctions were suspended, rare earth export controls were halted, and a one-year trade truce was launched."
-wixId: "1a49851c-1c8a-4dec-93d4-fde86f88074d"
-author: "Sedat Onat"
+title: 'U.S.–China Trade Truce: Tariffs Falling, Reciprocal Measures Suspended'
+subtitle: 'U.S.–China Trade Truce: Tariffs Falling, Reciprocal Measures Suspended'
+date: '2025-10-30T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_cfb2a69863504957b776c4665894baba~mv2.jpg
+imageAlt: The U.S. and China reached a comprehensive agreement at a leaders' meeting in Busan in which tariffs were reduced, reciprocal sanctions were suspended, rare earth export controls were halted, and a one-year trade truce was launched.
+wixId: 1a49851c-1c8a-4dec-93d4-fde86f88074d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- US-China trade war
+- tariffs
+- trade truce
+- rare earth elements
+- agricultural products
+- Section 301
+- fentanyl
 ---
-
 <p style="text-align: justify">The U.S. and China have reached a significant compromise at a <strong>critical leaders' meeting in Busan</strong> following an intense trade war that continued through 2025.</p>
 <p><br>
 Following the meeting attended by Trump and Xi Jinping, the two sides agreed on a truce package that <strong>reduces tariffs</strong>, <strong>suspends investigations</strong>, <strong>halts reciprocal retaliation</strong>, and <strong>increases energy and agricultural purchases</strong>.</p>

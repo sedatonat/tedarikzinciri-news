@@ -1,16 +1,23 @@
 ---
-title: "Global Ports Far East Terminal Named Among Best Companies Supporting Large Families in Primorsky Krai"
-subtitle: "Global Ports Far East Terminal Named Among Best Companies Supporting Large Families in Primorsky Krai"
-date: "2024-12-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b89540100aa341cc859f5909402001c6~mv2.jpg"
-imageAlt: "Global Ports Far East Terminal Named Among Best Companies Supporting Large Families in Primorsky Krai"
-wixId: "ef962c1d-dd6b-44ae-8b78-52806dea12a5"
-author: "Sedat Onat"
+title: Global Ports Far East Terminal Named Among Best Companies Supporting Large Families in Primorsky Krai
+subtitle: Global Ports Far East Terminal Named Among Best Companies Supporting Large Families in Primorsky Krai
+date: '2024-12-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b89540100aa341cc859f5909402001c6~mv2.jpg
+imageAlt: Global Ports Far East Terminal Named Among Best Companies Supporting Large Families in Primorsky Krai
+wixId: ef962c1d-dd6b-44ae-8b78-52806dea12a5
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Global Ports
+- Primorsky Krai
+- social responsibility
+- family-friendly policy
+- employee rights
+- port terminal
+- Russia
 ---
-
 <p><strong>Global Ports</strong>' Far East Terminal has earned recognition for its outstanding efforts in supporting large families in the <strong>Primorsky Krai</strong> region. The company ranks among the best enterprises in the region thanks to its family-friendly policies and community-focused initiatives.</p>
 <p><br></p>
 <p>The Primorsky Krai administration has implemented various programs and incentives aimed at improving the welfare of large families. In this context, the contributions of regional companies in supporting families are being evaluated. <strong>Global Ports Far East Terminal</strong> has emerged as a leader in this area through the support it provides to its employees and the local community.</p>

@@ -1,16 +1,24 @@
 ---
-title: "Supply Chains Should Invest, Not Just React to Tariffs"
-subtitle: "Supply Chains Should Invest, Not Just React to Tariffs"
-date: "2025-02-07T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_a65782cccbd848bbb1a48d6110ba7cde~mv2.jpg"
-imageAlt: "Supply Chains Should Invest, Not Just React to Tariffs"
-wixId: "0f1b60b4-75a2-4c11-8f03-2a442794132d"
-author: "Sedat Onat"
+title: Supply Chains Should Invest, Not Just React to Tariffs
+subtitle: Supply Chains Should Invest, Not Just React to Tariffs
+date: '2025-02-07T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_a65782cccbd848bbb1a48d6110ba7cde~mv2.jpg
+imageAlt: Supply Chains Should Invest, Not Just React to Tariffs
+wixId: 0f1b60b4-75a2-4c11-8f03-2a442794132d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- tariffs
+- supply chain
+- artificial intelligence
+- strategic investment
+- PwC
+- Gartner
+- fashion industry
+- SME
 ---
-
 <p style="text-align: justify">In recent years, fluctuations in global trade policies and particularly changes in tariffs have significantly impacted supply chains. This situation underscores the necessity for companies to make long-term strategic investments rather than simply reacting to tariffs. <strong>PwC</strong> operations transformation partner <strong>Carla DeSantis</strong> emphasizes that successful businesses should not base critical supply chain or value chain decisions solely on tariff impacts.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>The Importance of a Holistic Approach</strong></p>

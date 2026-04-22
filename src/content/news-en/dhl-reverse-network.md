@@ -1,16 +1,23 @@
 ---
-title: "DHL Ushers in New Era in Reverse Logistics with Inmar Integration"
-subtitle: "DHL Ushers in New Era in Reverse Logistics with Inmar Integration"
-date: "2025-10-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4411493101ea482c81aa457aebcc85a0~mv2.jpg"
-imageAlt: "DHL Ushers in New Era in Reverse Logistics with Inmar Integration"
-wixId: "392cf920-adb2-4ca8-859b-3323ab8dd23d"
-author: "Sedat Onat"
+title: DHL Ushers in New Era in Reverse Logistics with Inmar Integration
+subtitle: DHL Ushers in New Era in Reverse Logistics with Inmar Integration
+date: '2025-10-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4411493101ea482c81aa457aebcc85a0~mv2.jpg
+imageAlt: DHL Ushers in New Era in Reverse Logistics with Inmar Integration
+wixId: 392cf920-adb2-4ca8-859b-3323ab8dd23d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- DHL
+- reverse logistics
+- Inmar
+- e-commerce
+- recommerce
+- circular economy
+- returns management
 ---
-
 <p style="text-align: justify"><strong>DHL Supply Chain</strong> is launching a <strong>multi-customer national reverse logistics network</strong> across North America, making returns processes more efficient and sustainable. This move represents the logistics giant's most comprehensive restructuring in the <strong>reverse logistics</strong> space following its acquisition of <strong>Inmar Supply Chain Solutions</strong>.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Strengthened New Structure with Inmar Acquisition</strong></h5>

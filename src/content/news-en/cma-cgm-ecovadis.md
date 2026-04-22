@@ -1,16 +1,23 @@
 ---
-title: "CMA CGM Enters Top 3% of EcoVadis Sustainability Assessment Globally"
-subtitle: "CMA CGM Enters Top 3% of EcoVadis Sustainability Assessment Globally"
-date: "2025-10-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_46f21a48bec646edb9d72ecd010afa24~mv2.jpg"
-imageAlt: "CMA CGM Enters Top 3% of EcoVadis Sustainability Assessment Globally"
-wixId: "29742847-297b-4360-a1da-7d413603673f"
-author: "Sedat Onat"
+title: CMA CGM Enters Top 3% of EcoVadis Sustainability Assessment Globally
+subtitle: CMA CGM Enters Top 3% of EcoVadis Sustainability Assessment Globally
+date: '2025-10-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_46f21a48bec646edb9d72ecd010afa24~mv2.jpg
+imageAlt: CMA CGM Enters Top 3% of EcoVadis Sustainability Assessment Globally
+wixId: 29742847-297b-4360-a1da-7d413603673f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- CMA CGM
+- EcoVadis
+- sustainability
+- maritime shipping
+- corporate social responsibility
+- green logistics
+- alternative fuel
 ---
-
 <p style="text-align: justify"><strong>CMA CGM Group</strong> has once again earned international recognition for its sustainability performance.</p>
 <p><br>
 The company scored <strong>80/100</strong> in the 2025 assessment conducted by <strong>EcoVadis</strong>, one of the world's leading sustainability rating organizations, successfully placing itself in the <strong>top 3% among 85,000 companies evaluated globally</strong>.</p>

@@ -1,16 +1,23 @@
 ---
-title: "U.S. and China Agree to Cut Tariffs and Suspend Investigations Under Trade Truce"
-subtitle: "U.S. and China Agree to Cut Tariffs and Suspend Investigations Under Trade Truce"
-date: "2025-10-30T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_fdade5592372422584566fa3b12f241e~mv2.jpg"
-imageAlt: "U.S. President Donald Trump and Chinese State President Xi Jinping reached a trade war ceasefire agreement at talks held in Busan, South Korea. The agreement includes tariff reductions, suspension of mutual investigations, and a halt to rare earth export controls."
-wixId: "ea960e41-8a86-4d5d-9356-d47d29fb6a8e"
-author: "Sedat Onat"
+title: U.S. and China Agree to Cut Tariffs and Suspend Investigations Under Trade Truce
+subtitle: U.S. and China Agree to Cut Tariffs and Suspend Investigations Under Trade Truce
+date: '2025-10-30T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_fdade5592372422584566fa3b12f241e~mv2.jpg
+imageAlt: U.S. President Donald Trump and Chinese State President Xi Jinping reached a trade war ceasefire agreement at talks held in Busan, South Korea. The agreement includes tariff reductions, suspension of mutual investigations, and a halt to rare earth export controls.
+wixId: ea960e41-8a86-4d5d-9356-d47d29fb6a8e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- US-China trade war
+- tariffs
+- supply chain
+- rare earth elements
+- logistics investigation
+- export restrictions
+- APEC summit
 ---
-
 <p style="text-align: justify"><strong>The United States and China</strong>, following months of negotiations and mutual trade sanctions, have reached an agreement on <strong>tariffs, export controls, and logistics investigations</strong>. On the morning of <strong>October 30, 2025</strong>, at a summit held at <strong>Gimhae Air Base in Busan</strong>, <strong>U.S. President Donald Trump</strong> and <strong>Chinese State President Xi Jinping</strong> announced a <strong>trade ceasefire agreement between the two countries</strong>.</p>
 <p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>Key provisions of the agreement</strong></h5>

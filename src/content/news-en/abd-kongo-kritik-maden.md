@@ -1,16 +1,24 @@
 ---
-title: "U.S. Commits Over $1 Billion in Support for Congo's Critical Minerals Supply Chain"
-subtitle: "U.S. Commits Over $1 Billion in Support for Congo's Critical Minerals Supply Chain"
-date: "2025-12-05T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_29cacafc157e42c09a9f3abb9c8f2c50~mv2.jpg"
-imageAlt: "Detailed overview of the U.S. DFC's financing plan exceeding $1 billion for copper-cobalt joint venture in Congo and railway rehabilitation linked to the Lobito corridor, and its impacts on the global critical minerals supply chain"
-wixId: "5f7ee052-faee-47aa-8736-26c706ff32cd"
-author: "Sedat Onat"
+title: U.S. Commits Over $1 Billion in Support for Congo's Critical Minerals Supply Chain
+subtitle: U.S. Commits Over $1 Billion in Support for Congo's Critical Minerals Supply Chain
+date: '2025-12-05T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_29cacafc157e42c09a9f3abb9c8f2c50~mv2.jpg
+imageAlt: Detailed overview of the U.S. DFC's financing plan exceeding $1 billion for copper-cobalt joint venture in Congo and railway rehabilitation linked to the Lobito corridor, and its impacts on the global critical minerals supply chain
+wixId: 5f7ee052-faee-47aa-8736-26c706ff32cd
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- critical minerals
+- Congo
+- cobalt
+- copper
+- supply chain security
+- Lobito Corridor
+- U.S.-China competition
+- DFC
 ---
-
 <p style="text-align: justify">The United States is taking one of its most aggressive economic and geopolitical steps in Africa in late 2025 to secure its critical minerals supply chain. The <strong>U.S. International Development Finance Corporation (DFC)</strong> has announced plans for financing totaling <strong>over $1 billion</strong> to transform both mining production and export infrastructure in the Democratic Republic of the Congo (DRC). This financing is aimed at establishing supply security for strategic minerals that rank among U.S. <strong>national security</strong> priorities.</p>
 <p style="text-align: justify">The DFC is working on two main projects:</p>
 <p><br></p>

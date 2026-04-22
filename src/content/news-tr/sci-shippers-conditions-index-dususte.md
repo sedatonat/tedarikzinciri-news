@@ -1,14 +1,22 @@
 ---
-title: "Shippers Conditions Index (SCI) Ağustos 2023'ten Bu Yana İkinci Kez Negatifte"
-subtitle: "Shippers Conditions Index (SCI) Ağustos 2023'ten Bu Yana İkinci Kez Negatifte"
-date: "2025-03-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_4e6fd7f022c4422a85d4de58cb28ffec~mv2.jpg"
-imageAlt: "Shippers Conditions Index (SCI) Ağustos 2023'ten Bu Yana İkinci Kez Negatifte"
-wixId: "b4a9065b-db12-4317-a370-edc9a6598ccd"
-author: "Sedat Onat"
+title: Shippers Conditions Index (SCI) Ağustos 2023'ten Bu Yana İkinci Kez Negatifte
+subtitle: Shippers Conditions Index (SCI) Ağustos 2023'ten Bu Yana İkinci Kez Negatifte
+date: '2025-03-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_4e6fd7f022c4422a85d4de58cb28ffec~mv2.jpg
+imageAlt: Shippers Conditions Index (SCI) Ağustos 2023'ten Bu Yana İkinci Kez Negatifte
+wixId: b4a9065b-db12-4317-a370-edc9a6598ccd
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Shippers Conditions Index
+- SCI
+- navlun maliyetleri
+- tedarik zinciri
+- FTR Transportation Intelligence
+- kapasite yönetimi
+- yakıt fiyatları
 ---
 <p style="text-align: justify"><a href="https://www.ftrintel.com/"><u><strong>FTR Transportation Intelligence</strong></u></a> tarafından yayınlanan <a href="https://www.ftrintel.com/shippers-conditions-index"><u><strong>Shippers Conditions Index (SCI)</strong></u></a>, Ağustos 2023'ten bu yana ikinci kez negatif değere düşerek, Kasım 2024'te -0.9 olarak kaydedildi. Bu durum, göndericilerin karşılaştığı zorlukların arttığını ve piyasa koşullarının onlar için daha az elverişli hale geldiğini göstermekte.</p>
 <p><br></p>

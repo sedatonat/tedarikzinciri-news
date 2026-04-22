@@ -1,16 +1,23 @@
 ---
-title: "U.K. Bans Nike–Superdry–Lacoste's \"Sustainable\" Advertisements"
-subtitle: "U.K. Bans Nike–Superdry–Lacoste's \"Sustainable\" Advertisements"
-date: "2025-12-03T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_3bf5ab284b034c2b8899c6990a7cea8a~mv2.jpg"
-imageAlt: "The U.K. Advertising Standards Authority's ban on unsubstantiated \"sustainable\" claims by Nike, Superdry, and Lacoste in Google advertisements represents a detailed summary of stricter greenwashing enforcement and implications for supply chains"
-wixId: "f2cdfbe8-b12c-495f-ac43-8178de018c82"
-author: "Sedat Onat"
+title: U.K. Bans Nike–Superdry–Lacoste's "Sustainable" Advertisements
+subtitle: U.K. Bans Nike–Superdry–Lacoste's "Sustainable" Advertisements
+date: '2025-12-03T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_3bf5ab284b034c2b8899c6990a7cea8a~mv2.jpg
+imageAlt: The U.K. Advertising Standards Authority's ban on unsubstantiated "sustainable" claims by Nike, Superdry, and Lacoste in Google advertisements represents a detailed summary of stricter greenwashing enforcement and implications for supply chains
+wixId: f2cdfbe8-b12c-495f-ac43-8178de018c82
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- sustainability
+- greenwashing
+- fashion retail
+- Nike
+- ASA
+- advertising ban
+- supply chain transparency
 ---
-
 <p style="text-align: justify">In the United Kingdom, the <strong>Advertising Standards Authority (ASA)</strong> continues to scrutinize increasingly contentious <strong>"sustainability" claims</strong> across the fashion and retail sector. According to decisions published in December 2025, advertisements posted on Google by <strong>Nike</strong>, <strong>Superdry</strong>, and <strong>Lacoste</strong> have been banned for using phrases such as "sustainable materials," "sustainable clothing," and "sustainable style" <strong>without sufficient substantiation</strong>. The ASA's decisions further demonstrate that <strong>greenwashing</strong> regulations are rapidly tightening across the European market.</p>
 <p><br></p>
 <p style="text-align: justify">According to ASA's statement, the sustainability claims in the advertisements of the three brands do not meet the <strong>"high level of substantiation"</strong> standard required by the U.K. advertising code. The authority emphasizes that advertisers must support environmental claims with clear, measurable data that directly proves the product's environmental impact. Advertising standards in the U.K. and Europe are enforced far more rigorously than in the U.S.; in the United States, terms such as "best value," "biggest," "eco-friendly," and "sustainable" can often be used without proof requirements.</p>

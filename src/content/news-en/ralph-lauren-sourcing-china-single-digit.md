@@ -1,14 +1,22 @@
 ---
-title: "Ralph Lauren Plans to Lower China Sourcing to Single-Digit Percentages"
-subtitle: "Ralph Lauren Plans to Lower China Sourcing to Single-Digit Percentages"
-date: "2024-11-18T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_d34eed642827485e8abb441822e7094e~mv2.jpg"
-imageAlt: "Ralph Lauren Plans to Lower China Sourcing to Single-Digit Percentages"
-wixId: "082f1415-b64f-4d3e-9b3c-c185ef4ba982"
-author: "Sedat Onat"
+title: Ralph Lauren Plans to Lower China Sourcing to Single-Digit Percentages
+subtitle: Ralph Lauren Plans to Lower China Sourcing to Single-Digit Percentages
+date: '2024-11-18T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_d34eed642827485e8abb441822e7094e~mv2.jpg
+imageAlt: Ralph Lauren Plans to Lower China Sourcing to Single-Digit Percentages
+wixId: 082f1415-b64f-4d3e-9b3c-c185ef4ba982
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Ralph Lauren
+- China
+- supply chain
+- diversification
+- tariff
+- Vietnam
+- production network
+- trade war
 ---
-
 <p>Ralph Lauren said it is well-positioned against potential tariff increases due to its globally diversified manufacturing network. The company's President and CEO Patrice Louvet stated that they have diversified sourcing for more than seven years and increased manufacturing capacity closer to the United States. This strategy enabled the company to remain flexible and resilient during and after the pandemic.</p>\n<p><br></p>\n<p>Ralph Lauren's manufacturing facilities are concentrated across five continents, including China, Vietnam, India, Italy, and Cambodia. These facilities carry out various processes such as raw material processing, printing, dyeing, textile manufacturing, and final product assembly. However, according to CEO Louvet, products sourced from China currently represent a "high single-digit percentage" of the company's global sourcing.</p>\n<p><br></p>\n<p>According to statements made in 2024, presidential candidate Donald Trump proposed particularly high tariff increases on products imported from China. These proposals aim to expand upon the tariff increases recently completed by the Biden-Harris administration. Louvet stated, "We will look at what policies get implemented in the future," noting that the company will operate by monitoring current policies. He also emphasized that Ralph Lauren has successfully managed tariffs in the past.</p>\n<p><br></p>\n<p>Other companies are also taking steps to diversify their sourcing strategies in response to anticipated tariff increases. For example, Steve Madden disclosed in its recent earnings call that it plans to reduce its supply chain dependence on China by cutting China imports by 45 percent by the end of 2025. Adidas is also taking steps toward ceasing to source China-made products from the U.S., while Global Brands CEO Bjørn Gulden stated that the company is well-positioned against tariff increases.</p>\n<p><br></p>\n<p>Ralph Lauren's flexible and global supply chain has enabled it to maintain sustainability through strong business partnerships even during global crises like the pandemic. The company aims to be prepared against potential trade barriers by diversifying its manufacturing network worldwide. Louvet said, "Our global supply and supply chain are agile and well-positioned," expressing that this strategy is a key differentiating factor for the company.</p>\n<p><br></p>\n<p>The low percentage of products Ralph Lauren sources from China increases the company's operational flexibility in the event of potential trade wars or tariff increases. By developing alternative manufacturing facilities near America, the company aims to reduce logistics costs and minimize supply chain disruptions. These strategic moves help Ralph Lauren maintain its competitive advantage in the global market.</p>\n<p><br></p>\n<p><strong>Key Points:</strong></p>\n<ul>\n  <li><p>Ralph Lauren sources only a high single-digit percentage of its products from China.</p></li>\n  <li><p>The company's manufacturing facilities are concentrated in China, Vietnam, India, Italy, and Cambodia.</p></li>\n  <li><p>Patrice Louvet emphasized the supply chain's flexibility and global diversity.</p></li>\n  <li><p>Donald Trump's presidential campaign proposed tariff increases on imports from China.</p></li>\n  <li><p>Ralph Lauren is taking a wait-and-see approach toward potential tariff policy changes.</p></li>\n  <li><p>Steve Madden plans to reduce China imports by 45 percent by the end of 2025.</p></li>\n  <li><p>Adidas is taking steps toward ceasing to source China-made products from the U.S.</p></li>\n  <li><p>Ralph Lauren's global supply chain maintained its flexibility during the pandemic.</p></li>\n  <li><p>The company aims to reduce logistics costs by increasing production capacity near America.</p></li>\n</ul>\n<p><br></p>\n<p>---</p>\n<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/ralph-lauren-supply-chain-tariff-trump-earnings-q2/733113/"><u>https://www.supplychaindive.com/news/ralph-lauren-supply-chain-tariff-trump-earnings-q2/733113/</u></a></p>\n<p>-------------------</p>\n<p><strong>!!! ANNOUNCEMENT !!!</strong></p>\n<p><strong>Our Book "How to Get ERP?" Has Been Published on Google Play Books.</strong></p>\n<p>#What Is ERP?</p>\n<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via this link.</p>\n<p>We would be delighted to receive your feedback.</p>\n<p>We wish you happy reading in advance.</p>

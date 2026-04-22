@@ -1,16 +1,22 @@
 ---
-title: "Warehouse Automation Orders Decline, Recovery Expected in 2024"
-subtitle: "Warehouse Automation Orders Decline, Recovery Expected in 2024"
-date: "2025-02-05T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_38d00159bc4a4ec9b7f34bccf83f68ba~mv2.jpg"
-imageAlt: "Warehouse Automation Orders Decline, Recovery Expected in 2024"
-wixId: "dca6a667-d848-486e-8282-4e2d7b37cbfe"
-author: "Sedat Onat"
+title: Warehouse Automation Orders Decline, Recovery Expected in 2024
+subtitle: Warehouse Automation Orders Decline, Recovery Expected in 2024
+date: '2025-02-05T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_38d00159bc4a4ec9b7f34bccf83f68ba~mv2.jpg
+imageAlt: Warehouse Automation Orders Decline, Recovery Expected in 2024
+wixId: dca6a667-d848-486e-8282-4e2d7b37cbfe
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- warehouse automation
+- order decline
+- artificial intelligence
+- robotics
+- digital twin
+- 2024 forecasts
 ---
-
 <p style="text-align: justify">The warehouse automation sector experienced a 3% decline in orders during 2023. This downturn is attributed to high interest rates, market uncertainties, and excess supply resulting from the pandemic. However, industry experts expect a recovery in 2024.&nbsp;</p>
 <p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>Key Takeaways:</strong></h5>

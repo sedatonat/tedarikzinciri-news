@@ -1,14 +1,22 @@
 ---
-title: "Butik Süpermarket Zinciri Sesli Toplamayı Optimize Etti"
-subtitle: "Butik Süpermarket Zinciri Sesli Toplamayı Optimize Etti"
-date: "2025-08-04T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_a2096fadcca240cd80acbd18eeaf0bf6~mv2.png"
-imageAlt: "Butik Süpermarket Zinciri Sesli Dağıtımı Optimize Etti"
-wixId: "04be521b-548e-4541-aea6-71b46a1a0c25"
-author: "Sedat Onat"
+title: Butik Süpermarket Zinciri Sesli Toplamayı Optimize Etti
+subtitle: Butik Süpermarket Zinciri Sesli Toplamayı Optimize Etti
+date: '2025-08-04T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_a2096fadcca240cd80acbd18eeaf0bf6~mv2.png
+imageAlt: Butik Süpermarket Zinciri Sesli Dağıtımı Optimize Etti
+wixId: 04be521b-548e-4541-aea6-71b46a1a0c25
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- sesli toplama
+- voice picking
+- WMS
+- depo yönetimi
+- süpermarket zinciri
+- dağıtım merkezi
+- dijital dönüşüm
 ---
 <p style="text-align: justify"><strong>Butik bir süpermarket zinciri</strong>, <strong>voice-directed picking (sesli yönlendirmeli toplama)</strong> çözümünü devreye alarak <strong>dağıtım merkezinde verimliliği ve doğruluğu artırıyor.</strong> Sistem, çalışanların sipariş toplama sırasında <strong>ellerini serbest bırakarak</strong> hareket özgürlüğü ve hız kazandırıyor; böylece toplama süresi kısalırken hata oranı belirgin biçimde düşüyor.</p>
 <p><br></p>

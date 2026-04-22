@@ -1,14 +1,23 @@
 ---
-title: "Tarifeler Ve Reshoring Dalgası: Belirsizlikte Yön Bulmak"
-subtitle: "Tarifeler Ve Reshoring Dalgası: Belirsizlikte Yön Bulmak"
-date: "2025-10-02T00:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b3cd641a81554f83a581fea964c27f2e~mv2.png"
-imageAlt: "Tarifeler Ve Reshoring Dalgası: Belirsizlikte Yön Bulmak"
-wixId: "90075efd-b4b3-431d-8ec6-6f39f018adad"
-author: "Sedat Onat"
+title: 'Tarifeler Ve Reshoring Dalgası: Belirsizlikte Yön Bulmak'
+subtitle: 'Tarifeler Ve Reshoring Dalgası: Belirsizlikte Yön Bulmak'
+date: '2025-10-02T00:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b3cd641a81554f83a581fea964c27f2e~mv2.png
+imageAlt: 'Tarifeler Ve Reshoring Dalgası: Belirsizlikte Yön Bulmak'
+wixId: 90075efd-b4b3-431d-8ec6-6f39f018adad
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- tarifeler
+- reshoring
+- nearshoring
+- tedarik zinciri
+- AI tabanlı planlama
+- TCO
+- multi-sourcing
+- tariff volatility
 ---
 <p>Küresel ticaret ortamındaki tarifeler, yeniden yurda getirme (reshoring) eğilimini hızlandırmakta. Think Tank analizine göre, artan tariff volatility, işletmeleri üretim ağlarını yeniden şekillendirmeye zorlamakta. Özellikle ABD, Meksika ve Kanada üçgeninde üretim kapasitesi kaymaları gözlenmekte. Reshoring Initiative verilerine göre, 2025’in ilk yarısında ABD’ye dönen üretim projelerinin sayısı %23 artmakta.</p>
 <p><br></p>

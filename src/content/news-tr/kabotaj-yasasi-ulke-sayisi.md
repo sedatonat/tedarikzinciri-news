@@ -1,14 +1,22 @@
 ---
-title: "Jeopolitik Gerginlikler Artarken Kabotaj Yasaları Küresel Kıyıların %85’ine Ulaştı"
-subtitle: "Jeopolitik Gerginlikler Artarken Kabotaj Yasaları Küresel Kıyıların %85’ine Ulaştı"
-date: "2025-10-22T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_af4ef568bbda4f10a74fdddecebceac8~mv2.jpg"
-imageAlt: "Jeopolitik Gerginlikler Artarken Kabotaj Yasaları Küresel Kıyıların %85’ine Ulaştı"
-wixId: "ad904879-9117-4388-9e0e-7824ab770e5d"
-author: "Sedat Onat"
+title: Jeopolitik Gerginlikler Artarken Kabotaj Yasaları Küresel Kıyıların %85’ine Ulaştı
+subtitle: Jeopolitik Gerginlikler Artarken Kabotaj Yasaları Küresel Kıyıların %85’ine Ulaştı
+date: '2025-10-22T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_af4ef568bbda4f10a74fdddecebceac8~mv2.jpg
+imageAlt: Jeopolitik Gerginlikler Artarken Kabotaj Yasaları Küresel Kıyıların %85’ine Ulaştı
+wixId: ad904879-9117-4388-9e0e-7824ab770e5d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- kabotaj yasaları
+- jeopolitik gerginlik
+- denizcilik egemenliği
+- Jones Act
+- ulusal güvenlik
+- tedarik zinciri güvenliği
+- ITF
 ---
 <p style="text-align: justify"><strong>Uluslararası Taşımacılık İşçileri Federasyonu (ITF)</strong> adına <strong>Seafarers’ Rights International (SRI)</strong> tarafından yayımlanan yeni bir rapora göre, <strong>dünyada kabotaj yasalarını uygulayan ülke sayısı 2018’deki 91’den 2025’te 105’e çıktı.</strong></p>
 <p><br>

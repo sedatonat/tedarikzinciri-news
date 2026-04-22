@@ -1,14 +1,23 @@
 ---
-title: "Türkiye'nin İlk Kıyı Elektriği Sağlayan Limanı: Asyaport"
-subtitle: "Türkiye'nin İlk Kıyı Elektriği Sağlayan Limanı: Asyaport"
-date: "2024-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_500c3a536f9c490baad3a3354fec98af~mv2.jpg"
-imageAlt: "Türkiye'nin İlk Kıyı Elektriği Sağlayan Limanı: Asyaport"
-wixId: "dc6e6f84-0004-4742-88a3-7add461c92f4"
-author: "Sedat Onat"
+title: 'Türkiye''nin İlk Kıyı Elektriği Sağlayan Limanı: Asyaport'
+subtitle: 'Türkiye''nin İlk Kıyı Elektriği Sağlayan Limanı: Asyaport'
+date: '2024-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_500c3a536f9c490baad3a3354fec98af~mv2.jpg
+imageAlt: 'Türkiye''nin İlk Kıyı Elektriği Sağlayan Limanı: Asyaport'
+wixId: dc6e6f84-0004-4742-88a3-7add461c92f4
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Asyaport
+- kıyı elektriği
+- OPS
+- sürdürülebilirlik
+- konteyner gemisi
+- MSC Oscar
+- karbon emisyonu
+- liman
 ---
 <p>Asyaport, Onshore Power Supply (OPS) sisteminin son kurulumu ile Türkiye'de konteyner gemilerine kıyı elektriği sağlayan ilk liman oldu. Bu yeni sistem, limanda bekleyen gemilere elektrik sağlayarak karbon emisyonlarını ve çevresel etkiyi azaltmayı hedefliyor. Sistem, aynı anda iki ana hat gemisine ve üç feeder gemisine yüksek voltajlı güç sunma kapasitesine sahip.</p>
 <p><br></p>

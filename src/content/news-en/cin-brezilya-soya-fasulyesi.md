@@ -1,16 +1,23 @@
 ---
-title: "China Increases Brazilian Soybean Purchases Following U.S.–China Trade Thaw"
-subtitle: "China Increases Brazilian Soybean Purchases Following U.S.–China Trade Thaw"
-date: "2025-11-03T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_0a1f71b23bab4ea29dca36e9cbbc045d~mv2.jpg"
-imageAlt: "Detailed news summary explaining Chinese importers' rapid purchases of soybean shipments from Brazil, which have become cheaper, amid expectations of a U.S.–China trade agreement."
-wixId: "2956776b-1db3-41ed-9707-b6b05819958f"
-author: "Sedat Onat"
+title: China Increases Brazilian Soybean Purchases Following U.S.–China Trade Thaw
+subtitle: China Increases Brazilian Soybean Purchases Following U.S.–China Trade Thaw
+date: '2025-11-03T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_0a1f71b23bab4ea29dca36e9cbbc045d~mv2.jpg
+imageAlt: Detailed news summary explaining Chinese importers' rapid purchases of soybean shipments from Brazil, which have become cheaper, amid expectations of a U.S.–China trade agreement.
+wixId: 2956776b-1db3-41ed-9707-b6b05819958f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- China
+- Brazil
+- soybeans
+- US-China trade
+- agricultural trade
+- COFCO
+- Chicago futures
 ---
-
 <p style="text-align: justify">Chinese soybean importers have <strong>rapidly increased their purchases of shipments from Brazil</strong> as global market prices have fallen and the trade thaw between the U.S. and China takes effect. According to representatives of three major trading firms who spoke to Reuters, Chinese buyers have booked <strong>10 shipments of Brazilian soybeans for December 2025 delivery</strong> and <strong>10 additional shipments for the March–July period</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The primary driver of this activity is that South American soybeans have become more price-competitive compared to the U.S. market. Long pressured by high tariffs, Chinese buyers had turned to Brazil due to heavy tariffs imposed on U.S. soybeans. However, recent price dynamics have shifted the balance in favor of South America once again.</p>

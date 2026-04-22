@@ -1,14 +1,22 @@
 ---
-title: "Çinli Analistler: ABD, Nadir Mıknatıs Krizine Karşı İhracat Kısıtlamalarını Gevşetebilir"
-subtitle: "Çinli Analistler: ABD, Nadir Mıknatıs Krizine Karşı İhracat Kısıtlamalarını Gevşetebilir"
-date: "2025-10-27T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_75e9e340d43f4fe891b55fbe9a31b8d3~mv2.jpg"
-imageAlt: "Bloomberg’e göre Çinli analistler, Xi Jinping ve Donald Trump’ın bu hafta yapacağı görüşme öncesinde ABD’nin, nadir toprak mıknatıs arzını rahatlatmak için yeni ihracat kısıtlamalarını hafifletebileceğini öngörüyor. Görüşmeler, tarifeler, fentanil ve yüksek teknoloji ticaret kısıtlamaları dahil birçok alanı kapsıyor."
-wixId: "987c26c5-7fed-4768-9282-609fde6b739c"
-author: "Sedat Onat"
+title: 'Çinli Analistler: ABD, Nadir Mıknatıs Krizine Karşı İhracat Kısıtlamalarını Gevşetebilir'
+subtitle: 'Çinli Analistler: ABD, Nadir Mıknatıs Krizine Karşı İhracat Kısıtlamalarını Gevşetebilir'
+date: '2025-10-27T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_75e9e340d43f4fe891b55fbe9a31b8d3~mv2.jpg
+imageAlt: Bloomberg’e göre Çinli analistler, Xi Jinping ve Donald Trump’ın bu hafta yapacağı görüşme öncesinde ABD’nin, nadir toprak mıknatıs arzını rahatlatmak için yeni ihracat kısıtlamalarını hafifletebileceğini öngörüyor. Görüşmeler, tarifeler, fentanil ve yüksek teknoloji ticaret kısıtlamaları dahil birçok alanı kapsıyor.
+wixId: 987c26c5-7fed-4768-9282-609fde6b739c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- nadir toprak elementleri
+- ihracat kısıtlamaları
+- ABD-Çin ticaret
+- Huawei
+- yarı iletken
+- tedarik zinciri
+- teknoloji savaşı
 ---
 <p style="text-align: justify"><strong>Bloomberg News</strong>’in haberine göre, Çinli analistler <strong>ABD’nin son dönemde yürürlüğe koyduğu geniş kapsamlı ihracat kısıtlamalarını gevşetmesini</strong> bekliyor. Tahminler, <strong>Çin Devlet Başkanı Xi Jinping</strong> ile <strong>ABD Başkanı Donald Trump</strong> arasında bu hafta <strong>Güney Kore’de yapılacak zirve</strong> öncesinde yoğunlaşan ticaret görüşmeleri sonrasında gündeme geldi.</p>
 <p><br></p>

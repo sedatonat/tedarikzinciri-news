@@ -1,14 +1,22 @@
 ---
-title: "GrayMatter Robotics, Kaliforniya’da 100.000 Metrekarelik Yapay Zeka Robotik İnovasyon Merkezi Açtı"
-subtitle: "GrayMatter Robotics, Kaliforniya’da 100.000 Metrekarelik Yapay Zeka Robotik İnovasyon Merkezi Açtı"
-date: "2025-10-24T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/f808ef49161b483baeb323114519dde8.jpg"
-imageAlt: "GrayMatter Robotics, Kaliforniya’da 100.000 Metrekarelik Yapay Zeka Robotik İnovasyon Merkezi Açtı"
-wixId: "8ae58734-cd82-4bcf-9053-f0e238d024ed"
-author: "Sedat Onat"
+title: GrayMatter Robotics, Kaliforniya’da 100.000 Metrekarelik Yapay Zeka Robotik İnovasyon Merkezi Açtı
+subtitle: GrayMatter Robotics, Kaliforniya’da 100.000 Metrekarelik Yapay Zeka Robotik İnovasyon Merkezi Açtı
+date: '2025-10-24T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/f808ef49161b483baeb323114519dde8.jpg
+imageAlt: GrayMatter Robotics, Kaliforniya’da 100.000 Metrekarelik Yapay Zeka Robotik İnovasyon Merkezi Açtı
+wixId: 8ae58734-cd82-4bcf-9053-f0e238d024ed
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- GrayMatter Robotics
+- yapay zeka
+- fiziksel AI
+- robotik otomasyon
+- üretim otomasyonu
+- Kaliforniya
+- inovasyon merkezi
 ---
 <p style="text-align: justify"><strong>GrayMatter Robotics</strong>, <strong>Carson, Kaliforniya</strong>’da 100.000 metrekarelik yeni genel merkez ve inovasyon merkezini resmen açarak, <strong>ABD’nin en gelişmiş “etkileşimli robotik deneyim merkezi”</strong> olarak tanımladığı tesisin kapılarını açtı.</p>
 <p><br>

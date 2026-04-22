@@ -1,13 +1,20 @@
 ---
-title: "Gemicilikte Metanol bazı motorlardan vazgeçiliyor"
-subtitle: "Gemicilikte Metanol bazı motorlardan vazgeçiliyor"
-date: "2023-11-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_142cdcc5209b44c0a3adbf7ca60ff60f~mv2.jpg"
-wixId: "68bd7e55-66dc-461a-a805-7950b795f4ff"
-author: "Sedat Onat"
+title: Gemicilikte Metanol bazı motorlardan vazgeçiliyor
+subtitle: Gemicilikte Metanol bazı motorlardan vazgeçiliyor
+date: '2023-11-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_142cdcc5209b44c0a3adbf7ca60ff60f~mv2.jpg
+wixId: 68bd7e55-66dc-461a-a805-7950b795f4ff
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Wärtsilä
+- amonyak yakıt
+- gemi motoru
+- sürdürülebilirlik
+- emisyon
+- denizcilik
 ---
 <p>Emisyon ve sürdürülebilirlik gemicilik sektörünü de yeni arayışlara itti.</p>
 <p><br></p>

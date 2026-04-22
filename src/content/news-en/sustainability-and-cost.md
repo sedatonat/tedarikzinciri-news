@@ -1,16 +1,23 @@
 ---
-title: "You Don't Have to Choose Between Sustainability and Cost"
-subtitle: "You Don't Have to Choose Between Sustainability and Cost"
-date: "2025-05-05T00:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b3c8b98191c74159824a9429e31ac27e~mv2.png"
-imageAlt: "You Don't Have to Choose Between Sustainability and Cost"
-wixId: "4eb29643-4c32-446a-9bd2-df7eeb95e3d8"
-author: "Sedat Onat"
+title: You Don't Have to Choose Between Sustainability and Cost
+subtitle: You Don't Have to Choose Between Sustainability and Cost
+date: '2025-05-05T00:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b3c8b98191c74159824a9429e31ac27e~mv2.png
+imageAlt: You Don't Have to Choose Between Sustainability and Cost
+wixId: 4eb29643-4c32-446a-9bd2-df7eeb95e3d8
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- sustainability
+- cost optimization
+- AI procurement
+- circular economy
+- LCA
+- reverse logistics
+- TCO
 ---
-
 <p>The assumed conflict between sustainability and cost can be resolved through data-driven approaches. This article demonstrates how LCA-guided sourcing, circular packaging, and reverse logistics reduce environmental impact while lowering total cost of ownership (TCO). AI procurement analytics present carbon and cost optimization side by side in material and supplier selection. Waste-to-value projects and energy recovery in operations generate additional revenue and savings. On the customer side, eco-design and minimalist packaging also reduce damage and return rates.</p>
 <p><br></p>
 <p>In conclusion, sustainability investments generate net positive profitability when tracked with the right metrics.</p>

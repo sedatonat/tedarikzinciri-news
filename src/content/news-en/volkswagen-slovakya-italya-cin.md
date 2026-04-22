@@ -1,16 +1,24 @@
 ---
-title: "Volkswagen Launches New Intermodal Transport Link Between Slovakia, Italy and China"
-subtitle: "Volkswagen Launches New Intermodal Transport Link Between Slovakia, Italy and China"
-date: "2025-10-31T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2e682321fba041409c807b62d8f7cfe0~mv2.jpg"
-imageAlt: "Volkswagen has launched automobile shipments to China via a rail connection extending from its production facility in Bratislava to Venice Port (Marghera) in Italy. The new intermodal service integrates rail and maritime transport, providing sustainable and fast logistics solutions."
-wixId: "3f915435-807b-4d01-95cc-ceb637b2af47"
-author: "Sedat Onat"
+title: Volkswagen Launches New Intermodal Transport Link Between Slovakia, Italy and China
+subtitle: Volkswagen Launches New Intermodal Transport Link Between Slovakia, Italy and China
+date: '2025-10-31T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2e682321fba041409c807b62d8f7cfe0~mv2.jpg
+imageAlt: Volkswagen has launched automobile shipments to China via a rail connection extending from its production facility in Bratislava to Venice Port (Marghera) in Italy. The new intermodal service integrates rail and maritime transport, providing sustainable and fast logistics solutions.
+wixId: 3f915435-807b-4d01-95cc-ceb637b2af47
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Volkswagen
+- intermodal transport
+- Slovakia
+- Port of Marghera
+- Ro-Ro
+- rail transport
+- sustainable logistics
+- China
 ---
-
 <p style="text-align: justify"><strong>Volkswagen</strong> has launched a new <strong>intermodal transport link</strong> between Europe and Asia. The new service runs from the brand's <strong>production facility in Bratislava, Slovakia</strong> to <strong>Venice Port (Marghera) in Italy</strong>. From there, automobiles are transported to <strong>China by maritime shipping</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">This new transport model aims to reduce <strong>carbon emissions</strong> and <strong>shorten shipping times</strong> through an <strong>integrated rail and maritime combined transport system</strong>.</p>

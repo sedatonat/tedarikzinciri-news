@@ -1,16 +1,23 @@
 ---
-title: "Emergency Response Launched Following Attacks on Two Tankers in the Black Sea"
-subtitle: "Emergency Response Launched Following Attacks on Two Tankers in the Black Sea"
-date: "2025-11-28T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_91ca45d212a44176b3d0a76fbe8f8abd~mv2.jpg"
-imageAlt: "Detailed news summary of the explosions that occurred on the Russia-linked Kairos and Virat tankers in the Black Sea, with all crew members evacuated, external impact findings under investigation, and Turkey conducting large-scale maritime security operations in the region"
-wixId: "0296c0a8-662b-45ed-80cd-89805671ec03"
-author: "Sedat Onat"
+title: Emergency Response Launched Following Attacks on Two Tankers in the Black Sea
+subtitle: Emergency Response Launched Following Attacks on Two Tankers in the Black Sea
+date: '2025-11-28T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_91ca45d212a44176b3d0a76fbe8f8abd~mv2.jpg
+imageAlt: Detailed news summary of the explosions that occurred on the Russia-linked Kairos and Virat tankers in the Black Sea, with all crew members evacuated, external impact findings under investigation, and Turkey conducting large-scale maritime security operations in the region
+wixId: 0296c0a8-662b-45ed-80cd-89805671ec03
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Black Sea
+- tanker
+- shadow fleet
+- maritime security
+- Russia sanctions
+- energy transportation
+- naval mine
 ---
-
 <p style="text-align: justify">Successive explosions on board the <strong>Gambian-flagged 150,000 dwt Kairos</strong> and <strong>115,600 dwt Virat</strong> tankers in the northwestern portion of the Black Sea triggered a significant regional security alarm. Turkey's <strong>Ministry of Transport and Infrastructure</strong> confirmed that the initial distress signal originated from Kairos, which caught fire following an "external impact" at approximately <strong>28 nautical miles</strong> off the Kocaeli coast. With Kairos in ballast condition at the time, <strong>all 25 crew members</strong> were rapidly evacuated. Following the evacuation decision, <strong>Rescue-12</strong>, the <strong>Nene Hatun</strong> emergency response vessel, and two rapid intervention craft were dispatched to the scene. The open-deck fire was completely extinguished, while cooling operations and gas measurements continue in enclosed compartments.</p>
 <p><br></p>
 <p style="text-align: justify">Approximately one hour after the initial response to Kairos, <strong>Virat</strong> reported an external impact <strong>35 nautical miles</strong> offshore, further east of Turkish waters. Dense smoke emanating from the engine room was quickly brought under control, and <strong>20 crew members</strong> were safely rescued. Light structural deformation was detected on the starboard side; a second external impact possibility was specifically noted by ministry sources. Virat's stability remained intact, and crews positioned themselves at controlled distances for safety reasons.</p>

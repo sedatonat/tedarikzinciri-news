@@ -1,14 +1,23 @@
 ---
-title: "Felixstowe Limanı Otonom Kamyon Filosunu 34 Araçla Genişletiyor"
-subtitle: "Felixstowe Limanı Otonom Kamyon Filosunu 34 Araçla Genişletiyor"
-date: "2025-11-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c4911ef9746747d1b6bcce170e91d9d5~mv2.jpg"
-imageAlt: "Port of Felixstowe’nin Westwell’den aldığı yeni otonom kamyonlarla operasyonel verimliliğini, emisyon azaltımını ve net-sıfır hedeflerini güçlendirmesine dair detaylı özet."
-wixId: "349d0225-ce0f-4943-8c74-8d38142f06d8"
-author: "Sedat Onat"
+title: Felixstowe Limanı Otonom Kamyon Filosunu 34 Araçla Genişletiyor
+subtitle: Felixstowe Limanı Otonom Kamyon Filosunu 34 Araçla Genişletiyor
+date: '2025-11-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c4911ef9746747d1b6bcce170e91d9d5~mv2.jpg
+imageAlt: Port of Felixstowe’nin Westwell’den aldığı yeni otonom kamyonlarla operasyonel verimliliğini, emisyon azaltımını ve net-sıfır hedeflerini güçlendirmesine dair detaylı özet.
+wixId: 349d0225-ce0f-4943-8c74-8d38142f06d8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- otonom kamyon
+- Felixstowe Limanı
+- elektrikli araç
+- liman otomasyonu
+- LiDAR
+- Shanghai Westwell
+- net-sıfır emisyon
+- batarya değişim
 ---
 <p style="text-align: justify">Avrupa’nın en yoğun konteyner kapılarından biri olan <strong>Port of Felixstowe</strong>, otonom kara taşımacılığında yeni bir aşamaya geçerek <strong>Shanghai Westwell Technology</strong> tarafından üretilen yeni nesil <strong>34 otonom kamyonun (AT)</strong> ilk iki birimini teslim aldı. Bu araçlar, limanın Trinty Terminali’nde hâlihazırda çalışan 34 AT’ye ek olarak filoyu ikiye katlayacak ve otonom operasyon kapasitesini önemli ölçüde genişletecek.</p>
 <p><br></p>

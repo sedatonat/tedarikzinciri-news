@@ -1,16 +1,23 @@
 ---
-title: "Kairos Tanker Stabilized Off Ahtopol: Joint Rescue Operation Underway"
-subtitle: "Kairos Tanker Stabilized Off Ahtopol: Joint Rescue Operation Underway"
-date: "2025-12-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_940535ba9dd9462c9a96126c69711a67~mv2.jpg"
-imageAlt: "Following an explosion in the northern Istanbul Strait, the Kairos tanker drifted to waters off Ahtopol, involving coordination between Bulgarian and Turkish authorities, with adverse weather conditions hampering operations and environmental risks being assessed in detail"
-wixId: "a6ed39dc-676d-4b9b-97dd-b3bea9a0aa6a"
-author: "Sedat Onat"
+title: 'Kairos Tanker Stabilized Off Ahtopol: Joint Rescue Operation Underway'
+subtitle: 'Kairos Tanker Stabilized Off Ahtopol: Joint Rescue Operation Underway'
+date: '2025-12-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_940535ba9dd9462c9a96126c69711a67~mv2.jpg
+imageAlt: Following an explosion in the northern Istanbul Strait, the Kairos tanker drifted to waters off Ahtopol, involving coordination between Bulgarian and Turkish authorities, with adverse weather conditions hampering operations and environmental risks being assessed in detail
+wixId: a6ed39dc-676d-4b9b-97dd-b3bea9a0aa6a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Kairos tanker
+- Ahtopol
+- rescue operation
+- Bulgaria
+- Black Sea
+- maritime security
+- shadow fleet
 ---
-
 <p style="text-align: justify">Bulgaria's Transport and Communications Ministry announced that the tanker <strong>Kairos</strong> has been stabilized off the coast of Ahtopol, though comprehensive rescue operations remain underway due to poor weather conditions. The tanker drifted for <strong>several days</strong> after departing Turkish territorial waters before being detected by Bulgarian national surveillance systems, triggering emergency response teams to the area.</p>
 <p><br></p>
 <p style="text-align: justify">According to the ministry's statement, after an unidentified vessel that was not responding to radio calls was detected, contact was established with the coordination center in Ankara, and the vessel was confirmed to be <strong>Kairos</strong>. A Bulgarian <strong>Border Police</strong> boat and <strong>Navy helicopter</strong> were dispatched to the vessel, and surveillance operations were initiated with maritime, air, and ground assets.</p>

@@ -1,14 +1,23 @@
 ---
-title: "Tedarik Zincirlerinde Yeniden Kullanılabilir Ambalajların Çift Yönlü Avantajları"
-subtitle: "Tedarik Zincirlerinde Yeniden Kullanılabilir Ambalajların Çift Yönlü Avantajları"
-date: "2024-11-21T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_00370951a2e9481bad7e3206560ce4ef~mv2.jpg"
-imageAlt: "Tedarik Zincirlerinde Yeniden Kullanılabilir Ambalajların Çift Yönlü Avantajları"
-wixId: "7d4d7c92-39c9-451c-b41e-003cc1c7c513"
-author: "Sedat Onat"
+title: Tedarik Zincirlerinde Yeniden Kullanılabilir Ambalajların Çift Yönlü Avantajları
+subtitle: Tedarik Zincirlerinde Yeniden Kullanılabilir Ambalajların Çift Yönlü Avantajları
+date: '2024-11-21T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_00370951a2e9481bad7e3206560ce4ef~mv2.jpg
+imageAlt: Tedarik Zincirlerinde Yeniden Kullanılabilir Ambalajların Çift Yönlü Avantajları
+wixId: 7d4d7c92-39c9-451c-b41e-003cc1c7c513
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- yeniden kullanılabilir ambalaj
+- sürdürülebilirlik
+- maliyet tasarrufu
+- karbon ayak izi
+- tedarik zinciri
+- Pack Expo International
+- 48forty Solutions
+- Tosca
 ---
 <p>Pack Expo International etkinliğinde gerçekleştirilen bir eğitim oturumunda, yeniden kullanılabilir taşıma ambalajlarının tedarik zincirlerindeki çift yönlü faydaları ele alındı. Yeniden kullanılabilir ambalaj sistemlerinin, sürdürülebilirlik hedeflerine ulaşmada şirketlere yardımcı olmasının yanı sıra maliyet tasarrufu sağladığı vurgulandı. İlk olarak, Katie Pyzyk tarafından hazırlanan makalede, sürdürülebilirlik alanında artan düzenlemeler ve raporlama gereksinimlerinin şirketleri yeniden kullanılabilir ambalajlara yönlendirdiği belirtildi.</p>
 <p><br></p>

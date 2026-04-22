@@ -1,14 +1,23 @@
 ---
-title: "Amazon, Avrupa'daki Tedarik Zincirlerinde Karbon Azaltma Hedefleri İçin Demiryolu ve Deniz Taşımacılığını Artırıyor"
-subtitle: "Amazon, Avrupa'daki Tedarik Zincirlerinde Karbon Azaltma Hedefleri İçin Demiryolu ve Deniz Taşımacılığını Artırıyor"
-date: "2023-12-06T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_fb46d89f935a4603828a99ad6a40118c~mv2.png"
-imageAlt: "Amazon, Avrupa'daki Tedarik Zincirlerinde Karbon Azaltma Hedefleri İçin Demiryolu ve Deniz Taşımacılığını Artırıyor"
-wixId: "09240326-d725-4a27-89e6-78996a910a04"
-author: "Sedat Onat"
+title: Amazon, Avrupa'daki Tedarik Zincirlerinde Karbon Azaltma Hedefleri İçin Demiryolu ve Deniz Taşımacılığını Artırıyor
+subtitle: Amazon, Avrupa'daki Tedarik Zincirlerinde Karbon Azaltma Hedefleri İçin Demiryolu ve Deniz Taşımacılığını Artırıyor
+date: '2023-12-06T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_fb46d89f935a4603828a99ad6a40118c~mv2.png
+imageAlt: Amazon, Avrupa'daki Tedarik Zincirlerinde Karbon Azaltma Hedefleri İçin Demiryolu ve Deniz Taşımacılığını Artırıyor
+wixId: 09240326-d725-4a27-89e6-78996a910a04
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Amazon
+- karbon azaltma
+- demiryolu taşımacılığı
+- deniz taşımacılığı
+- intermodal taşımacılık
+- Avrupa
+- sürdürülebilir lojistik
+- KOBİ
 ---
 <p>Amazon, Avrupa'daki tedarik zincirlerini karbonsuzlaştırma yolunda önemli adımlar atıyor. Şirket, 2023 yılında lojistik çözümlerinde demir ve deniz taşımacılığının payını %50 artırdığını açıkladı. Kamyonlar hala ilk ve son kilometre operasyonlarında kritik bir rol oynuyor, ancak Amazon, demir ve deniz taşımacılığı seçeneklerini daha fazla geliştirmeye kararlı.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Walmart ABD'de Teslimat Maliyetlerini Üçüncü Kez Yüzde 40 Azalttı"
-subtitle: "Walmart ABD'de Teslimat Maliyetlerini Üçüncü Kez Yüzde 40 Azalttı"
-date: "2024-11-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4bb2a291d16a445b9ce9cb59bcfb20b5~mv2.jpg"
-imageAlt: "Walmart ABD'de Teslimat Maliyetlerini Üçüncü Kez Yüzde 40 Azalttı"
-wixId: "80364e88-5804-4f2e-b263-206d02dbc688"
-author: "Sedat Onat"
+title: Walmart ABD'de Teslimat Maliyetlerini Üçüncü Kez Yüzde 40 Azalttı
+subtitle: Walmart ABD'de Teslimat Maliyetlerini Üçüncü Kez Yüzde 40 Azalttı
+date: '2024-11-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4bb2a291d16a445b9ce9cb59bcfb20b5~mv2.jpg
+imageAlt: Walmart ABD'de Teslimat Maliyetlerini Üçüncü Kez Yüzde 40 Azalttı
+wixId: 80364e88-5804-4f2e-b263-206d02dbc688
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Walmart
+- teslimat maliyeti
+- son kilometre
+- otomasyon
+- e-ticaret
+- tedarik zinciri
+- hızlı teslimat
 ---
 <p>Walmart, üçüncü çeyrekte ABD'deki net teslimat maliyetini yüzde 40 oranında düşürdüğünü açıkladı. Şirketin Başkan Yardımcısı ve CFO’su John David Rainey, Salı günü yapılan kazanç çağrısında bu başarının artan otomasyon ve daha verimli sürücü rotaları sayesinde elde edildiğini belirtti. Rainey, “Bu gelişmeyi sağlayan birkaç önemli faktör var: teslimat yoğunlaşması, ücretli hızlı teslimat siparişlerinin artan penetrasyonu ve tedarik zincirimizin otomasyonu” dedi.</p>
 <p><br></p>

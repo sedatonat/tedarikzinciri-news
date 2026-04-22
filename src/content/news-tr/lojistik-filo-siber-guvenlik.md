@@ -1,14 +1,22 @@
 ---
-title: "Filo Siber Güvenlik Risklerinden Korunma Stratejileri"
-subtitle: "Filo Siber Güvenlik Risklerinden Korunma Stratejileri"
-date: "2025-02-05T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_59c09d2eb4ac4dc2b44669553cd6eac3~mv2.jpg"
-imageAlt: "Filo Siber Güvenlik Risklerinden Korunma Stratejileri"
-wixId: "e6c41a6f-4411-40c4-a246-8254384dee88"
-author: "Sedat Onat"
+title: Filo Siber Güvenlik Risklerinden Korunma Stratejileri
+subtitle: Filo Siber Güvenlik Risklerinden Korunma Stratejileri
+date: '2025-02-05T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_59c09d2eb4ac4dc2b44669553cd6eac3~mv2.jpg
+imageAlt: Filo Siber Güvenlik Risklerinden Korunma Stratejileri
+wixId: e6c41a6f-4411-40c4-a246-8254384dee88
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- filo yönetimi
+- siber güvenlik
+- ransomware
+- phishing
+- dijitalleşme
+- Trimble
+- Colonial Pipeline
 ---
 <p style="text-align: justify">Günümüzde filo yöneticileri, araçlarını ve sürücülerini siber tehditlerden korumak için proaktif önlemler almak zorundadır. &nbsp;Siber saldırılar, operasyonel aksamalara, finansal kayıplara ve itibar zedelenmesine yol açabilmektedir. Bu nedenle, filoların güvenliğini sağlamak için kapsamlı stratejiler geliştirilmesi gerekmektedir.​</p>
 <p><br></p>

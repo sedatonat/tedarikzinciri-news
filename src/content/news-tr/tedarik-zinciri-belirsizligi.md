@@ -1,14 +1,23 @@
 ---
-title: "Küresel Ticaret Yavaşlıyor: Şirketler Siparişleri Beklemeye Alıyor"
-subtitle: "Küresel Ticaret Yavaşlıyor: Şirketler Siparişleri Beklemeye Alıyor"
-date: "2025-04-10T00:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d218058b113241d19787d1c840dceea1~mv2.png"
-imageAlt: "Küresel Ticaret Yavaşlıyor: Şirketler Siparişleri Beklemeye Alıyor"
-wixId: "c5b242ed-05ad-45d5-b840-a39a6deebcb8"
-author: "Sedat Onat"
+title: 'Küresel Ticaret Yavaşlıyor: Şirketler Siparişleri Beklemeye Alıyor'
+subtitle: 'Küresel Ticaret Yavaşlıyor: Şirketler Siparişleri Beklemeye Alıyor'
+date: '2025-04-10T00:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_d218058b113241d19787d1c840dceea1~mv2.png
+imageAlt: 'Küresel Ticaret Yavaşlıyor: Şirketler Siparişleri Beklemeye Alıyor'
+wixId: c5b242ed-05ad-45d5-b840-a39a6deebcb8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- küresel ticaret
+- tedarik zinciri
+- gümrük tarifeleri
+- nearshoring
+- sipariş yönetimi
+- senaryo planlama
+- control tower
+- siyasi belirsizlik
 ---
 <p style="text-align: justify"><strong>Küresel ticaret</strong>, artan <strong>siyasi belirsizlik</strong>, <strong>tarife riskleri</strong> ve potansiyel <strong>ihracat kısıtlamaları</strong> nedeniyle ivme kaybediyor. Şirketler, özellikle uzun teslim süreli <strong>sermaye malları</strong> ve <strong>ara malı siparişlerinde</strong>, giderek daha temkinli bir tutum benimseyerek yeni siparişlerini <strong>“wait-and-see”</strong> (bekle-gör) yaklaşımıyla ertelemekte. Bu durum, küresel üretim planlamasında, vardiya yönetiminde ve kapasite kullanımında dalgalanmalara yol açıyor.</p>
 <p style="text-align: justify"><br></p>

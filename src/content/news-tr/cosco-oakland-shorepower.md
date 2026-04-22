@@ -1,14 +1,22 @@
 ---
-title: "COSCO, Oakland Limanı’nda Tam Shore Power Uyumuna Ulaştı"
-subtitle: "COSCO, Oakland Limanı’nda Tam Shore Power Uyumuna Ulaştı"
-date: "2025-12-09T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2e936e328d5743b6bda4e8b8337fdefb~mv2.jpg"
-imageAlt: "COSCO SHIPPING North America’nın Port of Oakland’da %100 shore power kullanımına geçmesi, Los Angeles–Long Beach limanlarındaki yüksek uyum oranları, elektrikli drayage kamyonları ve ABD liman operasyonlarında emisyon azaltım stratejisinin detaylı özeti"
-wixId: "4c15b4d5-d27a-48f8-9227-3d293fe962c0"
-author: "Sedat Onat"
+title: COSCO, Oakland Limanı’nda Tam Shore Power Uyumuna Ulaştı
+subtitle: COSCO, Oakland Limanı’nda Tam Shore Power Uyumuna Ulaştı
+date: '2025-12-09T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2e936e328d5743b6bda4e8b8337fdefb~mv2.jpg
+imageAlt: COSCO SHIPPING North America’nın Port of Oakland’da %100 shore power kullanımına geçmesi, Los Angeles–Long Beach limanlarındaki yüksek uyum oranları, elektrikli drayage kamyonları ve ABD liman operasyonlarında emisyon azaltım stratejisinin detaylı özeti
+wixId: 4c15b4d5-d27a-48f8-9227-3d293fe962c0
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- COSCO
+- shore power
+- Oakland Limanı
+- elektrikli drayage
+- emisyon azaltımı
+- sürdürülebilirlik
+- liman operasyonları
 ---
 <p style="text-align: justify"><strong>COSCO SHIPPING North America</strong>, ABD liman operasyonlarında emisyon azaltımına yönelik en önemli kilometre taşlarından birine ulaşmakta. Şirketin yayımladığı <strong>2024 Sustainability Report</strong>’a göre, <strong>Port of Oakland</strong>’daki uygun tüm gemi çağrılarında <strong>%100 shore power</strong> bağlantısı sağlandı. Aynı zamanda <strong>Ports of Los Angeles ve Long Beach</strong>’te shore power bağlantı oranı <strong>%96,5</strong> seviyesine yükseldi. Bu oran, bir önceki yıla kıyasla belirgin bir artışı temsil etmekte.</p>
 <p><br></p>

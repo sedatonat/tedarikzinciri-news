@@ -1,16 +1,24 @@
 ---
-title: "Storage Capacity Holds Firm Despite Cargo Front-Loading Strategies"
-subtitle: "Storage Capacity Holds Firm Despite Cargo Front-Loading Strategies"
-date: "2025-02-27T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/11062b_939204ae9b614238a9e6d17a9368b38f~mv2.jpeg"
-imageAlt: "Storage Capacity Holds Firm Despite Cargo Front-Loading Strategies"
-wixId: "443b6506-29f0-40be-96cc-76da08915b2d"
-author: "Sedat Onat"
+title: Storage Capacity Holds Firm Despite Cargo Front-Loading Strategies
+subtitle: Storage Capacity Holds Firm Despite Cargo Front-Loading Strategies
+date: '2025-02-27T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/11062b_939204ae9b614238a9e6d17a9368b38f~mv2.jpeg
+imageAlt: Storage Capacity Holds Firm Despite Cargo Front-Loading Strategies
+wixId: 443b6506-29f0-40be-96cc-76da08915b2d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- storage capacity
+- port operations
+- tariffs
+- Port of Los Angeles
+- cargo management
+- third-party logistics
+- retail
+- supply chain
 ---
-
 <p style="text-align: justify">In recent months, new tariffs imposed by the <strong>Trump administration</strong> and port labor concerns have prompted many shippers to front-load goods by focusing on specific product categories to mitigate port disruptions. <strong>Jonathan Gold</strong>, vice president of customs policy and supply chain at the <strong>National Retail Federation</strong>, notes that many retailers have been cautious about bringing in excess cargo and are therefore in a strong position.&nbsp;</p>
 <p><br></p>
 <p style="text-align: justify">According to a February 7 press release from the <strong>National Retail Federation</strong> and <strong>Hackett Associates</strong>, imports at the nation's major container ports are expected to remain at elevated levels, as retailers continue to bring in cargo ahead of increased tariffs on China and threats against other countries. ​</p>

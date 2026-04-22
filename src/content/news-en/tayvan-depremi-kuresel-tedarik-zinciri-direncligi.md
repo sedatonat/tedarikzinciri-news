@@ -1,16 +1,22 @@
 ---
-title: "Taiwan Earthquake Highlights the Need for Resilient Global Supply Chains"
-subtitle: "Taiwan Earthquake Highlights the Need for Resilient Global Supply Chains"
-date: "2024-04-03T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_eb188d5ed5df41f3baca0e102d8d42a1~mv2.jpg"
-imageAlt: "Taiwan Earthquake Highlights the Need for Resilient Global Supply Chains"
-wixId: "aa7b7be1-5f06-491e-8ba7-e0a31fffc816"
-author: "Sedat Onat"
+title: Taiwan Earthquake Highlights the Need for Resilient Global Supply Chains
+subtitle: Taiwan Earthquake Highlights the Need for Resilient Global Supply Chains
+date: '2024-04-03T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_eb188d5ed5df41f3baca0e102d8d42a1~mv2.jpg
+imageAlt: Taiwan Earthquake Highlights the Need for Resilient Global Supply Chains
+wixId: aa7b7be1-5f06-491e-8ba7-e0a31fffc816
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Taiwan earthquake
+- supply chain resilience
+- semiconductor
+- TSMC
+- risk management
+- high technology
 ---
-
 <h3>Summary</h3>
 <p>The 7.4-magnitude earthquake that struck Taiwan on April 3, 2024, raised serious concerns about its impact on global high-technology and semiconductor supply chains. According to <a href="https://www.resilinc.com/"><u>Resilinc</u></a> data, more than 13,000 sites, 21,000 products, and 58,000 parts could be affected. This situation is a significant indicator of how interconnected global supply chains are and how exposed they are to risks. It is emphasized that effective, proactive, and predictive supply chain capabilities are vital to respond more effectively to such disruptive events.</p>
 <p><br></p>

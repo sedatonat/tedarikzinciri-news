@@ -1,14 +1,22 @@
 ---
-title: "4PL Modeli Lojistik Sektöründe Yeni Bir Dönem Başlatıyor"
-subtitle: "4PL Modeli Lojistik Sektöründe Yeni Bir Dönem Başlatıyor"
-date: "2024-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_940e5d285a7849d7ad53db377fabf5b4~mv2.jpg"
-imageAlt: "4PL Modeli Lojistik Sektöründe Yeni Bir Dönem Başlatıyor"
-wixId: "1eae72b4-3394-4496-ab91-84d5ed11a7cf"
-author: "Sedat Onat"
+title: 4PL Modeli Lojistik Sektöründe Yeni Bir Dönem Başlatıyor
+subtitle: 4PL Modeli Lojistik Sektöründe Yeni Bir Dönem Başlatıyor
+date: '2024-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_940e5d285a7849d7ad53db377fabf5b4~mv2.jpg
+imageAlt: 4PL Modeli Lojistik Sektöründe Yeni Bir Dönem Başlatıyor
+wixId: 1eae72b4-3394-4496-ab91-84d5ed11a7cf
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- 4PL
+- 3PL
+- tedarik zinciri
+- lojistik yönetimi
+- Gartner
+- otomotiv sektörü
+- tedarik zinciri dirençliliği
 ---
 <p>Gartner analisti Mathew Beckett'e göre, yıllardır otomotiv sektöründe başarıyla uygulanan "4PL" konsepti, artık genel olarak da ivme kazanmaya başlıyor. Geleneksel olarak, 4PL'ler, diğer 3PL'leri (Third-Party Logistics) yöneten ve şirketlerin bireysel 3PL'leri yönetme ihtiyacını azaltan hizmet sağlayıcılar olarak tanımlanıyordu.</p>
 <p><br></p>

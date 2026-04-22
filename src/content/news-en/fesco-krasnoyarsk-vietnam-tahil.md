@@ -1,16 +1,24 @@
 ---
-title: "FESCO Launches Containerized Grain Service from Krasnoyarsk to Vietnam"
-subtitle: "FESCO Launches Containerized Grain Service from Krasnoyarsk to Vietnam"
-date: "2025-12-05T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_71b80e3589a143b8b72814cbec784e10~mv2.jpg"
-imageAlt: "FESCO Transportation Group's launch of containerized grain exports from the Krasnoyarsk region to Vietnam, opening new markets for Siberian agricultural producers, intermodal integration and the strategic role of the FVDL service detailed overview"
-wixId: "dd5c5369-e94d-4f10-8a59-f0a0bace6bea"
-author: "Sedat Onat"
+title: FESCO Launches Containerized Grain Service from Krasnoyarsk to Vietnam
+subtitle: FESCO Launches Containerized Grain Service from Krasnoyarsk to Vietnam
+date: '2025-12-05T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_71b80e3589a143b8b72814cbec784e10~mv2.jpg
+imageAlt: FESCO Transportation Group's launch of containerized grain exports from the Krasnoyarsk region to Vietnam, opening new markets for Siberian agricultural producers, intermodal integration and the strategic role of the FVDL service detailed overview
+wixId: dd5c5369-e94d-4f10-8a59-f0a0bace6bea
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- FESCO
+- Krasnoyarsk
+- Vietnam
+- container shipping
+- grain exports
+- intermodal logistics
+- Vladivostok
+- Southeast Asia
 ---
-
 <p style="text-align: justify"><strong>FESCO Transportation Group</strong> has launched <strong>containerized grain exports</strong> from <strong>Krasnoyarsk</strong>, located in Russia's Siberian region, to Vietnam, expanding the company's geographic reach while establishing a new logistics channel for the regional agricultural economy. In a statement, the company emphasized that this new route represents a <strong>strategic gateway for West Siberian agricultural producers to Asian markets</strong>.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Krasnoyarsk Region's Agricultural Role</strong></h3>

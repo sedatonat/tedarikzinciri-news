@@ -1,14 +1,23 @@
 ---
-title: "Avustralya Liman Operasyonları Çin Askeri Faaliyetleri Nedeniyle Baskı Altında"
-subtitle: "Avustralya Liman Operasyonları Çin Askeri Faaliyetleri Nedeniyle Baskı Altında"
-date: "2025-03-09T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_619b57458b9e426bb23f8c4a527e1417~mv2.png"
-imageAlt: "Avustralya Liman Operasyonları Çin Askeri Faaliyetleri Nedeniyle Baskı Altında"
-wixId: "09a77c2d-dbae-4518-bdc8-bbfcf35b676e"
-author: "Sedat Onat"
+title: Avustralya Liman Operasyonları Çin Askeri Faaliyetleri Nedeniyle Baskı Altında
+subtitle: Avustralya Liman Operasyonları Çin Askeri Faaliyetleri Nedeniyle Baskı Altında
+date: '2025-03-09T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_619b57458b9e426bb23f8c4a527e1417~mv2.png
+imageAlt: Avustralya Liman Operasyonları Çin Askeri Faaliyetleri Nedeniyle Baskı Altında
+wixId: 09a77c2d-dbae-4518-bdc8-bbfcf35b676e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Avustralya limanları
+- Çin askeri faaliyetleri
+- Güney Çin Denizi
+- deniz taşımacılığı
+- konteyner trafiği
+- Port of Melbourne
+- tedarik zinciri
+- Malakka Boğazı
 ---
 <p style="text-align: justify">Avustralya liman operasyonları, Çin'in artan askeri faaliyetleri nedeniyle önemli bir baskı altına girmekte. Son dönemde, <a href="https://en.wikipedia.org/wiki/People%27s_Liberation_Army"><u><strong>Çin Halk Kurtuluş Ordusu (PLA)</strong></u></a>'nun Güney Çin Denizi'nde gerçekleştirdiği tatbikatlar ve askeri manevralar, bölgedeki deniz ticaret yollarını etkilemekte ve Avustralya'nın deniz taşımacılığı sektöründe endişelere yol açmakta.​</p>
 <p><br></p>

@@ -1,14 +1,23 @@
 ---
-title: "Meksika'nın Nearshoring Teşvikleri ile Bölgesel Entegrasyon Hamlesi"
-subtitle: "Meksika'nın Nearshoring Teşvikleri ile Bölgesel Entegrasyon Hamlesi"
-date: "2025-01-24T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d20ee61eb73343c583a7c9934ad91711~mv2.jpg"
-imageAlt: "Meksika'nın Nearshoring Teşvikleri ile Bölgesel Entegrasyon Hamlesi"
-wixId: "f104c836-b732-4bc6-b469-429f82a93c6f"
-author: "Sedat Onat"
+title: Meksika'nın Nearshoring Teşvikleri ile Bölgesel Entegrasyon Hamlesi
+subtitle: Meksika'nın Nearshoring Teşvikleri ile Bölgesel Entegrasyon Hamlesi
+date: '2025-01-24T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_d20ee61eb73343c583a7c9934ad91711~mv2.jpg
+imageAlt: Meksika'nın Nearshoring Teşvikleri ile Bölgesel Entegrasyon Hamlesi
+wixId: f104c836-b732-4bc6-b469-429f82a93c6f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- nearshoring
+- Meksika
+- tedarik zinciri
+- Plan México
+- bölgesel entegrasyon
+- Kuzey Amerika
+- lojistik
+- yatırım teşvikleri
 ---
 <p style="text-align: justify">Meksika Devlet Başkanı <strong>Claudia Sheinbaum</strong>, ülkenin bölgesel tedarik zincirlerindeki rolünü güçlendirmek amacıyla 30 milyar peso (yaklaşık 1,4 milyar dolar) değerinde bir yakın kıyı teşvik paketi açıkladı. Bu teşvik paketi, <strong>Plan México</strong> adı verilen uzun vadeli ekonomik büyüme planının bir parçası olup, Kuzey Amerika tedarik zincirlerine entegrasyonu artırmayı hedeflemekte. ​</p>
 <p><br></p>

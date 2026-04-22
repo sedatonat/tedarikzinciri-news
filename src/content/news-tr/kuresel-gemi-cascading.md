@@ -1,14 +1,23 @@
 ---
-title: "Sea-Intelligence: Küresel Gemi Cascading’inde Yapısal Dönüşüm Başladı"
-subtitle: "Sea-Intelligence: Küresel Gemi Cascading’inde Yapısal Dönüşüm Başladı"
-date: "2025-12-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_046495df615646aba3d79786e918ab5b~mv2.jpg"
-imageAlt: "Sea-Intelligence analizine göre 2025’in ikinci yarısında küresel konteyner filosu vessel cascading sürecinde yeni ve kalıcı bir faza girerken, kapasite ana hatlardan ikincil rotalara doğru yapısal biçimde yeniden dağılıyor"
-wixId: "9d03adaf-9c85-442e-b2ea-9e23bf871d64"
-author: "Sedat Onat"
+title: 'Sea-Intelligence: Küresel Gemi Cascading’inde Yapısal Dönüşüm Başladı'
+subtitle: 'Sea-Intelligence: Küresel Gemi Cascading’inde Yapısal Dönüşüm Başladı'
+date: '2025-12-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_046495df615646aba3d79786e918ab5b~mv2.jpg
+imageAlt: Sea-Intelligence analizine göre 2025’in ikinci yarısında küresel konteyner filosu vessel cascading sürecinde yeni ve kalıcı bir faza girerken, kapasite ana hatlardan ikincil rotalara doğru yapısal biçimde yeniden dağılıyor
+wixId: 9d03adaf-9c85-442e-b2ea-9e23bf871d64
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Sea-Intelligence
+- vessel cascading
+- konteyner taşımacılığı
+- kapasite yönetimi
+- Asia-Europe hattı
+- Mediterranean-North America
+- yapısal dönüşüm
+- Red Sea crisis
 ---
 <p style="text-align: justify">Denizcilik veri ve analiz kuruluşu <strong>Sea-Intelligence</strong>, küresel konteyner taşımacılığında <strong>vessel cascading</strong> dinamiklerinin 2025 yılının ikinci yarısında (<strong>2025-2H</strong>) yeni ve yapısal bir evreye girdiğini raporladı. <strong>Sunday Spotlight – Issue 744</strong> kapsamında yayımlanan analiz, 2024–2025 döneminde gerçekleşen <strong>16.000’den fazla vessel transfer</strong> verisine dayanmakta ve küresel kapasite dağılımında kalıcı nitelik taşıyan bir kırılmaya işaret etmekte.</p>
 <p><br></p>

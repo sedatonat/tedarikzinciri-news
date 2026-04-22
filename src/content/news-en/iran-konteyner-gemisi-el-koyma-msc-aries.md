@@ -1,16 +1,24 @@
 ---
-title: "Iran's Seizure of Container Ship Expected to Drive Up Ocean Freight Rates"
-subtitle: "Iran's Seizure of Container Ship Expected to Drive Up Ocean Freight Rates"
-date: "2024-04-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8326b989c75342368f3eed8791eb68a8~mv2.png"
-imageAlt: "Iran's Seizure of Container Ship Expected to Drive Up Ocean Freight Rates"
-wixId: "7d680579-8c93-4a99-bdb3-5784e7e2492a"
-author: "Sedat Onat"
+title: Iran's Seizure of Container Ship Expected to Drive Up Ocean Freight Rates
+subtitle: Iran's Seizure of Container Ship Expected to Drive Up Ocean Freight Rates
+date: '2024-04-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8326b989c75342368f3eed8791eb68a8~mv2.png
+imageAlt: Iran's Seizure of Container Ship Expected to Drive Up Ocean Freight Rates
+wixId: 7d680579-8c93-4a99-bdb3-5784e7e2492a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Iran
+- Strait of Hormuz
+- container ship
+- ocean freight rates
+- geopolitical risk
+- MSC Aries
+- insurance costs
+- energy security
 ---
-
 <p>Iran's seizure of a commercial container vessel near the <a href="https://en.wikipedia.org/wiki/Strait_of_Hormuz"><u>Strait of Hormuz</u></a> on April 15, 2024, is expected to trigger significant increases in ocean freight rates and insurance costs.</p>
 <p><br></p>
 <p>This development could produce price increases similar to those seen when numerous ocean carriers began avoiding the <a href="https://en.wikipedia.org/wiki/Red_Sea_crisis"><u>Red Sea</u></a> and <a href="https://en.wikipedia.org/wiki/Suez_Canal"><u>Suez Canal</u></a> in January to evade missiles and unmanned aerial vehicles launched by Houthis in Yemen.</p>

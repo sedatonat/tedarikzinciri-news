@@ -1,16 +1,24 @@
 ---
-title: "MSC Introduces Emissions Surcharge in FuelEU Maritime Compliance"
-subtitle: "MSC Introduces Emissions Surcharge in FuelEU Maritime Compliance"
-date: "2024-10-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_de03ba988dcc47b1957e5f9d3fecaafa~mv2.jpg"
-imageAlt: "MSC Introduces Emissions Surcharge in FuelEU Maritime Compliance"
-wixId: "25682fd6-769c-4f70-8ae0-3d6d9ed6041b"
-author: "Sedat Onat"
+title: MSC Introduces Emissions Surcharge in FuelEU Maritime Compliance
+subtitle: MSC Introduces Emissions Surcharge in FuelEU Maritime Compliance
+date: '2024-10-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_de03ba988dcc47b1957e5f9d3fecaafa~mv2.jpg
+imageAlt: MSC Introduces Emissions Surcharge in FuelEU Maritime Compliance
+wixId: 25682fd6-769c-4f70-8ae0-3d6d9ed6041b
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- MSC
+- FuelEU Maritime
+- emission fee
+- decarbonization
+- LNG ships
+- European Union
+- maritime transport
+- greenhouse gas
 ---
-
 <p>Mediterranean Shipping Company (MSC) has announced it will apply an emissions surcharge to customers as part of its compliance with the European Union's FuelEU Maritime regulation. Taking effect from January 1, 2025, this regulation is part of the EU's comprehensive Fit-for-55 package and aims to reduce greenhouse gas (GHG) emissions in maritime transport. The targets begin with a 2% reduction in 2025 and aim for a reduction of up to 80% by 2050.</p>
 <p><br></p>
 <p>FuelEU Maritime imposes stricter limits on the GHG intensity of fuels used on vessels calling at EU and European Economic Area (EEA) ports. This development will require MSC to transition to cleaner but more expensive fuels and increase operating costs. To manage the increased expenses, MSC plans to apply a surcharge similar to those implemented under previous regulations such as IMO 2020 and the EU's Emissions Trading System (ETS).</p>

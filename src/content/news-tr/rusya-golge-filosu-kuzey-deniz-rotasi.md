@@ -1,14 +1,23 @@
 ---
-title: "Rusya’nın ‘Gölge Filosu’ Kuzey Deniz Rotasında Erken Buzlarla Mücadele Ediyor"
-subtitle: "Rusya’nın ‘Gölge Filosu’ Kuzey Deniz Rotasında Erken Buzlarla Mücadele Ediyor"
-date: "2025-11-03T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_6873dc5f3c464bdc9b7f395b26837045~mv2.jpg"
-imageAlt: "Russia’nın Buran adlı gölge filo LNG tankerinin Kuzey Deniz Rotası’nda erken kış buzlarıyla mücadele ederek ilerleyememesi ve bunun Rusya’nın Arktik LNG ihracatı için yarattığı riskleri anlatan detaylı özet."
-wixId: "9d4ae5b3-ea6c-405d-ae7d-34d729d67dae"
-author: "Sedat Onat"
+title: Rusya’nın ‘Gölge Filosu’ Kuzey Deniz Rotasında Erken Buzlarla Mücadele Ediyor
+subtitle: Rusya’nın ‘Gölge Filosu’ Kuzey Deniz Rotasında Erken Buzlarla Mücadele Ediyor
+date: '2025-11-03T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_6873dc5f3c464bdc9b7f395b26837045~mv2.jpg
+imageAlt: Russia’nın Buran adlı gölge filo LNG tankerinin Kuzey Deniz Rotası’nda erken kış buzlarıyla mücadele ederek ilerleyememesi ve bunun Rusya’nın Arktik LNG ihracatı için yarattığı riskleri anlatan detaylı özet.
+wixId: 9d4ae5b3-ea6c-405d-ae7d-34d729d67dae
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Rusya
+- gölge filo
+- LNG tankeri
+- Kuzey Deniz Rotası
+- Arktik
+- buzkıran
+- Novatek
+- deniz lojistiği
 ---
 <p style="text-align: justify">Rusya’nın yaptırımlar sonrası oluşturduğu <strong>“gölge filo”</strong> içinde faaliyet gösteren LNG tankerlerinin Arktik operasyon kapasitesi, 2025 kışının erken başlayan buzlanma koşullarıyla sınanıyor. En dikkat çekici örnek, <strong>Buran</strong> adlı LNG tankerinin <strong>Kuzey Deniz Rotası (NSR)</strong> boyunca yoğunlaşan deniz buzu nedeniyle günlerdir ilerleyememesi. Bu durum, Moskova’nın Arktik LNG ihracatını sürdürebilmek için büyük ölçüde bu rotaya bel bağlamasının ne kadar kırılgan olduğunu bir kez daha ortaya koyuyor.</p>
 <p><br></p>

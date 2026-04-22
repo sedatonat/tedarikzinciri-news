@@ -1,14 +1,21 @@
 ---
-title: "Cass International Freight Fatura Denetim Araçlarını Genişletiyor"
-subtitle: "Cass International Freight Fatura Denetim Araçlarını Genişletiyor"
-date: "2025-01-02T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_b98bd1d2c3c74a45badd9c1993adb5ed~mv2.jpg"
-imageAlt: "Cass International Freight Fatura Denetim Araçlarını Genişletiyor"
-wixId: "859934f5-64c6-49d3-b200-c556f719be14"
-author: "Sedat Onat"
+title: Cass International Freight Fatura Denetim Araçlarını Genişletiyor
+subtitle: Cass International Freight Fatura Denetim Araçlarını Genişletiyor
+date: '2025-01-02T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_b98bd1d2c3c74a45badd9c1993adb5ed~mv2.jpg
+imageAlt: Cass International Freight Fatura Denetim Araçlarını Genişletiyor
+wixId: 859934f5-64c6-49d3-b200-c556f719be14
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Cass Information Systems
+- fatura denetimi
+- uluslararası taşımacılık
+- dijitalleşme
+- maliyet optimizasyonu
+- satın alma
 ---
 <p>ABD merkezli <strong>Cass Information Systems</strong>, uluslararası yük taşımacılığı için fatura denetim aracı satın alarak hizmet yelpazesini genişletiyor. Şirket, bu adımıyla sadece ulusal değil, aynı zamanda uluslararası müşterilere de daha geniş bir hizmet sunmayı hedefliyor. Bu stratejik satın alma, Cass'in farklı modlardaki taşımacılık alanındaki etkisini artırmayı ve daha geniş bir pazar kitlesine ulaşmayı amaçlıyor.</p>
 <p><br></p>

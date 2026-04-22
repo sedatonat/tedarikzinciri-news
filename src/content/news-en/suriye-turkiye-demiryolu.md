@@ -1,16 +1,24 @@
 ---
-title: "New Opportunities for Rail Links Between Syria and Turkey"
-subtitle: "New Opportunities for Rail Links Between Syria and Turkey"
-date: "2024-12-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_92384e15c93d4d569705a3cf513d7b5f~mv2.jpg"
-imageAlt: "New Opportunities for Rail Links Between Syria and Turkey"
-wixId: "dac2e728-67bf-4a72-bce4-7c4c523978d5"
-author: "Sedat Onat"
+title: New Opportunities for Rail Links Between Syria and Turkey
+subtitle: New Opportunities for Rail Links Between Syria and Turkey
+date: '2024-12-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_92384e15c93d4d569705a3cf513d7b5f~mv2.jpg
+imageAlt: New Opportunities for Rail Links Between Syria and Turkey
+wixId: dac2e728-67bf-4a72-bce4-7c4c523978d5
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Syria
+- Turkey
+- railway
+- Aleppo
+- Mersin port
+- Iskenderun
+- freight transport
+- diplomatic relations
 ---
-
 <p>With <strong>Bashar al-Assad</strong>'s rapid fall from power in Syria, new opportunities are emerging for the country. Turkey, its northern neighbor, has welcomed this political shift and is now proposing new rail transport plans alongside the restoration of diplomatic relations.</p>
 <p><br></p>
 <p>A year before Syria's civil war, Syria and Turkey had established a railway line between the Syrian city of Aleppo and Turkey's Mersin port. Despite this line remaining closed for over 12 years, Ankara is now seeking to reopen it. Plans are in place for both freight and passenger transport between the two countries via this rail corridor in the near future.</p>

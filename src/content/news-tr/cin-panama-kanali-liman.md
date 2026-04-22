@@ -1,16 +1,24 @@
 ---
-title: "Çin Panama Kanalı Liman Satışında Kontrol Payı Talep Ediyor"
-subtitle: "Çin Panama Kanalı Liman Satışında Kontrol Payı Talep Ediyor"
-date: "2025-12-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_24d2b239b35549f7be11fd46ab4c10fe~mv2.jpg"
-imageAlt: "Çin, Panama Kanalı girişlerindeki iki stratejik limanın 22,8 milyar dolarlık satışında Cosco için kontrol payı talep ederken, ABD ile Çin arasında jeopolitik ve ticari gerilim derinleşmekte."
-sourceUrl: "https://www.supplychainbrain.com/articles/43020-china-demands-controlling-stake-in-sale-of-panama-canal-ports"
-author: "Sedat Onat"
+title: Çin Panama Kanalı Liman Satışında Kontrol Payı Talep Ediyor
+subtitle: Çin Panama Kanalı Liman Satışında Kontrol Payı Talep Ediyor
+date: '2025-12-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_24d2b239b35549f7be11fd46ab4c10fe~mv2.jpg
+imageAlt: Çin, Panama Kanalı girişlerindeki iki stratejik limanın 22,8 milyar dolarlık satışında Cosco için kontrol payı talep ederken, ABD ile Çin arasında jeopolitik ve ticari gerilim derinleşmekte.
+sourceUrl: https://www.supplychainbrain.com/articles/43020-china-demands-controlling-stake-in-sale-of-panama-canal-ports
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Panama Kanalı
+- Cosco
+- BlackRock
+- MSC
+- liman satışı
+- Çin-ABD rekabeti
+- CK Hutchison
+- deniz taşımacılığı
 ---
-
 <p style="text-align: justify">Panama Kanalı’nın Atlantik ve Pasifik girişlerinde yer alan iki stratejik limanın satış süreci, küresel ticaret ve jeopolitik dengeler açısından yeni bir gerilim alanı yaratmakta. <strong>SupplyChainBrain</strong> tarafından aktarılan bilgilere göre <strong>Çin</strong>, söz konusu limanların <strong>22,8 milyar dolarlık</strong> satışında, devlet kontrolündeki deniz taşımacılığı şirketi <strong>Cosco</strong> adına <strong>kontrol payı</strong> talep etmekte. Bu talep, satış sürecini fiilen kilitleyen bir unsur haline gelmiş durumda.</p>
 <p><br></p>
 <p style="text-align: justify">Süreç, ABD merkezli yatırım devi <strong>BlackRock</strong> ile İsviçreli konteyner taşımacılığı operatörü <strong>MSC</strong> arasında Mart ayında varılan ön anlaşma ile başlamıştı. Anlaşma, Panama Kanalı’nın iki ucunda yer alan ve uzun süredir <strong>CK Hutchison</strong> tarafından işletilen limanların satın alınmasını öngörmekteydi. Bu adım, <strong>ABD Başkanı Donald Trump</strong> tarafından yapılan yoğun baskıların ardından gündeme geldi.</p>

@@ -1,14 +1,23 @@
 ---
-title: "Yapay Zekâ Kesintileri Çukurlar Değil Tümsekler Yapmakta"
-subtitle: "Yapay Zekâ Kesintileri Çukurlar Değil Tümsekler Yapmakta"
-date: "2025-08-19T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_8332bcdb7cc74c87811f5fd8d2446d73~mv2.png"
-imageAlt: "Yapay Zekâ Kesintileri Çukurlar Değil Tümsekler Yapmakta"
-wixId: "1f818959-9f81-461f-b5d2-c00bf9f5ff6e"
-author: "Sedat Onat"
+title: Yapay Zekâ Kesintileri Çukurlar Değil Tümsekler Yapmakta
+subtitle: Yapay Zekâ Kesintileri Çukurlar Değil Tümsekler Yapmakta
+date: '2025-08-19T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_8332bcdb7cc74c87811f5fd8d2446d73~mv2.png
+imageAlt: Yapay Zekâ Kesintileri Çukurlar Değil Tümsekler Yapmakta
+wixId: 1f818959-9f81-461f-b5d2-c00bf9f5ff6e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- yapay zeka
+- tedarik zinciri
+- kesinti yönetimi
+- demand sensing
+- dijital ikiz
+- cognitive agents
+- veri yönetişimi
+- dynamic routing
 ---
 <p style="text-align: justify"><strong>Tedarik zinciri kesintileri</strong>, doğru <strong>teknoloji</strong> ve <strong>yönetişim (governance)</strong> altyapısıyla artık birer “kriz” değil, yönetilebilir “tümsekler” haline gelebilmektedir. Bu dönüşümün merkezinde, <strong>yapay zekâ (AI)</strong> destekli <strong>algılama (sensing)</strong>, <strong>öngörü (forecasting)</strong> ve <strong>yeniden planlama (replanning)</strong> sistemleri bulunmaktadır. Bu sistemler, tedarik zincirini sadece izleyen değil, proaktif şekilde yönlendiren bir <strong>sinir sistemi</strong> haline getirmektedir.</p>
 <p><br></p>

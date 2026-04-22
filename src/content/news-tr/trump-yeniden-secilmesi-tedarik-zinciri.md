@@ -1,14 +1,23 @@
 ---
-title: "Tedarik Zinciri Liderlerinin Trump’ın Yeniden Seçilmesine Tepkisi"
-subtitle: "Tedarik Zinciri Liderlerinin Trump’ın Yeniden Seçilmesine Tepkisi"
-date: "2024-11-06T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_aea660ef0994484d853379f0fe0044a2~mv2.jpg"
-imageAlt: "Tedarik Zinciri Liderlerinin Trump’ın Yeniden Seçilmesine Tepkisi"
-wixId: "d40683e7-b871-45c8-9f88-ec171994aa3d"
-author: "Sedat Onat"
+title: Tedarik Zinciri Liderlerinin Trump’ın Yeniden Seçilmesine Tepkisi
+subtitle: Tedarik Zinciri Liderlerinin Trump’ın Yeniden Seçilmesine Tepkisi
+date: '2024-11-06T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_aea660ef0994484d853379f0fe0044a2~mv2.jpg
+imageAlt: Tedarik Zinciri Liderlerinin Trump’ın Yeniden Seçilmesine Tepkisi
+wixId: d40683e7-b871-45c8-9f88-ec171994aa3d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Trump
+- tarifeler
+- tedarik zinciri
+- üretim
+- perakende
+- enflasyon
+- ticaret politikası
+- ABD
 ---
 <p>Amerika Birleşik Devletleri, Salı günü yapılan seçimde Donald Trump’ı başkan olarak yeniden seçti. Trump, önceki seçimlerinde yeniden seçilememiş olan mevcut Başkan Yardımcısı Kamala Harris’i mağlup etti. Seçim sürecinde, Trump ve Harris’in kampanyalarında tedarik zinciri ana odak noktası olmasa da, her iki aday da tarifeler, yapay zeka, üretim gibi konularda farklı felsefeler ve planlar sundu.</p>
 <p><br></p>

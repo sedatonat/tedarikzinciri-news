@@ -1,16 +1,23 @@
 ---
-title: "Gen Z's Shift to the Skilled Trades: An Opportunity for Supply Chain"
-subtitle: "Gen Z's Shift to the Skilled Trades: An Opportunity for Supply Chain"
-date: "2025-03-04T00:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_ba24a5282df9417488ba4d0e0692c706~mv2.png"
-imageAlt: "Gen Z's Turn to the Skilled Trades: An Opportunity for Supply Chain"
-wixId: "08e9c2f6-da00-4fb0-b2e8-0d9411d50efd"
-author: "Sedat Onat"
+title: 'Gen Z''s Shift to the Skilled Trades: An Opportunity for Supply Chain'
+subtitle: 'Gen Z''s Shift to the Skilled Trades: An Opportunity for Supply Chain'
+date: '2025-03-04T00:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_ba24a5282df9417488ba4d0e0692c706~mv2.png
+imageAlt: 'Gen Z''s Turn to the Skilled Trades: An Opportunity for Supply Chain'
+wixId: 08e9c2f6-da00-4fb0-b2e8-0d9411d50efd
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Gen Z
+- skilled trades
+- talent management
+- warehouse automation
+- internship programs
+- digitalization
+- labor shortage
 ---
-
 <p><br>
 Gen Z's move into skilled trades is creating significant opportunities for the logistics and manufacturing sectors. Apprenticeships, micro-credentials, and on-the-job learning models are gaining prominence in educational programs.&nbsp;</p>
 <p><br></p>

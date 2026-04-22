@@ -1,14 +1,22 @@
 ---
-title: "Cydome: Siber Olay Bildirimi İçin Ücretsiz Araç"
-subtitle: "Cydome: Siber Olay Bildirimi İçin Ücretsiz Araç"
-date: "2025-08-11T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_d38a8729bf1b40fb97d154139c66d5f6~mv2.png"
-imageAlt: "Cydome: Siber Olay Bildirimi İçin Ücretsiz Araç"
-wixId: "74b4eeeb-720c-4541-b8cf-625d34801ee2"
-author: "Sedat Onat"
+title: 'Cydome: Siber Olay Bildirimi İçin Ücretsiz Araç'
+subtitle: 'Cydome: Siber Olay Bildirimi İçin Ücretsiz Araç'
+date: '2025-08-11T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_d38a8729bf1b40fb97d154139c66d5f6~mv2.png
+imageAlt: 'Cydome: Siber Olay Bildirimi İçin Ücretsiz Araç'
+wixId: 74b4eeeb-720c-4541-b8cf-625d34801ee2
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Cydome
+- siber güvenlik
+- olay bildirimi
+- BT/OT altyapı
+- denizcilik lojistiği
+- uyumluluk
+- KOBİ
 ---
 <p style="text-align: justify"><strong>Cydome</strong>, kurumların <strong>siber olay bildirim süreçlerini kolaylaştırmak</strong> amacıyla <strong>ücretsiz bir araç</strong> yayınladı. Bu çözüm, özellikle karmaşık ve dağıtık <strong>BT/OT altyapılarına sahip sektörlerde</strong> —örneğin denizcilik ve lojistikte— siber olay yönetiminin ilk aşamalarında standardizasyon ve hız kazandırmayı hedefliyor.</p>
 <p style="text-align: justify"><br></p>

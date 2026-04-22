@@ -1,16 +1,24 @@
 ---
-title: "New York City Activates Waterways for Freight: Blue Highways Pilot Program Launched"
-subtitle: "New York City Activates Waterways for Freight: Blue Highways Pilot Program Launched"
-date: "2025-12-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c0f47e05131942b0a46e8eda6dd83f85~mv2.jpg"
-imageAlt: "New York City's Blue Highways program, which has launched a water-based freight pilot between Manhattan and Brooklyn, aims to reduce truck traffic, integrates electric cargo bikes, and seeks resilience in urban logistics—detailed overview"
-wixId: "65ea2326-bfb3-4ffa-8427-5f99d3cd3781"
-author: "Sedat Onat"
+title: 'New York City Activates Waterways for Freight: Blue Highways Pilot Program Launched'
+subtitle: 'New York City Activates Waterways for Freight: Blue Highways Pilot Program Launched'
+date: '2025-12-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c0f47e05131942b0a46e8eda6dd83f85~mv2.jpg
+imageAlt: New York City's Blue Highways program, which has launched a water-based freight pilot between Manhattan and Brooklyn, aims to reduce truck traffic, integrates electric cargo bikes, and seeks resilience in urban logistics—detailed overview
+wixId: 65ea2326-bfb3-4ffa-8427-5f99d3cd3781
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- New York City
+- waterway transportation
+- Blue Highways
+- last mile delivery
+- electric cargo bike
+- urban logistics
+- multimodal transportation
+- emission reduction
 ---
-
 <p style="text-align: justify"><strong>New York City</strong> has initiated a fundamental pilot project in its logistics infrastructure to address rising delivery volumes, congested truck traffic, and urban air pollution. The city administration has launched a new pilot program that uses <strong>waterways as an active freight network</strong> to reduce road-based transport dependency for cargo movement. This initiative is being implemented under the <strong>Blue Highways</strong> program and aims to reunite New York's historical port identity with modern urban logistics.</p>
 <p><br></p>
 <p style="text-align: justify">The pilot project creates a <strong>marine freight route</strong> between <strong>Pier 79 in Manhattan</strong> and <strong>Brooklyn Marine Terminal in Red Hook, Brooklyn</strong>. Cargo is transported across New York Harbor via <strong>ferry</strong> and then transferred to <strong>electric cargo bikes</strong> for last-mile delivery upon reaching Manhattan. This distribution model covers the dense commercial and residential zones between <strong>23rd Street and 70th Street</strong> in Manhattan.</p>

@@ -1,16 +1,23 @@
 ---
-title: "Airbus SE Changes Commercial Aircraft Unit Leadership While Maintaining Production Targets"
-subtitle: "Airbus SE Changes Commercial Aircraft Unit Leadership While Maintaining Production Targets"
-date: "2024-11-01T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_554836ee0bc84824b0da4385fbcdcf2f~mv2.jpg"
-imageAlt: "Airbus SE Changes Commercial Aircraft Unit Leadership While Maintaining Production Targets"
-wixId: "e974c992-9319-4d31-b753-07e7fabab665"
-author: "Sedat Onat"
+title: Airbus SE Changes Commercial Aircraft Unit Leadership While Maintaining Production Targets
+subtitle: Airbus SE Changes Commercial Aircraft Unit Leadership While Maintaining Production Targets
+date: '2024-11-01T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_554836ee0bc84824b0da4385fbcdcf2f~mv2.jpg
+imageAlt: Airbus SE Changes Commercial Aircraft Unit Leadership While Maintaining Production Targets
+wixId: e974c992-9319-4d31-b753-07e7fabab665
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Airbus
+- commercial aviation
+- supply chain
+- production targets
+- MTU Aero Engines
+- aviation industry
+- leadership change
 ---
-
 <p>Airbus SE announced that Lars Wagner, CEO of MTU Aero Engines AG, will lead the commercial aircraft division. Wagner will assume the role in early 2026, replacing Christian Scherer, a 40-year Airbus veteran. The company also stated that the board will propose the renewal of CEO Guillaume Faury's term.</p>
 <p><br></p>
 <p>Despite the leadership change, Airbus is maintaining its target of delivering approximately 770 aircraft this year, even as supply chain disruptions affect production plans. Having delivered 497 commercial jets in the first nine months, the company's commitment to this goal demonstrates confidence in the future and defies analyst expectations that 2024 targets could be reduced.</p>

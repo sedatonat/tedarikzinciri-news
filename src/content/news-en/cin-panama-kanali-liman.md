@@ -1,16 +1,24 @@
 ---
-title: "China Demands Controlling Stake in Panama Canal Port Sale"
-subtitle: "China Demands Controlling Stake in Panama Canal Port Sale"
-date: "2025-12-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_24d2b239b35549f7be11fd46ab4c10fe~mv2.jpg"
-imageAlt: "As China seeks a controlling stake for state-owned shipping company Cosco in the $22.8 billion sale of two strategic ports at the Panama Canal's entrances, geopolitical and commercial tensions between the U.S. and China are deepening."
-sourceUrl: "https://www.supplychainbrain.com/articles/43020-china-demands-controlling-stake-in-sale-of-panama-canal-ports"
-author: "Sedat Onat"
+title: China Demands Controlling Stake in Panama Canal Port Sale
+subtitle: China Demands Controlling Stake in Panama Canal Port Sale
+date: '2025-12-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_24d2b239b35549f7be11fd46ab4c10fe~mv2.jpg
+imageAlt: As China seeks a controlling stake for state-owned shipping company Cosco in the $22.8 billion sale of two strategic ports at the Panama Canal's entrances, geopolitical and commercial tensions between the U.S. and China are deepening.
+sourceUrl: https://www.supplychainbrain.com/articles/43020-china-demands-controlling-stake-in-sale-of-panama-canal-ports
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Panama Canal
+- Cosco
+- BlackRock
+- MSC
+- port sale
+- China-U.S. competition
+- CK Hutchison
+- maritime shipping
 ---
-
 <p style="text-align: justify">The sale process for two strategic ports at the Atlantic and Pacific entrances to the Panama Canal is creating a new flashpoint for global trade and geopolitical balance. According to information reported by <strong>SupplyChainBrain</strong>, <strong>China</strong> is demanding a <strong>controlling stake</strong> in the <strong>$22.8 billion</strong> sale of these ports on behalf of state-controlled shipping company <strong>Cosco</strong>. This demand has become a factor that effectively blocks the sales process.</p>
 <p><br></p>
 <p style="text-align: justify">The process began with a preliminary agreement reached in March between U.S.-based investment giant <strong>BlackRock</strong> and Swiss container shipping operator <strong>MSC</strong>. The agreement envisioned the acquisition of ports located at both ends of the Panama Canal and long operated by <strong>CK Hutchison</strong>. This move came to the fore following intense pressure exerted by <strong>U.S. President Donald Trump</strong>.</p>

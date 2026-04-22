@@ -1,14 +1,22 @@
 ---
-title: "Alman Limanlarındaki Yeni Güvenli Serbest Bırakma Süreci"
-subtitle: "Alman Limanlarındaki Yeni Güvenli Serbest Bırakma Süreci"
-date: "2024-04-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_338363c370624da5906f9722ec382d26~mv2.jpg"
-imageAlt: "Alman Limanlarındaki Yeni Güvenli Serbest Bırakma Süreci"
-wixId: "bd44f9e0-e931-41a6-aab4-e1ec5e5ff069"
-author: "Sedat Onat"
+title: Alman Limanlarındaki Yeni Güvenli Serbest Bırakma Süreci
+subtitle: Alman Limanlarındaki Yeni Güvenli Serbest Bırakma Süreci
+date: '2024-04-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_338363c370624da5906f9722ec382d26~mv2.jpg
+imageAlt: Alman Limanlarındaki Yeni Güvenli Serbest Bırakma Süreci
+wixId: bd44f9e0-e931-41a6-aab4-e1ec5e5ff069
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Alman limanları
+- dijital serbest bırakma
+- güvenli teslimat emri
+- DAKOSY
+- konteyner güvenliği
+- liman güvenliği
+- dijitalleşme
 ---
 <p>Alman limanları, ithal konteynerler için yeni bir standartlaştırılmış dijital serbest bırakma süreci olan "Güvenli Teslimat Emri"ni başlatıyor. Bu süreç, önceden kullanılan PIN kodu tabanlı işlemleri kademeli olarak değiştirecek.&nbsp;</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "Çalışan Güvenliğini Önceliklendirmede Teknolojinin Rolü"
-subtitle: "Çalışan Güvenliğini Önceliklendirmede Teknolojinin Rolü"
-date: "2025-02-03T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_c6a343e016504f0db67d7ae8c4154382~mv2.jpg"
-imageAlt: "Çalışan Güvenliğini Önceliklendirmede Teknolojinin Rolü"
-wixId: "ee443bcf-762d-431f-901f-767d5863aa6d"
-author: "Sedat Onat"
+title: Çalışan Güvenliğini Önceliklendirmede Teknolojinin Rolü
+subtitle: Çalışan Güvenliğini Önceliklendirmede Teknolojinin Rolü
+date: '2025-02-03T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_c6a343e016504f0db67d7ae8c4154382~mv2.jpg
+imageAlt: Çalışan Güvenliğini Önceliklendirmede Teknolojinin Rolü
+wixId: ee443bcf-762d-431f-901f-767d5863aa6d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- çalışan güvenliği
+- giyilebilir teknoloji
+- ekzoskeleton
+- yapay zeka
+- depo güvenliği
+- ergonomi
+- iş kazası
 ---
 <p style="text-align: justify">Günümüzde işletmeler, çalışan güvenliğini artırmak ve iş kazalarını azaltmak için teknolojik çözümlere yönelmektedir. Bu kapsamda, <strong>ekzoskeleton</strong> ve <strong>ekzosuit</strong> gibi giyilebilir teknolojiler, çalışanların fiziksel yüklerini hafifletmekte ve ergonomik destek sağlamaktadır. Özellikle ağır kaldırma, eğilme ve yürüme gibi fiziksel olarak zorlu işlerde kullanılan bu cihazlar, iş yerinde yaralanma riskini azaltmakta ve çalışan verimliliğini artırmaktadır.&nbsp;</p>
 <p><br></p>

@@ -1,14 +1,23 @@
 ---
-title: "Pire–Elefsis Gerilimi: ABD–Çin Rekabeti Akdeniz Lojistiğini İkiye Bölüyor"
-subtitle: "Pire–Elefsis Gerilimi: ABD–Çin Rekabeti Akdeniz Lojistiğini İkiye Bölüyor"
-date: "2025-11-24T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_6ed5a42482ad48a29ef0f55909cbabe1~mv2.jpg"
-imageAlt: "Pire Limanı üzerindeki ABD–Çin nüfuz mücadelesi, Elefsis Shipyard’ın DFC destekli stratejik yükselişi, NATO uyumlu altyapı ihtiyacı ve 2026 için bölgesel tedarik zinciri etkilerinin detaylı analizi"
-wixId: "d84cff09-d1ca-4bbc-8d17-7981687bfab9"
-author: "Sedat Onat"
+title: 'Pire–Elefsis Gerilimi: ABD–Çin Rekabeti Akdeniz Lojistiğini İkiye Bölüyor'
+subtitle: 'Pire–Elefsis Gerilimi: ABD–Çin Rekabeti Akdeniz Lojistiğini İkiye Bölüyor'
+date: '2025-11-24T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_6ed5a42482ad48a29ef0f55909cbabe1~mv2.jpg
+imageAlt: Pire Limanı üzerindeki ABD–Çin nüfuz mücadelesi, Elefsis Shipyard’ın DFC destekli stratejik yükselişi, NATO uyumlu altyapı ihtiyacı ve 2026 için bölgesel tedarik zinciri etkilerinin detaylı analizi
+wixId: d84cff09-d1ca-4bbc-8d17-7981687bfab9
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Pire Limanı
+- COSCO
+- ABD-Çin rekabeti
+- Elefsis Shipyard
+- Akdeniz lojistiği
+- jeopolitik
+- NATO
+- liman güvenliği
 ---
 <p style="text-align: justify">2025’in son haftalarında Akdeniz lojistik sahnesi, ABD–Çin rekabetinin yeni bir cephesine dönüştü. <strong>Piraeus Port Authority</strong>’de %67 çoğunluk hissesi bulunan <strong>COSCO</strong> nedeniyle ABD ile Yunanistan arasında diplomatik bir gerilim yaşanmakta. Washington, Çin’in Pire üzerindeki kontrolünü “<strong>unfortunate</strong>” olarak tanımlıyor ve Yunan hükümetine bu bağımlılığı azaltması yönünde baskı uyguluyor. Beyaz Saray, Pire’nin NATO güvenlik ekosistemindeki konumunun Çin sahipliği nedeniyle zayıfladığını savunmakta.</p>
 <p><br></p>

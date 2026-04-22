@@ -1,13 +1,20 @@
 ---
-title: "Illinois Üniversitesi Tarafından yayınlanan araştırmaya göre, Amazon tesislerinde işçi sağlığı ikinci planda"
-subtitle: "Illinois Üniversitesi Tarafından yayınlanan araştırmaya göre, Amazon tesislerinde işçi sağlığı ikinci planda"
-date: "2023-10-27T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_20bdc0623e88456caa44e19cbc4a5072~mv2.jpg"
-wixId: "d8f459f8-9994-41df-a23c-933af3f7d600"
-author: "Sedat Onat"
+title: Illinois Üniversitesi Tarafından yayınlanan araştırmaya göre, Amazon tesislerinde işçi sağlığı ikinci planda
+subtitle: Illinois Üniversitesi Tarafından yayınlanan araştırmaya göre, Amazon tesislerinde işçi sağlığı ikinci planda
+date: '2023-10-27T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_20bdc0623e88456caa44e19cbc4a5072~mv2.jpg
+wixId: d8f459f8-9994-41df-a23c-933af3f7d600
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Amazon
+- işçi sağlığı
+- depo işçileri
+- iş güvenliği
+- Illinois Üniversitesi
+- çalışma koşulları
 ---
 <p>Illinois Üniversitesi Chicago Şehir Ekonomik Kalkınma Merkezi tarafından gerçekleştirilençalışmaya göre, Amazon 'un ABD 'deki depo işçilerinin üçte ikisinden fazlasının işte yaşadıkları ağrı veya yorgunluktan iyileşmek için ücretli izin aldığını ortaya koydu.&nbsp;</p>
 <p><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "Retailers Redesign Boxes to Cut Costs and Carbon Footprint"
-subtitle: "Retailers Redesign Boxes to Cut Costs and Carbon Footprint"
-date: "2025-03-27T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_f3b1ed036b2640048fa23584347a26d8~mv2.png"
-imageAlt: "Cost and Carbon: Retailers Rethinking Their Boxes"
-wixId: "a0316357-9fe4-4023-a675-ab718b3a3b4b"
-author: "Sedat Onat"
+title: Retailers Redesign Boxes to Cut Costs and Carbon Footprint
+subtitle: Retailers Redesign Boxes to Cut Costs and Carbon Footprint
+date: '2025-03-27T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_f3b1ed036b2640048fa23584347a26d8~mv2.png
+imageAlt: 'Cost and Carbon: Retailers Rethinking Their Boxes'
+wixId: a0316357-9fe4-4023-a675-ab718b3a3b4b
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- packaging optimization
+- carbon footprint
+- sustainability
+- retail logistics
+- right-sizing
+- recycling
+- ESG
+- PCR
 ---
-
 <p style="text-align: justify"><strong>Retailers</strong> are <strong>redesigning their packaging strategies</strong> to simultaneously achieve <strong>cost reduction</strong> and <strong>carbon footprint minimization.</strong> At the center of this new approach are <strong>right-sizing</strong>, <strong>mono-material</strong> usage, increasing <strong>PCR content (recycled material ratio)</strong>, and reducing unnecessary <strong>void fill.</strong> This transformation delivers efficiency not only in packaging but also across logistics, warehouse, and customer experience processes.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>Right-sizing</strong> directly reduces both material consumption and transportation costs. Smaller boxes tailored precisely to products optimize shelf space utilization in warehouses while minimizing empty volume during shipment. This increases <strong>cube efficiency</strong> per truck and container, driving down <strong>carbon emissions.</strong></p>

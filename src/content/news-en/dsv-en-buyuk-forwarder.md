@@ -1,16 +1,23 @@
 ---
-title: "DSV Leaps Ahead of Rival to Become World's Largest Freight Forwarder"
-subtitle: "DSV Leaps Ahead of Rival to Become World's Largest Freight Forwarder"
-date: "2025-11-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e86e2e974ef94729a6cd2cf0b9c84478~mv2.jpg"
-imageAlt: "DSV has overtaken its German rival in the latest financial results comparison to claim the position of world's largest freight forwarder, while DHL and Kuehne+Nagel both navigated a challenging quarter."
-wixId: "650fa110-b610-4ef4-b3bd-b1894480f382"
-author: "Sedat Onat"
+title: DSV Leaps Ahead of Rival to Become World's Largest Freight Forwarder
+subtitle: DSV Leaps Ahead of Rival to Become World's Largest Freight Forwarder
+date: '2025-11-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e86e2e974ef94729a6cd2cf0b9c84478~mv2.jpg
+imageAlt: DSV has overtaken its German rival in the latest financial results comparison to claim the position of world's largest freight forwarder, while DHL and Kuehne+Nagel both navigated a challenging quarter.
+wixId: 650fa110-b610-4ef4-b3bd-b1894480f382
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- DSV
+- freight forwarder
+- DHL
+- Kuehne+Nagel
+- logistics
+- acquisition strategy
+- digitalization
 ---
-
 <p style="text-align: justify">Europe's three logistics giants — <strong>DSV</strong>, <strong>DHL</strong>, and <strong>Kuehne+Nagel</strong> — have released their latest financial results, and comparative analysis reveals a significant shift in the sector's balance of power. According to recent assessments, <strong>DSV</strong> has surpassed its German rival to claim the position of <strong>world's largest freight forwarder</strong>. This development demonstrates how competition in the global transportation and logistics sector is being reshaped.</p>
 <p><br></p>
 <p style="text-align: justify">DSV's ascent demonstrates that the company's aggressive acquisition strategy in recent years, operational efficiency programs, and integrated transportation solutions are paying off. The Denmark-based company has expanded capacity in its Air &amp; Sea Forwarding segment, gaining particular prominence through volume and revenue growth captured in the global marketplace.</p>

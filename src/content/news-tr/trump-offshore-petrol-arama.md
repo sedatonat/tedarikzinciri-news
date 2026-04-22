@@ -1,13 +1,21 @@
 ---
-title: "ABD, Kıyılarını Petrol Arama Faaliyetlerine Açmayı Planlıyor"
-subtitle: "ABD, Kıyılarını Petrol Arama Faaliyetlerine Açmayı Planlıyor"
-date: "2025-10-25T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_331fd9d423994c4ab6d8fac0406e81fb~mv2.jpg"
-wixId: "9ba24739-3bb2-49df-847d-408b1fd7f3fc"
-author: "Sedat Onat"
+title: ABD, Kıyılarını Petrol Arama Faaliyetlerine Açmayı Planlıyor
+subtitle: ABD, Kıyılarını Petrol Arama Faaliyetlerine Açmayı Planlıyor
+date: '2025-10-25T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_331fd9d423994c4ab6d8fac0406e81fb~mv2.jpg
+wixId: 9ba24739-3bb2-49df-847d-408b1fd7f3fc
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- petrol arama
+- açık deniz sondajı
+- Trump yönetimi
+- çevre politikası
+- enerji güvenliği
+- kıyı eyaletleri
+- Meksika Körfezi
 ---
 <p style="text-align: justify"><strong>Bloomberg</strong>’ün elde ettiği belgelere göre, <strong>Trump yönetimi</strong>, çevre gruplarının ve kıyı eyaletlerinin itirazlarına rağmen <strong>ABD’nin neredeyse tüm kıyı sularını açık deniz petrol aramalarına açacak bir plan hazırlıyor.</strong><br>
 Taslak plan, <strong>İçişleri Bakanlığı (Department of the Interior)</strong> tarafından hazırlanmakta olup, <strong>Atlantik’ten Pasifik’e, Alaska çevresinden Meksika Körfezi’ne</strong> kadar yeni petrol ve doğalgaz ruhsat satışlarını öngörüyor.</p>

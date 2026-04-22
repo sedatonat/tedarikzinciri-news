@@ -1,16 +1,23 @@
 ---
-title: "Walmart Aims to Expand Drone Deliveries to Five Cities"
-subtitle: "Walmart Aims to Expand Drone Deliveries to Five Cities"
-date: "2025-06-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_772867ca711f4908b6e75d36712e8102~mv2.png"
-imageAlt: "Walmart Aims to Expand Drone Deliveries to Five Cities"
-wixId: "234ed83f-f3f1-49c7-b3f2-c3941c0f8de1"
-author: "Sedat Onat"
+title: Walmart Aims to Expand Drone Deliveries to Five Cities
+subtitle: Walmart Aims to Expand Drone Deliveries to Five Cities
+date: '2025-06-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_772867ca711f4908b6e75d36712e8102~mv2.png
+imageAlt: Walmart Aims to Expand Drone Deliveries to Five Cities
+wixId: 234ed83f-f3f1-49c7-b3f2-c3941c0f8de1
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Walmart
+- drone delivery
+- last mile
+- micro-fulfillment
+- BVLOS
+- retail logistics
+- carbon reduction
 ---
-
 <p style="text-align: justify"><strong>Walmart</strong> has announced plans to expand its drone delivery network to <strong>five new cities</strong>. This move represents a new phase in the retail giant's strategy centered on <strong>speed, reach, and sustainability</strong> in last-mile delivery. The initiative aims to optimize delivery processes by integrating with <strong>micro-fulfillment centers</strong>, <strong>drone docks</strong>, and <strong>appointment APIs</strong>.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">In the new model, <strong>drone docks</strong> systems are positioned on the roofs of stores or micro-centers, enabling short-range deliveries. This approach, particularly in <strong>low-density areas</strong>, delivers operational advantages by offering lower <strong>cost-per-delivery</strong> compared to ground transportation. It also aligns with <strong>last-mile decarbonization</strong> objectives.</p>

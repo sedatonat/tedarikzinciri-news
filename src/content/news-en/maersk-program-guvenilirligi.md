@@ -1,16 +1,22 @@
 ---
-title: "Maersk Tops Schedule Reliability in November 2024"
-subtitle: "Maersk Tops Schedule Reliability in November 2024"
-date: "2025-01-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5ab7bbde0a9547c6a0b723964115ade3~mv2.jpg"
-imageAlt: "Maersk Tops Schedule Reliability in November 2024"
-wixId: "21f2a674-5fca-4c30-8c22-9d58c2ae28dc"
-author: "Sedat Onat"
+title: Maersk Tops Schedule Reliability in November 2024
+subtitle: Maersk Tops Schedule Reliability in November 2024
+date: '2025-01-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5ab7bbde0a9547c6a0b723964115ade3~mv2.jpg
+imageAlt: Maersk Tops Schedule Reliability in November 2024
+wixId: 21f2a674-5fca-4c30-8c22-9d58c2ae28dc
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Maersk
+- schedule reliability
+- ocean shipping
+- Gemini Cooperation
+- Red Sea
+- supply chain
 ---
-
 <p>Global maritime program reliability increased by 4.1 percentage points in November 2024 compared to the previous month, rising to 54.8%. Despite this growth, program reliability fluctuated between 50% and 55% throughout 2024. The average duration of delayed vessel arrivals fell by 0.43 days to 5.41 days; however, this figure marks the second-highest level recorded since the pandemic peak in 2021.</p>
 <p><br></p>
 <p>In November 2024, <strong>Maersk</strong> emerged as the most reliable carrier with 61.9% schedule reliability. Eight carriers maintained reliability rates between 50% and 60%, while the remaining five carriers posted rates between 47% and 50%. <strong>Wan Hai</strong> recorded the lowest program reliability at 47.3%. During this period, the gap between the most and least reliable carriers remained below 15 percentage points. All of the top 13 global carriers improved their monthly schedule reliability, with <strong>PIL</strong> showing the largest gain.</p>

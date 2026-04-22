@@ -1,14 +1,23 @@
 ---
-title: "Finlandiya’da ‘Neptune Dynamic’ Alarmı"
-subtitle: "Finlandiya’da ‘Neptune Dynamic’ Alarmı"
-date: "2024-12-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a11dafc9a27d4ce8ae6a0de18da3f6dc~mv2.jpg"
-imageAlt: "Finlandiya’da ‘Neptune Dynamic’ Alarmı"
-wixId: "ec643e9a-2434-4769-990c-3935aa6334e0"
-author: "Sedat Onat"
+title: Finlandiya’da ‘Neptune Dynamic’ Alarmı
+subtitle: Finlandiya’da ‘Neptune Dynamic’ Alarmı
+date: '2024-12-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a11dafc9a27d4ce8ae6a0de18da3f6dc~mv2.jpg
+imageAlt: Finlandiya’da ‘Neptune Dynamic’ Alarmı
+wixId: ec643e9a-2434-4769-990c-3935aa6334e0
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Finlandiya
+- Baltic Sea
+- Neptune Dynamic
+- sabotaj
+- kritik altyapı
+- Balticconnector
+- deniz güvenliği
+- Rusya
 ---
 <p>Finlandiya makamları, Baltic Sea bölgesindeki kritik altyapının zarar görmesi üzerine başlatılan soruşturma kapsamında, “Neptune Dynamic” isimli Rusya bağlantılı bir tankeri Kotka limanında gözaltına alıyor. “Neptune Dynamic” üzerinde yapılan detaylı incelemelerde, geminin rotası ve faaliyetleriyle ilgili bazı şüpheli bilgilere ulaşıldığı ifade ediliyor. Gemiyle ilişkili varlıkların Rusya kökenli olduğuna dair tespitler, soruşturmanın seyrini değiştiren önemli bir etken olarak öne çıkıyor. Finlandiya’nın “National Bureau of Investigation (NBI)” birimi, bu geminin Baltic Sea altındaki fiber optik kablolar ve “Balticconnector pipeline” hattında meydana gelen hasarlarda payı olup olmadığını araştırmak üzere kapsamlı bir inceleme yürütüyor.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "CMA CGM ve Marsa Maroc, Nador West Med Terminali için Ortak Girişim Anlaşması İmzaladı"
-subtitle: "CMA CGM ve Marsa Maroc, Nador West Med Terminali için Ortak Girişim Anlaşması İmzaladı"
-date: "2024-10-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7c7c9b506af1401dbfc2ba80ae79cfd6~mv2.jpg"
-imageAlt: "CMA CGM ve Marsa Maroc, Nador West Med Terminali için Ortak Girişim Anlaşması İmzaladı"
-wixId: "e5527afa-d166-411c-8a6f-aaf24c29f95b"
-author: "Sedat Onat"
+title: CMA CGM ve Marsa Maroc, Nador West Med Terminali için Ortak Girişim Anlaşması İmzaladı
+subtitle: CMA CGM ve Marsa Maroc, Nador West Med Terminali için Ortak Girişim Anlaşması İmzaladı
+date: '2024-10-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7c7c9b506af1401dbfc2ba80ae79cfd6~mv2.jpg
+imageAlt: CMA CGM ve Marsa Maroc, Nador West Med Terminali için Ortak Girişim Anlaşması İmzaladı
+wixId: e5527afa-d166-411c-8a6f-aaf24c29f95b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- CMA CGM
+- Marsa Maroc
+- Nador West Med
+- konteyner terminali
+- Fas
+- liman yatırımı
+- ortak girişim
 ---
 <p>CMA CGM, liman terminali yönetim şirketi Marsa Maroc ile Nador West Med terminalindeki bir konteyner sahasını donatmak ve işletmek üzere bir ortak girişim anlaşması imzaladı. Bu ortak girişim, Nador West Med konteyner terminalinin yüzde 50'sini kapsayacak şekilde 35 hektarlık bir konteyner sahası ve 18 metre maksimum derinliğe sahip 750 metrelik bir rıhtımı donatacak ve işletecek. CMA CGM ve Marsa Maroc, sırasıyla yüzde 49 ve yüzde 51 hisseye sahip olacaklar.</p>
 <p><br></p>

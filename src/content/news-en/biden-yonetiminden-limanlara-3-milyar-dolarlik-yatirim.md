@@ -1,16 +1,23 @@
 ---
-title: "Biden Administration Announces $3 Billion Green Investment in U.S. Ports"
-subtitle: "Biden Administration Announces $3 Billion Green Investment in U.S. Ports"
-date: "2024-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_3e26c21e64ae48a1b02ff442ab562bcf~mv2_d_3991_2661_s_4_2.jpg"
-imageAlt: "Biden Administration Announces $3 Billion Green Investment in U.S. Ports"
-wixId: "da51949f-0b49-44bb-ad17-be4c82a29444"
-author: "Sedat Onat"
+title: Biden Administration Announces $3 Billion Green Investment in U.S. Ports
+subtitle: Biden Administration Announces $3 Billion Green Investment in U.S. Ports
+date: '2024-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_3e26c21e64ae48a1b02ff442ab562bcf~mv2_d_3991_2661_s_4_2.jpg
+imageAlt: Biden Administration Announces $3 Billion Green Investment in U.S. Ports
+wixId: da51949f-0b49-44bb-ad17-be4c82a29444
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Biden administration
+- port investment
+- green logistics
+- zero emissions
+- shore power system
+- electric equipment
+- US ports
 ---
-
 <p>This week, the Biden administration announced a $3 billion U.S. port investment program focused on green projects. Financed by the Inflation Reduction Act, these funds will be distributed across a wide range of 55 selected projects in 27 states and territories. The President made this significant announcement on October 29 at the Port of Baltimore, where a major bridge incident had occurred earlier in the year.</p>
 <p><br></p>
 <p>The White House indicated that these investments are expected to create approximately 40,000 jobs in connection with improvements to port infrastructure. These developments, long awaited by many, aim to modernize the nation's port infrastructure.</p>

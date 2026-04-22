@@ -1,14 +1,23 @@
 ---
-title: "Adidas Modern Dağıtım Merkezlerinde Standart Belirlemekte"
-subtitle: "Adidas Modern Dağıtım Merkezlerinde Standart Belirlemekte"
-date: "2025-08-15T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_3d0d23df86d64f898556c4dc651300be~mv2.png"
-imageAlt: "Adidas Modern Dağıtım Merkezlerinde Standart Belirlemekte"
-wixId: "891e3824-f678-4663-9c21-2693cee3fea3"
-author: "Sedat Onat"
+title: Adidas Modern Dağıtım Merkezlerinde Standart Belirlemekte
+subtitle: Adidas Modern Dağıtım Merkezlerinde Standart Belirlemekte
+date: '2025-08-15T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_3d0d23df86d64f898556c4dc651300be~mv2.png
+imageAlt: Adidas Modern Dağıtım Merkezlerinde Standart Belirlemekte
+wixId: 891e3824-f678-4663-9c21-2693cee3fea3
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Adidas
+- dağıtım merkezi
+- AMR
+- ASRS
+- depo otomasyonu
+- sürdürülebilirlik
+- WMS
+- enerji verimliliği
 ---
 <p style="text-align: justify"><strong>Adidas</strong>, modern <strong>distribution center (DC)</strong> tasarımında <strong>otomasyon, veri entegrasyonu ve sürdürülebilirlik</strong> unsurlarını bir araya getirerek yeni nesil depo mimarisine öncülük ediyor. Şirketin tesisleri, hem operasyonel verimliliği artırmak hem de karbon ayak izini azaltmak üzere tasarlanmış durumda.</p>
 <p style="text-align: justify"><br></p>

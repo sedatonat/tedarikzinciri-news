@@ -1,14 +1,23 @@
 ---
-title: "Maliyet ve Karbon Ayak İzi Azaltımı için Perakendeciler Kutularını Yeniden Tasarlıyor"
-subtitle: "Maliyet ve Karbon Ayak İzi Azaltımı için Perakendeciler Kutularını Yeniden Tasarlıyor"
-date: "2025-03-27T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_f3b1ed036b2640048fa23584347a26d8~mv2.png"
-imageAlt: "Maliyet Ve Karbon: Perakendeciler Kutularını Yeniden Düşünüyor"
-wixId: "a0316357-9fe4-4023-a675-ab718b3a3b4b"
-author: "Sedat Onat"
+title: Maliyet ve Karbon Ayak İzi Azaltımı için Perakendeciler Kutularını Yeniden Tasarlıyor
+subtitle: Maliyet ve Karbon Ayak İzi Azaltımı için Perakendeciler Kutularını Yeniden Tasarlıyor
+date: '2025-03-27T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_f3b1ed036b2640048fa23584347a26d8~mv2.png
+imageAlt: 'Maliyet Ve Karbon: Perakendeciler Kutularını Yeniden Düşünüyor'
+wixId: a0316357-9fe4-4023-a675-ab718b3a3b4b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ambalaj optimizasyonu
+- karbon ayak izi
+- sürdürülebilirlik
+- perakende lojistiği
+- right-sizing
+- geri dönüşüm
+- ESG
+- PCR
 ---
 <p style="text-align: justify"><strong>Perakendeciler</strong>, hem <strong>maliyetleri düşürme</strong> hem de <strong>karbon ayak izini azaltma (cutting costs and carbon)</strong> hedeflerini aynı anda gözeterek <strong>ambalaj stratejilerini yeniden tasarlıyor.</strong> Yeni yaklaşımın merkezinde; <strong>right-sizing (doğru boyutlandırma)</strong>, <strong>mono-material (tek malzeme)</strong> kullanımı, <strong>PCR content (geri dönüştürülmüş malzeme oranı)</strong> artırımı ve <strong>gereksiz boşluk doldurma (void fill)</strong> azaltımı yer alıyor. Bu dönüşüm, yalnız ambalaj değil, lojistik, depo ve müşteri deneyimi süreçlerinde de verimlilik getiriyor.</p>
 <p style="text-align: justify"><br></p>

@@ -1,14 +1,23 @@
 ---
-title: "Deniz Ürünleri Tedarik Zincirinde İzlenebilirlik ve Veri Yönetimi İş Birliği"
-subtitle: "Deniz Ürünleri Tedarik Zincirinde İzlenebilirlik ve Veri Yönetimi İş Birliği"
-date: "2024-04-25T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_81743ad4c12747d78385adef0b1e9531~mv2.png"
-imageAlt: "Deniz Ürünleri Tedarik Zincirinde İzlenebilirlik ve Veri Yönetimi İş Birliği"
-wixId: "d34c1e2d-9352-4b76-b1c7-1e879591e87d"
-author: "Sedat Onat"
+title: Deniz Ürünleri Tedarik Zincirinde İzlenebilirlik ve Veri Yönetimi İş Birliği
+subtitle: Deniz Ürünleri Tedarik Zincirinde İzlenebilirlik ve Veri Yönetimi İş Birliği
+date: '2024-04-25T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_81743ad4c12747d78385adef0b1e9531~mv2.png
+imageAlt: Deniz Ürünleri Tedarik Zincirinde İzlenebilirlik ve Veri Yönetimi İş Birliği
+wixId: d34c1e2d-9352-4b76-b1c7-1e879591e87d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- deniz ürünleri
+- izlenebilirlik
+- tedarik zinciri
+- veri yönetimi
+- FSMA 204
+- gıda güvenliği
+- Trace Register
+- ReposiTrak
 ---
 <p>Deniz ürünleri tedarik zinciri, <a href="https://www.traceregister.com/"><u>Trace Register</u></a> ve <a href="https://repositrak.com/"><u>ReposiTrak </u></a>arasındaki iş birliği sayesinde izlenebilirlik ve veri yönetimi konularında önemli bir gelişme kaydetti. Bu iş birliği, perakendecilerin, toptancıların ve tedarikçilerin, FSMA 204 gıda takip yönetmeliğine uyum sağlamalarını kolaylaştırıyor.&nbsp;</p>
 <p><br></p>

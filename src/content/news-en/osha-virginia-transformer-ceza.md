@@ -1,16 +1,23 @@
 ---
-title: "OSHA Fines Virginia Transformer Approximately $1 Million for Safety Violations"
-subtitle: "OSHA Fines Virginia Transformer Approximately $1 Million for Safety Violations"
-date: "2025-12-18T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b14ae0b783d24e2890dc9abdb2290c6a~mv2.jpg"
-imageAlt: "OSHA identified 53 serious and repeated violations at Virginia Transformer Corporation's Pocatello facility in Idaho related to cranes, machine guarding, fall hazards, and deficiencies in personal protective equipment; the proposed penalty totals $986,888."
-sourceUrl: "https://www.supplychain247.com/article/virginia-transformer-osha-nearly-1-million-safety-violations"
-author: "Sedat Onat"
+title: OSHA Fines Virginia Transformer Approximately $1 Million for Safety Violations
+subtitle: OSHA Fines Virginia Transformer Approximately $1 Million for Safety Violations
+date: '2025-12-18T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b14ae0b783d24e2890dc9abdb2290c6a~mv2.jpg
+imageAlt: OSHA identified 53 serious and repeated violations at Virginia Transformer Corporation's Pocatello facility in Idaho related to cranes, machine guarding, fall hazards, and deficiencies in personal protective equipment; the proposed penalty totals $986,888.
+sourceUrl: https://www.supplychain247.com/article/virginia-transformer-osha-nearly-1-million-safety-violations
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- OSHA
+- workplace safety
+- Virginia Transformer
+- safety violation
+- manufacturing facility
+- administrative fine
+- crane operations
 ---
-
 <p style="text-align: justify">The U.S. Occupational Safety and Health Administration (OSHA) has announced comprehensive enforcement action against <strong>Virginia Transformer Corporation (VTC)</strong>. Following inspections at the company's Pocatello manufacturing facility in Idaho, the agency determined that workers were exposed to serious and repeated safety hazards and proposed an administrative penalty of <strong>approximately $1 million</strong>. A total of <strong>53 serious and repeated violations</strong> focused on crane operations, machine guarding, fall protection measures, and deficiencies in <strong>personal protective equipment (PPE)</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">OSHA inspectors, during a follow-up inspection conducted in <strong>June 2025</strong>, found that <strong>similar hazards</strong> persisted that had been identified in two separate inspections carried out in <strong>April and June 2024</strong>. The inspections uncovered <strong>faulty brakes and switches</strong> on cranes used to transport heavy loads, conditions that pose elevated injury risk to workers. These findings demonstrate that the company failed to adequately remedy previously identified risks.</p>

@@ -1,14 +1,22 @@
 ---
-title: "İngiltere, Nike–Superdry–Lacoste’un “Sürdürülebilir” Reklamlarını Yasakladı"
-subtitle: "İngiltere, Nike–Superdry–Lacoste’un “Sürdürülebilir” Reklamlarını Yasakladı"
-date: "2025-12-03T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_3bf5ab284b034c2b8899c6990a7cea8a~mv2.jpg"
-imageAlt: "U.K. Advertising Standards Authority’nin Nike, Superdry ve Lacoste’un Google reklamlarında yer alan kanıtsız “sustainable” iddialarını yasaklaması, greenwashing denetiminin sertleşmesi ve tedarik zincirine etkilerinin detaylı özeti"
-wixId: "f2cdfbe8-b12c-495f-ac43-8178de018c82"
-author: "Sedat Onat"
+title: İngiltere, Nike–Superdry–Lacoste’un “Sürdürülebilir” Reklamlarını Yasakladı
+subtitle: İngiltere, Nike–Superdry–Lacoste’un “Sürdürülebilir” Reklamlarını Yasakladı
+date: '2025-12-03T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_3bf5ab284b034c2b8899c6990a7cea8a~mv2.jpg
+imageAlt: U.K. Advertising Standards Authority’nin Nike, Superdry ve Lacoste’un Google reklamlarında yer alan kanıtsız “sustainable” iddialarını yasaklaması, greenwashing denetiminin sertleşmesi ve tedarik zincirine etkilerinin detaylı özeti
+wixId: f2cdfbe8-b12c-495f-ac43-8178de018c82
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- sürdürülebilirlik
+- greenwashing
+- moda perakende
+- Nike
+- ASA
+- reklam yasağı
+- tedarik zinciri şeffaflığı
 ---
 <p style="text-align: justify">İngiltere’de <strong>Advertising Standards Authority (ASA)</strong>, moda ve perakende sektöründe giderek tartışmalı hâle gelen <strong>“sürdürülebilirlik” iddialarını</strong> mercek altına almaya devam ediyor. Aralık 2025’te yayımlanan son kararlara göre <strong>Nike</strong>, <strong>Superdry</strong> ve <strong>Lacoste</strong> tarafından Google’da verilen reklamlar, “sustainable materials”, “sustainable clothing” ve “sustainable style” gibi ifadelerin <strong>yeterli kanıt sunulmadan kullanılması</strong> nedeniyle yasaklandı. ASA’nın kararları, Avrupa pazarında <strong>greenwashing</strong> karşıtı düzenlemelerin hızla sertleştiğini bir kez daha göstermekte.</p>
 <p><br></p>

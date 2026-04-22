@@ -1,14 +1,22 @@
 ---
-title: "Baltimore Köprüsü'nün Yıkımı: Deniz Yolunu Açma Çabası"
-subtitle: "Baltimore Köprüsü'nün Yıkımı: Deniz Yolunu Açma Çabası"
-date: "2024-05-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8f53b3e2cb3d462d866437252cc92185~mv2.jpg"
-imageAlt: "Baltimore Köprüsü'nün Yıkımı: Deniz Yolunu Açma Çabası"
-wixId: "bde179d1-482a-4816-8fb5-b726746c21fd"
-author: "Sedat Onat"
+title: 'Baltimore Köprüsü''nün Yıkımı: Deniz Yolunu Açma Çabası'
+subtitle: 'Baltimore Köprüsü''nün Yıkımı: Deniz Yolunu Açma Çabası'
+date: '2024-05-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8f53b3e2cb3d462d866437252cc92185~mv2.jpg
+imageAlt: 'Baltimore Köprüsü''nün Yıkımı: Deniz Yolunu Açma Çabası'
+wixId: bde179d1-482a-4816-8fb5-b726746c21fd
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Baltimore Limanı
+- konteyner gemisi
+- köprü çökmesi
+- liman operasyonları
+- Dali gemisi
+- denizcilik kazası
+- altyapı hasarı
 ---
 <p>Baltimore'daki Francis Scott Key Köprüsü'nün kontrollü bir patlama ile yıkılması, 26 Mart'tan bu yana enkaz altında sıkışmış olan Dali isimli konteyner gemisinin kurtarılmasında önemli bir adım oldu. Yıkım, köprünün yedi hafta önce kısmen çökmesinin ardından gerçekleştirildi ve Baltimore Limanı'na giden ana nakliye kanalını yeniden açma çabasının bir parçası. Yıkım sonucunda Dali gemisinin suya yeniden yüzdürülmesi ve iskeleye trafik akışının normale dönmesi bekleniyor. Bu süreç, limandaki uzun vadeli tıkanıklığı sona erdirerek liman çalışanlarına ve küçük işletme sahiplerine rahatlama sağlayacak. Köprünün yerine yenisi inşa edilmesinin tahmini maliyeti 1.7 ile 1.9 milyar dolar arasında değişiyor ve yaklaşık dört yıl sürecek.</p>
 <p><br></p>

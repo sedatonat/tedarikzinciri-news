@@ -1,13 +1,22 @@
 ---
-title: "Volvo ve Waabi'nin Otonom Kamyon İş Birliği"
-subtitle: "Volvo ve Waabi'nin Otonom Kamyon İş Birliği"
-date: "2025-02-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4c8ebf5c84394a7e974cc2d66035bdf3~mv2.png"
-wixId: "b0950f68-6404-499d-9835-d06c38c31dcb"
-author: "Sedat Onat"
+title: Volvo ve Waabi'nin Otonom Kamyon İş Birliği
+subtitle: Volvo ve Waabi'nin Otonom Kamyon İş Birliği
+date: '2025-02-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4c8ebf5c84394a7e974cc2d66035bdf3~mv2.png
+wixId: b0950f68-6404-499d-9835-d06c38c31dcb
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Volvo
+- Waabi
+- otonom kamyon
+- yapay zeka
+- otonom sürüş
+- kamyon taşımacılığı
+- Teksas
+- Uber Freight
 ---
 <p style="text-align: justify"><strong>Volvo Autonomous Solutions</strong>, otonom sürüş teknolojileri geliştiren <a href="https://waabi.ai/"><u><strong>Waabi</strong></u><u> </u></a>ile stratejik bir ortaklığa imza attı. Bu iş birliği kapsamında, <strong>Waabi</strong>'nin sanal sürücü sistemi, <strong>Volvo</strong>'nun <a href="https://www.volvoautonomoussolutions.com/en-en/news/press-releases/2024/may/the-volvo-vnl-autonomous-proving-the-way-forward.html"><u><strong>VNL Autonomous</strong></u></a> kamyon modeline entegre edilecek ve bu model, <strong>Volvo</strong>'nun Virginia'daki New River Valley montaj tesisinde üretilecek.&nbsp;</p>
 <p><br></p>

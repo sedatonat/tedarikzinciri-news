@@ -1,14 +1,23 @@
 ---
-title: "SAFEEN Subsea'dan Çevreci İnsansız Deniz Aracı: 'SAFEEN Green'"
-subtitle: "SAFEEN Subsea'dan Çevreci İnsansız Deniz Aracı: 'SAFEEN Green'"
-date: "2024-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4f603231626646a496eab606b020520a~mv2.jpg"
-imageAlt: "SAFEEN Subsea'dan Çevreci İnsansız Deniz Aracı: 'SAFEEN Green'"
-wixId: "1bc67922-ae42-418e-b9ea-daada4e88839"
-author: "Sedat Onat"
+title: 'SAFEEN Subsea''dan Çevreci İnsansız Deniz Aracı: ''SAFEEN Green'''
+subtitle: 'SAFEEN Subsea''dan Çevreci İnsansız Deniz Aracı: ''SAFEEN Green'''
+date: '2024-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4f603231626646a496eab606b020520a~mv2.jpg
+imageAlt: 'SAFEEN Subsea''dan Çevreci İnsansız Deniz Aracı: ''SAFEEN Green'''
+wixId: 1bc67922-ae42-418e-b9ea-daada4e88839
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- insansız deniz aracı
+- USV
+- SAFEEN Subsea
+- yeşil teknoloji
+- otonom araç
+- yenilenebilir enerji
+- denizcilik teknolojisi
+- AD Ports Group
 ---
 <p>AD Ports Group'un Maritime &amp; Shipping Cluster bünyesindeki SAFEEN Subsea, uzaktan kumandalı insansız deniz aracı (USV) olan <strong>'SAFEEN Green'</strong>'i tanıttı. Bu araç, çevreye minimum etkiyle yüksek kaliteli jeofizik ve hidrografik veri toplamak üzere 200 deniz mili açığa kadar operasyon yapabiliyor.</p>
 <p><br></p>

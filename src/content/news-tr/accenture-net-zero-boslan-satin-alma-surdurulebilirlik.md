@@ -1,14 +1,23 @@
 ---
-title: "Accenture, Net Sıfır Altyapı Danışmanı Boslan'ı Satın Alarak Sürdürülebilirlikte Gücünü Artırıyor"
-subtitle: "Accenture, Net Sıfır Altyapı Danışmanı Boslan'ı Satın Alarak Sürdürülebilirlikte Gücünü Artırıyor"
-date: "2024-08-09T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_16820f6e2ace4dc69688de2608253a09~mv2.png"
-imageAlt: "Accenture, Net Sıfır Altyapı Danışmanı Boslan'ı Satın Alarak Sürdürülebilirlikte Gücünü Artırıyor"
-wixId: "55a96a35-e66b-4e78-9fd7-37afba7f3851"
-author: "Sedat Onat"
+title: Accenture, Net Sıfır Altyapı Danışmanı Boslan'ı Satın Alarak Sürdürülebilirlikte Gücünü Artırıyor
+subtitle: Accenture, Net Sıfır Altyapı Danışmanı Boslan'ı Satın Alarak Sürdürülebilirlikte Gücünü Artırıyor
+date: '2024-08-09T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_16820f6e2ace4dc69688de2608253a09~mv2.png
+imageAlt: Accenture, Net Sıfır Altyapı Danışmanı Boslan'ı Satın Alarak Sürdürülebilirlikte Gücünü Artırıyor
+wixId: 55a96a35-e66b-4e78-9fd7-37afba7f3851
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Accenture
+- Boslan
+- sürdürülebilirlik
+- net sıfır
+- yenilenebilir enerji
+- enerji geçişi
+- satın alma
+- İspanya
 ---
 <p>Accenture, sürdürülebilirlik ve net sıfır karbon altyapısına yönelik danışmanlık hizmetlerini genişletmek amacıyla İspanyol danışmanlık firması Boslan'ı satın aldı. Bu stratejik hamle, Accenture'ın enerji geçişi ve yeşil altyapı projelerinde liderlik pozisyonunu güçlendirmeye yönelik bir adım olarak görülüyor. Boslan, özellikle yenilenebilir enerji, su yönetimi ve çevre dostu altyapı alanlarındaki uzmanlığıyla tanınıyor. Bu birleşme, her iki şirketin de müşteri portföyünü genişletmesine ve sürdürülebilirlik odaklı projelerde daha etkin çözümler sunmasına olanak tanıyacak.</p>
 <p><br></p>

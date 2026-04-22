@@ -1,14 +1,22 @@
 ---
-title: "Accenture 'un Araştırmasına göre işletmeler %38 olan onshoring oranını 2026 'ya kadar %65 'e çıkarma hedefinde"
-subtitle: "Accenture 'un Araştırmasına göre işletmeler %38 olan onshoring oranını 2026 'ya kadar %65 'e çıkarma hedefinde"
-date: "2023-12-14T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_fcd7649466ff402285749d7d0276f033~mv2.jpeg"
-imageAlt: "Accenture 'un Araştırmasına göre işletmeler %38 olan onshoring oranını 2026 'ya kadar %65 'e çıkarma hedefinde"
-wixId: "12f4f2de-f22d-4a2b-9d8f-53f38187dd8e"
-author: "Sedat Onat"
+title: Accenture 'un Araştırmasına göre işletmeler %38 olan onshoring oranını 2026 'ya kadar %65 'e çıkarma hedefinde
+subtitle: Accenture 'un Araştırmasına göre işletmeler %38 olan onshoring oranını 2026 'ya kadar %65 'e çıkarma hedefinde
+date: '2023-12-14T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_fcd7649466ff402285749d7d0276f033~mv2.jpeg
+imageAlt: Accenture 'un Araştırmasına göre işletmeler %38 olan onshoring oranını 2026 'ya kadar %65 'e çıkarma hedefinde
+wixId: 12f4f2de-f22d-4a2b-9d8f-53f38187dd8e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Accenture
+- onshoring
+- bölgesel tedarik
+- yapay zeka
+- dijital ikiz
+- tedarik zinciri
+- dayanıklılık
 ---
 <p><a href="https://www.accenture.com/bg-en"><u>Accenture</u></a> 'un "Resiliency in the Making" araştırmasına göre, şirketler küresel tedarik ve üretim yerine bölgesel kaynaklara yöneliyor. 2026'ya kadar şirketlerin %65'i, ana ürünlerini bölgesel tedarikçilerden (<a href="https://www.tedarikzinciriportali.com/post/terim-onshoring-ulke-ici-uretim"><u>Onshoring</u></a>) almayı planlıyor, bu oran bugün %38. Ayrıca, daha fazla organizasyon (%85) ürünlerini aynı bölgede (<a href="https://www.tedarikzinciriportali.com/post/terim-onshoring-ulke-ici-uretim"><u>Onshoring</u></a>) üretip satmayı hedefliyor.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "2024'te Merger & Acquisition Anlaşmalarını Artıran Trendler"
-subtitle: "2024'te Merger & Acquisition Anlaşmalarını Artıran Trendler"
-date: "2024-05-09T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_b3e492e6aed349e9b5b6e7e0e7ff98fc~mv2.jpg"
-imageAlt: "2024'te Merger & Acquisition Anlaşmalarını Artıran Trendler"
-wixId: "77d1b927-b5e3-4046-8974-55e66d895411"
-author: "Sedat Onat"
+title: 2024'te Merger & Acquisition Anlaşmalarını Artıran Trendler
+subtitle: 2024'te Merger & Acquisition Anlaşmalarını Artıran Trendler
+date: '2024-05-09T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_b3e492e6aed349e9b5b6e7e0e7ff98fc~mv2.jpg
+imageAlt: 2024'te Merger & Acquisition Anlaşmalarını Artıran Trendler
+wixId: 77d1b927-b5e3-4046-8974-55e66d895411
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- M&A
+- birleşme ve satın alma
+- üretim yatırımları
+- jeneratif yapay zeka
+- tedarik zinciri
+- reshoring
+- otomasyon
 ---
 <p>Enflasyon ve faiz oranlarının düşmesiyle birlikte, üretim yatırımları artış gösteriyor. Birçok büyük üretici, ekonominin yavaş büyüme döneminde olmasına rağmen 2024'te sermaye yatırımlarını ve birleşme ve satın alma (M&amp;A / B<a href="https://tureng.com/en/turkish-english/birle%C5%9Fmeler%20ve%20sat%C4%B1n%20almalar">irleşmeler ve Satın almalar</a>) anlaşmalarını artırmayı planladıklarını belirtti. Datasite platformu, 2023'ün dördüncü çeyreğinde yeni endüstriyel anlaşma başlangıçlarının yıllık bazda %7 arttığını ve 2024'ün ilk çeyreğinde anlaşma faaliyetlerinin %19 arttığını gösteriyor.</p>
 <p><br></p>

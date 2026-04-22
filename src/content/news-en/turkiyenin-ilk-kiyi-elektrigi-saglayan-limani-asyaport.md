@@ -1,16 +1,24 @@
 ---
-title: "Turkey's First Port to Supply Shore Power: Asyaport"
-subtitle: "Turkey's First Port to Supply Shore Power: Asyaport"
-date: "2024-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_500c3a536f9c490baad3a3354fec98af~mv2.jpg"
-imageAlt: "Turkey's First Port to Supply Shore Power: Asyaport"
-wixId: "dc6e6f84-0004-4742-88a3-7add461c92f4"
-author: "Sedat Onat"
+title: 'Turkey''s First Port to Supply Shore Power: Asyaport'
+subtitle: 'Turkey''s First Port to Supply Shore Power: Asyaport'
+date: '2024-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_500c3a536f9c490baad3a3354fec98af~mv2.jpg
+imageAlt: 'Turkey''s First Port to Supply Shore Power: Asyaport'
+wixId: dc6e6f84-0004-4742-88a3-7add461c92f4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Asyaport
+- shore power
+- OPS
+- sustainability
+- container ship
+- MSC Oscar
+- carbon emissions
+- port
 ---
-
 <p>Asyaport has become Turkey's first port to supply shore power to container vessels with the recent installation of an Onshore Power Supply (OPS) system. The new system aims to reduce carbon emissions and environmental impact by supplying electricity to ships waiting at the port. The system has the capacity to deliver high-voltage power simultaneously to two mainline vessels and three feeder vessels.</p>
 <p><br></p>
 <p>The newly established shore power facility represents an addition to the terminal's existing technology portfolio for emission reduction. Asyaport is already taking significant steps toward sustainability by operating fully electric cranes. MSC Oscar, which operates between Asia and Europe via MSC's TIGER service, was recorded as the first ship to use the new system.</p>

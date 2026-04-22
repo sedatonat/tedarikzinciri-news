@@ -1,14 +1,22 @@
 ---
-title: "Redwood Logistics, \"Modern 4PL For Dummies\" Kitabını Tanıttı"
-subtitle: "Redwood Logistics, \"Modern 4PL For Dummies\" Kitabını Tanıttı"
-date: "2025-03-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_940e5d285a7849d7ad53db377fabf5b4~mv2.jpg"
-imageAlt: "Redwood Logistics, \"Modern 4PL For Dummies\" Kitabını Tanıttı"
-wixId: "023a6125-80b5-4bbd-8c97-7e1f941cea6b"
-author: "Sedat Onat"
+title: Redwood Logistics, "Modern 4PL For Dummies" Kitabını Tanıttı
+subtitle: Redwood Logistics, "Modern 4PL For Dummies" Kitabını Tanıttı
+date: '2025-03-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_940e5d285a7849d7ad53db377fabf5b4~mv2.jpg
+imageAlt: Redwood Logistics, "Modern 4PL For Dummies" Kitabını Tanıttı
+wixId: 023a6125-80b5-4bbd-8c97-7e1f941cea6b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Redwood Logistics
+- 4PL
+- 3PL
+- tedarik zinciri
+- lojistik strateji
+- Eric Rempel
+- Gartner
 ---
 <p style="text-align: justify"><strong>Redwood Logistics</strong> (Redwood), Kuzey Amerika'nın önde gelen dördüncü parti lojistik (<strong>4PL</strong>) sağlayıcılarından biri, <strong>Eric Rempel</strong> tarafından yazılan "Modern 4PL For Dummies, Redwood Logistics Special Edition" adlı yeni kitabını resmen tanıttı. Bu kitap, <strong>3PL</strong> ve <strong>4PL</strong> arasındaki farkları, modern açık 4PL ile geleneksel kapalı 4PL arasındaki ayrımları ve günümüz lojistik ortamında neden giderek daha hayati bir strateji haline geldiğini net ve pratik bir şekilde açıklamakta.</p>
 <p><br></p>

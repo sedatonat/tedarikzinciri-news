@@ -1,14 +1,22 @@
 ---
-title: "Hapag-Lloyd’un ZIM’i Satın Alma Girişimi Siyasi ve Güvenlik Engelleri Nedeniyle Zayıf Görülüyor"
-subtitle: "Hapag-Lloyd’un ZIM’i Satın Alma Girişimi Siyasi ve Güvenlik Engelleri Nedeniyle Zayıf Görülüyor"
-date: "2025-12-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1d6b7e365f514c9381698fc7582f5ee1~mv2.jpg"
-imageAlt: "Hapag-Lloyd’un ZIM için sunduğu satın alma teklifinin, İsrail devletinin “special state share” yetkisi, Katar–Suudi hissedar yapısı ve ZIM çalışanlarının ulusal güvenlik itirazları nedeniyle neden düşük başarı şansına sahip olduğuna dair detaylı analiz"
-wixId: "f5a20693-bd44-406c-b3fa-b81cff70bd85"
-author: "Sedat Onat"
+title: Hapag-Lloyd’un ZIM’i Satın Alma Girişimi Siyasi ve Güvenlik Engelleri Nedeniyle Zayıf Görülüyor
+subtitle: Hapag-Lloyd’un ZIM’i Satın Alma Girişimi Siyasi ve Güvenlik Engelleri Nedeniyle Zayıf Görülüyor
+date: '2025-12-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1d6b7e365f514c9381698fc7582f5ee1~mv2.jpg
+imageAlt: Hapag-Lloyd’un ZIM için sunduğu satın alma teklifinin, İsrail devletinin “special state share” yetkisi, Katar–Suudi hissedar yapısı ve ZIM çalışanlarının ulusal güvenlik itirazları nedeniyle neden düşük başarı şansına sahip olduğuna dair detaylı analiz
+wixId: f5a20693-bd44-406c-b3fa-b81cff70bd85
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Hapag-Lloyd
+- ZIM
+- satın alma
+- deniz taşımacılığı
+- ulusal güvenlik
+- golden share
+- İsrail
 ---
 <p style="text-align: justify">Zim Integrated Shipping Services’in potansiyel satın alma teklifleri değerlendirdiği bildirilen 2025 Aralık döneminde, İsrail basını <strong>Hapag-Lloyd</strong>’un ZIM’e resmi bir satın alma teklifinde bulunduğunu ortaya koydu. Ancak teklifin detayları ve ZIM’in güncel hissedarlık yapısı incelendiğinde, olası bir satışın önünde çok katmanlı <strong>jeopolitik, yasal ve ulusal güvenlik</strong> engellerinin bulunduğu görülmekte.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "DHL Express ile ABD'li Küçük İşletmelerin Küresel Büyüme Fırsatları"
-subtitle: "DHL Express ile ABD'li Küçük İşletmelerin Küresel Büyüme Fırsatları"
-date: "2024-08-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_537544e34b104dc189d7d6a3a6e47256~mv2.jpeg"
-imageAlt: "DHL Express ile ABD'li Küçük İşletmelerin Küresel Büyüme Fırsatları"
-wixId: "8995955a-bbdb-464b-9bda-ee0ba570fe87"
-author: "Sedat Onat"
+title: DHL Express ile ABD'li Küçük İşletmelerin Küresel Büyüme Fırsatları
+subtitle: DHL Express ile ABD'li Küçük İşletmelerin Küresel Büyüme Fırsatları
+date: '2024-08-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_537544e34b104dc189d7d6a3a6e47256~mv2.jpeg
+imageAlt: DHL Express ile ABD'li Küçük İşletmelerin Küresel Büyüme Fırsatları
+wixId: 8995955a-bbdb-464b-9bda-ee0ba570fe87
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- DHL Express
+- KOBİ
+- uluslararası nakliye
+- e-ticaret
+- sürdürülebilirlik
+- ABD
+- GoGreen Plus
 ---
 <p>DHL Express, ABD'deki küçük ve orta ölçekli işletmelere (KOBİ) küresel büyüme yolunda destek olmak amacıyla "Small Business PartnerSHIP Program" adlı bir program başlattı. Bu program, KOBİ'lere uluslararası genişlemeyi teşvik etmek için ücretsiz olarak çeşitli hizmetler sunuyor. DHL, bu program aracılığıyla KOBİ'lere uluslararası nakliye kaynaklarına erişim, e-ticaret rehberliği, web seminerleri ve GoGreen Plus gibi karbon ayak izini azaltmaya yönelik çözümler sunuyor. Ayrıca, KOBİ'lere özel olarak atanmış uluslararası uzmanlar ve mentorluk hizmetleri de sağlanıyor.</p>
 <p><br></p>

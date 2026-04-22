@@ -1,14 +1,22 @@
 ---
-title: "Çin'de Köprüye Çarpan Konteyner Gemisi Faciası: İki Ölü, Üç Kayıp"
-subtitle: "Çin'de Köprüye Çarpan Konteyner Gemisi Faciası: İki Ölü, Üç Kayıp"
-date: "2024-02-22T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ed0a3f0719fb481cb5cfb246e09aaef3~mv2.jpeg"
-imageAlt: "Çin'de Köprüye Çarpan Konteyner Gemisi Faciası: İki Ölü, Üç Kayıp"
-wixId: "f2860834-d987-462e-a1d7-b5cb8027cf0a"
-author: "Sedat Onat"
+title: 'Çin''de Köprüye Çarpan Konteyner Gemisi Faciası: İki Ölü, Üç Kayıp'
+subtitle: 'Çin''de Köprüye Çarpan Konteyner Gemisi Faciası: İki Ölü, Üç Kayıp'
+date: '2024-02-22T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_ed0a3f0719fb481cb5cfb246e09aaef3~mv2.jpeg
+imageAlt: 'Çin''de Köprüye Çarpan Konteyner Gemisi Faciası: İki Ölü, Üç Kayıp'
+wixId: f2860834-d987-462e-a1d7-b5cb8027cf0a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- konteyner gemisi
+- köprü kazası
+- Guangzhou
+- Çin
+- deniz kazası
+- Liang Hui 688
+- Foshan Lianghui
 ---
 <p>22 Şubat 2024 sabahında, Guangzhou, Guangdong bölgesinde bir konteyner gemisi olan <a href="https://www.marinetraffic.com/en/ais/details/ships/shipid:5532309/mmsi:414401920/imo:0/vessel:HUI_LIANG"><u>Liang Hui 688</u></a>'in <a href="https://www.google.com/maps/place/Li+Xin+Sha+Da+Qiao,+Nan+Sha+Qu,+Guang+Zhou+Shi,+Guang+Dong+Sheng,+China/@22.6502237,113.5528193,2364m/data=!3m1!1e3!4m6!3m5!1s0x3403c86267df8239:0x3557c783c85c7fb!8m2!3d22.6519297!4d113.5571389!16s%2Fg%2F1tdkd6wd?entry=ttu"><u>Lixinsha Köprüsü</u></a>'ne çarpması sonucu iki kişi hayatını kaybetti, üç kişi ise kayboldu. Geminin çarpmasıyla köprünün bir kısmı çöktü ve bu durum dört araba ile bir motosikletin köprüden düşmesine neden oldu; iki araç nehire düşerken, diğer üçü geminin üzerine düştü. Kaza anında Liang Hui 688, herhangi bir konteyner taşımıyordu.</p>
 <p><br></p>

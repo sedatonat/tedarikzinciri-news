@@ -1,16 +1,23 @@
 ---
-title: "Eyüp Lojistik Makes Major Investment in 3-Day Europe Delivery Service"
-subtitle: "Eyüp Lojistik Makes Major Investment in 3-Day Europe Delivery Service"
-date: "2024-02-21T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_66b4501138f64c1dba37272edee46881~mv2.jpg"
-imageAlt: "Eyüp Lojistik Makes Major Investment in 3-Day Europe Delivery Service"
-wixId: "1147a034-6f9e-4e1d-9a8b-7ebf62c0ab22"
-author: "Sedat Onat"
+title: Eyüp Lojistik Makes Major Investment in 3-Day Europe Delivery Service
+subtitle: Eyüp Lojistik Makes Major Investment in 3-Day Europe Delivery Service
+date: '2024-02-21T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_66b4501138f64c1dba37272edee46881~mv2.jpg
+imageAlt: Eyüp Lojistik Makes Major Investment in 3-Day Europe Delivery Service
+wixId: 1147a034-6f9e-4e1d-9a8b-7ebf62c0ab22
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Eyüp Lojistik
+- Europe
+- fast delivery
+- FIAT Ducato
+- export
+- fleet investment
+- Gaziantep
 ---
-
 <p>Eyüp Lojistik, one of Turkey's established logistics companies, launched 2024—marking its 88th anniversary—with a new service promising 3-day delivery to Europe.</p>
 <p><br></p>
 <p>As part of this service rollout, the company added 40 FIAT Ducato vehicles to its fleet. Amid mounting expectations of global economic slowdown and crisis, Eyüp Lojistik's move underscores its confidence in the logistics sector and its intent to strengthen its market position.</p>

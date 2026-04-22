@@ -1,14 +1,22 @@
 ---
-title: "Trump, BRICS Ülkelerine %100 Gümrük Vergisi Tehdidiyle Ekonomik Baskı Uygulamayı Düşünüyor"
-subtitle: "Trump, BRICS Ülkelerine %100 Gümrük Vergisi Tehdidiyle Ekonomik Baskı Uygulamayı Düşünüyor"
-date: "2024-12-02T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_843819b7dab1421ba260a9368847a3e7~mv2.jpg"
-imageAlt: "Trump, BRICS Ülkelerine %100 Gümrük Vergisi Tehdidiyle Ekonomik Baskı Uygulamayı Düşünüyor"
-wixId: "e5d45d77-adb4-424e-aaa2-6e6937149fae"
-author: "Sedat Onat"
+title: Trump, BRICS Ülkelerine %100 Gümrük Vergisi Tehdidiyle Ekonomik Baskı Uygulamayı Düşünüyor
+subtitle: Trump, BRICS Ülkelerine %100 Gümrük Vergisi Tehdidiyle Ekonomik Baskı Uygulamayı Düşünüyor
+date: '2024-12-02T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_843819b7dab1421ba260a9368847a3e7~mv2.jpg
+imageAlt: Trump, BRICS Ülkelerine %100 Gümrük Vergisi Tehdidiyle Ekonomik Baskı Uygulamayı Düşünüyor
+wixId: e5d45d77-adb4-424e-aaa2-6e6937149fae
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- BRICS
+- gümrük vergisi
+- Donald Trump
+- ticaret savaşı
+- küresel tedarik zinciri
+- korumacı politika
+- uluslararası ticaret
 ---
 <p>Amerikan Devlet Başkanı Donald Trump, BRICS (Brezilya, Rusya, Hindistan, Çin ve Güney Afrika) ülkelerine yönelik ekonomik baskıyı artırmak amacıyla %100 gümrük vergisi uygulama tehdidinde bulundu. Bu açıklama, küresel ticaret dinamiklerinde önemli bir değişikliğe işaret ederken, uluslararası ilişkilerde de gerginliğin artmasına neden oldu.</p>
 <p><br></p>

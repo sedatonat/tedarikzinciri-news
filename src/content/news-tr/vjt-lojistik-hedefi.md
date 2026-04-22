@@ -1,14 +1,23 @@
 ---
-title: "VJT Teknoloji Grubu, Yazılım Patenti Aldıktan Sonra Lojistik Sektörüne Yöneliyor"
-subtitle: "VJT Teknoloji Grubu, Yazılım Patenti Aldıktan Sonra Lojistik Sektörüne Yöneliyor"
-date: "2025-01-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_5605ff95b5834f3fa2d7052e4cab2c4f~mv2.jpg"
-imageAlt: "VJT Teknoloji Grubu, Yazılım Patenti Aldıktan Sonra Lojistik Sektörüne Yöneliyor"
-wixId: "6137c431-da7e-41c3-9fbe-0a64c362565a"
-author: "Sedat Onat"
+title: VJT Teknoloji Grubu, Yazılım Patenti Aldıktan Sonra Lojistik Sektörüne Yöneliyor
+subtitle: VJT Teknoloji Grubu, Yazılım Patenti Aldıktan Sonra Lojistik Sektörüne Yöneliyor
+date: '2025-01-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_5605ff95b5834f3fa2d7052e4cab2c4f~mv2.jpg
+imageAlt: VJT Teknoloji Grubu, Yazılım Patenti Aldıktan Sonra Lojistik Sektörüne Yöneliyor
+wixId: 6137c431-da7e-41c3-9fbe-0a64c362565a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- VJT Teknoloji Grubu
+- Sellfware
+- yazılım patenti
+- tedarik zinciri yönetimi
+- lojistik yazılımı
+- Opus platform
+- dijital dönüşüm
+- yapay zeka
 ---
 <p style="text-align: justify"><a href="https://www.vjtechnology.com/"><u><strong>VJ Technology Grou</strong></u></a><a href="https://www.vjtechnology.com/"><u><strong>p</strong></u></a>'un yazılım kolu olan <strong>Sellfware</strong>, temel tedarik platformu <strong>Opus</strong> için patent aldı. Bu gelişme, şirketin lojistik sektörüne odaklanma stratejisinin bir parçası olarak değerlendiriliyor.</p>
 <p style="text-align: justify"><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "NKT and TenneT Sign $1 Billion Cable Deal in Germany"
-subtitle: "NKT and TenneT Sign $1 Billion Cable Deal in Germany"
-date: "2024-12-27T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_1bd3787731c143a4a8e0fbbc07c662c1~mv2.jpg"
-imageAlt: "NKT and TenneT Sign $1 Billion Cable Deal in Germany"
-wixId: "fe1a0911-ec9f-4e7f-ab6c-132c70127251"
-author: "Sedat Onat"
+title: NKT and TenneT Sign $1 Billion Cable Deal in Germany
+subtitle: NKT and TenneT Sign $1 Billion Cable Deal in Germany
+date: '2024-12-27T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_1bd3787731c143a4a8e0fbbc07c662c1~mv2.jpg
+imageAlt: NKT and TenneT Sign $1 Billion Cable Deal in Germany
+wixId: fe1a0911-ec9f-4e7f-ab6c-132c70127251
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- NKT
+- TenneT
+- energy infrastructure
+- HVDC
+- wind energy
+- Germany
+- renewable energy
+- submarine cable
 ---
-
 <p>Danish offshore cabling specialist <strong>NKT</strong> has signed an agreement with transmission system operator <strong>TenneT</strong> worth approximately 1 billion euros ($1.04 billion) for two turnkey projects in Germany. These projects are part of TenneT's 2GW Programme, which aims to support Europe's energy transition.</p>
 <p>The agreement is part of a multi-year framework agreement signed in 2023 and running until 2028, with an extension option through 2031. Under this scope, NKT has taken on a total of five projects.</p>
 <p><br></p>

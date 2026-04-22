@@ -1,16 +1,23 @@
 ---
-title: "O'Reilly Automotive Places Supplier Health at Center of Tariff Strategy"
-subtitle: "O'Reilly Automotive Places Supplier Health at Center of Tariff Strategy"
-date: "2025-11-03T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_1c48c66c752149bc83966381e128a4b1~mv2.jpg"
-imageAlt: "O'Reilly Automotive is strengthening supplier risk management to mitigate the impact of tariffs through financial soundness, product quality, shipping performance, and supply diversification. China dependency has fallen to the mid-20s percent range."
-wixId: "9045f7e6-f082-4a8b-8c6b-739731374603"
-author: "Sedat Onat"
+title: O'Reilly Automotive Places Supplier Health at Center of Tariff Strategy
+subtitle: O'Reilly Automotive Places Supplier Health at Center of Tariff Strategy
+date: '2025-11-03T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_1c48c66c752149bc83966381e128a4b1~mv2.jpg
+imageAlt: O'Reilly Automotive is strengthening supplier risk management to mitigate the impact of tariffs through financial soundness, product quality, shipping performance, and supply diversification. China dependency has fallen to the mid-20s percent range.
+wixId: 9045f7e6-f082-4a8b-8c6b-739731374603
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- O'Reilly Automotive
+- supplier management
+- tariffs
+- supply diversification
+- China
+- automotive parts
+- risk management
 ---
-
 <p style="text-align: justify">U.S. automotive parts giant <strong>O'Reilly Automotive</strong> is building its primary defense against the cost pressures created by trade tariffs in the sector around <strong>supplier health</strong> and <strong>supply chain diversification</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">CEO <strong>Brent Kirby</strong> said during an October 23 earnings call that the company is closely monitoring supplier performance across all dimensions to manage tariff-related risks. According to Kirby's remarks, supplier health management encompasses the following elements:</p>

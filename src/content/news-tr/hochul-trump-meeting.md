@@ -1,14 +1,21 @@
 ---
-title: "Hochul, Nyc Trafik Ücretini Savunmak İçin Trump Ile Görüştü"
-subtitle: "Hochul, Nyc Trafik Ücretini Savunmak İçin Trump Ile Görüştü"
-date: "2025-02-25T00:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e94e49f8c4e94dc08889574628472bee~mv2.png"
-imageAlt: "Hochul, Nyc Trafik Ücretini Savunmak İçin Trump Ile Görüştü"
-wixId: "ded55bde-dc71-42cb-a60d-9f022ea51f82"
-author: "Sedat Onat"
+title: Hochul, Nyc Trafik Ücretini Savunmak İçin Trump Ile Görüştü
+subtitle: Hochul, Nyc Trafik Ücretini Savunmak İçin Trump Ile Görüştü
+date: '2025-02-25T00:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e94e49f8c4e94dc08889574628472bee~mv2.png
+imageAlt: Hochul, Nyc Trafik Ücretini Savunmak İçin Trump Ile Görüştü
+wixId: ded55bde-dc71-42cb-a60d-9f022ea51f82
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- trafik ücreti
+- New York
+- toplu taşıma
+- emisyon azaltımı
+- şehir lojistiği
+- congestion pricing
 ---
 <p><br>
 New York Valisi Kathy Hochul, Congestion Pricing politikasını savunmak için Donald Trump ile görüşmekte.&nbsp;</p>

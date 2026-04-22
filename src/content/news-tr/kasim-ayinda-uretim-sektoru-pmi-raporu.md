@@ -1,14 +1,22 @@
 ---
-title: "Kasım Ayında Üretim Sektörü İstikrara Yaklaştı: PMI Raporu"
-subtitle: "Kasım Ayında Üretim Sektörü İstikrara Yaklaştı: PMI Raporu"
-date: "2024-12-02T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/3206646ceb6b41fa90c3f63279531957.jpg"
-imageAlt: "Kasım Ayında Üretim Sektörü İstikrara Yaklaştı: PMI Raporu"
-wixId: "8bd4c181-2df8-40dc-9fd6-3d14b16dc180"
-author: "Sedat Onat"
+title: 'Kasım Ayında Üretim Sektörü İstikrara Yaklaştı: PMI Raporu'
+subtitle: 'Kasım Ayında Üretim Sektörü İstikrara Yaklaştı: PMI Raporu'
+date: '2024-12-02T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/3206646ceb6b41fa90c3f63279531957.jpg
+imageAlt: 'Kasım Ayında Üretim Sektörü İstikrara Yaklaştı: PMI Raporu'
+wixId: 8bd4c181-2df8-40dc-9fd6-3d14b16dc180
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- PMI
+- üretim sektörü
+- Amerika Birleşik Devletleri
+- tedarik zinciri
+- yeni siparişler
+- enflasyon
+- tarifeler
 ---
 <p>Kasım ayında Amerika Birleşik Devletleri'nde üretim sektörü, S&amp;P Global’in U.S. Manufacturing Purchasing Managers’ Index (PMI) raporuna göre istikrar sinyalleri gösterdi. PMI endeksi, yeni siparişlerdeki düşüşün yavaşlaması sayesinde 49.7'ye yükseldi. Bu artış, Donald Trump'ın yeniden başkan seçilmesinin ardından talep koşullarında yaşanan iyileşmeye işaret ediyor. Institute for Supply Management (ISM) tarafından yayınlanan PMI verisi ise %48.4 olarak gerçekleşti ve bu rakam Ekim ayına göre 1.9 puanlık bir artışı temsil ediyor. ISM verisine göre, yeni siparişler %50.4 seviyesine çıkarak Mart ayından bu yana ilk kez büyüme moduna geçti.</p>
 <p>PMI endeksinde 50.0'in altındaki bir değer, ekonomik daralmayı işaret ederken, S&amp;P Global’in raporu, üretim sektörünün geçen ay "istikrarına yaklaştığını" ve girdilerdeki maliyet enflasyonunun bir yılın en yavaş seviyesine düştüğünü belirtti. Şirketler, Trump yönetimi altında büyüme planlarını sürdürürken, S&amp;P Global Market Intelligence’ın baş ekonomi uzmanı Chris Williamson, pandemi dışındaki on yılın en geniş üretim açığını gözlemlediklerini ve mevcut zorlu koşullar ile gelecekteki daha iyi zaman beklentileri arasındaki belirgin farkı vurguladı.</p>

@@ -1,14 +1,21 @@
 ---
-title: "Toyota, Indiana'da Elektrikli Forklift Üretimi İçin 100 Milyon Dolarlık Yeni Fabrika Kuruyor"
-subtitle: "Toyota, Indiana'da Elektrikli Forklift Üretimi İçin 100 Milyon Dolarlık Yeni Fabrika Kuruyor"
-date: "2024-05-30T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_8a7334fe0f44453a8ef2e81cbe73158f~mv2.png"
-imageAlt: "Toyota, Indiana'da Elektrikli Forklift Üretimi İçin 100 Milyon Dolarlık Yeni Fabrika Kuruyor"
-wixId: "31dc7022-ee20-4cfb-8172-ccf11e143265"
-author: "Sedat Onat"
+title: Toyota, Indiana'da Elektrikli Forklift Üretimi İçin 100 Milyon Dolarlık Yeni Fabrika Kuruyor
+subtitle: Toyota, Indiana'da Elektrikli Forklift Üretimi İçin 100 Milyon Dolarlık Yeni Fabrika Kuruyor
+date: '2024-05-30T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_8a7334fe0f44453a8ef2e81cbe73158f~mv2.png
+imageAlt: Toyota, Indiana'da Elektrikli Forklift Üretimi İçin 100 Milyon Dolarlık Yeni Fabrika Kuruyor
+wixId: 31dc7022-ee20-4cfb-8172-ccf11e143265
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Toyota Material Handling
+- elektrikli forklift
+- fabrika yatırımı
+- Indiana
+- üretim tesisi
+- depo ekipmanları
 ---
 <p>Toyota Material Handling, 100 milyon dolarlık bir yatırımla Indiana, Columbus'ta elektrikli forklift üretimi yapacak yeni bir fabrika kurmaya başladı. Şirket, 1990 yılında Columbus'ta forklift üretimine başlamış olup, bu yeni tesis ile mevcut üretim alanını önemli ölçüde genişletecek. Yeni tesis 295,000 metrekare büyüklüğünde olup, Haziran 2026'da üretime başlayacak. Toyota, bu yeni girişimle, üretim süreçlerini modernize ederek elektrikli ürünlerini çok daha hızlı bir şekilde üretebilmeyi hedeflemekte, aynı zamanda yüksek kalite standartlarını korumayı sürdürecektir.</p>
 <p><br></p>

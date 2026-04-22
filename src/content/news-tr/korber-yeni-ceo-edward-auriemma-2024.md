@@ -1,14 +1,23 @@
 ---
-title: "Yeni CEO ile Körber Tedarik Zinciri Yazılım İşini Güçlendiriyor"
-subtitle: "Yeni CEO ile Körber Tedarik Zinciri Yazılım İşini Güçlendiriyor"
-date: "2024-06-13T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_ab164a5ffc1344909439bf0e54374c47~mv2.png"
-imageAlt: "Yeni CEO ile Körber Tedarik Zinciri Yazılım İşini Güçlendiriyor"
-wixId: "b14d2a7d-8f59-4394-b5c0-e658e0393693"
-author: "Sedat Onat"
+title: Yeni CEO ile Körber Tedarik Zinciri Yazılım İşini Güçlendiriyor
+subtitle: Yeni CEO ile Körber Tedarik Zinciri Yazılım İşini Güçlendiriyor
+date: '2024-06-13T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_ab164a5ffc1344909439bf0e54374c47~mv2.png
+imageAlt: Yeni CEO ile Körber Tedarik Zinciri Yazılım İşini Güçlendiriyor
+wixId: b14d2a7d-8f59-4394-b5c0-e658e0393693
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Körber
+- CEO ataması
+- tedarik zinciri yazılımı
+- Blue Yonder
+- WMS
+- TMS
+- Edward Auriemma
+- KKR
 ---
 <p>Auriemma, Blue Yonder'da COO olarak görev yapmış, sektörde deneyimli bir isim. 8 Temmuz'da göreve başlayacak olan Auriemma, Körber'in tedarik zinciri yazılım iş birimini yönetecek. Bu birim, 30 ofiste 1,850 çalışanı ile 4,500 müşteri sitesinde 325 projeyi yürütüyor.</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "EU Introduces New Regulations to Reduce Emissions in Shipping Sector"
-subtitle: "EU Introduces New Regulations to Reduce Emissions in Shipping Sector"
-date: "2025-01-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_60d7b7d57e4e4ca18a8e1dce935ba648~mv2.jpg"
-imageAlt: "EU Introduces New Regulations to Reduce Emissions in Shipping Sector"
-wixId: "03419368-89a3-4575-ae5d-1610c6ae7d79"
-author: "Sedat Onat"
+title: EU Introduces New Regulations to Reduce Emissions in Shipping Sector
+subtitle: EU Introduces New Regulations to Reduce Emissions in Shipping Sector
+date: '2025-01-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_60d7b7d57e4e4ca18a8e1dce935ba648~mv2.jpg
+imageAlt: EU Introduces New Regulations to Reduce Emissions in Shipping Sector
+wixId: 03419368-89a3-4575-ae5d-1610c6ae7d79
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- European Union
+- maritime
+- emission reduction
+- greenhouse gas
+- sustainability
+- IMO
+- carbon emissions
 ---
-
 <p style="text-align: justify">The European Union (<strong>EU</strong>) is implementing new regulations aimed at reducing greenhouse gas emissions in the maritime sector. This move seeks to go beyond the global targets set by the <strong>International Maritime Organization (IMO)</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">Under the new regulations, EU member states will be required to monitor and report carbon emissions from vessels calling at their ports. Additionally, ship owners and operators will be required to reduce emissions by using cleaner fuels and improving energy efficiency.</p>

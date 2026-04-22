@@ -1,14 +1,21 @@
 ---
-title: "Rus Demiryollarının Kötü Performansı Karayolu Taşımacılığını Artırdı"
-subtitle: "Rus Demiryollarının Kötü Performansı Karayolu Taşımacılığını Artırdı"
-date: "2024-06-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/11062b_03cd8cdbd0c947a482d08414c4328699~mv2.jpeg"
-imageAlt: "Rus Demiryollarının Kötü Performansı Karayolu Taşımacılığını Artırdı"
-wixId: "4006defb-0376-4346-ad1f-ddda0c583bcb"
-author: "Sedat Onat"
+title: Rus Demiryollarının Kötü Performansı Karayolu Taşımacılığını Artırdı
+subtitle: Rus Demiryollarının Kötü Performansı Karayolu Taşımacılığını Artırdı
+date: '2024-06-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/11062b_03cd8cdbd0c947a482d08414c4328699~mv2.jpeg
+imageAlt: Rus Demiryollarının Kötü Performansı Karayolu Taşımacılığını Artırdı
+wixId: 4006defb-0376-4346-ad1f-ddda0c583bcb
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Rusya
+- demiryolu taşımacılığı
+- karayolu taşımacılığı
+- güvenilirlik
+- lojistik
+- modal rekabet
 ---
 <p>Rusya'da demiryolu ve karayolu taşımacılığı arasındaki rekabet, Avrupa'daki benzer durumlar gibi tartışmalara neden oluyor. Moskova'da 23 Mayıs'ta düzenlenen bir konferansta, taşımacılık modları arasındaki rekabet ve taşıyıcıların ne yapması gerektiği konuşuldu. Konferansa katılan tedarikçiler, operatörler, lojistik şirketleri ve analistler hükümete ortak bir mektup gönderdi. Avrupa'daki durumun aksine, Rusya'da demiryolu fiyatlarının rekabetten ziyade, demiryolu hizmetlerinin güvenilirliği ve zamanında teslim sorunları ön plana çıkıyor. Demiryolu sektörü, Rus demiryolu ağında öncelik sıralamasında en altta yer almasını eleştiriyor.&nbsp;</p>
 <p><br></p>

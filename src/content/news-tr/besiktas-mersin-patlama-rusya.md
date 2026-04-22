@@ -1,14 +1,23 @@
 ---
-title: "Beşiktaş Shipping, M/T Mersin Olayı Sonrası Rusya Bağlantılı Seferleri Tamamen Durdurdu"
-subtitle: "Beşiktaş Shipping, M/T Mersin Olayı Sonrası Rusya Bağlantılı Seferleri Tamamen Durdurdu"
-date: "2025-12-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_437883bd2a15496789202ed778c134bd~mv2.jpg"
-imageAlt: "M/T Mersin tankerinin Dakar açıklarında dört dış patlama yaşaması sonrası Beşiktaş Shipping’in tüm Rusya bağlantılı operasyonları sonlandırması, güvenlik riski değerlendirmesi ve tedarik zinciri etkilerinin detaylı özeti"
-wixId: "4177d233-6de6-4c13-bf0a-bc87c1209e28"
-author: "Sedat Onat"
+title: Beşiktaş Shipping, M/T Mersin Olayı Sonrası Rusya Bağlantılı Seferleri Tamamen Durdurdu
+subtitle: Beşiktaş Shipping, M/T Mersin Olayı Sonrası Rusya Bağlantılı Seferleri Tamamen Durdurdu
+date: '2025-12-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_437883bd2a15496789202ed778c134bd~mv2.jpg
+imageAlt: M/T Mersin tankerinin Dakar açıklarında dört dış patlama yaşaması sonrası Beşiktaş Shipping’in tüm Rusya bağlantılı operasyonları sonlandırması, güvenlik riski değerlendirmesi ve tedarik zinciri etkilerinin detaylı özeti
+wixId: 4177d233-6de6-4c13-bf0a-bc87c1209e28
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Beşiktaş Shipping
+- M/T Mersin
+- tanker
+- Rusya
+- shadow fleet
+- denizcilik güvenliği
+- yaptırım
+- Senegal
 ---
 <p style="text-align: justify"><strong>Beşiktaş Shipping</strong>, 27 Kasım 2025 gecesi Senegal açıklarında gerçekleşen ciddi bir denizcilik olayı sonrası önemli bir stratejik karar açıkladı: Şirket, <strong>Rusya ile bağlantılı tüm denizcilik operasyonlarını derhal sonlandırdığını</strong> duyurdu. Bu karar, şirket tarafından yönetilen <strong>Panama bayraklı M/T Mersin</strong> tankerinin Dakar açıklarında dört dış patlamaya maruz kalmasının ardından alındı.</p>
 <p><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "U.S. Enforcement of Pest Detection in Project Cargo Shipments Intensifying: Cost Pressures Mount for Importers"
-subtitle: "U.S. Enforcement of Pest Detection in Project Cargo Shipments Intensifying: Cost Pressures Mount for Importers"
-date: "2025-11-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3e43cd8bcd61499ab73ccc28c13b65be~mv2.jpg"
-imageAlt: "CBP's strict enforcement of pest detection in wooden packaging materials (WPM) is imposing significant penalties and re-export risks on project cargo importers, with inspection practices tightening throughout 2025."
-wixId: "3ba0192d-b969-47f1-a038-d9921f827f75"
-author: "Sedat Onat"
+title: 'U.S. Enforcement of Pest Detection in Project Cargo Shipments Intensifying: Cost Pressures Mount for Importers'
+subtitle: 'U.S. Enforcement of Pest Detection in Project Cargo Shipments Intensifying: Cost Pressures Mount for Importers'
+date: '2025-11-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3e43cd8bcd61499ab73ccc28c13b65be~mv2.jpg
+imageAlt: CBP's strict enforcement of pest detection in wooden packaging materials (WPM) is imposing significant penalties and re-export risks on project cargo importers, with inspection practices tightening throughout 2025.
+wixId: 3ba0192d-b969-47f1-a038-d9921f827f75
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- project cargo
+- U.S. customs
+- ISPM 15
+- wooden packaging
+- pest detection
+- CBP
+- breakbulk
+- import cost
 ---
-
 <p style="text-align: justify">U.S. <strong>breakbulk</strong> and <strong>project cargo</strong> importers face substantial financial pressure throughout 2025 due to tariffs, economic uncertainty, shipping costs, and delays. To this challenging environment, <strong>CBP's intense inspections and steep penalties for pest detection in wooden packaging materials</strong> have now been added.</p>
 <p><br></p>
 <p style="text-align: justify">U.S. Customs and Border Protection (<strong>CBP</strong>) is specifically targeting <strong>wooden packaging materials (WPM)</strong> that do not comply with <strong>ISPM 15 standards</strong> or contain pest organisms. Wooden crates, dunnage, pallets, and support beams used in project cargo are inherently highly susceptible to <strong>insect, larval, and fungal contamination</strong> due to their natural composition.</p>

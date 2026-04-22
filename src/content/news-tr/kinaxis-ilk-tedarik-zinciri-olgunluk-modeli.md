@@ -1,14 +1,21 @@
 ---
-title: "Kinaxis, İlk Tedarik Zinciri Orkestrasyon Olgunluk Modelini Tanıttı"
-subtitle: "Kinaxis, İlk Tedarik Zinciri Orkestrasyon Olgunluk Modelini Tanıttı"
-date: "2024-11-19T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_582642804a7a48e9a548ab9c8fe14ef8~mv2.jpg"
-imageAlt: "Kinaxis, İlk Tedarik Zinciri Orkestrasyon Olgunluk Modelini Tanıttı"
-wixId: "50191e36-d596-45e6-80a4-882db6ba3106"
-author: "Sedat Onat"
+title: Kinaxis, İlk Tedarik Zinciri Orkestrasyon Olgunluk Modelini Tanıttı
+subtitle: Kinaxis, İlk Tedarik Zinciri Orkestrasyon Olgunluk Modelini Tanıttı
+date: '2024-11-19T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_582642804a7a48e9a548ab9c8fe14ef8~mv2.jpg
+imageAlt: Kinaxis, İlk Tedarik Zinciri Orkestrasyon Olgunluk Modelini Tanıttı
+wixId: 50191e36-d596-45e6-80a4-882db6ba3106
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kinaxis
+- tedarik zinciri orkestrasyonu
+- olgunluk modeli
+- yapay zeka
+- tedarik zinciri yönetimi
+- değerlendirme aracı
 ---
 <p>Kinaxis, tedarik zinciri yönetimi alanında öncü bir adım atarak sektörün ilk Tedarik Zinciri Orkestrasyon (Supply Chain Orchestration - SCO) Olgunluk Modeli ve Kendi Kendini Değerlendirme aracını piyasaya sürdü. Bu yenilikçi araç, işletmelerin tedarik zinciri operasyonlarını 14 temel boyut üzerinden değerlendirmelerine ve iyileştirme için uygulanabilir stratejiler geliştirmelerine olanak tanıyor.</p>
 <p><br></p>

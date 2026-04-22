@@ -1,16 +1,23 @@
 ---
-title: "Turkey Temporarily Halts Dardanelles Passage Due to Subsea Security Tests"
-subtitle: "Turkey Temporarily Halts Dardanelles Passage Due to Subsea Security Tests"
-date: "2025-11-19T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/nsplsh_375241656d2d4d696a6d59~mv2_d_4000_3000_s_4_2.jpg"
-imageAlt: "Turkey closed the Dardanelles Strait to two-way vessel traffic on November 19 between 07:00–18:00 for testing activities under the Subsea Security Project; the strategic corridor, which handles approximately 100 daily ship transits, was temporarily suspended."
-wixId: "28d46731-81d2-49a4-b9e7-fcd60b0171a4"
-author: "Sedat Onat"
+title: Turkey Temporarily Halts Dardanelles Passage Due to Subsea Security Tests
+subtitle: Turkey Temporarily Halts Dardanelles Passage Due to Subsea Security Tests
+date: '2025-11-19T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/nsplsh_375241656d2d4d696a6d59~mv2_d_4000_3000_s_4_2.jpg
+imageAlt: Turkey closed the Dardanelles Strait to two-way vessel traffic on November 19 between 07:00–18:00 for testing activities under the Subsea Security Project; the strategic corridor, which handles approximately 100 daily ship transits, was temporarily suspended.
+wixId: 28d46731-81d2-49a4-b9e7-fcd60b0171a4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Dardanelles
+- underwater security
+- vessel traffic
+- Presidency of Defense Industries
+- Turkish Straits
+- maritime logistics
+- critical infrastructure
 ---
-
 <p style="text-align: justify">Turkey <strong>temporarily halted two-way vessel traffic through the Dardanelles Strait on November 19</strong>. Both northbound and southbound passages were closed between <strong>07:00–18:00</strong> due to testing activities conducted under the <strong>"Straits Subsea Security Assurance Project"</strong> led by the Defense Industries Presidency.</p>
 <p><br></p>
 <p style="text-align: justify">The announcement was issued to the maritime community by the Dardanelles Traffic Information System, with the notice explicitly stating that traffic would be <strong>completely suspended in both directions</strong>.</p>

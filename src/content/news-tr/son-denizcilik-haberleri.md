@@ -1,14 +1,23 @@
 ---
-title: "Son Denizcilik Haberleri ve Gelişmeleri"
-subtitle: "Son Denizcilik Haberleri ve Gelişmeleri"
-date: "2025-01-16T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_437130fd148e40bb9f2838db862dff64~mv2.jpg"
-imageAlt: "Son Denizcilik Haberleri ve Gelişmeleri"
-wixId: "deddc14a-a7ae-49be-896c-ca2542a89e55"
-author: "Sedat Onat"
+title: Son Denizcilik Haberleri ve Gelişmeleri
+subtitle: Son Denizcilik Haberleri ve Gelişmeleri
+date: '2025-01-16T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_437130fd148e40bb9f2838db862dff64~mv2.jpg
+imageAlt: Son Denizcilik Haberleri ve Gelişmeleri
+wixId: deddc14a-a7ae-49be-896c-ca2542a89e55
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- denizcilik
+- petrol sızıntısı
+- Karadeniz
+- Rusya
+- tanker güvenliği
+- denizaltı kablo
+- kruvaziyer vergi
+- Guyana
 ---
 <p style="text-align: justify">Son dönemde denizcilik sektöründe çeşitli önemli gelişmeler yaşanmakta. <strong>gCaptain</strong>'ın haberlerine göre, <strong>Guyana</strong> hükümeti, petrol tedarik gemilerinin güvenliğini artırmak amacıyla su yollarındaki enkazları temizleme çalışmalarına hız vermekte. Bu adım, ülkenin enerji sektöründeki büyüme hedefleri doğrultusunda atılmakta.</p>
 <p><br></p>

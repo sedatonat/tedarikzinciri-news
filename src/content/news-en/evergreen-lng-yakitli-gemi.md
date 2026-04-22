@@ -1,16 +1,23 @@
 ---
-title: "Evergreen Expands Fleet by Nearly $3 Billion with Order for 14 New LNG-Fueled Vessels"
-subtitle: "Evergreen Expands Fleet by Nearly $3 Billion with Order for 14 New LNG-Fueled Vessels"
-date: "2025-11-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f130457e9c40406ea41e1bb1ce06ee55~mv2.jpg"
-imageAlt: "Evergreen Marine has placed an order for a total of 14 LNG-fueled vessels of 14,000 TEU at South Korean and Chinese shipyards, adding approximately $3 billion in capacity to its fleet; with these orders, Evergreen's total fleet capacity reaches 2,747,549 TEU."
-wixId: "b83d12f5-5d1e-44eb-a2a1-3b1be3209222"
-author: "Sedat Onat"
+title: Evergreen Expands Fleet by Nearly $3 Billion with Order for 14 New LNG-Fueled Vessels
+subtitle: Evergreen Expands Fleet by Nearly $3 Billion with Order for 14 New LNG-Fueled Vessels
+date: '2025-11-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f130457e9c40406ea41e1bb1ce06ee55~mv2.jpg
+imageAlt: Evergreen Marine has placed an order for a total of 14 LNG-fueled vessels of 14,000 TEU at South Korean and Chinese shipyards, adding approximately $3 billion in capacity to its fleet; with these orders, Evergreen's total fleet capacity reaches 2,747,549 TEU.
+wixId: b83d12f5-5d1e-44eb-a2a1-3b1be3209222
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Evergreen Marine
+- LNG-powered vessel
+- container ship
+- Samsung Heavy Industries
+- Guangzhou Shipyard
+- fleet expansion
+- emission reduction
 ---
-
 <p style="text-align: justify">Taiwan-based <strong>Evergreen Marine</strong> has announced a significant investment package to expand its global container shipping fleet. The company has confirmed orders for a total of <strong>14 LNG-fueled container vessels of 14,000 TEU</strong>. The total value of the order is estimated to be between <strong>$2.45–2.9 billion</strong>.</p>
 <p style="text-align: justify">The new vessels will be divided between two major shipyards:</p>
 <ul>

@@ -1,14 +1,22 @@
 ---
-title: "Gemini’nin “Güvenilirlik Ücreti” Tartışma Yarattı: Göndericiler İkiye Bölündü"
-subtitle: "Gemini’nin “Güvenilirlik Ücreti” Tartışma Yarattı: Göndericiler İkiye Bölündü"
-date: "2025-11-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_37863dfb55ed4c69b4fa955605fcc4d9~mv2.jpg"
-imageAlt: "Maersk–Hapag-Lloyd ortaklığındaki Gemini Cooperation, %89’un üzerindeki zamanında varış performansı için premium güvenilirlik ücreti talep etmeyi değerlendiriyor; ancak göndericiler arasında ücretin haklılığı konusunda ciddi görüş ayrılığı oluşmuş durumda."
-wixId: "8851c159-79da-475e-97c6-63b17fde6402"
-author: "Sedat Onat"
+title: 'Gemini’nin “Güvenilirlik Ücreti” Tartışma Yarattı: Göndericiler İkiye Bölündü'
+subtitle: 'Gemini’nin “Güvenilirlik Ücreti” Tartışma Yarattı: Göndericiler İkiye Bölündü'
+date: '2025-11-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_37863dfb55ed4c69b4fa955605fcc4d9~mv2.jpg
+imageAlt: Maersk–Hapag-Lloyd ortaklığındaki Gemini Cooperation, %89’un üzerindeki zamanında varış performansı için premium güvenilirlik ücreti talep etmeyi değerlendiriyor; ancak göndericiler arasında ücretin haklılığı konusunda ciddi görüş ayrılığı oluşmuş durumda.
+wixId: 8851c159-79da-475e-97c6-63b17fde6402
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Gemini Cooperation
+- Maersk
+- Hapag-Lloyd
+- güvenilirlik ücreti
+- zamanında teslimat
+- konteyner taşımacılığı
+- tedarik zinciri maliyeti
 ---
 <p style="text-align: justify">Maersk ve Hapag-Lloyd’un oluşturduğu <strong>Gemini Cooperation</strong>, 2025 boyunca gösterdiği yüksek zamanında teslimat performansı sayesinde pazarda dikkat çekmiş durumda. Sea-Intelligence verilerine göre Gemini, <strong>Eylül ayında tüm varışlar bazında %89,1 on-time reliability</strong> yakalayarak sektördeki en istikrarlı ağlardan biri hâline geldi.</p>
 <p><br></p>

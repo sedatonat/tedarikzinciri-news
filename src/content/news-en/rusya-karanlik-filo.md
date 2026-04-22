@@ -1,16 +1,24 @@
 ---
-title: "Russia and China Circumvent Sanctions with First \"Dark\" LNG Transfer"
-subtitle: "Russia and China Circumvent Sanctions with First \"Dark\" LNG Transfer"
-date: "2025-10-20T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f7dfd260682d4d7d99ab69900e748e8d~mv2.jpg"
-imageAlt: "Russia and China Circumvent Sanctions with First \"Dark\" LNG Transfer"
-wixId: "c664d80b-5447-4904-9637-3a3ffea9ec39"
-author: "Sedat Onat"
+title: Russia and China Circumvent Sanctions with First "Dark" LNG Transfer
+subtitle: Russia and China Circumvent Sanctions with First "Dark" LNG Transfer
+date: '2025-10-20T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f7dfd260682d4d7d99ab69900e748e8d~mv2.jpg
+imageAlt: Russia and China Circumvent Sanctions with First "Dark" LNG Transfer
+wixId: c664d80b-5447-4904-9637-3a3ffea9ec39
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- LNG
+- dark fleet
+- Russia
+- China
+- sanctions
+- ship-to-ship transfer
+- Gazprom
+- energy trade
 ---
-
 <p style="text-align: justify"><strong>Russia</strong> is entering a new phase in its strategy to evade Western sanctions. The country has for the first time conducted a <strong>ship-to-ship transfer (STS) of liquefied natural gas (LNG) via a "shadow fleet" in cooperation with a Chinese LNG carrier</strong>. Satellite imagery and <strong>Automatic Identification System (AIS)</strong> data with partially disabled signals indicate this operation took place <strong>off the coast of Malaysia on October 18, 2025</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The operation was conducted between the <strong>Perle</strong>, a vessel with a capacity of 170,471 m³, and the <strong>CCH Gas</strong>, with a capacity of 145,000 m³. The <strong>Perle</strong> was carrying its cargo from <strong>Gazprom's Portovaya LNG facility</strong>—a facility that <strong>was sanctioned by the United States in January 2025</strong> and has since struggled to find foreign buyers.</p>

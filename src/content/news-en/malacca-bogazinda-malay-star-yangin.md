@@ -1,16 +1,23 @@
 ---
-title: "Malaysia Star Anchors After Fire in Malacca Strait"
-subtitle: "Malaysia Star Anchors After Fire in Malacca Strait"
-date: "2024-12-06T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c0a5fe9c888d49d8bb93e8a5b9876b5c~mv2.jpg"
-imageAlt: "Malaysia Star Anchors After Fire in Malacca Strait"
-wixId: "94db22b5-9907-468f-944b-b53c54ddd222"
-author: "Sedat Onat"
+title: Malaysia Star Anchors After Fire in Malacca Strait
+subtitle: Malaysia Star Anchors After Fire in Malacca Strait
+date: '2024-12-06T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c0a5fe9c888d49d8bb93e8a5b9876b5c~mv2.jpg
+imageAlt: Malaysia Star Anchors After Fire in Malacca Strait
+wixId: 94db22b5-9907-468f-944b-b53c54ddd222
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Strait of Malacca
+- Malaysia Star
+- car carrier
+- fire
+- MMEA
+- maritime security
+- Harbour-Link Group
 ---
-
 <p>A fire that broke out in the Malacca Strait on December 2, 2024, prompted the car carrier Malaysia Star to drop anchor at port. The incident occurred in the early morning hours when flames erupted near the fuel tank of the vessel, which was en route from Port Klang to Kota Kinabalu, Malaysia, and could not be brought under control. The fire forced the crew to evacuate hastily, with 19 personnel abandoning the vessel.</p>
 <p><br></p>
 <p>The Malaysian Maritime Enforcement Agency (MMEA) responded swiftly following the discovery of the incident. Mohammad Zaini Zainal, regional director of the MMEA's Batu Pahat sector, reported that two maritime patrol boats and a maritime police vessel were dispatched to the scene. The fire occurred aboard the Malaysia Star, a vessel built in 1992 with a capacity of 1,466 CEU (car equivalent unit).</p>

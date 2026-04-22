@@ -1,16 +1,23 @@
 ---
-title: "SeaLead and GFS Launch New STM Service in Mediterranean"
-subtitle: "SeaLead and GFS Launch New STM Service in Mediterranean"
-date: "2024-09-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f391ca4c214141a8acd49857876a1e73~mv2.jpg"
-imageAlt: "SeaLead and GFS Launch New STM Service in Mediterranean"
-wixId: "6eb18dae-a5cf-4fc8-bec6-cd7acd9edb3f"
-author: "Sedat Onat"
+title: SeaLead and GFS Launch New STM Service in Mediterranean
+subtitle: SeaLead and GFS Launch New STM Service in Mediterranean
+date: '2024-09-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f391ca4c214141a8acd49857876a1e73~mv2.jpg
+imageAlt: SeaLead and GFS Launch New STM Service in Mediterranean
+wixId: 6eb18dae-a5cf-4fc8-bec6-cd7acd9edb3f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- SeaLead
+- GFS
+- STM service
+- Mediterranean
+- container shipping
+- Kumport
+- maritime shipping
 ---
-
 <p>SeaLead, a Singapore-based global shipping line, has launched a new STM service in partnership with Global Feeder Shipping (GFS) connecting ports in Spain, Turkey, and Morocco. With its inaugural sailing on September 13, 2024, the service aims to integrate shipments across regions including the Far East, Southeast Asia, India, the Mediterranean, the Red Sea, and the Middle East. Through this expansion, the companies seek to play a significant role in global trade while strengthening logistics networks between different regions.</p>
 <p><br></p>
 <p>The STM network operates on a weekly schedule starting from ports in Kumport and Diliskelesi in Turkey, extending westward to Aliağa, Barcelona, Valencia, Algeciras, and Casablanca. Eastbound services cover Tanca, Valencia, Barcelona, and return to Kumport. These routes establish fast and reliable connections between major trade hubs in the Mediterranean region.</p>

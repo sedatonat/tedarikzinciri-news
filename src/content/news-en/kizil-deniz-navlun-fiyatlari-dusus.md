@@ -1,16 +1,24 @@
 ---
-title: "Red Sea Calm Could Cut Freight Prices by 25%, Says DP World"
-subtitle: "Red Sea Calm Could Cut Freight Prices by 25%, Says DP World"
-date: "2025-01-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d050a3eeb6b84d0ebcbf58695dbca961~mv2.jpg"
-imageAlt: "Red Sea Calm Could Cut Freight Prices by 25%, Says DP World"
-wixId: "315ed78c-eeb1-4793-8ef6-69e2e61211a3"
-author: "Sedat Onat"
+title: Red Sea Calm Could Cut Freight Prices by 25%, Says DP World
+subtitle: Red Sea Calm Could Cut Freight Prices by 25%, Says DP World
+date: '2025-01-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d050a3eeb6b84d0ebcbf58695dbca961~mv2.jpg
+imageAlt: Red Sea Calm Could Cut Freight Prices by 25%, Says DP World
+wixId: 315ed78c-eeb1-4793-8ef6-69e2e61211a3
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Red Sea
+- freight rates
+- DP World
+- Suez Canal
+- Houthi attacks
+- maritime shipping
+- supply chain
+- geopolitical risk
 ---
-
 <p style="text-align: justify"><strong>DP World</strong> says global shipping costs could fall by as much as 25% if tensions in the <strong>Red Sea</strong> ease. The <strong>Red Sea</strong>, a critical transit point in global logistics, has experienced significant disruptions to shipping routes in recent months due to escalating geopolitical risks. Attacks by Houthi rebels on commercial vessels near the <strong>Bab el-Mandeb Strait</strong> have forced many shipping companies to alter their routes.</p>
 <p><br></p>
 <p style="text-align: justify">This situation has reduced the use of the <strong>Suez Canal</strong> for maritime transport between Asia and Europe, forcing vessels to take a longer route via <strong>Cape of Good Hope</strong>. The use of alternative routes is placing significant pressure on <strong>freight rates</strong>. DP World officials say that if security risks in the region diminish and shipping returns to normal, <strong>global maritime shipping costs could drop by 20% to 25%</strong>.</p>

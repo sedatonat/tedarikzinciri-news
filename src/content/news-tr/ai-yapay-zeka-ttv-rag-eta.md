@@ -1,14 +1,22 @@
 ---
-title: "Tedarik Zinciri'nde Yapay Zekâ için Sırada Ne Var"
-subtitle: "Tedarik Zinciri'nde Yapay Zekâ için Sırada Ne Var"
-date: "2025-07-18T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_66019cf08e3e431d98ab797f2d08d81f~mv2.png"
-imageAlt: "Tedarik Zincirinde Yapay Zekâ İçin Sırada Ne Var"
-wixId: "4fe32d52-3266-4c03-bfb1-9f17552600cf"
-author: "Sedat Onat"
+title: Tedarik Zinciri'nde Yapay Zekâ için Sırada Ne Var
+subtitle: Tedarik Zinciri'nde Yapay Zekâ için Sırada Ne Var
+date: '2025-07-18T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_66019cf08e3e431d98ab797f2d08d81f~mv2.png
+imageAlt: Tedarik Zincirinde Yapay Zekâ İçin Sırada Ne Var
+wixId: 4fe32d52-3266-4c03-bfb1-9f17552600cf
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- yapay zeka
+- tedarik zinciri
+- generative AI
+- RAG
+- tahmine dayalı lojistik
+- AI yönetişimi
+- otomasyon
 ---
 <p style="text-align: justify"><strong>Yapay zekâ (AI)</strong>, tedarik zincirlerinde <strong>pilot uygulamalardan ölçekli kullanıma</strong> geçerken, odağın <strong>üretkenlik (productivity)</strong> ve <strong>dayanıklılık (resilience)</strong> birleşimine kaydığı görülüyor. Artık kurumlar için soru “AI nerede kullanılmalı?” değil, “<strong>nasıl ölçülebilir ve güvenli bir şekilde ölçeklenir?</strong>” haline gelmiş durumda.</p>
 <p style="text-align: justify"><br></p>

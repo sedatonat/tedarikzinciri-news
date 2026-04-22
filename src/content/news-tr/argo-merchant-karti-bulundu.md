@@ -1,14 +1,23 @@
 ---
-title: "Argo Merchant Petrol Sızıntısı Sürüklenme Kartı İskoç Adasında Bulundu"
-subtitle: "Argo Merchant Petrol Sızıntısı Sürüklenme Kartı İskoç Adasında Bulundu"
-date: "2024-12-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6ef2dc28020b4f3f8ae5533a1bec4d85~mv2.jpg"
-imageAlt: "Argo Merchant Petrol Sızıntısı Sürüklenme Kartı İskoç Adasında Bulundu"
-wixId: "7430e3c5-9363-4653-8790-c2f3e2d193b7"
-author: "Sedat Onat"
+title: Argo Merchant Petrol Sızıntısı Sürüklenme Kartı İskoç Adasında Bulundu
+subtitle: Argo Merchant Petrol Sızıntısı Sürüklenme Kartı İskoç Adasında Bulundu
+date: '2024-12-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_6ef2dc28020b4f3f8ae5533a1bec4d85~mv2.jpg
+imageAlt: Argo Merchant Petrol Sızıntısı Sürüklenme Kartı İskoç Adasında Bulundu
+wixId: 7430e3c5-9363-4653-8790-c2f3e2d193b7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Argo Merchant
+- petrol sızıntısı
+- deniz kirliliği
+- plastik atık
+- sürüklenme kartı
+- İskoçya
+- NOAA
+- çevre etkisi
 ---
 <p>1976 yılında meydana gelen <strong>Argo Merchant</strong> petrol sızıntısının ardından denize bırakılan plastik bir sürüklenme kartı, yaklaşık elli yıl sonra İskoçya'nın Coll Adası'nda bulundu. Ekim 2024'te bir fırtınanın ardından mülkündeki enkazı temizleyen Barbara Payne, üzerinde Boulder, Colorado'daki <strong>NOAA</strong> ile iletişime geçilmesini isteyen çok dilli talimatlar bulunan kırmızı, kredi kartı boyutunda bir plastik kart keşfetti.</p>
 <p><br></p>

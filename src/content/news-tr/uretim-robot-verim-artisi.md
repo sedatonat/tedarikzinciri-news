@@ -1,14 +1,23 @@
 ---
-title: "Daha Az Robotla Daha Fazla Verim: AMR Optimizasyonu Nasıl ROI’yi Katlıyor?"
-subtitle: "Daha Az Robotla Daha Fazla Verim: AMR Optimizasyonu Nasıl ROI’yi Katlıyor?"
-date: "2025-11-06T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/nsplsh_f042d9bb6c2a47739454c521e79abc90~mv2.jpg"
-imageAlt: "Zebra’nın orkestrasyon yaklaşımı, AMR filolarını bulut + edge teknolojisiyle optimize ederek aynı işi %30 daha az robotla, daha yüksek throughput, daha düşük capex ve daha verimli iş akışlarıyla gerçekleştirmeyi sağlıyor."
-wixId: "ec1b56a0-6a15-45a5-922a-2ed854aa320c"
-author: "Sedat Onat"
+title: 'Daha Az Robotla Daha Fazla Verim: AMR Optimizasyonu Nasıl ROI’yi Katlıyor?'
+subtitle: 'Daha Az Robotla Daha Fazla Verim: AMR Optimizasyonu Nasıl ROI’yi Katlıyor?'
+date: '2025-11-06T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/nsplsh_f042d9bb6c2a47739454c521e79abc90~mv2.jpg
+imageAlt: Zebra’nın orkestrasyon yaklaşımı, AMR filolarını bulut + edge teknolojisiyle optimize ederek aynı işi %30 daha az robotla, daha yüksek throughput, daha düşük capex ve daha verimli iş akışlarıyla gerçekleştirmeyi sağlıyor.
+wixId: ec1b56a0-6a15-45a5-922a-2ed854aa320c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- AMR
+- otonom mobil robot
+- depo otomasyonu
+- robot orkestrasyonu
+- ROI optimizasyonu
+- Zebra Technologies
+- wearables
+- asset utilization
 ---
 <p style="text-align: justify">Depo robotik yatırımları dünya genelinde hızla artıyor. 2023’te <strong>51.000+ AMR</strong> kullanıma sunulurken, bu rakamın 2030’da <strong>180.000’e</strong> çıkması bekleniyor. AMR’ler iş gücü sıkıntısı yaşayan operasyonlarda büyük fayda sağlıyor; ancak sadece “daha fazla robot eklemek” çoğu zaman <strong>azalan getiriler</strong>, <strong>yüksek yatırım maliyetleri (capex)</strong> ve <strong>karmaşık iş akışları</strong> anlamına geliyor.</p>
 <p><br></p>

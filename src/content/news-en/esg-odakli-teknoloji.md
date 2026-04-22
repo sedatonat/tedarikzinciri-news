@@ -1,16 +1,23 @@
 ---
-title: "Conceptualizing ESG-Focused Technology in 2025"
-subtitle: "Conceptualizing ESG-Focused Technology in 2025"
-date: "2025-05-05T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_b9eed94f3dfd4d2696fc959fdf9f7c3a~mv2.png"
-imageAlt: "Conceptualizing ESG-Focused Technology in 2025"
-wixId: "1e7cd29c-977b-4bc0-811d-ea531c4ed96a"
-author: "Sedat Onat"
+title: Conceptualizing ESG-Focused Technology in 2025
+subtitle: Conceptualizing ESG-Focused Technology in 2025
+date: '2025-05-05T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_b9eed94f3dfd4d2696fc959fdf9f7c3a~mv2.png
+imageAlt: Conceptualizing ESG-Focused Technology in 2025
+wixId: 1e7cd29c-977b-4bc0-811d-ea531c4ed96a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- ESG
+- sustainability
+- digital product passport
+- carbon footprint
+- supply chain
+- artificial intelligence
+- CSRD
 ---
-
 <p style="text-align: justify"><strong>The vision of ESG-focused technology</strong> is no longer simply a sustainability reporting obligation; it has become <strong>a business model built on data transparency, accountability, and value creation</strong>. Organizations are making their environmental and social impacts measurable, thereby securing both <strong>access to financing</strong> and <strong>competitive advantage</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">At the infrastructure level, <strong>ESG data platforms</strong>, <strong>data clean rooms</strong>, and <strong>traceability solutions</strong> enable businesses to reliably consolidate <strong>Scope 1–2–3 emissions</strong>, <strong>water consumption</strong>, and <strong>waste management metrics</strong>. <strong>Data clean rooms</strong> allow different stakeholders in the supply chain to share data without privacy breaches, while <strong>traceability systems</strong> institutionalize visibility from sourcing to the final product.</p>

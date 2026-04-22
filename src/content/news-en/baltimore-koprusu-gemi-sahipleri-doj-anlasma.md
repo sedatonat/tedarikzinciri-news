@@ -1,14 +1,22 @@
 ---
-title: "Baltimore Bridge Collision: Ship Owners Reach $102 Million Settlement with DOJ"
-subtitle: "Baltimore Bridge Collision: Ship Owners Reach $102 Million Settlement with DOJ"
-date: "2024-10-28T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e9eafba5b9a04a7cba4092b8f4082e62~mv2.jpg"
-imageAlt: "Baltimore Bridge Collision: Ship Owners Reach $102 Million Settlement with DOJ"
-wixId: "67b801d6-a3d6-4749-bbf0-e416cb11dfc4"
-author: "Sedat Onat"
+title: 'Baltimore Bridge Collision: Ship Owners Reach $102 Million Settlement with DOJ'
+subtitle: 'Baltimore Bridge Collision: Ship Owners Reach $102 Million Settlement with DOJ'
+date: '2024-10-28T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e9eafba5b9a04a7cba4092b8f4082e62~mv2.jpg
+imageAlt: 'Baltimore Bridge Collision: Ship Owners Reach $102 Million Settlement with DOJ'
+wixId: 67b801d6-a3d6-4749-bbf0-e416cb11dfc4
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Baltimore
+- bridge collision
+- Dali ship
+- DOJ
+- maritime accident
+- settlement agreement
+- Grace Ocean
+- port operations
 ---
-
 <p>The owners of the Dali cargo vessel, which struck the Francis Scott Key Bridge in Baltimore on March 26, 2024, causing the bridge's collapse, have reached a $102 million settlement with the U.S. Department of Justice (DOJ). Singapore-based Grace Ocean Private Limited and Synergy Marine Private Limited agreed to pay a combined $101.98 million to cover cleanup and response costs resulting from the bridge's collapse. The settlement resolves a $103 million civil compensation claim sought by the DOJ under the Rivers and Harbors Act, Oil Pollution Act, and general maritime law.</p>\n<p><br></p>\n<p>The funds paid under the settlement will be directed to the U.S. Treasury and the budgets of federal agencies directly affected by or involved in the response to the bridge collapse. In announcing the settlement, Benjamin C. Mizer, Principal Deputy Assistant Attorney General for the U.S. Department of Justice, stated: "We have reached an important milestone after nearly seven months of proceedings." The DOJ had sought $100 million in compensation in a case filed in the Maryland District Court on September 18, countering the ship owners' offer to limit liability at $43.7 million. Despite reaching the settlement, Grace Ocean and Synergy Marine deny responsibility for the incident. Darrell Wilson of MTI Network remarked: "The settlement covers only canal cleanup costs and clearly expresses our denial of responsibility for the incident."</p>\n<p><br></p>\n<p>On March 26, as the Dali departed Baltimore Harbor bound for Sri Lanka, the vessel experienced repeated power losses, ultimately striking a bridge support and causing a major portion of the bridge to collapse into the water. The incident claimed the lives of six construction workers on the bridge, and debris in the Patapsco River blocked the critical shipping channel for months, disrupting vital transportation infrastructure in the region.</p>\n<p><br></p>\n<p>Brawner Builders, a Hunt Valley, Maryland-based firm, and the families of three workers have filed separate lawsuits against Grace Ocean and Synergy Marine Group. The DOJ settlement does not include any compensation for the bridge's reconstruction. The State of Maryland, as the entity that constructed, owns, maintains, and operates the bridge, has filed a separate lawsuit against the Dali's owner and operator. In a statement, the companies said: "Grace Ocean and Synergy are well-positioned to mount a strong defense in ongoing limitation of liability proceedings in the Baltimore Federal Court." President Joe Biden has committed to federal funding for the bridge's reconstruction, with Maryland also expected to receive compensation that would be used to reimburse the federal government for those funds.</p>\n<p><br></p>\n<p><strong>Key Points:</strong></p>\n<ul>\n  <li><p>On March 26, 2024, the Dali vessel struck the Francis Scott Key Bridge, causing its collapse.</p></li>\n  <li><p>The $101.98 million paid under the settlement covers nearly the entirety of the $103 million in compensation sought by the DOJ.</p></li>\n  <li><p>Six construction workers died in the incident.</p></li>\n  <li><p>Debris in the Patapsco River blocked the critical shipping channel for months.</p></li>\n  <li><p>Grace Ocean and Synergy Marine deny responsibility for the incident.</p></li>\n  <li><p>The State of Maryland, as the bridge owner, filed a separate lawsuit against the Dali's owners.</p></li>\n  <li><p>The settlement contains no compensation for bridge reconstruction.</p></li>\n</ul>\n<p><br></p>\n<p>---</p>\n<p><br></p>\n<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/doj-settlement-dali-key-bridge/731071/"><u>https://www.supplychaindive.com/news/doj-settlement-dali-key-bridge/731071/</u></a></p>\n<p><br></p>\n<p>-------------------</p>\n<p><strong>!!! ANNOUNCEMENT !!!</strong></p>\n<p><strong>How to Implement ERP? Our book is now published on Google Play Books.</strong></p>\n<p>#What is ERP?</p>\n<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via the link above.</p>\n<p>Your feedback would make us happy.</p>\n<p>We wish you happy reading in advance.</p>

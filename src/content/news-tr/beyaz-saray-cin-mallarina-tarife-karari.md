@@ -1,14 +1,22 @@
 ---
-title: "Beyaz Saray'ın Çin Mallarına Tarife Kararı ve Olası Sonuçları"
-subtitle: "Beyaz Saray'ın Çin Mallarına Tarife Kararı ve Olası Sonuçları"
-date: "2024-05-16T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_f359a5fb23cc4af2ac0b1461743cf3ae~mv2.png"
-imageAlt: "Beyaz Saray'ın Çin Mallarına Tarife Kararı ve Olası Sonuçları"
-wixId: "3570a3c0-aa03-422e-8337-fb428b0bcdd3"
-author: "Sedat Onat"
+title: Beyaz Saray'ın Çin Mallarına Tarife Kararı ve Olası Sonuçları
+subtitle: Beyaz Saray'ın Çin Mallarına Tarife Kararı ve Olası Sonuçları
+date: '2024-05-16T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_f359a5fb23cc4af2ac0b1461743cf3ae~mv2.png
+imageAlt: Beyaz Saray'ın Çin Mallarına Tarife Kararı ve Olası Sonuçları
+wixId: 3570a3c0-aa03-422e-8337-fb428b0bcdd3
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Çin
+- tarife
+- ABD
+- tedarik zinciri
+- elektrikli araçlar
+- ticaret savaşı
+- enflasyon
 ---
 <p>Beyaz Saray'ın Çin mallarına getirdiği yeni tarifeler, Amerika'nın imalat sektörünü koruyarak rekabet avantajı sağlamayı amaçlasa da, son tüketici üzerinde fiyat artışlarına neden olarak eleştirilere maruz kaldı. ABD Gümrük ve Sınır Koruma tarafından toplanan bu tarifeler, Amerikan ithalatçıları veya brokerları tarafından genellikle daha yüksek fiyatlarla tüketiciye ve üreticilere yansıtılmakta.&nbsp;</p>
 <p><br></p>

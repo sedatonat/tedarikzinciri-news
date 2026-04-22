@@ -1,14 +1,23 @@
 ---
-title: "ABD Bankası’ndan Nakliye Sevkiyatlarında %21 Düşüş: Zorlu Taşıma Pazarı Sinyalleri"
-subtitle: "ABD Bankası’ndan Nakliye Sevkiyatlarında %21 Düşüş: Zorlu Taşıma Pazarı Sinyalleri"
-date: "2024-11-07T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_bd5cd22767864013b177d18954eb5b67~mv2.jpg"
-imageAlt: "ABD Bankası’ndan Nakliye Sevkiyatlarında %21 Düşüş: Zorlu Taşıma Pazarı Sinyalleri"
-wixId: "d78c9472-e793-402e-a7fd-d6fef98ffcd0"
-author: "Sedat Onat"
+title: 'ABD Bankası’ndan Nakliye Sevkiyatlarında %21 Düşüş: Zorlu Taşıma Pazarı Sinyalleri'
+subtitle: 'ABD Bankası’ndan Nakliye Sevkiyatlarında %21 Düşüş: Zorlu Taşıma Pazarı Sinyalleri'
+date: '2024-11-07T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_bd5cd22767864013b177d18954eb5b67~mv2.jpg
+imageAlt: 'ABD Bankası’ndan Nakliye Sevkiyatlarında %21 Düşüş: Zorlu Taşıma Pazarı Sinyalleri'
+wixId: d78c9472-e793-402e-a7fd-d6fef98ffcd0
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- U.S. Bank
+- nakliye sevkiyatları
+- taşıma pazarı
+- ABD lojistik
+- gönderici harcamaları
+- spot pazar
+- dizel yakıt fiyatları
+- DAT Freight Analytics
 ---
 <p>U.S. Bank tarafından yayınlanan üçüncü çeyrek raporuna göre, Amerika Birleşik Devletleri'nde taşıma pazarında nakliye sevkiyatları ve gönderici harcamaları yıl bazında %21 oranında azaldı. Bu düşüş, bankanın piyasanın toparlanmasının yavaş ilerleyeceğini işaret ediyor. U.S. Bank’ın Freight Business Analytics direktörü Bobby Holland, raporda, son iki çeyrekte hacim ve harcama daralmalarının azaldığını ancak piyasanın dip noktasına ulaştığına dair net bir kanıt beklediklerini belirtti.</p>
 <p><br></p>

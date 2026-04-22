@@ -1,14 +1,22 @@
 ---
-title: "Denizcilikte Dijital Dönüşüm: Elektronik Konşimentoların Yükselişi"
-subtitle: "Denizcilikte Dijital Dönüşüm: Elektronik Konşimentoların Yükselişi"
-date: "2024-05-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d483ce1934044c0cab8314453788145d~mv2.png"
-imageAlt: "Denizcilikte Dijital Dönüşüm: Elektronik Konşimentoların Yükselişi"
-wixId: "4f580eda-cdd5-44cf-9bba-7427feb75170"
-author: "Sedat Onat"
+title: 'Denizcilikte Dijital Dönüşüm: Elektronik Konşimentoların Yükselişi'
+subtitle: 'Denizcilikte Dijital Dönüşüm: Elektronik Konşimentoların Yükselişi'
+date: '2024-05-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d483ce1934044c0cab8314453788145d~mv2.png
+imageAlt: 'Denizcilikte Dijital Dönüşüm: Elektronik Konşimentoların Yükselişi'
+wixId: 4f580eda-cdd5-44cf-9bba-7427feb75170
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- elektronik konşimento
+- eBL
+- dijital dönüşüm
+- DCSA
+- denizcilik
+- siber güvenlik
+- dünya ticareti
 ---
 <p>Dom Magli'nin, PTI muhabiri olarak Digital Container Shipping Association (DCSA) hukuk danışmanı Omer Guy ile Londra'daki Commodity Trading Week Europe konferansında gerçekleştirdiği röportajda elektronik konşimento (eBL) kullanımının denizcilik sektöründe yaygınlaştırılmasının önemi vurgulanmakta.&nbsp;</p>
 <p><br></p>

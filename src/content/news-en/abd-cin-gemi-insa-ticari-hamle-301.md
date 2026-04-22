@@ -1,16 +1,23 @@
 ---
-title: "U.S. Files Trade Challenge Against China's Shipbuilding Dominance"
-subtitle: "U.S. Files Trade Challenge Against China's Shipbuilding Dominance"
-date: "2024-03-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7a6b4cf9de79432fb9933d44dca4f086~mv2.jpeg"
-imageAlt: "U.S. Files Trade Challenge Against China's Shipbuilding Dominance"
-wixId: "10b434ef-b2ce-47da-b9cf-33f805cc3a1d"
-author: "Sedat Onat"
+title: U.S. Files Trade Challenge Against China's Shipbuilding Dominance
+subtitle: U.S. Files Trade Challenge Against China's Shipbuilding Dominance
+date: '2024-03-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7a6b4cf9de79432fb9933d44dca4f086~mv2.jpeg
+imageAlt: U.S. Files Trade Challenge Against China's Shipbuilding Dominance
+wixId: 10b434ef-b2ce-47da-b9cf-33f805cc3a1d
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- shipbuilding
+- China
+- United States
+- trade policy
+- national security
+- shipyard
+- port infrastructure
 ---
-
 <p>The <a href="https://www.usw.org/"><u>United Steelworkers (USW)</u></a> union, which represents iron and steel workers in the United States, has filed a Section 301 petition with the <a href="https://ustr.gov/"><u>U.S. Trade Representative (USTR)</u></a> to examine China's anti-competitive commercial shipbuilding practices. Over the past two decades, the People's Republic of China (PRC) has implemented various non-market policies aimed at establishing dominance in global shipbuilding and excluding competition, with the goal of controlling global shipping and logistics networks. During this period, shipbuilding capacity in the United States has declined steadily.</p>
 <p><br></p>
 <p><a href="https://www.usw.org/"><u>USW</u></a> International President David McCall noted that the United States, which once hosted nearly 30 major shipyards, now has only a fraction of that capacity. Combined with the loss of more than 70,000 shipbuilding jobs, McCall highlighted the loss of secondary jobs supported by the industry. McCall pointed out that a commercial vessel may require 13,000 tons of structural steel, 60,000 gallons of paint, and numerous other products that tens of thousands of <a href="https://www.usw.org/"><u>USW</u></a> members take pride in producing.</p>

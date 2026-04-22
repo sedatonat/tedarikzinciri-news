@@ -1,14 +1,21 @@
 ---
-title: "SAP 'nin 2024 'teki AI Beklentileri"
-subtitle: "SAP 'nin 2024 'teki AI Beklentileri"
-date: "2023-12-12T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/11062b_afa9de15fe7f40f5b252b4b8082c9c1b~mv2.jpg"
-imageAlt: "SAP 2024'teki AI eklentileri"
-wixId: "a216d0c4-94a3-48b7-9572-ac271bf2c3b8"
-author: "Sedat Onat"
+title: SAP 'nin 2024 'teki AI Beklentileri
+subtitle: SAP 'nin 2024 'teki AI Beklentileri
+date: '2023-12-12T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/11062b_afa9de15fe7f40f5b252b4b8082c9c1b~mv2.jpg
+imageAlt: SAP 2024'teki AI eklentileri
+wixId: a216d0c4-94a3-48b7-9572-ac271bf2c3b8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- SAP
+- yapay zeka
+- tedarik zinciri
+- dijital asistan
+- sürdürülebilirlik
+- lojistik
 ---
 <p>2023 sonuna doğru, SAP'nin Baş Gelir Sorumlusu Darcy MacClaren, 2024'te AI'ın etkisini bekliyor.</p>
 <p><br></p>

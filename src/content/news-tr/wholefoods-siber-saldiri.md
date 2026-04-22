@@ -1,14 +1,22 @@
 ---
-title: "Siber Saldırı Tedarikçiyi Vurdu, Whole Foods Rafları Boş Kaldı"
-subtitle: "Siber Saldırı Tedarikçiyi Vurdu, Whole Foods Rafları Boş Kaldı"
-date: "2025-06-14T00:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_4cef3eec4341451eadcfe3ba722a698d~mv2.png"
-imageAlt: "Siber Saldırı Tedarikçiyi Vurdu, Whole Foods Rafları Boş Kaldı"
-wixId: "b9747517-2488-4508-87d4-3c27d7337d7c"
-author: "Sedat Onat"
+title: Siber Saldırı Tedarikçiyi Vurdu, Whole Foods Rafları Boş Kaldı
+subtitle: Siber Saldırı Tedarikçiyi Vurdu, Whole Foods Rafları Boş Kaldı
+date: '2025-06-14T00:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_4cef3eec4341451eadcfe3ba722a698d~mv2.png
+imageAlt: Siber Saldırı Tedarikçiyi Vurdu, Whole Foods Rafları Boş Kaldı
+wixId: b9747517-2488-4508-87d4-3c27d7337d7c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- siber saldırı
+- Whole Foods
+- tedarikçi risk yönetimi
+- tedarik kesintisi
+- siber güvenlik
+- perakende
+- alternatif tedarikçi
 ---
 <p style="text-align: justify"><strong>Whole Foods</strong>’un tedarikçilerinden birinde yaşanan <strong>siber saldırı</strong>, zincir mağazaların bazı lokasyonlarında <strong>tedarik kesintisine</strong> ve <strong>boş rafların oluşmasına</strong> neden oldu. Olay, modern perakende ağlarında <strong>supplier risk management (tedarikçi risk yönetimi)</strong> ve <strong>third-party cybersecurity (üçüncü taraf siber güvenlik)</strong> kontrollerinin stratejik önemini bir kez daha gündeme taşıdı.</p>
 <p style="text-align: justify"><br></p>

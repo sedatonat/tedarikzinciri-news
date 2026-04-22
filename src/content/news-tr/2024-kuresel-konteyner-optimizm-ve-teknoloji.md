@@ -1,14 +1,22 @@
 ---
-title: "2024 Yılında Küresel Konteyner Taşımacılığında Optimizm ve Teknolojiye Yatırım Artıyor"
-subtitle: "2024 Yılında Küresel Konteyner Taşımacılığında Optimizm ve Teknolojiye Yatırım Artıyor"
-date: "2024-01-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_454603779ee64e489325aefd5066402d~mv2.jpg"
-imageAlt: "2024 Yılında Küresel Konteyner Taşımacılığında Optimizm ve Teknolojiye Yatırım Artıyor"
-wixId: "e44fe963-3fe3-4f06-bc79-a854b5b66f35"
-author: "Sedat Onat"
+title: 2024 Yılında Küresel Konteyner Taşımacılığında Optimizm ve Teknolojiye Yatırım Artıyor
+subtitle: 2024 Yılında Küresel Konteyner Taşımacılığında Optimizm ve Teknolojiye Yatırım Artıyor
+date: '2024-01-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_454603779ee64e489325aefd5066402d~mv2.jpg
+imageAlt: 2024 Yılında Küresel Konteyner Taşımacılığında Optimizm ve Teknolojiye Yatırım Artıyor
+wixId: e44fe963-3fe3-4f06-bc79-a854b5b66f35
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- konteyner taşımacılığı
+- teknoloji yatırımı
+- tedarik zinciri
+- Container xChange
+- süreç otomasyonu
+- gerçek zamanlı izleme
+- konteyner fazlalığı
 ---
 <p>2024 yılı, küresel konteyner taşımacılığı sektörü için umut vaat eden bir dönem olarak öne çıkıyor.&nbsp;</p>
 <p><br></p>

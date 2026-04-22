@@ -1,14 +1,22 @@
 ---
-title: "Konteyner Gemi Geri Dönüşümünde 1,8 Milyon TEU’luk Yığılma: Filoda Yaşlanma Krizi Derinleşiyor"
-subtitle: "Konteyner Gemi Geri Dönüşümünde 1,8 Milyon TEU’luk Yığılma: Filoda Yaşlanma Krizi Derinleşiyor"
-date: "2025-10-24T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_ab91763227ff4ca3b30b13362f95e704~mv2.jpg"
-imageAlt: "Konteyner Gemi Geri Dönüşümünde 1,8 Milyon TEU’luk Yığılma: Filoda Yaşlanma Krizi Derinleşiyor"
-wixId: "a2959fa6-8faa-4316-82c6-af6d45f4137f"
-author: "Sedat Onat"
+title: 'Konteyner Gemi Geri Dönüşümünde 1,8 Milyon TEU’luk Yığılma: Filoda Yaşlanma Krizi Derinleşiyor'
+subtitle: 'Konteyner Gemi Geri Dönüşümünde 1,8 Milyon TEU’luk Yığılma: Filoda Yaşlanma Krizi Derinleşiyor'
+date: '2025-10-24T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_ab91763227ff4ca3b30b13362f95e704~mv2.jpg
+imageAlt: 'Konteyner Gemi Geri Dönüşümünde 1,8 Milyon TEU’luk Yığılma: Filoda Yaşlanma Krizi Derinleşiyor'
+wixId: a2959fa6-8faa-4316-82c6-af6d45f4137f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- konteyner gemisi
+- geri dönüşüm
+- filo yönetimi
+- BIMCO
+- navlun oranları
+- emisyon düzenlemeleri
+- denizcilik
 ---
 <p style="text-align: justify"><strong>Küresel konteyner filosu</strong>, son yılların en ciddi <strong>geri dönüşüm (recycling) tıkanıklığıyla</strong> karşı karşıya.<br>
  <strong>BIMCO</strong> tarafından yapılan son analize göre, <strong>en az 500 gemi ve toplam 1,8 milyon TEU’luk kapasite</strong>, geri dönüşüm yaşını çoktan aşmasına rağmen hâlâ aktif ticari faaliyet göstermekte.</p>

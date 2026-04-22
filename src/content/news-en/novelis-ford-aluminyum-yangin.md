@@ -1,16 +1,23 @@
 ---
-title: "Fire Erupts Again at Novelis Plant Supplying Ford"
-subtitle: "Fire Erupts Again at Novelis Plant Supplying Ford"
-date: "2025-11-21T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_cef3adede9274c3e8642f34d9123ec08~mv2.jpg"
-imageAlt: "Detailed summary explaining how a second fire at Novelis facility in New York—which produces aluminum for models like the Ford F-150—caused evacuation, potential production impact, and Ford's financial risk assessment."
-wixId: "cb59f8f8-fdfc-4f26-a466-4dc95456c84f"
-author: "Sedat Onat"
+title: Fire Erupts Again at Novelis Plant Supplying Ford
+subtitle: Fire Erupts Again at Novelis Plant Supplying Ford
+date: '2025-11-21T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_cef3adede9274c3e8642f34d9123ec08~mv2.jpg
+imageAlt: Detailed summary explaining how a second fire at Novelis facility in New York—which produces aluminum for models like the Ford F-150—caused evacuation, potential production impact, and Ford's financial risk assessment.
+wixId: cb59f8f8-fdfc-4f26-a466-4dc95456c84f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Ford
+- Novelis
+- supply chain
+- fire
+- aluminum
+- production disruption
+- F-150
 ---
-
 <p style="text-align: justify"><strong>Novelis Inc.</strong>, one of Ford Motor Company's most critical suppliers in the United States, faced renewed production disruption risk when fire broke out again at its aluminum facility in New York. The fire that occurred on November 20 was quickly brought under control, with the company confirming that all employees were safely evacuated. Firefighting crews responded with intense efforts, marking the facility's <strong>second major fire within months</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">The facility produces aluminum sheet for a range of pickup trucks and commercial vehicles, including Ford's highest-volume model, the <strong>F-150</strong>. Consequently, any disruption at the plant directly impacts not only Novelis but also Ford's production and profitability plans. The first major fire in September led to factory closure, with warnings that Ford's annual adjusted profit could <strong>decline by as much as 2 billion dollars</strong>.</p>

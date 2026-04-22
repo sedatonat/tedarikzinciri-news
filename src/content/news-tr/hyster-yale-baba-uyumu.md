@@ -1,14 +1,22 @@
 ---
-title: "Hyster-Yale, Ekipmanları İçin BABA Gereksinimlerine Uymayı Taahhüt Ediyor"
-subtitle: "Hyster-Yale, Ekipmanları İçin BABA Gereksinimlerine Uymayı Taahhüt Ediyor"
-date: "2024-12-28T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_3bc119c991804f6f8b413081f2bab7f4~mv2.jpg"
-imageAlt: "Hyster-Yale, Ekipmanları İçin BABA Gereksinimlerine Uymayı Taahhüt Ediyor"
-wixId: "f457554d-f030-4529-98a8-8f68aca3a09f"
-author: "Sedat Onat"
+title: Hyster-Yale, Ekipmanları İçin BABA Gereksinimlerine Uymayı Taahhüt Ediyor
+subtitle: Hyster-Yale, Ekipmanları İçin BABA Gereksinimlerine Uymayı Taahhüt Ediyor
+date: '2024-12-28T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_3bc119c991804f6f8b413081f2bab7f4~mv2.jpg
+imageAlt: Hyster-Yale, Ekipmanları İçin BABA Gereksinimlerine Uymayı Taahhüt Ediyor
+wixId: f457554d-f030-4529-98a8-8f68aca3a09f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Hyster-Yale
+- forklift
+- BABA
+- yerli üretim
+- elektrikli ekipman
+- konteyner taşıma
+- liman ekipmanı
 ---
 <p><strong>Hyster-Yale Materials Handling, Inc.</strong>, <strong>Hyster</strong> ve <strong>Yale</strong> markalı forkliftler ve konteyner taşıma ekipmanlarının üreticisi olarak, <strong>Build America, Buy America (BABA) Act</strong> kapsamında yerli üretim gereksinimlerini karşılamayı planladığını duyurdu.</p>
 <p><br></p>

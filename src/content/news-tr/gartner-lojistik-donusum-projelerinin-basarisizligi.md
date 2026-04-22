@@ -1,14 +1,22 @@
 ---
-title: "Gartner: Lojistik dönüşüm projelerinin %76'sı asla tam olarak başarılı olmuyor"
-subtitle: "Gartner: Lojistik dönüşüm projelerinin %76'sı asla tam olarak başarılı olmuyor"
-date: "2024-08-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_6a478487291245b69317404245e944c6~mv2.png"
-imageAlt: "Gartner: Lojistik dönüşüm projelerinin %76'sı asla tam olarak başarılı olmuyor"
-wixId: "5a166f5f-662e-4233-8e31-1a191284e35f"
-author: "Sedat Onat"
+title: 'Gartner: Lojistik dönüşüm projelerinin %76''sı asla tam olarak başarılı olmuyor'
+subtitle: 'Gartner: Lojistik dönüşüm projelerinin %76''sı asla tam olarak başarılı olmuyor'
+date: '2024-08-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_6a478487291245b69317404245e944c6~mv2.png
+imageAlt: 'Gartner: Lojistik dönüşüm projelerinin %76''sı asla tam olarak başarılı olmuyor'
+wixId: 5a166f5f-662e-4233-8e31-1a191284e35f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Gartner
+- lojistik dönüşüm
+- proje yönetimi
+- değişim yönetimi
+- iç direniş
+- KPI
+- liderlik
 ---
 <p>Lojistik sektöründe dönüşüm projeleri sıkça başlatılsa da, Gartner'ın yaptığı araştırmaya göre bu projelerin %76'sı tam anlamıyla başarılı olamıyor. Genellikle bütçe, zaman çizelgesi veya anahtar performans göstergesi (KPI) hedeflerine ulaşmakta başarısız olunuyor. Bunun en önemli nedeni, iç direnişin bu projeleri dış baskılardan daha fazla engellemesi. Gartner'a göre, liderler bu direnişi bir sorun olarak değil, bir kaynak olarak görmeli ve projelere entegre etmelidir.</p>
 <p><br></p>

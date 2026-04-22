@@ -1,14 +1,23 @@
 ---
-title: "Amazon Satıcıları, Kapasite Kısıtlamalarıyla Başa Çıkıyor"
-subtitle: "Amazon Satıcıları, Kapasite Kısıtlamalarıyla Başa Çıkıyor"
-date: "2024-11-07T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_c5932e14e4614039aa1afabad43105e2~mv2.jpg"
-imageAlt: "Amazon Satıcıları, Kapasite Kısıtlamalarıyla Başa Çıkıyor"
-wixId: "acdae03d-1032-467f-a51d-4a11087742ff"
-author: "Sedat Onat"
+title: Amazon Satıcıları, Kapasite Kısıtlamalarıyla Başa Çıkıyor
+subtitle: Amazon Satıcıları, Kapasite Kısıtlamalarıyla Başa Çıkıyor
+date: '2024-11-07T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_c5932e14e4614039aa1afabad43105e2~mv2.jpg
+imageAlt: Amazon Satıcıları, Kapasite Kısıtlamalarıyla Başa Çıkıyor
+wixId: acdae03d-1032-467f-a51d-4a11087742ff
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Amazon
+- e-ticaret
+- depolama
+- FBA
+- AWD
+- kapasite yönetimi
+- tatil sezonu
+- 3PL
 ---
 <p>Yaklaşan tatil alışveriş yoğunluğu öncesinde, e-ticaret işletmeleri, Batı Kıyısı’ndaki depolarda oluşabilecek darboğazları önlemek için daha yüksek ücretler ödemeye hazır. Amazon satıcıları, tatil sezonu öncesinde e-ticaret devinin lojistik ağındaki kapasite kısıtlamalarına karşı alternatif nakliye ve depolama planlarını değerlendiriyor.</p>
 <p>Amazon’un gelen sipariş işleme süreçlerinde yaptığı yenilikler sırasında yaşanan kapasite sorunları, Batı Kıyısı'ndaki bazı tesislerde satıcı envanterlerinin işlenme sürelerinin uzamasına neden oldu. Şirket, bu durumu düzeltmek için malları diğer bölgelere yönlendirdi ve Doğu ABD lokasyonlarına giden ürünler için ücretleri düşürdü. Amazon'un bir sözcüsü, “Bu gecikmeleri hafifletmek için aktif olarak çalışıyoruz ve önümüzdeki birkaç hafta içinde normal işleme sürelerine dönmeyi bekliyoruz” şeklinde açıklamada bulundu.</p>

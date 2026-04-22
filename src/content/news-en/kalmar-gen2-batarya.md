@@ -1,16 +1,24 @@
 ---
-title: "Kalmar Introduces Gen 2 Battery for Electric Straddle Carriers"
-subtitle: "Kalmar Introduces Gen 2 Battery for Electric Straddle Carriers"
-date: "2025-12-15T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_684a7b6a288b452786638db4475115c7~mv2.jpg"
-imageAlt: "A detailed industry overview of the Gen 2 lithium-ion battery solution developed by Kalmar, highlighting innovations it brings to electric straddle carrier operations in terms of energy capacity, operating duration, charging flexibility, and sustainability"
-wixId: "4eb3f73b-4493-435d-a33c-8bcad9e62624"
-author: "Sedat Onat"
+title: Kalmar Introduces Gen 2 Battery for Electric Straddle Carriers
+subtitle: Kalmar Introduces Gen 2 Battery for Electric Straddle Carriers
+date: '2025-12-15T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_684a7b6a288b452786638db4475115c7~mv2.jpg
+imageAlt: A detailed industry overview of the Gen 2 lithium-ion battery solution developed by Kalmar, highlighting innovations it brings to electric straddle carrier operations in terms of energy capacity, operating duration, charging flexibility, and sustainability
+wixId: 4eb3f73b-4493-435d-a33c-8bcad9e62624
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Kalmar
+- electric straddle carrier
+- Gen 2 battery
+- lithium-ion
+- port equipment
+- megawatt charging
+- electrification
+- decarbonization
 ---
-
 <p style="text-align: justify"><strong>Kalmar</strong>, a global player in port and terminal equipment, has rolled out its new-generation <strong>Gen 2 lithium-ion (Li-ion) battery</strong> system for electric <strong>straddle carrier</strong> solutions on a global scale. The new battery solution stands out for its increased energy capacity, improved <strong>thermal stability</strong>, and extended operating periods. With this move, Kalmar aims to accelerate its customers' transition toward safer, more efficient, and more sustainable <strong>cargo-handling</strong> operations.</p>
 <p><br></p>
 <p style="text-align: justify">The <strong>Gen 2 battery solution</strong> was developed specifically to meet the rising expectations of terminal and port operators seeking to transition to fully electric equipment. The <strong>advanced cell chemistry</strong> used in the battery offers a longer service life compared to earlier-generation battery technologies. This advancement directly benefits equipment owners by positively impacting <strong>total cost of ownership (TCO)</strong>, reducing battery replacement frequency and lowering long-term operational costs.</p>

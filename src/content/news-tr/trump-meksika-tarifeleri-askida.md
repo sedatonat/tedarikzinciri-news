@@ -1,14 +1,22 @@
 ---
-title: "Trump, Meksika Tarifelerini 2 Nisan'a Kadar Askıya Aldı"
-subtitle: "Trump, Meksika Tarifelerini 2 Nisan'a Kadar Askıya Aldı"
-date: "2025-03-06T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_92212f3ed01a45d196c0ba6471f03dd4~mv2.png"
-imageAlt: "Trump, Meksika Tarifelerini 2 Nisan'a Kadar Askıya Aldı"
-wixId: "75c6c939-4ae9-4f5b-959f-3dd577534083"
-author: "Sedat Onat"
+title: Trump, Meksika Tarifelerini 2 Nisan'a Kadar Askıya Aldı
+subtitle: Trump, Meksika Tarifelerini 2 Nisan'a Kadar Askıya Aldı
+date: '2025-03-06T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_92212f3ed01a45d196c0ba6471f03dd4~mv2.png
+imageAlt: Trump, Meksika Tarifelerini 2 Nisan'a Kadar Askıya Aldı
+wixId: 75c6c939-4ae9-4f5b-959f-3dd577534083
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Trump
+- Meksika
+- gümrük vergisi
+- USMCA
+- tarife
+- ticaret savaşı
+- Kanada
 ---
 <p style="text-align: justify">ABD Başkanı <strong>Donald Trump</strong>, 6 Mart 2025 tarihinde, <strong>Meksika</strong>'dan ithal edilen ve <strong>ABD-Meksika-Kanada Anlaşması</strong> (<strong>USMCA</strong>) kapsamında olan ürünlere uygulanan %25'lik gümrük vergilerini 2 Nisan'a kadar askıya aldığını duyurdu. Bu karar, Trump'ın Meksika Devlet Başkanı <strong>Claudia Sheinbaum</strong> ile yaptığı telefon görüşmesinin ardından alındı.&nbsp;</p>
 <p><br></p>

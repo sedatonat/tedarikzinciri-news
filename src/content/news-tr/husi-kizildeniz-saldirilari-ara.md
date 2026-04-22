@@ -1,13 +1,22 @@
 ---
-title: "Husi Saldırılarına Ara Verilmesi Gerginliği Azalttı, Ancak Kızıldeniz’de Risk Sürmekte"
-subtitle: "Husi Saldırılarına Ara Verilmesi Gerginliği Azalttı, Ancak Kızıldeniz’de Risk Sürmekte"
-date: "2025-11-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7579308f142f4acbaa7e974836f42d58~mv2.jpg"
-wixId: "34713456-aa57-4ec6-99b5-08162f4d513e"
-author: "Sedat Onat"
+title: Husi Saldırılarına Ara Verilmesi Gerginliği Azalttı, Ancak Kızıldeniz’de Risk Sürmekte
+subtitle: Husi Saldırılarına Ara Verilmesi Gerginliği Azalttı, Ancak Kızıldeniz’de Risk Sürmekte
+date: '2025-11-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7579308f142f4acbaa7e974836f42d58~mv2.jpg
+wixId: 34713456-aa57-4ec6-99b5-08162f4d513e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kızıldeniz
+- Husi saldırıları
+- Süveyş Kanalı
+- konteyner taşımacılığı
+- CMA CGM
+- deniz sigortası
+- liman konjesyonu
+- Ümit Burnu
 ---
 <p style="text-align: justify">Kızıldeniz ve Süveyş Kanalı hattında aylardır süren saldırı tehdidi, Yemen’deki <strong>Husi güçlerinin ticari gemilere ve İsrail bağlantılı hedeflere yönelik saldırılarına ara vereceklerini</strong> duyurmasıyla kısmen yatışmış durumda. Bu gelişme, Asya–Avrupa konteyner ticaretinin en kritik rotalarından birinin yeniden açılabileceğine dair umut vermekte.</p>
 <p style="text-align: justify"><br></p>

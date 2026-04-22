@@ -1,14 +1,23 @@
 ---
-title: "Çin'in PVH Corp'a Yönelik Soruşturması: Sincan Pamuğu Boykotu ve Olası Sonuçları​"
-subtitle: "Çin'in PVH Corp'a Yönelik Soruşturması: Sincan Pamuğu Boykotu ve Olası Sonuçları​"
-date: "2025-01-24T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_95d327c11ba845b2abb04923b5a74da2~mv2.jpg"
-imageAlt: "Çin'in PVH Corp'a Yönelik Soruşturması: Sincan Pamuğu Boykotu ve Olası Sonuçları​"
-wixId: "d1ca62b5-9cb4-4975-9b4f-32804e683179"
-author: "Sedat Onat"
+title: 'Çin''in PVH Corp''a Yönelik Soruşturması: Sincan Pamuğu Boykotu ve Olası Sonuçları​'
+subtitle: 'Çin''in PVH Corp''a Yönelik Soruşturması: Sincan Pamuğu Boykotu ve Olası Sonuçları​'
+date: '2025-01-24T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_95d327c11ba845b2abb04923b5a74da2~mv2.jpg
+imageAlt: 'Çin''in PVH Corp''a Yönelik Soruşturması: Sincan Pamuğu Boykotu ve Olası Sonuçları​'
+wixId: d1ca62b5-9cb4-4975-9b4f-32804e683179
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- PVH Corp
+- Sincan pamuğu
+- Çin
+- tedarik zinciri
+- boykot
+- ticari yaptırım
+- Calvin Klein
+- Tommy Hilfiger
 ---
 <p style="text-align: justify">Çin Ticaret Bakanlığı, Eylül 2024'te başlattığı soruşturmanın ardından, <strong>Calvin Klein</strong> ve <strong>Tommy Hilfiger</strong> gibi markaların sahibi olan <strong>PVH Corp.</strong>'u "güvenilmez kuruluşlar" listesine ekledi. Bu karar, şirketin Sincan Uygur Özerk Bölgesi'nden pamuk tedarik etmeyi reddetmesi nedeniyle alındı. ​</p>
 <p style="text-align: justify"><br></p>

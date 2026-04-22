@@ -1,14 +1,23 @@
 ---
-title: "ABD, Çin’in 2020 Ticaret Anlaşmasına Uyumunu Soruşturma Kapsamına Aldı"
-subtitle: "ABD, Çin’in 2020 Ticaret Anlaşmasına Uyumunu Soruşturma Kapsamına Aldı"
-date: "2025-10-24T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_dc4e83f045934c6c97043876474490f1~mv2.jpg"
-imageAlt: "ABD, Çin’in 2020 Ticaret Anlaşmasına Uyumunu Soruşturma Kapsamına Aldı"
-wixId: "b18e192a-73f0-4a07-a770-a655168b9428"
-author: "Sedat Onat"
+title: ABD, Çin’in 2020 Ticaret Anlaşmasına Uyumunu Soruşturma Kapsamına Aldı
+subtitle: ABD, Çin’in 2020 Ticaret Anlaşmasına Uyumunu Soruşturma Kapsamına Aldı
+date: '2025-10-24T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_dc4e83f045934c6c97043876474490f1~mv2.jpg
+imageAlt: ABD, Çin’in 2020 Ticaret Anlaşmasına Uyumunu Soruşturma Kapsamına Aldı
+wixId: b18e192a-73f0-4a07-a770-a655168b9428
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD
+- Çin
+- ticaret anlaşması
+- Section 301
+- gümrük tarifeleri
+- USTR
+- tedarik zinciri
+- ticaret savaşı
 ---
 <p style="text-align: justify"><strong>ABD Ticaret Temsilciliği (USTR)</strong>, Çin’in <strong>2020’de imzalanan “Birinci Aşama Ticaret Anlaşması (Phase One Agreement)”</strong> kapsamındaki yükümlülüklerini yerine getirip getirmediğini incelemek üzere <strong>“Section 301” kapsamlı yeni bir soruşturma</strong> başlattı.</p>
 <p><br>

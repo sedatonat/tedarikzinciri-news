@@ -1,16 +1,22 @@
 ---
-title: "YM Witness Container Ship Departs Evyap Port After Accident"
-subtitle: "YM Witness Container Ship Departs Evyap Port After Accident"
-date: "2024-03-31T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_c688d376fa7f4dfab7404bbaa61a750b~mv2.jpg"
-imageAlt: "YM Witness Container Ship Departs Evyap Port After Accident"
-wixId: "eec127de-f61b-45ad-b588-fa29afb420fb"
-author: "Sedat Onat"
+title: YM Witness Container Ship Departs Evyap Port After Accident
+subtitle: YM Witness Container Ship Departs Evyap Port After Accident
+date: '2024-03-31T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_c688d376fa7f4dfab7404bbaa61a750b~mv2.jpg
+imageAlt: YM Witness Container Ship Departs Evyap Port After Accident
+wixId: eec127de-f61b-45ad-b588-fa29afb420fb
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- container ship
+- YM Witness
+- Evyap Port
+- port accident
+- crane damage
+- berthing maneuver
 ---
-
 <p><a href="https://www.marinetraffic.com/en/ais/details/ports/17802?name=EVYAP&amp;country=Turkey"><u>Evyap Port</u></a>, which experienced a major accident on March 16, sustained significant damage when the 368-metre container ship <a href="https://www.vesselfinder.com/vessels/details/9704609"><u>YM Witness</u></a> struck the port's cranes during docking manoeuvres, toppling three tower cranes and leaving the facility severely damaged. The fallen crane boom trapped the vessel, limiting its manoeuvrability and forcing it to be held in place with the aid of tugboats offshore from the quay. However, following the incident, the crane boom was lifted today, finally allowing the ship to depart the quay and proceed to anchorage.</p>
 <p><br></p>
 <h5>Key Points</h5>

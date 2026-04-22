@@ -1,16 +1,23 @@
 ---
-title: "FedEx Expects $175 Million Impact from MD-11 Fleet Grounding"
-subtitle: "FedEx Expects $175 Million Impact from MD-11 Fleet Grounding"
-date: "2025-12-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1efcd57d13cc4b30936a9ac6a066c840~mv2.jpg"
-imageAlt: "FedEx anticipates a $175 million negative impact on adjusted operating profit over the fiscal year due to the grounding of its MD-11 cargo aircraft, and is turning to outsourced air cargo capacity during peak season."
-sourceUrl: "https://www.supplychaindive.com/news/fedex-md-11-airplane-grounding-peak-season-impact/808372/"
-author: "Sedat Onat"
+title: FedEx Expects $175 Million Impact from MD-11 Fleet Grounding
+subtitle: FedEx Expects $175 Million Impact from MD-11 Fleet Grounding
+date: '2025-12-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1efcd57d13cc4b30936a9ac6a066c840~mv2.jpg
+imageAlt: FedEx anticipates a $175 million negative impact on adjusted operating profit over the fiscal year due to the grounding of its MD-11 cargo aircraft, and is turning to outsourced air cargo capacity during peak season.
+sourceUrl: https://www.supplychaindive.com/news/fedex-md-11-airplane-grounding-peak-season-impact/808372/
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- FedEx
+- MD-11
+- air cargo
+- Boeing
+- FAA
+- fleet management
+- operational cost
 ---
-
 <p style="text-align: justify"><strong>FedEx</strong>, a major player in global air cargo operations, is facing significant pressure on financial performance due to the grounding of its <strong>MD-11</strong> cargo aircraft. <strong>EVP and CFO John Dietrich</strong> stated during the company's second quarter earnings call that the grounding is expected to create a <strong>$175 million</strong> negative impact on <strong>adjusted operating profit</strong> throughout the fiscal year.</p>
 <p><br></p>
 <p style="text-align: justify">According to the company's disclosures, FedEx has already absorbed <strong>$25 million</strong> of this impact in November. The remaining amount is expected to materialize primarily in the <strong>third quarter</strong> of the fiscal year. December emerges as the period when cost pressures will be felt most acutely. The primary reason is increased reliance on <strong>third-party air cargo capacity</strong> to meet peak season demand.</p>

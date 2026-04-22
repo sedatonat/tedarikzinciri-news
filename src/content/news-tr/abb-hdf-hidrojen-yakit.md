@@ -1,14 +1,23 @@
 ---
-title: "ABB Ve HDF Energy Denizcilik İçin Yüksek Güçlü Yakıt Hücresi Geliştiriyor"
-subtitle: "ABB Ve HDF Energy Denizcilik İçin Yüksek Güçlü Yakıt Hücresi Geliştiriyor"
-date: "2025-12-15T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_727337c8f7024c00a992ca85d45c44a1~mv2.jpg"
-imageAlt: "ABB ve HDF Energy, büyük deniz aşırı gemiler için megavat ölçekli hidrojen yakıt hücresi geliştirmek üzere anlaşma imzaladı; proje, denizcilikte karbonsuzlaşma ve hibrit güç sistemlerinde esnekliği artırmayı hedefliyor."
-wixId: "0999baba-f213-4f37-a7cf-c0c99f9b23b0"
-author: "Sedat Onat"
+title: ABB Ve HDF Energy Denizcilik İçin Yüksek Güçlü Yakıt Hücresi Geliştiriyor
+subtitle: ABB Ve HDF Energy Denizcilik İçin Yüksek Güçlü Yakıt Hücresi Geliştiriyor
+date: '2025-12-15T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_727337c8f7024c00a992ca85d45c44a1~mv2.jpg
+imageAlt: ABB ve HDF Energy, büyük deniz aşırı gemiler için megavat ölçekli hidrojen yakıt hücresi geliştirmek üzere anlaşma imzaladı; proje, denizcilikte karbonsuzlaşma ve hibrit güç sistemlerinde esnekliği artırmayı hedefliyor.
+wixId: 0999baba-f213-4f37-a7cf-c0c99f9b23b0
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABB
+- HDF Energy
+- yakıt hücresi
+- denizcilik
+- hidrojen
+- karbonsuzlaşma
+- yeşil hidrojen
+- megavat
 ---
 <p style="text-align: justify">Denizcilik sektöründe karbonsuzlaşma hedefleri doğrultusunda yakıt hücreleri giderek daha stratejik bir rol üstlenmekte. Bu kapsamda <strong>ABB</strong> ile <strong>HDF Energy</strong>, denizcilik uygulamalarına yönelik <strong>yüksek güçlü yakıt hücresi ünitesi</strong> geliştirmek amacıyla bir <strong>Joint Development Agreement (JDA)</strong> imzaladı. Anlaşma, büyük ölçekli gemilerde <strong>megavat seviyesinde</strong> hidrojen yakıt hücrelerinin kullanılmasının önünü açmayı hedeflemekte.</p>
 <p><br></p>

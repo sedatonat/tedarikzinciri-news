@@ -1,14 +1,22 @@
 ---
-title: "Gerçek Zamanlı Konum ve Durum Takibi, Dayanıklı Tedarik Zincirlerini Destekliyor"
-subtitle: "Gerçek Zamanlı Konum ve Durum Takibi, Dayanıklı Tedarik Zincirlerini Destekliyor"
-date: "2025-01-13T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_afc7f9a464624447a15516b6b313dee5~mv2.jpg"
-imageAlt: "Gerçek Zamanlı Konum ve Durum Takibi, Dayanıklı Tedarik Zincirlerini Destekliyor"
-wixId: "5eaf9fc1-3303-4a82-aadd-b346a26f729b"
-author: "Sedat Onat"
+title: Gerçek Zamanlı Konum ve Durum Takibi, Dayanıklı Tedarik Zincirlerini Destekliyor
+subtitle: Gerçek Zamanlı Konum ve Durum Takibi, Dayanıklı Tedarik Zincirlerini Destekliyor
+date: '2025-01-13T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_afc7f9a464624447a15516b6b313dee5~mv2.jpg
+imageAlt: Gerçek Zamanlı Konum ve Durum Takibi, Dayanıklı Tedarik Zincirlerini Destekliyor
+wixId: 5eaf9fc1-3303-4a82-aadd-b346a26f729b
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- gerçek zamanlı takip
+- IoT
+- tedarik zinciri dayanıklılığı
+- GPS sensör
+- envanter yönetimi
+- soğuk zincir
+- uyumluluk
 ---
 <p style="text-align: justify">Küresel ölçekte işletmeler, tedarik zinciri kesintileri nedeniyle her yıl yaklaşık <strong>$1.6 trilyon</strong> gelir kaybı yaşamakta. Bu kesintiler, müşteri memnuniyetinden operasyonel sürekliliğe, hatta kamu sağlığına kadar geniş bir etki yelpazesine sahiptir. Örneğin, bozulmuş gıdaların marketlere ulaşması veya hayati öneme sahip ilaç sevkiyatlarındaki gecikmeler, ciddi sonuçlar doğurabilir.</p>
 <p style="text-align: justify"><br></p>

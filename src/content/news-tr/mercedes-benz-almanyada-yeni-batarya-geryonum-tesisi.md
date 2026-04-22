@@ -1,14 +1,23 @@
 ---
-title: "Mercedes-Benz Almanya'da Yeni Batarya Geri Dönüşüm Tesisi Kuruyor"
-subtitle: "Mercedes-Benz Almanya'da Yeni Batarya Geri Dönüşüm Tesisi Kuruyor"
-date: "2024-10-31T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_e5eb5c4b07d646cb85365000247135a0~mv2.jpg"
-imageAlt: "Mercedes-Benz Almanya'da Yeni Batarya Geri Dönüşüm Tesisi Kuruyor"
-wixId: "391af944-1a15-4ebb-ba90-092553a0e7bf"
-author: "Sedat Onat"
+title: Mercedes-Benz Almanya'da Yeni Batarya Geri Dönüşüm Tesisi Kuruyor
+subtitle: Mercedes-Benz Almanya'da Yeni Batarya Geri Dönüşüm Tesisi Kuruyor
+date: '2024-10-31T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_e5eb5c4b07d646cb85365000247135a0~mv2.jpg
+imageAlt: Mercedes-Benz Almanya'da Yeni Batarya Geri Dönüşüm Tesisi Kuruyor
+wixId: 391af944-1a15-4ebb-ba90-092553a0e7bf
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Mercedes-Benz
+- batarya geri dönüşüm
+- sürdürülebilirlik
+- Almanya
+- elektrikli araç
+- döngüsel ekonomi
+- Avrupa Birliği
+- Primobius
 ---
 <p>Mercedes-Benz, sürdürülebilirlik hedefleri doğrultusunda Almanya'nın Kuppenheim şehrinde yeni bir batarya geri dönüşüm tesisi açtı. Otomotiv devi, 21 Ekim 2024 tarihinde yaptığı basın açıklamasında, tesisin yılda 2,500 ton batarya işleme kapasitesine sahip olduğunu ve bu kapasitenin 50,000'den fazla yeni batarya modülü üretimine olanak tanıyacağını duyurdu. Mercedes-Benz, kendi bünyesinde batarya geri dönüşüm döngüsünü kapatan ilk orijinal ekipman üreticisi (OEM) olma özelliğini taşıyor.</p>
 <p><br></p>

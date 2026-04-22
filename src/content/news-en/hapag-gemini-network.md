@@ -1,16 +1,23 @@
 ---
-title: "Hapag-Lloyd Fine-Tunes Gemini Network for Efficiency: \"Refinement, Not Revolution\""
-subtitle: "Hapag-Lloyd Fine-Tunes Gemini Network for Efficiency: \"Refinement, Not Revolution\""
-date: "2025-11-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0d2a16e18e4a4954ad2e4be695ca59f6~mv2.jpg"
-imageAlt: "Hapag-Lloyd CEO Rolf Habben Jansen said adjustments will be made to add and remove certain ports in the Gemini Cooperation network operated with Maersk, noting that the review involves \"small efficiency-focused optimizations\" and that the company has no plans to return to the Red Sea/Suez route."
-wixId: "ee31636f-6394-470f-931b-b4b56c28dac8"
-author: "Sedat Onat"
+title: 'Hapag-Lloyd Fine-Tunes Gemini Network for Efficiency: "Refinement, Not Revolution"'
+subtitle: 'Hapag-Lloyd Fine-Tunes Gemini Network for Efficiency: "Refinement, Not Revolution"'
+date: '2025-11-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0d2a16e18e4a4954ad2e4be695ca59f6~mv2.jpg
+imageAlt: Hapag-Lloyd CEO Rolf Habben Jansen said adjustments will be made to add and remove certain ports in the Gemini Cooperation network operated with Maersk, noting that the review involves "small efficiency-focused optimizations" and that the company has no plans to return to the Red Sea/Suez route.
+wixId: ee31636f-6394-470f-931b-b4b56c28dac8
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Hapag-Lloyd
+- Maersk
+- Gemini Cooperation
+- hub-and-spoke
+- Red Sea
+- Suez Canal
+- container shipping
 ---
-
 <p style="text-align: justify">Hapag-Lloyd is conducting a comprehensive review of the <strong>Gemini Cooperation</strong> network developed jointly with Maersk to improve operational performance. CEO <strong>Rolf Habben Jansen</strong> said during the third-quarter results presentation that the purpose of the review is to analyze "what is working well and where improvements are needed."</p>
 <p><br></p>
 <p style="text-align: justify">Gemini Cooperation is among the projects reshaping the two carriers' networks using a <strong>hub-and-spoke</strong> model and set for major transformation in 2025. The model aims to deploy large, high-frequency vessels on main trunk routes while connecting feeder ports to smaller feeder operations.</p>

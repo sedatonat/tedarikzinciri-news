@@ -1,14 +1,23 @@
 ---
-title: "2024 Tedarik Zinciri Tehditleri: Aşırı Hava Olaylarından Siber Suçlara"
-subtitle: "2024 Tedarik Zinciri Tehditleri: Aşırı Hava Olaylarından Siber Suçlara"
-date: "2024-01-04T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_defb14b60e824a028351322cdbbebf67~mv2.png"
-imageAlt: "2024 Tedarik Zinciri Tehditleri: Aşırı Hava Olaylarından Siber Suçlara"
-wixId: "1bb7c556-9021-474c-ad6a-605d500c2e83"
-author: "Sedat Onat"
+title: '2024 Tedarik Zinciri Tehditleri: Aşırı Hava Olaylarından Siber Suçlara'
+subtitle: '2024 Tedarik Zinciri Tehditleri: Aşırı Hava Olaylarından Siber Suçlara'
+date: '2024-01-04T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_defb14b60e824a028351322cdbbebf67~mv2.png
+imageAlt: '2024 Tedarik Zinciri Tehditleri: Aşırı Hava Olaylarından Siber Suçlara'
+wixId: 1bb7c556-9021-474c-ad6a-605d500c2e83
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- aşırı hava olayları
+- tedarik zinciri riskleri
+- siber suçlar
+- ABD-Çin ticaret savaşı
+- jeopolitik istikrarsızlık
+- Tayvan Boğazı
+- emtia kıtlığı
+- çevre düzenlemeleri
 ---
 <p>2024 yılı için Everstream Analytics tarafından yapılan tedarik zinciri risk analiz raporuna göre, aşırı hava olayları, tedarik zincirlerindeki en büyük lojistik kesintiye sebep olacak. "Aşırılıklar Çağı" olarak adlandırılan bu dönemde, milyar dolarlık olayların her üç haftada bir meydana gelmesi bekleniyor. Bu durum, kasırgalar, kış fırtınaları, orman yangınları ve sel gibi olayların 2024 yılında da tedarik zincirlerini olumsuz etkileyeceğini gösteriyor.</p>
 <p><br></p>

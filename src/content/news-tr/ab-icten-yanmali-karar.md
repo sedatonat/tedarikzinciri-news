@@ -1,14 +1,22 @@
 ---
-title: "Avrupa Birliği, 2035 İçten Yanmalı Motor Yasağında Geri Adım Attı"
-subtitle: "Avrupa Birliği, 2035 İçten Yanmalı Motor Yasağında Geri Adım Attı"
-date: "2025-12-16T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_b276eff5f5034aefb13188ce6eb2d7e1~mv2.jpg"
-imageAlt: "Avrupa Birliği'nin 2035’e kadar yeni benzinli ve dizel araç satışını yasaklama kararından vazgeçerek otomobil üreticilerine %90 egzoz emisyonu azaltımı yükümlülüğü getirmesini ve bu kararın otomotiv sektörü ile iklim politikalarına etkilerini ele alan detaylı sektör özeti"
-wixId: "1aa73de3-a614-4fdd-a633-c0569e0efff5"
-author: "Sedat Onat"
+title: Avrupa Birliği, 2035 İçten Yanmalı Motor Yasağında Geri Adım Attı
+subtitle: Avrupa Birliği, 2035 İçten Yanmalı Motor Yasağında Geri Adım Attı
+date: '2025-12-16T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_b276eff5f5034aefb13188ce6eb2d7e1~mv2.jpg
+imageAlt: Avrupa Birliği'nin 2035’e kadar yeni benzinli ve dizel araç satışını yasaklama kararından vazgeçerek otomobil üreticilerine %90 egzoz emisyonu azaltımı yükümlülüğü getirmesini ve bu kararın otomotiv sektörü ile iklim politikalarına etkilerini ele alan detaylı sektör özeti
+wixId: 1aa73de3-a614-4fdd-a633-c0569e0efff5
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Avrupa Birliği
+- içten yanmalı motor
+- otomotiv sektörü
+- emisyon hedefleri
+- elektrikli araç
+- iklim politikası
+- tedarik zinciri
 ---
 <p style="text-align: justify"><strong>Avrupa Birliği</strong>, iklim politikaları ile sanayi gerçekleri arasındaki dengeyi yeniden kurma arayışı kapsamında, 2035 yılına kadar yeni benzinli ve dizel araç satışını tamamen yasaklamayı öngören düzenlemeyi geri çekti. <strong>AB Parlamentosu</strong> tarafından alınan bu karar, otomotiv sektöründe son yıllarda yaşanan ekonomik baskılar, tedarik zinciri kırılganlıkları ve <strong>elektrikli araçlar (EV)</strong> pazarındaki beklenenden yavaş dönüşüm dikkate alınarak şekillendi. Karar, özellikle Avrupa merkezli üreticilerin rekabet gücünü korumayı hedefleyen daha esnek bir çerçeve sunmakta.</p>
 <p><br></p>

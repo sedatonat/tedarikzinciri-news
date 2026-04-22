@@ -1,16 +1,23 @@
 ---
-title: "Toyota's Traigo_i Forklift Wins the German Design Award 2026"
-subtitle: "Toyota's Traigo_i Forklift Wins the German Design Award 2026"
-date: "2025-02-06T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_95a079e56823447f83098965edaf740e~mv2.jpg"
-imageAlt: "Toyota's new Traigo_i electric forklift model with integrated lithium-ion technology has won the 2026 German Design Award, securing the second major international design accolade following its 2025 Red Dot success."
-wixId: "4985f042-456c-43ac-824d-70a2dc0f77d6"
-author: "Sedat Onat"
+title: Toyota's Traigo_i Forklift Wins the German Design Award 2026
+subtitle: Toyota's Traigo_i Forklift Wins the German Design Award 2026
+date: '2025-02-06T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_95a079e56823447f83098965edaf740e~mv2.jpg
+imageAlt: Toyota's new Traigo_i electric forklift model with integrated lithium-ion technology has won the 2026 German Design Award, securing the second major international design accolade following its 2025 Red Dot success.
+wixId: 4985f042-456c-43ac-824d-70a2dc0f77d6
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Toyota
+- forklift
+- lithium-ion
+- German Design Award
+- Red Dot
+- ergonomics
+- Traigo_i
 ---
-
 <p style="text-align: justify">Toyota Material Handling Europe has achieved another significant milestone on the international stage with its new generation electric counterbalanced forklift model <strong>Toyota Traigo_i</strong>, built on lithium-ion technology. The company announced that the model has won the <strong>German Design Award 2026 – Excellent Product Design / Industry</strong> category. This award marks the second major global design accolade for Traigo_i following its <strong>Red Dot Design Award</strong> in 2025, positioning the product among the most innovative solutions in industrial design.</p>
 <p><br></p>
 <p style="text-align: justify">Traigo_i is the flagship model of Toyota's new <strong>Traigo48</strong> electric forklift series. The design language draws inspiration from iconic elements of Japanese culture, specifically <strong>the characteristic lines of the katana sword</strong>. The dynamic body contours, flowing cabin design, and modern lines not only present an aesthetic statement but are also ergonomically optimized to enhance operator comfort.</p>

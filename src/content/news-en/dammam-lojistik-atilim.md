@@ -1,16 +1,24 @@
 ---
-title: "SGP Launches Dammam Logistics Zone and Terminal 2 Expansion"
-subtitle: "SGP Launches Dammam Logistics Zone and Terminal 2 Expansion"
-date: "2025-11-25T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_34ee825863134600b2b39016927315ae~mv2.jpg"
-imageAlt: "Saudi Global Ports' groundbreaking ceremony for Dammam Integrated Logistics Zone and Terminal 2 capacity enhancement, marking the creation of a new integrated logistics ecosystem at KAP Dammam"
-wixId: "d758fbba-c44b-4a0e-8fb0-bbcc11eeddb6"
-author: "Sedat Onat"
+title: SGP Launches Dammam Logistics Zone and Terminal 2 Expansion
+subtitle: SGP Launches Dammam Logistics Zone and Terminal 2 Expansion
+date: '2025-11-25T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_34ee825863134600b2b39016927315ae~mv2.jpg
+imageAlt: Saudi Global Ports' groundbreaking ceremony for Dammam Integrated Logistics Zone and Terminal 2 capacity enhancement, marking the creation of a new integrated logistics ecosystem at KAP Dammam
+wixId: d758fbba-c44b-4a0e-8fb0-bbcc11eeddb6
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- SGP
+- Dammam
+- logistics zone
+- terminal expansion
+- Saudi Arabia
+- container terminal
+- PSA International
+- Saudi Vision 2030
 ---
-
 <p style="text-align: justify"><strong>Saudi Global Ports (SGP)</strong> has launched a significant logistics transformation across Saudi Arabia's eastern corridor by announcing two critical projects at <strong>King Abdulaziz Port Dammam</strong> on the same day. The company held an official inauguration ceremony for <strong>Terminal 2 Berth Expansion</strong> while simultaneously laying the foundation for the <strong>Dammam Integrated Logistics Zone</strong>, positioning itself as one of the country's new strategic centers. Both projects aim to transform Dammam into a higher-capacity, multi-functional, and integrated logistics platform for both national and international trade.</p>
 <p><br></p>
 <p style="text-align: justify">The new <strong>Dammam Integrated Logistics Zone</strong> is located in a 1 million square-meter area adjacent to the port and will be managed by <strong>SGP Freezones</strong>. The project carries an investment volume of approximately <strong>1.3 billion SAR</strong> and is designed according to a multi-modular usage plan aimed at expanding logistics infrastructure in the region. The logistics zone will feature dedicated areas for <strong>modular warehousing</strong>, <strong>cold chain</strong>, <strong>vehicle storage</strong>, <strong>re-export hubs</strong>, <strong>light manufacturing zones</strong>, <strong>petrochemical storage</strong>, <strong>e-commerce warehousing</strong>, and <strong>container handling</strong>. This approach creates a multi-functional supply chain infrastructure supporting the broad industrial ecosystem in Saudi Arabia's Eastern Region, known for its proximity to the energy sector.</p>

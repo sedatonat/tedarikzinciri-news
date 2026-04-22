@@ -1,14 +1,22 @@
 ---
-title: "Maersk ve Cochin Shipyard Hindistan'da Gemi Onarımını Genişletiyor"
-subtitle: "Maersk ve Cochin Shipyard Hindistan'da Gemi Onarımını Genişletiyor"
-date: "2025-02-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7d27e6ca0c1044d290658acf1e6c9eb6~mv2.jpg"
-imageAlt: "Maersk ve Cochin Shipyard Hindistan'da Gemi Onarımını Genişletiyor"
-wixId: "f599b97c-4214-4540-8fb8-6a3773a12e86"
-author: "Sedat Onat"
+title: Maersk ve Cochin Shipyard Hindistan'da Gemi Onarımını Genişletiyor
+subtitle: Maersk ve Cochin Shipyard Hindistan'da Gemi Onarımını Genişletiyor
+date: '2025-02-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7d27e6ca0c1044d290658acf1e6c9eb6~mv2.jpg
+imageAlt: Maersk ve Cochin Shipyard Hindistan'da Gemi Onarımını Genişletiyor
+wixId: f599b97c-4214-4540-8fb8-6a3773a12e86
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Maersk
+- Cochin Shipyard
+- gemi onarımı
+- Hindistan
+- Asya-Pasifik
+- denizcilik
+- tersane
 ---
 <p style="text-align: justify"><strong>Maersk</strong>, Hindistan'ın önde gelen tersanesi <strong>Cochin Shipyard Limited</strong> (CSL) ile gemi onarım hizmetlerini genişletmek amacıyla stratejik bir ortaklık kurdu. Bu iş birliği, <strong>Maersk</strong>'in Asya-Pasifik bölgesindeki operasyonel verimliliğini artırmayı ve bölgedeki denizcilik hizmetlerini geliştirmeyi hedeflemekte.</p>
 <p><br></p>

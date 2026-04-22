@@ -1,16 +1,24 @@
 ---
-title: "Global Software Outage: Microsoft and CrowdStrike System Failure Rattles the World"
-subtitle: "Global Software Outage: Microsoft and CrowdStrike System Failure Rattles the World"
-date: "2024-07-19T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_d50fc4f9997040a393020249fd3e467e~mv2.jpg"
-imageAlt: "Global Software Outage: Microsoft and CrowdStrike System Failure Rattles the World"
-wixId: "0ddfa87a-8a75-4ca2-b058-a1de74f14345"
-author: "Sedat Onat"
+title: 'Global Software Outage: Microsoft and CrowdStrike System Failure Rattles the World'
+subtitle: 'Global Software Outage: Microsoft and CrowdStrike System Failure Rattles the World'
+date: '2024-07-19T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_d50fc4f9997040a393020249fd3e467e~mv2.jpg
+imageAlt: 'Global Software Outage: Microsoft and CrowdStrike System Failure Rattles the World'
+wixId: 0ddfa87a-8a75-4ca2-b058-a1de74f14345
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Microsoft
+- CrowdStrike
+- software outage
+- cybersecurity
+- aviation
+- Turkish Airlines
+- system failure
+- Azure
 ---
-
 <p>On July 19, 2024, a widespread software outage occurred globally. A malfunction in the systems of US technology giant Microsoft triggered disruptions across multiple sectors, halting operations. The aviation, banking, and media sectors were among the most severely affected. Sky News, a leading news channel in the United Kingdom, was unable to broadcast live and apologized to viewers. Airports, banks, and media organizations in countries including Australia, Turkey, and Germany were negatively impacted by the system outage.</p>
 <p><br></p>
 <p>The BTK stated that the outage was not caused by a cyberattack, but rather resulted from issues affecting institutions and organizations using CrowdStrike products. Troy Hunt, Microsoft's regional director, noted that the problem was related to CrowdStrike rather than Microsoft. Additionally, the Cyber Incident Response Center confirmed that the outage was not the result of a cyberattack.</p>

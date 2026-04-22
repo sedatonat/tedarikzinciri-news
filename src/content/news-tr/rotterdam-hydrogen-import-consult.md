@@ -1,14 +1,22 @@
 ---
-title: "Rotterdam Limanı, Hidrojen İthalat Terminallerini Hızlandırmak İçin Piyasa Danışma Süreci Başlattı"
-subtitle: "Rotterdam Limanı, Hidrojen İthalat Terminallerini Hızlandırmak İçin Piyasa Danışma Süreci Başlattı"
-date: "2025-11-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_7920f8a457d640cfa5b04018242f1617~mv2.png"
-imageAlt: "Rotterdam Limanı, hidrojen ve taşıyıcıları (amonyak, metanol, LOHC) için ithalat terminallerinin gelişimini hızlandırmak amacıyla piyasa danışma süreci başlattı; hedef, finansal ve operasyonel darboğazları belirleyerek enerji geçişindeki “chicken-and-egg” sorununu aşmak."
-wixId: "114ae4dd-7457-45d9-b043-6828d3148c2d"
-author: "Sedat Onat"
+title: Rotterdam Limanı, Hidrojen İthalat Terminallerini Hızlandırmak İçin Piyasa Danışma Süreci Başlattı
+subtitle: Rotterdam Limanı, Hidrojen İthalat Terminallerini Hızlandırmak İçin Piyasa Danışma Süreci Başlattı
+date: '2025-11-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_7920f8a457d640cfa5b04018242f1617~mv2.png
+imageAlt: Rotterdam Limanı, hidrojen ve taşıyıcıları (amonyak, metanol, LOHC) için ithalat terminallerinin gelişimini hızlandırmak amacıyla piyasa danışma süreci başlattı; hedef, finansal ve operasyonel darboğazları belirleyerek enerji geçişindeki “chicken-and-egg” sorununu aşmak.
+wixId: 114ae4dd-7457-45d9-b043-6828d3148c2d
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Rotterdam Limanı
+- hidrojen
+- amonyak
+- enerji geçişi
+- terminal
+- piyasa danışması
+- Avrupa
 ---
 <p style="text-align: justify">Avrupa’nın en büyük limanı olan <strong>Port of Rotterdam</strong>, hidrojen ve hidrojen taşıyıcılarının (amonyak, metanol, LOHC – Liquid Organic Hydrogen Carriers) ithalatını hızlandırmak amacıyla kapsamlı bir <strong>piyasa danışma süreci (market consultation)</strong> başlattığını duyurdu. Bu girişim, limanın enerji geçişinde merkezi üstlenmek istediğini ve hidrojen altyapısındaki gecikmeleri çözmek için aktif rol almaya hazır olduğunu gösteriyor.</p>
 <p><br></p>

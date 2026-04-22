@@ -1,16 +1,24 @@
 ---
-title: "Maersk and CMA CGM Return to Suez at Full Capacity in December: New Partnership Agreement Accelerates Timeline"
-subtitle: "Maersk and CMA CGM Return to Suez at Full Capacity in December: New Partnership Agreement Accelerates Timeline"
-date: "2025-11-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_68248f4aecb44ec5a8dc230c659f5519~mv2.jpg"
-imageAlt: "Following the strategic partnership agreement signed between the Suez Canal Authority and Maersk, Maersk and CMA CGM vessels are expected to return to full capacity Suez Canal transits in December."
-wixId: "7933f781-38f4-4f19-9670-e836b2b8ef0a"
-author: "Sedat Onat"
+title: 'Maersk and CMA CGM Return to Suez at Full Capacity in December: New Partnership Agreement Accelerates Timeline'
+subtitle: 'Maersk and CMA CGM Return to Suez at Full Capacity in December: New Partnership Agreement Accelerates Timeline'
+date: '2025-11-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_68248f4aecb44ec5a8dc230c659f5519~mv2.jpg
+imageAlt: Following the strategic partnership agreement signed between the Suez Canal Authority and Maersk, Maersk and CMA CGM vessels are expected to return to full capacity Suez Canal transits in December.
+wixId: 7933f781-38f4-4f19-9670-e836b2b8ef0a
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Maersk
+- CMA CGM
+- Suez Canal
+- Red Sea
+- maritime shipping
+- freight
+- container ship
+- supply chain
 ---
-
 <p style="text-align: justify">The new strategic partnership agreement signed between the <strong>Suez Canal Authority (SCA)</strong> and <strong>A.P. Moller–Maersk Group</strong> marks a critical turning point for global maritime trade. The agreement will enable <strong>Maersk-affiliated vessels</strong> to return to the Suez Canal on a phased basis beginning in early December, reaching <strong>full capacity</strong> throughout December. Concurrently, <strong>CMA CGM</strong> is preparing to redirect all its services back to the Bab el-Mandeb–Suez route starting in December. Consequently, following nearly two years of route diversions, escalating fuel costs, and capacity losses, acceleration of normalization on the primary artery of East–West trade is expected.</p>
 <p><br></p>
 <p style="text-align: justify">The agreement was signed following consultations between <strong>Adm. Ossama Rabiee</strong> and <strong>Maersk CEO Vincent Clerc</strong> held at the New Marina building in Ismailia. In a statement, the SCA characterized the return not merely as a security and stability signal, but also as a "return of the global supply chain to its sustainable route." Rabiee described Maersk's return to Suez as a "reversion to optimal route selection in logistics."</p>

@@ -1,14 +1,23 @@
 ---
-title: "Maersk, 20 Çift Yakıtlı Yeni İnşa Konteyner Gemisi Siparişini Tamamladı"
-subtitle: "Maersk, 20 Çift Yakıtlı Yeni İnşa Konteyner Gemisi Siparişini Tamamladı"
-date: "2024-12-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_4cc5233856a44907b1c288a03b4ec300~mv2.jpg"
-imageAlt: "Maersk, 20 Çift Yakıtlı Yeni İnşa Konteyner Gemisi Siparişini Tamamladı"
-wixId: "b9b5200e-49de-47a0-a5a1-a6355fe28d28"
-author: "Sedat Onat"
+title: Maersk, 20 Çift Yakıtlı Yeni İnşa Konteyner Gemisi Siparişini Tamamladı
+subtitle: Maersk, 20 Çift Yakıtlı Yeni İnşa Konteyner Gemisi Siparişini Tamamladı
+date: '2024-12-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_4cc5233856a44907b1c288a03b4ec300~mv2.jpg
+imageAlt: Maersk, 20 Çift Yakıtlı Yeni İnşa Konteyner Gemisi Siparişini Tamamladı
+wixId: b9b5200e-49de-47a0-a5a1-a6355fe28d28
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Maersk
+- çift yakıtlı gemi
+- konteyner gemisi
+- sürdürülebilirlik
+- filo yenileme
+- deniz taşımacılığı
+- LNG
+- düşük emisyon
 ---
 <p>Danimarka merkezli deniz taşımacılığı devi Maersk, çevre dostu stratejisini güçlendirmek amacıyla 20 adet çift yakıtlı konteyner gemisi siparişi verdi. Şirket, toplam 300.000 TEU (Twenty-foot Equivalent Unit) kapasitesine sahip bu gemilerin inşası için Çin'deki Yangzijiang Shipbuilding, Güney Kore'deki Hanwha Ocean ve Çin'deki New Times Shipbuilding ile anlaşmalar imzaladı.</p>
 <p><br></p>

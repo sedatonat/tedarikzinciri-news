@@ -1,14 +1,22 @@
 ---
-title: "ABD’nin Rosneft ve Lukoil’e Yaptırımlarının Ardından Petrol Fiyatları %5 Arttı"
-subtitle: "ABD’nin Rosneft ve Lukoil’e Yaptırımlarının Ardından Petrol Fiyatları %5 Arttı"
-date: "2025-10-23T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d67635ac7ac14ed8bf1bcd5bb050944e~mv2.jpg"
-imageAlt: "ABD’nin Rosneft ve Lukoil’e Yaptırımlarının Ardından Petrol Fiyatları %5 Arttı"
-wixId: "c32fbf1c-f4b0-4598-8692-87ea24454a02"
-author: "Sedat Onat"
+title: ABD’nin Rosneft ve Lukoil’e Yaptırımlarının Ardından Petrol Fiyatları %5 Arttı
+subtitle: ABD’nin Rosneft ve Lukoil’e Yaptırımlarının Ardından Petrol Fiyatları %5 Arttı
+date: '2025-10-23T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_d67635ac7ac14ed8bf1bcd5bb050944e~mv2.jpg
+imageAlt: ABD’nin Rosneft ve Lukoil’e Yaptırımlarının Ardından Petrol Fiyatları %5 Arttı
+wixId: c32fbf1c-f4b0-4598-8692-87ea24454a02
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- petrol fiyatları
+- Rosneft
+- Lukoil
+- ABD yaptırımları
+- küresel enerji
+- Rusya
+- arz daralması
 ---
 <p><strong>NEW YORK – Reuters (Scott DiSavino)</strong><br>
 <strong>ABD’nin Rus enerji devleri Rosneft ve Lukoil’e yeni yaptırımlar uygulaması</strong>, küresel petrol piyasalarında sert bir dalgalanmaya yol açtı.</p>

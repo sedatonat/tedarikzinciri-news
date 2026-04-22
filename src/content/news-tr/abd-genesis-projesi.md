@@ -1,14 +1,23 @@
 ---
-title: "ABD “Genesis Mission” ile Yapay Zekâ Destekli Bilimsel Atılım Programını Başlattı"
-subtitle: "ABD “Genesis Mission” ile Yapay Zekâ Destekli Bilimsel Atılım Programını Başlattı"
-date: "2025-11-24T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_f2e8f9355f1c48b49f8b88117384f2f9~mv2.jpg"
-imageAlt: "ABD’nin 2025 tarihli Genesis Mission Executive Order ile AI destekli bilimsel araştırmaları hızlandırmak için DOE liderliğinde dev bir ulusal platform kurmasını, veri entegrasyonu, HPC altyapısı ve bilimsel meydan okumaları hedefleyen kapsamlı ulusal programın detaylı özeti"
-wixId: "6c06345f-8dc2-4082-aa61-988b7326bb60"
-author: "Sedat Onat"
+title: ABD “Genesis Mission” ile Yapay Zekâ Destekli Bilimsel Atılım Programını Başlattı
+subtitle: ABD “Genesis Mission” ile Yapay Zekâ Destekli Bilimsel Atılım Programını Başlattı
+date: '2025-11-24T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_f2e8f9355f1c48b49f8b88117384f2f9~mv2.jpg
+imageAlt: ABD’nin 2025 tarihli Genesis Mission Executive Order ile AI destekli bilimsel araştırmaları hızlandırmak için DOE liderliğinde dev bir ulusal platform kurmasını, veri entegrasyonu, HPC altyapısı ve bilimsel meydan okumaları hedefleyen kapsamlı ulusal programın detaylı özeti
+wixId: 6c06345f-8dc2-4082-aa61-988b7326bb60
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- yapay zeka
+- Genesis Mission
+- ABD
+- bilimsel araştırma
+- AI foundation model
+- DOE
+- ulusal güvenlik
+- HPC
 ---
 <p style="text-align: justify">ABD Başkanı tarafından 24 Kasım 2025’te yayımlanan <strong>Genesis Mission Executive Order</strong>, ülkenin bilimsel ve teknolojik kapasitesini yapay zekâ ile dönüştürmeyi amaçlayan en kapsamlı federal girişimlerden biri olarak değerlendiriliyor. Kararname, ABD’nin yapay zekâ yarışında küresel liderliği hedeflediğini ve bu yarışın artık yalnızca ekonomik rekabet değil, ulusal güvenlik ve stratejik üstünlük meselesi hâline geldiğini vurgulamakta.</p>
 <p><br></p>

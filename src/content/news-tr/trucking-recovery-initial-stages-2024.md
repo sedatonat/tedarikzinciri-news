@@ -1,14 +1,22 @@
 ---
-title: "Kamyon Taşımacılığı Sektöründe Toparlanma Sürecinde"
-subtitle: "Kamyon Taşımacılığı Sektöründe Toparlanma Sürecinde"
-date: "2024-07-18T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_afe820633b64439e914af36cdb900507~mv2.png"
-imageAlt: "Kamyon Taşımacılığı Sektöründe Toparlanma Sürecinde"
-wixId: "9f6c02b3-2b84-4d48-8b90-1e8dd6a797ac"
-author: "Sedat Onat"
+title: Kamyon Taşımacılığı Sektöründe Toparlanma Sürecinde
+subtitle: Kamyon Taşımacılığı Sektöründe Toparlanma Sürecinde
+date: '2024-07-18T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_afe820633b64439e914af36cdb900507~mv2.png
+imageAlt: Kamyon Taşımacılığı Sektöründe Toparlanma Sürecinde
+wixId: 9f6c02b3-2b84-4d48-8b90-1e8dd6a797ac
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- kamyon taşımacılığı
+- ABD
+- FTR
+- dizel fiyatları
+- kapasite fazlası
+- yük taşıma oranları
+- spot taşıma
 ---
 <p>Son birkaç yıl boyunca zorlu ekonomik koşullar altında kalan ABD kamyon taşımacılığı sektörü, toparlanma sürecinin ilk aşamalarına girmiş durumda. Mayıs 2024’te, FTR'nin Kamyon Taşımacılığı Koşulları Endeksi (TCI), 2.24 seviyesine yükselerek olumlu bir ivme kazandı. Bu yükselişin başlıca nedenleri arasında düşen dizel fiyatları ve nispeten istikrarlı yük taşıma oranları bulunuyor. Ancak, sektörün tam anlamıyla toparlanması için birkaç ay daha geçmesi gerekebilir.</p>
 <p><br></p>

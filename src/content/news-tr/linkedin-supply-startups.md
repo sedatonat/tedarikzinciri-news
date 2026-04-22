@@ -1,14 +1,23 @@
 ---
-title: "LinkedIn’in 2025 Listesinde Öne Çıkan 5 Tedarik Zinciri Girişimi"
-subtitle: "LinkedIn’in 2025 Listesinde Öne Çıkan 5 Tedarik Zinciri Girişimi"
-date: "2025-10-17T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/11062b_57c2da3a807f47e88454df6356003ab5~mv2.jpg"
-imageAlt: "LinkedIn’in 2025 Listesinde Öne Çıkan 5 Tedarik Zinciri Girişimi"
-wixId: "9b425dbd-c262-4c5d-b096-2eb027b8eb6e"
-author: "Sedat Onat"
+title: LinkedIn’in 2025 Listesinde Öne Çıkan 5 Tedarik Zinciri Girişimi
+subtitle: LinkedIn’in 2025 Listesinde Öne Çıkan 5 Tedarik Zinciri Girişimi
+date: '2025-10-17T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/11062b_57c2da3a807f47e88454df6356003ab5~mv2.jpg
+imageAlt: LinkedIn’in 2025 Listesinde Öne Çıkan 5 Tedarik Zinciri Girişimi
+wixId: 9b425dbd-c262-4c5d-b096-2eb027b8eb6e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- LinkedIn Top Startups
+- tedarik zinciri girişimleri
+- satın alma orkestrasyonu
+- yazılım güvenliği
+- üretim optimizasyonu
+- talep planlama
+- Chainguard
+- yapay zeka
 ---
 <p style="text-align: justify"><strong>LinkedIn’in “Top Startups 2025” listesi</strong>, yalnızca yapay zekâ (AI) ve tüketici markalarına değil, aynı zamanda <strong>küresel tedarik zincirlerini dönüştüren yenilikçi girişimlere</strong> de yer vermekte. Bu yıl listeye giren <strong>50 ABD merkezli genç şirketin</strong> arasında, tedarikçi yönetiminden yazılım güvenliğine kadar uzanan farklı alanlarda <strong>operasyonel verimlilik</strong> ve <strong>esneklik</strong> sağlayan beş önemli girişim bulunmakta.</p>
 <p><br></p>

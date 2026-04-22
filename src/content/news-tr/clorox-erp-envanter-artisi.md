@@ -1,14 +1,22 @@
 ---
-title: "Clorox, ERP Geçişinin Yol Açtığı Stok Artışını Başarıyla Toparladı"
-subtitle: "Clorox, ERP Geçişinin Yol Açtığı Stok Artışını Başarıyla Toparladı"
-date: "2025-11-19T09:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_468de4cecdfc41e5961f18764f074f56~mv2.jpg"
-imageAlt: "Clorox, ABD tedarik zincirini yeni bir ERP sistemine taşırken yaşanan geçici aksaklıkları önlemek için perakendecilerdeki stok seviyesini 1,5 hafta artırmıştı. Şirket, geçiş kaynaklı stok dengesizliklerini tamamen toparladığını ve yılın geri kalanı için maddi bir risk görmediğini açıkladı."
-wixId: "cf012ac8-595a-4dc9-8cef-7643a7d38a87"
-author: "Sedat Onat"
+title: Clorox, ERP Geçişinin Yol Açtığı Stok Artışını Başarıyla Toparladı
+subtitle: Clorox, ERP Geçişinin Yol Açtığı Stok Artışını Başarıyla Toparladı
+date: '2025-11-19T09:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_468de4cecdfc41e5961f18764f074f56~mv2.jpg
+imageAlt: Clorox, ABD tedarik zincirini yeni bir ERP sistemine taşırken yaşanan geçici aksaklıkları önlemek için perakendecilerdeki stok seviyesini 1,5 hafta artırmıştı. Şirket, geçiş kaynaklı stok dengesizliklerini tamamen toparladığını ve yılın geri kalanı için maddi bir risk görmediğini açıkladı.
+wixId: cf012ac8-595a-4dc9-8cef-7643a7d38a87
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Clorox
+- ERP geçişi
+- stok yönetimi
+- tedarik zinciri
+- dijital dönüşüm
+- kurumsal kaynak planlama
+- envanter dengeleme
 ---
 <p style="text-align: justify"><strong>The Clorox Company</strong>, ABD tedarik zinciri ve iş operasyonlarını yeni bir <strong>kurumsal kaynak planlama (ERP)</strong> sistemine taşırken yaşadığı geçici dengesizlikleri giderdiğini açıkladı. CEO ve Yönetim Kurulu Başkanı <strong>Linda Rendle</strong>, 3 Kasım’daki kazanç çağrısında, sistem geçişi sırasında oluşan stok artışlarının artık kontrol altına alındığını söyledi.</p>
 <p><br></p>

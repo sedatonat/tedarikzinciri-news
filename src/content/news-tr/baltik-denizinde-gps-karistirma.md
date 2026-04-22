@@ -1,14 +1,23 @@
 ---
-title: "Baltık Denizi'nde Gemilerin GPS Sinyal Karıştırma Faaliyetleri"
-subtitle: "Baltık Denizi'nde Gemilerin GPS Sinyal Karıştırma Faaliyetleri"
-date: "2025-03-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f300d3778e7243d390de316e7901b275~mv2.jpg"
-imageAlt: "Baltık Denizi'nde Gemilerin GPS Sinyal Karıştırma Faaliyetleri"
-wixId: "a97323a6-40d6-4987-b719-0a4a286b768f"
-author: "Sedat Onat"
+title: Baltık Denizi'nde Gemilerin GPS Sinyal Karıştırma Faaliyetleri
+subtitle: Baltık Denizi'nde Gemilerin GPS Sinyal Karıştırma Faaliyetleri
+date: '2025-03-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f300d3778e7243d390de316e7901b275~mv2.jpg
+imageAlt: Baltık Denizi'nde Gemilerin GPS Sinyal Karıştırma Faaliyetleri
+wixId: a97323a6-40d6-4987-b719-0a4a286b768f
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Baltık Denizi
+- GPS karıştırma
+- denizcilik güvenliği
+- navigasyon sistemleri
+- denizaltı kablo
+- NATO
+- Avrupa Komisyonu
+- siber saldırı
 ---
 <p style="text-align: justify">Polonyalı araştırmacılar tarafından yürütülen bir çalışma, Baltık Denizi'nde seyreden gemilerin GPS sinyallerini kasıtlı olarak karıştırdığını ortaya koymakta. Bu durum, bölgedeki denizcilik operasyonlarını ve güvenliğini ciddi şekilde tehdit etmekte.</p>
 <p><br></p>

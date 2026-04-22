@@ -1,16 +1,23 @@
 ---
-title: "QatarEnergy and Mitsui Sign 20-Year Urea Supply Agreement"
-subtitle: "QatarEnergy and Mitsui Sign 20-Year Urea Supply Agreement"
-date: "2025-11-11T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/nsplsh_794554716b4c6e68735549~mv2_d_5637_3758_s_4_2.jpg"
-imageAlt: "QatarEnergy has signed a 20-year long-term supply agreement with Mitsui to deliver 0.5 million tons of urea annually beginning in 2026, supporting Qatar's growth strategy in global fertilizer exports."
-wixId: "12f88a47-c5a8-480b-9a58-fba4ac73aa89"
-author: "Sedat Onat"
+title: QatarEnergy and Mitsui Sign 20-Year Urea Supply Agreement
+subtitle: QatarEnergy and Mitsui Sign 20-Year Urea Supply Agreement
+date: '2025-11-11T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/nsplsh_794554716b4c6e68735549~mv2_d_5637_3758_s_4_2.jpg
+imageAlt: QatarEnergy has signed a 20-year long-term supply agreement with Mitsui to deliver 0.5 million tons of urea annually beginning in 2026, supporting Qatar's growth strategy in global fertilizer exports.
+wixId: 12f88a47-c5a8-480b-9a58-fba4ac73aa89
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- QatarEnergy
+- Mitsui
+- urea supply
+- fertilizer production
+- agricultural supply chain
+- Qatar
+- food security
 ---
-
 <p style="text-align: justify"><strong>QatarEnergy</strong> announced it has signed a <strong>20-year large-scale urea supply agreement</strong> with Japanese trading giant <strong>Mitsui &amp; Co., Ltd.</strong> Announced in Doha on November 10, 2025, the agreement will see QatarEnergy supply <strong>0.5 million tons annually starting January 2026</strong>. This long-term contract represents a key component of both Qatar's strategy to increase its influence in the global fertilizer market and Mitsui's objectives to secure food and agricultural supply chains.</p>
 <p><br></p>
 <p style="text-align: justify">Announcing the agreement, Qatar's State Minister for Energy Affairs and QatarEnergy CEO <strong>Saad Sherida Al-Kaabi</strong> noted that the partnership with Mitsui has been "further strengthened" through "decades-long strategic collaboration," stating:</p>

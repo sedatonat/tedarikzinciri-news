@@ -1,14 +1,22 @@
 ---
-title: "Avrupa’da Ağırlık ve Boyutlar Direktifi, Intermodal Taşımacılığı Tehlikeye Atıyor"
-subtitle: "Avrupa’da Ağırlık ve Boyutlar Direktifi, Intermodal Taşımacılığı Tehlikeye Atıyor"
-date: "2025-10-30T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_2dc52c5658e84ea9a89f98deca1ea596~mv2.jpg"
-imageAlt: "Avrupa’daki Ağırlık ve Boyutlar Direktifi (Weights and Dimensions Directive – WDD) kapsamında daha büyük kamyonların (European Modular System – EMS) devreye alınması planı, 16 Avrupa lojistik ve demiryolu birliği tarafından eleştirildi. Kuruluşlar, bunun demiryolu yatırımlarını baltalayacağını ve intermodal taşımacılığı geriye götüreceğini savundu."
-wixId: "ffa69011-c0a7-4dde-ae08-1108e31b38c1"
-author: "Sedat Onat"
+title: Avrupa’da Ağırlık ve Boyutlar Direktifi, Intermodal Taşımacılığı Tehlikeye Atıyor
+subtitle: Avrupa’da Ağırlık ve Boyutlar Direktifi, Intermodal Taşımacılığı Tehlikeye Atıyor
+date: '2025-10-30T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_2dc52c5658e84ea9a89f98deca1ea596~mv2.jpg
+imageAlt: Avrupa’daki Ağırlık ve Boyutlar Direktifi (Weights and Dimensions Directive – WDD) kapsamında daha büyük kamyonların (European Modular System – EMS) devreye alınması planı, 16 Avrupa lojistik ve demiryolu birliği tarafından eleştirildi. Kuruluşlar, bunun demiryolu yatırımlarını baltalayacağını ve intermodal taşımacılığı geriye götüreceğini savundu.
+wixId: ffa69011-c0a7-4dde-ae08-1108e31b38c1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Avrupa Birliği
+- intermodal taşımacılık
+- demiryolu taşımacılığı
+- karayolu güvenliği
+- megakamyon
+- modal kayma
+- Ağırlık ve Boyutlar Direktifi
 ---
 <p style="text-align: justify">Avrupa’daki <strong>16 sektör birliği</strong>, Avrupa Komisyonu’na ortak bir mektup göndererek, <strong>Ağırlık ve Boyutlar Direktifi (Weights and Dimensions Directive – WDD)</strong> kapsamında önerilen <strong>European Modular System (EMS)</strong> uygulamasına sert tepki gösterdi. Bu sistem, <strong>daha uzun ve ağır kamyonların (megakamyonların)</strong> Avrupa yollarında kullanılmasını öngörüyor.</p>
 <p><br></p>

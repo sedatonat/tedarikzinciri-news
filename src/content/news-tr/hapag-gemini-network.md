@@ -1,14 +1,22 @@
 ---
-title: "Hapag-Lloyd, Gemini Ağını Verimlilik İçin İnceliyor: “Devrim Değil, İnce Ayar”"
-subtitle: "Hapag-Lloyd, Gemini Ağını Verimlilik İçin İnceliyor: “Devrim Değil, İnce Ayar”"
-date: "2025-11-13T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0d2a16e18e4a4954ad2e4be695ca59f6~mv2.jpg"
-imageAlt: "Hapag-Lloyd CEO’su Rolf Habben Jansen, Maersk ile yürütülen Gemini Cooperation ağında bazı liman ekleme/çıkarma ayarlamaları yapılacağını, incelemenin “verimlilik odaklı küçük optimizasyonlar” içerdiğini ve şirketin Kızıldeniz/Süveyş’e dönme planı olmadığını açıkladı."
-wixId: "ee31636f-6394-470f-931b-b4b56c28dac8"
-author: "Sedat Onat"
+title: 'Hapag-Lloyd, Gemini Ağını Verimlilik İçin İnceliyor: “Devrim Değil, İnce Ayar”'
+subtitle: 'Hapag-Lloyd, Gemini Ağını Verimlilik İçin İnceliyor: “Devrim Değil, İnce Ayar”'
+date: '2025-11-13T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0d2a16e18e4a4954ad2e4be695ca59f6~mv2.jpg
+imageAlt: Hapag-Lloyd CEO’su Rolf Habben Jansen, Maersk ile yürütülen Gemini Cooperation ağında bazı liman ekleme/çıkarma ayarlamaları yapılacağını, incelemenin “verimlilik odaklı küçük optimizasyonlar” içerdiğini ve şirketin Kızıldeniz/Süveyş’e dönme planı olmadığını açıkladı.
+wixId: ee31636f-6394-470f-931b-b4b56c28dac8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Hapag-Lloyd
+- Maersk
+- Gemini Cooperation
+- hub-and-spoke
+- Kızıldeniz
+- Süveyş Kanalı
+- konteyner taşımacılığı
 ---
 <p style="text-align: justify">Hapag-Lloyd, Maersk ile birlikte geliştirdiği <strong>Gemini Cooperation</strong> ağında operasyonel performansı artırmak için kapsamlı bir değerlendirme yürütüyor. CEO <strong>Rolf Habben Jansen</strong>, üçüncü çeyrek sonuç sunumunda yapılan incelemenin temel amacının, “neyin iyi çalıştığını ve nerede iyileştirme yapılması gerektiğini” analiz etmek olduğunu söyledi.</p>
 <p><br></p>

@@ -1,16 +1,24 @@
 ---
-title: "Russian Sea Ports Handle 5.1% More Cargo in October 2025"
-subtitle: "Russian Sea Ports Handle 5.1% More Cargo in October 2025"
-date: "2025-11-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_92f310a0b7924636b86f2332bca5579c~mv2.jpg"
-imageAlt: "Cargo volumes across Russia's maritime ports increased 5.1% year-on-year in October 2025, with growth driven by strong performance in oil, coal, LNG and scrap cargo, while imports fell 13%."
-wixId: "8d878fe2-8ca6-4e05-8745-a02f63817f12"
-author: "Sedat Onat"
+title: Russian Sea Ports Handle 5.1% More Cargo in October 2025
+subtitle: Russian Sea Ports Handle 5.1% More Cargo in October 2025
+date: '2025-11-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_92f310a0b7924636b86f2332bca5579c~mv2.jpg
+imageAlt: Cargo volumes across Russia's maritime ports increased 5.1% year-on-year in October 2025, with growth driven by strong performance in oil, coal, LNG and scrap cargo, while imports fell 13%.
+wixId: 8d878fe2-8ca6-4e05-8745-a02f63817f12
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Russia
+- seaports
+- cargo handling
+- energy products
+- LNG
+- transit transportation
+- Black Sea basin
+- export
 ---
-
 <p style="text-align: justify">Cargo handling volumes across all Russian sea ports <strong>increased by 5.1% in October 2025 compared to the same month last year</strong>. According to official data, this growth was achieved thanks to strong performance in energy products, renewed momentum in transit transportation, and expansion in domestic cabotage. Conversely, imports declined noticeably.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Exports remain dominant in cargo mix</strong></h4>

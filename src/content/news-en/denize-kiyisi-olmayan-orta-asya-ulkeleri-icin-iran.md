@@ -1,16 +1,23 @@
 ---
-title: "Iran Railway Corridor Plan for Landlocked Central Asian Countries"
-subtitle: "Iran Railway Corridor Plan for Landlocked Central Asian Countries"
-date: "2025-01-14T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_abb0a107ae9d40c5aa9666bbf26fb8ff~mv2.jpg"
-imageAlt: "Iran Railway Corridor Plan for Landlocked Central Asian Countries"
-wixId: "5d819736-77f5-4f31-b54c-931c6ec6b366"
-author: "Sedat Onat"
+title: Iran Railway Corridor Plan for Landlocked Central Asian Countries
+subtitle: Iran Railway Corridor Plan for Landlocked Central Asian Countries
+date: '2025-01-14T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_abb0a107ae9d40c5aa9666bbf26fb8ff~mv2.jpg
+imageAlt: Iran Railway Corridor Plan for Landlocked Central Asian Countries
+wixId: 5d819736-77f5-4f31-b54c-931c6ec6b366
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Iran
+- Central Asia
+- rail corridor
+- Chabahar Port
+- INSTC
+- Ashgabat Agreement
+- Indian Ocean
 ---
-
 <p style="text-align: justify">Iran is working on a comprehensive railway network development plan to provide landlocked countries in Central Asia with direct access to the Indian Ocean. This plan targets the construction of 3,200 kilometers of new railway lines to create nine main corridors across the country and achieve a total railway network of approximately 17,000 kilometers.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>New Corridor Along Eastern Border</strong></p>

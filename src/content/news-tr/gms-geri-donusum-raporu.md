@@ -1,14 +1,23 @@
 ---
-title: "GMS: Gemi Geri Dönüşüm Piyasası Zayıf Çelik Fiyatları ve Kur Baskısıyla Daralıyor"
-subtitle: "GMS: Gemi Geri Dönüşüm Piyasası Zayıf Çelik Fiyatları ve Kur Baskısıyla Daralıyor"
-date: "2025-11-25T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_b106a8fd44144652a44cd84fca4a0213~mv2.jpg"
-imageAlt: "GMS Week 47 güncellemesinde küresel gemi geri dönüşüm piyasalarının zayıf çelik fiyatları, döviz oynaklığı, yaptırım baskısı ve düşük tonaj akışları nedeniyle zorlandığını anlatan kapsamlı haber özeti"
-wixId: "c4ec2976-6aab-44fb-a266-1b5e3a81ed5e"
-author: "Sedat Onat"
+title: 'GMS: Gemi Geri Dönüşüm Piyasası Zayıf Çelik Fiyatları ve Kur Baskısıyla Daralıyor'
+subtitle: 'GMS: Gemi Geri Dönüşüm Piyasası Zayıf Çelik Fiyatları ve Kur Baskısıyla Daralıyor'
+date: '2025-11-25T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_b106a8fd44144652a44cd84fca4a0213~mv2.jpg
+imageAlt: GMS Week 47 güncellemesinde küresel gemi geri dönüşüm piyasalarının zayıf çelik fiyatları, döviz oynaklığı, yaptırım baskısı ve düşük tonaj akışları nedeniyle zorlandığını anlatan kapsamlı haber özeti
+wixId: c4ec2976-6aab-44fb-a266-1b5e3a81ed5e
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- gemi geri dönüşüm
+- çelik fiyatları
+- GMS
+- Bangladesh
+- Pakistan
+- HKC
+- shadow fleet
+- döviz kuru
 ---
 <p style="text-align: justify">Küresel gemi geri dönüşüm piyasaları, <strong>GMS Weekly Podcast – Forums and Frictions (Week 47)</strong> güncellemesine göre 2025 yılının sonuna yaklaşırken oldukça zorlu bir haftayı daha geride bırakmakta. Hem makro göstergelerdeki bozulma hem de bölgesel dinamiklerdeki dengesizlikler, Güney Asya ve Türkiye’deki geri dönüşüm bölgeleri üzerinde belirgin baskı yaratmakta. Dünyanın en büyük gemi geri dönüşüm aracılık şirketlerinden biri olan <strong>GMS (Global Marketing Systems)</strong>, çelik fiyatlarının zayıflaması, döviz dalgalanmaları, yaptırım kaynaklı riskler ve sınırlı tonaj arzının piyasa üzerinde sıkıştırıcı bir etki yarattığını aktarmakta.</p>
 <p><br></p>

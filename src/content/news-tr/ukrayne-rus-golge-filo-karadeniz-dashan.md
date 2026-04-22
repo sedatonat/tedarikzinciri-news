@@ -1,14 +1,23 @@
 ---
-title: "Ukrayna, Karadeniz’de Rusya’nın “Gölge Filosu” Tankeri Dashan’ı Sea Baby Dronlarıyla Vurdu"
-subtitle: "Ukrayna, Karadeniz’de Rusya’nın “Gölge Filosu” Tankeri Dashan’ı Sea Baby Dronlarıyla Vurdu"
-date: "2025-12-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_3eda22a6a97244e29bad4ff2a66e31d0~mv2.jpg"
-imageAlt: "Ukrayna SBU’nun Sea Baby deniz dronlarıyla Comoros bayraklı Dashan tankerini Karadeniz’de vurması, gölge filosuna yönelik üçüncü saldırı, sigorta risklerindeki artış ve bölgesel gerilimin lojistik etkilerinin detaylı özeti"
-wixId: "983a2093-f668-4621-9d74-91b089154c07"
-author: "Sedat Onat"
+title: Ukrayna, Karadeniz’de Rusya’nın “Gölge Filosu” Tankeri Dashan’ı Sea Baby Dronlarıyla Vurdu
+subtitle: Ukrayna, Karadeniz’de Rusya’nın “Gölge Filosu” Tankeri Dashan’ı Sea Baby Dronlarıyla Vurdu
+date: '2025-12-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_3eda22a6a97244e29bad4ff2a66e31d0~mv2.jpg
+imageAlt: Ukrayna SBU’nun Sea Baby deniz dronlarıyla Comoros bayraklı Dashan tankerini Karadeniz’de vurması, gölge filosuna yönelik üçüncü saldırı, sigorta risklerindeki artış ve bölgesel gerilimin lojistik etkilerinin detaylı özeti
+wixId: 983a2093-f668-4621-9d74-91b089154c07
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Karadeniz
+- gölge filosu
+- Sea Baby drone
+- Ukrayna
+- petrol tankeri
+- savaş sigortası
+- Rusya yaptırımları
+- deniz güvenliği
 ---
 <p style="text-align: justify">Ukrayna güvenlik servisi <strong>SBU</strong>, Karadeniz’de Rusya’nın “<strong>shadow fleet</strong>” olarak bilinen gizli petrol tanker ağını hedef almaya yönelik operasyonlarını genişletmeye devam ediyor. 10 Aralık itibarıyla SBU, Sea Baby sınıfı <strong>insansız deniz dronları</strong> ile Comoros bayraklı <strong>Dashan</strong> isimli petrol tankerine saldırı düzenlediğini doğruladı. Böylece Ukrayna, bir hafta içinde Rusya bağlantılı üçüncü tankeri vurmuş oldu; önceki saldırılar <strong>Kairos</strong> ve <strong>Virat</strong> tankerlerini hedef almıştı.</p>
 <p><br></p>

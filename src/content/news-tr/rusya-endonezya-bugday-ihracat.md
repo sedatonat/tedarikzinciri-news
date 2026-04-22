@@ -1,14 +1,22 @@
 ---
-title: "Rusya, Endonezya’ya Buğday İhracatına Yeniden Başladı"
-subtitle: "Rusya, Endonezya’ya Buğday İhracatına Yeniden Başladı"
-date: "2025-10-23T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_fe4e71b0159a42f5b09f9ac5bea56df3~mv2.jpg"
-imageAlt: "Rusya, Endonezya’ya Buğday İhracatına Yeniden Başladı"
-wixId: "9350aba6-2e45-46c2-8a3b-31db45553129"
-author: "Sedat Onat"
+title: Rusya, Endonezya’ya Buğday İhracatına Yeniden Başladı
+subtitle: Rusya, Endonezya’ya Buğday İhracatına Yeniden Başladı
+date: '2025-10-23T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_fe4e71b0159a42f5b09f9ac5bea56df3~mv2.jpg
+imageAlt: Rusya, Endonezya’ya Buğday İhracatına Yeniden Başladı
+wixId: 9350aba6-2e45-46c2-8a3b-31db45553129
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Rusya
+- Endonezya
+- buğday ihracatı
+- tahıl ticareti
+- Novorossiysk Limanı
+- akreditasyon
+- Güneydoğu Asya
 ---
 <p style="text-align: justify"><strong>Rusya</strong>, kısa süreli ihracat askısının ardından <strong>Ekim ayında Endonezya’ya ilk buğday sevkiyatını</strong> yeniden gerçekleştirdi.</p>
 <p><br>

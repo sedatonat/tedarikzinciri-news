@@ -1,14 +1,23 @@
 ---
-title: "Orta Koridor, Türkiye’yi Avrupa–Asya Ticaretinde Stratejik Lojistik Merkez Haline Getirmekte"
-subtitle: "Orta Koridor, Türkiye’yi Avrupa–Asya Ticaretinde Stratejik Lojistik Merkez Haline Getirmekte"
-date: "2025-12-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_8700a83eea574bac8d28131623536b42~mv2.jpg"
-imageAlt: "Trans-Hazar Orta Koridor’un Rusya’yı by-pass eden jeoekonomik rolü, Türkiye’nin Railport ve Ro-Ro kapasite artışıyla güçlenen transit pozisyonu, Zengezur Koridoru ve TRIPP girişimiyle değişen bölgesel mimarinin detaylı haber özeti"
-wixId: "371f0213-0e6c-408b-a83b-6976324cf1e0"
-author: "Sedat Onat"
+title: Orta Koridor, Türkiye’yi Avrupa–Asya Ticaretinde Stratejik Lojistik Merkez Haline Getirmekte
+subtitle: Orta Koridor, Türkiye’yi Avrupa–Asya Ticaretinde Stratejik Lojistik Merkez Haline Getirmekte
+date: '2025-12-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_8700a83eea574bac8d28131623536b42~mv2.jpg
+imageAlt: Trans-Hazar Orta Koridor’un Rusya’yı by-pass eden jeoekonomik rolü, Türkiye’nin Railport ve Ro-Ro kapasite artışıyla güçlenen transit pozisyonu, Zengezur Koridoru ve TRIPP girişimiyle değişen bölgesel mimarinin detaylı haber özeti
+wixId: 371f0213-0e6c-408b-a83b-6976324cf1e0
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Orta Koridor
+- Trans-Hazar
+- BTK demiryolu
+- Railport
+- intermodal terminal
+- Zengezur Koridoru
+- Kazakistan
+- Azerbaycan
 ---
 <p style="text-align: justify">Trans-Hazar Uluslararası Taşımacılık Koridoru olarak bilinen <strong>Orta Koridor</strong>, jeopolitik kırılganlıkların arttığı ve tedarik zincirlerinin yeniden yapılandığı bir dönemde küresel ticarette daha görünür hâle gelmekte. Çin’in doğusundaki <strong>Lianyungang</strong> bölgesinden başlayıp <strong>Kazakistan</strong>, <strong>Hazar geçişi</strong>, <strong>Azerbaycan</strong> ve <strong>Gürcistan</strong> üzerinden <strong>Türkiye</strong>’ye uzanan hat, Rusya üzerinden geçen Kuzey Koridoru’na ve Süveyş üzerinden yürüyen geleneksel deniz rotalarına alternatif bir <strong>jeoekonomik bağlantı</strong> sunmakta.</p>
 <p><br></p>

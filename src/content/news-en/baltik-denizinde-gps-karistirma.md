@@ -1,16 +1,24 @@
 ---
-title: "GPS Signal Jamming Activities Involving Ships in the Baltic Sea"
-subtitle: "GPS Signal Jamming Activities Involving Ships in the Baltic Sea"
-date: "2025-03-04T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_f300d3778e7243d390de316e7901b275~mv2.jpg"
-imageAlt: "GPS Signal Jamming Activities Involving Ships in the Baltic Sea"
-wixId: "a97323a6-40d6-4987-b719-0a4a286b768f"
-author: "Sedat Onat"
+title: GPS Signal Jamming Activities Involving Ships in the Baltic Sea
+subtitle: GPS Signal Jamming Activities Involving Ships in the Baltic Sea
+date: '2025-03-04T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_f300d3778e7243d390de316e7901b275~mv2.jpg
+imageAlt: GPS Signal Jamming Activities Involving Ships in the Baltic Sea
+wixId: a97323a6-40d6-4987-b719-0a4a286b768f
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Baltic Sea
+- GPS jamming
+- maritime security
+- navigation systems
+- undersea cable
+- NATO
+- European Commission
+- cyber attack
 ---
-
 <p style="text-align: justify">A study conducted by Polish researchers reveals that vessels transiting the Baltic Sea are intentionally disrupting GPS signals. This development poses a serious threat to maritime operations and safety in the region.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Gdynia Maritime University</strong> deployed a sensor that detected a total of 84 hours of GPS signal disruptions over a six-month period beginning in June 2024. October saw 29 hours of disruption alone. Some of these outages lasted as long as seven hours, adversely affecting the navigation of vessels operating in narrow waterways.</p>

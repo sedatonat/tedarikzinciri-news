@@ -1,14 +1,22 @@
 ---
-title: "California, Forklift Emisyonlarını Sıfırlıyor"
-subtitle: "California, Forklift Emisyonlarını Sıfırlıyor"
-date: "2024-07-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0ff6814b049d4fd99898aacfb5786cbd~mv2.jpg"
-imageAlt: "California, Forklift Emisyonlarını Sıfırlıyor"
-wixId: "033e1f0c-6195-4cd0-bf27-018e4fb79c74"
-author: "Sedat Onat"
+title: California, Forklift Emisyonlarını Sıfırlıyor
+subtitle: California, Forklift Emisyonlarını Sıfırlıyor
+date: '2024-07-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0ff6814b049d4fd99898aacfb5786cbd~mv2.jpg
+imageAlt: California, Forklift Emisyonlarını Sıfırlıyor
+wixId: 033e1f0c-6195-4cd0-bf27-018e4fb79c74
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- California
+- forklift
+- sıfır emisyon
+- CARB
+- çevre düzenlemesi
+- filo yönetimi
+- elektrikli forklift
 ---
 <p><a href="https://ww2.arb.ca.gov/"><u>California Air Resources Board (CARB)</u></a>, California'da kullanılan forkliftlerin 2028 ve 2038 yılları arasında sıfır emisyonlu modellere geçiş yapmasını zorunlu kılacak yeni bir düzenleme onayladı. Bu düzenleme, belirli büyüklükteki filolarda ve çeşitli forklift sınıflarında farklı uygulama süreçleri öngörüyor. Sıfır emisyonlu forkliftlere geçişin zorunlu hale gelmesi, başlangıçta yalnızca belirlenen filo büyüklüklerinin yüzde 50'si için geçerli olacak. Ayrıca düşük kullanım, acil durum ve belirli alanlarda kullanılan forkliftler için istisnalar sağlanacak.</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "Optimism and Technology Investment Rise in Global Container Shipping in 2024"
-subtitle: "Optimism and Technology Investment Rise in Global Container Shipping in 2024"
-date: "2024-01-01T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_454603779ee64e489325aefd5066402d~mv2.jpg"
-imageAlt: "Optimism and Technology Investment Rise in Global Container Shipping in 2024"
-wixId: "e44fe963-3fe3-4f06-bc79-a854b5b66f35"
-author: "Sedat Onat"
+title: Optimism and Technology Investment Rise in Global Container Shipping in 2024
+subtitle: Optimism and Technology Investment Rise in Global Container Shipping in 2024
+date: '2024-01-01T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_454603779ee64e489325aefd5066402d~mv2.jpg
+imageAlt: Optimism and Technology Investment Rise in Global Container Shipping in 2024
+wixId: e44fe963-3fe3-4f06-bc79-a854b5b66f35
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- container shipping
+- technology investment
+- supply chain
+- Container xChange
+- process automation
+- real-time tracking
+- container surplus
 ---
-
 <p>2024 is emerging as a promising period for the global container shipping sector.</p>
 <p><br></p>
 <p>According to a survey conducted by Container xChange among more than 1,200 supply chain professionals, 74% of participants forecast that the global container shipping industry will show positive growth in 2024. In the survey, 53% of respondents expect prices to rise, while only 21% anticipate prices falling.</p>

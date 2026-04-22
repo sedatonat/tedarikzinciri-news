@@ -1,14 +1,22 @@
 ---
-title: "Vize Engeli, Türkiye'nin Dış Ticaret ve Lojistik Sektörünü Nasıl Tehdit Ediyor?"
-subtitle: "Vize Engeli, Türkiye'nin Dış Ticaret ve Lojistik Sektörünü Nasıl Tehdit Ediyor?"
-date: "2024-04-05T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b31cfafeca374acba5523e42f145d350~mv2.jpg"
-imageAlt: "Vize Engeli, Türkiye'nin Dış Ticaret ve Lojistik Sektörünü Nasıl Tehdit Ediyor?"
-wixId: "81af30f2-3edd-43ac-a260-8fec4f1ab156"
-author: "Sedat Onat"
+title: Vize Engeli, Türkiye'nin Dış Ticaret ve Lojistik Sektörünü Nasıl Tehdit Ediyor?
+subtitle: Vize Engeli, Türkiye'nin Dış Ticaret ve Lojistik Sektörünü Nasıl Tehdit Ediyor?
+date: '2024-04-05T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b31cfafeca374acba5523e42f145d350~mv2.jpg
+imageAlt: Vize Engeli, Türkiye'nin Dış Ticaret ve Lojistik Sektörünü Nasıl Tehdit Ediyor?
+wixId: 81af30f2-3edd-43ac-a260-8fec4f1ab156
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Schengen vizesi
+- dış ticaret
+- UTİKAD
+- TIR şoförleri
+- karayolu taşımacılığı
+- lojistik sektörü
+- Avrupa Birliği
 ---
 <p>Türkiye'deki dış ticaret, Schengen vizesi temininde yaşanan sorunlar sebebiyle ciddi bir tehdit altında. <a href="https://www.utikad.org.tr/"><u>UTİKAD </u></a>Başkanı Bilgehan Engin, hem TIR şoförlerinin hem de iş insanlarının vize alımında karşılaştığı zorlukların çözülmesi gerektiğini vurguluyor.&nbsp;</p>
 <p><br></p>

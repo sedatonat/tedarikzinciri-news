@@ -1,14 +1,22 @@
 ---
-title: "Long Beach Limanı, Kuzey Amerika’nın En Büyük Sıfır Emisyonlu Tır Şarj Üssünü Açtı"
-subtitle: "Long Beach Limanı, Kuzey Amerika’nın En Büyük Sıfır Emisyonlu Tır Şarj Üssünü Açtı"
-date: "2024-12-02T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_96933ca3430a4f82b152cb60568a0d25~mv2.jpg"
-imageAlt: "Long Beach Limanı’nda açılan 30 hiper hızlı şarj cihazına sahip dev tesis, 79 adet sıfır emisyonlu Class 8 tır filosuna hizmet vererek Kaliforniya’nın 2035 sıfır emisyon hedeflerini destekliyor."
-wixId: "c7a4d6a4-e406-4042-b27b-7b00d288cb4c"
-author: "Sedat Onat"
+title: Long Beach Limanı, Kuzey Amerika’nın En Büyük Sıfır Emisyonlu Tır Şarj Üssünü Açtı
+subtitle: Long Beach Limanı, Kuzey Amerika’nın En Büyük Sıfır Emisyonlu Tır Şarj Üssünü Açtı
+date: '2024-12-02T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_96933ca3430a4f82b152cb60568a0d25~mv2.jpg
+imageAlt: Long Beach Limanı’nda açılan 30 hiper hızlı şarj cihazına sahip dev tesis, 79 adet sıfır emisyonlu Class 8 tır filosuna hizmet vererek Kaliforniya’nın 2035 sıfır emisyon hedeflerini destekliyor.
+wixId: c7a4d6a4-e406-4042-b27b-7b00d288cb4c
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Long Beach Limanı
+- sıfır emisyonlu tır
+- şarj altyapısı
+- sürdürülebilir lojistik
+- Kaliforniya
+- 4 Gen Logistics
+- elektrikli araç filosu
 ---
 <p style="text-align: justify">ABD’nin en yoğun liman komplekslerinden biri olan <strong>Port of Long Beach</strong>, Kuzey Amerika’nın bugüne kadarki en büyük <strong>Class 8 sıfır emisyonlu tır şarj merkezi</strong>ni hizmete açtı. Bu adım, hem San Pedro Bay liman bölgesinde sürdürülebilir lojistik altyapısının güçlendirilmesi hem de Kaliforniya’nın <strong>2035 sıfır emisyonlu drayage tır zorunluluğu</strong> hedeflerine ulaşılması açısından önemli bir dönüm noktası olarak değerlendiriliyor.</p>
 <p><br></p>

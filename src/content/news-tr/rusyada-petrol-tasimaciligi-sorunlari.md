@@ -1,14 +1,23 @@
 ---
-title: "Rusya'da Petrol Taşımacılığında Yaşanan Sorunlar: Demiryolları ve Petrol Şirketleri Arasında Suçlamalar"
-subtitle: "Rusya'da Petrol Taşımacılığında Yaşanan Sorunlar: Demiryolları ve Petrol Şirketleri Arasında Suçlamalar"
-date: "2025-02-14T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_d3a558074f2b476e8a01351ce17754a7~mv2.jpg"
-imageAlt: "Rusya'da Petrol Taşımacılığında Yaşanan Sorunlar: Demiryolları ve Petrol Şirketleri Arasında Suçlamalar"
-wixId: "e14394a9-88e8-49ae-a7a0-03b01f14e456"
-author: "Sedat Onat"
+title: 'Rusya''da Petrol Taşımacılığında Yaşanan Sorunlar: Demiryolları ve Petrol Şirketleri Arasında Suçlamalar'
+subtitle: 'Rusya''da Petrol Taşımacılığında Yaşanan Sorunlar: Demiryolları ve Petrol Şirketleri Arasında Suçlamalar'
+date: '2025-02-14T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_d3a558074f2b476e8a01351ce17754a7~mv2.jpg
+imageAlt: 'Rusya''da Petrol Taşımacılığında Yaşanan Sorunlar: Demiryolları ve Petrol Şirketleri Arasında Suçlamalar'
+wixId: e14394a9-88e8-49ae-a7a0-03b01f14e456
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Rusya
+- petrol taşımacılığı
+- demiryolu
+- rafineri
+- Russian Railways
+- Gazprom Neft
+- Rosneft
+- Ukrayna saldırıları
 ---
 <p style="text-align: justify">Rusya'da demiryolu ağı üzerinde dikkat çekici bir sorun yaşanmakta. Ülkenin rafinerilerindeki petrolün yüzde 40'ına kadar olan kısmı, <strong>Russian Railways (RZD)</strong> tarafından taşınmak üzere kabul edilmemekte. Bu durum, petrol şirketleri tarafından bu şekilde açıklanmakta. Öte yandan, <strong>RZD</strong>, rafinerilerin taşınacak planlanan hacimleri sunmadığını belirtmekte.</p>
 <p><br></p>

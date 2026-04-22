@@ -1,14 +1,23 @@
 ---
-title: "ABD Paris İklim Anlaşması'ndan Yeniden Çekiliyor"
-subtitle: "ABD Paris İklim Anlaşması'ndan Yeniden Çekiliyor"
-date: "2025-01-21T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/11062b_1c96ba4feade49898451a679c7686f56~mv2.jpg"
-imageAlt: "ABD Paris İklim Anlaşması'ndan Yeniden Çekiliyor"
-wixId: "8343caf4-d5b1-4576-bb02-cd8f6e67d678"
-author: "Sedat Onat"
+title: ABD Paris İklim Anlaşması'ndan Yeniden Çekiliyor
+subtitle: ABD Paris İklim Anlaşması'ndan Yeniden Çekiliyor
+date: '2025-01-21T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/11062b_1c96ba4feade49898451a679c7686f56~mv2.jpg
+imageAlt: ABD Paris İklim Anlaşması'ndan Yeniden Çekiliyor
+wixId: 8343caf4-d5b1-4576-bb02-cd8f6e67d678
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Paris İklim Anlaşması
+- ABD
+- iklim değişikliği
+- Donald Trump
+- sera gazı emisyonu
+- yenilenebilir enerji
+- fosil yakıt
+- sürdürülebilirlik
 ---
 <p>ABD Başkanı Donald Trump, geçtiğimiz ay bir yürütme emri imzalayarak ABD'nin Paris İklim Anlaşması'ndan yeniden çekilmesini emretti. Bu karar, uluslararası toplumda geniş yankı uyandırdı ve iklim değişikliğiyle mücadelede küresel çabaların geleceği konusunda endişelere yol açtı.​</p>
 <p><br></p>

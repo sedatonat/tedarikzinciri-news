@@ -1,16 +1,24 @@
 ---
-title: "Ukrainian Railways Acquires 55 New Locomotives from Alstom"
-subtitle: "Ukrainian Railways Acquires 55 New Locomotives from Alstom"
-date: "2025-11-17T09:00:00Z"
-category: "Satınalma"
-image: "https://static.wixstatic.com/media/6c3915_399b79804be54419b92843f9712a5a0a~mv2.jpg"
-imageAlt: "Ukrainian Railways Acquires 55 New Locomotives from Alstom"
-wixId: "06a86ad4-4b1e-4e53-a78c-68066952f1aa"
-author: "Sedat Onat"
+title: Ukrainian Railways Acquires 55 New Locomotives from Alstom
+subtitle: Ukrainian Railways Acquires 55 New Locomotives from Alstom
+date: '2025-11-17T09:00:00Z'
+category: Satınalma
+image: https://static.wixstatic.com/media/6c3915_399b79804be54419b92843f9712a5a0a~mv2.jpg
+imageAlt: Ukrainian Railways Acquires 55 New Locomotives from Alstom
+wixId: 06a86ad4-4b1e-4e53-a78c-68066952f1aa
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Ukrainian Railways
+- Alstom
+- locomotive
+- railway modernization
+- dual-voltage
+- EBRD
+- World Bank
+- EU integration
 ---
-
 <p style="text-align: justify">Ukrainian Railways (<strong>Ukrzaliznytsia – UZ</strong>) is taking one of the most critical long-awaited steps in modernizing the country's railway system by purchasing <strong>55 dual-voltage electric locomotives</strong> from French manufacturer <strong>Alstom</strong>. The agreement is viewed as a strategic investment to make Ukraine's aging rail infrastructure more resilient and efficient both under wartime conditions and in meeting EU integration targets.</p>
 <p><br></p>
 <p style="text-align: justify">The purchase became possible through financing support provided by the <strong>World Bank</strong> and the <strong>European Bank for Reconstruction and Development (EBRD)</strong>. Both international financial institutions view Ukraine's transport infrastructure, particularly its railways, as a cornerstone of the country's economic and logistical resilience.</p>

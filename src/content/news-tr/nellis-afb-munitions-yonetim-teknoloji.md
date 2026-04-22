@@ -1,14 +1,23 @@
 ---
-title: "ABD Donanması Mühimmat Yönetiminde Teknoloji Devrimi"
-subtitle: "ABD Donanması Mühimmat Yönetiminde Teknoloji Devrimi"
-date: "2024-11-04T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/6c3915_37af30b0e83f4171be14ca5147489b61~mv2.jpg"
-imageAlt: "ABD Donanması Mühimmat Yönetiminde Teknoloji Devrimi"
-wixId: "86468d4f-31ec-4d37-a822-15c2374667e8"
-author: "Sedat Onat"
+title: ABD Donanması Mühimmat Yönetiminde Teknoloji Devrimi
+subtitle: ABD Donanması Mühimmat Yönetiminde Teknoloji Devrimi
+date: '2024-11-04T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/6c3915_37af30b0e83f4171be14ca5147489b61~mv2.jpg
+imageAlt: ABD Donanması Mühimmat Yönetiminde Teknoloji Devrimi
+wixId: 86468d4f-31ec-4d37-a822-15c2374667e8
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD Donanması
+- mühimmat yönetimi
+- varlık takibi
+- 5G etiket
+- RFID
+- otomasyon
+- askeri lojistik
+- SEE ID
 ---
 <p>Nellis Air Force Base'deki 57th Munitions Squadron (MUNS), mühimmat ve lojistik yönetiminde karşılaştığı önemli zorluklarla mücadele ediyordu. Geleneksel operasyonlar, haftalık yaklaşık 250 insan saatine mal olan emek yoğun, verimsiz ve hataya açık süreçler içeriyordu. Bu durum, misyon için kritik görevlerin yerine getirilmesinde verimliliği düşürüyordu.</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "Disruptions on Critical Trade Routes Shake Global Supply Chains"
-subtitle: "Disruptions on Critical Trade Routes Shake Global Supply Chains"
-date: "2024-03-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_aca3991278ff44799c5529a5ec73e10b~mv2.png"
-imageAlt: "Disruptions on Critical Trade Routes Shake Global Supply Chains"
-wixId: "daf89fe2-73f0-4379-9a38-eecaae4be640"
-author: "Sedat Onat"
+title: Disruptions on Critical Trade Routes Shake Global Supply Chains
+subtitle: Disruptions on Critical Trade Routes Shake Global Supply Chains
+date: '2024-03-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_aca3991278ff44799c5529a5ec73e10b~mv2.png
+imageAlt: Disruptions on Critical Trade Routes Shake Global Supply Chains
+wixId: daf89fe2-73f0-4379-9a38-eecaae4be640
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Suez Canal
+- Panama Canal
+- Red Sea
+- supply chain
+- maritime shipping
+- freight costs
+- Cape of Good Hope
 ---
-
 <p><a href="https://en.wikipedia.org/wiki/Suez_Canal"><u>Suez Canal</u></a>, the main shipping corridor between Asia and Europe, experienced a 50 percent year-on-year decline in trade volume during the first two months of 2024 due to Houthi attacks in the Red Sea region. The situation has prompted shipping companies to reroute vessels around <a href="https://en.wikipedia.org/wiki/Cape_of_Good_Hope"><u>Cape of Good Hope</u></a>, causing delivery delays. <a href="https://en.wikipedia.org/wiki/Panama_Canal"><u>Panama Canal</u></a>, which typically handles approximately 5 percent of global maritime trade, experienced a 32 percent decline in trade volume as authorities have significantly restricted daily vessel transits since October of the previous year due to severe drought conditions.</p>
 <p><br></p>
 <p>According to data from the IMF's <a href="https://portwatch.imf.org/"><u>PortWatch</u></a> platform, trade volume around Cape of Good Hope increased 74 percent compared with levels from the previous year, while port calls to 70 ports in Sub-Saharan Africa declined 6.7 percent year-on-year in January and February 2024. The European Union and Middle East and Central Asia experienced a 5.3 percent decline.</p>

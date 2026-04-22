@@ -1,14 +1,22 @@
 ---
-title: "Wallenius Wilhelmsen, Dünyanın En Büyük PCTC Gemilerini İnşa Ediyor"
-subtitle: "Wallenius Wilhelmsen, Dünyanın En Büyük PCTC Gemilerini İnşa Ediyor"
-date: "2024-09-27T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_b79c188e9c454c3bb6a6881dee143eae~mv2.jpg"
-imageAlt: "Wallenius Wilhelmsen, Dünyanın En Büyük PCTC Gemilerini İnşa Ediyor"
-wixId: "fde3d8e5-3211-4fb7-b517-13a6df4b8b41"
-author: "Sedat Onat"
+title: Wallenius Wilhelmsen, Dünyanın En Büyük PCTC Gemilerini İnşa Ediyor
+subtitle: Wallenius Wilhelmsen, Dünyanın En Büyük PCTC Gemilerini İnşa Ediyor
+date: '2024-09-27T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_b79c188e9c454c3bb6a6881dee143eae~mv2.jpg
+imageAlt: Wallenius Wilhelmsen, Dünyanın En Büyük PCTC Gemilerini İnşa Ediyor
+wixId: fde3d8e5-3211-4fb7-b517-13a6df4b8b41
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Wallenius Wilhelmsen
+- PCTC gemisi
+- metanol yakıt
+- sürdürülebilirlik
+- gemi inşa
+- araç taşımacılığı
+- net-sıfır
 ---
 <p>Wallenius Wilhelmsen, Jinling Shipyard (Jiangsu) ile sipariş ettiği 12 Shaper Class gemisinden 4'ünün kapasitesini 9.300 CEU'dan yaklaşık 11.700 CEU'ya yükselteceğini açıkladı. Bu gemiler, şimdiye kadar denize açılmış en büyük Pure Car, Truck Carrier (PCTC) gemileri olacak ve 2027'den itibaren müşterilere sunulacak olan şirketin entegre net-sıfır hizmetinin deniz bileşenini oluşturacak.</p>
 <p><br></p>

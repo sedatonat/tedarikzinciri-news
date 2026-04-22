@@ -1,14 +1,22 @@
 ---
-title: "Toyota Elektrikli Araçların Geri Dönüşüme Giden Yıllık 25.000 adet Pil için Cirba Solutions ile Anlaşmaya Vardı"
-subtitle: "Toyota Elektrikli Araçların Geri Dönüşüme Giden Yıllık 25.000 adet Pil için Cirba Solutions ile Anlaşmaya Vardı"
-date: "2023-12-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_49dd4b1f6f07463eba81e6e93921969f~mv2.jpg"
-imageAlt: "Toyota Elektrikli Araçların Geri Dönüşüme Giden Yıllık 25.000 adet Pil için Circa ile Anlaşmaya Vardı"
-wixId: "60f79a92-e110-4a8d-90b6-5087367968d7"
-author: "Sedat Onat"
+title: Toyota Elektrikli Araçların Geri Dönüşüme Giden Yıllık 25.000 adet Pil için Cirba Solutions ile Anlaşmaya Vardı
+subtitle: Toyota Elektrikli Araçların Geri Dönüşüme Giden Yıllık 25.000 adet Pil için Cirba Solutions ile Anlaşmaya Vardı
+date: '2023-12-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_49dd4b1f6f07463eba81e6e93921969f~mv2.jpg
+imageAlt: Toyota Elektrikli Araçların Geri Dönüşüme Giden Yıllık 25.000 adet Pil için Circa ile Anlaşmaya Vardı
+wixId: 60f79a92-e110-4a8d-90b6-5087367968d7
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Toyota
+- elektrikli araç
+- pil geri dönüşümü
+- Cirba Solutions
+- lityum iyon pil
+- sürdürülebilirlik
+- lojistik maliyet
 ---
 <p>Toyota Motor Kuzey Amerika, pil geri dönüşüm ağını genişletmek için pil malzeme hizmetleri ve geri dönüşüm şirketi <a href="https://www.cirbasolutions.com/"><u>Cirba Solutions</u></a> ile işbirliği yapacağını duyurdu. Bu işbirliği, hibrit, şarj edilebilir hibritler ve elektrikli araçları içeren batarya toplama çabalarına odaklanacak.</p>
 <p><br></p>

@@ -1,16 +1,23 @@
 ---
-title: "Port of Bilbao Launches Operational Tests with Hydrogen-Powered H2TowTractor: The Retrofit Era in Logistics"
-subtitle: "Port of Bilbao Launches Operational Tests with Hydrogen-Powered H2TowTractor: The Retrofit Era in Logistics"
-date: "2025-11-26T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_d17c6973f5f84ca0bc189fc25a04471a~mv2.jpg"
-imageAlt: "H2TowTractor powered by hydrogen fuel cell and lithium-ion battery combination being tested for zero-emission port operations at the Port of Bilbao."
-wixId: "af7e3036-cc5f-4bd5-9e35-ce7570f2b720"
-author: "Sedat Onat"
+title: 'Port of Bilbao Launches Operational Tests with Hydrogen-Powered H2TowTractor: The Retrofit Era in Logistics'
+subtitle: 'Port of Bilbao Launches Operational Tests with Hydrogen-Powered H2TowTractor: The Retrofit Era in Logistics'
+date: '2025-11-26T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_d17c6973f5f84ca0bc189fc25a04471a~mv2.jpg
+imageAlt: H2TowTractor powered by hydrogen fuel cell and lithium-ion battery combination being tested for zero-emission port operations at the Port of Bilbao.
+wixId: af7e3036-cc5f-4bd5-9e35-ce7570f2b720
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- hydrogen
+- port logistics
+- Port of Bilbao
+- retrofit
+- sustainability
+- fuel cell
+- zero emission
 ---
-
 <p style="text-align: justify">As sustainability pressure mounts on port operations across Europe, <strong>Port of Bilbao</strong> is hosting a project positioned to solve hydrogen technology's most critical challenge in port logistics—high power requirements. <em>H2TowTractor</em> is being field-tested with a <strong>retrofit hydrogen kit</strong> that can be easily applied to existing fleets rather than replacing entire industrial tractor units. This test stands out as the first real-world operational application of its kind in Europe.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Why is hydrogen particularly relevant for ports?</strong></h3>

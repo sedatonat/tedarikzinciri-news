@@ -1,14 +1,21 @@
 ---
-title: "Ford Otosan'ın Çeviklikte 4 Yıldızlı Başarısı"
-subtitle: "Ford Otosan'ın Çeviklikte 4 Yıldızlı Başarısı"
-date: "2024-03-06T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_ac9dcec9818f4ceea4645043dd0f64f6~mv2.jpg"
-imageAlt: "Ford Otosan'ın Çeviklikte 4 Yıldızlı Başarısı"
-wixId: "6e381119-2a6c-4c74-9920-c4a1cc94ca52"
-author: "Sedat Onat"
+title: Ford Otosan'ın Çeviklikte 4 Yıldızlı Başarısı
+subtitle: Ford Otosan'ın Çeviklikte 4 Yıldızlı Başarısı
+date: '2024-03-06T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_ac9dcec9818f4ceea4645043dd0f64f6~mv2.jpg
+imageAlt: Ford Otosan'ın Çeviklikte 4 Yıldızlı Başarısı
+wixId: 6e381119-2a6c-4c74-9920-c4a1cc94ca52
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Ford Otosan
+- çevik yönetim
+- dijital dönüşüm
+- otomotiv
+- Business Agility Institute
+- organizasyonel dönüşüm
 ---
 <p>Ford Otosan, çevik yönetim sistemleri alanında önemli bir başarıya imza attı. Global ölçekte şirketlerin çeviklik seviyelerini değerlendiren "<a href="https://businessagility.institute/"><u>Business Agility Institute</u></a>" tarafından "4 Yıldızlı Organizasyon" sertifikasına layık görülen ilk Türk otomotiv üretim şirketi oldu.&nbsp;</p>
 <p><br></p>

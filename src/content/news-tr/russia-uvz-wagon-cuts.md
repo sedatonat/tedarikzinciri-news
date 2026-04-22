@@ -1,14 +1,22 @@
 ---
-title: "Rusya’da Vagon Üretimi Daralıyor: UralVagonZavod İşgücünü Azaltmaya Hazırlanıyor"
-subtitle: "Rusya’da Vagon Üretimi Daralıyor: UralVagonZavod İşgücünü Azaltmaya Hazırlanıyor"
-date: "2025-12-12T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_0a19d329749a471d94b50f156e5744a8~mv2.jpg"
-imageAlt: "RailFreight.com analizine göre Uralvagonzavod’un işten çıkarmalar, azalan sivil vagon talebi, askeri üretime kaydırma ve Rus demiryolu sektöründe oluşan vagon fazlası nedeniyle karşı karşıya kaldığı yapısal daralmanın detaylı özeti"
-wixId: "2d43237c-648d-49a1-a0fa-89c3dd7d7bc9"
-author: "Sedat Onat"
+title: 'Rusya’da Vagon Üretimi Daralıyor: UralVagonZavod İşgücünü Azaltmaya Hazırlanıyor'
+subtitle: 'Rusya’da Vagon Üretimi Daralıyor: UralVagonZavod İşgücünü Azaltmaya Hazırlanıyor'
+date: '2025-12-12T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_0a19d329749a471d94b50f156e5744a8~mv2.jpg
+imageAlt: RailFreight.com analizine göre Uralvagonzavod’un işten çıkarmalar, azalan sivil vagon talebi, askeri üretime kaydırma ve Rus demiryolu sektöründe oluşan vagon fazlası nedeniyle karşı karşıya kaldığı yapısal daralmanın detaylı özeti
+wixId: 2d43237c-648d-49a1-a0fa-89c3dd7d7bc9
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- UralVagonZavod
+- vagon üretimi
+- Rusya
+- demiryolu
+- işgücü azaltma
+- askeri üretim
+- tedarik zinciri
 ---
 <p style="text-align: justify"><strong>RailFreight.com</strong>’da yayımlanan analizin devamına göre, Rusya’nın en büyük vagon ve zırhlı araç üreticisi olan <strong>Uralvagonzavod (UVZ)</strong>, ülkedeki demiryolu yük taşımacılığına bağlı sivil üretimde yaşanan sert daralma nedeniyle kapsamlı bir küçülme sürecine girmekte. Bu süreç, yalnızca UVZ ile sınırlı kalmamakta; <strong>Rus vagon üretim sektörünün geneline yayılan yapısal bir krizin</strong> işaretlerini vermekte.</p>
 <p><br></p>

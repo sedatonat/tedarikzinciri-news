@@ -1,14 +1,22 @@
 ---
-title: "Küresel Ticaretin Dayanıklılığı: Jeopolitik Engellere Rağmen Büyüme"
-subtitle: "Küresel Ticaretin Dayanıklılığı: Jeopolitik Engellere Rağmen Büyüme"
-date: "2024-03-18T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_2e79aba1fe154383b1b21c08cf008fe5~mv2.jpeg"
-imageAlt: "Küresel Ticaretin Dayanıklılığı: Jeopolitik Engellere Rağmen Büyüme"
-wixId: "e0335cc4-3319-427f-bc8a-6bf97d9918ad"
-author: "Sedat Onat"
+title: 'Küresel Ticaretin Dayanıklılığı: Jeopolitik Engellere Rağmen Büyüme'
+subtitle: 'Küresel Ticaretin Dayanıklılığı: Jeopolitik Engellere Rağmen Büyüme'
+date: '2024-03-18T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_2e79aba1fe154383b1b21c08cf008fe5~mv2.jpeg
+imageAlt: 'Küresel Ticaretin Dayanıklılığı: Jeopolitik Engellere Rağmen Büyüme'
+wixId: e0335cc4-3319-427f-bc8a-6bf97d9918ad
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- küresel ticaret
+- DHL
+- jeopolitik
+- e-ticaret
+- omnishoring
+- tedarik zinciri
+- globalleşme
 ---
 <p>DHL'nin son raporu, jeopolitik çatışmalar ve kamu politikası engellerine rağmen küresel ticaret hacimlerinde güçlü bir büyüme olduğunu ortaya koyuyor. Globalleşme, hem üretim ve montaj için tedarik zincirlerini çeşitlendirme eğilimi olan "omnishoring" hem de pandemi sırasında hız kazanan e-ticaret alışveriş seviyeleriyle ölçülüyor. DHL Express Amerika CEO'su Andrew Williams, bu büyümenin, ticaret, sermaye, insan ve bilgi akışlarında artış şeklinde gerçekleştiğini belirtiyor. Büyüme, Çin mallarına tarifelerin uygulanması, Rusya'nın Ukrayna'yı işgali ve Covid pandemisi gibi önemli olaylara rağmen gerçekleşti.</p>
 <p><br></p>

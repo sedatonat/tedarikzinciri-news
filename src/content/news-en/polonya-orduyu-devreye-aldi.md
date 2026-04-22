@@ -1,16 +1,23 @@
 ---
-title: "Poland Deploys Military to Eastern Rail Lines: Russia-Backed Sabotage Confirmed"
-subtitle: "Poland Deploys Military to Eastern Rail Lines: Russia-Backed Sabotage Confirmed"
-date: "2025-11-19T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_1291bfd66fa14ff29c93e0dd8c0f9f99~mv2.jpg"
-imageAlt: "Poland confirms that an explosion on strategic Line No.7 stretching to Ukraine was carried out by two Ukrainian agents on behalf of Russian intelligence; eastern rail lines are now protected by the military following the incident."
-wixId: "5b1f9ee5-9936-414a-b9fc-48479e07db07"
-author: "Sedat Onat"
+title: 'Poland Deploys Military to Eastern Rail Lines: Russia-Backed Sabotage Confirmed'
+subtitle: 'Poland Deploys Military to Eastern Rail Lines: Russia-Backed Sabotage Confirmed'
+date: '2025-11-19T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_1291bfd66fa14ff29c93e0dd8c0f9f99~mv2.jpg
+imageAlt: Poland confirms that an explosion on strategic Line No.7 stretching to Ukraine was carried out by two Ukrainian agents on behalf of Russian intelligence; eastern rail lines are now protected by the military following the incident.
+wixId: 5b1f9ee5-9936-414a-b9fc-48479e07db07
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Poland
+- rail sabotage
+- Russia
+- Ukraine
+- NATO logistics
+- hybrid warfare
+- critical infrastructure
 ---
-
 <p style="text-align: justify">Polish Prime Minister <strong>Donald Tusk</strong> announced that his government has definitively established that <strong>Russia was behind an explosion</strong> on a critical railway line in the country's east on Sunday. Tusk said the identities of those who carried out the attack have been determined, and that <strong>two Ukrainian citizens have long been working on behalf of Russian intelligence</strong>. The incident occurred on <strong>railway line No.7</strong>, one of the most strategic corridors used for shipments of weapons, fuel, and humanitarian aid to Ukraine.</p>
 <p><br></p>
 <p style="text-align: justify">Speaking before the Sejm, Tusk stated: "This is no longer an assumption; we are certain of the identities of those who carried out the attack. Camera footage clearly shows the perpetrators of the sabotage. It is known that these two individuals have long been connected with Russian intelligence." Polish security services determined that the two suspects <strong>entered the country via Belarus</strong> and fled back to Belarus after the attack.</p>

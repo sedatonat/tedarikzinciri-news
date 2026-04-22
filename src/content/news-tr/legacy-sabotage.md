@@ -1,14 +1,22 @@
 ---
-title: "Eski Sistemler Tedarik Zincirinizi Sessizce Sabote Ediyor"
-subtitle: "Eski Sistemler Tedarik Zincirinizi Sessizce Sabote Ediyor"
-date: "2025-09-02T00:00:00Z"
-category: "Teknoloji"
-image: "https://static.wixstatic.com/media/6c3915_3d8f2d6e5bd348d4b595b88b5cf5e945~mv2.png"
-imageAlt: "Eski Sistemler Tedarik Zincirinizi Sessizce Sabote Etmekte"
-wixId: "1eba72e6-49db-4bc1-8184-db0ffdaa203a"
-author: "Sedat Onat"
+title: Eski Sistemler Tedarik Zincirinizi Sessizce Sabote Ediyor
+subtitle: Eski Sistemler Tedarik Zincirinizi Sessizce Sabote Ediyor
+date: '2025-09-02T00:00:00Z'
+category: Teknoloji
+image: https://static.wixstatic.com/media/6c3915_3d8f2d6e5bd348d4b595b88b5cf5e945~mv2.png
+imageAlt: Eski Sistemler Tedarik Zincirinizi Sessizce Sabote Etmekte
+wixId: 1eba72e6-49db-4bc1-8184-db0ffdaa203a
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- eski sistemler
+- dijital dönüşüm
+- ERP
+- API entegrasyonu
+- IoT
+- bulut teknolojisi
+- tedarik zinciri
 ---
 <p style="text-align: justify">Eski (legacy) sistemler, tedarik zinciri dönüşümünün görünmeyen engellerinden biri olarak kalmakta. Bu sistemler güncel veriye erişim, entegrasyon ve ölçeklenebilirlik açısından darboğaz yaratmakta. IDC verileri, büyük üretici firmaların %48’inin kritik süreçlerinin hâlâ 10 yıl veya daha eski yazılımlar üzerinde çalıştığını göstermekte.</p>
 <p style="text-align: justify"><br></p>

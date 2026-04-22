@@ -1,16 +1,23 @@
 ---
-title: "Schneider Fast Track: Truck-Speed Intermodal Shipping Enters New Era"
-subtitle: "Schneider Fast Track: Truck-Speed Intermodal Shipping Enters New Era"
-date: "2025-11-11T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a23a76a421044b8aa24f69d70325e338~mv2.jpg"
-imageAlt: "Schneider National's Fast Track service delivers up to 2-day faster transit on US-Mexico routes, 95%+ on-time delivery, and 99.99% theft-free operations, bringing intermodal transportation to truck-level speed and reliability."
-wixId: "b6829095-69f2-4b1a-9fb3-d30b95eaa564"
-author: "Sedat Onat"
+title: 'Schneider Fast Track: Truck-Speed Intermodal Shipping Enters New Era'
+subtitle: 'Schneider Fast Track: Truck-Speed Intermodal Shipping Enters New Era'
+date: '2025-11-11T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a23a76a421044b8aa24f69d70325e338~mv2.jpg
+imageAlt: Schneider National's Fast Track service delivers up to 2-day faster transit on US-Mexico routes, 95%+ on-time delivery, and 99.99% theft-free operations, bringing intermodal transportation to truck-level speed and reliability.
+wixId: b6829095-69f2-4b1a-9fb3-d30b95eaa564
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Schneider National
+- intermodal transportation
+- US-Mexico
+- rail
+- automotive logistics
+- just-in-time
+- supply chain
 ---
-
 <p style="text-align: justify">Schneider National has officially launched <strong>Fast Track</strong>, a new premium service redefining speed and reliability standards in intermodal transportation. The goal is to deliver intermodal shipping at near-truck speeds and precision, providing shippers of time-sensitive freight with <strong>seamless transportation experience</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">According to the company's announcement, Fast Track integrates <strong>Schneider's own truck and intermodal assets</strong> with <strong>railroad partnerships</strong> to create <strong>the market's fastest and most stable intermodal lanes</strong> between the US and Mexico.</p>

@@ -1,16 +1,23 @@
 ---
-title: "Rising U.S. Deportations of Filipino Seafarers Spark Diplomatic Intervention from Manila"
-subtitle: "Rising U.S. Deportations of Filipino Seafarers Spark Diplomatic Intervention from Manila"
-date: "2025-10-23T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_62b68bad31324fe1a2ce90282647bc28~mv2.jpg"
-imageAlt: "Rising U.S. Deportations of Filipino Seafarers Spark Diplomatic Intervention from Manila"
-wixId: "81d05300-45b0-4b06-ba6b-37e7e4f399f6"
-author: "Sedat Onat"
+title: Rising U.S. Deportations of Filipino Seafarers Spark Diplomatic Intervention from Manila
+subtitle: Rising U.S. Deportations of Filipino Seafarers Spark Diplomatic Intervention from Manila
+date: '2025-10-23T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_62b68bad31324fe1a2ce90282647bc28~mv2.jpg
+imageAlt: Rising U.S. Deportations of Filipino Seafarers Spark Diplomatic Intervention from Manila
+wixId: 81d05300-45b0-4b06-ba6b-37e7e4f399f6
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Filipino seafarers
+- US visa policy
+- deportation
+- maritime workforce
+- passenger ship
+- diplomatic tension
+- Manila
 ---
-
 <p style="text-align: justify"><strong>Diplomatic tensions escalate along the Washington-Manila corridor.</strong></p>
 <p><br>
 In recent months, <strong>a rising number of Filipino seafarers have been denied entry and deported from U.S. ports</strong>, prompting the Philippine government to launch formal diplomatic intervention.</p>

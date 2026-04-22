@@ -1,16 +1,23 @@
 ---
-title: "TSMC's $100 Billion Investment in the United States"
-subtitle: "TSMC's $100 Billion Investment in the United States"
-date: "2025-03-06T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_c461be90f4334a498218d18c0f43cbe4~mv2.jpg"
-imageAlt: "TSMC's $100 Billion Investment in the United States"
-wixId: "a1284079-c245-4196-b57c-137968178325"
-author: "Sedat Onat"
+title: TSMC's $100 Billion Investment in the United States
+subtitle: TSMC's $100 Billion Investment in the United States
+date: '2025-03-06T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_c461be90f4334a498218d18c0f43cbe4~mv2.jpg
+imageAlt: TSMC's $100 Billion Investment in the United States
+wixId: a1284079-c245-4196-b57c-137968178325
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- TSMC
+- semiconductor
+- Arizona
+- chip factory
+- artificial intelligence
+- Donald Trump
+- investment
 ---
-
 <p style="text-align: justify"><strong>Taiwan Semiconductor Manufacturing Company</strong> (<strong>TSMC</strong>), the world's largest semiconductor manufacturer, has unveiled a massive $100 billion investment plan in the United States. This investment includes the construction of two additional facilities alongside the three chip fabrication plants currently being built by the company in Arizona. TSMC's CEO <strong>C.C. Wei</strong> announced at the White House alongside <strong>President Donald Trump</strong> that this investment would substantially increase semiconductor manufacturing capacity in the United States and create thousands of high-paying job opportunities.</p>
 <p><br></p>
 <p style="text-align: justify">TSMC's move raises its total investment in the United States to $165 billion, strengthening the nation's position in semiconductor manufacturing. This investment will enable the production in the U.S. of chips serving critical sectors of the modern economy such as artificial intelligence, automotive, and advanced manufacturing, contributing to the country's economic and national security.</p>

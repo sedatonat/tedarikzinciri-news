@@ -1,16 +1,24 @@
 ---
-title: "Pakistan Offers Bangladesh Use of Karachi Port to Facilitate Trade with China"
-subtitle: "Pakistan Offers Bangladesh Use of Karachi Port to Facilitate Trade with China"
-date: "2025-10-29T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_a37351dd244c414d8b5981d4dfd310a7~mv2.jpg"
-imageAlt: "Pakistan has proposed allowing Bangladesh to use the Karachi Port Trust (KPT) to facilitate its trade with China and other countries. The proposal was raised at the 9th Bangladesh–Pakistan Joint Economic Commission meeting."
-wixId: "31342070-121d-4e75-948e-5c8ccb3c243c"
-author: "Sedat Onat"
+title: Pakistan Offers Bangladesh Use of Karachi Port to Facilitate Trade with China
+subtitle: Pakistan Offers Bangladesh Use of Karachi Port to Facilitate Trade with China
+date: '2025-10-29T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_a37351dd244c414d8b5981d4dfd310a7~mv2.jpg
+imageAlt: Pakistan has proposed allowing Bangladesh to use the Karachi Port Trust (KPT) to facilitate its trade with China and other countries. The proposal was raised at the 9th Bangladesh–Pakistan Joint Economic Commission meeting.
+wixId: 31342070-121d-4e75-948e-5c8ccb3c243c
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Karachi Port
+- Pakistan
+- Bangladesh
+- China
+- CPEC
+- regional trade
+- port cooperation
+- supply chain
 ---
-
 <p style="text-align: justify"><strong>Pakistan</strong> has proposed that <strong>Bangladesh use the Karachi Port Trust (KPT)</strong> to <strong>facilitate trade with China and other countries</strong>. The Karachi Port, one of South Asia's busiest and most strategically important deep-water harbors, stands out as a key node in Pakistan's regional logistics network.</p>
 <p><br></p>
 <p style="text-align: justify">The proposal was presented by Pakistan's Petroleum Minister <strong>Ali Pervaiz Malik</strong> at the <strong>9th Bangladesh–Pakistan Joint Economic Commission (JEC) meeting held in Dhaka on October 27, 2025</strong>. Bangladesh was represented by <strong>Dr. Salehuddin Ahmed</strong>, Finance Adviser to the interim government.</p>

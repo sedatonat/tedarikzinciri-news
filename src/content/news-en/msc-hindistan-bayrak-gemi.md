@@ -1,16 +1,23 @@
 ---
-title: "MSC to Reflag 12 Container Ships Under Indian Flag, Supporting Nation's Maritime Goals"
-subtitle: "MSC to Reflag 12 Container Ships Under Indian Flag, Supporting Nation's Maritime Goals"
-date: "2025-11-03T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_937441646a66494aa4ecb24a88905ba1~mv2.jpeg"
-imageAlt: "Mediterranean Shipping Co. (MSC), the world's largest container carrier, has decided to reflag 12 container ships under the Indian flag. This move strengthens the company's long-term support for India's maritime and trade infrastructure by expanding its investments in ports and land logistics."
-wixId: "ef0994e4-4c5b-4630-a4cd-378febf24d0e"
-author: "Sedat Onat"
+title: MSC to Reflag 12 Container Ships Under Indian Flag, Supporting Nation's Maritime Goals
+subtitle: MSC to Reflag 12 Container Ships Under Indian Flag, Supporting Nation's Maritime Goals
+date: '2025-11-03T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_937441646a66494aa4ecb24a88905ba1~mv2.jpeg
+imageAlt: Mediterranean Shipping Co. (MSC), the world's largest container carrier, has decided to reflag 12 container ships under the Indian flag. This move strengthens the company's long-term support for India's maritime and trade infrastructure by expanding its investments in ports and land logistics.
+wixId: ef0994e4-4c5b-4630-a4cd-378febf24d0e
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- MSC
+- container ship
+- India
+- reflagging
+- maritime
+- port investment
+- Adani Ports
 ---
-
 <p style="text-align: justify"><strong>Mediterranean Shipping Co. (MSC), the world's largest container shipping company,</strong> has decided to <strong>reflag 12 container ships under the Indian registry.</strong> This move is part of the company's strategy to diversify its investments in India's <strong>maritime, port, and logistics sectors,</strong> <strong>moving beyond the port-to-port shipping model.</strong></p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>New fleet under Indian flag</strong></h5>

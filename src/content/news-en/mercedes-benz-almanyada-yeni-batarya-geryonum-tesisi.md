@@ -1,16 +1,24 @@
 ---
-title: "Mercedes-Benz Opens New Battery Recycling Facility in Germany"
-subtitle: "Mercedes-Benz Opens New Battery Recycling Facility in Germany"
-date: "2024-10-31T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_e5eb5c4b07d646cb85365000247135a0~mv2.jpg"
-imageAlt: "Mercedes-Benz Opens New Battery Recycling Facility in Germany"
-wixId: "391af944-1a15-4ebb-ba90-092553a0e7bf"
-author: "Sedat Onat"
+title: Mercedes-Benz Opens New Battery Recycling Facility in Germany
+subtitle: Mercedes-Benz Opens New Battery Recycling Facility in Germany
+date: '2024-10-31T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_e5eb5c4b07d646cb85365000247135a0~mv2.jpg
+imageAlt: Mercedes-Benz Opens New Battery Recycling Facility in Germany
+wixId: 391af944-1a15-4ebb-ba90-092553a0e7bf
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- Mercedes-Benz
+- battery recycling
+- sustainability
+- Germany
+- electric vehicle
+- circular economy
+- European Union
+- Primobius
 ---
-
 <p>Mercedes-Benz has opened a new battery recycling facility in Kuppenheim, Germany, in line with its sustainability objectives. The automotive giant announced in a press release on October 21, 2024, that the facility has an annual battery processing capacity of 2,500 tonnes and will enable the production of more than 50,000 new battery modules. Mercedes-Benz is the first original equipment manufacturer (OEM) to close the battery recycling loop within its own operations.</p>
 <p><br></p>
 <p>The new facility was constructed as part of a scientific research project conducted between three German universities and financed by Germany's Federal Ministry for Economic Affairs and Climate Action. The facility will examine the entire supply chain of battery recycling in detail, from logistics to reintegration into the supply chain. As Europe's first mechanical-hydrometallurgical battery recycling facility, it will be capable of recovering up to 96 percent of critical raw materials such as nickel, lithium, and cobalt used in battery production.</p>

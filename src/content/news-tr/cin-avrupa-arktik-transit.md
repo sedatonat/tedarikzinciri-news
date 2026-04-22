@@ -1,14 +1,23 @@
 ---
-title: "Çin’den Avrupa’ya Arktik Kuzey Deniz Rotası Üzerinden İlk Konteyner Seferi Tamamlandı"
-subtitle: "Çin’den Avrupa’ya Arktik Kuzey Deniz Rotası Üzerinden İlk Konteyner Seferi Tamamlandı"
-date: "2025-10-17T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_eea2a04d7aaa4a7090dd2d321c13413f~mv2.jpg"
-imageAlt: "Kuzey Deniz Rotası (Northern Sea Route) üzerinden Çin’den Avrupa’ya yapılan ilk konteyner taşımacılığı seferi başarıyla tamamlandı. Gemi, 23 Eylül’de Çin’den yola çıkarak yalnızca 20 günde İngiltere’nin Felixstowe Limanı’na ulaştı ve yaklaşık 25 bin ton yük teslim etti."
-wixId: "3e10dee2-ee47-4c50-ad73-16d7b42f93d1"
-author: "Sedat Onat"
+title: Çin’den Avrupa’ya Arktik Kuzey Deniz Rotası Üzerinden İlk Konteyner Seferi Tamamlandı
+subtitle: Çin’den Avrupa’ya Arktik Kuzey Deniz Rotası Üzerinden İlk Konteyner Seferi Tamamlandı
+date: '2025-10-17T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_eea2a04d7aaa4a7090dd2d321c13413f~mv2.jpg
+imageAlt: Kuzey Deniz Rotası (Northern Sea Route) üzerinden Çin’den Avrupa’ya yapılan ilk konteyner taşımacılığı seferi başarıyla tamamlandı. Gemi, 23 Eylül’de Çin’den yola çıkarak yalnızca 20 günde İngiltere’nin Felixstowe Limanı’na ulaştı ve yaklaşık 25 bin ton yük teslim etti.
+wixId: 3e10dee2-ee47-4c50-ad73-16d7b42f93d1
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Kuzey Deniz Rotası
+- Arktik
+- konteyner taşımacılığı
+- Çin
+- Süveyş Kanalı
+- buz kırıcı
+- Ice Silk Road
+- Rusya
 ---
 <p style="text-align: justify"><strong>Rusya Federasyonu Ulaştırma Bakanlığı’nın</strong> açıklamasına göre, <strong>Kuzey Deniz Rotası (Northern Sea Route – NSR)</strong> üzerinden Çin’den Avrupa’ya yapılan <strong>ilk konteyner taşımacılığı seferi başarıyla tamamlandı.</strong> Bu sefer, küresel denizcilik tarihinde önemli bir dönüm noktası olarak görülmekte; zira geleneksel <strong>Süveyş Kanalı rotasına alternatif</strong> oluşturabilecek yeni bir ticaret koridorunun <strong>lojistik açıdan uygulanabilirliğini</strong> kanıtladı.</p>
 <p><br></p>

@@ -1,14 +1,22 @@
 ---
-title: "ABD Depo Piyasasında Karışık Sinyaller: Büyüme Hızı Yavaşlıyor"
-subtitle: "ABD Depo Piyasasında Karışık Sinyaller: Büyüme Hızı Yavaşlıyor"
-date: "2024-02-27T09:00:00Z"
-category: "Envanter"
-image: "https://static.wixstatic.com/media/11062b_939204ae9b614238a9e6d17a9368b38f~mv2.jpeg"
-imageAlt: "ABD Depo Piyasasında Karışık Sinyaller: Büyüme Hızı Yavaşlıyor"
-wixId: "c9ea356e-074d-4856-bd9b-0e47c413cb04"
-author: "Sedat Onat"
+title: 'ABD Depo Piyasasında Karışık Sinyaller: Büyüme Hızı Yavaşlıyor'
+subtitle: 'ABD Depo Piyasasında Karışık Sinyaller: Büyüme Hızı Yavaşlıyor'
+date: '2024-02-27T09:00:00Z'
+category: Envanter
+image: https://static.wixstatic.com/media/11062b_939204ae9b614238a9e6d17a9368b38f~mv2.jpeg
+imageAlt: 'ABD Depo Piyasasında Karışık Sinyaller: Büyüme Hızı Yavaşlıyor'
+wixId: c9ea356e-074d-4856-bd9b-0e47c413cb04
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- ABD
+- depo piyasası
+- Inland Empire
+- kira ücretleri
+- gayrimenkul
+- Prologis
+- kamyon taşımacılığı
 ---
 <p>Amerika Birleşik Devletleri'nde depolama ve dağıtım alanı piyasası, son zamanlarda yaşanan yoğun ilgi bir miktar soğumaya başladı. Los Angeles yakınlarındaki Inland Empire gibi güçlü bölgeler bile bu yavaşlamadan nasibini aldı. Gayrimenkul firması Colliers'ın analizine göre, 2023'te ABD genelinde depo kira ücretlerinde ortalama %20.6'lık bir artış yaşandı. Bu artış, ülke genelinde ortalama kira ücretlerini rekor bir seviye olan metrekare başına $9.72'ye taşıdı. Ancak bazı pazarlarda bu rakamlar çok daha yüksek ya da daha düşük olabiliyor.</p>
 <p><br></p>

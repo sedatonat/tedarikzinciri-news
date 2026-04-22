@@ -1,14 +1,23 @@
 ---
-title: "Meksika Başkanı, ABD Tarifelerinden Kaçınma Konusunda Güven Duyuyor"
-subtitle: "Meksika Başkanı, ABD Tarifelerinden Kaçınma Konusunda Güven Duyuyor"
-date: "2024-11-30T09:00:00Z"
-category: "Tedarik Zinciri"
-image: "https://static.wixstatic.com/media/6c3915_124b2ee5fd5e4b3598cc4b72a9fa51dc~mv2.jpg"
-imageAlt: "Meksika Başkanı, ABD Tarifelerinden Kaçınma Konusunda Güven Duyuyor"
-wixId: "f2376990-74a2-40be-888a-8b3c354c2545"
-author: "Sedat Onat"
+title: Meksika Başkanı, ABD Tarifelerinden Kaçınma Konusunda Güven Duyuyor
+subtitle: Meksika Başkanı, ABD Tarifelerinden Kaçınma Konusunda Güven Duyuyor
+date: '2024-11-30T09:00:00Z'
+category: Tedarik Zinciri
+image: https://static.wixstatic.com/media/6c3915_124b2ee5fd5e4b3598cc4b72a9fa51dc~mv2.jpg
+imageAlt: Meksika Başkanı, ABD Tarifelerinden Kaçınma Konusunda Güven Duyuyor
+wixId: f2376990-74a2-40be-888a-8b3c354c2545
+author: Sedat Onat
 translated: false
 draft: false
+tags:
+- Meksika
+- ABD
+- tarifeler
+- USMCA
+- ticaret anlaşmaları
+- otomotiv sektörü
+- ihracat
+- diplomatik ilişkiler
 ---
 <p>Meksika Devlet Başkanı, geçtiğimiz günlerde yaptığı açıklamada, ülkesinin Amerika Birleşik Devletleri (ABD) tarafından uygulanması muhtemel tarifelerden korunma konusunda kendinden emin olduğunu belirtti. Başkan, bu tür tarifelerin Meksika ekonomisi üzerindeki olumsuz etkilerini minimize etmek için kapsamlı stratejiler ve işbirlikleri geliştirdiklerini ifade etti.</p>
 <p><br></p>

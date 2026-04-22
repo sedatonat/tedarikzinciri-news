@@ -1,16 +1,23 @@
 ---
-title: "Oil Spill Following Ship Collision in North Sea"
-subtitle: "Oil Spill Following Ship Collision in North Sea"
-date: "2025-03-10T09:00:00Z"
-category: "Lojistik"
-image: "https://static.wixstatic.com/media/6c3915_e754aded26dc436a8e874fedc92f6af6~mv2.jpg"
-imageAlt: "Oil Spill Following Ship Collision in North Sea"
-wixId: "7bf17e5b-adaf-4ab4-8541-f7d805644a19"
-author: "Sedat Onat"
+title: Oil Spill Following Ship Collision in North Sea
+subtitle: Oil Spill Following Ship Collision in North Sea
+date: '2025-03-10T09:00:00Z'
+category: Lojistik
+image: https://static.wixstatic.com/media/6c3915_e754aded26dc436a8e874fedc92f6af6~mv2.jpg
+imageAlt: Oil Spill Following Ship Collision in North Sea
+wixId: 7bf17e5b-adaf-4ab4-8541-f7d805644a19
+author: Sedat Onat
 translated: true
 draft: false
+tags:
+- ship collision
+- oil spill
+- North Sea
+- tanker
+- marine pollution
+- rescue operation
+- jet fuel
 ---
-
 <p style="text-align: justify">In the North Sea off the coast of East Yorkshire, a collision between the oil tanker <a href="https://www.vesselfinder.com/vessels/details/9693018"><u><strong>MV Stena Immaculate</strong></u></a> and the cargo vessel <a href="https://www.vesselfinder.com/vessels/details/9322554"><u><strong>Solong</strong></u><u> </u></a>resulted in fires breaking out on both ships. The collision occurred at 09:48 in the morning, and emergency teams were dispatched immediately to the scene.&nbsp;</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Stena Immaculate</strong>, which was anchored while carrying jet fuel, suffered a fuel leak following the impact from <strong>Solong</strong>. Eyewitnesses reported seeing a large fireball and thick black smoke at the scene.&nbsp;</p>
