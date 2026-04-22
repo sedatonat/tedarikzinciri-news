@@ -1,0 +1,46 @@
+---
+title: "CSCO'lar Küresel Tarif Belirsizliği Ortasında Risk Yönetimini Güçlendirmek Zorunda"
+subtitle: "SCB/iStock 2189862167: CSCO Must Strengthen Risk Management Amid Global Tariff Uncertainty; SupplyChainBrain SCB Think Tank Analyst Insight; Chief Supply Chain Officer Become Accustom Uncertainty 2025 Expect No Different Especially Company Brace Unpredictability Tariff Potential Market Fluctuation; Climate CSCO Need Find Effective Way Enhance Organization Responsiveness Possible Gain Competitive Edge Shift Trade Environment; Critical Strong Risk Management Strategy Place Yet Confusion Meaning Resilience Create Challenge Many Organization; Recent Gartner Survey 82 Supply Chain Leader Indicate Resource Mean Proactive Risk Mitigation Direct Wrong Risk 18 Decrease Profitability"
+date: '2026-04-22T23:58:00Z'
+category: Tedarik Zinciri
+secondaryCategories:
+  - Lojistik
+image: https://www.supplychainbrain.com/ext/resources/2025/02/20/tariffs-shipping-iStock-2189862167.jpg
+imageAlt: Bir kargo gemisi liman dokunda tarif simgeleriyle yüklenmekta
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/41210-cscos-must-strengthen-risk-management-amid-global-tariff-uncertainty
+newsSequence: 41210
+author: Sedat Onat
+translated: false
+draft: false
+tags:
+- CSCO
+- risk yönetimi
+- tarife
+- Gartner
+- resilience
+- SCB Think Tank
+- belirsizlik
+- ticaret
+---
+<p style="text-align: justify"><strong>SupplyChainBrain</strong> raporlamakta; <strong>SCB Think Tank</strong>; analist görüşü; baş tedarik zinciri görevlileri (<strong>chief supply chain officers</strong>; <strong>CSCOs</strong>); belirsizliğe alışmakta &mdash; ve 2025&rsquo;in farklı olması beklenmiyor &mdash; özellikle şirketler tariflerin öngörülemezliğine ve potansiyel piyasa dalgalanmalarına hazırlanırken. Bu iklimde; <strong>CSCOs</strong>; organizasyonlarının duyarlılığını artırmak ve mümkünse değişen ticaret ortamında rekabet avantajı kazanmak için etkili yollar bulmak zorunda kalmakta. Güçlü bir risk yönetimi stratejisi yerinde olmak kritik olmakta. Yine de; &ldquo;resilience&rdquo; (dayanıklılık) anlamı üzerindeki kafa karışıklığı; birçok organizasyon için bir zorluk yaratmakta. Yakın zamanda yapılan bir <strong>Gartner</strong> anketinde; tedarik zinciri liderlerinin %82&rsquo;si; proaktif risk azaltımı için ayrılan kaynakların &mdash; dayanıklılık dahil &mdash; yanlış risklere yönlendirildiğini belirtmekta. Bu yanlış tahsis; ankete katılanlara göre %18&rsquo;lik karlılık düşüşü ile bağlantılı olmakta.</p>
+<p><br></p>
+<p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında <strong>Gartner Inc.</strong>; <strong>Gene Hall</strong> CEO; <strong>Stamford Connecticut</strong> kökenli; 1979 kuruluşlu; ana küresel <strong>IT</strong> ve tedarik zinciri araştırma ve danışmanlık firması olmakta. <strong>Gartner Supply Chain</strong>; <strong>Simon Bailey</strong> VP Analyst; <strong>Tom Enright</strong>; <strong>Mike Burkett</strong>; <strong>Suzie Petrusic</strong>; ana <strong>Gartner</strong> tedarik zinciri analistleri olmakta. <strong>Gartner Top 25 Supply Chains</strong>; <strong>Gartner Magic Quadrant</strong>; <strong>Gartner CSCO Survey</strong>; ana yıllık tedarik zinciri raporları olmakta. <strong>Gartner</strong>&rsquo;ın ana rakipleri; <strong>Forrester Research</strong> (<strong>George Colony</strong> CEO); <strong>IDC</strong> (<strong>Crawford Del Prete</strong> President); <strong>451 Research</strong> (<strong>S&amp;P Global</strong> sahipli); <strong>Frost &amp; Sullivan</strong>; <strong>Everest Group</strong>; <strong>HfS Research</strong>; <strong>Constellation Research</strong>; ana danışmanlık ve araştırma rakipleri olmakta. Ana <strong>CSCO</strong> akademik kaynaklar; <strong>MIT Center for Transportation &amp; Logistics</strong> (<strong>Yossi Sheffi</strong>); <strong>Stanford Global Supply Chain Management Forum</strong>; <strong>Michigan State Eli Broad</strong>; <strong>Penn State Smeal</strong>; <strong>Tennessee Haslam</strong>; ana akademik tedarik zinciri programları olmakta.</p>
+<p><br></p>
+<p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında ana <strong>supply chain risk management</strong> (<strong>SCRM</strong>) yazılım sağlayıcıları; <strong>Resilinc</strong> (<strong>Bindiya Vakil</strong> CEO; <strong>Milpitas California</strong>); <strong>Everstream Analytics</strong> (<strong>Julie Gerdeman</strong> CEO; <strong>San Marcos California</strong>); <strong>riskmethods</strong> (<strong>Sphera</strong> sahipli 2023); <strong>Interos</strong> (<strong>Jennifer Bisceglie</strong> CEO; <strong>Arlington Virginia</strong>); <strong>Riskonnect</strong>; <strong>Achilles</strong>; <strong>SAP Ariba Risk Management</strong>; <strong>Coupa Risk Aware</strong>; <strong>Jaggaer ESM</strong>; <strong>Ivalua Supplier Risk</strong>; <strong>Project44</strong>; <strong>FourKites</strong>; ana <strong>SCRM</strong> ekosistem oyuncuları olmakta. Ana <strong>tariff management</strong> ve <strong>trade compliance</strong> yazılım sağlayıcıları; <strong>Thomson Reuters ONESOURCE</strong>; <strong>Descartes Systems</strong> (<strong>Edward Ryan</strong> CEO; <strong>Toronto</strong>); <strong>QAD Precision</strong> (<strong>QAD</strong> sahipli; eski <strong>Precision Software</strong>); <strong>Avalara</strong>; <strong>Amber Road</strong> (<strong>E2open</strong> sahipli); <strong>Integration Point</strong>; <strong>Livingston International</strong>; <strong>Expeditors</strong>; <strong>Flexport</strong>; ana <strong>trade compliance</strong> oyuncuları olmakta. <strong>U.S. Customs and Border Protection</strong> (<strong>CBP</strong>); <strong>U.S. Trade Representative</strong> (<strong>USTR</strong>; <strong>Jamieson Greer</strong> Trump 2.0); ana ABD ticaret otoriteleri olmakta.</p>
+<p><br></p>
+<p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında ana <strong>CSCO</strong> risk yönetimi öncelikleri 2025; (1) <strong>Trump</strong> tarifeleri (Çin; Mexico; Canada; AB; sektörel); (2) <strong>USMCA</strong> 2026 inceleme belirsizliği; (3) <strong>Red Sea</strong> ve <strong>Suez Canal</strong> aksaklıkları (<strong>Houthi</strong>); (4) <strong>Panama Canal</strong> kuraklığı ve sahiplik (<strong>BlackRock</strong>); (5) <strong>Taiwan Strait</strong> jeopolitik gerilimi; (6) <strong>Russia-Ukraine</strong> savaşı uzaması; (7) iklim ve doğal afetler; (8) siber güvenlik (<strong>NotPetya</strong>; <strong>SolarWinds</strong>; <strong>Colonial Pipeline</strong>); (9) <strong>HPAI</strong> ve gıda güvenliği; (10) yetenek ve işgücü zorlukları; ana 10 <strong>CSCO</strong> risk önceliği olmakta. Ana <strong>SCRM</strong> framework&rsquo;ları; <strong>ISO 31000</strong> (Risk Management); <strong>NIST SP 800-161</strong> (Supply Chain Risk Management); <strong>SCOR Model</strong> (<strong>Supply Chain Operations Reference</strong>; <strong>ASCM</strong>); <strong>SCRMC Council</strong> (Supply Chain Risk Management Consortium); ana endüstri standartları olmakta. Ana <strong>resilience</strong> tasarım stratejileri; (1) <strong>multi-sourcing</strong>; (2) <strong>nearshoring</strong>/<strong>friend-shoring</strong>; (3) <strong>strategic stockpiling</strong>; (4) <strong>visibility</strong> (<strong>SCCT</strong>; <strong>n-tier</strong>); (5) <strong>scenario planning</strong> (<strong>FTI Consulting</strong>; <strong>Kearney</strong>; <strong>BCG</strong>); (6) <strong>digital twins</strong>; (7) <strong>AI risk monitoring</strong>; ana stratejiler olmakta. Sonuç olarak <strong>SCB Think Tank</strong>&rsquo;ın <strong>CSCO</strong> risk yönetimi savunması; küresel olarak <strong>Trump</strong> 2.0 tarif belirsizliği temelden hızlanmakta &mdash; tedarik zinciri yöneticileri için <strong>multi-sourcing</strong>; <strong>nearshoring</strong>; <strong>visibility</strong>; <strong>scenario planning</strong>; ana stratejik öncelikler olmakta gibi görünmekta.</p>
+<p><br></p>
+<p><strong>Önemli Notlar:</strong><br>
+1. <strong>SCB Think Tank</strong>; <strong>CSCO</strong> risk yönetimi tarif belirsizliği olmakta.<br>
+2. <strong>Gartner</strong> anketi; tedarik zinciri liderlerinin %82&rsquo;si yanlış risklere kaynak ayırmakta.<br>
+3. %18 karlılık düşüşü; yanlış risk tahsis etkisi olmakta.<br>
+4. <strong>Resilinc</strong>; <strong>Everstream</strong>; <strong>Interos</strong>; ana <strong>SCRM</strong> yazılım sağlayıcıları olmakta.<br>
+5. <strong>Multi-sourcing</strong>; <strong>nearshoring</strong>; <strong>visibility</strong>; ana <strong>resilience</strong> stratejileri olmakta.</p>
+<p>---<br>
+<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41210-cscos-must-strengthen-risk-management-amid-global-tariff-uncertainty"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41210-cscos-must-strengthen-risk-management-amid-global-tariff-uncertainty</u></a><br>
+-------------------</p>
+<p><strong>!!! DUYURU !!!</strong></p>
+<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
+<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
+<p><br></p>
+<p>[41210]</p>
