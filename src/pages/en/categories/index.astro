@@ -12,6 +12,10 @@ for (const c of CATS) counts[c] = 0;
 for (const entry of all) {
   const c = entry.data.category;
   if (c in counts) counts[c]++;
+  const secs = entry.data.secondaryCategories ?? [];
+  for (const s of secs) {
+    if (s in counts && s !== c) counts[s]++;
+  }
 }
 
 const ICONS: Record<string, string> = {

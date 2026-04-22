@@ -10,7 +10,8 @@ export async function getStaticPaths() {
   return cats.map(cat => ({ params: { category: categorySlug(cat) }, props: { cat } }));
 }
 const { cat } = Astro.props;
-const all = (await getCollection('news-en', ({ data }) => data.category === cat && !data.draft))
+const all = (await getCollection('news-en', ({ data }) =>
+    (data.category === cat || (data.secondaryCategories ?? []).includes(cat)) && !data.draft))
   .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
 const label = categoryLabel[cat].en;
 ---

@@ -13,6 +13,7 @@ const newsSchema = z.object({
   subtitle: z.string().optional(),
   date: z.coerce.date(),
   category: z.enum(CATEGORIES),
+  secondaryCategories: z.array(z.enum(CATEGORIES)).default([]),
   image: z.string().optional(),
   imageAlt: z.string().optional(),
   sourceUrl: z.string().url().optional(),
