@@ -1,0 +1,38 @@
+---
+title: "Italy Presses Fashion Giants in Labor Abuse Probe"
+subtitle: "Milan Prosecutors: 13 Luxury Brands Lack Governance and Internal Controls; Chinese Workers Face Severe Exploitation Including Excessive Hours, Low Wages, Degrading Housing and Unsafe Conditions; Tod's Under Initial Scrutiny for \"Willful Blindness\"; Dolce & Gabbana, Versace, Prada, Gucci, Adidas Italy; Marche Region"
+date: "2026-04-22T03:00:00Z"
+category: "Tedarik Zinciri"
+image: "https://www.supplychainbrain.com/ext/resources/2025/12/04/gucci-italian-fashion-iStock-2226860329.webp"
+imageAlt: "A white sign with black borders displaying the word GUCCI in large black letters above a storefront"
+sourceUrl: "https://www.supplychainbrain.com/articles/42940-italy-presses-fashion-giants-in-labor-abuse-probe"
+newsSequence: 42940
+author: "Sedat Onat"
+translated: true
+draft: false
+secondaryCategories: "['Lojistik']"
+tags: "['Italy', 'işçi istismarı', \"Tod's\", 'Dolce & Gabbana', 'Versace', 'Prada', 'Gucci', 'Adidas Italy']"
+---
+
+<p style="text-align: justify"><strong>Italian</strong> prosecutors are requesting governance and internal control documents from 13 luxury fashion brands as part of an investigation into allegations that companies are complicit in the exploitation of <strong>Chinese</strong> workers at subcontractor workshops. <strong>Associated Press</strong> reports that the investigation points to "severe exploitation" of <strong>Chinese</strong> workers — encompassing hours exceeding labor limits, low wages, degrading housing and unsafe workplace conditions. Although the investigation initially focused on luxury group <strong>Tod's</strong>, prosecutors in <strong>Milan, Italy</strong> have also ordered <strong>Dolce & Gabbana</strong>, <strong>Versace</strong>, <strong>Prada</strong>, <strong>Gucci</strong> and <strong>Adidas Italy</strong> to submit internal audit documents to determine whether these companies were complicit in the alleged worker exploitation. From a supply chain perspective, the <strong>Made in Italy</strong> label represents one of the global luxury industry's core premium signatures — yet worker conditions in sub-supplier tiers frequently escape scrutiny.</p>
+<p><br></p>
+<p style="text-align: justify">Although the investigation initially launched on November 20, prosecutors allege that <strong>Tod's</strong> was fully aware of and complicit in the exploitation of <strong>Chinese</strong> workers at facilities in <strong>Milan</strong> and the <strong>Marche</strong> region. Legal filings accuse the company of practicing "willful blindness" — conducting third-party audits of workshops but failing to address any issues the audits uncovered. <strong>Tod's</strong> has since denied any misconduct. From a supply chain perspective, <strong>Tod's S.p.A.</strong>, originated in <strong>Sant'Elpidio a Mare</strong> and was founded in 1900 by <strong>Filippo Della Valle</strong>, and is currently chaired by <strong>Diego Della Valle</strong>. <strong>Tod's</strong> owns the brands <strong>Hogan</strong>, <strong>Fay</strong> and <strong>Roger Vivier</strong>. <strong>Marche</strong>, <strong>Tuscany</strong> and <strong>Veneto</strong> are the primary regions for <strong>Italian</strong> leather goods and footwear manufacturing hubs.</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, the global luxury industry encompasses major players including <strong>LVMH Moët Hennessy Louis Vuitton</strong> (<strong>Bernard Arnault</strong>); <strong>Kering</strong> (<strong>Pinault</strong>, <strong>Gucci</strong>, <strong>Saint Laurent</strong>, <strong>Bottega Veneta</strong>, <strong>Balenciaga</strong>); <strong>Richemont</strong> (<strong>Cartier</strong>, <strong>Van Cleef & Arpels</strong>, <strong>Montblanc</strong>); <strong>Hermès</strong>; <strong>Chanel</strong> (private); <strong>Prada Group</strong>; <strong>Capri Holdings</strong> (<strong>Versace</strong>, <strong>Jimmy Choo</strong>, <strong>Michael Kors</strong>); <strong>Tapestry</strong> (<strong>Coach</strong>, <strong>Kate Spade</strong>, <strong>Stuart Weitzman</strong>); <strong>Burberry</strong>; <strong>Salvatore Ferragamo</strong>; <strong>Moncler</strong>; <strong>Brunello Cucinelli</strong>; <strong>Tod's</strong>; and <strong>Dolce & Gabbana</strong> (private). <strong>Italy</strong> accounts for more than 50% of global luxury leather and fashion production. <strong>Capri Holdings</strong> has agreed to sell <strong>Versace</strong> to <strong>Prada Group</strong> in 2025 for $1.4 billion. <strong>Adidas Italy</strong> is the <strong>Italian</strong> subsidiary of <strong>Adidas AG</strong>.</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, <strong>worker exploitation</strong>, <strong>caporalato</strong> (the legal term in <strong>Italy</strong> for labor intermediation abuse), <strong>modern slavery</strong>, <strong>forced labor</strong> and <strong>human trafficking</strong> represent among the deepest social issues in global supply chains. Leading modern supply chain due diligence regulations include the <strong>UK Modern Slavery Act 2015</strong>; the <strong>California Transparency in Supply Chains Act</strong> (<strong>SB 657</strong>); the <strong>French Duty of Vigilance Law</strong> (2017); the <strong>German Supply Chain Due Diligence Act</strong> (<strong>LkSG</strong>, 2023); the <strong>Norwegian Transparency Act</strong>; the <strong>EU CSDDD</strong> (<strong>Corporate Sustainability Due Diligence Directive</strong>, 2024); and the <strong>UFLPA</strong> (<strong>U.S. Uyghur Forced Labor Prevention Act</strong>, 2022). Leading social audit frameworks include <strong>SA8000</strong>, <strong>SMETA</strong> (<strong>Sedex</strong>), <strong>amfori BSCI</strong>, <strong>WRAP</strong>, and <strong>FLA</strong> (<strong>Fair Labor Association</strong>). Leading modern worker-centric monitoring approaches include <strong>Lever for Change</strong>, <strong>SLCP</strong> (<strong>Social & Labor Convergence Program</strong>), <strong>Worker Voice technology</strong>, <strong>Ulula</strong>, <strong>&Wider</strong>, and <strong>Issara Institute</strong>. In conclusion, the <strong>Italian</strong> prosecutors' investigation into 13 luxury brands represents a tangible indicator of an era in which supply chain due diligence is gaining legal enforceability.</p>
+<p><br></p>
+<p><strong>Key Points:</strong><br>
+1. <strong>Italy</strong> is requesting worker exploitation documentation from 13 luxury brands.<br>
+2. <strong>Tod's</strong> is the initial investigation target as of November 20.<br>
+3. <strong>Dolce & Gabbana</strong>, <strong>Versace</strong>, <strong>Prada</strong>, <strong>Gucci</strong>, and <strong>Adidas Italy</strong> are included in the probe.<br>
+4. <strong>Chinese</strong> workers face severe exploitation in hours, wages, housing and safety.<br>
+5. <strong>Tod's</strong> denies all misconduct allegations.</p>
+<p>---<br>
+<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42940-italy-presses-fashion-giants-in-labor-abuse-probe"><u>https://www.supplychainbrain.com/articles/42940-italy-presses-fashion-giants-in-labor-abuse-probe</u></a><br>
+-------------------</p>
+<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
+<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
+<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free through this link.</p>
+<p><br></p>
+<p>[42940]</p>
