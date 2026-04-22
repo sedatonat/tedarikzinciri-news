@@ -66,6 +66,28 @@ try:
 except Exception:
     pass
 
+# Patch httpx header normalization BEFORE anthropic imports it.
+# Python 3.9 on Turkish-locale macOS sometimes pulls non-ASCII chars into
+# the SDK's auto-generated User-Agent (platform strings). httpx then rejects
+# the header because its default encoding is ASCII. Fall back to latin-1
+# which accepts every byte and is RFC-safe for header values.
+try:
+    import httpx._models as _hm  # type: ignore
+
+    _orig_nhv = getattr(_hm, "_normalize_header_value", None)
+    if _orig_nhv is not None:
+        def _safe_normalize_header_value(value, encoding=None):
+            if isinstance(value, bytes):
+                return value
+            try:
+                return value.encode(encoding or "ascii")
+            except UnicodeEncodeError:
+                return value.encode("latin-1", errors="replace")
+
+        _hm._normalize_header_value = _safe_normalize_header_value  # type: ignore[attr-defined]
+except Exception as _patch_exc:
+    print(f"WARNING: could not patch httpx header encoder: {_patch_exc}", file=sys.stderr)
+
 try:
     import anthropic
 except ImportError:
@@ -86,7 +108,11 @@ LIMIT = int(os.environ.get("LIMIT", "0")) or None
 DRY_RUN = os.environ.get("DRY_RUN") == "1"
 FORCE = os.environ.get("FORCE") == "1"
 
-client = anthropic.Anthropic()
+# Override SDK User-Agent with a plain-ASCII value so any locale-tainted
+# platform string in the auto-generated UA can't poison HTTP headers.
+client = anthropic.Anthropic(
+    default_headers={"User-Agent": "anthropic-python-autotag/1.0"},
+)
 
 # ---------------------------------------------------------------------------
 # Frontmatter helpers
