@@ -22,6 +22,35 @@ if [ -z "$ANTHROPIC_API_KEY" ] && [ -f "$HOME/.zshrc" ]; then
   eval "$(grep -E '^[[:space:]]*export[[:space:]]+ANTHROPIC_API_KEY=' "$HOME/.zshrc" 2>/dev/null)"
 fi
 
+# Deep key-format validation: reject garbage inherited from a corrupted .zshrc
+# (e.g. multiple pastes concatenated into one line). A clean key has exactly ONE
+# 'sk-ant-' prefix and is ~100-130 chars.
+validate_key() {
+  local k="$1"
+  [ -z "$k" ] && return 1
+  case "$k" in
+    sk-ant-*) ;;
+    *) return 1 ;;
+  esac
+  local prefix_count
+  prefix_count=$(printf "%s" "$k" | grep -o 'sk-ant-' | wc -l | tr -d ' ')
+  [ "$prefix_count" = "1" ] || return 1
+  local len=${#k}
+  [ "$len" -ge 100 ] && [ "$len" -le 140 ] || return 1
+  # No whitespace inside
+  case "$k" in
+    *[[:space:]]*) return 1 ;;
+  esac
+  return 0
+}
+
+# If inherited key from .zshrc is malformed, wipe it so prompt triggers + clean rewrite
+if [ -n "$ANTHROPIC_API_KEY" ] && ! validate_key "$ANTHROPIC_API_KEY"; then
+  echo "NOT: ~/.zshrc'daki ANTHROPIC_API_KEY bozuk gorunuyor (birden fazla yapistirilmis olabilir)."
+  echo "     Temizleyip yeniden soracagim."
+  unset ANTHROPIC_API_KEY
+fi
+
 mkdir -p "$REPO/logs"
 LOG="$REPO/logs/run_tagging_$(date +%Y%m%d_%H%M%S).log"
 
@@ -43,29 +72,38 @@ echo "  PYTHONUTF8=$PYTHONUTF8"
 python3 -c "import sys,locale; print(f'  python={sys.version.split()[0]} stdout={sys.stdout.encoding} locale={locale.getpreferredencoding()}')"
 echo ""
 
-if [ -z "$ANTHROPIC_API_KEY" ] || [[ "$ANTHROPIC_API_KEY" != sk-ant-* ]]; then
+if ! validate_key "$ANTHROPIC_API_KEY"; then
   echo "ANTHROPIC_API_KEY bulunamadi veya gecersiz formatta."
   echo ""
   echo "Anahtari buradan al: https://console.anthropic.com/settings/keys"
-  echo "Asagi yapistir (gizli olarak alinir, ekranda gozukmez)."
+  echo "TEK defa Cmd+V ile yapistir ve Enter'a bas (gizli alinir, ekranda gorunmez)."
   echo ""
-  # Redirect read from /dev/tty so that the exec-tee trick above doesn't eat
-  # our stdin. Without this, read would receive an empty pipe and return
-  # instantly with no input.
-  printf "API Key: "
-  IFS= read -rs ANTHROPIC_API_KEY </dev/tty
-  echo ""
-  echo ""
-  if [ -z "$ANTHROPIC_API_KEY" ] || [[ "$ANTHROPIC_API_KEY" != sk-ant-* ]]; then
-    echo "Gecersiz key (sk-ant- ile baslamali). Cikilayor."
-    exit 1
-  fi
+  # Loop: keep asking until a clean key is entered
+  while true; do
+    # Redirect read from /dev/tty so that the exec-tee trick above doesn't eat
+    # our stdin.
+    printf "API Key: "
+    IFS= read -rs ANTHROPIC_API_KEY </dev/tty
+    echo ""
+    if validate_key "$ANTHROPIC_API_KEY"; then
+      echo "✓ Key formati dogru (uzunluk=${#ANTHROPIC_API_KEY})."
+      break
+    fi
+    echo "! Gecersiz key. Olasi sebepler:"
+    echo "  - sk-ant- ile baslamiyor"
+    echo "  - Birden fazla yapistirilmis (key icinde 'sk-ant-' birden cok kez geciyor)"
+    echo "  - Uzunluk garip (~108 karakter olmali, senin girdigin: ${#ANTHROPIC_API_KEY})"
+    echo "  - Icinde bosluk var"
+    echo "Tekrar dene, sadece TEK defa Cmd+V yap ve hemen Enter'a bas."
+    echo ""
+  done
   export ANTHROPIC_API_KEY
 
   # Persist to ~/.zshrc so the user doesn't have to re-paste on re-runs.
+  # Use grep -E (ERE) for portability — BSD grep's BRE doesn't recognize \+.
   if [ -f "$HOME/.zshrc" ]; then
     cp "$HOME/.zshrc" "$HOME/.zshrc.bak.$(date +%Y%m%d_%H%M%S)"
-    grep -v '^[[:space:]]*export[[:space:]]\+ANTHROPIC_API_KEY=' "$HOME/.zshrc" > "$HOME/.zshrc.tmp" \
+    grep -vE '^[[:space:]]*export[[:space:]]+ANTHROPIC_API_KEY=' "$HOME/.zshrc" > "$HOME/.zshrc.tmp" \
       && mv "$HOME/.zshrc.tmp" "$HOME/.zshrc"
   fi
   echo "export ANTHROPIC_API_KEY=\"$ANTHROPIC_API_KEY\"" >> "$HOME/.zshrc"
