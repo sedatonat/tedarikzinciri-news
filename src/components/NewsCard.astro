@@ -2,7 +2,7 @@
 import { getLangFromUrl, categoryLabel, newsPath } from '../i18n/utils';
 
 interface Props {
-  entry: { slug: string; data: any };
+  entry: { slug: string; body?: string; data: any };
 }
 const { entry } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
@@ -12,10 +12,49 @@ const date = new Date(entry.data.date).toLocaleDateString(
   { day: 'numeric', month: 'short', year: 'numeric' }
 );
 const cat = entry.data.category;
+
+const title: string = typeof entry.data.title === 'string' ? entry.data.title : '';
 const rawSubtitle: string = typeof entry.data.subtitle === 'string' ? entry.data.subtitle : '';
-const subtitle = rawSubtitle.length > 500
-  ? rawSubtitle.slice(0, 500).replace(/\s+\S*$/, '') + '…'
-  : rawSubtitle;
+
+function cleanBody(md: string): string {
+  return md
+    // strip HTML comments
+    .replace(/<!--[\s\S]*?-->/g, ' ')
+    // strip fenced code blocks
+    .replace(/```[\s\S]*?```/g, ' ')
+    // strip HTML tags
+    .replace(/<[^>]+>/g, ' ')
+    // images
+    .replace(/!\[[^\]]*\]\([^)]+\)/g, ' ')
+    // links: keep label, drop URL
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    // headings
+    .replace(/^#{1,6}\s+/gm, '')
+    // list bullets
+    .replace(/^\s*[-+*]\s+/gm, '')
+    // emphasis/quotes/backticks/underscores
+    .replace(/[*_`~>]+/g, ' ')
+    // HTML entities common cases
+    .replace(/&nbsp;/gi, ' ')
+    .replace(/&amp;/gi, '&')
+    .replace(/&lt;/gi, '<')
+    .replace(/&gt;/gi, '>')
+    .replace(/&quot;/gi, '"')
+    // collapse whitespace
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+const normTitle = title.trim().toLowerCase();
+const normSubtitle = rawSubtitle.trim().toLowerCase();
+const hasRealSubtitle = rawSubtitle.length > 0 && normSubtitle !== normTitle;
+
+const bodyText = cleanBody(entry.body ?? '');
+const summary = hasRealSubtitle ? rawSubtitle : bodyText;
+
+const subtitle = summary.length > 500
+  ? summary.slice(0, 500).replace(/\s+\S*$/, '') + '…'
+  : summary;
 ---
 <a href={href} class="group flex flex-col rounded-xl overflow-hidden border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 hover:border-brand-500 transition">
   {entry.data.image && (
