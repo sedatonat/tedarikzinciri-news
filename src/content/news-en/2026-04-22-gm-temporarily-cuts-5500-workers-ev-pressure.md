@@ -1,0 +1,38 @@
+---
+title: "GM Temporarily Cuts 5,500 Workers; Shows EV Pressure"
+subtitle: "Bloomberg/Emily Elconin: General Motors Temporary Layoffs 5,500 Workers Across 3 Facilities; Trump EV Tax Credit Elimination; Factory Zero Detroit 3,400 Summer Furlough; Chevrolet Silverado EV/GMC Sierra EV/Hummer EV; October 29 Announcement; 2,200 January Recall; EV Production Under Review"
+date: "2026-04-22T10:00:00Z"
+category: "Tedarik Zinciri"
+image: "https://www.supplychainbrain.com/ext/resources/2025/10/29/GM-WORKER-ASSEMBLY-PLANT-BLOOMBERG.webp"
+imageAlt: "Worker on assembly line"
+sourceUrl: "https://www.supplychainbrain.com/articles/42750-gm-temporarily-cuts-5-500-workers-citing-ev-pressure"
+newsSequence: 42750
+author: "Sedat Onat"
+translated: true
+draft: false
+secondaryCategories: "['Lojistik']"
+tags: "['General Motors', 'GM', 'EV', 'Trump', 'Factory Zero', 'Bloomberg', 'Detroit', 'işten çıkartma']"
+---
+
+<p style="text-align: justify"><strong>General Motors Co.</strong> has notified approximately 5,500 workers across three facilities that they are being temporarily laid off—the automaker is reassessing electric vehicle production in the wake of President <strong>Donald Trump</strong>'s move to eliminate critical tax credits. In total, the layoffs include 3,400 workers furloughed over the summer at <strong>Factory Zero</strong> in <strong>Detroit</strong>—where electric <strong>Chevrolet Silverado</strong>, <strong>GMC Sierra</strong>, and <strong>Hummer EV</strong> models are produced. The company said it will evaluate how much production is needed on October 29 and recall approximately 2,200 of these workers in January. From a supply chain perspective, <strong>General Motors Company</strong>, headquartered in <strong>Detroit, Michigan</strong> and founded in 1908 by <strong>William C. Durant</strong>, ranks as the world's third-largest automaker behind <strong>Toyota</strong> and <strong>Volkswagen</strong>. <strong>Chevrolet</strong>, <strong>GMC</strong>, <strong>Cadillac</strong>, <strong>Buick</strong>, and <strong>Hummer</strong> are its primary brands. <strong>Mary Barra</strong> has served as GM's CEO since 2014, making her one of the longest-tenured female CEOs in global automotive history. Photo by <strong>Emily Elconin</strong> for <strong>Bloomberg</strong>, taken at a GM assembly facility.</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, <strong>Factory Zero</strong> is located in <strong>Detroit-Hamtramck, Michigan</strong>—rebranded as GM's all-electric production facility. Key models produced at this plant include <strong>Cadillac Celestiq</strong> (bespoke hand-assembled), <strong>Chevrolet Silverado EV</strong>, <strong>GMC Sierra EV</strong> (<strong>Denali</strong>), <strong>GMC Hummer EV Pickup</strong>, and <strong>GMC Hummer EV SUV</strong>. <strong>Ultium</strong> is GM's modular EV platform architecture, utilizing NCMA (Nickel Cobalt Manganese Aluminum) cells. <strong>Ultium Cells LLC</strong>, a 50/50 joint venture between GM and <strong>LG Energy Solution</strong>, operates factories in <strong>Lordstown, Ohio</strong>, <strong>Spring Hill, Tennessee</strong>, and <strong>Lansing, Michigan</strong>. Other key GM EV models include <strong>Chevrolet Equinox EV</strong>, <strong>Chevrolet Blazer EV</strong>, <strong>Cadillac Lyriq</strong>, <strong>Cadillac Escalade IQ</strong>, and <strong>GMC Sierra EV Elevation</strong>. The <strong>Cruise</strong> robotaxi subsidiary shut down in late 2024, with the company shifting its ADAS strategy toward <strong>Super Cruise</strong> and <strong>Ultra Cruise</strong>.</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, U.S. EV tax credits include <strong>IRA</strong> (Inflation Reduction Act, 2022); <strong>Section 30D</strong> (Clean Vehicle Credit, up to $7,500 for passenger vehicles); <strong>Section 25E</strong> (used EV credit, up to $4,000); <strong>Section 45W</strong> (commercial EV); <strong>Section 30C</strong> (charging infrastructure, up to $100,000); and <strong>Section 45X</strong> (Advanced Manufacturing Production Credit, incentives for battery cell and module manufacturers). <strong>Trump 2.0</strong> is eliminating the <strong>Section 30D</strong> credit in October 2025, creating an immediate negative impact on EV demand. The foreign entity of concern (FEOC) rule bars EVs using Chinese-linked suppliers from claiming credits. Major EV manufacturers selling in the U.S. include <strong>Tesla</strong>, <strong>GM</strong>, <strong>Ford</strong>, <strong>Hyundai</strong>, <strong>Kia</strong>, <strong>Honda</strong>, <strong>Nissan</strong>, <strong>Toyota</strong>, <strong>Stellantis</strong>, <strong>Rivian</strong>, <strong>Lucid</strong>, <strong>Polestar</strong>, <strong>Volvo</strong>, <strong>Mercedes-Benz</strong>, <strong>BMW</strong>, <strong>Volkswagen</strong>, <strong>Audi</strong>, and <strong>Porsche</strong>. In 2025, the U.S. EV market share is tracking near 10 percent—significantly trailing the EU (~20 percent) and China (50+ percent).</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, the <strong>UAW</strong> (United Auto Workers) is the primary union signing contracts with <strong>GM</strong>, <strong>Ford</strong>, and <strong>Stellantis</strong>—the <strong>Detroit Big Three</strong>. In 2023, the UAW secured a historic 25 percent wage increase through a major strike, with <strong>Shawn Fain</strong> taking the union's helm. Unionizing EV facilities and foreign plants operated by <strong>Tesla</strong>, <strong>Hyundai</strong>, and <strong>Toyota</strong> remains a UAW priority. The <strong>Ultium Cells Lordstown</strong> facility has been unionized by the UAW. Key employment categories include furlough, temporary layoff, indefinite layoff, and permanent layoff. <strong>SUB</strong> (Supplemental Unemployment Benefits) under UAW contracts guarantees up to 95 percent of wages during unemployment periods. The <strong>WARN Act</strong> (Worker Adjustment and Retraining Notification) requires 60 days' advance notice for mass layoffs affecting 100+ workers. <strong>Michigan</strong>, <strong>Ohio</strong>, <strong>Indiana</strong>, <strong>Tennessee</strong>, <strong>Kentucky</strong>, <strong>Alabama</strong>, <strong>Georgia</strong>, and <strong>South Carolina</strong> are the U.S.'s primary automotive production states. In summary, GM's temporary layoff of 5,500 workers is a clear indicator of the net impact of slowing EV demand and the removal of IRA incentives on employment.</p>
+<p><br></p>
+<p><strong>Key Takeaways:</strong><br>
+1. GM is temporarily laying off approximately 5,500 workers across three facilities.<br>
+2. <strong>Factory Zero Detroit</strong> is the primary impact point with 3,400 workers.<br>
+3. <strong>Chevrolet Silverado EV</strong>, <strong>GMC Sierra EV</strong>, and <strong>Hummer EV</strong> are the primary affected models.<br>
+4. Trump's move to eliminate EV tax credits is the primary driver.<br>
+5. Approximately 2,200 workers are planned to be recalled in January.</p>
+<p>---<br>
+<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42750-gm-temporarily-cuts-5-500-workers-citing-ev-pressure"><u>https://www.supplychainbrain.com/articles/42750-gm-temporarily-cuts-5-500-workers-citing-ev-pressure</u></a><br>
+-------------------</p>
+<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
+<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
+<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
+<p><br></p>
+<p>[42750]</p>
