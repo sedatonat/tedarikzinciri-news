@@ -37,7 +37,6 @@ export const ui = {
     'pagination.prev': 'Önceki',
     'pagination.next': 'Sonraki',
     'pagination.page': 'Sayfa',
-    'comments.title': 'Yorumlar',
     'search.title': 'Haberlerde Ara'
   },
   en: {
@@ -74,7 +73,6 @@ export const ui = {
     'pagination.prev': 'Previous',
     'pagination.next': 'Next',
     'pagination.page': 'Page',
-    'comments.title': 'Comments',
     'search.title': 'Search News'
   }
 } as const;

@@ -103,33 +103,5 @@ const jsonLd = {
         <p><strong>{t('news.sourceLink')}:</strong> <a href={frontmatter.sourceUrl} rel="noopener nofollow" target="_blank">{frontmatter.sourceUrl}</a></p>
       </footer>
     )}
-
-    {/* Giscus comments (GitHub Discussions) — loads only if PUBLIC_GISCUS_REPO is configured */}
-    <section class="mt-12 pt-8 border-t border-ink-200 dark:border-ink-800">
-      <h2 class="text-2xl font-semibold mb-4">{t('comments.title')}</h2>
-      <div id="giscus-container"></div>
-    </section>
-    <script is:inline define:vars={{ lang }}>
-      (function () {
-        const repo = "sedatonat/tedarikzinciri-news";
-        if (!repo || repo.startsWith("__")) return; // not configured
-        const s = document.createElement('script');
-        s.src = 'https://giscus.app/client.js';
-        s.setAttribute('data-repo', repo);
-        s.setAttribute('data-repo-id', 'R_kgDOSH79uA');
-        s.setAttribute('data-category', 'Announcements');
-        s.setAttribute('data-category-id', 'DIC_kwDOSH79uM4C7Wqz');
-        s.setAttribute('data-mapping', 'pathname');
-        s.setAttribute('data-strict', '1');
-        s.setAttribute('data-reactions-enabled', '1');
-        s.setAttribute('data-emit-metadata', '0');
-        s.setAttribute('data-input-position', 'bottom');
-        s.setAttribute('data-theme', 'preferred_color_scheme');
-        s.setAttribute('data-lang', lang === 'tr' ? 'tr' : 'en');
-        s.crossOrigin = 'anonymous';
-        s.async = true;
-        document.getElementById('giscus-container').appendChild(s);
-      })();
-    </script>
   </article>
 </BaseLayout>
