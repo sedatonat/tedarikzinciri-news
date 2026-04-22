@@ -1,0 +1,39 @@
+---
+title: "IMO Prepares Hormuz Evacuation Plan for Hundreds of Ships"
+subtitle: "Dominguez Statement: 800 Ships Stranded; 1968 Traffic Separation Scheme in Use; Mine Risk Under Review; Humanitarian Corridor Emphasized"
+date: "2026-04-22T08:00:00Z"
+category: "Tedarik Zinciri"
+image: "https://www.supplychainbrain.com/ext/resources/2026/04/02/SHIPS-TANKERS-HORMUZ-BLOOMBERG.webp"
+imageAlt: "Multiple ships appear to transit through waters with a coastline visible in the background"
+sourceUrl: "https://www.supplychainbrain.com/articles/43903-imo-prepares-hormuz-evacuation-plan-for-hundreds-of-ships"
+newsSequence: 43903
+author: "Sedat Onat"
+translated: true
+draft: false
+secondaryCategories: "['Lojistik']"
+tags: "['IMO', 'Hürmüz Boğazı', 'Arsenio Dominguez', 'Singapore Maritime Week', 'denizcilik güvenliği', 'mayın riski', 'insani koridor', 'Iran savaşı']"
+---
+
+<p style="text-align: justify"><strong>The International Maritime Organization (IMO)</strong> is working on an evacuation plan for hundreds of ships stranded in the <strong>Persian Gulf</strong> since <strong>U.S.</strong> and <strong>Israeli</strong> strikes on <strong>Iran</strong> began more than seven weeks ago. This information is based on a statement by Secretary-General <strong>Arsenio Dominguez</strong>. The plan can only be implemented once there are clear signs of <strong>de-escalation</strong>. <strong>Dominguez</strong> spoke on the sidelines of <strong>Singapore Maritime Week</strong> on April 21. The United Nations agency must also determine whether mines have been laid before sending ships through the strait. From a supply chain perspective, the critical role of <strong>SOLAS</strong> (<strong>Safety of Life at Sea</strong>) and <strong>STCW</strong> frameworks in evacuation operations requires high-complexity coordination between <strong>flag state</strong> and <strong>port state</strong> authorities.</p>
+<p><br></p>
+<p style="text-align: justify"><strong>Dominguez</strong> stated: "<strong>In order for us to do anything at all, we need to make sure that the conflict has come to an end, that there's no threats of any ships being attacked and that the region is clear from any hazards, including mines</strong>." Approximately 800 ships remain stranded in the <strong>Persian Gulf</strong> after traffic through the <strong>Strait of Hormuz</strong> dropped to a trickle following the outbreak of fighting. <strong>Tehran</strong>'s threats and attacks on vessels have made most shipowners too anxious to attempt transit. However, the <strong>Islamic Republic</strong> has allowed some ships following approved routes to depart and in some cases demands payment. From a supply chain perspective, the accumulated capacity of 800 ships has created a striking bottleneck in the tonnage distribution of <strong>VLCC</strong>, <strong>Suezmax</strong>, and <strong>Aframax</strong> tankers. Insurance valuations based on <strong>scrap value</strong> and <strong>laytime/demurrage</strong> calculations impose serious financial burdens on the parties involved.</p>
+<p><br></p>
+<p style="text-align: justify">The <strong>U.S.</strong>'s own blockade of the strait designed to cut off revenue to <strong>Iran</strong> for war makes the situation even more dangerous. Details of the evacuation plan under discussion include a departure sequence for ships based on how long crews have been stranded. <strong>Dominguez</strong> indicates that any transit will follow the long-established route: the <strong>Traffic Separation Scheme</strong> — a corridor proposed by <strong>Iran</strong> and <strong>Oman</strong> and adopted by the <strong>IMO</strong> in 1968. From a supply chain perspective, the <strong>TSS</strong> (<strong>Traffic Separation Scheme</strong>) is regulated under COLREG (<strong>Collision Regulations</strong>) Rule 10 and operates with separate <strong>inbound</strong>/<strong>outbound</strong> corridors. Mine-clearing operations require coordination of <strong>MCMV</strong> (<strong>Mine Counter Measure Vessel</strong>) ships; the <strong>U.S. Navy</strong>, <strong>Royal Navy</strong>, <strong>Marine Nationale</strong>, and the <strong>Combined Maritime Forces (CMF)</strong> based in <strong>Bahrain</strong> can play active roles in this task.</p>
+<p><br></p>
+<p style="text-align: justify"><strong>Dominguez</strong> also emphasizes that the evacuation is being carried out for humanitarian purposes: "<strong>This is about the seafarers. This is about the people. Because if we actually start looking into the cargo, the values, the commodities, et cetera, then this is not going to work. The decision of the council was very clear. It's a humanitarian corridor to evacuate the seafarers from the region</strong>." From a supply chain perspective, this humanitarian corridor-first approach requires that <strong>cargo</strong> and <strong>commodity</strong> flows be deliberately placed in a secondary position. This situation leads to prolonged application of <strong>force majeure</strong> and <strong>off-hire</strong> clauses in <strong>charter party</strong> contracts. <strong>P&amp;I Club</strong> compensation for <strong>blocking and trapping</strong> risk and <strong>war risk</strong> insurance policies become the main reference points for post-evacuation accounting. Ultimately, the <strong>IMO</strong>'s plan is recorded as official documentation of <strong>Iran</strong> conflict escalating into a global maritime crisis and clearly demonstrates that crew safety takes precedence over commercial concerns.</p>
+<p><br></p>
+<p><strong>Key Points:</strong><br>
+1. <strong>IMO</strong> is preparing an evacuation plan for approximately 800 ships stranded in the <strong>Persian Gulf</strong>.<br>
+2. The plan can only be implemented after the conflict ends and the region is cleared of hazards, including mines.<br>
+3. Transits will be conducted via the <strong>Traffic Separation Scheme</strong> adopted by <strong>IMO</strong> in 1968.<br>
+4. <strong>Dominguez</strong> characterizes the evacuation as a crew-focused humanitarian corridor.<br>
+5. The <strong>U.S.</strong> blockade of the strait makes the situation even more dangerous.</p>
+<p>---<br>
+<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43903-imo-prepares-hormuz-evacuation-plan-for-hundreds-of-ships"><u>https://www.supplychainbrain.com/articles/43903-imo-prepares-hormuz-evacuation-plan-for-hundreds-of-ships</u></a><br>
+-------------------</p>
+<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
+<p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>
+<p>#What is ERP?</p>
+<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge via this link.</p>
+<p><br></p>
+<p>[43903]</p>

@@ -1,0 +1,39 @@
+---
+title: "U.S. to Partner with Philippines on Industrial Hub"
+subtitle: "1,619-Hectare Luzon Economic Corridor: 'Economic Security Zone' Provides Access to Critical Minerals; Nickel, Copper, Chromite, Cobalt Emerge as Strategic Advantages"
+date: "2026-04-22T09:00:00Z"
+category: "Tedarik Zinciri"
+image: "https://www.supplychainbrain.com/ext/resources/2026/04/21/united-states-philippines-iStock-1093305118.webp"
+imageAlt: "Flags of the Philippines and the United States displayed side by side"
+sourceUrl: "https://www.supplychainbrain.com/articles/43902-us-to-partner-with-philippines-on-industrial-hub"
+newsSequence: 43902
+author: "Sedat Onat"
+translated: true
+draft: false
+secondaryCategories: "['Lojistik']"
+tags: "['ABD', 'Filipinler', 'Luzon Ekonomik Koridoru', 'kritik mineraller', 'Indo-Pacific', 'nikel', 'kobalt', 'ekonomik güvenlik bölgesi']"
+---
+
+<p style="text-align: justify"><strong>United States</strong> and <strong>Philippines</strong> are planning to establish a 4,000-acre (approximately 1,619 hectare) industrial center designed to support <strong>American</strong> supply chains for critical materials. According to a <strong>U.S. Department of State</strong> announcement dated April 16, the center will be located in the <strong>Luzon Economic Corridor</strong> on the Philippine island of <strong>Luzon</strong>. Described as the first of its kind, this new "<strong>economic security zone</strong>" will serve as the first node in a broader global industrial network encompassing multiple manufacturing facilities spanning multiple continents, logistics corridors, and financial partnerships. From a supply chain perspective, the concepts of <strong>friend-shoring</strong> and <strong>ally-shoring</strong> go beyond <strong>nearshoring</strong> strategy and demonstrate the formal structuring of alternative manufacturing networks to <strong>China</strong> in the <strong>Indo-Pacific</strong>. The <strong>Critical Minerals Security Partnership (MSP)</strong> and <strong>Indo-Pacific Economic Framework (IPEF)</strong> frameworks form the diplomatic foundation of this structure.</p>
+<p><br></p>
+<p style="text-align: justify">The <strong>State Department</strong> states: "<strong>It is expected to serve as a purpose-built platform for allied manufacturing — an investment acceleration hub where the specific industrial activities are shaped by market demand, host-country comparative advantages, and the evolving needs of the allied network</strong>". This statement clearly demonstrates that the center will house state-of-the-art manufacturing facilities and operate on an investment acceleration logic. From a supply chain perspective, the <strong>purpose-built</strong> zone concept is viewed as a next-generation version of the <strong>special economic zone (SEZ)</strong> regime. <strong>Customs duty</strong>, <strong>VAT</strong>, and <strong>income tax</strong> incentives serve as the primary driver accelerating tier-1 supplier facility establishment decisions; with an <strong>infrastructure-as-a-service</strong> model, factory setup timelines can be compressed to 12-18 months.</p>
+<p><br></p>
+<p style="text-align: justify">The <strong>State Department</strong> notes that the economic zone will provide better access to the <strong>U.S.</strong> workforce in the <strong>Philippines</strong>, mineral resources, energy sources, and a strategically positioned geographic foothold for trade in the <strong>Indo-Pacific</strong> region. <strong>Philippines</strong> possesses significant reserves of <strong>nickel</strong>, <strong>copper</strong>, <strong>chromite</strong>, and <strong>cobalt</strong>, which are key inputs for batteries, electronics, steel, and other basic industrial products. From a supply chain perspective, <strong>Philippines</strong> supplies approximately 12-13 percent of global <strong>nickel</strong> production and represents one of the primary raw material sources for <strong>NMC</strong> (<strong>Nickel-Manganese-Cobalt</strong>) and <strong>NCA</strong> (<strong>Nickel-Cobalt-Aluminum</strong>) chemistries in <strong>EV battery cathode</strong> production. Following <strong>Indonesia's</strong> <strong>nickel</strong> export ban, the search for alternative supply sources has placed Philippine reserves at the center of strategic positioning.</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, the location on <strong>Luzon</strong> is proximate to the <strong>Manila</strong> and <strong>Subic Bay</strong> port complexes and integrates with <strong>Pacific</strong> mainline service calls across the <strong>South China Sea</strong>. The <strong>Sangley Point</strong> and <strong>Clark</strong> air-land integrated logistics infrastructure enables this center to provide <strong>air-to-sea</strong> transfer capacity for high-value and time-sensitive manufacturing products. On the <strong>U.S.</strong> side, the region is expected to connect to <strong>West Coast</strong> port gateways, specifically the <strong>Los Angeles</strong>-<strong>Long Beach</strong> complex and the <strong>Tacoma</strong>-<strong>Seattle</strong> corridor. In summary, the <strong>U.S.</strong>-<strong>Philippines</strong> industrial center partnership represents a new example of the <strong>China-plus-one</strong> strategy translating into concrete infrastructure investment and is accelerating the reshaping of global manufacturing geography in the <strong>Indo-Pacific</strong>.</p>
+<p><br></p>
+<p><strong>Key Highlights:</strong><br>
+1. A 4,000-acre industrial center is planned on <strong>Luzon</strong>.<br>
+2. The center is the first of its kind "economic security zone" and serves as the first node in the global network.<br>
+3. The <strong>State Department</strong> characterizes it as a purpose-built platform for <strong>allied manufacturing</strong>.<br>
+4. <strong>Philippines</strong> is strategically positioned with reserves of <strong>nickel</strong>, <strong>copper</strong>, <strong>chromite</strong>, and <strong>cobalt</strong>.<br>
+5. It is valued as a geographic foothold for trade in the <strong>Indo-Pacific</strong>.</p>
+<p>---<br>
+<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43902-us-to-partner-with-philippines-on-industrial-hub"><u>https://www.supplychainbrain.com/articles/43902-us-to-partner-with-philippines-on-industrial-hub</u></a><br>
+-------------------</p>
+<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
+<p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
+<p>#What is ERP?</p>
+<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it free of charge through this link.</p>
+<p><br></p>
+<p>[43902]</p>
