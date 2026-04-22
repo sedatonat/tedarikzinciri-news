@@ -1,5 +1,5 @@
 ---
-import { getLangFromUrl, useTranslations, localizedPath } from '../i18n/utils';
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 const year = new Date().getFullYear();
@@ -8,8 +8,8 @@ const year = new Date().getFullYear();
   <div class="container-wide py-10 text-sm text-ink-500 dark:text-ink-400 flex flex-col sm:flex-row gap-4 justify-between">
     <p>&copy; {year} {t('site.title')}. {t('footer.rights')}</p>
     <nav class="flex gap-4">
-      <a href={localizedPath(lang, '/hakkinda')} class="hover:text-brand-600">{t('footer.about')}</a>
-      <a href={localizedPath(lang, '/iletisim')} class="hover:text-brand-600">{t('footer.contact')}</a>
+      <a href="https://sedatonat.com" target="_blank" rel="noopener noreferrer" class="hover:text-brand-600">{t('footer.about')}</a>
+      <a href="mailto:info@sedatonat.com" class="hover:text-brand-600">{t('footer.contact')}</a>
       <a href={lang === 'tr' ? '/rss.xml' : '/en/rss.xml'} class="hover:text-brand-600">{t('footer.rss')}</a>
     </nav>
   </div>
