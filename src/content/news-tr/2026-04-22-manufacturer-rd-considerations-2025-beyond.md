@@ -1,0 +1,46 @@
+---
+title: "Üreticiler için 2025 ve Ötesi Ar-Ge Değerlendirmeleri"
+subtitle: "SCB/iStock ATHVisions 2148178472: Manufacturer R D Consideration 2025 Beyond; SupplyChainBrain SCB Think Tank Analyst Insight; Innovation Lifeblood Manufacturing Result Manufacturer Conduct Research Develop New Product Enhancement Production Efficiency Regular Basis Keep Up Stay Ahead Competitor; Federal Credit Increasing Research Expense R D Credit Help Offset Some Expense Associate These Effort; Most Manufacturer Likely Quite Familiar R D Credit Few Key Update Manufacturer Top Mind 2025 Beyond; January 2025 IRS Internal Revenue Service Publish Final Version"
+date: '2026-04-22T23:59:30Z'
+category: Tedarik Zinciri
+secondaryCategories:
+  - Lojistik
+image: https://www.supplychainbrain.com/ext/resources/2025/03/15/RESEARCH-DEVELOPMENT-COLLABORATION-OFFICE-WORKERS-iStock-ATHVisions-2148178472.jpg
+imageAlt: Bir Ar-Ge laboratuvarında bir grup mühendis bilgisayarda çalışmakta
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/41280-manufacturer-r-and-d-considerations-for-2025-and-beyond
+newsSequence: 41280
+author: Sedat Onat
+translated: false
+draft: false
+tags:
+- Ar-Ge
+- vergi
+- IRS
+- imalat
+- Section 174
+- inovasyon
+- R&D Credit
+- Form 6765
+---
+<p style="text-align: justify"><strong>SupplyChainBrain</strong> raporlamakta; <strong>SCB Think Tank</strong>; analist görüşü; inovasyon; üretimin can damarı olmakta. Sonuç olarak; üreticiler; rakipleriyle yetişmek &mdash; veya önde kalmak &mdash; için düzenli bir esas üzerinde araştırma yapmak ve yeni ürünler; iyileştirmeler ve üretim verimlilikleri geliştirmek zorunda kalmakta. Genellikle <strong>R&amp;D Credit</strong> olarak adlandırılan <strong>Federal Credit for Increasing Research Expenses</strong>; bu çabalarla ilgili bazı masrafları dengelemeye yardımcı olabilir. Çoğu üretici <strong>R&amp;D Credit</strong>&rsquo;e oldukça aşina olsa da; üreticilerin 2025 ve sonrasında akıllarda tutmaları gereken birkaç önemli güncellemeler bulunmakta. Ocak 2025&rsquo;te; <strong>Internal Revenue Service</strong> (<strong>IRS</strong>); <strong>Form 6765</strong>&rsquo;in (<strong>Credit for Increasing Research Activities</strong>) son sürümünü yayınlamakta &mdash; ek bilgi ifşa gereksinimleri olmakta.</p>
+<p><br></p>
+<p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında <strong>U.S. Internal Revenue Service</strong> (<strong>IRS</strong>); <strong>Daniel Werfel</strong> Commissioner (Trump 2.0 değişikliği bekleniyor; <strong>Billy Long</strong> nominee); <strong>Washington DC</strong> kökenli; ana ABD federal vergi otoritesi olmakta. <strong>R&amp;D Tax Credit</strong>; <strong>Internal Revenue Code Section 41</strong> kapsamında olmakta &mdash; 1981&rsquo;de <strong>Reagan</strong> yönetimi tarafından oluşturulmakta &mdash; 2015 <strong>PATH Act</strong> ile kalıcı hale getirilmekta. <strong>R&amp;D Credit</strong>&rsquo;in ana hesaplama yöntemleri; (1) <strong>Regular Research Credit</strong> (<strong>RRC</strong>); (2) <strong>Alternative Simplified Credit</strong> (<strong>ASC</strong>); ana iki yöntem olmakta. <strong>R&amp;D Credit</strong> ana <strong>Qualified Research Expenses</strong> (<strong>QREs</strong>) kategorileri; (1) maaşlar; (2) malzemeler; (3) sözleşmeli araştırma; (4) bilgisayar kira; ana QRE kategorileri olmakta. <strong>Section 174</strong>; <strong>Tax Cuts and Jobs Act of 2017</strong> (<strong>TCJA</strong>) ile değiştirilen <strong>R&amp;E</strong> harcamalarını amortizasyon zorunluluğu &mdash; 5 yıl ABD; 15 yıl yabancı &mdash; ana büyük 2022 sonrası vergi değişikliği olmakta. <strong>Form 6765</strong> 2025 güncellemesi; ek <strong>Section G</strong> ifşa gereksinimleri olmakta &mdash; iş bileşeni detayları; nicelendirilmiş <strong>QREs</strong>; ana yeni gereksinimler olmakta.</p>
+<p><br></p>
+<p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında ana ABD <strong>R&amp;D</strong> harcayan üretici sektörler; (1) <strong>Pharmaceutical</strong> (<strong>Big Pharma</strong> &mdash; <strong>Pfizer</strong>; <strong>J&amp;J</strong>; <strong>Merck</strong>; <strong>AbbVie</strong>; <strong>Eli Lilly</strong>); (2) <strong>Aerospace and Defense</strong> (<strong>Lockheed Martin</strong>; <strong>RTX</strong>; <strong>Boeing</strong>; <strong>Northrop Grumman</strong>); (3) <strong>Semiconductors</strong> (<strong>Intel</strong>; <strong>TSMC</strong>; <strong>NVIDIA</strong>; <strong>AMD</strong>; <strong>Qualcomm</strong>; <strong>Micron</strong>); (4) <strong>Automotive</strong> (<strong>Ford</strong>; <strong>GM</strong>; <strong>Stellantis</strong>; <strong>Tesla</strong>; <strong>Rivian</strong>); (5) <strong>Software and Tech</strong> (<strong>Microsoft</strong>; <strong>Google</strong>; <strong>Apple</strong>; <strong>Meta</strong>; <strong>Amazon</strong>); (6) <strong>Medical Devices</strong> (<strong>Medtronic</strong>; <strong>Abbott Laboratories</strong>; <strong>Stryker</strong>; <strong>Boston Scientific</strong>); (7) <strong>Chemicals and Materials</strong> (<strong>Dow</strong>; <strong>DuPont</strong>; <strong>3M</strong>); (8) <strong>Industrial Manufacturing</strong>; (9) <strong>Energy</strong>; (10) <strong>Food and Beverage</strong>; ana <strong>R&amp;D</strong> yatırım yapan ana sektörler olmakta. ABD&rsquo;de yıllık <strong>R&amp;D</strong> harcamaları toplam ~700 milyar dolar &mdash; küresel <strong>R&amp;D</strong>&rsquo;ın ~%30&rsquo;u olmakta. <strong>National Science Foundation</strong> (<strong>NSF</strong>; <strong>Sethuraman Panchanathan</strong> Director); <strong>Defense Advanced Research Projects Agency</strong> (<strong>DARPA</strong>); <strong>National Institutes of Health</strong> (<strong>NIH</strong>); ana ABD federal <strong>R&amp;D</strong> finansman kuruluşları olmakta.</p>
+<p><br></p>
+<p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında ana ABD imalat sektörü baskı grupları ve kuruluşları; <strong>National Association of Manufacturers</strong> (<strong>NAM</strong>; <strong>Jay Timmons</strong> CEO); <strong>Manufacturers Alliance</strong> (<strong>Steve Schoeny</strong> CEO); <strong>National Tooling and Machining Association</strong> (<strong>NTMA</strong>); <strong>Precision Metalforming Association</strong> (<strong>PMA</strong>); <strong>Aerospace Industries Association</strong> (<strong>AIA</strong>; <strong>Eric Fanning</strong> CEO); <strong>Semiconductor Industry Association</strong> (<strong>SIA</strong>; <strong>John Neuffer</strong> CEO); <strong>Advanced Medical Technology Association</strong> (<strong>AdvaMed</strong>; <strong>Scott Whitaker</strong>); <strong>Pharmaceutical Research and Manufacturers of America</strong> (<strong>PhRMA</strong>; <strong>Stephen Ubl</strong>); ana ABD imalat sektör kuruluşları olmakta. ABD&rsquo;deki ana <strong>R&amp;D</strong> vergi danışmanlığı firmaları; <strong>Big 4</strong> (<strong>Deloitte</strong>; <strong>PwC</strong>; <strong>EY</strong>; <strong>KPMG</strong>); <strong>Grant Thornton</strong>; <strong>BDO USA</strong>; <strong>RSM US</strong>; <strong>Crowe</strong>; <strong>BKD</strong>; <strong>Moss Adams</strong>; <strong>alliantgroup</strong>; <strong>Source Advisors</strong>; <strong>Tri-Merit</strong>; ana <strong>R&amp;D Credit</strong> uzmanlık firmaları olmakta. <strong>Tax Foundation</strong>; <strong>Tax Policy Center</strong>; <strong>Bipartisan Policy Center</strong>; ana ABD vergi politikası araştırma kuruluşları olmakta. Sonuç olarak <strong>R&amp;D Credit</strong> 2025 güncellemesi; küresel olarak ABD imalat <strong>Ar-Ge</strong> teşvikleri temelden yeniden disiplinlenmekta &mdash; tedarik zinciri yöneticileri için <strong>Section 174</strong> amortizasyon ve <strong>Form 6765</strong> ifşa hazırlığı; ana stratejik öncelik olmakta gibi görünmekta.</p>
+<p><br></p>
+<p><strong>Önemli Notlar:</strong><br>
+1. <strong>SCB Think Tank</strong>; üretici <strong>R&amp;D Credit</strong> 2025 güncellemeleri olmakta.<br>
+2. <strong>IRS</strong>; Ocak 2025&rsquo;te <strong>Form 6765</strong> son sürümünü yayınlamakta.<br>
+3. <strong>Section 174</strong>; <strong>R&amp;E</strong> amortizasyon &mdash; 5 yıl ABD/15 yıl yabancı olmakta.<br>
+4. <strong>QREs</strong>; maaşlar; malzemeler; sözleşmeli araştırma; bilgisayar kira olmakta.<br>
+5. <strong>NAM</strong>; <strong>SIA</strong>; <strong>AIA</strong>; <strong>PhRMA</strong>; ana imalat baskı grupları olmakta.</p>
+<p>---<br>
+<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41280-manufacturer-r-and-d-considerations-for-2025-and-beyond"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41280-manufacturer-r-and-d-considerations-for-2025-and-beyond</u></a><br>
+-------------------</p>
+<p><strong>!!! DUYURU !!!</strong></p>
+<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
+<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
+<p><br></p>
+<p>[41280]</p>
