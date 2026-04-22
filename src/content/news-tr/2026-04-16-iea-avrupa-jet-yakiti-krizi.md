@@ -35,8 +35,7 @@ tags:
 3. <strong>United States</strong>, <strong>Japan</strong>, <strong>South Korea</strong> ve <strong>Germany</strong> gibi büyük tüketicilerin hiçbiri bu senaryoda bağışık kalmamakta.<br>
 4. Nisan 2026 <strong>OMR</strong>&rsquo;una göre <strong>Strait of Hormuz</strong>&rsquo;un yeniden açılması piyasa için en belirleyici değişken olarak öne çıkmakta.<br>
 5. <strong>Strategic petroleum reserves</strong> ve <strong>OPEC+</strong> koordinasyonu, olası kaybı ancak kısmen karşılayabilmekte.</p>
-<p>Altlık:<br>
----<br>
+<p>---<br>
 <strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43869-iea-warns-european-flights-may-be-cancelled-due-to-fuel-shortage"><u>https://www.supplychainbrain.com/articles/43869-iea-warns-european-flights-may-be-cancelled-due-to-fuel-shortage</u></a><br>
 -------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

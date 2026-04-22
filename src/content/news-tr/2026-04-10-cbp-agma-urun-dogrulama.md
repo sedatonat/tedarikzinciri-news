@@ -35,8 +35,7 @@ tags:
 3. <strong>AGMA One Device</strong>, <strong>CBP Donations Acceptance Program</strong> aracılığıyla kuruma bağışlanmakta.<br>
 4. 2025 yılında ele geçirilen <strong>79 milyon</strong> taklit ürün, yaklaşık <strong>7,3 milyar dolar</strong> <strong>MSRP</strong> değer taşımakta.<br>
 5. Model, <strong>&ldquo;operational friction&rdquo;</strong> yaratmadan kamu-özel iş birliğini sahaya taşımakta.</p>
-<p>Altlık:<br>
----<br>
+<p>---<br>
 <strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43838-cbp-expands-product-authentication-tech-program"><u>https://www.supplychainbrain.com/articles/43838-cbp-expands-product-authentication-tech-program</u></a><br>
 -------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
