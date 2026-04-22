@@ -1,0 +1,46 @@
+---
+title: "Dünyanın En Büyük Yelkenli Kargo Gemisi İlk Transatlantik Yolculuğunu Yapmakta"
+subtitle: "SupplyChainBrain/Neoline: Neoliner Origin 446 ft 5,200 Ton 80% CO2 Düşüşü; Nantes France'tan Port of Baltimore'a 2 Hafta; 216 ft Karbon Fiber Direk; 32,300 sq ft Yelken; Roll-on/Roll-off Cargo; Wind-Assisted Propulsion; Maritime Decarbonization"
+date: '2026-04-22T13:00:00Z'
+category: Lojistik
+secondaryCategories:
+  - Tedarik Zinciri
+image: https://www.supplychainbrain.com/ext/resources/2025/11/03/Neoliner-Origin-Sailing-Cargo-Ship-COURTESY-PHOTO.webp
+imageAlt: Denizde iki büyük beyaz yelkenli siyah bir kargo gemisi
+sourceUrl: https://www.supplychainbrain.com/articles/42780-worlds-largest-sailing-cargo-ship-makes-first-transatlantic-journey
+newsSequence: 42780
+author: Sedat Onat
+translated: false
+draft: false
+tags:
+- Neoline
+- Neoliner Origin
+- yelkenli kargo
+- denizcilik
+- karbon azaltımı
+- Nantes
+- Baltimore
+- IMO
+---
+<p style="text-align: justify">Dünyanın en büyük yelkenli kargo gemisi; ilk transatlantik yolculuğunu başarıyla tamamlamakta &mdash; <strong>Nantes France</strong>&rsquo;dan başlamakta ve <strong>Port of Baltimore</strong>&rsquo;da sona ermekte iki haftalık bir yolculuğun ardından. <strong>French</strong> denizcilik şirketi <strong>Neoline</strong> tarafından tasarlanmakta olunan 446 ft uzunluğundaki <strong>Neoliner Origin</strong>; 5,200 ton mal taşımakta yetenekli olmakta &mdash; büyük ölçekli roll-on/roll-off araç kargosu dahil &mdash; ve geleneksel yakıtlarla çalışmakta benzer boyutlu gemilere kıyasla karbon emisyonlarını %80 azaltmakta. Gemi; ağırlıklı olarak rüzgarla çalışmakta &mdash; iki 216 ft karbon fiber direk ve yaklaşık 32,300 sq ft yelken alanına sahip olmakta. Tedarik zinciri perspektifinden bakıldığında <strong>Neoline</strong>; <strong>Nantes France</strong> kökenli; 2011&rsquo;de <strong>Jean Zanuttini</strong> tarafından kurulmakta &mdash; rüzgar destekli ticari denizcilik şirketi olmakta. <strong>Neoliner Origin</strong>; <strong>Renault Group</strong>; <strong>Beneteau Group</strong> (deniz teknesi); <strong>Manitou Group</strong> (forklift); <strong>Michelin</strong>; <strong>Hennessy</strong> (cognac); <strong>Clarins</strong> (kozmetik); ana taşımacılık müşterileri olmakta. <strong>Saint-Pierre-et-Miquelon</strong> (<strong>French</strong> ada); <strong>Halifax Canada</strong>; <strong>Baltimore U.S.</strong>; ana <strong>Atlantic</strong> rotaları olmakta &mdash; ayrıca <strong>RoRo</strong> (<strong>Roll-on/Roll-off</strong>) hizmeti sunmakta.</p>
+<p><br></p>
+<p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında küresel denizcilik sektörü; <strong>IMO</strong> (<strong>International Maritime Organization</strong>) tarafından düzenlenmekte. <strong>IMO 2020</strong>; küresel olarak deniz yakıtı sülfür içeriğini %3.5&rsquo;ten %0.5&rsquo;e düşürmekte. <strong>IMO 2030</strong>; %20-30 <strong>CO2</strong> azaltımı; <strong>IMO 2040</strong>; %70-80 azaltım; <strong>IMO 2050</strong>; net sıfır hedefi olmakta. <strong>EEXI</strong> (<strong>Energy Efficiency Existing Ship Index</strong>); <strong>CII</strong> (<strong>Carbon Intensity Indicator</strong>); <strong>SEEMP</strong> (<strong>Ship Energy Efficiency Management Plan</strong>); ana enerji verimliliği araçları olmakta. <strong>EU ETS</strong> (<strong>Emissions Trading System</strong>); 2024&rsquo;ten itibaren denizciliği kapsamakta. <strong>FuelEU Maritime</strong>; 2025&rsquo;ten itibaren AB limanlarına uğramakta gemiler için yenilenebilir/düşük karbonlu yakıt zorunluluğu getirmekte. <strong>green corridor</strong> girişimleri; <strong>Singapore-Rotterdam</strong>; <strong>Los Angeles-Shanghai</strong>; <strong>Tokyo-Vancouver</strong>; sıfır emisyonlu denizcilik koridorları için pilot programlar olmakta.</p>
+<p><br></p>
+<p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında alternatif denizcilik yakıtları; <strong>LNG</strong> (<strong>Liquefied Natural Gas</strong>); <strong>methanol</strong> (<strong>Maersk</strong> öncülük etmekte); <strong>ammonia</strong> (<strong>NH3</strong>); <strong>hydrogen</strong> (<strong>H2</strong>); <strong>biofuel</strong> (<strong>HVO</strong>; <strong>FAME</strong>); <strong>e-fuel</strong> (synthetic); <strong>nuclear</strong> (mikro reaktörler); ana opsiyonlar olmakta. <strong>Wind-assisted propulsion</strong>; <strong>rotor sail</strong> (<strong>Norsepower</strong> Flettner rotorları); <strong>wing sail</strong> (sert kanat; <strong>BAR Technologies</strong> WindWings; <strong>Cargill</strong> Pyxis Ocean); <strong>kite sail</strong> (<strong>Airseas</strong> Seawing); <strong>traditional sail</strong> (<strong>Neoline</strong>); ana rüzgar yardım teknolojileri olmakta. <strong>Pyxis Ocean</strong>; <strong>Cargill</strong>+<strong>BAR Technologies</strong>; 2023&rsquo;te WindWings ile %30 yakıt tasarrufu raporlamakta. <strong>Sea Cargo</strong>; <strong>Berge Bulk</strong>; <strong>Oldendorff</strong>; <strong>Wallenius Wilhelmsen</strong>; <strong>K Line</strong>; <strong>NYK</strong>; <strong>Mitsui OSK Lines</strong>; ana rüzgar destekli kargo gemisi operatörleri olmakta. <strong>Neoliner Origin</strong>&rsquo;in 80%&rsquo;lik <strong>CO2</strong> azaltımı; sektörün en yüksek başarımları arasında olmakta.</p>
+<p><br></p>
+<p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında küresel kargo denizciliği; <strong>container shipping</strong> (<strong>Maersk</strong>; <strong>MSC</strong>; <strong>CMA CGM</strong>; <strong>Hapag-Lloyd</strong>; <strong>COSCO</strong>); <strong>bulk carrier</strong> (<strong>Berge Bulk</strong>; <strong>Star Bulk</strong>; <strong>Pacific Basin</strong>); <strong>tanker</strong> (<strong>Frontline</strong>; <strong>Euronav</strong>; <strong>Teekay</strong>); <strong>RoRo/PCC</strong> (<strong>Wallenius Wilhelmsen</strong>; <strong>K Line</strong>; <strong>NYK</strong>; <strong>Hyundai Glovis</strong>); <strong>LNG carrier</strong> (<strong>QatarEnergy</strong>; <strong>Shell</strong>; <strong>Nakilat</strong>); <strong>cruise</strong> (<strong>Carnival</strong>; <strong>Royal Caribbean</strong>; <strong>MSC Cruises</strong>; <strong>Norwegian</strong>); ana segmentler olmakta. <strong>Port of Baltimore</strong>; <strong>U.S. East Coast</strong>&rsquo;ta 9. en büyük liman olmakta &mdash; özellikle <strong>RoRo</strong> ve otomotiv ithalatında lider. <strong>Francis Scott Key Bridge</strong> Mart 2024&rsquo;te <strong>MV Dali</strong> konteyner gemisi tarafından çarpılmakta yıkılmakta &mdash; liman geçici olarak kapanmakta. <strong>Port of Nantes-Saint Nazaire</strong>; <strong>France</strong>&rsquo;ın 4. en büyük limanı olmakta. <strong>green shipping</strong>; <strong>slow steaming</strong>; <strong>route optimization</strong>; <strong>port call optimization</strong>; <strong>just-in-time arrival</strong>; ana enerji verimliliği uygulamaları olmakta. Sonuç olarak <strong>Neoliner Origin</strong>&rsquo;in maiden voyage başarısı; rüzgar destekli ticari denizciliğin teknik olgunluk göstergesi olmakta &mdash; ve sektörün dekarbonizasyon yolundaki çoklu teknoloji yörüngesini somut biçimde göstermekte.</p>
+<p><br></p>
+<p><strong>Önemli Notlar:</strong><br>
+1. <strong>Neoliner Origin</strong>; 446 ft uzunlukta; 5,200 ton kapasiteli olmakta.<br>
+2. <strong>Nantes France</strong>&rsquo;dan <strong>Port of Baltimore</strong>&rsquo;a 2 hafta sürmekte.<br>
+3. Karbon emisyonu; benzer boyutlu gemilere göre %80 düşmekte.<br>
+4. İki adet 216 ft karbon fiber direk; ~32,300 sq ft yelken alanı içermekte.<br>
+5. <strong>Neoline</strong>; <strong>Nantes France</strong> kökenli; <strong>Renault</strong>/<strong>Beneteau</strong>/<strong>Manitou</strong> taşımakta.</p>
+<p>---<br>
+<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42780-worlds-largest-sailing-cargo-ship-makes-first-transatlantic-journey"><u>https://www.supplychainbrain.com/articles/42780-worlds-largest-sailing-cargo-ship-makes-first-transatlantic-journey</u></a><br>
+-------------------</p>
+<p><strong>!!! DUYURU !!!</strong></p>
+<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
+<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
+<p><br></p>
+<p>[42780]</p>
