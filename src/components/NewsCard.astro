@@ -1,6 +1,7 @@
 ---
 import { getLangFromUrl, categoryLabel, newsPath, categoryPath } from '../i18n/utils';
 import { dayUrl } from '../lib/timeline';
+import { tagPath } from '../lib/tags';
 
 interface Props {
   entry: { slug: string; data: any };
@@ -20,6 +21,9 @@ const dayHref = dayUrl(
   dateObj.getUTCDate()
 );
 const cat = entry.data.category;
+const topTags: string[] = Array.isArray(entry.data.tags)
+  ? entry.data.tags.filter((t: any) => typeof t === 'string' && t.trim()).slice(0, 3)
+  : [];
 ---
 <article class="group flex flex-col rounded-xl overflow-hidden border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 hover:border-brand-500 transition">
   {entry.data.image && (
@@ -41,5 +45,15 @@ const cat = entry.data.category;
       <h3 class="text-lg font-semibold leading-snug group-hover:text-brand-600">{entry.data.title}</h3>
       {entry.data.subtitle && <p class="mt-2 text-sm text-ink-600 dark:text-ink-300 line-clamp-2">{entry.data.subtitle}</p>}
     </a>
+    {topTags.length > 0 && (
+      <div class="mt-auto pt-2 flex flex-wrap gap-1.5">
+        {topTags.map((tag) => (
+          <a
+            href={tagPath(lang, tag)}
+            class="inline-flex items-center px-2 py-0.5 rounded-full text-[11px] border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 text-ink-700 dark:text-ink-200 hover:border-brand-500 hover:bg-brand-50 dark:hover:bg-brand-900/30 hover:text-brand-700 dark:hover:text-brand-300 transition-colors"
+          >{tag}</a>
+        ))}
+      </div>
+    )}
   </div>
 </article>
