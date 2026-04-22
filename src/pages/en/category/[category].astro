@@ -17,7 +17,7 @@ const label = categoryLabel[cat].en;
 <BaseLayout title={label}>
   <Timeline lang="en" />
   <section class="container-wide py-10">
-    <h1 class="text-3xl font-bold mb-6">{label}</h1>
+    <h1 class="sticky top-16 z-30 bg-transparent text-3xl font-bold mb-6 py-2">{label}</h1>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
       {all.map(e => <NewsCard entry={e} />)}
     </div>
