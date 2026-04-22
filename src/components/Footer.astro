@@ -9,7 +9,7 @@ const year = new Date().getFullYear();
     <p>&copy; {year} {t('site.title')}. {t('footer.rights')}</p>
     <nav class="flex gap-4">
       <a href="https://sedatonat.com" target="_blank" rel="noopener noreferrer" class="hover:text-brand-600">{t('footer.about')}</a>
-      <a href="mailto:info@sedatonat.com" class="hover:text-brand-600">{t('footer.contact')}</a>
+      <a href="mailto:info@sedatonat.com" class="hover:text-brand-600">info@sedatonat.com</a>
       <a href={lang === 'tr' ? '/rss.xml' : '/en/rss.xml'} class="hover:text-brand-600">{t('footer.rss')}</a>
     </nav>
   </div>
