@@ -1,0 +1,38 @@
+---
+title: "Tesla Faces U.S. Investigation Over Model 3 Emergency Door Handles"
+subtitle: "NHTSA/Bloomberg: Mechanical Door Release Hidden, Unlabeled, Not Intuitive; Kevin Clouse Georgia Petition 2023; M. Scott Brauer Photo Seattle Logistics; Federal Auto Safety Regulator Examination"
+date: "2026-04-22T13:00:00Z"
+category: "Lojistik"
+image: "https://www.supplychainbrain.com/ext/resources/2025/12/26/TESLA-MODEL-3-BLOOMBERG.webp"
+imageAlt: "A driver directing a red car onto a tow truck bed"
+sourceUrl: "https://www.supplychainbrain.com/articles/43050-tesla-faces-us-probe-over-model-3-emergency-door-handles"
+newsSequence: 43050
+author: "Sedat Onat"
+translated: true
+draft: false
+secondaryCategories: "['Tedarik Zinciri']"
+tags: "['Tesla', 'Model 3', 'NHTSA', 'Bloomberg', 'Kevin Clouse', 'otomotiv güvenlik', 'soruşturma', 'kapı kolu']"
+---
+
+<p style="text-align: justify"><strong>Tesla Inc.</strong>&rsquo;s door handles are facing renewed scrutiny in the <strong>U.S.</strong> following federal automotive safety regulators' opening of an investigation into emergency releases in certain <strong>Model 3</strong> vehicles. The <strong>National Highway Traffic Safety Administration</strong> (<strong>NHTSA</strong>) said it is evaluating claims that the mechanical door release is &ldquo;hidden, unlabeled and not intuitive in an emergency,&rdquo; according to a filing on the agency&rsquo;s website. The move stems from a petition submitted by <strong>Kevin Clouse</strong>, a <strong>Tesla</strong> owner from <strong>Georgia</strong>, who reported in 2023 that he was trapped in his vehicle. From a supply chain perspective, <strong>Tesla Inc.</strong> is based in <strong>Austin, Texas</strong> (formerly <strong>Palo Alto</strong>) and was founded in 2003 by <strong>Martin Eberhard</strong> and <strong>Marc Tarpenning</strong>, with <strong>Elon Musk</strong> joining as an investor and executive in 2004. Its product portfolio comprises the <strong>Model S</strong> (2012), <strong>Model X</strong> (2015), <strong>Model 3</strong> (2017), <strong>Model Y</strong> (2020), <strong>Cybertruck</strong> (2023), <strong>Semi</strong>, and <strong>Roadster</strong>.</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, <strong>NHTSA</strong> is the principal automotive safety regulator positioned under the <strong>U.S. Department of Transportation</strong> (<strong>DOT</strong>). The <strong>Office of Defects Investigation</strong> (<strong>ODI</strong>) conducts investigations and progressively includes processes of <strong>Preliminary Evaluation</strong> (<strong>PE</strong>), <strong>Engineering Analysis</strong> (<strong>EA</strong>), <strong>Recall Query</strong> (<strong>RQ</strong>), and <strong>Recall Management Division</strong> (<strong>RMD</strong>). <strong>FMVSS</strong> (<strong>Federal Motor Vehicle Safety Standards</strong>) are the federal regulations establishing vehicle safety standards. <strong>FMVSS 206</strong> sets standards for door locks and door retention components. On the <strong>EU</strong> side, <strong>UNECE</strong> regulations such as <strong>R11</strong> (door locks) play a similar role. <strong>NCAP</strong> (<strong>New Car Assessment Program</strong>) crash test protocols include <strong>Euro NCAP</strong>, <strong>IIHS</strong> (<strong>Insurance Institute for Highway Safety</strong>), <strong>JNCAP</strong>, <strong>C-NCAP</strong>, and <strong>ANCAP</strong>, which are regional versions of global vehicle safety assessment programs.</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, <strong>Tesla</strong>&rsquo;s <strong>flush door handle</strong> design is preferred for aerodynamic advantage and aesthetics; however, access to the mechanical release in the event of electric opening mechanism failure remains contentious. The <strong>Model S</strong>, <strong>Model X</strong>, <strong>Model 3</strong>, and <strong>Model Y</strong> share similar architecture. Design differentiation occurs in the <strong>Cybertruck</strong>. The <strong>flush handle</strong> design is similarly used in the <strong>Lucid Air</strong>, <strong>Polestar 2</strong>, <strong>Xpeng P7</strong>, <strong>NIO ET7</strong>, <strong>Rivian R1S</strong>, <strong>Aston Martin DBX</strong>, and <strong>Range Rover Velar</strong>. <strong>NHTSA</strong>&rsquo;s active investigations of <strong>Tesla</strong> span a broad range spanning <strong>Autopilot</strong>, <strong>FSD</strong> (<strong>Full Self-Driving</strong>), <strong>Phantom Braking</strong>, <strong>Battery Fire</strong>, <strong>Suspension Failure</strong>, <strong>Steering</strong>, and <strong>Yoke</strong>. <strong>Tesla</strong>&rsquo;s recall timeline is distinguished by its strategy of resolving the majority of issues through <strong>OTA</strong> (<strong>Over-The-Air</strong>) software updates—however, hardware issues require physical service.</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, automotive recall is among the costliest events in <strong>OEM</strong> supply chains. <strong>Tier 1</strong> supplier responsibility sharing, <strong>warranty</strong> reserves, <strong>recall reserve</strong> accounting, <strong>product liability insurance</strong>, <strong>D&amp;O insurance</strong>, and <strong>recall risk</strong> financial management are fundamental tools in managing recall risk. <strong>Aisin</strong>, <strong>Magna</strong>, <strong>Continental</strong>, <strong>Bosch</strong>, <strong>ZF Friedrichshafen</strong>, <strong>Denso</strong>, <strong>Hyundai Mobis</strong>, <strong>Valeo</strong>, and <strong>Faurecia</strong> are among the leading global automotive <strong>Tier 1</strong> suppliers. <strong>Tesla</strong>, through its <strong>vertical integration</strong> strategy, manufactures most critical components in-house—however, it sources electrical mechanisms, actuators, and controllers from suppliers such as <strong>Magna</strong>, <strong>Brose</strong>, <strong>Aisin</strong>, <strong>Witte Automotive</strong>, <strong>Huf Group</strong>, <strong>Kostal</strong>, and <strong>Methode Electronics</strong>. <strong>Bloomberg</strong> published the story with a photo drawn from the logistics distribution region in <strong>Seattle</strong> by M. <strong>Scott Brauer</strong>. In conclusion, <strong>NHTSA</strong>&rsquo;s investigation into <strong>Model 3</strong> door handles clearly demonstrates the importance of balancing <strong>EV</strong> design decisions under regulatory scrutiny.</p>
+<p><br></p>
+<p><strong>Key Points:</strong><br>
+1. <strong>NHTSA</strong> launches investigation into <strong>Tesla Model 3</strong> emergency door handles.<br>
+2. Mechanical release is alleged to be hidden, unlabeled, and not intuitive.<br>
+3. <strong>Kevin Clouse</strong> reported in 2023 via petition that he was trapped in his vehicle.<br>
+4. Investigation is reported by <strong>Bloomberg</strong>.<br>
+5. <strong>Tesla</strong>&rsquo;s <strong>flush handle</strong> design is under regulatory scrutiny.</p>
+<p>---<br>
+<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43050-tesla-faces-us-probe-over-model-3-emergency-door-handles"><u>https://www.supplychainbrain.com/articles/43050-tesla-faces-us-probe-over-model-3-emergency-door-handles</u></a><br>
+-------------------</p>
+<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
+<p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>
+<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge through this link.</p>
+<p><br></p>
+<p>[43050]</p>

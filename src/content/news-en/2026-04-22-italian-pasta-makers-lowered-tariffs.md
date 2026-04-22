@@ -1,0 +1,38 @@
+---
+title: "Italian Pasta Makers to Get Lower Extra Tariffs After All"
+subtitle: "Trump 92% Threat/DoC Review/Italy Government Jan 1: 15% Current Duties Plus 2-4% Guardian; 13 Producers Barilla/La Molisana/Pastificio Lucio Garofalo Unfair Low-Price Allegation; Antidumping Investigation"
+date: "2026-04-22T15:00:00Z"
+category: "Tedarik Zinciri"
+image: "https://www.supplychainbrain.com/ext/resources/2026/01/02/PASTA-SPAGHETTI-ITALY-iStock-gbh007-2209664951.webp"
+imageAlt: "A bowl containing pasta with olive oil, parmesan and garlic sits on a wooden table"
+sourceUrl: "https://www.supplychainbrain.com/articles/43070-italian-pasta-makers-to-get-lower-extra-tariffs-after-all"
+newsSequence: 43070
+author: "Sedat Onat"
+translated: true
+draft: false
+secondaryCategories: "['Lojistik']"
+tags: "['İtalyan makarna', 'Trump', 'Barilla', 'La Molisana', 'Pastificio Lucio Garofalo', 'antidumping', 'DoC', 'tarife']"
+---
+
+<p style="text-align: justify">President <strong>Donald Trump</strong> has threatened Italian pasta companies with tariffs as high as 92 percent, but a review by the <strong>U.S. Department of Commerce</strong> has found that the duties will ultimately be reduced to lower levels. The <strong>Italian</strong> government stated in a January 1 announcement that the <strong>U.S. Department of Commerce</strong> is reviewing and lowering the proposed tariffs. According to <strong>Guardian</strong>, additional tariffs being added on top of the existing 15 percent customs duty range between 2 and 4 percent. The <strong>U.S.</strong> government is facing 13 producers, including <strong>Barilla</strong>, <strong>La Molisana</strong>, and <strong>Pastificio Lucio Garofalo</strong>, with allegations of selling at unfairly low prices. From a supply chain perspective, antidumping duty (AD) is administered by the <strong>U.S. Department of Commerce</strong> <strong>International Trade Administration</strong> (ITA), and injury is determined by the <strong>U.S. International Trade Commission</strong> (USITC). Pasta products under HTSUS heading 1902 are classified in the nonalcoholic pasta category.</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, <strong>Barilla</strong>, originating from <strong>Parma, Italy</strong>, is the world's largest pasta producer, founded by <strong>Pietro Barilla</strong> in 1877. It owns brands including <strong>Mulino Bianco</strong>, <strong>Voiello</strong>, <strong>Pavesi</strong>, <strong>Wasa</strong>, <strong>Harrys</strong>, and <strong>Filiz Makarna</strong> (Turkey). <strong>La Molisana</strong>, originating from <strong>Campobasso, Molise</strong>, was founded in 1912. <strong>Pastificio Lucio Garofalo</strong>, originating from <strong>Gragnano, Naples</strong>, produces <strong>Pasta di Gragnano</strong> with <strong>PGI</strong> (Protected Geographical Indication) status. Other leading <strong>Italian</strong> pasta producers include <strong>De Cecco</strong>, <strong>Granoro</strong>, <strong>Rummo</strong>, <strong>Divella</strong>, <strong>Voiello</strong> (Barilla), and <strong>Antico Pastificio Morelli</strong>. On the <strong>U.S.</strong> side, <strong>Mueller's</strong>, <strong>Ronzoni</strong>, <strong>Creamette</strong>, <strong>San Giorgio</strong>, <strong>American Italian Pasta Company</strong> (AIPC), <strong>Riviana Foods</strong>, and <strong>Dakota Growers Pasta</strong> are the leading domestic producers. Antidumping margin calculations express the difference between normal value and export price as a percentage and are calculated using the weighted-average method.</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, the <strong>U.S.</strong> tariff history on <strong>Italian</strong> pasta is a long process. The first AD order was issued in 1996 and regularly undergoes sunset review. <strong>Section 301</strong> (Trump-era China tariffs), <strong>Section 232</strong> (national security), <strong>Section 201</strong> (safeguard), and <strong>IEEPA</strong> (emergency) are the main mechanisms of <strong>U.S.</strong> trade defense tools. In the <strong>Trump 2.0</strong> regime, reciprocal tariffs apply a 15 percent baseline tariff toward the <strong>EU</strong>. <strong>Italy</strong> is the leading pasta exporter in the <strong>EU</strong>—producing 3.4 million tons annually and accounting for over 25 percent of the global market. The <strong>U.S.</strong> is one of <strong>Italy's</strong> largest pasta export markets—approximately 660 million dollars annually. <strong>EU CAP</strong> (Common Agricultural Policy) subsidies provide <strong>Italian</strong> producers with access to cheap inputs (durum wheat)—which forms the basis of the <strong>U.S.</strong> dumping allegation.</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, durum wheat is the primary raw material for pasta production. <strong>Canada</strong> (Saskatchewan), the <strong>U.S.</strong> (North Dakota, Montana), <strong>Italy</strong>, <strong>Turkey</strong>, <strong>Mexico</strong>, and <strong>Kazakhstan</strong> are the leading global durum wheat producers. <strong>Italian</strong> producers blend Canadian Western Amber Durum (CWAD) with local production. FOB (Free on Board), CIF (Cost Insurance Freight), and DDP (Delivered Duty Paid) are the main commercial terms under <strong>Incoterms 2020</strong> for pasta exports. <strong>Genoa</strong>, <strong>La Spezia</strong>, <strong>Naples</strong>, and <strong>Venice</strong> are the main exit ports for <strong>Italian</strong> exports. On the <strong>U.S.</strong> side, <strong>New York/New Jersey</strong>, <strong>Norfolk</strong>, <strong>Charleston</strong>, <strong>Savannah</strong>, <strong>Houston</strong>, <strong>Long Beach</strong>, and <strong>Oakland</strong> are the main destination ports. Retail price elasticity is low in the pasta category—consumers tend to absorb 4-15 percent price increases and maintain brand loyalty. As a result, the <strong>U.S. DoC's</strong> <strong>Italian</strong> pasta tariff revision clearly demonstrates that trade defense processes can be managed with technical precision and that diplomatic dialogue can play a softening role.</p>
+<p><br></p>
+<p><strong>Key Points:</strong><br>
+1. <strong>Trump</strong> threatens 92 percent tariffs on <strong>Italian</strong> pasta companies.<br>
+2. <strong>U.S. DoC</strong> review reduces additional tariffs to the 2-4 percent level.<br>
+3. <strong>Italian</strong> government makes announcement on January 1.<br>
+4. 13 producers, including <strong>Barilla</strong>, <strong>La Molisana</strong>, and <strong>Pastificio Lucio Garofalo</strong>, face allegations.<br>
+5. Additional 2-4 percent added on top of existing 15 percent tariff.</p>
+<p>---<br>
+<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43070-italian-pasta-makers-to-get-lower-extra-tariffs-after-all"><u>https://www.supplychainbrain.com/articles/43070-italian-pasta-makers-to-get-lower-extra-tariffs-after-all</u></a><br>
+-------------------</p>
+<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
+<p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
+<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge through this link.</p>
+<p><br></p>
+<p>[43070]</p>
