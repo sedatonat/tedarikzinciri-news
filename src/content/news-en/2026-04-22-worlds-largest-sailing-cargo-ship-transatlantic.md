@@ -1,0 +1,38 @@
+---
+title: "World's Largest Sailing Cargo Ship Completes First Transatlantic Voyage"
+subtitle: "SupplyChainBrain/Neoline: Neoliner Origin 446 ft 5,200 Ton 80% CO2 Reduction; Nantes France to Port of Baltimore 2 Weeks; 216 ft Carbon Fiber Masts; 32,300 sq ft Sail Area; Roll-on/Roll-off Cargo; Wind-Assisted Propulsion; Maritime Decarbonization"
+date: "2026-04-22T13:00:00Z"
+category: "Lojistik"
+image: "https://www.supplychainbrain.com/ext/resources/2025/11/03/Neoliner-Origin-Sailing-Cargo-Ship-COURTESY-PHOTO.webp"
+imageAlt: "Large sailing cargo ship with two enormous white sails at sea"
+sourceUrl: "https://www.supplychainbrain.com/articles/42780-worlds-largest-sailing-cargo-ship-makes-first-transatlantic-journey"
+newsSequence: 42780
+author: "Sedat Onat"
+translated: true
+draft: false
+secondaryCategories: "['Tedarik Zinciri']"
+tags: "['Neoline', 'Neoliner Origin', 'yelkenli kargo', 'denizcilik', 'karbon azaltımı', 'Nantes', 'Baltimore', 'IMO']"
+---
+
+<p style="text-align: justify">The world's largest sailing cargo ship has successfully completed its first transatlantic voyage &mdash; spanning two weeks from <strong>Nantes France</strong> to <strong>Port of Baltimore</strong>. Designed by French maritime company <strong>Neoline</strong>, the 446 ft <strong>Neoliner Origin</strong> is capable of carrying 5,200 tons of cargo &mdash; including large-scale roll-on/roll-off vehicle cargo &mdash; while reducing carbon emissions by 80% compared to similarly sized vessels powered by conventional fuels. The vessel operates primarily on wind power, equipped with two 216 ft carbon fiber masts and approximately 32,300 sq ft of sail area. From a supply chain perspective, <strong>Neoline</strong>, founded in 2011 by <strong>Jean Zanuttini</strong> and based in <strong>Nantes France</strong>, operates as a wind-assisted commercial maritime company. <strong>Neoliner Origin</strong>'s primary shipping clients include <strong>Renault Group</strong>, <strong>Beneteau Group</strong> (marine vessels), <strong>Manitou Group</strong> (forklifts), <strong>Michelin</strong>, <strong>Hennessy</strong> (cognac), and <strong>Clarins</strong> (cosmetics). Key Atlantic routes include <strong>Saint-Pierre-et-Miquelon</strong> (French island), <strong>Halifax Canada</strong>, and <strong>Baltimore U.S.</strong> &mdash; offering roll-on/roll-off service.</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, the global maritime sector is regulated by the <strong>International Maritime Organization (IMO)</strong>. <strong>IMO 2020</strong> reduced global marine fuel sulfur content from 3.5% to 0.5%. <strong>IMO 2030</strong> targets 20-30% CO2 reduction; <strong>IMO 2040</strong> targets 70-80% reduction; and <strong>IMO 2050</strong> aims for net zero. Key energy efficiency instruments include <strong>EEXI (Energy Efficiency Existing Ship Index)</strong>, <strong>CII (Carbon Intensity Indicator)</strong>, and <strong>SEEMP (Ship Energy Efficiency Management Plan)</strong>. The <strong>EU ETS (Emissions Trading System)</strong> began covering maritime shipping in 2024. <strong>FuelEU Maritime</strong>, effective from 2025, requires vessels calling at EU ports to use renewable or low-carbon fuels. Green corridor initiatives including <strong>Singapore-Rotterdam</strong>, <strong>Los Angeles-Shanghai</strong>, and <strong>Tokyo-Vancouver</strong> serve as pilot programs for zero-emission maritime corridors.</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, alternative maritime fuels include <strong>LNG (Liquefied Natural Gas)</strong>, <strong>methanol</strong> (led by <strong>Maersk</strong>), <strong>ammonia (NH3)</strong>, <strong>hydrogen (H2)</strong>, <strong>biofuel (HVO; FAME)</strong>, <strong>e-fuel (synthetic)</strong>, and <strong>nuclear (micro-reactors)</strong>. Key wind-assisted propulsion technologies include <strong>rotor sail (Norsepower Flettner rotors)</strong>, <strong>wing sail (rigid wing; BAR Technologies WindWings; Cargill Pyxis Ocean)</strong>, <strong>kite sail (Airseas Seawing)</strong>, and <strong>traditional sail (Neoline)</strong>. <strong>Pyxis Ocean</strong>, a collaboration between <strong>Cargill</strong> and <strong>BAR Technologies</strong>, reported 30% fuel savings with WindWings in 2023. Leading wind-assisted cargo ship operators include <strong>Sea Cargo</strong>, <strong>Berge Bulk</strong>, <strong>Oldendorff</strong>, <strong>Wallenius Wilhelmsen</strong>, <strong>K Line</strong>, <strong>NYK</strong>, and <strong>Mitsui OSK Lines</strong>. <strong>Neoliner Origin</strong>'s 80% CO2 reduction ranks among the sector's highest performance achievements.</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, global cargo maritime shipping segments include <strong>container shipping (Maersk; MSC; CMA CGM; Hapag-Lloyd; COSCO)</strong>, <strong>bulk carrier (Berge Bulk; Star Bulk; Pacific Basin)</strong>, <strong>tanker (Frontline; Euronav; Teekay)</strong>, <strong>RoRo/PCC (Wallenius Wilhelmsen; K Line; NYK; Hyundai Glovis)</strong>, <strong>LNG carrier (QatarEnergy; Shell; Nakilat)</strong>, and <strong>cruise (Carnival; Royal Caribbean; MSC Cruises; Norwegian)</strong>. <strong>Port of Baltimore</strong> ranks as the 9th largest port on the U.S. East Coast &mdash; particularly a leader in RoRo and automotive imports. The <strong>Francis Scott Key Bridge</strong> was struck and collapsed by the <strong>MV Dali</strong> container ship in March 2024, temporarily closing the port. <strong>Port of Nantes-Saint Nazaire</strong> is France's 4th largest port. Key energy efficiency practices include <strong>green shipping</strong>, <strong>slow steaming</strong>, <strong>route optimization</strong>, <strong>port call optimization</strong>, and <strong>just-in-time arrival</strong>. In conclusion, <strong>Neoliner Origin</strong>'s maiden voyage success demonstrates the technical maturity of wind-assisted commercial maritime shipping &mdash; and exemplifies the multi-technology trajectory the sector is pursuing on its decarbonization journey.</p>
+<p><br></p>
+<p><strong>Key Points:</strong><br>
+1. <strong>Neoliner Origin</strong> measures 446 ft in length with 5,200 ton capacity.<br>
+2. The voyage from <strong>Nantes France</strong> to <strong>Port of Baltimore</strong> takes 2 weeks.<br>
+3. Carbon emissions are 80% lower compared to similarly sized vessels.<br>
+4. Equipped with two 216 ft carbon fiber masts and approximately 32,300 sq ft of sail area.<br>
+5. <strong>Neoline</strong>, based in <strong>Nantes France</strong>, transports cargo for <strong>Renault</strong>, <strong>Beneteau</strong>, and <strong>Manitou</strong>.</p>
+<p>---<br>
+<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42780-worlds-largest-sailing-cargo-ship-makes-first-transatlantic-journey"><u>https://www.supplychainbrain.com/articles/42780-worlds-largest-sailing-cargo-ship-makes-first-transatlantic-journey</u></a><br>
+-------------------</p>
+<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
+<p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
+<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>
+<p><br></p>
+<p>[42780]</p>
