@@ -43,14 +43,33 @@ echo "  PYTHONUTF8=$PYTHONUTF8"
 python3 -c "import sys,locale; print(f'  python={sys.version.split()[0]} stdout={sys.stdout.encoding} locale={locale.getpreferredencoding()}')"
 echo ""
 
-if [ -z "$ANTHROPIC_API_KEY" ]; then
-  echo "HATA: ANTHROPIC_API_KEY environment variable bos."
+if [ -z "$ANTHROPIC_API_KEY" ] || [[ "$ANTHROPIC_API_KEY" != sk-ant-* ]]; then
+  echo "ANTHROPIC_API_KEY bulunamadi veya gecersiz formatta."
   echo ""
-  echo "Onerilen: ~/.zshrc dosyana su satiri ekle (tırnak dahil):"
-  echo '    export ANTHROPIC_API_KEY="sk-ant-api03-..."'
+  echo "Anahtari buradan al: https://console.anthropic.com/settings/keys"
+  echo "Asagi yapistir (gizli olarak alinir, ekranda gozukmez)."
   echo ""
-  echo "Sonra Terminal'i tamamen kapat, yeniden ac, bu .command dosyasina cift tikla."
-  exit 1
+  # Redirect read from /dev/tty so that the exec-tee trick above doesn't eat
+  # our stdin. Without this, read would receive an empty pipe and return
+  # instantly with no input.
+  printf "API Key: "
+  IFS= read -rs ANTHROPIC_API_KEY </dev/tty
+  echo ""
+  echo ""
+  if [ -z "$ANTHROPIC_API_KEY" ] || [[ "$ANTHROPIC_API_KEY" != sk-ant-* ]]; then
+    echo "Gecersiz key (sk-ant- ile baslamali). Cikilayor."
+    exit 1
+  fi
+  export ANTHROPIC_API_KEY
+
+  # Persist to ~/.zshrc so the user doesn't have to re-paste on re-runs.
+  if [ -f "$HOME/.zshrc" ]; then
+    cp "$HOME/.zshrc" "$HOME/.zshrc.bak.$(date +%Y%m%d_%H%M%S)"
+    grep -v '^[[:space:]]*export[[:space:]]\+ANTHROPIC_API_KEY=' "$HOME/.zshrc" > "$HOME/.zshrc.tmp" \
+      && mv "$HOME/.zshrc.tmp" "$HOME/.zshrc"
+  fi
+  echo "export ANTHROPIC_API_KEY=\"$ANTHROPIC_API_KEY\"" >> "$HOME/.zshrc"
+  echo "✓ Anahtar ~/.zshrc'ye kaydedildi. Sonraki calismalar otomatik."
 fi
 echo "✓ ANTHROPIC_API_KEY set (last 6: ...${ANTHROPIC_API_KEY: -6})"
 echo ""
