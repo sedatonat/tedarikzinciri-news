@@ -10,8 +10,8 @@ newsSequence: 43856
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Vendormint', 'Dallas Counts', 'chargeback', 'perakendeci', 'tedarikçi', 'yapay zeka', 'denetim', 'yükleme rampası']"
+secondaryCategories: ['Lojistik']
+tags: ['Vendormint', 'Dallas Counts', 'chargeback', 'perakendeci', 'tedarikçi', 'yapay zeka', 'denetim', 'yükleme rampası']
 ---
 
 <p style="text-align: justify">Artificial intelligence has the capacity to delve deeper than ever before into the complexities of interactions between retailers and suppliers — including financial transactions. This can be and should be a good thing; but according to a company helping suppliers manage the process with large retailers, AI appears to be tipping the scales in retailers' favor when it comes to chargebacks against suppliers. <strong>Dallas Counts</strong>, COO of <strong>Vendormint</strong>, puts it this way: "<strong>You get a PO for goods, ship them, bill for them, get paid. There's a lot of points in that process that can break down</strong>." <strong>Vendormint</strong> works with suppliers across the country using <strong>AI</strong>-driven analytics and compliance strategies to effectively recover lost revenue and prevent future disruptions. From a supply chain perspective, end-to-end visibility between <strong>P2P</strong> (<strong>Procure-to-Pay</strong>) and <strong>O2C</strong> (<strong>Order-to-Cash</strong>) processes requires transaction flow management through <strong>EDI</strong> (<strong>Electronic Data Interchange</strong>) standards such as <strong>EDIFACT</strong> and <strong>ANSI X12</strong>.</p>

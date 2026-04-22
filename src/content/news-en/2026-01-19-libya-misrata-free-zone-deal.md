@@ -10,8 +10,8 @@ newsSequence: 43282
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Libya', 'Misrata Free Zone', 'MSC', 'Katar', 'İtalya', 'liman yatırımı', 'konteyner kapasitesi', 'Akdeniz lojistiği']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Libya', 'Misrata Free Zone', 'MSC', 'Katar', 'İtalya', 'liman yatırımı', 'konteyner kapasitesi', 'Akdeniz lojistiği']
 ---
 
 <p style="text-align: justify"><strong>Libya</strong> has signed a partnership agreement to expand and develop the <strong>Misrata Free Zone</strong> port terminal located on the <strong>Mediterranean</strong>, bringing together <strong>Qatari</strong>, <strong>Italian</strong>, and <strong>Swiss</strong> companies, according to the <strong>OPEC</strong> member nation's announcement. This multinational structure represents a strategic move to reposition the largest free zone on North Africa's coast. The agreement was announced during a period when the Tripoli-based government is simultaneously advancing political stability and economic diplomacy. The capacity expansion in <strong>Misrata</strong> establishes a trajectory that integrates <strong>Libya</strong>'s non-oil trade growth potential more tightly with the broader Mediterranean container network.</p>

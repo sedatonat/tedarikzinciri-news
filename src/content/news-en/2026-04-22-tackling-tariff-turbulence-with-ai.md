@@ -10,8 +10,8 @@ newsSequence: 42440
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Teknoloji']"
-tags: "['AI', 'yapay zeka', 'tarifeler', 'Trump', 'WTO', 'senaryo modelleme', 'talep tahmini', 'savaş odası']"
+secondaryCategories: ['Teknoloji']
+tags: ['AI', 'yapay zeka', 'tarifeler', 'Trump', 'WTO', 'senaryo modelleme', 'talep tahmini', 'savaş odası']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain Think Tank</strong>; this year in April; the <strong>Trump Administration</strong> announced sweeping new tariffs, including a 10% baseline on most <strong>U.S.</strong> imports, with reciprocal higher rates selected for specific countries. The <strong>World Trade Organization</strong> (<strong>WTO</strong>) is forecasting a 0.2% decline in global trade volume for 2025—warning that escalating trade tensions could increase that decline to as much as 1.5%. In June, <strong>President Trump</strong> announced that steel and aluminum tariffs would double from 25% to 50%. Tariffs are not abstract line items; they are direct shocks to the operating systems of global enterprises. From consumer goods to healthcare; from heavy industry to retail; companies that have carefully calibrated supply chains, pricing and promotional strategies now face unprecedented costs and complexity. Decision makers are moving rapidly—establishing war rooms to assess the impacts on product lines, customer segments and profitability.</p>

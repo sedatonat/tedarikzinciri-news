@@ -3,8 +3,7 @@ title: "Kızıldeniz Gemisi Yemen Yakınında Saldırı Sonrası Ateşe Verilmek
 subtitle: "SCB/Bloomberg: Red Sea Ship Ablaze Abandoned Attack Yemen Al Hudaydah; Multiple Small Vessel Self-Propelled Grenade Fire; UKMTO UK Maritime Trade Operations 6 Temmuz Social Post; 51 Nautical Mile Southwest Al Hudaydah; Iran-Backed Houthi Militia Strategic Waterway 1+ Year Targeting; IDF Israel Defense Forces Al Hudaydah Ras Issa Al-Salif Port Power Plant Airstrike Retaliation; Civilian Infrastructure Terrorist Use Telegram Statement; Maritime Commerce Global Threat"
 date: '2026-04-22T23:45:00Z'
 category: Lojistik
-secondaryCategories:
-  - Risk Yönetimi
+secondaryCategories: []
 image: https://www.supplychainbrain.com/ext/resources/2025/03/17/HOUTHI-YEMEN-STRIKES-BLOOMBERG.webp
 imageAlt: Geceleyin bir dizi binanın arkasında kalın siyah duman bulutları yükselmekta
 sourceUrl: https://www.supplychainbrain.com/articles/42090-red-sea-ship-set-ablaze-abandoned-after-attack-near-yemen

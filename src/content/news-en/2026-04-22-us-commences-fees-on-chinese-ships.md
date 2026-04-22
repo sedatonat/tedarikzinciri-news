@@ -10,8 +10,8 @@ newsSequence: 42660
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Trump', 'ABD-Çin', 'Çin gemi ücreti', 'COSCO', 'gemi inşa', 'USTR', 'ticaret savaşı', 'Section 301']"
+secondaryCategories: ['Lojistik']
+tags: ['Trump', 'ABD-Çin', 'Çin gemi ücreti', 'COSCO', 'gemi inşa', 'USTR', 'ticaret savaşı', 'Section 301']
 ---
 
 <p style="text-align: justify"><strong>Trump</strong> administration begins imposing fees on <strong>Chinese</strong> vessels calling at American ports on October 14 &mdash; a move aimed at countering <strong>China</strong>&rsquo;s dominance in commercial shipbuilding and revitalizing the <strong>United States</strong>&rsquo; own shipbuilding sector. <strong>China</strong>&rsquo;s Ministry of Transport retaliated on October 10, announcing plans to charge American vessels when they call at <strong>Chinese</strong> ports. <strong>U.S.</strong>-linked vessels currently face charges of 400 yuan (56 dollars) per net ton when calling at <strong>Chinese</strong> ports, according to <strong>Chinese</strong> state media <strong>CCTV</strong>. <strong>The New York Times</strong> reports that this &ldquo;tit-for-tat&rdquo; escalation comes as trade relations between <strong>China</strong> and the <strong>U.S.</strong> deteriorate further. From a supply chain perspective, the <strong>Office of the United States Trade Representative</strong> (<strong>USTR</strong>) is investigating <strong>China</strong>&rsquo;s shipbuilding dominance under a <strong>Section 301 investigation</strong> &mdash; and the <strong>USTR</strong> has subsequently initiated service fees.</p>

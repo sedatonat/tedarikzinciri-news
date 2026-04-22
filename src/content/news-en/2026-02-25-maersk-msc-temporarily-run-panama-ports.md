@@ -10,8 +10,8 @@ newsSequence: 43536
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['APM Terminals', 'Terminal Investment', 'MSC', 'Maersk', 'Balboa', 'Cristobal', 'CK Hutchison', 'Panama Kanalı']"
+secondaryCategories: ['Lojistik']
+tags: ['APM Terminals', 'Terminal Investment', 'MSC', 'Maersk', 'Balboa', 'Cristobal', 'CK Hutchison', 'Panama Kanalı']
 ---
 
 <p style="text-align: justify"><strong>APM Terminals</strong> and <strong>Terminal Investment</strong> have been assigned to temporarily operate two contested ports situated at either end of the <strong>Panama Canal</strong> following the <strong>Panamanian</strong> government's cancellation of contracts held by Hong Kong-based <strong>CK Hutchison</strong>. The decision was announced shortly after the government ordered the <strong>Panama Maritime Authority</strong> to seize the ports on February 23. From a supply chain perspective, the temporary placement of two major container operators in terminal operations reduces near-term uncertainty in the call rotation schedules of <strong>Asia-Americas</strong> and <strong>transpacific</strong> service providers and supports rotation stability in service contract renewals. Simultaneously, <strong>Maersk</strong> and <strong>MSC</strong>'s terminal presence in the same geography creates a headline subject to scrutiny by competition authorities during a period when alliance structures have undergone significant transformation following the end of the <strong>2M</strong>.</p>

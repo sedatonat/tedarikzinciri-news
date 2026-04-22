@@ -10,8 +10,8 @@ newsSequence: 41280
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Ar-Ge', 'vergi', 'IRS', 'imalat', 'Section 174', 'inovasyon', 'R&D Credit', 'Form 6765']"
+secondaryCategories: ['Lojistik']
+tags: ['Ar-Ge', 'vergi', 'IRS', 'imalat', 'Section 174', 'inovasyon', 'R&D Credit', 'Form 6765']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; <strong>SCB Think Tank</strong>; analyst insight; innovation; the lifeblood of manufacturing. As a result, manufacturers must conduct research and develop new products, improvements, and production efficiencies on a regular basis to keep up—or stay ahead of—their competitors. Commonly referred to as the <strong>R&D Credit</strong>, the <strong>Federal Credit for Increasing Research Expenses</strong> can help offset some of the costs associated with these efforts. While most manufacturers are quite familiar with the <strong>R&D Credit</strong>, there are several important updates manufacturers need to keep in mind for 2025 and beyond. In January 2025, the <strong>Internal Revenue Service</strong> (<strong>IRS</strong>) released the final version of <strong>Form 6765</strong> (<strong>Credit for Increasing Research Activities</strong>)—which includes additional disclosure requirements.</p>

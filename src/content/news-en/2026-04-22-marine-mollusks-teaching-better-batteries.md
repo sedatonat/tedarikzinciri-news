@@ -10,8 +10,8 @@ newsSequence: 42430
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Teknoloji']"
-tags: "['biyomimetik', 'batarya', 'yakıt hücresi', 'UC Irvine', 'chiton', 'nanoteknoloji', 'malzeme bilimi', 'yenilikçi malzeme']"
+secondaryCategories: ['Teknoloji']
+tags: ['biyomimetik', 'batarya', 'yakıt hücresi', 'UC Irvine', 'chiton', 'nanoteknoloji', 'malzeme bilimi', 'yenilikçi malzeme']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong>; in the race to make advanced technologies cheaper, cleaner, and more efficient, scientists have turned to an unlikely teacher: a tiny marine mollusk. Researchers at <strong>UC Irvine</strong>, working with partners in <strong>Japan</strong>, are discovering how <strong>chitons</strong> (small sea creatures living in intertidal zones worldwide) build their ultra-hard teeth layer by layer. This insight is now directing efforts to develop cleaner, more precise methods for synthesizing critical materials that power everything from fuel cells to next-generation electronics. "Chitons grow new teeth every few days—superior teeth made from materials used in industrial cutting tools, grinding media, dental implants, surgical implants, and protective coatings—yet made at room temperature and nanoscale precision," says <strong>David Kisailus</strong>, a materials and engineering professor at <strong>UC Irvine</strong> and director of the school's <strong>Biomimetic and Nanostructured Materials Laboratory</strong>. "We can learn a great deal from these biological designs and processes."</p>

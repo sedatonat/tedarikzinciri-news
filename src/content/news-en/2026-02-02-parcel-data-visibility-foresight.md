@@ -10,8 +10,8 @@ newsSequence: 43154
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Teknoloji']"
-tags: "['parsel taşımacılığı', 'GRI', 'accessorial', 'DIM faktör', 'senaryo modelleme', 'karar zekası', 'parcel intelligence', 'sözleşme analizi']"
+secondaryCategories: ['Teknoloji']
+tags: ['parsel taşımacılığı', 'GRI', 'accessorial', 'DIM faktör', 'senaryo modelleme', 'karar zekası', 'parcel intelligence', 'sözleşme analizi']
 ---
 
 <p style="text-align: justify"><strong>Parcel shipper</strong>s are simultaneously working to absorb the impact of general rate increases (<strong>GRIs</strong>) while contending with expanding accessorial charges and shifts in carrier performance. Yet many organizations continue to make critical decisions based on incomplete data. In an environment where pricing structures are becoming exponentially more complex year after year, this approach is increasingly indefensible. Organizations that invest in visibility and smarter data have an easier time understanding cost drivers, evaluating carrier proposals, and foreseeing problems before they impact budgets. Within this context, parcel costs continue to climb; <strong>GRI</strong>s typically average between 5% and 7%, and <strong>accessorial charges</strong>, depending on shipping profile, can consume a significant portion of total spending.</p>

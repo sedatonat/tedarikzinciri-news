@@ -10,8 +10,8 @@ newsSequence: 43050
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Tesla', 'Model 3', 'NHTSA', 'Bloomberg', 'Kevin Clouse', 'otomotiv güvenlik', 'soruşturma', 'kapı kolu']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Tesla', 'Model 3', 'NHTSA', 'Bloomberg', 'Kevin Clouse', 'otomotiv güvenlik', 'soruşturma', 'kapı kolu']
 ---
 
 <p style="text-align: justify"><strong>Tesla Inc.</strong>&rsquo;s door handles are facing renewed scrutiny in the <strong>U.S.</strong> following federal automotive safety regulators' opening of an investigation into emergency releases in certain <strong>Model 3</strong> vehicles. The <strong>National Highway Traffic Safety Administration</strong> (<strong>NHTSA</strong>) said it is evaluating claims that the mechanical door release is &ldquo;hidden, unlabeled and not intuitive in an emergency,&rdquo; according to a filing on the agency&rsquo;s website. The move stems from a petition submitted by <strong>Kevin Clouse</strong>, a <strong>Tesla</strong> owner from <strong>Georgia</strong>, who reported in 2023 that he was trapped in his vehicle. From a supply chain perspective, <strong>Tesla Inc.</strong> is based in <strong>Austin, Texas</strong> (formerly <strong>Palo Alto</strong>) and was founded in 2003 by <strong>Martin Eberhard</strong> and <strong>Marc Tarpenning</strong>, with <strong>Elon Musk</strong> joining as an investor and executive in 2004. Its product portfolio comprises the <strong>Model S</strong> (2012), <strong>Model X</strong> (2015), <strong>Model 3</strong> (2017), <strong>Model Y</strong> (2020), <strong>Cybertruck</strong> (2023), <strong>Semi</strong>, and <strong>Roadster</strong>.</p>

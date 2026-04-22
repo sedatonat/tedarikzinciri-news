@@ -10,8 +10,8 @@ newsSequence: 42750
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['General Motors', 'GM', 'EV', 'Trump', 'Factory Zero', 'Bloomberg', 'Detroit', 'işten çıkartma']"
+secondaryCategories: ['Lojistik']
+tags: ['General Motors', 'GM', 'EV', 'Trump', 'Factory Zero', 'Bloomberg', 'Detroit', 'işten çıkartma']
 ---
 
 <p style="text-align: justify"><strong>General Motors Co.</strong> has notified approximately 5,500 workers across three facilities that they are being temporarily laid off—the automaker is reassessing electric vehicle production in the wake of President <strong>Donald Trump</strong>'s move to eliminate critical tax credits. In total, the layoffs include 3,400 workers furloughed over the summer at <strong>Factory Zero</strong> in <strong>Detroit</strong>—where electric <strong>Chevrolet Silverado</strong>, <strong>GMC Sierra</strong>, and <strong>Hummer EV</strong> models are produced. The company said it will evaluate how much production is needed on October 29 and recall approximately 2,200 of these workers in January. From a supply chain perspective, <strong>General Motors Company</strong>, headquartered in <strong>Detroit, Michigan</strong> and founded in 1908 by <strong>William C. Durant</strong>, ranks as the world's third-largest automaker behind <strong>Toyota</strong> and <strong>Volkswagen</strong>. <strong>Chevrolet</strong>, <strong>GMC</strong>, <strong>Cadillac</strong>, <strong>Buick</strong>, and <strong>Hummer</strong> are its primary brands. <strong>Mary Barra</strong> has served as GM's CEO since 2014, making her one of the longest-tenured female CEOs in global automotive history. Photo by <strong>Emily Elconin</strong> for <strong>Bloomberg</strong>, taken at a GM assembly facility.</p>

@@ -10,8 +10,8 @@ newsSequence: 43871
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Çin imalat', 'Unusual Machines', 'Allan Evans', 'drone', 'CHIPS Act', 'tedarikçi yoğunluğu', 'otomasyon', 'yapay zeka']"
+secondaryCategories: ['Lojistik']
+tags: ['Çin imalat', 'Unusual Machines', 'Allan Evans', 'drone', 'CHIPS Act', 'tedarikçi yoğunluğu', 'otomasyon', 'yapay zeka']
 ---
 
 <p style="text-align: justify">The conventional wisdom of recent years holds that <strong>China</strong> is losing its dominance as a manufacturing power. Rising wages for <strong>Chinese</strong> workers, volatile <strong>U.S.</strong> tariffs, geopolitical tensions, and shipping costs to distant markets are cited as reasons manufacturing is returning to the Western Hemisphere. But what if there is something inherent in the nature of <strong>Chinese</strong> manufacturing that continues to disadvantage the <strong>American</strong> model? That's what <strong>Allan Evans</strong> believes. <strong>Evans</strong> is CEO of <strong>Unusual Machines</strong>, a <strong>U.S.</strong>-based manufacturer producing drone components for military and commercial use. From a supply chain perspective, the <strong>UAS</strong> (<strong>Unmanned Aircraft System</strong>) component market comprises categories including <strong>flight controller</strong>, <strong>ESC</strong> (<strong>Electronic Speed Controller</strong>), <strong>motor</strong>, <strong>propeller</strong>, <strong>battery</strong>, <strong>camera</strong>, and <strong>radio link</strong>, and <strong>DJI</strong>'s roughly 70% share of the global market remains a strategic concern under <strong>Section 1260H</strong> and <strong>NDAA</strong> restrictions.</p>

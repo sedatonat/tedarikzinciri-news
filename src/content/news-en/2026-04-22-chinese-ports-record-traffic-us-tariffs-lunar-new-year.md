@@ -10,8 +10,8 @@ newsSequence: 41190
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Şangay', 'liman', 'Çin', 'tarife', 'ihracat', 'Lunar New Year', 'konteyner', 'COSCO']"
+secondaryCategories: ['Lojistik']
+tags: ['Şangay', 'liman', 'Çin', 'tarife', 'ihracat', 'Lunar New Year', 'konteyner', 'COSCO']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; analyst insight; China's busiest port processed a record amount of cargo in January — as companies scrambled to get products onto ships before U.S. tariffs took effect and ahead of the extended local holiday. <strong>Shanghai</strong> port processed a record 5 million containers in January, according to data released February 10 — far exceeding any previous month based on data stretching back to 2007. Last year, the port became the first globally to process over 50 million containers in a single year — with rising global demand, falling Chinese prices, and tariff threats combining to drive export values to record levels. Chinese firms shipped approximately $525 billion worth of goods in January — a record for a single month. <strong>Trump</strong> implemented a 10% additional tariff on all Chinese goods effective February 4 — with the <strong>USTR</strong> citing China's "unfair" trade practices.</p>

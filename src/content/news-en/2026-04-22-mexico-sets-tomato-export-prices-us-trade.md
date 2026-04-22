@@ -10,8 +10,8 @@ newsSequence: 42300
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Meksika', 'domates', 'ABD', 'ticaret anlaşmazlığı', 'anti-damping', 'Trump 2.0', 'tarım ihracatı', 'USMCA']"
+secondaryCategories: ['Lojistik']
+tags: ['Meksika', 'domates', 'ABD', 'ticaret anlaşmazlığı', 'anti-damping', 'Trump 2.0', 'tarım ihracatı', 'USMCA']
 ---
 
 <p style="text-align: justify"><strong>Bloomberg</strong> reports that Mexico is setting minimum prices for fresh tomato exports to the <strong>U.S.</strong> — seeking to regain full market access following the <strong>Trump</strong> administration's anti-dumping duty implementation. The price floor is designed to avoid creating "distortion" in tomato export prices, according to a decree published by the Mexican government in the federal gazette on the evening of August 8. <strong>U.S.</strong> producers have accused Mexican counterparts of unfairly selling at depressed prices — and the <strong>U.S.</strong> is withdrawing from a trade agreement regulating exports this year. While the <strong>U.S. Commerce Department</strong> announced duties exceeding 17% in July, President <strong>Donald Trump</strong> delayed a sweeping tariff increase by 90 days to create room for a trade deal with Mexico. "The Mexican government is helping producers prevent future increases in anti-dumping duties," said <strong>Georgina Felix</strong>, operations director of the <strong>Arizona</strong> and <strong>Florida Tomato Exchange</strong>.</p>

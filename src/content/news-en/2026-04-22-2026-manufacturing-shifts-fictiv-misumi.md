@@ -4,14 +4,14 @@ subtitle: "Fictiv/MISUMI Dave Evans and Nate Evans, Frost & Sullivan Sankara Nar
 date: "2026-04-22T05:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2026/03/10/Upcoming-Webinar-Fictiv-Wed-Apr-22-2026-1p-ET.webp"
-imageAlt: "Fictiv upcoming webinar promotion for Wednesday, April 22, 2026, 1 p.m. ET"
+imageAlt: "Fictiv upcoming webinar promotion for Wednesday, April 22, '2026', 1 p.m. ET"
 sourceUrl: "https://www.supplychainbrain.com/articles/43629-the-2026-manufacturing-shifts-you-cant-ignore"
 newsSequence: 43629
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Fictiv', 'MISUMI', 'Dave Evans', 'Nate Evans', 'Sankara Narayanan', 'imalat', 2026, 'yapay zeka']"
+secondaryCategories: ['Lojistik']
+tags: ['Fictiv', 'MISUMI', 'Dave Evans', 'Nate Evans', 'Sankara Narayanan', 'imalat', '2026', 'yapay zeka']
 ---
 
 <p style="text-align: justify">Date: April 22, 2026; Time: 1:00 p.m. ET; Live Webinar: 1 hour. This webinar presents a high-level review of the <strong>2026 State of Manufacturing &amp; Supply Chain</strong> report, distilling insights from 300+ industry leaders into clear, actionable themes. The session examines how <strong>AI</strong> is becoming foundational to manufacturing operations, how digital platforms are shifting from optional tools to essential infrastructure, and how leading organizations are redesigning their supply chains to address sourcing complexity, quality demands, and external volatility. From a supply chain perspective, <strong>Fictiv</strong>, as a <strong>cloud manufacturing</strong> platform, offers <strong>CNC machining</strong>, <strong>3D printing</strong>, <strong>injection molding</strong>, <strong>urethane casting</strong>, and <strong>sheet metal</strong> manufacturing services through a global network of suppliers. <strong>MISUMI</strong>, a Japanese-origin provider of <strong>industrial components</strong> and <strong>automation parts</strong>, acquired <strong>Fictiv</strong> for $350 million in 2025.</p>

@@ -10,8 +10,8 @@ newsSequence: 43650
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['DP World', 'Essa Kazim', 'terminal işletmeciliği', 'TEU', 'EBITDA', 'Manila South Harbour', 'Port Botany', 'bin Sulayem']"
+secondaryCategories: ['Lojistik']
+tags: ['DP World', 'Essa Kazim', 'terminal işletmeciliği', 'TEU', 'EBITDA', 'Manila South Harbour', 'Port Botany', 'bin Sulayem']
 ---
 
 <p style="text-align: justify">Logistics company <strong>DP World</strong> has reported record revenue and earnings for the 2025 fiscal year. This performance is largely driven by strong results from terminal operations in <strong>Asian Pacific</strong>. From a supply-chain perspective, <strong>DP World</strong>'s position in the global <strong>terminal operator</strong> market places it among the top four players alongside <strong>PSA International</strong>, <strong>Hutchison Ports</strong>, and <strong>APM Terminals</strong>. The momentum in Asia-Pacific capacity investments could accelerate the shift in the global <strong>capacity-rate</strong> balance toward a <strong>buyer's market</strong> in the coming period. Flagship facilities such as <strong>Jebel Ali</strong>, <strong>London Gateway</strong>, and <strong>Posorja</strong> lie at the center of the portfolio's integrated logistics transformation narrative.</p>

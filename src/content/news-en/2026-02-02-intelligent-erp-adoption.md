@@ -10,8 +10,8 @@ newsSequence: 43169
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['ERP', 'intelligent ERP', 'yapay zeka', 'veri hazırlığı', 'stablecoin', 'blockchain', 'API', 'kurumsal dönüşüm']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['ERP', 'intelligent ERP', 'yapay zeka', 'veri hazırlığı', 'stablecoin', 'blockchain', 'API', 'kurumsal dönüşüm']
 ---
 
 <p style="text-align: justify"><strong>Enterprise resource planning (ERP)</strong> and supply chain applications are being reshaped by a remarkable wave of growth and innovation, with these systems becoming increasingly adaptable, intelligent, and user-centric. This transformation is driven by advances in <strong>artificial intelligence (AI)</strong>, <strong>machine learning</strong>, <strong>internet of things (IoT)</strong>, and other technologies. Standardized <strong>application programming interface (API)</strong>s and <strong>microservices</strong> architecture are enabling integration with third-party tools and services, advancing supply chain collaboration. However, resistance to change, knowledge gaps, and organizational inertia remain critical barriers to maximizing value.</p>

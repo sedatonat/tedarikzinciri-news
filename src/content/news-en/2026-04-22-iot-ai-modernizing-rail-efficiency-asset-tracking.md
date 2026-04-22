@@ -10,8 +10,8 @@ newsSequence: 42710
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['demiryolu', 'IoT', 'AI', 'Steven Payne', 'CSX', 'varlık takibi', 'yük taşımacılığı', 'ABD raylı sistem']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['demiryolu', 'IoT', 'AI', 'Steven Payne', 'CSX', 'varlık takibi', 'yük taşımacılığı', 'ABD raylı sistem']
 ---
 
 <p style="text-align: justify"><strong>U.S. rail freight</strong> system serves as the backbone of national commerce—carrying more than 40% of long-distance freight volumes across a network spanning approximately 140,000 miles. Global supply chains face mounting pressures ranging from shifting demand patterns to climate-related disruptions—placing the rail sector under increasing pressure to modernize. A key component of this modernization lies in the adoption of digital technologies. <strong>IoT</strong> (<strong>Internet of Things</strong>) devices, coupled with artificial intelligence-based analytics, are modernizing how rail operators track assets, manage fleets, and make smarter operational decisions. Author <strong>Steven Payne</strong> contributes to <strong>SCB</strong>. From a supply chain perspective, the <strong>U.S.</strong> rail sector is divided into categories: <strong>Class I</strong> (annual revenue >$1 billion); <strong>Class II</strong>; and <strong>Class III</strong> (<strong>short line</strong>). Major <strong>Class I</strong> railroads include <strong>Union Pacific</strong> (<strong>UP</strong>); <strong>BNSF Railway</strong> (<strong>Berkshire Hathaway</strong>); <strong>CSX Transportation</strong>; <strong>Norfolk Southern</strong>; <strong>Canadian National</strong> (<strong>CN</strong>); <strong>Canadian Pacific Kansas City</strong> (<strong>CPKC</strong>; merger of <strong>CP</strong>+<strong>KCS</strong> in 2023); and <strong>Ferromex</strong> (<strong>Mexico</strong>; <strong>UP</strong> joint venture)—representing the major <strong>North American</strong> players.</p>

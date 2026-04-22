@@ -10,8 +10,8 @@ newsSequence: 43904
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['helyum', \"Moody's Ratings\", 'yarı iletken', 'Katar', 'Samsung', 'SK Hynix', 'AI altyapısı', 'Iran savaşı']"
+secondaryCategories: ['Lojistik']
+tags: ['helyum', \"Moody's Ratings\", 'yarı iletken', 'Katar', 'Samsung', 'SK Hynix', 'AI altyapısı', 'Iran savaşı']
 ---
 
 <p style="text-align: justify"><strong>Moody's Ratings</strong> released a report on April 20 reiterating warnings from March, cautioning that lost helium production could potentially disrupt artificial intelligence, data center supply chains, and much more. The credit rating agency's report states: "<strong>Helium supply disruptions resulting from the conflict in the Middle East shine a spotlight on the exposure of downstream industries like semiconductors</strong>". <strong>David Pan</strong>, director of Moody's separate unit providing financial software and economic research and AI sector applications leader, said: "<strong>Helium doesn't get much attention in the AI supply chain, but it should</strong>". From a supply chain perspective, the <strong>industrial gas</strong> supply chain's long-distance transportation via <strong>cryogenic ISO container</strong> and <strong>tube trailer</strong> requires <strong>EX-T1</strong> class international hazardous materials standards, and specialized fleet capacity is extremely limited.</p>

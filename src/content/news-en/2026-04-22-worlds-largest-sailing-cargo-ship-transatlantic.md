@@ -10,8 +10,8 @@ newsSequence: 42780
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Neoline', 'Neoliner Origin', 'yelkenli kargo', 'denizcilik', 'karbon azaltımı', 'Nantes', 'Baltimore', 'IMO']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Neoline', 'Neoliner Origin', 'yelkenli kargo', 'denizcilik', 'karbon azaltımı', 'Nantes', 'Baltimore', 'IMO']
 ---
 
 <p style="text-align: justify">The world's largest sailing cargo ship has successfully completed its first transatlantic voyage &mdash; spanning two weeks from <strong>Nantes France</strong> to <strong>Port of Baltimore</strong>. Designed by French maritime company <strong>Neoline</strong>, the 446 ft <strong>Neoliner Origin</strong> is capable of carrying 5,200 tons of cargo &mdash; including large-scale roll-on/roll-off vehicle cargo &mdash; while reducing carbon emissions by 80% compared to similarly sized vessels powered by conventional fuels. The vessel operates primarily on wind power, equipped with two 216 ft carbon fiber masts and approximately 32,300 sq ft of sail area. From a supply chain perspective, <strong>Neoline</strong>, founded in 2011 by <strong>Jean Zanuttini</strong> and based in <strong>Nantes France</strong>, operates as a wind-assisted commercial maritime company. <strong>Neoliner Origin</strong>'s primary shipping clients include <strong>Renault Group</strong>, <strong>Beneteau Group</strong> (marine vessels), <strong>Manitou Group</strong> (forklifts), <strong>Michelin</strong>, <strong>Hennessy</strong> (cognac), and <strong>Clarins</strong> (cosmetics). Key Atlantic routes include <strong>Saint-Pierre-et-Miquelon</strong> (French island), <strong>Halifax Canada</strong>, and <strong>Baltimore U.S.</strong> &mdash; offering roll-on/roll-off service.</p>

@@ -10,8 +10,8 @@ newsSequence: 43071
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Teknoloji']"
-tags: "['Tesla', 'BYD', 'elektrikli araç', 'EV pazarı', 'Elon Musk', 'federal teşvik', 'Çin otomotiv', 'yapay zeka']"
+secondaryCategories: ['Teknoloji']
+tags: ['Tesla', 'BYD', 'elektrikli araç', 'EV pazarı', 'Elon Musk', 'federal teşvik', 'Çin otomotiv', 'yapay zeka']
 ---
 
 <p style="text-align: justify"><strong>Tesla Inc.</strong> has ceded its position as the world's leading electric vehicle manufacturer to <strong>China</strong>-based <strong>BYD Co.</strong> The company under <strong>Elon Musk</strong>'s leadership has failed to maintain the position it held over the past decade as the driver of plug-in vehicle adoption and has effectively lost its market leadership as of 2025. The <strong>U.S.</strong>-based manufacturer reported fourth-quarter deliveries that fell short of analyst expectations by 16%, with full-year 2025 sales declining nearly 9%—marking the second consecutive annual decline. In contrast, <strong>BYD</strong> has increased battery-electric vehicle sales on both a quarterly and annual basis, delivering approximately 2.26 million EVs in 2025 and comfortably surpassing <strong>Tesla</strong>'s figure of 1.64 million.</p>

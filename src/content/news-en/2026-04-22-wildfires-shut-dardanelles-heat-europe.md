@@ -10,8 +10,8 @@ newsSequence: 42310
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Risk Yönetimi']"
-tags: "['Çanakkale Boğazı', 'yangın', 'iklim değişikliği', 'Akdeniz', 'denizyolu', 'petrol nakliyatı', 'Karadeniz', 'chokepoint']"
+secondaryCategories: []
+tags: ['Çanakkale Boğazı', 'yangın', 'iklim değişikliği', 'Akdeniz', 'denizyolu', 'petrol nakliyatı', 'Karadeniz', 'chokepoint']
 ---
 
 <p style="text-align: justify"><strong>Bloomberg</strong> reports that wildfires briefly closed the <strong>Dardanelles Strait</strong> to traffic on August 11, as extreme heat and powerful winds fueled blazes across the Mediterranean. A vital maritime chokepoint for oil and gas from the <strong>Black Sea</strong> and <strong>Central Asia</strong>, the <strong>Dardanelles</strong> reopened in the evening after authorities closed it to allow firefighting aircraft to draw water from the sea to battle nearby fires. Turkish firefighters are bringing wildfires under control that have ravaged northern Aegean shores, though towns and pine forests in Çanakkale province remain under threat, with approximately 2,900 residents evacuated, according to reporting by state-run <strong>Anadolu Agency</strong>. Vast swaths of Europe face wildfire threats as scorching heat bakes the region this week. Blazes have erupted across the continent, from suburbs of Madrid and London to Greek islands and forests spanning the Balkans. The fires are fueled by powerful winds and extreme temperatures.</p>

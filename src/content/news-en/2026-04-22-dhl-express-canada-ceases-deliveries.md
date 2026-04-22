@@ -10,8 +10,8 @@ newsSequence: 42020
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['DHL Express Canada', 'Unifor', 'grev', 'lokavt', 'replacement worker', 'Lululemon', 'Shein', 'Siemens']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['DHL Express Canada', 'Unifor', 'grev', 'lokavt', 'replacement worker', 'Lululemon', 'Shein', 'Siemens']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that <strong>DHL Express Canada</strong> is suspending delivery service nationwide on June 20, 2025 — as workers continue strike action and new federal legislation banning replacement workers takes effect. According to <strong>CBC</strong>, more than 2,000 <strong>DHL</strong> employees represented by <strong>Unifor</strong> — including truck drivers, couriers, warehouse and call center staff — have been on strike since June 8 following a lockout by the German-owned delivery company after negotiations broke down. Stalled negotiations have intensified with new federal legislation that prohibits replacement workers from filling roles during federally regulated strikes or lockouts. <strong>DHL</strong> continued operations through the first twelve days of the work stoppage, but is now suspending operations as the legislation takes effect. <strong>Unifor</strong> says its bargaining priorities with <strong>DHL</strong> center on wages, working conditions, and workplace surveillance and automation. <strong>DHL</strong>'s Canadian customers include <strong>Lululemon</strong>, <strong>Shein</strong>, and <strong>Siemens</strong>.</p>

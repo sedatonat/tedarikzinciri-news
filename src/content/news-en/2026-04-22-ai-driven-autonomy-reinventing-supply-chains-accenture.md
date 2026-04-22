@@ -10,8 +10,8 @@ newsSequence: 42070
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['yapay zeka', 'otonom tedarik zinciri', 'Accenture', 'Kris Timmermans', 'Max Blanchet', 'dönüşüm', 'dayanıklılık', 'C-suite']"
+secondaryCategories: ['Lojistik']
+tags: ['yapay zeka', 'otonom tedarik zinciri', 'Accenture', 'Kris Timmermans', 'Max Blanchet', 'dönüşüm', 'dayanıklılık', 'C-suite']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain Think Tank</strong> blog post by <strong>Kris Timmermans</strong> and <strong>Max Blanchet</strong> (<strong>SCB Contributors</strong>) argues that as disruption frequency and complexity increase, traditional supply chain models are reaching their limits. Forward-thinking leaders are now prioritizing long-term transformation to build resilience and agility. <strong>Accenture</strong>'s new global research reveals a decisive shift—executives are viewing AI-driven autonomous supply chains as the next strategic lever. The research was conducted with 1,000 C-suite executives across North America, South America, Europe, and Asia Pacific—operating across 10 industries, including supply chain, digital, and technology chief executives. Supply chains were historically optimized largely for cost. Then came the pandemic, geopolitical fractures, climate shocks, and labor shortages—all driving companies into triage and recovery cycles. Resilience is now the new mantra. This shift is not merely conceptual. The research finds that two-thirds of global companies (66%) plan to make significant advances in supply chain autonomy over the next decade—and nearly 40% of these aim to reach a higher degree of autonomy, with the system managing most operational decisions.</p>

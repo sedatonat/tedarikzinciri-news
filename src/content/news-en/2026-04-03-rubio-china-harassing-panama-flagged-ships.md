@@ -10,8 +10,8 @@ newsSequence: 43786
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Marco Rubio', 'Çin', 'Panama', 'FMC', 'CK Hutchison', 'tahkim', 'Panama Kanalı', 'Trump']"
+secondaryCategories: ['Lojistik']
+tags: ['Marco Rubio', 'Çin', 'Panama', 'FMC', 'CK Hutchison', 'tahkim', 'Panama Kanalı', 'Trump']
 ---
 
 <p style="text-align: justify"><strong>The U.S.</strong> is accusing <strong>China</strong> of harassing and detaining <strong>Panama</strong>-flagged vessels following the cancellation of contracts between the <strong>Central American</strong> nation and a <strong>Hong Kong</strong>-based conglomerate that operates ports on both sides of the <strong>Panama Canal</strong>. From a supply chain perspective, <strong>Panama</strong>'s significance in the <strong>flag of convenience</strong> market directly affects the role of the flag state regime in <strong>port state control</strong>, <strong>vetting</strong>, and port transit processes within the global commercial fleet. <strong>Port rotation</strong> decisions by <strong>Cosco</strong>, <strong>OOCL</strong>, and <strong>SITC</strong> lines in <strong>Asia-Latin America</strong> services are prompting <strong>charterer</strong>s to reassess flag preference as a risk factor.</p>

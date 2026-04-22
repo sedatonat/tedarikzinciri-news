@@ -10,8 +10,8 @@ newsSequence: 41860
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['BYD', 'Brezilya', 'zorla çalıştırma', 'insan kaçakçılığı', 'EV', 'Çin', 'işçi hakları', 'ESG']"
+secondaryCategories: ['Lojistik']
+tags: ['BYD', 'Brezilya', 'zorla çalıştırma', 'insan kaçakçılığı', 'EV', 'Çin', 'işçi hakları', 'ESG']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that <strong>Brazil</strong> is suing Chinese automaker <strong>BYD</strong> over allegations that the company subjected workers to slave-like conditions and engaged in human trafficking. According to <strong>Associated Press</strong>, Brazilian labor prosecutors filed suit on May 27 against <strong>BYD</strong> and two contractors, seeking 257 million Brazilian reais ($50 million USD) in damages. The lawsuit stems from the rescue of 220 Chinese workers from a construction site at a <strong>BYD</strong> factory in <strong>Brazil</strong> in December 2024, who prosecutors allege were brought into the country under false pretenses and forced to work under "extremely degrading" conditions. According to prosecutors, workers at five residential facilities managed by <strong>BYD</strong> and the two contractors slept in beds without mattresses, had limited access to toilets, and worked "exhausting hours" without weekly rest. Federal agents also allege that workers had up to 70 percent of their wages withheld, were forced to pay deposits to their employers, and had their passports confiscated. If a worker terminates their contract early, they forfeit their deposit and must repay the value of the airline ticket they received to come to the country.</p>

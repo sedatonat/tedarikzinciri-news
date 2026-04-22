@@ -10,8 +10,8 @@ newsSequence: 43685
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Suudi Arabistan', 'Yanbu', 'Hürmüz Boğazı', 'Saudi Aramco', 'IEA', 'Kızıldeniz', 'VLCC', 'petrol ihracatı']"
+secondaryCategories: ['Lojistik']
+tags: ['Suudi Arabistan', 'Yanbu', 'Hürmüz Boğazı', 'Saudi Aramco', 'IEA', 'Kızıldeniz', 'VLCC', 'petrol ihracatı']
 ---
 
 <p style="text-align: justify"><strong>Saudi Arabia</strong> is ramping up oil exports to above half normal levels despite the disruptions caused by the <strong>Iran</strong> conflict, marking an early sign of success for the kingdom's ambitious contingency plan to bypass the <strong>Strait of Hormuz</strong>. From a supply chain perspective, <strong>Saudi Aramco</strong>'s rapid activation of western coast capacity is enabling <strong>Asian</strong> refineries to maintain <strong>spot</strong> supply flows. The shift of <strong>VLCC</strong> and <strong>Suezmax</strong> tonnage toward the <strong>Red Sea</strong> is bringing the <strong>Cape of Good Hope</strong> route back into focus and significantly raising <strong>tonne-mile</strong> demand. For flows heading through <strong>Bab el-Mandeb</strong> toward the <strong>Suez Canal</strong>, there is a need to reassess the <strong>Houthi</strong> threat profile.</p>

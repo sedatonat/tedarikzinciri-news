@@ -10,8 +10,8 @@ newsSequence: 41250
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Mexico', 'nearshoring', 'Trump', 'tarife', 'QIMA', 'reshoring', 'Ivan Hernandez', 'maquiladora']"
+secondaryCategories: ['Lojistik']
+tags: ['Mexico', 'nearshoring', 'Trump', 'tarife', 'QIMA', 'reshoring', 'Ivan Hernandez', 'maquiladora']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; analyst insight; President <strong>Trump</strong>'s latest round of tariffs — whether implemented or threatened — should not be expected to trigger a boom in domestic manufacturing in the U.S. — or to bring an end to the growth of "nearshored" production capacity in <strong>Mexico</strong>. This is the view of <strong>Ivan Hernandez</strong>, <strong>Latin America Managing Director</strong> at <strong>QIMA</strong> — <strong>QIMA</strong> is a software and service provider enabling supply chain compliance in the consumer products, food, and life sciences sectors. Among the stated objectives of <strong>Trump</strong> tariffs is to force American manufacturers to return production to the U.S. However, this anticipated "reshoring" surge faces multiple hurdles and practical challenges — according to <strong>Hernandez</strong>. One of these is a shortage of skilled manufacturing labor in the U.S. — <strong>Mexico</strong>'s primary relative advantage.</p>

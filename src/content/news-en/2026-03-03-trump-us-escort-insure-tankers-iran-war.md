@@ -10,8 +10,8 @@ newsSequence: 43579
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Trump', 'Hürmüz Boğazı', 'DFC', 'ABD Donanması', 'petrol tankeri', 'enerji krizi', 'Brent', 'İran savaşı']"
+secondaryCategories: ['Lojistik']
+tags: ['Trump', 'Hürmüz Boğazı', 'DFC', 'ABD Donanması', 'petrol tankeri', 'enerji krizi', 'Brent', 'İran savaşı']
 ---
 
 <p style="text-align: justify"><strong>President Donald Trump</strong> has announced that the <strong>U.S.</strong> will provide insurance guarantees and naval escort to ensure the safe passage of oil tankers and other vessels transiting through the <strong>Strait of Hormuz</strong>. The purpose of this announcement is to avert a potential energy crisis that could result from the ongoing conflict with <strong>Iran</strong>. From a supply chain perspective, <strong>marine war risk</strong> premiums and <strong>K&amp;R</strong> insurance rates are key determinants for <strong>VLCC</strong>, <strong>Suezmax</strong>, <strong>LR2</strong>, and <strong>Aframax</strong> tankers. The state-backed insurance layer creates an alternative support mechanism to capacity outflows from <strong>P&amp;I clubs</strong> and the private reinsurance market. This structure serves as a bridge for crude supply flows to <strong>Asian</strong> refineries and contributes to softening risk premiums in the global oil market.</p>

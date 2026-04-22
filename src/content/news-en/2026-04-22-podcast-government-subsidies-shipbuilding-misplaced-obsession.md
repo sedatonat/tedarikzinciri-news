@@ -10,8 +10,8 @@ newsSequence: 43813
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['podcast', 'gemi inşası', 'Cato Institute', 'Colin Grabow', 'Jones Act', 'Maritime Action Plan', 'Trump', 'sübvansiyon']"
+secondaryCategories: ['Lojistik']
+tags: ['podcast', 'gemi inşası', 'Cato Institute', 'Colin Grabow', 'Jones Act', 'Maritime Action Plan', 'Trump', 'sübvansiyon']
 ---
 
 <p style="text-align: justify">Should the federal government support the struggling <strong>U.S.</strong> commercial shipbuilding sector through subsidies? The <strong>Trump Administration</strong>'s recently released "<strong>Maritime Action Plan</strong>," presented as aimed at restoring "<strong>America's maritime dominance</strong>," includes a new round of proposed construction subsidies for <strong>U.S.</strong> commercial shipbuilding. No one disputes that the sector cannot compete with many other countries in cost, infrastructure, innovation, and order delivery times. But is it sensible to attempt to level the playing field with expensive subsidies? From a supply chain perspective, <strong>U.S.</strong> commercial shipbuilding produces 5–10 commercial vessels annually in a global market dominated by Asian giants such as <strong>Hyundai Heavy Industries</strong>, <strong>Samsung Heavy Industries</strong>, <strong>Daewoo Shipbuilding</strong> (South Korea), and <strong>China State Shipbuilding Corporation</strong> (<strong>CSSC</strong>) and <strong>China Shipbuilding Industry Corporation</strong> (<strong>CSIC</strong>), each of which builds more than 100 commercial vessels yearly. On a <strong>compensated gross tonnage</strong> (<strong>CGT</strong>) basis, the <strong>U.S.</strong> share of global production is less than 1%.</p>

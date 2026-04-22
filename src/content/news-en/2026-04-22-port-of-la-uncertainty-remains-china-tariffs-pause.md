@@ -10,8 +10,8 @@ newsSequence: 41820
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['POLA', 'liman', 'Gene Seroka', 'Çin', 'tarife', 'konteyner', 'Trump', 'nakliye']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['POLA', 'liman', 'Gene Seroka', 'Çin', 'tarife', 'konteyner', 'Trump', 'nakliye']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that the <strong>Port of Los Angeles</strong> does not expect a significant surge in cargo following the 90-day pause in reciprocal tariffs between the <strong>U.S.</strong> and <strong>China</strong> — though it does anticipate volumes from <strong>China</strong> to move higher. During a May 19 briefing, <strong>Gene Seroka</strong>, Executive Director of the <strong>Port of Los Angeles</strong>, stated that he expects vessel volumes to remain well below what the port experienced during the pandemic peak — while also forecasting lower inventory across "various retail sectors" and for parts supply to <strong>U.S.</strong> factories. "This leaves us with fewer product selections and presumably higher prices," he said. "For now, uncertainty persists in every business meeting I have — and finding the best decisions possible for companies remains difficult." <strong>Seroka</strong> also confirmed that many <strong>U.S.</strong> companies have begun resuming shipments from <strong>China</strong> after pausing orders prior to the Trump administration's announcement of the tariff pause in early May. However, the sudden surge in demand for cargo space has driven an increase in shipping rates — pushing retailers and manufacturers to "plan carefully."</p>

@@ -10,8 +10,8 @@ newsSequence: 42850
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Trump', 'tarife', 'İsviçre', 'kahve', 'muz', 'BBC', 'Guardian', 'IEEPA']"
+secondaryCategories: ['Lojistik']
+tags: ['Trump', 'tarife', 'İsviçre', 'kahve', 'muz', 'BBC', 'Guardian', 'IEEPA']
 ---
 
 <p style="text-align: justify"><strong>Trump</strong> administration said it will reduce import tariffs on coffee and bananas on November 13 — as part of trade agreements with <strong>Argentina</strong>, <strong>Guatemala</strong>, <strong>El Salvador</strong>, and <strong>Ecuador</strong>, according to <strong>BBC News</strong> reporting. Meanwhile, on November 14, the administration agreed under a "non-binding memorandum of understanding" (<strong>MoU</strong>) to cap U.S. tariffs on <strong>Switzerland</strong> and <strong>Liechtenstein</strong> at "a maximum of 15 percent," according to a statement from the Swiss government. <strong>The Guardian</strong> reported that this brings U.S. tariffs on <strong>Switzerland</strong>, previously set at 39 percent, into alignment with those on neighboring <strong>European Union</strong> countries. From a supply chain perspective, the U.S. consumes approximately 1.5 billion pounds of coffee annually globally — with <strong>Brazil</strong>, <strong>Vietnam</strong>, <strong>Colombia</strong>, <strong>Honduras</strong>, <strong>Ethiopia</strong>, <strong>Peru</strong>, <strong>Indonesia</strong>, <strong>Mexico</strong>, <strong>Guatemala</strong>, <strong>Nicaragua</strong>, and <strong>Costa Rica</strong> being the main coffee supplier countries. <strong>Ecuador</strong> is the world's leading banana exporter — with <strong>Costa Rica</strong>, <strong>Guatemala</strong>, <strong>Colombia</strong>, and <strong>Honduras</strong> as other major banana exporters.</p>

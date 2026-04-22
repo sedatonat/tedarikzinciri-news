@@ -10,8 +10,8 @@ newsSequence: 42980
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Walmart', 'Wing', 'Heather Rivera', 'drone teslimat', 'Atlanta', 'last mile', 'Alphabet', 'BVLOS']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Walmart', 'Wing', 'Heather Rivera', 'drone teslimat', 'Atlanta', 'last mile', 'Alphabet', 'BVLOS']
 ---
 
 <p style="text-align: justify"><strong>Walmart</strong> is partnering with drone company <strong>Wing</strong> to launch drone deliveries for six stores in the <strong>Atlanta</strong> metropolitan area—part of the retail giant's plan to expand the service to five cities by mid-2026. According to a statement from <strong>Wing</strong>, drone deliveries in <strong>Atlanta</strong> will begin on December 3 and will include groceries, home goods, toys, and over-the-counter medicines—with estimated flight times of five minutes or less. This marks the first major new metropolitan area to bring drone deliveries since <strong>Walmart</strong> announced expansion plans in June 2025. <strong>Houston</strong>, <strong>Orlando</strong>, <strong>Tampa</strong>, and <strong>Charlotte</strong> are expected to follow next—but <strong>Atlanta</strong> was selected first due to its dense population and relatively high customer demand. From a supply chain perspective, <strong>Wing</strong> is a subsidiary of <strong>Alphabet Inc.</strong> (<strong>Google</strong>)—originating from <strong>Palo Alto, California</strong>, launched within <strong>Google X</strong> in 2012, and spun off as an independent <strong>Alphabet</strong> company in 2018.</p>

@@ -10,8 +10,8 @@ newsSequence: 42370
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Target', 'Brian Cornell', 'Michael Fiddelke', 'CEO atama', 'perakende', 'ABD', 'tüketici harcaması', 'tarifeler']"
+secondaryCategories: ['Lojistik']
+tags: ['Target', 'Brian Cornell', 'Michael Fiddelke', 'CEO atama', 'perakende', 'ABD', 'tüketici harcaması', 'tarifeler']
 ---
 
 <p style="text-align: justify"><strong>Retail</strong> giant <strong>Target</strong> is appointing a new <strong>chief executive</strong> as it struggles to reverse declines in sales and share price — according to <strong>BBC News</strong> reporting. The effects of <strong>U.S.</strong> tariffs are raising concerns about consumer spending across all <strong>U.S.</strong> retailers — particularly for discretionary products such as apparel and electronics. Outgoing CEO <strong>Brian Cornell</strong>, who has served for 10 years, is expected to retire and will be replaced in February 2026 by the company's <strong>chief operating officer</strong> — <strong>Michael Fiddelke</strong>, who has been with the company for 20 years. <strong>Target</strong>'s shares fell more than 6% on August 20 following the announcement. <strong>Fiddelke</strong> said in a statement that the company "has work to do" and needs to move "faster, much faster." He also pledged to improve the quality of products offered and embed more technology into operations. <strong>Target</strong> has been losing ground to competitors such as <strong>Walmart</strong>, <strong>Costco</strong>, and <strong>Amazon</strong> — and saw weak sales last year.</p>

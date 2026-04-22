@@ -10,8 +10,8 @@ newsSequence: 41950
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['metahuman', 'yapay zeka', 'LLM', 'Pantheon Lab', 'Ivan Lau', 'duygu zekası', 'digital human', 'müşteri hizmeti']"
+secondaryCategories: ['Lojistik']
+tags: ['metahuman', 'yapay zeka', 'LLM', 'Pantheon Lab', 'Ivan Lau', 'duygu zekası', 'digital human', 'müşteri hizmeti']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> podcast is examining: <strong>Robert J. Bowman</strong>, <strong>Editor-in-Chief</strong>, asks—is the "person" you're speaking with on that kiosk screen a real human? Or is it a <strong>metahuman</strong>? There is nothing particularly new about virtual humans answering queries, providing customer service, or attempting to resolve problems. However, such entities are becoming increasingly realistic in appearance, behavior, and information sourcing. In fact, we are entering the age of the <strong>metahuman</strong>—voice-enabled interfaces designed to engage users with "human-like" empathy and understanding, even possessing <strong>emotional intelligence</strong>, according to <strong>Ivan Lau</strong>, founder of <strong>Pantheon Lab</strong> and our guest for this episode. He explains how artificial intelligence, and especially large language models, are making it possible for digital humans to detect, interpret, and respond to human emotions in real time. The discussion covers where and when these metahumans will begin to emerge, what they can do, and how they may (or may not) be accepted by real humans. Are we witnessing the end of person-to-person human interaction? What does this mean for social interaction and society?</p>

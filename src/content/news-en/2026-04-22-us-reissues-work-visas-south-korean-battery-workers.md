@@ -10,8 +10,8 @@ newsSequence: 42840
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Hyundai', 'LG Energy Solution', 'ICE', 'B-1 vize', 'Güney Kore', 'batarya', 'Georgia', 'göç baskını']"
+secondaryCategories: ['Lojistik']
+tags: ['Hyundai', 'LG Energy Solution', 'ICE', 'B-1 vize', 'Güney Kore', 'batarya', 'Georgia', 'göç baskını']
 ---
 
 <p style="text-align: justify"><strong>U.S. State Department</strong> is reissuing work visas for some <strong>South Korean</strong> workers who were removed from a <strong>Hyundai Motor Co.</strong>-<strong>LG Energy Solution Ltd.</strong> battery facility during an immigration raid in early September. Some are returning to work in the <strong>U.S.</strong> — according to <strong>The New York Times</strong>. In a move aimed at reversing the political turmoil created by the raid, approximately 180 people holding <strong>B-1</strong> business visas in the <strong>U.S.</strong> are having their visas returned — said <strong>Kim Min-su</strong>, one of those detained, to <strong>Times</strong>. At least 30 of these workers are returning to the battery facility — <strong>Kim</strong> said — and former detainees are preparing a <strong>class-action</strong> lawsuit against <strong>U.S.</strong> immigration authorities, claiming their detention was illegal because they held valid work visas. They are also claiming that the detention centers where they were held were "unhealthy." From a supply chain perspective, <strong>HL-GA Battery Company</strong> is a joint venture between <strong>Hyundai Motor Group</strong> and <strong>LG Energy Solution</strong> in <strong>Bryan County, Georgia</strong> — planned to produce <strong>NCM</strong> (<strong>Nickel Cobalt Manganese</strong>) cells with an annual capacity of 30 GWh.</p>

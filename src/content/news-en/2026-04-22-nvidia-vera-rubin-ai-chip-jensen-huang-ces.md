@@ -10,8 +10,8 @@ newsSequence: 43090
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Nvidia', 'Vera Rubin', 'Jensen Huang', 'CES', 'AI çip', 'Mercedes-Benz', 'Trump', 'H200']"
+secondaryCategories: ['Lojistik']
+tags: ['Nvidia', 'Vera Rubin', 'Jensen Huang', 'CES', 'AI çip', 'Mercedes-Benz', 'Trump', 'H200']
 ---
 
 <p style="text-align: justify">Nvidia CEO <strong>Jensen Huang</strong> said the chipmaker will begin shipping a new <strong>AI</strong> chip in the coming months this year — a processor that delivers more compute power than its predecessors while consuming less electricity. <strong>The New York Times</strong> reports that the chip, known as <strong>Vera Rubin</strong>, has been in development for three years and is designed to meet <strong>AI</strong> demands faster and more cost-effectively than its predecessors. From a supply chain perspective, <strong>Nvidia</strong> is based in <strong>Santa Clara, California</strong> and was founded in 1993 by <strong>Jensen Huang</strong>, <strong>Chris Malachowsky</strong>, and <strong>Curtis Priem</strong>. In the <strong>GPU</strong> market, it competes against <strong>AMD</strong>, <strong>Intel</strong>, <strong>Imagination Technologies</strong>, <strong>ARM Mali</strong>, and <strong>Qualcomm Adreno</strong>. In the <strong>data center AI accelerator</strong> market, it holds over 80% share as of 2026.</p>

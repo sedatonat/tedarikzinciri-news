@@ -10,8 +10,8 @@ newsSequence: 41700
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Aras', 'dijital iplik', 'PLM', 'sürdürülebilirlik', 'endüstriyel', 'innovation', 'compliance', 'ürün yaşam döngüsü']"
+secondaryCategories: ['Lojistik']
+tags: ['Aras', 'dijital iplik', 'PLM', 'sürdürülebilirlik', 'endüstriyel', 'innovation', 'compliance', 'ürün yaşam döngüsü']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that <strong>Pawel Z. Chadzynski</strong>, <strong>Senior Director of Strategic Research</strong> at <strong>Aras</strong>, offers analyst insight into how industrial companies must overcome three interconnected challenges to support their sustainability efforts: driving sustainability, ensuring compliance, and fostering innovation. The digital thread—a consistent, seamless flow of information throughout the product lifecycle—can enable companies to understand the impact of their decision-making on green initiatives and empower them to use this data for better decisions. Data sits at the heart of sustainability—how it is captured, connected, and used. Sustainability is evolving from a corporate responsibility initiative to a business imperative, a value recognized by industrial companies worldwide. In fact, some consumers are prioritizing sustainability in their purchasing decisions, with many willing to pay a premium for environmentally responsible products. For companies, sustainability is not just about meeting consumer expectations; it is also about driving profitability, efficiency, and long-term resilience. In a 2025 research report titled "<strong>The Future of Product Lifecycle Management and Digital Engineering</strong>," an overwhelming majority of respondents—92 percent—agree that progress on sustainability is key to their organizations' economic success. However, achieving sustainability goals requires more than good intentions. Businesses must determine the right sustainability priorities based on their data, track progress in real time and adapt their strategies, and foster collaboration with suppliers and partners.</p>

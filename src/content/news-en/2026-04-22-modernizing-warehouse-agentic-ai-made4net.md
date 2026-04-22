@@ -10,8 +10,8 @@ newsSequence: 43872
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Made4Net', 'ajansal yapay zeka', 'Jeff Jones', 'depo otomasyonu', 'self-healing', 'veri kalitesi', 'istisna yönetimi', 'eğitim']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Made4Net', 'ajansal yapay zeka', 'Jeff Jones', 'depo otomasyonu', 'self-healing', 'veri kalitesi', 'istisna yönetimi', 'eğitim']
 ---
 
 <p style="text-align: justify"><strong>Jeff Jones</strong>, senior customer manager at <strong>Made4Net</strong>, points out that agentic artificial intelligence with actionable, decision-making capabilities is becoming reality in today's warehouse. <strong>Jones</strong> characterizes agentic AI as a "<strong>self-healing system</strong>" that takes over non-value-adding human interaction in handling exceptions and alleviating challenges to ensure shipments depart on time. From a supply chain perspective, <strong>Made4Net</strong> delivers integrated solutions across <strong>WMS</strong>, <strong>YMS</strong> (<strong>Yard Management System</strong>), <strong>TMS</strong>, <strong>LMS</strong> (<strong>Labor Management System</strong>), and delivery applications through its <strong>SCExpert</strong> platform. <strong>HighJump</strong> and <strong>Tecsys</strong> are competing players offering similarly comprehensive solutions in the mid-market segment.</p>

@@ -10,8 +10,8 @@ newsSequence: 42180
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Kaliforniya', 'yüksek hızlı tren', 'FRA', 'Sean Duffy', 'altyapı', 'ABD', 'demiryolu', 'federal finansman']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Kaliforniya', 'yüksek hızlı tren', 'FRA', 'Sean Duffy', 'altyapı', 'ABD', 'demiryolu', 'federal finansman']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that California's troubled high-speed rail project—referred to by critics as a "train to nowhere"—stands to lose $4 billion in unspent federal funding from the Federal Railroad Administration (FRA). Transportation Secretary <strong>Sean Duffy</strong> announced the decision on July 17. "After 16 years of failure and not a single completed high-speed track, you have no confidence in CHSRA's ability to complete this project," Duffy stated. "This is California's fault. Governor Newsom and his Democratic allies have enabled this waste for years. Federal dollars are not a blank check—they come with a promise to deliver results," Duffy said in a statement. The federal decision is based on the California High-Speed Rail Authority's (CHSRA) failure to address serious project deficiencies. It represents a concrete example of the Trump 2.0 administration's approach to applying stricter performance standards to infrastructure projects.</p>

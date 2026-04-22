@@ -10,8 +10,8 @@ newsSequence: 41850
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['dijital dönüşüm', 'AI', 'dijital pazaryeri', 'IoT', 'blockchain', 'Amit Patel', 'Think Tank', 'görünürlük']"
+secondaryCategories: ['Lojistik']
+tags: ['dijital dönüşüm', 'AI', 'dijital pazaryeri', 'IoT', 'blockchain', 'Amit Patel', 'Think Tank', 'görünürlük']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> Think Tank publication; <strong>Amit Patel</strong> (<strong>SCB Contributor</strong>); digital transformation is becoming increasingly necessary to conduct business. To achieve this, supply chain leaders must look beyond traditional methods to embrace new technologies that streamline operations, reduce costs, and enhance customer satisfaction. Recent research reveals that 82% of supply chain professionals believe advances in technology will have significant impact over the next five years. Below are four key shifts that will differentiate top performers from the rest. First, <strong>digital marketplaces</strong> — connecting buyers and suppliers through centralized, cloud-based platforms — increase transparency, accelerate procurement cycles, and enable real-time price comparison and availability checks. The benefits include faster sourcing decisions and access to a broader supplier network. Additionally, these platforms typically integrate supplier performance data and compliance ratings — enabling organizations to evaluate vendors more effectively and reduce disruption risk. Studies show that supply chain disruptions lasting more than a month occur on average every 3.7 years — and can cost up to 45% of annual profit spread over a decade.</p>

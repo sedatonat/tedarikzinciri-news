@@ -10,8 +10,8 @@ newsSequence: 41600
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['tarife', 'Echo', 'Filipinler', 'Çin', 'nearshoring', 'friendshoring', 'Trump', 'hidrojen su']"
+secondaryCategories: ['Lojistik']
+tags: ['tarife', 'Echo', 'Filipinler', 'Çin', 'nearshoring', 'friendshoring', 'Trump', 'hidrojen su']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that <strong>Josh Carr</strong>, CEO of <strong>Echo</strong>, says the hydrogen water flask and filter company has successfully built a "tariff-proof" supply chain—a notable achievement at a time when many companies are discussing the need to raise consumer prices to cover the additional costs imposed by new tariffs. According to an April 22 press release from <strong>Echo</strong>, the company made the decision in 2024 to shift production from <strong>China</strong> to the <strong>Philippines</strong> as a precaution against the tariffs that the incoming <strong>Trump</strong> administration had been hinting at for months. Today, the company is "operating at full speed," according to CEO <strong>Josh Carr</strong>, and has managed to maintain both its supply and pricing despite absorbing the "significant costs" associated with moving away from <strong>China</strong>. This includes tooling and setup fees that were previously covered by state subsidies from the Chinese government, as well as investments in new supplier relationships and equipment. Nevertheless, <strong>Echo</strong> estimates it will save approximately 10 million dollars by 2025 through its transition to the <strong>Philippines</strong>. "This is not just about delivery times—it's about insulation," says <strong>Carr</strong>. "Because we invested in flexibility before it became urgent, we can absorb price volatility."</p>

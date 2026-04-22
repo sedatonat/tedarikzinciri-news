@@ -10,8 +10,8 @@ newsSequence: 42500
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Risk Yönetimi']"
-tags: "['Jaguar Land Rover', 'JLR', 'siber saldırı', 'Tata Motors', 'otomotiv', 'İngiltere', 'tedarik zinciri kesintisi', 'Solihull']"
+secondaryCategories: []
+tags: ['Jaguar Land Rover', 'JLR', 'siber saldırı', 'Tata Motors', 'otomotiv', 'İngiltere', 'tedarik zinciri kesintisi', 'Solihull']
 ---
 
 <p style="text-align: justify"><strong>Jaguar Land Rover</strong> (<strong>JLR</strong>) has told suppliers that production at its U.K. factories will not resume for at least until September 24 following a major cyberattack — with industry sources warning the disruption could extend through November, according to <strong>BBC News</strong>. A criminal investigation is underway into the attack, which occurred more than two weeks ago, forcing <strong>JLR</strong> to shut down its IT networks — paralyzing production at vehicle factories in <strong>Solihull</strong> and <strong>Halewood</strong> and the engine plant in <strong>Wolverhampton</strong>. Production has also halted at major factories in <strong>Slovakia</strong> and <strong>China</strong>, as well as a smaller facility in <strong>India</strong>. <strong>JLR</strong>, owned by India's <strong>Tata Motors</strong>, has dismissed reports that the disruption could last weeks or months as "speculation." However, <strong>BBC News</strong> reports that suppliers — mostly small and medium-sized enterprises — lack the financial resources to cope with an extended outage.</p>

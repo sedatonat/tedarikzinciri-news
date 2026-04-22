@@ -10,8 +10,8 @@ newsSequence: 41500
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Trump', 'tarife', 'resesyon', 'ITR Economics', 'Connor Lokar', 'ekonomi', 'ticaret savaşı', 'depresyon']"
+secondaryCategories: ['Lojistik']
+tags: ['Trump', 'tarife', 'resesyon', 'ITR Economics', 'Connor Lokar', 'ekonomi', 'ticaret savaşı', 'depresyon']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports on an interview between <strong>Connor Lokar</strong>, <strong>Senior Forecaster</strong> at <strong>ITR Economics</strong>, and <strong>Robert J. Bowman</strong> of <strong>SupplyChainBrain</strong>. The analyst discussion weighs the probability that the Trump administration's latest round of tariffs could trigger a recession and examines the likelihood of a Great Depression occurring within the next decade. Can the new Trump tariffs bring about a recession? "Not at this point," Lokar states. He emphasizes the potential damage from an escalating trade war—yet maintains that "we're okay" for now. "I think the economy can still grow despite some tariff pressure," he says. Lokar argues that many sectors of the U.S. economy—including single-family housing, inflation-adjusted capital goods, and new orders—remain on solid footing. However, if the trade war worsens, the possibility of a Great Depression becomes a real concern.</p>

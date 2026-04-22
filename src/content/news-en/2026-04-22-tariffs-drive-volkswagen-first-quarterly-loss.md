@@ -10,8 +10,8 @@ newsSequence: 42760
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Volkswagen', 'Trump', 'tarife', 'Porsche', 'EV', 'Arno Antlitz', 'otomotiv', 'Almanya']"
+secondaryCategories: ['Lojistik']
+tags: ['Volkswagen', 'Trump', 'tarife', 'Porsche', 'EV', 'Arno Antlitz', 'otomotiv', 'Almanya']
 ---
 
 <p style="text-align: justify"><strong>Volkswagen</strong> reported a third-quarter operating loss of $1.5 billion &mdash; a result driven by ongoing financial pressure from Trump administration tariffs and a costly retreat from electric vehicles at its <strong>Porsche</strong> brand. <strong>Volkswagen</strong> expects tariffs to cost the company more than $5.7 billion by year-end and anticipates an additional $5.4 billion hit from its decision to reverse the all-electric strategy at <strong>Porsche</strong>. In a statement on October 30, <strong>Arno Antlitz</strong>, chief financial officer of the automotive manufacturer, addressed these results. This marks <strong>Volkswagen</strong>'s first quarterly loss in five years. From a supply chain perspective, <strong>Volkswagen Group</strong> (<strong>Volkswagen AG</strong>), headquartered in <strong>Wolfsburg, Germany</strong> and founded in 1937, is the world's second-largest automotive manufacturer, after <strong>Toyota</strong>. Core brands include <strong>Volkswagen</strong>, <strong>Audi</strong>, <strong>Porsche</strong>, <strong>Lamborghini</strong>, <strong>Bentley</strong>, <strong>Bugatti</strong> (via <strong>Mate Rimac</strong> joint venture), <strong>SEAT</strong>, <strong>CUPRA</strong>, <strong>Škoda</strong>, <strong>Scania</strong>, <strong>MAN</strong>, and <strong>Ducati</strong>, along with <strong>VW Commercial Vehicles</strong>. The photograph, credited to <strong>iStock aquatarkus</strong>, was taken at the <strong>Volkswagen</strong> facility in <strong>Mosel, Germany</strong>. <strong>Mosel</strong> is located in <strong>Saxony</strong> near <strong>Zwickau</strong>, home to <strong>VW</strong>'s electric vehicle production plant for the <strong>ID. Series</strong> (ID.3, ID.4, ID.5).</p>

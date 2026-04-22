@@ -10,8 +10,8 @@ newsSequence: 43841
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['büyük veri', 'öngörücü analitik', 'senaryo modelleme', 'havacılık tedarik zinciri', 'veri bütünlüğü', 'yapay zeka', 'tahminleme', 'entegre sistemler']"
+secondaryCategories: ['Lojistik']
+tags: ['büyük veri', 'öngörücü analitik', 'senaryo modelleme', 'havacılık tedarik zinciri', 'veri bütünlüğü', 'yapay zeka', 'tahminleme', 'entegre sistemler']
 ---
 
 <p style="text-align: justify"><strong>Big data</strong> is now a constant presence in supply chain operations. Organizations are capturing more information than at any point in supply chain management history. Dashboards are full; alerts are frequent; reports are abundant. Yet many teams remain reactive despite this information abundance. The real issue is not simply gaining access to data. The true gap lies in ensuring data integrity and organizing information effectively for efficient consumption and informed decision-making. Without these fundamental steps, even massive quantities of supply chain information fall short of delivering meaningful insights. From a supply chain perspective, the disciplines of <strong>data quality</strong>, <strong>master data management (MDM)</strong>, and <strong>data governance</strong> form the foundation of <strong>S&amp;OP</strong> and <strong>IBP</strong> processes; real value in <strong>control tower</strong> architectures emerges only from cleaned data.</p>

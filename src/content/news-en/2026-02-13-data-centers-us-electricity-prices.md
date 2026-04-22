@@ -10,8 +10,8 @@ newsSequence: 43470
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['veri merkezi', 'elektrik fiyatı', 'yapay zeka', 'ABD enerji', 'Goldman Sachs', 'DOE', 'enerji altyapısı', 'tüketici maliyeti']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['veri merkezi', 'elektrik fiyatı', 'yapay zeka', 'ABD enerji', 'Goldman Sachs', 'DOE', 'enerji altyapısı', 'tüketici maliyeti']
 ---
 
 <p style="text-align: justify"><strong>United States</strong> electricity prices are rising approximately 7% year-over-year in 2025, with artificial intelligence data centers driving energy demand growth that is expected to continue inflating rates. This trend is creating direct pressure on <strong>U.S.</strong> household budgets while simultaneously reshaping the input cost base across manufacturing sectors. From a supply chain perspective, electricity tariff increases represent significant cost implications for automotive assembly lines, steel mills, food processing facilities, and electronics <strong>OSAT</strong> operations. As <strong>AI</strong> capacity expands, the pace of investment in the nation's energy infrastructure expansion has become a critical variable determining where household and industrial consumer price effects will ultimately land.</p>

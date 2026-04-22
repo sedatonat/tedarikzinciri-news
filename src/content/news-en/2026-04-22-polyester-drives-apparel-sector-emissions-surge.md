@@ -10,8 +10,8 @@ newsSequence: 42340
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Sürdürülebilirlik']"
-tags: "['polyester', 'hazır giyim', 'karbon emisyonu', 'Apparel Impact Institute', 'fast fashion', 'pamuk', 'sürdürülebilirlik', 'tekstil']"
+secondaryCategories: []
+tags: ['polyester', 'hazır giyim', 'karbon emisyonu', 'Apparel Impact Institute', 'fast fashion', 'pamuk', 'sürdürülebilirlik', 'tekstil']
 ---
 
 <p style="text-align: justify"><strong>Apparel</strong> sector-generated global greenhouse gas emissions grew 7.5% in 2023 — driven by increased production fueled by mounting dependence on carbon-intensive polyester and rising demand from the fast-fashion industry. "It is encouraging to see progress across the value chain — with meaningful case studies from brands and suppliers — but this data is a sharp reminder of how much further we still need to go as an industry," said <strong>Lewis Perkins</strong>, president of environmental nonprofit <strong>Apparel Impact Institute</strong> (<strong>Aii</strong>). According to a report released by <strong>Aii</strong> on July 23, the apparel sector accounted for 2% of total global emissions in 2023 — leaving the industry substantially behind its target to halve its carbon footprint by 2030. <strong>Aii</strong> found that polyester accounts for 57% of total global fiber production — by far the largest of any material. By comparison, cotton is the second most commonly used fiber at 20% — followed by man-made cellulosic fibers.</p>

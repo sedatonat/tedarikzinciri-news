@@ -10,8 +10,8 @@ newsSequence: 41780
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['ambalaj', 'sürdürülebilirlik', 'EPR', 'David Gray', 'Ranpak', 'e-ticaret', 'geri dönüşüm', 'Kaliforniya']"
+secondaryCategories: ['Lojistik']
+tags: ['ambalaj', 'sürdürülebilirlik', 'EPR', 'David Gray', 'Ranpak', 'e-ticaret', 'geri dönüşüm', 'Kaliforniya']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that <strong>David Gray</strong> (<strong>SCB Contributor</strong>), in the packaging world, notes that calls for sustainability have never been louder. As online shopping and e-commerce expand, packaging waste volumes are growing. Oversized boxes, excessive void fill materials, and items difficult to recycle are no longer merely inefficiencies—they are now liabilities. Governments, regulators, and consumers are demanding a shift toward more sustainable packaging practices, and businesses across the supply chain must adapt accordingly. At its core, <strong>EPR</strong> (<strong>Extended Producer Responsibility</strong>) requires manufacturers and distributors of packaging materials to assume responsibility for their products' end-of-life management. Here is how it works: imagine a retailer manufactures and stocks a cosmetic product in recyclable plastic packaging on store shelves in <strong>California</strong>—a state with an EPR law for packaging. A consumer purchases and uses the product, then discards the packaging in a recycling bin. Under <strong>California</strong>'s EPR program, the manufacturer pays a fee based on the type and amount of packaging used—helping to finance the collection, recycling, and proper disposal of that waste.</p>

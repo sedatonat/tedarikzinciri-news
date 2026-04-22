@@ -10,8 +10,8 @@ newsSequence: 42410
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Nvidia', 'AMD', 'yarı iletken', 'ihracat vergisi', 'Çin', 'Oxford Economics', 'Bessent', 'ticaret açığı']"
+secondaryCategories: ['Lojistik']
+tags: ['Nvidia', 'AMD', 'yarı iletken', 'ihracat vergisi', 'Çin', 'Oxford Economics', 'Bessent', 'ticaret açığı']
 ---
 
 <p style="text-align: justify"><strong>China</strong> exports of advanced semiconductor chips under export licensing arrangements involving a 15% government cut will constitute an export tax unlikely to generate significant revenues and may potentially harm U.S. efforts to narrow the trade deficit, according to <strong>Oxford Economics</strong>. The economic consulting firm characterizes the fee recently accepted by chip makers <strong>Nvidia</strong> and <strong>AMD</strong> as a "surprising move." "Although the parties involved appear to deliberately avoid characterizing this arrangement as an export tax, it is one," the firm stated in its August 26 report. "Furthermore, <strong>U.S. Treasury Secretary Bessent</strong> has also raised the idea of expanding export taxes to other industries." <strong>Oxford Economics</strong> estimates that the tax on U.S. semiconductor exports to <strong>China</strong> could generate a maximum of approximately $1.5 billion in revenue—an insignificant amount in the context of the <strong>U.S.</strong> budget deficit exceeding $2 trillion—according to lead economist <strong>Adam Slater</strong>.</p>

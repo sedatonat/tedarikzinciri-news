@@ -10,8 +10,8 @@ newsSequence: 42210
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Risk Yönetimi']"
-tags: "['zorla çalıştırma', 'gümrük', 'CBP', 'UFLPA', 'ArentFox Schiff', 'ABD', 'Trump 2.0', 'uyumluluk']"
+secondaryCategories: []
+tags: ['zorla çalıştırma', 'gümrük', 'CBP', 'UFLPA', 'ArentFox Schiff', 'ABD', 'Trump 2.0', 'uyumluluk']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain Podcast</strong>; moderated by <strong>Bob Bowman</strong>; examines how the second <strong>Trump</strong> Administration is enforcing anti-forced-labor laws in global supply chains. When it comes to combating forced labor, the government has an array of tools at its disposal. What approach is <strong>U.S. Customs and Border Protection</strong> (<strong>CBP</strong>) taking under the <strong>Trump</strong> Administration? In this episode, the government's enforceable forms, inspections, and the thicket of both civil and criminal investigations are examined. The guide is <strong>Angela Santos</strong>, partner and customs practice leader at <strong>ArentFox Schiff</strong> law firm. She explains what manufacturers, importers, and other entities in the extended supply chain need to do to remain compliant with anti-forced-labor laws. <strong>ArentFox Schiff</strong>'s 2025 <strong>"Guide for Global Businesses: Navigating the Complexities of Today's Forced Labor Laws"</strong> serves as the core reference material for the discussion.</p>

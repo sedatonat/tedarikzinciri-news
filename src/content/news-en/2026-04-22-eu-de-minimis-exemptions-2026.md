@@ -10,8 +10,8 @@ newsSequence: 42860
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['AB', 'de minimis', 'Shein', 'Temu', 'Maros Sefcovic', 'Çin', 'e-ticaret', 'gümrük']"
+secondaryCategories: ['Lojistik']
+tags: ['AB', 'de minimis', 'Shein', 'Temu', 'Maros Sefcovic', 'Çin', 'e-ticaret', 'gümrük']
 ---
 
 <p style="text-align: justify"><strong>The European Union</strong>, seeking to manage a flood of duty-free shipments from <strong>Chinese</strong> retailers like <strong>Shein</strong> and <strong>Temu</strong>, is voting to end <strong>de minimis</strong> exemptions for low-value packages as early as 2026. The <strong>EU</strong> had initially agreed in 2023 to phase out duty-free exemptions for shipments below 150 euros ($175) by 2028. However, on November 13, <strong>EU</strong> finance ministers voted to accelerate the timeline by two years in response to repeated calls from European retailers to "avoid delay" in addressing <strong>de minimis</strong> rule concerns — <strong>European Trade Commissioner</strong> <strong>Maros Sefcovic</strong> told <strong>Reuters</strong>. From a supply chain perspective, the <strong>de minimis</strong> rule permits duty-free, undeclared imports for low-value shipments globally as a customs simplification measure — set at $800 in the <strong>U.S.</strong> (<strong>Section 321</strong>), 150 euros in the <strong>EU</strong>, £135 in the <strong>UK</strong>, 20 CAD in <strong>Canada</strong>, 1,000 AUD in <strong>Australia</strong>, and 10,000 yen in <strong>Japan</strong>.</p>

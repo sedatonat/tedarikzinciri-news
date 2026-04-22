@@ -10,8 +10,8 @@ newsSequence: 41300
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['FAA', 'Verizon', 'SpaceX', 'Starlink', 'Musk', 'DOGE', 'hava trafik kontrol', 'federal sözleşme']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['FAA', 'Verizon', 'SpaceX', 'Starlink', 'Musk', 'DOGE', 'hava trafik kontrol', 'federal sözleşme']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports analyst insight; the U.S. <strong>Federal Aviation Administration</strong> (<strong>FAA</strong>) is nearing a decision on whether to cancel a $2 billion <strong>Verizon Communications Inc.</strong> contract, according to people familiar with the matter. This critical step could clear the way for billionaire <strong>Elon Musk</strong>'s <strong>SpaceX</strong> to assume greater responsibility for upgrading information technology networks for the National Airspace System. Outright cancellation is one option under consideration; alternatives also exist that would allow <strong>Verizon</strong> to continue while transferring some work to <strong>SpaceX</strong>, according to people not authorized to speak publicly. A decision could come by February 28, though the situation is evolving rapidly. This represents a controversial move linked to <strong>Musk</strong>'s <strong>Department of Government Efficiency</strong> (<strong>DOGE</strong>) initiative.</p>

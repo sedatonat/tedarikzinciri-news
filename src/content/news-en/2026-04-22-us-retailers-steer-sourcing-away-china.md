@@ -10,8 +10,8 @@ newsSequence: 41890
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Çin', 'tedarik', 'Target', 'Gap', \"Macy's\", 'Walmart', 'tarife', 'nearshoring']"
+secondaryCategories: ['Lojistik']
+tags: ['Çin', 'tedarik', 'Target', 'Gap', \"Macy's\", 'Walmart', 'tarife', 'nearshoring']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that trade tensions between the <strong>U.S.</strong> and <strong>China</strong> continue to intensify—and American retailers are working to reduce their dependence on Chinese manufacturing. During an earnings call on May 21, <strong>Target</strong> Chief Commercial Officer <strong>Rick Gomez</strong> said the company has reduced the share of products sourced from <strong>China</strong> from 60% in 2017 to 30% today, with plans to further lower that total to 25% by the end of 2026. <strong>Gap</strong> CEO <strong>Richard Dickson</strong> outlined similar plans during an earnings call on May 29—<strong>China</strong> was once among the retailer's top sourcing countries—but expects the company's products sourced there to account for less than 3% by the end of 2025. <strong>Macy's</strong> CEO <strong>Tony Spring</strong> also stated during an earnings call on May 28 that an estimated 18% of products from national brands, which represent the majority of the retailer's sales, are sourced from <strong>China</strong>—down from 20% at the end of the previous fiscal year. Across all three retailers, a common driver of the shift in sourcing strategies has been tariffs—with most concerns centered around <strong>China</strong>. And President <strong>Trump</strong> frequently hesitates to implement his most aggressive tariff plans.</p>

@@ -3,8 +3,7 @@ title: "İzleyin Tedarik Zincirlerinde Jeopolitik Risk ve Veri Kalitesi ile Müc
 subtitle: "SCB/iStock Mykola Pokhodzhay: Watch Grappling Geopolitical Risk Data Quality Supply Chains; Bart De Muynck Industry Expert Adviser; SupplyChainBrain Seagull Software Survey Resilience Uncertainty; Tariff Impact Visibility Data Use Assessment; Data Availability Quality Major Concern; Right Intelligence Right Time Disruption Predict Demand Trend Crucial; COVID-19 Pandemic 5 Yıl Risk Reminiscent; Complacency Pandemic Faded Shake Executive; Wait-and-See vs React Now Readiness Variance"
 date: '2026-04-22T23:50:00Z'
 category: Tedarik Zinciri
-secondaryCategories:
-  - Risk Yönetimi
+secondaryCategories: []
 image: https://www.supplychainbrain.com/ext/resources/2022/11/30/SEMICONDUCTOR-CHIP-iStock-Mykola-Pokhodzhay-1296135863.webp
 imageAlt: Lastik eldiven giymekta bir el bir yarı iletken çip tutmakta
 sourceUrl: https://www.supplychainbrain.com/articles/42080-watch-grappling-with-geopolitical-risk-and-data-quality-in-supply-chains

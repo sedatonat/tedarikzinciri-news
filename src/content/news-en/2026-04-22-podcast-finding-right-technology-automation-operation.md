@@ -10,8 +10,8 @@ newsSequence: 41320
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['otomasyon', 'teknoloji', 'depo', 'ROI', 'SCB Podcast', 'WMS', 'WCS', 'entegrasyon']"
+secondaryCategories: ['Lojistik']
+tags: ['otomasyon', 'teknoloji', 'depo', 'ROI', 'SCB Podcast', 'WMS', 'WCS', 'entegrasyon']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that, according to analyst insight, nearly every logistics or supply chain facility can benefit from modern automation. But how do decision-makers go about selecting the right vendor and right systems? Technology, in both software and hardware forms, plays an indispensable role in boosting the performance of logistics facilities today. Yet with so many options available, it is easy to become paralyzed in trying to determine what is best for you. This episode offers a guide to getting the most out of a technology acquisition &mdash; from initial assessment through implementation and follow-up &mdash; to maximize the return on investment from systems that can be quite expensive. The <strong>SupplyChainBrain Podcast</strong> series features weekly conversations with industry professionals and serves as a leading industry discussion forum.</p>

@@ -10,8 +10,8 @@ newsSequence: 43363
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Çin', 'Avustralya', 'Darwin Limanı', 'Landbridge', 'jeopolitik', 'liman kirası', 'Asya-Pasifik', 'stratejik altyapı']"
+secondaryCategories: ['Lojistik']
+tags: ['Çin', 'Avustralya', 'Darwin Limanı', 'Landbridge', 'jeopolitik', 'liman kirası', 'Asya-Pasifik', 'stratejik altyapı']
 ---
 
 <p style="text-align: justify"><strong>Beijing</strong> is monitoring <strong>Canberra</strong>'s handling of <strong>Darwin</strong> port's status, which is leased to a <strong>Chinese</strong> firm and which the <strong>Labor</strong> government has committed to returning to local control, "very closely" and will take action if necessary, <strong>China</strong>'s ambassador to <strong>Australia</strong> said. Speaking to reporters in <strong>Canberra</strong> on January 28, Ambassador <strong>Xiao Qian</strong> emphasized that if the port is repurchased through forced sale, <strong>Beijing</strong> has an "obligation to protect the legitimate rights of Chinese companies overseas." The remarks coincide with a period of renewed hardening in <strong>Asia-Pacific</strong> port diplomacy, with <strong>Australia</strong>'s strategic port assets re-emerging as a point of contention in a climate where overall trade relations between the two countries are being repaired.</p>

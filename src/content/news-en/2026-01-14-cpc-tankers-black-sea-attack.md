@@ -10,8 +10,8 @@ newsSequence: 43199
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['CPC', 'Caspian Pipeline Consortium', 'Karadeniz', 'Kazakistan', 'petrol tankeri', 'Delta Harmony', 'Matilda', 'Chevron']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['CPC', 'Caspian Pipeline Consortium', 'Karadeniz', 'Kazakistan', 'petrol tankeri', 'Delta Harmony', 'Matilda', 'Chevron']
 ---
 
 <p style="text-align: justify"><strong>Caspian Pipeline Consortium (CPC)</strong>'s <strong>Black Sea</strong> loading terminal has come under attack with reports that two oil tankers have been struck; the incident marks the latest significant disruption complicating <strong>Kazakhstan</strong>'s crude oil exports. According to sources close to the matter, the <strong>Delta Harmony</strong> and <strong>Matilda</strong> vessels were queued at the <strong>CPC</strong>'s offshore buoy station awaiting loading of barrels originating from <strong>Kazakhstan</strong>. Operators of both vessels have confirmed the incidents and stated that their ships have moved away from the area following the attacks. Before the assault, the vessels had departed the <strong>CPC</strong> facility while waiting their turn for loading; the extent of damage to both vessels remained unclear immediately.</p>

@@ -3,8 +3,7 @@ title: "Üreticiler için Yaz Güvenlik Bakımı"
 subtitle: "SCB Think Tank/iStock: Yaz Güvenlik Tune-Up Üretici; Cybercriminals Hunting Season; Lean Operation IT Vacation Vulnerability; Phishing 31% 2025 Breach; Human Error 68% Breach Trigger; Floor Staff Cybersecurity Training Eksik; Holiday Schedule Reduced Monitoring; Manufacturing Ransomware Phishing Supply Chain Attack; UK Jaguar Land Rover Cyberattack; Predictable Pattern Get Ahead"
 date: '2026-04-23T00:05:00Z'
 category: Tedarik Zinciri
-secondaryCategories:
-  - Risk Yönetimi
+secondaryCategories: []
 image: https://www.supplychainbrain.com/ext/resources/2024/05/01/iStock-1397398956.webp
 imageAlt: Mor bir arka planın üzerinde kilit bulunmakta dijital bir kalkan
 sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/42350-a-summer-security-tune-up-for-manufacturers

@@ -10,8 +10,8 @@ newsSequence: 43881
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['kapasitör', 'Supplyframe', 'Eric Rimkeit', 'elektronik', 'AI veri merkezi', 'COVID-19', 'China', 'popcorn parts']"
+secondaryCategories: ['Lojistik']
+tags: ['kapasitör', 'Supplyframe', 'Eric Rimkeit', 'elektronik', 'AI veri merkezi', 'COVID-19', 'China', 'popcorn parts']
 ---
 
 <p style="text-align: justify"><strong>Eric Rimkeit</strong>, marketing director at <strong>Supplyframe</strong>, explains the reasons behind an anticipated spike in capacitor pricing and what it means for electronics supply chains. Capacitors, which perform fundamental functions in electronic products such as power stabilization and noise filtering, have traditionally been regarded as <strong>popcorn parts</strong> — small devices costing approximately three cents per unit. However, like the famous missing <strong>golden screw</strong> example that can halt an automotive production line, capacitors are critical to a product's operation. From a supply chain perspective, the <strong>passive component</strong> category comprises subcategories including <strong>MLCC</strong> (<strong>Multi-Layer Ceramic Capacitor</strong>), <strong>tantalum</strong>, <strong>aluminum electrolytic</strong>, and <strong>film capacitor</strong>. <strong>Murata</strong>, <strong>Samsung Electro-Mechanics</strong>, <strong>TDK</strong>, <strong>Yageo</strong>, <strong>Taiyo Yuden</strong>, <strong>KEMET</strong>, and <strong>AVX</strong> are the principal manufacturers in the global capacitor market.</p>

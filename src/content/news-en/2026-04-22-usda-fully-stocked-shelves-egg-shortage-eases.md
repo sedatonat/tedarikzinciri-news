@@ -10,8 +10,8 @@ newsSequence: 41460
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['USDA', 'yumurta', 'kuş gribi', 'HPAI', 'gıda tedarik zinciri', 'perakende', 'toptan fiyat', 'Paskalya']"
+secondaryCategories: ['Lojistik']
+tags: ['USDA', 'yumurta', 'kuş gribi', 'HPAI', 'gıda tedarik zinciri', 'perakende', 'toptan fiyat', 'Paskalya']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; analyst insight; U.S. Department of Agriculture (<strong>U.S. Department of Agriculture</strong>; <strong>USDA</strong>); states that supply chain challenges for eggs in grocery stores have &ldquo;substantially improved&rdquo; &mdash; as wholesale prices have declined ahead of the Easter holiday. In an egg market overview published on March 28, the <strong>USDA</strong> reports that consumers are &ldquo;once again seeing fully stocked shelves and enjoying a range of choices without purchase restrictions.&rdquo; The average wholesale price for a dozen eggs declined 8 percent between March 21–28 &mdash; and is down 63 percent from late-February record highs. However, the <strong>USDA</strong> notes that consumers are only beginning to see recently declining retail prices. The <strong>HPAI</strong> (<strong>Highly Pathogenic Avian Influenza</strong>) outbreak is receding.</p>

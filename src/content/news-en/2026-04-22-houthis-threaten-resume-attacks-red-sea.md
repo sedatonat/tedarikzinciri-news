@@ -10,8 +10,8 @@ newsSequence: 41350
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Husi', 'Kızıldeniz', 'Yemen', 'Süveyş', 'konteyner taşımacılığı', 'jeopolitik', 'Gazze', 'Operation Prosperity Guardian']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Husi', 'Kızıldeniz', 'Yemen', 'Süveyş', 'konteyner taşımacılığı', 'jeopolitik', 'Gazze', 'Operation Prosperity Guardian']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; analyst insight; <strong>Yemen</strong>-based <strong>Houthi</strong> rebels are threatening to resume attacks on commercial vessels moving through the <strong>Red Sea</strong> region unless <strong>Israel</strong> reopens <strong>Gaza</strong> to international aid. <strong>Israel</strong> began imposing a full blockade on all aid and supplies to <strong>Gaza</strong> on March 2—followed the next week by cutting electricity to the region—demanding that <strong>Hamas</strong> return 24 living Israeli hostages the terrorist group continues to hold since the two sides agreed to a ceasefire in January. On March 7, <strong>Yemen</strong>-based <strong>Houthis</strong> issued an ultimatum to <strong>Israel</strong>: lift the blockade against <strong>Gaza</strong> by March 11, or the rebel group will resume attacks on vessels in the <strong>Red Sea</strong> and <strong>Gulf of Aden</strong>—according to <strong>Al Jazeera</strong> reporting.</p>

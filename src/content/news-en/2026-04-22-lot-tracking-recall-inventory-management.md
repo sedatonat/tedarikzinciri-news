@@ -10,8 +10,8 @@ newsSequence: 42250
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Teknoloji']"
-tags: "['lot takibi', 'ürün geri çağırma', 'envanter yönetimi', 'gıda güvenliği', 'FDA', 'FSMA', 'izlenebilirlik', 'WMS']"
+secondaryCategories: ['Teknoloji']
+tags: ['lot takibi', 'ürün geri çağırma', 'envanter yönetimi', 'gıda güvenliği', 'FDA', 'FSMA', 'izlenebilirlik', 'WMS']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain Think Tank</strong>; <strong>SCB</strong> contributor <strong>Eric Allais</strong>; imagine walking into your local grocery store — only to discover that deli meat is unavailable — or pulling up to your favorite fast-food drive-thru — only to hear that your desired burger is no longer on the menu — situations that highlight the real-world impact of product recalls (<strong>recall</strong>). Such scenarios not only disrupt our daily lives — they also damage the reputation of the businesses involved — underscoring the importance of recall management. This is why any warehouse or distribution center (<strong>DC</strong>) manager must stay on top of the products they sell — as a daily necessity. Whether industrial adhesives, food, building materials, airplane parts, or medical supplies — these products fall under strict regulation. For any manager, this represents a significant responsibility. Recent product recalls underscore the importance of comprehensive inventory and logistics records — with many details to track — including expiration date, product ingredients, manufacturer or supplier, and production date.</p>

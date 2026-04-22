@@ -10,8 +10,8 @@ newsSequence: 41640
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['liman', 'tarife', 'Flexport', 'Trump', 'blank sailing', 'Los Angeles', 'Long Beach', 'ithalat']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['liman', 'tarife', 'Flexport', 'Trump', 'blank sailing', 'Los Angeles', 'Long Beach', 'ithalat']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that <strong>Nick Bowman</strong>, <strong>Senior Editor</strong> at <strong>SupplyChainBrain</strong>, offers analyst insight that the <strong>Trump</strong> administration's sweeping tariffs are driving slowdowns across some of the U.S.'s most critical shipping hubs—driven by a rapidly rising number of blank sailings, plummeting imports, and growing fears of a potential recession. According to a press release from freight forwarder <strong>Flexport</strong> dated April 21, ocean carriers are withdrawing capacity from transpacific eastbound trade at rates faster than during the pandemic—with eight carriers completely suspending seven weekly service loops. "Additionally, multiple services are being blanked across alliances and carriers for several weeks, with more blank sailing announcements expected," <strong>Flexport</strong> states, noting that blank sailings nearly doubled between the weeks of April 13 and 20—and that more than 25 percent of weekly service loops have already been canceled for late April and early May. According to shipping data provider <strong>Port Optimizer</strong>, scheduled vessels at the <strong>Port of Los Angeles</strong> for the week of April 27 are down more than 27 percent compared to the previous week—and also down 9 percent year-over-year compared to the same period last year. The <strong>Wall Street Journal</strong> also reports that the port expects import volumes to decline by 35 percent over the coming two weeks.</p>

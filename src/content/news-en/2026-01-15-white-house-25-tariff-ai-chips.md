@@ -10,8 +10,8 @@ newsSequence: 43215
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Teknoloji']"
-tags: "['yapay zeka çipleri', 'tarife', 'Trump', 'Nvidia', 'AMD', 'yarı iletken', 'ulusal güvenlik', 'White House']"
+secondaryCategories: ['Teknoloji']
+tags: ['yapay zeka çipleri', 'tarife', 'Trump', 'Nvidia', 'AMD', 'yarı iletken', 'ulusal güvenlik', 'White House']
 ---
 
 <p style="text-align: justify"><strong>Trump</strong> administration is imposing a 25% tariff on certain advanced artificial intelligence semiconductors imported into the <strong>US</strong> and subsequently re-exported to other countries. According to reporting by <strong>The Guardian</strong>, the new tariffs take effect as of January 15 and cover <strong>AI</strong> chips manufactured overseas by American companies such as <strong>Nvidia</strong> and <strong>AMD</strong>. The move comes following a nine-month investigation aimed at steering technology companies and chip manufacturers toward purchasing American-made semiconductors. A January 14 White House statement clarifies that the levies do not apply to chips and related devices imported for <strong>US</strong> data centers, venture-backed startups, consumer products, or the public sector.</p>

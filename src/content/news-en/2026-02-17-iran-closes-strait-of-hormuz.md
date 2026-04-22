@@ -10,8 +10,8 @@ newsSequence: 43487
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Hürmüz Boğazı', 'İran', 'Devrim Muhafızları', 'ham petrol', 'BIMCO', 'Trump', 'Orta Doğu', 'ABD-İran müzakereleri']"
+secondaryCategories: ['Lojistik']
+tags: ['Hürmüz Boğazı', 'İran', 'Devrim Muhafızları', 'ham petrol', 'BIMCO', 'Trump', 'Orta Doğu', 'ABD-İran müzakereleri']
 ---
 
 <p style="text-align: justify"><strong>Iran</strong> has announced a partial closure of the <strong>Strait of Hormuz</strong>, citing what the country's leadership characterizes as <strong>security precautions</strong> during a period when the <strong>Revolutionary Guard</strong> is conducting military exercises in the region. The move creates notable disruptions to shipping flows and insurance premiums at a critical maritime chokepoint through which a significant portion of global crude oil passes, even if only in the short term. From a supply chain perspective, transit windows for <strong>VLCC</strong>, <strong>Suezmax</strong>, and <strong>LR2</strong> tankers are being recalculated during the military exercise period, and crude supply flow schedules for <strong>Asian</strong> refineries face minor adjustments. The situation underscores the geopolitical vulnerability of crude oil supplies originating from the <strong>Middle East</strong> and affects <strong>insurance war risk</strong> premiums.</p>

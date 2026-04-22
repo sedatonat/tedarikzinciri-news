@@ -10,8 +10,8 @@ newsSequence: 43798
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['UKMTO', 'Basra Körfezi', 'konteyner gemisi', 'füze saldırısı', 'Kish Adası', 'denizcilik güvenliği', 'Royal Navy', 'Hürmüz']"
+secondaryCategories: ['Lojistik']
+tags: ['UKMTO', 'Basra Körfezi', 'konteyner gemisi', 'füze saldırısı', 'Kish Adası', 'denizcilik güvenliği', 'Royal Navy', 'Hürmüz']
 ---
 
 <p style="text-align: justify"><strong>U.K. Maritime Trade Operations (UKMTO)</strong> reported on April 6 that it received a report of a container ship being struck by a missile in the <strong>Persian Gulf</strong> approximately 25 nautical miles south of <strong>Iran's Kish Island</strong>. During the incident, the container vessel was struck by an unidentified projectile, resulting in damage above the waterline. <strong>UKMTO</strong> stated that the crew is safe and an inventory is being conducted; no environmental impact has been reported, and authorities are conducting an investigation. From a supply chain perspective, every security incident in the corridor approaching the <strong>Strait of Hormuz</strong> necessitates reassessment of the <strong>Joint War Committee (JWC)</strong>'s high-risk zone designation scope and requires a repricing of <strong>marine war risk</strong> premiums.</p>

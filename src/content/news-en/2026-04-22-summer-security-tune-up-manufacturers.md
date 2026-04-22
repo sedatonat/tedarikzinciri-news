@@ -10,8 +10,8 @@ newsSequence: 42350
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Risk Yönetimi']"
-tags: "['siber güvenlik', 'üretim', 'ransomware', 'phishing', 'yaz tatili', 'IT', 'insan hatası', 'tedarik zinciri saldırısı']"
+secondaryCategories: []
+tags: ['siber güvenlik', 'üretim', 'ransomware', 'phishing', 'yaz tatili', 'IT', 'insan hatası', 'tedarik zinciri saldırısı']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain Think Tank</strong> examines how the summer slowdown in manufacturing once meant only lighter production schedules and skeleton crews. Now it has become cybercriminals' favorite hunting season. As facilities run lean operations and <strong>IT</strong> teams take well-deserved vacations, attackers accelerate their targeted campaigns to exploit these seasonal security gaps. Recent threat intelligence shows consistent increases in manufacturing-focused attacks — ransomware, phishing, and supply chain attacks. In 2025 so far, phishing attacks account for 31% of all breaches. More troubling is that up to 68% of breaches involve human error — most triggered by phishing. These risks are amplified in manufacturing, where floor personnel may not receive the same cybersecurity training as office-based teams. Attackers typically time their campaigns to coincide with holiday schedules — taking advantage of reduced monitoring and delayed response times.</p>

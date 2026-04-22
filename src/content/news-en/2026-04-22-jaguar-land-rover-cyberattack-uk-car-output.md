@@ -10,8 +10,8 @@ newsSequence: 42720
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Jaguar Land Rover', 'JLR', 'siber saldırı', 'Bloomberg', 'SMMT', 'İngiltere', 'Tata Motors', 'Range Rover']"
+secondaryCategories: ['Lojistik']
+tags: ['Jaguar Land Rover', 'JLR', 'siber saldırı', 'Bloomberg', 'SMMT', 'İngiltere', 'Tata Motors', 'Range Rover']
 ---
 
 <p style="text-align: justify"><strong>Jaguar Land Rover Automotive Plc</strong> has been paralyzed by a cyberattack, causing British automobile production to plummet 27% in September—adding further pressure on the country's troubled automotive sector. According to data released by the <strong>Society of Motor Manufacturers &amp; Traders</strong> (<strong>SMMT</strong>) on October 24, automobile production fell to 51,090 units in September. The total decline including commercial vehicles was even more dramatic at 36%—following <strong>Stellantis NV</strong>'s earlier closure of its <strong>Vauxhall</strong> van plant in <strong>Luton</strong> this year. From a supply chain perspective, <strong>Jaguar Land Rover</strong>, headquartered in <strong>Coventry, U.K.</strong>, is owned by <strong>Tata Motors</strong> (<strong>India</strong>), which acquired it from <strong>Ford Motor Company</strong> for $2.3 billion in 2008. <strong>Solihull</strong>, <strong>Halewood</strong>, and <strong>Castle Bromwich</strong> (being closed) are the primary <strong>U.K.</strong> manufacturing facilities. <strong>Range Rover</strong>, <strong>Range Rover Sport</strong>, <strong>Range Rover Velar</strong>, <strong>Range Rover Evoque</strong>, <strong>Discovery</strong>, <strong>Discovery Sport</strong>, <strong>Defender</strong>, <strong>Jaguar F-Pace</strong>, <strong>Jaguar XF</strong>, and <strong>Jaguar I-Pace</strong> (<strong>EV</strong>) comprise the main product line. <strong>Adrian Mardell</strong> is CEO of <strong>JLR</strong>. The photograph was taken by <strong>Chris Ratcliffe</strong> of <strong>Bloomberg</strong> at the <strong>JLR</strong> facility in <strong>Solihull, U.K.</strong></p>

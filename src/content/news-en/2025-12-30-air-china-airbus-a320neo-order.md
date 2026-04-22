@@ -10,8 +10,8 @@ newsSequence: 43057
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Air China', 'Airbus', 'A320neo', 'Çin havacılığı', 'Spring Airlines', 'Juneyao Airlines', 'filo yenileme']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Air China', 'Airbus', 'A320neo', 'Çin havacılığı', 'Spring Airlines', 'Juneyao Airlines', 'filo yenileme']
 ---
 
 <p style="text-align: justify"><strong>Air China Ltd.</strong> has disclosed in a filing submitted to the <strong>Shanghai Stock Exchange</strong> that it is purchasing 60 aircraft valued at <strong>$9.53 billion</strong> from <strong>Airbus SE</strong> in a long-anticipated transaction. The state-owned carrier is deepening its reliance on <strong>western-made aircraft</strong> through this agreement. The aircraft to be delivered under the contract belong to the popular narrow-body <strong>A320neo</strong> family, with deliveries scheduled between 2028 and 2032. This comprehensive fleet renewal reflects <strong>China's</strong> need for fuel-efficient narrow-body aircraft to support its rapidly growing domestic air traffic and regional international operations.</p>

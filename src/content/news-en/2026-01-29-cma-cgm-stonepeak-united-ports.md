@@ -10,8 +10,8 @@ newsSequence: 43368
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['CMA CGM', 'Stonepeak', 'United Ports', 'liman terminali', 'ortak girişim', 'altyapı yatırımı', 'Fenix Marine Services', 'Nhava Sheva']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['CMA CGM', 'Stonepeak', 'United Ports', 'liman terminali', 'ortak girişim', 'altyapı yatırımı', 'Fenix Marine Services', 'Nhava Sheva']
 ---
 
 <p style="text-align: justify">Container shipping operator <strong>CMA CGM</strong> and infrastructure investment firm <strong>Stonepeak</strong> have announced a joint terminal agreement covering a portfolio of ports operated by <strong>CMA CGM</strong> globally. According to a statement from the two companies dated January 28, under the joint venture branded <strong>United Ports</strong>, <strong>Stonepeak</strong> will invest 2.4 billion dollars for a 25% minority stake in 10 port terminals operated by <strong>CMA CGM</strong>. The deal coincides with a period in which carrier-investor partnerships are re-emerging as a defining trend in global port value chains, underscoring <strong>Stonepeak</strong>'s appetite for large-scale port portfolios. From a supply chain perspective, this structure emerges as a hybrid model in which the line operator retains full operational control while unlocking capital.</p>

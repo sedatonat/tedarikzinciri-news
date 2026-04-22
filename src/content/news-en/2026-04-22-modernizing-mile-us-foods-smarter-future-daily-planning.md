@@ -10,8 +10,8 @@ newsSequence: 41470
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['US Foods', 'Descartes', 'rota planlama', 'foodservice', 'özel filo', 'TMS', 'routing', 'modernizasyon']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['US Foods', 'Descartes', 'rota planlama', 'foodservice', 'özel filo', 'TMS', 'routing', 'modernizasyon']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; <strong>Descartes</strong> sponsored content; analyst insight; <strong>US Foods</strong> operates one of the largest private fleets in the country — delivering to more than 250,000 customers ranging from independent restaurants to hospitals and hotels. Now, it is leading a major initiative to modernize daily route planning across a decentralized network of 70+ distribution centers. In this session, you will hear how <strong>US Foods</strong> simplified its operations, reduced complexity, and built a smarter, more agile routing model. Learn how they replaced legacy systems, captured critical tribal knowledge, and leveraged technology to improve service reliability and drive efficiency.</p>

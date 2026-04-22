@@ -10,8 +10,8 @@ newsSequence: 41520
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Trump', 'ticaret savaşı', 'Bloomberg', 'Amazon', 'Çin', 'tarife', 'konteyner', 'yavaşlama']"
+secondaryCategories: ['Lojistik']
+tags: ['Trump', 'ticaret savaşı', 'Bloomberg', 'Amazon', 'Çin', 'tarife', 'konteyner', 'yavaşlama']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; <strong>Bloomberg News</strong> report; analyst insights; U.S. President <strong>Donald Trump</strong> has announced a delay in some tariff plans — yet the first signs of an economically damaging slowdown in global trade are already emerging — companies worldwide are hitting their own pause buttons as <strong>Trump</strong> continues to escalate the trade war with <strong>China</strong>. <strong>Trump</strong> announced on April 9 that he would raise import duties on <strong>Chinese</strong> goods to 125% (later 145%) — while simultaneously announcing a 90-day pause on plans to impose higher tariffs on dozens of other countries. <strong>Amazon</strong> has begun canceling orders from <strong>China</strong> and other regions of <strong>Asia</strong> — reducing inventory. Buyers are re-evaluating orders with cargo shippers — container volumes are dropping across the <strong>Pacific</strong>. Apparel, footwear, toys, and consumer electronics are being hit hard.</p>

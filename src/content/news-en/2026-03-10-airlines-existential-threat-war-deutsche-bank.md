@@ -10,8 +10,8 @@ newsSequence: 43619
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Deutsche Bank', 'jet yakıtı', 'havayolları', 'Michael Linenberg', 'crack spread', 'American Airlines', 'airfreight', 'İran savaşı']"
+secondaryCategories: ['Lojistik']
+tags: ['Deutsche Bank', 'jet yakıtı', 'havayolları', 'Michael Linenberg', 'crack spread', 'American Airlines', 'airfreight', 'İran savaşı']
 ---
 
 <p style="text-align: justify"><strong>U.S.</strong> airlines face an "<strong>existential threat</strong>" stemming from a jet fuel surge that could dramatically elevate costs, according to <strong>Deutsche Bank</strong>. From a supply chain perspective, this warning carries direct implications not only for passenger carriers but also for global <strong>airfreight</strong> capacity. Given that <strong>belly cargo</strong> forms the backbone of global fast supply chains alongside the <strong>integrator</strong> networks of <strong>FedEx</strong>, <strong>UPS</strong>, and <strong>DHL</strong>, the jet fuel shock is directly pressuring <strong>e-commerce</strong> express shipping pricing, <strong>pharma cool chain</strong> flows, and <strong>aerospace</strong> spare parts logistics. The pace at which cost passthrough translates into contracts will be the determining factor during this period when <strong>annual airfreight</strong> tariffs are being renewed.</p>

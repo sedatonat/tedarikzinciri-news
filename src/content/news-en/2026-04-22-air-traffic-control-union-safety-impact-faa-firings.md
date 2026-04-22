@@ -10,8 +10,8 @@ newsSequence: 41230
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['NATCA', 'FAA', 'DOGE', 'işten çıkarma', 'hava trafik', 'güvenlik', 'Trump', 'havayolu']"
+secondaryCategories: ['Lojistik']
+tags: ['NATCA', 'FAA', 'DOGE', 'işten çıkarma', 'hava trafik', 'güvenlik', 'Trump', 'havayolu']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; analyst insight; <strong>National Air Traffic Controllers Association</strong> (<strong>NATCA</strong>); analyzing the fallout from February 14 firings &mdash; affecting hundreds of <strong>FAA</strong> probationary workers. This occurs just weeks after the worst U.S. civil aviation disaster in decades. In <strong>NATCA</strong>'s statement, it says it is "analyzing the effect of reported federal employee terminations on aviation safety, the national airspace system, and our members." Federal workforce reductions focused on <strong>DOGE</strong> (<strong>Department of Government Efficiency</strong>) by the <strong>Trump</strong> administration are affecting <strong>FAA</strong> probationary workers in mid-February. The <strong>National Transportation Safety Board</strong> (<strong>NTSB</strong>); <strong>Federal Aviation Administration</strong> (<strong>FAA</strong>); are the main U.S. aviation safety authorities.</p>

@@ -10,8 +10,8 @@ newsSequence: 42510
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['ileri üretim', 'reshoring', 'JLL', 'CHIPS Act', 'endüstriyel emlak', 'Heartland', 'Midwest', 'Trump tarifeler']"
+secondaryCategories: ['Lojistik']
+tags: ['ileri üretim', 'reshoring', 'JLL', 'CHIPS Act', 'endüstriyel emlak', 'Heartland', 'Midwest', 'Trump tarifeler']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain Podcast</strong>; sponsored by <strong>JLL</strong> in a new episode featuring editorial conversation with <strong>Bob Bowman</strong> &mdash; examining how advanced manufacturing in the <strong>U.S.</strong> is transforming <strong>America's Heartland</strong>. <strong>JLL</strong>'s report titled &ldquo;<strong>Adapting to Shifting Trade Policies: 5 Predictions for Industrial Real Estate</strong>&rdquo; serves as the primary reference material for the podcast episode &mdash; analyzing how shifting trade policies in the <strong>U.S.</strong> are shaping the industrial real estate market through five forecasts. <strong>JLL</strong> (<strong>Jones Lang LaSalle Incorporated</strong>); based in <strong>Chicago, Illinois</strong>; is one of the world's largest commercial real estate services and investment management firms &mdash; with <strong>Christian Ulbrich</strong> serving as <strong>President &amp; CEO</strong>. <strong>JLL Industrial &amp; Logistics</strong> is a global leader in logistics facilities; manufacturing facilities; data centers; and cold chain facilities categories &mdash; the second-largest industrial real estate service provider in the <strong>U.S.</strong> after <strong>Prologis</strong>. <strong>SupplyChainBrain</strong>; published by <strong>Keller International Publishing</strong> &mdash; with <strong>Bob Bowman</strong> as <strong>Editor-in-Chief</strong> &mdash; is one of the oldest and most respected publications for the supply chain industry.</p>

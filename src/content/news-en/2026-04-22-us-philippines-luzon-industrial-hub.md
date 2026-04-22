@@ -10,8 +10,8 @@ newsSequence: 43902
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['ABD', 'Filipinler', 'Luzon Ekonomik Koridoru', 'kritik mineraller', 'Indo-Pacific', 'nikel', 'kobalt', 'ekonomik güvenlik bölgesi']"
+secondaryCategories: ['Lojistik']
+tags: ['ABD', 'Filipinler', 'Luzon Ekonomik Koridoru', 'kritik mineraller', 'Indo-Pacific', 'nikel', 'kobalt', 'ekonomik güvenlik bölgesi']
 ---
 
 <p style="text-align: justify"><strong>United States</strong> and <strong>Philippines</strong> are planning to establish a 4,000-acre (approximately 1,619 hectare) industrial center designed to support <strong>American</strong> supply chains for critical materials. According to a <strong>U.S. Department of State</strong> announcement dated April 16, the center will be located in the <strong>Luzon Economic Corridor</strong> on the Philippine island of <strong>Luzon</strong>. Described as the first of its kind, this new "<strong>economic security zone</strong>" will serve as the first node in a broader global industrial network encompassing multiple manufacturing facilities spanning multiple continents, logistics corridors, and financial partnerships. From a supply chain perspective, the concepts of <strong>friend-shoring</strong> and <strong>ally-shoring</strong> go beyond <strong>nearshoring</strong> strategy and demonstrate the formal structuring of alternative manufacturing networks to <strong>China</strong> in the <strong>Indo-Pacific</strong>. The <strong>Critical Minerals Security Partnership (MSP)</strong> and <strong>Indo-Pacific Economic Framework (IPEF)</strong> frameworks form the diplomatic foundation of this structure.</p>

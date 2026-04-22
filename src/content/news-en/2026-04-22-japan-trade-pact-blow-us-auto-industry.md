@@ -10,8 +10,8 @@ newsSequence: 42220
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Japonya', 'ABD', 'otomotiv', 'ticaret anlaşması', 'tarifeler', 'UAW', 'Trump 2.0', 'USMCA']"
+secondaryCategories: ['Lojistik']
+tags: ['Japonya', 'ABD', 'otomotiv', 'ticaret anlaşması', 'tarifeler', 'UAW', 'Trump 2.0', 'USMCA']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that <strong>U.S.</strong> automakers claim that the Trump administration's recently announced trade agreement with Japan places American companies and workers at a disadvantage — as they now face higher tariffs than their Japanese competitors. The agreement announced on July 22 sets tariffs on Japanese vehicles at 15% — down from the 25% rate that President <strong>Trump</strong> had previously threatened to impose. By contrast, vehicles produced by <strong>U.S.</strong> companies with engines and transmissions sourced from Canada and Mexico are currently subject to 25% tariffs as part of a broader tax affecting all foreign vehicles and auto parts. In a statement to the <strong>Associated Press</strong>, the <strong>United Auto Workers</strong> union said it was "deeply angered" by the Japan deal — with the <strong>American Automotive Policy Council</strong> (<strong>AAPC</strong>), representing <strong>General Motors</strong>, <strong>Ford</strong> and <strong>Stellantis</strong>, sharing similar sentiments. "Any deal that applies a lower tariff to Japanese imports with virtually no <strong>U.S.</strong> content than to North America-built vehicles with high <strong>U.S.</strong> content is a bad deal," the statement said.</p>

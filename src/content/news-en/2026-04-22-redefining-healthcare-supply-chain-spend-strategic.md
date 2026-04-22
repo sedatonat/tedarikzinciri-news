@@ -10,8 +10,8 @@ newsSequence: 43457
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['sağlık tedarik zinciri', 'University Hospitals', 'Chad Fleischer', 'expense cabinet', 'enterprise governance', 'mission-critical', 'klinik', 'maliyet kontrolü']"
+secondaryCategories: ['Lojistik']
+tags: ['sağlık tedarik zinciri', 'University Hospitals', 'Chad Fleischer', 'expense cabinet', 'enterprise governance', 'mission-critical', 'klinik', 'maliyet kontrolü']
 ---
 
 <p style="text-align: justify">For much of modern healthcare history, supply chain operations—procurement, inventory management, and keeping clinical shelves stocked—have been treated as a necessary back-office function. Today, that model is no longer viable. Hospitals operate in an environment characterized by thin margins, persistent supply disruptions, and mounting cost scrutiny. Given this reality, supply chain systems in modern healthcare are increasingly viewed as a mission-critical lever with direct impact on financial stability, clinical operations, and organizational resilience. From a supply chain perspective, the <strong>healthcare supply chain</strong> encompasses categories including <strong>med/surg supplies</strong>, <strong>pharmaceuticals</strong>, <strong>medical devices</strong>, <strong>capital equipment</strong>, <strong>purchased services</strong>, <strong>food &amp; nutrition</strong>, <strong>linen</strong>, and <strong>EVS</strong> (<strong>Environmental Services</strong>), representing annual spending of $3 trillion-plus in the <strong>U.S.</strong></p>

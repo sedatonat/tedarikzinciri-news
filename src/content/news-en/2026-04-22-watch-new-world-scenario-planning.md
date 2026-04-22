@@ -10,8 +10,8 @@ newsSequence: 42290
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Teknoloji']"
-tags: "['senaryo planlama', 'John Galt Solutions', 'talep planlama', 'AI', 'S&OP', 'IBP', 'COVID-19', 'karar destek']"
+secondaryCategories: ['Teknoloji']
+tags: ['senaryo planlama', 'John Galt Solutions', 'talep planlama', 'AI', 'S&OP', 'IBP', 'COVID-19', 'karar destek']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> video segment features <strong>Robert J. Bowman</strong> discussing the evolution of scenario planning and how it is being "empowered" by technology today with <strong>Ruth Abbott</strong>, senior business consultant at <strong>John Galt Solutions</strong>. Scenario planning provides companies with a "control element" in a world of constant change, complexity, and disruption—according to <strong>Abbott</strong>. It involves creating multiple possible situations and "pulling different levers" to understand the impact of specific decisions on end-to-end supply chains. Elements fed into the model include current events such as tariffs, wars, and major transportation route closures. Planners can also drill down into more localized events such as changes in promotions and production lead times, or the sudden receipt of a large customer order. By virtually testing various options, businesses gain "confidence to take the next step." The <strong>COVID-19</strong> pandemic motivated companies to move away from traditional spreadsheet-based planning toward adoption of "more sophisticated" solutions.</p>

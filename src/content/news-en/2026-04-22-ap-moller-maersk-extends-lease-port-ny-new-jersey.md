@@ -10,8 +10,8 @@ newsSequence: 41420
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Maersk', 'APM Terminals', 'Port of NY/NJ', 'Elizabeth', 'konteyner terminali', 'liman', 'reefer', 'post-Panamax']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Maersk', 'APM Terminals', 'Port of NY/NJ', 'Elizabeth', 'konteyner terminali', 'liman', 'reefer', 'post-Panamax']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; analyst insight; <strong>A.P. Moller-Maersk</strong> (<strong>APM</strong>); has signed an agreement to extend its lease at the Port of New York and New Jersey for its terminal in <strong>Elizabeth, New Jersey</strong> for an additional 33 years. According to a release from <strong>APM</strong>, the <strong>Elizabeth</strong> terminal handles more than 25 percent of the port complex's annual container capacity — and is the company's largest terminal on the East Coast. The terminal also offers the largest reefer capacity at the Port of New York and New Jersey — equipped with super <strong>post-Panamax</strong> ship-shore cranes capable of handling vessels up to 23 containers wide on-deck. <strong>APM Terminals</strong> and the <strong>Port Authority</strong> are the primary partners.</p>

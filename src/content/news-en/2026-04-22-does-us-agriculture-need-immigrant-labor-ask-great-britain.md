@@ -10,8 +10,8 @@ newsSequence: 41450
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['tarım', 'göçmen işgücü', 'Trump', 'Brexit', 'H-2A', 'İngiltere', 'COVID-19', 'Robert Bowman']"
+secondaryCategories: ['Lojistik']
+tags: ['tarım', 'göçmen işgücü', 'Trump', 'Brexit', 'H-2A', 'İngiltere', 'COVID-19', 'Robert Bowman']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that <strong>Robert J. Bowman</strong>, analyst at <strong>SupplyChainBrain</strong>, offers this insight: policymakers assessing the impact of President <strong>Trump</strong>'s immigration policies on U.S. agriculture would do well to examine the labor shortage that hit farms in the United Kingdom with the arrival of <strong>COVID-19</strong>. In 2020, the combination of pandemic lockdowns and the United Kingdom's withdrawal from the <strong>European Union</strong> left the country without sufficient workers to harvest crops. Foreign labor, primarily from Eastern Europe, accounted for roughly 95 percent of the workforce — and that supply was largely cut off. Crops rotted in fields without pickers. The Brexit lesson holds profound implications for the <strong>H-2A</strong> visa program.</p>

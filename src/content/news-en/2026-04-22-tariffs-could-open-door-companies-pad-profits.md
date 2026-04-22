@@ -10,8 +10,8 @@ newsSequence: 41590
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['tarife', 'Trump', 'Elizabeth Warren', 'Sony', 'PS5', 'enflasyon', 'FTC', 'Howard Lutnick']"
+secondaryCategories: ['Lojistik']
+tags: ['tarife', 'Trump', 'Elizabeth Warren', 'Sony', 'PS5', 'enflasyon', 'FTC', 'Howard Lutnick']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports: <strong>Nick Bowman</strong>, <strong>Senior Editor</strong> at <strong>SupplyChainBrain</strong>, notes in analyst commentary that company after company is warning that U.S. tariffs could force prices higher on a variety of products—but concerns are mounting that some may exploit the situation to hike prices well beyond what tariffs actually justify. In a March 25 letter to <strong>Commerce Secretary Howard Lutnick</strong>, <strong>Senator Elizabeth Warren</strong> emphasizes concerns that the <strong>Trump</strong> administration's "chaotic approach" to trade could enable companies to raise prices "regardless of whether goods are actually subject to tariffs." <strong>Warren</strong> points to a similar situation during <strong>Trump</strong>'s first term in 2018—when tariffs on foreign-made washing machines led companies to also raise prices on domestic machines and dryers that were not subject to any levy. "Manufacturers just followed the crowd and raised prices," <strong>Federal Reserve Chair Jerome Powell</strong> said at a March press conference. Today, businesses are launching a new round of price increases despite a warning from <strong>Federal Trade Commission Chair Andrew Ferguson</strong> that "<strong>Trump</strong>'s tariffs should not be interpreted as a green light for price fixing." On April 13, <strong>Sony</strong> announced it was raising the price of the <strong>PS5</strong>.</p>

@@ -10,8 +10,8 @@ newsSequence: 43161
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Teknoloji']"
-tags: "['yapay zeka', 'iş gücü gelişimi', 'upskilling', 'generative AI', 'MIT Sloan', 'AI adopsiyonu', 'no-code ops', 'enablement']"
+secondaryCategories: ['Teknoloji']
+tags: ['yapay zeka', 'iş gücü gelişimi', 'upskilling', 'generative AI', 'MIT Sloan', 'AI adopsiyonu', 'no-code ops', 'enablement']
 ---
 
 <p style="text-align: justify"><strong>Artificial intelligence (AI)</strong> adoption is taking shape more as a talent development marathon than a technology sprint. According to industry data, 82% of supply chain companies plan to adopt <strong>AI</strong> within the next five years; however, the vast majority struggle to achieve results. The source of the problem is not technology; it is <strong>enablement</strong>—organizational readiness that brings users into the tools meaningfully. <strong>AI</strong> is still positioned as a tool; it cannot be evaluated as a complete replacement. To create value, leaders must institutionalize a paired talent development model that prioritizes administrative automation for quick wins and transforms human expertise into scalable advantage.</p>

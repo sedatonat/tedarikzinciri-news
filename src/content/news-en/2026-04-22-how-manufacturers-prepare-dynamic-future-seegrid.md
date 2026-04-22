@@ -10,8 +10,8 @@ newsSequence: 43260
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Seegrid', 'Shawn Durr', 'otonomi', 'AMR', 'AGV', 'otomasyon', 'imalat', 'interoperability']"
+secondaryCategories: ['Lojistik']
+tags: ['Seegrid', 'Shawn Durr', 'otonomi', 'AMR', 'AGV', 'otomasyon', 'imalat', 'interoperability']
 ---
 
 <p style="text-align: justify"><strong>Seegrid</strong>'s Strategic Sales Director <strong>Shawn Durr</strong> observes that as embedded systems and regulatory frameworks continue to evolve, the autonomy barriers currently facing industrial manufacturers are beginning to erode. Over the next decade, automation is expected to shift from a departmental advantage to an enterprise necessity defined by fully connected ecosystems. Success belongs to those creating intelligent, connected ecosystems that have embraced <strong>interoperability</strong>, championed internal adoption, and empowered both people and technology to achieve more together. From a supply chain perspective, <strong>Seegrid</strong>, a Pittsburgh-based provider of <strong>AMR</strong> (<strong>Autonomous Mobile Robot</strong>) and <strong>AGV</strong> (<strong>Automated Guided Vehicle</strong>) solutions, is positioned in the warehouse automation market with its <strong>vision-guided vehicle</strong> technology and <strong>Seegrid Palion</strong> brand.</p>

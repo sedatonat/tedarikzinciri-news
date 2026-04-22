@@ -10,8 +10,8 @@ newsSequence: 43826
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Anthropic', 'tedarik zinciri riski', 'DOD', 'Trump', 'temyiz mahkemesi', 'yapay zeka', 'CNBC', 'savunma sözleşmeleri']"
+secondaryCategories: ['Lojistik']
+tags: ['Anthropic', 'tedarik zinciri riski', 'DOD', 'Trump', 'temyiz mahkemesi', 'yapay zeka', 'CNBC', 'savunma sözleşmeleri']
 ---
 
 <p style="text-align: justify">A federal appeals court has ruled against <strong>Anthropic</strong>'s request to temporarily block the <strong>Trump</strong> administration's labeling of the company as a "<strong>supply chain risk</strong>" before the matter reaches trial, though it has recommended expedited proceedings due to the artificial intelligence technology provider's risk of "<strong>irreparable harm</strong>." From a supply chain perspective, the broad scope of the supply chain risk label demonstrates that mechanisms such as <strong>FAR</strong> (<strong>Federal Acquisition Regulation</strong>) <strong>52.204-25</strong> and <strong>NDAA Section 889</strong> are being applied to artificial intelligence vendors as well. <strong>OEM</strong>s and <strong>Tier-1</strong> suppliers operating within the <strong>defense industrial base (DIB)</strong> are being forced to restructure their risk assessment processes for <strong>foundation model</strong> integrations in accordance with this ruling.</p>

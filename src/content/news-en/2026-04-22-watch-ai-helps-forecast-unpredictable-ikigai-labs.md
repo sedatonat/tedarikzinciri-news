@@ -10,8 +10,8 @@ newsSequence: 42050
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['yapay zeka', 'talep tahmini', 'Ikigai Labs', 'Vinayak Ramesh', 'senaryo planlaması', 'explainable AI', 'veri kalitesi', 'otomasyon']"
+secondaryCategories: ['Lojistik']
+tags: ['yapay zeka', 'talep tahmini', 'Ikigai Labs', 'Vinayak Ramesh', 'senaryo planlaması', 'explainable AI', 'veri kalitesi', 'otomasyon']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> video interview reporting; supply chain leaders; how they can strengthen forecasting with the help of <strong>AI</strong>? <strong>Vinayak Ramesh</strong>, Chief Customer Officer of <strong>Ikigai Labs</strong>, explains the current state of the technology. Supply chain leaders need to adapt to uncertainty in three distinct areas, says <strong>Ramesh</strong>. First, the ability to incorporate external data such as tariff levels, interest rates, and weather conditions into the forecasting process in addition to historical sales data. The second requirement is the ability to work with limited amounts of data and shorter trends. The third is the ability to forecast multiple scenarios that could materialize. Artificial intelligence makes it possible to address these complexities — but augments rather than replaces people. The output of an <strong>AI</strong> system is only as good as the data being fed into it, notes <strong>Ramesh</strong>. And data accessed through traditional methods — based partly on human experience — needs to be part of this. However, "a person can only process a certain number of data points. <strong>AI</strong> helps you get through all of this and presents the probabilities," he says. <strong>AI</strong> and machine learning systems get better with experience — but only to the point where they can take over the decision-making process entirely. Over time, <strong>AI</strong> can assume approximately 80% of the tasks involved in supply chain planning — allowing people to "focus on the really high-impact 20% of cases."</p>

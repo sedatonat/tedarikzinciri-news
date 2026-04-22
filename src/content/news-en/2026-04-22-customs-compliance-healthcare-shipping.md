@@ -10,8 +10,8 @@ newsSequence: 42700
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['gümrük uyumu', 'sağlık lojistiği', 'Josh Medow', 'cold-chain', 'FDA', 'USDA', 'klinik deneme', 'biyolojik']"
+secondaryCategories: ['Lojistik']
+tags: ['gümrük uyumu', 'sağlık lojistiği', 'Josh Medow', 'cold-chain', 'FDA', 'USDA', 'klinik deneme', 'biyolojik']
 ---
 
 <p style="text-align: justify">Health and life sciences logistics is a rigorous process that leaves no room for error. Research medications, biologics, devices, and patient samples must be transported and stored under exact conditions—any delay potentially jeopardizes patient safety and clinical trial timelines, and can trigger losses in the millions of dollars. With <strong>Food and Drug Administration</strong> (<strong>FDA</strong>) and <strong>U.S. Department of Agriculture</strong> (<strong>USDA</strong>) regulations tightening, cold-chain shipping has become a regulatory minefield that transforms customs compliance into a board-level risk. Author <strong>Josh Medow</strong> contributes to <strong>SCB</strong>. From a supply chain perspective, clinical trial/research medications (<strong>IMP</strong>; <strong>Investigational Medicinal Product</strong>), <strong>IRT</strong> (<strong>Interactive Response Technology</strong>), <strong>EDC</strong> (<strong>Electronic Data Capture</strong>), <strong>RTSM</strong> (<strong>Randomization and Trial Supply Management</strong>) are the core clinical supply chain management systems. <strong>Marken</strong> (<strong>UPS</strong>), <strong>World Courier</strong> (<strong>AmerisourceBergen</strong>; <strong>Cencora</strong>), <strong>Quick</strong>, <strong>QuickStat</strong>, <strong>Catalent</strong>, <strong>Almac</strong>, <strong>Fisher Clinical Services</strong> (<strong>Thermo Fisher</strong>), <strong>PCI Pharma Services</strong>, <strong>Sharp</strong> (<strong>UDG Healthcare</strong>), and <strong>PAREXEL</strong> are the leading clinical supply chain 3PL and <strong>CRO</strong> players.</p>

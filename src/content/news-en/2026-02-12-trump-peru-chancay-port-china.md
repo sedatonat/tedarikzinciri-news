@@ -10,8 +10,8 @@ newsSequence: 43461
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Peru', 'Chancay', 'Cosco', 'Trump', 'Çin', 'liman jeopolitiği', 'Latin Amerika', 'Ositran']"
+secondaryCategories: ['Lojistik']
+tags: ['Peru', 'Chancay', 'Cosco', 'Trump', 'Çin', 'liman jeopolitiği', 'Latin Amerika', 'Ositran']
 ---
 
 <p style="text-align: justify"><strong>The Trump</strong> administration has warned <strong>Peru</strong> that it is losing sovereignty over a <strong>Chinese</strong>-owned port near the country's capital after a local judge ruled that the <strong>Chancay</strong> port is exempt from certain regulatory oversight. The large-scale <strong>Chancay</strong> port, located on <strong>Peru</strong>'s <strong>Pacific</strong> coast, was designed as a critical new trade link between <strong>Asia</strong> and <strong>Latin America</strong>. But as <strong>Donald Trump</strong> seeks to reassert <strong>U.S.</strong> power across the <strong>Americas</strong>, the port has re-emerged as a flashpoint of tension between <strong>Washington</strong> and <strong>Beijing</strong>. From a supply chain perspective, this competition directly affects long-term contract pricing and regulatory risk profiles for transit freight routes between <strong>Asia-Pacific</strong> and <strong>South America</strong>.</p>

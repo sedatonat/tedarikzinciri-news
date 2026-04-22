@@ -10,8 +10,8 @@ newsSequence: 42940
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Italy', 'işçi istismarı', \"Tod's\", 'Dolce & Gabbana', 'Versace', 'Prada', 'Gucci', 'Adidas Italy']"
+secondaryCategories: ['Lojistik']
+tags: ['Italy', 'işçi istismarı', \"Tod's\", 'Dolce & Gabbana', 'Versace', 'Prada', 'Gucci', 'Adidas Italy']
 ---
 
 <p style="text-align: justify"><strong>Italian</strong> prosecutors are requesting governance and internal control documents from 13 luxury fashion brands as part of an investigation into allegations that companies are complicit in the exploitation of <strong>Chinese</strong> workers at subcontractor workshops. <strong>Associated Press</strong> reports that the investigation points to "severe exploitation" of <strong>Chinese</strong> workers — encompassing hours exceeding labor limits, low wages, degrading housing and unsafe workplace conditions. Although the investigation initially focused on luxury group <strong>Tod's</strong>, prosecutors in <strong>Milan, Italy</strong> have also ordered <strong>Dolce & Gabbana</strong>, <strong>Versace</strong>, <strong>Prada</strong>, <strong>Gucci</strong> and <strong>Adidas Italy</strong> to submit internal audit documents to determine whether these companies were complicit in the alleged worker exploitation. From a supply chain perspective, the <strong>Made in Italy</strong> label represents one of the global luxury industry's core premium signatures — yet worker conditions in sub-supplier tiers frequently escape scrutiny.</p>

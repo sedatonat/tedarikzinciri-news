@@ -10,8 +10,8 @@ newsSequence: 41970
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['drone', 'BVLOS', 'Network Rail', 'CAA', 'Drone Major', 'demiryolu', 'güvenlik', 'Birleşik Krallık']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['drone', 'BVLOS', 'Network Rail', 'CAA', 'Drone Major', 'demiryolu', 'güvenlik', 'Birleşik Krallık']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that the <strong>U.K. Civil Aviation Authority</strong> (<strong>CAA</strong>) has authorized drone consulting firm <strong>Drone Major</strong> to conduct <strong>U.K.</strong>'s first beyond visual line of sight (<strong>BVLOS</strong>) drone operations over critical national infrastructure—initially across certain railway extensions. In a statement dated June 13, <strong>Drone Major</strong> notes this marks the first time long-distance approved <strong>BVLOS</strong> drones have received the green light to operate over critical infrastructure. Drones will initially patrol <strong>U.K.</strong> rail networks, with potential to monitor energy, utilities, defense, border management, and other sensitive national infrastructure areas. Trials have now commenced on the 7.5-mile railway stretch between <strong>Wolverhampton</strong> and <strong>Sandwell &amp; Dudley Station</strong> in partnership with <strong>Network Rail</strong>. The company states the trials could significantly accelerate trespasser verification and interception—thus reducing train delays in a critical, heavily congested area—potentially saving lives while substantially improving speed and efficiency across <strong>U.K.</strong> rail services, with potential for millions in annual savings.</p>

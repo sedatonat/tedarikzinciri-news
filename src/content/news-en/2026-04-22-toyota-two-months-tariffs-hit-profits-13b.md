@@ -10,8 +10,8 @@ newsSequence: 41740
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Toyota', 'tarife', 'Japonya', 'Trump', 'otomotiv', 'Koji Sato', 'BoJ', 'ihracat']"
+secondaryCategories: ['Lojistik']
+tags: ['Toyota', 'tarife', 'Japonya', 'Trump', 'otomotiv', 'Koji Sato', 'BoJ', 'ihracat']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that <strong>Toyota</strong> on May 8 predicted operating profit for the fiscal year ending March will decline by approximately one-fifth — or $1.3 billion — due solely to <strong>President Donald Trump's</strong> tariffs in April and May. According to the <strong>New York Times</strong>, the automaker is forecasting the impact of automobile tariffs that began in April for only those two months. Beyond that, the effects are "very difficult to forecast," <strong>Koji Sato</strong>, Toyota's chief executive officer, said during a briefing on May 8. "The current environment surrounding the automotive industry, including trade relations, is in extreme flux," he said. The <strong>Times</strong> notes that Toyota's experience of tariff pain underscores the difficult position <strong>Japan</strong> faces in ongoing negotiations with the <strong>Trump</strong> administration. While <strong>Trump</strong> has paused a general 24 percent tax on imports from <strong>Japan</strong> until early July, the 25 percent tariffs on automobiles and auto parts are already hurting the country's main exports to the <strong>U.S.</strong> — automobiles and auto parts. On April 30, <strong>Japan's</strong> central bank more than halved its economic growth forecast, citing the imposition of tariffs at an "unprecedented level" by the <strong>U.S.</strong></p>

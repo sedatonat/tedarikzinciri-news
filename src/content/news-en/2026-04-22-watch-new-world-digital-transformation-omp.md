@@ -10,8 +10,8 @@ newsSequence: 42030
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['OMP', 'dijital dönüşüm', 'tedarik zinciri planlaması', 'Philip Vervloesem', 'ROI', 'pilot', 'entegrasyon', 'tüketici malları']"
+secondaryCategories: ['Lojistik']
+tags: ['OMP', 'dijital dönüşüm', 'tedarik zinciri planlaması', 'Philip Vervloesem', 'ROI', 'pilot', 'entegrasyon', 'tüketici malları']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> video interview reporting shows that when it comes to digitalizing supply chain planning, the world is fundamentally different from just a few years ago — according to <strong>Philip Vervloesem</strong>, Chief Commercial Officer at <strong>OMP</strong>. Compared to just two or three years ago, top-tier organizations are demanding rapid "time to value" in their supply chain planning digital transformation initiatives — as <strong>Vervloesem</strong> notes. Executives cannot afford to wait months or years to see return on investment from automated systems — they need to start working with digitalized information immediately. In some cases, this means targeting "six to eight weeks for first value delivery." Companies seeking to digitalize planning must have the capability to evaluate and sustain improvements demonstrated through <strong>ROI</strong> in inventory management, improved service levels, and sustainability. This last category is important — <strong>Vervloesem</strong> notes — but must be balanced with considerations of "cost, cash and customer." Moving forward, planners must ensure their digitalized processes continue to generate value and are "maximized over time." In the push for faster <strong>ROI</strong> — planning organizations are increasingly focusing on running quick pilots — emphasizing core platform development that can be complemented with "spot solutions."</p>

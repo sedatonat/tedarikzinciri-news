@@ -10,8 +10,8 @@ newsSequence: 43612
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['DFC', 'reasürans', 'Hürmüz Boğazı', 'Ben Black', 'savaş riski', 'LNG', 'ham petrol', 'Trump']"
+secondaryCategories: ['Lojistik']
+tags: ['DFC', 'reasürans', 'Hürmüz Boğazı', 'Ben Black', 'savaş riski', 'LNG', 'ham petrol', 'Trump']
 ---
 
 <p style="text-align: justify"><strong>Trump</strong> administration is moving to roll out a reinsurance program for vessels transiting the <strong>Strait of Hormuz</strong>. From a supply chain perspective, this move establishes a government-backed backstop at a time when <strong>P&amp;I clubs</strong>, <strong>Lloyd's</strong>, and <strong>IUMI</strong>-member reinsurers are withdrawing capacity from the <strong>marine war risk</strong> market. The sustainability of <strong>K&amp;R</strong>, <strong>H&amp;M</strong>, and war risk insurance premiums for <strong>VLCCs</strong>, <strong>Suezmax</strong> vessels, <strong>LNG carriers</strong>, and <strong>LPG</strong> tankers emerges as a critical condition for keeping <strong>Asia-Middle East</strong> crude supply corridors open. The program structure distributes total risk that reinsurers struggle to underwrite alone through a centralized public channel, creating conditions for <strong>WS</strong> tariffs stuck in the <strong>charter</strong> market to ease.</p>

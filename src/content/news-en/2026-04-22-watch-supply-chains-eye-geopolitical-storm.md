@@ -10,8 +10,8 @@ newsSequence: 41800
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['jeopolitik', 'Miebach', 'Nick Banich', 'tarife', 'esneklik', 'yedeklilik', 'AI', 'senaryo planlama']"
+secondaryCategories: ['Lojistik']
+tags: ['jeopolitik', 'Miebach', 'Nick Banich', 'tarife', 'esneklik', 'yedeklilik', 'AI', 'senaryo planlama']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; <strong>Robert J. Bowman</strong> (<strong>Editor-in-Chief</strong>); how should supply chains navigate the challenges posed by mounting geopolitical tensions? <strong>Nick Banich</strong>, Partner at <strong>Miebach Consulting</strong> and Chief Revenue Officer for <strong>USA</strong> and <strong>Canada</strong>, offers guidance. As the <strong>U.S.</strong> emerges from the Cold War era when the nation served as "the world's sole central pole of power," economic supremacy is ending, <strong>Banich</strong> contends. "The world is becoming a blue marble again—and companies need to start coming to terms with this," he says. Tariffs are here to stay in some form, and companies must begin rethinking their supply chains accordingly. Volatility, <strong>Banich</strong> argues, is the "new norm"—and companies responding by redesigning networks and mapping upstream risks are "the ones less frozen compared to others." The lesson for today: Businesses must "be ready to pivot quickly—and they need resilience and redundancy in their supply chains," <strong>Banich</strong> states. "The next four years will resemble the last four years much more than the previous 40 years." Decisions about where to source products must be made in a way that minimizes risk. <strong>Banich</strong> suggests that companies must engage in "what-if" scenario planning with the understanding—as corporate financial statements frequently state—that "past performance is not indicative of future results."</p>

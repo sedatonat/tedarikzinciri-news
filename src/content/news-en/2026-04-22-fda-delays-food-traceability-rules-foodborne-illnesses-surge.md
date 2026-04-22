@@ -10,8 +10,8 @@ newsSequence: 41430
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['FDA', 'gıda izlenebilirliği', 'FSMA', 'gıda güvenliği', 'Trump', 'Section 204', 'gıda kaynaklı hastalık', 'regülasyon']"
+secondaryCategories: ['Lojistik']
+tags: ['FDA', 'gıda izlenebilirliği', 'FSMA', 'gıda güvenliği', 'Trump', 'Section 204', 'gıda kaynaklı hastalık', 'regülasyon']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; analyst insight; the <strong>Food and Drug Administration</strong> (<strong>FDA</strong>) is delaying implementation of new food traceability rules by 30 months to give companies additional time to bring their supply chains into compliance — announced March 20. The rules, first proposed during President <strong>Donald Trump</strong>'s first term, require improved record-keeping and visibility across food supply chains, enabling companies to identify and remove contaminated products from circulation before they reach restaurants or grocery shelves. Originally scheduled to begin in January 2026, the rules have now been extended to January 2028. This falls under <strong>FSMA</strong> (<strong>Food Safety Modernization Act</strong>) <strong>Section 204</strong>.</p>

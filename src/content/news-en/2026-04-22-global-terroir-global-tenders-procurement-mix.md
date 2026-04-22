@@ -10,8 +10,8 @@ newsSequence: 43655
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Bart A. De Muynck', 'LWASC', 'podcast', 'satın almakta', 'ihale', 'tedarik zinciri', 'webinar', 'terroir']"
+secondaryCategories: ['Lojistik']
+tags: ['Bart A. De Muynck', 'LWASC', 'podcast', 'satın almakta', 'ihale', 'tedarik zinciri', 'webinar', 'terroir']
 ---
 
 <p style="text-align: justify">Date: March 26, 2026; Time: 1:00 PM ET; Live Web Seminar: 1 hour. Running a global supply chain resembles making fine wine—it requires the right terroir, impeccable processes, and the courage to navigate disruptions such as unexpected frost or shifting tariffs. In this inaugural episode of "<strong>Let's Wine about Supply Chain</strong>," host <strong>Bart A. De Muynck</strong> joins a visionary leader to explore how procurement has evolved into a complex, globally balanced undertaking. From a supply chain perspective, <strong>Bart A. De Muynck</strong> brings extensive experience as <strong>VP Analyst</strong> at <strong>Gartner</strong>, followed by his role as Chief Industry Officer at <strong>project44</strong>, and now as founder of <strong>BAM Research</strong>. In the realm of <strong>thought leadership</strong>, he publishes regularly on platforms including <strong>FreightWaves</strong>, <strong>SCB</strong>, <strong>LinkedIn</strong>, and <strong>Logistics Management</strong>.</p>

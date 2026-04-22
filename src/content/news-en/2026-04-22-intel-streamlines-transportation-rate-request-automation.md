@@ -10,8 +10,8 @@ newsSequence: 42690
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Intel', 'taşımacılık', 'otomasyon', 'AI', 'rate request', 'procurement', 'GLO', 'CSP']"
+secondaryCategories: ['Lojistik']
+tags: ['Intel', 'taşımacılık', 'otomasyon', 'AI', 'rate request', 'procurement', 'GLO', 'CSP']
 ---
 
 <p style="text-align: justify"><strong>Intel Corp.</strong>'s <strong>Global Logistics Org</strong> (<strong>GLO</strong>) and <strong>Corporate Strategic Procurement</strong> (<strong>CSP</strong>) units jointly manage the technology giant's transportation carrier contracts and rates. They found themselves bottlenecked in the carrier rate request process—requiring enormous human participation from gathering the necessary information for a new rate request through uploading data to external quote tools. Similarly, consolidating, processing, and loading final contracted rates—across all transportation modes—into Intel's internal systems was cumbersome. This sponsored article explains how <strong>Intel</strong> is radically streamlining this process with <strong>AI</strong>/automation. From a supply chain perspective, <strong>Intel Corporation</strong>, founded in 1968 by <strong>Gordon Moore</strong>, <strong>Robert Noyce</strong>, and <strong>Andy Grove</strong> and headquartered in <strong>Santa Clara, California</strong>, is one of the world's largest semiconductor manufacturers. <strong>Lip-Bu Tan</strong> has been <strong>Intel</strong> CEO since March 2025, following <strong>Pat Gelsinger</strong>'s departure in December 2024. <strong>Intel</strong> operates major fab and assembly facilities globally in <strong>Hillsboro, Oregon</strong>; <strong>Chandler, Arizona</strong>; <strong>Rio Rancho, New Mexico</strong>; <strong>Columbus, Ohio</strong> (<strong>New Albany</strong>); <strong>Leixlip, Ireland</strong>; <strong>Magdeburg, Germany</strong>; <strong>Wroclaw, Poland</strong>; <strong>Penang, Malaysia</strong>; <strong>Kulim, Malaysia</strong>; <strong>Kiryat Gat, Israel</strong>; and <strong>Chengdu, China</strong>.</p>

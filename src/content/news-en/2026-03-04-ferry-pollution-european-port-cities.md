@@ -10,8 +10,8 @@ newsSequence: 43584
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['feribot', 'hava kirliliği', 'SOx', 'Transport Environment', 'Avrupa limanları', 'denizcilik emisyonları', 'Dublin', 'Barselona']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['feribot', 'hava kirliliği', 'SOx', 'Transport Environment', 'Avrupa limanları', 'denizcilik emisyonları', 'Dublin', 'Barselona']
 ---
 
 <p style="text-align: justify">Passenger and cargo ferries are causing more air pollution than all automobiles in major cities such as <strong>Barcelona</strong>, <strong>Dublin</strong>, and <strong>Naples</strong>, according to a report by an environmental advocacy group. The cumulative respiratory health risk borne by populations in port areas across European coastal cities has receded into the background in recent years, as urban air quality policies have focused primarily on road transport. From a supply-chain perspective, this framework aligns with a period in which the emission profiles of <strong>RoRo</strong>, <strong>RoPax</strong>, and conventional passenger ferry operations are being reassessed under the <strong>EU Emissions Trading System (ETS)</strong>. Accelerating investments in port <strong>shore power</strong> (<strong>OPS</strong>) infrastructure and the transition to alternative fuels—<strong>LNG</strong>, <strong>battery-electric</strong>, <strong>methanol</strong>—constitute the primary policy pressures facing the sector.</p>

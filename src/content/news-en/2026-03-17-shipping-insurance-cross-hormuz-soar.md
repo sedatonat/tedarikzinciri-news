@@ -10,8 +10,8 @@ newsSequence: 43665
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Hürmüz Boğazı', 'savaş riski sigortası', 'Trump', 'DFC', 'UKMTO', 'LNG', 'petrol tankeri', 'İran savaşı']"
+secondaryCategories: ['Lojistik']
+tags: ['Hürmüz Boğazı', 'savaş riski sigortası', 'Trump', 'DFC', 'UKMTO', 'LNG', 'petrol tankeri', 'İran savaşı']
 ---
 
 <p style="text-align: justify"><strong>Strait of Hormuz</strong> transits are still insurable for vessels, albeit at sharply elevated costs. According to market sources, <strong>Lloyd's of London</strong> syndicates that form the core of the <strong>marine war risk</strong> market, along with <strong>IUMI</strong>-member reinsurers and <strong>P&I clubs</strong>, are selectively maintaining capacity during a period of steep premium increases. For <strong>VLCC</strong>, <strong>LNGC</strong>, and <strong>LR2</strong> tankers, the combined <strong>K&R</strong>, <strong>H&M</strong>, and <strong>war risk</strong> premiums are inflating <strong>WS</strong> tariffs in the spot market. The choice of <strong>FOB</strong>/<strong>CIF</strong> contract templates by <strong>BCO</strong>s has emerged as a decisive factor in this high-premium environment.</p>

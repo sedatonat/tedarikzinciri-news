@@ -10,8 +10,8 @@ newsSequence: 43503
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['depo otomasyonu', 'lights-out warehouse', 'Brightpick', 'yapay zeka', 'robotik', 'gece vardiyası', '3D vision', 'malzeme elleçleme']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['depo otomasyonu', 'lights-out warehouse', 'Brightpick', 'yapay zeka', 'robotik', 'gece vardiyası', '3D vision', 'malzeme elleçleme']
 ---
 
 <p style="text-align: justify">Globally, the number of distribution facilities that do not require human labor is growing steadily, with all <strong>putaway</strong>, <strong>picking</strong>, <strong>packaging</strong>, and shipping preparation tasks performed by machines. Beyond the current model where a person waits at the loading dock to take over transport, there is no need for lighting, breaks and lunch, climate control, or sick leave. For this reason, such facilities in the industry are called <strong>lights-out</strong> warehouses. From a supply chain perspective, this structure permanently pulls down wage and energy costs on <strong>OPEX</strong> and substantially increases <strong>peak season</strong> capacity flexibility. On the other hand, the high initial capital investment (<strong>CAPEX</strong>) makes it critical to determine which facilities and which <strong>SKU</strong> profiles will go dark first.</p>

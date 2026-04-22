@@ -10,8 +10,8 @@ newsSequence: 42280
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Risk Yönetimi']"
-tags: "['yük dolandırıcılığı', 'kargo hırsızlığı', 'CargoNet', 'organize suç', 'lojistik güvenliği', 'ABD', 'FBI', 'denetim']"
+secondaryCategories: []
+tags: ['yük dolandırıcılığı', 'kargo hırsızlığı', 'CargoNet', 'organize suç', 'lojistik güvenliği', 'ABD', 'FBI', 'denetim']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain Think Tank</strong>; <strong>SCB</strong> contributor <strong>Karl Fillhouer</strong> addresses how freight fraud in the supply chain over the past several years has matured into a full-scale crisis — demanding urgent, strategic and federally enforced intervention. According to latest data from <strong>CargoNet</strong>, cargo theft is rising 13% year-over-year in Q2 2025 — with organized crime groups targeting high-value commodities nationwide. The magnitude of financial damage continues to accelerate — far outpacing preventive measures. While cargo theft cost U.S. businesses an estimated 25 billion dollars last year alone, industry stakeholders are calling for a technology-backed and federally unified approach to reducing freight fraud. Freight fraud is not a new problem — but the growth trajectory since 2020 has been striking — with some estimates placing the increase above 1,500%. After a brief plateau at the beginning of 2025, fraud surged again in the second quarter — with average theft values reported reaching 200K dollars per incident.</p>

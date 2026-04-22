@@ -10,8 +10,8 @@ newsSequence: 42890
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Novelis', 'Ford F-150', 'alüminyum', 'yangın', 'New York', 'Hindalco', 'otomotiv', 'tedarik kesintisi']"
+secondaryCategories: ['Lojistik']
+tags: ['Novelis', 'Ford F-150', 'alüminyum', 'yangın', 'New York', 'Hindalco', 'otomotiv', 'tedarik kesintisi']
 ---
 
 <p style="text-align: justify">Aluminum supplier <strong>Novelis Inc.</strong> said employees were safely evacuated on November 20 after another fire broke out at its <strong>New York</strong> facility. The company, a critical supplier to <strong>Ford Motor Co.</strong>, said the fire is under control and teams are on site to ensure it is fully extinguished. Multiple local fire departments responded, <strong>Novelis</strong> said in a statement. This fire marks the latest incident at the facility that produces aluminum sheet metal for <strong>Ford</strong> vehicles, including <strong>Ford</strong>'s best-selling <strong>F-150</strong> pickup. A damaging fire broke out in September — halting production at the facility. <strong>Ford</strong> said production disruptions tied to the fire will reduce its adjusted profit this year by up to $2 billion. From a supply chain perspective, <strong>Novelis Inc.</strong> is Atlanta, Georgia-based and was established in 2005 as a spinoff of <strong>Alcan</strong>'s rolling business. It was acquired in 2007 by <strong>Hindalco Industries</strong> (<strong>Aditya Birla Group</strong>, <strong>India</strong>) for $6 billion — making it the world's largest producer of flat-rolled aluminum products.</p>

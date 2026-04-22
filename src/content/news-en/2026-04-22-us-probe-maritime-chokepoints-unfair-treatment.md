@@ -10,8 +10,8 @@ newsSequence: 41370
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['FMC', 'deniz darboğazları', 'Panama Kanalı', 'Süveyş', 'Hürmüz', 'Malacca', 'adaletsiz muamele', 'okyanus taşıyıcıları']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['FMC', 'deniz darboğazları', 'Panama Kanalı', 'Süveyş', 'Hürmüz', 'Malacca', 'adaletsiz muamele', 'okyanus taşıyıcıları']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; analyst insight; the <strong>Federal Maritime Commission</strong> (<strong>FMC</strong>) is investigating global maritime chokepoints — to assess whether a country, ocean carrier, or other maritime operator is creating conditions unfavorable to U.S. shipping and foreign trade. "Recent events have led to transit constraints at several critical points in the global shipping supply chain, creating conditions appropriate for Commission investigation," the U.S. agency states in a <strong>Federal Register</strong> notice. The <strong>Panama Canal</strong>'s vulnerability to drought has recently caused lengthy wait times and costly disruptions for shippers. The <strong>FMC</strong> is the principal U.S. federal maritime trade regulatory authority — authorized under the <strong>Shipping Act of 1984</strong>.</p>

@@ -10,8 +10,8 @@ newsSequence: 43727
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['podcast', 'ajansal yapay zeka', 'CBTS', 'Justin Rice', 'güvenlik', 'veri zehirleme', 'guardrails', 'Bob Bowman']"
+secondaryCategories: ['Lojistik']
+tags: ['podcast', 'ajansal yapay zeka', 'CBTS', 'Justin Rice', 'güvenlik', 'veri zehirleme', 'guardrails', 'Bob Bowman']
 ---
 
 <p style="text-align: justify">Is agentic artificial intelligence <strong>running loose</strong> in your supply chain? In recent months, we have witnessed major advances in agentic AI—a technology designed to autonomously carry out multiple individual business functions. One area where agentic AI can deliver significant value is the supply chain, where global reach, high data volumes, and complexity from numerous business partners can overwhelm human operators. But does agentic AI, as currently deployed in supply chains, have sufficient <strong>guardrails</strong> to prevent it from going off the rails? From a supply chain perspective, the concept of <strong>guardrails</strong> encompasses <strong>governance</strong>, <strong>risk assessment</strong>, <strong>monitoring</strong>, and <strong>incident response</strong> mechanisms under frameworks such as the <strong>NIST AI Risk Management Framework</strong>, the <strong>EU AI Act</strong>, and standards like <strong>ISO/IEC 42001</strong> (<strong>AI Management System</strong>).</p>

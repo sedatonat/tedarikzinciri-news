@@ -10,8 +10,8 @@ newsSequence: 43070
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['İtalyan makarna', 'Trump', 'Barilla', 'La Molisana', 'Pastificio Lucio Garofalo', 'antidumping', 'DoC', 'tarife']"
+secondaryCategories: ['Lojistik']
+tags: ['İtalyan makarna', 'Trump', 'Barilla', 'La Molisana', 'Pastificio Lucio Garofalo', 'antidumping', 'DoC', 'tarife']
 ---
 
 <p style="text-align: justify">President <strong>Donald Trump</strong> has threatened Italian pasta companies with tariffs as high as 92 percent, but a review by the <strong>U.S. Department of Commerce</strong> has found that the duties will ultimately be reduced to lower levels. The <strong>Italian</strong> government stated in a January 1 announcement that the <strong>U.S. Department of Commerce</strong> is reviewing and lowering the proposed tariffs. According to <strong>Guardian</strong>, additional tariffs being added on top of the existing 15 percent customs duty range between 2 and 4 percent. The <strong>U.S.</strong> government is facing 13 producers, including <strong>Barilla</strong>, <strong>La Molisana</strong>, and <strong>Pastificio Lucio Garofalo</strong>, with allegations of selling at unfairly low prices. From a supply chain perspective, antidumping duty (AD) is administered by the <strong>U.S. Department of Commerce</strong> <strong>International Trade Administration</strong> (ITA), and injury is determined by the <strong>U.S. International Trade Commission</strong> (USITC). Pasta products under HTSUS heading 1902 are classified in the nonalcoholic pasta category.</p>

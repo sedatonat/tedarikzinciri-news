@@ -10,8 +10,8 @@ newsSequence: 43548
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['IMO', 'karbon vergisi', 'Net-Zero Framework', 'Panama', 'Liberia', 'Arjantin', 'Trump', 'denizcilik emisyonları']"
+secondaryCategories: ['Lojistik']
+tags: ['IMO', 'karbon vergisi', 'Net-Zero Framework', 'Panama', 'Liberia', 'Arjantin', 'Trump', 'denizcilik emisyonları']
 ---
 
 <p style="text-align: justify"><strong>Panama</strong> is becoming a joint sponsor and presenting to the <strong>International Maritime Organization (IMO)</strong> a proposal that would effectively cancel the carbon levy currently being applied in maritime shipping and weaken efforts to reduce greenhouse gas emissions, according to a leaked document reviewed by <strong>Guardian</strong>. The development underscores the fragility of the unified emissions pricing mechanism set to begin in 2028 across global container, tanker, and bulk carrier shipping. From a supply chain perspective, the <strong>IMO</strong> carbon levy represents a critical agenda item that will have long-term impacts on <strong>GHG fuel intensity</strong>, <strong>alternative bunker</strong> investment decisions, and cost items per <strong>port call</strong>. The proposal's slowdown of global maritime emissions policy may also delay investment prioritization planned across <strong>LNG</strong>, <strong>methanol</strong>, <strong>ammonia</strong>, and <strong>biofuel</strong> supply chains.</p>

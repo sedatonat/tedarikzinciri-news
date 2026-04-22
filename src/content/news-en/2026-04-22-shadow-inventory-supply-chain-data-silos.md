@@ -10,8 +10,8 @@ newsSequence: 42320
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Teknoloji']"
-tags: "['gölge envanter', 'veri silosu', 'işletme sermayesi', 'tedarik zinciri planlama', 'ERP', 'finansal görünürlük', 'holiday season', 'envanter yönetimi']"
+secondaryCategories: ['Teknoloji']
+tags: ['gölge envanter', 'veri silosu', 'işletme sermayesi', 'tedarik zinciri planlama', 'ERP', 'finansal görünürlük', 'holiday season', 'envanter yönetimi']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain Think Tank</strong>; <strong>SCB</strong> contributor <strong>Stephen Dyke</strong>; addresses how while most companies are able to track their shipments quite well, many still struggle to connect the dots between real-time purchase orders, <strong>landed cost</strong>, and actual inventory profitability. This disconnect, known as "<strong>shadow inventory</strong>" — stock that looks strategically sound on paper but becomes a cash trap as conditions shift rapidly — is a mounting problem. As summer approaches its end, most supply chain teams are in deep execution mode for holiday inventory. August back-to-school return is here — and September holiday stock lock-in must happen. This timing makes shadow inventory particularly dangerous — with little room for error — while working capital costs are climbing — and every aspect of planning and execution must run smoothly.</p>

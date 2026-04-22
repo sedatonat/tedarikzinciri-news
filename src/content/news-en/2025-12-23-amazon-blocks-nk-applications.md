@@ -10,8 +10,8 @@ newsSequence: 43037
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Amazon', 'Kuzey Kore', 'siber güvenlik', 'laptop farm', 'uzaktan çalışma', 'kimlik hırsızlığı', 'Stephen Schmidt']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Amazon', 'Kuzey Kore', 'siber güvenlik', 'laptop farm', 'uzaktan çalışma', 'kimlik hırsızlığı', 'Stephen Schmidt']
 ---
 
 <p style="text-align: justify"><strong>Amazon</strong> has disclosed that it is blocking more than 1,800 job applications for remote <strong>IT</strong> positions suspected of being linked to <strong>North Korea</strong>. According to <strong>BBC News</strong>, the applications are being submitted by operators using stolen or fraudulent identities. <strong>Amazon</strong>'s <strong>Chief Security Officer</strong>, <strong>Stephen Schmidt</strong>, highlighted in a post published on <strong>LinkedIn</strong> that North Korean applications have increased by nearly one-third over the past year. According to Schmidt, these operators typically work with individuals managing <strong>"laptop farms"</strong>—a term referring to clusters of computers stationed on <strong>U.S.</strong> territory but accessed remotely from outside the country.</p>

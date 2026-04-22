@@ -10,8 +10,8 @@ newsSequence: 42490
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Sürdürülebilirlik']"
-tags: "['termal güç', 'ESG', 'karbon emisyonu', 'enerji tedarik zinciri', 'kömür', 'gelişmekte olan ekonomiler', 'sürdürülebilirlik', 'iklim değişikliği']"
+secondaryCategories: []
+tags: ['termal güç', 'ESG', 'karbon emisyonu', 'enerji tedarik zinciri', 'kömür', 'gelişmekte olan ekonomiler', 'sürdürülebilirlik', 'iklim değişikliği']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain Think Tank</strong> addresses a hidden dimension of the global supply chain crisis—one that few executives fully grasp: the energy supply chains fueling industrial operations worldwide remain heavily carbon-intensive, creating unprecedented risks for companies tied to <strong>ESG</strong> targets. With annual <strong>CO2</strong> emissions of 37.4 billion tons and the power sector accounting for 40% of energy-related emissions, thermal power generation presents the largest supply chain and <strong>ESG</strong>-related challenge. Developing economies remain heavily dependent on thermal power generation for energy security and economic growth. In India alone, coal-fired power plants generate more than 60-70% of electricity—supporting industries that employ millions and deliver essential services to 1.4 billion people. Similar dependencies exist across other developing nations, where thermal power remains the backbone of industrial development and poverty reduction.</p>

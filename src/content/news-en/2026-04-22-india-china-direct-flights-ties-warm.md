@@ -10,8 +10,8 @@ newsSequence: 42620
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Hindistan', 'Çin', 'IndiGo', 'Bloomberg', 'doğrudan uçuş', 'BRICS', 'diplomasi', 'Hindistan-Çin']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Hindistan', 'Çin', 'IndiGo', 'Bloomberg', 'doğrudan uçuş', 'BRICS', 'diplomasi', 'Hindistan-Çin']
 ---
 
 <p style="text-align: justify"><strong>India</strong> and <strong>China</strong> are resuming direct flights after more than five years — with two of the world's largest economies seeking to rebuild political relations at a time of rising global trade uncertainties. The <strong>Indian Ministry of External Affairs</strong> said in an October 2 statement that air service with <strong>China</strong> could begin by month-end, pending commercial decisions by the designated carriers of both countries and compliance with other operational criteria. The move follows bilateral discussions earlier this year aimed at restoring air connectivity. <strong>Bloomberg News</strong> reported in August, citing people familiar with the matter, that direct flights were expected to resume shortly. Passenger flights between <strong>India</strong> and <strong>China</strong> were suspended following the <strong>COVID-19</strong> pandemic. Diplomatic relations between the two countries hit their lowest point after border clashes in 2020 — a connection that never resumed. Passengers between the two neighboring countries currently transit through hubs such as <strong>Hong Kong</strong> or <strong>Singapore</strong>. From a supply chain perspective, the <strong>Galwan Valley</strong> border clash (<strong>Aksai Chin</strong>; <strong>Ladakh</strong>) in June 2020 resulted in the deaths of at least 20 <strong>Indian</strong> soldiers and an unknown number of <strong>Chinese</strong> troops — causing relations between the two nuclear powers to sink to their lowest level in decades. <strong>S. Jaishankar</strong> is <strong>Indian External Affairs Minister</strong>. <strong>Wang Yi</strong> is <strong>Chinese Foreign Minister</strong> — meeting in <strong>New Delhi</strong> in August.</p>

@@ -10,8 +10,8 @@ newsSequence: 43030
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Malaysia', 'ihracat', 'U.S. tarifesi', 'Bloomberg', 'Bank Muamalat', 'Mohd Afzanizam', 'elektronik', 'semikondüktör']"
+secondaryCategories: ['Lojistik']
+tags: ['Malaysia', 'ihracat', 'U.S. tarifesi', 'Bloomberg', 'Bank Muamalat', 'Mohd Afzanizam', 'elektronik', 'semikondüktör']
 ---
 
 <p style="text-align: justify"><strong>Malaysia</strong>'s exports grew more slowly than expected in November — reflecting the weight that higher tariffs are placing on the Southeast Asian nation's trade with the <strong>U.S.</strong> According to the <strong>Department of Statistics Malaysia</strong>, exports rose 7% year-on-year in November — falling short of the median estimate of 11.6% in <strong>Bloomberg</strong> surveys. Shipments to the <strong>U.S.</strong>, one of <strong>Malaysia</strong>'s largest trading partners, fell 0.9% and posted declines for a second consecutive month. Imports accelerated 15.8% year-on-year — effectively cutting the country's trade surplus in half in November to 6.1 billion ringgit ($1.5 billion). From a supply chain perspective, <strong>Malaysia</strong> is <strong>ASEAN</strong>'s third-largest economy — after <strong>Indonesia</strong> and <strong>Thailand</strong>. <strong>Singapore</strong>, the <strong>U.S.</strong>, <strong>China</strong>, <strong>Japan</strong>, <strong>Hong Kong</strong>, <strong>Thailand</strong>, <strong>India</strong>, <strong>South Korea</strong>, <strong>Vietnam</strong>, and <strong>Taiwan</strong> are <strong>Malaysia</strong>'s principal trading partners.</p>

@@ -10,8 +10,8 @@ newsSequence: 42770
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Zebra Technologies', 'AMR', 'depo robotik', 'throughput', 'ROI', 'cloud computing', 'edge computing', 'Next Move Strategy']"
+secondaryCategories: ['Lojistik']
+tags: ['Zebra Technologies', 'AMR', 'depo robotik', 'throughput', 'ROI', 'cloud computing', 'edge computing', 'Next Move Strategy']
 ---
 
 <p style="text-align: justify">Warehouse robotics is in serious growth mode. According to <strong>Next Move Strategy Consulting</strong>, more than 51,000 autonomous mobile robots (<strong>AMR</strong>) were shipped globally in 2023—a figure projected to reach 180,000 units by 2030. Warehouse robotics improves efficiency and performance, particularly in the face of labor challenges. However, at a certain point, adding more robots to solve a problem yields diminishing returns. At the same time, it becomes rapidly expensive. So what happens when modern technology combining advanced cloud and edge computing can optimize the efficiency of <strong>AMR</strong> deployment? This sponsored article is presented by <strong>Zebra Technologies</strong>. From a supply chain perspective, <strong>Zebra Technologies Corporation</strong>, based in Lincolnshire, Illinois, was founded in 1969 and is the global leader in barcode scanners, mobile computers, <strong>RFID</strong>, printers, and warehouse automation solutions. In 2021, <strong>Zebra</strong> acquired <strong>Fetch Robotics</strong> for $305 million—a key move into the <strong>AMR</strong> portfolio.</p>

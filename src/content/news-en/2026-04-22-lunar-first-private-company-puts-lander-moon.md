@@ -10,8 +10,8 @@ newsSequence: 41330
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Firefly Aerospace', 'Blue Ghost', 'Ay', 'NASA', 'uzay', 'CLPS', 'ticari uzay', 'iniş aracı']"
+secondaryCategories: ['Lojistik']
+tags: ['Firefly Aerospace', 'Blue Ghost', 'Ay', 'NASA', 'uzay', 'CLPS', 'ticari uzay', 'iniş aracı']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; analyst insight; <strong>Firefly Aerospace</strong> has become the first private company to successfully land a spacecraft upright on the Moon — the <strong>Blue Ghost</strong> lander touched down on the lunar surface on March 2. According to the <strong>Associated Press</strong>, the touchdown on the northeastern slopes of the Moon was confirmed by <strong>Firefly</strong>'s mission control facility located outside <strong>Austin, Texas</strong>. <strong>Blue Ghost</strong> — launched from <strong>Florida</strong> in mid-January — carried equipment for <strong>NASA</strong> including a drill and a vacuum — <strong>NASA</strong> is paying <strong>Firefly</strong> a combined 145 million dollars for delivery and science and technology services. <strong>Russia</strong>, the <strong>United States</strong>, <strong>China</strong>, <strong>India</strong>, and <strong>Japan</strong> had previously undertaken lunar landing attempts, as have other private companies. The mission is part of <strong>NASA</strong>'s <strong>Commercial Lunar Payload Services</strong> (<strong>CLPS</strong>) program.</p>

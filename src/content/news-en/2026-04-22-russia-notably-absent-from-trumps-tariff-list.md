@@ -10,8 +10,8 @@ newsSequence: 41480
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Rusya', 'Trump', 'tarife', 'yaptırımlar', 'Karoline Leavitt', 'Ukrayna', 'ABD', 'jeopolitik']"
+secondaryCategories: ['Lojistik']
+tags: ['Rusya', 'Trump', 'tarife', 'yaptırımlar', 'Karoline Leavitt', 'Ukrayna', 'ABD', 'jeopolitik']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; analyst view; as dust settles on President <strong>Donald Trump</strong>'s stunning announcement of punitive "reciprocal" tariffs on practically every country in the world — including some uninhabited islands — a notable omission emerges from the target list: <strong>Russia</strong>. The U.S. outlet <strong>Axios</strong> reported that White House Press Secretary <strong>Karoline Leavitt</strong> explained on April 2 that the current U.S. sanctions on <strong>Russia</strong> "preclude any meaningful trade" — and for the same reason, <strong>Cuba</strong>, <strong>Belarus</strong>, and <strong>North Korea</strong> are not included. According to <strong>BBC News</strong>, <strong>Russian</strong> media argued on April 3 that the reason their country was not on <strong>Trump</strong>'s reciprocal tariff list was due to sanctions. U.S.-<strong>Russian</strong> trade continues despite the war in <strong>Ukraine</strong> — though major crude oil and gas flows have been severed.</p>

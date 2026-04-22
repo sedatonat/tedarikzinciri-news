@@ -10,8 +10,8 @@ newsSequence: 43123
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Blue Tiger International', 'Thomas Cook', 'Trump', 'esneklik', 'sürdürülebilirlik', 'tarifeler', 'diversifikasyon', 'liderlik']"
+secondaryCategories: ['Lojistik']
+tags: ['Blue Tiger International', 'Thomas Cook', 'Trump', 'esneklik', 'sürdürülebilirlik', 'tarifeler', 'diversifikasyon', 'liderlik']
 ---
 
 <p style="text-align: justify"><strong>Blue Tiger International</strong> Managing Director <strong>Thomas Cook</strong> provides analyst insight that executives managing global supply chains are now feeling the effects of <strong>Washington</strong>'s aggressive shifts in international trade. The challenges include rising import costs, concerns over reliance on a handful of source countries, safety stock levels, determining where to expand and contract globally, managing escalating costs, workforce concerns, and regulatory changes. Executives must develop resilience strategies to successfully navigate disruptions. From a supply chain perspective, <strong>Blue Tiger International</strong>, established by <strong>Thomas Cook</strong>, is positioned as a consulting firm in global trade compliance, customs brokerage, and supply chain consulting. The <strong>Trump 2.0</strong> tariff regime begins in early 2025 and encompasses <strong>Section 301</strong> China tariffs, <strong>Section 232</strong> national security tariffs, <strong>IEEPA</strong>, and reciprocal tariffs mechanisms.</p>

@@ -10,8 +10,8 @@ newsSequence: 42360
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Union Pacific', 'Norfolk Southern', 'Howard Lutnick', 'demiryolu birleşmesi', 'Class I', 'STB', 'yük taşımacılığı', 'ABD']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Union Pacific', 'Norfolk Southern', 'Howard Lutnick', 'demiryolu birleşmesi', 'Class I', 'STB', 'yük taşımacılığı', 'ABD']
 ---
 
 <p style="text-align: justify"><strong>Commerce Secretary</strong> <strong>Howard Lutnick</strong> said he will support consolidation as a tool to make the <strong>U.S.</strong> freight rail industry more efficient—a potential endorsement of <strong>Union Pacific</strong>&rsquo;s proposed 72 billion dollar acquisition of <strong>Norfolk Southern</strong>. The railroad industry&rsquo;s current interchange system at the nation&rsquo;s midpoint is creating bottlenecks that need to be relieved, <strong>Lutnick</strong> said in a <strong>CNBC</strong> interview on August 19. "Whether that needs to happen through a merger or in some other way, I leave to the regulators and the supervisors," <strong>Lutnick</strong> said. "But the concept of more efficient throughput across the country is clearly something we applaud." <strong>Union Pacific</strong> announced in July a deal to acquire <strong>Norfolk Southern</strong> for approximately 72 billion dollars in cash and stock. The combination would merge <strong>Union Pacific</strong>&rsquo;s network across <strong>Western</strong> states with <strong>Norfolk Southern</strong>&rsquo;s <strong>East Coast</strong> tracks—creating the <strong>U.S.</strong>&rsquo;s first truly transcontinental single-operator <strong>Class I</strong> railroad.</p>

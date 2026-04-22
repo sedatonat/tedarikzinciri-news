@@ -10,8 +10,8 @@ newsSequence: 41790
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['GLS', 'son-mil', 'rota optimizasyonu', 'uygulama', 'sürdürülebilirlik', 'teslimat', 'karbon emisyonu', 'gerçek zamanlı izleme']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['GLS', 'son-mil', 'rota optimizasyonu', 'uygulama', 'sürdürülebilirlik', 'teslimat', 'karbon emisyonu', 'gerçek zamanlı izleme']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that in today's fast-paced delivery environment, efficiency is not merely a goal—it is essential. <strong>GLS</strong> is addressing this challenge with its new application—<strong>GLS Go!</strong>—transforming traditional delivery methods into streamlined, eco-conscious operations that benefit businesses, drivers, and recipients. At the heart of <strong>GLS Go!</strong> lies advanced real-time route optimization technology. Using <strong>GLS</strong>'s geocoding technology, the application continuously analyzes delivery priorities to generate the most efficient routes possible. With live routing, drivers spend less time navigating and more time delivering—significantly improving delivery windows while reducing idle time and fuel consumption. The application's precision does not end with routing. Smart sequencing, one of the key features of <strong>GLS Go!</strong>, is the intelligent management of pickup and drop-off stops. The application automatically organizes stops using smart sequencing that takes time-sensitive packages and location details into account. Drivers cover more ground with less driving—flowing naturally from one stop to the next. Alongside route optimization, this application comes with built-in sustainability. By reducing wasted miles, <strong>GLS Go!</strong> directly cuts fuel consumption and carbon emissions. It represents a win for both operational efficiency and environmental responsibility.</p>

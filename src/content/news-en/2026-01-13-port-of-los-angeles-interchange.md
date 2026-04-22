@@ -10,8 +10,8 @@ newsSequence: 43190
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Port of Los Angeles', 'SR 47 Interchange', 'Vincent Thomas Bridge', 'Terminal Island', 'altyapı', 'kavşak projesi', 'I-110', 'Knoll Drive']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Port of Los Angeles', 'SR 47 Interchange', 'Vincent Thomas Bridge', 'Terminal Island', 'altyapı', 'kavşak projesi', 'I-110', 'Knoll Drive']
 ---
 
 <p style="text-align: justify"><strong>Port of Los Angeles</strong> has entered a new phase of its <strong>$130 million</strong> interchange reconfiguration project near the <strong>Vincent Thomas Bridge</strong> in the <strong>San Pedro</strong> area of <strong>California</strong>, opening new entry and exit ramps that will enhance access to the maritime facility's critical terminals. This phase is being executed as part of a comprehensive program modernizing the port's land-side connections. The interchange redesign aims to improve truck flow during the port's peak hours, a development that will also play a role in influencing container flow transit times for <strong>Southern California</strong> cargo moving to inland distribution centers.</p>

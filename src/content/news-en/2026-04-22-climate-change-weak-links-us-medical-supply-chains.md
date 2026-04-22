@@ -10,8 +10,8 @@ newsSequence: 42470
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Risk Yönetimi']"
-tags: "['iklim değişikliği', 'tıbbi tedarik zinciri', 'Baxter International', 'Hurricane Helene', 'IV sıvısı', 'GHX', 'sağlık hizmetleri', 'ABD']"
+secondaryCategories: []
+tags: ['iklim değişikliği', 'tıbbi tedarik zinciri', 'Baxter International', 'Hurricane Helene', 'IV sıvısı', 'GHX', 'sağlık hizmetleri', 'ABD']
 ---
 
 <p style="text-align: justify"><strong>In the Southeast United States</strong>, increasingly frequent and severe hurricanes and floods are exposing weak links in the country's medical supply chains. Warmer oceans are supercharging these storms—and as climate change continues, it is placing strain on a system built on single-site manufacturing, just-in-time inventory, and fragile last-mile connections. The <strong>U.S.</strong> medical supply chain still struggles to find the balance between cost efficiency and resiliency—while paying attention to durability—according to <strong>Chris Luoma</strong>, <strong>Senior VP of Strategy</strong> at healthcare supply chain software provider <strong>Global Healthcare Exchange</strong> (<strong>GHX</strong>). When <strong>Hurricane Helene</strong> made landfall in late September 2024, it devastated large swaths of <strong>Florida</strong> and <strong>Georgia</strong>. But less dramatic yet intense precipitation and flooding in <strong>North Carolina</strong> had ripple effects lasting months—because medical device manufacturer <strong>Baxter International</strong> was forced to shut down its <strong>North Cove</strong> facility in the state, a plant that produces a significant portion of intravenous (<strong>IV</strong>) fluids.</p>

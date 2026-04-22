@@ -10,8 +10,8 @@ newsSequence: 42810
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Maersk', 'konteyner taşımacılığı', 'Bloomberg', 'Sydbank', 'EBITDA', 'Mikkel Emil Jensen', 'Kızıldeniz', 'Vincent Clerc']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Maersk', 'konteyner taşımacılığı', 'Bloomberg', 'Sydbank', 'EBITDA', 'Mikkel Emil Jensen', 'Kızıldeniz', 'Vincent Clerc']
 ---
 
 <p style="text-align: justify"><strong>A.P. Moller-Maersk A/S</strong> shares are declining as investors digest a more modest-than-expected improvement in the container shipping giant's full-year profit guidance. <strong>Maersk</strong>'s earnings before interest, taxes, depreciation and amortization (<strong>EBITDA</strong>) are expected to fall in the range of $9 billion to $9.5 billion for 2025—compared with the prior guidance putting the low end at $8 billion—according to the <strong>Copenhagen</strong>-based company's announcement on November 5. Analysts surveyed had forecast an average of $9.11 billion. <strong>Maersk</strong> also raised its guidance for the global container market, now expecting roughly 4% growth this year versus its prior forecast of 2%–4%. Third-quarter earnings surpassed expectations. Still, the stock fell as much as 7.5% in <strong>Copenhagen</strong>—its largest decline since April. From a supply chain perspective, <strong>A.P. Moller-Maersk A/S</strong>, based in <strong>Copenhagen, Denmark</strong> and founded in 1904 by <strong>Arnold Peter Møller</strong>, is the world's second-largest container shipping company.</p>

@@ -10,8 +10,8 @@ newsSequence: 43630
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Cosco', 'Panama', 'Balboa', 'CK Hutchison', 'BlackRock', 'Trump', 'Xi Jinping', 'Panama Kanalı']"
+secondaryCategories: ['Lojistik']
+tags: ['Cosco', 'Panama', 'Balboa', 'CK Hutchison', 'BlackRock', 'Trump', 'Xi Jinping', 'Panama Kanalı']
 ---
 
 <p style="text-align: justify"><strong>China Cosco Shipping Corp.</strong> has suspended services at <strong>Panama</strong>'s <strong>Balboa</strong> port. The move follows warnings from <strong>Beijing</strong> that <strong>Central America</strong>'s nation will face a "heavy price" after the forced takeover of the facility from <strong>Hong Kong</strong>-based <strong>CK Hutchison Holdings Ltd.</strong>, according to local media reports. From a supply chain perspective, the decision directly affects the port call sequence of <strong>OCEAN Alliance</strong> and <strong>Cosco-OOCL</strong> services on the <strong>Asia-U.S. East Coast</strong> route and brings alternative transshipment hubs into focus. <strong>Caribbean</strong> hubs such as <strong>Manzanillo (MIT)</strong>, <strong>Cartagena</strong>, and <strong>Kingston</strong> are emerging as reference points for temporary traffic diversions.</p>

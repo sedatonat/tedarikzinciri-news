@@ -6,7 +6,7 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
 image: https://www.supplychainbrain.com/ext/resources/2025/09/05/MADE-IN-USA-iStock-adventtr-2210278611.webp
-imageAlt: 'Made in USA' işaretleri taşımakta olan büyük bir karton sevkiyat kutuları grubu; bir depoda düzenli biçimde üst üste konulmakta görünmekte
+imageAlt: "'Made in USA' işaretleri taşımakta olan büyük bir karton sevkiyat kutuları grubu; bir depoda düzenli biçimde üst üste konulmakta görünmekte"
 sourceUrl: https://www.supplychainbrain.com/articles/43764-podcast-you-say-your-product-is-made-in-usa-prove-it
 newsSequence: 43764
 author: Sedat Onat

@@ -10,8 +10,8 @@ newsSequence: 42910
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Safran', 'Hindistan tedarik', 'Olivier Andriès', 'LEAP', 'Hyderabad', 'Bharat Electronics', 'Rafale', 'havacılık']"
+secondaryCategories: ['Lojistik']
+tags: ['Safran', 'Hindistan tedarik', 'Olivier Andriès', 'LEAP', 'Hyderabad', 'Bharat Electronics', 'Rafale', 'havacılık']
 ---
 
 <p style="text-align: justify"><strong>French</strong> aircraft engine manufacturer <strong>Safran SA</strong> plans to increase component sourcing from <strong>India</strong> fivefold to 500 million euros (579 million dollars) by 2030 — underscoring the country's emerging position as a significant aviation market. <strong>Safran</strong> currently procures approximately 100 million euros' worth of components from the <strong>South Asian</strong> nation but plans to substantially expand its supplier base — according to CEO <strong>Olivier Andriès</strong> in an interview. The company plans to work with more <strong>Indian</strong> partners in line with its long-term growth strategy, he added. From a supply chain perspective, <strong>Safran SA</strong>, based in <strong>Paris, France</strong>, was established in 2005 through the merger of <strong>Snecma</strong> and <strong>Sagem</strong> — making it a global aerospace and defense company. <strong>Safran Aircraft Engines</strong> (formerly <strong>Snecma</strong>); <strong>Safran Helicopter Engines</strong> (formerly <strong>Turbomeca</strong>); <strong>Safran Landing Systems</strong>; <strong>Safran Electronics & Defense</strong> (formerly <strong>Sagem</strong>); <strong>Safran Cabin</strong>; <strong>Safran Seats</strong> — are its main business units.</p>

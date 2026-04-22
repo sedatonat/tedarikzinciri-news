@@ -10,8 +10,8 @@ newsSequence: 41730
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['CSCO', 'kargo hırsızlığı', 'Glenn Koepke', 'BSI', 'broker fraud', 'DOT', 'FMCSA', 'güvenlik']"
+secondaryCategories: ['Lojistik']
+tags: ['CSCO', 'kargo hırsızlığı', 'Glenn Koepke', 'BSI', 'broker fraud', 'DOT', 'FMCSA', 'güvenlik']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that <strong>Glenn Koepke</strong> (<strong>SCB Contributor</strong>) identifies supply chain theft at all-time high levels. Broker fraud, shipment interception, and other forms of cargo theft are costing supply chains an estimated $35 billion USD annually—according to data cited by supply chain leaders during a February Senate Subcommittee hearing by the <strong>Homeland Security Investigations</strong> agency. Making matters worse, as businesses reconfigure their supply chains in response to tariffs, they are inadvertently exposing themselves to greater risk. Trucking companies, railways, and carriers are justified in pressing selected leaders and institutions to take greater action in combating this growing industry scourge. However, a less-publicized reality deserves attention: too many chief supply chain officers (<strong>CSCOs</strong>) are unknowingly leaving their companies' doors not merely unlocked, but wide open for thieves to walk through. Supply chain theft is increasingly being perpetrated by sophisticated organized crime rings. Bad actors are tailing truckers for hundreds of miles—waiting for opportunities to pilfer entire truckloads—a form of theft that has surged 273 percent in 2024, according to new research and analysis from <strong>BSI Consulting</strong>—then holding them for ransom. Criminals are cutting air brake hoses on freight trains passing through remote regions—and escaping with roughly half a million dollars' worth of <strong>Nike</strong> shoes. They are purchasing DOT numbers and fake safety ratings on <strong>Facebook</strong>—prompting <strong>Federal Motor Carrier Safety Administration</strong> (<strong>FMCSA</strong>) to take action to combat this fraud.</p>

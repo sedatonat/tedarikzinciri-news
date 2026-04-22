@@ -10,8 +10,8 @@ newsSequence: 41390
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['FAA', 'hava trafik kontrol', 'Sean Duffy', 'Trump', 'SpaceX', 'Starlink', 'modernizasyon', 'havacılık']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['FAA', 'hava trafik kontrol', 'Sean Duffy', 'Trump', 'SpaceX', 'Starlink', 'modernizasyon', 'havacılık']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports, per analyst insight: <strong>Trump</strong> administration is planning to announce a "brand new" US air traffic control system "within the next several days," according to Transportation Secretary <strong>Sean Duffy</strong>. Changes will include a shift from copper communications infrastructure to fiber lines, as well as new radar systems and terminals for air traffic controllers. Duffy made these comments in an interview with <strong>Fox News</strong> on March 19. "The key to this is speed," he said. Air traffic control challenges are well known—but upgrades take far too long, and then technology changes—with <strong>Congress</strong> needing to "give all the money up front." The comments come weeks after increased scrutiny of efforts to modernize the <strong>Federal Aviation Administration</strong> (<strong>FAA</strong>) system, which manages approximately 45,000 flights carrying roughly 2.9 million passengers each day.</p>

@@ -10,8 +10,8 @@ newsSequence: 42060
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['OPEX', 'operasyonel mükemmellik', 'Londra konferansı', 'Jaguar Land Rover', 'Shell', 'Tesco', 'Ralph Lauren', 'yapay zeka']"
+secondaryCategories: ['Lojistik']
+tags: ['OPEX', 'operasyonel mükemmellik', 'Londra konferansı', 'Jaguar Land Rover', 'Shell', 'Tesco', 'Ralph Lauren', 'yapay zeka']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that in a business landscape characterized by relentless change, delivering genuine <strong>Operational Excellence</strong> has become critical — requiring organizations not merely to react but to anticipate and adapt. Operations and continuous improvement leaders must rapidly integrate new technologies and build resilient, human-centric cultures. Addressing this critical need, <strong>London</strong> is hosting the <strong>Operational Excellence &amp; Business Improvement Conference</strong>. On 10 September 2025 at the <strong>Copthorne Tara Hotel Kensington</strong>, this focused, single-day event is designed for senior professionals seeking strategies that translate from theory into action. Participants will gain direct insights from cross-sector leaders including <strong>Jaguar Land Rover</strong>, <strong>Shell</strong>, <strong>Tesco</strong>, <strong>Network Rail</strong>, and <strong>Philips</strong>. Extracting measurable value from <strong>artificial intelligence</strong> and automation has become critical. <strong>Damian Hall</strong>, <strong>Head of Programme &amp; Change</strong> at <strong>Ralph Lauren</strong>, will explore <strong>AI</strong>'s evolving role and the balance between technology and human expertise. <strong>Ravi Jay</strong> from <strong>Jaguar Land Rover</strong> will examine global <strong>AI</strong> transformations. A panel featuring leaders from <strong>Shell</strong> and <strong>AXA Partners</strong> will present real-world case studies demonstrating cost savings and efficiency gains.</p>

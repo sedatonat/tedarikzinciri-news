@@ -10,8 +10,8 @@ newsSequence: 41900
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['kritik mineral', 'nadir toprak', 'Çin', 'Exiger', 'Carrie Wibben Kaupp', 'multi-tier visibility', 'tedarik zinciri', 'jeopolitik']"
+secondaryCategories: ['Lojistik']
+tags: ['kritik mineral', 'nadir toprak', 'Çin', 'Exiger', 'Carrie Wibben Kaupp', 'multi-tier visibility', 'tedarik zinciri', 'jeopolitik']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; <strong>Robert J. Bowman</strong> (<strong>Editor-in-Chief</strong>); how are <strong>U.S.</strong> supply chains responding to <strong>China</strong>'s threat to cut off access to critical minerals? <strong>Carrie Wibben Kaupp</strong>, President of <strong>Exiger</strong>, emphasizes the need for multi-tier visibility. <strong>China</strong>'s dominance over the global critical minerals market is not a new problem—but in response to trade war with the <strong>U.S.</strong>, it is significantly escalating the "weaponization of the periodic table," according to <strong>Wibben Kaupp</strong>. The <strong>U.S.</strong> and its allies carry an "extraordinary" dependency on <strong>China</strong>'s critical mineral supply—including 100% of seven minerals and 50% of another 30 to 40. "This is an area where <strong>China</strong> has a quite paralyzing and devastating strategic advantage in deciding to ban its exports to the <strong>U.S.</strong>," she states. Indeed, <strong>China</strong> is escalating geopolitical tensions, beginning with the <strong>Trump</strong> administration's application of massive new tariffs on <strong>Chinese</strong> goods—recently doing so for a series of rare earth minerals. With the terrifying possibility of core minerals entering a broad range of high-tech products being completely cut off, <strong>U.S.</strong> supply leaders need to gain a complete understanding of what their products are made from. Most manufacturers today lack visibility down to the raw material stage of their contents. Typically, according to <strong>Wibben Kaupp</strong>, they cannot see beyond a single supplier tier.</p>

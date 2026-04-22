@@ -10,8 +10,8 @@ newsSequence: 41880
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Amazon', 'Almanya', 'Bundeskartellamt', 'rekabet hukuku', 'Andreas Mundt', 'AB', 'FTC', 'pazaryeri']"
+secondaryCategories: ['Lojistik']
+tags: ['Amazon', 'Almanya', 'Bundeskartellamt', 'rekabet hukuku', 'Andreas Mundt', 'AB', 'FTC', 'pazaryeri']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that federal regulators in <strong>Germany</strong> have warned <strong>Amazon</strong> that it may be violating the nation's competition laws through pricing controls that limit the visibility of certain sellers' products. In a preliminary assessment released on June 2 by <strong>Germany</strong>'s <strong>Federal Cartel Office</strong> (<strong>FCO</strong>; <strong>Bundeskartellamt</strong>), the authority found that <strong>Amazon</strong>'s algorithms deprioritize sellers in search results—and exclude them from advertising—when product prices are marked as either too high or "not competitive." The <strong>FCO</strong> argues that <strong>Amazon</strong>'s pricing practices are fundamentally questionable from a competition perspective because the company competes directly with other marketplace retailers on its own platform. <strong>FCO</strong> President <strong>Andreas Mundt</strong> states: "Because <strong>Amazon</strong> competes directly with other marketplace retailers on its platform, influencing competitors' pricing—even in the form of a price cap—is fundamentally questionable from a competition perspective." In a statement to <strong>CNBC</strong>, an <strong>Amazon</strong> spokesperson strongly disagrees with the <strong>FCO</strong>'s findings, saying that changing the retailer's pricing controls would be "bad for customers and selling partners."</p>

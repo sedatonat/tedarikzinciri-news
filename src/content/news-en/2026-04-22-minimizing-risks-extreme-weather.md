@@ -10,8 +10,8 @@ newsSequence: 41760
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['aşırı hava', 'iklim', 'TMS', 'hiperlokal', 'lojistik', 'Renny Vandewege', 'DTN', 'risk yönetimi']"
+secondaryCategories: ['Lojistik']
+tags: ['aşırı hava', 'iklim', 'TMS', 'hiperlokal', 'lojistik', 'Renny Vandewege', 'DTN', 'risk yönetimi']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that <strong>Renny Vandewege</strong>, <strong>SCB Contributor</strong>, notes that weather—once a predictable risk for global supply chains—has become increasingly erratic, striking with greater frequency and intensity. According to the <strong>National Centers for Environmental Information</strong>, the annual average from 1980 to 2019 for weather events causing over a billion dollars in damage in the <strong>U.S.</strong> was nine events. For 2020-2024, the annual average is 22 events—a tenfold increase in just five years—imposing significant direct and indirect impacts from first mile to last mile. The reason weather impacts on supply chain stakeholders become more difficult to anticipate—and therefore to prepare for—is the variability in event types. Consider the major disruptions in just the past three years. In 2022, <strong>Hurricane Ian</strong> made landfall on the <strong>Florida</strong> coast in September, causing shipments in the preceding weeks to drop 75 percent. Later that year, a freeze during the Christmas week in <strong>Buffalo, New York</strong> reduced shipment volume by 40 percent from the previous weeks. During Canadian wildfires in June 2023, poor visibility delayed deliveries to <strong>Chicago</strong> and <strong>New York City</strong> by up to two days. And in 2024, the remnants of <strong>Hurricane Helene</strong> caused widespread flooding in <strong>North Carolina</strong>—severely impacting transportation infrastructure and halting operations at critical facilities.</p>

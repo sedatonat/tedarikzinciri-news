@@ -3,8 +3,7 @@ title: "Podcast Gümrükler Sizi Zorla Çalıştırma İhlalleri için Kaç Şek
 subtitle: "SCB Podcast/iStock Niran_pr: Customs Forced-Labor Violations Podcast; Bob Bowman SCB Editor-in-Chief Sunucu; Angela Santos ArentFox Schiff Customs Practice Leader Partner Konuk; Trump 2.0 CBP Enforcement Approach; Civil Criminal Audit Investigation Form Thicket; Manufacturer Importer Extended Supply Chain Compliance; UFLPA Uyghur Forced Labor Prevention Act; Section 307 Tariff Act 1930; WRO Withhold Release Order Tool"
 date: '2026-04-22T23:00:00Z'
 category: Tedarik Zinciri
-secondaryCategories:
-  - Risk Yönetimi
+secondaryCategories: []
 image: https://www.supplychainbrain.com/ext/resources/2025/07/24/FORCED-LABOR-iStock-Niran_pr-1167027564.webp
 imageAlt: Üzgün gözlere sahip genç bir kadın parmaklıkların arkasında oturmakta
 sourceUrl: https://www.supplychainbrain.com/articles/42210-podcast-how-many-ways-can-customs-hit-you-for-forced-labor-violations

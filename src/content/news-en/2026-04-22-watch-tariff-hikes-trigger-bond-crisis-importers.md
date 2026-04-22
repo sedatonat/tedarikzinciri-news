@@ -10,8 +10,8 @@ newsSequence: 41560
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['tarife', 'surety bond', 'Crowe', 'Dan Swartz', 'gümrük', 'ithalat', 'Trump', 'bond crisis']"
+secondaryCategories: ['Lojistik']
+tags: ['tarife', 'surety bond', 'Crowe', 'Dan Swartz', 'gümrük', 'ithalat', 'Trump', 'bond crisis']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; interview with <strong>Dan Swartz</strong> (<strong>Tariffs and Customs Principal</strong>, <strong>Crowe</strong>) and <strong>Robert J. Bowman</strong> (<strong>SupplyChainBrain</strong>); analyst insight indicates that rapid increases in tariffs—particularly on goods from <strong>China</strong>—threaten to impose a massive financial burden on U.S. importers far beyond the tariffs themselves. Importers are obtaining <strong>surety bonds</strong> to accelerate the receipt of goods entering the country. These bonds permit taking delivery of import shipments at the port upon customs release—before paying customs duties. Importers have 10 days to make payments—and bonds serve as backup if they fail to do so. However, with the <strong>Trump</strong> administration's steep tariff increases, there is a risk that bonds may not cover the full amount of liability. Bond limits are calculated as 10 percent of estimated import duties, fees, and taxes over a 12-month period. When a bond's monetary limit becomes "saturated" due to high tariffs, the importer may face an "insufficiency notice"—forcing them either to increase the bond amount or stack multiple bonds on top of one another.</p>

@@ -10,8 +10,8 @@ newsSequence: 42090
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Risk Yönetimi']"
-tags: "['Kızıldeniz', 'Houthi', 'Yemen', 'denizcilik güvenliği', 'UKMTO', 'IDF', 'Süveyş', 'jeopolitik']"
+secondaryCategories: []
+tags: ['Kızıldeniz', 'Houthi', 'Yemen', 'denizcilik güvenliği', 'UKMTO', 'IDF', 'Süveyş', 'jeopolitik']
 ---
 
 <p style="text-align: justify"><strong>Bloomberg</strong> reports that multiple small vessels have attacked a ship near Yemen's <strong>Al Hudaydah</strong> port in the Red Sea, setting it ablaze and forcing the crew to abandon the vessel—ahead of <strong>Israel's</strong> military conducting airstrikes on <strong>Houthi</strong>-controlled ports in Yemen. The vessels fired on the ship and launched self-propelled grenades, according to a company security officer cited as a source, who did not identify the vessel. <strong>UK Maritime Trade Operations</strong> (<strong>UKMTO</strong>) said in a series of social media posts on 6 July that a commercial vessel passed by and rescued all crew members, with the ship left abandoned. <strong>UKMTO</strong> previously stated that an armed security team returned fire during the attack, approximately 51 nautical miles southwest of <strong>Al Hudaydah</strong>—a stronghold of the Iran-backed <strong>Houthi</strong> militia, which has been targeting ships in the strategic waterway for more than a year. No group claimed responsibility for the attack. In the later hours of 6 July, the <strong>Israel Defense Forces</strong> (<strong>IDF</strong>) conducted airstrikes on <strong>Al Hudaydah</strong>, <strong>Ras Issa</strong>, and <strong>Al-Salif</strong> ports, as well as a power plant in <strong>Al Hudaydah</strong>, over the Red Sea.</p>

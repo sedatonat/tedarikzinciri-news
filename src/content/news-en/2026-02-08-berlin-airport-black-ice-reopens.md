@@ -10,8 +10,8 @@ newsSequence: 43436
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Berlin Brandenburg', 'havalimanı kapanması', 'buzlanma', 'Deutsche Bahn', 'British Airways', 'EasyJet', 'DWD', 'Almanya lojistiği']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Berlin Brandenburg', 'havalimanı kapanması', 'buzlanma', 'Deutsche Bahn', 'British Airways', 'EasyJet', 'DWD', 'Almanya lojistiği']
 ---
 
 <p style="text-align: justify"><strong>Berlin</strong>'s main airport reopened on February 6 following a closure that saw hundreds of flights cancelled due to icing conditions disrupting transport systems across <strong>Northern Germany</strong>. <strong>Berlin Brandenburg Airport</strong> announced in a post on <strong>X</strong> on the afternoon of February 6 that some airlines were resuming flights; however, significant delays and cancellations are expected to persist. According to <strong>FlightAware</strong> data, more than 190 flights at the hub were cancelled within a 24-hour period. The incident underscores once again how sensitive <strong>European</strong> air traffic remains to extreme weather events during winter months, and highlights the importance of business continuity planning (<strong>BCP</strong>) for airport operations.</p>

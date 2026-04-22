@@ -10,8 +10,8 @@ newsSequence: 41540
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['sigorta', 'Gallagher', 'Chris Demetroulis', 'kargo hırsızlığı', 'siber saldırı', 'jeopolitik', 'aksaklık', 'risk']"
+secondaryCategories: ['Lojistik']
+tags: ['sigorta', 'Gallagher', 'Chris Demetroulis', 'kargo hırsızlığı', 'siber saldırı', 'jeopolitik', 'aksaklık', 'risk']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; <strong>Chris Demetroulis</strong> (<strong>Managing Director</strong>, <strong>Transportation Practice</strong>, <strong>Gallagher</strong>) in an interview with <strong>Robert J. Bowman</strong> (<strong>SupplyChainBrain</strong>); providing expert analysis on some of the biggest risks supply chains face today and how the insurance market is responding. The flood of disruptions currently plaguing global supply chains is forcing businesses and countries into a "wait-and-see mode" as they struggle to respond to unpredictable events—according to <strong>Demetroulis</strong>. Amid economic uncertainty and rising geopolitical tensions, cargo theft is climbing—he notes. Moreover, it is becoming increasingly sophisticated. GPS tracking enables thieves to identify the most advantageous point at which to strike. Simultaneously, cyberattacks are infiltrating companies' information systems. Insurance carriers are responding by investing in former FBI and police personnel to bolster staffing and increase their ability to stay ahead of criminals. "Staying ahead is difficult," says <strong>Demetroulis</strong>. Not surprisingly, companies are filing a growing number of insurance claims—and insurance pricing is reflecting that.</p>

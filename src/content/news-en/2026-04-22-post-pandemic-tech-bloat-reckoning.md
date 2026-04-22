@@ -10,8 +10,8 @@ newsSequence: 42240
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Teknoloji']"
-tags: "['teknoloji şişkinliği', 'OneRail', 'last mile', 'SaaS', 'entegrasyon', 'COVID-19 sonrası', 'perakende', 'SaaS spend']"
+secondaryCategories: ['Teknoloji']
+tags: ['teknoloji şişkinliği', 'OneRail', 'last mile', 'SaaS', 'entegrasyon', 'COVID-19 sonrası', 'perakende', 'SaaS spend']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain Webinar</strong>; moderated by <strong>Bill Catania</strong>, founder and <strong>CEO</strong> of <strong>OneRail</strong>; <strong>Jeff Toewe</strong>, <strong>Chief Product Officer</strong>; <strong>David Rye</strong>, board member and operational advisor; and <strong>Helen Atkinson</strong>, Managing Editor of <strong>SupplyChainBrain</strong>. Five years after the peak of supply chain disruption, retailers and wholesalers face a new challenge: <strong>tech bloat</strong>. In their rush to adapt, companies embraced a patchwork of point solutions — many of which now sit idle, redundant, or worse, draining resources and slowing operations. In this candid, open webinar, speakers address the hidden costs of fragmented technology stacks and the unintended consequences of overdependence on siloed tools. Learn how leading brands are moving away from unnecessary platforms and adopting unified strategies that drive efficiency, flexibility, and performance across the supply chain. Join a conversation with no rules on how to escape technology overload and take back control.</p>

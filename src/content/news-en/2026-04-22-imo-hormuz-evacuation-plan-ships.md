@@ -10,8 +10,8 @@ newsSequence: 43903
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['IMO', 'Hürmüz Boğazı', 'Arsenio Dominguez', 'Singapore Maritime Week', 'denizcilik güvenliği', 'mayın riski', 'insani koridor', 'Iran savaşı']"
+secondaryCategories: ['Lojistik']
+tags: ['IMO', 'Hürmüz Boğazı', 'Arsenio Dominguez', 'Singapore Maritime Week', 'denizcilik güvenliği', 'mayın riski', 'insani koridor', 'Iran savaşı']
 ---
 
 <p style="text-align: justify"><strong>The International Maritime Organization (IMO)</strong> is working on an evacuation plan for hundreds of ships stranded in the <strong>Persian Gulf</strong> since <strong>U.S.</strong> and <strong>Israeli</strong> strikes on <strong>Iran</strong> began more than seven weeks ago. This information is based on a statement by Secretary-General <strong>Arsenio Dominguez</strong>. The plan can only be implemented once there are clear signs of <strong>de-escalation</strong>. <strong>Dominguez</strong> spoke on the sidelines of <strong>Singapore Maritime Week</strong> on April 21. The United Nations agency must also determine whether mines have been laid before sending ships through the strait. From a supply chain perspective, the critical role of <strong>SOLAS</strong> (<strong>Safety of Life at Sea</strong>) and <strong>STCW</strong> frameworks in evacuation operations requires high-complexity coordination between <strong>flag state</strong> and <strong>port state</strong> authorities.</p>

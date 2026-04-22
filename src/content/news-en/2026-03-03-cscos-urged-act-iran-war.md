@@ -10,8 +10,8 @@ newsSequence: 43573
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['CSCO', 'İran savaşı', 'Gartner', 'David Gonzalez', 'savaş sürşarjı', 'Orta Doğu lojistiği', 'senaryo planlama', 'tedarik zinciri direnci']"
+secondaryCategories: ['Lojistik']
+tags: ['CSCO', 'İran savaşı', 'Gartner', 'David Gonzalez', 'savaş sürşarjı', 'Orta Doğu lojistiği', 'senaryo planlama', 'tedarik zinciri direnci']
 ---
 
 <p style="text-align: justify"><strong>Chief supply chain officers (CSCOs)</strong> responding to the outbreak of war in the <strong>Middle East</strong> are being urged to implement urgent actions, including communicating their response strategies with <strong>C-suite</strong> colleagues and rerouting transportation lanes through alternative carriers. This framework requires a direct reassessment of the operational risk profile of mainline services across the <strong>UAE</strong>, <strong>Saudi Arabia</strong>, <strong>Qatar</strong>, <strong>Oman</strong>, and <strong>Bahrain</strong>, as well as <strong>airfreight</strong> traffic and <strong>roadfreight</strong> corridors. From a supply chain perspective, the concentration of risk in combined flows across the <strong>Strait of Hormuz</strong>, <strong>Bab el-Mandeb</strong>, and <strong>Suez Canal</strong> could lead to sharp increases in <strong>marine war risk</strong> premiums and spikes in <strong>charter rate</strong> volatility. Decisions made by <strong>CSCOs</strong> within the first 72 hours are critical for protecting long-term customer relationships and contractual flows.</p>

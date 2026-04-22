@@ -10,8 +10,8 @@ newsSequence: 42200
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Sağlık']"
-tags: "['AstraZeneca', 'ilaç', 'ABD üretim', 'Trump 2.0', 'tarifeler', 'biyofarma', 'Pascal Soriot', 'yatırım']"
+secondaryCategories: []
+tags: ['AstraZeneca', 'ilaç', 'ABD üretim', 'Trump 2.0', 'tarifeler', 'biyofarma', 'Pascal Soriot', 'yatırım']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that pharmaceutical giant <strong>AstraZeneca</strong> says it will invest 50 billion dollars in <strong>U.S.</strong> manufacturing through 2030 as President <strong>Donald Trump</strong> threatens to impose tariffs of up to 200% on imported drugs. According to <strong>The New York Times</strong>, <strong>AstraZeneca</strong> CEO <strong>Pascal Soriot</strong> is announcing the investment in Washington DC on July 21. A manufacturing facility in <strong>Virginia</strong> will serve as one of the cornerstone projects of the initiative—in addition to facilities planned in <strong>California</strong>, <strong>Indiana</strong>, <strong>Maryland</strong>, and <strong>Texas</strong>—with expanded research and development operations in <strong>Maryland</strong> and <strong>Massachusetts</strong>. "Today's announcement demonstrates our confidence in American innovation in biopharmaceuticals and our commitment to the millions of patients worldwide who depend on our medicines in America and globally," <strong>Soriot</strong> said. Under sustained pressure from the <strong>Trump</strong> administration, a series of other pharmaceutical manufacturers have recently announced similar plans to ramp up manufacturing in the <strong>U.S.</strong></p>

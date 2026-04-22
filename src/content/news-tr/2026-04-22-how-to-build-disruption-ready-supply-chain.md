@@ -3,8 +3,7 @@ title: "Aksaklığa Hazır Tedarik Zinciri Nasıl İnşa Edilmekta"
 subtitle: "SCB Think Tank/iStock Khaled Ladjimi: Build Disruption-Ready Supply Chain; Jeff Lang SCB Contributor; Insurance Default Tool No Longer Enough; Rising Raw Material Cost Inflation New Tariff Higher Premium Stricter Underwriting Tighter Policy Term; Most Resilient Best Risk-Management Program Not Most Coverage; Multi-Region Time-Sensitive Delivery Third-Party Partner Logistics Warehousing Raw Material; Single Breakdown Ripple Effect Production Customer Delivery Revenue; Lean Manufacturing Just-in-Time Vulnerability Disruption Baseline; Structural Flexibility Resiliency"
 date: '2026-04-22T23:30:00Z'
 category: Tedarik Zinciri
-secondaryCategories:
-  - Risk Yönetimi
+secondaryCategories: []
 image: https://www.supplychainbrain.com/ext/resources/2025/07/09/FLEXIBLE-FLEXIBILITY-RESILIENCE-ADAPTATION-iStock-Khaled-Ladjimi-1482642499.webp
 imageAlt: Rüzgarlı bir bozkırda yalnız bir ağaç rüzgarın gücüyle eğik durmakta
 sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/41990-how-to-build-a-disruption-ready-supply-chain

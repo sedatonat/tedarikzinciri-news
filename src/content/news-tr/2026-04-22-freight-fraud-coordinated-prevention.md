@@ -3,8 +3,7 @@ title: "Yük Dolandırıcılığı Koordineli Önleme Talep Etmekta"
 subtitle: "SCB Think Tank/iStock: Freight Fraud Increasing Threat Coordinated Prevention; Karl Fillhouer SCB Contributor; CargoNet Data Cargo Theft 13% Q2 2025; Organized Crime High-Value Commodity Nationwide; 25 Milyar Dolar U.S. Business Annual Cost; 1500% Growth 2020 Sonrası; Average Theft Value 200K Dolar İncident; Federal Unified Approach Technology-Backed Mitigation; Strategic Crisis Federally Enforced Intervention"
 date: '2026-04-22T23:30:00Z'
 category: Lojistik
-secondaryCategories:
-  - Risk Yönetimi
+secondaryCategories: []
 image: https://www.supplychainbrain.com/ext/resources/2024/07/02/cargo-theft-iStock-1001622498.webp
 imageAlt: Bir yük konteyneri üzerindeki kırık bir kilit
 sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/42280-freight-fraud-an-increasing-threat-demands-coordinated-prevention

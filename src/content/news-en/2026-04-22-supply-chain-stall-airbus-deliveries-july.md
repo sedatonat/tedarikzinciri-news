@@ -10,8 +10,8 @@ newsSequence: 42270
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Airbus', 'A320neo', 'motor tedariki', 'havacılık', 'Pratt Whitney', 'CFM International', 'Boeing', 'üretim gecikmesi']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Airbus', 'A320neo', 'motor tedariki', 'havacılık', 'Pratt Whitney', 'CFM International', 'Boeing', 'üretim gecikmesi']
 ---
 
 <p style="text-align: justify"><strong>Bloomberg</strong> reports that <strong>Airbus SE</strong> delivered approximately 63 aircraft in July—roughly 18% fewer than the same month last year—with engine shortages in its best-selling <strong>A320neo</strong> model hampering customer deliveries, according to people familiar with the matter. The world's largest planemaker has delivered approximately 370 aircraft in the first seven months of 2025—less than half its annual target. July delivery figures are preliminary information, and could shift slightly, according to people who spoke on condition of anonymity to avoid discussing confidential data. An <strong>Airbus</strong> spokeswoman refrained from commenting on the July total before official figures are published in early August. Deliveries are closely monitored by investors because they represent when airline customers pay the bulk of an aircraft order. <strong>Airbus</strong> Chief Executive Officer <strong>Guillaume Faury</strong> is maintaining the company's guidance around 820 full-year deliveries, saying supply chain issues will push a significant portion of shipments into the second half.</p>

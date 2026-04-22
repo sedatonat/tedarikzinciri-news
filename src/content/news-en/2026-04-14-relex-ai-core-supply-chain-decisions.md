@@ -10,8 +10,8 @@ newsSequence: 43849
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['RELEX Solutions', 'yapay zeka', 'üretken yapay zeka', 'ajansal yapay zeka', 'öngörücü analitik', 'envanter optimizasyonu', 'tedarik zinciri kararları', 'Researchscape']"
+secondaryCategories: ['Lojistik']
+tags: ['RELEX Solutions', 'yapay zeka', 'üretken yapay zeka', 'ajansal yapay zeka', 'öngörücü analitik', 'envanter optimizasyonu', 'tedarik zinciri kararları', 'Researchscape']
 ---
 
 <p style="text-align: justify">Artificial intelligence is transitioning from experimental to operational decision support in supply chain planning. <strong>Retail</strong> and manufacturing leaders report that 67% of them have growing confidence in using AI for supply chain decision-making compared to the previous year. <strong>RELEX Solutions</strong>&rsquo; "<strong>State of Supply Chain 2026: Volatility, Trade-Offs &amp; the Rise of AI</strong>" report reveals that 54% of respondents prefer AI to make recommendations while humans finalize decisions, with only 10% trusting AI to make supply chain decisions completely independently. From a supply chain perspective, <strong>human-in-the-loop</strong> architecture ensures that regulatory frameworks such as the <strong>AI Act</strong> and <strong>NIST AI RMF</strong> are reflected in supply chain decision-making, with <strong>auditability</strong> and <strong>explainability</strong> becoming central to corporate procurement criteria.</p>

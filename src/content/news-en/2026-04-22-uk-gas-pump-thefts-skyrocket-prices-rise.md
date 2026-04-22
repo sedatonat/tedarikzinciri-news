@@ -10,8 +10,8 @@ newsSequence: 43897
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Birleşik Krallık', 'yakıt hırsızlığı', 'Iran savaşı', 'Pay My Fuel', 'Forecourt Eye', 'benzin fiyatı', 'pompa', 'Petrol Retailers Association']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Birleşik Krallık', 'yakıt hırsızlığı', 'Iran savaşı', 'Pay My Fuel', 'Forecourt Eye', 'benzin fiyatı', 'pompa', 'Petrol Retailers Association']
 ---
 
 <p style="text-align: justify">Petrol station fuel thefts in the <strong>U.K.</strong> are up <strong>62%</strong> compared with a year ago. The figures come from new data compiled by fuel theft recovery firm <strong>Pay My Fuel</strong> for the <strong>BBC</strong> and published on 21 April. The crime wave is being attributed to price spikes driven by the conflict in <strong>Iran</strong>. Fuel debt recovery platform <strong>Forecourt Eye</strong> says theft levels are now worse than 2022, when prices surged sharply following <strong>Russia</strong>'s invasion of <strong>Ukraine</strong>, according to reporting by the <strong>U.K.</strong>'s <strong>Times</strong>. From a supply chain perspective, the <strong>downstream petroleum</strong> supply chain creates a value chain across <strong>terminal</strong>, <strong>jobber</strong>, and <strong>retail forecourt</strong> stages via <strong>refinery gate</strong> pricing. The <strong>Argus Northwest Europe</strong> and <strong>Platts CIF NWE</strong> indices provide reference pricing for <strong>EN228</strong> standard petrol and <strong>EN590</strong> diesel.</p>

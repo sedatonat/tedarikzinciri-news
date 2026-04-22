@@ -10,8 +10,8 @@ newsSequence: 42870
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Exotec', 'depo otomasyonu', 'Romain Moulin', 'iş gücü', 'AMR', 'ASRS', 'Skypod', 'robotik']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Exotec', 'depo otomasyonu', 'Romain Moulin', 'iş gücü', 'AMR', 'ASRS', 'Skypod', 'robotik']
 ---
 
 <p style="text-align: justify">Roughly half of warehouse workers say automation is helping drive wage increases, and nearly two-thirds report higher job satisfaction working with technology compared to manual operations. According to a survey by robotics company <strong>Exotec</strong> covering more than 400 warehouse workers, 98% of respondents say automation makes them more productive. Another 48% describe themselves as optimistic about automation's role in warehouses, with 32% cautious and 20% neutral on the matter. "The data is clear—workers believe that working alongside automation offers new potential for long-term careers and immediate job satisfaction," <strong>Exotec</strong> CEO <strong>Romain Moulin</strong> said in a statement on November 17. From a supply chain perspective, <strong>Exotec</strong> is France-based, founded in 2015 by <strong>Romain Moulin</strong> and <strong>Renaud Heitz</strong>, and is recognized for its <strong>Skypod goods-to-person</strong> 3D mobile robot system.</p>

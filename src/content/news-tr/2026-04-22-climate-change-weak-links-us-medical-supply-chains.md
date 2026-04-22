@@ -3,8 +3,7 @@ title: "İklim Değişikliği ABD Tıbbi Tedarik Zincirlerindeki Zayıf Halkalar
 subtitle: "SCB/iStock Sergii Kolesnikov: İklim Değişikliği US Medical Supply Chain Zayıf Halka Ortaya Çıkarmakta; Hurricane Helene 2024 Eylül Florida Georgia Yıkım; North Carolina Yağış Sel; Baxter International North Cove Plant Kapanma; IV Sıvı Üretim; Chris Luoma GHX Senior VP Strategy; Single Site Manufacturing JIT Inventory; Last Mile Fragile; Warmer Ocean Supercharge Storm; Cost Efficiency Resiliency Balance"
 date: '2026-04-22T20:00:00Z'
 category: Tedarik Zinciri
-secondaryCategories:
-  - Risk Yönetimi
+secondaryCategories: []
 image: https://www.supplychainbrain.com/ext/resources/2024/10/02/iv-fluids-iStock-1806224504.webp
 imageAlt: Şeffaf bir plastik tüpe bağlı bir IV torbası
 sourceUrl: https://www.supplychainbrain.com/articles/42470-climate-change-exposes-weak-links-in-us-medical-supply-chains

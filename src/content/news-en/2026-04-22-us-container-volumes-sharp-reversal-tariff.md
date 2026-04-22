@@ -10,8 +10,8 @@ newsSequence: 42190
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['konteyner', 'ABD limanları', 'John McCown', 'Trump 2.0', 'tarifeler', 'denizcilik', 'ithalat', 'TEU']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['konteyner', 'ABD limanları', 'John McCown', 'Trump 2.0', 'tarifeler', 'denizcilik', 'ithalat', 'TEU']
 ---
 
 <p style="text-align: justify"><strong>Bloomberg</strong> reports that the number of shipping containers carrying U.S. imports declined for a second consecutive month — a key indicator — as President <strong>Donald Trump</strong>'s tariffs disrupt overseas goods purchases, putting the economic metric on track for one of the sharpest annual reversals on record. Veteran industry analyst <strong>John McCown</strong> wrote in a monthly report based on the 10 largest <strong>U.S.</strong> ports on July 20 that inbound container volume in June fell 7.9% compared to the prior year — following a 6.6% decline in May. The declines have completely erased the roughly 10% increase linked to inventory front-loading in April — and left the second quarter 1.8% lower compared to the prior year. "The downward turn in 2025 will depend on tariffs — and there is currently nothing to suggest that it will be short-lived," <strong>McCown</strong> wrote. After last year's 15% gain, "it is now most likely that there will generally be a decline in 2025."</p>

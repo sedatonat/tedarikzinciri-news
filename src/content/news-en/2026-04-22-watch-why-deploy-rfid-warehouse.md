@@ -10,8 +10,8 @@ newsSequence: 42330
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Teknoloji']"
-tags: "['RFID', 'Lyngsoe Systems', 'Zebra Technologies', 'depo yönetimi', 'görünürlük', 'otomatik tanımlama', 'WMS', 'işgücü maliyeti']"
+secondaryCategories: ['Teknoloji']
+tags: ['RFID', 'Lyngsoe Systems', 'Zebra Technologies', 'depo yönetimi', 'görünürlük', 'otomatik tanımlama', 'WMS', 'işgücü maliyeti']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> video segment features <strong>Sean Stephens</strong>, Business Development Manager at <strong>Lyngsoe Systems</strong>, discussing with <strong>Wes Coleman</strong>, Industry Principal Warehouse at <strong>Zebra Technologies Corporation</strong>, why Radio Frequency Identification (<strong>RFID</strong>) has become so critical for today's distribution operations. <strong>RFID</strong> is not new — its roots extend back to World War II. So why discuss it now? "Mass adoption continues across many business segments," driven largely by customer demand, says <strong>Stephens</strong>. <strong>Stephens</strong> and <strong>Coleman</strong> detail five key benefits of modern <strong>RFID</strong> deployment in the warehouse: (1) enhanced tracking and visibility; (2) reduced labor costs and staff time; (3) improved accuracy and efficiency; (4) enhanced <strong>SKU</strong> visibility across the supply chain; (5) <strong>RFID</strong> tag prices have dropped from 30 cents in 2003 to just 3 cents today — while reliability has soared. "Real-time visibility across the supply chain is critical," says <strong>Coleman</strong>.</p>

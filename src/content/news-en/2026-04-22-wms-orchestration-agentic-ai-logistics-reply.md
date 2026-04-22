@@ -10,8 +10,8 @@ newsSequence: 43893
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['WMS', 'ajansal yapay zeka', 'Logistics Reply', 'Todd Kolber', 'depo yönetimi', 'orkestrasyon', 'gerçek zamanlı veri', 'optimizasyon']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['WMS', 'ajansal yapay zeka', 'Logistics Reply', 'Todd Kolber', 'depo yönetimi', 'orkestrasyon', 'gerçek zamanlı veri', 'optimizasyon']
 ---
 
 <p style="text-align: justify"><strong>Todd Kolber</strong>, co-managing director of <strong>Logistics Reply</strong>, notes that agentic artificial intelligence is improving the operations of warehouse management systems (<strong>WMS</strong>). According to <strong>Kolber</strong>'s perspective, current <strong>WMS</strong> architecture is insufficient. Planners look months or even years ahead, operations are tasked with meeting these forecasts, and management must serve as the "<strong>traffic cop</strong>" keeping everything running. From a supply chain perspective, <strong>WMS</strong>, along with <strong>WCS</strong> (<strong>Warehouse Control System</strong>) and <strong>WES</strong> (<strong>Warehouse Execution System</strong>), form three main layers of the <strong>warehouse stack</strong>. <strong>Manhattan Associates</strong>, <strong>Blue Yonder</strong>, <strong>SAP EWM</strong>, <strong>Oracle WMS Cloud</strong>, <strong>Körber</strong>, <strong>Softeon</strong>, and <strong>Logistics Reply</strong> are the market's major players, and all are moving toward <strong>agentic AI</strong> integration.</p>

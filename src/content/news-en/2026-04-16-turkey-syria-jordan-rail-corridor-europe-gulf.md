@@ -10,8 +10,8 @@ newsSequence: 43870
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Türkiye', 'Suriye', 'Ürdün', 'Suudi Arabistan', 'Abdulkadir Uraloğlu', 'demiryolu koridoru', 'Avrupa-Körfez', 'altyapı']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Türkiye', 'Suriye', 'Ürdün', 'Suudi Arabistan', 'Abdulkadir Uraloğlu', 'demiryolu koridoru', 'Avrupa-Körfez', 'altyapı']
 ---
 
 <p style="text-align: justify"><strong>Turkey</strong>, <strong>Syria</strong> and <strong>Jordan</strong> are working to modernize their railway systems. The agreement aims ultimately to create a seamless corridor between southern <strong>Europe</strong> and the <strong>Persian Gulf</strong>. This information is based on a statement by <strong>Turkey</strong>'s Transport Minister <strong>Abdulkadir Uraloğlu</strong>. <strong>Uraloğlu</strong> told <strong>Bloomberg</strong> on April 15 that an agreement was reached during a meeting held last week with his <strong>Syrian</strong> and <strong>Jordanian</strong> counterparts. From a supply chain perspective, the <strong>Europe-Gulf</strong> overland corridor stands out as a strategic alternative to mitigate the geopolitical vulnerabilities of the <strong>Suez Canal</strong> route and the effects of the <strong>Iran</strong> conflict. Distinct from the main <strong>Asia-Europe</strong> flow, intra-Middle East overland traffic provides more predictable transit times compared to <strong>RoRo</strong> in the perishable, automotive parts and retail categories.</p>

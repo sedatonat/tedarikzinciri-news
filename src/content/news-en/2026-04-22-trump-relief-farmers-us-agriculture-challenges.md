@@ -10,8 +10,8 @@ newsSequence: 42960
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Trump', 'U.S. tarımı', 'Helen Atkinson', 'Farmer Bridge Assistance', 'BBC News', 'FDA', 'soya fasulyesi', 'One Big Beautiful Bill']"
+secondaryCategories: ['Lojistik']
+tags: ['Trump', 'U.S. tarımı', 'Helen Atkinson', 'Farmer Bridge Assistance', 'BBC News', 'FDA', 'soya fasulyesi', 'One Big Beautiful Bill']
 ---
 
 <p style="text-align: justify"><strong>U.S.</strong> farmers are receiving $12 billion in assistance from the <strong>Farmer Bridge Assistance</strong> program announced by President <strong>Donald Trump</strong> on December 8—aimed at offsetting the effects of low crop prices and the administration's ongoing trade wars. The <strong>FDA</strong>, in a press statement, said that "one-time bridge payments" are providing relief to <strong>U.S.</strong> farmers from "unfair market disruptions"—including temporary trade market disruptions and rising production costs continuing to impact farmers, "following four years of disastrous <strong>Biden</strong> Administration policies that caused record-high input prices and zero new trade agreements." From a supply chain perspective, the <strong>USDA</strong> (<strong>U.S. Department of Agriculture</strong>), through its <strong>FSA</strong> (<strong>Farm Service Agency</strong>) and <strong>NRCS</strong> (<strong>Natural Resources Conservation Service</strong>) units, is distributing direct assistance to farmers. <strong>Helen Atkinson</strong>, <strong>Managing Editor</strong> of <strong>SupplyChainBrain</strong>, covers the issue.</p>

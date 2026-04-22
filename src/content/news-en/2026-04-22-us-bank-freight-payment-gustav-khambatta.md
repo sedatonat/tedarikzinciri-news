@@ -10,8 +10,8 @@ newsSequence: 43040
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['U.S. Bank', 'Gustav Khambatta', 'Freight Payment', 'yük ödeme', 'audit', 'treasury', 'embedded finance', 'TMS']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['U.S. Bank', 'Gustav Khambatta', 'Freight Payment', 'yük ödeme', 'audit', 'treasury', 'embedded finance', 'TMS']
 ---
 
 <p style="text-align: justify"><strong>Gustav Khambatta</strong>, head of freight payment sales at <strong>U.S. Bank</strong>, introduces us to the <strong>U.S. Bank Freight Payment</strong> solution. From a supply chain perspective, <strong>U.S. Bank</strong> is the principal banking subsidiary of <strong>U.S. Bancorp</strong> — headquartered in <strong>Minneapolis, Minnesota</strong>, ranked within the <strong>Fortune 100</strong>, and the fifth-largest commercial bank in the <strong>U.S.</strong> Freight payment services represent one of the core components of the bank's corporate payment solutions portfolio. <strong>U.S. Bank</strong> integrates the <strong>Syncada</strong> platform (formerly <strong>Syncada by Visa</strong>) with business payment solutions such as <strong>Voyager Fleet Systems</strong>, <strong>Powertrack</strong>, <strong>RM Global Solutions</strong>, <strong>Pivotpath</strong>, and <strong>Bento for Business</strong>. The <strong>Voyager fleet card</strong> is a leading mechanism for fleet fuel payments in the <strong>U.S.</strong> The <strong>freight audit and payment</strong> (<strong>FAP</strong>) market represents one of the critical components of supply chain finance.</p>

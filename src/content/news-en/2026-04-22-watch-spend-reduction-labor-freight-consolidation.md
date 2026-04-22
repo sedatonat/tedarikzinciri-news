@@ -10,8 +10,8 @@ newsSequence: 41630
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['iş gücü', 'yük konsolidasyonu', 'ODW Logistics', 'Jeff Clark', 'LTL', 'AI', 'depo', '3PL']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['iş gücü', 'yük konsolidasyonu', 'ODW Logistics', 'Jeff Clark', 'LTL', 'AI', 'depo', '3PL']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; <strong>Jeff Clark</strong> (<strong>Executive Vice President</strong>; <strong>ODW Logistics</strong>); in an interview with <strong>Russell W. Goodman</strong> (<strong>SupplyChainBrain</strong>); analyst insight; the right framework and training are critical to reducing costs in labor management and freight consolidation operations. Customers are always looking for ways to lower costs — says <strong>Clark</strong>. Today, many hope that artificial intelligence can help them do this. For example, in the warehouse, artificial intelligence helps operators see where order picking can be done in a more timely and cost-efficient manner. "This is done in an encouraging way," says <strong>Clark</strong>. "It doesn't mean demeaning the pickers in any way. If you do this, you'll be more effective, he says." Inefficiency contributes to a number of situations — he says. For example, how much time is wasted at the start of a shift, during breaks, or at the restroom? <strong>Clark</strong> says that reasonable standards can determine that employees are not in a productive environment. Identifying this is not about putting people "in a bad light," but about increasing productivity. "You can manage this. You can make a decision."</p>

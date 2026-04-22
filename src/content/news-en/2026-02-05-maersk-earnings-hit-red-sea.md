@@ -10,8 +10,8 @@ newsSequence: 43427
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Maersk', 'Kızıldeniz', 'Süveyş Kanalı', 'konteyner taşımacılığı', 'EBITDA', 'ME11 hattı', 'Vincent Clerc', 'aşırı kapasite']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Maersk', 'Kızıldeniz', 'Süveyş Kanalı', 'konteyner taşımacılığı', 'EBITDA', 'ME11 hattı', 'Vincent Clerc', 'aşırı kapasite']
 ---
 
 <p style="text-align: justify"><strong>Maersk</strong> has warned that as container shipping gradually returns to the <strong>Red Sea</strong>, over-capacity in the ocean carrier market will intensify, driving down freight rates in the coming months and potentially cutting 2026 earnings in half. The statement underscores the supply shock that will hit the market as the global container shipping industry reverses the capacity it has been routing around the <strong>Cape of Good Hope</strong> over the past two years. Maersk, as one of the sector's largest players, is prompting other liner operators to restructure their contract pricing strategies for the next two quarters. From a supply chain perspective, this warning serves as a trigger pulling forward contract renewal cycles on the shipper side.</p>

@@ -10,8 +10,8 @@ newsSequence: 43053
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Nijerya', 'BAE', 'Lagos-Calabar Highway', 'First Abu Dhabi Bank', 'Bola Tinubu', 'ICIEC', 'altyapı finansmanı']"
+secondaryCategories: ['Lojistik']
+tags: ['Nijerya', 'BAE', 'Lagos-Calabar Highway', 'First Abu Dhabi Bank', 'Bola Tinubu', 'ICIEC', 'altyapı finansmanı']
 ---
 
 <p style="text-align: justify"><strong>Nigeria</strong> is securing approximately <strong>$1.2 billion</strong> in financing from the <strong>United Arab Emirates (UAE)</strong> and is deploying these funds toward construction of a specific section of a new highway project. The presidency of the country, one of <strong>West Africa</strong>'s largest economies, announced on December 26, 2025, that the credit is financing the construction of a 56-kilometer (35-mile) segment under the flagship <strong>Lagos-Calabar Coastal Highway</strong> project. The ultimate goal is defined as creating a total 700-kilometer-long highway corridor along <strong>Nigeria</strong>'s <strong>Atlantic</strong> coast and implementing a transportation corridor that connects many of the country's major economic centers. With these characteristics, the project ranks among the largest infrastructure investments the country has undertaken to date.</p>

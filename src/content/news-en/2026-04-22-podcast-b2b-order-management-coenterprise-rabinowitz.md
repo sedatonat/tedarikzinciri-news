@@ -10,8 +10,8 @@ newsSequence: 42830
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['CoEnterprise', 'Michael Rabinowitz', 'Bob Bowman', 'agentic AI', 'B2B', 'sipariş yönetimi', 'EDI', 'otomasyon']"
+secondaryCategories: ['Lojistik']
+tags: ['CoEnterprise', 'Michael Rabinowitz', 'Bob Bowman', 'agentic AI', 'B2B', 'sipariş yönetimi', 'EDI', 'otomasyon']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> Podcast explores how the order-management lifecycle is reaching maturity for automation—particularly in the form of artificial intelligence. Order management sits at the heart of global supply chains, encompassing every process needed to deliver products to the end customer. For this reason, it involves multiple business partners and serves as a mechanism to efficiently move data, documents, and physical products among them. Until recently, the order-management lifecycle has been conducted largely through manual processes—and in <strong>B2B</strong> transactions, this remains largely the case. It is time to fix all of this. In this episode, we speak with <strong>Michael Rabinowitz</strong>, Chief Executive Officer (<strong>CEO</strong>) of <strong>CoEnterprise</strong>, about automation—focusing on the rising role of agentic <strong>AI</strong>. From a supply chain perspective, <strong>CoEnterprise</strong>, based in New York City, New York, was founded in 2010 as a <strong>B2B</strong> integration, <strong>EDI</strong> (<strong>Electronic Data Interchange</strong>), analytics, and data consulting firm.</p>

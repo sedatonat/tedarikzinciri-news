@@ -10,8 +10,8 @@ newsSequence: 43890
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Air Canada', 'Spirit Airlines', 'easyJet', 'jet yakıtı', 'Hürmüz Boğazı', 'JFK', 'uçuş iptalleri', 'havacılık krizi']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Air Canada', 'Spirit Airlines', 'easyJet', 'jet yakıtı', 'Hürmüz Boğazı', 'JFK', 'uçuş iptalleri', 'havacılık krizi']
 ---
 
 <p style="text-align: justify"><strong>Air Canada</strong> is temporarily suspending all flights between <strong>Toronto</strong> and <strong>Montreal</strong> and <strong>New York John F. Kennedy International Airport (JFK)</strong> from June 1 to October 25, 2026. The carrier attributes the decision to rapidly soaring <strong>jet fuel</strong> prices. The airline stated in its announcement: "Jet fuel prices have doubled since the start of the <strong>Iran</strong> conflict, making low-margin routes economically unsustainable." In addition, <strong>Air Canada</strong> announced that the <strong>Salt Lake City</strong>-<strong>Toronto</strong> route is being suspended as of June 30 and is planned to resume in 2027. The launch of the <strong>Guadalajara</strong>-<strong>Montreal</strong> route is being postponed. Underlying all these decisions is the cost shock created by uncertainty in oil shipments originating from the <strong>Persian Gulf</strong>.</p>

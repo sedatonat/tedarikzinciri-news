@@ -10,8 +10,8 @@ newsSequence: 41550
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['ESG', 'sürdürülebilirlik', 'Trump', 'Paris Anlaşması', 'insan hakları', 'Robert Bowman', 'SCB Magazine', 'raporlama']"
+secondaryCategories: ['Lojistik']
+tags: ['ESG', 'sürdürülebilirlik', 'Trump', 'Paris Anlaşması', 'insan hakları', 'Robert Bowman', 'SCB Magazine', 'raporlama']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that <strong>Robert J. Bowman</strong>, <strong>Editor-in-Chief</strong> of <strong>SupplyChainBrain</strong>, is releasing an annual <strong>ESG</strong> special issue. Analyst insights indicate that the <strong>Trump</strong> administration is pushing back against environmental regulations—evidenced by its withdrawal from the <strong>Paris Agreement</strong> on climate change (again). But do not let this lead you to believe that <strong>ESG</strong>—environmental, social, and governance—is no longer a concern of international business. On the contrary, companies are pressing forward with efforts to reduce the impact of their global supply chains on our air, water, land, and climate. Similarly, whether out of goodness of heart or growing pressure from consumers, there is increasing concern about human rights in factories, farms, mines, and warehouses. In response to this reality, we are returning with our annual special issue on <strong>ESG</strong> in supply chains. Here we have invited dozens of industry experts to update their latest thinking on a topic that affects every step of the product journey from design to disposal.</p>

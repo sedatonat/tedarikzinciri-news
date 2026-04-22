@@ -10,8 +10,8 @@ newsSequence: 41840
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Husiler', 'İsrail', 'Hayfa', 'deniz blokajı', 'Yemen', 'Kızıldeniz', 'konteyner', 'jeopolitik']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Husiler', 'İsrail', 'Hayfa', 'deniz blokajı', 'Yemen', 'Kızıldeniz', 'konteyner', 'jeopolitik']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that <strong>Yemen</strong>'s rebel Houthi movement has declared a "maritime blockade" on <strong>Israel</strong>'s <strong>Haifa</strong> port — warning commercial shipping companies to stay clear or risk being targeted — according to <strong>Breakbulk News</strong>. As reported by <strong>Reuters</strong> on May 19, in a televised statement, the group's military spokesperson <strong>Yahya Saree</strong> said that <strong>Haifa</strong> port has been officially added to the group's list of maritime targets. He called on all shipping companies operating vessels destined for or docked at <strong>Haifa</strong> to change course immediately. "From this moment onward, all companies that own vessels at this port or heading to this port have been informed that the port is included in the list of targets," <strong>Saree</strong> said. So far, despite continued attacks, the <strong>Iron Dome</strong> and other defense systems have intercepted most Houthi missiles aimed at <strong>Israel</strong>. However, over recent months, the Houthis' ability to project force over hundreds of miles has kept shipping companies on edge — forcing significant rerouting of global trade. Earlier this year, after <strong>Washington</strong> ramped up retaliatory strikes, the Houthis agreed to halt attacks on U.S.-flagged vessels. But vessels destined for U.S. allied or <strong>Israeli</strong> ports remain vulnerable.</p>

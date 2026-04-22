@@ -10,8 +10,8 @@ newsSequence: 42990
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['South Africa', 'Transnet', 'ICTSI', 'Enrique Razon', 'Durban', 'Pier 2', 'Michelle Phillips', 'liman özelleştirme']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['South Africa', 'Transnet', 'ICTSI', 'Enrique Razon', 'Durban', 'Pier 2', 'Michelle Phillips', 'liman özelleştirme']
 ---
 
 <p style="text-align: justify"><strong>South Africa</strong>'s port and logistics company <strong>Transnet SOC Ltd.</strong> has signed a concession agreement with a firm controlled by <strong>Filipino</strong> billionaire <strong>Enrique Razon</strong> to expand the main terminal at <strong>Durban</strong>, the continent's largest container hub. The signing, which <strong>Transnet</strong> describes as <strong>South Africa</strong>'s first-ever port privatization deal, comes two years after the company granted <strong>International Container Terminal Services Inc.</strong> the right to purchase nearly half of <strong>Container Terminal Pier 2</strong> and operate the facility for 25 years. <strong>Razon</strong>'s firm is spending approximately 11 billion rand ($647 million) on its plans. From a supply chain perspective, <strong>Transnet</strong>, based in <strong>Johannesburg</strong> and owned by the <strong>South African government</strong>, is a railway, port, oil and gas pipeline operator. <strong>Transnet Port Terminals</strong> (<strong>TPT</strong>); <strong>Transnet Freight Rail</strong> (<strong>TFR</strong>); <strong>Transnet Engineering</strong> (<strong>TE</strong>); <strong>Transnet National Ports Authority</strong> (<strong>TNPA</strong>); and <strong>Transnet Pipelines</strong> (<strong>TPL</strong>) are its main business units.</p>

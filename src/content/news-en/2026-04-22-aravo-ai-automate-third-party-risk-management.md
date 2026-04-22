@@ -10,8 +10,8 @@ newsSequence: 43908
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Aravo', 'üçüncü taraf risk yönetimi', 'TPRM', 'yapay zeka', 'otomasyon', 'denetlenebilirlik', 'ajansal yapay zeka', 'kurumsal risk']"
+secondaryCategories: ['Lojistik']
+tags: ['Aravo', 'üçüncü taraf risk yönetimi', 'TPRM', 'yapay zeka', 'otomasyon', 'denetlenebilirlik', 'ajansal yapay zeka', 'kurumsal risk']
 ---
 
 <p style="text-align: justify"><strong>Aravo</strong>, a provider of third-party risk and resilience technology, has introduced <strong>Aravo AI</strong>, an artificial intelligence capability embedded within its <strong>Intelligence First Platform</strong>. <strong>Aravo AI</strong> features artificial intelligence agents built directly into third-party risk assessments and management, enabling automation of manual processes, real-time data access, and enhanced transparency and auditability. From a supply chain perspective, <strong>third-party risk management (TPRM)</strong> encompasses a broad range of processes including <strong>vendor management</strong>, <strong>supplier qualification</strong>, <strong>tier-N visibility</strong>, and <strong>ESG due diligence</strong>. The <strong>NIST 800-161</strong>, <strong>ISO 27036</strong>, and <strong>EU CSDDD</strong> (<strong>Corporate Sustainability Due Diligence Directive</strong>) frameworks form the regulatory foundation for these processes.</p>

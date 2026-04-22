@@ -10,8 +10,8 @@ newsSequence: 42920
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Kawasaki Heavy Industries', 'Yoshinori Kanehana', 'motosiklet', 'tarife', 'Japonya', 'ABD', 'Bloomberg', 'Nebraska']"
+secondaryCategories: ['Lojistik']
+tags: ['Kawasaki Heavy Industries', 'Yoshinori Kanehana', 'motosiklet', 'tarife', 'Japonya', 'ABD', 'Bloomberg', 'Nebraska']
 ---
 
 <p style="text-align: justify"><strong>Kawasaki Heavy Industries Ltd.</strong> says it will be forced to raise prices on its high-end motorcycles to offset the impact of U.S. tariffs. The company's motorcycles rely on motors and other components shipped from <strong>Japan</strong> — making them subject to President <strong>Donald Trump</strong>'s import duties — according to CEO <strong>Yoshinori Kanehana</strong> in an interview with <strong>Bloomberg TV</strong> on December 1. The tariffs could also affect the company's plans to hire approximately 4,000 workers in <strong>Nebraska</strong>, he said. Passing the cost of tariffs on to customers means roughly a 17 percent price increase, <strong>Kanehana</strong> added. From a supply chain perspective, <strong>Kawasaki Heavy Industries</strong>, a <strong>Tokyo, Japan</strong>-based conglomerate founded by <strong>Shozo Kawasaki</strong> in 1896, is a globally diversified industrial company. Beyond motorcycles, the <strong>Kawasaki Group</strong> operates in aerospace, maritime, rail, energy, robotics, and healthcare sectors.</p>

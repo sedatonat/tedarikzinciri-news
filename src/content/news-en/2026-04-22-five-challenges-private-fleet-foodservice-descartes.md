@@ -10,8 +10,8 @@ newsSequence: 42900
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Descartes', 'yiyecek hizmeti', 'özel filo', 'rota optimizasyonu', 'e-POD', 'OSD', 'son mil', 'işgücü']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Descartes', 'yiyecek hizmeti', 'özel filo', 'rota optimizasyonu', 'e-POD', 'OSD', 'son mil', 'işgücü']
 ---
 
 <p style="text-align: justify"><strong>Descartes</strong>, in sponsored content, notes that foodservice distribution is undergoing critical transformation and private fleet operators face mounting challenges to operational efficiency—with service expectations rising and labor tightening. Traditional methods such as static routing, manual documentation, and siloed communication are becoming increasingly unsustainable in an industry demanding greater responsiveness and precision. This report identifies and addresses the five most pressing issues affecting foodservice distributors with private fleets: overages, shortages, and damages (<strong>OS&D</strong>); labor, hiring, and retention; last-minute order disruptions; inefficient fleet utilization; and lack of digital customer engagement. Each reduces profitability, strains resources, and impacts customer satisfaction. From a supply chain perspective, <strong>Descartes Systems Group</strong>, based in <strong>Waterloo, Ontario, Canada</strong>, was founded in 1981 and is a global logistics technology solutions provider. It trades on <strong>NASDAQ</strong> and <strong>TSX</strong>, with 2024 annual revenue of approximately $600 million.</p>

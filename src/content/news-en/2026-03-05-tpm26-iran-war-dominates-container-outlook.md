@@ -10,8 +10,8 @@ newsSequence: 43580
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['TPM26', 'ONE', 'Jeremy Nixon', 'Janet Yellen', 'Hürmüz', 'Brent', 'konteyner taşımacılığı', 'İran savaşı']"
+secondaryCategories: ['Lojistik']
+tags: ['TPM26', 'ONE', 'Jeremy Nixon', 'Janet Yellen', 'Hürmüz', 'Brent', 'konteyner taşımacılığı', 'İran savaşı']
 ---
 
 <p style="text-align: justify"><strong>TPM26</strong>, opening this week in <strong>Long Beach, California</strong>, was expected to feature the familiar crises affecting international container shipping as participants registered for the conference. But no one anticipated the headline that would dominate proceedings. Launched 48 hours after <strong>the U.S.</strong> and <strong>Israel</strong> conducted multiple missile strikes on <strong>Iran</strong> targeting military, nuclear, commercial, and settlement facilities, the annual event in its 22nd year by <strong>S&P Global</strong> has instead become a critical forum where supply chain dynamics are being redrawn around a new geopolitical reality. With <strong>BCO</strong> annual <strong>service contract</strong> negotiations already underway from a supply chain perspective, the conference is reshaping contract pricing dynamics. <strong>3PL</strong> providers and major line operators are convening at the table and agreeing that the <strong>capacity-rate-route</strong> triangle must be redrawn across disrupted corridors.</p>

@@ -10,8 +10,8 @@ newsSequence: 42680
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Port of Los Angeles', 'PoLA', 'emisyon', 'DPM', 'SOx', 'NOx', 'yeşil liman', 'San Pedro Bay']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Port of Los Angeles', 'PoLA', 'emisyon', 'DPM', 'SOx', 'NOx', 'yeşil liman', 'San Pedro Bay']
 ---
 
 <p style="text-align: justify"><strong>Port of Los Angeles</strong> has released figures demonstrating progress in reducing pollution from all sources moving cargo through its gateway. The <strong>Port Authority</strong>'s <strong>Inventory of Air Emissions</strong>, released on 16 October, reports that despite experiencing a 19% year-over-year increase in container volume in 2024, the port achieved its best year on record for reducing emissions per container. The port states that since 2005, it has reduced total diesel particulate matter (<strong>DPM</strong>) emissions by 90%, sulfur oxides (<strong>SOx</strong>) by 98%, and nitrogen oxides (<strong>NOx</strong>) by 73%. <strong>DPM</strong> emissions per 10,000 containers have declined significantly. From a supply chain perspective, <strong>Port of Los Angeles</strong> (<strong>PoLA</strong>) is the largest U.S. container port globally, located in <strong>San Pedro Bay, California</strong>, and operates alongside neighboring <strong>Port of Long Beach</strong> (<strong>PoLB</strong>) as the <strong>San Pedro Bay Port Complex</strong>. <strong>PoLA</strong> handles 9–10 million <strong>TEU</strong> containers annually. <strong>Gene Seroka</strong> is <strong>PoLA</strong>'s Executive Director, having served since 2014.</p>

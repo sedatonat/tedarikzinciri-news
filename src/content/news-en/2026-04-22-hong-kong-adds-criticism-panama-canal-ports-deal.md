@@ -10,8 +10,8 @@ newsSequence: 41380
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Panama Kanalı', 'CK Hutchison', 'BlackRock', 'Hong Kong', 'John Lee', 'Trump', 'limanlar', 'jeopolitik']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Panama Kanalı', 'CK Hutchison', 'BlackRock', 'Hong Kong', 'John Lee', 'Trump', 'limanlar', 'jeopolitik']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; analyst insight; <strong>Hong Kong</strong>'s — <strong>People's Republic of China</strong>'s Special Administrative Region (<strong>SAR</strong>) — Chief Executive <strong>John Lee</strong>; on March 18; stated that the conglomerate's deal to sell off its interest in two ports flanking the entrances and exits of the <strong>Panama Canal</strong> deserves "serious attention" — according to the <strong>New York Times</strong>. This adds to criticism voiced by the <strong>Chinese</strong> government — in a strongly worded opinion article in the <strong>Beijing</strong>-backed newspaper <strong>Ta Kung Pao</strong> on March 14; attacking the United States for pressuring the deal through "despicable means." The agreement between <strong>Hong Kong</strong>-based <strong>CK Hutchison</strong> and <strong>BlackRock</strong>, the world's largest asset manager, comes as a response to allegations by President <strong>Donald Trump</strong> that <strong>China</strong> controls the <strong>Panama Canal</strong>.</p>

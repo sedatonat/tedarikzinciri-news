@@ -10,8 +10,8 @@ newsSequence: 43792
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Meksika', 'CIIT', 'Tehuantepec', 'Hyundai Glovis', 'Panama Kanalı', 'intermodal', 'Salina Cruz', 'Coatzacoalcos']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Meksika', 'CIIT', 'Tehuantepec', 'Hyundai Glovis', 'Panama Kanalı', 'intermodal', 'Salina Cruz', 'Coatzacoalcos']
 ---
 
 <p style="text-align: justify"><strong>Mexico</strong>&rsquo;s government has indicated that the <strong>Interoceanic Corridor of the Isthmus of Tehuantepec (CIIT)</strong> will be fully completed in the first half of 2026, with final construction work set to finish in June of this year. This information has been reported by <strong>Automotive Logistics</strong>. From a supply chain perspective, the <strong>CIIT</strong> is emerging as an alternative <strong>landbridge</strong> option to the <strong>Panama Canal</strong> on the <strong>Asia-U.S. East Coast</strong> route. Its <strong>multimodal</strong> design for <strong>RoRo</strong>, finished <strong>vehicle</strong> flows and time-sensitive general cargo segments represents the transformation of <strong>port-rail</strong> integration into a next-generation <strong>landbridge</strong> concept. Capacity expansions at <strong>Salina Cruz</strong> on the <strong>Pacific</strong> and <strong>Coatzacoalcos</strong> on the <strong>Gulf</strong> serve as the natural nodes for this structure.</p>

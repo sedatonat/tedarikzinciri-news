@@ -10,8 +10,8 @@ newsSequence: 43864
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['podcast', 'yarı iletken', 'Jabil', 'Graham Scott', 'AI veri merkezi', 'HBM', 'çip kıtlığı', 'Bob Bowman']"
+secondaryCategories: ['Lojistik']
+tags: ['podcast', 'yarı iletken', 'Jabil', 'Graham Scott', 'AI veri merkezi', 'HBM', 'çip kıtlığı', 'Bob Bowman']
 ---
 
 <p style="text-align: justify">It should come as no surprise that the rush to build massive new data centers to support the artificial intelligence boom is putting serious pressure on the supply of high-end memory chips. But other factors are also at play: a near-monopoly controlled by a limited number of suppliers; multiple potential logistics bottleneck points; geopolitical tensions; and rising prices. In a conversation with <strong>Graham Scott</strong>, chief procurement officer at electronics manufacturing giant <strong>Jabil</strong>, all these factors are reviewed. <strong>Scott</strong> identifies where and why the current chip shortage is occurring; discusses the impact of <strong>AI</strong> on the semiconductor supply chain; and suggests survival strategies for manufacturers struggling to understand future demand. From a supply chain perspective, <strong>HBM</strong> (<strong>High Bandwidth Memory</strong>) <strong>HBM3e</strong> and <strong>HBM4</strong> generation memory are produced in a three-company oligopoly by <strong>SK hynix</strong>, <strong>Samsung</strong>, and <strong>Micron</strong>. Up to 192GB of <strong>HBM3e</strong> is used in <strong>NVIDIA H100</strong>, <strong>H200</strong>, <strong>B100</strong>, and <strong>B200</strong> GPUs; <strong>HBM4</strong> is expected to proliferate by 2027.</p>

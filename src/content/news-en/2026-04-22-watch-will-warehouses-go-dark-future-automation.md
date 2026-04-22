@@ -10,8 +10,8 @@ newsSequence: 41490
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['otomasyon', 'depo', 'Ocado', 'Mark Richardson', 'karanlık depo', 'robot', 'AMR', 'AS/RS']"
+secondaryCategories: ['Lojistik']
+tags: ['otomasyon', 'depo', 'Ocado', 'Mark Richardson', 'karanlık depo', 'robot', 'AMR', 'AS/RS']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; <strong>Mark Richardson</strong> (<strong>Chief Executive Officer</strong>, <strong>Ocado Intelligent Automation</strong>); interview with <strong>Robert J. Bowman</strong> (<strong>SupplyChainBrain</strong>); analyst insight; visualizing the future of warehouse automation &mdash; including the possibility of fully autonomous "dark" warehouses. In the warehouse automation sector, <strong>Richardson</strong> sees a continuing trend toward labor scarcity and higher costs for available work. As a result, an increasing number of warehouses are considering automation &mdash; even relatively low-cost operations that previously never contemplated the notion. At the same time, there is "a steady march of increased automation among buyers already onboard." <strong>Cobot</strong> (collaborative robots), <strong>AMR</strong> (autonomous mobile robots), and <strong>AS/RS</strong> (automated storage and retrieval systems) are the main categories.</p>

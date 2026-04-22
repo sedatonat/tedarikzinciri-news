@@ -10,8 +10,8 @@ newsSequence: 43867
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['MHI', 'Deloitte', 'MODEX 2026', 'John Paxton', 'Carvana', 'Camille Blake', 'yapay zeka', 'lojistik teknoloji']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['MHI', 'Deloitte', 'MODEX 2026', 'John Paxton', 'Carvana', 'Camille Blake', 'yapay zeka', 'lojistik teknoloji']
 ---
 
 <p style="text-align: justify">More than 70% of supply chain executives believe artificial intelligence will be the most disruptive technology over the next decade, while roughly a quarter expect disruptions caused by AI to be transformative for the logistics sector. <strong>MHI</strong> CEO <strong>John Paxton</strong> stated during his opening remarks at <strong>MODEX 2026</strong> in <strong>Atlanta, Georgia</strong> on April 15: "<strong>Supply chains can no longer be optimized at the edges. Only connected, intelligent and automated real-time networks will withstand the volatility and meet the future customer demands for speed and efficiency</strong>." From a supply chain perspective, the concept of <strong>connected</strong> and <strong>real-time network</strong> requires <strong>warehouse management system (WMS)</strong>, <strong>transportation management system (TMS)</strong>, and <strong>yard management</strong> layers to operate with <strong>API</strong>-based integrated data flows. <strong>MODEX</strong>, held biannually, is the largest gathering point for the <strong>material handling</strong> sector.</p>

@@ -10,8 +10,8 @@ newsSequence: 43214
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Boeing', 'UPS', 'MD-11F', 'NTSB', 'BBC News', 'Louisville', 'kargo havacılığı', 'uçak güvenliği']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Boeing', 'UPS', 'MD-11F', 'NTSB', 'BBC News', 'Louisville', 'kargo havacılığı', 'uçak güvenliği']
 ---
 
 <p style="text-align: justify">A <strong>UPS</strong> cargo aircraft that crashed in <strong>Kentucky</strong> in November in a massive fireball, killing 15 people, carried a structural flaw that <strong>Boeing</strong> identified in similar aircraft 15 years earlier, according to reports. The <strong>U.S. National Transportation Safety Board (NTSB)</strong>, which is investigating the accident, has determined that cracks found in the engine attachment assembly were previously observed on other aircraft. The initial technical details made public in the investigation have triggered renewed discussion about critical engineering decisions <strong>Boeing</strong> made regarding the <strong>MD-11F</strong> cargo fuselage over the years. In light of this, cargo aviation operators and regulators are reviewing inspection frequency and recall protocols for the existing <strong>MD-11F</strong> fleet.</p>

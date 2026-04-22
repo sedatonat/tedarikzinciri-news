@@ -10,8 +10,8 @@ newsSequence: 43441
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Rotterdam Limanı', 'Hapag-Lloyd', 'Bangkok Express', 'K. Lotus', 'LNG bunkering', 'Prinses Amaliahaven', 'liman güvenliği', 'Dutch Safety Board']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Rotterdam Limanı', 'Hapag-Lloyd', 'Bangkok Express', 'K. Lotus', 'LNG bunkering', 'Prinses Amaliahaven', 'liman güvenliği', 'Dutch Safety Board']
 ---
 
 <p style="text-align: justify"><strong>Rotterdam</strong> Port's terminal operations have been temporarily disrupted following an incident in which seven empty containers fell from an ultra-large container vessel onto an <strong>LNG</strong> bunker vessel. The incident has reignited questions regarding the safety of <strong>LNG</strong> bunkering operations at one of <strong>Europe</strong>'s largest container ports and at the center of the alternative fuel transition. According to details shared by the port, on February 6, five containers from Hapag-Lloyd's <strong>Bangkok Express</strong> fell onto the aft deck of the <strong>LNG</strong> bunker vessel <strong>K. Lotus</strong>, while two containers fell into the sea. From a supply chain perspective, this incident has prompted a reassessment of the operational risk profile of the contact points between container shipping and <strong>LNG</strong> supply.</p>

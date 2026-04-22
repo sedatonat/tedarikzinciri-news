@@ -10,8 +10,8 @@ newsSequence: 42230
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['AB', 'ABD', 'ticaret anlaşması', 'tarifeler', 'Trump 2.0', 'von der Leyen', 'ihracat', 'jeopolitik']"
+secondaryCategories: ['Lojistik']
+tags: ['AB', 'ABD', 'ticaret anlaşması', 'tarifeler', 'Trump 2.0', 'von der Leyen', 'ihracat', 'jeopolitik']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that a framework trade agreement announced on July 27 between the <strong>U.S.</strong> and <strong>EU</strong> — setting tariffs at 15% for most <strong>EU</strong> goods — has garnered minimal support from leaders of some of the 27 nations comprising the trading bloc. While <strong>European Commission</strong> President <strong>Ursula von der Leyen</strong> has praised the agreement as an important step toward economic stability, French Prime Minister <strong>François Bayrou</strong> has characterized the pact as a "dark day" for Europe. Spanish Prime Minister <strong>Pedro Sanchez</strong>, while supporting the agreement, has stated he is doing so "without enthusiasm." Swedish Trade Minister <strong>Benjamin Dousa</strong> has veiled his endorsement of the accord by characterizing it as the "least bad alternative." According to <strong>The New York Times</strong>, the <strong>EU</strong> has pledged to increase its investment in the <strong>U.S.</strong> by more than $600 billion as part of the agreement — and to purchase $750 billion worth of American energy over the next three years. The two sides have also agreed to reduce tariff rates to 0% on certain products, including aircraft parts and certain chemicals.</p>

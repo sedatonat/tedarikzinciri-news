@@ -10,8 +10,8 @@ newsSequence: 42800
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['SCOTUS', 'Trump', 'IEEPA', 'tarife', 'Bloomberg', 'Yüksek Mahkeme', 'ABD ticaret', 'Court of International Trade']"
+secondaryCategories: ['Lojistik']
+tags: ['SCOTUS', 'Trump', 'IEEPA', 'tarife', 'Bloomberg', 'Yüksek Mahkeme', 'ABD ticaret', 'Court of International Trade']
 ---
 
 <p style="text-align: justify"><strong>U.S. Supreme Court</strong>; on November 5, 2025, heard oral arguments over the legality of tariffs being implemented by President <strong>Donald Trump</strong> — in a consolidated case brought by small businesses and approximately one dozen <strong>Democratic</strong>-led states. The fundamental question before the Court is whether <strong>Trump</strong> has the authority to invoke <strong>IEEPA</strong> (<strong>International Emergency Economic Powers Act</strong>) to impose broad-based tariffs on the grounds of a "national emergency." From a supply-chain perspective, <strong>SCOTUS</strong>'s ruling will have profound implications for global trade routes, supplier selection, inventory policies, and pricing strategies. The <strong>U.S. Court of International Trade</strong> (<strong>CIT</strong>); in a prior decision, declared <strong>Trump</strong>'s <strong>IEEPA</strong>-based tariffs to be <strong>ultra vires</strong> — an interpretation partially affirmed by the <strong>Federal Circuit</strong>. <strong>SCOTUS</strong>'s potential invocation of the <strong>major questions doctrine</strong> could constrain executive power by requiring that <strong>IEEPA</strong> explicitly grants tariff authority, which it does not.</p>

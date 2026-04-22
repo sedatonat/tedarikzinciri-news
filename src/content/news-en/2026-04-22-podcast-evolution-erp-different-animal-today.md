@@ -10,8 +10,8 @@ newsSequence: 41660
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['ERP', 'podcast', 'Doss', 'MRP', 'bulut', 'SAP', 'Oracle', 'modernizasyon']"
+secondaryCategories: ['Lojistik']
+tags: ['ERP', 'podcast', 'Doss', 'MRP', 'bulut', 'SAP', 'Oracle', 'modernizasyon']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; <strong>Robert J. Bowman</strong> (<strong>Editor-in-Chief</strong>); "<strong>The Evolution of ERP: Is It a Different Animal Today?</strong>" podcast episode; three decades after its introduction; has the <strong>ERP</strong> beast finally been tamed? <strong>Enterprise Resource Planning</strong>, which emerged under this name in the 1990s as the successor to <strong>material requirements planning</strong> (<strong>MRP</strong>), offered businesses a compelling tool for managing inventory, accounting, finance, and sales. Yet for many, implementation proved to be a massive headache — requiring years and millions of dollars to complete. Is it easier now? How does modern-day <strong>ERP</strong> differ from those earlier incarnations? This episode tackles these and other questions. The episode is sponsored by <strong>Doss</strong>. The history of <strong>ERP</strong> spans: (1) 1960s, inventory control systems; (2) 1970s, <strong>MRP</strong> (<strong>Material Requirements Planning</strong>); (3) 1980s, <strong>MRP-II</strong> (<strong>Manufacturing Resource Planning</strong>); (4) 1990s, <strong>ERP</strong> takes the stage — <strong>SAP R/3</strong> (1992), <strong>Oracle</strong>, <strong>Baan</strong>, <strong>PeopleSoft</strong>, and <strong>JD Edwards</strong> as major early players; (5) 2000s, industry-specific <strong>ERP</strong> and web-based architecture; (6) 2010s, cloud <strong>ERP</strong> (<strong>NetSuite</strong>, <strong>Workday</strong>); (7) 2020s, <strong>AI</strong>, composable <strong>ERP</strong>, and industry cloud as major evolutionary stages.</p>

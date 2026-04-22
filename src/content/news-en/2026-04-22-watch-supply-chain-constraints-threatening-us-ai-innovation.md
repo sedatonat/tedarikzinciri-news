@@ -10,8 +10,8 @@ newsSequence: 41610
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['yapay zeka', 'yarı iletken', 'RSM', 'David Carter', 'CHIPS Act', 'hyperscaler', 'veri merkezi', 'TSMC']"
+secondaryCategories: ['Lojistik']
+tags: ['yapay zeka', 'yarı iletken', 'RSM', 'David Carter', 'CHIPS Act', 'hyperscaler', 'veri merkezi', 'TSMC']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; <strong>David Carter</strong> (<strong>Industrials Senior Analyst</strong> at <strong>RSM US</strong>) in an interview with <strong>Robert J. Bowman</strong> (<strong>SupplyChainBrain</strong>); analyst insight from <strong>David Carter</strong>, senior industrial analyst at <strong>RSM US</strong>, explains the major supply chain constraints stifling major U.S. data center efforts advancing innovation in artificial intelligence. Over the last several quarters, U.S. data center developers known as "hyperscalers" have begun citing in earnings calls problems acquiring sufficient microchips and land to drive continuing AI innovation efforts, says <strong>Carter</strong>. At the heart of the issue is the need for heavy capital investment in constructing chip manufacturing facilities in the U.S. The <strong>CHIPS and Science Act</strong>, passed in 2022 for this purpose, is a long-term process—it will take years before meaningful change is visible. "There's a really long, long runway to actually build this," <strong>Carter</strong> says. Meanwhile, data centers are finding their supply chains and supporting infrastructure increasingly inadequate for the task at hand. The most complex form of semiconductor manufacturing is power-hungry and land-hungry.</p>

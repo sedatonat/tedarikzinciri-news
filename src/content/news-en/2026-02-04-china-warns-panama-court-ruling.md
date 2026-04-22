@@ -10,8 +10,8 @@ newsSequence: 43414
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Çin', 'Panama', 'CK Hutchison', 'Panama Kanalı', 'liman jeopolitiği', 'Hong Kong', 'Trump', 'ABD-Çin ilişkileri']"
+secondaryCategories: ['Lojistik']
+tags: ['Çin', 'Panama', 'CK Hutchison', 'Panama Kanalı', 'liman jeopolitiği', 'Hong Kong', 'Trump', 'ABD-Çin ilişkileri']
 ---
 
 <p style="text-align: justify"><strong>China's</strong> government has characterized Panama's Supreme Court decision invalidating <strong>CK Hutchison Holdings Ltd.'s</strong> port operating contracts as <strong>"extremely absurd"</strong> and has warned the <strong>Central American</strong> nation that it will pay a <strong>"heavy price"</strong> if it does not change course. Beijing's office that oversees semi-autonomous governance over <strong>Hong Kong</strong> said in a commentary posted on its <strong>WeChat</strong> account on February 3rd that the ruling disregards facts and seriously damages the legitimate rights and interests of the Hong Kong-based company. This statement has reignited interstate tension in the global port ecosystem and once again highlighted the multi-stakeholder competition over strategic port portfolios surrounding the <strong>Panama Canal</strong>.</p>

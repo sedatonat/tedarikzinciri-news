@@ -10,8 +10,8 @@ newsSequence: 43604
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['UniUni', 'Joshua Haun', 'McKinsey', 'son mil', 'e-ticaret', 'güvenilirlik', 'SLA', 'tarife şeffaflığı']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['UniUni', 'Joshua Haun', 'McKinsey', 'son mil', 'e-ticaret', 'güvenilirlik', 'SLA', 'tarife şeffaflığı']
 ---
 
 <p style="text-align: justify">As consumer expectations rise and volatility persists, retail and <strong>e-commerce</strong> brands must rethink how they select last-mile partners, balancing speed, cost, data and reliability. Reliability has replaced speed as the primary metric. As <strong>e-commerce</strong>'s once-frenetic pandemic growth normalizes to pre-pandemic levels, the defining characteristics of good delivery have shifted. Recent <strong>McKinsey</strong> research shows that by 2024, speed has dropped to 5th place among shopper priorities—down from first place in 2022—falling behind cost, flexibility and reliability. From a supply chain perspective, <strong>UniUni</strong> operates a last-mile delivery network focused on <strong>Asian e-commerce</strong> (<strong>Shein</strong>, <strong>Temu</strong>, <strong>TikTok Shop</strong>) in the <strong>U.S.</strong> and <strong>Canada</strong> markets, competing against <strong>FedEx</strong>, <strong>UPS</strong>, <strong>USPS</strong>, <strong>OnTrac</strong> and <strong>LaserShip</strong>.</p>

@@ -10,8 +10,8 @@ newsSequence: 41310
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Trump', 'tarife', 'Mexico', 'Canada', 'ithalat', 'fiyat artışı', 'otomobil', 'USMCA']"
+secondaryCategories: ['Lojistik']
+tags: ['Trump', 'tarife', 'Mexico', 'Canada', 'ithalat', 'fiyat artışı', 'otomobil', 'USMCA']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; analyst view; with the implementation of punitive tariffs on U.S. imports from <strong>Mexico</strong> and <strong>Canada</strong> set to take effect on March 4 at 12:01am, threats of price increases loom for popular consumer products. Hours before the deadline, President <strong>Trump</strong> said on March 3 that neither country had any chance of striking a last-minute deal to avert the tariffs — according to <strong>The New York Times</strong>. "Everything is set," he said. "It takes effect tomorrow." According to <strong>BBC News</strong>, items most likely to be affected immediately include automobiles, fuel, lumber (and consequently new homes), avocados, and maple syrup. Additionally, <strong>Modelo</strong> beer — the top-selling beer in the U.S. — is among the main affected products.</p>

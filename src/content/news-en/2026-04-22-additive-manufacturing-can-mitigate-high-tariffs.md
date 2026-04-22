@@ -10,8 +10,8 @@ newsSequence: 41270
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['3D baskı', 'additive manufacturing', 'tarife', 'imalat', 'SCB Think Tank', 'yerelleştirme', 'Trump', 'inovasyon']"
+secondaryCategories: ['Lojistik']
+tags: ['3D baskı', 'additive manufacturing', 'tarife', 'imalat', 'SCB Think Tank', 'yerelleştirme', 'Trump', 'inovasyon']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that the <strong>SCB Think Tank</strong> analyst perspective views tariffs as originating in 1789—among the first acts of the newly formed U.S. <strong>Congress</strong>. More recently, countries have witnessed a resurgence of tariffs as part of their economic policy or as political pressure tactics. Tariffs can protect domestic industries, create and save jobs, and improve the trade balance—but they also drive higher raw material costs, create operational challenges, and result in smaller profit margins. Businesses face the choice of absorbing these costs or passing increased expenses to consumers, which can mean lost market share. To overcome rising prices stemming from American tariffs and supply chain disruptions, <strong>additive manufacturing</strong> (<strong>3D printing</strong>) has emerged as a primary strategic tool.</p>

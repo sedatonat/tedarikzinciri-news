@@ -10,8 +10,8 @@ newsSequence: 42130
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Risk Yönetimi']"
-tags: "['tarife', 'uyumluluk', 'gümrük', 'veri altyapısı', 'Karyl Fowler', 'ABD', 'Trump 2.0', 'imalat']"
+secondaryCategories: []
+tags: ['tarife', 'uyumluluk', 'gümrük', 'veri altyapısı', 'Karyl Fowler', 'ABD', 'Trump 2.0', 'imalat']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain Think Tank</strong> blog post by <strong>Karyl Fowler</strong> (<strong>SCB Contributor</strong>) argues that the trade landscape is shifting rapidly—confronting manufacturers with unprecedented challenges that go far beyond simply keeping pace with policy changes. While headlines focus on the speed and economic impact of tariff implementations, the real issue lurks beneath the surface: the crushing compliance burden accompanying each policy shift and the fragmented data infrastructure that makes meaningful response nearly impossible. When tariff policies change, most manufacturers don't lack the will to comply—they lack the infrastructure. Each tariff shift introduces new complexities. The core issue isn't moving faster—it's fragmentation. Without interoperable, shared digital records among trade partners, manufacturers find themselves struggling to piece together compliance puzzles from scattered and incompatible data sources. Industry voices frequently demand greater policy clarity—but the real need runs deeper. Even with crystal-clear policies, manufacturers flying blind actually lack high-fidelity data about their own supply chains.</p>

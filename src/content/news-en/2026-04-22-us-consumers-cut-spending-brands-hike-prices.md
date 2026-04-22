@@ -10,8 +10,8 @@ newsSequence: 41910
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['tüketici harcama', 'tarife', 'enflasyon', 'k-ecommerce', 'Federal Reserve', 'Amazon', 'Walmart', 'Michael Netto']"
+secondaryCategories: ['Lojistik']
+tags: ['tüketici harcama', 'tarife', 'enflasyon', 'k-ecommerce', 'Federal Reserve', 'Amazon', 'Walmart', 'Michael Netto']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that a new survey conducted by <strong>k-ecommerce</strong> of 1,000 U.S. shoppers shows that a significant portion of <strong>U.S.</strong> consumers are concerned about tariffs pushing prices higher — and in response are cutting their spending. The survey reveals that 84% of <strong>U.S.</strong> shoppers worry about tariffs driving up retail prices; 44% report reducing overall spending; and 36% say they are delaying non-essential purchases. This trend coincides with <strong>Federal Reserve</strong> data from June 4 showing that 75% of service firms are passing tariff costs on to consumers. Major retailers — including <strong>Amazon</strong>, <strong>Walmart</strong>, <strong>Macy's</strong>, and <strong>Best Buy</strong> — have already announced plans to raise consumer prices. However, the survey finds that only 14% of consumers feel brands are clearly explaining price changes — a communication gap that risks escalating into a broader trust problem. <strong>Michael Netto</strong>, general manager of <strong>k-ecommerce</strong>, notes that forward-thinking manufacturers are working on flexible surcharge models, transparent communication, and tiered pricing structures to preserve consumer loyalty.</p>

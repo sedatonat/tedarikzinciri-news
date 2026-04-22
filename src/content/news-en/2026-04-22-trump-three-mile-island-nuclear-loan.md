@@ -10,8 +10,8 @@ newsSequence: 42880
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Three Mile Island', 'nükleer enerji', 'Trump', 'Constellation Energy', 'Microsoft', 'AI veri merkezi', 'Pennsylvania', 'DOE']"
+secondaryCategories: ['Lojistik']
+tags: ['Three Mile Island', 'nükleer enerji', 'Trump', 'Constellation Energy', 'Microsoft', 'AI veri merkezi', 'Pennsylvania', 'DOE']
 ---
 
 <p style="text-align: justify"><strong>Trump</strong> administration is planning to provide a $1 billion loan to help bring part of the <strong>Pennsylvania</strong> nuclear facility at <strong>Three Mile Island</strong> back online. <strong>The New York Times</strong> reports that the credit will be given to <strong>Constellation Energy</strong> — a company working with <strong>Microsoft</strong> to restore and restart the <strong>Unit 1</strong> reactor at <strong>Three Mile Island</strong>. The project is expected to generate enough electricity to power 800,000 homes — and allow <strong>Microsoft</strong> to purchase a portion of the facility's output to power the company's artificial intelligence data centers. The <strong>Trump</strong> administration's loan covers more than half of the project's estimated $1.6 billion price tag — though past nuclear energy projects in the <strong>U.S.</strong> have frequently exceeded their original budgets. From a supply chain perspective, <strong>Constellation Energy Corporation</strong>, based in <strong>Baltimore, Maryland</strong>, became independent through a spinoff from <strong>Exelon</strong> in 2022 — making it the <strong>U.S.</strong>'s largest competitive nuclear operator. <strong>Constellation</strong> operates 21 nuclear reactors with a combined capacity of 22 GW.</p>

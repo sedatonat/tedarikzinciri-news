@@ -2,7 +2,7 @@
 title: "Five Ways to Mitigate Supply Chain Risks in Retail and Manufacturing"
 subtitle: "SCB Think Tank/iStock Thapana Onphalai: Five Ways Mitigate Supply Chain Risk Retail Manufacturing; Steve Durbin SCB Contributor; Cyberattack Pervasive Across Industry; 2024 Report 35.5% Data Breach Third-Party Compromise; UNFI United Natural Foods Inc Whole Foods Amazon 30000 Store Distributor 5 June 2025 Cyberattack; Sensata Technologies March Ransomware Auto Aerospace Sensor Manufacturer; Employee Social Security Financial Medical Data Exfiltration; Single Hacked Supplier Coordinated Attack Vector"
 date: "2026-04-22T23:35:00Z"
-category: "Risk Yönetimi"
+category: 'Tedarik Zinciri'
 image: "https://www.supplychainbrain.com/ext/resources/2023/09/07/CYBERSECURITY-CYBER-ATTACK-iStock-Thapana-Onphalai-1453891703.webp"
 imageAlt: "A pair of hands in business attire typing on a laptop surrounded by security icons"
 sourceUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/42120-five-ways-to-mitigate-supply-chain-risks-in-retail-and-manufacturing"
@@ -10,8 +10,8 @@ newsSequence: 42120
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['siber güvenlik', 'tedarik zinciri riski', 'UNFI', 'Sensata', 'Whole Foods', 'ransomware', 'Steve Durbin', 'üçüncü taraf']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['siber güvenlik', 'tedarik zinciri riski', 'UNFI', 'Sensata', 'Whole Foods', 'ransomware', 'Steve Durbin', 'üçüncü taraf']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain Think Tank</strong> blog post by <strong>Steve Durbin</strong> (<strong>SCB Contributor</strong>) highlights how recent cyberattacks on widely distributed networks are shaking industries that previously considered themselves immune to such threats. For both manufacturers and retailers, these incidents underscore the reality that the threat is pervasive across all industry categories. The technological revolution in supply chain management is opening new security vulnerabilities. According to a 2024 report, 35.5% of all data breaches are attributed to third-party threats—up from 29% a year earlier. <strong>United Natural Foods Inc.</strong> (<strong>UNFI</strong>), the primary distributor for <strong>Amazon</strong>-owned <strong>Whole Foods</strong>, was hit by a cyberattack that threw <strong>Whole Foods</strong>' operations into chaos. <strong>UNFI</strong> supplies over 30,000 stores and detected unauthorized activity on its computer network on June 5, 2025, subsequently taking certain systems offline. The attack severely hampered <strong>UNFI</strong>'s ability to ship and deliver, leaving <strong>Whole Foods</strong> with empty shelves. <strong>Sensata Technologies</strong>, a leading manufacturer of sensors and electrical components used by the automotive and aerospace industries, was hit by a ransomware attack in March that resulted in the exfiltration of employee personal information and caused disruptions to shipping, production, and other operations.</p>

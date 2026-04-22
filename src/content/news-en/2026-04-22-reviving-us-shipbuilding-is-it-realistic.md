@@ -10,8 +10,8 @@ newsSequence: 41510
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['gemi inşaatı', 'USTR', 'Trump', 'Çin', 'Helen Atkinson', 'Ingalls', 'Jones Act', 'denizcilik']"
+secondaryCategories: ['Lojistik']
+tags: ['gemi inşaatı', 'USTR', 'Trump', 'Çin', 'Helen Atkinson', 'Ingalls', 'Jones Act', 'denizcilik']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; <strong>Helen Atkinson</strong> (<strong>Managing Editor</strong>, <strong>SupplyChainBrain</strong>); analyst insight; America; was great at building commercial oceangoing ships. Can it be great again? The current administration appears willing to try to find out. President <strong>Biden</strong> first floated the idea of pushing back against <strong>China's</strong> dominance in shipbuilding. Now President <strong>Trump</strong> threatens to fine ships built in <strong>China</strong> up to 1.5 million dollars to enter U.S. ports. Additionally, in the first two years of a plan put forth by the Office of the <strong>U.S. Trade Representative</strong> (<strong>USTR</strong>), 1 percent of U.S. exports will be carried on U.S.-built ships &mdash; rising to 15 percent over 7 years. Pictured is the guided missile destroyer <strong>Ted Stevens</strong> (<strong>DDG 128</strong>) at <strong>Ingalls Shipbuilding</strong> in <strong>Pascagoula, Mississippi</strong>.</p>

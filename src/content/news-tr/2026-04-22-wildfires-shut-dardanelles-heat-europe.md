@@ -3,8 +3,7 @@ title: "Yangınlar Çanakkale Boğazını Kısa Süre Kapatmakta Avrupayı Sıca
 subtitle: "SCB/iStock Guven Ozdemir: Wildfires Çanakkale Boğaz Kısa Kapatma 11 Ağustos; Heat Blasts Europe Mediterranean Wind; Turkish Firefighters Aegean Coast Pine Forest 2900 Resident Evacuated; Anadolu Agency Reporting; Madrid London Greek Island Balkans Wildfire; Black Sea Central Asia Oil Gas Chokepoint; Vital Maritime Strait Bosphorus Twin; Suez Canal Bab el-Mandeb Strait Hormuz Comparable Risk; Climate Change Mediterranean Risk"
 date: '2026-04-22T23:45:00Z'
 category: Lojistik
-secondaryCategories:
-  - Risk Yönetimi
+secondaryCategories: []
 image: https://www.supplychainbrain.com/ext/resources/2025/08/12/DARDANELLES-STRAIT-iStock-Guven-Ozdemir-1480507345.webp
 imageAlt: Antik bir kale bir deniz uzantısı üzerinde yükselmekta
 sourceUrl: https://www.supplychainbrain.com/articles/42310-wildfires-briefly-shut-dardanelles-as-heat-blasts-europe

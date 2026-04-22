@@ -10,8 +10,8 @@ newsSequence: 43033
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Maersk', 'Kızıldeniz', 'Bab-el-Mandeb', 'Süveyş Kanalı', 'Maersk Sebarok', 'CMA CGM', 'Ocean Network Express', 'Husi saldırıları']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Maersk', 'Kızıldeniz', 'Bab-el-Mandeb', 'Süveyş Kanalı', 'Maersk Sebarok', 'CMA CGM', 'Ocean Network Express', 'Husi saldırıları']
 ---
 
 <p style="text-align: justify"><strong>Maersk</strong> has announced that it has completed its first transit through the <strong>Red Sea</strong> and <strong>Bab-el-Mandeb Strait</strong> since December 2023. The company is re-establishing maritime shipping operations in the region following two years of intensified attacks by <strong>Houthi</strong> militants against vessels. According to <strong>The Maritime Executive</strong>, which publishes coverage of the maritime industry, the <strong>Maersk Sebarok</strong> container vessel transited the <strong>Red Sea</strong> successfully on December 18-19, 2025, on its <strong>U.S. East Coast</strong> - <strong>India</strong> route. In its official statement, <strong>Maersk</strong> emphasized that the highest possible safety measures, described as <strong>"the highest possible safety measures,"</strong> were implemented during the transit. The statement also noted that customers with cargo on the vessel were informed in advance directly.</p>

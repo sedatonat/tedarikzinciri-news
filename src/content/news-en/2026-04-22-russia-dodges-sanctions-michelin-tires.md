@@ -10,8 +10,8 @@ newsSequence: 43060
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Russia', 'Michelin', 'yaptırım', 'Ukraine', 'ESCU', 'Guardian', 'diversion', 'aracı şirket']"
+secondaryCategories: ['Lojistik']
+tags: ['Russia', 'Michelin', 'yaptırım', 'Ukraine', 'ESCU', 'Guardian', 'diversion', 'aracı şirket']
 ---
 
 <p style="text-align: justify"><strong>Russia</strong> continues to import tires produced by <strong>French</strong> company <strong>Michelin</strong> despite sanctions on the sale of civilian and aviation tires to the country. <strong>Guardian</strong> reports that the trade is being conducted through intermediary companies, including one based in the <strong>U.K.</strong> <strong>Guardian</strong> reports that <strong>Michelin</strong> tire shipments valued at 28 million dollars were being acquired in 2023 as of September 2024 — despite the company halting all exports to <strong>Russia</strong> since March 2022 following the full-scale invasion of <strong>Ukraine</strong>. Now, analysis of records shows that significant quantities continue to pass through despite efforts being made to adapt systems to track the diversion of <strong>Michelin</strong> products. From a supply chain perspective, <strong>Michelin</strong>, originating from <strong>Clermont-Ferrand, France</strong>, and founded in 1889 by <strong>Édouard Michelin</strong> and <strong>André Michelin</strong>, is one of the world's largest tire manufacturers.</p>

@@ -10,8 +10,8 @@ newsSequence: 42950
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['EUDR', 'Nicole Rycroft', 'moda', 'ormansızlaşma', 'izlenebilirlik', 'AB', 'Canopy', 'sürdürülebilirlik']"
+secondaryCategories: ['Lojistik']
+tags: ['EUDR', 'Nicole Rycroft', 'moda', 'ormansızlaşma', 'izlenebilirlik', 'AB', 'Canopy', 'sürdürülebilirlik']
 ---
 
 <p style="text-align: justify"><strong>SCB Contributor</strong> <strong>Nicole Rycroft</strong> notes that progress on the EUDR (<strong>EU Deforestation Regulation</strong>) represents an important political signal of intent after months of uncertainty. However, pushing back the law's implementation by an additional year to December 2026 and exempting key commodities such as imported printed products risks weakening what needs to be a flagship regulation for forests, climate, and reduced supply chain risk. Exempting specific products like books and newspapers sets a concerning precedent for potential sector-by-sector carve-outs—continuing business uncertainty at a time when the <strong>EU</strong> needs consistent, economy-wide rules to keep forests standing and build supply chain resilience. From a supply chain perspective, <strong>EUDR</strong>, formalized as <strong>Regulation (EU) 2023/1115</strong>, mandates proof of deforestation-free status for entry into the <strong>EU</strong> market for beef, cocoa, coffee, palm oil, rubber, soya, and wood (and their derivative products).</p>

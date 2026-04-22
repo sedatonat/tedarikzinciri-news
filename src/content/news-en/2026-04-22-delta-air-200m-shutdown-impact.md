@@ -10,8 +10,8 @@ newsSequence: 42930
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Delta Air Lines', 'ABD hükümet kapanması', 'Ed Bastian', 'havayolu', 'Bloomberg', 'hava trafik kontrolü', 'Trump', 'yolcu talebi']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Delta Air Lines', 'ABD hükümet kapanması', 'Ed Bastian', 'havayolu', 'Bloomberg', 'hava trafik kontrolü', 'Trump', 'yolcu talebi']
 ---
 
 <p style="text-align: justify"><strong>Delta Air Lines Inc.</strong> says it is experiencing a $200 million profit impact in the fourth quarter of 2025 due to flight reductions during the U.S. government shutdown—though it emphasizes that passenger demand remains healthy heading into 2026. The Atlanta, Georgia-based carrier shared this figure during an investor conference on December 3. The Trump administration has implemented temporary flight disruptions across 40 major airports during the longest U.S. government shutdown—driven by shortages of air traffic controllers and security personnel. From a supply chain perspective, Delta Air Lines is one of the three largest U.S. carriers—alongside American Airlines and United Airlines—making it a leading player in the global airline market. Delta's 2024 annual revenue was approximately $61 billion. Atlanta Hartsfield-Jackson (ATL) is Delta's primary hub and the world's busiest passenger airport. Detroit (DTW), Minneapolis-St. Paul (MSP), Salt Lake City (SLC), JFK, LaGuardia, LAX, Boston Logan, and Seattle-Tacoma are other major Delta hubs and focus cities.</p>

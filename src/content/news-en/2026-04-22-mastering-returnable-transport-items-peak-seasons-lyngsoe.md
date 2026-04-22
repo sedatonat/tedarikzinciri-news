@@ -10,8 +10,8 @@ newsSequence: 43809
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Lyngsoe Systems', 'RTI', 'RFID', 'BLE', 'pik sezon', 'görünürlük', 'palet', 'konteyner']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Lyngsoe Systems', 'RTI', 'RFID', 'BLE', 'pik sezon', 'görünürlük', 'palet', 'konteyner']
 ---
 
 <p style="text-align: justify"><strong>Returnable Transport Items</strong> (<strong>RTI</strong>) losses of 10-15% and the absence of real-time visibility represent critical bottlenecks in peak-season supply chains. <strong>RFID</strong> and <strong>BLE</strong> tracking deliver end-to-end asset visibility, reduce costs, improve efficiency, and strengthen operational agility. What creates bottlenecks in peak-season supply chains? Increasingly, the answer is not labour or transport capacity—it is the lack of visibility and control over <strong>RTI</strong>s. Pallets, roll cages, totes, and reusable containers form the backbone of high-volume logistics, and when they go missing or fall out of balance, operations slow or halt entirely. From a supply chain perspective, <strong>RTI</strong> represents critical infrastructure in <strong>FMCG</strong>, <strong>retail</strong>, <strong>postal &amp; parcel</strong>, <strong>automotive parts</strong>, and <strong>healthcare</strong> sectors. Pool pallet providers such as <strong>EUR-pallet</strong> (<strong>800x1200mm</strong>), <strong>UK pallet</strong> (<strong>1000x1200mm</strong>), <strong>CHEP</strong>, and <strong>LPR</strong> (<strong>La Palette Rouge</strong>) operate hundreds of millions of pallets at global scale.</p>

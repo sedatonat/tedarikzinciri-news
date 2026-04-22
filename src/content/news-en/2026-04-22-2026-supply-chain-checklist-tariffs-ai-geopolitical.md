@@ -10,8 +10,8 @@ newsSequence: 43660
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['2026 kontrol listesi', 'tarifeler', 'yapay zeka', 'jeopolitik', 'esneklik', 'çeviklik', 'siber risk', 'iklim']"
+secondaryCategories: ['Lojistik']
+tags: ['2026 kontrol listesi', 'tarifeler', 'yapay zeka', 'jeopolitik', 'esneklik', 'çeviklik', 'siber risk', 'iklim']
 ---
 
 <p style="text-align: justify">The global supply chain is entering a new era—one defined by continuous disruption. From shifting tariffs and geopolitical conflict to regulatory volatility, cyber risks and climate shocks, volatility is no longer the exception; it is the rule. Legacy systems and disconnected tools cannot keep pace, leaving you vulnerable to costly errors, delayed responses and missed opportunities. From a supply chain perspective, the concept of <strong>polycrisis</strong> is defined by the <strong>WEF</strong> (<strong>World Economic Forum</strong>) <strong>Global Risks Report 2026</strong> and explains how multiple crisis streams are occurring simultaneously. The <strong>Trump 2.0</strong> tariff regime, <strong>Section 301</strong> China tariffs, <strong>Section 232</strong> national security tariffs, <strong>reciprocal tariffs</strong> under the <strong>IEEPA</strong> (<strong>International Emergency Economic Powers Act</strong>) are becoming the dominant agenda item for supply chain managers in 2026.</p>

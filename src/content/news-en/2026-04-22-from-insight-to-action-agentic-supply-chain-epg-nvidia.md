@@ -10,8 +10,8 @@ newsSequence: 43810
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['EPG', 'NVIDIA', 'ajansal yapay zeka', 'otonom tedarik zinciri', 'webinar', 'görünürlük', 'esneklik', 'lojistik']"
+secondaryCategories: ['Lojistik']
+tags: ['EPG', 'NVIDIA', 'ajansal yapay zeka', 'otonom tedarik zinciri', 'webinar', 'görünürlük', 'esneklik', 'lojistik']
 ---
 
 <p style="text-align: justify">Supply chain execution is undergoing fundamental transformation. As complexity accelerates and disruptions become the norm, reactive rule-based systems can no longer keep pace. In this <strong>SupplyChainBrain</strong> webinar, leaders from <strong>EPG</strong> and <strong>NVIDIA</strong> examine how agentic artificial intelligence is transforming logistics from insight-driven visibility to autonomous, intelligent execution. From a supply chain perspective, <strong>EPG</strong> (<strong>Ehrhardt Partner Group</strong>) competes in the European <strong>WMS</strong> market against <strong>SAP EWM</strong>, <strong>Manhattan</strong>, <strong>Blue Yonder</strong>, and <strong>Körber</strong> with its <strong>LFS WMS</strong>, <strong>Greenstone WCS</strong> (<strong>Warehouse Control System</strong>), and <strong>Lydia Voice</strong> voice-based picking solutions. <strong>NVIDIA</strong>'s <strong>Omniverse</strong>, <strong>Isaac Sim</strong>, <strong>cuOpt</strong>, and <strong>Metropolis</strong> platforms form the infrastructure layer for supply chain and logistics <strong>AI</strong>.</p>

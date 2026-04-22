@@ -10,8 +10,8 @@ newsSequence: 42150
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Federal Ammunition', 'depo modernizasyonu', 'WMS', 'ERP', 'Czechoslovak Group', 'Remington', 'Speer', 'ammunition']"
+secondaryCategories: ['Lojistik']
+tags: ['Federal Ammunition', 'depo modernizasyonu', 'WMS', 'ERP', 'Czechoslovak Group', 'Remington', 'Speer', 'ammunition']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports that <strong>Federal Ammunition</strong>, a manufacturer of hunting rifle cartridges, shotshells, centerfire and rimfire ammunition and components, is based in <strong>Anoka, Minnesota</strong>, with more than a century of history and currently employs 1,500 workers. In November 2024, the company was sold to <strong>Czechoslovak Group</strong>, based in <strong>Prague</strong>, which also acquired ammunition brands <strong>Remington</strong>, <strong>Hevi Shot</strong>, <strong>Speer</strong>, and <strong>CCI</strong>. <strong>Federal Ammunition</strong> takes pride in its expertise in ammunition production and manufacturing knowledge. However, when it comes to order fulfillment and inventory management, the company has found that manual warehouse processes are preventing it from ensuring timely and accurate shipments. The company faces several operational challenges: (1) the <strong>ERP</strong> version it uses is no longer supported, creating troubleshooting issues and increasing operational risk; (2) the <strong>WMS</strong> is used only for outbound shipping tasks such as carrier selection, load building, label printing, and shipping documentation, while most major warehouse functions remain untouched; (3) there are significant errors in the <strong>ERP</strong> and <strong>WMS</strong> interfaces, with much of the warehouse still operating on a paper-based system. Manual order picking is slowing operations and leaving room for errors.</p>

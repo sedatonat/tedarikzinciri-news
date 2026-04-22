@@ -10,8 +10,8 @@ newsSequence: 42790
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Tesla', 'Çin', 'Elon Musk', 'Bloomberg', 'CPCA', 'Shanghai', 'BYD', 'EV']"
+secondaryCategories: ['Lojistik']
+tags: ['Tesla', 'Çin', 'Elon Musk', 'Bloomberg', 'CPCA', 'Shanghai', 'BYD', 'EV']
 ---
 
 <p style="text-align: justify"><strong>Tesla</strong>'s <strong>China</strong> factory shipments continued to decline in October — adding weight to expectations that <strong>Elon Musk</strong>-led automaker faces a challenging final quarter for global sales. The company shipped 61,497 vehicles from its <strong>Shanghai</strong> facility in October — a decline of approximately 10% year-over-year according to preliminary data from <strong>China</strong>'s <strong>Passenger Car Association</strong> (<strong>CPCA</strong>). Wholesale shipments from the facility have fallen in eight of the ten months of this year. <strong>Tesla</strong>'s momentum appears to be weakening globally following a record vehicle delivery quarter. The <strong>China</strong> figures follow a period in which declines have been reported across various <strong>European</strong> countries. From a supply chain perspective, <strong>Tesla Inc.</strong> — based in <strong>Austin Texas</strong> (formerly <strong>Palo Alto California</strong>) — was founded in 2003 by <strong>Martin Eberhard</strong> and <strong>Marc Tarpenning</strong>, with <strong>Elon Musk</strong> investing in 2004 and subsequently becoming <strong>CEO</strong>. <strong>Gigafactory Shanghai</strong> opened in 2019 and is <strong>Tesla</strong>'s highest-volume production facility globally, with annual capacity of 950,000+ vehicles. The photograph by <strong>David Paul Morris</strong> was taken at a <strong>Tesla</strong> store in <strong>Colma California</strong> for <strong>Bloomberg</strong>.</p>

@@ -10,8 +10,8 @@ newsSequence: 42740
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['LogiPharma', 'ilaç tedarik zinciri', 'biyoteknoloji', 'medtech', 'yapay zeka', 'konferans', 'dijital dönüşüm', 'yaşam bilimleri']"
+secondaryCategories: ['Lojistik']
+tags: ['LogiPharma', 'ilaç tedarik zinciri', 'biyoteknoloji', 'medtech', 'yapay zeka', 'konferans', 'dijital dönüşüm', 'yaşam bilimleri']
 ---
 
 <p style="text-align: justify"><strong>LogiPharma 2026</strong> stands as the leading global life sciences supply chain event, bringing together 2,500+ senior leaders from pharma, biotech and medtech—shaping intelligent, resilient and sustainable networks that power the future of global health. This year's theme, "<strong>Intelligent Futures. Resilient Networks. Global Health Impact.</strong>", reflects a bold transition from digital transformation to digital autonomy and from resilience to global responsibility. With 150+ expert speakers, the 2026 agenda explores how <strong>AI</strong>, data and leadership are redefining end-to-end value chains across science, manufacturing, logistics and patient care. From a supply chain perspective, <strong>LogiPharma</strong> is an annual event organized by <strong>WBR</strong> (<strong>Worldwide Business Research</strong>)—held across major locations in <strong>Europe</strong> (<strong>Lyon France</strong>, <strong>Montreux Switzerland</strong>), the <strong>U.S.</strong> (<strong>Boston</strong> and <strong>San Diego</strong>), and <strong>Asia</strong> (<strong>Singapore</strong>). <strong>Worldwide Business Research</strong>, headquartered in <strong>London U.K.</strong>, organizes sector-leading events globally including <strong>LogiCon</strong>, <strong>Future Fashion</strong>, <strong>RetailWeek</strong> and <strong>FoodLogistics</strong>.</p>

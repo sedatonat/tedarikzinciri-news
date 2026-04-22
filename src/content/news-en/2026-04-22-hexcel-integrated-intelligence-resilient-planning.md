@@ -10,8 +10,8 @@ newsSequence: 42380
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Teknoloji']"
-tags: "['Hexcel', 'Dassault Systemes', 'DELMIA', 'entegre planlama', 'sanal ikiz', 'karbon kompozit', 'havacılık', 'silosuz']"
+secondaryCategories: ['Teknoloji']
+tags: ['Hexcel', 'Dassault Systemes', 'DELMIA', 'entegre planlama', 'sanal ikiz', 'karbon kompozit', 'havacılık', 'silosuz']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain Webinar</strong> addresses the relentless complexity of supply chain management. Managing with disconnected tools is like flying a plane with three separate cockpits. <strong>Hexcel</strong> is moving to a single integrated process — allowing the entire network to function as one entity. In this webinar, <strong>Hexcel</strong>'s <strong>Supply Chain Manager</strong> <strong>Dan Carrick</strong>, together with <strong>Dassault Systèmes</strong>, shares how leading organizations are transforming supply chain planning by integrating <strong>AI</strong>, virtual twins and real-time execution systems. Attendees will hear how <strong>Hexcel</strong> is unifying fragmented tools, synchronizing multi-site operations, and accelerating decision-making across a complex global network. The session provides practical insights into how to connect internal silos across any industry, increase resilience, foster collaboration, and achieve measurable improvements in service and cost performance — featuring speakers <strong>Daniel Carrick</strong> (<strong>Hexcel Supply Chain Manager</strong>), <strong>Adrian Wood</strong> (<strong>DELMIA Dassault Systèmes Director Strategy &amp; Marketing</strong>), and <strong>Sarah Barnes-Humphrey</strong> (<strong>Let's Talk Supply Chain Founder</strong>).</p>

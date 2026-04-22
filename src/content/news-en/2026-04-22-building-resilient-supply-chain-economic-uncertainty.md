@@ -10,8 +10,8 @@ newsSequence: 41440
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['direnç', 'WMS', 'envanter', 'belirsizlik', 'Amy Dean', 'AI', 'tahminsel analiz', 'esneklik']"
+secondaryCategories: ['Lojistik']
+tags: ['direnç', 'WMS', 'envanter', 'belirsizlik', 'Amy Dean', 'AI', 'tahminsel analiz', 'esneklik']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; <strong>Amy Dean</strong> (<strong>SCB Contributor</strong>); analyst insight; as supply chains in 2025 focus on boosting continuity and efficiency; they are looking to warehouse management systems (<strong>WMS</strong>) and other cutting-edge applications to cope with demand fluctuations; potential disruptions and rising costs. <strong>WMS</strong> data can help companies diversify; predict and enable flexibility within the supply chain. Organizations can better anticipate shifts in consumer spending — and proactively adjust inventory strategies to navigate inflationary pressures and financial downturns. Beyond this; advanced analytics; real-time visibility and <strong>AI</strong>-enabled predictive capabilities are key supply chain resilience tools.</p>

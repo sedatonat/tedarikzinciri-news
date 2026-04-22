@@ -10,8 +10,8 @@ newsSequence: 41210
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['CSCO', 'risk yönetimi', 'tarife', 'Gartner', 'resilience', 'SCB Think Tank', 'belirsizlik', 'ticaret']"
+secondaryCategories: ['Lojistik']
+tags: ['CSCO', 'risk yönetimi', 'tarife', 'Gartner', 'resilience', 'SCB Think Tank', 'belirsizlik', 'ticaret']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; <strong>SCB Think Tank</strong>; analyst insight; chief supply chain officers (<strong>CSCOs</strong>); are becoming accustomed to uncertainty — and 2025 is expected to be no different — especially as companies brace for tariff unpredictability and potential market fluctuations. In this climate; <strong>CSCOs</strong> must find effective ways to enhance organizational responsiveness and, where possible, gain competitive advantage in the shifting trade environment. A strong risk management strategy is critical to have in place. Yet confusion over the meaning of "resilience" is creating a challenge for many organizations. In a recent <strong>Gartner</strong> survey; 82% of supply chain leaders indicated that resources allocated for proactive risk mitigation — including resilience — are being directed to the wrong risks. This misallocation is associated with an 18% decline in profitability according to survey respondents.</p>

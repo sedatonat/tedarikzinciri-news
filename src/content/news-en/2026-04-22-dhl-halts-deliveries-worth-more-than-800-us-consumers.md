@@ -10,8 +10,8 @@ newsSequence: 41580
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['DHL', 'gümrük', 'tarife', 'de minimis', 'Trump', '800 dolar', 'e-ticaret', 'BBC']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['DHL', 'gümrük', 'tarife', 'de minimis', 'Trump', '800 dolar', 'e-ticaret', 'BBC']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; <strong>BBC News</strong> report; analyst insight; <strong>DHL Express</strong> is suspending deliveries worth more than $800 to the U.S. due to a "significant increase" in customs clearance stemming from <strong>Donald Trump</strong>'s new tariff regime. <strong>BBC News</strong> reports that previously packages worth up to $2,500 could enter the U.S. with minimal paperwork — but the threshold is being lowered to $800. The German delivery giant said it will temporarily halt shipments to American consumers from companies in all countries starting April 21 "until further notice." Business-to-business shipments will continue, "though they may also experience delays," the company said. <strong>DHL</strong> said the changes in customs requirements are causing "an increase in formal customs clearances that we handle around the clock." The company said it will continue to deliver packages worth less than $800 with minimal checks thanks to the <strong>de minimis</strong> rule. However, <strong>Shein</strong> and <strong>Temu</strong> are warning of approaching "price adjustments" for the U.S. market.</p>

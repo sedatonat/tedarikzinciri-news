@@ -10,8 +10,8 @@ newsSequence: 43020
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['China', 'Panama Canal', 'Cosco', 'BlackRock', 'MSC', 'CK Hutchison', 'Trump', 'ulusal güvenlik']"
+secondaryCategories: ['Lojistik']
+tags: ['China', 'Panama Canal', 'Cosco', 'BlackRock', 'MSC', 'CK Hutchison', 'Trump', 'ulusal güvenlik']
 ---
 
 <p style="text-align: justify"><strong>China</strong> is reported to be pressing for state-owned ocean carrier <strong>Cosco</strong> to take a controlling stake in a proposed $22.8 billion sale encompassing two controversial ports at the <strong>Panama Canal</strong>. Following pressure from President <strong>Donald Trump</strong> on <strong>Hong Kong</strong>-based operator <strong>CK Hutchison</strong> to transfer ownership of shipping centers, U.S. investment firm <strong>BlackRock</strong> and Swiss container shipping operator <strong>MSC</strong> initially reached a deal in March to acquire the two ports flanking the <strong>Panama Canal</strong>'s entrances. According to <strong>The Wall Street Journal</strong>, <strong>China</strong> is threatening to block the deal unless <strong>Cosco</strong> is granted a controlling stake—escalating from its previous demand for an equal share. From a supply chain perspective, the <strong>Panama Canal</strong> carries 5% of global trade and 40% of container traffic to and from the U.S.—serving as the vital shortcut between the <strong>Atlantic</strong> and <strong>Pacific</strong>.</p>

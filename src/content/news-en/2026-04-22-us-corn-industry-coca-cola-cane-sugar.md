@@ -10,8 +10,8 @@ newsSequence: 42170
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Coca-Cola', 'mısır', 'HFCS', 'şeker kamışı', 'ABD tarım', 'Trump 2.0', 'RFK Jr', 'gıda endüstrisi']"
+secondaryCategories: ['Lojistik']
+tags: ['Coca-Cola', 'mısır', 'HFCS', 'şeker kamışı', 'ABD tarım', 'Trump 2.0', 'RFK Jr', 'gıda endüstrisi']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; <strong>U.S.</strong> agricultural industry; <strong>Coca-Cola</strong>'s rumored transition from high-fructose corn syrup (<strong>HFCS</strong>; <strong>High-Fructose Corn Syrup</strong>) to real cane sugar for beverages sold in the <strong>U.S.</strong>; is warning could jeopardize the nation's corn farmers. In a statement dated July 16; <strong>John Bode</strong>; President of the <strong>Corn Refiners Association</strong>; took a critical approach to <strong>Coca-Cola</strong>'s potential switch to cane sugar — claiming it "doesn't make sense." "Replacing high-fructose corn syrup with cane sugar would cause thousands of American food manufacturing jobs to be lost; reduce farm income and increase foreign sugar imports with no nutritional benefit" <strong>Bode</strong> said. The reaction came in response to a post shared by President <strong>Donald Trump</strong> on July 16 to the <strong>Truth Social</strong> platform — saying he was in talks with <strong>Coca-Cola</strong> about switching to cane sugar — and stating "they have agreed to do it." <strong>Coca-Cola</strong>; initially said it appreciated the president's enthusiasm — then in a follow-up statement on July 17 — defended its use of <strong>HFCS</strong>.</p>

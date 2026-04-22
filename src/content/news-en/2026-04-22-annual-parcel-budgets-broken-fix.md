@@ -10,8 +10,8 @@ newsSequence: 43901
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['paket lojistiği', 'Zero Down', 'Brad McBride', 'UPS', 'FedEx', 'GRI', 'taşıyıcı müzakeresi', 'gelir sızıntısı']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['paket lojistiği', 'Zero Down', 'Brad McBride', 'UPS', 'FedEx', 'GRI', 'taşıyıcı müzakeresi', 'gelir sızıntısı']
 ---
 
 <p style="text-align: justify"><strong>Brad McBride</strong>, CEO of <strong>Zero Down</strong>, says that companies basing their shipping budgets entirely on what they did in the previous year is a <strong>"recipe for disaster."</strong> <strong>McBride</strong> argues that package rates set against the prior year are <strong>"totally off-base, and not even close to what the real budget should be."</strong> The reason: parcel carriers no longer limit themselves to a single annual <strong>general rate increase (GRI)</strong>, as they did for many years when <strong>UPS</strong> and <strong>FedEx</strong> were typically the only carrier options. Now there can be seven or eight rate increases in a year. From a supply chain perspective, the <strong>parcel</strong> market operates with different dynamics than the <strong>less-than-truckload (LTL)</strong> and <strong>full truckload (FTL)</strong> segments, and technical details such as <strong>zone skipping</strong>, <strong>dim weight</strong> (<strong>dimensional weight</strong>), and <strong>accessorial</strong> charges can account for 30-40% of total transportation costs.</p>

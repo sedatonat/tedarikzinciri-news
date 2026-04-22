@@ -10,8 +10,8 @@ newsSequence: 42820
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['Çin', 'fentanil', 'ihracat kontrolü', 'Trump', 'CDC', 'opioid', 'ABD-Çin ticaret', 'Ministry of Commerce']"
+secondaryCategories: ['Lojistik']
+tags: ['Çin', 'fentanil', 'ihracat kontrolü', 'Trump', 'CDC', 'opioid', 'ABD-Çin ticaret', 'Ministry of Commerce']
 ---
 
 <p style="text-align: justify"><strong>China</strong> is tightening export controls on fentanyl precursor chemicals being shipped to <strong>North America</strong> &mdash; as <strong>China</strong> and the <strong>U.S.</strong> continue to make progress toward ending months of trade turbulence between the two nations. According to <strong>The New York Times</strong>, <strong>China</strong>&rsquo;s Ministry of Commerce is requiring manufacturers to obtain a license to export 13 separate chemicals to the <strong>U.S.</strong>, <strong>Mexico</strong>, and <strong>Canada</strong>. Among these chemicals are several precursors used to synthesize fentanyl, the opioid that has triggered a sharp rise in overdose deaths across the <strong>U.S.</strong> for years. The <strong>Centers for Disease Control and Prevention</strong> (<strong>CDC</strong>) estimates fentanyl killed more than 48,000 people in 2024 &mdash; compared to more than 76,000 in the prior year. From a supply chain perspective, <strong>fentanyl</strong>, as a synthetic opioid, is 50-100 times more potent than morphine and 50 times more potent than heroin &mdash; making it the primary driver of the deadliest drug crisis in the past decade globally.</p>

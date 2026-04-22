@@ -10,8 +10,8 @@ newsSequence: 42460
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['DP World', 'Montreal Limanı', 'Contrecoeur', 'konteyner terminali', 'Kanada', 'liman altyapısı', 'St. Lawrence', 'Caisse de Depot']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['DP World', 'Montreal Limanı', 'Contrecoeur', 'konteyner terminali', 'Kanada', 'liman altyapısı', 'St. Lawrence', 'Caisse de Depot']
 ---
 
 <p style="text-align: justify"><strong>Logistics</strong> giant <strong>DP World</strong> has secured a contract to operate a new terminal near <strong>Montreal</strong> &mdash; a project intended to increase the port region's container-handling capacity by more than 50%. The <strong>Montreal Port Authority</strong> (<strong>MPA</strong>) and <strong>DP World</strong>'s <strong>Canada</strong> unit have signed a development agreement for the new <strong>Contrecoeur</strong> terminal &mdash; according to an announcement on September 8 &mdash; confirming earlier reporting by <strong>Bloomberg News</strong>. <strong>DP World</strong> is one of the world's largest container port operators and already operates five other port facilities in the country. <strong>DP World Canada</strong> is 45% owned by <strong>Caisse de Depot et Placement du Quebec</strong>. The new terminal is located on the <strong>St. Lawrence</strong> River &mdash; in the northeast of <strong>Montreal</strong>, Canada's second-largest urban area. In-water works could begin as early as this month, pending final approval from <strong>Canada</strong>'s fisheries department. The project is expected to cost approximately 1.6 billion <strong>Canadian Dollars</strong> (1.2 billion <strong>U.S. Dollars</strong>).</p>

@@ -19,7 +19,7 @@ tags:
 - Nate Evans
 - Sankara Narayanan
 - imalat
-- 2026
+- "2026"
 - yapay zeka
 ---
 <p style="text-align: justify">Tarih: 22 Nisan 2026; Saat: 13:00 ET; Canlı Web Semineri: 1 saat. Bu web semineri; <strong>2026 State of Manufacturing &amp; Supply Chain</strong> raporunun yüksek seviyeli bir incelemesini sunmakta; 300+ endüstri liderinden gelmekte olan içgörüleri net; eyleme dönüştürülebilir temalara damıtmakta. <strong>AI</strong>&rsquo;ın imalat operasyonlarına nasıl temel hale gelmekte olduğu; dijital platformların opsiyonel araçlardan zorunlu altyapıya nasıl kaymakta olduğu ve önde gelmekte olan organizasyonların sourcing karmaşıklığı; kalite talepleri ve dış volatiliteyi ele almakta için tedarik zincirlerini nasıl yeniden tasarlamakta olduğu incelenmekte. Tedarik zinciri perspektifinden bakıldığında <strong>Fictiv</strong>; <strong>cloud manufacturing</strong> platformu olarak <strong>CNC machining</strong>; <strong>3D printing</strong>; <strong>injection molding</strong>; <strong>urethane casting</strong> ile <strong>sheet metal</strong> üretim hizmetlerini global tedarikçi ağı üzerinden sunmakta. <strong>MISUMI</strong>; Japonya kökenli; <strong>industrial components</strong> ile <strong>automation parts</strong> sağlayıcısı olarak; 2025&rsquo;te <strong>Fictiv</strong>&rsquo;i 350M$&rsquo;a satın almakta.</p>

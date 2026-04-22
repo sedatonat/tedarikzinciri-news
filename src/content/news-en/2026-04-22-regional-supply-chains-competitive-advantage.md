@@ -10,8 +10,8 @@ newsSequence: 43704
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['bölgesel tedarik zinciri', 'nearshoring', 'regionalization', 'pandemi', 'jeopolitik', 'risk yönetimi', 'USMCA', 'diversifikasyon']"
+secondaryCategories: ['Lojistik']
+tags: ['bölgesel tedarik zinciri', 'nearshoring', 'regionalization', 'pandemi', 'jeopolitik', 'risk yönetimi', 'USMCA', 'diversifikasyon']
 ---
 
 <p style="text-align: justify">In recent years, companies worldwide have begun to rethink the structure of their supply chains, following a shift toward regional production and sourcing that can be traced back to the early days of the pandemic. In many respects, the pandemic represents a critical turning point in how companies view their supply chain architecture. When manufacturing in <strong>China</strong> was shuttered at the outset of the crisis, it exposed the fragile nature of sourcing and purchasing strategies that relied on a single country. While many businesses had long understood concentration risk in theory, its financial and operational consequences became starkly apparent. From a supply chain perspective, concrete evidence of the <strong>regionalization</strong> trend includes <strong>nearshoring</strong> flows in the <strong>USMCA</strong> region, <strong>onshoring</strong> in the <strong>EU</strong>, the <strong>China+1</strong> strategy in <strong>ASEAN</strong>, and <strong>India</strong>'s <strong>PLI</strong> (<strong>Production Linked Incentive</strong>) programs.</p>

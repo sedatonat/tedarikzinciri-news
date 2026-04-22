@@ -10,8 +10,8 @@ newsSequence: 41260
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['yumurta', 'Türkiye', 'HPAI', 'ithalat', 'gıda güvenliği', 'USDA', 'CNN', 'Cal-Maine']"
+secondaryCategories: ['Lojistik']
+tags: ['yumurta', 'Türkiye', 'HPAI', 'ithalat', 'gıda güvenliği', 'USDA', 'CNN', 'Cal-Maine']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; analyst insight; as avian flu continues to spread through American chicken farms; the US is planning to import 420 million eggs from <strong>Turkey</strong> to fill supply gaps. According to <strong>CNN</strong> reports; the US expects to receive approximately 240 million eggs from <strong>Turkey</strong> by July — with the remainder due to arrive by year-end — totaling 37 million dollars in value. This marks a substantial increase from 2024; when <strong>Turkey</strong> — the world's fifth-largest egg exporter — exported 71 million eggs to the US. <strong>Turkey</strong> is the only country from which the US imports this refrigerated staple — while according to the <strong>American Egg Board</strong>; the US produces more than 7.5 billion eggs annually. The US <strong>Bureau of Labor Statistics</strong> (<strong>BLS</strong>) reported that the average retail price of a dozen eggs reached a record 8.05 dollars in February 2025.</p>

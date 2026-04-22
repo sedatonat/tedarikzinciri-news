@@ -10,8 +10,8 @@ newsSequence: 43091
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Great Lakes', 'USCG', 'CCG', 'buzkıran', 'demir cevheri', 'tahıl taşımacılığı', 'LCA', 'AccuWeather']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Great Lakes', 'USCG', 'CCG', 'buzkıran', 'demir cevheri', 'tahıl taşımacılığı', 'LCA', 'AccuWeather']
 ---
 
 <p style="text-align: justify"><strong>Great Lakes</strong> is experiencing an early winter settlement, slowing vessel movements, compressing sailing schedules, and triggering the familiar winter scramble to keep cargo in motion before the waterways freeze. Between late November and mid-December, below-average temperatures are rapidly forming and spreading ice across shallow bays, rivers, and critical navigation channels. According to current data provided by <strong>AccuWeather</strong> meteorologist <strong>Brandon Buckingham</strong>, ice coverage across the <strong>Great Lakes</strong> has reached approximately 15 percent, exceeding the seasonal average of 10 percent for this time of year. Buckingham stated, "The lakes are ahead of pace currently in terms of ice coverage," and emphasized that below-average temperatures persisting into February could drive total ice coverage to approximately 50 percent, roughly 10 percentage points above the average of 40 percent.</p>

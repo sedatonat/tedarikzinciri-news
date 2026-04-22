@@ -10,8 +10,8 @@ newsSequence: 42080
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Risk Yönetimi']"
-tags: "['jeopolitik risk', 'veri kalitesi', 'Bart De Muynck', 'Seagull Software', 'tarife', 'görünürlük', 'Trump 2.0', 'analitik']"
+secondaryCategories: []
+tags: ['jeopolitik risk', 'veri kalitesi', 'Bart De Muynck', 'Seagull Software', 'tarife', 'görünürlük', 'Trump 2.0', 'analitik']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> video interview report; industry expert and adviser <strong>Bart De Muynck</strong> details findings from a new survey on supply chain resilience during periods of uncertainty conducted by <strong>SupplyChainBrain</strong> in partnership with <strong>Seagull Software</strong>. The survey asks supply chain managers about current geopolitical and socioeconomic disruptions. The aim is to assess the impact of tariffs—as well as to evaluate how organizations are using data to ensure better visibility of products across their supply chains, <strong>De Muynck</strong> says. Data availability and quality are major concerns. Obtaining the right intelligence at the right time is critical for preventing disruptions and forecasting demand trends, <strong>De Muynck</strong> states. "If I'm placing such a big bet on data, how good is the data? How much data do I have? Is this high-quality data?" he asks. Today's supply chains face a level of risk comparable to the COVID-19 pandemic from five years ago. But even before this, companies faced increasing difficulty with high-volume data and determining what deserves focus.</p>

@@ -10,8 +10,8 @@ newsSequence: 43106
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Teknoloji']"
-tags: "['TPRM', 'üçüncü taraf riski', 'ESG', 'yapay zeka yönetişimi', 'siber güvenlik', 'jeopolitik risk', 'Nth-party', 'governance']"
+secondaryCategories: ['Teknoloji']
+tags: ['TPRM', 'üçüncü taraf riski', 'ESG', 'yapay zeka yönetişimi', 'siber güvenlik', 'jeopolitik risk', 'Nth-party', 'governance']
 ---
 
 <p style="text-align: justify">Sector analysis reveals three fundamental predictions for supply chain security and <strong>third-party risk</strong> in 2026. <strong>Supply chains</strong> are evolving faster than the systems being put in place to protect them; as organizations move toward 2026, they face a new spectrum of risks. This spectrum encompasses the discovery of risks not yet visible, rising expectations for accountability at senior management levels, and the increasingly indispensable role of human judgment in steering <strong>artificial intelligence (AI)</strong>-powered risk management. In this context, 2026 is viewed as the threshold of a transformation toward intelligent and human-centered automation.</p>

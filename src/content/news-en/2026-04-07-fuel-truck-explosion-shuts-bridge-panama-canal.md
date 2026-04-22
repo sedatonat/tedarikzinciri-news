@@ -10,8 +10,8 @@ newsSequence: 43805
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Panama Kanalı', 'Bridge of the Americas', 'yakıt tankeri patlaması', 'Jose Raul Mulino', 'altyapı', 'karayolu lojistiği', 'köprü hasarı', 'AP']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Panama Kanalı', 'Bridge of the Americas', 'yakıt tankeri patlaması', 'Jose Raul Mulino', 'altyapı', 'karayolu lojistiği', 'köprü hasarı', 'AP']
 ---
 
 <p style="text-align: justify">A fuel tank truck exploded beneath a bridge spanning the <strong>Panama Canal</strong>, resulting in one fatality and prompting authorities to close the bridge as investigations proceed. From a supply chain perspective, the <strong>Bridge of the Americas</strong> represents critical road infrastructure connecting <strong>Panama City</strong> to the <strong>Pan-American Highway</strong> main artery in the country's western region. The closure of this bridge directly impacts <strong>drayage</strong> flows to the <strong>Balboa</strong> and <strong>Rodman</strong> port areas on the <strong>Pacific</strong> side as well as <strong>Free Zone</strong>-connected <strong>truck</strong> traffic. The <strong>Centennial Bridge</strong> and <strong>Atlantic Bridge</strong> serve as alternative passage options, though they introduce additional transit time and capacity constraints.</p>

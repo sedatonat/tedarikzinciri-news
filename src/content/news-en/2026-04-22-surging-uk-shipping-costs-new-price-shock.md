@@ -10,8 +10,8 @@ newsSequence: 42110
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Tedarik Zinciri']"
-tags: "['Birleşik Krallık', 'nakliye maliyeti', 'Felixstowe', 'Bank of England', 'Xeneta', 'Drewry', 'konteyner', 'enflasyon']"
+secondaryCategories: ['Tedarik Zinciri']
+tags: ['Birleşik Krallık', 'nakliye maliyeti', 'Felixstowe', 'Bank of England', 'Xeneta', 'Drewry', 'konteyner', 'enflasyon']
 ---
 
 <p style="text-align: justify"><strong>Bloomberg</strong> reports that the cost of shipping goods from China to the United Kingdom is rising due to the ripple effects of the U.S. trade war, threatening to push up consumer prices and complicate <strong>Bank of England</strong>'s plan to lower interest rates. The price of shipping a 40-foot container from China has surged to $3,305 over the past three months, marking a rise of approximately 60 percent according to data from shipping analytics firm <strong>Xeneta</strong>. A separate weekly measurement released by maritime consultancy <strong>Drewry</strong> shows a similar increase. The rise is being driven by demand from American businesses rushing to import goods before President <strong>Donald Trump</strong>'s latest tariff hikes take effect. This is absorbing capacity and raising shipping costs to mainland Europe and the United Kingdom on other trade routes. The increase may only prove to be a short-lived side effect of shifting U.S. trade policies, and shipping costs remain well below the levels seen during the pandemic. Economists say this will likely push up UK consumer prices, at least temporarily, with <strong>Andrew Opie</strong> from the <strong>British Retail Consortium</strong> stating, "Inflated freight costs continue to add pressure to retail supply chains."</p>

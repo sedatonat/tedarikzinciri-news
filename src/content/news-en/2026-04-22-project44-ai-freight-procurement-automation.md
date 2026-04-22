@@ -10,8 +10,8 @@ newsSequence: 43617
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['project44', 'AI Freight Procurement Agent', 'Intelligent TMS', 'Jett McCandless', 'yük satın almakta', 'agentic AI', 'sourcing otomasyonu', 'mini-bid']"
+secondaryCategories: ['Lojistik']
+tags: ['project44', 'AI Freight Procurement Agent', 'Intelligent TMS', 'Jett McCandless', 'yük satın almakta', 'agentic AI', 'sourcing otomasyonu', 'mini-bid']
 ---
 
 <p style="text-align: justify"><strong>Project44</strong> is adding the <strong>AI Freight Procurement Agent</strong> to its <strong>Intelligent TMS</strong> platform and automating carrier selection, rate comparison, and negotiations across modes. The new agent is replacing static, periodic bid cycles and spreadsheet-based negotiations with continuous, <strong>AI</strong>-based sourcing, mini-bids, and renewal negotiations within defined guardrails. From a supply chain perspective, <strong>project44</strong>, founded in 2014 by <strong>Jett McCandless</strong> in <strong>Chicago</strong>, competes against <strong>FourKites</strong>, <strong>Shippeo</strong>, <strong>Tive</strong>, <strong>Overhaul</strong>, and <strong>Wakeo</strong> in the <strong>real-time visibility platform</strong> space. The company introduced its <strong>Intelligent TMS</strong> product under the <strong>Movement</strong> brand in 2024, thereby expanding from <strong>visibility</strong> into the <strong>execution</strong> domain. <strong>Insight Partners</strong>, <strong>TPG</strong>, <strong>Goldman Sachs</strong>, <strong>Emergence Capital</strong>, and <strong>Sapphire Ventures</strong> are leading investors in <strong>project44</strong>.</p>

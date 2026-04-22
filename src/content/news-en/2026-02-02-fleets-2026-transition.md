@@ -10,8 +10,8 @@ newsSequence: 43146
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Teknoloji']"
-tags: "['filo yönetimi', 'TMS', 'entegrasyon', 'veri yoğunluğu', 'modüler yazılım', 'müşteri görünürlüğü', 'enterprise integration']"
+secondaryCategories: ['Teknoloji']
+tags: ['filo yönetimi', 'TMS', 'entegrasyon', 'veri yoğunluğu', 'modüler yazılım', 'müşteri görünürlüğü', 'enterprise integration']
 ---
 
 <p style="text-align: justify"><strong>Transportation management</strong> is entering a period of transition shaped by mounting pressures from customer expectations, operational complexity, and data demands. According to sector analysts, these three forces are converging, and fleets are facing new decisions in 2026 about how to modernize their systems, configure their networks, and prepare themselves for an increasingly interconnected environment. In this context, transportation networks have become digitally far more densely interconnected in recent years. <strong>Shippers</strong> are demanding greater visibility at every stage of delivery; corporate customers are expecting more consistent and predictable execution. Fleets are managing a far broader mix of customers, service models, and operational workflows than in any period over the past decade.</p>

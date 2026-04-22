@@ -10,8 +10,8 @@ newsSequence: 41530
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['ticaret savaşı', 'tarife', 'Trump', 'Ray Grove', 'proaktif', 'HTS', 'FTA', 'tariff engineering']"
+secondaryCategories: ['Lojistik']
+tags: ['ticaret savaşı', 'tarife', 'Trump', 'Ray Grove', 'proaktif', 'HTS', 'FTA', 'tariff engineering']
 ---
 
 <p style="text-align: justify"><strong>SupplyChainBrain</strong> reports; <strong>Ray Grove</strong> (<strong>SCB Contributor</strong>); analyst insight; do you remember the periods when major global trade policy changes unfolded gradually over years and even decades? Today, these are being launched overnight &mdash; putting businesses with multinational supply chains into a constant state of second-guessing what comes next, how the changes will affect their operations, and where they need to start seeking alternatives. The <strong>Trump</strong> administration's chaotic, mercurial introduction of tariffs is the latest example of how quickly everything can change for businesses sourcing goods and materials globally. While the scale of proposed tariffs and their blanket application across major global economies certainly rattle even the most seasoned global trade and corporate finance professionals, it is important to keep in mind that such overnight policy whipsaws are not new. We have seen a similar scenario play out during the first <strong>Trump</strong> administration and even during periods of relative calm &mdash; with tariffs and retaliatory tariffs.</p>

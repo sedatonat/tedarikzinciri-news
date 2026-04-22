@@ -10,8 +10,8 @@ newsSequence: 43171
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['şeffaflık', 'UFLPA', 'EUDR', 'Digital Product Passport', 'izlenebilirlik', 'ESG uyumluluğu', 'multi-tier', 'tedarikçi ağı']"
+secondaryCategories: ['Lojistik']
+tags: ['şeffaflık', 'UFLPA', 'EUDR', 'Digital Product Passport', 'izlenebilirlik', 'ESG uyumluluğu', 'multi-tier', 'tedarikçi ağı']
 ---
 
 <p style="text-align: justify">Global supply chains are undergoing a fundamental paradigm shift. For years, visibility has been the focal point—order tracking, shipment monitoring, and inventory management have dominated attention. Today, companies must demonstrate where and how products are manufactured, backed by verifiable evidence across multi-tier supplier networks. This transition from visibility to transparency is no longer a choice; approaching regulations, tariff enforcement, and market expectations are transforming it into a business imperative for 2026 and beyond. Global trade volatility has reached unprecedented levels; companies must simultaneously contend with overlapping regulations, shifting tariffs, geopolitical disruptions, and logistical uncertainty.</p>

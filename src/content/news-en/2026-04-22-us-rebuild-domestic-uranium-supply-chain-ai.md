@@ -10,8 +10,8 @@ newsSequence: 43100
 author: "Sedat Onat"
 translated: true
 draft: false
-secondaryCategories: "['Lojistik']"
-tags: "['LIS Technologies', 'Christo Liebenberg', 'uranyum', 'nükleer', 'AI veri merkezi', 'enerji', 'Robert Bowman', 'kritik mineral']"
+secondaryCategories: ['Lojistik']
+tags: ['LIS Technologies', 'Christo Liebenberg', 'uranyum', 'nükleer', 'AI veri merkezi', 'enerji', 'Robert Bowman', 'kritik mineral']
 ---
 
 <p style="text-align: justify"><strong>America</strong>'s advanced manufacturers are adding uranium to their list of critical raw materials that must be sourced from foreign suppliers. <strong>Tech</strong> giants are increasingly turning to nuclear energy to power massive data centers being built across the country to support the next wave of artificial intelligence. And that means ensuring a stable uranium supply. <strong>Christo Liebenberg</strong>, co-founder and president of <strong>U.S.-based LIS Technologies Inc.</strong>, foresees "<strong>a collision course between America</strong>'s <strong>AI</strong> boom and the uranium supply chain</strong>." The problem: foreign suppliers account for 99% of the uranium concentrate needed for nuclear fuel. From a supply chain perspective, <strong>U.S. uranium production</strong> has experienced a 95%+ decline since the end of the <strong>Cold War</strong> and now operates limited facilities in <strong>Wyoming</strong>, <strong>Texas</strong>, <strong>Utah</strong>, and <strong>New Mexico</strong>.</p>
