@@ -1,0 +1,38 @@
+---
+title: "How Manufacturers Can Prepare for a More Dynamic Future"
+subtitle: "Seegrid's Shawn Durr, Director of Strategic Sales: Autonomy Barriers Are Falling; Automation Over the Next Decade Shifts from Departmental Advantage to Enterprise Necessity; Fully Connected Ecosystems/Interoperability/Smart Connected; Humans and Technology Achieving More Together"
+date: "2026-04-22T15:00:00Z"
+category: "Tedarik Zinciri"
+image: "https://www.supplychainbrain.com/ext/resources/2025/11/20/washing-machine-manufacturing-iStock-1455252270.webp"
+imageAlt: "White front-loading conveyor line in large warehouse facility"
+sourceUrl: "https://www.supplychainbrain.com/articles/43260-how-manufacturers-can-prepare-for-a-more-dynamic-future"
+newsSequence: 43260
+author: "Sedat Onat"
+translated: true
+draft: false
+secondaryCategories: "['Lojistik']"
+tags: "['Seegrid', 'Shawn Durr', 'otonomi', 'AMR', 'AGV', 'otomasyon', 'imalat', 'interoperability']"
+---
+
+<p style="text-align: justify"><strong>Seegrid</strong>'s Strategic Sales Director <strong>Shawn Durr</strong> observes that as embedded systems and regulatory frameworks continue to evolve, the autonomy barriers currently facing industrial manufacturers are beginning to erode. Over the next decade, automation is expected to shift from a departmental advantage to an enterprise necessity defined by fully connected ecosystems. Success belongs to those creating intelligent, connected ecosystems that have embraced <strong>interoperability</strong>, championed internal adoption, and empowered both people and technology to achieve more together. From a supply chain perspective, <strong>Seegrid</strong>, a Pittsburgh-based provider of <strong>AMR</strong> (<strong>Autonomous Mobile Robot</strong>) and <strong>AGV</strong> (<strong>Automated Guided Vehicle</strong>) solutions, is positioned in the warehouse automation market with its <strong>vision-guided vehicle</strong> technology and <strong>Seegrid Palion</strong> brand.</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, the <strong>AMR</strong>/<strong>AGV</strong> market is dominated by <strong>Mobile Industrial Robots</strong> (<strong>MiR</strong>, a <strong>Teradyne</strong> company); <strong>Locus Robotics</strong>; <strong>6 River Systems</strong> (acquired by <strong>Ocado</strong> from <strong>Shopify</strong>); <strong>Geek+</strong>; <strong>HAI Robotics</strong>; <strong>Quicktron</strong>; <strong>Fetch Robotics</strong> (acquired by <strong>Zebra</strong>); <strong>Vecna Robotics</strong>; <strong>Otto Motors</strong> (acquired by <strong>Rockwell Automation</strong>); <strong>Boston Dynamics Stretch</strong>; and <strong>Agility Robotics Digit</strong>. Key components of the modern <strong>AMR</strong> ecosystem include <strong>warehouse execution system</strong> (<strong>WES</strong>), <strong>fleet management</strong>, <strong>traffic control</strong>, <strong>charging orchestration</strong>, and <strong>safety zone management</strong>. <strong>VDA 5050</strong> is a <strong>multi-vendor AMR interoperability</strong> standard developed by the German automotive industry.</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, manufacturing autonomy is not merely about robots; it encompasses the integrated use of <strong>industrial IoT</strong> (<strong>IIoT</strong>), <strong>predictive maintenance</strong>, <strong>computer vision</strong>, and <strong>edge AI</strong>. The concepts of <strong>Industry 4.0</strong>, <strong>Smart Factory</strong>, <strong>connected factory</strong>, <strong>digital twin</strong>, and <strong>cyber-physical system</strong> serve as umbrella terms for modern manufacturing transformation. <strong>OPC UA</strong> (<strong>Open Platform Communications Unified Architecture</strong>), <strong>MQTT</strong>, <strong>ROS</strong> (<strong>Robot Operating System</strong>), <strong>Kubernetes Edge</strong> (<strong>K3s</strong>, <strong>KubeEdge</strong>), <strong>EtherCAT</strong>, and <strong>TSN</strong> (<strong>Time-Sensitive Networking</strong>) form the foundations of operational technology integration. <strong>NIST</strong>'s <strong>Smart Manufacturing</strong> program, <strong>MTConnect</strong>, <strong>ISA-95</strong>, and <strong>RAMI 4.0</strong> constitute sectoral frameworks.</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, <strong>interoperability</strong> is the central challenge in modern manufacturing ecosystems. In <strong>multi-vendor</strong> environments, seamless data exchange is required among <strong>MES</strong> (<strong>Manufacturing Execution System</strong> platforms including <strong>Siemens Opcenter</strong>, <strong>Rockwell FactoryTalk</strong>, <strong>Dassault DELMIA Apriso</strong>, <strong>AVEVA</strong>, <strong>SAP DM</strong>, <strong>Plex</strong>, <strong>Critical Manufacturing</strong>); <strong>SCADA</strong>; <strong>PLC</strong> systems (<strong>Siemens S7</strong>, <strong>Allen-Bradley</strong>, <strong>Mitsubishi</strong>, <strong>Beckhoff</strong>); <strong>WCS</strong> (<strong>Warehouse Control System</strong>); <strong>WMS</strong>; and <strong>ERP</strong> systems. Soft aspects of the automation adoption process include <strong>change management</strong>, <strong>workforce reskilling</strong>, <strong>cybersecurity</strong>, and <strong>functional safety</strong> (<strong>ISO 13849</strong>, <strong>IEC 62061</strong>). In conclusion, <strong>Seegrid</strong>'s perspective clearly demonstrates that autonomy is evolving from departmental pilot status to enterprise necessity.</p>
+<p><br></p>
+<p><strong>Key Takeaways:</strong><br>
+1. Autonomy barriers are falling as regulatory frameworks evolve.<br>
+2. Automation is shifting from departmental advantage to enterprise necessity.<br>
+3. <strong>Interoperability</strong> is central to the modern manufacturing ecosystem.<br>
+4. <strong>Shawn Durr</strong> speaks as Strategic Sales Director of <strong>Seegrid</strong>.<br>
+5. Smart connected ecosystems support human and technology synergy.</p>
+<p>---<br>
+<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/43260-how-manufacturers-can-prepare-for-a-more-dynamic-future"><u>https://www.supplychainbrain.com/articles/43260-how-manufacturers-can-prepare-for-a-more-dynamic-future</u></a><br>
+-------------------</p>
+<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
+<p><strong>Our book "How to Procure an ERP" has been published on Google Play Books.</strong></p>
+<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it free via this link.</p>
+<p><br></p>
+<p>[43260]</p>

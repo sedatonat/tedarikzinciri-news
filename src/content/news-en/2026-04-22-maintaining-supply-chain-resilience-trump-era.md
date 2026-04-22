@@ -1,0 +1,38 @@
+---
+title: "Maintaining Supply Chain Resilience and Sustainability in the Trump Era"
+subtitle: "Blue Tiger International Thomas Cook Managing Director: Washington's Aggressive Trade Changes; Import Costs/Country of Origin/Safety Stock/Expansion-Contraction; Resilience = Adaptation/Recovery/Rebound; Diversification/Visibility/Contingency Planning/Collaboration"
+date: "2026-04-22T16:00:00Z"
+category: "Tedarik Zinciri"
+image: "https://www.supplychainbrain.com/ext/resources/2025/04/28/ports-supply-chain-econony-iStock-1215099790.webp"
+imageAlt: "Black container ship docked at dock with blue cranes overhead stacking containers, overlaid with green and red line graph silhouette"
+sourceUrl: "https://www.supplychainbrain.com/articles/43123-maintaining-supply-chain-resilience-and-sustainability-in-the-trump-era"
+newsSequence: 43123
+author: "Sedat Onat"
+translated: true
+draft: false
+secondaryCategories: "['Lojistik']"
+tags: "['Blue Tiger International', 'Thomas Cook', 'Trump', 'esneklik', 'sürdürülebilirlik', 'tarifeler', 'diversifikasyon', 'liderlik']"
+---
+
+<p style="text-align: justify"><strong>Blue Tiger International</strong> Managing Director <strong>Thomas Cook</strong> provides analyst insight that executives managing global supply chains are now feeling the effects of <strong>Washington</strong>'s aggressive shifts in international trade. The challenges include rising import costs, concerns over reliance on a handful of source countries, safety stock levels, determining where to expand and contract globally, managing escalating costs, workforce concerns, and regulatory changes. Executives must develop resilience strategies to successfully navigate disruptions. From a supply chain perspective, <strong>Blue Tiger International</strong>, established by <strong>Thomas Cook</strong>, is positioned as a consulting firm in global trade compliance, customs brokerage, and supply chain consulting. The <strong>Trump 2.0</strong> tariff regime begins in early 2025 and encompasses <strong>Section 301</strong> China tariffs, <strong>Section 232</strong> national security tariffs, <strong>IEEPA</strong>, and reciprocal tariffs mechanisms.</p>
+<p><br></p>
+<p style="text-align: justify">Resilience in global supply chains enables adaptation, recovery, and rebound from economic shocks and disruptions—whether supplier-specific or systemic. Building an effective system through resilience requires strategies such as diversified sourcing, visibility, contingency planning, and collaboration to minimize negative impacts and preserve operational performance. To achieve true resilience, senior executives must demonstrate leadership intensity when facing disruptions. They must remain optimistic yet realistic, show confidence in solutions, and adopt a "things-will-be-okay" mindset. From a supply chain perspective, the concept of <strong>resilience</strong> is framed academically by <strong>Yossi Sheffi</strong> (<strong>MIT CTL</strong>) in <strong>The Resilient Enterprise</strong> (2005). <strong>Nassim Taleb</strong>'s concept of <strong>antifragility</strong> goes beyond resilience, describing systems that actually strengthen from disruption.</p>
+<p><br></p>
+<p style="text-align: justify">Proactive planning is another element of disruption survival and enables organizations to create opportunities amid global disruptions. One must also know when to handle something themselves and when to delegate. The latter can serve as a learning experience to assess a colleague's capabilities. But ultimately, to have the best chance of emerging quickly and successfully from a disruption, we must be able to distribute our responsibilities. From a supply chain perspective, critical areas to focus on are <strong>procurement</strong>, <strong>logistics</strong>, <strong>demand planning</strong>, <strong>manufacturing</strong>, and <strong>distribution</strong>. Costs in these areas greatly influence the ability to maintain operational efficiency and margins. <strong>S&amp;OP</strong> (<strong>Sales and Operations Planning</strong>), <strong>IBP</strong> (<strong>Integrated Business Planning</strong>), <strong>scenario planning</strong>, <strong>stress testing</strong>, and <strong>monte carlo simulation</strong> are modern decision support tools.</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, under the <strong>Trump 2.0</strong> regime, the elimination of the <strong>de minimis</strong> threshold (under $800) for packages originating from <strong>China</strong> and <strong>Hong Kong</strong>, <strong>UFLPA</strong> compliance, <strong>FCPA</strong> (<strong>Foreign Corrupt Practices Act</strong>) relaxation, <strong>Mexico</strong>/<strong>Canada</strong> <strong>USMCA</strong> scrutiny, <strong>EU</strong> <strong>CBAM</strong> (<strong>Carbon Border Adjustment Mechanism</strong>) interaction, divergence from <strong>WTO</strong> mechanisms, are shaping the daily agendas of supply chain managers. <strong>Tariff engineering</strong>, <strong>FTZ</strong> (<strong>Foreign Trade Zone</strong>), <strong>bonded warehouse</strong>, <strong>duty drawback</strong>, <strong>FTA</strong> (<strong>Free Trade Agreement</strong>) optimization, proper <strong>HTSUS</strong> classification, <strong>first sale</strong> doctrine, are tools of modern <strong>landed cost</strong> optimization. On the sustainability side, <strong>Scope 1/2/3 emissions</strong>, <strong>CDP</strong>, <strong>SBTi</strong>, <strong>EU CSRD</strong>, and <strong>SEC Climate Rule</strong> (legally contested) are reporting frameworks. In conclusion, <strong>Cook</strong>'s insight clearly demonstrates that supply chain leadership in the <strong>Trump</strong> era requires the dual combination of operational discipline and cultural readiness.</p>
+<p><br></p>
+<p><strong>Key Takeaways:</strong><br>
+1. <strong>Washington</strong>'s aggressive trade changes are impacting supply chain managers.<br>
+2. Resilience is defined as adaptation, recovery, and rebound.<br>
+3. Diversification/visibility/contingency planning are core strategies.<br>
+4. Senior leadership must demonstrate intensity when facing disruptions.<br>
+5. Critical areas are <strong>procurement</strong>/<strong>logistics</strong>/<strong>planning</strong>/<strong>manufacturing</strong>/<strong>distribution</strong>.</p>
+<p>---<br>
+<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/43123-maintaining-supply-chain-resilience-and-sustainability-in-the-trump-era"><u>https://www.supplychainbrain.com/articles/43123-maintaining-supply-chain-resilience-and-sustainability-in-the-trump-era</u></a><br>
+-------------------</p>
+<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
+<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
+<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free through this link.</p>
+<p><br></p>
+<p>[43123]</p>
