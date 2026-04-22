@@ -1,5 +1,6 @@
 ---
 import { getLangFromUrl, categoryLabel, newsPath } from '../i18n/utils';
+import { dayUrl } from '../lib/timeline';
 
 interface Props {
   entry: { slug: string; data: any };
@@ -7,27 +8,38 @@ interface Props {
 const { entry } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const href = newsPath(lang, entry.slug);
-const date = new Date(entry.data.date).toLocaleDateString(
+const dateObj = new Date(entry.data.date);
+const date = dateObj.toLocaleDateString(
   lang === 'tr' ? 'tr-TR' : 'en-US',
   { day: 'numeric', month: 'short', year: 'numeric' }
 );
+const dayHref = dayUrl(
+  lang,
+  dateObj.getUTCFullYear(),
+  dateObj.getUTCMonth() + 1,
+  dateObj.getUTCDate()
+);
 const cat = entry.data.category;
 ---
-<a href={href} class="group flex flex-col rounded-xl overflow-hidden border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 hover:border-brand-500 transition">
+<article class="group flex flex-col rounded-xl overflow-hidden border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 hover:border-brand-500 transition">
   {entry.data.image && (
-    <div class="aspect-[16/9] overflow-hidden bg-ink-100 dark:bg-ink-800">
+    <a href={href} class="block aspect-[16/9] overflow-hidden bg-ink-100 dark:bg-ink-800" aria-label={entry.data.title}>
       <img src={entry.data.image} alt={entry.data.imageAlt ?? entry.data.title}
            class="w-full h-full object-cover group-hover:scale-105 transition duration-500"
            loading="lazy" decoding="async"
            onerror="if(this.dataset.fallback!=='1'){this.dataset.fallback='1';this.src='/og-default.png';}" />
-    </div>
+    </a>
   )}
   <div class="p-5 flex flex-col gap-2 flex-1">
     <div class="flex items-center gap-2 text-xs text-ink-500">
       <span class="chip bg-brand-100 text-brand-800 dark:bg-brand-900/40 dark:text-brand-300">{categoryLabel[cat]?.[lang] ?? cat}</span>
-      <time datetime={new Date(entry.data.date).toISOString()}>{date}</time>
+      <a href={dayHref} class="hover:text-brand-600 hover:underline underline-offset-4 decoration-dotted">
+        <time datetime={dateObj.toISOString()}>{date}</time>
+      </a>
     </div>
-    <h3 class="text-lg font-semibold leading-snug group-hover:text-brand-600">{entry.data.title}</h3>
-    {entry.data.subtitle && <p class="text-sm text-ink-600 dark:text-ink-300 line-clamp-2">{entry.data.subtitle}</p>}
+    <a href={href} class="block">
+      <h3 class="text-lg font-semibold leading-snug group-hover:text-brand-600">{entry.data.title}</h3>
+      {entry.data.subtitle && <p class="mt-2 text-sm text-ink-600 dark:text-ink-300 line-clamp-2">{entry.data.subtitle}</p>}
+    </a>
   </div>
-</a>
+</article>
