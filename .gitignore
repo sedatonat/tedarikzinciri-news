@@ -12,3 +12,4 @@ dist/
 pnpm-lock.yaml
 yarn.lock
 news-tr-birlesik.md
+logs/
