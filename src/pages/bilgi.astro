@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { useTranslations } from '../i18n/utils';
+
+const t = useTranslations('tr');
+---
+<BaseLayout title={t('info.title')}>
+  <section class="container-narrow pt-10 pb-16">
+    <nav class="text-sm text-ink-500 dark:text-ink-400 mb-3">
+      <a href="/" class="hover:text-brand-600">Ana Sayfa</a>
+      <span class="mx-2">/</span>
+      <span>{t('info.title')}</span>
+    </nav>
+    <h1 class="text-3xl font-bold mb-6">{t('info.title')}</h1>
+
+    <article class="prose-article">
+      <h2>{t('info.summaryHeading')}</h2>
+      <p>{t('info.summary')}</p>
+
+      <h2>{t('info.contactHeading')}</h2>
+      <ul>
+        <li>
+          <strong>{t('info.contactEmail')}:</strong>{' '}
+          <a href="mailto:info@sedatonat.com">info@sedatonat.com</a>
+        </li>
+        <li>
+          <strong>{t('info.contactWebsite')}:</strong>{' '}
+          <a href="https://sedatonat.com" rel="noopener" target="_blank">sedatonat.com</a>
+        </li>
+        <li>
+          <strong>{t('info.contactPortal')}:</strong>{' '}
+          <a href="https://www.tedarikzinciriportali.com/" rel="noopener" target="_blank">tedarikzinciriportali.com</a>
+        </li>
+      </ul>
+    </article>
+  </section>
+</BaseLayout>

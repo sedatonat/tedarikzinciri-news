@@ -18,6 +18,12 @@ const t = useTranslations(lang);
       <a href={lang === 'tr' ? '/kategoriler' : '/en/categories'} class="px-2 py-1 hover:text-brand-600">{t('nav.categories')}</a>
       <a href={lang === 'tr' ? '/etiketler/' : '/en/tags/'} class="px-2 py-1 hover:text-brand-600">{t('nav.tags')}</a>
       <a href={lang === 'tr' ? '/ara' : '/en/search'} class="px-2 py-1 hover:text-brand-600" aria-label={t('nav.search')}>{t('nav.search')}</a>
+      <a
+        href={lang === 'tr' ? '/bilgi' : '/en/info'}
+        class="inline-flex items-center justify-center w-6 h-6 rounded-full border border-blue-500 text-blue-600 dark:text-blue-400 dark:border-blue-400 text-xs font-bold italic font-serif leading-none hover:bg-blue-500 hover:text-white dark:hover:bg-blue-400 dark:hover:text-ink-950 transition-colors"
+        aria-label={t('nav.info')}
+        title={t('nav.info')}
+      >i</a>
       <LangSwitcher />
       <ThemeToggle />
     </nav>
