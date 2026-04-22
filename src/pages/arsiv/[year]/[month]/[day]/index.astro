@@ -40,11 +40,11 @@ const enPath = `/en/archive/${year}/${mm}/${dd}/`;
 <BaseLayout title={`${title} arşivi`} alternateTr={`/arsiv/${year}/${mm}/${dd}/`} alternateEn={enPath}>
   <Timeline lang="tr" />
   <section class="container-wide py-10">
-    <nav class="text-sm text-ink-500 mb-2">
+    <nav class="text-sm text-ink-500 dark:text-ink-400 mb-3">
       <a href="/" class="hover:text-brand-600">{t('nav.home')}</a>
-      <span class="mx-1">·</span>
+      <span class="mx-2">/</span>
       <a href={`/arsiv/${year}/${mm}/`} class="hover:text-brand-600">{year}/{mm}</a>
-      <span class="mx-1">·</span>
+      <span class="mx-2">/</span>
       <span>{dd}</span>
     </nav>
     <h1 class="sticky top-16 z-30 bg-transparent text-3xl font-bold mb-1 py-2">{title} arşivi</h1>

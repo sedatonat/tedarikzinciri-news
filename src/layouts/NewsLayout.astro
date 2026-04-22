@@ -78,7 +78,9 @@ const jsonLd = {
         <span>{lang === 'tr' ? 'Geri' : 'Back'}</span>
       </a>
       <span class="text-ink-300 dark:text-ink-700">·</span>
-      <a href={lang === 'tr' ? '/' : '/en/'} class="hover:text-brand-600">{lang === 'tr' ? 'Haberler' : 'News'}</a>
+      <a href={lang === 'tr' ? '/' : '/en/'} class="hover:text-brand-600">{lang === 'tr' ? 'Ana Sayfa' : 'Home'}</a>
+      <span class="mx-1">/</span>
+      <a href={lang === 'tr' ? '/kategoriler/' : '/en/categories/'} class="hover:text-brand-600">{lang === 'tr' ? 'Kategoriler' : 'Categories'}</a>
       <span class="mx-1">/</span>
       <a href={categoryPath(lang, frontmatter.category)} class="hover:text-brand-600">{categoryLabel[frontmatter.category]?.[lang] ?? frontmatter.category}</a>
     </nav>
