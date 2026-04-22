@@ -17,7 +17,13 @@ const label = categoryLabel[cat].tr;
 <BaseLayout title={label}>
   <Timeline lang="tr" />
   <section class="container-wide py-10">
-    <h1 class="sticky top-16 z-30 bg-transparent text-3xl font-bold mb-6 py-2">{label}</h1>
+    <nav class="text-sm text-ink-500 dark:text-ink-400 mb-3">
+      <a href="/kategoriler/" class="hover:text-brand-600">Kategoriler</a>
+      <span class="mx-2">/</span>
+      <span>{label}</span>
+    </nav>
+    <h1 class="sticky top-16 z-30 bg-transparent text-3xl sm:text-4xl font-bold mb-2 py-2">{label}</h1>
+    <p class="text-ink-600 dark:text-ink-300 mb-8">{all.length} haber</p>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
       {all.map(e => <NewsCard entry={e} />)}
     </div>
