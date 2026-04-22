@@ -1,0 +1,39 @@
+---
+title: "Warehouses Modernize and Automate with the Rise of Agentic Artificial Intelligence"
+subtitle: "Made4Net's Jones: AI as 'Self-Healing System'; Policy and Rule-Based; Bad Data No Barrier; Target to Reduce 30-45 Days of Training to 1 Day"
+date: "2026-04-22T17:00:00Z"
+category: "Lojistik"
+image: "https://www.supplychainbrain.com/ext/resources/2022/11/30/SEMICONDUCTOR-CHIP-iStock-Mykola-Pokhodzhay-1296135863.webp"
+imageAlt: "A hand putting on latex gloves; appears to be holding a semiconductor chip"
+sourceUrl: "https://www.supplychainbrain.com/articles/43872-watch-modernizing-and-automating-the-warehouse-with-the-coming-of-agentic-ai"
+newsSequence: 43872
+author: "Sedat Onat"
+translated: true
+draft: false
+secondaryCategories: "['Tedarik Zinciri']"
+tags: "['Made4Net', 'ajansal yapay zeka', 'Jeff Jones', 'depo otomasyonu', 'self-healing', 'veri kalitesi', 'istisna yönetimi', 'eğitim']"
+---
+
+<p style="text-align: justify"><strong>Jeff Jones</strong>, senior customer manager at <strong>Made4Net</strong>, points out that agentic artificial intelligence with actionable, decision-making capabilities is becoming reality in today's warehouse. <strong>Jones</strong> characterizes agentic AI as a "<strong>self-healing system</strong>" that takes over non-value-adding human interaction in handling exceptions and alleviating challenges to ensure shipments depart on time. From a supply chain perspective, <strong>Made4Net</strong> delivers integrated solutions across <strong>WMS</strong>, <strong>YMS</strong> (<strong>Yard Management System</strong>), <strong>TMS</strong>, <strong>LMS</strong> (<strong>Labor Management System</strong>), and delivery applications through its <strong>SCExpert</strong> platform. <strong>HighJump</strong> and <strong>Tecsys</strong> are competing players offering similarly comprehensive solutions in the mid-market segment.</p>
+<p><br></p>
+<p style="text-align: justify">This does not mean human oversight is absent. <strong>Jones</strong> states, "<strong>The use of agentic AI is built on policy, on the rule set employed and entered by a human as to how they want to operate their system</strong>." <strong>Jones</strong> adds, "<strong>Agentic AI can actually make adjustments or handle these exceptions as the day-to-day volatility of orders comes into the warehouse, and it can handle that more efficiently than a human can</strong>." From a supply chain perspective, the <strong>policy-as-code</strong> approach requires the use of frameworks like <strong>Open Policy Agent (OPA)</strong> in <strong>WMS</strong> integration. <strong>Exception management</strong> encompasses real-time handling of daily operational deviations such as <strong>order short</strong>, <strong>damaged inventory</strong>, <strong>stockout</strong>, <strong>carrier no-show</strong>, and <strong>dock door blockage</strong>. Automatically addressing <strong>special cause variation</strong>s by AI according to <strong>Six Sigma</strong> and <strong>DMAIC</strong> methodologies is critical for maintaining high <strong>OEE</strong> (<strong>Overall Equipment Effectiveness</strong>) scores.</p>
+<p><br></p>
+<p style="text-align: justify">It is unfortunate that more companies are not using agentic AI now; <strong>Jones</strong> states, "<strong>We're on the journey now, but most companies have only moved from predictive to generative AI, not agentic</strong>." However, bad data is a barrier even to agentic systems. <strong>Jones</strong> says, "<strong>Bad data is notoriously common inside of warehouse systems. So until we find a way to maximize the cleanliness and purity of the data, I think that's going to prevent us from seeing the full benefit of agentic AI</strong>." From a supply chain perspective, <strong>master data management (MDM)</strong> requires maintaining consistent and clean hierarchies of <strong>SKU</strong>, <strong>UoM</strong> (<strong>Unit of Measure</strong>), <strong>HU</strong> (<strong>Handling Unit</strong>), <strong>location</strong>, and <strong>vendor</strong>. <strong>Data lineage</strong>, <strong>data quality scoring</strong>, and <strong>data observability</strong> implementations are managed through platforms such as <strong>Informatica</strong>, <strong>Talend</strong>, <strong>Collibra</strong>, and <strong>Monte Carlo</strong>, and serve as prerequisites for the success of AI projects.</p>
+<p><br></p>
+<p style="text-align: justify"><strong>Jones</strong> notes that unlike stories of malicious actions taken by <strong>AI</strong> in the consumer space, such issues do not occur in supply chains. <strong>Jones</strong> states, "<strong>I think we're seeing it operate in the confines we define it to operate in. It doesn't have freedom to roam about however it wants to. It's just multiple agents sitting on top of different policies, procedures and processes inside the warehouse to make exception decisions faster than a human can</strong>." Advances in <strong>AI</strong> and much of warehouse automation are enabling shorter training periods. <strong>Jones</strong> notes that 30-45 day training programs are expected to be reduced to a single day. From a supply chain perspective, <strong>workforce onboarding</strong> is a critical bottleneck for 3PLs and retail distribution centers during <strong>seasonal peak</strong> periods (<strong>Black Friday</strong>, <strong>Cyber Monday</strong>, <strong>Prime Day</strong>). <strong>Vision picking</strong> with <strong>AR</strong> (<strong>Augmented Reality</strong>) glasses and <strong>voice picking</strong> systems reduce the learning curve and lower error rates. <strong>Vuzix</strong>, <strong>RealWear</strong>, and <strong>Honeywell Vocollect</strong> are leading hardware providers in this segment. In conclusion, <strong>Jones</strong>'s vision signals that agentic <strong>AI</strong> will rapidly proliferate in warehouse operations, contingent on data quality conditions.</p>
+<p><br></p>
+<p><strong>Key Takeaways:</strong><br>
+1. <strong>Jones</strong> defines agentic <strong>AI</strong> as a "<strong>self-healing system</strong>".<br>
+2. <strong>AI</strong> operates according to policies and rule sets entered by humans.<br>
+3. Most companies are transitioning from predictive to generative <strong>AI</strong>, not agentic.<br>
+4. Bad data prevents the full benefit of agentic <strong>AI</strong> from being realized.<br>
+5. <strong>AI</strong> can reduce training periods from 30-45 days to as little as 1 day.</p>
+<p>---<br>
+<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43872-watch-modernizing-and-automating-the-warehouse-with-the-coming-of-agentic-ai"><u>https://www.supplychainbrain.com/articles/43872-watch-modernizing-and-automating-the-warehouse-with-the-coming-of-agentic-ai</u></a><br>
+-------------------</p>
+<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
+<p><strong>How to Buy ERP? Our Book has been published on Google Play Books.</strong></p>
+<p>#What is ERP?</p>
+<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge via this link.</p>
+<p><br></p>
+<p>[43872]</p>
