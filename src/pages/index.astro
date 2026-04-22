@@ -2,30 +2,10 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import NewsCard from '../components/NewsCard.astro';
-import Pagination from '../components/Pagination.astro';
 import Timeline from '../components/Timeline.astro';
-import { useTranslations } from '../i18n/utils';
 
-const PAGE_SIZE = 24;
-const t = useTranslations('tr');
-const all = (await getCollection('news-tr', ({ data }) => !data.draft))
+const items = (await getCollection('news-tr', ({ data }) => !data.draft))
   .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
-
-const currentPage = 1;
-const lastPage = Math.ceil(all.length / PAGE_SIZE);
-const items = all.slice(0, PAGE_SIZE);
-
-const page = {
-  url: {
-    current: '/',
-    first: '/',
-    last: lastPage > 1 ? `/page/${lastPage}` : '/',
-    prev: undefined,
-    next: lastPage > 1 ? '/page/2' : undefined,
-  },
-  currentPage,
-  lastPage
-};
 ---
 <BaseLayout>
   <Timeline lang="tr" />
@@ -33,6 +13,5 @@ const page = {
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
       {items.map(e => <NewsCard entry={e} />)}
     </div>
-    {lastPage > 1 && <Pagination page={page} labelPrev={t('pagination.prev')} labelNext={t('pagination.next')} />}
   </section>
 </BaseLayout>

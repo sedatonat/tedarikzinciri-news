@@ -12,6 +12,10 @@ const date = new Date(entry.data.date).toLocaleDateString(
   { day: 'numeric', month: 'short', year: 'numeric' }
 );
 const cat = entry.data.category;
+const rawSubtitle: string = typeof entry.data.subtitle === 'string' ? entry.data.subtitle : '';
+const subtitle = rawSubtitle.length > 500
+  ? rawSubtitle.slice(0, 500).replace(/\s+\S*$/, '') + '…'
+  : rawSubtitle;
 ---
 <a href={href} class="group flex flex-col rounded-xl overflow-hidden border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 hover:border-brand-500 transition">
   {entry.data.image && (
@@ -28,6 +32,6 @@ const cat = entry.data.category;
       <time datetime={new Date(entry.data.date).toISOString()}>{date}</time>
     </div>
     <h3 class="text-lg font-semibold leading-snug group-hover:text-brand-600">{entry.data.title}</h3>
-    {entry.data.subtitle && <p class="text-sm text-ink-600 dark:text-ink-300 line-clamp-2">{entry.data.subtitle}</p>}
+    {subtitle && <p class="text-sm text-ink-600 dark:text-ink-300 leading-relaxed">{subtitle}</p>}
   </div>
 </a>
