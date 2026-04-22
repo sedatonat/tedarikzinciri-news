@@ -10,12 +10,15 @@ export async function GET(context: any) {
     site: context.site,
     items: items
       .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf())
-      .slice(0, 50)
       .map(e => ({
         title: e.data.title,
         pubDate: new Date(e.data.date),
         description: e.data.subtitle ?? '',
-        link: `/haber/${e.slug}/`
+        link: `/haber/${e.slug}/`,
+        categories: [
+          e.data.category,
+          ...(Array.isArray(e.data.tags) ? e.data.tags : [])
+        ].filter(Boolean)
       }))
   });
 }
