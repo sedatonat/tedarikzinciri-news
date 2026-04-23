@@ -18,11 +18,11 @@ tags:
 - hibrit model
 - CAPEX
 ---
-<p>Son kilometre taşımacılığında build vs. buy ikilemi, sermaye ve hız dengesi üzerinden tartışılıyor.&nbsp;</p>
+<p>Sektör, son kilometre taşımacılığında build vs. buy ikilemini sermaye ve hız dengesi üzerinden tartıştı.&nbsp;</p>
 <p><br></p>
-<p>Podcast, in-house fleet &amp; tech kurmanın kontrol ve farklılaşma avantajlarını; 3PL/4PL partnerships ve delivery platforms kullanmanın ise ölçek ve hız artılarını karşılaştırıyor. Kısa vadede buy seçeneği, pazara hızlı giriş ve düşük CAPEX sunuyor; uzun vadede build stratejisi, birim maliyeti düşürüp müşteri deneyimini özelleştirmekte.&nbsp;</p>
+<p>Podcast, in-house fleet &amp; tech kurmanın kontrol ve farklılaşma avantajlarını; 3PL/4PL partnerships ve delivery platforms kullanmanın ise ölçek ve hız artılarını karşılaştırdı. Kısa vadede buy seçeneği, pazara hızlı giriş ve düşük CAPEX sundu; uzun vadede build stratejisi, birim maliyeti düşürdü ve müşteri deneyimini özelleştirdi.&nbsp;</p>
 <p><br></p>
-<p>Hibrit yaklaşımlar, regional insourcing ve yoğun bölgelerde private fleet, düşük yoğunlukta dış kaynak modelini birleştiriyor. Karar, sipariş yoğunluğu, sepet yapısı, SLA gereksinimi ve coğrafi yayılım parametrelerine bağlı oluyor.</p>
+<p>Hibrit yaklaşımlar, regional insourcing ve yoğun bölgelerde private fleet ile düşük yoğunlukta dış kaynak modelini birleştirdi. Şirketler, kararı sipariş yoğunluğu, sepet yapısı, SLA gereksinimi ve coğrafi yayılım parametrelerine göre şekillendirdi.</p>
 <p><br></p>
 <p>Önemli Notlar:<br>
 1. Build kontrol ve farklılaşma sağlar.<br>

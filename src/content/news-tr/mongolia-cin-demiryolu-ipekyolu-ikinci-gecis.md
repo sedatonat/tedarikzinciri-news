@@ -19,11 +19,11 @@ tags:
 - Gashuun Sukhait
 - altyapı projesi
 ---
-<p style="text-align: justify">Moğolistan hükümeti, Çin ile 2028 yılına kadar yeni bir demiryolu sınır geçişi açmayı planladığını duyurdu. Bu yeni bağlantı, Moğolistan'ın Çin'e kömür ihracatını kolaylaştırarak kapasiteyi 30 milyon ton artırmayı hedefliyor. ​</p>
+<p style="text-align: justify">Moğolistan hükümeti, Çin ile 2028 yılına kadar yeni bir demiryolu sınır geçişi açma planını duyurdu. Yeni bağlantı, Moğolistan'ın Çin'e kömür ihracatını kolaylaştırıyor ve kapasiteyi 30 milyon ton artırmayı hedefliyor. ​</p>
 <p><br></p>
-<p style="text-align: justify">Yeni sınır geçişi, hâlihazırda faaliyette olan Zamiin Uud geçiş noktasının yaklaşık 380 kilometre batısında bulunan Gashuun Sukhait'te yer alacak. Gashuun Sukhait'te sınırın her iki tarafında da mevcut demiryolu altyapısı bulunuyor. Yeni bağlantının inşaatının Nisan 2025'te başlaması ve 2028'de tamamlanması planlanıyor. ​</p>
+<p style="text-align: justify">Yeni sınır geçişi, hâlihazırda faaliyet gösteren Zamiin Uud geçiş noktasının yaklaşık 380 kilometre batısındaki Gashuun Sukhait'te konumlanacak. Sınırın her iki tarafı da Gashuun Sukhait'te mevcut demiryolu altyapısına sahip bulunuyor. Yeni bağlantının inşaatı Nisan 2025'te başlıyor ve proje 2028'de tamamlanıyor. ​</p>
 <p><br></p>
-<p style="text-align: justify">Bu 30 milyon tonluk kapasite artışıyla, kömür ihracat kapasitesi yıllık 165 milyon tona ulaşacak. 2024 yılında, Moğolistan Çin'e 83 milyon ton kömür ihraç etti. Pekin, metalurji endüstrisi için ek kömür kaynakları arayışında, zira yaptırımlar ve tarifeler Rusya ve ABD'den ürün ithalatını zorlaştırıyor. ​</p>
+<p style="text-align: justify">Bu 30 milyon tonluk kapasite artışı, yıllık kömür ihracat kapasitesini 165 milyon tona yükseltecek. Moğolistan, 2024 yılında Çin'e 83 milyon ton kömür ihraç etti. Pekin, metalurji endüstrisi için ek kömür kaynakları arayışını sürdürüyor; zira yaptırımlar ve tarifeler Rusya ile ABD'den ürün ithalatını zorlaştırıyor. ​</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar</strong></h5>
 <ul>

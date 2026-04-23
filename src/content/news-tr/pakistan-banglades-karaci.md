@@ -20,29 +20,29 @@ tags:
 - liman iş birliği
 - tedarik zinciri
 ---
-<p style="text-align: justify"><strong>Pakistan</strong>, <strong>Bangladeş’in Çin ve diğer ülkelerle ticaretini kolaylaştırmak</strong> amacıyla <strong>Karaçi Port Trust (KPT)</strong> limanının kullanımını teklif etti. Güney Asya’nın en yoğun ve stratejik derin su limanlarından biri olan Karaçi Limanı, Pakistan’ın bölgesel lojistik ağındaki kilit noktası olarak öne çıkıyor.</p>
+<p style="text-align: justify"><strong>Pakistan</strong>, <strong>Bangladeş’in Çin ve diğer ülkelerle ticaretini kolaylaştırmak</strong> amacıyla <strong>Karaçi Port Trust (KPT)</strong> limanının kullanımını Bangladeş’e önerdi. Güney Asya’nın en yoğun ve stratejik derin su limanlarından biri olan Karaçi Limanı, Pakistan’ın bölgesel lojistik ağında kilit rol üstleniyor.</p>
 <p><br></p>
-<p style="text-align: justify">Bu teklif, <strong>27 Ekim 2025’te Dakka’da düzenlenen 9. Bangladeş–Pakistan Ortak Ekonomik Komisyonu (JEC)</strong> toplantısında Pakistan Petrol Bakanı <strong>Ali Pervaiz Malik</strong> tarafından sunuldu. Bangladeş tarafı, geçici hükümetin Maliye Danışmanı <strong>Dr. Salehuddin Ahmed</strong> tarafından temsil edildi.</p>
+<p style="text-align: justify">Pakistan Petrol Bakanı <strong>Ali Pervaiz Malik</strong>, teklifi <strong>27 Ekim 2025’te Dakka’da düzenlenen 9. Bangladeş–Pakistan Ortak Ekonomik Komisyonu (JEC)</strong> toplantısında sundu. Bangladeş tarafını geçici hükümetin Maliye Danışmanı <strong>Dr. Salehuddin Ahmed</strong> temsil etti.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Bölgesel ticarette stratejik hamle</strong></h5>
-<p style="text-align: justify">Pakistan’ın önerisi, Güney Asya’da <strong>bölgesel ticaret rotalarının çeşitlendirilmesi</strong> ve <strong>Çin ile bağlantılı lojistik akışların</strong> güçlendirilmesi hedefini taşıyor. Karaçi Limanı’nın coğrafi konumu, özellikle <strong>Çin–Pakistan Ekonomik Koridoru (CPEC)</strong> ve <strong>Kuşak ve Yol Girişimi (Belt and Road Initiative – BRI)</strong> kapsamında, <strong>Çin’in Batı bölgeleri ile Orta Doğu ve Afrika’ya giden deniz yolları</strong> arasında bir köprü işlevi görüyor.</p>
+<p style="text-align: justify">Pakistan’ın önerisi, Güney Asya’da <strong>bölgesel ticaret rotalarının çeşitlendirilmesi</strong> ve <strong>Çin bağlantılı lojistik akışların</strong> güçlendirilmesi hedefini yansıtıyor. Karaçi Limanı, coğrafi konumuyla <strong>Çin–Pakistan Ekonomik Koridoru (CPEC)</strong> ve <strong>Kuşak ve Yol Girişimi (Belt and Road Initiative – BRI)</strong> kapsamında <strong>Çin’in Batı bölgeleri ile Orta Doğu ve Afrika’ya giden deniz yolları</strong> arasında köprü işlevi üstleniyor.</p>
 <p><br></p>
-<p style="text-align: justify">Bu teklif, Bangladeş’in Çin ile artan ticaret hacmini desteklemek ve Hint Okyanusu üzerinden daha rekabetçi bir ihracat rotası oluşturmak için yeni bir seçenek sunuyor.</p>
+<p style="text-align: justify">Bu öneri, Bangladeş’in Çin ile artan ticaret hacmini desteklemek ve Hint Okyanusu üzerinden daha rekabetçi bir ihracat rotası kurmak için yeni bir seçenek sunuyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Bangladeş açısından fırsatlar</strong></h5>
-<p style="text-align: justify">Bangladeş’in sanayi ihracatının büyük kısmı şu anda <strong>Çittagong Limanı</strong> üzerinden yürütülüyor. Ancak bu liman zaman zaman <strong>altyapı ve kapasite yetersizlikleri nedeniyle tıkanıklık</strong> yaşıyor. Karaçi Limanı’nın devreye girmesi, Bangladeş’in <strong>tedarik zinciri esnekliğini artırabilir</strong>, <strong>Çin, Orta Asya ve Orta Doğu pazarlarına erişimini hızlandırabilir.</strong></p>
+<p style="text-align: justify">Bangladeş, sanayi ihracatının büyük bölümünü şu anda <strong>Çittagong Limanı</strong> üzerinden yürütüyor. Ancak bu liman, zaman zaman <strong>altyapı ve kapasite yetersizliği nedeniyle tıkanıklık</strong> yaşıyor. Karaçi Limanı’nın devreye girmesi, Bangladeş’in <strong>tedarik zinciri esnekliğini artırabilir</strong> ve <strong>Çin, Orta Asya ile Orta Doğu pazarlarına erişimini hızlandırabilir.</strong></p>
 <p><br></p>
-<p style="text-align: justify">Uzmanlara göre, böyle bir iş birliği, iki ülke arasında <strong>uzun süredir sınırlı kalan ekonomik ilişkileri yeniden canlandırma potansiyeli</strong> taşıyor. Bangladeş, halihazırda Çin’den büyük miktarda <strong>sanayi makinesi, tekstil ekipmanı ve kimyasal madde</strong> ithal ediyor; Pakistan ise bu akışı Karaçi üzerinden yönlendirerek <strong>lojistik gelirlerini artırmayı</strong> hedefliyor.</p>
+<p style="text-align: justify">Uzmanlar, böyle bir iş birliğinin iki ülke arasında <strong>uzun süredir sınırlı kalan ekonomik ilişkileri yeniden canlandırma potansiyeli</strong> taşıdığını vurguluyor. Bangladeş, Çin’den halihazırda büyük miktarda <strong>sanayi makinesi, tekstil ekipmanı ve kimyasal madde</strong> ithal ediyor; Pakistan ise bu akışı Karaçi üzerinden yönlendirerek <strong>lojistik gelirlerini artırmayı</strong> hedefliyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Jeopolitik yansımalar</strong></h5>
-<p style="text-align: justify">Pakistan’ın teklifi, Güney Asya’da <strong>ticaret koridorlarının yeniden şekilleniyor olduğu</strong> bir döneme denk geliyor. Bölgedeki birçok ülke, <strong>Hindistan’ın hakim olduğu deniz yollarına alternatif rotalar</strong> aramakta. Karaçi’nin Bangladeş’e açılması, <strong>bölgesel ticaretin Hindistan dışı kanallardan yürütülmesini kolaylaştırabilir</strong>.</p>
+<p style="text-align: justify">Pakistan’ın teklifi, Güney Asya’da <strong>ticaret koridorlarının yeniden şekillendiği</strong> bir döneme denk geldi. Bölgedeki birçok ülke, <strong>Hindistan’ın hâkim olduğu deniz yollarına alternatif rotalar</strong> arıyor. Karaçi’nin Bangladeş’e açılması, <strong>bölgesel ticaretin Hindistan dışı kanallar üzerinden akışını kolaylaştırabilir</strong>.</p>
 <p><br></p>
-<p style="text-align: justify">Ancak bu girişimin <strong>Hindistan–Bangladeş ilişkilerinde</strong> dikkatli bir diplomatik denge gerektireceği belirtiliyor. Zira Hindistan, hem Bangladeş’in en büyük ticaret ortaklarından biri hem de Güney Asya altyapı projelerinde başat bir oyuncu.</p>
+<p style="text-align: justify">Öte yandan analistler, girişimin <strong>Hindistan–Bangladeş ilişkilerinde</strong> dikkatli bir diplomatik denge gerektirdiğini belirtiyor. Zira Hindistan, hem Bangladeş’in en büyük ticaret ortaklarından biri hem de Güney Asya altyapı projelerinde başat bir oyuncu konumunda bulunuyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Ekonomik vizyon ve bölgesel entegrasyon</strong></h5>
-<p style="text-align: justify">Petrol Bakanı <strong>Ali Pervaiz Malik</strong>, toplantı sonrası yaptığı açıklamada:</p>
+<p style="text-align: justify">Petrol Bakanı <strong>Ali Pervaiz Malik</strong>, toplantının ardından şu açıklamayı yaptı:</p>
 <blockquote style="text-align: justify">“Karaçi Limanı, sadece Pakistan için değil, Güney Asya’nın tamamı için stratejik bir merkezdir. Bangladeş’in bu limandan faydalanması, bölgesel ticaret entegrasyonunu hızlandıracaktır,” ifadelerini kullandı.</blockquote>
-<p style="text-align: justify">Bangladeş tarafı ise teklifi <strong>“teknik ve ekonomik fizibilite” açısından inceleyeceklerini</strong> açıkladı. Gözlemcilere göre, eğer proje ilerlerse bu durum, <strong>Pakistan’ın bölgesel lojistik iş birliği alanında yumuşak güç kazanımı</strong> anlamına gelebilir.</p>
+<p style="text-align: justify">Bangladeş tarafı ise teklifi <strong>“teknik ve ekonomik fizibilite” açısından inceleyeceklerini</strong> duyurdu. Gözlemciler, projenin ilerlemesi hâlinde Pakistan’ın <strong>bölgesel lojistik iş birliği alanında yumuşak güç kazanımı</strong> elde edebileceğini değerlendiriyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>

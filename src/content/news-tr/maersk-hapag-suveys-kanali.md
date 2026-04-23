@@ -20,62 +20,62 @@ tags:
 - CMA CGM
 - deniz güvenliği
 ---
-<p style="text-align: justify">Aralık 2025'in başında küresel denizcilik sektörü, dikkat çeken önemli bir iletişim krizine tanıklık etti. <strong>Suez Canal Authority (SCA)</strong>, Maersk'in Aralık ayı başından itibaren Kızıldeniz üzerinden geçişlere yeniden başlayacağını duyurdu. Ancak bu açıklamadan yalnızca saatler sonra <strong>Maersk</strong> ve <strong>Hapag-Lloyd</strong>, ortak girişimleri olan <strong>Gemini Cooperation</strong> adına kamuya açık bir düzeltme yayımladı:<br>
+<p style="text-align: justify">Küresel denizcilik sektörü, Aralık 2025 başında dikkat çekici bir iletişim krizine tanıklık etti. <strong>Suez Canal Authority (SCA)</strong>, Maersk'in Aralık ayı başından itibaren Kızıldeniz geçişlerine yeniden başlayacağını duyurdu. <strong>Maersk</strong> ve <strong>Hapag-Lloyd</strong>, bu açıklamadan yalnızca saatler sonra ortak girişimleri <strong>Gemini Cooperation</strong> adına kamuya açık bir düzeltme yayımladı:<br>
  <strong>“Red Sea return için herhangi bir timeline açıklanmadı.”</strong></p>
 <p><br></p>
-<p style="text-align: justify">Bu gelişme, siyasi otoriteler ile denizcilik şirketleri arasındaki “hemen geri dönün” baskısı ile “operasyonel güvenlik” öncelikleri arasındaki farkı net biçimde gözler önüne seriyor.</p>
+<p style="text-align: justify">Bu gelişme, siyasi otoriteler ile denizcilik şirketleri arasındaki “hemen geri dönün” baskısı ile “operasyonel güvenlik” önceliklerinin farkını net biçimde gözler önüne serdi.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Gemini Cooperation Bağlamı: Neden Bu Kadar Kritik?</strong></h4>
-<p style="text-align: justify"><strong>February 2025</strong>'te faaliyete geçen <strong>Gemini Cooperation</strong>, Maersk ve Hapag-Lloyd'un yeni küresel ittifakını oluşturuyor. İki şirket lansman sırasında, operasyonel güvenlik gerekçesiyle <strong>Cape of Good Hope routing</strong> uygulayacaklarını açıkladı. Bu karar, Kızıldeniz'deki saldırılar ve sigorta riskleri nedeniyle <strong>Suez Network</strong> üzerinden geçişi askıya alan en büyük filo hareketlerinden birini oluşturdu.</p>
-<p style="text-align: justify">Gemini sistemini <strong>hub-and-spoke</strong> yapı oluşturuyor. Bu model, daha az ana liman üzerinden yoğun aktarma yapılmasını gerektiriyor. Dolayısıyla Suez'e dönüş, yalnızca bir yön değişikliği değil;</p>
+<p style="text-align: justify">Maersk ve Hapag-Lloyd, <strong>February 2025</strong>'te faaliyete geçen <strong>Gemini Cooperation</strong> ile yeni küresel ittifaklarını kurdu. İki şirket, lansman sırasında operasyonel güvenlik gerekçesiyle <strong>Cape of Good Hope routing</strong> uygulayacağını açıkladı. Bu karar, Kızıldeniz'deki saldırılar ve sigorta riskleri nedeniyle <strong>Suez Network</strong> geçişini askıya alan en büyük filo hareketlerinden birini oluşturdu.</p>
+<p style="text-align: justify"><strong>Hub-and-spoke</strong> yapı, Gemini sisteminin temelini oluşturuyor. Bu model, daha az ana liman üzerinden yoğun aktarma gerektiriyor. Dolayısıyla Suez'e dönüş yalnızca bir yön değişikliği anlamına gelmiyor;</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">yüzlerce geminin rotalarının yeniden planlanması,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Port Said</strong>, <strong>Jeddah</strong> gibi hub limanlarının yeniden ölçeklendirilmesi,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">feeder bağlantılarının ve depolama kapasitesinin ayarlanması<br>
-gibi kapsamlı bir operasyonel dönüşüm anlamına geliyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">yüzlerce geminin rotasını yeniden planlamayı,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Port Said</strong>, <strong>Jeddah</strong> gibi hub limanlarını yeniden ölçeklendirmeyi,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">feeder bağlantılarını ve depolama kapasitesini ayarlamayı<br>
+kapsayan geniş bir operasyonel dönüşümü ifade ediyor.</p></li>
 </ul>
-<p style="text-align: justify">Bu nedenle Gemini için dönüş kararının <strong>“all-in or all-out”</strong> biçiminde olması gerekiyor. Parça parça geçiş, ağ yapısını bozuyor ve vaat edilen <strong>%90 schedule reliability</strong> hedefine doğrudan zarar veriyor.</p>
+<p style="text-align: justify">Bu nedenle Gemini için dönüş kararı <strong>“all-in or all-out”</strong> biçiminde şekillenmek zorunda kalıyor. Parça parça geçiş, ağ yapısını bozuyor ve vaat edilen <strong>%90 schedule reliability</strong> hedefine doğrudan zarar veriyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Maersk vs. CMA CGM: İki Farklı Risk İştahı</strong></h4>
-<p style="text-align: justify">Sektörde iki farklı yaklaşım net biçimde ayrışıyor:</p>
+<p style="text-align: justify">Sektör, iki farklı yaklaşım etrafında net biçimde ayrıştı:</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>• CMA CGM – Agresif Strateji</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">Kızıldeniz’den sınırlı sayıda gemi geçiriyor.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Gerektiğinde <strong>naval escort</strong> kullanıyor.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Pazar payını hızlı geri kazanma odaklı ilerliyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">CMA CGM, Kızıldeniz'den sınırlı sayıda gemi geçiriyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Şirket, gerektiğinde <strong>naval escort</strong> kullanıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Strateji, pazar payını hızlı geri kazanmayı hedefliyor.</p></li>
 </ul>
 <h5 style="text-align: justify"><strong>• Maersk &amp; Hapag-Lloyd – Conservative Strategy</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">Öncelik <strong>schedule reliability</strong> ve varlık güvenliği.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Tek bir saldırı sonrası yeniden Cape’e dönmek zorunda kalmanın yaratacağı operasyonel kaosu önlemeye çalışıyor.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Bu nedenle “geri dönüyoruz” algısı oluşmasını istememekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">İki şirket, önceliği <strong>schedule reliability</strong> ve varlık güvenliğine veriyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Yöneticiler, tek bir saldırı sonrası yeniden Cape'e dönmek zorunda kalmanın yaratacağı operasyonel kaosu önlemeye çalışıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Bu nedenle firmalar, “geri dönüyoruz” algısının oluşmasını istemiyor.</p></li>
 </ul>
-<p style="text-align: justify">Bu farkı, şirketlerin kurumsal kültürleri ve operasyon modelleri arasındaki farklılık doğuruyor. Gemini'nin ağ yapısı konsolide olduğu için risk toleransı daha düşük kalıyor.</p>
+<p style="text-align: justify">Şirketlerin kurumsal kültür ve operasyon modelleri, bu farkı doğurdu. Gemini'nin ağ yapısı konsolide olduğu için risk toleransı daha düşük kalıyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>2025 Sonu – 2026 Başında Tedarik Zinciri Etkileri</strong></h5>
 <h6 style="text-align: justify"><strong>1. Transit Time Uzun Kalmaya Devam Edecek</strong><br>
 Maersk/Hapag-Lloyd müşterileri, 2026'nın ilk çeyreğine kadar büyük olasılıkla <strong>Cape routing</strong> ile çalışmak zorunda kalacak. Bu rota, Süveyş'e göre 10–14 gün daha uzun sürüyor.</h6>
 <p><br></p>
 <h6 style="text-align: justify"><strong>2. Phantom Capacity Riski</strong><br>
-Gemilerin Suez'e dönmesi hâlinde Orta Doğu ve Kızıldeniz limanlarında ani yoğunluk oluşabilir.<br>
-İki yıl boyunca düşük hacimle çalışan terminaller, tam kapasite dönüşte <strong>bottleneck</strong> yaratabilir.</h6>
+Gemilerin Suez'e dönmesi hâlinde Orta Doğu ve Kızıldeniz limanları ani yoğunluk yaşayabilir.<br>
+İki yıl boyunca düşük hacimle çalışan terminaller, tam kapasite dönüşünde <strong>bottleneck</strong> yaratabilir.</h6>
 <p><br></p>
 <h6 style="text-align: justify"><strong>3. Spot Rate Dalgalanması</strong><br>
-SCA'nın erken açıklaması, piyasada kısa süreli bir navlun düşüşüne yol açtı.<br>
-Maersk'in düzeltme mesajının ardından kapasite hâlâ “kısa rota dışında” kaldığından, fiyatların yeniden yukarı yönlü hareket edeceği öngörülüyor.</h6>
+SCA'nın erken açıklaması, piyasada kısa süreli bir navlun düşüşünü tetikledi.<br>
+Maersk'in düzeltme mesajının ardından kapasite hâlâ “kısa rota dışında” kaldığı için analistler, fiyatların yeniden yukarı yönlü hareket edeceğini öngörüyor.</h6>
 <p><br></p>
 <h5 style="text-align: justify"><strong>“Steps Toward” Ne Demek?</strong></h5>
-<p style="text-align: justify">Maersk'in son açıklamalarında yer alan <strong>“steps toward return”</strong> ifadesi, kamuoyunda yanlış anlaşılıyor. Bu ifade <strong>operasyonel hazırlık</strong>, yani:</p>
+<p style="text-align: justify">Kamuoyu, Maersk'in son açıklamalarındaki <strong>“steps toward return”</strong> ifadesini yanlış yorumluyor. Şirket, bu ifadeyle <strong>operasyonel hazırlık</strong> sürecini, yani:</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">hub liman denetimleri,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">güvenlik protokollerinin güncellenmesi,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">sigorta gerekliliklerinin yeniden değerlendirilmesi,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">rotasyon optimizasyonu<br>
-gibi adımları ifade ediyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">hub liman denetimlerini,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">güvenlik protokollerinin güncellenmesini,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">sigorta gerekliliklerinin yeniden değerlendirilmesini,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">rotasyon optimizasyonunu<br>
+kapsayan adımları kastediyor.</p></li>
 </ul>
 <p style="text-align: justify"><strong>Bu ifade, bir sailing schedule anlamına gelmiyor.</strong><br>
-Maersk hâlâ “start sailing” kararı vermiş değil.</p>
+Maersk, hâlâ “start sailing” kararı vermedi.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Önemli Notlar:</strong></h4>
 <ul>
