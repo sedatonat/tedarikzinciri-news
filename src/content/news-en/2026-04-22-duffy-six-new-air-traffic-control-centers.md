@@ -27,9 +27,6 @@ tags: ['Sean Duffy', 'FAA', 'hava trafik kontrol', 'Newark', 'Philadelphia', 'Tr
 3. <strong>Newark</strong>/<strong>Philadelphia TRACON</strong> experienced 90-second radar/radio loss.<br>
 4. <strong>Delta</strong>, <strong>United</strong>, <strong>American</strong>, <strong>Southwest</strong>, and <strong>JetBlue</strong> CEOs on stage offering support.<br>
 5. <strong>FAA</strong> operating with ~3,000 controller vacancies while managing 45,000 daily flights.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41750-duffy-pitches-six-new-air-traffic-control-centers-after-mishaps"><u>https://www.supplychainbrain.com/articles/41750-duffy-pitches-six-new-air-traffic-control-centers-after-mishaps</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free through this link.</p>

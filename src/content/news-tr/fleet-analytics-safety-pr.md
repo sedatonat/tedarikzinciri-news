@@ -30,9 +30,6 @@ tags:
 3. AI route optimization yakıt maliyetini düşürüyordir.<br>
 4. Usage-based insurance riskle uyumlu fiyat sunuyordır.<br>
 5. Gizlilik ilkeleri program kabulünü güçlendiriyordir.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41872-proven-ways-to-increase-fleet-safety-and-profitability-with-analytics"><u>https://www.supplychainbrain.com/articles/41872-proven-ways-to-increase-fleet-safety-and-profitability-with-analytics</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

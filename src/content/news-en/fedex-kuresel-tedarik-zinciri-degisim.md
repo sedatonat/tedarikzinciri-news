@@ -84,7 +84,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/42878-global-supply-chain-shocks-to-cause-lasting-impacts-fedex-says"><u>https://www.supplychainbrain.com/articles/42878-global-supply-chain-shocks-to-cause-lasting-impacts-fedex-says</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

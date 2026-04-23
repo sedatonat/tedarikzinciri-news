@@ -28,4 +28,3 @@ tags:
   <li><p>Gemi, kreyn bomunun kaldırılması sonrası rıhtımdan ayrıldı.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.denizhaber.com/evyapi-yikan-konteyner-gemisi-sonundarihtimdan-ayrilabildi"><u>https://www.denizhaber.com/evyapi-yikan-konteyner-gemisi-sonundarihtimdan-ayrilabildi</u></a></p>

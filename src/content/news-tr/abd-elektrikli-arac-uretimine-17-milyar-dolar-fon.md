@@ -34,4 +34,3 @@ tags:
   <li><p>Program, ABD'nin küresel elektrikli araç pazarında lider olmasını amaçlıyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.thescxchange.com/articles/10582-white-house-boosts-electric-vehicle-manufacturing-with-17-billion-in-grants"><u>https://www.thescxchange.com/articles/10582-white-house-boosts-electric-vehicle-manufacturing-with-17-billion-in-grants</u></a></p>

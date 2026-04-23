@@ -40,7 +40,6 @@ tags:
   <li><p>DMCO verim ve performansı artırır.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42172-tsmc-races-to-meet-soaring-chip-demand-as-profits-surge" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/42172-tsmc-races-to-meet-soaring-chip-demand-as-profits-surge</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

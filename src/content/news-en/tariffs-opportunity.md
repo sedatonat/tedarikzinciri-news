@@ -34,10 +34,6 @@ tags:
 - Tariff analytics improve decision quality at the product level.<br>
 - Reshoring/nearshoring reduce risk and timelines.<br>
 - Tariffs become catalysts for flexibility and innovation.</p>
-<p><br>
----<br>
-<strong>News Link: </strong><a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42322-how-middle-market-companies-can-turn-tariffs-into-opportunity-to-build-resilient-supply-chains"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42322-how-middle-market-companies-can-turn-tariffs-into-opportunity-to-build-resilient-supply-chains</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

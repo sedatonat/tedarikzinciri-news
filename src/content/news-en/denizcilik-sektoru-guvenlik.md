@@ -41,7 +41,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/shipping-industry-adopts-tougher-safety-standards-to-snuff-out-charcoal-fires-on-ships/"><u>https://gcaptain.com/shipping-industry-adopts-tougher-safety-standards-to-snuff-out-charcoal-fires-on-ships/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

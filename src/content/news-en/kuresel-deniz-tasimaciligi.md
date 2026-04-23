@@ -44,7 +44,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://container-news.com/geopolitics-tariffs-and-war-result-in-rates-bloodbath/"><u>https://container-news.com/geopolitics-tariffs-and-war-result-in-rates-bloodbath/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Procure ERP?" has been published on Google Play Books.</strong></p>

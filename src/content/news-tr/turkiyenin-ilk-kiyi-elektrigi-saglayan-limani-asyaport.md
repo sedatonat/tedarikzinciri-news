@@ -40,7 +40,6 @@ tags:
   <li><p>Asyaport, tamamen elektrikli vinç operasyonlarıyla çevresel etkiyi azaltmayı sürdürüyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/asyaport-first-to-offer-ops-in-turkiye/"><u>https://www.porttechnology.org/news/asyaport-first-to-offer-ops-in-turkiye/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

@@ -27,10 +27,6 @@ tags:
 3. Serialization veri bütünlüğünü korur.<br>
 4. Gecikmeler ortadan kaldırılmıştır.<br>
 5. İzlenebilirlik risk yönetiminde kritiktir.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42314-pharmaceutical-manufacturer-mitigates-risk-of-revenue-loss-by-switching-to-systech-unitrace-to-resolve-3-month-shipping-delays"><u>https://www.supplychainbrain.com/articles/42314-pharmaceutical-manufacturer-mitigates-risk-of-revenue-loss-by-switching-to-systech-unitrace-to-resolve-3-month-shipping-delays</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

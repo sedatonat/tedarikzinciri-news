@@ -36,7 +36,6 @@ tags:
   <li><p>Yeni bir gantry vincin maliyeti yaklaşık NT$300 milyon (9,3 milyon dolar).</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/container-crane-collapses-at-keelung-port/"><u>https://www.porttechnology.org/news/container-crane-collapses-at-keelung-port/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

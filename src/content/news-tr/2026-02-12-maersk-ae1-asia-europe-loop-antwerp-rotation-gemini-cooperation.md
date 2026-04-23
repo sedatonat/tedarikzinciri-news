@@ -31,9 +31,6 @@ tags:
 3. İlk batı yönlü sefer Hamburg Express tarafından 6 Mart 2026'da Şangay'dan başlatılacak.<br>
 4. Anvers'in eklenmesi Belçika–Hollanda eksenindeki yükleyicilere yeni hinterland bağlantıları sunuyor.<br>
 5. Hamle Gemini Cooperation'ın schedule reliability hedefini destekliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/maersk-adds-antwerp-to-ae1-asia-europe-loop/"><u>https://www.porttechnology.org/maersk-adds-antwerp-to-ae1-asia-europe-loop/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

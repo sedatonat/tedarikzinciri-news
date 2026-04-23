@@ -34,4 +34,3 @@ tags:
   <li><p>Olay, 26 Mart'ta meydana geldi ve köprü çökmesinin ardından bir aydan fazla süre geçti.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/fifth-body-recovered-from-baltimore-bridge-collapse/"><u>https://www.porttechnology.org/news/fifth-body-recovered-from-baltimore-bridge-collapse/</u></a></p>

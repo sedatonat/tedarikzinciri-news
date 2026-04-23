@@ -47,7 +47,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://container-news.com/maersk-revises-reefer-surcharge-from-india-to-iraq/"><u>https://container-news.com/maersk-revises-reefer-surcharge-from-india-to-iraq/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>

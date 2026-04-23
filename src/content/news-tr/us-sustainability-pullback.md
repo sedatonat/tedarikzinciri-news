@@ -27,10 +27,6 @@ tags:
 3. EV fleets ve yakıt programları yavaşlamaktadır.<br>
 4. ESG compliance gündemi canlı tutuyordır.<br>
 5. Regülasyonlar sürdürülebilirliği yeniden hızlandıracaktır.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42619-survey-us-logistics-firms-pull-back-on-sustainability"><u>https://www.supplychainbrain.com/articles/42619-survey-us-logistics-firms-pull-back-on-sustainability</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

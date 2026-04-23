@@ -26,10 +26,6 @@ tags:
 3. AI scheduling operasyon verimliliği sağlıyordır.<br>
 4. Reform, kanalın rekabet gücünü artırıyordır.<br>
 5. Küresel deniz taşımacılığında öngörülebilirlik güçleniyordir.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42604-panama-canal-offers-shippers-more-flexible-booking-system"><u>https://www.supplychainbrain.com/articles/42604-panama-canal-offers-shippers-more-flexible-booking-system</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

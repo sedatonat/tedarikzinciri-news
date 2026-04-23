@@ -50,7 +50,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://seanews.ru/en/2025/01/13/container-traffic-via-caspian-basin-ports-in-november-2024-up-2-fold/"><u>https://seanews.ru/en/2025/01/13/container-traffic-via-caspian-basin-ports-in-november-2024-up-2-fold/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Acquire ERP?" Has Been Published on Google Play Books.</strong></p>

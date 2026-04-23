@@ -41,7 +41,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/shipping-industry-adopts-tougher-safety-standards-to-snuff-out-charcoal-fires-on-ships/"><u>https://gcaptain.com/shipping-industry-adopts-tougher-safety-standards-to-snuff-out-charcoal-fires-on-ships/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

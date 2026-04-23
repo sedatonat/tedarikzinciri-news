@@ -51,7 +51,6 @@ tags:
 <p style="text-align: justify">Regular monitoring of these metrics helps supply chain and logistics professionals make more informed decisions and improve operational efficiency.</p>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/railroad-speed-dwell-carsonline-bnsf-csx-up-cn-cp-kcs-ns/588233/"><u>https://www.supplychaindive.com/news/railroad-speed-dwell-carsonline-bnsf-csx-up-cn-cp-kcs-ns/588233/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

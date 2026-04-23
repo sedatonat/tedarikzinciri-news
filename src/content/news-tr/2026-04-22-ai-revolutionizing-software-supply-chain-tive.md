@@ -36,9 +36,6 @@ tags:
 3. Kazanma için üç yol: özel veri; fiziksel ürün; doğrudan müşteri ilişkisi.<br>
 4. Soğutucu konteyner sıcaklık alarmı; ajansal <strong>AI</strong>&rsquo;nın somut lojistik uygulaması oluyor.<br>
 5. İnsan; istisnalarda kalıyor olacak; rutin kararlar <strong>AI</strong>&rsquo;ya devrediliyor olunacak.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43859-watch-how-is-ai-revolutionizing-software-in-the-supply-chain"><u>https://www.supplychainbrain.com/articles/43859-watch-how-is-ai-revolutionizing-software-in-the-supply-chain</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -63,7 +63,6 @@ The union contends that if flight cancellations and passenger disruptions occur,
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/42951-canadian-airline-says-it-will-suspend-flights-in-response-to-strike-threat"><u>https://www.supplychainbrain.com/articles/42951-canadian-airline-says-it-will-suspend-flights-in-response-to-strike-threat</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

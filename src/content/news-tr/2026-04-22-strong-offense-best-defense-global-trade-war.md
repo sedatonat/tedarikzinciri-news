@@ -35,9 +35,6 @@ tags:
 3. <strong>tariff engineering</strong>; <strong>FTZ</strong>; <strong>FTA</strong> optimizasyonu; ana proaktif araçlar oluyor.<br>
 4. <strong>Section 232</strong>; <strong>Section 301</strong>; <strong>IEEPA</strong>; ana ticaret yetki yasaları oluyor.<br>
 5. <strong>USTR</strong>; <strong>Commerce</strong>; <strong>USITC</strong>; ana federal otoriteler oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41530-how-a-strong-offense-is-the-best-defense-in-a-global-trade-war"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41530-how-a-strong-offense-is-the-best-defense-in-a-global-trade-war</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

@@ -50,7 +50,6 @@ tags:
 <p style="text-align: justify">Bu metriklerin düzenli takibi, tedarik zinciri ve lojistik profesyonellerinin daha bilinçli kararlar almasına ve operasyonel verimliliği artırmasına yardımcı oluyor.</p>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/railroad-speed-dwell-carsonline-bnsf-csx-up-cn-cp-kcs-ns/588233/"><u>https://www.supplychaindive.com/news/railroad-speed-dwell-carsonline-bnsf-csx-up-cn-cp-kcs-ns/588233/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

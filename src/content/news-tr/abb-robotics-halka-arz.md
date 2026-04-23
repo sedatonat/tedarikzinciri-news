@@ -37,7 +37,6 @@ tags:
   <li><p>Pazar odaklı inovasyon ivmelenebilir.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41579-abb-to-spin-off-robotics-unit-for-2026-stock-market-listing"><u>https://www.supplychainbrain.com/articles/41579-abb-to-spin-off-robotics-unit-for-2026-stock-market-listing</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

@@ -28,9 +28,6 @@ tags: ['Rusya', 'Trump', 'tarife', 'yaptırımlar', 'Karoline Leavitt', 'Ukrayna
 3. <strong>Cuba</strong>, <strong>Belarus</strong>, and <strong>North Korea</strong> are excluded for the same reason.<br>
 4. U.S.-<strong>Russian</strong> trade has fallen from $35 billion in 2021 to $5 billion.<br>
 5. <strong>Uranium</strong>, <strong>palladium</strong>, fertilizers, and titanium are principal strategic dependencies.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41480-russia-notably-absent-from-trumps-tariff-list"><u>https://www.supplychainbrain.com/articles/41480-russia-notably-absent-from-trumps-tariff-list</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

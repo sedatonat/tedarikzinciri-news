@@ -47,7 +47,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/pickle-robot-artificial-intelligence-truck-unloading-raises-50-million"><u>https://www.supplychain247.com/article/pickle-robot-artificial-intelligence-truck-unloading-raises-50-million</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>

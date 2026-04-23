@@ -43,7 +43,6 @@ tags:
   <li><p>Spec verisi ve LCA karar kalitesini yükseltiyor.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41436-cutting-costs-and-carbon-why-retailers-are-rethinking-their-boxes"><u>https://www.supplychainbrain.com/articles/41436-cutting-costs-and-carbon-why-retailers-are-rethinking-their-boxes</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

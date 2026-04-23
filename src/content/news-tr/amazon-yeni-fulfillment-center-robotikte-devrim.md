@@ -46,7 +46,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.scdigest.com/ontarget/24-10-22_amazon_new_fc_design_robots.php?cid=21625"><u>https://www.scdigest.com/ontarget/24-10-22_amazon_new_fc_design_robots.php?cid=21625</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

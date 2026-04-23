@@ -27,9 +27,6 @@ tags: ['lojistik', 'inovasyon', 'araştırma parkı', 'yetenek', 'ekosistem', 's
 3. Talent pools, technology transfer, and capital access are primary benefits.<br>
 4. <strong>SBIR</strong>, <strong>STTR</strong>, <strong>NSF I-Corps</strong>, and <strong>DARPA</strong> are leading federal innovation programs.<br>
 5. <strong>MIT CTL</strong>, <strong>Georgia Tech SCL</strong>, and <strong>Penn State CSCR</strong> are leading academic supply chain centers.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42480-why-logistics-companies-should-site-near-research-and-innovation-centers"><u>https://www.supplychainbrain.com/articles/42480-why-logistics-companies-should-site-near-research-and-innovation-centers</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

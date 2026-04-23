@@ -27,10 +27,6 @@ tags:
 3. Vendor risk yönetimi sertleşmektedir.<br>
 4. Zero-trust ve XDR yatırımları artıyordır.<br>
 5. Perakende için cyber resilience kritik oluyordır.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41829-marks-and-spencer-expects-cyberattack-to-cost-300-million"><u>https://www.supplychainbrain.com/articles/41829-marks-and-spencer-expects-cyberattack-to-cost-300-million</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -59,7 +59,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/port-long-beach-opens-largest-charging-depot-zero-emission-trucks"><u>https://www.supplychain247.com/article/port-long-beach-opens-largest-charging-depot-zero-emission-trucks</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

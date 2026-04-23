@@ -60,7 +60,6 @@ Maersk Shekou’nun iç limana girişinde:</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/bridge-team-breakdown-how-communication-failures-led-to-containerships-collision-with-tall-ship/"><u>https://gcaptain.com/bridge-team-breakdown-how-communication-failures-led-to-containerships-collision-with-tall-ship/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

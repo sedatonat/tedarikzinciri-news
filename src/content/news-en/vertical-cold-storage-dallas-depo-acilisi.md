@@ -30,4 +30,3 @@ tags:
   <li><p><strong>Company Strategy:</strong> The company opened a second facility as part of its expansion strategy.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10710-vertical-cold-storage-opens-second-dallas-temperature-controlled-dc"><u>https://www.thescxchange.com/articles/10710-vertical-cold-storage-opens-second-dallas-temperature-controlled-dc</u></a></p>

@@ -30,9 +30,6 @@ tags:
 3. Bonded warehouse zonları operasyonel esneklik sağlıyor.<br>
 4. ZATCA, gümrük ve lojistik prosedürlerini entegre ediyor.<br>
 5. Mawani altyapısı tam kapasitede kullanıma hazır.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/al-jasser-unveils-new-corridors-linking-gcc-and-red-sea-ports/"><u>https://www.porttechnology.org/al-jasser-unveils-new-corridors-linking-gcc-and-red-sea-ports/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

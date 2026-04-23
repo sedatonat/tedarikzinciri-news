@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu dönüşüm; <strong>UPS</strong>, <strong>FedEx</strong>, <strong>DHL</strong> ve özellikle <strong>USPS</strong> gibi son mil oyuncularının veri yönetimi, beyanname kalitesi ve gümrük entegrasyonu yatırımlarını hızlandırıyor. <strong>Shein</strong>, <strong>Temu</strong> ve <strong>AliExpress</strong> başta olmak üzere düşük değerli e-ticaret platformlarının fiyatlama modelleri, depolama stratejileri ve <strong>section 321</strong> sonrası ithalat akışlarını yeniden yapılandırması zorunlu oluyordır. Yeni dönem; uyumlu taşıyıcı ile uyumsuz taşıyıcı arasındaki rekabet farkını belirgin şekilde artırıyor &mdash; bu durum sektörde konsolidasyonu hızlandırıyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43041-end-of-de-minimis-strains-delivery-companies-but-cbp-says-its-coping"><u>https://www.supplychainbrain.com/articles/43041-end-of-de-minimis-strains-delivery-companies-but-cbp-says-its-coping</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

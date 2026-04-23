@@ -29,9 +29,6 @@ tags:
 <p style="text-align: justify">Crews have been asked through intermediaries for staff, cargo and voyage details &mdash; and in some cases for a fee &mdash; though efforts have not been systematic. A toll and promises of safe passage raise complicated questions for the shipping industry, eager to rescue crews and cargoes stuck in the Persian Gulf &mdash; but reluctant to face sanctions and security risks. Freedom of navigation through vital stretches like this one is typically guaranteed by international law.</p>
 <p><br></p>
 <p style="text-align: justify">"Ultimately, it's a question of whether you will trust <strong>Iran</strong> on this," said <strong>Amanda Bjorn</strong>, head of claims at a marine insurance unit. From a supply chain perspective, this law represents a significant structural shift for this critical chokepoint, through which roughly 20-25% of global oil trade passes. For refineries in India, China and <strong>Japan</strong>, an additional $2 million transit fee tacked onto crude prices reshapes <em>delivered cost</em> calculations. For tanker owners, navigating under disguised flags combined with <strong>P&amp;I</strong> insurance coverage uncertainty fundamentally alters the operational risk profile.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43739-iran-is-drafting-law-to-introduce-tolls-for-hormuz-transit"><u>https://www.supplychainbrain.com/articles/43739-iran-is-drafting-law-to-introduce-tolls-for-hormuz-transit</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

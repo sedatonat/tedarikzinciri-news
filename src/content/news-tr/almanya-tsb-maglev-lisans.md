@@ -64,7 +64,6 @@ Bu açıklama, şirketin son on yıldır modüler maglev hatları için sürdür
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/technology/2025/12/08/germany-issues-first-magnetic-levitation-train-license-in-europe/"><u>https://www.railfreight.com/technology/2025/12/08/germany-issues-first-magnetic-levitation-train-license-in-europe/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

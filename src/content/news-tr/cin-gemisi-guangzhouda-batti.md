@@ -58,7 +58,6 @@ Bölge, <strong>Çin, Hong Kong, Singapur ve Filipinler</strong> arasında gerç
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/chinese-ship-sinks-off-guangzhou-waters-with-two-crew-missing/"><u>https://gcaptain.com/chinese-ship-sinks-off-guangzhou-waters-with-two-crew-missing/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

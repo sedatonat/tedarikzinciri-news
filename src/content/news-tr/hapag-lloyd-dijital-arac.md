@@ -39,7 +39,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/hapag-lloyd-ai-supplier-visibility-craft/736873/"><u>https://www.supplychaindive.com/news/hapag-lloyd-ai-supplier-visibility-craft/736873/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

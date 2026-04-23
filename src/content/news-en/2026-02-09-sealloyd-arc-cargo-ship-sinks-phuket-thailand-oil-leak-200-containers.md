@@ -23,9 +23,6 @@ tags: ["Sealloyd Arc", "Tayland", "Phuket", "Andaman Denizi", "kargo gemisi batm
 3. All 16 crew members were safely rescued.<br>
 4. A multi-agency response is being led by the Royal Thai Navy.<br>
 5. The oil leak is being monitored by environmental agencies and the process to retrieve sunken containers has begun.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/cargo-ship-sinks-thailand-oil-leak/"><u>https://www.porttechnology.org/cargo-ship-sinks-thailand-oil-leak/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

@@ -36,9 +36,6 @@ tags:
 3. Çoğu şirket; öngörücüden generatif <strong>AI</strong>&rsquo;ya geçiyor; ajansala değil.<br>
 4. Kötü veri; ajansal <strong>AI</strong>&rsquo;nın tam faydasının görülüyor olunmasını engelliyor.<br>
 5. <strong>AI</strong>; eğitim sürelerini 30-45 günden 1 güne kadar indiriyor olabiliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43872-watch-modernizing-and-automating-the-warehouse-with-the-coming-of-agentic-ai"><u>https://www.supplychainbrain.com/articles/43872-watch-modernizing-and-automating-the-warehouse-with-the-coming-of-agentic-ai</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

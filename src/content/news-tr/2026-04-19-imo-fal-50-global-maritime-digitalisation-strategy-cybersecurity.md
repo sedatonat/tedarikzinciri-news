@@ -30,9 +30,6 @@ tags:
 3. Strateji birlikte çalışabilirlik, veri paylaşımı ve yönetişimi ön plana çıkarıyor.<br>
 4. 2027'deki 35. IMO Asamblesi öncesinde Hukuk, Deniz Güvenliği ve Çevre Komiteleri inceleyecek.<br>
 5. FAL Konvansiyonu eki değişiklikleriyle denizcilik tek pencereleri için siber güvenlik zorunlu hale geldi.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/imo-approves-global-maritime-digitalisation-strategy/"><u>https://www.porttechnology.org/imo-approves-global-maritime-digitalisation-strategy/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

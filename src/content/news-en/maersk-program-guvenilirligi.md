@@ -40,7 +40,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/maersk-tops-schedule-reliability-in-november-2024/"><u>https://www.porttechnology.org/news/maersk-tops-schedule-reliability-in-november-2024/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book has been published on Google Play Books.</strong></p>

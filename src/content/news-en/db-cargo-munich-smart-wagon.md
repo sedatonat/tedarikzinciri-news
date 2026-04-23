@@ -86,7 +86,6 @@ Imaging and acoustic data collected from the underside are combined with data fr
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/technology/2025/12/10/db-cargo-tests-underfloor-sensors-for-improved-wagon-inspections/"><u>https://www.railfreight.com/technology/2025/12/10/db-cargo-tests-underfloor-sensors-for-improved-wagon-inspections/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

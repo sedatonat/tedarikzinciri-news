@@ -43,7 +43,6 @@ To ensure program sustainability, organizations institutionalize the process thr
   <li><p>Contracts include decarbonization clauses.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41671-three-steps-to-improving-supply-chain-decarbonization-strategies"><u>https://www.supplychainbrain.com/articles/41671-three-steps-to-improving-supply-chain-decarbonization-strategies</u></a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP?</strong> Our book has been published on Google Play Books.</p>

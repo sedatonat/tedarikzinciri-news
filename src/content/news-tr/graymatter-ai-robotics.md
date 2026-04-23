@@ -80,7 +80,6 @@ Bu merkez, yalnızca bir Ar-Ge ve üretim üssü değil; aynı zamanda <strong>m
   <li style="text-align: justify"><p style="text-align: justify">Yeni merkez, <strong>ABD üretiminde yapay zekâ temelli dönüşümün</strong> merkez üssü olmayı hedefliyor.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/graymatter_robotics_unveils_100000_square_foot_ai_robotics_innovation_center_in_california"><u>https://www.supplychain247.com/article/graymatter_robotics_unveils_100000_square_foot_ai_robotics_innovation_center_in_california</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

@@ -42,7 +42,6 @@ tags:
   <li><p>Uyum, sigorta şartlarını etkiliyordir.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42222-new-us-coast-guard-cybersecurity-rule-enters-into-force"><u>https://www.supplychainbrain.com/articles/42222-new-us-coast-guard-cybersecurity-rule-enters-into-force</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

@@ -48,7 +48,6 @@ tags:
 <p><br></p>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/northstandard-eases-fueleu-compliance-with-bettersea-platform-offer/"><u>https://gcaptain.com/northstandard-eases-fueleu-compliance-with-bettersea-platform-offer/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Acquire an ERP?" has been published on Google Play Books.</strong></p>

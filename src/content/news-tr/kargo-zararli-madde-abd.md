@@ -87,7 +87,6 @@ maruz kalıyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/penalties-for-pests-found-in-project-cargo-packing-add-to-shipper-woes-6112200"><u>https://www.joc.com/article/penalties-for-pests-found-in-project-cargo-packing-add-to-shipper-woes-6112200</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

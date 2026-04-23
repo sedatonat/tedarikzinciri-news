@@ -63,7 +63,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/policy/2025/12/08/weights-and-dimensions-directive-to-have-damaging-impact-on-eu-rail-freight/"><u>https://www.railfreight.com/policy/2025/12/08/weights-and-dimensions-directive-to-have-damaging-impact-on-eu-rail-freight/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -41,4 +41,3 @@ tags:
   <li><p>Savunma, Uzay ve Güvenlik ile Boeing Global Hizmetler bölümlerinde küçük değişiklikler yapılacak.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/39236-boeing-to-tie-more-worker-bonuses-to-safety-after-series-of-lapses"><u>https://www.supplychainbrain.com/articles/39236-boeing-to-tie-more-worker-bonuses-to-safety-after-series-of-lapses</u></a></p>

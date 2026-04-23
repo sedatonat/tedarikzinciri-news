@@ -35,4 +35,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10321-fourkites-joins-freight-industry-consortium-ssc"><u>https://www.thescxchange.com/articles/10321-fourkites-joins-freight-industry-consortium-ssc</u></a></p>

@@ -48,7 +48,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/freightos-founder-to-step-down-as-ceo-as-company-moves-into-next-phase-6137072"><u>https://www.joc.com/article/freightos-founder-to-step-down-as-ceo-as-company-moves-into-next-phase-6137072</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

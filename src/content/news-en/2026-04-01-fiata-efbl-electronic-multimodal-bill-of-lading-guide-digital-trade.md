@@ -22,9 +22,6 @@ tags: ["FIATA", "eFBL", "Electronic FIATA Multimodal Bill of Lading", "digital t
 3. The eFBL is the digital version of the FBL in use since 1968.<br>
 4. The FBL is structured to align with rules developed by UNCTAD and the ICC.<br>
 5. The digital bill of lading eliminates paperwork errors and shortens processing times.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/fiata-issues-guide-for-electronic-bill-of-lading/"><u>https://www.porttechnology.org/fiata-issues-guide-for-electronic-bill-of-lading/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

@@ -62,7 +62,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychaindive.com/news/us-china-trade-truce-donald-trump-xi-jinping-apec/804233/"><u>https://www.supplychaindive.com/news/us-china-trade-truce-donald-trump-xi-jinping-apec/804233/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -51,7 +51,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong>https://www.porttechnology.org/news/fourkites-launches-intelligent-control-tower-for-advanced-supply-chain-automation/</p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

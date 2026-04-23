@@ -46,7 +46,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/amazon-inbound-fulfillment-q3-2024-earnings/731523/"><u>https://www.supplychaindive.com/news/amazon-inbound-fulfillment-q3-2024-earnings/731523/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

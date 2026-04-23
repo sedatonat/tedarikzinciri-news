@@ -35,4 +35,3 @@ tags:
   <li><p>Şirketlerin, malzemelerin nerede üretildiğini, dağıtıldığını ve depolandığını proaktif bir şekilde anlamaları gerekiyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10062-taiwans-earthquake-heightens-need-for-antifragile-global-supply-chains"><u>https://www.thescxchange.com/articles/10062-taiwans-earthquake-heightens-need-for-antifragile-global-supply-chains</u></a></p>

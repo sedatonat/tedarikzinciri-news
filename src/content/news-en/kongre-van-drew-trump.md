@@ -61,7 +61,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/congressman-van-drew-trump-team-up-to-sink-bidens-offshore-wind-ambitions/"><u>https://gcaptain.com/congressman-van-drew-trump-team-up-to-sink-bidens-offshore-wind-ambitions/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Get ERP?" has been published on Google Play Books.</strong></p>

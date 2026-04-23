@@ -47,7 +47,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://splash247.com/shanghai-box-volume-crosses-50m-teu-mark/"><u>https://splash247.com/shanghai-box-volume-crosses-50m-teu-mark/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book has been published on Google Play Books.</strong></p>

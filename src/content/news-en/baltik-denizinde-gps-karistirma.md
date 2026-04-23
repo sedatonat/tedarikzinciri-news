@@ -42,7 +42,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://splash247.com/polish-study-suggests-ships-are-conducting-gps-jamming-operations-in-the-baltic/"><u>https://splash247.com/polish-study-suggests-ships-are-conducting-gps-jamming-operations-in-the-baltic/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book is Published on Google Play Books.</strong></p>

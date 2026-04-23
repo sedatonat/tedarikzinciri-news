@@ -43,7 +43,6 @@ tags:
   <li><p>Spec data and LCA elevate decision quality.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41436-cutting-costs-and-carbon-why-retailers-are-rethinking-their-boxes"><u>https://www.supplychainbrain.com/articles/41436-cutting-costs-and-carbon-why-retailers-are-rethinking-their-boxes</u></a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP?</strong> Our book has been published on Google Play Books.</p>

@@ -22,9 +22,6 @@ tags: ["UPS", "RFID", "package tracking", "U.S. network", "automation", "visibil
 3. Shipment accuracy improves and error rates drop.<br>
 4. Rival FedEx is pursuing a similar RFID strategy.<br>
 5. The expansion is expected to extend to international operations.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychain247.com/article/ups-rfid-tracking-rollout-us-network"><u>https://www.supplychain247.com/article/ups-rfid-tracking-rollout-us-network</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

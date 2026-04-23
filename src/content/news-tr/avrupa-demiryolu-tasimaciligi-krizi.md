@@ -72,7 +72,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.railfreight.com/in-depth/2025/11/03/is-europe-failing-at-rail-freight/"><u>https://www.railfreight.com/in-depth/2025/11/03/is-europe-failing-at-rail-freight/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

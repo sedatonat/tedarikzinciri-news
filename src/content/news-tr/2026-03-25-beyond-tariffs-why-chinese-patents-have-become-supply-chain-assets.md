@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Sonuç olarak pek çok şirket artık <strong>hibrit tedarik zincirleri</strong> işlediyor. Tedarik zinciri perspektifinden bakıldığında <strong>CNIPA (China National Intellectual Property Administration)</strong> nezdinde yapılıyor olan patent başvuruları; hem teknoloji transferinde hem de yerli ortaklıkta yapısal bir kalkan görevi görüyor. <strong>Apple</strong>, <strong>Tesla</strong>, <strong>BASF</strong> ve <strong>Bosch</strong> gibi oyuncular; Çin patent portföylerini stratejik bir tedarik zinciri varlığı olarak değerlendiriyor. <strong>Trade secret</strong> koruma çerçeveleri ile <strong>WFOE (Wholly Foreign-Owned Enterprise)</strong> yapıları; üretim ortağı seçiminde kritik karar değişkenleri hâline geliyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/43716-beyond-tariffs-why-chinese-patents-have-become-supply-chain-assets"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/43716-beyond-tariffs-why-chinese-patents-have-become-supply-chain-assets</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

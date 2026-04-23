@@ -29,4 +29,3 @@ tags:
 <p><br></p>
 <p>Raporda, siber saldırıların %90'dan fazlasının OEM'lere değil, tedarik zincirindeki diğer kuruluşlara yönelik olduğu ve saldırganların iyi korunan şirketleri hedefliyor zorlandıkları için daha az dikkatli firmaları hedef aldıkları belirtiliyor. Bu durum, Tedarik Zinciri kesintilerinden dolayı OEM'leri de etkiliyor. Sonuç olarak, siber saldırılara karşı sistemleri savunmak, artık sadece bireysel bir şirketi korumakla ilgili değil; tüm tedarik zincirini güçlendirmekle ilgili.</p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainquarterly.com/articles/9261-report-hackers-target-third-party-suppliers-in-automakers-supply-chains"><u>https://www.supplychainquarterly.com/articles/9261-report-hackers-target-third-party-suppliers-in-automakers-supply-chains</u></a></p>

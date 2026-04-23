@@ -50,7 +50,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/ukraine-received-first-us-lng-shipment/"><u>https://gcaptain.com/ukraine-received-first-us-lng-shipment/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

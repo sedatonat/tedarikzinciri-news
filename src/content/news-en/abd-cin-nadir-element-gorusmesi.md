@@ -54,7 +54,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/us-china-talks-sketch-out-rare-earths-tariff-pause-for-trump-and-xi-to-consider/"><u>https://gcaptain.com/us-china-talks-sketch-out-rare-earths-tariff-pause-for-trump-and-xi-to-consider/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

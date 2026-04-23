@@ -83,7 +83,6 @@ The key drivers include:</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/warehouse-demand-2025-tariff-impact-colliers/804591/"><u>https://www.supplychaindive.com/news/warehouse-demand-2025-tariff-impact-colliers/804591/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -40,7 +40,6 @@ tags:
   <li><p>ESG teknoloji katmanı rekabeti güçlendiriyordir.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41635-conceptualizing-esg-focused-technology-in-2025" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/41635-conceptualizing-esg-focused-technology-in-2025</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

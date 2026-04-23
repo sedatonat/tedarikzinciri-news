@@ -44,7 +44,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://warehousinglogisticsinternational.com/smart-bolt-seal-innovation-from-queclink-to-enhance-container-security/"><u>https://warehousinglogisticsinternational.com/smart-bolt-seal-innovation-from-queclink-to-enhance-container-security/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

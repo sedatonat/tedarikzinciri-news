@@ -35,9 +35,6 @@ tags:
 3. <strong>World Bank</strong>; 2025 <strong>Argentina</strong> <strong>GDP</strong> büyümesini %5,5 olarak öngörüyor.<br>
 4. 2025 ilk dört ay ithalatı 24 milyar dolar; %36 yıllık artış oluyor.<br>
 5. <strong>Latin Amerika</strong>&rsquo;daki orta ölçekli üreticiler; Çin ithalatı baskısı ile iflas ediyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41960-argentina-a-new-opportunity-in-latin-americas-industrial-sector"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41960-argentina-a-new-opportunity-in-latin-americas-industrial-sector</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

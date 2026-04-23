@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Talep planlamasında; <strong>SKU</strong> bazlı tahmin sapmalarını gerçek zamanlı tespit ediyor; promosyon ve sezonsallık etkilerini ayrıştırıyor. Üretim icrasında; kapasite çakışmalarını ve malzeme yetersizliklerini erkenden uyarıyor. Satınalmada; tedarikçi performansını ve fiyat sapmalarını izliyor; alternatif kaynak öneriyor. Tedarik zinciri perspektifinden bakıldığında <strong>SAP IBP</strong>, <strong>Kinaxis Maestro</strong>, <strong>o9 Solutions</strong> ve <strong>Blue Yonder</strong> gibi platformların geliştiriyor olduğu yapay zekâ asistanları; planlamacının günlük iş yükünü yapısal olarak yeniden tanımlıyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/43082-ai-as-co-pilot-for-supply-chain-planners"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/43082-ai-as-co-pilot-for-supply-chain-planners</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

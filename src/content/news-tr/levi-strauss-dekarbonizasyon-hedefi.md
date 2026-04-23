@@ -44,7 +44,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/levis-strauss-unveils-first-climate-transition-plan/731217/"><u>https://www.supplychaindive.com/news/levis-strauss-unveils-first-climate-transition-plan/731217/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

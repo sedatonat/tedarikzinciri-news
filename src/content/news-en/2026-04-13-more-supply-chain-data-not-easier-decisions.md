@@ -28,9 +28,6 @@ tags: ['büyük veri', 'öngörücü analitik', 'senaryo modelleme', 'havacılı
 3. <strong>Predictive analytics</strong> and <strong>scenario modeling</strong> transform reactive behavior into proactive foresight.<br>
 4. Clean, consistent, and relevant data shorten decision cycles.<br>
 5. Artificial intelligence does not create value without a connected data foundation.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43841-why-more-supply-chain-data-has-not-made-decisions-easier"><u>https://www.supplychainbrain.com/articles/43841-why-more-supply-chain-data-has-not-made-decisions-easier</u></a><br>
--------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>
 <p><strong>Our Book "How to Procure ERP?" Has Been Published on Google Play Books.</strong></p>
 <p>#What Is ERP?</p>

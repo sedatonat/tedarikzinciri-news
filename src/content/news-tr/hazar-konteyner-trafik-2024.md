@@ -50,7 +50,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://seanews.ru/en/2025/01/13/container-traffic-via-caspian-basin-ports-in-november-2024-up-2-fold/"><u>https://seanews.ru/en/2025/01/13/container-traffic-via-caspian-basin-ports-in-november-2024-up-2-fold/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

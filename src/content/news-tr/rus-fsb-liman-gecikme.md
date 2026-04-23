@@ -66,7 +66,6 @@ gibi ilave kontrollerin yapılması, FSB için artık standart operasyon hâline
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://en.portnews.ru/news/385463/"><u>https://en.portnews.ru/news/385463/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

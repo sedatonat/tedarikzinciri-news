@@ -39,7 +39,6 @@ tags:
   <li><p>Friend-shoring ve OSAT yatırımları hızlanıyor.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41434-us-adds-more-chinese-firms-to-export-ban-list"><u>https://www.supplychainbrain.com/articles/41434-us-adds-more-chinese-firms-to-export-ban-list</u></a></p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>----------</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

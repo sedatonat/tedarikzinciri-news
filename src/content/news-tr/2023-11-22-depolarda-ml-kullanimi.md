@@ -25,4 +25,3 @@ tags:
 <p><br></p>
 <p>Bu araştırma sadece işletmelere maliyetleri azaltma konusunda fayda sağlamakla kalmıyor, aynı zamanda küresel bir sorun olan gıda israfını azaltma üzerinde daha büyük bir etkiye sahip. Talebi arzla daha iyi eşleştirerek şirketler, gıda israfını azaltabilir, tedarik zinciri maliyetlerini düşürebilir, kar marjlarını artırabilir ve müşteriler için alışveriş deneyimini iyileştirebilirler.</p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.scmr.com/article/using-machine-learning-to-smartly-stock-grocery-stores"><u>https://www.scmr.com/article/using-machine-learning-to-smartly-stock-grocery-stores</u></a></p>

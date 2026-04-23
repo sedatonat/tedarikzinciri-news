@@ -86,7 +86,6 @@ Hölzl’e göre aylık veya kullanım bazlı ödeme modelleri, şirketlerin bü
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/us-manufacturers-automation-reshoring-robots-2025"><u>https://www.supplychain247.com/article/us-manufacturers-automation-reshoring-robots-2025</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -39,7 +39,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/41067-triventure-logistics-growth-built-on-wms-innovation"><u>https://www.supplychainbrain.com/articles/41067-triventure-logistics-growth-built-on-wms-innovation</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book has been published on Google Play Books.</strong></p>

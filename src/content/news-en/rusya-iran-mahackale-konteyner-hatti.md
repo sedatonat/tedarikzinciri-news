@@ -57,7 +57,6 @@ and similar investments.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://seanews.ru/en/2025/11/13/en-russia-and-iran-discuss-container-line-between-makhachkala-and-iran/"><u>https://seanews.ru/en/2025/11/13/en-russia-and-iran-discuss-container-line-between-makhachkala-and-iran/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

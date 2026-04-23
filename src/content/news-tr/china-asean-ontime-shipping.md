@@ -78,7 +78,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Pilot uygulamalar <strong>120 milyon USD maliyet tasarrufu</strong> ve <strong>60.000 ton emisyon azaltımı</strong> sağladı.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://en.portnews.ru/news/385750/"><u>https://en.portnews.ru/news/385750/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

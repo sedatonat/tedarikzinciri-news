@@ -35,4 +35,3 @@ tags:
   <li><p>ABD'deki çiçek satışları son beş yılda %48 artarak 8 milyar dolara ulaştı.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10188-annual-flower-shipment-rush-pushes-perishable-logistics-networks-to-new-limits"><u>https://www.thescxchange.com/articles/10188-annual-flower-shipment-rush-pushes-perishable-logistics-networks-to-new-limits</u></a></p>

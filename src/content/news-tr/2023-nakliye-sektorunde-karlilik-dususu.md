@@ -29,4 +29,3 @@ tags:
   <li><p>Boşta geçen mil oranları ve sürücü devir hızları arttı.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10495-atri-most-trucking-operating-margins-were-6-or-lower-in-2023"><u>https://www.thescxchange.com/articles/10495-atri-most-trucking-operating-margins-were-6-or-lower-in-2023</u></a></p>

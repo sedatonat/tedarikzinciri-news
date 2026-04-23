@@ -28,9 +28,6 @@ tags: ['Made4Net', 'ajansal yapay zeka', 'Jeff Jones', 'depo otomasyonu', 'self-
 3. Most companies are transitioning from predictive to generative <strong>AI</strong>, not agentic.<br>
 4. Bad data prevents the full benefit of agentic <strong>AI</strong> from being realized.<br>
 5. <strong>AI</strong> can reduce training periods from 30-45 days to as little as 1 day.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43872-watch-modernizing-and-automating-the-warehouse-with-the-coming-of-agentic-ai"><u>https://www.supplychainbrain.com/articles/43872-watch-modernizing-and-automating-the-warehouse-with-the-coming-of-agentic-ai</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our Book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

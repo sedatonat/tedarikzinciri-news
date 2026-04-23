@@ -36,7 +36,6 @@ tags:
 </ul>
 <p style="text-align: justify"><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://container-news.com/cma-cgm-increases-rates-for-us-shipments/"><u>https://container-news.com/cma-cgm-increases-rates-for-us-shipments/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Get ERP?" Has Been Published on Google Play Books.</strong></p>

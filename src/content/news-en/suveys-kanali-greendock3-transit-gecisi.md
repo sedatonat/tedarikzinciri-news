@@ -66,7 +66,6 @@ The Suez route is <strong>6,000 nautical miles</strong> shorter compared to the 
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://container-news.com/suez-canal-successfully-transits-floating-dock-green-dock-3/"><u>https://container-news.com/suez-canal-successfully-transits-floating-dock-green-dock-3/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

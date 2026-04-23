@@ -39,7 +39,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/41159-volvo-tags-waabi-to-develop-ai-system-for-autonomous-semi-trucks"><u>https://www.supplychainbrain.com/articles/41159-volvo-tags-waabi-to-develop-ai-system-for-autonomous-semi-trucks</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

@@ -27,9 +27,6 @@ tags: ['dayanıklılık', 'risk yönetimi', 'sigorta', 'Jeff Lang', 'tarife', 'e
 3. The most resilient companies are those with the best risk management program.<br>
 4. <strong>Lean</strong> and <strong>JIT</strong>; can become vulnerabilities during disruptions.<br>
 5. Structural flexibility is the foundation of true resilience.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41990-how-to-build-a-disruption-ready-supply-chain"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41990-how-to-build-a-disruption-ready-supply-chain</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Purchase ERP? Our Book is Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via the link.</p>

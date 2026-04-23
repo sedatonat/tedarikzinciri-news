@@ -69,7 +69,6 @@ carry strategic importance.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/business/2025/11/17/ukrainian-railways-acquires-55-much-needed-new-locomotives-from-alstom/"><u>https://www.railfreight.com/business/2025/11/17/ukrainian-railways-acquires-55-much-needed-new-locomotives-from-alstom/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

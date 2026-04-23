@@ -56,7 +56,6 @@ Today, more than 70 percent of global <strong>cobalt processing</strong> capacit
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/42944-us-vows-over-1b-for-congo-critical-minerals-supply-chain"><u>https://www.supplychainbrain.com/articles/42944-us-vows-over-1b-for-congo-critical-minerals-supply-chain</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

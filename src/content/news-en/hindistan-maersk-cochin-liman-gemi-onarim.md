@@ -39,7 +39,6 @@ tags:
 </ul>
 <p style="text-align: justify"><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/maersk-cochin-shipyard-india-partnershp-ship-repair-expansion"><u>https://www.supplychain247.com/article/maersk-cochin-shipyard-india-partnershp-ship-repair-expansion</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Acquire ERP? Our Book is Published on Google Play Books.</strong></p>

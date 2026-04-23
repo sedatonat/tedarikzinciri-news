@@ -75,7 +75,6 @@ Vieth’e göre EPA’27 ile ilgili belirsizliklerin azalması pozitif bir adım
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/preliminary_november_class_8_truck_orders_see_another_month_of_declines"><u>https://www.supplychain247.com/article/preliminary_november_class_8_truck_orders_see_another_month_of_declines</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

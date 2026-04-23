@@ -44,7 +44,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/panama-cancels-ship-registrations-after-uks-shadow-fleet-crackdown/"><u>https://gcaptain.com/panama-cancels-ship-registrations-after-uks-shadow-fleet-crackdown/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

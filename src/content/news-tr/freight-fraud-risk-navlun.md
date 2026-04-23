@@ -34,10 +34,6 @@ tags:
 - AI destekli doğrulama riskli gönderileri tespit ediyordir.<br>
 - TIA/FBI/CargoNet ortak veri sistemleri dolandırıcılık haritası çıkarıyordır.<br>
 - Blockchain kimlik doğrulaması güven zincirini güçlendiriyordir.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42280-freight-fraud-an-increasing-threat-demands-coordinated-prevention"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42280-freight-fraud-an-increasing-threat-demands-coordinated-prevention</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

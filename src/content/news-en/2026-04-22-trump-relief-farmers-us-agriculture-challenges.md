@@ -27,9 +27,6 @@ tags: ['Trump', 'U.S. tarımı', 'Helen Atkinson', 'Farmer Bridge Assistance', '
 3. $11 billion for corn/cotton/peanut/sorghum/soy/wheat/canola; $1 billion for other commodities.<br>
 4. <strong>One Big Beautiful Bill</strong> provides additional support.<br>
 5. <strong>Helen Atkinson</strong>, <strong>SupplyChainBrain Managing Editor</strong>, covers the issue.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42960-trump-pledges-relief-for-farmers-but-us-agriculture-faces-multiple-challenges"><u>https://www.supplychainbrain.com/articles/42960-trump-pledges-relief-for-farmers-but-us-agriculture-faces-multiple-challenges</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book is Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>

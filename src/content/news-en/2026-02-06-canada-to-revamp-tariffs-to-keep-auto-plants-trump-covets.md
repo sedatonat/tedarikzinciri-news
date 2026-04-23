@@ -29,9 +29,6 @@ tags:
 <p style="text-align: justify">Most of Canada's production is shipped to the U.S. &mdash; vehicles and auto parts are among its largest exports. Canada also imports large volumes of cars and trucks from its southern neighbor, the result of an integrated supply chain that has evolved over decades, which <strong>Trump</strong> is now trying to upend. "Our objective is to remove all tariffs in the auto sector to build the strongest North American auto sector," <strong>Carney</strong> said at a car parts plant in the Toronto region.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, this reform package reflects a repositioning of the integrated production model in the North American automotive ecosystem (the USMCA framework). For OEMs including <strong>Stellantis</strong>, <strong>Ford</strong> and <strong>Honda</strong>, this "import credit" mechanism is a critical incentive for preserving production investments in Ontario and Quebec. In the medium term, however, production capacity allocation, supplier parts flows and <em>cross-border</em> logistics networks will need to be fundamentally redesigned.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43432-canada-to-revamp-tariffs-to-keep-auto-plants-trump-covets"><u>https://www.supplychainbrain.com/articles/43432-canada-to-revamp-tariffs-to-keep-auto-plants-trump-covets</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

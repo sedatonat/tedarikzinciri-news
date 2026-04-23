@@ -49,7 +49,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/41359-us-develops-military-plans-for-panama-canal"><u>https://www.supplychainbrain.com/articles/41359-us-develops-military-plans-for-panama-canal</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book is Published on Google Play Books.</strong></p>

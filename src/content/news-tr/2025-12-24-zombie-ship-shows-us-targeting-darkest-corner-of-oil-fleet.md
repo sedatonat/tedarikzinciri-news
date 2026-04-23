@@ -29,9 +29,6 @@ tags:
 <p style="text-align: justify">&laquo;Venezuela; ham petrolün hem menşeini hem de mülkiyetini gizliyor ve dolayısıyla finansal ve ticari kontrolleri atlatıyor dikkat çekici biçimde başarılı oluyor&raquo; ifadelerini kullanıyor <strong>Kpler</strong>'da kıdemli risk ve uyum analisti <strong>Dimitris Ampatzidis</strong>. &laquo;Bu nedenle Washington; saf finansal önlemlerden fiziksel kesintiye doğru giderek daha fazla yöneliyor.&raquo; Tedarik zinciri perspektifinden bakıldığında ABD kuvvetleri; Karayipler'de uyuşturucu kaçakçılığı yaptığı iddia edilen tekneleri vurmakta ve Aralık başından bu yana üç tankeri kovalamakta veya bunlara çıkarma yapıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu zombi gemi vakaları; küresel denizcilik sektörü için ciddi izlenebilirlik ve sigortalanabilirlik sorunları yaratıyor. <strong>AIS</strong> (<strong>Automatic Identification System</strong>) verilerinin manipülasyonu, IMO numaralarının çoğaltılması ve sahte bayraklı kayıtlar; deniz sigortacıları ve <em>charterer</em>'lar için risk profilini köklü biçimde değiştiriyor. Yaptırımlara uyum gerektiren büyük ham petrol alıcıları; menşe doğrulaması ve gemi geçmişi denetiminde çok daha sıkı süreçlere yönelmek zorunda kalıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43047-zombie-ship-shows-us-targeting-darkest-corner-of-oil-fleet"><u>https://www.supplychainbrain.com/articles/43047-zombie-ship-shows-us-targeting-darkest-corner-of-oil-fleet</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

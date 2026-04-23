@@ -47,7 +47,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/beltandroad/2025/01/28/as-poland-demands-more-proof-of-lpg-origin-hundreds-of-tanker-wagons-get-stuck-in-belarus/"><u>https://www.railfreight.com/beltandroad/2025/01/28/as-poland-demands-more-proof-of-lpg-origin-hundreds-of-tanker-wagons-get-stuck-in-belarus/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

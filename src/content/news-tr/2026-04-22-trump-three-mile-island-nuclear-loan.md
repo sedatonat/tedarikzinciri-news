@@ -35,9 +35,6 @@ tags:
 3. 800,000 hane elektrik kapasitesi &mdash; <strong>AI</strong> veri merkezleri için tahsis ediliyor.<br>
 4. Tahmini toplam maliyet 1.6 milyar dolar oluyor &mdash; geçmişte aşımlar yaşanıyor.<br>
 5. <strong>Three Mile Island</strong>; 1979&rsquo;da <strong>Unit 2</strong> kısmi erimesi sonrası kapatılıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42880-trump-admin-loans-1b-to-restart-three-mile-island-nuclear-reactor"><u>https://www.supplychainbrain.com/articles/42880-trump-admin-loans-1b-to-restart-three-mile-island-nuclear-reactor</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

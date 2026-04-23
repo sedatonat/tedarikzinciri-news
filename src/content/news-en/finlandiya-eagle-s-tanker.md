@@ -42,7 +42,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/finland-moves-eagle-s-tanker-closer-to-land-as-probe-intensifies/"><u>https://gcaptain.com/finland-moves-eagle-s-tanker-closer-to-land-as-probe-intensifies/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP? Our Book is Published on Google Play Books.</strong></p>

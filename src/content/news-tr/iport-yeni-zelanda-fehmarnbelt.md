@@ -70,7 +70,6 @@ Hughes’e göre Fehmarnbelt Tüneli açıldığında tüm Nordik ülkeler ile A
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/intermodal/2025/12/08/denmark-gets-ready-for-fehmarnbelt-tunnel-with-1-bn-euros-mega-hub/"><u>https://www.railfreight.com/intermodal/2025/12/08/denmark-gets-ready-for-fehmarnbelt-tunnel-with-1-bn-euros-mega-hub/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

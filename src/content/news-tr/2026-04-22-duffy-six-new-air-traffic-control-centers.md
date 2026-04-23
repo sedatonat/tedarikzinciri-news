@@ -35,9 +35,6 @@ tags:
 3. <strong>Newark</strong>/<strong>Philadelphia TRACON</strong>; 90 saniye radar/radyo kaybı yaşıyor.<br>
 4. <strong>Delta</strong>; <strong>United</strong>; <strong>American</strong>; <strong>Southwest</strong>; <strong>JetBlue</strong> CEO&rsquo;ları sahnede destek veriyor.<br>
 5. <strong>FAA</strong>; ~3.000 kontrolör eksikliğiyle çalışıyor &mdash; 45.000 günlük uçuş yönetiyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41750-duffy-pitches-six-new-air-traffic-control-centers-after-mishaps"><u>https://www.supplychainbrain.com/articles/41750-duffy-pitches-six-new-air-traffic-control-centers-after-mishaps</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

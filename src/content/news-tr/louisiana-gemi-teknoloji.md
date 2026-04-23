@@ -70,7 +70,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42739-shipbuilding-revival-in-louisiana-showcases-hi-tech-capabilities"><u>https://www.supplychainbrain.com/articles/42739-shipbuilding-revival-in-louisiana-showcases-hi-tech-capabilities</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

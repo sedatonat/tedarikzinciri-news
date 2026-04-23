@@ -41,4 +41,3 @@ tags:
   <li><p>‘<a href="https://www.vesselfinder.com/?imo=9948748"><u>Ane Maersk</u></a>’, 14 limana uğrayacak ve toplamda 98 gün süren bir tur tamamlayacak.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/maersks-methanol-enabled-boxship-calls-at-hamburg/"><u>https://www.porttechnology.org/news/maersks-methanol-enabled-boxship-calls-at-hamburg/</u></a></p>

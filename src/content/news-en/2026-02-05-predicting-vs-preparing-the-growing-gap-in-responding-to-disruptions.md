@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, a November 2025 survey by <strong>DP World</strong> of more than 150 senior supply chain executives revealed that the vast majority of firms expect ongoing geopolitical volatility. Vendors including <strong>Kinaxis</strong>, <strong>o9 Solutions</strong>, <strong>Coupa</strong>, <strong>SAP IBP</strong>, <strong>Blue Yonder</strong> and <strong>Anaplan</strong> are focusing their <em>S&amp;OE</em> (Sales &amp; Operations Execution) and <em>control tower</em> roadmaps on <em>autonomous decisioning</em> and <em>agentic AI</em> architectures to close the predict-to-respond gap. <strong>RPA</strong>, <strong>digital twin</strong> and <em>scenario modeling</em> compress planning cycles into minutes &mdash; but technology alone cannot bridge the gap without empowered processes, clean data and organizational readiness.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43416-predicting-vs-preparing-the-growing-gap-in-responding-to-disruptions"><u>https://www.supplychainbrain.com/articles/43416-predicting-vs-preparing-the-growing-gap-in-responding-to-disruptions</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

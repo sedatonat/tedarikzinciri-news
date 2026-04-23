@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında ABD&rsquo;nin <strong>Class I</strong> demiryolu yapısı; <strong>BNSF</strong> ve <strong>Union Pacific</strong> (Batı), <strong>Norfolk Southern</strong> ve <strong>CSX Transportation</strong> (Doğu), <strong>Canadian National</strong> ile <strong>Canadian Pacific Kansas City</strong> (Kanada-Meksika) etrafında şekilleniyor. <strong>Surface Transportation Board</strong> (<strong>STB</strong>) onayı; rekabet, hizmet kalitesi, güvenlik ve aksamasız geçiş garantilerini değerlendiriyor. Birleşmenin; <strong>intermodal</strong> konteyner taşımacılığı, tarımsal ürün hacimleri (<strong>Cargill</strong>, <strong>ADM</strong>), enerji emtia akışları (<strong>Exxon</strong>, <strong>Phillips 66</strong>) ve perakende tedarik (<strong>Walmart</strong>, <strong>Amazon</strong>) üzerindeki etkileri; 2026 boyunca düzenleyici sürecin merkezinde yer alıyordır.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43242-berkshire-backed-bnsf-says-rail-mega-merger-risks-price-increases"><u>https://www.supplychainbrain.com/articles/43242-berkshire-backed-bnsf-says-rail-mega-merger-risks-price-increases</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

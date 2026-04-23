@@ -85,7 +85,6 @@ tags:
 <p style="text-align: justify">For this reason, H2TowTractor presents a model that can drive transformation in port logistics not only environmentally but also economically and operationally.</p>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/port-of-bilbao-trials-hydrogen-powered-h2towtractor/"><u>https://www.porttechnology.org/news/port-of-bilbao-trials-hydrogen-powered-h2towtractor/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

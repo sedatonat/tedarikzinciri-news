@@ -42,7 +42,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/fashion-brands-navigate-tariffs-paul-magel-computer-generated-solutions"><u>https://www.supplychain247.com/article/fashion-brands-navigate-tariffs-paul-magel-computer-generated-solutions</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

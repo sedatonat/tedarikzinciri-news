@@ -43,7 +43,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://splash247.com/finland-detains-russia-linked-tanker-after-latest-baltic-sea-cables-incident/"><u>https://splash247.com/finland-detains-russia-linked-tanker-after-latest-baltic-sea-cables-incident/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

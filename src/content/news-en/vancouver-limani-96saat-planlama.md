@@ -58,7 +58,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/vancouvers-new-scheduling-system-gives-96-hour-advance-notice-of-vessel-arrivals-6129517"><u>https://www.joc.com/article/vancouvers-new-scheduling-system-gives-96-hour-advance-notice-of-vessel-arrivals-6129517</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

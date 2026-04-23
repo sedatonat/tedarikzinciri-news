@@ -33,10 +33,6 @@ tags:
 - AI tabanlı entegrasyon görünürlüğü artırıyordır.<br>
 - Süreç sahipliği eksikliği veriyi etkisiz kılıyordır.<br>
 - Digital twin darboğazları önceden tespit ediyordir.</p>
-<p><br>
----<br>
-<strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42324-why-your-supply-chain-is-stuck-before-it-starts"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42324-why-your-supply-chain-is-stuck-before-it-starts</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

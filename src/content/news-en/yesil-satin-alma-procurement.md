@@ -130,7 +130,6 @@ Start with green procurement, develop agility, and transform these capabilities 
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.scmr.com/article/green-procurement-and-tariff-resilience-strategies"><u>https://www.scmr.com/article/green-procurement-and-tariff-resilience-strategies</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Implement ERP?" has been published on Google Play Books.</strong></p>

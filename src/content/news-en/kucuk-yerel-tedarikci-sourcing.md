@@ -78,7 +78,6 @@ According to Shah, the changing cultural and political climate is forcing compan
   <li style="text-align: justify"><p style="text-align: justify"><strong>87%</strong> continue to receive executive support.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/small-suppliers-supply-chain-strategy-2025"><u>https://www.supplychain247.com/article/small-suppliers-supply-chain-strategy-2025</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

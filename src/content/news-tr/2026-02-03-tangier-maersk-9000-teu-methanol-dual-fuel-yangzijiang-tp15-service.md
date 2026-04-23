@@ -31,9 +31,6 @@ tags:
 3. Teslimat planlanan zamandan üç ay önce gerçekleşti.<br>
 4. Tangier Maersk, Şangay'a uğradıktan sonra TP15 servisinde Doğu Asya–ABD Körfezi hattında çalışacak.<br>
 5. Maersk, yeni seriden bu yıl içinde dört, 2027 başında bir gemi daha teslim almayı bekliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/maersk-takes-delivery-of-first-9000-teu-dual-fuel-vessel/"><u>https://www.porttechnology.org/maersk-takes-delivery-of-first-9000-teu-dual-fuel-vessel/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -90,7 +90,6 @@ Soğuk zincir taşımacılığındaki kapasite artışı, hem <strong>farmasöti
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.reuters.com/markets/deals/germanys-dhl-acquire-us-pharma-logistics-firm-cryopdp-source-says-2025-03-31/"><u>https://www.reuters.com/markets/deals/germanys-dhl-acquire-us-pharma-logistics-firm-cryopdp-source-says-2025-03-31/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -85,7 +85,6 @@ According to experts, <strong>the problem is not the merger itself, but the lack
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/up-ns-merger-cut-carload-transit-times-shippers-not-convinced/802684/"><u>https://www.supplychaindive.com/news/up-ns-merger-cut-carload-transit-times-shippers-not-convinced/802684/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

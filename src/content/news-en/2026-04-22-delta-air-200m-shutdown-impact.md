@@ -27,9 +27,6 @@ tags: ['Delta Air Lines', 'ABD hükümet kapanması', 'Ed Bastian', 'havayolu', 
 3. <strong>Ed Bastian</strong> reports 2,000+ cancellations in November and holiday booking slowdowns.<br>
 4. Delta stock is down 7.7% while the S&P 500 is up 16%.<br>
 5. Passenger demand is emphasized as remaining healthy heading into 2026.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42930-delta-air-sees-200-million-impact-from-shutdown-fallout"><u>https://www.supplychainbrain.com/articles/42930-delta-air-sees-200-million-impact-from-shutdown-fallout</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it free of charge through this link.</p>

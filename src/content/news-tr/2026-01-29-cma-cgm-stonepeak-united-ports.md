@@ -36,9 +36,6 @@ tags:
 3. <strong>CMA CGM</strong>, terminallerin tam operasyonel kontrolünü elinde tutuyor.<br>
 4. <strong>Stonepeak</strong>, gelecekteki ortak projelere 3,6 milyar dolar daha tahsis edebiliyor.<br>
 5. Anlaşma 2026&rsquo;nın ikinci yarısında finalize ediliyor olduğu bekleniyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43368-cma-cgm-launches-joint-port-terminal-venture-with-investment-firm"><u>https://www.supplychainbrain.com/articles/43368-cma-cgm-launches-joint-port-terminal-venture-with-investment-firm</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

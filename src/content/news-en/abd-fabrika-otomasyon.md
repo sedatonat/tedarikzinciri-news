@@ -86,7 +86,6 @@ According to Hölzl, monthly or usage-based payment models allow companies to te
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/us-manufacturers-automation-reshoring-robots-2025"><u>https://www.supplychain247.com/article/us-manufacturers-automation-reshoring-robots-2025</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

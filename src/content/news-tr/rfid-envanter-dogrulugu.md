@@ -41,7 +41,6 @@ tags:
   <li><p>Asset tracking operasyonu optimize ediyordir.</p></li>
 </ul>
 <p>--------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42494-five-ways-rfid-can-help-manage-rising-costs-and-inventory-risks-in-2025"><u>https://www.supplychainbrain.com/articles/42494-five-ways-rfid-can-help-manage-rising-costs-and-inventory-risks-in-2025</u></a></p>
 <p>--------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

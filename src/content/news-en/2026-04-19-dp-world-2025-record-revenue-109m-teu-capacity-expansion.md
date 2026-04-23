@@ -23,9 +23,6 @@ tags: ["DP World", "liman kapasitesi", "TEU", "yıllık sonuçlar", "Yuvraj Nara
 3. Total group throughput reached 93.4 million TEUs (+5.8 per cent).<br>
 4. Net profit climbed 32.2 per cent to $1.96 billion.<br>
 5. Port capacity expanded to 109 million TEUs.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/dp-world-expands-port-capacity-to-109-million-teu-in-2025/"><u>https://www.porttechnology.org/dp-world-expands-port-capacity-to-109-million-teu-in-2025/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

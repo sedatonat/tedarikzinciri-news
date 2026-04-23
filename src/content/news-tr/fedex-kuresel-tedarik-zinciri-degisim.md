@@ -86,7 +86,6 @@ daha net görmeye başladı.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42878-global-supply-chain-shocks-to-cause-lasting-impacts-fedex-says"><u>https://www.supplychainbrain.com/articles/42878-global-supply-chain-shocks-to-cause-lasting-impacts-fedex-says</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

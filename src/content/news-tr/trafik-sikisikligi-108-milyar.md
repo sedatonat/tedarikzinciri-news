@@ -45,7 +45,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/traffic_jams_cause_108_billion_in_wasted_trucking_costs_atri_estimate_says"><u>https://www.supplychain247.com/article/traffic_jams_cause_108_billion_in_wasted_trucking_costs_atri_estimate_says</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

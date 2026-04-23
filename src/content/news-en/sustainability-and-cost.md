@@ -29,10 +29,6 @@ tags:
 3. AI procurement balances carbon and cost.<br>
 4. Waste-to-value generates additional revenue.<br>
 5. Sustainability creates net profitability.</p>
-<p><br>
----<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41679-think-you-have-to-choose-between-sustainability-and-cost-think-again"><u>https://www.supplychainbrain.com/articles/41679-think-you-have-to-choose-between-sustainability-and-cost-think-again</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

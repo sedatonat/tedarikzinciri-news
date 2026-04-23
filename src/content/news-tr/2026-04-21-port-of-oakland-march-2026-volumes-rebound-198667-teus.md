@@ -31,9 +31,6 @@ tags:
 3. İthalat 99.091 TEU; ihracat 99.576 TEU olarak neredeyse eşit dağıldı.<br>
 4. Mart hacmi yıllık bazda yüzde 8,6; YTD verim yüzde 7,3 düştü.<br>
 5. Denizcilik Direktörü Bryan Brandes; ayı operasyonel istikrar göstergesi olarak değerlendirdi.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://container-news.com/port-of-oakland-march-volumes-rebound/"><u>https://container-news.com/port-of-oakland-march-volumes-rebound/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -27,9 +27,6 @@ tags: ['Port of Los Angeles', 'PoLA', 'emisyon', 'DPM', 'SOx', 'NOx', 'yeşil li
 3. Since 2005, <strong>DPM</strong> has been reduced by 90%, <strong>SOx</strong> by 98%, and <strong>NOx</strong> by 73%.<br>
 4. The <strong>Inventory of Air Emissions</strong> report was released on 16 October.<br>
 5. <strong>San Pedro Bay Port Complex</strong> is the largest U.S. port complex globally.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42680-pola-reports-success-in-reducing-pollution"><u>https://www.supplychainbrain.com/articles/42680-pola-reports-success-in-reducing-pollution</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free through this link.</p>

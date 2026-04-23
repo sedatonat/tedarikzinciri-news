@@ -76,7 +76,6 @@ With the completion of its vessel orders, PIL's fleet share of <strong>LNG and l
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.porttechnology.org/news/pil-names-fourth-lng-dual-fuel-o-class-vessel/"><u>https://www.porttechnology.org/news/pil-names-fourth-lng-dual-fuel-o-class-vessel/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

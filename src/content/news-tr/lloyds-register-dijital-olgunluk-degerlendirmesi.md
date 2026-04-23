@@ -43,7 +43,6 @@ tags:
   <li><p>LR, müşterileri için yeni bir dijital dönüşüm danışmanlık hizmeti geliştirecek.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/lr-establishes-platform-to-drive-digital-maturity-in-maritime/"><u>https://www.porttechnology.org/news/lr-establishes-platform-to-drive-digital-maturity-in-maritime/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

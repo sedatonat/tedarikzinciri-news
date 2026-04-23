@@ -36,7 +36,6 @@ tags:
   <li><p>Lucien Arkas, yatırımı sürdürülebilirlik hedefleri için önemli bir adım olarak nitelendirdi.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/arkas-splashes-360-million-in-six-eco-design-vessels/"><u>https://www.porttechnology.org/news/arkas-splashes-360-million-in-six-eco-design-vessels/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

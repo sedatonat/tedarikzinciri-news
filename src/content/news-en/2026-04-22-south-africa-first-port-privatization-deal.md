@@ -27,9 +27,6 @@ tags: ['South Africa', 'Transnet', 'ICTSI', 'Enrique Razon', 'Durban', 'Pier 2',
 3. <strong>Michelle Phillips</strong>, <strong>Transnet</strong> CEO, made the announcement on December 10.<br>
 4. <strong>Pier 2</strong> handles 40 percent of <strong>South Africa</strong>'s container volume.<br>
 5. Capacity is expected to increase by 40 percent to 2.8 million <strong>TEU</strong>.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42990-south-africa-signs-its-first-ever-port-privatization-deal"><u>https://www.supplychainbrain.com/articles/42990-south-africa-signs-its-first-ever-port-privatization-deal</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

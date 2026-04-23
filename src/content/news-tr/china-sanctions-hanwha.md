@@ -27,10 +27,6 @@ tags:
 3. ABD–Çin gerilimi tedarik zincirini zorluyordır.<br>
 4. Güney Kore’nin ticari dengesi risk altındadır.<br>
 5. Yaptırımlar küresel gemi inşa tedarikini sarsabilir.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42656-china-sanctions-us-subsidiaries-of-shipbuilder-hanwha-ocean"><u>https://www.supplychainbrain.com/articles/42656-china-sanctions-us-subsidiaries-of-shipbuilder-hanwha-ocean</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

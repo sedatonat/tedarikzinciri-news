@@ -40,7 +40,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/40599-new-shipping-pollution-rule-to-aid-europes-ailing-diesel-demand"><u>https://www.supplychainbrain.com/articles/40599-new-shipping-pollution-rule-to-aid-europes-ailing-diesel-demand</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

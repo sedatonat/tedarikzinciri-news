@@ -35,9 +35,6 @@ tags:
 3. Akıllı sıralama (<strong>smart sequencing</strong>); zaman duyarlı paketleri öncelendirmekte.<br>
 4. Yakıt tüketimi ve karbon emisyonları azaltılıyor &mdash; sürdürülebilirlik kazancı sağlıyor.<br>
 5. Müşteri gerçek zamanlı izleme ve SMS uyarıları sunuyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41790-our-gls-go-app-revolutionizes-last-mile-delivery-with-smart-sustainable-solutions"><u>https://www.supplychainbrain.com/articles/41790-our-gls-go-app-revolutionizes-last-mile-delivery-with-smart-sustainable-solutions</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

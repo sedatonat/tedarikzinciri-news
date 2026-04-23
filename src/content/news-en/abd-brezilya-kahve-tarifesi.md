@@ -87,7 +87,6 @@ Tariffs introduced after August had pushed retail prices higher for many agricul
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/trump-tariffs-us-exempts-coffee-food-products-brazil/806176/"><u>https://www.supplychaindive.com/news/trump-tariffs-us-exempts-coffee-food-products-brazil/806176/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -37,7 +37,6 @@ tags:
   <li><p>Margin and service level rise together.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42168-infusing-intelligence-into-the-buying-journey-how-order-management-links-your-supply-chain"><u>https://www.supplychainbrain.com/articles/42168-infusing-intelligence-into-the-buying-journey-how-order-management-links-your-supply-chain</u></a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP?</strong> Our book has been published on Google Play Books.</p>

@@ -93,7 +93,6 @@ Asıl farkı yaratanlar:</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/older-container-ships-running-cleaner-than-new-fleets"><u>https://www.supplychain247.com/article/older-container-ships-running-cleaner-than-new-fleets</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

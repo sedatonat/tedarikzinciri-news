@@ -67,7 +67,6 @@ This statement indicates that Tesla Semi can be utilized not only in urban or re
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/dhl-supply-chain-tesla-semi-california-2025-plans-more/807625/"><u>https://www.supplychaindive.com/news/dhl-supply-chain-tesla-semi-california-2025-plans-more/807625/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -42,7 +42,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/five-decades-at-sea-argo-merchant-oil-spill-drift-card-turns-up-on-scottish-isle/"><u>https://gcaptain.com/five-decades-at-sea-argo-merchant-oil-spill-drift-card-turns-up-on-scottish-isle/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

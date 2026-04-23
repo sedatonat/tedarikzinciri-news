@@ -28,9 +28,6 @@ tags: ['UniUni', 'son mil', 'e-ticaret', 'güvenilirlik', 'SLA', 'ölçeklenebil
 3. Scalable networks address viral demand spikes.<br>
 4. Data integrity is mandatory across multiple handoffs.<br>
 5. <strong>UniUni</strong> operates an <strong>Asian e-commerce</strong>-focused last-mile network.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43659-last-mile-e-commerce-delivery-has-changed-what-to-look-for-in-a-carrier-now"><u>https://www.supplychainbrain.com/articles/43659-last-mile-e-commerce-delivery-has-changed-what-to-look-for-in-a-carrier-now</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

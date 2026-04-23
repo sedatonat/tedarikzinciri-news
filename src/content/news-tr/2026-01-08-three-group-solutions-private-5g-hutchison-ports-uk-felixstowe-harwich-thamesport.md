@@ -29,9 +29,6 @@ tags:
 3. Özel 5G ağı; otonom yer araçları (AGV) ve uzaktan kumandalı vinçleri destekleyecek.<br>
 4. Yeni ağ, mevcut Wi-Fi altyapısının kapsama ve gecikme sorunlarını ortadan kaldıracak.<br>
 5. Yatırım; İngiltere'nin liman dijitalleşme stratejisinde önemli bir kilometre taşı olarak nitelendirildi.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/three-group-solutions-deploys-private-5g-at-hutchison-ports-uk/"><u>https://www.porttechnology.org/news/three-group-solutions-deploys-private-5g-at-hutchison-ports-uk/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

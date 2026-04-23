@@ -27,10 +27,6 @@ tags:
 3. Battery efficiency verimlilik sağlar.<br>
 4. Charging infrastructure ölçeklenebilirlik için kritiktir.<br>
 5. Elektrikli taşımacılık sanayi lojistiğini dönüştürür.</p>
-<p><br>
----<br>
-<strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42043-3pl-provider-thyssenkrupp-trials-tesla-ev-semi-truck"><u>https://www.supplychainbrain.com/articles/42043-3pl-provider-thyssenkrupp-trials-tesla-ev-semi-truck</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

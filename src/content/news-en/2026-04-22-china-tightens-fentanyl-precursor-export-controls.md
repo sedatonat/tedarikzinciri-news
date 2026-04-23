@@ -27,9 +27,6 @@ tags: ['Çin', 'fentanil', 'ihracat kontrolü', 'Trump', 'CDC', 'opioid', 'ABD-�
 3. The <strong>CDC</strong> reports 2024 fentanyl deaths at 48,000+, and 2023 at 76,000+.<br>
 4. <strong>Trump</strong> is identifying fentanyl as a primary motivation for <strong>China</strong> tariffs.<br>
 5. <strong>U.S.-China</strong> trade turbulence is signaling progress toward resolution.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42820-china-tightens-export-controls-for-fentanyl-precursor-chemicals"><u>https://www.supplychainbrain.com/articles/42820-china-tightens-export-controls-for-fentanyl-precursor-chemicals</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge via this link.</p>

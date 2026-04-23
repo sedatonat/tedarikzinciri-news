@@ -27,9 +27,6 @@ tags: ['California', 'Gavin Newsom', 'AI güvenlik', 'SB 53', 'OpenAI', 'Anthrop
 3. Whistleblower protection and an ethics <strong>AI</strong> consortium are being established.<br>
 4. <strong>California</strong> hosts 32 of the world's top 50 <strong>AI</strong> companies.<br>
 5. <strong>Silicon Valley</strong> is lobbying against it with a 200M dollar super <strong>PAC</strong>.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42590-california-governor-signs-landmark-ai-safety-law"><u>https://www.supplychainbrain.com/articles/42590-california-governor-signs-landmark-ai-safety-law</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our Book is Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

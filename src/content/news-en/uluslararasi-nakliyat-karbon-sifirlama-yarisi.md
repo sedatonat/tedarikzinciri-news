@@ -37,4 +37,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/39224-a-call-for-more-shippers-and-carriers-to-get-on-board-with-decarbonizing-shipping"><u>https://www.supplychainbrain.com/articles/39224-a-call-for-more-shippers-and-carriers-to-get-on-board-with-decarbonizing-shipping</u></a></p>

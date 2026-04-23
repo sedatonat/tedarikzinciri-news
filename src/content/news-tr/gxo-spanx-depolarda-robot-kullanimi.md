@@ -30,4 +30,3 @@ tags:
   <li><p>Uygulama, robotları bir hizmet olarak sunma modeline dayanıyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10510-gxo-deploys-humanoid-robots-in-spanx-warehouse"><u>https://www.thescxchange.com/articles/10510-gxo-deploys-humanoid-robots-in-spanx-warehouse</u></a></p>

@@ -21,9 +21,6 @@ tags: ["CentrePort", "5G", "private network", "Peplink", "reach stacker", "Antho
 3. CEO Anthony Delaney reported reduced radio congestion and improved safety communications.<br>
 4. Early testing showed no connectivity dropouts and clear operational efficiency gains.<br>
 5. Next steps include 5G-enabled CCTV and expansion across more port assets.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/centreport-deploys-private-5g-for-container-operations/"><u>https://www.porttechnology.org/centreport-deploys-private-5g-for-container-operations/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

@@ -42,4 +42,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.autobodynews.com/news/volkswagen-faces-lawsuits-over-cargo-ship-fire"><u>https://www.autobodynews.com/news/volkswagen-faces-lawsuits-over-cargo-ship-fire</u></a></p>

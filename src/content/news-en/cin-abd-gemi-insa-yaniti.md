@@ -51,7 +51,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://splash247.com/beijing-dismisses-us-shipbuilding-probe/"><u>https://splash247.com/beijing-dismisses-us-shipbuilding-probe/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Purchase ERP?" Has Been Published on Google Play Books.</strong></p>

@@ -27,10 +27,6 @@ tags:
 3. Dock/yard entegrasyonu beklemeyi kısaltır.<br>
 4. Predictive maintenance verim kaybını önler.<br>
 5. Teşvikler yaygınlaşmayı hızlandırır.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41697-how-ai-can-save-the-us-13m-gallons-of-fuel"><u>https://www.supplychainbrain.com/articles/41697-how-ai-can-save-the-us-13m-gallons-of-fuel</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

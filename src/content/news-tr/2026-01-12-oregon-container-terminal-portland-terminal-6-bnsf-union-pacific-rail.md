@@ -29,9 +29,6 @@ tags:
 3. Tesis; BNSF Railway ve Union Pacific hatlarına çift demiryolu erişimi sunuyor.<br>
 4. Açılış, Oregon'un ihracat altyapısını güçlendiren "Ship Oregon" girişimi kapsamında gerçekleşti.<br>
 5. Yeni terminal, bölgenin Long Beach ve Tacoma gibi alternatif limanlara bağımlılığını azaltacak.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/oregon-container-terminal-launches-at-port-of-portland/"><u>https://www.porttechnology.org/news/oregon-container-terminal-launches-at-port-of-portland/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

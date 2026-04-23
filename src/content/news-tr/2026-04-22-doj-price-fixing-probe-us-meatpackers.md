@@ -36,9 +36,6 @@ tags:
 3. <strong>U.S.</strong> sığır sürüleri; 1951&rsquo;den bu yana en düşük seviyede oluyor.<br>
 4. <strong>Tyson</strong> ve <strong>Cargill</strong>; Ocak 2026&rsquo;da $87.5 milyon toplu dava anlaşması ödüyor olmayı kabul ediyor.<br>
 5. <strong>New World screwworm</strong> yeniden ortaya çıkıyor; sığır çiftçilerine ek baskı oluşuyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43899-doj-to-open-price-fixing-probe-into-us-meatpackers"><u>https://www.supplychainbrain.com/articles/43899-doj-to-open-price-fixing-probe-into-us-meatpackers</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

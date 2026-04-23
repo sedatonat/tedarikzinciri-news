@@ -41,4 +41,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/cosco-shipping-unveils-warehouse-in-the-us/"><u>https://www.porttechnology.org/news/cosco-shipping-unveils-warehouse-in-the-us/</u></a></p>

@@ -30,4 +30,3 @@ tags:
   <li><p>E-ticaretin yoğun olduğu bir döneme denk gelmesi, son mil teslimatlarında gecikmelere neden oldu.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10604-supply-chains-see-ripple-effects-of-microsoft-computer-crash"><u>https://www.thescxchange.com/articles/10604-supply-chains-see-ripple-effects-of-microsoft-computer-crash</u></a></p>

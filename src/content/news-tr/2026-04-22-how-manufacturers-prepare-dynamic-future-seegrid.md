@@ -36,9 +36,6 @@ tags:
 3. <strong>Interoperability</strong>; modern üretim ekosisteminin merkezi oluyor.<br>
 4. <strong>Shawn Durr</strong>; <strong>Seegrid</strong> stratejik satış direktörü olarak konuşuyor.<br>
 5. Akıllı bağlı ekosistemler; insan ve teknoloji sinerjisini destekliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43260-how-manufacturers-can-prepare-for-a-more-dynamic-future"><u>https://www.supplychainbrain.com/articles/43260-how-manufacturers-can-prepare-for-a-more-dynamic-future</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

@@ -45,7 +45,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/lr-joins-underwater-noise-pollution-project/"><u>https://www.porttechnology.org/news/lr-joins-underwater-noise-pollution-project/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book on How to Get ERP Has Been Published on Google Play Books.</strong></p>

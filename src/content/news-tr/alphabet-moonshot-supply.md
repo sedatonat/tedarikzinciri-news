@@ -42,7 +42,6 @@ tags:
   <li><p>Sektör odaklı paketler geliştirilebilir.</p></li>
   <li><p>Go-to-market odağı artar.</p></li>
 </ul>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41558-alphabet-spins-off-moonshot-supply-chain-project" rel="noopener" target="_new">https://www.supplychainbrain.com/articles/41558-alphabet-spins-off-moonshot-supply-chain-project</a></p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>
 <p><strong>#ERP Nedir?</strong></p>

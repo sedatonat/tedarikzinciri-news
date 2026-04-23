@@ -46,7 +46,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/china-delivers-arctic-capable-research-vessel-expanding-polar-presence/"><u>https://gcaptain.com/china-delivers-arctic-capable-research-vessel-expanding-polar-presence/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

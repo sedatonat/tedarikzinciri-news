@@ -79,7 +79,6 @@ Bu sistem, <strong>öngörücü bakım (predictive maintenance)</strong>, <stron
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/ports-fast-track-innovation-amid-headwinds-in-october-2025/"><u>https://www.porttechnology.org/news/ports-fast-track-innovation-amid-headwinds-in-october-2025/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

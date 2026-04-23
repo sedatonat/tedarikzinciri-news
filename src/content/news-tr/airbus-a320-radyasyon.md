@@ -46,7 +46,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Airbus, tüm güncellemelerin uçuş güvenliği önceliğiyle yapıldığını belirtti.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://container-news.com/airbus-issues-urgent-a320-family-safety-directive/"><u>https://container-news.com/airbus-issues-urgent-a320-family-safety-directive/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

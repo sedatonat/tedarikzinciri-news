@@ -49,7 +49,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/first-mile-supply-chain-reinvention-opinion-zero100/731115/"><u>https://www.supplychaindive.com/news/first-mile-supply-chain-reinvention-opinion-zero100/731115/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

@@ -36,9 +36,6 @@ tags:
 3. Şarap yapımı metaforu; tedarik zinciri için kullanılıyor.<br>
 4. <strong>Procurement</strong>; karmaşık küresel denge eylemi oluyor.<br>
 5. Don ve tarifeler; aksaklıklar olarak örnekleniyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43655-global-terroir-and-global-tenders-decanting-the-modern-procurement-mix"><u>https://www.supplychainbrain.com/articles/43655-global-terroir-and-global-tenders-decanting-the-modern-procurement-mix</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

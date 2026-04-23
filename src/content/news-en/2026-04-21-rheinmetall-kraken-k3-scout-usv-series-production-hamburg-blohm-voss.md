@@ -21,9 +21,6 @@ tags: ["Rheinmetall", "Kraken K3 Scout", "unmanned surface vessel", "USV", "Bloh
 3. The platform is jointly developed by Rheinmetall Naval Systems and UK's Kraken Technology Group.<br>
 4. The vessel is offered in surveillance, critical-infrastructure-protection, and weapon-carrying configurations.<br>
 5. USVs have become a strategic tool in conflict zones such as the Ukraine war and the Red Sea crisis.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://en.portnews.ru/news/390599/"><u>https://en.portnews.ru/news/390599/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

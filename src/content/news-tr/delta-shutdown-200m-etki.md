@@ -53,7 +53,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Premium segment stratejisi Delta’nın uzun vadeli konumunu destekliyor.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42930-delta-air-sees-200-million-impact-from-shutdown-fallout"><u>https://www.supplychainbrain.com/articles/42930-delta-air-sees-200-million-impact-from-shutdown-fallout</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

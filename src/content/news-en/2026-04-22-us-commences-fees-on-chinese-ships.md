@@ -27,9 +27,6 @@ tags: ['Trump', 'ABD-Çin', 'Çin gemi ücreti', 'COSCO', 'gemi inşa', 'USTR', 
 3. <strong>Chinese</strong> port fee: 400 yuan (56 dollars) per net ton.<br>
 4. <strong>U.S.</strong> holds less than 1% of the global shipbuilding market.<br>
 5. <strong>USTR Section 301</strong> provides the legal basis for the fee.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42660-us-commences-fees-on-chinese-ships"><u>https://www.supplychainbrain.com/articles/42660-us-commences-fees-on-chinese-ships</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP System? Our book is now available on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

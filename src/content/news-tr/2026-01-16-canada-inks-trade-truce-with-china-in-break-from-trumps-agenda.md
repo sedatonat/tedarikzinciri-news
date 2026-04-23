@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Açıklamanın ardından New York'taki kanola vadeli işlemleri yüzde 2,6 artışla Aralık başından bu yana en yüksek seviyesine ulaşıyor. Tedarik zinciri perspektifinden bakıldığında bu anlaşma; Kuzey Amerika tarım ve otomotiv tedarik zincirlerinde Kanada'yı <strong>USMCA</strong> çerçevesinin yanında alternatif bir köprü konumuna yerleştiriyor. <strong>BYD</strong>, <strong>NIO</strong>, <strong>Geely</strong> ve <strong>Chery</strong> gibi Çinli EV üreticilerinin Kanada pazarına yumuşak girişi; <strong>Ford</strong>, <strong>GM</strong> ve <strong>Stellantis</strong>'in Ontario tabanlı üretim planlarında rekabet baskısını yapısal olarak artırıyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43257-canada-inks-trade-truce-with-china-in-break-from-trumps-agenda"><u>https://www.supplychainbrain.com/articles/43257-canada-inks-trade-truce-with-china-in-break-from-trumps-agenda</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

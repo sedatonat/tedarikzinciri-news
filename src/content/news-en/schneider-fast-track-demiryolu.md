@@ -76,7 +76,6 @@ This creates a strong value proposition for Fast Track, particularly for manufac
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/schneider-national-fast-track-premium-rail/806041/"><u>https://www.supplychaindive.com/news/schneider-national-fast-track-premium-rail/806041/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

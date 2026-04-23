@@ -79,7 +79,6 @@ This system delivers <strong>predictive maintenance</strong>, <strong>route opti
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.porttechnology.org/news/ports-fast-track-innovation-amid-headwinds-in-october-2025/"><u>https://www.porttechnology.org/news/ports-fast-track-innovation-amid-headwinds-in-october-2025/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

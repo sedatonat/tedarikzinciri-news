@@ -28,9 +28,6 @@ tags: ['Hürmüz Boğazı', 'savaş riski sigortası', 'Trump', 'DFC', 'UKMTO', 
 3. Most pricing is being cut for vessels linked to <strong>China</strong>, <strong>India</strong>, and <strong>Pakistan</strong>.<br>
 4. <strong>UKMTO</strong> has reported 20 security incidents since March 1, with the latest on March 12 involving a container ship.<br>
 5. The <strong>DFC</strong>'s $20 billion reinsurance program is attracting insurer interest.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43665-shipping-insurance-costs-to-cross-hormuz-soar-after-ship-attacks"><u>https://www.supplychainbrain.com/articles/43665-shipping-insurance-costs-to-cross-hormuz-soar-after-ship-attacks</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

@@ -27,9 +27,6 @@ tags: ['LMI', 'Logistic Managers Index', 'CSCMP', 'ABD lojistik', 'yük talebi',
 3. Warehouse utilization rises to 65.3 while capacity signals modest expansion at 51.6.<br>
 4. <strong>CSCMP</strong> plus university coalition publishes the <strong>LMI</strong> monthly.<br>
 5. <strong>U.S.</strong> logistics is preparing for a softer peak season.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42640-us-logistics-sector-growth-slows-as-freight-demand-eases"><u>https://www.supplychainbrain.com/articles/42640-us-logistics-sector-growth-slows-as-freight-demand-eases</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Purchase an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

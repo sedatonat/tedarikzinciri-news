@@ -24,4 +24,3 @@ tags:
 <p><br></p>
 <p>Malezya Başbakanı Anwar Ibrahim, bu kararı, İsrail'in Gazze'deki eylemleri nedeniyle aldıklarını belirtti.&nbsp;</p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://container-news.com/zim-ships-banned-from-malaysia-as-gaza-war-drags-on/"><u>https://container-news.com/zim-ships-banned-from-malaysia-as-gaza-war-drags-on/</u></a></p>

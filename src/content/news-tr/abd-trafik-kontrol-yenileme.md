@@ -58,7 +58,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42945-us-dot-announces-partner-in-air-traffic-overhaul-plans"><u>https://www.supplychainbrain.com/articles/42945-us-dot-announces-partner-in-air-traffic-overhaul-plans</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

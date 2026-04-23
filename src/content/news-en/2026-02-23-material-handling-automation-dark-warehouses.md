@@ -28,9 +28,6 @@ tags: ['depo otomasyonu', 'lights-out warehouse', 'Brightpick', 'yapay zeka', 'r
 3. <strong>3D vision</strong> with <strong>force-sensing grippers</strong> enable single-item picking.<br>
 4. Accuracy rates can reach up to 99%.<br>
 5. Pharma, small electronics, and <strong>grocery</strong> are the categories most suited for automation.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43503-the-march-of-material-handling-automation-when-will-warehouses-go-dark"><u>https://www.supplychainbrain.com/articles/43503-the-march-of-material-handling-automation-when-will-warehouses-go-dark</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy an ERP? Our Book is Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

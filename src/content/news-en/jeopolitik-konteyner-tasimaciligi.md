@@ -125,7 +125,6 @@ In its place is emerging <strong>a global trade network redirected among geopoli
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://splash247.com/how-geopolitics-is-redrawing-the-worlds-shipping-routes/"><u>https://splash247.com/how-geopolitics-is-redrawing-the-worlds-shipping-routes/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>

@@ -36,9 +36,6 @@ tags:
 3. Sistem-bağımsız platform; <strong>EDI</strong>, düz dosya, <strong>API</strong> ve yeni şemaları köprülüyor.<br>
 4. <strong>BIS</strong>, <strong>DPL</strong>, <strong>ITN</strong> taramaları merkezi olarak çalıştırılıyor.<br>
 5. Birleşik ortam; tedarikçi, taşıyıcı ve müşteriyi tek dijital alanda buluşturuyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43286-the-next-era-of-global-logistics-is-a-connected-data-ecosystem"><u>https://www.supplychainbrain.com/articles/43286-the-next-era-of-global-logistics-is-a-connected-data-ecosystem</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

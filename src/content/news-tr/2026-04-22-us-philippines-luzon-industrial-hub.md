@@ -36,9 +36,6 @@ tags:
 3. <strong>State Department</strong>; <strong>allied manufacturing</strong> için amaca yönelik platform olarak nitelendiriyor.<br>
 4. <strong>Philippines</strong>; <strong>nickel</strong>, <strong>copper</strong>, <strong>chromite</strong>, <strong>cobalt</strong> rezervleriyle stratejik oluyor.<br>
 5. <strong>Indo-Pacific</strong>&rsquo;te ticaret için coğrafi dayanak noktası olarak değerlendiriliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43902-us-to-partner-with-philippines-on-industrial-hub"><u>https://www.supplychainbrain.com/articles/43902-us-to-partner-with-philippines-on-industrial-hub</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

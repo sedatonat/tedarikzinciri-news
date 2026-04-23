@@ -28,9 +28,6 @@ tags: ['Port of Los Angeles', 'SR 47 Interchange', 'Vincent Thomas Bridge', 'Ter
 3. <strong>Knoll Drive</strong> has reopened in its realigned configuration.<br>
 4. Work began in March 2024 and is expected to be completed in December 2026.<br>
 5. The project enhances access to <strong>Terminal Island</strong> and <strong>West Basin Container Terminal</strong>.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43190-port-of-los-angeles-reaches-new-phase-in-interchange-project"><u>https://www.supplychainbrain.com/articles/43190-port-of-los-angeles-reaches-new-phase-in-interchange-project</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What Is ERP?</p>

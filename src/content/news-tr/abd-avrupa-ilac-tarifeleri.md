@@ -92,7 +92,6 @@ Ancak sektör uzmanlarına göre bu hedef <strong>yüksek karmaşıklık ve mali
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42845-will-the-us-eu-pharma-deal-tariffs-trigger-a-resurgence-of-domestic-production"><u>https://www.supplychainbrain.com/articles/42845-will-the-us-eu-pharma-deal-tariffs-trigger-a-resurgence-of-domestic-production</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

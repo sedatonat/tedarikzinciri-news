@@ -53,7 +53,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/malaysia-based-uni-fleet-chooses-abs-wavesight-nautical-systems-to-optimize-maintenance-and-purchasing-operations/"><u>https://gcaptain.com/malaysia-based-uni-fleet-chooses-abs-wavesight-nautical-systems-to-optimize-maintenance-and-purchasing-operations/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

@@ -82,7 +82,6 @@ Geçmişte, şirketin yan kuruluşları <strong>Petrobras ve diğer Latin Amerik
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://splash247.com/seatrium-offloads-psv-duo-to-brazilian-firm-for-60m/"><u>https://splash247.com/seatrium-offloads-psv-duo-to-brazilian-firm-for-60m/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar:</strong><a href="http://sedatonat.com/"><u><strong> </strong></u><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

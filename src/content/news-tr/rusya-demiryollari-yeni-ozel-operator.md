@@ -39,7 +39,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/business/2025/03/03/will-russia-get-a-new-private-rail-freight-operator/"><u>https://www.railfreight.com/business/2025/03/03/will-russia-get-a-new-private-rail-freight-operator/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

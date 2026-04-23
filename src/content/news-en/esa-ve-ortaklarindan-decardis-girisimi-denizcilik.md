@@ -44,7 +44,6 @@ tags:
   <li><p><strong>Aligned Targets:</strong> International Maritime Organization (IMO) 2050 net zero emissions target, European Union's 2030 Climate Target Plan</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/esa-awake-ai-abb-wallenius-launch-decardis-to-enhance-ship-port-data-sharing/"><u>https://www.porttechnology.org/news/esa-awake-ai-abb-wallenius-launch-decardis-to-enhance-ship-port-data-sharing/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

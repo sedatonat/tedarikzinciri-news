@@ -36,9 +36,6 @@ tags:
 3. <strong>Japonya</strong>, 2011 felaketinin ardından 54 reaktörünü kapatıyor idi.<br>
 4. Karbon dışı, sürekli güç talebi <strong>AI</strong> veri merkezleri için kritik oluyor.<br>
 5. Felaket sonrası 33 reaktörden yalnızca 15&rsquo;i bugüne kadar yeniden başlatılıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43314-japan-restarts-huge-nuclear-power-plant"><u>https://www.supplychainbrain.com/articles/43314-japan-restarts-huge-nuclear-power-plant</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

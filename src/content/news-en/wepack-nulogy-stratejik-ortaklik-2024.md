@@ -33,4 +33,3 @@ tags:
   <li><p><a href="https://nulogy.com/"><u>Nulogy</u></a> launched its 'Essential Package' at the <a href="https://www.packagingbirmingham.com/"><u>Packaging Innovations & Empack 2024</u></a> event, offering a solution tailored for smaller contract packing operations.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.warehousinglogisticsinternational.com/wepack-selects-nulogy-to-digitalise-its-contract-packing-operations/"><u>https://www.warehousinglogisticsinternational.com/wepack-selects-nulogy-to-digitalise-its-contract-packing-operations/</u></a></p>

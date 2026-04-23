@@ -80,7 +80,6 @@ Bu ifade, mevcut döngünün geçmiş truckload krizlerinden farklı seyrettiği
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/rxo-curve-q4-2025-truckload-market-outlook/807757/"><u>https://www.supplychaindive.com/news/rxo-curve-q4-2025-truckload-market-outlook/807757/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -50,7 +50,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/mercedes-benz-circularity-germany-battery-recycling/731611/"><u>https://www.supplychaindive.com/news/mercedes-benz-circularity-germany-battery-recycling/731611/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

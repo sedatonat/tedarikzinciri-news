@@ -48,7 +48,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Taraflar, <strong>tedarik zinciri güvenliği</strong>, <strong>geri dönüşüm teknolojileri</strong> ve <strong>ulusal güvenlik temelli denetimler</strong> için yeni yapılar kuruyor.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/us-australia-framework-critical-mineral-supply-chain/803445/"><u>https://www.supplychaindive.com/news/us-australia-framework-critical-mineral-supply-chain/803445/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

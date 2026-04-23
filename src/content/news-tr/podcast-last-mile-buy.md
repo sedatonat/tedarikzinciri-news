@@ -30,15 +30,5 @@ tags:
 3. Hibrit modeller yaygındır.<br>
 4. Karar talep ve SLA parametrelerine bağlıdır.<br>
 5. Uzun vadede özelleştirme maliyeti düşürebilir.</p>
-<p><br>
----<br>
-Haber Linki: <a href="https://www.supplychainbrain.com/articles/41611-podcast-build-or-buy-the-last-mile-crossroads-for-shippers-today"><u>https://www.supplychainbrain.com/articles/41611-podcast-build-or-buy-the-last-mile-crossroads-for-shippers-today</u></a><br>
--------------------<br>
-!!! DUYURU !!!<br>
-ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.<br>
-ERP Nedir?<br>
-https://www.sedatonat.com/erpnasilalinir Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.<br>
-Geri bildirimleriniz olursa bizleri mutlu edersiniz.<br>
-Şimdiden iyi okumalar dileriz.</p>
 <p><br></p>
 <p>[825]</p>

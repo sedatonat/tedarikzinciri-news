@@ -66,7 +66,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/cma-cgm-unveils-west-coast-central-america-route/"><u>https://www.porttechnology.org/news/cma-cgm-unveils-west-coast-central-america-route/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -22,9 +22,6 @@ tags: ["Port of Rotterdam", "MAGPIE", "Portlantis", "European Union", "offshore 
 3. An offshore charging solution, hybrid shunting locomotive, and automated truck charging systems are on display.<br>
 4. Physical models and augmented reality applications are used.<br>
 5. The MAGPIE project is EU co-funded and involves 45 partners.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/port-of-rotterdam-unveils-magpie-tech-hub/"><u>https://www.porttechnology.org/port-of-rotterdam-unveils-magpie-tech-hub/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

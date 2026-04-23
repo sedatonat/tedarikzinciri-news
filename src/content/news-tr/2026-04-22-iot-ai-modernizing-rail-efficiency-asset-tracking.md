@@ -35,9 +35,6 @@ tags:
 3. <strong>Steven Payne</strong>; <strong>SCB Think Tank</strong> katkı sağlayıcısı oluyor.<br>
 4. İklim ve talep modeli baskısı; modernizasyon ihtiyacını artırıyor.<br>
 5. Daha akıllı operasyonel karar; dijital adaptasyonun ana çıktısı oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42710-how-iot-and-ai-are-modernizing-rail-efficiency-and-asset-tracking"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42710-how-iot-and-ai-are-modernizing-rail-efficiency-and-asset-tracking</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

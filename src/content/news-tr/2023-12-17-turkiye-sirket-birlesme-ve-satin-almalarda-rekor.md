@@ -25,4 +25,3 @@ tags:
 <p><br></p>
 <p>Öne çıkan büyük işlemler arasında TOFAŞ'ın, Stellantis Otomotiv'i 439.1 milyon dolarlık bir işlemle satın alması ve İş Bankası'nın, Greeneco Enerji Elektrik Üretim'in %50 hissesini 130.9 milyon dolara satın alması yer aldı​.</p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.posta.com.tr/ekonomi/sirket-satinalma-ve-evliliklerde-rekor-2681827"><u>https://www.posta.com.tr/ekonomi/sirket-satinalma-ve-evliliklerde-rekor-2681827</u></a></p>

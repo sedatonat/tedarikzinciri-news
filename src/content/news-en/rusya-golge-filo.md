@@ -63,7 +63,6 @@ Rail:</strong> Barcelona's major rail investment makes inland distribution carbo
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://shippingwatch.com/carriers/Tanker/article18764243.ece"><u>https://shippingwatch.com/carriers/Tanker/article18764243.ece</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

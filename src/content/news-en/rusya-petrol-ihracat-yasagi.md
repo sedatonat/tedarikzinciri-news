@@ -46,7 +46,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://seanews.ru/en/2025/10/13/en-car-petrol-export-ban-extended-2/"><u>https://seanews.ru/en/2025/10/13/en-car-petrol-export-ban-extended-2/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>

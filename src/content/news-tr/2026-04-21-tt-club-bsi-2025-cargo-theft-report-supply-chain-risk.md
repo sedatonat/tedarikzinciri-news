@@ -31,9 +31,6 @@ tags:
 3. Kuzey Amerika'da demiryolu hırsızlığı 2024'teki yüzde 4'ten 2025'te yüzde 10'a yükseldi.<br>
 4. İngiltere'de 2024 kayıpları 149 milyon dolara ulaştı; Heathrow'da 9 milyon dolarlık akıllı telefon hırsızlığı yaşandı.<br>
 5. Deniz korsanlığı 2025'in ilk yarısında yüzde 85 artarak ek bir risk vektörü oluşturdu.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/cargo-theft-surge-exposes-global-supply-chain-risk/"><u>https://www.porttechnology.org/cargo-theft-surge-exposes-global-supply-chain-risk/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

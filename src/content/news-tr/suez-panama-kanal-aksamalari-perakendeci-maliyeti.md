@@ -43,4 +43,3 @@ tags:
   <li><p>ABD merkezli perakendeciler, teslimatları Batı Kıyısı limanlarına yönlendirerek durumu hafifletebilir.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainquarterly.com/articles/9626-report-retailers-likely-to-take-a-hit-from-suez-panama-disruptions"><u>https://www.supplychainquarterly.com/articles/9626-report-retailers-likely-to-take-a-hit-from-suez-panama-disruptions</u></a></p>

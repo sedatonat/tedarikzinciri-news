@@ -45,7 +45,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/40696-russias-crude-exports-slump-to-the-lowest-since-september"><u>https://www.supplychainbrain.com/articles/40696-russias-crude-exports-slump-to-the-lowest-since-september</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

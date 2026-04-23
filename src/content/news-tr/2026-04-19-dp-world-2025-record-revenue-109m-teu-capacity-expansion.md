@@ -30,9 +30,6 @@ tags:
 3. Toplam grup elleçleme hacmi 93,4 milyon TEU oldu (+5,8 yüzde).<br>
 4. Net kar yüzde 32,2 artarak 1,96 milyar dolar olarak gerçekleşti.<br>
 5. Şirketin liman kapasitesi 109 milyon TEU seviyesine çıktı.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/dp-world-expands-port-capacity-to-109-million-teu-in-2025/"><u>https://www.porttechnology.org/dp-world-expands-port-capacity-to-109-million-teu-in-2025/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

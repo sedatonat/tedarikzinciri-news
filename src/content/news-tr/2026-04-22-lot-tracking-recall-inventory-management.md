@@ -35,9 +35,6 @@ tags:
 3. Son kullanma tarihi; ürün içeriği; üretici; üretim tarihi; ana izleniyor unsurlar oluyor.<br>
 4. <strong>GS1 GTIN</strong>; <strong>GS1 SSCC</strong>; <strong>EPCIS</strong>; ana izlenebilirlik standartları oluyor.<br>
 5. <strong>WMS</strong>; <strong>ERP</strong>; <strong>blockchain</strong>; <strong>RFID</strong>; <strong>2D Data Matrix</strong>; ana lot takibi teknolojileri oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42250-lot-tracking-a-vital-component-of-recall-and-inventory-management"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42250-lot-tracking-a-vital-component-of-recall-and-inventory-management</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

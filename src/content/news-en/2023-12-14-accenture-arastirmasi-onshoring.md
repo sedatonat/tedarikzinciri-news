@@ -27,4 +27,3 @@ tags:
 <p><br></p>
 <p>Sunita Suryanarayan from Accenture notes that while companies have rapidly remedied complex global production and supply networks with short-term solutions, they now need to strategically redesign these networks to make them multi-sourced, more transparent and agile through data and artificial intelligence.</p>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainquarterly.com/articles/9278-accenture-companies-are-shifting-from-global-to-regional-sourcing-and-production"><u>https://www.supplychainquarterly.com/articles/9278-accenture-companies-are-shifting-from-global-to-regional-sourcing-and-production</u></a></p>

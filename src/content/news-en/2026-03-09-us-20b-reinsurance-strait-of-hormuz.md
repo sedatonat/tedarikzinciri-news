@@ -28,9 +28,6 @@ tags: ['DFC', 'reasürans', 'Hürmüz Boğazı', 'Ben Black', 'savaş riski', 'L
 3. Approximately 20% of global crude oil and <strong>LNG</strong> transits this strait.<br>
 4. <strong>U.S.</strong> crude prices up 35%; <strong>Gulf</strong> producers cutting output.<br>
 5. <strong>DFC</strong> CEO <strong>Ben Black</strong> emphasizes the plan will restart energy flows.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43612-us-to-offer-20b-reinsurance-program-for-strait-of-hormuz-shipping"><u>https://www.supplychainbrain.com/articles/43612-us-to-offer-20b-reinsurance-program-for-strait-of-hormuz-shipping</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book is Now Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

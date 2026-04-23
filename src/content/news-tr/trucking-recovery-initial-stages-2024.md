@@ -35,4 +35,3 @@ tags:
   <li><p>Toparlanmanın hızlanması, kapasite fazlasının azalmasına bağlı.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10592-ftr-trucking-is-in-the-initial-stages-of-a-recovery"><u>https://www.thescxchange.com/articles/10592-ftr-trucking-is-in-the-initial-stages-of-a-recovery</u></a></p>

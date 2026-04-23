@@ -30,10 +30,6 @@ tags:
 3. Riskler finansal ve itibar boyutludur.<br>
 4. OTA updates şeffaflık sağlar.<br>
 5. Bağımsız test standartları güçleniyordir.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42651-carmakers-face-uk-trial-a-decade-after-dieselgate-scandal"><u>https://www.supplychainbrain.com/articles/42651-carmakers-face-uk-trial-a-decade-after-dieselgate-scandal</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

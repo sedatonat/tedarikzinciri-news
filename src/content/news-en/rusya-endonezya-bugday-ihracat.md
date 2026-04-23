@@ -71,7 +71,6 @@ The accreditation decision also strengthens <strong>cooperation between the two 
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://seanews.ru/en/2025/10/23/en-russia-resumes-wheat-export-to-indonesia/"><u>https://seanews.ru/en/2025/10/23/en-russia-resumes-wheat-export-to-indonesia/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

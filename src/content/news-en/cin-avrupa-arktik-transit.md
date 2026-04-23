@@ -57,7 +57,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://seanews.ru/en/2025/10/17/en-first-ever-container-transit-from-china-to-europe-by-northern-sea-route-completed/"><u>https://seanews.ru/en/2025/10/17/en-first-ever-container-transit-from-china-to-europe-by-northern-sea-route-completed/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

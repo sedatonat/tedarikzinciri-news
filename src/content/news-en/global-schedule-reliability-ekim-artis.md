@@ -42,7 +42,6 @@ tags:
 </ul>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/global-schedule-reliability-increases-modestly-in-october-2024/"><u>https://www.porttechnology.org/news/global-schedule-reliability-increases-modestly-in-october-2024/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

@@ -51,7 +51,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.scdigest.com/ontarget/24-11-05_october_pmi_shows_manu_contraction_again.php?cid=21642"><u>https://www.scdigest.com/ontarget/24-11-05_october_pmi_shows_manu_contraction_again.php?cid=21642</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

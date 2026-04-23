@@ -32,9 +32,6 @@ tags:
 4. Çeşitlilik ekiplerin problem çözme hızını artırıyor.<br>
 5. Sosyal lisans altyapı projeleri için güçleniyor.</p>
 <p><br></p>
-<p>---<br>
-Haber Linki: https://www.supplychainbrain.com/articles/41377-port-authority-touts-female-leadership-as-trump-blasts-dei<br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

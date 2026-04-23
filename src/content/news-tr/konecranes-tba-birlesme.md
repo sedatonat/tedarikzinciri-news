@@ -43,7 +43,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://container-news.com/konecranes-and-tba-merge-warehouse-management-and-automation-teams/"><u>https://container-news.com/konecranes-and-tba-merge-warehouse-management-and-automation-teams/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

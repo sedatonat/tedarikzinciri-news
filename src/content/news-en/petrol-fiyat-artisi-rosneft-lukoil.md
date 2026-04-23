@@ -76,7 +76,6 @@ However, in the short term, this move has <strong>increased supply concerns in t
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/oil-surges-after-u-s-sanctions-on-russias-rosneft-and-lukoil/"><u>https://gcaptain.com/oil-surges-after-u-s-sanctions-on-russias-rosneft-and-lukoil/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>

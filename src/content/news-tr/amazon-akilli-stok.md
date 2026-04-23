@@ -92,7 +92,6 @@ gibi adımlarla lojistik sektöründe yeni bir çıta oluşturdu.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/amazon-2025-delivery-speeds-fulfillment-improvements/804515/"><u>https://www.supplychaindive.com/news/amazon-2025-delivery-speeds-fulfillment-improvements/804515/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

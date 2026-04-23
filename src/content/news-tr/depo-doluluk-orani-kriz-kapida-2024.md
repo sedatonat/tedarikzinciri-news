@@ -29,7 +29,6 @@ tags:
   <li><p>İstanbul ve çevresinde depo arzı yetersiz.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.lojiport.com/doluluk-oranlari-90lara-cikti-depo-krizi-gelebilir-117072h.htm"><u>https://www.lojiport.com/doluluk-oranlari-90lara-cikti-depo-krizi-gelebilir-117072h.htm</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <h5><strong>!!! DUYURU !!!</strong></h5>

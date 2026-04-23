@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">The provisions also contain a pledge to target "information collection activities" on supply chains within China that violate its laws and regulations. From a supply chain perspective, these rules create a new compliance burden for multinationals operating large footprints in China such as <strong>Apple</strong>, <strong>Tesla</strong>, <strong>BMW</strong> and <strong>Volkswagen</strong>. The leverage Beijing holds over critical minerals, lithium-ion battery components, rare earth elements and electronics supply chains could prove decisive in the next act of the trade war.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43806-china-issues-supply-chain-rules-targeting-foreign-disruption"><u>https://www.supplychainbrain.com/articles/43806-china-issues-supply-chain-rules-targeting-foreign-disruption</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

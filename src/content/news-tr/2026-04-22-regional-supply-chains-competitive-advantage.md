@@ -36,9 +36,6 @@ tags:
 3. Şirketler; pazara yakın imalat ve sourcing&rsquo;e kaymakta.<br>
 4. Bölgeselleşme; jeopolitik/ticaret/afet maruziyetini azaltıyor.<br>
 5. <strong>Mexico</strong>; <strong>U.S.</strong>&rsquo;nin en büyük ticaret ortağı haline geliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43704-how-regional-supply-chains-are-becoming-a-competitive-advantage"><u>https://www.supplychainbrain.com/articles/43704-how-regional-supply-chains-are-becoming-a-competitive-advantage</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

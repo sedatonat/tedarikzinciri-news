@@ -34,4 +34,3 @@ tags:
   <li><p>Cyber güvenlik endişelerinin kağıt süreçlerine kıyasla daha az risk taşıması.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/dcsa-addresses-ebls-in-shipping/"><u>https://www.porttechnology.org/news/dcsa-addresses-ebls-in-shipping/</u></a></p>

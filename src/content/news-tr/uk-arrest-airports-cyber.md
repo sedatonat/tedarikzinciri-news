@@ -29,7 +29,6 @@ tags:
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Özetle olay, ulaştırma altyapılarında siber dayanıklılığın sınır ötesi iş birliği gerektirdiğini gösteriyor.</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42549-uk-arrests-man-during-european-airports-cyberattack-probe"><u>https://www.supplychainbrain.com/articles/42549-uk-arrests-man-during-european-airports-cyberattack-probe</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

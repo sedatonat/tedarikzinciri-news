@@ -30,9 +30,6 @@ tags:
 3. Sözleşme; en az 3 yıl boyunca 120.000 ton CO2e emisyon azaltımı sağlayacak.<br>
 4. ZEMBA; Amazon, IKEA ve Nike dahil 45'in üzerinde küresel kargo sahibini bir araya getiriyor.<br>
 5. Kullanılacak e-metanol; fosil yakıtlara kıyasla yaşam döngüsü emisyonlarında %90 azaltım sunuyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/hapag-lloyd-wins-zemba-e-methanol-shipping-tender/"><u>https://www.porttechnology.org/news/hapag-lloyd-wins-zemba-e-methanol-shipping-tender/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

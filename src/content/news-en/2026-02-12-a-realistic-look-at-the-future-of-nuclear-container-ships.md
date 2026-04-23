@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the commercial scaling of nuclear container ships will require deep updates to the <strong>IMO</strong>'s <strong>SOLAS</strong> and <strong>STCW</strong> frameworks, while "nuclear exclusion" clauses in <strong>P&I Club</strong> coverage will need to be revisited. Alongside the methanol and ammonia investments being pursued by <strong>Maersk</strong>, <strong>CMA CGM</strong> and <strong>NYK Line</strong>, nuclear could become a complementary medium-term decarbonization pathway, but commercial scale is unlikely before the 2030s. For <strong>BCOs</strong>, this introduces a new scenario layer in alternative-fuel surcharge planning.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43459-a-realistic-look-at-the-future-of-nuclear-container-ships"><u>https://www.supplychainbrain.com/articles/43459-a-realistic-look-at-the-future-of-nuclear-container-ships</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

@@ -41,4 +41,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychaindive.com/news/east-coast-gulf-coast-port-union-negotiations-ila-usmx/716372/"><u>https://www.supplychaindive.com/news/east-coast-gulf-coast-port-union-negotiations-ila-usmx/716372/</u></a></p>

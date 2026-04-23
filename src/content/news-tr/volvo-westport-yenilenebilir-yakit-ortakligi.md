@@ -37,4 +37,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10361-volvo-and-partner-launch-joint-venture-to-provide-renewable-fueled-ice-vehicles"><u>https://www.thescxchange.com/articles/10361-volvo-and-partner-launch-joint-venture-to-provide-renewable-fueled-ice-vehicles</u></a></p>

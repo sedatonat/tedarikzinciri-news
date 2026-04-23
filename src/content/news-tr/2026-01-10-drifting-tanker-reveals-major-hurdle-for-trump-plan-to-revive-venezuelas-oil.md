@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında Venezuela&rsquo;nın üretimi onlarca yıllık yatırım eksikliği ve ekonomik yalıtım sonrası düşmüş olsa da Başkan <strong>Donald Trump</strong>; büyük petrol şirketlerinin ülkenin üretimini artırmak için en az 100 milyar ABD doları harcayacağını belirtiyor. ABD nafta tedarikine geçiş; <strong>Chevron</strong>, <strong>ExxonMobil</strong>, <strong>ConocoPhillips</strong> gibi oyunculara Venezuela&rsquo;da rol genişletme imkanı sunuyor &mdash; <strong>PDVSA</strong>&rsquo;nın <strong>Orinoco Belt</strong> ağır ham petrol sahaları; <strong>Jose Terminal</strong> ihracat altyapısı, <strong>Citgo</strong>&rsquo;nun ABD rafineri ağı ile entegrasyon stratejik önem kazanıyor. <strong>OPEC+</strong> dengesi, <strong>Brent Crude</strong> spread&rsquo;leri ve <strong>WTI</strong> fiyat hareketleri 2026 boyunca bu jeopolitik gelişmenin baskısını taşıyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43181-drifting-tanker-reveals-major-hurdle-for-trump-plan-to-revive-venezuelas-oil"><u>https://www.supplychainbrain.com/articles/43181-drifting-tanker-reveals-major-hurdle-for-trump-plan-to-revive-venezuelas-oil</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

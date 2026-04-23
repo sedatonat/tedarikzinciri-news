@@ -27,9 +27,6 @@ tags: ['aşırı hava', 'iklim', 'TMS', 'hiperlokal', 'lojistik', 'Renny Vandewe
 3. Weather modeling integrated into <strong>TMS</strong>—hyperlocal forecasting.<br>
 4. Logistics companies dynamically rerouting shipments.<br>
 5. Driver safety and alternative routes represent key operational gains.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41760-minimizing-the-risks-associated-with-extreme-weather"><u>https://www.supplychainbrain.com/articles/41760-minimizing-the-risks-associated-with-extreme-weather</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>

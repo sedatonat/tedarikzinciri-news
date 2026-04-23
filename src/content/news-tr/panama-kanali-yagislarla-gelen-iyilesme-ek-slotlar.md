@@ -37,4 +37,3 @@ tags:
   <li><p>Uzun bekleme süreleri ve yüksek ücretler nedeniyle birçok gemi kanalı kullanıyorn kaçındı.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://splash247.com/panama-canal-authority-adds-three-more-daily-transit-slots/"><u>https://splash247.com/panama-canal-authority-adds-three-more-daily-transit-slots/</u></a></p>

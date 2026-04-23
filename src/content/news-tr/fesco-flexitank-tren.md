@@ -45,7 +45,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://seanews.ru/en/2025/11/26/en-fesco-launches-first-40-flexitank-block-train-to-china/"><u>https://seanews.ru/en/2025/11/26/en-fesco-launches-first-40-flexitank-block-train-to-china/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

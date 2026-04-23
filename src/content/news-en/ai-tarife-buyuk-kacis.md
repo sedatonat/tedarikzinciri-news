@@ -39,10 +39,6 @@ Global trade has entered a period of declining predictability. Tariffs, geopolit
 3. Amazon is repositioning its network dynamically.<br>
 4. Tesla is implementing automation and energy optimization in manufacturing.<br>
 5. Result: reshoring/nearshoring and dynamic inventory positioning are taking center stage.</p>
-<p><br>
----<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41439-ai-tariffs-and-the-great-supply-chain-escape-act"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41439-ai-tariffs-and-the-great-supply-chain-escape-act</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Purchase an ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

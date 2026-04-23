@@ -27,9 +27,6 @@ tags: ['Hyundai', 'LG Energy Solution', 'ICE', 'B-1 vize', 'Güney Kore', 'batar
 3. At least 30 workers are returning to the <strong>Georgia</strong> facility.<br>
 4. <strong>Class-action</strong> lawsuit includes claims of unhealthy detention conditions and unlawful detention.<br>
 5. <strong>South Korea</strong> Foreign Ministry appreciates the "swift and flexible" <strong>U.S.</strong> action.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42840-us-reissues-some-work-visas-for-south-korean-battery-plant-workers"><u>https://www.supplychainbrain.com/articles/42840-us-reissues-some-work-visas-for-south-korean-battery-plant-workers</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via this link.</p>

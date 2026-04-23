@@ -27,9 +27,6 @@ tags: ['gölge envanter', 'veri silosu', 'işletme sermayesi', 'tedarik zinciri 
 3. Working capital carrying costs have increased over 30% in the past two years.<br>
 4. August back-to-school and September holiday stock timing is risk-intensive.<br>
 5. <strong>Real-time landed cost</strong>, <strong>SKU-level ROIC</strong>, <strong>IBP</strong> are key reduction tactics.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42320-shadow-inventory-when-supply-chain-data-lives-in-silos"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42320-shadow-inventory-when-supply-chain-data-lives-in-silos</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our Book is Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

@@ -42,7 +42,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.scdigest.com/ontarget/24-10-30_gartner_4pls.php?cid=21637"><u>https://www.scdigest.com/ontarget/24-10-30_gartner_4pls.php?cid=21637</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

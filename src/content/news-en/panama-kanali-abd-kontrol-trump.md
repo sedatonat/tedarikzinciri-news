@@ -50,7 +50,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/senate-hearing-grills-chinese-influence-over-panama-canal-amid-trumps-call-for-us-control/"><u>https://gcaptain.com/senate-hearing-grills-chinese-influence-over-panama-canal-amid-trumps-call-for-us-control/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>

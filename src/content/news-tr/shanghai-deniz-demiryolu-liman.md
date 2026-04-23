@@ -79,7 +79,6 @@ Yangshan gibi dev limanlar için hinterland erişimindeki darboğazlar azaltıl�
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://en.portnews.ru/news/385440/"><u>https://en.portnews.ru/news/385440/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -101,7 +101,6 @@ Müşterilerimize verdikleri anlayış için teşekkür ediyoruz.” dedi.</bloc
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://nypost.com/2025/06/11/business/whole-foods-tells-customers-of-temporary-supply-challenges/"><u>https://nypost.com/2025/06/11/business/whole-foods-tells-customers-of-temporary-supply-challenges/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

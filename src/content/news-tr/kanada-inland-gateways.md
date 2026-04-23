@@ -45,7 +45,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/canada-looks-for-new-container-gateways-for-decoupling-from-us-6122714"><u>https://www.joc.com/article/canada-looks-for-new-container-gateways-for-decoupling-from-us-6122714</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

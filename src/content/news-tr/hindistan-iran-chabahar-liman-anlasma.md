@@ -38,4 +38,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/india-iran-partner-to-develop-chabahar-port/"><u>https://www.porttechnology.org/news/india-iran-partner-to-develop-chabahar-port/</u></a></p>

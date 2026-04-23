@@ -56,7 +56,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychain247.com/article/intermodal_volumes_head_up_in_september_reports_iana"><u>https://www.supplychain247.com/article/intermodal_volumes_head_up_in_september_reports_iana</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -93,7 +93,6 @@ Bu sayı, yalnızca <strong>ekonomik korumacılığın değil, jeopolitik dayan�
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/report-cabotage-laws-surge-to-85-of-global-coastlines-amid-rising-geopolitical-tensions/"><u>https://gcaptain.com/report-cabotage-laws-surge-to-85-of-global-coastlines-amid-rising-geopolitical-tensions/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

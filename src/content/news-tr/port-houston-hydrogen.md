@@ -48,7 +48,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/port-houston-awarded-25-million-to-build-hydrogen-fuelling-station/"><u>https://www.porttechnology.org/news/port-houston-awarded-25-million-to-build-hydrogen-fuelling-station/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

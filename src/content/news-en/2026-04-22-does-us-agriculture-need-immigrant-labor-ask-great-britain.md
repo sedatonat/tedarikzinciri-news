@@ -27,9 +27,6 @@ tags: ['tarım', 'göçmen işgücü', 'Trump', 'Brexit', 'H-2A', 'İngiltere', 
 3. The <strong>H-2A</strong> visa program issued over 380,000 visas in 2024.<br>
 4. Trump 2.0 mass deportation policies pose risks to agricultural and construction sectors.<br>
 5. <strong>John Deere</strong>, <strong>FFRobotics</strong>, and <strong>FarmWise</strong> are among leading agricultural automation players.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41450-does-us-agriculture-need-immigrant-labor-ask-great-britain"><u>https://www.supplychainbrain.com/articles/41450-does-us-agriculture-need-immigrant-labor-ask-great-britain</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Purchase ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge via this link.</p>

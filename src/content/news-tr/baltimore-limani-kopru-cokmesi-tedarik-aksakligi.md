@@ -38,4 +38,3 @@ tags:
 </ul>
 <p><strong>İlgili Makale:</strong> <a href="https://www.tedarikzinciriportali.com/post/maersk-baltimore-koprusu-kazasi"><u>Maersk Baltimore Francis Scott Key Köprüsü Kazası</u></a></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10025-baltimore-port-closure-could-trigger-freight-rate-hikes-delays"><u>https://www.thescxchange.com/articles/10025-baltimore-port-closure-could-trigger-freight-rate-hikes-delays</u></a></p>

@@ -43,7 +43,6 @@ tags:
   <li><p>Scope 3 ve döngüsel akışlar önceliktir.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41720-cscos-will-become-far-more-significant-in-business-says-gartner"><u>https://www.supplychainbrain.com/articles/41720-cscos-will-become-far-more-significant-in-business-says-gartner</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

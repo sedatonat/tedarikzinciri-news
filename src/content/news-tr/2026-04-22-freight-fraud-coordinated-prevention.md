@@ -34,9 +34,6 @@ tags:
 3. 2020 sonrası yük dolandırıcılığı; %1.500&rsquo;ü a&ccedil;an artış gösteriyor.<br>
 4. Ortalama hırsızlık değeri; olay başına 200K dolara ulaşıyor.<br>
 5. <strong>Strategic theft</strong>; <strong>fictitious pickup</strong>; <strong>double brokering</strong>; ana modern dolandırıcılık tipleri oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42280-freight-fraud-an-increasing-threat-demands-coordinated-prevention"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42280-freight-fraud-an-increasing-threat-demands-coordinated-prevention</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

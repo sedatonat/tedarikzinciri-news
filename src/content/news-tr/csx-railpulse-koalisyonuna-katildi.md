@@ -29,4 +29,3 @@ tags:
   <li><p>CSX, koalisyonun dördüncü büyük demiryolu şirketi ve toplamda on birinci üyesi oldu.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10560-csx-joins-railpulse-digitization-initative"><u>https://www.thescxchange.com/articles/10560-csx-joins-railpulse-digitization-initative</u></a></p>

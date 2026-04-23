@@ -89,7 +89,6 @@ Maersk hâlâ “start sailing” kararı vermiş değil.</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://shippingwatch.com/carriers/Container/article18782672.ece"><u>https://shippingwatch.com/carriers/Container/article18782672.ece</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -48,7 +48,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/ulta-beauty-micro-fulfillment-model-supply-chain-transformation-erik-lopez-csco/730845/"><u>https://www.supplychaindive.com/news/ulta-beauty-micro-fulfillment-model-supply-chain-transformation-erik-lopez-csco/730845/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

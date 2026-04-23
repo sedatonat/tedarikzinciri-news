@@ -89,7 +89,6 @@ Ancak uzmanlara göre, geçişlerin yeniden başlaması <strong>kısa vadeli lim
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/suez-canal-reopening-to-unlock-2-1-million-teu-capacity/"><u>https://www.porttechnology.org/news/suez-canal-reopening-to-unlock-2-1-million-teu-capacity/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

@@ -28,9 +28,6 @@ tags: ['filo yönetimi', 'TMS', 'entegrasyon', 'veri yoğunluğu', 'modüler yaz
 3. Even small fleets need multiple <strong>enterprise-grade integration</strong> capabilities.<br>
 4. Data volume and exception events are sharply elevating operational complexity.<br>
 5. Modernization now means incremental capability advancement, not wholesale replacement.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43146-a-period-of-transition-what-fleets-should-expect-in-2026"><u>https://www.supplychainbrain.com/articles/43146-a-period-of-transition-what-fleets-should-expect-in-2026</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What Is ERP?</p>

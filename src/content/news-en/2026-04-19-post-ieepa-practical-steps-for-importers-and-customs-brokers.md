@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the Trump Administration is also pursuing other discretionary trade powers to levy additional tariffs, including the swift imposition of a temporary 10% global tariff under Section 122 of the <strong>Trade Act of 1974</strong>. Going forward, the exit from the country-based IEEPA framework requires <strong>customs broker</strong>-managed <strong>protest filing</strong>, <strong>post summary correction (PSC)</strong> and <strong>refund tracking</strong> processes to be operationalized urgently. Users of <strong>SAP GTS</strong>, <strong>Oracle GTM</strong>, <strong>E2open</strong> and <strong>Descartes</strong> will need to update HTS-based new tariff matrices at the master-data level.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/43887-post-ieepa-practical-steps-for-importers-and-customs-brokers"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/43887-post-ieepa-practical-steps-for-importers-and-customs-brokers</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

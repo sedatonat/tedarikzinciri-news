@@ -23,9 +23,6 @@ tags: ["ZIM", "Hapag-Lloyd", "grev", "Hayfa", "Aşdod", "satın alma", "sendika"
 3. Vessels at the ports of Ashdod and Haifa are reportedly not being unloaded.<br>
 4. The union is seeking commitments on job security and working conditions following the $4.2 billion Hapag-Lloyd acquisition.<br>
 5. The strike poses operational risk to ZIM rotations on Mediterranean–Asia trades.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/zim-workers-strike-over-hapag-lloyd-deal/"><u>https://www.porttechnology.org/zim-workers-strike-over-hapag-lloyd-deal/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

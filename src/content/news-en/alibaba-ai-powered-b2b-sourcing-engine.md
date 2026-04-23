@@ -31,4 +31,3 @@ tags:
   <li><p><strong>Market Launch Date:</strong> September 2024.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/topics/129-procurement"><u>https://www.thescxchange.com/topics/129-procurement</u></a></p>

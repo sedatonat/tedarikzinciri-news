@@ -44,4 +44,3 @@ tags:
   <li><p>AI'ın entegrasyonu veri gizliliği ve yetenekli profesyonel kıtlığı gibi zorluklarla karşı karşıya.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.scmr.com/article/ai-procurement-efficiency-insight"><u>https://www.scmr.com/article/ai-procurement-efficiency-insight</u></a></p>

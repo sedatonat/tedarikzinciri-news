@@ -50,7 +50,6 @@ tags:
 </ol>
 <p style="text-align: justify"><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/spons/real-time-location-and-condition-tracking-drives-resilient-supply-chains/736565/"><u>https://www.supplychaindive.com/spons/real-time-location-and-condition-tracking-drives-resilient-supply-chains/736565/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

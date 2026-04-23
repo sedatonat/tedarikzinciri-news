@@ -31,9 +31,6 @@ tags:
 3. Terminal, Northeast Georgia'yı Savannah ve Brunswick'in derin su limanlarına bağlayacak.<br>
 4. Doğrudan Norfolk Southern demiryolu hizmeti sunulacak.<br>
 5. Tam elektrikli RTG'ler sıfır lokal emisyon sağlarken hinterland kapsamasını genişletiyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/georgia-ports-nears-completion-of-blue-ridge-connector/"><u>https://www.porttechnology.org/georgia-ports-nears-completion-of-blue-ridge-connector/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

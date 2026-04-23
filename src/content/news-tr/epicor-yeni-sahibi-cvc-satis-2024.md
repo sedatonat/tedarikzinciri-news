@@ -30,4 +30,3 @@ tags:
   <li><p>Şirketin SaaS dönüşümü ve uluslararası genişlemesi hızla devam ediyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10719-epicor-gains-new-private-equity-owner"><u>https://www.thescxchange.com/articles/10719-epicor-gains-new-private-equity-owner</u></a></p>

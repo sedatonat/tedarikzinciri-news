@@ -40,4 +40,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.allthingssupplychain.com/energy-conservation-and-environmental-regulations-in-warehousing/"><u>https://www.allthingssupplychain.com/energy-conservation-and-environmental-regulations-in-warehousing/</u></a></p>

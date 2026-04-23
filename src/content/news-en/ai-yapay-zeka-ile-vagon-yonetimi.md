@@ -43,7 +43,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/technology/2025/01/13/automatic-railcar-recognition-for-identification-and-inspection-powered-by-cutting-edge-ai/"><u>https://www.railfreight.com/technology/2025/01/13/automatic-railcar-recognition-for-identification-and-inspection-powered-by-cutting-edge-ai/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>

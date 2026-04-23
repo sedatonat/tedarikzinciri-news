@@ -27,5 +27,4 @@ tags:
 <p>Sea-Intelligence CEO'su <a href="https://www.linkedin.com/in/alan-r-murphy/"><u>Alan Murphy,</u></a> Afrika çevresinden dolaşmak için 1,45 - 1,7 milyon TEU gemi kapasitesine ihtiyaç duyulacağını, bu da küresel konteyner gemisi kapasitesinin %5,1 - %6,0'ına denk geldiğini belirtti.&nbsp;</p>
 <p><br></p>
 <p>Kaynaklar:</p>
-<p>Haber Linki: <a href="https://www.porttechnology.org/news/change-to-round-africa-impacts-transit-times-and-vessel-capacity/"><u>https://www.porttechnology.org/news/change-to-round-africa-impacts-transit-times-and-vessel-capacity/</u></a></p>
 <p>Fotoğraf: <a href="https://www.alamy.com/bab-el-mandeb-political-map-strait-between-yemen-on-arabian-peninsula-image159675803.html"><u>https://www.alamy.com/bab-el-mandeb-political-map-strait-between-yemen-on-arabian-peninsula-image159675803.html</u></a></p>

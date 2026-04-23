@@ -59,7 +59,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/railfreight/2025/12/08/ukraine-and-partners-sign-joint-declaration-for-transport-support-fund/"><u>https://www.railfreight.com/railfreight/2025/12/08/ukraine-and-partners-sign-joint-declaration-for-transport-support-fund/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

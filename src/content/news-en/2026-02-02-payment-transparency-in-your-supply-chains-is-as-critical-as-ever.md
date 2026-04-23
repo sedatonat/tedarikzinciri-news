@@ -28,9 +28,6 @@ tags:
 <p style="text-align: justify">Visibility into invoices remains a top priority. Yet, anecdotally, industry leaders, finance departments, procurement teams, suppliers and buyers alike often still find themselves without a clear view of where invoices stand. Shifting tariffs, geopolitical tensions and broader economic uncertainty only amplify the cascading impacts of unclear payment processes.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the spread of <strong>e-invoicing</strong> standards (PEPPOL; UBL); <strong>API</strong>-based payment notification systems; and <strong>supply chain finance</strong> platforms (<strong>Taulia</strong>; <strong>Tradeshift</strong>; <strong>C2FO</strong>) is systematically improving payment transparency. Transparency clears the fog &mdash; when all parties can easily see where an invoice sits, they are better positioned to stop adding the "uncertainty tax" that shows up in unpredictable payment workflows. The result is stronger supplier relationships, fewer disputes and more predictable cash flow.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43249-payment-transparency-in-your-supply-chains-is-as-critical-as-ever"><u>https://www.supplychainbrain.com/articles/43249-payment-transparency-in-your-supply-chains-is-as-critical-as-ever</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

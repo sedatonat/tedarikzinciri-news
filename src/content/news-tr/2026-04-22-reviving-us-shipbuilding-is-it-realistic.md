@@ -35,9 +35,6 @@ tags:
 3. <strong>USTR</strong> planı; ABD ihracatının %1&rsquo;i ABD-inşaat gemilerle taşıyor.<br>
 4. <strong>Çin</strong>; <strong>Güney Kore</strong>; <strong>Japonya</strong>; küresel gemi inşaat hakimiyeti oluyor.<br>
 5. <strong>Jones Act</strong>; <strong>HII</strong>; <strong>General Dynamics</strong>; ana ABD koruyucu mevzuat ve oyuncular oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41510-reviving-us-shipbuilding-is-it-realistic"><u>https://www.supplychainbrain.com/articles/41510-reviving-us-shipbuilding-is-it-realistic</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

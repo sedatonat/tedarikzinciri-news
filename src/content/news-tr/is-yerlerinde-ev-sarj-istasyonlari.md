@@ -35,4 +35,3 @@ tags:
   <li><p>İş yerlerindeki EV şarj hizmetinin çoğunluğu çalışanlar için ücretsizdir.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://chatgpt.com/c/0380aa70-1344-40d4-9beb-da56fe1d9c23"><u>https://chatgpt.com/c/0380aa70-1344-40d4-9beb-da56fe1d9c23</u></a></p>

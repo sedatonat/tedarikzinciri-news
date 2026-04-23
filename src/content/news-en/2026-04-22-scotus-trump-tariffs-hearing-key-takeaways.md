@@ -27,9 +27,6 @@ tags: ['SCOTUS', 'Trump', 'IEEPA', 'tarife', 'Bloomberg', 'Yüksek Mahkeme', 'AB
 3. The core question is whether <strong>IEEPA</strong> grants tariff authority.<br>
 4. The <strong>Court of International Trade</strong> previously deemed the tariffs <strong>ultra vires</strong>.<br>
 5. The <strong>major questions doctrine</strong> is central to the conservative majority's decision calculus.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42800-key-takeaways-from-the-us-supreme-court-hearing-on-trump-tariffs"><u>https://www.supplychainbrain.com/articles/42800-key-takeaways-from-the-us-supreme-court-hearing-on-trump-tariffs</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

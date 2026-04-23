@@ -56,7 +56,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://container-news.com/pakistan-offers-bangladesh-to-use-its-karachi-port-trust-to-facilitate-trade-with-china/"><u>https://container-news.com/pakistan-offers-bangladesh-to-use-its-karachi-port-trust-to-facilitate-trade-with-china/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

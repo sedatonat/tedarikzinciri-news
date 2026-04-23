@@ -27,9 +27,6 @@ tags: ['FDA', 'gıda izlenebilirliği', 'FSMA', 'gıda güvenliği', 'Trump', 'S
 3. <strong>KDE</strong>/<strong>CTE</strong> represent principal traceability data mechanisms.<br>
 4. <strong>IBM Food Trust</strong> and <strong>FoodLogiQ</strong> are leading traceability technology platforms.<br>
 5. The 2024 <strong>Boar's Head</strong> and <strong>McDonald's</strong> outbreaks represent high-profile incidents.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41430-fda-delays-food-traceability-rules-as-foodborne-illnesses-surge"><u>https://www.supplychainbrain.com/articles/41430-fda-delays-food-traceability-rules-as-foodborne-illnesses-surge</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book is Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge via this link.</p>

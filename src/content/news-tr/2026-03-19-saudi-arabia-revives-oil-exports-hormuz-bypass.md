@@ -36,9 +36,6 @@ tags:
 3. <strong>Red Sea</strong>&rsquo;de en az 32 <strong>VLCC</strong>/<strong>Suezmax</strong> bekliyor.<br>
 4. <strong>UAE</strong>&rsquo;nin <strong>Fujairah</strong> rotası; drone saldırılarıyla aksamakta.<br>
 5. <strong>IEA</strong>; savaşın tarihteki en büyük arz aksamasına yol açıyor olduğunu vurguluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43685-saudi-arabia-revives-half-its-oil-exports-with-hormuz-bypass"><u>https://www.supplychainbrain.com/articles/43685-saudi-arabia-revives-half-its-oil-exports-with-hormuz-bypass</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

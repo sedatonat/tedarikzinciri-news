@@ -35,9 +35,6 @@ tags:
 3. <strong>Ed Bastian</strong>; Kasım&rsquo;da 2,000+ iptal ve tatil rezervasyon yavaşlaması raporluyor.<br>
 4. <strong>Delta</strong> hissesi %7.7 düşüyor; <strong>S&amp;P 500</strong> %16 yükseliyor.<br>
 5. Yolcu talebi; 2026&rsquo;ya doğru sağlıklı kalıyor olduğu vurgulanıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42930-delta-air-sees-200-million-impact-from-shutdown-fallout"><u>https://www.supplychainbrain.com/articles/42930-delta-air-sees-200-million-impact-from-shutdown-fallout</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

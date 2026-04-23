@@ -53,4 +53,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.bbc.co.uk/news/world-us-canada-68380251"><u>https://www.bbc.co.uk/news/world-us-canada-68380251</u></a></p>

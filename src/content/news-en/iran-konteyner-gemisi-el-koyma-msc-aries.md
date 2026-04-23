@@ -38,4 +38,3 @@ tags:
   <li><p>Companies need to strengthen their risk management strategies and develop flexible plans to counter geopolitical volatility.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10121-ocean-freight-rates-expected-to-jump-after-iran-seizes-containership"><u>https://www.thescxchange.com/articles/10121-ocean-freight-rates-expected-to-jump-after-iran-seizes-containership</u></a></p>

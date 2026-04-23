@@ -35,9 +35,6 @@ tags:
 3. <strong>California High-Speed Rail</strong>; 16 yılda hiçbir tamamlanmış yüksek hızlı ray üretmemekte.<br>
 4. Başlangıç maliyet tahmini 33 milyar dolardan 128 milyar dolara yükseliyor.<br>
 5. <strong>Newsom</strong> ve Demokratlar; <strong>Trump</strong> yönetimi tarafından eleştirilmekte.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42180-california-high-speed-rail-funding-canceled"><u>https://www.supplychainbrain.com/articles/42180-california-high-speed-rail-funding-canceled</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

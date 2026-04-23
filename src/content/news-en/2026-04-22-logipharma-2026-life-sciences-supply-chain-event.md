@@ -27,9 +27,6 @@ tags: ['LogiPharma', 'ilaç tedarik zinciri', 'biyoteknoloji', 'medtech', 'yapay
 3. 150+ expert speakers addressing <strong>AI</strong>, data and leadership.<br>
 4. Transition trajectory: from digital transformation to digital autonomy.<br>
 5. <strong>End-to-end</strong> value chain spanning science, manufacturing, logistics and patient care.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42740-logipharma-2026-leading-global-life-sciences-supply-chain-event"><u>https://www.supplychainbrain.com/articles/42740-logipharma-2026-leading-global-life-sciences-supply-chain-event</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our Book is Now Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>

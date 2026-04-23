@@ -32,4 +32,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.lojiport.com/kizildeniz-krizinin-kazanani-tanker-piyasasi-116345h.htm"><u>https://www.lojiport.com/kizildeniz-krizinin-kazanani-tanker-piyasasi-116345h.htm</u></a></p>

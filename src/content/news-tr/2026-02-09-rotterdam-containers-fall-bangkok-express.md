@@ -36,9 +36,6 @@ tags:
 3. Konteynerler <strong>LNG</strong> bölmesine değil yerleşim bölümüne çarpmakta.<br>
 4. <strong>Dutch Safety Board</strong> dahil üç kurum olayı soruşturmakta.<br>
 5. <strong>K. Lotus</strong>, palamar sistemi onarımı için limanda kalıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43441-containers-fall-from-vessel-docked-at-port-of-rotterdam"><u>https://www.supplychainbrain.com/articles/43441-containers-fall-from-vessel-docked-at-port-of-rotterdam</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -46,7 +46,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/us-postal-service-dejoy-doge-agreement/742549/"><u>https://www.supplychaindive.com/news/us-postal-service-dejoy-doge-agreement/742549/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

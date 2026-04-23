@@ -80,7 +80,6 @@ Aliprantis bu potansiyeli şöyle özetledi:<br>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/wireless-charging-electric-truck-roadway-purdue-university"><u>https://www.supplychain247.com/article/wireless-charging-electric-truck-roadway-purdue-university</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

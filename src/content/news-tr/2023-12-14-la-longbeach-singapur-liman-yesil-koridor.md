@@ -29,4 +29,3 @@ tags:
 <p><br></p>
 <p>İlerleyen süreçte, Singapur, Los Angeles ve Long Beach arasındaki ticaret akışlarını ve gemi trafiğini analiz edecek bir çalışma yapılacak. Bu çalışma, koridorun gelişimine rehberlik edecek ve 2024'te yeni katılımcıların dahil olması planlanıyor.</p>
 <p><br></p>
-<p>Haber Linki: <a href="https://www.supplychainquarterly.com/articles/9240-ports-of-la-and-long-beach-partner-with-singapore-to-create-green-and-digital-shipping-corridor"><u>https://www.supplychainquarterly.com/articles/9240-ports-of-la-and-long-beach-partner-with-singapore-to-create-green-and-digital-shipping-corridor</u></a></p>

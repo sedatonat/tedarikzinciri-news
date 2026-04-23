@@ -36,9 +36,6 @@ tags:
 3. <strong>Bloodhound Tracking Device</strong>; gizli <strong>GPS</strong> tabanlı kargo izleyicileri sağlıyor.<br>
 4. <strong>U.S.</strong> kargo hırsızlığı; 2024&rsquo;te 3,798 olay; 455M dolar değer çalınıyor.<br>
 5. <strong>strategic theft</strong>; ana hırsızlık kategorisi haline geliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42610-bonus-episode-a-conversation-with-bloodhound-tracking-device-ceo-curtis-spencer"><u>https://www.supplychainbrain.com/articles/42610-bonus-episode-a-conversation-with-bloodhound-tracking-device-ceo-curtis-spencer</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

@@ -80,7 +80,6 @@ The center functions not only as a research, development, and manufacturing hub,
   <li style="text-align: justify"><p style="text-align: justify">The new center aims to become the epicenter of <strong>AI-driven transformation in U.S. manufacturing</strong>.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/graymatter_robotics_unveils_100000_square_foot_ai_robotics_innovation_center_in_california"><u>https://www.supplychain247.com/article/graymatter_robotics_unveils_100000_square_foot_ai_robotics_innovation_center_in_california</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Acquire ERP?" Has Been Published on Google Play Books.</strong></p>

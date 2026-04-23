@@ -35,9 +35,6 @@ tags:
 3. <strong>Nicole Rycroft</strong>; <strong>Canopy</strong> kurucusu olarak <strong>SCB Contributor</strong> olarak yazıyor.<br>
 4. Tam izlenebilirlik ve ormansızlaşma-olmayan tedarik zincirleri norm oluyor gerekiyor.<br>
 5. Markalar; şeffaflık ve sorumlu kaynak kullanımı için fırsatı yakalamakta gerekiyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42950-fashion-cant-afford-to-be-out-of-step-with-the-eudr"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42950-fashion-cant-afford-to-be-out-of-step-with-the-eudr</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

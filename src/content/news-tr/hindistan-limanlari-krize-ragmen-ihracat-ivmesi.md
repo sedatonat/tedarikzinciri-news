@@ -35,4 +35,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://container-news.com/indian-box-volumes-tick-up-despite-red-sea-linked-supply-chain-disruption/"><u>https://container-news.com/indian-box-volumes-tick-up-despite-red-sea-linked-supply-chain-disruption/</u></a></p>

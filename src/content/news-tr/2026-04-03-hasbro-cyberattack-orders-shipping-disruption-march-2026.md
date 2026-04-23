@@ -29,9 +29,6 @@ tags:
 3. 8-K formu SEC'e sunuldu.<br>
 4. Seçili sistemler proaktif olarak çevrim dışı alındı.<br>
 5. Üçüncü taraf adli bilişim soruşturması sürüyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychaindive.com/news/cyberattack-hasbro-impacting-orders-shipping/816485/"><u>https://www.supplychaindive.com/news/cyberattack-hasbro-impacting-orders-shipping/816485/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

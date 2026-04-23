@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">The company says it operates a "<em>charter-intensive fleet model</em>" or "<em>asset-light</em>" approach, meaning many of its vessels are leased rather than owned. The <strong>Israeli government</strong> regards ZIM as a strategic asset and holds a golden share in the company, granting it control over key decisions. From a supply chain perspective, this merger further consolidates the power of the global container market's "Big 3" and meaningfully reshapes capacity and pricing dynamics, particularly on Asia–Mediterranean trade lanes.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43484-hapag-lloyd-to-buy-competitor-zim-in-42b-deal"><u>https://www.supplychainbrain.com/articles/43484-hapag-lloyd-to-buy-competitor-zim-in-42b-deal</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

@@ -35,4 +35,3 @@ tags:
   <li><p>Gelecek planları arasında Doğu Avrupa ve ABD pazarlarına açılma ve bu bölgelerde lojistik pazarını geliştirme hedefleri bulunuyordır.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.lojiport.com/bos-seferler-14-milyar-kayip-yaratiyor-116489h.htm"><u>https://www.lojiport.com/bos-seferler-14-milyar-kayip-yaratiyor-116489h.htm</u></a></p>

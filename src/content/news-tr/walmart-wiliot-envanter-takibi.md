@@ -115,7 +115,6 @@ Bu teknoloji sayesinde:</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/walmart-iot-sensors-wiliot-inventory-tracking/803862/"><u>https://www.supplychaindive.com/news/walmart-iot-sensors-wiliot-inventory-tracking/803862/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

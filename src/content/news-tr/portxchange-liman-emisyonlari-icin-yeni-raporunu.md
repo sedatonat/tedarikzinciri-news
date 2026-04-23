@@ -37,7 +37,6 @@ tags:
   <li><p>CEO Sjoerd de Jager, liman emisyonları raporlaması için birleşik bir küresel standart ihtiyacına dikkat çekti.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/portxchange-releases-port-emissions-report/"><u>https://www.porttechnology.org/news/portxchange-releases-port-emissions-report/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

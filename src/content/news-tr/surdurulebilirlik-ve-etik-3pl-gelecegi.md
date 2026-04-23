@@ -33,4 +33,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.warehousinglogisticsinternational.com/the-only-way-is-ethics/"><u>https://www.warehousinglogisticsinternational.com/the-only-way-is-ethics/</u></a></p>

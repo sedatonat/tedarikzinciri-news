@@ -42,7 +42,6 @@ tags:
 </ul>
 <p style="text-align: justify"><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/41002-gm-inks-deal-with-vianode-for-synthetic-graphite-for-ev-batteries"><u>https://www.supplychainbrain.com/articles/41002-gm-inks-deal-with-vianode-for-synthetic-graphite-for-ev-batteries</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>

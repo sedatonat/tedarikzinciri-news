@@ -39,7 +39,6 @@ tags:
   <li><p>Kapı eşiği otomasyonu yeni fazdır.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41906-amazon-looks-to-test-humanoid-delivery-robots" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/41906-amazon-looks-to-test-humanoid-delivery-robots</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

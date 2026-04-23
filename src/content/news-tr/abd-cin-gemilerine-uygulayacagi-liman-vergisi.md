@@ -39,7 +39,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/tpm25-port-tax-on-chinese-ships-will-make-some-routes-unviable-mscs-toft-5954640"><u>https://www.joc.com/article/tpm25-port-tax-on-chinese-ships-will-make-some-routes-unviable-mscs-toft-5954640</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

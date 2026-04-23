@@ -19,4 +19,3 @@ tags:
 <p>Norman Kanz 'ın Supply Chain Management Review sitesinde yazdığı zihin açıcı makale.</p>
 <p><br></p>
 <p><br></p>
-<p>Haber linki: <a href="https://www.scmr.com/article/using-ai-to-detect-supply-chain-fraud"><u>https://www.scmr.com/article/using-ai-to-detect-supply-chain-fraud</u></a></p>

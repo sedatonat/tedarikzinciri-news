@@ -36,9 +36,6 @@ tags:
 3. Ajansal <strong>AI</strong>; lojistiği görünürlükten otonom yürütüme dönüştürüyor.<br>
 4. <strong>NVIDIA cuOpt</strong>; <strong>VRP</strong> ile rotalama optimizasyonunu hızlandırıyor.<br>
 5. <strong>EPG Greenstone</strong>; otomasyon donanımı orkestrasyon katmanı oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43810-from-insight-to-action-the-agentic-supply-chain"><u>https://www.supplychainbrain.com/articles/43810-from-insight-to-action-the-agentic-supply-chain</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

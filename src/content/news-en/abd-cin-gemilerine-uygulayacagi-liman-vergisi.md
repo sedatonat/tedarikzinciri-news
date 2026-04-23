@@ -39,7 +39,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/tpm25-port-tax-on-chinese-ships-will-make-some-routes-unviable-mscs-toft-5954640"><u>https://www.joc.com/article/tpm25-port-tax-on-chinese-ships-will-make-some-routes-unviable-mscs-toft-5954640</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>

@@ -40,4 +40,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://gcaptain.com/us-labor-unions-call-for-investigation-into-chinas-unfair-shipbuilding-practices/"><u>https://gcaptain.com/us-labor-unions-call-for-investigation-into-chinas-unfair-shipbuilding-practices/</u></a></p>

@@ -50,7 +50,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://splash247.com/nkt-scores-1bn-cabling-deal-in-germany-with-tennet/"><u>https://splash247.com/nkt-scores-1bn-cabling-deal-in-germany-with-tennet/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

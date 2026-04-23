@@ -50,7 +50,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/russias-first-domestically-built-lng-carrier-begins-sea-trials-poised-to-strengthen-arctic-shadow-fleet/"><u>https://gcaptain.com/russias-first-domestically-built-lng-carrier-begins-sea-trials-poised-to-strengthen-arctic-shadow-fleet/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain an ERP? Our Book Has Been Published on Google Play Books.</strong></p>

@@ -31,9 +31,6 @@ tags:
 3. İlk üç ayda 374.000 TEU işlendi; Mart limanın tüm zamanların en güçlü ayı oldu.<br>
 4. Klaipėda; pozitif büyüme rapor eden tek Baltık limanı olarak öne çıktı.<br>
 5. CEO Algis Latakas büyümenin altyapı ve terminal kapasitesi yatırımlarına bağlı olduğunu vurguladı.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/port-of-klaipeda-delivers-record-month-for-cargo-handling/"><u>https://www.porttechnology.org/port-of-klaipeda-delivers-record-month-for-cargo-handling/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

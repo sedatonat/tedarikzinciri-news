@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında <strong>DP World</strong>&rsquo;ün Kasım 2025&rsquo;te 150&rsquo;den fazla üst düzey tedarik zinciri yöneticisi ile yaptığı anket; firmaların büyük çoğunluğunun jeopolitik dalgalanma bekliyor olduğunu ortaya koyuyor. <strong>Kinaxis</strong>, <strong>o9 Solutions</strong>, <strong>Coupa</strong>, <strong>SAP IBP</strong>, <strong>Blue Yonder</strong>, <strong>Anaplan</strong> gibi <em>S&amp;OE</em> (Sales &amp; Operations Execution) ve <em>control tower</em> sağlayıcıları; tahmin-yanıt boşluğunu kapatmak için <em>autonomous decisioning</em> ve <em>agentic AI</em> mimarilerine odaklanıyor. <strong>RPA</strong>; <strong>digital twin</strong> ve <em>scenario modeling</em>; planlama döngüsünü dakikalara indiriyor &mdash; ancak süreç yetkilendirmesi; veri kalitesi ve organizasyon hazırlığı olmadan teknoloji tek başına boşluğu kapatamamakta.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43416-predicting-vs-preparing-the-growing-gap-in-responding-to-disruptions"><u>https://www.supplychainbrain.com/articles/43416-predicting-vs-preparing-the-growing-gap-in-responding-to-disruptions</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

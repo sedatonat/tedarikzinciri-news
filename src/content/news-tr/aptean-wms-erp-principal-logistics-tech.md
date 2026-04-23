@@ -31,4 +31,3 @@ tags:
   <li><p><strong>Covid-19'un Etkisi</strong>: Dijital çözümler talebinin artması, stratejinin başarısını pekiştiriyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10570-aptean-stays-in-acquisition-mode"><u>https://www.thescxchange.com/articles/10570-aptean-stays-in-acquisition-mode</u></a></p>

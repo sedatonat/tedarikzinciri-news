@@ -80,7 +80,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://container-news.com/eu-commission-approves-msc-and-nyk-joint-venture/"><u>https://container-news.com/eu-commission-approves-msc-and-nyk-joint-venture/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

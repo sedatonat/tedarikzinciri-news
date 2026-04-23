@@ -62,7 +62,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">NAEC terminalleri, büyük gemiler nedeniyle yüksek operasyonel stres altında.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/mscs-ultra-large-vessels-create-two-tier-fleet-on-med-naec/"><u>https://www.porttechnology.org/news/mscs-ultra-large-vessels-create-two-tier-fleet-on-med-naec/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

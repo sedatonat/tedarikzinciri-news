@@ -36,9 +36,6 @@ tags:
 3. <strong>Thenamaris</strong>, <strong>Matilda</strong>&rsquo;nın denize elverişli kaldığını açıkladı.<br>
 4. <strong>Chevron</strong>, <strong>Kazakistan</strong> operasyonlarında etki görülmediğini belirtti.<br>
 5. Olaylar küresel petrol piyasasında fazlayı törpüledi ve fiyatları destekledi.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43199-two-oil-tankers-attacked-near-key-cpc-terminal-in-black-sea"><u>https://www.supplychainbrain.com/articles/43199-two-oil-tankers-attacked-near-key-cpc-terminal-in-black-sea</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

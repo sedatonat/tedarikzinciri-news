@@ -36,9 +36,6 @@ tags:
 3. <strong>APM Terminals</strong>&rsquo;in geçici idari operatör rolü gündemde tutuluyor.<br>
 4. <strong>Supreme Court</strong>; Temmuz 2025&rsquo;te imtiyaz sözleşmesini anayasaya aykırı buluyor.<br>
 5. <strong>CK Hutchison</strong>, devralmaya karşı yasal işlem ihtimalini öne çıkarıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43519-panama-orders-occupation-of-two-disputed-canal-ports"><u>https://www.supplychainbrain.com/articles/43519-panama-orders-occupation-of-two-disputed-canal-ports</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

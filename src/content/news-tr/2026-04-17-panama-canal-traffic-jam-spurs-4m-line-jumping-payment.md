@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında <strong>Panama Kanalı</strong>; Atlantik &mdash; Pasifik bağlantısı için küresel ticarette kritik bir <em>chokepoint</em> oluyor &mdash; <strong>Suez Canal</strong>; <strong>Strait of Hormuz</strong>; <strong>Strait of Malacca</strong>; <strong>Bab el-Mandeb</strong>; <strong>Cape of Good Hope</strong>; <strong>Turkish Straits</strong>; <strong>Danish Straits</strong> ile birlikte ana <em>maritime chokepoints</em> arasında yer alıyordır. <strong>Panama Canal Authority</strong> (<strong>ACP</strong>); <em>Neopanamax</em>; <em>Panamax</em>; <em>Aframax</em> sınıfı gemiler için <em>booking</em>; rezervasyon ve müzayede sistemlerini yönetiyordir. Yedek rotalar arasında <strong>Cape of Good Hope</strong>; ABD <em>land bridge</em> (<strong>Long Beach</strong> &mdash; <strong>Houston</strong> &mdash; <strong>New York</strong>); <strong>Northern Sea Route</strong> bulunuyordır. <strong>Maersk</strong>, <strong>MSC</strong>, <strong>CMA CGM</strong>, <strong>Hapag-Lloyd</strong>, <strong>Evergreen</strong>, <strong>ZIM</strong>, <strong>Wanhua Chemical</strong>, <strong>Reliance Industries</strong>, <strong>Aramco</strong>, <strong>QatarEnergy</strong> &mdash; 2026 jeopolitik krizinin lojistik etkilerini doğrudan taşıyordır.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43877-panama-canal-traffic-jam-spurs-4m-line-jumping-payment"><u>https://www.supplychainbrain.com/articles/43877-panama-canal-traffic-jam-spurs-4m-line-jumping-payment</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

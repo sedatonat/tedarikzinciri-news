@@ -22,9 +22,6 @@ tags: ["Port of Felixstowe", "Class 99", "hybrid locomotive", "GB Railfreight", 
 3. Class 99 has a hybrid design that can operate on both electrified and non-electrified routes.<br>
 4. The hybrid design cuts emissions by over 50 per cent.<br>
 5. Felixstowe is the UK's largest intermodal hub and handles the most daily rail services.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/port-of-felixstowe-debuts-class-99-hybrid-locomotives/"><u>https://www.porttechnology.org/port-of-felixstowe-debuts-class-99-hybrid-locomotives/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

@@ -31,9 +31,6 @@ tags:
 3. Çift yakıtlı motorlar konvansiyonel bunker veya sıvılaştırılmış gazla çalışabilecek.<br>
 4. Bu siparişle Maersk'in toplam sipariş portföyü 33 gemiye ulaştı.<br>
 5. Anlaşma, Hapag-Lloyd–ZIM birleşmesine karşı kapasite yarışında stratejik bir hamle olarak değerlendirilebilir.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/maersk-adds-eight-dual-fuel-18600-teu-ships-to-fleet/"><u>https://www.porttechnology.org/maersk-adds-eight-dual-fuel-18600-teu-ships-to-fleet/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -87,7 +87,6 @@ Alt kısımdan elde edilen görüntü ve ses verileri, DB Cargo’nun hâlihazı
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/technology/2025/12/10/db-cargo-tests-underfloor-sensors-for-improved-wagon-inspections/"><u>https://www.railfreight.com/technology/2025/12/10/db-cargo-tests-underfloor-sensors-for-improved-wagon-inspections/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

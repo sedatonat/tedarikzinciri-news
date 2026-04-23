@@ -27,9 +27,6 @@ tags: ['gıda', 'içecek', 'sürdürülebilirlik', 'Acclym', 'Agritask', 'EUDR',
 3. <strong>Scope 3</strong> emissions account for 70–90 percent of the supply chain in food production.<br>
 4. <strong>Acclym</strong>, formerly <strong>Agritask</strong>, is used by <strong>Coca-Cola</strong>, <strong>Bayer</strong>, and <strong>Cargill</strong>.<br>
 5. <strong>EUDR</strong>, <strong>CSRD</strong>, <strong>CSDDD</strong>, and <strong>PPWR</strong> are among the most pressing regulations.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41650-the-top-four-sustainability-challenges-for-food-and-beverage-companies"><u>https://www.supplychainbrain.com/articles/41650-the-top-four-sustainability-challenges-for-food-and-beverage-companies</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP System? Our Book is Now Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>

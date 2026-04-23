@@ -47,7 +47,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.scmr.com/article/are-you-data-ready-or-in-data-despair"><u>https://www.scmr.com/article/are-you-data-ready-or-in-data-despair</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

@@ -39,7 +39,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/40585-watch-the-proximity-premium-can-nearshoring-shockproof-us-supply-chains"><u>https://www.supplychainbrain.com/articles/40585-watch-the-proximity-premium-can-nearshoring-shockproof-us-supply-chains</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

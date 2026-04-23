@@ -42,7 +42,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/cofactr-acquires-factor.io-automate-supplier-tracking"><u>https://www.supplychain247.com/article/cofactr-acquires-factor.io-automate-supplier-tracking</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Procure ERP?" has been published on Google Play Books.</strong></p>

@@ -32,9 +32,6 @@ tags:
 3. Son günlerde bölgede birden fazla konteyner gemisinin hedef alındığı raporlandı.<br>
 4. Umman ve Suudi Arabistan üzerinden kara köprüsü alternatifleri sınırlı kapasite ve yüksek maliyetle karşılaştı.<br>
 5. Armatörler güvenliği önceliklendirirken bölgesel ekipler durumu sürekli değerlendiriyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://container-news.com/shipments-stranded-in-strait-of-hormuz-as-security-risks-halt-vessel-movements/"><u>https://container-news.com/shipments-stranded-in-strait-of-hormuz-as-security-risks-halt-vessel-movements/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

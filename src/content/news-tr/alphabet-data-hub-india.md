@@ -27,10 +27,6 @@ tags:
 3. Green energy servers sürdürülebilirliği destekliyordir.<br>
 4. Google Cloud yerel ekonomiyi dijitalleştirmektedir.<br>
 5. Hindistan Asya veri merkezi pazarında öne çıkıyordır.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42655-alphabet-to-build-15b-data-hub-in-india"><u>https://www.supplychainbrain.com/articles/42655-alphabet-to-build-15b-data-hub-in-india</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -42,4 +42,3 @@ tags:
   <li><p>Alan Murphy, tıkanıklıkların kontrol altına alınması gerektiğini vurguluyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/blank-sailings-surge-amid-widespread-port-congestion/"><u>https://www.porttechnology.org/news/blank-sailings-surge-amid-widespread-port-congestion/</u></a></p>

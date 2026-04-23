@@ -48,7 +48,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/40579-introducing-sourceday-intelligence"><u>https://www.supplychainbrain.com/articles/40579-introducing-sourceday-intelligence</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

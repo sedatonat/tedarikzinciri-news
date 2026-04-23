@@ -82,7 +82,6 @@ Daha yeni olan E3 modelinde tespit edilen dokuz güvenlik açığı ise çoğunl
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42941-how-security-flaws-hidden-in-control-systems-can-threaten-the-entire-cold-chain"><u>https://www.supplychainbrain.com/articles/42941-how-security-flaws-hidden-in-control-systems-can-threaten-the-entire-cold-chain</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

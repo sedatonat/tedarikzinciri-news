@@ -41,7 +41,6 @@ tags:
   <li><p><strong>Küresel Etki</strong>: Çin limanlarının performansı, küresel ekonomik büyümeye olumlu katkı sağlıyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/chinese-ports-near-250-million-teus/"><u>https://www.porttechnology.org/news/chinese-ports-near-250-million-teus/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

@@ -27,9 +27,6 @@ tags: ['DP World', 'Montreal Limanı', 'Contrecoeur', 'konteyner terminali', 'Ka
 3. Project cost is 1.6 billion <strong>CAD</strong> (1.2 billion <strong>USD</strong>).<br>
 4. <strong>Caisse de Depot Quebec</strong> owns 45% of <strong>DP World Canada</strong>.<br>
 5. Location on the <strong>St. Lawrence</strong> River provides access to the <strong>Great Lakes</strong> and <strong>U.S. Midwest</strong>.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42460-dp-world-wins-contract-to-operate-montreal-ports-new-terminal"><u>https://www.supplychainbrain.com/articles/42460-dp-world-wins-contract-to-operate-montreal-ports-new-terminal</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book is Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>

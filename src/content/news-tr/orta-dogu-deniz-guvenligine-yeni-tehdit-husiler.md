@@ -37,4 +37,3 @@ tags:
   <li><p>İsrail'in Filistin soykırımı etkisi Orta Doğu'nun diğer bölgelerine taştı.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.reuters.com/world/middle-east/yemens-houthis-target-fuel-tanker-torm-thor-gulf-aden-2024-02-24/"><u>https://www.reuters.com/world/middle-east/yemens-houthis-target-fuel-tanker-torm-thor-gulf-aden-2024-02-24/</u></a></p>

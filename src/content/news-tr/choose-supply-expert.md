@@ -29,10 +29,6 @@ tags:
 3. ERP/WMS/TMS entegrasyon deneyimi aranmalıdır.<br>
 4. Milestone fees risk paylaşımını dengeler.<br>
 5. Kültürel uyum kabulü hızlandırıyordır.</p>
-<p><br>
----<br>
-<strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/41771-picking-the-right-supply-chain-expert-for-your-business"><u>https://www.supplychainbrain.com/articles/41771-picking-the-right-supply-chain-expert-for-your-business</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

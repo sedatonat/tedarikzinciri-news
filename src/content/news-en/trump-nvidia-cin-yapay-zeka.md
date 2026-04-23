@@ -62,7 +62,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The policy signals a shift toward <strong>controlled access plus revenue sharing</strong> rather than an outright ban.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/42957-trump-to-allow-nvidia-to-sell-advanced-ai-chips-to-chinese-customers"><u>https://www.supplychainbrain.com/articles/42957-trump-to-allow-nvidia-to-sell-advanced-ai-chips-to-chinese-customers</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -50,7 +50,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/dont-overlook-shippings-critical-role-in-u-s-sustainable-transport-future-abs-chairman-and-ceo-urges-washington/"><u>https://gcaptain.com/dont-overlook-shippings-critical-role-in-u-s-sustainable-transport-future-abs-chairman-and-ceo-urges-washington/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

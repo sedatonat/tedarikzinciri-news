@@ -28,9 +28,6 @@ tags: ['DP World', 'Essa Kazim', 'terminal işletmeciliği', 'TEU', 'EBITDA', 'M
 3. Total throughput of 93.4 million <strong>TEU</strong> grew 5.8%.<br>
 4. Capex of $3.1 billion with $100 million for <strong>Manila</strong> and $400 million for <strong>Port Botany</strong>.<br>
 5. <strong>Kazim</strong> became chairman following <strong>bin Sulayem</strong>'s removal.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43650-dp-world-reports-record-revenue-and-earnings-in-2025"><u>https://www.supplychainbrain.com/articles/43650-dp-world-reports-record-revenue-and-earnings-in-2025</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book Is Now Published on Google Play Books.</strong></p>
 <p>#What Is ERP?</p>

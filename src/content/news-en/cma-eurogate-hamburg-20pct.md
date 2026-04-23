@@ -72,7 +72,6 @@ with aggressive expansions.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/business/2025/11/17/cma-cgm-to-acquire-stake-in-eurogate-terminal-in-hamburg/"><u>https://www.railfreight.com/business/2025/11/17/cma-cgm-to-acquire-stake-in-eurogate-terminal-in-hamburg/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

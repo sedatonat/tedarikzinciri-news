@@ -39,7 +39,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/41067-triventure-logistics-growth-built-on-wms-innovation"><u>https://www.supplychainbrain.com/articles/41067-triventure-logistics-growth-built-on-wms-innovation</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

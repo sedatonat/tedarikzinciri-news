@@ -51,7 +51,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/trump-tariffs-status-canada-mexico-china-eu/743577/"><u>https://www.supplychaindive.com/news/trump-tariffs-status-canada-mexico-china-eu/743577/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

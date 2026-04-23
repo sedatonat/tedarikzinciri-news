@@ -29,4 +29,3 @@ tags:
   <li><p>Empty mile ratios and driver turnover rates increased.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10495-atri-most-trucking-operating-margins-were-6-or-lower-in-2023"><u>https://www.thescxchange.com/articles/10495-atri-most-trucking-operating-margins-were-6-or-lower-in-2023</u></a></p>

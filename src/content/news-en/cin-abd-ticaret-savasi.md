@@ -100,7 +100,6 @@ Nevertheless, today's figures clearly demonstrate that <strong>China's role in t
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/chinas-1-billion-of-daily-us-exports-show-xis-bargaining-power/"><u>https://gcaptain.com/chinas-1-billion-of-daily-us-exports-show-xis-bargaining-power/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Get ERP?" has been published on Google Play Books.</strong></p>

@@ -42,7 +42,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/reefer-market-growth-in-2025-filled-with-risk-5911954"><u>https://www.joc.com/article/reefer-market-growth-in-2025-filled-with-risk-5911954</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

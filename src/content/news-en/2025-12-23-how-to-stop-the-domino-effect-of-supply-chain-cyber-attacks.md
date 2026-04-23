@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain standpoint, the foundation of defense is rigorous vendor inventory, real-time access monitoring, least-privilege enforcement, scheduled credential rotation, and mandatory <strong>SBOM</strong> (Software Bill of Materials) governance. Managing open-source dependencies through signed packages, automated scanning, and a <em>zero trust</em> architecture is essential to limit the spread of worms such as Shai-Hulud. Preparing today for AI-enabled attack scenarios is no longer optional &mdash; it is a structural requirement to keep tomorrow&rsquo;s domino effect contained.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42981-how-to-stop-the-domino-effect-of-supply-chain-cyber-attacks"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42981-how-to-stop-the-domino-effect-of-supply-chain-cyber-attacks</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

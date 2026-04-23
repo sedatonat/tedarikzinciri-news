@@ -21,9 +21,6 @@ tags: ["TT Club", "BSI Consulting", "cargo theft", "supply chain risk", "piracy"
 3. In North America, rail-related theft rose from 4% in 2024 to 10% in 2025.<br>
 4. UK losses hit $149M in 2024, including a $9M smartphone theft at Heathrow Airport.<br>
 5. Sea piracy jumped 85% in the first half of 2025, adding a fresh risk vector for shippers.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/cargo-theft-surge-exposes-global-supply-chain-risk/"><u>https://www.porttechnology.org/cargo-theft-surge-exposes-global-supply-chain-risk/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

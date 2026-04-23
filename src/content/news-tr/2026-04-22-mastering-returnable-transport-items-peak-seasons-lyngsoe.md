@@ -36,9 +36,6 @@ tags:
 3. <strong>RFID</strong> ve <strong>BLE</strong>; uçtan uca varlık görünürlüğü sağlıyor.<br>
 4. <strong>Lyngsoe Systems</strong>; <strong>postal/parcel</strong> kökenli pazara <strong>RTI</strong> alanına genişliyor.<br>
 5. 100K+ varlıklı vaka; kayıp azalması ve dengeli dağılım sağlıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43809-mastering-returnable-transport-items-rtis-in-peak-seasons"><u>https://www.supplychainbrain.com/articles/43809-mastering-returnable-transport-items-rtis-in-peak-seasons</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

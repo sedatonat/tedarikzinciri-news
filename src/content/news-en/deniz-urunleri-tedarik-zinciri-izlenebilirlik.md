@@ -36,4 +36,3 @@ tags:
   <li><p>The new partnership allows KDEs collected from seafood suppliers to be transmitted to retailers and wholesalers without the need for an additional portal or system.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10177-seafood-supply-chain-gains-improved-track-and-trace-network"><u>https://www.thescxchange.com/articles/10177-seafood-supply-chain-gains-improved-track-and-trace-network</u></a></p>

@@ -34,4 +34,3 @@ tags:
   <li><p>Şirket, Frankfurt, Almanya'da Avrupa merkezine sahip ve geniş bir yetkili bayi ağı tarafından destekleniyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.warehousinglogisticsinternational.com/discover-libiaos-robot-based-sorting-solutions-at-intralogistex/"><u>https://www.warehousinglogisticsinternational.com/discover-libiaos-robot-based-sorting-solutions-at-intralogistex/</u></a></p>

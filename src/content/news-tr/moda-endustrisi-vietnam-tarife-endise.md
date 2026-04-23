@@ -47,7 +47,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Olası tarifeler, moda endüstrisinin tedarik zincirinde önemli değişikliklere ve maliyet artışlarına yol açabilir.</p></li>
 </ul>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/fashion-industry-vietnam-tariff-risks/742433/"><u>https://www.supplychaindive.com/news/fashion-industry-vietnam-tariff-risks/742433/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

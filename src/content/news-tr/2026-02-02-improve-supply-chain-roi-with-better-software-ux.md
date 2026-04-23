@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında <strong>SAP Fiori</strong>, <strong>Oracle Redwood</strong> ve <strong>Microsoft Dynamics 365</strong> arayüzlerinde benimseme oranları yüzde 40-60 bandında kaldı; bu durum doğrudan yıllık milyonlarca dolarlık lisans ve eğitim yatırımının atıl kalmasına neden oldu. <strong>WalkMe</strong>, <strong>Pendo</strong> ve <strong>Whatfix</strong> gibi <strong>digital adoption platform (DAP)</strong> çözümleri, benimseme açığını kapatmak için kritik bir araç katmanı olarak konumlandı. <strong>S&OP</strong>, <strong>MRP</strong> ve <strong>WMS</strong> kullanıcıları için bağlam içi rehberlik, yatırım getirisini hızlandırdı ve dönüşüm sürelerini kısalttı.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43247-improve-supply-chain-roi-with-better-software-ux"><u>https://www.supplychainbrain.com/articles/43247-improve-supply-chain-roi-with-better-software-ux</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

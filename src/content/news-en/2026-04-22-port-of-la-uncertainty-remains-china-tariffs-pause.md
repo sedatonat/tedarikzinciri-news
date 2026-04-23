@@ -27,9 +27,6 @@ tags: ['POLA', 'liman', 'Gene Seroka', 'Çin', 'tarife', 'konteyner', 'Trump', '
 3. <strong>U.S.</strong> companies are resuming orders — shipping rates are increasing.<br>
 4. <strong>NRF Global Port Tracker</strong> forecasts 15-25% import decline in H2 2025.<br>
 5. <strong>POLA</strong> is the largest U.S. container port — volumes remain below pandemic peaks.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41820-port-of-la-uncertainty-remains-following-pause-on-china-tariffs"><u>https://www.supplychainbrain.com/articles/41820-port-of-la-uncertainty-remains-following-pause-on-china-tariffs</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it free of charge via this link.</p>

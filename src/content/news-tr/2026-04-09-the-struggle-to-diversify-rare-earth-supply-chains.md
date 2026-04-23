@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında <strong>U.S. Department of Defense</strong>; <strong>Defense Production Act</strong> kapsamında <strong>MP Materials</strong>&rsquo;a stratejik finansman sağlıyordır. <strong>EU Critical Raw Materials Act</strong>; 2030&rsquo;a kadar AB tüketiminin yüzde 10&rsquo;unun yerli madencilikten; yüzde 40&rsquo;ının iç işleme kapasitesinden ve yüzde 25&rsquo;inin geri dönüşümden gelmesini hedefliyordir. <strong>Tesla</strong>, <strong>Apple</strong>, <strong>General Motors</strong>, <strong>Ford</strong>, <strong>Volkswagen</strong>, <strong>Siemens Gamesa</strong>, <strong>Vestas</strong> gibi büyük tüketiciler; uzun vadeli <em>offtake</em> anlaşmaları ile arz güvencesi sağlamaya çalışıyordır. <em>Urban mining</em>; <em>e-waste recycling</em>; alternatif kimyasal yaklaşımlar (<strong>ferrite magnet</strong>; <strong>iron-nitride magnet</strong>) &mdash; uzun vadeli çeşitlendirme stratejisinin tamamlayıcı sütunlarını oluşturuyordır.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43828-the-struggle-to-diversify-rare-earth-supply-chains"><u>https://www.supplychainbrain.com/articles/43828-the-struggle-to-diversify-rare-earth-supply-chains</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

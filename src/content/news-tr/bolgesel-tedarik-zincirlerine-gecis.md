@@ -39,4 +39,3 @@ tags:
 <p><br></p>
 <p><strong>İlgili makalemiz: </strong><a href="https://www.tedarikzinciriportali.com/post/terim-regionalization-bolgesel-uretim-tedarik"><u>https://www.tedarikzinciriportali.com/post/terim-regionalization-bolgesel-uretim-tedarik</u></a></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/39578-outpacing-disruption-by-regionalizing-supply-chains"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/39578-outpacing-disruption-by-regionalizing-supply-chains</u></a></p>

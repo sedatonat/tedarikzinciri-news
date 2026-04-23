@@ -43,7 +43,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/40702-procurement-software-market-growth-brings-exciting-times-for-cpos"><u>https://www.supplychainbrain.com/articles/40702-procurement-software-market-growth-brings-exciting-times-for-cpos</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

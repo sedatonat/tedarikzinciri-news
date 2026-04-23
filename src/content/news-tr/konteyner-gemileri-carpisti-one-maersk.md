@@ -40,7 +40,6 @@ tags:
 <p><a href="https://www.youtube.com/watch?v=JuBK_1aiLDc"><u>https://www.youtube.com/watch?v=JuBK_1aiLDc</u></a></p>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://container-news.com/one-vessel-scrapes-maersk-boxship-in-hong-kong/"><u>https://container-news.com/one-vessel-scrapes-maersk-boxship-in-hong-kong/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

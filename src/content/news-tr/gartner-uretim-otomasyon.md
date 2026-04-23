@@ -62,7 +62,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Otomasyon, yalnızca üretim hızını değil, <strong>esneklik, kalite ve sürdürülebilirlik</strong> hedeflerini de destekliyor.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42737-gartner-manufacturing-industry-needs-reset-on-advanced-automation"><u>https://www.supplychainbrain.com/articles/42737-gartner-manufacturing-industry-needs-reset-on-advanced-automation</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

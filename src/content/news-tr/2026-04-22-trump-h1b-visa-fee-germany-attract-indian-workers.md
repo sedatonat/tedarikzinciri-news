@@ -35,9 +35,6 @@ tags:
 3. <strong>Philipp Ackermann</strong>; 23 Eylül&rsquo;de sosyal medya kampanyasını başlatıyor.<br>
 4. 124,000 <strong>Indian</strong>; <strong>Germany</strong>&rsquo;de çalışıyor &mdash; ortalama <strong>German</strong>&rsquo;dan fazla kazanıyor.<br>
 5. <strong>Indians</strong>; 2024 <strong>U.S.</strong> <strong>H-1B</strong> onaylarının %70&rsquo;ini oluşturuyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42570-trump-h-1b-visa-fee-opens-door-for-germany-to-attract-indian-workers"><u>https://www.supplychainbrain.com/articles/42570-trump-h-1b-visa-fee-opens-door-for-germany-to-attract-indian-workers</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

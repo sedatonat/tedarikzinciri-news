@@ -43,4 +43,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.lojiport.com/sealead-stm-hatti-ile-fas-ispanya-ve-turkiyeyi-birbirine-baglayacak-117050h.htm"><u>https://www.lojiport.com/sealead-stm-hatti-ile-fas-ispanya-ve-turkiyeyi-birbirine-baglayacak-117050h.htm</u></a></p>

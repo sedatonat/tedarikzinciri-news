@@ -45,7 +45,6 @@ tags:
   <li><p>Control tower istisna yönetimini hızlandırıyor.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41520-trump-is-already-slowing-global-trade-as-companies-pause-orders"><u>https://www.supplychainbrain.com/articles/41520-trump-is-already-slowing-global-trade-as-companies-pause-orders</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

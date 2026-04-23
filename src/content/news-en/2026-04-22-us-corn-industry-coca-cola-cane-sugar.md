@@ -27,9 +27,6 @@ tags: ['Coca-Cola', 'mısır', 'HFCS', 'şeker kamışı', 'ABD tarım', 'Trump 
 3. <strong>Coca-Cola</strong> released a statement on July 17 defending its use of <strong>HFCS</strong>.<br>
 4. <strong>RFK Jr.</strong> (<strong>HHS</strong> Secretary) has long opposed <strong>HFCS</strong>.<br>
 5. "<strong>Mexican Coke</strong>" is the version of <strong>Coca-Cola</strong> that uses cane sugar.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42170-us-corn-industry-coca-colas-rumored-switch-to-cane-sugar-doesnt-make-sense"><u>https://www.supplychainbrain.com/articles/42170-us-corn-industry-coca-colas-rumored-switch-to-cane-sugar-doesnt-make-sense</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge through this link.</p>

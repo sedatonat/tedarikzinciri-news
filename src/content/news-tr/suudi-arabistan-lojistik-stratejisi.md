@@ -73,7 +73,6 @@ Gayrimenkul projelerindeki <strong>yüksek maliyet</strong> ve <strong>geciken g
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://container-news.com/saudi-arabia-pivots-to-logistics-as-kingdom-reshapes-investment-strategy/"><u>https://container-news.com/saudi-arabia-pivots-to-logistics-as-kingdom-reshapes-investment-strategy/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -31,9 +31,6 @@ tags:
 3. AFSS amonyağı motora besliyor, AGAS yakıt geçişinde fazla amonyağı güvenli işliyor.<br>
 4. Her iki sistem uzaktan operasyon ve otomatik kontrolü destekliyor.<br>
 5. Amonyak yakıtı, karbonsuz denizcilik tahrikine geçişte umut vaat eden bir seçenek.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/mitsubishi-shipbuilding-ships-first-ammonia-fuel-systems/"><u>https://www.porttechnology.org/mitsubishi-shipbuilding-ships-first-ammonia-fuel-systems/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

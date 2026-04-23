@@ -25,9 +25,6 @@ tags: ["Pilbara Ports", "Port Hedland", "seafarers centre", "Benchmark Construct
 3. The centre will house a lounge, library, meditation/prayer rooms and a shared chapel.<br>
 4. Wi-Fi, SIM cards and harbour-tour viewing terraces will be available on site.<br>
 5. Port Hedland is Australia's largest tonnage port and the world's biggest iron ore export gateway.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/pilbara-ports-begins-21-million-seafarers-facility-build/"><u>https://www.porttechnology.org/pilbara-ports-begins-21-million-seafarers-facility-build/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

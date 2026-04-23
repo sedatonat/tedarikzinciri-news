@@ -111,7 +111,6 @@ Companies now ask not "what will happen?" but "<strong>what is my risk tolerance
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/42772-coping-with-new-sources-of-supply-chain-volatility-the-more-the-merrier"><u>https://www.supplychainbrain.com/articles/42772-coping-with-new-sources-of-supply-chain-volatility-the-more-the-merrier</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -22,9 +22,6 @@ tags: ["Hapag-Lloyd", "ZEMBA", "e-methanol", "zero emission", "Amazon", "IKEA", 
 3. The contract will deliver 120,000 tonnes of CO2e emissions abatement over a minimum of 3 years.<br>
 4. ZEMBA brings together more than 45 global cargo owners, including Amazon, IKEA, and Nike.<br>
 5. The e-methanol to be used offers a 90 per cent reduction in lifecycle emissions compared to fossil fuels.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/news/hapag-lloyd-wins-zemba-e-methanol-shipping-tender/"><u>https://www.porttechnology.org/news/hapag-lloyd-wins-zemba-e-methanol-shipping-tender/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

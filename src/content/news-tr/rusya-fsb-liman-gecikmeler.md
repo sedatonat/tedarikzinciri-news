@@ -77,7 +77,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://splash247.com/fsb-clearance-and-underwater-checks-slow-russian-port-calls/"><u>https://splash247.com/fsb-clearance-and-underwater-checks-slow-russian-port-calls/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -37,4 +37,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.scdigest.com/ONTARGET/24-02-27_WAREHOUSE_SPACE_MARKET_COOLING.PHP?cid=21283&amp;ctype=content"><u>https://www.scdigest.com/ONTARGET/24-02-27_WAREHOUSE_SPACE_MARKET_COOLING.PHP?cid=21283&amp;ctype=content</u></a></p>

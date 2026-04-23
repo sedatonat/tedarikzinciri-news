@@ -32,9 +32,6 @@ tags:
 3. Khor Fakkan tıkanıklık yaşarken Fujairah ve Sohar limanları daha sorunsuz çalıştı.<br>
 4. Bunker yakıt fiyatları savaş öncesine göre yüzde 55 yüksek; zirveden yüzde 15 düştü.<br>
 5. Düşük sezonsal talep ve yüksek kapasite seviyeleri navlun oranları üzerindeki baskıyı sınırlandırdı.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://container-news.com/freightos-weekly-update-asia-europe-ocean-rates-slide-despite-hormuz-pressure/"><u>https://container-news.com/freightos-weekly-update-asia-europe-ocean-rates-slide-despite-hormuz-pressure/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

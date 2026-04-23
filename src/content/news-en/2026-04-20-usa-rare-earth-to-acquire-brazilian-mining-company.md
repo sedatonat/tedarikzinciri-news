@@ -28,9 +28,6 @@ tags:
 <p style="text-align: justify">The deal is expected to close before the end of 2026, pending regulatory approvals. "This acquisition will serve as a cornerstone of global rare earth supply security for decades to come," <strong>Humpton</strong> said. From a supply chain perspective, this transaction is a major milestone in the West's critical minerals supply chain strategy &mdash; directly challenging China's historical dominance in <strong>HREE</strong> production.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, <strong>Serra Verde</strong>'s <strong>ion-adsorption clay</strong>-type deposits share geological characteristics similar to the Jiangxi deposits in China &mdash; significant for high-value heavy rare earth elements such as <strong>terbium</strong>, <strong>dysprosium</strong> and <strong>yttrium</strong>. Together with Australia-based <strong>Lynas Rare Earths</strong> and California's <strong>MP Materials</strong>, <strong>USA Rare Earth</strong> now becomes one of the three main pillars of the <em>non-China</em> rare earth ecosystem. For the <strong>Pentagon</strong>'s defense stockpiling programs, EV manufacturers (<strong>Tesla</strong>, <strong>Ford</strong>, <strong>GM</strong>) and wind turbine OEMs, this means a fundamental shift in supply diversification strategies.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43891-usa-rare-earth-to-acquire-brazilian-mining-company"><u>https://www.supplychainbrain.com/articles/43891-usa-rare-earth-to-acquire-brazilian-mining-company</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the U.S. East Coast is a critical corridor for major container, automotive and LNG ports including the <strong>Port of New York and New Jersey</strong>, <strong>Savannah</strong>, <strong>Charleston</strong>, <strong>Norfolk</strong>, <strong>Baltimore</strong>, <strong>Jacksonville</strong> and <strong>Miami</strong>. Speed limits matter to large carriers such as <strong>Maersk</strong>, <strong>MSC</strong>, <strong>CMA CGM</strong>, <strong>Hapag-Lloyd</strong>, <strong>Evergreen</strong> and <strong>ZIM</strong> on dimensions including <em>schedule reliability</em>, bunker fuel consumption, CO2 emissions (under the <strong>IMO</strong>&rsquo;s <em>EEXI</em> and <em>CII</em> rules) and ETA accuracy. The environment-versus-economy balance will continue to drive contested legal processes through 2026 under <em>NOAA Fisheries</em>, the U.S. Coast Guard, EPA, NMFS and the <strong>Endangered Species Act</strong>.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43480-noaa-to-change-rules-on-vessel-speeds"><u>https://www.supplychainbrain.com/articles/43480-noaa-to-change-rules-on-vessel-speeds</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

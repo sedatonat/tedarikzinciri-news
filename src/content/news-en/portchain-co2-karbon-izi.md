@@ -71,7 +71,6 @@ driving operational efficiency.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.porttechnology.org/news/portchain-network-helps-carriers-save-800000-tonnes-of-co2/"><u>https://www.porttechnology.org/news/portchain-network-helps-carriers-save-800000-tonnes-of-co2/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -23,9 +23,6 @@ tags: ["Hasbro", "cyberattack", "SEC 8-K", "supply chain risk", "forensics"]
 3. Affected systems were isolated; manufacturing continues.<br>
 4. Back-office processes experienced temporary disruption.<br>
 5. A final assessment of customer data impact is pending.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychaindive.com/news/hasbro-cyberattack-march-2026/817030/"><u>https://www.supplychaindive.com/news/hasbro-cyberattack-march-2026/817030/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

@@ -73,7 +73,6 @@ Minardi’ye göre BrainBox AI, Amazon’un sürdürülebilirlik hedefleri ile o
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/amazon-sustainability-grocery-fulfillment/807445/"><u>https://www.supplychaindive.com/news/amazon-sustainability-grocery-fulfillment/807445/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

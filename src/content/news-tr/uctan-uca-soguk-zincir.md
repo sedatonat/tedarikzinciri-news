@@ -37,7 +37,6 @@ tags:
   <li><p>Fire ve şikayet oranı düşer.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41856-end-to-end-monitoring-how-the-cold-chain-keeps-its-cool" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/41856-end-to-end-monitoring-how-the-cold-chain-keeps-its-cool</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

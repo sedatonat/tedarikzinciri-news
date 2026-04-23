@@ -37,8 +37,7 @@ tags:
 5. The model brings public-private collaboration into the field without creating <strong>&ldquo;operational friction&rdquo;</strong>.</p>
 <p>Source:<br>
 ---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43838-cbp-expands-product-authentication-tech-program"><u>https://www.supplychainbrain.com/articles/43838-cbp-expands-product-authentication-tech-program</u></a><br>
--------------------</p>
+</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

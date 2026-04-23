@@ -69,7 +69,6 @@ En büyük pazar ise <strong>Kazakistan</strong>, toplam ihracatın <strong>%69�
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://seanews.ru/en/2025/11/10/en-ice-cream-export-from-siberia/"><u>https://seanews.ru/en/2025/11/10/en-ice-cream-export-from-siberia/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

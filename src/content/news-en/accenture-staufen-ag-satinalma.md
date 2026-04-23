@@ -49,7 +49,6 @@ tags:
 </ul>
 <p style="text-align: justify"><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/accenture-acquires-staufen-ag-improve-manufacturing-efficiency"><u>https://www.supplychain247.com/article/accenture-acquires-staufen-ag-improve-manufacturing-efficiency</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Select ERP? Our Book is Published on Google Play Books.</strong></p>

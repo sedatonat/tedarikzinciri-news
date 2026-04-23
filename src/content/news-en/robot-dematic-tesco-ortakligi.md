@@ -40,7 +40,6 @@ tags:
 </ul>
 <p style="text-align: justify"><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/dematic-transcend-retail-solutions-tesco-partnership-grocery-fulfillment"><u>https://www.supplychain247.com/article/dematic-transcend-retail-solutions-tesco-partnership-grocery-fulfillment</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book on How to Implement ERP has been published on Google Play Books.</strong></p>

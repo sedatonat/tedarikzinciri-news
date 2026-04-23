@@ -46,7 +46,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Entegre ve güvenli dijital ekosistemler, hızlı karar alma ve çevikliği mümkün kılıyordır.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42967-futureproofing-fast-moving-consumer-goods-fmcg-supply-chains-a-game-plan-for-navigating-global-disruption"><u>https://www.supplychainbrain.com/articles/42967-futureproofing-fast-moving-consumer-goods-fmcg-supply-chains-a-game-plan-for-navigating-global-disruption</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

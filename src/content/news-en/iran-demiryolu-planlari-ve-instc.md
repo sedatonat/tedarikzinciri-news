@@ -53,7 +53,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/beltandroad/2025/01/21/with-trump-behind-the-wheel-are-irans-rail-plans-and-the-instc-in-danger/"><u>https://www.railfreight.com/beltandroad/2025/01/21/with-trump-behind-the-wheel-are-irans-rail-plans-and-the-instc-in-danger/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>

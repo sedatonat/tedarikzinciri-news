@@ -27,9 +27,6 @@ tags: ['Tesla', 'Çin', 'Elon Musk', 'Bloomberg', 'CPCA', 'Shanghai', 'BYD', 'EV
 3. <strong>Elon Musk</strong> faces a challenging Q4 for global sales.<br>
 4. <strong>Europe</strong> is showing a parallel downtrend.<br>
 5. <strong>BYD</strong>, <strong>Xiaomi</strong>, and other <strong>Chinese</strong> players are capturing market share.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42790-tesla-china-shipments-drop-for-the-eighth-time-in-10-months"><u>https://www.supplychainbrain.com/articles/42790-tesla-china-shipments-drop-for-the-eighth-time-in-10-months</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via the link.</p>

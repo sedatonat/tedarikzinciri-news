@@ -23,9 +23,6 @@ tags: ["IMO", "denizcilik dijitalleşmesi", "siber güvenlik", "FAL Komitesi", "
 3. The strategy emphasises interoperability, data sharing, and governance.<br>
 4. The Legal, Maritime Safety, and Environment Committees will review it before the 35th IMO Assembly in 2027.<br>
 5. FAL Convention Annex amendments make cybersecurity mandatory for maritime single windows.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/imo-approves-global-maritime-digitalisation-strategy/"><u>https://www.porttechnology.org/imo-approves-global-maritime-digitalisation-strategy/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

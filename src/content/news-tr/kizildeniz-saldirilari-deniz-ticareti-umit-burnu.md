@@ -32,4 +32,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.lojiport.com/gemi-trafigi-suveyste-dip-umit-burnunda-tavan-yapti-116563h.htm"><u>https://www.lojiport.com/gemi-trafigi-suveyste-dip-umit-burnunda-tavan-yapti-116563h.htm</u></a></p>

@@ -35,9 +35,6 @@ tags:
 3. <strong>Michelle Phillips</strong>; <strong>Transnet</strong> CEO&rsquo;su olarak 10 Aralık&rsquo;ta açıklamayı yapıyor.<br>
 4. <strong>Pier 2</strong>; <strong>South Africa</strong> konteyner hacminin %40&rsquo;ını işliyor.<br>
 5. Kapasite; %40 artıyor ve 2.8 milyon <strong>TEU</strong>&rsquo;ya çıkıyor bekleniyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42990-south-africa-signs-its-first-ever-port-privatization-deal"><u>https://www.supplychainbrain.com/articles/42990-south-africa-signs-its-first-ever-port-privatization-deal</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

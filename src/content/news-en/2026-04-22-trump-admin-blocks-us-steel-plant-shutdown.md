@@ -27,9 +27,6 @@ tags: ['U.S. Steel', 'Nippon Steel', 'Trump', 'Howard Lutnick', 'golden share', 
 3. Following <strong>Howard Lutnick's</strong> intervention, <strong>U.S. Steel</strong> announces on September 19 that the facility will remain open.<br>
 4. The "golden share" mechanism is employed in the <strong>Nippon Steel</strong>-<strong>U.S. Steel</strong> $14 billion merger.<br>
 5. Federal government gains control over board seats.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42530-trump-admin-blocks-shutdown-of-us-steel-plant"><u>https://www.supplychainbrain.com/articles/42530-trump-admin-blocks-shutdown-of-us-steel-plant</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free through this link.</p>

@@ -32,4 +32,3 @@ tags:
   <li><p>Sıfır emisyonlu deniz yakıtlarının üretimi için strateji ve teslimat planı hazırlanmalı.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/uk-committee-releases-net-zero-and-shipping-report/"><u>https://www.porttechnology.org/news/uk-committee-releases-net-zero-and-shipping-report/</u></a></p>

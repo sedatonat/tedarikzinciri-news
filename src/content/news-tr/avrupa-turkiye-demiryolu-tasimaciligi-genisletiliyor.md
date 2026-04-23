@@ -31,4 +31,3 @@ tags:
   <li><p>Yıllık 1,9 milyon aracın yaklaşık %14'ü demiryolu ile taşınıyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.lojistikhatti.com/haber/2024/02/hodlmayr-avrupa-ile-turkiye-arasinda-demiryolu-tasimasini-surekli-hale-getiriyor"><u>https://www.lojistikhatti.com/haber/2024/02/hodlmayr-avrupa-ile-turkiye-arasinda-demiryolu-tasimasini-surekli-hale-getiriyor</u></a></p>

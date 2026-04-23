@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında <strong>Michelin</strong>, <strong>Bridgestone</strong>, <strong>Goodyear</strong>, <strong>Continental</strong> ve <strong>Pirelli</strong>; doğal kauçuk için <strong>EUDR (EU Deforestation Regulation)</strong> uyumu kapsamında izlenebilirlik altyapısına yatırım yapmak zorunda kalıyor. Geri dönüştürülmüş karbon siyahı («rCB») ve <strong>guayule</strong> kaynaklı alternatif kauçuk; orta vadeli risk azaltma stratejisi olarak öne çıkıyor. <strong>VMI</strong> programları ve uzun vadeli <strong>offtake</strong> sözleşmeleri; emtia oynaklığını OEM tedariki üzerine yansıtmamakta için kritik önem taşıyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/43418-navigating-volatility-and-resilience-in-the-tire-supply-chain"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/43418-navigating-volatility-and-resilience-in-the-tire-supply-chain</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

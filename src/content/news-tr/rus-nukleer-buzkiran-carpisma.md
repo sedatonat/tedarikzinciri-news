@@ -39,7 +39,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/russian-nuclear-icebreaker-sustains-damage-in-arctic-collision-with-cargo-ship/"><u>https://gcaptain.com/russian-nuclear-icebreaker-sustains-damage-in-arctic-collision-with-cargo-ship/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

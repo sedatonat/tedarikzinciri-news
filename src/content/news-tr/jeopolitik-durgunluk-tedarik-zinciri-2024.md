@@ -41,4 +41,3 @@ tags:
   <li><p>Jeopolitik risklerin bir sonraki seçim döngüsünde çözülemeyeceği, bu sorunların devam edeceği öngörülüyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10239-keynote-geopolitical-recession-is-putting-a-tax-on-global-supply-chains"><u>https://www.thescxchange.com/articles/10239-keynote-geopolitical-recession-is-putting-a-tax-on-global-supply-chains</u></a></p>

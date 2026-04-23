@@ -28,9 +28,6 @@ tags: ['RELEX Solutions', 'yapay zeka', 'üretken yapay zeka', 'ajansal yapay ze
 3. 47% are deploying AI in inventory and supply optimization; 41% in logistics and routing.<br>
 4. 71% plan to invest in generative and agentic AI; 60% in predictive AI over 3-5 years.<br>
 5. 44% identify consumer demand volatility as their top challenge.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43849-report-ai-moves-into-core-supply-chain-decisions"><u>https://www.supplychainbrain.com/articles/43849-report-ai-moves-into-core-supply-chain-decisions</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our Book is Now Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

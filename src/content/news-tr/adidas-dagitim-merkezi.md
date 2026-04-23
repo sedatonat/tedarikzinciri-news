@@ -41,7 +41,6 @@ tags:
   <li><p>Düşük karbonlu DC tasarımı standartlaşıyordır.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42315-adidas-sets-the-standard-for-modern-dcs" rel="noopener" target="_new">https://www.supplychainbrain.com/articles/42315-adidas-sets-the-standard-for-modern-dcs</a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

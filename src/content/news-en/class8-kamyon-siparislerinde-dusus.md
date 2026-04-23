@@ -75,7 +75,6 @@ According to Vieth, while reduced EPA'27 uncertainty is a positive step, strong 
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/preliminary_november_class_8_truck_orders_see_another_month_of_declines"><u>https://www.supplychain247.com/article/preliminary_november_class_8_truck_orders_see_another_month_of_declines</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

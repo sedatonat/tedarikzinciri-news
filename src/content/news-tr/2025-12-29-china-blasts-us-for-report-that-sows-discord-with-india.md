@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında Çin-Hindistan yakınlaşması, küresel üretim ağları açısından kritik önem taşıdı. Apple, Foxconn ve Samsung gibi oyuncuların Hindistan'a yönelik «China+1» yatırımları, iki ülke arasındaki yumuşamanın istikrarlı seyretmesine bağlı kaldı. ABD'nin diplomatik manevralarına karşılık Çin'in Hindistan ile köprüleri onarması, özellikle elektronik, ilaç ve tekstil tedarik zincirlerinde alternatif konumlanma stratejilerini yeniden şekillendirebilir.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43055-china-blasts-us-for-report-that-sows-discord-with-india"><u>https://www.supplychainbrain.com/articles/43055-china-blasts-us-for-report-that-sows-discord-with-india</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

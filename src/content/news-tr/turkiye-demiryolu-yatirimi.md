@@ -35,7 +35,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/beltandroad/2025/01/15/china-may-invest-60-billion-dollars-in-turkish-rail-infrastructure/"><u>https://www.railfreight.com/beltandroad/2025/01/15/china-may-invest-60-billion-dollars-in-turkish-rail-infrastructure/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

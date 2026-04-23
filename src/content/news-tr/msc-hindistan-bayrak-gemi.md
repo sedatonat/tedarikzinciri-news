@@ -62,7 +62,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.joc.com/article/msc-agrees-to-reflag-12-container-ships-in-india-in-diversification-push-6108526"><u>https://www.joc.com/article/msc-agrees-to-reflag-12-container-ships-in-india-in-diversification-push-6108526</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

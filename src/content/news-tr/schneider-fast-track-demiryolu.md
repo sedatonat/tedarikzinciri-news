@@ -76,7 +76,6 @@ Bu, Fast Track’in özellikle Meksika çıkışlı yüklerde güvenlik beklenti
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/schneider-national-fast-track-premium-rail/806041/"><u>https://www.supplychaindive.com/news/schneider-national-fast-track-premium-rail/806041/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

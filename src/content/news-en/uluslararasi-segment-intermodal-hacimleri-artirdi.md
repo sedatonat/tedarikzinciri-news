@@ -30,4 +30,3 @@ tags:
   <li><p>Federal Reserve decisions will determine future growth prospects.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10645-intermodal-volumes-buoyed-by-international-segment"><u>https://www.thescxchange.com/articles/10645-intermodal-volumes-buoyed-by-international-segment</u></a></p>

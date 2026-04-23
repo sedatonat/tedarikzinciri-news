@@ -43,4 +43,3 @@ tags:
   <li><p>U.S.-based retailers can mitigate the situation by redirecting shipments to West Coast ports.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainquarterly.com/articles/9626-report-retailers-likely-to-take-a-hit-from-suez-panama-disruptions"><u>https://www.supplychainquarterly.com/articles/9626-report-retailers-likely-to-take-a-hit-from-suez-panama-disruptions</u></a></p>

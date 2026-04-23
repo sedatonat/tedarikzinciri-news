@@ -39,7 +39,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/ftrs_shippers_conditions_index_turns_negative_for_second_time_since_august_2023"><u>https://www.supplychain247.com/article/ftrs_shippers_conditions_index_turns_negative_for_second_time_since_august_2023</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

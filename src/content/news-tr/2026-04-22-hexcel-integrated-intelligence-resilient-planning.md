@@ -35,9 +35,6 @@ tags:
 3. <strong>Daniel Carrick</strong> (<strong>Hexcel</strong>); <strong>Adrian Wood</strong> (<strong>DELMIA</strong>); <strong>Sarah Barnes-Humphrey</strong>; konuşmacılar oluyor.<br>
 4. <strong>Hexcel</strong>; <strong>Boeing</strong>; <strong>Airbus</strong>; <strong>Lockheed</strong>; <strong>Vestas</strong>; ana kompozit malzeme tedarikçisi oluyor.<br>
 5. Sanal ikiz ve <strong>S&amp;OP/IBP</strong>; ana entegre planlama metodolojileri oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42380-planning-without-silos-how-hexcel-uses-integrated-intelligence-to-stay-resilient"><u>https://www.supplychainbrain.com/articles/42380-planning-without-silos-how-hexcel-uses-integrated-intelligence-to-stay-resilient</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

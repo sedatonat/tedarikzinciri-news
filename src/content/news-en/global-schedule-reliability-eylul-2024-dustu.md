@@ -39,7 +39,6 @@ tags:
   <li><p>On a year-on-year basis, MSC and Wan Hai recorded the largest declines.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/maersk-remains-the-most-reliable-carrier-in-september/"><u>https://www.porttechnology.org/news/maersk-remains-the-most-reliable-carrier-in-september/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

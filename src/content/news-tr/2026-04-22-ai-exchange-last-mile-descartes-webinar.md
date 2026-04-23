@@ -36,9 +36,6 @@ tags:
 3. <strong>ML</strong>; sipariş boyutu/saha/ekip dinamiklerinden öğrenmekte.<br>
 4. Gerçek zamanlı <strong>ETA</strong>; sevkiyat-sürücü-müşteri uyumunu sağlıyor.<br>
 5. <strong>Cyndi Brandt</strong> ile <strong>Sergio Torres</strong>; konuşmacılar oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43756-the-ai-exchange-inside-the-last-mile-ai-delivery-engagement-and-the-new-standard-for-on-time-and-in-full"><u>https://www.supplychainbrain.com/articles/43756-the-ai-exchange-inside-the-last-mile-ai-delivery-engagement-and-the-new-standard-for-on-time-and-in-full</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

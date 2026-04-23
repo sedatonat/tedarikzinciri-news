@@ -69,7 +69,6 @@ For example:</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://container-news.com/how-piraeus-port-became-battleground-for-us-china-rivalry/"><u>https://container-news.com/how-piraeus-port-became-battleground-for-us-china-rivalry/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

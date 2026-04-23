@@ -76,7 +76,6 @@ This achievement confirms the company's consistent progress toward <strong>trans
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/cma-cgm-earns-top-3-per-cent-ecovadis-sustainability-rating/"><u>https://www.porttechnology.org/news/cma-cgm-earns-top-3-per-cent-ecovadis-sustainability-rating/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Get ERP?" Has Been Published on Google Play Books.</strong></p>

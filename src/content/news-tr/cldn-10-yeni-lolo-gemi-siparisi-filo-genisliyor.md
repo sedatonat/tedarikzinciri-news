@@ -46,7 +46,6 @@ tags:
   <li><p>CEO <strong>Florent Maes</strong>, LoLo segmentine girişlerinin müşteriler tarafından olumlu karşılandığını belirtti.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/cldn-orders-10-newbuild-lolo-container-carriers/"><u>https://www.porttechnology.org/news/cldn-orders-10-newbuild-lolo-container-carriers/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

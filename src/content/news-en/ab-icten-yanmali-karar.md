@@ -43,7 +43,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">China-based competition and sluggish progress in EV transition were among the key justifications for the decision.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.haber7.com/otomobil/haber/3588539-avrupa-birliginden-geri-adim-benzin-ve-dizel-araclar-icin-yeni-karar"><u>https://www.haber7.com/otomobil/haber/3588539-avrupa-birliginden-geri-adim-benzin-ve-dizel-araclar-icin-yeni-karar</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

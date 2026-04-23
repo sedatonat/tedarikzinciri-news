@@ -30,9 +30,6 @@ tags:
 3. Platform, Singapur ile partner limanlar arasında elektronik gemi sertifikası değişimine olanak tanıyor.<br>
 4. OCEANS-X şu anda 100'den fazla API ve veri setini barındırıyor.<br>
 5. Sektör, akademi ve kamu seçilmiş veri setlerine erişebilecek; uygulama geliştirme için açık altyapı sağlanıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/mpa-introduces-oceans-x-for-maritime-data-connectivity/"><u>https://www.porttechnology.org/mpa-introduces-oceans-x-for-maritime-data-connectivity/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

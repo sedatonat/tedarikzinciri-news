@@ -31,8 +31,7 @@ tags:
 5. Stratejik ortaklıklar uzun vadeli fayda yaratır.</p>
 <p><br>
 ---<br>
-<strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42098-a-guide-to-outsourcing-facilities-management-for-advanced-manufacturers"><u>https://www.supplychainbrain.com/articles/42098-a-guide-to-outsourcing-facilities-management-for-advanced-manufacturers</u></a><br>
--------------------<br>
+<br>
 !!! DUYURU !!!<br>
 ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.<br>
 ERP Nedir?<br>

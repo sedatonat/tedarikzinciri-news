@@ -73,7 +73,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/beltandroad/2025/10/29/a-political-breakthrough-opens-up-the-caucasus-for-more-freight-transit/"><u>https://www.railfreight.com/beltandroad/2025/10/29/a-political-breakthrough-opens-up-the-caucasus-for-more-freight-transit/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

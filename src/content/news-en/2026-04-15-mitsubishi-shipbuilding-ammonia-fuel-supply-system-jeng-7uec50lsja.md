@@ -23,9 +23,6 @@ tags: ["Mitsubishi Shipbuilding", "MHI", "Japan Engine Corporation", "amonyak ya
 3. The AFSS supplies ammonia to the engine; AGAS safely processes surplus during fuel switching.<br>
 4. Both systems support remote operation and automatic control.<br>
 5. Ammonia fuel is a promising option for the transition to carbon-free maritime propulsion.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/mitsubishi-shipbuilding-ships-first-ammonia-fuel-systems/"><u>https://www.porttechnology.org/mitsubishi-shipbuilding-ships-first-ammonia-fuel-systems/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

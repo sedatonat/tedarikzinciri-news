@@ -41,7 +41,6 @@ tags:
   <li><p>Dikey entegrasyon ve kapasite teminatı öne çıkıyordır.</p></li>
 </ul>
 <p>--------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42534-nvidia-to-pour-100b-into-data-center-deal-with-openai" rel="noopener" target="_new">https://www.supplychainbrain.com/articles/42534-nvidia-to-pour-100b-into-data-center-deal-with-openai</a></p>
 <p>--------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

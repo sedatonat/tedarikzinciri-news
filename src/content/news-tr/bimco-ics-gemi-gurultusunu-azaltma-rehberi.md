@@ -40,7 +40,6 @@ tags:
   <li><p>Rehber, teknik personelin su altı gürültüsünü anlaması ve azaltması için pratik bilgiler sunuyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/bimco-ics-release-maritime-industry-guide-to-minimise-noise-underwater/"><u>https://www.porttechnology.org/news/bimco-ics-release-maritime-industry-guide-to-minimise-noise-underwater/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

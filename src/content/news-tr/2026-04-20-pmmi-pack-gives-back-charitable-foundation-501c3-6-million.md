@@ -26,9 +26,6 @@ tags:
 3. Amaç; ambalaj ve proses teknolojileri sektörünün hayırsever etkisini büyütmek.<br>
 4. Karar, 2026 Executive Leadership Conference'ta (Amelia Island, Florida) açıklandı.<br>
 5. İlk bağışların önümüzdeki aylarda açıklanması bekleniyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychain247.com/article/pmmi_board_approves_establishment_of_pack_gives_back_charitable_foundation"><u>https://www.supplychain247.com/article/pmmi_board_approves_establishment_of_pack_gives_back_charitable_foundation</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -39,4 +39,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p>News Link: <a href="https://www.supplychaindive.com/news/honeywell-exec-upbeat-warehouse-automations-2024-outlook/708241/"><u>https://www.supplychaindive.com/news/honeywell-exec-upbeat-warehouse-automations-2024-outlook/708241/</u></a></p>

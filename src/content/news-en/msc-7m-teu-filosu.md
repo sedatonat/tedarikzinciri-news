@@ -59,7 +59,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">MSC's secondhand acquisitions and newbuild programs are reshaping power dynamics across the sector.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://splash247.com/msc-crosses-the-7m-teu-mark/"><u>https://splash247.com/msc-crosses-the-7m-teu-mark/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

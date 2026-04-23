@@ -47,7 +47,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/40743-the-priority-gap-survey-reveals-major-disconnect-between-supply-chain-execs-and-the-c-suite"><u>https://www.supplychainbrain.com/articles/40743-the-priority-gap-survey-reveals-major-disconnect-between-supply-chain-execs-and-the-c-suite</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

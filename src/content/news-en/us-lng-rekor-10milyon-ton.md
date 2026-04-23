@@ -63,7 +63,6 @@ With the price differential being extremely narrow, <strong>there was no strong 
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/u-s-becomes-first-country-to-export-10-million-tonnes-of-lng-in-single-month/"><u>https://gcaptain.com/u-s-becomes-first-country-to-export-10-million-tonnes-of-lng-in-single-month/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -34,4 +34,3 @@ tags:
 <p><br></p>
 <p><strong>Related Article:</strong> <a href="https://www.tedarikzinciriportali.com/post/maersk-baltimore-koprusu-kazasi"><u>https://www.tedarikzinciriportali.com/post/maersk-baltimore-koprusu-kazasi</u></a></p>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.supplychain247.com/article/francis-scott-key-bridge-baltimore-demolished-explosion-video"><u>https://www.supplychain247.com/article/francis-scott-key-bridge-baltimore-demolished-explosion-video</u></a></p>

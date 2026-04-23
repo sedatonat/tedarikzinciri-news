@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu durdurma kararları; offshore wind ekipman tedarikçileri açısından ciddi belirsizlik yaratıyor. Türbin imalatçıları, kablo döşeme gemisi operatörleri ve liman lojistiği sağlayıcıları; kapsamlı yatırımlarını ABD pazarındaki çok yıllı boru hattına dayandırıyor. Hukuki sürecin uzaması; siparişlerin Avrupa veya Asya'daki diğer rüzgar projelerine kaymakta olmasına yol açabiliyor ve böylece ABD'nin yenilenebilir enerji kapasite hedeflerini önemli ölçüde geriletebiliyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43074-danish-developer-sues-trump-admin-over-wind-farm-work-stoppage"><u>https://www.supplychainbrain.com/articles/43074-danish-developer-sues-trump-admin-over-wind-farm-work-stoppage</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

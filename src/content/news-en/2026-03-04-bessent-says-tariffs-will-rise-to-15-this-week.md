@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the additional 5-percentage-point tariff burden requires immediate <strong>landed cost</strong> repricing at the <strong>HTS</strong> classification level. Importers running <strong>SAP GTS</strong>, <strong>Oracle GTM</strong> and <strong>Descartes</strong> are calibrating parallel calculations of cumulative impacts under <strong>Section 122</strong> and <strong>Section 232</strong>. <strong>FTZ (Foreign Trade Zone)</strong>, <strong>bonded warehouse</strong> and <strong>duty drawback</strong> programs are returning to the planning agenda for cash-flow flexibility, while <strong>customs broker</strong> capacity is becoming a market bottleneck.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43593-bessent-says-tariffs-will-rise-to-15-this-week"><u>https://www.supplychainbrain.com/articles/43593-bessent-says-tariffs-will-rise-to-15-this-week</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

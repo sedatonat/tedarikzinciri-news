@@ -27,10 +27,6 @@ tags:
 3. Dönüş süreleri ve kargo akışı hızlanır.<br>
 4. Bölgesel istihdam ve turizm etkisi pozitif olur.<br>
 5. Liman rekabet gücü güçlenir.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41716-port-canaveral-plans-500m-in-upgrades-to-cruise-capacity-cargo-berths"><u>https://www.supplychainbrain.com/articles/41716-port-canaveral-plans-500m-in-upgrades-to-cruise-capacity-cargo-berths</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

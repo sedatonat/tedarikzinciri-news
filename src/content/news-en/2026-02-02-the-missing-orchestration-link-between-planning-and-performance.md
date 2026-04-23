@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">They will move from data quality to data health: continuous, business-led monitoring of the data that shapes planning decisions every day. Data health isn't an IT hygiene exercise; it's a performance enabler. It demands stewardship, discipline and the maturity to treat master data as an operational asset rather than a project milestone. From a supply chain perspective, the winners won't just cleanse data once — they'll sustain it. They'll move beyond one-off transformation projects and build a decision architecture that connects <strong>S&OP</strong>, IBP and end-to-end performance management.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43225-the-missing-orchestration-link-between-planning-and-performance"><u>https://www.supplychainbrain.com/articles/43225-the-missing-orchestration-link-between-planning-and-performance</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

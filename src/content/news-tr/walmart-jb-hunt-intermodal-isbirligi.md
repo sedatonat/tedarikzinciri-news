@@ -35,4 +35,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/39142-jb-hunt-buys-walmarts-intermodal-assets"><u>https://www.supplychainbrain.com/articles/39142-jb-hunt-buys-walmarts-intermodal-assets</u></a></p>

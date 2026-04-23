@@ -29,10 +29,6 @@ tags:
 3. AI procurement karbon ve maliyeti dengeler.<br>
 4. Waste-to-value ek gelir sağlar.<br>
 5. Sürdürülebilirlik net kârlılık yaratır.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41679-think-you-have-to-choose-between-sustainability-and-cost-think-again"><u>https://www.supplychainbrain.com/articles/41679-think-you-have-to-choose-between-sustainability-and-cost-think-again</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

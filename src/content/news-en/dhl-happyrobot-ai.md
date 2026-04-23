@@ -51,7 +51,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://warehousinglogisticsinternational.com/dhl-boosts-operational-efficiency-and-customer-communications-with-happyrobots-ai-agents/"><u>https://warehousinglogisticsinternational.com/dhl-boosts-operational-efficiency-and-customer-communications-with-happyrobots-ai-agents/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

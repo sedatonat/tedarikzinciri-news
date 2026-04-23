@@ -46,7 +46,6 @@ tags:
   <li><p>Anlaşma, köprünün yeniden inşası için gerekli maliyetleri kapsamıyor; bu konuda Maryland Eyaleti ayrı bir talepte bulundu.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/us-obtains-100-million-settlement-for-baltimore-bridge-collapse/"><u>https://www.porttechnology.org/news/us-obtains-100-million-settlement-for-baltimore-bridge-collapse/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

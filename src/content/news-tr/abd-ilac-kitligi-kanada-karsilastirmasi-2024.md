@@ -37,7 +37,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/40608-supply-chain-issues-continue-to-fuel-drug-shortages-in-us"><u>https://www.supplychainbrain.com/articles/40608-supply-chain-issues-continue-to-fuel-drug-shortages-in-us</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

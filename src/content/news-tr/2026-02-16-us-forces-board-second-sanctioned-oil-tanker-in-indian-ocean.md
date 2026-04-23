@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Müdahale, aynı su kütlesinde yaşanan kedi-fare kovalamacasının ardından gerçekleşti. Tedarik zinciri perspektifinden bakıldığında bu olay, <strong>shadow fleet</strong> tankerlerinin operasyonel risk profilini yapısal olarak değiştirdi; <strong>P&I Club</strong> kapsamı dışında kalan gemilerin yenilenmiş ABD «sınırsız menzil» izleme stratejisine maruz kaldığını gösterdi. <strong>BIMCO</strong> ve <strong>INTERTANKO</strong>, üyelerine <strong>OFAC</strong> uyum kontrol listesini güncellemeleri konusunda uyarı yayımladı. <strong>Vitol</strong>, <strong>Trafigura</strong> ve <strong>Glencore</strong> gibi büyük emtia trader'ları, yaptırımlı yük taşıma riskini sıfır toleransla yönetmek zorunda kaldı.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43482-us-forces-board-second-sanctioned-oil-tanker-in-indian-ocean"><u>https://www.supplychainbrain.com/articles/43482-us-forces-board-second-sanctioned-oil-tanker-in-indian-ocean</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

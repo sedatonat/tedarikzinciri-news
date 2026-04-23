@@ -36,9 +36,6 @@ tags:
 3. <strong>Hyundai Glovis</strong>; 2025 pilotunda 900 aracı geçiriyor.<br>
 4. Tam okyanus-okyanus transfer; ~72 saatte gerçekleşiyor.<br>
 5. <strong>Panama Canal</strong>&rsquo;da iklimsel kuraklık riski alternatif arayışını hızlandırıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43792-mexicos-alternative-to-the-panama-canal-set-to-open-fully-this-year"><u>https://www.supplychainbrain.com/articles/43792-mexicos-alternative-to-the-panama-canal-set-to-open-fully-this-year</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -21,9 +21,6 @@ tags: ["MPA", "Singapore", "OCEANS-X", "API", "digital port clearance", "ship ce
 3. The platform enables electronic ship certificate exchange between Singapore and partner ports.<br>
 4. OCEANS-X currently hosts over 100 APIs and datasets.<br>
 5. Industry, academia and the public can access selected datasets and build applications on the platform.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/mpa-introduces-oceans-x-for-maritime-data-connectivity/"><u>https://www.porttechnology.org/mpa-introduces-oceans-x-for-maritime-data-connectivity/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

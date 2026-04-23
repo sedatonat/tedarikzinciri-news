@@ -41,4 +41,3 @@ tags:
   <li><p>TopTier grubu yıl sonunda nihai raporunu yayınlayacak.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10400-number-of-shipping-containers-lost-at-sea-sinks-to-new-low"><u>https://www.thescxchange.com/articles/10400-number-of-shipping-containers-lost-at-sea-sinks-to-new-low</u></a></p>

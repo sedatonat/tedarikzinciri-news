@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu hamle; ABD perakende ve gıda sektöründeki <em>operating hub</em> stratejisinin yeniden şekilleniyor olduğunu yansıtıyor. Tedarikçi ekosisteminin yoğun bulunuyor olduğu güneydoğu ABD; lojistik maliyetleri, enerji fiyatları ve yetenek erişimi açısından Batı Yakası'na göre giderek daha cazip hale geliyor. <strong>Amazon</strong>, <strong>FedEx</strong>, <strong>Nissan</strong> ve <strong>Volkswagen</strong>; Tennessee'de büyük operasyonlar yürütüyor olan diğer büyük şirketler arasında bulunuyor. Starbucks'ın bu hamlesi; daha geniş bir <em>nearshoring</em> ve <em>operational rebalancing</em> trendinin parçası olarak okunuyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43596-starbucks-to-move-supply-chain-operations-roles-to-tennessee"><u>https://www.supplychainbrain.com/articles/43596-starbucks-to-move-supply-chain-operations-roles-to-tennessee</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

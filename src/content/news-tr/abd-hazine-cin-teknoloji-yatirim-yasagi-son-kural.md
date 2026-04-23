@@ -37,7 +37,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/40588-china-claims-new-rule-barring-us-tech-investments-will-harm-global-supply-chain"><u>https://www.supplychainbrain.com/articles/40588-china-claims-new-rule-barring-us-tech-investments-will-harm-global-supply-chain</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

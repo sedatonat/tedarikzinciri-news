@@ -27,9 +27,6 @@ tags: ['Trump', 'ABD-AB', 'otomotiv tarifesi', 'Volkswagen', 'Porsche', 'Mercede
 3. <strong>VW</strong>, <strong>Porsche</strong>, and <strong>Mercedes-Benz</strong> shares respond positively.<br>
 4. <strong>Porsche</strong> climbs 3.8% in <strong>Frankfurt</strong>.<br>
 5. Aircraft, generic pharma, and mushroom/metal exemptions take effect from September 1.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42550-us-lowers-tariffs-on-eu-autos-to-15-cementing-trade-deal-terms"><u>https://www.supplychainbrain.com/articles/42550-us-lowers-tariffs-on-eu-autos-to-15-cementing-trade-deal-terms</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free through this link.</p>

@@ -42,7 +42,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/41364-tesla-warns-it-faces-retaliation-costs-from-trump-trade-war"><u>https://www.supplychainbrain.com/articles/41364-tesla-warns-it-faces-retaliation-costs-from-trump-trade-war</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>

@@ -45,7 +45,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>DP World</strong> emphasizes that <strong>geopolitical risks must be reduced</strong> for supply chains to normalize.</p></li>
 </ul>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/red-sea-calm-could-cut-freight-prices-by-25-says-dp-world"><u>https://www.supplychain247.com/article/red-sea-calm-could-cut-freight-prices-by-25-says-dp-world</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>

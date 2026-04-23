@@ -41,4 +41,3 @@ tags:
   <li><p>ABD ve İngiltere'nin Yemen'deki Houthi hedeflerine saldırıları, Tesla'nın duyurusundan kısa bir süre sonra gerçekleşti.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/38849-tesla-halts-berlin-factory-operations-due-to-red-sea-disruptions"><u>https://www.supplychainbrain.com/articles/38849-tesla-halts-berlin-factory-operations-due-to-red-sea-disruptions</u></a></p>

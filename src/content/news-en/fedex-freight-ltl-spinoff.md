@@ -42,7 +42,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/fedex-spinoff-fedex-freight-ltl-unit/736119/"><u>https://www.supplychaindive.com/news/fedex-spinoff-fedex-freight-ltl-unit/736119/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Acquire an ERP?" has been published on Google Play Books.</strong></p>

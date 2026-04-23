@@ -68,7 +68,6 @@ Bu nedenle birçok shipper, fiyatlar eşitlendiğinde <strong>daha hızlı ve es
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/union-pacific-norfolk-southern-merger-impact-otr-long-haul/807171/"><u>https://www.supplychaindive.com/news/union-pacific-norfolk-southern-merger-impact-otr-long-haul/807171/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

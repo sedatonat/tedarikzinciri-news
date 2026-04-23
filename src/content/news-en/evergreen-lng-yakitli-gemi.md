@@ -72,7 +72,6 @@ factors.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/evergreen-says-will-spend-almost-3-billion-on-14-new-lng-fueled-ships-6114739"><u>https://www.joc.com/article/evergreen-says-will-spend-almost-3-billion-on-14-new-lng-fueled-ships-6114739</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

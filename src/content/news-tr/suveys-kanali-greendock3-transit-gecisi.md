@@ -66,7 +66,6 @@ Süveyş rotası, Cape of Good Hope’a göre <strong>6.000 nautical miles</stro
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://container-news.com/suez-canal-successfully-transits-floating-dock-green-dock-3/"><u>https://container-news.com/suez-canal-successfully-transits-floating-dock-green-dock-3/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

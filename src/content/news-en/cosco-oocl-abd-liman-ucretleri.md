@@ -85,7 +85,6 @@ Indeed, on October 14, China announced sanctions against <strong>five U.S.-linke
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/cosco-oocl-incurred-over-40-million-in-initial-us-port-fees-6103025"><u>https://www.joc.com/article/cosco-oocl-incurred-over-40-million-in-initial-us-port-fees-6103025</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>

@@ -34,4 +34,3 @@ tags:
   <li><p>Truckstop, kullanıcılarını desteklemek için yeni özellikler ve çok faktörlü kimlik doğrulama gerekliliği sunmuş.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/9980-survey-freight-carriers-had-to-work-harder-in-2023-to-stay-profitable"><u>https://www.thescxchange.com/articles/9980-survey-freight-carriers-had-to-work-harder-in-2023-to-stay-profitable</u></a></p>

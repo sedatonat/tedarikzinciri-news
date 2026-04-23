@@ -27,9 +27,6 @@ tags:
 3. Başarılı ekipler tek komuta merkezinden yönetiliyor ve stratejiyi dakikalar içinde revize edebiliyor.<br>
 4. Nathan Cray ve Ken Barbour; karar yetkisinin önceden tanımlanmasını ve oyun kitapçıklarını öneriyor.<br>
 5. Teknoloji yatırımından çok, onu destekleyen karar kültürü kritik öneme sahip.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychain247.com/article/supply-chain-decision-making-problem-not-data"><u>https://www.supplychain247.com/article/supply-chain-decision-making-problem-not-data</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

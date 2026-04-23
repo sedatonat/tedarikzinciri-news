@@ -72,7 +72,6 @@ supporting CMA CGM's <strong>low-emission logistics chain</strong> vision.</p></
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/cma-cgm-to-acquire-stake-in-hamburg-terminal/"><u>https://www.porttechnology.org/news/cma-cgm-to-acquire-stake-in-hamburg-terminal/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

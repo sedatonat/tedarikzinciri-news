@@ -36,9 +36,6 @@ tags:
 3. En hızlı kazanımlar idari ve operasyonel otomasyonda yer alıyor.<br>
 4. Alan uzmanları, <strong>Fireflies</strong>, <strong>CustomGPT</strong>, <strong>Perplexity</strong> gibi araçlarla eşleştiriliyor.<br>
 5. <strong>No-code ops engineer</strong> rolü yeni rekabet gücünün merkezine yerleşiyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43161-upskilling-the-supply-chain-workforce-for-the-ai-age"><u>https://www.supplychainbrain.com/articles/43161-upskilling-the-supply-chain-workforce-for-the-ai-age</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

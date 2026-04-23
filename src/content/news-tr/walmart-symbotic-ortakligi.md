@@ -47,7 +47,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/walmart-sells-robotics-business-supply-chain-automation-symbotic/737763/"><u>https://www.supplychaindive.com/news/walmart-sells-robotics-business-supply-chain-automation-symbotic/737763/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

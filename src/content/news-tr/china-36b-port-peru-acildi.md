@@ -44,7 +44,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/chancay-port-opens-peru-china-latin-america"><u>https://www.supplychain247.com/article/chancay-port-opens-peru-china-latin-america</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

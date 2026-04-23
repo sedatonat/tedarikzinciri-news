@@ -36,9 +36,6 @@ tags:
 3. <strong>Spirit Airlines</strong>, <strong>ABD</strong>&rsquo;den yüz milyonlarca dolarlık <strong>emergency funding</strong> talep ediyor.<br>
 4. <strong>easyJet</strong>, <strong>Mart</strong> sonu bitmekte olan altı aylık dönemde <strong>£540&ndash;560 milyon</strong> zarar öngörüyor.<br>
 5. <strong>Strait of Hormuz</strong>&rsquo;daki belirsizlik, havacılık tedarik zincirini doğrudan etkiliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43890-airlines-cancel-flights-request-emergency-funds"><u>https://www.supplychainbrain.com/articles/43890-airlines-cancel-flights-request-emergency-funds</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

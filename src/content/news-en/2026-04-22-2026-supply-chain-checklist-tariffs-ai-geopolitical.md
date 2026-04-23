@@ -28,9 +28,6 @@ tags: ['2026 kontrol listesi', 'tarifeler', 'yapay zeka', 'jeopolitik', 'esnekli
 3. Legacy systems and disconnected tools cannot keep pace.<br>
 4. The checklist is positioned as a practical benchmarking tool.<br>
 5. Resilience, agility and profitability are key capabilities for 2026.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43660-2026-supply-chain-checklist-how-to-prepare-for-tariffs-ai-and-geopolitical-uncertainty"><u>https://www.supplychainbrain.com/articles/43660-2026-supply-chain-checklist-how-to-prepare-for-tariffs-ai-and-geopolitical-uncertainty</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What Is ERP?</p>

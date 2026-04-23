@@ -41,7 +41,6 @@ tags:
   <li><p><strong>Global Impact</strong>: Chinese port performance contributes positively to global economic growth.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/chinese-ports-near-250-million-teus/"><u>https://www.porttechnology.org/news/chinese-ports-near-250-million-teus/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book has been Published on Google Play Books.</strong></p>

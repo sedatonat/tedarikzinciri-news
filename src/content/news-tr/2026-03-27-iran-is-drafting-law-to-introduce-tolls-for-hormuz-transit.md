@@ -29,9 +29,6 @@ tags:
 <p style="text-align: justify">Mürettebatlardan aracılar yoluyla personel, kargo ve yolculuk detayları ile bazı durumlarda ücret istenmekte &mdash; ancak çabalar sistematik olmuyor. Geçiş ücreti ve güvenli geçiş vaatleri; Pers Körfezi'nde mahsur kalan mürettebatları ve kargoları kurtarmaya istekli olan ancak yaptırımlar ve güvenlik riskleriyle karşı karşıya kalıyorn kaçınan denizcilik sektörü için karmaşık sorular doğuruyor. Bu gibi hayati bölgelerde seyrüsefer özgürlüğü; tipik olarak uluslararası hukuk tarafından güvence altına alınıyor.</p>
 <p><br></p>
 <p style="text-align: justify">&laquo;Sonuçta; bu konuda <strong>İran</strong>'a güvenip güvenmeyeceğiniz sorusu oluyor&raquo; ifadelerini kullanıyor deniz sigorta birimindeki hasar başkanı <strong>Amanda Bjorn</strong>. Tedarik zinciri perspektifinden bakıldığında bu yasa; küresel petrol ticaretinin yaklaşık %20-25'inin geçtiği bu kritik geçit için önemli bir yapısal değişim oluyor. Hindistan, Çin ve <strong>Japan</strong> rafinerileri için ham petrol fiyatlarına eklenecek ek 2 milyon ABD doları geçiş ücreti; <em>delivered cost</em> hesaplamalarını yeniden şekillendiriyor. Tanker armatörleri için ise; gizli bayrakla seyrüsefer ve <strong>P&amp;I</strong> sigorta kapsamı belirsizliği; operasyonel risk profilini köklü biçimde değiştiriyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43739-iran-is-drafting-law-to-introduce-tolls-for-hormuz-transit"><u>https://www.supplychainbrain.com/articles/43739-iran-is-drafting-law-to-introduce-tolls-for-hormuz-transit</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

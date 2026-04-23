@@ -35,9 +35,6 @@ tags:
 3. Statik rotalama ve manuel evrak; sürdürülemez olarak nitelendiriliyor.<br>
 4. Dinamik rota optimizasyonu; <strong>e-POD</strong>; mobil iş gücü çözümleri; öneriliyor.<br>
 5. Teknoloji-odaklı zihniyet; rekabetçi kalıyor için zorunlu oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42900-five-challenges-facing-private-fleet-foodservice-distributors"><u>https://www.supplychainbrain.com/articles/42900-five-challenges-facing-private-fleet-foodservice-distributors</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

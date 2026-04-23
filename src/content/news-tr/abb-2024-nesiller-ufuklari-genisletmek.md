@@ -49,7 +49,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/abb-releases-2024-edition-of-generations-expanding-horizons/"><u>https://gcaptain.com/abb-releases-2024-edition-of-generations-expanding-horizons/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

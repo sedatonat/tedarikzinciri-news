@@ -45,7 +45,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.haber7.com/dunya/haber/3440977-yazim-yanlisi-geminin-sonu-oldu-7-bin-400-arac-ile-batti"><u>https://www.haber7.com/dunya/haber/3440977-yazim-yanlisi-geminin-sonu-oldu-7-bin-400-arac-ile-batti</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the move reflects how the <em>operating hub</em> strategy in the U.S. retail and food sector is being reshaped. The southeastern United States — with its dense supplier ecosystem — is becoming increasingly attractive versus the West Coast on logistics costs, energy prices and access to talent. <strong>Amazon</strong>, <strong>FedEx</strong>, <strong>Nissan</strong> and <strong>Volkswagen</strong> are among the other major companies that operate substantial footprints in Tennessee. Starbucks' decision can be read as part of a broader <em>nearshoring</em> and <em>operational rebalancing</em> trend.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43596-starbucks-to-move-supply-chain-operations-roles-to-tennessee"><u>https://www.supplychainbrain.com/articles/43596-starbucks-to-move-supply-chain-operations-roles-to-tennessee</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

@@ -32,7 +32,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/40724-stellantis-mulls-pivoting-mexico-push-amid-trump-tariff-threat"><u>https://www.supplychainbrain.com/articles/40724-stellantis-mulls-pivoting-mexico-push-amid-trump-tariff-threat</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

@@ -38,4 +38,3 @@ tags:
   <li><p>Tedarikçiler, uygun taşıma sağlayıcısını seçerken, perakende konusunda uzmanlaşmış ve uygunluk sorunlarına aşina olanları tercih etmeli.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychain247.com/article/walmart-slashes-otif-supplier-shipment-requirements"><u>https://www.supplychain247.com/article/walmart-slashes-otif-supplier-shipment-requirements</u></a></p>

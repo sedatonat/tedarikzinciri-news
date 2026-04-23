@@ -68,7 +68,6 @@ Anlaşma, aynı zamanda şirketin <strong>enerji taşımacılığı segmentine s
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://en.portnews.ru/news/383703/"><u>https://en.portnews.ru/news/383703/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

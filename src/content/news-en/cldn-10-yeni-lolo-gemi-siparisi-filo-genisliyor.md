@@ -46,7 +46,6 @@ tags:
   <li><p>CEO <strong>Florent Maes</strong> stated that their entry into the LoLo segment has been positively received by customers.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/cldn-orders-10-newbuild-lolo-container-carriers/"><u>https://www.porttechnology.org/news/cldn-orders-10-newbuild-lolo-container-carriers/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

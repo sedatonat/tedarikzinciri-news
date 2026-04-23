@@ -23,9 +23,6 @@ tags: ["CMA CGM", "Marlink", "Eutelsat", "OneWeb", "LEO", "uydu bağlantısı", 
 3. The architecture provides high resilience, high throughput and low latency.<br>
 4. The system supports decarbonisation goals through real-time optimisation of routes, speeds and fuel consumption.<br>
 5. The edge cloud platform provides the backbone for predictive maintenance, digital twin and AI route optimisation.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/cma-cgm-marlink-eutelsat-launch-fleet-wide-leo-network/"><u>https://www.porttechnology.org/cma-cgm-marlink-eutelsat-launch-fleet-wide-leo-network/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

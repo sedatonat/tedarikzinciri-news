@@ -35,4 +35,3 @@ tags:
   <li><p>Uzmanlar, Türk gemilerinin güvenliğinin sağlanması ve savaşın sonlandırılması için adımların atılmasının önemini vurguluyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.lojiport.com/ukraynada-limanda-demirli-turk-gemisini-vurdular-116269h.htm"><u>https://www.lojiport.com/ukraynada-limanda-demirli-turk-gemisini-vurdular-116269h.htm</u></a></p>

@@ -42,7 +42,6 @@ tags:
   <li><p>Industry-focused packages can be developed.</p></li>
   <li><p>Go-to-market focus increases.</p></li>
 </ul>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41558-alphabet-spins-off-moonshot-supply-chain-project" rel="noopener" target="_new">https://www.supplychainbrain.com/articles/41558-alphabet-spins-off-moonshot-supply-chain-project</a></p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>
 <p><strong>#What Is ERP?</strong></p>

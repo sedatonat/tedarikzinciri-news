@@ -39,7 +39,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/40509-amazon-latest-tech-giant-to-invest-in-nuclear-power-for-data-centers"><u>https://www.supplychainbrain.com/articles/40509-amazon-latest-tech-giant-to-invest-in-nuclear-power-for-data-centers</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

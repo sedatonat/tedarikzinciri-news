@@ -37,4 +37,3 @@ tags:
   <li><p>MCA Başkanı Virginia McVea, bu adımların ekolojik koruma için önemini vurguladı.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/uk-government-implements-anti-fouling-shipping-regulation/"><u>https://www.porttechnology.org/news/uk-government-implements-anti-fouling-shipping-regulation/</u></a></p>

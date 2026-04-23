@@ -48,4 +48,3 @@ tags:
   <li><p>The sanctions target activities such as technology shipments, transfer of weapons and technological equipment.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.ekonomim.com/dunya/abd-bircok-turk-sirketini-yaptirim-listesine-aldi-haberi-720172"><u>https://www.ekonomim.com/dunya/abd-bircok-turk-sirketini-yaptirim-listesine-aldi-haberi-720172</u></a></p>

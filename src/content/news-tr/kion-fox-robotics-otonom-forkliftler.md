@@ -35,4 +35,3 @@ tags:
   <li><p>Fox Robotics, AI ve makine öğrenimi algoritmaları ile endüstride lider konumda.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.thescxchange.com/articles/10232-kion-north-america-to-manufacture-fox-robotics-autonomous-forklifts"><u>https://www.thescxchange.com/articles/10232-kion-north-america-to-manufacture-fox-robotics-autonomous-forklifts</u></a></p>

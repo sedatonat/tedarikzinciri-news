@@ -27,9 +27,6 @@ tags: ['ABD limanları', 'hükümet kapanması', 'Port of Seattle', 'Port of LA'
 3. Major <strong>U.S.</strong> ports (Seattle, LA, Long Beach, Houston, Tacoma, Oakland, PANYNJ) expect normal operations.<br>
 4. PANYNJ is a fully self-funded entity.<br>
 5. Federal port workers fall into the essential worker category.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42600-us-ports-dont-expect-disruptions-during-government-shutdown"><u>https://www.supplychainbrain.com/articles/42600-us-ports-dont-expect-disruptions-during-government-shutdown</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our Book Is Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>

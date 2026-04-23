@@ -91,7 +91,6 @@ Manila hükümeti, <strong>diplomatik kanallar üzerinden çözüm arayışında
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://splash247.com/rising-us-deportations-of-filipino-crew-spark-diplomatic-intervention/"><u>https://splash247.com/rising-us-deportations-of-filipino-crew-spark-diplomatic-intervention/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

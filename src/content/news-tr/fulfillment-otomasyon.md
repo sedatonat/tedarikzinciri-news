@@ -35,10 +35,6 @@ tags:
 - WMS/WES/OMS entegrasyonu ve dinamik slotlama başarı için kritik oluyor.<br>
 - Çevrim süresi ve doğruluk göstergelerinde belirgin iyileşme sağlanıyor.<br>
 - Esneklik, zirve dönemlerinde kapasiteyi kesintisiz artırabiliyor.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42551-rethinking-e-commerce-fulfillment-automation-in-a-fast-moving-market"><u>https://www.supplychainbrain.com/articles/42551-rethinking-e-commerce-fulfillment-automation-in-a-fast-moving-market</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

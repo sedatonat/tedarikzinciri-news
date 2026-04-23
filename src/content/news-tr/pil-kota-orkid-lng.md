@@ -77,7 +77,6 @@ Gemi siparişlerinin tamamlanmasıyla birlikte PIL’in filosundaki <strong>LNG 
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/pil-names-fourth-lng-dual-fuel-o-class-vessel/"><u>https://www.porttechnology.org/news/pil-names-fourth-lng-dual-fuel-o-class-vessel/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

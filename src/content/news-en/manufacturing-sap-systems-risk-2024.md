@@ -38,4 +38,3 @@ tags:
   <li><p>Automated security processes and continuous threat intelligence are critical to ensuring the security of ERP systems.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/40159-manufacturings-hidden-risk-will-be-outdated-sap-systems"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/40159-manufacturings-hidden-risk-will-be-outdated-sap-systems</u></a></p>

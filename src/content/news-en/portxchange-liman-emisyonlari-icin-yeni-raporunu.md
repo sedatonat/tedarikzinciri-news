@@ -37,7 +37,6 @@ tags:
   <li><p>CEO Sjoerd de Jager highlighted the need for a unified global standard for port emissions reporting.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/portxchange-releases-port-emissions-report/"><u>https://www.porttechnology.org/news/portxchange-releases-port-emissions-report/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Acquire ERP? Our book has been published on Google Play Books.</strong></p>

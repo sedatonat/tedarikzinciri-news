@@ -31,4 +31,3 @@ tags:
 <p>A range of measures are being proposed to prevent retail theft, including deploying artificial intelligence-powered computer vision systems, securing frequently stolen items, and installing physical barriers.</p>
 <p><br></p>
 <p>2023-11-15</p>
-<p>News Link: <a href="https://www.supplychain247.com/article/increases-in-theft-add-to-retail-supply-chain-challenges/warehousedc"><u>https://www.supplychain247.com/article/increases-in-theft-add-to-retail-supply-chain-challenges/warehousedc</u></a></p>

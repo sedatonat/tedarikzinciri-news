@@ -26,4 +26,3 @@ The shipment of automobiles in containers is driven in part by the need to retur
 <br>
 We continue to monitor developments.</p>
 <p><br></p>
-<p>News Link: <a href="https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry"><u>https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry</u></a></p>

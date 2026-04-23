@@ -28,9 +28,6 @@ tags:
 <p style="text-align: justify"><strong>Airbus</strong> ramped up deliveries in December to 136 units, allowing annual deliveries to come in at 793 &mdash; just above its goal of 790. The company also recorded 889 net orders last year, taking its backlog to 8,754 aircraft. The planemaker signed deals for more than 140 A320 narrowbody jets from Chinese airlines and a lessor in the final week of December. <strong>Airbus</strong> delivered 607 A320 family jets last year &mdash; the highest figure since 2019.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the persistent engine bottleneck in the aviation sector is profoundly affecting airline fleet planning, the leasing market and MRO operations. The infrastructure capacity of <strong>Pratt &amp; Whitney</strong> and <strong>CFM International</strong> remains tied to lead times for critical inputs such as titanium and nickel alloys. For airlines, this creates a need to extend the service life of older aircraft, absorb higher leasing costs and remodel operational efficiency assumptions.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43191-airbus-expects-supply-woes-to-drive-more-engine-shortages-in-2026"><u>https://www.supplychainbrain.com/articles/43191-airbus-expects-supply-woes-to-drive-more-engine-shortages-in-2026</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

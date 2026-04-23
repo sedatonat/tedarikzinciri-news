@@ -18,4 +18,3 @@ tags:
 ---
 <p>Kocaeli 'nde bir Lojistik Deposu 'nda yangın çıktı. Kimyasal maddelerin olduğu depoda yangın devam ediyor. Can kaybı yok.</p>
 <p><br></p>
-<p>Haber linki: <a href="https://www.youtube.com/watch?v=vmFYMSFyT3o"><u>https://www.youtube.com/watch?v=vmFYMSFyT3o</u></a></p>

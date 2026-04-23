@@ -33,4 +33,3 @@ tags:
   <li><p>Panama Kanalı, günlük olarak hava şartlarını izleyerek uygun operasyonel ayarlamalar yapıyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/panama-canal-raises-vessel-draft-to-45-feet/"><u>https://www.porttechnology.org/news/panama-canal-raises-vessel-draft-to-45-feet/</u></a></p>

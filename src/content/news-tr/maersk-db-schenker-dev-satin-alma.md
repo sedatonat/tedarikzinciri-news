@@ -34,4 +34,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://splash247.com/maersk-studies-possible-db-schenker-acquisition/"><u>https://splash247.com/maersk-studies-possible-db-schenker-acquisition/</u></a></p>

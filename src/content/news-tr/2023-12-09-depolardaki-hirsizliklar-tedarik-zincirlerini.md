@@ -31,4 +31,3 @@ tags:
 <p>Perakende hırsızlığını önlemek için bir dizi adım öneriliyor, bunlar arasında yapay zeka destekli bir bilgisayar görüş sistemi kullanmak, sıkça çalınan ürünleri kilitlemek ve fiziksel engeller kurmak gibi önlemler yer alıyor.&nbsp;</p>
 <p><br></p>
 <p>2023-11-15</p>
-<p>Haber Linki: <a href="https://www.supplychain247.com/article/increases-in-theft-add-to-retail-supply-chain-challenges/warehousedc"><u>https://www.supplychain247.com/article/increases-in-theft-add-to-retail-supply-chain-challenges/warehousedc</u></a></p>

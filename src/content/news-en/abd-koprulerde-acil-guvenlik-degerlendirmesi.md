@@ -36,4 +36,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10330-engineers-launch-urgent-safety-assessment-of-us-bridges-near-ports"><u>https://www.thescxchange.com/articles/10330-engineers-launch-urgent-safety-assessment-of-us-bridges-near-ports</u></a></p>

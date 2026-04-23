@@ -27,9 +27,6 @@ tags: ['liman', 'tarife', 'Flexport', 'Trump', 'blank sailing', 'Los Angeles', '
 3. <strong>Port of Los Angeles</strong> vessel counts for the week of April 27 are down 27 percent.<br>
 4. <strong>Wall Street Journal</strong> forecasts a 35 percent drop in import volume over two weeks.<br>
 5. <strong>Trump</strong>'s tariffs on <strong>China</strong> of 145 percent and higher are a major pressure driver.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41640-impending-crisis-looms-over-us-ports"><u>https://www.supplychainbrain.com/articles/41640-impending-crisis-looms-over-us-ports</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge via this link.</p>

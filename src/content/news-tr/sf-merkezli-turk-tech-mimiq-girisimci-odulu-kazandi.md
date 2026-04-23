@@ -23,4 +23,3 @@ tags:
 <p><br></p>
 <p>Bu ödül, aynı zamanda Türk girişimcilerin uluslararası arenada nasıl önemli başarılar elde edebileceğinin de bir göstergesi.</p>
 <p><br></p>
-<p>Haber Linki: <a href="https://www.karar.com/guncel-haberler/san-francisco-merkezli-turk-yuksek-teknoloji-sirketi-yilin-girisimcisi-1819991"><u>https://www.karar.com/guncel-haberler/san-francisco-merkezli-turk-yuksek-teknoloji-sirketi-yilin-girisimcisi-1819991</u></a></p>

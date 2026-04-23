@@ -48,4 +48,3 @@ tags:
   <li><p>Yaptırımlar, teknoloji sevkiyatı, silah ve teknolojik ekipmanların transferi gibi faaliyetleri hedef alıyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.ekonomim.com/dunya/abd-bircok-turk-sirketini-yaptirim-listesine-aldi-haberi-720172"><u>https://www.ekonomim.com/dunya/abd-bircok-turk-sirketini-yaptirim-listesine-aldi-haberi-720172</u></a></p>

@@ -37,4 +37,3 @@ tags:
   <li><p><a href="https://en.wikipedia.org/wiki/Hapag-Lloyd"><u>Hapag-Lloyd</u></a> is adopting <a href="https://en.wikipedia.org/wiki/Global_shipping_network"><u>GSBN</u></a>'s electronic bill of lading (eBL) solution and aims for 100% electronic bills of lading by 2030.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10176-msc-improves-lithium-battery-shipping-safety-through-deal-with-gsbn"><u>https://www.thescxchange.com/articles/10176-msc-improves-lithium-battery-shipping-safety-through-deal-with-gsbn</u></a></p>

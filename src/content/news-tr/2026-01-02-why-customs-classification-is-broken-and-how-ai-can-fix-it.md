@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Yapay zekâ destekli sınıflandırma çözümleri; ürün açıklamalarını, malzeme bileşimlerini ve son kullanım amacını okuyor ve doğru HS koduna ulaşmak için <strong>WCO</strong> kurallarını otomatik olarak uyguluyor. Bu; yalnızca hız değil; tutarlılık da sağlıyor. Tedarik zinciri perspektifinden bakıldığında <strong>SAP GTS</strong>, <strong>Oracle GTM</strong>, <strong>E2open</strong> ve <strong>Descartes</strong> gibi platformların yapay zekâ modüllerine yapılıyor olan yatırım; gümrük denetiminde önceden belirleniyor olan <strong>binding ruling</strong> taleplerinin azalmasına ve <strong>post-clearance audit</strong> risklerinin minimize edilmesine doğrudan katkı sağlıyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/43059-why-customs-classification-is-broken-and-how-ai-can-fix-it"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/43059-why-customs-classification-is-broken-and-how-ai-can-fix-it</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

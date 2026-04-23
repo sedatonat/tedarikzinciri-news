@@ -43,7 +43,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://splash247.com/knutsen-nyk-carbon-carriers-unveils-new-look-tanker/"><u>https://splash247.com/knutsen-nyk-carbon-carriers-unveils-new-look-tanker/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

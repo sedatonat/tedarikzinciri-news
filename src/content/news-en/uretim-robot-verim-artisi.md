@@ -122,7 +122,6 @@ Result: 3PLs and warehouse managers can optimize resources on a minute-by-minute
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/42770-the-roi-multiplier-how-minimizing-robots-maximizes-throughput-and-savings"><u>https://www.supplychainbrain.com/articles/42770-the-roi-multiplier-how-minimizing-robots-maximizes-throughput-and-savings</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

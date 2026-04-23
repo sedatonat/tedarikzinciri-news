@@ -48,7 +48,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/wan-hai-inks-roughly-500-million-deal-for-six-lng-powered-ships-6136125"><u>https://www.joc.com/article/wan-hai-inks-roughly-500-million-deal-for-six-lng-powered-ships-6136125</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -36,9 +36,6 @@ tags:
 3. 60 yaşındaki köprünün yapısal bütünlüğü beton ve metal incelenerek değerlendiriliyor.<br>
 4. <strong>Mulino</strong>; operasyonların en kısa sürede normale dönüyor olacağını umut ediyor.<br>
 5. <strong>Centennial Bridge</strong> ile <strong>Atlantic Bridge</strong>; geçici alternatif geçiş seçenekleri oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43805-fuel-truck-explosion-shuts-down-bridge-over-panama-canal"><u>https://www.supplychainbrain.com/articles/43805-fuel-truck-explosion-shuts-down-bridge-over-panama-canal</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

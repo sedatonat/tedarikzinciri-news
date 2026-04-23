@@ -31,9 +31,6 @@ tags:
 3. Aşdod ve Hayfa limanlarındaki gemilerin tahliye edilmeyeceği açıklandı.<br>
 4. Sendika, 4,2 milyar dolarlık Hapag-Lloyd satın alması sonrasında iş güvencesi ve çalışma koşulları için taahhüt istiyor.<br>
 5. Grev, Akdeniz–Asya hatlarında ZIM rotasyonları için operasyonel risk oluşturuyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/zim-workers-strike-over-hapag-lloyd-deal/"><u>https://www.porttechnology.org/zim-workers-strike-over-hapag-lloyd-deal/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

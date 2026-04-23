@@ -29,4 +29,3 @@ tags:
   <li><p>Geniş ofis ağıyla Türkiye genelinde hizmet veriyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://lojistikhatti.com/haber/2024/07/mars-hava-ve-deniz-kargo-yurt-ici-konteyner-tasimaciligi-hizmeti-vermeye-basladi"><u>https://lojistikhatti.com/haber/2024/07/mars-hava-ve-deniz-kargo-yurt-ici-konteyner-tasimaciligi-hizmeti-vermeye-basladi</u></a></p>

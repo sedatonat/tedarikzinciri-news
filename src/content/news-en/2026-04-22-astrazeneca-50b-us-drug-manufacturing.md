@@ -27,9 +27,6 @@ tags: ['AstraZeneca', 'ilaç', 'ABD üretim', 'Trump 2.0', 'tarifeler', 'biyofar
 3. <strong>Virginia</strong> serves as the main project hub—with other facilities in <strong>California</strong>, <strong>Indiana</strong>, <strong>Maryland</strong>, and <strong>Texas</strong>.<br>
 4. <strong>Trump</strong> threatens tariffs of up to 200% on imported drugs.<br>
 5. <strong>Eli Lilly</strong>, <strong>J&amp;J</strong>, <strong>Roche</strong>, and <strong>Novartis</strong> announce similar <strong>U.S.</strong> commitments.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42200-astrazeneca-vows-to-commit-50b-to-us-drug-manufacturing"><u>https://www.supplychainbrain.com/articles/42200-astrazeneca-vows-to-commit-50b-to-us-drug-manufacturing</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it free through the link above.</p>

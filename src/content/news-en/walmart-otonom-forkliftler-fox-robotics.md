@@ -28,4 +28,3 @@ tags:
   <li><p>Automation spans a broad range of storage and retrieval operations.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10113-walmart-to-operate-19-autonomous-forklifts-to-unload-pallets-from-trucks"><u>https://www.thescxchange.com/articles/10113-walmart-to-operate-19-autonomous-forklifts-to-unload-pallets-from-trucks</u></a></p>

@@ -25,9 +25,6 @@ tags: ["WD-40", "İran Savaşı", "Hürmüz Boğazı", "petrol fiyatı", "Sara H
 3. Gross margin impact not expected before Q4 FY2026.<br>
 4. Crude oil assumption raised from $65-85 to $95-115 per barrel range.<br>
 5. Iran war also affects CPG packaging supply chain and delivery costs.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychaindive.com/news/wd-40-iran-war-impact-costs/817341/"><u>https://www.supplychaindive.com/news/wd-40-iran-war-impact-costs/817341/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

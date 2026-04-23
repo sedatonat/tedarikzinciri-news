@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Bu arada Hindistan; son haftalarda hem <strong>Avrupa Birliği</strong> hem de <strong>Amerika Birleşik Devletleri</strong> ile agresif biçimde ticaret anlaşmaları peşinde oluyor. 2 Şubat'ta Trump yönetimi; ilgili duyuruyu yapıyor. Tedarik zinciri perspektifinden bakıldığında <strong>BCSL</strong>'in piyasaya girmesi; <strong>Maersk</strong>, <strong>MSC</strong>, <strong>CMA CGM</strong> ve <strong>Hapag-Lloyd</strong>'un Hint Yarımadası servislerinde fiyatlama gücünü orta vadede yumuşatabiliyor. <strong>JNPT</strong>, <strong>Mundra</strong> ve <strong>Cochin</strong> üzerinden yürütülüyor olan <strong>Indo-EU</strong> ile <strong>IMEC (India-Middle East-Europe Economic Corridor)</strong> bağlantı stratejilerinde yerli bayrak avantajı yapısal hâle geliyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43430-india-launches-state-backed-container-line"><u>https://www.supplychainbrain.com/articles/43430-india-launches-state-backed-container-line</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

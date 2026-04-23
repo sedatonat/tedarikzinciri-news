@@ -27,9 +27,6 @@ tags:
 3. Durumu tersine çevirmek için onarım hızının iki katına çıkarılması gerekiyor.<br>
 4. Batılı parça tedarikçilerinin çekilmesi ve yaptırımlar filonun yaşlanmasını hızlandırdı.<br>
 5. Sektör; yaklaşan kışta kömür sevkiyatlarının aksamaması için acil tedbirler talep ediyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.railfreight.com/railfreight/2026/04/22/russian-investigation-sounds-the-alarm-over-rolling-stock/"><u>https://www.railfreight.com/railfreight/2026/04/22/russian-investigation-sounds-the-alarm-over-rolling-stock/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

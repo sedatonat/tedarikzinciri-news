@@ -47,7 +47,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The return is taking place in a cautious and limited manner due to security risks.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/one-returns-to-red-sea-under-slot-charter-deal-with-thailands-rcl-partners-6136866"><u>https://www.joc.com/article/one-returns-to-red-sea-under-slot-charter-deal-with-thailands-rcl-partners-6136866</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

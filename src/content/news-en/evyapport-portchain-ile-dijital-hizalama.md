@@ -38,4 +38,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.porttechnology.org/news/evyapport-joins-the-portchain-connect-network/"><u>https://www.porttechnology.org/news/evyapport-joins-the-portchain-connect-network/</u></a></p>

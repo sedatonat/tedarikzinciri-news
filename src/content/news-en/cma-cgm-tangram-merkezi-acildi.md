@@ -36,4 +36,3 @@ tags:
   <li><p>Training programs are available on "climate," "artificial intelligence," and "leadership."</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10244-cma-cgm-launches-training-and-innovation-center"><u>https://www.thescxchange.com/articles/10244-cma-cgm-launches-training-and-innovation-center</u></a></p>

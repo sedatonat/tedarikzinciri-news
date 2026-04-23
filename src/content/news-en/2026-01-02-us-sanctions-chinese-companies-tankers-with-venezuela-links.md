@@ -29,9 +29,6 @@ tags:
 <p style="text-align: justify">"These vessels, some of which are part of the shadow fleet serving Venezuela, continue to provide financial resources that fuel Maduro's illegitimate narco-terrorist regime," the <strong>Treasury Department</strong> said in a statement. From a supply chain perspective, the <strong>Maduro</strong> regime increasingly depends on a worldwide shadow fleet to facilitate sanctionable activity, including sanctions evasion and revenue generation for destabilizing operations.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, only one of the vessels identified on December 31 &mdash; the <em>Rosalind</em> &mdash; has been anywhere close to Venezuela recently, typically engaged in short-haul voyages. Direct targeting of third-party Chinese firms significantly raises secondary sanctions risk in global oil trade. Refinery operators, ship managers and insurers in Asia are being forced to apply far more thorough compliance checks on any transaction connected with Venezuelan-origin cargoes.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43067-us-sanctions-chinese-companies-tankers-with-venezuela-links"><u>https://www.supplychainbrain.com/articles/43067-us-sanctions-chinese-companies-tankers-with-venezuela-links</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

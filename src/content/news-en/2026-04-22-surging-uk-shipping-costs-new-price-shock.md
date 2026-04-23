@@ -27,9 +27,6 @@ tags: ['Birleşik Krallık', 'nakliye maliyeti', 'Felixstowe', 'Bank of England'
 3. <strong>Xeneta</strong> and <strong>Drewry</strong> are leading freight rate data providers.<br>
 4. The <strong>British Retail Consortium</strong> highlights pass-through risk due to razor-thin margins.<br>
 5. The <strong>Bank of England</strong>'s interest rate reduction plan is complicated by freight-linked inflation.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42110-surging-uk-shipping-costs-threaten-to-deliver-a-new-price-shock"><u>https://www.supplychainbrain.com/articles/42110-surging-uk-shipping-costs-threaten-to-deliver-a-new-price-shock</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Purchase ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>

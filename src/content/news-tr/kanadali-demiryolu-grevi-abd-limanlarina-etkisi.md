@@ -40,4 +40,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10278-potential-canadian-rail-worker-strike-impacts-us-west-coast-ports"><u>https://www.thescxchange.com/articles/10278-potential-canadian-rail-worker-strike-impacts-us-west-coast-ports</u></a></p>

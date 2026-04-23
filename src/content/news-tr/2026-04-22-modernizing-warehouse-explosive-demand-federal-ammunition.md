@@ -35,9 +35,6 @@ tags:
 3. <strong>Remington</strong>; <strong>Hevi Shot</strong>; <strong>Speer</strong>; <strong>CCI</strong>; entegre ediliyor diğer markalar oluyor.<br>
 4. Eski <strong>ERP</strong> ve <strong>WMS</strong>; sınırlı işlevsellik sağlıyor &mdash; depo büyük ölçüde kağıt tabanlı oluyor.<br>
 5. Manuel toplama; operasyonları yavaşlatıyor ve doğruluk sorunları yaratıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42150-modernizing-a-warehouse-to-meet-explosive-demand-growth"><u>https://www.supplychainbrain.com/articles/42150-modernizing-a-warehouse-to-meet-explosive-demand-growth</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

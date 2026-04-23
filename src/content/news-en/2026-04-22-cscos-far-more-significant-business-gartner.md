@@ -27,9 +27,6 @@ tags: ['CSCO', 'Gartner', 'Tom Enright', 'robot', 'AI', 'otonom karar', 'Symposi
 3. <strong>CSCO</strong> will shift from "trucks and sheds" to a customer-oriented role.<br>
 4. Three major transformation areas: people, AI, and customers.<br>
 5. <strong>Gartner Supply Chain Symposium/XPO Orlando</strong> is the principal industry event.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41720-cscos-will-become-far-more-significant-in-business-says-gartner"><u>https://www.supplychainbrain.com/articles/41720-cscos-will-become-far-more-significant-in-business-says-gartner</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

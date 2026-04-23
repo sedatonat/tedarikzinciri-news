@@ -36,4 +36,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10284-dp-world-says-mexico-us-intermodal-service-will-relieve-auto-capacity-crunch"><u>https://www.thescxchange.com/articles/10284-dp-world-says-mexico-us-intermodal-service-will-relieve-auto-capacity-crunch</u></a></p>

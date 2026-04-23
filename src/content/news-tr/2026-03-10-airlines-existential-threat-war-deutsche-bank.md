@@ -36,9 +36,6 @@ tags:
 3. <strong>Crack spread</strong>; 2005&rsquo;ten bu yana en geniş seviyede oluyor.<br>
 4. Sektör endeksi 6 işlem seansında %19 düşüyor.<br>
 5. <strong>Rothschild &amp; Co. Redburn</strong>; <strong>American Airlines</strong>&rsquo;ın notunu düşürüyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43619-airlines-face-existential-threat-from-war-deutsche-bank-says"><u>https://www.supplychainbrain.com/articles/43619-airlines-face-existential-threat-from-war-deutsche-bank-says</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

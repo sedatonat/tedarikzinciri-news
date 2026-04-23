@@ -42,7 +42,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/cass-acquires-international-freight-invoice-auditing-tool-to-widen-modal-reach-5914637"><u>https://www.joc.com/article/cass-acquires-international-freight-invoice-auditing-tool-to-widen-modal-reach-5914637</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

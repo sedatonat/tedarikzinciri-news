@@ -41,7 +41,6 @@ tags:
   <li><p>Marj ve servis birlikte iyileşir.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41854-why-your-supply-chain-needs-a-smarter-ai-enabled-software-solution-in-2025" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/41854-why-your-supply-chain-needs-a-smarter-ai-enabled-software-solution-in-2025</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

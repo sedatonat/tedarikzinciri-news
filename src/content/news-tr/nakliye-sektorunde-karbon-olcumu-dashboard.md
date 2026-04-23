@@ -28,4 +28,3 @@ tags:
   <li><p><strong>Veri Tutarsızlıkları</strong>: Farklı kaynaklardan gelen verilerin tutarlı bir şekilde işlenmesine olanak tanır.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.thescxchange.com/articles/10739-carbon-dashboard-lets-shippers-measure-freight-carbon-emissions"><u>https://www.thescxchange.com/articles/10739-carbon-dashboard-lets-shippers-measure-freight-carbon-emissions</u></a></p>

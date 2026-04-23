@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, leaders such as <strong>Zara</strong> (<strong>Inditex</strong>), <strong>H&amp;M</strong>, <strong>Uniqlo</strong>, <strong>Shein</strong>, <strong>Nike</strong> and <strong>Adidas</strong> are accelerating investment in <em>nearshoring</em>, modular warehouse automation (<strong>AutoStore</strong>, <strong>Symbotic</strong>, <strong>Geek+</strong>), AI-driven demand forecasting (<strong>o9 Solutions</strong>, <strong>RELEX</strong>) and the <strong>Digital Product Passport</strong> required under the EU&rsquo;s <em>ESPR</em> regulation. <strong>RFID</strong>, blockchain-based traceability and <strong>3D virtual sampling</strong> are compressing sampling cycles from weeks to days. Micro-inventory, <em>see-now-buy-now</em> models and social commerce integration will be foundational pillars of agile fashion networks beyond 2026.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43226-agility-will-outpace-efficiency-in-fashion-supply-chains"><u>https://www.supplychainbrain.com/articles/43226-agility-will-outpace-efficiency-in-fashion-supply-chains</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

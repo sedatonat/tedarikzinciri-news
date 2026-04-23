@@ -66,7 +66,6 @@ Yargıçların soruları, yürütmenin ekonomik acil durum ilan ederek Kongre’
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/costco-sues-trump-administration-for-tariff-refund/806825/"><u>https://www.supplychaindive.com/news/costco-sues-trump-administration-for-tariff-refund/806825/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

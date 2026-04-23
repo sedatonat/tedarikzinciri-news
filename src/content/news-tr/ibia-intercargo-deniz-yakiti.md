@@ -63,7 +63,6 @@ Bu iş birliği, üyelerimizin güvenli ve pragmatik geçiş stratejileri geliş
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/ibia-intercargo-strengthen-partnership-on-marine-fuels/"><u>https://www.porttechnology.org/news/ibia-intercargo-strengthen-partnership-on-marine-fuels/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

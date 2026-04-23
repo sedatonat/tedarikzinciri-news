@@ -28,10 +28,6 @@ tags:
 3. LaaS konsepti güç kazanıyordır.<br>
 4. Satıcılar hız ve erişim avantajı kazanıyordır.<br>
 5. Yeni model küresel e-ticareti dönüştürüyordir.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42519-amazon-opens-fulfillment-services-to-sellers-for-walmart-shopify-and-shein"><u>https://www.supplychainbrain.com/articles/42519-amazon-opens-fulfillment-services-to-sellers-for-walmart-shopify-and-shein</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

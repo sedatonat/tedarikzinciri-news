@@ -40,4 +40,3 @@ tags:
   <li><p>Demiryolu hattı, deniz ve demiryolu taşımacılığı arasındaki bağlantıyı güçlendiriyor ve lojistik operasyonlarının verimliliğini artırıyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/mawani-launches-first-railway-transport-between-major-saudi-ports/"><u>https://www.porttechnology.org/news/mawani-launches-first-railway-transport-between-major-saudi-ports/</u></a></p>

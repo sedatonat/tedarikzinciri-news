@@ -27,10 +27,6 @@ tags:
 3. US-China tensions are straining supply chains.<br>
 4. South Korea's trade balance is at risk.<br>
 5. The sanctions could disrupt global shipbuilding supplies.</p>
-<p><br>
----<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42656-china-sanctions-us-subsidiaries-of-shipbuilder-hanwha-ocean"><u>https://www.supplychainbrain.com/articles/42656-china-sanctions-us-subsidiaries-of-shipbuilder-hanwha-ocean</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

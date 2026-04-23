@@ -44,7 +44,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/40722-gather-ai-expands-into-freezer-and-cold-storage-inventory-intelligence"><u>https://www.supplychainbrain.com/articles/40722-gather-ai-expands-into-freezer-and-cold-storage-inventory-intelligence</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

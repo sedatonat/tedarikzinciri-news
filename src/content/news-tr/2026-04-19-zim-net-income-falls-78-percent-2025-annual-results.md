@@ -30,9 +30,6 @@ tags:
 3. Şirket 3,66 milyon TEU taşıdı, ortalama navlun oranı TEU başına 1.551 dolara düştü.<br>
 4. Yıl sonu itibariyle net borç 2,92 milyar dolar, kaldıraç oranı 1,3x olarak kayda geçti.<br>
 5. ZIM, filo modernizasyonu kapsamında 22 yeni inşa charter sözleşmesi imzaladı.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/zim-net-income-falls-78-per-cent-in-2025/"><u>https://www.porttechnology.org/zim-net-income-falls-78-per-cent-in-2025/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

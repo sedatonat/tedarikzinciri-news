@@ -30,9 +30,6 @@ tags:
 3. Anlaşma, MENA pazarlarındaki kargo akışlarının güçlendirilmesini hedefliyor.<br>
 4. Hamle, ana okyanus taşıyıcılarının sürdürdüğü dikey entegrasyon eğilimini yansıtıyor.<br>
 5. CMA CGM, kara taşımacılığı, depolama ve dağıtım alanlarında etkinliğini artıracak.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/cma-cgm-to-acquire-fattal-in-logistics-push/"><u>https://www.porttechnology.org/cma-cgm-to-acquire-fattal-in-logistics-push/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

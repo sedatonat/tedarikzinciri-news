@@ -91,7 +91,6 @@ The Manila government is <strong>pursuing solutions through diplomatic channels<
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://splash247.com/rising-us-deportations-of-filipino-crew-spark-diplomatic-intervention/"><u>https://splash247.com/rising-us-deportations-of-filipino-crew-spark-diplomatic-intervention/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>
 <p><strong>How to Get ERP? Our Book is Published on Google Play Books.</strong></p>

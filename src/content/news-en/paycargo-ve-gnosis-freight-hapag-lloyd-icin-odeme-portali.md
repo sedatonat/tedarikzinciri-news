@@ -51,7 +51,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/paycargo-and-gnosis-freight-to-power-container-payment-portal-for-hapag-lloyd/"><u>https://gcaptain.com/paycargo-and-gnosis-freight-to-power-container-payment-portal-for-hapag-lloyd/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Get ERP?" Has Been Published on Google Play Books.</strong></p>

@@ -47,7 +47,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42911-hp-to-cut-6-000-jobs-touts-savings-from-ai"><u>https://www.supplychainbrain.com/articles/42911-hp-to-cut-6-000-jobs-touts-savings-from-ai</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -35,9 +35,6 @@ tags:
 3. Yangın; tesisin <strong>cold mill</strong>&rsquo;inden kaynaklanıyor &mdash; siyah duman görülüyor.<br>
 4. <strong>Ford F-150</strong>; alüminyum gövdeli &mdash; en çok satılıyor olunan kamyon oluyor.<br>
 5. <strong>Novelis</strong>; <strong>Hindalco</strong> (<strong>Aditya Birla Group</strong>) iştiraki olarak küresel düz haddelenmiş alüminyum lideri oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42890-aluminum-plant-supplying-ford-pickups-erupts-in-fire-again"><u>https://www.supplychainbrain.com/articles/42890-aluminum-plant-supplying-ford-pickups-erupts-in-fire-again</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

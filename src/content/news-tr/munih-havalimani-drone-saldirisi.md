@@ -34,7 +34,6 @@ tags:
 <p>4. Counter-UAS çözümleri önemi artıyordır.</p>
 <p>5. Operasyon esnekliği riskleri yumuşatıyordır.</p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42615-munich-airport-reopens-after-drone-scare"><u>https://www.supplychainbrain.com/articles/42615-munich-airport-reopens-after-drone-scare</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

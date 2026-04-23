@@ -28,9 +28,6 @@ tags: ['ABD', 'Filipinler', 'Luzon Ekonomik Koridoru', 'kritik mineraller', 'Ind
 3. The <strong>State Department</strong> characterizes it as a purpose-built platform for <strong>allied manufacturing</strong>.<br>
 4. <strong>Philippines</strong> is strategically positioned with reserves of <strong>nickel</strong>, <strong>copper</strong>, <strong>chromite</strong>, and <strong>cobalt</strong>.<br>
 5. It is valued as a geographic foothold for trade in the <strong>Indo-Pacific</strong>.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43902-us-to-partner-with-philippines-on-industrial-hub"><u>https://www.supplychainbrain.com/articles/43902-us-to-partner-with-philippines-on-industrial-hub</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

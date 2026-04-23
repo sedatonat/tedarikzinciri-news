@@ -28,4 +28,3 @@ tags:
   <li><p>Yapay zeka (AI) gibi yeni teknolojiler, MRO süreçlerini iyileştirme potansiyeli taşıyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/mro-experts-call-for-greater-focus-on-business-risks"><u>https://www.thescxchange.com/mro-experts-call-for-greater-focus-on-business-risks</u></a></p>

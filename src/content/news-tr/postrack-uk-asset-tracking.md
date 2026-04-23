@@ -68,7 +68,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://warehousinglogisticsinternational.com/postrack-launches-asset-tracking-business-in-the-uk-to-target-logistics-and-road-transport-sector/"><u>https://warehousinglogisticsinternational.com/postrack-launches-asset-tracking-business-in-the-uk-to-target-logistics-and-road-transport-sector/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

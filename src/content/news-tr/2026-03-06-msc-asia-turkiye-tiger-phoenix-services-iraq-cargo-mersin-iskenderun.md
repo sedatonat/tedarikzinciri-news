@@ -30,9 +30,6 @@ tags:
 3. Kargo; Mersin ve İskenderun üzerinden Irak'a kara bağlantısı ile taşınabiliyor.<br>
 4. Temel iç hedefler; Zakho, Dohuk, Musul, Erbil, Süleymaniye ve Bağdat.<br>
 5. MSC'nin East-West ağı; altı Asya-Akdeniz hizmetini içeriyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/msc-offers-asia-turkiye-services-to-support-iraq-cargo/"><u>https://www.porttechnology.org/msc-offers-asia-turkiye-services-to-support-iraq-cargo/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

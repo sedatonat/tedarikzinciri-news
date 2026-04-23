@@ -34,4 +34,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://container-news.com/houthis-hit-msc-vessel-in-gulf-of-aden-with-missile/"><u>https://container-news.com/houthis-hit-msc-vessel-in-gulf-of-aden-with-missile/</u></a></p>

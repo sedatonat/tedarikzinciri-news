@@ -28,9 +28,6 @@ tags: ['EPG', 'NVIDIA', 'ajansal yapay zeka', 'otonom tedarik zinciri', 'webinar
 3. Agentic <strong>AI</strong> transforms logistics from visibility to autonomous execution.<br>
 4. <strong>NVIDIA cuOpt</strong> accelerates routing optimization with <strong>VRP</strong>.<br>
 5. <strong>EPG Greenstone</strong> serves as the automation hardware orchestration layer.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43810-from-insight-to-action-the-agentic-supply-chain"><u>https://www.supplychainbrain.com/articles/43810-from-insight-to-action-the-agentic-supply-chain</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What Is ERP?</p>

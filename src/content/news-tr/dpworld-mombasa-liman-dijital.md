@@ -58,7 +58,6 @@ Dünya genelinde <strong>60’tan fazla ülkede</strong> liman, terminal, sanayi
   <li style="text-align: justify"><p style="text-align: justify">Mombasa, bu sistemle <strong>Doğu ve Orta Afrika’nın dijital lojistik merkezi</strong> konumunu güçlendirecek.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://en.portnews.ru/news/383765/"><u>https://en.portnews.ru/news/383765/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

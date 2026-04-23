@@ -18,4 +18,3 @@ tags:
 ---
 <p>SupplyChainBrain.com 'da yayınlanan bu makalede, ABD merkezli Langham Logistics firmasının envanter kontrolünün drone 'lar aracılığı ile yapılması ile alakalı projesi özetlenmiş.</p>
 <p><br></p>
-<p>Haber linki: <a href="https://www.supplychainbrain.com/articles/38493-using-drones-to-improve-inventory-count-accuracy"><u>https://www.supplychainbrain.com/articles/38493-using-drones-to-improve-inventory-count-accuracy</u></a>&nbsp;</p>

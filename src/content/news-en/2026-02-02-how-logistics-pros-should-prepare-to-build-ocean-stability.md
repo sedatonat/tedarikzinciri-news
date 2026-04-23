@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">For carriers, the next 18 months will be defined by rate compression and overcapacity risk. The pendulum has swung decisively away from the pandemic peak, with soft trades, flat demand and extensive newbuild commitments creating tight margins. From a supply chain perspective, in contract negotiations with <strong>Maersk</strong>, <strong>MSC</strong>, <strong>CMA CGM</strong>, <strong>Hapag-Lloyd</strong> and <strong>ZIM</strong>, shippers are well positioned to keep <strong>NAC (Named Account Contracts)</strong> volume commitments flexible, lower <strong>MQC (Minimum Quantity Commitment)</strong> levels and tie <strong>BAF</strong>, <strong>EBAF</strong> and <strong>PSS</strong> surcharges to a contract baseline.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43305-how-logistics-pros-should-prepare-to-build-ocean-stability"><u>https://www.supplychainbrain.com/articles/43305-how-logistics-pros-should-prepare-to-build-ocean-stability</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

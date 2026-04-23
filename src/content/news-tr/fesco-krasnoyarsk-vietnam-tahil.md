@@ -68,7 +68,6 @@ Deniz aşaması, FESCO’nun düzenli hattı olan <strong>FESCO Vietnam Direct L
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://seanews.ru/en/2025/12/05/en-first-containerized-wheat-shipment-from-krasnoyarsk-region-to-viet-nam/"><u>https://seanews.ru/en/2025/12/05/en-first-containerized-wheat-shipment-from-krasnoyarsk-region-to-viet-nam/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

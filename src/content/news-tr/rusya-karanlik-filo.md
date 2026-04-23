@@ -69,7 +69,6 @@ LNG gibi <strong>izlenebilirliği yüksek bir emtia</strong> üzerinde dahi AIS 
   <li style="text-align: justify"><p style="text-align: justify">Gelişme, <strong>küresel enerji ticaretinde gölge operasyonların artan rolüne</strong> işaret ediyor.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/china-joins-russias-dark-fleet-with-first-ever-lng-ship-to-ship-transfer/"><u>https://gcaptain.com/china-joins-russias-dark-fleet-with-first-ever-lng-ship-to-ship-transfer/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

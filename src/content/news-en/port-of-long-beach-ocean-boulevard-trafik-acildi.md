@@ -36,7 +36,6 @@ tags:
   <li><p>The port continues to expand operational capacity through infrastructure investments and technological innovations.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/port-of-long-beach-reports-road-reopening-after-battery-fire/"><u>https://www.porttechnology.org/news/port-of-long-beach-reports-road-reopening-after-battery-fire/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>

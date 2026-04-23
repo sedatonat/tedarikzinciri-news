@@ -44,7 +44,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/qa-matt-cartwright-magnus-technologies"><u>https://www.supplychain247.com/article/qa-matt-cartwright-magnus-technologies</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -47,7 +47,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Daha kapsamlı <strong>data sharing</strong>, limanlarda dayanıklılığı artırıyor</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/more-data-sharing-crucial-to-avoiding-future-port-congestion-officials-6135162"><u>https://www.joc.com/article/more-data-sharing-crucial-to-avoiding-future-port-congestion-officials-6135162</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

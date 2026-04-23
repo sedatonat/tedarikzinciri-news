@@ -46,7 +46,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/beltandroad/2025/12/16/kazakhstan-boosts-capacity-by-40-at-key-rail-border-crossing/"><u>https://www.railfreight.com/beltandroad/2025/12/16/kazakhstan-boosts-capacity-by-40-at-key-rail-border-crossing/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/">SedatOnat.com</a></p>
 <p>--------------------</p>

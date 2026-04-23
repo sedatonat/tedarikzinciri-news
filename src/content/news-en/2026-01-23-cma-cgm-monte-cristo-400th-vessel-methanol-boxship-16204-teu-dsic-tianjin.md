@@ -23,9 +23,6 @@ tags: ["CMA CGM", "CMA CGM MONTE CRISTO", "metanol", "16.204 TEU", "DSIC Tianjin
 3. The vessel features approximately 1,000 reefer plugs and will sail under the Maltese flag.<br>
 4. This is the group's 11th methanol-capable containership, with 24 in total on order.<br>
 5. CMA CGM plans to operate around 200 dual-fuel LNG and methanol vessels by 2031.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/cma-cgm-adds-400th-vessel-with-methanol-boxship/"><u>https://www.porttechnology.org/cma-cgm-adds-400th-vessel-with-methanol-boxship/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

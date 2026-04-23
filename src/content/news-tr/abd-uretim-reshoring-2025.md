@@ -102,7 +102,6 @@ Eğer ürün maliyetinin <strong>%50+ bölümü iş gücü</strong> ise, ABD’d
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/tariffs-reshoring-institute-women-in-manufacturing-session/803265/"><u>https://www.supplychaindive.com/news/tariffs-reshoring-institute-women-in-manufacturing-session/803265/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

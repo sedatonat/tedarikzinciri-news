@@ -45,7 +45,6 @@ tags:
 <p><br></p>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/amazon-places-united-kingdom-largest-ever-order-electric-trucks"><u>https://www.supplychain247.com/article/amazon-places-united-kingdom-largest-ever-order-electric-trucks</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP? Our Book has been published on Google Play Books.</strong></p>

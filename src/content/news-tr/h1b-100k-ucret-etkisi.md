@@ -33,10 +33,6 @@ tags:
 - Çok uluslu şirketler yetenek pozisyonlarını Canada, Germany, India gibi merkezlere kaydırmakta.<br>
 - Düzenleme hukuki itirazlarla karşılaşıyor; belirsizlik işe alım ve planlamayı zorlaştırıyor.<br>
 - Etki, yalnız teknoloji değil; healthcare, education ve tedarik zinciri modernizasyonuna da yayılıyor.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42632-trumps-100k-h-1b-visa-fee-puts-us-innovation-engine-to-the-test"><u>https://www.supplychainbrain.com/articles/42632-trumps-100k-h-1b-visa-fee-puts-us-innovation-engine-to-the-test</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

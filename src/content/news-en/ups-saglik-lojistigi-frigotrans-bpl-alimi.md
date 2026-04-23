@@ -38,7 +38,6 @@ tags:
 </ol>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.lojiport.com/ups-iki-firma-satin-aldi-saglik-lojistiginde-zirveyi-hedefliyor-117099h.htm"><u>https://www.lojiport.com/ups-iki-firma-satin-aldi-saglik-lojistiginde-zirveyi-hedefliyor-117099h.htm</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Choose ERP? Our book is now published on Google Play Books.</strong></p>

@@ -30,4 +30,3 @@ tags:
   <li><p>Gelecekte Avrupa ve Çin pazarlarına yayılma planları var.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/38467-fluent-commerces-centralized-inventory-management-increased-breitling-online-sales-by-20"><u>https://www.supplychainbrain.com/articles/38467-fluent-commerces-centralized-inventory-management-increased-breitling-online-sales-by-20</u></a></p>

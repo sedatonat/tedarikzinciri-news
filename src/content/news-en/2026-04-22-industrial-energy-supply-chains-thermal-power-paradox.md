@@ -27,9 +27,6 @@ tags: ['termal güç', 'ESG', 'karbon emisyonu', 'enerji tedarik zinciri', 'köm
 3. Developing economies depend on thermal power for millions of jobs and a population of 1.4 billion+.<br>
 4. The four-pillar solution encompasses efficiency, <strong>CCUS</strong>, fuel transition, and renewable integration.<br>
 5. <strong>JETP</strong> comprises <strong>G7</strong> financing partnerships with <strong>South Africa</strong>, <strong>Indonesia</strong>, <strong>Vietnam</strong>, and <strong>Senegal</strong>.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42490-industrial-energy-supply-chains-the-thermal-power-paradox-and-four-pillar-solution"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42490-industrial-energy-supply-chains-the-thermal-power-paradox-and-four-pillar-solution</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

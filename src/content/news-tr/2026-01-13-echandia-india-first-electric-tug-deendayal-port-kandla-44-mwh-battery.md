@@ -31,9 +31,6 @@ tags:
 3. 4,4 MWh kapasiteli pil sistemi 15 yıllık ömür için tasarlandı.<br>
 4. Sistem 30.000 şarj-deşarj döngüsünü orta-ömür değişim olmadan garantiliyor.<br>
 5. Ripley Group ihaleyi kazandı; Kongsberg Maritime sistem entegratörü olarak görev alacak.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/echandia-to-power-indias-first-electric-tug/"><u>https://www.porttechnology.org/echandia-to-power-indias-first-electric-tug/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

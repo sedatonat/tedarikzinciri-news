@@ -38,7 +38,6 @@ tags:
 </ol>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.lojiport.com/ups-iki-firma-satin-aldi-saglik-lojistiginde-zirveyi-hedefliyor-117099h.htm"><u>https://www.lojiport.com/ups-iki-firma-satin-aldi-saglik-lojistiginde-zirveyi-hedefliyor-117099h.htm</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

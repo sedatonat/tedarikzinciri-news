@@ -43,7 +43,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Çin merkezli rekabet ve EV dönüşümündeki yavaşlık kararın temel gerekçeleri arasında yer aldı.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.haber7.com/otomobil/haber/3588539-avrupa-birliginden-geri-adim-benzin-ve-dizel-araclar-icin-yeni-karar"><u>https://www.haber7.com/otomobil/haber/3588539-avrupa-birliginden-geri-adim-benzin-ve-dizel-araclar-icin-yeni-karar</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

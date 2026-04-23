@@ -66,7 +66,6 @@ and similar initiatives.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/port-of-oakland-achieves-86-per-cent-renewable-power-in-2024/"><u>https://www.porttechnology.org/news/port-of-oakland-achieves-86-per-cent-renewable-power-in-2024/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

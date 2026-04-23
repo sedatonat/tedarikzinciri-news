@@ -38,4 +38,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10362-flexport-continues-to-invest-in-convoy-freight-matching-technology"><u>https://www.thescxchange.com/articles/10362-flexport-continues-to-invest-in-convoy-freight-matching-technology</u></a></p>

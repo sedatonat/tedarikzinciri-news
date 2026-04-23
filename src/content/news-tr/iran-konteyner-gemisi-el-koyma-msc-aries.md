@@ -38,4 +38,3 @@ tags:
   <li><p>Şirketlerin risk yönetimi stratejilerini güçlendirmeleri ve jeopolitik dalgalanmalara karşı esnek planlar yapmaları gerekiyordir.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10121-ocean-freight-rates-expected-to-jump-after-iran-seizes-containership"><u>https://www.thescxchange.com/articles/10121-ocean-freight-rates-expected-to-jump-after-iran-seizes-containership</u></a></p>

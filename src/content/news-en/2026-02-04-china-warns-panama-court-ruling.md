@@ -28,9 +28,6 @@ tags: ['Çin', 'Panama', 'CK Hutchison', 'Panama Kanalı', 'liman jeopolitiği',
 3. The <strong>Hong Kong and Macao Affairs Office</strong> issues a <strong>"heavy price"</strong> warning.<br>
 4. Panama President Mulino rejects the criticism by citing judicial independence.<br>
 5. The ruling increases tensions ahead of <strong>Trump's</strong> April visit to <strong>China</strong>.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43414-china-warns-panama-of-heavy-price-on-court-ruling-on-ports"><u>https://www.supplychainbrain.com/articles/43414-china-warns-panama-of-heavy-price-on-court-ruling-on-ports</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What Is ERP?</p>

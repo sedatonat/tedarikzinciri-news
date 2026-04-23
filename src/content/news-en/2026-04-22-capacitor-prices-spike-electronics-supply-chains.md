@@ -28,9 +28,6 @@ tags: ['kapasitör', 'Supplyframe', 'Eric Rimkeit', 'elektronik', 'AI veri merke
 3. Capacitor prices have declined an average of 31% over the past year; the trend is reversing.<br>
 4. Other affected sectors include aerospace-defense, medical, and industrial edge AI.<br>
 5. Capacitor manufacturers are diversifying away from <strong>China</strong>, but concentration continues.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43881-watch-how-a-spike-in-capacitor-prices-will-impact-electronics-supply-chains"><u>https://www.supplychainbrain.com/articles/43881-watch-how-a-spike-in-capacitor-prices-will-impact-electronics-supply-chains</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

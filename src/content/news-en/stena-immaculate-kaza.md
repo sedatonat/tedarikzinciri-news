@@ -69,7 +69,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://gcaptain.com/stena-immaculate-sold-for-repairs-after-fatal-north-sea-collision/"><u>https://gcaptain.com/stena-immaculate-sold-for-repairs-after-fatal-north-sea-collision/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

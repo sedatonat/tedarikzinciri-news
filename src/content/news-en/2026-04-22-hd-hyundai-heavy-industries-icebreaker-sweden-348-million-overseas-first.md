@@ -21,9 +21,6 @@ tags: ["HD Hyundai Heavy Industries", "icebreaker", "Sweden", "Swedish Maritime 
 3. Delivery is scheduled for 2029; the vessel is 126 metres long with approximately 15,000 tonnes displacement.<br>
 4. The order marks the South Korean yard's entry into a segment long dominated by northern European builders.<br>
 5. The icebreaker market is expanding as the Northern Sea Route attracts commercial interest.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://en.portnews.ru/news/390646/"><u>https://en.portnews.ru/news/390646/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

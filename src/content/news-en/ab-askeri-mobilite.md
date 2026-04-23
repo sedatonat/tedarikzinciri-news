@@ -92,7 +92,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/policy/2025/11/20/what-does-the-european-commissions-military-mobility-package-mean-for-rail-freight/"><u>https://www.railfreight.com/policy/2025/11/20/what-does-the-european-commissions-military-mobility-package-mean-for-rail-freight/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

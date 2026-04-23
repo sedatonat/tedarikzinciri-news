@@ -57,7 +57,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.joc.com/article/us-china-suspend-reciprocal-port-fees-as-part-of-wider-trade-deal-6105849"><u>https://www.joc.com/article/us-china-suspend-reciprocal-port-fees-as-part-of-wider-trade-deal-6105849</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

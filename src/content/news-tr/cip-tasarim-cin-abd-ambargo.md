@@ -112,7 +112,6 @@ Bu hamle, hem <strong>küresel tedarik zinciri dinamiklerini</strong> hem de <st
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.reuters.com/world/china/trump-tells-us-chip-designers-stop-selling-china-ft-reports-2025-05-28/"><u>https://www.reuters.com/world/china/trump-tells-us-chip-designers-stop-selling-china-ft-reports-2025-05-28/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

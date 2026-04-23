@@ -27,10 +27,6 @@ tags:
 3. KOBİ’ler için erişim hızı artar.<br>
 4. Takip ve bildirim deneyimi güçlenir.<br>
 5. Gelir artışı ve rekabet gücü hedeflenir.</p>
-<p><br>
----<br>
-Haber Linki: https://www.supplychainbrain.com/articles/41308-usps-rolls-out-next-day-delivery-in-28-states<br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

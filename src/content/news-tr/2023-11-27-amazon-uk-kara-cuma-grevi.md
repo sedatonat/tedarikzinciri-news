@@ -30,4 +30,3 @@ tags:
 <p>ABD regülatörü Federal Ticaret Komisyonu (Federal Trade Commission), şirkete karşı rekabeti engelleme suçlamasıyla bir dava açtı ve Amazon'un bu suçlamaları reddettiğini iddia etti.</p>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/38564-amazon-black-friday-strikes-spread-internationally"><u>https://www.supplychainbrain.com/articles/38564-amazon-black-friday-strikes-spread-internationally</u></a></p>

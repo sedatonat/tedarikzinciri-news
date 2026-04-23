@@ -23,9 +23,6 @@ tags: ["FedEx", "AI", "RFID", "robotics", "Berkshire Grey", "MOBIUS", "Network 2
 3. MOBIUS predictive maintenance saves $10 million annually.<br>
 4. Berkshire Grey trailer unloader to expand across 20+ hubs.<br>
 5. RFID sensors are being tested on select customer packages.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychaindive.com/news/fedex-ai-usage-rfid-robotics-network-2/816220/"><u>https://www.supplychaindive.com/news/fedex-ai-usage-rfid-robotics-network-2/816220/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

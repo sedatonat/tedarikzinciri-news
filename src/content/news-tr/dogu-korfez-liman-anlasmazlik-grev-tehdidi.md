@@ -32,4 +32,3 @@ tags:
   <li><p><strong>NRF'nin Tavrı:</strong> Tarafların anlaşmaya varmasının gerekliliği ve grevin ekonomik zararları.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10707-nrf-contract-talks-have-stalled-at-east-coast-and-gulf-coast-ports"><u>https://www.thescxchange.com/articles/10707-nrf-contract-talks-have-stalled-at-east-coast-and-gulf-coast-ports</u></a></p>

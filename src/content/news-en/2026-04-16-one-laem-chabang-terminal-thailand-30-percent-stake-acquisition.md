@@ -23,9 +23,6 @@ tags: ["ONE", "Ocean Network Express", "Laem Chabang", "Tayland", "HLT", "Hutchi
 3. The terminal portfolio includes the automated Terminal D plus C1, C2, and A3.<br>
 4. The investment will strengthen ONE's position in Southeast Asia.<br>
 5. The move reflects vertical integration trends among ocean carriers.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/one-acquires-30-per-cent-stake-in-laem-chabang-terminal/"><u>https://www.porttechnology.org/one-acquires-30-per-cent-stake-in-laem-chabang-terminal/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

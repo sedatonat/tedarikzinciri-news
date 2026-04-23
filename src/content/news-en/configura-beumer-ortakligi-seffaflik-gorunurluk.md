@@ -44,7 +44,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/configura_and_beumer_group_partner_on_digital_system_planning_and_visualization"><u>https://www.supplychain247.com/article/configura_and_beumer_group_partner_on_digital_system_planning_and_visualization</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Procure ERP" has been published on Google Play Books.</strong></p>

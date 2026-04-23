@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, although Venezuela&rsquo;s output has slumped after decades of underinvestment and isolation, U.S. President <strong>Donald Trump</strong> has said major oil companies will spend at least $100 billion to ramp up production. A shift to U.S. naphtha supply would expand the role of players such as <strong>Chevron</strong>, <strong>ExxonMobil</strong> and <strong>ConocoPhillips</strong>, with strategic integration around <strong>PDVSA</strong>&rsquo;s <strong>Orinoco Belt</strong> heavy crude fields, the <strong>Jose Terminal</strong> export infrastructure and <strong>Citgo</strong>&rsquo;s U.S. refinery network. <strong>OPEC+</strong> balances, <strong>Brent Crude</strong> spreads and <strong>WTI</strong> price action will all carry the weight of this geopolitical realignment through 2026.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43181-drifting-tanker-reveals-major-hurdle-for-trump-plan-to-revive-venezuelas-oil"><u>https://www.supplychainbrain.com/articles/43181-drifting-tanker-reveals-major-hurdle-for-trump-plan-to-revive-venezuelas-oil</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

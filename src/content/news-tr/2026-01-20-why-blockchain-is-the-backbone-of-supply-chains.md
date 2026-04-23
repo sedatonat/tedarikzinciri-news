@@ -28,9 +28,6 @@ tags:
 <p style="text-align: justify">Bu parçalanma; siloya alınmış BT mimarisinden kaynaklanan yapısal bir sorun oluyor. Her kuruluş kendi iç faaliyet defterini yönetiyor &mdash; hiçbiri uzlaştırma olmadan birbiriyle örtüşmemekte. Tedarik zincirleri istedikleri kadar yeni araç uygulayabiliyor; ancak sektör doğrulanabilir, kurcalanmaya dayanıklı veriyi operasyonların temeli olarak kabul etmediği sürece dijital bataklık üzerinde faaliyet göstermeye devam ediyor. Görünürlük platformları kendilerini tek doğruluk kaynağı olarak tanıtmakta &mdash; ancak bu platformlar bu vaadi gerçeğe dönüştürüyor zorlanıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında; <strong>blockchain</strong> tabanlı çözümler; <strong>IBM Food Trust</strong>, <strong>VeChain</strong>, <strong>TradeLens</strong> (kapatılmış) ve <strong>Maersk-IBM</strong> ortaklıkları üzerinden test ediliyor. <strong>Smart contract</strong>'lar; ödemelerin teslim onayına bağlı otomatik tetiklenmesini sağlıyor. <strong>Tokenization</strong>; ham madde, fatura ve gemi konşimentolarının dijital varlıklara dönüştürülmesini mümkün kılıyor. Sektörün önündeki temel mesele; konsorsiyum yönetişimi, veri standartları (GS1; EPCIS) ve enerji verimli konsensüs mekanizmalarının olgunlaşmasını sağlamak oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43162-why-blockchain-is-the-backbone-of-supply-chains"><u>https://www.supplychainbrain.com/articles/43162-why-blockchain-is-the-backbone-of-supply-chains</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

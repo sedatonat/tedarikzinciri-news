@@ -51,7 +51,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://container-news.com/car-carrier-moored-in-malacca-strait-after-fire-incident/"><u>https://container-news.com/car-carrier-moored-in-malacca-strait-after-fire-incident/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

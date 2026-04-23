@@ -33,4 +33,3 @@ tags:
   <li><p>Uluslararası Kuzey-Güney Taşımacılık Koridoru (INSTC) ve Orta Asya üzerinden Hindistan Okyanusu'na bağlanacak yeni bir demiryolu koridoru planları.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.railfreight.com/railfreight/2024/05/21/new-government-setup-is-supposed-to-enhance-russian-rail/"><u>https://www.railfreight.com/railfreight/2024/05/21/new-government-setup-is-supposed-to-enhance-russian-rail/</u></a></p>

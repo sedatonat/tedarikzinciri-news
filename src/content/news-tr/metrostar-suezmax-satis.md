@@ -52,7 +52,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://splash247.com/metrostar-sails-out-of-crude-trade-with-double-suezmax-sale/"><u>https://splash247.com/metrostar-sails-out-of-crude-trade-with-double-suezmax-sale/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

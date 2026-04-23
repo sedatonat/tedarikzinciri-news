@@ -47,7 +47,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Geri dönüş, güvenlik riskleri nedeniyle temkinli ve sınırlı düzeyde gerçekleşiyordir.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/one-returns-to-red-sea-under-slot-charter-deal-with-thailands-rcl-partners-6136866"><u>https://www.joc.com/article/one-returns-to-red-sea-under-slot-charter-deal-with-thailands-rcl-partners-6136866</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

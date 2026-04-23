@@ -37,7 +37,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/railfreight/2025/01/29/turkiye-and-iran-still-working-to-achieve-common-rail-freight-goals-for-2021/"><u>https://www.railfreight.com/railfreight/2025/01/29/turkiye-and-iran-still-working-to-achieve-common-rail-freight-goals-for-2021/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

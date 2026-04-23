@@ -23,9 +23,6 @@ tags: ["Pandora", "GXO Logistics", "Canada", "distribution center", "USMCA", "pi
 3. The site can process up to 12,500 orders per day.<br>
 4. Pick-to-light systems have been installed.<br>
 5. The investment timing aligns with the July 2026 USMCA review.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychaindive.com/news/pandora-canada-distribution-center-gxo-mississauga-ontario/817073/"><u>https://www.supplychaindive.com/news/pandora-canada-distribution-center-gxo-mississauga-ontario/817073/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

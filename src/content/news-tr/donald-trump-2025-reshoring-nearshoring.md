@@ -47,7 +47,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/donald-trump-2025-trade-agenda-procurement-reshoring-tactics"><u>https://www.supplychain247.com/article/donald-trump-2025-trade-agenda-procurement-reshoring-tactics</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

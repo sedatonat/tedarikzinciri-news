@@ -35,9 +35,6 @@ tags:
 3. Whistleblower koruma ve etik <strong>AI</strong> konsorsiyumu kuruluyor.<br>
 4. <strong>California</strong>; küresel ilk 50 <strong>AI</strong> şirketinden 32&rsquo;sine ev sahipliği yapıyor.<br>
 5. <strong>Silicon Valley</strong>; karşı 200M dolar süper <strong>PAC</strong> ile lobi yapıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42590-california-governor-signs-landmark-ai-safety-law"><u>https://www.supplychainbrain.com/articles/42590-california-governor-signs-landmark-ai-safety-law</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

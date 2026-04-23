@@ -36,4 +36,3 @@ tags:
   <li><p>Reshoring ve yakın yerelleştirme, çeşitlendirilmiş tedarik zincirleri oluşturma eğiliminde.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.scmr.com/article/a-reshoring-history-lesson"><u>https://www.scmr.com/article/a-reshoring-history-lesson</u></a></p>

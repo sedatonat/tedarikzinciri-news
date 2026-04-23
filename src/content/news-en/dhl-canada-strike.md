@@ -28,10 +28,6 @@ tags:
 3. Union talks are ongoing.<br>
 4. The strike is leading to delivery delays.<br>
 5. Supply flow is being affected in the short term.</p>
-<p><br>
----<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41927-dhl-express-canada-workers-on-strike-following-lockout"><u>https://www.supplychainbrain.com/articles/41927-dhl-express-canada-workers-on-strike-following-lockout</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What Is ERP?</p>

@@ -64,7 +64,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/trump-mexico-tariffs-water-treaty/807402/"><u>https://www.supplychaindive.com/news/trump-mexico-tariffs-water-treaty/807402/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -70,7 +70,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.railfreight.com/policy/2025/10/30/weights-and-dimensions-directive-endangers-intermodal-developments/"><u>https://www.railfreight.com/policy/2025/10/30/weights-and-dimensions-directive-endangers-intermodal-developments/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

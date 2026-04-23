@@ -28,9 +28,6 @@ tags:
 3. ABD hub'larına RFID sensörleri kurulacak; müşterilere etiket yazıcıları dağıtılacak.<br>
 4. Taşıyıcı, işlediği neredeyse tüm paketleri RFID ile izlenebilir yapmayı planlıyor.<br>
 5. Benzer bir genişlemeyi rakip FedEx de başlattı; RFID sektör standardı haline geliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychaindive.com/news/ups-rfid-sensor-hub-expansion-2026/817288/"><u>https://www.supplychaindive.com/news/ups-rfid-sensor-hub-expansion-2026/817288/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

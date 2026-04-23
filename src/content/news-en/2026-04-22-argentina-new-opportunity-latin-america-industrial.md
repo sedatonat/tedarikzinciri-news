@@ -27,9 +27,6 @@ tags: ['Arjantin', 'Latin Amerika', 'imalat', 'Diego Rodriguez', 'döviz kontrol
 3. The <strong>World Bank</strong> forecasts 5.5% <strong>GDP</strong> growth for <strong>Argentina</strong> in 2025.<br>
 4. First four months of 2025 imports reached 24 billion dollars, representing 36% year-over-year growth.<br>
 5. Mid-sized manufacturers across <strong>Latin America</strong> are facing bankruptcies under pressure from Chinese imports.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41960-argentina-a-new-opportunity-in-latin-americas-industrial-sector"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41960-argentina-a-new-opportunity-in-latin-americas-industrial-sector</u></a><br>
--------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book Is Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge via this link.</p>

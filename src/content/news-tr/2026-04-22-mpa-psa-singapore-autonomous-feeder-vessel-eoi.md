@@ -28,9 +28,6 @@ tags:
 3. Teknolojik olgunluk, operasyonel uygulanabilirlik ve güvenlik performansı senaryolar bazında değerlendirilecek.<br>
 4. Bir uzaktan operasyon merkezi planı, kıyıdan gemi yönetimini ve müdahaleyi mümkün kılacak.<br>
 5. EOI, Singapur'un denizcilikte dijital ve otomatik dönüşüm vizyonunun bir parçası.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/singapore-launches-autonomous-feeder-vessel-eoi/"><u>https://www.porttechnology.org/singapore-launches-autonomous-feeder-vessel-eoi/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

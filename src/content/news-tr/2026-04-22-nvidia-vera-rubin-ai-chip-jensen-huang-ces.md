@@ -35,9 +35,6 @@ tags:
 3. <strong>Mercedes-Benz</strong> otonom araç ortaklığı; ek duyuru oluyor.<br>
 4. <strong>Microsoft</strong> ile <strong>Amazon</strong>; <strong>Rubin</strong> alıcıları olarak öne çıkıyor.<br>
 5. <strong>Trump</strong>; <strong>H200</strong> Çin satışını %25 gelir payı karşılığında izin veriyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43090-nvidia-will-offer-new-ai-chip-this-year-says-ceo"><u>https://www.supplychainbrain.com/articles/43090-nvidia-will-offer-new-ai-chip-this-year-says-ceo</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

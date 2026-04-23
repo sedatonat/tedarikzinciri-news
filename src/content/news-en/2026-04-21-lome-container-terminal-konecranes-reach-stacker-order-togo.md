@@ -21,9 +21,6 @@ tags: ["Lomé Container Terminal", "LCT", "Konecranes", "reach stacker", "Togo",
 3. The new equipment will be delivered with support from Paterson Simons.<br>
 4. The reach stackers come fitted with the TRUCONNECT telematics system for remote monitoring.<br>
 5. LCT continues a partnership with Konecranes that began when the terminal opened in 2014.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/lct-expands-cargo-handling-fleet-with-konecranes-order/"><u>https://www.porttechnology.org/lct-expands-cargo-handling-fleet-with-konecranes-order/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

@@ -70,7 +70,6 @@ This speed creates a ripple effect across all phases of the supply chain, shorte
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychain247.com/article/c.h_robinson_launches_agentic_supply_chain_ushering_in_a_new_era_of_ai_driven_logistics_intelligence"><u>https://www.supplychain247.com/article/c.h_robinson_launches_agentic_supply_chain_ushering_in_a_new_era_of_ai_driven_logistics_intelligence</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

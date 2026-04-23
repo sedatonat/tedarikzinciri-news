@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında; tarife maliyetine ve net zarara rağmen şirket; analist beklentilerini aşan 2025 dördüncü çeyrek geliri raporluyor. <strong>Ford</strong>; <strong>Stellantis</strong>, <strong>GM</strong>, <strong>Toyota</strong>, <strong>Honda</strong>, <strong>Hyundai</strong>, <strong>Volkswagen</strong> ile birlikte ABD pazarındaki ana oyuncular arasında oluyor &mdash; ancak <strong>Section 232</strong>; <strong>USMCA</strong>; <strong>IRA</strong> (Inflation Reduction Act) ve <strong>BBB</strong> kredi düzenlemeleri arasındaki gerilim; tedarik zinciri planlamasını sürekli yeniden yapılandırmaya zorluyor. <strong>Magna</strong>, <strong>BorgWarner</strong>, <strong>Lear</strong>, <strong>Aptiv</strong> gibi <em>Tier-1</em> tedarikçiler; <em>nearshoring</em> stratejilerini Meksika; ABD ve Kanada arasında dengelemeye çalışıyor. <strong>Battery Belt</strong> yatırımları; lityum, nikel, kobalt tedarik anlaşmaları, <strong>BYD</strong>, <strong>CATL</strong>, <strong>LG Energy Solution</strong>, <strong>SK On</strong> ortaklıkları &mdash; 2026 boyunca otomotiv tedarik zinciri stratejisinin merkezinde kalıyordır.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43458-ford-says-delay-in-tariff-relief-cost-it-an-extra-900m"><u>https://www.supplychainbrain.com/articles/43458-ford-says-delay-in-tariff-relief-cost-it-an-extra-900m</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

@@ -51,7 +51,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/donald-trump-president-election-reactions-2024-supply-chain/732156/"><u>https://www.supplychaindive.com/news/donald-trump-president-election-reactions-2024-supply-chain/732156/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

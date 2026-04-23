@@ -36,9 +36,6 @@ tags:
 3. &ldquo;<strong>Orchestrate</strong>&rdquo; kavramı; tüm kaynak ve teknolojilerin koordinasyonu için anahtar oluyor.<br>
 4. Gerçek zamanlı veri; insan karar gücünün ötesine geçiyor; <strong>AI</strong> ve <strong>agentic AI</strong> kritik rol oynuyor.<br>
 5. <strong>AI</strong>; günlük hedefleri optimal maliyetle gerçekleştiriyor olunmasına olanak sağlıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43893-watch-optimizing-wms-orchestration-with-agentic-ai"><u>https://www.supplychainbrain.com/articles/43893-watch-optimizing-wms-orchestration-with-agentic-ai</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

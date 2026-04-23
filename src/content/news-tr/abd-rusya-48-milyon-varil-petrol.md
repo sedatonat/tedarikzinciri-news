@@ -75,7 +75,6 @@ gibi etkilerin belirginleşmesi bekleniyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/russian-oil-risks-being-stuck-at-sea-amid-us-sanctions/"><u>https://gcaptain.com/russian-oil-risks-being-stuck-at-sea-amid-us-sanctions/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

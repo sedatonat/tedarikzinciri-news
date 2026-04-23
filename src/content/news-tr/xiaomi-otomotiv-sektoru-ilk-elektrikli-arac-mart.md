@@ -35,4 +35,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/39254-chinas-xiaomi-to-start-electric-car-sales"><u>https://www.supplychainbrain.com/articles/39254-chinas-xiaomi-to-start-electric-car-sales</u></a></p>

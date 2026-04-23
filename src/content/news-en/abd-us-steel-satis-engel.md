@@ -45,7 +45,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/40925-biden-blocks-sale-of-us-steel-to-nippon"><u>https://www.supplychainbrain.com/articles/40925-biden-blocks-sale-of-us-steel-to-nippon</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Acquire ERP?" has been published on Google Play Books.</strong></p>

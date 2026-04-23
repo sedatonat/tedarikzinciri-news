@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Taşıyıcılar için önümüzdeki 18 ay; oran sıkışması ve aşırı kapasite riskiyle tanımlanıyor. Sarkaç; pandemi zirvesinden kesin biçimde uzaklaşıyor; zayıf ticaret, düz talep ve geniş yeni inşa taahhütleri sıkı marjlar yaratıyor. Tedarik zinciri perspektifinden bakıldığında <strong>Maersk</strong>, <strong>MSC</strong>, <strong>CMA CGM</strong>, <strong>Hapag-Lloyd</strong> ve <strong>ZIM</strong> ile sözleşme müzakerelerinde yükleyiciler; <strong>NAC (Named Account Contracts)</strong> hacim taahhütlerini esnek tutuyor; <strong>MQC (Minimum Quantity Commitment)</strong> seviyelerini düşürüyor ve <strong>BAF</strong>, <strong>EBAF</strong> ile <strong>PSS</strong> sürşarjlarını sözleşme tabanına bağlıyor avantajlı oluyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43305-how-logistics-pros-should-prepare-to-build-ocean-stability"><u>https://www.supplychainbrain.com/articles/43305-how-logistics-pros-should-prepare-to-build-ocean-stability</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

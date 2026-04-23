@@ -32,4 +32,3 @@ tags:
   <li><p>Asyaport, sürekli yatırımlarla operasyonel verimliliği ve müşteri memnuniyetini artırmayı hedefliyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.lojiport.com/asyaport-aylik-elleclemede-turkiye-rekorunu-kirdi-116354h.htm"><u>https://www.lojiport.com/asyaport-aylik-elleclemede-turkiye-rekorunu-kirdi-116354h.htm</u></a></p>

@@ -27,4 +27,3 @@ tags:
 <p><br></p>
 <p>Accenture 'dan <a href="https://www.linkedin.com/in/sunitasury/"><u>Sunita Suryanarayan</u></a>, şirketlerin karmaşık küresel üretim ve tedarik ağlarını kısa vadeli çözümlerle hızla düzelttiklerini, ancak şimdi bu ağları çok kaynaklı, veri ve yapay zeka ile daha şeffaf ve çevik hale getirerek stratejik olarak yeniden tasarlamaları gerektiğini belirtiyor.</p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainquarterly.com/articles/9278-accenture-companies-are-shifting-from-global-to-regional-sourcing-and-production"><u>https://www.supplychainquarterly.com/articles/9278-accenture-companies-are-shifting-from-global-to-regional-sourcing-and-production</u></a></p>

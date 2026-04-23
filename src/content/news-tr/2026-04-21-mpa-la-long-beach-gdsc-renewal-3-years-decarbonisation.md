@@ -33,9 +33,6 @@ tags:
 3. Alternatif yakıtlar, dijitalleşme ve enerji verimliliği konularında özel iş akışları oluşturuldu.<br>
 4. 2024'te tamamlanan referans çalışmasının ardından endüstri paydaşlarıyla pilot uygulamalar başlatıldı.<br>
 5. C40 Şehirleri desteğindeki ortaklık IMO'nun 2050 sıfır emisyon hedefine paralel çalışıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/mpa-la-long-beach-advance-gdsc-implementation/"><u>https://www.porttechnology.org/mpa-la-long-beach-advance-gdsc-implementation/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

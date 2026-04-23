@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında nükleer konteyner gemilerinin ticari ölçeklenmesi; <strong>IMO</strong>'nun <strong>SOLAS</strong> ve <strong>STCW</strong> çerçevelerinde köklü güncellemeler gerektiriyor; ayrıca <strong>P&I Club</strong> sigortalarında «nükleer hariç tutma» («nuclear exclusion») hükümlerinin yeniden ele alınıyor olunması zorunluluk hâline geliyor. <strong>Maersk</strong>, <strong>CMA CGM</strong> ve <strong>NYK Line</strong>'ın metanol ve amonyak yatırımlarına paralel olarak nükleer; orta vadede tamamlayıcı bir karbonsuzlaştırma rotası olabiliyor; ancak 2030'lardan önce ticari yaygınlık beklenmemekte. <strong>BCO</strong>'lar için bu; alternatif yakıt sürşarjı planlamasında yeni bir senaryo katmanı oluşturuyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43459-a-realistic-look-at-the-future-of-nuclear-container-ships"><u>https://www.supplychainbrain.com/articles/43459-a-realistic-look-at-the-future-of-nuclear-container-ships</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

@@ -34,10 +34,6 @@ tags:
 - Blockchain kayıtları güvenilir şeffaflık sunuyordır.<br>
 - Smart locker sistemleri fiziksel güvenliği artırıyordır.<br>
 - Güven‑şeffaflık dengesi müşteri deneyimini belirliyordir.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42364-how-technology-bridges-the-trust-gap-in-last-mile-deliveries"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42364-how-technology-bridges-the-trust-gap-in-last-mile-deliveries</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

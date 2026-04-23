@@ -44,7 +44,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/trimble-transporeon-visibility-real-time-freight-tracking-with-seamless-tms-integration"><u>https://www.supplychain247.com/article/trimble-transporeon-visibility-real-time-freight-tracking-with-seamless-tms-integration</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Get ERP?" has been published on Google Play Books.</strong></p>

@@ -31,4 +31,3 @@ tags:
   <li><p>Bu girişim, maliyetleri düşürmeyi ve karbon ayak izini azaltmayı amaçlıyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10594-cma-cgm-launches-plan-to-improve-logistics-with-google-ai"><u>https://www.thescxchange.com/articles/10594-cma-cgm-launches-plan-to-improve-logistics-with-google-ai</u></a></p>

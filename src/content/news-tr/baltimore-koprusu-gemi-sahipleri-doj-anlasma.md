@@ -41,7 +41,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/doj-settlement-dali-key-bridge/731071/"><u>https://www.supplychaindive.com/news/doj-settlement-dali-key-bridge/731071/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

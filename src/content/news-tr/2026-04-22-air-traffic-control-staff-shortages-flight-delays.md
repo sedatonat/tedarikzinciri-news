@@ -35,9 +35,6 @@ tags:
 3. <strong>NATCA</strong>; koordineli faaliyetleri onaylamadığını açıklıyor.<br>
 4. <strong>Burbank</strong> havalimanı kapanıyor; <strong>Nashville</strong> 2 saat gecikme yaşıyor.<br>
 5. <strong>U.S.</strong> hükümet kapanması; 7. gününde oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42630-air-traffic-control-staff-shortages-cause-flight-delays"><u>https://www.supplychainbrain.com/articles/42630-air-traffic-control-staff-shortages-cause-flight-delays</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, this tightening enforcement environment makes supplier transparency beyond <em>tier 1</em>, origin verification and <strong>HTS</strong> classification discipline strategic imperatives rather than back-office tasks. Importers will need to reassess <em>first sale</em> valuation practices, <em>transshipment</em> risk maps and use of foreign trade zones. Failing to do so risks retroactive tariff payments, treble damages and reputational harm that can land hard on the balance sheet.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/43066-cracking-down-on-tariff-evasion-and-customs-fraud"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/43066-cracking-down-on-tariff-evasion-and-customs-fraud</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

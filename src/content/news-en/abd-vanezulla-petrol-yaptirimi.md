@@ -67,7 +67,6 @@ According to Leon, such moves have a deterrent effect not only on Venezuela but 
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/42976-us-seizes-sanctioned-oil-tanker-off-the-coast-of-venezuela"><u>https://www.supplychainbrain.com/articles/42976-us-seizes-sanctioned-oil-tanker-off-the-coast-of-venezuela</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

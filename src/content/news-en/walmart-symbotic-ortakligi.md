@@ -47,7 +47,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/walmart-sells-robotics-business-supply-chain-automation-symbotic/737763/"><u>https://www.supplychaindive.com/news/walmart-sells-robotics-business-supply-chain-automation-symbotic/737763/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>

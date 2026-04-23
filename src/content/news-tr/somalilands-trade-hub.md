@@ -46,7 +46,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://container-news.com/somalilands-potential-to-emerge-as-new-trade-hub-in-red-sea/"><u>https://container-news.com/somalilands-potential-to-emerge-as-new-trade-hub-in-red-sea/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

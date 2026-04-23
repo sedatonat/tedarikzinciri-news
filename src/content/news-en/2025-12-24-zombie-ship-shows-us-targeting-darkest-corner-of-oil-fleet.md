@@ -29,9 +29,6 @@ tags:
 <p style="text-align: justify">"Venezuela has been remarkably effective at masking both origin and ownership of crude and therefore at evading financial and trade-related controls," said <strong>Dimitris Ampatzidis</strong>, senior risk and compliance analyst at <strong>Kpler</strong>. "That's why Washington has increasingly moved from purely financial measures to physical disruption." From a supply chain perspective, U.S. forces have struck alleged drug-smuggling boats in the Caribbean, and since early December have chased or boarded three tankers connected with sanctioned trade.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, these zombie vessel cases pose serious traceability and insurability problems for the global maritime sector. Manipulation of <strong>AIS</strong> (<strong>Automatic Identification System</strong>) data, duplication of IMO numbers and fraudulent flag registrations are radically reshaping the risk profile for marine insurers and charterers alike. Major crude buyers required to comply with sanctions are being forced to adopt much tighter origin verification and vessel history due diligence procedures.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43047-zombie-ship-shows-us-targeting-darkest-corner-of-oil-fleet"><u>https://www.supplychainbrain.com/articles/43047-zombie-ship-shows-us-targeting-darkest-corner-of-oil-fleet</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

@@ -28,9 +28,6 @@ tags: ['UniUni', 'Joshua Haun', 'McKinsey', 'son mil', 'e-ticaret', 'güvenilirl
 3. <strong>Joshua Haun</strong> speaks as <strong>UniUni</strong> <strong>VP Business Development</strong>.<br>
 4. Rate transparency is critical for thin-margin <strong>e-commerce</strong>.<br>
 5. Missed <strong>SLA</strong>s disrupt forecasting/cost/brand reliability.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43604-last-mile-e-commerce-delivery-has-changed-what-to-look-for-in-a-carrier-now"><u>https://www.supplychainbrain.com/articles/43604-last-mile-e-commerce-delivery-has-changed-what-to-look-for-in-a-carrier-now</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Purchase ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free through this link.</p>

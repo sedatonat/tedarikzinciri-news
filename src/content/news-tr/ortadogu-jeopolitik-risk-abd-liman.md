@@ -28,7 +28,6 @@ tags:
   <li><p>ABD’de liman grevleri ticaretin aksamasına yol açabilir.</p></li>
 </ul>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.lojiport.com/ortadoguda-kan-kaybediyoruz-abd-limanlarinda-sikinti-kapida-117095h.htm"><u>https://www.lojiport.com/ortadoguda-kan-kaybediyoruz-abd-limanlarinda-sikinti-kapida-117095h.htm</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

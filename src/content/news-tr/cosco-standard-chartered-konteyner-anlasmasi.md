@@ -33,4 +33,3 @@ tags:
   <li><p>Proje, konteyner endüstrisinin yeşil ve düşük karbonlu dönüşüm yollarını belirlemeyi amaçlıyordır.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/cosco-shipping-to-develop-container-industry-chain/"><u>https://www.porttechnology.org/news/cosco-shipping-to-develop-container-industry-chain/</u></a></p>

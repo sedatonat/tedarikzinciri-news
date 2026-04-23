@@ -30,10 +30,6 @@ tags:
 3. Risks are both financial and reputational.<br>
 4. OTA updates provide transparency.<br>
 5. Independent testing standards are strengthening.</p>
-<p><br>
----<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42651-carmakers-face-uk-trial-a-decade-after-dieselgate-scandal"><u>https://www.supplychainbrain.com/articles/42651-carmakers-face-uk-trial-a-decade-after-dieselgate-scandal</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What Is ERP?</p>

@@ -28,4 +28,3 @@ tags:
   <li><p>Potansiyel başka alıcılarla görüşülmüş ancak ADP ile ilerlenmiş.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.lojiport.com/izmir-limaninin-bae-sirketine-satisi-yakin-116915h.htm"><u>https://www.lojiport.com/izmir-limaninin-bae-sirketine-satisi-yakin-116915h.htm</u></a></p>

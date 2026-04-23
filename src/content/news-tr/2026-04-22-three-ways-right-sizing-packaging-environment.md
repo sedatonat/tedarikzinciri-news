@@ -35,9 +35,6 @@ tags:
 3. Ortalama kişi yıllık 64 paket alıyor &mdash; %90&rsquo;ı oluklu mukavvada oluyor.<br>
 4. <strong>U.S.</strong>&rsquo;de oluklu mukavvanın %56&rsquo;sı hâlâ çöp depolama alanına gidiyor.<br>
 5. <strong>UPS</strong>; <strong>FedEx</strong>; <strong>USPS</strong>; <strong>DIM weight</strong> fiyatlamayla doğru boyutu zorunlu kılıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41670-three-ways-that-right-sizing-packaging-benefits-the-environment"><u>https://www.supplychainbrain.com/articles/41670-three-ways-that-right-sizing-packaging-benefits-the-environment</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

@@ -42,7 +42,6 @@ tags:
   <li><p>The emissions surcharge will enable customers to contribute to decarbonization costs.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/msc-responds-to-fueleu-maritime-with-new-emissions-surcharge/"><u>https://www.porttechnology.org/news/msc-responds-to-fueleu-maritime-with-new-emissions-surcharge/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

@@ -37,4 +37,3 @@ tags:
   <li><p>DGT, Dijital İkiz ve gerçek AGV'lerin entegrasyonuyla doğrulama sürecini iyileştirdi.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/busan-new-port-unveils-first-fully-automated-container-terminal-in-korea/"><u>https://www.porttechnology.org/news/busan-new-port-unveils-first-fully-automated-container-terminal-in-korea/</u></a></p>

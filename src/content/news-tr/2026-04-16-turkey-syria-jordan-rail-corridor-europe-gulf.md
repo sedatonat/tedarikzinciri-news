@@ -36,9 +36,6 @@ tags:
 3. <strong>Saudi Arabia</strong> demiryolu sistemine bağlantı planlanıyor.<br>
 4. Projenin finansmanı henüz netleşmekte değil; görüşmeler sürüyor.<br>
 5. <strong>Türkiye</strong>&rsquo;ye yöneliyor olan karayolu iyileştirmeleri de plana dahil oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43870-turkey-to-improve-transport-network-as-it-eyes-europe-gulf-route"><u>https://www.supplychainbrain.com/articles/43870-turkey-to-improve-transport-network-as-it-eyes-europe-gulf-route</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

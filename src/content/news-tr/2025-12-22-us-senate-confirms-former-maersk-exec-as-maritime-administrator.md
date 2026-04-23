@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu atama, Trump yönetiminin «Made in America» eksenli denizcilik politikasının somut bir göstergesi oldu. Yurt içi gemi inşa kapasitesinin yeniden ayağa kaldırılabilmesi, Çin tersanelerine olan bağımlılığın azaltılabilmesi açısından stratejik önem taşıdı; ancak bu hedefin gerçekleştirilebilmesi on yıllar sürecek yatırım ve iş gücü yetiştirme programlarını gerektirdi. Konteyner taşıyıcıları, tanker operatörleri ve liman işletmecileri, önümüzdeki dönemde MARAD kaynaklı yeni teşvik programları ile düzenleyici çerçeveye hazırlık yapmak durumunda kaldı.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43032-us-senate-confirms-former-maersk-exec-as-maritime-administrator"><u>https://www.supplychainbrain.com/articles/43032-us-senate-confirms-former-maersk-exec-as-maritime-administrator</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

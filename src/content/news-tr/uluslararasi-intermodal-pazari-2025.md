@@ -43,7 +43,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/international-intermodal-market-enters-constrained-2025-analyst-5912000"><u>https://www.joc.com/article/international-intermodal-market-enters-constrained-2025-analyst-5912000</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

@@ -40,4 +40,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10414-korber-hires-blue-yonder-exec-to-lead-supply-chain-software-business"><u>https://www.thescxchange.com/articles/10414-korber-hires-blue-yonder-exec-to-lead-supply-chain-software-business</u></a></p>

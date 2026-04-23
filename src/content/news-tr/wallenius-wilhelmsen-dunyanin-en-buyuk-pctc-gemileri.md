@@ -45,7 +45,6 @@ tags:
   <li><p>Şirket, mevcut kara tabanlı lojistik ağını kullanarak entegre bir taşıma hizmeti sunacak.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/wallenius-wilhelmsen-to-build-worlds-largest-pctc-ships/"><u>https://www.porttechnology.org/news/wallenius-wilhelmsen-to-build-worlds-largest-pctc-ships/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

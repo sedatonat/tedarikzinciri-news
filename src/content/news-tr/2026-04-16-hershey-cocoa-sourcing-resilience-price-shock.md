@@ -34,9 +34,6 @@ tags:
 3. Income Accelerator Program; çiftçi gelirini ve verimliliği artırarak uzun vadeli arz güvenliği sağlıyor.<br>
 4. Ar-Ge; hastalık ve kuraklığa dayanıklı kakao ağacı geliştirmeye odaklı.<br>
 5. Pennsylvania'daki ilk tam dijital entegre tesis; 1 milyar ABD doları Kuzey Amerika yatırımının parçası.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychaindive.com/news/hershey-cocoa-sourcing-resilience-price-shock/817044/"><u>https://www.supplychaindive.com/news/hershey-cocoa-sourcing-resilience-price-shock/817044/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -41,7 +41,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.yenisafak.com/dunya/kizildenizde-gerilim-tirmaniyor-husiler-tutor-adli-gemiyi-batirdi-4628344"><u>https://www.yenisafak.com/dunya/kizildenizde-gerilim-tirmaniyor-husiler-tutor-adli-gemiyi-batirdi-4628344</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

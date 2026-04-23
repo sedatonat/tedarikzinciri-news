@@ -42,4 +42,3 @@ tags:
   <li><p>Supply chain leaders should focus their strategies on three categories: de-prioritizing long-term constraints, re-prioritizing long-term constraints to design solutions, and using the market to learn and innovate.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10401-gartner-names-three-steps-to-mitigate-long-term-resource-constraints"><u>https://www.thescxchange.com/articles/10401-gartner-names-three-steps-to-mitigate-long-term-resource-constraints</u></a></p>

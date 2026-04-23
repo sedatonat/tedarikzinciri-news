@@ -48,7 +48,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">ABB Onboard DC Grid™, hibrit güç sistemlerinde entegrasyon ve esneklik sağlıyordır.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/abb-and-hdf-energy-to-develop-high-power-fuel-cell-unit-for-large-seagoing-ships/"><u>https://gcaptain.com/abb-and-hdf-energy-to-develop-high-power-fuel-cell-unit-for-large-seagoing-ships/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

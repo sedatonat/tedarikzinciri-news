@@ -42,7 +42,6 @@ tags:
   <li><p>Petrol ve gaz, rüzgar enerjisi ve derin deniz mineralleri gibi sektörlere hizmet verebiliyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/ad-ports-launches-unmanned-vessel-for-offshore-operations/"><u>https://www.porttechnology.org/news/ad-ports-launches-unmanned-vessel-for-offshore-operations/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

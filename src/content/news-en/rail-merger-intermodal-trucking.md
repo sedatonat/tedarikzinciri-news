@@ -68,7 +68,6 @@ For this reason, many shippers prefer trucking when prices equalize because it i
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/union-pacific-norfolk-southern-merger-impact-otr-long-haul/807171/"><u>https://www.supplychaindive.com/news/union-pacific-norfolk-southern-merger-impact-otr-long-haul/807171/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

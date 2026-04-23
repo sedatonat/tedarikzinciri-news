@@ -35,9 +35,6 @@ tags:
 3. <strong>Jerome Powell</strong>; &ldquo;üreticiler kalabalığı izledi ve fiyatları yükseltti&rdquo; diyor.<br>
 4. <strong>FTC Chair Andrew Ferguson</strong>; &ldquo;tarifeler fiyat sabitleme için yeşil ışık değil&rdquo; uyarıyor.<br>
 5. <strong>Sony PS5</strong>; <strong>U.K.</strong>/<strong>EU</strong>/<strong>Avustralya</strong>&rsquo;da fiyat artırıyor &mdash; ana erken örnek oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41590-tariffs-could-open-door-for-companies-to-pad-profits"><u>https://www.supplychainbrain.com/articles/41590-tariffs-could-open-door-for-companies-to-pad-profits</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

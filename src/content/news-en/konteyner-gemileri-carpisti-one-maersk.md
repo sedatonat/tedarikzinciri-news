@@ -40,7 +40,6 @@ tags:
 <p><a href="https://www.youtube.com/watch?v=JuBK_1aiLDc"><u>https://www.youtube.com/watch?v=JuBK_1aiLDc</u></a></p>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://container-news.com/one-vessel-scrapes-maersk-boxship-in-hong-kong/"><u>https://container-news.com/one-vessel-scrapes-maersk-boxship-in-hong-kong/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Acquire ERP?" has been published on Google Play Books.</strong></p>

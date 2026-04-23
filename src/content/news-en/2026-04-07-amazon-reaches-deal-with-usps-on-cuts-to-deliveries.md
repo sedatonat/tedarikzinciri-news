@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, this 20% volume cut is being absorbed by Amazon's own <strong>Amazon Logistics</strong> (AMZL) network and shifted to <strong>UPS</strong>, <strong>FedEx Ground</strong> and regional couriers. <strong>USPS</strong>'s <strong>last-mile parcel</strong> share, especially in less-dense rural ZIP codes, is opening the door for gig-based networks such as <strong>OneRail</strong>, <strong>Bringg</strong> and <strong>Roadie</strong>. From a supply chain perspective, USPS's pressure to diversify its revenue base will, over the long term, push it toward <strong>SOA (Service-Oriented Agreements)</strong>-based enterprise contracts.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43801-amazon-reaches-deal-with-usps-on-cuts-to-deliveries"><u>https://www.supplychainbrain.com/articles/43801-amazon-reaches-deal-with-usps-on-cuts-to-deliveries</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

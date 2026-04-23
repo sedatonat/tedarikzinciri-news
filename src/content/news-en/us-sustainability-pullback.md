@@ -27,10 +27,6 @@ tags:
 3. EV fleets and fuel programs are slowing.<br>
 4. ESG compliance maintains agenda momentum.<br>
 5. Regulations will accelerate sustainability again.</p>
-<p><br>
----<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42619-survey-us-logistics-firms-pull-back-on-sustainability"><u>https://www.supplychainbrain.com/articles/42619-survey-us-logistics-firms-pull-back-on-sustainability</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

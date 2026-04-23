@@ -29,10 +29,6 @@ tags:
 3. Predictive delivery müşteri deneyimini güçlendirir.<br>
 4. Crowdsourced delivery esnekliği artırır.<br>
 5. Son kilometre rekabet avantajı sağlar.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42059-turning-missed-into-delivered-the-final-mile-reinvented"><u>https://www.supplychainbrain.com/articles/42059-turning-missed-into-delivered-the-final-mile-reinvented</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

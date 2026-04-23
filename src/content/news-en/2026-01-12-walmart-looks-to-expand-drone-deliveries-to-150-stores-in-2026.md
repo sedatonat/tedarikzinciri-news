@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Scaling drone delivery to as many as 270 locations also implies faster integration of <strong>FAA</strong>-regulated <strong>Beyond Visual Line of Sight (BVLOS)</strong> permissions into operational infrastructure. From a supply chain perspective, the parallel scale ambitions of competitors such as <strong>Amazon Prime Air</strong> and <strong>Zipline</strong> increasingly call into question the long-term economic superiority of conventional courier-based last-mile models. <strong>UPS</strong>, <strong>FedEx</strong> and <strong>USPS</strong> will need to keep drone partnerships firmly on their roadmaps in order to defend their B2C last-mile share.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43185-walmart-looks-to-expand-drone-deliveries-to-150-stores-in-2026"><u>https://www.supplychainbrain.com/articles/43185-walmart-looks-to-expand-drone-deliveries-to-150-stores-in-2026</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

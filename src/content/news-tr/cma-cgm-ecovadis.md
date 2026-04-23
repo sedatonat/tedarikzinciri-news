@@ -76,7 +76,6 @@ Bu başarı, şirketin <strong>şeffaflık, etik yönetim ve uzun vadeli çevres
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/cma-cgm-earns-top-3-per-cent-ecovadis-sustainability-rating/"><u>https://www.porttechnology.org/news/cma-cgm-earns-top-3-per-cent-ecovadis-sustainability-rating/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

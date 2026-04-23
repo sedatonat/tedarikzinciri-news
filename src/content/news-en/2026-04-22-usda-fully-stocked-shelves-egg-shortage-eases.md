@@ -27,9 +27,6 @@ tags: ['USDA', 'yumurta', 'kuş gribi', 'HPAI', 'gıda tedarik zinciri', 'perake
 3. <strong>HPAI H5N1</strong> has resulted in 168+ million poultry culled in the U.S. during 2022–2025.<br>
 4. <strong>Cal-Maine Foods</strong> is the U.S. market leader (20% of production).<br>
 5. The <strong>USDA</strong> is closing the supply gap through imports from <strong>Turkey</strong>; <strong>Brazil</strong>; <strong>South Korea</strong>.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41460-usda-reports-fully-stocked-shelves-as-egg-shortage-eases"><u>https://www.supplychainbrain.com/articles/41460-usda-reports-fully-stocked-shelves-as-egg-shortage-eases</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge via this link.</p>

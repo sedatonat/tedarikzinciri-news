@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu sıkılaşan icra ortamı; <em>tier 1</em>'in ötesinde tedarikçi şeffaflığı, menşe doğrulaması ve <strong>HTS</strong> sınıflandırma disiplinini stratejik bir zorunluluk haline getiriyor. İthalatçıların; <em>first sale</em> değerleme uygulamalarını, <em>transshipment</em> risk haritalarını ve serbest ticaret bölgesi kullanımını yeniden değerlendirmeleri kritik önem taşıyor. Aksi halde; geriye dönük tarife ödemeleri, üçlü zarar tazminatı ve itibar riski; bilanço üzerinde ağır maliyet yaratabiliyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/43066-cracking-down-on-tariff-evasion-and-customs-fraud"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/43066-cracking-down-on-tariff-evasion-and-customs-fraud</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

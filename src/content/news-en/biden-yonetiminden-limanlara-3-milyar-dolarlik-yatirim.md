@@ -43,7 +43,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.scdigest.com/ontarget/24-10-30_biden_port_funding.php?cid=21636"><u>https://www.scdigest.com/ontarget/24-10-30_biden_port_funding.php?cid=21636</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

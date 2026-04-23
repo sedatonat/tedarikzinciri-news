@@ -36,9 +36,6 @@ tags:
 3. <strong>Panama Canal</strong>; küresel denizcilik hacminin yaklaşık %5&rsquo;ini taşıyor.<br>
 4. <strong>NZF</strong>; 2030-%20, 2040-%70, 2050 net-sıfır hedefliyor idi.<br>
 5. Oylama, Ekim 2025&rsquo;te 2026 sonuna ertelenmekte.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43548-panama-back-cancellation-of-imo-shipping-carbon-levy"><u>https://www.supplychainbrain.com/articles/43548-panama-back-cancellation-of-imo-shipping-carbon-levy</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -51,4 +51,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/39522-the-trends-that-are-driving-a-surge-in-manufacturing-m-and-a-deals"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/39522-the-trends-that-are-driving-a-surge-in-manufacturing-m-and-a-deals</u></a></p>

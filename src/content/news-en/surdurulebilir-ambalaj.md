@@ -41,7 +41,6 @@ tags:
   <li><p>Data integration strengthens compliance and speed.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41694-staying-compliant-and-competitive-through-sustainable-packaging" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/41694-staying-compliant-and-competitive-through-sustainable-packaging</u></a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP?</strong> Our book has been published on Google Play Books.</p>

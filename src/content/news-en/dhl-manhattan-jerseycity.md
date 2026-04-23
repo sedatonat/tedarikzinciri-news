@@ -73,7 +73,6 @@ and more.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychain247.com/article/dhl-expands-nyc-network-with-new-jersey-city-facility"><u>https://www.supplychain247.com/article/dhl-expands-nyc-network-with-new-jersey-city-facility</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -29,9 +29,6 @@ tags:
 3. Sektör; bu durumu Panama'nın CK Hutchison terminal imtiyazlarını iptal kararına koordineli yanıt olarak yorumluyor.<br>
 4. Beş günlük toplam; 2025'in aylık Panama bayraklı alıkonma rakamlarını aşıyor.<br>
 5. Kriz; navlun tarifelerini, rotaları ve Panama bayrak devleti gelirlerini etkileyebilir.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/panama-flagged-vessels-face-surge-in-chinese-port-inspections/"><u>https://www.porttechnology.org/panama-flagged-vessels-face-surge-in-chinese-port-inspections/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

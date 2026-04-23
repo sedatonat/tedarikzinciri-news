@@ -35,9 +35,6 @@ tags:
 3. <strong>Laptop farm</strong> modeli, <strong>ABD</strong>&rsquo;deki cihazları yurt dışından uzaktan kullanıyor.<br>
 4. <strong>DOJ</strong>, Haziran 2025&rsquo;te 29 yasadışı <strong>laptop farm</strong> tespit ediyor.<br>
 5. Elde ediliyor olan ücretler, rejimin silah programlarına aktarılıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43037-amazon-blocks-job-applications-from-suspected-n-korean-agents"><u>https://www.supplychainbrain.com/articles/43037-amazon-blocks-job-applications-from-suspected-n-korean-agents</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

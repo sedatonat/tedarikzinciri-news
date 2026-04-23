@@ -32,9 +32,6 @@ tags:
 3. Elektrikli RMG vinçleriyle desteklenen dock üstü demiryolu sahası genişletildi.<br>
 4. Terminal operatörü için yeni 30 yıllık yetkilendirme öngörüldü; 2014 kapsamı sadeleştirildi.<br>
 5. USACE; Limana HMTF kapsamında ayrıca yaklaşık 70 milyon dolar bakım fonu tahsis etti.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/port-of-los-angeles-moves-forward-west-basin-upgrade/"><u>https://www.porttechnology.org/port-of-los-angeles-moves-forward-west-basin-upgrade/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

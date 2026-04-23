@@ -71,7 +71,6 @@ As <strong>Level 5 autonomous vehicle testing</strong> accelerates worldwide, co
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://seanews.ru/en/2025/10/24/en-road-map-for-unmanned-road-transport-approved/"><u>https://seanews.ru/en/2025/10/24/en-road-map-for-unmanned-road-transport-approved/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

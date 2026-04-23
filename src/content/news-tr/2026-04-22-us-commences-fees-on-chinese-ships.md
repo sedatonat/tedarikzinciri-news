@@ -35,9 +35,6 @@ tags:
 3. <strong>Chinese</strong> liman ücreti; net ton başına 400 yuan (56 dolar) oluyor.<br>
 4. <strong>U.S.</strong>; küresel gemi inşa pazarının &lt;%1&rsquo;ini elinde tutuyor.<br>
 5. <strong>USTR Section 301</strong>; ücretin yasal dayanağı oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42660-us-commences-fees-on-chinese-ships"><u>https://www.supplychainbrain.com/articles/42660-us-commences-fees-on-chinese-ships</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

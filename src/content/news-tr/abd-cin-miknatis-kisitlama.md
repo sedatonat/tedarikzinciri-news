@@ -57,7 +57,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://gcaptain.com/china-analysts-expect-us-to-ease-export-curbs-for-magnet-relief/"><u>https://gcaptain.com/china-analysts-expect-us-to-ease-export-curbs-for-magnet-relief/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

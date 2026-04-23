@@ -30,9 +30,6 @@ tags:
 3. MOBIUS öngörücü bakım yıllık 10 milyon ABD doları tasarruf sağlıyor.<br>
 4. Berkshire Grey treyler boşaltıcı 20+ hub'a yayılacak.<br>
 5. RFID sensörleri seçili müşteri paketlerinde test ediliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychaindive.com/news/fedex-ai-usage-rfid-robotics-network-2/816220/"><u>https://www.supplychaindive.com/news/fedex-ai-usage-rfid-robotics-network-2/816220/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

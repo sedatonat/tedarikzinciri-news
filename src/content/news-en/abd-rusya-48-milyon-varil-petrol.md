@@ -75,7 +75,6 @@ are expected to become more pronounced.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/russian-oil-risks-being-stuck-at-sea-amid-us-sanctions/"><u>https://gcaptain.com/russian-oil-risks-being-stuck-at-sea-amid-us-sanctions/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -83,7 +83,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/europe-ports-lack-buffer-space-to-handle-demand-surges-6121393"><u>https://www.joc.com/article/europe-ports-lack-buffer-space-to-handle-demand-surges-6121393</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

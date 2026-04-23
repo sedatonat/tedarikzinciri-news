@@ -35,9 +35,6 @@ tags:
 3. <strong>Bharat Electronics</strong> ile <strong>Hammer</strong> hava-yer silahı ortak üretim anlaşması imzalanıyor.<br>
 4. <strong>Indian Air Force</strong>; 36 <strong>Rafale</strong>; <strong>Indian Navy</strong>; 26 <strong>Rafale Marine</strong> alıyor.<br>
 5. <strong>India Defence Acquisition Procedure 2020</strong>; yerli yeniden yatırımı zorunlu kılıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42910-safran-plans-to-boost-procurement-from-india-400-by-2030"><u>https://www.supplychainbrain.com/articles/42910-safran-plans-to-boost-procurement-from-india-400-by-2030</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

@@ -41,7 +41,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/continued-volatility-to-keep-container-line-profits-on-course-in-2025-5911923"><u>https://www.joc.com/article/continued-volatility-to-keep-container-line-profits-on-course-in-2025-5911923</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

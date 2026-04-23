@@ -97,7 +97,6 @@ savunuyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/shippers-split-as-gemini-floats-premium-charge-on-reliability-6118881"><u>https://www.joc.com/article/shippers-split-as-gemini-floats-premium-charge-on-reliability-6118881</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

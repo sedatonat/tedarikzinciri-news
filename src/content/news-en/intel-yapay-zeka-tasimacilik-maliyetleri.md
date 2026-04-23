@@ -94,7 +94,6 @@ to be completed.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/42690-intel-radically-streamlines-its-transportation-spend-with-rate-request-automation"><u>https://www.supplychainbrain.com/articles/42690-intel-radically-streamlines-its-transportation-spend-with-rate-request-automation</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

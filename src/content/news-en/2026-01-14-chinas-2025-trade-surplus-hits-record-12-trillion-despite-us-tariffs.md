@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">According to <strong>Bloomberg Economics</strong>, China's stronger-than-expected export growth in December shows its export engine continued to support the economy in the final quarter of 2025 even as domestic drivers weakened. From a supply chain perspective, this trend reveals that <strong>nearshoring</strong> and <strong>China+1</strong> strategies routed through <strong>Vietnam</strong>, <strong>Mexico</strong> and <strong>India</strong> are not structurally eliminating Chinese intermediate exports, but extending them in a different form. For global BCOs, this requires tariff planning that accounts not only for country of origin but also for the broader "value-chain origin" logic.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43205-chinas-2025-trade-surplus-hits-record-12-trillion-despite-us-tariffs"><u>https://www.supplychainbrain.com/articles/43205-chinas-2025-trade-surplus-hits-record-12-trillion-despite-us-tariffs</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

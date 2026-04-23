@@ -39,7 +39,6 @@ tags:
   <li><p>Doorstep automation represents a new phase.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41906-amazon-looks-to-test-humanoid-delivery-robots" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/41906-amazon-looks-to-test-humanoid-delivery-robots</u></a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP?</strong> Our book has been published on Google Play Books.</p>

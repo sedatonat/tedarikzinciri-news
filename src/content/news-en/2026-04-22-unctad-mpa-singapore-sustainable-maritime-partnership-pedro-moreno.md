@@ -25,9 +25,6 @@ tags: ["UNCTAD", "MPA Singapore", "Pedro Manuel Moreno", "decarbonisation", "sus
 3. UNCTAD Acting Secretary-General Pedro Manuel Moreno highlighted the complementary strengths.<br>
 4. Cooperation targets capacity building for port modernisation in SIDS and LDC nations.<br>
 5. World fleet average age approaches 22 years; renewal investment needs multilateral finance.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://container-news.com/unctad-and-singapore-partner-to-drive-sustainable-maritime-transition/"><u>https://container-news.com/unctad-and-singapore-partner-to-drive-sustainable-maritime-transition/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

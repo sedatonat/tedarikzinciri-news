@@ -28,9 +28,6 @@ tags: ['Amazon', 'Kuzey Kore', 'siber güvenlik', 'laptop farm', 'uzaktan çalı
 3. The <strong>laptop farm</strong> model allows devices in the <strong>U.S.</strong> to be accessed remotely from outside the country.<br>
 4. The <strong>DOJ</strong> identified 29 illegal <strong>laptop farms</strong> in June 2025.<br>
 5. Salaries obtained are being funneled to the regime's weapons programs.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43037-amazon-blocks-job-applications-from-suspected-n-korean-agents"><u>https://www.supplychainbrain.com/articles/43037-amazon-blocks-job-applications-from-suspected-n-korean-agents</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

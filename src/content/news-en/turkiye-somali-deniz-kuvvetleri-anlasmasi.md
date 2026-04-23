@@ -36,4 +36,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.youtube.com/watch?v=PdtZzbJdjR4"><u>https://www.youtube.com/watch?v=PdtZzbJdjR4</u></a></p>

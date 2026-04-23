@@ -62,7 +62,6 @@ Bu durum, özellikle <strong>140.000 DWT kapasitesindeki büyük Suezmax tankerl
 <p><br></p>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/russias-novorossiysk-behind-schedule-on-loadings-due-to-jetty-damage/"><u>https://gcaptain.com/russias-novorossiysk-behind-schedule-on-loadings-due-to-jetty-damage/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

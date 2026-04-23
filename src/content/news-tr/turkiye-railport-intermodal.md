@@ -75,7 +75,6 @@ Kalelioğlu, Arkas’ın <strong>100 yılı aşan lojistik mirasının</strong>,
   <li style="text-align: justify"><p style="text-align: justify">Terminal; rail, road, customs, storage ve <strong>CFS</strong> hizmetlerini entegre sunuyor.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/turkiye-launches-first-intermodal-terminal-railport/"><u>https://www.porttechnology.org/news/turkiye-launches-first-intermodal-terminal-railport/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

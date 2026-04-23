@@ -36,9 +36,6 @@ tags:
 3. 2025&rsquo;te boğazdan günde 13 milyon varil ham petrol geçiyor; küresel deniz akışının %31&rsquo;i.<br>
 4. <strong>BIMCO</strong>; aksamanın küçük çaplı kalıyor olacağını öngörüyor.<br>
 5. <strong>U.S.</strong>-<strong>Iran</strong> müzakereleri <strong>Geneva</strong>&rsquo;da nükleer program odaklı olarak sürüyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43487-iran-temporarily-closes-strait-of-hormuz"><u>https://www.supplychainbrain.com/articles/43487-iran-temporarily-closes-strait-of-hormuz</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -35,9 +35,6 @@ tags:
 3. Yetenek havuzu; teknoloji transferi; sermaye erişimi; ana faydalar oluyor.<br>
 4. <strong>SBIR</strong>; <strong>STTR</strong>; <strong>NSF I-Corps</strong>; <strong>DARPA</strong>; ana federal inovasyon programları oluyor.<br>
 5. <strong>MIT CTL</strong>; <strong>Georgia Tech SCL</strong>; <strong>Penn State CSCR</strong>; ana akademik tedarik zinciri merkezleri oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42480-why-logistics-companies-should-site-near-research-and-innovation-centers"><u>https://www.supplychainbrain.com/articles/42480-why-logistics-companies-should-site-near-research-and-innovation-centers</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

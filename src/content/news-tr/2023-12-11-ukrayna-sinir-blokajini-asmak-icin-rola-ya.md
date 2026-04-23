@@ -27,4 +27,3 @@ tags:
 <p><br></p>
 <p>Konuyla ilgili en son raporlardan bazıları, iki ülke arasındaki sınırlarda binlerce kamyonun sıralandığını belirtiyor, bu da Ukrayna'nın sorunu ele almak için AB'nin müdahalesini ve bir denetim grubu kurmasını talep ettiği anlamına geliyor. Bu durum, Ukrayna'nın ithalat ve ihracatını etkiledi ve ülkede insanî lojistik, tahıl ihracatı ve yakıt ithalatı gibi birçok şeyin akışını etkiledi.</p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.railfreight.com/railfreight/2023/12/08/ukrainian-railways-puts-trucks-on-trains-to-break-border-blockade/"><u>https://www.railfreight.com/railfreight/2023/12/08/ukrainian-railways-puts-trucks-on-trains-to-break-border-blockade/</u></a></p>

@@ -28,10 +28,6 @@ New York Valisi Kathy Hochul, Congestion Pricing politikasını savunmak için D
 3. Muhalefet maliyet baskısına odaklanır.<br>
 4. Muafiyet ve kredi mekanizmaları tartışılır.<br>
 5. Trafik sapması riskine önlem planlanır.</p>
-<p><br>
----<br>
-Haber Linki: <a href="https://www.supplychainbrain.com/articles/41264-hochul-meets-with-trump-to-defend-nyc-congestion-pricing"><u>https://www.supplychainbrain.com/articles/41264-hochul-meets-with-trump-to-defend-nyc-congestion-pricing</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

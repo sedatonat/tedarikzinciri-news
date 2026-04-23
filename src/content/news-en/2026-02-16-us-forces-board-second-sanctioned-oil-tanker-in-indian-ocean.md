@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">The interdiction follows a cat-and-mouse chase along the same body of water. From a supply chain perspective, this incident structurally alters the operational risk profile of <strong>shadow fleet</strong> tankers, demonstrating that vessels operating outside <strong>P&I Club</strong> coverage are exposed to a renewed U.S. "unlimited range" tracking strategy. <strong>BIMCO</strong> and <strong>INTERTANKO</strong> have issued warnings to members urging them to update <strong>OFAC</strong> compliance checklists. Major commodity traders such as <strong>Vitol</strong>, <strong>Trafigura</strong> and <strong>Glencore</strong> must now manage sanctioned cargo exposure with zero tolerance.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43482-us-forces-board-second-sanctioned-oil-tanker-in-indian-ocean"><u>https://www.supplychainbrain.com/articles/43482-us-forces-board-second-sanctioned-oil-tanker-in-indian-ocean</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

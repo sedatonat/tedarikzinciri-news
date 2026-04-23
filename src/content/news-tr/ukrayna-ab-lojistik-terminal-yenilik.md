@@ -37,4 +37,3 @@ tags:
   <li><p>AB ve Avrupa Yatırım Bankası, Ukrayna ve Moldova'da Avrupa genişliğinde demiryolu ağının entegrasyonu için bir plan geliştirdi.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.railfreight.com/railfreight/2024/03/08/ukraine-starts-building-intermodal-terminal-near-romanian-border/"><u>https://www.railfreight.com/railfreight/2024/03/08/ukraine-starts-building-intermodal-terminal-near-romanian-border/</u></a></p>

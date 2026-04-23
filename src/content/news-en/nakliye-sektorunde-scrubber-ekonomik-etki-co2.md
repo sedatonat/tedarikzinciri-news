@@ -43,4 +43,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.porttechnology.org/news/scrubbers-save-13-billion-in-shipping-fuel/"><u>https://www.porttechnology.org/news/scrubbers-save-13-billion-in-shipping-fuel/</u></a></p>

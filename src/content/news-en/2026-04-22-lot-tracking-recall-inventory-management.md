@@ -27,9 +27,6 @@ tags: ['lot takibi', 'ürün geri çağırma', 'envanter yönetimi', 'gıda güv
 3. Expiration date, product ingredients, manufacturer, and production date are key elements to track.<br>
 4. <strong>GS1 GTIN</strong>, <strong>GS1 SSCC</strong>, and <strong>EPCIS</strong> are primary traceability standards.<br>
 5. <strong>WMS</strong>, <strong>ERP</strong>, blockchain, <strong>RFID</strong>, and <strong>2D Data Matrix</strong> are key lot tracking technologies.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42250-lot-tracking-a-vital-component-of-recall-and-inventory-management"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42250-lot-tracking-a-vital-component-of-recall-and-inventory-management</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Acquire an ERP? Our Book is Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>

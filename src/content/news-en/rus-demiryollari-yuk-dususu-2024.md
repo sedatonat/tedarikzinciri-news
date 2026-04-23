@@ -50,7 +50,6 @@ tags:
 </ul>
 <p style="text-align: justify"><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/beltandroad/2025/01/10/russian-railways-records-biggest-loading-collapse-in-15-years/"><u>https://www.railfreight.com/beltandroad/2025/01/10/russian-railways-records-biggest-loading-collapse-in-15-years/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book has been published on Google Play Books.</strong></p>

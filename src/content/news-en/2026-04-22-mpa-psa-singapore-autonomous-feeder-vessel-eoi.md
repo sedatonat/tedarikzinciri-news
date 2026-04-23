@@ -21,9 +21,6 @@ tags: ["MPA", "PSA Singapore", "autonomous shipping", "feeder vessel", "Singapor
 3. Technological maturity, operational feasibility and safety performance will be assessed in scenarios.<br>
 4. A remote operations centre is planned to enable shore-based vessel management and intervention.<br>
 5. The EOI is part of Singapore's wider vision for digital and automated maritime transformation.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/singapore-launches-autonomous-feeder-vessel-eoi/"><u>https://www.porttechnology.org/singapore-launches-autonomous-feeder-vessel-eoi/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

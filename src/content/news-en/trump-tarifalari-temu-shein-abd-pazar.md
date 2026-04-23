@@ -46,7 +46,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/40738-will-trump-tariffs-spell-the-end-of-temu-shein-in-the-us"><u>https://www.supplychainbrain.com/articles/40738-will-trump-tariffs-spell-the-end-of-temu-shein-in-the-us</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

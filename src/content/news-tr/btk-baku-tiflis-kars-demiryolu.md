@@ -78,7 +78,6 @@ Yeni sistemin dijital yapısı, <strong>karbon ayak izini azaltma</strong>, <str
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/beltandroad/2025/10/23/georgia-unveils-big-plans-for-btk-upgrade/"><u>https://www.railfreight.com/beltandroad/2025/10/23/georgia-unveils-big-plans-for-btk-upgrade/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

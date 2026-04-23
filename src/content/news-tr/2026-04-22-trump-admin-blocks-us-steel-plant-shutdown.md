@@ -35,9 +35,6 @@ tags:
 3. <strong>Howard Lutnick</strong> müdahalesinden sonra <strong>U.S. Steel</strong>; 19 Eylül&rsquo;de tesisin açık kalıyor olunacağını duyuruyor.<br>
 4. <strong>Nippon Steel</strong>-<strong>U.S. Steel</strong> 14B birleşmesinde &ldquo;golden share&rdquo; mekanizmasi kullanılıyor.<br>
 5. Federal hükümet; yönetim kurulu koltukları üzerinde kontrol kazanıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42530-trump-admin-blocks-shutdown-of-us-steel-plant"><u>https://www.supplychainbrain.com/articles/42530-trump-admin-blocks-shutdown-of-us-steel-plant</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

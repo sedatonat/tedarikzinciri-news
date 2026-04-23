@@ -78,7 +78,6 @@ are also offered as differentiated functions.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/maersk-opens-140m-flagship-logistics-centre-in-shanghai/"><u>https://www.porttechnology.org/news/maersk-opens-140m-flagship-logistics-centre-in-shanghai/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

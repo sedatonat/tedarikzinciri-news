@@ -37,4 +37,3 @@ tags:
   <li><p>FIAT, Eyüp Lojistik ile işbirliğinin devam edeceğini ve Ducato modelinin bu ortaklıkta kilit bir rol oynadığını ifade etti.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.lojiport.com/eyup-lojistik-3-gunde-avrupa-icin-40-fiat-ducato-aldi-116240h.htm"><u>https://www.lojiport.com/eyup-lojistik-3-gunde-avrupa-icin-40-fiat-ducato-aldi-116240h.htm</u></a></p>

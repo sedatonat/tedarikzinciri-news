@@ -49,7 +49,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/damen-unveils-combi-freighter-5000-ice/"><u>https://gcaptain.com/damen-unveils-combi-freighter-5000-ice/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

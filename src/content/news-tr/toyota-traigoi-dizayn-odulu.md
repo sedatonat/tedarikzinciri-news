@@ -56,7 +56,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://warehousinglogisticsinternational.com/another-design-award-for-toyotas-lithium-ion-traigo_i-counterbalanced-forklift/"><u>https://warehousinglogisticsinternational.com/another-design-award-for-toyotas-lithium-ion-traigo_i-counterbalanced-forklift/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

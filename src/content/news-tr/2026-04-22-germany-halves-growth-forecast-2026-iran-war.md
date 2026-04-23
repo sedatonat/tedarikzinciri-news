@@ -36,9 +36,6 @@ tags:
 3. <strong>DIHK</strong>, şirketlerin %83&rsquo;ünün enerji ve malzeme sıkıntısı yaşadığını bildirdi.<br>
 4. <strong>Merz-Klingbeil</strong>, 2029&rsquo;a kadar 140 milyar euro açığı kapatmaya çalışıyor.<br>
 5. Enflasyonun 2026&rsquo;da %2,7, 2027&rsquo;de ise %2,8 olması öngörülüyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43907-germany-halves-growth-forecast-for-2026-after-hit-from-iran-war"><u>https://www.supplychainbrain.com/articles/43907-germany-halves-growth-forecast-for-2026-after-hit-from-iran-war</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

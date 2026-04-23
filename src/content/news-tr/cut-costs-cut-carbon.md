@@ -29,10 +29,6 @@ tags:
 3. Right-sizing packaging atığı azaltır.<br>
 4. Supplier decarbonization Scope 3’ü etkiler.<br>
 5. İkili hedefler birbirini destekler.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41682-cutting-costs-while-reducing-your-carbon-footprint"><u>https://www.supplychainbrain.com/articles/41682-cutting-costs-while-reducing-your-carbon-footprint</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

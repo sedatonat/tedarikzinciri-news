@@ -34,9 +34,6 @@ tags:
 3. <strong>IDF</strong>; aynı gün <strong>Al Hudaydah</strong>; <strong>Ras Issa</strong>; <strong>Al-Salif</strong> limanlarına ve bir elektrik santraline saldırmakta.<br>
 4. <strong>Houthi</strong> milisi; Ekim 2023&rsquo;ten beri Kızıldeniz&rsquo;deki gemilere saldırmakta.<br>
 5. <strong>Operation Prosperity Guardian</strong>; <strong>EU Aspides</strong>; ana koruma operasyonları oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42090-red-sea-ship-set-ablaze-abandoned-after-attack-near-yemen"><u>https://www.supplychainbrain.com/articles/42090-red-sea-ship-set-ablaze-abandoned-after-attack-near-yemen</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

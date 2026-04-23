@@ -40,4 +40,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/bombardier-supplier-support-system-q4-supply-chain-aerospace/709122/"><u>https://www.supplychaindive.com/news/bombardier-supplier-support-system-q4-supply-chain-aerospace/709122/</u></a></p>

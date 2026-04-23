@@ -46,7 +46,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.7deniz.net/maersk-cift-yakitli-20-gemi-siparisi-verdi"><u>https://www.7deniz.net/maersk-cift-yakitli-20-gemi-siparisi-verdi</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

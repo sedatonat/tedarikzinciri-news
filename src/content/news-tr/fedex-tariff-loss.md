@@ -27,10 +27,6 @@ tags:
 3. AI forecasting stratejileri güçlendiriyordir.<br>
 4. Cost-sharing modelleri etkileri azaltıyordır.<br>
 5. E-ticaret lojistiği doğrudan etkileniyordir.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42533-fedex-sees-1b-hit-as-tariffs-upend-parcel-business"><u>https://www.supplychainbrain.com/articles/42533-fedex-sees-1b-hit-as-tariffs-upend-parcel-business</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

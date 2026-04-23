@@ -41,4 +41,3 @@ tags:
   <li><p>Hapag-Lloyd'un ilk beş içinde kalma hedefi, son iki yılda benimsenen stratejilerde değişiklik yapılmasını gerektirebilir.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/msc-set-to-reign-as-largest-carrier-through-2026/"><u>https://www.porttechnology.org/news/msc-set-to-reign-as-largest-carrier-through-2026/</u></a></p>

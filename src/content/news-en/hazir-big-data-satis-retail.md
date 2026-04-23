@@ -46,7 +46,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.scmr.com/article/are-you-data-ready-or-in-data-despair"><u>https://www.scmr.com/article/are-you-data-ready-or-in-data-despair</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Procure ERP?" Has Been Published on Google Play Books.</strong></p>

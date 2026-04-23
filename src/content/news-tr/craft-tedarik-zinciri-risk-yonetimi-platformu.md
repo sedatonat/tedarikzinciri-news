@@ -34,4 +34,3 @@ tags:
   <li><p>Büyük hükümet ve ticari kuruluşlar tarafından kullanılıyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/39661-introducing-the-craft-supplier-risk-management-platform"><u>https://www.supplychainbrain.com/articles/39661-introducing-the-craft-supplier-risk-management-platform</u></a></p>

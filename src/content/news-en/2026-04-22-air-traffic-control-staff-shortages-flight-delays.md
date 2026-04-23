@@ -27,9 +27,6 @@ tags: ['FAA', 'ATC', 'hükümet kapanması', 'Sean Duffy', 'NATCA', 'uçuş geci
 3. <strong>NATCA</strong> stated it does not approve coordinated action.<br>
 4. <strong>Burbank</strong> airport is closed; <strong>Nashville</strong> is experiencing 2-hour delays.<br>
 5. The <strong>U.S.</strong> government shutdown is on day 7.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42630-air-traffic-control-staff-shortages-cause-flight-delays"><u>https://www.supplychainbrain.com/articles/42630-air-traffic-control-staff-shortages-cause-flight-delays</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge via this link.</p>

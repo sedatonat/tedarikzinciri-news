@@ -30,4 +30,3 @@ tags:
   <li><p>Çalışan eğitimleri ve uygun ortaklıklar, dolandırıcılıkla mücadelede etkili yöntemler arasında yer alıyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.thescxchange.com/articles/10163-five-ways-to-tackle-return-fraud"><u>https://www.thescxchange.com/articles/10163-five-ways-to-tackle-return-fraud</u></a></p>

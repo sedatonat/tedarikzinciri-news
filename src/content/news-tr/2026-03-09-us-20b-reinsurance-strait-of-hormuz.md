@@ -36,9 +36,6 @@ tags:
 3. Küresel ham petrolün ve <strong>LNG</strong>&rsquo;nin yaklaşık %20&rsquo;si bu boğazdan geçiyor.<br>
 4. <strong>U.S.</strong> ham petrol fiyatları %35 yükseliyor; <strong>Gulf</strong> üreticileri üretim geri çekiyor.<br>
 5. <strong>DFC</strong> CEO&rsquo;su <strong>Ben Black</strong>; planın enerji akışını yeniden başlatıyor olacağını vurguluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43612-us-to-offer-20b-reinsurance-program-for-strait-of-hormuz-shipping"><u>https://www.supplychainbrain.com/articles/43612-us-to-offer-20b-reinsurance-program-for-strait-of-hormuz-shipping</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

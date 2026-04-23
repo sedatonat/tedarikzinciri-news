@@ -35,9 +35,6 @@ tags:
 3. <strong>Jaguar Land Rover</strong>; <strong>Shell</strong>; <strong>Tesco</strong>; <strong>Network Rail</strong>; <strong>Philips</strong>; ana katılımcı kurumlar oluyor.<br>
 4. <strong>Damian Hall</strong> (<strong>Ralph Lauren</strong>); <strong>AI</strong> ve insan uzmanlığı dengesini araştırıyor.<br>
 5. <strong>Ravi Jay</strong> (<strong>Jaguar Land Rover</strong>); küresel <strong>AI</strong> dönüşümlerini inceliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42060-the-opex-advantage-london-conference-delivers-real-world-strategies"><u>https://www.supplychainbrain.com/articles/42060-the-opex-advantage-london-conference-delivers-real-world-strategies</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

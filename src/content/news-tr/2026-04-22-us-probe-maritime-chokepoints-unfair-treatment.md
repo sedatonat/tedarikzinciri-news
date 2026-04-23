@@ -35,9 +35,6 @@ tags:
 3. <strong>Suez</strong>; <strong>Panama</strong>; <strong>Hormuz</strong>; <strong>Malacca</strong>; <strong>Bab el-Mandeb</strong>; ana darboğazlar oluyor.<br>
 4. <strong>Houthi</strong> <strong>Kızıl Deniz</strong> saldırıları; <strong>Suez</strong> trafiği %70-80 düşüyor.<br>
 5. <strong>Panama</strong> kuraklığı; günlük geçiş 36-38&rsquo;den 22-24&rsquo;e düşüyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41370-us-probe-of-maritime-chokepoints-seeks-evidence-of-unfair-treatment"><u>https://www.supplychainbrain.com/articles/41370-us-probe-of-maritime-chokepoints-seeks-evidence-of-unfair-treatment</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

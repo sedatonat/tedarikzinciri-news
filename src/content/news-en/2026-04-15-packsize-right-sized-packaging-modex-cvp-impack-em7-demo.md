@@ -22,9 +22,6 @@ tags: ["Packsize", "Modex", "right-sized packaging", "CVP Impack", "EM7", "wareh
 3. Right-sized packaging reduces shipping volume and the carbon footprint.<br>
 4. The approach has moved onto warehouse agendas along with e-commerce growth and rising fulfilment speeds.<br>
 5. Automation can eliminate warehouses' traditional "packing bottleneck".</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychain247.com/article/packsize_shows_what_right_sized_packaging_can_do_on_the_warehouse_floor"><u>https://www.supplychain247.com/article/packsize_shows_what_right_sized_packaging_can_do_on_the_warehouse_floor</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

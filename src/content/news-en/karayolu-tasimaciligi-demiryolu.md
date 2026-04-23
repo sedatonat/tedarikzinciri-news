@@ -92,7 +92,6 @@ For rail to attract more freight, the following fundamental steps are needed:</p
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/in-depth/2025/11/21/road-transport-friend-or-foe/"><u>https://www.railfreight.com/in-depth/2025/11/21/road-transport-friend-or-foe/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

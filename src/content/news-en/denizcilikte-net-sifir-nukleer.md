@@ -47,7 +47,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/the-calculus-for-net-zero-in-shipping-by-2050-must-include-nuclear-says-abs-chairman-and-ceo/"><u>https://gcaptain.com/the-calculus-for-net-zero-in-shipping-by-2050-must-include-nuclear-says-abs-chairman-and-ceo/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Purchase ERP? Our Book Is Published on Google Play Books.</strong></p>

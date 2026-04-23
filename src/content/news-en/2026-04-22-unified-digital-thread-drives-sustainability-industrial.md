@@ -27,9 +27,6 @@ tags: ['Aras', 'dijital iplik', 'PLM', 'sürdürülebilirlik', 'endüstriyel', '
 3. <strong>Aras Innovator</strong> is used by <strong>Airbus</strong>, <strong>Honda</strong>, <strong>GM</strong>, and <strong>Hitachi</strong>.<br>
 4. <strong>EU CSRD</strong>, <strong>CSDDD</strong>, and <strong>CBAM</strong> are major regulatory drivers.<br>
 5. <strong>Digital Product Passport</strong> becomes mandatory for batteries and textiles by 2027.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41700-a-unified-digital-thread-drives-sustainability-in-industrial-companies"><u>https://www.supplychainbrain.com/articles/41700-a-unified-digital-thread-drives-sustainability-in-industrial-companies</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Purchase ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it free of charge via the link above.</p>

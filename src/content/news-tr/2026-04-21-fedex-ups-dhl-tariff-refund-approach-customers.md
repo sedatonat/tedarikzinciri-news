@@ -33,9 +33,6 @@ tags:
 3. FedEx; gümrük komisyoncusu olarak hizmet verdiği tüm müşteriler adına başvuru yapacak.<br>
 4. DHL; ilk aşama kapsamındaki uygun girişler için otomatik talep dolduracak.<br>
 5. Açılışın ilk gününde 4 milyondan fazla ithalat için 55.000 talep iletildi.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychaindive.com/news/fedex-ups-and-dhl-detail-tariff-refund-approach-for-customers/818057/"><u>https://www.supplychaindive.com/news/fedex-ups-and-dhl-detail-tariff-refund-approach-for-customers/818057/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

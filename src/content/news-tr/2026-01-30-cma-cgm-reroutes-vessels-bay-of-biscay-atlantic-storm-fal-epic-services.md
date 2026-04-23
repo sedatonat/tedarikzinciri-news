@@ -31,9 +31,6 @@ tags:
 3. Etkilenen servisler: FAL, EPIC, US, EURAF, LATAM ve SSL.<br>
 4. Biscay Körfezi'ndeki seyirin yaklaşık 72 saat süreyle aksaması bekleniyor.<br>
 5. Olay, iklim kaynaklı aşırı hava olaylarının küresel konteyner zincirindeki kalıcı risk faktörünü vurguluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/cma-cgm-reroutes-vessels-amid-severe-atlantic-weather/"><u>https://www.porttechnology.org/cma-cgm-reroutes-vessels-amid-severe-atlantic-weather/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

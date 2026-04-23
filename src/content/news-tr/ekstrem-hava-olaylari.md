@@ -40,7 +40,6 @@ tags:
   <li><p>Sözleşme ve sigorta hükümleri güncellenir.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41760-minimizing-the-risks-associated-with-extreme-weather"><u>https://www.supplychainbrain.com/articles/41760-minimizing-the-risks-associated-with-extreme-weather</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

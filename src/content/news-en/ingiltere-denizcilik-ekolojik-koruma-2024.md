@@ -37,4 +37,3 @@ tags:
   <li><p>MCA Chief Virginia McVea emphasised the importance of these measures for environmental protection.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.porttechnology.org/news/uk-government-implements-anti-fouling-shipping-regulation/"><u>https://www.porttechnology.org/news/uk-government-implements-anti-fouling-shipping-regulation/</u></a></p>

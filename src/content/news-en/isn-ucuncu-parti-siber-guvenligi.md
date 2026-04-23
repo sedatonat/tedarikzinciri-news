@@ -38,7 +38,6 @@ tags:
   <li><p>The least-privilege principle secures data sharing.</p></li>
 </ul>
 <p>--------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42439-isn-launches-enhanced-ability-to-manage-third-party-cybersecurity-oversight"><u>https://www.supplychainbrain.com/articles/42439-isn-launches-enhanced-ability-to-manage-third-party-cybersecurity-oversight</u></a></p>
 <p>--------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>

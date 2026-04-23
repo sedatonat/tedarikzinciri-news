@@ -35,4 +35,3 @@ tags:
   <li><p>Miami kapısı, Kuzey Amerika ve Asya'nın ihracat pazarlarını destekleyerek Latin Amerika'da yeni fırsatlar sunuyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/maersk-launches-air-freight-gateway-in-miami/"><u>https://www.porttechnology.org/news/maersk-launches-air-freight-gateway-in-miami/</u></a></p>

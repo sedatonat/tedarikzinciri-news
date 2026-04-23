@@ -27,9 +27,6 @@ tags: ['Husi', 'Aden Körfezi', 'Spliethoff', 'Minervagracht', 'Kızıl Deniz', 
 3. No casualties; <strong>French military</strong> confirms to <strong>AP</strong>.<br>
 4. <strong>Houthis</strong> vowed in July to target all <strong>Israeli</strong>-linked vessels.<br>
 5. Two <strong>Greek</strong> ship attack, 4 crew deaths, 11 captured occurred previously.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42580-houthis-attack-netherlands-flagged-ship-in-gulf-of-aden"><u>https://www.supplychainbrain.com/articles/42580-houthis-attack-netherlands-flagged-ship-in-gulf-of-aden</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Is Now Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it free through this link.</p>

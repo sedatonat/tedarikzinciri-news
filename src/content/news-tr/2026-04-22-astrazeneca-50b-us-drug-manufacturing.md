@@ -34,9 +34,6 @@ tags:
 3. <strong>Virginia</strong>; ana proje merkezi oluyor &mdash; <strong>California</strong>; <strong>Indiana</strong>; <strong>Maryland</strong>; <strong>Texas</strong> diğer tesisler oluyor.<br>
 4. <strong>Trump</strong>; ithal ilaçlara %200&rsquo;e kadar tarife tehdit ediyor.<br>
 5. <strong>Eli Lilly</strong>; <strong>J&amp;J</strong>; <strong>Roche</strong>; <strong>Novartis</strong>; benzer <strong>U.S.</strong> taahhütlerini açıklıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42200-astrazeneca-vows-to-commit-50b-to-us-drug-manufacturing"><u>https://www.supplychainbrain.com/articles/42200-astrazeneca-vows-to-commit-50b-to-us-drug-manufacturing</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

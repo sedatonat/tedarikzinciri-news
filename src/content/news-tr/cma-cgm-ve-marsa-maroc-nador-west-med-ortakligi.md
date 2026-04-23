@@ -37,7 +37,6 @@ tags:
   <li><p><strong>Amaç:</strong> Ülkenin lojistik ve alternatif enerji sektörlerindeki gelişimine katkı sağlamak.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/cma-cgm-buys-into-moroccan-container-terminal/"><u>https://www.porttechnology.org/news/cma-cgm-buys-into-moroccan-container-terminal/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

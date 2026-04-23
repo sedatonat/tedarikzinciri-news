@@ -34,10 +34,6 @@ tags:
 - Tariff analytics ürün bazında karar kalitesini artırıyordır.<br>
 - Reshoring/nearshoring risk ve süreyi azaltıyordır.<br>
 - Tarifeler esneklik ve inovasyon için tetikleyici hâline geliyordir.</p>
-<p><br>
----<br>
-<strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42322-how-middle-market-companies-can-turn-tariffs-into-opportunity-to-build-resilient-supply-chains"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42322-how-middle-market-companies-can-turn-tariffs-into-opportunity-to-build-resilient-supply-chains</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

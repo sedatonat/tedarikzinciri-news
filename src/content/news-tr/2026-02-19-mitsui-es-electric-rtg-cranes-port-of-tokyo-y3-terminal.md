@@ -31,9 +31,6 @@ tags:
 3. Teslimat 2028 yılı Mart ayı sonuna kadar tamamlanacak.<br>
 4. Elektrik barasından beslenen vinçler dizel jeneratör yerine doğrudan elektrik kullanarak sahada sıfır emisyon üretiyor.<br>
 5. Sipariş, Asya konteyner limanlarındaki elektrifikasyon yarışında MITSUI E&S'nin konumunu güçlendiriyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/mitsui-es-wins-electric-crane-order-for-port-of-tokyo/"><u>https://www.porttechnology.org/mitsui-es-wins-electric-crane-order-for-port-of-tokyo/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

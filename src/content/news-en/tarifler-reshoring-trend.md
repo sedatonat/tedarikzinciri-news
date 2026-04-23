@@ -33,10 +33,6 @@ tags:
 - AI-driven TCO analysis improves decision quality.<br>
 - Political uncertainty is reshaping production networks.<br>
 - Tariff planning tools provide scenario-based flexibility.</p>
-<p><br>
----<br>
-News Link: https://www.supplychainbrain.com/blogs/1-think-tank/post/42515-navigating-tariffs-market-uncertainty-and-the-growing-momentum-for-reshoring<br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

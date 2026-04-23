@@ -44,7 +44,6 @@ tags:
   <li><p>İş birliği, denizde güvenlik ve emniyeti artırmayı hedefliyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/sirius-insight-cambridge-pixel-launch-ai-maritime-surveillance-solution/"><u>https://www.porttechnology.org/news/sirius-insight-cambridge-pixel-launch-ai-maritime-surveillance-solution/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

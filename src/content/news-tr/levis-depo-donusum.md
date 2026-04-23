@@ -50,7 +50,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/levis-distributuion-center-transition-ramp-down/803252/"><u>https://www.supplychaindive.com/news/levis-distributuion-center-transition-ramp-down/803252/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

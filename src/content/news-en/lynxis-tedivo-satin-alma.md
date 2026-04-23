@@ -39,7 +39,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/lynxis-expands-digital-solutions-with-tedivo-acquisition/"><u>https://www.porttechnology.org/news/lynxis-expands-digital-solutions-with-tedivo-acquisition/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Procure ERP?" has been published on Google Play Books.</strong></p>

@@ -46,7 +46,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/mcdonalds-ecoli-response-teaches-suppliers-restaurants/732699/"><u>https://www.supplychaindive.com/news/mcdonalds-ecoli-response-teaches-suppliers-restaurants/732699/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

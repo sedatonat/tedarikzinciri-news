@@ -38,7 +38,6 @@ tags:
   <li><p>Aligns with 24/7 carbon-free energy goals.</p></li>
 </ul>
 <p>-----</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42351-google-unveils-plans-for-advanced-nuclear-plant-in-tennessee" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/42351-google-unveils-plans-for-advanced-nuclear-plant-in-tennessee</u></a></p>
 <p>-----</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP?</strong> Our book has been published on Google Play Books.</p>

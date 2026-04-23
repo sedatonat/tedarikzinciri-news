@@ -60,7 +60,6 @@ Vagonların çok daha <strong>kısa kilometre aralıklarıyla</strong> teknik ko
   <li style="text-align: justify"><p style="text-align: justify">Gözler, <strong>JNS’nin</strong> yayımlayacağı ortak güvenlik tavsiyelerine çevrildi.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/policy/2025/12/10/swiss-court-blocks-fots-wheel-regulations/"><u>https://www.railfreight.com/policy/2025/12/10/swiss-court-blocks-fots-wheel-regulations/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

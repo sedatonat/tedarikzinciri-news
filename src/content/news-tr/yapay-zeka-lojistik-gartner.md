@@ -84,7 +84,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/ai-in-logistics-key-use-cases-real-world-business-impact"><u>https://www</u></a><a href="http://sedatonat.com/"><u>http://sedatonat.com/</u></a><a href="https://www.supplychain247.com/article/ai-in-logistics-key-use-cases-real-world-business-impact"><u>.supplychain247.com/article/ai-in-logistics-key-use-cases-real-world-business-impact</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/">SedatOnat.com</a></p>
 <p>--------------------</p>

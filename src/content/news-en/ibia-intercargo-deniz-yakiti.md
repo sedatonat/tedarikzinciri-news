@@ -63,7 +63,6 @@ This collaboration will help our members develop safe and pragmatic transition s
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.porttechnology.org/news/ibia-intercargo-strengthen-partnership-on-marine-fuels/"><u>https://www.porttechnology.org/news/ibia-intercargo-strengthen-partnership-on-marine-fuels/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

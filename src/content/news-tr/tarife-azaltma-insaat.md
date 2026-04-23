@@ -51,10 +51,6 @@ tags:
 3. Commodity hedging ve should‑cost modelleri bütçe görünürlüğünü artırıyor.<br>
 4. Design‑to‑value ile malzeme ikameleri uygulanıyor.<br>
 5. S&amp;OP ve scenario planning ile tarife etkisi simüle ediliyor.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41445-how-construction-contractors-can-mitigate-the-impact-of-tariffs"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41445-how-construction-contractors-can-mitigate-the-impact-of-tariffs</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

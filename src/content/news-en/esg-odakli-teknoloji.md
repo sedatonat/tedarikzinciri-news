@@ -40,7 +40,6 @@ tags:
   <li><p>The ESG technology layer strengthens competitive positioning.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41635-conceptualizing-esg-focused-technology-in-2025" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/41635-conceptualizing-esg-focused-technology-in-2025</u></a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP?</strong> Our book has been published on Google Play Books.</p>

@@ -29,9 +29,6 @@ tags:
 <p style="text-align: justify"><strong>Chevron</strong> continues to load oil even as at least 12 vessels bound for Venezuela turned away under heavy U.S. military presence in the Caribbean. Two tankers used in the transport of sanctioned oil were caught in the U.S. naval blockade. According to CBS News, the U.S. is now chasing a third tanker known as <em>Marinera</em>, or <em>Bella 1</em>. According to <strong>TankerTrackers.com</strong>, some vessels of the dark fleet were able to safely leave Venezuela right after <strong>Maduro</strong> was captured by U.S. forces.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, at least four tankers &mdash; possibly as many as 16 &mdash; reportedly slipped through the blockade. Shadow fleet tankers typically turn off or spoof their transponders to disguise their location. This structural shift is reshaping supply flows in the global crude oil market &mdash; <strong>Chevron</strong>'s emergence as the sole operator marks a strategic inflection point in terms of market pricing, logistics capacity allocation and compliance requirements.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43087-chevron-lines-up-11-ships-as-venezuelas-dark-fleet-vanishes"><u>https://www.supplychainbrain.com/articles/43087-chevron-lines-up-11-ships-as-venezuelas-dark-fleet-vanishes</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

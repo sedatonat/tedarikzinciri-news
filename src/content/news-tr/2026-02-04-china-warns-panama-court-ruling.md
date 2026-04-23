@@ -36,9 +36,6 @@ tags:
 3. <strong>Hong Kong and Macao Affairs Office</strong>, &ldquo;<strong>heavy price</strong>&rdquo; uyarısında bulunuyor.<br>
 4. <strong>Panama President Mulino</strong>, yargı bağımsızlığını öne sürerek tepkiyi reddediyor.<br>
 5. Karar, <strong>Trump</strong>&rsquo;ın Nisan&rsquo;daki <strong>China</strong> ziyareti öncesinde gerilimi büyütüyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43414-china-warns-panama-of-heavy-price-on-court-ruling-on-ports"><u>https://www.supplychainbrain.com/articles/43414-china-warns-panama-of-heavy-price-on-court-ruling-on-ports</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

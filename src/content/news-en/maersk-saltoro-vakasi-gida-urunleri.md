@@ -54,7 +54,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://container-news.com/maersk-saltoro-case-lessons-for-government-insurers-and-shippers/"><u>https://container-news.com/maersk-saltoro-case-lessons-for-government-insurers-and-shippers/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>

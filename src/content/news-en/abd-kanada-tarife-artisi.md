@@ -48,7 +48,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/trump-raises-canada-tariffs-10-percent/803811/"><u>https://www.supplychaindive.com/news/trump-raises-canada-tariffs-10-percent/803811/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

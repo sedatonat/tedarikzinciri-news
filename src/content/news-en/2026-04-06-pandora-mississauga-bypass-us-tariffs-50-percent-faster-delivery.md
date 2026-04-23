@@ -23,9 +23,6 @@ tags: ["Pandora", "Canada", "USMCA", "tariffs", "GXO Logistics", "nearshoring"]
 3. The facility has a daily capacity of 12,500 orders.<br>
 4. GXO Logistics operates the site.<br>
 5. The move balances tariff exposure ahead of the July USMCA review.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychaindive.com/news/pandora-jewelry-canada-distribution-center-us-tariffs/816363/"><u>https://www.supplychaindive.com/news/pandora-jewelry-canada-distribution-center-us-tariffs/816363/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

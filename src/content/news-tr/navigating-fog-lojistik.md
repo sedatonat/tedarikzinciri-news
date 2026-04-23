@@ -53,7 +53,6 @@ tags:
   <li><p><strong>AI ve otomasyon</strong>, dayanıklı tedarik zincirleri kurmanın maliyetini azaltıyor.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <u>https://www.thescxchange.com/move/cscmp-edge-state-of-logistics</u></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

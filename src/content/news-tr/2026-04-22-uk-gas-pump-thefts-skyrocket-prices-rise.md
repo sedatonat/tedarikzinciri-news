@@ -36,9 +36,6 @@ tags:
 3. Aile aracı dolumu £14; dizel tankı £27 daha pahalı oluyor.<br>
 4. Pompa çalışanlarına yöneliyor olan istismar da artıyor; <strong>U.K. Petrol Retailers Association</strong> hükümetle anlaşmazlığa giriyor.<br>
 5. <strong>U.K.</strong> hükümeti; yakıt hırsızlarının &ldquo;<strong>full force of the law</strong>&rdquo; ile karşılaşıyor olunacağını belirtiyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43897-uk-gas-pump-thefts-skyrocket-as-prices-rise"><u>https://www.supplychainbrain.com/articles/43897-uk-gas-pump-thefts-skyrocket-as-prices-rise</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

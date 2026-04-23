@@ -74,7 +74,6 @@ This statement reflects Nike's positioning of technology investments not as a se
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/nike-leadership-changes-chief-supply-chain-officer-operations/807188/"><u>https://www.supplychaindive.com/news/nike-leadership-changes-chief-supply-chain-officer-operations/807188/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

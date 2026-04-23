@@ -42,7 +42,6 @@ tags:
 </ul>
 <p style="text-align: justify"><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/41180-trumps-china-trade-crackdown-sparks-shipping-chaos-price-hikes"><u>https://www.supplychainbrain.com/articles/41180-trumps-china-trade-crackdown-sparks-shipping-chaos-price-hikes</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

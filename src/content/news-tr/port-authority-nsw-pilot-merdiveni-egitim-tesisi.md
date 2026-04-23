@@ -36,7 +36,6 @@ tags:
   <li><p>Tesis, pilotlar, gemi trafik hizmetleri operatörleri ve pilot tekne mürettebatı tarafından kullanılacak.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/port-kembla-unveils-ladder-training-facility/"><u>https://www.porttechnology.org/news/port-kembla-unveils-ladder-training-facility/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

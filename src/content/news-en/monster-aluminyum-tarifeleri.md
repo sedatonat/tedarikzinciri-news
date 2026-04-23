@@ -73,7 +73,6 @@ CEO Mick Beekhuizen's comment captures the situation:</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/monster-faces-modest-tariff-impact-from-aluminum-costs/806002/"><u>https://www.supplychaindive.com/news/monster-faces-modest-tariff-impact-from-aluminum-costs/806002/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

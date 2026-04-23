@@ -42,7 +42,6 @@ tags:
   <li><p>Paul Ng, otomasyon ve dijitalleşmeye yatırım yapmanın önemini vurguladı.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/eng-kong-installs-singapores-first-automated-seal-dispenser-system/"><u>https://www.porttechnology.org/news/eng-kong-installs-singapores-first-automated-seal-dispenser-system/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

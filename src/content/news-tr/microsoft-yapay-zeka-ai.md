@@ -38,7 +38,6 @@ tags:
   <li><p>Su yönetimi ve ısı geri kazanımı değerlendiriliyordir.</p></li>
 </ul>
 <p>--------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42521-microsoft-to-invest-4b-in-second-wisconsin-ai-data-center"><u>https://www.supplychainbrain.com/articles/42521-microsoft-to-invest-4b-in-second-wisconsin-ai-data-center</u></a></p>
 <p>--------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

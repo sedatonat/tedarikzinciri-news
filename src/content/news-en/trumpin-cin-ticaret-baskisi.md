@@ -42,7 +42,6 @@ tags:
 </ul>
 <p style="text-align: justify"><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/41180-trumps-china-trade-crackdown-sparks-shipping-chaos-price-hikes"><u>https://www.supplychainbrain.com/articles/41180-trumps-china-trade-crackdown-sparks-shipping-chaos-price-hikes</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>

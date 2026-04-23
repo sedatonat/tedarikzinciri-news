@@ -79,7 +79,6 @@ Bu sayede gemi trafiği, yakıt ikmali ve gümrük süreçleri <strong>gerçek z
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/singapore-korea-launch-green-and-digital-maritime-corridor/"><u>https://www.porttechnology.org/news/singapore-korea-launch-green-and-digital-maritime-corridor/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

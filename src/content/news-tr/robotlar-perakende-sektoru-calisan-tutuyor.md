@@ -38,4 +38,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10383-simbe-says-inventory-counting-robots-boost-retail-worker-retention"><u>https://www.thescxchange.com/articles/10383-simbe-says-inventory-counting-robots-boost-retail-worker-retention</u></a></p>

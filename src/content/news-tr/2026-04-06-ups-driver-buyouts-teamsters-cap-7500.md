@@ -29,9 +29,6 @@ tags:
 3. Toplam sürücü sayısı yaklaşık 105.000.<br>
 4. UPS'in 2026 küçülme hedefi 30.000 kişi.<br>
 5. Programın büyük bölümü 2026 ilk yarıda uygulanacak.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychaindive.com/news/ups-driver-buyouts-teamsters-union-settlement-deal/816685/"><u>https://www.supplychaindive.com/news/ups-driver-buyouts-teamsters-union-settlement-deal/816685/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

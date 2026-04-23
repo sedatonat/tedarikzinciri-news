@@ -37,4 +37,3 @@ tags:
   <li><p>FIAT stated that its partnership with Eyüp Lojistik will continue and that the Ducato model plays a key role in this collaboration.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.lojiport.com/eyup-lojistik-3-gunde-avrupa-icin-40-fiat-ducato-aldi-116240h.htm"><u>https://www.lojiport.com/eyup-lojistik-3-gunde-avrupa-icin-40-fiat-ducato-aldi-116240h.htm</u></a></p>

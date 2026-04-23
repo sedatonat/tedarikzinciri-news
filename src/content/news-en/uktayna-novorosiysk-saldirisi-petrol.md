@@ -83,7 +83,6 @@ critical chokepoint in the region for.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/ukraine-hits-novorossiysk-knocking-out-2-of-global-oil-supply/"><u>https://gcaptain.com/ukraine-hits-novorossiysk-knocking-out-2-of-global-oil-supply/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

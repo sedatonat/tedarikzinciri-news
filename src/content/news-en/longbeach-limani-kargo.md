@@ -78,7 +78,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/port-of-long-beach-cargo-volumes-tariffs-national-retail-federation/805182/"><u>https://www.supplychaindive.com/news/port-of-long-beach-cargo-volumes-tariffs-national-retail-federation/805182/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

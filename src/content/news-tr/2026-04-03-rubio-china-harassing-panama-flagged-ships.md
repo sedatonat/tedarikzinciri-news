@@ -36,9 +36,6 @@ tags:
 3. <strong>China</strong>; iddiaları reddediyor; sözcü <strong>Lin Jian</strong> tepki veriyor.<br>
 4. <strong>CK Hutchison</strong>; <strong>Panama</strong>&rsquo;ya karşı 2+ milyar dolar tahkim açıyor.<br>
 5. Gerilim; <strong>Trump</strong>&rsquo;ın Mayıs&rsquo;taki <strong>Beijing</strong> ziyareti öncesi yükseliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43786-rubio-accuses-china-of-harassing-panama-flagged-ships"><u>https://www.supplychainbrain.com/articles/43786-rubio-accuses-china-of-harassing-panama-flagged-ships</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

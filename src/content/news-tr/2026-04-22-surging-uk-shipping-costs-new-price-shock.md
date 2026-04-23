@@ -35,9 +35,6 @@ tags:
 3. <strong>Xeneta</strong> ve <strong>Drewry</strong>; ana navlun fiyat veri sağlayıcıları oluyor.<br>
 4. <strong>British Retail Consortium</strong>; razor-thin marjlar nedeniyle pass-through riskini vurguluyor.<br>
 5. <strong>Bank of England</strong>&rsquo;in faiz indirim planı; navlun bağlantılı enflasyon nedeniyle karmaşıklaşıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42110-surging-uk-shipping-costs-threaten-to-deliver-a-new-price-shock"><u>https://www.supplychainbrain.com/articles/42110-surging-uk-shipping-costs-threaten-to-deliver-a-new-price-shock</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

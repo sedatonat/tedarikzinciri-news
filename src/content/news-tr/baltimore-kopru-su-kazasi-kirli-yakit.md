@@ -35,4 +35,3 @@ tags:
 <p><br></p>
 <p><strong>İlgili Makalemiz:</strong> <a href="https://www.tedarikzinciriportali.com/post/maersk-baltimore-koprusu-kazasi"><u>Maersk Baltimore Francis Scott Key Köprüsü Kazası</u></a></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.denizhaber.com/yuk-gemisi-dalinin-kopru-kazasina-kirli-yakit-neden-olmus-olabilir"><u>https://www.denizhaber.com/yuk-gemisi-dalinin-kopru-kazasina-kirli-yakit-neden-olmus-olabilir</u></a></p>

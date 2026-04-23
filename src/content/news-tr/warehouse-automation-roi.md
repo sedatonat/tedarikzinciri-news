@@ -33,10 +33,6 @@ tags:
 - Digital twin yatırımı öncesi verimlilik projeksiyonu sağlıyordır.<br>
 - Otomasyon “operasyonel sigorta” olarak görülüyordir.<br>
 - Uzun vadeli dayanıklılık ROI’nin yeni boyutudur.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42402-beyond-cost-savings-the-true-roi-of-warehouse-automation"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42402-beyond-cost-savings-the-true-roi-of-warehouse-automation</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

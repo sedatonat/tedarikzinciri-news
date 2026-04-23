@@ -47,7 +47,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/west-coast-rail-operations-challenges-what-shippers-can-do/732680/"><u>https://www.supplychaindive.com/news/west-coast-rail-operations-challenges-what-shippers-can-do/732680/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

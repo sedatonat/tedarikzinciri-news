@@ -29,9 +29,6 @@ tags:
 3. Tesis günlük 12.500 sipariş kapasitesinde.<br>
 4. GXO Logistics operasyonu yürütüyor.<br>
 5. Yatırım USMCA Temmuz gözden geçirmesi öncesi tarife dengeleme adımı.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychaindive.com/news/pandora-jewelry-canada-distribution-center-us-tariffs/816363/"><u>https://www.supplychaindive.com/news/pandora-jewelry-canada-distribution-center-us-tariffs/816363/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

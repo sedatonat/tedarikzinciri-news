@@ -65,7 +65,6 @@ USPS’in taşıdığı Amazon hacmi, UPS’in taşıdığı hacmin <strong>4–
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/usps_amazon_contract_uncertainty_grows_as_reverse_auction_plan_raises_stakes_for_2026_renewal"><u>https://www.supplychain247.com/article/usps_amazon_contract_uncertainty_grows_as_reverse_auction_plan_raises_stakes_for_2026_renewal</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

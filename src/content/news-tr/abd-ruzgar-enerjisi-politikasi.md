@@ -79,7 +79,6 @@ Rüzgâr enerjisi sektörünün sürdürülebilir büyüme göstermesi için:</p
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/us-ports-face-679-million-loss-from-wind-policy-shift/"><u>https://www.porttechnology.org/news/us-ports-face-679-million-loss-from-wind-policy-shift/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

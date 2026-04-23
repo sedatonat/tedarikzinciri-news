@@ -28,9 +28,6 @@ tags: ['Boeing', 'UPS', 'MD-11F', 'NTSB', 'BBC News', 'Louisville', 'kargo havac
 3. <strong>Boeing</strong> issued a service letter in 2011 informing operators.<br>
 4. The manufacturer had concluded that the issue would not pose a threat at the flight safety level.<br>
 5. The <strong>NTSB</strong> is refraining from comment until it publishes its final report.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43214-boeing-knew-of-ups-plane-flaw-15-years-ago-says-ntsb"><u>https://www.supplychainbrain.com/articles/43214-boeing-knew-of-ups-plane-flaw-15-years-ago-says-ntsb</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What Is ERP?</p>

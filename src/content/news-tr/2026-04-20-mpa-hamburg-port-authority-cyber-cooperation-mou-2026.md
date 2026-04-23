@@ -33,9 +33,6 @@ tags:
 3. İşbirliği; insansız yüzey araçları ve uzaktan gemi operasyonları siber güvenliğini kapsadı.<br>
 4. Mutabakat; 2024 yılındaki dijitalleşme ve dekarbonizasyon niyet mektubunu temel aldı.<br>
 5. Anlaşma; gemi-kıyı bağlantısı ve liman platformları için ortak savunma standardı geliştirmeyi hedefledi.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/mpa-port-of-hamburg-expand-port-cyber-cooperation/"><u>https://www.porttechnology.org/mpa-port-of-hamburg-expand-port-cyber-cooperation/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

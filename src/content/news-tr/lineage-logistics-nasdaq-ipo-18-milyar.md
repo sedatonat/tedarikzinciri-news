@@ -29,4 +29,3 @@ tags:
   <li><p>Şirketin hedefi, küresel gıda tedarik zincirini dönüştürmek ve atıkları azaltmak.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.thescxchange.com/articles/10629-cold-storage-powerhouse-lineage-to-raise-18-billion-on-nasdaq"><u>https://www.thescxchange.com/articles/10629-cold-storage-powerhouse-lineage-to-raise-18-billion-on-nasdaq</u></a></p>

@@ -57,7 +57,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://seanews.ru/en/2025/11/26/en-sovcomflot-takes-delivery-of-lng-ready-tanker/"><u>https://seanews.ru/en/2025/11/26/en-sovcomflot-takes-delivery-of-lng-ready-tanker/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

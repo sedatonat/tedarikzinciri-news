@@ -68,7 +68,6 @@ The shutdown of AIS systems even for <strong>a commodity as traceable as LNG</st
   <li style="text-align: justify"><p style="text-align: justify">The development points to the <strong>growing role of shadow operations in global energy trade</strong>.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/china-joins-russias-dark-fleet-with-first-ever-lng-ship-to-ship-transfer/"><u>https://gcaptain.com/china-joins-russias-dark-fleet-with-first-ever-lng-ship-to-ship-transfer/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>
 <p><strong>Our Book "How to Buy an ERP?" Has Been Published on Google Play Books.</strong></p>

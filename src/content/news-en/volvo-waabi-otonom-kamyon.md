@@ -40,7 +40,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/41159-volvo-tags-waabi-to-develop-ai-system-for-autonomous-semi-trucks"><u>https://www.supplychainbrain.com/articles/41159-volvo-tags-waabi-to-develop-ai-system-for-autonomous-semi-trucks</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>

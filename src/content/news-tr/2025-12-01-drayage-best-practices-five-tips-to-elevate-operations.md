@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Rekabet açığı her geçen gün genişliyor. <strong>CargoWise Landslide</strong>, tüm bu yetenekleri tek bir platformda topluyor. Tarifeler, dispatch, görünürlük, faturalama ve dönüşüm desteği tek bir noktada bulunuyor. Operatörler; parçalı sistemlerin maliyet ve karmaşıklığından kurtulup geleceğe hazır bir altyapı kazanıyor. Tedarik zinciri perspektifinden bakıldığında dijital liderlerin ritmi belirlediği drayage sektöründe; rekabetçi kalmak isteyen taşıyıcıların entegre platform yatırımını ertelemesi, sürdürülebilir bir strateji olarak kabul edilmiyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42912-drayage-best-practices-five-tips-to-elevate-operations"><u>https://www.supplychainbrain.com/articles/42912-drayage-best-practices-five-tips-to-elevate-operations</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

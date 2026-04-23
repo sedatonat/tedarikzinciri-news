@@ -36,9 +36,6 @@ tags:
 3. <strong>Boeing</strong>, 2011&rsquo;de operatörleri bilgilendiren bir <strong>service letter</strong> yayımladı.<br>
 4. Üretici, sorunun uçuş güvenliği düzeyinde tehlike oluşturmayacağı sonucuna varmıştı.<br>
 5. <strong>NTSB</strong>, nihai raporunu yayımlayacağı tarihe kadar yorum yapmaktan kaçınıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43214-boeing-knew-of-ups-plane-flaw-15-years-ago-says-ntsb"><u>https://www.supplychainbrain.com/articles/43214-boeing-knew-of-ups-plane-flaw-15-years-ago-says-ntsb</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

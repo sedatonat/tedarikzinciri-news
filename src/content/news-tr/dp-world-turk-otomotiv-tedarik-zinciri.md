@@ -40,4 +40,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/dp-world-bolsters-turkish-imports/"><u>https://www.porttechnology.org/news/dp-world-bolsters-turkish-imports/</u></a></p>

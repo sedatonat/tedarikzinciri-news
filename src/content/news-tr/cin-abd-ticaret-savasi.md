@@ -100,7 +100,6 @@ Yine de bugünün rakamları, <strong>Çin’in küresel üretim merkezindeki ro
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/chinas-1-billion-of-daily-us-exports-show-xis-bargaining-power/"><u>https://gcaptain.com/chinas-1-billion-of-daily-us-exports-show-xis-bargaining-power/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

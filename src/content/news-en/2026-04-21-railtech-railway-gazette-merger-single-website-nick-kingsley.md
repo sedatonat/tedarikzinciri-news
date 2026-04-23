@@ -21,9 +21,6 @@ tags: ["RailFreight.com", "RailTech", "Railway Gazette International", "merger",
 3. RailTech visitors are now redirected to railwaygazette.com.<br>
 4. The RailTech archive (10 years of articles) has moved to Railway Gazette.<br>
 5. Existing RailTech subscribers will receive an equivalent Railway Gazette subscription free of charge.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.railfreight.com/railfreight/2026/04/21/two-of-railfreight-coms-international-rail-sister-publications-merge/"><u>https://www.railfreight.com/railfreight/2026/04/21/two-of-railfreight-coms-international-rail-sister-publications-merge/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

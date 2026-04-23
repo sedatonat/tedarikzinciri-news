@@ -71,7 +71,6 @@ Dünya genelinde <strong>5. seviye otonom araç testleri</strong> hız kazanırk
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://seanews.ru/en/2025/10/24/en-road-map-for-unmanned-road-transport-approved/"><u>https://seanews.ru/en/2025/10/24/en-road-map-for-unmanned-road-transport-approved/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

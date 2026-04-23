@@ -36,4 +36,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/dali-containership-moved-from-baltimore-bridge-ruins/"><u>https://www.porttechnology.org/news/dali-containership-moved-from-baltimore-bridge-ruins/</u></a></p>

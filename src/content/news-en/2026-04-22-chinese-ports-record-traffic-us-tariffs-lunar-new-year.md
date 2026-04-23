@@ -27,9 +27,6 @@ tags: ['Şangay', 'liman', 'Çin', 'tarife', 'ihracat', 'Lunar New Year', 'konte
 3. <strong>Trump</strong> on February 4, 2025, imposed a 10% additional tariff — with another 10% coming March 4.<br>
 4. <strong>SIPG</strong>; <strong>COSCO</strong>; <strong>China Merchants</strong> — represent major Chinese port operators.<br>
 5. Front-loading; increased shipments ahead of tariffs — represents a major trade strategy.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41190-chinese-ports-see-record-traffic-ahead-of-us-tariffs-lunar-new-year"><u>https://www.supplychainbrain.com/articles/41190-chinese-ports-see-record-traffic-ahead-of-us-tariffs-lunar-new-year</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Purchase ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge through this link.</p>

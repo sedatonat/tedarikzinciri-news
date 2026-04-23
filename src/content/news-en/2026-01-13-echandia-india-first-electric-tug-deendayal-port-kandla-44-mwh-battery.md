@@ -23,9 +23,6 @@ tags: ["Echandia", "Kandla Limanı", "Deendayal Port Authority", "elektrikli rö
 3. The 4.4 MWh battery system is designed for a 15-year lifetime.<br>
 4. The system guarantees 30,000 cycles without mid-life replacement.<br>
 5. Ripley Group won the tender; Kongsberg Maritime will serve as system integrator.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/echandia-to-power-indias-first-electric-tug/"><u>https://www.porttechnology.org/echandia-to-power-indias-first-electric-tug/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

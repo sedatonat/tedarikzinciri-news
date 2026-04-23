@@ -47,4 +47,3 @@ tags:
   <li><p>Accenture, özel sermaye için strateji, danışmanlık, teknoloji ve yönetilen hizmetler alanlarında uzmanlık sunuyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://newsroom.accenture.com/news/2024/accenture-to-strengthen-sourcing-and-procurement-services-with-acquisition-of-insight-sourcing"><u>https://newsroom.accenture.com/news/2024/accenture-to-strengthen-sourcing-and-procurement-services-with-acquisition-of-insight-sourcing</u></a></p>

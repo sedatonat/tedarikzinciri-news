@@ -46,7 +46,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/donald-trump-manufacturing-issues-tariffs-taxes-energy-regulation/732650/"><u>https://www.supplychaindive.com/news/donald-trump-manufacturing-issues-tariffs-taxes-energy-regulation/732650/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

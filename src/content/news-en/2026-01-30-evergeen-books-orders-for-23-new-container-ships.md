@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">A record 633 ships were ordered in 2025 alone, representing roughly 5.1 million TEUs of capacity and pushing the global container ship orderbook to around one-third of the existing fleet. From a supply chain perspective, the new tonnage being deployed by Evergreen alongside <strong>Maersk</strong>, <strong>MSC</strong>, <strong>CMA CGM</strong>, <strong>Hapag-Lloyd</strong> and <strong>COSCO</strong> is being priced into <strong>spot</strong> and <strong>contract</strong> rates in a way that will exert structural downward pressure for the next two years. For <strong>BCOs</strong>, this opens a clear window to reassess contract strategies.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43371-evergeen-books-orders-for-23-new-container-ships"><u>https://www.supplychainbrain.com/articles/43371-evergeen-books-orders-for-23-new-container-ships</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

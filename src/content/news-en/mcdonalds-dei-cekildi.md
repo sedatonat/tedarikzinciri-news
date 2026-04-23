@@ -41,7 +41,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/mcdonalds-ends-supplier-diversity-goals/737583/"><u>https://www.supplychaindive.com/news/mcdonalds-ends-supplier-diversity-goals/737583/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>

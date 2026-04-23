@@ -35,7 +35,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://container-news.com/inside-blackrocks-role-in-the-game-changing-port-acquisition-deal/"><u>https://container-news.com/inside-blackrocks-role-in-the-game-changing-port-acquisition-deal/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

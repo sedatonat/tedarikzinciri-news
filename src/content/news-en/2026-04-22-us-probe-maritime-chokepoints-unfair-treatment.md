@@ -27,9 +27,6 @@ tags: ['FMC', 'deniz darboğazları', 'Panama Kanalı', 'Süveyş', 'Hürmüz', 
 3. <strong>Suez</strong>, <strong>Panama</strong>, <strong>Hormuz</strong>, <strong>Malacca</strong>, and <strong>Bab el-Mandeb</strong> are the major chokepoints.<br>
 4. <strong>Houthi</strong> <strong>Red Sea</strong> attacks are reducing <strong>Suez</strong> traffic by 70-80 percent.<br>
 5. The <strong>Panama</strong> drought has reduced daily transits from 36-38 to 22-24.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41370-us-probe-of-maritime-chokepoints-seeks-evidence-of-unfair-treatment"><u>https://www.supplychainbrain.com/articles/41370-us-probe-of-maritime-chokepoints-seeks-evidence-of-unfair-treatment</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>

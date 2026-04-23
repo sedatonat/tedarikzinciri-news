@@ -38,7 +38,6 @@ tags:
   <li><p>Olgunluk geniş ekosisteme yayılıyordır.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42306-cydome-launches-no-cost-tool-for-cyber-incident-reporting" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/42306-cydome-launches-no-cost-tool-for-cyber-incident-reporting</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

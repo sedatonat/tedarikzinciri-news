@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, Scope 3 reporting is becoming mandatory under the <strong>CSRD (Corporate Sustainability Reporting Directive)</strong> and the <strong>SEC Climate Rule</strong>, and combines with food-sector <strong>FLAG (Forest, Land and Agriculture)</strong> targets to create an additional layer of complexity. <strong>Nestlé</strong>, <strong>Unilever</strong>, <strong>Danone</strong> and <strong>PepsiCo</strong> are embedding sustainability data quality into their supplier scorecards. <strong>SAP Sustainability Footprint Management</strong> and <strong>Salesforce Net Zero Cloud</strong> are emerging as the leading platforms in data collection infrastructure.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43825-whats-stopping-food-supply-chains-from-reporting-their-carbon-emissions-data"><u>https://www.supplychainbrain.com/articles/43825-whats-stopping-food-supply-chains-from-reporting-their-carbon-emissions-data</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

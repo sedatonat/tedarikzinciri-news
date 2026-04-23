@@ -22,9 +22,6 @@ tags: ["ISO 6319", "hull cleaning", "biofouling", "Clean Hull Initiative", "Bell
 3. Application reduces invasive species spread while improving vessel efficiency.<br>
 4. The standard was developed under the leadership of the Clean Hull Initiative (CHI) and the Bellona Foundation.<br>
 5. It provides a clear structure for documenting hull-cleaning activities.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/iso-6319-sets-global-standard-for-safe-hull-cleaning-at-ports/"><u>https://www.porttechnology.org/iso-6319-sets-global-standard-for-safe-hull-cleaning-at-ports/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

@@ -68,7 +68,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42918-survey-no-end-in-sight-for-geopolitical-stress-on-europes-supply-chains"><u>https://www.supplychainbrain.com/articles/42918-survey-no-end-in-sight-for-geopolitical-stress-on-europes-supply-chains</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

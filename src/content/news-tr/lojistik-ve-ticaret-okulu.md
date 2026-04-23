@@ -44,7 +44,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/new-dhl-backed-school-of-logistics-and-trade-in-africatown-aims-to-unlock-global-career-and-commerce-opportunities-for-historically-disadvantaged-community/"><u>https://gcaptain.com/new-dhl-backed-school-of-logistics-and-trade-in-africatown-aims-to-unlock-global-career-and-commerce-opportunities-for-historically-disadvantaged-community/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

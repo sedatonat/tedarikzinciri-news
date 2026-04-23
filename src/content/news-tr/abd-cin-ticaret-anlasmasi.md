@@ -92,7 +92,6 @@ Bu mekanizma, 2018’deki ticaret savaşının da yasal dayanağıydı.</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/us-china-2020-trade-deal-section-301-investigation/803772/"><u>https://www.supplychaindive.com/news/us-china-2020-trade-deal-section-301-investigation/803772/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

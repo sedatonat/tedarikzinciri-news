@@ -32,4 +32,3 @@ tags:
   <li><p><strong>NRF Position:</strong> The necessity for parties to reach an agreement and the economic consequences of a strike.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10707-nrf-contract-talks-have-stalled-at-east-coast-and-gulf-coast-ports"><u>https://www.thescxchange.com/articles/10707-nrf-contract-talks-have-stalled-at-east-coast-and-gulf-coast-ports</u></a></p>

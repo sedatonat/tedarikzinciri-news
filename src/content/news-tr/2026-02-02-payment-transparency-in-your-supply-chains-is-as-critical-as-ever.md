@@ -28,9 +28,6 @@ tags:
 <p style="text-align: justify">Faturalar üzerinde görünürlük; en üst öncelik oluyor. Yine de anekdotal olarak; sektör liderleri, finans departmanları, satınalma ekipleri, tedarikçiler ve alıcılar genellikle faturaların durumuna dair net bir görünüme sahip olmadan kendilerini buluyor. Değişen tarifeler, jeopolitik gerilimler ve daha geniş ekonomik belirsizlik; net olmayan ödeme süreçlerinin kademeli etkilerini yalnızca daha da büyütüyor.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında; <strong>e-invoicing</strong> standartlarının (PEPPOL; UBL); <strong>API</strong> tabanlı ödeme bildirim sistemlerinin; ve <strong>supply chain finance</strong> platformlarının (<strong>Taulia</strong>; <strong>Tradeshift</strong>; <strong>C2FO</strong>) yaygınlaşması; ödeme şeffaflığını sistematik biçimde iyileştiriyor. Şeffaflık; sis perdesini dağıtmakta &mdash; tüm taraflar bir faturanın nerede olduğunu kolayca görebildiğinde; tahmin edilemeyen ödeme süreçlerinde &laquo;belirsizlik vergisi&raquo; eklemeyi durduruyor daha iyi konumlanıyor. Sonuç; daha güçlü tedarikçi ilişkileri, daha az ihtilaf ve daha öngörülebilir nakit akışı oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43249-payment-transparency-in-your-supply-chains-is-as-critical-as-ever"><u>https://www.supplychainbrain.com/articles/43249-payment-transparency-in-your-supply-chains-is-as-critical-as-ever</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

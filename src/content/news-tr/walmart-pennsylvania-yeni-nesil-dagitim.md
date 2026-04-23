@@ -36,4 +36,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10279-walmart-opens-fourth-next-generation-fulfillment-center"><u>https://www.thescxchange.com/articles/10279-walmart-opens-fourth-next-generation-fulfillment-center</u></a></p>

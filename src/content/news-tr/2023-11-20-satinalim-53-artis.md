@@ -19,4 +19,3 @@ tags:
 <p>Supply Chain Quarterly Sitesinde yapılan bir araştırmaya göre 2024 'te Satınalma 'da %53 'lük bir artış bekleniyor.</p>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber linki:</strong> <a href="https://www.supplychainquarterly.com/articles/9131-53-of-procurement-leaders-expect-to-increase-their-spending-in-2024"><u>https://www.supplychainquarterly.com/articles/9131-53-of-procurement-leaders-expect-to-increase-their-spending-in-2024</u></a></p>

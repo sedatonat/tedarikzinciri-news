@@ -35,9 +35,6 @@ tags:
 3. <strong>BlackRock</strong>/<strong>GIP</strong>/<strong>TIL</strong>; ana satın alma konsorsiyumu oluyor.<br>
 4. <strong>Panama Kanalı</strong>; küresel deniz ticaretinin %5-6&rsquo;sını taşıyor.<br>
 5. <strong>Trump</strong>; Aralık 2024&rsquo;te &ldquo;kanalı geri almak&rdquo; tehdidi oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41380-hong-kong-adds-criticism-of-panama-canal-ports-deal"><u>https://www.supplychainbrain.com/articles/41380-hong-kong-adds-criticism-of-panama-canal-ports-deal</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

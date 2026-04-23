@@ -35,4 +35,3 @@ tags:
   <li><p>Satın alma, Accenture'ın Avrupa'daki varlığını güçlendirecek.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.thescxchange.com/articles/10709-accenture-acquires-net-zero-infrastructure-consultant-boslan"><u>https://www.thescxchange.com/articles/10709-accenture-acquires-net-zero-infrastructure-consultant-boslan</u></a></p>

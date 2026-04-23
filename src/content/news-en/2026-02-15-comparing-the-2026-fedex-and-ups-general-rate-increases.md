@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">In an environment where volatility has become the norm, parcel pricing can no longer be managed reactively. From a supply chain perspective, this report equips supply chain leaders with the visibility and context needed to challenge assumptions, anticipate cost impacts and build more resilient, margin-aware parcel strategies for 2026 and beyond. Investments in supply chain analytics around <em>dimensional weight</em>, <em>residential surcharge</em> and <em>peak season</em> fees are becoming a defining element of competitive advantage.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43453-comparing-the-2026-fedex-and-ups-general-rate-increases"><u>https://www.supplychainbrain.com/articles/43453-comparing-the-2026-fedex-and-ups-general-rate-increases</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

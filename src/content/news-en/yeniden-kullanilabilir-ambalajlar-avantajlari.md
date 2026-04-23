@@ -48,7 +48,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/dual-case-reusable-transport-packaging-sustainability-cost-48forty-tosca-marrad/732961/"><u>https://www.supplychaindive.com/news/dual-case-reusable-transport-packaging-sustainability-cost-48forty-tosca-marrad/732961/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

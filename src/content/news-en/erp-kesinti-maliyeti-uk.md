@@ -50,7 +50,6 @@ tags:
 <p><br></p>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.warehousinglogisticsinternational.com/erp-downtime-could-cost-uk-ecommerce-firms-more-than-26000-a-day/"><u>https://www.warehousinglogisticsinternational.com/erp-downtime-could-cost-uk-ecommerce-firms-more-than-26000-a-day/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Acquire ERP? Our book has been published on Google Play Books.</strong></p>

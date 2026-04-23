@@ -25,9 +25,6 @@ tags: ["Port of Portland", "Krishna Walker", "CSPLO", "Curtis Robinhold", "appoi
 3. At CareVet, she led legal execution of more than 200 business acquisitions.<br>
 4. She brings senior leadership experience from Rabobank North America.<br>
 5. Executive Director Curtis Robinhold cited her experience as the standout factor.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/port-of-portland-appoints-new-csplo/"><u>https://www.porttechnology.org/port-of-portland-appoints-new-csplo/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

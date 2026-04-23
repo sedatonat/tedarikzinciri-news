@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, rare earth elements are also widely used in advanced weapons systems including fighter jets, guided missiles and communications equipment. <strong>Japan</strong> has been working to reduce its dependence on <strong>China</strong> since the 2010 Senkaku crisis, building strategic stockpiles and partnerships with miners such as <strong>Lynas</strong> (Australia) for downstream players including <strong>Toyota</strong>, <strong>Sony</strong>, <strong>Panasonic</strong>, <strong>Mitsubishi Electric</strong> and <strong>Nidec</strong>. The new ban is accelerating <strong>JOGMEC</strong>-led diversification programs and lifting investment into <strong>Vietnam</strong>, <strong>India</strong> and deep-sea mining projects throughout 2026.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43083-china-bans-dual-use-item-exports-to-japan"><u>https://www.supplychainbrain.com/articles/43083-china-bans-dual-use-item-exports-to-japan</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

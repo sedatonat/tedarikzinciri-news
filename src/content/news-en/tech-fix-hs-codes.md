@@ -38,7 +38,6 @@ tags:
   <li><p>Error and cycle time are reduced.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42148-untangling-the-nightmare-of-hs-codes-with-technology" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/42148-untangling-the-nightmare-of-hs-codes-with-technology</u></a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>

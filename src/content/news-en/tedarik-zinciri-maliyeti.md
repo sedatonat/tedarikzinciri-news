@@ -57,7 +57,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/41145-supply-chain-breaking-point-the-true-cost-of-fragmented-systems"><u>https://www.supplychainbrain.com/articles/41145-supply-chain-breaking-point-the-true-cost-of-fragmented-systems</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Procure ERP?" has been published on Google Play Books.</strong></p>

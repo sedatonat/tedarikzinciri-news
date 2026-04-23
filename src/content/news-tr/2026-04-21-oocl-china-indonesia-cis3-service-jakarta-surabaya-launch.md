@@ -32,9 +32,6 @@ tags:
 3. CIS3 rotasyonu Xiamen, Nansha, Jakarta, Surabaya ve Yantian uğraklarını kapsadı.<br>
 4. Premier Alliance üyesi OOCL; intra-Asya feeder kapasitesini güçlendirme stratejisini sürdürüyor.<br>
 5. Yeni servis Tanjung Priok ve Tanjung Perak terminallerinde haftalık kapasite ekledi.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/oocl-expands-china-indonesia-network-with-cis3/"><u>https://www.porttechnology.org/oocl-expands-china-indonesia-network-with-cis3/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

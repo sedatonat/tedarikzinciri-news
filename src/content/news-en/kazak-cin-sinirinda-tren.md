@@ -53,7 +53,6 @@ tags:
 <p style="text-align: justify"><br></p>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/beltandroad/2025/01/14/the-kazakh-chinese-border-saw-significantly-more-trains-in-2024/"><u>https://www.railfreight.com/beltandroad/2025/01/14/the-kazakh-chinese-border-saw-significantly-more-trains-in-2024/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

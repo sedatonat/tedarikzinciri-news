@@ -31,4 +31,3 @@ tags:
   <li><p>Kara yollarındaki yük taşımacılığı payını yüzde 72'den yüzde 57'ye düşürme niyeti.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.lojiport.com/lojistik-merkez-sayisi-2-katina-cikacak-demiryolunun-payi-artacak-116272h.htm"><u>https://www.lojiport.com/lojistik-merkez-sayisi-2-katina-cikacak-demiryolunun-payi-artacak-116272h.htm</u></a></p>

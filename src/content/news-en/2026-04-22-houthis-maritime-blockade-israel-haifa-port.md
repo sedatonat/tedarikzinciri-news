@@ -27,9 +27,6 @@ tags: ['Husiler', 'İsrail', 'Hayfa', 'deniz blokajı', 'Yemen', 'Kızıldeniz',
 3. <strong>Adani Group</strong> acquired <strong>Haifa</strong> port for $1.18 billion in 2023.<br>
 4. <strong>Red Sea</strong> traffic has declined over 50 percent from the <strong>Suez Canal</strong> — diverting to the <strong>Cape</strong> route.<br>
 5. <strong>Lloyd's JWC</strong> designates <strong>Red Sea</strong> and <strong>Israeli</strong> waters as "Listed Areas."</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41840-houthis-declare-maritime-blockade-on-israels-haifa-port"><u>https://www.supplychainbrain.com/articles/41840-houthis-declare-maritime-blockade-on-israels-haifa-port</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it free through this link.</p>

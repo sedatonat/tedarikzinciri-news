@@ -35,9 +35,6 @@ tags:
 3. <strong>Network Rail</strong>; pilot ortağı olarak yer alıyor.<br>
 4. Drone&rsquo;lar; izinsiz girişleri tespit ederek tren gecikmelerini azaltıyor.<br>
 5. Enerji; savunma; sınır yönetimi; sonraki uygulama alanları oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41970-uk-gives-permission-for-drones-to-patrol-railways"><u>https://www.supplychainbrain.com/articles/41970-uk-gives-permission-for-drones-to-patrol-railways</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

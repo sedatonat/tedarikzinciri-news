@@ -29,4 +29,3 @@ tags:
   <li><p>ABD ve Avrupa, Çin dışındaki kaynaklardan antimuan tedariki arayışında.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/40215-china-to-limit-exports-of-mineral-used-in-batteries-and-weapons"><u>https://www.supplychainbrain.com/articles/40215-china-to-limit-exports-of-mineral-used-in-batteries-and-weapons</u></a></p>

@@ -40,7 +40,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://container-news.com/russian-strikes-hit-msc-ship-in-odessa/"><u>https://container-news.com/russian-strikes-hit-msc-ship-in-odessa/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

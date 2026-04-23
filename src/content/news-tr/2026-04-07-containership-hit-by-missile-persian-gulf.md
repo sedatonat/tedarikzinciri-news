@@ -36,9 +36,6 @@ tags:
 3. Çevresel etki bildirilmemekte; yetkililer soruşturma yürütüyor.<br>
 4. <strong>UKMTO</strong>; <strong>Royal Navy</strong>&rsquo;nin <strong>Dubai</strong> merkezli ofisi oluyor.<br>
 5. Konteyner sektörü; <strong>tanker</strong> odaklı tehdit algısının ötesinde doğrudan hedef oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43798-containership-hit-by-missile-in-persian-gulf"><u>https://www.supplychainbrain.com/articles/43798-containership-hit-by-missile-in-persian-gulf</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

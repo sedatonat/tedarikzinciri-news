@@ -38,7 +38,6 @@ tags:
 </ul>
 <p style="text-align: justify"><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/china-ministry-commerce-pvh-improper-behavior/737979/"><u>https://www.supplychaindive.com/news/china-ministry-commerce-pvh-improper-behavior/737979/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Acquire ERP? Our book has been published on Google Play Books.</strong></p>

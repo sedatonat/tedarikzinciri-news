@@ -56,7 +56,6 @@ and emphasized that the Group's East Port Said Terminal investment forms part of
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://en.portnews.ru/news/384992/"><u>https://en.portnews.ru/news/384992/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

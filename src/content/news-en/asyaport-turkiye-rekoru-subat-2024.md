@@ -32,4 +32,3 @@ tags:
   <li><p>Asyaport aims to improve operational efficiency and customer satisfaction through continuous investments.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.lojiport.com/asyaport-aylik-elleclemede-turkiye-rekorunu-kirdi-116354h.htm"><u>https://www.lojiport.com/asyaport-aylik-elleclemede-turkiye-rekorunu-kirdi-116354h.htm</u></a></p>

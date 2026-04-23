@@ -29,4 +29,3 @@ tags:
   <li><p>Yatırımlar, sadece maliyet optimizasyonu yerine uzun vadeli büyüme ve yeniliklere odaklanmalı.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10736-why-you-may-not-be-getting-your-planned-value-out-of-your-tech-investment"><u>https://www.thescxchange.com/articles/10736-why-you-may-not-be-getting-your-planned-value-out-of-your-tech-investment</u></a></p>

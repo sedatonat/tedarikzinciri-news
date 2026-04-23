@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Yükleten harcamasındaki artış aynı zamanda üç yılın ardından gerçekleşiyor olan ilk yıllık yukarı yönlü hareket oluyor. Bu durum; daralıyor olan kapasitenin tüm karayolu pazarında nasıl ücret artışlarını tetikliyor olduğunu vurguluyor. U.S. Bank; harcama artışlarının daha yüksek yakıt maliyetlerinden kaynaklanıyor olmasının olası bulunmuyor olduğunu belirtiyor. Tedarik zinciri perspektifinden bakıldığında bu döngü; perakendecilerin <strong>Walmart</strong> ve <strong>Amazon</strong> gibi büyük yükleten şirketlerin tedarikçi ücret modellerini yeniden müzakere etmek zorunda bulunuyor olacaklarını işaret ediyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43409-shippers-feel-the-squeeze-as-trucking-capacity-tightens"><u>https://www.supplychainbrain.com/articles/43409-shippers-feel-the-squeeze-as-trucking-capacity-tightens</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">The competitive gap is widening. <strong>CargoWise Landslide</strong> brings these capabilities together in a single environment. Rates, dispatch, visibility, invoicing and transformation support all live in one place. Operators avoid the cost and complexity of patchwork systems and gain a foundation built for the future. From a supply chain perspective, in a market where digital leaders set the pace, postponing platform investment is no longer a sustainable competitive strategy for drayage carriers.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42912-drayage-best-practices-five-tips-to-elevate-operations"><u>https://www.supplychainbrain.com/articles/42912-drayage-best-practices-five-tips-to-elevate-operations</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

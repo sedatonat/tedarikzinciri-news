@@ -34,7 +34,6 @@ tags:
 <p>4. Counter-UAS solutions are increasing in importance.</p>
 <p>5. Operational flexibility mitigates risks.</p>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42615-munich-airport-reopens-after-drone-scare"><u>https://www.supplychainbrain.com/articles/42615-munich-airport-reopens-after-drone-scare</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>

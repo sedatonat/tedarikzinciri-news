@@ -85,7 +85,6 @@ The rising role of China, ASEAN, the EU, and Africa signals that the future of w
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.thescxchange.com/move/dhl-global-trade-has-flourished-even-as-u-s-tariffs-rocked-american-trade"><u>https://www.thescxchange.com/move/dhl-global-trade-has-flourished-even-as-u-s-tariffs-rocked-american-trade</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

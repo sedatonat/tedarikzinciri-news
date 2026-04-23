@@ -33,10 +33,6 @@ tags:
 3. Yetki dağıtımı çevik tepkiyi hızlandırıyor.<br>
 4. Finansal disiplin şokları yumuşatıyor.<br>
 5. Dayanıklılık inovasyonu tetikliyor.</p>
-<p><br>
----<br>
-<strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/38356-supply-chain-resiliency-driving-innovation-through-evolution"><u>https://www.supplychainbrain.com/articles/38356-supply-chain-resiliency-driving-innovation-through-evolution</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

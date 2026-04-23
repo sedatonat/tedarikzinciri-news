@@ -59,7 +59,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/why-supply-chains-should-invest-not-just-react-to-tariffs"><u>https://www.supplychain247.com/article/why-supply-chains-should-invest-not-just-react-to-tariffs</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Procure ERP?" has been published on Google Play Books.</strong></p>

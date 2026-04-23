@@ -84,7 +84,6 @@ için bölgedeki en kritik düğüm noktası konumunda.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/ukraine-hits-novorossiysk-knocking-out-2-of-global-oil-supply/"><u>https://gcaptain.com/ukraine-hits-novorossiysk-knocking-out-2-of-global-oil-supply/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -29,9 +29,6 @@ tags:
 3. Singapur, Fujairah ve Rotterdam bunker terminallerinde fiyatlar çift haneli arttı.<br>
 4. Körfez petrol arzının hızlı telafisi mümkün değil; Sahra altı Afrika ve ABD Körfezi için aylar gerekiyor.<br>
 5. Sektör; uzun vadeli bunker sözleşmeleri ve stratejik yedek stok stratejilerini gündeme aldı.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.joc.com/article/bunker-fuel-shortages-loom-after-us-counter-blocks-strait-of-hormuz-6204678"><u>https://www.joc.com/article/bunker-fuel-shortages-loom-after-us-counter-blocks-strait-of-hormuz-6204678</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

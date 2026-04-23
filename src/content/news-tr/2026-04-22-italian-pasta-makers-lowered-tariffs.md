@@ -36,9 +36,6 @@ tags:
 3. <strong>Italy</strong> hükümeti; 1 Ocak&rsquo;ta açıklamayı yapıyor.<br>
 4. 13 üretici; <strong>Barilla</strong>; <strong>La Molisana</strong>; <strong>Pastificio Lucio Garofalo</strong> dahil suçlama altında oluyor.<br>
 5. Mevcut %15 tarife üzerine ek %2-4 oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43070-italian-pasta-makers-to-get-lower-extra-tariffs-after-all"><u>https://www.supplychainbrain.com/articles/43070-italian-pasta-makers-to-get-lower-extra-tariffs-after-all</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

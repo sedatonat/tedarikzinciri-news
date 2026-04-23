@@ -47,7 +47,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/hapag-lloyd-buyout-offer-for-zim-unlikely-to-get-far-report-6128796"><u>https://www.joc.com/article/hapag-lloyd-buyout-offer-for-zim-unlikely-to-get-far-report-6128796</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

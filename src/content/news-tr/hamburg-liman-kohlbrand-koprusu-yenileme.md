@@ -31,4 +31,3 @@ tags:
   <li><p>Mevcut köprü, yeni köprü tamamlanana kadar kullanılmaya devam edilecek.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/hamburg-senate-advocates-for-kohlbrand-bridge-replacement/"><u>https://www.porttechnology.org/news/hamburg-senate-advocates-for-kohlbrand-bridge-replacement/</u></a></p>

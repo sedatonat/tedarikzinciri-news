@@ -23,9 +23,6 @@ tags: ["Long Beach Container Terminal", "TT Club", "iş güvenliği", "intermoda
 3. Six intermodal yard cranes handle containers across eight working tracks.<br>
 4. Falling twist locks, debris and crane components are the key risk factors for ground personnel.<br>
 5. The system combining sensors with physical barriers offers a benchmark model for intermodal rail safety.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/long-beach-container-terminal-safety-innovation/"><u>https://www.porttechnology.org/long-beach-container-terminal-safety-innovation/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

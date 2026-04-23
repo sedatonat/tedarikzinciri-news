@@ -42,7 +42,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/suez-diversions-lack-of-imo-agreement-put-2030-emissions-targets-at-risk-5916392"><u>https://www.joc.com/article/suez-diversions-lack-of-imo-agreement-put-2030-emissions-targets-at-risk-5916392</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

@@ -28,9 +28,6 @@ tags: ['WMS', 'ajansal yapay zeka', 'Logistics Reply', 'Todd Kolber', 'depo yön
 3. The concept of "<strong>orchestrate</strong>" is key to coordinating all resources and technologies.<br>
 4. Real-time data exceeds human decision-making capacity; <strong>AI</strong> and <strong>agentic AI</strong> play a critical role.<br>
 5. <strong>AI</strong> enables achievement of daily goals at optimal cost.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43893-watch-optimizing-wms-orchestration-with-agentic-ai"><u>https://www.supplychainbrain.com/articles/43893-watch-optimizing-wms-orchestration-with-agentic-ai</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

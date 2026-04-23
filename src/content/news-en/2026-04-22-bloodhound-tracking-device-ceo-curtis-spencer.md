@@ -28,9 +28,6 @@ tags: ['Bloodhound Tracking', 'kargo hırsızlığı', 'IoT tracking', 'IANA', '
 3. <strong>Bloodhound Tracking Device</strong> provides covert <strong>GPS</strong>-based cargo trackers.<br>
 4. U.S. cargo theft in 2024 recorded 3,798 incidents with $455M in stolen goods.<br>
 5. <strong>Strategic theft</strong> has become the leading theft category.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42610-bonus-episode-a-conversation-with-bloodhound-tracking-device-ceo-curtis-spencer"><u>https://www.supplychainbrain.com/articles/42610-bonus-episode-a-conversation-with-bloodhound-tracking-device-ceo-curtis-spencer</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Select ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge via this link.</p>

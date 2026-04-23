@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">As a result, many companies now operate <strong>hybrid supply chains</strong>. From a supply chain perspective, patent filings made with the <strong>CNIPA (China National Intellectual Property Administration)</strong> serve as a structural shield in both technology transfer and domestic partnership models. Players such as <strong>Apple</strong>, <strong>Tesla</strong>, <strong>BASF</strong> and <strong>Bosch</strong> are treating their Chinese patent portfolios as strategic supply chain assets. <strong>Trade secret</strong> protection frameworks and <strong>WFOE (Wholly Foreign-Owned Enterprise)</strong> structures are becoming critical decision variables in manufacturing partner selection.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/43716-beyond-tariffs-why-chinese-patents-have-become-supply-chain-assets"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/43716-beyond-tariffs-why-chinese-patents-have-become-supply-chain-assets</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

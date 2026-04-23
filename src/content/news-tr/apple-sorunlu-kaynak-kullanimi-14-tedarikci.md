@@ -34,4 +34,3 @@ tags:
   <li><p>Apple, tedarik zincirinden bir tedarikçiyi çıkarmayı son çare olarak görüyordir.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychaindive.com/news/apple-cuts-14-suppliers-conflict-minerals/714301/"><u>https://www.supplychaindive.com/news/apple-cuts-14-suppliers-conflict-minerals/714301/</u></a></p>

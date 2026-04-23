@@ -82,7 +82,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://splash247.com/new-anti-corruption-campaign-rolls-out-across-asian-and-european-hubs/"><u>https://splash247.com/new-anti-corruption-campaign-rolls-out-across-asian-and-european-hubs/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

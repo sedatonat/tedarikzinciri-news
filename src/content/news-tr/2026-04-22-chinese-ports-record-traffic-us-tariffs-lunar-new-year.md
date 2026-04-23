@@ -35,9 +35,6 @@ tags:
 3. <strong>Trump</strong> 4 Şubat 2025; %10 ek tarif &mdash; 4 Mart ek %10 oluyor.<br>
 4. <strong>SIPG</strong>; <strong>COSCO</strong>; <strong>China Merchants</strong>; ana Çin liman operatörleri oluyor.<br>
 5. <strong>Front-loading</strong>; tarif öncesi sevkiyat artışı &mdash; ana ticaret stratejisi oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41190-chinese-ports-see-record-traffic-ahead-of-us-tariffs-lunar-new-year"><u>https://www.supplychainbrain.com/articles/41190-chinese-ports-see-record-traffic-ahead-of-us-tariffs-lunar-new-year</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

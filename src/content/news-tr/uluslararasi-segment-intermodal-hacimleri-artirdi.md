@@ -30,4 +30,3 @@ tags:
   <li><p>Federal Rezerv'in kararları, gelecekteki büyümeyi belirleyecek.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10645-intermodal-volumes-buoyed-by-international-segment"><u>https://www.thescxchange.com/articles/10645-intermodal-volumes-buoyed-by-international-segment</u></a></p>

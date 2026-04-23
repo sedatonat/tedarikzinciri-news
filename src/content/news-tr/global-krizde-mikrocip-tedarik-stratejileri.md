@@ -35,4 +35,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/39483-three-steps-to-securing-microchip-supply-in-a-chaotic-global-market"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/39483-three-steps-to-securing-microchip-supply-in-a-chaotic-global-market</u></a></p>

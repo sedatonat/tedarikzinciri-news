@@ -42,7 +42,6 @@ tags:
   <li><p>It can serve sectors including oil and gas, wind energy, and deep-sea minerals.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/ad-ports-launches-unmanned-vessel-for-offshore-operations/"><u>https://www.porttechnology.org/news/ad-ports-launches-unmanned-vessel-for-offshore-operations/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Get ERP?" has been published on Google Play Books.</strong></p>

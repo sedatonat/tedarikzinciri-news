@@ -31,9 +31,6 @@ tags:
 3. Yeni saha East Med Hub 2 (EMH2) adıyla bilinen genişleme bölgesinde konuşlandırıldı.<br>
 4. EMH2'de 4 adet STS vinci ve 14 adet tam otomatik aRMG vinci faaliyete geçti.<br>
 5. Yatırım, Mersin'in Doğu Akdeniz'deki transit merkezi konumunu güçlendirecek.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/mersin-port-to-launch-turkiyes-first-fully-automated-container-terminal/"><u>https://www.porttechnology.org/news/mersin-port-to-launch-turkiyes-first-fully-automated-container-terminal/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

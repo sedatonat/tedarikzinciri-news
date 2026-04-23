@@ -31,4 +31,3 @@ tags:
   <li><p><strong>International Relations and Reputation</strong>: The voyage of the Gözde Bayraktar vessel, flying the Turkish flag, can enhance Turkey's reputation and credibility in international commerce.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.lojiport.com/giresun-limaninda-ilk-konteyner-tasimaciligi-heyecani-115954h.htm"><u>https://www.lojiport.com/giresun-limaninda-ilk-konteyner-tasimaciligi-heyecani-115954h.htm</u></a></p>

@@ -35,9 +35,6 @@ tags:
 3. <strong>U.S.</strong> %19 tarife uyguluyor &mdash; Ağustos&rsquo;tan itibaren yürürlüğe giriyor.<br>
 4. Elektronik ihracat %15 büyüyor; <strong>China</strong> ve <strong>Taiwan</strong> ihracat dengeleyici oluyor.<br>
 5. <strong>Mohd Afzanizam</strong>; 2026&rsquo;da etkinin daha granüler oluyor bekliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43030-malaysias-export-growth-slows-as-trade-with-us-declines"><u>https://www.supplychainbrain.com/articles/43030-malaysias-export-growth-slows-as-trade-with-us-declines</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

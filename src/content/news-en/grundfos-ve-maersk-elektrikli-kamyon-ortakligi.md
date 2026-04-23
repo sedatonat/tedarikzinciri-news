@@ -41,7 +41,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://container-news.com/grundfos-partners-with-maersk-to-drive-electric-truck-deployment/"><u>https://container-news.com/grundfos-partners-with-maersk-to-drive-electric-truck-deployment/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book has been published on Google Play Books.</strong></p>

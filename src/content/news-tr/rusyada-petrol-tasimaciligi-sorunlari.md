@@ -50,7 +50,6 @@ tags:
 <p><br></p>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/business/2025/02/14/up-to-40-of-russian-oil-not-reaching-the-rails-russian-railways-and-oil-companies-blame-one-another/"><u>https://www.railfreight.com/business/2025/02/14/up-to-40-of-russian-oil-not-reaching-the-rails-russian-railways-and-oil-companies-blame-one-another/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

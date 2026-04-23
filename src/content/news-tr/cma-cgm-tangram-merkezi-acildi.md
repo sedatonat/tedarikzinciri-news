@@ -36,4 +36,3 @@ tags:
   <li><p>"İklim", "yapay zeka", "liderlik" temalı eğitim programları mevcut.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10244-cma-cgm-launches-training-and-innovation-center"><u>https://www.thescxchange.com/articles/10244-cma-cgm-launches-training-and-innovation-center</u></a></p>

@@ -25,9 +25,6 @@ tags: ["Port of Gothenburg", "Skandia Gateway", "Boskalis", "dredging", "Sweden"
 3. Boskalis was selected after a competitive tender involving five bidders.<br>
 4. Project Manager Jan Andersson called Boskalis a 'highly competent contractor.'<br>
 5. Quay reinforcement works completed in 2024 are a prerequisite for the dredging phase.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/port-of-gothenburg-awards-22-million-dredging-contract/"><u>https://www.porttechnology.org/port-of-gothenburg-awards-22-million-dredging-contract/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

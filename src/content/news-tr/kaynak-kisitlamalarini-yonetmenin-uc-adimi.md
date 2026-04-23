@@ -42,4 +42,3 @@ tags:
   <li><p>Tedarik zinciri liderleri stratejilerini üç kategoriye odaklamalıdır: uzun vadeli kısıtlamaları öncelik sırasından çıkarmak, çözümler tasarlamak için uzun vadeli kısıtlamaları yeniden önceliklendirmek ve pazarı öğrenmek ve yenilik yapmak için kullanmak.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10401-gartner-names-three-steps-to-mitigate-long-term-resource-constraints"><u>https://www.thescxchange.com/articles/10401-gartner-names-three-steps-to-mitigate-long-term-resource-constraints</u></a></p>

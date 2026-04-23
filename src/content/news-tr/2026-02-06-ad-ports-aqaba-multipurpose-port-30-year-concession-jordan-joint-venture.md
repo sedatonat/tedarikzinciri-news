@@ -31,9 +31,6 @@ tags:
 3. Ortak Girişim'de AD Ports yüzde 70, ADC yüzde 30 paya sahip olacak.<br>
 4. AD Ports yatırım taahhüdü 141 milyon AED (38,4 milyon dolar) seviyesinde.<br>
 5. Operasyonun resmen Ağustos ayında devralınması ve Kızıldeniz koridorunda stratejik bir genişleme planlanıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/ad-ports-signs-aqaba-multipurpose-port-concession/"><u>https://www.porttechnology.org/ad-ports-signs-aqaba-multipurpose-port-concession/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

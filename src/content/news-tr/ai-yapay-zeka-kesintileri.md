@@ -45,7 +45,6 @@ tags:
   <li><p>Yönetişim olmadan değer sürdürülebilir olmuyordır.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42309-how-ai-can-turn-supply-chain-disruptions-into-bumps-rather-than-sinkholes" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42309-how-ai-can-turn-supply-chain-disruptions-into-bumps-rather-than-sinkholes</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

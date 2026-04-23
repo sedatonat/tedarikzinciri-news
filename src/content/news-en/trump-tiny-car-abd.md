@@ -76,7 +76,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/trump-approves-tiny-cars-us-manufacturing"><u>https://www.supplychain247.com/article/trump-approves-tiny-cars-us-manufacturing</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

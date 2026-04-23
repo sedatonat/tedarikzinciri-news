@@ -43,7 +43,6 @@ tags:
   <li><p>LR will develop a new digital transformation consulting service for its customers.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/lr-establishes-platform-to-drive-digital-maturity-in-maritime/"><u>https://www.porttechnology.org/news/lr-establishes-platform-to-drive-digital-maturity-in-maritime/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>

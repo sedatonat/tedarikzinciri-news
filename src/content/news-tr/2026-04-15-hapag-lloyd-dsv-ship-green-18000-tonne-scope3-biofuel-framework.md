@@ -32,9 +32,6 @@ tags:
 3. Anlaşma, well-to-wake bazda hesaplanıyor ve 2026'dan itibaren geçerli.<br>
 4. Book-and-claim modeli, fiziksel yakıt tahsisinden bağımsız emisyon tasarrufu tahsisine imkân veriyor.<br>
 5. Çerçeve, gelecekte ek sürdürülebilir yakıt türlerinin dahil edilmesine açık.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/hapag-lloyd-dsv-seal-18000-tonne-scope-3-biofuel-deal/"><u>https://www.porttechnology.org/hapag-lloyd-dsv-seal-18000-tonne-scope-3-biofuel-deal/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

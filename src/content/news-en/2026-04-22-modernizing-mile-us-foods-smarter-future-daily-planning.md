@@ -27,9 +27,6 @@ tags: ['US Foods', 'Descartes', 'rota planlama', 'foodservice', 'özel filo', 'T
 3. <strong>Tribal knowledge</strong> capture is a core modernization objective.<br>
 4. <strong>Sysco</strong>, <strong>PFG</strong>, and <strong>GFS</strong> are the major U.S. foodservice competitors.<br>
 5. <strong>HACCP</strong>, <strong>FSMA</strong>, and <strong>HOS</strong> are the primary operational compliance frameworks.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41470-modernizing-the-mile-us-foods-builds-a-smarter-future-for-daily-planning"><u>https://www.supplychainbrain.com/articles/41470-modernizing-the-mile-us-foods-builds-a-smarter-future-for-daily-planning</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>

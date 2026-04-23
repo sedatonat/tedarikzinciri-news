@@ -42,7 +42,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/fmc-highlights-panama-canals-importance-to-us-economy/"><u>https://www.porttechnology.org/news/fmc-highlights-panama-canals-importance-to-us-economy/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

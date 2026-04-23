@@ -45,7 +45,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/40926-mexico-announces-increased-tariffs-on-apparel-imports"><u>https://www.supplychainbrain.com/articles/40926-mexico-announces-increased-tariffs-on-apparel-imports</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Acquire ERP? Our Book Has Been Published on Google Play Books.</strong></p>

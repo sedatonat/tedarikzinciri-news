@@ -36,9 +36,6 @@ tags:
 3. Yıllık 600 milyon dolar işletme geliri ve 8.400 istihdam öngörülüyor.<br>
 4. <strong>MSC</strong>, doğrudan yabancı yatırım modeliyle projede yer alıyor.<br>
 5. <strong>Misrata Free Zone</strong>, <strong>Libya</strong>&rsquo;nın petrol dışı ticaretinin %60&rsquo;ını yönetiyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43282-libya-in-multinational-27-billion-deal-to-develop-misrata-zone"><u>https://www.supplychainbrain.com/articles/43282-libya-in-multinational-27-billion-deal-to-develop-misrata-zone</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

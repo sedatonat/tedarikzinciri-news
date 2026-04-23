@@ -49,7 +49,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/us-gulf-coast-ports-expanding-to-handle-continued-volume-growth-5911512"><u>https://www.joc.com/article/us-gulf-coast-ports-expanding-to-handle-continued-volume-growth-5911512</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

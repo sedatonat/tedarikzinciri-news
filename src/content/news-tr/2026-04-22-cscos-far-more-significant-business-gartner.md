@@ -35,9 +35,6 @@ tags:
 3. <strong>CSCO</strong>; &ldquo;trucks and sheds&rdquo;ten müşteri-odaklı role geçecek.<br>
 4. Üç büyük değişim alanı: insanlar; AI ve müşteriler.<br>
 5. <strong>Gartner Supply Chain Symposium/XPO Orlando</strong>; ana endüstri etkinliği oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41720-cscos-will-become-far-more-significant-in-business-says-gartner"><u>https://www.supplychainbrain.com/articles/41720-cscos-will-become-far-more-significant-in-business-says-gartner</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

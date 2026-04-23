@@ -71,7 +71,6 @@ The new terms of application are as follows:</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://container-news.com/cma-cgm-postpones-implementation-of-low-water-surcharge-for-manaus/"><u>https://container-news.com/cma-cgm-postpones-implementation-of-low-water-surcharge-for-manaus/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -29,4 +29,3 @@ tags:
   <li><p>Havaalanı kapanmaları ve uçuş iptalleri büyük ölçüde ekonomik zararı artırdı.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10715-hurricane-debby-caused-28-billion-in-damage-and-economic-loss"><u>https://www.thescxchange.com/articles/10715-hurricane-debby-caused-28-billion-in-damage-and-economic-loss</u></a></p>

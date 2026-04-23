@@ -70,7 +70,6 @@ gather feedback from all stakeholders.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://en.portnews.ru/news/384350/"><u>https://en.portnews.ru/news/384350/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

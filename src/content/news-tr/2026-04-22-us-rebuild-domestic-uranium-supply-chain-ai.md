@@ -35,9 +35,6 @@ tags:
 3. <strong>Russia</strong>; <strong>Biden</strong> tarafından Ağustos 2024&rsquo;te yasaklanmakta.<br>
 4. <strong>Trump</strong>; nükleer kapasiteyi 2050&rsquo;ye kadar dört katına çıkarıyor vaat ediyor.<br>
 5. Tedarik zinciri 5 bileşenden oluşuyor: madencilik; öğütme; dönüştürme; zenginleştirme; yakıt üretimi.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43100-to-support-ai-development-the-us-needs-to-rebuild-its-domestic-uranium-supply-chain"><u>https://www.supplychainbrain.com/articles/43100-to-support-ai-development-the-us-needs-to-rebuild-its-domestic-uranium-supply-chain</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

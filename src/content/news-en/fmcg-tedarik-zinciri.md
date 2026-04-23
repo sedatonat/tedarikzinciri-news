@@ -46,7 +46,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Integrated and secure digital ecosystems enable fast decision-making and agility.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/42967-futureproofing-fast-moving-consumer-goods-fmcg-supply-chains-a-game-plan-for-navigating-global-disruption"><u>https://www.supplychainbrain.com/articles/42967-futureproofing-fast-moving-consumer-goods-fmcg-supply-chains-a-game-plan-for-navigating-global-disruption</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

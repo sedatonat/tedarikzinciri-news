@@ -28,9 +28,6 @@ tags:
 4. Workshops pratik deneyim sunar.<br>
 5. Program sektörde çeşitliliği teşvik eder.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42216-girl-scouts-of-the-usa-and-dhl-supply-chain-introduce-logistics-program-for-girls"><u>https://www.supplychainbrain.com/articles/42216-girl-scouts-of-the-usa-and-dhl-supply-chain-introduce-logistics-program-for-girls</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

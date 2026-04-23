@@ -29,9 +29,6 @@ tags:
 3. Class 99; hem elektrikli hem de elektrikli olmayan rotalarda çalışabilen hibrit tasarıma sahip.<br>
 4. Hibrit tasarım; emisyonları yüzde 50'nin üzerinde azaltıyor.<br>
 5. Felixstowe; İngiltere'nin en büyük intermodal hub'ı olarak günlük en fazla demiryolu hizmeti işliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/port-of-felixstowe-debuts-class-99-hybrid-locomotives/"><u>https://www.porttechnology.org/port-of-felixstowe-debuts-class-99-hybrid-locomotives/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

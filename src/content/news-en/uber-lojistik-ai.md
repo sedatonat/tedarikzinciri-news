@@ -60,7 +60,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.scmr.com/article/beyond-the-algorithm-how-uber-freight-is-using-ai-to-redefine-logistics"><u>https://www.scmr.com/article/beyond-the-algorithm-how-uber-freight-is-using-ai-to-redefine-logistics</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book on How to Choose an ERP System Has Been Published on Google Play Books.</strong></p>

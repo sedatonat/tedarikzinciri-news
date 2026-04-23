@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Trump'a göre yeni standartlar «10 milyar ABD dolarını aşan kırsal ekonomik fayda yarattı ve tahmini 100.000 yeni iş yarattı». Tedarik zinciri perspektifinden bakıldığında bu tedbirler, ABD tarım emtiası akışlarının küresel jeopolitik şoklara karşı kırılgan kaldığını vurguladı. Soya, mısır, buğday ve et tedarik zincirleri; navlun maliyetleri, gübre fiyatları ve dış pazar erişimi gibi çok katmanlı baskılarla karşılaştı; bu tablo, hükümet desteğinin kısa vadede süreceğine işaret etti.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43747-trump-unveils-new-loan-guarantees-for-beleaguered-farmers"><u>https://www.supplychainbrain.com/articles/43747-trump-unveils-new-loan-guarantees-for-beleaguered-farmers</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

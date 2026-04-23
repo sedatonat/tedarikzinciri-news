@@ -43,4 +43,3 @@ tags:
   <li><p>Various strategies are being developed to address container oversupply.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.scmr.com/article/global-container-shipping-industry-sets-sights-on-tech-investment-capacity"><u>https://www.scmr.com/article/global-container-shipping-industry-sets-sights-on-tech-investment-capacity</u></a></p>

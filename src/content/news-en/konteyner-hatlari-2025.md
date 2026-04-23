@@ -41,7 +41,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/continued-volatility-to-keep-container-line-profits-on-course-in-2025-5911923"><u>https://www.joc.com/article/continued-volatility-to-keep-container-line-profits-on-course-in-2025-5911923</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>

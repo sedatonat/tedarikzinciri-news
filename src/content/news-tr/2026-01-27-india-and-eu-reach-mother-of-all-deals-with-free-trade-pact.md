@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında <strong>AB</strong> yetkilileri; anlaşmayı &mdash; <strong>Trump</strong> yönetiminin tarifelerinin ekonomileri sarsmakta ve dünya çapındaki ana ortaklarla ticari ilişkileri zorluyor olduğu bir dönemde &mdash; artıyor jeopolitik ve tedarik zinciri dalgalanmasını dengelemek için stratejik bir zorunluluk olarak çerçevelemekte. Anlaşma; <strong>Tata</strong>, <strong>Reliance</strong>, <strong>Mahindra</strong>, <strong>Wipro</strong>, <strong>Infosys</strong> gibi Hint devlerine Avrupa pazarına genişletilmiş erişim sağlarken; <strong>Volkswagen</strong>, <strong>Stellantis</strong>, <strong>Mercedes-Benz</strong>, <strong>L&rsquo;Oréal</strong>, <strong>BASF</strong> gibi Avrupalı şirketlere de 1,4 milyarlık Hint tüketici tabanına daha rekabetçi giriş kapısı açıyor. <strong>Çin+1</strong> diversifikasyon stratejisinin merkezine <strong>Hindistan</strong>&rsquo;ı yerleştiriyor &mdash; <strong>Mumbai</strong>, <strong>Chennai</strong>, <strong>Mundra</strong>, <strong>JNPT</strong> gibi büyük limanlarda Avrupa yönlü konteyner trafiğinin 2026-2030 döneminde keskin biçimde artması bekleniyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43350-india-and-eu-reach-mother-of-all-deals-with-free-trade-pact"><u>https://www.supplychainbrain.com/articles/43350-india-and-eu-reach-mother-of-all-deals-with-free-trade-pact</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

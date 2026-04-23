@@ -36,4 +36,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/sc-ports-to-resume-ops-after-software-issue/"><u>https://www.porttechnology.org/news/sc-ports-to-resume-ops-after-software-issue/</u></a></p>

@@ -58,7 +58,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/dp-world-welcomes-new-wan-hai-lines-service-in-turkiye/"><u>https://www.porttechnology.org/news/dp-world-welcomes-new-wan-hai-lines-service-in-turkiye/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

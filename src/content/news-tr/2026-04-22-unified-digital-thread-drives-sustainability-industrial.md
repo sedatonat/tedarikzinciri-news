@@ -35,9 +35,6 @@ tags:
 3. <strong>Aras Innovator</strong>; <strong>Airbus</strong>; <strong>Honda</strong>; <strong>GM</strong>; <strong>Hitachi</strong> tarafından kullanılıyor.<br>
 4. <strong>EU CSRD</strong>; <strong>CSDDD</strong>; <strong>CBAM</strong>; ana zorlayıcı düzenlemeler oluyor.<br>
 5. <strong>Digital Product Passport</strong>; 2027&rsquo;ye kadar piller ve tekstil için zorunlu oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41700-a-unified-digital-thread-drives-sustainability-in-industrial-companies"><u>https://www.supplychainbrain.com/articles/41700-a-unified-digital-thread-drives-sustainability-in-industrial-companies</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

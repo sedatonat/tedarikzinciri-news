@@ -52,7 +52,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/united-states-ukraine-rare-earth-minerals-deal-supply-chain-impact"><u>https://www.supplychain247.com/article/united-states-ukraine-rare-earth-minerals-deal-supply-chain-impact</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>

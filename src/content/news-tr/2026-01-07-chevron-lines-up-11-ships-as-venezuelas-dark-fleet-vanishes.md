@@ -29,9 +29,6 @@ tags:
 <p style="text-align: justify"><strong>Chevron</strong>; Karayipler'deki yoğun ABD askeri varlığı altında en az 12 Venezuela bağlantılı geminin geri dönmesine rağmen petrol yüklemeye devam ediyor. Yaptırım altındaki petrolün taşınmasında kullanılan iki tanker; ABD deniz ablukasında yakalanmakta. ABD; CBS News'e göre <em>Marinera</em> veya <em>Bella 1</em> olarak bilinen üçüncü bir tankeri de takip ediyor. <strong>TankerTrackers.com</strong>'a göre karanlık filonun bazı gemileri; <strong>Maduro</strong>'nun ABD kuvvetleri tarafından ele geçirilmesinin hemen ardından Venezuela'dan güvenli biçimde çıkıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında; en az dört, belki de 16 kadar tankerin ablukayı atlattığı bildiriliyor. Gölge filo tankerleri; konumlarını gizlemek için tipik olarak transponderlerini kapatıyor veya sahteleştirmekte. Bu yapısal değişim; küresel ham petrol piyasasında arz akışlarının yeniden şekillenmesine yol açıyor &mdash; <strong>Chevron</strong>'un tek operatör konumuna gelmesi; piyasa fiyatlandırması, lojistik kapasite tahsisi ve uyum gereklilikleri açısından stratejik bir dönüm noktası oluşturuyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43087-chevron-lines-up-11-ships-as-venezuelas-dark-fleet-vanishes"><u>https://www.supplychainbrain.com/articles/43087-chevron-lines-up-11-ships-as-venezuelas-dark-fleet-vanishes</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

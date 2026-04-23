@@ -93,7 +93,6 @@ According to Rodriguez, Blue Highways represents New York's transition from a <s
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/nyc-blue-highways-water-freight-pilot"><u>https://www.supplychain247.com/article/nyc-blue-highways-water-freight-pilot</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

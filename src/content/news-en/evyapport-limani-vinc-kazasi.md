@@ -32,4 +32,3 @@ tags:
   <li><p>The moments of fear experienced by workers were captured on mobile phone cameras.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.netgaste.com/video/19590087/evyapport-limaninda-dehset-anlari"><u>https://www.netgaste.com/video/19590087/evyapport-limaninda-dehset-anlari</u></a></p>

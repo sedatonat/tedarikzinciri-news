@@ -33,4 +33,3 @@ tags:
   <li><p>COVID-19 sırasındaki deniz nakliye fiyatlarındaki artış ve vergi avantajları, bu tür büyük yatırımları mümkün kılıyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/39391-msc-to-buy-italian-shipping-newspaper-group"><u>https://www.supplychainbrain.com/articles/39391-msc-to-buy-italian-shipping-newspaper-group</u></a></p>

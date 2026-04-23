@@ -36,9 +36,6 @@ tags:
 3. <strong>Yellen</strong>; günlük 15 milyon varil ham petrolün etkileniyor olduğunu belirtiyor.<br>
 4. <strong>Brent</strong>; %13 artışla 82 dolara çıkıyor; 100 dolar senaryosu masada.<br>
 5. <strong>ONE</strong> CEO&rsquo;su <strong>Nixon</strong>; çatışmayı &ldquo;Black Swan&rdquo; olarak nitelendiriyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43580-report-from-tpm26-the-iran-war-dominates-discussion-of-container-shippings-outlook"><u>https://www.supplychainbrain.com/articles/43580-report-from-tpm26-the-iran-war-dominates-discussion-of-container-shippings-outlook</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

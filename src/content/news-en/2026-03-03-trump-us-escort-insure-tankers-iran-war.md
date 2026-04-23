@@ -28,9 +28,6 @@ tags: ['Trump', 'Hürmüz Boğazı', 'DFC', 'ABD Donanması', 'petrol tankeri', 
 3. <strong>Brent</strong> trades at approximately $80 per barrel following the news.<br>
 4. Oil prices have risen more than 10 percent since <strong>U.S.</strong>-<strong>Israel</strong> strikes.<br>
 5. <strong>McNally</strong> from <strong>Rapidan</strong> emphasizes that implementation will take time.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43579-trump-says-us-will-escort-insure-oil-tankers-amid-iran-war"><u>https://www.supplychainbrain.com/articles/43579-trump-says-us-will-escort-insure-oil-tankers-amid-iran-war</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

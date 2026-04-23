@@ -65,7 +65,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.joc.com/article/redecking-project-on-los-angeles-harbor-bridge-to-begin-in-early-2026-6105309"><u>https://www.joc.com/article/redecking-project-on-los-angeles-harbor-bridge-to-begin-in-early-2026-6105309</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

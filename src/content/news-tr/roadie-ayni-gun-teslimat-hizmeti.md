@@ -35,4 +35,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10368-roadie-launches-same-day-delivery-for-big-and-bulky-goods"><u>https://www.thescxchange.com/articles/10368-roadie-launches-same-day-delivery-for-big-and-bulky-goods</u></a></p>

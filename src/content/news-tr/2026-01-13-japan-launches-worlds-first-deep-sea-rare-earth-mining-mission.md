@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında <strong>JAMSTEC</strong> (Japon Deniz-Yer Bilimi ve Teknolojisi Ajansı) ile birlikte yürütülüyor proje; küresel <em>magnet rare earths</em> üretiminde Çin&rsquo;in yüzde 60 madencilik; yüzde 90&rsquo;ı aşkın rafinaj ve yüzde 95 daimi mıknatıs payına meydan okuyor. <strong>Toyota</strong>, <strong>Honda</strong>, <strong>Nissan</strong>, <strong>Sony</strong> ve <strong>Hitachi</strong> gibi Japon devleri; bu kaynağa erişim için stratejik ortaklık bekliyor. <strong>USGS</strong>, <strong>IEA</strong> ve <strong>OECD</strong> raporlarında; derin deniz çözümünün; <strong>Lynas</strong> (Avustralya), <strong>MP Materials</strong> (ABD), <strong>Vietnam</strong> ve <strong>Brezilya</strong> projeleri ile birlikte 2030&rsquo;a doğru çeşitlendirme stratejisinin önemli bir bileşeni olabileceği vurgulanıyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43194-japan-launches-worlds-first-deep-sea-rare-earth-mining-mission"><u>https://www.supplychainbrain.com/articles/43194-japan-launches-worlds-first-deep-sea-rare-earth-mining-mission</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

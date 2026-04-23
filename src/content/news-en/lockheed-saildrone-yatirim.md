@@ -59,7 +59,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://gcaptain.com/lockheed-martin-invests-50-million-in-saildrone-to-arm-unmanned-surface-vessels/"><u>https://gcaptain.com/lockheed-martin-invests-50-million-in-saildrone-to-arm-unmanned-surface-vessels/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

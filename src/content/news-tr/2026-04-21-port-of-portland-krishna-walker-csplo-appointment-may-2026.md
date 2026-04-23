@@ -31,9 +31,6 @@ tags:
 3. CareVet'teki rolünde 200'den fazla iş satın alımının hukuki yürütmesini yönetti.<br>
 4. Rabobank North America üst düzey liderlik geçmişine sahip.<br>
 5. İcra Direktörü Curtis Robinhold; deneyimini öne çıkan kriter olarak gösterdi.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/port-of-portland-appoints-new-csplo/"><u>https://www.porttechnology.org/port-of-portland-appoints-new-csplo/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

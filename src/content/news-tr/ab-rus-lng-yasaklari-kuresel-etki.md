@@ -37,4 +37,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/39700-what-eu-sanctions-on-russian-lng-would-mean-for-global-gas"><u>https://www.supplychainbrain.com/articles/39700-what-eu-sanctions-on-russian-lng-would-mean-for-global-gas</u></a></p>

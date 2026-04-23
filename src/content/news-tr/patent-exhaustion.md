@@ -32,10 +32,6 @@ tags:
 - Üreticiler “kısıtlı lisans” sözleşmeleriyle riski yönetiyordir.<br>
 - DRM teknolojileri kullanım iznini teknik olarak sınırlandırıyordır.<br>
 - Hukuki danışmanlık sözleşme dilinin güncellenmesi açısından kritiktir.</p>
-<p><br>
----<br>
-Haber Linki: https://www.supplychainbrain.com/blogs/1-think-tank/post/42334-navigating-patent-exhaustion-in-component-sales<br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

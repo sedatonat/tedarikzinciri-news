@@ -29,4 +29,3 @@ tags:
   <li><p>Investments should focus on long-term growth and innovation rather than cost optimization alone.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10736-why-you-may-not-be-getting-your-planned-value-out-of-your-tech-investment"><u>https://www.thescxchange.com/articles/10736-why-you-may-not-be-getting-your-planned-value-out-of-your-tech-investment</u></a></p>

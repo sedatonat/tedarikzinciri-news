@@ -57,7 +57,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://container-news.com/russias-ametist-line-launches-new-novorossiysk-izmir-shuttle/"><u>https://container-news.com/russias-ametist-line-launches-new-novorossiysk-izmir-shuttle/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

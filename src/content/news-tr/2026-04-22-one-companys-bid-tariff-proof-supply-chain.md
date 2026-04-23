@@ -35,9 +35,6 @@ tags:
 3. <strong>Trump Liberation Day</strong>; <strong>Filipinler</strong>&rsquo;e %17; <strong>Çin</strong>&rsquo;e %145+ tarife uyguluyor.<br>
 4. &ldquo;Acil olmadan önce esnekliğe yatırım&rdquo; &mdash; <strong>Carr</strong>&rsquo;ın tarife-geçirmez felsefesi oluyor.<br>
 5. <strong>China+1</strong>; <strong>nearshoring</strong>; <strong>friendshoring</strong>; ana tedarik zinciri stratejileri oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41600-one-companys-bid-to-tariff-proof-its-supply-chain"><u>https://www.supplychainbrain.com/articles/41600-one-companys-bid-to-tariff-proof-its-supply-chain</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

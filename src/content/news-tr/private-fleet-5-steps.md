@@ -35,10 +35,6 @@ tags:
 3. Right-sizing gereksiz kapasiteyi azaltıyor.<br>
 4. Alternatif yakıtlar geçişte köprü oluyor.<br>
 5. Önleyici bakım emisyonları düşürüyor.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41497-five-easy-to-implement-sustainability-initiatives-for-private-fleets"><u>https://www.supplychainbrain.com/articles/41497-five-easy-to-implement-sustainability-initiatives-for-private-fleets</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

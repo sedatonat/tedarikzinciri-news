@@ -26,9 +26,6 @@ tags:
 3. RailTech ziyaretçileri artık railwaygazette.com'a yönlendiriliyor.<br>
 4. RailTech arşivi (10 yıllık makaleler) Railway Gazette'e taşındı.<br>
 5. Mevcut RailTech abonelerine eşdeğer Railway Gazette aboneliği ücretsiz sağlanacak.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.railfreight.com/railfreight/2026/04/21/two-of-railfreight-coms-international-rail-sister-publications-merge/"><u>https://www.railfreight.com/railfreight/2026/04/21/two-of-railfreight-coms-international-rail-sister-publications-merge/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

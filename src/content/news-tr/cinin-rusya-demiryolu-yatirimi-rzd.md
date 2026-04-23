@@ -34,7 +34,6 @@ tags:
 </ul>
 <p style="text-align: justify"><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/beltandroad/2025/03/03/china-may-invest-in-russian-rail-not-only-in-moscow/"><u>https://www.railfreight.com/beltandroad/2025/03/03/china-may-invest-in-russian-rail-not-only-in-moscow/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

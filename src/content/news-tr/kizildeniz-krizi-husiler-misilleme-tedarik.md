@@ -29,4 +29,3 @@ tags:
 <p>Trump Yönetimi'nin Yemen'i Terörüst Ülke listesine almasına karşın, Biden Yönetimi'nin Yemen ile resmi görüşmelere açık olmak amacı ile &nbsp;Şubat 2021'de Yemen'i tekrar Beyaz Liste'ye alması da işin enteresan bir yanı.</p>
 <p>İlgili link: <a href="https://www.uae-embassy.org/sites/default/files/inline-files/Yemen%20White%20Paper_02-01-22_v4.pdf"><u>https://www.uae-embassy.org/sites/default/files/inline-files/Yemen%20White%20Paper_02-01-22_v4.pdf</u></a></p>
 <p><br></p>
-<p>Haber Linki: <a href="https://www.haber7.com/dunya/haber/3382288-yeni-savas-basladi-abd-ve-ingiltereye-darbe-vuruldu"><u>https://www.haber7.com/dunya/haber/3382288-yeni-savas-basladi-abd-ve-ingiltereye-darbe-vuruldu</u></a></p>

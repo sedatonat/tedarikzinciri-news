@@ -51,7 +51,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Initiatives such as the <strong>Zangezur Corridor</strong> and <strong>TRIPP</strong> carry capacity expansion potential.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://ekonomi.haber7.com/ekonomi/haber/3587123-rusyayi-by-pass-eden-plan-turkiye-orta-koridor-ile-ticarette-oyunu-yeniden-kuruyor"><u>https://ekonomi.haber7.com/ekonomi/haber/3587123-rusyayi-by-pass-eden-plan-turkiye-orta-koridor-ile-ticarette-oyunu-yeniden-kuruyor</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

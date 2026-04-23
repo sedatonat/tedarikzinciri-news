@@ -44,7 +44,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/cargo-integrity-group-calls-for-greater-maritime-safety/"><u>https://www.porttechnology.org/news/cargo-integrity-group-calls-for-greater-maritime-safety/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

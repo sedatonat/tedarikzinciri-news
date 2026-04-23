@@ -35,9 +35,6 @@ tags:
 3. <strong>Nebraska</strong>&rsquo;da 4,000 işe alım planı; tarifelerden etkileniyor olabiliyor.<br>
 4. <strong>Kawasaki</strong>; <strong>Boeing 787</strong>/<strong>737</strong> gövdesi de üretiyor.<br>
 5. H1 cari yıl net tarife etkisi tahmini 90 milyar yen (~580 milyon dolar) oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42920-kawasaki-signals-price-hikes-for-motorbikes-to-offset-tariffs"><u>https://www.supplychainbrain.com/articles/42920-kawasaki-signals-price-hikes-for-motorbikes-to-offset-tariffs</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

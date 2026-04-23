@@ -48,7 +48,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Uzun vadede “green fuels” altyapısı için genişlemeye uygun bir model oluşturuyor.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://en.portnews.ru/news/384886/"><u>https://en.portnews.ru/news/384886/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

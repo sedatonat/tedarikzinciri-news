@@ -43,7 +43,6 @@ tags:
   <li><p>Scope 3 and circular flows are priorities.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41720-cscos-will-become-far-more-significant-in-business-says-gartner"><u>https://www.supplychainbrain.com/articles/41720-cscos-will-become-far-more-significant-in-business-says-gartner</u></a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP?</strong> Our book has been published on Google Play Books.</p>

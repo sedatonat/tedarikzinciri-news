@@ -31,4 +31,3 @@ tags:
   <li><p>Intention to reduce road freight transport's share from 72 percent to 57 percent.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.lojiport.com/lojistik-merkez-sayisi-2-katina-cikacak-demiryolunun-payi-artacak-116272h.htm"><u>https://www.lojiport.com/lojistik-merkez-sayisi-2-katina-cikacak-demiryolunun-payi-artacak-116272h.htm</u></a></p>

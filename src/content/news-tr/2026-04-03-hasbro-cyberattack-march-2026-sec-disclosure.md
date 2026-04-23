@@ -28,9 +28,6 @@ tags:
 3. Etkilenen sistemler izole edildi; üretim sürüyor.<br>
 4. Arka ofis süreçlerinde geçici aksamalar raporlandı.<br>
 5. Müşteri verisi etkisi konusunda nihai değerlendirme bekleniyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychaindive.com/news/hasbro-cyberattack-march-2026/817030/"><u>https://www.supplychaindive.com/news/hasbro-cyberattack-march-2026/817030/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

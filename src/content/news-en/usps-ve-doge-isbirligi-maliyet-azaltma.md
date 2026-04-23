@@ -46,7 +46,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/us-postal-service-dejoy-doge-agreement/742549/"><u>https://www.supplychaindive.com/news/us-postal-service-dejoy-doge-agreement/742549/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book on How to Procure ERP has been published on Google Play Books.</strong></p>

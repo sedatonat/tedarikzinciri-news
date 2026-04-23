@@ -71,7 +71,6 @@ Bu bilgi anında Dęblin’deki trafik kontrol merkezine aktarıldı ve arkadan 
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/railfreight/2025/11/19/poland-sends-army-to-patrol-eastern-rail-routes-points-to-russia-as-culprit/"><u>https://www.railfreight.com/railfreight/2025/11/19/poland-sends-army-to-patrol-eastern-rail-routes-points-to-russia-as-culprit/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

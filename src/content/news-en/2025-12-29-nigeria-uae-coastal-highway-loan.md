@@ -28,9 +28,6 @@ tags: ['Nijerya', 'BAE', 'Lagos-Calabar Highway', 'First Abu Dhabi Bank', 'Bola 
 3. <strong>First Abu Dhabi Bank</strong> is fully <strong>underwriting</strong> the transaction.<br>
 4. <strong>ICIEC</strong> is providing risk mitigation coverage.<br>
 5. The highway will ultimately be 700 km in length and will connect along the <strong>Atlantic</strong> coast.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43053-nigeria-secures-12-billion-uae-loan-to-build-coastal-highway"><u>https://www.supplychainbrain.com/articles/43053-nigeria-secures-12-billion-uae-loan-to-build-coastal-highway</u></a><br>
--------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

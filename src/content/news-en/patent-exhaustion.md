@@ -32,10 +32,6 @@ tags:
 - Manufacturers manage risk through "restricted license" agreements.<br>
 - DRM technologies technically limit usage rights.<br>
 - Legal counsel is critical for updating contract language.<br></p>
-<p><br>
----<br>
-News Link: https://www.supplychainbrain.com/blogs/1-think-tank/post/42334-navigating-patent-exhaustion-in-component-sales<br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

@@ -81,7 +81,6 @@ Yeni Bratislava–Venedik–Çin hattı, bu vizyonun ilk somut adımlarından bi
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/beltandroad/2025/10/31/volkswagen-launches-slovakia-italy-china-intermodal-service/"><u>https://www.railfreight.com/beltandroad/2025/10/31/volkswagen-launches-slovakia-italy-china-intermodal-service/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

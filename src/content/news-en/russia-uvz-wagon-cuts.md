@@ -78,7 +78,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/business/2025/12/12/russian-wagon-producers-cutting-staff-amid-business-deterioration/"><u>https://www.railfreight.com/business/2025/12/12/russian-wagon-producers-cutting-staff-amid-business-deterioration/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -66,7 +66,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Çin robotlarının ucuzluğu gelecekte ABD pazarını baskılayabilir.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/standard-bots-ceo-urges-robotics-automation-reforms-cost-china-concerns/806544/"><u>https://www.supplychaindive.com/news/standard-bots-ceo-urges-robotics-automation-reforms-cost-china-concerns/806544/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

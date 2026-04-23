@@ -21,9 +21,6 @@ tags: ["Murmansk", "Lavna Coal Port", "arbitration", "sanctions", "LNK Industrie
 3. The EU companies failed to fulfil contractual obligations due to sanctions.<br>
 4. Advance payments received earlier were also not returned.<br>
 5. The compensation will be used to complete the project with alternative Russian and Chinese suppliers.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://en.portnews.ru/news/390647/"><u>https://en.portnews.ru/news/390647/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

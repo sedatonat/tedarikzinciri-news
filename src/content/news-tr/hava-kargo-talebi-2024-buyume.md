@@ -44,7 +44,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/xeneta-air-cargo-demand-port-strike-2024-october/732091/"><u>https://www.supplychaindive.com/news/xeneta-air-cargo-demand-port-strike-2024-october/732091/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

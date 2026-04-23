@@ -39,4 +39,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10384-may-imports-from-china-were-highest-in-16-months"><u>https://www.thescxchange.com/articles/10384-may-imports-from-china-were-highest-in-16-months</u></a></p>

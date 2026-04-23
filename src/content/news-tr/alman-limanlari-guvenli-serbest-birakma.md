@@ -38,4 +38,3 @@ tags:
   <li><p>Taşıma zincirindeki tüm katılımcılar bu sürece dahil edilecek.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/german-ports-to-introduce-new-import-solution/"><u>https://www.porttechnology.org/news/german-ports-to-introduce-new-import-solution/</u></a></p>

@@ -36,9 +36,6 @@ tags:
 3. <strong>ABD</strong> ihtiyaç duyuyor olduğu çiplerin yalnızca yaklaşık %10&rsquo;unu üretiyor.<br>
 4. <strong>Trump</strong>&rsquo;ın Ağustos 2025&rsquo;teki %100 tarifeli ilk tehditi geriye çekiliyor.<br>
 5. <strong>Nvidia</strong>&rsquo;nın <strong>Çin</strong> satışlarından %25 pay alınıyor olan istisna mekanizması korunuyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43215-white-house-slaps-25-tariffs-on-re-exported-ai-chips"><u>https://www.supplychainbrain.com/articles/43215-white-house-slaps-25-tariffs-on-re-exported-ai-chips</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -29,9 +29,6 @@ tags:
 <p style="text-align: justify">&laquo;Bunlardan bazıları Venezuela'ya hizmet veren gölge filonun parçası olan bu gemiler; <strong>Maduro</strong>'nun gayri meşru narko-terörist rejimini besleyen finansal kaynakları sağlamaya devam ediyor&raquo; ifadeleri yer alıyor <strong>Treasury Department</strong>'ın açıklamasında. Tedarik zinciri perspektifinden bakıldığında <strong>Maduro</strong> rejimi; yaptırımların atlatılması da dahil olmak üzere yaptırıma tabi faaliyetleri kolaylaştırmak için dünya genelindeki bir gölge filoya giderek daha fazla bağımlı hale geliyor.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında 31 Aralık'ta belirlenen gemilerden yalnızca biri &mdash; <em>Rosalind</em> &mdash; son dönemde Venezuela'ya yakın seyrederek genellikle kısa mesafeli yolculuklarda görev alıyor. Çinli üçüncü taraf firmaların doğrudan hedef alınması; küresel petrol ticaretinde ikincil yaptırım riskini önemli ölçüde artırıyor. Asya'daki rafineri operatörleri, gemi yöneticileri ve sigortacılar; Venezuela kaynaklı kargolarla bağlantılı her türlü işlemde çok daha kapsamlı uyum kontrolleri uygulamak zorunda kalıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43067-us-sanctions-chinese-companies-tankers-with-venezuela-links"><u>https://www.supplychainbrain.com/articles/43067-us-sanctions-chinese-companies-tankers-with-venezuela-links</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

@@ -68,7 +68,6 @@ The agreement also demonstrates the company's continued <strong>strategic focus 
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://en.portnews.ru/news/383703/"><u>https://en.portnews.ru/news/383703/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>

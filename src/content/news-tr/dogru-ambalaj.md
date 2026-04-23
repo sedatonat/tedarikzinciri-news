@@ -45,7 +45,6 @@ Küçük kutularla ürünlerin uyumlu hale getirilmesi, taşımada <strong>hasar
   <li><p>P&amp;L ve çevre performansı birlikte iyileşir.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41670-three-ways-that-right-sizing-packaging-benefits-the-environment" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/41670-three-ways-that-right-sizing-packaging-benefits-the-environment</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

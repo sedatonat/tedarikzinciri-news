@@ -32,4 +32,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10340-toyota-material-handling-to-build-100-million-factory-for-electric-forklifts"><u>https://www.thescxchange.com/articles/10340-toyota-material-handling-to-build-100-million-factory-for-electric-forklifts</u></a></p>

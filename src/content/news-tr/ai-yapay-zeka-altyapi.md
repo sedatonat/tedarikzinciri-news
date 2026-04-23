@@ -41,7 +41,6 @@ tags:
   <li><p>AI safety/MRM ölçekli kullanım için şarttır.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42112-nobodys-ready-ais-rapid-rise-is-outpacing-our-infrastructure" rel="noopener" target="_new">https://www.supplychainbrain.com/articles/42112-nobodys-ready-ais-rapid-rise-is-outpacing-our-infrastructure</a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

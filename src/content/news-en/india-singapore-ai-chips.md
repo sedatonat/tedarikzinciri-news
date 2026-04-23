@@ -38,7 +38,6 @@ tags:
   <li><p>EDA and IP ecosystems accelerate innovation.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42435-india-and-singapore-deepen-ai-chips-ties-as-us-tariff-risks-grow"><u>https://www.supplychainbrain.com/articles/42435-india-and-singapore-deepen-ai-chips-ties-as-us-tariff-risks-grow</u></a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>

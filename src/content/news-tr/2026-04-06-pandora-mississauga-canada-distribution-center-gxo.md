@@ -29,9 +29,6 @@ tags:
 3. Tesis günde 12.500 siparişe kadar kapasiteye sahip.<br>
 4. Pick-to-light sistemleri kuruldu.<br>
 5. Yatırım, Temmuz 2026 USMCA gözden geçirmesi öncesine denk geldi.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychaindive.com/news/pandora-canada-distribution-center-gxo-mississauga-ontario/817073/"><u>https://www.supplychaindive.com/news/pandora-canada-distribution-center-gxo-mississauga-ontario/817073/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

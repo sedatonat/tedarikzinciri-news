@@ -73,7 +73,6 @@ are being planned.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://container-news.com/saudi-arabia-pivots-to-logistics-as-kingdom-reshapes-investment-strategy/"><u>https://container-news.com/saudi-arabia-pivots-to-logistics-as-kingdom-reshapes-investment-strategy/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

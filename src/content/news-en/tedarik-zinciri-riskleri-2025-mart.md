@@ -66,7 +66,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.xeneta.com/blog/the-biggest-global-supply-chain-risks-of-2025"><u>https://www.xeneta.com/blog/the-biggest-global-supply-chain-risks-of-2025</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

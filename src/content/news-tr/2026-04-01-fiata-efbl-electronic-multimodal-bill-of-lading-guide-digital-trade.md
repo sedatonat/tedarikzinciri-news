@@ -29,9 +29,6 @@ tags:
 3. eFBL; 1968'den bu yana kullanılan FBL'nin dijital versiyonu.<br>
 4. FBL; UNCTAD ve ICC tarafından geliştirilen kurallarla uyumlu olarak yapılandırılmış.<br>
 5. Dijital konşimento; evrak hatalarını ortadan kaldırıyor ve işlem sürelerini kısaltıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/fiata-issues-guide-for-electronic-bill-of-lading/"><u>https://www.porttechnology.org/fiata-issues-guide-for-electronic-bill-of-lading/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

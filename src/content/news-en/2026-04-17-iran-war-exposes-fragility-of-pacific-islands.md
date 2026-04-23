@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">With few signs that the <strong>Strait of Hormuz</strong> will be fully open to tankers anytime soon, islands in the Pacific face a deepening crisis with no end in sight. "What begins as a crisis in a distant shipping chokepoint can quickly become a crisis of affordability and power supply, disconnecting vulnerable island communities from the rest of the world," UN News warned. From a supply chain perspective, this is a striking case of how <em>chokepoint risk</em> in the face of geopolitical shocks translates into real-time humanitarian consequences. For oil majors, international aid agencies and insurance providers, <em>resilience</em> planning for vulnerable island geographies can no longer be deferred.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43876-iran-war-exposes-fragility-of-pacific-islands"><u>https://www.supplychainbrain.com/articles/43876-iran-war-exposes-fragility-of-pacific-islands</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

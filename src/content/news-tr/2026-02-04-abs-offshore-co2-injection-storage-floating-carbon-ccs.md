@@ -29,9 +29,6 @@ tags:
 3. Yüzer CO2 enjeksiyon platformları; kara alanı sınırlı ülkeler için kritik alternatif sunuyor.<br>
 4. Avrupa'daki Northern Lights gibi projeler, açık deniz depolamanın uygulanabilirliğini kanıtlıyor.<br>
 5. Başarı için sınıflandırma kuruluşları, düzenleyiciler ve endüstri paydaşlarının koordineli çalışması gerekiyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://gcaptain.com/floating-the-carbon-solution-the-role-of-offshore-co%e2%82%82-injection-and-storage-facilities/"><u>https://gcaptain.com/floating-the-carbon-solution-the-role-of-offshore-co%e2%82%82-injection-and-storage-facilities/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

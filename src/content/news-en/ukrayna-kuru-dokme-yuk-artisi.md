@@ -59,7 +59,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://container-news.com/ukraines-dry-bulk-shipments-take-87-leap-three-years-after-russias-invasion/"><u>https://container-news.com/ukraines-dry-bulk-shipments-take-87-leap-three-years-after-russias-invasion/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Acquire ERP? Our book has been published on Google Play Books.</strong></p>

@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu yüzde 5 puanlık ek tarife yükü; <strong>landed cost</strong> hesaplarında <strong>HTS</strong> sınıfı düzeyinde anlık yeniden fiyatlama gerektiriyor. <strong>SAP GTS</strong>, <strong>Oracle GTM</strong> ve <strong>Descartes</strong> kullanıyor olan ithalatçılar; <strong>Section 122</strong> ile <strong>Section 232</strong> birikimli etki senaryolarını paralel hesaplamaya kalibre ediyor. <strong>FTZ (Foreign Trade Zone)</strong>, <strong>bonded warehouse</strong> ve <strong>duty drawback</strong> programları; nakit akışı esnekliği için yeniden gündeme geliyor; <strong>customs broker</strong> kapasitesi piyasada darboğaza dönüşüyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43593-bessent-says-tariffs-will-rise-to-15-this-week"><u>https://www.supplychainbrain.com/articles/43593-bessent-says-tariffs-will-rise-to-15-this-week</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

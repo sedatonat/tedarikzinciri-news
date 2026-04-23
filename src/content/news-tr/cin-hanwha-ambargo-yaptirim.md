@@ -86,7 +86,6 @@ Hanwha gibi çok uluslu aktörler için bu durum, <strong>jeopolitik risk yönet
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/china-sanctions-hanwha-units-amid-rising-trade-tensions/"><u>https://www.porttechnology.org/news/china-sanctions-hanwha-units-amid-rising-trade-tensions/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

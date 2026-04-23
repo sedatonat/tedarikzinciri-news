@@ -39,7 +39,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/panamax-pain-as-chinas-grain-imports-plunge-51/"><u>https://gcaptain.com/panamax-pain-as-chinas-grain-imports-plunge-51/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Acquire ERP? Our book has been published on Google Play Books.</strong></p>

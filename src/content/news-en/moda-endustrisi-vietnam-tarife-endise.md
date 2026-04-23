@@ -47,7 +47,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Potential tariffs could lead to significant changes in the fashion industry's supply chain and increased costs.</p></li>
 </ul>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/fashion-industry-vietnam-tariff-risks/742433/"><u>https://www.supplychaindive.com/news/fashion-industry-vietnam-tariff-risks/742433/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Acquire ERP?" has been published on Google Play Books.</strong></p>

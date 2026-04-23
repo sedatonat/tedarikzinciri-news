@@ -67,7 +67,6 @@ Yerel toplumun yoğun desteğiyle yürütülen kapsamlı onarım çalışmaları
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://splash247.com/bridge-team-lapse-behind-leeuwin-ii-disaster/"><u>https://splash247.com/bridge-team-lapse-behind-leeuwin-ii-disaster/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

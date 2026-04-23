@@ -35,9 +35,6 @@ tags:
 3. Proje maliyeti; 1.6 milyar <strong>CAD</strong> (1.2 milyar <strong>USD</strong>) oluyor.<br>
 4. <strong>Caisse de Depot Quebec</strong>; <strong>DP World Canada</strong>&rsquo;nın %45&rsquo;ine sahip oluyor.<br>
 5. <strong>St. Lawrence</strong> nehri üzerindeki konum; <strong>Great Lakes</strong> ve <strong>U.S. Midwest</strong> erişim sağlıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42460-dp-world-wins-contract-to-operate-montreal-ports-new-terminal"><u>https://www.supplychainbrain.com/articles/42460-dp-world-wins-contract-to-operate-montreal-ports-new-terminal</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

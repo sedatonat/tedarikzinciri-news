@@ -39,7 +39,6 @@ tags:
   <li><p>Carbon and access benefits are expected.</p></li>
 </ul>
 <p>---------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42278-us-to-ease-long-range-drone-rules-in-boon-for-walmart-alphabet"><u>https://www.supplychainbrain.com/articles/42278-us-to-ease-long-range-drone-rules-in-boon-for-walmart-alphabet</u></a></p>
 <p>----------</p>
 <p><strong>!!! NOTICE !!!</strong></p>
 <p><strong>How to Obtain ERP?</strong> Our book has been published on Google Play Books.</p>

@@ -45,7 +45,6 @@ tags:
   <li><p>Carbon accounting yeni standart oluyordır.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42099-the-future-of-transportation-management-navigating-the-next-era-of-supply-chains" rel="noopener" target="_new">https://www.supplychainbrain.com/articles/42099-the-future-of-transportation-management-navigating-the-next-era-of-supply-chains</a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

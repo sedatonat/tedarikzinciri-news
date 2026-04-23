@@ -71,7 +71,6 @@ Yeni uygulama koşulları şu şekilde:</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://container-news.com/cma-cgm-postpones-implementation-of-low-water-surcharge-for-manaus/"><u>https://container-news.com/cma-cgm-postpones-implementation-of-low-water-surcharge-for-manaus/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

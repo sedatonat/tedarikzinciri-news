@@ -68,7 +68,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/hmm-advances-digitalisation-with-dcsa-pilot-success/"><u>https://www.porttechnology.org/news/hmm-advances-digitalisation-with-dcsa-pilot-success/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

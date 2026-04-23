@@ -54,7 +54,6 @@ tags:
 <p><br></p>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/cma-cgm-to-invest-20-billion-in-us-shipping-ports-and-logistics-5957748"><u>https://www.joc.com/article/cma-cgm-to-invest-20-billion-in-us-shipping-ports-and-logistics-5957748</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

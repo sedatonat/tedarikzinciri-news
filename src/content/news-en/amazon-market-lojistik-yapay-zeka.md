@@ -73,7 +73,6 @@ According to Minardi, BrainBox AI enables Amazon to simultaneously meet its sust
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/amazon-sustainability-grocery-fulfillment/807445/"><u>https://www.supplychaindive.com/news/amazon-sustainability-grocery-fulfillment/807445/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -52,7 +52,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The project will not be ready before 2029–2030; it is not a short-term solution, but a strategic infrastructure move.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/beltandroad/2025/11/26/iran-plans-new-railway-for-china-europe-traffic/"><u>https://www.railfreight.com/beltandroad/2025/11/26/iran-plans-new-railway-for-china-europe-traffic/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

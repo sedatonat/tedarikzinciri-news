@@ -27,9 +27,6 @@ tags:
 3. ONE CEO'su Jeremy Nixon; bu hamleyi ONE 2030 stratejik büyüme planına bağladı.<br>
 4. Seaspan; gemileri operatör hatlara uzun vadeli charter sözleşmeleriyle kiralıyor.<br>
 5. ONE; yakın zamanda West Coast South America (AX4) hizmetini de geliştirerek Latin Amerika-Asya ağını genişletti.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/one-expands-investment-in-seaspans-parent-company/"><u>https://www.porttechnology.org/one-expands-investment-in-seaspans-parent-company/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

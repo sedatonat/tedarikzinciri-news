@@ -28,9 +28,6 @@ tags: ['Bart A. De Muynck', 'LWASC', 'podcast', 'satın almakta', 'ihale', 'teda
 3. The wine-making metaphor is applied to supply chain.<br>
 4. <strong>Procurement</strong> is a complex global balancing act.<br>
 5. Frost and tariffs are presented as examples of disruptions.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43655-global-terroir-and-global-tenders-decanting-the-modern-procurement-mix"><u>https://www.supplychainbrain.com/articles/43655-global-terroir-and-global-tenders-decanting-the-modern-procurement-mix</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our Book is Now Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the U.S. <strong>Class I</strong> rail map is built around <strong>BNSF</strong> and <strong>Union Pacific</strong> in the West, <strong>Norfolk Southern</strong> and <strong>CSX Transportation</strong> in the East, and <strong>Canadian National</strong> together with <strong>Canadian Pacific Kansas City</strong> across the Canada-Mexico spine. Approval by the <strong>Surface Transportation Board</strong> (<strong>STB</strong>) hinges on tests of competition, service quality, safety and transition guarantees. The deal&rsquo;s impact on <strong>intermodal</strong> container traffic, agricultural volumes (<strong>Cargill</strong>, <strong>ADM</strong>), energy flows (<strong>Exxon</strong>, <strong>Phillips 66</strong>) and retail logistics (<strong>Walmart</strong>, <strong>Amazon</strong>) will sit at the center of regulatory scrutiny throughout 2026.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43242-berkshire-backed-bnsf-says-rail-mega-merger-risks-price-increases"><u>https://www.supplychainbrain.com/articles/43242-berkshire-backed-bnsf-says-rail-mega-merger-risks-price-increases</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

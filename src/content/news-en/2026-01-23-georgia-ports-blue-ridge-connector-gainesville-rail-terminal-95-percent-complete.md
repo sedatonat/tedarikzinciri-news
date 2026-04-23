@@ -23,9 +23,6 @@ tags: ["Georgia Ports Authority", "Blue Ridge Connector", "Gainesville", "Norfol
 3. The terminal will link Northeast Georgia to the deep-water ports of Savannah and Brunswick.<br>
 4. Direct Norfolk Southern rail service will be offered.<br>
 5. All-electric RTGs deliver zero local emissions while expanding hinterland coverage.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/georgia-ports-nears-completion-of-blue-ridge-connector/"><u>https://www.porttechnology.org/georgia-ports-nears-completion-of-blue-ridge-connector/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

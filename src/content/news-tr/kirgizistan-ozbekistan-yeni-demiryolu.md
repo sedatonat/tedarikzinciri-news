@@ -42,7 +42,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/beltandroad/2025/03/10/after-the-cku-line-kyrgyzstan-wants-more-plans-for-another-line-to-uzbekistan/"><u>https://www.railfreight.com/beltandroad/2025/03/10/after-the-cku-line-kyrgyzstan-wants-more-plans-for-another-line-to-uzbekistan/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

@@ -112,7 +112,6 @@ Gerçek değer, insanların yaratıcı ve stratejik işlere odaklanmasını sağ
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/ikea-locus-ai-last-mile-delivery"><u>https://www.supplychain247.com/article/ikea-locus-ai-last-mile-delivery</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

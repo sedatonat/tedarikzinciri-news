@@ -50,7 +50,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/40616-airbus-reaffirms-delivery-goals-after-months-of-supply-chain-turmoil"><u>https://www.supplychainbrain.com/articles/40616-airbus-reaffirms-delivery-goals-after-months-of-supply-chain-turmoil</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

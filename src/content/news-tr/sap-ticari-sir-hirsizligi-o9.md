@@ -52,7 +52,6 @@ tags:
 </ul>
 <p style="text-align: justify"><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42908-ai-firm-accuses-sap-of-stealing-supply-chain-trade-secrets"><u>https://www.supplychainbrain.com/articles/42908-ai-firm-accuses-sap-of-stealing-supply-chain-trade-secrets</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

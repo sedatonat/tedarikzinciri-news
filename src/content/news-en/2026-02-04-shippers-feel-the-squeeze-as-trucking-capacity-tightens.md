@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">The increase in shipper spending also marked the first year-over-year bump in three years, underscoring how tightening capacity has been driving rates higher across the trucking market. U.S. Bank noted that the spending gains are unlikely to be the result of higher fuel costs — a common culprit when freight prices increase — with analysts pointing instead to capacity contraction as the primary driver of rising rates. From a supply chain perspective, this cycle suggests that large shippers including <strong>Walmart</strong> and <strong>Amazon</strong> will be forced to renegotiate carrier rate models heading into 2026.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43409-shippers-feel-the-squeeze-as-trucking-capacity-tightens"><u>https://www.supplychainbrain.com/articles/43409-shippers-feel-the-squeeze-as-trucking-capacity-tightens</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

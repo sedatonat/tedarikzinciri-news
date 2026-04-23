@@ -36,9 +36,6 @@ tags:
 3. <strong>Predictive analytics</strong> ve <strong>scenario modeling</strong>, reaktif davranışı proaktif öngörüye dönüştürüyor.<br>
 4. Temiz, tutarlı ve uygun veri, karar döngülerini kısaltıyor.<br>
 5. Yapay zeka, bağlı veri temeli olmadan değer üretmiyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43841-why-more-supply-chain-data-has-not-made-decisions-easier"><u>https://www.supplychainbrain.com/articles/43841-why-more-supply-chain-data-has-not-made-decisions-easier</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

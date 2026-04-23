@@ -21,9 +21,6 @@ tags: ["Port of Salalah", "drone incident", "Oman", "Dhofar", "Strait of Hormuz"
 3. A third drone crashed near the port area; there were no casualties or damage.<br>
 4. On the same day, vessel attacks were reported near the Strait of Hormuz.<br>
 5. UK Maritime Trade Operations (UKMTO) called on vessels in Gulf waters to remain increasingly vigilant.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/drone-incident-reported-near-port-of-salalah/"><u>https://www.porttechnology.org/drone-incident-reported-near-port-of-salalah/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

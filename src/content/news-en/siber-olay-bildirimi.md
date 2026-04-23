@@ -38,7 +38,6 @@ tags:
   <li><p>Maturity scales across wider ecosystems.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42306-cydome-launches-no-cost-tool-for-cyber-incident-reporting" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/42306-cydome-launches-no-cost-tool-for-cyber-incident-reporting</u></a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP?</strong> Our book has been published on Google Play Books.</p>

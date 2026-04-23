@@ -45,7 +45,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/cost-to-ship-russian-espo-oil-to-china-triples-after-sanctions/"><u>https://gcaptain.com/cost-to-ship-russian-espo-oil-to-china-triples-after-sanctions/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book on How to Acquire ERP has been published on Google Play Books.</strong></p>

@@ -37,4 +37,3 @@ tags:
   <li><p>Türk iş insanlarına çabuk karar verme ve alternatif seçenekleri değerlendirme tavsiyesi.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.lojiport.com/konteynerde-gemi-arzi-azalinca-navlun-tavan-yapti-116597h.htm"><u>https://www.lojiport.com/konteynerde-gemi-arzi-azalinca-navlun-tavan-yapti-116597h.htm</u></a></p>

@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the project &mdash; carried out in cooperation with <strong>JAMSTEC</strong> (Japan Agency for Marine-Earth Science and Technology) &mdash; directly challenges China&rsquo;s 60 percent share of global magnet rare earth mining, more than 90 percent of refining and 95 percent of permanent magnet production. Japanese giants such as <strong>Toyota</strong>, <strong>Honda</strong>, <strong>Nissan</strong>, <strong>Sony</strong> and <strong>Hitachi</strong> are watching closely for strategic offtake. Reports from the <strong>USGS</strong>, <strong>IEA</strong> and <strong>OECD</strong> highlight that deep-sea recovery, alongside projects led by <strong>Lynas</strong> (Australia), <strong>MP Materials</strong> (United States), <strong>Vietnam</strong> and <strong>Brazil</strong>, may form a meaningful building block of diversification toward 2030.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43194-japan-launches-worlds-first-deep-sea-rare-earth-mining-mission"><u>https://www.supplychainbrain.com/articles/43194-japan-launches-worlds-first-deep-sea-rare-earth-mining-mission</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

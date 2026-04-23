@@ -28,4 +28,3 @@ tags:
   <li><p>The ship departed the quay after the crane boom was removed.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.denizhaber.com/evyapi-yikan-konteyner-gemisi-sonundarihtimdan-ayrilabildi"><u>https://www.denizhaber.com/evyapi-yikan-konteyner-gemisi-sonundarihtimdan-ayrilabildi</u></a></p>

@@ -47,7 +47,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/mega-containership-and-oil-tanker-collide-in-strait-of-gibraltar/"><u>https://gcaptain.com/mega-containership-and-oil-tanker-collide-in-strait-of-gibraltar/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

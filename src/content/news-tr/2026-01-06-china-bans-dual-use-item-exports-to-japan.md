@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında nadir toprak elementleri; savaş uçakları, güdümlü füzeler ve iletişim ekipmanları gibi ileri silah sistemlerinde de yaygın olarak kullanılıyor. <strong>Japonya</strong>; <strong>Toyota</strong>, <strong>Sony</strong>, <strong>Panasonic</strong>, <strong>Mitsubishi Electric</strong> ve <strong>Nidec</strong> gibi küresel oyuncular için kritik girdi sağlayan <strong>Çin</strong>&rsquo;e olan bağımlılığını azaltmak amacıyla 2010&rsquo;daki Senkaku krizi sonrasında stratejik stoklama ve <strong>Lynas</strong> (Avustralya) ile ortaklıklar geliştirmiştir. Yeni yasak; <strong>JOGMEC</strong> liderliğindeki çeşitlendirme programlarını hızlandırıyor &mdash; <strong>Vietnam</strong>, <strong>Hindistan</strong> ve derin deniz madenciliği projelerine yönelik yatırımlar 2026 boyunca artıyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43083-china-bans-dual-use-item-exports-to-japan"><u>https://www.supplychainbrain.com/articles/43083-china-bans-dual-use-item-exports-to-japan</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

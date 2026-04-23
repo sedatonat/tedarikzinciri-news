@@ -27,9 +27,6 @@ tags:
 3. Üçüncü drone liman alanı yakınında düştü; can kaybı ve hasar yaşanmadı.<br>
 4. Aynı günde Hürmüz Boğazı yakınlarında gemi saldırıları raporlandı.<br>
 5. UK Maritime Trade Operations (UKMTO); Körfez sularında gemilere artan tetikte olma çağrısı yaptı.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/drone-incident-reported-near-port-of-salalah/"><u>https://www.porttechnology.org/drone-incident-reported-near-port-of-salalah/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

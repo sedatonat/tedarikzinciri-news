@@ -28,9 +28,6 @@ tags: ['IMO', 'Hürmüz Boğazı', 'Arsenio Dominguez', 'Singapore Maritime Week
 3. Transits will be conducted via the <strong>Traffic Separation Scheme</strong> adopted by <strong>IMO</strong> in 1968.<br>
 4. <strong>Dominguez</strong> characterizes the evacuation as a crew-focused humanitarian corridor.<br>
 5. The <strong>U.S.</strong> blockade of the strait makes the situation even more dangerous.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43903-imo-prepares-hormuz-evacuation-plan-for-hundreds-of-ships"><u>https://www.supplychainbrain.com/articles/43903-imo-prepares-hormuz-evacuation-plan-for-hundreds-of-ships</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

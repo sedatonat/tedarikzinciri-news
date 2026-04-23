@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Veri kalitesinden veri sağlığına geçilecek: planlama kararlarını her gün şekillendiren verinin sürekli ve iş tarafından yönlendirilen biçimde izlenmesi sağlanacak. Veri sağlığı, bir BT temizlik egzersizi değil; bir performans kolaylaştırıcısıdır. Sahiplenme, disiplin ve ana verinin bir proje kilometre taşı olarak değil; operasyonel bir varlık olarak ele alınması olgunluğunu gerektiriyor. Tedarik zinciri perspektifinden bakıldığında kazanan oyuncular; veriyi bir kez temizlemekle yetinmeyip sürdürebilecekler. Bu oyuncular; tek seferlik dönüşüm projelerinin ötesine geçerek <strong>S&OP</strong>, IBP ve uçtan-uca performans yönetimini birbirine bağlayan bir karar mimarisi kurabilecekler.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43225-the-missing-orchestration-link-between-planning-and-performance"><u>https://www.supplychainbrain.com/articles/43225-the-missing-orchestration-link-between-planning-and-performance</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

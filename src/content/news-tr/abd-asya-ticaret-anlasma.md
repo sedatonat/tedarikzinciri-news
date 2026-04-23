@@ -75,7 +75,6 @@ Kamboçya, ABD mallarına <strong>nitelikli ve ayrımcı olmayan erişim</strong
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/trump-tariffs-trade-deals-asean-china-vietnam-thailand-cambodia-malaysia/803868/"><u>https://www.supplychaindive.com/news/trump-tariffs-trade-deals-asean-china-vietnam-thailand-cambodia-malaysia/803868/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -75,7 +75,6 @@ services.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><u>https://www.joc.com/article/hapag-lloyd-refining-gemini-network-to-improve-efficiencies-habben-jansen-6115582</u></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

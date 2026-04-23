@@ -29,7 +29,6 @@ tags:
   <li><p>Warehouse supply is insufficient in Istanbul and surrounding areas.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.lojiport.com/doluluk-oranlari-90lara-cikti-depo-krizi-gelebilir-117072h.htm"><u>https://www.lojiport.com/doluluk-oranlari-90lara-cikti-depo-krizi-gelebilir-117072h.htm</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <h5><strong>!!! ANNOUNCEMENT !!!</strong></h5>

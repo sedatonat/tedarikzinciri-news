@@ -76,7 +76,6 @@ This will enable vessel traffic, fuel bunkering, and customs processes to be opt
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.porttechnology.org/news/singapore-korea-launch-green-and-digital-maritime-corridor/"><u>https://www.porttechnology.org/news/singapore-korea-launch-green-and-digital-maritime-corridor/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

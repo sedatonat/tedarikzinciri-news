@@ -35,4 +35,3 @@ tags:
   <li><p>Küresel navlun oranları iki ayda %25 düşüş gösterdi.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.lojiport.com/kizildeniz-krizine-hizli-cozum-limanlarimiza-tarihi-rekor-getirdi-116374h.htm"><u>https://www.lojiport.com/kizildeniz-krizine-hizli-cozum-limanlarimiza-tarihi-rekor-getirdi-116374h.htm</u></a></p>

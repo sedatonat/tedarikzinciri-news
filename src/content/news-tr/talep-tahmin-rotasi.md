@@ -42,7 +42,6 @@ tags:
   <li><p>MRM/drift izleme güvenilirliği güçlendiriyordir.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41647-navigating-the-future-of-demand-forecasting"><u>https://www.supplychainbrain.com/articles/41647-navigating-the-future-of-demand-forecasting</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

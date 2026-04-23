@@ -48,7 +48,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">It establishes a model capable of expansion for long-term "green fuels" infrastructure.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://en.portnews.ru/news/384886/"><u>https://en.portnews.ru/news/384886/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

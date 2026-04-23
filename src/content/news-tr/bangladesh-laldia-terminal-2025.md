@@ -76,7 +76,6 @@ doğrudan istihdam yaratacak.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/bangladesh-confirms-550-million-laldia-terminal-project/"><u>https://www.porttechnology.org/news/bangladesh-confirms-550-million-laldia-terminal-project/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

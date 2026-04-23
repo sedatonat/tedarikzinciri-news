@@ -61,7 +61,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/supply-chain-jobs-highest-workplace-injury-rates"><u>https://www.supplychain247.com/article/supply-chain-jobs-highest-workplace-injury-rates</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our book has been published on Google Play Books.</strong></p>

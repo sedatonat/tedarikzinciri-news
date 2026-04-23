@@ -46,7 +46,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The investment is an important milestone in <strong>GenLogs</strong>' growth strategy and sector services.</p></li>
 </ul>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/truckload-visibility-vendor-gets-funding-to-expand-sensor-network-5936129"><u>https://www.joc.com/article/truckload-visibility-vendor-gets-funding-to-expand-sensor-network-5936129</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Purchase ERP?" Has Been Published on Google Play Books.</strong></p>

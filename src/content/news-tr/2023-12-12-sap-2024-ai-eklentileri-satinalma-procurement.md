@@ -26,4 +26,3 @@ tags:
 <p><strong>Sürdürülebilir Tedarik Zincirleri: </strong>2024 'te, sürdürülebilir tedarik zincirleri norm haline gelecek. İşletmeler, çevresel etkiyi azaltmak için teknolojiye yatırım yapacak. Bu, hem yenilik hem de uzun vadeli karlılık sağlayacak.</p>
 <p><br></p>
 <p>2023-12-11</p>
-<p>Haber Linki: <a href="https://procurementmag.com/articles/saps-darcy-macclaren-how-ai-will-impact-2024"><u>https://procurementmag.com/articles/saps-darcy-macclaren-how-ai-will-impact-2024</u></a></p>

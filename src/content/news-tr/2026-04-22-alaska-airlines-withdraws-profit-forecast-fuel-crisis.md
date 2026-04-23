@@ -36,9 +36,6 @@ tags:
 3. Şirket; yakıtı <strong>Singapore</strong>&rsquo;dan <strong>Seattle</strong>&rsquo;a taşıyor olmaya başlıyor.<br>
 4. Mayıs-Haziran uçuş kesintileri; gece geç kalkışlara odaklanıyor.<br>
 5. <strong>Air Canada</strong>, <strong>Delta</strong> ve <strong>Lufthansa</strong> da benzer kesintiler uyguluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43900-alaska-airlines-withdraws-profit-forecast-as-fuel-crisis-deepens"><u>https://www.supplychainbrain.com/articles/43900-alaska-airlines-withdraws-profit-forecast-as-fuel-crisis-deepens</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

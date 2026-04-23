@@ -34,9 +34,6 @@ tags:
 3. <strong>Chris Luoma</strong> (<strong>GHX</strong>); maliyet verimlilik dayanıklılık dengesinin önemine vurgu yapıyor.<br>
 4. Tek-tesis üretim; <strong>JIT</strong> envanter; kırılgan son-mil; ana zayıf halkalar oluyor.<br>
 5. Coğrafi çeşitlendirme; güvenlik stoğu; <strong>nearshoring</strong>; tedarikçi görünürlük; ana dayanıklılık stratejileri oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42470-climate-change-exposes-weak-links-in-us-medical-supply-chains"><u>https://www.supplychainbrain.com/articles/42470-climate-change-exposes-weak-links-in-us-medical-supply-chains</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

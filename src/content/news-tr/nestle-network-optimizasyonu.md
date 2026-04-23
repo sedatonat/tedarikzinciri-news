@@ -94,7 +94,6 @@ Bu yaklaşım, şirketin hem <strong>müşteri deneyimini geliştirmesine</stron
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.thescxchange.com/move/store/nestle-shares-process-for-optimizing-distribution-network"><u>https://www.thescxchange.com/move/store/nestle-shares-process-for-optimizing-distribution-network</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

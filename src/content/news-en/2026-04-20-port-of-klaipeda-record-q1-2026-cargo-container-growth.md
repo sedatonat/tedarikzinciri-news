@@ -25,9 +25,6 @@ tags: ["Port of Klaipeda", "Lithuania", "Q1 2026", "container TEU", "Baltic port
 3. Over 374,000 TEUs were processed in Q1, with March the port's strongest month ever.<br>
 4. Klaipėda was the only Baltic gateway to report positive cargo growth.<br>
 5. CEO Algis Latakas attributed growth to consistent infrastructure and terminal capacity investment.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/port-of-klaipeda-delivers-record-month-for-cargo-handling/"><u>https://www.porttechnology.org/port-of-klaipeda-delivers-record-month-for-cargo-handling/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

@@ -46,7 +46,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://container-news.com/somalilands-potential-to-emerge-as-new-trade-hub-in-red-sea/"><u>https://container-news.com/somalilands-potential-to-emerge-as-new-trade-hub-in-red-sea/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>

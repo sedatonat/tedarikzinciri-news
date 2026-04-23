@@ -36,9 +36,6 @@ tags:
 3. Köprü, <strong>Detroit</strong>&rsquo;ı <strong>Windsor</strong>&rsquo;a bağlıyor ve günde 300 milyon dolarlık koridoru rahatlatıyor.<br>
 4. İnşaat maliyetleri <strong>Canadian</strong> hükümeti tarafından karşılanıyor.<br>
 5. <strong>Michigan Governor Whitmer</strong>&rsquo;in ofisi, köprünün açılacağını vurguluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43448-trump-threatens-to-block-opening-of-cross-border-canadian-bridge"><u>https://www.supplychainbrain.com/articles/43448-trump-threatens-to-block-opening-of-cross-border-canadian-bridge</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

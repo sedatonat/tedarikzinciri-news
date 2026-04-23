@@ -77,7 +77,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Pilot applications have delivered <strong>120 million USD in cost savings</strong> and <strong>60,000 tons of emissions reduction</strong>.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://en.portnews.ru/news/385750/"><u>https://en.portnews.ru/news/385750/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

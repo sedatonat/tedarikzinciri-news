@@ -27,9 +27,6 @@ tags: ['Kawasaki Heavy Industries', 'Yoshinori Kanehana', 'motosiklet', 'tarife'
 3. <strong>Nebraska</strong>'s 4,000 hiring plan could be affected by tariffs.<br>
 4. <strong>Kawasaki</strong> also manufactures <strong>Boeing 787</strong>/<strong>737</strong> fuselages.<br>
 5. H1 current fiscal year net tariff impact estimated at 90 billion yen (~580 million dollars).</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42920-kawasaki-signals-price-hikes-for-motorbikes-to-offset-tariffs"><u>https://www.supplychainbrain.com/articles/42920-kawasaki-signals-price-hikes-for-motorbikes-to-offset-tariffs</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book is Now Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free through this link.</p>

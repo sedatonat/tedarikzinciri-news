@@ -40,7 +40,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://container-news.com/hmm-partners-with-jnpa-to-develop-new-mega-container-port-in-india/"><u>https://container-news.com/hmm-partners-with-jnpa-to-develop-new-mega-container-port-in-india/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

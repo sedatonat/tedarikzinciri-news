@@ -35,4 +35,3 @@ tags:
   <li><p>Siber suçlulara karşı ulusal ve uluslararası yasal yaptırımların artırılması önemlidir.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.allthingssupplychain.com/why-cybercriminals-target-the-freight-industry/"><u>https://www.allthingssupplychain.com/why-cybercriminals-target-the-freight-industry/</u></a></p>

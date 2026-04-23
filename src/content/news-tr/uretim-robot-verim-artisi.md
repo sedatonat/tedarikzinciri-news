@@ -122,7 +122,6 @@ Sonuç: 3PL’ler ve depo yöneticileri kaynakları dakika bazında optimize ede
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42770-the-roi-multiplier-how-minimizing-robots-maximizes-throughput-and-savings"><u>https://www.supplychainbrain.com/articles/42770-the-roi-multiplier-how-minimizing-robots-maximizes-throughput-and-savings</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

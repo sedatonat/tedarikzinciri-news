@@ -35,9 +35,6 @@ tags:
 3. <strong>U.S. Supreme Court</strong>; 20 Haziran&rsquo;da yedi-iki ile fosil yakıt şirketlerinin itiraz hakkını destekliyor.<br>
 4. <strong>California</strong>; 2035&rsquo;e kadar sadece sıfır emisyonlu araç satışı zorunluluğu koyuyor.<br>
 5. <strong>Section 177</strong> eyaletleri; <strong>California</strong> standartlarını benimsiyor &mdash; muafiyet kaldırılması bunlara da yayılıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42010-ata-approves-revocation-of-calif-emissions-rule"><u>https://www.supplychainbrain.com/articles/42010-ata-approves-revocation-of-calif-emissions-rule</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

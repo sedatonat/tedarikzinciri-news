@@ -77,7 +77,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Result: more balanced workloads, fewer delays, and more reliable deliveries.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/how-neural-networks-are-changing-warehouse-picking"><u>https://www.supplychain247.com/article/how-neural-networks-are-changing-warehouse-picking</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

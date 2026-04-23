@@ -41,7 +41,6 @@ tags:
   <li><p>Veri entegrasyonu uyumu ve hızı artırır.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41694-staying-compliant-and-competitive-through-sustainable-packaging" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/41694-staying-compliant-and-competitive-through-sustainable-packaging</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

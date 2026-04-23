@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Krizin yan etkileri kapsamında <strong>Honda Motor Co.</strong>, tedarik sıkıntıları nedeniyle önümüzdeki haftalarda Japonya ve Çin&rsquo;deki fabrikalarında üretimi durdurmayı planladığını açıkladı. Tedarik zinciri perspektifinden bakıldığında <strong>just-in-time</strong> üretim modeline bağımlı OEM&rsquo;ler, tek bir tedarikçi düğümünden kaynaklanan jeopolitik şokların tüm hatları durdurma kapasitesine sahip olduğunu bir kez daha deneyimledi. <strong>Bosch</strong>, <strong>Continental</strong> ve <strong>Aptiv</strong> gibi Tier-1 tedarikçiler, alternatif kaynak bulma çabalarını hızlandırdı; ancak güç yarı iletkenleri segmentinde Nexperia&rsquo;nın boşluğunu kısa vadede doldurmak teknik olarak mümkün olmadı.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43036-wingtech-chair-warns-chip-turmoil-to-worsen-on-nexperia-spat"><u>https://www.supplychainbrain.com/articles/43036-wingtech-chair-warns-chip-turmoil-to-worsen-on-nexperia-spat</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

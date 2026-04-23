@@ -43,7 +43,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://container-news.com/cma-cgm-announces-pss-from-med-to-us-east-coast-and-us-gulf/"><u>https://container-news.com/cma-cgm-announces-pss-from-med-to-us-east-coast-and-us-gulf/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

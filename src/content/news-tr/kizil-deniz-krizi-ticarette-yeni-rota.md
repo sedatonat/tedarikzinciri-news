@@ -31,4 +31,3 @@ tags:
 <p><br></p>
 <p>Ayrıca, kış tatillerinden sonra stoklarda eksiklikler yaşanabilir. Bu durum, özellikle tatil alışveriş sezonundan sonra Şubat ayında daha belirgin hale gelebilir.</p>
 <p><br></p>
-<p>Haber linki: <a href="https://www.supplychainquarterly.com/articles/9309-eu-manufacturing-sector-could-stumble-as-ships-divert-from-violence-at-suez-canal"><u>https://www.supplychainquarterly.com/articles/9309-eu-manufacturing-sector-could-stumble-as-ships-divert-from-violence-at-suez-canal</u></a></p>

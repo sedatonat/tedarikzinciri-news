@@ -69,7 +69,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/amazon-one-hour-in-store-pickup-rush-service"><u>https://www.supplychain247.com/article/amazon-one-hour-in-store-pickup-rush-service</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

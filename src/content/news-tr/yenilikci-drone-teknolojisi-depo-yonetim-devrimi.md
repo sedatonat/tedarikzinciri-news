@@ -36,4 +36,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/39130-anyline-launches-autonomous-drone-barcode-scanning-technology"><u>https://www.supplychainbrain.com/articles/39130-anyline-launches-autonomous-drone-barcode-scanning-technology</u></a></p>

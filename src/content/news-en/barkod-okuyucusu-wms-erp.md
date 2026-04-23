@@ -48,7 +48,6 @@ tags:
   <li><p>Hybrid architectures provide practical solutions.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41323-are-hardware-scanners-a-thing-of-the-past" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41323-are-hardware-scanners-a-thing-of-the-past</u></a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP?</strong> Our book has been published on Google Play Books.</p>

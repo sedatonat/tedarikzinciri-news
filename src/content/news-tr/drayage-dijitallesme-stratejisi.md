@@ -135,7 +135,6 @@ Başarılı firmaların ortak noktası:</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42873-drayage-best-practices-five-tips-to-elevate-operations"><u>https://www.supplychainbrain.com/articles/42873-drayage-best-practices-five-tips-to-elevate-operations</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

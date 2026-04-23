@@ -36,9 +36,6 @@ tags:
 3. Önümüzdeki iki yıl: %33 envanter optimizasyonu; %30 <strong>predictive maintenance</strong>; %27 karar otomasyonu.<br>
 4. <strong>Paxton</strong>; bağlı, akıllı ve otomatik gerçek zamanlı ağları zorunlu olarak görüyor.<br>
 5. <strong>Blake</strong>; operasyonel istikrarsızlık varlığında yapay zekaya geçilmekte olunmasının başarısızlık ihtimalinin yüksek olduğunu vurguluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43867-supply-chain-execs-flag-ai-as-top-disruptor-for-logistics-sector"><u>https://www.supplychainbrain.com/articles/43867-supply-chain-execs-flag-ai-as-top-disruptor-for-logistics-sector</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

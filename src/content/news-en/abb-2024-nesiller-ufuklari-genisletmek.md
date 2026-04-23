@@ -49,7 +49,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/abb-releases-2024-edition-of-generations-expanding-horizons/"><u>https://gcaptain.com/abb-releases-2024-edition-of-generations-expanding-horizons/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>

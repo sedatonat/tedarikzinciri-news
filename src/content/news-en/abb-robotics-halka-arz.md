@@ -37,7 +37,6 @@ tags:
   <li><p>Market-focused innovation can be accelerated.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41579-abb-to-spin-off-robotics-unit-for-2026-stock-market-listing"><u>https://www.supplychainbrain.com/articles/41579-abb-to-spin-off-robotics-unit-for-2026-stock-market-listing</u></a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP?</strong> Our book has been published on Google Play Books.</p>

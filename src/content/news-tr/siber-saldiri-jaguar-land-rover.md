@@ -55,7 +55,6 @@ tags:
 </ul>
 <p style="text-align: justify"><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.theguardian.com/business/2025/sep/20/jaguar-land-rover-hack-factories-cybersecurity-jlr"><u>https://www.theguardian.com/business/2025/sep/20/jaguar-land-rover-hack-factories-cybersecurity-jlr</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

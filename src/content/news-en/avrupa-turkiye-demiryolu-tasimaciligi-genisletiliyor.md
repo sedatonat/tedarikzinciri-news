@@ -31,4 +31,3 @@ tags:
   <li><p>Approximately 14 percent of the company's 1.9 million vehicles transported annually are handled via rail.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.lojistikhatti.com/haber/2024/02/hodlmayr-avrupa-ile-turkiye-arasinda-demiryolu-tasimasini-surekli-hale-getiriyor"><u>https://www.lojistikhatti.com/haber/2024/02/hodlmayr-avrupa-ile-turkiye-arasinda-demiryolu-tasimasini-surekli-hale-getiriyor</u></a></p>

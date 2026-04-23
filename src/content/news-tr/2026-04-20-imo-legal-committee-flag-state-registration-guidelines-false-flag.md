@@ -32,9 +32,6 @@ tags:
 3. IMO Genel Sekreteri Arsenio Dominguez kararı 'olumlu bir adım' olarak nitelendirdi.<br>
 4. Karar; Londra'daki Hukuk Komitesi'nin 113. oturumunda (13-17 Nisan) onaylandı.<br>
 5. Yeni çerçeve; karanlık filo ve sahte bayrak operasyonlarına karşı küresel uyum standardı sunuyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/imo-adopts-guidelines-to-tackle-false-flag-operations/"><u>https://www.porttechnology.org/imo-adopts-guidelines-to-tackle-false-flag-operations/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -35,9 +35,6 @@ tags:
 3. <strong>Elon Musk</strong>; küresel satışlar için zorlu Q4 ile karşılaşıyor.<br>
 4. <strong>Europe</strong> da paralel düşüş eğilimi gösteriyor.<br>
 5. <strong>BYD</strong>; <strong>Xiaomi</strong> ve diğer <strong>Chinese</strong> oyuncular pazar payı kapmakta.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42790-tesla-china-shipments-drop-for-the-eighth-time-in-10-months"><u>https://www.supplychainbrain.com/articles/42790-tesla-china-shipments-drop-for-the-eighth-time-in-10-months</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

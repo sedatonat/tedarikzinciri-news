@@ -93,7 +93,6 @@ Rodriguez’e göre Blue Highways, New York’un <strong>20. yüzyıl kamyon oda
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/nyc-blue-highways-water-freight-pilot"><u>https://www.supplychain247.com/article/nyc-blue-highways-water-freight-pilot</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

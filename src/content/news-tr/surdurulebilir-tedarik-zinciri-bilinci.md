@@ -35,4 +35,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/39587-caveat-emptor-procurement-continues-to-ignore-sustainability-at-its-own-risk"><u>https://www.supplychainbrain.com/articles/39587-caveat-emptor-procurement-continues-to-ignore-sustainability-at-its-own-risk</u></a></p>

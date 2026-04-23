@@ -58,7 +58,6 @@ It operates ports, terminals, industrial parks, and logistics services in <stron
   <li style="text-align: justify"><p style="text-align: justify">Mombasa will strengthen its position as <strong>a digital logistics hub for East and Central Africa</strong> through this system.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://en.portnews.ru/news/383765/"><u>https://en.portnews.ru/news/383765/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -35,7 +35,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/beltandroad/2025/02/24/mongolia-and-china-plan-to-open-second-rail-border-crossing-by-2028/"><u>https://www.railfreight.com/beltandroad/2025/02/24/mongolia-and-china-plan-to-open-second-rail-border-crossing-by-2028/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

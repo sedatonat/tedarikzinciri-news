@@ -22,7 +22,6 @@ tags:
 <p><br></p>
 <p>Olay, supplier connectivity, production scheduling, ve parts sequencing süreçlerinde aksamalara yol açtı; özellikle just-in-time (JIT) ve just-in-sequence (JIS) akışlarındaki kırılganlık gözler önüne serildi.&nbsp;</p>
 <p><br></p>
-<p>Haber Linki: https://www.supplychainbrain.com/articles/42628-jaguar-land-rover-to-restart-output-in-uk-after-cyberattack</p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

@@ -45,7 +45,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.youtube.com/watch?v=QOj9W1RlcIA"><u>https://www.youtube.com/watch?v=QOj9W1RlcIA</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>
 <p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>

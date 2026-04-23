@@ -49,7 +49,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://splash247.com/seaspan-eyes-nuclear-powered-boxships/"><u>https://splash247.com/seaspan-eyes-nuclear-powered-boxships/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/">SedatOnat.com</a></p>
 <p>--------------------</p>

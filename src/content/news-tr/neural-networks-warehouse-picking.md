@@ -79,7 +79,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Sonuç: daha dengeli iş yükü, daha az gecikme ve daha güvenilir teslimat.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/how-neural-networks-are-changing-warehouse-picking"><u>https://www.supplychain247.com/article/how-neural-networks-are-changing-warehouse-picking</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

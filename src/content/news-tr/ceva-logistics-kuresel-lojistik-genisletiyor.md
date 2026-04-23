@@ -31,4 +31,3 @@ tags:
   <li><p>Dikey yapılanma, müşteri sorunlarına çözüm geliştirme sürecini hızlandıracak.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10524-ceva-logistics-to-fold-bollore-logistics-into-its-operations"><u>https://www.thescxchange.com/articles/10524-ceva-logistics-to-fold-bollore-logistics-into-its-operations</u></a></p>

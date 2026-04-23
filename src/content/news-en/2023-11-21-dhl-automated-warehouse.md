@@ -25,4 +25,3 @@ tags:
 <p><br></p>
 <p>These warehouses utilize AutoStore's automated storage and retrieval systems and employ more than 1,000 robots across their storage networks. DHL aims to cut implementation time for new warehouse systems in half through this technology. The automated system is particularly suited for handling small items such as fashion and technology products, and is recognized as a valuable tool for e-commerce.</p>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.supplychaindive.com/news/DHL-Supply-Chain-AutoStore-warehouses-reinforces-robotics-and-automation-strategy/699805/"><u>https://www.supplychaindive.com/news/DHL-Supply-Chain-AutoStore-warehouses-reinforces-robotics-and-automation-strategy/699805/</u></a></p>

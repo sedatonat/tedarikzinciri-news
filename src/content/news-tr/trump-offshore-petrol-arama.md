@@ -103,7 +103,6 @@ Yine de taslak, <strong>Trump’ın enerji üretimini “ulusal öncelik” hali
 </ul>
 <p style="text-align: justify"><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/trump-plan-would-open-almost-all-coast-to-offshore-drilling/"><u>https://gcaptain.com/trump-plan-would-open-almost-all-coast-to-offshore-drilling/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

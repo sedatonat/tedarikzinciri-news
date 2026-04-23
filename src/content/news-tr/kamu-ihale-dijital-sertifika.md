@@ -55,7 +55,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.yenisafak.com/ekonomi/ihale-sistemi-sil-bastan-4669727"><u>https://www.yenisafak.com/ekonomi/ihale-sistemi-sil-bastan-4669727</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

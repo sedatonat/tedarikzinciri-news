@@ -34,7 +34,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://splash247.com/south-korea-turns-to-landlocked-uzbekistan-to-fill-gaps-in-shipbuilding-workforce/"><u>https://splash247.com/south-korea-turns-to-landlocked-uzbekistan-to-fill-gaps-in-shipbuilding-workforce/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

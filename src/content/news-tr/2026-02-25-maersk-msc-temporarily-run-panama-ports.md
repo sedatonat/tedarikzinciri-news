@@ -36,9 +36,6 @@ tags:
 3. <strong>Supreme Court</strong>, <strong>CK Hutchison</strong>&rsquo;ın imtiyazlarını geçersiz kılıyor.<br>
 4. <strong>CK Hutchison</strong>, el konulma işlemine karşı yasal yollara başvurmakta olmayı planlıyor.<br>
 5. <strong>China</strong>, kendi firmalarına <strong>Panama</strong>&rsquo;daki projeleri durduruyor olmalarını emrediyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43536-maersk-msc-units-to-temporarily-run-disputed-panama-ports"><u>https://www.supplychainbrain.com/articles/43536-maersk-msc-units-to-temporarily-run-disputed-panama-ports</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

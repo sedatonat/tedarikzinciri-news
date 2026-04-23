@@ -70,7 +70,6 @@ The digital platform called <strong>Altana Atlas</strong> uses <strong>artificia
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.joc.com/article/increased-supply-chain-scrutiny-at-odds-with-customs-enforcement-capability-6108523"><u>https://www.joc.com/article/increased-supply-chain-scrutiny-at-odds-with-customs-enforcement-capability-6108523</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

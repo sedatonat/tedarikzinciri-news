@@ -23,9 +23,6 @@ tags: ["Maersk", "AE1", "Asya-Avrupa", "Anvers", "Gemini Cooperation", "Hamburg 
 3. The first westbound sailing will be operated by Hamburg Express, departing Shanghai on 6 March 2026.<br>
 4. Adding Antwerp delivers new hinterland options for shippers along the Belgium–Netherlands axis.<br>
 5. The move supports the Gemini Cooperation schedule reliability objective.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/maersk-adds-antwerp-to-ae1-asia-europe-loop/"><u>https://www.porttechnology.org/maersk-adds-antwerp-to-ae1-asia-europe-loop/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

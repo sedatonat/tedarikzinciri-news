@@ -74,7 +74,6 @@ yer alıyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/shoreham-port-wins-espo-award-for-inclusion/"><u>https://www.porttechnology.org/news/shoreham-port-wins-espo-award-for-inclusion/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

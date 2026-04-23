@@ -71,7 +71,6 @@ operasyonel verimliliği artırıyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/portchain-network-helps-carriers-save-800000-tonnes-of-co2/"><u>https://www.porttechnology.org/news/portchain-network-helps-carriers-save-800000-tonnes-of-co2/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

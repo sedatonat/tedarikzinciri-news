@@ -34,4 +34,3 @@ tags:
   <li><p>Komite, zorla işçiliği tespit etmek ve yasalara uyumu sağlamak için denetimler konusunda daha net yönergelerin verilmesini önerdi.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychaindive.com/news/bmw-imports-banned-supplier-senate-report/716930/"><u>https://www.supplychaindive.com/news/bmw-imports-banned-supplier-senate-report/716930/</u></a></p>

@@ -38,4 +38,3 @@ tags:
   <li><p>Otomatik güvenlik süreçleri ve sürekli tehdit istihbaratı, ERP sistemlerinin güvenliğini sağlamak için kritik öneme sahip.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/40159-manufacturings-hidden-risk-will-be-outdated-sap-systems"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/40159-manufacturings-hidden-risk-will-be-outdated-sap-systems</u></a></p>

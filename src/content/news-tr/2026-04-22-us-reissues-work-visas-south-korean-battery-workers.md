@@ -35,9 +35,6 @@ tags:
 3. En az 30 işçi; <strong>Georgia</strong> tesisine geri dönüyor.<br>
 4. <strong>Class-action</strong> dava; sağlıksız tutuklama koşulları ve yasadışı tutuklama iddiası içeriyor.<br>
 5. <strong>South Korea</strong> Dışişleri; &ldquo;hızlı ve esnek&rdquo; <strong>U.S.</strong> hareketini takdir ediyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42840-us-reissues-some-work-visas-for-south-korean-battery-plant-workers"><u>https://www.supplychainbrain.com/articles/42840-us-reissues-some-work-visas-for-south-korean-battery-plant-workers</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

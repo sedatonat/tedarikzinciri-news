@@ -41,4 +41,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://en.portnews.ru/news/360628/"><u>https://en.portnews.ru/news/360628/</u></a></p>

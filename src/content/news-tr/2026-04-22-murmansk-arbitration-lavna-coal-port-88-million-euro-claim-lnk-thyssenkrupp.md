@@ -28,9 +28,6 @@ tags:
 3. AB şirketleri yaptırımlar nedeniyle sözleşme yükümlülüklerini yerine getirmedi.<br>
 4. Daha önce alınan avans ödemeleri de iade edilmedi.<br>
 5. Tazminat; projenin alternatif Rus ve Çin tedarikçilerle tamamlanmasında kullanılacak.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://en.portnews.ru/news/390647/"><u>https://en.portnews.ru/news/390647/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

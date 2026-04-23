@@ -29,9 +29,6 @@ tags:
 3. Günde 20 milyon manuel tarama devre dışı kalıyor.<br>
 4. Ingram Micro, sistemi büyük ölçekli olarak kullanan ilk müşterilerden biri.<br>
 5. FedEx de RFID denemelerini paralel olarak yürütüyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychaindive.com/news/ups-rfid-expansion-shipment-visibility-fedex/816750/"><u>https://www.supplychaindive.com/news/ups-rfid-expansion-shipment-visibility-fedex/816750/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

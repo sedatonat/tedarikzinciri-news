@@ -35,9 +35,6 @@ tags:
 3. <strong>NASA CLPS</strong> programı; ~2.6 milyar dolar 14 yüklenici oluyor.<br>
 4. <strong>Intuitive Machines</strong>; <strong>Astrobotic</strong>; ana ek <strong>CLPS</strong> oyuncuları oluyor.<br>
 5. <strong>Artemis III</strong>; insan iniş 2027 hedef oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41330-lunar-first-private-company-successfully-puts-lander-on-moon"><u>https://www.supplychainbrain.com/articles/41330-lunar-first-private-company-successfully-puts-lander-on-moon</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

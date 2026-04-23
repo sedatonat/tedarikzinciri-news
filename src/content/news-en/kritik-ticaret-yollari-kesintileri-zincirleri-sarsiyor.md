@@ -36,4 +36,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://en.portnews.ru/news/360632/"><u>https://en.portnews.ru/news/360632/</u></a></p>

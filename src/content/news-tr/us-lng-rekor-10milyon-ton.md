@@ -62,7 +62,6 @@ Fiyat farkı son derece dar olduğu için ABD ihracatçılarının <strong>Avrup
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/u-s-becomes-first-country-to-export-10-million-tonnes-of-lng-in-single-month/"><u>https://gcaptain.com/u-s-becomes-first-country-to-export-10-million-tonnes-of-lng-in-single-month/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

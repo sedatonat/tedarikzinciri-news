@@ -29,9 +29,6 @@ tags:
 3. YMSlite; tam kurumsal platform uygulamadan saha süreçlerini dijitalleştirmek isteyen siteler için daha hafif bir çözüm olarak konumlandırıldı.<br>
 4. Özellikler; kapı plaka tanıma, sürücü mobil uygulaması, saha haritalama ve gerçek zamanlı bildirimler.<br>
 5. Bulut tabanlı yapı; uygulama süresini kısaltıyor ve IT altyapısı yatırımlarını azaltıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/inform-expands-yard-management-portfolio-with-yms/"><u>https://www.porttechnology.org/inform-expands-yard-management-portfolio-with-yms/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

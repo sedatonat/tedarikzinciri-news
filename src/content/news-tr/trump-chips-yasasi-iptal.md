@@ -44,7 +44,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Yasanın iptali, ABD'nin ulusal güvenliği ve ekonomik istikrarı üzerinde olumsuz etkilere yol açabilir.</p></li>
 </ul>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/trump-to-kill-chips-act-not-that-simple-defunding/741963/"><u>https://www.supplychaindive.com/news/trump-to-kill-chips-act-not-that-simple-defunding/741963/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

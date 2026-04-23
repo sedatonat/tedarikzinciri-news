@@ -33,10 +33,6 @@ tags:
 - AI tabanlı TCO analizleri karar kalitesini iyileştiriyor.<br>
 - Politik belirsizlikler üretim ağlarını yeniden şekillendiriyor.<br>
 - Tarife planlama araçları senaryo bazlı esneklik sağlıyordır.</p>
-<p><br>
----<br>
-Haber Linki: https://www.supplychainbrain.com/blogs/1-think-tank/post/42515-navigating-tariffs-market-uncertainty-and-the-growing-momentum-for-reshoring<br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

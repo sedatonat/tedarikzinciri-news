@@ -57,7 +57,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The investment is part of Wan Hai's capacity expansion and equipment renewal strategy.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://container-news.com/wan-hai-orders-49300-new-containers/"><u>https://container-news.com/wan-hai-orders-49300-new-containers/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

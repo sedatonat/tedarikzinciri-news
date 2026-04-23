@@ -28,9 +28,6 @@ tags: ['Çin', 'Avustralya', 'Darwin Limanı', 'Landbridge', 'jeopolitik', 'lima
 3. The <strong>Albanese</strong> government is committed to returning the port to local control.<br>
 4. The port is located near facilities hosting <strong>U.S. Marines</strong> rotations.<br>
 5. <strong>China</strong> stands out as <strong>Australia</strong>'s largest trade partner.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43363-china-is-watching-australia-very-closely-on-darwin-port-issue"><u>https://www.supplychainbrain.com/articles/43363-china-is-watching-australia-very-closely-on-darwin-port-issue</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

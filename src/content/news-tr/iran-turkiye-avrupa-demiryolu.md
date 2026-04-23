@@ -52,7 +52,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Proje, 2029–2030 öncesi hazır olmayacak; kısa vadeli bir çözüm değil, stratejik altyapı hamlesi.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/beltandroad/2025/11/26/iran-plans-new-railway-for-china-europe-traffic/"><u>https://www.railfreight.com/beltandroad/2025/11/26/iran-plans-new-railway-for-china-europe-traffic/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

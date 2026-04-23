@@ -77,7 +77,6 @@ tags:
 </ul>
 <p style="text-align: justify"><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/houthi-pause-on-shipping-attacks-lowers-tensions-but-risk-remains-6114790"><u>https://www.joc.com/article/houthi-pause-on-shipping-attacks-lowers-tensions-but-risk-remains-6114790</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

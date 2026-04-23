@@ -36,9 +36,6 @@ tags:
 3. <strong>Panama</strong>; <strong>CK Hutchison</strong>&rsquo;dan iki terminali Şubat&rsquo;ta zorla devralıyor.<br>
 4. <strong>BlackRock</strong>&rsquo;ın yer aldığı 19 milyar dolarlık 43 liman anlaşması tıkanmakta.<br>
 5. Çözüm umudu <strong>Trump</strong>-<strong>Xi</strong> görüşmesine bağlanıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43630-chinas-cosco-halts-panama-port-operations-as-tensions-rise"><u>https://www.supplychainbrain.com/articles/43630-chinas-cosco-halts-panama-port-operations-as-tensions-rise</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

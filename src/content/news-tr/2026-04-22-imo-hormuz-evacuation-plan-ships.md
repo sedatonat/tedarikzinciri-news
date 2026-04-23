@@ -36,9 +36,6 @@ tags:
 3. Transitler; 1968&rsquo;de <strong>IMO</strong> tarafından benimseniyor olan <strong>Traffic Separation Scheme</strong> üzerinden yapılıyor olunacak.<br>
 4. <strong>Dominguez</strong>; tahliyeyi mürettebat odaklı insani koridor olarak tanımlıyor.<br>
 5. <strong>U.S.</strong> boğaz ablukası; durumu daha da tehlikeli hale getiriyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43903-imo-prepares-hormuz-evacuation-plan-for-hundreds-of-ships"><u>https://www.supplychainbrain.com/articles/43903-imo-prepares-hormuz-evacuation-plan-for-hundreds-of-ships</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

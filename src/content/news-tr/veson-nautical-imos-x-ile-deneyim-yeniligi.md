@@ -35,7 +35,6 @@ tags:
   <li><p>CEO John Veson, IMOS X'in karmaşıklığı basitleştirmeyi amaçladığını belirtti.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/veson-nautical-enhancing-tools-for-freight-management-platform/"><u>https://www.porttechnology.org/news/veson-nautical-enhancing-tools-for-freight-management-platform/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

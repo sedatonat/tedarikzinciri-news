@@ -39,7 +39,6 @@ tags:
   <li><p>Control tower accelerates exception management.</p></li>
 </ul>
 <p>-------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42512-ai-allows-walmart-to-even-anticipate-changes-in-supply-chain"><u>https://www.supplychainbrain.com/articles/42512-ai-allows-walmart-to-even-anticipate-changes-in-supply-chain</u></a></p>
 <p>-------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Purchase an ERP?</strong> Our book has been published on Google Play Books.</p>

@@ -78,7 +78,6 @@ sağlıyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/maersk-opens-140m-flagship-logistics-centre-in-shanghai/"><u>https://www.porttechnology.org/news/maersk-opens-140m-flagship-logistics-centre-in-shanghai/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

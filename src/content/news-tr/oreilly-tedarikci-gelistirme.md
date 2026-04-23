@@ -78,7 +78,6 @@ Kirby, şirketin <strong>fiyat hareketlerini yakından takip ettiğini</strong> 
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/oreilly-automotive-supplier-health-tariff-shield/804320/"><u>https://www.supplychaindive.com/news/oreilly-automotive-supplier-health-tariff-shield/804320/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

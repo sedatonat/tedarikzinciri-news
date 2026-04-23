@@ -36,9 +36,6 @@ tags:
 3. Ölçeklenebilir ağlar; viral talep sıçramalarını ele alıyor.<br>
 4. Veri bütünlüğü; çoklu eller arasında zorunlu oluyor.<br>
 5. <strong>UniUni</strong>; <strong>Asian e-commerce</strong> odaklı son-mil ağı işlediyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43659-last-mile-e-commerce-delivery-has-changed-what-to-look-for-in-a-carrier-now"><u>https://www.supplychainbrain.com/articles/43659-last-mile-e-commerce-delivery-has-changed-what-to-look-for-in-a-carrier-now</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

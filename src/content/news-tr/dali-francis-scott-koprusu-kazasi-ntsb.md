@@ -91,7 +91,6 @@ yönelik yapısal, teknik ve operasyonel kapsamda geliştirmeler içeriyor.</p><
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/single-loose-wire-caused-dalis-catastrophic-bridge-strike-ntsb-concludes/"><u>https://gcaptain.com/single-loose-wire-caused-dalis-catastrophic-bridge-strike-ntsb-concludes/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

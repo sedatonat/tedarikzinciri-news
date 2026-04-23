@@ -38,7 +38,6 @@ tags:
   <li><p>24/7 karbon-sız enerji hedefiyle uyumludur.</p></li>
 </ul>
 <p>-----</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42351-google-unveils-plans-for-advanced-nuclear-plant-in-tennessee" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/42351-google-unveils-plans-for-advanced-nuclear-plant-in-tennessee</u></a></p>
 <p>-----</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

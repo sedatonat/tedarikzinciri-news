@@ -71,7 +71,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/dhl_global_forwarding_launches_consolidated_clearance_service_to_simplify_u.s_import_process_for_retailers"><u>https://www.supplychain247.com/article/dhl_global_forwarding_launches_consolidated_clearance_service_to_simplify_u.s_import_process_for_retailers</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -27,9 +27,6 @@ tags: ['Maersk', 'APM Terminals', 'Port of NY/NJ', 'Elizabeth', 'konteyner termi
 3. Super <strong>post-Panamax</strong> cranes handle vessels up to 23 containers wide.<br>
 4. <strong>Port of NY/NJ</strong> is the largest container port on the U.S. East Coast.<br>
 5. <strong>APM Terminals</strong>, <strong>Maher</strong>, <strong>PNCT</strong>, and <strong>GCT</strong> are principal port terminal operators.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41420-ap-moller-maersk-extends-lease-at-port-of-ny-and-new-jersey"><u>https://www.supplychainbrain.com/articles/41420-ap-moller-maersk-extends-lease-at-port-of-ny-and-new-jersey</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book is Available on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>

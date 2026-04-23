@@ -78,7 +78,6 @@ Shah’a göre değişen kültürel ve politik iklim, şirketleri “sorumlu ted
   <li style="text-align: justify"><p style="text-align: justify"><strong>%87</strong> oranında üst yönetim desteği sürüyor.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/small-suppliers-supply-chain-strategy-2025"><u>https://www.supplychain247.com/article/small-suppliers-supply-chain-strategy-2025</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

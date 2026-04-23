@@ -25,4 +25,3 @@ tags:
 <p><br></p>
 <p>Bu depolar, AutoStore'un otomatik depolama ve geri alma sistemlerini kullanıyor ve depolama ağlarında 1.000'den fazla robotu istihdam ediyor. DHL, bu teknoloji ile yeni depo sistemlerini uygulama süresini yarıya indirmeyi hedefliyor. Otomatik sistem, özellikle moda ve teknoloji ürünleri gibi küçük ürünlerin işlenmesi için uygun olup E-ticaret için değerli bir araç olarak kabul ediliyor.&nbsp;</p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychaindive.com/news/DHL-Supply-Chain-AutoStore-warehouses-reinforces-robotics-and-automation-strategy/699805/"><u>https://www.supplychaindive.com/news/DHL-Supply-Chain-AutoStore-warehouses-reinforces-robotics-and-automation-strategy/699805/</u></a></p>

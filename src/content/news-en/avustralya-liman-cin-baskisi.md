@@ -52,7 +52,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://container-news.com/australian-port-operations-under-pressure-amid-chinese-military-actions/"><u>https://container-news.com/australian-port-operations-under-pressure-amid-chinese-military-actions/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>

@@ -50,7 +50,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/chinese-research-ships-us-military-active-in-north-pacific-monitor-shows-2/"><u>https://gcaptain.com/chinese-research-ships-us-military-active-in-north-pacific-monitor-shows-2/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

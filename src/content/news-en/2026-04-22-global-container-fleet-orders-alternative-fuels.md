@@ -27,9 +27,6 @@ tags: ['BIMCO', 'LNG', 'methanol', 'konteyner gemi', 'alternatif yakıt', 'deniz
 3. 81% of large vessels of 8,000+ <strong>TEU</strong> are alternative-fuel powered.<br>
 4. <strong>LNG</strong> accounts for 2/3 of alternative orders; methanol for 31%.<br>
 5. By 2030, a quarter of the global container fleet is projected to operate on alternative fuel.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42520-global-container-fleet-orders-tilt-toward-alternative-fuels"><u>https://www.supplychainbrain.com/articles/42520-global-container-fleet-orders-tilt-toward-alternative-fuels</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>

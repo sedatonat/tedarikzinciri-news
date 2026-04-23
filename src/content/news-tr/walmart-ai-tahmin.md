@@ -39,7 +39,6 @@ tags:
   <li><p>Kontrol kulesi istisna yönetimini hızlandırıyordır.</p></li>
 </ul>
 <p>-------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42512-ai-allows-walmart-to-even-anticipate-changes-in-supply-chain"><u>https://www.supplychainbrain.com/articles/42512-ai-allows-walmart-to-even-anticipate-changes-in-supply-chain</u></a></p>
 <p>-------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

@@ -49,7 +49,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/ifs_to_acquire_warehouse_management_software_provider_softeon"><u>https://www.supplychain247.com/article/ifs_to_acquire_warehouse_management_software_provider_softeon</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -42,7 +42,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/40467-automation-of-procurement-functions-could-make-a-better-world"><u>https://www.supplychainbrain.com/articles/40467-automation-of-procurement-functions-could-make-a-better-world</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

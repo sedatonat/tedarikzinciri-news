@@ -38,7 +38,6 @@ tags:
   <li><p>Küresel konteyner piyasası büyümesinin yıl genelinde yaklaşık %6 olması bekleniyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/maersk-reports-41-per-cent-increase-in-ocean-revenue/"><u>https://www.porttechnology.org/news/maersk-reports-41-per-cent-increase-in-ocean-revenue/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

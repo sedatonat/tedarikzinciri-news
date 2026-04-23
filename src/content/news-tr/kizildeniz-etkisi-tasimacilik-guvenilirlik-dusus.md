@@ -35,4 +35,3 @@ tags:
   <li><p><a href="https://en.wikipedia.org/wiki/CMA_CGM"><u>CMA CGM</u></a>, ilk kez en güvenilir taşıyıcı olarak kaydedildi.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.linkedin.com/posts/larsjensenvespuccimaritime_sea-intelligence-has-released-reliability-activity-7168291802859388928-rzAm"><u>https://www.linkedin.com/posts/larsjensenvespuccimaritime_sea-intelligence-has-released-reliability-activity-7168291802859388928-rzAm</u></a></p>

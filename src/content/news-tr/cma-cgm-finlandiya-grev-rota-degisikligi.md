@@ -35,4 +35,3 @@ tags:
   <li><p><a href="https://en.wikipedia.org/wiki/CMA_CGM"><u>CMA CGM</u></a>, Renault Group ve Volvo Group ile birlikte <a href="https://media.renaultgroup.com/renault-group-volvo-group-and-cma-cgm-group-launch-flexis-sas/"><u>Flexis SAS</u></a>'ın kurucu üyeleri arasında.</p></li>
 </ol>
 <p><br></p>
-<p>Haber Linki: <a href="https://www.porttechnology.org/news/cma-cgm-announces-service-strikes-in-finland/"><u>https://www.porttechnology.org/news/cma-cgm-announces-service-strikes-in-finland/</u></a></p>

@@ -30,9 +30,6 @@ tags:
 3. İndirim, 130.000 SCNT ton ve üzeri dolu ve balastlı gemileri kapsıyordu.<br>
 4. 13 Mayıs 2025 ve 17 Kasım 2025 tarihli iki periyodik yürürlükten kaldırıldı.<br>
 5. Karar, Kızıldeniz risklerinin sürdüğü ve Süveyş trafiğinin zayıf kaldığı bir dönemde geldi.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/suez-canal-cancels-rebate-for-large-boxships/"><u>https://www.porttechnology.org/suez-canal-cancels-rebate-for-large-boxships/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

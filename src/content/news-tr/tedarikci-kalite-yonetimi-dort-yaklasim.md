@@ -43,4 +43,3 @@ tags:
 </p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.scmr.com/article/4-nonmonetary-motivators-drive-supplier-quality-improvements"><u>https://www.scmr.com/article/4-nonmonetary-motivators-drive-supplier-quality-improvements</u></a></p>

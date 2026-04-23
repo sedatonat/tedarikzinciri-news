@@ -35,9 +35,6 @@ tags:
 3. <strong>Çin</strong>&rsquo;in planlıyor olduğu büyük paket yaklaşık 500 uçak içeriyor.<br>
 4. Sipariş, yazılım kaynaklı küresel geri çağırma sürecindeki <strong>Airbus</strong>&rsquo;a önemli bir destek sağlıyor.<br>
 5. <strong>Spring Airlines</strong> ve <strong>Juneyao Airlines</strong>, önceden <strong>8,2 milyar dolar</strong>lık ek anlaşmalar imzalıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43057-air-china-to-buy-60-airbus-a320neo-planes-for-953b"><u>https://www.supplychainbrain.com/articles/43057-air-china-to-buy-60-airbus-a320neo-planes-for-953b</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında <strong>Baltık Denizi</strong>; Avrupa-Rusya enerji ve veri akışı için kritik bir koridor oluyor &mdash; <strong>Nord Stream</strong>, <strong>BalticConnector</strong>, çok sayıda fiber optik bağlantı bu bölgeden geçiyor. Denizaltı kablolar; küresel veri trafiğinin yüzde 95&rsquo;inden fazlasını taşıyor ve sigorta, finansal işlem, askeri komuta-kontrol açısından stratejik öneme sahip oluyor. <strong>Cinia</strong> (Finlandiya) ve <strong>Tele2</strong> (İsveç) gibi operatörler için artan onarım maliyetleri ve özel bakım gemisi (<em>cable repair vessel</em>) talebi; sektörel kapasite darboğazını derinleştirmekte. <strong>NATO</strong>&rsquo;nun yeni hibrit tehdit doktrini; <strong>Article 5</strong> kapsamında deniz altı altyapı saldırılarının nasıl değerlendirileceğine ilişkin tartışmaları gündeme getiriyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43063-finnish-authorities-seize-ship-suspected-of-sabotaging-underwater-cables"><u>https://www.supplychainbrain.com/articles/43063-finnish-authorities-seize-ship-suspected-of-sabotaging-underwater-cables</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

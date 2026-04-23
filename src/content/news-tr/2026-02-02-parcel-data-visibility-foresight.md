@@ -36,9 +36,6 @@ tags:
 3. <strong>Scenario modeling</strong>, ilk teklif ile en uygun yapı arasındaki farkları ortaya çıkarıyor.<br>
 4. Sevkiyat verisi; sözleşme, fatura ve ek ücret dokümantasyonu ile birlikte analiz ediliyor.<br>
 5. <strong>Parcel intelligence</strong> platformları, manuel raporlamayı geride bırakıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43154-from-visibility-to-foresight-a-better-approach-to-parcel-data"><u>https://www.supplychainbrain.com/articles/43154-from-visibility-to-foresight-a-better-approach-to-parcel-data</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

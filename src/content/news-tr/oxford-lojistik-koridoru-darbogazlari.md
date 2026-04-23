@@ -46,7 +46,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://splash247.com/oxford-flags-14bn-annual-hit-as-fragile-chokepoints-strain-global-trade/"><u>https://splash247.com/oxford-flags-14bn-annual-hit-as-fragile-chokepoints-strain-global-trade/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/">SedatOnat.com</a></p>
 <p>--------------------</p>

@@ -36,7 +36,6 @@ tags:
   <li><p>Liman, altyapı yatırımları ve teknolojik yeniliklerle operasyonel kapasitesini artırmaya devam ediyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/port-of-long-beach-reports-road-reopening-after-battery-fire/"><u>https://www.porttechnology.org/news/port-of-long-beach-reports-road-reopening-after-battery-fire/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

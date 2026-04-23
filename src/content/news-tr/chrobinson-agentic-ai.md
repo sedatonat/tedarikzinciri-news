@@ -70,7 +70,6 @@ Bu hız, tedarik zincirinin tüm aşamalarında zincirleme bir etki yaratarak te
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychain247.com/article/c.h_robinson_launches_agentic_supply_chain_ushering_in_a_new_era_of_ai_driven_logistics_intelligence"><u>https://www.supplychain247.com/article/c.h_robinson_launches_agentic_supply_chain_ushering_in_a_new_era_of_ai_driven_logistics_intelligence</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

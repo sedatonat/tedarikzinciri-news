@@ -50,7 +50,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/gamification-boosts-warehouse-productivity-joe-mcmanus-korber-supply-chain-software"><u>https://www.supplychain247.com/article/gamification-boosts-warehouse-productivity-joe-mcmanus-korber-supply-chain-software</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

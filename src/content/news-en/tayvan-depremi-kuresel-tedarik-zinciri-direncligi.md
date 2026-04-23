@@ -35,4 +35,3 @@ tags:
   <li><p>Companies need to proactively understand where materials are manufactured, distributed, and stored.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10062-taiwans-earthquake-heightens-need-for-antifragile-global-supply-chains"><u>https://www.thescxchange.com/articles/10062-taiwans-earthquake-heightens-need-for-antifragile-global-supply-chains</u></a></p>

@@ -47,7 +47,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/kinaxis-launches-first-ever-supply-chain-orchestration-maturity-model"><u>https://www.supplychain247.com/article/kinaxis-launches-first-ever-supply-chain-orchestration-maturity-model</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

@@ -29,7 +29,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/warehouse-automation-orders-dropped-2024-recovery-expected"><u>https://www.supplychain247.com/article/warehouse-automation-orders-dropped-2024-recovery-expected</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our book has been published on Google Play Books.</strong></p>

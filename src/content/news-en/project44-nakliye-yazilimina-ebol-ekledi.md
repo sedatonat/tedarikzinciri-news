@@ -29,4 +29,3 @@ tags:
   <li><p>Project44 aims to advance digital transformation and supply chain efficiency across the industry.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10525-project44-adds-electronic-bill-of-lading-capability-to-its-freight-software"><u>https://www.thescxchange.com/articles/10525-project44-adds-electronic-bill-of-lading-capability-to-its-freight-software</u></a></p>

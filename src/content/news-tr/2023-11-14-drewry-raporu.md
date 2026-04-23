@@ -26,4 +26,3 @@ Otomobillerin konteynerler ile nakledilmesi biraz da boş konteynerlerin geri gi
 <br>
 İzlemeye devam ediyoruz.</p>
 <p><br></p>
-<p>Haber Linki: <a href="https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry"><u>https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry</u></a></p>

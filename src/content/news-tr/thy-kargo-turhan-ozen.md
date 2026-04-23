@@ -27,4 +27,3 @@ Yerine, geçen hafta Turkcell’de görevine son verilen <strong>Akif Konar’ı
 Bir süre önce Turkish Cargo’da ortaya çıkan <strong>yolsuzluk iddiaları</strong> nedeniyle Özen’in <strong>üç yardımcısı görevden alınmıştı</strong>. Bu sürecin ardından şimdi en üst koltuk da değişmiş oldu.</p>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.lojiport.com/thy-kargoda-deprem-turhan-ozen-gorevinden-alindi-115861h.htm"><u>https://www.lojiport.com/thy-kargoda-deprem-turhan-ozen-gorevinden-alindi-115861h.htm</u></a></p>

@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında IKEA'nın çok modlu son-mil yaklaşımı; özellikle Avrupa'nın yoğun kentsel merkezlerinde örnek alınabiliyor. Trellis; «Chasing Net Zero» dizisinde dünyanın en büyük perakendecilerinin en az yarısının resmi net sıfır hedefine sahip bulunmuyor olduğunu raporluyor. Örneğin tedarik zinciri karbonsuzlaştırma alanında öncü olarak gösteriliyor olan <strong>Walmart</strong>; kendi kısa vadeli emisyon hedeflerini gerçekleştiriyor zorlanıyor. IKEA'nın nehir taşımacılığı ve EV teslimatı bileşimini ölçeklendirebilmek; perakende sektörü için kritik bir referans noktası oluşturuyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43097-ikeas-retailer-uses-innovative-approach-to-reducing-transport-emissions"><u>https://www.supplychainbrain.com/articles/43097-ikeas-retailer-uses-innovative-approach-to-reducing-transport-emissions</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

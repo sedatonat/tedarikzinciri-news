@@ -36,7 +36,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/policy/2025/03/07/new-austrian-government-seeks-energy-tax-exemption-for-rail/"><u>https://www.railfreight.com/policy/2025/03/07/new-austrian-government-seeks-energy-tax-exemption-for-rail/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

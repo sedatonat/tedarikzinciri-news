@@ -67,7 +67,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Shadow fleet, Rusya’nın yaptırım bypass mekanizmasının merkezinde yer alıyor.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/ukraine-hits-third-russia-shadow-fleet-tanker-in-black-sea/"><u>https://gcaptain.com/ukraine-hits-third-russia-shadow-fleet-tanker-in-black-sea/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

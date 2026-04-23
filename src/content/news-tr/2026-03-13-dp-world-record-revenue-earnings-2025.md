@@ -36,9 +36,6 @@ tags:
 3. Toplam elleçleme 93,4 milyon <strong>TEU</strong>; %5,8 artıyor.<br>
 4. <strong>Capex</strong> 3,1 milyar dolar; <strong>Manila</strong> 100 mn $, <strong>Port Botany</strong> 400 mn $ alıyor.<br>
 5. <strong>Bin Sulayem</strong>&rsquo;in görevden alınıyor olunmasının ardından <strong>Kazim</strong> başkan oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43650-dp-world-reports-record-revenue-and-earnings-in-2025"><u>https://www.supplychainbrain.com/articles/43650-dp-world-reports-record-revenue-and-earnings-in-2025</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -39,7 +39,6 @@ tags:
   <li><p>Friend-shoring and OSAT investments are accelerating.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41434-us-adds-more-chinese-firms-to-export-ban-list"><u>https://www.supplychainbrain.com/articles/41434-us-adds-more-chinese-firms-to-export-ban-list</u></a></p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>----------</strong></p>
 <p><strong>How to Purchase an ERP?</strong> Our book has been published on Google Play Books.</p>

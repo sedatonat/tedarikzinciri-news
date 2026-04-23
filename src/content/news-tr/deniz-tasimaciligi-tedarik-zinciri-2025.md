@@ -47,7 +47,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/maritime-supply-chain-2025-trends"><u>https://www.supplychain247.com/article/maritime-supply-chain-2025-trends</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

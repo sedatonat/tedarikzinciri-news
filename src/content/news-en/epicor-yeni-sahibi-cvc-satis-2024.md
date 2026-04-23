@@ -30,4 +30,3 @@ tags:
   <li><p>The company's SaaS transformation and international expansion are proceeding at pace.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10719-epicor-gains-new-private-equity-owner"><u>https://www.thescxchange.com/articles/10719-epicor-gains-new-private-equity-owner</u></a></p>

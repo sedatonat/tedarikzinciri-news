@@ -38,7 +38,6 @@ tags:
   <li><p>IAPH, Carbon Intensity Indicator (CII)'ı olumlu bir gelişme olarak görüyor ancak mevcut formundaki eksiklikleri de kabul ediyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/iaph-develops-ghg-performance-indicator/"><u>https://www.porttechnology.org/news/iaph-develops-ghg-performance-indicator/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

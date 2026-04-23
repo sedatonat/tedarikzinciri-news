@@ -29,4 +29,3 @@ tags:
   <li><p>The company's objective is to transform the global food supply chain and reduce waste.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.thescxchange.com/articles/10629-cold-storage-powerhouse-lineage-to-raise-18-billion-on-nasdaq"><u>https://www.thescxchange.com/articles/10629-cold-storage-powerhouse-lineage-to-raise-18-billion-on-nasdaq</u></a></p>

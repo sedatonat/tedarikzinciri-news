@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Maersk made its first safe transit in December. In the January 12 statement, the company said it had "no additional sailings to announce at this time" for the area. Still, "assuming that security thresholds continue to be met, we will continue our stepwise approach," the company said. From a supply chain perspective, the gradual reopening of the <strong>Suez Canal</strong> route will pressure spot freight rates, particularly on Europe-Asia container lanes, while persistent security uncertainty continues to reshape insurance premiums and charter contract structures.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43193-maersk-makes-another-voyage-through-red-sea-in-test-of-safety"><u>https://www.supplychainbrain.com/articles/43193-maersk-makes-another-voyage-through-red-sea-in-test-of-safety</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

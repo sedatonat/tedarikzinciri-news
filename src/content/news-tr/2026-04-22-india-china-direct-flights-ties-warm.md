@@ -35,9 +35,6 @@ tags:
 3. <strong>IndiGo</strong>; 26 Ekim&rsquo;den itibaren günlük <strong>China</strong> hizmeti başlatıyor.<br>
 4. 2020 <strong>Galwan Valley</strong> sınır çatışması ile uçuşlar uzun süre askıda kalıyor.<br>
 5. <strong>Trump</strong> tarifeleri ortamında <strong>China-India</strong> normalleşmekte.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42620-india-china-to-start-direct-flights-as-ties-warm"><u>https://www.supplychainbrain.com/articles/42620-india-china-to-start-direct-flights-as-ties-warm</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

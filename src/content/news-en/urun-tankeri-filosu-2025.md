@@ -44,7 +44,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/product-tanker-fleet-growth-to-hit-16-year-high-in-2025-bimco-reports/"><u>https://gcaptain.com/product-tanker-fleet-growth-to-hit-16-year-high-in-2025-bimco-reports/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book on How to Get ERP has been published on Google Play Books.</strong></p>

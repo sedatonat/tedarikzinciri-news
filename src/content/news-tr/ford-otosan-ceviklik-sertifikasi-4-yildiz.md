@@ -37,4 +37,3 @@ tags:
   <li><p>Çevik dönüşüm, operasyonel verimliliğin yanı sıra müşteri memnuniyeti ve süreç iyileştirmelerinde de iyileşmelere yol açtı.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.lojiport.com/ford-otosan-cevikligini-sertifikayla-belgeledi-116289h.htm"><u>https://www.lojiport.com/ford-otosan-cevikligini-sertifikayla-belgeledi-116289h.htm</u></a></p>

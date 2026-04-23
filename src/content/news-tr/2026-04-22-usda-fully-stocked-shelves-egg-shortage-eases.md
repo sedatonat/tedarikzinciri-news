@@ -35,9 +35,6 @@ tags:
 3. <strong>HPAI H5N1</strong>; 168+ milyon kümes hayvanı 2022-2025 ABD imhası oluyor.<br>
 4. <strong>Cal-Maine Foods</strong>; ABD pazar lideri (%20 üretim) oluyor.<br>
 5. <strong>USDA</strong>; <strong>Türkiye</strong>; <strong>Brezilya</strong>; <strong>Güney Kore</strong>&rsquo;den ithalat ile arz açığını kapatıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41460-usda-reports-fully-stocked-shelves-as-egg-shortage-eases"><u>https://www.supplychainbrain.com/articles/41460-usda-reports-fully-stocked-shelves-as-egg-shortage-eases</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

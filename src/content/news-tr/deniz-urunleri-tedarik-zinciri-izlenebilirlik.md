@@ -36,4 +36,3 @@ tags:
   <li><p>Yeni iş birliği, deniz ürünleri tedarikçilerinden toplanan KDE'leri, perakendeciler ve toptancılara ek bir portal veya sistem kullanımı olmaksızın iletebilmesine olanak tanır.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10177-seafood-supply-chain-gains-improved-track-and-trace-network"><u>https://www.thescxchange.com/articles/10177-seafood-supply-chain-gains-improved-track-and-trace-network</u></a></p>

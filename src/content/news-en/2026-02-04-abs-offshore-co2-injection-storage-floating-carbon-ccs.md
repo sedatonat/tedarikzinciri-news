@@ -22,9 +22,6 @@ tags: ["ABS", "CCS", "offshore CO2 storage", "carbon capture", "Michael Kei", "d
 3. Floating CO2 injection platforms offer a critical alternative for countries with limited land area.<br>
 4. Projects such as Europe's Northern Lights prove the feasibility of offshore storage.<br>
 5. Success requires coordinated work among classification societies, regulators, and industry stakeholders.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://gcaptain.com/floating-the-carbon-solution-the-role-of-offshore-co%e2%82%82-injection-and-storage-facilities/"><u>https://gcaptain.com/floating-the-carbon-solution-the-role-of-offshore-co%e2%82%82-injection-and-storage-facilities/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

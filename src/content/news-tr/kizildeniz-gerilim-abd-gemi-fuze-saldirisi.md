@@ -31,4 +31,3 @@ tags:
   <li><p>Gemi önemli bir hasar almadan yoluna devam etti.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.haber7.com/dunya/haber/3383123-korfezde-sular-isiniyor-yemen-aciklarinda-abdnin-ticari-yuk-gemisi-fuzeyle-vuruldu"><u>https://www.haber7.com/dunya/haber/3383123-korfezde-sular-isiniyor-yemen-aciklarinda-abdnin-ticari-yuk-gemisi-fuzeyle-vuruldu</u></a></p>

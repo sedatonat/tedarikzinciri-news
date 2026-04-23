@@ -33,4 +33,3 @@ tags:
   <li><p>It improves customer experience and makes locating lost items easier.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/blog/rfid-item-tagging"><u>https://www.thescxchange.com/blog/rfid-item-tagging</u></a></p>

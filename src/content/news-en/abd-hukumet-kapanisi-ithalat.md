@@ -47,7 +47,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/port-los-angeles-us-importers-purchase-orders-lunar-new-year/806094/"><u>https://www.supplychaindive.com/news/port-los-angeles-us-importers-purchase-orders-lunar-new-year/806094/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

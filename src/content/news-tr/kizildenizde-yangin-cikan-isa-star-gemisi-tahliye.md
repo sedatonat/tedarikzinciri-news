@@ -45,7 +45,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://splash247.com/crew-abandon-ship-in-the-red-sea/"><u>https://splash247.com/crew-abandon-ship-in-the-red-sea/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

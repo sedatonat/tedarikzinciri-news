@@ -23,9 +23,6 @@ tags: ["CMA CGM", "Fattal Group", "satın alma", "lojistik", "MENA", "dikey ente
 3. The deal aims to strengthen cargo flows across MENA markets.<br>
 4. The move reflects ongoing vertical integration by major ocean carriers.<br>
 5. CMA CGM will expand reach into inland transport, warehousing, and distribution.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/cma-cgm-to-acquire-fattal-in-logistics-push/"><u>https://www.porttechnology.org/cma-cgm-to-acquire-fattal-in-logistics-push/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

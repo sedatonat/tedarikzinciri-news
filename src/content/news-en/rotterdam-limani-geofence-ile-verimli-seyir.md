@@ -45,7 +45,6 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/port-of-rotterdam-introduces-geofence-for-just-in-time-sailing/"><u>https://www.porttechnology.org/news/port-of-rotterdam-introduces-geofence-for-just-in-time-sailing/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

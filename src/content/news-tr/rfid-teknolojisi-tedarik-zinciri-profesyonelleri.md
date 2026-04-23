@@ -47,7 +47,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.scdigest.com/experts/2023-11-30_Farley_SC_Profs_RFID.php?cid=21126"><u>https://www.scdigest.com/experts/2023-11-30_Farley_SC_Profs_RFID.php?cid=21126</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

@@ -29,4 +29,3 @@ tags:
   <li><p>Uygulama maliyetleri ve altyapı zorlukları nedeniyle endüstri tarafından eleştiriler var.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10518-california-air-resources-board-approves-final-rule-requiring-zero-emission-forklifts"><u>https://www.thescxchange.com/articles/10518-california-air-resources-board-approves-final-rule-requiring-zero-emission-forklifts</u></a></p>

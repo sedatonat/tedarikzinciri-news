@@ -51,7 +51,6 @@ tags:
 </ul>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/40617-a-trucker-uses-ai-to-boost-efficiency-for-linehaul-operations"><u>https://www.supplychainbrain.com/articles/40617-a-trucker-uses-ai-to-boost-efficiency-for-linehaul-operations</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

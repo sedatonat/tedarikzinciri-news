@@ -34,4 +34,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10323-kuehnenagel-opens-texas-facility-to-support-nearshoring-trend"><u>https://www.thescxchange.com/articles/10323-kuehnenagel-opens-texas-facility-to-support-nearshoring-trend</u></a></p>

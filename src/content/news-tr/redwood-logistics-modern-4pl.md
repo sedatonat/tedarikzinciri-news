@@ -51,7 +51,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/press-release/20250303-redwood-logistics-unveils-new-book-modern-4pl-for-dummies-1/"><u>https://www.supplychaindive.com/press-release/20250303-redwood-logistics-unveils-new-book-modern-4pl-for-dummies-1/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

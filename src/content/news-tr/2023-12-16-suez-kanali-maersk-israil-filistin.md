@@ -30,4 +30,3 @@ tags:
 <p><br></p>
 <p>Donigian, Alternatif rotaların önemli seyahat mesafesi artışları, mal teslim sürelerinin uzaması ve ticaret ortakları teslimat programlarını ayarlayana kadar kısa vadeli tedarik sorunlarına yol açacağını belirtti.</p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainquarterly.com/articles/9292-container-traffic-slows-at-suez-canal-after-red-sea-missile-attacks"><u>https://www.supplychainquarterly.com/articles/9292-container-traffic-slows-at-suez-canal-after-red-sea-missile-attacks</u></a></p>

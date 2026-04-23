@@ -28,9 +28,6 @@ tags: ['MHI', 'Deloitte', 'MODEX 2026', 'John Paxton', 'Carvana', 'Camille Blake
 3. Next two years: 33% inventory optimization; 30% <strong>predictive maintenance</strong>; 27% decision automation.<br>
 4. <strong>Paxton</strong> sees connected, intelligent, and automated real-time networks as essential.<br>
 5. <strong>Blake</strong> emphasizes that deploying AI amid operational instability carries high failure risk.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43867-supply-chain-execs-flag-ai-as-top-disruptor-for-logistics-sector"><u>https://www.supplychainbrain.com/articles/43867-supply-chain-execs-flag-ai-as-top-disruptor-for-logistics-sector</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Procure an ERP?" Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

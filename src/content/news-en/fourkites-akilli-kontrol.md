@@ -51,7 +51,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong>https://www.porttechnology.org/news/fourkites-launches-intelligent-control-tower-for-advanced-supply-chain-automation/</p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our Book is Published on Google Play Books.</strong></p>

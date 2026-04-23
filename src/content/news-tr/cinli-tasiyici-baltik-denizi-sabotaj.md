@@ -41,7 +41,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/40716-chinese-carrier-detained-for-suspected-sabotage-of-telecom-lines"><u>https://www.supplychainbrain.com/articles/40716-chinese-carrier-detained-for-suspected-sabotage-of-telecom-lines</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

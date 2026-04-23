@@ -36,9 +36,6 @@ tags:
 3. <strong>British Airways</strong> ve <strong>EasyJet</strong>, sabah uçuşlarını iptal ediyor.<br>
 4. <strong>DWD</strong>, &ldquo;<strong>significant slipperiness</strong>&rdquo; uyarısı yayımlıyor.<br>
 5. <strong>Deutsche Bahn</strong>, <strong>Berlin</strong>-<strong>Hanover</strong> hattındaki gecikmeleri raporluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43436-berlin-airport-reopens-after-black-ice-triggered-groundings"><u>https://www.supplychainbrain.com/articles/43436-berlin-airport-reopens-after-black-ice-triggered-groundings</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

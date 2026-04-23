@@ -31,4 +31,3 @@ tags:
 <p><br></p>
 <p>Ayrıca, AS2 hizmeti Colombo'dan Hindistan'a iç-alt kıtasal bir bağlantı sağlar ve Güneydoğu Asya'dan Hindistan Alt Kıtası limanlarına Singapur üzerinden CMA CGM'nin geniş ağına erişim sağlar.</p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/cma-cgm-introduces-asia-indian-subcontinent-service/"><u>https://www.porttechnology.org/news/cma-cgm-introduces-asia-indian-subcontinent-service/</u></a></p>

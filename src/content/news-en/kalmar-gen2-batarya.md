@@ -49,7 +49,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/kalmar-introduces-gen-2-battery-for-electric-straddle-carriers/"><u>https://www.porttechnology.org/news/kalmar-introduces-gen-2-battery-for-electric-straddle-carriers/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

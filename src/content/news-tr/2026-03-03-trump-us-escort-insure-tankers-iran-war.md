@@ -36,9 +36,6 @@ tags:
 3. <strong>Brent</strong>; haberin ardından varil başına yaklaşık 80 dolardan işlem görüyor.<br>
 4. <strong>U.S.</strong>-<strong>Israel</strong> saldırılarından bu yana petrol fiyatları %10&rsquo;dan fazla yükseliyor.<br>
 5. <strong>Rapidan</strong>&rsquo;dan <strong>McNally</strong>; uygulamanın zaman alacağını vurguluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43579-trump-says-us-will-escort-insure-oil-tankers-amid-iran-war"><u>https://www.supplychainbrain.com/articles/43579-trump-says-us-will-escort-insure-oil-tankers-amid-iran-war</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

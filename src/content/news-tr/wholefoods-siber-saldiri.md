@@ -38,7 +38,6 @@ tags:
   <li><p>Sözleşmesel güvenlik şartları güçlenecektir.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42021-cyberattack-on-supplier-causes-empty-shelves-at-whole-foods" rel="noopener" target="_new">https://www.supplychainbrain.com/articles/42021-cyberattack-on-supplier-causes-empty-shelves-at-whole-foods</a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

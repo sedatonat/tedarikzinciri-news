@@ -42,4 +42,3 @@ tags:
   <li><p><strong>Gelecek Görünümü:</strong> 2024'ün ikinci yarısı için güçlü bir ekonomik görünüm öngörülüyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10416-gep-report-global-manufacturing-activity-jumped-in-may"><u>https://www.thescxchange.com/articles/10416-gep-report-global-manufacturing-activity-jumped-in-may</u></a></p>

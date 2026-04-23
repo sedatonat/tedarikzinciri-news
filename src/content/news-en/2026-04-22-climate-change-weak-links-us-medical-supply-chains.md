@@ -27,9 +27,6 @@ tags: ['iklim değişikliği', 'tıbbi tedarik zinciri', 'Baxter International',
 3. <strong>Chris Luoma</strong> at <strong>GHX</strong> emphasizes the importance of balancing cost efficiency, durability, and resiliency.<br>
 4. Single-site manufacturing, JIT inventory, and fragile last-mile connections are among the key weak links.<br>
 5. Geographic diversification, safety stock increases, nearshoring, supplier visibility, and climate risk modeling are core resilience strategies.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42470-climate-change-exposes-weak-links-in-us-medical-supply-chains"><u>https://www.supplychainbrain.com/articles/42470-climate-change-exposes-weak-links-in-us-medical-supply-chains</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free through this link.</p>

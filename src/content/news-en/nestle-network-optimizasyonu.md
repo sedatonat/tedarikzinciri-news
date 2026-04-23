@@ -94,7 +94,6 @@ This approach enables the company to both <strong>enhance customer experience</s
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.thescxchange.com/move/store/nestle-shares-process-for-optimizing-distribution-network"><u>https://www.thescxchange.com/move/store/nestle-shares-process-for-optimizing-distribution-network</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Procure ERP?" is now published on Google Play Books.</strong></p>

@@ -34,7 +34,6 @@ tags:
 <p>4. Gizlilik ve güvenlik standartları güçleniyor.</p>
 <p>5. Uygulama kademeli ve sertifikasyonlu ilerliyor.</p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42590-california-governor-signs-landmark-ai-safety-law"><u>https://www.supplychainbrain.com/articles/42590-california-governor-signs-landmark-ai-safety-law</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

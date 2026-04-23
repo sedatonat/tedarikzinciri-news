@@ -43,7 +43,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.globalports.com/en/news-and-media/press-releases-and-news/20240801/"><u>https://www.globalports.com/en/news-and-media/press-releases-and-news/20240801/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

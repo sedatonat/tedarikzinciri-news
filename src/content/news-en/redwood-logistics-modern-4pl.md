@@ -51,7 +51,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/press-release/20250303-redwood-logistics-unveils-new-book-modern-4pl-for-dummies-1/"><u>https://www.supplychaindive.com/press-release/20250303-redwood-logistics-unveils-new-book-modern-4pl-for-dummies-1/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our book has been published on Google Play Books.</strong></p>

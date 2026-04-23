@@ -34,4 +34,3 @@ tags:
   <li><p>Improvement signals are evident in consumer spending and post-Covid supply chain issues.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10329-after-sluggish-2024-global-manufacturing-could-see-strong-2025-2028"><u>https://www.thescxchange.com/articles/10329-after-sluggish-2024-global-manufacturing-could-see-strong-2025-2028</u></a></p>

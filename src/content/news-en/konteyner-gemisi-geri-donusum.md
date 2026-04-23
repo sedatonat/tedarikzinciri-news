@@ -97,7 +97,6 @@ Declining freight rates and energy efficiency regulations will <strong>shorten t
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/container-shippings-recycling-backlog-reaches-1-8-million-teu-as-industry-faces-fleet-age-crisis/"><u>https://gcaptain.com/container-shippings-recycling-backlog-reaches-1-8-million-teu-as-industry-faces-fleet-age-crisis/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Is Now Published on Google Play Books.</strong></p>

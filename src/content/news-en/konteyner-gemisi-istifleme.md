@@ -85,7 +85,6 @@ This ensures:</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/video-how-containers-are-stacked-organized"><u>https://www.supplychain247.com/article/video-how-containers-are-stacked-organized</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

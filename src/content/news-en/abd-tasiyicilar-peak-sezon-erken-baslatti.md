@@ -30,4 +30,3 @@ tags:
   <li><p>Peak season began in June.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10711-shippers-launch-ocean-peak-season-early-project44-says"><u>https://www.thescxchange.com/articles/10711-shippers-launch-ocean-peak-season-early-project44-says</u></a></p>

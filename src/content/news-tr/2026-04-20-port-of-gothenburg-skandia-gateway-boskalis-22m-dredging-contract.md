@@ -32,9 +32,6 @@ tags:
 3. Beş teklif sahibinin yer aldığı rekabetçi ihale sonucunda Boskalis seçildi.<br>
 4. Proje Yöneticisi Jan Andersson; Boskalis'i 'son derece yetkin bir yüklenici' olarak nitelendirdi.<br>
 5. 2024'te tamamlanan rıhtım güçlendirme çalışmaları; tarama aşamasının ön koşuluydu.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/port-of-gothenburg-awards-22-million-dredging-contract/"><u>https://www.porttechnology.org/port-of-gothenburg-awards-22-million-dredging-contract/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

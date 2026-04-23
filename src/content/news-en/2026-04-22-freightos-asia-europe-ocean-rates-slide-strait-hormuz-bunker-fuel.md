@@ -25,9 +25,6 @@ tags: ["Freightos", "Asia-Europe rates", "Strait of Hormuz", "bunker fuel", "Mae
 3. Khor Fakkan is congested while Fujairah and Sohar reportedly operate more smoothly.<br>
 4. Bunker fuel prices remain 55 per cent higher than pre-war but down 15 per cent from peak.<br>
 5. Low seasonal demand and high capacity levels are limiting upward pressure on freight rates.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://container-news.com/freightos-weekly-update-asia-europe-ocean-rates-slide-despite-hormuz-pressure/"><u>https://container-news.com/freightos-weekly-update-asia-europe-ocean-rates-slide-despite-hormuz-pressure/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

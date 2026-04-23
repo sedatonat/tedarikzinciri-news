@@ -43,7 +43,6 @@ tags:
 </ul>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://splash247.com/panama-takes-action-against-sanctioned-ships/"><u>https://splash247.com/panama-takes-action-against-sanctioned-ships/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>

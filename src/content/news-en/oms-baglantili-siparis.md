@@ -41,7 +41,6 @@ tags:
   <li><p>Exception and returns management provides stability.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41620-the-changing-landscape-of-order-management-systems-oms" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/41620-the-changing-landscape-of-order-management-systems-oms</u></a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP?</strong> Our book has been published on Google Play Books.</p>

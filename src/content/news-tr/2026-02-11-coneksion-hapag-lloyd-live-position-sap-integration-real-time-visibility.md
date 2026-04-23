@@ -31,9 +31,6 @@ tags:
 3. Live Position, Hapag-Lloyd Online Business Suite ve özel API üzerinden sunuluyor.<br>
 4. Entegrasyon, müşterilerin kendi sistemlerine veri akıtmak için ihtiyaç duyduğu özel geliştirmeyi ortadan kaldırıyor.<br>
 5. Çözüm, S/4HANA TM ve diğer SAP modüllerinde gerçek zamanlı konteyner görünürlüğü sağlıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/coneksion-hapag-lloyd-integrate-live-position-into-sap/"><u>https://www.porttechnology.org/coneksion-hapag-lloyd-integrate-live-position-into-sap/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

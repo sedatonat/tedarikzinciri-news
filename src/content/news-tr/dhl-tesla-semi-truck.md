@@ -67,7 +67,6 @@ Bu ifade, Tesla Semi’nin yalnızca şehir içi veya bölgesel dağıtımda de�
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/dhl-supply-chain-tesla-semi-california-2025-plans-more/807625/"><u>https://www.supplychaindive.com/news/dhl-supply-chain-tesla-semi-california-2025-plans-more/807625/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

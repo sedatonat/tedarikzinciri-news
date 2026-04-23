@@ -31,9 +31,6 @@ tags:
 3. Altı intermodal yard vinci sekiz çalışma rayında konteyner elleçliyor.<br>
 4. Düşen twist lock'lar, enkaz ve vinç bileşenleri saha personeli için temel risk faktörleri.<br>
 5. Sensör ve fiziksel bariyerleri birleştiren sistem, intermodal demiryolu güvenliği için referans model sunuyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/long-beach-container-terminal-safety-innovation/"><u>https://www.porttechnology.org/long-beach-container-terminal-safety-innovation/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

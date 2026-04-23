@@ -41,7 +41,6 @@ tags:
   <li><p>Vertical integration and capacity assurance are emerging priorities.</p></li>
 </ul>
 <p>--------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42534-nvidia-to-pour-100b-into-data-center-deal-with-openai" rel="noopener" target="_new">https://www.supplychainbrain.com/articles/42534-nvidia-to-pour-100b-into-data-center-deal-with-openai</a></p>
 <p>--------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP?</strong> Our book has been published on Google Play Books.</p>

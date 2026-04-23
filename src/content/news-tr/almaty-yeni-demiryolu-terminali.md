@@ -40,7 +40,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/beltandroad/2025/03/07/almaty-will-get-a-new-multifunctional-rail-freight-terminal/"><u>https://www.railfreight.com/beltandroad/2025/03/07/almaty-will-get-a-new-multifunctional-rail-freight-terminal/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

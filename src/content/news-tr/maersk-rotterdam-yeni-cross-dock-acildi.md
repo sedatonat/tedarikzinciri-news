@@ -39,4 +39,3 @@ tags:
 <p><br></p>
 <p><strong>İlgili Makalemiz: </strong><a href="https://www.tedarikzinciriportali.com/post/terim-cross-docking-capraz-sevkiyat"><u>https://www.tedarikzinciriportali.com/post/terim-cross-docking-capraz-sevkiyat</u></a></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/maersk-unveils-new-cross-dock-facility-in-rotterdam/"><u>https://www.porttechnology.org/news/maersk-unveils-new-cross-dock-facility-in-rotterdam/</u></a></p>

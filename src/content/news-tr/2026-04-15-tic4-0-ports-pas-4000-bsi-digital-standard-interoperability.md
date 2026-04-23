@@ -30,9 +30,6 @@ tags:
 3. Standart, operasyonel verilerin yapılandırılması için ortak semantik çerçeve sağlıyor.<br>
 4. Hedef, limanlar arası birlikte çalışabilirliği artırmak ve tedarik zinciri maliyetlerini düşürmek.<br>
 5. Çağrı, küresel ticaretin ISO 668 gibi standartlara olan tarihsel bağımlılığını hatırlatıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/tic4-0-urges-ports-to-adopt-pas-4000-digital-standard/"><u>https://www.porttechnology.org/tic4-0-urges-ports-to-adopt-pas-4000-digital-standard/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

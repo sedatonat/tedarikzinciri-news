@@ -34,4 +34,3 @@ tags:
   <li><p>Şirketler, malzeme kaynak stratejileri ve sigorta primleri gibi konularda dikkatli olmalı.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/transiting-the-red-sea-what-shippers-should-know-vessel-attacks-suez-canal/703132/"><u>https://www.supplychaindive.com/news/transiting-the-red-sea-what-shippers-should-know-vessel-attacks-suez-canal/703132/</u></a></p>

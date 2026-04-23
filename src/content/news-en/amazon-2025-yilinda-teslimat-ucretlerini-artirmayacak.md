@@ -43,7 +43,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong>https://www.supplychaindive.com/news/amazon-fba-2025-fulfillment-fee-changes/733418/</p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Procure an ERP?" has been published on Google Play Books.</strong></p>

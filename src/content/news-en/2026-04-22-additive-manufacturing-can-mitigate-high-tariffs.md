@@ -27,9 +27,6 @@ tags: ['3D baskı', 'additive manufacturing', 'tarife', 'imalat', 'SCB Think Tan
 3. <strong>FDM</strong>, <strong>SLA</strong>, <strong>SLS</strong>, and <strong>DMLS</strong> are primary 3D printing technologies.<br>
 4. <strong>Stratasys</strong>, <strong>3D Systems</strong>, <strong>HP</strong>, and <strong>EOS</strong> are leading manufacturers.<br>
 5. <strong>Distributed manufacturing</strong> and <strong>on-demand spare parts</strong> are core strategies.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41270-additive-manufacturing-can-mitigate-high-tariffs"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41270-additive-manufacturing-can-mitigate-high-tariffs</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>

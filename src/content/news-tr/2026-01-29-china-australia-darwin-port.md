@@ -36,9 +36,6 @@ tags:
 3. <strong>Albanese</strong> hükümeti, limanı yerel kontrole geri alıyor olmayı taahhüt ediyor.<br>
 4. Liman, <strong>U.S. Marines</strong> rotasyonlarını barındırmakta olan tesislere yakın bulunuyor.<br>
 5. <strong>China</strong>, <strong>Australia</strong>&rsquo;nın en büyük ticaret ortağı olarak öne çıkıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43363-china-is-watching-australia-very-closely-on-darwin-port-issue"><u>https://www.supplychainbrain.com/articles/43363-china-is-watching-australia-very-closely-on-darwin-port-issue</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

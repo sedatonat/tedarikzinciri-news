@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the company has nearly 1,000 stores in the United Kingdom and three locations in the country of <strong>Iceland</strong>. As a <em>mea culpa</em> of sorts, the chain will offer 50 percent discounts across a range of frozen foods. The case strengthens the international legal framework around geographical indications, building on systems such as <strong>Champagne</strong>, <strong>Parma Ham</strong>, <strong>Roquefort</strong>, <strong>Feta</strong> and <strong>Tequila</strong> that fall under <em>protected designation of origin</em> (<strong>PDO</strong>) and <em>protected geographical indication</em> (<strong>PGI</strong>) regimes. Similar trademark challenges before <strong>EUIPO</strong>, <strong>WIPO</strong>, the <strong>USPTO</strong> and the <strong>UKIPO</strong> &mdash; particularly post&ndash;<strong>Brexit</strong> &mdash; will continue to rise across the sector through 2026.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43600-iceland-wins-trademark-battle-with-uk-grocery-chain"><u>https://www.supplychainbrain.com/articles/43600-iceland-wins-trademark-battle-with-uk-grocery-chain</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

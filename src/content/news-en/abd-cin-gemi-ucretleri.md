@@ -40,7 +40,6 @@ tags:
 <p><br></p>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://shippingwatch.com/carriers/Container/article17958446.ece"><u>https://shippingwatch.com/carriers/Container/article17958446.ece</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>

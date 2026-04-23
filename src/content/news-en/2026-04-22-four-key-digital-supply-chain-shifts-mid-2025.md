@@ -25,9 +25,6 @@ tags: ['dijital dönüşüm', 'AI', 'dijital pazaryeri', 'IoT', 'blockchain', 'A
 3. Disruptions occur on average every 3.7 years, costing up to 45% of annual profit.<br>
 4. <strong>Digital marketplaces</strong>, <strong>AI-driven automation</strong>, <strong>real-time visibility</strong>, and <strong>blockchain</strong> are the four key shifts.<br>
 5. <strong>Predictive analytics</strong> improve forecast accuracy by 20-50%.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41850-four-key-digital-supply-chain-shifts-to-make-in-mid-2025"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41850-four-key-digital-supply-chain-shifts-to-make-in-mid-2025</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Procure ERP?" is now published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

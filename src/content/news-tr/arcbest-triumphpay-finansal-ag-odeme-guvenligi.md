@@ -30,4 +30,3 @@ tags:
   <li><p>ArcBest, şeffaf ve güvenli ödeme süreci sunmayı amaçlıyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10683-freight-broker-arcbest-joins-triumphpay-financial-network"><u>https://www.thescxchange.com/articles/10683-freight-broker-arcbest-joins-triumphpay-financial-network</u></a></p>

@@ -29,4 +29,3 @@ tags:
   <li><p><strong>Havayolu Şirketleri:</strong> Şirketlerin bu olayların etkilerini en aza indirmek için strateji geliştirmesi gerekiyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10627-congress-says-airlines-should-be-prepared-for-future-disruptions"><u>https://www.thescxchange.com/articles/10627-congress-says-airlines-should-be-prepared-for-future-disruptions</u></a></p>

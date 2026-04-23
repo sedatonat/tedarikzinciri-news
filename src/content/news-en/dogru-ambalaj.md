@@ -45,7 +45,6 @@ Fitting products into smaller boxes reduces <strong>damage rates</strong> during
   <li><p>P&L and environmental performance improve together.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41670-three-ways-that-right-sizing-packaging-benefits-the-environment" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/41670-three-ways-that-right-sizing-packaging-benefits-the-environment</u></a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>

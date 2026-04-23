@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Bloomberg'in derlediği gemi takip verilerine göre tanker kargo yüklü bulunuyor. Varış noktası açıklanmamış olsa da gemi, Rus varillerini Asya'ya taşıyan tankerler için yaygın bir geçiş noktası olan <strong>Süveyş Kanalı</strong> yönünde seyrüsefer halinde ilerledi. Tedarik zinciri perspektifinden bakıldığında bu tür donanma operasyonları, Rus ham petrolünün gri pazar lojistiğini önemli ölçüde zorlaştırdı. Sigorta primleri, P&I kulüp koşulları ve sınıflandırma kuruluşu denetimleri, gölge filo segmentinde köklü değişimleri hızlandırdı. Brent-Urals farkının daralabilmesi için bu tür icra eylemlerinin sıklaşması gerekti.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43337-france-boards-russia-linked-oil-tanker-in-shadow-fleet-move"><u>https://www.supplychainbrain.com/articles/43337-france-boards-russia-linked-oil-tanker-in-shadow-fleet-move</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

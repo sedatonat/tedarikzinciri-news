@@ -57,7 +57,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/threatened-by-climate-change-panama-canal-has-big-plans-to-deal-with-drought/"><u>https://gcaptain.com/threatened-by-climate-change-panama-canal-has-big-plans-to-deal-with-drought/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

@@ -44,4 +44,3 @@ tags:
   <li><p>Petrol Ofisi'nin yenilenebilir enerji stratejileri takip edilecek.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.lojiport.com/petrol-ofisinin-bp-turkiyeyi-devralmasi-onaylandi-117046h.htm"><u>https://www.lojiport.com/petrol-ofisinin-bp-turkiyeyi-devralmasi-onaylandi-117046h.htm</u></a></p>

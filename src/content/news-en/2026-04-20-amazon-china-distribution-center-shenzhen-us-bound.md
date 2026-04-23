@@ -25,9 +25,6 @@ tags: ["Amazon", "Shenzhen", "Çin", "Global Warehousing and Distribution", "Ama
 3. Cross-border transport integrated via Amazon Global Logistics.<br>
 4. China-based sellers represent roughly half of Amazon's global active seller base.<br>
 5. Expansion planned to Yangtze River Delta, Europe and Japan.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychaindive.com/news/amazon-opens-china-distribution-center-for-us-bound-seller-inventory/817806/"><u>https://www.supplychaindive.com/news/amazon-opens-china-distribution-center-for-us-bound-seller-inventory/817806/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

@@ -28,9 +28,6 @@ tags: ['Maersk', 'Kızıldeniz', 'Süveyş Kanalı', 'konteyner taşımacılığ
 3. The opening of the <strong>Red Sea</strong> is expected to free up 6-7 percent of global capacity.<br>
 4. <strong>Maersk</strong> is cutting share buybacks and plans to eliminate 1,000 administrative positions.<br>
 5. The <strong>ME11</strong> line is planned to resume operations via the <strong>Suez Canal</strong> by mid-February.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43427-maersk-expects-to-take-earnings-hit-from-return-of-red-sea-shipping"><u>https://www.supplychainbrain.com/articles/43427-maersk-expects-to-take-earnings-hit-from-return-of-red-sea-shipping</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

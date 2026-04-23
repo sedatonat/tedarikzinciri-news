@@ -34,9 +34,6 @@ tags:
 3. En dayanıklı şirketler; en iyi risk yönetimi programına sahip olanlar oluyor.<br>
 4. <strong>Lean</strong> ve <strong>JIT</strong>; aksaklık zamanında zayıflığa dönüşebiliyor.<br>
 5. Yapısal esneklik; gerçek dayanıklılığın temeli oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41990-how-to-build-a-disruption-ready-supply-chain"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41990-how-to-build-a-disruption-ready-supply-chain</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

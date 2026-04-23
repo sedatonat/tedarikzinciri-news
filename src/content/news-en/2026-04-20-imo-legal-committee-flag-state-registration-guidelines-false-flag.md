@@ -25,9 +25,6 @@ tags: ["IMO", "Legal Committee", "false flag", "ship registration", "Arsenio Dom
 3. IMO Secretary-General Arsenio Dominguez called the move a 'welcome step.'<br>
 4. Decision was approved at the Legal Committee's 113th session in London (13-17 April).<br>
 5. The new framework provides a global compliance standard against shadow fleet and false flag operations.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/imo-adopts-guidelines-to-tackle-false-flag-operations/"><u>https://www.porttechnology.org/imo-adopts-guidelines-to-tackle-false-flag-operations/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Even so, Arctic LNG 2 has had to cut output as winter ice complicates exports, and until now only one identified Russian shadow-fleet tanker of the advanced Arc-7 ice class was in service. From a supply chain perspective, the introduction of the Alexey Kosygin structurally strengthens the project's ability to deliver year-round LNG cargoes to <strong>Asia-Pacific</strong> buyers. Players with long-term offtake contracts such as <strong>JERA</strong>, <strong>CNPC</strong> and <strong>Sinopec</strong> will need to continually reassess secondary sanctions exposure on every voyage.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43046-russias-sovcomflot-gets-first-domestic-tanker-for-arctic-lng-2"><u>https://www.supplychainbrain.com/articles/43046-russias-sovcomflot-gets-first-domestic-tanker-for-arctic-lng-2</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

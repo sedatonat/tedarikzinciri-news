@@ -28,9 +28,6 @@ tags: ['Marco Rubio', 'Çin', 'Panama', 'FMC', 'CK Hutchison', 'tahkim', 'Panama
 3. <strong>China</strong> denies the allegations; spokesperson <strong>Lin Jian</strong> responds.<br>
 4. <strong>CK Hutchison</strong> launches $2+ billion arbitration against <strong>Panama</strong>.<br>
 5. Tensions escalate ahead of <strong>Trump</strong>'s <strong>Beijing</strong> visit planned for May.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43786-rubio-accuses-china-of-harassing-panama-flagged-ships"><u>https://www.supplychainbrain.com/articles/43786-rubio-accuses-china-of-harassing-panama-flagged-ships</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

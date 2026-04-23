@@ -36,9 +36,6 @@ tags:
 3. Erken ödeme indirimi suistimali; ayrı bir gelir sızıntısı kaynağı oluyor.<br>
 4. Sezonsal renk değişimi; geri yüklemede yapay sıçramaya yol açıyor olabiliyor.<br>
 5. <strong>BOL</strong>, <strong>POD</strong> ve ambalaj listeleri; <strong>AI</strong> tarafından otomatik okunuyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43856-ai-is-bringing-a-rise-in-retailer-chargebacks-it-can-reduce-them-too"><u>https://www.supplychainbrain.com/articles/43856-ai-is-bringing-a-rise-in-retailer-chargebacks-it-can-reduce-them-too</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

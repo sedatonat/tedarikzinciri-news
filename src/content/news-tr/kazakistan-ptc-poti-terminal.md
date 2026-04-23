@@ -37,7 +37,6 @@ tags:
 </ul>
 <p style="text-align: justify"><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://seanews.ru/en/2025/03/07/en-kazakhstan-to-develop-poti-port-in-georgia/"><u>https://seanews.ru/en/2025/03/07/en-kazakhstan-to-develop-poti-port-in-georgia/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

@@ -66,7 +66,6 @@ The Embassy also rejected claims about Yantar's cable-mapping capabilities, stat
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/uk-says-military-options-ready-as-russian-ship-uses-lasers-against-raf-pilots/"><u>https://gcaptain.com/uk-says-military-options-ready-as-russian-ship-uses-lasers-against-raf-pilots/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

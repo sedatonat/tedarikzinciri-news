@@ -84,7 +84,6 @@ Yeni dönemde, ticaretin merkezinin <strong>tek bir ülke yerine bölgesel ağla
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.thescxchange.com/move/dhl-global-trade-has-flourished-even-as-u-s-tariffs-rocked-american-trade"><u>https://www.thescxchange.com/move/dhl-global-trade-has-flourished-even-as-u-s-tariffs-rocked-american-trade</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

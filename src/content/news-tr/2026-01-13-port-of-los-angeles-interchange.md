@@ -36,9 +36,6 @@ tags:
 3. <strong>Knoll Drive</strong>, yeniden hizalanmış haliyle trafiğe açılıyor.<br>
 4. Çalışmalar Mart 2024&rsquo;te başlıyor; Aralık 2026&rsquo;da tamamlanıyor olacak.<br>
 5. Proje, <strong>Terminal Island</strong> ve <strong>West Basin Container Terminal</strong> erişimini iyileştiriyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43190-port-of-los-angeles-reaches-new-phase-in-interchange-project"><u>https://www.supplychainbrain.com/articles/43190-port-of-los-angeles-reaches-new-phase-in-interchange-project</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

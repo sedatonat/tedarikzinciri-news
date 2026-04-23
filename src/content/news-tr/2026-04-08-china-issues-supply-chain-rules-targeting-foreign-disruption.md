@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Hükümler; aynı zamanda Çin'in yasalarını ve düzenlemelerini ihlal ediyor olan tedarik zincirleri üzerindeki «bilgi toplama faaliyetlerini» hedef almak yönünde bir taahhüt içeriyor. Tedarik zinciri perspektifinden bakıldığında bu kurallar; <strong>Apple</strong>, <strong>Tesla</strong>, <strong>BMW</strong> ve <strong>Volkswagen</strong> gibi Çin'de büyük operasyonlar yürütüyor olan çok uluslu şirketler için yeni bir uyum yükü oluşturuyor. Yer altı mineralleri, lityum-iyon batarya bileşenleri, nadir toprak elementleri ve elektronik tedarik zincirlerinde Çin'in elinde bulunuyor olan kaldıraç; ticaret savaşının bir sonraki perdesinde belirleyici olabiliyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43806-china-issues-supply-chain-rules-targeting-foreign-disruption"><u>https://www.supplychainbrain.com/articles/43806-china-issues-supply-chain-rules-targeting-foreign-disruption</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

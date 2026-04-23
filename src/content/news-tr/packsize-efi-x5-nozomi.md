@@ -38,10 +38,6 @@ tags:
 - Dijital şablonlar ve hat içi kalite denetimi hurdayı düşürüyor.<br>
 - Tek operatörle esnek çalışma ve RaaS benzeri modeller CAPEX bariyerini azaltıyor.<br>
 - Kutu yüzeyinde dinamik veri ve kişiselleştirme müşteri deneyimini yükseltiyor.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42609-packsize-efi-debut-combined-packaging-and-printing-system"><u>https://www.supplychainbrain.com/articles/42609-packsize-efi-debut-combined-packaging-and-printing-system</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

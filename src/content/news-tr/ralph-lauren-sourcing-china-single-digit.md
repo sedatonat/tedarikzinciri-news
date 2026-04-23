@@ -46,7 +46,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/ralph-lauren-supply-chain-tariff-trump-earnings-q2/733113/"><u>https://www.supplychaindive.com/news/ralph-lauren-supply-chain-tariff-trump-earnings-q2/733113/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

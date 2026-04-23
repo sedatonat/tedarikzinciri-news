@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında <strong>CSRD (Corporate Sustainability Reporting Directive)</strong> ve <strong>SEC Climate Rule</strong> kapsamında zorunlu hâle geliyor olan Scope 3 raporlaması; gıda sektöründe <strong>FLAG (Forest, Land and Agriculture)</strong> hedefleri ile birleşince ek bir karmaşıklık katmanı oluşturuyor. <strong>Nestlé</strong>, <strong>Unilever</strong>, <strong>Danone</strong> ve <strong>PepsiCo</strong>; tedarikçi karne sistemine sürdürülebilirlik veri kalitesini yerleştiriyor. <strong>SAP Sustainability Footprint Management</strong> ile <strong>Salesforce Net Zero Cloud</strong>; veri toplama altyapısında öne çıkıyor olan platformlar oluyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43825-whats-stopping-food-supply-chains-from-reporting-their-carbon-emissions-data"><u>https://www.supplychainbrain.com/articles/43825-whats-stopping-food-supply-chains-from-reporting-their-carbon-emissions-data</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

@@ -43,7 +43,6 @@ tags:
 <p style="text-align: justify">Yeni LCP endeksi, halihazırda World Bank–S&amp;P Global tarafından yayımlanan <strong>Container Port Performance Index (CPPI)</strong> ile rekabet edecek. CPPI’nin son raporunda birinci olan Şanghay dikkat çekerken, Singapur ilk 10’a bile girememişti. Yeni LCP metodolojisi ise limanların <strong>geniş kapsamlı etki ve dönüşüm kapasitesini</strong> daha fazla ön plana çıkarıyor.</p>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://splash247.com/new-container-port-index-launches/"><u>https://splash247.com/new-container-port-index-launches/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

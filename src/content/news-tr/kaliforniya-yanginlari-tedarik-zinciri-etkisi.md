@@ -45,7 +45,6 @@ tags:
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">---</p>
-<p style="text-align: left"><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/los-angeles-fires-future-supply-chain-disruptions/738442/"><u>https://www.supplychaindive.com/news/los-angeles-fires-future-supply-chain-disruptions/738442/</u></a></p>
 <p style="text-align: justify">-------------------</p>
 <p style="text-align: justify"><strong>!!! DUYURU !!!</strong></p>
 <p style="text-align: justify"><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

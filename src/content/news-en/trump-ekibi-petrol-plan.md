@@ -48,7 +48,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/trump-team-readies-oil-sanctions-plan-for-russia-deal-iran-squeeze/"><u>https://gcaptain.com/trump-team-readies-oil-sanctions-plan-for-russia-deal-iran-squeeze/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

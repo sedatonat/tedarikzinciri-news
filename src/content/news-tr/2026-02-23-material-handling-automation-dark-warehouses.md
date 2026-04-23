@@ -36,9 +36,6 @@ tags:
 3. <strong>3D vision</strong> ile <strong>force-sensing grippers</strong>, tekil ürün toplamaya olanak veriyor.<br>
 4. Doğruluk oranı %99&rsquo;a kadar çıkıyor olabiliyor.<br>
 5. Pharma, küçük elektronik ve <strong>grocery</strong>, otomasyona en uygun kategoriler oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43503-the-march-of-material-handling-automation-when-will-warehouses-go-dark"><u>https://www.supplychainbrain.com/articles/43503-the-march-of-material-handling-automation-when-will-warehouses-go-dark</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

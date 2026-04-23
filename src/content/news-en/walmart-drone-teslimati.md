@@ -38,7 +38,6 @@ tags:
   <li><p>Community agreements are critical.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41929-walmart-looks-to-expand-drone-deliveries-to-five-cities" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/41929-walmart-looks-to-expand-drone-deliveries-to-five-cities</u></a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>

@@ -29,9 +29,6 @@ tags:
 <p style="text-align: justify">Mektup; ekonomik olarak zaten zorlanmış endüstriyi daha da kötüleştirdiği belirtilen politikaları sıralıyor &mdash; yönetimin göçmenlik konusundaki tutumu da dahil. &laquo;Mevcut yönetimin eylemleri ve Kongre'nin eylemsizliği; çiftlik girdileri için maliyetleri artırıyor, yurt dışı ve iç pazarları bozmakta, tarımı güvenilir işgücü havuzundan mahrum bırakıyor ve kritik tarım araştırmalarının finansmanını kesmekte&raquo; ifadeleri yer alıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu durum; ABD gıda tedarik zincirlerinin temel zayıflıklarını sergiliyor. Süt çiftlikleri %50'ye varan oranda; meyve-sebze hasadı %70'e varan oranda göçmen işgücüne bağlı oluyor. <em>H-2A</em> programının modernizasyonu; tarımsal robotik yatırımı (<strong>John Deere</strong>; <strong>Carbon Robotics</strong>; <strong>Naio Technologies</strong>); ve <em>nearshoring</em> yoluyla tedarik çeşitlendirmesi; orta vadede temel uyum stratejileri oluyor. Aksi takdirde; gıda fiyatlarında enflasyon, çiftlik kapanmaları ve ithalat bağımlılığında artış kaçınılmaz görünüyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43404-trump-immigration-policy-wreaking-havoc-on-us-food-production-say-former-agriculture-leaders"><u>https://www.supplychainbrain.com/articles/43404-trump-immigration-policy-wreaking-havoc-on-us-food-production-say-former-agriculture-leaders</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

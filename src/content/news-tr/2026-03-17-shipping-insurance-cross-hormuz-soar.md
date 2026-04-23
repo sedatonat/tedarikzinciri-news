@@ -36,9 +36,6 @@ tags:
 3. Çoğu fiyat, <strong>China</strong>, <strong>India</strong> ve <strong>Pakistan</strong> bağlantılı gemiler için kesiliyor.<br>
 4. <strong>UKMTO</strong>, 1 Mart&rsquo;tan bu yana 20 güvenlik olayı raporluyor; sonuncusu 12 Mart&rsquo;taki konteyner gemisi.<br>
 5. <strong>DFC</strong>&rsquo;nin 20 milyar dolarlık reasürans programı, sigortacıların ilgisini çekiyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43665-shipping-insurance-costs-to-cross-hormuz-soar-after-ship-attacks"><u>https://www.supplychainbrain.com/articles/43665-shipping-insurance-costs-to-cross-hormuz-soar-after-ship-attacks</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

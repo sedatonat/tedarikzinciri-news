@@ -30,9 +30,6 @@ tags:
 3. Proje, Anaheim Caddesi ile bağlantı koridorunu genişletip yeniden hizalayacak ve dar boğazı ortadan kaldıracak.<br>
 4. İyileştirmeler, daha büyük Pier B On-Dock Rail Support Facility projesiyle koordineli yürütülüyor.<br>
 5. Aşırı boyutlu izin hacimlerinin yenilenebilir enerji ve elektrikli ulaşım yatırımlarıyla artması bekleniyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://container-news.com/port-of-long-beach-awards-contract-to-improve-heavy-haul-route-infrastructure/"><u>https://container-news.com/port-of-long-beach-awards-contract-to-improve-heavy-haul-route-infrastructure/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

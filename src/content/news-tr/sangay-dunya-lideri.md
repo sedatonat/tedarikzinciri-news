@@ -72,7 +72,6 @@ gibi etkenlerle karşı karşıya olmasına rağmen Çin limanları güçlü bir
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/shanghai-undefeated-asurpasses-40-million-teus/"><u>https://www.porttechnology.org/news/shanghai-undefeated-asurpasses-40-million-teus/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

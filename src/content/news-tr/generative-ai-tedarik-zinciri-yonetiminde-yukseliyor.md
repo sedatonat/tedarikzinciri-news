@@ -46,4 +46,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://procurementmag.com/articles/ey-overcoming-hurdles-to-introduce-genai-into-supply-chains"><u>https://procurementmag.com/articles/ey-overcoming-hurdles-to-introduce-genai-into-supply-chains</u></a></p>

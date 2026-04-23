@@ -30,4 +30,3 @@ tags:
   <li><p>Depootel, hem kurumsal hem de bireysel depolama ihtiyaçlarına hitap ediyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://lojistikhatti.com/haber/2024/07/eyup-lojistikten-yeni-nesil-depolama-cozumu-depootel"><u>https://lojistikhatti.com/haber/2024/07/eyup-lojistikten-yeni-nesil-depolama-cozumu-depootel</u></a></p>

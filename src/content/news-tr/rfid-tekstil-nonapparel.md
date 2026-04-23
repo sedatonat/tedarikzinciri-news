@@ -33,4 +33,3 @@ tags:
   <li><p>Müşteri deneyimini iyileştirir ve kayıp ürünlerin bulunmasını kolaylaştırır.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/blog/rfid-item-tagging"><u>https://www.thescxchange.com/blog/rfid-item-tagging</u></a></p>

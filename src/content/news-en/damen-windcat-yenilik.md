@@ -47,7 +47,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/damen-and-windcat-introduce-innovation-series-a-new-class-of-offshore-support-vessels/"><u>https://gcaptain.com/damen-and-windcat-introduce-innovation-series-a-new-class-of-offshore-support-vessels/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -35,7 +35,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/msc-launches-new-visibility-technology-for-refrigerated-cargo-5935929"><u>https://www.joc.com/article/msc-launches-new-visibility-technology-for-refrigerated-cargo-5935929</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>

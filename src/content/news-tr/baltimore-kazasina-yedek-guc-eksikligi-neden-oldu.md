@@ -37,4 +37,3 @@ tags:
   <li><p>Geminin elektrik kesintileri, köprüye çarpmadan önce ve limandan ayrılmadan önce yaşandı.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/39731-dali-would-have-needed-six-story-generator-for-backup-power-to-avoid-bridge-crash"><u>https://www.supplychainbrain.com/articles/39731-dali-would-have-needed-six-story-generator-for-backup-power-to-avoid-bridge-crash</u></a></p>

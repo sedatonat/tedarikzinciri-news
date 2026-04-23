@@ -46,7 +46,6 @@ tags:
   <li><p>Wärtsilä Marine'den Anders Öster, projenin endüstri işbirliği için önemini vurguladı.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/wartsila-joins-twinship-data-project/"><u>https://www.porttechnology.org/news/wartsila-joins-twinship-data-project/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

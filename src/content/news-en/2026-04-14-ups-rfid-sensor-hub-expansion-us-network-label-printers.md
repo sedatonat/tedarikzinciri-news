@@ -22,9 +22,6 @@ tags: ["UPS", "RFID", "hub", "package visibility", "manual scans", "label printe
 3. RFID sensors will be installed at U.S. hubs; label printers will be distributed to customers.<br>
 4. The carrier plans to make nearly all of its packages RFID-trackable.<br>
 5. Rival FedEx has launched a similar expansion; RFID is becoming an industry standard.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychaindive.com/news/ups-rfid-sensor-hub-expansion-2026/817288/"><u>https://www.supplychaindive.com/news/ups-rfid-sensor-hub-expansion-2026/817288/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

@@ -49,7 +49,6 @@ tags:
 <p><br></p>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/shippers-investing-in-data-warehousing-capability-to-increase-software-options-5960783"><u>https://www.joc.com/article/shippers-investing-in-data-warehousing-capability-to-increase-software-options-5960783</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Procure ERP?" has been published on Google Play Books.</strong></p>

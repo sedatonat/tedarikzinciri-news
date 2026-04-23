@@ -25,9 +25,6 @@ tags: ["Hershey", "kakao", "tedarik dayanıklılığı", "Jason Reiman", "Fildi�
 3. Income Accelerator Program boosts farmer income and productivity for long-term supply.<br>
 4. R&D focused on disease- and drought-resistant cacao trees.<br>
 5. First fully digital integrated plant in Pennsylvania part of $1B North American investment.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychaindive.com/news/hershey-cocoa-sourcing-resilience-price-shock/817044/"><u>https://www.supplychaindive.com/news/hershey-cocoa-sourcing-resilience-price-shock/817044/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

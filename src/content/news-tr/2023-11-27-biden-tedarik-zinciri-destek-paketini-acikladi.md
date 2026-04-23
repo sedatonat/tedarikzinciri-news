@@ -39,4 +39,3 @@ tags:
   <li><p>İşçi hakları ihlalleri için risk haritalama, Çalışma Bakanlığı (DOL) tarafından denetlenecek.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainquarterly.com/articles/9181-biden-administration-unwraps-package-of-supply-chain-support-policies"><u>https://www.supplychainquarterly.com/articles/9181-biden-administration-unwraps-package-of-supply-chain-support-policies</u></a></p>

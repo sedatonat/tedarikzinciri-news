@@ -40,7 +40,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/smart-label-tracks-food-giesecke-devrient/736608/"><u>https://www.supplychaindive.com/news/smart-label-tracks-food-giesecke-devrient/736608/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book has been published on Google Play Books.</strong></p>

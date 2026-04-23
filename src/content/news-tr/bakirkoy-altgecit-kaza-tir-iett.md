@@ -64,7 +64,6 @@ açıkça görülüyor.</p></li>
 <p><strong>Konu ile alakalı detaylı şekilde hazırladığımız "</strong><a href="https://www.tedarikzinciriportali.com/post/konteyner-tirlarinin-kopruye-carpmalarinin-kok-sebebi"><u><strong>Konteyner TIR’larının Köprüye Çarpmalarının Kök Sebep Analizi</strong></u></a><strong>" analizimizi okumanızı tavsiye ederiz.</strong></p>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://video.haber7.com/video-galeri/289545-bakirkoyde-ust-gecide-carpan-tirin-iett-otobusunu-ezme-ani-kamerada"><u>https://video.haber7.com/video-galeri/289545-bakirkoyde-ust-gecide-carpan-tirin-iett-otobusunu-ezme-ani-kamerada</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/">SedatOnat.com</a></p>
 <p>--------------------</p>

@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the bill is critical for major importers including <strong>Walmart</strong>, <strong>Target</strong>, <strong>Home Depot</strong>, <strong>Best Buy</strong>, <strong>Apple</strong>, <strong>Nike</strong> and <strong>Hasbro</strong>, which are seeking to recover tariff costs from the 2018&ndash;2025 period. The <strong>National Retail Federation</strong> (<strong>NRF</strong>), <strong>U.S. Chamber of Commerce</strong> and <strong>National Association of Manufacturers</strong> (<strong>NAM</strong>) are backing the legislation. Trade negotiations with the <strong>European Union</strong>, <strong>China</strong>, <strong>Japan</strong> and <strong>India</strong>, the future tariff architecture, <em>retaliatory tariffs</em> and ongoing <strong>WTO</strong> disputes will sit at the top of the global supply chain risk map throughout 2026.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43520-senate-democrats-introduce-bill-to-require-tariff-refunds"><u>https://www.supplychainbrain.com/articles/43520-senate-democrats-introduce-bill-to-require-tariff-refunds</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

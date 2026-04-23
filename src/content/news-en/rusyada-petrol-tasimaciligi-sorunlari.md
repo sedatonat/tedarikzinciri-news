@@ -50,7 +50,6 @@ tags:
 <p><br></p>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/business/2025/02/14/up-to-40-of-russian-oil-not-reaching-the-rails-russian-railways-and-oil-companies-blame-one-another/"><u>https://www.railfreight.com/business/2025/02/14/up-to-40-of-russian-oil-not-reaching-the-rails-russian-railways-and-oil-companies-blame-one-another/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP? Our Book is Published on Google Play Books.</strong></p>

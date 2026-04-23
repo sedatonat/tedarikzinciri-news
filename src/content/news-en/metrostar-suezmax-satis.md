@@ -52,7 +52,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://splash247.com/metrostar-sails-out-of-crude-trade-with-double-suezmax-sale/"><u>https://splash247.com/metrostar-sails-out-of-crude-trade-with-double-suezmax-sale/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

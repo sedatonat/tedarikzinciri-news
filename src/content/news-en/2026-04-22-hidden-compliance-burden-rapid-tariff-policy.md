@@ -27,9 +27,6 @@ tags: ['tarife', 'uyumluluk', 'gümrük', 'veri altyapısı', 'Karyl Fowler', 'A
 3. Fragmented, non-interoperable digital records complicate supply chain compliance.<br>
 4. Verifiable credential and self-sovereign identity are foundational standards for supply chain evidence.<br>
 5. FTZ, bonded warehouse, and tariff engineering are primary manufacturer response tools.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42130-the-hidden-compliance-burden-of-rapid-tariff-policy"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42130-the-hidden-compliance-burden-of-rapid-tariff-policy</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it free via this link.</p>

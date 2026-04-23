@@ -36,7 +36,6 @@ tags:
   <li><p>Data management is maintained on secure cloud.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41970-uk-gives-permission-for-drones-to-patrol-railways"><u>https://www.supplychainbrain.com/articles/41970-uk-gives-permission-for-drones-to-patrol-railways</u></a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP?</strong> Our book has been published on Google Play Books.</p>

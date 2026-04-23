@@ -23,9 +23,6 @@ tags: ["Süveyş Kanalı", "SCA", "transit ücret", "konteyner gemileri", "Süve
 3. The rebate applied to laden and ballast vessels of 130,000 SCNT and above.<br>
 4. Two periodicals dated 13 May 2025 and 17 November 2025 were suspended.<br>
 5. The move comes amid persistent Red Sea risks and weak Suez traffic.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/suez-canal-cancels-rebate-for-large-boxships/"><u>https://www.porttechnology.org/suez-canal-cancels-rebate-for-large-boxships/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

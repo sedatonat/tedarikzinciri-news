@@ -36,7 +36,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/north-america-tariffs-suspended-whilst-china-retaliates/"><u>https://www.porttechnology.org/news/north-america-tariffs-suspended-whilst-china-retaliates/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book on How to Obtain ERP has been published on Google Play Books.</strong></p>

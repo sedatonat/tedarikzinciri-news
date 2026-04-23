@@ -52,7 +52,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/beltandroad/2025/01/13/azerbaijan-railways-takes-stock-of-2024-major-milestones-in-advancing-international-corridors/"><u>https://www.railfreight.com/beltandroad/2025/01/13/azerbaijan-railways-takes-stock-of-2024-major-milestones-in-advancing-international-corridors/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

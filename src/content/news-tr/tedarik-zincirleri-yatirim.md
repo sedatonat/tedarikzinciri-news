@@ -59,7 +59,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/why-supply-chains-should-invest-not-just-react-to-tariffs"><u>https://www.supplychain247.com/article/why-supply-chains-should-invest-not-just-react-to-tariffs</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

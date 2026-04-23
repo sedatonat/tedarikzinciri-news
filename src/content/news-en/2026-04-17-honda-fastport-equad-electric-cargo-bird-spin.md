@@ -23,9 +23,6 @@ tags: ["Honda", "Fastport", "eQuad", "Bird", "Spin", "last-mile", "EV", "urban l
 3. It will be used for battery swapping and scooter repositioning.<br>
 4. Suitable for parcel, grocery and food-service distribution.<br>
 5. Offered as hardware plus a fleet-as-a-service software bundle.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychain247.com/article/honda-launches-electric-cargo-vehicle-for-urban-delivery"><u>https://www.supplychain247.com/article/honda-launches-electric-cargo-vehicle-for-urban-delivery</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

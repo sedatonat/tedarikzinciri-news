@@ -36,9 +36,6 @@ tags:
 3. <strong>TPRM</strong>; veri yoğun ve zaman hassas oluyor olduğu için yapay zeka kullanım örneği olarak öne çıkıyor.<br>
 4. Sürekli süreçler; nokta-zamanlı incelemelerin yerini alıyor.<br>
 5. Ekipler; yapay zeka çıktılarını her aşamada gözden geçiriyor ve geçersiz kılıyor olabiliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43908-aravo-launches-ai-capability-to-automate-third-party-risk-workflows"><u>https://www.supplychainbrain.com/articles/43908-aravo-launches-ai-capability-to-automate-third-party-risk-workflows</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

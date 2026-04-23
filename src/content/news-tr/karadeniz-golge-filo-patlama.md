@@ -43,7 +43,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://splash247.com/black-sea-blasts-set-sanctioned-tankers-ablaze-off-turkish-coast/"><u>https://splash247.com/black-sea-blasts-set-sanctioned-tankers-ablaze-off-turkish-coast/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

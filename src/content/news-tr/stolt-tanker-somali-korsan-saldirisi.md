@@ -83,7 +83,6 @@ Yetkililer, ticaret gemilerini <strong>yüksek alarm durumunda kalmaları</stron
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://splash247.com/gunfire-exchange-as-pirates-target-stolt-tanker-in-somali-waters/"><u>https://splash247.com/gunfire-exchange-as-pirates-target-stolt-tanker-in-somali-waters/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

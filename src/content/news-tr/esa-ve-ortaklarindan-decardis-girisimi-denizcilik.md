@@ -44,7 +44,6 @@ tags:
   <li><p><strong>Uyum Sağlanan Hedefler:</strong> Uluslararası Denizcilik Örgütü (IMO) 2050 net sıfır emisyon hedefi, Avrupa Birliği'nin 2030 İklim Hedef Planı</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/esa-awake-ai-abb-wallenius-launch-decardis-to-enhance-ship-port-data-sharing/"><u>https://www.porttechnology.org/news/esa-awake-ai-abb-wallenius-launch-decardis-to-enhance-ship-port-data-sharing/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

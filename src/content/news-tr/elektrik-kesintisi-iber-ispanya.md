@@ -49,7 +49,6 @@ tags:
 </ul>
 <p style="text-align: justify"><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://en.wikipedia.org/wiki/2025_Iberian_Peninsula_blackout"><u>https://en.wikipedia.org/wiki/2025_Iberian_Peninsula_blackout</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

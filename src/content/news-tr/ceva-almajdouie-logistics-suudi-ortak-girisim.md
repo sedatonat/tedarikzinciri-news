@@ -35,7 +35,6 @@ tags:
   <li><p><strong>CEVA Logistics</strong>, ortak girişimde çoğunluk hissesine sahip olacak.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/ceva-logistics-almajdouie-logistics-form-new-joint-venture/"><u>https://www.porttechnology.org/news/ceva-logistics-almajdouie-logistics-form-new-joint-venture/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

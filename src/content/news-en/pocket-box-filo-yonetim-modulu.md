@@ -36,4 +36,3 @@ tags:
   <li><p>New security features to combat equipment theft will be added in the future.</p></li>
 </ul>
 <p><br></p>
-<p>News Link: <a href="https://www.warehousinglogisticsinternational.com/pocket-box-targets-road-transport-sector-with-asset-management-enhancement/"><u>https://www.warehousinglogisticsinternational.com/pocket-box-targets-road-transport-sector-with-asset-management-enhancement/</u></a></p>

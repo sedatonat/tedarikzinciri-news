@@ -43,7 +43,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/international-intermodal-market-enters-constrained-2025-analyst-5912000"><u>https://www.joc.com/article/international-intermodal-market-enters-constrained-2025-analyst-5912000</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain an ERP? Our book has been published on Google Play Books.</strong></p>

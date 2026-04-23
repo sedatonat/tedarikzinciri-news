@@ -42,7 +42,6 @@ tags:
   <li><p>Compliance affects insurance terms.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42222-new-us-coast-guard-cybersecurity-rule-enters-into-force"><u>https://www.supplychainbrain.com/articles/42222-new-us-coast-guard-cybersecurity-rule-enters-into-force</u></a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>

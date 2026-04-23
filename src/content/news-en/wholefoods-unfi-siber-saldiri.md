@@ -100,7 +100,6 @@ Many chains, including <strong>Whole Foods,</strong> faced <strong>product short
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://nypost.com/2025/06/11/business/whole-foods-tells-customers-of-temporary-supply-challenges/"><u>https://nypost.com/2025/06/11/business/whole-foods-tells-customers-of-temporary-supply-challenges/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -80,7 +80,6 @@ Aliprantis summarized this potential as follows:<br>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/wireless-charging-electric-truck-roadway-purdue-university"><u>https://www.supplychain247.com/article/wireless-charging-electric-truck-roadway-purdue-university</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

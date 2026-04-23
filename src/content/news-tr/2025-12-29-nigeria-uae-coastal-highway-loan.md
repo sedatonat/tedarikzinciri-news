@@ -35,9 +35,6 @@ tags:
 3. <strong>First Abu Dhabi Bank</strong>, işlemi tam kapsamlı olarak <strong>underwrite</strong> ediyor.<br>
 4. <strong>ICIEC</strong>, risk azaltım güvencesini sağlıyor.<br>
 5. Otoyol nihai aşamada 700 km uzunluğunda oluyor ve <strong>Atlantic</strong> kıyısını boylu boyunca bağlıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43053-nigeria-secures-12-billion-uae-loan-to-build-coastal-highway"><u>https://www.supplychainbrain.com/articles/43053-nigeria-secures-12-billion-uae-loan-to-build-coastal-highway</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

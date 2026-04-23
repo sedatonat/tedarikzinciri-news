@@ -27,9 +27,6 @@ tags: ['General Motors', 'GM', 'EV', 'Trump', 'Factory Zero', 'Bloomberg', 'Detr
 3. <strong>Chevrolet Silverado EV</strong>, <strong>GMC Sierra EV</strong>, and <strong>Hummer EV</strong> are the primary affected models.<br>
 4. Trump's move to eliminate EV tax credits is the primary driver.<br>
 5. Approximately 2,200 workers are planned to be recalled in January.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42750-gm-temporarily-cuts-5-500-workers-citing-ev-pressure"><u>https://www.supplychainbrain.com/articles/42750-gm-temporarily-cuts-5-500-workers-citing-ev-pressure</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

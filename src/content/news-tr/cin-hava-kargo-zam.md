@@ -56,7 +56,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Yeni tarifelerin yürürlüğe girmesi halinde, <strong>hava taşımacılığı maliyetleri ve tüketici fiyatları</strong> daha da yükselme riski taşıyor.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/china-air-freight-demand-rates-surge-on-new-100-us-tariff-6099961"><u>https://www.joc.com/article/china-air-freight-demand-rates-surge-on-new-100-us-tariff-6099961</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

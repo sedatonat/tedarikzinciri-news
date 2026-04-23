@@ -85,7 +85,6 @@ However, the company will not make the transition until conditions mature.</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/us-restocking-red-sea-return-the-two-big-unknowns-for-2026-hapag-briefing-6120248"><u>https://www.joc.com/article/us-restocking-red-sea-return-the-two-big-unknowns-for-2026-hapag-briefing-6120248</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

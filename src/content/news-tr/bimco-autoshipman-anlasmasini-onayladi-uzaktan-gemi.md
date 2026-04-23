@@ -36,7 +36,6 @@ tags:
   <li><p>AUTOSHIPMAN'ın geliştirilmesinde yasal ve sigorta uzmanlarının yanı sıra sektörde faaliyet gösteren şirketlerin deneyimlerinden faydalanıldı.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/bimco-adopts-first-management-agreement-for-autonomous-ships/"><u>https://www.porttechnology.org/news/bimco-adopts-first-management-agreement-for-autonomous-ships/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

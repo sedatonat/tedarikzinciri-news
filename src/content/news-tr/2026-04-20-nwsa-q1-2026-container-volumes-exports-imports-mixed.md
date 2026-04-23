@@ -32,9 +32,6 @@ tags:
 3. YTD toplam konteyner hacmi 714.719 TEU oldu; yüzde 14,2 azaldı.<br>
 4. Mart 2026'da hacim 278.829 TEU; yıllık bazda yüzde 10,1 düşüş kaydetti.<br>
 5. Yurtiçi hacimler YTD yüzde 0,2 büyüdü; Alaska yüzde 0,3 yükseldi, Hawaii yüzde 0,4 geriledi.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/nwsa-exports-rise-as-imports-drop-in-q1-2026/"><u>https://www.porttechnology.org/nwsa-exports-rise-as-imports-drop-in-q1-2026/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

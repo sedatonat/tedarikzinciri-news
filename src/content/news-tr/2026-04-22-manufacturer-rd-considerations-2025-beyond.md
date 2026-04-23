@@ -35,9 +35,6 @@ tags:
 3. <strong>Section 174</strong>; <strong>R&amp;E</strong> amortizasyon &mdash; 5 yıl ABD/15 yıl yabancı oluyor.<br>
 4. <strong>QREs</strong>; maaşlar; malzemeler; sözleşmeli araştırma; bilgisayar kira oluyor.<br>
 5. <strong>NAM</strong>; <strong>SIA</strong>; <strong>AIA</strong>; <strong>PhRMA</strong>; ana imalat baskı grupları oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41280-manufacturer-r-and-d-considerations-for-2025-and-beyond"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41280-manufacturer-r-and-d-considerations-for-2025-and-beyond</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

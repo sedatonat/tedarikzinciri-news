@@ -47,7 +47,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/beltandroad/2024/12/23/russian-railways-net-profit-90-per-cent-lower-than-projected/"><u>https://www.railfreight.com/beltandroad/2024/12/23/russian-railways-net-profit-90-per-cent-lower-than-projected/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

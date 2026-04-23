@@ -35,9 +35,6 @@ tags:
 3. <strong>KDE</strong>/<strong>CTE</strong>; ana izlenebilirlik veri mekanizmaları oluyor.<br>
 4. <strong>IBM Food Trust</strong>; <strong>FoodLogiQ</strong>; ana izlenebilirlik teknoloji platformları oluyor.<br>
 5. 2024 <strong>Boar&rsquo;s Head</strong> ve <strong>McDonald&rsquo;s</strong> salgınları; ana yüksek profil olaylar oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41430-fda-delays-food-traceability-rules-as-foodborne-illnesses-surge"><u>https://www.supplychainbrain.com/articles/41430-fda-delays-food-traceability-rules-as-foodborne-illnesses-surge</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

@@ -30,4 +30,3 @@ tags:
   <li><p>Employee training and appropriate partnerships are among the effective methods in combating fraud.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.thescxchange.com/articles/10163-five-ways-to-tackle-return-fraud"><u>https://www.thescxchange.com/articles/10163-five-ways-to-tackle-return-fraud</u></a></p>

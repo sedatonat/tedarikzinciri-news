@@ -78,7 +78,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/business/2025/12/12/russian-wagon-producers-cutting-staff-amid-business-deterioration/"><u>https://www.railfreight.com/business/2025/12/12/russian-wagon-producers-cutting-staff-amid-business-deterioration/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -62,7 +62,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://splash247.com/oceanpal-charts-new-course-into-ai-and-crypto-infrastructure/"><u>https://splash247.com/oceanpal-charts-new-course-into-ai-and-crypto-infrastructure/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

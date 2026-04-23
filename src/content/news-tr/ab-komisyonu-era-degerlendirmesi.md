@@ -87,7 +87,6 @@ gerektiği belirtiliyor.</p></li>
 </ul>
 <p style="text-align: justify"><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/policy/2025/11/11/eu-commission-evaluates-era-positive-but-expectations-not-met/"><u>https://www.railfreight.com/policy/2025/11/11/eu-commission-evaluates-era-positive-but-expectations-not-met/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

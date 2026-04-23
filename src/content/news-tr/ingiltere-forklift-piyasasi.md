@@ -58,7 +58,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://warehousinglogisticsinternational.com/forklift-market-positions-for-recovery-as-confidence-expected-to-build-from-2026/"><u>https://warehousinglogisticsinternational.com/forklift-market-positions-for-recovery-as-confidence-expected-to-build-from-2026/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

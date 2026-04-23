@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Şirket; «<em>charter-intensive fleet model</em>» veya «<em>asset-light</em>» yaklaşımı işlediyor olduğunu söylüyor; bu da gemilerinin büyük bölümünün sahip olunuyorn ziyade kiralanmakta olduğu anlamına geliyor. <strong>İsrail hükümeti</strong>; ZIM'i stratejik bir varlık olarak görüyor ve şirkette kritik kararlar üzerinde kontrol sağlıyor olan bir altın hisseye sahip bulunuyor. Tedarik zinciri perspektifinden bakıldığında bu birleşme; küresel konteyner pazarındaki ilk üç oyuncunun («Big 3») gücünü daha da pekiştirmekte ve özellikle Asya-Akdeniz koridorunda kapasite ile fiyatlandırma dinamiklerini önemli ölçüde değiştiriyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43484-hapag-lloyd-to-buy-competitor-zim-in-42b-deal"><u>https://www.supplychainbrain.com/articles/43484-hapag-lloyd-to-buy-competitor-zim-in-42b-deal</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

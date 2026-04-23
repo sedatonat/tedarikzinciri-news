@@ -77,7 +77,6 @@ National Grid’in kazandığı iki kısım, şirketin <strong>enerji güvenliğ
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.reuters.com/business/energy/national-grid-awarded-764-billion-supply-chain-framework-2025-03-13/"><u>https://www.reuters.com/business/energy/national-grid-awarded-764-billion-supply-chain-framework-2025-03-13/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

@@ -40,7 +40,6 @@ tags:
   <li><p>Satıştan elde edilen gelir, Deutsche Bahn'ın borcunu azaltacak ve temel işlerine odaklanmasını sağlayacak.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/db-schenker-sale-receives-approval/"><u>https://www.porttechnology.org/news/db-schenker-sale-receives-approval/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

@@ -47,7 +47,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">More comprehensive <strong>data sharing</strong> enhances resilience at ports</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/more-data-sharing-crucial-to-avoiding-future-port-congestion-officials-6135162"><u>https://www.joc.com/article/more-data-sharing-crucial-to-avoiding-future-port-congestion-officials-6135162</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

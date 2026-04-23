@@ -27,9 +27,6 @@ tags:
 3. Teslimat 2029'da gerçekleşecek; gemi 126 metre uzunluğunda ve yaklaşık 15.000 ton deplasmana sahip.<br>
 4. Sipariş; kuzey Avrupa yapımcıları tarafından domine edilen bir segmente Güney Koreli tersanenin girişini işaretliyor.<br>
 5. Kuzey Deniz Rotası'nın ticari ilgi çekmesiyle buz kırıcı gemi pazarı genişliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://en.portnews.ru/news/390646/"><u>https://en.portnews.ru/news/390646/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

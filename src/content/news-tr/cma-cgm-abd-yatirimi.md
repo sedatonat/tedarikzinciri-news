@@ -54,7 +54,6 @@ tags:
 <p><br></p>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/cma-cgm-to-invest-20-billion-in-us-shipping-ports-and-logistics-5957748"><u>https://www.joc.com/article/cma-cgm-to-invest-20-billion-in-us-shipping-ports-and-logistics-5957748</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

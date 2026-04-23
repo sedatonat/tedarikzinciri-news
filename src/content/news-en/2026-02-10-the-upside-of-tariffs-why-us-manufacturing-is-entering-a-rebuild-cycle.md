@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">This reporting brings deeper transparency and accuracy about all sourcing decisions. From a supply chain perspective, the environment is enabling <em>nearshoring</em>, <em>reshoring</em> and <em>friend-shoring</em> decisions to consolidate into a multi-year capital investment wave. CFOs can build more confident scenarios on total landed cost (TLC) and capital payback periods, which in turn opens the door to new factory builds, automation programs and workforce development initiatives.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/43323-the-upside-of-tariffs-why-us-manufacturing-is-entering-a-rebuild-cycle"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/43323-the-upside-of-tariffs-why-us-manufacturing-is-entering-a-rebuild-cycle</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

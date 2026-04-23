@@ -49,7 +49,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/42916-airbus-says-quality-lapses-on-a320-panels-need-inspection"><u>https://www.supplychainbrain.com/articles/42916-airbus-says-quality-lapses-on-a320-panels-need-inspection</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

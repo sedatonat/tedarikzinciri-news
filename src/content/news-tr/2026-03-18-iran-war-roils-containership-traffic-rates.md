@@ -36,9 +36,6 @@ tags:
 3. <strong>Colombo</strong>; mevcut tıkanıklık nedeniyle <strong>Gulf</strong> kargosunu reddediyor.<br>
 4. <strong>FEU</strong> başına yüzlerce dolar acil yakıt sürşarjı duyuruluyor.<br>
 5. <strong>BCO</strong>&rsquo;lar; doğrudan etkilenmemekte olunan hatlarda <strong>war surcharge</strong>&rsquo;a karşı çıkıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43673-war-in-iran-roils-containership-traffic-rates"><u>https://www.supplychainbrain.com/articles/43673-war-in-iran-roils-containership-traffic-rates</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

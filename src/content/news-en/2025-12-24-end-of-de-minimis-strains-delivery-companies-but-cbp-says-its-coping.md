@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the shift is forcing last-mile players such as <strong>UPS</strong>, <strong>FedEx</strong>, <strong>DHL</strong> and notably <strong>USPS</strong> to accelerate investments in data quality, declaration accuracy and customs integration. Low-value e-commerce platforms led by <strong>Shein</strong>, <strong>Temu</strong> and <strong>AliExpress</strong> must restructure pricing models, fulfillment strategies and post&ndash;<em>section 321</em> import flows. The new regime is widening the competitive gap between compliant and non-compliant carriers, accelerating consolidation across the cross-border parcel sector.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43041-end-of-de-minimis-strains-delivery-companies-but-cbp-says-its-coping"><u>https://www.supplychainbrain.com/articles/43041-end-of-de-minimis-strains-delivery-companies-but-cbp-says-its-coping</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

@@ -21,9 +21,6 @@ tags: ["BRG", "decision-making", "data analytics", "supply chain disruption", "N
 3. Successful teams are managed from a single command centre and can revise strategy within minutes.<br>
 4. Nathan Cray and Ken Barbour recommend pre-defining decision authority and building playbooks.<br>
 5. More than technology investment, the decision culture that supports it is critical.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychain247.com/article/supply-chain-decision-making-problem-not-data"><u>https://www.supplychain247.com/article/supply-chain-decision-making-problem-not-data</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

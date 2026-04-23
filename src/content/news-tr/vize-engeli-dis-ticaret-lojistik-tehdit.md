@@ -37,4 +37,3 @@ tags:
   <li><p>Vize başvurularındaki belirsizlikler ve uzun süreçler, sektörü daha da zor bir duruma sokuyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.lojiport.com/vize-sorunu-turkiyenin-dis-ticaretini-tehdit-ediyor-116402h.htm"><u>https://www.lojiport.com/vize-sorunu-turkiyenin-dis-ticaretini-tehdit-ediyor-116402h.htm</u></a></p>

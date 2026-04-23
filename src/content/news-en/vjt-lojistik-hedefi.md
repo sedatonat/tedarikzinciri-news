@@ -45,7 +45,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.warehousinglogisticsinternational.com/vjt-targets-logistics-sector-following-software-patent-award/"><u>https://www.warehousinglogisticsinternational.com/vjt-targets-logistics-sector-following-software-patent-award/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book is Now Published on Google Play Books.</strong></p>

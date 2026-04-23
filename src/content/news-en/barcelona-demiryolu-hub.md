@@ -56,7 +56,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">From 2026 onwards, Barcelona's position as Europe's primary Mediterranean gateway is strengthening.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://container-news.com/port-of-barcelona-approves-e265m-south-rail-hub/"><u>https://container-news.com/port-of-barcelona-approves-e265m-south-rail-hub/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

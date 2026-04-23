@@ -95,7 +95,6 @@ Rozicki explains this transformation as follows:<br>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.scmr.com/article/gather-ais-next-chapter-from-drone-vision-to-warehouse-intelligence"><u>https://www.scmr.com/article/gather-ais-next-chapter-from-drone-vision-to-warehouse-intelligence</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Buy ERP?" Has Been Published on Google Play Books.</strong></p>

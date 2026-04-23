@@ -48,7 +48,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The parties are establishing new structures for <strong>supply chain security</strong>, <strong>recycling technologies</strong>, and <strong>national security-based oversight</strong>.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/us-australia-framework-critical-mineral-supply-chain/803445/"><u>https://www.supplychaindive.com/news/us-australia-framework-critical-mineral-supply-chain/803445/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

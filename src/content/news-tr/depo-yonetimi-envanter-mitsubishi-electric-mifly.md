@@ -39,7 +39,6 @@ tags:
 <p><br></p>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/mits-mifly-warehouse-drones-navigate-dark"><u>https://www.supplychain247.com/article/mits-mifly-warehouse-drones-navigate-dark</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

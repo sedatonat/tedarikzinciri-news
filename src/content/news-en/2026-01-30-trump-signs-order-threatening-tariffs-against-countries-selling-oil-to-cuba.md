@@ -29,9 +29,6 @@ tags:
 <p style="text-align: justify">Cuba has faced a significant energy crisis over the last year as U.S. economic sanctions have ramped up. Mexican state-owned oil company <strong>Pemex</strong> reported shipping an estimated 20,000 barrels per day to Cuba between January and September of 2025 &mdash; with that number slipping to roughly 7,000 barrels following a September visit to Mexico City by U.S. Secretary of State <strong>Marco Rubio</strong>. Mexico President <strong>Claudia Sheinbaum</strong> acknowledged on January 27 that <strong>Pemex</strong> had temporarily paused some oil shipments to Cuba &mdash; but claimed the decision stemmed from supply fluctuations rather than political reasons.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, this executive order broadens the scope of the secondary sanctions regime in global energy trade. For third-party countries exporting to the U.S. market, ties with Cuba now constitute a new compliance risk in terms of tariff exposure. For oil companies, shipowners and insurance providers, this calls for a fundamental rethink of route planning and counterparty screening processes.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43379-trump-signs-order-threatening-tariffs-against-countries-selling-oil-to-cuba"><u>https://www.supplychainbrain.com/articles/43379-trump-signs-order-threatening-tariffs-against-countries-selling-oil-to-cuba</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

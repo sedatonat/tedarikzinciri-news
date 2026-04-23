@@ -47,7 +47,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/railfreight/2025/01/09/multiple-serious-bridge-strikes-in-birmingham/"><u>https://www.railfreight.com/railfreight/2025/01/09/multiple-serious-bridge-strikes-in-birmingham/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>
 <p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>

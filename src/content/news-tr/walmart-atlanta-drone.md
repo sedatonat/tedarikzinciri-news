@@ -81,7 +81,6 @@ Rivera’ya göre amaç, drone teslimatını sınırlı bir teknoloji gösterisi
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42980-walmart-launches-drone-deliveries-in-atlanta"><u>https://www.supplychainbrain.com/articles/42980-walmart-launches-drone-deliveries-in-atlanta</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

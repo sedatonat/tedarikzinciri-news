@@ -24,4 +24,3 @@ tags:
 <p><br></p>
 <p>The findings suggest that workplace injuries and pain at Amazon are more widespread than previously known. Amazon's demanding work pace is believed to be a contributing factor to these issues.</p>
 <p><br></p>
-<p><strong>News link:</strong> <a href="https://www.supplychainbrain.com/articles/38371-amazon-injuries-more-widespread-than-thought-study-says"><u>https://www.supplychainbrain.com/articles/38371-amazon-injuries-more-widespread-than-thought-study-says</u></a></p>

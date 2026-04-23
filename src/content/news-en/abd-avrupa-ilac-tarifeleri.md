@@ -92,7 +92,6 @@ However, according to industry experts, achieving this goal involves <strong>hig
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/42845-will-the-us-eu-pharma-deal-tariffs-trigger-a-resurgence-of-domestic-production"><u>https://www.supplychainbrain.com/articles/42845-will-the-us-eu-pharma-deal-tariffs-trigger-a-resurgence-of-domestic-production</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

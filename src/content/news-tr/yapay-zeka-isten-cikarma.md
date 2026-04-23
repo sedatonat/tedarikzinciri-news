@@ -75,7 +75,6 @@ Amaç: işçilerin yeniden eğitimi, güvenlik ağı yatırımları, sorumlu tek
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/bipartisan-bill-ai-related-layoffs-hawley-warner/805621/"><u>https://www.supplychaindive.com/news/bipartisan-bill-ai-related-layoffs-hawley-warner/805621/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

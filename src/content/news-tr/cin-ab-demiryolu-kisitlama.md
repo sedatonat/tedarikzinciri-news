@@ -39,7 +39,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/beltandroad/2024/12/19/russia-has-no-plans-to-introduce-additional-restrictions-on-china-eu-rail-cargo-transit/"><u>https://www.railfreight.com/beltandroad/2024/12/19/russia-has-no-plans-to-introduce-additional-restrictions-on-china-eu-rail-cargo-transit/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

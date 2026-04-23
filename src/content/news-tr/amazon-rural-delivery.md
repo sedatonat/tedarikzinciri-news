@@ -27,10 +27,6 @@ tags:
 3. AI prediction rota optimizasyonu sağlar.<br>
 4. Kırsal ağ yatırımı yerel istihdam yaratır.<br>
 5. Amazon erişim stratejisini güçlendiriyordir.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42024-amazon-looks-to-expand-rural-delivery-network"><u>https://www.supplychainbrain.com/articles/42024-amazon-looks-to-expand-rural-delivery-network</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

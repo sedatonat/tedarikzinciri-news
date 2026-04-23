@@ -35,4 +35,3 @@ tags:
   <li><p>Baltimore Belediye Başkanı Brandon M. Scott, ailelere sürekli destek olacaklarını ve dualarının ailelerle olduğunu belirtti.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/last-missing-body-recovered-from-baltimore-bridge-collapse/"><u>https://www.porttechnology.org/news/last-missing-body-recovered-from-baltimore-bridge-collapse/</u></a></p>

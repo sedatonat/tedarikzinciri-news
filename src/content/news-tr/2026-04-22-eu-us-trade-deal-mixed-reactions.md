@@ -35,9 +35,6 @@ tags:
 3. Uçak parçaları ve bazı kimyasallar; %0 tarife alınıyor.<br>
 4. <strong>Bayrou</strong>; <strong>Sanchez</strong>; <strong>Dousa</strong>; eleştirel veya temkinli destek veriyor.<br>
 5. <strong>Ursula von der Leyen</strong>; anlaşmayı ekonomik istikrar için önemli adım olarak övmekte.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42230-eu-us-trade-deal-met-with-mixed-reactions-from-europes-leaders"><u>https://www.supplychainbrain.com/articles/42230-eu-us-trade-deal-met-with-mixed-reactions-from-europes-leaders</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

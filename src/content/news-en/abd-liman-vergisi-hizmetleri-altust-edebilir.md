@@ -35,7 +35,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/us-port-tax-would-scramble-ocean-services-raise-shipper-costs-drewry-5952046"><u>https://www.joc.com/article/us-port-tax-would-scramble-ocean-services-raise-shipper-costs-drewry-5952046</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

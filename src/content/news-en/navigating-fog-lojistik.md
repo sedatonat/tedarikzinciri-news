@@ -54,7 +54,6 @@ In the <strong>motor carrier</strong> segment, profitability has fallen to its l
   <li><p><strong>AI and automation</strong> are reducing the cost of building resilient supply chains.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <u>https://www.thescxchange.com/move/cscmp-edge-state-of-logistics</u></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Procure an ERP?" has been published on Google Play Books.</strong></p>

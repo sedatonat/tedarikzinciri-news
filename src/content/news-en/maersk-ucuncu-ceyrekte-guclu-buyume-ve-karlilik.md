@@ -38,7 +38,6 @@ tags:
   <li><p>Global container market growth is expected to reach approximately 6% for the full year.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/maersk-reports-41-per-cent-increase-in-ocean-revenue/"><u>https://www.porttechnology.org/news/maersk-reports-41-per-cent-increase-in-ocean-revenue/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>

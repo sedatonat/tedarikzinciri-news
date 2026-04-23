@@ -29,9 +29,6 @@ tags:
 3. Konsolide tren; mevcut düzenli blok tren servislerine ek olarak ayda bir kez çalışacak.<br>
 4. EuroSib, Novosibirsk'teki Inya Vostochnaya istasyonundaki kendi terminalinden hizmet veriyor.<br>
 5. Konsolide tren; tahıl, gıda, sebze yağı, içecek ve kereste ürünlerini taşıyacak.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://seanews.ru/en/2026/04/20/en-eurosib-launches-consolidation-train-from-siberia-to-china/"><u>https://seanews.ru/en/2026/04/20/en-eurosib-launches-consolidation-train-from-siberia-to-china/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

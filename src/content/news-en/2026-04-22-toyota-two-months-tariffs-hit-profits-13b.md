@@ -28,9 +28,6 @@ tags: ['Toyota', 'tarife', 'Japonya', 'Trump', 'otomotiv', 'Koji Sato', 'BoJ', '
 3. <strong>Trump's</strong> 25 percent auto tariff is hitting <strong>Japan's</strong> main exports to the <strong>U.S.</strong><br>
 4. The <strong>Bank of Japan</strong> cut its 2025 GDP growth forecast from 1.1 percent to 0.5 percent.<br>
 5. Automotive exports to the <strong>U.S.</strong> represent 30 percent of <strong>Japan's</strong> 2024 exports — a major risk.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41740-toyota-says-two-months-of-tariffs-will-hit-profits-by-13b"><u>https://www.supplychainbrain.com/articles/41740-toyota-says-two-months-of-tariffs-will-hit-profits-by-13b</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

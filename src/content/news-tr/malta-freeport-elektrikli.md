@@ -29,7 +29,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.warehousinglogisticsinternational.com/hyster-to-provide-electric-empty-container-handler-at-malta-freeport-terminals/"><u>https://www.warehousinglogisticsinternational.com/hyster-to-provide-electric-empty-container-handler-at-malta-freeport-terminals/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

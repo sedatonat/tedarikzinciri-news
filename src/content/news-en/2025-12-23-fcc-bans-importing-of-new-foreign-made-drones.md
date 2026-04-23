@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the dominance of Chinese players such as DJI and Autel in the global commercial drone market creates serious sourcing constraints for U.S. retailers, logistics providers and government agencies. Last-mile delivery players including <strong>Amazon</strong>, <strong>Walmart</strong> and <strong>Zipline</strong> will need to accelerate alternative supplier development programs and brace for price inflation while domestic production capacity remains limited. The ruling is also being read as part of the broader U.S. strategy of gradually decoupling Chinese technology from the country's critical infrastructure.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43039-fcc-bans-importing-of-new-foreign-made-drones"><u>https://www.supplychainbrain.com/articles/43039-fcc-bans-importing-of-new-foreign-made-drones</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

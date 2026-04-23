@@ -46,7 +46,6 @@ tags:
   <li><p>The settlement does not cover the costs necessary for the reconstruction of the bridge; the State of Maryland filed a separate claim for this.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/us-obtains-100-million-settlement-for-baltimore-bridge-collapse/"><u>https://www.porttechnology.org/news/us-obtains-100-million-settlement-for-baltimore-bridge-collapse/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>

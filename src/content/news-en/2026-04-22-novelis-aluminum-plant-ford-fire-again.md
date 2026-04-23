@@ -27,9 +27,6 @@ tags: ['Novelis', 'Ford F-150', 'alüminyum', 'yangın', 'New York', 'Hindalco',
 3. The fire originated in the facility's <strong>cold mill</strong> — black smoke observed.<br>
 4. The <strong>Ford F-150</strong> features an aluminum body — the best-selling truck.<br>
 5. <strong>Novelis</strong>, as a <strong>Hindalco</strong> (<strong>Aditya Birla Group</strong>) subsidiary, is the global leader in flat-rolled aluminum.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42890-aluminum-plant-supplying-ford-pickups-erupts-in-fire-again"><u>https://www.supplychainbrain.com/articles/42890-aluminum-plant-supplying-ford-pickups-erupts-in-fire-again</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our book is now published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>

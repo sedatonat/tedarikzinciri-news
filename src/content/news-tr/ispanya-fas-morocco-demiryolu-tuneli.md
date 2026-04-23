@@ -79,7 +79,6 @@ Uzmanlar, bu seviyedeki bir yatırımın <strong>Avrupa Birliği, Afrika Kalkın
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/infrastructure/2025/11/03/spain-morocco-rail-tunnel-extremely-complex-but-technically-viable/"><u>https://www.railfreight.com/infrastructure/2025/11/03/spain-morocco-rail-tunnel-extremely-complex-but-technically-viable/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

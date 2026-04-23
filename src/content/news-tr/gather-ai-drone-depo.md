@@ -96,7 +96,6 @@ Rozicki bu dönüşümü şöyle açıklıyor:<br>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.scmr.com/article/gather-ais-next-chapter-from-drone-vision-to-warehouse-intelligence"><u>https://www.scmr.com/article/gather-ais-next-chapter-from-drone-vision-to-warehouse-intelligence</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

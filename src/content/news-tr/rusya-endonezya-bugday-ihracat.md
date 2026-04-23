@@ -71,7 +71,6 @@ Akreditasyon kararı, iki ülke arasında <strong>tarım ve gıda güvenliği al
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://seanews.ru/en/2025/10/23/en-russia-resumes-wheat-export-to-indonesia/"><u>https://seanews.ru/en/2025/10/23/en-russia-resumes-wheat-export-to-indonesia/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

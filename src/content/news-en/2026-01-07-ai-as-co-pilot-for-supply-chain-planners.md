@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">In demand planning, the co-pilot detects <strong>SKU</strong>-level forecast deviations in real time and isolates promotion and seasonality effects. In production execution, it provides early warnings on capacity collisions and material shortages. In procurement, it monitors supplier performance and price deviations and proposes alternative sources. From a supply chain perspective, the AI assistants being developed by platforms such as <strong>SAP IBP</strong>, <strong>Kinaxis Maestro</strong>, <strong>o9 Solutions</strong> and <strong>Blue Yonder</strong> are structurally redefining the planner's daily workload.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/43082-ai-as-co-pilot-for-supply-chain-planners"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/43082-ai-as-co-pilot-for-supply-chain-planners</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında; <strong>Zara</strong> (<strong>Inditex</strong>), <strong>H&amp;M</strong>, <strong>Uniqlo</strong>, <strong>Shein</strong>, <strong>Nike</strong>, <strong>Adidas</strong> gibi öncüler; <em>nearshoring</em>, modüler depo otomasyonu (<strong>AutoStore</strong>, <strong>Symbotic</strong>, <strong>Geek+</strong>), yapay zeka destekli talep tahmini (<strong>o9 Solutions</strong>, <strong>RELEX</strong>) ve dijital ürün pasaportu (<strong>Digital Product Passport</strong> &mdash; AB&rsquo;nin <em>ESPR</em> regülasyonu kapsamında) gibi araçlara yatırımı hızlandırıyor. <strong>RFID</strong>, <strong>blockchain</strong> tabanlı izlenebilirlik ve <strong>3D virtual sampling</strong>; numune döngülerini haftalardan günlere indiriyor. Mikro envanter; <em>see-now-buy-now</em> modelleri ve sosyal ticaret entegrasyonu; 2026 sonrasında çevik moda ağlarının temel yapı taşları olacaktır.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43226-agility-will-outpace-efficiency-in-fashion-supply-chains"><u>https://www.supplychainbrain.com/articles/43226-agility-will-outpace-efficiency-in-fashion-supply-chains</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

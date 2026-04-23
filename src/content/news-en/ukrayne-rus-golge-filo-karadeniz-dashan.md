@@ -67,7 +67,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Shadow fleet sits at the center of Russia's sanctions-bypass mechanism.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/ukraine-hits-third-russia-shadow-fleet-tanker-in-black-sea/"><u>https://gcaptain.com/ukraine-hits-third-russia-shadow-fleet-tanker-in-black-sea/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

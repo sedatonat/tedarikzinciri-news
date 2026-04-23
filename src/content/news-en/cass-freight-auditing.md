@@ -42,7 +42,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/cass-acquires-international-freight-invoice-auditing-tool-to-widen-modal-reach-5914637"><u>https://www.joc.com/article/cass-acquires-international-freight-invoice-auditing-tool-to-widen-modal-reach-5914637</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our Book has been published on Google Play Books.</strong></p>

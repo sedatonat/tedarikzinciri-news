@@ -46,7 +46,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/RRD-2024-packaging-labels-insight-report-sustainability-safety"><u>https://www.supplychain247.com/article/RRD-2024-packaging-labels-insight-report-sustainability-safety</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

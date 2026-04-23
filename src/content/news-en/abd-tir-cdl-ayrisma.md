@@ -45,7 +45,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The debate highlights structural labor challenges in the US trucking sector</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/impact-of-non-domiciled-cdl-enforcement-splits-us-trucking-sector-6135184"><u>https://www.joc.com/article/impact-of-non-domiciled-cdl-enforcement-splits-us-trucking-sector-6135184</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

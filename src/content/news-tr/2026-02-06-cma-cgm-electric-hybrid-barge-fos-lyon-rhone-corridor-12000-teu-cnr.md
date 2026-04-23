@@ -31,9 +31,6 @@ tags:
 3. Proje Akdeniz–Rhône–Saône (MeRS) ekseninde düşük karbonlu lojistiğe yeni bir katkı sağlıyor.<br>
 4. Compagnie Nationale du Rhône (CNR) koridorda özel şarj altyapısı geliştiriyor.<br>
 5. Çözüm, karayolu yükünü azaltarak kentsel hava kalitesi üzerindeki baskıyı hafifletiyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/cma-cgm-to-launch-electric-barge-on-fos-lyon-corridor/"><u>https://www.porttechnology.org/cma-cgm-to-launch-electric-barge-on-fos-lyon-corridor/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

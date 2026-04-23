@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında, küresel ticari drone pazarının büyük kısmını DJI ve Autel gibi Çinli üreticilerin domine etmesi, ABD'li perakendeciler, lojistik şirketleri ve kamu kurumları için ciddi tedarik kısıtları yarattı. <strong>Amazon</strong>, <strong>Walmart</strong> ve <strong>Zipline</strong> gibi son-mil teslimat oyuncuları, alternatif tedarikçi geliştirme programlarını hızlandırmak ve yerli üretim kapasitesi sınırlı kaldığı sürece fiyat artışlarına hazırlanmak zorunda kaldı. Karar aynı zamanda ABD'nin Çin teknolojisini kademeli olarak ekosistemden çıkaran stratejisinin bir parçası olarak okundu.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43039-fcc-bans-importing-of-new-foreign-made-drones"><u>https://www.supplychainbrain.com/articles/43039-fcc-bans-importing-of-new-foreign-made-drones</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

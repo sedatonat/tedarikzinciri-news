@@ -27,9 +27,6 @@ tags: ['gemi inşaatı', 'USTR', 'Trump', 'Çin', 'Helen Atkinson', 'Ingalls', '
 3. <strong>USTR</strong> plan; 1 percent of U.S. exports carried on U.S.-built ships.<br>
 4. <strong>China</strong>, <strong>South Korea</strong>, <strong>Japan</strong>; dominating global shipbuilding.<br>
 5. <strong>Jones Act</strong>, <strong>HII</strong>, <strong>General Dynamics</strong>; primary U.S. protective legislation and players.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41510-reviving-us-shipbuilding-is-it-realistic"><u>https://www.supplychainbrain.com/articles/41510-reviving-us-shipbuilding-is-it-realistic</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Acquire ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge via this link.</p>

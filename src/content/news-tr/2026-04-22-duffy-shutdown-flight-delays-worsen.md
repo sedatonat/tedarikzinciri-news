@@ -35,9 +35,6 @@ tags:
 3. 26 Ekim&rsquo;de tek başına 3,000+ uçuş gecikmekte.<br>
 4. <strong>ATC</strong>&rsquo;ler; esansiyel personel olarak ödeme almamakta çalışıyor.<br>
 5. Hükümet kapanışı; tarihteki en uzun olarak ilerliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42730-sec-duffy-continued-shutdown-will-cause-flight-delays-to-worsen"><u>https://www.supplychainbrain.com/articles/42730-sec-duffy-continued-shutdown-will-cause-flight-delays-to-worsen</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

@@ -35,9 +35,6 @@ tags:
 3. <strong>De minimis</strong>; 800 doların altındaki paketler için hâlâ geçerli oluyor.<br>
 4. <strong>Shein</strong> ve <strong>Temu</strong>; ABD için fiyat ayarlamaları uyarıyor.<br>
 5. <strong>UPS</strong>; <strong>FedEx</strong>; benzer hizmet kısıtlamaları uyguluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41580-dhl-halts-deliveries-worth-more-than-800-to-us-consumers"><u>https://www.supplychainbrain.com/articles/41580-dhl-halts-deliveries-worth-more-than-800-to-us-consumers</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

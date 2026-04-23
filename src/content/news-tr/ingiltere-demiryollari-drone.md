@@ -36,7 +36,6 @@ tags:
   <li><p>Veri yönetimi güvenli bulutta tutulur.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41970-uk-gives-permission-for-drones-to-patrol-railways"><u>https://www.supplychainbrain.com/articles/41970-uk-gives-permission-for-drones-to-patrol-railways</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

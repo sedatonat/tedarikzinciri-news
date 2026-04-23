@@ -36,9 +36,6 @@ tags:
 3. <strong>Kevin Clouse</strong>; 2023&rsquo;te araçta tuzağa düşüyor olunduğunu petisyon ile bildiriyor.<br>
 4. Soruşturma; <strong>Bloomberg</strong> tarafından raporlanıyor.<br>
 5. <strong>Tesla</strong>&rsquo;nın <strong>flush handle</strong> tasarımı; düzenleyici inceleme altında oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43050-tesla-faces-us-probe-over-model-3-emergency-door-handles"><u>https://www.supplychainbrain.com/articles/43050-tesla-faces-us-probe-over-model-3-emergency-door-handles</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

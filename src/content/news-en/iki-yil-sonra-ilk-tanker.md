@@ -47,7 +47,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/first-supertanker-to-be-scrapped-in-two-years-is-a-dark-ship/"><u>https://gcaptain.com/first-supertanker-to-be-scrapped-in-two-years-is-a-dark-ship/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book on How to Acquire ERP has been published on Google Play Books.</strong></p>

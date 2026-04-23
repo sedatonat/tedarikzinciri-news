@@ -33,4 +33,3 @@ tags:
   <li><p><a href="https://nulogy.com/"><u>Nulogy</u></a>, <a href="https://www.packagingbirmingham.com/"><u>Packaging Innovations &amp; Empack 2024</u></a> Etkinliğinde 'Essential Package'ını piyasaya sürdü, bu da daha küçük sözleşmeli paketleme operasyonları için uyarlanmış bir çözüm sunuyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.warehousinglogisticsinternational.com/wepack-selects-nulogy-to-digitalise-its-contract-packing-operations/"><u>https://www.warehousinglogisticsinternational.com/wepack-selects-nulogy-to-digitalise-its-contract-packing-operations/</u></a></p>

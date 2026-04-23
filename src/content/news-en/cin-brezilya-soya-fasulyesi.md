@@ -71,7 +71,6 @@ Whether China will remove the additional tariff on U.S. soybeans is shaping up a
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/chinese-buyers-purchase-brazilian-soybeans-as-prices-ease-over-us-china-trade-thaw/"><u>https://gcaptain.com/chinese-buyers-purchase-brazilian-soybeans-as-prices-ease-over-us-china-trade-thaw/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

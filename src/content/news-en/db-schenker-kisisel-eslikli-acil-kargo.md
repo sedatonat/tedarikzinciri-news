@@ -33,4 +33,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.dbschenker.com/global/insights/news-and-stories/press-releases/fasten-the-seatbelt-db-schenker-launches-onboard-courier-service-1710282"><u>https://www.dbschenker.com/global/insights/news-and-stories/press-releases/fasten-the-seatbelt-db-schenker-launches-onboard-courier-service-1710282</u></a></p>

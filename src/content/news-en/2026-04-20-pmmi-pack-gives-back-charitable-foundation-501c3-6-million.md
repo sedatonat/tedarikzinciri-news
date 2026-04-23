@@ -21,9 +21,6 @@ tags: ["PMMI", "PACK gives BACK", "charitable foundation", "501(c)(3)", "packagi
 3. The goal is to amplify the philanthropic impact of the packaging and processing technology sector.<br>
 4. The decision was announced at the 2026 Executive Leadership Conference (Amelia Island, Florida).<br>
 5. First grants are expected to be announced in the coming months.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychain247.com/article/pmmi_board_approves_establishment_of_pack_gives_back_charitable_foundation"><u>https://www.supplychain247.com/article/pmmi_board_approves_establishment_of_pack_gives_back_charitable_foundation</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

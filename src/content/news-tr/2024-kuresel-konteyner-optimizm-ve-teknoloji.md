@@ -44,4 +44,3 @@ tags:
   <li><p>Konteyner fazlalığına karşılık çeşitli stratejiler geliştiriliyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.scmr.com/article/global-container-shipping-industry-sets-sights-on-tech-investment-capacity"><u>https://www.scmr.com/article/global-container-shipping-industry-sets-sights-on-tech-investment-capacity</u></a></p>

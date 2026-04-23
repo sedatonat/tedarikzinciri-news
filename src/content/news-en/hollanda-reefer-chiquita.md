@@ -65,7 +65,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/business/2025/10/29/dutch-container-merchants-closes-reefer-deal-with-chiquita/"><u>https://www.railfreight.com/business/2025/10/29/dutch-container-merchants-closes-reefer-deal-with-chiquita/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

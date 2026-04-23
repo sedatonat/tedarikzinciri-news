@@ -52,7 +52,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://container-news.com/triton-acquires-gci-in-a-deal-exceeding-us1-billion/"><u>https://container-news.com/triton-acquires-gci-in-a-deal-exceeding-us1-billion/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>

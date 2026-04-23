@@ -64,7 +64,6 @@ all clearly visible.</p></li>
 <p><strong>We recommend reading our detailed analysis titled "</strong><a href="https://www.tedarikzinciriportali.com/post/konteyner-tirlarinin-kopruye-carpmalarinin-kok-sebebi"><u><strong>Root Cause Analysis of Container Truck Collisions with Bridges</strong></u></a><strong>"</strong> related to this topic.</p>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://video.haber7.com/video-galeri/289545-bakirkoyde-ust-gecide-carpan-tirin-iett-otobusunu-ezme-ani-kamerada"><u>https://video.haber7.com/video-galeri/289545-bakirkoyde-ust-gecide-carpan-tirin-iett-otobusunu-ezme-ani-kamerada</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/">SedatOnat.com</a></p>
 <p>--------------------</p>

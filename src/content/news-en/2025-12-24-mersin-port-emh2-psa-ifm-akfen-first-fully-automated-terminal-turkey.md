@@ -22,9 +22,6 @@ tags: ["Mersin Port", "MIP", "PSA International", "IFM Investors", "Akfen Holdin
 3. The new site was deployed in the expansion area known as East Med Hub 2 (EMH2).<br>
 4. 4 STS cranes and 14 fully automated aRMG cranes commenced operations at EMH2.<br>
 5. The investment will strengthen Mersin's position as a transit hub in the Eastern Mediterranean.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/news/mersin-port-to-launch-turkiyes-first-fully-automated-container-terminal/"><u>https://www.porttechnology.org/news/mersin-port-to-launch-turkiyes-first-fully-automated-container-terminal/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

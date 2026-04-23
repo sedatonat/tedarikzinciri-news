@@ -78,7 +78,6 @@ The digital nature of the new system will provide advantages such as <strong>red
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/beltandroad/2025/10/23/georgia-unveils-big-plans-for-btk-upgrade/"><u>https://www.railfreight.com/beltandroad/2025/10/23/georgia-unveils-big-plans-for-btk-upgrade/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>

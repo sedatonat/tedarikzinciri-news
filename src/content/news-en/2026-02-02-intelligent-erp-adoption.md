@@ -28,9 +28,6 @@ tags: ['ERP', 'intelligent ERP', 'yapay zeka', 'veri hazırlığı', 'stablecoin
 3. <strong>Stablecoins</strong> provide price stability in cross-border settlement.<br>
 4. Data preparation is a prerequisite for <strong>AI</strong> success.<br>
 5. The greatest barrier lies in organizational inertia and training gaps.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43169-are-organizations-smart-enough-to-adopt-intelligent-erp-systems"><u>https://www.supplychainbrain.com/articles/43169-are-organizations-smart-enough-to-adopt-intelligent-erp-systems</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Procure ERP" Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

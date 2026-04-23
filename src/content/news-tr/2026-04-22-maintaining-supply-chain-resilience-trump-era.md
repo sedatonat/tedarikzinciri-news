@@ -36,9 +36,6 @@ tags:
 3. Diversifikasyon/görünürlük/acil durum planlama; temel stratejiler oluyor.<br>
 4. Üst yönetim liderliği; aksaklık karşısında yoğunluk gösteriyor gerekiyor.<br>
 5. Kilit alanlar; <strong>procurement</strong>/<strong>logistics</strong>/<strong>planning</strong>/<strong>manufacturing</strong>/<strong>distribution</strong> oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43123-maintaining-supply-chain-resilience-and-sustainability-in-the-trump-era"><u>https://www.supplychainbrain.com/articles/43123-maintaining-supply-chain-resilience-and-sustainability-in-the-trump-era</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

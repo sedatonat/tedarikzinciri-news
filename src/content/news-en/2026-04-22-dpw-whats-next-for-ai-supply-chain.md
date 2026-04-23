@@ -27,9 +27,6 @@ tags: ['yapay zeka', 'DPW', 'Estee Lauder', 'Jay Koganti', 'spatial computing', 
 3. Supply chain represents 20-30% of global <strong>GDP</strong>, employs 450 million people, and contributes 1.45 trillion dollars to the U.S. economy.<br>
 4. <strong>AI</strong> is evolving from algorithms to semantics, spatial computing, and <strong>XR</strong>.<br>
 5. The "foresight function" is becoming a core capability in planning tools — together with human oversight.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41980-dpw-whats-next-for-ai-in-supply-chain"><u>https://www.supplychainbrain.com/articles/41980-dpw-whats-next-for-ai-in-supply-chain</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy an ERP? Our Book is Now Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge via this link.</p>

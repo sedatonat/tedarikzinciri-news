@@ -34,9 +34,6 @@ tags:
 3. Parçalanmış; birlikte çalışamamakta dijital kayıtlar; tedarik zinciri uyumluluğunu zorlaştırıyor.<br>
 4. <strong>Verifiable credential</strong>; <strong>self-sovereign identity</strong>; tedarik zinciri kanıtı için temel standart oluyor.<br>
 5. <strong>FTZ</strong>; <strong>bonded warehouse</strong>; <strong>tariff engineering</strong>; ana üretici yanıt araçları oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42130-the-hidden-compliance-burden-of-rapid-tariff-policy"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42130-the-hidden-compliance-burden-of-rapid-tariff-policy</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

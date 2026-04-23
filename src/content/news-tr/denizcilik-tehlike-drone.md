@@ -58,7 +58,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://container-news.com/threat-for-container-shipping-how-drones-are-redefining-maritime-security/"><u>https://container-news.com/threat-for-container-shipping-how-drones-are-redefining-maritime-security/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

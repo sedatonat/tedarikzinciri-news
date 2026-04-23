@@ -34,4 +34,3 @@ tags:
   <li><p>Tüketici harcamaları ve Covid sonrası tedarik zinciri sorunlarında iyileşme sinyalleri var.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10329-after-sluggish-2024-global-manufacturing-could-see-strong-2025-2028"><u>https://www.thescxchange.com/articles/10329-after-sluggish-2024-global-manufacturing-could-see-strong-2025-2028</u></a></p>

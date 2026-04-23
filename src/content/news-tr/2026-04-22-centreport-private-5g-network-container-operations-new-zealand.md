@@ -30,9 +30,6 @@ tags:
 3. CEO Anthony Delaney, telsiz tıkanıklığının azaldığını ve güvenlik iletişimlerinin iyileştiğini bildirdi.<br>
 4. Erken testlerde bağlantı kopması yaşanmadı; operasyonel verimde belirgin iyileşme tespit edildi.<br>
 5. Bir sonraki adımda 5G destekli CCTV ve daha fazla liman varlığına genişletme planlanıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/centreport-deploys-private-5g-for-container-operations/"><u>https://www.porttechnology.org/centreport-deploys-private-5g-for-container-operations/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

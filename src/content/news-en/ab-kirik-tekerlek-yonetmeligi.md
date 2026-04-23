@@ -82,7 +82,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/policy/2025/11/12/eus-new-broken-wheel-regulations-to-be-ready-by-years-end/"><u>https://www.railfreight.com/policy/2025/11/12/eus-new-broken-wheel-regulations-to-be-ready-by-years-end/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

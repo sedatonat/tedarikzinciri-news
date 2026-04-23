@@ -44,7 +44,6 @@ tags:
 <p style="text-align: justify">The new LCP index will compete with the <strong>Container Port Performance Index (CPPI)</strong>, currently published by the World Bank and S&amp;P Global. Shanghai ranked first in the CPPI's latest report, while Singapore failed to crack the top 10. The new LCP methodology places greater emphasis on ports' <strong>broader impact and transformational capacity</strong>.</p>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://splash247.com/new-container-port-index-launches/"><u>https://splash247.com/new-container-port-index-launches/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

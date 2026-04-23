@@ -23,9 +23,6 @@ tags: ["Hasbro", "cyberattack", "8-K", "Play-Doh", "Transformers", "business con
 3. An 8-K filing was submitted to the SEC.<br>
 4. Select systems were proactively taken offline.<br>
 5. A third-party forensics investigation is underway.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychaindive.com/news/cyberattack-hasbro-impacting-orders-shipping/816485/"><u>https://www.supplychaindive.com/news/cyberattack-hasbro-impacting-orders-shipping/816485/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

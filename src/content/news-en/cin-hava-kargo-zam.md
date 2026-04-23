@@ -56,7 +56,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">If new tariffs take effect, there is a risk of <strong>further increases in air transport costs and consumer prices</strong>.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/china-air-freight-demand-rates-surge-on-new-100-us-tariff-6099961"><u>https://www.joc.com/article/china-air-freight-demand-rates-surge-on-new-100-us-tariff-6099961</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book on How to Implement ERP has been published on Google Play Books.</strong></p>

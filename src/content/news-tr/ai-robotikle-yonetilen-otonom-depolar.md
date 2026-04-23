@@ -37,4 +37,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10363-microsoft-and-arvato-to-design-self-managing-warehouse-of-the-future"><u>https://www.thescxchange.com/articles/10363-microsoft-and-arvato-to-design-self-managing-warehouse-of-the-future</u></a></p>

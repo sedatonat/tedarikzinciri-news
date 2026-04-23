@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">AI-enabled classification solutions read product descriptions, material compositions and intended end use, then automatically apply <strong>WCO</strong> rules to arrive at the correct HS code. This delivers not only speed but consistency. From a supply chain perspective, investments in AI modules from platforms such as <strong>SAP GTS</strong>, <strong>Oracle GTM</strong>, <strong>E2open</strong> and <strong>Descartes</strong> directly contribute to fewer pre-emptive <strong>binding ruling</strong> requests in customs review and minimize <strong>post-clearance audit</strong> risk over the long term.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/43059-why-customs-classification-is-broken-and-how-ai-can-fix-it"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/43059-why-customs-classification-is-broken-and-how-ai-can-fix-it</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

@@ -32,9 +32,6 @@ tags:
 3. Mimari yüksek dayanıklılık, yüksek aktarım hızı ve düşük gecikme sunuyor.<br>
 4. Sistem rota, hız ve yakıt tüketimini gerçek zamanlı optimize ederek dekarbonizasyon hedeflerini destekliyor.<br>
 5. Edge cloud platform, kestirimci bakım, dijital ikiz ve AI rota optimizasyonu için omurga oluşturuyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/cma-cgm-marlink-eutelsat-launch-fleet-wide-leo-network/"><u>https://www.porttechnology.org/cma-cgm-marlink-eutelsat-launch-fleet-wide-leo-network/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

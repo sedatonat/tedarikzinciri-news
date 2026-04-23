@@ -66,7 +66,6 @@ are included.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/infrastructure/2025/11/10/bulgaria-and-north-macedonia-sign-official-agreement-for-first-railway-border-crossing/"><u>https://www.railfreight.com/infrastructure/2025/11/10/bulgaria-and-north-macedonia-sign-official-agreement-for-first-railway-border-crossing/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

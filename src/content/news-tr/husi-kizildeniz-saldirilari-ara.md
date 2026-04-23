@@ -78,7 +78,6 @@ bağlı olacak.</p></li>
 </ul>
 <p style="text-align: justify"><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/houthi-pause-on-shipping-attacks-lowers-tensions-but-risk-remains-6114790"><u>https://www.joc.com/article/houthi-pause-on-shipping-attacks-lowers-tensions-but-risk-remains-6114790</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

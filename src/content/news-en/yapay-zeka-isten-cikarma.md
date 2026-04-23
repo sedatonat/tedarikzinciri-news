@@ -75,7 +75,6 @@ The objective: worker retraining, investment in social safety nets, responsible 
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/bipartisan-bill-ai-related-layoffs-hawley-warner/805621/"><u>https://www.supplychaindive.com/news/bipartisan-bill-ai-related-layoffs-hawley-warner/805621/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

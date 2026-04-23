@@ -39,7 +39,6 @@ tags:
   <li><p>Yıllık bazda, MSC ve Wan Hai en büyük düşüşleri kaydetti.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/maersk-remains-the-most-reliable-carrier-in-september/"><u>https://www.porttechnology.org/news/maersk-remains-the-most-reliable-carrier-in-september/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

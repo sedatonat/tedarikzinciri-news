@@ -35,9 +35,6 @@ tags:
 3. <strong>Tribal knowledge</strong> yakalama; ana modernleştirme hedefi oluyor.<br>
 4. <strong>Sysco</strong>; <strong>PFG</strong>; <strong>GFS</strong>; ana ABD foodservice rakipleri oluyor.<br>
 5. <strong>HACCP</strong>; <strong>FSMA</strong>; <strong>HOS</strong>; ana operasyonel uyum çerçeveleri oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41470-modernizing-the-mile-us-foods-builds-a-smarter-future-for-daily-planning"><u>https://www.supplychainbrain.com/articles/41470-modernizing-the-mile-us-foods-builds-a-smarter-future-for-daily-planning</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

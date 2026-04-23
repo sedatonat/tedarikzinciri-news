@@ -36,9 +36,6 @@ tags:
 3. <strong>Barcelona</strong>&rsquo;da feribotlar otomobillerden 1,8 kat daha fazla <strong>SOx</strong> üretiyor.<br>
 4. 2027&rsquo;de <strong>North-East Atlantic ECA</strong> yürürlüğe giriyor olmayı planlıyor.<br>
 5. <strong>T&amp;E</strong>; yaklaşık 2.000 yaşlanmakta olan feribot filosunun başlıca sorumlu oluyor olduğunu vurguluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43584-report-ferry-pollution-worse-than-cars-in-many-european-port-cities"><u>https://www.supplychainbrain.com/articles/43584-report-ferry-pollution-worse-than-cars-in-many-european-port-cities</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -78,7 +78,6 @@ Rising <strong>port congestion, strike risks, and dependence on energy shipping<
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/port-of-antwerp-bruges-hit-by-post-strike-vessel-backlog/"><u>https://www.porttechnology.org/news/port-of-antwerp-bruges-hit-by-post-strike-vessel-backlog/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

@@ -80,7 +80,6 @@ Sonuç olarak, <strong>etiketleme artık rutin bir görev değil, tedarik zincir
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/four-package-labeling-trends-supply-chain-leaders-should-watch"><u>https://www.supplychain247.com/article/four-package-labeling-trends-supply-chain-leaders-should-watch</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

@@ -34,4 +34,3 @@ tags:
   <li><p>Üretim, Renault Grubu'nun Sandouville tesisinde gerçekleşecek ve önümüzdeki dört yıl içinde 550 kişi istihdam edilecek.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/cma-cgm-renault-volvo-commences-operations-for-electric-van-venture/"><u>https://www.porttechnology.org/news/cma-cgm-renault-volvo-commences-operations-for-electric-van-venture/</u></a></p>

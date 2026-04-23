@@ -69,7 +69,6 @@ belirtiliyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/uk-says-military-options-ready-as-russian-ship-uses-lasers-against-raf-pilots/"><u>https://gcaptain.com/uk-says-military-options-ready-as-russian-ship-uses-lasers-against-raf-pilots/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

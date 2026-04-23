@@ -35,10 +35,6 @@ tags:
 - AI tabanlı analizler değer üretmeyen süreçleri ayıklamakta.<br>
 - LCA ve social impact accounting karar kalitesini yükseltiyor.<br>
 - Uzun vadeli dayanıklılık, kısa vadeli kârdan daha belirleyici hâle geliyor.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42406-delivering-total-value-in-a-values-driven-economy"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42406-delivering-total-value-in-a-values-driven-economy</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

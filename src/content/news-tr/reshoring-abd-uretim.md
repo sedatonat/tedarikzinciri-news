@@ -90,7 +90,6 @@ Bir otomobil fabrikasını örnek alırsak:</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42856-podcast-what-will-it-really-take-to-reshore-manufacturing-back-to-the-us"><u>https://www.supplychainbrain.com/articles/42856-podcast-what-will-it-really-take-to-reshore-manufacturing-back-to-the-us</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

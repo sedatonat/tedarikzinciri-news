@@ -36,9 +36,6 @@ tags:
 3. Son bir yılda kapasitör fiyatları ortalama %31 düşüyor; trend tersine dönüyor.<br>
 4. Etkileniyor olan diğer sektörler; havacılık-savunma; tıbbi; endüstriyel edge AI oluyor.<br>
 5. Kapasitör üreticileri; <strong>China</strong>&rsquo;dan çeşitlenmekte; ancak yoğunlaşma sürüyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43881-watch-how-a-spike-in-capacitor-prices-will-impact-electronics-supply-chains"><u>https://www.supplychainbrain.com/articles/43881-watch-how-a-spike-in-capacitor-prices-will-impact-electronics-supply-chains</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

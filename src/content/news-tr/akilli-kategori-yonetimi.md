@@ -48,7 +48,6 @@ AI ve otomasyon araçlarının değere dönüşmesi için sadece teknoloji yeter
   <li><p>Teknoloji–insan dengesi başarıyı belirliyor.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41318-five-key-challenges-of-intelligent-category-management-and-direct-materials" rel="noopener" target="_new">https://www.supplychainbrain.com/articles/41318-five-key-challenges-of-intelligent-category-management-and-direct-materials</a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

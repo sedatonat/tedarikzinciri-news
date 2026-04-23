@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında <strong>SpaceX</strong>, <strong>Blue Origin</strong>, <strong>Rocket Lab</strong> ve <strong>Lockheed Martin</strong> gibi oyuncular için temel zorluk; özel kompozit malzemeler, hassas işlenmekte olan parçalar ve geleneksel <em>aerospace-grade</em> alaşımların ikincil ya da üçüncül tedarikçi katmanlarındaki dar boğazlar oluyor. Ulusal güvenlik bağlamında pLEO konstellasyonlarının teslim hızı; Pentagon'un <em>Golden Dome</em> savunma mimarisi gibi programlar için belirleyici bir parametre haline geliyor. Tedarik tabanına yapılıyor olacak çok yıllı sermaye yatırımı; sektörün önümüzdeki on yılı belirliyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43684-report-space-launch-boom-risks-outpacing-supply-chain-capacity"><u>https://www.supplychainbrain.com/articles/43684-report-space-launch-boom-risks-outpacing-supply-chain-capacity</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

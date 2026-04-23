@@ -33,10 +33,6 @@ tags:
 - AI tabanlı eşleştirme “tek doğruluk kaynağı” oluşturuyordır.<br>
 - RFID ve IoT stok görünürlüğünü sağlıyordır.<br>
 - Veri disiplini olmadan teknolojik çözümler kalıcı değildir.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42320-shadow-inventory-when-supply-chain-data-lives-in-silos"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42320-shadow-inventory-when-supply-chain-data-lives-in-silos</u></a><br>
-<strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

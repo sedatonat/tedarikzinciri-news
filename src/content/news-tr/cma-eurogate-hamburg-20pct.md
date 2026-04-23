@@ -72,7 +72,6 @@ gibi alanlarda agresif genişlemelere yöneldi.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/business/2025/11/17/cma-cgm-to-acquire-stake-in-eurogate-terminal-in-hamburg/"><u>https://www.railfreight.com/business/2025/11/17/cma-cgm-to-acquire-stake-in-eurogate-terminal-in-hamburg/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

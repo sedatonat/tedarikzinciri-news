@@ -45,7 +45,6 @@ tags:
 </ul>
 <p style="text-align: justify"><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://container-news.com/houthis-permit-tanker-passage-through-red-sea-but-uncertainty-remains/"><u>https://container-news.com/houthis-permit-tanker-passage-through-red-sea-but-uncertainty-remains/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book on How to Implement ERP has been published on Google Play Books.</strong></p>

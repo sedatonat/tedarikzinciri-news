@@ -87,7 +87,6 @@ Uzmanlara göre, <strong>sorun birleşmede değil, darboğazları çözecek alty
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/up-ns-merger-cut-carload-transit-times-shippers-not-convinced/802684/"><u>https://www.supplychaindive.com/news/up-ns-merger-cut-carload-transit-times-shippers-not-convinced/802684/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

@@ -60,7 +60,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/reuters-investigation-reveals-chinas-civilian-shadow-navy-practices-for-invasion-of-taiwan/"><u>https://gcaptain.com/reuters-investigation-reveals-chinas-civilian-shadow-navy-practices-for-invasion-of-taiwan/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

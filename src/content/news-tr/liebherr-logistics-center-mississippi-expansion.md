@@ -41,4 +41,3 @@ tags:
   <li><p>Liebherr’in ABD’deki varlığını güçlendirecek ve küresel tedarik zinciri stratejisinde kritik bir rol oynayacak.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://chatgpt.com/c/5cdd72d3-95d0-4e97-87d1-7f430533d080"><u>https://chatgpt.com/c/5cdd72d3-95d0-4e97-87d1-7f430533d080</u></a></p>

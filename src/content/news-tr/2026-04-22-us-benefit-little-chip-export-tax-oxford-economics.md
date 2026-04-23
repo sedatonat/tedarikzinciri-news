@@ -35,9 +35,6 @@ tags:
 3. Beklenen yıllık gelir; en fazla 1.5 milyar dolar oluyor.<br>
 4. <strong>U.S.</strong> bütçe açığı; 2 trilyon doları aşıyor.<br>
 5. <strong>Treasury Secretary Bessent</strong>; ihracat vergilerinin diğer endüstrilere genişletilmesi fikrini gündeme getiriyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42410-us-will-benefit-little-from-chip-export-tax-economic-advisory-firm-says"><u>https://www.supplychainbrain.com/articles/42410-us-will-benefit-little-from-chip-export-tax-economic-advisory-firm-says</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

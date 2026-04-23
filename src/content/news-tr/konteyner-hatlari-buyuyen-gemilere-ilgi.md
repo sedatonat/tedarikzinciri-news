@@ -33,4 +33,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/39205-why-container-lines-dont-fear-the-massive-supply-of-new-ships-on-order"><u>https://www.supplychainbrain.com/articles/39205-why-container-lines-dont-fear-the-massive-supply-of-new-ships-on-order</u></a></p>

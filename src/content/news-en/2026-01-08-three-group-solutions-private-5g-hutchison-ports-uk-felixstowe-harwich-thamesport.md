@@ -22,9 +22,6 @@ tags: ["Three Group Solutions", "Hutchison Ports", "Felixstowe", "Harwich Intern
 3. The private 5G network will support autonomous ground vehicles (AGVs) and remote-controlled cranes.<br>
 4. The new network will eliminate coverage and latency issues of the existing Wi-Fi infrastructure.<br>
 5. The investment is described as a significant milestone in the UK's port digitalisation strategy.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/news/three-group-solutions-deploys-private-5g-at-hutchison-ports-uk/"><u>https://www.porttechnology.org/news/three-group-solutions-deploys-private-5g-at-hutchison-ports-uk/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

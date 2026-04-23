@@ -47,4 +47,3 @@ tags:
   <li><p>"Rightshoring" ve AI teknolojilerinin benimsenmesi, zorlukların üstesinden gelmede kritik öneme sahip.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.allthingssupplychain.com/supply-chain-predictions-for-2024/"><u>https://www.allthingssupplychain.com/supply-chain-predictions-for-2024/</u></a></p>

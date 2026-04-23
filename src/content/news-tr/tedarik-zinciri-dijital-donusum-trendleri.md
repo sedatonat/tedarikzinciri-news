@@ -42,4 +42,3 @@ tags:
   <li><p>Siber fidye saldırıları, işletmeler üzerinde ciddi mali zararlara neden oluyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10247-gartner-spotlights-eight-supply-chain-technology-trends"><u>https://www.thescxchange.com/articles/10247-gartner-spotlights-eight-supply-chain-technology-trends</u></a></p>

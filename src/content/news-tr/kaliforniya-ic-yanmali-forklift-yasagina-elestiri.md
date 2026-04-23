@@ -38,4 +38,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10339-propane-group-criticizes-california-plan-to-ban-internal-combustion-forklifts"><u>https://www.thescxchange.com/articles/10339-propane-group-criticizes-california-plan-to-ban-internal-combustion-forklifts</u></a></p>

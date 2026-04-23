@@ -31,9 +31,6 @@ tags:
 3. Gemide yaklaşık 1.000 reefer prizi bulunuyor; Malta bayrağı altında sefer yapacak.<br>
 4. Bu, grubun 11'inci metanol kapasiteli konteyner gemisi; toplamda 24 sipariş edildi.<br>
 5. CMA CGM, 2031'e kadar yaklaşık 200 çift yakıtlı LNG ve metanol gemisi işletmeyi planlıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/cma-cgm-adds-400th-vessel-with-methanol-boxship/"><u>https://www.porttechnology.org/cma-cgm-adds-400th-vessel-with-methanol-boxship/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

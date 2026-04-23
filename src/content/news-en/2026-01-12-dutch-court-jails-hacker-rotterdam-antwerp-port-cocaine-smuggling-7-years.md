@@ -23,9 +23,6 @@ tags: ["Hollanda", "Rotterdam Limanı", "Anvers Limanı", "siber suç", "kokain 
 3. The operation resulted in the import of approximately 210 kg of cocaine through Rotterdam.<br>
 4. The drugs were concealed in a container of wine bottles aboard the Callao Express, intercepted in September 2020.<br>
 5. The incident highlights the need for multi-layered access control in port OT/IT cybersecurity.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/dutch-court-jails-hacker-over-port-cocaine-smuggling/"><u>https://www.porttechnology.org/dutch-court-jails-hacker-over-port-cocaine-smuggling/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

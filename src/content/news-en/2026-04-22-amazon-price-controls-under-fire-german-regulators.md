@@ -27,9 +27,6 @@ tags: ['Amazon', 'Almanya', 'Bundeskartellamt', 'rekabet hukuku', 'Andreas Mundt
 3. <strong>Amazon</strong> strongly disputes the findings—saying changes would harm customers and partners.<br>
 4. 2022 <strong>EU</strong> settlement and 2023 <strong>FTC</strong> lawsuit are historical regulatory precedents.<br>
 5. <strong>EU DMA</strong> designates <strong>Amazon</strong> as a <strong>gatekeeper</strong>.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41880-amazon-price-controls-under-fire-from-german-regulators"><u>https://www.supplychainbrain.com/articles/41880-amazon-price-controls-under-fire-from-german-regulators</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy an ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge via this link.</p>

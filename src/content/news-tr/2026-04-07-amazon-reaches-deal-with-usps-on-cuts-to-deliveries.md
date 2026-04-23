@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu yüzde 20'lik hacim azalması; Amazon'un kendi <strong>Amazon Logistics</strong> (AMZL) ağına ve <strong>UPS</strong>, <strong>FedEx Ground</strong> ile bölgesel kuryelere kaydırılmakta olunuyor. <strong>USPS</strong>'nin <strong>last-mile parcel</strong> piyasa payı; özellikle yoğun olmuyor olan kırsal kodlarda, <strong>OneRail</strong>, <strong>Bringg</strong> ve <strong>Roadie</strong> gibi gig-tabanlı ağların önünü açıyor. Tedarik zinciri perspektifinden bakıldığında <strong>USPS</strong>'nin gelir tabanını çeşitlendirme zorunluluğu; uzun vadede <strong>SOA (Service-Oriented Agreements)</strong> tabanlı kurumsal anlaşmalara doğru kaymakta.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43801-amazon-reaches-deal-with-usps-on-cuts-to-deliveries"><u>https://www.supplychainbrain.com/articles/43801-amazon-reaches-deal-with-usps-on-cuts-to-deliveries</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

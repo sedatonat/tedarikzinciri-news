@@ -35,9 +35,6 @@ tags:
 3. <strong>SAP Ariba</strong>; <strong>Coupa</strong>; <strong>GEP</strong>; ana <strong>AI</strong> destekli satın alma platformları oluyor.<br>
 4. <strong>WEF Future of Jobs Report</strong>; analitik düşünme; ana 2025 talep beceri oluyor.<br>
 5. <strong>ISM</strong> <strong>CPSM</strong>; <strong>CIPS</strong>; <strong>ASCM</strong>; ana satın alma sertifika kuruluşları oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41290-the-power-of-soft-skills-in-the-age-of-ai"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41290-the-power-of-soft-skills-in-the-age-of-ai</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

@@ -31,9 +31,6 @@ tags:
 3. 16 mürettebat üyesinin tamamı güvenli şekilde kurtarıldı.<br>
 4. Royal Thai Navy önderliğinde çoklu ajans müdahalesi yürütülüyor.<br>
 5. Petrol sızıntısı çevre kuruluşlarının izlemesinde, dibe yatmış konteynerlerin çıkarılması süreci başladı.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/cargo-ship-sinks-thailand-oil-leak/"><u>https://www.porttechnology.org/cargo-ship-sinks-thailand-oil-leak/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

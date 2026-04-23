@@ -50,7 +50,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/international-customer-contracts-vard-for-five-walk-to-work-vessels/"><u>https://gcaptain.com/international-customer-contracts-vard-for-five-walk-to-work-vessels/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

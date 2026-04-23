@@ -35,7 +35,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Bu entegrasyon, perakendecilerin teslimat süreçlerini kolaylaştırarak müşteri deneyimini geliştiriyor.</p></li>
 </ul>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/walmart-golocal-ibm-sterling-order-management/738103/"><u>https://www.supplychaindive.com/news/walmart-golocal-ibm-sterling-order-management/738103/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

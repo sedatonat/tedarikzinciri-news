@@ -38,4 +38,3 @@ tags:
   <li><p>"Windshipped," Amazon Prime üzerinden kiralanabilir.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/38805-windshipped-offers-a-vision-of-alternative-to-commercial-trucking-in-hudson-valley"><u>https://www.supplychainbrain.com/articles/38805-windshipped-offers-a-vision-of-alternative-to-commercial-trucking-in-hudson-valley</u></a></p>

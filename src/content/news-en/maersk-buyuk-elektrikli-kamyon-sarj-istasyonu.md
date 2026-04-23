@@ -35,4 +35,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10309-prologis-and-maersk-open-96-truck-ev-charging-depot-near-port-of-la"><u>https://www.thescxchange.com/articles/10309-prologis-and-maersk-open-96-truck-ev-charging-depot-near-port-of-la</u></a></p>

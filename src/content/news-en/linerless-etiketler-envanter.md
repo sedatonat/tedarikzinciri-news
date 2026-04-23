@@ -90,7 +90,6 @@ Rene Schrama,</strong> CTO of <strong>Peak Technologies,</strong> explains this 
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42553-linerless-labels-a-triple-win-of-benefits-in-warehousing-and-manufacturing"><u>https://www.supplychainbrain.com/articles/42553-linerless-labels-a-triple-win-of-benefits-in-warehousing-and-manufacturing</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

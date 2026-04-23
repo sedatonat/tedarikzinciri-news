@@ -29,9 +29,6 @@ tags:
 <p style="text-align: justify">11 Mart'ta yönetim; <strong>Stratejik Petrol Rezervi</strong>'nden 172 milyon varil ham petrol serbest bırakacağını duyuruyor. Genel olarak ülkeler; stoklarından 400 milyon varil serbest bırakmak için koordineli hareket ediyor. ABD benzin vadeli işlemleri; haberin ardından kazançlarını törpülemekte. Jones Act muafiyeti; 2022 JP Morgan Chase &amp; Co. tahminine göre Doğu Kıyısı sürücülerine galon başına yaklaşık 10 sent tasarruf sağlayabiliyor.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu muafiyet; ABD iç denizcilik sektörünün rekabet dinamiklerini önemli ölçüde değiştiriyor. <strong>Crowley</strong>, <strong>Kirby Corporation</strong> ve <strong>Overseas Shipholding Group</strong> gibi Jones Act bayraklı operatörler için kısa vadeli pazar payı kaybı söz konusu oluyor &mdash; ancak rafineri operatörleri ve doğu kıyısı tüketicileri için maliyet rahatlaması sağlıyor. Tedarik zinciri perspektifinden bakıldığında; bu tür ad hoc muafiyetler; yapısal Jones Act reformu tartışmalarını da yeniden alevlendirmekte &mdash; özellikle LNG kapasitesi ve gübre lojistiği açısından.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43647-us-weighs-plan-to-waive-jones-act-in-bid-to-tame-spiraling-fuel-prices"><u>https://www.supplychainbrain.com/articles/43647-us-weighs-plan-to-waive-jones-act-in-bid-to-tame-spiraling-fuel-prices</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

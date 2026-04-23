@@ -35,4 +35,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://seanews.ru/en/2024/02/28/en-better-block-train-handling-efficiency-at-commercial-port-of-vladivostok/"><u>https://seanews.ru/en/2024/02/28/en-better-block-train-handling-efficiency-at-commercial-port-of-vladivostok/</u></a></p>

@@ -64,7 +64,6 @@ stratejik öneme sahip.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Gelişme, hem Rusya hem İran için stratejik lojistik avantaj sağlıyor.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/beltandroad/2025/11/12/first-russian-regular-train-reaches-iranian-aprin-dry-port/"><u>https://www.railfreight.com/beltandroad/2025/11/12/first-russian-regular-train-reaches-iranian-aprin-dry-port/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

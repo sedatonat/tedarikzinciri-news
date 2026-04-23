@@ -31,9 +31,6 @@ tags:
 3. Terminal portföyü otomatik D Terminali ile C1, C2 ve A3'ü içeriyor.<br>
 4. Yatırım, ONE'ın Güneydoğu Asya'daki konumunu güçlendirecek.<br>
 5. Hamle, okyanus taşıyıcılarının kara altyapısında dikey entegrasyon eğilimini yansıtıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/one-acquires-30-per-cent-stake-in-laem-chabang-terminal/"><u>https://www.porttechnology.org/one-acquires-30-per-cent-stake-in-laem-chabang-terminal/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

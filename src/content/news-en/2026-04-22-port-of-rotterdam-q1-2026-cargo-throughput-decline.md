@@ -25,9 +25,6 @@ tags: ["Port of Rotterdam", "Q1 2026", "container throughput", "TEU", "cargo vol
 3. Inland container flows grew 11 per cent on stronger Asia and North America services.<br>
 4. Liquid bulk rose 2.2 per cent overall, with mineral oil products up 10.3 per cent and LNG up 1.7 per cent.<br>
 5. Strait of Hormuz closure threatens 10-14 per cent of Rotterdam's oil throughput, with full impact expected in coming quarters.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/port-of-rotterdam-reports-slight-fall-in-cargo-volumes/"><u>https://www.porttechnology.org/port-of-rotterdam-reports-slight-fall-in-cargo-volumes/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

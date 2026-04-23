@@ -35,9 +35,6 @@ tags:
 3. Temel soru; <strong>IEEPA</strong>&rsquo;nın tarife yetkisi tanıyor olunup olunmadığı oluyor.<br>
 4. <strong>Court of International Trade</strong>; önceden tarifeleri yetki dışı olarak nitelendiriyor.<br>
 5. <strong>Major questions doctrine</strong>; muhafazakar çoğunluğun karar dinamiğinin merkezi oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42800-key-takeaways-from-the-us-supreme-court-hearing-on-trump-tariffs"><u>https://www.supplychainbrain.com/articles/42800-key-takeaways-from-the-us-supreme-court-hearing-on-trump-tariffs</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

@@ -32,4 +32,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.allthingssupplychain.com/the-impact-of-electric-trucks-in-the-european-supply-chain/"><u>https://www.allthingssupplychain.com/the-impact-of-electric-trucks-in-the-european-supply-chain/</u></a></p>

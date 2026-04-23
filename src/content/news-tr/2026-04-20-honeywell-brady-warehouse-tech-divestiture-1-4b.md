@@ -29,9 +29,6 @@ tags:
 3. Barkod tarayıcı, mobil bilgisayar ve etiket yazıcıları portföye dahil.<br>
 4. Brady, depo ve lojistikte entegre teklif oluşturmayı hedefliyor.<br>
 5. Intelligrated ve Transnorm dahil WWS birimi için de seçenekler değerlendiriliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychain247.com/article/honeywell-sells-warehouse-tech-business-to-brady"><u>https://www.supplychain247.com/article/honeywell-sells-warehouse-tech-business-to-brady</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

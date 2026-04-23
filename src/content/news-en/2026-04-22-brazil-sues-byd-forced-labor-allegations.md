@@ -27,9 +27,6 @@ tags: ['BYD', 'Brezilya', 'zorla çalıştırma', 'insan kaçakçılığı', 'EV
 3. Workers faced conditions including 70% wage deductions, passport confiscation, and deposit forfeitures.<br>
 4. <strong>BYD</strong> acquired the former <strong>Ford</strong> facility in <strong>Camaçari, Bahia</strong> for a $600 million USD investment.<br>
 5. The <strong>Lula</strong> administration is promoting automotive investments through the <strong>Mover</strong> program.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41860-brazil-sues-byd-over-forced-labor-allegations"><u>https://www.supplychainbrain.com/articles/41860-brazil-sues-byd-over-forced-labor-allegations</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free through this link.</p>

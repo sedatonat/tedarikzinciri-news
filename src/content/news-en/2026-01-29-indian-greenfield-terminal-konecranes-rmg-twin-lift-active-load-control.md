@@ -23,9 +23,6 @@ tags: ["Konecranes", "RMG", "RTG", "Hindistan", "demiryolu vinci", "ikiz spreade
 3. The cranes will be equipped with twin-lift spreaders and rotating trolleys.<br>
 4. Active Load Control technology eliminates container sway and improves placement accuracy.<br>
 5. The investment aligns with port-rail integration objectives under the Sagarmala and PM Gati Shakti programmes.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/indian-terminal-orders-two-konecranes-rmg-cranes/"><u>https://www.porttechnology.org/indian-terminal-orders-two-konecranes-rmg-cranes/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

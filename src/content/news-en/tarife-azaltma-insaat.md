@@ -51,10 +51,6 @@ tags:
 3. Commodity hedging and should-cost models are enhancing budget visibility.<br>
 4. Material substitutions are being implemented through design-to-value approaches.<br>
 5. S&amp;OP and scenario planning enable simulation of tariff impacts.</p>
-<p><br>
----<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41445-how-construction-contractors-can-mitigate-the-impact-of-tariffs"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41445-how-construction-contractors-can-mitigate-the-impact-of-tariffs</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

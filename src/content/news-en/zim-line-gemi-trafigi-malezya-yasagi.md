@@ -18,4 +18,4 @@ tags:
 - container shipping
 - port access
 ---
-<p>Global backlash against Israel's military operations in Gaza continues to grow and spread.</p>\n<p><br></p>\n<p>ZIM Line vessels will be barred from entering Malaysian ports beginning December 20 as a result of Malaysia's ban on Israeli-flagged ships.</p>\n<p><br></p>\n<p>Malaysian Prime Minister Anwar Ibrahim said the decision was made in response to Israel's actions in Gaza.</p>\n<p><br></p>\n<p><strong>News Link:</strong> <a href="https://container-news.com/zim-ships-banned-from-malaysia-as-gaza-war-drags-on/"><u>https://container-news.com/zim-ships-banned-from-malaysia-as-gaza-war-drags-on/</u></a></p>
+<p>Global backlash against Israel's military operations in Gaza continues to grow and spread.</p>\n<p><br></p>\n<p>ZIM Line vessels will be barred from entering Malaysian ports beginning December 20 as a result of Malaysia's ban on Israeli-flagged ships.</p>\n<p><br></p>\n<p>Malaysian Prime Minister Anwar Ibrahim said the decision was made in response to Israel's actions in Gaza.</p>\n<p><br></p>\n

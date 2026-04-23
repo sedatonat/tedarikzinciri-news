@@ -66,7 +66,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/spons/deliverdirect-redefines-small-package-delivery-as-traditional-carriers-shri/803301/"><u>https://www.supplychaindive.com/spons/deliverdirect-redefines-small-package-delivery-as-traditional-carriers-shri/803301/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

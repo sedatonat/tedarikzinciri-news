@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the <strong>U.S. Department of Defense</strong> is providing strategic funding to <strong>MP Materials</strong> under the <strong>Defense Production Act</strong>. The <strong>EU Critical Raw Materials Act</strong> targets 10 percent of EU consumption from domestic mining, 40 percent from in-bloc processing capacity and 25 percent from recycling by 2030. Major consumers including <strong>Tesla</strong>, <strong>Apple</strong>, <strong>General Motors</strong>, <strong>Ford</strong>, <strong>Volkswagen</strong>, <strong>Siemens Gamesa</strong> and <strong>Vestas</strong> are securing supply through long-term <em>offtake</em> agreements. <em>Urban mining</em>, <em>e-waste recycling</em> and alternative chemistries such as <strong>ferrite magnets</strong> and <strong>iron-nitride magnets</strong> form complementary pillars of the long-term diversification strategy.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43828-the-struggle-to-diversify-rare-earth-supply-chains"><u>https://www.supplychainbrain.com/articles/43828-the-struggle-to-diversify-rare-earth-supply-chains</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

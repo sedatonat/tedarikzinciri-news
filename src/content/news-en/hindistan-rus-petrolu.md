@@ -90,7 +90,6 @@ India, in turn, may seek:</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42886-major-indian-business-ceases-russian-oil-imports"><u>https://www.supplychainbrain.com/articles/42886-major-indian-business-ceases-russian-oil-imports</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

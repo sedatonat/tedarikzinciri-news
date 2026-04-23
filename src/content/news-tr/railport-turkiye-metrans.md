@@ -55,7 +55,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/intermodal/2025/11/24/turkish-railport-terminal-launches-operations-with-metrans-train/"><u>https://www.railfreight.com/intermodal/2025/11/24/turkish-railport-terminal-launches-operations-with-metrans-train/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

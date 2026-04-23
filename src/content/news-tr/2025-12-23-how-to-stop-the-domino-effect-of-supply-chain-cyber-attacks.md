@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında savunmanın temeli; satıcı envanteri, gerçek zamanlı erişim izleme, en az ayrıcalık ilkesi (<em>least privilege</em>), düzenli kimlik bilgisi rotasyonu ve <strong>SBOM</strong> (Software Bill of Materials) zorunluluğu oluyor. Açık kaynak bağımlılıklarının imzalı paketler, otomatik tarama araçları ve sıfır güven (<em>zero trust</em>) mimarisi ile yönetilmesi; <strong>Shai-Hulud</strong> benzeri solucanların yayılmasını sınırlamada kritik rol oynuyor. Şirketlerin yapay zeka destekli saldırı senaryolarına karşı bugünden hazırlanması; gelecekteki domino etkisi olaylarını önlemek için zorunlu hale geliyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42981-how-to-stop-the-domino-effect-of-supply-chain-cyber-attacks"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42981-how-to-stop-the-domino-effect-of-supply-chain-cyber-attacks</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

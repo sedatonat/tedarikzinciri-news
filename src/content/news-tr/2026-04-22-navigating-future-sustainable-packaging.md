@@ -35,9 +35,6 @@ tags:
 3. 2025&rsquo;te 5 ABD eyaleti aktif EPR yasası &mdash; <strong>California</strong>; <strong>Colorado</strong>; <strong>Maine</strong>; <strong>Minnesota</strong>; <strong>Oregon</strong>.<br>
 4. Üreticiler bir <strong>PRO</strong>&rsquo;ya katılıyor; ücret ödüyor ve veri paylaşıyor zorunlu oluyor.<br>
 5. <strong>EU PPWR</strong>; 2030&rsquo;a kadar tüm ambalajların geri dönüştürülebilir oluyor zorunlu kılıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41780-navigating-the-future-of-sustainable-packaging"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41780-navigating-the-future-of-sustainable-packaging</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

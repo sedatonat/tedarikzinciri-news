@@ -50,7 +50,6 @@ tags:
 </ol>
 <p style="text-align: justify"><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/spons/real-time-location-and-condition-tracking-drives-resilient-supply-chains/736565/"><u>https://www.supplychaindive.com/spons/real-time-location-and-condition-tracking-drives-resilient-supply-chains/736565/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our Book has been published on Google Play Books.</strong></p>

@@ -42,7 +42,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Rusya’nın tekrar dışarıda kalması, ülkenin uluslararası denizcilik politikalarındaki etkisini zayıflatıyor.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://en.portnews.ru/news/385138/"><u>https://en.portnews.ru/news/385138/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

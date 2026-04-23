@@ -22,9 +22,6 @@ tags: ["YILPORT", "Konecranes", "reach stacker", "empty container handler", "for
 3. Five reach stackers, five empty container handlers, and nine forklifts replaced older equipment.<br>
 4. YILPORT operates 22 marine and 5 inland terminals across 12 countries.<br>
 5. The new equipment provides higher safety, lower fuel consumption, and improved ergonomics.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/yilport-upgrades-terminals-with-19-new-konecranes-trucks/"><u>https://www.porttechnology.org/yilport-upgrades-terminals-with-19-new-konecranes-trucks/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

@@ -37,4 +37,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/39677-new-report-projects-us-will-triple-semiconductor-capacity-by-2032"><u>https://www.supplychainbrain.com/articles/39677-new-report-projects-us-will-triple-semiconductor-capacity-by-2032</u></a></p>

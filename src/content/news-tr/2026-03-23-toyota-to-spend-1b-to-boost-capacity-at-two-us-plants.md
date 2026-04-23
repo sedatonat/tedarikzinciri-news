@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında <strong>Toyota</strong>&rsquo;nın stratejisi; <strong>Honda</strong>, <strong>Nissan</strong>, <strong>Subaru</strong>, <strong>Mazda</strong>, <strong>Hyundai</strong>, <strong>Kia</strong> gibi diğer Asyalı OEM&rsquo;lerin ve <strong>BMW</strong>, <strong>Mercedes-Benz</strong>, <strong>Volkswagen</strong> gibi Avrupalı oyuncuların ABD&rsquo;deki <em>onshoring</em> ve kapasite artırımı yatırımları ile uyumlu oluyordır. <strong>Section 232</strong> tarifeleri; <strong>USMCA</strong> kuralları ve <strong>Battery Belt</strong> teşvikleri çerçevesinde; <strong>Denso</strong>, <strong>Aisin</strong>, <strong>Bridgestone</strong>, <strong>Panasonic Energy</strong> gibi Japon <em>Tier-1</em> tedarikçilerinin de ABD üretim ayak izini büyütmesi bekleniyordir. Lityum demir fosfat (<strong>LFP</strong>); katı hal batarya (<em>solid state</em>); hibrit teknolojisi yatırımları &mdash; <strong>Toyota</strong>&rsquo;nın <em>multi-pathway</em> stratejisini 2030 hedeflerine doğru destekleyen ana sütunları oluşturuyordır.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43705-toyota-to-spend-1b-to-boost-capacity-at-two-us-plants"><u>https://www.supplychainbrain.com/articles/43705-toyota-to-spend-1b-to-boost-capacity-at-two-us-plants</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

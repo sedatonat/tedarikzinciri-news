@@ -49,7 +49,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/41359-us-develops-military-plans-for-panama-canal"><u>https://www.supplychainbrain.com/articles/41359-us-develops-military-plans-for-panama-canal</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

@@ -28,9 +28,6 @@ tags:
 <p style="text-align: justify">Warranty registration forms, RMA portals, supplier onboarding workflows and partner intake processes carry this critical data every day. From a supply chain perspective, these channels become highly attractive to attackers &mdash; since most manufacturers treat them as low-risk back-office plumbing and fail to subject them to comprehensive form security audits. The fact that manufacturers handle high-value IP, credentials and trade secrets makes the ROI calculation extremely appealing for adversaries.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, this picture represents a strategic risk that cannot be left solely to IT departments. Form infrastructures must be subject to regular penetration testing; third-party scripts must be inventoried; supplier onboarding processes must be redesigned under <strong>zero-trust</strong> principles; and form data must be classified so that the most sensitive fields receive additional encryption layers. Otherwise, the weakest link in the supply chain ecosystem will continue to threaten the security of the entire network.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42979-the-supply-chain-attack-hiding-in-your-supplier-portal"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42979-the-supply-chain-attack-hiding-in-your-supplier-portal</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

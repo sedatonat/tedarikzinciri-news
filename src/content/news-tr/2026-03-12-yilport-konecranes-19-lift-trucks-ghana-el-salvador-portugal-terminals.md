@@ -30,9 +30,6 @@ tags:
 3. 5 reach stacker, 5 boş konteyner elleçleyici ve 9 forklift eski ekipmanın yerini aldı.<br>
 4. YILPORT; 12 ülkede 22 deniz ve 5 iç terminali işletiyor.<br>
 5. Yeni ekipmanlar daha yüksek emniyet, düşük yakıt tüketimi ve gelişmiş ergonomi sağlıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/yilport-upgrades-terminals-with-19-new-konecranes-trucks/"><u>https://www.porttechnology.org/yilport-upgrades-terminals-with-19-new-konecranes-trucks/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -42,7 +42,6 @@ tags:
 </ul>
 <p style="text-align: justify"><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/41002-gm-inks-deal-with-vianode-for-synthetic-graphite-for-ev-batteries"><u>https://www.supplychainbrain.com/articles/41002-gm-inks-deal-with-vianode-for-synthetic-graphite-for-ev-batteries</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

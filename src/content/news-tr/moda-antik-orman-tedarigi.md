@@ -54,7 +54,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42901-fashion-brands-collaborate-to-end-sourcing-from-climate-critical-forests"><u>https://www.supplychainbrain.com/articles/42901-fashion-brands-collaborate-to-end-sourcing-from-climate-critical-forests</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

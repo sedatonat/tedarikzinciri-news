@@ -28,4 +28,3 @@ tags:
   <li><p>Erken benimseyenlerin bazıları gelir ve verimlilikte önemli iyileşmeler bildiriyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10727-one-third-of-generative-ai-projects-will-be-abandoned-by-2025-gartner-says"><u>https://www.thescxchange.com/articles/10727-one-third-of-generative-ai-projects-will-be-abandoned-by-2025-gartner-says</u></a></p>

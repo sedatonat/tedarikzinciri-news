@@ -45,7 +45,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/40819-how-strong-economy-year-of-disruptions-defined-2024s-shopping-season"><u>https://www.supplychainbrain.com/articles/40819-how-strong-economy-year-of-disruptions-defined-2024s-shopping-season</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

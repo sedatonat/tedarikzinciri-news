@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the core challenge for players such as <strong>SpaceX</strong>, <strong>Blue Origin</strong>, <strong>Rocket Lab</strong> and <strong>Lockheed Martin</strong> sits in bottlenecks at the second- and third-tier supplier layers — specialty composites, precision-machined parts and traditional <em>aerospace-grade</em> alloys. In a national security context, the delivery cadence of pLEO constellations is becoming a defining parameter for programs such as the Pentagon's <em>Golden Dome</em> defense architecture. Multi-year capital investment in the supplier base will set the trajectory of the sector for the coming decade.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43684-report-space-launch-boom-risks-outpacing-supply-chain-capacity"><u>https://www.supplychainbrain.com/articles/43684-report-space-launch-boom-risks-outpacing-supply-chain-capacity</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

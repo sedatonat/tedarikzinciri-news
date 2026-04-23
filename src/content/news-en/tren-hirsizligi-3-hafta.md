@@ -43,7 +43,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/railfreight/2025/01/10/thieves-raid-train-with-cars-idling-for-three-weeks/"><u>https://www.railfreight.com/railfreight/2025/01/10/thieves-raid-train-with-cars-idling-for-three-weeks/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

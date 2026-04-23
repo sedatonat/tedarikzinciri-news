@@ -22,9 +22,6 @@ tags: ["bunker fuel", "Strait of Hormuz", "Iran war", "US military", "fuel short
 3. Prices at the Singapore, Fujairah, and Rotterdam bunker terminals have risen in double digits.<br>
 4. Gulf oil supply cannot be replaced quickly; sub-Saharan Africa and US Gulf sources need months.<br>
 5. The sector is putting long-term bunker contracts and strategic reserve stocks on the agenda.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.joc.com/article/bunker-fuel-shortages-loom-after-us-counter-blocks-strait-of-hormuz-6204678"><u>https://www.joc.com/article/bunker-fuel-shortages-loom-after-us-counter-blocks-strait-of-hormuz-6204678</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

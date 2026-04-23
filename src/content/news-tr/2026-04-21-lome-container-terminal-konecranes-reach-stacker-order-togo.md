@@ -30,9 +30,6 @@ tags:
 3. Yeni ekipman, Paterson Simons aracılığıyla teslim edilecek.<br>
 4. Reach stacker'lar TRUCONNECT telematik sistemiyle donatılarak uzaktan izlenebilir hale getirildi.<br>
 5. LCT, ekipmanın güvenilirliği nedeniyle Konecranes'le 2014'ten bu yana sürdürdüğü iş birliğini genişletiyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/lct-expands-cargo-handling-fleet-with-konecranes-order/"><u>https://www.porttechnology.org/lct-expands-cargo-handling-fleet-with-konecranes-order/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -35,4 +35,3 @@ tags:
   <li><p>Otomasyon, depolama ve alma işlemlerini kapsayacak şekilde geniş bir yelpazeye sahip.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10113-walmart-to-operate-19-autonomous-forklifts-to-unload-pallets-from-trucks"><u>https://www.thescxchange.com/articles/10113-walmart-to-operate-19-autonomous-forklifts-to-unload-pallets-from-trucks</u></a></p>

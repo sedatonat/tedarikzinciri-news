@@ -27,9 +27,6 @@ tags: ['depo', 'yönetişim', 'AutoScheduler', 'Keith Moore', 'WMS', 'TMS', 'ork
 3. Manual planning, poor visibility, and unstructured workflows are key bottlenecks.<br>
 4. Real-time data and AI integration are core orchestration capabilities.<br>
 5. <strong>OSHA</strong>, <strong>FDA</strong>, and <strong>SOX</strong> are major U.S. regulatory frameworks.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41680-enhancing-governance-in-warehouse-operations"><u>https://www.supplychainbrain.com/articles/41680-enhancing-governance-in-warehouse-operations</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>

@@ -76,7 +76,6 @@ The new fulfilment centers align with the company's sustainability goals through
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/kuehnenagel-expands-fulfilment-footprint-in-india/"><u>https://www.porttechnology.org/news/kuehnenagel-expands-fulfilment-footprint-in-india/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Procure ERP?" Has Been Published on Google Play Books.</strong></p>

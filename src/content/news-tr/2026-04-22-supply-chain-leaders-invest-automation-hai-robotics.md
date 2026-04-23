@@ -36,9 +36,6 @@ tags:
 3. <strong>DC</strong> yerine ağ; planlama ve teslim düşüncesi şart oluyor.<br>
 4. Veri bilimi ve süreçler; otomasyon tedarikçisi ile birlikte yatırım gerektiriyor.<br>
 5. Mağaza tabanındaki veri görünürlüğü; doğru süreçlerin somut göstergesi oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43851-watch-how-supply-chain-leaders-invest-in-automation-and-how-that-will-change"><u>https://www.supplychainbrain.com/articles/43851-watch-how-supply-chain-leaders-invest-in-automation-and-how-that-will-change</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

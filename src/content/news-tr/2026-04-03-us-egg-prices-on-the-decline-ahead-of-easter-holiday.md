@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında cesaret verici eğilime rağmen tarım yetkilileri; yumurta fiyatlarının salgın öncesi seviyelerin üzerinde kaldığı &mdash; ve yaz göçmen kuş sezonuna girerken daha fazla kuş gribi aksaklığına karşı dikkatin kritik olacağı konusunda uyarıyordır. <strong>USDA</strong>, <strong>FDA</strong>, <strong>CDC</strong> ve <strong>APHIS</strong>; <em>highly pathogenic avian influenza</em> (<strong>HPAI</strong>; <strong>H5N1</strong>) izleme; aşılama; tazminat süreçlerini koordine ediyordir. <strong>Cal-Maine Foods</strong>, <strong>Rose Acre Farms</strong>, <strong>Hillandale Farms</strong> gibi büyük yumurta üreticilerinin yatırımları; <strong>Walmart</strong>, <strong>Kroger</strong>, <strong>Costco</strong>, <strong>Target</strong>, <strong>Whole Foods</strong> raflarındaki fiyat istikrarı; <em>cage-free</em> standartları; <em>animal welfare</em> sertifikasyonları; <strong>USMCA</strong> ve <strong>Mercosur</strong> ihracat akışları &mdash; 2026 yumurta tedarik zinciri stratejisinin temel parametrelerini oluşturuyordır.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43785-us-egg-prices-on-the-decline-ahead-of-easter-holiday"><u>https://www.supplychainbrain.com/articles/43785-us-egg-prices-on-the-decline-ahead-of-easter-holiday</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

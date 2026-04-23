@@ -62,7 +62,6 @@ and similar operations.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://splash247.com/deepocean-wins-western-australia-decommissioning-job/"><u>https://splash247.com/deepocean-wins-western-australia-decommissioning-job/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

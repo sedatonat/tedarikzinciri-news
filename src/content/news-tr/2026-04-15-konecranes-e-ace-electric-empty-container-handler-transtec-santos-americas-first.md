@@ -29,9 +29,6 @@ tags:
 3. Sipariş 2025 Q4'te verildi; teslimat 2026 Q2'de gerçekleşecek.<br>
 4. Transtec World; Santos'ta sekiz saha işletip yıllık 710.000'in üzerinde konteyner elleçliyor.<br>
 5. Elektrikli ECC serisi; sıfır emisyon, düşük gürültü ve operasyonel maliyet avantajları sunuyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/konecranes-deploys-first-electric-handlers-in-americas/"><u>https://www.porttechnology.org/konecranes-deploys-first-electric-handlers-in-americas/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -51,7 +51,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://seanews.ru/en/2025/01/28/en-the-first-refrigerated-container-with-russian-food-products-from-moscow-to-dubai/"><u>https://seanews.ru/en/2025/01/28/en-the-first-refrigerated-container-with-russian-food-products-from-moscow-to-dubai/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

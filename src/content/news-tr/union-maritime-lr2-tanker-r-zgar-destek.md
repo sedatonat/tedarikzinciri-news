@@ -37,4 +37,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://splash247.com/union-maritime-taps-wind-assisted-propulsion-for-lr2-newbuilds/"><u>https://splash247.com/union-maritime-taps-wind-assisted-propulsion-for-lr2-newbuilds/</u></a></p>

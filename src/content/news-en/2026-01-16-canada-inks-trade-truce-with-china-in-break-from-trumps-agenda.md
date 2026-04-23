@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Following the announcement, canola futures in New York extended gains to 2.6%, reaching their highest level since early December. From a supply chain perspective, this agreement positions Canada as an alternative bridge alongside the <strong>USMCA</strong> framework in North American agricultural and automotive supply chains. The soft entry of Chinese EV makers such as <strong>BYD</strong>, <strong>NIO</strong>, <strong>Geely</strong> and <strong>Chery</strong> into the Canadian market structurally increases competitive pressure on the Ontario-based production plans of <strong>Ford</strong>, <strong>GM</strong> and <strong>Stellantis</strong>.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43257-canada-inks-trade-truce-with-china-in-break-from-trumps-agenda"><u>https://www.supplychainbrain.com/articles/43257-canada-inks-trade-truce-with-china-in-break-from-trumps-agenda</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

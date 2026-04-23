@@ -27,9 +27,6 @@ tags: ['Airbus', 'A320neo', 'motor tedariki', 'havacılık', 'Pratt Whitney', 'C
 3. <strong>Airbus</strong> is maintaining its 2025 annual target of 820 deliveries—pushed into H2.<br>
 4. <strong>Pratt &amp; Whitney GTF</strong> and <strong>CFM LEAP</strong> are the primary engine suppliers.<br>
 5. <strong>Guillaume Faury</strong>, <strong>Airbus</strong> CEO, states that supply chain challenges will push deliveries into H2.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42270-supply-chain-woes-stall-airbus-deliveries-in-july"><u>https://www.supplychainbrain.com/articles/42270-supply-chain-woes-stall-airbus-deliveries-in-july</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our book is now available on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can freely download and read it through this link.</p>

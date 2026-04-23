@@ -86,7 +86,6 @@ For multinational actors like Hanwha, this situation requires <strong>new strate
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/china-sanctions-hanwha-units-amid-rising-trade-tensions/"><u>https://www.porttechnology.org/news/china-sanctions-hanwha-units-amid-rising-trade-tensions/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Book.</strong></p>

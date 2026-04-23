@@ -38,4 +38,3 @@ tags:
   <li><p>All participants in the supply chain will be included in this process.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.porttechnology.org/news/german-ports-to-introduce-new-import-solution/"><u>https://www.porttechnology.org/news/german-ports-to-introduce-new-import-solution/</u></a></p>

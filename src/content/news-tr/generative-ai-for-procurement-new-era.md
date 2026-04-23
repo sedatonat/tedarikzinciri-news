@@ -34,4 +34,3 @@ tags:
   <li><p>Teknolojinin yaygınlaşmasıyla birlikte, iş süreçlerinde verimlilik ve hızda önemli artışlar bekleniyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10630-generative-ai-for-procurement-moves-beyond-hype"><u>https://www.thescxchange.com/articles/10630-generative-ai-for-procurement-moves-beyond-hype</u></a></p>

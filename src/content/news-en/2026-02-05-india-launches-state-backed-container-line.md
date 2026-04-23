@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Meanwhile, India has aggressively pursued trade deals with both the <strong>European Union</strong> and the <strong>United States</strong> in recent weeks. The Trump administration made the relevant announcement on February 2. From a supply chain perspective, the entry of <strong>BCSL</strong> could moderate medium-term pricing power for <strong>Maersk</strong>, <strong>MSC</strong>, <strong>CMA CGM</strong> and <strong>Hapag-Lloyd</strong> on Indian subcontinent services. A domestic flag advantage is becoming structural in <strong>Indo-EU</strong> connectivity strategies and the <strong>IMEC (India-Middle East-Europe Economic Corridor)</strong> through <strong>JNPT</strong>, <strong>Mundra</strong> and <strong>Cochin</strong>.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43430-india-launches-state-backed-container-line"><u>https://www.supplychainbrain.com/articles/43430-india-launches-state-backed-container-line</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

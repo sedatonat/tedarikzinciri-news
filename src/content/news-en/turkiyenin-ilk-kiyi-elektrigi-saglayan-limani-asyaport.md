@@ -40,7 +40,6 @@ tags:
   <li><p>Asyaport continues to reduce environmental impact through fully electric crane operations.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/asyaport-first-to-offer-ops-in-turkiye/"><u>https://www.porttechnology.org/news/asyaport-first-to-offer-ops-in-turkiye/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

@@ -27,9 +27,6 @@ tags:
 3. Sızıntı 10 Nisan'da bir bunker ikmal operasyonu sırasında gerçekleşti.<br>
 4. Kirlilik gece boyunca Scheldt Nehri'ne yayılarak gemi trafiğini ve su bentlerini etkiledi.<br>
 5. Liman yetkilileri bunker operasyonlarında kullanılan güvenlik prosedürlerinin gözden geçirileceğini açıkladı.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/antwerp-terminals-reopen-after-oil-spill/"><u>https://www.porttechnology.org/antwerp-terminals-reopen-after-oil-spill/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -28,9 +28,6 @@ tags: ['Hürmüz Boğazı', 'İran', 'Devrim Muhafızları', 'ham petrol', 'BIMC
 3. In 2025, 13 million barrels of crude pass through the strait daily, representing 31% of global seaborne flows.<br>
 4. <strong>BIMCO</strong> expects disruptions to remain minor in scale.<br>
 5. <strong>U.S.</strong>-<strong>Iran</strong> negotiations continue in <strong>Geneva</strong> focused on the nuclear program.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43487-iran-temporarily-closes-strait-of-hormuz"><u>https://www.supplychainbrain.com/articles/43487-iran-temporarily-closes-strait-of-hormuz</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

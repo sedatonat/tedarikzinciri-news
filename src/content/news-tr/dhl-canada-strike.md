@@ -28,10 +28,6 @@ tags:
 3. Union talks devam ediyordir.<br>
 4. Grev teslimat gecikmelerine yol açıyordır.<br>
 5. Tedarik akışı kısa vadede etkileniyordir.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41927-dhl-express-canada-workers-on-strike-following-lockout"><u>https://www.supplychainbrain.com/articles/41927-dhl-express-canada-workers-on-strike-following-lockout</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

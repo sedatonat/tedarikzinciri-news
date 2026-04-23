@@ -36,9 +36,6 @@ tags:
 3. Bölge etkisi 2003 <strong>Gulf War</strong> seviyesine yakın ya da daha şiddetli oluyor olabiliyor.<br>
 4. <strong>S&amp;OP</strong> ile <strong>tower</strong> izleme; ilk hafta karar desteğinde kritik rol oynuyor.<br>
 5. Etki, <strong>Middle East</strong> sınırlarının çok ötesine yayılıyor olabiliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43573-cscos-urged-to-act-swiftly-in-response-to-iran-war"><u>https://www.supplychainbrain.com/articles/43573-cscos-urged-to-act-swiftly-in-response-to-iran-war</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

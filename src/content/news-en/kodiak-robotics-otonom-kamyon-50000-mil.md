@@ -36,4 +36,3 @@ tags:
   <li><p>Kodiak Robotics aims to increase safety and efficiency in the logistics sector through this technology.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.thescxchange.com/articles/10693-kodiak-says-its-autonomous-trucks-have-covered-50-000-driverless-miles"><u>https://www.thescxchange.com/articles/10693-kodiak-says-its-autonomous-trucks-have-covered-50-000-driverless-miles</u></a></p>

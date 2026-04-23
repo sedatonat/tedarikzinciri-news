@@ -61,7 +61,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/congressman-van-drew-trump-team-up-to-sink-bidens-offshore-wind-ambitions/"><u>https://gcaptain.com/congressman-van-drew-trump-team-up-to-sink-bidens-offshore-wind-ambitions/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

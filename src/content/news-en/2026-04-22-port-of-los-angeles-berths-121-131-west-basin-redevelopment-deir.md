@@ -25,9 +25,6 @@ tags: ["Port of Los Angeles", "USACE", "Berths 121-131", "West Basin", "DEIS", "
 3. On-dock rail yard expansion will be supported by electric rail-mounted gantry cranes.<br>
 4. Terminal operator will receive a new 30-year entitlement; the 2014 scope has been streamlined.<br>
 5. USACE separately allocated approximately $70 million from the HMTF for harbour maintenance.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/port-of-los-angeles-moves-forward-west-basin-upgrade/"><u>https://www.porttechnology.org/port-of-los-angeles-moves-forward-west-basin-upgrade/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

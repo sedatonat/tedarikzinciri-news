@@ -111,7 +111,6 @@ SAP’nin yaklaşımı:</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42772-coping-with-new-sources-of-supply-chain-volatility-the-more-the-merrier"><u>https://www.supplychainbrain.com/articles/42772-coping-with-new-sources-of-supply-chain-volatility-the-more-the-merrier</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

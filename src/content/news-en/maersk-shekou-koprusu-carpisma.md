@@ -60,7 +60,6 @@ During Maersk Shekou's entry into the inner harbor:</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/bridge-team-breakdown-how-communication-failures-led-to-containerships-collision-with-tall-ship/"><u>https://gcaptain.com/bridge-team-breakdown-how-communication-failures-led-to-containerships-collision-with-tall-ship/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

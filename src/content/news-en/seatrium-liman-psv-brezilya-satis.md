@@ -82,7 +82,6 @@ The purchase of two PSVs will <strong>increase the company's fleet capacity in t
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://splash247.com/seatrium-offloads-psv-duo-to-brazilian-firm-for-60m/"><u>https://splash247.com/seatrium-offloads-psv-duo-to-brazilian-firm-for-60m/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author:</strong><a href="http://sedatonat.com/"><u><strong> </strong></u><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

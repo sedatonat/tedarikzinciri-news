@@ -73,7 +73,6 @@ CEO Mick Beekhuizen’in yorumu durumu özetliyor:</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/monster-faces-modest-tariff-impact-from-aluminum-costs/806002/"><u>https://www.supplychaindive.com/news/monster-faces-modest-tariff-impact-from-aluminum-costs/806002/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

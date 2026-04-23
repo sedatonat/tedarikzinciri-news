@@ -32,10 +32,6 @@ tags:
 3. Lojistikte off-peak ve micro-hubs öne çıkıyor.<br>
 4. Hukuki tartışma federal–yerel yetkide yoğunlaşıyor.<br>
 5. Tasarım dengesi toplu taşıma ve ticareti koruyor.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41596-duffy-and-hochul-face-off-over-nyc-congestion-charge"><u>https://www.supplychainbrain.com/articles/41596-duffy-and-hochul-face-off-over-nyc-congestion-charge</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

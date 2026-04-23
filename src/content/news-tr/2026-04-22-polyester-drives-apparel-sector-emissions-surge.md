@@ -34,9 +34,6 @@ tags:
 3. Hazır giyim sektörü; toplam küresel emisyonların %2&rsquo;sini oluşturuyor.<br>
 4. <strong>Lewis Perkins</strong> (<strong>Aii</strong>); endüstrinin 2030 hedeflerinin gerisinde olduğunu vurguluyor.<br>
 5. Fast fashion talep artışı ve karbon yoğun polyester; ana emisyon sürücüleri oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42340-polyester-drives-surge-in-apparel-sector-emissions"><u>https://www.supplychainbrain.com/articles/42340-polyester-drives-surge-in-apparel-sector-emissions</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

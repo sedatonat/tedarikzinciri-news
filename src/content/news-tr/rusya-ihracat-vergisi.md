@@ -43,7 +43,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://seanews.ru/en/2025/01/10/en-russia-introduces-export-dues-for-leguminous-crops/"><u>https://seanews.ru/en/2025/01/10/en-russia-introduces-export-dues-for-leguminous-crops/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

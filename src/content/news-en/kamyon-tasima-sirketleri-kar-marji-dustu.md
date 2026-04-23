@@ -33,4 +33,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10269-truckload-carrier-profits-sank-to-14-year-low-in-first-quarter"><u>https://www.thescxchange.com/articles/10269-truckload-carrier-profits-sank-to-14-year-low-in-first-quarter</u></a></p>

@@ -32,4 +32,3 @@ tags:
   <li><p>Gamification (oyunlaştırma) çabaları, çalışan ihtiyaçlarına odaklanmalı.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.scmr.com/article/warehouse-workers-embracing-gamification"><u>https://www.scmr.com/article/warehouse-workers-embracing-gamification</u></a></p>

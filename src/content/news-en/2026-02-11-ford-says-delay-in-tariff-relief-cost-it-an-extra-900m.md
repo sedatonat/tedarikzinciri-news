@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, despite the tariff bill and net loss, the company reported revenue for Q4 2025 that beat analysts&rsquo; expectations. <strong>Ford</strong> sits among the dominant U.S. players alongside <strong>Stellantis</strong>, <strong>GM</strong>, <strong>Toyota</strong>, <strong>Honda</strong>, <strong>Hyundai</strong> and <strong>Volkswagen</strong>, but the tension between <strong>Section 232</strong>, <strong>USMCA</strong>, the <strong>IRA</strong> (Inflation Reduction Act) and <strong>BBB</strong> credit rules is forcing constant supply chain replanning. <em>Tier-1</em> suppliers including <strong>Magna</strong>, <strong>BorgWarner</strong>, <strong>Lear</strong> and <strong>Aptiv</strong> are rebalancing <em>nearshoring</em> footprints across Mexico, the U.S. and Canada. Investments in the <strong>Battery Belt</strong>, lithium, nickel and cobalt offtake deals, and partnerships with <strong>BYD</strong>, <strong>CATL</strong>, <strong>LG Energy Solution</strong> and <strong>SK On</strong> remain at the center of automotive supply chain strategy through 2026.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43458-ford-says-delay-in-tariff-relief-cost-it-an-extra-900m"><u>https://www.supplychainbrain.com/articles/43458-ford-says-delay-in-tariff-relief-cost-it-an-extra-900m</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

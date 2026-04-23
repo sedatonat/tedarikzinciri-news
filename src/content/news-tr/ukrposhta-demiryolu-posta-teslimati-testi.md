@@ -24,4 +24,3 @@ tags:
 <p><br></p>
 <p>Ukrayna ve Polonya arasındaki birçok karayolu sınır geçişinde Kasım ayının başında başlayan engellemelerden kaçınmak için alternatif taşıma çözümleri bulmak şu anda bir zorunluluk. Aralık ayının başında, Ukrayna Demiryolları, Sknyliv ve Slawkow (Polonya'da) arasında, İzov-Hrubeshiv sınır geçişine uygun yarı römorklar için yeni bir hizmet başlattı.</p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.railfreight.com/intermodal/2023/12/27/ukrainian-international-mail-is-back-on-the-rail-after-21-years/"><u>https://www.railfreight.com/intermodal/2023/12/27/ukrainian-international-mail-is-back-on-the-rail-after-21-years/</u></a></p>

@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">2025'te tek başına rekor 633 gemi sipariş ediliyor; bu yaklaşık 5,1 milyon TEU kapasiteye karşılık geliyor ve küresel konteyner gemisi sipariş defterini mevcut filonun yaklaşık üçte birine taşıyor. Tedarik zinciri perspektifinden bakıldığında <strong>Maersk</strong>, <strong>MSC</strong>, <strong>CMA CGM</strong>, <strong>Hapag-Lloyd</strong> ve <strong>COSCO</strong> ile birlikte Evergreen'in de devreye alıyor olduğu bu yeni tonaj; <strong>spot</strong> ve <strong>contract</strong> taşıma fiyatlarında önümüzdeki iki yıl boyunca yapısal aşağı baskı kuracak biçimde fiyatlanmakta. <strong>BCO</strong>'lar için bu; sözleşme stratejilerini gözden geçirme fırsatı yaratıyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43371-evergeen-books-orders-for-23-new-container-ships"><u>https://www.supplychainbrain.com/articles/43371-evergeen-books-orders-for-23-new-container-ships</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

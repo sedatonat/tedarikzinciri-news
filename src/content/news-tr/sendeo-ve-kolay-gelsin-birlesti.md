@@ -30,4 +30,3 @@ tags:
   <li><p>Bu birleşme, pandemi sonrası kargo ve taşımacılık sektöründeki önemini daha da artırıyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.lojiport.com/iki-dev-birlesti-turkiyenin-en-buyuk-kargo-sirketi-dogdu-116594h.htm"><u>https://www.lojiport.com/iki-dev-birlesti-turkiyenin-en-buyuk-kargo-sirketi-dogdu-116594h.htm</u></a></p>

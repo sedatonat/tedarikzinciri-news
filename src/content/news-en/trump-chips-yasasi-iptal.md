@@ -44,7 +44,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Repeal of the legislation could have adverse effects on US national security and economic stability.</p></li>
 </ul>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/trump-to-kill-chips-act-not-that-simple-defunding/741963/"><u>https://www.supplychaindive.com/news/trump-to-kill-chips-act-not-that-simple-defunding/741963/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>

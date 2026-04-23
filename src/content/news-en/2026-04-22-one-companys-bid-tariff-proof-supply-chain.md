@@ -27,9 +27,6 @@ tags: ['tarife', 'Echo', 'Filipinler', 'Çin', 'nearshoring', 'friendshoring', '
 3. On Trump's Liberation Day, the <strong>Philippines</strong> faces a 17% tariff compared to 145%+ for <strong>China</strong>.<br>
 4. "Investing in flexibility before it becomes urgent"—this is <strong>Carr</strong>'s tariff-proofing philosophy.<br>
 5. <strong>China+1</strong>, nearshoring, and friendshoring are core supply chain strategies.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41600-one-companys-bid-to-tariff-proof-its-supply-chain"><u>https://www.supplychainbrain.com/articles/41600-one-companys-bid-to-tariff-proof-its-supply-chain</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book is Now Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>

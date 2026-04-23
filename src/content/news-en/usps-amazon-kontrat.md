@@ -65,7 +65,6 @@ Because the Amazon volume USPS carries is <strong>4–5 times</strong> the volum
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/usps_amazon_contract_uncertainty_grows_as_reverse_auction_plan_raises_stakes_for_2026_renewal"><u>https://www.supplychain247.com/article/usps_amazon_contract_uncertainty_grows_as_reverse_auction_plan_raises_stakes_for_2026_renewal</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

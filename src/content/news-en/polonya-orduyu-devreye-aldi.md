@@ -71,7 +71,6 @@ This information was immediately relayed to the traffic control centre in Dębli
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/railfreight/2025/11/19/poland-sends-army-to-patrol-eastern-rail-routes-points-to-russia-as-culprit/"><u>https://www.railfreight.com/railfreight/2025/11/19/poland-sends-army-to-patrol-eastern-rail-routes-points-to-russia-as-culprit/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

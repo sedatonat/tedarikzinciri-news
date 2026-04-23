@@ -37,7 +37,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/frontloading-cargo-impact-warehouse-space-tariff-concerns/740818/"><u>https://www.supplychaindive.com/news/frontloading-cargo-impact-warehouse-space-tariff-concerns/740818/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Implement ERP?" Has Been Published on Google Play Books.</strong></p>

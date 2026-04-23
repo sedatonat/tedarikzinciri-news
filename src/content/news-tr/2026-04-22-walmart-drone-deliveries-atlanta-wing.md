@@ -35,9 +35,6 @@ tags:
 3. <strong>Houston</strong>; <strong>Orlando</strong>; <strong>Tampa</strong>; <strong>Charlotte</strong>; sonraki şehirler oluyor.<br>
 4. <strong>Heather Rivera</strong>; <strong>Wing</strong> baş iş yetkilisi olarak konuşuyor.<br>
 5. 2026 ortasına kadar 5 şehir hedefleniyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42980-walmart-launches-drone-deliveries-in-atlanta"><u>https://www.supplychainbrain.com/articles/42980-walmart-launches-drone-deliveries-in-atlanta</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

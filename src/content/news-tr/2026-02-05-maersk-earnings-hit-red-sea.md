@@ -36,9 +36,6 @@ tags:
 3. <strong>Red Sea</strong>&rsquo;in açılması, küresel kapasitenin %6-7&rsquo;sini serbest bırakıyor olduğu öngörülüyor.<br>
 4. <strong>Maersk</strong>, hisse geri alımını kısmakta ve 1.000 idari pozisyonu lağvediyor.<br>
 5. <strong>ME11</strong> hattı Şubat ortasında <strong>Suez Canal</strong> üzerinden yeniden çalışıyor olmayı planlıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43427-maersk-expects-to-take-earnings-hit-from-return-of-red-sea-shipping"><u>https://www.supplychainbrain.com/articles/43427-maersk-expects-to-take-earnings-hit-from-return-of-red-sea-shipping</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

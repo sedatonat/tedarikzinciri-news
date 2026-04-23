@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Oynaklığın norm haline geliyor olduğu bir ortamda; parsel fiyatlandırması artık reaktif olarak yönetilebiliyor olmuyor. Tedarik zinciri perspektifinden bakıldığında bu rapor; tedarik zinciri liderlerine varsayımları sorgulamak, maliyet etkilerini öngörmek ve 2026 ve sonrası için daha dayanıklı, marj bilinçli parsel stratejileri kurmak için ihtiyaç duyuluyor olan görünürlük ve bağlamı sunuyor. <em>Dimensional weight</em>, <em>residential surcharge</em> ve <em>peak season</em> ücretleri konusunda tedarik zinciri analitiği yatırımı; rekabet avantajının belirleyici unsuru haline geliyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43453-comparing-the-2026-fedex-and-ups-general-rate-increases"><u>https://www.supplychainbrain.com/articles/43453-comparing-the-2026-fedex-and-ups-general-rate-increases</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

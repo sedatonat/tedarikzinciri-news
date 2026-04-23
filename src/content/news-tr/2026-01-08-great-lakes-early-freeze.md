@@ -36,9 +36,6 @@ tags:
 3. <strong>LCA</strong>, kısa aksamaların sezon sonunda zincirleme büyüyebiliyor olduğunu vurguluyor.<br>
 4. <strong>Iron ore</strong>, <strong>steel</strong>, <strong>coal</strong>, <strong>grain</strong> taşımacılığı kış kapanmasına karşı yarışmakta.<br>
 5. <strong>USCG</strong> ve <strong>CCG</strong>&rsquo;nin sınırlı buzkıran kapasitesi stratejik bir kırılganlık olarak öne çıkıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43091-early-freeze-tests-great-lakes-supply-chains"><u>https://www.supplychainbrain.com/articles/43091-early-freeze-tests-great-lakes-supply-chains</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

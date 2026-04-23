@@ -61,7 +61,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychaindive.com/news/us-south-korea-trade-deal-tariffs-donald-trump-lee-jae-myung/804092/"><u>https://www.supplychaindive.com/news/us-south-korea-trade-deal-tariffs-donald-trump-lee-jae-myung/804092/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

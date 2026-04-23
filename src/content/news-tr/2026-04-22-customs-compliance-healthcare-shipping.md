@@ -35,9 +35,6 @@ tags:
 3. Soğuk zincir; çoklu sıcaklık aralığı yönetiyor zorunlu oluyor.<br>
 4. <strong>Josh Medow</strong>; <strong>SCB Think Tank</strong> katkı sağlayıcısı oluyor.<br>
 5. Yönetim kurulu seviyesinde risk olarak gümrük uyum konumlandırılıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42700-the-high-stakes-of-customs-compliance-in-healthcare-shipping"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42700-the-high-stakes-of-customs-compliance-in-healthcare-shipping</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

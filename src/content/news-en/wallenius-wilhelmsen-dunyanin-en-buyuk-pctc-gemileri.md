@@ -45,7 +45,6 @@ tags:
   <li><p>The company will deliver integrated transport services through its existing land-based logistics network.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/wallenius-wilhelmsen-to-build-worlds-largest-pctc-ships/"><u>https://www.porttechnology.org/news/wallenius-wilhelmsen-to-build-worlds-largest-pctc-ships/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Purchase ERP? Our Book Has Been Published on Google Play Books.</strong></p>

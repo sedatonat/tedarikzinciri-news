@@ -40,7 +40,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/40752-walmart-to-end-its-dei-initiatives"><u>https://www.supplychainbrain.com/articles/40752-walmart-to-end-its-dei-initiatives</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

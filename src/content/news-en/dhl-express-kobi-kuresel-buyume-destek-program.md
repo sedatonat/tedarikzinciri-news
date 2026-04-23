@@ -31,4 +31,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10682-dhl-express-says-program-will-help-us-small-businesses-grow-globally"><u>https://www.thescxchange.com/articles/10682-dhl-express-says-program-will-help-us-small-businesses-grow-globally</u></a></p>

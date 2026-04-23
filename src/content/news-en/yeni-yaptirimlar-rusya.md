@@ -56,7 +56,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/new-sanctions-to-test-russias-shadow-fleet-resilience/"><u>https://gcaptain.com/new-sanctions-to-test-russias-shadow-fleet-resilience/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>

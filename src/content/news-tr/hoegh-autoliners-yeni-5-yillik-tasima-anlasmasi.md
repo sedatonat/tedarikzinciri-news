@@ -43,7 +43,6 @@ tags:
 </ol>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://splash247.com/hoegh-autoliners-secures-new-five-year-car-shipping-deal/"><u>https://splash247.com/hoegh-autoliners-secures-new-five-year-car-shipping-deal/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

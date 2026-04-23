@@ -35,9 +35,6 @@ tags:
 3. <strong>Aptean</strong>&rsquo;dan <strong>Jim Endres</strong> ve <strong>Chris Peel</strong>; <strong>TMS</strong> liderleri olarak konuşuyor.<br>
 4. Sunucu; <strong>SCB Editor-in-Chief</strong> <strong>Robert Bowman</strong> oluyor.<br>
 5. Akıllı ajanlar; sadece analiz değil; eylem alıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43080-beyond-visibility-ai-redefines-logistics"><u>https://www.supplychainbrain.com/articles/43080-beyond-visibility-ai-redefines-logistics</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

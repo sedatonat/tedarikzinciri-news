@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında şirket; Birleşik Krallık&rsquo;ta yaklaşık 1.000 mağazaya ve <strong>İzlanda</strong> ülkesinde üç lokasyona sahip oluyordır &mdash; bir tür <em>mea culpa</em> jesti olarak zincir; donmuş gıdalardan oluşan bir yelpazede yüzde 50 indirim sunacaktır. Olay; <strong>Champagne</strong>; <strong>Parma Ham</strong>; <strong>Roquefort</strong>; <strong>Feta</strong>; <strong>Tequila</strong> gibi <em>protected designation of origin</em> (<strong>PDO</strong>) ve <em>protected geographical indication</em> (<strong>PGI</strong>) sistemleri etrafında uluslararası coğrafi işaret hukukunu güçlendiriyordir. <strong>EUIPO</strong> (Avrupa Birliği Fikri Mülkiyet Ofisi); <strong>WIPO</strong>; <strong>USPTO</strong> ve <strong>UKIPO</strong> nezdinde benzer marka itirazları &mdash; özellikle <strong>Brexit</strong> sonrası &mdash; sektör genelinde 2026 boyunca artmaya devam ediyordir.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43600-iceland-wins-trademark-battle-with-uk-grocery-chain"><u>https://www.supplychainbrain.com/articles/43600-iceland-wins-trademark-battle-with-uk-grocery-chain</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

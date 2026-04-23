@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, <strong>Michelin</strong>, <strong>Bridgestone</strong>, <strong>Goodyear</strong>, <strong>Continental</strong> and <strong>Pirelli</strong> are being forced to invest in traceability infrastructure for natural rubber under the <strong>EUDR (EU Deforestation Regulation)</strong>. Recycled carbon black ("rCB") and <strong>guayule</strong>-derived alternative rubber are emerging as medium-term risk-mitigation pathways. <strong>VMI</strong> programs and long-term <strong>offtake</strong> contracts are critical levers to absorb commodity volatility before it cascades into OEM supply.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/43418-navigating-volatility-and-resilience-in-the-tire-supply-chain"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/43418-navigating-volatility-and-resilience-in-the-tire-supply-chain</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

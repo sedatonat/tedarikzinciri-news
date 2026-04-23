@@ -41,4 +41,3 @@ tags:
 </ul>
 <p><strong>Related Article:</strong> <a href="https://www.tedarikzinciriportali.com/post/maersk-baltimore-koprusu-kazasi"><u>Maersk Baltimore Francis Scott Key Bridge Accident</u></a></p>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.cnbc.com/2024/03/26/shipping-giant-maersk-confirms-it-chartered-ship-that-collided-with-baltimore-bridge.html"><u>https://www.cnbc.com/2024/03/26/shipping-giant-maersk-confirms-it-chartered-ship-that-collided-with-baltimore-bridge.html</u></a></p>

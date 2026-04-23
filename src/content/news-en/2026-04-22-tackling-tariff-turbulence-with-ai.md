@@ -27,9 +27,6 @@ tags: ['AI', 'yapay zeka', 'tarifeler', 'Trump', 'WTO', 'senaryo modelleme', 'ta
 3. The <strong>WTO</strong> forecasts a 0.2%-1.5% decline in global trade volume.<br>
 4. <strong>AI</strong> and <strong>ML</strong> are critical tools for managing tariff turbulence.<br>
 5. <strong>HTS</strong> classification; country of origin optimization; <strong>tariff engineering</strong>; are principal <strong>AI</strong> application areas.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42440-tackling-tariff-turbulence-with-ai"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42440-tackling-tariff-turbulence-with-ai</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Acquire ERP?" Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it free of charge via this link.</p>

@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Trump said the new standards will "generate over $10 billion of rural economic benefit, create an estimated 100,000 new jobs." From a supply chain perspective, these measures highlight how vulnerable U.S. agricultural commodity flows remain to global geopolitical shocks. Soy, corn, wheat and meat supply chains are facing layered pressures from freight costs, fertilizer prices and access to foreign markets — signaling that government support is likely to continue in the near term as well.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43747-trump-unveils-new-loan-guarantees-for-beleaguered-farmers"><u>https://www.supplychainbrain.com/articles/43747-trump-unveils-new-loan-guarantees-for-beleaguered-farmers</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

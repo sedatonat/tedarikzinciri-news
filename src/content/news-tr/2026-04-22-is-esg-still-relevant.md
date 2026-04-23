@@ -35,9 +35,6 @@ tags:
 3. Şirketler küresel tedarik zincirlerinin etkisini azaltmaya devam ediyor.<br>
 4. <strong>EU CSRD</strong>; <strong>CSDDD</strong>; <strong>EUDR</strong>; ana sınır ötesi uyum baskıları oluyor.<br>
 5. <strong>SCB Magazine Vol 29 No 2</strong>; yıllık <strong>ESG</strong> özel sayısı oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41550-is-esg-still-relevant"><u>https://www.supplychainbrain.com/articles/41550-is-esg-still-relevant</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

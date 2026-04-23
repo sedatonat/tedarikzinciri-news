@@ -28,9 +28,6 @@ tags: ['Türkiye', 'Suriye', 'Ürdün', 'Suudi Arabistan', 'Abdulkadir Uraloğlu
 3. Connection to <strong>Saudi Arabia</strong>'s railway system is planned.<br>
 4. Project financing is not yet clear; discussions are ongoing.<br>
 5. Road improvements leading into <strong>Turkey</strong> are included in the plan.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43870-turkey-to-improve-transport-network-as-it-eyes-europe-gulf-route"><u>https://www.supplychainbrain.com/articles/43870-turkey-to-improve-transport-network-as-it-eyes-europe-gulf-route</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

@@ -79,7 +79,6 @@ The cancelled projects threaten not only the port and shipbuilding sectors but a
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/us-ports-face-679-million-loss-from-wind-policy-shift/"><u>https://www.porttechnology.org/news/us-ports-face-679-million-loss-from-wind-policy-shift/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our book has been published on Google Play Books.</strong></p>

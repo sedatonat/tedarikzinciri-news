@@ -54,7 +54,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/42949-trump-signs-order-to-tackle-alleged-food-supply-chain-risks"><u>https://www.supplychainbrain.com/articles/42949-trump-signs-order-to-tackle-alleged-food-supply-chain-risks</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -34,4 +34,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.lojiport.com/und-tasimacinin-basucu-kitabini-tanitti-116359h.htm"><u>https://www.lojiport.com/und-tasimacinin-basucu-kitabini-tanitti-116359h.htm</u></a></p>

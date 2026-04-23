@@ -104,7 +104,6 @@ Nevertheless, the draft clearly demonstrates <strong>Trump's determination to ma
 </ul>
 <p style="text-align: justify"><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/trump-plan-would-open-almost-all-coast-to-offshore-drilling/"><u>https://gcaptain.com/trump-plan-would-open-almost-all-coast-to-offshore-drilling/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

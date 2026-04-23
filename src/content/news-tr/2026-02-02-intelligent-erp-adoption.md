@@ -36,9 +36,6 @@ tags:
 3. <strong>Stablecoins</strong>, sınır ötesi mutabakatlarda fiyat istikrarı sağlıyor.<br>
 4. Veri hazırlığı, <strong>AI</strong> başarısının ön koşulu oluyor.<br>
 5. En büyük engel; kurumsal atalet ve eğitim açıklarında bulunuyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43169-are-organizations-smart-enough-to-adopt-intelligent-erp-systems"><u>https://www.supplychainbrain.com/articles/43169-are-organizations-smart-enough-to-adopt-intelligent-erp-systems</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

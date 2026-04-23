@@ -33,4 +33,3 @@ tags:
   <li><p>Hibrit model ve ileri düzey zaman serisi makine öğrenimi modelleri, CFR tahmininde yüksek doğruluk ve hassasiyet göstermiştir.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.scmr.com/article/predicting-stockouts-enhancing-fmcg-resilience-through-data-driven-insights"><u>https://www.scmr.com/article/predicting-stockouts-enhancing-fmcg-resilience-through-data-driven-insights</u></a></p>

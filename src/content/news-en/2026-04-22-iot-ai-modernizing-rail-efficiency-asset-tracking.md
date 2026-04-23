@@ -27,9 +27,6 @@ tags: ['demiryolu', 'IoT', 'AI', 'Steven Payne', 'CSX', 'varlık takibi', 'yük 
 3. <strong>Steven Payne</strong> is a contributor to <strong>SCB Think Tank</strong>.<br>
 4. Climate and demand model pressures are driving modernization needs.<br>
 5. Smarter operational decision-making is a primary outcome of digital adoption.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42710-how-iot-and-ai-are-modernizing-rail-efficiency-and-asset-tracking"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42710-how-iot-and-ai-are-modernizing-rail-efficiency-and-asset-tracking</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Purchase ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>

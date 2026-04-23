@@ -66,7 +66,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/amazon-us-postal-service-doorstep-returns/803544/"><u>https://www.supplychaindive.com/news/amazon-us-postal-service-doorstep-returns/803544/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

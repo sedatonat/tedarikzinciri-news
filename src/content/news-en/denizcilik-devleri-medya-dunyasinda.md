@@ -25,4 +25,4 @@ tags:
   <li><p>Italian shipowners show a growing inclination to invest in local media outlets.</p></li>
   <li><p>Rodolphe Saadé is making headlines with substantial media sector investments and now leads Altice Media.</p></li>
   <li><p>Rising ocean freight rates during COVID-19 and favorable tax treatment have enabled such major investments.</p></li>
-</ul>\n<p><br></p>\n<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/39391-msc-to-buy-italian-shipping-newspaper-group"><u>https://www.supplychainbrain.com/articles/39391-msc-to-buy-italian-shipping-newspaper-group</u></a></p>
+</ul>\n<p><br></p>\n

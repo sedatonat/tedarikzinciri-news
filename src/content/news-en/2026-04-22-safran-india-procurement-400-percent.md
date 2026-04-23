@@ -27,9 +27,6 @@ tags: ['Safran', 'Hindistan tedarik', 'Olivier Andriès', 'LEAP', 'Hyderabad', '
 3. <strong>Hammer</strong> air-ground weapon joint production agreement signed with <strong>Bharat Electronics</strong>.<br>
 4. <strong>Indian Air Force</strong> acquiring 36 <strong>Rafale</strong>; <strong>Indian Navy</strong> acquiring 26 <strong>Rafale Marine</strong>.<br>
 5. <strong>India Defence Acquisition Procedure 2020</strong> mandates local reinvestment.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42910-safran-plans-to-boost-procurement-from-india-400-by-2030"><u>https://www.supplychainbrain.com/articles/42910-safran-plans-to-boost-procurement-from-india-400-by-2030</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>

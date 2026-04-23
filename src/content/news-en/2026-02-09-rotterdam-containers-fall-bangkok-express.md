@@ -28,9 +28,6 @@ tags: ['Rotterdam Limanı', 'Hapag-Lloyd', 'Bangkok Express', 'K. Lotus', 'LNG b
 3. Containers struck the accommodation section, not the <strong>LNG</strong> compartment.<br>
 4. Three agencies, including the <strong>Dutch Safety Board</strong>, are investigating.<br>
 5. <strong>K. Lotus</strong> remains in port for mooring system repairs.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43441-containers-fall-from-vessel-docked-at-port-of-rotterdam"><u>https://www.supplychainbrain.com/articles/43441-containers-fall-from-vessel-docked-at-port-of-rotterdam</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

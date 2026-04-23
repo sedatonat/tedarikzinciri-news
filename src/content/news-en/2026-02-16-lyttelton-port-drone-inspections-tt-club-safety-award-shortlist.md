@@ -23,9 +23,6 @@ tags: ["Lyttelton Port", "drone", "TT Club", "iş güvenliği", "Yeni Zelanda", 
 3. After wind events exceeding 32 knots, personnel had to enter operational areas to assess stack integrity.<br>
 4. High-resolution zoom-camera drones eliminate manual work-at-height risk.<br>
 5. Drone data is integrated into a digital record system, offering a scalable safety template for container terminals.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/lyttelton-port-company-drone-initiative-shortlisted-for-safety-award/"><u>https://www.porttechnology.org/lyttelton-port-company-drone-initiative-shortlisted-for-safety-award/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

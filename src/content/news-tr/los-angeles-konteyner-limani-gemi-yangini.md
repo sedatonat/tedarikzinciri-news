@@ -45,7 +45,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42891-container-ship-fire-halts-operations-at-port-of-los-angeles"><u>https://www.supplychainbrain.com/articles/42891-container-ship-fire-halts-operations-at-port-of-los-angeles</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

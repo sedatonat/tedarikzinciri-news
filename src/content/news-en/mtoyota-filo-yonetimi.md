@@ -64,7 +64,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://warehousinglogisticsinternational.com/toyotas-new-customer-portal-will-transform-forklift-fleet-management/"><u>https://warehousinglogisticsinternational.com/toyotas-new-customer-portal-will-transform-forklift-fleet-management/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

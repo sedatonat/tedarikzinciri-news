@@ -36,9 +36,6 @@ tags:
 3. <strong>Trump</strong>; <strong>CK Hutchison</strong>&rsquo;dan ulusal güvenlik gerekçesiyle baskı yapıyor.<br>
 4. <strong>CK Hutchison</strong>; anlaşmanın 2026 öncesi kapanmamakta olunacağını söylüyor.<br>
 5. Önceki eşit hisse talebi; çoğunluk hisseye yükseltiliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43020-china-demands-controlling-stake-in-sale-of-panama-canal-ports"><u>https://www.supplychainbrain.com/articles/43020-china-demands-controlling-stake-in-sale-of-panama-canal-ports</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

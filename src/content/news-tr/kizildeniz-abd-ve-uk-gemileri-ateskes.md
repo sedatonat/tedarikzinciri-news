@@ -39,7 +39,6 @@ tags:
 <p><br></p>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/41108-us-and-uk-ships-return-to-red-sea-after-houthis-vow-to-hold-fire"><u>https://www.supplychainbrain.com/articles/41108-us-and-uk-ships-return-to-red-sea-after-houthis-vow-to-hold-fire</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

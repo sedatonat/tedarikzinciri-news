@@ -29,9 +29,6 @@ tags:
 <p style="text-align: justify">The letter lists policies it argues are exacerbating an already economically strained industry &mdash; including the administration's stance on immigration. "The current Administration's actions, along with Congressional inaction, have increased costs for farm inputs, disrupted overseas and domestic markets, denied agriculture its reliable labor pool, and defunded critical ag research," the letter states.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, this situation exposes fundamental vulnerabilities in U.S. food supply chains. Dairy farms are dependent on immigrant labor by up to 50%, while fruit and vegetable harvesting depends by up to 70%. Modernization of the <em>H-2A</em> program; investment in agricultural robotics (<strong>John Deere</strong>; <strong>Carbon Robotics</strong>; <strong>Naio Technologies</strong>); and supplier diversification via <em>nearshoring</em> are key adaptation strategies in the medium term. Otherwise, food price inflation, farm closures and increased import dependence appear inevitable.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43404-trump-immigration-policy-wreaking-havoc-on-us-food-production-say-former-agriculture-leaders"><u>https://www.supplychainbrain.com/articles/43404-trump-immigration-policy-wreaking-havoc-on-us-food-production-say-former-agriculture-leaders</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

@@ -29,9 +29,6 @@ tags:
 3. Askıya alma rıhtım ve giriş kapısı operasyonlarının her ikisini de kapsıyor.<br>
 4. Tüm kapı randevuları iptal edildi, müşterilere terminale sevkiyat yapmamaları bildirildi.<br>
 5. Liman, Bahreyn'in ana ticari kapısı olarak konteynerli kargo elleçliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/khalifa-bin-salman-port-suspends-operations/"><u>https://www.porttechnology.org/khalifa-bin-salman-port-suspends-operations/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

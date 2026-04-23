@@ -23,9 +23,6 @@ tags: ["Saudi Arabia", "Mawani", "ZATCA", "GCC", "Red Sea", "Jeddah Islamic Port
 3. Bonded warehouse zones provide operational flexibility.<br>
 4. ZATCA is integrating customs and logistics procedures.<br>
 5. Mawani infrastructure is fully ready for the redirected flows.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/al-jasser-unveils-new-corridors-linking-gcc-and-red-sea-ports/"><u>https://www.porttechnology.org/al-jasser-unveils-new-corridors-linking-gcc-and-red-sea-ports/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

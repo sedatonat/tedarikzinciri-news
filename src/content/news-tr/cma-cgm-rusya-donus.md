@@ -56,7 +56,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://shippingwatch.com/carriers/Container/article18798214.ece"><u>https://shippingwatch.com/carriers/Container/article18798214.ece</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

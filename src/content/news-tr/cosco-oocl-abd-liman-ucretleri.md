@@ -85,7 +85,6 @@ Nitekim 14 Ekim’de Çin, <strong>Hanwha Ocean’ın ABD bağlantılı beş iş
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/cosco-oocl-incurred-over-40-million-in-initial-us-port-fees-6103025"><u>https://www.joc.com/article/cosco-oocl-incurred-over-40-million-in-initial-us-port-fees-6103025</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

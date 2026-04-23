@@ -31,9 +31,6 @@ tags:
 3. UNCTAD Genel Sekreter Vekili Pedro Manuel Moreno; ortaklığın iki tarafın güçlerini birleştirdiğini ifade etti.<br>
 4. İşbirliği; SIDS ve LDC ülkelerinde liman modernizasyonu için kapasite oluşturmayı hedefledi.<br>
 5. Dünya filosunun ortalama yaşı 22'ye yaklaşırken yenileme yatırımı çoktaraflı finansman gerektirdi.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://container-news.com/unctad-and-singapore-partner-to-drive-sustainable-maritime-transition/"><u>https://container-news.com/unctad-and-singapore-partner-to-drive-sustainable-maritime-transition/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -40,4 +40,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/panama-canal-delays-transit-restrictions-until-spring/"><u>https://www.porttechnology.org/news/panama-canal-delays-transit-restrictions-until-spring/</u></a></p>

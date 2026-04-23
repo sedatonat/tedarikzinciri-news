@@ -49,7 +49,6 @@ tags:
 <p><br></p>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/shippers-investing-in-data-warehousing-capability-to-increase-software-options-5960783"><u>https://www.joc.com/article/shippers-investing-in-data-warehousing-capability-to-increase-software-options-5960783</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

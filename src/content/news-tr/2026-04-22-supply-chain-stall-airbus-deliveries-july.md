@@ -35,9 +35,6 @@ tags:
 3. <strong>Airbus</strong>; 2025 yıllık 820 teslimat hedefini sürdürüyor &mdash; ikinci yarıya yığılmakta.<br>
 4. <strong>Pratt &amp; Whitney GTF</strong> ve <strong>CFM LEAP</strong>; ana motor sağlayıcıları oluyor.<br>
 5. <strong>Guillaume Faury</strong>; <strong>Airbus CEO</strong>; tedarik zinciri sorunlarının H2&rsquo;ye iteleyeceğini söylüyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42270-supply-chain-woes-stall-airbus-deliveries-in-july"><u>https://www.supplychainbrain.com/articles/42270-supply-chain-woes-stall-airbus-deliveries-in-july</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

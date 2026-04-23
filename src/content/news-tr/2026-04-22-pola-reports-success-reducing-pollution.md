@@ -35,9 +35,6 @@ tags:
 3. 2005&rsquo;ten beri <strong>DPM</strong> %90; <strong>SOx</strong> %98; <strong>NOx</strong> %73 azaltılıyor.<br>
 4. 16 Ekim&rsquo;de <strong>Inventory of Air Emissions</strong> raporu yayınlanıyor.<br>
 5. <strong>San Pedro Bay Port Complex</strong>; küresel olarak en büyük <strong>U.S.</strong> liman kompleksi oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42680-pola-reports-success-in-reducing-pollution"><u>https://www.supplychainbrain.com/articles/42680-pola-reports-success-in-reducing-pollution</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

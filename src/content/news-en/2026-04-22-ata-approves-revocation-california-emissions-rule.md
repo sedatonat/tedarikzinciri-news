@@ -27,9 +27,6 @@ tags: ['ATA', 'California', 'emisyon', 'elektrikli araç', 'Trump', 'EPA', 'Chri
 3. <strong>U.S. Supreme Court</strong> backs fossil fuel companies' right to challenge by a seven-to-two vote on June 20.<br>
 4. <strong>California</strong> mandates only zero-emission vehicle sales by 2035.<br>
 5. <strong>Section 177</strong> states adopt <strong>California</strong> standards—waiver revocation extends to them as well.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42010-ata-approves-revocation-of-calif-emissions-rule"><u>https://www.supplychainbrain.com/articles/42010-ata-approves-revocation-of-calif-emissions-rule</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge via this link.</p>

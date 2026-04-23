@@ -50,7 +50,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/technology/2024/12/18/digital-automatic-coupling-trial-to-start-in-sweden/"><u>https://www.railfreight.com/technology/2024/12/18/digital-automatic-coupling-trial-to-start-in-sweden/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>

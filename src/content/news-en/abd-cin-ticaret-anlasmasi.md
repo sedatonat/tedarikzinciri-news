@@ -92,7 +92,6 @@ This mechanism was also the legal basis for the 2018 trade war.</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/us-china-2020-trade-deal-section-301-investigation/803772/"><u>https://www.supplychaindive.com/news/us-china-2020-trade-deal-section-301-investigation/803772/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Get ERP?" has been published on Google Play Books.</strong></p>

@@ -37,4 +37,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10267-gxo-deploys-500-robots-at-french-dc"><u>https://www.thescxchange.com/articles/10267-gxo-deploys-500-robots-at-french-dc</u></a></p>

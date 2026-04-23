@@ -33,4 +33,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/shanghai-boosts-12-5-million-teu-in-q1/"><u>https://www.porttechnology.org/news/shanghai-boosts-12-5-million-teu-in-q1/</u></a></p>

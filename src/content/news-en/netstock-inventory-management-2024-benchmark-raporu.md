@@ -43,7 +43,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/40514-global-inventory-trends-and-challenges-shaping-smbs"><u>https://www.supplychainbrain.com/articles/40514-global-inventory-trends-and-challenges-shaping-smbs</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>

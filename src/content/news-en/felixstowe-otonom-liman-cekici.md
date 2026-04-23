@@ -55,7 +55,6 @@ as multifaceted improvements.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/port-of-felixstowe-receives-two-of-34-autonomous-trucks/"><u>https://www.porttechnology.org/news/port-of-felixstowe-receives-two-of-34-autonomous-trucks/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/">SedatOnat.com</a></p>
 <p>--------------------</p>

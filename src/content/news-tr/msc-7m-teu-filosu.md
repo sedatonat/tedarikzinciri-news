@@ -59,7 +59,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">MSC’nin ikinci el alımları ve yeni inşa programları sektördeki güç dengelerini değiştiriyor.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://splash247.com/msc-crosses-the-7m-teu-mark/"><u>https://splash247.com/msc-crosses-the-7m-teu-mark/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -92,7 +92,6 @@ Whether Uber Freight will increase its stake in the future remains unclear.</p>
 </ul>
 <p style="text-align: justify"><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/uber-freight-better-trucks-investment-stake-partnership/805331/"><u>https://www.supplychaindive.com/news/uber-freight-better-trucks-investment-stake-partnership/805331/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

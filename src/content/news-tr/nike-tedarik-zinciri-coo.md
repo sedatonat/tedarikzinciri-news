@@ -74,7 +74,6 @@ Bu ifade, Nike’ın teknoloji yatırımlarını artık ayrı bir fonksiyon değ
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/nike-leadership-changes-chief-supply-chain-officer-operations/807188/"><u>https://www.supplychaindive.com/news/nike-leadership-changes-chief-supply-chain-officer-operations/807188/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

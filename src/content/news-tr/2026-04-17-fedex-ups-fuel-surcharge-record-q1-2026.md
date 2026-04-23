@@ -33,9 +33,6 @@ tags:
 3. İran Savaşı ve Hürmüz Boğazı aksaması petrol arzını ve yakıt ücretlerini baskılıyor.<br>
 4. Atlanta-New York 5 paund kara gönderi 2022'ye göre %41,8 daha pahalı.<br>
 5. Mart ekspres yakıt ek ücretleri; 2025 Q1'e göre %46 daha yüksek.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychaindive.com/news/fedex-ups-fuel-surcharge-delivery-cost-increases/817743/"><u>https://www.supplychaindive.com/news/fedex-ups-fuel-surcharge-delivery-cost-increases/817743/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

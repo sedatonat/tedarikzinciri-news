@@ -52,7 +52,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/escalating-tariff-costs-are-massive-financial-shift-for-us-importers-experts-5962308"><u>https://www.joc.com/article/escalating-tariff-costs-are-massive-financial-shift-for-us-importers-experts-5962308</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>
 <p><strong>Our book "How to Get ERP?" has been published on Google Play Books.</strong></p>

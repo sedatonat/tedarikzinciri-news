@@ -22,9 +22,6 @@ tags: ["Konecranes", "E-ACE", "electric empty container handler", "Port of Santo
 3. The order was placed in Q4 2025; delivery is scheduled for Q2 2026.<br>
 4. Transtec World manages eight yards at Santos and handles more than 710,000 containers annually.<br>
 5. The electric ECC series offers zero emissions, lower noise, and operational cost advantages.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/konecranes-deploys-first-electric-handlers-in-americas/"><u>https://www.porttechnology.org/konecranes-deploys-first-electric-handlers-in-americas/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

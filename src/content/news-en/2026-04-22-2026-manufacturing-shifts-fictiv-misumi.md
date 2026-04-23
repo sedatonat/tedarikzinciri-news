@@ -27,9 +27,6 @@ tags: ['Fictiv', 'MISUMI', 'Dave Evans', 'Nate Evans', 'Sankara Narayanan', 'ima
 3. <strong>AI</strong> is becoming foundational to manufacturing operations.<br>
 4. Digital platforms are shifting from optional to essential infrastructure.<br>
 5. <strong>Nick Bowman</strong>, senior editor of <strong>SupplyChainBrain</strong>, is moderating.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43629-the-2026-manufacturing-shifts-you-cant-ignore"><u>https://www.supplychainbrain.com/articles/43629-the-2026-manufacturing-shifts-you-cant-ignore</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book on How to Procure ERP Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

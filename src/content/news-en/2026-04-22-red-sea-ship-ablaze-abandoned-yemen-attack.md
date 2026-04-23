@@ -27,9 +27,6 @@ tags: ['Kızıldeniz', 'Houthi', 'Yemen', 'denizcilik güvenliği', 'UKMTO', 'ID
 3. The <strong>IDF</strong> conducts strikes on <strong>Al Hudaydah</strong>, <strong>Ras Issa</strong>, <strong>Al-Salif</strong> ports, and a power plant the same day.<br>
 4. The <strong>Houthi</strong> militia has been attacking vessels in the Red Sea since October 2023.<br>
 5. <strong>Operation Prosperity Guardian</strong> and <strong>EU Aspides</strong> are the principal protection operations.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42090-red-sea-ship-set-ablaze-abandoned-after-attack-near-yemen"><u>https://www.supplychainbrain.com/articles/42090-red-sea-ship-set-ablaze-abandoned-after-attack-near-yemen</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book is Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free through this link.</p>

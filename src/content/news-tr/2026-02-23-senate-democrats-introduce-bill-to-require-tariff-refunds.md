@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu yasa; <strong>Walmart</strong>, <strong>Target</strong>, <strong>Home Depot</strong>, <strong>Best Buy</strong>, <strong>Apple</strong>, <strong>Nike</strong>, <strong>Hasbro</strong> gibi büyük ithalatçılar için 2018-2025 dönemindeki tarife maliyetlerinin geri kazanımı açısından kritik oluyor. <strong>National Retail Federation</strong> (<strong>NRF</strong>), <strong>U.S. Chamber of Commerce</strong>, <strong>National Association of Manufacturers</strong> (<strong>NAM</strong>) yasayı destekliyordir. <strong>Avrupa Birliği</strong>; <strong>Çin</strong>; <strong>Japonya</strong>; <strong>Hindistan</strong> ile ticaret pazarlıkları; gelecek tarife yapısı; <em>retaliatory tariffs</em> ve <strong>WTO</strong> nezdinde uyuşmazlık süreçleri 2026 boyunca küresel tedarik zinciri risk haritasının üst sıralarında yer alıyordır.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43520-senate-democrats-introduce-bill-to-require-tariff-refunds"><u>https://www.supplychainbrain.com/articles/43520-senate-democrats-introduce-bill-to-require-tariff-refunds</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

@@ -92,7 +92,6 @@ Bu da anlaşmanın <strong>kalıcı olmadığı</strong>, ancak kısa vadeli tan
 </ul>
 <p style="text-align: justify"><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/us-china-trade-truce-donald-trump-xi-jinping-apec/804233/"><u>https://www.supplychaindive.com/news/us-china-trade-truce-donald-trump-xi-jinping-apec/804233/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

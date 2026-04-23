@@ -37,4 +37,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.thescxchange.com/articles/10328-survey-pallet-market-is-beginning-a-gradual-recovery"><u>https://www.thescxchange.com/articles/10328-survey-pallet-market-is-beginning-a-gradual-recovery</u></a></p>

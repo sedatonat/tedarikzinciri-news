@@ -81,7 +81,6 @@ The new Bratislava–Venice–China link is seen as one of the first concrete st
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/beltandroad/2025/10/31/volkswagen-launches-slovakia-italy-china-intermodal-service/"><u>https://www.railfreight.com/beltandroad/2025/10/31/volkswagen-launches-slovakia-italy-china-intermodal-service/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

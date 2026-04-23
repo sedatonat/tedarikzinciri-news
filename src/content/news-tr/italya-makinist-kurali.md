@@ -61,7 +61,6 @@ Bu sayede İtalyan operatörler, özellikle <strong>Avrupa’nın kuzey-güney y
 </ul>
 <p style="text-align: justify"><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/policy/2025/10/24/the-single-driver-rule-in-italy-is-an-epochal-shift/"><u>https://www.railfreight.com/policy/2025/10/24/the-single-driver-rule-in-italy-is-an-epochal-shift/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

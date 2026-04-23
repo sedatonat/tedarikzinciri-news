@@ -37,8 +37,7 @@ tags:
 5. <strong>Strategic petroleum reserves</strong> and <strong>OPEC+</strong> coordination can only partially offset the potential loss.</p>
 <p>Source:<br>
 ---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43869-iea-warns-european-flights-may-be-cancelled-due-to-fuel-shortage"><u>https://www.supplychainbrain.com/articles/43869-iea-warns-european-flights-may-be-cancelled-due-to-fuel-shortage</u></a><br>
--------------------</p>
+</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

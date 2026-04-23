@@ -32,4 +32,3 @@ tags:
   <li><p>Çalışanların yaşadığı korku anları, telefon kameralarına yansıdı.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.netgaste.com/video/19590087/evyapport-limaninda-dehset-anlari"><u>https://www.netgaste.com/video/19590087/evyapport-limaninda-dehset-anlari</u></a></p>

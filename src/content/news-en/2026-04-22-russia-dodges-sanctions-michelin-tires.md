@@ -27,9 +27,6 @@ tags: ['Russia', 'Michelin', 'yaptırım', 'Ukraine', 'ESCU', 'Guardian', 'diver
 3. 2023: 28 million dollars; October 2024-March 2025: 2,687 tires valued at $7M+.<br>
 4. <strong>ESCU</strong> records expose intermediary chain including a <strong>U.K.</strong> intermediary.<br>
 5. <strong>Michelin</strong> is adapting tracking systems but products continue to flow through.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43060-russia-dodges-sanctions-to-import-michelin-tires"><u>https://www.supplychainbrain.com/articles/43060-russia-dodges-sanctions-to-import-michelin-tires</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

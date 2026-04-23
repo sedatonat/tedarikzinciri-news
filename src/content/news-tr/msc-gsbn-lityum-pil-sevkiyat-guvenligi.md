@@ -37,4 +37,3 @@ tags:
   <li><p><a href="https://en.wikipedia.org/wiki/Hapag-Lloyd"><u>Hapag-Lloyd</u></a>, <a href="https://en.wikipedia.org/wiki/Global_shipping_network"><u>GSBN</u></a>’in elektronik konşimento (eBL) çözümünü benimsiyor ve 2030 yılına kadar %100 elektronik konşimento hedefliyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10176-msc-improves-lithium-battery-shipping-safety-through-deal-with-gsbn"><u>https://www.thescxchange.com/articles/10176-msc-improves-lithium-battery-shipping-safety-through-deal-with-gsbn</u></a></p>

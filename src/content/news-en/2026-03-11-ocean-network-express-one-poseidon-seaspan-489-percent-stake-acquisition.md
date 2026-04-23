@@ -21,9 +21,6 @@ tags: ["Ocean Network Express", "ONE", "Seaspan", "Poseidon Corp", "containershi
 3. ONE CEO Jeremy Nixon linked the move to the ONE 2030 strategic growth plan.<br>
 4. Seaspan leases ships to operating lines under long-term charter contracts.<br>
 5. ONE recently enhanced its West Coast South America (AX4) service, expanding its Latin America-Asia network.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/one-expands-investment-in-seaspans-parent-company/"><u>https://www.porttechnology.org/one-expands-investment-in-seaspans-parent-company/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

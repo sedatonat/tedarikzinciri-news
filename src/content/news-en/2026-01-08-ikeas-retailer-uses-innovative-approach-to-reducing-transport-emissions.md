@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, IKEA's multi-modal last-mile approach offers a particularly relevant template for Europe's dense urban centers. Trellis reports in its "Chasing Net Zero" series that at least half of the world's biggest retailers don't have a formal net-zero target at all. <strong>Walmart</strong>, often cited as a pioneer in supply chain decarbonization, is itself struggling to deliver on its own short-term emissions goals. IKEA's ability to scale a river-transport-plus-EV combination represents a critical reference point for the broader retail sector.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43097-ikeas-retailer-uses-innovative-approach-to-reducing-transport-emissions"><u>https://www.supplychainbrain.com/articles/43097-ikeas-retailer-uses-innovative-approach-to-reducing-transport-emissions</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

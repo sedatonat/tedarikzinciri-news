@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">İade sahtekarlığının daha karmaşık ve yaygın hale gelmesine yol açıyor olan bir dizi faktör bulunuyor. <em>Wardrobing</em> — bir tüketicinin ürünü kullanıp ardından geri gönderiyor olduğu uygulama — uç noktalara taşınıyor. Etkileyici (influencer) kültürü buna katkıda bulunuyor; aynı zamanda kişisel finansları sıkıştırmakta olan zorlu ekonomik koşullar da rol oynuyor. Tüketiciler; en son moda kıyafetleri giymek ve aynı kombini tekrar etmemek için baskı hissediyor; ancak bu her zaman karşılanabiliyor olmuyor. Tedarik zinciri perspektifinden bakıldığında perakendeciler; kimlik doğrulama, dönüş davranışı analitiği ve <em>condition-based grading</em> süreçlerine yatırım yapmadıkları sürece tersine lojistik maliyetlerini sürdürülebilir kılamayacak.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43250-why-returns-fraud-is-a-top-priority-for-reverse-logistics-in-2026"><u>https://www.supplychainbrain.com/articles/43250-why-returns-fraud-is-a-top-priority-for-reverse-logistics-in-2026</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

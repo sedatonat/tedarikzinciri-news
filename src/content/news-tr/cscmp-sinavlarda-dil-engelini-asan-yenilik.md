@@ -28,4 +28,3 @@ tags:
   <li><p>Özellik, adayların sınav esnasında daha fazla güven ve anlayış kazanmalarına yardımcı oluyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10456-cscmp-launches-instant-translate-feature-for-scpro-exams"><u>https://www.thescxchange.com/articles/10456-cscmp-launches-instant-translate-feature-for-scpro-exams</u></a></p>

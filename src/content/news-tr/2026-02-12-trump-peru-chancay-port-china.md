@@ -36,9 +36,6 @@ tags:
 3. Liman; <strong>Cosco Shipping Ports</strong> tarafından işletiliyor.<br>
 4. Yerel mahkeme, <strong>Ositran</strong>&rsquo;ın <strong>Chancay</strong> üzerinde denetim yetkisi bulunmuyor olduğuna hükmediyor.<br>
 5. <strong>China</strong>, <strong>Peru</strong>&rsquo;nun en büyük ticaret ortağı oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43461-trump-administration-warns-peru-that-a-chinese-port-is-costing-its-sovereignty"><u>https://www.supplychainbrain.com/articles/43461-trump-administration-warns-peru-that-a-chinese-port-is-costing-its-sovereignty</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

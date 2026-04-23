@@ -74,7 +74,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The system operates <strong>semi-autonomously</strong> under human supervision.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://en.portnews.ru/news/385628/"><u>https://en.portnews.ru/news/385628/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

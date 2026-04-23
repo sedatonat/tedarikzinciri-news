@@ -27,9 +27,6 @@ tags: ['Hindistan', 'Çin', 'IndiGo', 'Bloomberg', 'doğrudan uçuş', 'BRICS', 
 3. <strong>IndiGo</strong> launching daily <strong>China</strong> service from October 26.<br>
 4. Flights remained suspended following 2020 <strong>Galwan Valley</strong> border clash.<br>
 5. <strong>China-India</strong> normalization amid <strong>Trump</strong> tariffs environment.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42620-india-china-to-start-direct-flights-as-ties-warm"><u>https://www.supplychainbrain.com/articles/42620-india-china-to-start-direct-flights-as-ties-warm</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>

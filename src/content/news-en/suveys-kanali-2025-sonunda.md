@@ -44,7 +44,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/suez-canal-to-reopen-by-late-2025-drewry-survey"><u>https://www.supplychain247.com/article/suez-canal-to-reopen-by-late-2025-drewry-survey</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Implement ERP?" Has Been Published on Google Play Books.</strong></p>

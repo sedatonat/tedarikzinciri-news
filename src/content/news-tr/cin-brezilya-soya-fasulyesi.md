@@ -71,7 +71,6 @@ ABD soya fasulyesi satın alacağını duyurdu.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/chinese-buyers-purchase-brazilian-soybeans-as-prices-ease-over-us-china-trade-thaw/"><u>https://gcaptain.com/chinese-buyers-purchase-brazilian-soybeans-as-prices-ease-over-us-china-trade-thaw/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

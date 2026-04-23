@@ -96,7 +96,6 @@ The argument:</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/shippers-split-as-gemini-floats-premium-charge-on-reliability-6118881"><u>https://www.joc.com/article/shippers-split-as-gemini-floats-premium-charge-on-reliability-6118881</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

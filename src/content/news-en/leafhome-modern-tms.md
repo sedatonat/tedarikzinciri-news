@@ -86,7 +86,6 @@ from a single dashboard.</p></li>
 </ul>
 <p style="text-align: justify"><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.supplychainbrain.com/articles/42743-transforming-the-complex-supply-chain-with-a-modern-tms"><u>https://www.supplychainbrain.com/articles/42743-transforming-the-complex-supply-chain-with-a-modern-tms</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

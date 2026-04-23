@@ -35,9 +35,6 @@ tags:
 3. <strong>House</strong> yasa tasarısı; <strong>Section 45X</strong> üretim kredisini 2031&rsquo;de sona erdirmekte.<br>
 4. <strong>Chinese component</strong> kısıtlamaları; kredileri etkisiz hale getirebiliyor.<br>
 5. <strong>IRA</strong> (<strong>Joe Biden</strong>); EV tedarik zinciri için yaratılıyor oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41870-ford-says-michigan-battery-plant-at-risk-if-tax-credits-are-cut"><u>https://www.supplychainbrain.com/articles/41870-ford-says-michigan-battery-plant-at-risk-if-tax-credits-are-cut</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

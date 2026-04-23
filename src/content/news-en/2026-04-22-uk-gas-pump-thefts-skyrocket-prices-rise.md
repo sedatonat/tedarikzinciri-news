@@ -28,9 +28,6 @@ tags: ['Birleşik Krallık', 'yakıt hırsızlığı', 'Iran savaşı', 'Pay My 
 3. Family car fill-up cost is up £14; diesel tank up £27.<br>
 4. Abuse of pump workers is also rising; the <strong>U.K. Petrol Retailers Association</strong> has clashed with government.<br>
 5. The <strong>U.K.</strong> government states fuel thieves will face the "full force of the law".</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43897-uk-gas-pump-thefts-skyrocket-as-prices-rise"><u>https://www.supplychainbrain.com/articles/43897-uk-gas-pump-thefts-skyrocket-as-prices-rise</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Purchase ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

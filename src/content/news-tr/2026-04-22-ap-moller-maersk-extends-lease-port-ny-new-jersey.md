@@ -35,9 +35,6 @@ tags:
 3. Süper <strong>post-Panamax</strong> vinçler; 23 konteyner genişliğine kadar gemileri işliyor.<br>
 4. <strong>Port of NY/NJ</strong>; ABD doğu yakası en büyük konteyner limanı oluyor.<br>
 5. <strong>APM Terminals</strong>; <strong>Maher</strong>; <strong>PNCT</strong>; <strong>GCT</strong>; ana liman terminal işletmecileri oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41420-ap-moller-maersk-extends-lease-at-port-of-ny-and-new-jersey"><u>https://www.supplychainbrain.com/articles/41420-ap-moller-maersk-extends-lease-at-port-of-ny-and-new-jersey</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

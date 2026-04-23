@@ -124,7 +124,6 @@ Büyük satın almalar (özellikle <strong>WiseTech–E2open</strong>) tedarik z
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://castleplacement.com/top-10-supply-chain-tech-capital-raises-and-investors-in-the-u-s-july-16th-august-31st-2025/"><u>https://castleplacement.com/top-10-supply-chain-tech-capital-raises-and-investors-in-the-u-s-july-16th-august-31st-2025/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

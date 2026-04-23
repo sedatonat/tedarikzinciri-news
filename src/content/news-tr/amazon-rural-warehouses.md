@@ -30,10 +30,6 @@ tags:
 3. AI planning stok yerleşimini optimize eder.<br>
 4. Yerel istihdamda pozitif etki beklenir.<br>
 5. Kırsal pazarlarda e-ticaret yaygınlaşır.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41666-amazon-plans-to-build-dozens-of-us-warehouses-in-rural-expansion"><u>https://www.supplychainbrain.com/articles/41666-amazon-plans-to-build-dozens-of-us-warehouses-in-rural-expansion</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

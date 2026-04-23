@@ -78,7 +78,6 @@ Küresel ölçekte artan <strong>liman yoğunluğu, grev riskleri ve enerji taş
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/port-of-antwerp-bruges-hit-by-post-strike-vessel-backlog/"><u>https://www.porttechnology.org/news/port-of-antwerp-bruges-hit-by-post-strike-vessel-backlog/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

@@ -54,7 +54,6 @@ tags:
 </ul>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://splash247.com/study-finds-dramatic-ghg-cuts-brought-by-improved-port-optimisation/"><u>https://splash247.com/study-finds-dramatic-ghg-cuts-brought-by-improved-port-optimisation/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

@@ -35,9 +35,6 @@ tags:
 3. <strong>Modelo</strong>; <strong>Constellation Brands</strong> ürünü; ABD bira pazar lideri oluyor.<br>
 4. <strong>USMCA</strong> kapsamlı ürünlerde 30 gün ek erteleme oluyor.<br>
 5. <strong>Mexico</strong> <strong>Sheinbaum</strong>; <strong>Canada</strong> <strong>Carney</strong>; ana karşılık liderlikleri oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41310-us-import-tariffs-will-drive-up-prices-experts-say"><u>https://www.supplychainbrain.com/articles/41310-us-import-tariffs-will-drive-up-prices-experts-say</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

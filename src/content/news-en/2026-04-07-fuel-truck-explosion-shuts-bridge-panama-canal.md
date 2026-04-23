@@ -28,9 +28,6 @@ tags: ['Panama Kanalı', 'Bridge of the Americas', 'yakıt tankeri patlaması', 
 3. The structural integrity of the 60-year-old bridge is being evaluated through concrete and metal inspections.<br>
 4. <strong>Mulino</strong> expects operations to return to normal in the shortest possible time.<br>
 5. The <strong>Centennial Bridge</strong> and <strong>Atlantic Bridge</strong> serve as temporary alternative passage options.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43805-fuel-truck-explosion-shuts-down-bridge-over-panama-canal"><u>https://www.supplychainbrain.com/articles/43805-fuel-truck-explosion-shuts-down-bridge-over-panama-canal</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book is Now Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

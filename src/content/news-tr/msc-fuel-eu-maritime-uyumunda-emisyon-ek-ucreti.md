@@ -42,7 +42,6 @@ tags:
   <li><p>Emisyon ek ücreti, müşterilerin dekarbonizasyon maliyetlerine katkıda bulunmasını sağlayacak.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/msc-responds-to-fueleu-maritime-with-new-emissions-surcharge/"><u>https://www.porttechnology.org/news/msc-responds-to-fueleu-maritime-with-new-emissions-surcharge/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

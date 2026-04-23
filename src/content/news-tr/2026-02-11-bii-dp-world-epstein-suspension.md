@@ -36,9 +36,6 @@ tags:
 3. İddialar, <strong>DP World CEO Sultan Ahmed bin Sulayem</strong>&rsquo;in <strong>Epstein</strong> ile yazışmalarına dayanıyor.<br>
 4. <strong>BII</strong> ile <strong>DP World</strong>&rsquo;ün <strong>African platform</strong>&rsquo;u, <strong>Senegal</strong>, <strong>Egypt</strong> ve <strong>Somaliland</strong>&rsquo;daki limanları kapsıyor.<br>
 5. <strong>BII</strong>; iş dürüstlüğü ile cinsiyet eşitliğini etki yatırımı önceliği olarak tanımlıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43456-second-firm-suspends-deals-with-dp-world-over-epstein-files"><u>https://www.supplychainbrain.com/articles/43456-second-firm-suspends-deals-with-dp-world-over-epstein-files</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

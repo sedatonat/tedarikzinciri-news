@@ -66,7 +66,6 @@ yer alıyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/infrastructure/2025/11/10/bulgaria-and-north-macedonia-sign-official-agreement-for-first-railway-border-crossing/"><u>https://www.railfreight.com/infrastructure/2025/11/10/bulgaria-and-north-macedonia-sign-official-agreement-for-first-railway-border-crossing/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

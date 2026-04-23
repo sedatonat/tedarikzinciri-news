@@ -43,7 +43,6 @@ tags:
   <li><p>Partnership provides capital and distribution synergies.</p></li>
 </ul>
 <p>--------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42443-daimler-truck-said-to-seek-partner-for-self-driving-unit-torc"><u>https://www.supplychainbrain.com/articles/42443-daimler-truck-said-to-seek-partner-for-self-driving-unit-torc</u></a></p>
 <p>--------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>

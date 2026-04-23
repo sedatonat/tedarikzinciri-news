@@ -31,4 +31,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p>Haber Linki: <a href="https://www.railfreight.com/railfreight/2024/06/07/poor-reliability-of-russian-rail-network-pushes-shippers-onto-trucks/"><u>https://www.railfreight.com/railfreight/2024/06/07/poor-reliability-of-russian-rail-network-pushes-shippers-onto-trucks/</u></a></p>

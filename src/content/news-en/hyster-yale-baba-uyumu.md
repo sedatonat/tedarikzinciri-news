@@ -58,7 +58,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.porttechnology.org/news/hyster-yale-commits-to-baba-requirements-for-its-equipment/"><u>https://www.porttechnology.org/news/hyster-yale-commits-to-baba-requirements-for-its-equipment/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book is Published on Google Play Books.</strong></p>

@@ -38,4 +38,3 @@ tags:
   <li><p>Yazılım, sözleşme yönetimi ve veri analizi gibi önemli işlevleri otomatikleştirerek, kullanıcıların iş yükünü hafifletir.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.thescxchange.com/articles/10338-ai-co-pilot-can-guide-untrained-users-through-procurement-applications"><u>https://www.thescxchange.com/articles/10338-ai-co-pilot-can-guide-untrained-users-through-procurement-applications</u></a></p>

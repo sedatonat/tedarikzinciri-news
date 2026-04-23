@@ -31,4 +31,3 @@ tags:
   <li><p><strong>Uluslararası İlişkiler ve İtibar</strong>: Türk bayrağını taşıyan Gözde Bayraktar Gemisi'nin bu seferi, Türkiye'nin uluslararası ticaretteki itibarını ve güvenilirliğini artırabilir.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.lojiport.com/giresun-limaninda-ilk-konteyner-tasimaciligi-heyecani-115954h.htm"><u>https://www.lojiport.com/giresun-limaninda-ilk-konteyner-tasimaciligi-heyecani-115954h.htm</u></a></p>

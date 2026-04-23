@@ -34,4 +34,3 @@ tags:
   <li><p>Global e-commerce market exceeding 6 trillion dollars in 2023 and growth of Turkey's e-commerce sector.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.lojiport.com/deportak-gri-depolarla-uygun-fiyata-genis-mekanlar-sunuyor-116362h.htm"><u>https://www.lojiport.com/deportak-gri-depolarla-uygun-fiyata-genis-mekanlar-sunuyor-116362h.htm</u></a></p>

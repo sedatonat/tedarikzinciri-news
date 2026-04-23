@@ -104,7 +104,6 @@ With major buyers like India changing course, <strong>long routes stretching fro
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://splash247.com/trump-hits-rosneft-and-lukoil-with-sanctions/"><u>https://splash247.com/trump-hits-rosneft-and-lukoil-with-sanctions/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Drone teslimatın 270 lokasyona kadar ölçekleniyor olunması; <strong>FAA</strong> tarafından düzenleniyor olan <strong>Beyond Visual Line of Sight (BVLOS)</strong> izinlerinin operasyonel altyapıya entegrasyonunun da hızlanması anlamına geliyor. Tedarik zinciri perspektifinden bakıldığında <strong>Amazon Prime Air</strong> ve <strong>Zipline</strong> gibi rakiplerin de paralel ölçek arayışında oluyor olması; son mil maliyet yapısında geleneksel kuryecilik modelinin ekonomik üstünlüğünü uzun vadede sorgulanır hâle getiriyor. <strong>UPS</strong>, <strong>FedEx</strong> ve <strong>USPS</strong>; B2C son mil paylarını korumak için drone iş ortaklıklarını gündemlerinde tutmak zorunda kalıyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43185-walmart-looks-to-expand-drone-deliveries-to-150-stores-in-2026"><u>https://www.supplychainbrain.com/articles/43185-walmart-looks-to-expand-drone-deliveries-to-150-stores-in-2026</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

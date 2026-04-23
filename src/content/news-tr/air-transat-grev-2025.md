@@ -64,7 +64,6 @@ Sendika, eğer uçuş iptalleri ve yolcu mağduriyetleri yaşanırsa bunun sorum
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42951-canadian-airline-says-it-will-suspend-flights-in-response-to-strike-threat"><u>https://www.supplychainbrain.com/articles/42951-canadian-airline-says-it-will-suspend-flights-in-response-to-strike-threat</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -37,4 +37,3 @@ tags:
   <li><p>Uluslararası akışlar, ulusal akışlardan daha küçük olmasına rağmen, global bağlantılılığın dayanıklılığı vurgulanıyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/9961-dhl-says-globalization-expands-despite-geopolitical-and-policy-headwinds"><u>https://www.thescxchange.com/articles/9961-dhl-says-globalization-expands-despite-geopolitical-and-policy-headwinds</u></a></p>

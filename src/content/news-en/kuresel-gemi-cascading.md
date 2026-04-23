@@ -48,7 +48,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The process is being evaluated as permanent rather than temporary <strong>capacity redistribution</strong></p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://en.portnews.ru/news/385740/"><u>https://en.portnews.ru/news/385740/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

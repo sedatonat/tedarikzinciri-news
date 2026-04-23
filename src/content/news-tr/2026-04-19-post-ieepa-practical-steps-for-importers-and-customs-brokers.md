@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında Trump Yönetimi; ek tarifeler getirmek üzere diğer takdiri ticaret yetkilerini araştırıyor; <strong>1974 Ticaret Yasası</strong>'nın Section 122 kapsamında geçici yüzde 10'luk küresel tarifeyi hızla uyguluyor dahil. Önümüzdeki dönemde ülke bazlı IEEPA çerçevesinden çıkış; <strong>customs broker</strong> tarafından yönetiliyor olan <strong>protest filing</strong>, <strong>post summary correction (PSC)</strong> ve <strong>refund tracking</strong> süreçlerinin acil olarak operasyonel hâle getirilmesini gerektiriyor. <strong>SAP GTS</strong>, <strong>Oracle GTM</strong>, <strong>E2open</strong> ve <strong>Descartes</strong> kullanıcıları; HTS bazlı yeni tarife matrislerini master data düzeyinde güncellemek zorunda kalıyor.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/43887-post-ieepa-practical-steps-for-importers-and-customs-brokers"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/43887-post-ieepa-practical-steps-for-importers-and-customs-brokers</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

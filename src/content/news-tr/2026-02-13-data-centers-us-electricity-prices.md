@@ -36,9 +36,6 @@ tags:
 3. Önümüzdeki on yıl içinde talep büyümesinin %40&rsquo;ı veri merkezlerinden geliyor.<br>
 4. Hane elektrik fiyatlarının 2027&rsquo;ye kadar %6 daha artıyor olduğu bekleniyor.<br>
 5. <strong>Goldman Sachs</strong>, <strong>AI</strong>&rsquo;nın 2030&rsquo;a kadar veri merkezi güç talebini %160 artırıyor olacağını öngörüyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43470-data-centers-fuel-surge-in-us-electricity-prices"><u>https://www.supplychainbrain.com/articles/43470-data-centers-fuel-surge-in-us-electricity-prices</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

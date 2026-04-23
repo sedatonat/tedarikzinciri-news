@@ -44,7 +44,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.thescxchange.com/articles/10821-toyota-picks-vendor-to-control-smokestack-emissions-from-its-ro-ro-ships"><u>https://www.thescxchange.com/articles/10821-toyota-picks-vendor-to-control-smokestack-emissions-from-its-ro-ro-ships</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

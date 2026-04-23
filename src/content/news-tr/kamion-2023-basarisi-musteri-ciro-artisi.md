@@ -24,4 +24,3 @@ tags:
 <p><br></p>
 <p>Kamion, 2024 yılında Türkiye’deki tedarikçilerin %10'unu mobil uygulamaya taşımayı ve uluslararası karayolu taşımacılığında yeni operasyon merkezleri kurmayı planlıyor</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.lojistikhatti.com/haber/2023/12/kamion-2023u-musteri-sayisinda-2-ciroda-3-kat-artis-ile-kapatiyor"><u>https://www.lojistikhatti.com/haber/2023/12/kamion-2023u-musteri-sayisinda-2-ciroda-3-kat-artis-ile-kapatiyor</u></a></p>

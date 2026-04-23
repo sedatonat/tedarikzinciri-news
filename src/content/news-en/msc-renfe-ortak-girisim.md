@@ -42,7 +42,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/business/2024/12/24/msc-and-renfe-sign-preliminary-agreement-on-joint-rail-venture/"><u>https://www.railfreight.com/business/2024/12/24/msc-and-renfe-sign-preliminary-agreement-on-joint-rail-venture/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>

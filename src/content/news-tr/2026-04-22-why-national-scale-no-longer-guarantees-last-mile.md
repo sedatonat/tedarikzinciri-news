@@ -36,9 +36,6 @@ tags:
 3. <strong>Asset-light</strong> ağlar ve akıllı yönlendirme; yeni nesil çözüm oluyor.<br>
 4. Bölgesel taşıyıcılar; uzmanlaşma ile devleri performansta geçiyor.<br>
 5. Teknoloji tabanlı bölgesel ağlar; güvenilirliği yeniden tanımlıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43566-why-national-scale-no-longer-guarantees-last-mile-success"><u>https://www.supplychainbrain.com/articles/43566-why-national-scale-no-longer-guarantees-last-mile-success</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

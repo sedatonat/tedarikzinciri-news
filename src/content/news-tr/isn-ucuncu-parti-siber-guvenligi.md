@@ -38,7 +38,6 @@ tags:
   <li><p>Asgari yetki ilkesi veri paylaşımını güvenli kılıyordır.</p></li>
 </ul>
 <p>--------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42439-isn-launches-enhanced-ability-to-manage-third-party-cybersecurity-oversight"><u>https://www.supplychainbrain.com/articles/42439-isn-launches-enhanced-ability-to-manage-third-party-cybersecurity-oversight</u></a></p>
 <p>--------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

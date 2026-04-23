@@ -41,4 +41,3 @@ tags:
   <li><p>U.S. and U.K. strikes against Houthi targets in Yemen occurred shortly after Tesla's announcement.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/38849-tesla-halts-berlin-factory-operations-due-to-red-sea-disruptions"><u>https://www.supplychainbrain.com/articles/38849-tesla-halts-berlin-factory-operations-due-to-red-sea-disruptions</u></a></p>

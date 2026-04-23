@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, EU officials framed the agreement as a strategic necessity to counterbalance growing geopolitical and supply chain volatility, particularly as <strong>Trump</strong> administration tariffs have rattled economies and strained trade relationships with key partners across the globe. The deal grants Indian giants such as <strong>Tata</strong>, <strong>Reliance</strong>, <strong>Mahindra</strong>, <strong>Wipro</strong> and <strong>Infosys</strong> expanded European market access, while opening a more competitive gateway to India&rsquo;s 1.4 billion consumers for European players including <strong>Volkswagen</strong>, <strong>Stellantis</strong>, <strong>Mercedes-Benz</strong>, <strong>L&rsquo;Oréal</strong> and <strong>BASF</strong>. It places <strong>India</strong> firmly at the center of <strong>China+1</strong> diversification strategies &mdash; with European-bound container traffic through major ports such as <strong>Mumbai</strong>, <strong>Chennai</strong>, <strong>Mundra</strong> and <strong>JNPT</strong> expected to rise sharply over the 2026&ndash;2030 period.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43350-india-and-eu-reach-mother-of-all-deals-with-free-trade-pact"><u>https://www.supplychainbrain.com/articles/43350-india-and-eu-reach-mother-of-all-deals-with-free-trade-pact</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

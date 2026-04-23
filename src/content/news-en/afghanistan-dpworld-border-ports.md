@@ -81,7 +81,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Investment amount and timeline have <strong>not yet been disclosed</strong>.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://en.portnews.ru/news/385489/"><u>https://en.portnews.ru/news/385489/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

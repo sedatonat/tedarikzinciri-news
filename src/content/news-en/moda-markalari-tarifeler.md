@@ -42,7 +42,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/fashion-brands-navigate-tariffs-paul-magel-computer-generated-solutions"><u>https://www.supplychain247.com/article/fashion-brands-navigate-tariffs-paul-magel-computer-generated-solutions</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Purchase an ERP? Our Book is Published on Google Play Books.</strong></p>

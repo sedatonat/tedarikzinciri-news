@@ -25,4 +25,3 @@ tags:
 <p><br></p>
 <p>Diğer denizcilik şirketlerinin hisseleri de değer kaybetti. ABD liderliğindeki askeri operasyonun gemilere koruma sağlaması planlanırken, Maersk ve diğer firmalar, güvenliği sürekli değerlendirip rotalarını buna göre ayarlıyor.</p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.reuters.com/world/middle-east/maersk-schedules-dozens-vessels-travel-via-suez-canal-2023-12-27/"><u>https://www.reuters.com/world/middle-east/maersk-schedules-dozens-vessels-travel-via-suez-canal-2023-12-27/</u></a></p>

@@ -35,9 +35,6 @@ tags:
 3. Hava modellemesi <strong>TMS</strong>&rsquo;ye entegre ediliyor &mdash; hiperlokal tahminler.<br>
 4. Lojistik şirketleri; sevkiyatları dinamik olarak yeniden yönlendiriyor.<br>
 5. Sürücü güvenliği ve alternatif rotalar; ana operasyonel kazanç oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41760-minimizing-the-risks-associated-with-extreme-weather"><u>https://www.supplychainbrain.com/articles/41760-minimizing-the-risks-associated-with-extreme-weather</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

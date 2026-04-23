@@ -27,9 +27,6 @@ tags: ['ticaret savaşı', 'tarife', 'Trump', 'Ray Grove', 'proaktif', 'HTS', 'F
 3. <strong>Tariff engineering</strong>, FTZ, FTA optimization; are key proactive tools.<br>
 4. <strong>Section 232</strong>, <strong>Section 301</strong>, <strong>IEEPA</strong>; are key trade authority statutes.<br>
 5. <strong>USTR</strong>, <strong>Commerce</strong>, <strong>USITC</strong>; are key federal authorities.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41530-how-a-strong-offense-is-the-best-defense-in-a-global-trade-war"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41530-how-a-strong-offense-is-the-best-defense-in-a-global-trade-war</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book Is Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge via this link.</p>

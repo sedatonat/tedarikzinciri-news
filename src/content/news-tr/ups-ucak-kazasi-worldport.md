@@ -87,7 +87,6 @@ NTSB’nin soruşturmasının haftalar sürmesi bekleniyor.</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/ups-plane-crash-louisville-shipping-delay-impact/804721/"><u>https://www.supplychaindive.com/news/ups-plane-crash-louisville-shipping-delay-impact/804721/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

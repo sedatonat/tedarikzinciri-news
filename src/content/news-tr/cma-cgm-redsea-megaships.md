@@ -80,7 +80,6 @@ için kullanılıyor.</p></li>
 </ul>
 <p style="text-align: justify"><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/cma-cgm-alliance-megaships-test-red-sea-waters-on-return-to-asia-6105787"><u>https://www.joc.com/article/cma-cgm-alliance-megaships-test-red-sea-waters-on-return-to-asia-6105787</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

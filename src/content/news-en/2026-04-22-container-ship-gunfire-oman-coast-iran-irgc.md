@@ -21,9 +21,6 @@ tags: ["EPAMINONDAS", "Iran", "IRGC", "Oman", "UKMTO", "container shipping", "ma
 3. The vessel is managed by Greek operator Technomar and was running under an A.P. Moeller-Maersk charter.<br>
 4. No crew injuries were reported; the master notified UKMTO immediately.<br>
 5. The event underscores intensifying security risks for commercial shipping in and around the Strait of Hormuz.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://container-news.com/container-ship-hit-by-gunfire-off-oman-coast/"><u>https://container-news.com/container-ship-hit-by-gunfire-off-oman-coast/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

@@ -45,7 +45,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/traffic_jams_cause_108_billion_in_wasted_trucking_costs_atri_estimate_says"><u>https://www.supplychain247.com/article/traffic_jams_cause_108_billion_in_wasted_trucking_costs_atri_estimate_says</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>
 <p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>

@@ -28,9 +28,6 @@ tags: ['Çin imalat', 'Unusual Machines', 'Allan Evans', 'drone', 'CHIPS Act', '
 3. The <strong>U.S.</strong> operates on a "<strong>contractual</strong>" workforce model; <strong>China</strong> operates on a "<strong>cultural</strong>" one.<br>
 4. Supplier density remains one of <strong>China</strong>'s enduring advantages.<br>
 5. The <strong>CHIPS Act</strong> and automation enable the <strong>U.S.</strong> to compete.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43871-do-chinese-manufacturers-still-have-an-edge-over-americans"><u>https://www.supplychainbrain.com/articles/43871-do-chinese-manufacturers-still-have-an-edge-over-americans</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Procure an ERP System?" Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

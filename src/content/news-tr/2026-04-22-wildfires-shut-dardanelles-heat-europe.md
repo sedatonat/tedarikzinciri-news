@@ -34,9 +34,6 @@ tags:
 3. Çanakkale ilinde 2.900 sakin tahliye ediliyor &mdash; <strong>Anadolu Ajansı</strong> raporluyor.<br>
 4. <strong>Mediterranean basin</strong>; küresel ortalamaya göre %20 daha hızlı ısınmakta.<br>
 5. <strong>Spain</strong>; <strong>Greece</strong>; <strong>Portugal</strong>; <strong>Italy</strong>; <strong>France</strong>; <strong>Türkiye</strong>; ana 2025 yangın etkileniyor ülkeler oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42310-wildfires-briefly-shut-dardanelles-as-heat-blasts-europe"><u>https://www.supplychainbrain.com/articles/42310-wildfires-briefly-shut-dardanelles-as-heat-blasts-europe</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

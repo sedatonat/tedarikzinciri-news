@@ -46,7 +46,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/china-delivers-arctic-capable-research-vessel-expanding-polar-presence/"><u>https://gcaptain.com/china-delivers-arctic-capable-research-vessel-expanding-polar-presence/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book is published on Google Play Books.</strong></p>

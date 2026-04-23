@@ -34,4 +34,3 @@ tags:
   <li><p>Manufacturing will take place at Renault Group's Sandouville facility and will employ 550 personnel over the coming four years.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.porttechnology.org/news/cma-cgm-renault-volvo-commences-operations-for-electric-van-venture/"><u>https://www.porttechnology.org/news/cma-cgm-renault-volvo-commences-operations-for-electric-van-venture/</u></a></p>

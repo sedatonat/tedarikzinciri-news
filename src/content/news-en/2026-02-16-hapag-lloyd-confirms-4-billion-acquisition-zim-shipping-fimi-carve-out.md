@@ -23,9 +23,6 @@ tags: ["Hapag-Lloyd", "ZIM", "satın alma", "FIMI Opportunity Funds", "Golden Sh
 3. FIMI Opportunity Funds will take over a carved-out 16-vessel container liner business retaining the ZIM brand and Golden Share.<br>
 4. The structure addresses regulatory concerns about preserving Israel-flagged maritime shipping capacity.<br>
 5. Closing is subject to regulatory approvals and shareholder votes, expected in the second half of 2026.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/hapag-lloyd-confirms-4-billion-acquisition-of-zim-shipping/"><u>https://www.porttechnology.org/hapag-lloyd-confirms-4-billion-acquisition-of-zim-shipping/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

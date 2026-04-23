@@ -23,9 +23,6 @@ tags: ["TIC4.0", "PAS 4000", "BSI", "dijital standart", "birlikte çalışabilir
 3. The standard provides a common semantic framework for structuring operational data.<br>
 4. The goal is to improve interoperability across ports and lower supply chain costs.<br>
 5. The call recalls global trade's historic reliance on standards like ISO 668.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/tic4-0-urges-ports-to-adopt-pas-4000-digital-standard/"><u>https://www.porttechnology.org/tic4-0-urges-ports-to-adopt-pas-4000-digital-standard/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

@@ -39,7 +39,6 @@ tags:
   <li><p>Ankara-İzmir arasında YHT çalışmaları devam ediyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.yenisafak.com/ekonomi/yht-geceleri-yuk-tasiyacak-4643703"><u>https://www.yenisafak.com/ekonomi/yht-geceleri-yuk-tasiyacak-4643703</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

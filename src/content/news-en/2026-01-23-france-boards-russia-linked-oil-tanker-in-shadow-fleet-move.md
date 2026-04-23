@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">The tanker was loaded with cargo at the time, vessel-tracking data compiled by Bloomberg show. While not giving a destination, it was sailing in the direction of the <strong>Suez Canal</strong>, a common waypoint for tankers carrying Russian barrels to Asia. From a supply chain perspective, naval operations of this kind are materially complicating the gray-market logistics of Russian crude. Insurance premiums, P&I club terms and classification society audits are accelerating structural change in the shadow fleet segment, and a meaningful narrowing of the Brent-Urals spread will require these enforcement actions to become more frequent.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43337-france-boards-russia-linked-oil-tanker-in-shadow-fleet-move"><u>https://www.supplychainbrain.com/articles/43337-france-boards-russia-linked-oil-tanker-in-shadow-fleet-move</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

@@ -36,4 +36,3 @@ tags:
   <li><p>Dizel fiyatlarındaki artış, küçük taşıyıcılar arasında kapasite kaybını hızlandırabilir.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.thescxchange.com/articles/9663-spot-rates-may-have-hit-bottom-owner-operators-and-small-fleets-say"><u>https://www.thescxchange.com/articles/9663-spot-rates-may-have-hit-bottom-owner-operators-and-small-fleets-say</u></a></p>

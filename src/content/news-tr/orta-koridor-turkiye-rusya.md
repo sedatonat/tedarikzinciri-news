@@ -51,7 +51,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Zengezur Koridoru</strong> ve <strong>TRIPP</strong> gibi girişimler kapasiteyi büyütme potansiyeli taşıyor.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://ekonomi.haber7.com/ekonomi/haber/3587123-rusyayi-by-pass-eden-plan-turkiye-orta-koridor-ile-ticarette-oyunu-yeniden-kuruyor"><u>https://ekonomi.haber7.com/ekonomi/haber/3587123-rusyayi-by-pass-eden-plan-turkiye-orta-koridor-ile-ticarette-oyunu-yeniden-kuruyor</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

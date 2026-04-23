@@ -29,4 +29,3 @@ tags:
   <li><p>Project44, sektör genelinde dijital dönüşümü ve tedarik zinciri verimliliğini ilerletmeyi amaçlar.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10525-project44-adds-electronic-bill-of-lading-capability-to-its-freight-software"><u>https://www.thescxchange.com/articles/10525-project44-adds-electronic-bill-of-lading-capability-to-its-freight-software</u></a></p>

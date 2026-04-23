@@ -41,4 +41,3 @@ tags:
   <li><p>Geopolitical risks are expected to persist beyond the next election cycle, with these challenges continuing unabated.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.thescxchange.com/articles/10239-keynote-geopolitical-recession-is-putting-a-tax-on-global-supply-chains"><u>https://www.thescxchange.com/articles/10239-keynote-geopolitical-recession-is-putting-a-tax-on-global-supply-chains</u></a></p>

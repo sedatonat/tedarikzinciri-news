@@ -104,7 +104,6 @@ Hindistan gibi büyük alıcıların yön değiştirmesiyle, <strong>Atlantik’
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://splash247.com/trump-hits-rosneft-and-lukoil-with-sanctions/"><u>https://splash247.com/trump-hits-rosneft-and-lukoil-with-sanctions/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

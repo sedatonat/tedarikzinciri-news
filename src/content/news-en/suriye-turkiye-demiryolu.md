@@ -40,7 +40,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/beltandroad/2024/12/20/assads-exit-paves-the-way-for-rail-connection-between-syria-and-turkiye/"><u>https://www.railfreight.com/beltandroad/2024/12/20/assads-exit-paves-the-way-for-rail-connection-between-syria-and-turkiye/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book is Published on Google Play Books.</strong></p>

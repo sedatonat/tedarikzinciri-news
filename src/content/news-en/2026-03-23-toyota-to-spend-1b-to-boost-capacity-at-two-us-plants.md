@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, <strong>Toyota</strong>&rsquo;s strategy aligns with <em>onshoring</em> and capacity-expansion investments by Asian OEM peers such as <strong>Honda</strong>, <strong>Nissan</strong>, <strong>Subaru</strong>, <strong>Mazda</strong>, <strong>Hyundai</strong> and <strong>Kia</strong>, as well as European players including <strong>BMW</strong>, <strong>Mercedes-Benz</strong> and <strong>Volkswagen</strong>. Within the framework of <strong>Section 232</strong> tariffs, <strong>USMCA</strong> rules and <strong>Battery Belt</strong> incentives, Japanese <em>Tier-1</em> suppliers including <strong>Denso</strong>, <strong>Aisin</strong>, <strong>Bridgestone</strong> and <strong>Panasonic Energy</strong> are expected to expand their U.S. footprints accordingly. Investments in lithium iron phosphate (<strong>LFP</strong>), <em>solid-state</em> batteries and hybrid technology form the central pillars supporting <strong>Toyota</strong>&rsquo;s <em>multi-pathway</em> strategy toward its 2030 targets.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43705-toyota-to-spend-1b-to-boost-capacity-at-two-us-plants"><u>https://www.supplychainbrain.com/articles/43705-toyota-to-spend-1b-to-boost-capacity-at-two-us-plants</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

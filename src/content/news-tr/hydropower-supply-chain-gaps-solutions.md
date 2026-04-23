@@ -33,4 +33,3 @@ tags:
   <li><p>Hidroelektrik enerjisi ABD'nin yenilenebilir enerji üretiminin %27'sini oluşturuyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/40158-us-dept-of-energy-highlights-major-gaps-in-hydropower-supply-chain"><u>https://www.supplychainbrain.com/articles/40158-us-dept-of-energy-highlights-major-gaps-in-hydropower-supply-chain</u></a></p>

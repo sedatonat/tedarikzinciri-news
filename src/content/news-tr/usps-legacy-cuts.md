@@ -31,10 +31,6 @@ tags:
 3. Sendika endişeleri çalışma koşullarına odaklanıyor.<br>
 4. USO gereklilikleri politik tartışma konusu oluyor.<br>
 5. Otomasyon ve rota optimizasyonu öne çıkıyor.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41426-usps-head-leaves-behind-legacy-of-controversial-cuts"><u>https://www.supplychainbrain.com/articles/41426-usps-head-leaves-behind-legacy-of-controversial-cuts</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

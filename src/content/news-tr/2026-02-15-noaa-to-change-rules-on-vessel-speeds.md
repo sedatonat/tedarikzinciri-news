@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında ABD Doğu Kıyısı; <strong>Port of New York and New Jersey</strong>, <strong>Savannah</strong>, <strong>Charleston</strong>, <strong>Norfolk</strong>, <strong>Baltimore</strong>, <strong>Jacksonville</strong>, <strong>Miami</strong> gibi büyük konteyner, otomobil ve LNG limanları için kritik bir koridor oluşturur. Hız sınırlamaları; <em>schedule reliability</em>, yakıt tüketimi (<em>bunker fuel</em>), CO2 emisyonu (<strong>IMO</strong>&rsquo;nun <em>EEXI</em> ve <em>CII</em> düzenlemeleri) ve ETA tahminleri açısından <strong>Maersk</strong>, <strong>MSC</strong>, <strong>CMA CGM</strong>, <strong>Hapag-Lloyd</strong>, <strong>Evergreen</strong>, <strong>ZIM</strong> gibi büyük taşıyıcılar için önem taşır. Çevre-ekonomi dengesi; <em>NOAA Fisheries</em>, <em>U.S. Coast Guard</em>, <em>EPA</em>, <em>NMFS</em> ile <strong>Endangered Species Act</strong> kapsamında 2026 boyunca tartışmalı bir hukuki süreç doğurdu.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43480-noaa-to-change-rules-on-vessel-speeds"><u>https://www.supplychainbrain.com/articles/43480-noaa-to-change-rules-on-vessel-speeds</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

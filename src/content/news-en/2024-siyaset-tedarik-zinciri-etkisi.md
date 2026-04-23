@@ -45,4 +45,3 @@ tags:
 </ul>
 <p><br></p>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.supplychain247.com/article/supply-chain-waits-on-political-winds"><u>https://www.supplychain247.com/article/supply-chain-waits-on-political-winds</u></a></p>

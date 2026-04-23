@@ -36,9 +36,6 @@ tags:
 3. <strong>Digital Product Passport</strong>, ürün menşeini yaşam döngüsüne gömmekte.<br>
 4. Şeffaflık, mevcut ticaret akışlarına gömülmekte olup ayrı platform oluyorn çıkıyor.<br>
 5. <strong>AI</strong>, çok katmanlı izlenebilirliği ölçekte mümkün kılıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43171-transparency-the-new-imperative-for-global-supply-chains"><u>https://www.supplychainbrain.com/articles/43171-transparency-the-new-imperative-for-global-supply-chains</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

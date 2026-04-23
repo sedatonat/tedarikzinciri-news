@@ -39,7 +39,6 @@ tags:
 <p><br></p>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/mits-mifly-warehouse-drones-navigate-dark"><u>https://www.supplychain247.com/article/mits-mifly-warehouse-drones-navigate-dark</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Implement ERP?" Has Been Published on Google Play Books.</strong></p>

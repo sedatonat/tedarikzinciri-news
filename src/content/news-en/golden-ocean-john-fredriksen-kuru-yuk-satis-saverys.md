@@ -40,7 +40,6 @@ tags:
 <p><br></p>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://shippingwatch.com/carriers/Bulk/article17964183.ece"><u>https://shippingwatch.com/carriers/Bulk/article17964183.ece</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Get ERP?" has been published on Google Play Books.</strong></p>

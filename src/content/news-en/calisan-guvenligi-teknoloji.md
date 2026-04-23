@@ -42,7 +42,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/using_tech_to_prioritize_employee_safety"><u>https://www.supplychain247.com/article/using_tech_to_prioritize_employee_safety</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book is now published on Google Play Books.</strong></p>

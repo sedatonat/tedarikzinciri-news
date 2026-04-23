@@ -21,9 +21,6 @@ tags: ["APM Terminals", "APMT Valencia", "Valenciaport", "concession", "OPS", "s
 3. The centerpiece is Levante Quay OPS electrification, with four OPS units planned across the terminal.<br>
 4. The plan aligns with VPA's 2030 decarbonization targets and APM Terminals' net-zero roadmap.<br>
 5. Levante Quay fenders will be upgraded to accommodate larger E-class ships on Asia-Mediterranean routes.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/apmt-valencia-secures-long-term-concession-until-2049/"><u>https://www.porttechnology.org/apmt-valencia-secures-long-term-concession-until-2049/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

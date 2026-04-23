@@ -41,7 +41,6 @@ tags:
   <li><p>İstisna ve iade yönetimi istikrar sağlıyordır.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41620-the-changing-landscape-of-order-management-systems-oms" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/41620-the-changing-landscape-of-order-management-systems-oms</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

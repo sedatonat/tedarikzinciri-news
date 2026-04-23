@@ -36,4 +36,3 @@ tags:
   <li><p>CALSTART, taşımacılık sektörünün karbon salımını azaltmaya odaklanan, 280'den fazla üye şirkete sahip bir endüstri organizasyonudur.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10299-cargo-vans-led-burst-of-deployments-of-zero-emission-trucks-in-2023"><u>https://www.thescxchange.com/articles/10299-cargo-vans-led-burst-of-deployments-of-zero-emission-trucks-in-2023</u></a></p>

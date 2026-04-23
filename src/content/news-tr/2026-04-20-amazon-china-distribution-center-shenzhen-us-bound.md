@@ -34,9 +34,6 @@ tags:
 3. Sınır ötesi taşıma; Amazon Global Logistics ile entegre edilmiş durumda.<br>
 4. Çin merkezli satıcılar Amazon'un global satıcı tabanının yaklaşık yarısını oluşturuyor.<br>
 5. Yangtze River Delta, Avrupa ve Japonya genişlemesi planlanıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychaindive.com/news/amazon-opens-china-distribution-center-for-us-bound-seller-inventory/817806/"><u>https://www.supplychaindive.com/news/amazon-opens-china-distribution-center-for-us-bound-seller-inventory/817806/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

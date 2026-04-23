@@ -30,10 +30,6 @@ tags:
 3. Well-to-wheel muhasebe karbonu doğru ölçüyordir.<br>
 4. Route profiling teknoloji eşleştirmesini yönlendiriyordir.<br>
 5. Karma enerji sepeti riskleri dağıtmaktadır.</p>
-<p><br>
----<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41688-three-things-to-know-about-alternative-fuels"><u>https://www.supplychainbrain.com/articles/41688-three-things-to-know-about-alternative-fuels</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

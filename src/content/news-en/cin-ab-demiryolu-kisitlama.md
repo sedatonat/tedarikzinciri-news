@@ -39,7 +39,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/beltandroad/2024/12/19/russia-has-no-plans-to-introduce-additional-restrictions-on-china-eu-rail-cargo-transit/"><u>https://www.railfreight.com/beltandroad/2024/12/19/russia-has-no-plans-to-introduce-additional-restrictions-on-china-eu-rail-cargo-transit/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

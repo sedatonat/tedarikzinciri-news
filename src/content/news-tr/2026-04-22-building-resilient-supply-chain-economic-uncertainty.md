@@ -35,9 +35,6 @@ tags:
 3. <strong>Manhattan</strong>; <strong>Blue Yonder</strong>; <strong>Infios</strong>; <strong>SAP</strong>; ana <strong>WMS</strong> oyuncular oluyor.<br>
 4. <strong>Multi-sourcing</strong>; <strong>nearshoring</strong>; <strong>postponement</strong>; ana direnç stratejileri oluyor.<br>
 5. <strong>Kinaxis</strong>; <strong>o9</strong>; <strong>Anaplan</strong>; <strong>RELEX</strong>; ana planlama platformları oluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41440-building-a-resilient-supply-chain-in-the-face-of-economic-uncertainty"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41440-building-a-resilient-supply-chain-in-the-face-of-economic-uncertainty</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

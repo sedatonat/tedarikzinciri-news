@@ -42,7 +42,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/pmi-november-2024-donald-trump-tariffs-demand-layoffs/734316/"><u>https://www.supplychaindive.com/news/pmi-november-2024-donald-trump-tariffs-demand-layoffs/734316/</u></a></p>
 <p><strong>&nbsp;</strong></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

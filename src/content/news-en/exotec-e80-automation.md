@@ -40,7 +40,6 @@ tags:
   <li><p>Digital twin reduces implementation time.</p></li>
   <li><p>Micro-fulfillment lowers last-mile costs.</p></li>
 </ul>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42471-exotec-and-e80-group-partner-on-warehouse-automation-for-cpg-and-grocery-industries"><u>https://www.supplychainbrain.com/articles/42471-exotec-and-e80-group-partner-on-warehouse-automation-for-cpg-and-grocery-industries</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP System?</strong> Our book has been published on Google Play Books.</p>

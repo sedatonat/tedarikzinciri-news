@@ -35,9 +35,6 @@ tags:
 3. <strong>UAW</strong> ve <strong>AAPC</strong> (<strong>GM</strong>; <strong>Ford</strong>; <strong>Stellantis</strong>); anlaşmaya derin öfke gösteriyor.<br>
 4. <strong>USMCA</strong> %75 Kuzey Amerika içerik zorunluluğu; pratikte etkisiz oluyor.<br>
 5. Japonya; <strong>U.S.</strong>&rsquo;ye yıllık 1.5M+ araç ihracat ediyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42220-trade-pact-with-japan-deals-blow-to-us-auto-industry"><u>https://www.supplychainbrain.com/articles/42220-trade-pact-with-japan-deals-blow-to-us-auto-industry</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

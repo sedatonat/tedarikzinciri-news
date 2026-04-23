@@ -30,4 +30,3 @@ tags:
   <li><p>Continental ile 2027'de üretim anlaşması yapıldı.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10677-aurora-raises-another-483-million-for-driverless-trucks"><u>https://www.thescxchange.com/articles/10677-aurora-raises-another-483-million-for-driverless-trucks</u></a></p>

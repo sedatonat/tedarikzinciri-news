@@ -30,9 +30,6 @@ tags:
 3. Avrupa rotası yüzde 3,1 düşerek 956 puana indi.<br>
 4. Doğu Akdeniz endeksi yüzde 8,1, Batı Akdeniz yüzde 0,6 geriledi.<br>
 5. Transpasifik rotalarda talep zayıflığı spot oranları aşağı çekti.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/red-sea-risks-push-ningbo-freight-index-up-16-per-cent/"><u>https://www.porttechnology.org/red-sea-risks-push-ningbo-freight-index-up-16-per-cent/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

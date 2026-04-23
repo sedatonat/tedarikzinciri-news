@@ -23,4 +23,3 @@ tags:
 <p><br></p>
 <p>Bu, Amazon'daki işyeri yaralanmalarının ve ağrılarının daha önce bilinenden daha yaygın olduğunu gösteriyor. Amazon'un talepkar çalışma temposunun bu sorunlara katkıda bulunduğu düşünülüyor.</p>
 <p><br></p>
-<p><strong>Haber linki:</strong> <a href="https://www.supplychainbrain.com/articles/38371-amazon-injuries-more-widespread-than-thought-study-says"><u>https://www.supplychainbrain.com/articles/38371-amazon-injuries-more-widespread-than-thought-study-says</u></a></p>

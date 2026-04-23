@@ -36,7 +36,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/policy/2025/03/07/new-austrian-government-seeks-energy-tax-exemption-for-rail/"><u>https://www.railfreight.com/policy/2025/03/07/new-austrian-government-seeks-energy-tax-exemption-for-rail/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

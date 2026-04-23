@@ -29,9 +29,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the second layer &mdash; physical security &mdash; is where theft, diversion, counterfeiting and insertion risks surface. Early-stage brands often inherit whatever policies their manufacturing and logistics partners have in place. The third layer, competitive security, protects commercial advantages such as <strong>IP</strong>, formulations, supplier relationships and pricing strategy &mdash; through disciplined <strong>NDA</strong> management, supplier rotation, reduced reliance on <em>single sources</em>, and structural protection via frameworks such as <strong>SOC 2</strong>, <strong>ISO 27001</strong>, <strong>NIST CSF</strong> and <strong>CMMC</strong>. Vendors including <strong>Cisco</strong>, <strong>Palo Alto Networks</strong>, <strong>CrowdStrike</strong> and <strong>SentinelOne</strong> are positioning to support a unified three-layer security model in 2026.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43302-the-three-layers-of-supply-chain-security-that-no-one-wants-to-talk-about"><u>https://www.supplychainbrain.com/articles/43302-the-three-layers-of-supply-chain-security-that-no-one-wants-to-talk-about</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

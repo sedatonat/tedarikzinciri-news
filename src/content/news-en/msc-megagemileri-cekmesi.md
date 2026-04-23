@@ -33,7 +33,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/msc-pulls-megaships-from-asia-north-europe-network-alphaliner-5951934"><u>https://www.joc.com/article/msc-pulls-megaships-from-asia-north-europe-network-alphaliner-5951934</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Acquire ERP?" Has Been Published on Google Play Books.</strong></p>

@@ -50,7 +50,6 @@ tags:
 <p><br></p>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.warehousinglogisticsinternational.com/erp-downtime-could-cost-uk-ecommerce-firms-more-than-26000-a-day/"><u>https://www.warehousinglogisticsinternational.com/erp-downtime-could-cost-uk-ecommerce-firms-more-than-26000-a-day/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

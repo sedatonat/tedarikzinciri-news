@@ -35,7 +35,6 @@ tags:
 <p style="text-align: justify"><br></p>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/optimize-your-fleet-operations-with-trimble-appians-latest-technology-enhancements"><u>https://www.supplychain247.com/article/optimize-your-fleet-operations-with-trimble-appians-latest-technology-enhancements</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Procure an ERP System?" has been published on Google Play Books.</strong></p>

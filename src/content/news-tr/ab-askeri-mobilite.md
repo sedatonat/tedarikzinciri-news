@@ -95,7 +95,6 @@ hedefleriyle birebir örtüşüyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.railfreight.com/policy/2025/11/20/what-does-the-european-commissions-military-mobility-package-mean-for-rail-freight/"><u>https://www.railfreight.com/policy/2025/11/20/what-does-the-european-commissions-military-mobility-package-mean-for-rail-freight/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

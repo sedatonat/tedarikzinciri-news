@@ -40,5 +40,4 @@ tags:
 </ol>
 <p><br></p>
 <p><strong>Sources</strong></p>
-<p><strong>News link: </strong><a href="https://www.lojiport.com/lojistik-merkezlere-yeni-kriterler-geliyor-115992h.htm"><u>https://www.lojiport.com/lojistik-merkezlere-yeni-kriterler-geliyor-115992h.htm</u></a></p>
 <p><strong>Cover photo:</strong>&nbsp;<a href="https://www.freepik.com/premium-photo/night-aerial-view-warehouse-goods-logistic-center-industrial-area-city-from-aerial-view-loading-trucks-logistics-center_20293753.htm"><u>https://www.freepik.com/premium-photo/night-aerial-view-warehouse-goods-logistic-center-industrial-area-city-from-aerial-view-loading-trucks-logistics-center_20293753.htm</u></a></p>

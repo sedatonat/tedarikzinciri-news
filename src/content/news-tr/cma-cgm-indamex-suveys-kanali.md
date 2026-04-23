@@ -62,7 +62,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Spot navlunlar: FE–USEC <strong>–%57</strong>, FE–NEU <strong>–%53</strong>; kapasite artışı fiyatları daha da düşürebilir.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://en.portnews.ru/news/385495/"><u>https://en.portnews.ru/news/385495/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

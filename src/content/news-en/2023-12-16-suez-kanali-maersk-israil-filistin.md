@@ -30,4 +30,3 @@ tags:
 <p><br></p>
 <p>Donigian noted that alternative routes would result in significantly longer travel distances, extended delivery times for goods, and short-term supply chain disruptions until trading partners adjust their delivery schedules.</p>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainquarterly.com/articles/9292-container-traffic-slows-at-suez-canal-after-red-sea-missile-attacks"><u>https://www.supplychainquarterly.com/articles/9292-container-traffic-slows-at-suez-canal-after-red-sea-missile-attacks</u></a></p>

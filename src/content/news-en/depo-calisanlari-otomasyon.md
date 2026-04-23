@@ -48,7 +48,6 @@ tags:
 <p><br></p>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/warehouse-workers-push-for-more-automation-zebra-technologies-report"><u>https://www.supplychain247.com/article/warehouse-workers-push-for-more-automation-zebra-technologies-report</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Procure ERP?" has been published on Google Play Books.</strong></p>

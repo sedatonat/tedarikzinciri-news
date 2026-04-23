@@ -31,9 +31,6 @@ tags:
 3. FIMI Opportunity Funds, ZIM markasını ve Golden Share'i koruyan 16 gemilik ayrıştırılmış bir konteyner hattını devralacak.<br>
 4. Yapı, İsrail bayrağı taşıyan denizcilik kapasitesinin korunmasına yönelik düzenleyici endişeleri karşılıyor.<br>
 5. Kapanış için düzenleyici onaylar ve hissedar oyları gerekiyor; tamamlanma 2026'nın ikinci yarısı.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/hapag-lloyd-confirms-4-billion-acquisition-of-zim-shipping/"><u>https://www.porttechnology.org/hapag-lloyd-confirms-4-billion-acquisition-of-zim-shipping/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

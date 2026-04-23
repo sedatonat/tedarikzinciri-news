@@ -81,7 +81,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Yatırım tutarı ve takvim <strong>henüz açıklanmadı</strong>.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://en.portnews.ru/news/385489/"><u>https://en.portnews.ru/news/385489/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

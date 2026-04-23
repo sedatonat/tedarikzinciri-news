@@ -33,4 +33,3 @@ tags:
   <li><p>ABD ile Meksika arasındaki ticaret artışı, yerel kaynak talebini artırdı.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainquarterly.com/articles/9621-arrive-logistics-opens-guadalajara-office-as-nearshoring-boom-continues"><u>https://www.supplychainquarterly.com/articles/9621-arrive-logistics-opens-guadalajara-office-as-nearshoring-boom-continues</u></a></p>

@@ -55,7 +55,6 @@ gibi çok boyutlu iyileşmeler sağlayacak.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/port-of-felixstowe-receives-two-of-34-autonomous-trucks/"><u>https://www.porttechnology.org/news/port-of-felixstowe-receives-two-of-34-autonomous-trucks/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/">SedatOnat.com</a></p>
 <p>--------------------</p>

@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Söz konusu raporlama, tüm tedarik kaynakları hakkında daha derin şeffaflık ve doğruluk getirdi. Tedarik zinciri perspektifinden bakıldığında bu ortam, <em>nearshoring</em>, <em>reshoring</em> ve <em>friend-shoring</em> kararlarının çok yıllı bir sermaye yatırımı dalgasına dönüşmesini sağladı. CFO'lar, toplam yer maliyetleri («TLC») ve sermaye geri dönüş süreleri konusunda daha güvenli senaryolar kurdu; bu durum, fabrika yatırımları, otomasyon ve iş gücü yetiştirme programlarının önünü açtı.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/43323-the-upside-of-tariffs-why-us-manufacturing-is-entering-a-rebuild-cycle"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/43323-the-upside-of-tariffs-why-us-manufacturing-is-entering-a-rebuild-cycle</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

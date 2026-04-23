@@ -58,7 +58,6 @@ The region sits at the center of <strong>high-volume container shipping</strong>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/chinese-ship-sinks-off-guangzhou-waters-with-two-crew-missing/"><u>https://gcaptain.com/chinese-ship-sinks-off-guangzhou-waters-with-two-crew-missing/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

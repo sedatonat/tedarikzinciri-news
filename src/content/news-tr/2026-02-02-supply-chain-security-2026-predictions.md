@@ -36,9 +36,6 @@ tags:
 3. Düzenleyiciler tek seferlik güvence yerine sürekli ve veri odaklı izleme talep ediyor.<br>
 4. <strong>AI agents</strong>, tekrarlayan risk görevlerini otomatikleştirmekte.<br>
 5. <strong>Explainable AI</strong> ve <strong>human-in-the-loop</strong> mimarisi öne çıkıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43106-three-predictions-for-supply-chain-security-and-third-party-risk-in-2026"><u>https://www.supplychainbrain.com/articles/43106-three-predictions-for-supply-chain-security-and-third-party-risk-in-2026</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -33,4 +33,3 @@ tags:
   <li><p>Elektrikli araçlara uygulanan %100 tarife, ABD'nin net sıfır hedefleri ile çelişebilir.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.thescxchange.com/articles/10268-trade-groups-criticize-white-house-tariffs-on-chinese-goods"><u>https://www.thescxchange.com/articles/10268-trade-groups-criticize-white-house-tariffs-on-chinese-goods</u></a></p>

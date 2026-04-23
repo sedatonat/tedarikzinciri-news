@@ -42,7 +42,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychaindive.com/news/transportation-secretary-sean-duffy-nomination-confirmed-senate/738576/"><u>https://www.supplychaindive.com/news/transportation-secretary-sean-duffy-nomination-confirmed-senate/738576/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>

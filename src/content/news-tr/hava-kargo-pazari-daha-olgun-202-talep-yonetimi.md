@@ -46,7 +46,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychaindive.com/news/matured-air-cargo-market-avoid-peak-november-xeneta-niall-van-de-wouw/735570/"><u>https://www.supplychaindive.com/news/matured-air-cargo-market-avoid-peak-november-xeneta-niall-van-de-wouw/735570/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

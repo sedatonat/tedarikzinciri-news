@@ -37,7 +37,6 @@ tags:
   <li><p>Loss and complaint rates decline.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41856-end-to-end-monitoring-how-the-cold-chain-keeps-its-cool" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/41856-end-to-end-monitoring-how-the-cold-chain-keeps-its-cool</u></a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP?</strong> Our book is now published on Google Play Books.</p>

@@ -30,9 +30,6 @@ tags:
 3. Kuzey Avrupa, Skanbaltik, Batı Akdeniz, Adriyatik, Kızıldeniz ve Doğu Afrika koridorlarını kapsıyor.<br>
 4. Kızıldeniz'den Kuzey Avrupa'ya kuru kargo TEU başına 135 USD, frigo 205 USD olarak belirlendi.<br>
 5. Karar, ana taşıyıcıların yükselen bunker maliyetlerini bertaraf etmek için ek ücret düzenlemeleri yapma eğiliminin bir parçası.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://container-news.com/msc-updates-emergency-fuel-surcharge/"><u>https://container-news.com/msc-updates-emergency-fuel-surcharge/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

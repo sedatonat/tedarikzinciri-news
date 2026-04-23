@@ -49,4 +49,3 @@ tags:
 <p><br></p>
 <p><strong>İlgili Makalemiz:</strong> <a href="https://www.tedarikzinciriportali.com/post/maersk-baltimore-koprusu-kazasi" target="_blank"><u>https://www.tedarikzinciriportali.com/post/maersk-baltimore-koprusu-kazasi</u></a></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://gcaptain.com/ntsb-preliminary-report-on-baltimore-bridge-collapse-released/"><u>https://gcaptain.com/ntsb-preliminary-report-on-baltimore-bridge-collapse-released/</u></a></p>

@@ -49,7 +49,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.joc.com/article/us-gulf-coast-ports-expanding-to-handle-continued-volume-growth-5911512"><u>https://www.joc.com/article/us-gulf-coast-ports-expanding-to-handle-continued-volume-growth-5911512</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Acquire ERP? Our book has been published on Google Play Books.</strong></p>

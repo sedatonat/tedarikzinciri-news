@@ -37,4 +37,3 @@ tags:
   <li><p>Long waiting times and high fees have prompted many vessels to avoid the canal.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://splash247.com/panama-canal-authority-adds-three-more-daily-transit-slots/"><u>https://splash247.com/panama-canal-authority-adds-three-more-daily-transit-slots/</u></a></p>

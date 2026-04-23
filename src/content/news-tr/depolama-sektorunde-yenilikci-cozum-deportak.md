@@ -34,4 +34,3 @@ tags:
   <li><p>Dünya e-ticaret pazarının 2023’de 6 trilyon Doları aşması ve Türkiye e-ticaret sektörünün büyümesi.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.lojiport.com/deportak-gri-depolarla-uygun-fiyata-genis-mekanlar-sunuyor-116362h.htm"><u>https://www.lojiport.com/deportak-gri-depolarla-uygun-fiyata-genis-mekanlar-sunuyor-116362h.htm</u></a></p>

@@ -33,4 +33,3 @@ tags:
   <li><p>Kuehne+Nagel, yaklaşık 100 ülkede neredeyse 1,300 lokasyonda 81,000 çalışana sahip.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10077-kuehnenagel-streamlines-reporting-structure-to-boost-agility"><u>https://www.thescxchange.com/articles/10077-kuehnenagel-streamlines-reporting-structure-to-boost-agility</u></a></p>

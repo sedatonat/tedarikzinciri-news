@@ -38,7 +38,6 @@ tags:
   <li><p>Hata ve çevrim süresi azalıyordır.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42148-untangling-the-nightmare-of-hs-codes-with-technology" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/42148-untangling-the-nightmare-of-hs-codes-with-technology</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

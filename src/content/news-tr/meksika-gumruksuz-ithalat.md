@@ -39,7 +39,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/mexico-curtails-duty-free-fulfillment-option-for-apparel-textile-importers-5911557"><u>https://www.joc.com/article/mexico-curtails-duty-free-fulfillment-option-for-apparel-textile-importers-5911557</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

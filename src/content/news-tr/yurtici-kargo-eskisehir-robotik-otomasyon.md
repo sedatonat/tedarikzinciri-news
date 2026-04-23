@@ -37,4 +37,3 @@ tags:
   <li><p>Ankara'da daha büyük bir otomasyon merkezi projesine başlandı.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.lojiport.com/yurtici-kargodan-eskisehire-buyuk-robotik-ve-otomasyon-yatirimi-116223h.htm"><u>https://www.lojiport.com/yurtici-kargodan-eskisehire-buyuk-robotik-ve-otomasyon-yatirimi-116223h.htm</u></a></p>

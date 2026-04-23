@@ -35,9 +35,6 @@ tags:
 3. Aksaklıklar; her 3,7 yılda bir meydana geliyor; yıllık karın %45&rsquo;ine mal oluyor.<br>
 4. <strong>Digital marketplaces</strong>; <strong>AI-driven automation</strong>; <strong>real-time visibility</strong>; <strong>blockchain</strong>; ana 4 değişim oluyor.<br>
 5. <strong>Predictive analytics</strong>; tahmin doğruluğunu %20-50 iyileştiriyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41850-four-key-digital-supply-chain-shifts-to-make-in-mid-2025"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41850-four-key-digital-supply-chain-shifts-to-make-in-mid-2025</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

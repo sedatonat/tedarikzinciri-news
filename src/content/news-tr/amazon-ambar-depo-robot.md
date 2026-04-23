@@ -39,7 +39,6 @@ tags:
   <li><p>İşgücü ergonomi ve eğitimde kazanım görüyordir.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42067-amazons-millionth-robot-rolled-out-at-japan-fulfillment-center" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/42067-amazons-millionth-robot-rolled-out-at-japan-fulfillment-center</u></a></p>
 <p>----------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>

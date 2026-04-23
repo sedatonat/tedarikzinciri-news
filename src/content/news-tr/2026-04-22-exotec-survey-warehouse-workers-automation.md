@@ -35,9 +35,6 @@ tags:
 3. <strong>Romain Moulin</strong> CEO; &ldquo;veriler net&rdquo; olarak yorumlamakta.<br>
 4. <strong>Exotec</strong>; <strong>Skypod</strong> 3D mobil robot sistemi ile tanınıyor.<br>
 5. 400+ çalışan örneklem boyutu; küresel operasyonlarda 17 Kasım&rsquo;da yayınlanıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42870-survey-98-of-warehouse-workers-say-automation-helps-productivity"><u>https://www.supplychainbrain.com/articles/42870-survey-98-of-warehouse-workers-say-automation-helps-productivity</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

@@ -59,7 +59,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Yatırım, Wan Hai’nın kapasite genişletme ve ekipman yenileme stratejisinin parçası.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://container-news.com/wan-hai-orders-49300-new-containers/"><u>https://container-news.com/wan-hai-orders-49300-new-containers/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

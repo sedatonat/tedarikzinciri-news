@@ -27,9 +27,6 @@ tags: ['siber güvenlik', 'üretim', 'ransomware', 'phishing', 'yaz tatili', 'IT
 3. Summer holiday periods are prime timing for attackers to launch targeted campaigns.<br>
 4. <strong>NIST CSF</strong>, <strong>ISO 27001</strong>, and <strong>IEC 62443</strong> are primary cybersecurity frameworks.<br>
 5. <strong>MFA</strong>, <strong>backup</strong>, <strong>OT segmentation</strong>, and <strong>EDR/XDR</strong> are essential protective controls.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42350-a-summer-security-tune-up-for-manufacturers"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42350-a-summer-security-tune-up-for-manufacturers</u></a><br>
--------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>
 <p><strong>How to Purchase an ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>

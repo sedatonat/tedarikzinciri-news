@@ -28,9 +28,6 @@ tags: ['Deutsche Bank', 'jet yakıtı', 'havayolları', 'Michael Linenberg', 'cr
 3. <strong>Crack spread</strong> is at its widest level since 2005.<br>
 4. Sector index falls 19 percent over six trading sessions.<br>
 5. <strong>Rothschild &amp; Co. Redburn</strong> downgrade <strong>American Airlines</strong> rating.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43619-airlines-face-existential-threat-from-war-deutsche-bank-says"><u>https://www.supplychainbrain.com/articles/43619-airlines-face-existential-threat-from-war-deutsche-bank-says</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What Is ERP?</p>

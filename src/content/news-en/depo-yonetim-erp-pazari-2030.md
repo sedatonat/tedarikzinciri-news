@@ -58,7 +58,6 @@ tags:
 <p><br></p>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://www.supplychain247.com/article/warehouse-software-market-10-billion-2030-abi-research"><u>https://www.supplychain247.com/article/warehouse-software-market-10-billion-2030-abi-research</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>

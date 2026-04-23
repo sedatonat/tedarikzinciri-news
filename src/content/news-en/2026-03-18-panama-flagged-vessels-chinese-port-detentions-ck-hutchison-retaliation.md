@@ -22,9 +22,6 @@ tags: ["Panama", "China", "port state control", "CK Hutchison", "vessel detentio
 3. The sector interprets this as a coordinated response to Panama's revocation of CK Hutchison terminal concessions.<br>
 4. The five-day total exceeds 2025's monthly Panama-flagged detention figures.<br>
 5. The crisis could affect freight rates, routes, and Panama's flag-state revenues.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/panama-flagged-vessels-face-surge-in-chinese-port-inspections/"><u>https://www.porttechnology.org/panama-flagged-vessels-face-surge-in-chinese-port-inspections/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

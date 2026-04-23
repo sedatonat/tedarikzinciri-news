@@ -33,4 +33,3 @@ tags:
   <li><p>Hybrid models and advanced time series machine learning models have demonstrated high accuracy and precision in CFR prediction.</p></li>
 </ul>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.scmr.com/article/predicting-stockouts-enhancing-fmcg-resilience-through-data-driven-insights"><u>https://www.scmr.com/article/predicting-stockouts-enhancing-fmcg-resilience-through-data-driven-insights</u></a></p>

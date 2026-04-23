@@ -85,7 +85,6 @@ tags:
 <p style="text-align: justify">Bu nedenle H2TowTractor, liman lojistiğinde sadece çevresel değil, ekonomik ve operasyonel anlamda da dönüşüm yaratabilecek bir model sunuyor.</p>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/port-of-bilbao-trials-hydrogen-powered-h2towtractor/"><u>https://www.porttechnology.org/news/port-of-bilbao-trials-hydrogen-powered-h2towtractor/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

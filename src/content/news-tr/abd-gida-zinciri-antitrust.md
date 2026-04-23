@@ -55,7 +55,6 @@ gibi konulara odaklanacak.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42949-trump-signs-order-to-tackle-alleged-food-supply-chain-risks"><u>https://www.supplychainbrain.com/articles/42949-trump-signs-order-to-tackle-alleged-food-supply-chain-risks</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

@@ -43,7 +43,6 @@ tags:
 <p style="text-align: justify">Bu veriler, taşımacılık sektöründeki mevcut eğilimleri yansıtıyor ve sektör paydaşlarının stratejilerini buna göre şekillendirmesi gerekiyor.</p>
 <p><br></p>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/dat_truckload_volume_index_highlights_february_spot_truckload_volume_and_rate_declines"><u>https://www.supplychain247.com/article/dat_truckload_volume_index_highlights_february_spot_truckload_volume_and_rate_declines</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

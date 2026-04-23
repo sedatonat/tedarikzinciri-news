@@ -46,7 +46,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://www.joc.com/article/zim-says-reviewing-buyout-offers-including-one-from-ceo-6123362"><u>https://www.joc.com/article/zim-says-reviewing-buyout-offers-including-one-from-ceo-6123362</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

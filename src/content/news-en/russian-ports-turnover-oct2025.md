@@ -89,7 +89,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://seanews.ru/2025/11/19/gruzooborot-rossijskih-portov-v-oktjabre-2025-vyros-na-5-1/"><u>https://seanews.ru/2025/11/19/gruzooborot-rossijskih-portov-v-oktjabre-2025-vyros-na-5-1/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

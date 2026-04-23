@@ -39,4 +39,3 @@ tags:
   <li><p>2030 yılına kadar yüzde yüz elektronik konşimento kullanımı hedefleniyor.</p></li>
 </ol>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/hapag-lloyd-to-utilise-iqax-ebl-via-gsbn/"><u>https://www.porttechnology.org/news/hapag-lloyd-to-utilise-iqax-ebl-via-gsbn/</u></a></p>

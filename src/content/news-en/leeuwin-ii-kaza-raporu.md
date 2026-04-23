@@ -67,7 +67,6 @@ Following comprehensive repair work carried out with strong community support, t
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://splash247.com/bridge-team-lapse-behind-leeuwin-ii-disaster/"><u>https://splash247.com/bridge-team-lapse-behind-leeuwin-ii-disaster/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

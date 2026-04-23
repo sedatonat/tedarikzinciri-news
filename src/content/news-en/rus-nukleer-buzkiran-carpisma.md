@@ -39,7 +39,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>News Link: </strong><a href="https://gcaptain.com/russian-nuclear-icebreaker-sustains-damage-in-arctic-collision-with-cargo-ship/"><u>https://gcaptain.com/russian-nuclear-icebreaker-sustains-damage-in-arctic-collision-with-cargo-ship/</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>

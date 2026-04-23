@@ -90,7 +90,6 @@ The increase in cold chain transportation capacity will both <strong>enhance the
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.reuters.com/markets/deals/germanys-dhl-acquire-us-pharma-logistics-firm-cryopdp-source-says-2025-03-31/"><u>https://www.reuters.com/markets/deals/germanys-dhl-acquire-us-pharma-logistics-firm-cryopdp-source-says-2025-03-31/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

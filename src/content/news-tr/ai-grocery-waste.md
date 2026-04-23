@@ -29,10 +29,6 @@ tags:
 3. Computer vision/IoT bozulma riskini düşürür.<br>
 4. Cold chain analytics kırılganlıkları saptar.<br>
 5. AI, maliyet ve karbonu birlikte düşürür.</p>
-<p><br>
----<br>
-Haber Linki: https://www.supplychainbrain.com/articles/41698-three-ways-ai-is-helping-grocers-cut-waste-and-boost-profits<br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

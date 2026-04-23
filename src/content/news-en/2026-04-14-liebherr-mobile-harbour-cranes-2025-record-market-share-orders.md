@@ -23,9 +23,6 @@ tags: ["Liebherr", "mobil liman vinci", "MHC", "ağır kaldırma", "elektrikli v
 3. Electric drive configurations stood out for reducing local emissions.<br>
 4. Portal slewing cranes were preferred in bulk operations.<br>
 5. The order book extends into 2026.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.porttechnology.org/liebherr-secures-record-share-of-crane-orders/"><u>https://www.porttechnology.org/liebherr-secures-record-share-of-crane-orders/</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

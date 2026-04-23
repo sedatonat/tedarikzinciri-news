@@ -47,7 +47,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki: </strong><a href="https://gcaptain.com/russia-pushes-shadow-fleet-to-limit-as-lng-carrier-struggles-through-early-arctic-ice-on-northern-sea-route/"><u>https://gcaptain.com/russia-pushes-shadow-fleet-to-limit-as-lng-carrier-struggles-through-early-arctic-ice-on-northern-sea-route/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

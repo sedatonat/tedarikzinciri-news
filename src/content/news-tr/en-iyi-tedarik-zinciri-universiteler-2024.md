@@ -29,4 +29,3 @@ tags:
   <li><p>Üretim odaklı içerik azalıyor.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10579-gartner-ranks-best-colleges-for-studying-supply-chain"><u>https://www.thescxchange.com/articles/10579-gartner-ranks-best-colleges-for-studying-supply-chain</u></a></p>

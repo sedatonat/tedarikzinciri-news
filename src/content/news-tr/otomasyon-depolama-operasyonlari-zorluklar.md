@@ -45,7 +45,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/40424-warehouse-challenges-automation-can-help"><u>https://www.supplychainbrain.com/articles/40424-warehouse-challenges-automation-can-help</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

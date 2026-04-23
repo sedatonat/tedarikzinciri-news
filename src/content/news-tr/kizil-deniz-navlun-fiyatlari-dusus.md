@@ -45,7 +45,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>DP World</strong>, tedarik zincirlerinin normalleşmesi için <strong>jeopolitik risklerin azalması gerektiğini</strong> vurguluyor.</p></li>
 </ul>
 <p>---</p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychain247.com/article/red-sea-calm-could-cut-freight-prices-by-25-says-dp-world"><u>https://www.supplychain247.com/article/red-sea-calm-could-cut-freight-prices-by-25-says-dp-world</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>

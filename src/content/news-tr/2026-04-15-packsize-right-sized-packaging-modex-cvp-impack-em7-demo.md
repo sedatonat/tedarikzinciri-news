@@ -28,9 +28,6 @@ tags:
 3. Doğru boyutlu ambalajlama; nakliye hacmini ve karbon ayak izini azaltıyor.<br>
 4. Yaklaşım, e-ticaret büyümesi ve artan dolum hızlarıyla birlikte depo gündemine yerleşti.<br>
 5. Otomasyon, depoların geleneksel "paketleme darboğazını" ortadan kaldırabiliyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychain247.com/article/packsize_shows_what_right_sized_packaging_can_do_on_the_warehouse_floor"><u>https://www.supplychain247.com/article/packsize_shows_what_right_sized_packaging_can_do_on_the_warehouse_floor</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

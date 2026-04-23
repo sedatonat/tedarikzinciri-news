@@ -27,9 +27,6 @@ tags:
 3. İlk lisans uluslararası sağlayıcı STS Marine Solutions'a verildi.<br>
 4. Yeni kapasite; transit sürelerini kısaltacak ve mevcut deniz altyapısını değerlendirecek.<br>
 5. Portland Port; kömür limanı geçmişinden LNG gibi temiz enerji taşımacılığına geçiyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://en.portnews.ru/news/390618/"><u>https://en.portnews.ru/news/390618/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

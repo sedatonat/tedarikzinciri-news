@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify"><strong>Hürmüz Boğazı</strong>'nın yakın gelecekte tankerlere tamamen açılıyor olacağına dair çok az işaret bulunuyor. Pasifik'teki adalar; sonu görünmemekte olan derinleşmekte olan bir kriz ile karşı karşıya bulunuyor. «Uzaktaki bir taşıma tıkanıklık noktasında başlayan bir kriz; hızla bir karşılanabilirlik ve güç tedarik krizine dönüşebiliyor; savunmasız ada topluluklarını dünyanın geri kalanından koparabiliyor» şeklinde UN News uyarıyor. Tedarik zinciri perspektifinden bakıldığında bu durum; <em>chokepoint risk</em>'in jeopolitik şoklar karşısında nasıl gerçek zamanlı insani sonuçlar doğuruyor olduğunun çarpıcı bir örneği oluyor. Petrol şirketleri, uluslararası yardım kuruluşları ve sigorta sağlayıcıları için adalara yönelik <em>resilience</em> planlaması artık ertelenebiliyor olunmamakta.</p>
 <p><br></p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43876-iran-war-exposes-fragility-of-pacific-islands"><u>https://www.supplychainbrain.com/articles/43876-iran-war-exposes-fragility-of-pacific-islands</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

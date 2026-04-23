@@ -45,7 +45,6 @@ tags:
   <li><p>Control tower systems are accelerating exception management.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/41520-trump-is-already-slowing-global-trade-as-companies-pause-orders"><u>https://www.supplychainbrain.com/articles/41520-trump-is-already-slowing-global-trade-as-companies-pause-orders</u></a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>

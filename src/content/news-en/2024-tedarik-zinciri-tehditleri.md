@@ -41,4 +41,3 @@ tags:
   <li><p>Cyber crimes will escalate the threat level to supply chains.</p></li>
 </ol>
 <p><br></p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainquarterly.com/articles/9370-extreme-weather-tops-list-of-possible-logistics-disruptions-in-2024-forecast"><u>https://www.supplychainquarterly.com/articles/9370-extreme-weather-tops-list-of-possible-logistics-disruptions-in-2024-forecast</u></a></p>

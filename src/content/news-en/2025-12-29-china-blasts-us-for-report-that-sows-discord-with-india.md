@@ -30,9 +30,6 @@ tags:
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the China-India rapprochement carries significant implications for global manufacturing networks. The "China+1" investments flowing into India by players such as <strong>Apple</strong>, <strong>Foxconn</strong> and <strong>Samsung</strong> remain dependent on stable bilateral relations between the two Asian giants. China's move to repair bridges with India in the face of U.S. diplomatic maneuvering could reshape alternative positioning strategies, particularly in electronics, pharmaceutical and textile supply chains.</p>
 <p><br></p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43055-china-blasts-us-for-report-that-sows-discord-with-india"><u>https://www.supplychainbrain.com/articles/43055-china-blasts-us-for-report-that-sows-discord-with-india</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

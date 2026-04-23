@@ -31,4 +31,3 @@ tags:
   <li><p>Accenture, tüm ürün değer zinciri boyunca otomasyon çözümleri sunacak kapasiteye sahip olacak.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.thescxchange.com/articles/10514-accenture-completes-acquisition-of-open-stream-holdings"><u>https://www.thescxchange.com/articles/10514-accenture-completes-acquisition-of-open-stream-holdings</u></a></p>

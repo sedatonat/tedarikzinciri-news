@@ -77,7 +77,6 @@ The two sections won by National Grid will enable the company to play a critical
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.reuters.com/business/energy/national-grid-awarded-764-billion-supply-chain-framework-2025-03-13/"><u>https://www.reuters.com/business/energy/national-grid-awarded-764-billion-supply-chain-framework-2025-03-13/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>

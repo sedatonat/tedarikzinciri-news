@@ -32,4 +32,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10404-epicor-acquires-enterprise-software-startup-kyklo"><u>https://www.thescxchange.com/articles/10404-epicor-acquires-enterprise-software-startup-kyklo</u></a></p>

@@ -36,4 +36,3 @@ tags:
   <li><p>Satın alma, Platform Science'ın sektördeki inovasyonu hızlandırma stratejisinin bir parçası ve Trimble'ın varlıklarını yeniden yapılandırma sürecinin devamı niteliğinde.</p></li>
 </ul>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/platform-science-buys-telematics-business-units-from-trimble"><u>https://www.thescxchange.com/platform-science-buys-telematics-business-units-from-trimble</u></a></p>

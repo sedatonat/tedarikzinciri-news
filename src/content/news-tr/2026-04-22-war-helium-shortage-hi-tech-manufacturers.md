@@ -36,9 +36,6 @@ tags:
 3. Dünyada yalnızca 14 helyum rafinerisi bulunuyor.<br>
 4. <strong>Samsung</strong> ve <strong>SK hynix</strong>, en azından Haziran&rsquo;a kadar yetecek stoklara sahip.<br>
 5. <strong>Pan</strong>, <strong>GPU</strong>&rsquo;ların <strong>Qatari helium</strong>, <strong>Israeli bromine</strong> ve <strong>LNG tanker</strong>&rsquo;lara bağımlı olduğunu vurguluyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43904-war-shortage-of-helium-looms-for-hi-tech-manufacturers-others"><u>https://www.supplychainbrain.com/articles/43904-war-shortage-of-helium-looms-for-hi-tech-manufacturers-others</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

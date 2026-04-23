@@ -28,9 +28,6 @@ tags:
 3. Sevkıyat doğruluğu artıyor, hata oranları düşüyor.<br>
 4. Rakip FedEx de benzer bir RFID stratejisi yürütüyor.<br>
 5. Genişlemenin uluslararası operasyonlara da yayılması bekleniyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychain247.com/article/ups-rfid-tracking-rollout-us-network"><u>https://www.supplychain247.com/article/ups-rfid-tracking-rollout-us-network</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

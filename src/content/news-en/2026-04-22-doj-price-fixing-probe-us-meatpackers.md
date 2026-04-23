@@ -20,9 +20,6 @@ tags: ['DOJ', 'et paketleyici', 'National Beef', 'Cargill', 'Tyson Foods', 'JBS'
 3. <strong>U.S.</strong> cattle herds are at their lowest level since 1951.<br>
 4. <strong>Tyson</strong> and <strong>Cargill</strong> agreed to pay an $87.5 million class-action settlement in January 2026.<br>
 5. <strong>New World screwworm</strong> is reemerging, creating additional pressure on cattle ranchers.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43899-doj-to-open-price-fixing-probe-into-us-meatpackers"><u>https://www.supplychainbrain.com/articles/43899-doj-to-open-price-fixing-probe-into-us-meatpackers</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book is Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

@@ -72,7 +72,6 @@ Trieste bağlantısı sayesinde müşteriler artık küresel pazarlara doğrudan
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/msc-launches-new-intermodal-rail-link-from-serbia-to-trieste/"><u>https://www.porttechnology.org/news/msc-launches-new-intermodal-rail-link-from-serbia-to-trieste/</u></a></p>
 <p>--------------------</p>
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

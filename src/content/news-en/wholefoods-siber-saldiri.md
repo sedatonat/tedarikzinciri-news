@@ -38,7 +38,6 @@ tags:
   <li><p>Contractual security requirements will be enhanced.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/42021-cyberattack-on-supplier-causes-empty-shelves-at-whole-foods" rel="noopener" target="_new">https://www.supplychainbrain.com/articles/42021-cyberattack-on-supplier-causes-empty-shelves-at-whole-foods</a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>

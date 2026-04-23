@@ -53,7 +53,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/40615-how-bp-and-jll-are-reinventing-the-strategic-outsourcing-of-real-estate"><u>https://www.supplychainbrain.com/articles/40615-how-bp-and-jll-are-reinventing-the-strategic-outsourcing-of-real-estate</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

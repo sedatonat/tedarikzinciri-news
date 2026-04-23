@@ -43,7 +43,6 @@ tags:
 <p><br></p>
 <p>---</p>
 <p><br></p>
-<p><strong>Haber Linki: </strong><a href="https://splash247.com/shadow-vlccs-lined-up-for-demolition/"><u>https://splash247.com/shadow-vlccs-lined-up-for-demolition/</u></a></p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

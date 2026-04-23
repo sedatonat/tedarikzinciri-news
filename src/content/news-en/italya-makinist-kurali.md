@@ -61,7 +61,6 @@ This will enable Italian operators, particularly on <strong>Europe's north-south
 </ul>
 <p style="text-align: justify"><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://www.railfreight.com/policy/2025/10/24/the-single-driver-rule-in-italy-is-an-epochal-shift/"><u>https://www.railfreight.com/policy/2025/10/24/the-single-driver-rule-in-italy-is-an-epochal-shift/</u></a></p>
 <p>--------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>
 <p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>

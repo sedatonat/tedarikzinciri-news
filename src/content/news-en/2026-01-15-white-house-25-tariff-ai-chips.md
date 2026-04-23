@@ -28,9 +28,6 @@ tags: ['yapay zeka çipleri', 'tarife', 'Trump', 'Nvidia', 'AMD', 'yarı iletken
 3. The <strong>US</strong> manufactures only approximately 10% of the chips it requires.<br>
 4. <strong>Trump</strong>'s initial threat of a 100% tariff in August 2025 has been scaled back.<br>
 5. The exemption mechanism allowing a 25% share from <strong>Nvidia</strong>'s <strong>China</strong> sales is preserved.</p>
-<p>---<br>
-<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43215-white-house-slaps-25-tariffs-on-re-exported-ai-chips"><u>https://www.supplychainbrain.com/articles/43215-white-house-slaps-25-tariffs-on-re-exported-ai-chips</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Choose an ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

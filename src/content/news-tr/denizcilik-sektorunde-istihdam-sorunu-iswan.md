@@ -40,4 +40,3 @@ tags:
 </ol>
 <p><br></p>
 <p><br></p>
-<p><strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/news/iswan-addresses-maritime-recruiting-crisis/"><u>https://www.porttechnology.org/news/iswan-addresses-maritime-recruiting-crisis/</u></a></p>

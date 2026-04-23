@@ -31,9 +31,6 @@ tags:
 3. Merkez; lounge, kütüphane, meditasyon-ibadet odaları ve şapel barındıracak.<br>
 4. Wi-Fi, SIM kart hizmetleri ve liman turu için gözlem terasları sunulacak.<br>
 5. Port Hedland Avustralya'nın en büyük tonaj limanı; dünyanın en büyük demir cevheri ihracat noktası.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/pilbara-ports-begins-21-million-seafarers-facility-build/"><u>https://www.porttechnology.org/pilbara-ports-begins-21-million-seafarers-facility-build/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

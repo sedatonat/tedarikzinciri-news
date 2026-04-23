@@ -36,9 +36,6 @@ tags:
 3. <strong>Trump</strong> yönetimi federal <strong>plug-in</strong> teşviklerini kaldırıyor.<br>
 4. Analistler <strong>Tesla</strong>&rsquo;nın değerlemesinin <strong>real-world AI</strong> teması üzerinde şekilleniyor olduğunu belirtiyor.<br>
 5. <strong>BYD</strong>&rsquo;nin <strong>vertical integration</strong> modeli, batarya ve motor tedarik zincirinde güçlü avantaj sağlıyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43071-tesla-loses-ev-crown-to-byd-after-second-annual-sales-drop"><u>https://www.supplychainbrain.com/articles/43071-tesla-loses-ev-crown-to-byd-after-second-annual-sales-drop</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -29,9 +29,6 @@ tags:
 3. Uygulama; istilacı türlerin yayılmasını azaltırken gemi verimliliğini artırıyor.<br>
 4. Standart; Clean Hull Initiative (CHI) ve Bellona Vakfı liderliğinde geliştirildi.<br>
 5. Gövde temizliği işlerinin belgelenmesi için net bir yapı sunuyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/iso-6319-sets-global-standard-for-safe-hull-cleaning-at-ports/"><u>https://www.porttechnology.org/iso-6319-sets-global-standard-for-safe-hull-cleaning-at-ports/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

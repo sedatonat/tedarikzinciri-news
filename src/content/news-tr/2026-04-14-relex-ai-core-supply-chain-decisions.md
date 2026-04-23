@@ -36,9 +36,6 @@ tags:
 3. %47 envanter ve tedarik optimizasyonunda; %41 lojistik ve rotalamada yapay zeka uyguluyor.<br>
 4. %71 üretken ve ajansal yapay zekaya; %60 öngörücü yapay zekaya 3-5 yılda yatırım planlıyor.<br>
 5. %44 tüketici talep volatilitesini en üst sıradaki zorluk olarak işaret ediyor.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43849-report-ai-moves-into-core-supply-chain-decisions"><u>https://www.supplychainbrain.com/articles/43849-report-ai-moves-into-core-supply-chain-decisions</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

@@ -31,9 +31,6 @@ tags:
 3. Vinçler ikiz spreader ve döner trolley ile donatılacak.<br>
 4. Active Load Control teknolojisi konteyner sallanmasını ortadan kaldırarak yerleştirme doğruluğunu artırıyor.<br>
 5. Yatırım, Sagarmala ve PM Gati Shakti programları kapsamında liman-demiryolu entegrasyon hedefleriyle uyumlu.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.porttechnology.org/indian-terminal-orders-two-konecranes-rmg-cranes/"><u>https://www.porttechnology.org/indian-terminal-orders-two-konecranes-rmg-cranes/</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

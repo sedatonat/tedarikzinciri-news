@@ -35,9 +35,6 @@ tags:
 3. <strong>U.S.</strong> şirketleri; siparişleri yeniden başlatıyor &mdash; navlun oranları artıyor.<br>
 4. <strong>NRF Global Port Tracker</strong>; H2 2025&rsquo;te %15-25 ithalat düşüşü tahmin ediyor.<br>
 5. <strong>POLA</strong>; <strong>U.S.</strong>&rsquo;nin en büyük konteyner limanı &mdash; pandemi zirvesinin altında.</p>
-<p>---<br>
-<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41820-port-of-la-uncertainty-remains-following-pause-on-china-tariffs"><u>https://www.supplychainbrain.com/articles/41820-port-of-la-uncertainty-remains-following-pause-on-china-tariffs</u></a><br>
--------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>

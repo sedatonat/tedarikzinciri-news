@@ -66,7 +66,6 @@ These additional controls have become standard operations for the FSB.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>News Link: </strong><a href="https://en.portnews.ru/news/385463/"><u>https://en.portnews.ru/news/385463/</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>
