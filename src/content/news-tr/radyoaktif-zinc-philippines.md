@@ -42,12 +42,12 @@ tags:
 <p style="text-align: justify"><strong>Zannwann International Trading Corp.</strong> ise konuya ilişkin açıklama taleplerine yanıt vermedi. <strong>Filipin Liman Otoritesi (PPA)</strong>, soruları <strong>Gümrük Bürosu’na (Bureau of Customs)</strong> yönlendirdi ancak oradan da resmi bir açıklama yapılmadı.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Sorun: Atıkların nereye gömüleceği</strong></h5>
-<p style="text-align: justify">Arcilla, en büyük problemin <strong>23 konteynerin güvenli şekilde bertaraf edileceği yerin bulunamaması</strong> olduğunu belirtti. Filipinler’de <strong>radyoaktif atıklar için kalıcı bir gömme tesisi bulunmamakta.</strong> Bu nedenle, hükümet <strong>yerel yönetimlerle görüşerek geçici bir depolama alanı</strong> arayışında.</p>
+<p style="text-align: justify">Arcilla, en büyük problemin <strong>23 konteynerin güvenli şekilde bertaraf edileceği yerin bulunamaması</strong> olduğunu belirtti. Filipinler’de <strong>radyoaktif atıklar için kalıcı bir gömme tesisi bulunmuyor.</strong> Bu nedenle, hükümet <strong>yerel yönetimlerle görüşerek geçici bir depolama alanı</strong> arayışında.</p>
 <p><br></p>
 <p style="text-align: justify">Ayrıca, <strong>SteelAsia tesisinde ve Zannwann’ın deposunda</strong> bulunan diğer <strong>potansiyel radyoaktif materyallerin de temizlenmesi</strong> gerektiğini söyledi. “Orada da ciddi miktarda madde olabilir,” diyen Arcilla, temizliğin ulusal öncelik olduğunu vurguladı.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Bölgesel nükleer güvenlik sorunu</strong></h5>
-<p style="text-align: justify">Uzmanlara göre, bu olay <strong>Güneydoğu Asya’da radyoaktif kirlilik ve izotop kaçaklarıyla ilgili büyüyen bir endişeyi</strong> gündeme getirdi. Bölgedeki <strong>hurda metal geri dönüşümü</strong> sektörleri, genellikle <strong>uluslararası kontrol zincirleri dışında</strong> faaliyet gösterdiğinden, <strong>nükleer izotopların sivil tedarik zincirine sızma riski</strong> artmakta.</p>
+<p style="text-align: justify">Uzmanlara göre, bu olay <strong>Güneydoğu Asya’da radyoaktif kirlilik ve izotop kaçaklarıyla ilgili büyüyen bir endişeyi</strong> gündeme getirdi. Bölgedeki <strong>hurda metal geri dönüşümü</strong> sektörleri, genellikle <strong>uluslararası kontrol zincirleri dışında</strong> faaliyet gösterdiğinden, <strong>nükleer izotopların sivil tedarik zincirine sızma riski</strong> artıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Şu ana kadar <strong>Zannwann’ın önceki sevkiyatlarında herhangi bir radyasyon tespiti yapılmadı</strong>, ancak yetkililer <strong>mevcut olayın Endonezya’daki sezyum-137 kirliliğiyle bağlantılı olup olmadığını</strong> henüz doğrulayamadı.</p>
 <p><br></p>

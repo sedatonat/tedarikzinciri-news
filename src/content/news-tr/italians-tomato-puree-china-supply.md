@@ -25,7 +25,7 @@ tags:
 <p><br></p>
 <p>Perakendeciler, özellikle büyük süpermarket zincirleri, tedarik zincirlerini optimize etmek ve maliyetleri düşürmek amacıyla farklı ülkelerden mal tedarik etmeyi sürdürüyor. Ancak, bu strateji, ürünlerin kalitesi ve orijinalliği konusunda tüketicilere doğru bilgi sunulmadığı takdirde marka değeri üzerinde olumsuz etki yaratabilir. İtalyan üreticilerinin, ürünlerinin gerçek menşei konusunda daha şeffaf olmaları ve tüketicilere net bilgiler sağlamaları önem taşıyor.</p>
 <p><br></p>
-<p>Ayrıca, bu durum gıda güvenliği ve kalite standartları açısından da dikkate değerdir. Çin'de üretilen ürünlerin, Avrupa Birliği’nin gıda güvenliği standartlarına uygunluğu konusunda endişeler bulunmaktadır. Tüketiciler, aldıkları ürünlerin hangi koşullarda üretildiğini ve kalite kontrollerinin nasıl gerçekleştirildiğini bilmek istemektedir. Bu nedenle, markaların şeffaflık ilkesine bağlı kalmaları, uzun vadede tüketici güvenini artıracaktır.</p>
+<p>Ayrıca, bu durum gıda güvenliği ve kalite standartları açısından da dikkate değerdir. Çin'de üretilen ürünlerin, Avrupa Birliği’nin gıda güvenliği standartlarına uygunluğu konusunda endişeler bulunuyordır. Tüketiciler, aldıkları ürünlerin hangi koşullarda üretildiğini ve kalite kontrollerinin nasıl gerçekleştirildiğini bilmek istemektedir. Bu nedenle, markaların şeffaflık ilkesine bağlı kalmaları, uzun vadede tüketici güvenini artıracaktır.</p>
 <p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>

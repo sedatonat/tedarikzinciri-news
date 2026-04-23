@@ -29,17 +29,17 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Deniz lojistiği,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Mürettebat eğitimi,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Okyanus araştırmaları ve bilimsel iş birlikleri<br>
-bulunmakta.</p></li>
+bulunuyor.</p></li>
 </ul>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Rusya’dan Hindistan’a buz sınıfı ve yeşil gemi teklifleri</strong></h4>
-<p style="text-align: justify">Patruşev’in açıklamalarında öne çıkan en önemli konu, Rusya’nın buz sınıfı gemi inşasındaki uzmanlığı oldu. Rusya, özellikle <strong>buz sınıfı gemiler ve nükleer/büyük ölçekli buz kırıcılar</strong> konusunda dünya lideri kabul edilmekte.</p>
+<p style="text-align: justify">Patruşev’in açıklamalarında öne çıkan en önemli konu, Rusya’nın buz sınıfı gemi inşasındaki uzmanlığı oldu. Rusya, özellikle <strong>buz sınıfı gemiler ve nükleer/büyük ölçekli buz kırıcılar</strong> konusunda dünya lideri kabul ediliyor.</p>
 <p style="text-align: justify">Patruşev şunları söyledi:</p>
 <blockquote style="text-align: justify">“Buz sınıfı gemiler başta olmak üzere, balıkçı, yolcu ve yardımcı gemilerde mevcut tasarımlarımızı sunabilir veya Hindistan’a özel yeni tasarımlar geliştirebiliriz. Yeşil gemi inşası da iş birliğimizin önemli bir parçası olabilir.”</blockquote>
-<p style="text-align: justify">Bu vurgular, Hindistan’ın özellikle <strong>yeşil limanlar, düşük emisyonlu gemi teknolojileri ve alternatif yakıtlar</strong> konusundaki ulusal hedefleriyle örtüşmekte.</p>
+<p style="text-align: justify">Bu vurgular, Hindistan’ın özellikle <strong>yeşil limanlar, düşük emisyonlu gemi teknolojileri ve alternatif yakıtlar</strong> konusundaki ulusal hedefleriyle örtüşüyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Krylov Merkezi merkezli büyük bir Ar-Ge ortaklığı önerisi</strong></h4>
-<p style="text-align: justify">Rusya, St. Petersburg’daki ünlü <strong>Krylov Devlet Araştırma Merkezi</strong> üzerinden büyük bir Ar-Ge iş birliği öneriyor. Patruşev’e göre Krylov, onlarca yıldır gemi hidrodinamiği, tasarım, malzeme bilimi ve askeri–sivil mühendislik alanında öncü bir rol oynamakta.</p>
+<p style="text-align: justify">Rusya, St. Petersburg’daki ünlü <strong>Krylov Devlet Araştırma Merkezi</strong> üzerinden büyük bir Ar-Ge iş birliği öneriyor. Patruşev’e göre Krylov, onlarca yıldır gemi hidrodinamiği, tasarım, malzeme bilimi ve askeri–sivil mühendislik alanında öncü bir rol oynuyor.</p>
 <p style="text-align: justify">Patruşev, yakın gelecekte merkezin temel alınarak ulusal araştırma merkezi oluşturulacağını belirtti:</p>
 <blockquote style="text-align: justify">“Bu merkez, çok sayıda bilimsel kuruluşu tek çatı altında birleştirecek. Hindistan’ın bu ağ ile iş birliği yapması büyük avantaj sağlayacaktır.”</blockquote>
 <blockquote><br></blockquote>

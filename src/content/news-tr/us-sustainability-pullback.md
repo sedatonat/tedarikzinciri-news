@@ -19,13 +19,13 @@ tags:
 - yeşil lojistik
 - çevre yatırımları
 ---
-<p>Yeni bir anket, ABD’deki lojistik firmalarının sustainability initiatives konusunda yatırım azaltmaya başladığını ortaya koymuştur. Katılımcıların %45’i, ekonomik baskılar nedeniyle çevre projelerini ertelediklerini belirtmiştir. Fuel efficiency programs ve EV fleet adoption, maliyet nedeniyle yavaşlamaktadır. Buna rağmen, ESG compliance ve customer expectations sürdürülebilirlik gündemini canlı tutmaktadır. Uzmanlar, kısa vadeli duraksamanın ardından regülasyon baskısı ile tekrar ivme kazanılacağını öngörmektedir.</p>
+<p>Yeni bir anket, ABD’deki lojistik firmalarının sustainability initiatives konusunda yatırım azaltmaya başladığını ortaya koymuştur. Katılımcıların %45’i, ekonomik baskılar nedeniyle çevre projelerini ertelediklerini belirtmiştir. Fuel efficiency programs ve EV fleet adoption, maliyet nedeniyle yavaşlamaktadır. Buna rağmen, ESG compliance ve customer expectations sürdürülebilirlik gündemini canlı tutuyordır. Uzmanlar, kısa vadeli duraksamanın ardından regülasyon baskısı ile tekrar ivme kazanılacağını öngörüyordir.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
-1. ABD lojistik firmaları sürdürülebilir yatırımları azaltmaktadır.<br>
-2. Ekonomik baskılar kararları etkilemektedir.<br>
+1. ABD lojistik firmaları sürdürülebilir yatırımları azaltıyordır.<br>
+2. Ekonomik baskılar kararları etkiliyordir.<br>
 3. EV fleets ve yakıt programları yavaşlamaktadır.<br>
-4. ESG compliance gündemi canlı tutmaktadır.<br>
+4. ESG compliance gündemi canlı tutuyordır.<br>
 5. Regülasyonlar sürdürülebilirliği yeniden hızlandıracaktır.</p>
 <p><br>
 ---<br>

@@ -19,19 +19,19 @@ tags:
 - görünürlük teknolojisi
 - deniz taşımacılığı
 ---
-<p style="text-align: justify"><strong>Mediterranean Shipping Co.</strong> (<strong>MSC</strong>), soğutulmuş kargo hizmetlerini geliştirmek amacıyla <strong>iReefer</strong> adlı yeni bir izleme sistemi tanıttı. Bu sistem, göndericilere soğutulmuş kargolarının konumu ve sıcaklığı hakkında gerçek zamanlı güncellemeler sunmakta. Cenevre merkezli taşıyıcı, 210.000'den fazla soğutuculu konteyneri ve 500'den fazla gemiyi bu yeni teknoloji ile donattığını belirtti. ​</p>
+<p style="text-align: justify"><strong>Mediterranean Shipping Co.</strong> (<strong>MSC</strong>), soğutulmuş kargo hizmetlerini geliştirmek amacıyla <strong>iReefer</strong> adlı yeni bir izleme sistemi tanıttı. Bu sistem, göndericilere soğutulmuş kargolarının konumu ve sıcaklığı hakkında gerçek zamanlı güncellemeler sunuyor. Cenevre merkezli taşıyıcı, 210.000'den fazla soğutuculu konteyneri ve 500'den fazla gemiyi bu yeni teknoloji ile donattığını belirtti. ​</p>
 <p><br></p>
-<p style="text-align: justify"><strong>MSC</strong>, yıllık olarak 1 milyonun üzerinde soğutuculu konteyner taşımakta ve önümüzdeki yıllarda tüm konteyner ve gemi filosunu bu teknoloji ile donatmayı hedeflemekte. <strong>MSC</strong>'nin lojistik şefi <strong>Giuseppe Prudente</strong>, "iReefer, müşteriler düşünülerek tasarlandı" şeklinde bir açıklama yaptı.</p>
+<p style="text-align: justify"><strong>MSC</strong>, yıllık olarak 1 milyonun üzerinde soğutuculu konteyner taşıyor ve önümüzdeki yıllarda tüm konteyner ve gemi filosunu bu teknoloji ile donatmayı hedefliyor. <strong>MSC</strong>'nin lojistik şefi <strong>Giuseppe Prudente</strong>, "iReefer, müşteriler düşünülerek tasarlandı" şeklinde bir açıklama yaptı.</p>
 <p><br></p>
-<p style="text-align: justify">Bu yeni teknoloji, soğutulmuş kargo taşımacılığında şeffaflığı artırarak, göndericilerin ürünlerinin durumunu daha yakından takip etmelerine olanak tanımakta. Bu sayede, olası sorunlar erken tespit edilerek, ürün kalitesi ve güvenliği korunmakta.​</p>
+<p style="text-align: justify">Bu yeni teknoloji, soğutulmuş kargo taşımacılığında şeffaflığı artırarak, göndericilerin ürünlerinin durumunu daha yakından takip etmelerine olanak tanıyor. Bu sayede, olası sorunlar erken tespit edilerek, ürün kalitesi ve güvenliği korunuyor.​</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>MSC</strong>, soğutulmuş kargo hizmetlerini geliştirmek için <strong>iReefer</strong> adlı yeni bir izleme sistemi tanıttı.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>iReefer</strong>, göndericilere kargolarının konumu ve sıcaklığı hakkında gerçek zamanlı bilgi sunmakta.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>iReefer</strong>, göndericilere kargolarının konumu ve sıcaklığı hakkında gerçek zamanlı bilgi sunuyor.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">210.000'den fazla soğutuculu konteyner ve 500'den fazla gemi bu teknoloji ile donatıldı.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>MSC</strong>, önümüzdeki yıllarda tüm filosunu bu teknoloji ile donatmayı planlamakta.​<a href="https://www.joc.com/article/msc-launches-new-visibility-technology-for-refrigerated-cargo-5935929" rel="noopener" target="_blank">joc.com</a></p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Bu sistem, ürün kalitesi ve güvenliğini artırarak, olası sorunların erken tespit edilmesine yardımcı olmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>MSC</strong>, önümüzdeki yıllarda tüm filosunu bu teknoloji ile donatmayı planlıyor.​<a href="https://www.joc.com/article/msc-launches-new-visibility-technology-for-refrigerated-cargo-5935929" rel="noopener" target="_blank">joc.com</a></p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Bu sistem, ürün kalitesi ve güvenliğini artırarak, olası sorunların erken tespit edilmesine yardımcı oluyor.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

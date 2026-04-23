@@ -18,7 +18,7 @@ tags:
 - sürdürülebilirlik
 - paydaş yönetimi
 ---
-<p>Gartner Inc.'in yeni araştırmasına göre, tedarik zinciri ve satın alma liderleri, uzun vadeli zorluklar yerine işletmenin hayatta kalmasını tehdit eden acil risklere odaklanarak kaynak kısıtlamalarını daha iyi yönetebilirler. Bu bulgular, önde gelen tedarik zincirlerinin, paydaşları acil ve somut sorunlara odaklanarak harekete geçirdiğini göstermektedir. Paradoksal olarak, bu yaklaşım, uzun vadeli kısıtlamaları doğrudan ele almaktan daha etkili olabilmektedir.</p>
+<p>Gartner Inc.'in yeni araştırmasına göre, tedarik zinciri ve satın alma liderleri, uzun vadeli zorluklar yerine işletmenin hayatta kalmasını tehdit eden acil risklere odaklanarak kaynak kısıtlamalarını daha iyi yönetebilirler. Bu bulgular, önde gelen tedarik zincirlerinin, paydaşları acil ve somut sorunlara odaklanarak harekete geçirdiğini gösteriyordir. Paradoksal olarak, bu yaklaşım, uzun vadeli kısıtlamaları doğrudan ele alıyorn daha etkili olabiliyordir.</p>
 <p><br></p>
 <p>Gartner uzmanları, tedarik zinciri liderlerinin kaynak kısıtlamalarını ele almak için yeterli eylemi yapmasını engelleyen üç ana engeli belirlediklerini açıkladılar. Bu sonuçlar, Ocak 2024'te 143 tedarik zinciri lideriyle yapılan bir anketten elde edilmiştir ve bu hafta Barcelona, İspanya'daki Gartner Tedarik Zinciri Sempozyumu/Xpo sırasında sunulmuştur.</p>
 <p><br></p>

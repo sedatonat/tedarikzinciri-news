@@ -91,7 +91,7 @@ gibi temel adımlar gerekiyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Demiryolu derneklerine göre Avrupa politikaları karayoluna yapısal avantaj sağlıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">LHV’ler rekabet tartışmasının merkezinde.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Modal shift’in anahtarı: karayolunu cezalandırmak değil, demiryolunu güçlendirmek.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Karayolu ve demiryolu birbirine rakip olmaktan çok <strong>tamamlayıcı</strong> modlar.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Karayolu ve demiryolu birbirine rakip oluyorn çok <strong>tamamlayıcı</strong> modlar.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

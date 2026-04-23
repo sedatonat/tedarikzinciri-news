@@ -42,7 +42,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Kaliforniya’nın <strong>Senate Bill 100</strong> kapsamında 2045’e kadar %100 temiz elektriğe geçiş hedefini destekleyecek,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Limanın Resource Adequacy (RA) gereksinimlerini karşılamasına yardımcı olacak.</p></li>
 </ul>
-<p style="text-align: justify">Bu anlaşma, limanın uzun vadeli enerji tedarikini güvence altına alan en önemli adımlardan biri olarak görülmekte.</p>
+<p style="text-align: justify">Bu anlaşma, limanın uzun vadeli enerji tedarikini güvence altına alan en önemli adımlardan biri olarak görülüyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Bölgesel iş birlikleri güçleniyor</strong></h4>
 <p style="text-align: justify">Port of Oakland, kamuya ait bir enerji sağlayıcısı olarak <strong>Northern California Power Agency (NCPA)</strong> üyesi. Liman, NCPA aracılığıyla diğer bölgesel kamu kuruluşlarıyla:</p>
@@ -51,9 +51,9 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">sürdürülebilir fiyatlandırma modelleri,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">ekipman modernizasyonu,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">temiz enerji projelerinin ölçeklendirilmesi<br>
-gibi alanlarda iş birliği yürütmekte.</p></li>
+gibi alanlarda iş birliği yürütüyor.</p></li>
 </ul>
-<p style="text-align: justify">Bu iş birliği, hem kiracıların daha dayanıklı ve ucuz enerjiye ulaşmasını hem de limanın karbon nötr vizyonuna hızla yaklaşmasını sağlamaktadır.</p>
+<p style="text-align: justify">Bu iş birliği, hem kiracıların daha dayanıklı ve ucuz enerjiye ulaşmasını hem de limanın karbon nötr vizyonuna hızla yaklaşmasını sağlıyordır.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Önemli Notlar:</strong></h4>
 <ul>
@@ -62,7 +62,7 @@ gibi alanlarda iş birliği yürütmekte.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Kaliforniya RPS hedefinin neredeyse <strong>iki katına</strong> ulaşıldı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Liman, 4 MW kapasiteli <strong>20 yıllık enerji depolama anlaşması</strong> yaptı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">ESSA, dalgalanan yenilenebilir enerji üretimini dengeleyip enerji güvenliğini artıracak.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Oakland, NCPA üyeliğiyle bölgesel enerji iş birliklerini genişletmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Oakland, NCPA üyeliğiyle bölgesel enerji iş birliklerini genişlediyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

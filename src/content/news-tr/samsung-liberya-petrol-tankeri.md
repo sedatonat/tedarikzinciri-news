@@ -33,24 +33,24 @@ Bildirimde, projenin konusu “<strong>petrol tankerleri (3 gemi)</strong>” ol
 <p><br></p>
 <p>Bu sözleşme, Samsung Heavy Industries’in <strong>istikrarlı sipariş portföyünü genişletme</strong> stratejisinin bir parçası olarak değerlendiriliyor.</p>
 <p><br>
-Şirket, son dönemde özellikle <strong>enerji taşımacılığına yönelik yüksek katma değerli gemi inşa projelerinde</strong> küresel rekabet gücünü artırmakta.</p>
+Şirket, son dönemde özellikle <strong>enerji taşımacılığına yönelik yüksek katma değerli gemi inşa projelerinde</strong> küresel rekabet gücünü artırıyor.</p>
 <p><br></p>
 <h5><strong>Samsung Heavy Industries: Küresel Gemi İnşa Liderlerinden Biri</strong></h5>
 <p><strong>Samsung Heavy Industries Co., Ltd.</strong>, <strong>Samsung Group</strong> bünyesinde faaliyet gösteren halka açık bir Güney Koreli gemi inşa şirketi.</p>
 <p><br>
 Firma, <strong>ticari gemiler, açık deniz platformları (offshore platforms)</strong> ve <strong>enerji taşımacılığına özel gemiler</strong> alanında uzmanlaşmış durumda.</p>
 <p><br></p>
-<p>SHI, <strong>dünyanın en büyük tersanelerinden biri olan Geoje Tersanesi</strong>’nde faaliyet göstermekte ve özellikle <strong>LNG taşıyıcıları, VLCC’ler (Very Large Crude Carrier)</strong> ve <strong>FPSO üniteleri (Floating Production Storage and Offloading)</strong> üretiminde sektör lideri konumunda.</p>
+<p>SHI, <strong>dünyanın en büyük tersanelerinden biri olan Geoje Tersanesi</strong>’nde faaliyet gösteriyor ve özellikle <strong>LNG taşıyıcıları, VLCC’ler (Very Large Crude Carrier)</strong> ve <strong>FPSO üniteleri (Floating Production Storage and Offloading)</strong> üretiminde sektör lideri konumunda.</p>
 <p><br></p>
 <h5><strong>Stratejik Önemi: Enerji Gemilerinde Süregelen Talep</strong></h5>
 <p>Petrol tankerleri, enerji ticaretinde <strong>küresel arz zincirinin kritik halkalarından biri</strong> olmaya devam ediyor.</p>
 <p><br>
-2025 yılı itibarıyla <strong>enerji taşımacılığında filo yenileme</strong> ve <strong>karbonsuzlaştırma (decarbonization)</strong> yatırımlarının artması, <strong>Güney Koreli gemi üreticilere güçlü bir sipariş akışı</strong> sağlamakta.</p>
+2025 yılı itibarıyla <strong>enerji taşımacılığında filo yenileme</strong> ve <strong>karbonsuzlaştırma (decarbonization)</strong> yatırımlarının artması, <strong>Güney Koreli gemi üreticilere güçlü bir sipariş akışı</strong> sağlıyor.</p>
 <p><br></p>
 <p>Uzmanlar, SHI’nin bu sözleşmeyle birlikte <strong>yüksek kapasiteli, çevre dostu tahrik sistemlerine sahip tanker üretiminde</strong> pozisyonunu daha da güçlendireceğini belirtiyor.</p>
 <p><br></p>
 <h5><strong>Sonuç: SHI, Küresel Gemi İnşa Pazarında Konumunu Pekiştiriyor</strong></h5>
-<p>Liberyalı armatörle imzalanan bu yeni kontrat, <strong>Samsung Heavy Industries’in istikrarlı sipariş defteri ve küresel rekabet gücünü</strong> desteklemekte.</p>
+<p>Liberyalı armatörle imzalanan bu yeni kontrat, <strong>Samsung Heavy Industries’in istikrarlı sipariş defteri ve küresel rekabet gücünü</strong> destekliyor.</p>
 <p><br>
 Anlaşma, aynı zamanda şirketin <strong>enerji taşımacılığı segmentine stratejik odaklanmasını</strong> sürdürdüğünü gösteriyor.</p>
 <p><br></p>

@@ -19,17 +19,17 @@ tags:
 - IMO
 - karbon emisyonu
 ---
-<p style="text-align: justify">Avrupa Birliği (<strong>EU</strong>), denizcilik sektöründe sera gazı emisyonlarını azaltmak amacıyla yeni düzenlemeler uygulamaya koymakta. Bu adım, <strong>International Maritime Organization (IMO)</strong> tarafından belirlenen küresel hedeflerin ötesine geçmeyi hedeflemekte.</p>
+<p style="text-align: justify">Avrupa Birliği (<strong>EU</strong>), denizcilik sektöründe sera gazı emisyonlarını azaltmak amacıyla yeni düzenlemeler uygulamaya koyuyor. Bu adım, <strong>International Maritime Organization (IMO)</strong> tarafından belirlenen küresel hedeflerin ötesine geçmeyi hedefliyor.</p>
 <p><br></p>
 <p style="text-align: justify">Yeni düzenlemeler kapsamında, AB üye ülkeleri, limanlarına yanaşan gemilerin karbon emisyonlarını izlemek ve raporlamakla yükümlü olacak. Ayrıca, gemi sahipleri ve işletmecileri, daha temiz yakıtlar kullanarak ve enerji verimliliğini artırarak emisyonlarını azaltmak zorunda kalacak.</p>
 <p><br></p>
-<p style="text-align: justify">Bu düzenlemeler, denizcilik sektöründe faaliyet gösteren şirketler için ek maliyetler ve operasyonel değişiklikler anlamına gelmekte. Ancak, uzun vadede çevresel faydaların yanı sıra, enerji tasarrufu ve sürdürülebilirlik açısından da avantajlar sunmakta.</p>
+<p style="text-align: justify">Bu düzenlemeler, denizcilik sektöründe faaliyet gösteren şirketler için ek maliyetler ve operasyonel değişiklikler anlamına geliyor. Ancak, uzun vadede çevresel faydaların yanı sıra, enerji tasarrufu ve sürdürülebilirlik açısından da avantajlar sunuyor.</p>
 <p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">AB, denizcilik sektöründe emisyon azaltımı için yeni düzenlemeler uygulamaya koymakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">AB, denizcilik sektöründe emisyon azaltımı için yeni düzenlemeler uygulamaya koyuyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Gemi sahipleri ve işletmecileri, daha temiz yakıtlar kullanarak ve enerji verimliliğini artırarak emisyonlarını azaltmak zorunda kalacak.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Düzenlemeler, şirketler için ek maliyetler getirse de, uzun vadede çevresel ve ekonomik faydalar sunmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Düzenlemeler, şirketler için ek maliyetler getirse de, uzun vadede çevresel ve ekonomik faydalar sunuyor.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

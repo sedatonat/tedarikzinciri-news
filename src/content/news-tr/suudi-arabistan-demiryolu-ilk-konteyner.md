@@ -23,7 +23,7 @@ tags:
 <p><br></p>
 <p>MAWANI, bu projede Zakat, Vergi ve Gümrük İdaresi (GAZT), Suudi Arabistan Demiryolları (SAR) ve Akdeniz Nakliyat Şirketi (MSC) ile iş birliği içinde hareket etti. Bu iş birliğinin amacı, limanlar arasında demiryolu bağlantıları kurarak konteynerlerin, toplu malzemelerin ve genel malların sorunsuz taşınmasını teşvik etmektir.</p>
 <p><br></p>
-<p>SAR ağlarının Riyad Kuru Limanı ile Dammam'daki Kral Abdulaziz Limanı, Jubail'deki Kral Fahd Endüstri Limanı, Jubail Ticaret Limanı ve Ras Al-Khair Limanı gibi çeşitli limanlar arasında bağlantı sağladığı bildirilmektedir.</p>
+<p>SAR ağlarının Riyad Kuru Limanı ile Dammam'daki Kral Abdulaziz Limanı, Jubail'deki Kral Fahd Endüstri Limanı, Jubail Ticaret Limanı ve Ras Al-Khair Limanı gibi çeşitli limanlar arasında bağlantı sağladığı bildiriliyordir.</p>
 <p><br></p>
 <p>Ayrıca MAWANI, Nisan ayı başlarında Suudi Arabistan Demiryolları ile limanlarından demiryolu ile yapılan yük taşıma faaliyetleri için birleşik bir çerçeve oluşturmak ve genel bir organizasyonel ve yasal model benimsemek üzere bir ortaklık anlaşması imzalamıştır.</p>
 <p><br></p>

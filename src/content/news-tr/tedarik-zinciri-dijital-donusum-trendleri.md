@@ -19,21 +19,21 @@ tags:
 - siber güvenlik
 - otomasyon
 ---
-<p>Gartner analist firması, tedarik zinciri teknolojisinde dikkat edilmesi gereken sekiz önemli eğilimi belirlemiştir. Bu teknolojik eğilimler hızla gelişmekte olup, çoğunun önümüzdeki iki ila beş yıl içinde olgunlaşması beklenmektedir.&nbsp;</p>
+<p>Gartner analist firması, tedarik zinciri teknolojisinde dikkat edilmesi gereken sekiz önemli eğilimi belirlemiştir. Bu teknolojik eğilimler hızla gelişiyor olup, çoğunun önümüzdeki iki ila beş yıl içinde olgunlaşması bekleniyordir.&nbsp;</p>
 <p><br></p>
 <p>Gartner, bu eğilimlerin işletmelerin radarında olmaması durumunda geride kalma riski ile karşı karşıya kalınacağı konusunda uyarıyor. İşte bu eğilimlerden bazıları:</p>
 <ol>
   <li><p><strong>Makine müşterileri</strong>: İnternet bağlantılı cihazlar veya algoritmalar tarafından yapılan otomatik alımlarla tanımlanır. Örneğin, mürekkep seviyesi düşük olduğunda kendi mürekkebini sipariş eden bir yazıcı.</p></li>
-  <li><p><strong>Uçtan uca sürdürülebilir tedarik zinciri çözümleri</strong>: Taşıma, planlama ve tedarik çözümleri gibi birçok tedarik zinciri çözümü, karar verme süreçlerine sürdürülebilirlik verilerini entegre etmektedir.</p></li>
+  <li><p><strong>Uçtan uca sürdürülebilir tedarik zinciri çözümleri</strong>: Taşıma, planlama ve tedarik çözümleri gibi birçok tedarik zinciri çözümü, karar verme süreçlerine sürdürülebilirlik verilerini entegre ediyordir.</p></li>
   <li><p><strong>Artırılmış bağlantılı iş gücü</strong>: Bilgi transferini ve eğitimi destekleyen giyilebilir veya mobil cihazlar.</p></li>
-  <li><p><strong>Sonraki nesil insan benzeri robotlar</strong>: İnsan gibi görünen ve hareket eden robotlar, depolarda sipariş toplama gibi işler için kullanılmaktadır.</p></li>
+  <li><p><strong>Sonraki nesil insan benzeri robotlar</strong>: İnsan gibi görünen ve hareket eden robotlar, depolarda sipariş toplama gibi işler için kullanılıyordır.</p></li>
   <li><p><strong>Yapay zeka destekli görüntüleme sistemleri</strong>: Kameralar, bilgisayarlı görü ve yapay zeka desen tanıma kullanılarak sorunları ve güvenlik problemlerini gerçek zamanlı olarak tespit eder.</p></li>
   <li><p><strong>Kompozit YZ</strong>: Şirketler, YZ stratejilerinin insan unsurunu göz önünde bulundurmalıdır.</p></li>
   <li><p><strong>Tedarik zinciri veri yönetimi</strong>: İleri analitik ve YZ daha yaygın hale geldikçe, yüksek veri kalitesini koruyacak sıkı politikaların ve süreçlerin yerinde olması kritik öneme sahiptir.</p></li>
   <li><p><strong>Siber fidye</strong>: Ransomware saldırılarının etkisi felç edici olabilir. Gartner'ın araştırmalarına göre, dünya genelindeki işletmelerin üçte ikisi fidye yazılımı saldırılarından etkilenmiş, etkilenenlerin %84'ü ciddi gelir kaybı yaşadığını belirtmiştir.</p></li>
 </ol>
 <p><br></p>
-<p>Gartner, dijital teknolojileri uygulamanın stratejik önemi konusunda iş liderleri arasında eşi görülmemiş bir fikir birliği olduğunu belirtmektedir. Araştırmalara göre, CEO'ların %78'i 2024 yılında dijital yeteneklere yatırımı artıracağını, tedarik zinciri başkanlarının %82'si ise 2024–2025 yıllarında tedarik zinciri teknolojisine daha fazla yatırım yapacaklarını ifade etmiştir.</p>
+<p>Gartner, dijital teknolojileri uygulamanın stratejik önemi konusunda iş liderleri arasında eşi görülmemiş bir fikir birliği olduğunu belirtiyordir. Araştırmalara göre, CEO'ların %78'i 2024 yılında dijital yeteneklere yatırımı artıracağını, tedarik zinciri başkanlarının %82'si ise 2024–2025 yıllarında tedarik zinciri teknolojisine daha fazla yatırım yapacaklarını ifade etmiştir.</p>
 <p><br></p>
 <h5>Önemli Notlar</h5>
 <ul>

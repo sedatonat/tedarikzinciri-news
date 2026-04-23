@@ -34,11 +34,11 @@ tags:
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
-  <li><p>Skypod + E80 kombinasyonu hız ve doğruluk sağlamaktadır.</p></li>
-  <li><p>AI orchestration talep dalgalanmasını yönetmektedir.</p></li>
-  <li><p>Freezer-rated robotlar soğuk zinciri desteklemektedir.</p></li>
+  <li><p>Skypod + E80 kombinasyonu hız ve doğruluk sağlıyordır.</p></li>
+  <li><p>AI orchestration talep dalgalanmasını yönetiyordir.</p></li>
+  <li><p>Freezer-rated robotlar soğuk zinciri destekliyordir.</p></li>
   <li><p>Digital twin devreye alma süresini kısaltmaktadır.</p></li>
-  <li><p>Mikro-fulfillment son kilometre maliyetini düşürmektedir.</p></li>
+  <li><p>Mikro-fulfillment son kilometre maliyetini düşürüyordir.</p></li>
 </ul>
 <p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42471-exotec-and-e80-group-partner-on-warehouse-automation-for-cpg-and-grocery-industries"><u>https://www.supplychainbrain.com/articles/42471-exotec-and-e80-group-partner-on-warehouse-automation-for-cpg-and-grocery-industries</u></a></p>
 <p>-------------------</p>

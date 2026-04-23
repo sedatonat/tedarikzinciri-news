@@ -26,17 +26,17 @@ tags:
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Şirketler, <strong>origin management (menşe yönetimi)</strong>, <strong>HS code</strong> ve <strong>ECCN sınıflandırmalarını</strong> güncelleyerek uyum maliyetlerini kontrol altında tutmaya çalışıyor. Bu bağlamda, <strong>automated screening (otomatik tarama)</strong> sistemleri ve <strong>compliance platformları</strong> (uyum yönetim yazılımları) devreye alınarak, yasaklı kurumlarla ticaret riskleri gerçek zamanlı izleniyor. Bu sistemler, hem ihracat lisans gereksinimlerini hem de küresel yaptırım veri tabanlarını eş zamanlı takip ediyor.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Orta vadede, bu kısıtlamalar <strong>friend-shoring</strong> eğilimini güçlendiriyor; şirketler, tedarik ve montaj operasyonlarını siyasi olarak daha öngörülebilir ülkelere kaydırıyor. Özellikle <strong>OSAT (Outsourced Semiconductor Assembly and Test)</strong> ve <strong>packaging</strong> yatırımları bölgesel ölçekte hız kazanıyor. Ayrıca, tedarik sözleşmelerinde <strong>force majeure</strong>, <strong>sanctions compliance</strong> ve <strong>uyum garantisi (compliance warranty)</strong> maddelerinin kapsamı genişletilmekte. Bu sayede hukuki ve finansal risklerin sınırlandırılması hedefleniyor.</p>
+<p style="text-align: justify">Orta vadede, bu kısıtlamalar <strong>friend-shoring</strong> eğilimini güçlendiriyor; şirketler, tedarik ve montaj operasyonlarını siyasi olarak daha öngörülebilir ülkelere kaydırıyor. Özellikle <strong>OSAT (Outsourced Semiconductor Assembly and Test)</strong> ve <strong>packaging</strong> yatırımları bölgesel ölçekte hız kazanıyor. Ayrıca, tedarik sözleşmelerinde <strong>force majeure</strong>, <strong>sanctions compliance</strong> ve <strong>uyum garantisi (compliance warranty)</strong> maddelerinin kapsamı genişletiliyor. Bu sayede hukuki ve finansal risklerin sınırlandırılması hedefleniyor.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Sonuç olarak, ABD’nin Entity List genişlemesi, yalnızca Çinli firmalarla ticareti değil, <strong>küresel teknoloji tedarik zincirinin yapı taşlarını</strong> da etkiliyor. Şirketler, <strong>risk odaklı tedarik yönetimi</strong> ve <strong>uyum teknolojileri</strong> sayesinde bu karmaşık regülasyon ortamında esneklik kazanmak için adımlar atıyor.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
   <li><p>Liste genişlemesi lisans süreçlerini sıkılaştırmakta.</p></li>
-  <li><p>Yarı iletken ve ileri ekipman sektörleri etkilenmekte.</p></li>
-  <li><p>Risk mapping ve menşe yönetimi kritik olmakta.</p></li>
-  <li><p>Otomatik tarama ve uyum platformları devreye alınmakta.</p></li>
-  <li><p>Friend-shoring ve OSAT yatırımları hızlanmakta.</p></li>
+  <li><p>Yarı iletken ve ileri ekipman sektörleri etkileniyor.</p></li>
+  <li><p>Risk mapping ve menşe yönetimi kritik oluyor.</p></li>
+  <li><p>Otomatik tarama ve uyum platformları devreye alınıyor.</p></li>
+  <li><p>Friend-shoring ve OSAT yatırımları hızlanıyor.</p></li>
 </ul>
 <p>----------</p>
 <p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41434-us-adds-more-chinese-firms-to-export-ban-list"><u>https://www.supplychainbrain.com/articles/41434-us-adds-more-chinese-firms-to-export-ban-list</u></a></p>

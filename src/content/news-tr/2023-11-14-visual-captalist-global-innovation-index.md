@@ -21,7 +21,7 @@ tags:
 <br>
 Burada ilk dikkati çeken hususlar;<br>
 1- İlk 3 2019 'dan bu yana neredeyse hiç değişmemiş. İlk sıra hiç değişmemiş.<br>
-2- Türkiye kendi bölgesinde İsrail ve BAE 'nin ardından 3ncü. İsrail 'i zaten konuşmaya gerek yok ama BAE gerçekten de ciddi uğraş veriyor. Petrolü ana gelir unsuru olmaktan çıkarmaya çalışıyor 10 yıllardır.<br>
+2- Türkiye kendi bölgesinde İsrail ve BAE 'nin ardından 3ncü. İsrail 'i zaten konuşmaya gerek yok ama BAE gerçekten de ciddi uğraş veriyor. Petrolü ana gelir unsuru oluyorn çıkarmaya çalışıyor 10 yıllardır.<br>
 3- GDP/GSYI ile Ar-Ge arasında neredeyse direkt bir doğru oranı var. Biri diğerini motive ediyor.<br>
 4- IT Donanım ürünlerinde endüstri ortalamasında Apple 4ncü.<br>
 5- Yazılımda Uber, Aplhabet 'ün önünde 2nci. İlk sıra Meta 'nın.<br>

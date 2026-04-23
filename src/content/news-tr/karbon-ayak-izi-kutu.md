@@ -26,7 +26,7 @@ tags:
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Malzeme tarafında, <strong>mono-material</strong> tercihi (örneğin tek tip karton veya polimer) ve <strong>PCR (Post-Consumer Recycled)</strong> içerikli ambalaj kullanımı, <strong>geri dönüşüm süreçlerini</strong> kolaylaştırıyor. Karma malzeme azaltımı, hem atık ayrıştırma maliyetini düşürüyor hem de üretim tedarik zincirini sadeleştiriyor.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify"><strong>Lojistikte</strong>, <strong>palletization optimization</strong> ve <strong>cube efficiency</strong> uygulamaları, hem taşıma maliyetini hem de sevkiyat başına karbon yoğunluğunu azaltmakta. Aynı zamanda depo operasyonlarında <strong>raf planlaması ve stok yönetimi verimliliği</strong> artıyor. Bu sayede, hem operasyonel hız hem de sürdürülebilirlik performansı birlikte iyileşiyor.</p>
+<p style="text-align: justify"><strong>Lojistikte</strong>, <strong>palletization optimization</strong> ve <strong>cube efficiency</strong> uygulamaları, hem taşıma maliyetini hem de sevkiyat başına karbon yoğunluğunu azaltıyor. Aynı zamanda depo operasyonlarında <strong>raf planlaması ve stok yönetimi verimliliği</strong> artıyor. Bu sayede, hem operasyonel hız hem de sürdürülebilirlik performansı birlikte iyileşiyor.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Mağaza ve e-ticaret operasyonlarında, <strong>paket boyut–ürün uyumu</strong>, ürün hasarlarını ve iade oranlarını belirgin şekilde azaltıyor. Hasar ve iade oranlarındaki düşüş, yalnızca müşteri memnuniyetini değil; aynı zamanda <strong>dolaylı karbon emisyonlarını (indirect emissions)</strong> da sınırlıyor. Çünkü her iade, yeniden taşıma ve ambalaj atığı anlamına geliyor.</p>
 <p style="text-align: justify"><br></p>
@@ -36,11 +36,11 @@ tags:
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
-  <li><p>Right-sizing malzeme ve lojistik maliyetini azaltmakta.</p></li>
-  <li><p>Mono-material/PCR geri dönüşümü kolaylaştırmakta.</p></li>
-  <li><p>Pallet/cube optimizasyonu karbonu düşürmekte.</p></li>
-  <li><p>Hasar–iade düşüşü dolaylı emisyonu sınırlamakta.</p></li>
-  <li><p>Spec verisi ve LCA karar kalitesini yükseltmekte.</p></li>
+  <li><p>Right-sizing malzeme ve lojistik maliyetini azaltıyor.</p></li>
+  <li><p>Mono-material/PCR geri dönüşümü kolaylaştırıyor.</p></li>
+  <li><p>Pallet/cube optimizasyonu karbonu düşürüyor.</p></li>
+  <li><p>Hasar–iade düşüşü dolaylı emisyonu sınırlıyor.</p></li>
+  <li><p>Spec verisi ve LCA karar kalitesini yükseltiyor.</p></li>
 </ul>
 <p>----------</p>
 <p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41436-cutting-costs-and-carbon-why-retailers-are-rethinking-their-boxes"><u>https://www.supplychainbrain.com/articles/41436-cutting-costs-and-carbon-why-retailers-are-rethinking-their-boxes</u></a></p>

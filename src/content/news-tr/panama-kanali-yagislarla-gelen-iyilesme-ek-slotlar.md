@@ -22,9 +22,9 @@ tags:
 <p><br></p>
 <p><a href="https://pancanal.com/en/"><u>Panama Kanal İdaresi (ACP)</u></a>, panamax kilitlerinde günlük maksimum geçiş sayısını 27'ye çıkaracak şekilde ekstra üç slot ekledi. Bu, kanalın normal maksimumunun 10'dan fazla altında olmasına rağmen, kuraklığın en kötüsünün geride kaldığının bir işareti.&nbsp;</p>
 <p><br></p>
-<p>18 Mart'tan itibaren geçiş tarihleri için iki ek slot açık artırmayla sunulacak ve 25 Mart'tan itibaren ek bir slot daha kullanıma sunulacak. Tam kapasitede çalıştığında, kanal günde 40 gemiyi idare edebilmekte. Panama Kanal İdaresi, günlük geçişleri kısıtlamanın yanı sıra, büyük kilitlerindeki maksimum draftı yaklaşık 2 metre azalttı.&nbsp;</p>
+<p>18 Mart'tan itibaren geçiş tarihleri için iki ek slot açık artırmayla sunulacak ve 25 Mart'tan itibaren ek bir slot daha kullanıma sunulacak. Tam kapasitede çalıştığında, kanal günde 40 gemiyi idare edebiliyor. Panama Kanal İdaresi, günlük geçişleri kısıtlamanın yanı sıra, büyük kilitlerindeki maksimum draftı yaklaşık 2 metre azalttı.&nbsp;</p>
 <p><br></p>
-<p>Şu anda kanalı geçmek için bekleyen 54 gemi bulunmakta, bu sayı geçen Ağustos ayında 160'ın üzerindeydi. Geçmiş 10 ay içerisinde, uzun kuyruklar ve yüksek geçiş ücretleri nedeniyle küresel ticaret filosunun büyük bir kısmı kanalı kullanmaktan kaçınmaya karar verdi.</p>
+<p>Şu anda kanalı geçmek için bekleyen 54 gemi bulunuyor, bu sayı geçen Ağustos ayında 160'ın üzerindeydi. Geçmiş 10 ay içerisinde, uzun kuyruklar ve yüksek geçiş ücretleri nedeniyle küresel ticaret filosunun büyük bir kısmı kanalı kullanıyorn kaçınmaya karar verdi.</p>
 <p><br></p>
 <p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
@@ -34,7 +34,7 @@ tags:
   <li><p>Kanal tam kapasitede çalıştığında günde 40 gemiyi idare edebilir.</p></li>
   <li><p>Maksimum draft, büyük kilitlerde yaklaşık 2 metre azaltıldı.</p></li>
   <li><p>Kanalı geçmeyi bekleyen gemi sayısı 160'tan 54'e düştü.</p></li>
-  <li><p>Uzun bekleme süreleri ve yüksek ücretler nedeniyle birçok gemi kanalı kullanmaktan kaçındı.</p></li>
+  <li><p>Uzun bekleme süreleri ve yüksek ücretler nedeniyle birçok gemi kanalı kullanıyorn kaçındı.</p></li>
 </ul>
 <p><br></p>
 <p><strong>Haber Linki:</strong> <a href="https://splash247.com/panama-canal-authority-adds-three-more-daily-transit-slots/"><u>https://splash247.com/panama-canal-authority-adds-three-more-daily-transit-slots/</u></a></p>

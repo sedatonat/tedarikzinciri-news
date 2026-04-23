@@ -38,7 +38,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">kişiselleştirilebilir kolçak ve kumandalar,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">isteğe bağlı <strong>geniş görüşlü cam tavan</strong> gibi güvenlik artırıcı çözümler bulunuyor.</p></li>
 </ul>
-<p style="text-align: justify">Bu bileşenler, Traigo_i’yi salt bir forklift olmaktan çıkarıp <strong>modern depo operasyonları için yüksek verimli, ergonomik ve estetik bir çalışma platformu</strong> hâline getiriyor.</p>
+<p style="text-align: justify">Bu bileşenler, Traigo_i’yi salt bir forklift oluyorn çıkarıp <strong>modern depo operasyonları için yüksek verimli, ergonomik ve estetik bir çalışma platformu</strong> hâline getiriyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Kaizen felsefesinin somut yansıması</strong></h4>
 <p style="text-align: justify">Toyota Material Handling Europe, ödülün markanın <strong>Kaizen – sürekli iyileştirme</strong> kültürünün bir sonucu olduğunu vurguluyor. Traigo_i, enerji verimliliği, kullanıcı ergonomisi ve işlevsel tasarımı aynı potada eriterek markanın vizyonunu net bir şekilde ortaya koyuyor.</p>

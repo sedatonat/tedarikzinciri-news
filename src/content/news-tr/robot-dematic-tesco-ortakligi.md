@@ -22,21 +22,21 @@ tags:
 ---
 <p style="text-align: justify"><strong>Dematic</strong>, perakende sektöründe yenilikçi çözümler sunan lider bir tedarik zinciri optimizasyon şirketidir. <strong>Tesco</strong>, Birleşik Krallık merkezli, dünyanın en büyük perakende zincirlerinden biridir. Bu iki şirket, market siparişlerinin yerine getirilmesi süreçlerini geliştirmek amacıyla stratejik bir ortaklık kurmuştur.​</p>
 <p><br></p>
-<p style="text-align: justify">Ortaklığın temel amacı, <strong>Dematic</strong>'in <strong>Dematic Transcend</strong> yazılım platformunu kullanarak <strong>Tesco</strong>'nun sipariş karşılama operasyonlarını optimize etmektir. <strong>Dematic Transcend</strong>, perakende sektörüne özel olarak tasarlanmış, esnek ve ölçeklenebilir bir yazılım çözümüdür. Bu platform, sipariş yönetimi, envanter kontrolü ve lojistik operasyonlarını entegre ederek verimliliği artırmakta ve maliyetleri düşürmektedir.​</p>
+<p style="text-align: justify">Ortaklığın temel amacı, <strong>Dematic</strong>'in <strong>Dematic Transcend</strong> yazılım platformunu kullanarak <strong>Tesco</strong>'nun sipariş karşılama operasyonlarını optimize etmektir. <strong>Dematic Transcend</strong>, perakende sektörüne özel olarak tasarlanmış, esnek ve ölçeklenebilir bir yazılım çözümüdür. Bu platform, sipariş yönetimi, envanter kontrolü ve lojistik operasyonlarını entegre ederek verimliliği artırıyor ve maliyetleri düşürüyordir.​</p>
 <p><br></p>
-<p style="text-align: justify"><strong>Tesco</strong>, bu iş birliği sayesinde müşteri taleplerine daha hızlı ve etkili bir şekilde yanıt vermeyi hedeflemektedir. Özellikle çevrimiçi alışverişin artmasıyla birlikte, siparişlerin doğru ve zamanında teslim edilmesi büyük önem kazanmıştır. <strong>Dematic</strong>'in sunduğu çözümler, <strong>Tesco</strong>'nun bu alandaki performansını artırarak rekabet gücünü korumasına yardımcı olmaktadır.​</p>
+<p style="text-align: justify"><strong>Tesco</strong>, bu iş birliği sayesinde müşteri taleplerine daha hızlı ve etkili bir şekilde yanıt vermeyi hedefliyordir. Özellikle çevrimiçi alışverişin artmasıyla birlikte, siparişlerin doğru ve zamanında teslim edilmesi büyük önem kazanmıştır. <strong>Dematic</strong>'in sunduğu çözümler, <strong>Tesco</strong>'nun bu alandaki performansını artırarak rekabet gücünü korumasına yardımcı oluyordır.​</p>
 <p><br></p>
-<p style="text-align: justify"><strong>Dematic Transcend</strong> platformu, yapay zeka ve makine öğrenimi teknolojilerini kullanarak operasyonel süreçleri sürekli olarak iyileştirmektedir. Bu sayede, envanter yönetimi daha hassas bir şekilde yapılmakta, stok seviyeleri optimize edilmekte ve israf azaltılmaktadır. Ayrıca, sipariş toplama süreçleri otomatikleştirilerek insan hatası minimize edilmekte ve iş gücü verimliliği artırılmaktadır.​</p>
+<p style="text-align: justify"><strong>Dematic Transcend</strong> platformu, yapay zeka ve makine öğrenimi teknolojilerini kullanarak operasyonel süreçleri sürekli olarak iyileştiriyordir. Bu sayede, envanter yönetimi daha hassas bir şekilde yapılıyor, stok seviyeleri optimize ediliyor ve israf azaltılıyordır. Ayrıca, sipariş toplama süreçleri otomatikleştirilerek insan hatası minimize ediliyor ve iş gücü verimliliği artırılıyordır.​</p>
 <p><br></p>
-<p style="text-align: justify">Bu ortaklık, perakende sektöründe dijital dönüşümün önemini bir kez daha vurgulamaktadır. Geleneksel yöntemlerle operasyonlarını sürdüren şirketler, dijital çözümleri benimseyerek rekabet avantajı elde etmektedir. <strong>Tesco</strong> ve <strong>Dematic</strong> iş birliği, bu dönüşümün başarılı bir örneği olarak sektöre ilham vermektedir.​</p>
+<p style="text-align: justify">Bu ortaklık, perakende sektöründe dijital dönüşümün önemini bir kez daha vurguluyordır. Geleneksel yöntemlerle operasyonlarını sürdüren şirketler, dijital çözümleri benimseyerek rekabet avantajı elde ediyordir. <strong>Tesco</strong> ve <strong>Dematic</strong> iş birliği, bu dönüşümün başarılı bir örneği olarak sektöre ilham veriyordir.​</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Dematic</strong> ve <strong>Tesco</strong>, market siparişlerinin yerine getirilmesi süreçlerini iyileştirmek için stratejik bir ortaklık kurmuştur.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Ortaklık kapsamında, <strong>Dematic Transcend</strong> yazılım platformu kullanılmaktadır.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Bu platform, yapay zeka ve makine öğrenimi teknolojileriyle operasyonel süreçleri optimize etmektedir.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Tesco</strong>, bu iş birliği sayesinde müşteri taleplerine daha hızlı ve etkili bir şekilde yanıt vermeyi hedeflemektedir.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Ortaklık, perakende sektöründe dijital dönüşümün önemini bir kez daha göstermektedir.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Ortaklık kapsamında, <strong>Dematic Transcend</strong> yazılım platformu kullanılıyordır.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Bu platform, yapay zeka ve makine öğrenimi teknolojileriyle operasyonel süreçleri optimize ediyordir.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Tesco</strong>, bu iş birliği sayesinde müşteri taleplerine daha hızlı ve etkili bir şekilde yanıt vermeyi hedefliyordir.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Ortaklık, perakende sektöründe dijital dönüşümün önemini bir kez daha gösteriyordir.</p></li>
 </ul>
 <p style="text-align: justify"><br></p>
 <p>---</p>

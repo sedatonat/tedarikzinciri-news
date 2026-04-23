@@ -25,7 +25,7 @@ tags:
 <p><br></p>
 <p>AUTOSHIPMAN taslak ekibine liderlik eden Anglo Eastern'dan Kaptan Ajay Hazari, "Şu anda, uzaktan kontrol edilen gemiler dünyanın çeşitli bölgelerinde ticari olarak işletiliyor. Bu sektörde büyüme görüyoruz ve birçok şirket gemi sahiplerine uzaktan kontrol yönetim hizmetleri sunuyor," dedi.</p>
 <p><br></p>
-<p>BIMCO Standartlar, İnovasyon ve Araştırma Direktörü Grant Hunter ise, "AUTOSHIPMAN, BIMCO'nun uzaktan kontrol edilen gemilerin ticari işletimine ve belki de sonunda tamamen otonom gemilere ilk adımıdır. AUTOSHIPMAN'ın geliştirilmesi sırasında, yasal ve sigorta uzmanlarından yardım aldık ve süreç boyunca dünyada gemileri uzaktan işletmekte olan şirketlerden değerli içgörüler elde ettik," ifadelerini kullandı.</p>
+<p>BIMCO Standartlar, İnovasyon ve Araştırma Direktörü Grant Hunter ise, "AUTOSHIPMAN, BIMCO'nun uzaktan kontrol edilen gemilerin ticari işletimine ve belki de sonunda tamamen otonom gemilere ilk adımıdır. AUTOSHIPMAN'ın geliştirilmesi sırasında, yasal ve sigorta uzmanlarından yardım aldık ve süreç boyunca dünyada gemileri uzaktan işlediyor olan şirketlerden değerli içgörüler elde ettik," ifadelerini kullandı.</p>
 <p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>

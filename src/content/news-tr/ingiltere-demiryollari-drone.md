@@ -23,9 +23,9 @@ tags:
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Operasyonlar, <strong>geofencing</strong> (coğrafi sınırlandırma), <strong>güvenli irtifa</strong> ve <strong>mahremiyet kurallarına</strong> uygun şekilde yürütülüyor. Böylece dronların yalnızca yetkilendirilmiş hat bölümlerinde uçması ve çevre güvenliğinin korunması sağlanıyor. Toplanan yüksek çözünürlüklü görüntüler ve sensör verileri, <strong>secure cloud</strong> altyapısında depolanarak analiz ediliyor; bu da veri bütünlüğü, izlenebilirlik ve standartlaştırılmış bakım raporlaması açısından önemli bir adım olarak görülüyor.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Yeni uygulama, demiryolu ağındaki <strong>arıza tespit</strong> ve <strong>olay müdahalesi sürelerini</strong> ciddi biçimde kısaltıyor. Dronların gerçek zamanlı izleme kabiliyeti, insan denetiminin riskli veya erişimi zor alanlardaki eksiklerini kapatmakta; bakım ekiplerinin sadece ihtiyaç duyulan noktalara yönlendirilmesini sağlayarak operasyonel verimliliği artırmakta.</p>
+<p style="text-align: justify">Yeni uygulama, demiryolu ağındaki <strong>arıza tespit</strong> ve <strong>olay müdahalesi sürelerini</strong> ciddi biçimde kısaltıyor. Dronların gerçek zamanlı izleme kabiliyeti, insan denetiminin riskli veya erişimi zor alanlardaki eksiklerini kapatıyor; bakım ekiplerinin sadece ihtiyaç duyulan noktalara yönlendirilmesini sağlayarak operasyonel verimliliği artırıyor.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Sonuç olarak, drone devriyeleri sayesinde <strong>Birleşik Krallık demiryolu altyapısı</strong>, daha güvenli, sürdürülebilir ve kesintisiz bir hizmet standardına kavuşuyor. Bu uygulama, yolcu ve yük taşımacılığında hizmet sürekliliğini güçlendirirken, bakım maliyetlerini ve insan kaynaklı hata oranlarını da düşürmektedir.</p>
+<p style="text-align: justify">Sonuç olarak, drone devriyeleri sayesinde <strong>Birleşik Krallık demiryolu altyapısı</strong>, daha güvenli, sürdürülebilir ve kesintisiz bir hizmet standardına kavuşuyor. Bu uygulama, yolcu ve yük taşımacılığında hizmet sürekliliğini güçlendirirken, bakım maliyetlerini ve insan kaynaklı hata oranlarını da düşürüyordir.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>

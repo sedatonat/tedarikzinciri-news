@@ -21,10 +21,10 @@ tags:
 ---
 <p style="text-align: justify">CMA CGM Group, Avrupa’daki liman varlıklarını genişletme stratejisi kapsamında <strong>EUROGATE Container Terminal Hamburg (CTH)</strong>’de <strong>%20 hisse</strong> almak üzere bir term sheet imzaladığını duyurdu. İşlemin 2026’nın ilk yarısında, düzenleyici onayların ardından tamamlanması bekleniyor.</p>
 <p><br></p>
-<p style="text-align: justify">CMA CGM, bugün zaten Hamburg CTH’yi özellikle <strong>FAL (French Asia Line)</strong> servisi üzerinden düzenli olarak kullanmakta. FAL servisi, Asya ile Kuzey Avrupa arasında 23.000 TEU LNG yakıtlı megamax gemilerle yapılan hatlardan oluşuyor. Dolayısıyla bu yatırım, hem mevcut ağla uyumlu hem de Avrupa operasyonlarının uzun vadeli güçlendirilmesi için stratejik bir adım.</p>
+<p style="text-align: justify">CMA CGM, bugün zaten Hamburg CTH’yi özellikle <strong>FAL (French Asia Line)</strong> servisi üzerinden düzenli olarak kullanıyor. FAL servisi, Asya ile Kuzey Avrupa arasında 23.000 TEU LNG yakıtlı megamax gemilerle yapılan hatlardan oluşuyor. Dolayısıyla bu yatırım, hem mevcut ağla uyumlu hem de Avrupa operasyonlarının uzun vadeli güçlendirilmesi için stratejik bir adım.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Avrupa’daki terminal portföyünün güçlendirilmesi</strong></h4>
-<p style="text-align: justify">CMA CGM’nin dünya genelinde <strong>64 terminalde</strong> operasyonu bulunmakta. Hamburg’daki bu yatırım, şirketin Avrupa dağıtım ağını daha dirençli hâle getirmeyi ve kıta içi lojistik zincirlerinde <strong>karbon ayak izini azaltmayı</strong> hedefleyen genişleme planı ile uyumlu.</p>
+<p style="text-align: justify">CMA CGM’nin dünya genelinde <strong>64 terminalde</strong> operasyonu bulunuyor. Hamburg’daki bu yatırım, şirketin Avrupa dağıtım ağını daha dirençli hâle getirmeyi ve kıta içi lojistik zincirlerinde <strong>karbon ayak izini azaltmayı</strong> hedefleyen genişleme planı ile uyumlu.</p>
 <p><br></p>
 <p style="text-align: justify">Hamburg Limanı, Kuzey Avrupa’nın en önemli konteyner merkezlerinden biri olduğundan, bu hisse alımı CMA CGM’nin stratejik konumunu daha da sağlamlaştıracak.</p>
 <p><br></p>
@@ -66,7 +66,7 @@ gibi faydalar sunarak CMA CGM’nin <strong>düşük emisyonlu lojistik zinciri<
   <li style="text-align: justify"><p style="text-align: justify">CMA CGM, <strong>Hamburg CTH’de %20 hisse</strong> almak için term sheet imzaladı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">İşlem 2026 ilk yarıda tamamlanacak.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Terminal kapasitesi <strong>4M → 6M TEU</strong> olacak.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">38 hektarlık genişleme ve 1.050 m yeni rıhtım planlanmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">38 hektarlık genişleme ve 1.050 m yeni rıhtım planlanıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">EUROKOMBI bağlantısı, intermodal gücü artırıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">CMA CGM, Avrupa’da terminal portföyünü stratejik olarak büyütüyor.</p></li>
 </ul>

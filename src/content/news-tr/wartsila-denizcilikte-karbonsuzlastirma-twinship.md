@@ -30,7 +30,7 @@ tags:
 <p><br></p>
 <p>Girişim, Wärtsilä'nın daha önceki ve devam eden EU tarafından finanse edilen SeaTech, CHEK, Green Ray ve Ammonia2-4 projelerinin sonuçlarını kullanacak ve bunların üzerine inşa edecektir. Bu projelerden elde edilen deneyimler ve bilgiler, TwinShip'in hedeflerine ulaşmasında önemli bir rol oynayacak.</p>
 <p><br></p>
-<p>Wärtsilä Marine Araştırma Koordinasyonu ve Finansmanı Genel Müdürü Anders Öster, "Endüstri işbirliği, denizcilik endüstrisinin emisyon azaltma hedeflerine ulaşması için esastır ve bu TwinShip projesi, Wärtsilä olarak desteklemekten memnuniyet duyduğumuz son derece önemli bir girişimdir" dedi. "Bu projenin işbirlikçi şemsiyesi altında birlikte çalışarak, karbonsuzlaştırılmış bir geleceğe gerçek bir katkı sağlayabiliriz."</p>
+<p>Wärtsilä Marine Araştırma Koordinasyonu ve Finansmanı Genel Müdürü Anders Öster, "Endüstri işbirliği, denizcilik endüstrisinin emisyon azaltma hedeflerine ulaşması için esastır ve bu TwinShip projesi, Wärtsilä olarak destekliyorn memnuniyet duyduğumuz son derece önemli bir girişimdir" dedi. "Bu projenin işbirlikçi şemsiyesi altında birlikte çalışarak, karbonsuzlaştırılmış bir geleceğe gerçek bir katkı sağlayabiliriz."</p>
 <p>TwinShip projesi, denizcilik sektöründe daha sürdürülebilir ve verimli operasyonlar için yeni standartlar belirlemeyi amaçlıyor. Güvenilir veri ve tahmin edici içgörüler sunarak, gemi sahipleri ve operatörlerinin filo performansını optimize etmelerine, maliyetleri düşürmelerine ve emisyonları azaltmalarına yardımcı olacak. Proje, aynı zamanda sektördeki paydaşlar arasında işbirliğini teşvik ederek, kolektif bilgi ve uzmanlıktan yararlanmayı hedefliyor.</p>
 <p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>

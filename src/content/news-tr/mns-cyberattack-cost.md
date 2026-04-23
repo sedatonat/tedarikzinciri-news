@@ -19,14 +19,14 @@ tags:
 - perakende
 - siber güvenlik
 ---
-<p>Marks &amp; Spencer (M&amp;S), maruz kaldığı siber saldırının maliyetinin 300 milyon sterline ulaşabileceğini öngörmektedir. Olay, customer data ve supply chain systems üzerinde geçici kesintilere yol açmakta. Şirket, incident response, forensic analysis, ve customer notification süreçlerini yürütmekte; tedarik tarafında vendor risk management ve üçüncü taraf erişimlerinin yeniden sertleştirilmesi gündeme alınmakta. Kısa vadede store replenishment ve online fulfillment akışlarında yavaşlama riski oluşmakta. Orta vadede yatırım planı, zero-trust architecture, MFA, EDR/XDR, ve backup immutability gibi güvenlik katmanlarını güçlendirmekte. Olay, perakende sektöründe cyber resilience ve business continuity planlarının önemini yeniden hatırlatmakta.</p>
+<p>Marks &amp; Spencer (M&amp;S), maruz kaldığı siber saldırının maliyetinin 300 milyon sterline ulaşabileceğini öngörüyordir. Olay, customer data ve supply chain systems üzerinde geçici kesintilere yol açıyor. Şirket, incident response, forensic analysis, ve customer notification süreçlerini yürütüyor; tedarik tarafında vendor risk management ve üçüncü taraf erişimlerinin yeniden sertleştirilmesi gündeme alınıyor. Kısa vadede store replenishment ve online fulfillment akışlarında yavaşlama riski oluşuyor. Orta vadede yatırım planı, zero-trust architecture, MFA, EDR/XDR, ve backup immutability gibi güvenlik katmanlarını güçlendiriyor. Olay, perakende sektöründe cyber resilience ve business continuity planlarının önemini yeniden hatırlatıyor.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
-1. M&amp;S siber saldırı maliyetini yüksek öngörmektedir.<br>
-2. Incident response ve adli analiz sürmektedir.<br>
+1. M&amp;S siber saldırı maliyetini yüksek öngörüyordir.<br>
+2. Incident response ve adli analiz sürüyordir.<br>
 3. Vendor risk yönetimi sertleşmektedir.<br>
-4. Zero-trust ve XDR yatırımları artmaktadır.<br>
-5. Perakende için cyber resilience kritik olmaktadır.</p>
+4. Zero-trust ve XDR yatırımları artıyordır.<br>
+5. Perakende için cyber resilience kritik oluyordır.</p>
 <p><br>
 ---<br>
 <strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41829-marks-and-spencer-expects-cyberattack-to-cost-300-million"><u>https://www.supplychainbrain.com/articles/41829-marks-and-spencer-expects-cyberattack-to-cost-300-million</u></a><br>

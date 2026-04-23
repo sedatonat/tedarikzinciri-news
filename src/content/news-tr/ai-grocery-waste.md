@@ -19,9 +19,9 @@ tags:
 - IoT
 - soğuk zincir
 ---
-<p>Gıda perakendecileri, marj baskısı ve israf sorunuyla karşı karşıya; AI çözümleri bu denklemde güçlü bir kaldıraç sunmakta. Birincisi, demand forecasting &amp; inventory optimization raf ve arka oda stoklarını dengede tutarak son kullanma tarihi kaynaklı kayıpları azaltmakta. İkincisi, dynamic pricing ve markdown optimization algoritmaları, hızla yaklaşan sona erme tarihli ürünleri akıllı indirimlerle tüketiciye yönlendirmekte. Üçüncüsü, computer vision ve IoT sensors, sıcaklık ve nem kontrolü ile bozulma riskini azaltmakta; mağaza içi raf doluluğunu gerçek zamanlı izlemekte. Tedarik ortaklarıyla veri paylaşımı, farm-to-shelf akışında tahmin doğruluğunu artırmakta; cold chain analytics kırılgan noktaları belirlemekte.&nbsp;</p>
+<p>Gıda perakendecileri, marj baskısı ve israf sorunuyla karşı karşıya; AI çözümleri bu denklemde güçlü bir kaldıraç sunuyor. Birincisi, demand forecasting &amp; inventory optimization raf ve arka oda stoklarını dengede tutarak son kullanma tarihi kaynaklı kayıpları azaltıyor. İkincisi, dynamic pricing ve markdown optimization algoritmaları, hızla yaklaşan sona erme tarihli ürünleri akıllı indirimlerle tüketiciye yönlendiriyor. Üçüncüsü, computer vision ve IoT sensors, sıcaklık ve nem kontrolü ile bozulma riskini azaltıyor; mağaza içi raf doluluğunu gerçek zamanlı izliyor. Tedarik ortaklarıyla veri paylaşımı, farm-to-shelf akışında tahmin doğruluğunu artırıyor; cold chain analytics kırılgan noktaları belirliyor.&nbsp;</p>
 <p><br></p>
-<p>Sonuçta AI, hem israf maliyetini hem karbon ayak izini düşürmekte; müşteri memnuniyetinde süreklilik sağlamaktadır.</p>
+<p>Sonuçta AI, hem israf maliyetini hem karbon ayak izini düşürüyor; müşteri memnuniyetinde süreklilik sağlıyordır.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 1. Forecasting israfı azaltır.<br>

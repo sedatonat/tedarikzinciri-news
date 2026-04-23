@@ -26,15 +26,15 @@ tags:
 <p style="text-align: justify">CEO Elliott Hill, mektubunda Alagirisamy’nin genişleyen rolünü şu sözlerle tanımladı:<br>
  <strong>“[Alagirisamy] and his team will now be able to look end-to-end to ensure technology is fully integrated across the company and into how we create, plan, make, deliver and sell our world-class innovations.”</strong></p>
 <p><br>
-Bu ifade, Nike’ın teknoloji yatırımlarını artık ayrı bir fonksiyon değil, doğrudan <strong>operational excellence</strong>’ın temel unsuru olarak konumlandırdığını ortaya koymakta.</p>
+Bu ifade, Nike’ın teknoloji yatırımlarını artık ayrı bir fonksiyon değil, doğrudan <strong>operational excellence</strong>’ın temel unsuru olarak konumlandırdığını ortaya koyuyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Liderlik Yapısında Sadeleşme</strong></h3>
-<p style="text-align: justify">COO pozisyonunun oluşturulmasıyla birlikte Nike, iki kritik C-level rolü ortadan kaldırdı. Şirketin önceki <strong>Chief Technology Officer (CTO)</strong>’u <strong>Muge Dogan</strong> ve <strong>Chief Commercial Officer (CCO)</strong>’u <strong>Craig Williams</strong>, yeni yapı kapsamında şirketten ayrıldı. Bu karar, Nike’ın fonksiyon bazlı silo yaklaşımından uzaklaşıp <strong>entegre operasyon modeli</strong>ne geçişini hızlandırdığına işaret etmekte.</p>
+<p style="text-align: justify">COO pozisyonunun oluşturulmasıyla birlikte Nike, iki kritik C-level rolü ortadan kaldırdı. Şirketin önceki <strong>Chief Technology Officer (CTO)</strong>’u <strong>Muge Dogan</strong> ve <strong>Chief Commercial Officer (CCO)</strong>’u <strong>Craig Williams</strong>, yeni yapı kapsamında şirketten ayrıldı. Bu karar, Nike’ın fonksiyon bazlı silo yaklaşımından uzaklaşıp <strong>entegre operasyon modeli</strong>ne geçişini hızlandırdığına işaret ediyor.</p>
 <p><br></p>
-<p style="text-align: justify">Sektör gözlemcilerine göre bu sadeleşme, karar alma süreçlerini hızlandırmayı ve teknoloji yatırımlarının doğrudan tedarik, üretim, lojistik ve satış süreçlerine gömülmesini amaçlamakta. Özellikle <strong>demand volatility</strong>, <strong>nearshoring</strong>, <strong>sürdürülebilirlik baskıları</strong> ve <strong>omnichannel complexity</strong> gibi faktörlerin arttığı bir dönemde Nike, operasyonel uyumu tek merkezden yönetmeyi tercih ediyor.</p>
+<p style="text-align: justify">Sektör gözlemcilerine göre bu sadeleşme, karar alma süreçlerini hızlandırmayı ve teknoloji yatırımlarının doğrudan tedarik, üretim, lojistik ve satış süreçlerine gömülmesini amaçlıyor. Özellikle <strong>demand volatility</strong>, <strong>nearshoring</strong>, <strong>sürdürülebilirlik baskıları</strong> ve <strong>omnichannel complexity</strong> gibi faktörlerin arttığı bir dönemde Nike, operasyonel uyumu tek merkezden yönetmeyi tercih ediyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Alagirisamy’nin Profili: Tedarikten Teknolojiye</strong></h3>
-<p style="text-align: justify">Yaklaşık <strong>20 yıllık Nike deneyimine</strong> sahip olan <strong>Venkatesh Alagirisamy</strong>, 2020 yılından bu yana şirketin <strong>chief supply chain officer</strong>’ı olarak görev yapmakta. Bu rolde:</p>
+<p style="text-align: justify">Yaklaşık <strong>20 yıllık Nike deneyimine</strong> sahip olan <strong>Venkatesh Alagirisamy</strong>, 2020 yılından bu yana şirketin <strong>chief supply chain officer</strong>’ı olarak görev yapıyor. Bu rolde:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>raw material sourcing</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>manufacturing</strong>,</p></li>
@@ -42,12 +42,12 @@ Bu ifade, Nike’ın teknoloji yatırımlarını artık ayrı bir fonksiyon değ
   <li style="text-align: justify"><p style="text-align: justify"><strong>integrated planning</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>operations</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>sustainability</strong> ve</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Express Lane</strong> organizasyonlarının küresel stratejisini yönetmekteydi.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Express Lane</strong> organizasyonlarının küresel stratejisini yönetiyorydi.</p></li>
 </ul>
 <p style="text-align: justify">Alagirisamy’nin geçmişi, Nike’ın bugünkü dönüşüm hedefleriyle örtüşüyor. CSCO olmadan önce Alagirisamy, <strong>Express Lane Global Operations VP</strong> ve <strong>Converse COO</strong> gibi roller üstlenmişti. Bu deneyimler, hem hızlı pazara çıkış (speed-to-market) hem de marka bazlı operasyon yönetimi konularında derin bir birikim sağladı.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Stratejik Anlam: Supply Chain + Tech Birleşmesi</strong></h3>
-<p style="text-align: justify">Nike’ın bu adımı, tedarik zincirinin artık yalnızca <strong>maliyet ve teslimat</strong> fonksiyonu değil; aynı zamanda <strong>teknoloji destekli rekabet avantajı</strong> kaynağı olarak görüldüğünü teyit ediyor. Dijital planlama, gelişmiş talep tahmini, otomasyon, veri analitiği ve sürdürülebilirlik çözümleri, Nike’ın operasyonel mimarisinde daha merkezi bir rol üstlenmekte.</p>
+<p style="text-align: justify">Nike’ın bu adımı, tedarik zincirinin artık yalnızca <strong>maliyet ve teslimat</strong> fonksiyonu değil; aynı zamanda <strong>teknoloji destekli rekabet avantajı</strong> kaynağı olarak görüldüğünü teyit ediyor. Dijital planlama, gelişmiş talep tahmini, otomasyon, veri analitiği ve sürdürülebilirlik çözümleri, Nike’ın operasyonel mimarisinde daha merkezi bir rol üstleniyor.</p>
 <p style="text-align: justify">Alagirisamy’nin COO olarak atanması, şirketin:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>end-to-end visibility</strong>,</p></li>
@@ -55,10 +55,10 @@ Bu ifade, Nike’ın teknoloji yatırımlarını artık ayrı bir fonksiyon değ
   <li style="text-align: justify"><p style="text-align: justify"><strong>teknoloji yatırımlarının ROI’sini artırma</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>ürün yaşam döngüsünü kısaltma</strong></p></li>
 </ul>
-<p style="text-align: justify">gibi hedeflerine hizmet etmekte.</p>
+<p style="text-align: justify">gibi hedeflerine hizmet ediyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Sektörel Bağlam</strong></h3>
-<p style="text-align: justify">Nike, son yıllarda küresel perakende ve üretim ağında ciddi dalgalanmalarla karşı karşıya kaldı. Pandemi sonrası tedarik zinciri kırılmaları, Çin’e bağımlılığın azaltılması, <strong>nearshoring</strong> ve <strong>sürdürülebilir üretim</strong> baskıları; şirketi daha çevik bir operasyon modeline yönlendirdi. Bu nedenle tedarik zinciri liderliğinin teknolojiyle birleştirilmesi, yalnızca organizasyonel değil, <strong>stratejik bir yön değişikliği</strong> olarak okunmakta.</p>
+<p style="text-align: justify">Nike, son yıllarda küresel perakende ve üretim ağında ciddi dalgalanmalarla karşı karşıya kaldı. Pandemi sonrası tedarik zinciri kırılmaları, Çin’e bağımlılığın azaltılması, <strong>nearshoring</strong> ve <strong>sürdürülebilir üretim</strong> baskıları; şirketi daha çevik bir operasyon modeline yönlendirdi. Bu nedenle tedarik zinciri liderliğinin teknolojiyle birleştirilmesi, yalnızca organizasyonel değil, <strong>stratejik bir yön değişikliği</strong> olarak okunuyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Genel Değerlendirme</strong></h3>
 <p style="text-align: justify">Nike’ın COO rolünü tedarik zinciri kökenli bir yöneticiye emanet etmesi, küresel perakende sektöründe <strong>supply chain’in merkezileşmesi</strong> eğilimini yansıtıyor. Teknoloji, planlama ve operasyonun tek liderlik altında birleşmesi; Nike’ın hız, esneklik ve entegrasyon alanlarında rekabet gücünü artırmayı amaçladığını gösteriyor.</p>
@@ -66,11 +66,11 @@ Bu ifade, Nike’ın teknoloji yatırımlarını artık ayrı bir fonksiyon değ
 <h3 style="text-align: justify"><strong>Önemli Notlar:</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Venkatesh Alagirisamy</strong>, Nike’ta <strong>EVP ve COO</strong> olarak atandı.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Alagirisamy, <strong>CSCO</strong> görevini de sürdürmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Alagirisamy, <strong>CSCO</strong> görevini de sürdürüyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">COO rolüyle birlikte <strong>teknoloji organizasyonu</strong> doğrudan tedarik zinciri liderliğine bağlandı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Nike, <strong>CTO ve CCO</strong> pozisyonlarını kaldırarak yapıyı sadeleştirdi.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Amaç: teknoloji ile operasyonu uçtan uca entegre etmek.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Atama, Nike’ın hız, çeviklik ve dijitalleşme odaklı dönüşümünü desteklemekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Atama, Nike’ın hız, çeviklik ve dijitalleşme odaklı dönüşümünü destekliyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

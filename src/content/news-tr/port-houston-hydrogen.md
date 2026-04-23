@@ -19,31 +19,31 @@ tags:
 - federal hibe
 - temiz enerji
 ---
-<p style="text-align: justify">ABD’nin en büyük limanlarından biri olan <strong>Port Houston</strong>, hidrojen yakıt altyapısını geliştirmek için <strong>25 milyon dolarlık</strong> bir federal hibe almaya hak kazandı. Bu fon, limanın emisyonlarını azaltmayı ve çevresel sürdürülebilirliği artırmayı hedefleyen bir hidrojen yakıt istasyonu inşası için kullanılacak. Hibe, <strong>Amerikan Ulaştırma Bakanlığı Federal Otoyol İdaresi</strong> (<strong>FHWA</strong>) tarafından sağlanmakta.</p>
+<p style="text-align: justify">ABD’nin en büyük limanlarından biri olan <strong>Port Houston</strong>, hidrojen yakıt altyapısını geliştirmek için <strong>25 milyon dolarlık</strong> bir federal hibe almaya hak kazandı. Bu fon, limanın emisyonlarını azaltmayı ve çevresel sürdürülebilirliği artırmayı hedefleyen bir hidrojen yakıt istasyonu inşası için kullanılacak. Hibe, <strong>Amerikan Ulaştırma Bakanlığı Federal Otoyol İdaresi</strong> (<strong>FHWA</strong>) tarafından sağlanıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Port Houston, bu projeyle birlikte liman operasyonlarında <strong>hidrojen yakıt hücreli araçlar</strong> ve ekipmanlar kullanarak karbon emisyonlarını düşürmeyi amaçlamakta. Yeni istasyon, limanın karbon nötr hedeflerine ulaşmasına katkı sağlayacak ve temiz enerji geçişini hızlandıracak.</p>
+<p style="text-align: justify">Port Houston, bu projeyle birlikte liman operasyonlarında <strong>hidrojen yakıt hücreli araçlar</strong> ve ekipmanlar kullanarak karbon emisyonlarını düşürmeyi amaçlıyor. Yeni istasyon, limanın karbon nötr hedeflerine ulaşmasına katkı sağlayacak ve temiz enerji geçişini hızlandıracak.</p>
 <p><br></p>
-<p style="text-align: justify">Bu yatırım, <strong>Amerikan İnovasyon ve Rekabet Yasası (Infrastructure Investment and Jobs Act - IIJA)</strong> kapsamında finansal destek alan projelerden biri olarak öne çıkmakta. Liman yetkilileri, projenin yalnızca Houston bölgesi için değil, <strong>ABD'deki tüm liman endüstrisi</strong> için de kritik bir adım olduğunu vurgulamakta.</p>
-<p style="text-align: justify">Hidrojen yakıt istasyonunun <strong>Houston Ship Channel</strong> bölgesinde inşa edilmesi planlanmakta. Bu bölge, ABD'nin en işlek limanlarından biri olarak enerji ve lojistik açısından büyük bir öneme sahip. Yeni tesis, yalnızca liman operasyonlarında değil, çevredeki ulaşım ve lojistik ağlarında da <strong>hidrojen yakıt kullanımını yaygınlaştırmayı</strong> hedeflemekte.</p>
+<p style="text-align: justify">Bu yatırım, <strong>Amerikan İnovasyon ve Rekabet Yasası (Infrastructure Investment and Jobs Act - IIJA)</strong> kapsamında finansal destek alan projelerden biri olarak öne çıkıyor. Liman yetkilileri, projenin yalnızca Houston bölgesi için değil, <strong>ABD'deki tüm liman endüstrisi</strong> için de kritik bir adım olduğunu vurguluyor.</p>
+<p style="text-align: justify">Hidrojen yakıt istasyonunun <strong>Houston Ship Channel</strong> bölgesinde inşa edilmesi planlanıyor. Bu bölge, ABD'nin en işlek limanlarından biri olarak enerji ve lojistik açısından büyük bir öneme sahip. Yeni tesis, yalnızca liman operasyonlarında değil, çevredeki ulaşım ve lojistik ağlarında da <strong>hidrojen yakıt kullanımını yaygınlaştırmayı</strong> hedefliyor.</p>
 <p><br></p>
-<p style="text-align: justify">Port Houston, sıfır emisyonlu ulaşım çözümlerine geçişi hızlandırmak için <strong>Çevre Koruma Ajansı (EPA)</strong> ve diğer federal kuruluşlarla iş birliği içinde çalışmakta. Liman yetkilileri, hidrojen teknolojilerinin uzun vadede <strong>dizel yakıt kullanımını azaltarak</strong> çevresel etkileri minimize edeceğini belirtmekte.</p>
+<p style="text-align: justify">Port Houston, sıfır emisyonlu ulaşım çözümlerine geçişi hızlandırmak için <strong>Çevre Koruma Ajansı (EPA)</strong> ve diğer federal kuruluşlarla iş birliği içinde çalışıyor. Liman yetkilileri, hidrojen teknolojilerinin uzun vadede <strong>dizel yakıt kullanımını azaltarak</strong> çevresel etkileri minimize edeceğini belirtiyor.</p>
 <p><br></p>
-<p style="text-align: justify">Houston bölgesi, <strong>ABD’nin enerji başkenti</strong> olarak bilinmekte ve hidrojen üretimi konusunda önemli bir merkez konumunda. Bu proje, bölgedeki <strong>hidrojen ekonomisinin büyümesine katkı sağlayacak</strong> ve hidrojen bazlı temiz enerji altyapısının geliştirilmesini teşvik edecek.</p>
+<p style="text-align: justify">Houston bölgesi, <strong>ABD’nin enerji başkenti</strong> olarak biliniyor ve hidrojen üretimi konusunda önemli bir merkez konumunda. Bu proje, bölgedeki <strong>hidrojen ekonomisinin büyümesine katkı sağlayacak</strong> ve hidrojen bazlı temiz enerji altyapısının geliştirilmesini teşvik edecek.</p>
 <p><br></p>
-<p style="text-align: justify">Federal hükümet, bu tür projeleri destekleyerek <strong>2030 ve 2050 karbon nötr hedeflerine ulaşmayı</strong> amaçlamakta. <strong>Biden yönetimi</strong>, temiz enerji dönüşümüne büyük yatırımlar yaparak ABD’yi yenilenebilir enerji ve düşük karbon teknolojilerinde lider konuma taşımayı hedeflemekte.</p>
+<p style="text-align: justify">Federal hükümet, bu tür projeleri destekleyerek <strong>2030 ve 2050 karbon nötr hedeflerine ulaşmayı</strong> amaçlıyor. <strong>Biden yönetimi</strong>, temiz enerji dönüşümüne büyük yatırımlar yaparak ABD’yi yenilenebilir enerji ve düşük karbon teknolojilerinde lider konuma taşımayı hedefliyor.</p>
 <p><br></p>
 <p style="text-align: justify">Bu bağlamda, Port Houston’ın hidrojen yakıt istasyonu projesi, hem liman operasyonlarının sürdürülebilirliğini artıracak hem de bölgesel enerji altyapısına yeni bir boyut kazandıracak.</p>
 <p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Port Houston</strong>, <strong>25 milyon dolarlık</strong> federal hibe aldı.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Hibe, <strong>FHWA (Federal Otoyol İdaresi)</strong> tarafından sağlanmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Proje, limanda <strong>hidrojen yakıt istasyonu kurulmasını</strong> ve sıfır emisyonlu ekipmanların kullanımını içermekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Hibe, <strong>FHWA (Federal Otoyol İdaresi)</strong> tarafından sağlanıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Proje, limanda <strong>hidrojen yakıt istasyonu kurulmasını</strong> ve sıfır emisyonlu ekipmanların kullanımını içeriyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Houston Ship Channel</strong> bölgesinde inşa edilecek.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Amerikan İnovasyon ve Rekabet Yasası (IIJA)</strong> kapsamında finanse edilmekte.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Proje, <strong>Houston’un hidrojen ekonomisini büyütmesini</strong> desteklemekte.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>EPA ve federal kuruluşlarla iş birliği</strong> içinde yürütülmekte.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Dizel kullanımını azaltarak</strong> karbon emisyonlarını düşürmeyi amaçlamakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Amerikan İnovasyon ve Rekabet Yasası (IIJA)</strong> kapsamında finanse ediliyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Proje, <strong>Houston’un hidrojen ekonomisini büyütmesini</strong> destekliyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>EPA ve federal kuruluşlarla iş birliği</strong> içinde yürütülüyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Dizel kullanımını azaltarak</strong> karbon emisyonlarını düşürmeyi amaçlıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>ABD'nin karbon nötr hedeflerine ulaşmasına katkı sağlayacak.</strong></p></li>
 </ul>
 <p><br></p>

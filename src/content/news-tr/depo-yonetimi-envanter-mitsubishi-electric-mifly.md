@@ -19,23 +19,23 @@ tags:
 - depo otomasyonu
 - lojistik teknolojisi
 ---
-<p style="text-align: justify"><strong>Mitsubishi Electric</strong>'in geliştirdiği <strong>MiFly</strong> adlı drone'lar, depolarda karanlık ortamlarda gezinme yeteneğiyle dikkat çekmekte. Bu yenilikçi teknoloji, depolama ve lojistik sektöründe devrim yaratma potansiyeline sahip.​</p>
+<p style="text-align: justify"><strong>Mitsubishi Electric</strong>'in geliştirdiği <strong>MiFly</strong> adlı drone'lar, depolarda karanlık ortamlarda gezinme yeteneğiyle dikkat çekiyor. Bu yenilikçi teknoloji, depolama ve lojistik sektöründe devrim yaratma potansiyeline sahip.​</p>
 <p><br></p>
-<p style="text-align: justify">Depolarda otomasyon ve verimliliği artırmak için geliştirilen <strong>MiFly</strong> drone'ları, ışığa ihtiyaç duymadan çalışabilmekte. Bu özellik, enerji tasarrufu sağlarken, operasyonel maliyetleri de düşürmekte. Ayrıca, karanlık ortamlarda çalışabilme yeteneği sayesinde, depolarda 7/24 kesintisiz operasyon imkanı sunulmakta.​</p>
+<p style="text-align: justify">Depolarda otomasyon ve verimliliği artırmak için geliştirilen <strong>MiFly</strong> drone'ları, ışığa ihtiyaç duymadan çalışabiliyor. Bu özellik, enerji tasarrufu sağlarken, operasyonel maliyetleri de düşürüyor. Ayrıca, karanlık ortamlarda çalışabilme yeteneği sayesinde, depolarda 7/24 kesintisiz operasyon imkanı sunuluyor.​</p>
 <p><br></p>
-<p style="text-align: justify"><strong>MiFly</strong> drone'ları, gelişmiş sensörler ve yapay zeka teknolojileri ile donatılmış durumda. Bu sayede, engelleri algılayıp, rotalarını buna göre ayarlayabilmekte. Ayrıca, depolardaki envanter yönetimini kolaylaştırarak, stok takibini daha etkin hale getirmekte.​</p>
+<p style="text-align: justify"><strong>MiFly</strong> drone'ları, gelişmiş sensörler ve yapay zeka teknolojileri ile donatılmış durumda. Bu sayede, engelleri algılayıp, rotalarını buna göre ayarlayabiliyor. Ayrıca, depolardaki envanter yönetimini kolaylaştırarak, stok takibini daha etkin hale getiriyor.​</p>
 <p><br></p>
-<p style="text-align: justify"><strong>Mitsubishi Electric</strong>'in bu yenilikçi yaklaşımı, depolama sektöründe insan gücüne olan bağımlılığı azaltmakta. Bu da, iş güvenliğini artırırken, çalışanların daha stratejik görevlere odaklanmasına olanak tanımakta.​</p>
+<p style="text-align: justify"><strong>Mitsubishi Electric</strong>'in bu yenilikçi yaklaşımı, depolama sektöründe insan gücüne olan bağımlılığı azaltıyor. Bu da, iş güvenliğini artırırken, çalışanların daha stratejik görevlere odaklanmasına olanak tanıyor.​</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>MiFly</strong> drone'ları, karanlık ortamlarda çalışabilmekte ve enerji tasarrufu sağlamakta.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>MiFly</strong> drone'ları, karanlık ortamlarda çalışabiliyor ve enerji tasarrufu sağlıyor.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Gelişmiş sensörler ve yapay zeka teknolojileri ile donatılmış durumda.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Depolarda 7/24 kesintisiz operasyon imkanı sunmakta.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Envanter yönetimini kolaylaştırarak, stok takibini daha etkin hale getirmekte.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">İnsan gücüne olan bağımlılığı azaltarak, iş güvenliğini artırmakta.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Depolarda 7/24 kesintisiz operasyon imkanı sunuyor.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Envanter yönetimini kolaylaştırarak, stok takibini daha etkin hale getiriyor.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">İnsan gücüne olan bağımlılığı azaltarak, iş güvenliğini artırıyor.​</p></li>
 </ul>
-<p style="text-align: justify">Bu gelişmeler, depolama ve lojistik sektöründe verimliliği artırarak, gelecekte daha otomatik ve akıllı depoların önünü açmakta.</p>
+<p style="text-align: justify">Bu gelişmeler, depolama ve lojistik sektöründe verimliliği artırarak, gelecekte daha otomatik ve akıllı depoların önünü açıyor.</p>
 <p><br></p>
 <p><br></p>
 <p>---</p>

@@ -21,12 +21,12 @@ tags:
 ---
 <p style="text-align: justify"><strong>DHL Global Forwarding (DGF)</strong>, <strong>ABD perakende ithalat süreçlerini sadeleştirmek ve maliyetleri azaltmak</strong> amacıyla yeni bir <strong>konsolide gümrükleme hizmeti (Consolidated Clearance Service)</strong> başlattı. Şirket, bu yeni sistemin özellikle <strong>yüksek hacimli e-ticaret ve perakende ithalatçıları</strong> için tasarlandığını ve <strong>gümrük sürecini tek bir toplu beyan üzerinden yürüterek</strong> operasyonları kolaylaştırdığını açıkladı.</p>
 <p><br></p>
-<p style="text-align: justify">DHL Global Forwarding, <strong>Deutsche Post DHL Group</strong> çatısı altında faaliyet gösteren ve <strong>hava ve denizyolu taşımacılığına</strong> odaklanan bir lojistik sağlayıcı. Şirketin açıklamasına göre, <strong>artan tarifeler, uzayan gümrükleme süreleri ve uyumluluk riskleri</strong>, özellikle <strong>tüketici odaklı sektörlerde faaliyet gösteren ithalatçılar</strong> için giderek büyüyen zorluklar oluşturmakta.</p>
+<p style="text-align: justify">DHL Global Forwarding, <strong>Deutsche Post DHL Group</strong> çatısı altında faaliyet gösteren ve <strong>hava ve denizyolu taşımacılığına</strong> odaklanan bir lojistik sağlayıcı. Şirketin açıklamasına göre, <strong>artan tarifeler, uzayan gümrükleme süreleri ve uyumluluk riskleri</strong>, özellikle <strong>tüketici odaklı sektörlerde faaliyet gösteren ithalatçılar</strong> için giderek büyüyen zorluklar oluşturuyor.</p>
 <p><br></p>
 <p style="text-align: justify">Yeni hizmet, bu sorunları <strong>daha hızlı, düşük maliyetli ve yüksek uyumluluk standartlarına sahip bir gümrükleme modeli</strong>yle çözmeyi hedefliyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Hizmetin yapısı ve işleyişi</strong></h5>
-<p style="text-align: justify">Yeni sistem, <strong>birden fazla gönderinin tek bir gümrük girişi (single customs entry)</strong> altında toplanarak işlenmesini sağlamakta. Bu sayede firmalar, <strong>birleştirilmiş vergi ve gümrük işlemleriyle</strong> hem maliyet hem de zaman tasarrufu elde etmekte.</p>
+<p style="text-align: justify">Yeni sistem, <strong>birden fazla gönderinin tek bir gümrük girişi (single customs entry)</strong> altında toplanarak işlenmesini sağlıyor. Bu sayede firmalar, <strong>birleştirilmiş vergi ve gümrük işlemleriyle</strong> hem maliyet hem de zaman tasarrufu elde ediyor.</p>
 <p><br></p>
 <p style="text-align: justify">DHL yöneticilerine göre bu çözüm, <strong>özellikle Çin menşeli mallar için kaldırılan “de minimis” eşiği</strong> sonrası ABD’ye ithalat yapan şirketlerin yeni düzenlemelere hızlı adapte olabilmesi için geliştirildi.</p>
 <p><br></p>
@@ -56,7 +56,7 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Perakendecilerin bu dönemde <strong>Delivered Duty Paid (DDP)</strong> modeline yönelerek <strong>sınır ötesi operasyonlarını sadeleştirdiği</strong>, e-ticaretin ise hızla büyümeye devam ettiği kaydedildi. <strong>Küresel sınır ötesi e-ticaret hacminin 2032’ye kadar 4,81 trilyon dolara ulaşması</strong> bekleniyor.</p>
 <p><br></p>
-<p style="text-align: justify">DHL’ye göre, tüketicilerin <strong>“beklenmedik gümrük ücretleri” ve “karmaşık iade süreçleri”</strong> nedeniyle alışverişi yarıda bırakma eğilimi artmakta. Bu nedenle <strong>şeffaf, öngörülebilir ve sadeleştirilmiş gümrük çözümleri</strong> perakendeciler için rekabet avantajı yaratacak.</p>
+<p style="text-align: justify">DHL’ye göre, tüketicilerin <strong>“beklenmedik gümrük ücretleri” ve “karmaşık iade süreçleri”</strong> nedeniyle alışverişi yarıda bırakma eğilimi artıyor. Bu nedenle <strong>şeffaf, öngörülebilir ve sadeleştirilmiş gümrük çözümleri</strong> perakendeciler için rekabet avantajı yaratacak.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>

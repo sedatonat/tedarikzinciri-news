@@ -24,7 +24,7 @@ tags:
 <p><br></p>
 <p>Bu üretim anlaşması, Fox Robotics'in önemli bir sipariş listesini karşılamasına ve tedarik zinciri yeteneklerini genişletmesine olanak tanıyacak. Walmart gibi büyük perakendecilerin Fox'un otonom forkliftlerine yatırım yapması ve şirkette pay sahibi olması, Fox Robotics'in pazardaki konumunu güçlendiriyor. Walmart, dört modern dağıtım merkezinde paletleri kamyonlardan indirmek için 19 adet FoxBot kullanmayı planlıyor.</p>
 <p><br></p>
-<p>Fox Robotics ve Kion North America arasındaki bu işbirliği, lojistik ve taşımacılık endüstrisinde inovasyonun önemini vurgulamakta. Kion North America CEO'su Jonathan Dawley, Fox Robotics'in, depo otomasyonunun son parçası olan otomatik römork yükleme ve boşaltma alanında, sektörde öncü olduğunu belirtti. Fox'un sunduğu AI/ML algoritmaları, teknoloji yığını ve robot filosu, endüstri standartlarını yükseltiyor.</p>
+<p>Fox Robotics ve Kion North America arasındaki bu işbirliği, lojistik ve taşımacılık endüstrisinde inovasyonun önemini vurguluyor. Kion North America CEO'su Jonathan Dawley, Fox Robotics'in, depo otomasyonunun son parçası olan otomatik römork yükleme ve boşaltma alanında, sektörde öncü olduğunu belirtti. Fox'un sunduğu AI/ML algoritmaları, teknoloji yığını ve robot filosu, endüstri standartlarını yükseltiyor.</p>
 <p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>

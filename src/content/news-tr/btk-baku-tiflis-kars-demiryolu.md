@@ -25,14 +25,14 @@ Bu plan kapsamında, ülkenin Türkiye sınırına yakın <strong>Akhalkalaki</s
 <p><br>
 Ayrıca, transit süresini kısaltmak ve işlemleri hızlandırmak için <strong>elektronik gümrük sistemi (e-customs clearance)</strong> devreye alınacak.</p>
 <p><br></p>
-<p style="text-align: justify">BTK hattı, <strong>Orta Koridor (Middle Corridor)</strong> olarak bilinen <strong>Çin–Orta Asya–Kafkasya–Avrupa ticaret güzergâhının</strong> en kritik bağlantılarından biri konumunda. Gürcistan’ın bu yatırımları, hattın <strong>lojistik kapasitesini, verimliliğini ve rekabet gücünü</strong> artırmayı hedeflemekte.</p>
+<p style="text-align: justify">BTK hattı, <strong>Orta Koridor (Middle Corridor)</strong> olarak bilinen <strong>Çin–Orta Asya–Kafkasya–Avrupa ticaret güzergâhının</strong> en kritik bağlantılarından biri konumunda. Gürcistan’ın bu yatırımları, hattın <strong>lojistik kapasitesini, verimliliğini ve rekabet gücünü</strong> artırmayı hedefliyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Yeni Akhalkalaki Terminali: Kapasite Artışı ve Bağlantı Gücü</strong></h5>
 <p style="text-align: justify">Yeni terminal, hâlihazırda faaliyette olan mevcut <strong>Akhalkalaki yük terminaline</strong> ek olarak inşa edilecek.</p>
 <p><br>
 Bu terminal, <strong>Türkiye sınırına çok yakın bir konumda</strong> yer alarak, özellikle <strong>yük transferi ve tren değişimi (gauge conversion)</strong> süreçlerinde kritik rol oynayacak.</p>
 <p><br></p>
-<p style="text-align: justify">BTK hattı üzerindeki mevcut altyapı, Avrupa ve Asya arasındaki farklı hat açıklıkları nedeniyle yük aktarımlarında zaman kaybına neden olmaktaydı.</p>
+<p style="text-align: justify">BTK hattı üzerindeki mevcut altyapı, Avrupa ve Asya arasındaki farklı hat açıklıkları nedeniyle yük aktarımlarında zaman kaybına neden oluyorydı.</p>
 <p><br>
 Yeni terminal, <strong>yük transferini otomatikleştiren sistemlerle</strong> bu süreyi önemli ölçüde azaltacak.</p>
 <p><br></p>
@@ -47,34 +47,34 @@ Bu sistem sayesinde yüklerin sınır geçiş süreçlerinde <strong>kağıt tab
 <p><br></p>
 <p style="text-align: justify">Uzmanlara göre bu adım, <strong>Türkiye, Azerbaycan ve Orta Asya ülkeleri</strong> arasında kesintisiz bir <strong>lojistik akış (seamless corridor)</strong> yaratacak.</p>
 <p><br></p>
-<h5 style="text-align: justify"><strong>Orta Koridorun Stratejik Önemi Artmakta</strong></h5>
-<p style="text-align: justify">Son yıllarda <strong>Rusya–Ukrayna savaşı ve Hazar geçişlerindeki artan trafik</strong> nedeniyle, Orta Koridor Avrupa-Asya taşımacılığında stratejik önem kazanmakta.</p>
+<h5 style="text-align: justify"><strong>Orta Koridorun Stratejik Önemi Artıyor</strong></h5>
+<p style="text-align: justify">Son yıllarda <strong>Rusya–Ukrayna savaşı ve Hazar geçişlerindeki artan trafik</strong> nedeniyle, Orta Koridor Avrupa-Asya taşımacılığında stratejik önem kazanıyor.</p>
 <p><br>
-BTK hattı, bu koridorun <strong>en güvenli ve kısa bağlantısı</strong> olarak öne çıkmakta.</p>
+BTK hattı, bu koridorun <strong>en güvenli ve kısa bağlantısı</strong> olarak öne çıkıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Gürcistan’ın altyapı yatırımları, hem <strong>Azerbaycan ve Türkiye ile entegrasyonu</strong> güçlendirmekte hem de <strong>Çin’den Avrupa’ya uzanan multimodal taşımacılığın</strong> sürekliliğini desteklemekte.</p>
+<p style="text-align: justify">Gürcistan’ın altyapı yatırımları, hem <strong>Azerbaycan ve Türkiye ile entegrasyonu</strong> güçlendiriyor hem de <strong>Çin’den Avrupa’ya uzanan multimodal taşımacılığın</strong> sürekliliğini destekliyor.</p>
 <p><br></p>
-<p style="text-align: justify">Bu gelişmeler, aynı zamanda <strong>Tiflis’in bölgesel lojistik merkez olma hedefinin</strong> bir parçası olarak görülmekte.</p>
+<p style="text-align: justify">Bu gelişmeler, aynı zamanda <strong>Tiflis’in bölgesel lojistik merkez olma hedefinin</strong> bir parçası olarak görülüyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Bölgesel Etki ve Gelecek Perspektifi</strong></h5>
-<p style="text-align: justify">Akhalkalaki terminalinin 2026 sonunda tamamlanması beklenmekte.</p>
+<p style="text-align: justify">Akhalkalaki terminalinin 2026 sonunda tamamlanması bekleniyor.</p>
 <p><br>
-Terminal devreye girdiğinde BTK hattında <strong>taşınan yıllık yük hacminin iki katına çıkması</strong> öngörülmekte.</p>
-<p style="text-align: justify">Ayrıca Gürcistan, bu yatırımın ardından <strong>yeşil lojistik (green logistics)</strong> uygulamalarını da devreye sokmayı planlamakta.</p>
+Terminal devreye girdiğinde BTK hattında <strong>taşınan yıllık yük hacminin iki katına çıkması</strong> öngörülüyor.</p>
+<p style="text-align: justify">Ayrıca Gürcistan, bu yatırımın ardından <strong>yeşil lojistik (green logistics)</strong> uygulamalarını da devreye sokmayı planlıyor.</p>
 <p><br>
 Yeni sistemin dijital yapısı, <strong>karbon ayak izini azaltma</strong>, <strong>yakıt verimliliği</strong> ve <strong>optimum tren planlaması</strong> gibi avantajlar sağlayacak.</p>
 <p><br></p>
-<p style="text-align: justify">Sonuç olarak Gürcistan’ın bu adımı, <strong>BTK hattını yalnızca bir transit yolu olmaktan çıkarıp</strong>, <strong>Orta Koridor’un dijital ve sürdürülebilir çekirdeği</strong> haline getirmeyi hedeflemekte.</p>
+<p style="text-align: justify">Sonuç olarak Gürcistan’ın bu adımı, <strong>BTK hattını yalnızca bir transit yolu oluyorn çıkarıp</strong>, <strong>Orta Koridor’un dijital ve sürdürülebilir çekirdeği</strong> haline getirmeyi hedefliyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Gürcistan Demiryolları</strong>, <strong>Akhalkalaki</strong>’de 2026’da yeni bir terminal inşa etmeyi planlamakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Gürcistan Demiryolları</strong>, <strong>Akhalkalaki</strong>’de 2026’da yeni bir terminal inşa etmeyi planlıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Terminal, mevcut BTK altyapısına ek kapasite sağlayacak.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Elektronik gümrükleme sistemi</strong> devreye alınarak <strong>transit süreleri kısaltılacak.</strong></p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Yatırım, <strong>Orta Koridor (Middle Corridor)</strong> üzerindeki taşımacılığı hızlandırmayı amaçlamakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Yeni sistem, <strong>bürokratik işlemleri azaltarak dijitalleşmeyi</strong> desteklemekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Yatırım, <strong>Orta Koridor (Middle Corridor)</strong> üzerindeki taşımacılığı hızlandırmayı amaçlıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Yeni sistem, <strong>bürokratik işlemleri azaltarak dijitalleşmeyi</strong> destekliyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>BTK hattının lojistik kapasitesi iki katına çıkacak</strong>, Gürcistan bölgesel ticarette merkez konumuna gelecek.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Proje, <strong>yeşil lojistik ve dijital dönüşüm hedefleriyle</strong> entegre şekilde yürütülmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Proje, <strong>yeşil lojistik ve dijital dönüşüm hedefleriyle</strong> entegre şekilde yürütülüyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

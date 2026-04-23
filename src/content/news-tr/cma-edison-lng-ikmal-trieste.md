@@ -32,7 +32,7 @@ tags:
 <h4 style="text-align: justify"><strong>CMA CGM’nin alternatif yakıt stratejisinde yeni bir adım</strong></h4>
 <p style="text-align: justify">Marsilya merkezli <strong>CMA CGM Group</strong>, LNG yakıtlı gemiler konusunda küresel ölçekte öncü şirketlerden biri. Grup, CO₂ emisyonlarını azaltmak amacıyla geniş bir <strong>LNG-dual-fuel gemi filosu</strong> işletiyor ve Avrupa’da düşük karbon yakıt altyapısının yaygınlaşmasına aktif olarak katkıda bulunuyor.</p>
 <p><br></p>
-<p style="text-align: justify">Trieste’deki ilk STS operasyonu, CMA CGM’nin Akdeniz ve Adriyatik bölgelerinde LNG tedarik güvenliğini artırarak düşük karbon stratejisini güçlendirmekte. Ayrıca, bu operasyon İtalya’nın yakıt ikmal haritasına LNG eklenmesi açısından önemli bir başlangıç niteliğinde.</p>
+<p style="text-align: justify">Trieste’deki ilk STS operasyonu, CMA CGM’nin Akdeniz ve Adriyatik bölgelerinde LNG tedarik güvenliğini artırarak düşük karbon stratejisini güçlendiriyor. Ayrıca, bu operasyon İtalya’nın yakıt ikmal haritasına LNG eklenmesi açısından önemli bir başlangıç niteliğinde.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Trieste neden önemli?</strong></h4>
 <p style="text-align: justify">Trieste Limanı:</p>
@@ -71,7 +71,7 @@ sağlayacak.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">CMA CGM ve Edison, Trieste’de <strong>İtalya’nın ilk LNG STS ikmalini</strong> gerçekleştirdi.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">CMA CGM SALAMANQUE, Ravenna Knutsen’den LNG aldı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Operasyon, İtalya’nın LNG bunker altyapısında önemli bir kilometre taşı.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Edison, Adriyatik LNG lojistiği için kritik bir rol üstlenmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Edison, Adriyatik LNG lojistiği için kritik bir rol üstleniyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">CMA CGM’nin düşük karbonlu denizcilik stratejisi güçleniyor.</p></li>
 </ul>
 <p><br></p>

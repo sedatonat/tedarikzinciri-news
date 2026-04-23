@@ -18,7 +18,7 @@ tags:
 - lojistik
 - maliyet artışı
 ---
-<p>Türkiye lojistik sektörü, depolarda yaşanan doluluk sorunu ile karşı karşıya. Depo doluluk oranları %90'ı geçerken, kiralar son bir yılda %96 arttı ve kiralama talepleri %138'e ulaştı. Uluslararası ticaret rotalarındaki aksamalar ve iç pazardaki daralma, ürünlerin bekleme süresini artırarak depolarda kriz sinyalleri veriyor. Bu durum, maliyet artışı ve sevkiyat gecikmelerine neden olabilir. Özellikle İstanbul ve çevresinde depolama alanı arzı talebi karşılamakta yetersiz kalıyor. Bu gelişmeler, önümüzdeki dönemde sektörü daha da zorlayabilir.</p>
+<p>Türkiye lojistik sektörü, depolarda yaşanan doluluk sorunu ile karşı karşıya. Depo doluluk oranları %90'ı geçerken, kiralar son bir yılda %96 arttı ve kiralama talepleri %138'e ulaştı. Uluslararası ticaret rotalarındaki aksamalar ve iç pazardaki daralma, ürünlerin bekleme süresini artırarak depolarda kriz sinyalleri veriyor. Bu durum, maliyet artışı ve sevkiyat gecikmelerine neden olabilir. Özellikle İstanbul ve çevresinde depolama alanı arzı talebi karşılıyor yetersiz kalıyor. Bu gelişmeler, önümüzdeki dönemde sektörü daha da zorlayabilir.</p>
 <p><br></p>
 <h5>Önemli Notlar:</h5>
 <ul>

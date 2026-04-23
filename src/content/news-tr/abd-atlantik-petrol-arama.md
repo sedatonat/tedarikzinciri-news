@@ -29,7 +29,7 @@ tags:
 <p style="text-align: justify">Trump yönetiminin ilk dönemi sırasında da <strong>Atlantik sondajı planı</strong>, <strong>150’den fazla belediye</strong> ve <strong>birçok eyalet lideri (Cumhuriyetçiler dâhil)</strong> tarafından reddedilmişti. Özellikle <strong>Florida ve Güney Carolina</strong> valileri, kıyı turizmini tehdit edeceği gerekçesiyle projeye açıkça karşı çıkmıştı.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>İçişleri Bakanlığı planı yeniden gözden geçiriyor</strong></h5>
-<p style="text-align: justify"><strong>ABD İçişleri Bakanlığı (Department of the Interior)</strong> tarafından hazırlanmakta olan <strong>taslak beş yıllık açık deniz petrol arama programı</strong>, şu anda yeniden şekillendiriliyor. Bu program, federal yasa gereği belirli aralıklarla güncelleniyor ve <strong>kamuoyu görüşü ile Kongre incelemesine</strong> tabi tutuluyor.</p>
+<p style="text-align: justify"><strong>ABD İçişleri Bakanlığı (Department of the Interior)</strong> tarafından hazırlanıyor olan <strong>taslak beş yıllık açık deniz petrol arama programı</strong>, şu anda yeniden şekillendiriliyor. Bu program, federal yasa gereği belirli aralıklarla güncelleniyor ve <strong>kamuoyu görüşü ile Kongre incelemesine</strong> tabi tutuluyor.</p>
 <p><br></p>
 <p style="text-align: justify">Kaynaklara göre, taslak program henüz kamuya açıklanmadı ancak <strong>Atlantik kıyısındaki satış planlarının çıkarıldığı</strong>, <strong>Meksika Körfezi</strong>, <strong>Batı Kıyısı</strong> ve <strong>Alaska açıklarındaki bazı bölgelerin</strong> hâlâ satış listesinde yer aldığı belirtiliyor.</p>
 <p><br></p>
@@ -63,7 +63,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>150’den fazla kıyı belediyesi</strong>, önceki taslağa karşı çıkmıştı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Petrol endüstrisi</strong>, Atlantik’teki keşiflerin <strong>ekonomik olarak riskli</strong> olduğunu belirtiyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Karar, <strong>2026 seçimleri öncesi siyasi riskleri azaltma stratejisi</strong> olarak değerlendiriliyor.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Trump yönetimi</strong>, <strong>Meksika Körfezi’ni “Gulf of America”</strong> olarak yeniden adlandırdı ve enerji yatırımlarını buraya yönlendirmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Trump yönetimi</strong>, <strong>Meksika Körfezi’ni “Gulf of America”</strong> olarak yeniden adlandırdı ve enerji yatırımlarını buraya yönlendiriyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

@@ -46,7 +46,7 @@ tags:
 <p><br></p>
 <h4 style="text-align: justify"><strong>ABS: “Açık diyalog ve teknik uyum kritik”</strong></h4>
 <p style="text-align: justify">ABS Başkanı ve COO’su <strong>John McDonald</strong>, iş birliğini şu sözlerle değerlendirdi:</p>
-<blockquote style="text-align: justify">“Teknik, operasyonel ve düzenleyici konuları ele almak için açık diyalog çok önemli. KATS ile bu fırsata sahip olmaktan memnuniyet duyuyoruz ve akıllı teknolojiler ile ekipman uyumluluğuna yönelik verimlilikleri birlikte geliştirmeyi dört gözle bekliyoruz.”</blockquote>
+<blockquote style="text-align: justify">“Teknik, operasyonel ve düzenleyici konuları ele almak için açık diyalog çok önemli. KATS ile bu fırsata sahip oluyorn memnuniyet duyuyoruz ve akıllı teknolojiler ile ekipman uyumluluğuna yönelik verimlilikleri birlikte geliştirmeyi dört gözle bekliyoruz.”</blockquote>
 <p style="text-align: justify">ABS, küresel denizcilik endüstrisinde özellikle:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">sınıflandırma,</p></li>

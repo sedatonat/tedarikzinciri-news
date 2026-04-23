@@ -45,7 +45,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Humber girişinde bekleme bölgesi olarak kullanılan açık deniz alanının güvenliği</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">ve <strong>çevresel faktörlerin kazadaki etkisi</strong> değerlendirilecek.</p></li>
 </ul>
-<p style="text-align: justify">Kazaya ilişkin incelemeler yalnızca İngiltere ile sınırlı kalmadı; <strong>ABD</strong> ve <strong>Portekiz</strong> yetkilileri de olayın uluslararası boyutu nedeniyle kendi <strong>bağımsız soruşturmalarını</strong> yürütmekte.</p>
+<p style="text-align: justify">Kazaya ilişkin incelemeler yalnızca İngiltere ile sınırlı kalmadı; <strong>ABD</strong> ve <strong>Portekiz</strong> yetkilileri de olayın uluslararası boyutu nedeniyle kendi <strong>bağımsız soruşturmalarını</strong> yürütüyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Stena Immaculate’in yeni durumu</strong></h5>
 <p style="text-align: justify">Kaza sonrası Stena Immaculate’in <strong>Stena Bulk filosundan çıkarılması</strong> kararı alınmıştı. Ağustos 2025’te <strong>ABD Denizcilik İdaresi (MARAD)</strong>, <strong>Tanker Security Program (TSP)</strong> kapsamında geminin yerine <strong>CS Anthem</strong> tankerini onayladı. Böylece CS Anthem, <strong>Stena Imperative</strong> ve <strong>Stena Impeccable</strong> adlı Crowley tarafından yönetilen diğer tankerlerle birlikte <strong>Savunma Bakanlığı’nın stratejik yakıt filosuna</strong> katıldı.</p>

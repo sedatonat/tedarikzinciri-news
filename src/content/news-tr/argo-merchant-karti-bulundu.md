@@ -24,13 +24,13 @@ tags:
 <p><br></p>
 <p>Bu kart, Aralık 1976'da 640 fit uzunluğundaki tanker <strong>Argo Merchant</strong>'ın Nantucket Adası açıklarında karaya oturmasıyla başlayan çevresel felaketle bağlantılıdır. Hatalı cihazlarla seyreden ve rotasından 24 mil sapmış olan gemi, karaya oturduktan altı gün sonra parçalanarak 7,5 milyon galon petrolü denize saldı ve o dönemde ABD tarihindeki en büyük tanker kaynaklı petrol sızıntısına neden oldu.</p>
 <p><br></p>
-<p>Kartın tam olarak hangi rotayı izlediği bilinmemekle birlikte, Massachusetts'ten İskoçya'ya olan yolculuğunun, ABD'nin doğu kıyısından Avrupa'ya doğru nesneleri taşıyan saat yönünde dönen bir akıntı sistemi olan Kuzey Atlantik Girdabı tarafından kolaylaştırıldığı düşünülmektedir.</p>
+<p>Kartın tam olarak hangi rotayı izlediği bilinmemekle birlikte, Massachusetts'ten İskoçya'ya olan yolculuğunun, ABD'nin doğu kıyısından Avrupa'ya doğru nesneleri taşıyan saat yönünde dönen bir akıntı sistemi olan Kuzey Atlantik Girdabı tarafından kolaylaştırıldığı düşünülüyordir.</p>
 <p><br></p>
-<p>Bu bulgu, plastiklerin çevre üzerindeki uzun süreli etkisini de gözler önüne sermektedir. Sızıntıdan kaynaklanan petrol çoktan dağılmış olmasına rağmen, plastik kart denizde geçirdiği onca yıla rağmen nispeten iyi durumda kalmıştır.</p>
+<p>Bu bulgu, plastiklerin çevre üzerindeki uzun süreli etkisini de gözler önüne seriyordir. Sızıntıdan kaynaklanan petrol çoktan dağılmış olmasına rağmen, plastik kart denizde geçirdiği onca yıla rağmen nispeten iyi durumda kalmıştır.</p>
 <p><br></p>
 <p><strong>Argo Merchant</strong> felaketi, kıyı tehditlerine—petrol ve kimyasal sızıntılar, tehlikeli atık salınımları ve deniz çöpleri dahil—hazırlanma, değerlendirme ve müdahale konularında uzmanlık merkezi haline gelen <strong>Office of Response and Restoration (OR&amp;R)</strong>'ın kurulmasına yol açmıştır.</p>
 <p><br></p>
-<p>Günümüzde petrol sızıntılarını izleme yöntemleri, çevre dostu uygulamalara doğru evrilmiştir. Artık sürüklenme kartları, biyolojik olarak parçalanabilen ahşap ve toksik olmayan boyalarla üretilmektedir.</p>
+<p>Günümüzde petrol sızıntılarını izleme yöntemleri, çevre dostu uygulamalara doğru evrilmiştir. Artık sürüklenme kartları, biyolojik olarak parçalanabilen ahşap ve toksik olmayan boyalarla üretiliyordir.</p>
 <p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>
@@ -38,7 +38,7 @@ tags:
   <li><p>Sızıntının ardından denize bırakılan plastik sürüklenme kartı, 2024 yılında İskoçya'nın Coll Adası'nda bulundu.</p></li>
   <li><p>Bu bulgu, plastiklerin çevre üzerindeki kalıcı etkisini bir kez daha gösterdi.</p></li>
   <li><p><strong>Argo Merchant</strong> felaketi, <strong>Office of Response and Restoration (OR&amp;R)</strong>'ın kurulmasına vesile oldu.</p></li>
-  <li><p>Günümüzde sürüklenme kartları, biyolojik olarak parçalanabilen malzemelerden üretilmektedir.</p></li>
+  <li><p>Günümüzde sürüklenme kartları, biyolojik olarak parçalanabilen malzemelerden üretiliyordir.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

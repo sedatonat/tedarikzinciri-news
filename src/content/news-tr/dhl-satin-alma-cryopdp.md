@@ -67,7 +67,7 @@ Onay sürecinin tamamlanmasının ardından Cryopdp, <strong>DHL Group’un sağ
 <h5 style="text-align: justify"><strong>Sektör Etkisi: Soğuk Zincir Lojistiğinde Konsolidasyon</strong></h5>
 <p style="text-align: justify">Bu satın alma, <strong>ilaç ve biyoteknoloji taşımacılığında artan konsolidasyon eğiliminin</strong> yeni bir örneği.</p>
 <p><br>
-Küresel ölçekte artan <strong>biyolojik ilaçlar, mRNA aşıları ve hücre-gene terapileri</strong>, yüksek hassasiyetli taşımacılığa olan talebi artırmakta.</p>
+Küresel ölçekte artan <strong>biyolojik ilaçlar, mRNA aşıları ve hücre-gene terapileri</strong>, yüksek hassasiyetli taşımacılığa olan talebi artırıyor.</p>
 <p><br>
 DHL’nin Cryopdp hamlesi, bu alanda <strong>Thermo Fisher, UPS Healthcare ve Kuehne+Nagel</strong> gibi rakiplerle rekabet gücünü artıracak.</p>
 <p><br></p>

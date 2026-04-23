@@ -28,7 +28,7 @@ tags:
 <h5>Önemli Notlar</h5>
 <ol>
   <li><p>BMW, yasaklı bir tedarikçiden parçalar içeren 8,000'den fazla Mini Cooper'ı ABD'ye gönderdi.</p></li>
-  <li><p>Yasaklı tedarikçi, Sichuan Jingweida Technology Group Co., zorla işçilik kullanmakta suçlandı.</p></li>
+  <li><p>Yasaklı tedarikçi, Sichuan Jingweida Technology Group Co., zorla işçilik kullanıyor suçlandı.</p></li>
   <li><p>Bu durum, Senato Finans Komitesi tarafından saptandı ve BMW, sorulara maruz kaldıktan sonra bu tedarikçiden parça kullanmayı bıraktı.</p></li>
   <li><p>Otomobil üreticileri, tedarik zincirlerinde zorla işçilik olmadığı konusunda kesin bilgilere sahip olmadıklarını belirtti.</p></li>
   <li><p>Komite, zorla işçiliği tespit etmek ve yasalara uyumu sağlamak için denetimler konusunda daha net yönergelerin verilmesini önerdi.</p></li>

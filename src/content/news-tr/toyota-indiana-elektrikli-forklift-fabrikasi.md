@@ -18,16 +18,16 @@ tags:
 - üretim tesisi
 - depo ekipmanları
 ---
-<p>Toyota Material Handling, 100 milyon dolarlık bir yatırımla Indiana, Columbus'ta elektrikli forklift üretimi yapacak yeni bir fabrika kurmaya başladı. Şirket, 1990 yılında Columbus'ta forklift üretimine başlamış olup, bu yeni tesis ile mevcut üretim alanını önemli ölçüde genişletecek. Yeni tesis 295,000 metrekare büyüklüğünde olup, Haziran 2026'da üretime başlayacak. Toyota, bu yeni girişimle, üretim süreçlerini modernize ederek elektrikli ürünlerini çok daha hızlı bir şekilde üretebilmeyi hedeflemekte, aynı zamanda yüksek kalite standartlarını korumayı sürdürecektir.</p>
+<p>Toyota Material Handling, 100 milyon dolarlık bir yatırımla Indiana, Columbus'ta elektrikli forklift üretimi yapacak yeni bir fabrika kurmaya başladı. Şirket, 1990 yılında Columbus'ta forklift üretimine başlamış olup, bu yeni tesis ile mevcut üretim alanını önemli ölçüde genişletecek. Yeni tesis 295,000 metrekare büyüklüğünde olup, Haziran 2026'da üretime başlayacak. Toyota, bu yeni girişimle, üretim süreçlerini modernize ederek elektrikli ürünlerini çok daha hızlı bir şekilde üretebilmeyi hedefliyor, aynı zamanda yüksek kalite standartlarını korumayı sürdürecektir.</p>
 <p><br></p>
-<p>Bu proje, şirketin Indiana'da gerçekleştirdiği 15'in üzerindeki genişleme çalışmasının en yenisi olup, toplam yatırım miktarı 400 milyon doları aşmaktadır. Tamamlandığında, Toyota'nın Columbus'taki tesislerinin toplam büyüklüğü 1.8 milyon metrekareye ulaşacak. Şirketin CEO'su Brett Wood, elektrikli forkliftlerin Kuzey Amerika pazarının %65'ini oluşturduğunu ve bu eğilimin artarak devam edeceğini belirtti. Wood ayrıca, bu yeni tesisle şirketin sadece gelecek hafta veya yıl için değil, önümüzdeki on yıl için planlar yaptığını ve sektörde proaktif bir yaklaşım sergilediklerini vurguladı.</p>
+<p>Bu proje, şirketin Indiana'da gerçekleştirdiği 15'in üzerindeki genişleme çalışmasının en yenisi olup, toplam yatırım miktarı 400 milyon doları aşıyordır. Tamamlandığında, Toyota'nın Columbus'taki tesislerinin toplam büyüklüğü 1.8 milyon metrekareye ulaşacak. Şirketin CEO'su Brett Wood, elektrikli forkliftlerin Kuzey Amerika pazarının %65'ini oluşturduğunu ve bu eğilimin artarak devam edeceğini belirtti. Wood ayrıca, bu yeni tesisle şirketin sadece gelecek hafta veya yıl için değil, önümüzdeki on yıl için planlar yaptığını ve sektörde proaktif bir yaklaşım sergilediklerini vurguladı.</p>
 <p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ol>
   <li><p>Toyota Material Handling, Indiana, Columbus'ta 100 milyon dolarlık bir yatırım ile yeni bir elektrikli forklift fabrikası kuruyor.</p></li>
   <li><p>Yeni tesis 295,000 metrekare büyüklüğünde olacak ve Haziran 2026'da üretime başlayacak.</p></li>
   <li><p>Şirket, bu genişleme ile Columbus'taki toplam alanını 1.8 milyon metrekareye çıkaracak.</p></li>
-  <li><p>Elektrikli forkliftler, Kuzey Amerika pazarının %65'ini oluşturmakta ve bu oranın artması beklenmektedir.</p></li>
+  <li><p>Elektrikli forkliftler, Kuzey Amerika pazarının %65'ini oluşturuyor ve bu oranın artması bekleniyordir.</p></li>
   <li><p>Brett Wood, şirketin gelecek on yıl için stratejik planlamalar yaptığını ve sektörde öncü bir rol oynamayı hedeflediğini ifade etti.</p></li>
 </ol>
 <p><br></p>

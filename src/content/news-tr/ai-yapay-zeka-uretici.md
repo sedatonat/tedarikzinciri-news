@@ -29,15 +29,15 @@ tags:
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>Model Risk Management (MRM)</strong>, <strong>bias/fairness testleri</strong> ve <strong>drift monitoring</strong>, yapay zekânın güvenli ve etik biçimde çalışmasını sağlıyor. Bu kontroller, model performansını düzenli olarak test edip sapmaları tespit ediyor, böylece ölçekli kullanımda güvenilirliği garanti altına alıyor.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Sonuç olarak, üretim odaklı tedarik zincirlerinde yapay zekâ artık yalnızca bir verimlilik aracı değil, <strong>karar kalitesini yükselten stratejik bir yetkinlik</strong> haline gelmiştir. Verinin standardizasyonu, yönetişim ve otomasyonun birleşimi, işletmelerin operasyonel çevikliğini yeni bir seviyeye taşımaktadır.</p>
+<p style="text-align: justify">Sonuç olarak, üretim odaklı tedarik zincirlerinde yapay zekâ artık yalnızca bir verimlilik aracı değil, <strong>karar kalitesini yükselten stratejik bir yetkinlik</strong> haline gelmiştir. Verinin standardizasyonu, yönetişim ve otomasyonun birleşimi, işletmelerin operasyonel çevikliğini yeni bir seviyeye taşıyordır.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
-  <li><p>Forecast/maintenance/quality AI ile güçlenmekte.</p></li>
-  <li><p>Feature store veri bütünlüğü sağlamaktadır.</p></li>
-  <li><p>Exception automation içgörüyü eyleme çevirmektedir.</p></li>
-  <li><p>KPI ve TTV takibi yatırımı disipline etmektedir.</p></li>
-  <li><p>MRM/drift güvence sunmaktadır.</p></li>
+  <li><p>Forecast/maintenance/quality AI ile güçleniyor.</p></li>
+  <li><p>Feature store veri bütünlüğü sağlıyordır.</p></li>
+  <li><p>Exception automation içgörüyü eyleme çeviriyordir.</p></li>
+  <li><p>KPI ve TTV takibi yatırımı disipline ediyordir.</p></li>
+  <li><p>MRM/drift güvence sunuyordır.</p></li>
 </ul>
 <p>----------</p>
 <p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41662-manufacturers-supply-chain-management-popular-use-for-ai" rel="noopener" target="_new"><u>https://www.supplychainbrain.com/articles/41662-manufacturers-supply-chain-management-popular-use-for-ai</u></a></p>

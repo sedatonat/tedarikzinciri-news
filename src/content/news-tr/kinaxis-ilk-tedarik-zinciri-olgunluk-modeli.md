@@ -22,7 +22,7 @@ tags:
 <p><br></p>
 <p>Günümüzün hızla değişen iş ortamında, karar verme süreçlerini geliştirmek, işbirliğini teşvik etmek ve esnek planlama ile uygulamayı mümkün kılmak gibi yaygın zorlukların üstesinden gelmek için tasarlanan bu model, şirketlerin operasyonel, taktiksel ve stratejik planlama ve uygulama alanlarında kapsamlı bir değerlendirme yapmasını sağlıyor.</p>
 <p><br></p>
-<p>Kinaxis’in Chief Product Officer'ı Andrew Bell, "Tedarik Zinciri Olgunluk Modeli ve Kendi Kendini Değerlendirmeyi piyasaya sürmekten heyecan duyuyoruz. Bu araç, tedarik zinciri liderlerinin güçlü ve zayıf yönlerini anında teşhis etmelerini ve ilerlemelerini destekleyecek uygulanabilir bir plan geliştirmelerini sağlıyor," şeklinde konuştu.</p>
+<p>Kinaxis’in Chief Product Officer'ı Andrew Bell, "Tedarik Zinciri Olgunluk Modeli ve Kendi Kendini Değerlendirmeyi piyasaya sürüyorn heyecan duyuyoruz. Bu araç, tedarik zinciri liderlerinin güçlü ve zayıf yönlerini anında teşhis etmelerini ve ilerlemelerini destekleyecek uygulanabilir bir plan geliştirmelerini sağlıyor," şeklinde konuştu.</p>
 <p><br></p>
 <p>Model, iyileştirilmesi gereken alanları belirleyerek, boşlukları kapatmak, sektörün en iyi uygulamalarıyla uyum sağlamak ve şirketleri daha güçlü tedarik zincirleri inşa etmeye yönlendirmek için özelleştirilmiş bir plan sunuyor. Aracın sunduğu başlıca özellikler şunlar:</p>
 <ul>

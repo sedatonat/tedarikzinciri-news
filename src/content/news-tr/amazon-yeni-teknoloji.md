@@ -19,23 +19,23 @@ tags:
 - Blue Jay
 - akıllı gözlük
 ---
-<p style="text-align: justify"><strong>Amazon</strong>, <strong>sipariş karşılama (fulfillment)</strong> ve <strong>teslimat operasyonlarını</strong> dönüştürecek üç yeni teknolojisini tanıttı: <strong>Blue Jay</strong>, <strong>Project Eluna</strong> ve <strong>akıllı teslimat gözlükleri</strong>. Şirket, bu yeniliklerle <strong>verimliliği artırmayı</strong>, <strong>tekrarlayan görevleri azaltmayı</strong> ve <strong>teslimat hızını yükseltmeyi</strong> amaçlamakta.</p>
+<p style="text-align: justify"><strong>Amazon</strong>, <strong>sipariş karşılama (fulfillment)</strong> ve <strong>teslimat operasyonlarını</strong> dönüştürecek üç yeni teknolojisini tanıttı: <strong>Blue Jay</strong>, <strong>Project Eluna</strong> ve <strong>akıllı teslimat gözlükleri</strong>. Şirket, bu yeniliklerle <strong>verimliliği artırmayı</strong>, <strong>tekrarlayan görevleri azaltmayı</strong> ve <strong>teslimat hızını yükseltmeyi</strong> amaçlıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Bu üç sistem, Amazon’un 2025 yılı boyunca tanıttığı teknolojik girişimlerin devamı niteliğinde. Şirket bu yıl ayrıca <strong>yeni nesil robot sistemleri</strong>, <strong>talep tahminleme algoritmaları</strong> ve <strong>dinamik haritalama çözümleri</strong> geliştirmişti.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Blue Jay: Çok Kollu Robotik Sistem</strong></h3>
-<p style="text-align: justify"><strong>Blue Jay</strong>, birden fazla robot kolunun eşzamanlı çalışmasını sağlayan <strong>çok kollu koordinasyon sistemi</strong>. Bu teknoloji, depo çalışanlarının sürekli <strong>uzanma, kaldırma ve istifleme</strong> gibi fiziksel efor gerektiren işlemlerini büyük ölçüde azaltmakta.</p>
+<p style="text-align: justify"><strong>Blue Jay</strong>, birden fazla robot kolunun eşzamanlı çalışmasını sağlayan <strong>çok kollu koordinasyon sistemi</strong>. Bu teknoloji, depo çalışanlarının sürekli <strong>uzanma, kaldırma ve istifleme</strong> gibi fiziksel efor gerektiren işlemlerini büyük ölçüde azaltıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Sistem, daha önce üç farklı robot istasyonunun gerçekleştirdiği <strong>seçme (picking)</strong>, <strong>yerleştirme (stowing)</strong> ve <strong>konsolidasyon</strong> görevlerini tek bir çalışma alanında toplayarak hem <strong>zaman hem de alan tasarrufu</strong> sağlamakta.</p>
+<p style="text-align: justify">Sistem, daha önce üç farklı robot istasyonunun gerçekleştirdiği <strong>seçme (picking)</strong>, <strong>yerleştirme (stowing)</strong> ve <strong>konsolidasyon</strong> görevlerini tek bir çalışma alanında toplayarak hem <strong>zaman hem de alan tasarrufu</strong> sağlıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Amazon, Blue Jay’in geliştirme sürecinde <strong>yapay zekâ</strong> ve <strong>dijital ikiz (digital twin)</strong> teknolojilerinden yararlandığını açıkladı. Şirketin ifadesiyle, geçmişte üç yılı aşkın sürede tamamlanan sistemler (örneğin <strong>Robin</strong>, <strong>Cardinal</strong> ve <strong>Sparrow</strong>) bu kez <strong>bir yıl gibi kısa bir sürede üretime hazır hale</strong> geldi.</p>
 <p><br></p>
-<p style="text-align: justify">Blue Jay şu anda <strong>Güney Carolina’daki bir Amazon tesisinde</strong> test edilmekte ve depodaki ürünlerin yaklaşık <strong>%75’ini otomatik olarak yönetebilmekte</strong>. Uzun vadede sistemin, özellikle <strong>aynı gün teslimat (same-day delivery)</strong> merkezlerinde kilit bir rol üstlenmesi bekleniyor.</p>
+<p style="text-align: justify">Blue Jay şu anda <strong>Güney Carolina’daki bir Amazon tesisinde</strong> test ediliyor ve depodaki ürünlerin yaklaşık <strong>%75’ini otomatik olarak yönetebiliyor</strong>. Uzun vadede sistemin, özellikle <strong>aynı gün teslimat (same-day delivery)</strong> merkezlerinde kilit bir rol üstlenmesi bekleniyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Project Eluna: Otonom Karar Destekli Yapay Zekâ</strong></h3>
-<p style="text-align: justify"><strong>Project Eluna</strong>, Amazon’un operasyon yöneticilerine <strong>karar desteği sağlayan yapay zekâ modeli</strong>. Şirket bu sistemi, “<strong>operasyonel zorlukları öngörüp çözüm önerebilen dijital bir ekip arkadaşı</strong>” olarak tanımlamakta.</p>
+<p style="text-align: justify"><strong>Project Eluna</strong>, Amazon’un operasyon yöneticilerine <strong>karar desteği sağlayan yapay zekâ modeli</strong>. Şirket bu sistemi, “<strong>operasyonel zorlukları öngörüp çözüm önerebilen dijital bir ekip arkadaşı</strong>” olarak tanımlıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Eluna, <strong>geçmiş ve gerçek zamanlı verileri</strong> analiz ederek depo yöneticilerine öneriler sunmakta. Örneğin, “<strong>Hangi bölümde personel kaydırılmalı?</strong>” gibi sorulara yanıt vererek <strong>veri temelli aksiyon planları</strong> oluşturmakta.</p>
+<p style="text-align: justify">Eluna, <strong>geçmiş ve gerçek zamanlı verileri</strong> analiz ederek depo yöneticilerine öneriler sunuyor. Örneğin, “<strong>Hangi bölümde personel kaydırılmalı?</strong>” gibi sorulara yanıt vererek <strong>veri temelli aksiyon planları</strong> oluşturuyor.</p>
 <p><br></p>
 <p style="text-align: justify">Amazon’a göre sistemin temel hedefi, yöneticilerin <strong>yangın söndürmek yerine öngörüyle hareket etmesini</strong> sağlamak. Proje, ilk aşamada <strong>Tennessee’deki bir dağıtım merkezinde</strong>, özellikle <strong>tatil sezonu gönderilerinin yoğunlaştığı dönemde</strong> devreye alınacak.</p>
 <p><br></p>
@@ -43,13 +43,13 @@ tags:
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Ergonomik vardiya planlaması</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Bakım takvimi optimizasyonu</strong>,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Önleyici güvenlik önlemleri</strong> gibi alanlarda da aktif rol üstlenmesi planlanmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Önleyici güvenlik önlemleri</strong> gibi alanlarda da aktif rol üstlenmesi planlanıyor.</p></li>
 </ul>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Akıllı Teslimat Gözlükleri: Sürücüler İçin Gerçek Zamanlı Destek</strong></h5>
-<p style="text-align: justify">Amazon’un geliştirdiği <strong>akıllı teslimat gözlükleri</strong>, teslimat sürücülerine <strong>eller serbest şekilde</strong> navigasyon ve görev bilgisi sağlamayı hedeflemekte. Gözlük, sürücünün çevresine odaklanmasını kolaylaştırırken, <strong>telefon bağımlılığını azaltmakta</strong>.</p>
+<p style="text-align: justify">Amazon’un geliştirdiği <strong>akıllı teslimat gözlükleri</strong>, teslimat sürücülerine <strong>eller serbest şekilde</strong> navigasyon ve görev bilgisi sağlamayı hedefliyor. Gözlük, sürücünün çevresine odaklanmasını kolaylaştırırken, <strong>telefon bağımlılığını azaltıyor</strong>.</p>
 <p><br></p>
-<p style="text-align: justify">Bu gözlükler, <strong>paketlerin konumunu tanımlamak</strong>, <strong>barkod taramak</strong>, <strong>kapı numaralarına göre yönlendirme yapmak</strong> gibi işlevleri yerine getiriyor. Özellikle <strong>karmaşık bina veya apartman teslimatlarında</strong> büyük kolaylık sunmakta.</p>
+<p style="text-align: justify">Bu gözlükler, <strong>paketlerin konumunu tanımlamak</strong>, <strong>barkod taramak</strong>, <strong>kapı numaralarına göre yönlendirme yapmak</strong> gibi işlevleri yerine getiriyor. Özellikle <strong>karmaşık bina veya apartman teslimatlarında</strong> büyük kolaylık sunuyor.</p>
 <p><br></p>
 <p style="text-align: justify">Amazon, yüzlerce sürücünün katılımıyla ilk testleri gerçekleştirdiğini ve bu geri bildirimlerin yeni sürümün tasarımına yön verdiğini açıkladı.</p>
 <p><br></p>
@@ -65,7 +65,7 @@ tags:
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Amazon üç yeni sistemi tanıttı: <strong>Blue Jay</strong>, <strong>Project Eluna</strong> ve <strong>akıllı teslimat gözlükleri</strong>.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Blue Jay</strong>, çok kollu robot sistemiyle <strong>depolarda fiziksel iş yükünü azaltmakta</strong>.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Blue Jay</strong>, çok kollu robot sistemiyle <strong>depolarda fiziksel iş yükünü azaltıyor</strong>.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Project Eluna</strong>, <strong>veri odaklı karar desteği</strong> sunan otonom yapay zekâ modeli.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Akıllı gözlükler</strong>, sürücülere <strong>eller serbest navigasyon</strong> ve <strong>anlık hata algılama</strong> imkânı sağlıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Sistemler, <strong>AI, dijital ikiz ve otomasyon teknolojilerinin entegrasyonuyla</strong> geliştirildi.</p></li>

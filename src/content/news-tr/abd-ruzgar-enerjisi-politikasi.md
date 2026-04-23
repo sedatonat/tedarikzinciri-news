@@ -39,7 +39,7 @@ Bu karar, sektörde planlanan yatırımları doğrudan etkiledi:</p>
 <p style="text-align: justify"><strong>Federal fonların geri çekilmesi</strong>, ABD’nin doğu ve batı kıyılarındaki birçok limanda <strong>yatırım planlarının askıya alınmasına</strong> neden oldu.<br>
 Toplam kaybın <strong>679 milyon dolar</strong> olduğu tahmin ediliyor.</p>
 <p style="text-align: justify">Bu fonlar, <strong>rüzgâr türbini montaj alanları, bakım merkezleri, enerji nakil hatları</strong> ve <strong>özel iskele altyapıları</strong> gibi projelere ayrılmıştı.<br>
-Projelerin durması, <strong>ABD’nin temiz enerji geçiş planlarını</strong> da sekteye uğratmakta.</p>
+Projelerin durması, <strong>ABD’nin temiz enerji geçiş planlarını</strong> da sekteye uğratıyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Uzmanlardan Uyarı: “Enerji Dönüşümü Gecikebilir”</strong></h5>
 <p style="text-align: justify">Enerji sektörü analistleri, bu politika değişikliğinin <strong>ABD’nin açık deniz rüzgâr hedeflerini 5–10 yıl geriye atabileceğini</strong> söylüyor.<br>
@@ -65,7 +65,7 @@ Rüzgâr enerjisi sektörünün sürdürülebilir büyüme göstermesi için:</p
 <p><br></p>
 <h5 style="text-align: justify"><strong>Sonuç: Temiz Enerji Hedefleri Risk Altında</strong></h5>
 <p style="text-align: justify">Açık deniz rüzgâr politikalarındaki geri adım, <strong>ABD’nin enerji stratejisinde önemli bir kırılma noktası</strong> yarattı.<br>
-İptal edilen projeler, yalnızca liman ve gemi inşa sektörünü değil, aynı zamanda <strong>yeşil istihdam ve iklim hedeflerini</strong> de tehdit etmekte.</p>
+İptal edilen projeler, yalnızca liman ve gemi inşa sektörünü değil, aynı zamanda <strong>yeşil istihdam ve iklim hedeflerini</strong> de tehdit ediyor.</p>
 <p style="text-align: justify">Uzmanlara göre, ABD’nin <strong>rüzgâr enerjisi vizyonunu yeniden canlandırması</strong>, ekonomik ve çevresel sürdürülebilirlik açısından kritik önemde.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>

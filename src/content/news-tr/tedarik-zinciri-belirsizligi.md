@@ -32,17 +32,17 @@ tags:
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>Lojistik sektöründe</strong>, spot navlun oranlarındaki (spot rates) dalgalanma ve <strong>liman/kanal darboğazlarının yeniden alevlenme riski</strong>, gönderici ve taşıyıcılar arasında <strong>kontrat stratejilerinin yeniden kurgulanmasına</strong> yol açıyor. Uzun vadeli kontratlar, daha fazla esneklik ve değişken maliyet paylaşımı içeren hibrit modellere dönüşüyor.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Finansal piyasalarda ise ticaret yavaşlaması; <strong>navlun, hammadde</strong> ve <strong>enerji fiyatlarında kısa süreli volatilite</strong> olarak yansıyor. Şirketler, <strong>control tower</strong> panelleri üzerinden tedarikçi ve müşteri uçlarındaki sinyalleri tek ekranda izlemekte; <strong>exception automation</strong> ve <strong>cognitive agent</strong> sistemleriyle istisna müdahalelerini hızlandırmaktadır. Bu sayede karar döngüleri kısalmakta ve operasyonel tepki gücü artmaktadır.</p>
+<p style="text-align: justify">Finansal piyasalarda ise ticaret yavaşlaması; <strong>navlun, hammadde</strong> ve <strong>enerji fiyatlarında kısa süreli volatilite</strong> olarak yansıyor. Şirketler, <strong>control tower</strong> panelleri üzerinden tedarikçi ve müşteri uçlarındaki sinyalleri tek ekranda izliyor; <strong>exception automation</strong> ve <strong>cognitive agent</strong> sistemleriyle istisna müdahalelerini hızlandırıyordır. Bu sayede karar döngüleri kısalıyor ve operasyonel tepki gücü artıyordır.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Sonuç olarak, mevcut tablo <strong>talep–tedarik sarmalında temkinli optimizasyon dönemine</strong> işaret ediyor. Şirketler, sermaye ve operasyonel kararlarını daha temkinli şekilde, veri temelli senaryolara dayandırarak şekillendiriyor. Küresel tedarik zinciri, bu süreçte çeviklik ve dayanıklılığı bir arada sürdürme sınavından geçiyor.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
-  <li><p>Siparişlerde “wait-and-see” yaklaşımı yayılmakta.</p></li>
-  <li><p>Nearshoring/friend-shoring kırılganlığı azaltmakta.</p></li>
-  <li><p>Hedging ve scenario araçları etkileri yumuşatmakta.</p></li>
+  <li><p>Siparişlerde “wait-and-see” yaklaşımı yayılıyor.</p></li>
+  <li><p>Nearshoring/friend-shoring kırılganlığı azaltıyor.</p></li>
+  <li><p>Hedging ve scenario araçları etkileri yumuşatıyor.</p></li>
   <li><p>Lojistik kontratları yeniden kurgulanmakta.</p></li>
-  <li><p>Control tower istisna yönetimini hızlandırmakta.</p></li>
+  <li><p>Control tower istisna yönetimini hızlandırıyor.</p></li>
 </ul>
 <p>----------</p>
 <p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41520-trump-is-already-slowing-global-trade-as-companies-pause-orders"><u>https://www.supplychainbrain.com/articles/41520-trump-is-already-slowing-global-trade-as-companies-pause-orders</u></a></p>

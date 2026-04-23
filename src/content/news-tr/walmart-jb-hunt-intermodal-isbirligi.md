@@ -23,7 +23,7 @@ tags:
 <p><br></p>
 <p>Taşıyıcı, stratejik hizmet anlaşmasının, şirketlerin mevcut hacim ve kapasite taahhütlerini artırdığını ve kapsamlı intermodal çözümlerin geliştirilmesini sağladığını belirtti. Hizmet anlaşması ve artırılmış taahhütlerle bağlantılı olarak, J.B. Hunt Walmart'ın operasyonel intermodal konteyner ve şasi filolarını satın alacak.</p>
 <p><br></p>
-<p>J.B. Hunt, onlarca yıldır Walmart ile yakın çalışarak etkili taşıma çözümleri sağlamıştır. J.B. Hunt'ın satış ve pazarlamadan sorumlu icra başkan yardımcısı <a href="https://www.linkedin.com/in/spencer-frazier-a4436310/"><u>Spencer Frazier</u></a>, "Bugünkü duyuru, şirketlerimizin zamanla geliştirdiği karşılıklı güven ve ortak vizyona bir kanıttır ve bu tür yenilikçi düzenlemeler, J.B. Hunt'ın insanlarımız, müşterilerimiz ve hissedarlarımız için uzun vadeli değer yaratma misyonumuzu ilerletmek için sermayeyi stratejik olarak tahsis etme konusundaki disiplinli yaklaşımını göstermektedir" dedi.</p>
+<p>J.B. Hunt, onlarca yıldır Walmart ile yakın çalışarak etkili taşıma çözümleri sağlamıştır. J.B. Hunt'ın satış ve pazarlamadan sorumlu icra başkan yardımcısı <a href="https://www.linkedin.com/in/spencer-frazier-a4436310/"><u>Spencer Frazier</u></a>, "Bugünkü duyuru, şirketlerimizin zamanla geliştirdiği karşılıklı güven ve ortak vizyona bir kanıttır ve bu tür yenilikçi düzenlemeler, J.B. Hunt'ın insanlarımız, müşterilerimiz ve hissedarlarımız için uzun vadeli değer yaratma misyonumuzu ilerletmek için sermayeyi stratejik olarak tahsis etme konusundaki disiplinli yaklaşımını gösteriyordir" dedi.</p>
 <h3><br></h3>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>

@@ -23,7 +23,7 @@ tags:
 <p><br></p>
 <p>Salvamento Maritimo, İspanya'nın deniz kurtarma servisi, gemilerin mürettebatları tarafından incelemenin ardından yan yapılarında hasar tespit edildiğini, ancak batma veya petrol sızıntısı tehlikesi olmadığını açıkladı. Olayın ardından İspanyol deniz kurtarma hizmetleri, Luz de Mar ve Salvamar Denébola adlı gemileri olay yerine sevk etti. İlk belirlemelere göre, çarpışmada herhangi bir yaralanma yaşanmadı.</p>
 <p><br></p>
-<p>Gloria Maris, Cartagena limanında 147.564 ton ham petrol boşalttıktan sonra ballast yüklü seyir halindeydi. Öte yandan, HMM ST Petersburg, 2020 yılında teslim edilen ve Güney Kore'nin HMM şirketi için inşa edilen 12 kardeş gemiden sonuncusu olarak, 400 metreden fazla uzunluğa ve 24.000 TEU kapasitesine sahip olup, dünyanın en büyük konteyner gemilerinden biri olarak öne çıkıyor. HMM ST Petersburg, Kuzey Çin ile Kuzey Avrupa arasında FE4 servis rotasında faaliyet göstermektedir.</p>
+<p>Gloria Maris, Cartagena limanında 147.564 ton ham petrol boşalttıktan sonra ballast yüklü seyir halindeydi. Öte yandan, HMM ST Petersburg, 2020 yılında teslim edilen ve Güney Kore'nin HMM şirketi için inşa edilen 12 kardeş gemiden sonuncusu olarak, 400 metreden fazla uzunluğa ve 24.000 TEU kapasitesine sahip olup, dünyanın en büyük konteyner gemilerinden biri olarak öne çıkıyor. HMM ST Petersburg, Kuzey Çin ile Kuzey Avrupa arasında FE4 servis rotasında faaliyet gösteriyordir.</p>
 <p><br></p>
 <p>Olay sonrası Algeciras Deniz Otoritesi, her iki geminin de detaylı güvenlik denetimlerine tabi tutulması ve çarpışmanın nedenlerinin belirlenmesi amacıyla gemileri gözaltına aldı. 4 Aralık Çarşamba günü itibarıyla, her iki geminin de Algeciras/Cebelitarık Körfezi'nde güvenli bir şekilde demirlediği bildirildi.</p>
 <p><br></p>

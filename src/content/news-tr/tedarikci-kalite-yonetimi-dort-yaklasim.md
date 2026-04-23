@@ -18,11 +18,11 @@ tags:
 - mevzuata uyum
 - tedarik zinciri
 ---
-<p>Tedarikçilerin kalite yeteneklerini sadece mevzuata uyum sağlamak için değil, ötesinde geliştirmelerini sağlamak, tedarikçi kalite liderlerinin karşılaştığı yaygın bir sorundur. <a href="https://en.wikipedia.org/wiki/Gartner"><u>Gartner</u></a>’ın Tedarikçi Kalite Yönetimi Anketi'ne katılanlara göre, tedarikçiler gerekli bilgi ve yeteneklere sahip olsalar da, organizasyonların yaklaşık üçte biri tedarikçileri bu yönde motive etmekte zorlanmaktadır.&nbsp;</p>
+<p>Tedarikçilerin kalite yeteneklerini sadece mevzuata uyum sağlamak için değil, ötesinde geliştirmelerini sağlamak, tedarikçi kalite liderlerinin karşılaştığı yaygın bir sorundur. <a href="https://en.wikipedia.org/wiki/Gartner"><u>Gartner</u></a>’ın Tedarikçi Kalite Yönetimi Anketi'ne katılanlara göre, tedarikçiler gerekli bilgi ve yeteneklere sahip olsalar da, organizasyonların yaklaşık üçte biri tedarikçileri bu yönde motive ediyor zorlanıyordır.&nbsp;</p>
 <p><br></p>
-<p>Finansal teşvikler sıkça başvurulan bir yöntem olmakla birlikte, bu yaklaşım sürdürülebilir olmaktan uzak ve tedarikçiler tarafından yeterince çekici bulunmamaktadır. Bu durum, tedarikçilerin gelişime karşı tereddütlerinin altında yatan temel sebepleri ele almamaktadır.&nbsp;</p>
+<p>Finansal teşvikler sıkça başvurulan bir yöntem olmakla birlikte, bu yaklaşım sürdürülebilir oluyorn uzak ve tedarikçiler tarafından yeterince çekici bulunmuyordır. Bu durum, tedarikçilerin gelişime karşı tereddütlerinin altında yatan temel sebepleri ele almamaktadır.&nbsp;</p>
 <p><br></p>
-<p>Tedarikçilerin kalite yeteneklerini geliştirmek için gereken yatırımın büyüklüğü ve bunun kendi işlerine olası olumsuz etkileri, endişelerin başında gelmektedir.&nbsp;</p>
+<p>Tedarikçilerin kalite yeteneklerini geliştirmek için gereken yatırımın büyüklüğü ve bunun kendi işlerine olası olumsuz etkileri, endişelerin başında geliyordir.&nbsp;</p>
 <p><br></p>
 <p>Finansal teşviklerin ötesinde, organizasyonlar tedarikçilerin endişelerini gidermek için <strong>4 </strong>yaklaşımı değerlendirebilir:&nbsp;</p>
 <ol>

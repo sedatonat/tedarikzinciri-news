@@ -20,15 +20,15 @@ tags:
 - filo yönetimi
 - altyapı
 ---
-<p>Taşımacılıkta alternative fuels gündemi hızlanmakta; dizelden renewable diesel (RD), HVO, CNG/LNG, hydrogen fuel cells, ve battery-electric çözümlerine uzanan seçenekler değerlendirilmektedir. Birinci gerçek, toplam sahip olma maliyetinin (TCO) tek değişkene bağlı olmadığıdır; yakıt fiyatı, teşvikler, altyapı erişimi ve görev profili birlikte değerlendirilmekte. İkinci gerçek, infrastructure readiness belirleyici olmaktadır; hidrojen ve yüksek güçlü şarj ağlarının kapsaması, uzun hat taşımalarında geçiş hızını sınırlamakta. Üçüncü gerçek, karbon muhasebesidir; well-to-wheel yaklaşımı, yalnızca egzoz emisyonu değil tüm zincir boyunca karbonu hesaplamakta; bu da Scope 3 hedefleriyle uyumlu seçimleri teşvik etmektedir. Operasyonel açıdan route profiling ve payload sensitivity analizleri, enerji yoğunluğuna göre doğru teknolojiyi eşleştirmekte. Bakım ve güvenlik boyutunda yüksek voltajlı sistemler ve yüksek basınç depolama için özel yetkinlik gerekmekte; training &amp; certification planları devreye alınmakta.&nbsp;</p>
+<p>Taşımacılıkta alternative fuels gündemi hızlanıyor; dizelden renewable diesel (RD), HVO, CNG/LNG, hydrogen fuel cells, ve battery-electric çözümlerine uzanan seçenekler değerlendiriliyordir. Birinci gerçek, toplam sahip olma maliyetinin (TCO) tek değişkene bağlı olmadığıdır; yakıt fiyatı, teşvikler, altyapı erişimi ve görev profili birlikte değerlendiriliyor. İkinci gerçek, infrastructure readiness belirleyici oluyordır; hidrojen ve yüksek güçlü şarj ağlarının kapsaması, uzun hat taşımalarında geçiş hızını sınırlıyor. Üçüncü gerçek, karbon muhasebesidir; well-to-wheel yaklaşımı, yalnızca egzoz emisyonu değil tüm zincir boyunca karbonu hesaplıyor; bu da Scope 3 hedefleriyle uyumlu seçimleri teşvik ediyordir. Operasyonel açıdan route profiling ve payload sensitivity analizleri, enerji yoğunluğuna göre doğru teknolojiyi eşleştirmekte. Bakım ve güvenlik boyutunda yüksek voltajlı sistemler ve yüksek basınç depolama için özel yetkinlik gerekiyor; training &amp; certification planları devreye alınıyor.&nbsp;</p>
 <p><br></p>
-<p>Sonuç olarak tek bir kazanan teknoloji bulunmamakta; filolar, karma bir enerji sepeti ile riskleri dengelemekte.</p>
+<p>Sonuç olarak tek bir kazanan teknoloji bulunmuyor; filolar, karma bir enerji sepeti ile riskleri dengeliyor.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 1. TCO teşvik ve altyapı ile birlikte değerlendirilmelidir.<br>
-2. Infrastructure readiness geçiş hızını belirlemektedir.<br>
-3. Well-to-wheel muhasebe karbonu doğru ölçmektedir.<br>
-4. Route profiling teknoloji eşleştirmesini yönlendirmektedir.<br>
+2. Infrastructure readiness geçiş hızını belirliyordir.<br>
+3. Well-to-wheel muhasebe karbonu doğru ölçüyordir.<br>
+4. Route profiling teknoloji eşleştirmesini yönlendiriyordir.<br>
 5. Karma enerji sepeti riskleri dağıtmaktadır.</p>
 <p><br>
 ---<br>

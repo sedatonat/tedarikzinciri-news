@@ -19,7 +19,7 @@ tags:
 - nakliye gecikmesi
 - risk yönetimi
 ---
-<p>Bir ilaç üreticisi, Systech UniTrace sistemine geçerek üç aylık nakliye gecikmelerini ortadan kaldırmıştır. Yeni platform, track-and-trace, serialization, ve data integrity yönetimini sağlamaktadır. AI-driven analytics, operasyonel darboğazları önceden tespit etmektedir. Bu dönüşüm, gelir kaybını önleyerek müşteri teslimat sürekliliğini korumuştur. Uzmanlara göre dijital izlenebilirlik, ilaç sektöründe risk yönetiminin temelidir.</p>
+<p>Bir ilaç üreticisi, Systech UniTrace sistemine geçerek üç aylık nakliye gecikmelerini ortadan kaldırmıştır. Yeni platform, track-and-trace, serialization, ve data integrity yönetimini sağlıyordır. AI-driven analytics, operasyonel darboğazları önceden tespit ediyordir. Bu dönüşüm, gelir kaybını önleyerek müşteri teslimat sürekliliğini korumuştur. Uzmanlara göre dijital izlenebilirlik, ilaç sektöründe risk yönetiminin temelidir.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 1. Systech UniTrace izlenebilirlik sağlar.<br>

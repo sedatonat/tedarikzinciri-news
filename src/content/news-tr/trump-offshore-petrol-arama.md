@@ -19,7 +19,7 @@ tags:
 - Meksika Körfezi
 ---
 <p style="text-align: justify"><strong>Bloomberg</strong>’ün elde ettiği belgelere göre, <strong>Trump yönetimi</strong>, çevre gruplarının ve kıyı eyaletlerinin itirazlarına rağmen <strong>ABD’nin neredeyse tüm kıyı sularını açık deniz petrol aramalarına açacak bir plan hazırlıyor.</strong><br>
-Taslak plan, <strong>İçişleri Bakanlığı (Department of the Interior)</strong> tarafından hazırlanmakta olup, <strong>Atlantik’ten Pasifik’e, Alaska çevresinden Meksika Körfezi’ne</strong> kadar yeni petrol ve doğalgaz ruhsat satışlarını öngörüyor.</p>
+Taslak plan, <strong>İçişleri Bakanlığı (Department of the Interior)</strong> tarafından hazırlanıyor olup, <strong>Atlantik’ten Pasifik’e, Alaska çevresinden Meksika Körfezi’ne</strong> kadar yeni petrol ve doğalgaz ruhsat satışlarını öngörüyor.</p>
 <p style="text-align: justify">Bu plan, Trump’ın 2020’deki seçim kampanyasında <strong>Florida gibi Cumhuriyetçi eyaletlerde turizm gelirlerini koruma sözüyle kapattığı bölgeleri yeniden hedefe alıyor.</strong></p>
 <p><br>
 Çevreciler ise girişimi “petrol sızıntısı riskiyle hem ekosistemi hem de kıyı ekonomilerini tehlikeye atan bir adım” olarak nitelendiriyor.</p>
@@ -42,7 +42,7 @@ Belgelere göre, plan:</p>
 <h5 style="text-align: justify"><strong>İçişleri Bakanlığı: “Enerji Acil Durumu Var”</strong></h5>
 <p style="text-align: justify"><strong>İçişleri Bakanlığı Sözcüsü</strong>, Bloomberg’in sorularına yanıtında planı doğrulamadı ancak şu açıklamayı yaptı:</p>
 <blockquote style="text-align: justify">“ABD bir ulusal enerji acil durumu içindedir. Çin ile yapay zekâ ve enerji yarışını kazanmak için tüm seçenekler masadadır.”</blockquote>
-<p style="text-align: justify">Bu ifade, Trump yönetiminin <strong>enerji üretimini stratejik rekabet ve güvenlik</strong> çerçevesinde değerlendirdiğini ortaya koymakta.</p>
+<p style="text-align: justify">Bu ifade, Trump yönetiminin <strong>enerji üretimini stratejik rekabet ve güvenlik</strong> çerçevesinde değerlendirdiğini ortaya koyuyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Deepwater Horizon Felaketinden 15 Yıl Sonra Yeni Açılım</strong></h5>
 <p style="text-align: justify">Bu girişim, <strong>2010’daki Deepwater Horizon patlamasının</strong> ardından açık deniz sondajına ilişkin güvenlik endişelerinin hâlâ taze olduğu bir dönemde geliyor.</p>
@@ -95,7 +95,7 @@ Yine de taslak, <strong>Trump’ın enerji üretimini “ulusal öncelik” hali
   <li style="text-align: justify"><p style="text-align: justify"><strong>Trump yönetimi</strong>, ABD’nin <strong>neredeyse tüm kıyı sularını</strong> petrol ve gaz aramalarına açmayı planlıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Plan, <strong>2026–2031 dönemini</strong> kapsayan yeni <strong>beş yıllık açık deniz ruhsat programının</strong> bir parçası.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Florida dahil sekiz eyalet</strong> açık deniz sondajına açıkça karşı çıkıyor.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>İçişleri Bakanlığı</strong>, bunu “enerji acil durumu” gerekçesiyle savunmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>İçişleri Bakanlığı</strong>, bunu “enerji acil durumu” gerekçesiyle savunuyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Plan, <strong>Deepwater Horizon felaketinden 15 yıl sonra</strong> yeni çevresel riskler doğurabilir.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Petrol endüstrisi, <strong>Meksika Körfezi dışındaki sahalara ilginin sınırlı</strong> olduğunu belirtiyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Çevre örgütleri, planı <strong>yasal yollardan durdurmak</strong> için hazırlık yapıyor.</p></li>

@@ -20,33 +20,33 @@ tags:
 - multimodal taşımacılık
 - emisyon azaltımı
 ---
-<p style="text-align: justify"><strong>New York City</strong>, artan teslimat hacmi, yoğun kamyon trafiği ve kentsel hava kirliliği sorunlarına karşı lojistik altyapısında köklü bir denemeye başladı. Şehir yönetimi, yük taşımacılığında kara yolu bağımlılığını azaltmak amacıyla <strong>su yollarını aktif bir freight network</strong> olarak kullanan yeni bir pilot projeyi devreye aldı. Bu girişim, <strong>Blue Highways</strong> programı kapsamında hayata geçirilmekte ve New York’un tarihsel liman kimliğini modern kentsel lojistikle yeniden buluşturmayı hedeflemekte.</p>
+<p style="text-align: justify"><strong>New York City</strong>, artan teslimat hacmi, yoğun kamyon trafiği ve kentsel hava kirliliği sorunlarına karşı lojistik altyapısında köklü bir denemeye başladı. Şehir yönetimi, yük taşımacılığında kara yolu bağımlılığını azaltmak amacıyla <strong>su yollarını aktif bir freight network</strong> olarak kullanan yeni bir pilot projeyi devreye aldı. Bu girişim, <strong>Blue Highways</strong> programı kapsamında hayata geçiriliyor ve New York’un tarihsel liman kimliğini modern kentsel lojistikle yeniden buluşturmayı hedefliyor.</p>
 <p><br></p>
-<p style="text-align: justify">Pilot proje, <strong>Manhattan’daki Pier 79</strong> ile <strong>Brooklyn Red Hook’taki Brooklyn Marine Terminal</strong> arasında bir <strong>marine freight route</strong> oluşturmakta. Yükler, New York Harbor üzerinden <strong>ferry</strong> ile taşınmakta; ardından Manhattan’a ulaştığında <strong>electric cargo bikes</strong> kullanılarak son kilometre teslimatına aktarılmakta. Bu dağıtım modeli, Manhattan’da <strong>23rd Street ile 70th Street</strong> arasındaki yoğun ticari ve konut bölgelerini kapsamakta.</p>
+<p style="text-align: justify">Pilot proje, <strong>Manhattan’daki Pier 79</strong> ile <strong>Brooklyn Red Hook’taki Brooklyn Marine Terminal</strong> arasında bir <strong>marine freight route</strong> oluşturuyor. Yükler, New York Harbor üzerinden <strong>ferry</strong> ile taşınıyor; ardından Manhattan’a ulaştığında <strong>electric cargo bikes</strong> kullanılarak son kilometre teslimatına aktarılıyor. Bu dağıtım modeli, Manhattan’da <strong>23rd Street ile 70th Street</strong> arasındaki yoğun ticari ve konut bölgelerini kapsıyor.</p>
 <p><br></p>
 <p style="text-align: justify">New York City Department of Transportation (NYC DOT) Komiseri <strong>Ydanis Rodriguez</strong>, programın vizyonunu şu sözlerle ifade etti:<br>
  <strong>“Waterways are the new highways in New York City.”</strong><br>
-Rodriguez’e göre Blue Highways, New York’un <strong>20. yüzyıl kamyon odaklı freight sisteminden</strong>, <strong>21. yüzyılın daha temiz, daha akıllı ve daha dayanıklı</strong> bir lojistik yapısına geçişini temsil etmekte.</p>
+Rodriguez’e göre Blue Highways, New York’un <strong>20. yüzyıl kamyon odaklı freight sisteminden</strong>, <strong>21. yüzyılın daha temiz, daha akıllı ve daha dayanıklı</strong> bir lojistik yapısına geçişini temsil ediyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Operasyonel Yapı ve İlk Hacimler</strong></h3>
-<p style="text-align: justify">Pilot operasyon, lojistik firması <strong>DutchX</strong> ile yolcu ve yük taşımacılığı şirketi <strong>NY Waterway</strong> iş birliğiyle yürütülmekte. Başlangıç aşamasında sistemin <strong>günde 300–400 paket</strong> taşıması beklenmekte. Taşınan ürün grupları arasında:</p>
+<p style="text-align: justify">Pilot operasyon, lojistik firması <strong>DutchX</strong> ile yolcu ve yük taşımacılığı şirketi <strong>NY Waterway</strong> iş birliğiyle yürütülüyor. Başlangıç aşamasında sistemin <strong>günde 300–400 paket</strong> taşıması bekleniyor. Taşınan ürün grupları arasında:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>cosmetics</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>fashion items</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>lifestyle goods</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">küçük hacimli <strong>household products</strong></p></li>
 </ul>
-<p style="text-align: justify">yer almakta. Şehir yetkilileri, pilot ilerledikçe hacmin kademeli olarak artırılacağını ve performansın <strong>capacity utilization</strong>, <strong>truck miles traveled reduction</strong> ve <strong>emissions impact</strong> gibi metriklerle düzenli olarak ölçüleceğini belirtmekte.</p>
+<p style="text-align: justify">yer alıyor. Şehir yetkilileri, pilot ilerledikçe hacmin kademeli olarak artırılacağını ve performansın <strong>capacity utilization</strong>, <strong>truck miles traveled reduction</strong> ve <strong>emissions impact</strong> gibi metriklerle düzenli olarak ölçüleceğini belirtiyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Neden Su Yolları?</strong></h3>
-<p style="text-align: justify">New York City’de <strong>şehir içine giren ve şehir içinde dolaşan yüklerin yaklaşık %90’ı kamyonlarla taşınmakta</strong>. Bu durum, özellikle Manhattan gibi yoğun bölgelerde:</p>
+<p style="text-align: justify">New York City’de <strong>şehir içine giren ve şehir içinde dolaşan yüklerin yaklaşık %90’ı kamyonlarla taşınıyor</strong>. Bu durum, özellikle Manhattan gibi yoğun bölgelerde:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">kronik trafik sıkışıklığı,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">teslimat gecikmeleri,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">hava ve gürültü kirliliği,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">yaya ve bisiklet güvenliği riskleri</p></li>
 </ul>
-<p style="text-align: justify">yaratmakta. Şehir yönetimi, su yollarını freight için kullanarak bu baskıyı azaltmayı ve lojistik akışlara <strong>alternatif bir omurga</strong> kazandırmayı amaçlamakta.</p>
+<p style="text-align: justify">yaratıyor. Şehir yönetimi, su yollarını freight için kullanarak bu baskıyı azaltmayı ve lojistik akışlara <strong>alternatif bir omurga</strong> kazandırmayı amaçlıyor.</p>
 <p><br></p>
 <p style="text-align: justify">NY Waterway CEO’su <strong>Armand Pohan</strong>, bu yaklaşımın önemini şu şekilde vurguladı:<br>
  <strong>“Our city’s waterways are key to getting trucks off Manhattan streets while getting freight delivered more quickly and efficiently.”</strong></p>
@@ -58,7 +58,7 @@ Rodriguez’e göre Blue Highways, New York’un <strong>20. yüzyıl kamyon oda
   <li style="text-align: justify"><p style="text-align: justify">dar sokaklarda daha yüksek manevra kabiliyeti,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">park ve dur-kalk sorunlarının azalması</p></li>
 </ul>
-<p style="text-align: justify">gibi avantajlar sunmakta. Cargo bike’lar, özellikle küçük ve orta hacimli e-ticaret siparişleri için <strong>hyper-local distribution</strong> modeli olarak öne çıkmakta.</p>
+<p style="text-align: justify">gibi avantajlar sunuyor. Cargo bike’lar, özellikle küçük ve orta hacimli e-ticaret siparişleri için <strong>hyper-local distribution</strong> modeli olarak öne çıkıyor.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>DutchX</strong> Kurucu Ortağı <strong>Marcus Hoed</strong>, pilotu “başlangıç” olarak tanımlayarak şunları söyledi:<br>
  <strong>“It proves that better options exist, and it is only the beginning of what this system will unlock.”</strong></p>
@@ -70,7 +70,7 @@ Rodriguez’e göre Blue Highways, New York’un <strong>20. yüzyıl kamyon oda
   <li style="text-align: justify"><p style="text-align: justify"><strong>34th Street Pier</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Battery Maritime Building</strong></p></li>
 </ul>
-<p style="text-align: justify">gibi üç farklı noktada daha test etmeyi değerlendirmekte. Uzun vadeli hedef, New York Harbor genelinde <strong>çok noktaya yayılan bir water-based freight network</strong> oluşturmak.</p>
+<p style="text-align: justify">gibi üç farklı noktada daha test etmeyi değerlendiriyor. Uzun vadeli hedef, New York Harbor genelinde <strong>çok noktaya yayılan bir water-based freight network</strong> oluşturmak.</p>
 <p style="text-align: justify">Bu ağın büyümesi hâlinde şehir, artan <strong>online order volumes</strong>’u daha fazla kamyon sokmadan karşılayabilecek ve lojistik altyapısını <strong>iklim dayanıklılığı</strong> açısından da güçlendirmiş olacak.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Stratejik Değerlendirme</strong></h3>
@@ -80,7 +80,7 @@ Rodriguez’e göre Blue Highways, New York’un <strong>20. yüzyıl kamyon oda
   <li style="text-align: justify"><p style="text-align: justify"><strong>Emissions &amp; air quality improvement</strong></p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Supply chain resilience</strong></p></li>
 </ol>
-<p style="text-align: justify">New York’un bu yaklaşımı, yoğun metropollerde <strong>multimodal last-mile logistics</strong> modellerinin nasıl şekillenebileceğine dair önemli bir referans noktası oluşturmakta.</p>
+<p style="text-align: justify">New York’un bu yaklaşımı, yoğun metropollerde <strong>multimodal last-mile logistics</strong> modellerinin nasıl şekillenebileceğine dair önemli bir referans noktası oluşturuyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar:</strong></h3>
 <ul>

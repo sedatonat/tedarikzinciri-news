@@ -20,20 +20,20 @@ tags:
 - akıllı kasa
 - dijital kimlik
 ---
-<p>Son mil teslimatları, müşteri memnuniyetinde belirleyici olmakla birlikte güven sorunlarına en açık aşamayı temsil etmekte. Teslimat sürecindeki görünürlük eksikliği ve yanlış bilgilendirme, hem marka itibarını hem müşteri sadakatini zedelemektedir. AI, IoT ve dijital kimlik teknolojileri, bu güven açığını kapatmada temel rol oynamakta.</p>
+<p>Son mil teslimatları, müşteri memnuniyetinde belirleyici olmakla birlikte güven sorunlarına en açık aşamayı temsil ediyor. Teslimat sürecindeki görünürlük eksikliği ve yanlış bilgilendirme, hem marka itibarını hem müşteri sadakatini zedelemektedir. AI, IoT ve dijital kimlik teknolojileri, bu güven açığını kapatmada temel rol oynuyor.</p>
 <p><br></p>
-<p>Smart locker sistemleri ve secure drop‑off çözümleri, teslimatı fiziksel güvence altına almakta. Facial recognition ve digital proof of delivery (e‑POD) uygulamaları, yanlış teslimat oranlarını %80’e kadar düşürmektedir. Müşterilere anlık bildirim ve doğrulama kodu ile şeffaflık sağlanmakta.</p>
+<p>Smart locker sistemleri ve secure drop‑off çözümleri, teslimatı fiziksel güvence altına alıyor. Facial recognition ve digital proof of delivery (e‑POD) uygulamaları, yanlış teslimat oranlarını %80’e kadar düşürüyordir. Müşterilere anlık bildirim ve doğrulama kodu ile şeffaflık sağlanıyor.</p>
 <p><br></p>
-<p>Veri gizliliği endişeleri nedeniyle, şeffaflık ile güvenlik arasında denge kurulması gerekmekte. Blockchain tabanlı kayıt sistemleri, teslimat geçmişinin değiştirilemez şekilde tutulmasını sağlamakta. Bu da hem tüketici güvenini hem de hukuki korumayı güçlendirmekte.</p>
+<p>Veri gizliliği endişeleri nedeniyle, şeffaflık ile güvenlik arasında denge kurulması gerekiyor. Blockchain tabanlı kayıt sistemleri, teslimat geçmişinin değiştirilemez şekilde tutulmasını sağlıyor. Bu da hem tüketici güvenini hem de hukuki korumayı güçlendiriyor.</p>
 <p><br></p>
-<p>Sonuç olarak, son mil güveni yalnız lojistik değil, marka değeri meselesidir. Teknoloji, bu aşamada şeffaflık ve güven arasında köprü kurarak müşteri deneyimini dönüştürmekte.</p>
+<p>Sonuç olarak, son mil güveni yalnız lojistik değil, marka değeri meselesidir. Teknoloji, bu aşamada şeffaflık ve güven arasında köprü kurarak müşteri deneyimini dönüştürüyor.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 - Son mil güveni marka itibarıyla doğrudan bağlantılıdır.<br>
-- e‑POD ve facial recognition yanlış teslimatı %80 azaltmaktadır.<br>
-- Blockchain kayıtları güvenilir şeffaflık sunmaktadır.<br>
-- Smart locker sistemleri fiziksel güvenliği artırmaktadır.<br>
-- Güven‑şeffaflık dengesi müşteri deneyimini belirlemektedir.</p>
+- e‑POD ve facial recognition yanlış teslimatı %80 azaltıyordır.<br>
+- Blockchain kayıtları güvenilir şeffaflık sunuyordır.<br>
+- Smart locker sistemleri fiziksel güvenliği artırıyordır.<br>
+- Güven‑şeffaflık dengesi müşteri deneyimini belirliyordir.</p>
 <p><br>
 ---<br>
 <strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42364-how-technology-bridges-the-trust-gap-in-last-mile-deliveries"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42364-how-technology-bridges-the-trust-gap-in-last-mile-deliveries</u></a><br>

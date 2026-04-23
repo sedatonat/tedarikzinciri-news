@@ -19,26 +19,26 @@ tags:
 - Tamil Nadu
 - Thoothukudi
 ---
-<p style="text-align: justify">Hindistan’ın küresel <strong>shipbuilding</strong> yarışında ilk beş ülke arasına girme hedefi doğrultusunda çok önemli bir adım atıldı. <strong>7 Aralık Pazar günü</strong>, Madurai’de <strong>HD Hyundai</strong> ile Tamil Nadu hükümeti arasında imzalanan anlaşma, ülke tarihinin en büyük gemi inşa yatırımlarından birini başlatmakta. Her ne kadar resmi rakam açıklanmasa da yerel medya proje değerinin <strong>yaklaşık 2 milyar USD (₹18.000 crore)</strong> olduğunu aktarmakta.</p>
+<p style="text-align: justify">Hindistan’ın küresel <strong>shipbuilding</strong> yarışında ilk beş ülke arasına girme hedefi doğrultusunda çok önemli bir adım atıldı. <strong>7 Aralık Pazar günü</strong>, Madurai’de <strong>HD Hyundai</strong> ile Tamil Nadu hükümeti arasında imzalanan anlaşma, ülke tarihinin en büyük gemi inşa yatırımlarından birini başlatıyor. Her ne kadar resmi rakam açıklanmasa da yerel medya proje değerinin <strong>yaklaşık 2 milyar USD (₹18.000 crore)</strong> olduğunu aktarıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Yeni tersane, <strong>Tamil Nadu eyaletine bağlı Thoothukudi (Tuticorin)</strong> kentinde kurulacak. Bu bölge, Hindistan’ın güney kıyısında stratejik bir konuma sahip olmasının yanı sıra, HD Hyundai’nin karar sürecinde belirleyici olan <strong>iklimsel benzerlikler</strong> nedeniyle tercih edildi. Hyundai yetkilileri, Thoothukudi’nin yıllık sıcaklık ve yağış profillerinin <strong>Ulsan</strong> ile neredeyse aynı olduğunu ve bunun açık alanda gemi üretim süreçleri için büyük avantaj sunduğunu belirtti.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>SMITH Projesi: Shipbuilding Make in India Together with Hyundai</strong></h3>
-<p style="text-align: justify">Proje, Hyundai tarafından içsel olarak <strong>“SMITH Project – Shipbuilding Make in India Together with Hyundai”</strong> adıyla geliştiriliyor. Bu proje yalnızca bir tersane kurmayı değil, <strong>entegre bir gemi inşa ekosistemi (shipbuilding ecosystem)</strong> yaratmayı amaçlamakta.</p>
+<p style="text-align: justify">Proje, Hyundai tarafından içsel olarak <strong>“SMITH Project – Shipbuilding Make in India Together with Hyundai”</strong> adıyla geliştiriliyor. Bu proje yalnızca bir tersane kurmayı değil, <strong>entegre bir gemi inşa ekosistemi (shipbuilding ecosystem)</strong> yaratmayı amaçlıyor.</p>
 <p><br></p>
 <p style="text-align: justify">HD Hyundai KSOE Başkan Yardımcısı <strong>Hannae Choi</strong>, imza törenindeki konuşmasında stratejideki paradigmayı şöyle özetledi:<br>
  <strong>“Standing here in Tamil Nadu, I believe it is time to say: Shipbuilding ‘Make in Tamil Nadu’ with Hyundai.”</strong></p>
 <p><br></p>
-<p style="text-align: justify">Açıklama, projenin yalnızca merkezi hükümetin değil, Tamil Nadu’nun bölgesel sanayi stratejisinin de önceliklerinden biri hâline geldiğini göstermekte.</p>
+<p style="text-align: justify">Açıklama, projenin yalnızca merkezi hükümetin değil, Tamil Nadu’nun bölgesel sanayi stratejisinin de önceliklerinden biri hâline geldiğini gösteriyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Yer Seçimindeki Stratejik Mantık</strong></h3>
 <p style="text-align: justify">Thoothukudi’nin seçilmesinde üç kritik unsur öne çıkıyor:</p>
 <ol>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Coastal advantage:</strong> Liman kenti olması, büyük tonajlı gemilerin inşa sonrası denize indirilmesini kolaylaştırmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Climate match:</strong> Ulsan ile benzer iklim profili, yıl boyu kesintisiz üretim imkânı sunmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Coastal advantage:</strong> Liman kenti olması, büyük tonajlı gemilerin inşa sonrası denize indirilmesini kolaylaştırıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Climate match:</strong> Ulsan ile benzer iklim profili, yıl boyu kesintisiz üretim imkânı sunuyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Logistics positioning:</strong> Güney Asya–Doğu Afrika–Orta Doğu hatlarına yakınlık, tersanenin ihracat odaklı üretimde avantaj elde etmesini sağlayacak.</p></li>
 </ol>
-<p style="text-align: justify">Bu tercihle birlikte Hindistan, gemi inşasında Gujarat–Andhra Pradesh eksenindeki geleneksel kümelenmenin dışına çıkarak Tamil Nadu’yu yeni bir <strong>maritime manufacturing hub</strong> hâline getirmeyi hedeflemekte.</p>
+<p style="text-align: justify">Bu tercihle birlikte Hindistan, gemi inşasında Gujarat–Andhra Pradesh eksenindeki geleneksel kümelenmenin dışına çıkarak Tamil Nadu’yu yeni bir <strong>maritime manufacturing hub</strong> hâline getirmeyi hedefliyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Tedarik Zincirinin Güçlendirilmesi: BEML Ortaklığı</strong></h3>
 <p style="text-align: justify">Hyundai, tersane kurulumunun yerli tedarik zinciri ile desteklenmesi için Hindistan devletine ait <strong>BEML</strong> şirketi ile ayrı bir ortaklık anlaşması imzaladı. Bu iş birliği:</p>
@@ -47,7 +47,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">tersane ekipmanları,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">montaj &amp; kaldırma sistemleri</p></li>
 </ul>
-<p style="text-align: justify">gibi kritik altyapı bileşenlerinin <strong>Hindistan’da üretimini</strong> hedeflemekte. Bu durum, SMITH Projesi’nin yalnızca bir yatırım değil, aynı zamanda <strong>domestic manufacturing localization</strong> hamlesi olduğunu göstermekte.</p>
+<p style="text-align: justify">gibi kritik altyapı bileşenlerinin <strong>Hindistan’da üretimini</strong> hedefliyor. Bu durum, SMITH Projesi’nin yalnızca bir yatırım değil, aynı zamanda <strong>domestic manufacturing localization</strong> hamlesi olduğunu gösteriyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Maritime Amrit Kaal Vision 2047 ile Uyum</strong></h3>
 <p style="text-align: justify">Hindistan’ın 2047 hedefleri:</p>
@@ -56,11 +56,11 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">donanma gemilerinde dışa bağımlılığı azaltmak,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">gemi inşa teknolojilerinde yerli kapasite yaratmak</p></li>
 </ul>
-<p style="text-align: justify">gibi başlıklardan oluşmakta. SMITH Projesi, bu hedeflerin tam merkezinde yer alıyor. Projenin tam kapasiteye ulaştığında:</p>
+<p style="text-align: justify">gibi başlıklardan oluşuyor. SMITH Projesi, bu hedeflerin tam merkezinde yer alıyor. Projenin tam kapasiteye ulaştığında:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">binlerce kişiye istihdam yaratması,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Hindistan’ın <strong>shipbuilding market share</strong>’ini yukarı çekmesi,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Güneydoğu Asya–Afrika–Gulf rotalarında rekabetçi teslim yeteneği oluşturması beklenmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Güneydoğu Asya–Afrika–Gulf rotalarında rekabetçi teslim yeteneği oluşturması bekleniyor.</p></li>
 </ul>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Sonuç: Hindistan İçin Yeni Bir Gemi İnşa Çağı</strong></h3>

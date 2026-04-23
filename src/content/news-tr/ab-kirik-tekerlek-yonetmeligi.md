@@ -19,7 +19,7 @@ tags:
 - yük vagonları
 - bakım yönetmelikleri
 ---
-<p style="text-align: justify">Avrupa demiryolu yük taşımacılığının son iki yıldaki en tartışmalı konularından biri olan <strong>“kırık tekerlek” düzenlemeleri</strong>, yıl sonuna kadar tamamlanacak. Avrupa Demiryolu Ajansı (ERA) koordinasyonunda çalışan <strong>JNS Broken Wheels Task Force</strong>, 2023 yılında Gotthard Base Tunnel’da gerçekleşen yüksek etkili raydan çıkma kazasının ardından başlatılan yeni güvenlik standartları üzerinde uzun süredir çalışmaktaydı.</p>
+<p style="text-align: justify">Avrupa demiryolu yük taşımacılığının son iki yıldaki en tartışmalı konularından biri olan <strong>“kırık tekerlek” düzenlemeleri</strong>, yıl sonuna kadar tamamlanacak. Avrupa Demiryolu Ajansı (ERA) koordinasyonunda çalışan <strong>JNS Broken Wheels Task Force</strong>, 2023 yılında Gotthard Base Tunnel’da gerçekleşen yüksek etkili raydan çıkma kazasının ardından başlatılan yeni güvenlik standartları üzerinde uzun süredir çalışıyorydı.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Gotthard kazası süreci nasıl başlattı?</strong></h4>
 <p style="text-align: justify">Ağustos 2023’te İsviçre’nin Gotthard Base Tunnel’ında meydana gelen raydan çıkma olayı, Avrupa genelindeki yük vagonlarının tekerlek güvenliği konusunda ciddi bir alarm niteliği taşımıştı. Kazanın kaynağının, kullanılan tekerlek tipindeki <strong>metal yorgunluğu ve çatlak ilerlemesi</strong> olduğu tespit edilmiş; ardından Avrupa ülkeleri ve işletmeciler tekerlek denetimleri, bakım prosedürleri ve parça sertifikasyonunda eşgüdümlü bir reform ihtiyacı duymuştu.</p>

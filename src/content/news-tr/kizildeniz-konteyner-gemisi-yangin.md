@@ -23,21 +23,21 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Olay, denizcilik sektöründe endişe yarattı. Yangının çıkış nedeni henüz bilinmemekte olup, ilgili makamlar tarafından soruşturma başlatıldı. Mürettebatın güvenli bir şekilde tahliye edilmesi, olası can kayıplarının önüne geçti.​</p>
 <p><br></p>
-<p style="text-align: justify"><strong>ASL Bauhinia</strong>, Hong Kong bayraklı bir konteyner gemisi olarak uluslararası sularda faaliyet göstermekteydi. Gemi, rutin seferlerinden birini gerçekleştirirken beklenmedik bir şekilde yangınla karşı karşıya kaldı. Mürettebatın hızlı ve etkili müdahalesi sayesinde can kaybı yaşanmadı.</p>
+<p style="text-align: justify"><strong>ASL Bauhinia</strong>, Hong Kong bayraklı bir konteyner gemisi olarak uluslararası sularda faaliyet gösteriyorydi. Gemi, rutin seferlerinden birini gerçekleştirirken beklenmedik bir şekilde yangınla karşı karşıya kaldı. Mürettebatın hızlı ve etkili müdahalesi sayesinde can kaybı yaşanmadı.</p>
 <p><br></p>
 <p style="text-align: justify">Yangının ardından bölgedeki diğer deniz trafiği uyarıldı ve gerekli önlemler alındı. Yakınlardaki gemiler, <strong>ASL Bauhinia</strong> mürettebatına yardım etmek için seferber oldu. Uluslararası denizcilik kuralları gereği, denizde tehlike altında olan gemilere yardım etmek bir zorunluluktur.​</p>
 <p><br></p>
-<p style="text-align: justify">Denizcilik uzmanları, bu tür olayların deniz taşımacılığının risklerini bir kez daha gözler önüne serdiğini belirtmekte. Gemi yangınları, hem çevresel hem de ekonomik açıdan ciddi sonuçlar doğurabilir. Bu nedenle, gemi işletmecileri ve mürettebatın yangın güvenliği konusunda sürekli eğitim alması ve gerekli önlemleri alması hayati önem taşımakta.​</p>
+<p style="text-align: justify">Denizcilik uzmanları, bu tür olayların deniz taşımacılığının risklerini bir kez daha gözler önüne serdiğini belirtiyor. Gemi yangınları, hem çevresel hem de ekonomik açıdan ciddi sonuçlar doğurabilir. Bu nedenle, gemi işletmecileri ve mürettebatın yangın güvenliği konusunda sürekli eğitim alması ve gerekli önlemleri alması hayati önem taşıyor.​</p>
 <p><br></p>
-<p style="text-align: justify"><strong>ASL Bauhinia</strong>'nın uğradığı hasarın boyutu ve geminin geleceği hakkında henüz resmi bir açıklama yapılmadı. Sigorta şirketleri ve gemi sahibi firma, olayın maddi boyutunu değerlendirmek için çalışmalara başladı. Ayrıca, çevresel etkilerin minimumda tutulması için de gerekli adımlar atılmakta.​</p>
+<p style="text-align: justify"><strong>ASL Bauhinia</strong>'nın uğradığı hasarın boyutu ve geminin geleceği hakkında henüz resmi bir açıklama yapılmadı. Sigorta şirketleri ve gemi sahibi firma, olayın maddi boyutunu değerlendirmek için çalışmalara başladı. Ayrıca, çevresel etkilerin minimumda tutulması için de gerekli adımlar atılıyor.​</p>
 <p><br></p>
-<p style="text-align: justify">Bu olay, denizcilik sektöründe güvenlik protokollerinin ve acil durum planlarının ne kadar önemli olduğunu bir kez daha hatırlattı. Mürettebatın soğukkanlılığı ve profesyonelliği sayesinde can kaybı yaşanmaması, bu tür eğitimlerin ne kadar etkili olduğunu göstermekte.​</p>
+<p style="text-align: justify">Bu olay, denizcilik sektöründe güvenlik protokollerinin ve acil durum planlarının ne kadar önemli olduğunu bir kez daha hatırlattı. Mürettebatın soğukkanlılığı ve profesyonelliği sayesinde can kaybı yaşanmaması, bu tür eğitimlerin ne kadar etkili olduğunu gösteriyor.​</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>ASL Bauhinia</strong> Kızıldeniz'de seyrederken yangın çıktı.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Mürettebat, güvenlik gerekçesiyle gemiyi terk etti.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Yangının çıkış nedeni henüz bilinmemekte ve soruşturma sürmekte.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Yangının çıkış nedeni henüz bilinmemekte ve soruşturma sürüyor.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Mürettebatın hızlı tahliyesi sayesinde can kaybı yaşanmadı.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Denizcilik sektöründe güvenlik protokollerinin önemi bir kez daha vurgulandı.</p></li>
 </ul>

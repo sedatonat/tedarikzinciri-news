@@ -20,18 +20,18 @@ tags:
 - Ambarlı
 - Varna
 ---
-<p style="text-align: justify">Fransız konteyner taşımacılığı devi <strong>CMA CGM</strong>, Bulgaristan'ın <strong>Varna</strong> ve <strong>Burgas</strong> limanları ile Türkiye'nin <strong>Ambarlı</strong> ve <strong>Gebze</strong> limanları arasında yeni bir feeder servisi başlatmakta. Bu hizmet, Karadeniz ve Marmara Denizi'ndeki önemli limanları birbirine bağlayarak bölgedeki ticaret hacmini artırmayı hedeflemekte.​</p>
+<p style="text-align: justify">Fransız konteyner taşımacılığı devi <strong>CMA CGM</strong>, Bulgaristan'ın <strong>Varna</strong> ve <strong>Burgas</strong> limanları ile Türkiye'nin <strong>Ambarlı</strong> ve <strong>Gebze</strong> limanları arasında yeni bir feeder servisi başlatıyor. Bu hizmet, Karadeniz ve Marmara Denizi'ndeki önemli limanları birbirine bağlayarak bölgedeki ticaret hacmini artırmayı hedefliyor.​</p>
 <p><br></p>
-<p style="text-align: justify">Yeni feeder servisi, haftalık seferlerle işletilmekte ve <strong>CMA CGM</strong>'in geniş küresel ağına entegre edilmekte. Bu sayede, Bulgaristan'dan gelen yükler, Türkiye üzerinden Orta Doğu, Asya ve Afrika'daki çeşitli destinasyonlara daha hızlı ve verimli bir şekilde ulaşabilmekte. Aynı şekilde, Türkiye'den gelen yükler de Bulgaristan üzerinden Avrupa'nın farklı bölgelerine taşınabilmekte.​</p>
+<p style="text-align: justify">Yeni feeder servisi, haftalık seferlerle işletiliyor ve <strong>CMA CGM</strong>'in geniş küresel ağına entegre ediliyor. Bu sayede, Bulgaristan'dan gelen yükler, Türkiye üzerinden Orta Doğu, Asya ve Afrika'daki çeşitli destinasyonlara daha hızlı ve verimli bir şekilde ulaşabiliyor. Aynı şekilde, Türkiye'den gelen yükler de Bulgaristan üzerinden Avrupa'nın farklı bölgelerine taşınabiliyor.​</p>
 <p><br></p>
-<p style="text-align: justify"><strong>CMA CGM</strong>, bu yeni hizmet ile müşterilerine daha esnek ve hızlı lojistik çözümleri sunmayı amaçlamakta. Şirket, bölgedeki ticaretin gelişimine katkıda bulunarak, hem Bulgaristan hem de Türkiye ekonomilerine olumlu etkiler sağlamayı planlamakta.​</p>
+<p style="text-align: justify"><strong>CMA CGM</strong>, bu yeni hizmet ile müşterilerine daha esnek ve hızlı lojistik çözümleri sunmayı amaçlıyor. Şirket, bölgedeki ticaretin gelişimine katkıda bulunarak, hem Bulgaristan hem de Türkiye ekonomilerine olumlu etkiler sağlamayı planlıyor.​</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>CMA CGM</strong>, Bulgaristan ve Türkiye arasında yeni bir feeder servisi başlatmakta.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Servis, Varna, Burgas, Ambarlı ve Gebze limanlarını birbirine bağlamakta.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Haftalık seferlerle işletilen hizmet, <strong>CMA CGM</strong>'in küresel ağına entegre edilmekte.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Yeni servis, bölgedeki ticaret hacmini artırmayı ve ekonomilere olumlu katkı sağlamayı hedeflemekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>CMA CGM</strong>, Bulgaristan ve Türkiye arasında yeni bir feeder servisi başlatıyor.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Servis, Varna, Burgas, Ambarlı ve Gebze limanlarını birbirine bağlıyor.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Haftalık seferlerle işletilen hizmet, <strong>CMA CGM</strong>'in küresel ağına entegre ediliyor.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Yeni servis, bölgedeki ticaret hacmini artırmayı ve ekonomilere olumlu katkı sağlamayı hedefliyor.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

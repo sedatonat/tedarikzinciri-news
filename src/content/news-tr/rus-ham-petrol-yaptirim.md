@@ -80,7 +80,7 @@ Yeni önlemler arasında <strong>Rusya’nın “gölge tanker filosuna (shadow 
 <h5 style="text-align: justify"><strong>Küresel Tanker Filosu: Yaptırımlı Gemilerde Rekor Artış</strong></h5>
 <p style="text-align: justify"><strong>Maritime analytics firması Kpler</strong>’in verilerine göre, yaptırımlı gemilerin sayısı <strong>Eylül 2020’de 350 iken, 2025 Eylül’ünde 1.700’e</strong> yükseldi.</p>
 <p><br>
-Son dönemde <strong>ABD, İngiltere ve AB yaptırımlarının giderek daha fazla örtüştüğü</strong> ve koordinasyonun güçlendiği görülmekte.</p>
+Son dönemde <strong>ABD, İngiltere ve AB yaptırımlarının giderek daha fazla örtüştüğü</strong> ve koordinasyonun güçlendiği görülüyor.</p>
 <p><br></p>
 <p style="text-align: justify">Bu gelişme, <strong>“uyumlu tankerler” (compliant vessels)</strong> için yeni bir pazar fırsatı yaratırken, <strong>yaptırıma tabi olmayan rotalarda navlun fiyatlarını yükseltebilir.</strong></p>
 <p><br></p>

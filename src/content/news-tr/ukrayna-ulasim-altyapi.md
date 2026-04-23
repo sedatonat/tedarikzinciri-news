@@ -26,7 +26,7 @@ tags:
 <p style="text-align: justify">UTSF bildirisi, önümüzdeki yıl başında benzer görüşteki ülkelere fon kapsamına katılması için davet gönderilmesini öngörüyor. Bu yapı, fonu çok taraflı bir çerçeveye dönüştürmeyi ve Ukrayna’nın ihtiyaçlarına göre <strong>targeted donations</strong> akışını yönetmeyi amaçlıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Fonun Öncelikli Amaçları</strong></h3>
-<p style="text-align: justify">Ukrayna’ya göre fonun görev alanı geniş bir yelpazeyi kapsamakta:</p>
+<p style="text-align: justify">Ukrayna’ya göre fonun görev alanı geniş bir yelpazeyi kapsıyor:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Urgent repairs:</strong> Savaş nedeniyle zarar gören karayollarının, demiryollarının ve köprülerin hızla onarılması.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Strategic upgrades:</strong> AB ile entegrasyonu destekleyen uzun vadeli yatırımlar.</p></li>
@@ -34,28 +34,28 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Resilient logistics:</strong> Alternatif lojistik koridorlarının oluşturulması ve kritik altyapıların güçlendirilmesi.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Public transport modernization:</strong> Şehir içi ulaşım sistemlerinin yenilenmesi.</p></li>
 </ul>
-<p style="text-align: justify">Derkach, fonun özellikle <strong>Europe connectivity</strong> alanında büyük önem taşıdığını vurgulamakta. Ukrayna’nın Avrupa Birliği altyapısına uyumu, hem ulusal ekonominin toparlanması hem de dış ticaret akışlarının güvenli hâle gelmesi için kritik görülüyor.</p>
+<p style="text-align: justify">Derkach, fonun özellikle <strong>Europe connectivity</strong> alanında büyük önem taşıdığını vurguluyor. Ukrayna’nın Avrupa Birliği altyapısına uyumu, hem ulusal ekonominin toparlanması hem de dış ticaret akışlarının güvenli hâle gelmesi için kritik görülüyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>AB Standartlarıyla Uyum: Standard-Gauge Demiryolları</strong></h3>
-<p style="text-align: justify">Metinde özellikle <strong>standard-gauge (1435 mm)</strong> demiryollarına geçiş çabaları öne çıkarılmakta. AB demiryolu ağına tam entegrasyon için geniş hat (1520 mm) yerine standard gauge’a geçiş, Ukrayna için <strong>interoperability</strong> açısından uzun vadeli bir stratejik hedef.</p>
+<p style="text-align: justify">Metinde özellikle <strong>standard-gauge (1435 mm)</strong> demiryollarına geçiş çabaları öne çıkarılıyor. AB demiryolu ağına tam entegrasyon için geniş hat (1520 mm) yerine standard gauge’a geçiş, Ukrayna için <strong>interoperability</strong> açısından uzun vadeli bir stratejik hedef.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Chop–Uzhhorod railway</strong> hattı, bu dönüşümün pilot projelerinden biri olarak gösteriliyor. Bu hat, Ukrayna’nın Orta Avrupa’ya erişiminde kritik bir rol oynayacak ve lojistik süreleri kısaltacak. Ayrıca bu entegrasyon, Ukrayna’nın <strong>TEN-T (Trans-European Transport Network)</strong> uyum sürecinde önemli bir aşama olarak değerlendiriliyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Jeopolitik Bağlam ve Fonun Önemi</strong></h3>
-<p style="text-align: justify">Rusya’nın 2022 sonrası saldırıları, Ukrayna’nın ulaşım altyapısında ciddi hasara neden oldu. Önemli lojistik koridorları tahrip olurken, sınır bölgelerinde hem güvenlik hem kapasite sorunları ortaya çıktı. UTSF, bu kırılganlığı gidermeyi ve Ukrayna’nın <strong>European logistics ecosystem</strong> ile entegrasyonunu hızlandırmayı amaçlamakta.</p>
+<p style="text-align: justify">Rusya’nın 2022 sonrası saldırıları, Ukrayna’nın ulaşım altyapısında ciddi hasara neden oldu. Önemli lojistik koridorları tahrip olurken, sınır bölgelerinde hem güvenlik hem kapasite sorunları ortaya çıktı. UTSF, bu kırılganlığı gidermeyi ve Ukrayna’nın <strong>European logistics ecosystem</strong> ile entegrasyonunu hızlandırmayı amaçlıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Ayrıca fonun Kanada, Litvanya ve İsveç gibi NATO ve AB uyumlu ülkeler tarafından desteklenmesi, Ukrayna’nın Batı yönelimli altyapı diplomasisinin de bir göstergesi.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Sonuç</strong></h3>
-<p style="text-align: justify">UTSF, Ukrayna’nın hem savaş sonrası toparlanma sürecinde hem de Avrupa ile kalıcı ekonomik entegrasyon yolunda atılmış kritik bir adım. Çok taraflı bağışçı yapısı ve “somut proje teslimi” odağı, fonu yalnızca finansman sağlayan bir kaynak değil, aynı zamanda <strong>transport-sector transformation</strong> aracı hâline getirmekte.</p>
+<p style="text-align: justify">UTSF, Ukrayna’nın hem savaş sonrası toparlanma sürecinde hem de Avrupa ile kalıcı ekonomik entegrasyon yolunda atılmış kritik bir adım. Çok taraflı bağışçı yapısı ve “somut proje teslimi” odağı, fonu yalnızca finansman sağlayan bir kaynak değil, aynı zamanda <strong>transport-sector transformation</strong> aracı hâline getiriyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar:</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Ukrayna, Kanada, Litvanya ve İsveç ile <strong>UTSF</strong> için ortak bildiri imzaladı.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Fon, yollar, köprüler, lojistik koridorlar, sınır kapıları ve toplu taşımanın modernizasyonunu hedeflemekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Fon, yollar, köprüler, lojistik koridorlar, sınır kapıları ve toplu taşımanın modernizasyonunu hedefliyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">UTSF 2026 başında diğer ülkelere katılım daveti gönderecek.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Standard-gauge</strong> projeleri (ör. <strong>Chop–Uzhhorod</strong>) AB ile entegrasyonda kilit rol oynuyor.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Fon, Ukrayna’nın savaş sonrası yeniden yapılanmasında stratejik bir araç olarak görülmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Fon, Ukrayna’nın savaş sonrası yeniden yapılanmasında stratejik bir araç olarak görülüyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

@@ -23,19 +23,19 @@ tags:
 <p style="text-align: justify">​</p>
 <p style="text-align: justify">Çin'in Pekin destekli gazetesi <strong>Ta Kung Pao</strong>'da yayımlanan bir makalede, bu satışın "güç politikası" olduğu ve ulusal çıkarlara aykırı olduğu belirtildi. Makalede, <strong>CK Hutchison</strong>'ın "iki kez düşünmesi" gerektiği vurgulandı. Bu eleştirilerin ardından, şirketin hisseleri Hong Kong borsasında %6'dan fazla değer kaybetti.</p>
 <p style="text-align: justify">​</p>
-<p style="text-align: justify">Anlaşma, <strong>CK Hutchison</strong>'ın <strong>Panama Ports Company</strong>'deki %90 hissesinin yanı sıra, 23 ülkede 43 limanı işleten <strong>Hutchison Ports</strong>'un %80 hissesini de kapsamakta. Bu limanlar arasında <strong>Birleşik Krallık</strong>, <strong>Almanya</strong>, <strong>Güneydoğu Asya</strong>, <strong>Orta Doğu</strong>, <strong>Meksika</strong> ve <strong>Avustralya</strong>'daki tesisler bulunmakta. Şirket, bu satıştan 19 milyar doların üzerinde nakit elde etmeyi planlamakta. ​</p>
+<p style="text-align: justify">Anlaşma, <strong>CK Hutchison</strong>'ın <strong>Panama Ports Company</strong>'deki %90 hissesinin yanı sıra, 23 ülkede 43 limanı işleten <strong>Hutchison Ports</strong>'un %80 hissesini de kapsıyor. Bu limanlar arasında <strong>Birleşik Krallık</strong>, <strong>Almanya</strong>, <strong>Güneydoğu Asya</strong>, <strong>Orta Doğu</strong>, <strong>Meksika</strong> ve <strong>Avustralya</strong>'daki tesisler bulunuyor. Şirket, bu satıştan 19 milyar doların üzerinde nakit elde etmeyi planlıyor. ​</p>
 <p><br></p>
 <p style="text-align: justify">ABD Başkanı <strong>Donald Trump</strong>, Çin'in Panama Kanalı üzerindeki etkisine dair endişelerini defalarca dile getirmiş ve kanalın kontrolünü geri alma niyetini belirtmişti. Bu bağlamda, <strong>BlackRock</strong> CEO'su <strong>Larry Fink</strong>, Trump yönetimi ve ABD Kongresi ile görüşmeler yaparak bu satın almayı destekledi. ​</p>
 <p><br></p>
-<p style="text-align: justify">Çin hükümeti, bu satışın ardından, <strong>CK Hutchison</strong>'ın diğer iş kollarının Çin ve Hong Kong'daki faaliyetlerinin olumsuz etkilenebileceği konusunda endişelerini dile getirdi. Şirketin 2023 gelirlerinin yaklaşık %14'ü Çin ve Hong Kong'dan gelmekte. ​</p>
+<p style="text-align: justify">Çin hükümeti, bu satışın ardından, <strong>CK Hutchison</strong>'ın diğer iş kollarının Çin ve Hong Kong'daki faaliyetlerinin olumsuz etkilenebileceği konusunda endişelerini dile getirdi. Şirketin 2023 gelirlerinin yaklaşık %14'ü Çin ve Hong Kong'dan geliyor. ​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Önemli Notlar:</strong></p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>CK Hutchison Holdings</strong>, Panama'daki limanlarını <strong>BlackRock</strong> liderliğindeki ABD'li bir konsorsiyuma satma kararı aldı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Çin hükümeti, bu satışı "güç politikası" olarak nitelendirerek sert eleştirilerde bulundu.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Anlaşma, 23 ülkede 43 limanı kapsamakta ve toplam değeri 22,8 milyar dolar.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Anlaşma, 23 ülkede 43 limanı kapsıyor ve toplam değeri 22,8 milyar dolar.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">ABD Başkanı <strong>Donald Trump</strong>, Çin'in Panama Kanalı üzerindeki etkisine dair endişelerini daha önce dile getirmişti.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>CK Hutchison</strong>'ın Çin ve Hong Kong'daki diğer iş kollarının bu satıştan olumsuz etkilenebileceği belirtilmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>CK Hutchison</strong>'ın Çin ve Hong Kong'daki diğer iş kollarının bu satıştan olumsuz etkilenebileceği belirtiliyor.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

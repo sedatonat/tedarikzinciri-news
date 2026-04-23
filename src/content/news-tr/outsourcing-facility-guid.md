@@ -19,9 +19,9 @@ tags:
 - stratejik ortaklık
 - enerji yönetimi
 ---
-<p>İleri üretim firmaları, tesis yönetimini dış kaynak yoluyla optimize etmektedir. Makale, outsourcing models, facility automation, ve service-level agreements (SLA) kavramlarına odaklanmaktadır. Strategic partnerships, bakım ve enerji yönetiminde maliyet avantajı sağlamaktadır. Ayrıca IoT monitoring sistemleri, operasyon verimliliğini artırmaktadır.&nbsp;</p>
+<p>İleri üretim firmaları, tesis yönetimini dış kaynak yoluyla optimize ediyordir. Makale, outsourcing models, facility automation, ve service-level agreements (SLA) kavramlarına odaklanıyordır. Strategic partnerships, bakım ve enerji yönetiminde maliyet avantajı sağlıyordır. Ayrıca IoT monitoring sistemleri, operasyon verimliliğini artırıyordır.&nbsp;</p>
 <p><br></p>
-<p>Sonuçta, dış kaynak stratejisi hem finansal hem sürdürülebilirlik hedeflerine hizmet etmektedir.</p>
+<p>Sonuçta, dış kaynak stratejisi hem finansal hem sürdürülebilirlik hedeflerine hizmet ediyordir.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 1. Outsourcing maliyet avantajı sağlar.<br>

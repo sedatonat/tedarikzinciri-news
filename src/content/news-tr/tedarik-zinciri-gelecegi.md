@@ -30,15 +30,15 @@ tags:
 <p>Ayrıca, <strong>Gartner</strong> tarafından yapılan bir araştırma, şirketlerin %73'ünün tedarik zincirlerini dayanıklılık ve çeviklik için yeniden şekillendirdiğini ortaya koyuyor.</p>
 <p><br></p>
 <p>Bu, firmaların tedarik zincirlerini daha esnek ve dayanıklı hale getirmek için önemli adımlar attığını gösteriyor.</p>
-<p>Özellikle, tedarik zinciri ve tedarik liderleri, savaş, enflasyon ve faiz oranlarındaki değişiklikler gibi faktörlerin iş dünyası üzerindeki etkileri nedeniyle temkinli bir yaklaşım benimsemektedir.</p>
+<p>Özellikle, tedarik zinciri ve tedarik liderleri, savaş, enflasyon ve faiz oranlarındaki değişiklikler gibi faktörlerin iş dünyası üzerindeki etkileri nedeniyle temkinli bir yaklaşım benimsiyordir.</p>
 <p><br></p>
-<p>Bu durum, firmaların sosyal sorumluluklarını ve kurumsal değerlerini ilerletmek için tedarik zincirlerini kullanma eğiliminde olduğunu göstermektedir.</p>
-<p>Ayrıca, <strong>GEODIS</strong> tarafından hazırlanan bir rehber, ithalatçıların 2025 tarifelerine hazırlanmaları için altı adım sunmaktadır.</p>
+<p>Bu durum, firmaların sosyal sorumluluklarını ve kurumsal değerlerini ilerletmek için tedarik zincirlerini kullanma eğiliminde olduğunu gösteriyordir.</p>
+<p>Ayrıca, <strong>GEODIS</strong> tarafından hazırlanan bir rehber, ithalatçıların 2025 tarifelerine hazırlanmaları için altı adım sunuyordır.</p>
 <p><br></p>
-<p>Bu adımlar arasında tarif maruziyetinin hesaplanması, ürün sınıflandırmalarının optimize edilmesi ve alternatif tedarikçilerin araştırılması yer almaktadır.</p>
-<p>Bu stratejiler, firmaların maliyetleri yönetmelerine ve rekabet avantajlarını sürdürmelerine yardımcı olmayı amaçlamaktadır.</p>
+<p>Bu adımlar arasında tarif maruziyetinin hesaplanması, ürün sınıflandırmalarının optimize edilmesi ve alternatif tedarikçilerin araştırılması yer alıyordır.</p>
+<p>Bu stratejiler, firmaların maliyetleri yönetmelerine ve rekabet avantajlarını sürdürmelerine yardımcı olmayı amaçlıyordır.</p>
 <p><br></p>
-<p><strong>Sonuç olarak</strong>, tedarik zinciri liderleri, gelecekteki zorluklara hazırlıklı olmak için operasyonlarını yeniden yapılandırmakta, dayanıklılığı artırmakta ve değişen ticaret politikalarına uyum sağlamak için stratejik adımlar atmaktadır.</p>
+<p><strong>Sonuç olarak</strong>, tedarik zinciri liderleri, gelecekteki zorluklara hazırlıklı olmak için operasyonlarını yeniden yapılandırıyor, dayanıklılığı artırıyor ve değişen ticaret politikalarına uyum sağlamak için stratejik adımlar atıyordır.</p>
 <p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>

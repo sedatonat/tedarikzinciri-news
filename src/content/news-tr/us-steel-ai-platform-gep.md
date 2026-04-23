@@ -20,21 +20,21 @@ tags:
 - dijital tedarik zinciri
 - çelik üretimi
 ---
-<p style="text-align: justify">US Steel, tedarik süreçlerini modernize etmek amacıyla yapay zeka destekli <strong>GEP Software</strong> platformunu kullanarak doğrudan ve dolaylı tedarik işlemlerini yeniden yapılandırmakta. Pittsburgh merkezli çelik üreticisi, önceki yazılımında manuel süreçlere ve birbirinden bağımsız sistemlere dayanmakta, bu da standartlaşmayı ve talebe göre ölçeklenmeyi sınırlamaktaydı.</p>
+<p style="text-align: justify">US Steel, tedarik süreçlerini modernize etmek amacıyla yapay zeka destekli <strong>GEP Software</strong> platformunu kullanarak doğrudan ve dolaylı tedarik işlemlerini yeniden yapılandırıyor. Pittsburgh merkezli çelik üreticisi, önceki yazılımında manuel süreçlere ve birbirinden bağımsız sistemlere dayanıyor, bu da standartlaşmayı ve talebe göre ölçeklenmeyi sınırlıyorydı.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Yeni <strong>GEP</strong> dijital tedarik ve tedarik zinciri platformu sayesinde, US Steel özellikle doğrudan malzemeler ve emtialar için dış istihbaratı satın alma süreçlerine entegre ederek operasyonel verimliliği ve görünürlüğü artırmayı hedeflemekte. Bu yazılım, stratejik karar alma süreçlerinde yardımcı olacak maliyet modellemelerini de mümkün kılmakta.</p>
+<p style="text-align: justify">Yeni <strong>GEP</strong> dijital tedarik ve tedarik zinciri platformu sayesinde, US Steel özellikle doğrudan malzemeler ve emtialar için dış istihbaratı satın alma süreçlerine entegre ederek operasyonel verimliliği ve görünürlüğü artırmayı hedefliyor. Bu yazılım, stratejik karar alma süreçlerinde yardımcı olacak maliyet modellemelerini de mümkün kılıyor.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify"><strong>GEP</strong> yazılımı, US Steel'in harcamalarını daha etkili bir şekilde analiz etmesine, maliyet modelleme ve tahminleme yapmasına, tedarik projeleri portföyünü yönetmesine, tasarrufları takip etmesine ve belirlenen tasarrufları elde etmek için ilgili RFx/Müzayedelerini başlatmasına olanak tanımakta. Ayrıca, otomatik raporlama ve veri toplama yoluyla, tedarikçi riskini ve performansını ölçüp izleyerek riskleri azaltmayı amaçlamakta.</p>
+<p style="text-align: justify"><strong>GEP</strong> yazılımı, US Steel'in harcamalarını daha etkili bir şekilde analiz etmesine, maliyet modelleme ve tahminleme yapmasına, tedarik projeleri portföyünü yönetmesine, tasarrufları takip etmesine ve belirlenen tasarrufları elde etmek için ilgili RFx/Müzayedelerini başlatmasına olanak tanıyor. Ayrıca, otomatik raporlama ve veri toplama yoluyla, tedarikçi riskini ve performansını ölçüp izleyerek riskleri azaltmayı amaçlıyor.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Yazılımın bu yıl içinde devreye alınması planlanmakta olup, <strong>GEP Sourcing</strong> modülü ilk olarak kullanılmaya başlanacak.</p>
+<p style="text-align: justify">Yazılımın bu yıl içinde devreye alınması planlanıyor olup, <strong>GEP Sourcing</strong> modülü ilk olarak kullanılmaya başlanacak.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">US Steel, tedarik süreçlerini modernize etmek için yapay zeka destekli <strong>GEP Software</strong> platformunu kullanmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Önceki manuel ve bağımsız sistemler, standartlaşma ve ölçeklenebilirlik konusunda sınırlamalar yaratmaktaydı.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Yeni platform, harcama analizi, maliyet modelleme, tahminleme ve tedarikçi risk yönetimi gibi alanlarda iyileştirmeler sunmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>GEP Sourcing</strong> modülünün bu yıl içinde ilk olarak devreye alınması planlanmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">US Steel, tedarik süreçlerini modernize etmek için yapay zeka destekli <strong>GEP Software</strong> platformunu kullanıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Önceki manuel ve bağımsız sistemler, standartlaşma ve ölçeklenebilirlik konusunda sınırlamalar yaratıyorydı.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Yeni platform, harcama analizi, maliyet modelleme, tahminleme ve tedarikçi risk yönetimi gibi alanlarda iyileştirmeler sunuyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>GEP Sourcing</strong> modülünün bu yıl içinde ilk olarak devreye alınması planlanıyor.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

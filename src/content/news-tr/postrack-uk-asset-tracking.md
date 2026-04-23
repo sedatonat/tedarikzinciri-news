@@ -32,12 +32,12 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Uzun ömürlü batarya (20 yıla kadar)</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>IP68/IP69K sertifikalı dayanıklılık</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Hem iç hem dış mekân izleme kabiliyeti</strong>,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Bulut tabanlı veri entegrasyonu</strong> gibi özelliklerle sistem, <strong>en zorlu çevresel koşullarda bile kesintisiz performans</strong> sunmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Bulut tabanlı veri entegrasyonu</strong> gibi özelliklerle sistem, <strong>en zorlu çevresel koşullarda bile kesintisiz performans</strong> sunuyor.</p></li>
 </ul>
 <p style="text-align: justify">Bu sayede kullanıcılar, varlıklarının <strong>nerede olduğunu, nereden geldiğini ve nasıl hareket ettiğini</strong> anlık olarak takip edebiliyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Kanıtlanmış başarı örnekleri</strong></h5>
-<p style="text-align: justify">Postrack teknolojisi, Avrupa’daki büyük lojistik operatörleri tarafından halihazırda aktif olarak kullanılmakta.</p>
+<p style="text-align: justify">Postrack teknolojisi, Avrupa’daki büyük lojistik operatörleri tarafından halihazırda aktif olarak kullanılıyor.</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>İskandinavya’nın önde gelen lojistik devi PostNord</strong>, binlerce konteynerinde Postrack cihazlarını kullanarak <strong>konteyner kullanım oranında büyük artış</strong> ve <strong>kira maliyetlerinde %24 düşüş</strong> elde etti.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Pan-Avrupa treyler operatörü NTEX</strong>, <strong>1.200’den fazla treyler filosunda %100 görünürlük (full visibility)</strong> sağlayarak <strong>bekleme sürelerini ve operasyonel maliyetlerini düşürdü</strong>, ayrıca <strong>karbon emisyonlarını azalttı.</strong></p></li>

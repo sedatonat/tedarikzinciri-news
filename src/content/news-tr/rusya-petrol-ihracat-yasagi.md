@@ -19,30 +19,30 @@ tags:
 - dizel yakıt
 - petrol türevleri
 ---
-<p style="text-align: justify"><strong>Rusya Federasyonu Hükümeti</strong>, ülke içi arz güvenliğini koruma amacıyla <strong>benzin ihracatına yönelik geçici yasağı 31 Aralık 2025 tarihine kadar uzatmakta.</strong> Bu karar, <strong>30 Eylül 2025 tarihli ve 1503 sayılı Hükümet Kararnamesi</strong> ile resmiyet kazanmakta.</p>
+<p style="text-align: justify"><strong>Rusya Federasyonu Hükümeti</strong>, ülke içi arz güvenliğini koruma amacıyla <strong>benzin ihracatına yönelik geçici yasağı 31 Aralık 2025 tarihine kadar uzatıyor.</strong> Bu karar, <strong>30 Eylül 2025 tarihli ve 1503 sayılı Hükümet Kararnamesi</strong> ile resmiyet kazanıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Hükümet Basın Ofisi tarafından yapılan açıklamaya göre, karar tüm <strong>ihracatçılar ve üreticiler</strong> için geçerli olmakta. Böylece <strong>ham petrol türevleri ve otomotiv yakıtlarının</strong> yurtdışına satışına ilişkin kısıtlamalar sürecek.</p>
-<p style="text-align: justify">Yasağın temel gerekçesi, Rusya iç pazarında <strong>yakıt arzında istikrarın korunması, fiyat dalgalanmalarının önlenmesi</strong> ve <strong>enerji güvenliğinin sağlanması</strong> olarak açıklanmakta. Özellikle son aylarda artan iç talep ve bazı bölgelerde görülen tedarik sıkıntıları, hükümetin bu kararı uzatma yönünde adım atmasında etkili olmakta.</p>
+<p style="text-align: justify">Hükümet Basın Ofisi tarafından yapılan açıklamaya göre, karar tüm <strong>ihracatçılar ve üreticiler</strong> için geçerli oluyor. Böylece <strong>ham petrol türevleri ve otomotiv yakıtlarının</strong> yurtdışına satışına ilişkin kısıtlamalar sürecek.</p>
+<p style="text-align: justify">Yasağın temel gerekçesi, Rusya iç pazarında <strong>yakıt arzında istikrarın korunması, fiyat dalgalanmalarının önlenmesi</strong> ve <strong>enerji güvenliğinin sağlanması</strong> olarak açıklanıyor. Özellikle son aylarda artan iç talep ve bazı bölgelerde görülen tedarik sıkıntıları, hükümetin bu kararı uzatma yönünde adım atmasında etkili oluyor.</p>
 <p><br></p>
-<p style="text-align: justify">Ayrıca, <strong>1502 sayılı ayrı bir hükûmet kararnamesiyle</strong>, <strong>dizel yakıt (diesel fuel)</strong>, <strong>gaz yağı (gas oil)</strong> ve <strong>gemilere yönelik yakıt (ship fuel)</strong> ihracatına da kısıtlama getirilmekte. Ancak bu karar, <strong>yakıt üreticilerini kapsam dışı</strong> bırakmakta. Bu düzenleme, üreticilere belirli miktarda ihracat esnekliği tanırken, tedarik zincirinin kontrol altında tutulmasını amaçlamakta.</p>
+<p style="text-align: justify">Ayrıca, <strong>1502 sayılı ayrı bir hükûmet kararnamesiyle</strong>, <strong>dizel yakıt (diesel fuel)</strong>, <strong>gaz yağı (gas oil)</strong> ve <strong>gemilere yönelik yakıt (ship fuel)</strong> ihracatına da kısıtlama getiriliyor. Ancak bu karar, <strong>yakıt üreticilerini kapsam dışı</strong> bırakıyor. Bu düzenleme, üreticilere belirli miktarda ihracat esnekliği tanırken, tedarik zincirinin kontrol altında tutulmasını amaçlıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Bu kararlar, Rusya’nın <strong>enerji politikası</strong> açısından önemli bir yön değişimi olarak değerlendirilebilmekte. Ülke, geçmiş yıllarda enerji ihracatına büyük ölçüde dayanırken, son dönemde <strong>iç piyasayı önceliklendiren bir strateji</strong> izlemekte. Uzmanlara göre bu adım, hem <strong>iç fiyat baskılarını hafifletmek</strong> hem de <strong>kış sezonuna hazırlık amacıyla stok seviyelerini artırmak</strong> hedefi taşımakta.</p>
+<p style="text-align: justify">Bu kararlar, Rusya’nın <strong>enerji politikası</strong> açısından önemli bir yön değişimi olarak değerlendirilebiliyor. Ülke, geçmiş yıllarda enerji ihracatına büyük ölçüde dayanırken, son dönemde <strong>iç piyasayı önceliklendiren bir strateji</strong> izliyor. Uzmanlara göre bu adım, hem <strong>iç fiyat baskılarını hafifletmek</strong> hem de <strong>kış sezonuna hazırlık amacıyla stok seviyelerini artırmak</strong> hedefi taşıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Enerji analistleri, benzer bir yasağın <strong>2024’te de uygulanmış</strong> olduğunu ve bunun iç pazarda fiyat istikrarına katkı sağladığını hatırlatmakta. Ancak ihracat gelirlerinde kısa vadeli düşüş yaşanabileceği de belirtilmekte.</p>
-<p style="text-align: justify">Yasağın süresi 2025 sonunda dolacak olsa da, hükümetin bu süreyi <strong>ekonomik ve jeopolitik gelişmelere göre yeniden gözden geçirme</strong> yetkisi bulunmakta.</p>
+<p style="text-align: justify">Enerji analistleri, benzer bir yasağın <strong>2024’te de uygulanmış</strong> olduğunu ve bunun iç pazarda fiyat istikrarına katkı sağladığını hatırlatıyor. Ancak ihracat gelirlerinde kısa vadeli düşüş yaşanabileceği de belirtiliyor.</p>
+<p style="text-align: justify">Yasağın süresi 2025 sonunda dolacak olsa da, hükümetin bu süreyi <strong>ekonomik ve jeopolitik gelişmelere göre yeniden gözden geçirme</strong> yetkisi bulunuyor.</p>
 <p><br></p>
-<p style="text-align: justify">Öte yandan, bu karar uluslararası yakıt piyasalarında da dikkat çekmekte. Rusya, dünyanın önde gelen petrol ve türev ürün ihracatçılarından biri olduğundan, bu tür kısıtlamalar <strong>küresel arz-talep dengesi üzerinde</strong> kısa vadeli dalgalanmalara yol açabilmekte. Özellikle Avrupa ve Asya pazarlarına ihracat yapan aracı firmalar, bu kararın etkilerini <strong>tedarik planlarını revize ederek</strong> yönetmeye çalışmakta.</p>
+<p style="text-align: justify">Öte yandan, bu karar uluslararası yakıt piyasalarında da dikkat çekiyor. Rusya, dünyanın önde gelen petrol ve türev ürün ihracatçılarından biri olduğundan, bu tür kısıtlamalar <strong>küresel arz-talep dengesi üzerinde</strong> kısa vadeli dalgalanmalara yol açabiliyor. Özellikle Avrupa ve Asya pazarlarına ihracat yapan aracı firmalar, bu kararın etkilerini <strong>tedarik planlarını revize ederek</strong> yönetmeye çalışıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Sonuç olarak, <strong>Rusya’nın benzin ihracat yasağının uzatılması</strong>, hem iç ekonomik dengeyi hem de uluslararası enerji piyasalarını etkileyecek nitelikte bir adım olarak öne çıkmakta. Hükümetin bu kararla birlikte önceliği, <strong>iç tüketimin sürekliliği ve fiyat istikrarının korunması</strong> yönünde şekillenmekte.</p>
+<p style="text-align: justify">Sonuç olarak, <strong>Rusya’nın benzin ihracat yasağının uzatılması</strong>, hem iç ekonomik dengeyi hem de uluslararası enerji piyasalarını etkileyecek nitelikte bir adım olarak öne çıkıyor. Hükümetin bu kararla birlikte önceliği, <strong>iç tüketimin sürekliliği ve fiyat istikrarının korunması</strong> yönünde şekilleniyor.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>Önemli Notlar:</strong></p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>1503 sayılı Hükümet Kararnamesi</strong> uyarınca, <strong>benzin ihracatı 31 Aralık 2025’e kadar yasaklanmakta.</strong></p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Yasağın kapsamı <strong>tüm ihracatçıları ve üreticileri</strong> içermekte.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>1502 sayılı karar</strong> ile <strong>dizel, gaz yağı ve gemi yakıtı</strong> ihracatı da kısıtlanmakta, ancak üreticiler bu karardan muaf tutulmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Yasağın kapsamı <strong>tüm ihracatçıları ve üreticileri</strong> içeriyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>1502 sayılı karar</strong> ile <strong>dizel, gaz yağı ve gemi yakıtı</strong> ihracatı da kısıtlanmakta, ancak üreticiler bu karardan muaf tutuluyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Hükümetin amacı, <strong>iç piyasa arz güvenliğini</strong> ve <strong>yakıt fiyat istikrarını</strong> korumak.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Yasağın, <strong>enerji gelirlerinde geçici azalmaya</strong> neden olabileceği öngörülmekte.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Kararın, <strong>küresel yakıt arzı ve fiyatları üzerinde kısa vadeli etkiler</strong> yaratması beklenmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Yasağın, <strong>enerji gelirlerinde geçici azalmaya</strong> neden olabileceği öngörülüyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Kararın, <strong>küresel yakıt arzı ve fiyatları üzerinde kısa vadeli etkiler</strong> yaratması bekleniyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

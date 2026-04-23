@@ -32,9 +32,9 @@ tags:
 <p><br></p>
 <p>DAC'ın başarılı bir şekilde uygulanması, yük vagonlarının otomatik olarak bağlanmasını sağlayarak operasyonel verimliliği artırabilir ve güvenliği iyileştirebilir. Ayrıca, tren boyunca dijital bir bağlantı oluşturarak otomatik fren testleri gibi süreçlerin daha da otomatikleştirilmesine olanak tanır. Bu da demiryolu taşımacılığının rekabet gücünü artırabilir ve modlar arası geçişi teşvik edebilir.</p>
 <p><br></p>
-<p>Ancak, DAC'ın uygulanmasıyla ilgili bazı zorluklar da bulunmaktadır. Özellikle finansman, ekonomik getiriler ve dijital bileşenin somutluğu konusundaki belirsizlikler, bazı sektör paydaşları arasında endişe yaratmaktadır. Ayrıca, DAC'ın geniş çapta uygulanması için belirlenen 2030 hedefi, birçok kişi tarafından oldukça iddialı bulunmaktadır.</p>
+<p>Ancak, DAC'ın uygulanmasıyla ilgili bazı zorluklar da bulunuyordır. Özellikle finansman, ekonomik getiriler ve dijital bileşenin somutluğu konusundaki belirsizlikler, bazı sektör paydaşları arasında endişe yaratıyordır. Ayrıca, DAC'ın geniş çapta uygulanması için belirlenen 2030 hedefi, birçok kişi tarafından oldukça iddialı bulunuyordır.</p>
 <p><br></p>
-<p>Bu bağlamda, İsveç'te başlatılan bu pilot proje, DAC teknolojisinin gerçek dünya koşullarında test edilmesi ve potansiyel zorlukların belirlenmesi açısından önemli bir adım olarak değerlendirilmektedir. Proje kapsamında elde edilecek bulgular, DAC'ın gelecekteki uygulamaları için değerli bilgiler sağlayacaktır.</p>
+<p>Bu bağlamda, İsveç'te başlatılan bu pilot proje, DAC teknolojisinin gerçek dünya koşullarında test edilmesi ve potansiyel zorlukların belirlenmesi açısından önemli bir adım olarak değerlendiriliyordir. Proje kapsamında elde edilecek bulgular, DAC'ın gelecekteki uygulamaları için değerli bilgiler sağlayacaktır.</p>
 <p><br></p>
 <p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>

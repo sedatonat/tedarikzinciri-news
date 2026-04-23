@@ -18,14 +18,14 @@ tags:
 - slot tahsisi
 - kanal yönetimi
 ---
-<p>Panama Kanalı Otoritesi, küresel taşımacılıkta yaşanan tıkanıklıkları azaltmak için yeni bir flexible booking system uygulamaya koymuştur. Yeni sistem, taşıyıcılara dynamic slot allocation imkânı tanımakta ve bekleme sürelerini azaltmaktadır. Ayrıca su tasarrufu ve gemi kapasitesi yönetimi için AI-based scheduling çözümleri kullanılmaktadır. Bu reform, kanalın küresel rekabet gücünü artırmakta ve shipping lines için öngörülebilirlik sağlamaktadır.</p>
+<p>Panama Kanalı Otoritesi, küresel taşımacılıkta yaşanan tıkanıklıkları azaltmak için yeni bir flexible booking system uygulamaya koymuştur. Yeni sistem, taşıyıcılara dynamic slot allocation imkânı tanıyor ve bekleme sürelerini azaltıyordır. Ayrıca su tasarrufu ve gemi kapasitesi yönetimi için AI-based scheduling çözümleri kullanılıyordır. Bu reform, kanalın küresel rekabet gücünü artırıyor ve shipping lines için öngörülebilirlik sağlıyordır.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 1. Panama Canal yeni esnek rezervasyon sistemine geçmiştir.<br>
-2. Dynamic slot allocation beklemeyi azaltmaktadır.<br>
-3. AI scheduling operasyon verimliliği sağlamaktadır.<br>
-4. Reform, kanalın rekabet gücünü artırmaktadır.<br>
-5. Küresel deniz taşımacılığında öngörülebilirlik güçlenmektedir.</p>
+2. Dynamic slot allocation beklemeyi azaltıyordır.<br>
+3. AI scheduling operasyon verimliliği sağlıyordır.<br>
+4. Reform, kanalın rekabet gücünü artırıyordır.<br>
+5. Küresel deniz taşımacılığında öngörülebilirlik güçleniyordir.</p>
 <p><br>
 ---<br>
 <strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42604-panama-canal-offers-shippers-more-flexible-booking-system"><u>https://www.supplychainbrain.com/articles/42604-panama-canal-offers-shippers-more-flexible-booking-system</u></a><br>

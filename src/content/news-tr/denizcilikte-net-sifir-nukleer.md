@@ -23,27 +23,27 @@ tags:
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Wiernicki, "2050 yılına kadar net sıfır hedefine nükleer enerji olmadan ulaşmak mümkün değil" ifadesini kullandı.</p>
 <p><br></p>
-<p style="text-align: justify">Yeni nükleer teknolojiler, denizcilik sektöründe dönüşümsel bir etki yaratmakta. Bu teknolojiler, ticari modelleri, deniz taşımacılığının ekonomisini, gemi operasyonlarını ve tasarımlarını kökten değiştirmekte. Nükleer enerji, sıfır karbon operasyonları sağlamanın yanı sıra, daha yüksek güç ile daha hızlı seyahat imkanı sunmakta.&nbsp;</p>
+<p style="text-align: justify">Yeni nükleer teknolojiler, denizcilik sektöründe dönüşümsel bir etki yaratıyor. Bu teknolojiler, ticari modelleri, deniz taşımacılığının ekonomisini, gemi operasyonlarını ve tasarımlarını kökten değiştiriyor. Nükleer enerji, sıfır karbon operasyonları sağlamanın yanı sıra, daha yüksek güç ile daha hızlı seyahat imkanı sunuyor.&nbsp;</p>
 <p><br></p>
-<p style="text-align: justify">Ayrıca, yakıt depolama ihtiyacının ortadan kalkmasıyla birlikte, kargo depolama kapasitesinde artış sağlanmakta ve gemilerin limanlara enerji sağlaması (reverse cold ironing) potansiyelini ortaya çıkarmakta. Dahası, bu teknoloji sayesinde gemiler, ömürleri boyunca yakıt ikmali yapma gerekliliğini ortadan kaldırmakta.</p>
-<p style="text-align: justify">Geleneksel düşüncenin aksine, nükleer teknolojinin yüksek maliyetli olduğu algısı bulunmakta.&nbsp;</p>
+<p style="text-align: justify">Ayrıca, yakıt depolama ihtiyacının ortadan kalkmasıyla birlikte, kargo depolama kapasitesinde artış sağlanıyor ve gemilerin limanlara enerji sağlaması (reverse cold ironing) potansiyelini ortaya çıkarıyor. Dahası, bu teknoloji sayesinde gemiler, ömürleri boyunca yakıt ikmali yapma gerekliliğini ortadan kaldırıyor.</p>
+<p style="text-align: justify">Geleneksel düşüncenin aksine, nükleer teknolojinin yüksek maliyetli olduğu algısı bulunuyor.&nbsp;</p>
 <p><br></p>
-<p>Ancak Wiernicki, yeni nükleer teknolojilerin son derece rekabetçi olabileceğini vurgulamakta. Geminin ömrü boyunca yakıt farkları, uyum maliyetleri ve artık değer dikkate alındığında, nükleer enerji kullanımı fosil yakıtlı seçeneklerle yaklaşık olarak aynı maliyete gelmekte. Üstelik, yeşil yakıtların yüksek maliyetleriyle karşılaştırıldığında, nükleer enerji daha cazip bir seçenek sunmakta.</p>
+<p>Ancak Wiernicki, yeni nükleer teknolojilerin son derece rekabetçi olabileceğini vurguluyor. Geminin ömrü boyunca yakıt farkları, uyum maliyetleri ve artık değer dikkate alındığında, nükleer enerji kullanımı fosil yakıtlı seçeneklerle yaklaşık olarak aynı maliyete geliyor. Üstelik, yeşil yakıtların yüksek maliyetleriyle karşılaştırıldığında, nükleer enerji daha cazip bir seçenek sunuyor.</p>
 <p><br></p>
-<p style="text-align: justify">Bununla birlikte, teknolojik gelişmelerin ötesinde önemli zorluklar bulunmakta. Wiernicki, yeni bir kamu/özel sektör ortaklığına ve yeni bir ticari modele ihtiyaç duyulacağını belirtmekte. Sigorta sektörünün mevcut modellerini değiştirmesi gerekmekte ve düzenleyici boşlukların kapatılması, küresel lisanslama standartlarının geliştirilmesi ve mürettebat eğitimi için yatırım yapılması gerekmekte.&nbsp;</p>
+<p style="text-align: justify">Bununla birlikte, teknolojik gelişmelerin ötesinde önemli zorluklar bulunuyor. Wiernicki, yeni bir kamu/özel sektör ortaklığına ve yeni bir ticari modele ihtiyaç duyulacağını belirtiyor. Sigorta sektörünün mevcut modellerini değiştirmesi gerekiyor ve düzenleyici boşlukların kapatılması, küresel lisanslama standartlarının geliştirilmesi ve mürettebat eğitimi için yatırım yapılması gerekiyor.&nbsp;</p>
 <p><br></p>
-<p style="text-align: justify">Bu teknolojinin nihai sınırı güvenlik olacak ve kamuoyunun, bu yeni reaktörlerin gelişmiş güvenlik performansı konusunda bilgilendirilmesi ve eğitilmesi gerekmekte.</p>
+<p style="text-align: justify">Bu teknolojinin nihai sınırı güvenlik olacak ve kamuoyunun, bu yeni reaktörlerin gelişmiş güvenlik performansı konusunda bilgilendirilmesi ve eğitilmesi gerekiyor.</p>
 <p><br></p>
-<p style="text-align: justify"><strong>ABS</strong>, geçen yıl Ekim ayında yüzer nükleer enerji için sektörün ilk kapsamlı kurallarını yayınladı. <strong>ABS Requirements for Nuclear Power Systems for Marine and Offshore Applications</strong> başlıklı bu kurallar, denizcilik ve açık deniz uygulamaları için nükleer enerji sistemlerine yönelik gereksinimleri içermekte ve ücretsiz olarak indirilebilmekte.</p>
+<p style="text-align: justify"><strong>ABS</strong>, geçen yıl Ekim ayında yüzer nükleer enerji için sektörün ilk kapsamlı kurallarını yayınladı. <strong>ABS Requirements for Nuclear Power Systems for Marine and Offshore Applications</strong> başlıklı bu kurallar, denizcilik ve açık deniz uygulamaları için nükleer enerji sistemlerine yönelik gereksinimleri içeriyor ve ücretsiz olarak indirilebiliyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Christopher J. Wiernicki</strong>, denizcilikte net sıfır emisyon hedefine ulaşmak için nükleer enerjinin şart olduğunu vurgulamakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Yeni nükleer teknolojiler, ticari modelleri, deniz taşımacılığının ekonomisini, gemi operasyonlarını ve tasarımlarını kökten değiştirmekte.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Nükleer enerji, sıfır karbon operasyonları sağlamanın yanı sıra, daha yüksek güç ile daha hızlı seyahat imkanı sunmakta ve yakıt depolama ihtiyacını ortadan kaldırarak kargo kapasitesini artırmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Geminin ömrü boyunca maliyetler dikkate alındığında, nükleer enerji kullanımı fosil yakıtlı seçeneklerle yaklaşık olarak aynı maliyete gelmekte ve yeşil yakıtların yüksek maliyetleriyle karşılaştırıldığında daha cazip bir seçenek sunmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Teknolojik gelişmelerin ötesinde, yeni kamu/özel sektör ortaklıklarına, sigorta modellerinin revizyonuna, düzenleyici boşlukların kapatılmasına, küresel lisanslama standartlarının geliştirilmesine ve mürettebat eğitimi için yatırımlara ihtiyaç duyulmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>ABS</strong>, yüzer nükleer enerji için sektörün ilk kapsamlı kurallarını yayınladı ve bu kurallar ücretsiz olarak indirilebilmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Christopher J. Wiernicki</strong>, denizcilikte net sıfır emisyon hedefine ulaşmak için nükleer enerjinin şart olduğunu vurguluyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Yeni nükleer teknolojiler, ticari modelleri, deniz taşımacılığının ekonomisini, gemi operasyonlarını ve tasarımlarını kökten değiştiriyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Nükleer enerji, sıfır karbon operasyonları sağlamanın yanı sıra, daha yüksek güç ile daha hızlı seyahat imkanı sunuyor ve yakıt depolama ihtiyacını ortadan kaldırarak kargo kapasitesini artırıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Geminin ömrü boyunca maliyetler dikkate alındığında, nükleer enerji kullanımı fosil yakıtlı seçeneklerle yaklaşık olarak aynı maliyete geliyor ve yeşil yakıtların yüksek maliyetleriyle karşılaştırıldığında daha cazip bir seçenek sunuyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Teknolojik gelişmelerin ötesinde, yeni kamu/özel sektör ortaklıklarına, sigorta modellerinin revizyonuna, düzenleyici boşlukların kapatılmasına, küresel lisanslama standartlarının geliştirilmesine ve mürettebat eğitimi için yatırımlara ihtiyaç duyuluyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>ABS</strong>, yüzer nükleer enerji için sektörün ilk kapsamlı kurallarını yayınladı ve bu kurallar ücretsiz olarak indirilebiliyor.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

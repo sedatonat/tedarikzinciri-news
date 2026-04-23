@@ -20,17 +20,17 @@ tags:
 - USTR
 - Donald Trump
 ---
-<p style="text-align: justify">Çin Ticaret Bakanlığı, ABD'nin Çin'in gemi inşa, denizcilik ve lojistik sektörlerine yönelik başlattığı soruşturmayı "tek taraflılık ve korumacılık" olarak nitelendirerek reddetmektedir.</p>
+<p style="text-align: justify">Çin Ticaret Bakanlığı, ABD'nin Çin'in gemi inşa, denizcilik ve lojistik sektörlerine yönelik başlattığı soruşturmayı "tek taraflılık ve korumacılık" olarak nitelendirerek reddediyordir.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">ABD Ticaret Temsilciliği (<strong>USTR</strong>), Çin'in küresel gemi inşa, denizcilik ve lojistik sektörlerindeki hedeflenen hakimiyetinin "makul olmadığını" ve ABD ticaret yasalarına göre "işlem yapılabilir" olduğunu belirtmiştir.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">USTR'nin soruşturma bulguları, Pekin'e karşı belirli bir ceza önerisi içermemekte olup, sonraki adımların 20 Ocak'ta göreve başlayacak olan Başkan Donald Trump'a bırakıldığı ifade edilmektedir.</p>
+<p style="text-align: justify">USTR'nin soruşturma bulguları, Pekin'e karşı belirli bir ceza önerisi içermemekte olup, sonraki adımların 20 Ocak'ta göreve başlayacak olan Başkan Donald Trump'a bırakıldığı ifade ediliyordir.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">USTR raporunda, Çin'in denizcilik, lojistik ve gemi inşa sektörlerinde hakimiyet hedeflemesinin makul olmadığı ve ABD ticaretini engellediği veya kısıtladığı, dolayısıyla işlem yapılabilir olduğu belirtilmektedir.</p>
+<p style="text-align: justify">USTR raporunda, Çin'in denizcilik, lojistik ve gemi inşa sektörlerinde hakimiyet hedeflemesinin makul olmadığı ve ABD ticaretini engellediği veya kısıtladığı, dolayısıyla işlem yapılabilir olduğu belirtiliyordir.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Başkan Joe Biden'ın talebi üzerine Nisan 2024'te başlatılan bu soruşturma, birçok Amerikan sendikasının çağrıları sonrasında gerçekleştirilmiştir.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Rapor, Çin'e yönelik olarak yapay olarak baskılanmış işçilik maliyetleri, zorunlu teknoloji transferi ve fikri mülkiyet hırsızlığı gibi çeşitli suçlamalar içermektedir.</p>
+<p style="text-align: justify">Rapor, Çin'e yönelik olarak yapay olarak baskılanmış işçilik maliyetleri, zorunlu teknoloji transferi ve fikri mülkiyet hırsızlığı gibi çeşitli suçlamalar içeriyordir.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Soruşturmayı talep eden sendikalar, Çin yapımı gemilere yönelik tarifeler veya daha yüksek liman ücretleri uygulanmasını istemektedir.</p>
 <p style="text-align: justify"><br></p>
@@ -38,14 +38,14 @@ tags:
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Aynı dönemde, Japonya ve Güney Kore'nin toplam sipariş defteri payı %78'den %31'e düşmüştür.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Başkan seçilen Donald Trump, önümüzdeki yıllarda Çin dışı tersane alternatiflerinin bulunmasını sağlamak amacıyla Kore ve Japon tersaneleriyle iş birliği yapma girişimlerinde bulunmaktadır.</p>
+<p style="text-align: justify">Başkan seçilen Donald Trump, önümüzdeki yıllarda Çin dışı tersane alternatiflerinin bulunmasını sağlamak amacıyla Kore ve Japon tersaneleriyle iş birliği yapma girişimlerinde bulunuyordır.</p>
 <p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">Çin, ABD'nin gemi inşa sektörüne yönelik soruşturmasını "tek taraflılık ve korumacılık" olarak nitelendirmektedir.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">USTR, Çin'in denizcilik sektöründeki hakimiyet hedeflerinin "makul olmadığını" ve "işlem yapılabilir" olduğunu belirtmektedir.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Çin, ABD'nin gemi inşa sektörüne yönelik soruşturmasını "tek taraflılık ve korumacılık" olarak nitelendiriyordir.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">USTR, Çin'in denizcilik sektöründeki hakimiyet hedeflerinin "makul olmadığını" ve "işlem yapılabilir" olduğunu belirtiyordir.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Soruşturma, Başkan Joe Biden'ın talebi ve Amerikan sendikalarının çağrıları üzerine Nisan 2024'te başlatılmıştır.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Rapor, Çin'e yönelik olarak yapay olarak baskılanmış işçilik maliyetleri ve zorunlu teknoloji transferi gibi suçlamalar içermektedir.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Rapor, Çin'e yönelik olarak yapay olarak baskılanmış işçilik maliyetleri ve zorunlu teknoloji transferi gibi suçlamalar içeriyordir.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Çin, küresel gemi inşa siparişlerindeki payını %10'un altından %65'e çıkarmıştır.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Başkan seçilen Donald Trump, Çin dışı tersane alternatifleri için Kore ve Japon tersaneleriyle iş birliği arayışındadır.</p></li>
 </ul>

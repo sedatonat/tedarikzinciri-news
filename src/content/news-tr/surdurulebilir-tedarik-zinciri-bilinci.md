@@ -20,7 +20,7 @@ tags:
 ---
 <p>Maurizio Capuzzo, yüzde kırk gibi büyük bir oranla, tedarik zinciri liderlerinin sürdürülebilirlik faktörlerini karar alma süreçlerine entegre etmediğini belirtiyor. Bu durum, mevcut ve gelecekteki yasal düzenlemeler göz önünde bulundurulduğunda endişe verici bir tablo çiziyor.</p>
 <p><br></p>
-<p>Sürdürülebilirlik, sadece tedarik departmanlarının değil, tüm işletmenin sorumluluğunda olmalıdır. İşletmeler, tedarik zinciri risklerini yönetmek, operasyonel direnci artırmak ve yasalara uyum sağlamak zorunda kaldıklarında, bu hedeflere ulaşmada bütünsel bir yaklaşım benimsemelidirler. Ayrıca, makalede tedarik liderlerinin yüzde otuz dörtünün sürdürülebilir uygulamaların herhangi bir faydasını tanımadığını ifade etmesi, bu konudaki bilinç düzeyinin halen yetersiz olduğunu göstermektedir.</p>
+<p>Sürdürülebilirlik, sadece tedarik departmanlarının değil, tüm işletmenin sorumluluğunda olmalıdır. İşletmeler, tedarik zinciri risklerini yönetmek, operasyonel direnci artırmak ve yasalara uyum sağlamak zorunda kaldıklarında, bu hedeflere ulaşmada bütünsel bir yaklaşım benimsemelidirler. Ayrıca, makalede tedarik liderlerinin yüzde otuz dörtünün sürdürülebilir uygulamaların herhangi bir faydasını tanımadığını ifade etmesi, bu konudaki bilinç düzeyinin halen yetersiz olduğunu gösteriyordir.</p>
 <p><br></p>
 <p>Şirketler, sadece "iyi olmak" adına değil, aynı zamanda tedarik zinciri sürdürülebilirliğinin sunduğu operasyonel verimlilik ve yasal uyumluluk gibi somut avantajlar nedeniyle bu yola gitmelidir. Uygulamalar arasında tedarikçi haritalama ve tedarik bölgeleri üzerine kapsamlı veri analizi gibi faaliyetler, şirketlerin daha bilinçli kararlar almasını sağlayarak hem yasal uyumları hem de yakınlaştırma girişimlerini destekler.</p>
 <p><br></p>

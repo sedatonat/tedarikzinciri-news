@@ -20,19 +20,19 @@ tags:
 ---
 <p style="text-align: justify">Avusturya'da <strong>FPÖ</strong>, <strong>ÖVP</strong> ve <strong>Yeşiller</strong> partilerinin oluşturduğu yeni koalisyon hükümeti, demiryolu taşımacılığı sektörüne enerji vergisi muafiyeti getirmeyi planlıyor. Bu adım, demiryolu sektörünün rekabet gücünü artırmayı ve çevre dostu taşımacılığı teşvik etmeyi amaçlıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Avusturya'da enerji üretimi, enerji tüketimini karşılayamamakta, bu nedenle ülke kullanılan enerjinin yarıdan fazlasını ithal etmektedir. Bununla birlikte, Avusturya'nın enerji ihracatı da bulunmakta. Avusturya'da kömür ve petrol gibi enerji kaynaklarının kısıtlı olması nedeniyle enerji politikasında yenilenebilir enerji kaynaklarının önemi oldukça fazladır. Bu çerçevede, yenilenebilir enerji teknolojilerine önemli kamu kaynakları tahsis edilmiş olup, hükümetin öncelikli konuları arasında yer almakta. ​</p>
+<p style="text-align: justify">Avusturya'da enerji üretimi, enerji tüketimini karşılayamamakta, bu nedenle ülke kullanılan enerjinin yarıdan fazlasını ithal ediyordir. Bununla birlikte, Avusturya'nın enerji ihracatı da bulunuyor. Avusturya'da kömür ve petrol gibi enerji kaynaklarının kısıtlı olması nedeniyle enerji politikasında yenilenebilir enerji kaynaklarının önemi oldukça fazladır. Bu çerçevede, yenilenebilir enerji teknolojilerine önemli kamu kaynakları tahsis edilmiş olup, hükümetin öncelikli konuları arasında yer alıyor. ​</p>
 <p><br></p>
-<p style="text-align: justify">Avusturya'da demiryolu taşımacılığı, çevre dostu ve enerji verimli bir ulaşım modu olarak öne çıkmaktadır. Avusturya Federal Demiryolları (<strong>ÖBB</strong>) ve özel tren operatörü <strong>Westbahn</strong>, 2025 yılı itibarıyla yeni bir tarife düzenlemesine geçerek, hem bölgesel hem de uzun mesafeli ulaşımda önemli değişiklikler yapmayı planlamakta.</p>
+<p style="text-align: justify">Avusturya'da demiryolu taşımacılığı, çevre dostu ve enerji verimli bir ulaşım modu olarak öne çıkıyordır. Avusturya Federal Demiryolları (<strong>ÖBB</strong>) ve özel tren operatörü <strong>Westbahn</strong>, 2025 yılı itibarıyla yeni bir tarife düzenlemesine geçerek, hem bölgesel hem de uzun mesafeli ulaşımda önemli değişiklikler yapmayı planlıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Yeni hükümetin enerji vergisi muafiyeti planı, demiryolu sektörünün maliyetlerini düşürerek, daha rekabetçi bir konuma gelmesini hedeflemekte. Bu sayede, karayolu taşımacılığına kıyasla daha çevreci olan demiryolu taşımacılığının tercih edilmesi teşvik edilecek.</p>
+<p style="text-align: justify">Yeni hükümetin enerji vergisi muafiyeti planı, demiryolu sektörünün maliyetlerini düşürerek, daha rekabetçi bir konuma gelmesini hedefliyor. Bu sayede, karayolu taşımacılığına kıyasla daha çevreci olan demiryolu taşımacılığının tercih edilmesi teşvik edilecek.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Avusturya</strong>'da yeni koalisyon hükümeti, demiryolu taşımacılığı sektörüne enerji vergisi muafiyeti getirmeyi planlıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Bu adım, demiryolu sektörünün rekabet gücünü artırmayı ve çevre dostu taşımacılığı teşvik etmeyi amaçlıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Avusturya Federal Demiryolları (ÖBB)</strong> ve özel tren operatörü <strong>Westbahn</strong>, 2025 yılı itibarıyla yeni bir tarife düzenlemesine geçerek, ulaşımda önemli değişiklikler yapmayı planlıyor.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Avusturya'da enerji üretimi, tüketimi karşılayamamakta ve ülke enerjisinin yarıdan fazlasını ithal etmektedir.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Yenilenebilir enerji kaynaklarının önemi, enerji politikasında öncelikli konular arasında yer almaktadır.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Avusturya'da enerji üretimi, tüketimi karşılayamamakta ve ülke enerjisinin yarıdan fazlasını ithal ediyordir.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Yenilenebilir enerji kaynaklarının önemi, enerji politikasında öncelikli konular arasında yer alıyordır.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

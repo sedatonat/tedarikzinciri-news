@@ -22,20 +22,20 @@ tags:
 ---
 <p>Sea-Intelligence analiz firmasının son tahminlerine göre, MSC, filo büyüklüğünü önemli ölçüde artırarak 2026 yılına kadar dünyanın en büyük taşıyıcı şirketi olarak konumunu pekiştirmeye devam edecek. Geleneksel yöntemler, yalnızca mevcut filo boyutlarına sipariş defterlerini ekleyerek gelecekteki filo büyüklüklerini tahmin etme eğilimindedir, ancak bu yöntem ikinci el piyasa işlemleri ve kiralanmış gemi kullanımındaki değişiklikleri göz ardı eder.&nbsp;</p>
 <p><br></p>
-<p>Sea-Intelligence, taşıyıcıların geçmişteki filo ayar stratejilerini inceleyerek daha anlamlı tahminler yapılmasını önermektedir. Bu analize göre, basit bir tahmin yöntemiyle yapılan hesaplamalar genellikle gerçek büyümeyi fazla tahmin eder.&nbsp;</p>
+<p>Sea-Intelligence, taşıyıcıların geçmişteki filo ayar stratejilerini inceleyerek daha anlamlı tahminler yapılmasını öneriyordir. Bu analize göre, basit bir tahmin yöntemiyle yapılan hesaplamalar genellikle gerçek büyümeyi fazla tahmin eder.&nbsp;</p>
 <p><br></p>
-<p>MSC ve ONE gibi firmalar, mevcut tonajı azaltırken aynı zamanda filolarını genişletmektedir. 2026 Nisan ayı için yapılan tahminler, mevcut tonaj stratejilerini ve geçmiş iki yılda kullanılan stratejilerin devam edeceğini varsayarak, MSC'nin liderliğini güçlendireceğini göstermekte.&nbsp;</p>
+<p>MSC ve ONE gibi firmalar, mevcut tonajı azaltırken aynı zamanda filolarını genişlediyordir. 2026 Nisan ayı için yapılan tahminler, mevcut tonaj stratejilerini ve geçmiş iki yılda kullanılan stratejilerin devam edeceğini varsayarak, MSC'nin liderliğini güçlendireceğini gösteriyor.&nbsp;</p>
 <p><br></p>
-<p>CMA CGM'in ikinci sıraya yükselmesi beklenirken, Maersk'in üçüncü sıraya düşmesi öngörülmekte.&nbsp;</p>
+<p>CMA CGM'in ikinci sıraya yükselmesi beklenirken, Maersk'in üçüncü sıraya düşmesi öngörülüyor.&nbsp;</p>
 <p><br></p>
-<p>Hapag-Lloyd, ilk beş içinde kalmayı hedeflediği yeni 2030 stratejisini açıklamıştır, ancak Sea-Intelligence, bu hedefe ulaşmak için son iki yılda izlenen yaklaşımda bir değişiklik yapılması gerektiği konusunda uyarıda bulunmakta.</p>
+<p>Hapag-Lloyd, ilk beş içinde kalmayı hedeflediği yeni 2030 stratejisini açıklamıştır, ancak Sea-Intelligence, bu hedefe ulaşmak için son iki yılda izlenen yaklaşımda bir değişiklik yapılması gerektiği konusunda uyarıda bulunuyor.</p>
 <p><br></p>
 <p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>
   <li><p>MSC, 2026 yılına kadar filosunu önemli ölçüde genişleterek dünyanın en büyük taşıyıcı şirketi olmaya devam edecek.</p></li>
   <li><p>Geleneksel filo büyüklüğü tahmin yöntemleri, ikinci el piyasa işlemleri ve kiralanmış gemi kullanımındaki değişiklikleri göz ardı eder.</p></li>
-  <li><p>Sea-Intelligence, taşıyıcıların geçmişteki filo yönetim stratejilerini inceleyerek daha doğru tahminler yapılmasını önermekte.</p></li>
+  <li><p>Sea-Intelligence, taşıyıcıların geçmişteki filo yönetim stratejilerini inceleyerek daha doğru tahminler yapılmasını öneriyor.</p></li>
   <li><p>MSC ve ONE, filolarını genişletirken eski gemileri satma veya kira anlaşmalarını sonlandırma eğiliminde.</p></li>
   <li><p>2026 için yapılan tahminlere göre, CMA CGM ikinci sıraya yükselecek, Maersk ise üçüncü sıraya düşecek.</p></li>
   <li><p>Hapag-Lloyd'un ilk beş içinde kalma hedefi, son iki yılda benimsenen stratejilerde değişiklik yapılmasını gerektirebilir.</p></li>

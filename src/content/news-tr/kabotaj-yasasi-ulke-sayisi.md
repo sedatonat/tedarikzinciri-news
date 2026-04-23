@@ -35,7 +35,7 @@ Bu ülkeler artık <strong>küresel kıyı şeridinin %85’ini</strong> kontrol
 <p><br>
 Ülkede <strong>denizcilik kabotajı</strong>, 1920 tarihli <strong>Jones Act</strong> yasasıyla düzenleniyor.</p>
 <p><br>
-Bu yasa, <strong>ABD limanları arasında taşınan yüklerin yalnızca ABD yapımı, ABD bayraklı, ABD sahipli ve ABD mürettebatlı gemilerle taşınmasını</strong> zorunlu kılmakta.</p>
+Bu yasa, <strong>ABD limanları arasında taşınan yüklerin yalnızca ABD yapımı, ABD bayraklı, ABD sahipli ve ABD mürettebatlı gemilerle taşınmasını</strong> zorunlu kılıyor.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Seafarers International Union Başkanı ve ITF Denizciler Bölümü Başkanı David Heindel</strong>, raporun denizcilik topluluğunun uzun süredir savunduğu görüşleri teyit ettiğini belirtti:</p>
 <blockquote style="text-align: justify">“Jones Act, ABD’nin, denizcilerimizin ve ulusal güvenliğimizin çıkarlarına en iyi hizmet eden modeldir.<br>
@@ -48,14 +48,14 @@ Bugünün jeopolitik zorluklarıyla karşı karşıya kalan ülkelerin kendi kab
   <li style="text-align: justify"><p style="text-align: justify"><strong>İstihdam etkisi:</strong> <strong>650.000 kişi</strong></p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Ekonomik katkı:</strong> <strong>Yıllık 150 milyar dolar</strong></p></li>
 </ul>
-<p style="text-align: justify">Ayrıca yasa, <strong>ABD Silahlı Kuvvetleri için stratejik deniz taşımacılığı kapasitesini (sealift)</strong> desteklemekte.</p>
+<p style="text-align: justify">Ayrıca yasa, <strong>ABD Silahlı Kuvvetleri için stratejik deniz taşımacılığı kapasitesini (sealift)</strong> destekliyor.</p>
 <p style="text-align: justify"><strong>American Maritime Partnership Başkanı Jennifer Carpenter</strong>, yasayı şu şekilde savundu:</p>
 <blockquote style="text-align: justify">“ABD şehirleri arasında yolcu taşımacılığı yapacak yabancı havayollarına veya yabancı tırlara izin verilmiyorsa, aynı ilke denizcilik için de geçerlidir.<br>
 Kendi deniz sınırlarımızı ve tedarik zincirimizi korumak, yabancı taşıyıcıların kararına bırakılamaz.”</blockquote>
 <blockquote><br></blockquote>
 <h5 style="text-align: justify"><strong>Küresel Eğilim: Ulusal Egemenlik ve Stratejik Otonomi</strong></h5>
 <p style="text-align: justify">Rapora göre kabotaj yasalarının genişlemesi, yalnızca ABD ile sınırlı değil.<br>
-Benzer güçlü düzenlemeler şu ülkelerde de uygulanmakta:</p>
+Benzer güçlü düzenlemeler şu ülkelerde de uygulanıyor:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Güney Kore</strong></p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Japonya</strong></p></li>
@@ -71,7 +71,7 @@ Benzer güçlü düzenlemeler şu ülkelerde de uygulanmakta:</p>
 <p><br>
 Kabotaj yasaları, <strong>yerel iş gücünü ve deniz filolarını</strong> korurken, aynı zamanda <strong>yabancı etkisine karşı ekonomik savunma mekanizması</strong> işlevi görüyor.</p>
 <p><br></p>
-<p style="text-align: justify">SRI raporuna göre, bu eğilim <strong>Asya, Orta Doğu, Latin Amerika ve Afrika</strong> ülkelerinde de hız kazanmakta.</p>
+<p style="text-align: justify">SRI raporuna göre, bu eğilim <strong>Asya, Orta Doğu, Latin Amerika ve Afrika</strong> ülkelerinde de hız kazanıyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Sonuç: Denizcilik Egemenliği Küresel Öncelik Haline Geldi</strong></h5>
 <p style="text-align: justify">2025 itibarıyla <strong>105 ülke</strong>, kabotaj yasalarını ulusal stratejisinin merkezine yerleştirmiş durumda.</p>

@@ -31,7 +31,7 @@ tags:
 <h3 style="text-align: justify"><strong>Finansal Etki: EPS Üzerinde Yaklaşık 25 Cent Daralma</strong></h3>
 <p style="text-align: justify">Delta, 3 Aralık’taki açıklamasında shutdown kaynaklı kârlılık etkisinin <strong>earnings per share (EPS)</strong> düzeyinde yaklaşık <strong>25 cent</strong> düşüşe tekabül edeceğini bildirdi. Bu, şirketin daha önce açıkladığı “çeyreğin Q3’e yakın veya Q3’ten daha iyi sonuçlanabileceği” yönündeki beklentiyle çelişmekte.</p>
 <p><br></p>
-<p style="text-align: justify">Delta hisseleri, habere rağmen <strong>pre-market</strong> işlemlerde büyük bir reaksiyon göstermedi ve yıl başından bu yana <strong>%7,7 değer kazanmış</strong> durumda. Bu, aynı dönemde <strong>S&amp;P 500</strong> endeksinin <strong>%16</strong> artışının gerisinde kalsa da, şirketin premium segment stratejisinin finansal istikrar sağladığını göstermekte.</p>
+<p style="text-align: justify">Delta hisseleri, habere rağmen <strong>pre-market</strong> işlemlerde büyük bir reaksiyon göstermedi ve yıl başından bu yana <strong>%7,7 değer kazanmış</strong> durumda. Bu, aynı dönemde <strong>S&amp;P 500</strong> endeksinin <strong>%16</strong> artışının gerisinde kalsa da, şirketin premium segment stratejisinin finansal istikrar sağladığını gösteriyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Delta’nın Stratejik Konumu: Premium Segment ve Maliyet Disiplini</strong></h3>
 <p style="text-align: justify">Delta, son yıllarda ABD havayolu piyasasında <strong>premium travel proposition</strong>’ı güçlendirmeyi seçen taşıyıcıların başında geliyor. Kabin konfigürasyonlarının yenilenmesi, premium ürün kategorileri, özel lounge yatırımları ve iş seyahatini hedefleyen genişletilmiş hizmet paketi sayesinde şirket, düşük maliyetli taşıyıcılarla rekabet etmek yerine <strong>yield optimization</strong> modeline yönelmiş durumda.</p>
@@ -39,10 +39,10 @@ tags:
 <p style="text-align: justify">Bu strateji, 2025’in ilk yarısında yaşanan ekonomik belirsizlik nedeniyle tatil ve iş amaçlı seyahatlerde geçici bir yavaşlama olsa da, yılın ikinci yarısında Delta’nın finansal sonuçlarını toparlamasına yardımcı oldu. Shutdown etkisinin geçici ve dışsal bir faktör olarak görülmesi, şirketin uzun vadeli görünümünü değiştirmemekte.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Makro Etki: ABD Havacılık Sistemindeki Kırılganlık</strong></h3>
-<p style="text-align: justify">Shutdown’ın uzun sürmesi, ABD hava ulaşım altyapısının <strong>ATC staffing shortages</strong> gibi yapısal sorunlarını yeniden gündeme taşıdı. Federal personel eksikliği nedeniyle kapasite kısıtlamaları uygulanabilmesi, ABD hava yolculuğunun önemli şoklara karşı ne kadar kırılgan olduğunu gösterdi. Delta dahil birçok taşıyıcı, bu durumun gelecekte yeniden yaşanmaması için federal seviyede <strong>workforce resilience</strong> yatırımlarının gerekliliğine dikkat çekmekte.</p>
+<p style="text-align: justify">Shutdown’ın uzun sürmesi, ABD hava ulaşım altyapısının <strong>ATC staffing shortages</strong> gibi yapısal sorunlarını yeniden gündeme taşıdı. Federal personel eksikliği nedeniyle kapasite kısıtlamaları uygulanabilmesi, ABD hava yolculuğunun önemli şoklara karşı ne kadar kırılgan olduğunu gösterdi. Delta dahil birçok taşıyıcı, bu durumun gelecekte yeniden yaşanmaması için federal seviyede <strong>workforce resilience</strong> yatırımlarının gerekliliğine dikkat çekiyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Sonuç</strong></h3>
-<p style="text-align: justify">Delta Air Lines, 2025’in son çeyreğinde güçlü talebe rağmen government shutdown etkisi nedeniyle zayıf kârlılık açıklamaya hazırlanmakta. Şirketin premium segment odaklı stratejisi orta vadede güçlü kalmaya devam ederken, kısa vadeli etkiler hem kapasite kaybından hem de yolcu güvenindeki dalgalanmalardan kaynaklanmakta.</p>
+<p style="text-align: justify">Delta Air Lines, 2025’in son çeyreğinde güçlü talebe rağmen government shutdown etkisi nedeniyle zayıf kârlılık açıklamaya hazırlanıyor. Şirketin premium segment odaklı stratejisi orta vadede güçlü kalmaya devam ederken, kısa vadeli etkiler hem kapasite kaybından hem de yolcu güvenindeki dalgalanmalardan kaynaklanıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar:</strong></h3>
 <ul>
@@ -50,7 +50,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">40 havalimanında uçuşlar federal kısıntıya uğradı; Delta 2.000’den fazla uçuş iptal etti.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">EPS etkisi yaklaşık <strong>–$0.25</strong>.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Talep toparlanmakta, 2026 forward bookings güçlü.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Premium segment stratejisi Delta’nın uzun vadeli konumunu desteklemekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Premium segment stratejisi Delta’nın uzun vadeli konumunu destekliyor.</p></li>
 </ul>
 <p>----------</p>
 <p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42930-delta-air-sees-200-million-impact-from-shutdown-fallout"><u>https://www.supplychainbrain.com/articles/42930-delta-air-sees-200-million-impact-from-shutdown-fallout</u></a></p>

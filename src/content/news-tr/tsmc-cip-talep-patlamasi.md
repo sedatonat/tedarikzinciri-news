@@ -19,7 +19,7 @@ tags:
 - CoWoS
 - HBM
 ---
-<p style="text-align: justify"><strong>TSMC (Taiwan Semiconductor Manufacturing Company)</strong>, küresel yarı iletken talebindeki hızlı artışa yanıt olarak <strong>kapasite yatırımlarını hızlandırıyor.</strong> Şirket, hem ileri üretim teknolojilerinde liderliğini sürdürmek hem de tedarik güvenliğini güçlendirmek için <strong>çok boyutlu bir genişleme planı</strong> uygulamakta.</p>
+<p style="text-align: justify"><strong>TSMC (Taiwan Semiconductor Manufacturing Company)</strong>, küresel yarı iletken talebindeki hızlı artışa yanıt olarak <strong>kapasite yatırımlarını hızlandırıyor.</strong> Şirket, hem ileri üretim teknolojilerinde liderliğini sürdürmek hem de tedarik güvenliğini güçlendirmek için <strong>çok boyutlu bir genişleme planı</strong> uyguluyor.</p>
 <p><br></p>
 <p style="text-align: justify">Stratejinin merkezinde, <strong>advanced nodes</strong> üretimi —özellikle <strong>N3 (3nm)</strong> ve <strong>N2 (2nm)</strong> süreçleri— yer alıyor. Bunun yanında <strong>CoWoS (Chip-on-Wafer-on-Substrate)</strong> gelişmiş paketleme teknolojisi ve <strong>HBM (High Bandwidth Memory)</strong> tedarik zinciri, yapay zekâ ve yüksek performanslı bilgi işlem (HPC) segmentlerinin artan ihtiyaçlarına yanıt veriyor. Ancak, bu üretim hatlarının devreye alınmasında <strong>foundry capacity planning (dökümhane kapasite planlaması)</strong> ve <strong>ekipman kurulum lead time’ları</strong> en kritik kısıtlar olarak öne çıkıyor.</p>
 <p><br></p>
@@ -29,7 +29,7 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Müşteri tarafında, <strong>capacity reservation (kapasite rezervasyonu)</strong> ve <strong>uzun dönemli tedarik anlaşmaları</strong> giderek yaygınlaşıyor. Bu sözleşmeler, büyük müşterilerin (örneğin Apple, NVIDIA, AMD) kritik üretim kapasitelerine erişimini güvence altına alıyor. Aynı zamanda <strong>design–manufacturing co-optimization (DMCO)</strong> süreçleriyle, ürünlerin tasarım ve üretim aşamaları entegre edilerek <strong>performans</strong> ve <strong>verim</strong> aynı anda optimize ediliyor.</p>
 <p><br></p>
-<p style="text-align: justify">Sonuç olarak, TSMC’nin genişleme stratejisi; <strong>ileri üretim teknolojilerinde inovasyon hızını</strong>, <strong>tedarik güvenliği</strong> ve <strong>sürdürülebilir operasyonel altyapı</strong> ile dengeleyen bir model ortaya koymaktadır. Şirket, bu yatırımlarla birlikte yalnızca kapasitesini artırmakla kalmamakta, aynı zamanda küresel yarı iletken ekosisteminin yönünü de belirlemektedir.</p>
+<p style="text-align: justify">Sonuç olarak, TSMC’nin genişleme stratejisi; <strong>ileri üretim teknolojilerinde inovasyon hızını</strong>, <strong>tedarik güvenliği</strong> ve <strong>sürdürülebilir operasyonel altyapı</strong> ile dengeleyen bir model ortaya koyuyordır. Şirket, bu yatırımlarla birlikte yalnızca kapasitesini artırmakla kalmıyor, aynı zamanda küresel yarı iletken ekosisteminin yönünü de belirliyordir.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>

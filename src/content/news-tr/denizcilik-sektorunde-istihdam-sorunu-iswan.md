@@ -31,7 +31,7 @@ tags:
 <p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ol>
-  <li><p>ISWAN, denizcilik sektörünün denizcilerle doğrudan iletişim kurmasının önemini vurgulamaktadır.</p></li>
+  <li><p>ISWAN, denizcilik sektörünün denizcilerle doğrudan iletişim kurmasının önemini vurguluyordır.</p></li>
   <li><p>Seminer, denizcilik sektöründeki hızlı değişimleri ve bu değişimlerin denizciler üzerindeki etkilerini ele aldı.</p></li>
   <li><p>Üç ana iyileştirme alanı belirlendi: Adil İş Koşulları, Kapsayıcı Kültür, Değişen Teknolojilerin Refah Üzerindeki Etkisi.</p></li>
   <li><p>Sektörün, denizcilerin çalışma koşullarını ve refahını iyileştirmek için daha fazla yatırım yapması gerektiği vurgulandı.</p></li>

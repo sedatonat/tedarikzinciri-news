@@ -27,7 +27,7 @@ tags:
 <p><br></p>
 <p style="text-align: justify">İngiltere Sahil Güvenlik ekipleri, Humberside'dan bir kurtarma helikopteri ve sabit kanatlı bir uçağın yanı sıra yangın söndürme ekipmanına sahip yakınlardaki gemileri de olay yerine yönlendirdi. Ayrıca, Skegness, Bridlington, Mablethorpe ve Cleethorpes'tan cankurtaran botları da kurtarma çalışmalarına katıldı.&nbsp;</p>
 <p><br></p>
-<p style="text-align: justify">Çevresel etkiler konusunda endişeler artmakta. Denize sızan jet yakıtının deniz yaşamı üzerinde olumsuz etkileri olabileceği belirtiliyor. Uzmanlar, sızıntının boyutunu ve potansiyel zararlarını değerlendirmek için çalışmalarını sürdürüyor.</p>
+<p style="text-align: justify">Çevresel etkiler konusunda endişeler artıyor. Denize sızan jet yakıtının deniz yaşamı üzerinde olumsuz etkileri olabileceği belirtiliyor. Uzmanlar, sızıntının boyutunu ve potansiyel zararlarını değerlendirmek için çalışmalarını sürdürüyor.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Önemli Notlar:</strong></p>
 <ul>

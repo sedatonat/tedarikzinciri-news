@@ -23,7 +23,7 @@ tags:
 <h5>Önemli Notlar:</h5>
 <ol>
   <li><p>Mars Hava ve Deniz Kargo, yurt içi konteyner taşımacılığı hizmetine başladı.</p></li>
-  <li><p>Ayda 400 sefer yapılmakta.</p></li>
+  <li><p>Ayda 400 sefer yapılıyor.</p></li>
   <li><p>Full konteyner, açık yük, teminatlı konteyner gibi çeşitli hizmetler sunuluyor.</p></li>
   <li><p>Yurt içi ve yurt dışı taşımacılığı birleştirerek süreçleri hızlandırmayı hedefliyor.</p></li>
   <li><p>Geniş ofis ağıyla Türkiye genelinde hizmet veriyor.</p></li>

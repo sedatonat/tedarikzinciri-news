@@ -19,7 +19,7 @@ tags:
 - filo genişletme
 - emisyon azaltımı
 ---
-<p style="text-align: justify">Tayvan merkezli <strong>Evergreen Marine</strong>, küresel konteyner taşımacılığı filosunu önemli ölçüde büyütecek yeni bir yatırım paketi açıkladı. Şirket, toplamda <strong>14 adet 14.000 TEU LNG yakıtlı konteyner gemisi</strong> için sipariş verdiğini doğruladı. Siparişin toplam değerinin <strong>2,45–2,9 milyar dolar</strong> arasında olduğu tahmin edilmekte.</p>
+<p style="text-align: justify">Tayvan merkezli <strong>Evergreen Marine</strong>, küresel konteyner taşımacılığı filosunu önemli ölçüde büyütecek yeni bir yatırım paketi açıkladı. Şirket, toplamda <strong>14 adet 14.000 TEU LNG yakıtlı konteyner gemisi</strong> için sipariş verdiğini doğruladı. Siparişin toplam değerinin <strong>2,45–2,9 milyar dolar</strong> arasında olduğu tahmin ediliyor.</p>
 <p style="text-align: justify">Yeni gemiler, iki büyük tersane arasında paylaştırıldı:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>7 gemi Güney Kore’deki Samsung Heavy Industries</strong> tarafından inşa edilecek.</p></li>
@@ -28,7 +28,7 @@ tags:
 <p style="text-align: justify">Her bir geminin maliyetinin <strong>175–205 milyon dolar</strong> arasında olduğu Evergreen tarafından Tayvan Borsası’na yapılan resmi bildirimde belirtildi. Bu hamle, son aylarda broker çevrelerinde şirketin büyük bir yeni inşa siparişi vereceğine yönelik yayılan söylentileri resmen doğruladı.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Evergreen’in kapasitesi 2,7 milyon TEU’yu aştı</strong></h4>
-<p style="text-align: justify">S&amp;P Global’in kardeş kuruluşu Sea-web’in filo verilerine göre Evergreen’in toplam filosu bu siparişlerle birlikte <strong>2.747.549 TEU</strong> seviyesine ulaşmakta. Bu rakam, şirketi küresel liner sıralamasında üst basamaklarda tutmayı sürdürüyor ve özellikle 2020’li yılların ortasından itibaren mega filolar arasında devam eden rekabeti kızıştırıyor.</p>
+<p style="text-align: justify">S&amp;P Global’in kardeş kuruluşu Sea-web’in filo verilerine göre Evergreen’in toplam filosu bu siparişlerle birlikte <strong>2.747.549 TEU</strong> seviyesine ulaşıyor. Bu rakam, şirketi küresel liner sıralamasında üst basamaklarda tutmayı sürdürüyor ve özellikle 2020’li yılların ortasından itibaren mega filolar arasında devam eden rekabeti kızıştırıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Yeni LNG yakıtlı gemiler, Evergreen’in çevresel performansı ve yakıt verimliliği açısından önemli bir adım niteliğinde. LNG, sektör genelinde <strong>metanol ve biyoyakıt</strong> seçeneklerinin yanında kısa–orta vadede en uygulanabilir “geçiş yakıtı” olarak değerlendiriliyor.</p>
 <p><br></p>
@@ -41,7 +41,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>CO₂ emisyonlarında %20’lere varan düşüş</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>NOₓ ve SOₓ emisyonlarında dramatik azalma</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Daha düşük partikül salımı<br>
-sağlamakta. Evergreen, özellikle AB ETS ve IMO CII düzenlemelerine uyum için filoda daha fazla LNG gemisine yöneliyor.</p></li>
+sağlıyor. Evergreen, özellikle AB ETS ve IMO CII düzenlemelerine uyum için filoda daha fazla LNG gemisine yöneliyor.</p></li>
 </ul>
 <p><br></p>
 <h5 style="text-align: justify"><strong>2) Orta boy segmentte güçlenme</strong></h5>

@@ -20,14 +20,14 @@ tags:
 - Shopify
 - üçüncü taraf satıcılar
 ---
-<p>Amazon, lojistik ağını üçüncü taraf satıcılara açarak Walmart, Shopify, ve Shein kullanıcılarına fulfillment hizmeti sunmaya başlamıştır. Yeni model, Amazon Multi-Channel Fulfillment (MCF) üzerinden işletilmektedir. Bu sistem, stok yönetimi ve teslimat süreçlerinde markalar arası entegrasyon sağlamaktadır. Uzmanlara göre, bu adım logistics-as-a-service (LaaS) konseptini güçlendirmektedir. Küresel satıcılar için yeni dönemde hız, maliyet avantajı ve erişim genişliği ön plana çıkmaktadır.</p>
+<p>Amazon, lojistik ağını üçüncü taraf satıcılara açarak Walmart, Shopify, ve Shein kullanıcılarına fulfillment hizmeti sunmaya başlamıştır. Yeni model, Amazon Multi-Channel Fulfillment (MCF) üzerinden işletiliyordir. Bu sistem, stok yönetimi ve teslimat süreçlerinde markalar arası entegrasyon sağlıyordır. Uzmanlara göre, bu adım logistics-as-a-service (LaaS) konseptini güçlendiriyordir. Küresel satıcılar için yeni dönemde hız, maliyet avantajı ve erişim genişliği ön plana çıkıyordır.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
-1. Amazon fulfillment ağını genişletmektedir.<br>
-2. MCF markalar arası entegrasyon sağlamaktadır.<br>
-3. LaaS konsepti güç kazanmaktadır.<br>
-4. Satıcılar hız ve erişim avantajı kazanmaktadır.<br>
-5. Yeni model küresel e-ticareti dönüştürmektedir.</p>
+1. Amazon fulfillment ağını genişlediyordir.<br>
+2. MCF markalar arası entegrasyon sağlıyordır.<br>
+3. LaaS konsepti güç kazanıyordır.<br>
+4. Satıcılar hız ve erişim avantajı kazanıyordır.<br>
+5. Yeni model küresel e-ticareti dönüştürüyordir.</p>
 <p><br>
 ---<br>
 <strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42519-amazon-opens-fulfillment-services-to-sellers-for-walmart-shopify-and-shein"><u>https://www.supplychainbrain.com/articles/42519-amazon-opens-fulfillment-services-to-sellers-for-walmart-shopify-and-shein</u></a><br>

@@ -28,15 +28,15 @@ tags:
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Ancak geniş kapsamlı uygulamalarda <strong>topluluk uzlaşması</strong> (community engagement) büyük önem taşıyor. <strong>Gürültü (noise)</strong>, <strong>mahremiyet (privacy)</strong> ve <strong>hava sahası paylaşımı</strong> konularında yerel yönetimler ve topluluklarla şeffaf bir diyalog süreci yürütülmesi gerekiyor. Bu uzlaşma mekanizmaları, dronların kent ve banliyö ortamlarında toplumsal kabulünü güçlendirecek kritik bir faktör olarak öne çıkıyor.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Sonuç olarak, ABD’nin yeni drone politikası, <strong>son kilometrede karbon azaltımı</strong> ve <strong>erişim genişlemesi</strong> açısından önemli fırsatlar yaratıyor. Regülasyonun esnetilmesiyle birlikte, dronların yalnızca teslimat değil, aynı zamanda <strong>altyapı denetimi, envanter yönetimi ve acil yardım operasyonları</strong> gibi alanlarda da daha yaygın kullanımı bekleniyor. Bu gelişme, hem tedarik zincirinde hem şehir lojistiğinde <strong>verimlilik ve sürdürülebilirlik ekseninde yeni bir standart</strong> oluşturma potansiyeli taşımaktadır.</p>
+<p style="text-align: justify">Sonuç olarak, ABD’nin yeni drone politikası, <strong>son kilometrede karbon azaltımı</strong> ve <strong>erişim genişlemesi</strong> açısından önemli fırsatlar yaratıyor. Regülasyonun esnetilmesiyle birlikte, dronların yalnızca teslimat değil, aynı zamanda <strong>altyapı denetimi, envanter yönetimi ve acil yardım operasyonları</strong> gibi alanlarda da daha yaygın kullanımı bekleniyor. Bu gelişme, hem tedarik zincirinde hem şehir lojistiğinde <strong>verimlilik ve sürdürülebilirlik ekseninde yeni bir standart</strong> oluşturma potansiyeli taşıyordır.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
-  <li><p>BVLOS uçuş yolu kolaylaşmaktadır.</p></li>
+  <li><p>BVLOS uçuş yolu kolaylaşıyordır.</p></li>
   <li><p>Detect-and-avoid güvenlik standarttır.</p></li>
   <li><p>Drone docks ve mikro merkezler ağı değiştirir.</p></li>
   <li><p>Topluluk uzlaşmaları önemlidir.</p></li>
-  <li><p>Karbon ve erişim faydası beklenmektedir.</p></li>
+  <li><p>Karbon ve erişim faydası bekleniyordir.</p></li>
 </ul>
 <p>---------</p>
 <p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42278-us-to-ease-long-range-drone-rules-in-boon-for-walmart-alphabet"><u>https://www.supplychainbrain.com/articles/42278-us-to-ease-long-range-drone-rules-in-boon-for-walmart-alphabet</u></a></p>

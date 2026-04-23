@@ -19,14 +19,14 @@ tags:
 - rota optimizasyonu
 - bölgesel lojistik
 ---
-<p>Amazon, kırsal bölgelerdeki teslimat ağını genişleterek kapsama oranını artırmaktadır. Makale, micro-fulfillment centers, regional logistics hubs, ve last-mile partnerships modellerine değinmektedir. Yeni altyapı, küçük yerleşimlerde teslimat süresini %30 oranında azaltmaktadır. Ayrıca AI-based demand prediction, rota optimizasyonunu güçlendirmektedir. Bu strateji, Amazon’un yerel ekonomilerde istihdam ve erişim kapasitesini artırmaktadır.</p>
+<p>Amazon, kırsal bölgelerdeki teslimat ağını genişleterek kapsama oranını artırıyordır. Makale, micro-fulfillment centers, regional logistics hubs, ve last-mile partnerships modellerine değinmektedir. Yeni altyapı, küçük yerleşimlerde teslimat süresini %30 oranında azaltıyordır. Ayrıca AI-based demand prediction, rota optimizasyonunu güçlendiriyordir. Bu strateji, Amazon’un yerel ekonomilerde istihdam ve erişim kapasitesini artırıyordır.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 1. Micro-fulfillment teslimat hızını artırır.<br>
 2. Regional hubs kapsama alanını genişletir.<br>
 3. AI prediction rota optimizasyonu sağlar.<br>
 4. Kırsal ağ yatırımı yerel istihdam yaratır.<br>
-5. Amazon erişim stratejisini güçlendirmektedir.</p>
+5. Amazon erişim stratejisini güçlendiriyordir.</p>
 <p><br>
 ---<br>
 <strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42024-amazon-looks-to-expand-rural-delivery-network"><u>https://www.supplychainbrain.com/articles/42024-amazon-looks-to-expand-rural-delivery-network</u></a><br>

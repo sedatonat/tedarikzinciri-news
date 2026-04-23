@@ -19,9 +19,9 @@ tags:
 - tersine lojistik
 - TCO
 ---
-<p>Sürdürülebilirlik ile maliyet arasındaki varsayılan çelişki, veri temelli uygulamalarla çözülebilmekte. Makale, LCA-guided sourcing, circular packaging, ve reverse logistics yaklaşımlarının, toplam sahip olma maliyetini (TCO) düşürürken çevresel etkileri azalttığını göstermekte. AI procurement analytics, materyal ve tedarikçi seçiminde karbon ve maliyet optimizasyonunu aynı tabloda sunmakta. Operasyonlarda waste-to-value projeleri ve energy recovery, ek gelir ve tasarruf üretmekte. Müşteri tarafında eco-design ve minimalist packaging, hasar ve iade oranlarını da azaltmakta.&nbsp;</p>
+<p>Sürdürülebilirlik ile maliyet arasındaki varsayılan çelişki, veri temelli uygulamalarla çözülebiliyor. Makale, LCA-guided sourcing, circular packaging, ve reverse logistics yaklaşımlarının, toplam sahip olma maliyetini (TCO) düşürürken çevresel etkileri azalttığını gösteriyor. AI procurement analytics, materyal ve tedarikçi seçiminde karbon ve maliyet optimizasyonunu aynı tabloda sunuyor. Operasyonlarda waste-to-value projeleri ve energy recovery, ek gelir ve tasarruf üretiyor. Müşteri tarafında eco-design ve minimalist packaging, hasar ve iade oranlarını da azaltıyor.&nbsp;</p>
 <p><br></p>
-<p>Sonuç olarak, sürdürülebilirlik yatırımları doğru metriklerle takip edildiğinde net pozitif kârlılık üretmekte.</p>
+<p>Sonuç olarak, sürdürülebilirlik yatırımları doğru metriklerle takip edildiğinde net pozitif kârlılık üretiyor.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 1. LCA destekli tedarik kârlılığı artırır.<br>

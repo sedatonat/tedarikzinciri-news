@@ -21,10 +21,10 @@ tags:
 ---
 <p style="text-align: justify"><strong>HMM (Hyundai Merchant Marine)</strong>, <strong>küresel konteyner taşımacılığı tarihinde önemli bir kilometre taşına</strong> ulaştı. Şirket, <strong>Alphaliner</strong> verilerine göre <strong>1.007.180 TEU’luk filo kapasitesine</strong> erişerek <strong>“TEU Milyonerleri Kulübü”</strong> olarak adlandırılan özel gruba katılan <strong>sekizinci denizcilik şirketi</strong> oldu.</p>
 <p><br></p>
-<p style="text-align: justify">Bu başarı, <strong>Güney Kore’nin ulusal taşıyıcısı HMM’nin</strong> son beş yılda gösterdiği dikkat çekici büyümeyi yansıtmakta. <strong>Alphaliner’in haftalık raporuna göre</strong>, HMM’nin işletilen kapasitesi 2019’dan bu yana <strong>iki katına çıkmış durumda.</strong> Analize göre, <strong>2020’li yıllar konteyner taşımacılığı tarihinde bugüne kadarki en kârlı dönem</strong> olarak öne çıkmakta ve HMM bu trendden büyük oranda faydalanmakta.</p>
+<p style="text-align: justify">Bu başarı, <strong>Güney Kore’nin ulusal taşıyıcısı HMM’nin</strong> son beş yılda gösterdiği dikkat çekici büyümeyi yansıtıyor. <strong>Alphaliner’in haftalık raporuna göre</strong>, HMM’nin işletilen kapasitesi 2019’dan bu yana <strong>iki katına çıkmış durumda.</strong> Analize göre, <strong>2020’li yıllar konteyner taşımacılığı tarihinde bugüne kadarki en kârlı dönem</strong> olarak öne çıkıyor ve HMM bu trendden büyük oranda faydalanmakta.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Filo büyüklüğü ve yeni gemi siparişleri</strong></h5>
-<p style="text-align: justify">HMM’nin filosu bugün <strong>1 milyon TEU sınırını aşarak</strong> denizcilik sektöründeki “mega taşıyıcılar” ligine resmen dahil oldu. Şirketin bu büyüme ivmesini sürdürmesi bekleniyor çünkü <strong>Güney Kore tersanelerinde inşa edilmekte olan çok sayıda yeni gemi</strong> 2026 ve sonrasında teslim edilecek.</p>
+<p style="text-align: justify">HMM’nin filosu bugün <strong>1 milyon TEU sınırını aşarak</strong> denizcilik sektöründeki “mega taşıyıcılar” ligine resmen dahil oldu. Şirketin bu büyüme ivmesini sürdürmesi bekleniyor çünkü <strong>Güney Kore tersanelerinde inşa ediliyor olan çok sayıda yeni gemi</strong> 2026 ve sonrasında teslim edilecek.</p>
 <p><br></p>
 <p style="text-align: justify">Planlara göre:</p>
 <ul>
@@ -42,9 +42,9 @@ tags:
 <p style="text-align: justify">Şirketin hedefi, <strong>2030 yılına kadar deniz taşımacılığında Güney Kore’nin küresel konumunu</strong> daha da güçlendirmek ve <strong>Asya–Avrupa ile Transpasifik hatlarında pazar payını artırmak.</strong></p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Küresel sıralamadaki konumu</strong></h5>
-<p style="text-align: justify">HMM şu anda <strong>Alphaliner’in küresel taşıyıcılar sıralamasında sekizinci sırada</strong> yer almakta. Şirketin hemen üzerinde yer alan <strong>Tayvanlı Evergreen Marine</strong>, kısa süre içinde <strong>2 milyon TEU eşiğini geçmeye</strong> hazırlanıyor. <strong>Japonya merkezli Ocean Network Express (ONE)</strong> bu kilometre taşını yakın zamanda kutlamıştı.</p>
+<p style="text-align: justify">HMM şu anda <strong>Alphaliner’in küresel taşıyıcılar sıralamasında sekizinci sırada</strong> yer alıyor. Şirketin hemen üzerinde yer alan <strong>Tayvanlı Evergreen Marine</strong>, kısa süre içinde <strong>2 milyon TEU eşiğini geçmeye</strong> hazırlanıyor. <strong>Japonya merkezli Ocean Network Express (ONE)</strong> bu kilometre taşını yakın zamanda kutlamıştı.</p>
 <p><br></p>
-<p style="text-align: justify">Liderlik tablosunun zirvesinde ise <strong>Soren Toft yönetimindeki Mediterranean Shipping Company (MSC)</strong> bulunuyor. MSC, önümüzdeki aylarda <strong>7 milyon TEU kapasite sınırını aşarak yeni bir rekor kırmaya</strong> hazırlanmakta.</p>
+<p style="text-align: justify">Liderlik tablosunun zirvesinde ise <strong>Soren Toft yönetimindeki Mediterranean Shipping Company (MSC)</strong> bulunuyor. MSC, önümüzdeki aylarda <strong>7 milyon TEU kapasite sınırını aşarak yeni bir rekor kırmaya</strong> hazırlanıyor.</p>
 <p><br></p>
 <p style="text-align: justify">HMM’nin yükselişi, Güney Kore’nin <strong>deniz taşımacılığında küresel ölçekte yeniden güç kazandığını</strong> gösteriyor. Uzmanlara göre, ülke hükümeti ve özel sektör arasındaki <strong>stratejik koordinasyon</strong>, <strong>altyapı yatırımları</strong> ve <strong>yüksek teknolojiye sahip tersaneler</strong>, bu büyümenin ana dinamikleri arasında.</p>
 <p><br></p>

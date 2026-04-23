@@ -19,9 +19,9 @@ tags:
 - lojistik altyapı
 - hükümet politikası
 ---
-<p>Rusya, ülkenin taşıma ve lojistik gelişimini hızlandırmak amacıyla taşımacılık sektöründeki hükümet liderliğinde önemli değişiklikler yapmakta. Geleneksel ulaştırma bakanının yanı sıra, eski ulaştırma bakanı Vitaly Savelyev yeni Ulaştırma Başbakan Yardımcısı olarak atandı. İkili, "Doğu Poligonu" ve uluslararası demiryolu koridorlarının geliştirilmesine öncelik verecekler.</p>
+<p>Rusya, ülkenin taşıma ve lojistik gelişimini hızlandırmak amacıyla taşımacılık sektöründeki hükümet liderliğinde önemli değişiklikler yapıyor. Geleneksel ulaştırma bakanının yanı sıra, eski ulaştırma bakanı Vitaly Savelyev yeni Ulaştırma Başbakan Yardımcısı olarak atandı. İkili, "Doğu Poligonu" ve uluslararası demiryolu koridorlarının geliştirilmesine öncelik verecekler.</p>
 <p><br></p>
-<p>Vladimir Putin'in beşinci dönem başkanlık görevine başlamasını işaret eden yemin töreninden sonra, Rusya başkanı kabinesinde dikkate değer değişiklikler yaptı. Değişiklikler arasında Ulaştırma Başbakan Yardımcılığı pozisyonunun oluşturulması bulunmakta. Bu yeni pozisyona daha önce hükümette ulaştırma bakanı olarak görev yapan Vitaly Savelyev getirilmiştir. Roman Starovoyt ise yeni Ulaştırma Bakanı oldu.</p>
+<p>Vladimir Putin'in beşinci dönem başkanlık görevine başlamasını işaret eden yemin töreninden sonra, Rusya başkanı kabinesinde dikkate değer değişiklikler yaptı. Değişiklikler arasında Ulaştırma Başbakan Yardımcılığı pozisyonunun oluşturulması bulunuyor. Bu yeni pozisyona daha önce hükümette ulaştırma bakanı olarak görev yapan Vitaly Savelyev getirilmiştir. Roman Starovoyt ise yeni Ulaştırma Bakanı oldu.</p>
 <p><br></p>
 <p>Bir hükümet yetkilisi, daha önce birkaç başbakan yardımcısının taşıma gelişiminden sorumlu olduğunu ve bu durumun karar alma hızını olumsuz etkilediğini belirti. Ancak şimdi kararların hızla alınmasının kritik olduğunu vurguladı.</p>
 <p><br></p>

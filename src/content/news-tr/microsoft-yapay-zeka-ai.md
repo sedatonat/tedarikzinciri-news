@@ -31,11 +31,11 @@ tags:
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
-  <li><p>Yatırım yüksek yoğunluklu bilgi işlem içermektedir.</p></li>
-  <li><p>Liquid cooling ve PPA anlaşmaları öne çıkmaktadır.</p></li>
+  <li><p>Yatırım yüksek yoğunluklu bilgi işlem içeriyordir.</p></li>
+  <li><p>Liquid cooling ve PPA anlaşmaları öne çıkıyordır.</p></li>
   <li><p>Yerel tedarikçilere local content fırsatı doğmaktadır.</p></li>
-  <li><p>Fiber ve güç şebekesi güçlendirmesi gerekmektedir.</p></li>
-  <li><p>Su yönetimi ve ısı geri kazanımı değerlendirilmektedir.</p></li>
+  <li><p>Fiber ve güç şebekesi güçlendirmesi gerekiyordir.</p></li>
+  <li><p>Su yönetimi ve ısı geri kazanımı değerlendiriliyordir.</p></li>
 </ul>
 <p>--------</p>
 <p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42521-microsoft-to-invest-4b-in-second-wisconsin-ai-data-center"><u>https://www.supplychainbrain.com/articles/42521-microsoft-to-invest-4b-in-second-wisconsin-ai-data-center</u></a></p>

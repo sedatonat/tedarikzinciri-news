@@ -19,20 +19,20 @@ tags:
 - explainability
 - risk yönetimi
 ---
-<p style="text-align: justify">Kaliforniya’da kabul edilen kapsamlı AI safety yasası, kamu ve özel sektörde yapay zekâ kullanımına dair standartları belirlemekte. Yasa; kritik altyapı, ulaştırma ve sağlık gibi yüksek riskli alanlarda risk assessment, human-in-the-loop kontrol, model denetimi ve olay raporlama gerekliliklerini içermekte.&nbsp;</p>
+<p style="text-align: justify">Kaliforniya’da kabul edilen kapsamlı AI safety yasası, kamu ve özel sektörde yapay zekâ kullanımına dair standartları belirliyor. Yasa; kritik altyapı, ulaştırma ve sağlık gibi yüksek riskli alanlarda risk assessment, human-in-the-loop kontrol, model denetimi ve olay raporlama gerekliliklerini içeriyor.&nbsp;</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Tedarik zinciri açısından, yapay zekâ tabanlı karar motorlarının şeffaflık ve izlenebilirlik kriterleri genişlemekte; tedarikçi seçiminden rota planlamaya kadar kullanılan algoritmalar için audit logs ve explainability talep edilmekte.&nbsp;</p>
+<p style="text-align: justify">Tedarik zinciri açısından, yapay zekâ tabanlı karar motorlarının şeffaflık ve izlenebilirlik kriterleri genişliyor; tedarikçi seçiminden rota planlamaya kadar kullanılan algoritmalar için audit logs ve explainability talep ediliyor.&nbsp;</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Kurumsal yönetişim tarafında AI governance committees ve model inventory oluşturma yükümlülüğü getirilmekte; bu da MLOps uygulamalarını resmileştirmekte. Veri gizliliği ve güvenlik standartlarını (privacy-by-design, secure-by-design) güçlendirmekte; ihlaller için yaptırımlar ve zorunlu iyileştirme planları öngörülmekte. KOBİ’ler için kademeli uygulama takvimi ve rehberlik mekanizmaları; büyük kurumlar içinse yıllık denetimler ve sertifikasyon süreçleri gündeme gelmekte.&nbsp;</p>
+<p style="text-align: justify">Kurumsal yönetişim tarafında AI governance committees ve model inventory oluşturma yükümlülüğü getiriliyor; bu da MLOps uygulamalarını resmileştirmekte. Veri gizliliği ve güvenlik standartlarını (privacy-by-design, secure-by-design) güçlendiriyor; ihlaller için yaptırımlar ve zorunlu iyileştirme planları öngörülüyor. KOBİ’ler için kademeli uygulama takvimi ve rehberlik mekanizmaları; büyük kurumlar içinse yıllık denetimler ve sertifikasyon süreçleri gündeme geliyor.&nbsp;</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Sonuç olarak yasa, AI projelerinde hızdan ziyade güvenceyi öncelemekte; sektör genelinde güvenilir yapay zekâ kullanımını teşvik etmekte.</p>
+<p style="text-align: justify">Sonuç olarak yasa, AI projelerinde hızdan ziyade güvenceyi öncelemekte; sektör genelinde güvenilir yapay zekâ kullanımını teşvik ediyor.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
-<p>1. Yasa yüksek riskli alanlarda denetim getirmekte.</p>
-<p>2. Explainability ve audit logs zorunlu hale gelmekte.</p>
+<p>1. Yasa yüksek riskli alanlarda denetim getiriyor.</p>
+<p>2. Explainability ve audit logs zorunlu hale geliyor.</p>
 <p>3. AI governance yapıları resmileşmekte.</p>
-<p>4. Gizlilik ve güvenlik standartları güçlenmekte.</p>
-<p>5. Uygulama kademeli ve sertifikasyonlu ilerlemekte.</p>
+<p>4. Gizlilik ve güvenlik standartları güçleniyor.</p>
+<p>5. Uygulama kademeli ve sertifikasyonlu ilerliyor.</p>
 <p><br></p>
 <p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42590-california-governor-signs-landmark-ai-safety-law"><u>https://www.supplychainbrain.com/articles/42590-california-governor-signs-landmark-ai-safety-law</u></a></p>
 <p>-------------------</p>

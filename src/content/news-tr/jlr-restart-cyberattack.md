@@ -18,7 +18,7 @@ tags:
 - just-in-sequence
 - İngiltere
 ---
-<p>Otomotiv tedarik zincirlerinde siber saldırılar, üretim sürekliliğini doğrudan etkilemekte. Jaguar Land Rover (JLR), yaşanan bir siber olayın ardından İngiltere tesislerinde üretimi kademeli olarak yeniden başlatıyor.&nbsp;</p>
+<p>Otomotiv tedarik zincirlerinde siber saldırılar, üretim sürekliliğini doğrudan etkiliyor. Jaguar Land Rover (JLR), yaşanan bir siber olayın ardından İngiltere tesislerinde üretimi kademeli olarak yeniden başlatıyor.&nbsp;</p>
 <p><br></p>
 <p>Olay, supplier connectivity, production scheduling, ve parts sequencing süreçlerinde aksamalara yol açtı; özellikle just-in-time (JIT) ve just-in-sequence (JIS) akışlarındaki kırılganlık gözler önüne serildi.&nbsp;</p>
 <p><br></p>

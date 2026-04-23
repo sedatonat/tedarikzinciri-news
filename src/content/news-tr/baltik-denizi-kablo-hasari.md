@@ -21,20 +21,20 @@ tags:
 ---
 <p style="text-align: justify">26 Ocak 2025 tarihinde, <strong>Letonya</strong> ile <strong>İsveç</strong> arasında Baltık Denizi'nde bulunan bir deniz altı fiber optik kablosunun harici bir etki sonucu hasar aldığı bildirildi. <strong>Letonya Başbakanı Evika Silina</strong>, olağanüstü bir hükümet toplantısının ardından yaptığı açıklamada, hasarın büyük olasılıkla dış etkenlerden kaynaklandığını ve önemli derecede olduğunu belirtti.</p>
 <p><br></p>
-<p style="text-align: justify">Olayın ardından <strong>Letonya Donanması</strong>, olayla ilgisi olabileceği düşünülen bir gemiyi incelemek üzere devriye botu gönderdi. Ayrıca, bölgede bulunan iki diğer gemi de soruşturma kapsamına alındı. <strong>Letonya</strong>, olayın detaylarını netleştirmek için <strong>NATO</strong> ve Baltık Denizi bölgesindeki diğer ülkelerle koordinasyon halinde çalışmakta. <strong>Başbakan Silina</strong>, <strong>X</strong> platformunda yaptığı paylaşımda, İsveçli müttefikler ve <strong>NATO</strong> ile birlikte olayın incelendiğini belirtti.</p>
+<p style="text-align: justify">Olayın ardından <strong>Letonya Donanması</strong>, olayla ilgisi olabileceği düşünülen bir gemiyi incelemek üzere devriye botu gönderdi. Ayrıca, bölgede bulunan iki diğer gemi de soruşturma kapsamına alındı. <strong>Letonya</strong>, olayın detaylarını netleştirmek için <strong>NATO</strong> ve Baltık Denizi bölgesindeki diğer ülkelerle koordinasyon halinde çalışıyor. <strong>Başbakan Silina</strong>, <strong>X</strong> platformunda yaptığı paylaşımda, İsveçli müttefikler ve <strong>NATO</strong> ile birlikte olayın incelendiğini belirtti.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>İsveç Donanması</strong> sözcüsü <strong>Jimmie Adamsson</strong>, hasarın nedeninin veya kasıtlı olup olmadığının henüz belirlenemediğini ifade etti. <strong>NATO</strong>, Baltık Denizi'nde kritik altyapıyı korumak için fırkateynler, devriye uçakları ve deniz dronları konuşlandıracağını ve güvenlik tehdidi oluşturan gemilere karşı harekete geçme hakkını saklı tuttuğunu açıkladı.</p>
 <p><br></p>
 <p style="text-align: justify">Bu gelişmeler, <strong>Rusya</strong>'nın <strong>Ukrayna</strong>'yı işgal etmesinin ardından enerji ve iletişim altyapısına yönelik artan endişelerle bağlantılı. Geçtiğimiz ay, <strong>Finlandiya</strong> polisi, <strong>Estonya</strong> ile arasındaki <strong>Estlink 2</strong> güç hattı ve dört telekomünikasyon kablosunun bir tanker tarafından zarar gördüğünü ve geminin demirini deniz tabanında sürüklediğini belirtti.</p>
 <p><br></p>
-<p style="text-align: justify">Letonya ile İsveç arasındaki hasar gören kablo, <strong>Ventspils</strong> kasabasını <strong>Gotland</strong> adasına bağlamakta ve İsveç'in münhasır ekonomik bölgesinde zarar görmüş durumda. <strong>Letonya Devlet Radyo ve Televizyon Merkezi (LVRTC)</strong>, iletişim sağlayıcılarının alternatif iletim yollarına geçtiğini ve onarım için bir gemi kiralamaya çalıştıklarını belirtti. Kablonun tam olarak nasıl hasar gördüğünün, onarım çalışmaları başladığında netleşeceği ifade edildi.</p>
+<p style="text-align: justify">Letonya ile İsveç arasındaki hasar gören kablo, <strong>Ventspils</strong> kasabasını <strong>Gotland</strong> adasına bağlıyor ve İsveç'in münhasır ekonomik bölgesinde zarar görmüş durumda. <strong>Letonya Devlet Radyo ve Televizyon Merkezi (LVRTC)</strong>, iletişim sağlayıcılarının alternatif iletim yollarına geçtiğini ve onarım için bir gemi kiralamaya çalıştıklarını belirtti. Kablonun tam olarak nasıl hasar gördüğünün, onarım çalışmaları başladığında netleşeceği ifade edildi.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">26 Ocak 2025'te, Letonya ile İsveç arasındaki deniz altı fiber optik kablosu harici bir etkiyle hasar aldı.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Letonya, olayın detaylarını araştırmak için NATO ve bölge ülkeleriyle iş birliği yapmakta.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">NATO, Baltık Denizi'nde kritik altyapıyı korumak için askeri varlığını artırmayı planlamakta.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Hasar gören kablo, Letonya'nın Ventspils kasabasını İsveç'in Gotland adasına bağlamakta.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Letonya, olayın detaylarını araştırmak için NATO ve bölge ülkeleriyle iş birliği yapıyor.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">NATO, Baltık Denizi'nde kritik altyapıyı korumak için askeri varlığını artırmayı planlıyor.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Hasar gören kablo, Letonya'nın Ventspils kasabasını İsveç'in Gotland adasına bağlıyor.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">LVRTC, iletişim hizmetlerinin alternatif yollarla sürdüğünü ve onarım çalışmalarının planlandığını açıkladı.</p></li>
 </ul>
 <p><br></p>

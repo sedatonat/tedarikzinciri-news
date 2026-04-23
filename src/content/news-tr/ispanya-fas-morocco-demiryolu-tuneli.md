@@ -63,7 +63,7 @@ Uzmanlar, bu seviyedeki bir yatırımın <strong>Avrupa Birliği, Afrika Kalkın
 <p style="text-align: justify">Özellikle <strong>Kuzey Afrika’da altyapı güvenliği</strong> ve <strong>finansman sürdürülebilirliği</strong> projeyi zorlayabilecek faktörler arasında yer alıyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Sonuç: Teknik olarak mümkün, ama zorlu bir yol</strong></h5>
-<p style="text-align: justify">Fizibilite raporunun vardığı sonuç: <strong>“Cebelitarık Boğazı demiryolu tüneli teknik olarak inşa edilebilir, ancak benzersiz mühendislik ve finansal zorluklar içermektedir.”</strong></p>
+<p style="text-align: justify">Fizibilite raporunun vardığı sonuç: <strong>“Cebelitarık Boğazı demiryolu tüneli teknik olarak inşa edilebilir, ancak benzersiz mühendislik ve finansal zorluklar içeriyordir.”</strong></p>
 <p><br></p>
 <p style="text-align: justify">2027’de alınacak karar, bu projeyi ya <strong>Avrupa–Afrika entegrasyonunun simgesi</strong> haline getirecek ya da <strong>lojistik açıdan en iddialı fikirlerden biri olarak</strong> tarihe yazacak.</p>
 <p><br></p>

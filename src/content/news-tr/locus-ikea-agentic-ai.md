@@ -94,7 +94,7 @@ Gerçek değer, insanların yaratıcı ve stratejik işlere odaklanmasını sağ
 <h4 style="text-align: justify"><strong>Agentic AI’nin geleceği: Yaşayan tedarik zincirleri</strong></h4>
 <p style="text-align: justify">Rastogi’ye göre yakın gelecekte en büyük dönüşüm şurada olacak:</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">Tedarik zincirleri <strong>statik ağlar</strong> olmaktan çıkacak</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Tedarik zincirleri <strong>statik ağlar</strong> oluyorn çıkacak</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Sürekli kendini optimize eden dinamik sistemlere</strong> dönüşecek</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Etsy gibi platformların yükselişiyle <strong>yerelleşmiş 3PL ağlarına</strong> baskı artacak</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Doğrudan tüketiciye gönderim artacak</p></li>

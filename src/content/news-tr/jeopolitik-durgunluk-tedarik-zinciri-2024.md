@@ -19,7 +19,7 @@ tags:
 - Çin
 - Hürmüz Boğazı
 ---
-<p>Ian Bremmer, Gartner Tedarik Zinciri Sempozyumu'nun ikinci gününde yaptığı ana konuşmada, küresel tedarik zincirlerine "vergi" olarak yansıyan bir "jeopolitik durgunluk" döneminden bahsetti. Bremmer, jeopolitiğin de küresel ekonomi gibi dönemsel dalgalanmalar yaşadığını ve şu an jeopolitik belirsizlik ve çatışmalarla dolu bir durgunluk döneminde olduğumuzu belirtti. Bu dönemin temelinde, güçlü ülkelerin uluslararası kurallara artık uymamasının yarattığı kırılmalar yatmaktadır. Bremmer, bu durumun tedarik zincirlerini zorlayacağını ve işletmelere bir nevi vergi olarak yansıyacağını ifade etti.</p>
+<p>Ian Bremmer, Gartner Tedarik Zinciri Sempozyumu'nun ikinci gününde yaptığı ana konuşmada, küresel tedarik zincirlerine "vergi" olarak yansıyan bir "jeopolitik durgunluk" döneminden bahsetti. Bremmer, jeopolitiğin de küresel ekonomi gibi dönemsel dalgalanmalar yaşadığını ve şu an jeopolitik belirsizlik ve çatışmalarla dolu bir durgunluk döneminde olduğumuzu belirtti. Bu dönemin temelinde, güçlü ülkelerin uluslararası kurallara artık uymamasının yarattığı kırılmalar yatıyordır. Bremmer, bu durumun tedarik zincirlerini zorlayacağını ve işletmelere bir nevi vergi olarak yansıyacağını ifade etti.</p>
 <p><br></p>
 <p>Bremmer, mevcut jeopolitik durgunluğun altında yatan üç ana destablize edici faktörü şöyle sıraladı:</p>
 <ol>

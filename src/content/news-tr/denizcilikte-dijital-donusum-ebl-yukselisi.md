@@ -19,7 +19,7 @@ tags:
 - siber güvenlik
 - dünya ticareti
 ---
-<p>Dom Magli'nin, PTI muhabiri olarak Digital Container Shipping Association (DCSA) hukuk danışmanı Omer Guy ile Londra'daki Commodity Trading Week Europe konferansında gerçekleştirdiği röportajda elektronik konşimento (eBL) kullanımının denizcilik sektöründe yaygınlaştırılmasının önemi vurgulanmakta.&nbsp;</p>
+<p>Dom Magli'nin, PTI muhabiri olarak Digital Container Shipping Association (DCSA) hukuk danışmanı Omer Guy ile Londra'daki Commodity Trading Week Europe konferansında gerçekleştirdiği röportajda elektronik konşimento (eBL) kullanımının denizcilik sektöründe yaygınlaştırılmasının önemi vurgulanıyor.&nbsp;</p>
 <p><br></p>
 <p>Guy, dünya ticaretinde önemli bir yer tutan konşimentoların halen %90'ının kağıt üzerinde düzenlenmesinin şaşırtıcı olduğunu belirtmiş, eBL'lerin ekosistemde 30 ila 40 milyar dolar arasında bir kazanç sağlayabileceğini ifade etti.&nbsp;</p>
 <p><br></p>

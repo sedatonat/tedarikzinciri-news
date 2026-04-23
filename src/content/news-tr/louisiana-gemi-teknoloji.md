@@ -37,14 +37,14 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>ABD bayraklı ve inşa edilmiş gemilerin uluslararası pazarda rekabetçi hale getirilmesi</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Denizcilik sanayisinin üretim altyapısının yeniden inşası</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Nitelikli denizcilik iş gücünün yetiştirilmesi ve korunması</strong>,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Kalıcı federal fon mekanizmalarının oluşturulması</strong> yer almakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Kalıcı federal fon mekanizmalarının oluşturulması</strong> yer alıyor.</p></li>
 </ul>
-<p style="text-align: justify">Bu strateji kapsamında, <strong>Çin yapımı ve yabancı işletilen gemilere ABD limanlarına girişte yeni ücretler (port fees)</strong> uygulanmakta. Çin de buna misilleme olarak benzer vergiler koydu. <strong>Atlantic Container Line</strong>, bu ücretlendirmeden yıllık <strong>34 milyon dolar</strong> etkilenecek.</p>
+<p style="text-align: justify">Bu strateji kapsamında, <strong>Çin yapımı ve yabancı işletilen gemilere ABD limanlarına girişte yeni ücretler (port fees)</strong> uygulanıyor. Çin de buna misilleme olarak benzer vergiler koydu. <strong>Atlantic Container Line</strong>, bu ücretlendirmeden yıllık <strong>34 milyon dolar</strong> etkilenecek.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Yüksek teknolojiye odaklı dönüşüm</strong></h5>
 <p style="text-align: justify">Hecht’e göre, ABD’nin gemi inşa endüstrisinde yeniden rekabetçi olabilmesi, <strong>dev konteyner gemilerinden ziyade orta ölçekli, yüksek teknolojili gemiler üretmekle</strong> mümkün olacak:</p>
 <blockquote style="text-align: justify">“ABD’nin avantajı, küçük ama teknolojik olarak ileri gemilerde. Büyük gemilerde Çin, Güney Kore ve Japonya ile rekabet etmek gerçekçi değil,” diyor Hecht.</blockquote>
-<p style="text-align: justify">Bu nedenle <strong>Louisiana’nın geleceği</strong>, <strong>otonom sistemler, savunma gemileri ve uzay endüstrisine hizmet eden platformlarda</strong> şekillenmekte.</p>
+<p style="text-align: justify">Bu nedenle <strong>Louisiana’nın geleceği</strong>, <strong>otonom sistemler, savunma gemileri ve uzay endüstrisine hizmet eden platformlarda</strong> şekilleniyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Yeni yatırımlar: Saronic ve Port Alpha</strong></h5>
 <p style="text-align: justify">Nisan ayında <strong>Texas merkezli Saronic</strong>, <strong>Franklin, Louisiana</strong>’daki tarihi tersaneyi satın alarak <strong>250 milyon dolarlık yatırım</strong> planını duyurdu. Şirket, <strong>askeri ve ticari müşteriler için otonom deniz araçları (“water drones”)</strong> üretmeyi planlıyor. Bu yatırımla <strong>500 yeni istihdam</strong> yaratılacak.</p>
@@ -52,7 +52,7 @@ tags:
 <p style="text-align: justify">Saronic’in uzun vadeli hedefi, <strong>2026’da inşasına başlanacak Port Alpha</strong> adlı <strong>“yeni nesil otonom gemi üretim merkezi”</strong> kurmak. Bu tesisin çok milyar dolarlık yatırım ve <strong>seri üretim kapasitesi</strong> ile küresel otonom deniz araçları pazarında ABD’ye rekabet gücü kazandırması bekleniyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Uzay endüstrisine hizmet eden tersaneler</strong></h5>
-<p style="text-align: justify">Louisiana tersaneleri, artık sadece deniz değil, <strong>uzay lojistiği</strong> alanında da çalışıyor. <strong>Bollinger Shipyards</strong>, <strong>Rocket Lab</strong> için bir <strong>roket iniş platformu</strong> üretmekte ve <strong>United Launch Alliance</strong> ile <strong>Space Perspective</strong> gibi firmalarla ortak projeler yürütmekte. Hecht, bu dönüşümü “<strong>gemiden uzay aracına giden endüstriyel evrim</strong>” olarak tanımlıyor.</p>
+<p style="text-align: justify">Louisiana tersaneleri, artık sadece deniz değil, <strong>uzay lojistiği</strong> alanında da çalışıyor. <strong>Bollinger Shipyards</strong>, <strong>Rocket Lab</strong> için bir <strong>roket iniş platformu</strong> üretiyor ve <strong>United Launch Alliance</strong> ile <strong>Space Perspective</strong> gibi firmalarla ortak projeler yürütüyor. Hecht, bu dönüşümü “<strong>gemiden uzay aracına giden endüstriyel evrim</strong>” olarak tanımlıyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Tarihsel süreklilik ve yenilik</strong></h5>
 <p style="text-align: justify">Louisiana, II. Dünya Savaşı döneminde <strong>Higgins Industries’in çıkarma gemileri</strong>, daha sonra <strong>Textron’un hovercraft projeleri</strong> ile denizcilik tarihine damga vurmuştu. Hecht’e göre, bugünkü teknoloji yatırımları bu mirasın devamı niteliğinde:</p>

@@ -21,11 +21,11 @@ tags:
 ---
 <p>Son zamanlarda, üretim ve imalat aşamalarını ABD'ye daha yakın bölgelere taşıma eğilimi olan "<a href="https://www.tedarikzinciriportali.com/post/terim-nearshoring-yakin-ulkede-uretim"><u>Nearshoring</u></a>" akımı, ABD merkezli lojistik sağlayıcılarının Meksika'da tesis açmalarına ilham vermiştir. Bu trende uyarak, nakliye brokeri <a href="https://www.arrivelogistics.com/"><u>Arrive Logistics</u></a>, <a href="https://www.google.com/search?q=guadalajara&amp;oq=Guadalajara&amp;gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyDQgDEC4YrwEYxwEYgAQyBwgEEC4YgAQyBwgFEAAYgAQyBwgGEAAYgAQyBggHEEUYPNIBBzMzN2owajeoAgCwAgA&amp;sourceid=chrome&amp;ie=UTF-8#eim=CAEQDBoKMjAuNjc1MTcwNyITLTEwMy4zNDczMzg0OTk5OTk5OQ"><u>Guadalajara </u></a>ofisini açıkladı.&nbsp;</p>
 <p><br></p>
-<p>Yeni ofis, şirketin Meksika'daki büyüyen müşteri tabanına olan bağlılığını ve bölgedeki zengin yetenek havuzunu ve kaynakları kullanma arzusunu göstermektedir. Austin, Texas merkezli Arrive, müşterilerine çok modlu hizmetler sunmak için sınır ötesi operasyonlarını ve teknolojisini genişletmek amacıyla üst üste üç yıl boyunca büyük yatırımlar yapmıştır.&nbsp;</p>
+<p>Yeni ofis, şirketin Meksika'daki büyüyen müşteri tabanına olan bağlılığını ve bölgedeki zengin yetenek havuzunu ve kaynakları kullanma arzusunu gösteriyordir. Austin, Texas merkezli Arrive, müşterilerine çok modlu hizmetler sunmak için sınır ötesi operasyonlarını ve teknolojisini genişletmek amacıyla üst üste üç yıl boyunca büyük yatırımlar yapmıştır.&nbsp;</p>
 <p><br></p>
 <p>ABD ile Meksika arasındaki artan ticaret faaliyetleri, Meksika'da üretim ve taşımacılık operasyonları kuran şirketlerin artan sayısına hizmet verecek yerel kaynaklara olan talebi de artırmıştır.</p>
 <p><br></p>
-<p>Bu hamle, Florida merkezli üçüncü parti lojistik sağlayıcısı (3PL) <a href="https://mybluegrace.com/"><u>BlueGrace Logistics</u></a>'in de nearshoring talebinin artışını belirterek bir Guadalajara ofisi açtığını duyurmasının ardından geldi. Arrive, 1,700 çalışanı, 6,000 müşterisi ve ağındaki 70,000 taşıyıcı ile nakliye brokerajı, çok modlu taşımacılık ve teknoloji hizmetleri sunmaktadır.</p>
+<p>Bu hamle, Florida merkezli üçüncü parti lojistik sağlayıcısı (3PL) <a href="https://mybluegrace.com/"><u>BlueGrace Logistics</u></a>'in de nearshoring talebinin artışını belirterek bir Guadalajara ofisi açtığını duyurmasının ardından geldi. Arrive, 1,700 çalışanı, 6,000 müşterisi ve ağındaki 70,000 taşıyıcı ile nakliye brokerajı, çok modlu taşımacılık ve teknoloji hizmetleri sunuyordır.</p>
 <h3>Önemli Notalar</h3>
 <ul>
   <li><p>"Nearshoring" trendi, ABD merkezli lojistik sağlayıcıların Meksika'da tesis açmalarına yol açtı.</p></li>

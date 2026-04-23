@@ -29,9 +29,9 @@ tags:
 <ol>
   <li><p>Prologis ve Maersk, Los Angeles ve Long Beach limanlarına yakın 96 kamyon kapasiteli bir EV şarj deposu açtı.</p></li>
   <li><p>Depo, 240 mil menzile sahip Volvo VNR Electric kamyonları destekleyecek şekilde tasarlandı.</p></li>
-  <li><p>Kaliforniya'nın 2035 ve 2045 yılı hedefleri doğrultusunda dizel kamyon satışlarını sonlandırma ve elektrikli kamyonlara geçiş zorunluluğu bulunmaktadır.</p></li>
+  <li><p>Kaliforniya'nın 2035 ve 2045 yılı hedefleri doğrultusunda dizel kamyon satışlarını sonlandırma ve elektrikli kamyonlara geçiş zorunluluğu bulunuyordır.</p></li>
   <li><p>Prologis, şebeke iyileştirmelerini beklemek yerine hızlı bir şekilde şarj altyapısı kurdu.</p></li>
-  <li><p>Tesis, 9 MW'a kadar şarj kapasitesi sunan bir mikrogrid tarafından desteklenmektedir.</p></li>
+  <li><p>Tesis, 9 MW'a kadar şarj kapasitesi sunan bir mikrogrid tarafından destekleniyordir.</p></li>
 </ol>
 <p><br></p>
 <p><br></p>

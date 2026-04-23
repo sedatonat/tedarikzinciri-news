@@ -33,7 +33,7 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Novelis’in üretimi yeniden başlatma planlarının nasıl etkilendiği, önümüzdeki günlerde Ford’un finansal görünümüne ilişkin güncellemelerde önemli bir başlık olacak. Geçici kapanma ihtimali, Ford’un yıl sonu bilançosunda ek maliyet baskısı yaratabilir.</p>
 <p><br></p>
-<p style="text-align: justify">Şimdilik iki şirket de olayın teknik nedenlerine dair detay vermekten kaçınsa da, tekrar eden yangınlar tesisin güvenlik altyapısının derinlemesine incelenmesini kaçınılmaz hâle getiriyor.</p>
+<p style="text-align: justify">Şimdilik iki şirket de olayın teknik nedenlerine dair detay veriyorn kaçınsa da, tekrar eden yangınlar tesisin güvenlik altyapısının derinlemesine incelenmesini kaçınılmaz hâle getiriyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Önemli Notlar:</strong></h4>
 <ul>

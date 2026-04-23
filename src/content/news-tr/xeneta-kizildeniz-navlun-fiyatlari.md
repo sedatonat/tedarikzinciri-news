@@ -26,7 +26,7 @@ tags:
 <p style="text-align: justify">Analiste göre, güvenlik algısında kısmi bir iyileşme olması hâlinde geçiş sayısı artabilir; ancak <strong>2023 seviyelerine hızlı bir dönüş beklemek gerçekçi değil</strong>.</p>
 <h4><br></h4>
 <h4 style="text-align: justify"><strong>Ümit Burnu yönlendirmelerinin etkisi: 2 milyon TEU piyasadan çekildi</strong></h4>
-<p style="text-align: justify">Mevcut durumda hatların büyük çoğunluğu Ümit Burnu yönlendirmelerine devam ediyor. Bu rota uzaması, küresel filo kullanımında <strong>yaklaşık 2 milyon TEU eşdeğer kapasitenin absorbe edilmesine</strong> yol açmakta. Bu durum:</p>
+<p style="text-align: justify">Mevcut durumda hatların büyük çoğunluğu Ümit Burnu yönlendirmelerine devam ediyor. Bu rota uzaması, küresel filo kullanımında <strong>yaklaşık 2 milyon TEU eşdeğer kapasitenin absorbe edilmesine</strong> yol açıyor. Bu durum:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">küresel arzı sıkılaştırdı,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">kapasite kıtlığı nedeniyle navlunları destekledi,</p></li>
@@ -66,7 +66,7 @@ zorlanabilir.</p></li>
 <p style="text-align: justify">Bu geçiş döneminde ETA’lar, schedule stability ve liman sıraları üzerinde kısa vadeli baskılar oluşabilir.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Xeneta hakkında</strong></h4>
-<p style="text-align: justify">Xeneta, Norveç merkezli bir <strong>navlun pazar istihbarat platformu</strong> olup, taşıyıcılar, forwarder’lar ve global yük sahiplerine <strong>gerçek zamanlı fiyat ve kapasite analizleri</strong> sunmakta. Şirket, spot ve kontrat navlunları için en büyük veri havuzlarından birine sahip.</p>
+<p style="text-align: justify">Xeneta, Norveç merkezli bir <strong>navlun pazar istihbarat platformu</strong> olup, taşıyıcılar, forwarder’lar ve global yük sahiplerine <strong>gerçek zamanlı fiyat ve kapasite analizleri</strong> sunuyor. Şirket, spot ve kontrat navlunları için en büyük veri havuzlarından birine sahip.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Önemli Notlar:</strong></h4>
 <ul>

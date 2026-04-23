@@ -18,7 +18,7 @@ tags:
 - deniz taşımacılığı
 - Rusya limanları
 ---
-<p style="text-align: justify">Ocak 2025'te, <strong>Arktik Havzası</strong>'ndaki limanların toplam konteyner hacmi, bir önceki yılın aynı dönemine göre %10,9 artarak 100,9 bin TEU'ya ulaştı. Bu büyüme, bölgedeki deniz taşımacılığının gelişimine işaret etmekte.</p>
+<p style="text-align: justify">Ocak 2025'te, <strong>Arktik Havzası</strong>'ndaki limanların toplam konteyner hacmi, bir önceki yılın aynı dönemine göre %10,9 artarak 100,9 bin TEU'ya ulaştı. Bu büyüme, bölgedeki deniz taşımacılığının gelişimine işaret ediyor.</p>
 <p style="text-align: justify"><strong>Murmansk Limanı</strong>, %15,1'lik bir artışla 51,2 bin TEU'ya ulaşarak bölgedeki en yüksek konteyner hacmini kaydetti. <strong>Arkhangelsk Limanı</strong> ise %5,7'lik bir büyüme ile 14,8 bin TEU'ya ulaştı. <strong>Sabetta Limanı</strong>'nda da %12,3'lük bir artış gözlendi ve hacim 8,9 bin TEU olarak kaydedildi.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Dudinka Limanı</strong>, %8,4'lük bir artışla 6,7 bin TEU'ya ulaştı. <strong>Varandey Limanı</strong>'nda ise %7,9'luk bir büyüme ile 5,4 bin TEU'ya ulaşıldı. <strong>Kandalaksha Limanı</strong>, %6,2'lik bir artışla 4,3 bin TEU'ya ulaşırken, <strong>Vitino Limanı</strong> %5,5'lik bir büyüme ile 3,6 bin TEU'ya ulaştı.</p>
@@ -29,13 +29,13 @@ tags:
 <p><br></p>
 <p style="text-align: justify"><strong>Yenisei Limanı</strong>, %2,1'lik bir artışla 400 TEU'ya ulaştı. <strong>Kara Limanı</strong> ise %1,8'lik bir büyüme ile 300 TEU'ya ulaştı. <strong>Nordvik Limanı</strong>, %1,5'lik bir artışla 200 TEU'ya ulaşırken, <strong>Ust-Kara Limanı</strong> %1,2'lik bir büyüme ile 100 TEU'ya ulaştı.</p>
 <p><br></p>
-<p style="text-align: justify">Bu veriler, <strong>Arktik Havzası</strong>'ndaki limanların konteyner hacimlerinde genel bir artış trendine işaret etmekte. Bölgedeki deniz taşımacılığının gelişimi, ekonomik faaliyetlerin artmasına ve ticaretin genişlemesine katkı sağlamakta.</p>
+<p style="text-align: justify">Bu veriler, <strong>Arktik Havzası</strong>'ndaki limanların konteyner hacimlerinde genel bir artış trendine işaret ediyor. Bölgedeki deniz taşımacılığının gelişimi, ekonomik faaliyetlerin artmasına ve ticaretin genişlemesine katkı sağlıyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Arktik Havzası</strong>'ndaki limanların toplam konteyner hacmi Ocak 2025'te %10,9 artarak 100,9 bin TEU'ya ulaştı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Murmansk Limanı</strong>, %15,1'lik bir artışla 51,2 bin TEU'ya ulaşarak en yüksek konteyner hacmini kaydetti.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Tüm limanlarda konteyner hacimlerinde artış gözlendi, bu da bölgedeki deniz taşımacılığının gelişimine işaret etmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Tüm limanlarda konteyner hacimlerinde artış gözlendi, bu da bölgedeki deniz taşımacılığının gelişimine işaret ediyor.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

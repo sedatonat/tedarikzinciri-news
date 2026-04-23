@@ -32,11 +32,11 @@ tags:
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
-  <li><p>Portföy sadeleştirme ve çekirdeğe odaklanma vurgusu bulunmaktadır.</p></li>
-  <li><p>Dijital yük komisyonculuğunda konsolidasyon hızlanmaktadır.</p></li>
-  <li><p>Teknoloji varlıkları TMS/WMS entegrasyonu sunmaktadır.</p></li>
-  <li><p>Müşteri ve personel geçiş planı kritik olmaktadır.</p></li>
-  <li><p>Kârlılık odağı güçlenmektedir.</p></li>
+  <li><p>Portföy sadeleştirme ve çekirdeğe odaklanma vurgusu bulunuyordır.</p></li>
+  <li><p>Dijital yük komisyonculuğunda konsolidasyon hızlanıyordır.</p></li>
+  <li><p>Teknoloji varlıkları TMS/WMS entegrasyonu sunuyordır.</p></li>
+  <li><p>Müşteri ve personel geçiş planı kritik oluyordır.</p></li>
+  <li><p>Kârlılık odağı güçleniyordir.</p></li>
 </ul>
 <p>----------</p>
 <p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42345-flexport-sells-tech-company-convoy"><u>https://www.supplychainbrain.com/articles/42345-flexport-sells-tech-company-convoy</u></a></p>

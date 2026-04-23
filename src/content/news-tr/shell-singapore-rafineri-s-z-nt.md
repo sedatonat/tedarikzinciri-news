@@ -27,7 +27,7 @@ tags:
 <p><br></p>
 <p>Bu olay, <strong>Shell</strong>'in Pulau Bukom tesisinde son iki ay içinde yaşanan ikinci sızıntı olarak kaydedildi. 20 Ekim 2024'te, karada bulunan bir boru hattından yaklaşık 30-40 metrik ton "slop" (petrol ve su karışımı) denize sızmıştı. <strong>Shell</strong>, bu olayda sızıntıyı durdurmuş ve temizlik çalışmalarını tamamlamıştı.</p>
 <p><br></p>
-<p>Pulau Bukom, <strong>Shell</strong>'in Asya'daki tek enerji ve kimya parkına ev sahipliği yapmaktadır. Şirket, karbon emisyonlarını azaltma ve likidite sağlama stratejisinin bir parçası olarak, 2024 yılı sonunda tamamlanması beklenen bir anlaşmayla Singapur'daki rafineri ve petrokimya tesislerini <strong>Chandra Asri</strong> ve <strong>Glencore</strong> ortak girişimine satmayı planlamaktadır.</p>
+<p>Pulau Bukom, <strong>Shell</strong>'in Asya'daki tek enerji ve kimya parkına ev sahipliği yapıyordır. Şirket, karbon emisyonlarını azaltma ve likidite sağlama stratejisinin bir parçası olarak, 2024 yılı sonunda tamamlanması beklenen bir anlaşmayla Singapur'daki rafineri ve petrokimya tesislerini <strong>Chandra Asri</strong> ve <strong>Glencore</strong> ortak girişimine satmayı planlıyordır.</p>
 <p><br></p>
 <p>Son olay, Singapur'da çevresel hassasiyetlerin arttığı bir dönemde meydana geldi. Haziran 2024'te, Pasir Panjang Terminali'nde bir tarama gemisinin sabit bir yakıt ikmal gemisine çarpması sonucu 400 tondan fazla petrol denize sızmış ve Labrador Doğa Rezervi, Sentosa, Doğu Kıyısı Parkı ve Changi gibi bölgelere yayılmıştı. Bu olay, son on yılın en büyük petrol sızıntısı olarak kaydedilmiş ve temizleme çalışmaları Eylül 2024'te tamamlanmıştı.</p>
 <p><br></p>

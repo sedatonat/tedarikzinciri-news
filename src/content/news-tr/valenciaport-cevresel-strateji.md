@@ -20,7 +20,7 @@ tags:
 - sürdürülebilirlik
 - 5G
 ---
-<p style="text-align: justify">Valenciaport, Ecofira Environmental Solutions Fair kapsamında yeni <strong>çevresel stratejisini</strong> kamuoyuna duyurdu. Port Authority of Valencia (APV) tarafından yürütülen sürdürülebilirlik girişimlerinin merkezinde <strong>karbonsuzlaşma</strong>, <strong>iklim dayanıklılığı</strong> ve <strong>iklim değişikliğiyle mücadele</strong> bulunmakta. Strateji, limanın uzun vadeli dönüşüm planını şekillendiren <strong>Net Zero Planı</strong> ile uyumlu bir çerçeve sunmakta.</p>
+<p style="text-align: justify">Valenciaport, Ecofira Environmental Solutions Fair kapsamında yeni <strong>çevresel stratejisini</strong> kamuoyuna duyurdu. Port Authority of Valencia (APV) tarafından yürütülen sürdürülebilirlik girişimlerinin merkezinde <strong>karbonsuzlaşma</strong>, <strong>iklim dayanıklılığı</strong> ve <strong>iklim değişikliğiyle mücadele</strong> bulunuyor. Strateji, limanın uzun vadeli dönüşüm planını şekillendiren <strong>Net Zero Planı</strong> ile uyumlu bir çerçeve sunuyor.</p>
 <p><br></p>
 <p style="text-align: justify">APV’ye göre yeni plan, Valenciaport’u <strong>yenilenebilir enerji kullanımında lider</strong>, düşük emisyonlu ve rekabetçi bir Akdeniz kapısı hâline getirmeyi amaçlıyor. Planın ana bileşenleri arasında:</p>
 <ul>
@@ -29,26 +29,26 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Yeşil deniz koridorlarının</strong> oluşturulması,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">İklim uyum stratejileri,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Doğaya dayalı çözümler ve çevresel telafi projeleri<br>
-yer almakta.</p></li>
+yer alıyor.</p></li>
 </ul>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Net Zero ve Yenilenebilir Enerji Vizyonu</strong></h4>
-<p style="text-align: justify">Valenciaport, Net Zero Planı kapsamında liman operasyonlarının tamamında <strong>yenilenebilir enerji kullanımını artırmakta</strong>. Bu hedef doğrultusunda:</p>
+<p style="text-align: justify">Valenciaport, Net Zero Planı kapsamında liman operasyonlarının tamamında <strong>yenilenebilir enerji kullanımını artırıyor</strong>. Bu hedef doğrultusunda:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Geniş ölçekli güneş enerjisi projeleri,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Rüzgâr enerjisi entegrasyonu,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Elektrikli operasyon ekipmanlarına geçiş<br>
-gibi adımlar planlanmakta.</p></li>
+gibi adımlar planlanıyor.</p></li>
 </ul>
-<p style="text-align: justify">OPS altyapısının yaygınlaştırılması ile gemilerin limanda kaldıkları süre boyunca fosil yakıt kullanımının kesilmesi amaçlanmakta. Bu, özellikle yoğun operasyon yapan konteyner ve ro-ro gemilerinde karbon emisyonunu ciddi ölçüde azaltacak.</p>
+<p style="text-align: justify">OPS altyapısının yaygınlaştırılması ile gemilerin limanda kaldıkları süre boyunca fosil yakıt kullanımının kesilmesi amaçlanıyor. Bu, özellikle yoğun operasyon yapan konteyner ve ro-ro gemilerinde karbon emisyonunu ciddi ölçüde azaltacak.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Yeşil Koridorlar ve Hidrojen Ekosistemi</strong></h4>
-<p style="text-align: justify">Yeni stratejide öne çıkan unsurlardan biri de <strong>yeşil koridorların teşvik edilmesi</strong>. Valenciaport, Akdeniz ve Kuzey Avrupa limanlarıyla emisyon azaltımlı ticaret hatları oluşturmayı hedeflemekte. Bu, Deniz Yakıtı Dönüşümü ve AB’nin FuelEU Maritime hedefleriyle uyumlu bir yapı.</p>
+<p style="text-align: justify">Yeni stratejide öne çıkan unsurlardan biri de <strong>yeşil koridorların teşvik edilmesi</strong>. Valenciaport, Akdeniz ve Kuzey Avrupa limanlarıyla emisyon azaltımlı ticaret hatları oluşturmayı hedefliyor. Bu, Deniz Yakıtı Dönüşümü ve AB’nin FuelEU Maritime hedefleriyle uyumlu bir yapı.</p>
 <p><br></p>
 <p style="text-align: justify">Ayrıca Sagunto bölgesindeki <strong>Hydrogen Valley</strong> girişimleri, limanın hidrojen üretimi, depolanması ve kullanımı konusunda pilot projelere katılımını içeriyor. Bu çalışmalar, orta ve uzun vadede ağır ekipmanların ve terminal araçlarının <strong>yeşil hidrojenle çalıştırılmasını</strong> olanaklı kılacak.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>İklim Uyum Projeleri</strong></h4>
-<p style="text-align: justify">Valenciaport’un stratejisi yalnızca emisyon azaltımıyla sınırlı değil; aynı zamanda <strong>sel riski, sıcak dalgaları ve kıyı erozyonu</strong> gibi iklim etkilerine uyum sağlamak için altyapının güçlendirilmesini de içeriyor. Denize dayalı esnek tasarım çözümleri ve doğa tabanlı müdahalelerle limanın iklim dayanıklılığı artırılmakta.</p>
+<p style="text-align: justify">Valenciaport’un stratejisi yalnızca emisyon azaltımıyla sınırlı değil; aynı zamanda <strong>sel riski, sıcak dalgaları ve kıyı erozyonu</strong> gibi iklim etkilerine uyum sağlamak için altyapının güçlendirilmesini de içeriyor. Denize dayalı esnek tasarım çözümleri ve doğa tabanlı müdahalelerle limanın iklim dayanıklılığı artırılıyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Çevresel İletişim ve Dijitalleşme</strong></h4>
 <p style="text-align: justify">Ecofira’daki Valenciaport standında limanın sürdürdüğü projeler:</p>

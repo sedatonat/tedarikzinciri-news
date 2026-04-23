@@ -19,11 +19,11 @@ tags:
 - yüksek teknoloji
 ---
 <h3>Özet</h3>
-<p>3 Nisan 2024'te Tayvan'ı sarsan 7.4 büyüklüğündeki deprem, küresel yüksek teknoloji ve yarı iletken tedarik zincirlerine etkileri açısından ciddi endişeler uyandırdı. <a href="https://www.resilinc.com/"><u>Resilinc </u></a>verilerine göre, 13.000'den fazla site, 21.000 ürün ve 58.000 parça etkilenebilir. Bu durum, küresel tedarik zincirlerinin ne kadar birbirine bağlı ve risklere maruz kaldığının önemli bir göstergesidir. Etkin, proaktif, öngörücü tedarik zinciri yeteneklerinin, bu tür yıkıcı olaylara daha iyi tepki vermek için hayati öneme sahip olduğu vurgulanmaktadır.</p>
+<p>3 Nisan 2024'te Tayvan'ı sarsan 7.4 büyüklüğündeki deprem, küresel yüksek teknoloji ve yarı iletken tedarik zincirlerine etkileri açısından ciddi endişeler uyandırdı. <a href="https://www.resilinc.com/"><u>Resilinc </u></a>verilerine göre, 13.000'den fazla site, 21.000 ürün ve 58.000 parça etkilenebilir. Bu durum, küresel tedarik zincirlerinin ne kadar birbirine bağlı ve risklere maruz kaldığının önemli bir göstergesidir. Etkin, proaktif, öngörücü tedarik zinciri yeteneklerinin, bu tür yıkıcı olaylara daha iyi tepki vermek için hayati öneme sahip olduğu vurgulanıyordır.</p>
 <p><br></p>
-<p>Tayvan'ın doğu kıyısı, 76 artçı sarsıntının ardından 25 yılın en büyük depremini yaşadı. Çin'in bazı bölgelerinde hissedilen sarsıntı, Tayvan, Japonya ve Filipinler için tsunami uyarılarına neden oldu. Tsunami uyarıları kaldırılsa da, Tayvan ve kritik yüksek teknoloji tedarik zincirine verilen zararlar devam etmektedir.</p>
+<p>Tayvan'ın doğu kıyısı, 76 artçı sarsıntının ardından 25 yılın en büyük depremini yaşadı. Çin'in bazı bölgelerinde hissedilen sarsıntı, Tayvan, Japonya ve Filipinler için tsunami uyarılarına neden oldu. Tsunami uyarıları kaldırılsa da, Tayvan ve kritik yüksek teknoloji tedarik zincirine verilen zararlar devam ediyordir.</p>
 <p><br></p>
-<p>Yarı iletken tedarik zinciri bakımından Tayvan'daki şirketler, operasyonları ve etkileri oldukça iyi yönetmekte. <a href="https://en.wikipedia.org/wiki/TSMC"><u>TSMC </u></a>gibi bazı şirketler, ilk incelemeler normal koşullar gösterse de, işleri bir gün süreyle askıya aldı. Diğer yarı iletken üreticileri, tesislerini tahliye etmiş veya geçici operasyon durdurma ve güvenlik kontrolleri yaptı.</p>
+<p>Yarı iletken tedarik zinciri bakımından Tayvan'daki şirketler, operasyonları ve etkileri oldukça iyi yönetiyor. <a href="https://en.wikipedia.org/wiki/TSMC"><u>TSMC </u></a>gibi bazı şirketler, ilk incelemeler normal koşullar gösterse de, işleri bir gün süreyle askıya aldı. Diğer yarı iletken üreticileri, tesislerini tahliye etmiş veya geçici operasyon durdurma ve güvenlik kontrolleri yaptı.</p>
 <p><br></p>
 <h5>Önemli Notlar</h5>
 <ul>

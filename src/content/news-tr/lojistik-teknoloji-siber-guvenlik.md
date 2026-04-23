@@ -46,7 +46,7 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Uzmanlar, bu dengesizliğin <strong>yüksek riskli sonuçlar doğurabileceğini</strong> vurguluyor. Artan <strong>siber saldırılar, fidye yazılımları ve tedarik zinciri manipülasyonları</strong>, özellikle <strong>3PL (üçüncü parti lojistik)</strong> firmaları için büyük tehdit oluşturuyor.</p>
 <p style="text-align: justify"><strong>Oliver Gritz</strong>, bu konuda açık bir uyarıda bulunuyor:</p>
-<blockquote style="text-align: justify">“2026’nın en büyük sorunu inovasyonun devam edip etmeyeceği değil, güvenli biçimde ilerleyip ilerleyemeyeceği olacak. Gerçek direnç, veriyi, otomasyonu ve siber güvenliği tek bir zeki ekosistemde birleştirmekten geçiyor.”</blockquote>
+<blockquote style="text-align: justify">“2026’nın en büyük sorunu inovasyonun devam edip etmeyeceği değil, güvenli biçimde ilerleyip ilerleyemeyeceği olacak. Gerçek direnç, veriyi, otomasyonu ve siber güvenliği tek bir zeki ekosistemde birleştiriyorn geçiyor.”</blockquote>
 <blockquote><br></blockquote>
 <h5 style="text-align: justify"><strong>Veri altyapısı: Dönüşümün omurgası</strong></h5>
 <p style="text-align: justify">OntegosCloud’un araştırması, güçlü bir <strong>veri altyapısının (data infrastructure)</strong> tüm dijital dönüşüm stratejilerinin merkezinde yer aldığını vurguluyor. Özellikle <strong>tarifeler, ticaret kısıtlamaları ve jeopolitik belirsizliklerin</strong> devam edeceği 2026 yılında, <strong>sağlam veri yönetimi sistemleri</strong> hem <strong>operasyonel dayanıklılığı</strong> hem de <strong>tedarik zinciri çevikliğini (agility)</strong> sağlayacak.</p>

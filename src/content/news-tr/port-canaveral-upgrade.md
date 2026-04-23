@@ -19,7 +19,7 @@ tags:
 - kargo rıhtımı
 - Florida
 ---
-<p>Port Canaveral, kruvaziyer kapasitesi ve kargo rıhtımlarını geliştirmek üzere 500 milyon dolarlık yatırım planlamakta. Proje, berth expansion, dredging, terminal modernization ve shore power altyapısını kapsamaktadır. Yatırım, gemi dönüş sürelerini kısaltarak turnaround efficiency sağlamayı ve kargo operasyonlarını hızlandırmayı hedeflemekte. Enerji tarafında shore power ve verimli ekipmanlar, emisyon azaltımı ve hava kalitesi iyileştirmesi sunmakta. Bölgesel ekonomi için istihdam ve turizm gelirleri artışı beklenmekte; aynı zamanda tedarik zincirlerinde Florida merkezli bir kapasite güvenliği sağlanmakta. Sonuç olarak proje, hem yolcu hem yük tarafında limanın rekabetçiliğini yükseltmekte.</p>
+<p>Port Canaveral, kruvaziyer kapasitesi ve kargo rıhtımlarını geliştirmek üzere 500 milyon dolarlık yatırım planlıyor. Proje, berth expansion, dredging, terminal modernization ve shore power altyapısını kapsıyordır. Yatırım, gemi dönüş sürelerini kısaltarak turnaround efficiency sağlamayı ve kargo operasyonlarını hızlandırmayı hedefliyor. Enerji tarafında shore power ve verimli ekipmanlar, emisyon azaltımı ve hava kalitesi iyileştirmesi sunuyor. Bölgesel ekonomi için istihdam ve turizm gelirleri artışı bekleniyor; aynı zamanda tedarik zincirlerinde Florida merkezli bir kapasite güvenliği sağlanıyor. Sonuç olarak proje, hem yolcu hem yük tarafında limanın rekabetçiliğini yükseltiyor.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 1. Yatırım berth ve terminal modernizasyonunu kapsar.<br>

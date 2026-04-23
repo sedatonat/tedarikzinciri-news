@@ -62,9 +62,9 @@ Bu bölge, <strong>ABD yaptırımı altındaki İran petrolünün yüzer depolam
 <p style="text-align: justify">İran tanker filosu uzun süredir <strong>“karanlık filo (shadow fleet)”</strong> olarak bilinen gizli taşımacılık ağının parçası.<br>
 Bu gemiler genellikle:</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>AIS sistemlerini kapatarak rotalarını gizlemekte,</strong></p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>gemiden-gemiye transferlerle (STS) petrolü başka bayraklar altında taşımakta,</strong></p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Asya pazarlarına (özellikle Çin) yönelik sevkiyatlarda</strong> AIS sinyallerini sadece geçici olarak açmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>AIS sistemlerini kapatarak rotalarını gizliyor,</strong></p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>gemiden-gemiye transferlerle (STS) petrolü başka bayraklar altında taşıyor,</strong></p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Asya pazarlarına (özellikle Çin) yönelik sevkiyatlarda</strong> AIS sinyallerini sadece geçici olarak açıyor.</p></li>
 </ul>
 <p style="text-align: justify">Çoğu gemi, <strong>Singapur Boğazı’ndan geçerken kısa süreli sinyal yayımı yapıyor,</strong> ardından <strong>Riau Takımadaları</strong> yakınlarında yeniden kayboluyor.</p>
 <p><br>
@@ -74,14 +74,14 @@ Bu taktik, hem <strong>uluslararası yaptırımlardan kaçınmak</strong> hem de
 <p style="text-align: justify">Windward’un <strong>Early Detection (Erken Tespit)</strong> çözümü, <strong>12–14 Ekim döneminde</strong> yaşanan bu olağandışı sinyal trafiğini ilk fark eden sistem oldu.</p>
 <p><br>
 AI tabanlı analiz, NITC filosunun farklı bölgelerde <strong>eşzamanlı sinyal açma ve kapama paternini</strong> doğruladı.<br>
-Bu eşzamanlılık, tesadüf olmaktan çok, <strong>koordineli bir karar mekanizmasını</strong> işaret ediyor.</p>
+Bu eşzamanlılık, tesadüf oluyorn çok, <strong>koordineli bir karar mekanizmasını</strong> işaret ediyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Sonuç: “Karanlık” Filonun Gölgesi Devam Ediyor</strong></h5>
 <p style="text-align: justify">İran tankerlerinin kısa süreli AIS görünürlüğü, <strong>uluslararası petrol ticareti ve yaptırım izleme sistemleri</strong> açısından dikkat çekici bir anomali oluşturdu.</p>
 <p><br>
 Ancak bu “açıklık dönemi” sona erdi ve İran filosu yeniden <strong>görünmezlik stratejisine</strong> döndü.</p>
 <p><br></p>
-<p style="text-align: justify">Bu olay, <strong>jeopolitik baskı, denetim riski ve yaptırım uyumu</strong> arasındaki hassas dengeyi yansıtmakta.</p>
+<p style="text-align: justify">Bu olay, <strong>jeopolitik baskı, denetim riski ve yaptırım uyumu</strong> arasındaki hassas dengeyi yansıtıyor.</p>
 <p><br>
 Kısa süreli AIS açıklığı, muhtemelen <strong>uluslararası baskılara verilen geçici bir yanıt</strong> olarak tarihe geçecek — fakat <strong>İran’ın petrol taşımacılığında karanlık filoları kullanma politikası</strong> değişmiş görünmüyor.</p>
 <p><br></p>
@@ -91,8 +91,8 @@ Kısa süreli AIS açıklığı, muhtemelen <strong>uluslararası baskılara ver
   <li style="text-align: justify"><p style="text-align: justify"><strong>Windward</strong>: “Bu durum İran filosu için eşi benzeri görülmemiş bir toplu sinyal yayımı.”</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>17 Ekim itibarıyla</strong>, <strong>NITC filosunun tamamı yeniden AIS sinyallerini kapattı.</strong></p></li>
   <li style="text-align: justify"><p style="text-align: justify">Gözlemler, <strong>Malezya açıklarındaki STS operasyonları</strong> ve <strong>BM yaptırımlarının yeniden devreye girmesi</strong> ile aynı zamana denk geldi.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">İran filosu hâlen <strong>petrolünü Çin’e taşımak için karanlık rotalar ve AIS manipülasyonu</strong> yöntemlerini kullanmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Uzmanlara göre, bu olay “karanlık filoların” uluslararası enerji denetim sistemlerini nasıl aşabildiğine dair yeni bir örnek oluşturmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">İran filosu hâlen <strong>petrolünü Çin’e taşımak için karanlık rotalar ve AIS manipülasyonu</strong> yöntemlerini kullanıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Uzmanlara göre, bu olay “karanlık filoların” uluslararası enerji denetim sistemlerini nasıl aşabildiğine dair yeni bir örnek oluşturuyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

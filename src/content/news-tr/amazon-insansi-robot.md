@@ -28,12 +28,12 @@ tags:
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Bu testler, Amazon’un <strong>son kilometre otomasyonunu kapı eşiğine kadar genişletme</strong> vizyonunun bir parçası olarak görülüyor. Humanoid robotlar, teslimatın en zorlu adımı olan “door-to-door” aşamasında insan benzeri çeviklik ve karar kabiliyeti sunarak <strong>drone ve AMR sistemlerini tamamlayıcı</strong> bir rol üstlenecek.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Sonuç olarak, bu testler <strong>otonom lojistiğin yeni fazını</strong> temsil ediyor. Amazon, robotik inovasyonun sınırlarını hem fiziksel esneklik hem de sosyal uyum açısından genişleterek, <strong>tam otomatik teslimat ekosistemine</strong> bir adım daha yaklaşmakta.</p>
+<p style="text-align: justify">Sonuç olarak, bu testler <strong>otonom lojistiğin yeni fazını</strong> temsil ediyor. Amazon, robotik inovasyonun sınırlarını hem fiziksel esneklik hem de sosyal uyum açısından genişleterek, <strong>tam otomatik teslimat ekosistemine</strong> bir adım daha yaklaşıyor.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
   <li><p>Humanoid robotlar insan merkezli ortamlarda test edilir.</p></li>
-  <li><p>İkili yürüyüş ve kavrama zorlukları kritik olmaktadır.</p></li>
+  <li><p>İkili yürüyüş ve kavrama zorlukları kritik oluyordır.</p></li>
   <li><p>Güvenlik ve izin süreçleri belirleyicidir.</p></li>
   <li><p>Drone/AMR ağlarıyla tamamlayıcıdır.</p></li>
   <li><p>Kapı eşiği otomasyonu yeni fazdır.</p></li>

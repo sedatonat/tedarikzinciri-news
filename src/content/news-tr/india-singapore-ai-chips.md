@@ -28,15 +28,15 @@ tags:
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Bölgesel entegrasyon yalnızca üretim odaklı değil; aynı zamanda <strong>EDA (Electronic Design Automation)</strong> toolchain’leri, <strong>IP licensing ekosistemi</strong> ve <strong>üniversite–sanayi iş birlikleri</strong> ile destekleniyor. Bu yapılar, inovasyonun sürekliliğini ve yeni nesil çip tasarımlarının hızla ticarileşmesini mümkün kılıyor.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Sonuç olarak, Hindistan ve Singapur arasındaki bu derinleşen iş birliği, <strong>AI donanımı tedarik zincirinde arz güvenliği, inovasyon hızı ve üretim esnekliğini artırma</strong> potansiyeli taşımakta. Asya’nın yarı iletken coğrafyasında yeni bir denge unsuru oluşturarak, küresel teknoloji rekabetinde bölgesel dayanıklılığı güçlendirmektedir.</p>
+<p style="text-align: justify">Sonuç olarak, Hindistan ve Singapur arasındaki bu derinleşen iş birliği, <strong>AI donanımı tedarik zincirinde arz güvenliği, inovasyon hızı ve üretim esnekliğini artırma</strong> potansiyeli taşıyor. Asya’nın yarı iletken coğrafyasında yeni bir denge unsuru oluşturarak, küresel teknoloji rekabetinde bölgesel dayanıklılığı güçlendiriyordir.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
   <li><p>İş birliği design–OSAT–talent eksenindedir.</p></li>
   <li><p>Singapur paketleme ve lojistikte güçlüdür.</p></li>
-  <li><p>Hindistan teşviklerle kapasite inşa etmektedir.</p></li>
-  <li><p>Friend-shoring tarife riskini hafifletmektedir.</p></li>
-  <li><p>EDA ve IP ekosistemi yeniliği hızlandırmaktadır.</p></li>
+  <li><p>Hindistan teşviklerle kapasite inşa ediyordir.</p></li>
+  <li><p>Friend-shoring tarife riskini hafiflediyordir.</p></li>
+  <li><p>EDA ve IP ekosistemi yeniliği hızlandırıyordır.</p></li>
 </ul>
 <p>----------</p>
 <p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42435-india-and-singapore-deepen-ai-chips-ties-as-us-tariff-risks-grow"><u>https://www.supplychainbrain.com/articles/42435-india-and-singapore-deepen-ai-chips-ties-as-us-tariff-risks-grow</u></a></p>

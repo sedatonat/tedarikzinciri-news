@@ -19,9 +19,9 @@ tags:
 - crowdsourced delivery
 - müşteri deneyimi
 ---
-<p>Last mile delivery, e-ticarette müşteri memnuniyetinin belirleyici aşamasıdır. Makale, AI routing, parcel lockers, ve crowdsourced delivery modellerini incelemektedir. Predictive delivery windows, teslimat başarısını artırmaktadır. Customer communication platforms, teslimat sürecinde gerçek zamanlı bilgilendirme sağlamaktadır.&nbsp;</p>
+<p>Last mile delivery, e-ticarette müşteri memnuniyetinin belirleyici aşamasıdır. Makale, AI routing, parcel lockers, ve crowdsourced delivery modellerini inceliyordir. Predictive delivery windows, teslimat başarısını artırıyordır. Customer communication platforms, teslimat sürecinde gerçek zamanlı bilgilendirme sağlıyordır.&nbsp;</p>
 <p><br></p>
-<p>Sonuç olarak, teknolojik yenilikler son kilometreyi stratejik bir rekabet alanına dönüştürmektedir.</p>
+<p>Sonuç olarak, teknolojik yenilikler son kilometreyi stratejik bir rekabet alanına dönüştürüyordir.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 1. AI routing teslimat doğruluğunu artırır.<br>

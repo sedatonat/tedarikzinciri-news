@@ -23,17 +23,17 @@ tags:
 <p><br></p>
 <p style="text-align: justify"><strong>ONE Susannah</strong>, 2019 yılında inşa edilmiş, 14.052 TEU kapasiteli ve 364 metre uzunluğunda bir konteyner gemisidir. <strong>Maersk Kalamata</strong> ise 2008 yılında inşa edilmiş, 8.400 TEU kapasiteli ve 335 metre uzunluğundadır. Çarpışmanın ardından her iki gemi de limanda incelemeye alındı ve hasar tespit çalışmaları başlatıldı.</p>
 <p><br></p>
-<p style="text-align: justify">Kazanın nedeni henüz kesinleşmemiş olup, Hong Kong Denizcilik Departmanı tarafından soruşturma başlatıldı. İlk bulgular, <strong>ONE Susannah</strong>'nın yanaşma manevrası sırasında kontrolünü kaybettiğini ve bu nedenle çarpışmanın meydana geldiğini göstermektedir. Mürettebat üyeleri arasında yaralanma bildirilmemiştir.</p>
+<p style="text-align: justify">Kazanın nedeni henüz kesinleşmemiş olup, Hong Kong Denizcilik Departmanı tarafından soruşturma başlatıldı. İlk bulgular, <strong>ONE Susannah</strong>'nın yanaşma manevrası sırasında kontrolünü kaybettiğini ve bu nedenle çarpışmanın meydana geldiğini gösteriyordir. Mürettebat üyeleri arasında yaralanma bildirilmemiştir.</p>
 <p><br></p>
-<p style="text-align: justify">Bu tür kazalar, liman operasyonlarının karmaşıklığını ve deniz trafiğinin yoğunluğunu bir kez daha gözler önüne sermektedir. Liman yetkilileri, benzer olayların önlenmesi için güvenlik protokollerini gözden geçirmekte ve gerekli önlemleri almaktadır.</p>
+<p style="text-align: justify">Bu tür kazalar, liman operasyonlarının karmaşıklığını ve deniz trafiğinin yoğunluğunu bir kez daha gözler önüne seriyordir. Liman yetkilileri, benzer olayların önlenmesi için güvenlik protokollerini gözden geçiriyor ve gerekli önlemleri alıyordır.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>ONE Susannah</strong> ve <strong>Maersk Kalamata</strong> Hong Kong limanında çarpıştı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Her iki gemide de yapısal hasar meydana geldi.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Kazanın nedeni araştırılmaktadır.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Kazanın nedeni araştırılıyordır.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Mürettebatta yaralanma bildirilmemiştir.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Liman yetkilileri güvenlik protokollerini gözden geçirmektedir.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Liman yetkilileri güvenlik protokollerini gözden geçiriyordir.</p></li>
 </ul>
 <p><br></p>
 <p><strong>Çarpışma ile alakalı detaylı sunuma aşağıdaki youtube linkinden ulaşabilirsiniz:</strong></p>

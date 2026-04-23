@@ -19,7 +19,7 @@ tags:
 - J.B. Hunt
 - Bridgestone
 ---
-<p>Autonom sürüş teknolojisinde öne çıkan bir şirket olan Kodiak Robotics, sürücüsüz kamyonlarının toplamda 50.000 mil kat ettiğini açıkladı. Bu başarı, şirketin otonom sürüş teknolojisini gerçek dünya koşullarında nasıl güvenli ve verimli bir şekilde uygulayabildiğini göstermektedir. Kodiak'ın bu kilometre taşı, Bridgestone’un binek araç lastiklerini, South Carolina ile Dallas arasında J.B. Hunt ile yapılan bir anlaşma kapsamında taşırken gerçekleşti. Bu rota, otonom araçların uzun mesafeli taşımacılıkta ne kadar etkili olabileceğini kanıtlayan önemli bir test alanı oldu.</p>
+<p>Autonom sürüş teknolojisinde öne çıkan bir şirket olan Kodiak Robotics, sürücüsüz kamyonlarının toplamda 50.000 mil kat ettiğini açıkladı. Bu başarı, şirketin otonom sürüş teknolojisini gerçek dünya koşullarında nasıl güvenli ve verimli bir şekilde uygulayabildiğini gösteriyordir. Kodiak'ın bu kilometre taşı, Bridgestone’un binek araç lastiklerini, South Carolina ile Dallas arasında J.B. Hunt ile yapılan bir anlaşma kapsamında taşırken gerçekleşti. Bu rota, otonom araçların uzun mesafeli taşımacılıkta ne kadar etkili olabileceğini kanıtlayan önemli bir test alanı oldu.</p>
 <p><br></p>
 <p>Şirket, “Kodiak Driver” adı verilen otonom sürüş sistemini kullanarak sürüş esnasında insan müdahalesine ihtiyaç duymadan bu mesafeyi kat etti. Bu sistem, ileri teknoloji sensörler ve yapay zeka destekli algoritmalarla donatılmış olup, çevreyi sürekli tarayarak güvenli sürüşü sağlıyor. Şirket, bu teknoloji sayesinde ticari taşımacılık sektörünün verimliliğini artırmayı ve güvenlik standartlarını yükseltmeyi hedefliyor.</p>
 <p><br></p>

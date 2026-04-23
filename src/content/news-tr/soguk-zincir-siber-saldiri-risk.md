@@ -37,18 +37,18 @@ tags:
  <strong>“These are not just coding oversights. They represent structural risks that can persist in OT environments for years.”</strong></p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Sorun Nerede Başladı?</strong></h3>
-<p style="text-align: justify">Armis’in amacı başlangıçta belirli bir cihazı “hacklemek” değildi. Ekip, Copeland kontrolörlerinin bağlandığı ağlarda <strong>hangi cihazların aktif olduğunu</strong> ve bu cihazların <strong>network traffic</strong> davranışlarını incelemekteydi. İlk alarm, bir kontrolörün web arayüzünde yanlış bir komut girildiğinde <strong>cihazın tamamen çökmesiyle</strong> ortaya çıktı. Bu olay, daha derin bir analiz yapılmasına ve Frostbyte 10’un keşfine yol açtı.</p>
+<p style="text-align: justify">Armis’in amacı başlangıçta belirli bir cihazı “hacklemek” değildi. Ekip, Copeland kontrolörlerinin bağlandığı ağlarda <strong>hangi cihazların aktif olduğunu</strong> ve bu cihazların <strong>network traffic</strong> davranışlarını inceliyorydi. İlk alarm, bir kontrolörün web arayüzünde yanlış bir komut girildiğinde <strong>cihazın tamamen çökmesiyle</strong> ortaya çıktı. Bu olay, daha derin bir analiz yapılmasına ve Frostbyte 10’un keşfine yol açtı.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>E2 ve E3 Kontrolörlerindeki Kritik Açıklar</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>E2 Controller:</strong><br>
-Artık <strong>end-of-support</strong> aşamasında olan bu eski model, <strong>proprietary protocol</strong> kullanmakta. Bu protokol, <strong>kimlik doğrulama (authentication)</strong> veya <strong>encryption</strong> olmadan sisteme erişime izin veriyor. Bu da saldırganların hiçbir ek engelle karşılaşmadan sisteme girebilmesi anlamına geliyor.</p></li>
+Artık <strong>end-of-support</strong> aşamasında olan bu eski model, <strong>proprietary protocol</strong> kullanıyor. Bu protokol, <strong>kimlik doğrulama (authentication)</strong> veya <strong>encryption</strong> olmadan sisteme erişime izin veriyor. Bu da saldırganların hiçbir ek engelle karşılaşmadan sisteme girebilmesi anlamına geliyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>E3 Controller:</strong><br>
 Daha yeni olan E3 modelinde tespit edilen dokuz güvenlik açığı ise çoğunlukla <strong>password ve login mechanisms</strong> ile ilgili. Garbuz’a göre bazı <strong>administrative passwords</strong> son derece tahmin edilebilir yapıdaydı. Bu mekanizmalar Copeland tarafından bilerek eklenmiş olsa da, yeterince güvenli hâle getirilmemişti.</p></li>
 </ul>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Soğuk Zincir İçin Olası Sonuçlar</strong></h3>
-<p style="text-align: justify">Soğuk zincir altyapısında kullanılan kontrol sistemleri; depolar, süpermarketler, dağıtım merkezleri ve ilaç saklama tesisleri gibi kritik noktalarda görev yapmakta. Bu sistemlere erişim sağlayan bir saldırgan:</p>
+<p style="text-align: justify">Soğuk zincir altyapısında kullanılan kontrol sistemleri; depolar, süpermarketler, dağıtım merkezleri ve ilaç saklama tesisleri gibi kritik noktalarda görev yapıyor. Bu sistemlere erişim sağlayan bir saldırgan:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">ürünleri fark edilmeden bozabilir,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">sıcaklık kayıtlarını manipüle edebilir,</p></li>
@@ -59,17 +59,17 @@ Daha yeni olan E3 modelinde tespit edilen dokuz güvenlik açığı ise çoğunl
  <strong>“As in any cyberattack, people forget that anything is a computer.”</strong></p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Armis’in Tavsiyeleri</strong></h3>
-<p style="text-align: justify">Armis Labs, bu tür riskleri azaltmak için şirketlere şu önlemleri tavsiye etmekte:</p>
+<p style="text-align: justify">Armis Labs, bu tür riskleri azaltmak için şirketlere şu önlemleri tavsiye ediyor:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>OT–IT network segregation:</strong> Operasyonel sistemlerin geleneksel IT ağlarından ayrılması.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Comprehensive risk assessments:</strong> Tüm bağlı cihazlar için düzenli güvenlik değerlendirmeleri yapılması.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Regular vulnerability scanning:</strong> Donanım ve yazılım seviyesinde sürekli tarama.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Immediate mitigation actions:</strong> Açıklar tespit edildiğinde gecikmeden düzeltici önlemler alınması.</p></li>
 </ul>
-<p style="text-align: justify">Armis, Copeland kontrolörlerindeki açıkların <strong>cihaza özgü</strong> olduğunu kabul etmekle birlikte, asıl mesajın daha geniş olduğunu vurguluyor: <strong>bağlantılı her cihaz, potansiyel bir saldırı yüzeyi</strong> oluşturmakta.</p>
+<p style="text-align: justify">Armis, Copeland kontrolörlerindeki açıkların <strong>cihaza özgü</strong> olduğunu kabul etmekle birlikte, asıl mesajın daha geniş olduğunu vurguluyor: <strong>bağlantılı her cihaz, potansiyel bir saldırı yüzeyi</strong> oluşturuyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Stratejik Değerlendirme</strong></h3>
-<p style="text-align: justify">Bu vaka, soğuk zincirin yalnızca fiziksel değil, aynı zamanda <strong>siber dayanıklılık</strong> açısından da korunması gerektiğini açıkça göstermekte. Gıda güvenliği, ilaç lojistiği ve perishable ürün tedariki; artık yalnızca sıcaklık sensörlerine değil, <strong>cybersecurity governance</strong>’a da bağlı hâle gelmiş durumda.</p>
+<p style="text-align: justify">Bu vaka, soğuk zincirin yalnızca fiziksel değil, aynı zamanda <strong>siber dayanıklılık</strong> açısından da korunması gerektiğini açıkça gösteriyor. Gıda güvenliği, ilaç lojistiği ve perishable ürün tedariki; artık yalnızca sıcaklık sensörlerine değil, <strong>cybersecurity governance</strong>’a da bağlı hâle gelmiş durumda.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar:</strong></h3>
 <ul>

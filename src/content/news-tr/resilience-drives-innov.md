@@ -19,20 +19,20 @@ tags:
 - kaizen
 - risk yönetimi
 ---
-<p>Tedarik zinciri dayanıklılığı, yalnızca kriz anlarında değil, sürekli gelişim ve inovasyon süreçlerinde de itici bir güç olmakta.&nbsp;</p>
+<p>Tedarik zinciri dayanıklılığı, yalnızca kriz anlarında değil, sürekli gelişim ve inovasyon süreçlerinde de itici bir güç oluyor.&nbsp;</p>
 <p><br></p>
-<p>Evrimsel yaklaşım, küçük ama sürekli iyileştirmelerin (kaizen) biriktikçe büyük kırılmaları absorbe eden bir sistem davranışı yarattığını göstermekte. Kurumlar, modular network design, decoupling points, ve strategic buffers ile şok emici bir mimari kurmakta. Continuous sensing ve event management kabiliyetleri, olguları erken tespit ederek hızlı karşı önlem alınmasına imkan tanımakta.&nbsp;</p>
+<p>Evrimsel yaklaşım, küçük ama sürekli iyileştirmelerin (kaizen) biriktikçe büyük kırılmaları absorbe eden bir sistem davranışı yarattığını gösteriyor. Kurumlar, modular network design, decoupling points, ve strategic buffers ile şok emici bir mimari kuruyor. Continuous sensing ve event management kabiliyetleri, olguları erken tespit ederek hızlı karşı önlem alınmasına imkan tanıyor.&nbsp;</p>
 <p><br></p>
-<p>Teknoloji tarafında digital twins, control towers ve AI-augmented planning, dinamik kapasite ve talep eşleştirmesini mümkün kılmakta. İnsan boyutunda, cross-training, distributed decision rights ve empowered teams, değişken koşullarda çevik tepkiyi desteklemekte. Finansal dayanıklılık, cash-to-cash ve working capital disiplinleri ile güçlenmekte; riskler hedging ve sigorta araçlarıyla dengelenmekte.&nbsp;</p>
+<p>Teknoloji tarafında digital twins, control towers ve AI-augmented planning, dinamik kapasite ve talep eşleştirmesini mümkün kılıyor. İnsan boyutunda, cross-training, distributed decision rights ve empowered teams, değişken koşullarda çevik tepkiyi destekliyor. Finansal dayanıklılık, cash-to-cash ve working capital disiplinleri ile güçleniyor; riskler hedging ve sigorta araçlarıyla dengeleniyor.&nbsp;</p>
 <p><br></p>
-<p>Sonuç olarak, dayanıklılık ile inovasyon birbirini beslemekte; şoklar karşısında sadece eski düzene dönmek yerine daha rekabetçi bir düzleme evrilme kapasitesi oluşmakta.</p>
+<p>Sonuç olarak, dayanıklılık ile inovasyon birbirini beslemekte; şoklar karşısında sadece eski düzene dönmek yerine daha rekabetçi bir düzleme evrilme kapasitesi oluşuyor.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
-1. Evrimsel iyileştirmeler uzun vadeli dayanıklılık yaratmakta.<br>
-2. Digital twins ve control towers görünürlüğü artırmakta.<br>
-3. Yetki dağıtımı çevik tepkiyi hızlandırmakta.<br>
-4. Finansal disiplin şokları yumuşatmakta.<br>
-5. Dayanıklılık inovasyonu tetiklemekte.</p>
+1. Evrimsel iyileştirmeler uzun vadeli dayanıklılık yaratıyor.<br>
+2. Digital twins ve control towers görünürlüğü artırıyor.<br>
+3. Yetki dağıtımı çevik tepkiyi hızlandırıyor.<br>
+4. Finansal disiplin şokları yumuşatıyor.<br>
+5. Dayanıklılık inovasyonu tetikliyor.</p>
 <p><br>
 ---<br>
 <strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/38356-supply-chain-resiliency-driving-innovation-through-evolution"><u>https://www.supplychainbrain.com/articles/38356-supply-chain-resiliency-driving-innovation-through-evolution</u></a><br>

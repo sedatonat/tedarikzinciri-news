@@ -19,12 +19,12 @@ tags:
 - maliyet tasarrufu
 - dijital dönüşüm
 ---
-<p>Gartner raporuna göre, 2025 sonuna kadar genel amaçlı yapay zeka (GenAI) projelerinin en az yüzde 30'u, yetersiz veri kalitesi, yetersiz risk kontrolü, artan maliyetler ve belirsiz iş değeri gibi nedenlerle başlangıç aşamasından sonra terkedilecek. Rita Sallam, yüksek beklentilere rağmen, şirketlerin yatırımlarından somut geri dönüşler göremediklerini belirtiyor. Ancak erken benimseyen bazı şirketlerin, gelirde %15.8 artış ve maliyetlerde %15.2 tasarruf gibi iş geliştirmeleri bildirdiği de görülmekte.</p>
+<p>Gartner raporuna göre, 2025 sonuna kadar genel amaçlı yapay zeka (GenAI) projelerinin en az yüzde 30'u, yetersiz veri kalitesi, yetersiz risk kontrolü, artan maliyetler ve belirsiz iş değeri gibi nedenlerle başlangıç aşamasından sonra terkedilecek. Rita Sallam, yüksek beklentilere rağmen, şirketlerin yatırımlarından somut geri dönüşler göremediklerini belirtiyor. Ancak erken benimseyen bazı şirketlerin, gelirde %15.8 artış ve maliyetlerde %15.2 tasarruf gibi iş geliştirmeleri bildirdiği de görülüyor.</p>
 <p><br></p>
 <h5>Önemli Notlar:</h5>
 <ol>
   <li><p>GenAI projeleri yüksek başlangıç maliyetleri ve belirsiz iş değeri nedeniyle risk taşıyor.</p></li>
-  <li><p>Şirketler, yatırımların dolaylı mali getirilerini doğrudan finansal faydalara dönüştürmekte zorlanıyor.</p></li>
+  <li><p>Şirketler, yatırımların dolaylı mali getirilerini doğrudan finansal faydalara dönüştürüyor zorlanıyor.</p></li>
   <li><p>Erken benimseyenlerin bazıları gelir ve verimlilikte önemli iyileşmeler bildiriyor.</p></li>
 </ol>
 <p><br></p>

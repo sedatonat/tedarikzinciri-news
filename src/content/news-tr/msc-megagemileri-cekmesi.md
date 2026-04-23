@@ -19,17 +19,17 @@ tags:
 - slot değişimi
 - Alphaliner
 ---
-<p style="text-align: justify"><strong>Mediterranean Shipping Co. (MSC)</strong>, <strong>Alphaliner</strong>'ın analizine göre, Asya-Kuzey Avrupa hattındaki megagemilerini daha küçük tonajlı gemilerle değiştirerek kapasiteyi azaltma ve yıl başından bu yana düşüş eğiliminde olan navlun oranları üzerindeki baskıyı hafifletme stratejisi izlemekte.</p>
+<p style="text-align: justify"><strong>Mediterranean Shipping Co. (MSC)</strong>, <strong>Alphaliner</strong>'ın analizine göre, Asya-Kuzey Avrupa hattındaki megagemilerini daha küçük tonajlı gemilerle değiştirerek kapasiteyi azaltma ve yıl başından bu yana düşüş eğiliminde olan navlun oranları üzerindeki baskıyı hafifletme stratejisi izliyor.</p>
 <p><br></p>
-<p style="text-align: justify">Bu değişiklik, <strong>MSC</strong>'nin bağımsız bir taşıyıcı olarak operasyonlarını yeniden yapılandırdığı bir döneme denk gelmekte. <strong>Maersk</strong> ile olan <strong>2M</strong> ortaklığının sona ermesinin ardından, <strong>MSC</strong>, <strong>Ocean Network Express (ONE)</strong>, <strong>HMM</strong> ve <strong>Yang Ming Marine Transportation</strong> ile Asya-Avrupa ticaretinde slot değişimi anlaşması yaparak dokuz servisi kapsayan yeni bir iş birliğine gitmekte.</p>
+<p style="text-align: justify">Bu değişiklik, <strong>MSC</strong>'nin bağımsız bir taşıyıcı olarak operasyonlarını yeniden yapılandırdığı bir döneme denk geliyor. <strong>Maersk</strong> ile olan <strong>2M</strong> ortaklığının sona ermesinin ardından, <strong>MSC</strong>, <strong>Ocean Network Express (ONE)</strong>, <strong>HMM</strong> ve <strong>Yang Ming Marine Transportation</strong> ile Asya-Avrupa ticaretinde slot değişimi anlaşması yaparak dokuz servisi kapsayan yeni bir iş birliğine gidiyor.</p>
 <p><br></p>
-<p style="text-align: justify">Bu stratejik hamleler, <strong>MSC</strong>'nin kapasite yönetimi ve piyasa koşullarına uyum sağlama çabalarının bir parçası olarak görülmekte. Küresel konteyner taşımacılığı pazarındaki dalgalanmalar ve arz fazlası, taşıyıcıları daha esnek ve verimli operasyonel kararlar almaya yönlendirmekte.​</p>
+<p style="text-align: justify">Bu stratejik hamleler, <strong>MSC</strong>'nin kapasite yönetimi ve piyasa koşullarına uyum sağlama çabalarının bir parçası olarak görülüyor. Küresel konteyner taşımacılığı pazarındaki dalgalanmalar ve arz fazlası, taşıyıcıları daha esnek ve verimli operasyonel kararlar almaya yönlendiriyor.​</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>MSC</strong>, Asya-Kuzey Avrupa hattındaki megagemilerini daha küçük gemilerle değiştirerek kapasiteyi azaltmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Maersk</strong> ile olan <strong>2M</strong> ortaklığının sona ermesinin ardından, <strong>MSC</strong>, <strong>ONE</strong>, <strong>HMM</strong> ve <strong>Yang Ming Marine Transportation</strong> ile slot değişimi anlaşması yaparak dokuz servisi kapsayan yeni bir iş birliğine gitmekte.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Bu hamleler, <strong>MSC</strong>'nin kapasite yönetimi ve piyasa koşullarına uyum sağlama çabalarının bir parçası olarak görülmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>MSC</strong>, Asya-Kuzey Avrupa hattındaki megagemilerini daha küçük gemilerle değiştirerek kapasiteyi azaltıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Maersk</strong> ile olan <strong>2M</strong> ortaklığının sona ermesinin ardından, <strong>MSC</strong>, <strong>ONE</strong>, <strong>HMM</strong> ve <strong>Yang Ming Marine Transportation</strong> ile slot değişimi anlaşması yaparak dokuz servisi kapsayan yeni bir iş birliğine gidiyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Bu hamleler, <strong>MSC</strong>'nin kapasite yönetimi ve piyasa koşullarına uyum sağlama çabalarının bir parçası olarak görülüyor.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

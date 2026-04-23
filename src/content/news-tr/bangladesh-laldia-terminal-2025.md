@@ -19,9 +19,9 @@ tags:
 - yeşil liman
 - KÖİ
 ---
-<p style="text-align: justify">Bangladeş hükümeti, ülkenin en büyük limanı olan <strong>Chattogram</strong> için kritik öneme sahip <strong>Laldia Container Terminal projesi</strong>ni resmen onayladı. Toplam <strong>550 milyon doların üzerinde değere sahip</strong> proje, Bangladeş’in bugüne kadarki en büyük Kamu–Özel Sektör İşbirliği (<strong>PPP</strong>) yatırımlarından biri olarak öne çıkmakta.</p>
+<p style="text-align: justify">Bangladeş hükümeti, ülkenin en büyük limanı olan <strong>Chattogram</strong> için kritik öneme sahip <strong>Laldia Container Terminal projesi</strong>ni resmen onayladı. Toplam <strong>550 milyon doların üzerinde değere sahip</strong> proje, Bangladeş’in bugüne kadarki en büyük Kamu–Özel Sektör İşbirliği (<strong>PPP</strong>) yatırımlarından biri olarak öne çıkıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Anlaşma, <strong>Chittagong Port Authority</strong>, <strong>APM Terminals (APMT)</strong> ve yerel ortak <strong>QNS Container Services Ltd.</strong> arasında imzalandı. APMT’ye verilen <strong>30 yıllık işletme imtiyazı</strong>, performans kriterlerine bağlı olmak üzere uzatılabilecek. Terminalin finansmanı, tasarımı, inşası ve işletmesi tamamen yatırımcılar tarafından üstlenilecek; bu model Bangladeş liman altyapısı için bir ilk olma özelliği taşımakta.</p>
+<p style="text-align: justify">Anlaşma, <strong>Chittagong Port Authority</strong>, <strong>APM Terminals (APMT)</strong> ve yerel ortak <strong>QNS Container Services Ltd.</strong> arasında imzalandı. APMT’ye verilen <strong>30 yıllık işletme imtiyazı</strong>, performans kriterlerine bağlı olmak üzere uzatılabilecek. Terminalin finansmanı, tasarımı, inşası ve işletmesi tamamen yatırımcılar tarafından üstlenilecek; bu model Bangladeş liman altyapısı için bir ilk olma özelliği taşıyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Danimarka–Bangladeş “Sustainable Green Framework” kapsamında stratejik bir proje</strong></h4>
 <p style="text-align: justify">Laldia Terminali, Danimarka ile Bangladeş arasında yürütülen <strong>Sustainable Green Framework Engagement</strong> programının bir parçası. Program, Bangladeş’in uzun vadeli ekonomik büyümesine katkı sağlayacak <strong>yeşil yatırım projeleri</strong>ni teşvik etmeyi amaçlıyor.</p>
@@ -35,13 +35,13 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Kıyı derinliği sayesinde <strong>6.000 TEU’ya kadar gemileri</strong> ağırlayabilecek (mevcut limit: 2.800 TEU),</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Böylece hem <strong>kongenyonu azaltacak</strong> hem de <strong>lojistik maliyetleri düşürecek</strong>.</p></li>
 </ul>
-<p style="text-align: justify">Bangladeş, ihracatının büyük bölümünü hazır giyim, tekstil ve hafif imalat sektörlerinden elde etmekte. Terminal, bu sektörlerin küresel pazarlara bağlanma hızını ve güvenilirliğini doğrudan artıracak.</p>
+<p style="text-align: justify">Bangladeş, ihracatının büyük bölümünü hazır giyim, tekstil ve hafif imalat sektörlerinden elde ediyor. Terminal, bu sektörlerin küresel pazarlara bağlanma hızını ve güvenilirliğini doğrudan artıracak.</p>
 <p style="text-align: justify">Yerel yetkililer projeyi;</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>şeffaflık</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>kapasite artışı</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>rekabetçi liman performansı</strong><br>
-adı altında stratejik bir atılım olarak tanımlamakta.</p></li>
+adı altında stratejik bir atılım olarak tanımlıyor.</p></li>
 </ul>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Yeşil liman özellikleri: Güney Asya’nın en düşük emisyonlu tesislerinden biri</strong></h4>
@@ -53,7 +53,7 @@ adı altında stratejik bir atılım olarak tanımlamakta.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Hibrit RTG vinçleri</strong> (ilk dört adet GENMA tarafından sevk edildi),</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Düşük gürültü ve hava kirliliği sağlayan tasarımlar.</p></li>
 </ul>
-<p style="text-align: justify">Bu uygulamalar, hem <strong>GHG emisyonlarını düşürmekte</strong> hem de terminal çevresinde yaşayan topluluklar için daha sağlıklı bir çevre yaratmakta.</p>
+<p style="text-align: justify">Bu uygulamalar, hem <strong>GHG emisyonlarını düşürüyor</strong> hem de terminal çevresinde yaşayan topluluklar için daha sağlıklı bir çevre yaratıyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>İstihdam ve yerel ekonomi için güçlü bir kaldıraç</strong></h4>
 <p style="text-align: justify">Proje:</p>
@@ -62,7 +62,7 @@ adı altında stratejik bir atılım olarak tanımlamakta.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Operasyon döneminde <strong>500’den fazla</strong><br>
 doğrudan istihdam yaratacak.</p></li>
 </ul>
-<p style="text-align: justify">Buna ek olarak, tedarik zinciri boyunca yüzlerce ek iş alanı açılması beklenmekte. Terminal kapsamında yerel iş gücü için <strong>eğitim ve çıraklık programları</strong> planlanmakta; bu da Bangladeş’in liman işletmeciliği ve lojistik alanındaki beceri havuzunu güçlendirecek.</p>
+<p style="text-align: justify">Buna ek olarak, tedarik zinciri boyunca yüzlerce ek iş alanı açılması bekleniyor. Terminal kapsamında yerel iş gücü için <strong>eğitim ve çıraklık programları</strong> planlanıyor; bu da Bangladeş’in liman işletmeciliği ve lojistik alanındaki beceri havuzunu güçlendirecek.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Önemli Notlar</strong></h4>
 <ul>

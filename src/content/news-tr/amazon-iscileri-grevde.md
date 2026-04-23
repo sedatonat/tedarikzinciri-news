@@ -27,9 +27,9 @@ tags:
 <p><br></p>
 <p>Grev, Amazon'un tatil sezonundaki teslimatlarını etkileyebilir. Özellikle New York bölgesindeki müşteriler, 1 ila 3 günlük teslimat gecikmeleri yaşayabilir. Uzmanlar, grevin Amazon'un genel operasyonları üzerinde sınırlı bir etki yaratacağını, ancak zamanlaması nedeniyle bazı aksamalara neden olabileceğini belirtiyor.</p>
 <p><br></p>
-<p>Amazon, sürücüleri üçüncü taraf şirketler aracılığıyla istihdam ederek doğrudan müzakere sorumluluğundan kaçınmaktadır. Ancak, sürücüler Amazon üniformaları giyip, Amazon kamyonları kullanarak çalıştıkları için kendilerini Amazon çalışanı olarak görmektedirler. Teamsters, bu sürücülerin <strong>Ulusal Çalışma İlişkileri Kurulu</strong> kararına göre ortak işveren statüsünde olduğunu savunmaktadır.</p>
+<p>Amazon, sürücüleri üçüncü taraf şirketler aracılığıyla istihdam ederek doğrudan müzakere sorumluluğundan kaçınmaktadır. Ancak, sürücüler Amazon üniformaları giyip, Amazon kamyonları kullanarak çalıştıkları için kendilerini Amazon çalışanı olarak görüyordirler. Teamsters, bu sürücülerin <strong>Ulusal Çalışma İlişkileri Kurulu</strong> kararına göre ortak işveren statüsünde olduğunu savunuyordır.</p>
 <p><br></p>
-<p>Grev, Amazon'un işçi hakları konusundaki tutumuna karşı artan bir tepkinin parçası olarak görülmektedir. Daha önce de Amazon işçileri, çalışma koşulları ve sendikalaşma hakları için çeşitli protestolar düzenlemişti. Bu grev, işçilerin taleplerini daha güçlü bir şekilde dile getirmeleri açısından önemli bir adım olarak değerlendiriliyor.</p>
+<p>Grev, Amazon'un işçi hakları konusundaki tutumuna karşı artan bir tepkinin parçası olarak görülüyordir. Daha önce de Amazon işçileri, çalışma koşulları ve sendikalaşma hakları için çeşitli protestolar düzenlemişti. Bu grev, işçilerin taleplerini daha güçlü bir şekilde dile getirmeleri açısından önemli bir adım olarak değerlendiriliyor.</p>
 <p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>

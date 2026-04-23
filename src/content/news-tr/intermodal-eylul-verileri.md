@@ -28,7 +28,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Toplam yurtiçi ekipman</strong> (römork + konteyner) hacmi <strong>%4,2 artarak 783.264 birime</strong> ulaştı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>ISO (uluslararası) konteyner taşımaları</strong> ise 767.335 birimle <strong>%0,6 artış</strong> gösterdi.</p></li>
 </ul>
-<p style="text-align: justify">Yılın ilk dokuz ayında toplam hacim <strong>13.891.972 birime</strong> ulaştı ve bu rakam geçen yılın aynı dönemine göre <strong>%3,8’lik bir artışı</strong> temsil etmekte. Bu dönemde <strong>römorklar %20,8 gerilerken</strong>, <strong>yurtiçi konteyner taşımaları %3,5 arttı</strong>. ISO konteynerler ise <strong>%5,5 artışla 7.102.111 birim</strong> seviyesine çıktı.</p>
+<p style="text-align: justify">Yılın ilk dokuz ayında toplam hacim <strong>13.891.972 birime</strong> ulaştı ve bu rakam geçen yılın aynı dönemine göre <strong>%3,8’lik bir artışı</strong> temsil ediyor. Bu dönemde <strong>römorklar %20,8 gerilerken</strong>, <strong>yurtiçi konteyner taşımaları %3,5 arttı</strong>. ISO konteynerler ise <strong>%5,5 artışla 7.102.111 birim</strong> seviyesine çıktı.</p>
 <p><br></p>
 <p style="text-align: justify">IANA’nın yayımladığı <strong>“Intermodal Quarterly”</strong> raporuna göre, <strong>ikinci çeyrek hacmi 4.579.798 birimle %2,4 arttı</strong>, bu da <strong>ardışık yedinci çeyreklik büyümeye</strong> işaret ediyor. Bu artış serisi, 2023–2024 döneminde yaşanan <strong>sekiz çeyrek üst üste düşüş trendinin ardından</strong> geldi. İlk çeyrekteki artış oranı ise <strong>%6,3</strong> olarak gerçekleşti.</p>
 <p><br></p>
@@ -42,7 +42,7 @@ tags:
 <p><br></p>
 <p style="text-align: justify"><strong>Gross Transportation Consulting Başkanı Larry Gross</strong> da benzer şekilde, <strong>hizmet seviyelerinin güçlü</strong> olduğunu ve <strong>demiryolu terminallerinde bekleyen tren sayısının tarihsel olarak düşük</strong> olduğunu söyledi. Gross, “Bu durum, sistemin yeterli mürettebat ve kaynakla çalıştığını gösteriyor. Tarifeler nedeniyle yaşanan dalgalanmalara rağmen sistem esnekliğini koruyor,” dedi. Ayrıca <strong>Los Angeles ve Long Beach limanlarının Temmuz’da rekor hacimlere</strong> ulaştığını, buna rağmen <strong>ağ genelinde tıkanıklık yaşanmadığını</strong> ekledi.</p>
 <p><br></p>
-<p style="text-align: justify">Genel tabloya bakıldığında, <strong>Eylül 2025 itibarıyla intermodal taşımacılık sektörü</strong>, <strong>yüksek maliyet baskısı ve ticaret belirsizliklerine rağmen istikrarlı büyümesini sürdürmekte</strong>. Analistler, <strong>ABD’nin tarif politikaları</strong> ve <strong>küresel tedarik zinciri dinamikleri</strong> nedeniyle önümüzdeki dönemde büyümenin <strong>ılımlı ama sürdürülebilir</strong> olacağı görüşünde.</p>
+<p style="text-align: justify">Genel tabloya bakıldığında, <strong>Eylül 2025 itibarıyla intermodal taşımacılık sektörü</strong>, <strong>yüksek maliyet baskısı ve ticaret belirsizliklerine rağmen istikrarlı büyümesini sürdürüyor</strong>. Analistler, <strong>ABD’nin tarif politikaları</strong> ve <strong>küresel tedarik zinciri dinamikleri</strong> nedeniyle önümüzdeki dönemde büyümenin <strong>ılımlı ama sürdürülebilir</strong> olacağı görüşünde.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>

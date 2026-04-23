@@ -19,21 +19,21 @@ tags:
 - soruşturma
 - sabotaj
 ---
-<p style="text-align: justify">Geçtiğimiz ay, İsveç makamları tarafından alıkonulan bir geminin sahibi olan Bulgar armatör, geminin denizaltı kablosuna zarar vermiş olabileceğini kabul etmekte; ancak, bu zararın kasıtlı olmadığını belirtmekte. ​<a href="https://shippingwatch.com/regulation/article17848231.ece" rel="noopener" target="_blank">shippingwatch.com</a></p>
+<p style="text-align: justify">Geçtiğimiz ay, İsveç makamları tarafından alıkonulan bir geminin sahibi olan Bulgar armatör, geminin denizaltı kablosuna zarar vermiş olabileceğini kabul ediyor; ancak, bu zararın kasıtlı olmadığını belirtiyor. ​<a href="https://shippingwatch.com/regulation/article17848231.ece" rel="noopener" target="_blank">shippingwatch.com</a></p>
 <p><br></p>
-<p style="text-align: justify">Olay, İsveç'in denizaltı iletişim altyapısında meydana gelen bir kesintiyle ilgili olarak gündeme gelmiş durumda. İsveç yetkilileri, denizaltı kablosunun hasar görmesi üzerine soruşturma başlatarak, olayla ilgili olabilecek gemileri incelemeye aldı. Bu kapsamda, söz konusu Bulgar gemisi de şüpheli olarak değerlendirilmekte.​</p>
+<p style="text-align: justify">Olay, İsveç'in denizaltı iletişim altyapısında meydana gelen bir kesintiyle ilgili olarak gündeme gelmiş durumda. İsveç yetkilileri, denizaltı kablosunun hasar görmesi üzerine soruşturma başlatarak, olayla ilgili olabilecek gemileri incelemeye aldı. Bu kapsamda, söz konusu Bulgar gemisi de şüpheli olarak değerlendiriliyor.​</p>
 <p><br></p>
-<p style="text-align: justify">Geminin sahibi olan Bulgar armatör, yaptığı açıklamada, geminin denizaltı kablosuna zarar vermiş olabileceğini kabul etmekte; ancak, bunun kasıtlı bir eylem olmadığını vurgulamakta. Armatör, olayın bir kaza sonucu meydana geldiğini ve herhangi bir sabotaj girişiminin söz konusu olmadığını ifade etmekte.​</p>
+<p style="text-align: justify">Geminin sahibi olan Bulgar armatör, yaptığı açıklamada, geminin denizaltı kablosuna zarar vermiş olabileceğini kabul ediyor; ancak, bunun kasıtlı bir eylem olmadığını vurguluyor. Armatör, olayın bir kaza sonucu meydana geldiğini ve herhangi bir sabotaj girişiminin söz konusu olmadığını ifade ediyor.​</p>
 <p><br></p>
-<p style="text-align: justify">İsveç makamları, olayla ilgili soruşturmayı derinleştirerek, geminin seyir kayıtlarını ve mürettebatın ifadelerini incelemekte. Ayrıca, denizaltı kablosunun hasar gördüğü bölgedeki deniz trafiği de mercek altına alınmakta. Soruşturmanın amacı, olayın nasıl meydana geldiğini ve sorumlularını tespit etmek.​</p>
+<p style="text-align: justify">İsveç makamları, olayla ilgili soruşturmayı derinleştirerek, geminin seyir kayıtlarını ve mürettebatın ifadelerini inceliyor. Ayrıca, denizaltı kablosunun hasar gördüğü bölgedeki deniz trafiği de mercek altına alınıyor. Soruşturmanın amacı, olayın nasıl meydana geldiğini ve sorumlularını tespit etmek.​</p>
 <p><br></p>
-<p style="text-align: justify">Denizaltı kabloları, ülkelerin iletişim altyapısının kritik bir parçası olup, bu tür olaylar ciddi ekonomik ve güvenlik riskleri doğurmakta. Bu nedenle, benzer kazaların önlenmesi için uluslararası denizcilik kurallarının ve denetimlerinin sıkılaştırılması gündeme gelmekte.​</p>
+<p style="text-align: justify">Denizaltı kabloları, ülkelerin iletişim altyapısının kritik bir parçası olup, bu tür olaylar ciddi ekonomik ve güvenlik riskleri doğuruyor. Bu nedenle, benzer kazaların önlenmesi için uluslararası denizcilik kurallarının ve denetimlerinin sıkılaştırılması gündeme geliyor.​</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">Bulgar armatör, gemisinin denizaltı kablosuna zarar vermiş olabileceğini kabul etmekte; ancak, bunun kasıtlı olmadığını belirtmekte.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">İsveç makamları, olayla ilgili soruşturmayı sürdürmekte ve geminin seyir kayıtlarını incelemekte.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Denizaltı kablolarına verilen zararlar, iletişim altyapısı için ciddi riskler oluşturmakta.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Bulgar armatör, gemisinin denizaltı kablosuna zarar vermiş olabileceğini kabul ediyor; ancak, bunun kasıtlı olmadığını belirtiyor.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">İsveç makamları, olayla ilgili soruşturmayı sürdürüyor ve geminin seyir kayıtlarını inceliyor.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Denizaltı kablolarına verilen zararlar, iletişim altyapısı için ciddi riskler oluşturuyor.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Benzer kazaların önlenmesi için uluslararası denizcilik kurallarının gözden geçirilmesi gündemde.</p></li>
 </ul>
 <p><br></p>

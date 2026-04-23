@@ -22,25 +22,25 @@ tags:
 ---
 <p style="text-align: justify"><strong>ABD’nin Çin denizcilik endüstrisini hedef alan yeni liman ücretleri</strong>, yürürlüğe girmesinin ardından <strong>ilk haftada Cosco Shipping ve bağlı şirketi OOCL’e (Orient Overseas Container Line) toplam 42 milyon doların üzerinde ek maliyet</strong> getirdi.</p>
 <p><br>
-<strong>Gemi takip verilerine</strong> göre, özellikle <strong>post-Panamax</strong> sınıfındaki gemiler bu ücretlerden en fazla etkilenenler arasında yer almakta.</p>
+<strong>Gemi takip verilerine</strong> göre, özellikle <strong>post-Panamax</strong> sınıfındaki gemiler bu ücretlerden en fazla etkilenenler arasında yer alıyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Post-Panamax Gemilere 3–4 Milyon Dolar Arası Ücret</strong></h5>
-<p style="text-align: justify">Yeni düzenleme kapsamında, <strong>Cosco ve OOCL’in ABD limanlarına uğrayan her bir büyük konteyner gemisi (post-Panamax class)</strong> için <strong>3 ila 4 milyon dolar</strong> arasında <strong>liman ücreti (port fee)</strong> uygulanmakta.<br>
-Bu durum, özellikle <strong>Los Angeles, Long Beach ve New York-New Jersey</strong> gibi yüksek hacimli limanlarda faaliyet gösteren gemi operatörleri için ciddi bir ek maliyet yaratmakta.</p>
+<p style="text-align: justify">Yeni düzenleme kapsamında, <strong>Cosco ve OOCL’in ABD limanlarına uğrayan her bir büyük konteyner gemisi (post-Panamax class)</strong> için <strong>3 ila 4 milyon dolar</strong> arasında <strong>liman ücreti (port fee)</strong> uygulanıyor.<br>
+Bu durum, özellikle <strong>Los Angeles, Long Beach ve New York-New Jersey</strong> gibi yüksek hacimli limanlarda faaliyet gösteren gemi operatörleri için ciddi bir ek maliyet yaratıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Cosco ve OOCL dışında, yalnızca <strong>bir küçük Çin merkezli hat operatörü</strong> ve <strong>beş Çin yapımı konteyner gemisi</strong> de bu ücretlerden etkilenmiş durumda. Ancak bu gemiler için toplam maliyetin yalnızca <strong>birkaç milyon dolar seviyesinde</strong> olduğu tahmin edilmekte.</p>
+<p style="text-align: justify">Cosco ve OOCL dışında, yalnızca <strong>bir küçük Çin merkezli hat operatörü</strong> ve <strong>beş Çin yapımı konteyner gemisi</strong> de bu ücretlerden etkilenmiş durumda. Ancak bu gemiler için toplam maliyetin yalnızca <strong>birkaç milyon dolar seviyesinde</strong> olduğu tahmin ediliyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Yıllık Maliyet 2 Milyar Doları Bulabilir</strong></h5>
 <p style="text-align: justify">Uzmanlara göre, mevcut trend devam ederse <strong>Cosco ve OOCL’in yıllık toplam ücret yükü 2 milyar dolara kadar</strong> çıkabilir.</p>
 <p><br>
-Bu tahmin, ABD hükümetinin liman ücretlerini <strong>Çin merkezli gemi yapımı ve taşımacılık faaliyetlerine yönelik ticaret kısıtlamalarının bir uzantısı</strong> olarak uygulamaya koyduğu iddialarını güçlendirmekte.</p>
+Bu tahmin, ABD hükümetinin liman ücretlerini <strong>Çin merkezli gemi yapımı ve taşımacılık faaliyetlerine yönelik ticaret kısıtlamalarının bir uzantısı</strong> olarak uygulamaya koyduğu iddialarını güçlendiriyor.</p>
 <p><br></p>
 <p style="text-align: justify">Yeni ücretlerin amacı, <strong>ABD limanlarında Çin yapımı veya Çin kontrolündeki gemilerin rekabet avantajını azaltmak.</strong></p>
 <p><br>
 Ancak, küresel taşımacılık uzmanları bu uygulamanın, <strong>yük taşıma maliyetlerini artırarak ABD ithalatçılarını da olumsuz etkileyebileceğini</strong> belirtiyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Kapsam ve İlk Sonuçlar</strong></h5>
-<p style="text-align: justify">ABD yönetimi tarafından ekim ayında yürürlüğe konulan liman ücretleri, öncelikle <strong>Çin’de inşa edilen veya Çin devletine ait operatörler tarafından işletilen gemileri</strong> hedef almakta.<br>
+<p style="text-align: justify">ABD yönetimi tarafından ekim ayında yürürlüğe konulan liman ücretleri, öncelikle <strong>Çin’de inşa edilen veya Çin devletine ait operatörler tarafından işletilen gemileri</strong> hedef alıyor.<br>
 Buna göre:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Cosco Shipping Lines</strong> (devlet kontrolünde) ve</p></li>
@@ -50,7 +50,7 @@ doğrudan etkilenen ana taşıyıcılar konumunda.</p></li>
 <p style="text-align: justify">Gemi takip verilerine göre, yalnızca ilk haftada bu iki operatörün <strong>ABD limanlarına toplam 12 sefer yaptığı</strong> ve bu seferler için ödenen ücretlerin toplamda <strong>42 milyon doları aştığı</strong> bildirildi.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Küresel Etkiler ve Sektörel Tepkiler</strong></h5>
-<p style="text-align: justify">Taşımacılık sektörü temsilcileri, söz konusu liman ücretlerinin <strong>küresel navlun zincirlerinde yeni bir maliyet basıncı</strong> oluşturabileceği uyarısında bulunmakta.</p>
+<p style="text-align: justify">Taşımacılık sektörü temsilcileri, söz konusu liman ücretlerinin <strong>küresel navlun zincirlerinde yeni bir maliyet basıncı</strong> oluşturabileceği uyarısında bulunuyor.</p>
 <p><br>
 Birçok analist, bu ücretlerin <strong>Trans-Pasifik rotalarında navlun fiyatlarını yukarı çekeceğini</strong> ve <strong>nihai tüketici fiyatlarına da yansıyabileceğini</strong> öngörüyor.</p>
 <p><br></p>
@@ -59,7 +59,7 @@ Birçok analist, bu ücretlerin <strong>Trans-Pasifik rotalarında navlun fiyatl
 Bu durum, özellikle <strong>Çin merkezli gemi üreticileri ve taşımacılık firmaları</strong> için <strong>pazar erişiminde yeni engeller</strong> yaratabilir.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Çin’in Muhtemel Karşı Hamleleri</strong></h5>
-<p style="text-align: justify">Pekin yönetiminin, bu gelişmeye karşı <strong>karşılıklı liman ücretleri veya idari kısıtlamalar</strong> getirebileceği tahmin edilmekte.</p>
+<p style="text-align: justify">Pekin yönetiminin, bu gelişmeye karşı <strong>karşılıklı liman ücretleri veya idari kısıtlamalar</strong> getirebileceği tahmin ediliyor.</p>
 <p><br>
 Nitekim 14 Ekim’de Çin, <strong>Hanwha Ocean’ın ABD bağlantılı beş iştirakine</strong> yönelik yaptırım kararını açıklamış ve bu kararın <strong>ABD’nin liman vergilerine bir yanıt</strong> olduğu yorumları yapılmıştı.</p>
 <p><br></p>
@@ -68,20 +68,20 @@ Nitekim 14 Ekim’de Çin, <strong>Hanwha Ocean’ın ABD bağlantılı beş iş
 <h5 style="text-align: justify"><strong>Sonuç: ABD-Çin Taşımacılık Gerilimi Yeni Bir Aşamaya Geçiyor</strong></h5>
 <p style="text-align: justify">ABD’nin uygulamaya koyduğu liman ücretleri, yalnızca Çinli taşıyıcıları değil, <strong>küresel konteyner taşımacılığı pazarını da</strong> etkileyecek boyutta.</p>
 <p><br>
- <strong>Cosco ve OOCL</strong> gibi dev taşımacılık hatlarının bu maliyetleri uzun vadede <strong>navlun fiyatlarına yansıtması beklenmekte.</strong></p>
+ <strong>Cosco ve OOCL</strong> gibi dev taşımacılık hatlarının bu maliyetleri uzun vadede <strong>navlun fiyatlarına yansıtması bekleniyor.</strong></p>
 <p><br></p>
 <p style="text-align: justify">Eğer iki ülke arasındaki ticaret gerilimi artarak devam ederse, <strong>küresel tedarik zincirlerinde yeni rota değişimleri</strong>, <strong>yük kaydırmaları (cargo rerouting)</strong> ve <strong>bölgesel kapasite dengesizlikleri</strong> kaçınılmaz hale gelebilir.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>ABD’nin yeni liman ücretleri</strong>, Çin’in denizcilik sektörünü hedef almakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>ABD’nin yeni liman ücretleri</strong>, Çin’in denizcilik sektörünü hedef alıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Cosco ve OOCL</strong>, uygulamanın ilk haftasında toplam <strong>42 milyon dolar ek maliyet</strong> üstlendi.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Ücretler, <strong>post-Panamax</strong> gemiler için <strong>3–4 milyon dolar</strong> arasında değişmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Ücretler, <strong>post-Panamax</strong> gemiler için <strong>3–4 milyon dolar</strong> arasında değişiyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Yıllık maliyetin <strong>2 milyar dolara kadar</strong> çıkabileceği öngörülüyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">ABD’nin amacı, Çin yapımı veya devlet bağlantılı gemilerin rekabet gücünü sınırlamak.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Uzmanlara göre, bu adım <strong>Trans-Pasifik navlun fiyatlarını</strong> ve <strong>küresel taşıma maliyetlerini</strong> yükseltebilir.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Çin’in, <strong>karşı yaptırımlar ve liman düzenlemeleriyle</strong> yanıt vermesi beklenmekte.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Gerilim, <strong>denizcilik ve lojistik sektöründe yeni bir ticaret savaşının</strong> işaretlerini vermekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Çin’in, <strong>karşı yaptırımlar ve liman düzenlemeleriyle</strong> yanıt vermesi bekleniyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Gerilim, <strong>denizcilik ve lojistik sektöründe yeni bir ticaret savaşının</strong> işaretlerini veriyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

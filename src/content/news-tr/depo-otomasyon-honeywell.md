@@ -20,7 +20,7 @@ tags:
 ---
 <p>Honeywell, artan e-ticaret gönderileri ve süregelen işgücü sıkıntıları gibi makro trendlerin pazar için olumlu olduğu bir dönemde, depo otomasyon işini güçlendirmeyi hedefliyor.&nbsp;</p>
 <p><br></p>
-<p>Analistler, 2022 ve 2023'teki yavaşlamanın ardından bu yıl depo otomasyon satışlarının artacağını öngörüyorlar. Honeywell'in Intelligrated biriminin baş ürün ve pazarlama sorumlusu Kevin Graebel, depo operatörlerinin büyük bir kısmının yeterli işgücü bulmakta zorlandığını ve bu nedenle otomasyon ihtiyacının süreceğini belirtiyor.</p>
+<p>Analistler, 2022 ve 2023'teki yavaşlamanın ardından bu yıl depo otomasyon satışlarının artacağını öngörüyorlar. Honeywell'in Intelligrated biriminin baş ürün ve pazarlama sorumlusu Kevin Graebel, depo operatörlerinin büyük bir kısmının yeterli işgücü buluyor zorlandığını ve bu nedenle otomasyon ihtiyacının süreceğini belirtiyor.</p>
 <p><br></p>
 <p>Honeywell, endüstriyel otomasyon da dahil olmak üzere birçok segment aracılığıyla faaliyet gösteriyor. Şirketin büyüme stratejisinin "gerçekten kritik" bir parçası depo otomasyonu ihtiyaçlarını karşılamak. Honeywell'in Intelligrated birimi, Çinli startup Hai Robotics ile ortaklık kurarak hizmet portföyünü güçlendirmeyi amaçlıyor. Bu ortaklık, Hai'nin robotik teknolojisini Honeywell'in Momentum depo yönetim yazılımı paketiyle birleştiriyor.</p>
 <p><br></p>

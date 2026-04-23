@@ -35,7 +35,7 @@ Kaynaklara göre bu vakaların çoğu <strong>yolcu gemilerinde (cruise ships)</
 <p style="text-align: justify">Büyükelçilik açıklamasında şu ifadelere yer verildi:</p>
 <blockquote style="text-align: justify">“Denizcilerimizin refahı birincil önceliğimizdir.<br>
 ABD’ye gelen Filipinli denizcilere adil ve şeffaf bir muamele sağlanması için Washington’daki muhataplarımızla aktif olarak temas halindeyiz.”</blockquote>
-<p style="text-align: justify">Açıklamada ayrıca, Manila yönetiminin <strong>sendikalar, armatörler ve liman acenteleriyle iş birliği içinde olayların doğrulanmış bir listesini oluşturmakta</strong> olduğu belirtildi.</p>
+<p style="text-align: justify">Açıklamada ayrıca, Manila yönetiminin <strong>sendikalar, armatörler ve liman acenteleriyle iş birliği içinde olayların doğrulanmış bir listesini oluşturuyor</strong> olduğu belirtildi.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Olası Neden: Yeni Vize Prosedürleri ve Güvenlik İncelemeleri</strong></h5>
 <p style="text-align: justify">Denizci giriş reddi olayları genellikle <strong>vize düzensizlikleri, belge uyuşmazlıkları veya liman devleti denetimlerinde (Port State Control) tespit edilen güvenlik endişeleriyle</strong> ilişkilendiriliyor.</p>
@@ -52,13 +52,13 @@ Ancak son dönemdeki artışın ölçeği, <strong>ABD’nin yeni tarama protoko
 <h5 style="text-align: justify"><strong>ABD Vize Politikalarındaki Değişim: Sektörü Zorluyor</strong></h5>
 <p style="text-align: justify"><strong>Splash</strong> tarafından elde edilen bilgilere göre, birçok <strong>gemi işletmecisi ve mürettebat yönetim firması</strong>, ABD vizeleri konusunda son aylarda ciddi zorluklar yaşıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Bu sorunlar, <strong>Donald Trump yönetimi</strong> tarafından imzalanan bir dizi <strong>başkanlık kararnamesinden</strong> kaynaklanmakta.</p>
+<p style="text-align: justify">Bu sorunlar, <strong>Donald Trump yönetimi</strong> tarafından imzalanan bir dizi <strong>başkanlık kararnamesinden</strong> kaynaklanıyor.</p>
 <p><br>
 Yeni düzenlemeler, uzun süredir uygulanan <strong>çok girişli (multiple-entry)</strong> denizci vizelerini kaldırarak, yerlerine <strong>tek girişli (single-entry)</strong> vizeleri getirdi.</p>
 <p style="text-align: justify">Bu sistem kapsamında:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Denizciler ilk ABD liman ziyaretinden sonra <strong>ülkelerine geri gönderilmekte</strong>,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Aynı gemide çalışmaya devam edebilmeleri için <strong>yeniden vize başvurusu yapmaları gerekmekte.</strong></p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Aynı gemide çalışmaya devam edebilmeleri için <strong>yeniden vize başvurusu yapmaları gerekiyor.</strong></p></li>
 </ul>
 <p style="text-align: justify">Ayrıca <strong>vize geçerlilik süreleri kısaltıldı</strong>, bu da <strong>Denizcilik Çalışma Sözleşmesi (MLC)</strong> kapsamındaki standart sözleşme süreleriyle çelişmekte.</p>
 <p><br>
@@ -76,7 +76,7 @@ Filipinli denizciler, küresel gemi mürettebatının <strong>yaklaşık %25’i
 <p><br>
 Manila hükümeti, <strong>diplomatik kanallar üzerinden çözüm arayışında</strong>, ancak ABD’nin <strong>güvenlik odaklı yeni vize politikaları</strong> kısa vadede geri adım sinyali vermiyor.</p>
 <p><br></p>
-<p style="text-align: justify">Bu gelişme, <strong>küresel denizcilik sektöründe iş gücü erişimi ve seyahat özgürlüğü</strong> konularının önümüzdeki dönemde daha da tartışmalı hale geleceğini göstermekte.</p>
+<p style="text-align: justify">Bu gelişme, <strong>küresel denizcilik sektöründe iş gücü erişimi ve seyahat özgürlüğü</strong> konularının önümüzdeki dönemde daha da tartışmalı hale geleceğini gösteriyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>

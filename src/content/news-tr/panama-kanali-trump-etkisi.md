@@ -36,18 +36,18 @@ tags:
 <p>Kanal, hem Panama hem de ABD ekonomileri için büyük bir öneme sahiptir:</p>
 <ul>
   <li><p><strong>Panama Ekonomisi:</strong> Kanal, Panama için önemli bir gelir kaynağıdır. Kontrol değişikliği, ülke ekonomisi üzerinde ciddi olumsuz etkilere ve bölgesel istikrarsızlığa yol açabilir.</p></li>
-  <li><p><strong>ABD Ticareti:</strong> ABD, kanalın birincil kullanıcısı olarak, mevcut düzenlemeler sayesinde verimli ve maliyet etkin geçişler sağlamaktadır. Bu dinamiğin değişmesi, Amerikan ithalatçıları ve ihracatçıları için operasyonel maliyetleri artırabilir.</p></li>
+  <li><p><strong>ABD Ticareti:</strong> ABD, kanalın birincil kullanıcısı olarak, mevcut düzenlemeler sayesinde verimli ve maliyet etkin geçişler sağlıyordır. Bu dinamiğin değişmesi, Amerikan ithalatçıları ve ihracatçıları için operasyonel maliyetleri artırabilir.</p></li>
 </ul>
 <p><br></p>
 <p><strong>Sektör Görüşleri</strong></p>
-<p>Sektör uzmanları, olası etkiler konusunda endişelerini dile getirmektedir:</p>
+<p>Sektör uzmanları, olası etkiler konusunda endişelerini dile getiriyordir:</p>
 <ul>
   <li><p><strong>Nakliye Şirketleri:</strong> Kanalı verimli rotalar için kullanan bu şirketler, aksaklıklar nedeniyle daha uzun ve maliyetli güzergâhlara yönelmek zorunda kalabilir.</p></li>
   <li><p><strong>Üreticiler ve Perakendeciler:</strong> Zamanında teslimatlara bağımlı olan bu kesim, olası gecikmeler nedeniyle üretim programları ve envanter yönetiminde sorunlar yaşayabilir.</p></li>
 </ul>
 <p><br></p>
 <p><strong>Sonuç</strong></p>
-<p>Panama Kanalı üzerindeki kontrolün yeniden ele geçirilmesi fikri, bazı siyasi çevrelerde yankı bulsa da, tedarik zincirleri üzerindeki etkileri geniş kapsamlı olabilir. Kanal operasyonlarındaki aksaklıklar, artan jeopolitik gerilimler ve ekonomik istikrarsızlık, küresel ticaret ile ABD ve Panama ekonomilerini olumsuz etkileyebilir. Bu riskleri azaltmak için, tedarik zinciri paydaşlarının gelişmeleri yakından takip etmeleri ve olası senaryolara hazırlıklı olmaları önem taşımaktadır.</p>
+<p>Panama Kanalı üzerindeki kontrolün yeniden ele geçirilmesi fikri, bazı siyasi çevrelerde yankı bulsa da, tedarik zincirleri üzerindeki etkileri geniş kapsamlı olabilir. Kanal operasyonlarındaki aksaklıklar, artan jeopolitik gerilimler ve ekonomik istikrarsızlık, küresel ticaret ile ABD ve Panama ekonomilerini olumsuz etkileyebilir. Bu riskleri azaltmak için, tedarik zinciri paydaşlarının gelişmeleri yakından takip etmeleri ve olası senaryolara hazırlıklı olmaları önem taşıyordır.</p>
 <p><br></p>
 <p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
@@ -57,7 +57,7 @@ tags:
   <li><p><strong>Ticaret Rotalarının Değişmesi:</strong> Alternatif rotaların kullanımı, maliyetleri artırabilir.</p></li>
   <li><p><strong>Panama Ekonomisi Üzerindeki Etkiler:</strong> Kanalın kontrolü, Panama ekonomisi için kritik öneme sahiptir.</p></li>
   <li><p><strong>ABD Ticareti Üzerindeki Etkiler:</strong> Mevcut düzenlemelerin değişmesi, Amerikan ticaretini olumsuz etkileyebilir.</p></li>
-  <li><p><strong>Sektör Endişeleri:</strong> Nakliye şirketleri ve perakendeciler, olası aksaklıklardan endişe duymaktadır.</p></li>
+  <li><p><strong>Sektör Endişeleri:</strong> Nakliye şirketleri ve perakendeciler, olası aksaklıklardan endişe duyuyordır.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

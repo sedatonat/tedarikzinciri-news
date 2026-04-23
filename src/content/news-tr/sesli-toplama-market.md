@@ -27,7 +27,7 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Personel tarafında ise, sesli toplama sistemleri <strong>öğrenme eğrisini kısaltıyor.</strong> Yeni çalışanlar, <strong>micro-learning</strong> modülleriyle kısa sürede üretken hale geliyor. Bu da hem eğitim maliyetlerini azaltıyor hem de sezonluk iş gücü yönetimini kolaylaştırıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Sonuç olarak, <strong>voice picking</strong> uygulamasıyla süpermarket zinciri, <strong>müşteri siparişlerinin zamanında ve hatasız tamamlanmasını</strong> sağlayarak hem operasyonel verimliliği hem de müşteri memnuniyetini artırmaktadır. Bu çözüm, butik perakendeciler için <strong>ölçeklenebilir ve hızlı geri dönüş sağlayan</strong> bir dijital dönüşüm örneği niteliği taşımaktadır.</p>
+<p style="text-align: justify">Sonuç olarak, <strong>voice picking</strong> uygulamasıyla süpermarket zinciri, <strong>müşteri siparişlerinin zamanında ve hatasız tamamlanmasını</strong> sağlayarak hem operasyonel verimliliği hem de müşteri memnuniyetini artırıyordır. Bu çözüm, butik perakendeciler için <strong>ölçeklenebilir ve hızlı geri dönüş sağlayan</strong> bir dijital dönüşüm örneği niteliği taşıyordır.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>

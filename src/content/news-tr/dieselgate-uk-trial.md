@@ -22,14 +22,14 @@ tags:
 ---
 <p>Dieselgate skandalının ardından otomobil üreticileri, İngiltere’de toplu davalar kapsamında yargı süreciyle karşı karşıya.&nbsp;</p>
 <p><br></p>
-<p>Davalar, emisyon değerlerinin yazılım manipülasyonuyla düşük gösterilmesi iddialarına dayanmakta. Tedarik zinciri açısından compliance by design, supplier software validation ve regulatory reporting süreçlerinin güçlendirilmesi gerekmekte. Üreticiler için risk, yalnız para cezaları değil; marka itibarı, ikinci el değerleri ve satış sonrası güven dinamiklerini de etkilemekte. Uzmanlar, Over-The-Air (OTA) güncellemeler ve bağımsız test standartlarının yaygınlaşmasının, şeffaflığı artıracağını belirtmekte.</p>
+<p>Davalar, emisyon değerlerinin yazılım manipülasyonuyla düşük gösterilmesi iddialarına dayanıyor. Tedarik zinciri açısından compliance by design, supplier software validation ve regulatory reporting süreçlerinin güçlendirilmesi gerekiyor. Üreticiler için risk, yalnız para cezaları değil; marka itibarı, ikinci el değerleri ve satış sonrası güven dinamiklerini de etkiliyor. Uzmanlar, Over-The-Air (OTA) güncellemeler ve bağımsız test standartlarının yaygınlaşmasının, şeffaflığı artıracağını belirtiyor.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 1. Toplu davalar emisyon manipülasyonuna odaklanır.<br>
 2. Uyum süreçleri yazılım doğrulamasını içermelidir.<br>
 3. Riskler finansal ve itibar boyutludur.<br>
 4. OTA updates şeffaflık sağlar.<br>
-5. Bağımsız test standartları güçlenmektedir.</p>
+5. Bağımsız test standartları güçleniyordir.</p>
 <p><br>
 ---<br>
 <strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42651-carmakers-face-uk-trial-a-decade-after-dieselgate-scandal"><u>https://www.supplychainbrain.com/articles/42651-carmakers-face-uk-trial-a-decade-after-dieselgate-scandal</u></a><br>

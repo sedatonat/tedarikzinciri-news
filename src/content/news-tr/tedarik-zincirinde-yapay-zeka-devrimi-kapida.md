@@ -24,7 +24,7 @@ tags:
 <p>Konferansta, tedarik zincirinin büyük dil modeli yapay zeka ve generative AI gibi teknolojilerin benimsenmesiyle radikal bir otomasyon dönüşümü yaşayacağı üzerinde duruldu. Ancak, çoğu şirketin bu dönüşümde yavaş kaldığı ve tedarik sürecinin otomasyonunda ilerlemenin %15 ile %50 arasında değiştiği belirtildi.</p>
 <p><br></p>
 <p>Johnson &amp; Johnson'ın Chief Procurement Officer'ı Shashi Mandapathy, tedarikin müşteriler, çalışanlar, tedarikçiler ve topluluklar gibi tüm paydaşlara etki eden nadir bir iş fonksiyonu olduğunu belirtti. Mandapathy, tedarik zincirinin daha şeffaf ve verimli hale gelmesinin dünyayı daha iyi bir yer haline getirebileceğini ifade etti.</p>
-<p>Unilever eski CEO'su ve "Net Positive" kitabının yazarı Paul Polman, sürdürülebilirliği artıran teknolojilerin %80'inin artık kendi maliyetini karşıladığını söyledi. Polman, insan odaklı yaklaşımların verimliliği artırdığını ve harekete geçmenin maliyetinin geç kalmaktan daha düşük olduğunu örneklerle anlattı.</p>
+<p>Unilever eski CEO'su ve "Net Positive" kitabının yazarı Paul Polman, sürdürülebilirliği artıran teknolojilerin %80'inin artık kendi maliyetini karşıladığını söyledi. Polman, insan odaklı yaklaşımların verimliliği artırdığını ve harekete geçmenin maliyetinin geç kalıyorn daha düşük olduğunu örneklerle anlattı.</p>
 <p><br></p>
 <p>Accenture Strategy'den Kris Timmermans, yapay zeka destekli otomasyonu hızlı bir şekilde benimsemeyen tedarik zincirlerinin ciddi zorluklarla karşılaşacağını belirtti. Artan ticaret kısıtlamaları, iklim değişikliği ve siber güvenlik riskleri gibi faktörlerin tedarik zincirlerini daha karmaşık hale getirdiğini ve bu karmaşıklığın insan gücüyle yönetilemeyeceğini ifade etti.</p>
 <p><br></p>
@@ -33,7 +33,7 @@ tags:
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li><p>Remko van Hoek, tedarik süreçlerinin önümüzdeki bir buçuk yıl içinde radikal bir dönüşüm yaşayacağını belirtti.</p></li>
-  <li><p>Şirketler, büyük dil modeli yapay zeka ve generative AI teknolojilerini benimsemekte yavaş kalıyor.</p></li>
+  <li><p>Şirketler, büyük dil modeli yapay zeka ve generative AI teknolojilerini benimsiyor yavaş kalıyor.</p></li>
   <li><p>Shashi Mandapathy, tedarikin tüm paydaşlara etki eden nadir bir iş fonksiyonu olduğunu vurguladı.</p></li>
   <li><p>Paul Polman, sürdürülebilir teknolojilerin maliyetini karşıladığını ve harekete geçmenin önemini ifade etti.</p></li>
   <li><p>Kris Timmermans, yapay zeka olmadan tedarik zincirlerinin yönetilemeyeceğini söyledi.</p></li>

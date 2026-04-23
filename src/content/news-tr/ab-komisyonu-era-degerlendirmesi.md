@@ -19,7 +19,7 @@ tags:
 - tek pazar
 - güvenlik sertifikasyonu
 ---
-<p style="text-align: justify">Avrupa Komisyonu, <strong>European Union Agency for Railways (ERA)</strong> hakkında yürüttüğü kurumsal değerlendirmeyi yayımladı. Rapora göre ERA, Avrupa demiryolu sektöründe <strong>ilgili, gerekli ve stratejik bir kurum</strong> olarak görülmekte. Kurumun AB çapında <strong>interoperabilite</strong>, <strong>tek demiryolu pazarı</strong> ve <strong>güvenlik iyileştirmeleri</strong> konularına yaptığı katkılar açıkça teyit edilmekte.</p>
+<p style="text-align: justify">Avrupa Komisyonu, <strong>European Union Agency for Railways (ERA)</strong> hakkında yürüttüğü kurumsal değerlendirmeyi yayımladı. Rapora göre ERA, Avrupa demiryolu sektöründe <strong>ilgili, gerekli ve stratejik bir kurum</strong> olarak görülüyor. Kurumun AB çapında <strong>interoperabilite</strong>, <strong>tek demiryolu pazarı</strong> ve <strong>güvenlik iyileştirmeleri</strong> konularına yaptığı katkılar açıkça teyit ediliyor.</p>
 <p><br></p>
 <p style="text-align: justify">Bununla birlikte Komisyon, ERA’nın mevcut performansının <strong>AB’nin uzun vadeli beklentilerini tam olarak karşılamadığını</strong>, özellikle <strong>uyumlaştırma hızının yetersiz kaldığını</strong>, bazı ulusal seviyedeki engeller nedeniyle reformların yavaş ilerlediğini vurguladı.</p>
 <p><br></p>
@@ -75,13 +75,13 @@ daha agresif şekilde desteklemesi gerektiğini ifade ediyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">ERTMS ve TSI uygulamalarında hızlandırılmış programlar<br>
 gerektiği belirtiliyor.</p></li>
 </ul>
-<p style="text-align: justify">ERA’nın gelecek yıllardaki performansının, Avrupa demiryolu pazarının bütünleşme hızını doğrudan etkileyeceği ifade edilmekte.</p>
+<p style="text-align: justify">ERA’nın gelecek yıllardaki performansının, Avrupa demiryolu pazarının bütünleşme hızını doğrudan etkileyeceği ifade ediliyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Önemli Notlar:</strong></h4>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">AB Komisyonu, ERA’yı “ilgili ve gerekli” kurum olarak değerlendirdi.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Ancak <strong>interoperabilite ve tek pazar</strong> hedeflerinde ilerleme beklentilerin gerisinde.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Ulusal uygulama farkları süreci yavaşlatmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Ulusal uygulama farkları süreci yavaşlatıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">ERA’nın ERTMS ve TSI çalışmalarında daha güçlü koordinasyon rolü bekleniyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Ajansın hızlanması, AB’nin 2030 demiryolu hedefleri için kritik.</p></li>
 </ul>

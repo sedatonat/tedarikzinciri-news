@@ -19,23 +19,23 @@ tags:
 - gemi operasyonları
 - lojistik yazılım
 ---
-<p style="text-align: justify"><strong>Lynxis LLC</strong>, karasal lojistik için optimizasyon çözümleri sunan bir şirket olarak, deniz terminallerinde gemi operasyonlarını kolaylaştıran yazılımlar geliştiren <strong>TEDIVO LLC</strong>'yi satın aldı. Bu stratejik hamle, <strong>Lynxis</strong>'in dijitalleşme alanındaki yetkinliklerini artırarak, nakliye hatları ve terminal operatörlerinin gemi gecikmeleri, yanlış yükleme ve güvenlik risklerini azaltmalarına yardımcı olmayı hedeflemekte.</p>
+<p style="text-align: justify"><strong>Lynxis LLC</strong>, karasal lojistik için optimizasyon çözümleri sunan bir şirket olarak, deniz terminallerinde gemi operasyonlarını kolaylaştıran yazılımlar geliştiren <strong>TEDIVO LLC</strong>'yi satın aldı. Bu stratejik hamle, <strong>Lynxis</strong>'in dijitalleşme alanındaki yetkinliklerini artırarak, nakliye hatları ve terminal operatörlerinin gemi gecikmeleri, yanlış yükleme ve güvenlik risklerini azaltmalarına yardımcı olmayı hedefliyor.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Lynxis LLC</strong> CEO'su Larry Cuddy Jr., iki şirket arasındaki uyuma dikkat çekerek, "<strong>TEDIVO</strong>'nun platformu, özellikle <strong>BAPLIE Viewer Online</strong> ve yan ürünleri, müşterilerimize hızlı bir şekilde değer katan yeni nesil yenilikçi çözümler sunma misyonumuzla mükemmel bir uyum içindedir," şeklinde konuştu.</p>
 <p><br></p>
-<p style="text-align: justify"><strong>TEDIVO</strong>'nun önde gelen ürünü olan <strong>BAPLIE Viewer Online</strong>, <strong>BAPLIE</strong> dosyalarının yorumlanmasını basitleştirmekte. Web tabanlı bu platform, manuel işlemler veya karmaşık kurulumlar gerektirmeden, denizcilik profesyonellerinin yükleme verilerini gerçek zamanlı olarak görselleştirmelerine olanak tanıyarak operasyonel doğruluk ve verimliliği artırmakta.</p>
+<p style="text-align: justify"><strong>TEDIVO</strong>'nun önde gelen ürünü olan <strong>BAPLIE Viewer Online</strong>, <strong>BAPLIE</strong> dosyalarının yorumlanmasını basitleştirmekte. Web tabanlı bu platform, manuel işlemler veya karmaşık kurulumlar gerektirmeden, denizcilik profesyonellerinin yükleme verilerini gerçek zamanlı olarak görselleştirmelerine olanak tanıyarak operasyonel doğruluk ve verimliliği artırıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Ayrıca, <strong>TEDIVO</strong>'nun <strong>Vessel Designer</strong> ve <strong>Library</strong> ürünleri, kullanıcıların açık kaynaklı JSON formatını kullanarak çeşitli terminal sistemleriyle uyumlu gemi tanımları oluşturup paylaşmalarını sağlamakta. Bu ürünlerin <strong>BAPLIE Viewer Online</strong> ile entegrasyonu, yükleme planlarının gemi spesifikasyonlarına karşı sorunsuz bir şekilde doğrulanmasını amaçlamakta.</p>
+<p style="text-align: justify">Ayrıca, <strong>TEDIVO</strong>'nun <strong>Vessel Designer</strong> ve <strong>Library</strong> ürünleri, kullanıcıların açık kaynaklı JSON formatını kullanarak çeşitli terminal sistemleriyle uyumlu gemi tanımları oluşturup paylaşmalarını sağlıyor. Bu ürünlerin <strong>BAPLIE Viewer Online</strong> ile entegrasyonu, yükleme planlarının gemi spesifikasyonlarına karşı sorunsuz bir şekilde doğrulanmasını amaçlıyor.</p>
 <p><br></p>
-<p style="text-align: justify"><strong>TEDIVO LLC</strong>'nin Kurucusu Mark Traynor, "<strong>TEDIVO</strong> olarak amacımız her zaman denizcilik operasyonlarını basitleştirmek ve geliştirmek olmuştur," diyerek, "<strong>Lynxis LLC</strong>'ye katılmak, çözümlerimizin erişimini genişletmemize ve küresel denizcilik endüstrisi için yenilik yapmaya devam etmemize olanak tanımaktadır," şeklinde ekledi.</p>
+<p style="text-align: justify"><strong>TEDIVO LLC</strong>'nin Kurucusu Mark Traynor, "<strong>TEDIVO</strong> olarak amacımız her zaman denizcilik operasyonlarını basitleştirmek ve geliştirmek olmuştur," diyerek, "<strong>Lynxis LLC</strong>'ye katılmak, çözümlerimizin erişimini genişletmemize ve küresel denizcilik endüstrisi için yenilik yapmaya devam etmemize olanak tanıyordır," şeklinde ekledi.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Lynxis LLC</strong>, <strong>TEDIVO LLC</strong>'yi satın alarak dijital çözümlerini genişletmekte.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Bu satın alma, gemi gecikmeleri, yanlış yükleme ve güvenlik risklerini azaltmayı hedeflemekte.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>TEDIVO</strong>'nun <strong>BAPLIE Viewer Online</strong> ürünü, yükleme verilerinin gerçek zamanlı görselleştirilmesini sağlamakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Vessel Designer</strong> ve <strong>Library</strong> ürünleri, açık kaynaklı JSON formatıyla gemi tanımları oluşturup paylaşmaya olanak tanımakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Lynxis</strong> ve <strong>TEDIVO</strong> arasındaki entegrasyon, müşterilere hızlı ve yenilikçi çözümler sunmayı amaçlamakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Lynxis LLC</strong>, <strong>TEDIVO LLC</strong>'yi satın alarak dijital çözümlerini genişlediyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Bu satın alma, gemi gecikmeleri, yanlış yükleme ve güvenlik risklerini azaltmayı hedefliyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>TEDIVO</strong>'nun <strong>BAPLIE Viewer Online</strong> ürünü, yükleme verilerinin gerçek zamanlı görselleştirilmesini sağlıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Vessel Designer</strong> ve <strong>Library</strong> ürünleri, açık kaynaklı JSON formatıyla gemi tanımları oluşturup paylaşmaya olanak tanıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Lynxis</strong> ve <strong>TEDIVO</strong> arasındaki entegrasyon, müşterilere hızlı ve yenilikçi çözümler sunmayı amaçlıyor.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

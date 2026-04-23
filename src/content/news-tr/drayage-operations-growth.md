@@ -20,14 +20,14 @@ tags:
 - chassis yönetimi
 - dynamic dispatch
 ---
-<p>Konteyner drayage operasyonları, liman–depo–iç hat taşımalarının kritik halkasını oluşturmaktadır. Güncel baskılar; port congestion, serbest sürelerin kısalması (free time), artan detention &amp; demurrage ücretleri ve sürücü arzındaki dalgalanmalar olarak öne çıkmakta. Operatörler, appointment scheduling, yard management systems (YMS) ve dual transactions taktikleriyle dönüş süresini kısaltmakta. Limanda peel piles ve pre-pull süreçleri, saha içi hareketleri hızlandırmakta; drop-and-hook modeli, kapı sürelerini düşürmekte. Şirketler, API entegrasyonları ile terminal operating systems (TOS), customs ve BCO/3PL sistemlerini birbirine bağlamakta; bu görünürlük, per-diem ve randevu kaçırma riskini azaltmakta. Filo tarafında chassis pool optimization ve geo-fencing ile saha içi kayıplar azaltılmakta; dynamic dispatch kuralları ile şoför verimliliği artmakta. Finansal olarak accessorial charge yönetimi ve tartışmalı masraflar için kanıt toplama (digital proof) süreçleri standart hale gelmekte. Bütünlükte amaç, birim başına tur sayısını artırmak, bedeli ise kontrol altında tutmak ve müşteri vaatlerini tutarlı biçimde karşılamak olmaktadır.</p>
+<p>Konteyner drayage operasyonları, liman–depo–iç hat taşımalarının kritik halkasını oluşturuyordır. Güncel baskılar; port congestion, serbest sürelerin kısalması (free time), artan detention &amp; demurrage ücretleri ve sürücü arzındaki dalgalanmalar olarak öne çıkıyor. Operatörler, appointment scheduling, yard management systems (YMS) ve dual transactions taktikleriyle dönüş süresini kısaltmakta. Limanda peel piles ve pre-pull süreçleri, saha içi hareketleri hızlandırıyor; drop-and-hook modeli, kapı sürelerini düşürüyor. Şirketler, API entegrasyonları ile terminal operating systems (TOS), customs ve BCO/3PL sistemlerini birbirine bağlıyor; bu görünürlük, per-diem ve randevu kaçırma riskini azaltıyor. Filo tarafında chassis pool optimization ve geo-fencing ile saha içi kayıplar azaltılıyor; dynamic dispatch kuralları ile şoför verimliliği artıyor. Finansal olarak accessorial charge yönetimi ve tartışmalı masraflar için kanıt toplama (digital proof) süreçleri standart hale geliyor. Bütünlükte amaç, birim başına tur sayısını artırmak, bedeli ise kontrol altında tutmak ve müşteri vaatlerini tutarlı biçimde karşılamak oluyordır.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 1. Appointment scheduling ve YMS dönüş süresini kısaltmaktadır.<br>
-2. Dual transactions liman verimliliğini artırmaktadır.<br>
-3. API/TOS entegrasyonu per-diem riskini azaltmaktadır.<br>
-4. Chassis optimization saha kayıplarını düşürmektedir.<br>
-5. Dynamic dispatch sürücü verimini yükseltmektedir.</p>
+2. Dual transactions liman verimliliğini artırıyordır.<br>
+3. API/TOS entegrasyonu per-diem riskini azaltıyordır.<br>
+4. Chassis optimization saha kayıplarını düşürüyordir.<br>
+5. Dynamic dispatch sürücü verimini yükseltiyordir.</p>
 <p><br>
 ---<br>
 <strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41822-how-to-elevate-your-container-drayage-operations-to-maximize-profit-and-growth"><u>https://www.supplychainbrain.com/articles/41822-how-to-elevate-your-container-drayage-operations-to-maximize-profit-and-growth</u></a><br>

@@ -20,21 +20,21 @@ tags:
 ---
 <p style="text-align: justify"><strong>DHL</strong> ve <strong>New York University (NYU) Stern School of Business</strong> tarafından yayımlanan son rapora göre, <strong>ABD’nin yeni gümrük tarifeleri</strong> küresel ticareti sarsmakta ancak durduramamakta.</p>
 <p><br>
-Araştırma, <strong>2025’in ilk yarısında küresel ticaretin 2010’dan bu yana en hızlı büyümesini</strong> gösterdiğini ve dünya ticaret hacminin <strong>ABD’nin korumacı politikalarına rağmen güç kazandığını</strong> ortaya koymakta.</p>
+Araştırma, <strong>2025’in ilk yarısında küresel ticaretin 2010’dan bu yana en hızlı büyümesini</strong> gösterdiğini ve dünya ticaret hacminin <strong>ABD’nin korumacı politikalarına rağmen güç kazandığını</strong> ortaya koyuyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>ABD Küresel Ticarette Artık Sınırlı Bir Etkiye Sahip</strong></h5>
-<p style="text-align: justify">Rapor, <strong>ABD ekonomisinin küresel ticaretin yönünü belirleyecek büyüklükte olmadığını</strong> net biçimde ortaya koymakta.</p>
+<p style="text-align: justify">Rapor, <strong>ABD ekonomisinin küresel ticaretin yönünü belirleyecek büyüklükte olmadığını</strong> net biçimde ortaya koyuyor.</p>
 <p><br>
-2024 itibarıyla, <strong>küresel mal ithalatının yalnızca %13’ü ABD’ye</strong>, ihracatın ise <strong>%9’u ABD’den</strong> kaynaklanmakta.</p>
+2024 itibarıyla, <strong>küresel mal ithalatının yalnızca %13’ü ABD’ye</strong>, ihracatın ise <strong>%9’u ABD’den</strong> kaynaklanıyor.</p>
 <p><br>
 Dolayısıyla, Washington’un tarifeleri küresel ticarette <strong>yerel bir türbülans</strong> yaratsa da, <strong>genel dengeyi değiştirecek ölçekte değil.</strong></p>
 <p><br></p>
-<p style="text-align: justify">DHL raporuna göre, birçok ülke <strong>ABD’nin geniş kapsamlı gümrük artışlarını takip etmemekte</strong>, bu da ticaretin farklı bölgeler üzerinden yeniden yönlenmesini sağlamakta.</p>
+<p style="text-align: justify">DHL raporuna göre, birçok ülke <strong>ABD’nin geniş kapsamlı gümrük artışlarını takip etmemekte</strong>, bu da ticaretin farklı bölgeler üzerinden yeniden yönlenmesini sağlıyor.</p>
 <p><br></p>
-<h5 style="text-align: justify"><strong>Küresel Ticaret Büyümeye Devam Etmekte</strong></h5>
-<p style="text-align: justify"><strong>DHL Global Connectedness Tracker 2025</strong> özel güncellemesine göre, <strong>2025–2029 döneminde</strong> küresel ticaret hacminin <strong>yıllık ortalama %2,5</strong> oranında büyümesi beklenmekte. Bu oran, önceki on yılın temposuyla neredeyse aynı.</p>
+<h5 style="text-align: justify"><strong>Küresel Ticaret Büyümeye Devam Ediyor</strong></h5>
+<p style="text-align: justify"><strong>DHL Global Connectedness Tracker 2025</strong> özel güncellemesine göre, <strong>2025–2029 döneminde</strong> küresel ticaret hacminin <strong>yıllık ortalama %2,5</strong> oranında büyümesi bekleniyor. Bu oran, önceki on yılın temposuyla neredeyse aynı.</p>
 <p><br></p>
-<p style="text-align: justify">Ancak, <strong>Ocak 2025’teki yeni tarife dalgası öncesinde</strong> bu oran <strong>%3,1</strong> olarak öngörülmekteydi.<br>
+<p style="text-align: justify">Ancak, <strong>Ocak 2025’teki yeni tarife dalgası öncesinde</strong> bu oran <strong>%3,1</strong> olarak öngörülüyorydi.<br>
 Tarifelerin etkisiyle büyüme tahmini <strong>%2,5’e revize edildi.</strong></p>
 <p><br>
 Bölgesel bazda en sert düşüş <strong>Kuzey Amerika</strong>’da yaşandı:</p>
@@ -42,16 +42,16 @@ Bölgesel bazda en sert düşüş <strong>Kuzey Amerika</strong>’da yaşandı:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Ocak 2025’te %2,7 olan büyüme beklentisi, Eylül itibarıyla %1,5’e</strong> geriledi.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Diğer bölgelerdeki düşüşler daha sınırlı kaldı.</p></li>
 </ul>
-<p style="text-align: justify">Buna rağmen, DHL analizine göre <strong>küresel ticaretin yapısal olarak dirençli</strong> olduğu ve önümüzdeki dört yılda büyümenin <strong>istikrarlı şekilde devam edeceği</strong> öngörülmekte.</p>
+<p style="text-align: justify">Buna rağmen, DHL analizine göre <strong>küresel ticaretin yapısal olarak dirençli</strong> olduğu ve önümüzdeki dört yılda büyümenin <strong>istikrarlı şekilde devam edeceği</strong> öngörülüyor.</p>
 <p><br></p>
-<h5 style="text-align: justify"><strong>Çin, ASEAN ve Afrika ile Ticaretini Güçlendirmekte</strong></h5>
-<p style="text-align: justify">ABD’nin uyguladığı tarifelerden en çok etkilenen ülke olan <strong>Çin</strong>, ihracatını farklı pazarlara yönlendirerek etkileri dengelemekte.</p>
+<h5 style="text-align: justify"><strong>Çin, ASEAN ve Afrika ile Ticaretini Güçlendiriyor</strong></h5>
+<p style="text-align: justify">ABD’nin uyguladığı tarifelerden en çok etkilenen ülke olan <strong>Çin</strong>, ihracatını farklı pazarlara yönlendirerek etkileri dengeliyor.</p>
 <p><br>
 Çin, <strong>ABD’ye yapılan sevkiyatlardaki düşüşü</strong>, <strong>ASEAN (Güneydoğu Asya Uluslar Birliği)</strong>, <strong>Afrika</strong>, <strong>Avrupa Birliği</strong> ve diğer bölgelerle yaptığı ticaret artışıyla telafi etti.</p>
 <p><br></p>
 <p style="text-align: justify">Aynı dönemde, <strong>ABD ithalatçıları</strong> da tarife artışları yürürlüğe girmeden önce <strong>ön alım (frontloading)</strong> yaparak ithalatlarını hızlandırdı.</p>
 <p><br>
-Bu durum, 2025’in ilk çeyreğinde <strong>ABD’nin ithalat hacmini geçici olarak yükseltti</strong> ancak uzun vadede <strong>Kuzey Amerika ticaret akışlarında zayıflama</strong> beklenmekte.</p>
+Bu durum, 2025’in ilk çeyreğinde <strong>ABD’nin ithalat hacmini geçici olarak yükseltti</strong> ancak uzun vadede <strong>Kuzey Amerika ticaret akışlarında zayıflama</strong> bekleniyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>DHL: Ticaret Engelleri Küresel Yaratıcılığı Durduramaz</strong></h5>
 <p style="text-align: justify"><strong>DHL Express CEO’su John Pearson</strong>, raporun yayımlanmasının ardından yaptığı açıklamada şu değerlendirmede bulundu:</p>
@@ -59,18 +59,18 @@ Bu durum, 2025’in ilk çeyreğinde <strong>ABD’nin ithalat hacmini geçici o
 <p style="text-align: justify">Pearson, <strong>küresel ekonominin dayanıklılığını</strong> vurgulayarak, ticaretin <strong>yenilikçi iş modelleri, dijitalleşme ve bölgesel işbirlikleri</strong> sayesinde güçlü kalacağını belirtti.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>ABD Tarifeleri: Yavaşlatıyor Ama Durduramıyor</strong></h5>
-<p style="text-align: justify">Rapora göre, <strong>ABD tarifeleri küresel ticaretin büyüme hızını yavaşlatmakta</strong>, ancak <strong>ticareti durdurma etkisine sahip değil.</strong></p>
+<p style="text-align: justify">Rapora göre, <strong>ABD tarifeleri küresel ticaretin büyüme hızını yavaşlatıyor</strong>, ancak <strong>ticareti durdurma etkisine sahip değil.</strong></p>
 <p><br>
  <strong>Tarife sonrası büyüme oranı (%2,5)</strong>, hâlâ <strong>2020’lerin başında beklenen seviyelere yakın</strong> seyrediyor.</p>
-<p style="text-align: justify">Ayrıca, <strong>küresel ticaret akışlarının çeşitlenmesi</strong>, tek bir ekonomiye bağımlılığı azaltarak <strong>daha dengeli bir ticaret ağı</strong> yaratmakta.</p>
+<p style="text-align: justify">Ayrıca, <strong>küresel ticaret akışlarının çeşitlenmesi</strong>, tek bir ekonomiye bağımlılığı azaltarak <strong>daha dengeli bir ticaret ağı</strong> yaratıyor.</p>
 <p><br>
-Bu durum, özellikle <strong>Asya, Afrika ve Avrupa arasındaki tedarik zincirlerini</strong> güçlendirmekte.</p>
+Bu durum, özellikle <strong>Asya, Afrika ve Avrupa arasındaki tedarik zincirlerini</strong> güçlendiriyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Sonuç: Küresel Ticaret Çok Merkezli Bir Yapıya Evrilmekte</strong></h5>
-<p style="text-align: justify">DHL raporu, <strong>ABD’nin korumacı politikalarına rağmen küresel ticaretin büyümeye devam ettiğini</strong> açıkça göstermekte.<br>
-Yeni dönemde, ticaretin merkezinin <strong>tek bir ülke yerine bölgesel ağlara</strong> kaydığı görülmekte.<br>
-Çin, ASEAN, AB ve Afrika’nın yükselen rolü, dünya ticaretinin geleceğinde <strong>çok merkezli (multipolar)</strong> bir yapının şekillendiğini işaret etmekte.</p>
-<p style="text-align: justify">Küresel ticaretin önündeki engellere rağmen, <strong>yenilik, çeşitlilik ve dayanıklılık</strong> ilkeleri, dünya ekonomisinin <strong>sürdürülebilir büyümesini</strong> desteklemekte.</p>
+<p style="text-align: justify">DHL raporu, <strong>ABD’nin korumacı politikalarına rağmen küresel ticaretin büyümeye devam ettiğini</strong> açıkça gösteriyor.<br>
+Yeni dönemde, ticaretin merkezinin <strong>tek bir ülke yerine bölgesel ağlara</strong> kaydığı görülüyor.<br>
+Çin, ASEAN, AB ve Afrika’nın yükselen rolü, dünya ticaretinin geleceğinde <strong>çok merkezli (multipolar)</strong> bir yapının şekillendiğini işaret ediyor.</p>
+<p style="text-align: justify">Küresel ticaretin önündeki engellere rağmen, <strong>yenilik, çeşitlilik ve dayanıklılık</strong> ilkeleri, dünya ekonomisinin <strong>sürdürülebilir büyümesini</strong> destekliyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
@@ -80,7 +80,7 @@ Yeni dönemde, ticaretin merkezinin <strong>tek bir ülke yerine bölgesel ağla
   <li style="text-align: justify"><p style="text-align: justify"><strong>Kuzey Amerika</strong> en sert düşüşü yaşarken, diğer bölgelerde <strong>sınırlı revizyonlar</strong> yapıldı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Çin</strong>, ABD kaybını <strong>ASEAN, Afrika ve AB pazarlarıyla</strong> dengeledi.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>DHL CEO’su John Pearson</strong>, “Ticaret engelleri küresel iş yapma isteğini durduramaz” açıklamasıyla <strong>küresel işbirliği vurgusu</strong> yaptı.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Sonuç: <strong>Küresel ticaret çok merkezli, dayanıklı ve dijitalleşme odaklı</strong> yeni bir döneme girmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Sonuç: <strong>Küresel ticaret çok merkezli, dayanıklı ve dijitalleşme odaklı</strong> yeni bir döneme giriyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

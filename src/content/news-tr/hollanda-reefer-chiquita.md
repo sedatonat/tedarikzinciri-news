@@ -28,7 +28,7 @@ tags:
 <p style="text-align: justify">Dutch Container Merchants tarafından yapılan açıklamaya göre, yeni konteynerlerin <strong>iç hacmi genişletilmiş</strong>, böylece <strong>hafif ama yüksek hacimli yükler</strong> daha verimli taşınabilecek. Bu özellikle <strong>muz, ananas ve diğer tropikal meyveler</strong> gibi ürünlerin <strong>yüksek hacimli soğuk zincir taşımacılığında</strong> büyük avantaj sağlayacak.</p>
 <p><br></p>
 <p style="text-align: justify">Şirket açıklamasında şu ifadeler yer aldı:</p>
-<blockquote style="text-align: justify">“Dünyanın en büyük muz üreticisi Chiquita ile 1.000 adet yeni nesil Reefer konteyner anlaşmamızı duyurmaktan gurur duyuyoruz. Carrier Transicold’un OptimaLine teknolojisi ve Controlled Atmosphere sistemleriyle donatılmış bu konteynerler, enerji verimliliği ve performans açısından sektörde yeni bir standart belirliyor.”</blockquote>
+<blockquote style="text-align: justify">“Dünyanın en büyük muz üreticisi Chiquita ile 1.000 adet yeni nesil Reefer konteyner anlaşmamızı duyuruyorn gurur duyuyoruz. Carrier Transicold’un OptimaLine teknolojisi ve Controlled Atmosphere sistemleriyle donatılmış bu konteynerler, enerji verimliliği ve performans açısından sektörde yeni bir standart belirliyor.”</blockquote>
 <blockquote><br></blockquote>
 <h5 style="text-align: justify"><strong>Chiquita’nın enerji verimliliği hedefi</strong></h5>
 <p style="text-align: justify">Chiquita, son yıllarda <strong>soğutmalı konteyner filosunu yenileyerek enerji tüketimini azaltmaya</strong> odaklanıyor. Şirketin verilerine göre, <strong>son filo yenileme programında enerji kullanımı %11 oranında düşerken</strong>, <strong>taşımacılık kapasitesi %25 oranında artırıldı.</strong></p>

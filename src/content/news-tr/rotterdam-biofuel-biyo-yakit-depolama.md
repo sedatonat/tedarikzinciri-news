@@ -29,7 +29,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>3 iskele</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>7 barç yanaşma yeri</strong> (135 metreye kadar barçlar için),</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Ayrı bir deniz taşıtı iskelesi</strong><br>
-bulunuyor. Bu altyapı, büyük petrol şirketleriyle <strong>inter-terminal transferleri</strong> de mümkün kılarak lojistiği hızlandırmakta.</p></li>
+bulunuyor. Bu altyapı, büyük petrol şirketleriyle <strong>inter-terminal transferleri</strong> de mümkün kılarak lojistiği hızlandırıyor.</p></li>
 </ul>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Faz 2: 2026’da 110.000 m³ kapasiteye çıkış</strong></h4>
@@ -79,7 +79,7 @@ açısından kilit önem taşıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Her tür biyo-yakıt karışımı için harmanlama: <strong>B5–B100</strong>.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Tesis ISCC sertifikalı ve NEA kayıtlı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">3 iskele, 7 barç yanaşma yeri ve deniz taşıtı iskelesi bulunuyor.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Peninsula, düşük karbonlu bunker pazarında kapasitesini önemli ölçüde genişletmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Peninsula, düşük karbonlu bunker pazarında kapasitesini önemli ölçüde genişlediyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

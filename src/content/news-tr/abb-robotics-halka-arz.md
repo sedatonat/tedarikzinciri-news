@@ -26,12 +26,12 @@ tags:
 <p style="text-align: justify">Müşteri tarafında bu dönüşüm, <strong>ürün ve servis yol haritasında</strong> yenilikler, <strong>ortaklık ekosistemlerinde genişleme</strong> ve <strong>yedek parça–bakım hizmetlerinde</strong> farklılaşma potansiyeli taşıyor. Bağımsız sermaye yapısı, robotik birimin yatırım önceliklerini daha esnek biçimde belirlemesine olanak tanıyacak. Böylece hem teknolojik yatırımlar hem de küresel servis kapasitesi açısından rekabet gücü artacak.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinde ise, spin-off süreci <strong>supplier qualification</strong>, <strong>stok yönetimi</strong>, <strong>servis ağı</strong> ve <strong>yedek parça lojistiğinde</strong> yeniden yapılanma gerektirebilir. Yeni şirket yapısına geçişle birlikte, tedarikçi ilişkilerinde yeniden sözleşme, kalite sertifikasyonu ve operasyonel planlama süreçlerinin uyarlanması gündeme gelecektir.</p>
-<p style="text-align: justify">Sonuç olarak, ABB’nin bu adımı robotik biriminin <strong>bağımsız büyüme, inovasyon ve sermaye verimliliği</strong> hedeflerine hizmet etmektedir. Küresel robotik pazarının hızla genişlediği bir dönemde bu strateji, hem yatırımcı ilgisini hem de müşteri odağını artıracak bir konumlandırma olarak değerlendirilmektedir.</p>
+<p style="text-align: justify">Sonuç olarak, ABB’nin bu adımı robotik biriminin <strong>bağımsız büyüme, inovasyon ve sermaye verimliliği</strong> hedeflerine hizmet ediyordir. Küresel robotik pazarının hızla genişlediği bir dönemde bu strateji, hem yatırımcı ilgisini hem de müşteri odağını artıracak bir konumlandırma olarak değerlendiriliyordir.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
   <li><p>Bağımsız sermaye erişimi büyümeyi hızlandırabilir.</p></li>
-  <li><p>AMR/cobots talebi artmaktadır.</p></li>
+  <li><p>AMR/cobots talebi artıyordır.</p></li>
   <li><p>Ürün–servis yol haritası farklılaşabilir.</p></li>
   <li><p>Tedarik ve servis ağları yeniden düzenlenebilir.</p></li>
   <li><p>Pazar odaklı inovasyon ivmelenebilir.</p></li>

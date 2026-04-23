@@ -27,7 +27,7 @@ tags:
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Uzun vadede ise Whole Foods’un tedarikçi yönetim politikalarında belirgin bir sıkılaşma bekleniyor. Şirketin, <strong>vendor risk assessments (satıcı risk değerlendirmeleri)</strong> süreçlerini genişletmesi, <strong>network segmentation</strong> (ağ bölümlendirme) önlemlerini artırması ve <strong>sözleşmesel güvenlik şartlarını</strong> daha katı hale getirmesi planlanıyor. Bu adımlar, üçüncü taraf kaynaklı operasyonel ve itibari riskleri azaltmayı hedefliyor.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Sonuç olarak bu olay, tedarik zincirlerinde siber güvenliğin artık yalnız BT (bilgi teknolojileri) konusu değil, doğrudan <strong>tedarik sürekliliği ve müşteri memnuniyetiyle bağlantılı</strong> bir operasyonel zorunluluk olduğunu göstermektedir. Whole Foods örneği, perakendede siber risk yönetiminin tedarik stratejileriyle entegre edilmesi gerektiğini net biçimde ortaya koymuştur.</p>
+<p style="text-align: justify">Sonuç olarak bu olay, tedarik zincirlerinde siber güvenliğin artık yalnız BT (bilgi teknolojileri) konusu değil, doğrudan <strong>tedarik sürekliliği ve müşteri memnuniyetiyle bağlantılı</strong> bir operasyonel zorunluluk olduğunu gösteriyordir. Whole Foods örneği, perakendede siber risk yönetiminin tedarik stratejileriyle entegre edilmesi gerektiğini net biçimde ortaya koymuştur.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>

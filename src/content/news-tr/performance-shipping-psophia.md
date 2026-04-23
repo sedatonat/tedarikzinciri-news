@@ -33,24 +33,24 @@ tags:
 <p style="text-align: justify">Bu yapı, FPSO dönüşüm projelerinde yaygın olan “koşullu forward sale modeli”ne iyi bir örnekti. Tanker dönüştürülmeye uygun bulunmadığı için finansal anlaşma tamamen ortadan kalkmış durumda.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>FPSO Dönüşüm Piyasası Bağlamı</strong></h3>
-<p style="text-align: justify">530.000–700.000 dwt aralığında VLCC’ler genellikle FPSO dönüşümü için tercih edilse de, bazı projelerde <strong>aframax class</strong> gemiler de değerlendirmeye alınmakta. Ancak FPSO’ya uygunluk; gövde bütünlüğü, structural fatigue göstergeleri, tank aranjmanı, pompa kapasitesi ve yaşam döngüsü maliyeti gibi birçok teknik kritere dayanmakta.</p>
+<p style="text-align: justify">530.000–700.000 dwt aralığında VLCC’ler genellikle FPSO dönüşümü için tercih edilse de, bazı projelerde <strong>aframax class</strong> gemiler de değerlendirmeye alınıyor. Ancak FPSO’ya uygunluk; gövde bütünlüğü, structural fatigue göstergeleri, tank aranjmanı, pompa kapasitesi ve yaşam döngüsü maliyeti gibi birçok teknik kritere dayanıyor.</p>
 <p><br></p>
-<p style="text-align: justify">P Sophia’nın <strong>fleet age profile</strong> içinde en eski gemi olması (2009 built), seçilmemesinde etkili olmuş olabilir. FPSO dönüşümleri, 20–25 yıllık operasyon dönemi içereceği için daha genç tonaj tercih edilebilmekte.</p>
+<p style="text-align: justify">P Sophia’nın <strong>fleet age profile</strong> içinde en eski gemi olması (2009 built), seçilmemesinde etkili olmuş olabilir. FPSO dönüşümleri, 20–25 yıllık operasyon dönemi içereceği için daha genç tonaj tercih edilebiliyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Şirket Filosu Üzerindeki Etki</strong></h3>
-<p style="text-align: justify">Dönüşüm ihalesinin P Sophia’yı dışarıda bırakmasıyla birlikte tanker, Performance Shipping filosunda <strong>aktif ticari operasyonlarda</strong> kalmaya devam edecek. Şirket, tam teslim edilmiş bazda <strong>12 gemilik</strong> bir aframax filosu işletmekte. P Sophia’nın filo içinde tutulması:</p>
+<p style="text-align: justify">Dönüşüm ihalesinin P Sophia’yı dışarıda bırakmasıyla birlikte tanker, Performance Shipping filosunda <strong>aktif ticari operasyonlarda</strong> kalmaya devam edecek. Şirket, tam teslim edilmiş bazda <strong>12 gemilik</strong> bir aframax filosu işlediyor. P Sophia’nın filo içinde tutulması:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">spot rotasyonlarda <strong>capacity retention</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">yükselen Karadeniz ve Med bölgesi navlunlarında <strong>ek gelir potansiyeli</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">ikinci el tanker fiyatlarındaki yükseliş nedeniyle <strong>asset value appreciation</strong> fırsatı</p></li>
 </ul>
 <p style="text-align: justify">gibi avantajlar sağlayabilir.</p>
-<p style="text-align: justify">Ancak diğer yandan, filosundaki yaş ortalaması açısından P Sophia’nın varlığı <strong>maintenance cost</strong> ve teknik yatırım planlaması anlamında yük oluşturabilir. Özellikle 2024–2026 döneminde tanker piyasasında artan <strong>CII (Carbon Intensity Indicator)</strong> ve <strong>EEXI compliance</strong> gereklilikleri, yaşlı gemilerde daha yüksek operasyonel maliyetlere yol açmakta.</p>
+<p style="text-align: justify">Ancak diğer yandan, filosundaki yaş ortalaması açısından P Sophia’nın varlığı <strong>maintenance cost</strong> ve teknik yatırım planlaması anlamında yük oluşturabilir. Özellikle 2024–2026 döneminde tanker piyasasında artan <strong>CII (Carbon Intensity Indicator)</strong> ve <strong>EEXI compliance</strong> gereklilikleri, yaşlı gemilerde daha yüksek operasyonel maliyetlere yol açıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Stratejik Değerlendirme</strong></h3>
-<p style="text-align: justify">FPSO dönüşüm pazarında rekabet artarken, dönüşüm için uygun tanker bulmak giderek zorlaşmakta. Performance Shipping’in P Sophia’yı elinde tutması, orta vadede spot piyasadaki olumlu navlun trendlerinden yararlanma yaklaşımını yansıtıyor. Ayrıca şirket, gelecekte yeniden bir dönüşüm projesi ortaya çıkması durumunda gemiyi alternatif bir aday olarak değerlendirebilir; ancak 2009 yapımı bir aframax için bu olasılık düşük.</p>
+<p style="text-align: justify">FPSO dönüşüm pazarında rekabet artarken, dönüşüm için uygun tanker bulmak giderek zorlaşıyor. Performance Shipping’in P Sophia’yı elinde tutması, orta vadede spot piyasadaki olumlu navlun trendlerinden yararlanma yaklaşımını yansıtıyor. Ayrıca şirket, gelecekte yeniden bir dönüşüm projesi ortaya çıkması durumunda gemiyi alternatif bir aday olarak değerlendirebilir; ancak 2009 yapımı bir aframax için bu olasılık düşük.</p>
 <p><br></p>
-<p style="text-align: justify">Genel çerçevede P Sophia’nın satılamaması, şirketin finansal planlamasında büyük bir sorun yaratmıyor. Tanker piyasasında tonaj sıkılığı devam etmekte ve şirketin aktif filo kullanımı güçlü kalmakta.</p>
+<p style="text-align: justify">Genel çerçevede P Sophia’nın satılamaması, şirketin finansal planlamasında büyük bir sorun yaratmıyor. Tanker piyasasında tonaj sıkılığı devam ediyor ve şirketin aktif filo kullanımı güçlü kalıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar:</strong></h3>
 <ul>

@@ -19,9 +19,9 @@ tags:
 - liman lojistiği
 - Belçika
 ---
-<p style="text-align: justify"><strong>Belçika’daki Antwerp-Bruges Limanı</strong>, liman pilotlarının gerçekleştirdiği iş bırakma eyleminin ardından ciddi bir <strong>gemi yığılması (backlog)</strong> ve <strong>lojistik darboğazla</strong> mücadele etmekte.</p>
+<p style="text-align: justify"><strong>Belçika’daki Antwerp-Bruges Limanı</strong>, liman pilotlarının gerçekleştirdiği iş bırakma eyleminin ardından ciddi bir <strong>gemi yığılması (backlog)</strong> ve <strong>lojistik darboğazla</strong> mücadele ediyor.</p>
 <p><br>
- <strong>Reuters</strong> verilerine göre, grevin sona ermesine rağmen limanda <strong>yaklaşık 190 gemi</strong>, yanaşmak veya ayrılmak için hâlâ beklemekte.</p>
+ <strong>Reuters</strong> verilerine göre, grevin sona ermesine rağmen limanda <strong>yaklaşık 190 gemi</strong>, yanaşmak veya ayrılmak için hâlâ bekliyor.</p>
 <p><br></p>
 <p style="text-align: justify">Bu aksama, <strong>Avrupa’nın en önemli enerji merkezlerinden biri olan limanda petrol teslimatlarını da sekteye uğrattı.</strong></p>
 <p><br></p>
@@ -30,7 +30,7 @@ tags:
 <p><br>
 Pilotlar, <strong>ekim ayının başında</strong> başlattıkları <strong>iş bırakma eylemi (industrial action)</strong> kapsamında çalışmayı durdurmuş, bu da gemi trafiğini durma noktasına getirmişti.</p>
 <p><br></p>
-<p style="text-align: justify">Her ne kadar grev sona ermiş olsa da, <strong>biriken gemi trafiği ve operasyonel gecikmeler</strong> liman akışını halen olumsuz etkilemekte.</p>
+<p style="text-align: justify">Her ne kadar grev sona ermiş olsa da, <strong>biriken gemi trafiği ve operasyonel gecikmeler</strong> liman akışını halen olumsuz etkiliyor.</p>
 <p><br>
 Liman yetkilileri, operasyonların yeniden başladığını ancak <strong>tam normalleşmenin birkaç günü bulacağını</strong> bildirdi.</p>
 <p><br></p>
@@ -41,7 +41,7 @@ Bazı operatörler, <strong>yük gemilerini alternatif limanlara (örneğin Rott
 <p><br></p>
 <p style="text-align: justify">Enerji analistlerine göre, bu durum <strong>Avrupa enerji arz zincirinin hassasiyetini</strong> bir kez daha gözler önüne serdi.</p>
 <p><br>
-Antwerp-Bruges, yılda <strong>230 milyon ton yük elleçleyen</strong> devasa bir lojistik merkez ve <strong>Avrupa’nın enerji ithalatının önemli bir kısmını</strong> karşılamakta.</p>
+Antwerp-Bruges, yılda <strong>230 milyon ton yük elleçleyen</strong> devasa bir lojistik merkez ve <strong>Avrupa’nın enerji ithalatının önemli bir kısmını</strong> karşılıyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Analiz: Liman Lojistiği Emek Kaynaklı Risklere Karşı Kırılgan</strong></h5>
 <p style="text-align: justify">Uzmanlar, bu olayın <strong>liman operasyonlarının iş gücü bağımlılığı</strong> nedeniyle ne kadar kırılgan olduğunu hatırlattığını belirtiyor.</p>
@@ -55,20 +55,20 @@ Bu nedenle, kısa süreli bir grev bile <strong>yakıt tedarikinden konteyner ta
 <h5 style="text-align: justify"><strong>Normalleşme Süreci Devam Ediyor</strong></h5>
 <p style="text-align: justify">Liman yönetimi, <strong>öncelikli gemilere geçiş önceliği verildiğini</strong> ve <strong>24 saat esasına göre operasyonların yeniden hızlandırıldığını</strong> açıkladı.</p>
 <p><br>
-Yine de, <strong>yaklaşık 190 gemilik bekleme sırasının</strong> tamamen temizlenmesinin <strong>birkaç gün ila bir hafta sürebileceği</strong> tahmin edilmekte.</p>
+Yine de, <strong>yaklaşık 190 gemilik bekleme sırasının</strong> tamamen temizlenmesinin <strong>birkaç gün ila bir hafta sürebileceği</strong> tahmin ediliyor.</p>
 <p><br></p>
 <p style="text-align: justify">Tıkanıklığın kısa vadede <strong>enerji taşımacılığı</strong> üzerinde fiyat baskısı yaratabileceği, ancak <strong>önemli bir arz krizi beklenmediği</strong> belirtiliyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Sonuç: Avrupa Lojistik Zincirinde Uyarı Niteliğinde Bir Olay</strong></h5>
 <p style="text-align: justify">Antwerp-Bruges Limanı’ndaki bu olay, <strong>Avrupa’nın enerji lojistiğinde insan kaynağı ve operasyonel dayanıklılık konularının</strong> önemini yeniden gündeme getirdi.</p>
 <p><br>
-Küresel ölçekte artan <strong>liman yoğunluğu, grev riskleri ve enerji taşımacılığına bağımlılık</strong>, tedarik zincirlerinde <strong>stratejik kırılganlıkları</strong> açık biçimde ortaya koymakta.</p>
+Küresel ölçekte artan <strong>liman yoğunluğu, grev riskleri ve enerji taşımacılığına bağımlılık</strong>, tedarik zincirlerinde <strong>stratejik kırılganlıkları</strong> açık biçimde ortaya koyuyor.</p>
 <p><br></p>
 <p style="text-align: justify">Kısa vadede operasyonların normale dönmesi beklenirken, uzun vadede <strong>iş gücü planlaması, dijital izleme ve esnek vardiya yönetimi</strong> gibi önlemlerin gündeme alınması öngörülüyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">Antwerp-Bruges Limanı’nda <strong>190 gemi</strong> grev sonrası yanaşmayı beklemekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Antwerp-Bruges Limanı’nda <strong>190 gemi</strong> grev sonrası yanaşmayı bekliyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Deniz pilotlarının ücret ve personel protestosu</strong>, trafiği durma noktasına getirdi.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Liman, <strong>Avrupa enerji ithalatının ana merkezlerinden biri</strong> konumunda.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Petrol ve rafine ürün tankerleri</strong> başta olmak üzere, birçok sevkiyat aksadı.</p></li>

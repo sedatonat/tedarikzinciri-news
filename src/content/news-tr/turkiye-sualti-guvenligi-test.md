@@ -24,21 +24,21 @@ tags:
 <p style="text-align: justify">Bu duyuru, Çanakkale Trafik Bilgi Sistemi tarafından denizcilik topluluğuna iletildi ve açıklamada trafiğin <strong>her iki yönde tamamen askıya alınacağı</strong> açık şekilde belirtildi.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Stratejik öneme sahip bir güzergâh</strong></h4>
-<p style="text-align: justify">Çanakkale Boğazı, Türk Boğazları sisteminin güney hattını oluşturmakta ve Ege Denizi’nden Marmara’ya, oradan da İstanbul Boğazı üzerinden Karadeniz’e uzanan küresel ticaret koridorunun kritik bir kısmını teşkil etmektedir.</p>
+<p style="text-align: justify">Çanakkale Boğazı, Türk Boğazları sisteminin güney hattını oluşturuyor ve Ege Denizi’nden Marmara’ya, oradan da İstanbul Boğazı üzerinden Karadeniz’e uzanan küresel ticaret koridorunun kritik bir kısmını teşkil ediyordir.</p>
 <p><br></p>
-<p style="text-align: justify">Her gün <strong>100’e yakın gemi</strong> bu hattı kullanmakta. Taşınan başlıca yükler arasında:</p>
+<p style="text-align: justify">Her gün <strong>100’e yakın gemi</strong> bu hattı kullanıyor. Taşınan başlıca yükler arasında:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Ham petrol</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Rafine petrol ürünleri</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Tahıl</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Gübre</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Madencilik ürünleri</strong><br>
-yer almaktadır.</p></li>
+yer alıyordır.</p></li>
 </ul>
-<p style="text-align: justify">Türkiye Ulaştırma ve Altyapı Bakanı <strong>Abdulkadir Uraloğlu</strong>, 2025’in ilk dokuz ayında Çanakkale Boğazı’ndan <strong>33.026 geminin</strong>, Türk Boğazları genelinde ise <strong>62.736 geminin</strong> geçtiğini açıklamıştı. Bu veriler, test nedeniyle yaşanan geçici kapanmanın bölgesel ve küresel lojistik akışları açısından ne kadar kritik olduğunu ortaya koymakta.</p>
+<p style="text-align: justify">Türkiye Ulaştırma ve Altyapı Bakanı <strong>Abdulkadir Uraloğlu</strong>, 2025’in ilk dokuz ayında Çanakkale Boğazı’ndan <strong>33.026 geminin</strong>, Türk Boğazları genelinde ise <strong>62.736 geminin</strong> geçtiğini açıklamıştı. Bu veriler, test nedeniyle yaşanan geçici kapanmanın bölgesel ve küresel lojistik akışları açısından ne kadar kritik olduğunu ortaya koyuyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Sualtı Güvenlik Projesi: Kritik altyapının korunması hedefleniyor</strong></h4>
-<p style="text-align: justify">Savunma Sanayii Başkanlığı tarafından yürütülen proje, boğazlardan geçen gemi trafiğini ve kıyı altyapısını sualtı tehditlerine karşı korumayı amaçlayan çok katmanlı bir güvenlik sistemi geliştirmekte.</p>
+<p style="text-align: justify">Savunma Sanayii Başkanlığı tarafından yürütülen proje, boğazlardan geçen gemi trafiğini ve kıyı altyapısını sualtı tehditlerine karşı korumayı amaçlayan çok katmanlı bir güvenlik sistemi geliştiriyor.</p>
 <p style="text-align: justify">Testlerin içeriğine ilişkin teknik detaylar kamu ile paylaşılmadı; ancak sualtı güvenlik projeleri tipik olarak:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Sualtı sensör ağları,</p></li>
@@ -46,9 +46,9 @@ yer almaktadır.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">İnsansız sualtı araçları (UUV),</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Dalgıç tespit sistemleri,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Kritik geçiş noktalarında izleme ve analiz yazılımlarını<br>
-kapsamakta.</p></li>
+kapsıyor.</p></li>
 </ul>
-<p style="text-align: justify">Bu tür projeler, özellikle stratejik önem taşıyan su yollarının sabotaj, kaçak geçiş, sualtı patlayıcıları ve gizli tehditlere karşı korunması amacıyla dünya genelinde yaygın olarak uygulanmakta.</p>
+<p style="text-align: justify">Bu tür projeler, özellikle stratejik önem taşıyan su yollarının sabotaj, kaçak geçiş, sualtı patlayıcıları ve gizli tehditlere karşı korunması amacıyla dünya genelinde yaygın olarak uygulanıyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Küresel ticarete kısa süreli etki</strong></h4>
 <p style="text-align: justify">Kapanma yaklaşık 11 saat sürdüğü için büyük çaplı bir aksama yaşanmadı; ancak Boğaz’da bekleyen gemiler geçici kuyruklar oluşturdu. Armatörler ve acenteler, gemi planlamalarında kısa süreli gecikmeleri hesaba katmak zorunda kaldı.</p>
@@ -57,17 +57,17 @@ kapsamakta.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Transit sürelerini,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Program güvenilirliğini,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Yakıt tüketimi ve rota planlamasını<br>
-kısa süreli de olsa etkileyebilmekte.</p></li>
+kısa süreli de olsa etkileyebiliyor.</p></li>
 </ul>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Türkiye’nin güvenlik modernizasyonunun parçası</strong></h4>
-<p style="text-align: justify">Bu test faaliyeti, Türkiye’nin kıyı savunması ve boğaz güvenliği alanında yürüttüğü modernizasyon projelerinin bir parçası olarak görülmekte.</p>
+<p style="text-align: justify">Bu test faaliyeti, Türkiye’nin kıyı savunması ve boğaz güvenliği alanında yürüttüğü modernizasyon projelerinin bir parçası olarak görülüyor.</p>
 <p style="text-align: justify">Sistem tam olarak devreye alındığında:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Boğazlarda kesintisiz izleme,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Sualtı tehditlerine erken uyarı,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Kritik altyapı için daha yüksek güvenlik seviyesi<br>
-sağlanması hedeflenmekte.</p></li>
+sağlanması hedefleniyor.</p></li>
 </ul>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Önemli Notlar:</strong></h4>

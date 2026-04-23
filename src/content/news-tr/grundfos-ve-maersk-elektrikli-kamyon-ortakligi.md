@@ -19,25 +19,25 @@ tags:
 - tedarik zinciri
 - yeşil taşımacılık
 ---
-<p style="text-align: justify">Danimarkalı pompa üreticisi <strong>Grundfos</strong>, küresel lojistik şirketi <strong>Maersk</strong> ile iş birliği yaparak elektrikli kamyonların tedarik zincirinde kullanımını artırmayı hedeflemekte. Bu ortaklık, <strong>Grundfos</strong>'un sürdürülebilirlik hedeflerine ulaşmasına ve karbon ayak izini azaltmasına yardımcı olmakta.​</p>
+<p style="text-align: justify">Danimarkalı pompa üreticisi <strong>Grundfos</strong>, küresel lojistik şirketi <strong>Maersk</strong> ile iş birliği yaparak elektrikli kamyonların tedarik zincirinde kullanımını artırmayı hedefliyor. Bu ortaklık, <strong>Grundfos</strong>'un sürdürülebilirlik hedeflerine ulaşmasına ve karbon ayak izini azaltmasına yardımcı oluyor.​</p>
 <p><br></p>
-<p style="text-align: justify"><strong>Grundfos</strong>, 2025 yılına kadar karbon nötr olmayı ve 2030'a kadar tedarik zincirindeki emisyonları %50 oranında azaltmayı planlamakta. Bu hedeflere ulaşmak için <strong>Maersk</strong> ile birlikte çalışarak, taşımacılık operasyonlarında elektrikli kamyonların kullanımını artırmakta.​</p>
+<p style="text-align: justify"><strong>Grundfos</strong>, 2025 yılına kadar karbon nötr olmayı ve 2030'a kadar tedarik zincirindeki emisyonları %50 oranında azaltmayı planlıyor. Bu hedeflere ulaşmak için <strong>Maersk</strong> ile birlikte çalışarak, taşımacılık operasyonlarında elektrikli kamyonların kullanımını artırıyor.​</p>
 <p><br></p>
-<p style="text-align: justify"><strong>Maersk</strong>, 2040 yılına kadar net sıfır emisyonlu bir şirket olmayı hedeflemekte ve bu doğrultuda tedarik zincirinde daha sürdürülebilir çözümler sunmakta. Elektrikli kamyonların kullanımı, bu hedefe ulaşmada önemli bir adım olarak görülmekte.​</p>
+<p style="text-align: justify"><strong>Maersk</strong>, 2040 yılına kadar net sıfır emisyonlu bir şirket olmayı hedefliyor ve bu doğrultuda tedarik zincirinde daha sürdürülebilir çözümler sunuyor. Elektrikli kamyonların kullanımı, bu hedefe ulaşmada önemli bir adım olarak görülüyor.​</p>
 <p><br></p>
-<p style="text-align: justify">Ortaklık kapsamında, <strong>Maersk</strong> elektrikli kamyon filosunu genişleterek <strong>Grundfos</strong>'un lojistik ihtiyaçlarını karşılamakta. Bu sayede, <strong>Grundfos</strong> ürünlerinin taşınması sırasında fosil yakıtlı araçların kullanımı azaltılmakta ve karbon emisyonları düşürülmekte.​</p>
+<p style="text-align: justify">Ortaklık kapsamında, <strong>Maersk</strong> elektrikli kamyon filosunu genişleterek <strong>Grundfos</strong>'un lojistik ihtiyaçlarını karşılıyor. Bu sayede, <strong>Grundfos</strong> ürünlerinin taşınması sırasında fosil yakıtlı araçların kullanımı azaltılıyor ve karbon emisyonları düşürülüyor.​</p>
 <p><br></p>
-<p style="text-align: justify">Elektrikli kamyonların kullanımı, sadece çevresel faydalar sağlamakla kalmamakta, aynı zamanda operasyonel maliyetleri de azaltmakta. Elektrikli araçlar, fosil yakıtlı araçlara göre daha düşük enerji maliyetlerine ve bakım giderlerine sahip olmakta.​</p>
+<p style="text-align: justify">Elektrikli kamyonların kullanımı, sadece çevresel faydalar sağlamakla kalmıyor, aynı zamanda operasyonel maliyetleri de azaltıyor. Elektrikli araçlar, fosil yakıtlı araçlara göre daha düşük enerji maliyetlerine ve bakım giderlerine sahip oluyor.​</p>
 <p><br></p>
-<p style="text-align: justify"><strong>Grundfos</strong> ve <strong>Maersk</strong>, bu ortaklık sayesinde sürdürülebilir lojistik çözümler geliştirmekte ve endüstride örnek teşkil etmekte. Diğer şirketlerin de benzer adımlar atarak karbon emisyonlarını azaltmaları ve çevreye duyarlı uygulamalar benimsemeleri teşvik edilmekte.​</p>
+<p style="text-align: justify"><strong>Grundfos</strong> ve <strong>Maersk</strong>, bu ortaklık sayesinde sürdürülebilir lojistik çözümler geliştiriyor ve endüstride örnek teşkil ediyor. Diğer şirketlerin de benzer adımlar atarak karbon emisyonlarını azaltmaları ve çevreye duyarlı uygulamalar benimsemeleri teşvik ediliyor.​</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Grundfos</strong> ve <strong>Maersk</strong>, elektrikli kamyonların tedarik zincirinde kullanımını artırmak için ortaklık kurmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Grundfos</strong>, 2025 yılına kadar karbon nötr olmayı ve 2030'a kadar tedarik zinciri emisyonlarını %50 azaltmayı hedeflemekte.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Maersk</strong>, 2040 yılına kadar net sıfır emisyonlu bir şirket olmayı planlamakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Elektrikli kamyonların kullanımı, karbon emisyonlarını azaltmanın yanı sıra operasyonel maliyetleri de düşürmekte.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Bu ortaklık, diğer şirketlere sürdürülebilir lojistik çözümler geliştirmeleri için örnek teşkil etmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Grundfos</strong> ve <strong>Maersk</strong>, elektrikli kamyonların tedarik zincirinde kullanımını artırmak için ortaklık kuruyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Grundfos</strong>, 2025 yılına kadar karbon nötr olmayı ve 2030'a kadar tedarik zinciri emisyonlarını %50 azaltmayı hedefliyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Maersk</strong>, 2040 yılına kadar net sıfır emisyonlu bir şirket olmayı planlıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Elektrikli kamyonların kullanımı, karbon emisyonlarını azaltmanın yanı sıra operasyonel maliyetleri de düşürüyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Bu ortaklık, diğer şirketlere sürdürülebilir lojistik çözümler geliştirmeleri için örnek teşkil ediyor.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

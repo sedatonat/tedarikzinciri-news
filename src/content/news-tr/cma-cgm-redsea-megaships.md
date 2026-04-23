@@ -1,11 +1,11 @@
 ---
 title: CMA CGM, İki Mega Gemiyi Red Sea Üzerinden Asya’ya Geri Göndererek Güzergâhı Test Ediyor
-subtitle: CMA CGM, İki Mega Gemiyi Red Sea Üzerinden Asya’ya Geri Göndererek Güzergâhı Test Etmekte
+subtitle: CMA CGM, İki Mega Gemiyi Red Sea Üzerinden Asya’ya Geri Göndererek Güzergâhı Test Ediyor
 date: '2025-10-30T09:00:00Z'
 sourceUrl: https://www.joc.com/article/cma-cgm-alliance-megaships-test-red-sea-waters-on-return-to-asia-6105787
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_ad76fd7d3e76451b874e44e901a255d9~mv2.jpeg
-imageAlt: CMA CGM, Benjamin Franklin (17.859 TEU) ve Sorbonne (23.112 TEU) adlı Ocean Alliance megaship’lerini Süveyş–Kızıldeniz rotasında iki yıl sonra ilk kez yeniden denemekte; bu hareket, bölgenin temkinli şekilde normale dönmeye başladığına işaret etmekte.
+imageAlt: CMA CGM, Benjamin Franklin (17.859 TEU) ve Sorbonne (23.112 TEU) adlı Ocean Alliance megaship’lerini Süveyş–Kızıldeniz rotasında iki yıl sonra ilk kez yeniden denemekte; bu hareket, bölgenin temkinli şekilde normale dönmeye başladığına işaret ediyor.
 wixId: 88b49ed4-c572-49b9-adb4-90c3f62cac02
 author: Sedat Onat
 translated: false
@@ -20,9 +20,9 @@ tags:
 - mega gemi
 - navlun maliyeti
 ---
-<p style="text-align: justify">CMA CGM, Kızıldeniz’de iki yıldır devam eden güvenlik krizinin ardından <strong>ilk büyük ölçekli test geçişini</strong> gerçekleştirmekte. Ocean Alliance’ın NEU4 ve NEU5 servislerinde çalışan iki megamax sınıfı geminin <strong>Süveyş Kanalı’na doğru yönelmesi</strong>, hat operatörlerinin rotayı temkinli şekilde yeniden açmayı değerlendirdiğini gösteriyor.</p>
+<p style="text-align: justify">CMA CGM, Kızıldeniz’de iki yıldır devam eden güvenlik krizinin ardından <strong>ilk büyük ölçekli test geçişini</strong> gerçekleştiriyor. Ocean Alliance’ın NEU4 ve NEU5 servislerinde çalışan iki megamax sınıfı geminin <strong>Süveyş Kanalı’na doğru yönelmesi</strong>, hat operatörlerinin rotayı temkinli şekilde yeniden açmayı değerlendirdiğini gösteriyor.</p>
 <p><br></p>
-<p style="text-align: justify">Analist <strong>Linerlytica</strong>, NEU4 hattında çalışan <strong>17.859 TEU’luk CMA CGM Benjamin Franklin</strong> gemisinin Avrupa çıkışlı dönüş (eastbound backhaul) seferinde <strong>Akdeniz’e dönerek Süveyş yönüne ilerlediğini</strong> bildirdi. Aynı şekilde, NEU5 hattındaki <strong>23.112 TEU’luk CMA CGM Sorbonne</strong> da benzer bir şekilde Akdeniz’e doğru seyretmekte.</p>
+<p style="text-align: justify">Analist <strong>Linerlytica</strong>, NEU4 hattında çalışan <strong>17.859 TEU’luk CMA CGM Benjamin Franklin</strong> gemisinin Avrupa çıkışlı dönüş (eastbound backhaul) seferinde <strong>Akdeniz’e dönerek Süveyş yönüne ilerlediğini</strong> bildirdi. Aynı şekilde, NEU5 hattındaki <strong>23.112 TEU’luk CMA CGM Sorbonne</strong> da benzer bir şekilde Akdeniz’e doğru seyrediyor.</p>
 <p><br></p>
 <p style="text-align: justify">Bu iki gemi, <strong>Ocean Alliance’a ait mega gemilerin</strong> çatışma bölgesine iki yıl sonra ilk kez girmesi anlamına geliyor ve taşıyıcıların Red Sea rotasını <strong>kontrollü biçimde yeniden devreye alıp alamayacağını test ettiği</strong> düşünülüyor.</p>
 <p><br></p>
@@ -42,7 +42,7 @@ için kullanılıyor.</p></li>
 <p style="text-align: justify">Sektör analistlerine göre:</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>1) Transit maliyetleri ve Ümit Burnu rotası baskısı</strong></h5>
-<p>Ümit Burnu dolaşımlarının maliyet ve süre yükü, özellikle boş dönüş bacaklarında (eastbound backhaul) çok daha belirgin hâle gelmekte.</p>
+<p>Ümit Burnu dolaşımlarının maliyet ve süre yükü, özellikle boş dönüş bacaklarında (eastbound backhaul) çok daha belirgin hâle geliyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>2) AB donanma koridorları daha etkin</strong></h5>
 <p>2025’in ikinci yarısında Avrupa Birliği ve bazı uluslararası güvenlik güçlerinin devriye kapasitesi artmış durumda.</p>
@@ -54,7 +54,7 @@ için kullanılıyor.</p></li>
 <p style="text-align: justify">Her ne kadar iki mega geminin Süveyş’e yönelmesi umut verici görünse de analistler, riskin önemli ölçüde devam ettiğini vurguluyor:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Deniz sigortası primleri hâlâ çok yüksek,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Husi güçlerinin yeniden silahlanma sinyalleri bulunmakta,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Husi güçlerinin yeniden silahlanma sinyalleri bulunuyor,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Bab el-Mendeb’de donanma koridorları tam koruma sağlayamamakta,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Tek bir olay, hatların yeniden Ümit Burnu rotasına dönmesine yol açabilir.</p></li>
 </ul>
@@ -68,12 +68,12 @@ için kullanılıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Avrupa aktarma limanlarındaki yük dengesi değişebilir,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Ümit Burnu kaynaklı küresel program bozulmaları azalabilir.</p></li>
 </ul>
-<p style="text-align: justify">Ancak tam dönüşün <strong>bir anda kapasite yığılmalarına ve Avrupa limanlarında kongesyon artışına</strong> yol açabileceği de belirtilmekte.</p>
+<p style="text-align: justify">Ancak tam dönüşün <strong>bir anda kapasite yığılmalarına ve Avrupa limanlarında kongesyon artışına</strong> yol açabileceği de belirtiliyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Önemli Notlar</strong></h4>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">CMA CGM, iki büyük gemisini <strong>Süveyş/Kızıldeniz rotasında</strong> test amaçlı yönlendirdi.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Benjamin Franklin (17.859 TEU) ve Sorbonne (23.112 TEU) Akdeniz’e dönerek Süveyş’e ilerlemekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Benjamin Franklin (17.859 TEU) ve Sorbonne (23.112 TEU) Akdeniz’e dönerek Süveyş’e ilerliyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Bu hareket <strong>iki yıl sonra ilk mega gemi geçişi</strong> anlamına geliyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Test seferlerinin nedeni: sigorta, güvenlik, donanma koridorları ve maliyet optimizasyonu.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Risk hâlen yüksek; bu bir <strong>deneme</strong>, tam dönüş değil.</p></li>

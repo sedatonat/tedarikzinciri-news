@@ -43,7 +43,7 @@ tags:
 <p><br></p>
 <p>Bu adım, ABD'deki altyapı projelerinde yerli malzeme kullanımını artırmayı hedefleyen BABA Yasası'nın amaçlarıyla uyumludur.</p>
 <p><br></p>
-<p>Şirket, yüksek kapasiteli ekipmanlar için elektrikli güç seçeneklerini geliştirerek, hem çevresel sürdürülebilirliği desteklemeyi hem de müşterilerine yenilikçi çözümler sunmayı amaçlamaktadır.</p>
+<p>Şirket, yüksek kapasiteli ekipmanlar için elektrikli güç seçeneklerini geliştirerek, hem çevresel sürdürülebilirliği desteklemeyi hem de müşterilerine yenilikçi çözümler sunmayı amaçlıyordır.</p>
 <p><br></p>
 <p>Bu girişimler, <strong>Hyster-Yale</strong>'in endüstri lideri standartları sürdürme ve müşterilerinin beklentilerini karşılama konusundaki taahhüdünü pekiştirir niteliktedir.</p>
 <p><br></p>

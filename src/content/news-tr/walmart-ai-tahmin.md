@@ -1,11 +1,11 @@
 ---
 title: "Walmart: Yapay Zekâ Tedarik Değişimlerini Öngörebiliyor"
-subtitle: 'Walmart: Yapay Zekâ Tedarik Değişimlerini Öngörebilmekte'
+subtitle: 'Walmart: Yapay Zekâ Tedarik Değişimlerini Öngörebiliyor'
 date: '2025-09-18T00:00:00Z'
 sourceUrl: https://www.supplychainbrain.com/articles/42512-ai-allows-walmart-to-even-anticipate-changes-in-supply-chain
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_73d00124691f46c6becf359d19539e6b~mv2.png
-imageAlt: 'Walmart: Yapay Zekâ Tedarik Değişimlerini Öngörebilmekte'
+imageAlt: 'Walmart: Yapay Zekâ Tedarik Değişimlerini Öngörebiliyor'
 wixId: fd95ac53-ee92-4fd5-a262-84c43d27a71c
 author: Sedat Onat
 translated: false
@@ -33,10 +33,10 @@ tags:
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
   <li><p>Demand sensing çoklu veriyle beslenmektedir.</p></li>
-  <li><p>Predictive ETA stok yerleşimini optimize etmektedir.</p></li>
-  <li><p>Computer vision + AMR hataları azaltmaktadır.</p></li>
-  <li><p>Dynamic routing beklemeleri düşürmektedir.</p></li>
-  <li><p>Kontrol kulesi istisna yönetimini hızlandırmaktadır.</p></li>
+  <li><p>Predictive ETA stok yerleşimini optimize ediyordir.</p></li>
+  <li><p>Computer vision + AMR hataları azaltıyordır.</p></li>
+  <li><p>Dynamic routing beklemeleri düşürüyordir.</p></li>
+  <li><p>Kontrol kulesi istisna yönetimini hızlandırıyordır.</p></li>
 </ul>
 <p>-------</p>
 <p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42512-ai-allows-walmart-to-even-anticipate-changes-in-supply-chain"><u>https://www.supplychainbrain.com/articles/42512-ai-allows-walmart-to-even-anticipate-changes-in-supply-chain</u></a></p>

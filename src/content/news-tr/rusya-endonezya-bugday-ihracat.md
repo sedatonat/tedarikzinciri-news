@@ -30,7 +30,7 @@ Yaklaşık <strong>52.000 ton buğday</strong>, <strong>Karadeniz’deki Novoros
 <p><br>
 Bu laboratuvarlar, <strong>Endonezya’ya ihraç edilen tahılların kalite kontrolünden sorumlu</strong> olacak.</p>
 <p><br></p>
-<p style="text-align: justify">Bu akreditasyon uzatması, <strong>Rus tahıl ihracatının sürdürülebilirliğini</strong> ve <strong>Endonezya pazarına erişim güvenliğini</strong> garanti altına almakta.</p>
+<p style="text-align: justify">Bu akreditasyon uzatması, <strong>Rus tahıl ihracatının sürdürülebilirliğini</strong> ve <strong>Endonezya pazarına erişim güvenliğini</strong> garanti altına alıyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Endonezya: Güneydoğu Asya’nın En Büyük Tahıl İthalatçılarından Biri</strong></h5>
 <p style="text-align: justify">Endonezya her yıl ortalama olarak:</p>
@@ -41,7 +41,7 @@ Bu laboratuvarlar, <strong>Endonezya’ya ihraç edilen tahılların kalite kont
 </ul>
 <p style="text-align: justify">Bu rakamlar, ülkeyi <strong>Güneydoğu Asya’nın en büyük tarım ürünleri ithalatçısı</strong> konumuna getiriyor.</p>
 <p style="text-align: justify">2022–2025 döneminde Rusya, Endonezya’ya <strong>2,6 milyon tonun üzerinde tahıl</strong> ihraç etti.<br>
-Yeni akreditasyon kararı, bu hacmin <strong>önümüzdeki yıllarda daha da artmasının önünü açmakta.</strong></p>
+Yeni akreditasyon kararı, bu hacmin <strong>önümüzdeki yıllarda daha da artmasının önünü açıyor.</strong></p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Stratejik Önemi: Güneydoğu Asya Pazarı</strong></h5>
 <p style="text-align: justify">Endonezya, <strong>Rusya için tarımsal ihracatta stratejik bir pazar</strong> niteliğinde.<br>
@@ -56,7 +56,7 @@ Bu akreditasyon uzatması sayesinde Rus tarım üreticileri:</p>
 <h5 style="text-align: justify"><strong>Sonuç: İhracatta Yeni Denge</strong></h5>
 <p style="text-align: justify">Rusya’nın Endonezya’ya buğday ihracatının yeniden başlaması, <strong>tarımsal ticaret ilişkilerinde normalleşmenin</strong> sinyali olarak görülüyor.</p>
 <p><br>
-Akreditasyon kararı, iki ülke arasında <strong>tarım ve gıda güvenliği alanındaki iş birliğini</strong> de güçlendirmekte.</p>
+Akreditasyon kararı, iki ülke arasında <strong>tarım ve gıda güvenliği alanındaki iş birliğini</strong> de güçlendiriyor.</p>
 <p><br></p>
 <p style="text-align: justify">Bu adım, <strong>Rusya’nın Asya pazarındaki varlığını derinleştirirken</strong>, Endonezya’ya da <strong>istikrarlı tahıl tedariki</strong> sağlayacak.</p>
 <p><br></p>
@@ -67,7 +67,7 @@ Akreditasyon kararı, iki ülke arasında <strong>tarım ve gıda güvenliği al
   <li style="text-align: justify"><p style="text-align: justify"><strong>Endonezya</strong>, Rusya’daki <strong>5 tahıl test laboratuvarının akreditasyonunu uzattı.</strong></p></li>
   <li style="text-align: justify"><p style="text-align: justify">Endonezya yıllık: <strong>11 milyon ton buğday, 2,7 milyon ton soya, 1,2 milyon ton mısır</strong> ithal ediyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>2022–2025 arasında Rusya, Endonezya’ya 2,6 milyon ton tahıl</strong> ihraç etti.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Yeni akreditasyon, Rus üreticilere <strong>Asya pazarında daha geniş ihracat fırsatları</strong> sunmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Yeni akreditasyon, Rus üreticilere <strong>Asya pazarında daha geniş ihracat fırsatları</strong> sunuyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

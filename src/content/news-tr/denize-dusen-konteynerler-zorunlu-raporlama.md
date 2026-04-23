@@ -23,7 +23,7 @@ tags:
 <p><br></p>
 <p>WSC'nin Güvenlik ve Güvenlikten Sorumlu Kıdemli Başkan Yardımcısı Lars Kjaer, düzenlemenin denizcilikte navigasyon güvenliğini artıracağını, kayıp ve sürüklenen konteynerlerin hızlı ve detaylı bir şekilde raporlanmasının önemine değindi. Bu raporlama, olası çevresel tehlikelerin önlenmesinde de kritik rol oynayacak.&nbsp;</p>
 <p><br></p>
-<p>WSC, 2008'den beri üyelerinden denize düşen konteyner sayısı hakkında bilgi toplamakta ve bu bilgileri düzenli olarak "Denize Düşen Konteynerler Raporu"nda yayımlamaktadır. Bu raporlar, konteyner ve yük güvenliğini artırmaya yönelik çabalar için önemli bir bilgi kaynağı olarak kullanılmaktadır. 2023 verilerini içerecek "Denize Düşen Konteynerler Raporu – 2024 Güncellemesi" yakın zamanda yayımlanacak.</p>
+<p>WSC, 2008'den beri üyelerinden denize düşen konteyner sayısı hakkında bilgi toplamakta ve bu bilgileri düzenli olarak "Denize Düşen Konteynerler Raporu"nda yayımlıyordır. Bu raporlar, konteyner ve yük güvenliğini artırmaya yönelik çabalar için önemli bir bilgi kaynağı olarak kullanılıyordır. 2023 verilerini içerecek "Denize Düşen Konteynerler Raporu – 2024 Güncellemesi" yakın zamanda yayımlanacak.</p>
 <p><br></p>
 <p><br></p>
 <p><strong>Haber Linki:</strong> <a href="https://www.thescxchange.com/articles/10354-wsc-applauds-mandatory-reporting-rule-for-containers-lost-at-sea"><u>https://www.thescxchange.com/articles/10354-wsc-applauds-mandatory-reporting-rule-for-containers-lost-at-sea</u></a></p>

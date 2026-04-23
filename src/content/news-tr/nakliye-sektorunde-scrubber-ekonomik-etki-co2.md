@@ -26,9 +26,9 @@ tags:
 <p><br></p>
 <p>Tüm endüstri boyunca günlük dünya çapında yakıt kullanımını tahmin etmek için kullanılan bir model aracılığıyla, <a href="https://en.wikipedia.org/wiki/International_Maritime_Organization"><u>IMO</u></a>2020'nin benimsenmesinden bu yana, scrubber'ların kullanımı sayesinde nakliye hatları toplamda 13 milyar dolar tasarruf etti.</p>
 <p><br></p>
-<p>Sea-Intelligence CEO'su <a href="https://www.linkedin.com/in/alan-r-murphy/"><u>Alan Murphy</u></a>, bu gelişmenin, nakliye sektörünün maliyetleri üzerindeki düzenleyici eylemlerle motive olduğunu gösterdiğini belirtti. Ancak, mali motivasyonun her zaman düzenlemenin savunucularının beklediği sonucu doğurmadığını da göstermektedir. Düşük kükürt içerikli yakıta geçmek yerine, yasalarla tamamen uyumlu olan scrubberlar ile sıradan benzin kullanmak daha maliyet etkilidir.</p>
+<p>Sea-Intelligence CEO'su <a href="https://www.linkedin.com/in/alan-r-murphy/"><u>Alan Murphy</u></a>, bu gelişmenin, nakliye sektörünün maliyetleri üzerindeki düzenleyici eylemlerle motive olduğunu gösterdiğini belirtti. Ancak, mali motivasyonun her zaman düzenlemenin savunucularının beklediği sonucu doğurmadığını da gösteriyordir. Düşük kükürt içerikli yakıta geçmek yerine, yasalarla tamamen uyumlu olan scrubberlar ile sıradan benzin kullanmak daha maliyet etkilidir.</p>
 <p><br></p>
-<p>Ayrıca, karbon emisyonlarını azaltmaya yönelik politikaların sorunlarını vurguladı. AB'nin nakliye üzerindeki ETS karbon fiyatı gibi maliyet odaklı düzenlemeler etkili olmaktadır. Murphy, endüstrinin düzenlemelere harfiyen uyma yollarını bulup bulamayacağının görüleceğini ekledi.</p>
+<p>Ayrıca, karbon emisyonlarını azaltmaya yönelik politikaların sorunlarını vurguladı. AB'nin nakliye üzerindeki ETS karbon fiyatı gibi maliyet odaklı düzenlemeler etkili oluyordır. Murphy, endüstrinin düzenlemelere harfiyen uyma yollarını bulup bulamayacağının görüleceğini ekledi.</p>
 <p><br></p>
 <p>Ocak ayında, Sea-Intelligence Kızıldeniz krizinin devam etmesi sonucu denizcilik şirketlerinin CO2 emisyonlarının artacağını öngördü.</p>
 <p><br></p>

@@ -57,13 +57,13 @@ gibi tüm paydaşlardan geri bildirim toplayacak.</p></li>
 <h4 style="text-align: justify"><strong>Rotterdam Limanı’nın rolü daha da genişliyor</strong></h4>
 <p style="text-align: justify">Rotterdam Limanı, sadece altyapıyı yönetmekle kalmayan; aynı zamanda <strong>endüstri ve enerji dönüşüm projelerinin koordinatörü</strong> olan bir kamu şirketi. Hollanda Devleti ve Rotterdam Belediyesi’nin ortak sahipliğindeki otorite, limanda güvenlik, arazi tahsisi, altyapı geliştirme ve enerji projelerinin yönlendirilmesinden sorumlu.</p>
 <p><br></p>
-<p style="text-align: justify">Bu yeni danışma süreci, limanın hidrojen değer zincirinin <strong>Avrupa’ya giriş kapısı</strong> olma hedefini güçlendirmekte. Rotterdam, özellikle Kuzey Denizi’ndeki yeşil hidrojen üretimi ile Orta Doğu, Afrika ve İskandinavya’dan gelecek hidrojen ithalatında ana merkezlerden biri olarak konumlanmak istiyor.</p>
+<p style="text-align: justify">Bu yeni danışma süreci, limanın hidrojen değer zincirinin <strong>Avrupa’ya giriş kapısı</strong> olma hedefini güçlendiriyor. Rotterdam, özellikle Kuzey Denizi’ndeki yeşil hidrojen üretimi ile Orta Doğu, Afrika ve İskandinavya’dan gelecek hidrojen ithalatında ana merkezlerden biri olarak konumlanmak istiyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Önemli Notlar:</strong></h4>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Rotterdam Limanı, hidrojen ithalat terminallerinin gelişimini hızlandırmak için <strong>market consultation</strong> başlattı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Amaç: yatırımları geciktiren finansal ve teknik darboğazların belirlenmesi.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Chicken-and-egg problemi hidrojen yatırımlarında kritik bir engel yaratmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Chicken-and-egg problemi hidrojen yatırımlarında kritik bir engel yaratıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Danışma süreci <strong>16 Ocak 2026</strong>’ya kadar sürecek.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Sonuçlar doğrultusunda liman, yatırım hızlandırıcı adımlar atabilir.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Rotterdam, Avrupa’nın hidrojen merkezlerinden biri olmayı hedefliyor.</p></li>

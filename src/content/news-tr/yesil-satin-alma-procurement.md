@@ -23,27 +23,27 @@ tags:
 <p><br>
  <strong>Nisan 2025’te</strong> yürürlüğe giren <strong>%25 gümrük tarifeleri</strong>, özellikle <strong>küçük ölçekli Kanada otomotiv parça üreticilerini (SSAP)</strong> derinden etkiledi.</p>
 <p><br>
-Ancak <strong>Corrine Chen</strong> tarafından yapılan araştırma, bu üreticilerin <strong>yeşil satın alma (green procurement)</strong> uygulamaları sayesinde tarifelere karşı beklenenden çok daha dirençli olduğunu ortaya koymakta.</p>
+Ancak <strong>Corrine Chen</strong> tarafından yapılan araştırma, bu üreticilerin <strong>yeşil satın alma (green procurement)</strong> uygulamaları sayesinde tarifelere karşı beklenenden çok daha dirençli olduğunu ortaya koyuyor.</p>
 <p><br></p>
-<p style="text-align: justify">Yeşil satın alma, yalnızca <strong>çevresel sürdürülebilirliği</strong> değil, aynı zamanda <strong>organizasyonel çevikliği, risk yönetimini ve stratejik dayanıklılığı</strong> da güçlendiren bir yapı olarak öne çıkmakta.</p>
+<p style="text-align: justify">Yeşil satın alma, yalnızca <strong>çevresel sürdürülebilirliği</strong> değil, aynı zamanda <strong>organizasyonel çevikliği, risk yönetimini ve stratejik dayanıklılığı</strong> da güçlendiren bir yapı olarak öne çıkıyor.</p>
 <p><br>
 Kanadalı tedarikçiler, çevresel kriterleri tedarik kararlarına entegre ederek <strong>hem karbon ayak izini azaltmayı</strong> hem de <strong>tarifelerle gelen maliyet baskılarına karşı esneklik kazanmayı</strong> başardı.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Yeşil Satın Alma: Direnç Kazandıran Bir Uygulama</strong></h5>
-<p style="text-align: justify"><strong>Yeşil satın alma (green procurement)</strong>, satın alma süreçlerinde <strong>enerji kullanımı, emisyonlar, malzeme kaynağı ve atık yönetimi</strong> gibi çevresel kriterlerin dikkate alınması anlamına gelmekte.</p>
+<p style="text-align: justify"><strong>Yeşil satın alma (green procurement)</strong>, satın alma süreçlerinde <strong>enerji kullanımı, emisyonlar, malzeme kaynağı ve atık yönetimi</strong> gibi çevresel kriterlerin dikkate alınması anlamına geliyor.</p>
 <p><br>
 Kanadalı otomotiv tedarikçileri, bu uygulamaları <strong>Kotter’in (1996) Sekiz Adımlı Değişim Modeli</strong> temelinde hayata geçirerek, hem sürdürülebilirlik hem de direnç kazandıran kurum kültürleri oluşturdu.</p>
 <p><br></p>
-<p style="text-align: justify">Bu çalışma, <strong>Kanada otomotiv parça sektörünün %70’ini oluşturan küçük ölçekli üreticiler (SSAP)</strong> arasında yapılan saha araştırmalarına dayanmakta.</p>
+<p style="text-align: justify">Bu çalışma, <strong>Kanada otomotiv parça sektörünün %70’ini oluşturan küçük ölçekli üreticiler (SSAP)</strong> arasında yapılan saha araştırmalarına dayanıyor.</p>
 <p><br>
-Sonuçlar, <strong>çevresel kriterleri benimseyen firmaların tarifeler, tedarik aksaklıkları ve maliyet artışları karşısında çok daha hızlı adapte olabildiğini</strong> göstermekte.</p>
+Sonuçlar, <strong>çevresel kriterleri benimseyen firmaların tarifeler, tedarik aksaklıkları ve maliyet artışları karşısında çok daha hızlı adapte olabildiğini</strong> gösteriyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>1. Sürekli Aciliyet Kültürü: Değişime Kalıcı Motivasyon</strong></h5>
 <p style="text-align: justify">Geleneksel modeller, “aciliyet” duygusunu değişim sürecinin başlangıcında bir itici güç olarak görür.<br>
-Ancak Chen’in bulgularına göre, <strong>sürekli aciliyet (sustained urgency)</strong>, uzun süreli belirsizlik ortamında rekabet avantajına dönüşmekte.</p>
+Ancak Chen’in bulgularına göre, <strong>sürekli aciliyet (sustained urgency)</strong>, uzun süreli belirsizlik ortamında rekabet avantajına dönüşüyor.</p>
 <p><br></p>
 <p style="text-align: justify">Bir tedarik zinciri liderinin ifadesiyle:</p>
-<blockquote style="text-align: justify">“2035 emisyon hedefi yaklaşıyor; artık hızlı hareket etmekten başka seçeneğimiz yok.”</blockquote>
+<blockquote style="text-align: justify">“2035 emisyon hedefi yaklaşıyor; artık hızlı hareket ediyorn başka seçeneğimiz yok.”</blockquote>
 <p style="text-align: justify">Liderler, <strong>uyum (compliance)</strong> ve <strong>rekabet avantajını</strong> birlikte konumlandırarak iki yönlü bir baskı modeli oluşturdu.<br>
 Bu sayede şirketler, kısa vadeli kriz algısından çıkıp, <strong>sürekli dönüşüm gerektiren bir ticaret düzenine</strong> uyum sağladı.</p>
 <p><br></p>
@@ -69,7 +69,7 @@ Firmalar, farklı uzmanlıkları hızla karar süreçlerine dahil ederek <strong
 </ul>
 <p><br></p>
 <h5 style="text-align: justify"><strong>3. Şeffaf İletişim: Görselleştirme ve Geri Bildirim Döngüleri</strong></h5>
-<p style="text-align: justify"><strong>Kanadalı üreticiler</strong>, yeşil satın alma süreçlerinde <strong>şeffaf iletişim (transparent communication)</strong> stratejilerini etkin biçimde kullanmakta.</p>
+<p style="text-align: justify"><strong>Kanadalı üreticiler</strong>, yeşil satın alma süreçlerinde <strong>şeffaf iletişim (transparent communication)</strong> stratejilerini etkin biçimde kullanıyor.</p>
 <p><br>
 Liderler, hem iç paydaşlarla hem de tedarikçilerle <strong>veri görselleştirmeye dayalı panolar</strong>, <strong>bültenler</strong> ve <strong>kısa video mesajları</strong> üzerinden ilerlemeleri paylaştı.</p>
 <p><br></p>
@@ -88,7 +88,7 @@ Liderler, hem iç paydaşlarla hem de tedarikçilerle <strong>veri görselleşti
 <p style="text-align: justify">Araştırma, <strong>bireysel yetkilendirme (empowerment)</strong> yaklaşımının tek başına yeterli olmadığını, bunun <strong>prosedürlerle ve şablonlarla entegre edilmesi</strong> gerektiğini ortaya koydu.<br>
 Firmalar, karar matrisleri ve sürdürülebilirlik kriterlerini <strong>satın alma şablonlarına</strong> dahil ederek süreçleri yeniden yapılandırdı.</p>
 <p><br></p>
-<p style="text-align: justify">Bir yönetici bu yöntemi şöyle açıklamakta:</p>
+<p style="text-align: justify">Bir yönetici bu yöntemi şöyle açıklıyor:</p>
 <blockquote style="text-align: justify">“Görevleri fazlara böldük. Yetkilendirme vardı ama her adım net tanımlıydı. Bu da koordinasyonu sağladı.”</blockquote>
 <p style="text-align: justify"><strong>Uygulama Önerisi:</strong></p>
 <ul>
@@ -113,7 +113,7 @@ Araştırmaya göre, çevresel hedefler için geliştirilmiş bu dört kapasite 
 <p style="text-align: justify">Araştırmanın ana mesajı net:<br>
  <strong>Sürdürülebilirlik ve operasyonel mükemmeliyet artık ayrı kavramlar değil.</strong><br>
 Yeşil satın alma, sadece çevre dostu bir yaklaşım değil; aynı zamanda <strong>tarifeler, tedarik zinciri kırılmaları ve regülasyon değişiklikleri</strong> karşısında kurumlara direnç kazandıran stratejik bir araç.</p>
-<p style="text-align: justify">Kanadalı tedarikçilerin deneyimi, <strong>ABD otomotiv üreticileri için bir yol haritası</strong> sunmakta:<br>
+<p style="text-align: justify">Kanadalı tedarikçilerin deneyimi, <strong>ABD otomotiv üreticileri için bir yol haritası</strong> sunuyor:<br>
 Yeşil satın alma ile başla, çevikliği geliştir ve bu yetkinlikleri kurumsal direnç kapasitesine dönüştür.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>

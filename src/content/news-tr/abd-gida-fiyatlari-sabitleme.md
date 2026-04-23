@@ -19,33 +19,33 @@ tags:
 - FTC
 - yabancı sermaye
 ---
-<p style="text-align: justify">ABD Başkanı <strong>Donald Trump</strong>, hızla yükselen market fiyatlarının yarattığı siyasi ve toplumsal baskı karşısında, ABD gıda tedarik zincirlerinde <strong>fiyat sabitleme (price fixing)</strong> ve diğer <strong>anti-competitive practices</strong> olasılıklarını araştırmak üzere kapsamlı bir federal soruşturma başlatılması talimatını verdi. <strong>Food Dive</strong> kaynaklı habere göre başkanlık kararnamesi, <strong>Department of Justice (DOJ)</strong> ve <strong>Federal Trade Commission (FTC)</strong> bünyesinde özel <strong>task force</strong>’lar kurulmasını öngörmekte.</p>
+<p style="text-align: justify">ABD Başkanı <strong>Donald Trump</strong>, hızla yükselen market fiyatlarının yarattığı siyasi ve toplumsal baskı karşısında, ABD gıda tedarik zincirlerinde <strong>fiyat sabitleme (price fixing)</strong> ve diğer <strong>anti-competitive practices</strong> olasılıklarını araştırmak üzere kapsamlı bir federal soruşturma başlatılması talimatını verdi. <strong>Food Dive</strong> kaynaklı habere göre başkanlık kararnamesi, <strong>Department of Justice (DOJ)</strong> ve <strong>Federal Trade Commission (FTC)</strong> bünyesinde özel <strong>task force</strong>’lar kurulmasını öngörüyor.</p>
 <p><br></p>
-<p style="text-align: justify">İmzalanan <strong>executive order</strong>, yalnızca inceleme yetkisiyle sınırlı kalmıyor. Kararname; DOJ ve FTC’ye, gerekmesi hâlinde şirketlere karşı <strong>enforcement actions</strong>, yeni <strong>regulatory approaches</strong> önerileri ve hatta <strong>criminal proceedings</strong> başlatma yetkisi tanımakta. Kanıt bulunması durumunda <strong>grand jury investigations</strong> dahi devreye alınabilecek. Bu yönüyle soruşturma, son yıllarda ABD gıda sektörüne yönelik en sert rekabet hamlelerinden biri olarak değerlendiriliyor.</p>
+<p style="text-align: justify">İmzalanan <strong>executive order</strong>, yalnızca inceleme yetkisiyle sınırlı kalmıyor. Kararname; DOJ ve FTC’ye, gerekmesi hâlinde şirketlere karşı <strong>enforcement actions</strong>, yeni <strong>regulatory approaches</strong> önerileri ve hatta <strong>criminal proceedings</strong> başlatma yetkisi tanıyor. Kanıt bulunması durumunda <strong>grand jury investigations</strong> dahi devreye alınabilecek. Bu yönüyle soruşturma, son yıllarda ABD gıda sektörüne yönelik en sert rekabet hamlelerinden biri olarak değerlendiriliyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Arka Plan: Artan Gıda Enflasyonu</strong></h3>
-<p style="text-align: justify">Trump yönetimi, özellikle 2024–2025 döneminde hızlanan gıda enflasyonu nedeniyle yoğun eleştiri altında. <strong>Urban Institute</strong> verilerine göre ABD’li tüketiciler, <strong>2019’a kıyasla gıda için aylık ortalama %32 daha fazla</strong> ödeme yapmakta. Et, kahve ve temel gıda ürünlerinde yaşanan fiyat artışları, gıda tedarik zincirinin yapısal kırılganlıklarını yeniden gündeme taşımış durumda.</p>
+<p style="text-align: justify">Trump yönetimi, özellikle 2024–2025 döneminde hızlanan gıda enflasyonu nedeniyle yoğun eleştiri altında. <strong>Urban Institute</strong> verilerine göre ABD’li tüketiciler, <strong>2019’a kıyasla gıda için aylık ortalama %32 daha fazla</strong> ödeme yapıyor. Et, kahve ve temel gıda ürünlerinde yaşanan fiyat artışları, gıda tedarik zincirinin yapısal kırılganlıklarını yeniden gündeme taşımış durumda.</p>
 <p><br></p>
 <p style="text-align: justify">Başkanlık kararnamesinde Trump, özellikle <strong>meat processing</strong>, <strong>seed</strong>, <strong>fertilizer</strong> ve <strong>equipment</strong> sektörlerinin fiyat sabitleme ve rekabet ihlallerine karşı “<strong>vulnerabilities</strong>” taşıdığını belirtti. Trump ayrıca, <strong>foreign-controlled corporations</strong> tarafından gerçekleştirilen anti-rekabetçi davranışların, “<strong>America’s food supply’nin istikrarı ve erişilebilirliği için özel bir tehdit</strong>” oluşturduğunu vurguladı.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Yabancı Sermayeli Şirketlere Odak</strong></h3>
-<p style="text-align: justify">Soruşturmanın dikkat çeken yönlerinden biri, yabancı sermayeli gıda şirketlerine özel vurgu yapılması. ABD et sektöründe iki büyük oyuncunun yabancı bağlantıları uzun süredir tartışılmakta:</p>
+<p style="text-align: justify">Soruşturmanın dikkat çeken yönlerinden biri, yabancı sermayeli gıda şirketlerine özel vurgu yapılması. ABD et sektöründe iki büyük oyuncunun yabancı bağlantıları uzun süredir tartışılıyor:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>JBS</strong>: Brezilya merkezli, dünyanın en büyük sığır eti üreticilerinden biri.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Smithfield Foods</strong>: ABD’nin en büyük domuz eti üreticisi; Çin merkezli <strong>WH Group</strong> tarafından kontrol edilmekteydi.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Smithfield Foods</strong>: ABD’nin en büyük domuz eti üreticisi; Çin merkezli <strong>WH Group</strong> tarafından kontrol ediliyorydi.</p></li>
 </ul>
 <p style="text-align: justify">WH Group, bu yıl içinde Smithfield’ın <strong>North American operations</strong>’ını ayırma (spin-off) kararı aldı. Bu hamle, Çin’in ABD tarım sektörü üzerindeki etkisine dair artan endişelerin bir sonucu olarak yorumlanıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Et Sektörü Savunmada</strong></h3>
 <p style="text-align: justify">Trump yönetiminin odağını et işleme sektörüne çevirmesi, <strong>beef prices</strong>’ın rekor seviyelere ulaşmasıyla doğrudan bağlantılı. Başkan, tüketici fiyatlarını düşürmek amacıyla kısa süre önce <strong>beef ve coffee</strong> gibi ürünlerde uygulanan bazı tarifeleri geri çekmişti.</p>
 <p><br></p>
-<p style="text-align: justify">Ancak sektör temsilcileri, yüksek fiyatların <strong>kartel veya fiyat sabitlemeden değil</strong>, arz tarafındaki yapısal sorunlardan kaynaklandığını savunmakta. <strong>Meat Institute</strong> CEO’su <strong>Julie Anna Potts</strong>, durumu şu sözlerle özetliyor:<br>
+<p style="text-align: justify">Ancak sektör temsilcileri, yüksek fiyatların <strong>kartel veya fiyat sabitlemeden değil</strong>, arz tarafındaki yapısal sorunlardan kaynaklandığını savunuyor. <strong>Meat Institute</strong> CEO’su <strong>Julie Anna Potts</strong>, durumu şu sözlerle özetliyor:<br>
  <strong>“Despite high consumer prices for beef, beef packers have been losing money because the price of cattle is at record highs.”</strong></p>
 <p><br></p>
-<p style="text-align: justify">Potts’a göre sığır arzındaki daralma ve güçlü talep, işleyicilerin marjlarını eritmekte. Bu baskının bir sonucu olarak <strong>Tyson Foods</strong>, <strong>4.000’den fazla çalışanı işten çıkarma</strong> ve en büyük tesislerinden birini kapatma planlarını açıklamıştı. Bu gelişmeler, sektörde <strong>profitability crisis</strong> yaşandığını göstermekte.</p>
+<p style="text-align: justify">Potts’a göre sığır arzındaki daralma ve güçlü talep, işleyicilerin marjlarını eritmekte. Bu baskının bir sonucu olarak <strong>Tyson Foods</strong>, <strong>4.000’den fazla çalışanı işten çıkarma</strong> ve en büyük tesislerinden birini kapatma planlarını açıklamıştı. Bu gelişmeler, sektörde <strong>profitability crisis</strong> yaşandığını gösteriyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Hukuki ve Tedarik Zinciri Etkileri</strong></h3>
-<p style="text-align: justify">Başlatılan soruşturma, ABD gıda tedarik zincirinde belirsizliği artırmakta. Olası sonuçlar arasında:</p>
+<p style="text-align: justify">Başlatılan soruşturma, ABD gıda tedarik zincirinde belirsizliği artırıyor. Olası sonuçlar arasında:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">büyük gıda şirketlerine yönelik <strong>antitrust lawsuits</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">birleşme ve satın almalara daha sıkı denetim,</p></li>
@@ -54,7 +54,7 @@ tags:
 <p style="text-align: justify">yer alabilir. Bu durum, yalnızca üreticileri değil; <strong>distributors, retailers ve logistics providers</strong>’ı da doğrudan etkileyebilir.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Stratejik Değerlendirme</strong></h3>
-<p style="text-align: justify">Trump’ın bu hamlesi, gıda tedarik zincirlerini artık yalnızca ekonomik bir alan değil, aynı zamanda <strong>politik ve ulusal güvenlik</strong> meselesi olarak ele aldığını göstermekte. Soruşturmanın sonucunda ciddi ihlaller tespit edilirse, ABD gıda sektöründe <strong>rekabet rejiminin yeniden tanımlanması</strong> gündeme gelebilir. Aksi hâlde ise tartışma, gıda enflasyonunun arz, üretim ve tarım politikalarına dayalı yapısal nedenlerine kayabilir.</p>
+<p style="text-align: justify">Trump’ın bu hamlesi, gıda tedarik zincirlerini artık yalnızca ekonomik bir alan değil, aynı zamanda <strong>politik ve ulusal güvenlik</strong> meselesi olarak ele aldığını gösteriyor. Soruşturmanın sonucunda ciddi ihlaller tespit edilirse, ABD gıda sektöründe <strong>rekabet rejiminin yeniden tanımlanması</strong> gündeme gelebilir. Aksi hâlde ise tartışma, gıda enflasyonunun arz, üretim ve tarım politikalarına dayalı yapısal nedenlerine kayabilir.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar:</strong></h3>
 <ul>

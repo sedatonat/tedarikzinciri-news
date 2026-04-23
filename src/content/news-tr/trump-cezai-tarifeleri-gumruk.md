@@ -22,23 +22,23 @@ tags:
 ---
 <p style="text-align: justify">ABD Başkanı <strong>Donald Trump</strong>, Kanada ve Meksika'dan ithal edilen ürünlere yönelik %25 oranındaki cezai tarifeleri 4 Mart'ta yürürlüğe koydu. Bu karar, Trump'ın daha önce iki ülkeyle yaptığı ticaret görüşmelerinde uzlaşma sağlanamaması nedeniyle alındı.​</p>
 <p><br></p>
-<p style="text-align: justify">Tarifeler, özellikle çelik ve alüminyum gibi temel sanayi ürünlerini hedef alıyor. Bu durum, ABD'deki inşaat, otomotiv ve beyaz eşya sektörlerini doğrudan etkilemekte. Uzmanlar, bu sektörlerde maliyet artışlarının tüketici fiyatlarına yansıyacağını ve enflasyonist baskılara neden olacağını belirtiyor.​</p>
+<p style="text-align: justify">Tarifeler, özellikle çelik ve alüminyum gibi temel sanayi ürünlerini hedef alıyor. Bu durum, ABD'deki inşaat, otomotiv ve beyaz eşya sektörlerini doğrudan etkiliyor. Uzmanlar, bu sektörlerde maliyet artışlarının tüketici fiyatlarına yansıyacağını ve enflasyonist baskılara neden olacağını belirtiyor.​</p>
 <p><br></p>
-<p style="text-align: justify">Kanada Başbakanı <strong>Justin Trudeau</strong>, tarifelerin haksız ve kabul edilemez olduğunu ifade etti. Trudeau, Kanada'nın ABD ile olan ticaret ilişkilerinin her iki ülke için de faydalı olduğunu vurgulayarak, misilleme önlemleri alacaklarını duyurdu. Kanada hükümeti, ABD'den ithal edilen bazı ürünlere benzer oranlarda tarifeler uygulamayı planlamakta.​</p>
+<p style="text-align: justify">Kanada Başbakanı <strong>Justin Trudeau</strong>, tarifelerin haksız ve kabul edilemez olduğunu ifade etti. Trudeau, Kanada'nın ABD ile olan ticaret ilişkilerinin her iki ülke için de faydalı olduğunu vurgulayarak, misilleme önlemleri alacaklarını duyurdu. Kanada hükümeti, ABD'den ithal edilen bazı ürünlere benzer oranlarda tarifeler uygulamayı planlıyor.​</p>
 <p><br></p>
-<p style="text-align: justify">Meksika Devlet Başkanı <strong>Andrés Manuel López Obrador</strong> da benzer bir tepki gösterdi. Obrador, ABD'nin bu adımının iki ülke arasındaki dostane ilişkilere zarar vereceğini belirtti. Meksika hükümeti de ABD'ye karşı misilleme tarifeleri uygulamayı değerlendirmekte.​</p>
+<p style="text-align: justify">Meksika Devlet Başkanı <strong>Andrés Manuel López Obrador</strong> da benzer bir tepki gösterdi. Obrador, ABD'nin bu adımının iki ülke arasındaki dostane ilişkilere zarar vereceğini belirtti. Meksika hükümeti de ABD'ye karşı misilleme tarifeleri uygulamayı değerlendiriyor.​</p>
 <p><br></p>
-<p style="text-align: justify">ABD Ticaret Odası, tarifelerin Amerikan işletmelerine zarar vereceğini ve istihdam kayıplarına yol açacağını savunuyor. Oda, Trump yönetimine tarifeleri yeniden gözden geçirme çağrısında bulundu. Ayrıca, bazı ABD'li şirketler, artan maliyetler nedeniyle üretimlerini yurt dışına kaydırmayı düşünmekte.​</p>
+<p style="text-align: justify">ABD Ticaret Odası, tarifelerin Amerikan işletmelerine zarar vereceğini ve istihdam kayıplarına yol açacağını savunuyor. Oda, Trump yönetimine tarifeleri yeniden gözden geçirme çağrısında bulundu. Ayrıca, bazı ABD'li şirketler, artan maliyetler nedeniyle üretimlerini yurt dışına kaydırmayı düşünüyor.​</p>
 <p><br></p>
 <p style="text-align: justify">Avrupa Birliği de durumu yakından takip ediyor. AB Ticaret Komiseri <strong>Cecilia Malmström</strong>, ABD'nin bu adımının küresel ticaret savaşlarını tetikleyebileceği uyarısında bulundu. AB, gerektiğinde kendi çıkarlarını korumak için harekete geçeceğini belirtti.​</p>
 <p><br></p>
-<p style="text-align: justify">Çin hükümeti ise ABD'nin korumacı politikalarının dünya ekonomisine zarar vereceğini ve serbest ticaretin önemini vurguladı. Çin, diğer ülkelerle iş birliği yaparak korumacılıkla mücadele etmeyi planlamakta.​</p>
+<p style="text-align: justify">Çin hükümeti ise ABD'nin korumacı politikalarının dünya ekonomisine zarar vereceğini ve serbest ticaretin önemini vurguladı. Çin, diğer ülkelerle iş birliği yaparak korumacılıkla mücadele etmeyi planlıyor.​</p>
 <p><br></p>
 <p style="text-align: justify">Ekonomistler, bu tür tarifelerin küresel ticarette belirsizlik yarattığını ve yatırımları olumsuz etkilediğini söylüyor. Ayrıca, ticaret savaşlarının dünya genelinde ekonomik büyümeyi yavaşlatabileceği konusunda uyarılarda bulunuyorlar.​</p>
 <p><br></p>
-<p style="text-align: justify">ABD iç politikasında da tarifeler tartışma konusu. Demokratlar, Trump'ın bu adımının uluslararası ilişkileri zedelediğini ve ABD'nin küresel liderlik rolünü tehlikeye attığını savunuyor. Cumhuriyetçiler arasında da tarifelere karşı çıkanlar bulunmakta. Bazı milletvekilleri, tarifelerin serbest piyasa ilkelerine aykırı olduğunu ve Amerikan ekonomisine zarar vereceğini dile getiriyor.​</p>
+<p style="text-align: justify">ABD iç politikasında da tarifeler tartışma konusu. Demokratlar, Trump'ın bu adımının uluslararası ilişkileri zedelediğini ve ABD'nin küresel liderlik rolünü tehlikeye attığını savunuyor. Cumhuriyetçiler arasında da tarifelere karşı çıkanlar bulunuyor. Bazı milletvekilleri, tarifelerin serbest piyasa ilkelerine aykırı olduğunu ve Amerikan ekonomisine zarar vereceğini dile getiriyor.​</p>
 <p><br></p>
-<p style="text-align: justify">Tarifelerin uzun vadeli etkileri belirsizliğini koruyor. Ancak kısa vadede, ABD'deki üreticiler ve tüketiciler üzerindeki olumsuz etkileri hissedilmeye başlanacak. Özellikle çelik ve alüminyum kullanan sektörlerde maliyet artışları beklenmekte.​</p>
+<p style="text-align: justify">Tarifelerin uzun vadeli etkileri belirsizliğini koruyor. Ancak kısa vadede, ABD'deki üreticiler ve tüketiciler üzerindeki olumsuz etkileri hissedilmeye başlanacak. Özellikle çelik ve alüminyum kullanan sektörlerde maliyet artışları bekleniyor.​</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>

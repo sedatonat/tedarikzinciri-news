@@ -36,7 +36,7 @@ tags:
 <h3>Önemli Notlar</h3>
 <ul>
   <li><p>Süveyş ve Panama Kanallarındaki aksamalar, perakendecilere büyük maliyetler çıkarabilir.</p></li>
-  <li><p>Asya ile Batı arasındaki ticaret rotalarını etkileyen gecikme ve aksamalar yaşanmaktadır.</p></li>
+  <li><p>Asya ile Batı arasındaki ticaret rotalarını etkileyen gecikme ve aksamalar yaşanıyordır.</p></li>
   <li><p>Azalan kargo hacmi, teslimat gecikmeleri ve yükselen navlun maliyetleri gibi sorunlar var.</p></li>
   <li><p>Avrupa perakende ve giyim şirketleri en çok risk altında.</p></li>
   <li><p>Navlun oranlarındaki artış perakendecilerin karlarını olumsuz etkileyebilir.</p></li>

@@ -19,11 +19,11 @@ tags:
 - nakliye maliyetleri
 - küresel ticaret
 ---
-<p>Son dönemde, Yemen'in <strong>Husi</strong> milislerinin ABD ve Birleşik Krallık bağlantılı gemilere yönelik saldırılarını durdurma taahhüdü vermesinin ardından, bu ülkelere ait gemiler temkinli bir şekilde Kızıldeniz'e geri dönmekte. Bu gelişme, dünya ticaretinin ana arterlerinden biri olan bölgede, bir yılı aşkın süredir devam eden aksaklıkların ardından deniz trafiğinin normalleşebileceğine işaret etmekte.​</p>
+<p>Son dönemde, Yemen'in <strong>Husi</strong> milislerinin ABD ve Birleşik Krallık bağlantılı gemilere yönelik saldırılarını durdurma taahhüdü vermesinin ardından, bu ülkelere ait gemiler temkinli bir şekilde Kızıldeniz'e geri dönüyor. Bu gelişme, dünya ticaretinin ana arterlerinden biri olan bölgede, bir yılı aşkın süredir devam eden aksaklıkların ardından deniz trafiğinin normalleşebileceğine işaret ediyor.​</p>
 <p><br></p>
-<p><strong>Joint Maritime Information Center</strong>'ın (JMIC) verilerine göre, 19 Ocak'tan bu yana ABD ve Birleşik Krallık ile bağlantılı altı gemi, saldırıya uğramadan bölgeden başarıyla geçiş yapmış durumda. JMIC, farklı donanmaların militan saldırılarına dair bilgileri derlemekte ve son raporunda şu değerlendirmede bulunmakta: "Barış anlaşmasının ilerlemesi ve gemiler ile altyapının hedef alınmamasıyla birlikte, istikrarın artması beklenmekte; ancak Kızıldeniz ve Aden Körfezi'ndeki riskler yüksek seviyede kalmakta."​</p>
+<p><strong>Joint Maritime Information Center</strong>'ın (JMIC) verilerine göre, 19 Ocak'tan bu yana ABD ve Birleşik Krallık ile bağlantılı altı gemi, saldırıya uğramadan bölgeden başarıyla geçiş yapmış durumda. JMIC, farklı donanmaların militan saldırılarına dair bilgileri derlemekte ve son raporunda şu değerlendirmede bulunuyor: "Barış anlaşmasının ilerlemesi ve gemiler ile altyapının hedef alınmamasıyla birlikte, istikrarın artması bekleniyor; ancak Kızıldeniz ve Aden Körfezi'ndeki riskler yüksek seviyede kalıyor."​</p>
 <p><br></p>
-<p>Husiler, İsrail ve Hamas arasında Gazze'de varılan ateşkes anlaşmasına yanıt olarak saldırıları kısmen durdurduklarını açıkladılar. Bu açıklama, küresel ticareti aksatan bir yıldan uzun süren kampanyanın ardından geldi. Grup, 19 Ocak'tan itibaren ABD ve Birleşik Krallık bağlantılı gemilerin geçişine izin verileceğini belirtti. Bununla birlikte, tamamen İsrailli vatandaşlar veya şirketler tarafından sahip olunan ya da İsrail bayrağı altında seyreden gemiler hâlâ risk altında bulunmakta.​</p>
+<p>Husiler, İsrail ve Hamas arasında Gazze'de varılan ateşkes anlaşmasına yanıt olarak saldırıları kısmen durdurduklarını açıkladılar. Bu açıklama, küresel ticareti aksatan bir yıldan uzun süren kampanyanın ardından geldi. Grup, 19 Ocak'tan itibaren ABD ve Birleşik Krallık bağlantılı gemilerin geçişine izin verileceğini belirtti. Bununla birlikte, tamamen İsrailli vatandaşlar veya şirketler tarafından sahip olunan ya da İsrail bayrağı altında seyreden gemiler hâlâ risk altında bulunuyor.​</p>
 <p><br></p>
 <p>Eğer bu güvenli geçiş devam ederse, bölgeden kaçınmaya devam eden diğer nakliye şirketlerine de geri dönme konusunda güven verebilir. <strong>A.P. Moller-Maersk A/S</strong>, <strong>MSC Mediterranean Shipping Co. SA</strong> ve <strong>Mitsui OSK Lines Ltd.</strong> gibi sektör devleri, güvenlikle ilgili belirsizlikler nedeniyle, güvenceye rağmen geçişlere hemen başlamayacaklarını belirttiler. Saldırılar, birçok gemiyi Kızıldeniz'den kaçınarak Afrika'nın etrafından daha uzun rotalar izlemeye zorladı ve bu da seyahat sürelerini uzatarak nakliye maliyetlerini artırdı.​</p>
 <p><br></p>
@@ -35,7 +35,7 @@ tags:
   <li><p><strong>A.P. Moller-Maersk A/S</strong>, <strong>MSC Mediterranean Shipping Co. SA</strong> ve <strong>Mitsui OSK Lines Ltd.</strong> gibi büyük nakliye şirketleri, güvenlik endişeleri nedeniyle bölgeden geçişlere hemen başlamayacaklarını açıkladı.​</p></li>
   <li><p>Saldırılar nedeniyle, birçok gemi daha uzun rotalar izleyerek nakliye maliyetlerini artırdı.​</p></li>
 </ul>
-<p>Bu gelişmeler, Kızıldeniz'deki deniz trafiğinin normalleşmesi ve küresel ticaretin istikrarı açısından önemli bir dönüm noktası olarak görülmekte. Ancak, bölgedeki güvenlik durumunun tamamen normale dönmesi için daha fazla zamana ihtiyaç duyulmakta.</p>
+<p>Bu gelişmeler, Kızıldeniz'deki deniz trafiğinin normalleşmesi ve küresel ticaretin istikrarı açısından önemli bir dönüm noktası olarak görülüyor. Ancak, bölgedeki güvenlik durumunun tamamen normale dönmesi için daha fazla zamana ihtiyaç duyuluyor.</p>
 <p><br></p>
 <p><br></p>
 <p>---</p>

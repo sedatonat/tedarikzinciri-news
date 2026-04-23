@@ -20,7 +20,7 @@ tags:
 - gümrük yönetimi
 - Avrupa
 ---
-<p style="text-align: justify">A.P. Moller – Maersk’in Avrupa genelinde 900’den fazla şirketle gerçekleştirdiği yeni tedarik zinciri anketi, küresel lojistik ortamındaki belirsizliğin <strong>en az iki yıl daha süreceğini</strong> ortaya koydu. Buna göre tedarik zinciri liderlerinin <strong>dörtte üçünden fazlası</strong>, jeopolitik risklerin, tarifelerin ve ticaret düzenlemelerinin 2027’ye kadar operasyonları etkilemeye devam edeceğini öngörmekte.</p>
+<p style="text-align: justify">A.P. Moller – Maersk’in Avrupa genelinde 900’den fazla şirketle gerçekleştirdiği yeni tedarik zinciri anketi, küresel lojistik ortamındaki belirsizliğin <strong>en az iki yıl daha süreceğini</strong> ortaya koydu. Buna göre tedarik zinciri liderlerinin <strong>dörtte üçünden fazlası</strong>, jeopolitik risklerin, tarifelerin ve ticaret düzenlemelerinin 2027’ye kadar operasyonları etkilemeye devam edeceğini öngörüyor.</p>
 <p><br></p>
 <p style="text-align: justify">Ankete katılanların <strong>%78’i</strong>, önümüzdeki 12–24 ayda jeopolitik faktörlerin ve ticaret bariyerlerinin operasyonel sonuçlar yaratacağını düşünüyor. Katılımcıların <strong>%48’i</strong> mevcut jeopolitik ortamdan “ciddi endişe” duyduğunu belirtirken, <strong>%80’i</strong> tedarik zinciri zorluklarının doğrudan iş büyümesini etkilediğini ifade ediyor.</p>
 <p><br></p>

@@ -20,7 +20,7 @@ tags:
 - altyapı yatırımı
 - Kazakistan
 ---
-<p style="text-align: justify">Çin, batıya doğru demiryolu bağlantılarını geliştirme konusunda önemli adımlar atmakta ve Avrasya genelinde birçok altyapı projesine dahil olmakta ya da dahil olmayı planlamakta. Bu projelerden dikkate değer bir örnek, Moskova yakınlarındaki Selyatino'da, Rusya, Kazakistan ve Çin'in ortaklaşa geliştirdiği yeni terminaldir. Ancak, Çin'in Rus demiryollarına olan ilgisi sadece Moskova bölgesiyle sınırlı kalmayabilir. Rus medyasına göre, Çin, Rusya genelinde daha fazla demiryolu yatırımına ilgi göstermekte.​</p>
+<p style="text-align: justify">Çin, batıya doğru demiryolu bağlantılarını geliştirme konusunda önemli adımlar atıyor ve Avrasya genelinde birçok altyapı projesine dahil oluyor ya da dahil olmayı planlıyor. Bu projelerden dikkate değer bir örnek, Moskova yakınlarındaki Selyatino'da, Rusya, Kazakistan ve Çin'in ortaklaşa geliştirdiği yeni terminaldir. Ancak, Çin'in Rus demiryollarına olan ilgisi sadece Moskova bölgesiyle sınırlı kalmayabilir. Rus medyasına göre, Çin, Rusya genelinde daha fazla demiryolu yatırımına ilgi gösteriyor.​</p>
 <p><br></p>
 <p style="text-align: justify">Rusya Devlet Başkanı'nın uluslararası kuruluşlarla sürdürülebilir kalkınma hedeflerine ulaşmak için ilişkilerinden sorumlu özel temsilcisinin basın sözcüsü Boris Titov, Çin'den bu yönde sinyaller aldıklarını belirtti. Titov, "Xi’an kuru limanının yeni direktörü Yang Bin ile çok verimli bir toplantı gerçekleştirdik. Shaanxi Eyaleti'nin başkenti olan Xi’an'daki uluslararası liman, Çin'den batıya ve geri dönüşlerde kara yolu ile yük taşımacılığı için en büyük çıkış noktasıdır. Ve elbette Rusya ile demiryolu ticareti için de önemlidir," şeklinde konuştu.</p>
 <p><br></p>
@@ -28,9 +28,9 @@ tags:
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Çin</strong>, Avrasya genelinde demiryolu bağlantılarını geliştirmek için önemli projelere katılmakta veya planlamakta.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Çin</strong>, Avrasya genelinde demiryolu bağlantılarını geliştirmek için önemli projelere katılıyor veya planlıyor.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Xi’an Kuru Limanı</strong>, Çin'den batıya ve geri dönüşlerde kara yolu ile yük taşımacılığı için en büyük çıkış noktasıdır.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Çin</strong>, Rusya'nın diğer bölgelerindeki demiryolu terminallerinin yeniden inşasına yatırım yapmaya hazır olduğunu belirtmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Çin</strong>, Rusya'nın diğer bölgelerindeki demiryolu terminallerinin yeniden inşasına yatırım yapmaya hazır olduğunu belirtiyor.</p></li>
 </ul>
 <p style="text-align: justify"><br></p>
 <p>---</p>

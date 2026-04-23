@@ -39,9 +39,9 @@ tags:
   <li><p>Gemi, 10.000 ton deplasman ve 15.000 deniz mili menzil kapasitesine sahiptir.</p></li>
   <li><p>Çin, Arktik Okyanusu tabanına insanlı bir keşif yapmayı planlayarak, Rusya'dan sonra bu başarıyı elde eden ikinci ülke olmayı hedefliyor.</p></li>
   <li><p><strong>Tan Suo San Hao</strong>'nun inşası, çelik kesiminden denize indirilmesine kadar 10 aydan kısa bir sürede tamamlanmıştır.</p></li>
-  <li><p>Çin, kendini "Arktik'e yakın devlet" olarak tanımlayarak, bölgedeki varlığını artırmaktadır.</p></li>
-  <li><p>Rusya ile işbirliği içinde "Buz İpek Yolu" olarak adlandırılan Kuzeydoğu Geçidi'nin geliştirilmesi planlanmaktadır.</p></li>
-  <li><p><strong>Xue Long 2</strong> gibi buz kırıcı araştırma gemileri, Çin'in Arktik'teki bilimsel araştırmalarında önemli rol oynamaktadır.</p></li>
+  <li><p>Çin, kendini "Arktik'e yakın devlet" olarak tanımlayarak, bölgedeki varlığını artırıyordır.</p></li>
+  <li><p>Rusya ile işbirliği içinde "Buz İpek Yolu" olarak adlandırılan Kuzeydoğu Geçidi'nin geliştirilmesi planlanıyordır.</p></li>
+  <li><p><strong>Xue Long 2</strong> gibi buz kırıcı araştırma gemileri, Çin'in Arktik'teki bilimsel araştırmalarında önemli rol oynuyordır.</p></li>
   <li><p>Çin'in Arktik bölgesindeki artan varlığı, küresel denizcilik ve jeopolitik dengeleri etkileyebilir.</p></li>
 </ul>
 <p><br></p>

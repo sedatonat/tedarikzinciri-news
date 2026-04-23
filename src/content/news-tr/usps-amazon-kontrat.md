@@ -21,11 +21,11 @@ tags:
 ---
 <p style="text-align: justify">ABD paket teslimat sektörünün en kritik ticari ilişkilerinden biri olan <strong>USPS–Amazon sözleşmesi</strong>, Aralık 2025 itibarıyla ciddi belirsizlik içinde. Mevcut anlaşma <strong>Ekim 2026</strong>’da sona eriyor; ancak USPS Postmaster General <strong>David Steiner</strong>’ın 2026 başında bir <strong>reverse auction</strong> düzenlemek istediğine dair haberler, hem Amazon’u hem de kargo sektörünü hareketlendirdi. Washington Post’un haberine göre USPS, Amazon’un mevcut ayrıcalıklı erişimi yerine <strong>posta tesislerine en yüksek teklifi veren şirketlerin erişmesini</strong> sağlayacak bir model düşünüyor. Bu model hayata geçerse Amazon, USPS’in en büyük müşterisi olmasına rağmen <strong>national retail brands</strong> ve yeni bölgesel taşıyıcılarla rekabet etmek zorunda kalabilir.</p>
 <p><br></p>
-<p style="text-align: justify">Bu adım sürpriz niteliğinde, çünkü Amazon neredeyse <strong>bir yıldır</strong> USPS ile sözleşme uzatma görüşmeleri yürüttüğünü belirterek, yön değişikliğinin kendi dağıtım ağına belirsizlik eklediğini söyledi. Amazon’un açıklamasında şu ifade yer almakta:</p>
+<p style="text-align: justify">Bu adım sürpriz niteliğinde, çünkü Amazon neredeyse <strong>bir yıldır</strong> USPS ile sözleşme uzatma görüşmeleri yürüttüğünü belirterek, yön değişikliğinin kendi dağıtım ağına belirsizlik eklediğini söyledi. Amazon’un açıklamasında şu ifade yer alıyor:</p>
 <p><br>
 “<strong>We were surprised to hear they want to run an auction… we are evaluating all options.</strong>”<br>
 Amazon yıllık <strong>6 milyar USD</strong> hacim yaratıyor ve USPS satışlarının <strong>%7,5</strong>’ini oluşturuyor. Bu nedenle olası bir ayrılık her iki taraf için de büyük operasyonel maliyet doğurabilir.</p>
-<p style="text-align: justify">Bu gelişme, USPS’in yıllardır devam eden finansal baskıları ile doğrudan bağlantılı. Kurum, <strong>FY2025’te 9 milyar USD</strong> zarar açıkladı. USPS, paket hacminde güçlü kapasite artışı (60 milyon → 88 milyon paket/gün) gerçekleştirmiş olsa da mevsim dışı dönemlerde aşırı kapasite ve <strong>First-Class Mail</strong>’deki uzun vadeli hacim düşüşleri gelir kaybını artırmakta.</p>
+<p style="text-align: justify">Bu gelişme, USPS’in yıllardır devam eden finansal baskıları ile doğrudan bağlantılı. Kurum, <strong>FY2025’te 9 milyar USD</strong> zarar açıkladı. USPS, paket hacminde güçlü kapasite artışı (60 milyon → 88 milyon paket/gün) gerçekleştirmiş olsa da mevsim dışı dönemlerde aşırı kapasite ve <strong>First-Class Mail</strong>’deki uzun vadeli hacim düşüşleri gelir kaybını artırıyor.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>ShipMatrix</strong>’ten Robert Persuit’e göre krizin kökeninde üç temel tarihsel unsur var:</p>
 <ol>
@@ -35,11 +35,11 @@ Amazon yıllık <strong>6 milyar USD</strong> hacim yaratıyor ve USPS satışla
 </ol>
 <p style="text-align: justify">Amazon’un USPS’ten tamamen çekilmesi ise şirket için de kolay bir seçenek değil. Persuit bunu şöyle özetliyor:<br>
 “<strong>Amazon holds the leverage here, but is unlikely to make abrupt moves.</strong>”<br>
-Amazon, USPS’in olduğu kadar kendi operasyonları için de büyük ölçekli altyapı riski taşımakta. UPS ile yaşadığı “<strong>glide down</strong>” (2024Q3–2025Q3 arası günlük ortalama 1,9 milyon paketlik düşüş) hâlâ hafızalarda. Amazon’un USPS’ten ayrılması benzer bir operasyonel şok üretebilir.</p>
+Amazon, USPS’in olduğu kadar kendi operasyonları için de büyük ölçekli altyapı riski taşıyor. UPS ile yaşadığı “<strong>glide down</strong>” (2024Q3–2025Q3 arası günlük ortalama 1,9 milyon paketlik düşüş) hâlâ hafızalarda. Amazon’un USPS’ten ayrılması benzer bir operasyonel şok üretebilir.</p>
 <p><br></p>
-<p style="text-align: justify">Persuit’in analizine göre USPS’in bugün karşılaştığı risk yalnızca Amazon’un olası ayrılığı değil; aynı zamanda <strong>DoorDash, Veho, Jitsu, Better Trucks</strong> gibi yeni mikro-taşıyıcıların yükselişi. ABD perakende devleri giderek daha fazla <strong>in-house delivery</strong> modellerine yöneldikçe USPS talebinin aşınma riski artmakta.</p>
+<p style="text-align: justify">Persuit’in analizine göre USPS’in bugün karşılaştığı risk yalnızca Amazon’un olası ayrılığı değil; aynı zamanda <strong>DoorDash, Veho, Jitsu, Better Trucks</strong> gibi yeni mikro-taşıyıcıların yükselişi. ABD perakende devleri giderek daha fazla <strong>in-house delivery</strong> modellerine yöneldikçe USPS talebinin aşınma riski artıyor.</p>
 <p><br></p>
-<p style="text-align: justify"><strong>LPF Spend Management</strong> kurucusu Nate Skiver ise reverse auction yorumuna temkinli yaklaşmakta. Ona göre, USPS’in Amazon’u “sıkıştırmaya” çalışması mantıksız, çünkü USPS hem <strong>network density</strong> hem <strong>margin contribution</strong> açısından Amazon hacminden devasa fayda sağlıyor. Skiver şöyle diyor:</p>
+<p style="text-align: justify"><strong>LPF Spend Management</strong> kurucusu Nate Skiver ise reverse auction yorumuna temkinli yaklaşıyor. Ona göre, USPS’in Amazon’u “sıkıştırmaya” çalışması mantıksız, çünkü USPS hem <strong>network density</strong> hem <strong>margin contribution</strong> açısından Amazon hacminden devasa fayda sağlıyor. Skiver şöyle diyor:</p>
 <p><br>
 “<strong>There is no way the USPS is trying to squeeze Amazon… the idea of pushing Amazon out makes no sense.</strong>”</p>
 <p><br></p>
@@ -49,19 +49,19 @@ USPS’in taşıdığı Amazon hacmi, UPS’in taşıdığı hacmin <strong>4–
 <p><br></p>
 <p style="text-align: justify">Bu nedenle 2026’ya yaklaşırken tablo net değil:</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">USPS, mali baskılar nedeniyle daha yüksek tarifeler ve rekabetçi bir reverse auction düşünmekte.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Amazon ise alternatifler masada olsa da USPS olmadan kısa vadede sistemini dengede tutamayacağını bilmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">USPS, mali baskılar nedeniyle daha yüksek tarifeler ve rekabetçi bir reverse auction düşünüyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Amazon ise alternatifler masada olsa da USPS olmadan kısa vadede sistemini dengede tutamayacağını biliyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">UPS ile USPS arasındaki potansiyel “reconciliation” görüşmeleri, pazarlık dengelerini etkileyebilir.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Her iki taraf da karşı tarafı kaybetmeden <strong>daha güçlü bir sözleşme pozisyonu</strong> elde etmeye çalışıyor.</p></li>
 </ul>
 <h2 style="text-align: justify"><br></h2>
 <h3 style="text-align: justify"><strong>Önemli Notlar:</strong></h3>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">USPS 2026 sözleşmesi için reverse auction planı tartışma yaratmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">USPS 2026 sözleşmesi için reverse auction planı tartışma yaratıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Amazon yıllık <strong>6 milyar USD</strong> hacimle USPS’in en büyük müşterisi.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">USPS 2025’te <strong>9 milyar USD</strong> zarar açıkladı; kapasite fazlası ve UPS ayrılığı baskı yaratmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">USPS 2025’te <strong>9 milyar USD</strong> zarar açıkladı; kapasite fazlası ve UPS ayrılığı baskı yaratıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Amazon, USPS’ten tamamen ayrılmanın maliyetli olacağını biliyor ancak “tüm seçenekleri değerlendiriyor.”</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">USPS’in DoorDash, Veho, Jitsu gibi yeni rakiplerle karşı karşıya olduğu bir döneme girilmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">USPS’in DoorDash, Veho, Jitsu gibi yeni rakiplerle karşı karşıya olduğu bir döneme giriliyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

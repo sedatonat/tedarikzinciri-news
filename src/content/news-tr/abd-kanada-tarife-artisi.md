@@ -21,7 +21,7 @@ tags:
 ---
 <p style="text-align: justify"><strong>ABD Başkanı Donald Trump</strong>, <strong>Kanada’dan yapılan ithalata %10 ek gümrük vergisi</strong> uygulanacağını açıkladı. Duyuru, Trump’ın <strong>TruthSocial</strong> hesabından <strong>25 Ekim 2025 Cumartesi günü</strong> yapılan paylaşımda yer aldı. Ancak açıklamada yeni tarife artışının <strong>ne zaman yürürlüğe gireceği</strong> veya <strong>hangi ürünleri kapsayacağı</strong> belirtilmedi.</p>
 <p><br></p>
-<p style="text-align: justify">Halihazırda <strong>Kanada’dan ithal edilen mallar</strong>, <strong>1 Ağustos 2025’ten bu yana %35 oranında gümrük vergisine</strong> tabi bulunmakta. Bu oran, <strong>United States–Mexico–Canada Agreement (USMCA)</strong> kapsamı dışında kalan ürünler için geçerli. Ayrıca <strong>otomotiv</strong>, <strong>kereste</strong> ve <strong>çelik</strong> gibi sektörlerde de özel tarife uygulamaları mevcut. Yeni artış kararı, <strong>iki ülke arasındaki gerilimin yeniden yükseldiğinin bir göstergesi</strong> olarak değerlendiriliyor.</p>
+<p style="text-align: justify">Halihazırda <strong>Kanada’dan ithal edilen mallar</strong>, <strong>1 Ağustos 2025’ten bu yana %35 oranında gümrük vergisine</strong> tabi bulunuyor. Bu oran, <strong>United States–Mexico–Canada Agreement (USMCA)</strong> kapsamı dışında kalan ürünler için geçerli. Ayrıca <strong>otomotiv</strong>, <strong>kereste</strong> ve <strong>çelik</strong> gibi sektörlerde de özel tarife uygulamaları mevcut. Yeni artış kararı, <strong>iki ülke arasındaki gerilimin yeniden yükseldiğinin bir göstergesi</strong> olarak değerlendiriliyor.</p>
 <p><br></p>
 <p style="text-align: justify">Gerginliğin fitilini, <strong>Ontario hükümeti tarafından ABD’de yayınlanan anti-tarife reklam kampanyası</strong> ateşledi. Reklamda, <strong>1987 yılında dönemin ABD Başkanı Ronald Reagan</strong> tarafından yapılan bir radyo konuşmasından alınan kesitler kullanıldı. Bu konuşmada Reagan, o dönem <strong>Japonya’ya uyguladığı geçici tarifeleri</strong> açıklarken, <strong>gümrük vergilerinin serbest ticarete zarar verebileceğini</strong> de vurgulamıştı.</p>
 <p><br></p>
@@ -31,10 +31,10 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Aynı gün, <strong>Ontario Eyalet Başbakanı Doug Ford</strong>, Carney ile görüştüğünü ve pazartesiden itibaren reklam kampanyasını <strong>askıya alacağını</strong> duyurdu. Ancak Ford, Toronto’da oynanacak <strong>Dünya Serisi (World Series)</strong> maçları süresince reklamların yayımlanmaya devam edeceğini belirtti.</p>
 <p><br></p>
-<p style="text-align: justify">Bu gelişmeler, Trump yönetiminin <strong>Kanada ile ticaret ilişkilerini yeniden şekillendirme</strong> çabasının bir parçası olarak değerlendiriliyor. ABD, özellikle <strong>kereste, otomotiv ve tarım</strong> gibi sektörlerde Kanada’ya uyguladığı ticaret baskısını artırmakta. Ancak uzmanlara göre, bu tarz ani tarife artışları <strong>tedarik zincirlerini olumsuz etkileyebilir</strong> ve <strong>USMCA’nın istikrarını sarsabilir</strong>.</p>
+<p style="text-align: justify">Bu gelişmeler, Trump yönetiminin <strong>Kanada ile ticaret ilişkilerini yeniden şekillendirme</strong> çabasının bir parçası olarak değerlendiriliyor. ABD, özellikle <strong>kereste, otomotiv ve tarım</strong> gibi sektörlerde Kanada’ya uyguladığı ticaret baskısını artırıyor. Ancak uzmanlara göre, bu tarz ani tarife artışları <strong>tedarik zincirlerini olumsuz etkileyebilir</strong> ve <strong>USMCA’nın istikrarını sarsabilir</strong>.</p>
 <p><br></p>
-<p style="text-align: justify">Trump’ın önceki dönemde benzer şekilde <strong>Avrupa ve Asya ülkelerine yönelik tarife tehditleri</strong> de pazarlık aracı olarak kullanılmıştı. Bu nedenle analistler, Kanada’ya yönelik %10’luk artışın da <strong>müzakere baskısı oluşturma</strong> amacı taşıdığını, kalıcı bir ticaret savaşı anlamına gelmeyebileceğini öne sürmekte.</p>
-<p style="text-align: justify">Kanada tarafı ise şimdilik <strong>diplomatik tonunu koruyarak</strong> müzakere kapılarını açık bırakmakta. Ancak reklam kampanyasının ve karşılıklı açıklamaların iki ülke ilişkilerini kısa vadede <strong>belirsizlik içinde bırakacağı</strong> değerlendiriliyor.</p>
+<p style="text-align: justify">Trump’ın önceki dönemde benzer şekilde <strong>Avrupa ve Asya ülkelerine yönelik tarife tehditleri</strong> de pazarlık aracı olarak kullanılmıştı. Bu nedenle analistler, Kanada’ya yönelik %10’luk artışın da <strong>müzakere baskısı oluşturma</strong> amacı taşıdığını, kalıcı bir ticaret savaşı anlamına gelmeyebileceğini öne sürüyor.</p>
+<p style="text-align: justify">Kanada tarafı ise şimdilik <strong>diplomatik tonunu koruyarak</strong> müzakere kapılarını açık bırakıyor. Ancak reklam kampanyasının ve karşılıklı açıklamaların iki ülke ilişkilerini kısa vadede <strong>belirsizlik içinde bırakacağı</strong> değerlendiriliyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
@@ -44,7 +44,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Reagan Vakfı</strong>, reklamın izinsiz kullanıldığını belirtti.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Trump, “<strong>Kanada ile tüm ticaret görüşmeleri sonlandırıldı</strong>” açıklamasını yaptı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Ontario</strong>, reklam kampanyasını durduracağını ancak <strong>World Series maçlarında</strong> sürdüreceğini açıkladı.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Uzmanlara göre bu karar, <strong>müzakere baskısı</strong> niteliğinde olup, <strong>tedarik zincirleri üzerinde risk</strong> oluşturmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Uzmanlara göre bu karar, <strong>müzakere baskısı</strong> niteliğinde olup, <strong>tedarik zincirleri üzerinde risk</strong> oluşturuyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

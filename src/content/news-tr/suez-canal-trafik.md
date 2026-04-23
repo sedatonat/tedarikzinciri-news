@@ -32,7 +32,7 @@ tags:
 </ul>
 <p style="text-align: justify">En dikkat çekici dönüşlerden biri <strong>CMA CGM</strong>’den geldi. Hat, <strong>17.000 TEU</strong> kapasiteli iki gemisini Avrupa Birliği deniz kuvvetleri eşliğinde kanaldan geçirdiğini doğruladı. CMA CGM, önümüzdeki aylarda geçiş sayısını artırmayı planlıyor.</p>
 <p><br></p>
-<p style="text-align: justify"><strong>MSC, Hapag-Lloyd, COSCO ve Evergreen</strong> gibi diğer büyük operatörler de bölgeyi yakından izlediklerini, güvenlik durumundaki istikrar devam ettikçe geçişlerin hızlanacağını belirtti. Ancak bazı hatlar en büyük gemilerini — özellikle <strong>23.000 TEU+ ultra-large</strong> sınıfındaki gemilerini — bölgeye göndermekte hâlâ temkinli.</p>
+<p style="text-align: justify"><strong>MSC, Hapag-Lloyd, COSCO ve Evergreen</strong> gibi diğer büyük operatörler de bölgeyi yakından izlediklerini, güvenlik durumundaki istikrar devam ettikçe geçişlerin hızlanacağını belirtti. Ancak bazı hatlar en büyük gemilerini — özellikle <strong>23.000 TEU+ ultra-large</strong> sınıfındaki gemilerini — bölgeye gönderiyor hâlâ temkinli.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>SCA’nın stratejisi: Güveni yeniden tesis etmek</strong></h4>
 <p style="text-align: justify">Rabiee, Süveyş Kanalı’nın dünya ticaretinin <strong>%12’sini</strong> taşıyan hayati bir arter olduğunu vurguladı. Son iki yılda yaşanan kesintilerden sonra ana hedef, hatlara “Süveyş yeniden güvenli ve öngörülebilir” mesajını vermek.</p>

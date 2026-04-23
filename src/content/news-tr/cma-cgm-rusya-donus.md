@@ -19,40 +19,40 @@ tags:
 - yaptırım uyumluluğu
 - St. Petersburg
 ---
-<p style="text-align: justify">Kasım sonu ve Aralık 2025 lojistik raporlarına göre <strong>CMA CGM</strong>’in Rusya’ya dönüşü kamuoyunda yansıtıldığı kadar doğrudan bir operasyonla gerçekleşmiş değil. Şirket, St. Petersburg’a yönelik planladığı <strong>direct call</strong> seferlerini henüz başlatmadı; buna karşın Rusya’ya yönelik taşımacılık faaliyetini daha az görünür ve daha düşük riskli bir modelle <strong>feeder-based</strong> formda yeniden devreye aldı. Bu durum, analiz kuruluşlarının ve sektör uzmanlarının dile getirdiği “<strong>quiet return</strong>” modelini doğrulamakta.</p>
+<p style="text-align: justify">Kasım sonu ve Aralık 2025 lojistik raporlarına göre <strong>CMA CGM</strong>’in Rusya’ya dönüşü kamuoyunda yansıtıldığı kadar doğrudan bir operasyonla gerçekleşmiş değil. Şirket, St. Petersburg’a yönelik planladığı <strong>direct call</strong> seferlerini henüz başlatmadı; buna karşın Rusya’ya yönelik taşımacılık faaliyetini daha az görünür ve daha düşük riskli bir modelle <strong>feeder-based</strong> formda yeniden devreye aldı. Bu durum, analiz kuruluşlarının ve sektör uzmanlarının dile getirdiği “<strong>quiet return</strong>” modelini doğruluyor.</p>
 <p><br></p>
-<p style="text-align: justify">Şirketin <strong>Finland Express (FLX)</strong> servisini Kasım ortasından itibaren St. Petersburg’a uzatacağı duyurulmuştu. Bu hamle, CMA CGM’in 2022’den bu yana ilk kez kendi <strong>blue hull</strong> ana gemileriyle Rusya’ya resmi dönüşü olarak görülmekteydi. Ancak Aralık başı itibarıyla yapılan takiplerde, planlanan gemilerin Almanya ve Finlandiya limanlarına uğradığı, Rus limanlarına yönelmediği görülmekte. Bu tablo, analist <strong>Peter Sand</strong> tarafından yapılan “first call has not happened yet” değerlendirmesiyle örtüşmekte.</p>
+<p style="text-align: justify">Şirketin <strong>Finland Express (FLX)</strong> servisini Kasım ortasından itibaren St. Petersburg’a uzatacağı duyurulmuştu. Bu hamle, CMA CGM’in 2022’den bu yana ilk kez kendi <strong>blue hull</strong> ana gemileriyle Rusya’ya resmi dönüşü olarak görülüyorydi. Ancak Aralık başı itibarıyla yapılan takiplerde, planlanan gemilerin Almanya ve Finlandiya limanlarına uğradığı, Rus limanlarına yönelmediği görülüyor. Bu tablo, analist <strong>Peter Sand</strong> tarafından yapılan “first call has not happened yet” değerlendirmesiyle örtüşüyor.</p>
 <p><br></p>
-<p style="text-align: justify">Sektör uzmanları, bu gecikmenin temel nedeninin operasyonel değil, <strong>reputational risk</strong> kaynaklı olduğunu belirtmekte. Rusya’ya doğrudan ana gemi göndermek, sigorta maliyetleri, jeopolitik baskılar ve kamuoyu denetimi açısından şirket için yüksek görünürlüklü bir risk oluşturmakta. Bu nedenle CMA CGM, ticari geri dönüşü başlatsa da marka görünürlüğünü riske atmamak için çekirdek filosunu Rusya’ya sokmamakta.</p>
+<p style="text-align: justify">Sektör uzmanları, bu gecikmenin temel nedeninin operasyonel değil, <strong>reputational risk</strong> kaynaklı olduğunu belirtiyor. Rusya’ya doğrudan ana gemi göndermek, sigorta maliyetleri, jeopolitik baskılar ve kamuoyu denetimi açısından şirket için yüksek görünürlüklü bir risk oluşturuyor. Bu nedenle CMA CGM, ticari geri dönüşü başlatsa da marka görünürlüğünü riske atmamak için çekirdek filosunu Rusya’ya sokmamakta.</p>
 <p><br></p>
-<p style="text-align: justify">Buna karşın şirket, Hindistan–Rusya yüklerinde <strong>aktif</strong>. Ancak bu trafik doğrudan gemilerle değil, <strong>slot charter</strong> ve <strong>transshipment</strong> yapılarıyla yürütülmekte. Hindistan’dan gelen yükler, CMA CGM’in <strong>EPIC</strong> servisi üzerinden <strong>Nhava Sheva</strong> ve <strong>Mundra</strong> gibi limanlardan alınmakta. Ardından bu yükler Kuzey Avrupa’da — büyük olasılıkla <strong>Hamburg</strong> — boşaltılmakta ve Rusya’ya, <strong>third-party feeder operators</strong> aracılığıyla taşınmakta. Bu operatörler arasında <strong>Seabow</strong> gibi bağımsız firmalar ile CMA CGM’in Asya içi iştiraki <strong>CNC</strong> yer almakta.</p>
+<p style="text-align: justify">Buna karşın şirket, Hindistan–Rusya yüklerinde <strong>aktif</strong>. Ancak bu trafik doğrudan gemilerle değil, <strong>slot charter</strong> ve <strong>transshipment</strong> yapılarıyla yürütülüyor. Hindistan’dan gelen yükler, CMA CGM’in <strong>EPIC</strong> servisi üzerinden <strong>Nhava Sheva</strong> ve <strong>Mundra</strong> gibi limanlardan alınıyor. Ardından bu yükler Kuzey Avrupa’da — büyük olasılıkla <strong>Hamburg</strong> — boşaltılmakta ve Rusya’ya, <strong>third-party feeder operators</strong> aracılığıyla taşınıyor. Bu operatörler arasında <strong>Seabow</strong> gibi bağımsız firmalar ile CMA CGM’in Asya içi iştiraki <strong>CNC</strong> yer alıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Bu model, sektörde <strong>compliance via distance</strong> olarak bilinen risk yönetimi stratejisini yansıtmakta. Yani şirket:</p>
+<p style="text-align: justify">Bu model, sektörde <strong>compliance via distance</strong> olarak bilinen risk yönetimi stratejisini yansıtıyor. Yani şirket:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Ana gemilerini risk altına sokmamakta,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Rusya pazarında varlığını sürdürmekte,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Ancak görünürlük ve yaptırım uyumluluğu açısından güvenli bir mesafede durmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Rusya pazarında varlığını sürdürüyor,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Ancak görünürlük ve yaptırım uyumluluğu açısından güvenli bir mesafede duruyor.</p></li>
 </ul>
 <p><br></p>
-<p style="text-align: justify">Taşınan yüklerin tamamı <strong>non-sanctioned commodities</strong> kategorisinde bulunmakta. Ürün grupları çoğunlukla gıda, içecek, tarım ve hızlı tüketim ürünlerinden oluşmakta. Bu kategori, MSC’nin son iki yılda Rusya’ya taşıdığı yük profilinin birebir aynısı. Böylece CMA CGM, MSC’nin yaklaşık iki yıldır tek başına taşıdığı Kuzey Avrupa–Rusya gıda ticaretinden yeniden pay alma arayışını sürdürmekte.</p>
+<p style="text-align: justify">Taşınan yüklerin tamamı <strong>non-sanctioned commodities</strong> kategorisinde bulunuyor. Ürün grupları çoğunlukla gıda, içecek, tarım ve hızlı tüketim ürünlerinden oluşuyor. Bu kategori, MSC’nin son iki yılda Rusya’ya taşıdığı yük profilinin birebir aynısı. Böylece CMA CGM, MSC’nin yaklaşık iki yıldır tek başına taşıdığı Kuzey Avrupa–Rusya gıda ticaretinden yeniden pay alma arayışını sürdürüyor.</p>
 <p><br></p>
-<p style="text-align: justify">Operasyonel açıdan bu yapı, Rusya’ya yük gönderen müşteriler için bazı dezavantajlar yaratmakta. <strong>Transshipment</strong> zorunluluğu nedeniyle transit süreleri uzamakta. Ayrıca hub limanlarında <strong>rollover</strong> riski, doğrudan servislere kıyasla daha yüksek. Bu durum, özellikle gıda ve hızlı tüketim ürünleri gibi zaman hassasiyeti yüksek segmentlerde planlamayı karmaşık hâle getirmekte.</p>
+<p style="text-align: justify">Operasyonel açıdan bu yapı, Rusya’ya yük gönderen müşteriler için bazı dezavantajlar yaratıyor. <strong>Transshipment</strong> zorunluluğu nedeniyle transit süreleri uzamakta. Ayrıca hub limanlarında <strong>rollover</strong> riski, doğrudan servislere kıyasla daha yüksek. Bu durum, özellikle gıda ve hızlı tüketim ürünleri gibi zaman hassasiyeti yüksek segmentlerde planlamayı karmaşık hâle getiriyor.</p>
 <p><br></p>
-<p style="text-align: justify">Şirket cephesinde resmi servis duyuruları hâlâ geçerli olsa da fiziksel gerçeklik daha temkinli bir yaklaşım sergilemekte. Dolayısıyla CMA CGM’in Rusya’ya dönüşünü şu şekilde özetlemek mümkün:</p>
+<p style="text-align: justify">Şirket cephesinde resmi servis duyuruları hâlâ geçerli olsa da fiziksel gerçeklik daha temkinli bir yaklaşım sergiliyor. Dolayısıyla CMA CGM’in Rusya’ya dönüşünü şu şekilde özetlemek mümkün:</p>
 <p><br>
  <strong>Ticari olarak aktif – Operasyonel olarak temkinli – Ana gemilerle doğrudan giriş henüz yok.</strong></p>
 <p><br></p>
-<p style="text-align: justify">Sonuç itibarıyla, medyada “CMA CGM Rusya’ya geri döndü” şeklinde sunulan başlıklar, operasyonun niteliği açısından tam gerçeği yansıtmamakta. Doğrudan hat devreye alınmadı; ancak feeder tabanlı bağlantı yoluyla şirket Rusya piyasasına fiilen geri döndü. Bu yaklaşım, hem risk azaltma stratejisine hem de rekabetçi pazar pozisyonlamasına hizmet etmekte.</p>
+<p style="text-align: justify">Sonuç itibarıyla, medyada “CMA CGM Rusya’ya geri döndü” şeklinde sunulan başlıklar, operasyonun niteliği açısından tam gerçeği yansıtmamakta. Doğrudan hat devreye alınmadı; ancak feeder tabanlı bağlantı yoluyla şirket Rusya piyasasına fiilen geri döndü. Bu yaklaşım, hem risk azaltma stratejisine hem de rekabetçi pazar pozisyonlamasına hizmet ediyor.</p>
 <p><br></p>
 <h2 style="text-align: justify"><strong>Önemli Notlar:</strong></h2>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">CMA CGM’in FLX servisini St. Petersburg’a uzatma planı <strong>fiilen devreye alınmadı</strong>.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Şirket Rusya’ya <strong>direct call yerine feeder-based</strong> modelle dönüş yaptı.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Hindistan–Rusya yükleri EPIC servisiyle Avrupa hub’ına taşınıp oradan feeder’a aktarılmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Strateji, <strong>compliance via distance</strong> yaklaşımına dayanmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Hindistan–Rusya yükleri EPIC servisiyle Avrupa hub’ına taşınıp oradan feeder’a aktarılıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Strateji, <strong>compliance via distance</strong> yaklaşımına dayanıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Taşınan tüm ürünler <strong>non-sanctioned</strong> kategorisinde.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Transshipment modeli transit süreleri ve rollover risklerini artırmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Medya duyuruları ile operasyonel gerçeklik arasında <strong>belirgin fark</strong> bulunmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Transshipment modeli transit süreleri ve rollover risklerini artırıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Medya duyuruları ile operasyonel gerçeklik arasında <strong>belirgin fark</strong> bulunuyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

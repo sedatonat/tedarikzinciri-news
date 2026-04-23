@@ -21,7 +21,7 @@ tags:
 ---
 <p>Türkiye'deki dış ticaret, Schengen vizesi temininde yaşanan sorunlar sebebiyle ciddi bir tehdit altında. <a href="https://www.utikad.org.tr/"><u>UTİKAD </u></a>Başkanı Bilgehan Engin, hem TIR şoförlerinin hem de iş insanlarının vize alımında karşılaştığı zorlukların çözülmesi gerektiğini vurguluyor.&nbsp;</p>
 <p><br></p>
-<p>Karayolu taşımacılığı için vize alımındaki problemler, lojistik sektörü ve dolayısıyla dış ticareti olumsuz etkileyerek Türk taşımacılık şirketlerinin uluslararası rekabet gücünü düşürmekte.&nbsp;</p>
+<p>Karayolu taşımacılığı için vize alımındaki problemler, lojistik sektörü ve dolayısıyla dış ticareti olumsuz etkileyerek Türk taşımacılık şirketlerinin uluslararası rekabet gücünü düşürüyor.&nbsp;</p>
 <p><br></p>
 <p>Vize süreçlerindeki aksamalar, sadece Avrupa'ya değil, karayolu ağıyla erişilebilen diğer coğrafyalara yapılan ticareti de olumsuz yönde etkiliyor. <a href="https://www.utikad.org.tr/"><u>UTİKAD </u></a>yöneticileri, sorunun hızla çözülmesi için girişimlerde bulunulmasını talep ediyor. Sorunun kapsamı sadece TIR şoförleriyle sınırlı kalmayıp, iş insanlarının da vize başvurularında zorluklarla karşılaşması, dış ticaret üzerinde doğrudan olumsuz bir etkiye sahip.&nbsp;</p>
 <p><br></p>
@@ -29,7 +29,7 @@ tags:
 <p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>
-  <li><p>TIR şoförleri ve iş insanları, Schengen vizesi almakta ciddi zorluklarla karşılaşıyor.</p></li>
+  <li><p>TIR şoförleri ve iş insanları, Schengen vizesi alıyor ciddi zorluklarla karşılaşıyor.</p></li>
   <li><p>Vize sorunları, Türkiye'nin dış ticaretini ve lojistik sektörünü olumsuz etkiliyor.</p></li>
   <li><p><a href="https://www.utikad.org.tr/"><u>UTİKAD </u></a>Başkanı ve yöneticileri, sorunun çözümü için hızlı hareket edilmesini talep ediyor.</p></li>
   <li><p>Vize sürecindeki zorluklar, Türk taşımacılık şirketlerinin uluslararası pazardaki rekabet gücünü azaltıyor.</p></li>

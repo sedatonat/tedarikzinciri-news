@@ -50,9 +50,9 @@ Kısıtlamalar ayrıca şu ürün gruplarını da kapsıyor:</p>
 <p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>Şirketlerin Tepkisi: Piyasada Dalgalanma</strong></h5>
 <p style="text-align: justify">Kısıtlama haberinin ardından <strong>Cadence hisseleri %10,7</strong>, <strong>Synopsys hisseleri %9,6</strong> oranında değer kaybetti.<br>
-Her iki şirket de yorum yapmaktan kaçındı.</p>
+Her iki şirket de yorum yapıyorn kaçındı.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify"><strong>Siemens</strong>, ihracat sınırlamalarının etkisini “analiz etmekte olduklarını” duyurdu.</p>
+<p style="text-align: justify"><strong>Siemens</strong>, ihracat sınırlamalarının etkisini “analiz ediyor olduklarını” duyurdu.</p>
 <p style="text-align: justify"><br>
 Synopsys CEO’su <strong>Sassine Ghazi</strong>, yatırımcılara yaptığı açıklamada <strong>henüz ABD yetkililerinden bir bildirim almadıklarını</strong> belirtti.</p>
 <p style="text-align: justify"><br>

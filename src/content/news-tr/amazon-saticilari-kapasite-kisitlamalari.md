@@ -33,7 +33,7 @@ tags:
 <p><br></p>
 <p>Uzmanlara göre, mevcut kapasite sorunlarıyla başa çıkan satıcılar, tatil döneminde olası envanter eksikliklerinden daha yüksek depolama ücretleri ödemeyi tercih ediyor. Black Label Advisor’ın kurucusu ve CEO’su Jon Elder, satıcıların kritik envanterlerini daha hızlı kontrol etmek için hava kargo kullanmayı ve Amazon’un ağına tamamen güvenmek yerine 3PL depolarında yedek envanter bulundurmayı tercih ettiklerini belirtti.</p>
 <p><br></p>
-<p>Desert Cactus için şirket, bazı gönderimleri AWD üzerinden değil, doğrudan FBA'ya yönlendiriyor ve bu sayede daha yüksek depolama ücretlerini kabul etmeyi tercih ediyor. Stefani, “Aylık 10.000 dolarlık depolama masraflarını karşılamaktan memnunum. En azından envanter kontrol altında ve mevcut” dedi.</p>
+<p>Desert Cactus için şirket, bazı gönderimleri AWD üzerinden değil, doğrudan FBA'ya yönlendiriyor ve bu sayede daha yüksek depolama ücretlerini kabul etmeyi tercih ediyor. Stefani, “Aylık 10.000 dolarlık depolama masraflarını karşılıyorn memnunum. En azından envanter kontrol altında ve mevcut” dedi.</p>
 <h5><br></h5>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>

@@ -27,7 +27,7 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Bu olay, nükleer buzkıranlar ile kargo gemileri arasındaki ilk çarpışma değil. 2017'de, nükleer buzkıran <strong>Vaygach</strong>, yine <strong>Kara Denizi</strong>'nde, <strong>handymax</strong> tipi dökme yük gemisi <strong>Nordic Barents</strong> ile çarpışmıştı. Her iki gemi de o dönemde yolculuklarına devam edebilmişti. Ayrıca, Temmuz 2010'da, tam yüklü iki Rus tankeri, <strong>Indiga</strong> ve <strong>Varzuga</strong>, orta buz koşullarında ve düşük görüş mesafesinde çarpışmış, ancak her iki gemi de denize elverişliliklerini korumuş ve petrol sızıntısı yaşanmamıştı. Bu durum, gemilerin ağır buz sınıflandırması <strong>1A Super</strong> ve çift gövdeli olmaları sayesinde mümkün olmuştu.</p>
 <p><br></p>
-<p style="text-align: justify">Son dönemde, Rusya, buz sınıfı olmayan petrol tankerleri ve kargo gemilerini Kuzey Deniz Rotası üzerinden göndermeye başladı. Bu durum, sık sık <strong>IMO</strong>'nun <strong>Polar Code</strong>'unu ve ülkenin kendi Arktik nakliye düzenlemelerini ihlal etmekte.</p>
+<p style="text-align: justify">Son dönemde, Rusya, buz sınıfı olmayan petrol tankerleri ve kargo gemilerini Kuzey Deniz Rotası üzerinden göndermeye başladı. Bu durum, sık sık <strong>IMO</strong>'nun <strong>Polar Code</strong>'unu ve ülkenin kendi Arktik nakliye düzenlemelerini ihlal ediyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
@@ -35,7 +35,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Atomflot</strong>, geminin denize elverişli olduğunu ve operasyonlarına devam ettiğini belirtti.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>50 Let Pobedy</strong>, 2007'de hizmete giren ve 2020'ye kadar dünyanın en büyük nükleer buzkıranı olan bir gemi.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Daha önce, 2017'de <strong>Vaygach</strong> buzkıranı ve <strong>Nordic Barents</strong> kargo gemisi arasında benzer bir çarpışma yaşanmıştı.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Rusya'nın, buz sınıfı olmayan gemileri Kuzey Deniz Rotası'nda kullanması, uluslararası ve ulusal düzenlemeleri ihlal etmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Rusya'nın, buz sınıfı olmayan gemileri Kuzey Deniz Rotası'nda kullanması, uluslararası ve ulusal düzenlemeleri ihlal ediyor.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

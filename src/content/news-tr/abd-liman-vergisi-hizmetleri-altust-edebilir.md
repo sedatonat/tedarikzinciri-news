@@ -23,13 +23,13 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Önerilen liman vergisi, deniz taşımacılığı şirketlerinin operasyonel maliyetlerini yükseltecek ve bu maliyet artışı muhtemelen göndericilere yansıtılacaktır. Bu durum, özellikle ithalat ve ihracat yapan şirketler için ek mali yükler oluşturabilir. Ayrıca, limanlardaki operasyonel süreçlerin karmaşıklığı artabilir ve bu da hizmetlerde gecikmelere neden olabilir.​</p>
 <p><br></p>
-<p style="text-align: justify">Bu verginin uygulanması, deniz taşımacılığı sektöründe rekabeti de etkileyebilir. Küçük ve orta ölçekli taşımacılık şirketleri, artan maliyetler nedeniyle daha büyük şirketlerle rekabet etmekte zorlanabilir. Bu da sektörde konsolidasyona yol açabilir ve pazarın birkaç büyük oyuncu tarafından domine edilmesine neden olabilir.​</p>
+<p style="text-align: justify">Bu verginin uygulanması, deniz taşımacılığı sektöründe rekabeti de etkileyebilir. Küçük ve orta ölçekli taşımacılık şirketleri, artan maliyetler nedeniyle daha büyük şirketlerle rekabet ediyor zorlanabilir. Bu da sektörde konsolidasyona yol açabilir ve pazarın birkaç büyük oyuncu tarafından domine edilmesine neden olabilir.​</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Drewry</strong>'nin analizine göre, önerilen liman vergisi, deniz taşımacılığı hizmetlerinde aksamalara yol açabilir.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Vergi, gönderici maliyetlerini artırarak ithalat ve ihracat yapan şirketlere ek mali yükler getirebilir.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Küçük ve orta ölçekli taşımacılık şirketleri, artan maliyetler nedeniyle rekabet etmekte zorlanabilir, bu da sektörde konsolidasyona yol açabilir.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Küçük ve orta ölçekli taşımacılık şirketleri, artan maliyetler nedeniyle rekabet ediyor zorlanabilir, bu da sektörde konsolidasyona yol açabilir.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Limanlardaki operasyonel süreçlerin karmaşıklığı artabilir ve bu da hizmetlerde gecikmelere neden olabilir.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Tedarik zincirlerinde belirsizlikler oluşabilir ve bu da genel ekonomik faaliyetleri olumsuz etkileyebilir.</p></li>
 </ul>

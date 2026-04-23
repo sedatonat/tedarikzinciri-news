@@ -30,7 +30,7 @@ Yeni uygulama, demiryolu sektöründe <strong>“tarihsel bir dönüm noktası (
 <p><br>
 Yeni düzenleme, <strong>teknolojik güvenlik sistemlerinin (örneğin ETCS, GSM-R, uzaktan izleme sistemleri)</strong> gelişmesi sayesinde <strong>tek sürücülü operasyonların güvenli şekilde yürütülmesini</strong> mümkün kılıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Avrupa’nın birçok ülkesinde — özellikle <strong>Almanya, Fransa, Hollanda ve İspanya</strong>’da — <strong>single driver operations (SDO)</strong> uzun süredir uygulanmakta.</p>
+<p style="text-align: justify">Avrupa’nın birçok ülkesinde — özellikle <strong>Almanya, Fransa, Hollanda ve İspanya</strong>’da — <strong>single driver operations (SDO)</strong> uzun süredir uygulanıyor.</p>
 <p><br>
 Dolayısıyla İtalya’nın bu kararı, <strong>operasyonel verimlilik ve maliyet optimizasyonu</strong> açısından rekabet gücünü artıracak bir uyum adımı olarak değerlendiriliyor.</p>
 <p><br></p>
@@ -56,7 +56,7 @@ Bu sayede İtalyan operatörler, özellikle <strong>Avrupa’nın kuzey-güney y
   <li style="text-align: justify"><p style="text-align: justify"><strong>25 Ekim 2025 itibarıyla</strong>, İtalya’da <strong>yük trenleri tek makinistle (single driver)</strong> çalıştırılabilecek.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Karar, <strong>Fermerci</strong> tarafından “<strong>Avrupa standartlarına uyum açısından tarihî bir adım</strong>” olarak nitelendirildi.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Uygulama, <strong>verimlilik ve maliyet avantajı</strong> sağlayacak, ancak <strong>güvenlik protokollerinin titizlikle uygulanması</strong> gerekecek.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Avrupa ülkelerinin çoğunda</strong> single-driver sistemi hâlihazırda kullanılmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Avrupa ülkelerinin çoğunda</strong> single-driver sistemi hâlihazırda kullanılıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Bu değişim, İtalyan demiryolu taşımacılığının <strong>uluslararası entegrasyon ve rekabet gücünü</strong> güçlendirmeyi hedefliyor.</p></li>
 </ul>
 <p style="text-align: justify"><br></p>

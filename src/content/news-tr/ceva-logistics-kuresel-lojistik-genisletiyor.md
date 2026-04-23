@@ -22,7 +22,7 @@ tags:
 ---
 <p>CEVA Logistics, CMA CGM Grubu'nun bir yan kuruluşu olan CEVA Logistics, geçen yıl 5.5 milyar dolar karşılığında satın aldığı Bolloré Logistics'i operasyonlarına dahil edeceğini açıkladı.&nbsp;</p>
 <p><br></p>
-<p>Bolloré Logistics, dünya çapında 148 ülkede faaliyet gösteren, yılda 390,000 ton hava yükü ve 710,000 TEU deniz yükü taşıyan bir firmadır. CEVA, bu birleşme ile hava, deniz, kara ve demiryolu taşımacılığı gibi alanlarda kendi küresel lojistik yeteneklerinden müşterilerinin daha kolay faydalanmasını sağlamayı hedeflemektedir.&nbsp;</p>
+<p>Bolloré Logistics, dünya çapında 148 ülkede faaliyet gösteren, yılda 390,000 ton hava yükü ve 710,000 TEU deniz yükü taşıyan bir firmadır. CEVA, bu birleşme ile hava, deniz, kara ve demiryolu taşımacılığı gibi alanlarda kendi küresel lojistik yeteneklerinden müşterilerinin daha kolay faydalanmasını sağlamayı hedefliyordir.&nbsp;</p>
 <p><br></p>
 <h5>Önemli Notlar:</h5>
 <ul>

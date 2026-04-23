@@ -20,11 +20,11 @@ tags:
 - Port of Los Angeles
 - ticaret eğilimleri
 ---
-<p style="text-align: justify">ABD'deki deniz limanları, uluslararası ticaretin önemli bir göstergesi olarak kabul edilmekte. 2022 yılında, deniz kapıları uluslararası yük değerinin %40'ını işlemiştir. Bu nedenle, liman hacimlerini izlemek, ülke genelindeki ticaret eğilimlerini anlamak için kritik öneme sahiptir.</p>
+<p style="text-align: justify">ABD'deki deniz limanları, uluslararası ticaretin önemli bir göstergesi olarak kabul ediliyor. 2022 yılında, deniz kapıları uluslararası yük değerinin %40'ını işlemiştir. Bu nedenle, liman hacimlerini izlemek, ülke genelindeki ticaret eğilimlerini anlamak için kritik öneme sahiptir.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">COVID-19 pandemisi sırasında, 2018'den 2020'ye kadar olan dönemde, ABD'nin en büyük 12 limanı yaklaşık 46 milyon TEU (yirmi ayak eşdeğeri birim) yük işlemiştir. Ancak, 2021 ve 2022 yıllarında bu rakam 53 milyon TEU'nun üzerine çıkarak ciddi bir tıkanıklık ve lojistik gecikmelere yol açmıştır. 2023 yılında ise, bu limanlardaki hacimler 46,67 milyon TEU'ya düşerek pandemi öncesi seviyelere dönmüştür.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">2022 yılında, <strong>Port of New York and New Jersey</strong>, <strong>Port of Los Angeles</strong>'ı geçerek ABD'nin en yoğun limanı olmuştur. Ancak, bu durum kısa süreli olmuş ve <strong>Port of Los Angeles</strong> yıl sonunda liderliği geri almıştır. Bu değişim, Doğu Kıyısı limanlarının pazar payını artırma eğilimini göstermektedir.</p>
+<p style="text-align: justify">2022 yılında, <strong>Port of New York and New Jersey</strong>, <strong>Port of Los Angeles</strong>'ı geçerek ABD'nin en yoğun limanı olmuştur. Ancak, bu durum kısa süreli olmuş ve <strong>Port of Los Angeles</strong> yıl sonunda liderliği geri almıştır. Bu değişim, Doğu Kıyısı limanlarının pazar payını artırma eğilimini gösteriyordir.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">2023 yılında, <strong>Port of New York and New Jersey</strong>'nin kargo hacmi yıllık bazda %6 düşerek Ekim ayında 742.571 TEU'ya gerilemiştir. Buna rağmen, Ekim 2019'a göre %11'lik bir artış kaydedilmiştir.</p>
 <p style="text-align: justify"><br></p>
@@ -34,13 +34,13 @@ tags:
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">2024 yılında, ABD'nin en büyük 12 limanı arasında kargo hacimlerinde dalgalanmalar yaşanmıştır. Özellikle, Doğu ve Körfez Kıyısı limanları, Batı Kıyısı'ndaki iş gücü anlaşmazlıkları nedeniyle pazar paylarını artırmıştır. <strong>Port of Los Angeles</strong>, Batı Kıyısı pazar payında %3'lük bir artış kaydetmiştir.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">2024 yılının Mayıs ayında, büyük ABD limanlarındaki ithalat hacimlerinin 2 milyon TEU'ya ulaşması beklenmektedir. Bu, Ekim 2023'ten bu yana en yüksek seviye olacaktır.</p>
+<p style="text-align: justify">2024 yılının Mayıs ayında, büyük ABD limanlarındaki ithalat hacimlerinin 2 milyon TEU'ya ulaşması bekleniyordir. Bu, Ekim 2023'ten bu yana en yüksek seviye olacaktır.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>Önemli Notlar:</strong></p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">2022'de <strong>Port of New York and New Jersey</strong>, kısa bir süre için ABD'nin en yoğun limanı olmuştur.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">2023'te liman hacimleri pandemi öncesi seviyelere dönmüş, ancak Doğu Kıyısı limanları pazar payını artırmıştır.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">2024'te ithalat hacimlerinin artması beklenmekte, bu da ekonomik toparlanmanın bir göstergesi olarak değerlendirilmektedir.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">2024'te ithalat hacimlerinin artması bekleniyor, bu da ekonomik toparlanmanın bir göstergesi olarak değerlendiriliyordir.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

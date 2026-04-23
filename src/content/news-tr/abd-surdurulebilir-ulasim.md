@@ -29,7 +29,7 @@ tags:
 <p><br></p>
 <p>Ancak, deniz taşımacılığının daha yavaş olması ve teslimat noktalarının sınırlı olması nedeniyle diğer taşıma modlarıyla yakın iş birliğinin gerekliliğine dikkat çekti.</p>
 <p><br></p>
-<p><strong>ABS</strong>, yük taşımacılığının sürdürülebilirliğini geniş bir perspektifte ele alarak, yüklerin deniz taşımacılığı ve tüm intermodal sistemler boyunca karbon içeriğini azaltmayı hedeflemektedir.</p>
+<p><strong>ABS</strong>, yük taşımacılığının sürdürülebilirliğini geniş bir perspektifte ele alarak, yüklerin deniz taşımacılığı ve tüm intermodal sistemler boyunca karbon içeriğini azaltmayı hedefliyordir.</p>
 <p><br></p>
 <p>Bu bağlamda, <strong>ABD Denizcilik İdaresi'nin Çevre ve İnovasyon Ofisi</strong>, <strong>ABS</strong>'yi beş yıllık bir iş birliği anlaşması kapsamında <strong>ABD Denizcilik İnovasyon Merkezi</strong>'ni kurmak ve işletmekle görevlendirmiştir.</p>
 <p>Kongre tarafından yetkilendirilen bu merkez, ABD gemilerinde temiz enerji kullanımını desteklemek amacıyla geniş kapsamlı bir araştırma, geliştirme ve eğitim programı yürütecektir.</p>
@@ -43,8 +43,8 @@ tags:
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li><p><strong>ABS</strong> Başkanı ve CEO'su <strong>Christopher J. Wiernicki</strong>, deniz taşımacılığının ABD'nin sürdürülebilir ulaşım geleceğindeki kritik rolüne dikkat çekti.</p></li>
-  <li><p>Deniz taşımacılığı, ton-mil başına diğer taşıma modlarına göre daha düşük emisyon üretmekte ve büyük ölçekli yükleri taşıma kapasitesine sahip bulunmaktadır.</p></li>
-  <li><p><strong>ABS</strong>, yük taşımacılığının sürdürülebilirliğini artırmak için geniş kapsamlı bir yaklaşım benimsemektedir.</p></li>
+  <li><p>Deniz taşımacılığı, ton-mil başına diğer taşıma modlarına göre daha düşük emisyon üretiyor ve büyük ölçekli yükleri taşıma kapasitesine sahip bulunuyordır.</p></li>
+  <li><p><strong>ABS</strong>, yük taşımacılığının sürdürülebilirliğini artırmak için geniş kapsamlı bir yaklaşım benimsiyordir.</p></li>
   <li><p><strong>ABD Denizcilik İdaresi</strong>, <strong>ABS</strong>'yi <strong>ABD Denizcilik İnovasyon Merkezi</strong>'ni kurmak ve işletmekle görevlendirmiştir.</p></li>
   <li><p>Sürdürülebilir Yük Taşımacılığı Çalıştayı, çeşitli sektörlerden ve hükümet kademelerinden temsilcileri bir araya getirmiştir.</p></li>
 </ul>

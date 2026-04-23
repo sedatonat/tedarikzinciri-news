@@ -1,11 +1,11 @@
 ---
 title: Rus Sovcomflot Yaptırımlar Nedeniyle Büyük Kayıp Yaşıyor
-subtitle: Rus Sovcomflot Yaptırımlar Nedeniyle Büyük Kayıp Yaşamakta
+subtitle: Rus Sovcomflot Yaptırımlar Nedeniyle Büyük Kayıp Yaşıyor
 date: '2025-03-10T09:00:00Z'
 sourceUrl: https://shippingwatch.com/carriers/Tanker/article17980028.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_ccfddd0a2fe74af387fadba3d2b44291~mv2.jpg
-imageAlt: Sovcomflot Yaptırımlar Nedeniyle Büyük Kayıp Yaşamakta
+imageAlt: Sovcomflot Yaptırımlar Nedeniyle Büyük Kayıp Yaşıyor
 wixId: eb5785da-827b-48a5-a88d-52b867fc166d
 author: Sedat Onat
 translated: false

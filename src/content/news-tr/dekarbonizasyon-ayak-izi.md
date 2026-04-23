@@ -19,7 +19,7 @@ tags:
 - karbon ayak izi
 - sürdürülebilirlik
 ---
-<p style="text-align: justify"><strong>Tedarik zincirinde dekarbonizasyon</strong>, artık yalnız doğrudan (Scope 1–2) değil, <strong>dolaylı emisyonların (Scope 3)</strong> yönetimini de kapsayan, yapılandırılmış bir <strong>yol haritası</strong> gerektirmektedir. İşletmeler için bu süreç; veri konsolidasyonu, azaltım portföyü oluşturma ve kurumsal yönetişim adımlarını içeren bütünsel bir dönüşüm programına dönüşmektedir.</p>
+<p style="text-align: justify"><strong>Tedarik zincirinde dekarbonizasyon</strong>, artık yalnız doğrudan (Scope 1–2) değil, <strong>dolaylı emisyonların (Scope 3)</strong> yönetimini de kapsayan, yapılandırılmış bir <strong>yol haritası</strong> gerektiriyordir. İşletmeler için bu süreç; veri konsolidasyonu, azaltım portföyü oluşturma ve kurumsal yönetişim adımlarını içeren bütünsel bir dönüşüm programına dönüşüyordir.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>Birinci adım: Emisyon envanterinin konsolidasyonu.</strong><br>
 Kuruluşlar, tedarik zinciri emisyonlarını anlamak için <strong>activity-based veri toplama</strong>, <strong>tedarikçi beyanları</strong> ve <strong>endüstriyel emisyon faktörlerini (industry emission factors)</strong> kullanarak kapsamlı bir veri tabanı oluşturuyor. Bu sayede tedarikçi, taşıma modu, üretim girdisi gibi farklı kaynaklardaki <strong>veri boşlukları kapatılıyor</strong>. Veri kalitesi, hem raporlama güvenilirliği hem de azaltım stratejisinin doğruluğu açısından kritik öneme sahip.</p>

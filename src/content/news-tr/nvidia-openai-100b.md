@@ -24,7 +24,7 @@ tags:
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Tedarik zinciri açısından bakıldığında bu ölçek, <strong>foundry kapasite planlaması</strong>, <strong>paketleme teknolojileri (özellikle CoWoS)</strong> ve <strong>tedarik çeşitlendirmesi</strong> (örneğin TSMC ve Samsung ekosistemleri arasında) gibi konularda küresel düzeyde koordinasyon gerektiriyor. Ayrıca <strong>modüler veri merkezi tasarımları</strong> (modular data centers), bu tür büyük yatırımların daha hızlı devreye alınmasına olanak tanıyor.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Ağ altyapısında ise <strong>RoCE</strong> ve <strong>InfiniBand</strong> teknolojileri, iş yükü tipine göre seçilmekte. <strong>Dragonfly</strong> ve <strong>fat-tree</strong> gibi fabric topolojileri, gecikme süresi (latency) ile bant genişliği (bandwidth) arasında denge kurmak için optimize ediliyor. Bu sayede devasa model eğitimi işlemleri sırasında veri akışı kesintisiz sağlanabiliyor.</p>
+<p style="text-align: justify">Ağ altyapısında ise <strong>RoCE</strong> ve <strong>InfiniBand</strong> teknolojileri, iş yükü tipine göre seçiliyor. <strong>Dragonfly</strong> ve <strong>fat-tree</strong> gibi fabric topolojileri, gecikme süresi (latency) ile bant genişliği (bandwidth) arasında denge kurmak için optimize ediliyor. Bu sayede devasa model eğitimi işlemleri sırasında veri akışı kesintisiz sağlanabiliyor.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Enerji tarafında <strong>trafo merkezleri</strong>, <strong>microgrid çözümleri</strong> ve <strong>yenilenebilir enerji entegrasyonları</strong> ön plana çıkıyor. Talep yanıtı (demand response) programları sayesinde şebeke dengesi korunurken, enerji verimliliği de artırılıyor. Bu, özellikle yüksek güç tüketimi gerektiren GPU kümeleri için kritik önem taşıyor.</p>
 <p style="text-align: justify"><br></p>
@@ -34,11 +34,11 @@ tags:
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
-  <li><p>Yatırım GPU, ağ ve enerji altyapısını kapsamaktadır.</p></li>
-  <li><p>HBM ve paketleme kapasitesi dar boğaz oluşturmaktadır.</p></li>
-  <li><p>Fabric topolojisi gecikme/bant genişliği dengesini belirlemektedir.</p></li>
-  <li><p>Yazılım yığını verimlilik için kritik rol oynamaktadır.</p></li>
-  <li><p>Dikey entegrasyon ve kapasite teminatı öne çıkmaktadır.</p></li>
+  <li><p>Yatırım GPU, ağ ve enerji altyapısını kapsıyordır.</p></li>
+  <li><p>HBM ve paketleme kapasitesi dar boğaz oluşturuyordır.</p></li>
+  <li><p>Fabric topolojisi gecikme/bant genişliği dengesini belirliyordir.</p></li>
+  <li><p>Yazılım yığını verimlilik için kritik rol oynuyordır.</p></li>
+  <li><p>Dikey entegrasyon ve kapasite teminatı öne çıkıyordır.</p></li>
 </ul>
 <p>--------</p>
 <p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42534-nvidia-to-pour-100b-into-data-center-deal-with-openai" rel="noopener" target="_new">https://www.supplychainbrain.com/articles/42534-nvidia-to-pour-100b-into-data-center-deal-with-openai</a></p>

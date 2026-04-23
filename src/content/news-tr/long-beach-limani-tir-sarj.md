@@ -30,7 +30,7 @@ tags:
 <p><br></p>
 <h4 style="text-align: justify"><strong>Kamu-özel sektör iş birliği güçleniyor</strong></h4>
 <p style="text-align: justify">Long Beach Limanı CEO’su <strong>Mario Cordero</strong>, sektördeki dönüşümün hızlandığını vurgulayarak:</p>
-<blockquote style="text-align: justify">“4 Gen, WattEV ve Forum Mobility gibi şirketlerle çalışmaktan gurur duyuyoruz. Daha yeşil ticaret ve ulaşım modellerinin hem yerelde hem de küresel ölçekte önünü açıyoruz.”<br>
+<blockquote style="text-align: justify">“4 Gen, WattEV ve Forum Mobility gibi şirketlerle çalışıyorn gurur duyuyoruz. Daha yeşil ticaret ve ulaşım modellerinin hem yerelde hem de küresel ölçekte önünü açıyoruz.”<br>
 ifadelerini kullandı.</blockquote>
 <p style="text-align: justify">Bu yatırımlar, sadece Long Beach Limanı’nın karbon ayak izini azaltmayı değil, aynı zamanda Kaliforniya genelinde zero-emission kamyon operasyonlarının ölçeklenmesini hedefleyen devlet politikalarını da destekliyor.</p>
 <p><br></p>

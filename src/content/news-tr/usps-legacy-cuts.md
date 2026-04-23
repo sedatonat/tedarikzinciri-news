@@ -19,18 +19,18 @@ tags:
 - rota optimizasyonu
 - sendika
 ---
-<p>ABD USPS liderliğinin son dönemde uyguladığı maliyet kesintileri, hizmet seviyeleri ve çalışan ilişkileri üzerinde tartışmalı bir miras bırakmakta. Operasyonel yeniden yapılanma, sorting &amp; delivery centers konsolidasyonu ve rota yeniden planlamalarıyla maliyetleri düşürmeyi hedeflemekte; ancak bazı bölgelerde teslimat gecikmeleri ve şube kapatmaları gözlemlenmekte.&nbsp;</p>
+<p>ABD USPS liderliğinin son dönemde uyguladığı maliyet kesintileri, hizmet seviyeleri ve çalışan ilişkileri üzerinde tartışmalı bir miras bırakıyor. Operasyonel yeniden yapılanma, sorting &amp; delivery centers konsolidasyonu ve rota yeniden planlamalarıyla maliyetleri düşürmeyi hedefliyor; ancak bazı bölgelerde teslimat gecikmeleri ve şube kapatmaları gözlemlenmekte.&nbsp;</p>
 <p><br></p>
-<p>Sendikalar, iş yükü ve güvenlik koşulları konusunda endişelerini dile getirmekte; yönetim, otomasyon ve package growth trendi ile birlikte verimlilik artışının zorunlu olduğunu savunmakta. Politik zeminde, kırsal topluluklara hizmet eşitliği ve universal service obligation gereklilikleri tartışılmakta.&nbsp;</p>
+<p>Sendikalar, iş yükü ve güvenlik koşulları konusunda endişelerini dile getiriyor; yönetim, otomasyon ve package growth trendi ile birlikte verimlilik artışının zorunlu olduğunu savunuyor. Politik zeminde, kırsal topluluklara hizmet eşitliği ve universal service obligation gereklilikleri tartışılıyor.&nbsp;</p>
 <p><br></p>
-<p>Teknoloji yatırımları package sorting automation, route optimization ve müşteri iletişiminde dijital kanalların güçlendirilmesini içermekte. Sonuçta, finansal sürdürülebilirlik ile kapsayıcı hizmet dengesi, USPS’in gelecek stratejisinin ana ekseni olmakta.</p>
+<p>Teknoloji yatırımları package sorting automation, route optimization ve müşteri iletişiminde dijital kanalların güçlendirilmesini içeriyor. Sonuçta, finansal sürdürülebilirlik ile kapsayıcı hizmet dengesi, USPS’in gelecek stratejisinin ana ekseni oluyor.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
-1. Konsolidasyon maliyetleri düşürmeyi hedeflemekte.<br>
-2. Bazı bölgelerde hizmet gecikmesi yaşanmakta.<br>
-3. Sendika endişeleri çalışma koşullarına odaklanmakta.<br>
-4. USO gereklilikleri politik tartışma konusu olmakta.<br>
-5. Otomasyon ve rota optimizasyonu öne çıkmakta.</p>
+1. Konsolidasyon maliyetleri düşürmeyi hedefliyor.<br>
+2. Bazı bölgelerde hizmet gecikmesi yaşanıyor.<br>
+3. Sendika endişeleri çalışma koşullarına odaklanıyor.<br>
+4. USO gereklilikleri politik tartışma konusu oluyor.<br>
+5. Otomasyon ve rota optimizasyonu öne çıkıyor.</p>
 <p><br>
 ---<br>
 <strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41426-usps-head-leaves-behind-legacy-of-controversial-cuts"><u>https://www.supplychainbrain.com/articles/41426-usps-head-leaves-behind-legacy-of-controversial-cuts</u></a><br>

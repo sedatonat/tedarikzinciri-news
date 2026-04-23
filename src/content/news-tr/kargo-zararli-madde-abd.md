@@ -1,11 +1,11 @@
 ---
 title: "ABD’de Proje Kargosunda Zararlı Tespiti Yaptırımları Artıyor: İthalatçılar İçin Maliyet Baskısı Yükseliyor"
-subtitle: 'ABD’de Proje Kargosunda Zararlı Tespiti Yaptırımları Artıyor: İthalatçılar İçin Maliyet Baskısı Yükselmekte'
+subtitle: 'ABD’de Proje Kargosunda Zararlı Tespiti Yaptırımları Artıyor: İthalatçılar İçin Maliyet Baskısı Yükseliyor'
 date: '2025-11-10T09:00:00Z'
 sourceUrl: https://www.joc.com/article/penalties-for-pests-found-in-project-cargo-packing-add-to-shipper-woes-6112200
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3e43cd8bcd61499ab73ccc28c13b65be~mv2.jpg
-imageAlt: ABD CBP’nin ahşap ambalaj malzemelerinde (WPM) zararlı tespiti nedeniyle uyguladığı yüksek para cezaları ve yeniden ihraç riskleri, proje kargo ithalatçılarının maliyetlerini ciddi biçimde artırmakta; inceleme uygulamaları 2025’te daha sıkı hâle geldi.
+imageAlt: ABD CBP’nin ahşap ambalaj malzemelerinde (WPM) zararlı tespiti nedeniyle uyguladığı yüksek para cezaları ve yeniden ihraç riskleri, proje kargo ithalatçılarının maliyetlerini ciddi biçimde artırıyor; inceleme uygulamaları 2025’te daha sıkı hâle geldi.
 wixId: 3ba0192d-b969-47f1-a038-d9921f827f75
 author: Sedat Onat
 translated: false
@@ -20,9 +20,9 @@ tags:
 - breakbulk
 - ithalat maliyeti
 ---
-<p style="text-align: justify">ABD’nin <strong>breakbulk</strong> ve <strong>project cargo</strong> ithalatçıları, 2025 boyunca tarifeler, ekonomik belirsizlik, nakliye maliyetleri ve gecikmeler nedeniyle ciddi bir finansal baskı altında bulunmakta. Bu tabloya şimdi bir de <strong>CBP’nin ahşap ambalaj malzemelerinde zararlı tespiti için uyguladığı yoğun denetim ve yüksek cezalar</strong> eklenmiş durumda.</p>
+<p style="text-align: justify">ABD’nin <strong>breakbulk</strong> ve <strong>project cargo</strong> ithalatçıları, 2025 boyunca tarifeler, ekonomik belirsizlik, nakliye maliyetleri ve gecikmeler nedeniyle ciddi bir finansal baskı altında bulunuyor. Bu tabloya şimdi bir de <strong>CBP’nin ahşap ambalaj malzemelerinde zararlı tespiti için uyguladığı yoğun denetim ve yüksek cezalar</strong> eklenmiş durumda.</p>
 <p><br></p>
-<p style="text-align: justify">ABD Gümrük ve Sınır Koruma Birimi (<strong>CBP</strong>), özellikle <strong>ISPM 15 standardına</strong> uyumlu olmayan veya zararlı organizmalar içeren <strong>ahşap ambalaj malzemelerini (WPM – Wood Packaging Materials)</strong> hedef alıyor. Proje kargosunda kullanılan tahta sandıklar, takozlar, paletler ve destek kirişleri, doğal yapıları gereği <strong>böcek, larva ve fungal kontaminasyona</strong> son derece yatkın bulunmakta.</p>
+<p style="text-align: justify">ABD Gümrük ve Sınır Koruma Birimi (<strong>CBP</strong>), özellikle <strong>ISPM 15 standardına</strong> uyumlu olmayan veya zararlı organizmalar içeren <strong>ahşap ambalaj malzemelerini (WPM – Wood Packaging Materials)</strong> hedef alıyor. Proje kargosunda kullanılan tahta sandıklar, takozlar, paletler ve destek kirişleri, doğal yapıları gereği <strong>böcek, larva ve fungal kontaminasyona</strong> son derece yatkın bulunuyor.</p>
 <p><br></p>
 <p style="text-align: justify">CBP’nin sıkılaştırdığı uygulamalar nedeniyle ithalatçılar:</p>
 <ul>
@@ -31,11 +31,11 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Günler veya haftalar süren gecikmelere</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Limanda <strong>depolama ve işçilik maliyetlerinin yükselmesine</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Bozulan teslimat programlarının tetiklediği <strong>sözleşme ihlali risklerine</strong><br>
-maruz kalmakta.</p></li>
+maruz kalıyor.</p></li>
 </ul>
 <p><br></p>
 <h4 style="text-align: justify"><strong>2025 mali yılında denetimler hızlandı</strong></h4>
-<p style="text-align: justify">ABD federal hükümetinin 2025 mali yılı boyunca CBP’nin yürüttüğü denetimler, özellikle proje kargosu segmentinde <strong>önemli bir artış göstermekte</strong>. CBP, kırılgan olmayan ancak büyük ölçekli proje yüklerinin ahşap ambalaj kullanımını yoğun şekilde içerdiğini ve bu nedenle <strong>yüksek risk kategorisi</strong> altında tutulduğunu belirtiyor.</p>
+<p style="text-align: justify">ABD federal hükümetinin 2025 mali yılı boyunca CBP’nin yürüttüğü denetimler, özellikle proje kargosu segmentinde <strong>önemli bir artış gösteriyor</strong>. CBP, kırılgan olmayan ancak büyük ölçekli proje yüklerinin ahşap ambalaj kullanımını yoğun şekilde içerdiğini ve bu nedenle <strong>yüksek risk kategorisi</strong> altında tutulduğunu belirtiyor.</p>
 <p><br></p>
 <p style="text-align: justify">Proje kargosunda sıklıkla kullanılan:</p>
 <ul>
@@ -44,10 +44,10 @@ maruz kalmakta.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">ağır çelik ekipman sandıkları,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">denizcilik ve offshore ekipman kutuları</p></li>
 </ul>
-<p style="text-align: justify">genellikle kalın, işlenmemiş ve ağır kereste elemanlarından üretildiği için böcek yuvalanmasına uygun bir ortam sunmakta.</p>
+<p style="text-align: justify">genellikle kalın, işlenmemiş ve ağır kereste elemanlarından üretildiği için böcek yuvalanmasına uygun bir ortam sunuyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Cezalar neden bu kadar yüksek?</strong></h4>
-<p style="text-align: justify">ABD, zararlı organizmaların ülkeye girişi hâlinde tarım, ormancılık ve ekosistem üzerinde <strong>milyarlarca dolarlık zarar</strong> oluşabileceğini belirtiyor. Bu nedenle CBP, ISPM 15 ihlallerine karşı <strong>sıfır tolerans</strong> yaklaşımı uygulamakta.</p>
+<p style="text-align: justify">ABD, zararlı organizmaların ülkeye girişi hâlinde tarım, ormancılık ve ekosistem üzerinde <strong>milyarlarca dolarlık zarar</strong> oluşabileceğini belirtiyor. Bu nedenle CBP, ISPM 15 ihlallerine karşı <strong>sıfır tolerans</strong> yaklaşımı uyguluyor.</p>
 <p style="text-align: justify">Uygulamalar kapsamında:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Kargo tesis içinde açılıp yeniden ambalajlanmak zorunda kalabilir,</p></li>
@@ -58,13 +58,13 @@ maruz kalmakta.</p></li>
 <p style="text-align: justify">Bazı vakalarda cezaların <strong>1 milyon doların üzerine çıkabildiği</strong> bildiriliyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Tedarik zincirine etkisi geniş</strong></h4>
-<p style="text-align: justify">Bu yaptırımlar sektörde yalnızca maliyet değil, <strong>tedarik zinciri güvenilirliği</strong> üzerinde de büyük kırılganlık yaratmakta. Özellikle ABD’nin enerji, altyapı, ağır sanayi ve yenilenebilir enerji projelerine yönelik ithal edilen büyük ölçekli parçalar:</p>
+<p style="text-align: justify">Bu yaptırımlar sektörde yalnızca maliyet değil, <strong>tedarik zinciri güvenilirliği</strong> üzerinde de büyük kırılganlık yaratıyor. Özellikle ABD’nin enerji, altyapı, ağır sanayi ve yenilenebilir enerji projelerine yönelik ithal edilen büyük ölçekli parçalar:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">zamanında teslim edilmediğinde projeleri geciktirmekte,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">ek maliyet yüklemekte,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">EPC yüklenicilerinin sözleşme cezalarına yol açmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">EPC yüklenicilerinin sözleşme cezalarına yol açıyor.</p></li>
 </ul>
-<p style="text-align: justify">Birçok ithalatçı, CBP denetimlerinin artması nedeniyle <strong>ambalaj tedarik zincirini yeniden düzenlemekte</strong>, tedarikçilerden daha sıkı ISPM 15 sertifikasyonu talep etmekte.</p>
+<p style="text-align: justify">Birçok ithalatçı, CBP denetimlerinin artması nedeniyle <strong>ambalaj tedarik zincirini yeniden düzenliyor</strong>, tedarikçilerden daha sıkı ISPM 15 sertifikasyonu talep ediyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Riskten kaçınma yaklaşımları</strong></h4>
 <p style="text-align: justify">Sektör uzmanları proje kargosu ithalatçılarına şu yöntemleri öneriyor:</p>
@@ -75,15 +75,15 @@ maruz kalmakta.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Tedarikçi ülkelerde <strong>üçüncü taraf gözetim (survey)</strong> yaptırmak,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Varış limanında CBP’ye <strong>ön bildirim</strong> yapmak.</p></li>
 </ul>
-<p style="text-align: justify">Bu adımlar maliyetli olsa da yeniden ihracın neden olacağı finansal kayıpların yanında çok daha düşük kalmakta.</p>
+<p style="text-align: justify">Bu adımlar maliyetli olsa da yeniden ihracın neden olacağı finansal kayıpların yanında çok daha düşük kalıyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Önemli Notlar:</strong></h4>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">CBP’nin ahşap ambalaj denetimleri <strong>2025’te belirgin şekilde sıkılaştırıldı</strong>.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">ISPM 15 uyumsuzluğu milyona yaklaşan <strong>para cezalarına</strong> yol açmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Proje kargosunda kullanılan ağır kereste ambalajları <strong>yüksek zararlı riski</strong> taşımakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Cezalar + re-export kombinasyonu tedarik zincirinde ciddi <strong>gecikme ve maliyet artışına</strong> neden olmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Risk yönetimi için yükleme öncesi denetim ve alternatif ambalaj yöntemleri giderek kritik hâle gelmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">ISPM 15 uyumsuzluğu milyona yaklaşan <strong>para cezalarına</strong> yol açıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Proje kargosunda kullanılan ağır kereste ambalajları <strong>yüksek zararlı riski</strong> taşıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Cezalar + re-export kombinasyonu tedarik zincirinde ciddi <strong>gecikme ve maliyet artışına</strong> neden oluyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Risk yönetimi için yükleme öncesi denetim ve alternatif ambalaj yöntemleri giderek kritik hâle geliyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

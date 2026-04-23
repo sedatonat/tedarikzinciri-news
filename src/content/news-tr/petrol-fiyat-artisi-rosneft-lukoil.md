@@ -49,7 +49,7 @@ Dolayısıyla yaptırımlar, yalnızca Rus ekonomisini değil, <strong>küresel 
 <p><br>
 ABD ve müttefiklerinin, Rus petrolünün yerini almak üzere <strong>Orta Doğu, Afrika ve Latin Amerika üreticileriyle</strong> görüşmelere hız verdiği bildiriliyor.</p>
 <p><br></p>
-<p>Petrol fiyatlarındaki bu yükseliş, <strong>jeopolitik risk primini</strong> yeniden devreye sokarken, özellikle enerji yoğun sektörlerde <strong>maliyet baskısının artacağı</strong> öngörülmekte.</p>
+<p>Petrol fiyatlarındaki bu yükseliş, <strong>jeopolitik risk primini</strong> yeniden devreye sokarken, özellikle enerji yoğun sektörlerde <strong>maliyet baskısının artacağı</strong> öngörülüyor.</p>
 <p><br></p>
 <h5><strong>Ekonomik Etkiler: Enflasyon ve Enerji Güvenliği</strong></h5>
 <p>Küresel petrol fiyatlarındaki %5’lik artış, <strong>enerji ithalatçısı ülkelerde enflasyonist baskıyı</strong> artırabilir.<br>
@@ -70,7 +70,7 @@ Ancak bu adım, kısa vadede <strong>küresel petrol piyasasında arz endişeler
   <li><p>Kararın ardından petrol fiyatları <strong>%5 artarak iki haftanın zirvesine</strong> çıktı.</p></li>
   <li><p><strong>Rusya</strong>, 2024 itibarıyla <strong>dünyanın ikinci büyük ham petrol üreticisi</strong> konumunda.</p></li>
   <li><p><strong>Brent petrolü</strong> 90 dolar, <strong>WTI</strong> ise 85 dolar seviyelerine yükseldi.</p></li>
-  <li><p>Yaptırımlar, <strong>küresel arzı daraltarak enerji fiyatlarını</strong> yukarı çekmekte.</p></li>
+  <li><p>Yaptırımlar, <strong>küresel arzı daraltarak enerji fiyatlarını</strong> yukarı çekiyor.</p></li>
   <li><p>Uzmanlar, <strong>enerji güvenliği ve enflasyon</strong> üzerinde baskı artışı bekliyor.</p></li>
   <li><p>Orta vadede, <strong>küresel enerji tedarik zincirlerinde yeni denge arayışı</strong> başlayacak.</p></li>
 </ul>

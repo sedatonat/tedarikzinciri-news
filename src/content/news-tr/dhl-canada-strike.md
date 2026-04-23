@@ -20,14 +20,14 @@ tags:
 - çalışan hakları
 - lojistik
 ---
-<p>DHL Express Canada çalışanları, şirketle yaşanan anlaşmazlık nedeniyle lockout sonrası greve gitmiştir. Grev, ülke genelinde teslimat süreçlerinde gecikmelere neden olmaktadır. Union representatives, çalışma koşulları ve maaş farkları üzerinde anlaşma arayışındadır. Management contingency plans, operasyonların sınırlı şekilde devam etmesini sağlamaktadır. Uzmanlar, sürecin tedarik zinciri akışını kısa vadede olumsuz etkileyeceğini öngörmektedir.</p>
+<p>DHL Express Canada çalışanları, şirketle yaşanan anlaşmazlık nedeniyle lockout sonrası greve gitmiştir. Grev, ülke genelinde teslimat süreçlerinde gecikmelere neden oluyordır. Union representatives, çalışma koşulları ve maaş farkları üzerinde anlaşma arayışındadır. Management contingency plans, operasyonların sınırlı şekilde devam etmesini sağlıyordır. Uzmanlar, sürecin tedarik zinciri akışını kısa vadede olumsuz etkileyeceğini öngörüyordir.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 1. DHL Canada çalışanları greve gitmiştir.<br>
 2. Lockout sonrası operasyonlar kısıtlıdır.<br>
-3. Union talks devam etmektedir.<br>
-4. Grev teslimat gecikmelerine yol açmaktadır.<br>
-5. Tedarik akışı kısa vadede etkilenmektedir.</p>
+3. Union talks devam ediyordir.<br>
+4. Grev teslimat gecikmelerine yol açıyordır.<br>
+5. Tedarik akışı kısa vadede etkileniyordir.</p>
 <p><br>
 ---<br>
 <strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41927-dhl-express-canada-workers-on-strike-following-lockout"><u>https://www.supplychainbrain.com/articles/41927-dhl-express-canada-workers-on-strike-following-lockout</u></a><br>

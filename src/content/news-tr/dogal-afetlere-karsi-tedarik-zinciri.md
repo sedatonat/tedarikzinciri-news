@@ -19,7 +19,7 @@ tags:
 - Slimstock
 - tedarikçi çeşitlendirme
 ---
-<p style="text-align: justify">Doğal afetler, <strong>deprem</strong>, <strong>kasırga</strong>, <strong>sel</strong> ve <strong>orman yangınları</strong> gibi olaylar, tedarik zinciri altyapısını ve ulaşım yollarını ciddi şekilde bozabilmektedir. Bu durum, işletmelerin operasyonlarını aksatmakta ve müşteri memnuniyetini olumsuz etkilemektedir. Tedarik zincirini bu tür afetlere karşı korumak için aşağıdaki 5 strateji önerilmekte.</p>
+<p style="text-align: justify">Doğal afetler, <strong>deprem</strong>, <strong>kasırga</strong>, <strong>sel</strong> ve <strong>orman yangınları</strong> gibi olaylar, tedarik zinciri altyapısını ve ulaşım yollarını ciddi şekilde bozabiliyordir. Bu durum, işletmelerin operasyonlarını aksatıyor ve müşteri memnuniyetini olumsuz etkiliyordir. Tedarik zincirini bu tür afetlere karşı korumak için aşağıdaki 5 strateji öneriliyor.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>1. Risk Değerlendirmesi ve Planlama</strong></p>
 <p style="text-align: justify">İşletmeler, tedarik zincirlerinin hangi bölümlerinin doğal afetlere karşı en savunmasız olduğunu belirlemek için kapsamlı bir risk değerlendirmesi yapmalıdır. Bu değerlendirme, potansiyel tehditleri ve zayıf noktaları ortaya çıkararak, proaktif önlemler alınmasına olanak tanır. Örneğin, <strong>Slimstock</strong>'un belirttiği gibi, tedarik zinciri risklerinin değerlendirilmesi, işletmelerin risk iştahını belirlemesine yardımcı olur. ​</p>

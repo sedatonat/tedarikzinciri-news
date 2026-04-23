@@ -22,19 +22,19 @@ tags:
 ---
 <p><strong>Climeon</strong>, <strong>NovaAlgoma Cement Carriers (NACC)</strong> ile yeni inşa edilecek 38.000 DWT'lik metanol çift yakıtlı çimento taşıyıcısına <strong>HeatPower 300</strong> sistemini kurmak üzere bir anlaşma imzaladı. Bu sistem, geminin motor soğutma suyu ve egzoz gazlarından elde edilen düşük dereceli atık ısıyı kullanarak 300 kW'a kadar sürdürülebilir elektrik üretecek. Bu sayede yakıt tüketimi ve emisyonlar azalacak, NACC'nin sürdürülebilirlik hedeflerine katkı sağlanacak.</p>
 <p><br></p>
-<p><strong>Zhejiang Xingle Shipbuilding</strong> tersanesinde inşa edilen ve <strong>RINA</strong> sınıfına sahip olacak bu gemi, çimento endüstrisinde sürdürülebilir taşımacılık için yeni bir standart belirleyecek. <strong>Climeon</strong>'un <strong>HeatPower 300</strong> sistemi, düşük sıcaklıklı atık ısıdan elektrik üreten bir <strong>Organik Rankine Çevrimi (ORC)</strong> teknolojisidir. Bu teknoloji, farklı gemi tiplerinde hem çevresel hem de ekonomik faydalar sunarak esneklik sağlamaktadır.</p>
+<p><strong>Zhejiang Xingle Shipbuilding</strong> tersanesinde inşa edilen ve <strong>RINA</strong> sınıfına sahip olacak bu gemi, çimento endüstrisinde sürdürülebilir taşımacılık için yeni bir standart belirleyecek. <strong>Climeon</strong>'un <strong>HeatPower 300</strong> sistemi, düşük sıcaklıklı atık ısıdan elektrik üreten bir <strong>Organik Rankine Çevrimi (ORC)</strong> teknolojisidir. Bu teknoloji, farklı gemi tiplerinde hem çevresel hem de ekonomik faydalar sunarak esneklik sağlıyordır.</p>
 <p><br></p>
 <p>NACC Teknik Direktörü <strong>Francesco Costagliola</strong>, Climeon'un atık ısı geri kazanım teknolojisinin entegrasyonunun, sürdürülebilirlik hedeflerini desteklemenin yanı sıra, giderek sıkılaşan çevre düzenlemelerine uyum sağlarken operasyonel verimliliği artırmak için pratik bir yol sunduğunu belirtti.</p>
 <p><br></p>
-<p>Bu iş birliği, denizcilik endüstrisinin daha temiz ve verimli teknolojilere geçişini desteklemektedir. Climeon'un <strong>HeatPower 300</strong> sistemi, yakıt türünden bağımsız olarak motor atık ısısını yakalayarak, NACC'nin çift yakıtlı gemisi için hem ekonomik hem de çevresel faydalar sağlamaktadır. Bu ortaklık, Climeon ve NACC'nin çimento taşımacılığı sektöründe sürdürülebilirliği ilerletme konusundaki ortak taahhüdünü vurgulamaktadır.</p>
+<p>Bu iş birliği, denizcilik endüstrisinin daha temiz ve verimli teknolojilere geçişini destekliyordir. Climeon'un <strong>HeatPower 300</strong> sistemi, yakıt türünden bağımsız olarak motor atık ısısını yakalayarak, NACC'nin çift yakıtlı gemisi için hem ekonomik hem de çevresel faydalar sağlıyordır. Bu ortaklık, Climeon ve NACC'nin çimento taşımacılığı sektöründe sürdürülebilirliği ilerletme konusundaki ortak taahhüdünü vurguluyordır.</p>
 <p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li><p><strong>Climeon</strong>, <strong>NovaAlgoma Cement Carriers (NACC)</strong> ile yeni bir çimento taşıyıcısına <strong>HeatPower 300</strong> sistemini kurmak üzere anlaşma imzaladı.</p></li>
   <li><p><strong>HeatPower 300</strong>, düşük sıcaklıklı atık ısıdan 300 kW'a kadar elektrik üreten bir <strong>Organik Rankine Çevrimi (ORC)</strong> teknolojisidir.</p></li>
   <li><p>Sistem, geminin motor soğutma suyu ve egzoz gazlarından elde edilen ısıyı kullanarak yakıt tüketimi ve emisyonları azaltacak.</p></li>
-  <li><p>Gemi, <strong>Zhejiang Xingle Shipbuilding</strong> tersanesinde inşa edilmekte olup, <strong>RINA</strong> sınıfına sahip olacak.</p></li>
-  <li><p>Bu iş birliği, denizcilik endüstrisinde sürdürülebilirlik ve enerji verimliliği hedeflerine katkı sağlamaktadır.</p></li>
+  <li><p>Gemi, <strong>Zhejiang Xingle Shipbuilding</strong> tersanesinde inşa ediliyor olup, <strong>RINA</strong> sınıfına sahip olacak.</p></li>
+  <li><p>Bu iş birliği, denizcilik endüstrisinde sürdürülebilirlik ve enerji verimliliği hedeflerine katkı sağlıyordır.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

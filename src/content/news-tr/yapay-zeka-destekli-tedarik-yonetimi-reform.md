@@ -19,9 +19,9 @@ tags:
 - GEP Quantum
 - doğal dil işleme
 ---
-<p>GEP, tedarik yazılımını kullanmada deneyimi olmayan kullanıcıları desteklemek için yapay zeka (YK) kullanımının önemli bir rol oynayabileceğini duyurdu. New Jersey merkezli yazılım şirketi, sektörde ilk olduğunu belirttiği YK destekli toplam orkestrasyon çözümünü piyasaya sürdüğünü açıkladı. Bu yazılım, karmaşık iş akışlarını daha basit bir kullanıcı deneyimiyle entegre ederken, kullanıcılara rehberlik eden bir ortak pilot içermektedir.</p>
+<p>GEP, tedarik yazılımını kullanmada deneyimi olmayan kullanıcıları desteklemek için yapay zeka (YK) kullanımının önemli bir rol oynayabileceğini duyurdu. New Jersey merkezli yazılım şirketi, sektörde ilk olduğunu belirttiği YK destekli toplam orkestrasyon çözümünü piyasaya sürdüğünü açıkladı. Bu yazılım, karmaşık iş akışlarını daha basit bir kullanıcı deneyimiyle entegre ederken, kullanıcılara rehberlik eden bir ortak pilot içeriyordir.</p>
 <p><br></p>
-<p>GEP tarafından yapılan açıklamaya göre, giderek daha fazla tedarik yazılımı kullanıcısı, satın alma departmanından olmayan profesyonellerden oluşuyor. Bu kullanıcılar; sıradan çalışanlar, depo malzeme yöneticileri ve hukuk ile finans profesyonelleri gibi çeşitli alanlardan gelen kişilerdir ve yazılımın işlevsel yeteneklerindeki ilerlemelere rağmen tedarik süreçlerini doğası gereği karmaşık bulmaktadır.</p>
+<p>GEP tarafından yapılan açıklamaya göre, giderek daha fazla tedarik yazılımı kullanıcısı, satın alma departmanından olmayan profesyonellerden oluşuyor. Bu kullanıcılar; sıradan çalışanlar, depo malzeme yöneticileri ve hukuk ile finans profesyonelleri gibi çeşitli alanlardan gelen kişilerdir ve yazılımın işlevsel yeteneklerindeki ilerlemelere rağmen tedarik süreçlerini doğası gereği karmaşık buluyordır.</p>
 <p><br></p>
 <p>GEP'in YK ve düşük kodlu platformu olan GEP Quantum, kullanıcıların satın alma kararlarını anlamada ve yönlendirmede ustaca hareket eder. Aynı zamanda süreçleri düzenler, iş birliğini, karar verme süreçlerini, kontrolü ve şirket harcamaları üzerindeki görünürlüğü artırarak üstün değer sunar.</p>
 <p><br></p>

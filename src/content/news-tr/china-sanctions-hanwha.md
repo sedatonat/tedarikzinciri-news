@@ -19,12 +19,12 @@ tags:
 - ABD-Çin gerilimi
 - savunma lojistiği
 ---
-<p>Çin hükümeti, Güney Kore merkezli gemi üreticisi Hanwha Ocean’ın ABD’deki bağlı kuruluşlarına yaptırım kararı aldı. Bu karar, ABD’nin Asya-Pasifik bölgesindeki güvenlik iş birlikleri kapsamında uyguladığı kısıtlamalara yanıt olarak değerlendirildi. Yaptırımlar, şirketin Çin limanlarındaki tedarik ve servis faaliyetlerini sınırlamaktadır. Uzmanlar, bu adımın defense logistics ve shipbuilding supply chain üzerinde uzun vadeli etkiler yaratabileceğini belirtmekte. Ayrıca karar, Güney Kore’nin stratejik konumunu da zorlaştırmaktadır çünkü ülke hem ABD hem Çin ile yoğun ticaret içinde.</p>
+<p>Çin hükümeti, Güney Kore merkezli gemi üreticisi Hanwha Ocean’ın ABD’deki bağlı kuruluşlarına yaptırım kararı aldı. Bu karar, ABD’nin Asya-Pasifik bölgesindeki güvenlik iş birlikleri kapsamında uyguladığı kısıtlamalara yanıt olarak değerlendirildi. Yaptırımlar, şirketin Çin limanlarındaki tedarik ve servis faaliyetlerini sınırlıyordır. Uzmanlar, bu adımın defense logistics ve shipbuilding supply chain üzerinde uzun vadeli etkiler yaratabileceğini belirtiyor. Ayrıca karar, Güney Kore’nin stratejik konumunu da zorlaştırıyordır çünkü ülke hem ABD hem Çin ile yoğun ticaret içinde.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
-1. Çin, Hanwha Ocean’a misilleme yaptırımı uygulamaktadır.<br>
-2. Karar, defense logistics ağını etkilemektedir.<br>
-3. ABD–Çin gerilimi tedarik zincirini zorlamaktadır.<br>
+1. Çin, Hanwha Ocean’a misilleme yaptırımı uyguluyordır.<br>
+2. Karar, defense logistics ağını etkiliyordir.<br>
+3. ABD–Çin gerilimi tedarik zincirini zorluyordır.<br>
 4. Güney Kore’nin ticari dengesi risk altındadır.<br>
 5. Yaptırımlar küresel gemi inşa tedarikini sarsabilir.</p>
 <p><br>

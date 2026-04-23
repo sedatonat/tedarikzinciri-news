@@ -27,10 +27,10 @@ tags:
 <h5 style="text-align: justify"><strong>Yeni FM1 hattının stratejik önemi</strong></h5>
 <p style="text-align: justify">Yeni servis, <strong>Çin, Vietnam, Tayland, Malezya ve Singapur gibi Asya limanlarını</strong>, <strong>Doğu Akdeniz’deki ticaret merkezleriyle</strong> doğrudan bağlayarak <strong>geçiş sürelerini kısaltacak</strong>. Bu rota, Süveyş Kanalı üzerinden geçen yükler için <strong>alternatif ve daha hızlı bir taşımacılık bağlantısı</strong> sunacak.</p>
 <p><br></p>
-<p style="text-align: justify">Bu hamleyle <strong>Türkiye’nin Körfez Terminali</strong>, <strong>Uzak Doğu ile Avrupa arasındaki ticaret ağında kilit bir lojistik merkez</strong> haline geliyor. Terminal, DP World’ün <strong>Doğu Avrupa ve Akdeniz stratejisinin</strong> merkezinde yer almakta.</p>
+<p style="text-align: justify">Bu hamleyle <strong>Türkiye’nin Körfez Terminali</strong>, <strong>Uzak Doğu ile Avrupa arasındaki ticaret ağında kilit bir lojistik merkez</strong> haline geliyor. Terminal, DP World’ün <strong>Doğu Avrupa ve Akdeniz stratejisinin</strong> merkezinde yer alıyor.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>DP World Doğu Avrupa İcra Başkan Yardımcısı Kris Adams</strong>, anlaşma sonrası yaptığı açıklamada:</p>
-<blockquote style="text-align: justify">“Wan Hai Lines’ı Doğu Avrupa ağımıza dahil etmekten büyük memnuniyet duyuyoruz. Körfez Terminalimiz, Türkiye’yi küresel ticaret rotalarına bağlamada stratejik bir rol oynuyor. FM1 servisi, bu bağlantıyı güçlendirerek DP World’ün bölgedeki konumunu daha da sağlamlaştırıyor,” dedi.</blockquote>
+<blockquote style="text-align: justify">“Wan Hai Lines’ı Doğu Avrupa ağımıza dahil ediyorn büyük memnuniyet duyuyoruz. Körfez Terminalimiz, Türkiye’yi küresel ticaret rotalarına bağlamada stratejik bir rol oynuyor. FM1 servisi, bu bağlantıyı güçlendirerek DP World’ün bölgedeki konumunu daha da sağlamlaştırıyor,” dedi.</blockquote>
 <blockquote><br></blockquote>
 <h5 style="text-align: justify"><strong>Wan Hai Lines: Asya’dan Avrupa’ya genişleyen bir marka</strong></h5>
 <p style="text-align: justify"><strong>Wan Hai Lines</strong>, merkezi Tayvan’da bulunan ve <strong>Intra-Asia taşımacılığında lider</strong> konumda olan bir konteyner taşımacılığı şirketi. Şirket, son yıllarda <strong>konteyner kapasitesini hızla artırarak dünyanın en büyük 11. deniz taşımacılığı şirketi</strong> konumuna yükseldi.</p>
@@ -40,7 +40,7 @@ tags:
 <p style="text-align: justify">DP World yetkililerine göre, Türkiye’deki bu yeni hizmet hattı, <strong>DP World Körfez Terminali’nin artan bölgesel yük trafiğini yönetme kapasitesini</strong> daha da artıracak. Terminal, hem <strong>Asya–Avrupa ticaretinin yeni durak noktalarından biri</strong>, hem de <strong>Körfez, Karadeniz ve Orta Doğu hatlarını bağlayan lojistik bir merkez</strong> olarak öne çıkıyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Türkiye’nin küresel lojistik ağındaki rolü güçleniyor</strong></h5>
-<p style="text-align: justify">Uzmanlara göre, FM1 hattının Türkiye üzerinden işlemeye başlaması, <strong>ülkenin Doğu Akdeniz’deki stratejik lojistik konumunu</strong> güçlendirecek. Körfez Terminali’nin Süveyş Kanalı’na yakınlığı, <strong>Asya–Avrupa ticaretinde transit sürelerini kısaltma ve maliyetleri düşürme</strong> avantajı sağlamakta.</p>
+<p style="text-align: justify">Uzmanlara göre, FM1 hattının Türkiye üzerinden işlemeye başlaması, <strong>ülkenin Doğu Akdeniz’deki stratejik lojistik konumunu</strong> güçlendirecek. Körfez Terminali’nin Süveyş Kanalı’na yakınlığı, <strong>Asya–Avrupa ticaretinde transit sürelerini kısaltma ve maliyetleri düşürme</strong> avantajı sağlıyor.</p>
 <p><br></p>
 <p style="text-align: justify">DP World’ün bu hamlesi, şirketin <strong>Avrupa, Orta Doğu, Afrika ve Asya arasındaki deniz ticareti bağlantılarını</strong> optimize etme stratejisinin bir parçası. Şirket, son olarak <strong>Hindistan limanlarına 5 milyar dolarlık yatırım planı</strong> açıklamış ve bölgesel genişleme planlarını hızlandırmıştı.</p>
 <p><br></p>

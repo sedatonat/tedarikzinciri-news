@@ -23,7 +23,7 @@ tags:
 <p><br></p>
 <p>Siber suçluların hedef aldığı başlıca sebeplerden biri, tek bir ağ hatasının büyük kaos yaratma potansiyeline sahip olmasıdır. Ayrıca, limanlar, havaalanları veya tren istasyonları gibi önemli noktaların kapanmasına yol açabilecek zayıf güvenlik ve kötü e-posta hijyeni de büyük bir risk taşır.</p>
 <p><br></p>
-<p>Siber saldırıları önlemek için, yeni yazılımlar ve daha iyi bilgisayar sistemleri kullanılabilir. Ancak, tek başına çalışan hackerlar bu korumaları hızla aşabilir. Bu nedenle, teknolojinin siber güvenliğine ekstra bir önem verilmesi gerekmektedir. Ayrıca, siber suçlulara yönelik cezaların artırılması ve bu suçluların oluşturabileceği terörist tehdidin anlaşılması şarttır. Gelişmiş ülkelerdeki tedarik zincirlerinin kırılgan olması, siber suçlulara karşı ulusal ve uluslararası terörizm suçlamaları da dahil olmak üzere güçlü yaptırımların uygulanması gerektiğini gösterir.</p>
+<p>Siber saldırıları önlemek için, yeni yazılımlar ve daha iyi bilgisayar sistemleri kullanılabilir. Ancak, tek başına çalışan hackerlar bu korumaları hızla aşabilir. Bu nedenle, teknolojinin siber güvenliğine ekstra bir önem verilmesi gerekiyordir. Ayrıca, siber suçlulara yönelik cezaların artırılması ve bu suçluların oluşturabileceği terörist tehdidin anlaşılması şarttır. Gelişmiş ülkelerdeki tedarik zincirlerinin kırılgan olması, siber suçlulara karşı ulusal ve uluslararası terörizm suçlamaları da dahil olmak üzere güçlü yaptırımların uygulanması gerektiğini gösterir.</p>
 <p><br></p>
 <p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
@@ -31,7 +31,7 @@ tags:
   <li><p>Taşıma endüstrisi, küresel ölçekte kritik bir role sahiptir.</p></li>
   <li><p>Siber suçlular, endüstriyel ağ hatasından faydalanarak büyük kaos yaratabilir.</p></li>
   <li><p>Zayıf güvenlik ve kötü e-posta hijyeni, büyük riskler taşır.</p></li>
-  <li><p>Teknolojik korumaların yanı sıra, siber güvenlik eğitimlerine ağırlık verilmesi gerekmektedir.</p></li>
+  <li><p>Teknolojik korumaların yanı sıra, siber güvenlik eğitimlerine ağırlık verilmesi gerekiyordir.</p></li>
   <li><p>Siber suçlulara karşı ulusal ve uluslararası yasal yaptırımların artırılması önemlidir.</p></li>
 </ol>
 <p><br></p>

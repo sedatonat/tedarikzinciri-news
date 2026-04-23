@@ -29,7 +29,7 @@ tags:
 <h5 style="text-align: justify"><strong>Çerçeve anlaşmanın temel hükümleri</strong></h5>
 <p style="text-align: justify">Temmuz ayında açıklanan taslak çerçeveye göre, <strong>ABD</strong>, Güney Kore’den ithal edilen mallar üzerindeki <strong>%25’lik tarifeyi %15’e düşürmeyi</strong> kabul etmişti. Buna karşılık, <strong>Güney Kore’nin ABD’ye 350 milyar dolarlık yatırım yapması</strong> öngörülüyor.</p>
 <p><br></p>
-<p style="text-align: justify">Yeni anlaşmanın bu hükümleri resmileştirmesi bekleniyor. Ayrıca, enerji, yarı iletken ve savunma sanayi yatırımlarını da kapsayan <strong>stratejik sektörlerde iş birliği protokollerinin</strong> anlaşma metnine dahil edileceği öngörülmekte.</p>
+<p style="text-align: justify">Yeni anlaşmanın bu hükümleri resmileştirmesi bekleniyor. Ayrıca, enerji, yarı iletken ve savunma sanayi yatırımlarını da kapsayan <strong>stratejik sektörlerde iş birliği protokollerinin</strong> anlaşma metnine dahil edileceği öngörülüyor.</p>
 <p><br></p>
 <p style="text-align: justify">Trump yönetimi, bu tür ikili anlaşmalarla Asya’da <strong>ticaret ve güvenlik ağını yeniden yapılandırmayı</strong> hedefliyor. Anlaşma, özellikle <strong>ABD–Çin ticaret rekabetinin</strong> yoğunlaştığı bir dönemde Washington’un <strong>Seul ile ilişkilerini derinleştirme hamlesi</strong> olarak değerlendiriliyor.</p>
 <p><br></p>

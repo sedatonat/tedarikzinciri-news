@@ -19,7 +19,7 @@ tags:
 - gıda israfı
 - tedarik zinciri
 ---
-<p>Yenilikçi makine öğrenme algoritması, günlük envanter satışları, hava durumu, alışverişçi demografisi, gelir, cinsiyet, yaş, mevsimsel değişkenler ve mağaza özellikleri gibi faktörleri dikkate alarak en güncel bilgilere dayalı olarak her perakende mağazasına doğru miktarda envanter tahsis etmeyi amaçlamaktadır.</p>
+<p>Yenilikçi makine öğrenme algoritması, günlük envanter satışları, hava durumu, alışverişçi demografisi, gelir, cinsiyet, yaş, mevsimsel değişkenler ve mağaza özellikleri gibi faktörleri dikkate alarak en güncel bilgilere dayalı olarak her perakende mağazasına doğru miktarda envanter tahsis etmeyi amaçlıyordır.</p>
 <p><br></p>
 <p>Çin'in market sektörü, batı ülkeleri gibi ince kar marjlarıyla karşı karşıya olan rekabetçi bir yapıyla karşı karşıyadır. Fresh Hema'nın mevcut envanter yenileme uygulamaları, "önceki gün" bilgisine dayalı olarak tanımlanmıştır. Shang ve meslektaşları, envanteri perakende mağazaları arasında tahsis etmek için <a href="https://en.wikipedia.org/wiki/Taylor_series"><u>Taylor Serisi veya Taylor Genişlemesi</u></a> olarak bilinen matematiksel bir yöntemi kullanarak ve ardından gerçek zamanlı bir çözüm olan Veri Odaklı Taylor Yaklaşımı (DDTA) (<a href="https://tr.wikipedia.org/wiki/Taylorculuk"><u>Taylorculuk</u></a>) için makine öğrenme algoritmalarını uygulayarak bu soruna iki aşamalı bir yaklaşım getiriyorlar.</p>
 <p><br></p>

@@ -19,19 +19,19 @@ tags:
 - Gashuun Sukhait
 - altyapı projesi
 ---
-<p style="text-align: justify">Moğolistan hükümeti, Çin ile 2028 yılına kadar yeni bir demiryolu sınır geçişi açmayı planladığını duyurdu. Bu yeni bağlantı, Moğolistan'ın Çin'e kömür ihracatını kolaylaştırarak kapasiteyi 30 milyon ton artırmayı hedeflemekte. ​</p>
+<p style="text-align: justify">Moğolistan hükümeti, Çin ile 2028 yılına kadar yeni bir demiryolu sınır geçişi açmayı planladığını duyurdu. Bu yeni bağlantı, Moğolistan'ın Çin'e kömür ihracatını kolaylaştırarak kapasiteyi 30 milyon ton artırmayı hedefliyor. ​</p>
 <p><br></p>
-<p style="text-align: justify">Yeni sınır geçişi, hâlihazırda faaliyette olan Zamiin Uud geçiş noktasının yaklaşık 380 kilometre batısında bulunan Gashuun Sukhait'te yer alacak. Gashuun Sukhait'te sınırın her iki tarafında da mevcut demiryolu altyapısı bulunmakta. Yeni bağlantının inşaatının Nisan 2025'te başlaması ve 2028'de tamamlanması planlanmakta. ​</p>
+<p style="text-align: justify">Yeni sınır geçişi, hâlihazırda faaliyette olan Zamiin Uud geçiş noktasının yaklaşık 380 kilometre batısında bulunan Gashuun Sukhait'te yer alacak. Gashuun Sukhait'te sınırın her iki tarafında da mevcut demiryolu altyapısı bulunuyor. Yeni bağlantının inşaatının Nisan 2025'te başlaması ve 2028'de tamamlanması planlanıyor. ​</p>
 <p><br></p>
-<p style="text-align: justify">Bu 30 milyon tonluk kapasite artışıyla, kömür ihracat kapasitesi yıllık 165 milyon tona ulaşacak. 2024 yılında, Moğolistan Çin'e 83 milyon ton kömür ihraç etti. Pekin, metalurji endüstrisi için ek kömür kaynakları arayışında, zira yaptırımlar ve tarifeler Rusya ve ABD'den ürün ithalatını zorlaştırmakta. ​</p>
+<p style="text-align: justify">Bu 30 milyon tonluk kapasite artışıyla, kömür ihracat kapasitesi yıllık 165 milyon tona ulaşacak. 2024 yılında, Moğolistan Çin'e 83 milyon ton kömür ihraç etti. Pekin, metalurji endüstrisi için ek kömür kaynakları arayışında, zira yaptırımlar ve tarifeler Rusya ve ABD'den ürün ithalatını zorlaştırıyor. ​</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Yeni Sınır Geçişi:</strong> Gashuun Sukhait'te, mevcut Zamiin Uud geçiş noktasının 380 kilometre batısında konumlanacak.​<a href="https://www.railfreight.com/beltandroad/2025/02/24/mongolia-and-china-plan-to-open-second-rail-border-crossing-by-2028/" rel="noopener" target="_blank">pl.railfreight.com+2railfreight.com+2es.railfreight.com+2</a></p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>İnşaat Süreci:</strong> Nisan 2025'te başlayıp 2028'de tamamlanması planlanmakta.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>İnşaat Süreci:</strong> Nisan 2025'te başlayıp 2028'de tamamlanması planlanıyor.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Kapasite Artışı:</strong> Yıllık kömür ihracat kapasitesi 30 milyon ton artarak 165 milyon tona ulaşacak.​<a href="https://www.railfreight.com/beltandroad/2025/02/24/mongolia-and-china-plan-to-open-second-rail-border-crossing-by-2028/" rel="noopener" target="_blank">pl.railfreight.com+2railfreight.com+2es.railfreight.com+2</a></p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>2024 İhracatı:</strong> Moğolistan, 2024 yılında Çin'e 83 milyon ton kömür ihraç etti.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Çin'in Kömür Arayışı:</strong> Pekin, metalurji endüstrisi için ek kömür kaynakları aramakta, zira mevcut yaptırımlar ve tarifeler Rusya ve ABD'den ithalatı zorlaştırmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Çin'in Kömür Arayışı:</strong> Pekin, metalurji endüstrisi için ek kömür kaynakları aramakta, zira mevcut yaptırımlar ve tarifeler Rusya ve ABD'den ithalatı zorlaştırıyor.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

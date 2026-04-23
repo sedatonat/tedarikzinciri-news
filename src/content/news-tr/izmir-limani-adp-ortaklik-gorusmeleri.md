@@ -18,7 +18,7 @@ tags:
 - ortaklık görüşmeleri
 - Alsancak Limanı
 ---
-<p>Abu Dhabi Port (ADP) ile Türkiye Varlık Fonu arasında İzmir Alsancak Limanı'nın işletmesi için ortaklık kurma görüşmeleri sürmektedir. Bu görüşmeler, bölgesel rekabet ve kapasite şartlarının nihai anlaşmayı etkilediği bir ortamda devam etmektedir. İzmir Limanı, 1959'dan beri hizmet veren ve Türkiye'nin en büyük limanlarından biri olarak kabul edilen, konteyner hacmi ve kargo tonajı açısından önemli bir rol oynamaktadır. Anlaşmanın potansiyel diğer alıcılarla da görüşüldüğü ancak ADP ile devam edildiği belirtilmektedir.</p>
+<p>Abu Dhabi Port (ADP) ile Türkiye Varlık Fonu arasında İzmir Alsancak Limanı'nın işletmesi için ortaklık kurma görüşmeleri sürüyordir. Bu görüşmeler, bölgesel rekabet ve kapasite şartlarının nihai anlaşmayı etkilediği bir ortamda devam ediyordir. İzmir Limanı, 1959'dan beri hizmet veren ve Türkiye'nin en büyük limanlarından biri olarak kabul edilen, konteyner hacmi ve kargo tonajı açısından önemli bir rol oynuyordır. Anlaşmanın potansiyel diğer alıcılarla da görüşüldüğü ancak ADP ile devam edildiği belirtiliyordir.</p>
 <p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ol>

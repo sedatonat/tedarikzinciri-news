@@ -28,7 +28,7 @@ tags:
 <p><br></p>
 <p style="text-align: justify"><strong>Rusya</strong>, <strong>MSC Levante F</strong> gemisinin, <strong>Türkiye</strong>'deki bir <strong>NATO</strong> üssünden <strong>İngiltere</strong>'ye ait deniz dronları ve silahlar yüklendiğini iddia etti. Ancak, bu iddialara dair somut bir kanıt sunulmadı.</p>
 <p><br></p>
-<p style="text-align: justify">Saldırı, <strong>Rusya</strong>'nın <strong>Ukrayna</strong>'ya yönelik devam eden askeri operasyonlarının bir parçası olarak değerlendiriliyor. Bu tür saldırılar, bölgedeki deniz taşımacılığı ve liman operasyonları üzerinde olumsuz etkilere yol açmakta.</p>
+<p style="text-align: justify">Saldırı, <strong>Rusya</strong>'nın <strong>Ukrayna</strong>'ya yönelik devam eden askeri operasyonlarının bir parçası olarak değerlendiriliyor. Bu tür saldırılar, bölgedeki deniz taşımacılığı ve liman operasyonları üzerinde olumsuz etkilere yol açıyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>

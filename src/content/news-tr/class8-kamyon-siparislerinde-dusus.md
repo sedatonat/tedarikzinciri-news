@@ -20,7 +20,7 @@ tags:
 - FTR Research
 - ACT Research
 ---
-<p style="text-align: justify">ABD ağır ticari araç pazarının öncü göstergelerinden biri olan <strong>Class 8 truck orders</strong>, Kasım 2025’te de aşağı yönlü seyrini sürdürdü. <strong>FTR</strong> ve <strong>ACT Research</strong> tarafından yayımlanan öncü verilere göre, Kasım ayı net siparişleri hem aylık hem yıllık bazda belirgin bir daralma göstererek sektörün 2026’ya zayıf bir başlangıç yapabileceğine işaret etmekte.</p>
+<p style="text-align: justify">ABD ağır ticari araç pazarının öncü göstergelerinden biri olan <strong>Class 8 truck orders</strong>, Kasım 2025’te de aşağı yönlü seyrini sürdürdü. <strong>FTR</strong> ve <strong>ACT Research</strong> tarafından yayımlanan öncü verilere göre, Kasım ayı net siparişleri hem aylık hem yıllık bazda belirgin bir daralma göstererek sektörün 2026’ya zayıf bir başlangıç yapabileceğine işaret ediyor.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>FTR verilerine göre Kasım Class 8 net siparişleri 20.200 adet</strong> seviyesinde gerçekleşti. Bu rakam:</p>
 <ul>
@@ -41,20 +41,20 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>EPA’27 NOx rule</strong> belirsizliği,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Zayıf <strong>carrier profitability</strong>.</p></li>
 </ul>
-<p style="text-align: justify">Hem <strong>vocational</strong> hem <strong>on-highway</strong> segmentlerinin yıllık ve aylık bazda düştüğü, ancak vocational segmentin nispeten daha iyi performans gösterdiği belirtilmekte. Bu durum, 2026’ya girerken hâlâ “temkinli talep” görünümünün geçerli olduğunu göstermekte.</p>
+<p style="text-align: justify">Hem <strong>vocational</strong> hem <strong>on-highway</strong> segmentlerinin yıllık ve aylık bazda düştüğü, ancak vocational segmentin nispeten daha iyi performans gösterdiği belirtiliyor. Bu durum, 2026’ya girerken hâlâ “temkinli talep” görünümünün geçerli olduğunu gösteriyor.</p>
 <p><br></p>
-<p style="text-align: justify">FTR, özellikle <strong>2026 order cycle</strong> için risklerin arttığını belirtmekte. Eylül–Kasım dönemi kümülatif net siparişleri <strong>yıllık %36 düşmüş</strong> durumda. Ancak FTR, bu tabloya rağmen iki pozitif unsurun sürece bir miktar destek sağlayabileceğini ifade ediyor:</p>
+<p style="text-align: justify">FTR, özellikle <strong>2026 order cycle</strong> için risklerin arttığını belirtiyor. Eylül–Kasım dönemi kümülatif net siparişleri <strong>yıllık %36 düşmüş</strong> durumda. Ancak FTR, bu tabloya rağmen iki pozitif unsurun sürece bir miktar destek sağlayabileceğini ifade ediyor:</p>
 <ol>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Tarifelerde daha net bir çerçeve oluşması:</strong><br>
-Yeni tarife yapısının maliyetleri artırdığı, ancak bunu “ölçülü ve hedefli” biçimde yaptığı, kaynak çeşitlendirmesi (reshoring) için alan açtığı belirtilmekte.</p></li>
+Yeni tarife yapısının maliyetleri artırdığı, ancak bunu “ölçülü ve hedefli” biçimde yaptığı, kaynak çeşitlendirmesi (reshoring) için alan açtığı belirtiliyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>EPA’27 extended warranty requirements</strong>’ın kaldırılmasının ciddi bir maliyet azaltımı yaratması:<br>
 Daha önce NOx kuralının toplam ekipman maliyetini %100’e yakın artırabileceği öngörülürken, uzatılmış garanti gerekliliğinin kaldırılmasıyla maliyet artışının yarı yarıya düşebileceği değerlendiriliyor.</p></li>
 </ol>
 <p style="text-align: justify">Bu iki olumlu başlığa rağmen FTR Senior Analyst <strong>Dan Moyer</strong>, filoların yatırım kararlarının hâlâ baskı altında olduğunu vurguluyor:<br>
 “<strong>Improved clarity has not been enough to offset weak freight fundamentals, limited profitability, elevated capital costs…</strong>”<br>
-Moyer’e göre filolar <strong>cost control</strong>, <strong>maintenance discipline</strong> ve <strong>asset utilization</strong> önceliklerine yönelmekte ve bu da ekipman talebinde anlamlı bir toparlanmayı geciktirmekte.</p>
+Moyer’e göre filolar <strong>cost control</strong>, <strong>maintenance discipline</strong> ve <strong>asset utilization</strong> önceliklerine yöneliyor ve bu da ekipman talebinde anlamlı bir toparlanmayı geciktirmekte.</p>
 <p><br></p>
-<p style="text-align: justify"><strong>ACT Research verileri</strong> de benzer bir tablo sunuyor. ACT’e göre Kasım Class 8 net siparişleri <strong>19.700 adet</strong> oldu ve yıllık bazda <strong>%4.7 düşüş</strong> gösterdi. Kasım, normalde yılın üçüncü en güçlü sipariş ayı olarak kabul edilmekte; bu nedenle düşüş beklentilerin altında bir performans anlamına geliyor.</p>
+<p style="text-align: justify"><strong>ACT Research verileri</strong> de benzer bir tablo sunuyor. ACT’e göre Kasım Class 8 net siparişleri <strong>19.700 adet</strong> oldu ve yıllık bazda <strong>%4.7 düşüş</strong> gösterdi. Kasım, normalde yılın üçüncü en güçlü sipariş ayı olarak kabul ediliyor; bu nedenle düşüş beklentilerin altında bir performans anlamına geliyor.</p>
 <p><br></p>
 <p style="text-align: justify">ACT Research Analyst <strong>Carter Vieth</strong>, asıl sorunun filoların <strong>profitability</strong> eksikliği olduğunu belirtiyor:</p>
 <p><br>

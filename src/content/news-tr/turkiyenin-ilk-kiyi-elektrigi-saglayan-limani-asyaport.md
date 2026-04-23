@@ -28,7 +28,7 @@ tags:
 <p><br></p>
 <p>Projenin inşaat ve tasarımı, toplam 10 milyon dolarlık bütçeyle, ağırlıklı olarak yerli ve milli ekipman kullanılarak tamamlandı. Türk ekipler tarafından yürütülen uzun vadeli fizibilite ve altyapı çalışmaları sonucunda, terminalin OPS sistemi başarıyla hayata geçirildi.</p>
 <p><br></p>
-<p>Asyaport Teknik Hizmetler ve Planlama Müdürü Besim Dönmez, "Türk mühendisliğinin yeteneklerini gösteren bu projede yer almaktan gurur duyuyoruz. Asyaport'ta kıyı elektriğinin kurulumu, taşıyıcı müşterilerimizin kargo operasyonları sırasında emisyonları azaltmasına destek olmamızı ve Tekirdağ'ı sürdürülebilir küresel ticaret için önemli bir merkez olarak daha da geliştirmemizi sağlayacak" şeklinde konuştu.</p>
+<p>Asyaport Teknik Hizmetler ve Planlama Müdürü Besim Dönmez, "Türk mühendisliğinin yeteneklerini gösteren bu projede yer alıyorn gurur duyuyoruz. Asyaport'ta kıyı elektriğinin kurulumu, taşıyıcı müşterilerimizin kargo operasyonları sırasında emisyonları azaltmasına destek olmamızı ve Tekirdağ'ı sürdürülebilir küresel ticaret için önemli bir merkez olarak daha da geliştirmemizi sağlayacak" şeklinde konuştu.</p>
 <p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>

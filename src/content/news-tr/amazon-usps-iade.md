@@ -28,14 +28,14 @@ tags:
 <p style="text-align: justify"><strong>Third Person</strong> CEO’su <strong>Matthew Hertz</strong>, <strong>LinkedIn</strong> paylaşımında <strong>Nashville, Tennessee</strong> bölgesinde kendi Amazon siparişi için bu seçeneğin aktif olduğunu duyurdu. Hertz, iade sürecinin “<strong>ücretsiz, kutulu ve etiketli şekilde tamamlandığını</strong>” belirtti.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>USPS İçin Yeni Bir Gelir Kapısı</strong></h5>
-<p style="text-align: justify"><strong>ABD Posta Servisi</strong>, uzun süredir süregelen mali sıkıntılarını aşmak için <strong>iade (reverse logistics)</strong> pazarına yönelmekte. Kurumun <strong>Office of Inspector General (Denetim Ofisi)</strong> tarafından 2024 yılında yayımlanan rapora göre, <strong>2023 mali yılında 132 milyon iade paketi</strong> işlenmiş ve bu operasyonlardan <strong>665 milyon dolar gelir</strong> elde edilmişti.</p>
+<p style="text-align: justify"><strong>ABD Posta Servisi</strong>, uzun süredir süregelen mali sıkıntılarını aşmak için <strong>iade (reverse logistics)</strong> pazarına yöneliyor. Kurumun <strong>Office of Inspector General (Denetim Ofisi)</strong> tarafından 2024 yılında yayımlanan rapora göre, <strong>2023 mali yılında 132 milyon iade paketi</strong> işlenmiş ve bu operasyonlardan <strong>665 milyon dolar gelir</strong> elde edilmişti.</p>
 <p><br></p>
-<p style="text-align: justify">Raporda, “Tersine lojistik pazarındaki büyüme dikkate alındığında, USPS bu alandaki pazar payını genişletme ve gelirlerini artırma fırsatlarına sahip,” ifadesi yer almakta. Bu durum, <strong>e-ticaret iadelerinin posta hizmetleri için stratejik bir büyüme alanı</strong> haline geldiğini göstermekte.</p>
+<p style="text-align: justify">Raporda, “Tersine lojistik pazarındaki büyüme dikkate alındığında, USPS bu alandaki pazar payını genişletme ve gelirlerini artırma fırsatlarına sahip,” ifadesi yer alıyor. Bu durum, <strong>e-ticaret iadelerinin posta hizmetleri için stratejik bir büyüme alanı</strong> haline geldiğini gösteriyor.</p>
 <p><br></p>
 <p style="text-align: justify">USPS, Amazon ile yaptığı bu ortaklık sayesinde <strong>artan iade hacminden doğrudan gelir elde etmeyi</strong> ve <strong>lojistik ağının daha etkin kullanılmasını</strong> hedefliyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Amazon’un İade Ekosistemi Genişliyor</strong></h5>
-<p style="text-align: justify">Amazon, halihazırda müşterilerine farklı iade yöntemleri sunmakta:</p>
+<p style="text-align: justify">Amazon, halihazırda müşterilerine farklı iade yöntemleri sunuyor:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Staples</strong>, <strong>Whole Foods Market</strong> ve <strong>The UPS Store</strong> noktalarına <strong>etiketsiz ve kutusuz iade</strong> imkânı,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">8.000’den fazla <strong>drop-off noktası</strong> üzerinden 5 mil (yaklaşık 8 km) erişim mesafesinde kolay teslimat,</p></li>
@@ -50,19 +50,19 @@ tags:
 <h5 style="text-align: justify"><strong>Müşteri Deneyimi Odaklı Bir Dönüşüm</strong></h5>
 <p style="text-align: justify">Amazon’un yeni iade stratejisi, sadece operasyonel kolaylık değil, aynı zamanda <strong>müşteri sadakatini güçlendirme</strong> amacını taşıyor. İade süreci, özellikle e-ticarette müşteri deneyimini doğrudan etkileyen kritik bir unsur.</p>
 <p><br></p>
-<p style="text-align: justify"><strong>USPS kapıdan iade modeli</strong>, müşterinin zaman kaybını azaltırken aynı zamanda <strong>karbon ayak izinin de düşmesine</strong> katkı sağlamakta; zira bu modelde bireysel kargo taşımaları yerine <strong>rota tabanlı teslim alma planlaması</strong> yapılmakta.</p>
+<p style="text-align: justify"><strong>USPS kapıdan iade modeli</strong>, müşterinin zaman kaybını azaltırken aynı zamanda <strong>karbon ayak izinin de düşmesine</strong> katkı sağlıyor; zira bu modelde bireysel kargo taşımaları yerine <strong>rota tabanlı teslim alma planlaması</strong> yapılıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Sonuç olarak, Amazon ve USPS iş birliği, hem <strong>postanın gelir çeşitlendirmesi</strong> hem de <strong>Amazon’un müşteri deneyimi stratejisinin</strong> güçlenmesi açısından iki taraf için de kazan-kazan (win-win) niteliğinde bir adım olarak görülmekte.</p>
+<p style="text-align: justify">Sonuç olarak, Amazon ve USPS iş birliği, hem <strong>postanın gelir çeşitlendirmesi</strong> hem de <strong>Amazon’un müşteri deneyimi stratejisinin</strong> güçlenmesi açısından iki taraf için de kazan-kazan (win-win) niteliğinde bir adım olarak görülüyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Amazon</strong>, <strong>USPS</strong> ile ortaklaşa <strong>kapıdan iade hizmetini</strong> başlattı.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Sistem şu anda <strong>belirli bölgelerde pilot</strong> olarak uygulanmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Sistem şu anda <strong>belirli bölgelerde pilot</strong> olarak uygulanıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>USPS</strong>, 2023’te iadelerden <strong>665 milyon dolar gelir</strong> elde etti.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Amazon</strong>, 8.000’den fazla drop-off noktasıyla iade ağını genişletmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Amazon</strong>, 8.000’den fazla drop-off noktasıyla iade ağını genişlediyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Tatil sonrası iade oranı %17’ye çıkması</strong> bekleniyor.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Yeni hizmet, <strong>müşteri konforunu artırırken</strong> USPS için <strong>yeni gelir fırsatı</strong> sunmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Model, <strong>karbon emisyonlarını azaltan, veri odaklı lojistik planlamasıyla</strong> öne çıkmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Yeni hizmet, <strong>müşteri konforunu artırırken</strong> USPS için <strong>yeni gelir fırsatı</strong> sunuyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Model, <strong>karbon emisyonlarını azaltan, veri odaklı lojistik planlamasıyla</strong> öne çıkıyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

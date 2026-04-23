@@ -41,7 +41,7 @@ tags:
 <p style="text-align: justify">Girişim, <strong>Kraken</strong>, <strong>Fabric Ventures</strong>, <strong>G20 Group</strong> ve <strong>Proximity</strong> gibi önde gelen kripto yatırımcılarından destek aldı. Bu finansal ve stratejik ortaklıklar, SovereignAI’nin <strong>blockchain tabanlı yapay zekâ ekosistemi</strong> oluşturma hedefini hızlandıracak.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>OceanPal’ın stratejik dönüşümü</strong></h5>
-<p style="text-align: justify">OceanPal, <strong>Diana Shipping</strong> grubunun (Semiramis Paliou liderliğinde) bir yan kuruluşu olarak faaliyet göstermekte. Şirket, halihazırda <strong>kuru yük (dry bulk)</strong> ve <strong>ürün tankerleri (product tanker)</strong> işletmeye devam ederken, SovereignAI’yi <strong>ayrı bir dijital inovasyon kolu</strong> olarak yapılandırıyor.</p>
+<p style="text-align: justify">OceanPal, <strong>Diana Shipping</strong> grubunun (Semiramis Paliou liderliğinde) bir yan kuruluşu olarak faaliyet gösteriyor. Şirket, halihazırda <strong>kuru yük (dry bulk)</strong> ve <strong>ürün tankerleri (product tanker)</strong> işletmeye devam ederken, SovereignAI’yi <strong>ayrı bir dijital inovasyon kolu</strong> olarak yapılandırıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Şirketin açıklamasında, bu hamlenin <strong>“pasif yatırım odaklı bir varlık yönetiminden aktif dijital altyapı geliştirmeye geçiş”</strong> anlamına geldiği belirtildi. OceanPal böylece, denizcilik dışındaki gelir kaynaklarını çeşitlendirerek <strong>geleceğin dijital ekonomisine entegrasyon</strong> hedefliyor.</p>
 <p><br></p>

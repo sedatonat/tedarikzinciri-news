@@ -20,14 +20,14 @@ tags:
 - demiryolu taşımacılığı
 - Kartepe
 ---
-<p style="text-align: justify">Türkiye lojistik sektörü açısından yapısal bir dönüm noktası olarak değerlendirilen <strong>Railport</strong>, ülkenin <strong>ilk intermodal terminali</strong> olarak resmi olarak faaliyete başladı. İstanbul’un yaklaşık <strong>130 kilometre doğusunda</strong>, <strong>Kartepe</strong>’de konumlanan tesis; yük trenleri, konteynerler, kamyonlar ve <strong>high-bay warehouse</strong> altyapısıyla operasyon yürütmekte. Terminalin devreye alınması, yalnızca Türkiye için değil, aynı zamanda Avrupa’nın en büyük iç limanı olan <strong>Port of Duisburg (duisport)</strong> için de stratejik bir genişleme anlamı taşımakta.</p>
+<p style="text-align: justify">Türkiye lojistik sektörü açısından yapısal bir dönüm noktası olarak değerlendirilen <strong>Railport</strong>, ülkenin <strong>ilk intermodal terminali</strong> olarak resmi olarak faaliyete başladı. İstanbul’un yaklaşık <strong>130 kilometre doğusunda</strong>, <strong>Kartepe</strong>’de konumlanan tesis; yük trenleri, konteynerler, kamyonlar ve <strong>high-bay warehouse</strong> altyapısıyla operasyon yürütüyor. Terminalin devreye alınması, yalnızca Türkiye için değil, aynı zamanda Avrupa’nın en büyük iç limanı olan <strong>Port of Duisburg (duisport)</strong> için de stratejik bir genişleme anlamı taşıyor.</p>
 <p><br></p>
-<p style="text-align: justify"><strong>Railport</strong>, <strong>duisport</strong> ile Türkiye merkezli <strong>Arkas</strong> grubunun ortak girişimi olarak hayata geçirildi. Bu iş birliği, <strong>Duisburger Hafen AG</strong> tarihindeki <strong>en büyük yabancı yatırım</strong> niteliğini taşımakta. Ortaklık modelinde Arkas, yerel pazar bilgisi, operasyonel deneyim ve Türkiye içi ağını ortaya koyarken; duisport ise Avrupa ve küresel ölçekte kurulu <strong>intermodal network</strong>, terminal işletmeciliği ve uluslararası bağlantı gücünü projeye entegre etmekte.</p>
+<p style="text-align: justify"><strong>Railport</strong>, <strong>duisport</strong> ile Türkiye merkezli <strong>Arkas</strong> grubunun ortak girişimi olarak hayata geçirildi. Bu iş birliği, <strong>Duisburger Hafen AG</strong> tarihindeki <strong>en büyük yabancı yatırım</strong> niteliğini taşıyor. Ortaklık modelinde Arkas, yerel pazar bilgisi, operasyonel deneyim ve Türkiye içi ağını ortaya koyarken; duisport ise Avrupa ve küresel ölçekte kurulu <strong>intermodal network</strong>, terminal işletmeciliği ve uluslararası bağlantı gücünü projeye entegre ediyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Stratejik Konum: Marmara’nın Lojistik Kalbi</strong></h3>
-<p style="text-align: justify">Railport’un Kartepe’de konumlanması, tesisi <strong>Marmara Bölgesi’nin sanayi merkezleri</strong>, limanları ve kara-demiryolu ağlarıyla doğrudan bağlantılı hâle getirmekte. Bölge; otomotiv, kimya, makine ve tüketim malları üretimi açısından Türkiye’nin en yoğun sanayi kümelenmelerine ev sahipliği yapmakta. Railport, bu üretim merkezlerini <strong>Avrupa, Orta Asya ve Uzak Doğu</strong> ticaret hatlarına bağlayan kritik bir düğüm noktası olarak tasarlanmış durumda.</p>
+<p style="text-align: justify">Railport’un Kartepe’de konumlanması, tesisi <strong>Marmara Bölgesi’nin sanayi merkezleri</strong>, limanları ve kara-demiryolu ağlarıyla doğrudan bağlantılı hâle getiriyor. Bölge; otomotiv, kimya, makine ve tüketim malları üretimi açısından Türkiye’nin en yoğun sanayi kümelenmelerine ev sahipliği yapıyor. Railport, bu üretim merkezlerini <strong>Avrupa, Orta Asya ve Uzak Doğu</strong> ticaret hatlarına bağlayan kritik bir düğüm noktası olarak tasarlanmış durumda.</p>
 <p><br></p>
-<p style="text-align: justify">Terminalin <strong>Marmaray Tunnel</strong>’a olan yakınlığı, Avrupa ile Asya arasında <strong>kesintisiz yük geçişini</strong> mümkün kılmakta. Bu altyapı sayesinde trenler, Boğaz geçişinde ek aktarma ihtiyacı olmadan kıtalar arası taşımacılık yapabilmekte. Bu özellik, Railport’u yalnızca bir terminal değil, <strong>kıtalar arası bir lojistik köprü</strong> hâline getirmekte.</p>
+<p style="text-align: justify">Terminalin <strong>Marmaray Tunnel</strong>’a olan yakınlığı, Avrupa ile Asya arasında <strong>kesintisiz yük geçişini</strong> mümkün kılıyor. Bu altyapı sayesinde trenler, Boğaz geçişinde ek aktarma ihtiyacı olmadan kıtalar arası taşımacılık yapabiliyor. Bu özellik, Railport’u yalnızca bir terminal değil, <strong>kıtalar arası bir lojistik köprü</strong> hâline getiriyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Orta Koridor ve BTK Bağlantıları</strong></h3>
 <p style="text-align: justify">Railport’un en kritik avantajlarından biri, <strong>BTK line (Baku–Tbilisi–Akhalkalaki)</strong> ve <strong>Middle Corridor</strong> ile olan entegrasyonu. Bu bağlantılar sayesinde terminal;</p>
@@ -37,12 +37,12 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Southeast Asia</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Europe</strong></p></li>
 </ul>
-<p style="text-align: justify">arasındaki demiryolu taşımacılığına doğrudan erişim sağlamakta. Son yıllarda artan <strong>nearshoring</strong>, <strong>friendshoring</strong> ve <strong>network diversification</strong> eğilimleri düşünüldüğünde, Türkiye’nin bu koridorlar üzerindeki rolü giderek güçlenmekte. Railport, bu dönüşümün fiziksel altyapısını temsil eden somut projelerden biri olarak öne çıkıyor.</p>
+<p style="text-align: justify">arasındaki demiryolu taşımacılığına doğrudan erişim sağlıyor. Son yıllarda artan <strong>nearshoring</strong>, <strong>friendshoring</strong> ve <strong>network diversification</strong> eğilimleri düşünüldüğünde, Türkiye’nin bu koridorlar üzerindeki rolü giderek güçleniyor. Railport, bu dönüşümün fiziksel altyapısını temsil eden somut projelerden biri olarak öne çıkıyor.</p>
 <p style="text-align: justify"><br></p>
 <p><strong>Duisport CEO’su Markus Bangen</strong>, Railport’un açılışıyla ilgili yaptığı açıklamada Türkiye’nin stratejik önemini şu sözlerle vurguladı:<br>
  <strong>“The Republic of Türkiye is a key hub for supply chains between Europe and Asia. Railport establishes a strategic bridgehead for international trade, strengthening global network stability.”</strong></p>
 <p><br>
-Bangen’e göre tesis, hem Alman sanayisinin hem de Türk pazarının tedarik zinciri dayanıklılığını artırmakta.</p>
+Bangen’e göre tesis, hem Alman sanayisinin hem de Türk pazarının tedarik zinciri dayanıklılığını artırıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Operasyonel Kapasite ve Hizmetler</strong></h3>
 <p style="text-align: justify">Railport, <strong>265.000 m²</strong>’lik bir alan üzerinde geliştirilmiş durumda. Terminalin yıllık <strong>125.000 trailer</strong> elleçleme kapasitesine sahip olduğu bildiriliyor. Tesis bünyesinde:</p>
@@ -51,19 +51,19 @@ Bangen’e göre tesis, hem Alman sanayisinin hem de Türk pazarının tedarik z
   <li style="text-align: justify"><p style="text-align: justify"><strong>storage</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>CFS (Container Freight Station)</strong> hizmetleri</p></li>
 </ul>
-<p style="text-align: justify">sunulmakta. Bu yapı, yüklerin hızlı, <strong>cost-efficient</strong> ve entegre biçimde işlenmesine imkân tanımakta. İntermodal yapı sayesinde müşteriler, <strong>rail + road</strong> kombinasyonunu esnek şekilde kullanabilmekte.</p>
+<p style="text-align: justify">sunuluyor. Bu yapı, yüklerin hızlı, <strong>cost-efficient</strong> ve entegre biçimde işlenmesine imkân tanıyor. İntermodal yapı sayesinde müşteriler, <strong>rail + road</strong> kombinasyonunu esnek şekilde kullanabiliyor.</p>
 <p><br></p>
 <p style="text-align: justify">Arkas Port and Terminal Services Başkanı <strong>Özgür Kalelioğlu</strong>, projenin önemini şu şekilde özetledi:<br>
  <strong>“Railport pioneers intermodal operations along the East–West corridor, connecting Türkiye’s industrial heart to global trade routes.”</strong><br>
 Kalelioğlu, Arkas’ın <strong>100 yılı aşan lojistik mirasının</strong>, Railport’un operasyonel başarısında belirleyici olacağını ifade etti.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Türkiye İçin Daha Geniş Anlamı</strong></h3>
-<p style="text-align: justify">Railport’un devreye alınması, Türkiye’nin lojistik stratejisinde <strong>modal shift</strong> ve <strong>demiryolu payının artırılması</strong> hedefleriyle örtüşmekte. Karayoluna aşırı bağımlı taşımacılık yapısının dengelenmesi, hem maliyet hem karbon ayak izi açısından kritik görülmekte. İntermodal terminaller, bu dönüşümün anahtar bileşenleri arasında yer almakta.</p>
+<p style="text-align: justify">Railport’un devreye alınması, Türkiye’nin lojistik stratejisinde <strong>modal shift</strong> ve <strong>demiryolu payının artırılması</strong> hedefleriyle örtüşüyor. Karayoluna aşırı bağımlı taşımacılık yapısının dengelenmesi, hem maliyet hem karbon ayak izi açısından kritik görülüyor. İntermodal terminaller, bu dönüşümün anahtar bileşenleri arasında yer alıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Ayrıca proje, Türkiye’nin <strong>Avrupa–Asya transit ülkesi</strong> rolünü yalnızca coğrafi değil, operasyonel ve altyapısal olarak da güçlendirmekte. Railport, ilerleyen dönemde benzer intermodal yatırımlar için <strong>referans bir model</strong> oluşturabilir.</p>
+<p style="text-align: justify">Ayrıca proje, Türkiye’nin <strong>Avrupa–Asya transit ülkesi</strong> rolünü yalnızca coğrafi değil, operasyonel ve altyapısal olarak da güçlendiriyor. Railport, ilerleyen dönemde benzer intermodal yatırımlar için <strong>referans bir model</strong> oluşturabilir.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Genel Değerlendirme</strong></h3>
-<p style="text-align: justify">Railport, Türkiye lojistik sektöründe <strong>yeni bir fazın</strong> başlangıcını temsil etmekte. duisport’un küresel ağı ile Arkas’ın yerel gücünün birleşimi, Türkiye’yi Orta Koridor üzerinde daha rekabetçi ve dayanıklı bir aktör hâline getirmekte. Terminalin tam kapasiteye ulaşmasıyla birlikte, Türkiye’nin bölgesel ve küresel tedarik zincirlerindeki konumu daha da pekişebilir.</p>
+<p style="text-align: justify">Railport, Türkiye lojistik sektöründe <strong>yeni bir fazın</strong> başlangıcını temsil ediyor. duisport’un küresel ağı ile Arkas’ın yerel gücünün birleşimi, Türkiye’yi Orta Koridor üzerinde daha rekabetçi ve dayanıklı bir aktör hâline getiriyor. Terminalin tam kapasiteye ulaşmasıyla birlikte, Türkiye’nin bölgesel ve küresel tedarik zincirlerindeki konumu daha da pekişebilir.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar:</strong></h3>
 <ul>
@@ -72,7 +72,7 @@ Kalelioğlu, Arkas’ın <strong>100 yılı aşan lojistik mirasının</strong>,
   <li style="text-align: justify"><p style="text-align: justify">Ortaklar: <strong>duisport</strong> ve <strong>Arkas</strong>; duisport tarihindeki en büyük yabancı yatırım.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Alan: <strong>265.000 m²</strong>; kapasite: <strong>125.000 trailer/yıl</strong>.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Marmaray</strong>, <strong>BTK hattı</strong> ve <strong>Middle Corridor</strong> bağlantıları bulunuyor.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Terminal; rail, road, customs, storage ve <strong>CFS</strong> hizmetlerini entegre sunmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Terminal; rail, road, customs, storage ve <strong>CFS</strong> hizmetlerini entegre sunuyor.</p></li>
 </ul>
 <p>----------</p>
 <p><strong>Haber Linki: </strong><a href="https://www.porttechnology.org/news/turkiye-launches-first-intermodal-terminal-railport/"><u>https://www.porttechnology.org/news/turkiye-launches-first-intermodal-terminal-railport/</u></a></p>

@@ -26,7 +26,7 @@ tags:
 <p>CEO Guillaume Faury, Bloomberg TV'ye verdiği röportajda, "Yılın oldukça zorlu bir sonu bizi bekliyor" dedi. Bu açıklamanın ardından, Airbus'ın ABD'de işlem gören hisseleri 30 Ekim'de %3,5 oranında yükseldi.</p>
 <p>Üçüncü çeyrek finansal sonuçlarını açıklayan Airbus, faiz ve vergi öncesi düzeltilmiş kazancının €1,41 milyar olduğunu duyurdu. Bu rakam, Bloomberg tarafından derlenen analist tahminlerinin ortalaması olan €1,21 milyarı aştı. Gelirler ise %5,4 artarak €15,7 milyara ulaştı.</p>
 <p><br></p>
-<p>Havayollarının daha yakıt verimli jetlerle filolarını yenileme çabaları, Airbus'ın talebe yetişmekte zorlanmasına neden oluyor. Tedarikçilerinin pandeminin ardından üretimi artırmakta yaşadığı zorluklar, şirketin aylık 75 adet A320 uçağı üretme hedefini 2027'ye ertelemesine yol açtı.</p>
+<p>Havayollarının daha yakıt verimli jetlerle filolarını yenileme çabaları, Airbus'ın talebe yetişmekte zorlanmasına neden oluyor. Tedarikçilerinin pandeminin ardından üretimi artırıyor yaşadığı zorluklar, şirketin aylık 75 adet A320 uçağı üretme hedefini 2027'ye ertelemesine yol açtı.</p>
 <p><br></p>
 <p>Faury, Scherer'in değiştirilme kararının halefiyet planlamasından kaynaklandığını ve üretimi artırma mücadelesinin bir etkisi olmadığını belirtti. "Bu, Christian'ın işini yapmadığına dair herhangi bir göstergeyi kesinlikle yansıtmıyor" dedi.</p>
 <p><br></p>

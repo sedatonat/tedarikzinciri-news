@@ -34,7 +34,7 @@ tags:
 <p>Yüksek yük talepleri ve tedarik zinciri kırılganlıkları, iç su yolu ve baraj taşımacılığına doğru bir kayışı beraberinde getiriyor. Maliyet etkinliği, emisyon azaltımı ve büyük hacimli yük taşımadaki yetenek, iç su yolu taşımacılığını cazip kılıyor. Özellikle tahıl, kömür, petrol ve kimyasal gibi toplu mallar için ton başına maliyetin düşük olması ve karayolu trafiği sorunlarının olmaması, baraj taşımacılığının 2025 ve sonrasında da güçlenmesini beklenen bir trend haline getiriyor.</p>
 <p><br></p>
 <p><strong>5. Su Yolu Sağlığı ve Sığlaştırma Girişimlerine Odaklanma</strong></p>
-<p>Su yollarının geçiş derinliklerinde kalmasını sağlayan sığlaştırma operasyonları, deniz taşımacılığı tedarik zincirinde kesintilere yol açabilecek su seviyelerindeki tutarsızlıkları önlemekte kritik bir rol oynuyor. Su yolu bakımına yönelik federal destek artarken, su kalitesinin iyileştirilmesi ve ekosistem restorasyonu çabaları, bu hayati altyapının uzun vadeli sağlığını korumaya yönelik kararlılığı yansıtıyor.</p>
+<p>Su yollarının geçiş derinliklerinde kalmasını sağlayan sığlaştırma operasyonları, deniz taşımacılığı tedarik zincirinde kesintilere yol açabilecek su seviyelerindeki tutarsızlıkları önlüyor kritik bir rol oynuyor. Su yolu bakımına yönelik federal destek artarken, su kalitesinin iyileştirilmesi ve ekosistem restorasyonu çabaları, bu hayati altyapının uzun vadeli sağlığını korumaya yönelik kararlılığı yansıtıyor.</p>
 <p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>

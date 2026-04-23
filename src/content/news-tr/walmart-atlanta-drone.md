@@ -19,7 +19,7 @@ tags:
 - perakende lojistiği
 - last-mile delivery
 ---
-<p style="text-align: justify">ABD perakende devi <strong>Walmart</strong>, <strong>last-mile delivery</strong> stratejisinde önemli bir eşiği daha aşarak <strong>Atlanta metro bölgesinde drone teslimat hizmetini</strong> resmen devreye aldı. Şirket, drone operatörü <strong>Wing</strong> ile iş birliği kapsamında Atlanta’daki <strong>altı mağazadan</strong> müşterilere hava yoluyla teslimat yapmaya başladı. Hizmetin, Walmart’ın 2026 ortasına kadar <strong>beş büyük ABD şehrine</strong> yaymayı planladığı drone teslimat ağının ilk büyük metropol adımı olduğu belirtilmekte.</p>
+<p style="text-align: justify">ABD perakende devi <strong>Walmart</strong>, <strong>last-mile delivery</strong> stratejisinde önemli bir eşiği daha aşarak <strong>Atlanta metro bölgesinde drone teslimat hizmetini</strong> resmen devreye aldı. Şirket, drone operatörü <strong>Wing</strong> ile iş birliği kapsamında Atlanta’daki <strong>altı mağazadan</strong> müşterilere hava yoluyla teslimat yapmaya başladı. Hizmetin, Walmart’ın 2026 ortasına kadar <strong>beş büyük ABD şehrine</strong> yaymayı planladığı drone teslimat ağının ilk büyük metropol adımı olduğu belirtiliyor.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Wing</strong> tarafından yapılan açıklamaya göre Atlanta’daki drone teslimatları <strong>3 Aralık</strong> itibarıyla başladı. Hizmet kapsamında;</p>
 <ul>
@@ -28,7 +28,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">oyuncaklar,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">reçetesiz ilaçlar (<strong>over-the-counter medicine</strong>)</p></li>
 </ul>
-<p style="text-align: justify">gibi hızlı erişim gerektiren ürünler taşınmakta. Ortalama <strong>uçuş süresi beş dakikanın altında</strong>, bu da hizmeti geleneksel araçlı teslimata kıyasla ciddi bir hız avantajına taşımakta.</p>
+<p style="text-align: justify">gibi hızlı erişim gerektiren ürünler taşınıyor. Ortalama <strong>uçuş süresi beş dakikanın altında</strong>, bu da hizmeti geleneksel araçlı teslimata kıyasla ciddi bir hız avantajına taşıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Neden Atlanta?</strong></h3>
 <p style="text-align: justify">Walmart, drone teslimatlarının bir sonraki genişleme noktası olarak Atlanta’yı seçerken iki ana kriteri dikkate aldı:</p>
@@ -41,7 +41,7 @@ tags:
 <p style="text-align: justify">Wing Chief Business Officer <strong>Heather Rivera</strong>, Atlanta lansmanını şu sözlerle değerlendirdi:<br>
  <strong>“This launch is a critical next step in our significant expansion, turning drone delivery from novelty to norm.”</strong></p>
 <p><br>
-Rivera’ya göre amaç, drone teslimatını sınırlı bir teknoloji gösterisi olmaktan çıkarıp <strong>günlük alışveriş davranışının</strong> parçası hâline getirmek.</p>
+Rivera’ya göre amaç, drone teslimatını sınırlı bir teknoloji gösterisi oluyorn çıkarıp <strong>günlük alışveriş davranışının</strong> parçası hâline getirmek.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Walmart–Wing Ortaklığının Evrimi</strong></h3>
 <p style="text-align: justify">Walmart ve Wing, drone teslimatlarını ilk kez <strong>2023 sonunda Dallas–Fort Worth</strong> bölgesinde denemişti. Bu pilot uygulama, teslimat sürelerinin kısaltılması ve müşteri memnuniyeti açısından olumlu sonuçlar verdi. Ardından hizmet:</p>
@@ -54,16 +54,16 @@ Rivera’ya göre amaç, drone teslimatını sınırlı bir teknoloji gösterisi
 </ul>
 <p style="text-align: justify">gibi eyaletlere genişletildi. Ancak Walmart, <strong>2024’te</strong> Utah, Arizona ve Florida’daki programlarını sonlandırarak daha sınırlı sayıda pazarda odaklanma kararı aldı. Şirket bu kararı, <strong>maliyet yönetimi</strong>, <strong>operasyonel verimlilik</strong> ve <strong>servis kalitesini artırma</strong> hedefleriyle açıkladı.</p>
 <p><br></p>
-<p style="text-align: justify">Atlanta lansmanı, Walmart’ın bu “odaklan–iyileştir–yeniden ölçekle” stratejisinin bir sonucu olarak görülmekte. Şirket, daha önce dağınık şekilde yürütülen denemeler yerine, talebin yoğun olduğu büyük şehirlerde drone teslimatını ekonomik olarak sürdürülebilir hâle getirmeyi amaçlamakta.</p>
+<p style="text-align: justify">Atlanta lansmanı, Walmart’ın bu “odaklan–iyileştir–yeniden ölçekle” stratejisinin bir sonucu olarak görülüyor. Şirket, daha önce dağınık şekilde yürütülen denemeler yerine, talebin yoğun olduğu büyük şehirlerde drone teslimatını ekonomik olarak sürdürülebilir hâle getirmeyi amaçlıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Perakende Lojistiği Açısından Önemi</strong></h3>
-<p style="text-align: justify">Drone teslimatları, perakende sektöründe özellikle <strong>son kilometre maliyetleri</strong>, <strong>trafik sıkışıklığı</strong>, <strong>iş gücü kısıtları</strong> ve <strong>hız beklentisi</strong> gibi kronik sorunlara çözüm potansiyeli sunmakta. Atlanta gibi yoğun trafikli metropollerde, kısa mesafeli ve hafif yüklerin drone ile taşınması:</p>
+<p style="text-align: justify">Drone teslimatları, perakende sektöründe özellikle <strong>son kilometre maliyetleri</strong>, <strong>trafik sıkışıklığı</strong>, <strong>iş gücü kısıtları</strong> ve <strong>hız beklentisi</strong> gibi kronik sorunlara çözüm potansiyeli sunuyor. Atlanta gibi yoğun trafikli metropollerde, kısa mesafeli ve hafif yüklerin drone ile taşınması:</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">araçlı teslimat ihtiyacını azaltmakta,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">karbon emisyonlarını düşürmekte,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">teslimat sürelerini dakikalar seviyesine indirmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">araçlı teslimat ihtiyacını azaltıyor,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">karbon emisyonlarını düşürüyor,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">teslimat sürelerini dakikalar seviyesine indiriyor.</p></li>
 </ul>
-<p style="text-align: justify">Bununla birlikte drone operasyonlarının hâlen <strong>regülasyon</strong>, <strong>hava sahası yönetimi</strong>, <strong>gürültü</strong>, <strong>hava koşulları</strong> ve <strong>ölçeklenebilirlik</strong> gibi sınırlamaları bulunmakta. Walmart’ın önce belirli sayıda mağaza ve ürün kategorisiyle ilerlemesi, bu riskleri kontrollü biçimde yönetme yaklaşımını yansıtıyor.</p>
+<p style="text-align: justify">Bununla birlikte drone operasyonlarının hâlen <strong>regülasyon</strong>, <strong>hava sahası yönetimi</strong>, <strong>gürültü</strong>, <strong>hava koşulları</strong> ve <strong>ölçeklenebilirlik</strong> gibi sınırlamaları bulunuyor. Walmart’ın önce belirli sayıda mağaza ve ürün kategorisiyle ilerlemesi, bu riskleri kontrollü biçimde yönetme yaklaşımını yansıtıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>2026’ya Doğru Beklentiler</strong></h3>
 <p style="text-align: justify">Walmart, Atlanta deneyimini referans alarak drone teslimat ağını <strong>2026 ortasına kadar</strong> beş büyük şehirde kalıcı hâle getirmeyi hedefliyor. Eğer operasyonel maliyetler kontrol altında tutulur ve müşteri benimsemesi artarsa, drone teslimatları Walmart’ın <strong>omnichannel retail</strong> stratejisinde kalıcı bir unsur hâline gelebilir.</p>

@@ -19,9 +19,9 @@ tags:
 - ticaret savaşı
 - enflasyon
 ---
-<p>Beyaz Saray'ın Çin mallarına getirdiği yeni tarifeler, Amerika'nın imalat sektörünü koruyarak rekabet avantajı sağlamayı amaçlasa da, son tüketici üzerinde fiyat artışlarına neden olarak eleştirilere maruz kaldı. ABD Gümrük ve Sınır Koruma tarafından toplanan bu tarifeler, Amerikan ithalatçıları veya brokerları tarafından genellikle daha yüksek fiyatlarla tüketiciye ve üreticilere yansıtılmakta.&nbsp;</p>
+<p>Beyaz Saray'ın Çin mallarına getirdiği yeni tarifeler, Amerika'nın imalat sektörünü koruyarak rekabet avantajı sağlamayı amaçlasa da, son tüketici üzerinde fiyat artışlarına neden olarak eleştirilere maruz kaldı. ABD Gümrük ve Sınır Koruma tarafından toplanan bu tarifeler, Amerikan ithalatçıları veya brokerları tarafından genellikle daha yüksek fiyatlarla tüketiciye ve üreticilere yansıtılıyor.&nbsp;</p>
 <p><br></p>
-<p>Uygulanan ürünler arasında bataryalar, elektrikli araçlar, yarı iletkenler, kıyıdan kıyıya vinçler, güneş panelleri ve çelik ile alüminyum ürünleri bulunmakta. U.S. Ticaret Temsilcisi Katherine Tai, politikanın Çin'in “haksız ticaret uygulamalarını” engellemeyi hedeflediğini açıkladı.</p>
+<p>Uygulanan ürünler arasında bataryalar, elektrikli araçlar, yarı iletkenler, kıyıdan kıyıya vinçler, güneş panelleri ve çelik ile alüminyum ürünleri bulunuyor. U.S. Ticaret Temsilcisi Katherine Tai, politikanın Çin'in “haksız ticaret uygulamalarını” engellemeyi hedeflediğini açıkladı.</p>
 <p><br></p>
 <p>Ancak, Amerikan Giyim ve Ayakkabı Derneği gibi ticaret grupları, bu hamlenin üreticiler ve tüketiciler üzerinde maliyet artışlarına yol açarak enflasyonu körükleyeceğini belirtti. Tarifelerin Amerikan ekonomisine olan etkileri sadece tüketici fiyatlarındaki artışlarla sınırlı kalmayıp, tedarik zincirlerindeki direnci ve esnekliği de olumsuz etkileyebileceği ifade ediliyor. Özellikle %100 oranında artırılan elektrikli araç tarifelerinin, ABD'nin sera gazı emisyonlarını azaltma çabalarına zarar verebileceği, bu durumun aynı zamanda yerli EV endüstrisine yatırım yapılmasını teşvik edebileceği vurgulanıyor.</p>
 <p><br></p>

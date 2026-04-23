@@ -25,7 +25,7 @@ tags:
 <h5 style="text-align: justify"><strong>Tören ve isimlendirme</strong></h5>
 <p style="text-align: justify"><strong>Yangzijiang Shipbuilding Group’un Jiangsu, Çin’deki tersanesinde</strong> düzenlenen törende gemiye, <strong>PIL Yönetim Kurulu Üyesi Yap Chee Keong’un eşi Annie Yap</strong> tarafından isim verildi.</p>
 <p><br></p>
-<p style="text-align: justify">Kota Orkid, PIL’in daha önce hizmete aldığı üç “O” sınıfı kardeş gemi — <strong>Kota Oasis, Kota Ocean ve Kota Odyssey</strong> — ile birlikte <strong>South West Africa Service (SWS)</strong> hattında görev yapacak. Bu hat, <strong>Asya ile Batı Afrika arasındaki deniz ticareti bağlantısını güçlendirmekte</strong> ve PIL’in <strong>yük kapasitesini ve hizmet esnekliğini artırmakta.</strong></p>
+<p style="text-align: justify">Kota Orkid, PIL’in daha önce hizmete aldığı üç “O” sınıfı kardeş gemi — <strong>Kota Oasis, Kota Ocean ve Kota Odyssey</strong> — ile birlikte <strong>South West Africa Service (SWS)</strong> hattında görev yapacak. Bu hat, <strong>Asya ile Batı Afrika arasındaki deniz ticareti bağlantısını güçlendiriyor</strong> ve PIL’in <strong>yük kapasitesini ve hizmet esnekliğini artırıyor.</strong></p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Filo yenileme stratejisinde önemli adım</strong></h5>
 <p style="text-align: justify">Kota Orkid, PIL’in bugüne kadar teslim aldığı <strong>sekizinci LNG yakıtlı gemi</strong> oldu. Şirket, 2024’ten bu yana dört adet 14.000 TEU’luk LNG çift yakıtlı gemi ve dört adet 8.200 TEU’luk “O” sınıfı gemiyi filosuna ekledi.</p>
@@ -37,7 +37,7 @@ tags:
 </ul>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Çevre dostu teknolojiler</strong></h5>
-<p style="text-align: justify">Kota Orkid ve kardeş gemileri, <strong>yeni nesil düşük metan emisyonlu motorlar</strong> ve <strong>biyometan yakıt uyumlu sistemlerle</strong> donatıldı. Bu motorlar, <strong>yakıt verimliliğini artırırken çevresel etkiyi minimize etmekte.</strong></p>
+<p style="text-align: justify">Kota Orkid ve kardeş gemileri, <strong>yeni nesil düşük metan emisyonlu motorlar</strong> ve <strong>biyometan yakıt uyumlu sistemlerle</strong> donatıldı. Bu motorlar, <strong>yakıt verimliliğini artırırken çevresel etkiyi minimize ediyor.</strong></p>
 <p style="text-align: justify">Ayrıca gemiler:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Hidrodinamik gövde tasarımları</strong>,</p></li>

@@ -31,11 +31,11 @@ tags:
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
-  <li><p>Continuous monitoring TPRM’i güçlendirmektedir.</p></li>
-  <li><p>Framework mapping karar hızını artırmaktadır.</p></li>
-  <li><p>Auto-scoring ve ısı haritaları odak sağlamaktadır.</p></li>
-  <li><p>Düzeltici eylem akışları standartlaşmaktadır.</p></li>
-  <li><p>Asgari yetki ilkesi veri paylaşımını güvenli kılmaktadır.</p></li>
+  <li><p>Continuous monitoring TPRM’i güçlendiriyordir.</p></li>
+  <li><p>Framework mapping karar hızını artırıyordır.</p></li>
+  <li><p>Auto-scoring ve ısı haritaları odak sağlıyordır.</p></li>
+  <li><p>Düzeltici eylem akışları standartlaşıyordır.</p></li>
+  <li><p>Asgari yetki ilkesi veri paylaşımını güvenli kılıyordır.</p></li>
 </ul>
 <p>--------</p>
 <p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42439-isn-launches-enhanced-ability-to-manage-third-party-cybersecurity-oversight"><u>https://www.supplychainbrain.com/articles/42439-isn-launches-enhanced-ability-to-manage-third-party-cybersecurity-oversight</u></a></p>

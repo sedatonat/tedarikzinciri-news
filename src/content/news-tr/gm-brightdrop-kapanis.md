@@ -29,10 +29,10 @@ tags:
 <h5 style="text-align: justify"><strong>Elektrikli Van Pazarı Beklentileri Karşılamadı</strong></h5>
 <p style="text-align: justify"><strong>GM CEO’su Mary Barra</strong>, 21 Ekim tarihli üçüncü çeyrek yatırımcı toplantısında yaptığı açıklamada, <strong>ticari elektrikli van pazarının beklenenden çok daha yavaş büyüdüğünü</strong> belirtti:</p>
 <blockquote style="text-align: justify">“Ticari elektrikli van pazarı beklediğimiz hızda gelişmedi. Regülasyon değişiklikleri ve filo teşviklerindeki belirsizlik, bu işi daha da zorlaştırdı.”</blockquote>
-<p style="text-align: justify">Bu gelişme, sadece GM için değil, genel olarak <strong>lojistik ve tedarik zinciri sektöründeki elektrikli araç dönüşümü</strong> için de bir gerileme olarak görülmekte. Birçok filo yöneticisi, <strong>devlet teşviklerinin azalması</strong>, <strong>batarya maliyetlerinin yüksekliği</strong> ve <strong>altyapı yetersizlikleri</strong> nedeniyle büyük ölçekli EV yatırımlarını ertelemekte.</p>
+<p style="text-align: justify">Bu gelişme, sadece GM için değil, genel olarak <strong>lojistik ve tedarik zinciri sektöründeki elektrikli araç dönüşümü</strong> için de bir gerileme olarak görülüyor. Birçok filo yöneticisi, <strong>devlet teşviklerinin azalması</strong>, <strong>batarya maliyetlerinin yüksekliği</strong> ve <strong>altyapı yetersizlikleri</strong> nedeniyle büyük ölçekli EV yatırımlarını ertelemekte.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>İstihdam ve Tedarik Zinciri Etkisi</strong></h5>
-<p style="text-align: justify">BrightDrop’un kapanışı, <strong>Ontario’daki yaklaşık 1.050 çalışanı</strong> doğrudan etkiliyor. Bahar aylarında tam kapasiteyle çalışan fabrikanın <strong>yarısından azının sonbaharda işine dönebilmesi</strong> bekleniyor. GM, <strong>bölgesel ve federal yönetimlerle</strong> iş birliği içinde tesisin geleceği için <strong>alternatif kullanım planları</strong> araştırmakta.</p>
+<p style="text-align: justify">BrightDrop’un kapanışı, <strong>Ontario’daki yaklaşık 1.050 çalışanı</strong> doğrudan etkiliyor. Bahar aylarında tam kapasiteyle çalışan fabrikanın <strong>yarısından azının sonbaharda işine dönebilmesi</strong> bekleniyor. GM, <strong>bölgesel ve federal yönetimlerle</strong> iş birliği içinde tesisin geleceği için <strong>alternatif kullanım planları</strong> araştırıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Yerel yönetimler, tesisin yeniden <strong>EV parça üretimi</strong>, <strong>batarya montajı</strong> veya <strong>yeniden yapılandırılmış ticari araç üretimi</strong> gibi amaçlarla değerlendirilebileceğini belirtiyor.</p>
 <p><br></p>
@@ -46,9 +46,9 @@ tags:
 <h5 style="text-align: justify"><strong>Sektör İçin Uyarı Niteliğinde Bir Gelişme</strong></h5>
 <p style="text-align: justify">BrightDrop’un kapanışı, <strong>elektrikli son kilometre teslimat pazarının</strong> henüz olgunlaşmadığının somut bir göstergesi. <strong>Batarya fiyatlarındaki artış</strong>, <strong>şarj altyapısındaki eksiklikler</strong> ve <strong>talep tahminlerindeki sapmalar</strong>, birçok otomotiv üreticisini EV stratejilerini yeniden gözden geçirmeye yöneltti.</p>
 <p><br></p>
-<p style="text-align: justify">GM’in bu kararı, <strong>elektrikli teslimat filosu yatırımı yapan lojistik şirketleri</strong> açısından da <strong>belirsizlik yaratmakta</strong>. Özellikle <strong>FedEx ve Walmart</strong> gibi büyük müşterilerin, filolarındaki EV yatırımlarını yeniden planlaması bekleniyor.</p>
+<p style="text-align: justify">GM’in bu kararı, <strong>elektrikli teslimat filosu yatırımı yapan lojistik şirketleri</strong> açısından da <strong>belirsizlik yaratıyor</strong>. Özellikle <strong>FedEx ve Walmart</strong> gibi büyük müşterilerin, filolarındaki EV yatırımlarını yeniden planlaması bekleniyor.</p>
 <p><br></p>
-<p style="text-align: justify">Yine de GM, <strong>EV pazarına olan uzun vadeli bağlılığını</strong> korumakta. Şirket, BrightDrop deneyiminden elde ettiği verileri gelecekteki elektrikli araç platformlarına entegre etmeyi planlamakta.</p>
+<p style="text-align: justify">Yine de GM, <strong>EV pazarına olan uzun vadeli bağlılığını</strong> koruyor. Şirket, BrightDrop deneyiminden elde ettiği verileri gelecekteki elektrikli araç platformlarına entegre etmeyi planlıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Sonuç olarak, BrightDrop’un kapanışı <strong>elektrikli mobilite dönüşümünde geçici bir fren etkisi</strong> yaratırken, aynı zamanda <strong>otomotiv sektörüne daha temkinli ve maliyet odaklı bir dönüşüm sürecinin başladığını</strong> gösteriyor.</p>
 <p><br></p>
@@ -60,7 +60,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>CEO Mary Barra</strong>, pazarın yavaş geliştiğini ve teşviklerin azaldığını vurguladı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>CFO Paul Jacobson</strong>, önceliğin <strong>maliyet düşürme ve yapısal iyileştirme</strong> olduğunu belirtti.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Karar, <strong>EV pazarında beklenenden yavaş ilerleyişin</strong> sembolü olarak değerlendiriliyor.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">GM, uzun vadede <strong>EV kârlılığını artıracak yeni stratejilere</strong> odaklanmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">GM, uzun vadede <strong>EV kârlılığını artıracak yeni stratejilere</strong> odaklanıyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

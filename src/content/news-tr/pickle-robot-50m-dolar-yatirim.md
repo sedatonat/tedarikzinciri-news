@@ -28,7 +28,7 @@ tags:
 <p><br></p>
 <p>2023 yılından bu yana Pickle robotları, dağıtım merkezlerinde çalışarak 10 milyon poundun üzerinde mal boşalttı. Robotlar, depo ekipleriyle birlikte çalışarak personelin verimliliğini ve güvenliğini artırıyor. Pickle’ın uzun vadeli hedefi, önümüzdeki on yıl içinde 1 milyon depo kapısında süreçleri otomatikleştirmek.</p>
 <p><br></p>
-<p>Ayrıca, paket yük taşımacılığına genişleme planlarıyla Pickle Robot, AI destekli tedarik zinciri çözümlerinde lider konumunu pekiştiriyor. Ranpak CEO'su ve Pickle yönetim kurulu üyesi Omar Asali, “Pickle, yenilik, geliştirme, ticari çekiş ve müşteri memnuniyetinde ivme kazanmaktadır. Dünya çapındaki müşterilerin onlarla çalışmak istemesi ve yatırımcıların onların yol haritasından heyecan duyması, Pickle ekibinin gücünün bir göstergesidir,” diye ekledi.</p>
+<p>Ayrıca, paket yük taşımacılığına genişleme planlarıyla Pickle Robot, AI destekli tedarik zinciri çözümlerinde lider konumunu pekiştiriyor. Ranpak CEO'su ve Pickle yönetim kurulu üyesi Omar Asali, “Pickle, yenilik, geliştirme, ticari çekiş ve müşteri memnuniyetinde ivme kazanıyordır. Dünya çapındaki müşterilerin onlarla çalışmak istemesi ve yatırımcıların onların yol haritasından heyecan duyması, Pickle ekibinin gücünün bir göstergesidir,” diye ekledi.</p>
 <p><br></p>
 <p>Pickle Robot’un teknolojisi, lojistik sektöründe verimliliği artırmak ve operasyonel maliyetleri düşürmek için büyük potansiyel taşıyor. Şirket, AI ve robotik alanındaki uzmanlığını kullanarak, kamyon boşaltma süreçlerini daha hızlı, güvenli ve ekonomik hale getirmeyi hedefliyor. Yatırımın, Pickle’ın Ar-Ge faaliyetlerini hızlandırması ve global pazarlara açılmasını sağlaması bekleniyor.</p>
 <p><br></p>

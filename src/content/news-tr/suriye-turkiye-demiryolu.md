@@ -20,23 +20,23 @@ tags:
 - yük taşımacılığı
 - diplomatik ilişkiler
 ---
-<p>Suriye'de <strong>Beşar Esad</strong>'ın iktidardan hızla düşmesiyle birlikte, ülke için yeni fırsatlar ortaya çıkmaktadır. Kuzey komşusu Türkiye, bu siyasi değişimi memnuniyetle karşılayarak, diplomatik ilişkilerin yeniden tesis edilmesiyle birlikte yeni demiryolu taşımacılığı planları sunmaktadır.</p>
+<p>Suriye'de <strong>Beşar Esad</strong>'ın iktidardan hızla düşmesiyle birlikte, ülke için yeni fırsatlar ortaya çıkıyordır. Kuzey komşusu Türkiye, bu siyasi değişimi memnuniyetle karşılayarak, diplomatik ilişkilerin yeniden tesis edilmesiyle birlikte yeni demiryolu taşımacılığı planları sunuyordır.</p>
 <p><br></p>
-<p>Suriye iç savaşından bir yıl önce, Suriye ve Türkiye, Suriye'nin Halep şehri ile Türkiye'nin Mersin limanı arasında bir demiryolu hattı kurmuşlardı. Bu hat, 12 yılı aşkın süredir kapalı olmasına rağmen, Ankara şimdi yeniden açılmasını hedeflemektedir. Yakında hem yük hem de yolcu taşımacılığının bu demiryolu üzerinden iki ülke arasında gerçekleşmesi planlanmaktadır.</p>
+<p>Suriye iç savaşından bir yıl önce, Suriye ve Türkiye, Suriye'nin Halep şehri ile Türkiye'nin Mersin limanı arasında bir demiryolu hattı kurmuşlardı. Bu hat, 12 yılı aşkın süredir kapalı olmasına rağmen, Ankara şimdi yeniden açılmasını hedefliyordir. Yakında hem yük hem de yolcu taşımacılığının bu demiryolu üzerinden iki ülke arasında gerçekleşmesi planlanıyordır.</p>
 <p><br></p>
-<p>365 kilometrelik hattın Türk kesiminin denetimlerden geçtiği bildirilmektedir. Şimdi, hattın Suriye tarafındaki onarımların yapılabilmesi için yeni Suriye otoritelerinin izin vermesi gerekmektedir. Mersin ve Halep'in yanı sıra, İskenderun limanının da demiryoluna bağlanması planlanmaktadır. Ayrıca, Kilis ve Gaziantep'ten yolcuların da hattı kullanabilmesi için bağlantılar sağlanması düşünülmektedir.</p>
+<p>365 kilometrelik hattın Türk kesiminin denetimlerden geçtiği bildiriliyordir. Şimdi, hattın Suriye tarafındaki onarımların yapılabilmesi için yeni Suriye otoritelerinin izin vermesi gerekiyordir. Mersin ve Halep'in yanı sıra, İskenderun limanının da demiryoluna bağlanması planlanıyordır. Ayrıca, Kilis ve Gaziantep'ten yolcuların da hattı kullanabilmesi için bağlantılar sağlanması düşünülüyordir.</p>
 <p><br></p>
-<p>Ankara'nın hedefleri sadece Halep ile sınırlı kalmayıp, hattın Suriye'nin başkenti Şam'a kadar uzatılması planları da bulunmaktadır.</p>
+<p>Ankara'nın hedefleri sadece Halep ile sınırlı kalmayıp, hattın Suriye'nin başkenti Şam'a kadar uzatılması planları da bulunuyordır.</p>
 <p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li><p><strong>Beşar Esad</strong>'ın iktidardan düşmesiyle Suriye'de yeni fırsatlar doğmuştur.</p></li>
-  <li><p>Türkiye, diplomatik ilişkilerin yeniden tesis edilmesiyle birlikte Suriye ile demiryolu bağlantısını yeniden açmayı planlamaktadır.</p></li>
-  <li><p>Halep ve Mersin arasındaki 365 kilometrelik demiryolu hattı, 12 yılı aşkın süredir kapalıdır ve yeniden açılması hedeflenmektedir.</p></li>
-  <li><p>Hattın Türk kesimi denetimlerden geçmiş olup, Suriye tarafındaki onarımlar için yeni Suriye otoritelerinin izni beklenmektedir.</p></li>
+  <li><p>Türkiye, diplomatik ilişkilerin yeniden tesis edilmesiyle birlikte Suriye ile demiryolu bağlantısını yeniden açmayı planlıyordır.</p></li>
+  <li><p>Halep ve Mersin arasındaki 365 kilometrelik demiryolu hattı, 12 yılı aşkın süredir kapalıdır ve yeniden açılması hedefleniyordir.</p></li>
+  <li><p>Hattın Türk kesimi denetimlerden geçmiş olup, Suriye tarafındaki onarımlar için yeni Suriye otoritelerinin izni bekleniyordir.</p></li>
   <li><p>Mersin ve Halep'in yanı sıra, İskenderun limanı da demiryoluna bağlanacaktır.</p></li>
-  <li><p>Kilis ve Gaziantep'ten yolcuların hattı kullanabilmesi için bağlantılar sağlanması planlanmaktadır.</p></li>
-  <li><p>Ankara, hattın Şam'a kadar uzatılması için de planlar yapmaktadır.</p></li>
+  <li><p>Kilis ve Gaziantep'ten yolcuların hattı kullanabilmesi için bağlantılar sağlanması planlanıyordır.</p></li>
+  <li><p>Ankara, hattın Şam'a kadar uzatılması için de planlar yapıyordır.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

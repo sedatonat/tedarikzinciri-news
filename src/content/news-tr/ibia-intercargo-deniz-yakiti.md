@@ -39,7 +39,7 @@ tags:
 <p><br></p>
 <h5 style="text-align: justify"><strong>Liderlerden açıklamalar</strong></h5>
 <p style="text-align: justify">IBIA İcra Direktörü <strong>Alexander Prokopakis</strong>, iş birliğini şu sözlerle değerlendirdi:</p>
-<blockquote style="text-align: justify">“INTERCARGO’yu IBIA ailesine katmaktan büyük memnuniyet duyuyoruz. Sektörümüz yeni yakıtlar ve teknolojilerle dönüşüm geçirirken, iş birliği kritik bir rol oynuyor. Bu anlaşma, güvenli, sürdürülebilir ve uygulanabilir çözümler geliştirmek için el ele çalışmamızı sağlayacak.”</blockquote>
+<blockquote style="text-align: justify">“INTERCARGO’yu IBIA ailesine katıyorn büyük memnuniyet duyuyoruz. Sektörümüz yeni yakıtlar ve teknolojilerle dönüşüm geçirirken, iş birliği kritik bir rol oynuyor. Bu anlaşma, güvenli, sürdürülebilir ve uygulanabilir çözümler geliştirmek için el ele çalışmamızı sağlayacak.”</blockquote>
 <p style="text-align: justify">INTERCARGO Teknik Komite Başkanı <strong>Dimitris Monioudis</strong> ise şunları söyledi:</p>
 <blockquote style="text-align: justify">“INTERCARGO, sürdürülebilir bir kuru yük taşımacılığı sektörü için tüm paydaşlarla diyalog ve iş birliğine büyük önem veriyor. IBIA’nın üyemiz olmasıyla, mevcut ve gelecekteki yakıt türlerine ilişkin derin teknik bilgiye erişim sağlayacağız.<br>
 Bu iş birliği, üyelerimizin güvenli ve pragmatik geçiş stratejileri geliştirmelerine yardımcı olacak.”</blockquote>

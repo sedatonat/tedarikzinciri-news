@@ -19,7 +19,7 @@ tags:
 - deniz yakıtları
 - sürdürülebilirlik
 ---
-<p>Çevre Denetim Komitesi, Birleşik Krallık'ın denizcilik sektöründeki 'net sıfır' hedefine yönelik bulgularını yayınladı. Mart 2021'de, Komite, karbon salınımını azaltması zor olan sivil havacılık ve denizcilik sektörlerinde dekarbonizasyonu teşvik etmek için bir araştırma başlattı. Komitenin raporunda, hükümetten 2024 Parlamento açılışından üç ay içinde 2019 Temiz Denizcilik Planı'nı güncellemesi talep edilmekte.&nbsp;</p>
+<p>Çevre Denetim Komitesi, Birleşik Krallık'ın denizcilik sektöründeki 'net sıfır' hedefine yönelik bulgularını yayınladı. Mart 2021'de, Komite, karbon salınımını azaltması zor olan sivil havacılık ve denizcilik sektörlerinde dekarbonizasyonu teşvik etmek için bir araştırma başlattı. Komitenin raporunda, hükümetten 2024 Parlamento açılışından üç ay içinde 2019 Temiz Denizcilik Planı'nı güncellemesi talep ediliyor.&nbsp;</p>
 <p><br></p>
 <p>Hükümet, denizcilik sektörünün net sıfıra geçişini destekleme konusunda kararlı olduğunu göstermeli, denizcilik dekarbonizasyonu için finansman imkanlarını ve en az 2030'a kadar araştırma ve geliştirme için eşleştirme fonlarını incelemeli. Sıfır emisyonlu deniz yakıtlarının üretimini desteklemek için bir strateji ve belirli üretim kilometre taşları içeren bir teslimat planı oluşturulmalı, ticari üretimi teşvik etmek için bir gelir destek mekanizması uygulanması üzerine danışılmalı.</p>
 <p><br></p>

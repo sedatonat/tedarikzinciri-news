@@ -50,7 +50,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">ETA gibi kritik bildirimlerdeki tutarsızlıkları ortadan kaldırmak,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Tekrarlayan custom entegrasyon ihtiyacını azaltmak.</p></li>
 </ul>
-<p style="text-align: justify">HelloContainer, hâlihazırda <strong>DCSA Track &amp; Trace</strong> standardını kullanmakta ve 2025 sonuna kadar Booking ve Bill of Lading API’lerini de canlı ortama almayı planlamakta.</p>
+<p style="text-align: justify">HelloContainer, hâlihazırda <strong>DCSA Track &amp; Trace</strong> standardını kullanıyor ve 2025 sonuna kadar Booking ve Bill of Lading API’lerini de canlı ortama almayı planlıyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>DCSA: “Bu, ölçeklenebilir dijital iş birliğinin başlangıcı”</strong></h4>
 <p style="text-align: justify">DCSA Chief Growth Officer’ı <strong>Mariana Bock-Losada</strong>, pilotların sektör için önemini şöyle açıkladı:</p>
@@ -64,7 +64,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">EDIFACT + manuel süreçlerin yerini <strong>modern, standart API’ler</strong> almaya başladı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Pilotlar, DCSA uyumluluğunun gerçek operasyonlarda ölçeklenebilir olduğunu gösterdi.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">HelloContainer, 2025 sonunda Booking ve BL standartlarıyla canlıya geçecek.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Standartlaşma, taşıyıcı–yük sahibi–platform entegrasyonlarını <strong>daha hızlı, ucuz ve güvenilir</strong> hâle getirmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Standartlaşma, taşıyıcı–yük sahibi–platform entegrasyonlarını <strong>daha hızlı, ucuz ve güvenilir</strong> hâle getiriyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

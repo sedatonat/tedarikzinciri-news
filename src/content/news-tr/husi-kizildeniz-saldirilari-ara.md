@@ -1,6 +1,6 @@
 ---
 title: Husi Saldırılarına Ara Verilmesi Gerginliği Azalttı, Ancak Kızıldeniz’de Risk Sürüyor
-subtitle: Husi Saldırılarına Ara Verilmesi Gerginliği Azalttı, Ancak Kızıldeniz’de Risk Sürmekte
+subtitle: Husi Saldırılarına Ara Verilmesi Gerginliği Azalttı, Ancak Kızıldeniz’de Risk Sürüyor
 date: '2025-11-12T09:00:00Z'
 sourceUrl: https://www.joc.com/article/houthi-pause-on-shipping-attacks-lowers-tensions-but-risk-remains-6114790
 category: Lojistik
@@ -19,12 +19,12 @@ tags:
 - liman konjesyonu
 - Ümit Burnu
 ---
-<p style="text-align: justify">Kızıldeniz ve Süveyş Kanalı hattında aylardır süren saldırı tehdidi, Yemen’deki <strong>Husi güçlerinin ticari gemilere ve İsrail bağlantılı hedeflere yönelik saldırılarına ara vereceklerini</strong> duyurmasıyla kısmen yatışmış durumda. Bu gelişme, Asya–Avrupa konteyner ticaretinin en kritik rotalarından birinin yeniden açılabileceğine dair umut vermekte.</p>
+<p style="text-align: justify">Kızıldeniz ve Süveyş Kanalı hattında aylardır süren saldırı tehdidi, Yemen’deki <strong>Husi güçlerinin ticari gemilere ve İsrail bağlantılı hedeflere yönelik saldırılarına ara vereceklerini</strong> duyurmasıyla kısmen yatışmış durumda. Bu gelişme, Asya–Avrupa konteyner ticaretinin en kritik rotalarından birinin yeniden açılabileceğine dair umut veriyor.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Ancak <strong>bölgedeki risk seviyesi hâlen yüksek</strong>. S&amp;P Global Market Intelligence Orta Doğu ve Kuzey Afrika Ülke Risk Direktörü <strong>Jack Kennedy</strong>, son altı haftada saldırı olmamasının yanlış bir güvenlik algısı yaratmaması gerektiğini belirtiyor. Kennedy’ye göre Husi güçleri bu süreçte <strong>altyapılarını onarmakta, yeniden silahlanmakta</strong> ve olası yeni saldırı kapasitesini güçlendirmekte. Bu nedenle durum “de-escalation” olarak değerlendirilebilse de tehdit tamamen geçmiş değil.</p>
+<p style="text-align: justify">Ancak <strong>bölgedeki risk seviyesi hâlen yüksek</strong>. S&amp;P Global Market Intelligence Orta Doğu ve Kuzey Afrika Ülke Risk Direktörü <strong>Jack Kennedy</strong>, son altı haftada saldırı olmamasının yanlış bir güvenlik algısı yaratmaması gerektiğini belirtiyor. Kennedy’ye göre Husi güçleri bu süreçte <strong>altyapılarını onarmakta, yeniden silahlanmakta</strong> ve olası yeni saldırı kapasitesini güçlendiriyor. Bu nedenle durum “de-escalation” olarak değerlendirilebilse de tehdit tamamen geçmiş değil.</p>
 <p style="text-align: justify"><br></p>
-<h4 style="text-align: justify"><strong>Taşıyıcıların temkinli tutumu sürmekte</strong></h4>
-<p style="text-align: justify">Konteyner hatları arasında <strong>CMA CGM</strong>, Avrupa Birliği deniz birlikleri eskortunda sınırlı sayıda sefer yapmayı sürdüren tek büyük operatör konumunda. Birkaç küçük hat da kısıtlı geçişler yapmakta. Ancak <strong>MSC, Maersk, Hapag-Lloyd, COSCO, Evergreen</strong> gibi küresel taşıyıcılar, güvenlik gerekçesiyle rotalarını hâlen <strong>Ümit Burnu</strong> üzerinden işletmekte.</p>
+<h4 style="text-align: justify"><strong>Taşıyıcıların temkinli tutumu sürüyor</strong></h4>
+<p style="text-align: justify">Konteyner hatları arasında <strong>CMA CGM</strong>, Avrupa Birliği deniz birlikleri eskortunda sınırlı sayıda sefer yapmayı sürdüren tek büyük operatör konumunda. Birkaç küçük hat da kısıtlı geçişler yapıyor. Ancak <strong>MSC, Maersk, Hapag-Lloyd, COSCO, Evergreen</strong> gibi küresel taşıyıcılar, güvenlik gerekçesiyle rotalarını hâlen <strong>Ümit Burnu</strong> üzerinden işlediyor.</p>
 <p style="text-align: justify">Bu temkinli yaklaşımın temel sebepleri:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Deniz sigortası maliyetlerinin aşırı yüksek</strong> olması,</p></li>
@@ -66,15 +66,15 @@ yaratabilir.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Taşıyıcıların risk iştahına</strong><br>
 bağlı olacak.</p></li>
 </ul>
-<p style="text-align: justify">Sektör uzmanları, 2026’ya girerken Kızıldeniz’in hâlâ <strong>küresel taşımacılığın en kritik kırılganlık noktası</strong> olduğunu vurgulamakta.</p>
+<p style="text-align: justify">Sektör uzmanları, 2026’ya girerken Kızıldeniz’in hâlâ <strong>küresel taşımacılığın en kritik kırılganlık noktası</strong> olduğunu vurguluyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Önemli Notlar:</strong></h4>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Husi güçleri saldırılara ara verdi, ancak <strong>risk seviyesi hâlen yüksek</strong>.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">CMA CGM dışında büyük taşıyıcılar Süveyş’ten geçmiyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Sigorta primleri normalleşmediği için <strong>toplu dönüş mümkün değil</strong>.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Husilerin yeniden silahlanması endişeleri artırmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Rotanın tamamen açılması hâlinde <strong>Avrupa ve Asya limanlarında yoğun kongesyon riski</strong> bulunmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Husilerin yeniden silahlanması endişeleri artırıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Rotanın tamamen açılması hâlinde <strong>Avrupa ve Asya limanlarında yoğun kongesyon riski</strong> bulunuyor.</p></li>
 </ul>
 <p style="text-align: justify"><br></p>
 <p>----------</p>

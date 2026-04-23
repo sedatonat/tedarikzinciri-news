@@ -25,7 +25,7 @@ tags:
 <p><strong>Önemli Notlar:</strong><br>
 1. Hasbro, 28 Mart 2026 saldırısını SEC'e 8-K formuyla bildirdi.<br>
 2. Üçüncü taraf adli bilişim firmalarıyla araştırma sürüyor.<br>
-3. Etkilenen sistemler izole edildi; üretim sürmekte.<br>
+3. Etkilenen sistemler izole edildi; üretim sürüyor.<br>
 4. Arka ofis süreçlerinde geçici aksamalar raporlandı.<br>
 5. Müşteri verisi etkisi konusunda nihai değerlendirme bekleniyor.</p>
 <p>---<br>

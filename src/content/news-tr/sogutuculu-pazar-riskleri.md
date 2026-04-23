@@ -20,17 +20,17 @@ tags:
 - Süveyş Kanalı
 - konteyner taşımacılığı
 ---
-<p>2025 yılında soğutuculu konteyner (reefer) pazarının büyümesi beklenirken, sektörde çeşitli riskler ve zorluklar öne çıkmaktadır. Artan ekipman talebi ve pazar büyümesi, rekabeti artırırken, liman işgücü müzakerelerinden kaynaklanan operasyonel kesintiler, özellikle bozulabilir yükler için tehdit oluşturmaktadır.</p>
+<p>2025 yılında soğutuculu konteyner (reefer) pazarının büyümesi beklenirken, sektörde çeşitli riskler ve zorluklar öne çıkıyordır. Artan ekipman talebi ve pazar büyümesi, rekabeti artırırken, liman işgücü müzakerelerinden kaynaklanan operasyonel kesintiler, özellikle bozulabilir yükler için tehdit oluşturuyordır.</p>
 <p><br></p>
-<p>2024 yılında küresel eğilimler, soğuk zincir üzerinde baskı oluşturmuş ve özellikle Güney Amerika'dan tarım ürünleri ihracatında artış yaşanmıştır. Ancak, Afrika çevresindeki uzatılmış transit süreler, ekipman mevcudiyeti üzerinde ek baskı yaratmaktadır. Bu durum, soğutuculu yük taşımacılığında operasyonel aksaklıklara karşı hassasiyeti artırmaktadır.</p>
+<p>2024 yılında küresel eğilimler, soğuk zincir üzerinde baskı oluşturmuş ve özellikle Güney Amerika'dan tarım ürünleri ihracatında artış yaşanmıştır. Ancak, Afrika çevresindeki uzatılmış transit süreler, ekipman mevcudiyeti üzerinde ek baskı yaratıyordır. Bu durum, soğutuculu yük taşımacılığında operasyonel aksaklıklara karşı hassasiyeti artırıyordır.</p>
 <p><br></p>
-<p>Konteyner taşımacılığı sektöründe, 2024 yılında yüksek karlılıklar elde edilmiş ve bu karlılığın 2025 yılında da devam etmesi beklenmektedir. Ancak, jeopolitik faktörler ve kapasite fazlalığı gibi unsurlar, arz-talep dengesini etkilemektedir. Özellikle Asya'dan gelen talebin güçlü olması ve Süveyş Kanalı'ndaki yönlendirmeler, gemi arzını sıkı tutarak, yıllık sabit oranlı anlaşmaların 2024 seviyelerinin üzerine çıkmasına neden olabilir.</p>
+<p>Konteyner taşımacılığı sektöründe, 2024 yılında yüksek karlılıklar elde edilmiş ve bu karlılığın 2025 yılında da devam etmesi bekleniyordir. Ancak, jeopolitik faktörler ve kapasite fazlalığı gibi unsurlar, arz-talep dengesini etkiliyordir. Özellikle Asya'dan gelen talebin güçlü olması ve Süveyş Kanalı'ndaki yönlendirmeler, gemi arzını sıkı tutarak, yıllık sabit oranlı anlaşmaların 2024 seviyelerinin üzerine çıkmasına neden olabilir.</p>
 <p><br></p>
-<p>Avrupa'da sıkılaşan karbonsuzlaştırma önlemleri, taşıyıcıların maliyetlerini artırmaktadır. <strong>CMA CGM</strong>, mevcut <strong>Emissions Trading System (ETS)</strong> ek ücretlerinin 2025 yılında yaklaşık %75 artmasını beklemektedir. Bu maliyet artışları, müşterilere yansıtılacak ve soğutuculu yük taşımacılığında maliyetleri yükseltecektir.</p>
+<p>Avrupa'da sıkılaşan karbonsuzlaştırma önlemleri, taşıyıcıların maliyetlerini artırıyordır. <strong>CMA CGM</strong>, mevcut <strong>Emissions Trading System (ETS)</strong> ek ücretlerinin 2025 yılında yaklaşık %75 artmasını bekliyordir. Bu maliyet artışları, müşterilere yansıtılacak ve soğutuculu yük taşımacılığında maliyetleri yükseltecektir.</p>
 <p><br></p>
-<p>Ayrıca, yeşil yakıtların potansiyel kıtlığı da sektörde endişe yaratmaktadır. <strong>Hapag-Lloyd</strong> CEO'su Rolf Habben Jansen, önümüzdeki yıllarda çift yakıtlı gemilerin artmasına rağmen, yeşil yakıtların yeterli miktarda bulunmamasının en büyük endişeleri olduğunu belirtmiştir. Bu durum, çevre dostu taşımacılık hedeflerini olumsuz etkileyebilir.</p>
+<p>Ayrıca, yeşil yakıtların potansiyel kıtlığı da sektörde endişe yaratıyordır. <strong>Hapag-Lloyd</strong> CEO'su Rolf Habben Jansen, önümüzdeki yıllarda çift yakıtlı gemilerin artmasına rağmen, yeşil yakıtların yeterli miktarda bulunmamasının en büyük endişeleri olduğunu belirtmiştir. Bu durum, çevre dostu taşımacılık hedeflerini olumsuz etkileyebilir.</p>
 <p><br></p>
-<p>Sonuç olarak, 2025 yılında soğutuculu konteyner pazarında büyüme öngörülse de, operasyonel kesintiler, artan maliyetler ve çevresel düzenlemeler gibi faktörler, sektör oyuncularının dikkat etmesi gereken önemli riskler olarak öne çıkmaktadır.</p>
+<p>Sonuç olarak, 2025 yılında soğutuculu konteyner pazarında büyüme öngörülse de, operasyonel kesintiler, artan maliyetler ve çevresel düzenlemeler gibi faktörler, sektör oyuncularının dikkat etmesi gereken önemli riskler olarak öne çıkıyordır.</p>
 <p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>

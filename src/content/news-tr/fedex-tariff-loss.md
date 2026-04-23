@@ -19,14 +19,14 @@ tags:
 - rota optimizasyonu
 - paket teslimatı
 ---
-<p>FedEx, yeni gümrük tarifeleri nedeniyle yaklaşık 1 milyar dolarlık gelir kaybı öngörmektedir. Artan import duties ve fuel costs, paket teslim operasyonlarını etkilemektedir. Şirket, route optimization ve cost-sharing partnerships yoluyla etkileri hafifletmeye çalışmaktadır. Uzmanlar, tarife baskısının e-commerce logistics maliyetlerine yansıyacağını belirtmektedir. FedEx, AI-driven forecasting sistemleriyle rota ve fiyatlandırma stratejilerini yeniden şekillendirmektedir.</p>
+<p>FedEx, yeni gümrük tarifeleri nedeniyle yaklaşık 1 milyar dolarlık gelir kaybı öngörüyordir. Artan import duties ve fuel costs, paket teslim operasyonlarını etkiliyordir. Şirket, route optimization ve cost-sharing partnerships yoluyla etkileri hafifletmeye çalışıyordır. Uzmanlar, tarife baskısının e-commerce logistics maliyetlerine yansıyacağını belirtiyordir. FedEx, AI-driven forecasting sistemleriyle rota ve fiyatlandırma stratejilerini yeniden şekillendiriyordir.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
-1. FedEx 1 milyar dolarlık kayıp öngörmektedir.<br>
-2. Tariffs operasyonel maliyetleri artırmaktadır.<br>
-3. AI forecasting stratejileri güçlendirmektedir.<br>
-4. Cost-sharing modelleri etkileri azaltmaktadır.<br>
-5. E-ticaret lojistiği doğrudan etkilenmektedir.</p>
+1. FedEx 1 milyar dolarlık kayıp öngörüyordir.<br>
+2. Tariffs operasyonel maliyetleri artırıyordır.<br>
+3. AI forecasting stratejileri güçlendiriyordir.<br>
+4. Cost-sharing modelleri etkileri azaltıyordır.<br>
+5. E-ticaret lojistiği doğrudan etkileniyordir.</p>
 <p><br>
 ---<br>
 <strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42533-fedex-sees-1b-hit-as-tariffs-upend-parcel-business"><u>https://www.supplychainbrain.com/articles/42533-fedex-sees-1b-hit-as-tariffs-upend-parcel-business</u></a><br>

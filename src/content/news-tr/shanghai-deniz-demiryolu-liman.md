@@ -20,9 +20,9 @@ tags:
 - liman lojistiği
 - demiryolu altyapısı
 ---
-<p style="text-align: justify"><strong>Shanghai sea-rail intermodal network</strong>, 2025 yılında yeni bir rekora ulaştı. <strong>China News</strong> tarafından bildirildiğine göre, <strong>5 Aralık sabahı</strong> Shanghai <strong>Luchaogang Container Center Station</strong>’dan güneş paneli modülleri ve otomotiv komponentleri taşıyan bir trenin hareket etmesiyle birlikte, yılın kümülatif deniz–demiryolu hacmi <strong>1 milyon TEU eşiğini resmen geçti</strong>. Bu rakam, resmi verilere göre <strong>yıllık yaklaşık %20 büyüme</strong> ile tarihteki en yüksek seviyeyi temsil etmekte.</p>
+<p style="text-align: justify"><strong>Shanghai sea-rail intermodal network</strong>, 2025 yılında yeni bir rekora ulaştı. <strong>China News</strong> tarafından bildirildiğine göre, <strong>5 Aralık sabahı</strong> Shanghai <strong>Luchaogang Container Center Station</strong>’dan güneş paneli modülleri ve otomotiv komponentleri taşıyan bir trenin hareket etmesiyle birlikte, yılın kümülatif deniz–demiryolu hacmi <strong>1 milyon TEU eşiğini resmen geçti</strong>. Bu rakam, resmi verilere göre <strong>yıllık yaklaşık %20 büyüme</strong> ile tarihteki en yüksek seviyeyi temsil ediyor.</p>
 <p><br></p>
-<p style="text-align: justify">Bu artışın merkezinde, <strong>China Railway Shanghai Group Co., Ltd.</strong> tarafından 2025 boyunca yürütülen yoğun operasyonel iyileştirmeler bulunmakta. Şirket:</p>
+<p style="text-align: justify">Bu artışın merkezinde, <strong>China Railway Shanghai Group Co., Ltd.</strong> tarafından 2025 boyunca yürütülen yoğun operasyonel iyileştirmeler bulunuyor. Şirket:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>locomotive crew scheduling</strong> süreçlerini optimize etmiş,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">istasyonlardaki <strong>train idle time</strong> sürelerini azaltmış,</p></li>
@@ -30,7 +30,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Nanxiang–Luchaogang hattında günlük <strong>20 train pair</strong> kapasitesine ulaşmış,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Hizmet planlaması daha rafine hâle getirildiğinde <strong>22 train pair</strong> potansiyelinin mümkün olduğunu belirtmiştir.</p></li>
 </ul>
-<p style="text-align: justify">Bu optimizasyonların yanı sıra şirketin uyguladığı hibrit <strong>“block trains + single wagons”</strong> modeli, yıllık yaklaşık <strong>90.000 TEU</strong> ek elleçleme kapasitesi yaratmakta. Bu model, blok trenlerin verimliliğinden ödün vermeden tek vagon bazlı yük kabul esnekliği sağlayarak, terminal–hinterland bağlantısını güçlendirmektedir.</p>
+<p style="text-align: justify">Bu optimizasyonların yanı sıra şirketin uyguladığı hibrit <strong>“block trains + single wagons”</strong> modeli, yıllık yaklaşık <strong>90.000 TEU</strong> ek elleçleme kapasitesi yaratıyor. Bu model, blok trenlerin verimliliğinden ödün vermeden tek vagon bazlı yük kabul esnekliği sağlayarak, terminal–hinterland bağlantısını güçlendiriyordir.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Luchaogang’ın Kritik Rolü ve Altyapı Genişletmeleri</strong></h3>
 <p style="text-align: justify"><strong>Luchaogang Container Center Station</strong>, <strong>Yangshan Deep-water Port</strong> için inşa edilen ana demiryolu hub’ı olarak <strong>4 Aralık 2005</strong>’te hizmete girmişti. Son yıllarda istasyon, “son kilometre” darboğazını hafifletmek amacıyla çok aşamalı bir kapasite artırımı programından geçti:</p>
@@ -40,26 +40,26 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">özel konteyner sahaları genişletildi,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">demiryolu–liman–kargo operasyonlarını aynı çatı altında birleştiren <strong>integrated dispatch center</strong> kuruldu.</p></li>
 </ul>
-<p style="text-align: justify">Bugün istasyon, <strong>4 grup × 8 hat</strong> olmak üzere toplam <strong>32 full-length track</strong> üzerinden çalışmakta. Ortalama bir konteynerin istasyonda elleçlenmesi <strong>yaklaşık 3 dakika</strong> sürmekte. Tasarım kapasitesi <strong>1,2 milyon TEU/yıl</strong> olan istasyon, mevcut büyüme hızına bakıldığında kapasitesinin sınırlarına yaklaşmakta; ancak operasyonel iyileştirmeler sistemi daha verimli hâle getirmekte.</p>
+<p style="text-align: justify">Bugün istasyon, <strong>4 grup × 8 hat</strong> olmak üzere toplam <strong>32 full-length track</strong> üzerinden çalışıyor. Ortalama bir konteynerin istasyonda elleçlenmesi <strong>yaklaşık 3 dakika</strong> sürüyor. Tasarım kapasitesi <strong>1,2 milyon TEU/yıl</strong> olan istasyon, mevcut büyüme hızına bakıldığında kapasitesinin sınırlarına yaklaşıyor; ancak operasyonel iyileştirmeler sistemi daha verimli hâle getiriyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Bölgesel ve Ulusal Bağlantılar</strong></h3>
-<p style="text-align: justify">Şanghay’ın deniz–demiryolu ağı bugün <strong>10’dan fazla eyalet ve belediyede 40’tan fazla şehirle</strong> bağlantı sağlamakta:</p>
+<p style="text-align: justify">Şanghay’ın deniz–demiryolu ağı bugün <strong>10’dan fazla eyalet ve belediyede 40’tan fazla şehirle</strong> bağlantı sağlıyor:</p>
 <p><br>
-<strong>Shanghai, Jiangsu, Zhejiang, Anhui, Sichuan</strong> gibi büyük sanayi bölgeleri bu ağın merkez noktasında yer almakta. Yetkililer bu trafik akışını “<strong>stable</strong>” olarak tanımlamakta; bu durum, Çin ekonomisinin iç-lojistik entegrasyonunun güçlendiğini göstermekte.</p>
+<strong>Shanghai, Jiangsu, Zhejiang, Anhui, Sichuan</strong> gibi büyük sanayi bölgeleri bu ağın merkez noktasında yer alıyor. Yetkililer bu trafik akışını “<strong>stable</strong>” olarak tanımlıyor; bu durum, Çin ekonomisinin iç-lojistik entegrasyonunun güçlendiğini gösteriyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>2024–2025 Performans Karşılaştırması</strong></h3>
-<p style="text-align: justify">2024 yılında Şanghay’ın sea-rail hacmi <strong>900.000 TEU’yu aşmış</strong> ve yıllık bazda <strong>%30’un üzerinde</strong> büyüme göstermişti. 2025’te bu tabanın üzerine <strong>1 milyon TEU’nun aşılması</strong>, intermodal modelin sürdürülebilir büyümesini teyit etmekte.</p>
+<p style="text-align: justify">2024 yılında Şanghay’ın sea-rail hacmi <strong>900.000 TEU’yu aşmış</strong> ve yıllık bazda <strong>%30’un üzerinde</strong> büyüme göstermişti. 2025’te bu tabanın üzerine <strong>1 milyon TEU’nun aşılması</strong>, intermodal modelin sürdürülebilir büyümesini teyit ediyor.</p>
 <p><br></p>
-<p style="text-align: justify">China Railway Shanghai Group Multimodal Taşımacılık Müdürü <strong>Chen Songdi</strong>, toplam inbound–outbound hacmin <strong>2025 sonunda 1,09 milyon TEU’ya</strong> ulaşabileceğini, bunun da 2024’e göre yaklaşık <strong>%15 artış</strong> anlamına geldiğini belirtmekte.</p>
+<p style="text-align: justify">China Railway Shanghai Group Multimodal Taşımacılık Müdürü <strong>Chen Songdi</strong>, toplam inbound–outbound hacmin <strong>2025 sonunda 1,09 milyon TEU’ya</strong> ulaşabileceğini, bunun da 2024’e göre yaklaşık <strong>%15 artış</strong> anlamına geldiğini belirtiyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Stratejik Değerlendirme</strong></h3>
-<p style="text-align: justify">Bu performans üç ana trendi yansıtmakta:</p>
+<p style="text-align: justify">Bu performans üç ana trendi yansıtıyor:</p>
 <ol>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Intermodal kapasite Çin’in liman rekabetçiliğini artırmakta.</strong><br>
-Yangshan gibi dev limanlar için hinterland erişimindeki darboğazlar azaltılmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Demiryolu, kısa–orta mesafe kara taşımacılığının karbon yoğunluğunu azaltmakta.</strong><br>
-Çin’in çevresel hedefleri doğrultusunda sea-rail modeli öncelik kazanmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Ekipman ve proses modernizasyonu, terminal tıkanıklık riskini düşürmekte.</strong></p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Intermodal kapasite Çin’in liman rekabetçiliğini artırıyor.</strong><br>
+Yangshan gibi dev limanlar için hinterland erişimindeki darboğazlar azaltılıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Demiryolu, kısa–orta mesafe kara taşımacılığının karbon yoğunluğunu azaltıyor.</strong><br>
+Çin’in çevresel hedefleri doğrultusunda sea-rail modeli öncelik kazanıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Ekipman ve proses modernizasyonu, terminal tıkanıklık riskini düşürüyor.</strong></p></li>
 </ol>
 <p style="text-align: justify">Sonuç olarak Shanghai sea-rail intermodal ağı, 2025’te yalnızca hacim rekoru kırmakla kalmamış; aynı zamanda Çin’in entegre lojistik yapısının dünya çapındaki rekabet gücünü pekiştirmiştir.</p>
 <p><br></p>
@@ -68,9 +68,9 @@ Yangshan gibi dev limanlar için hinterland erişimindeki darboğazlar azaltılm
   <li style="text-align: justify"><p style="text-align: justify">2025 sea-rail hacmi <strong>1 milyon TEU eşiğini aştı</strong> (%20 büyüme).</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Luchaogang istasyonunun yıllık kapasitesi <strong>1,2 milyon TEU</strong>.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Nanxiang–Luchaogang hattında günlük <strong>20–22 çift tren</strong> kapasitesine ulaşıldı.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Hybrid <strong>block train + single wagon</strong> modeli yıllık <strong>+90.000 TEU</strong> ek kapasite yaratmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Ağ, 10’dan fazla bölgedeki <strong>40+ şehirle</strong> bağlantı sağlamakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">2025 toplamının <strong>1,09 milyon TEU</strong>’yu aşması beklenmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Hybrid <strong>block train + single wagon</strong> modeli yıllık <strong>+90.000 TEU</strong> ek kapasite yaratıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Ağ, 10’dan fazla bölgedeki <strong>40+ şehirle</strong> bağlantı sağlıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">2025 toplamının <strong>1,09 milyon TEU</strong>’yu aşması bekleniyor.</p></li>
 </ul>
 <p><br></p>
 <h3>İlgili Makalemiz:</h3>

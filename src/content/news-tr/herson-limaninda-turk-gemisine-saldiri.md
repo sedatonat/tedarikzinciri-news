@@ -30,7 +30,7 @@ tags:
   <li><p>Gemi, füze veya top mermisi isabeti sonucu yan yattı ve yangın çıktı.</p></li>
   <li><p>Gemi, Ukrayna-Rusya savaşı nedeniyle Herson limanında mahsur kalmıştı.</p></li>
   <li><p>Geminin mürettebatı tahliye edilmiş, sadece bir güvenlik görevlisi gemide kalmıştı.</p></li>
-  <li><p>Herson limanında 10'dan fazla Türk gemisi daha beklemekte.</p></li>
+  <li><p>Herson limanında 10'dan fazla Türk gemisi daha bekliyor.</p></li>
   <li><p>Olay, deniz ticareti ve Türk denizcilerinin güvenliğine yönelik tehdidi gösteriyor.</p></li>
   <li><p>Uzmanlar, Türk gemilerinin güvenliğinin sağlanması ve savaşın sonlandırılması için adımların atılmasının önemini vurguluyor.</p></li>
 </ol>

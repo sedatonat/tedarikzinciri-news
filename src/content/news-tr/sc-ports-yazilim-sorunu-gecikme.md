@@ -21,13 +21,13 @@ tags:
 ---
 <p>Güney Karolina Liman İdaresi (SC Ports), bir yazılım sorunu nedeniyle deniz terminalleri ve iç liman operasyonlarında gecikmeler yaşandığını duyurdu. Sorun, bir tedarikçinin yazılımının bir sunucuyu etkilemesi sonucu ortaya çıktı. Bu durum, yüklerin alınıp verilmesini geçici olarak durdurdu.&nbsp;</p>
 <p><br></p>
-<p>SC Ports, sistemlerin yeniden kurulması için yoğun bir şekilde çalışmakta olup, operasyonların hızla normale dönmesi için çaba göstermekte. 19 Mayıs'ta yerel saat ile 19:30'da ilk gecikme bilgisi verildi ve 21 Mayıs'ta sabah 11:00 itibarıyla, işletim sistemi çalışır hale geldi ve gemilere hizmet verilmeye başlandı. Liman otoritesi, kapı operasyonlarının devamı konusunda ilerleme kaydettiğini ve yük taşıma işlemlerinin ne zaman başlayacağı konusunda denizcilik ortaklarına ve motor taşıyıcılarına bilgi vereceğini bildirdi.&nbsp;</p>
+<p>SC Ports, sistemlerin yeniden kurulması için yoğun bir şekilde çalışıyor olup, operasyonların hızla normale dönmesi için çaba gösteriyor. 19 Mayıs'ta yerel saat ile 19:30'da ilk gecikme bilgisi verildi ve 21 Mayıs'ta sabah 11:00 itibarıyla, işletim sistemi çalışır hale geldi ve gemilere hizmet verilmeye başlandı. Liman otoritesi, kapı operasyonlarının devamı konusunda ilerleme kaydettiğini ve yük taşıma işlemlerinin ne zaman başlayacağı konusunda denizcilik ortaklarına ve motor taşıyıcılarına bilgi vereceğini bildirdi.&nbsp;</p>
 <p><br></p>
 <p>Ayrıca, liman hizmetlerinde mükemmeliyet sağlama ve deniz taşıyıcıları ile yük sahiplerine hizmet verme konusundaki kararlılıklarını vurguladılar. Bu süreçte, denizcilik ortaklarından ve geniş topluluktan gelen destekten duydukları memnuniyeti dile getirdiler.</p>
 <p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>
-  <li><p>SC Ports, bir yazılım sorunu nedeniyle operasyonlarında gecikmeler yaşamakta.</p></li>
+  <li><p>SC Ports, bir yazılım sorunu nedeniyle operasyonlarında gecikmeler yaşıyor.</p></li>
   <li><p>Sorun, bir tedarikçi yazılımının sunucuyu etkilemesiyle başladı.</p></li>
   <li><p>İlk gecikme bilgisi 19 Mayıs'ta verilmiş, 21 Mayıs'ta işletim sistemi normale döndü.</p></li>
   <li><p>Liman, kapı operasyonlarını yeniden başlatma konusunda önemli ilerlemeler kaydetdi.</p></li>

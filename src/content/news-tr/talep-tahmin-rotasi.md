@@ -19,9 +19,9 @@ tags:
 - AutoML
 - tedarik zinciri
 ---
-<p style="text-align: justify"><strong>Talep tahmini (demand forecasting)</strong>, veri zenginleşmesi ve yapay zekâ destekli analizlerle birlikte yeni bir evreye girmiş durumda. Günümüzde başarılı tahmin sistemleri, yalnızca geçmiş satış verisine değil; <strong>POS (point-of-sale)</strong> bilgileri, <strong>promosyon planları</strong>, <strong>fiyat elastikiyeti</strong>, <strong>hava durumu verileri</strong> ve <strong>sosyal medya sinyalleri</strong> gibi çok boyutlu girdilere dayanıyor. Bu entegrasyon, kısa vadeli tahminlerde <strong>demand sensing (talep algılama)</strong> modellerinin isabet oranını ciddi biçimde artırmakta.</p>
+<p style="text-align: justify"><strong>Talep tahmini (demand forecasting)</strong>, veri zenginleşmesi ve yapay zekâ destekli analizlerle birlikte yeni bir evreye girmiş durumda. Günümüzde başarılı tahmin sistemleri, yalnızca geçmiş satış verisine değil; <strong>POS (point-of-sale)</strong> bilgileri, <strong>promosyon planları</strong>, <strong>fiyat elastikiyeti</strong>, <strong>hava durumu verileri</strong> ve <strong>sosyal medya sinyalleri</strong> gibi çok boyutlu girdilere dayanıyor. Bu entegrasyon, kısa vadeli tahminlerde <strong>demand sensing (talep algılama)</strong> modellerinin isabet oranını ciddi biçimde artırıyor.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Orta ve uzun vadede ise, <strong>hierarchical forecasting</strong> ve <strong>olasılıksal (probabilistic) modeller</strong> devreye girmekte. <strong>Quantile regression</strong> ve <strong>Bayesian yaklaşımlar</strong>, klasik deterministik modellerin ötesine geçerek <strong>belirsizliği daha gerçekçi</strong> biçimde temsil ediyor. Bu sayede, planlama süreçleri yalnız “tek sayı tahminlerine” değil, olasılık dağılımlarına dayalı <strong>risk-temelli kararlar</strong>a dönüşüyor.</p>
+<p style="text-align: justify">Orta ve uzun vadede ise, <strong>hierarchical forecasting</strong> ve <strong>olasılıksal (probabilistic) modeller</strong> devreye giriyor. <strong>Quantile regression</strong> ve <strong>Bayesian yaklaşımlar</strong>, klasik deterministik modellerin ötesine geçerek <strong>belirsizliği daha gerçekçi</strong> biçimde temsil ediyor. Bu sayede, planlama süreçleri yalnız “tek sayı tahminlerine” değil, olasılık dağılımlarına dayalı <strong>risk-temelli kararlar</strong>a dönüşüyor.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Teknik mimaride, <strong>feature stores</strong>, <strong>RAG (Retrieval-Augmented Generation)</strong>, <strong>vector databases</strong> ve <strong>AutoML (Automated Machine Learning)</strong> çözümleri giderek yaygınlaşıyor. Bu araçlar, model eğitiminde hız ve tutarlılık sağlarken, <strong>causal inference (nedensellik çıkarımı)</strong> ve <strong>explainability (açıklanabilirlik)</strong> yöntemleri sayesinde modellerin iş dünyasında kabulünü kolaylaştırıyor.</p>
 <p style="text-align: justify"><br></p>
@@ -35,11 +35,11 @@ tags:
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
-  <li><p>Demand sensing kısa vadeyi güçlendirmekte.</p></li>
-  <li><p>Olasılıksal yaklaşımlar belirsizliği yansıtmaktadır.</p></li>
-  <li><p>Feature store/AutoML hız ve kalite sağlamaktadır.</p></li>
-  <li><p>MEIO stok politikasını optimize etmektedir.</p></li>
-  <li><p>MRM/drift izleme güvenilirliği güçlendirmektedir.</p></li>
+  <li><p>Demand sensing kısa vadeyi güçlendiriyor.</p></li>
+  <li><p>Olasılıksal yaklaşımlar belirsizliği yansıtıyordır.</p></li>
+  <li><p>Feature store/AutoML hız ve kalite sağlıyordır.</p></li>
+  <li><p>MEIO stok politikasını optimize ediyordir.</p></li>
+  <li><p>MRM/drift izleme güvenilirliği güçlendiriyordir.</p></li>
 </ul>
 <p>----------</p>
 <p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41647-navigating-the-future-of-demand-forecasting"><u>https://www.supplychainbrain.com/articles/41647-navigating-the-future-of-demand-forecasting</u></a></p>

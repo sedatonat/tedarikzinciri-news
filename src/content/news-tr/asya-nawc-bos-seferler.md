@@ -19,20 +19,20 @@ tags:
 - MSC
 - Çin Yeni Yılı
 ---
-<p style="text-align: justify"><strong>Sea-Intelligence</strong>, 2025 Çin Yeni Yılı (CNY) döneminde <strong>Asya – Kuzey Amerika Batı Kıyısı</strong> rotasında keskin bir kapasite artışı gözlemlemekte. Mevcut kapasite dağılımı, analiz edilen dönemde en yüksek seviyeye ulaşarak yaklaşık 1,34 milyon TEU'ya ulaşmakta. Bu rakam, yüksek talep dönemi olan 2021'i bile geride bırakarak, yıllık bazda %33,3'lük bir artışı ve 2016-2019 dönemine göre %34,1'lik bir büyümeyi temsil etmekte.</p>
+<p style="text-align: justify"><strong>Sea-Intelligence</strong>, 2025 Çin Yeni Yılı (CNY) döneminde <strong>Asya – Kuzey Amerika Batı Kıyısı</strong> rotasında keskin bir kapasite artışı gözlemlemekte. Mevcut kapasite dağılımı, analiz edilen dönemde en yüksek seviyeye ulaşarak yaklaşık 1,34 milyon TEU'ya ulaşıyor. Bu rakam, yüksek talep dönemi olan 2021'i bile geride bırakarak, yıllık bazda %33,3'lük bir artışı ve 2016-2019 dönemine göre %34,1'lik bir büyümeyi temsil ediyor.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Taşıyıcılar, boş seferler açısından %90 oranında planlanmış kapasiteye sahip. <strong>Sea-Intelligence</strong>'a göre, bu oran analiz edilen dönemler arasında en düşük seviyede olup, 2024'teki %22,8 ve 2016-2019 ortalaması olan %18,3'lük azaltmalarla keskin bir tezat oluşturmakta. Pandeminin talepte olumlu bir etki yarattığı 2021'de bile boş sefer oranı %10,7 ile daha yüksekti.</p>
+<p style="text-align: justify">Taşıyıcılar, boş seferler açısından %90 oranında planlanmış kapasiteye sahip. <strong>Sea-Intelligence</strong>'a göre, bu oran analiz edilen dönemler arasında en düşük seviyede olup, 2024'teki %22,8 ve 2016-2019 ortalaması olan %18,3'lük azaltmalarla keskin bir tezat oluşturuyor. Pandeminin talepte olumlu bir etki yarattığı 2021'de bile boş sefer oranı %10,7 ile daha yüksekti.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify"><strong>Sea-Intelligence</strong> CEO'su <strong>Alan Murphy</strong>, normal koşullar altında taşıyıcıların bu seviyedeki fazla kapasiteyi tolere etmeyeceğini ve önümüzdeki haftalarda önemli boş sefer duyurularının gelebileceğini belirtmekte. Bu durum, 2023 ve 2024'te CNY öncesinde uygulanan kapasite azaltmalarına benzerlik gösterebilir. Ancak, <strong>MSC</strong>, <strong>Gemini Cooperation</strong> ve <strong>Premier Alliance</strong> tarafından yeni ağların devreye alınması, taşıyıcıların alışılmışın dışında daha az boş sefer planlamasına neden olabilir.</p>
+<p style="text-align: justify"><strong>Sea-Intelligence</strong> CEO'su <strong>Alan Murphy</strong>, normal koşullar altında taşıyıcıların bu seviyedeki fazla kapasiteyi tolere etmeyeceğini ve önümüzdeki haftalarda önemli boş sefer duyurularının gelebileceğini belirtiyor. Bu durum, 2023 ve 2024'te CNY öncesinde uygulanan kapasite azaltmalarına benzerlik gösterebilir. Ancak, <strong>MSC</strong>, <strong>Gemini Cooperation</strong> ve <strong>Premier Alliance</strong> tarafından yeni ağların devreye alınması, taşıyıcıların alışılmışın dışında daha az boş sefer planlamasına neden olabilir.</p>
 <p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">2025 CNY döneminde Asya – Kuzey Amerika Batı Kıyısı rotasında kapasite yaklaşık 1,34 milyon TEU'ya ulaşarak rekor seviyeye çıktı.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Boş sefer planlaması %90 oranında olup, önceki yıllara göre belirgin bir düşüş göstermekte.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Taşıyıcıların fazla kapasiteyi tolere etmeyeceği ve önümüzdeki haftalarda boş sefer duyurularının artabileceği öngörülmekte.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>MSC</strong>, <strong>Gemini Cooperation</strong> ve <strong>Premier Alliance</strong> tarafından yeni ağların devreye alınması, boş sefer planlamasında belirsizlik yaratmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Boş sefer planlaması %90 oranında olup, önceki yıllara göre belirgin bir düşüş gösteriyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Taşıyıcıların fazla kapasiteyi tolere etmeyeceği ve önümüzdeki haftalarda boş sefer duyurularının artabileceği öngörülüyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>MSC</strong>, <strong>Gemini Cooperation</strong> ve <strong>Premier Alliance</strong> tarafından yeni ağların devreye alınması, boş sefer planlamasında belirsizlik yaratıyor.</p></li>
 </ul>
-<p style="text-align: justify">Bu gelişmeler, deniz taşımacılığı sektöründe arz ve talep dengesinin dikkatle izlenmesi gerektiğini ve taşıyıcıların stratejik planlamalarının önemini bir kez daha ortaya koymakta.</p>
+<p style="text-align: justify">Bu gelişmeler, deniz taşımacılığı sektöründe arz ve talep dengesinin dikkatle izlenmesi gerektiğini ve taşıyıcıların stratejik planlamalarının önemini bir kez daha ortaya koyuyor.</p>
 <p><br></p>
 <p><br></p>
 <p>---</p>

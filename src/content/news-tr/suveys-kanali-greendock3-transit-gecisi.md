@@ -29,7 +29,7 @@ tags:
 <p style="text-align: justify">Havuz, <strong>southern convoy</strong> ile birlikte seyir etti. Geçiş öncesinde Endonezya’dan başlayan yolculuk, Kızıldeniz ve <strong>Bab el-Mandab</strong> bölgesinden sorunsuz şekilde geçti.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Dev Platformun Teknik Özellikleri</strong></h3>
-<p style="text-align: justify"><strong>GREEN DOCK 3</strong>, 290 metre uzunluğunda, 57 metre genişliğinde ve <strong>8 metre draft</strong> derinliğine sahip devasa bir yüzer havuzdur. Ağırlığı <strong>42.000 ton</strong> olan bu yapı, Süveyş Kanalı’ndan bugüne kadar geçen <strong>en büyük towed units</strong> arasında yer almakta.</p>
+<p style="text-align: justify"><strong>GREEN DOCK 3</strong>, 290 metre uzunluğunda, 57 metre genişliğinde ve <strong>8 metre draft</strong> derinliğine sahip devasa bir yüzer havuzdur. Ağırlığı <strong>42.000 ton</strong> olan bu yapı, Süveyş Kanalı’ndan bugüne kadar geçen <strong>en büyük towed units</strong> arasında yer alıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Geçiş tam <strong>24 saat</strong> sürdü ve operasyon boyunca özel trafik yönetimi, hız limitleri, römorkör koordinasyonu ve Kanal’ın yeni genişletilmiş bölümlerinin kullanımı gibi prosedürler uygulandı.</p>
 <p><br></p>
@@ -39,17 +39,17 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Süveyş Kanalı’nın <strong>safe and stable</strong> bir rota olduğunu,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Yeni Suez Canal’ın daha az kıvrımlı, daha düz ve genişletilmiş bir kanal yapısı sayesinde <strong>special operations</strong> için ideal olduğunu vurguladı.</p></li>
 </ul>
-<p style="text-align: justify">Kanalın <strong>Southern Sector Development Project</strong> kapsamında 40 metre genişletilmesi, bu tip büyük ünitelerin sorunsuz geçebilmesini sağlamakta.</p>
+<p style="text-align: justify">Kanalın <strong>Southern Sector Development Project</strong> kapsamında 40 metre genişletilmesi, bu tip büyük ünitelerin sorunsuz geçebilmesini sağlıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Ekonomik Etki ve Emisyon Tasarrufu</strong></h3>
 <p style="text-align: justify">Rabiee operasyonun ekonomik etkilerini de açıkladı.<br>
 Süveyş rotası, Cape of Good Hope’a göre <strong>6.000 nautical miles</strong> daha kısadır. Bu fark:</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">Mesafeyi <strong>%48</strong> azaltmakta,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Yakıt tüketimi ve operasyon maliyetlerini ciddi biçimde düşürmekte,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Yaklaşık <strong>996 ton CO₂</strong> emisyonunu önlemektedir.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Mesafeyi <strong>%48</strong> azaltıyor,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Yakıt tüketimi ve operasyon maliyetlerini ciddi biçimde düşürüyor,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Yaklaşık <strong>996 ton CO₂</strong> emisyonunu önlüyordir.</p></li>
 </ul>
-<p style="text-align: justify">Bu tasarruflar, büyük hacimli ve düşük hız toleranslı deniz operasyonları için Süveyş’in küresel stratejik değerini artırmakta.</p>
+<p style="text-align: justify">Bu tasarruflar, büyük hacimli ve düşük hız toleranslı deniz operasyonları için Süveyş’in küresel stratejik değerini artırıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Operasyon Ekiplerinin Performansı</strong></h3>
 <p style="text-align: justify">Rabiee, SCA pilotları ve römorkör ekiplerinin profesyonelliğini övdü. Tugboat PERSISTENCE’ın kaptanı <strong>Viktor Kishlian</strong> da yaptığı açıklamada, Endonezya’dan Mısır’a kadar olan yolculuğun güvenli geçtiğini ve Kanal’ın “<strong>time and cost-saving</strong>” avantajlarını bir kez daha doğruladığını ifade etti.</p>

@@ -19,15 +19,15 @@ tags:
 - lojistik
 - tedarik zinciri
 ---
-<p>İsviçreli yük taşıma şirketi <a href="https://home.kuehne-nagel.com/"><u>Kuehne+Nagel</u></a>, 1911 yılında kurulan Kanada merkezli bir gümrük aracısı (Broker) olan <a href="https://farrow.com/"><u>Farrow</u></a><u> </u>'u satın aldı. Bu satın alma ile Kuehne+Nagel, Kuzey Amerika'daki varlığını genişletmeyi ve ABD sınırlarındaki Kanada ve Meksika ile olan yeteneklerini güçlendirmeyi amaçlamakta.</p>
+<p>İsviçreli yük taşıma şirketi <a href="https://home.kuehne-nagel.com/"><u>Kuehne+Nagel</u></a>, 1911 yılında kurulan Kanada merkezli bir gümrük aracısı (Broker) olan <a href="https://farrow.com/"><u>Farrow</u></a><u> </u>'u satın aldı. Bu satın alma ile Kuehne+Nagel, Kuzey Amerika'daki varlığını genişletmeyi ve ABD sınırlarındaki Kanada ve Meksika ile olan yeteneklerini güçlendirmeyi amaçlıyor.</p>
 <p><br></p>
-<p>Windsor, Ontario merkezli Farrow 'un Kanada ve Amerika Birleşik Devletleri'nde toplam 41 lokasyonda 830 çalışanı bulunmakta. Uluslararası ticaret, gümrük çözümleri ve entegre lojistik konularında 110 yılı aşkın deneyime sahip olan Farrow, sektörde tanınmış bir isimdir.&nbsp;</p>
+<p>Windsor, Ontario merkezli Farrow 'un Kanada ve Amerika Birleşik Devletleri'nde toplam 41 lokasyonda 830 çalışanı bulunuyor. Uluslararası ticaret, gümrük çözümleri ve entegre lojistik konularında 110 yılı aşkın deneyime sahip olan Farrow, sektörde tanınmış bir isimdir.&nbsp;</p>
 <p><br></p>
 <p>Farrow 'un Hizmetleri arasında;</p>
 <p><strong>1-</strong> Farrow Logistics (Kuzey Amerika ticaret depolama, dağıtım ve işlem),&nbsp;</p>
 <p><strong>2-</strong> Farrow Global Logistics (Uluslararası yük taşımacılığı ve küresel tedarik zinciri yönetimi),&nbsp;</p>
 <p><strong>3-</strong> Farrow Express (Hızlı teslimatlarla uzmanlaşma),</p>
 <p><strong>4-</strong> Farrow Consulting (İthalat/ihracat ve ticaret yönetimi danışmanlığı)</p>
-<p>bulunmaktadır.</p>
+<p>bulunuyordır.</p>
 <p><br></p>
 <p><a href="https://en.wikipedia.org/wiki/Farrow_(customs_brokerage)"><u>Wikipedia / Farrow</u></a></p>

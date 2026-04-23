@@ -24,9 +24,9 @@ tags:
 <p><br></p>
 <p>Trump yönetimi döneminde uygulamaya konulan tarifalar, Çin’den ithal edilen birçok ürünün maliyetini artırarak rekabet ortamını değiştirdi. Temu ve Shein gibi hızlı moda ve e-ticaret platformları, düşük maliyetli ürünleriyle Amerikan tüketicilerine hitap ediyor. Ancak, artan tarifalar bu işletmelerin fiyatlandırma stratejilerini ve kâr marjlarını olumsuz etkileyebilir.</p>
 <p><br></p>
-<p>Temu, Pinduoduo’nun bir iştiraki olarak bilinirken, Shein ise bağımsız bir Çin merkezli firma olarak faaliyet göstermektedir. Her iki şirket de geniş ürün yelpazesi ve hızlı teslimat süreleri ile dikkat çekmektedir. Ancak, ABD’deki tarifalar, bu şirketlerin lojistik ve tedarik zinciri maliyetlerini artırarak rekabet avantajlarını azaltabilir. Özellikle elektronik, tekstil ve aksesuar gibi yüksek tarifalı ürünlerde maliyet artışı kaçınılmaz olabilir.</p>
+<p>Temu, Pinduoduo’nun bir iştiraki olarak bilinirken, Shein ise bağımsız bir Çin merkezli firma olarak faaliyet gösteriyordir. Her iki şirket de geniş ürün yelpazesi ve hızlı teslimat süreleri ile dikkat çekiyordir. Ancak, ABD’deki tarifalar, bu şirketlerin lojistik ve tedarik zinciri maliyetlerini artırarak rekabet avantajlarını azaltabilir. Özellikle elektronik, tekstil ve aksesuar gibi yüksek tarifalı ürünlerde maliyet artışı kaçınılmaz olabilir.</p>
 <p><br></p>
-<p>Makale, tarifaların sadece maliyetler üzerinde değil, aynı zamanda tüketici davranışları üzerinde de etkili olabileceğini vurguluyor. Yüksek tarifalar, Amerikan tüketicilerini yerel üreticilere yönelebilir, bu da Temu ve Shein’in pazar payını azaltabilir. Bununla birlikte, her iki şirket de çeşitli stratejiler geliştirerek bu zorlukların üstesinden gelmeye çalışmaktadır. Örneğin, yerel depolama ve dağıtım merkezleri kurarak gümrük vergilerinden kaçınmayı hedefleyebilirler.</p>
+<p>Makale, tarifaların sadece maliyetler üzerinde değil, aynı zamanda tüketici davranışları üzerinde de etkili olabileceğini vurguluyor. Yüksek tarifalar, Amerikan tüketicilerini yerel üreticilere yönelebilir, bu da Temu ve Shein’in pazar payını azaltabilir. Bununla birlikte, her iki şirket de çeşitli stratejiler geliştirerek bu zorlukların üstesinden gelmeye çalışıyordır. Örneğin, yerel depolama ve dağıtım merkezleri kurarak gümrük vergilerinden kaçınmayı hedefleyebilirler.</p>
 <p><br></p>
 <p>Öte yandan, ticaret savaşlarının uzun vadede hangi yönde evrileceği belirsizlikler barındırmaktadır. Yeni yönetimin ticaret politikalarında yapacağı değişiklikler, Temu ve Shein gibi şirketlerin stratejilerini doğrudan etkileyebilir. Ayrıca, ABD’deki tüketicilerin fiyat hassasiyeti ve kalite beklentileri de bu şirketlerin başarısını belirlemede önemli rol oynayacaktır.</p>
 <p><br></p>
@@ -41,7 +41,7 @@ tags:
   <li><p><strong>Gelecekteki Ticaret Politikaları:</strong> ABD yönetiminin gelecekteki ticaret politikaları, şirketlerin stratejilerini belirlemede kritik rol oynayabilir.</p></li>
 </ol>
 <p><br></p>
-<p>Bu gelişmeler ışığında, Temu ve Shein’in ABD pazarındaki geleceği, sadece tarifalarla sınırlı kalmayıp, şirketlerin adaptasyon kabiliyetlerine de bağlı olarak şekillenecektir. Amerikan e-ticaret pazarında rekabetin artması beklenirken, bu şirketlerin stratejik hamleleri başarılarını sürdürebilmeleri için hayati önem taşımaktadır.</p>
+<p>Bu gelişmeler ışığında, Temu ve Shein’in ABD pazarındaki geleceği, sadece tarifalarla sınırlı kalmayıp, şirketlerin adaptasyon kabiliyetlerine de bağlı olarak şekillenecektir. Amerikan e-ticaret pazarında rekabetin artması beklenirken, bu şirketlerin stratejik hamleleri başarılarını sürdürebilmeleri için hayati önem taşıyordır.</p>
 <p><br></p>
 <p><br></p>
 <p>---</p>

@@ -25,7 +25,7 @@ tags:
 <p><br></p>
 <p>Bulutta depolanan veriler, AIS sinyali yayınlamayan gemiler, zararlı balıkçılık uygulamaları veya yasa dışı kaçakçılık gibi olağandışı faaliyetlerin gerçek zamanlı izlenmesini ve uyarılmasını destekliyor. Bu sayede, zamanında müdahaleler ve kurumlar arası iş birliği kolaylaştırılıyor.</p>
 <p><br></p>
-<p>Sirius Insight'ın CEO'su Malcolm Glaister, "Bu proje için Cambridge Pixel ile ortak olmaktan memnuniyet duyduk. Dünyanın en büyük savunma şirketlerinden bazılarıyla deneyime sahip bir şirketle çalışmak, denizde güvenlik ve emniyeti artıran yetenekler geliştirmemize yardımcı oldu" dedi. "Bu iş birliği, İngiltere denizcilik sektörünün yeniliğe olan bağlılığının bir kanıtıdır."</p>
+<p>Sirius Insight'ın CEO'su Malcolm Glaister, "Bu proje için Cambridge Pixel ile ortak oluyorn memnuniyet duyduk. Dünyanın en büyük savunma şirketlerinden bazılarıyla deneyime sahip bir şirketle çalışmak, denizde güvenlik ve emniyeti artıran yetenekler geliştirmemize yardımcı oldu" dedi. "Bu iş birliği, İngiltere denizcilik sektörünün yeniliğe olan bağlılığının bir kanıtıdır."</p>
 <p><br></p>
 <p>Proje, Cambridge Pixel'in AVx Video Link ve RadarWatch gibi modüler yazılım çözümlerini içeriyor. AVx Video Link, uzaktaki konumlardan kamera videolarını verimli bir şekilde dağıtarak görüntüleme, kayıt ve analizi sağlarken, RadarWatch birden fazla kamera ve radardan gelen sensör verilerinin, haritaların ve video akışlarının gerçek zamanlı görüntülenmesini sunuyor.</p>
 <p><br></p>

@@ -19,7 +19,7 @@ tags:
 - çeşitlilik yönetimi
 - liman işletmeciliği
 ---
-<p style="text-align: justify">Shoreham Port, Avrupa Denizcilik Örgütleri Birliği’nin (ESPO) 2025 Ödülü’nü kazanarak, denizcilik sektöründe kapsayıcılık ve eşitlik alanında örnek bir başarıya imza attı. Liman, <strong>“Diversity &amp; Inclusion Strategy”</strong> adlı projesiyle özellikle kadın çalışanların gelişimini destekleyen ve kurumsal kültürü kapsayıcı değerlere göre yeniden şekillendiren bir dönüşüm gerçekleştirmekte.</p>
+<p style="text-align: justify">Shoreham Port, Avrupa Denizcilik Örgütleri Birliği’nin (ESPO) 2025 Ödülü’nü kazanarak, denizcilik sektöründe kapsayıcılık ve eşitlik alanında örnek bir başarıya imza attı. Liman, <strong>“Diversity &amp; Inclusion Strategy”</strong> adlı projesiyle özellikle kadın çalışanların gelişimini destekleyen ve kurumsal kültürü kapsayıcı değerlere göre yeniden şekillendiren bir dönüşüm gerçekleştiriyor.</p>
 <p><br></p>
 <p style="text-align: justify">2020 yılında başlatılan strateji, dört yılda Shoreham Port’u <strong>kadın temsilinde sektör lideri</strong> konumuna taşımış durumda.</p>
 <ul>
@@ -36,9 +36,9 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Menopoz farkındalık programları</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Kadınlara özel PPE (kişisel koruyucu ekipman)</strong> tasarımları,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Kadın çalışanlar için kariyer geliştirme destekleri<br>
-yer almakta.</p></li>
+yer alıyor.</p></li>
 </ul>
-<p style="text-align: justify">Bu uygulamalar, limanda hem kadınların katılımını artırmakta hem de iş gücü bağlılığını güçlendirmekte.</p>
+<p style="text-align: justify">Bu uygulamalar, limanda hem kadınların katılımını artırıyor hem de iş gücü bağlılığını güçlendiriyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Sektörde birçok ilke imza atan bir liman</strong></h4>
 <p style="text-align: justify">Shoreham Port, çeşitlilik çalışmalarında uzun süredir öncü konumda bulunuyor:</p>

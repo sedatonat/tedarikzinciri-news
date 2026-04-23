@@ -24,7 +24,7 @@ tags:
 <p><br></p>
 <p style="text-align: justify">CMA CGM’nin bu yatırımı, şirketin son beş yılda hız kazanan <strong>dikey entegre lojistik yapılanmasının</strong> bir devamı niteliğinde. Şirket 2019’da CEVA Logistics’e çoğunluk hissesi alarak kara taşımacılığı ve depolama ağını genişletmişti. Bunu, 2022’de otomotiv lojistiği devi <strong>GEFCO’nun satın alınması</strong>, 2025’te ise İngiltere’nin en büyük demiryolu yük taşımacılığı operatörlerinden <strong>Freightliner UK’nin satın alınması</strong> izledi.</p>
 <p><br></p>
-<p style="text-align: justify">Bu zincir, CMA CGM’nin artık yalnızca denizyolu taşımacılığı yapan bir hat olmaktan çıkarak <strong>uçtan uca entegre lojistik devi</strong> hâline geldiğini gösteriyor. Hamburg’daki CTH yatırımı, bu vizyonun liman operasyonları tarafına yapılan stratejik bir genişleme olarak değerlendiriliyor.</p>
+<p style="text-align: justify">Bu zincir, CMA CGM’nin artık yalnızca denizyolu taşımacılığı yapan bir hat oluyorn çıkarak <strong>uçtan uca entegre lojistik devi</strong> hâline geldiğini gösteriyor. Hamburg’daki CTH yatırımı, bu vizyonun liman operasyonları tarafına yapılan stratejik bir genişleme olarak değerlendiriliyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Terminal yatırımının önemi</strong></h4>
 <p style="text-align: justify">Hamburg Limanı, MSC, Maersk, Hapag-Lloyd, COSCO ve ONE gibi büyük taşıyıcılar için Kuzey Avrupa’nın en stratejik merkezlerinden biri. CTH’nin Western Expansion projesi kapsamında:</p>
@@ -33,7 +33,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>1.050 metre yeni rıhtım</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Daha yüksek otomasyon,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Daha büyük gemiler için artırılmış draft<br>
-planlanmakta.</p></li>
+planlanıyor.</p></li>
 </ul>
 <p style="text-align: justify">CMA CGM’nin azınlık hissesiyle katılımı, hem terminal modernizasyonunu destekliyor hem de şirketin Avrupa içi intermodal yapısına daha fazla erişim sağlıyor.</p>
 <p><br></p>
@@ -47,19 +47,19 @@ planlanmakta.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">hava kargo<br>
 gibi alanlarda agresif genişlemelere yöneldi.</p></li>
 </ul>
-<p style="text-align: justify">CMA CGM de bu stratejiyi takip eden güçlü aktörlerden biri olarak öne çıkmakta. Freightliner UK’nin satın alınmasıyla İngiltere’de <strong>demiryolu omurgası</strong>, CEVA ile küresel <strong>depolama ve kara taşımacılığı</strong>, CTH ile <strong>liman operasyonlarında</strong> önemli bir ayak kazanmış durumda.</p>
+<p style="text-align: justify">CMA CGM de bu stratejiyi takip eden güçlü aktörlerden biri olarak öne çıkıyor. Freightliner UK’nin satın alınmasıyla İngiltere’de <strong>demiryolu omurgası</strong>, CEVA ile küresel <strong>depolama ve kara taşımacılığı</strong>, CTH ile <strong>liman operasyonlarında</strong> önemli bir ayak kazanmış durumda.</p>
 <p><br></p>
 <p style="text-align: justify">Bu trend, 19–20 Kasım’da Milano’da düzenlenecek <strong>European Silk Road Summit</strong>’in ana tartışma başlıklarından biri olacak. Summit’te büyük hatların neden giderek “tam entegre lojistik grupları” hâline geldiği ve tedarik zinciri dikeylerinin nasıl yeniden şekillendiği ele alınacak.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>CTH ile Avrupa ağında güçlenme</strong></h4>
-<p style="text-align: justify">CMA CGM, özellikle Asya–Kuzey Avrupa koridorunda kapasitesini LNG yakıtlı <strong>23.000 TEU’luk FAL gemileri</strong> ile taşımakta. Hamburg’daki CTH yatırımının sağlayacağı avantajlar:</p>
+<p style="text-align: justify">CMA CGM, özellikle Asya–Kuzey Avrupa koridorunda kapasitesini LNG yakıtlı <strong>23.000 TEU’luk FAL gemileri</strong> ile taşıyor. Hamburg’daki CTH yatırımının sağlayacağı avantajlar:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">FAL servisi için daha güçlü terminal erişimi,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Hamburg hinterlandındaki demiryolu bağlantılarına doğrudan erişim (özellikle <strong>EUROKOMBI</strong>),</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Avrupa içi intermodal ağda time-to-market avantajı,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Kuzey Avrupa kapılarında operasyonel esneklik.</p></li>
 </ul>
-<p style="text-align: justify">Tüm bu unsurlar CMA CGM’nin Avrupa’daki varlığını daha dirençli, bağımsız ve düşük karbonlu bir ağ hâline getirmekte.</p>
+<p style="text-align: justify">Tüm bu unsurlar CMA CGM’nin Avrupa’daki varlığını daha dirençli, bağımsız ve düşük karbonlu bir ağ hâline getiriyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Önemli Notlar:</strong></h4>
 <ul>

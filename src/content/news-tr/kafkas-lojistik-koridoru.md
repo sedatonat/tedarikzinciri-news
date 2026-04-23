@@ -20,7 +20,7 @@ tags:
 - Zengezur Koridoru
 - Orta Asya
 ---
-<p style="text-align: justify"><strong>Ermenistan ve Azerbaycan</strong> arasında sağlanan <strong>politik uzlaşı</strong>, <strong>Kafkasya’nın jeostratejik taşımacılık haritasını kökten değiştirmekte.</strong> On yıllardır süren sınır kapalıllığı ve transit yasakları, iki ülke arasında <strong>yeni ticaret ve transit koridorlarının</strong> açılmasıyla sona eriyor.</p>
+<p style="text-align: justify"><strong>Ermenistan ve Azerbaycan</strong> arasında sağlanan <strong>politik uzlaşı</strong>, <strong>Kafkasya’nın jeostratejik taşımacılık haritasını kökten değiştiriyor.</strong> On yıllardır süren sınır kapalıllığı ve transit yasakları, iki ülke arasında <strong>yeni ticaret ve transit koridorlarının</strong> açılmasıyla sona eriyor.</p>
 <p><br></p>
 <p style="text-align: justify">Bu gelişme, <strong>Avrupa ile Orta Asya arasındaki yük taşımacılığı</strong> açısından <strong>bölgesel bir dönüm noktası</strong> niteliğinde.</p>
 <p><br></p>

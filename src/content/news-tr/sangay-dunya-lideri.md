@@ -19,7 +19,7 @@ tags:
 - liman performansı
 - küresel lojistik
 ---
-<p style="text-align: justify">Çin’in kıyı şeridindeki büyük limanları, 2025’in son çeyreğine girilirken güçlü bir performans ortaya koymakta. Küresel lojistik ağlarında devam eden belirsizliğe rağmen, <strong>Şanghay Limanı</strong> yılın dokuz ayında <strong>40 milyon TEU eşiğini aşarak</strong> dünya liderliğini bir kez daha pekiştirdi.</p>
+<p style="text-align: justify">Çin’in kıyı şeridindeki büyük limanları, 2025’in son çeyreğine girilirken güçlü bir performans ortaya koyuyor. Küresel lojistik ağlarında devam eden belirsizliğe rağmen, <strong>Şanghay Limanı</strong> yılın dokuz ayında <strong>40 milyon TEU eşiğini aşarak</strong> dünya liderliğini bir kez daha pekiştirdi.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Şanghay: Dünya lideri konumunu güçlendiriyor</strong></h4>
 <p style="text-align: justify">Eylül ayında <strong>4.83 milyon TEU</strong> elleçleyen Şanghay, önceki aya göre <strong>%13,6</strong> büyüme kaydetti. Bu güçlü ivme, limanın yılbaşından bu yana toplam hacmini <strong>41.5 milyon TEU’ya</strong> çıkararak yıllık bazda <strong>%6,2</strong> artış anlamına geliyor.</p>
@@ -42,7 +42,7 @@ tags:
 <p style="text-align: justify">Shenzhen ve Guangzhou’da aylık düşüşler görülse de yıllık bazdaki artışlar limanların genel olarak güçlü seyrini sürdürdüğünü gösteriyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Yükselen yıldızlar: Beibu Gulf, Yingkou ve Xiamen</strong></h4>
-<p style="text-align: justify">Çin’in orta ölçekli ama hızla yükselen limanları da dikkat çekici büyüme kaydetmekte:</p>
+<p style="text-align: justify">Çin’in orta ölçekli ama hızla yükselen limanları da dikkat çekici büyüme kaydediyor:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Beibu Gulf:</strong> 840.000 TEU ile aylık <strong>%12</strong> artış</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Yingkou:</strong> <strong>%11,4</strong> artış</p></li>
@@ -58,9 +58,9 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Red Sea/Süveyş belirsizliği,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Ümit Burnu yönlendirmeleri,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Avrupa–ABD talep dalgalanmaları<br>
-gibi etkenlerle karşı karşıya olmasına rağmen Çin limanları güçlü bir ivme korumakta.</p></li>
+gibi etkenlerle karşı karşıya olmasına rağmen Çin limanları güçlü bir ivme koruyor.</p></li>
 </ul>
-<p style="text-align: justify">Çin liman sisteminin esnekliği, hinterland bağlantılarının çeşitliliği ve yüksek otomasyon seviyesi, ülkenin ihracat–ithalat akışlarını desteklemekte.</p>
+<p style="text-align: justify">Çin liman sisteminin esnekliği, hinterland bağlantılarının çeşitliliği ve yüksek otomasyon seviyesi, ülkenin ihracat–ithalat akışlarını destekliyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Önemli Notlar:</strong></h4>
 <ul>
@@ -68,7 +68,7 @@ gibi etkenlerle karşı karşıya olmasına rağmen Çin limanları güçlü bir
   <li style="text-align: justify"><p style="text-align: justify">Ningbo-Zhoushan, <strong>32.5 milyon TEU</strong> ile %9,9 yıllık büyüme kaydetti.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Qingdao, Tianjin, Xiamen, Beibu Gulf gibi limanlar çift haneli veya güçlü aylık artışlar gösterdi.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Shenzhen ve Guangzhou’da kısa dönemli düşüş olsa da yıllık performans pozitif.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Çin’in toplam liman sistemi küresel belirsizlik ortamında <strong>yüksek dayanıklılık</strong> sergilemekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Çin’in toplam liman sistemi küresel belirsizlik ortamında <strong>yüksek dayanıklılık</strong> sergiliyor.</p></li>
 </ul>
 <p><br></p>
 <p>----------</p>

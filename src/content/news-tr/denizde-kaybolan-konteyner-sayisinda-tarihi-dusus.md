@@ -23,7 +23,7 @@ tags:
 <p><br></p>
 <p>WSC, bu olumlu gelişmeye rağmen deniz güvenliği önlemlerinin sıkılaştırılması ve sürekli tetikte olunması gerektiğinin altını çizmiştir. Denizde kaybolan her konteynerin bir fazla olduğunu vurgulayan WSC, bu yaklaşım doğrultusunda Uluslararası Denizcilik Örgütü (IMO) tarafından 2026 yılında yürürlüğe girecek olan kaybolan tüm konteynerlerin zorunlu raporlanması kuralını memnuniyetle karşılamıştır.</p>
 <p><br></p>
-<p>WSC, konteynerlerin denize düşmesini önlemek amacıyla yeni standartlar oluşturmak için çalışmalar yürütmektedir. Bu amaçla başlatılan Marin TopTier Ortak Endüstri Projesi, denize düşen konteynerlerin nedenlerini, bu durumdan kaçınma ve yönetme yollarını içeren öneriler ve eğitim materyalleri derlemiştir.&nbsp;</p>
+<p>WSC, konteynerlerin denize düşmesini önlemek amacıyla yeni standartlar oluşturmak için çalışmalar yürütüyordir. Bu amaçla başlatılan Marin TopTier Ortak Endüstri Projesi, denize düşen konteynerlerin nedenlerini, bu durumdan kaçınma ve yönetme yollarını içeren öneriler ve eğitim materyalleri derlemiştir.&nbsp;</p>
 <p><br></p>
 <p>TopTier grubu, bu yılın ilerleyen dönemlerinde bilimsel araştırmalar ve analizlerden elde edilen sonuçlar ve önerileri içeren nihai raporunu yayınlayacaktır. Rapor, endüstri için en iyi uygulamalar, güncellenmiş güvenlik, konteyner ve bağlama standartları ile düzenleyici güncellemeler için rehberlik ve öneriler içerecektir.</p>
 <p><br></p>

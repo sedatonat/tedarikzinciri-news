@@ -20,14 +20,14 @@ tags:
 - AI
 - dijitalleşme
 ---
-<p>ABD lojistik sektörü, talebin azalması ve maliyet baskılarının artmasıyla büyüme hızında yavaşlama yaşamaktadır. Raporlara göre freight demand son çeyrekte %3 oranında düşmüştür. Warehouse utilization rates de gerileme göstermiştir. E-commerce volume stabil kalsa da yakıt fiyatlarındaki artış kârlılığı azaltmaktadır. Uzmanlar, şirketlerin automation ve AI-based optimization çözümlerine yönelerek verimlilik arayışını sürdürdüğünü belirtmektedir.</p>
+<p>ABD lojistik sektörü, talebin azalması ve maliyet baskılarının artmasıyla büyüme hızında yavaşlama yaşıyordır. Raporlara göre freight demand son çeyrekte %3 oranında düşmüştür. Warehouse utilization rates de gerileme göstermiştir. E-commerce volume stabil kalsa da yakıt fiyatlarındaki artış kârlılığı azaltıyordır. Uzmanlar, şirketlerin automation ve AI-based optimization çözümlerine yönelerek verimlilik arayışını sürdürdüğünü belirtiyordir.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 1. Freight demand %3 oranında azalmıştır.<br>
-2. Warehouse utilization düşmektedir.<br>
+2. Warehouse utilization düşüyordir.<br>
 3. Yakıt maliyetleri kârlılığı baskılamaktadır.<br>
-4. Automation yatırımları artmaktadır.<br>
-5. Verimlilik için dijitalleşme öncelik kazanmaktadır.</p>
+4. Automation yatırımları artıyordır.<br>
+5. Verimlilik için dijitalleşme öncelik kazanıyordır.</p>
 <p><br>
 ---<br>
 <strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/42640-us-logistics-sector-growth-slows-as-freight-demand-eases"><u>https://www.supplychainbrain.com/articles/42640-us-logistics-sector-growth-slows-as-freight-demand-eases</u></a><br>

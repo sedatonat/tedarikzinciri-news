@@ -20,9 +20,9 @@ tags:
 - e-ticaret
 - ABD
 ---
-<p>Amazon’un kırsal ABD’de onlarca depo kurma planı, son kilometre kapsamını genişletmekte. Plan, micro-fulfillment centers, regional sortation hubs, ve local delivery stations ekosistemiyle hizmet verimini artırmakta. Yatırım, teslimat süresini kısaltmakta, erişimi artırmakta ve Prime sözünü daha çok bölgede mümkün kılmakta. Ağ tasarımında hub-and-spoke ile point-to-point arasında hibrit bir kurgu benimsenmekte; stok yerleşimi AI demand planning ile yönetilmekte. Yerel istihdam ve KOBİ tedarik zincirleri üzerinde çarpan etkisi beklenmekte.&nbsp;</p>
+<p>Amazon’un kırsal ABD’de onlarca depo kurma planı, son kilometre kapsamını genişlediyor. Plan, micro-fulfillment centers, regional sortation hubs, ve local delivery stations ekosistemiyle hizmet verimini artırıyor. Yatırım, teslimat süresini kısaltmakta, erişimi artırıyor ve Prime sözünü daha çok bölgede mümkün kılıyor. Ağ tasarımında hub-and-spoke ile point-to-point arasında hibrit bir kurgu benimseniyor; stok yerleşimi AI demand planning ile yönetiliyor. Yerel istihdam ve KOBİ tedarik zincirleri üzerinde çarpan etkisi bekleniyor.&nbsp;</p>
 <p><br></p>
-<p>Sonuç olarak proje, hem lojistik kapasiteyi artırmakta hem de kırsal pazarların e-ticarete erişimini demokratikleştirmekte.</p>
+<p>Sonuç olarak proje, hem lojistik kapasiteyi artırıyor hem de kırsal pazarların e-ticarete erişimini demokratikleştirmekte.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 1. Kırsal ağ genişlemesi teslimatı hızlandırır.<br>

@@ -19,8 +19,8 @@ tags:
 - tehlikeli maddeler
 - dijital platformlar
 ---
-<p>Konteyner gemilerinde meydana gelen yangınlar, denizcilik sektöründe giderek artan bir endişe kaynağı haline gelmiştir. Bu yangınlar, sadece maddi kayıplara yol açmakla kalmaz, aynı zamanda çevresel felaketlere ve insan hayatının tehlikeye girmesine neden olur. Bu sorunun temelinde, yetersiz veri yönetimi ve paylaşımı yatmaktadır. Özellikle tehlikeli maddelerin yanlış sınıflandırılması veya hiç bildirilmemesi, yangın riskini önemli ölçüde artırır.</p>
-<p>Yüklerin doğru ve detaylı bir şekilde beyan edilmesi, gemi mürettebatının ve acil durum ekiplerinin olası tehlikelere karşı hazırlıklı olmasını sağlar. Ancak mevcut sistemlerdeki eksiklikler ve bazı yük sahiplerinin kasıtlı olarak yanlış beyanları, bu süreci zorlaştırmaktadır. Bu nedenle, daha şeffaf ve etkili bir veri paylaşımına ihtiyaç vardır.</p>
+<p>Konteyner gemilerinde meydana gelen yangınlar, denizcilik sektöründe giderek artan bir endişe kaynağı haline gelmiştir. Bu yangınlar, sadece maddi kayıplara yol açmakla kalmaz, aynı zamanda çevresel felaketlere ve insan hayatının tehlikeye girmesine neden olur. Bu sorunun temelinde, yetersiz veri yönetimi ve paylaşımı yatıyordır. Özellikle tehlikeli maddelerin yanlış sınıflandırılması veya hiç bildirilmemesi, yangın riskini önemli ölçüde artırır.</p>
+<p>Yüklerin doğru ve detaylı bir şekilde beyan edilmesi, gemi mürettebatının ve acil durum ekiplerinin olası tehlikelere karşı hazırlıklı olmasını sağlar. Ancak mevcut sistemlerdeki eksiklikler ve bazı yük sahiplerinin kasıtlı olarak yanlış beyanları, bu süreci zorlaştırıyordır. Bu nedenle, daha şeffaf ve etkili bir veri paylaşımına ihtiyaç vardır.</p>
 <p><br></p>
 <p>Teknolojik yenilikler bu alanda büyük bir potansiyele sahiptir. Dijital platformlar ve blok zinciri teknolojisi, yük bilgilerini güvenli ve değiştirilemez bir şekilde saklamaya yardımcı olabilir. Böylece tüm paydaşlar gerçek zamanlı ve doğru verilere erişebilir, potansiyel riskler hızlı bir şekilde tespit edilebilir. Bu teknolojilerin kullanımı, veri yönetimini geliştirerek yangın riskini azaltabilir.</p>
 <p><br></p>
@@ -32,7 +32,7 @@ tags:
 <p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>
-  <li><p>Konteyner gemilerinde yangınlar ciddi riskler taşımaktadır.</p></li>
+  <li><p>Konteyner gemilerinde yangınlar ciddi riskler taşıyordır.</p></li>
   <li><p>Yetersiz veri yönetimi ve paylaşımı, yangın riskini artırır.</p></li>
   <li><p>Tehlikeli maddelerin yanlış beyanı büyük bir sorundur.</p></li>
   <li><p>Dijital teknolojiler, veri yönetimini iyileştirebilir.</p></li>

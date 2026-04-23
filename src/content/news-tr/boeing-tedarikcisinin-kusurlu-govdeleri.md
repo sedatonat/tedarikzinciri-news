@@ -31,7 +31,7 @@ tags:
   <li><p>Paredes, Spirit'te çalıştığı süre boyunca sürekli kusurlar bulduğunu ve bu sorunları küçümsemesi gerektiği talimatını aldığını belirtti.</p></li>
   <li><p>Boeing'in kusurlu parçaların farkında olduğu ve bunun büyük bir kaza olmasının zaman meselesi olduğu ifade edildi.</p></li>
   <li><p>Spirit AeroSystems, çalışanları endişelerini dile getirmeye teşvik ediyor ve iş yerinde güvenlik standartlarını iyileştirmeye devam ettiğini söylüyor.</p></li>
-  <li><p>Bu iddialar, Boeing 787 Dreamliner uçaklarının gövdelerinin doğru şekilde birleştirilmediği ve zamanla parçalanabileceği iddialarıyla aynı döneme denk gelmektedir.</p></li>
+  <li><p>Bu iddialar, Boeing 787 Dreamliner uçaklarının gövdelerinin doğru şekilde birleştirilmediği ve zamanla parçalanabileceği iddialarıyla aynı döneme denk geliyordir.</p></li>
 </ol>
 <p><br></p>
 <p><strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/39684-whistleblower-claims-boeing-supplier-delivered-defective-737-max-fuselages-for-years"><u>https://www.supplychainbrain.com/articles/39684-whistleblower-claims-boeing-supplier-delivered-defective-737-max-fuselages-for-years</u></a></p>

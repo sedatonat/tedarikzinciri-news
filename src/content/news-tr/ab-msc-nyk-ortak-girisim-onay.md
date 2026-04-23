@@ -28,7 +28,7 @@ tags:
 <p style="text-align: justify">Projeye taraf şirketlerden:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>MSC tarafını</strong>, grubun Kenya’daki freight forwarding ve lojistik iştiraki olan <strong>AGL Kenya Limited</strong> temsil ediyor.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>NYK tarafını</strong>, şirketin küresel forwarding ve kontrat lojistik kolu olan <strong>Yusen Logistics Global Management Co., Ltd.</strong> temsil etmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>NYK tarafını</strong>, şirketin küresel forwarding ve kontrat lojistik kolu olan <strong>Yusen Logistics Global Management Co., Ltd.</strong> temsil ediyor.</p></li>
 </ul>
 <p style="text-align: justify">Her iki taraf da kurulacak yeni şirkette <strong>joint control</strong> sahibi olacak. Ortak girişim <strong>Kenya’da</strong> kurulacak ancak resmi ismi ve marka konumlandırması henüz tartışma aşamasında.</p>
 <p><br></p>
@@ -42,14 +42,14 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">bölgesel ticaret anlaşmalarının artması (AfCFTA),</p></li>
   <li style="text-align: justify"><p style="text-align: justify">e-ticaret penetrasyonunun yükselmesi</p></li>
 </ul>
-<p style="text-align: justify">gibi unsurlar freight forwarding ve kontrat lojistiği segmentlerinde yüksek büyüme potansiyeli yaratmakta. Buna karşın kıtanın birçok bölgesinde lojistik ağlar hâlen parçalı, güvenilir hizmet sağlayıcıları sınırlı ve multimodal altyapılar gelişmekte. MSC–NYK ortak girişimi bu boşluğu doldurmayı hedeflemekte.</p>
+<p style="text-align: justify">gibi unsurlar freight forwarding ve kontrat lojistiği segmentlerinde yüksek büyüme potansiyeli yaratıyor. Buna karşın kıtanın birçok bölgesinde lojistik ağlar hâlen parçalı, güvenilir hizmet sağlayıcıları sınırlı ve multimodal altyapılar gelişiyor. MSC–NYK ortak girişimi bu boşluğu doldurmayı hedefliyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>MSC ve NYK’nin Stratejik Güçleri</strong></h3>
 <p style="text-align: justify"><strong>MSC Group</strong></p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Dünya çapında konteyner taşımacılığında en büyük operatörlerden biri.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Port handling</strong>, <strong>logistics</strong>, <strong>cruise services</strong> gibi uçtan uca hizmetlere sahip.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Afrika’da yıllardır güçlü bir hat ağı işletmekte; özellikle Batı ve Doğu Afrika limanlarında yoğun varlık sürdürmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Afrika’da yıllardır güçlü bir hat ağı işlediyor; özellikle Batı ve Doğu Afrika limanlarında yoğun varlık sürdürüyor.</p></li>
 </ul>
 <p style="text-align: justify"><strong>NYK Group</strong></p>
 <ul>
@@ -61,9 +61,9 @@ tags:
 <h3 style="text-align: justify"><strong>Rekabet Etkisi ve AB Değerlendirmesi</strong></h3>
 <p style="text-align: justify">Komisyon’un analizine göre, ortak girişim Afrika pazarında iki büyük küresel lojistik oyuncusunun birleşik gücünü sunacak olsa da, EEA içinde rekabet açısından risk yaratmamakta. Çünkü:</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">Afrika yönlü forwarding pazarında çok sayıda küresel ve bölgesel oyuncu bulunmakta,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Afrika yönlü forwarding pazarında çok sayıda küresel ve bölgesel oyuncu bulunuyor,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Ortak girişim EEA içi lojistik faaliyetlerinde sınırlı etkiye sahip,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">MSC ve NYK’nin AB içi core activities alanları farklı segmentlerde yoğunlaşmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">MSC ve NYK’nin AB içi core activities alanları farklı segmentlerde yoğunlaşıyor.</p></li>
 </ul>
 <p style="text-align: justify">Bu nedenle işlem <strong>conditional approval</strong> değil, doğrudan onay aldı.</p>
 <p><br></p>

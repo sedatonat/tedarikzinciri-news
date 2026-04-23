@@ -20,10 +20,10 @@ tags:
 <p><br>
 New York Valisi Kathy Hochul, Congestion Pricing politikasını savunmak için Donald Trump ile görüşmekte.&nbsp;</p>
 <p><br></p>
-<p>Görüşme, federal fonlar ve regülasyon desteği gibi kritik başlıkları içermekte. Valilik, politikanın toplu taşımaya kalıcı finansman sağlayacağını ve şehir içi emisyonları azaltacağını vurgulamakta. Muhalif kanat, iş dünyası ve düşük gelirli sürücüler üzerindeki olası yükleri öne çıkarmakta. Uygulama tasarımında muafiyetler, düşük gelirli sürücüler için krediler ve traffic diversion risklerini sınırlayan önlemler gündemdedir.</p>
+<p>Görüşme, federal fonlar ve regülasyon desteği gibi kritik başlıkları içeriyor. Valilik, politikanın toplu taşımaya kalıcı finansman sağlayacağını ve şehir içi emisyonları azaltacağını vurguluyor. Muhalif kanat, iş dünyası ve düşük gelirli sürücüler üzerindeki olası yükleri öne çıkarıyor. Uygulama tasarımında muafiyetler, düşük gelirli sürücüler için krediler ve traffic diversion risklerini sınırlayan önlemler gündemdedir.</p>
 <p><br></p>
 <p>Önemli Notlar:<br>
-1. Görüşme federal destek ve fonları kapsamaktadır.<br>
+1. Görüşme federal destek ve fonları kapsıyordır.<br>
 2. Politika toplu taşıma finansmanını hedefler.<br>
 3. Muhalefet maliyet baskısına odaklanır.<br>
 4. Muafiyet ve kredi mekanizmaları tartışılır.<br>

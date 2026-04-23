@@ -19,11 +19,11 @@ tags:
 - Soren Toft
 - ticaret savaşı
 ---
-<p style="text-align: justify">ABD yönetimi, Çin'de inşa edilen veya Çin bayrağı taşıyan gemilerin ABD limanlarına yanaşması durumunda yeni ücretler uygulamayı planlamakta. Bu adım, yerli gemi inşa endüstrisini canlandırmayı ve Çin'in küresel deniz taşımacılığındaki etkisini azaltmayı amaçlamakta. Bu girişim, hem Cumhuriyetçi hem de Demokrat milletvekillerinin desteğini almakta, zira Çin'in denizcilik hakimiyeti, ABD'nin deniz kuvvetlerinin hazırlığını tehdit etmekte.&nbsp;</p>
+<p style="text-align: justify">ABD yönetimi, Çin'de inşa edilen veya Çin bayrağı taşıyan gemilerin ABD limanlarına yanaşması durumunda yeni ücretler uygulamayı planlıyor. Bu adım, yerli gemi inşa endüstrisini canlandırmayı ve Çin'in küresel deniz taşımacılığındaki etkisini azaltmayı amaçlıyor. Bu girişim, hem Cumhuriyetçi hem de Demokrat milletvekillerinin desteğini alıyor, zira Çin'in denizcilik hakimiyeti, ABD'nin deniz kuvvetlerinin hazırlığını tehdit ediyor.&nbsp;</p>
 <p><br></p>
-<p style="text-align: justify">Çinli tersaneler, 1999'da %5 olan küresel ticari gemi tonajı üretim paylarını %50'nin üzerine çıkarmış durumda. Bu artış, Japonya ve Güney Kore'deki tersanelerin aleyhine gerçekleşti. ABD'nin gemi inşa sektörü ise 1970'lerde zirve yapmış olup, şu anda endüstri üretiminin çok küçük bir kısmını oluşturmakta.</p>
+<p style="text-align: justify">Çinli tersaneler, 1999'da %5 olan küresel ticari gemi tonajı üretim paylarını %50'nin üzerine çıkarmış durumda. Bu artış, Japonya ve Güney Kore'deki tersanelerin aleyhine gerçekleşti. ABD'nin gemi inşa sektörü ise 1970'lerde zirve yapmış olup, şu anda endüstri üretiminin çok küçük bir kısmını oluşturuyor.</p>
 <p><br></p>
-<p style="text-align: justify">Taslak yürütme emri, Çin'de inşa edilen veya Çin bayrağı taşıyan gemileri içeren filolara ait herhangi bir geminin ABD limanına girmesi durumunda ücretler uygulanmasını önermekte. Bu plan, <strong>COSCO</strong>, <strong>MSC</strong>, <strong>Maersk</strong> ve <strong>Evergreen Marine</strong> gibi büyük konteyner taşımacılığı şirketlerini etkileyebilir. Ayrıca, ABD müttefiklerinin benzer önlemler alması istenmekte; aksi takdirde Çin yapımı kargo elleçleme ekipmanlarına tarifeler uygulanması gibi misillemelerle karşılaşabilirler. ​</p>
+<p style="text-align: justify">Taslak yürütme emri, Çin'de inşa edilen veya Çin bayrağı taşıyan gemileri içeren filolara ait herhangi bir geminin ABD limanına girmesi durumunda ücretler uygulanmasını öneriyor. Bu plan, <strong>COSCO</strong>, <strong>MSC</strong>, <strong>Maersk</strong> ve <strong>Evergreen Marine</strong> gibi büyük konteyner taşımacılığı şirketlerini etkileyebilir. Ayrıca, ABD müttefiklerinin benzer önlemler alması istenmekte; aksi takdirde Çin yapımı kargo elleçleme ekipmanlarına tarifeler uygulanması gibi misillemelerle karşılaşabilirler. ​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>MSC</strong> CEO'su <strong>Soren Toft</strong>, bu yeni ücretlerin uygulanması durumunda, şirketinin ABD limanlarına yaptığı ziyaretleri azaltarak bu ücretlere maruz kalmayı sınırlayabileceğini belirtti. Toft, bu tür ücretlerin bazı rotaları ekonomik olarak sürdürülemez hale getirebileceğini ve kapasitenin ABD'den çekilerek daha ekonomik bölgelere yönlendirilebileceğini ifade etti. ​</p>
 <p><br></p>
@@ -31,9 +31,9 @@ tags:
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">ABD, Çin'de inşa edilen veya Çin bayrağı taşıyan gemilere liman ücretleri uygulamayı planlamakta.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Bu adım, yerli gemi inşa endüstrisini canlandırmayı ve Çin'in denizcilik sektöründeki etkisini azaltmayı hedeflemekte.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>MSC</strong> CEO'su <strong>Soren Toft</strong>, bu ücretlerin bazı rotaları ekonomik olarak sürdürülemez hale getirebileceğini belirtmekte.​<a href="https://www.reuters.com/world/us/us-levy-fees-ships-linked-china-push-allies-do-similar-draft-exec-order-2025-03-06/" rel="noopener" target="_blank">reuters.com</a></p></li>
+  <li style="text-align: justify"><p style="text-align: justify">ABD, Çin'de inşa edilen veya Çin bayrağı taşıyan gemilere liman ücretleri uygulamayı planlıyor.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Bu adım, yerli gemi inşa endüstrisini canlandırmayı ve Çin'in denizcilik sektöründeki etkisini azaltmayı hedefliyor.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>MSC</strong> CEO'su <strong>Soren Toft</strong>, bu ücretlerin bazı rotaları ekonomik olarak sürdürülemez hale getirebileceğini belirtiyor.​<a href="https://www.reuters.com/world/us/us-levy-fees-ships-linked-china-push-allies-do-similar-draft-exec-order-2025-03-06/" rel="noopener" target="_blank">reuters.com</a></p></li>
   <li style="text-align: justify"><p style="text-align: justify">ABD, müttefiklerinden benzer önlemler almasını istemekte; aksi takdirde misilleme tedbirleri uygulayabilir.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Bu gelişmeler, küresel deniz taşımacılığı sektöründe önemli etkilere yol açabilir ve şirketlerin rotalarını yeniden değerlendirmesine neden olabilir.</p></li>
 </ul>

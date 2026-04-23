@@ -24,23 +24,23 @@ tags:
 <p style="text-align: justify">Başkan, açıklamasında bu araçların <strong>benzinli, elektrikli veya hibrit</strong> motor seçenekleriyle üretilebileceğini belirtti. Ancak açıklama, kapsamlı bir politika belgesi veya düzenleyici çerçeve ile desteklenmedi. <strong>White House</strong> ve <strong>Department of Transportation (DOT)</strong>, üretimin nerede yapılacağı, hangi güvenlik veya emisyon standartlarının değiştirileceği ya da bu adımın hangi teşviklerle destekleneceği konusunda ayrıntı paylaşmadı.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Japon Kei Car Modeli Referans Alınıyor</strong></h3>
-<p style="text-align: justify">Trump’ın ilgisinin, Japonya’da yaygın olarak kullanılan <strong>kei cars</strong> üzerinden şekillendiği belirtiliyor. Kei cars; Japonya’da özel vergi avantajları, daha düşük sigorta maliyetleri ve farklı regülasyonlarla desteklenen, küçük hacimli ve düşük güçlü araçlar olarak biliniyor. Bu model, yoğun şehir içi kullanım için ekonomik ve pratik bir çözüm sunmakta.</p>
+<p style="text-align: justify">Trump’ın ilgisinin, Japonya’da yaygın olarak kullanılan <strong>kei cars</strong> üzerinden şekillendiği belirtiliyor. Kei cars; Japonya’da özel vergi avantajları, daha düşük sigorta maliyetleri ve farklı regülasyonlarla desteklenen, küçük hacimli ve düşük güçlü araçlar olarak biliniyor. Bu model, yoğun şehir içi kullanım için ekonomik ve pratik bir çözüm sunuyor.</p>
 <p><br></p>
-<p style="text-align: justify">Ancak ABD pazarında bu tür araçlar tarihsel olarak sınırlı ilgi gördü. ABD’deki güvenlik standartları, tüketici beklentileri ve araç boyutlarına yönelik kültürel tercihler, küçük araçların yaygınlaşmasının önündeki temel engeller arasında yer almakta. Bu nedenle Trump’ın açıklaması, otomotiv sektöründe <strong>regülasyon değişikliği olmadan</strong> somut bir dönüşüm yaratıp yaratamayacağı konusunda soru işaretleri doğuruyor.</p>
+<p style="text-align: justify">Ancak ABD pazarında bu tür araçlar tarihsel olarak sınırlı ilgi gördü. ABD’deki güvenlik standartları, tüketici beklentileri ve araç boyutlarına yönelik kültürel tercihler, küçük araçların yaygınlaşmasının önündeki temel engeller arasında yer alıyor. Bu nedenle Trump’ın açıklaması, otomotiv sektöründe <strong>regülasyon değişikliği olmadan</strong> somut bir dönüşüm yaratıp yaratamayacağı konusunda soru işaretleri doğuruyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Regülasyonlar Belirsizliğini Koruyor</strong></h3>
-<p style="text-align: justify">Ulaştırma Bakanı <strong>Sean Duffy</strong>, DOT’un üreticilere küçük araç üretme seçeneği sunmak için <strong>“kuralları temizlemek”</strong> üzere çalışacağını ifade etti. Ancak hangi <strong>safety standards</strong>, <strong>crash test requirements</strong> veya <strong>emissions rules</strong>’un değiştirileceği netleşmiş değil. ABD otomotiv regülasyonları, özellikle çarpışma güvenliği ve yolcu koruması alanlarında küçük araçlar için yüksek maliyetli uyum gereksinimleri getirmekte.</p>
+<p style="text-align: justify">Ulaştırma Bakanı <strong>Sean Duffy</strong>, DOT’un üreticilere küçük araç üretme seçeneği sunmak için <strong>“kuralları temizlemek”</strong> üzere çalışacağını ifade etti. Ancak hangi <strong>safety standards</strong>, <strong>crash test requirements</strong> veya <strong>emissions rules</strong>’un değiştirileceği netleşmiş değil. ABD otomotiv regülasyonları, özellikle çarpışma güvenliği ve yolcu koruması alanlarında küçük araçlar için yüksek maliyetli uyum gereksinimleri getiriyor.</p>
 <p><br></p>
 <p style="text-align: justify">Bu belirsizlik, Trump’ın açıklamasının kısa vadede <strong>operasyonel bir karşılığı</strong> olup olmayacağını muğlak hâle getiriyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Otomotiv Üreticileri Temkinli</strong></h3>
 <p style="text-align: justify">Trump’ın duyurusuna rağmen büyük otomotiv üreticileri şu ana kadar <strong>somut bir taahhüt</strong> ortaya koymadı:</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>General Motors</strong>, olası yeni ürün planları hakkında yorum yapmaktan kaçındı.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>General Motors</strong>, olası yeni ürün planları hakkında yorum yapıyorn kaçındı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Stellantis</strong>, müşteri ihtiyaçlarına göre ürün portföyünü uyarlamaya açık olduklarını söyledi ancak spesifik bir proje açıklamadı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Ford</strong>, “şu aşamada paylaşılacak bir şey olmadığını” belirtti.</p></li>
 </ul>
-<p style="text-align: justify">Bu temkinli duruşun arkasında, <strong>talep belirsizliği</strong> en büyük faktör olarak öne çıkıyor. Sektör verileri, ABD tüketicisinin hâlen <strong>SUV ve pickup</strong> segmentine güçlü biçimde yöneldiğini, küçük ve düşük güçlü araçlara olan talebin sınırlı kaldığını göstermekte.</p>
+<p style="text-align: justify">Bu temkinli duruşun arkasında, <strong>talep belirsizliği</strong> en büyük faktör olarak öne çıkıyor. Sektör verileri, ABD tüketicisinin hâlen <strong>SUV ve pickup</strong> segmentine güçlü biçimde yöneldiğini, küçük ve düşük güçlü araçlara olan talebin sınırlı kaldığını gösteriyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Talep: Asıl Engelleyici Faktör</strong></h3>
 <p style="text-align: justify">Sektör analistlerine göre tiny car üretiminin önündeki en büyük engel, regülasyonlardan ziyade <strong>pazar talebi</strong>. Küçük araçların avantajları; düşük fiyat, daha az yakıt tüketimi ve şehir içi pratiklik olsa da, ABD’de:</p>
@@ -49,8 +49,8 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">güvenlik algısı,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">araçların statü ve konfor unsuru olarak görülmesi</p></li>
 </ul>
-<p style="text-align: justify">gibi faktörler bu segmenti sınırlamakta.</p>
-<p style="text-align: justify">Elektrikli araç dönüşümü, tiny car’lar için teorik bir fırsat sunsa da, batarya maliyetleri ve menzil beklentileri bu avantajı gölgeleyebiliyor. Bu nedenle üreticiler, Trump’ın onayına rağmen <strong>yatırım riskini</strong> üstlenmek konusunda isteksiz görünmekte.</p>
+<p style="text-align: justify">gibi faktörler bu segmenti sınırlıyor.</p>
+<p style="text-align: justify">Elektrikli araç dönüşümü, tiny car’lar için teorik bir fırsat sunsa da, batarya maliyetleri ve menzil beklentileri bu avantajı gölgeleyebiliyor. Bu nedenle üreticiler, Trump’ın onayına rağmen <strong>yatırım riskini</strong> üstlenmek konusunda isteksiz görünüyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Tedarik Zinciri ve Üretim Perspektifi</strong></h3>
 <p style="text-align: justify">Eğer tiny car üretimi hayata geçerse, bu durum <strong>daha küçük komponentler</strong>, <strong>daha düşük malzeme kullanımı</strong> ve potansiyel olarak <strong>daha yerel tedarik zincirleri</strong> anlamına gelebilir. Ancak yatırım yapılabilmesi için:</p>
@@ -59,7 +59,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">talep garantisi veya teşvikler,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">ölçek ekonomisi</p></li>
 </ul>
-<p style="text-align: justify">gerekmekte.</p>
+<p style="text-align: justify">gerekiyor.</p>
 <p style="text-align: justify">Şu aşamada ise Trump’ın açıklaması, somut bir üretim planından ziyade <strong>politik bir sinyal</strong> olarak değerlendiriliyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Genel Değerlendirme</strong></h3>

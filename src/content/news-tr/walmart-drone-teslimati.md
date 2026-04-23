@@ -31,7 +31,7 @@ tags:
 <p style="text-align: justify"><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
-  <li><p>Beş şehirde ölçekleme hedeflenmekte.</p></li>
+  <li><p>Beş şehirde ölçekleme hedefleniyor.</p></li>
   <li><p>Drone docks ve mikro merkezler ağı destekler.</p></li>
   <li><p>BVLOS/detect-and-avoid gereklidir.</p></li>
   <li><p>Karbon ve maliyet avantajı hedeflenir.</p></li>

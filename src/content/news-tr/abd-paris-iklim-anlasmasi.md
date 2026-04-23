@@ -41,7 +41,7 @@ tags:
 <p>ABD'nin Paris İklim Anlaşması'ndan çekilmesi, diğer ülkelerin iklim politikalarını yeniden değerlendirmesine neden olabilir. Avrupa Birliği, Çin ve Hindistan gibi büyük ekonomiler, kendi iklim hedeflerini yükseltmeyi ve yenilenebilir enerji yatırımlarını artırmayı planlıyor. Ayrıca, ABD'deki eyaletler ve şehirler, federal hükümetin kararına rağmen kendi iklim politikalarını uygulamaya devam edebilirler.​</p>
 <p><br></p>
 <p><strong>Sonuç</strong></p>
-<p>ABD'nin Paris İklim Anlaşması'ndan yeniden çekilme kararı, küresel iklim politikalarında önemli bir dönüm noktasıdır. Bu karar, uluslararası iş birliğinin önemini bir kez daha vurgulamaktadır. İklim değişikliğiyle etkili bir şekilde mücadele edebilmek için tüm ülkelerin ortak çaba göstermesi gerekmektedir.​</p>
+<p>ABD'nin Paris İklim Anlaşması'ndan yeniden çekilme kararı, küresel iklim politikalarında önemli bir dönüm noktasıdır. Bu karar, uluslararası iş birliğinin önemini bir kez daha vurguluyordır. İklim değişikliğiyle etkili bir şekilde mücadele edebilmek için tüm ülkelerin ortak çaba göstermesi gerekiyordir.​</p>
 <p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ul>
@@ -52,7 +52,7 @@ tags:
   <li><p>ABD'nin çekilmesi, küresel iklim çabalarını olumsuz etkileyebilir ve diğer ülkelerin taahhütlerini yerine getirme motivasyonunu azaltabilir.​</p></li>
   <li><p>Gelecekte, büyük ekonomiler iklim hedeflerini yükseltmeyi ve yenilenebilir enerji yatırımlarını artırmayı planlıyor.​</p></li>
   <li><p>ABD'deki bazı eyaletler ve şehirler, federal hükümetin kararına rağmen kendi iklim politikalarını uygulamaya devam edebilirler.​</p></li>
-  <li><p>İklim değişikliğiyle etkili bir şekilde mücadele edebilmek için tüm ülkelerin ortak çaba göstermesi gerekmektedir.</p></li>
+  <li><p>İklim değişikliğiyle etkili bir şekilde mücadele edebilmek için tüm ülkelerin ortak çaba göstermesi gerekiyordir.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

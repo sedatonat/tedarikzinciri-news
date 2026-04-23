@@ -22,7 +22,7 @@ tags:
 <p><br></p>
 <p>Panama Kanalı'nın draftı son olarak 2016 yılında artırılmış ve maksimum draft seviyesi 50 feet'e çıkarılmıştı.&nbsp;</p>
 <p><br></p>
-<p>Kuralıktan dolayı, maksimum draft 50 feet'ten 44 feet'e düşürüldü ve her bir feet draft azalması, 400 TEU kapasitesinin 'kaybına' yol açmakta. Sonuç olarak, ortalama bir konteyner gemisi şimdi 2,400 TEU daha az taşıyabilecek.</p>
+<p>Kuralıktan dolayı, maksimum draft 50 feet'ten 44 feet'e düşürüldü ve her bir feet draft azalması, 400 TEU kapasitesinin 'kaybına' yol açıyor. Sonuç olarak, ortalama bir konteyner gemisi şimdi 2,400 TEU daha az taşıyabilecek.</p>
 <p><br></p>
 <p>Süregelen krize yanıt olarak, taşıyıcılar sevkiyatlarını ABD Batı Sahili'ne yeniden yönlendirmeye veya alternatif rotaları Suez Kanalı üzerinden tercih etmeye başladılar. <a href="https://www.container-xchange.com/"><u>Container xChange</u></a>, bu değişikliğin taşıma maliyetlerini, teslimat sürelerini ve ABD işletmelerinin tedarik zinciri verimliliğini etkileyebileceğini belirtti.</p>
 <p><br></p>

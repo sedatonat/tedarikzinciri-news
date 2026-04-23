@@ -20,12 +20,12 @@ tags:
 - CSCMP
 - network optimization
 ---
-<p style="text-align: justify"><strong>Nestlé USA</strong>, tedarik zinciri stratejisini her yıl yenileyen <strong>dağıtım ağı optimizasyon modeli (network optimization modeling)</strong> sayesinde hem <strong>toplam teslimat maliyetlerini düşürmekte</strong>, hem de <strong>risk, sürdürülebilirlik ve müşteri memnuniyetini</strong> aynı anda gözetmekte.</p>
+<p style="text-align: justify"><strong>Nestlé USA</strong>, tedarik zinciri stratejisini her yıl yenileyen <strong>dağıtım ağı optimizasyon modeli (network optimization modeling)</strong> sayesinde hem <strong>toplam teslimat maliyetlerini düşürüyor</strong>, hem de <strong>risk, sürdürülebilirlik ve müşteri memnuniyetini</strong> aynı anda gözediyor.</p>
 <p><br></p>
 <p style="text-align: justify">Şirketin <strong>Tedarik Zinciri Optimizasyonu için Yapay Zeka Başkanı Karan Gill</strong>, <strong>CSCMP EDGE Konferansı</strong>’nda yaptığı sunumda, Nestlé’nin dağıtım ağı kararlarını nasıl veri odaklı bir yaklaşımla şekillendirdiğini anlattı.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Kapsamlı ve Dinamik Bir Dağıtım Ağı</strong></h5>
-<p style="text-align: justify">Nestlé USA’nın ülke genelinde <strong>yaklaşık 25 dağıtım merkezi</strong> bulunmakta.<br>
+<p style="text-align: justify">Nestlé USA’nın ülke genelinde <strong>yaklaşık 25 dağıtım merkezi</strong> bulunuyor.<br>
 Bu merkezlerin bir kısmı Nestlé’ye, bir kısmı ise <strong>üçüncü taraf lojistik (3PL)</strong> sağlayıcılara ait.<br>
 Merkezlerin büyük bölümü <strong>Ortabatı (Midwest)</strong> bölgesinde konumlanıyor.<br>
 Bu ağ üzerinden Nestlé, <strong>yaklaşık 5.000 müşteri dağıtım merkezine (DC)</strong> sevkiyat gerçekleştiriyor.</p>
@@ -33,7 +33,7 @@ Bu ağ üzerinden Nestlé, <strong>yaklaşık 5.000 müşteri dağıtım merkezi
 <blockquote style="text-align: justify">“Dağıtım noktalarımızı belirlerken sadece maliyeti değil, riskleri, kapasiteyi, karbon ayak izini ve hizmet seviyesini aynı modelin içinde değerlendiriyoruz.”</blockquote>
 <blockquote><br></blockquote>
 <h5 style="text-align: justify"><strong>Üç Ağ – Üç Strateji: Ambient, Chilled, Frozen</strong></h5>
-<p style="text-align: justify">Nestlé USA, ürün çeşitliliğini dikkate alarak <strong>üç farklı dağıtım ağı</strong> yönetmekte:</p>
+<p style="text-align: justify">Nestlé USA, ürün çeşitliliğini dikkate alarak <strong>üç farklı dağıtım ağı</strong> yönetiyor:</p>
 <ol>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Ambient (oda sıcaklığında saklanan ürünler)</strong></p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Chilled (soğutmalı ürünler)</strong></p></li>
@@ -64,7 +64,7 @@ Bu yüzden ağ tasarımını her yıl yeniden gözden geçiriyoruz.”</blockquo
 Gill, geçmişteki satın almalar ve satışlar nedeniyle <strong>ağ yapısının sık sık yeniden dengelendiğini</strong> ve bu süreçlerde optimizasyonun “kritik karar desteği” sağladığını belirtti.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Hem Büyümede Hem Krizde İşe Yarıyor</strong></h5>
-<p style="text-align: justify">Gill’e göre ağ optimizasyonu, hem büyüme hem de kriz dönemlerinde şirketin “pusulası” işlevi görmekte:</p>
+<p style="text-align: justify">Gill’e göre ağ optimizasyonu, hem büyüme hem de kriz dönemlerinde şirketin “pusulası” işlevi görüyor:</p>
 <blockquote style="text-align: justify">“Ağ optimizasyonu, işler iyi gittiğinde nerelere yeni tesisler kurmamız gerektiğini gösterir.<br>
 Ama işler kötüye gittiğinde, hangi noktaları birleştireceğimizi ya da kapatacağımızı da aynı netlikle söyler.”</blockquote>
 <p style="text-align: justify">Bu stratejik esneklik, Nestlé’nin <strong>tedarik zinciri dayanıklılığını</strong> güçlendirirken, <strong>maliyet kontrolü ve hizmet sürekliliği</strong> arasında optimal dengeyi korumasını sağlıyor.</p>
@@ -78,13 +78,13 @@ Bu sayede şirket, maliyet avantajını korurken <strong>sürdürülebilir lojis
 <h5 style="text-align: justify"><strong>Sonuç: Dinamik, Akıllı ve Duyarlı Bir Dağıtım Ekosistemi</strong></h5>
 <p style="text-align: justify">Nestlé’nin optimizasyon modeli, <strong>veriye dayalı karar alma, sürekli öğrenme ve esnek ağ planlaması</strong> ilkelerine dayanıyor.</p>
 <p><br>
-Bu yaklaşım, şirketin hem <strong>müşteri deneyimini geliştirmesine</strong> hem de <strong>lojistik maliyetlerini düşürmesine</strong> olanak sağlamakta.</p>
+Bu yaklaşım, şirketin hem <strong>müşteri deneyimini geliştirmesine</strong> hem de <strong>lojistik maliyetlerini düşürmesine</strong> olanak sağlıyor.</p>
 <p><br></p>
 <p style="text-align: justify">CSCMP EDGE’deki sunum, Nestlé’nin yalnızca <strong>gıda ve içecek sektöründe</strong> değil, genel olarak <strong>tedarik zinciri yönetiminde de</strong> <strong>yapay zekâ destekli ağ tasarımı (AI-driven network design)</strong> alanında örnek bir uygulama geliştirdiğini ortaya koydu.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Nestlé USA</strong>, 25 dağıtım merkeziyle yılda <strong>5.000 müşteri DC’sine</strong> ürün göndermekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Nestlé USA</strong>, 25 dağıtım merkeziyle yılda <strong>5.000 müşteri DC’sine</strong> ürün gönderiyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Şirket, <strong>ambient, chilled ve frozen</strong> ürünler için ayrı optimizasyon ağları tasarlıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Model, <strong>taşıma, depolama, kapasite, teslimat süresi ve stok stratejilerini</strong> aynı anda optimize ediyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Yıllık yeniden modelleme süreci, <strong>değişen talep, maliyet ve üretim yapısına</strong> hızlı uyum sağlıyor.</p></li>

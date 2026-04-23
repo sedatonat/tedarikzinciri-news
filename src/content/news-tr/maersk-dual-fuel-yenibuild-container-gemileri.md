@@ -40,7 +40,7 @@ tags:
   <li><p>Hanwha Ocean ile altı adet 15.000 TEU ve New Times Shipbuilding ile altı adet 15.000 TEU gemi inşa edilecek.</p></li>
   <li><p>Tüm gemiler sıvılaştırılmış gaz çift yakıtlı itme sistemleri ile donatılacak.</p></li>
   <li><p>Teslimatlar 2028-2030 yılları arasında gerçekleştirilecek.</p></li>
-  <li><p>Maersk, bu siparişlerle filo yenileme ve karbon azaltma hedeflerini desteklemekte.</p></li>
+  <li><p>Maersk, bu siparişlerle filo yenileme ve karbon azaltma hedeflerini destekliyor.</p></li>
   <li><p>Anda Cristescu, Maersk'in Chartering &amp; Newbuilding departmanının başkanı.</p></li>
 </ul>
 <p><br></p>

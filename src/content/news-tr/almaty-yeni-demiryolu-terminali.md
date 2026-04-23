@@ -20,23 +20,23 @@ tags:
 - lojistik altyapı
 - Orta Asya
 ---
-<p style="text-align: justify">Kazakistan'ın en büyük lojistik terminal operatörü olan <strong>Kedentransservis</strong>, Çinli <strong>China Xinjiang Commercial Logistics</strong> şirketiyle ortak bir girişim kurarak, Almatı yakınlarında yeni bir demiryolu yük terminali inşa etmeyi planlamakta. Bu yeni terminal, çeşitli yük türlerini işleyebilecek kapasiteye sahip olacak şekilde tasarlanmakta.</p>
+<p style="text-align: justify">Kazakistan'ın en büyük lojistik terminal operatörü olan <strong>Kedentransservis</strong>, Çinli <strong>China Xinjiang Commercial Logistics</strong> şirketiyle ortak bir girişim kurarak, Almatı yakınlarında yeni bir demiryolu yük terminali inşa etmeyi planlıyor. Bu yeni terminal, çeşitli yük türlerini işleyebilecek kapasiteye sahip olacak şekilde tasarlanıyor.</p>
 <p><br></p>
-<p style="text-align: justify"><strong>Kedentransservis</strong> ve <strong>China Xinjiang Commercial Logistics</strong> ortaklığı, Kazakistan ile Çin arasındaki ticari ilişkileri güçlendirmeyi ve bölgedeki lojistik altyapıyı geliştirmeyi hedeflemekte. Almatı, Orta Asya'nın en büyük yolcu ve kargo merkezi konumunda bulunmakta. Bu nedenle, yeni terminalin inşası, bölgedeki ticaret hacmini artırmak ve lojistik süreçleri optimize etmek için önemli bir adım olarak görülmekte.​<a href="https://tavhavalimanlari.com.tr/tav-almatida-yeni-terminali-acti" rel="noopener" target="_blank">tavhavalimanlari.com.tr</a></p>
+<p style="text-align: justify"><strong>Kedentransservis</strong> ve <strong>China Xinjiang Commercial Logistics</strong> ortaklığı, Kazakistan ile Çin arasındaki ticari ilişkileri güçlendirmeyi ve bölgedeki lojistik altyapıyı geliştirmeyi hedefliyor. Almatı, Orta Asya'nın en büyük yolcu ve kargo merkezi konumunda bulunuyor. Bu nedenle, yeni terminalin inşası, bölgedeki ticaret hacmini artırmak ve lojistik süreçleri optimize etmek için önemli bir adım olarak görülüyor.​<a href="https://tavhavalimanlari.com.tr/tav-almatida-yeni-terminali-acti" rel="noopener" target="_blank">tavhavalimanlari.com.tr</a></p>
 <p><br></p>
-<p style="text-align: justify">Yeni terminalin inşası, Kazakistan'ın "Nurly Zhol" ekonomik politikası ve Çin'in "Belt and Road Initiative" (BRI) kapsamında değerlendirilen projeler arasında yer almakta. Bu projeler, bölgedeki altyapı yatırımlarını artırarak, ticaret yollarını geliştirmeyi ve ekonomik büyümeyi desteklemeyi amaçlamakta.​</p>
+<p style="text-align: justify">Yeni terminalin inşası, Kazakistan'ın "Nurly Zhol" ekonomik politikası ve Çin'in "Belt and Road Initiative" (BRI) kapsamında değerlendirilen projeler arasında yer alıyor. Bu projeler, bölgedeki altyapı yatırımlarını artırarak, ticaret yollarını geliştirmeyi ve ekonomik büyümeyi desteklemeyi amaçlıyor.​</p>
 <p><br></p>
-<p style="text-align: justify">Almatı'da yapılacak olan bu yeni demiryolu yük terminali, modern teknolojilerle donatılacak ve uluslararası standartlara uygun olarak inşa edilecek. Terminalin, konteyner taşımacılığı, dökme yükler ve tehlikeli maddeler gibi çeşitli yük türlerini işleyebilecek kapasitede olması planlanmakta. Ayrıca, terminalde gümrükleme, depolama ve dağıtım hizmetleri de sunulacak.​</p>
+<p style="text-align: justify">Almatı'da yapılacak olan bu yeni demiryolu yük terminali, modern teknolojilerle donatılacak ve uluslararası standartlara uygun olarak inşa edilecek. Terminalin, konteyner taşımacılığı, dökme yükler ve tehlikeli maddeler gibi çeşitli yük türlerini işleyebilecek kapasitede olması planlanıyor. Ayrıca, terminalde gümrükleme, depolama ve dağıtım hizmetleri de sunulacak.​</p>
 <p><br></p>
-<p style="text-align: justify">Projenin tamamlanmasıyla birlikte, Almatı'nın lojistik kapasitesinin önemli ölçüde artması ve bölgedeki ticaret hacminin büyümesi beklenmekte. Bu durum, Kazakistan'ın Orta Asya'daki lojistik merkezi olma hedefini desteklemekte ve ülkenin ekonomik gelişimine katkı sağlamaktadır.</p>
+<p style="text-align: justify">Projenin tamamlanmasıyla birlikte, Almatı'nın lojistik kapasitesinin önemli ölçüde artması ve bölgedeki ticaret hacminin büyümesi bekleniyor. Bu durum, Kazakistan'ın Orta Asya'daki lojistik merkezi olma hedefini destekliyor ve ülkenin ekonomik gelişimine katkı sağlıyordır.</p>
 <p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Kedentransservis</strong> ve <strong>China Xinjiang Commercial Logistics</strong>, Almatı yakınlarında yeni bir demiryolu yük terminali inşa etmek için ortak girişim kurmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Yeni terminal, çeşitli yük türlerini işleyebilecek kapasiteye sahip olacak şekilde tasarlanmakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Proje, Kazakistan'ın "Nurly Zhol" politikası ve Çin'in "Belt and Road Initiative" kapsamında değerlendirilen projeler arasında yer almakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Kedentransservis</strong> ve <strong>China Xinjiang Commercial Logistics</strong>, Almatı yakınlarında yeni bir demiryolu yük terminali inşa etmek için ortak girişim kuruyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Yeni terminal, çeşitli yük türlerini işleyebilecek kapasiteye sahip olacak şekilde tasarlanıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Proje, Kazakistan'ın "Nurly Zhol" politikası ve Çin'in "Belt and Road Initiative" kapsamında değerlendirilen projeler arasında yer alıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Terminal, modern teknolojilerle donatılacak ve uluslararası standartlara uygun olarak inşa edilecek.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Projenin tamamlanmasıyla, Almatı'nın lojistik kapasitesinin artması ve bölgedeki ticaret hacminin büyümesi beklenmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Projenin tamamlanmasıyla, Almatı'nın lojistik kapasitesinin artması ve bölgedeki ticaret hacminin büyümesi bekleniyor.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

@@ -20,19 +20,19 @@ tags:
 - sürdürülebilir lojistik
 - karbon emisyonu
 ---
-<p style="text-align: justify">Avrupa’nın önde gelen demiryolu kurumları — <strong>CER</strong>, <strong>ERFA</strong>, <strong>UIRR</strong>, <strong>UIP</strong> ve <strong>UNIFE</strong> — Avrupa Konseyi’nin <strong>Weights and Dimensions Directive (WDD)</strong> kapsamında 44 tonluk fosil yakıtlı kamyonlara ve <strong>European Modular Systems (EMS)</strong> yani “<strong>gigaliners</strong>” olarak bilinen mega kamyonlara sınır ötesi geçiş izni tanıma yönündeki yaklaşımına karşı sert bir ortak açıklama yayımladı. Sektör temsilcilerinin ifadesine göre bu düzenleme, Avrupa Birliği’nin yıllardır inşa ettiği <strong>rail–intermodal</strong> politikasını tersine çevirerek, “<strong>reverse modal shift</strong>” riskini gündeme getirmekte.</p>
+<p style="text-align: justify">Avrupa’nın önde gelen demiryolu kurumları — <strong>CER</strong>, <strong>ERFA</strong>, <strong>UIRR</strong>, <strong>UIP</strong> ve <strong>UNIFE</strong> — Avrupa Konseyi’nin <strong>Weights and Dimensions Directive (WDD)</strong> kapsamında 44 tonluk fosil yakıtlı kamyonlara ve <strong>European Modular Systems (EMS)</strong> yani “<strong>gigaliners</strong>” olarak bilinen mega kamyonlara sınır ötesi geçiş izni tanıma yönündeki yaklaşımına karşı sert bir ortak açıklama yayımladı. Sektör temsilcilerinin ifadesine göre bu düzenleme, Avrupa Birliği’nin yıllardır inşa ettiği <strong>rail–intermodal</strong> politikasını tersine çevirerek, “<strong>reverse modal shift</strong>” riskini gündeme getiriyor.</p>
 <p><br></p>
-<p style="text-align: justify">Bugün AB’de sınır ötesi karayolu taşımacılığı genel olarak <strong>40 ton</strong> ile sınırlı. Bu sınırlama, ağır ve uzun mesafeli yüklerin <strong>rail freight</strong> üzerinden taşınmasını ekonomik olarak daha cazip tutan temel parametrelerden biriydi. Konsey’in yaklaşımı, 44 tonluk fosil yakıtlı kamyonlara izin verilmesiyle bu avantajı ortadan kaldırmakta. Sektör temsilcileri, bunun <strong>karayolunu sübvanse eden</strong>, <strong>demiryolunu zayıflatan</strong> bir politika olduğunu savunuyor.</p>
+<p style="text-align: justify">Bugün AB’de sınır ötesi karayolu taşımacılığı genel olarak <strong>40 ton</strong> ile sınırlı. Bu sınırlama, ağır ve uzun mesafeli yüklerin <strong>rail freight</strong> üzerinden taşınmasını ekonomik olarak daha cazip tutan temel parametrelerden biriydi. Konsey’in yaklaşımı, 44 tonluk fosil yakıtlı kamyonlara izin verilmesiyle bu avantajı ortadan kaldırıyor. Sektör temsilcileri, bunun <strong>karayolunu sübvanse eden</strong>, <strong>demiryolunu zayıflatan</strong> bir politika olduğunu savunuyor.</p>
 <p><br></p>
-<p style="text-align: justify">Kurumların açıklamasında, 2024 tarihli bağımsız bir çalışmaya atıf yapılarak, bu kararın üç kritik sonuç doğuracağı belirtilmekte:</p>
+<p style="text-align: justify">Kurumların açıklamasında, 2024 tarihli bağımsız bir çalışmaya atıf yapılarak, bu kararın üç kritik sonuç doğuracağı belirtiliyor:</p>
 <ol>
   <li style="text-align: justify"><p style="text-align: justify"><strong>CO₂ Emisyonlarında Artış:</strong> Yükün raydan yola kayması emisyon yoğunluğunu ciddi biçimde artıracak.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Altyapı Tahribatı:</strong> Daha ağır aks yükleri nedeniyle AB karayolu ağında bakım maliyetleri artacak.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Güvenlik Riski:</strong> Gigaliner araçların çoğalması, hem otoyol güvenliği hem de kırılgan kentsel alanlar açısından risk oluşturacak.</p></li>
 </ol>
-<p style="text-align: justify">Açıklamanın tonunu sertleştiren bir diğer unsur ise Avrupa Komisyonu’nun <strong>Combined Transport Directive</strong> üzerinde geri adım attığı iddiası. Demiryolu tarafı, AB’nin <strong>Greening Freight Transport Package</strong> kapsamında karayolu taşımacılığını ağırlaştıracak düzenlemelerin ancak demiryolu yatırımlarını teşvik eden paralel önlemlerle dengelenebileceğini savunmaktaydı. Ancak mevcut durumda Combined Transport Directive’in tamamen geri çekilmesi veya ciddi biçimde zayıflatılması gündemde.</p>
+<p style="text-align: justify">Açıklamanın tonunu sertleştiren bir diğer unsur ise Avrupa Komisyonu’nun <strong>Combined Transport Directive</strong> üzerinde geri adım attığı iddiası. Demiryolu tarafı, AB’nin <strong>Greening Freight Transport Package</strong> kapsamında karayolu taşımacılığını ağırlaştıracak düzenlemelerin ancak demiryolu yatırımlarını teşvik eden paralel önlemlerle dengelenebileceğini savunuyorydı. Ancak mevcut durumda Combined Transport Directive’in tamamen geri çekilmesi veya ciddi biçimde zayıflatılması gündemde.</p>
 <p><br></p>
-<p style="text-align: justify">Ortak açıklamada şu ifade öne çıkmakta:<br>
+<p style="text-align: justify">Ortak açıklamada şu ifade öne çıkıyor:<br>
  <strong>“The current Council approach risks achieving the exact opposite: prioritizing cheaper, high-emission road transport over sustainable rail and intermodal chains.”</strong></p>
 <p><br></p>
 <p style="text-align: justify">Bu nedenle sektör temsilcileri, sürecin Konsey aşamasını tamamlamasının ardından <strong>trilogues</strong> sürecine geçecek olan dosyada, <strong>Avrupa Parlamentosu’nun</strong> daha sert bir tutum almasını istiyor. Parlemento; Konsey, Komisyon ve Parlamento arasında yürütülecek üçlü müzakerelerde WDD’nin nihai metnini şekillendirecek. Demiryolu sektörü, Parlamento’dan üç temel talepte bulunuyor:</p>
@@ -57,7 +57,7 @@ tags:
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Konsey, 44 tonluk fosil kamyonları ve <strong>gigaliner EMS</strong>’leri sınır ötesi kullanıma açmak istiyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Demiryolu sektörü, bunun <strong>reverse modal shift</strong> yaratacağını ve yükün karayoluna kayacağını söylüyor.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Combined Transport Directive’in geri çekilmesi/dilüe edilmesi sektörde “ihanet” olarak görülmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Combined Transport Directive’in geri çekilmesi/dilüe edilmesi sektörde “ihanet” olarak görülüyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Parlamento’dan üç talep: Yalnızca ZEV için 44t izin, EMS–intermodal uyumluluğu, zorunlu etki analizi.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Aksi hâlde AB’nin <strong>2050 rail freight doubling</strong> hedefi imkânsız hâle gelecek.</p></li>
 </ul>

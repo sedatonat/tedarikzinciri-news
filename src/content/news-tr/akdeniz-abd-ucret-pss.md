@@ -29,7 +29,7 @@ tags:
 <p><br></p>
 <p>Müşterilerin, bu ek ücretleri planlamalarında dikkate alarak lojistik süreçlerini düzenlemeleri önerilir. Ayrıca, CMA CGM'nin web sitesinde yayınlanan temel navlun ücretleri, yakıtla ilgili ek ücretler, liman masrafları ve güvenlik ile ilgili diğer ücretler de geçerli olacaktır. Bu nedenle, toplam maliyetlerin hesaplanmasında tüm bu faktörlerin göz önünde bulundurulması önem taşır.</p>
 <p><br></p>
-<p>CMA CGM, dünya genelinde geniş bir hizmet ağına sahip olup, müşterilerine güvenilir ve verimli taşımacılık çözümleri sunmayı hedeflemektedir. Bu tür ücret düzenlemeleri, şirketin operasyonel sürdürülebilirliğini ve hizmet kalitesini koruma çabalarının bir parçasıdır.</p>
+<p>CMA CGM, dünya genelinde geniş bir hizmet ağına sahip olup, müşterilerine güvenilir ve verimli taşımacılık çözümleri sunmayı hedefliyordir. Bu tür ücret düzenlemeleri, şirketin operasyonel sürdürülebilirliğini ve hizmet kalitesini koruma çabalarının bir parçasıdır.</p>
 <p><br></p>
 <p>Sonuç olarak, Akdeniz'den ABD'nin doğu kıyılarına ve körfez bölgelerine yük taşıyan müşterilerin, 15 Temmuz 2024 tarihinden itibaren geçerli olacak bu yeni PSS uygulamasını dikkate alarak planlamalarını yapmaları ve bütçelerini buna göre ayarlamaları önerilir. Detaylı bilgi ve güncellemeler için CMA CGM'nin resmi duyurularının düzenli olarak takip edilmesi faydalı olacaktır.</p>
 <p><br></p>

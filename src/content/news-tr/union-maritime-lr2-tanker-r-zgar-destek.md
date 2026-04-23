@@ -20,7 +20,7 @@ tags:
 - emisyon azaltma
 - Çin tersane
 ---
-<p>Birleşik Krallık merkezli gemi sahibi Union Maritime, Çin'de inşa edilmekte olan iki LR2 tankerine BAR Tech rüzgar destekli gemi itme teknolojisini monte etme kararı aldı.&nbsp;</p>
+<p>Birleşik Krallık merkezli gemi sahibi Union Maritime, Çin'de inşa ediliyor olan iki LR2 tankerine BAR Tech rüzgar destekli gemi itme teknolojisini monte etme kararı aldı.&nbsp;</p>
 <p><br></p>
 <p>Şanghay Waigaoqiao Gemi İnşaası'nda (SWS) yapımı devam eden ve 2025'in sonlarında teslim edilmesi planlanan bu iki gemi, her biri üç WindWings katı yelkeni özelliği taşıyacak. Union Maritime'ın LR'leri, 2023'ün ikinci yarısında Pyxis Ocean ve Berge Olympus gemilerine bu teknolojinin montajının ardından BAR Tech'in WindWings çözümünü benimseyen en son gemiler arasında yer alıyor. BAR Tech CEO'su John Cooper, bu son anlaşmanın, WindWings teknolojisine olan artan talebi ve bu teknolojinin denizcilik endüstrisine getirebileceği faydaları gösterdiğini belirtti.&nbsp;</p>
 <p><br></p>

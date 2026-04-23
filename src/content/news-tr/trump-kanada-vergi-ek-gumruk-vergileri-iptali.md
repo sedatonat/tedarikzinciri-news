@@ -25,23 +25,23 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Trump'ın Kanada'ya yönelik vergi artışı tehdidi, Ontario'nun ABD'ye sattığı elektriğe %25'lik bir ek vergi uygulama planına yanıt olarak gelmişti. Trump, sosyal medya platformu <strong>Truth Social</strong> üzerinden yaptığı açıklamada, Kanada'dan gelen çelik ve alüminyum ithalatına ek %25'lik vergi uygulanacağını duyurmuştu. ​</p>
 <p><br></p>
-<p style="text-align: justify">ABD'nin çelik ve alüminyum ithalatına uyguladığı bu vergiler, küresel ticaret dengelerini etkilemekte ve tüketici fiyatlarında artışa neden olma potansiyeli taşımakta. Özellikle inşaat, otomotiv ve beyaz eşya sektörlerinde üretim maliyetlerinin yükselmesi beklenmekte. Bu durum, tüketici fiyatlarına yansıyabilir ve enflasyonist baskıları artırabilir.&nbsp;</p>
+<p style="text-align: justify">ABD'nin çelik ve alüminyum ithalatına uyguladığı bu vergiler, küresel ticaret dengelerini etkiliyor ve tüketici fiyatlarında artışa neden olma potansiyeli taşıyor. Özellikle inşaat, otomotiv ve beyaz eşya sektörlerinde üretim maliyetlerinin yükselmesi bekleniyor. Bu durum, tüketici fiyatlarına yansıyabilir ve enflasyonist baskıları artırabilir.&nbsp;</p>
 <p><br></p>
-<p style="text-align: justify">Avrupa Birliği (<strong>European Union</strong>), ABD'nin bu adımına karşılık olarak 28 milyar dolar değerinde ABD ürününe karşılık gelen misilleme tarifeleri uygulayacağını açıkladı. Bu tarifeler, çelik ve alüminyum ürünlerinin yanı sıra tekstil, ev aletleri ve tarım ürünlerini de kapsamakta. Bu misilleme önlemlerinin 1 Nisan'da yürürlüğe girmesi planlanmakta. ​</p>
+<p style="text-align: justify">Avrupa Birliği (<strong>European Union</strong>), ABD'nin bu adımına karşılık olarak 28 milyar dolar değerinde ABD ürününe karşılık gelen misilleme tarifeleri uygulayacağını açıkladı. Bu tarifeler, çelik ve alüminyum ürünlerinin yanı sıra tekstil, ev aletleri ve tarım ürünlerini de kapsıyor. Bu misilleme önlemlerinin 1 Nisan'da yürürlüğe girmesi planlanıyor. ​</p>
 <p><br></p>
-<p style="text-align: justify">Kanada, ABD'nin en büyük çelik ve alüminyum tedarikçilerinden biri konumunda. 2024 yılında Kanada, ABD'ye 6,5 milyon tondan fazla çelik ve 3 milyon metrik ton alüminyum ihraç etti. Bu nedenle, ABD'nin uyguladığı tarifeler Kanada ekonomisini doğrudan etkilemekte.</p>
+<p style="text-align: justify">Kanada, ABD'nin en büyük çelik ve alüminyum tedarikçilerinden biri konumunda. 2024 yılında Kanada, ABD'ye 6,5 milyon tondan fazla çelik ve 3 milyon metrik ton alüminyum ihraç etti. Bu nedenle, ABD'nin uyguladığı tarifeler Kanada ekonomisini doğrudan etkiliyor.</p>
 <p><br></p>
-<p style="text-align: justify">Trump'ın tarifeleri, ABD'deki çelik ve alüminyum üreticilerini korumayı amaçlasa da, bu metallerin hammaddesi olduğu otomotiv, inşaat ve beyaz eşya gibi sektörlerde maliyet artışlarına yol açmakta. Bu durum, nihai ürünlerin fiyatlarının yükselmesine ve tüketicilerin daha yüksek fiyatlarla karşılaşmasına neden olabilir. ​</p>
+<p style="text-align: justify">Trump'ın tarifeleri, ABD'deki çelik ve alüminyum üreticilerini korumayı amaçlasa da, bu metallerin hammaddesi olduğu otomotiv, inşaat ve beyaz eşya gibi sektörlerde maliyet artışlarına yol açıyor. Bu durum, nihai ürünlerin fiyatlarının yükselmesine ve tüketicilerin daha yüksek fiyatlarla karşılaşmasına neden olabilir. ​</p>
 <p><br></p>
-<p style="text-align: justify">Ekonomistler, bu tür tarifelerin küresel ticaret savaşlarını tetikleyebileceği ve dünya ekonomisinde durgunluğa yol açabileceği konusunda uyarılarda bulunmakta. Ayrıca, bu tür korumacı politikaların uzun vadede ABD ekonomisine zarar verebileceği ve istihdam kayıplarına yol açabileceği belirtilmekte. ​</p>
+<p style="text-align: justify">Ekonomistler, bu tür tarifelerin küresel ticaret savaşlarını tetikleyebileceği ve dünya ekonomisinde durgunluğa yol açabileceği konusunda uyarılarda bulunuyor. Ayrıca, bu tür korumacı politikaların uzun vadede ABD ekonomisine zarar verebileceği ve istihdam kayıplarına yol açabileceği belirtiliyor. ​</p>
 <p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Donald Trump</strong>, Kanada'dan ithal edilen çelik ve alüminyuma uygulanan vergileri artırma planını geri çekti.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Ontario Başbakanı Doug Ford</strong>, ABD'ye yönelik elektrik ek vergisini askıya aldı.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">ABD'nin çelik ve alüminyum ithalatına uyguladığı %25'lik vergi oranı korunmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">ABD'nin çelik ve alüminyum ithalatına uyguladığı %25'lik vergi oranı korunuyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Avrupa Birliği</strong>, ABD'nin tarifelerine karşılık olarak 28 milyar dolar değerinde ABD ürününe misilleme tarifeleri uygulayacak.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Ekonomistler, bu tür tarifelerin küresel ticaret savaşlarını tetikleyebileceği ve dünya ekonomisinde durgunluğa yol açabileceği konusunda uyarılarda bulunmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Ekonomistler, bu tür tarifelerin küresel ticaret savaşlarını tetikleyebileceği ve dünya ekonomisinde durgunluğa yol açabileceği konusunda uyarılarda bulunuyor.</p></li>
 </ul>
 <p style="text-align: justify"><br></p>
 <p>---</p>

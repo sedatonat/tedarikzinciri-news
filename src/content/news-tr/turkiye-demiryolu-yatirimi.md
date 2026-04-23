@@ -19,19 +19,19 @@ tags:
 - Avrasya trafiği
 - elektrifikasyon
 ---
-<p style="text-align: justify">Türkiye, Avrasya trafiği için önemli bir demiryolu merkezi olma yolunda ilerlemekte ve Orta Koridor'un gelişimi bu hedefe ulaşmada yeni fırsatlar sunmakta. Bu bağlamda, <strong>Çin</strong>, Türkiye'nin demiryolu altyapısına 60 milyar dolarlık bir yatırım yapmayı değerlendirmekte. Bu yatırım, Rusya'yı transit geçmeyen Avrasya trafiği kapasitesini artırmayı amaçlamakta.</p>
+<p style="text-align: justify">Türkiye, Avrasya trafiği için önemli bir demiryolu merkezi olma yolunda ilerliyor ve Orta Koridor'un gelişimi bu hedefe ulaşmada yeni fırsatlar sunuyor. Bu bağlamda, <strong>Çin</strong>, Türkiye'nin demiryolu altyapısına 60 milyar dolarlık bir yatırım yapmayı değerlendiriyor. Bu yatırım, Rusya'yı transit geçmeyen Avrasya trafiği kapasitesini artırmayı amaçlıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Avrupa ülkelerinin Rusya'yı baypas ederek Orta Koridor'u kullanma isteği göz önüne alındığında, <strong>Çin</strong> bu olasılığı gerçekleştirmeye oldukça istekli görünmekte. Türkiye'ye yapılacak 60 milyar dolarlık demiryolu yatırımı, Avrupa ile Rusya arasındaki gergin ilişkiler ortasında gelecekteki Çin-Avrupa demiryolu yük trafiğini güvence altına almaya yardımcı olabilir. Bu bilgi, bir Türk yatırım yetkilisinin <strong>South China Morning Post</strong> gazetesine verdiği demeçte belirtilmiştir. ​</p>
+<p style="text-align: justify">Avrupa ülkelerinin Rusya'yı baypas ederek Orta Koridor'u kullanma isteği göz önüne alındığında, <strong>Çin</strong> bu olasılığı gerçekleştirmeye oldukça istekli görünüyor. Türkiye'ye yapılacak 60 milyar dolarlık demiryolu yatırımı, Avrupa ile Rusya arasındaki gergin ilişkiler ortasında gelecekteki Çin-Avrupa demiryolu yük trafiğini güvence altına almaya yardımcı olabilir. Bu bilgi, bir Türk yatırım yetkilisinin <strong>South China Morning Post</strong> gazetesine verdiği demeçte belirtilmiştir. ​</p>
 <p><br></p>
-<p style="text-align: justify">Yatırımın, elektrifikasyon, yeni yurt içi güzergâhlar, İstanbul'da bir köprü ve Ankara ile yüksek hızlı bir hattın bağlantısını içermesi planlanmakta. Bu şekilde, <strong>Çin</strong> Türkiye'nin Orta Koridor boyunca zayıf bir halka olmasını önlemeyi amaçlamakta. ​</p>
+<p style="text-align: justify">Yatırımın, elektrifikasyon, yeni yurt içi güzergâhlar, İstanbul'da bir köprü ve Ankara ile yüksek hızlı bir hattın bağlantısını içermesi planlanıyor. Bu şekilde, <strong>Çin</strong> Türkiye'nin Orta Koridor boyunca zayıf bir halka olmasını önlemeyi amaçlıyor. ​</p>
 <p><br></p>
-<p style="text-align: justify">Bu 60 milyar dolarlık yatırımın yanı sıra, <strong>Çin</strong>'in demiryolu araçları üreticisi <strong>CRRC</strong>, Türkiye'de bir üretim tesisi işletmekte ve olası Avrupa korumacı önlemlerini aşmak için bir elektrikli araç fabrikası inşa etmekte. ​</p>
+<p style="text-align: justify">Bu 60 milyar dolarlık yatırımın yanı sıra, <strong>Çin</strong>'in demiryolu araçları üreticisi <strong>CRRC</strong>, Türkiye'de bir üretim tesisi işlediyor ve olası Avrupa korumacı önlemlerini aşmak için bir elektrikli araç fabrikası inşa ediyor. ​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Önemli Notlar:</strong></p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Çin</strong>, Türkiye'nin demiryolu altyapısına 60 milyar dolarlık yatırım yapmayı planlamakta.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Yatırım, elektrifikasyon, yeni yurt içi güzergâhlar, İstanbul'da bir köprü ve Ankara ile yüksek hızlı bir hattın bağlantısını içermekte.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Çin</strong>'in demiryolu araçları üreticisi <strong>CRRC</strong>, Türkiye'de bir üretim tesisi işletmekte ve bir elektrikli araç fabrikası inşa etmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Çin</strong>, Türkiye'nin demiryolu altyapısına 60 milyar dolarlık yatırım yapmayı planlıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Yatırım, elektrifikasyon, yeni yurt içi güzergâhlar, İstanbul'da bir köprü ve Ankara ile yüksek hızlı bir hattın bağlantısını içeriyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Çin</strong>'in demiryolu araçları üreticisi <strong>CRRC</strong>, Türkiye'de bir üretim tesisi işlediyor ve bir elektrikli araç fabrikası inşa ediyor.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

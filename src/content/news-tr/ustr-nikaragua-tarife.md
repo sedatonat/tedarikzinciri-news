@@ -20,7 +20,7 @@ tags:
 - CAFTA-DR
 - tedarik zinciri
 ---
-<p style="text-align: justify">ABD Ticaret Temsilciliği (<strong>U.S. Trade Representative – USTR</strong>), <strong>Nikaragua</strong>’ya yönelik yeni ve kademeli bir tarife rejimini devreye almaya hazırlandığını duyurdu. <strong>Trump yönetimi</strong>, ülkedeki <strong>insan hakları ihlalleri ve emek standartlarına aykırı uygulamalar</strong> gerekçesiyle Nikaragua menşeli ürünlere <strong>%15’e kadar ek gümrük vergisi</strong> uygulanacağını açıkladı. Bu karar, Aralık 2024’te başlatılan ve <strong>Section 301</strong> kapsamında yürütülen resmi soruşturmanın sonuçlarına dayanmakta.</p>
+<p style="text-align: justify">ABD Ticaret Temsilciliği (<strong>U.S. Trade Representative – USTR</strong>), <strong>Nikaragua</strong>’ya yönelik yeni ve kademeli bir tarife rejimini devreye almaya hazırlandığını duyurdu. <strong>Trump yönetimi</strong>, ülkedeki <strong>insan hakları ihlalleri ve emek standartlarına aykırı uygulamalar</strong> gerekçesiyle Nikaragua menşeli ürünlere <strong>%15’e kadar ek gümrük vergisi</strong> uygulanacağını açıkladı. Bu karar, Aralık 2024’te başlatılan ve <strong>Section 301</strong> kapsamında yürütülen resmi soruşturmanın sonuçlarına dayanıyor.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Newsweek</strong>’in aktardığına göre yeni tarifeler tek seferde değil, <strong>kademeli</strong> olarak yürürlüğe girecek. Planlanan takvime göre:</p>
 <ul>
@@ -37,23 +37,23 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>workplace abuses</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">sendikal hakların sistematik ihlali</p></li>
 </ul>
-<p style="text-align: justify">gibi alanlarda “<strong>increasingly pervasive abuses</strong>” sergilediği tespit edildi. Bu uygulamaların yalnızca iç hukuk ihlali değil, aynı zamanda ABD ile olan ticari ilişkileri <strong>disruptive</strong> biçimde etkilediği savunulmakta.</p>
+<p style="text-align: justify">gibi alanlarda “<strong>increasingly pervasive abuses</strong>” sergilediği tespit edildi. Bu uygulamaların yalnızca iç hukuk ihlali değil, aynı zamanda ABD ile olan ticari ilişkileri <strong>disruptive</strong> biçimde etkilediği savunuluyor.</p>
 <p><br></p>
-<p style="text-align: justify">Bu nedenle Washington, Nikaragua’ya yönelik yaptırım politikasını yalnızca diplomatik baskı ile sınırlı tutmayarak <strong>ticaret politikası aracı</strong> hâline getirmekte.</p>
+<p style="text-align: justify">Bu nedenle Washington, Nikaragua’ya yönelik yaptırım politikasını yalnızca diplomatik baskı ile sınırlı tutmayarak <strong>ticaret politikası aracı</strong> hâline getiriyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>ABD–Nikaragua Ticaretinin Önemi</strong></h3>
-<p style="text-align: justify">Nikaragua, ABD için büyük bir ticaret ortağı olmasa da <strong>stratejik öneme sahip</strong> bir tedarikçi konumunda. Ülke, ABD’nin ithalat kaynakları arasında <strong>yaklaşık 60. sırada</strong> yer almakta. Ancak Nikaragua ekonomisi açısından ABD pazarı kritik:</p>
+<p style="text-align: justify">Nikaragua, ABD için büyük bir ticaret ortağı olmasa da <strong>stratejik öneme sahip</strong> bir tedarikçi konumunda. Ülke, ABD’nin ithalat kaynakları arasında <strong>yaklaşık 60. sırada</strong> yer alıyor. Ancak Nikaragua ekonomisi açısından ABD pazarı kritik:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">2024’te Nikaragua’nın toplam ihracatı: <strong>7,52 milyar USD</strong></p></li>
   <li style="text-align: justify"><p style="text-align: justify">Bunun <strong>%52’si ABD’ye</strong> yapıldı</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Başlıca ürünler: <strong>apparel, knitwear ve tekstil ürünleri</strong></p></li>
 </ul>
-<p style="text-align: justify">Bu tablo, ABD’nin uygulayacağı ek tarifelerin Nikaragua ekonomisi üzerinde <strong>orantısız derecede büyük etki</strong> yaratacağını göstermekte.</p>
+<p style="text-align: justify">Bu tablo, ABD’nin uygulayacağı ek tarifelerin Nikaragua ekonomisi üzerinde <strong>orantısız derecede büyük etki</strong> yaratacağını gösteriyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>CAFTA-DR İstisnası ve Kapsam</strong></h3>
-<p style="text-align: justify">Yeni tarifeler, <strong>CAFTA-DR kapsamında koruma altında olan ürünleri</strong> kapsam dışı bırakmakta. Ancak anlaşma dışındaki ürünler için ek vergiler tam olarak uygulanacak. Bu durum, özellikle tekstil tedarik zincirinde <strong>menşe ve sertifikasyon süreçlerinin</strong> daha kritik hâle gelmesine yol açabilir.</p>
+<p style="text-align: justify">Yeni tarifeler, <strong>CAFTA-DR kapsamında koruma altında olan ürünleri</strong> kapsam dışı bırakıyor. Ancak anlaşma dışındaki ürünler için ek vergiler tam olarak uygulanacak. Bu durum, özellikle tekstil tedarik zincirinde <strong>menşe ve sertifikasyon süreçlerinin</strong> daha kritik hâle gelmesine yol açabilir.</p>
 <p><br></p>
-<p style="text-align: justify">ABD’li ithalatçılar için bu gelişme, Nikaragua kaynaklı tedariklerin maliyetinin artması anlamına gelmekte. Bu nedenle şirketler:</p>
+<p style="text-align: justify">ABD’li ithalatçılar için bu gelişme, Nikaragua kaynaklı tedariklerin maliyetinin artması anlamına geliyor. Bu nedenle şirketler:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">tedariki <strong>Honduras, Guatemala veya Dominik Cumhuriyeti</strong> gibi alternatif CAFTA-DR ülkelerine kaydırmayı,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">veya Meksika ve Asya kaynaklı tedariklerle yeniden denge kurmayı değerlendirebilir.</p></li>
@@ -65,10 +65,10 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">iş gücü ve insan hakları alanında <strong>somut iyileştirmeler</strong> göstermezse,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">tarifelerin <strong>daha erken uygulanması</strong> veya oranların <strong>daha da artırılması</strong> gündeme gelebilir.</p></li>
 </ul>
-<p style="text-align: justify">Bu ifade, Washington’ın tarifeleri <strong>dinamik bir baskı aracı</strong> olarak kullanmakta olduğunu ortaya koyuyor.</p>
+<p style="text-align: justify">Bu ifade, Washington’ın tarifeleri <strong>dinamik bir baskı aracı</strong> olarak kullanıyor olduğunu ortaya koyuyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Tedarik Zinciri ve Bölgesel Etki</strong></h3>
-<p style="text-align: justify">Orta Amerika, son yıllarda <strong>nearshoring</strong> stratejilerinin merkezinde yer almakta. Nikaragua’ya yönelik ek tarifeler, ABD şirketlerinin bölgedeki tedarik haritalarını yeniden çizmesine neden olabilir. Özellikle düşük maliyetli konfeksiyon üretiminde Nikaragua’nın cazibesi azalırken, komşu ülkeler için fırsat penceresi açılmakta.</p>
+<p style="text-align: justify">Orta Amerika, son yıllarda <strong>nearshoring</strong> stratejilerinin merkezinde yer alıyor. Nikaragua’ya yönelik ek tarifeler, ABD şirketlerinin bölgedeki tedarik haritalarını yeniden çizmesine neden olabilir. Özellikle düşük maliyetli konfeksiyon üretiminde Nikaragua’nın cazibesi azalırken, komşu ülkeler için fırsat penceresi açılıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar:</strong></h3>
 <ul>

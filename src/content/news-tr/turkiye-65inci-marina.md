@@ -26,7 +26,7 @@ tags:
 <p style="text-align: justify">Uraloğlu, Türkiye’nin üç tarafının denizlerle çevrili olmasının yalnızca coğrafi değil, kültürel bir avantaj olduğunu vurguladı. Denizcilik faaliyetlerinin ekonomiye, turizme, bölgesel kalkınmaya ve istihdama sağladığı katkıların Bakanlık için öncelikli alanlar arasında olduğunu ifade etti.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Türkiye’nin limanları küresel sıralamada yükseliyor</strong></h4>
-<p style="text-align: justify">Bakan Uraloğlu, konuşmasında <strong>Aliağa Limanı’nın ilk kez dünyanın en yoğun 100 konteyner limanı</strong> arasına girerek 91’inci sırada yer aldığını açıkladı. Bununla birlikte Türkiye’nin artık Ambarlı, Kocaeli, Tekirdağ, Mersin ve Aliağa olmak üzere <strong>beş limanı</strong> ilk 100 içerisinde bulunuyor. Bu gelişme, Türkiye’nin küresel deniz lojistiğinde artan ağırlığını göstermekte.</p>
+<p style="text-align: justify">Bakan Uraloğlu, konuşmasında <strong>Aliağa Limanı’nın ilk kez dünyanın en yoğun 100 konteyner limanı</strong> arasına girerek 91’inci sırada yer aldığını açıkladı. Bununla birlikte Türkiye’nin artık Ambarlı, Kocaeli, Tekirdağ, Mersin ve Aliağa olmak üzere <strong>beş limanı</strong> ilk 100 içerisinde bulunuyor. Bu gelişme, Türkiye’nin küresel deniz lojistiğinde artan ağırlığını gösteriyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Ticari filo altı kat büyüdü</strong></h4>
 <p style="text-align: justify">Uraloğlu’na göre Türkiye’nin ticaret filosu son 20 yılda dikkat çekici bir büyüme kaydetti.</p>

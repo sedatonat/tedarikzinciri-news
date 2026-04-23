@@ -22,7 +22,7 @@ tags:
 ---
 <p>Nellis Air Force Base'deki 57th Munitions Squadron (MUNS), mühimmat ve lojistik yönetiminde karşılaştığı önemli zorluklarla mücadele ediyordu. Geleneksel operasyonlar, haftalık yaklaşık 250 insan saatine mal olan emek yoğun, verimsiz ve hataya açık süreçler içeriyordu. Bu durum, misyon için kritik görevlerin yerine getirilmesinde verimliliği düşürüyordu.</p>
 <p><br></p>
-<p>Las Vegas, Nevada dışında yer alan Nellis AFB, yüzlerce depolama sığınağına ev sahipliği yapıyor ve bu sığınakların doğru envanter kayıtları, envanter yönetimi, varlık takibi ve veri girişi için manuel operasyonlar gerekmekteydi. Ancak mevcut varlık yönetim platformu olan Theater Integrated Combat Munitions System (TICMS), manuel veri girişine dayandığı için verimsizlikleri ve zayıflıkları artırıyordu.</p>
+<p>Las Vegas, Nevada dışında yer alan Nellis AFB, yüzlerce depolama sığınağına ev sahipliği yapıyor ve bu sığınakların doğru envanter kayıtları, envanter yönetimi, varlık takibi ve veri girişi için manuel operasyonlar gerekiyorydi. Ancak mevcut varlık yönetim platformu olan Theater Integrated Combat Munitions System (TICMS), manuel veri girişine dayandığı için verimsizlikleri ve zayıflıkları artırıyordu.</p>
 <p><br></p>
 <p>National Science Foundation’ın Small Business Innovation Research (SBIR II) programı kapsamında sağlanan bir hibe sayesinde, Nellis AFB, varlık takibi teknolojisi sağlayıcısı SEE ID Inc. ile iş birliği yaptı. Bu iş birliği, operasyonları hızlandıracak, manuel emeği önemli ölçüde azaltacak ve takip doğruluğunu artıracak yeni bir track-and-trace lojistik sistemi uygulamayı hedefliyordu.</p>
 <p><br></p>

@@ -18,14 +18,14 @@ tags:
 - rota optimizasyonu
 - order picking
 ---
-<p style="text-align: justify">Depo operasyonlarında <strong>order picking</strong>, en fazla emek, zaman ve maliyet gerektiren faaliyetlerin başında gelmekte. Yüzeyde basit gibi görünse de, sipariş toplama; yoğun insan hareketi, farklı ürün özellikleri, ekipman kullanımı ve zaman baskısının bir araya geldiği son derece karmaşık bir süreç olarak öne çıkmakta. Buna rağmen pek çok depo yönetim sistemi hâlen bu süreci <strong>basit ortalamalar</strong> üzerinden planlamakta. <strong>Sinir ağları (neural networks)</strong> ise bu yaklaşımı kökten değiştirmekte.</p>
+<p style="text-align: justify">Depo operasyonlarında <strong>order picking</strong>, en fazla emek, zaman ve maliyet gerektiren faaliyetlerin başında geliyor. Yüzeyde basit gibi görünse de, sipariş toplama; yoğun insan hareketi, farklı ürün özellikleri, ekipman kullanımı ve zaman baskısının bir araya geldiği son derece karmaşık bir süreç olarak öne çıkıyor. Buna rağmen pek çok depo yönetim sistemi hâlen bu süreci <strong>basit ortalamalar</strong> üzerinden planlıyor. <strong>Sinir ağları (neural networks)</strong> ise bu yaklaşımı kökten değiştiriyor.</p>
 <p><br></p>
-<p style="text-align: justify">Geleneksel sistemler, bir siparişin ne kadar sürede toplanacağını geçmiş ortalamalara bakarak tahmin etmekte. Ancak gerçek dünyada siparişler birbirine benzememekte. Küçük ve hafif ürünlerden oluşan bir sipariş ile üst raflardan indirilen, ağır ve hacimli tek bir kolinin toplanması aynı süreyi gerektirmemekte. Üstelik günün saati, vardiya yoğunluğu, yorgunluk, ekipman türü ve depo içi trafik gibi faktörler, bu süreleri ciddi biçimde etkilemekte.</p>
+<p style="text-align: justify">Geleneksel sistemler, bir siparişin ne kadar sürede toplanacağını geçmiş ortalamalara bakarak tahmin ediyor. Ancak gerçek dünyada siparişler birbirine benzememekte. Küçük ve hafif ürünlerden oluşan bir sipariş ile üst raflardan indirilen, ağır ve hacimli tek bir kolinin toplanması aynı süreyi gerektirmemekte. Üstelik günün saati, vardiya yoğunluğu, yorgunluk, ekipman türü ve depo içi trafik gibi faktörler, bu süreleri ciddi biçimde etkiliyor.</p>
 <p><br></p>
-<p style="text-align: justify"><strong>Neural networks</strong>, bu karmaşıklığı basitleştirmek yerine <strong>öğrenmeyi</strong> tercih etmekte. Sistem, gerçek depo verilerinden beslenerek sabit kurallar yerine dinamik kalıplar oluşturmaktadır.</p>
+<p style="text-align: justify"><strong>Neural networks</strong>, bu karmaşıklığı basitleştirmek yerine <strong>öğrenmeyi</strong> tercih ediyor. Sistem, gerçek depo verilerinden beslenerek sabit kurallar yerine dinamik kalıplar oluşturuyordır.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Sinir Ağları Depoda Nasıl Çalışıyor?</strong></h3>
-<p style="text-align: justify">Sinir ağları, çok sayıda girdiyi aynı anda değerlendirmekte. Bunlar arasında:</p>
+<p style="text-align: justify">Sinir ağları, çok sayıda girdiyi aynı anda değerlendiriyor. Bunlar arasında:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>item size ve weight</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>storage location</strong> (raf yüksekliği, koridor konumu),</p></li>
@@ -35,39 +35,39 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>time of day</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>peak shift congestion</strong></p></li>
 </ul>
-<p style="text-align: justify">gibi değişkenler yer almakta. Sistem, bu faktörlerin gerçek toplama sürelerini nasıl etkilediğini analiz ederek zaman içinde daha doğru tahminler üretmekte.</p>
+<p style="text-align: justify">gibi değişkenler yer alıyor. Sistem, bu faktörlerin gerçek toplama sürelerini nasıl etkilediğini analiz ederek zaman içinde daha doğru tahminler üretiyor.</p>
 <p><br></p>
-<p style="text-align: justify">Bu yaklaşım sayesinde yöneticiler, “ortalama” bir gün için değil, <strong>bugünün gerçek koşulları</strong> için planlama yapabilmekte. Böylece iş gücü dağılımı daha dengeli hâle gelmekte ve gecikmeler daha erken fark edilmekte.</p>
+<p style="text-align: justify">Bu yaklaşım sayesinde yöneticiler, “ortalama” bir gün için değil, <strong>bugünün gerçek koşulları</strong> için planlama yapabiliyor. Böylece iş gücü dağılımı daha dengeli hâle geliyor ve gecikmeler daha erken fark ediliyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Gerçekçi Zaman Tahminleri</strong></h3>
-<p style="text-align: justify">Örneğin yoğun bir akşamüstü vardiyasında, 500 siparişin kamyon yükleme saatinden önce tamamlanması gerekmekte. Geleneksel sistemler, geçmiş verilere bakarak kaba bir süre tahmini sunmakta. Sinir ağları ise:</p>
+<p style="text-align: justify">Örneğin yoğun bir akşamüstü vardiyasında, 500 siparişin kamyon yükleme saatinden önce tamamlanması gerekiyor. Geleneksel sistemler, geçmiş verilere bakarak kaba bir süre tahmini sunuyor. Sinir ağları ise:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">siparişlerin ağır ürün içerip içermediğini,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">ürünlerin zor erişilen bölgelerde olup olmadığını,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">o saatlerde genellikle <strong>congestion</strong> yaşanıp yaşanmadığını,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">uzun süreli çalışmaya bağlı performans düşüşünü</p></li>
 </ul>
-<p style="text-align: justify">hesaba katmakta. Böylece tahmin, gerçekçi ve operasyonel olarak uygulanabilir hâle gelmekte. Bu durum, müşteri tarafında <strong>daha güvenilir teslimat sözleri</strong> verilmesini sağlamakta.</p>
+<p style="text-align: justify">hesaba katıyor. Böylece tahmin, gerçekçi ve operasyonel olarak uygulanabilir hâle geliyor. Bu durum, müşteri tarafında <strong>daha güvenilir teslimat sözleri</strong> verilmesini sağlıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Rota Optimizasyonunda Yeni Yaklaşım</strong></h3>
-<p style="text-align: justify">Sipariş toplamada zamanın büyük bölümü <strong>travel time</strong> ile geçmekte. Teoride bu, en kısa yol problemini çözmeye benzemekte. Ancak pratikte depolar düzensiz, koridorlar kalabalık ve insan davranışı değişkendir.</p>
+<p style="text-align: justify">Sipariş toplamada zamanın büyük bölümü <strong>travel time</strong> ile geçiyor. Teoride bu, en kısa yol problemini çözmeye benzemekte. Ancak pratikte depolar düzensiz, koridorlar kalabalık ve insan davranışı değişkendir.</p>
 <p><br></p>
-<p style="text-align: justify">Geleneksel algoritmalar, matematiksel olarak “en iyi” rotayı hesaplamaya çalışmakta. Sinir ağları ise geçmişte gerçekten işe yarayan rotaları öğrenmekte. <strong>Scanner</strong>, <strong>voice picking</strong> ve <strong>wearable</strong> verilerinden beslenen sistem, çalışanların hangi koridorlardan kaçındığını, hangi geçişlerin zaman kazandırdığını fark etmekte.</p>
+<p style="text-align: justify">Geleneksel algoritmalar, matematiksel olarak “en iyi” rotayı hesaplamaya çalışıyor. Sinir ağları ise geçmişte gerçekten işe yarayan rotaları öğrenmekte. <strong>Scanner</strong>, <strong>voice picking</strong> ve <strong>wearable</strong> verilerinden beslenen sistem, çalışanların hangi koridorlardan kaçındığını, hangi geçişlerin zaman kazandırdığını fark ediyor.</p>
 <p><br></p>
-<p style="text-align: justify">Bu sayede sistem, idealize edilmiş değil; <strong>gerçekçi ve hızlı hesaplanabilir</strong> rotalar önermekte. Örneğin klasik <strong>Z picking</strong> yerine, duruma göre <strong>ladder picking</strong> veya tek taraflı giriş–çıkış stratejileri önerebilmekte. Zamanla, belirli bir koridorun neden sürekli yavaşladığını bile öğrenebilmekte.</p>
+<p style="text-align: justify">Bu sayede sistem, idealize edilmiş değil; <strong>gerçekçi ve hızlı hesaplanabilir</strong> rotalar öneriyor. Örneğin klasik <strong>Z picking</strong> yerine, duruma göre <strong>ladder picking</strong> veya tek taraflı giriş–çıkış stratejileri önerebiliyor. Zamanla, belirli bir koridorun neden sürekli yavaşladığını bile öğrenebiliyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Sürekli Öğrenme ve Adaptasyon</strong></h3>
-<p style="text-align: justify">Sinir ağlarının en büyük avantajı, <strong>öğrenmeyi bırakmaması</strong>. Her vardiya, her sezon ve her sipariş sisteme yeni veri eklemekte. Bu sayede model:</p>
+<p style="text-align: justify">Sinir ağlarının en büyük avantajı, <strong>öğrenmeyi bırakmaması</strong>. Her vardiya, her sezon ve her sipariş sisteme yeni veri ekliyor. Bu sayede model:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">mevsimsel yoğunlukları,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">kampanya dönemlerini,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">yeni ekipman veya yerleşim değişikliklerini</p></li>
 </ul>
-<p style="text-align: justify">hızla adapte etmekte.</p>
-<p style="text-align: justify">Bu durum yöneticiler için <strong>daha sıkı iş gücü planlaması</strong>, çalışanlar için <strong>daha adil performans beklentileri</strong>, müşteriler için ise <strong>daha istikrarlı fulfillment</strong> anlamına gelmekte.</p>
+<p style="text-align: justify">hızla adapte ediyor.</p>
+<p style="text-align: justify">Bu durum yöneticiler için <strong>daha sıkı iş gücü planlaması</strong>, çalışanlar için <strong>daha adil performans beklentileri</strong>, müşteriler için ise <strong>daha istikrarlı fulfillment</strong> anlamına geliyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Stratejik Etki</strong></h3>
-<p style="text-align: justify">Depolar her zaman karmaşık olmaya devam edecek. Sinir ağları bu karmaşıklığı ortadan kaldırmamakta, ancak <strong>yönetilebilir hâle getirmekte</strong>. Günlük operasyon verilerinin anlamlı içgörülere dönüştürülmesi, özellikle iş gücü açığı ve artan e-ticaret hacimleri karşısında kritik önem taşımakta.</p>
+<p style="text-align: justify">Depolar her zaman karmaşık olmaya devam edecek. Sinir ağları bu karmaşıklığı ortadan kaldırmamakta, ancak <strong>yönetilebilir hâle getiriyor</strong>. Günlük operasyon verilerinin anlamlı içgörülere dönüştürülmesi, özellikle iş gücü açığı ve artan e-ticaret hacimleri karşısında kritik önem taşıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar:</strong></h3>
 <ul>

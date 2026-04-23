@@ -17,20 +17,20 @@ tags:
 - altyapı yönetimi
 - iş gücü çeşitliliği
 ---
-<p>Bir liman otoritesi, yönetiminde kadın liderliğin öne çıktığını vurgularken; DEI (çeşitlilik, eşitlik, kapsayıcılık) politikaları siyasi tartışmaların odağında yer almakta.&nbsp;</p>
+<p>Bir liman otoritesi, yönetiminde kadın liderliğin öne çıktığını vurgularken; DEI (çeşitlilik, eşitlik, kapsayıcılık) politikaları siyasi tartışmaların odağında yer alıyor.&nbsp;</p>
 <p><br></p>
-<p>Kadın liderlerin lojistik ve altyapı projelerindeki rolü, paydaş yönetiminde güven ve şeffaflık düzeyini yükseltmekte; iş gücü çeşitliliği, yetenek çekimi ve inovasyon kapasitesiyle ilişkilendirilmekte. Eleştirel yaklaşım, DEI programlarının performans yerine kota mekanizmalarına kayabileceğini iddia etmekte; destekçiler ise ölçülebilir hedefler ve şeffaf metriklerle programların işletme sonuçlarına katkı sunduğunu belirtmekte.&nbsp;</p>
+<p>Kadın liderlerin lojistik ve altyapı projelerindeki rolü, paydaş yönetiminde güven ve şeffaflık düzeyini yükseltiyor; iş gücü çeşitliliği, yetenek çekimi ve inovasyon kapasitesiyle ilişkilendirilmekte. Eleştirel yaklaşım, DEI programlarının performans yerine kota mekanizmalarına kayabileceğini iddia ediyor; destekçiler ise ölçülebilir hedefler ve şeffaf metriklerle programların işletme sonuçlarına katkı sunduğunu belirtiyor.&nbsp;</p>
 <p><br></p>
-<p>Sektörel veriler, gemi trafiği yönetimi, çevresel uyum ve topluluk ilişkilerinde çeşitlilik temelli ekiplerin sorun çözme hızını artırdığını göstermekte.&nbsp;</p>
+<p>Sektörel veriler, gemi trafiği yönetimi, çevresel uyum ve topluluk ilişkilerinde çeşitlilik temelli ekiplerin sorun çözme hızını artırdığını gösteriyor.&nbsp;</p>
 <p><br></p>
-<p>Sonuç olarak, liman ve ulaştırma kurumlarında liderlikte çeşitlilik, altyapı yatırımlarının sosyal lisansını güçlendirmekte; politik tartışmalara rağmen uygulama alanı bulmaya devam etmekte.</p>
+<p>Sonuç olarak, liman ve ulaştırma kurumlarında liderlikte çeşitlilik, altyapı yatırımlarının sosyal lisansını güçlendiriyor; politik tartışmalara rağmen uygulama alanı bulmaya devam ediyor.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
-1. Kadın liderlik paydaş güvenini artırmakta.<br>
-2. DEI metrikleri şeffaf yönetilmekte.<br>
-3. Eleştiriler performans odaklılık üzerinden gelmekte.<br>
-4. Çeşitlilik ekiplerin problem çözme hızını artırmakta.<br>
-5. Sosyal lisans altyapı projeleri için güçlenmekte.</p>
+1. Kadın liderlik paydaş güvenini artırıyor.<br>
+2. DEI metrikleri şeffaf yönetiliyor.<br>
+3. Eleştiriler performans odaklılık üzerinden geliyor.<br>
+4. Çeşitlilik ekiplerin problem çözme hızını artırıyor.<br>
+5. Sosyal lisans altyapı projeleri için güçleniyor.</p>
 <p><br></p>
 <p>---<br>
 Haber Linki: https://www.supplychainbrain.com/articles/41377-port-authority-touts-female-leadership-as-trump-blasts-dei<br>

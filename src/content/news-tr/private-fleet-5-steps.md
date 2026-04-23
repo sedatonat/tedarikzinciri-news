@@ -20,21 +20,21 @@ tags:
 - rota optimizasyonu
 - önleyici bakım
 ---
-<p>Özel filolar, düşük maliyet ve hızlı geri dönüş sağlayan sürdürülebilirlik girişimleriyle hem çevresel hem finansal fayda elde etmekte.&nbsp;</p>
-<p>1: Idle reduction ve eco-driving eğitimleri ile yakıt tüketimi düşürülmekte.&nbsp;</p>
-<p>2: Tire pressure monitoring ve aerodynamic kits sayesinde enerji verimliliği artmakta.&nbsp;</p>
-<p>3: Right-sizing ve route optimization ile ihtiyaç fazlası araçlar filodan çıkarılmakta.&nbsp;</p>
-<p>4: Renewable diesel ve biofuels gibi alternatif yakıtlar, geçiş döneminde emisyonları azaltmakta.&nbsp;</p>
-<p>5: Preventive/predictive maintenance programları, arıza ve emisyon artışlarını önlemekte.&nbsp;</p>
+<p>Özel filolar, düşük maliyet ve hızlı geri dönüş sağlayan sürdürülebilirlik girişimleriyle hem çevresel hem finansal fayda elde ediyor.&nbsp;</p>
+<p>1: Idle reduction ve eco-driving eğitimleri ile yakıt tüketimi düşürülüyor.&nbsp;</p>
+<p>2: Tire pressure monitoring ve aerodynamic kits sayesinde enerji verimliliği artıyor.&nbsp;</p>
+<p>3: Right-sizing ve route optimization ile ihtiyaç fazlası araçlar filodan çıkarılıyor.&nbsp;</p>
+<p>4: Renewable diesel ve biofuels gibi alternatif yakıtlar, geçiş döneminde emisyonları azaltıyor.&nbsp;</p>
+<p>5: Preventive/predictive maintenance programları, arıza ve emisyon artışlarını önlüyor.&nbsp;</p>
 <p><br></p>
-<p>Veri temelli KPIs ve sürücü teşvikleri (bonus, gamification) davranış değişimini kalıcı hale getirmekte. Ayrıca telemetry ve dashcam analytics ile güvenlik performansı da iyileşmekte. Sonuçta, küçük adımlarla başlanan programlar, bir yıl içinde belirgin maliyet ve karbon azaltımı sağlayabilmekte.</p>
+<p>Veri temelli KPIs ve sürücü teşvikleri (bonus, gamification) davranış değişimini kalıcı hale getiriyor. Ayrıca telemetry ve dashcam analytics ile güvenlik performansı da iyileşmekte. Sonuçta, küçük adımlarla başlanan programlar, bir yıl içinde belirgin maliyet ve karbon azaltımı sağlayabiliyor.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
-1. Idle reduction ve eco-driving hızlı tasarruf sağlamakta.<br>
-2. Aerodynamic kits verimliliği artırmakta.<br>
-3. Right-sizing gereksiz kapasiteyi azaltmakta.<br>
-4. Alternatif yakıtlar geçişte köprü olmakta.<br>
-5. Önleyici bakım emisyonları düşürmekte.</p>
+1. Idle reduction ve eco-driving hızlı tasarruf sağlıyor.<br>
+2. Aerodynamic kits verimliliği artırıyor.<br>
+3. Right-sizing gereksiz kapasiteyi azaltıyor.<br>
+4. Alternatif yakıtlar geçişte köprü oluyor.<br>
+5. Önleyici bakım emisyonları düşürüyor.</p>
 <p><br>
 ---<br>
 <strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/41497-five-easy-to-implement-sustainability-initiatives-for-private-fleets"><u>https://www.supplychainbrain.com/articles/41497-five-easy-to-implement-sustainability-initiatives-for-private-fleets</u></a><br>

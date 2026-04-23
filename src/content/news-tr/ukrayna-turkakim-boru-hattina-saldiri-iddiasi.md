@@ -37,7 +37,7 @@ tags:
 <p style="text-align: justify"><br></p>
 <h5 style="text-align: justify">Önemli Notlar:</h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">Rusya Savunma Bakanlığı, Ukrayna'nın <strong>TürkAkım</strong> doğalgaz boru hattına saldırdığını iddia etmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Rusya Savunma Bakanlığı, Ukrayna'nın <strong>TürkAkım</strong> doğalgaz boru hattına saldırdığını iddia ediyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Saldırıda İHA'lar kullanılmış ve Rus hava savunma sistemleri tarafından düşürülmüş.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>TürkAkım</strong> boru hattı, Rusya'dan Türkiye'ye doğalgaz taşıyan önemli bir hat.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Saldırı girişimi, Türkiye'nin enerji güvenliği açısından önemli bir gelişme.</p></li>

@@ -19,34 +19,34 @@ tags:
 - siber güvenlik
 - tedarik zinciri
 ---
-<p style="text-align: justify">Birleşik Krallık'ta e-ticaret sektöründe faaliyet gösteren şirketler, <strong>ERP</strong> (Enterprise Resource Planning) sistemlerindeki kesintiler nedeniyle ciddi mali kayıplarla karşı karşıya kalmaktadır. Bu kesintiler, günlük ortalama 26.000 sterlin gibi yüksek bir maliyete yol açmaktadır.​</p>
+<p style="text-align: justify">Birleşik Krallık'ta e-ticaret sektöründe faaliyet gösteren şirketler, <strong>ERP</strong> (Enterprise Resource Planning) sistemlerindeki kesintiler nedeniyle ciddi mali kayıplarla karşı karşıya kalıyordır. Bu kesintiler, günlük ortalama 26.000 sterlin gibi yüksek bir maliyete yol açıyordır.​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>ERP Sistemlerinin Önemi</strong></p>
-<p style="text-align: justify"><strong>ERP</strong> sistemleri, şirketlerin finans, insan kaynakları, tedarik zinciri ve müşteri ilişkileri gibi temel iş süreçlerini entegre ederek yönetmelerine olanak tanımaktadır. Bu sistemler, operasyonel verimliliği artırmakta, maliyetleri düşürmekte ve karar alma süreçlerini iyileştirmektedir. Özellikle e-ticaret sektöründe, sipariş yönetimi, envanter kontrolü ve lojistik gibi kritik süreçlerin etkin bir şekilde yönetilmesi için <strong>ERP</strong> sistemleri hayati bir rol oynamaktadır.​</p>
+<p style="text-align: justify"><strong>ERP</strong> sistemleri, şirketlerin finans, insan kaynakları, tedarik zinciri ve müşteri ilişkileri gibi temel iş süreçlerini entegre ederek yönetmelerine olanak tanıyordır. Bu sistemler, operasyonel verimliliği artırıyor, maliyetleri düşürüyor ve karar alma süreçlerini iyileştiriyordir. Özellikle e-ticaret sektöründe, sipariş yönetimi, envanter kontrolü ve lojistik gibi kritik süreçlerin etkin bir şekilde yönetilmesi için <strong>ERP</strong> sistemleri hayati bir rol oynuyordır.​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Kesintilerin Nedenleri ve Etkileri</strong></p>
-<p style="text-align: justify"><strong>ERP</strong> sistemlerindeki kesintiler, çeşitli nedenlerden kaynaklanabilmektedir. Bunlar arasında teknik arızalar, yazılım güncellemeleri, siber saldırılar ve insan hataları bulunmaktadır. Bu tür kesintiler, şirketlerin operasyonlarını aksatmakta, siparişlerin işlenmesinde gecikmelere, müşteri memnuniyetsizliğine ve gelir kaybına yol açmaktadır. Ayrıca, kesintiler sırasında veri kaybı veya bozulması riski de bulunmaktadır.​</p>
+<p style="text-align: justify"><strong>ERP</strong> sistemlerindeki kesintiler, çeşitli nedenlerden kaynaklanabiliyordir. Bunlar arasında teknik arızalar, yazılım güncellemeleri, siber saldırılar ve insan hataları bulunuyordır. Bu tür kesintiler, şirketlerin operasyonlarını aksatıyor, siparişlerin işlenmesinde gecikmelere, müşteri memnuniyetsizliğine ve gelir kaybına yol açıyordır. Ayrıca, kesintiler sırasında veri kaybı veya bozulması riski de bulunuyordır.​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Mali Kayıpların Hesaplanması</strong></p>
-<p style="text-align: justify">Birleşik Krallık'ta e-ticaret şirketlerinin <strong>ERP</strong> kesintileri nedeniyle günlük ortalama 26.000 sterlin kaybettiği belirtilmektedir. Bu rakam, şirketlerin büyüklüğüne, işlem hacmine ve kesintinin süresine bağlı olarak değişiklik gösterebilmektedir. Örneğin, büyük ölçekli bir e-ticaret şirketi için bu maliyetler daha yüksek olabilirken, küçük ölçekli bir şirket için daha düşük seviyelerde olabilir.​</p>
+<p style="text-align: justify">Birleşik Krallık'ta e-ticaret şirketlerinin <strong>ERP</strong> kesintileri nedeniyle günlük ortalama 26.000 sterlin kaybettiği belirtiliyordir. Bu rakam, şirketlerin büyüklüğüne, işlem hacmine ve kesintinin süresine bağlı olarak değişiklik gösterebiliyordir. Örneğin, büyük ölçekli bir e-ticaret şirketi için bu maliyetler daha yüksek olabilirken, küçük ölçekli bir şirket için daha düşük seviyelerde olabilir.​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Kesintilerin Önlenmesi İçin Alınabilecek Önlemler</strong></p>
-<p style="text-align: justify">Şirketlerin <strong>ERP</strong> kesintilerinden kaynaklanan mali kayıpları en aza indirmek için çeşitli önlemler alması gerekmektedir. Bunlar arasında:​</p>
+<p style="text-align: justify">Şirketlerin <strong>ERP</strong> kesintilerinden kaynaklanan mali kayıpları en aza indirmek için çeşitli önlemler alması gerekiyordir. Bunlar arasında:​</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Yedekleme ve Felaket Kurtarma Planları:</strong> Düzenli veri yedeklemeleri yapmak ve kapsamlı bir felaket kurtarma planı oluşturmak, kesinti durumlarında verilerin hızlı bir şekilde geri yüklenmesini sağlamaktadır.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Sistem Güncellemeleri ve Bakım:</strong> <strong>ERP</strong> yazılımlarının ve donanımlarının düzenli olarak güncellenmesi ve bakımı, teknik arızaların ve güvenlik açıklarının önlenmesine yardımcı olmaktadır.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Siber Güvenlik Önlemleri:</strong> Güçlü güvenlik duvarları, antivirüs yazılımları ve çalışanların siber güvenlik konusunda eğitilmesi, siber saldırı riskini azaltmaktadır.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Personel Eğitimi:</strong> Çalışanların <strong>ERP</strong> sistemlerini doğru ve etkin bir şekilde kullanmaları için düzenli eğitimler verilmesi, insan hatalarından kaynaklanan kesintileri azaltmaktadır.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Yedekleme ve Felaket Kurtarma Planları:</strong> Düzenli veri yedeklemeleri yapmak ve kapsamlı bir felaket kurtarma planı oluşturmak, kesinti durumlarında verilerin hızlı bir şekilde geri yüklenmesini sağlıyordır.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Sistem Güncellemeleri ve Bakım:</strong> <strong>ERP</strong> yazılımlarının ve donanımlarının düzenli olarak güncellenmesi ve bakımı, teknik arızaların ve güvenlik açıklarının önlenmesine yardımcı oluyordır.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Siber Güvenlik Önlemleri:</strong> Güçlü güvenlik duvarları, antivirüs yazılımları ve çalışanların siber güvenlik konusunda eğitilmesi, siber saldırı riskini azaltıyordır.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Personel Eğitimi:</strong> Çalışanların <strong>ERP</strong> sistemlerini doğru ve etkin bir şekilde kullanmaları için düzenli eğitimler verilmesi, insan hatalarından kaynaklanan kesintileri azaltıyordır.​</p></li>
 </ul>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>ERP</strong> kesintileri, Birleşik Krallık'taki e-ticaret şirketlerine günlük ortalama 26.000 sterlin maliyet oluşturmaktadır.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Kesintilerin nedenleri arasında teknik arızalar, yazılım güncellemeleri, siber saldırılar ve insan hataları bulunmaktadır.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>ERP</strong> kesintileri, Birleşik Krallık'taki e-ticaret şirketlerine günlük ortalama 26.000 sterlin maliyet oluşturuyordır.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Kesintilerin nedenleri arasında teknik arızalar, yazılım güncellemeleri, siber saldırılar ve insan hataları bulunuyordır.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Mali kayıpları en aza indirmek için yedekleme ve felaket kurtarma planları, düzenli sistem güncellemeleri, siber güvenlik önlemleri ve personel eğitimi gibi önlemler alınmalıdır.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>ERP</strong> sistemleri, e-ticaret sektöründe sipariş yönetimi, envanter kontrolü ve lojistik gibi kritik süreçlerin etkin yönetimi için hayati öneme sahiptir.​</p></li>
 </ul>
-<p style="text-align: justify">Sonuç olarak, <strong>ERP</strong> sistemlerindeki kesintiler, e-ticaret şirketlerinin operasyonlarını olumsuz etkilemekte ve ciddi mali kayıplara yol açmaktadır. Şirketlerin bu tür kesintileri önlemek için proaktif önlemler alması, operasyonel verimliliği artırmakta ve müşteri memnuniyetini sağlamaktadır.</p>
+<p style="text-align: justify">Sonuç olarak, <strong>ERP</strong> sistemlerindeki kesintiler, e-ticaret şirketlerinin operasyonlarını olumsuz etkiliyor ve ciddi mali kayıplara yol açıyordır. Şirketlerin bu tür kesintileri önlemek için proaktif önlemler alması, operasyonel verimliliği artırıyor ve müşteri memnuniyetini sağlıyordır.</p>
 <p><br></p>
 <p><br></p>
 <p>---</p>

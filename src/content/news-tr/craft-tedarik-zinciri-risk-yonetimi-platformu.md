@@ -31,7 +31,7 @@ tags:
   <li><p>Platform, AI destekli risk uyarıları ile tedarik zincirindeki risklere proaktif yanıt verilmesini sağlıyor.</p></li>
   <li><p>360 derece tedarikçi görünürlüğü, hiper-relevant risk sinyalleri ve modern bir işbirliği alanı sunuyor.</p></li>
   <li><p>Platform, işbirliği odaklı tasarımı ile veri merkezileştirme, iletişim ve risk azaltma işlevlerini geliştiriyor.</p></li>
-  <li><p>Büyük hükümet ve ticari kuruluşlar tarafından kullanılmakta.</p></li>
+  <li><p>Büyük hükümet ve ticari kuruluşlar tarafından kullanılıyor.</p></li>
 </ol>
 <p><br></p>
 <p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/39661-introducing-the-craft-supplier-risk-management-platform"><u>https://www.supplychainbrain.com/articles/39661-introducing-the-craft-supplier-risk-management-platform</u></a></p>

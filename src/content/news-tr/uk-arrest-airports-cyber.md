@@ -21,13 +21,13 @@ tags:
 ---
 <p style="text-align: justify">Avrupa genelinde havaalanlarını hedef alan cyberattack soruşturması kapsamında İngiltere’de bir şüpheli gözaltına alındı.&nbsp;</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Olay, havalimanı IT/OT convergence noktalarında zafiyetleri gündeme taşımakta; özellikle yer hizmetleri, baggage handling systems ve biletleme altyapısında riskleri artırmakta.&nbsp;</p>
+<p style="text-align: justify">Olay, havalimanı IT/OT convergence noktalarında zafiyetleri gündeme taşıyor; özellikle yer hizmetleri, baggage handling systems ve biletleme altyapısında riskleri artırıyor.&nbsp;</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Soruşturma çoklu ülke iş birliğiyle yürütülmekte; threat intelligence sharing ve law enforcement koordinasyonu öne çıktı. Havacılık ekosistemi, network segmentation, zero-trust, ve EDR/XDR çözümlerine ek olarak personel phishing awareness eğitimlerini sıkılaştırmakta.&nbsp;</p>
+<p style="text-align: justify">Soruşturma çoklu ülke iş birliğiyle yürütülüyor; threat intelligence sharing ve law enforcement koordinasyonu öne çıktı. Havacılık ekosistemi, network segmentation, zero-trust, ve EDR/XDR çözümlerine ek olarak personel phishing awareness eğitimlerini sıkılaştırmakta.&nbsp;</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Operasyonel tarafta contingency plans devrede; slot ve uçuş planları yeniden dengelenmekte.&nbsp;</p>
+<p style="text-align: justify">Operasyonel tarafta contingency plans devrede; slot ve uçuş planları yeniden dengeleniyor.&nbsp;</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Özetle olay, ulaştırma altyapılarında siber dayanıklılığın sınır ötesi iş birliği gerektirdiğini göstermekte.</p>
+<p style="text-align: justify">Özetle olay, ulaştırma altyapılarında siber dayanıklılığın sınır ötesi iş birliği gerektirdiğini gösteriyor.</p>
 <p><br></p>
 <p><strong>Haber Linki: </strong><a href="https://www.supplychainbrain.com/articles/42549-uk-arrests-man-during-european-airports-cyberattack-probe"><u>https://www.supplychainbrain.com/articles/42549-uk-arrests-man-during-european-airports-cyberattack-probe</u></a></p>
 <p>-------------------</p>

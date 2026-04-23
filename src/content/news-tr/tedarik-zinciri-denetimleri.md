@@ -22,7 +22,7 @@ tags:
 ---
 <p style="text-align: justify"><strong>Küresel ticarette artan regülasyonlar</strong>, gümrük kurumlarını eşi görülmemiş bir baskı altına sokuyor. Özellikle <strong>ürün bileşenleri, tedarikçi ağları ve üretim süreçlerine dair şeffaflık talepleri</strong>, birçok ülke gümrük otoritesinin <strong>denetim kapasitesini aşan</strong> bir düzeye ulaşmış durumda.</p>
 <p><br></p>
-<p style="text-align: justify"><strong>ABD Gümrük ve Sınır Koruma Kurumu (CBP)</strong>, bu zorluğun ön saflarında yer alıyor. <strong>Trump yönetiminin ithalat tedarik zincirlerine yönelik artan inceleme politikaları</strong>, CBP’ye <strong>karmaşık tedarik zincirlerini bileşen düzeyinde analiz etme zorunluluğu</strong> getiriyor. Ancak mevcut altyapı ve kaynaklar, bu düzeyde bir denetimi kaldırmakta yetersiz kalıyor.</p>
+<p style="text-align: justify"><strong>ABD Gümrük ve Sınır Koruma Kurumu (CBP)</strong>, bu zorluğun ön saflarında yer alıyor. <strong>Trump yönetiminin ithalat tedarik zincirlerine yönelik artan inceleme politikaları</strong>, CBP’ye <strong>karmaşık tedarik zincirlerini bileşen düzeyinde analiz etme zorunluluğu</strong> getiriyor. Ancak mevcut altyapı ve kaynaklar, bu düzeyde bir denetimi kaldırıyor yetersiz kalıyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Ticaret politikaları ve kapasite dengesizliği</strong></h5>
 <p style="text-align: justify"><strong>Eric Johnson</strong>’ın haberine göre, son yıllarda artan <strong>uluslararası ticaret mevzuatları</strong> — özellikle insan hakları, çevresel etki ve stratejik teknoloji transferi gibi konular — ithalatçı ve ihracatçılara yeni yükümlülükler getiriyor.</p>
@@ -56,7 +56,7 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Johnson’ın haberine göre, CBP’nin Altana ile yürüttüğü proje, bu dönüşümün potansiyelini göstermekle birlikte, <strong>gümrüklerin dijital kapasite eksikliğini</strong> de ortaya koyuyor.</p>
 <p><br></p>
-<p style="text-align: justify">Sonuç olarak, <strong>artmakta olan politik denetim talepleri</strong>, ancak <strong>teknolojik modernizasyon</strong> ve <strong>uluslararası iş birliği</strong> ile karşılanabilir. Aksi halde, <strong>ticaret regülasyonlarının karmaşıklığı, küresel tedarik zincirlerinin işleyiş hızını tehdit etmeye</strong> devam edecek.</p>
+<p style="text-align: justify">Sonuç olarak, <strong>artıyor olan politik denetim talepleri</strong>, ancak <strong>teknolojik modernizasyon</strong> ve <strong>uluslararası iş birliği</strong> ile karşılanabilir. Aksi halde, <strong>ticaret regülasyonlarının karmaşıklığı, küresel tedarik zincirlerinin işleyiş hızını tehdit etmeye</strong> devam edecek.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
