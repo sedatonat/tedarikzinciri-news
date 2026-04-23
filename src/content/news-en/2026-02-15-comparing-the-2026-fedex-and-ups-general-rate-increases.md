@@ -20,7 +20,7 @@ tags:
 - TransImpact
 - accessorials
 - fuel surcharge
-- 2026
+- "2026"
 ---
 <p style="text-align: justify">The 2026 <strong>FedEx</strong> and <strong>UPS</strong> General Rate Increases (GRIs) once again arrive with a familiar headline number — 5.9%. For many organizations, however, that figure significantly understates the true impact on parcel costs and supply chain performance. As carrier pricing strategies continue to evolve, increases in minimum charges, accessorial fees, fuel surcharges and off-cycle rate adjustments are compounding year over year — driving cost volatility that directly affects planning assumptions across the supply chain.</p>
 <p><br></p>

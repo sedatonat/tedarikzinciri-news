@@ -20,7 +20,7 @@ tags:
 - supply chain
 - distributors
 - imports
-- 2026
+- "2026"
 ---
 <p style="text-align: justify">In 2025, the public conversation around tariffs was focused on disruption. Goods and components were no longer available from familiar overseas sources, prices spiked, and orders were suddenly cancelled. The angst was understandable, but the story was incomplete. In 2026, the tariffs are propelling a structural reset in <strong>U.S. manufacturing</strong> that has been overdue for decades, and the positive news is coming from many directions. For manufacturers, distributors and import-dependent businesses, the tariff environment of 2025 has set up the clearest runway for <strong>U.S. reindustrialization</strong> in decades.</p>
 <p><br></p>

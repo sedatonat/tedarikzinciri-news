@@ -20,7 +20,7 @@ tags:
 - tedarik zinciri
 - distribütör
 - ithalat
-- 2026
+- "2026"
 ---
 <p style="text-align: justify">2025 yılında tarifeler etrafındaki kamuoyu tartışması; <em>disruption</em> üzerinde yoğunlaşmakta. Mallar ve bileşenler; alışılmış denizaşırı kaynaklardan artık temin edilebilmemekte; fiyatlar fırlamakta ve siparişler aniden iptal edilmekte. Endişe anlaşılabilmekte; ancak hikayenin tamamı eksik kalmakta. 2026'da ise tarifeler; on yıllardır gecikmekte olan yapısal bir <strong>ABD imalatı</strong> sıfırlamasını ileri taşımakta. Olumlu haberler birçok yönden gelmekte. İmalatçılar, distribütörler ve ithalata bağımlı işletmeler için 2025'in tarife ortamı; on yıllardır görülmemekte olan en net <strong>ABD yeniden sanayileşme</strong> rampası anlamına gelmekte.</p>
 <p><br></p>

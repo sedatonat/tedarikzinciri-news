@@ -20,7 +20,7 @@ tags:
 - TransImpact
 - ek ücretler
 - yakıt zammı
-- 2026
+- "2026"
 ---
 <p style="text-align: justify">2026 yılı <strong>FedEx</strong> ve <strong>UPS</strong> Genel Tarife Artışları («General Rate Increases» / GRI); bir kez daha tanıdık bir manşet rakamı olmakta olan %5,9 ile gelmekte. Birçok organizasyon için bu rakam; parsel maliyetleri ve tedarik zinciri performansı üzerindeki gerçek etkiyi önemli ölçüde küçük göstermekte. Taşıyıcı fiyatlandırma stratejileri evrim geçirmeye devam etmekte iken; minimum ücretlerdeki, ek hizmet ücretlerindeki, yakıt zamlarındaki artışlar ile döngü dışı tarife düzenlemeleri yıldan yıla birikmekte ve tedarik zinciri planlama varsayımlarını doğrudan etkilemekte olan maliyet oynaklığını artırmakta.</p>
 <p><br></p>

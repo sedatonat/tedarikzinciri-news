@@ -20,7 +20,7 @@ tags:
 - kapasite
 - yükleten
 - karayolu sektörü
-- 2026
+- "2026"
 ---
 <p style="text-align: justify">ABD karayolu navlun pazarı; uzun süredir beklenmekte olan canlanma işaretlerini 2025 yılının dördüncü çeyreğinde göstermekte. Yükleten şirketlerin harcamaları; 2024 yılı başından bu yana en yüksek düzeyine yükselmekte. <strong>U.S. Bank</strong> tarafından 3 Şubat tarihinde yayımlanmakta olan verilere göre ulusal karayolu sevkiyat hacimleri; yıl sonunu kapatırken bir önceki çeyreğe göre %1,5 oranında artış göstermekte. Yükleten harcamaları ise yıllık bazda %5,2; üçüncü çeyreğe kıyasla %4,6 oranında yükselmekte.</p>
 <p><br></p>

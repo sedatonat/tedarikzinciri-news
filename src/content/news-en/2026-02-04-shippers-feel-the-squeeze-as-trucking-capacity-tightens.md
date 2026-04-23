@@ -20,7 +20,7 @@ tags:
 - capacity
 - shippers
 - road freight
-- 2026
+- "2026"
 ---
 <p style="text-align: justify">The U.S. trucking freight market showed some long-awaited signs of life in the fourth quarter of 2025, with shipper spending climbing to its highest level since early 2024. According to data published by <strong>U.S. Bank</strong> on February 3, national trucking shipment volumes rose 1.5% from the previous quarter to close out the year, while shipper spending increased 5.2% year-over-year and 4.6% from the third quarter.</p>
 <p><br></p>
