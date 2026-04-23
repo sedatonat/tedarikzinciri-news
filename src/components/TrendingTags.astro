@@ -1,6 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-import { categoryLabel } from '../i18n/utils';
+import { categoryLabel, categoryPath } from '../i18n/utils';
 import { slugifyTag, tagPath } from '../lib/tags';
 import type { Lang } from '../i18n/ui';
 
@@ -65,8 +65,7 @@ function topCategory(cats: Map<string, number>): string {
   return best;
 }
 
-const heading = lang === 'tr' ? 'İlginizi Çekebilir' : 'You may also like';
-const sectionLabel = lang === 'tr' ? 'Gündem' : 'Trending';
+const heading = lang === 'tr' ? 'Dikkat Çekenler' : 'Top Stories';
 const postsLabel = (n: number) => lang === 'tr' ? `${n} gönderi` : `${n} posts`;
 ---
 <aside class="hidden lg:block w-[330px] shrink-0">
@@ -83,14 +82,14 @@ const postsLabel = (n: number) => lang === 'tr' ? `${n} gönderi` : `${n} posts`
           const cat = topCategory(t.cats);
           const catLabel = cat ? (categoryLabel[cat]?.[lang] ?? cat) : '';
           return (
-            <li>
-              <a href={tagPath(lang, t.display)} class="block px-4 py-3 hover:bg-ink-200/50 dark:hover:bg-ink-800/50 transition-colors">
-                {catLabel && (
-                  <div class="text-[11px] uppercase tracking-wide text-ink-500 dark:text-ink-400">
-                    {catLabel} <span class="opacity-60">·</span> {sectionLabel}
-                  </div>
-                )}
-                <div class="font-bold text-base text-ink-900 dark:text-ink-50 leading-snug">
+            <li class="px-4 py-3 hover:bg-ink-200/50 dark:hover:bg-ink-800/50 transition-colors">
+              {catLabel && (
+                <div class="text-[11px] uppercase tracking-wide text-ink-500 dark:text-ink-400">
+                  <a href={categoryPath(lang, cat)} class="hover:text-brand-600 dark:hover:text-brand-400 hover:underline">{catLabel}</a>
+                </div>
+              )}
+              <a href={tagPath(lang, t.display)} class="block group">
+                <div class="font-bold text-base text-ink-900 dark:text-ink-50 leading-snug group-hover:text-brand-600 dark:group-hover:text-brand-400">
                   #{t.display}
                 </div>
                 <div class="text-xs text-ink-500 dark:text-ink-400 mt-0.5">{postsLabel(t.count)}</div>
