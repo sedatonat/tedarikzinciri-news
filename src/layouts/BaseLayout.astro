@@ -148,6 +148,9 @@ const cfBeaconToken = import.meta.env.PUBLIC_CF_BEACON_TOKEN;
           modal.classList.add('flex');
           modal.setAttribute('aria-hidden', 'false');
           lockScroll(true);
+          // Move focus onto the close button so keydown events (Escape, arrows)
+          // originate from a predictable element inside the modal
+          try { if (closeBtn) closeBtn.focus({ preventScroll: true }); } catch (_) {}
           fetch(url, { credentials: 'same-origin', headers: { 'Accept': 'text/html' } })
             .then(function (r) { if (!r.ok) throw new Error('fetch failed'); return r.text(); })
             .then(function (html) {
@@ -204,12 +207,23 @@ const cfBeaconToken = import.meta.env.PUBLIC_CF_BEACON_TOKEN;
         modal.addEventListener('click', function (e) {
           if (e.target === modal) closePopup(true);
         });
+        // Robust Escape handler — capture phase so it fires before any
+        // other keydown handler that might stop propagation (share menus, etc.)
+        window.addEventListener('keydown', function (e) {
+          if (e.key !== 'Escape' && e.key !== 'Esc') return;
+          if (modal.classList.contains('hidden')) return;
+          var tag = e.target && e.target.tagName;
+          if (tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT' || (e.target && e.target.isContentEditable)) return;
+          e.preventDefault();
+          e.stopPropagation();
+          closePopup(true);
+        }, true);
+
         document.addEventListener('keydown', function (e) {
           if (modal.classList.contains('hidden')) return;
           // Ignore when user is typing in a form field
           var tag = e.target && e.target.tagName;
           if (tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT' || (e.target && e.target.isContentEditable)) return;
-          if (e.key === 'Escape') { closePopup(true); return; }
           if (e.key === 'ArrowLeft' || e.key === 'ArrowRight') {
             var dir = e.key === 'ArrowLeft' ? 'newer' : 'older';
             var link = content.querySelector('a[data-news-nav="' + dir + '"]');
