@@ -1,0 +1,185 @@
+---
+import { getLangFromUrl, categoryLabel, newsPath, categoryPath } from '../i18n/utils';
+import { tagPath } from '../lib/tags';
+
+interface Props {
+  entry: { slug: string; data: any };
+}
+const { entry } = Astro.props;
+const lang = getLangFromUrl(Astro.url);
+const href = newsPath(lang, entry.slug);
+const cat = entry.data.category;
+const catLabel = categoryLabel[cat]?.[lang] ?? cat;
+const handle = '@' + (catLabel || cat).toLocaleLowerCase(lang === 'tr' ? 'tr-TR' : 'en-US')
+  .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+  .replace(/[^a-z0-9]+/g, '');
+const dateObj = new Date(entry.data.date);
+const dateAbs = dateObj.toLocaleDateString(
+  lang === 'tr' ? 'tr-TR' : 'en-US',
+  { day: 'numeric', month: 'short', year: 'numeric' }
+);
+
+// Relative time formatter
+function relativeTime(d: Date, lang: 'tr' | 'en'): string {
+  const now = Date.now();
+  const diffMs = now - d.getTime();
+  const sec = Math.max(1, Math.floor(diffMs / 1000));
+  const min = Math.floor(sec / 60);
+  const hr = Math.floor(min / 60);
+  const day = Math.floor(hr / 24);
+  const wk = Math.floor(day / 7);
+  const mo = Math.floor(day / 30);
+  const yr = Math.floor(day / 365);
+  if (lang === 'tr') {
+    if (yr >= 1) return `${yr} yıl önce`;
+    if (mo >= 1) return `${mo} ay önce`;
+    if (wk >= 1) return `${wk} hafta önce`;
+    if (day >= 1) return `${day} gün önce`;
+    if (hr >= 1) return `${hr} saat önce`;
+    if (min >= 1) return `${min} dakika önce`;
+    return 'az önce';
+  } else {
+    if (yr >= 1) return `${yr}y ago`;
+    if (mo >= 1) return `${mo}mo ago`;
+    if (wk >= 1) return `${wk}w ago`;
+    if (day >= 1) return `${day}d ago`;
+    if (hr >= 1) return `${hr}h ago`;
+    if (min >= 1) return `${min}m ago`;
+    return 'just now';
+  }
+}
+const timeLabel = relativeTime(dateObj, lang);
+
+// Category color palette for avatar circle
+const palette: Record<string, string> = {
+  'Lojistik': 'bg-sky-500',
+  'Tedarik Zinciri': 'bg-emerald-500',
+  'Teknoloji': 'bg-violet-500',
+  'Envanter': 'bg-amber-500',
+  'Satınalma': 'bg-rose-500',
+};
+const avatarColor = palette[cat] ?? 'bg-brand-500';
+const avatarLetter = (catLabel || cat).trim().charAt(0).toUpperCase();
+
+// Body text: subtitle preferred; otherwise empty
+const body = (entry.data.subtitle ?? '').toString();
+
+const topTags: string[] = Array.isArray(entry.data.tags)
+  ? entry.data.tags.filter((t: any) => typeof t === 'string' && t.trim()).slice(0, 3)
+  : [];
+---
+<article class="border-b border-ink-200 dark:border-ink-800 px-4 sm:px-5 py-3 hover:bg-ink-50/50 dark:hover:bg-ink-900/40 transition-colors">
+  <div class="flex gap-3">
+    <!-- Avatar -->
+    <a href={categoryPath(lang, cat)} class="shrink-0" aria-label={catLabel}>
+      <div class={`w-10 h-10 sm:w-12 sm:h-12 rounded-full ${avatarColor} text-white flex items-center justify-center font-bold text-base sm:text-lg shadow-sm`}>
+        {avatarLetter}
+      </div>
+    </a>
+
+    <div class="flex-1 min-w-0">
+      <!-- Header line: name + handle + dot + time -->
+      <div class="flex flex-wrap items-center gap-x-1.5 text-sm leading-tight">
+        <a href={categoryPath(lang, cat)} class="font-bold text-ink-900 dark:text-ink-100 hover:underline truncate">
+          {catLabel}
+        </a>
+        <a href={categoryPath(lang, cat)} class="text-ink-500 dark:text-ink-400 hover:underline truncate">
+          {handle}
+        </a>
+        <span class="text-ink-400 dark:text-ink-600">·</span>
+        <time datetime={dateObj.toISOString()} class="text-ink-500 dark:text-ink-400" title={dateAbs}>
+          {timeLabel}
+        </time>
+      </div>
+
+      <!-- Title (bold, like a tweet's lead line) -->
+      <a href={href} class="block mt-1">
+        <h3 class="text-[15px] sm:text-base font-semibold text-ink-900 dark:text-ink-100 leading-snug hover:text-brand-600 dark:hover:text-brand-400">
+          {entry.data.title}
+        </h3>
+      </a>
+
+      <!-- Body text -->
+      {body && (
+        <a href={href} class="block mt-1">
+          <p class="text-[15px] text-ink-700 dark:text-ink-200 leading-relaxed line-clamp-4">{body}</p>
+        </a>
+      )}
+
+      <!-- Image -->
+      {entry.data.image && (
+        <a href={href} class="block mt-3 rounded-2xl overflow-hidden border border-ink-200 dark:border-ink-800 bg-ink-100 dark:bg-ink-800" aria-label={entry.data.title}>
+          <img
+            src={entry.data.image}
+            alt={entry.data.imageAlt ?? entry.data.title}
+            class="w-full max-h-[480px] object-cover"
+            loading="lazy" decoding="async"
+            onerror="if(this.dataset.fallback!=='1'){this.dataset.fallback='1';this.src='/og-default.png';}"
+          />
+        </a>
+      )}
+
+      <!-- Tags row -->
+      {topTags.length > 0 && (
+        <div class="mt-3 flex flex-wrap gap-1.5">
+          {topTags.map((tag) => (
+            <a
+              href={tagPath(lang, tag)}
+              class="inline-flex items-center px-2 py-0.5 rounded-full text-[11px] border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 text-ink-600 dark:text-ink-300 hover:border-brand-500 hover:text-brand-700 dark:hover:text-brand-300 transition-colors"
+            >#{tag}</a>
+          ))}
+        </div>
+      )}
+
+      <!-- Action bar (X-style: comment / repost / like / view / bookmark+share) -->
+      <div class="mt-3 flex items-center justify-between max-w-md text-ink-500 dark:text-ink-400">
+        <a href={href} class="group inline-flex items-center gap-1.5 hover:text-sky-500" aria-label="Yorum">
+          <span class="p-1.5 rounded-full group-hover:bg-sky-500/10">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-[18px] h-[18px]" aria-hidden="true">
+              <path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/>
+            </svg>
+          </span>
+        </a>
+        <a href={href} class="group inline-flex items-center gap-1.5 hover:text-emerald-500" aria-label="Repost">
+          <span class="p-1.5 rounded-full group-hover:bg-emerald-500/10">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-[18px] h-[18px]" aria-hidden="true">
+              <polyline points="17 1 21 5 17 9"/><path d="M3 11V9a4 4 0 0 1 4-4h14"/><polyline points="7 23 3 19 7 15"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/>
+            </svg>
+          </span>
+        </a>
+        <a href={href} class="group inline-flex items-center gap-1.5 hover:text-rose-500" aria-label="Beğen">
+          <span class="p-1.5 rounded-full group-hover:bg-rose-500/10">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-[18px] h-[18px]" aria-hidden="true">
+              <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+            </svg>
+          </span>
+        </a>
+        <a href={href} class="group inline-flex items-center gap-1.5 hover:text-sky-500" aria-label="Görüntüleme">
+          <span class="p-1.5 rounded-full group-hover:bg-sky-500/10">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-[18px] h-[18px]" aria-hidden="true">
+              <line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/>
+            </svg>
+          </span>
+        </a>
+        <div class="inline-flex items-center gap-1">
+          <a href={href} class="group inline-flex items-center hover:text-sky-500" aria-label="Kaydet">
+            <span class="p-1.5 rounded-full group-hover:bg-sky-500/10">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-[18px] h-[18px]" aria-hidden="true">
+                <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
+              </svg>
+            </span>
+          </a>
+          {entry.data.sourceUrl && (
+            <a href={entry.data.sourceUrl} target="_blank" rel="noopener noreferrer nofollow" class="group inline-flex items-center hover:text-sky-500" aria-label="Kaynak">
+              <span class="p-1.5 rounded-full group-hover:bg-sky-500/10">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-[18px] h-[18px]" aria-hidden="true">
+                  <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/>
+                </svg>
+              </span>
+            </a>
+          )}
+        </div>
+      </div>
+    </div>
+  </div>
+</article>

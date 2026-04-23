@@ -33,3 +33,21 @@
   }
   .chip { @apply inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium; }
 }
+
+/* ============================================================
+   Akış Modu (Flow Mode) — Standart vs Flow layout switching
+   ------------------------------------------------------------
+   - Desktop (>=640px):   data-mode on <html> controls which grid is shown.
+                          Default = standard. localStorage 'layoutMode' persists choice.
+   - Mobile  (<640px):    Flow is forced on, regardless of data-mode.
+   ============================================================ */
+@media (min-width: 640px) {
+  html[data-mode="flow"] .standard-grid { display: none !important; }
+  html[data-mode="flow"] .flow-grid     { display: flex !important; }
+  html:not([data-mode="flow"]) .flow-grid     { display: none !important; }
+  html:not([data-mode="flow"]) .standard-grid { display: grid !important; }
+}
+@media (max-width: 639px) {
+  .standard-grid { display: none !important; }
+  .flow-grid     { display: flex !important; }
+}

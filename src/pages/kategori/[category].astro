@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import NewsCard from '../../components/NewsCard.astro';
+import FlowCard from '../../components/FlowCard.astro';
 import Timeline from '../../components/Timeline.astro';
 import { categoryLabel, categorySlug } from '../../i18n/utils';
 
@@ -27,8 +28,11 @@ const label = categoryLabel[cat].tr;
     </nav>
     <h1 class="sticky top-16 z-30 bg-transparent text-3xl sm:text-4xl font-bold mb-2 py-2">{label}</h1>
     <p class="text-ink-600 dark:text-ink-300 mb-8">{all.length} haber</p>
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+    <div class="standard-grid grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
       {all.map(e => <NewsCard entry={e} />)}
+    </div>
+    <div class="flow-grid flex-col max-w-2xl mx-auto border-x border-ink-200 dark:border-ink-800">
+      {all.map(e => <FlowCard entry={e} />)}
     </div>
   </section>
 </BaseLayout>
