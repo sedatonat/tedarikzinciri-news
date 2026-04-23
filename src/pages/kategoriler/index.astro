@@ -4,7 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Timeline from '../../components/Timeline.astro';
 import { categoryLabel, categorySlug } from '../../i18n/utils';
 
-const CATS = ['Lojistik', 'Tedarik Zinciri', 'Teknoloji', 'Envanter', 'Satınalma'] as const;
+const CATS = ['Tedarik Zinciri', 'Satınalma', 'Lojistik', 'Envanter', 'Teknoloji'] as const;
 
 const all = await getCollection('news-tr', ({ data }) => !data.draft);
 const counts: Record<string, number> = {};
