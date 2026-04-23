@@ -163,7 +163,16 @@ const cfBeaconToken = import.meta.env.PUBLIC_CF_BEACON_TOKEN;
               var titleEl = doc.querySelector('title');
               if (titleEl && titleEl.textContent) document.title = titleEl.textContent;
               if (push) {
-                try { history.pushState({ newsPopup: true }, '', url); } catch (_) {}
+                try {
+                  // If we're already showing a popup (chevron / arrow-key navigation),
+                  // replace the current history entry instead of stacking a new one —
+                  // that way a single history.back() cleanly returns to the origin page.
+                  if (history.state && history.state.newsPopup) {
+                    history.replaceState({ newsPopup: true }, '', url);
+                  } else {
+                    history.pushState({ newsPopup: true }, '', url);
+                  }
+                } catch (_) {}
               }
               showLoading(false);
             })
