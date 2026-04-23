@@ -19,7 +19,7 @@ tags:
 - sözleşme yönetimi
 - risk yönetimi
 ---
-<p>Küresel ticaret politikalarında yaşanan belirsizlik, inşaat sektöründe özellikle çelik, alüminyum, bakır ve bitmiş komponent tedarikinde maliyetleri ve tedarik sürelerini etkiliyor.&nbsp;</p>
+<p>Küresel ticaret politikalarındaki belirsizlik, inşaat sektöründe başta çelik, alüminyum, bakır ve bitmiş komponent tedariki olmak üzere maliyetleri ve tedarik sürelerini doğrudan etkiliyor.&nbsp;</p>
 <p><br></p>
 <p>Müteahhitler,&nbsp;</p>
 <ul>
@@ -29,21 +29,21 @@ tags:
   <li><p>Price-escalation clauses&nbsp;</p></li>
   <li><p>Alternative sourcing&nbsp;</p></li>
 </ul>
-<p>gibi kavramlarla doğrudan muhatap oluyor; bu tablo altında sözleşme ve tedarik yönetimini yeniden kurgulamakta.&nbsp;</p>
+<p>gibi kavramlarla doğrudan yüzleşiyor; bu tablo altında sözleşme ve tedarik yönetimini yeniden kurguluyor.&nbsp;</p>
 <p><br></p>
-<p>Sektörde öncelikli adım, sözleşmelerdeki escalation ve price-adjustment hükümlerini gözden geçiriyorn geçiyor. Sabit fiyatlı işlerde malzeme piyasası dalgalanması karşısında yüklenicinin tek taraflı riski artıyor; bu nedenle index-linked formüller, pass-through maddeleri ve çift yönlü fiyat ayarlaması içeren hükümler benimseniyor.&nbsp;</p>
+<p>Sektördeki öncelikli adım, sözleşmelerdeki escalation ve price-adjustment hükümlerinin gözden geçirilmesi oldu. Sabit fiyatlı işlerde malzeme piyasasındaki dalgalanma karşısında yüklenicinin tek taraflı riski büyüyor; bu nedenle firmalar index-linked formüller, pass-through maddeleri ve çift yönlü fiyat ayarlaması içeren hükümleri benimsiyor.&nbsp;</p>
 <p><br></p>
-<p>İkinci eksen, tedarik kaynaklarının çeşitlendirilmesi ve dual/multi‑sourcing yaklaşımının kuvvetlendirilmesi oluyor. Supplier qualification süreçleri hızlandırılıyor; lead time senaryoları, incoterms ve gümrük süreçleriyle birlikte yeniden hesaplanıyor. Nearshoring ve friend‑shoring gibi stratejiler, tarife şoklarının etkisini azaltıyor.&nbsp;</p>
+<p>İkinci eksende firmalar tedarik kaynaklarını çeşitlendiriyor ve dual/multi‑sourcing yaklaşımını güçlendiriyor. Supplier qualification süreçleri hızlanıyor; lead time senaryoları incoterms ve gümrük süreçleriyle birlikte yeniden hesaplanıyor. Nearshoring ve friend‑shoring stratejileri tarife şoklarının etkisini sınırlıyor.&nbsp;</p>
 <p><br></p>
-<p>Üçüncü alan, commodity hedging ve should‑cost modelling ile maliyet şeffaflığının artırılması oluyor. Futures ve options bazlı riskten korunma araçları, çelik ve alüminyum gibi girdilerde bütçe öngörülebilirliğini yükseltiyor.&nbsp;</p>
+<p>Üçüncü alanda commodity hedging ve should‑cost modelling uygulamaları maliyet şeffaflığını artırıyor. Futures ve options bazlı riskten korunma araçları çelik ve alüminyum gibi girdilerde bütçe öngörülebilirliğini yükseltiyor.&nbsp;</p>
 <p><br></p>
-<p>Dördüncü başlık, design-to-value ve value engineering çerçevesinde malzeme ikameleri ile proje kapsamının rasyonelleştirilmesi oluyor. Örneğin belirli profil kalınlıkları ve kaplama tiplerinde standardizasyon, hem hammadde tüketimini azaltıyor hem de satın alma partilerini büyüterek iskonto imkânı yaratıyor.&nbsp;</p>
+<p>Dördüncü başlıkta firmalar design-to-value ve value engineering çerçevesinde malzeme ikameleri ile proje kapsamını rasyonelleştiriyor. Örneğin belirli profil kalınlıkları ve kaplama tiplerindeki standardizasyon, hem hammadde tüketimini azaltıyor hem de satın alma partilerini büyüterek iskonto imkânı yaratıyor.&nbsp;</p>
 <p><br></p>
-<p>Beşinci unsur, early supplier involvement (ESI) ve collaborative planning uygulamaları ile tedarikçi‑saha‑mühendislik üçgeninde bilgi akışının hızlandırılması oluyor. S&amp;OP, scenario planning ve digital twin tabanlı planlama, gümrük ve tarife kararlarının etkisini önceden simüle ediyor.&nbsp;</p>
+<p>Beşinci unsurda early supplier involvement (ESI) ve collaborative planning uygulamaları tedarikçi‑saha‑mühendislik üçgeninde bilgi akışını hızlandırıyor. S&amp;OP, scenario planning ve digital twin tabanlı planlama gümrük ve tarife kararlarının etkisini önceden simüle ediyor.&nbsp;</p>
 <p><br></p>
-<p>Ayrıca letters of credit, bonding capacity, project cash flow ve working capital üzerindeki etkiler, finans ekipleri ile ortak bir risk matrisi üzerinde takip ediliyor. HS codes doğru belirleniyor; origin management ve certificate of origin süreçleri hatasız yönetiliyor. Son olarak şantiye programları critical path yaklaşımı ile güncellenmekte; şokların betonarme, cephe, MEP ve tedarik‑montaj fazlarına etkisi ayrı ayrı modellenmekte.&nbsp;</p>
+<p>Firmalar ayrıca letters of credit, bonding capacity, project cash flow ve working capital üzerindeki etkileri finans ekipleriyle ortak bir risk matrisi üzerinden takip ediyor. HS codes doğru biçimde belirleniyor; origin management ve certificate of origin süreçleri hatasız yürüyor. Son aşamada şantiye programları critical path yaklaşımıyla güncelleniyor; şokların betonarme, cephe, MEP ve tedarik‑montaj fazlarına etkisi ayrı ayrı modelleniyor.&nbsp;</p>
 <p><br></p>
-<p>Bu bütüncül yaklaşım, yüklenicilerin hem teklif aşamasında rekabetçiliğini koruyor hem de yürüyen projelerde beklenmedik maliyet artışlarını sınırlıyor.</p>
+<p>Bu bütüncül yaklaşım, yüklenicilerin teklif aşamasındaki rekabetçiliğini korurken yürüyen projelerde beklenmedik maliyet artışlarını da sınırlıyor.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 1. Sözleşmelere price‑escalation ve çift yönlü ayarlama maddeleri ekleniyor.<br>
