@@ -23,15 +23,6 @@ const dayHref = dayUrl(
   dateObj.getUTCMonth() + 1,
   dateObj.getUTCDate()
 );
-let sourceHost = '';
-let sourceHomeUrl = '';
-if (frontmatter.sourceUrl) {
-  try {
-    const u = new URL(frontmatter.sourceUrl);
-    sourceHost = u.hostname.replace(/^www\./, '');
-    sourceHomeUrl = `${u.protocol}//${u.hostname}/`;
-  } catch {}
-}
 
 // Build hreflang alternate URLs
 const alternateTr = lang === 'tr' && slug
@@ -115,13 +106,6 @@ const jsonLd = {
       <div class="mt-4 flex items-center gap-3 text-sm text-ink-500">
         <span><span class="text-ink-400">{t('news.author')}:</span> {frontmatter.author}</span>
       </div>
-      {sourceHost && (
-        <div class="mt-1 text-xs text-ink-500">
-          <a href={sourceHomeUrl} target="_blank" rel="noopener noreferrer nofollow"
-             class="hover:text-brand-600 hover:underline underline-offset-4 decoration-dotted break-all"
-             title={sourceHomeUrl}>{sourceHost}</a>
-        </div>
-      )}
       {Array.isArray(frontmatter.tags) && frontmatter.tags.length > 0 && (
         <div class="mt-4 flex flex-wrap gap-2">
           {frontmatter.tags.map((tag: string) => (
