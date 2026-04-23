@@ -4,6 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import NewsCard from '../components/NewsCard.astro';
 import FlowCard from '../components/FlowCard.astro';
 import Timeline from '../components/Timeline.astro';
+import TrendingTags from '../components/TrendingTags.astro';
 
 const items = (await getCollection('news-tr', ({ data }) => !data.draft))
   .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
@@ -14,8 +15,11 @@ const items = (await getCollection('news-tr', ({ data }) => !data.draft))
     <div class="standard-grid grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
       {items.map(e => <NewsCard entry={e} />)}
     </div>
-    <div class="flow-grid flex-col max-w-2xl mx-auto border-x border-ink-200 dark:border-ink-800">
-      {items.map(e => <FlowCard entry={e} />)}
+    <div class="flow-grid flex-row justify-center gap-8 max-w-5xl mx-auto">
+      <div class="w-full max-w-2xl border-x border-ink-200 dark:border-ink-800">
+        {items.map(e => <FlowCard entry={e} />)}
+      </div>
+      <TrendingTags lang="tr" />
     </div>
   </section>
 </BaseLayout>
