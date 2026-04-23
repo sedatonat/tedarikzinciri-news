@@ -19,22 +19,22 @@ tags:
 - yapay zeka
 - dijital dönüşüm
 ---
-<p style="text-align: justify"><strong>Gartner</strong> tarafından yayımlanan son rapor, küresel üretim sektörünün <strong>ileri otomasyon (advanced automation)</strong> uygulamalarında <strong>yeniden yapılanmaya ihtiyaç duyduğunu</strong> ortaya koydu. Rapora göre, şirketlerin büyük kısmı otomasyonun rekabet avantajı yaratmadaki rolünü kabul etmesine rağmen, <strong>uygulamada gerekli dönüşüm adımlarını atıyorn kaçınıyor.</strong></p>
+<p style="text-align: justify"><strong>Gartner</strong> tarafından yayımlanan son rapor; küresel üretim sektörünün <strong>ileri otomasyon (advanced automation)</strong> uygulamalarında <strong>yeniden yapılanmaya ihtiyaç duyduğunu</strong> ortaya koydu. Rapora göre şirketlerin büyük kısmı, otomasyonun rekabet avantajı yaratmadaki rolünü kabul etti; ancak <strong>uygulamada gerekli dönüşüm adımlarını atmaktan kaçındı.</strong></p>
 <p><br></p>
-<p style="text-align: justify">Araştırma, <strong>128 üst düzey tedarik zinciri yöneticisi (Chief Supply Chain Officer – CSCO)</strong> ile yapılan anket sonuçlarına dayanıyor. Katılımcıların <strong>neredeyse yarısı (%48)</strong>, mevcut üretim stratejilerinin <strong>önümüzdeki üç yılda beklenen iş hedeflerini gerçekleştiremeyeceği</strong> görüşünde birleşti.</p>
+<p style="text-align: justify">Araştırma; <strong>128 üst düzey tedarik zinciri yöneticisi (Chief Supply Chain Officer – CSCO)</strong> ile yürütülen anket sonuçlarına dayandı. Katılımcıların <strong>neredeyse yarısı (%48)</strong>, mevcut üretim stratejilerinin <strong>önümüzdeki üç yılda beklenen iş hedeflerini gerçekleştiremeyeceği</strong> görüşünde birleşti.</p>
 <p><br></p>
-<p style="text-align: justify">Gartner raporu, <strong>şirketlerin üçte ikisinin (%66)</strong> üretim operasyonlarında <strong>gereken agresif yeniden tasarımları (aggressive redesigns)</strong> hayata geçirmediğini vurguluyor. Bu durum, artan <strong>ileri otomasyon ve dijital üretim</strong> beklentileriyle çelişmekte.</p>
+<p style="text-align: justify">Gartner raporu; <strong>şirketlerin üçte ikisinin (%66)</strong> üretim operasyonlarında <strong>gereken agresif yeniden tasarımları (aggressive redesigns)</strong> hayata geçirmediğini vurguladı. Bu tablo, artan <strong>ileri otomasyon ve dijital üretim</strong> beklentileriyle açık biçimde çelişti.</p>
 <p><br></p>
-<p style="text-align: justify">Gartner Başkan Yardımcısı ve baş analist <strong>Simon Jacobson</strong>, 28 Ekim tarihli açıklamasında şunları söyledi:</p>
+<p style="text-align: justify">Gartner Başkan Yardımcısı ve baş analist <strong>Simon Jacobson</strong>, 28 Ekim tarihli açıklamasında şu değerlendirmeyi paylaştı:</p>
 <blockquote style="text-align: justify">“Yöneticiler rekabet gücünü artıracak yeni yetenekleri benimsemek istiyor, ancak katılımcıların %66’sı <strong>tedarik zinciri ve üretim entegrasyonunun en büyük zorluk</strong> olduğunu söylüyor. Bu rahatsız edici gerçek, liderleri operasyonlarını yeniden icat etmeye yönlendirmeli.”</blockquote>
 <blockquote><br></blockquote>
 <h5 style="text-align: justify"><strong>Robotik otomasyonun payı hızla artıyor</strong></h5>
-<p style="text-align: justify">Gartner’ın verilerine göre, bugün üretim operasyonlarının <strong>%21’i gelişmiş otomasyon sistemleri</strong> tarafından yürütülüyor. Üç yıl içinde bu oranın <strong>%32’ye</strong> çıkması bekleniyor. Buna karşılık, insan iş gücünün üretimdeki payının <strong>%52’den %40’a</strong> düşeceği öngörülüyor.</p>
+<p style="text-align: justify">Gartner’ın verilerine göre bugün üretim operasyonlarının <strong>%21’i gelişmiş otomasyon sistemleri</strong> tarafından yürütüldü. Üç yıl içinde bu oranın <strong>%32’ye</strong> ulaşması beklendi. Buna karşılık insan iş gücünün üretimdeki payı, <strong>%52’den %40’a</strong> gerileme yönünde bir öngörü aldı.</p>
 <p><br></p>
-<p style="text-align: justify">Bu veriler, üretimde <strong>robotik sistemler, sensör teknolojileri ve veri odaklı üretim planlamasının</strong> giderek merkezî hale geldiğini gösteriyor. Ancak Gartner’a göre, bu dönüşümün <strong>sadece teknoloji yatırımıyla değil, organizasyonel kültür ve süreçlerle birlikte yönetilmesi</strong> gerekiyor.</p>
+<p style="text-align: justify">Bu veriler; üretimde <strong>robotik sistemlerin, sensör teknolojilerinin ve veri odaklı üretim planlamasının</strong> giderek merkezî bir konuma yerleştiğini gösterdi. Ancak Gartner, bu dönüşümün <strong>yalnızca teknoloji yatırımıyla değil; organizasyonel kültür ve süreçlerle birlikte yönetilmesi</strong> gerektiğini savundu.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Üretim stratejilerinde “reset” ihtiyacı</strong></h5>
-<p style="text-align: justify">Raporun genel sonucu, <strong>“üretim endüstrisi ileri otomasyonda bir reset sürecine girmeli”</strong> yönünde. Gartner, şirketlere aşağıdaki adımları öneriyor:</p>
+<p style="text-align: justify">Raporun genel sonucu, <strong>“üretim endüstrisi ileri otomasyonda bir reset sürecine girmeli”</strong> yönünde belirdi. Gartner, şirketlere aşağıdaki adımları önerdi:</p>
 <ol>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Yeni teknolojileri aşamalı olarak entegre etmek:</strong> Yapay zekâ (AI), makine öğrenimi ve otonom üretim sistemleri gibi teknolojiler <strong>erken aşamada üretim hatlarına dahil edilmeli.</strong></p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Tesis yöneticilerini güçlendirmek:</strong> Fabrika yöneticilerine <strong>veri odaklı karar alma yetkisi</strong> verilmeli; gerçek zamanlı üretim analitiği kullanımı teşvik edilmeli.</p></li>
@@ -43,14 +43,14 @@ tags:
 </ol>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Yönetimsel farkındalık artıyor ancak eylem eksik</strong></h5>
-<p style="text-align: justify">Gartner, üretim liderlerinin teknolojik farkındalığının geçmişe göre yüksek olduğunu, ancak çoğunun <strong>stratejik kararlarda “bekle-gör” yaklaşımı</strong> benimsediğini belirtiyor. Özellikle <strong>orta ölçekli üreticiler</strong>, yatırım maliyetleri, dönüşüm riski ve iş gücü direnci nedeniyle süreci yavaşlatıyor.</p>
+<p style="text-align: justify">Gartner; üretim liderlerinin teknolojik farkındalığının geçmişe göre yüksek seyrettiğini, ancak çoğunun <strong>stratejik kararlarda “bekle-gör” yaklaşımını</strong> benimsediğini aktardı. Özellikle <strong>orta ölçekli üreticiler</strong>; yatırım maliyetleri, dönüşüm riski ve iş gücü direnci nedeniyle süreci yavaşlattı.</p>
 <p><br></p>
-<p style="text-align: justify">Raporda, <strong>ileri otomasyonun</strong> yalnızca üretim hızını değil, aynı zamanda <strong>tedarik zinciri esnekliğini, kaliteyi ve sürdürülebilirliği</strong> artırabileceği vurgulanıyor. Ancak Gartner’a göre, “<strong>uygulama stratejisi olmadan teknoloji yatırımı tek başına verimlilik getirmez.</strong>”</p>
+<p style="text-align: justify">Raporda; <strong>ileri otomasyonun</strong> yalnızca üretim hızını değil, aynı zamanda <strong>tedarik zinciri esnekliğini, kaliteyi ve sürdürülebilirliği</strong> de artırabileceği ön plana çıktı. Ancak Gartner şu uyarıyı paylaştı: “<strong>uygulama stratejisi olmadan teknoloji yatırımı tek başına verimlilik getirmez.</strong>”</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Sonuç: Endüstriyel dönüşümün eşiğinde bir sektör</strong></h5>
-<p style="text-align: justify">Gartner analizine göre, üretim sektörü şu anda <strong>teknoloji yatırımı ile organizasyonel değişim arasındaki dengeyi kuruyor zorlanıyor.</strong> Şirketlerin önümüzdeki dönemde <strong>esnek, veri temelli, otonom sistemlerle desteklenen bir üretim ekosistemine geçişi</strong> hızlandırması gerekiyor.</p>
+<p style="text-align: justify">Gartner analizine göre üretim sektörü; şu anda <strong>teknoloji yatırımı ile organizasyonel değişim arasındaki dengeyi kurmakta zorlandı.</strong> Şirketler, önümüzdeki dönemde <strong>esnek, veri temelli, otonom sistemlerle desteklenen bir üretim ekosistemine geçişi</strong> hızlandırmak durumunda kaldı.</p>
 <p><br></p>
-<p style="text-align: justify">Bu dönüşümün başarıyla tamamlanması, yalnızca verimliliği değil, <strong>rekabet avantajını ve tedarik zinciri dayanıklılığını</strong> da belirleyecek temel faktörlerden biri olacak.</p>
+<p style="text-align: justify">Bu dönüşümün başarıyla tamamlanması; yalnızca verimliliği değil, <strong>rekabet avantajını ve tedarik zinciri dayanıklılığını</strong> da belirleyen temel faktörlerden biri olarak öne çıktı.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>

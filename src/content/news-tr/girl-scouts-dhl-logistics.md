@@ -19,7 +19,7 @@ tags:
 - tedarik zinciri farkındalığı
 - çeşitlilik ve kapsayıcılık
 ---
-<p>Girl Scouts of the USA ve DHL Supply Chain, genç kızlara yönelik bir lojistik eğitim programı başlattı. Program, STEM education, supply chain awareness, ve leadership training konularını içeriyor. Amaç, geleceğin kadın liderlerini lojistik sektörüne kazandırmak. Hands-on workshops, katılımcılara gerçek depo ve taşıma operasyonlarını tanıtmakta. Bu girişim, sektörde çeşitlilik ve kapsayıcılığın artmasına katkı sağlıyor.</p>
+<p>Girl Scouts of the USA ve DHL Supply Chain, genç kızlara yönelik bir lojistik eğitim programını hayata geçirdi. Program; STEM education, supply chain awareness ve leadership training başlıklarını kapsıyor. Taraflar, geleceğin kadın liderlerini lojistik sektörüne kazandırmayı hedefledi. Hands-on workshops, katılımcılara gerçek depo ve taşıma operasyonlarını doğrudan tanıttı. Bu girişim, sektörde çeşitlilik ve kapsayıcılığın gelişmesine katkı sundu.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 1. Girl Scouts lojistik farkındalığı artırır.<br>

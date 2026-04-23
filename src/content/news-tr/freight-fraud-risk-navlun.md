@@ -20,13 +20,13 @@ tags:
 - veri manipülasyonu
 - siber güvenlik
 ---
-<p style="text-align: justify">Freight Fraud, yani nakliye dolandırıcılığı, küresel tedarik zincirlerinin büyüyen bir tehdit alanına dönüşüyordir. Think Tank analizine göre, sahte taşıyıcı kimlikleri, yanlış teslim kayıtları ve veri manipülasyonu, milyarlarca dolarlık zarara neden oluyor. FBI IC3 verileri, 2024–2025 arasında bu tür olayların %63 oranında arttığını gösteriyor.</p>
+<p style="text-align: justify">Freight Fraud, yani nakliye dolandırıcılığı; küresel tedarik zincirleri için büyüyen bir tehdit alanına dönüştü. Think Tank analizine göre; sahte taşıyıcı kimlikleri, yanlış teslim kayıtları ve veri manipülasyonu, milyarlarca dolarlık zarara yol açtı. FBI IC3 verileri, 2024–2025 arasında bu tür olayların %63 oranında artış kaydettiğini ortaya koydu.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Dolandırıcılar genellikle meşru taşıyıcıların kimlik bilgilerini çalarak sahte web siteleri veya e‑posta adresleriyle siparişleri yönlendiriyor. Bu saldırılar, özellikle acil sevkiyatlarda kimlik doğrulama süreçlerinin atlandığı anlarda gerçekleşiyor. AI destekli doğrulama sistemleri, geçmiş performans, GPS takibi ve sürücü lisans eşleştirmesi gibi verileri kontrol ederek riskli gönderileri tespit ediyor.</p>
+<p style="text-align: justify">Dolandırıcılar; genellikle meşru taşıyıcıların kimlik bilgilerini çalarak sahte web siteleri veya e‑posta adresleri üzerinden siparişleri kendilerine yönlendirdi. Bu saldırılar, özellikle acil sevkiyatlarda kimlik doğrulama süreçlerinin atlandığı anlarda yoğunlaştı. AI destekli doğrulama sistemleri; geçmiş performans, GPS takibi ve sürücü lisans eşleştirmesi gibi verileri kontrol ederek riskli gönderileri tespit etti.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Endüstri kuruluşları, veri paylaşımı ve ortak kara liste mekanizmaları oluşturarak koordineli savunmayı teşvik ediyor. TIA, FBI ve CargoNet işbirliğiyle geliştirilen ulusal izleme sistemleri, tekrarlanan dolandırıcılık modellerini haritalandırmakta. Ayrıca, blockchain tabanlı sevkiyat kimlikleri, teslimat zincirinde doğrulanabilir güven sağlıyor.</p>
+<p style="text-align: justify">Endüstri kuruluşları; veri paylaşımı ve ortak kara liste mekanizmaları oluşturarak koordineli savunmayı teşvik etti. TIA, FBI ve CargoNet işbirliğiyle geliştirilen ulusal izleme sistemleri; tekrarlanan dolandırıcılık modellerini haritaladı. Blockchain tabanlı sevkiyat kimlikleri ise teslimat zincirinde doğrulanabilir güven katmanı sundu.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Sonuç olarak, navlun dolandırıcılığına karşı mücadele yalnız teknolojik değil, kurumsal işbirliği gerektiren bir süreçtir. Şeffaf veri paylaşımı ve disiplinli doğrulama zinciri, bu tehdidin etkisini azaltıyordır.</p>
+<p style="text-align: justify">Sonuç olarak navlun dolandırıcılığına karşı mücadele; yalnızca teknolojik değil, kurumsal işbirliği de gerektiren bir süreç niteliği taşıdı. Şeffaf veri paylaşımı ve disiplinli doğrulama zinciri; bu tehdidin etkisini azaltan temel araçlar olarak öne çıktı.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 - Freight fraud vakaları 2024–2025’te %63 artmıştır.<br>
