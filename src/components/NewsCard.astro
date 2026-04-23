@@ -2,7 +2,6 @@
 import { getLangFromUrl, categoryLabel, newsPath, categoryPath } from '../i18n/utils';
 import { dayUrl } from '../lib/timeline';
 import { tagPath } from '../lib/tags';
-import { resolveExcerpt } from '../lib/excerpt';
 
 interface Props {
   entry: { slug: string; data: any };
@@ -31,7 +30,6 @@ if (entry.data.sourceUrl) {
     sourceHost = new URL(entry.data.sourceUrl).hostname.replace(/^www\./, '');
   } catch {}
 }
-const excerpt = resolveExcerpt(entry.data.subtitle, (entry as any).body, 220);
 ---
 <article class="group flex flex-col rounded-xl overflow-hidden border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 hover:border-brand-500 transition">
   {entry.data.image && (
@@ -58,7 +56,6 @@ const excerpt = resolveExcerpt(entry.data.subtitle, (entry as any).body, 220);
     )}
     <a href={href} class="block">
       <h3 class="text-lg font-semibold leading-snug group-hover:text-brand-600">{entry.data.title}</h3>
-      {excerpt && <p class="mt-2 text-sm text-ink-600 dark:text-ink-300 line-clamp-3">{excerpt}</p>}
     </a>
     <div class="mt-auto pt-2 flex flex-wrap items-center gap-x-2 gap-y-1.5 text-ink-500 dark:text-ink-400">
       <details class="share-menu relative icon-tip shrink-0" data-tip={lang === 'tr' ? 'Haberi paylaş' : 'Share news'}>
