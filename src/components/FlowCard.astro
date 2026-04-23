@@ -73,6 +73,14 @@ const body = (entry.data.subtitle ?? '').toString();
 const topTags: string[] = Array.isArray(entry.data.tags)
   ? entry.data.tags.filter((t: any) => typeof t === 'string' && t.trim()).slice(0, 3)
   : [];
+
+// Source site hostname (e.g. "supplychainbrain.com") — mirrors NewsCard behavior
+let sourceHost = '';
+if (entry.data.sourceUrl) {
+  try {
+    sourceHost = new URL(entry.data.sourceUrl).hostname.replace(/^www\./, '');
+  } catch {}
+}
 ---
 <article class="border-b border-ink-200 dark:border-ink-800 px-4 sm:px-5 py-3 hover:bg-ink-50/50 dark:hover:bg-ink-900/40 transition-colors">
   <div class="flex gap-3">
@@ -94,6 +102,13 @@ const topTags: string[] = Array.isArray(entry.data.tags)
           {timeLabel}
         </time>
       </div>
+      {sourceHost && (
+        <div class="text-xs text-ink-500 dark:text-ink-400 mt-0.5 truncate">
+          <a href={entry.data.sourceUrl} target="_blank" rel="noopener noreferrer nofollow"
+             class="hover:text-brand-600 hover:underline underline-offset-4 decoration-dotted break-all"
+             title={entry.data.sourceUrl}>{sourceHost}</a>
+        </div>
+      )}
 
       <!-- Title (bold, like a tweet's lead line) -->
       <a href={href} class="block mt-1">
