@@ -20,40 +20,40 @@ tags:
 - Siemens Integrity Initiative
 - HelpDesk
 ---
-<p style="text-align: justify"><strong>Maritime Anti-Corruption Network (MACN)</strong>, denizcilik tedarik zincirlerinde yolsuzlukla mücadeleyi güçlendirmeye yönelik yeni ve kapsamlı bir girişimi devreye alıyor. <strong>“Transparent Trade Routes: Strengthening Integrity in Maritime Supply Chains”</strong> adı verilen program, <strong>Endonezya, Malezya ve Almanya</strong> odaklı olarak üç yıllık bir zaman dilimini kapsıyor. Girişim, <strong>Siemens Integrity Initiative</strong> tarafından finanse ediliyor ve MACN’nin son yıllarda geliştirdiği <strong>Collective Action</strong> yaklaşımının ölçeklendirilmesini amaçlıyor.</p>
+<p style="text-align: justify"><strong>Maritime Anti-Corruption Network (MACN)</strong>, denizcilik tedarik zincirlerinde yolsuzlukla mücadeleyi güçlendirmek için yeni ve kapsamlı bir girişimi devreye aldı. <strong>“Transparent Trade Routes: Strengthening Integrity in Maritime Supply Chains”</strong> adıyla duyurulan program, <strong>Endonezya, Malezya ve Almanya</strong> odağında üç yıllık bir zaman dilimini kapsıyor. <strong>Siemens Integrity Initiative</strong>, girişimin finansmanını üstleniyor; program ise MACN’nin son yıllarda geliştirdiği <strong>Collective Action</strong> yaklaşımını daha geniş ölçeğe taşımayı hedefliyor.</p>
 <p><br></p>
-<p style="text-align: justify">MACN tarafından yapılan açıklamaya göre program, örgütün <strong>Siemens ile altı yılı aşkın süredir devam eden iş birliğinin</strong> üzerine inşa ediliyor. <strong>MACN CEO’su Cecilia Müller Torbrand</strong>, Siemens Integrity Initiative’in uzun vadeli desteğinin, sektör genelinde sistemik değişimin mümkün olduğunu somut biçimde gösterdiğini vurguluyor. Torbrand’a göre denizcilik gibi çok aktörlü ve sınır ötesi sektörlerde, kalıcı dönüşüm ancak <strong>özel sektör, kamu otoriteleri ve sivil toplumun</strong> aynı çerçevede hareket etmesiyle mümkün oluyor.</p>
+<p style="text-align: justify">MACN’nin açıklamasına göre program, örgütün <strong>Siemens ile altı yılı aşkın süredir sürdürdüğü iş birliğinin</strong> üzerine inşa edildi. <strong>MACN CEO’su Cecilia Müller Torbrand</strong>, Siemens Integrity Initiative’in uzun vadeli desteğinin sektör genelinde sistemik değişimin mümkün olduğunu somut biçimde ortaya koyduğunu vurguladı. Torbrand’a göre denizcilik gibi çok aktörlü ve sınır ötesi sektörlerde kalıcı dönüşüm, yalnızca <strong>özel sektör, kamu otoriteleri ve sivil toplumun</strong> aynı çerçevede hareket etmesiyle ortaya çıkıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Endonezya: Özel Sektör Odaklı Yapı ve Operasyonel Araçlar</strong></h3>
-<p style="text-align: justify">Programın Endonezya ayağında MACN, <strong>özel sektör temelli bir ittifak</strong> kurmayı planlıyor. Bu yapı, liman operasyonlarında ve tedarik zinciri süreçlerinde <strong>ortak dürüstlük standartlarının</strong> benimsenmesini hedefliyor. Bu kapsamda:</p>
+<p style="text-align: justify">MACN, programın Endonezya ayağında <strong>özel sektör temelli bir ittifak</strong> kurmayı planlıyor. Bu yapı, liman operasyonlarında ve tedarik zinciri süreçlerinde <strong>ortak dürüstlük standartlarının</strong> benimsenmesini hedefliyor. Bu kapsamda:</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Integrity Training</strong> programları yaygınlaştırılmakta,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>kamu–özel sektör diyaloğu</strong> için yapılandırılmış bir platform oluşturuluyor,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">MACN’nin kritik araçlarından biri olan <strong>HelpDesk</strong> sistemi devreye alınıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Integrity Training</strong> programlarını yaygınlaştırıyor,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>kamu–özel sektör diyaloğu</strong> için yapılandırılmış bir platform kuruyor,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">MACN’nin kritik araçlarından biri olan <strong>HelpDesk</strong> sistemini devreye alıyor.</p></li>
 </ul>
-<p style="text-align: justify"><strong>HelpDesk</strong>, gemi acenteleri ve operatörlerin liman çağrıları sırasında karşılaştıkları <strong>yolsuzluk taleplerini gerçek zamanlı olarak eskale edebilecekleri</strong> bir mekanizma sunuyor. Bu araç, şirketlerin tek başına hareket etmek zorunda kalmadan, kurumsal ve kolektif destek almasını sağlamayı amaçlıyor.</p>
+<p style="text-align: justify"><strong>HelpDesk</strong>, gemi acenteleri ve operatörlere liman çağrılarında karşılaştıkları <strong>yolsuzluk taleplerini gerçek zamanlı eskale</strong> etme imkânı tanıyor. Bu araç, şirketlerin tek başına hareket etme zorunluluğunu ortadan kaldırıyor ve kurumsal, kolektif desteği şirketlerin hizmetine sunuyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Malezya: Port Klang Pilotunun Genişletilmesi</strong></h3>
-<p style="text-align: justify"><strong>Malezya</strong>, MACN için yeni bir başlangıçtan ziyade, mevcut çalışmaların <strong>genişletildiği bir alan</strong> olarak konumlanıyor. Daha önce <strong>Port Klang</strong>’ta yürütülen pilot uygulama, bu yeni program kapsamında <strong>birden fazla limana ve tedarik zinciri aktörüne</strong> yayılıyor.</p>
-<p style="text-align: justify">Planlanan faaliyetler arasında:</p>
+<p style="text-align: justify"><strong>Malezya</strong>, MACN için yeni bir başlangıçtan çok mevcut çalışmaların <strong>genişlediği bir alan</strong> konumunda yer alıyor. Örgüt, daha önce <strong>Port Klang</strong>’ta yürüttüğü pilot uygulamayı bu program kapsamında <strong>birden fazla limana ve tedarik zinciri aktörüne</strong> yaydı.</p>
+<p style="text-align: justify">Planlanan faaliyetler şunları kapsıyor:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">sektör oyuncularına yönelik <strong>eğitim programları</strong>,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>kamu kurumlarıyla temasların</strong> derinleştirilmesi,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">mevzuat ve kuralların <strong>sahadaki gerçek uygulamalara dönüştürülmesine</strong> yönelik destek</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>kamu kurumlarıyla temasların</strong> derinleşmesi,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">mevzuat ve kuralların <strong>sahadaki gerçek uygulamalara dönüşümüne</strong> yönelik destek</p></li>
 </ul>
-<p style="text-align: justify">yer alıyor. MACN, bu yaklaşımın teorik uyumdan ziyade <strong>pratik davranış değişikliği</strong> yaratmayı hedeflediğini belirtiyor.</p>
+<p style="text-align: justify">MACN, bu yaklaşımın teorik uyumdan çok <strong>pratik davranış değişikliği</strong> yaratmayı hedeflediğini vurguluyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Almanya: Uyumluluk ve Yaptırım Odaklı Yaklaşım</strong></h3>
-<p style="text-align: justify">Programın <strong>Almanya</strong> ayağında odak noktası, daha çok <strong>sektör bazlı uyumluluk (compliance)</strong> ve kurumsal yönetişim yapıları oluyor. MACN, burada:</p>
+<p style="text-align: justify">Programın <strong>Almanya</strong> ayağı, daha çok <strong>sektör bazlı uyumluluk (compliance)</strong> ve kurumsal yönetişim yapılarına odaklanıyor. MACN, bu ülkede şu adımları atıyor:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>sektöre özel eğitim modülleri</strong> geliştiriyor,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Associate Membership</strong> modeli kapsamında uzun vadeli destek mekanizmalarını güçlendiriyor,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">özellikle <strong>yaptırımlar, şirket içi bütünlük sistemleri ve risk yönetimi</strong> konularında rehberlik sağlıyordır.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Associate Membership</strong> modeli çerçevesinde uzun vadeli destek mekanizmalarını güçlendiriyor,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">özellikle <strong>yaptırımlar, şirket içi bütünlük sistemleri ve risk yönetimi</strong> alanlarında rehberlik sunuyor.</p></li>
 </ul>
-<p style="text-align: justify">Bu yapı, Avrupa’daki operatörlerin giderek karmaşıklaşan <strong>yaptırım rejimleri</strong> ve uyum yükümlülükleri karşısında daha dirençli hâle gelmesini amaçlıyor.</p>
+<p style="text-align: justify">Bu yapı, Avrupa’daki operatörlerin giderek karmaşıklaşan <strong>yaptırım rejimleri</strong> ve uyum yükümlülükleri karşısında direncini artırmayı amaçlıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Collective Action Modeli ve Sistemik Etki</strong></h3>
-<p style="text-align: justify">Programın merkezinde, MACN’nin temel çalışma prensibi olan <strong>Collective Action framework</strong> yer alıyor. Bu model;</p>
+<p style="text-align: justify">Programın merkezinde MACN’nin temel çalışma prensibi olan <strong>Collective Action framework</strong> yer alıyor. Bu model;</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">küresel denizcilik şirketlerini,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">KOBİ’leri,</p></li>
@@ -61,15 +61,15 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">kamu kurumlarını ve</p></li>
   <li style="text-align: justify"><p style="text-align: justify">sivil toplum kuruluşlarını</p></li>
 </ul>
-<p style="text-align: justify">aynı masa etrafında buluşturmakta. Müller Torbrand, <strong>veriye dayalı diyalog</strong> ve <strong>ortak ilkeler</strong> sayesinde, bireysel şirketlerin tek başına başaramayacağı ölçekte <strong>kalıcı davranış değişikliği</strong> yaratılabildiğini ifade ediyor.</p>
+<p style="text-align: justify">aynı masa etrafında buluşturuyor. Müller Torbrand, <strong>veriye dayalı diyalog</strong> ve <strong>ortak ilkeler</strong> sayesinde, bireysel şirketlerin tek başına ulaşamayacağı ölçekte <strong>kalıcı davranış değişikliği</strong> ortaya çıktığını ifade etti.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Uzun Vadeli Hedef ve Küresel Bağlam</strong></h3>
-<p style="text-align: justify">MACN, bu girişimi örgütün <strong>uzun vadeli hedefi</strong> olan denizcilik ticaretinde yolsuzluğun azaltılması ve <strong>uyumlu operatörler için eşit rekabet koşullarının sağlanması</strong> yolunda kritik bir adım olarak görüyor. 2011 yılında küçük bir denizcilik şirketleri grubuyla yola çıkan MACN, bugün <strong>225’ten fazla üyesi bulunan küresel bir ağ</strong> hâline gelmiş durumda.</p>
+<p style="text-align: justify">MACN, bu girişimi örgütün <strong>uzun vadeli hedefi</strong> olan denizcilik ticaretinde yolsuzluğun azalması ve <strong>uyumlu operatörler için eşit rekabet koşullarının oluşması</strong> yolunda kritik bir adım olarak değerlendiriyor. Örgüt, 2011 yılında küçük bir denizcilik şirketleri grubuyla yola çıktı ve bugün <strong>225’ten fazla üyesi bulunan küresel bir ağ</strong> hâline geldi.</p>
 <p><br></p>
-<p style="text-align: justify">Yeni program, Asya–Avrupa ekseninde yoğunlaşsa da, elde edilecek çıktılar ve geliştirilecek araçların <strong>küresel ölçekte uygulanabilir</strong> olması hedefleniyor.</p>
+<p style="text-align: justify">Yeni program Asya–Avrupa ekseninde yoğunlaşsa da MACN, elde edilecek çıktıların ve geliştirilecek araçların <strong>küresel ölçekte uygulanabilir</strong> olmasını hedefliyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Genel Değerlendirme</strong></h3>
-<p style="text-align: justify">MACN’nin Asya ve Avrupa’yı kapsayan bu yeni yolsuzlukla mücadele programı, denizcilik tedarik zincirlerinde şeffaflığın artık yalnızca etik bir beklenti değil, <strong>operasyonel bir zorunluluk</strong> hâline geldiğini gösteriyor. Siemens Integrity Initiative’in finansal desteği ve çok paydaşlı yaklaşım, programın yalnızca farkındalık değil, <strong>ölçülebilir ve kalıcı etki</strong> yaratma potansiyelini güçlendiriyor.</p>
+<p style="text-align: justify">MACN’nin Asya ve Avrupa’yı kapsayan bu yeni yolsuzlukla mücadele programı, denizcilik tedarik zincirlerinde şeffaflığın artık yalnızca etik bir beklenti değil, <strong>operasyonel bir zorunluluk</strong> hâline geldiğini ortaya koyuyor. Siemens Integrity Initiative’in finansal desteği ve çok paydaşlı yaklaşım, programın yalnızca farkındalık değil, <strong>ölçülebilir ve kalıcı etki</strong> yaratma potansiyelini de güçlendiriyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar:</strong></h3>
 <ul>

@@ -19,53 +19,53 @@ tags:
 - Kaliforniya
 - inovasyon merkezi
 ---
-<p style="text-align: justify"><strong>GrayMatter Robotics</strong>, <strong>Carson, Kaliforniya</strong>’da 100.000 metrekarelik yeni genel merkez ve inovasyon merkezini resmen açarak, <strong>ABD’nin en gelişmiş “etkileşimli robotik deneyim merkezi”</strong> olarak tanımladığı tesisin kapılarını açtı.</p>
+<p style="text-align: justify"><strong>GrayMatter Robotics</strong>, <strong>Carson, Kaliforniya</strong>’da 100.000 metrekarelik yeni genel merkez ve inovasyon merkezini resmen hizmete açtı; şirket bu tesisi <strong>ABD’nin en gelişmiş “etkileşimli robotik deneyim merkezi”</strong> olarak tanımlıyor.</p>
 <p><br>
-Şirketin açıklamasına göre, bu tesis <strong>yapay zeka destekli üretim otomasyonu (AI-powered manufacturing automation)</strong> alanında ulusal ölçekte bir dönüm noktasını temsil ediyor.</p>
+Şirketin açıklamasına göre bu tesis, <strong>yapay zeka destekli üretim otomasyonu (AI-powered manufacturing automation)</strong> alanında ulusal ölçekte bir dönüm noktasını temsil ediyor.</p>
 <p><br></p>
-<p style="text-align: justify">Yeni merkez, <strong>25’ten fazla aktif robotik hücre</strong> barındırmakta ve hem mevcut hem de potansiyel müşterilere <strong>“fiziksel yapay zeka (physical AI)” teknolojisinin</strong> gerçek üretim ortamında nasıl çalıştığını deneyimleme imkânı sunuyor.</p>
+<p style="text-align: justify">Yeni merkez, <strong>25’ten fazla aktif robotik hücre</strong> barındırıyor ve hem mevcut hem de potansiyel müşterilere <strong>“fiziksel yapay zeka (physical AI)” teknolojisinin</strong> gerçek üretim ortamında nasıl çalıştığını deneyimleme imkânı tanıyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Geleceğin Fabrikaları Carson’da Kuruluyor</strong></h5>
-<p style="text-align: justify">Şirketin CEO’su ve kurucu ortağı <strong>Ariyan Kabir</strong>, açılışta yaptığı konuşmada yeni tesisin yalnızca bir genel merkez olmadığını vurguladı:</p>
+<p style="text-align: justify">Şirketin CEO’su ve kurucu ortağı <strong>Ariyan Kabir</strong>, açılışta yaptığı konuşmada yeni tesisin yalnızca bir genel merkezden ibaret olmadığını vurguladı:</p>
 <blockquote style="text-align: justify">“Bu tesis, ileri üretimi yeniden Amerikan topraklarına ve özellikle South Bay bölgesine kazandırma konusundaki kararlılığımızı temsil ediyor.”</blockquote>
-<p style="text-align: justify">Kabir, Carson şehrinin seçilme nedenini <strong>havacılık, denizcilik ve ileri üretim kümelerine yakınlığı</strong>, <strong>dünya standartlarındaki liman altyapısı</strong> ve <strong>yüksek nitelikli iş gücü</strong> olarak açıkladı.</p>
+<p style="text-align: justify">Kabir, Carson şehrinin seçilme nedenini <strong>havacılık, denizcilik ve ileri üretim kümelerine yakınlık</strong>, <strong>dünya standartlarındaki liman altyapısı</strong> ve <strong>yüksek nitelikli iş gücü</strong> olarak açıkladı.</p>
 <p><br></p>
-<p style="text-align: justify">Tesis, <strong>AI, robotik, çok disiplinli mühendislik, üretim operasyonları ve teknik destek</strong> alanlarında <strong>100’den fazla yüksek vasıflı istihdam</strong> yaratmış durumda.</p>
+<p style="text-align: justify">Tesis, <strong>AI, robotik, çok disiplinli mühendislik, üretim operasyonları ve teknik destek</strong> alanlarında <strong>100’den fazla yüksek vasıflı istihdam</strong> yarattı.</p>
 <p><br>
-Şirket, önümüzdeki birkaç yıl içinde bu sayıyı <strong>yüzlerce yeni pozisyonla artırmayı</strong> planlıyor.</p>
+Şirket, önümüzdeki birkaç yıl içinde bu sayıyı <strong>yüzlerce yeni pozisyonla yukarı çekmeyi</strong> planlıyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Fiziksel Yapay Zeka: Yeni Nesil Endüstriyel Otomasyon</strong></h5>
-<p style="text-align: justify"><strong>GrayMatter Robotics</strong>, dijital zekâdan (digital AI) fiziksel zekâya geçişi temsil eden yeni bir teknolojik yaklaşım geliştiriyor.<br>
-Bu yaklaşım, <strong>yapay zekânın fiziksel dünyada robotik sistemler aracılığıyla doğrudan etkileşime girmesini</strong> sağlıyor.</p>
+<p style="text-align: justify"><strong>GrayMatter Robotics</strong>, dijital zekâdan (digital AI) fiziksel zekâya geçişi temsil eden yeni bir teknolojik yaklaşım geliştirdi.<br>
+Bu yaklaşım, <strong>yapay zekânın fiziksel dünyada robotik sistemler aracılığıyla doğrudan etkileşime girmesine</strong> olanak tanıyor.</p>
 <p><br></p>
-<p style="text-align: justify">CTO ve kurucu ortak <strong>Brual Shah</strong>, bu dönüşümü şöyle tanımladı:</p>
+<p style="text-align: justify">CTO ve kurucu ortak <strong>Brual Shah</strong>, bu dönüşümü şu sözlerle özetledi:</p>
 <blockquote style="text-align: justify">“Ziyaretçiler, daha önce hiç görmediği bir parçayı tarayıp, kendi kendine bir dakika içinde programlama yapan ve o parçayı insan hassasiyetinin ötesinde işleyen bir robotu canlı izleyebiliyor. Bu, üretim zekâsının somut hali.”</blockquote>
-<p style="text-align: justify">Şirketin tescilli teknolojisi <strong>GMR-AI</strong>, geleneksel endüstriyel otomasyondan temelde farklı bir yapıya sahip.<br>
+<p style="text-align: justify">Şirketin tescilli teknolojisi <strong>GMR-AI</strong>, geleneksel endüstriyel otomasyondan temelde farklı bir yapı sunuyor.<br>
  <strong>Physics-informed AI</strong> prensiplerine dayanan bu sistem, manuel programlama gerektirmiyor.<br>
-Robotlar, <strong>malzeme özelliklerini, geometrileri, kuvvetleri ve alet davranışlarını fiziksel modeller üzerinden anlayarak</strong>, daha önce karşılaşmadıkları parçalarla bile <strong>güvenli ve hassas</strong> biçimde çalışabiliyor.</p>
+Robotlar, <strong>malzeme özelliklerini, geometrileri, kuvvetleri ve alet davranışlarını fiziksel modeller üzerinden kavrayarak</strong>, daha önce karşılaşmadıkları parçalarla bile <strong>güvenli ve hassas</strong> biçimde çalışabiliyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>“Fiziksel AI”, Dijital AI’nin Ötesinde</strong></h5>
-<p style="text-align: justify">GrayMatter Robotics’in Baş Bilim İnsanı ve kurucu ortağı <strong>Prof. Satyandra K. Gupta</strong>, fiziksel yapay zekâyı şöyle tanımlıyor:</p>
+<p style="text-align: justify">GrayMatter Robotics’in Baş Bilim İnsanı ve kurucu ortağı <strong>Prof. Satyandra K. Gupta</strong>, fiziksel yapay zekâyı şu sözlerle tanımlıyor:</p>
 <blockquote style="text-align: justify">“Fiziksel AI, dijital AI’nin bir uzantısı değil; tamamen farklı bir tür.<br>
 Dil modelleri metin üretebilir, ama bizim AI’mız hiç görmediği bir uçak bileşenini otonom biçimde işleyebilir.<br>
 Bu, yapay zekânın fiziksel dünyada gerçek sonuçlar doğurduğu bir evre.”</blockquote>
 <p style="text-align: justify">Bu vizyon, <strong>yapay zekânın veri analizinden üretim sahasına geçişini</strong> temsil ediyor.<br>
-GrayMatter Robotics, “fabrikanın geleceği” kavramını, <strong>insan–robot–AI iş birliğine dayalı hibrit üretim ortamı</strong> olarak tanımlıyor.</p>
+GrayMatter Robotics, “fabrikanın geleceği” kavramını <strong>insan–robot–AI iş birliğine dayalı hibrit üretim ortamı</strong> olarak tanımlıyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Sanayi Ortaklarıyla Gerçek Üretimde Uygulama</strong></h5>
-<p style="text-align: justify">GrayMatter Robotics’in teknolojisi hâlihazırda <strong>büyük ölçekli üreticilerde</strong> aktif olarak kullanılıyor.<br>
- <strong>Pierce Manufacturing (Oshkosh Corporation)</strong>, Kuzey Amerika’nın önde gelen <strong>itfaiye araçları üreticisi</strong>, şirketin sistemlerini üretim hatlarına entegre etti.</p>
+<p style="text-align: justify">GrayMatter Robotics’in teknolojisi hâlihazırda <strong>büyük ölçekli üreticilerde</strong> aktif biçimde iş başında.<br>
+ Kuzey Amerika’nın önde gelen <strong>itfaiye araçları üreticisi</strong> <strong>Pierce Manufacturing (Oshkosh Corporation)</strong>, şirketin sistemlerini üretim hatlarına entegre etti.</p>
 <p><br></p>
-<p style="text-align: justify"><strong>Pierce Manufacturing Başkanı Bob Schulz</strong>, iş birliği hakkında şunları söyledi:</p>
+<p style="text-align: justify"><strong>Pierce Manufacturing Başkanı Bob Schulz</strong>, iş birliği hakkında şu ifadeleri kullandı:</p>
 <blockquote style="text-align: justify">“GrayMatter Robotics’le elde ettiğimiz erken sonuçlar bizi sistemleri geniş ölçekte uygulamaya teşvik etti. Carson tesisini ziyaret ettiğimizde, birlikte büyüyebileceğimiz bir vizyona sahip olduklarını gördük.”</blockquote>
-<p style="text-align: justify">Bu tür ortaklıklar, GrayMatter Robotics’in <strong>AI destekli otomasyon sistemlerinin</strong> ölçeklenebilirliğini ve endüstri uyumunu kanıtlamakta.</p>
+<p style="text-align: justify">Bu tür ortaklıklar, GrayMatter Robotics’in <strong>AI destekli otomasyon sistemlerinin</strong> ölçeklenebilirliğini ve endüstri uyumunu kanıtlıyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>ABD Üretiminde Yeni Bir Dönem</strong></h5>
-<p style="text-align: justify">Şirket, kısa sürede <strong>85 milyon dolarlık risk sermayesi yatırımı</strong> toplayarak büyümesini hızlandırdı.<br>
-Yeni tesis, bu yatırımın sonucunda hayata geçirilen en büyük adım niteliğinde.</p>
+<p style="text-align: justify">Şirket, kısa sürede <strong>85 milyon dolarlık risk sermayesi yatırımı</strong> topladı ve büyümesini hızlandırdı.<br>
+Yeni tesis, bu yatırımın sonucunda hayata geçen en büyük adım niteliği taşıyor.</p>
 <p style="text-align: justify">GrayMatter Robotics’in hedefi, ABD’de <strong>“fiziksel yapay zekâ destekli üretim”</strong> alanında <strong>küresel lider konumuna</strong> ulaşmak.</p>
 <p><br>
-Bu merkez, yalnızca bir Ar-Ge ve üretim üssü değil; aynı zamanda <strong>müşteriler, öğrenciler ve sektör profesyonelleri için etkileşimli bir öğrenme laboratuvarı</strong> olarak da işlev görüyor.</p>
+Bu merkez yalnızca bir Ar-Ge ve üretim üssü değil; aynı zamanda <strong>müşteriler, öğrenciler ve sektör profesyonelleri için etkileşimli bir öğrenme laboratuvarı</strong> işlevini de üstleniyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>

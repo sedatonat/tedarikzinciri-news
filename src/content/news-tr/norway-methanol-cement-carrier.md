@@ -20,43 +20,43 @@ tags:
 - emisyon azaltımı
 - alternatif yakıt
 ---
-<p style="text-align: justify">Almanya merkezli <strong>Hartmann Group</strong> ile <strong>Heidelberg Materials Northern Europe</strong>, Norveç kıyı taşımacılığı kapsamında <strong>metanol yakıtlı yeni bir çimento taşıyıcısı</strong>nı devreye alma kararı alıyor. Şirket açıklamasına göre proje, Norveç iç hat deniz taşımacılığında <strong>fosil yakıtlardan uzaklaşmayı</strong> ve karbon ayak izini önemli ölçüde azaltmayı hedefliyor. Yeni gemi, Norveç’in sıkı çevresel regülasyonları ve yeşil denizcilik politikalarıyla uyumlu şekilde tasarlanıyor.</p>
+<p style="text-align: justify">Almanya merkezli <strong>Hartmann Group</strong> ile <strong>Heidelberg Materials Northern Europe</strong>, Norveç kıyı taşımacılığı kapsamında <strong>metanol yakıtlı yeni bir çimento taşıyıcısını</strong> devreye alma kararı aldı. Şirket açıklamasına göre proje; Norveç iç hat deniz taşımacılığında <strong>fosil yakıtlardan uzaklaşmayı</strong> ve karbon ayak izini önemli ölçüde azaltmayı hedefliyor. Yeni gemi; Norveç'in sıkı çevresel regülasyonlarına ve yeşil denizcilik politikalarına tam uyum sağlayacak biçimde tasarlanıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Proje, Norveç’in <strong>NOx Fund</strong> mekanizması tarafından <strong>60 milyon NOK</strong> tutarında bir hibe ile destekleniyor ve ülkenin kamu–özel sektör iş birliğine dayalı <strong>Green Shipping Programme</strong> kapsamında yer alıyor. Yetkililer, bu desteklerin proje üzerindeki finansal yükü hafifletmekle kalmadığını, aynı zamanda alternatif yakıtlı gemilerin ticarileşmesini hızlandırıyor olduğunu belirtiyor.</p>
+<p style="text-align: justify">Proje; Norveç'in <strong>NOx Fund</strong> mekanizması tarafından <strong>60 milyon NOK</strong> tutarında bir hibeyle destekleniyor ve ülkenin kamu–özel sektör iş birliğine dayalı <strong>Green Shipping Programme</strong> kapsamında yer alıyor. Yetkililer; bu desteklerin proje üzerindeki finansal yükü hafifletmekle kalmadığını, aynı zamanda alternatif yakıtlı gemilerin ticarileşmesini hızlandırdığını vurguluyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Sahiplik ve Operasyon Modeli</strong></h3>
-<p style="text-align: justify">Anlaşmaya göre geminin <strong>tasarımı, mülkiyeti ve işletmesi Hartmann Group</strong> tarafından üstlenilmekte. Operasyonel yapı şu şekilde kurgulanmakta:</p>
+<p style="text-align: justify">Anlaşmaya göre geminin <strong>tasarımını, mülkiyetini ve işletmesini Hartmann Group</strong> üstleniyor. Operasyonel yapı şu şekilde kurguluyor:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Hartmann Reederei</strong>: Gemi tasarımı ve genel sahiplik,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>United Bulk Carriers USA</strong>: Operasyonel işletme,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>InterMaritime Shipmanagement</strong>: Teknik yönetim.</p></li>
 </ul>
-<p style="text-align: justify">Bu yapı, Hartmann Group’un sahip olduğu <strong>çok katmanlı gemi yönetim modeli</strong>nin tipik bir örneğini oluşturuyor. Yeni gemi, <strong>Heidelberg Materials Norge</strong> ile yapılan <strong>10 yıllık time charter</strong> anlaşması kapsamında hizmet verecek. Bu uzun vadeli sözleşme, hem gemi sahibi hem de yük sahibi açısından yatırımın ekonomik sürdürülebilirliğini güvence altına alıyor.</p>
+<p style="text-align: justify">Bu yapı; Hartmann Group'un sahip olduğu <strong>çok katmanlı gemi yönetim modeli</strong>nin tipik bir örneğini oluşturuyor. Yeni gemi, <strong>Heidelberg Materials Norge</strong> ile imzalanan <strong>10 yıllık time charter</strong> anlaşması kapsamında hizmet verecek. Söz konusu uzun vadeli sözleşme; hem gemi sahibi hem de yük sahibi açısından yatırımın ekonomik sürdürülebilirliğini güvence altına alıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Teknik Özellikler ve Taşıma Kapasitesi</strong></h3>
-<p style="text-align: justify">Yeni inşa edilecek gemi, <strong>dual-fuel</strong> konfigürasyonla tasarlanıyor ve <strong>green methanol</strong> ana yakıt olarak kullanılıyor. Bu yaklaşım, geminin uzun vadede <strong>karbon nötr yakıt tedarik zincirlerine</strong> uyumunu mümkün kılıyor. Gemi, yaklaşık <strong>9.000 ton çimento</strong> taşıma kapasitesine sahip olacak; bu rakam, halihazırda hizmet veren fosil yakıtlı gemiye kıyasla <strong>yaklaşık 1.000 ton daha fazla</strong> yük kapasitesi anlamına geliyor.</p>
+<p style="text-align: justify">Yeni inşa edilecek gemi, <strong>dual-fuel</strong> konfigürasyonla tasarlanıyor ve ana yakıt olarak <strong>green methanol</strong> kullanıyor. Bu yaklaşım; geminin uzun vadede <strong>karbon nötr yakıt tedarik zincirlerine</strong> uyumunu mümkün kılıyor. Gemi, yaklaşık <strong>9.000 ton çimento</strong> taşıma kapasitesine ulaşacak; bu rakam, halihazırda hizmet veren fosil yakıtlı gemiye kıyasla <strong>yaklaşık 1.000 ton daha fazla</strong> yük kapasitesi anlamına geliyor.</p>
 <p><br></p>
-<p style="text-align: justify">Gemi, <strong>Heidelberg Materials’ın Brevik tesisinden</strong> Norveç’in ana limanlarına düzenli <strong>yüksek frekanslı shuttle seferleri</strong> gerçekleştirecek. Hizmet verilecek limanlar arasında:</p>
+<p style="text-align: justify">Gemi; <strong>Heidelberg Materials'ın Brevik tesisinden</strong> Norveç'in ana limanlarına düzenli <strong>yüksek frekanslı shuttle seferleri</strong> gerçekleştirecek. Hizmet verilecek limanlar arasında:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Oslo</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Bergen</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Kristiansand</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Stavanger</strong></p></li>
 </ul>
-<p style="text-align: justify">bulunuyor. Bu model, karayolu taşımacılığına olan bağımlılığı azaltıyor ve kıyı taşımacılığında <strong>daha düşük emisyonlu, daha öngörülebilir</strong> bir lojistik çözüm sunuyor.</p>
+<p style="text-align: justify">yer alıyor. Bu model; karayolu taşımacılığına olan bağımlılığı azaltıyor ve kıyı taşımacılığında <strong>daha düşük emisyonlu, daha öngörülebilir</strong> bir lojistik çözüm sunuyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Emisyon ve Verimlilik Etkisi</strong></h3>
-<p style="text-align: justify">Gemi gövdesi ve güç sistemleri, <strong>energy-optimised hull</strong> prensiplerine göre tasarlanıyor. Şirket açıklamasına göre bu sayede gemi, mevcut fosil yakıtlı tonajla karşılaştırıldığında <strong>yıllık yaklaşık 6.000 ton CO₂</strong> tasarrufu sağlayacak. Toplamda, rota bazında <strong>yaklaşık %80 emisyon azaltımı</strong> hedefleniyor.</p>
+<p style="text-align: justify">Gemi gövdesi ve güç sistemleri; <strong>energy-optimised hull</strong> prensiplerine göre tasarlanıyor. Şirket açıklamasına göre gemi, bu yaklaşımla mevcut fosil yakıtlı tonaja kıyasla <strong>yıllık yaklaşık 6.000 ton CO₂</strong> tasarrufu sağlayacak. Proje, rota bazında toplamda <strong>yaklaşık %80 emisyon azaltımı</strong> hedefini ortaya koyuyor.</p>
 <p><br></p>
-<p style="text-align: justify"><strong>Heidelberg Materials Norge</strong> Lojistik Direktörü <strong>Knut Omreng</strong>, projenin yalnızca çevresel değil, operasyonel açıdan da kazanımlar sunduğunu ifade ediyor. Omreng’e göre yeni gemi, hem daha fazla yük taşıyarak <strong>transport efficiency</strong> sağlıyor hem de Norveç’in iklim hedefleriyle tam uyum gösteriyor.</p>
+<p style="text-align: justify"><strong>Heidelberg Materials Norge</strong> Lojistik Direktörü <strong>Knut Omreng</strong>, projenin yalnızca çevresel değil, operasyonel açıdan da kazanımlar sunduğunu ifade ediyor. Omreng'e göre yeni gemi; daha fazla yük taşıyarak <strong>transport efficiency</strong> sağlıyor ve Norveç'in iklim hedefleriyle tam uyum gösteriyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Stratejik Bağlam: Yeşil Denizcilik ve Çimento Lojistiği</strong></h3>
-<p style="text-align: justify">Çimento taşımacılığı, yüksek hacim ve düşük birim değer nedeniyle <strong>enerji yoğun</strong> bir lojistik faaliyet olarak biliniyor. Bu nedenle Heidelberg Materials, deniz taşımacılığında karbon azaltımını <strong>kritik bir kaldıraç</strong> olarak görüyor. Şirket, Nordik ve Baltık bölgelerinde yılda <strong>3,5 milyon tonun üzerinde çimento</strong> sevk ediyor. Bu ölçekteki hacimler düşünüldüğünde, tek bir gemiyle sağlanan emisyon azaltımı dahi toplam karbon ayak izinde anlamlı fark yaratıyor.</p>
+<p style="text-align: justify">Çimento taşımacılığı; yüksek hacim ve düşük birim değer nedeniyle <strong>enerji yoğun</strong> bir lojistik faaliyet olarak tanınıyor. Bu çerçevede Heidelberg Materials, deniz taşımacılığında karbon azaltımını <strong>kritik bir kaldıraç</strong> olarak konumlandırıyor. Şirket, Nordik ve Baltık bölgelerinde yılda <strong>3,5 milyon tonun üzerinde çimento</strong> sevk ediyor. Bu ölçekteki hacimler değerlendirildiğinde, tek bir gemiyle sağlanan emisyon azaltımı dahi toplam karbon ayak izinde anlamlı fark yaratıyor.</p>
 <p><br></p>
-<p style="text-align: justify"><strong>Hartmann Group</strong>, filosunda bulunan <strong>pnömatik self-discharging cement carriers</strong> ile bu alanda uzmanlaşmış bir armatör olarak konumlanıyor. Yeni metanol yakıtlı gemi, grubun <strong>stratejik yönelimiyle</strong> uyumlu bir yatırım olarak tanımlanıyor.</p>
+<p style="text-align: justify"><strong>Hartmann Group</strong>, filosundaki <strong>pnömatik self-discharging cement carriers</strong> ile bu alanda uzmanlaşmış bir armatör olarak öne çıkıyor. Yeni metanol yakıtlı gemi; grubun <strong>stratejik yönelimiyle</strong> uyumlu bir yatırım niteliği taşıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Genel Değerlendirme</strong></h3>
-<p style="text-align: justify">Hartmann Group ve Heidelberg Materials’ın Norveç için devreye alacağı metanol yakıtlı çimento gemisi, <strong>alternatif yakıtların yalnızca konteyner veya yolcu gemileriyle sınırlı olmadığını</strong>, dökme ve endüstriyel yük taşımacılığına da hızla yayıldığını gösteriyor. Uzun vadeli charter modeli, kamu destekleri ve net emisyon hedefleri; bu tür projelerin ticari olarak uygulanabilir hâle geliyor olduğunu ortaya koyuyor.</p>
+<p style="text-align: justify">Hartmann Group ve Heidelberg Materials'ın Norveç için devreye alacağı metanol yakıtlı çimento gemisi; <strong>alternatif yakıtların yalnızca konteyner veya yolcu gemileriyle sınırlı kalmadığını</strong>, dökme ve endüstriyel yük taşımacılığına da hızla yayıldığını gösteriyor. Uzun vadeli charter modeli, kamu destekleri ve net emisyon hedefleri; bu tür projelerin ticari açıdan uygulanabilir hâle geldiğini ortaya koyuyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar:</strong></h3>
 <ul>

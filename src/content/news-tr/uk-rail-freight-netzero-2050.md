@@ -19,41 +19,41 @@ tags:
 - elektrifikasyon
 - intermodal lojistik
 ---
-<p style="text-align: justify"><strong>Birleşik Krallık</strong>, demiryolu yük taşımacılığı alanında iddialı iki hedefi aynı anda gerçekleştirmeyi planlıyor: <strong>2050 yılına kadar net sıfır emisyon</strong> ve aynı dönemde <strong>en az %75 oranında yük artışı</strong>. Ancak <strong>RailFreight.com</strong> yazarı <strong>Simon Walton</strong>, bu iki hedefin kağıt üzerinde uyumlu görünmesine rağmen, pratikte ciddi bir gerilim yarattığını vurguluyor. Walton’a göre mesele yalnızca yeni lokomotifler veya temiz teknolojiler değil; altyapıdan kapasiteye, filo dönüşümünden çok modlu lojistik planlamaya kadar uzanan <strong>çok katmanlı bir dönüşüm süreci</strong> gerektiriyor.</p>
+<p style="text-align: justify"><strong>Birleşik Krallık</strong>; demiryolu yük taşımacılığı alanında iddialı iki hedefi aynı anda gerçekleştirmeyi planlıyor: <strong>2050 yılına kadar net sıfır emisyon</strong> ve aynı dönemde <strong>en az %75 oranında yük artışı</strong>. Ancak <strong>RailFreight.com</strong> yazarı <strong>Simon Walton</strong>; bu iki hedefin kağıt üzerinde uyumlu görünmesine rağmen, pratikte ciddi bir gerilim yarattığını vurguluyor. Walton’a göre mesele yalnızca yeni lokomotifler veya temiz teknolojiler değil; altyapıdan kapasiteye, filo dönüşümünden çok modlu lojistik planlamaya kadar uzanan <strong>çok katmanlı bir dönüşüm süreci</strong> gerektiriyor.</p>
 <p><br></p>
-<p style="text-align: justify">Birleşik Krallık hükümeti bu büyüme hedefini yaklaşık iki yıl önce resmen ilan etti. Ancak <strong>National Audit Office (NAO)</strong>, yayımladığı değerlendirmelerde bu hedefi, ülkenin genel <strong>dekarbonizasyon politikaları</strong> ile birlikte ele alındığında “<strong>devasa bir zorluk</strong>” olarak tanımlıyor. NAO’ya göre yük hacmini %75 artırmak, mevcut altyapı ve enerji sistemleriyle eş zamanlı yürütülmediği takdirde, net sıfır hedefiyle doğrudan çelişme riski taşıyor.</p>
+<p style="text-align: justify">Birleşik Krallık hükümeti bu büyüme hedefini yaklaşık iki yıl önce resmen ilan etti. Ancak <strong>National Audit Office (NAO)</strong>; yayımladığı değerlendirmelerde bu hedefi, ülkenin genel <strong>dekarbonizasyon politikaları</strong> ile birlikte ele alındığında “<strong>devasa bir zorluk</strong>” olarak tanımlıyor. NAO’ya göre yük hacmini %75 artırmak; mevcut altyapı ve enerji sistemleriyle eş zamanlı yürütülmediği takdirde, net sıfır hedefiyle doğrudan çelişme riski taşıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Teknolojik Umut: Class 93 ve Tri-Mode Lokomotifler</strong></h3>
-<p style="text-align: justify">Walton’ın analizinde <strong>Class 93</strong> lokomotifleri, bu dönüşümün en somut ve sembolik örneklerinden biri olarak öne çıkıyor. <strong>Tri-mode</strong> olarak tanımlanan bu lokomotifler:</p>
+<p style="text-align: justify">Walton’ın analizinde <strong>Class 93</strong> lokomotifleri; bu dönüşümün en somut ve sembolik örneklerinden biri olarak öne çıkıyor. <strong>Tri-mode</strong> olarak tanımlanan bu lokomotifler:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Elektrik</strong> (havai hat altında),</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Batarya</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Dizel</strong></p></li>
 </ul>
-<p style="text-align: justify">olmak üzere üç farklı güç kaynağını kullanabiliyor. Bu yapı, Birleşik Krallık demiryolu ağının en büyük sorunlarından biri olan <strong>parçalı elektrifikasyon</strong> karşısında ciddi bir esneklik sağlıyordır.</p>
-<p style="text-align: justify">Henüz elektrifikasyonu tamamlanmamış tali hatlarda dizel veya batarya ile ilerleyen lokomotifler, ana hatlara çıktığında elektriğe geçebiliyor. Bu nedenle Class 93’ler, sektörde sıklıkla <strong>“future-proof”</strong> olarak tanımlanıyor. Ancak Walton, bu teknolojik avantajın tek başına yeterli olmadığını açık biçimde ifade ediyor.</p>
+<p style="text-align: justify">olmak üzere üç farklı güç kaynağını kullanabiliyor. Bu yapı; Birleşik Krallık demiryolu ağının en büyük sorunlarından biri olan <strong>parçalı elektrifikasyon</strong> karşısında ciddi bir esneklik sağlıyor.</p>
+<p style="text-align: justify">Henüz elektrifikasyonu tamamlanmamış tali hatlarda dizel veya batarya ile ilerleyen lokomotifler; ana hatlara çıktığında elektriğe geçebiliyor. Bu nedenle Class 93’leri sektör sıklıkla <strong>“future-proof”</strong> olarak tanımlıyor. Ancak Walton; bu teknolojik avantajın tek başına yeterli olmadığını açık biçimde ifade ediyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Mevcut Filo Gerçeği: Dizel Hâkimiyeti</strong></h3>
-<p style="text-align: justify">2025 itibarıyla Birleşik Krallık’taki <strong>yük lokomotifi filosunun büyük çoğunluğu hâlâ dizel</strong>. Tri-mode ve elektrikli lokomotifler filoda artıyor olsa da, toplam hacim içinde henüz sınırlı bir paya sahipler. Walton’a göre bu tabloyu tersine çevirmek için:</p>
+<p style="text-align: justify">2025 itibarıyla Birleşik Krallık’taki <strong>yük lokomotifi filosunun büyük çoğunluğu hâlâ dizel</strong>. Tri-mode ve elektrikli lokomotifler filoda artış gösterse de, toplam hacim içinde henüz sınırlı bir paya sahipler. Walton’a göre bu tabloyu tersine çevirmek için:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>önümüzdeki 20–25 yıl boyunca</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>istikrarlı, öngörülebilir ve finanse edilmiş bir filo yenileme programı</strong></p></li>
 </ul>
-<p style="text-align: justify">gerekiyor. Aksi takdirde, net sıfır hedefi kağıt üzerinde kalma riski taşıyor.</p>
+<p style="text-align: justify">gerekiyor. Aksi takdirde; net sıfır hedefi kağıt üzerinde kalma riski taşıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Asıl Engel: Altyapı ve Elektrifikasyon</strong></h3>
-<p style="text-align: justify">Walton analizinde, net sıfır hedefinin önündeki <strong>en büyük engelin altyapı</strong> olduğunu vurguluyor. Birleşik Krallık’ta demiryolu elektrifikasyonu:</p>
+<p style="text-align: justify">Walton analizinde; net sıfır hedefinin önündeki <strong>en büyük engelin altyapı</strong> olduğunu vurguluyor. Birleşik Krallık’ta demiryolu elektrifikasyonu:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>ülke genelinde kopuk</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>bölgesel olarak dengesiz</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">ve <strong>uzun vadeli bir ulusal plana tam olarak bağlanmamış</strong> durumda.</p></li>
 </ul>
-<p style="text-align: justify">Bu parçalı yapı, tri-mode lokomotiflerin neden gerekli olduğunu açıklasa da, aynı zamanda <strong>enerji verimliliğini sınırlıyor</strong>. Sürekli dizel veya batarya moduna geçiş, emisyonları azaltıyor; ancak tamamen ortadan kaldırmamakta.</p>
+<p style="text-align: justify">Bu parçalı yapı; tri-mode lokomotiflerin neden gerekli olduğunu açıklasa da, aynı zamanda <strong>enerji verimliliğini sınırlıyor</strong>. Sürekli dizel veya batarya moduna geçiş emisyonları azaltıyor; ancak tamamen ortadan kaldırmıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Buna ek olarak Walton, demiryolu altyapısının <strong>%75’lik bir trafik artışını kaldırabilecek marjinal kapasiteye henüz sahip olmadığını</strong> belirtiyor. Hat kapasitesi, terminal alanları, manevra sahaları ve zaman çizelgeleri, bugünkü seviyelerde dahi zorlanıyor.</p>
+<p style="text-align: justify">Buna ek olarak Walton; demiryolu altyapısının <strong>%75’lik bir trafik artışını kaldırabilecek marjinal kapasiteye henüz sahip olmadığını</strong> belirtiyor. Hat kapasitesi, terminal alanları, manevra sahaları ve zaman çizelgeleri; bugünkü seviyelerde dahi zorlanıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Sadece Demiryolu Yetmez: Sistemsel Yaklaşım</strong></h3>
-<p style="text-align: justify">Analizin vardığı temel sonuçlardan biri şu noktada netleşmekte: <strong>sadece demiryolu araçlarını yenilemek yeterli değil</strong>. Walton’a göre net sıfır ve büyüme hedeflerinin birlikte tutturulabilmesi için:</p>
+<p style="text-align: justify">Analizin vardığı temel sonuçlardan biri şu noktada netleşiyor: <strong>sadece demiryolu araçlarını yenilemek yeterli değil</strong>. Walton’a göre net sıfır ve büyüme hedeflerinin birlikte tutturulabilmesi için:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>karayolu taşımacılığı (tırlar)</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>iç su yolları</strong>,</p></li>
@@ -62,10 +62,10 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">ve <strong>lojistik planlama modelleri</strong></p></li>
 </ul>
 <p style="text-align: justify">tek bir sistem olarak ele alınmak zorunda.</p>
-<p style="text-align: justify">Bu bağlamda demiryolu, yükün tamamını tek başına absorbe edecek bir çözüm değil; daha geniş bir <strong>çok modlu lojistik ekosistemin omurgası</strong> olarak konumlanıyor.</p>
+<p style="text-align: justify">Bu bağlamda demiryolu; yükün tamamını tek başına absorbe edecek bir çözüm değil, daha geniş bir <strong>çok modlu lojistik ekosistemin omurgası</strong> olarak konumlanıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>25 Yıllık Bir Pencere</strong></h3>
-<p style="text-align: justify">Walton, mevcut dizel ağırlıklı filonun kısa vadede bir dezavantaj gibi görünse de, <strong>2050’ye kadar olan yaklaşık 25 yıllık sürenin</strong> doğru kullanılması hâlinde bunun bir <strong>fırsata dönüşebileceğini</strong> savunuyor. Bu süre:</p>
+<p style="text-align: justify">Walton; mevcut dizel ağırlıklı filonun kısa vadede bir dezavantaj gibi görünse de, <strong>2050’ye kadar olan yaklaşık 25 yıllık sürenin</strong> doğru kullanılması hâlinde bunun bir <strong>fırsata dönüşebileceğini</strong> savunuyor. Bu süre:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">altyapının kademeli elektrifikasyonu,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">filo dönüşümünün zamana yayılması,</p></li>
@@ -74,7 +74,7 @@ tags:
 <p style="text-align: justify">için kritik bir zaman penceresi sunuyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Genel Değerlendirme</strong></h3>
-<p style="text-align: justify">Simon Walton’ın analizi, Birleşik Krallık demiryolu yük taşımacılığının geleceğinin <strong>tek bir teknolojiye değil</strong>, uzun soluklu ve koordineli bir dönüşüm stratejisine bağlı olduğunu ortaya koyuyor. <strong>Class 93</strong> gibi tri-mode lokomotifler önemli bir araç olmakla birlikte, asıl başarı; altyapı yatırımları, kapasite planlaması ve lojistik sistemlerin bütüncül ele alınmasıyla mümkün olabilecek. Net sıfır ve %75 büyüme hedefleri, ancak bu yaklaşım benimsendiğinde birbiriyle çelişmeden ilerleyebilecek görünüyor.</p>
+<p style="text-align: justify">Simon Walton’ın analizi; Birleşik Krallık demiryolu yük taşımacılığının geleceğinin <strong>tek bir teknolojiye değil</strong>, uzun soluklu ve koordineli bir dönüşüm stratejisine bağlı olduğunu ortaya koyuyor. <strong>Class 93</strong> gibi tri-mode lokomotifler önemli bir araç olmakla birlikte; asıl başarıyı altyapı yatırımları, kapasite planlaması ve lojistik sistemlerin bütüncül ele alınması mümkün kılacak. Net sıfır ve %75 büyüme hedefleri; ancak bu yaklaşım benimsendiğinde birbiriyle çelişmeden ilerleyebilecek görünüyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar:</strong></h3>
 <ul>

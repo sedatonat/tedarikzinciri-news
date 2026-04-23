@@ -20,54 +20,54 @@ tags:
 - breakbulk
 - ithalat maliyeti
 ---
-<p style="text-align: justify">ABD’nin <strong>breakbulk</strong> ve <strong>project cargo</strong> ithalatçıları, 2025 boyunca tarifeler, ekonomik belirsizlik, nakliye maliyetleri ve gecikmeler nedeniyle ciddi bir finansal baskı altında bulunuyor. Bu tabloya şimdi bir de <strong>CBP’nin ahşap ambalaj malzemelerinde zararlı tespiti için uyguladığı yoğun denetim ve yüksek cezalar</strong> eklenmiş durumda.</p>
+<p style="text-align: justify">ABD’nin <strong>breakbulk</strong> ve <strong>project cargo</strong> ithalatçıları, 2025 boyunca tarifeler, ekonomik belirsizlik, nakliye maliyetleri ve gecikmeler nedeniyle ciddi bir finansal baskı altında faaliyet sürdürüyor. Bu tabloya şimdi bir de <strong>CBP’nin ahşap ambalaj malzemelerinde zararlı tespiti için uyguladığı yoğun denetim ve yüksek cezalar</strong> eklendi.</p>
 <p><br></p>
-<p style="text-align: justify">ABD Gümrük ve Sınır Koruma Birimi (<strong>CBP</strong>), özellikle <strong>ISPM 15 standardına</strong> uyumlu olmayan veya zararlı organizmalar içeren <strong>ahşap ambalaj malzemelerini (WPM – Wood Packaging Materials)</strong> hedef alıyor. Proje kargosunda kullanılan tahta sandıklar, takozlar, paletler ve destek kirişleri, doğal yapıları gereği <strong>böcek, larva ve fungal kontaminasyona</strong> son derece yatkın bulunuyor.</p>
+<p style="text-align: justify">ABD Gümrük ve Sınır Koruma Birimi (<strong>CBP</strong>), özellikle <strong>ISPM 15 standardına</strong> uygun olmayan veya zararlı organizmalar içeren <strong>ahşap ambalaj malzemelerini (WPM – Wood Packaging Materials)</strong> hedef alıyor. Proje kargosunda kullanılan tahta sandıklar, takozlar, paletler ve destek kirişleri, doğal yapıları gereği <strong>böcek, larva ve fungal kontaminasyona</strong> son derece yatkın durumda.</p>
 <p><br></p>
-<p style="text-align: justify">CBP’nin sıkılaştırdığı uygulamalar nedeniyle ithalatçılar:</p>
+<p style="text-align: justify">CBP’nin sıkılaştırdığı uygulamalar ithalatçıları şu risklerle karşı karşıya bırakıyor:</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Yedi haneli para cezalarına</strong>,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Kargonun tekrar ihracı (re-export)</strong> riskine,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Günler veya haftalar süren gecikmelere</strong>,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Limanda <strong>depolama ve işçilik maliyetlerinin yükselmesine</strong>,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Bozulan teslimat programlarının tetiklediği <strong>sözleşme ihlali risklerine</strong><br>
-maruz kalıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Yedi haneli para cezaları</strong>,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>kargonun tekrar ihracı (re-export)</strong> riski,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>günler veya haftalar süren gecikmeler</strong>,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">limanda <strong>depolama ve işçilik maliyetlerinin tırmanışı</strong>,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">bozulan teslimat programlarının tetiklediği <strong>sözleşme ihlali riskleri</strong><br>
+bu tablonun başlıca unsurlarını oluşturuyor.</p></li>
 </ul>
 <p><br></p>
 <h4 style="text-align: justify"><strong>2025 mali yılında denetimler hızlandı</strong></h4>
-<p style="text-align: justify">ABD federal hükümetinin 2025 mali yılı boyunca CBP’nin yürüttüğü denetimler, özellikle proje kargosu segmentinde <strong>önemli bir artış gösteriyor</strong>. CBP, kırılgan olmayan ancak büyük ölçekli proje yüklerinin ahşap ambalaj kullanımını yoğun şekilde içerdiğini ve bu nedenle <strong>yüksek risk kategorisi</strong> altında tutulduğunu belirtiyor.</p>
+<p style="text-align: justify">ABD federal hükümetinin 2025 mali yılı boyunca CBP’nin yürüttüğü denetimler, özellikle proje kargosu segmentinde <strong>belirgin bir artış sergiledi</strong>. CBP, kırılgan olmayan ancak büyük ölçekli proje yüklerinin ahşap ambalaj kullanımını yoğun biçimde barındırdığını ve bu yüklerin <strong>yüksek risk kategorisi</strong> altında yer aldığını belirtiyor.</p>
 <p><br></p>
-<p style="text-align: justify">Proje kargosunda sıklıkla kullanılan:</p>
+<p style="text-align: justify">Proje kargosunda sıklıkla şu unsurlar yer alıyor:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">jeneratör kasaları,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">türbin ambalaj kutuları,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">ağır çelik ekipman sandıkları,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">denizcilik ve offshore ekipman kutuları</p></li>
 </ul>
-<p style="text-align: justify">genellikle kalın, işlenmemiş ve ağır kereste elemanlarından üretildiği için böcek yuvalanmasına uygun bir ortam sunuyor.</p>
+<p style="text-align: justify">bu unsurlar genellikle kalın, işlenmemiş ve ağır kereste elemanlarından üretildiği için böcek yuvalanmasına uygun bir ortam sunuyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Cezalar neden bu kadar yüksek?</strong></h4>
-<p style="text-align: justify">ABD, zararlı organizmaların ülkeye girişi hâlinde tarım, ormancılık ve ekosistem üzerinde <strong>milyarlarca dolarlık zarar</strong> oluşabileceğini belirtiyor. Bu nedenle CBP, ISPM 15 ihlallerine karşı <strong>sıfır tolerans</strong> yaklaşımı uyguluyor.</p>
-<p style="text-align: justify">Uygulamalar kapsamında:</p>
+<p style="text-align: justify">ABD, zararlı organizmaların ülkeye girişi hâlinde tarım, ormancılık ve ekosistem üzerinde <strong>milyarlarca dolarlık zarar</strong> çıkabileceğini belirtiyor. Bu nedenle CBP, ISPM 15 ihlallerine karşı <strong>sıfır tolerans</strong> yaklaşımı benimsiyor.</p>
+<p style="text-align: justify">Uygulamalar kapsamında şu sonuçlar ortaya çıkabiliyor:</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">Kargo tesis içinde açılıp yeniden ambalajlanmak zorunda kalabilir,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Ahşap malzeme imha edilir,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Kargo tesis içinde açılıp yeniden ambalajlanabilir,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Ahşap malzeme imhaya tabi tutulur,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Şirket “tehlikeli ithalatçı” kategorisine girer,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Gümrük işlemleri daha sıkı denetime tabi olur.</p></li>
 </ul>
-<p style="text-align: justify">Bazı vakalarda cezaların <strong>1 milyon doların üzerine çıkabildiği</strong> bildiriliyor.</p>
+<p style="text-align: justify">Bazı vakalarda cezaların <strong>1 milyon doları aştığı</strong> raporlandı.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Tedarik zincirine etkisi geniş</strong></h4>
-<p style="text-align: justify">Bu yaptırımlar sektörde yalnızca maliyet değil, <strong>tedarik zinciri güvenilirliği</strong> üzerinde de büyük kırılganlık yaratıyor. Özellikle ABD’nin enerji, altyapı, ağır sanayi ve yenilenebilir enerji projelerine yönelik ithal edilen büyük ölçekli parçalar:</p>
+<p style="text-align: justify">Bu yaptırımlar sektörde yalnızca maliyet değil, <strong>tedarik zinciri güvenilirliği</strong> üzerinde de büyük kırılganlık yaratıyor. Özellikle ABD’nin enerji, altyapı, ağır sanayi ve yenilenebilir enerji projelerine yönelik ithal edilen büyük ölçekli parçalar şu sorunları doğuruyor:</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">zamanında teslim edilmediğinde projeleri geciktirmekte,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">ek maliyet yüklemekte,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">zamanında teslim edilmediğinde projeleri geciktiriyor,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">ek maliyet yüklüyor,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">EPC yüklenicilerinin sözleşme cezalarına yol açıyor.</p></li>
 </ul>
-<p style="text-align: justify">Birçok ithalatçı, CBP denetimlerinin artması nedeniyle <strong>ambalaj tedarik zincirini yeniden düzenliyor</strong>, tedarikçilerden daha sıkı ISPM 15 sertifikasyonu talep ediyor.</p>
+<p style="text-align: justify">Birçok ithalatçı, CBP denetimlerinin artışı karşısında <strong>ambalaj tedarik zincirini yeniden düzenliyor</strong> ve tedarikçilerden daha sıkı ISPM 15 sertifikasyonu talep ediyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Riskten kaçınma yaklaşımları</strong></h4>
-<p style="text-align: justify">Sektör uzmanları proje kargosu ithalatçılarına şu yöntemleri öneriyor:</p>
+<p style="text-align: justify">Sektör uzmanları, proje kargosu ithalatçılarına şu yöntemleri öneriyor:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">ISPM 15 fırınlama (heat treatment) sertifikalarını <strong>her sevkiyette doğrulamak</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Ambalaj malzemelerini mümkünse <strong>mühendislik kompozitleri</strong> veya çelikle değiştirmek,</p></li>
@@ -75,7 +75,7 @@ maruz kalıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Tedarikçi ülkelerde <strong>üçüncü taraf gözetim (survey)</strong> yaptırmak,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Varış limanında CBP’ye <strong>ön bildirim</strong> yapmak.</p></li>
 </ul>
-<p style="text-align: justify">Bu adımlar maliyetli olsa da yeniden ihracın neden olacağı finansal kayıpların yanında çok daha düşük kalıyor.</p>
+<p style="text-align: justify">Bu adımlar maliyetli görünse de yeniden ihracın yaratacağı finansal kayıpların yanında çok daha düşük kalıyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Önemli Notlar:</strong></h4>
 <ul>
