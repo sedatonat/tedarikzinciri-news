@@ -1,0 +1,39 @@
+---
+title: "China Blasts U.S. Over Pentagon Report That 'Sows Discord' With India"
+date: '2025-12-29T09:00:00Z'
+category: Tedarik Zinciri
+secondaryCategories:
+  - Lojistik
+  - Teknoloji
+image: https://www.supplychainbrain.com/ext/resources/2024/01/25/INDIA-CHINA-FLAGS-iStock--daboost--498273004.jpg
+imageAlt: "Indian and Chinese flags flying side by side"
+sourceUrl: https://www.supplychainbrain.com/articles/43055-china-blasts-us-for-report-that-sows-discord-with-india
+newsSequence: 43055
+author: Sedat Onat
+translated: false
+draft: false
+tags:
+- China
+- India
+- USA
+- Pentagon
+- geopolitics
+- trade war
+- Modi
+- diplomacy
+---
+<p style="text-align: justify"><strong>China</strong> has criticized the United States for what it called an attempt to damage Beijing's ties with India, describing Washington's approach as "irresponsible." A recent <strong>Pentagon</strong> report "distorts China's defense policy, sows discord between China and other countries, and aims to find a pretext for the U.S. to perpetuate its own military hegemony," Foreign Ministry spokesman Lin Jian said at a regular press briefing in Beijing on December 25. Lin made the remarks when asked about the report, which suggested China may use an easing of tensions with India to block improved ties between Washington and New Delhi.</p>
+<p><br></p>
+<p style="text-align: justify">China wants to develop relations with India "along the track of sound and steady development," Lin said, adding that the situation along the border "is generally stable." <strong>China</strong> and <strong>India</strong> have taken steps to stabilize relations since last year. The two nations defused their border standoff, and in August Prime Minister <strong>Narendra Modi</strong> made his first trip to China in seven years. In October, direct flights resumed between the countries after a hiatus of more than five years.</p>
+<p><br></p>
+<p style="text-align: justify">The improved relationship has emerged at a moment when both countries have been stung by President Donald Trump's trade war. Beijing had earlier criticized the same Pentagon report, which also stated that China is in the midst of a "historic military buildup" that has made the U.S. homeland "increasingly vulnerable."</p>
+<p><br></p>
+<p style="text-align: justify">From a supply chain perspective, the China-India rapprochement carries significant implications for global manufacturing networks. The "China+1" investments flowing into India by players such as <strong>Apple</strong>, <strong>Foxconn</strong> and <strong>Samsung</strong> remain dependent on stable bilateral relations between the two Asian giants. China's move to repair bridges with India in the face of U.S. diplomatic maneuvering could reshape alternative positioning strategies, particularly in electronics, pharmaceutical and textile supply chains.</p>
+<p><br></p>
+<p>---<br>
+<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43055-china-blasts-us-for-report-that-sows-discord-with-india"><u>https://www.supplychainbrain.com/articles/43055-china-blasts-us-for-report-that-sows-discord-with-india</u></a><br>
+-------------------</p>
+<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
+<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
+<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
+<p>[43055]</p>

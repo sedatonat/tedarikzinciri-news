@@ -1,0 +1,38 @@
+---
+title: "De Minimis İstisnasının Sona Ermesi Teslimat Şirketlerini Zorlamakta &mdash; CBP Süreci Yönetebildiğini Belirtmekta"
+date: '2025-12-24T09:00:00Z'
+category: Lojistik
+secondaryCategories:
+  - Tedarik Zinciri
+  - Teknoloji
+image: https://www.supplychainbrain.com/ext/resources/2025/12/23/INTERNATIONAL-PACKAGES-CUSTOMS-iStock-Angelica-Zander-2207636051.jpg
+imageAlt: "Gümrük operasyonu ve sınır geçişinde paket akışı"
+sourceUrl: https://www.supplychainbrain.com/articles/43041-end-of-de-minimis-strains-delivery-companies-but-cbp-says-its-coping
+newsSequence: 43041
+author: Sedat Onat
+translated: false
+draft: false
+tags:
+  - de minimis
+  - CBP
+  - gümrük
+  - tarife
+  - sınır ötesi e-ticaret
+  - kargo
+  - ABD
+---
+<p style="text-align: justify"><strong>U.S. Customs and Border Protection</strong> (<strong>CBP</strong>); 2025 yılında iş yükündeki muazzam artışı şaşırtıcı şekilde başarıyla yönetmekta. Ajans yalnızca sürekli değişen ithalat tarifesi setini uygulamakla görevlendirilmemekta &mdash; aynı zamanda yıl başında <em>de minimis</em> gümrük muafiyetinin küçük paketler için kademeli olarak kaldırılması sonrasında milyarlarca pakete bu tarifeleri uygulamak zorunda kalmıştır. Ancak son alıcılara paketleri ulaştırmaktan sorumlu teslimat şirketleri için hikayenin aynı olmadığını sektör temsilcileri belirtmekta.</p>
+<p><br></p>
+<p style="text-align: justify">Sınır ötesi sevkiyat yönetim platformu <strong>FlavorCloud</strong>&rsquo;un CEO&rsquo;su ve kurucu ortağı <strong>Rathna Sharad</strong>; «Taşıyıcılar için bu yeni; beyannameler ve <strong>CBP</strong>&rsquo;nin paket gümrükleme süreci alıştıkları yapıdan farklı &mdash; bazı taşıyıcılar diğerlerinden çok daha iyi durumda» ifadelerini kullanmakta. <em>De minimis</em> kuralı; ABD&rsquo;ye giren ve değeri 800 ABD dolarının altındaki paketlere fiilen serbest geçiş sağlamakta idi. Başkan Trump kuralı &mdash; bu düşük değerli sevkiyatların büyük çoğunluğunu temsil eden <strong>Çin</strong> menşeli paketler için 2 Mayıs&rsquo;ta &mdash; dünyanın geri kalanı için ise 29 Ağustos&rsquo;ta sona erdirmekta.</p>
+<p><br></p>
+<p style="text-align: justify">2024 yılında istisnadan yararlanmakta tahmini 1,2 milyar paket bulunmakta idi. Bir <strong>CBP</strong> sözcüsü <strong>SupplyChainBrain</strong>&rsquo;e; «<em>De minimis</em> askıya alındığından bu yana kargo işlemede herhangi bir gecikme yaşanmamıştır» şeklinde açıklama yapmakta. 15 Aralık 2025 itibarıyla <strong>CBP</strong>; daha önce gümrüksüz girecek olan sevkiyatlardan 1 milyar ABD dolarını aşkın gümrük vergisi tahsil etmekta. Ajans; Trump yönetimi süresince 40&rsquo;ı aşkın tarife ile ilgili başkanlık kararını başarıyla uyguladığını ve gelişmiş paket taraması yapma kapasitesinde olduğunu eklemekta.</p>
+<p><br></p>
+<p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu dönüşüm; <strong>UPS</strong>, <strong>FedEx</strong>, <strong>DHL</strong> ve özellikle <strong>USPS</strong> gibi son mil oyuncularının veri yönetimi, beyanname kalitesi ve gümrük entegrasyonu yatırımlarını hızlandırmakta. <strong>Shein</strong>, <strong>Temu</strong> ve <strong>AliExpress</strong> başta olmak üzere düşük değerli e-ticaret platformlarının fiyatlama modelleri, depolama stratejileri ve <strong>section 321</strong> sonrası ithalat akışlarını yeniden yapılandırması zorunlu olmaktadır. Yeni dönem; uyumlu taşıyıcı ile uyumsuz taşıyıcı arasındaki rekabet farkını belirgin şekilde artırmakta &mdash; bu durum sektörde konsolidasyonu hızlandırmakta.</p>
+<p><br></p>
+<p>---<br>
+<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43041-end-of-de-minimis-strains-delivery-companies-but-cbp-says-its-coping"><u>https://www.supplychainbrain.com/articles/43041-end-of-de-minimis-strains-delivery-companies-but-cbp-says-its-coping</u></a><br>
+-------------------</p>
+<p><strong>!!! DUYURU !!!</strong></p>
+<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
+<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
+<p>[43041]</p>

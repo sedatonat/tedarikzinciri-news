@@ -1,0 +1,38 @@
+---
+title: "Zombi Gemi Vakası, ABD'nin Petrol Filosunun En Karanlık Köşesini Hedef Aldığını Gösteriyor"
+date: '2025-12-24T09:00:00Z'
+category: Lojistik
+secondaryCategories:
+  - Tedarik Zinciri
+  - Teknoloji
+image: https://www.supplychainbrain.com/ext/resources/2025/12/24/SHADOW-TANKER-VENEZUELA-BLOOMBERG.png
+imageAlt: "Venezuela açıklarında gölge filo tanker"
+sourceUrl: https://www.supplychainbrain.com/articles/43047-zombie-ship-shows-us-targeting-darkest-corner-of-oil-fleet
+newsSequence: 43047
+author: Sedat Onat
+translated: false
+draft: false
+tags:
+- Venezuela
+- gölge filo
+- petrol tankeri
+- yaptırımlar
+- ABD
+- denizcilik
+- Maduro
+- Çin
+---
+<p style="text-align: justify">Resmi olarak 2021'de hurdaya ayrıldığı bildirilen 27 yaşındaki bir ham petrol tankeri; gemi izleme verilerine göre bu hafta sonuna doğru Venezuela'ya ulaşmakta &mdash; Güney Amerika ülkesinin yıpranmış petrol endüstrisini ayakta tutma çabalarının son örneği olmakta. <em>Freesia I</em> kimliğiyle hareket eden tanker; büyük olasılıkla bir &laquo;zombi gemi&raquo; olmakta &mdash; yani sökülmüş bir başka geminin kimliğini kullanan farklı bir tanker. Bu taktik; yaptırım altındaki petrolü taşıyan teknelerin rotalarını ve kargolarını gizlemek için zaman zaman başvurulan bir yöntem olmakta.</p>
+<p><br></p>
+<p style="text-align: justify">Bir zamanlar küresel bir güç olan Venezuela petrol endüstrisi; yıllarca süren yaptırımlar ve yetersiz yatırım nedeniyle harap olmakta. Ancak ülke; küresel filonun en eski ve en şüpheli tankerleri sayesinde &mdash; çoğunlukla Çin'e &mdash; ihracat yapmaya devam etmekte. Bu durum; ekonomi ve <strong>Nicolás Maduro</strong> hükümeti için adeta bir denizcilik can simidi işlevi görmekte. Analitik firması <strong>Kpler</strong>'a göre Caracas; yıl başından bu yana günde yaklaşık 900,000 varil sevk etmekte &mdash; geçmişteki seviyelerin küçük bir bölümü olsa da <strong>Trump</strong> yönetiminin bugüne kadarki en sert yaptırım uygulamalarını tetiklemeye yetmekte.</p>
+<p><br></p>
+<p style="text-align: justify">&laquo;Venezuela; ham petrolün hem menşeini hem de mülkiyetini gizlemekte ve dolayısıyla finansal ve ticari kontrolleri atlatmakta dikkat çekici biçimde başarılı olmakta&raquo; ifadelerini kullanmakta <strong>Kpler</strong>'da kıdemli risk ve uyum analisti <strong>Dimitris Ampatzidis</strong>. &laquo;Bu nedenle Washington; saf finansal önlemlerden fiziksel kesintiye doğru giderek daha fazla yönelmekte.&raquo; Tedarik zinciri perspektifinden bakıldığında ABD kuvvetleri; Karayipler'de uyuşturucu kaçakçılığı yaptığı iddia edilen tekneleri vurmakta ve Aralık başından bu yana üç tankeri kovalamakta veya bunlara çıkarma yapmakta.</p>
+<p><br></p>
+<p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu zombi gemi vakaları; küresel denizcilik sektörü için ciddi izlenebilirlik ve sigortalanabilirlik sorunları yaratmakta. <strong>AIS</strong> (<strong>Automatic Identification System</strong>) verilerinin manipülasyonu, IMO numaralarının çoğaltılması ve sahte bayraklı kayıtlar; deniz sigortacıları ve <em>charterer</em>'lar için risk profilini köklü biçimde değiştirmekte. Yaptırımlara uyum gerektiren büyük ham petrol alıcıları; menşe doğrulaması ve gemi geçmişi denetiminde çok daha sıkı süreçlere yönelmek zorunda kalmakta.</p>
+<p>---<br>
+<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43047-zombie-ship-shows-us-targeting-darkest-corner-of-oil-fleet"><u>https://www.supplychainbrain.com/articles/43047-zombie-ship-shows-us-targeting-darkest-corner-of-oil-fleet</u></a><br>
+-------------------</p>
+<p><strong>!!! DUYURU !!!</strong></p>
+<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
+<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
+<p>[43047]</p>

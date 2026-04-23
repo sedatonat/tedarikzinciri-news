@@ -1,0 +1,39 @@
+---
+title: "Comparing the 2026 FedEx and UPS General Rate Increases"
+date: '2026-02-15T09:00:00Z'
+category: Lojistik
+secondaryCategories:
+  - Tedarik Zinciri
+  - Teknoloji
+image: https://www.supplychainbrain.com/ext/resources/2026/02/10/020326_Supply-Chain-Brain-595x841.jpg
+imageAlt: "Cover of a report comparing 2026 FedEx and UPS general rate increases"
+sourceUrl: https://www.supplychainbrain.com/articles/43453-comparing-the-2026-fedex-and-ups-general-rate-increases
+newsSequence: 43453
+author: Sedat Onat
+translated: false
+draft: false
+tags:
+- FedEx
+- UPS
+- parcel
+- GRI
+- TransImpact
+- accessorials
+- fuel surcharge
+- 2026
+---
+<p style="text-align: justify">The 2026 <strong>FedEx</strong> and <strong>UPS</strong> General Rate Increases (GRIs) once again arrive with a familiar headline number — 5.9%. For many organizations, however, that figure significantly understates the true impact on parcel costs and supply chain performance. As carrier pricing strategies continue to evolve, increases in minimum charges, accessorial fees, fuel surcharges and off-cycle rate adjustments are compounding year over year — driving cost volatility that directly affects planning assumptions across the supply chain.</p>
+<p><br></p>
+<p style="text-align: justify">An in-depth report from <strong>TransImpact</strong> provides a detailed, side-by-side comparison of the 2026 FedEx and UPS GRIs, examining how changes across domestic, international and ground services influence total landed cost. Rather than focusing solely on base rates, the analysis highlights where cost pressures are increasingly concentrated — and why these areas often create the largest disconnect between expected and actual shipping spend.</p>
+<p><br></p>
+<p style="text-align: justify">Designed for supply chain planning, logistics and operations leaders, the report connects parcel pricing dynamics to broader planning considerations including budgeting, <strong>S&OP</strong>, network strategy and carrier mix decisions. Readers gain insight into how service-level tradeoffs, shifting carrier advantages and evolving surcharge structures can introduce both risk and opportunity — depending on how they are planned for.</p>
+<p><br></p>
+<p style="text-align: justify">In an environment where volatility has become the norm, parcel pricing can no longer be managed reactively. From a supply chain perspective, this report equips supply chain leaders with the visibility and context needed to challenge assumptions, anticipate cost impacts and build more resilient, margin-aware parcel strategies for 2026 and beyond. Investments in supply chain analytics around <em>dimensional weight</em>, <em>residential surcharge</em> and <em>peak season</em> fees are becoming a defining element of competitive advantage.</p>
+<p><br></p>
+<p>---<br>
+<strong>News Link:</strong> <a href="https://www.supplychainbrain.com/articles/43453-comparing-the-2026-fedex-and-ups-general-rate-increases"><u>https://www.supplychainbrain.com/articles/43453-comparing-the-2026-fedex-and-ups-general-rate-increases</u></a><br>
+-------------------</p>
+<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
+<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
+<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
+<p>[43453]</p>

@@ -1,0 +1,38 @@
+---
+title: "Tedarik Zinciri Güvenliğinin Kimsenin Konuşmak İstemediği Üç Katmanı"
+date: '2026-02-02T09:00:00Z'
+category: Tedarik Zinciri
+secondaryCategories:
+  - Teknoloji
+  - Lojistik
+image: https://www.supplychainbrain.com/ext/resources/2025/12/05/CYBER-ATTACK-SECURITY-HACKING-RISK-iStock-dem10-1569506045.jpg
+imageAlt: "Tedarik zinciri güvenlik kontrol görseli"
+sourceUrl: https://www.supplychainbrain.com/articles/43302-the-three-layers-of-supply-chain-security-that-no-one-wants-to-talk-about
+newsSequence: 43302
+author: Sedat Onat
+translated: false
+draft: false
+tags:
+  - tedarik zinciri güvenliği
+  - siber güvenlik
+  - fiziksel güvenlik
+  - rekabet güvenliği
+  - MFA
+  - fidye yazılım
+  - yapay zeka
+---
+<p style="text-align: justify"><strong>Analist Görüşü:</strong> Çoğu kuruluş; tedarik zinciri güvenliğini yalnızca bir şey kırıldığında ele almakta &mdash; bir fidye yazılımı saldırısı; ortak paketleyiciden gelmekta şüpheli benzerlikteki bir ürün veya kritik malzemeleri kesmekta jeopolitik bir aksaklık. Bu olaylar ani gibi hissedilmekta; ancak altta yatan maruziyet neredeyse her zaman yapısal olmakta. Güvenlik aslında; bir sistem istikrarı sorusu olmakta &mdash; kuruluşun kaçınılmaz şokları emecek kadar netlik; yedeklilik ve disiplin oluşturup oluşturmadığı sorusu olmakta.</p>
+<p><br></p>
+<p style="text-align: justify">Modern tedarik zincirleri; üç farklı katmanda maruziyet ile karşı karşıya kalmakta: <em>cybersecurity</em> (siber güvenlik); <em>physical security</em> (fiziksel güvenlik); ve <em>competitive security</em> (rekabet güvenliği). Her biri farklı bir operasyon modeli gerektirmekta &mdash; ancak birçok şirket güvenliği tek bir kategori olarak ele almakta ve iş ortaklarının ayrıntıları yönettiğini umut etmekta. Bu varsayım; bir noktaya kadar işe yaramakta. Siber güvenlik; en az tartışılan ve en çok hafife alınmakta katman olmaya devam etmekta &mdash; şirketler verinin önemini sıkça konuşmakta ancak birçoğu hala yalnızca tek bir çalışanın oturum açma bilgileriyle korunan kritik sistemlerle çalışmakta.</p>
+<p><br></p>
+<p style="text-align: justify">Bu kişi ayrıldığında veya ulaşılamaz hale geldiğinde işletme; kendi operasyonel omurgasına erişimini kaybedebilmekta. Bu; sofistike bir ihlal değil &mdash; operasyonel kırılganlık olmakta. Yapay zeka destekli saldırılar gelişmeye devam ettikçe; modası geçmiş 2008 dönemi uygulamalar ile modern tehditler arasındaki uçurum genişlemekta &mdash; çok faktörlü kontroller; yedek erişim yolları veya belgelenmekta protokoller olmaksızın çalışmakta kuruluşlar; bu boşluğu on yıl ilerledikçe keskin şekilde hissedeceklerdir.</p>
+<p><br></p>
+<p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında ikinci katman olan fiziksel güvenlik; hırsızlık; başka yöne çevirme; sahteciliğin ve müdahale risklerinin yüzeye çıktığı yer olmakta. Erken aşama markaları çoğunlukla üretim ve lojistik ortaklarının yürürlükteki politikalarını miras almakta. Üçüncü katman olan rekabet güvenliği ise <strong>IP</strong> (fikri mülkiyet); formül; tedarikçi ilişkileri; fiyat stratejisi gibi ticari avantajları korumakta &mdash; <strong>NDA</strong> yönetimi; tedarikçi rotasyonu; tek kaynak (<em>single source</em>) bağımlılığının azaltılması ve <strong>SOC 2</strong>; <strong>ISO 27001</strong>; <strong>NIST CSF</strong>; <strong>CMMC</strong> gibi çerçeveler ile yapısal koruma sağlanmakta. <strong>Cisco</strong>, <strong>Palo Alto Networks</strong>, <strong>CrowdStrike</strong>, <strong>SentinelOne</strong> gibi sağlayıcılar; entegre üç-katman güvenlik modeline geçiş için 2026&rsquo;da öne çıkmakta.</p>
+<p><br></p>
+<p>---<br>
+<strong>Haber Linki:</strong> <a href="https://www.supplychainbrain.com/articles/43302-the-three-layers-of-supply-chain-security-that-no-one-wants-to-talk-about"><u>https://www.supplychainbrain.com/articles/43302-the-three-layers-of-supply-chain-security-that-no-one-wants-to-talk-about</u></a><br>
+-------------------</p>
+<p><strong>!!! DUYURU !!!</strong></p>
+<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
+<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
+<p>[43302]</p>
