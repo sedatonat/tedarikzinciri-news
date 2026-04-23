@@ -105,6 +105,118 @@ const cfBeaconToken = import.meta.env.PUBLIC_CF_BEACON_TOKEN;
     <Header />
     <main class="flex-1 pb-16"><slot /></main>
     <Footer />
+
+    <!-- News popup: fetches target news page and displays it inline -->
+    <div id="news-popup" class="fixed inset-0 z-[100] hidden items-start sm:items-center justify-center bg-black/60 backdrop-blur-sm p-0 sm:p-4" role="dialog" aria-modal="true" aria-hidden="true" aria-label={lang === 'tr' ? 'Haber önizleme' : 'Article preview'}>
+      <div id="news-popup-panel" class="relative w-full sm:max-w-3xl h-full sm:h-auto sm:max-h-[90vh] bg-white dark:bg-ink-950 sm:rounded-2xl shadow-2xl overflow-hidden flex flex-col">
+        <button id="news-popup-close" type="button" aria-label={lang === 'tr' ? 'Kapat' : 'Close'} class="absolute top-3 right-3 z-10 w-9 h-9 inline-flex items-center justify-center rounded-full bg-white/90 dark:bg-ink-800/90 backdrop-blur text-ink-700 dark:text-ink-200 hover:bg-white dark:hover:bg-ink-700 border border-ink-200 dark:border-ink-700 shadow">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5" aria-hidden="true"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" /></svg>
+        </button>
+        <div id="news-popup-content" class="flex-1 overflow-y-auto"></div>
+        <div id="news-popup-loading" class="absolute inset-0 hidden items-center justify-center bg-white/70 dark:bg-ink-950/70 pointer-events-none">
+          <div class="w-8 h-8 border-2 border-ink-300 border-t-brand-500 rounded-full animate-spin" aria-hidden="true"></div>
+        </div>
+      </div>
+    </div>
+
+    <script is:inline>
+      (function () {
+        var modal = document.getElementById('news-popup');
+        var panel = document.getElementById('news-popup-panel');
+        var content = document.getElementById('news-popup-content');
+        var closeBtn = document.getElementById('news-popup-close');
+        var loading = document.getElementById('news-popup-loading');
+        if (!modal || !content) return;
+
+        var NEWS_RE = /^\/(?:haber|en\/news)\/[^\/]+\/?$/;
+        var initialPath = window.location.pathname;
+        var initialIsNews = NEWS_RE.test(initialPath);
+        var originalTitle = document.title;
+
+        function showLoading(on) {
+          if (!loading) return;
+          if (on) { loading.classList.remove('hidden'); loading.classList.add('flex'); }
+          else { loading.classList.add('hidden'); loading.classList.remove('flex'); }
+        }
+        function lockScroll(lock) {
+          document.documentElement.style.overflow = lock ? 'hidden' : '';
+          document.body.style.overflow = lock ? 'hidden' : '';
+        }
+        function openPopup(url, push) {
+          showLoading(true);
+          modal.classList.remove('hidden');
+          modal.classList.add('flex');
+          modal.setAttribute('aria-hidden', 'false');
+          lockScroll(true);
+          fetch(url, { credentials: 'same-origin', headers: { 'Accept': 'text/html' } })
+            .then(function (r) { if (!r.ok) throw new Error('fetch failed'); return r.text(); })
+            .then(function (html) {
+              var doc = new DOMParser().parseFromString(html, 'text/html');
+              var article = doc.querySelector('main article');
+              if (!article) { window.location.href = url; return; }
+              content.innerHTML = '';
+              content.appendChild(article);
+              content.scrollTop = 0;
+              var titleEl = doc.querySelector('title');
+              if (titleEl && titleEl.textContent) document.title = titleEl.textContent;
+              if (push) {
+                try { history.pushState({ newsPopup: true }, '', url); } catch (_) {}
+              }
+              showLoading(false);
+            })
+            .catch(function () {
+              showLoading(false);
+              window.location.href = url;
+            });
+        }
+        function closePopup(useBack) {
+          modal.classList.add('hidden');
+          modal.classList.remove('flex');
+          modal.setAttribute('aria-hidden', 'true');
+          content.innerHTML = '';
+          document.title = originalTitle;
+          lockScroll(false);
+          showLoading(false);
+          if (useBack && history.state && history.state.newsPopup) {
+            try { history.back(); } catch (_) {}
+          }
+        }
+        function isSameOriginNews(href) {
+          try {
+            var u = new URL(href, window.location.origin);
+            return u.origin === window.location.origin && NEWS_RE.test(u.pathname);
+          } catch (e) { return false; }
+        }
+        document.addEventListener('click', function (e) {
+          if (e.defaultPrevented) return;
+          if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button !== 0) return;
+          var a = e.target && e.target.closest && e.target.closest('a');
+          if (!a || !a.href) return;
+          if (a.target === '_blank') return;
+          if (a.hasAttribute('download')) return;
+          if (!isSameOriginNews(a.href)) return;
+          // On a standalone news page (not opened via popup), use normal navigation
+          if (initialIsNews && modal.classList.contains('hidden')) return;
+          e.preventDefault();
+          openPopup(a.href, true);
+        });
+        if (closeBtn) closeBtn.addEventListener('click', function () { closePopup(true); });
+        modal.addEventListener('click', function (e) {
+          if (e.target === modal) closePopup(true);
+        });
+        document.addEventListener('keydown', function (e) {
+          if (e.key === 'Escape' && !modal.classList.contains('hidden')) closePopup(true);
+        });
+        window.addEventListener('popstate', function () {
+          if (history.state && history.state.newsPopup) {
+            openPopup(window.location.href, false);
+          } else {
+            closePopup(false);
+          }
+        });
+      })();
+    </script>
+
     {cfBeaconToken && (
       <script
         defer
