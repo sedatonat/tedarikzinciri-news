@@ -1,6 +1,7 @@
 ---
 import { getLangFromUrl, categoryLabel, newsPath, categoryPath } from '../i18n/utils';
 import { tagPath } from '../lib/tags';
+import { resolveExcerpt } from '../lib/excerpt';
 
 interface Props {
   entry: { slug: string; data: any };
@@ -67,8 +68,8 @@ const ICONS: Record<string, string> = {
 };
 const avatarIcon = ICONS[cat] ?? ICONS['Tedarik Zinciri'];
 
-// Body text: subtitle preferred; otherwise empty
-const body = (entry.data.subtitle ?? '').toString();
+// Body text: subtitle preferred; falls back to an extract of the article body
+const body = resolveExcerpt(entry.data.subtitle, (entry as any).body, 260);
 
 const topTags: string[] = Array.isArray(entry.data.tags)
   ? entry.data.tags.filter((t: any) => typeof t === 'string' && t.trim()).slice(0, 3)
@@ -120,7 +121,7 @@ if (entry.data.sourceUrl) {
       <!-- Body text -->
       {body && (
         <a href={href} class="block mt-1">
-          <p class="text-[15px] text-ink-700 dark:text-ink-200 leading-relaxed line-clamp-4">{body}</p>
+          <p class="text-[15px] text-ink-700 dark:text-ink-200 leading-relaxed line-clamp-3">{body}</p>
         </a>
       )}
 
