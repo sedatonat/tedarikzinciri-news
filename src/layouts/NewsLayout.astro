@@ -1,4 +1,5 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseLayout from './BaseLayout.astro';
 import { getLangFromUrl, useTranslations, categoryLabel, categoryPath } from '../i18n/utils';
 import { tagPath } from '../lib/tags';
@@ -11,6 +12,24 @@ interface Props {
 }
 const { frontmatter, slug, alternateSlug } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
+
+// Compute previous / next article links (sorted by date desc)
+const newsCollection = lang === 'tr' ? 'news-tr' : 'news-en';
+const allEntries = await getCollection(newsCollection, ({ data }) => !data.draft);
+allEntries.sort((a, b) => {
+  const db = new Date(b.data.date).getTime();
+  const da = new Date(a.data.date).getTime();
+  if (db !== da) return db - da;
+  return a.slug.localeCompare(b.slug);
+});
+const currentIdx = slug ? allEntries.findIndex(e => e.slug === slug) : -1;
+const newerEntry = currentIdx > 0 ? allEntries[currentIdx - 1] : null;
+const olderEntry = currentIdx >= 0 && currentIdx < allEntries.length - 1 ? allEntries[currentIdx + 1] : null;
+const newsBase = lang === 'tr' ? '/haber/' : '/en/news/';
+const newerHref = newerEntry ? `${newsBase}${newerEntry.slug}/` : null;
+const olderHref = olderEntry ? `${newsBase}${olderEntry.slug}/` : null;
+const newerLabel = lang === 'tr' ? 'Daha yeni haber' : 'Newer article';
+const olderLabel = lang === 'tr' ? 'Daha eski haber' : 'Older article';
 const t = useTranslations(lang);
 const dateObj = new Date(frontmatter.date);
 const date = dateObj.toLocaleDateString(
@@ -101,7 +120,45 @@ const jsonLd = {
           <time datetime={dateObj.toISOString()}>{date}</time>
         </a>
       </div>
-      <h1 class="text-3xl sm:text-4xl font-bold leading-tight">{frontmatter.title}</h1>
+      <div class="flex items-start gap-2 sm:gap-3">
+        {newerHref ? (
+          <a
+            href={newerHref}
+            aria-label={newerLabel}
+            title={newerEntry?.data.title ?? newerLabel}
+            class="shrink-0 mt-1 sm:mt-2 inline-flex items-center justify-center w-9 h-9 sm:w-10 sm:h-10 rounded-full border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 text-ink-600 dark:text-ink-300 hover:border-brand-500 hover:text-brand-700 dark:hover:text-brand-300 transition-colors"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5" aria-hidden="true">
+              <path fill-rule="evenodd" d="M12.79 5.23a.75.75 0 01-.02 1.06L8.832 10l3.938 3.71a.75.75 0 11-1.04 1.08l-4.5-4.25a.75.75 0 010-1.08l4.5-4.25a.75.75 0 011.06.02z" clip-rule="evenodd" />
+            </svg>
+          </a>
+        ) : (
+          <span class="shrink-0 mt-1 sm:mt-2 inline-flex items-center justify-center w-9 h-9 sm:w-10 sm:h-10 rounded-full border border-ink-200/50 dark:border-ink-800/50 text-ink-300 dark:text-ink-700" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5">
+              <path fill-rule="evenodd" d="M12.79 5.23a.75.75 0 01-.02 1.06L8.832 10l3.938 3.71a.75.75 0 11-1.04 1.08l-4.5-4.25a.75.75 0 010-1.08l4.5-4.25a.75.75 0 011.06.02z" clip-rule="evenodd" />
+            </svg>
+          </span>
+        )}
+        <h1 class="flex-1 text-3xl sm:text-4xl font-bold leading-tight">{frontmatter.title}</h1>
+        {olderHref ? (
+          <a
+            href={olderHref}
+            aria-label={olderLabel}
+            title={olderEntry?.data.title ?? olderLabel}
+            class="shrink-0 mt-1 sm:mt-2 inline-flex items-center justify-center w-9 h-9 sm:w-10 sm:h-10 rounded-full border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 text-ink-600 dark:text-ink-300 hover:border-brand-500 hover:text-brand-700 dark:hover:text-brand-300 transition-colors"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5" aria-hidden="true">
+              <path fill-rule="evenodd" d="M7.21 14.77a.75.75 0 01.02-1.06L11.168 10 7.23 6.29a.75.75 0 111.04-1.08l4.5 4.25a.75.75 0 010 1.08l-4.5 4.25a.75.75 0 01-1.06-.02z" clip-rule="evenodd" />
+            </svg>
+          </a>
+        ) : (
+          <span class="shrink-0 mt-1 sm:mt-2 inline-flex items-center justify-center w-9 h-9 sm:w-10 sm:h-10 rounded-full border border-ink-200/50 dark:border-ink-800/50 text-ink-300 dark:text-ink-700" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5">
+              <path fill-rule="evenodd" d="M7.21 14.77a.75.75 0 01.02-1.06L11.168 10 7.23 6.29a.75.75 0 111.04-1.08l4.5 4.25a.75.75 0 010 1.08l-4.5 4.25a.75.75 0 01-1.06-.02z" clip-rule="evenodd" />
+            </svg>
+          </span>
+        )}
+      </div>
       {frontmatter.subtitle && <p class="mt-3 text-xl text-ink-600 dark:text-ink-300">{frontmatter.subtitle}</p>}
       <div class="mt-4 flex items-center gap-3 text-sm text-ink-500">
         <span><span class="text-ink-400">{t('news.author')}:</span> {frontmatter.author}</span>
