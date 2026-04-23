@@ -1,5 +1,5 @@
 ---
-title: "Tedarik Zinciri Sıkıntıları Temmuzda Airbus Teslimatlarını Durdurmakta"
+title: "Tedarik Zinciri Sıkıntıları Temmuzda Airbus Teslimatlarını Durduruyor"
 date: '2026-04-22T23:25:00Z'
 category: Lojistik
 secondaryCategories:

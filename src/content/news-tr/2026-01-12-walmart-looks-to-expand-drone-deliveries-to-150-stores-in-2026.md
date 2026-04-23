@@ -1,5 +1,5 @@
 ---
-title: "Walmart; 2026'da Drone Teslimatını 150 Ek Mağazaya Genişletmeyi Planlamakta"
+title: "Walmart; 2026'da Drone Teslimatını 150 Ek Mağazaya Genişletmeyi Planlıyor"
 date: '2026-01-12T09:00:00Z'
 category: Teknoloji
 secondaryCategories:

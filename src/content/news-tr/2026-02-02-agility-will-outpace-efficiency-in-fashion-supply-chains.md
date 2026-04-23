@@ -1,5 +1,5 @@
 ---
-title: "Çevikliğin; Moda Tedarik Zincirlerinde Verimliliği Geride Bırakacağı Öngörülmekta"
+title: "Çevikliğin; Moda Tedarik Zincirlerinde Verimliliği Geride Bırakacağı Öngörülüyor"
 date: '2026-02-02T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

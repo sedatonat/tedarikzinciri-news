@@ -1,5 +1,5 @@
 ---
-title: "Starbucks; Tedarik Zinciri Operasyon Pozisyonlarını Tennessee'ye Taşımakta"
+title: "Starbucks; Tedarik Zinciri Operasyon Pozisyonlarını Tennessee'ye Taşıyor"
 date: '2026-03-05T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

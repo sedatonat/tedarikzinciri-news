@@ -1,5 +1,5 @@
 ---
-title: "Intel Taşımacılık Harcamasını Rate Request Otomasyonu ile Radikal Olarak Akıcılaştırmakta"
+title: "Intel Taşımacılık Harcamasını Rate Request Otomasyonu ile Radikal Olarak Akıcılaştırıyor"
 date: '2026-04-22T04:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

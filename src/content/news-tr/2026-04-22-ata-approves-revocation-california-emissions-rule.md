@@ -1,5 +1,5 @@
 ---
-title: "ATA Kaliforniya Emisyon Kuralının Yürürlükten Kaldırılmasını Onaylamakta"
+title: "ATA Kaliforniya Emisyon Kuralının Yürürlükten Kaldırılmasını Onaylıyor"
 date: '2026-04-22T23:40:00Z'
 category: Lojistik
 secondaryCategories:

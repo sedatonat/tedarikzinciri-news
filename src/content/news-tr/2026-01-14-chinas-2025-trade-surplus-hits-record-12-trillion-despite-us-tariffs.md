@@ -1,5 +1,5 @@
 ---
-title: "Çin'in 2025 Ticaret Fazlası; ABD Tarifelerine Rağmen Rekor 1,2 Trilyon ABD Doları'na Ulaşmakta"
+title: "Çin'in 2025 Ticaret Fazlası; ABD Tarifelerine Rağmen Rekor 1,2 Trilyon ABD Doları'na Ulaşıyor"
 date: '2026-01-14T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

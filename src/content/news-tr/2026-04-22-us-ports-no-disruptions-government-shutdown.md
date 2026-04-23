@@ -1,5 +1,5 @@
 ---
-title: "U.S. Limanları Hükümet Kapanması Sırasında Aksaklık Beklememekte"
+title: "U.S. Limanları Hükümet Kapanması Sırasında Aksaklık Beklemiyor"
 date: '2026-04-22T10:00:00Z'
 category: Lojistik
 secondaryCategories:

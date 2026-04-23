@@ -1,5 +1,5 @@
 ---
-title: "Mili Modernleştirmek: US Foods Günlük Planlama İçin Daha Akıllı Bir Gelecek İnşa Etmekta"
+title: "Mili Modernleştirmek: US Foods Günlük Planlama İçin Daha Akıllı Bir Gelecek İnşa Ediyor"
 date: '2026-04-22T23:55:30Z'
 category: Lojistik
 secondaryCategories:

@@ -1,5 +1,5 @@
 ---
-title: "Tedarik Zinciri Liderleri, Otomasyona Yatırım Yapmakta İken &mdash; ve Bunun Nasıl Değişmekte Olunacağı"
+title: "Tedarik Zinciri Liderleri, Otomasyona Yatırım Yapıyorken &mdash; ve Bunun Nasıl Değiştirileceği"
 subtitle: "HAI Robotics McAleenan: VC İştahı 5 Yıl Önce Büyük; Faiz Yüksek Şimdi; Kariyerler Tehlikede; Network/Planlama/Teslim Düşüncesi Şart; 'Mutually Assured Success'; Veri Doğru ise Süreçler de Doğru"
 date: '2026-04-22T16:00:00Z'
 category: Lojistik

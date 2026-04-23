@@ -1,5 +1,5 @@
 ---
-title: "ABD, Hürmüz Boğazı Taşımacılığı İçin 20 Milyar Dolarlık Reasürans Programı Sunmakta Olacak"
+title: "ABD, Hürmüz Boğazı Taşımacılığı İçin 20 Milyar Dolarlık Reasürans Programı Sunacak"
 subtitle: "DFC, Yuvarlanan Bazda 20 Milyar Dolar Zarar Karşılamakta; Londra Reasürörleri Primleri %200+ Çekmekte, WTI %35 Yükselmekte"
 date: '2026-03-09T09:00:00Z'
 category: Tedarik Zinciri

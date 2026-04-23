@@ -1,5 +1,5 @@
 ---
-title: "Anket: Depo Çalışanlarının %98'i Otomasyonun Verimliliği Artırmakta Olunduğunu Söylemekte"
+title: "Anket: Depo Çalışanlarının %98'i Otomasyonun Verimliliği Artırdığını Söylüyor"
 date: '2026-04-22T14:00:00Z'
 category: Lojistik
 secondaryCategories:

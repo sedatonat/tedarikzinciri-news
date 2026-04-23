@@ -1,5 +1,5 @@
 ---
-title: "Japonya ile Ticaret Anlaşması ABD Otomotiv Endüstrisine Darbe Vurmakta"
+title: "Japonya ile Ticaret Anlaşması ABD Otomotiv Endüstrisine Darbe Vuruyor"
 date: '2026-04-22T23:05:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

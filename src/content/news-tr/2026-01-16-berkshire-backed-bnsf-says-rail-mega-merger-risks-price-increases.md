@@ -1,5 +1,5 @@
 ---
-title: "Berkshire Destekli BNSF; Demiryolu Mega Birleşmesinin Fiyat Artışı Riski Taşıdığını Belirtmekta"
+title: "Berkshire Destekli BNSF; Demiryolu Mega Birleşmesinin Fiyat Artışı Riski Taşıdığını Belirtiyor"
 date: '2026-01-16T09:00:00Z'
 category: Lojistik
 secondaryCategories:

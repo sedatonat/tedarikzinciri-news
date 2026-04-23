@@ -1,5 +1,5 @@
 ---
-title: "Malaysia İhracat Büyümesi U.S. ile Ticaret Düşmekte Yavaşlamakta"
+title: "Malaysia İhracat Büyümesi U.S. ile Ticaret Düşen Yavaşlıyor"
 date: '2026-04-22T11:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

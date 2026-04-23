@@ -1,5 +1,5 @@
 ---
-title: "Yük Dolandırıcılığı Koordineli Önleme Talep Etmekta"
+title: "Yük Dolandırıcılığı Koordineli Önleme Talep Ediyor"
 date: '2026-04-22T23:30:00Z'
 category: Lojistik
 secondaryCategories: []

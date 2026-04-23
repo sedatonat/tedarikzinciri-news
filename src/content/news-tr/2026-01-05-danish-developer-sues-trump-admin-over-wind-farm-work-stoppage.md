@@ -1,5 +1,5 @@
 ---
-title: "Danimarkalı Geliştirici Ørsted; Rüzgar Tarlası Durdurma Kararı Nedeniyle Trump Yönetimine Dava Açmakta"
+title: "Danimarkalı Geliştirici Ørsted; Rüzgar Tarlası Durdurma Kararı Nedeniyle Trump Yönetimine Dava Açıyor"
 date: '2026-01-05T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

@@ -1,5 +1,5 @@
 ---
-title: "Rapor: Uzay Fırlatma Patlaması; Tedarik Zinciri Kapasitesini Geride Bırakma Riski Taşımakta"
+title: "Rapor: Uzay Fırlatma Patlaması; Tedarik Zinciri Kapasitesini Geride Bırakma Riski Taşıyor"
 date: '2026-03-19T09:00:00Z'
 category: Lojistik
 secondaryCategories:

@@ -1,5 +1,5 @@
 ---
-title: "Malzeme Elleçleme Otomasyonunun Yürüyüşü: Depolar Ne Zaman 'Karanlığa' Gömülmekte?"
+title: "Malzeme Elleçleme Otomasyonunun Yürüyüşü: Depolar Ne Zaman 'Karanlığa' Gömülüyor?"
 subtitle: "Robotik ve Yapay Zeka Lights-Out Depo Modelini Yaklaştırmakta; Brightpick Gece Vardiyasını Otomatize Etmekte"
 date: '2026-02-23T09:00:00Z'
 category: Lojistik

@@ -1,5 +1,5 @@
 ---
-title: "2026 FedEx ve UPS Genel Tarife Artışları Karşılaştırılmakta"
+title: "2026 FedEx ve UPS Genel Tarife Artışları Karşılaştırılıyor"
 date: '2026-02-15T09:00:00Z'
 category: Lojistik
 secondaryCategories:

@@ -1,5 +1,5 @@
 ---
-title: "Çin, Avustralya'nın Darwin Limanı Meselesini 'Çok Yakından' İzlemekte"
+title: "Çin, Avustralya'nın Darwin Limanı Meselesini 'Çok Yakından' İzliyor"
 subtitle: "Landbridge'in 99 Yıllık Kirasını Geri Alma Baskısı, Pekin'in Yasal Koruma Tehdidiyle Yüz Yüze Kalmakta"
 date: '2026-01-29T09:00:00Z'
 category: Tedarik Zinciri

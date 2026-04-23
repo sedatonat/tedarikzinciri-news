@@ -1,5 +1,5 @@
 ---
-title: DHL, Inmar Entegrasyonu ile Tersine Lojistikte Yeni Dönem Başlatmakta
+title: DHL, Inmar Entegrasyonu ile Tersine Lojistikte Yeni Dönem Başlatıyor
 subtitle: DHL, Inmar Entegrasyonu ile Tersine Lojistikte Yeni Dönem Başlatmakta
 date: '2025-10-03T09:00:00Z'
 category: Lojistik

@@ -1,5 +1,5 @@
 ---
-title: "Sovcomflot; Arctic LNG 2 Projesi İçin İlk Yerli Buz-Sınıfı Tankerini Teslim Almakta"
+title: "Sovcomflot; Arctic LNG 2 Projesi İçin İlk Yerli Buz-Sınıfı Tankerini Teslim Alıyor"
 date: '2025-12-24T09:00:00Z'
 category: Lojistik
 secondaryCategories:

@@ -1,5 +1,5 @@
 ---
-title: "Sekreter Duffy: Süregelen Hükümet Kapanışı Uçuş Gecikmelerini Kötüleştirmekte"
+title: "Sekreter Duffy: Süregelen Hükümet Kapanışı Uçuş Gecikmelerini Kötüleştiriyor"
 date: '2026-04-22T08:00:00Z'
 category: Lojistik
 secondaryCategories:

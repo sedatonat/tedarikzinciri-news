@@ -1,5 +1,5 @@
 ---
-title: "Rapor: Yapay Zeka, Tedarik Zinciri Çekirdek Kararlarına Girmekte"
+title: "Rapor: Yapay Zeka, Tedarik Zinciri Çekirdek Kararlarına Giriyor"
 subtitle: "RELEX 2026 Anketi: %67 Güven Artmakta, %54 İnsan Onaylı Öneri Tercih Edilmekte; %71 Üretken-Ajansal Yapay Zekaya 3-5 Yıl Yatırım Planlamakta"
 date: '2026-04-14T09:00:00Z'
 category: Tedarik Zinciri

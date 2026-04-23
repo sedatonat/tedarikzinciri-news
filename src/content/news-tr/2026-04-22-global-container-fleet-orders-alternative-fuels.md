@@ -1,5 +1,5 @@
 ---
-title: "Küresel Konteyner Filo Siparişleri Alternatif Yakıtlara Eğilmekte"
+title: "Küresel Konteyner Filo Siparişleri Alternatif Yakıtlara Eğiliyor"
 date: '2026-04-22T16:00:00Z'
 category: Lojistik
 secondaryCategories:

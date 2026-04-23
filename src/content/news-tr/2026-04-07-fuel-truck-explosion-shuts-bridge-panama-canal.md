@@ -1,5 +1,5 @@
 ---
-title: "Yakıt Tankeri Patlaması, Panama Kanalı Üzerindeki Köprüyü Kapatmakta"
+title: "Yakıt Tankeri Patlaması, Panama Kanalı Üzerindeki Köprüyü Kapatıyor"
 subtitle: "Bridge of the Americas'ta 1 Ölü, 2 İtfaiyeci Yaralanmakta; 60 Yaşındaki Yapı İncelenmekte, Mulino Geçici Aksama Beklemekte"
 date: '2026-04-07T10:00:00Z'
 category: Lojistik

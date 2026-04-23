@@ -1,5 +1,5 @@
 ---
-title: "Trump Yönetimi, Three Mile Island Nükleer Reaktörünü Yeniden Başlatmakta 1 Milyar Dolar Kredi Vermekte"
+title: "Trump Yönetimi, Three Mile Island Nükleer Reaktörünü Yeniden Başlatıyor 1 Milyar Dolar Kredi Veriyor"
 date: '2026-04-22T13:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

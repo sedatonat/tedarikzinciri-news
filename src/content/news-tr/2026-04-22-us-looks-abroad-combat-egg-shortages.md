@@ -1,5 +1,5 @@
 ---
-title: "ABD, Yumurta Sıkıntısıyla Mücadele için Yurt Dışına Bakmakta"
+title: "ABD, Yumurta Sıkıntısıyla Mücadele için Yurt Dışına Bakıyor"
 date: '2026-04-23T00:00:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

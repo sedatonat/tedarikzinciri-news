@@ -1,5 +1,5 @@
 ---
-title: "Walmart, Atlanta'da Drone Teslimatlarını Başlatmakta"
+title: "Walmart, Atlanta'da Drone Teslimatlarını Başlatıyor"
 date: '2026-04-22T07:00:00Z'
 category: Lojistik
 secondaryCategories:

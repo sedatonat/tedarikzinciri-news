@@ -1,5 +1,5 @@
 ---
-title: "Maersk; Kızıldeniz'den Bir Kez Daha Geçmekte ve Güvenlik Sınamasına Devam Etmekte"
+title: "Maersk; Kızıldeniz'den Bir Kez Daha Geçiyor ve Güvenlik Sınamasına Devam Ediyor"
 date: '2026-01-13T09:00:00Z'
 category: Lojistik
 secondaryCategories:

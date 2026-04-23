@@ -1,5 +1,5 @@
 ---
-title: "U.S. Lojistik Sektörü Büyümesi Yavaşlamakta; Yük Talebi Hafiflemekte"
+title: "U.S. Lojistik Sektörü Büyümesi Yavaşlıyor; Yük Talebi Hafifliyor"
 date: '2026-04-22T06:00:00Z'
 category: Lojistik
 secondaryCategories:

@@ -1,5 +1,5 @@
 ---
-title: "Evergreen; 23 Yeni Konteyner Gemisi Siparişine İmza Atmakta"
+title: "Evergreen; 23 Yeni Konteyner Gemisi Siparişine İmza Atıyor"
 date: '2026-01-30T09:00:00Z'
 category: Lojistik
 secondaryCategories:

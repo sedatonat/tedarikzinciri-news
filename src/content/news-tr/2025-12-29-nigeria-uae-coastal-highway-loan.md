@@ -1,5 +1,5 @@
 ---
-title: "Nijerya, Kıyı Otoyolu İçin BAE'den 1,2 Milyar Dolar Kredi Sağlamakta"
+title: "Nijerya, Kıyı Otoyolu İçin BAE'den 1,2 Milyar Dolar Kredi Sağlıyor"
 subtitle: "Lagos-Calabar Coastal Highway'in Finansmanı First Abu Dhabi Bank Tarafından Üstlenilmekte"
 date: '2025-12-29T09:00:00Z'
 category: Tedarik Zinciri

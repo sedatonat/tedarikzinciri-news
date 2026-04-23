@@ -1,5 +1,5 @@
 ---
-title: "Kawasaki, Motosikletler için Tarifeleri Dengelemekte Fiyat Artışları Sinyali Vermekte"
+title: "Kawasaki, Motosikletler için Tarifeleri Dengeleyen Fiyat Artışları Sinyali Veriyor"
 date: '2026-04-22T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

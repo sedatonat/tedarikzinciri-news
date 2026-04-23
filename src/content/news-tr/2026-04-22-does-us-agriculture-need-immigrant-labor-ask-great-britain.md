@@ -1,5 +1,5 @@
 ---
-title: "ABD Tarımı Göçmen İşgücüne İhtiyaç Duymakta mı? İngiltere'ye Sorun."
+title: "ABD Tarımı Göçmen İşgücüne İhtiyaç Duyuyor mu? İngiltere'ye Sorun."
 date: '2026-04-22T23:54:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

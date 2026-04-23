@@ -1,5 +1,5 @@
 ---
-title: "Rusya Trump'ın Tarife Listesinde Dikkate Değer Şekilde Yok Olmakta"
+title: "Rusya Trump'ın Tarife Listesinde Dikkate Değer Şekilde Yok Oluyor"
 date: '2026-04-22T23:56:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

@@ -1,5 +1,5 @@
 ---
-title: "Silosuz Planlama Hexcel Dayanıklı Kalmakta için Entegre Zekayı Nasıl Kullanmakta"
+title: "Silosuz Planlama Hexcel Dayanıklı Kalmak için Entegre Zekayı Nasıl Kullanıyor"
 date: '2026-04-22T23:45:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

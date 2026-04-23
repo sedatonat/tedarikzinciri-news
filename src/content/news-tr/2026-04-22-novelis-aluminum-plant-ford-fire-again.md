@@ -1,5 +1,5 @@
 ---
-title: "Ford Pikaplarına Tedarik Sağlamakta Olunan Alüminyum Tesisi Yeniden Yangın Çıkartmakta"
+title: "Ford Pikaplarına Tedarik Sağlayan Olunan Alüminyum Tesisi Yeniden Yangın Çıkartıyor"
 date: '2026-04-22T12:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

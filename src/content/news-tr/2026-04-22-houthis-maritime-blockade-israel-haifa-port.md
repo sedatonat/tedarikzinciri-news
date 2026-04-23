@@ -1,5 +1,5 @@
 ---
-title: "Husiler İsrail'in Hayfa Limanı Üzerine Deniz Blokajı İlan Etmekta"
+title: "Husiler İsrail'in Hayfa Limanı Üzerine Deniz Blokajı İlan Ediyor"
 date: '2026-04-22T23:59:30Z'
 category: Lojistik
 secondaryCategories:

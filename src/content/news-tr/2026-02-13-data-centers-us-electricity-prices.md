@@ -1,5 +1,5 @@
 ---
-title: "Veri Merkezleri ABD'de Elektrik Fiyatlarını Yukarı Çekmekte"
+title: "Veri Merkezleri ABD'de Elektrik Fiyatlarını Yukarı Çekiyor"
 subtitle: "2025'te %7'lik Artışın Ardından, 2027'ye Kadar Hane Faturasında %6 Daha Yükseliş Beklenmekte"
 date: '2026-02-13T09:00:00Z'
 category: Teknoloji

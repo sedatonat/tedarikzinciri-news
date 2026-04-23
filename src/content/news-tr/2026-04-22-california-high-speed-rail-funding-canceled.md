@@ -1,5 +1,5 @@
 ---
-title: "Kaliforniya Yüksek Hızlı Tren Finansmanı İptal Edilmekta"
+title: "Kaliforniya Yüksek Hızlı Tren Finansmanı İptal Ediliyor"
 date: '2026-04-22T23:15:00Z'
 category: Lojistik
 secondaryCategories:

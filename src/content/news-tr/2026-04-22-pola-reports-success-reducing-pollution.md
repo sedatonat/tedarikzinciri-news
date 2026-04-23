@@ -1,5 +1,5 @@
 ---
-title: "PoLA Kirliliği Azaltmakta Başarı Raporlamakta"
+title: "PoLA Kirliliği Azaltan Başarı Raporluyor"
 date: '2026-04-22T03:00:00Z'
 category: Lojistik
 secondaryCategories:

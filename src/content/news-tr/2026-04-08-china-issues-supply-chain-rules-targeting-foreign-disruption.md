@@ -1,5 +1,5 @@
 ---
-title: "Çin; Yabancı Aktörlerin Müdahalelerine Karşı Tedarik Zinciri Kuralları Yayınlamakta"
+title: "Çin; Yabancı Aktörlerin Müdahalelerine Karşı Tedarik Zinciri Kuralları Yayınlıyor"
 date: '2026-04-08T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

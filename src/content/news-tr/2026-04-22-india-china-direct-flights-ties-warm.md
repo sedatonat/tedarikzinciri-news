@@ -1,5 +1,5 @@
 ---
-title: "Hindistan ve Çin İlişkiler Isınmakta İken Doğrudan Uçuşlara Başlamakta"
+title: "Hindistan ve Çin İlişkiler Isınıyorken Doğrudan Uçuşlara Başlıyor"
 date: '2026-04-22T08:00:00Z'
 category: Lojistik
 secondaryCategories:

@@ -1,5 +1,5 @@
 ---
-title: "Pik Sezonlarda Geri Dönüşlü Taşıma Ürünleri (RTI'ları) Yönetmekte Olunmasının Ustalığı"
+title: "Pik Sezonlarda Geri Dönüşlü Taşıma Ürünleri (RTI'ları) Yönetmenin Ustalığı"
 subtitle: "Lyngsoe Systems: RTI Kayıpları %10-15; Görünürlük Yokluğu Darboğaz; RFID ve BLE Uçtan Uca İzleme; 100K+ Aset Vakası Tek Kaynak Hakikat; Otomatik Veri Yakalama"
 date: '2026-04-22T13:00:00Z'
 category: Lojistik

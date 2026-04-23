@@ -1,5 +1,5 @@
 ---
-title: "Panama Kanalı Trafik Sıkışıklığı; 4 Milyon ABD Doları Sıraya Atlama Ödemesini Tetiklemekta"
+title: "Panama Kanalı Trafik Sıkışıklığı; 4 Milyon ABD Doları Sıraya Atlama Ödemesini Tetikliyor"
 date: '2026-04-17T09:00:00Z'
 category: Lojistik
 secondaryCategories:

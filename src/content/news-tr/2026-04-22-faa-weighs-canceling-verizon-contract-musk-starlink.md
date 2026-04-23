@@ -1,5 +1,5 @@
 ---
-title: "FAA, Musk'ın Starlink'i Lehine Verizon Sözleşmesini İptal Etmeyi Tartmakta"
+title: "FAA, Musk'ın Starlink'i Lehine Verizon Sözleşmesini İptal Etmeyi Tartıyor"
 date: '2026-04-22T23:58:30Z'
 category: Lojistik
 secondaryCategories:

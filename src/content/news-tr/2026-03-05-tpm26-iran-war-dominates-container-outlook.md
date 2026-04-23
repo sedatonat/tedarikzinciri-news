@@ -1,5 +1,5 @@
 ---
-title: "TPM26'da İran Savaşı, Konteyner Taşımacılığının Görünüm Tartışmasını Domine Etmekte"
+title: "TPM26'da İran Savaşı, Konteyner Taşımacılığının Görünüm Tartışmasını Domine Ediyor"
 subtitle: "Hürmüz'de 750 Gemi Bekleme Hattına Girmekte; Brent 82 Dolara Çıkmakta, Yellen Günlük 15 Milyon Varilin Etkilenmekte Olduğunu Belirtmekte"
 date: '2026-03-05T09:00:00Z'
 category: Tedarik Zinciri

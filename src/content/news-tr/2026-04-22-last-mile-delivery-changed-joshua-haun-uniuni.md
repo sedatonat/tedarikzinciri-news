@@ -1,5 +1,5 @@
 ---
-title: "Son Mil E-Ticaret Teslimatı Değişmiş İken: Bir Taşıyıcıda Aranmakta Olunması Gerekenler (Geniş Versiyon)"
+title: "Son Mil E-Ticaret Teslimatı Değişmiş İken: Bir Taşıyıcıda Aranması gerekenler (Geniş Versiyon)"
 subtitle: "Joshua Haun UniUni VP Business Development: Güvenilirlik Sessizce Yeni Hız Olmakta; McKinsey 2024 Araştırma Hız 5. Sıraya Düşmekte; SLA Kayıpları Tahminleme/Maliyet/Marka Güvenilirliği Aşındırmakta"
 date: '2026-04-22T12:00:00Z'
 category: Lojistik

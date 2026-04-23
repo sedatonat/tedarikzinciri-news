@@ -1,5 +1,5 @@
 ---
-title: "Trump Tarifelere İnce Ayar Yapmakta; Daha Fazla Taviz Gelmekte Olabilmekte"
+title: "Trump Tarifelere İnce Ayar Yapıyor; Daha Fazla Taviz Geliyor olabilir"
 date: '2026-04-22T16:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

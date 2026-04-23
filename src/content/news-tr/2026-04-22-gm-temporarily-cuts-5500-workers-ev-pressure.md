@@ -1,5 +1,5 @@
 ---
-title: "GM 5,500 İşçiyi Geçici Olarak Çıkartmakta; EV Baskısını Göstermekte"
+title: "GM 5,500 İşçiyi Geçici Olarak Çıkartıyor; EV Baskısını Gösteriyor"
 date: '2026-04-22T10:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

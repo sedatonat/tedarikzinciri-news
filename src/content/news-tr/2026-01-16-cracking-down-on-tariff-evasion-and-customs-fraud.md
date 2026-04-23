@@ -1,5 +1,5 @@
 ---
-title: "Tarife Kaçakçılığı ve Gümrük Sahtekarlığı ile Mücadele Hız Kazanmakta"
+title: "Tarife Kaçakçılığı ve Gümrük Sahtekarlığı ile Mücadele Hız Kazanıyor"
 date: '2026-01-16T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

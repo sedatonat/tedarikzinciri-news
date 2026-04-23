@@ -1,5 +1,5 @@
 ---
-title: "Maersk İki Yıl Aradan Sonra İlk Kızıldeniz Geçişini Tamamlamakta"
+title: "Maersk İki Yıl Aradan Sonra İlk Kızıldeniz Geçişini Tamamlıyor"
 subtitle: "Maersk Sebarok Konteyner Gemisi, Bab-el-Mandeb Boğazı Üzerinden Dönüşü Başlatmakta"
 date: '2025-12-22T09:00:00Z'
 category: Lojistik

@@ -1,5 +1,5 @@
 ---
-title: "DP World Montreal Limanı Yeni Terminali İşletme Sözleşmesi Kazanmakta"
+title: "DP World Montreal Limanı Yeni Terminali İşletme Sözleşmesi Kazanıyor"
 date: '2026-04-22T21:00:00Z'
 category: Lojistik
 secondaryCategories:

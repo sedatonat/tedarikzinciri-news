@@ -1,5 +1,5 @@
 ---
-title: "ABD Hava Trafik Kontrolünü Elden Geçirme Planı Hazırlamakta, Duffy Söylemekta"
+title: "ABD Hava Trafik Kontrolünü Elden Geçirme Planı Hazırlıyor, Duffy Diyor"
 date: '2026-04-22T23:54:30Z'
 category: Lojistik
 secondaryCategories:

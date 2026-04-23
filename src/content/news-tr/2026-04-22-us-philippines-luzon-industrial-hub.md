@@ -1,5 +1,5 @@
 ---
-title: "ABD, Endüstriyel Merkez İçin Filipinler ile Ortaklık Kurmakta"
+title: "ABD, Endüstriyel Merkez İçin Filipinler ile Ortaklık Kuruyor"
 subtitle: "16 Hektarlık Luzon Ekonomik Koridoru: 'Ekonomik Güvenlik Bölgesi' Olarak Kritik Mineral Erişimi; Nikel, Bakır, Krom, Kobalt Stratejik Avantaj Olmakta"
 date: '2026-04-22T09:00:00Z'
 category: Tedarik Zinciri

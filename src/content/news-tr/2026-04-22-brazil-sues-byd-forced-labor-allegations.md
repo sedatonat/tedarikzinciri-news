@@ -1,5 +1,5 @@
 ---
-title: "Brezilya BYD'yi Zorla Çalıştırma İddialarıyla Dava Etmekta"
+title: "Brezilya BYD'yi Zorla Çalıştırma İddialarıyla Dava Ediyor"
 date: '2026-04-22T23:58:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

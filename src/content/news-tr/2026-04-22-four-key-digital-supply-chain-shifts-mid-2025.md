@@ -1,5 +1,5 @@
 ---
-title: "Mid-2025'te Yapılması Gereken Dört Anahtar Dijital Tedarik Zinciri Değişimi Olmakta"
+title: "Mid-2025'te Yapılması Gereken Dört Anahtar Dijital Tedarik Zinciri Değişimi Oluyor"
 date: '2026-04-22T23:59:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

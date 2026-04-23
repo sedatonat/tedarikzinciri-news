@@ -1,5 +1,5 @@
 ---
-title: "Amazon; USPS ile Teslimat Hacmi Kesintilerine İlişkin Anlaşmaya Varmakta"
+title: "Amazon; USPS ile Teslimat Hacmi Kesintilerine İlişkin Anlaşmaya Varıyor"
 date: '2026-04-07T09:00:00Z'
 category: Lojistik
 secondaryCategories:

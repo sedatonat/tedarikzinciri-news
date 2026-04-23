@@ -1,5 +1,5 @@
 ---
-title: "Maersk, Kızıldeniz'in Yeniden Açılmasıyla Kazançlarda Sert Düşüş Beklemekte"
+title: "Maersk, Kızıldeniz'in Yeniden Açılmasıyla Kazançlarda Sert Düşüş Bekliyor"
 subtitle: "2026 EBITDA Tahmini 4,5-7 Milyar Dolara Çekilmekte; Şirket On Yıldır İlk Operasyonel Zararla Karşı Karşıya Kalmakta"
 date: '2026-02-05T15:00:00Z'
 category: Lojistik

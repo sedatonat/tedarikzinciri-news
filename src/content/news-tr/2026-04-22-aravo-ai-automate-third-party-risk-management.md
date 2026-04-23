@@ -1,5 +1,5 @@
 ---
-title: "Aravo, Üçüncü Taraf Risk Yönetimini Otomatize Etmek Üzere Yapay Zeka Yeteneği Sunmakta"
+title: "Aravo, Üçüncü Taraf Risk Yönetimini Otomatize Etmek Üzere Yapay Zeka Yeteneği Sunuyor"
 subtitle: "Aravo AI, Intelligence First Platform İçine Gömülü Olmakta; Sürekli Süreçler ve İnsan Üstü Geçersizleştirme Mümkün; TPRM Veri Yoğun ve Zaman Hassas Olmakta"
 date: '2026-04-22T06:00:00Z'
 category: Tedarik Zinciri

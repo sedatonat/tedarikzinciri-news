@@ -1,5 +1,5 @@
 ---
-title: "Tarifelerin Olumlu Yüzü: ABD İmalatı Yeniden İnşa Döngüsüne Girmekte"
+title: "Tarifelerin Olumlu Yüzü: ABD İmalatı Yeniden İnşa Döngüsüne Giriyor"
 date: '2026-02-10T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

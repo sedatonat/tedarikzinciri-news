@@ -1,5 +1,5 @@
 ---
-title: "South Africa, İlk Liman Özelleştirme Anlaşmasını İmzalamakta"
+title: "South Africa, İlk Liman Özelleştirme Anlaşmasını İmzalıyor"
 date: '2026-04-22T08:00:00Z'
 category: Lojistik
 secondaryCategories:

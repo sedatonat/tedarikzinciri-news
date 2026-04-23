@@ -1,5 +1,5 @@
 ---
-title: "Gıda Tedarik Zincirlerinin Karbon Emisyon Verilerini Raporlamasını Ne Engellemekte?"
+title: "Gıda Tedarik Zincirlerinin Karbon Emisyon Verilerini Raporlamasını Ne Engelliyor?"
 date: '2026-04-13T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

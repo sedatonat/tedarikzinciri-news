@@ -1,5 +1,5 @@
 ---
-title: "China, Panama Canal Limanları Satışında Kontrol Hissesi Talep Etmekte"
+title: "Çin, Panama Canal Limanları Satışında Kontrol Hissesi Talep Ediyor"
 subtitle: "WSJ/$22.8B Anlaşma: Cosco Çoğunluk Hisse Talebi; BlackRock/MSC Mart Konsorsiyum; CK Hutchison HK Trump Baskı; Eşit Hisse Önceki Talep Yükseltilmekte; 2026 Sonu Kapanış; Ulusal Güvenlik Riski"
 date: '2026-04-22T10:00:00Z'
 category: Tedarik Zinciri

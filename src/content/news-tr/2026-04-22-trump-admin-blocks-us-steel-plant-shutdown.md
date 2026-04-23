@@ -1,5 +1,5 @@
 ---
-title: "Trump Yönetimi U.S. Steel Tesisinin Kapatılmasını Engellemekte"
+title: "Trump Yönetimi U.S. Steel Tesisinin Kapatılmasını Engelliyor"
 date: '2026-04-22T15:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

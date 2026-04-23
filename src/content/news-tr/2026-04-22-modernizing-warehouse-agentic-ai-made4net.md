@@ -1,5 +1,5 @@
 ---
-title: "Depo, Ajansal Yapay Zekanın Gelişiyle Modernize ve Otomatize Edilmekte"
+title: "Depo, Ajansal Yapay Zekanın Gelişiyle Modernize ve Otomatize Ediliyor"
 subtitle: "Made4Net Jones: AI 'Self-Healing System'; Politika ve Kural Tabanlı; Kötü Veri Engel Olmakta; 30-45 Gün Eğitimi 1 Güne İndirme Hedefi"
 date: '2026-04-22T17:00:00Z'
 category: Lojistik

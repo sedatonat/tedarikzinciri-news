@@ -1,5 +1,5 @@
 ---
-title: "İran Savaşı; Pasifik Adalarının Ekonomik Kırılganlığını Gözler Önüne Sermekte"
+title: "İran Savaşı; Pasifik Adalarının Ekonomik Kırılganlığını Gözler Önüne Seriyor"
 date: '2026-04-17T09:00:00Z'
 category: Lojistik
 secondaryCategories:

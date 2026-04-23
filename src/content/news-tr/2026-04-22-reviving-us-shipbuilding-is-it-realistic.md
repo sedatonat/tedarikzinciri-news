@@ -1,5 +1,5 @@
 ---
-title: "ABD Gemi İnşaatını Canlandırmak: Gerçekçi Olmakta mı?"
+title: "ABD Gemi İnşaatını Canlandırmak: Gerçekçi Oluyor mu?"
 date: '2026-04-22T23:57:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

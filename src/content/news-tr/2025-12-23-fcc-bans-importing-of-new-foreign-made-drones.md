@@ -1,5 +1,5 @@
 ---
-title: "FCC; Yabancı Üretim Yeni Drone Modellerinin İthalatını Yasaklamakta"
+title: "FCC; Yabancı Üretim Yeni Drone Modellerinin İthalatını Yasaklıyor"
 date: '2025-12-23T09:00:00Z'
 category: Teknoloji
 secondaryCategories:

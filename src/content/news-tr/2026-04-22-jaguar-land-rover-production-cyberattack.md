@@ -1,5 +1,5 @@
 ---
-title: "Jaguar Land Rover Üretimi Siber Saldırı ile Felç Olmakta"
+title: "Jaguar Land Rover Üretimi Siber Saldırı ile Felç Oluyor"
 date: '2026-04-22T17:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories: []

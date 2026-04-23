@@ -1,5 +1,5 @@
 ---
-title: "DHL ABD Tüketicilerine 800 Doların Üzerindeki Teslimatları Durdurmakta"
+title: "DHL ABD Tüketicilerine 800 Doların Üzerindeki Teslimatları Durduruyor"
 date: '2026-04-22T23:58:30Z'
 category: Lojistik
 secondaryCategories:

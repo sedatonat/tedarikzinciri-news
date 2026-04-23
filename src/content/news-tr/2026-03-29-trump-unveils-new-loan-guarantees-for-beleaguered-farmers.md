@@ -1,5 +1,5 @@
 ---
-title: "Trump; Sıkıntıdaki Çiftçiler İçin Yeni Kredi Garantileri Açıklamakta"
+title: "Trump; Sıkıntıdaki Çiftçiler İçin Yeni Kredi Garantileri Açıklıyor"
 date: '2026-03-29T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

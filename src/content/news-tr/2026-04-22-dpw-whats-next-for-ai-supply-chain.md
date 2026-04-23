@@ -1,5 +1,5 @@
 ---
-title: "DPW Tedarik Zincirinde Yapay Zeka İçin Sıradaki Ne Olmakta"
+title: "DPW Tedarik Zincirinde Yapay Zeka İçin Sıradaki Ne Oluyor"
 date: '2026-04-22T23:25:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

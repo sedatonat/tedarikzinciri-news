@@ -1,5 +1,5 @@
 ---
-title: "Suudi Arabistan, Hürmüz Atlatma Hattıyla Petrol İhracatının Yarısını Yeniden Canlandırmakta"
+title: "Suudi Arabistan, Hürmüz Atlatma Hattıyla Petrol İhracatının Yarısını Yeniden Canlandırıyor"
 subtitle: "1.200 km Yanbu Boru Hattı Üzerinden Günlük 4,19 Mn Varil; Kızıldeniz'de En Az 32 VLCC ve Suezmax Beklemekte"
 date: '2026-03-19T09:00:00Z'
 category: Tedarik Zinciri

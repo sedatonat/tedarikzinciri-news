@@ -1,5 +1,5 @@
 ---
-title: "Fransa; Rusya Bağlantılı Petrol Tankerine Çıkarma Yapmakta ve Gölge Filoya Karşı Adım Atmakta"
+title: "Fransa; Rusya Bağlantılı Petrol Tankerine Çıkarma Yapıyor ve Gölge Filoya Karşı Adım Atıyor"
 date: '2026-01-23T09:00:00Z'
 category: Lojistik
 secondaryCategories:

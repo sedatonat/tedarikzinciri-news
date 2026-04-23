@@ -1,5 +1,5 @@
 ---
-title: "Project44, AI Yük Satın Almakta Otomasyonu Eklemekte"
+title: "Project44, AI Yük Satın Alan Otomasyonu Ekliyor"
 subtitle: "Intelligent TMS'e AI Freight Procurement Agent Eklenmekte: Carrier Seçimi/Oran Kıyaslama/Müzakere Modlar Arası; Statik Periyodik Bid Cycle Yerine Sürekli AI Tabanlı Sourcing; Mini-Bids/Yenileme Müzakereleri Guardrails İçinde; Jett McCandless Açıklama"
 date: '2026-04-22T10:00:00Z'
 category: Tedarik Zinciri

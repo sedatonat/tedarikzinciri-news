@@ -1,5 +1,5 @@
 ---
-title: "Yapay Zeka Tabanlı Özerklik Tedarik Zincirlerini Yeniden İcat Etmekta Nasıl Olmakta"
+title: "Yapay Zeka Tabanlı Özerklik Tedarik Zincirlerini Yeniden İcat Nasıl Yeniden Tanımlıyor"
 date: '2026-04-22T23:55:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

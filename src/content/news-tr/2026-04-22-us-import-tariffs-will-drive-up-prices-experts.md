@@ -1,5 +1,5 @@
 ---
-title: "ABD İthalat Tarifeleri Fiyatları Yukarı İtecek, Uzmanlar Söylemekta"
+title: "ABD İthalat Tarifeleri Fiyatları Yukarı İtecek, Uzmanlar Diyor"
 date: '2026-04-22T23:58:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

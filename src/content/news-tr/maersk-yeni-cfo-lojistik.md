@@ -1,5 +1,5 @@
 ---
-title: 'Maersk, Lojistik Kökenli Yeni CFO Atadı: Stratejik Odak Kara Lojistiğine Kaymakta'
+title: "Maersk, Lojistik Kökenli Yeni CFO Atadı: Stratejik Odak Kara Lojistiğine Kayıyor"
 subtitle: 'Maersk, Lojistik Kökenli Yeni CFO Atadı: Stratejik Odak Kara Lojistiğine Kaymakta'
 date: '2025-12-12T09:00:00Z'
 category: Lojistik

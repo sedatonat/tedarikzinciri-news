@@ -1,5 +1,5 @@
 ---
-title: "California Valisi Çığır Açan AI Güvenlik Yasasını İmzalamakta"
+title: "California Valisi Çığır Açan AI Güvenlik Yasasını İmzalıyor"
 date: '2026-04-22T11:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

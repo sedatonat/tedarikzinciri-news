@@ -1,5 +1,5 @@
 ---
-title: "Alaska Airlines, Yakıt Krizi Derinleşmekte İken Kar Tahminini Geri Çekmekte"
+title: "Alaska Airlines, Yakıt Krizi Derinleşiyorken Kar Tahminini Geri Çekiyor"
 subtitle: "Iran Savaşı: Q2 $600M Yakıt Artışı; Nisan'da Galon $4.75 Beklenmekte; Singapore-Seattle Tanker Taşımacılığı; Air Canada-Delta-Lufthansa Benzer Kesintiler"
 date: '2026-04-22T12:00:00Z'
 category: Lojistik

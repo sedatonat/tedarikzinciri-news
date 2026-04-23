@@ -1,5 +1,5 @@
 ---
-title: "Maersk ve MSC Birimleri Tartışmalı Panama Limanlarını Geçici Olarak İşletmekte"
+title: "Maersk ve MSC Birimleri Tartışmalı Panama Limanlarını Geçici Olarak İşletiyor"
 subtitle: "APM Terminals Balboa'yı, Terminal Investment Cristobal'i 18 Ay Süreyle Devralmakta; CK Hutchison Yasal Mücadele Sinyali Vermekte"
 date: '2026-02-25T09:00:00Z'
 category: Tedarik Zinciri

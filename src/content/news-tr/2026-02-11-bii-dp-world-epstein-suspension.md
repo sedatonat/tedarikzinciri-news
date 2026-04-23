@@ -1,5 +1,5 @@
 ---
-title: "İkinci Firma DP World ile Anlaşmaları Epstein Dosyaları Nedeniyle Askıya Almakta"
+title: "İkinci Firma DP World ile Anlaşmaları Epstein Dosyaları Nedeniyle Askıya Alıyor"
 subtitle: "İngiltere'nin 13,6 Milyar Dolarlık Kalkınma Finansmanı Kuruluşu BII, Sultan Ahmed bin Sulayem İddiaları Sonrası Geri Çekilmekte"
 date: '2026-02-11T09:00:00Z'
 category: Tedarik Zinciri

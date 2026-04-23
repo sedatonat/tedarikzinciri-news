@@ -1,5 +1,5 @@
 ---
-title: "Kurumlar 'Akıllı' ERP Sistemlerini Benimsemeye Yetecek Kadar Akıllı Olmakta mı?"
+title: "Kurumlar 'Akıllı' ERP Sistemlerini Benimsemeye Yetecek Kadar Akıllı Oluyor mu?"
 subtitle: "Veri Hazırlığı, Tek Küresel ERP ve Stablecoin Entegrasyonu Yeni ERP Görünümünü Şekillendirmekte"
 date: '2026-02-02T13:00:00Z'
 category: Teknoloji

@@ -1,5 +1,5 @@
 ---
-title: "Çin, Panama'yı Liman Kararı Üzerine 'Ağır Bedel' Konusunda Uyarmakta"
+title: "Çin, Panama'yı Liman Kararı Üzerine 'Ağır Bedel' Konusunda Uyarıyor"
 subtitle: "CK Hutchison Sözleşmesini İptal Eden Yüksek Mahkeme Kararı, Pekin-Washington Hattını Yeniden Germekte"
 date: '2026-02-04T09:00:00Z'
 category: Tedarik Zinciri

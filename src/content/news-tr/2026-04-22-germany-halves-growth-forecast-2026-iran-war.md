@@ -1,5 +1,5 @@
 ---
-title: "Almanya, Iran Savaşı Etkisiyle 2026 Büyüme Tahminini Yarıya İndirmekte"
+title: "Almanya, Iran Savaşı Etkisiyle 2026 Büyüme Tahminini Yarıya İndiriyor"
 subtitle: "Ekonomi Bakanlığı Revizyonu: %1'den %0.5'e; Reiche 'Durum Son Derece Değişken'; DIHK %83 Şirket Arz Sıkıntısı; Merz-Klingbeil €140 Milyar Açık"
 date: '2026-04-22T10:00:00Z'
 category: Tedarik Zinciri

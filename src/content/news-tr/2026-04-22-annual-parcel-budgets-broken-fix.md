@@ -1,5 +1,5 @@
 ---
-title: "Yıllık Paket Bütçeleri Bozulmakta; Düzeltmek Gerekmekte"
+title: "Yıllık Paket Bütçeleri Bozuluyor; Düzeltmek Gerekiyor"
 subtitle: "Zero Down CEO McBride: Yıl Başına 7-8 Kez GRI; UPS-FedEx Pazar Gücü; Yıllık Yeniden Müzakere Gerekmekte; Gelir Sızıntısı Çoklu Noktalarda Olmakta"
 date: '2026-04-22T11:00:00Z'
 category: Lojistik

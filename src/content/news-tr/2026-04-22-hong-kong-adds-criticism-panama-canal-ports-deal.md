@@ -1,5 +1,5 @@
 ---
-title: "Hong Kong, Panama Kanalı Limanları Anlaşmasına Eleştiri Eklemekta"
+title: "Hong Kong, Panama Kanalı Limanları Anlaşmasına Eleştiri Ekliyor"
 date: '2026-04-22T23:55:00Z'
 category: Lojistik
 secondaryCategories:

@@ -1,5 +1,5 @@
 ---
-title: "Kanada; Trump Gündeminden Ayrılarak Çin ile Ticaret Ateşkesi İmzalamakta"
+title: "Kanada; Trump Gündeminden Ayrılarak Çin ile Ticaret Ateşkesi İmzalıyor"
 date: '2026-01-16T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

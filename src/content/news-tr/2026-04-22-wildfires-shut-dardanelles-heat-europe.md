@@ -1,5 +1,5 @@
 ---
-title: "Yangınlar Çanakkale Boğazını Kısa Süre Kapatmakta Avrupayı Sıcak Vurmakta"
+title: "Yangınlar Çanakkale Boğazını Kısa Süre Kapatan Avrupayı Sıcak Vuruyor"
 date: '2026-04-22T23:45:00Z'
 category: Lojistik
 secondaryCategories: []

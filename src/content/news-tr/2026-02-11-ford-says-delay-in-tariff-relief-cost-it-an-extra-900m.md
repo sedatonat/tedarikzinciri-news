@@ -1,5 +1,5 @@
 ---
-title: "Ford; Tarife Mahsubunun Gecikmesinin Şirkete Ek 900 Milyon ABD Doları Maliyet Çıkardığını Belirtmekta"
+title: "Ford; Tarife Mahsubunun Gecikmesinin Şirkete Ek 900 Milyon ABD Doları Maliyet Çıkardığını Belirtiyor"
 date: '2026-02-11T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

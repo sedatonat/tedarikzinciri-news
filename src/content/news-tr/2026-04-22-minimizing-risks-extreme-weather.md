@@ -1,5 +1,5 @@
 ---
-title: "Aşırı Hava Olaylarıyla İlişkili Riskleri En Aza İndirmekta"
+title: "Aşırı Hava Olaylarıyla İlişkili Riskleri En Aza İndiriyor"
 date: '2026-04-22T23:58:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

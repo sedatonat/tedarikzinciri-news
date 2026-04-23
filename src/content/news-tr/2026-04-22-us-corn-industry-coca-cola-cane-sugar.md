@@ -1,5 +1,5 @@
 ---
-title: "ABD Mısır Endüstrisi Coca-Cola'nın Şeker Kamışına Geçişinin 'Mantıklı Olmadığını' Söylemekta"
+title: "ABD Mısır Endüstrisi Coca-Cola'nın Şeker Kamışına Geçişinin 'Mantıklı Olmadığını' Diyor"
 date: '2026-04-22T23:20:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

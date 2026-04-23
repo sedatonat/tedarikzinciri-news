@@ -1,5 +1,5 @@
 ---
-title: "Görünürlüğün Ötesinde: AI, Lojistiği Yeniden Tanımlamakta"
+title: "Görünürlüğün Ötesinde: AI, Lojistiği Yeniden Tanımlıyor"
 date: '2026-04-22T20:00:00Z'
 category: Lojistik
 secondaryCategories:

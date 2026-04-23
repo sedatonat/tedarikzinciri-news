@@ -1,5 +1,5 @@
 ---
-title: "İmalatçılar Daha Dinamik Bir Geleceğe Nasıl Hazırlanmakta Olabilmekte"
+title: "İmalatçılar Daha Dinamik Bir Geleceğe Nasıl Hazırlanıyor olabilir"
 subtitle: "Seegrid Shawn Durr Director Strategic Sales: Otonomi Bariyerleri Düşmekte; Önümüzdeki On Yıl Otomasyon Departmental Avantajdan Enterprise Necessity'ye; Tam Bağlı Ekosistemler/Interoperability/Smart Connected; İnsan ve Teknoloji Birlikte Daha Fazlasını Başarmakta"
 date: '2026-04-22T15:00:00Z'
 category: Tedarik Zinciri

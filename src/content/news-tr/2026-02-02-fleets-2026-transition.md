@@ -1,5 +1,5 @@
 ---
-title: "Geçiş Dönemi: Filolar 2026'da Neyle Karşılaşmakta"
+title: "Geçiş Dönemi: Filolar 2026'da Neyle Karşılaşıyor"
 subtitle: "Modüler Yazılım Sürümleri, Sistemler Arası Entegrasyon ve Veri Yoğunluğu Filo Operasyonlarını Yeniden Şekillendirmekte"
 date: '2026-02-02T10:00:00Z'
 category: Lojistik

@@ -1,5 +1,5 @@
 ---
-title: "Trump H-1B Vize Ücreti; Almanya'nın Hint İşçileri Çekmesinin Kapısını Açmakta"
+title: "Trump H-1B Vize Ücreti; Almanya'nın Hint İşçileri Çekmesinin Kapısını Açıyor"
 date: '2026-04-22T13:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

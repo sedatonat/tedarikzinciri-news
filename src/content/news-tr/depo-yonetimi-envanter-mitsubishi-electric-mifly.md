@@ -1,5 +1,5 @@
 ---
-title: Mitsubishi Electric'in MiFly Depo Drone'ları Karanlıkta Gezinmekte
+title: Mitsubishi Electric'in MiFly Depo Drone'ları Karanlıkta Geziniyor
 subtitle: Mitsubishi Electric'in MiFly Depo Drone'ları Karanlıkta Gezinmekte
 date: '2025-02-19T09:00:00Z'
 category: Envanter

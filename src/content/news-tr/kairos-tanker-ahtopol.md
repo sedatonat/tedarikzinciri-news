@@ -1,5 +1,5 @@
 ---
-title: 'Kairos Tankeri Ahtopol Açıklarında Stabilize Edildi: Ortak Kurtarma Operasyonu Sürmekte'
+title: "Kairos Tankeri Ahtopol Açıklarında Stabilize Edildi: Ortak Kurtarma Operasyonu Sürüyor"
 subtitle: 'Kairos Tankeri Ahtopol Açıklarında Stabilize Edildi: Ortak Kurtarma Operasyonu Sürmekte'
 date: '2025-12-07T09:00:00Z'
 category: Lojistik

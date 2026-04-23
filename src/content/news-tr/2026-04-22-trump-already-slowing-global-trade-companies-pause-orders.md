@@ -1,5 +1,5 @@
 ---
-title: "Trump Şirketlerin Siparişleri Duraklatmasıyla Küresel Ticareti Zaten Yavaşlatmakta"
+title: "Trump Şirketlerin Siparişleri Duraklatmasıyla Küresel Ticareti Zaten Yavaşlatıyor"
 date: '2026-04-22T23:58:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

@@ -1,5 +1,5 @@
 ---
-title: "Çinli Üreticiler, Amerikalılara Karşı Hala Avantaja Sahip Olmakta"
+title: "Çinli Üreticiler, Amerikalılara Karşı Hala Avantaja Sahip Oluyor"
 subtitle: "Unusual Machines Evans: 'Sistemleri Ölçeklemek, İnsanları Değil'; Tedarikçi Yoğunluğu Avantaj; ABD Sözleşmeli vs Çin Kültürel; CHIPS Act ve Otomasyon"
 date: '2026-04-22T18:00:00Z'
 category: Tedarik Zinciri

@@ -1,5 +1,5 @@
 ---
-title: "Los Angeles Limanı Çin Tarifelerine Aradan Sonra 'Belirsizlik Sürmekta' Demekta"
+title: "Los Angeles Limanı Çin Tarifelerine Aradan Sonra 'Belirsizlik Sürüyor' Diyor"
 date: '2026-04-23T00:00:30Z'
 category: Lojistik
 secondaryCategories:

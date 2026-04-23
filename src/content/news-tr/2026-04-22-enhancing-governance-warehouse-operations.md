@@ -1,5 +1,5 @@
 ---
-title: "Depo Operasyonlarında Yönetişimi Geliştirmekta"
+title: "Depo Operasyonlarında Yönetişimi Geliştiriyor"
 date: '2026-04-22T23:54:30Z'
 category: Lojistik
 secondaryCategories:

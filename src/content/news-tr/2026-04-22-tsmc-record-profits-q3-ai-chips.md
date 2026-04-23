@@ -1,5 +1,5 @@
 ---
-title: "TSMC Q3'te Rekor Kâr Raporlamakta; AI Çip Talebini Körüklemekte"
+title: "TSMC Q3'te Rekor Kâr Raporluyor; AI Çip Talebini Körüklüyor"
 date: '2026-04-22T02:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

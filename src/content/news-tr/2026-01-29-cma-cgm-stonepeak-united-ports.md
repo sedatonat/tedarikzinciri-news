@@ -1,5 +1,5 @@
 ---
-title: "CMA CGM, Stonepeak ile 'United Ports' Ortak Girişimini Başlatmakta"
+title: "CMA CGM, Stonepeak ile 'United Ports' Ortak Girişimini Başlatıyor"
 subtitle: "2,4 Milyar Dolarlık Yatırım, 10 Terminale %25 Azınlık Hissesi Karşılığında Aktarılmakta"
 date: '2026-01-29T15:00:00Z'
 category: Lojistik

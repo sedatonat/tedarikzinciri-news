@@ -1,5 +1,5 @@
 ---
-title: "Birleşik Bir Dijital İplik Endüstriyel Şirketlerde Sürdürülebilirliği Yönlendirmekta"
+title: "Birleşik Bir Dijital İplik Endüstriyel Şirketlerde Sürdürülebilirliği Yönlendiriyor"
 date: '2026-04-22T23:55:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

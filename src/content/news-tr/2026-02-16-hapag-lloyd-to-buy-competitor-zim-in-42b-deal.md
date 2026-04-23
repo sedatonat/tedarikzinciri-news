@@ -1,5 +1,5 @@
 ---
-title: "Hapag-Lloyd; Rakibi Zim'i 4,2 Milyar ABD Doları Tutarındaki Anlaşmayla Satın Almakta"
+title: "Hapag-Lloyd; Rakibi Zim'i 4,2 Milyar ABD Doları Tutarındaki Anlaşmayla Satın Alıyor"
 date: '2026-02-16T09:00:00Z'
 category: Lojistik
 secondaryCategories:

@@ -1,5 +1,5 @@
 ---
-title: "Finlandiya Yetkilileri Denizaltı Kablolarına Sabotajdan Şüphelenilmekta Gemiyi Tutuklamakta"
+title: "Finlandiya Yetkilileri Denizaltı Kablolarına Sabotajdan Şüphelenilen Gemiyi Tutukluyor"
 date: '2025-12-31T09:00:00Z'
 category: Lojistik
 secondaryCategories:

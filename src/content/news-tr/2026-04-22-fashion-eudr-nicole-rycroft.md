@@ -1,5 +1,5 @@
 ---
-title: "Moda, EUDR ile Adım Atmamakta Olunmasını Karşılayamamakta"
+title: "Moda, EUDR ile Adım Atmmasını Karşılayamıyor"
 date: '2026-04-22T04:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

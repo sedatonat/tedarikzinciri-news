@@ -1,5 +1,5 @@
 ---
-title: "Erken Donlanma Great Lakes Tedarik Zincirini Sınamakta"
+title: "Erken Donlanma Great Lakes Tedarik Zincirini Sınıyor"
 subtitle: "Ortalamanın Üzerindeki Buz Örtüsü Sevkiyat Pencerelerini Daraltmakta"
 date: '2026-01-08T09:00:00Z'
 category: Lojistik

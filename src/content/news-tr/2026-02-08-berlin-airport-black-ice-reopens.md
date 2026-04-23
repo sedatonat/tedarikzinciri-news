@@ -1,5 +1,5 @@
 ---
-title: "Berlin Havalimanı, Buzlanma Nedenli Uçuş Durdurmalarının Ardından Yeniden Açılmakta"
+title: "Berlin Havalimanı, Buzlanma Nedenli Uçuş Durdurmalarının Ardından Yeniden Açılıyor"
 subtitle: "190'dan Fazla Uçuş İptal Edilmekte; Kuzey Almanya Ulaşım Sistemleri Don Olayından Etkilenmekte"
 date: '2026-02-08T09:00:00Z'
 category: Lojistik

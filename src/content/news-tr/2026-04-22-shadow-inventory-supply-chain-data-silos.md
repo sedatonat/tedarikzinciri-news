@@ -1,5 +1,5 @@
 ---
-title: "Gölge Envanter Tedarik Zinciri Verileri Silolarda Yaşamakta"
+title: "Gölge Envanter Tedarik Zinciri Verileri Silolarda Yaşıyor"
 date: '2026-04-23T00:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

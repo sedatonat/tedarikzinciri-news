@@ -1,5 +1,5 @@
 ---
-title: Husi Saldırılarına Ara Verilmesi Gerginliği Azalttı, Ancak Kızıldeniz’de Risk Sürmekte
+title: Husi Saldırılarına Ara Verilmesi Gerginliği Azalttı, Ancak Kızıldeniz’de Risk Sürüyor
 subtitle: Husi Saldırılarına Ara Verilmesi Gerginliği Azalttı, Ancak Kızıldeniz’de Risk Sürmekte
 date: '2025-11-12T09:00:00Z'
 category: Lojistik

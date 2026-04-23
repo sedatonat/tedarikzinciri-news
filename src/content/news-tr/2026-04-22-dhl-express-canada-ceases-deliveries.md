@@ -1,5 +1,5 @@
 ---
-title: "DHL Express Canada Şimdilik Teslimatları Durdurmakta"
+title: "DHL Express Canada Şimdilik Teslimatları Durduruyor"
 date: '2026-04-22T23:45:00Z'
 category: Lojistik
 secondaryCategories:

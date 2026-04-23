@@ -1,5 +1,5 @@
 ---
-title: "Duffy Aksaklıklardan Sonra Altı Yeni Hava Trafik Kontrol Merkezi Önerisi Sunmakta"
+title: "Duffy Aksaklıklardan Sonra Altı Yeni Hava Trafik Kontrol Merkezi Önerisi Sunuyor"
 date: '2026-04-22T23:58:00Z'
 category: Lojistik
 secondaryCategories:

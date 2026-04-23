@@ -1,5 +1,5 @@
 ---
-title: Moda Endüstrisi Vietnam Üzerindeki Olası Tarifelerden Endişe Duymakta
+title: Moda Endüstrisi Vietnam Üzerindeki Olası Tarifelerden Endişe Duyuyor
 subtitle: Moda Endüstrisi Vietnam Üzerindeki Olası Tarifelerden Endişe Duymakta
 date: '2025-03-13T09:00:00Z'
 category: Tedarik Zinciri

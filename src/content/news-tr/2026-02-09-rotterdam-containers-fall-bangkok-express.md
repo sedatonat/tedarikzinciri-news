@@ -1,5 +1,5 @@
 ---
-title: "Rotterdam Limanı'nda Konteyner Düşüşü Operasyonları Geçici Olarak Durdurmakta"
+title: "Rotterdam Limanı'nda Konteyner Düşüşü Operasyonları Geçici Olarak Durduruyor"
 subtitle: "Hapag-Lloyd Bangkok Express'ten 7 Boş Konteyner LNG Bunker Gemisi K. Lotus Üzerine Düşmekte"
 date: '2026-02-09T10:00:00Z'
 category: Lojistik

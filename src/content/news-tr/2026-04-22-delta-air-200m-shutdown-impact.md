@@ -1,5 +1,5 @@
 ---
-title: "Delta Air, Hükümet Kapanması Etkisinden 200 Milyon Dolarlık Bir Etki Görmekte"
+title: "Delta Air, Hükümet Kapanması Etkisinden 200 Milyon Dolarlık Bir Etki Görüyor"
 date: '2026-04-22T08:00:00Z'
 category: Lojistik
 secondaryCategories:

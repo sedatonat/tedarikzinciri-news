@@ -1,5 +1,5 @@
 ---
-title: "Russia, Michelin Lastiklerini İthal Etmekte Yaptırımları Atlamakta"
+title: "Russia, Michelin Lastiklerini İthal Eden Yaptırımları Atlıyor"
 date: '2026-04-22T14:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

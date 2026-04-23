@@ -1,5 +1,5 @@
 ---
-title: ABD'li İthalatçılar İçin Artan Tarife Maliyetleri Büyük Finansal Değişim Yaratmakta
+title: ABD'li İthalatçılar İçin Artan Tarife Maliyetleri Büyük Finansal Değişim Yaratıyor
 subtitle: ABD'li İthalatçılar İçin Artan Tarife Maliyetleri Büyük Finansal Değişim Yaratmakta
 date: '2025-03-14T09:00:00Z'
 category: Lojistik

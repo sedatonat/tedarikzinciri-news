@@ -1,5 +1,5 @@
 ---
-title: "IoT ve AI Demiryolu Verimliliğini ve Varlık Takibini Nasıl Modernize Etmekte"
+title: "IoT ve AI Demiryolu Verimliliğini ve Varlık Takibini Nasıl Modernize Ediyor"
 date: '2026-04-22T06:00:00Z'
 category: Lojistik
 secondaryCategories:

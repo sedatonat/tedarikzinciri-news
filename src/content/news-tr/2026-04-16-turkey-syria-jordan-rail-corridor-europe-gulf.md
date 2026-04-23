@@ -1,5 +1,5 @@
 ---
-title: "Türkiye, Avrupa-Körfez Hattına Bakmakta İken Ulaşım Ağını İyileştirmekte"
+title: "Türkiye, Avrupa-Körfez Hattına Bakıyorken Ulaşım Ağını İyileştiriyor"
 subtitle: "Uraloğlu Açıklaması: Türkiye-Suriye-Ürdün Demiryolu Modernizasyonu 4-5 Yılda; Suudi Arabistan Bağlantısı Hedeflenmekte; Karayolu İyileştirmeleri Eklenmekte"
 date: '2026-04-16T08:00:00Z'
 category: Lojistik

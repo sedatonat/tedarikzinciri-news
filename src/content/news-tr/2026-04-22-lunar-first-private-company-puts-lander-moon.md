@@ -1,5 +1,5 @@
 ---
-title: "Ay'da İlk: Özel Şirket Başarılı Şekilde Aya İniş Aracı Koymakta"
+title: "Ay'da İlk: Özel Şirket Başarılı Şekilde Aya İniş Aracı Koyuyor"
 date: '2026-04-22T23:57:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

@@ -1,5 +1,5 @@
 ---
-title: "Wingtech Başkanı Uyardı: Nexperia Krizi Çip Tedarikinde Türbülansı Derinleştirebilmekte"
+title: "Wingtech Başkanı Uyardı: Nexperia Krizi Çip Tedarikinde Türbülansı Derinleştirebiliyor"
 date: '2025-12-23T09:00:00Z'
 category: Teknoloji
 secondaryCategories:

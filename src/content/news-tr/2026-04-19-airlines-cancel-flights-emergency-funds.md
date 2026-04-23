@@ -1,5 +1,5 @@
 ---
-title: "Havayolları Uçuşları İptal Etmekte, Acil Fon Talep Etmekte"
+title: "Havayolları Uçuşları İptal Ediyor, Acil Fon Talep Ediyor"
 subtitle: "Yakıt Fiyatlarındaki Sıçrama Havayollarını Rota Kesintisine ve Acil Fon Arayışına İtmekte"
 date: '2026-04-19T09:00:00Z'
 category: Lojistik

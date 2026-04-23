@@ -1,5 +1,5 @@
 ---
-title: "China, EU Domuz Eti İthalatına Antidumping Tarifelerini Sonuçlandırmakta"
+title: "Çin, EU Domuz Eti İthalatına Antidumping Tarifelerini Sonuçlandırıyor"
 date: '2026-04-22T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

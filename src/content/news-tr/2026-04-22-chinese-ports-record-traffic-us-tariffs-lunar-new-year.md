@@ -1,5 +1,5 @@
 ---
-title: "Çin Limanları ABD Tarifleri ve Ay Yılbaşı Öncesi Rekor Trafik Görmekta"
+title: "Çin Limanları ABD Tarifleri ve Ay Yılbaşı Öncesi Rekor Trafik Görüyor"
 date: '2026-04-22T23:57:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

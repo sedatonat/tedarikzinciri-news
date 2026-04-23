@@ -1,5 +1,5 @@
 ---
-title: "Çin; Japonya&rsquo;ya Çift Kullanımlı Ürün İhracatını Yasaklamakta"
+title: "Çin; Japonya&rsquo;ya Çift Kullanımlı Ürün İhracatını Yasaklıyor"
 date: '2026-01-06T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

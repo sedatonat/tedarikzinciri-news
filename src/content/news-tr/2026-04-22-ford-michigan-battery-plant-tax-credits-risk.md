@@ -1,5 +1,5 @@
 ---
-title: "Ford Vergi Kredileri Kesilirse Michigan Batarya Fabrikasının Risk Altında Olmakta"
+title: "Ford Vergi Kredileri Kesilirse Michigan Batarya Fabrikasının Risk Altında Oluyor"
 date: '2026-04-22T23:57:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

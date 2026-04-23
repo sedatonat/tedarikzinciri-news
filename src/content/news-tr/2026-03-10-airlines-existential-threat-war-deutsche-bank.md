@@ -1,5 +1,5 @@
 ---
-title: "Deutsche Bank: Havayolları Savaştan 'Varoluşsal Tehdit' İle Karşı Karşıya Kalmakta"
+title: "Deutsche Bank: Havayolları Savaştan 'Varoluşsal Tehdit' İle Karşı Karşıya Kalıyor"
 subtitle: "Jet Yakıtı YBB %100+ Yükselmekte, Crack Spread 2005'ten Bu Yana En Geniş; Linenberg: Binlerce Uçak Yere İndirilebilmekte"
 date: '2026-03-10T09:00:00Z'
 category: Tedarik Zinciri

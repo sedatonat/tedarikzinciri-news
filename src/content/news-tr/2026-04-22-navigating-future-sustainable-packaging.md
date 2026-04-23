@@ -1,5 +1,5 @@
 ---
-title: "Sürdürülebilir Ambalajın Geleceğinde Yön Bulmakta"
+title: "Sürdürülebilir Ambalajın Geleceğinde Yön Buluyor"
 date: '2026-04-22T23:59:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

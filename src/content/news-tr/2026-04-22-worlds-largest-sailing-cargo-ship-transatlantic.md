@@ -1,5 +1,5 @@
 ---
-title: "Dünyanın En Büyük Yelkenli Kargo Gemisi İlk Transatlantik Yolculuğunu Yapmakta"
+title: "Dünyanın En Büyük Yelkenli Kargo Gemisi İlk Transatlantik Yolculuğunu Yapıyor"
 date: '2026-04-22T13:00:00Z'
 category: Lojistik
 secondaryCategories:

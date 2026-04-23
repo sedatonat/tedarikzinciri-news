@@ -1,5 +1,5 @@
 ---
-title: "Hindistan; Devlet Destekli Konteyner Hattını Faaliyete Geçirmekte"
+title: "Hindistan; Devlet Destekli Konteyner Hattını Faaliyete Geçiriyor"
 date: '2026-02-05T09:00:00Z'
 category: Lojistik
 secondaryCategories:

@@ -1,5 +1,5 @@
 ---
-title: "Birleşik Krallık'ta Pompa Yakıt Hırsızlıkları, Fiyatlar Artmakta İken Fırlamakta"
+title: "Birleşik Krallık'ta Pompa Yakıt Hırsızlıkları, Fiyatlar Artıyorken Fırlıyor"
 subtitle: "Pay My Fuel Verisi: %62 Yıllık Artış; Forecourt Eye 2022 Ukrayna Üstü; Aile Aracı £14, Dizel £27 Tank Fazlalığı; Pompa Çalışanlarına Saldırı Sıçraması"
 date: '2026-04-22T14:00:00Z'
 category: Lojistik

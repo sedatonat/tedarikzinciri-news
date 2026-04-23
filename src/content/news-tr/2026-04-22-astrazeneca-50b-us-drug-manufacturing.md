@@ -1,5 +1,5 @@
 ---
-title: "AstraZeneca ABD İlaç Üretimine 50 Milyar Dolar Taahhüt Etmekta"
+title: "AstraZeneca ABD İlaç Üretimine 50 Milyar Dolar Taahhüt Ediyor"
 date: '2026-04-22T22:55:00Z'
 category: Tedarik Zinciri
 secondaryCategories: []

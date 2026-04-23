@@ -1,5 +1,5 @@
 ---
-title: "İzlanda; İngiliz Market Zinciri ile Marka Mücadelesini Kazanmakta"
+title: "İzlanda; İngiliz Market Zinciri ile Marka Mücadelesini Kazanıyor"
 date: '2026-03-06T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

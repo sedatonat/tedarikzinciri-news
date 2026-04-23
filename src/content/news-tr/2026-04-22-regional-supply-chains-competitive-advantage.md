@@ -1,5 +1,5 @@
 ---
-title: "Bölgesel Tedarik Zincirleri, Rekabetçi Avantaj Haline Gelmekte İken"
+title: "Bölgesel Tedarik Zincirleri, Rekabetçi Avantaj Haline Geliyorken"
 subtitle: "Pandemi Dönüm Noktası: Tek Ülke Bağımlılığı Kırılganlığı; Şirketler Bölgesel Üretime Kaymakta; Riski Azaltmakta; Jeopolitik/Ticaret/Doğal Afet Maruziyeti; Pazara Yakın Üretim/Sourcing"
 date: '2026-04-22T09:00:00Z'
 category: Tedarik Zinciri

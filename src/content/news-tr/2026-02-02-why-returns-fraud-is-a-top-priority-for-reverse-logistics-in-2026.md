@@ -1,5 +1,5 @@
 ---
-title: "İade Sahtekarlığı; 2026'da Tersine Lojistik İçin Birinci Öncelik Olmakta"
+title: "İade Sahtekarlığı; 2026'da Tersine Lojistik İçin Birinci Öncelik Oluyor"
 date: '2026-02-02T09:00:00Z'
 category: Envanter
 secondaryCategories:

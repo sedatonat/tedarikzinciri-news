@@ -1,5 +1,5 @@
 ---
-title: "AB, De Minimis Muafiyetlerini Sona Erdirmekte Zaman Çizelgesini Öne Çekmekte"
+title: "AB, De Minimis Muafiyetlerini Sona Erdiren Zaman Çizelgesini Öne Çekiyor"
 date: '2026-04-22T15:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

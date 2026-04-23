@@ -1,5 +1,5 @@
 ---
-title: "Jaguar Land Rover Siber Saldırısı U.K. Araç Üretiminde %27 Düşüşe Neden Olmakta"
+title: "Jaguar Land Rover Siber Saldırısı U.K. Araç Üretiminde %27 Düşüşe Neden Oluyor"
 date: '2026-04-22T07:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

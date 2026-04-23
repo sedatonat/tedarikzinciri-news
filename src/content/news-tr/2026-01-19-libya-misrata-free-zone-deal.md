@@ -1,5 +1,5 @@
 ---
-title: "Libya, Misrata Serbest Bölgesini Geliştirmek İçin 2,7 Milyar Dolarlık Çok Uluslu Anlaşma İmzalamakta"
+title: "Libya, Misrata Serbest Bölgesini Geliştirmek İçin 2,7 Milyar Dolarlık Çok Uluslu Anlaşma İmzalıyor"
 subtitle: "Katar, İtalya ve İsviçre Sermayesi Akdeniz'in Kritik Konteyner Limanı Kapasitesini 4 Milyona Çıkarmakta"
 date: '2026-01-19T09:00:00Z'
 category: Lojistik

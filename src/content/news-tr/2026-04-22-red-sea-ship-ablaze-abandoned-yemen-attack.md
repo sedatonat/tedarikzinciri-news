@@ -1,5 +1,5 @@
 ---
-title: "Kızıldeniz Gemisi Yemen Yakınında Saldırı Sonrası Ateşe Verilmekta ve Terk Edilmekta"
+title: "Kızıldeniz Gemisi Yemen Yakınında Saldırı Sonrası Ateşe Veriliyor ve Terk Ediliyor"
 date: '2026-04-22T23:45:00Z'
 category: Lojistik
 secondaryCategories: []

@@ -1,5 +1,5 @@
 ---
-title: "Lojistik Şirketleri Neden Araştırma ve İnovasyon Merkezleri Yakınında Konumlanmakta"
+title: "Lojistik Şirketleri Neden Araştırma ve İnovasyon Merkezleri Yakınında Konumlanıyor"
 date: '2026-04-22T19:00:00Z'
 category: Lojistik
 secondaryCategories:

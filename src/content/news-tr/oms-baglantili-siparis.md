@@ -1,5 +1,5 @@
 ---
-title: 'OMS Manzarası Değişmekte: Bağlantılı Sipariş Yönetimi'
+title: "OMS Manzarası Değişiyor: Bağlantılı Sipariş Yönetimi"
 subtitle: 'OMS Manzarası Değişmekte: Bağlantılı Sipariş Yönetimi'
 date: '2025-04-29T09:00:00Z'
 category: Tedarik Zinciri

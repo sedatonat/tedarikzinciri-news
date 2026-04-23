@@ -1,5 +1,5 @@
 ---
-title: "ABD Perakendecileri Tedariki Çin'den Uzaklaştırmaya Çalışmakta"
+title: "ABD Perakendecileri Tedariki Çin'den Uzaklaştırmaya Çalışıyor"
 date: '2026-04-22T23:50:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

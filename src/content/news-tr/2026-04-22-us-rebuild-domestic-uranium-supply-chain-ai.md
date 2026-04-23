@@ -1,5 +1,5 @@
 ---
-title: "AI Gelişimini Desteklemekte İçin U.S. Yerli Uranyum Tedarik Zincirini Yeniden İnşa Etmekte Olunması Gerekmekte"
+title: "AI Gelişimini Desteklemek için U.S. Yerli Uranyum Tedarik Zincirini Yeniden İnşa Edilmesi Gerekiyor"
 date: '2026-04-22T18:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

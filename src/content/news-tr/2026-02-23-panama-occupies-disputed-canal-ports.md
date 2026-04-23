@@ -1,5 +1,5 @@
 ---
-title: "Panama, İhtilaflı İki Kanal Limanını Kontrol Altına Almakta"
+title: "Panama, İhtilaflı İki Kanal Limanını Kontrol Altına Alıyor"
 subtitle: "Hükümet Kararnameyle Balboa ve Cristobal'i CK Hutchison'dan Geri Almakta; APM Terminals Geçiş Hattı Belirsizleşmekte"
 date: '2026-02-23T10:00:00Z'
 category: Tedarik Zinciri

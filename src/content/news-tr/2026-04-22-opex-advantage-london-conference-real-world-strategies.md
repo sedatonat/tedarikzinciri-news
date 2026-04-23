@@ -1,5 +1,5 @@
 ---
-title: "OPEX Avantajı Londra Konferansı Gerçek Dünya Stratejileri Sunmakta"
+title: "OPEX Avantajı Londra Konferansı Gerçek Dünya Stratejileri Sunuyor"
 date: '2026-04-23T00:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

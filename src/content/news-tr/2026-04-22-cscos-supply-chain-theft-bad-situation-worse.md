@@ -1,5 +1,5 @@
 ---
-title: "CSCO'lar ve Tedarik Zinciri Hırsızlığı Kötü Bir Durumu Daha da Kötüleştirmekta"
+title: "CSCO'lar ve Tedarik Zinciri Hırsızlığı Kötü Bir Durumu Daha da Kötüleştiriyor"
 date: '2026-04-22T23:57:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

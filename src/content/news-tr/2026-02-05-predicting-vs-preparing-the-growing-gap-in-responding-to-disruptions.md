@@ -1,5 +1,5 @@
 ---
-title: "Tahmin Etmek ve Hazırlık Yapmak: Aksaklıklara Yanıt Vermede Büyümekta Boşluk"
+title: "Tahmin Etmek ve Hazırlık Yapmak: Aksaklıklara Yanıt Vermede Büyüyen Boşluk"
 date: '2026-02-05T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

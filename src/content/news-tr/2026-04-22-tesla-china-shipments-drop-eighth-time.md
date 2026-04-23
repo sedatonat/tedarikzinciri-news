@@ -1,5 +1,5 @@
 ---
-title: "Tesla Çin Sevkiyatları 10 Ayın Sekizincisinde Düşmekte"
+title: "Tesla Çin Sevkiyatları 10 Ayın Sekizincisinde Düşüyor"
 date: '2026-04-22T14:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

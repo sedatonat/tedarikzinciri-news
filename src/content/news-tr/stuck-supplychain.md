@@ -1,5 +1,5 @@
 ---
-title: Tedarik Zinciriniz Başlamadan Neden Tıkanmakta
+title: Tedarik Zinciriniz Başlamadan Neden Tıkanıyor
 subtitle: Tedarik Zinciriniz Başlamadan Neden Tıkanmakta
 date: '2025-09-03T00:00:00Z'
 category: Tedarik Zinciri

@@ -1,5 +1,5 @@
 ---
-title: "Amazon Fiyat Kontrolleri Almanya Düzenleyicilerinin Hedefinde Olmakta"
+title: "Amazon Fiyat Kontrolleri Almanya Düzenleyicilerinin Hedefinde"
 date: '2026-04-22T23:55:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

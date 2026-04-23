@@ -1,5 +1,5 @@
 ---
-title: "Lojistik Profesyonelleri Okyanus İstikrarını İnşa Etmeye Nasıl Hazırlanmakta Olmalı"
+title: "Lojistik Profesyonelleri Okyanus İstikrarını İnşa Etmeye Nasıl Hazırlanan Olmalı"
 date: '2026-02-02T09:00:00Z'
 category: Lojistik
 secondaryCategories:

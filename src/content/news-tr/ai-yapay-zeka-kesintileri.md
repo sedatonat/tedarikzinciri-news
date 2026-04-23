@@ -1,5 +1,5 @@
 ---
-title: Yapay Zekâ Kesintileri Çukurlar Değil Tümsekler Yapmakta
+title: Yapay Zekâ Kesintileri Çukurlar Değil Tümsekler Yapıyor
 subtitle: Yapay Zekâ Kesintileri Çukurlar Değil Tümsekler Yapmakta
 date: '2025-08-19T09:00:00Z'
 category: Teknoloji

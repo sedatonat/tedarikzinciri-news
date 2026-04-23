@@ -1,5 +1,5 @@
 ---
-title: "Karayolu Taşıma Kapasitesi Daralmakta; Yükleten Şirketler Baskı Altına Girmekte"
+title: "Karayolu Taşıma Kapasitesi Daralıyor; Yükleten Şirketler Baskı Altına Giriyor"
 date: '2026-02-04T09:00:00Z'
 category: Lojistik
 secondaryCategories:

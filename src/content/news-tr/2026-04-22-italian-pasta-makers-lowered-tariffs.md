@@ -1,5 +1,5 @@
 ---
-title: "İtalyan Makarna Üreticileri Sonuçta Daha Düşük Ek Tarifeler Almakta"
+title: "İtalyan Makarna Üreticileri Sonuçta Daha Düşük Ek Tarifeler Alıyor"
 subtitle: "Trump %92 Tehdidi/DoC İncelemesi/Italy Government Jan 1: %15 Mevcut Ek %2-4 Guardian; 13 Üretici Barilla/La Molisana/Pastificio Lucio Garofalo Adil Olmayan Düşük Fiyat Suçlaması; Antidumping Soruşturma"
 date: '2026-04-22T15:00:00Z'
 category: Tedarik Zinciri

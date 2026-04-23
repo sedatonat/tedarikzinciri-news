@@ -1,5 +1,5 @@
 ---
-title: 'Podcast: Son Kilometrede İnşa Et Mi Satın Al Mı?'
+title: "Podcast: Son Kilometrede İnşa Et mi Satın Al mı?"
 subtitle: 'Podcast: Son Kilometrede İnşa Et Mi Satın Al Mı?'
 date: '2025-04-15T00:00:00Z'
 category: Lojistik

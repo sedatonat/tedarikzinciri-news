@@ -1,5 +1,5 @@
 ---
-title: "ABD Senatosu; Eski Maersk Yöneticisi Stephen Carmel'i Denizcilik İdaresi Başkanı Olarak Onaylamakta"
+title: "ABD Senatosu; Eski Maersk Yöneticisi Stephen Carmel'i Denizcilik İdaresi Başkanı Olarak Onaylıyor"
 date: '2025-12-22T09:00:00Z'
 category: Lojistik
 secondaryCategories:

@@ -1,5 +1,5 @@
 ---
-title: "Tesla, Model 3 Acil Durum Kapı Kollarına Dair U.S. Soruşturmasıyla Karşı Karşıya Kalmakta"
+title: "Tesla, Model 3 Acil Durum Kapı Kollarına Dair U.S. Soruşturmasıyla Karşı Karşıya Kalıyor"
 subtitle: "NHTSA/Bloomberg: Mekanik Kapı Açma Gizli/Etiketsiz/Sezgisel Değil; Kevin Clouse Georgia Petisyon 2023; M. Scott Brauer Photo Seattle Logistics; Federal Auto Safety Regulator İnceleme"
 date: '2026-04-22T13:00:00Z'
 category: Lojistik

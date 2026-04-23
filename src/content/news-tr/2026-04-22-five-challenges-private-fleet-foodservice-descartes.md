@@ -1,5 +1,5 @@
 ---
-title: "Özel Filo Yiyecek Hizmeti Dağıtıcılarını Karşı Karşıya Bırakmakta Beş Zorluk"
+title: "Özel Filo Yiyecek Hizmeti Dağıtıcılarını Karşı Karşıya Bırakan Beş Zorluk"
 date: '2026-04-22T11:00:00Z'
 category: Lojistik
 secondaryCategories:

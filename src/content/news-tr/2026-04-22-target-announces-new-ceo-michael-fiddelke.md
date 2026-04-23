@@ -1,5 +1,5 @@
 ---
-title: "Target Yeni CEO Atamakta"
+title: "Target Yeni CEO Atıyor"
 date: '2026-04-22T23:50:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

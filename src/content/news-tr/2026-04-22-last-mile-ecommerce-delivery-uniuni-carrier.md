@@ -1,5 +1,5 @@
 ---
-title: "Son Mil E-Ticaret Teslimatı Değişmiş İken: Şimdi Bir Taşıyıcıda Aranmakta Olunması Gerekenler"
+title: "Son Mil E-Ticaret Teslimatı Değişmiş İken: Şimdi Bir Taşıyıcıda Aranması gerekenler"
 subtitle: "UniUni Q2'26 Top 5: Güvenilirlik Hızı Geçmekte; Tarife Şeffaflığı; Ölçeklenebilir Ağlar Talep Sıçramaları için; Veri Bütünlüğü Çoklu Eller Arasında; Hibrit Taşıyıcı Stratejisi"
 date: '2026-04-22T07:00:00Z'
 category: Lojistik

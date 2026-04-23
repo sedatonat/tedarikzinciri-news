@@ -1,5 +1,5 @@
 ---
-title: "Sürüklenmekta Tanker; Trump&rsquo;ın Venezuela Petrolünü Canlandırma Planı için Büyük Engeli Ortaya Koymakta"
+title: "Sürüklenen Tanker; Trump&rsquo;ın Venezuela Petrolünü Canlandırma Planı için Büyük Engeli Ortaya Koyuyor"
 date: '2026-01-10T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

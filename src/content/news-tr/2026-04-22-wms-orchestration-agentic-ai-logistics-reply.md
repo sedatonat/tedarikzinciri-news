@@ -1,5 +1,5 @@
 ---
-title: "Depo Yönetim Sistemi Orkestrasyonu, Ajansal Yapay Zeka ile Optimize Edilmekte"
+title: "Depo Yönetim Sistemi Orkestrasyonu, Ajansal Yapay Zeka ile Optimize Ediliyor"
 subtitle: "Logistics Reply Kolber: WMS Bütünü Görmekte Olamamakta; 'Şemsiye Seviyesi' Farkındalık; Gerçek Zamanlı Karar İçin AI Kritik; Optimal Maliyet Vurgusu"
 date: '2026-04-22T15:00:00Z'
 category: Lojistik

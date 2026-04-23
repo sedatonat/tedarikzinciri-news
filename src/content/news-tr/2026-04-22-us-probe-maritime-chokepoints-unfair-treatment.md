@@ -1,5 +1,5 @@
 ---
-title: "ABD'nin Deniz Darboğazı Soruşturması, Adaletsiz Muamele Kanıtı Aramakta"
+title: "ABD'nin Deniz Darboğazı Soruşturması, Adaletsiz Muamele Kanıtı Arıyor"
 date: '2026-04-22T23:55:30Z'
 category: Lojistik
 secondaryCategories:

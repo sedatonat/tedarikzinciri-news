@@ -1,5 +1,5 @@
 ---
-title: "ABD Konteyner Hacimleri Tarife Aksaklığında Keskin Tersine Dönüş İçin Hazırlanmakta"
+title: "ABD Konteyner Hacimleri Tarife Aksaklığında Keskin Tersine Dönüş İçin Hazırlanıyor"
 date: '2026-04-22T22:50:00Z'
 category: Lojistik
 secondaryCategories:

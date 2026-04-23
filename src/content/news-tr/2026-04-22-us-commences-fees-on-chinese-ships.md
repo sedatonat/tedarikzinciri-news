@@ -1,5 +1,5 @@
 ---
-title: "U.S. Çinli Gemilere Ücret Uygulamakta Başlamakta"
+title: "U.S. Çinli Gemilere Ücret Uygulayan Başlıyor"
 date: '2026-04-22T01:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

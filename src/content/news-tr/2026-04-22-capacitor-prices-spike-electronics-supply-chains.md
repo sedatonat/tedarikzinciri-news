@@ -1,5 +1,5 @@
 ---
-title: "Kapasitör Fiyatlarındaki Sıçrama, Elektronik Tedarik Zincirlerini Etkilemekte"
+title: "Kapasitör Fiyatlarındaki Sıçrama, Elektronik Tedarik Zincirlerini Etkiliyor"
 subtitle: "Supplyframe Rimkeit: Q2'de %14 Talep Artışı; AI Veri Merkezi Ana İtici Güç; Yıllık -%31 Sonrası Trend Tersine Dönmekte; China-Plus-One Sınırlı"
 date: '2026-04-22T16:00:00Z'
 category: Tedarik Zinciri

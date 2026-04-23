@@ -1,5 +1,5 @@
 ---
-title: "ABD Limanlarında Yaklaşan Kriz Belirmekta"
+title: "ABD Limanlarında Yaklaşan Kriz Beliriyor"
 date: '2026-04-22T23:55:30Z'
 category: Lojistik
 secondaryCategories:

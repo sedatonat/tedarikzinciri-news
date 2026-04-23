@@ -1,5 +1,5 @@
 ---
-title: "Husiler Kızıldeniz'de Saldırıları Yeniden Başlatma Tehdidi Yapmakta"
+title: "Husiler Kızıldeniz'de Saldırıları Yeniden Başlatma Tehdidi Yapıyor"
 date: '2026-04-22T23:56:30Z'
 category: Lojistik
 secondaryCategories:

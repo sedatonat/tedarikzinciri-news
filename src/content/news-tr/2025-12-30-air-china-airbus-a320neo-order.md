@@ -1,5 +1,5 @@
 ---
-title: "Air China, 9,53 Milyar Dolarlık Anlaşma ile 60 Adet Airbus A320neo Satın Almakta"
+title: "Air China, 9,53 Milyar Dolarlık Anlaşma ile 60 Adet Airbus A320neo Satın Alıyor"
 subtitle: "Shanghai Borsasına Bildirilen İşlem, Çin'in Batılı Uçaklara Bağımlılığını Derinleştirmekte"
 date: '2025-12-30T09:00:00Z'
 category: Lojistik

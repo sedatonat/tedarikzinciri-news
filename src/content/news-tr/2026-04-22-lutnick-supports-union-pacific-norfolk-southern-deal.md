@@ -1,5 +1,5 @@
 ---
-title: "Lutnick Union Pacific-Norfolk Southern Anlaşmasına Destek Sinyali Vermekta"
+title: "Lutnick Union Pacific-Norfolk Southern Anlaşmasına Destek Sinyali Veriyor"
 date: '2026-04-22T23:55:00Z'
 category: Lojistik
 secondaryCategories:

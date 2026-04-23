@@ -1,5 +1,5 @@
 ---
-title: "DP World, 2025'te Rekor Gelir ve Kazanç Bildirmekte"
+title: "DP World, 2025'te Rekor Gelir ve Kazanç Bildiriyor"
 subtitle: "Gelir %22 Artarak 24,4 Mlr Dolara, EBITDA %18 Yükselerek 6,4 Mlr Dolara, Throughput 93,4 Mn TEU'ya Çıkmakta; Capex 3,1 Mlr Dolar"
 date: '2026-03-13T09:00:00Z'
 category: Tedarik Zinciri

@@ -1,5 +1,5 @@
 ---
-title: "AB-ABD Ticaret Anlaşması Avrupa Liderlerinden Karışık Tepkiler Almakta"
+title: "AB-ABD Ticaret Anlaşması Avrupa Liderlerinden Karışık Tepkiler Alıyor"
 date: '2026-04-22T23:10:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

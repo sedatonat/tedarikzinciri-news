@@ -1,5 +1,5 @@
 ---
-title: "Safran, Hindistan'dan Tedariki 2030'a Kadar %400 Artırmakta Planlamakta"
+title: "Safran, Hindistan'dan Tedariki 2030'a Kadar %400 Artıran Planlıyor"
 date: '2026-04-22T10:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

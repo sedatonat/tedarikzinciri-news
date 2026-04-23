@@ -1,5 +1,5 @@
 ---
-title: "Savaş Kaynaklı Helyum Kıtlığı, Yüksek Teknoloji Üreticileri ve Diğerleri İçin Yaklaşmakta"
+title: "Savaş Kaynaklı Helyum Kıtlığı, Yüksek Teknoloji Üreticileri ve Diğerleri İçin Yaklaşıyor"
 subtitle: "Moody's: Katar %30 Yüksek Saflıkta Helyum Sağlamakta; AI/Yarı İletken Tedarik Zinciri Açıkta; Samsung-SK Hynix Haziran'a Dek Yetecek Stok"
 date: '2026-04-22T07:00:00Z'
 category: Tedarik Zinciri

@@ -1,5 +1,5 @@
 ---
-title: "Husiler Aden Körfezinde Hollanda Bayraklı Gemiye Saldırmakta"
+title: "Husiler Aden Körfezinde Hollanda Bayraklı Gemiye Saldırıyor"
 date: '2026-04-22T12:00:00Z'
 category: Lojistik
 secondaryCategories:

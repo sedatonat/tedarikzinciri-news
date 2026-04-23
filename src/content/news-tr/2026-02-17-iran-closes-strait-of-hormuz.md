@@ -1,5 +1,5 @@
 ---
-title: "İran, Hürmüz Boğazı'nı Geçici Olarak Kapatmakta"
+title: "İran, Hürmüz Boğazı'nı Geçici Olarak Kapatıyor"
 subtitle: "Devrim Muhafızları'nın 'Smart Control' Tatbikatı, Küresel Petrol Akışının %31'inin Geçtiği Boğazı Etkilemekte"
 date: '2026-02-17T09:00:00Z'
 category: Tedarik Zinciri

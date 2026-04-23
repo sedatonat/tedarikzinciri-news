@@ -1,5 +1,5 @@
 ---
-title: "U.S. AB Otomobillerine Tarifeleri %15'e İndirmekte; Ticaret Anlaşması Şartlarını Sağlamlaştırmakta"
+title: "U.S. AB Otomobillerine Tarifeleri %15'e İndiriyor; Ticaret Anlaşması Şartlarını Sağlamlaştırıyor"
 date: '2026-04-22T14:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

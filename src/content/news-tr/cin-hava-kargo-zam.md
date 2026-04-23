@@ -1,5 +1,5 @@
 ---
-title: Yeni ABD Tarifesi Öncesi Çin Hava Kargo Talebi ve Fiyatları Yükselmekte
+title: Yeni ABD Tarifesi Öncesi Çin Hava Kargo Talebi ve Fiyatları Yükseliyor
 subtitle: Yeni ABD Tarifesi Öncesi Çin Hava Kargo Talebi ve Fiyatları Yükselmekte
 date: '2025-10-20T09:00:00Z'
 category: Lojistik

@@ -1,5 +1,5 @@
 ---
-title: "Trump Yönetimi, Peru'yu Çinli Limanın Egemenliğine Mal Olduğu Konusunda Uyarmakta"
+title: "Trump Yönetimi, Peru'yu Çinli Limanın Egemenliğine Mal Olduğu Konusunda Uyarıyor"
 subtitle: "Cosco Tarafından İşletilmekte Olan 1,3 Milyar Dolarlık Chancay, Washington-Pekin Çekişmesinin Yeni Cephesi Olmakta"
 date: '2026-02-12T09:00:00Z'
 category: Tedarik Zinciri

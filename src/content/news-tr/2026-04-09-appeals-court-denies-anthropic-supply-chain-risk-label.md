@@ -1,5 +1,5 @@
 ---
-title: "Temyiz Mahkemesi, Anthropic'in 'Tedarik Zinciri Riski' Etiketini Kaldırma Talebini Reddetmekte"
+title: "Temyiz Mahkemesi, Anthropic'in 'Tedarik Zinciri Riski' Etiketini Kaldırma Talebini Reddetiyor"
 subtitle: "DC Paneli 8 Nisan Kararı: DOD Sözleşme Yasağı Sürmekte; Trump Atadığı 2 Hâkim Hükümet Lehine Tartmakta, Hızlandırılmış Yargılama Önerilmekte"
 date: '2026-04-09T09:00:00Z'
 category: Tedarik Zinciri

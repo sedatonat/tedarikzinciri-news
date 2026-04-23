@@ -1,5 +1,5 @@
 ---
-title: "Basra Körfezi'nde Konteyner Gemisi Füzeyle Vurulmakta"
+title: "Basra Körfezi'nde Konteyner Gemisi Füzeyle Vuruluyor"
 subtitle: "UKMTO Raporu: Kish Adası'nın 25 Mil Güneyinde Olay; Su Hattı Üstünde Hasar, Mürettebat Güvende, Çevresel Etki Yok"
 date: '2026-04-07T09:00:00Z'
 category: Tedarik Zinciri

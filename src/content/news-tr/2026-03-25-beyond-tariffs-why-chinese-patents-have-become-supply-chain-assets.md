@@ -1,5 +1,5 @@
 ---
-title: "Tarifelerin Ötesinde: Çin Patentleri Neden Tedarik Zinciri Varlıklarına Dönüşmekte?"
+title: "Tarifelerin Ötesinde: Çin Patentleri Neden Tedarik Zinciri Varlıklarına Dönüşüyor?"
 date: '2026-03-25T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

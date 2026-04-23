@@ -1,5 +1,5 @@
 ---
-title: "Gümrük Sınıflandırması Neden Bozuk; Yapay Zekâ Bunu Nasıl Düzeltebilmekte?"
+title: "Gümrük Sınıflandırması Neden Bozuk; Yapay Zekâ Bunu Nasıl Düzeltebiliyor?"
 date: '2026-01-02T09:00:00Z'
 category: Satınalma
 secondaryCategories:

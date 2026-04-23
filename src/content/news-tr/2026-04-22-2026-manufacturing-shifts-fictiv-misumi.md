@@ -1,5 +1,5 @@
 ---
-title: "Yok Saymakta Olunamamakta Olan 2026 İmalat Kaymaları"
+title: "Görmezden Gelinemeyecek 2026 İmalat Kaymaları"
 date: '2026-04-22T05:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

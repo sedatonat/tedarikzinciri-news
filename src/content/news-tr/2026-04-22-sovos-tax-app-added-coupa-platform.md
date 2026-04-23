@@ -1,5 +1,5 @@
 ---
-title: "Sovos Vergi Uygulaması, Coupa Platformuna Eklenmekte"
+title: "Sovos Vergi Uygulaması, Coupa Platformuna Ekleniyor"
 subtitle: "Tax Determination Connector Coupa App Marketplace'te: Gerçek Zamanlı U.S. Sales & Use Tax Hesaplama/Doğrulama; Invoicing Platformunda Manuel Vergi Girişi Elimine; Header/Line Düzey Doğrulama; Kevin Akeroyd CEO Açıklamakta"
 date: '2026-04-22T11:00:00Z'
 category: Tedarik Zinciri

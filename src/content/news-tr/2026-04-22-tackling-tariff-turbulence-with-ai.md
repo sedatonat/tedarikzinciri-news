@@ -1,5 +1,5 @@
 ---
-title: "Tarife Türbülansı ile AI ile Mücadele Etmekte"
+title: "Tarife Türbülansı ile AI ile Mücadele Ediyor"
 date: '2026-04-22T22:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

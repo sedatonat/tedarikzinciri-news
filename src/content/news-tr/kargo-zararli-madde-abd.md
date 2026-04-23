@@ -1,5 +1,5 @@
 ---
-title: 'ABD’de Proje Kargosunda Zararlı Tespiti Yaptırımları Artıyor: İthalatçılar İçin Maliyet Baskısı Yükselmekte'
+title: "ABD’de Proje Kargosunda Zararlı Tespiti Yaptırımları Artıyor: İthalatçılar İçin Maliyet Baskısı Yükseliyor"
 subtitle: 'ABD’de Proje Kargosunda Zararlı Tespiti Yaptırımları Artıyor: İthalatçılar İçin Maliyet Baskısı Yükselmekte'
 date: '2025-11-10T09:00:00Z'
 category: Lojistik

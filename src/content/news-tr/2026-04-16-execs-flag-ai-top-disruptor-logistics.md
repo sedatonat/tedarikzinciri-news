@@ -1,5 +1,5 @@
 ---
-title: "Tedarik Zinciri Yöneticileri, Yapay Zekayı Lojistik Sektörünün En Önemli Dönüştürücüsü Olarak Göstermekte"
+title: "Tedarik Zinciri Yöneticileri, Yapay Zekayı Lojistik Sektörünün En Önemli Dönüştürücüsü Olarak Gösteriyor"
 subtitle: "MHI-Deloitte Anketi: %70+ Yapay Zeka En Yıkıcı; %41 Halihazırda Kullanmakta; Paxton MODEX 2026'da Bağlı, Akıllı, Otomatik Ağ Vurgulamakta"
 date: '2026-04-16T09:00:00Z'
 category: Lojistik

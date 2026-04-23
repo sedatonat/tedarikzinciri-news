@@ -1,5 +1,5 @@
 ---
-title: Donanım Barkod Okuyucular Miadını Dolduruyor Mu?
+title: Donanım Barkod Okuyucular Miadını Dolduruyor mu?
 subtitle: Donanım Barkod Okuyucular Miadını Dolduruyor Mu?
 date: '2025-03-06T09:00:00Z'
 category: Envanter

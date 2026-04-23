@@ -1,5 +1,5 @@
 ---
-title: "İran Savaşı, Konteyner Gemisi Trafiğini ve Tarifeleri Çalkalamakta"
+title: "İran Savaşı, Konteyner Gemisi Trafiğini ve Tarifeleri Çalkalıyor"
 subtitle: "CMA CGM ve Maersk Umman, BAE, Suudi Arabistan'a Yön Çevirmekte; Hindistan Üzerinden Shuttle, Acil Yakıt Sürşarjı FEU Başına Yüzlerce Dolar"
 date: '2026-03-18T09:00:00Z'
 category: Tedarik Zinciri

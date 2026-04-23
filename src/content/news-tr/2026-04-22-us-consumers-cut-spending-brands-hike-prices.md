@@ -1,5 +1,5 @@
 ---
-title: "ABD Tüketicileri Markalar Fiyatları Yükseltirken Harcamalarını Kesmekta"
+title: "ABD Tüketicileri Markalar Fiyatları Yükseltirken Harcamalarını Kesiyor"
 date: '2026-04-22T23:30:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

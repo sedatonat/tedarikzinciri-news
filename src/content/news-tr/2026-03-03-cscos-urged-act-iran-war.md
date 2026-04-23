@@ -1,5 +1,5 @@
 ---
-title: "CSCO'lar İran Savaşına Karşı Hızla Harekete Geçmekte Olmaya Çağrılmakta"
+title: "CSCO'lar İran Savaşına Karşı Hızla Harekete Geçmeye Çağrılıyor"
 subtitle: "Gartner'dan Gonzalez: 12 Aylık Aksama, %40+ Tarife Artışı, Savaş Sürşarjları ve Bölgesel Lojistik Yeniden Tasarımı Beklenmekte"
 date: '2026-03-03T09:00:00Z'
 category: Tedarik Zinciri

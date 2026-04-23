@@ -1,5 +1,5 @@
 ---
-title: "Hava Trafik Kontrol Sendikası FAA İşten Çıkarmalarının Güvenlik Etkisini Analiz Etmekta"
+title: "Hava Trafik Kontrol Sendikası FAA İşten Çıkarmalarının Güvenlik Etkisini Analiz Ediyor"
 date: '2026-04-22T23:58:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

@@ -1,5 +1,5 @@
 ---
-title: "Yükselmekta Birleşik Krallık Nakliye Maliyetleri Yeni Bir Fiyat Şoku Vermekta Tehdidinde Bulunmakta"
+title: "Yükselen Birleşik Krallık Nakliye Maliyetleri Yeni Bir Fiyat Şoku Veren Tehdidinde Bulunuyor"
 date: '2026-04-22T23:40:00Z'
 category: Lojistik
 secondaryCategories:

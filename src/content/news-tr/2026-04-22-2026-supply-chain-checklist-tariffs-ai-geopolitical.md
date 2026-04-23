@@ -1,5 +1,5 @@
 ---
-title: "2026 Tedarik Zinciri Kontrol Listesi: Tarifeler, Yapay Zeka ve Jeopolitik Belirsizliğe Hazırlanmakta İçin Nasıl?"
+title: "2026 Tedarik Zinciri Kontrol Listesi: Tarifeler, Yapay Zeka ve Jeopolitik Belirsizliğe Hazırlanmak için Nasıl?"
 subtitle: "Yeni Dönem - Sürekli Aksaklık; Tarifler/Jeopolitik/Düzenleyici Salınım/Siber Risk/İklim; Eski Sistemler Yetersiz; Esneklik/Çeviklik/Karlılık Yol Haritası; Pratik Kıyaslama Aracı"
 date: '2026-04-22T08:00:00Z'
 category: Tedarik Zinciri

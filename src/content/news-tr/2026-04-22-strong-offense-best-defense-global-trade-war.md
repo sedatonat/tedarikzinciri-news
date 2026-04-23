@@ -1,5 +1,5 @@
 ---
-title: "Küresel Bir Ticaret Savaşında Güçlü Saldırı En İyi Savunma Olmakta"
+title: "Küresel Bir Ticaret Savaşında Güçlü Saldırı En İyi Savunma Oluyor"
 date: '2026-04-23T00:00:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

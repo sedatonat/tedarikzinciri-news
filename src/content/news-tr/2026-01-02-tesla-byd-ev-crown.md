@@ -1,5 +1,5 @@
 ---
-title: "Tesla EV Tacını BYD'ye Kaptırmakta, Yıllık Satışlar İkinci Kez Gerilemekte"
+title: "Tesla EV Tacını BYD'ye Kaptırıyor, Yıllık Satışlar İkinci Kez Geriliyor"
 subtitle: "BYD 2025'te 2,26 Milyon EV Teslim Etmekte, Tesla 1,64 Milyonda Kalmakta"
 date: '2026-01-02T09:00:00Z'
 category: Tedarik Zinciri

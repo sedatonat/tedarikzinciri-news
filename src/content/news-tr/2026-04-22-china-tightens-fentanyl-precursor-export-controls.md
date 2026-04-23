@@ -1,5 +1,5 @@
 ---
-title: "Çin, Fentanil Öncül Kimyasallar için İhracat Kontrollerini Sıkılaştırmakta"
+title: "Çin, Fentanil Öncül Kimyasallar için İhracat Kontrollerini Sıkılaştırıyor"
 date: '2026-04-22T19:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

@@ -1,5 +1,5 @@
 ---
-title: "ESG Hâlâ İlgili Olmakta mı?"
+title: "ESG Hâlâ İlgili Oluyor mu?"
 date: '2026-04-22T23:59:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

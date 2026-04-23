@@ -1,5 +1,5 @@
 ---
-title: "Amazon Kuzey Koreli Şüpheli Ajanların İş Başvurularını Engellemekte"
+title: "Amazon Kuzey Koreli Şüpheli Ajanların İş Başvurularını Engelliyor"
 subtitle: "Amazon Uzaktan BT Pozisyonları İçin 1.800'den Fazla Sahte Kimlikli Başvuruyu Engellemekte"
 date: '2025-12-23T09:00:00Z'
 category: Teknoloji

@@ -1,5 +1,5 @@
 ---
-title: "Japonya; Dünyanın İlk Derin Deniz Nadir Toprak Madenciliği Misyonunu Başlatmakta"
+title: "Japonya; Dünyanın İlk Derin Deniz Nadir Toprak Madenciliği Misyonunu Başlatıyor"
 date: '2026-01-13T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

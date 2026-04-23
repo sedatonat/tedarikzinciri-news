@@ -1,5 +1,5 @@
 ---
-title: "ROI Çarpanı: Robotları Minimize Etmekte Throughput ve Tasarrufları Nasıl Maksimize Etmekte"
+title: "ROI Çarpanı: Robotları Minimize Eden Throughput ve Tasarrufları Nasıl Maksimize Ediyor"
 date: '2026-04-22T12:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

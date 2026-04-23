@@ -1,5 +1,5 @@
 ---
-title: "Trump: ABD, İran Savaşında Petrol Tankerlerine Refakat ve Sigorta Sağlamakta Olacak"
+title: "Trump: ABD, İran Savaşında Petrol Tankerlerine Refakat ve Sigorta Sağlayacak"
 subtitle: "DFC Sigorta Garantisi, ABD Donanması Hürmüz Refakati Devreye Girmekte; Brent Yaklaşık 80 Dolar Seviyesinde"
 date: '2026-03-03T10:00:00Z'
 category: Tedarik Zinciri

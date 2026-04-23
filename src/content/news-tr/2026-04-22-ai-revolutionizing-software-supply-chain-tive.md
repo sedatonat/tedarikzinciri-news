@@ -1,5 +1,5 @@
 ---
-title: "Tedarik Zincirinde Yapay Zeka, Yazılımı 'Devrimleştirmekte' İken"
+title: "Tedarik Zincirinde Yapay Zeka, Yazılımı Devrim Yaratıyorken"
 subtitle: "Tive CEO Komoni: Sistem 'Kayıt'tan 'Eylem'e; Claude Sıfırdan Kod Yazmakta; Üç Kazanma Yolu - Veri, Fiziksel Ürün, Müşteri İlişkisi; Soğutucu Konteyner Alarm Örneği"
 date: '2026-04-22T20:00:00Z'
 category: Tedarik Zinciri

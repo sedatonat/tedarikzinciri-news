@@ -1,5 +1,5 @@
 ---
-title: "Patlayıcı Talep Büyümesini Karşılamakta için Bir Deponun Modernleştirilmesi"
+title: "Patlayıcı Talep Büyümesini Karşılamak için Bir Deponun Modernleştirilmesi"
 date: '2026-04-22T23:25:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

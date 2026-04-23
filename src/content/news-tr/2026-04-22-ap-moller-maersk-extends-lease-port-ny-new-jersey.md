@@ -1,5 +1,5 @@
 ---
-title: "A.P. Moller-Maersk NY ve New Jersey Limanı'nda Kira Sözleşmesini Uzatmakta"
+title: "A.P. Moller-Maersk NY ve New Jersey Limanı'nda Kira Sözleşmesini Uzatıyor"
 date: '2026-04-22T23:53:00Z'
 category: Lojistik
 secondaryCategories:

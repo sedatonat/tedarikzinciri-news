@@ -1,5 +1,5 @@
 ---
-title: "ATC Personel Eksiklikleri Uçuş Gecikmelerine Neden Olmakta"
+title: "ATC Personel Eksiklikleri Uçuş Gecikmelerine Neden Oluyor"
 date: '2026-04-22T07:00:00Z'
 category: Lojistik
 secondaryCategories:

@@ -1,5 +1,5 @@
 ---
-title: "Tarifeler Şirketlerin Karlarını Şişirme Kapısını Açabilmekta"
+title: "Tarifeler Şirketlerin Karlarını Şişirme Kapısını Açabiliyor"
 date: '2026-04-22T23:58:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

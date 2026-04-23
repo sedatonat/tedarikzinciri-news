@@ -1,5 +1,5 @@
 ---
-title: "Beyaz Saray, Yeniden İhraç Edilmekte Olan AI Çiplerine %25 Tarife Uygulamakta"
+title: "Beyaz Saray, Yeniden İhraç Edilen Olan AI Çiplerine %25 Tarife Uyguluyor"
 subtitle: "Nvidia ve AMD Yurt Dışı Üretiminin Hedefte Olduğu Düzenleme 15 Ocak'ta Yürürlüğe Girmekte"
 date: '2026-01-15T10:00:00Z'
 category: Tedarik Zinciri

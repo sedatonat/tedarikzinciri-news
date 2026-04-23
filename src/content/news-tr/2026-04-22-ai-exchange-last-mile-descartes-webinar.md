@@ -1,5 +1,5 @@
 ---
-title: "AI Exchange: Son Mil İçinde - AI, Teslimat Etkileşimi ve Zamanında ve Tam Olmakta için Yeni Standart"
+title: "AI Exchange: Son Mil İçinde - AI, Teslimat Etkileşimi ve Zamanında ve Tam Olarak Yeni Standart"
 subtitle: "Descartes Webinar 30 Nisan 2026: Statik Servis Süresi Varsayımları Yetersiz; Sipariş Boyutu/Ürün Karması/Saha Koşulu/Boşaltma/Ekip; ML Gerçek Davranıştan Öğrenmekte; Cyndi Brandt ve Sergio Torres"
 date: '2026-04-22T11:00:00Z'
 category: Lojistik

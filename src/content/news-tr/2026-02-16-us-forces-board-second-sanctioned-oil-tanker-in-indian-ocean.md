@@ -1,5 +1,5 @@
 ---
-title: "ABD Kuvvetleri; Hint Okyanusu'nda Yaptırımlı İkinci Petrol Tankerine Çıkartma Yapmakta"
+title: "ABD Kuvvetleri; Hint Okyanusu'nda Yaptırımlı İkinci Petrol Tankerine Çıkartma Yapıyor"
 date: '2026-02-16T09:00:00Z'
 category: Lojistik
 secondaryCategories:

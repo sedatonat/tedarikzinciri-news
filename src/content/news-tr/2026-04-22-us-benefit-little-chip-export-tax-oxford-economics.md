@@ -1,5 +1,5 @@
 ---
-title: "ABD Çip İhracat Vergisinden Az Fayda Sağlayacak Ekonomik Danışmanlık Firması Demekta"
+title: "ABD Çip İhracat Vergisinden Az Fayda Sağlayacak Ekonomik Danışmanlık Firması Diyor"
 date: '2026-04-22T23:30:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

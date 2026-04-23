@@ -1,5 +1,5 @@
 ---
-title: CMA CGM, İki Mega Gemiyi Red Sea Üzerinden Asya’ya Geri Göndererek Güzergâhı Test Etmekte
+title: CMA CGM, İki Mega Gemiyi Red Sea Üzerinden Asya’ya Geri Göndererek Güzergâhı Test Ediyor
 subtitle: CMA CGM, İki Mega Gemiyi Red Sea Üzerinden Asya’ya Geri Göndererek Güzergâhı Test Etmekte
 date: '2025-10-30T09:00:00Z'
 category: Lojistik

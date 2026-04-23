@@ -1,5 +1,5 @@
 ---
-title: "Meksika Domates İhracat Fiyatlarını Belirlemekta ABD Ticaret Anlaşmazlığını Hafifletmekta"
+title: "Meksika Domates İhracat Fiyatlarını Belirleyen ABD Ticaret Anlaşmazlığını Hafifletiyor"
 date: '2026-04-22T23:40:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

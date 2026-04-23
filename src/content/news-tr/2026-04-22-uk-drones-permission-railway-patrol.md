@@ -1,5 +1,5 @@
 ---
-title: "İngiltere Drone'lara Demiryollarını Devriye Etme İzni Vermekta"
+title: "İngiltere Drone'lara Demiryollarını Devriye Etme İzni Veriyor"
 date: '2026-04-22T23:20:00Z'
 category: Lojistik
 secondaryCategories:

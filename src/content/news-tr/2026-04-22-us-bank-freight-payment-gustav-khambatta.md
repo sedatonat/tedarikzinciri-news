@@ -1,5 +1,5 @@
 ---
-title: "U.S. Bank Freight Payment Tanıtılmakta"
+title: "U.S. Bank Freight Payment Tanıtılıyor"
 subtitle: "Gustav Khambatta U.S. Bank Head of Freight Payment Sales: U.S. Bank Freight Payment Çözümü; Yük Ödeme Otomasyonu/Bank-Bağlı Audit; FX/Settlement; Embedded Finance Treasury"
 date: '2026-04-22T12:00:00Z'
 category: Lojistik

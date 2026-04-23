@@ -1,5 +1,5 @@
 ---
-title: "Küresel Terroir ve Küresel İhaleler: Modern Satın Almakta Karışımının Dekantasyonu"
+title: "Küresel Terroir ve Küresel İhaleler: Modern Satın Alan Karışımının Dekantasyonu"
 subtitle: "Bart A. De Muynck Yeni Podcast 'Let's Wine about Supply Chain' İlk Bölüm: Şarap Yapımı Metaforu - Doğru Terroir/Süreç/Don ya da Tarife Cesaretle Ele Almakta; 26 Mart 2026"
 date: '2026-04-22T06:00:00Z'
 category: Tedarik Zinciri

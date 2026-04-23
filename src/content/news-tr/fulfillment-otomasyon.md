@@ -1,5 +1,5 @@
 ---
-title: Hızlı Piyasada E‑Ticaret Fulfillment Otomasyonu Yeniden Düşünülmekte
+title: Hızlı Piyasada E‑Ticaret Fulfillment Otomasyonu Yeniden Düşünülüyor
 subtitle: Hızlı Piyasada E‑Ticaret Fulfillment Otomasyonu Yeniden Düşünülmekte
 date: '2025-10-06T00:00:00Z'
 category: Envanter

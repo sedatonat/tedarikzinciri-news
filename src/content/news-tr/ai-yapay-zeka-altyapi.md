@@ -1,5 +1,5 @@
 ---
-title: 'Kimse Hazır Değil: Yapay Zekâ Altyapımızı Geride Bırakmakta'
+title: "Kimse Hazır Değil: Yapay Zekâ Altyapımızı Geride Bırakıyor"
 subtitle: 'Kimse Hazır Değil: Yapay Zekâ Altyapımızı Geride Bırakmakta'
 date: '2025-07-16T09:00:00Z'
 category: Teknoloji

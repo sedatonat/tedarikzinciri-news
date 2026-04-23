@@ -1,5 +1,5 @@
 ---
-title: "Tedarik Zinciri Planlamacıları İçin Yapay Zekâ; Yardımcı Pilot Olmakta"
+title: "Tedarik Zinciri Planlamacıları İçin Yapay Zekâ; Yardımcı Pilot Oluyor"
 date: '2026-01-07T09:00:00Z'
 category: Teknoloji
 secondaryCategories:

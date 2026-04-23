@@ -1,5 +1,5 @@
 ---
-title: "Meksika'nın Panama Kanalı'na Alternatifi Bu Yıl Tam Açılmakta"
+title: "Meksika'nın Panama Kanalı'na Alternatifi Bu Yıl Tam Açılıyor"
 subtitle: "CIIT 303 km Salina Cruz-Coatzacoalcos Demiryolu Haziran'da Tamamlanmakta; Hyundai Glovis 900 Aracı 9 Saatte Geçirmekte"
 date: '2026-04-06T09:00:00Z'
 category: Lojistik

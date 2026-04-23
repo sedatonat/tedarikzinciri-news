@@ -1,5 +1,5 @@
 ---
-title: "Çin; ABD'yi Hindistan ile Aralarına Nifak Sokmaya Çalışmakla Suçlamakta"
+title: "Çin; ABD'yi Hindistan ile Aralarına Nifak Sokmaya Çalışmakla Suçluyor"
 date: '2025-12-29T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

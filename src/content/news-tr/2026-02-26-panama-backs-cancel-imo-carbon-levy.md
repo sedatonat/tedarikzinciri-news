@@ -1,5 +1,5 @@
 ---
-title: "Panama, IMO Denizcilik Karbon Vergisinin İptalini Desteklemekte"
+title: "Panama, IMO Denizcilik Karbon Vergisinin İptalini Destekliyor"
 subtitle: "Liberia Önerisine Panama ve Arjantin Ortak Sponsor Olmakta; NZF Oylaması 2026 Sonuna Ertelenmekte"
 date: '2026-02-26T09:00:00Z'
 category: Tedarik Zinciri

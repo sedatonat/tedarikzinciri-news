@@ -1,5 +1,5 @@
 ---
-title: Orta Koridor, Türkiye’yi Avrupa–Asya Ticaretinde Stratejik Lojistik Merkez Haline Getirmekte
+title: Orta Koridor, Türkiye’yi Avrupa–Asya Ticaretinde Stratejik Lojistik Merkez Haline Getiriyor
 subtitle: Orta Koridor, Türkiye’yi Avrupa–Asya Ticaretinde Stratejik Lojistik Merkez Haline Getirmekte
 date: '2025-12-11T09:00:00Z'
 category: Lojistik

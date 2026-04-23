@@ -1,5 +1,5 @@
 ---
-title: Otomasyonlu Depolarda İnsan Hâlâ Önemli Mi?
+title: Otomasyonlu Depolarda İnsan Hâlâ Önemli mi?
 subtitle: Otomasyonlu Depolarda İnsan Hâlâ Önemli Mi?
 date: '2025-12-15T09:00:00Z'
 category: Envanter

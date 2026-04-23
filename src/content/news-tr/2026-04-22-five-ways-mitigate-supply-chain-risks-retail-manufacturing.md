@@ -1,5 +1,5 @@
 ---
-title: "Perakende ve İmalatta Tedarik Zinciri Risklerini Azaltmakta Beş Yol"
+title: "Perakende ve İmalatta Tedarik Zinciri Risklerini Azaltan Beş Yol"
 date: '2026-04-22T23:35:00Z'
 category: 'Tedarik Zinciri'
 secondaryCategories:

@@ -1,5 +1,5 @@
 ---
-title: "Japonya, Dev Nükleer Santralini Yeniden Faaliyete Almakta"
+title: "Japonya, Dev Nükleer Santralini Yeniden Faaliyete Alıyor"
 subtitle: "TEPCO Kashiwazaki-Kariwa Ünite 6'yı Devreye Almakta, AI Veri Merkezi Talebi Yeniden Başlatmayı Hızlandırmakta"
 date: '2026-01-22T09:00:00Z'
 category: Tedarik Zinciri

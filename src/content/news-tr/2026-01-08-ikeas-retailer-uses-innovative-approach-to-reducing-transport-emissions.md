@@ -1,5 +1,5 @@
 ---
-title: "IKEA Perakendecisi Ingka; Taşıma Emisyonlarını Azaltmak İçin Yenilikçi Yaklaşımlar Kullanmakta"
+title: "IKEA Perakendecisi Ingka; Taşıma Emisyonlarını Azaltmak İçin Yenilikçi Yaklaşımlar Kullanıyor"
 date: '2026-01-08T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

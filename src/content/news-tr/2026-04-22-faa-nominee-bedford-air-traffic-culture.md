@@ -1,5 +1,5 @@
 ---
-title: "FAA Adayı Hava Trafiği Sorunlarını Ajansın Kültürüne Bağlamakta"
+title: "FAA Adayı Hava Trafiği Sorunlarını Ajansın Kültürüne Bağlıyor"
 date: '2026-04-22T23:00:00Z'
 category: Lojistik
 secondaryCategories:

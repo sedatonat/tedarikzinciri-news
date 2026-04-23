@@ -1,5 +1,5 @@
 ---
-title: "Daha Fazla Tedarik Zinciri Verisi Kararları Neden Kolaylaştırmamakta?"
+title: "Daha Fazla Tedarik Zinciri Verisi Kararları Neden Kolaylaştırmıyor?"
 subtitle: "Veri Birikimi Olgunluk Değil; Temiz, Bağlı ve Karar Hazır Veri Önemli; Havacılıkta Senaryo Modelleme Tedarik Riskini Önceden Görünür Kılmakta"
 date: '2026-04-13T09:00:00Z'
 category: Tedarik Zinciri

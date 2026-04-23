@@ -1,5 +1,5 @@
 ---
-title: 'Walmart: Yapay Zekâ Tedarik Değişimlerini Öngörebilmekte'
+title: "Walmart: Yapay Zekâ Tedarik Değişimlerini Öngörebiliyor"
 subtitle: 'Walmart: Yapay Zekâ Tedarik Değişimlerini Öngörebilmekte'
 date: '2025-09-18T00:00:00Z'
 category: Teknoloji

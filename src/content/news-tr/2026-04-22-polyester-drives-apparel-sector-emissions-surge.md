@@ -1,5 +1,5 @@
 ---
-title: "Polyester Hazır Giyim Sektörü Emisyonlarındaki Artışı Yönlendirmekta"
+title: "Polyester Hazır Giyim Sektörü Emisyonlarındaki Artışı Yönlendiriyor"
 date: '2026-04-23T00:10:00Z'
 category: Tedarik Zinciri
 secondaryCategories: []

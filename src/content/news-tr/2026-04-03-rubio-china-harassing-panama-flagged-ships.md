@@ -1,5 +1,5 @@
 ---
-title: "Rubio, Çin'i Panama Bayraklı Gemileri Taciz Etmekte Olmakla Suçlamakta"
+title: "Rubio, Çin'i Panama Bayraklı Gemileri Taciz Edmekle Suçluyor"
 subtitle: "ABD FMC Şikayeti, Rubio Açıklaması: Lin Jian Reddetmekte; CK Hutchison Panama'ya Karşı 2+ Mlr Dolar Tahkim Açmakta"
 date: '2026-04-03T09:00:00Z'
 category: Tedarik Zinciri

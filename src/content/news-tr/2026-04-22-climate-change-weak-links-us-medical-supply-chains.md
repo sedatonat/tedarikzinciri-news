@@ -1,5 +1,5 @@
 ---
-title: "İklim Değişikliği ABD Tıbbi Tedarik Zincirlerindeki Zayıf Halkaları Ortaya Çıkarmakta"
+title: "İklim Değişikliği ABD Tıbbi Tedarik Zincirlerindeki Zayıf Halkaları Ortaya Çıkarıyor"
 date: '2026-04-22T20:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories: []

@@ -1,5 +1,5 @@
 ---
-title: "İngilizce Testlerinde Başarısız Olan Kamyoncular, Trump Sıkı Takibinde Yollardan Çekilmekte"
+title: "İngilizce Testlerinde Başarısız Olan Kamyoncular, Trump Sıkı Takibinde Yollardan Çekiliyor"
 date: '2026-04-22T06:00:00Z'
 category: Lojistik
 secondaryCategories:

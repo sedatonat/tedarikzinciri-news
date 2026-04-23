@@ -1,5 +1,5 @@
 ---
-title: "IMO, Yüzlerce Gemi İçin Hürmüz Tahliye Planı Hazırlamakta"
+title: "IMO, Yüzlerce Gemi İçin Hürmüz Tahliye Planı Hazırlıyor"
 subtitle: "Dominguez Açıklaması: 800 Gemi Mahsur Kalmakta; 1968 Trafik Ayrım Düzeni Kullanılmakta; Mayın Riski İncelenmekte; İnsani Koridor Vurgulanmakta"
 date: '2026-04-22T08:00:00Z'
 category: Tedarik Zinciri

@@ -1,5 +1,5 @@
 ---
-title: Adidas Modern Dağıtım Merkezlerinde Standart Belirlemekte
+title: Adidas Modern Dağıtım Merkezlerinde Standart Belirliyor
 subtitle: Adidas Modern Dağıtım Merkezlerinde Standart Belirlemekte
 date: '2025-08-15T09:00:00Z'
 category: Envanter

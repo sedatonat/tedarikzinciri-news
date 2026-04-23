@@ -1,5 +1,5 @@
 ---
-title: "Nike, FedEx Görünüm Uyarısıyla Ekonomik Kırmızı Bayraklar Birikmekta"
+title: "Nike, FedEx Görünüm Uyarısıyla Ekonomik Kırmızı Bayraklar Birikiyor"
 date: '2026-04-22T23:52:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

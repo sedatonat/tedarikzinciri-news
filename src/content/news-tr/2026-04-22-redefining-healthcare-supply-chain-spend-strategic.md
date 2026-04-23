@@ -1,5 +1,5 @@
 ---
-title: "Sağlık Tedarik Zinciri Performansını Yeniden Tanımlamakta: Harcama Kontrolünden Stratejik Değere"
+title: "Sağlık Tedarik Zinciri Performansını Yeniden Tanımlıyor: Harcama Kontrolünden Stratejik Değere"
 date: '2026-04-22T14:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

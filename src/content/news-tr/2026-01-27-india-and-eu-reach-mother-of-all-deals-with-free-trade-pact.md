@@ -1,5 +1,5 @@
 ---
-title: "Hindistan ve AB; Serbest Ticaret Anlaşmasıyla «Tüm Anlaşmaların Anası» Olarak Tanımlanmakta Anlaşmaya Varmakta"
+title: "Hindistan ve AB; Serbest Ticaret Anlaşmasıyla «Tüm Anlaşmaların Anası» Olarak Tanımlanan Anlaşmaya Varıyor"
 date: '2026-01-27T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

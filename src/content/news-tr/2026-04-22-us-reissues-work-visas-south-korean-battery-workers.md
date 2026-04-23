@@ -1,5 +1,5 @@
 ---
-title: "U.S. Bazı Güney Koreli Pil Tesisi Çalışanları için Çalışma Vizelerini Yeniden Vermekte"
+title: "U.S. Bazı Güney Koreli Pil Tesisi Çalışanları için Çalışma Vizelerini Yeniden Veriyor"
 date: '2026-04-22T17:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

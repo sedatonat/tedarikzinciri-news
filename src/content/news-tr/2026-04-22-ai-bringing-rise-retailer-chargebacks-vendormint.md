@@ -1,5 +1,5 @@
 ---
-title: "Yapay Zeka, Perakendeci Geri Yüklemelerinde Artış Getirmekte; Aynı Zamanda Azaltmakta Olabilmekte"
+title: "Yapay Zeka, Perakendeci Geri Yüklemelerinde Artış Getiriyor; Aynı Zamanda Azaltıyor olabilir"
 subtitle: "Vendormint Counts: Geri Yüklemeler %3-8 Aralığında; Tedarikçi Marjını Sızdırmakta; PO-Sevkiyat-Fatura-Ödeme Süreci Bozulmakta; Sezonsal Ürün Sıçraması Örneği"
 date: '2026-04-22T21:00:00Z'
 category: Tedarik Zinciri

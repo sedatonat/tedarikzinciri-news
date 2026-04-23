@@ -1,5 +1,5 @@
 ---
-title: "CSCO'lar İşte Çok Daha Önemli Hale Gelmekta Gartner Söylemekta"
+title: "CSCO'lar İşte Çok Daha Önemli Hale Geliyor; Gartner Diyor"
 date: '2026-04-22T23:56:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

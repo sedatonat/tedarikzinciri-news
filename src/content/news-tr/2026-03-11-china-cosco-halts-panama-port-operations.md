@@ -1,5 +1,5 @@
 ---
-title: "Çin'in Cosco'su, Gerilim Tırmanmakta İken Panama Liman Operasyonlarını Durdurmakta"
+title: "Çin'in Cosco'su, Gerilim Tırmanıyorken Panama Liman Operasyonlarını Durduruyor"
 subtitle: "La Prensa: 10 Mart Müşteri Notuyla Balboa Tüm Geliş ve Gidişler İptal Edilmekte; CK Hutchison'ın 19 Mlr Dolarlık BlackRock Anlaşması Tıkanmakta"
 date: '2026-03-11T09:00:00Z'
 category: Tedarik Zinciri

@@ -1,5 +1,5 @@
 ---
-title: "Tarifeler Volkswagen'i 5 Yılın İlk Çeyrek Zararına Sürüklemekte"
+title: "Tarifeler Volkswagen'i 5 Yılın İlk Çeyrek Zararına Sürüklüyor"
 date: '2026-04-22T11:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

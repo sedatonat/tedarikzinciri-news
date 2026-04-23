@@ -1,5 +1,5 @@
 ---
-title: "NTSB: Boeing, UPS Uçağındaki Yapısal Kusuru 15 Yıl Önce Bilmekte İdi"
+title: "NTSB: Boeing, UPS Uçağındaki Yapısal Kusuru 15 Yıl Önce Bilen İdi"
 subtitle: "MD-11F Motor Bağlantısındaki Çatlak Daha Önce de Tespit Edilmekte; 2011 Servis Mektubu Yeniden Gündemde"
 date: '2026-01-15T09:00:00Z'
 category: Lojistik

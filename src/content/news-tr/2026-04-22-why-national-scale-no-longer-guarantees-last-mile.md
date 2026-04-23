@@ -1,5 +1,5 @@
 ---
-title: "Ulusal Ölçek, Son Mil Başarısını Neden Artık Garantilemekte Değil"
+title: "Ulusal Ölçek, Son Mil Başarısını Neden Artık Garantileyen Değil"
 subtitle: "Geleneksel Ulusal Ağlar Sınırları Aşmakta; Asset-Heavy Modeller Yıl Boyu Talep Sıçramalarına Yetişememekte; Yeni Nesil Teknoloji Tabanlı Bölgesel Taşıyıcılar Asset-Light Ağlar/Akıllı Yönlendirme/Bölgesel Bilgi ile Yeniden Tanımlamakta"
 date: '2026-04-22T13:00:00Z'
 category: Lojistik

@@ -1,5 +1,5 @@
 ---
-title: "Bessent: Tarifeler Bu Hafta Yüzde 15'e Yükselmekte"
+title: "Bessent: Tarifeler Bu Hafta Yüzde 15'e Yükseliyor"
 date: '2026-03-04T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

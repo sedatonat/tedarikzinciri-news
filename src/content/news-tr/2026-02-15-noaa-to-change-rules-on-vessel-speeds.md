@@ -1,5 +1,5 @@
 ---
-title: "NOAA; Gemi Hızı Kurallarını Değiştirmekta"
+title: "NOAA; Gemi Hızı Kurallarını Değiştiriyor"
 date: '2026-02-15T09:00:00Z'
 category: Lojistik
 secondaryCategories:

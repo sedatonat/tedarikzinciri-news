@@ -1,5 +1,5 @@
 ---
-title: "De Minimis İstisnasının Sona Ermesi Teslimat Şirketlerini Zorlamakta &mdash; CBP Süreci Yönetebildiğini Belirtmekta"
+title: "De Minimis İstisnasının Sona Ermesi Teslimat Şirketlerini Zorluyor &mdash; CBP Süreci Yönetebildiğini Belirtiyor"
 date: '2025-12-24T09:00:00Z'
 category: Lojistik
 secondaryCategories:

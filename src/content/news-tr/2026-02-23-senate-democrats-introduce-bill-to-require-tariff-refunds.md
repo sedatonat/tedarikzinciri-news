@@ -1,5 +1,5 @@
 ---
-title: "Senato Demokratları; Tarife İadelerini Zorunlu Kılmakta Yasa Tasarısı Sunmakta"
+title: "Senato Demokratları; Tarife İadelerini Zorunlu Kılan Yasa Tasarısı Sunuyor"
 date: '2026-02-23T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

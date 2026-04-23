@@ -1,5 +1,5 @@
 ---
-title: Rus Sovcomflot Yaptırımlar Nedeniyle Büyük Kayıp Yaşamakta
+title: Rus Sovcomflot Yaptırımlar Nedeniyle Büyük Kayıp Yaşıyor
 subtitle: Rus Sovcomflot Yaptırımlar Nedeniyle Büyük Kayıp Yaşamakta
 date: '2025-03-10T09:00:00Z'
 category: Lojistik

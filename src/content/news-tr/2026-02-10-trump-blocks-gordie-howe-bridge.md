@@ -1,5 +1,5 @@
 ---
-title: "Trump, Sınır Ötesi Kanada Köprüsünün Açılışını Engellemekle Tehdit Etmekte"
+title: "Trump, Sınır Ötesi Kanada Köprüsünün Açılışını Engellemekle Tehdit Ediyor"
 subtitle: "4,8 Milyar Dolarlık Gordie Howe International Bridge'in 2026 Açılışı Ticaret Gerilimi Nedeniyle Risk Altında Kalmakta"
 date: '2026-02-10T09:00:00Z'
 category: Tedarik Zinciri

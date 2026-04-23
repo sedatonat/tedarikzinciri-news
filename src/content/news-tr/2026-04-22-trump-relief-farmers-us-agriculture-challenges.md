@@ -1,5 +1,5 @@
 ---
-title: "Trump Çiftçilere Yardım Sözü Vermekte; Ancak U.S. Tarımı Çoklu Zorluklarla Karşı Karşıya Kalmakta"
+title: "Trump Çiftçilere Yardım Sözü Veriyor; Ancak U.S. Tarımı Çoklu Zorluklarla Karşı Karşıya Kalıyor"
 date: '2026-04-22T05:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

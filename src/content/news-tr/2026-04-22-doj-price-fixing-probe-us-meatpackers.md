@@ -1,5 +1,5 @@
 ---
-title: "ABD Adalet Bakanlığı, ABD Et Paketleyicilerine Fiyat Sabitleme Soruşturması Açmakta"
+title: "ABD Adalet Bakanlığı, ABD Et Paketleyicilerine Fiyat Sabitleme Soruşturması Açıyor"
 subtitle: "DOJ Hedefi: National Beef, Cargill, Tyson, JBS - %85 Pazar Payı; Sığır Sürüleri 1951'den Beri En Düşük; Tyson-Cargill Ocak 2026'da $87.5M Anlaşma"
 date: '2026-04-22T13:00:00Z'
 category: Tedarik Zinciri

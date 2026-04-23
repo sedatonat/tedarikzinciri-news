@@ -1,5 +1,5 @@
 ---
-title: "Rapor: Avrupa Liman Şehirlerinde Feribot Kirliliği Otomobillerden Daha Fazla Olmakta"
+title: "Rapor: Avrupa Liman Şehirlerinde Feribot Kirliliği Otomobillerden Daha Fazla Oluyor"
 subtitle: "T&E Çalışması: 15 Liman Şehrinin 13'ünde SOx Emisyonları Karayolu Araçlarını Geçmekte; Dublin, Las Palmas ve Holyhead Başı Çekmekte"
 date: '2026-03-04T09:00:00Z'
 category: Lojistik

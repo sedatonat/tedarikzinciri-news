@@ -1,5 +1,5 @@
 ---
-title: "GLS Go! Uygulamamız Son-Mil Teslimatı Akıllı Sürdürülebilir Çözümlerle Devrime Uğratmakta"
+title: "GLS Go! Uygulaması Son-Mil Teslimatı Akıllı Sürdürülebilir Çözümlerle Yeniden Tanımlıyor"
 date: '2026-04-23T00:01:30Z'
 category: Lojistik
 secondaryCategories:

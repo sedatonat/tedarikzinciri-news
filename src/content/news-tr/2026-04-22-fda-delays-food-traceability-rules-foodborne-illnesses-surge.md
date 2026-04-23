@@ -1,5 +1,5 @@
 ---
-title: "FDA Gıda Kaynaklı Hastalıklar Yükselirken Gıda İzlenebilirlik Kurallarını Geciktirmekta"
+title: "FDA Gıda Kaynaklı Hastalıklar Yükselirken Gıda İzlenebilirlik Kurallarını Geciktiriyor"
 date: '2026-04-22T23:53:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

@@ -1,5 +1,5 @@
 ---
-title: "BONUS EPISODE: Bloodhound Tracking Device CEO Curtis Spencer ile Söyleşi"
+title: "BONUS BÖLÜM: Bloodhound Tracking Device CEO Curtis Spencer ile Söyleşi"
 subtitle: "SCB Podcast/iStock: Bob Bowman SupplyChainBrain Editor-in-Chief; Curtis Spencer Bloodhound Tracking Device Inc CEO; Kargo Hırsızlığı Takibi ve Güvenlik Trendleri; 2025 Intermodal Expo of IANA Intermodal Association of North America Long Beach Kayıt"
 date: '2026-04-22T09:00:00Z'
 category: Lojistik

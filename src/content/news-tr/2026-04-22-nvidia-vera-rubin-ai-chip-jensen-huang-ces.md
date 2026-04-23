@@ -1,5 +1,5 @@
 ---
-title: "Nvidia, Bu Yıl Yeni AI Çipi Sunmakta Olunacak; CEO Açıklamakta"
+title: "Nvidia, Bu Yıl Yeni AI Çipi Sunan Olunacak; CEO Açıklıyor"
 date: '2026-04-22T19:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

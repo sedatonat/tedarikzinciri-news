@@ -1,5 +1,5 @@
 ---
-title: "Aksaklığa Hazır Tedarik Zinciri Nasıl İnşa Edilmekta"
+title: "Aksaklığa Hazır Tedarik Zinciri Nasıl İnşa Ediliyor"
 date: '2026-04-22T23:30:00Z'
 category: Tedarik Zinciri
 secondaryCategories: []

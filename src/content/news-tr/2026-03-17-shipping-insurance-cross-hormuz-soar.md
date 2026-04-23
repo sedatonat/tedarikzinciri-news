@@ -1,5 +1,5 @@
 ---
-title: "Hürmüz Geçişi İçin Taşımacılık Sigortası Maliyetleri, Gemi Saldırılarının Ardından Sıçramakta"
+title: "Hürmüz Geçişi İçin Taşımacılık Sigortası Maliyetleri, Gemi Saldırılarının Ardından Sıçrıyor"
 subtitle: "Prim Gemi Değerinin %5'ine Çıkmakta (100 Mn $ Tankere 5 Mn $); UKMTO 1 Mart'tan Beri 20 Olay Sayılmakta"
 date: '2026-03-17T09:00:00Z'
 category: Tedarik Zinciri

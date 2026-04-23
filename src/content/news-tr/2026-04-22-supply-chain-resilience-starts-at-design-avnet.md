@@ -1,5 +1,5 @@
 ---
-title: "Tedarik Zinciri Esnekliği Tasarımda Başlamakta"
+title: "Tedarik Zinciri Esnekliği Tasarımda Başlıyor"
 subtitle: "Avnet Velocity Robert Cowan Director: Hiper-Bağlı Tedarik Zincirleri; Güvenlik/Esneklik Tasarım Aşamasında Gömülmemekte İse Uzun Vadeli Zafiyet; Yüksek-Tek Sektörü Kelebek Etkisini Görmekte; %50 Yüksek Etki Aksaklık Son 2 Yıl"
 date: '2026-04-22T17:00:00Z'
 category: Tedarik Zinciri

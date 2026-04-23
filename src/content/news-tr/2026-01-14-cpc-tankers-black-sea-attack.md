@@ -1,5 +1,5 @@
 ---
-title: "Karadeniz'de CPC Terminali Yakınında İki Petrol Tankeri Saldırıya Uğramakta"
+title: "Karadeniz'de CPC Terminali Yakınında İki Petrol Tankeri Saldırıya Uğruyor"
 subtitle: "Delta Harmony ve Matilda Tankerleri Hasar Görmekte, Kazakistan İhracatı Yeniden Sınanmakta"
 date: '2026-01-14T09:00:00Z'
 category: Lojistik
