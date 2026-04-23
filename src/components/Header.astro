@@ -13,11 +13,27 @@ const t = useTranslations(lang);
       <img src="/logo-dark.png" alt="" width="32" height="32" class="hidden dark:block w-8 h-8 object-contain" />
       <span class="font-semibold text-lg hidden sm:inline">{t('site.title')}</span>
     </a>
-    <nav class="flex items-center gap-1 sm:gap-4 text-sm">
-      <a href={localizedPath(lang, '/')} class="px-2 py-1 hover:text-brand-600">{t('nav.home')}</a>
-      <a href={lang === 'tr' ? '/kategoriler' : '/en/categories'} class="px-2 py-1 hover:text-brand-600">{t('nav.categories')}</a>
-      <a href={lang === 'tr' ? '/etiketler/' : '/en/tags/'} class="px-2 py-1 hover:text-brand-600">{t('nav.tags')}</a>
-      <a href={lang === 'tr' ? '/ara' : '/en/search'} class="px-2 py-1 hover:text-brand-600" aria-label={t('nav.search')}>{t('nav.search')}</a>
+    <nav class="flex items-center gap-1 sm:gap-3 text-sm">
+      <a href={localizedPath(lang, '/')} class="p-2 hover:text-brand-600 inline-flex items-center justify-center" aria-label={t('nav.home')} title={t('nav.home')}>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5" aria-hidden="true">
+          <path d="M3 11.5L12 4l9 7.5"/><path d="M5 10.5V20a1 1 0 0 0 1 1h4v-6h4v6h4a1 1 0 0 0 1-1v-9.5"/>
+        </svg>
+      </a>
+      <a href={lang === 'tr' ? '/kategoriler' : '/en/categories'} class="p-2 hover:text-brand-600 inline-flex items-center justify-center" aria-label={t('nav.categories')} title={t('nav.categories')}>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5" aria-hidden="true">
+          <rect x="3" y="3" width="7" height="7" rx="1.2"/><rect x="14" y="3" width="7" height="7" rx="1.2"/><rect x="3" y="14" width="7" height="7" rx="1.2"/><rect x="14" y="14" width="7" height="7" rx="1.2"/>
+        </svg>
+      </a>
+      <a href={lang === 'tr' ? '/etiketler/' : '/en/tags/'} class="p-2 hover:text-brand-600 inline-flex items-center justify-center" aria-label={t('nav.tags')} title={t('nav.tags')}>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5" aria-hidden="true">
+          <path d="M20.59 13.41 13.41 20.59a2 2 0 0 1-2.83 0l-7.17-7.17a2 2 0 0 1-.59-1.41V5a2 2 0 0 1 2-2h6.99a2 2 0 0 1 1.41.59l7.17 7.17a2 2 0 0 1 0 2.83z"/><circle cx="7.5" cy="7.5" r="1.4" fill="currentColor"/>
+        </svg>
+      </a>
+      <a href={lang === 'tr' ? '/ara' : '/en/search'} class="p-2 hover:text-brand-600 inline-flex items-center justify-center" aria-label={t('nav.search')} title={t('nav.search')}>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5" aria-hidden="true">
+          <circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/>
+        </svg>
+      </a>
       <LangSwitcher />
       <ThemeToggle />
       <a

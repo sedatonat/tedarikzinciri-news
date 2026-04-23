@@ -5,7 +5,23 @@ const target = lang === 'tr' ? 'en' : 'tr';
 const targetHref = lang === 'tr'
   ? '/en' + (Astro.url.pathname === '/' ? '' : Astro.url.pathname)
   : Astro.url.pathname.replace(/^\/en/, '') || '/';
+const label = target === 'tr' ? 'Türkçe' : 'English';
 ---
-<a href={targetHref} class="px-2 py-1 text-xs font-medium uppercase rounded-md hover:bg-ink-100 dark:hover:bg-ink-800" aria-label="Change language">
-  {target}
+<a href={targetHref} class="p-1.5 rounded-md hover:bg-ink-100 dark:hover:bg-ink-800 inline-flex items-center justify-center" aria-label={label} title={label}>
+  {target === 'tr' ? (
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 40" class="w-6 h-4 rounded-sm shadow-sm ring-1 ring-black/10" aria-hidden="true">
+      <rect width="60" height="40" fill="#E30A17"/>
+      <circle cx="22" cy="20" r="9" fill="#fff"/>
+      <circle cx="25" cy="20" r="7.2" fill="#E30A17"/>
+      <polygon fill="#fff" points="36.5,20 32.21,18.61 34.86,22.25 34.86,17.75 32.21,21.39"/>
+    </svg>
+  ) : (
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 30" class="w-6 h-4 rounded-sm shadow-sm ring-1 ring-black/10 overflow-hidden" aria-hidden="true">
+      <rect width="60" height="30" fill="#012169"/>
+      <path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6"/>
+      <path d="M0,0 L60,30 M60,0 L0,30" stroke="#C8102E" stroke-width="2.5"/>
+      <path d="M30,0 V30 M0,15 H60" stroke="#fff" stroke-width="10"/>
+      <path d="M30,0 V30 M0,15 H60" stroke="#C8102E" stroke-width="6"/>
+    </svg>
+  )}
 </a>
