@@ -19,15 +19,15 @@ tags:
 - havacılık sektörü
 - IT/OT
 ---
-<p style="text-align: justify">Avrupa genelinde havaalanlarını hedef alan cyberattack soruşturması kapsamında İngiltere’de bir şüpheli gözaltına alındı.&nbsp;</p>
+<p style="text-align: justify">İngiliz yetkilileri, Avrupa genelinde havaalanlarını hedef alan cyberattack soruşturması kapsamında bir şüpheliyi gözaltına aldı.&nbsp;</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Olay, havalimanı IT/OT convergence noktalarında zafiyetleri gündeme taşıyor; özellikle yer hizmetleri, baggage handling systems ve biletleme altyapısında riskleri artırıyor.&nbsp;</p>
+<p style="text-align: justify">Olay, havalimanı IT/OT convergence noktalarındaki zafiyetleri gündeme taşıdı; özellikle yer hizmetleri, baggage handling systems ve biletleme altyapısındaki riskleri görünür kıldı.&nbsp;</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Soruşturma çoklu ülke iş birliğiyle yürütülüyor; threat intelligence sharing ve law enforcement koordinasyonu öne çıktı. Havacılık ekosistemi, network segmentation, zero-trust, ve EDR/XDR çözümlerine ek olarak personel phishing awareness eğitimlerini sıkılaştırmakta.&nbsp;</p>
+<p style="text-align: justify">Yetkililer, soruşturmayı çoklu ülke iş birliğiyle yürütüyor; süreçte threat intelligence sharing ve law enforcement koordinasyonu öne çıktı. Havacılık ekosistemindeki kurumlar, network segmentation, zero-trust ve EDR/XDR çözümlerine ek olarak personel phishing awareness eğitimlerini sıkılaştırıyor.&nbsp;</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Operasyonel tarafta contingency plans devrede; slot ve uçuş planları yeniden dengeleniyor.&nbsp;</p>
+<p style="text-align: justify">Operatörler, contingency plans uygulamalarını devreye aldı; slot ve uçuş planlarını yeniden dengeliyor.&nbsp;</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Özetle olay, ulaştırma altyapılarında siber dayanıklılığın sınır ötesi iş birliği gerektirdiğini gösteriyor.</p>
+<p style="text-align: justify">Özetle olay, ulaştırma altyapılarında siber dayanıklılığın sınır ötesi iş birliği gerektirdiğini ortaya koydu.</p>
 <p><br></p>
 <p>-------------------</p>
 <p><strong>!!! DUYURU !!!</strong></p>

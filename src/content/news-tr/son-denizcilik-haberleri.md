@@ -20,15 +20,15 @@ tags:
 - kruvaziyer vergi
 - Guyana
 ---
-<p style="text-align: justify">Son dönemde denizcilik sektöründe çeşitli önemli gelişmeler yaşanıyor. <strong>gCaptain</strong>'ın haberlerine göre, <strong>Guyana</strong> hükümeti, petrol tedarik gemilerinin güvenliğini artırmak amacıyla su yollarındaki enkazları temizleme çalışmalarına hız veriyor. Bu adım, ülkenin enerji sektöründeki büyüme hedefleri doğrultusunda atılıyor.</p>
+<p style="text-align: justify">Denizcilik sektörü son dönemde çok sayıda kritik gelişmeye sahne oluyor. <strong>gCaptain</strong>'ın aktardığı bilgilere göre <strong>Guyana</strong> hükümeti, petrol tedarik gemilerinin seyir güvenliğini yükseltmek amacıyla su yollarındaki enkaz temizleme operasyonlarını hızlandırıyor. Ülke bu adımı, enerji sektöründeki büyüme hedefleri doğrultusunda hayata geçiriyor.</p>
 <p><br></p>
-<p style="text-align: justify">Öte yandan, <strong>Rusya</strong>, <strong>Karadeniz</strong>'de meydana gelen bir petrol sızıntısı sonrasında <strong>Kırım</strong> bölgesinde acil durum ilan etti. Yetkililer, sızıntının çevresel etkilerini en aza indirmek için yoğun çaba sarf ediyor.</p>
+<p style="text-align: justify">Öte yandan <strong>Rusya</strong>, <strong>Karadeniz</strong>'de yaşanan petrol sızıntısının ardından <strong>Kırım</strong> bölgesinde acil durum ilan etti. Yetkililer sızıntının çevresel etkilerini asgariye indirmek için sahada yoğun çalışma yürütüyor.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Ayrıca, <strong>Finlandiya</strong>, <strong>Eagle S</strong> adlı tankerin liman devleti denetimine başladığını duyurdu. Söz konusu tanker, denizaltı güç hattı ve dört telekomünikasyon kablosuna zarar vermekle suçlanmakta. Bu olay, bölgedeki deniz güvenliği endişelerini artırıyor.</p>
+<p style="text-align: justify"><strong>Finlandiya</strong> ise <strong>Eagle S</strong> tankerine yönelik liman devleti denetimini başlattığını açıkladı. Söz konusu tankere, denizaltı güç hattı ile dört telekomünikasyon kablosuna zarar verme suçlamasını yöneltiyorlar. Bu olay bölgedeki deniz güvenliği endişelerini belirgin biçimde tırmandırıyor.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify"><strong>Meksika</strong> hükümeti ise limanlarındaki kruvaziyer yolcularına uygulanması planlanan vergiyi altı ay ertelediğini ve buğdayı tarifelerden muaf tuttuğunu açıkladı. Bu karar, ülkenin turizm ve tarım sektörlerini desteklemeyi amaçlıyor.</p>
+<p style="text-align: justify"><strong>Meksika</strong> hükümeti, limanlarındaki kruvaziyer yolculara uygulanacak vergiyi altı ay süreyle erteledi ve buğdayı gümrük tarifelerinden muaf tuttu. Hükümet bu kararla, turizm ve tarım sektörlerine destek sağlamayı hedefliyor.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">Son olarak, <strong>ABD Başkanı Joe Biden</strong>, ülkenin <strong>Atlantik</strong> ve <strong>Pasifik</strong> kıyılarında yaklaşık 625 milyon dönümlük alanda yeni petrol ve gaz geliştirme faaliyetlerini yasaklama kararı aldı. Bu adım, çevresel koruma çabalarının bir parçası olarak değerlendiriliyor.</p>
+<p style="text-align: justify"><strong>ABD Başkanı Joe Biden</strong>, ülkenin <strong>Atlantik</strong> ve <strong>Pasifik</strong> kıyılarındaki yaklaşık 625 milyon dönümlük alanda yeni petrol ve gaz geliştirme faaliyetlerini yasakladı. Uzmanlar bu kararı, çevresel koruma çabalarının önemli bir bileşeni olarak değerlendiriyor.</p>
 <p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>

@@ -19,42 +19,42 @@ tags:
 - American Club
 - operasyonel risk
 ---
-<p style="text-align: justify"><strong>American Club</strong>, 4 Aralık tarihli üye duyurusunda, Rusya’nın yabancı limanlardan gelen gemiler için getirdiği yeni liman giriş gerekliliklerinin <strong>önemli gecikmelere, operasyonel aksamalara ve ek masraflara</strong> neden olabileceği konusunda shipowner’ları uyardı. Rusya’da <strong>25 Kasım 2025’te</strong> yürürlüğe giren yeni düzenlemeye göre, yabancı limanlardan gelen tüm ticari gemilerin <strong>Federal Security Service (FSB)</strong> üzerinden ek kontrol sürecinden geçmesi gerekiyor.</p>
+<p style="text-align: justify"><strong>American Club</strong>, 4 Aralık tarihli üye duyurusuyla shipowner’ları uyardı: Rusya’nın yabancı limanlardan gelen gemiler için duyurduğu yeni liman giriş gereklilikleri, <strong>önemli gecikmelere, operasyonel aksamalara ve ek masraflara</strong> yol açabilir. Rusya’da <strong>25 Kasım 2025’te</strong> yürürlüğe giren düzenleme, yabancı limanlardan gelen tüm ticari gemileri <strong>Federal Security Service (FSB)</strong> kontrol sürecine tabi tutuyor.</p>
 <p><br></p>
-<p style="text-align: justify">Bu düzenlemeyle FSB, limana giriş yapacak gemi hakkında <strong>kabul, ret veya ek inceleme</strong> kararı verebiliyor. American Club’ın değerlendirmesine göre FSB, giriş kararını <strong>48 saat içinde</strong> vermek zorunda olsa da, bilgi aktarımı ve evrak transferi ile birlikte süreç fiilen <strong>49 saate</strong> uzayabiliyor. Gemi sahibinin karşı karşıya kalabileceği <strong>compulsory underwater hull inspection</strong> (zorunlu sualtı gövde kontrolü) ise bu süreye dahil değil.</p>
+<p style="text-align: justify">Düzenleme, FSB’ye limana giriş yapacak gemi için <strong>kabul, ret veya ek inceleme</strong> kararı verme yetkisi tanıyor. American Club’ın değerlendirmesi şu noktayı ortaya koyuyor: FSB, giriş kararını <strong>48 saat içinde</strong> vermek zorunda olsa da, bilgi aktarımı ve evrak transferi süreci fiilen <strong>49 saate</strong> uzatıyor. Bu süre, gemi sahibinin karşılaşabileceği <strong>compulsory underwater hull inspection</strong> (zorunlu sualtı gövde kontrolü) aşamasını ise kapsamıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Kulübün açıklamasında tam prosedürün, sualtı incelemesi hariç olmak üzere, <strong>53 saate</strong> kadar uzayabileceği belirtiliyor. Bu süre, özellikle sık uğrak yapan tankerler, dökme yük gemileri, konteyner hatları ve spot piyasada çalışan tramp taşımacılık gemileri için <strong>ciddi operasyonel risk</strong> yaratıyor.</p>
+<p style="text-align: justify">Kulüp, tam prosedürün — sualtı incelemesi hariç — <strong>53 saate</strong> kadar uzayabileceğini açıkladı. Bu süre, sık uğrak yapan tankerler, dökme yük gemileri, konteyner hatları ve spot piyasada çalışan tramp taşımacılık gemileri için <strong>ciddi operasyonel risk</strong> doğuruyor.</p>
 <p><br></p>
-<p style="text-align: justify">American Club, gemi sahiplerine ve charterer’lara, gemi nominasyonlarında ve yükleme programlarında bu belirsizliği hesaba katmaları gerektiğini özellikle vurguluyor. Zira <strong>“entry into Russian ports may involve significant difficulties due to uncertain timing of underwater inspection and the possibility of refusal even if no suspicious items are detected.”</strong> ifadesi, düzenlemenin en kritik noktasını ortaya koyuyor:</p>
+<p style="text-align: justify">American Club, gemi sahipleri ve charterer’ları bu belirsizliği gemi nominasyonlarında ve yükleme programlarında hesaba katmaya çağırdı. <strong>“entry into Russian ports may involve significant difficulties due to uncertain timing of underwater inspection and the possibility of refusal even if no suspicious items are detected.”</strong> ifadesi, düzenlemenin kritik noktalarını şöyle özetliyor:</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">Sualtı kontrolünün <strong>zamanlaması öngörülememekte</strong>,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">İnceleme maliyeti <strong>tamamen gemi sahibine</strong> ait oluyor,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">FSB, gemide şüpheli bir bulgu olmasa bile <strong>girişi reddedebiliyor</strong>.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Sualtı kontrolü, <strong>öngörülebilir bir zamanlama</strong> sunmuyor,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">İnceleme maliyetini <strong>tamamen gemi sahibi</strong> üstleniyor,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">FSB, şüpheli bir bulgu çıkmasa bile <strong>girişi reddedebiliyor</strong>.</p></li>
 </ul>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Kuralların Arka Planı: Artan Jeopolitik ve Güvenlik Baskısı</strong></h3>
-<p style="text-align: justify">2024–2025 döneminde Karadeniz ve Baltık çevresinde artan sabotaj, drone saldırıları, shadow fleet vakaları ve liman güvenliği olayları, Rusya’nın liman güvenlik protokollerini sertleştirmesine yol açmış durumda. Özellikle Rusya’ya giden tanker ve kuru yük gemilerinin bazı “external impact” raporlamaları, Moskova’nın yabancı bayraklı gemilere yönelik gözetim politikasını sıkılaştırmasına sebep oluyor.</p>
+<p style="text-align: justify">2024–2025 döneminde Karadeniz ve Baltık çevresinde artan sabotaj, drone saldırıları, shadow fleet vakaları ve liman güvenliği olayları, Rusya’yı liman güvenlik protokollerini sertleştirmeye yöneltti. Rusya’ya giden tanker ve kuru yük gemilerinin bazı “external impact” raporları ise Moskova’yı yabancı bayraklı gemilere yönelik gözetim politikasını sıkılaştırmaya zorluyor.</p>
 <p><br></p>
-<p style="text-align: justify">Bu bağlamda, Rus limanlarına girişte:</p>
+<p style="text-align: justify">Bu çerçevede Rus limanlarına giriş artık şu kontrolleri içeriyor:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Underwater surveillance</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Hull integrity check</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Anti-sabotage scanning</strong><br>
-gibi ilave kontrollerin yapılması, FSB için artık standart operasyon hâline geliyor.</p></li>
+gibi ilave adımları FSB standart operasyon haline getiriyor.</p></li>
 </ul>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Operasyonel ve Ticari Etkiler</strong></h3>
-<p style="text-align: justify">American Club’ın analizine göre yeni uygulama, özellikle spot piyasadaki tanker ve dökme yük gemileri için <strong>demurrage riskini artırıyor</strong>. Ayrıca:</p>
+<p style="text-align: justify">American Club’ın analizi, yeni uygulamanın özellikle spot piyasadaki tanker ve dökme yük gemileri için <strong>demurrage riskini artırdığını</strong> ortaya koyuyor. Analiz ayrıca şu etkilere dikkat çekiyor:</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">Liman beklemeleri nedeniyle <strong>supply chain delays</strong> yaşanabilir.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Gemi programları sıkıştıkça <strong>laycan esnekliği azalıyor</strong>.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">FSB incelemelerinin belirsiz maliyeti, gemi sahipleri için <strong>cost unpredictability</strong> yaratıyor.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Zorunlu sualtı kontrolleri, buzlu veya kötü hava koşullarının hâkim olduğu limanlarda <strong>safety risk</strong> oluşturuyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Liman beklemeleri, <strong>supply chain delays</strong> tetikleyebilir.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Sıkışan gemi programları, <strong>laycan esnekliğini daraltıyor</strong>.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">FSB incelemelerinin belirsiz maliyeti, gemi sahiplerine <strong>cost unpredictability</strong> yükü bindiriyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Zorunlu sualtı kontrolleri, buzlu veya kötü hava koşulları altındaki limanlarda <strong>safety risk</strong> doğuruyor.</p></li>
 </ul>
-<p style="text-align: justify">Ticari açıdan bakıldığında, charterer’lar yeni Rusya uğrakları için daha sıkı <strong>indemnity clauses</strong>, <strong>FSB-delay clauses</strong> ve <strong>hull inspection cost allocation</strong> maddeleri talep etmeye başlayabilir.</p>
+<p style="text-align: justify">Ticari cephede charterer’lar, yeni Rusya uğrakları için daha sıkı <strong>indemnity clauses</strong>, <strong>FSB-delay clauses</strong> ve <strong>hull inspection cost allocation</strong> maddelerini gündeme alabilir.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>American Club Hakkında Kısa Bilgi</strong></h3>
-<p style="text-align: justify">1917’de kurulan <strong>American Steamship Owners Mutual P&amp;I Association</strong>, uluslararası denizcilik sektöründe <strong>Protection &amp; Indemnity (P&amp;I)</strong> sigortası sağlayan köklü bir yapıdır. <strong>International Group of P&amp;I Clubs</strong> üyesi olan kuruluş, risk değerlendirmesi, loss prevention programları ve claims management alanlarında küresel operatörlere hizmet verir.</p>
+<p style="text-align: justify">1917’de kurulan <strong>American Steamship Owners Mutual P&amp;I Association</strong>, uluslararası denizcilik sektörüne <strong>Protection &amp; Indemnity (P&amp;I)</strong> sigortası sunan köklü bir yapı. <strong>International Group of P&amp;I Clubs</strong> üyesi olan kuruluş, risk değerlendirmesi, loss prevention programları ve claims management alanlarında küresel operatörlere hizmet veriyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar:</strong></h3>
 <ul>

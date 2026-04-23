@@ -19,11 +19,11 @@ tags:
 - rota optimizasyonu
 - sendika
 ---
-<p>ABD USPS liderliğinin son dönemde uyguladığı maliyet kesintileri, hizmet seviyeleri ve çalışan ilişkileri üzerinde tartışmalı bir miras bırakıyor. Operasyonel yeniden yapılanma, sorting &amp; delivery centers konsolidasyonu ve rota yeniden planlamalarıyla maliyetleri düşürmeyi hedefliyor; ancak bazı bölgelerde teslimat gecikmeleri ve şube kapatmaları gözlemlenmekte.&nbsp;</p>
+<p>ABD USPS liderliği son dönemde uyguladığı maliyet kesintileriyle hizmet seviyeleri ve çalışan ilişkileri üzerinde tartışmalı bir miras bıraktı. Kurum, operasyonel yeniden yapılanma, sorting &amp; delivery centers konsolidasyonu ve rota yeniden planlamaları üzerinden maliyetleri düşürmeyi hedefledi; ancak bazı bölgelerde teslimat gecikmeleri ve şube kapatmaları dikkat çekti.&nbsp;</p>
 <p><br></p>
-<p>Sendikalar, iş yükü ve güvenlik koşulları konusunda endişelerini dile getiriyor; yönetim, otomasyon ve package growth trendi ile birlikte verimlilik artışının zorunlu olduğunu savunuyor. Politik zeminde, kırsal topluluklara hizmet eşitliği ve universal service obligation gereklilikleri tartışılıyor.&nbsp;</p>
+<p>Sendikalar, iş yükü ve güvenlik koşulları konusunda endişelerini açıkça dile getirdi; yönetim ise otomasyon ve package growth trendi ile birlikte verimlilik artışının zorunlu hâle geldiğini savundu. Politik zeminde, kırsal topluluklara hizmet eşitliği ve universal service obligation gereklilikleri de tartışmaya açıldı.&nbsp;</p>
 <p><br></p>
-<p>Teknoloji yatırımları package sorting automation, route optimization ve müşteri iletişiminde dijital kanalların güçlendirilmesini içeriyor. Sonuçta, finansal sürdürülebilirlik ile kapsayıcı hizmet dengesi, USPS’in gelecek stratejisinin ana ekseni oluyor.</p>
+<p>Teknoloji yatırımları package sorting automation, route optimization ve müşteri iletişiminde dijital kanalların güçlendirilmesini kapsadı. Sonuç olarak finansal sürdürülebilirlik ile kapsayıcı hizmet dengesi, USPS’in gelecek stratejisinin ana eksenini oluşturdu.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 1. Konsolidasyon maliyetleri düşürmeyi hedefliyor.<br>

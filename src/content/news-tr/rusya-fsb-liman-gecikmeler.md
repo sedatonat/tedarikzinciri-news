@@ -19,53 +19,52 @@ tags:
 - war-risk sigorta
 - sualtı kontrol
 ---
-<p style="text-align: justify">Rusya’nın Karadeniz ve çevresinde <strong>yenilenen Ukrayna saldırıları</strong>, bölgede gemi operasyonlarını son derece karmaşık hâle getirirken, Moskova’nın yabancı bayraklı gemilere yönelik getirdiği yeni liman giriş prosedürleri tedarik zincirinde ek bir düzenleyici yük oluşturuyor. <strong>25 Kasım 2025’te</strong> yürürlüğe giren kararnameyle birlikte, Rusya’ya giriş yapmak isteyen <strong>tüm foreign-flagged vessels</strong>, artık <strong>Federal Security Service (FSB)</strong> tarafından verilen bir <strong>port-entry clearance</strong> almak zorunda.</p>
+<p style="text-align: justify">Ukrayna, Karadeniz havzasında saldırılarını yeniledi ve bölgedeki gemi operasyonlarını ciddi ölçüde karmaşıklaştırdı. Moskova ise yabancı bayraklı gemilere yönelik yeni liman giriş prosedürlerini devreye aldı; bu adım tedarik zincirine ek düzenleyici yük bindirdi. <strong>25 Kasım 2025’te</strong> yürürlüğe giren kararname, Rusya’ya giriş talep eden <strong>tüm foreign-flagged vessels</strong> için <strong>Federal Security Service (FSB)</strong> onaylı <strong>port-entry clearance</strong> şartını zorunlu kıldı.</p>
 <p><br></p>
-<p style="text-align: justify">Bu yeni rejim, <strong>American Club</strong>’ın 8 Aralık tarihli uyarısında da vurgulandığı üzere, gemi sahipleri ve charterer’lar için <strong>belirgin gecikmeler, maliyet artışları ve operasyonel belirsizlikler</strong> yaratıyor.</p>
+<p style="text-align: justify"><strong>American Club</strong>, 8 Aralık tarihli uyarısında yeni rejimin gemi sahipleri ve charterer’lar için <strong>belirgin gecikmeler, maliyet artışları ve operasyonel belirsizlikler</strong> doğurduğunu vurguladı.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Giriş Süreci: İlk Vetting 48 Saat, Tam Döngü 53 Saate Kadar Çıkıyor</strong></h3>
-<p style="text-align: justify">Yeni düzenleme kapsamında, bir gemi Rus limanına giriş talebi yaptığında liman otoriteleri:</p>
+<p style="text-align: justify">Yeni düzenleme kapsamında bir gemi Rus limanına giriş talebi ilettiğinde, liman otoriteleri şu adımları uyguluyor:</p>
 <ol>
-  <li style="text-align: justify"><p style="text-align: justify">Geminin <strong>son 10 port of call</strong> bilgisini toplamakta,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Bu bilgileri <strong>FSB’ye 1 saat içinde</strong> ilediyor,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">FSB ise giriş kararı vermek için <strong>48 saate kadar</strong> süren bir vetting prosedürü başlatıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Otoriteler, geminin <strong>son 10 port of call</strong> bilgisini derliyor,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Bu bilgileri <strong>FSB’ye 1 saat içinde</strong> iletiyor,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">FSB ise giriş kararı için <strong>48 saate kadar</strong> süren bir vetting prosedürü başlatıyor.</p></li>
 </ol>
-<p style="text-align: justify">American Club’a göre bu süreç, sadece FSB vetting kısmı için <strong>49 saate</strong> kadar uzayabiliyor. Ek olarak bilgi akışındaki gecikmeler, limanlardaki iç iletişim prosedürleri ve operatör onayları düşünüldüğünde, <strong>full clearance cycle</strong> —sualtı incelemesi dahil olmadan— <strong>53 saate</strong> kadar çıkıyor.</p>
-<p style="text-align: justify">Bu süreye <strong>anchorage delays</strong>, <strong>tug availability</strong>, <strong>terminal scheduling conflicts</strong> gibi diğer operasyonel beklemeler dahil bile değil.</p>
+<p style="text-align: justify">American Club, yalnızca FSB vetting kısmının <strong>49 saate</strong> kadar uzayabildiğini belirtiyor. Bilgi akışındaki gecikmeler, limanlardaki iç iletişim prosedürleri ve operatör onayları da denkleme girdiğinde, <strong>full clearance cycle</strong> — sualtı incelemesi hariç — <strong>53 saate</strong> ulaşıyor.</p>
+<p style="text-align: justify">Bu süre, <strong>anchorage delays</strong>, <strong>tug availability</strong> ve <strong>terminal scheduling conflicts</strong> gibi operasyonel beklemeleri ise kapsamıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Zorunlu Sualtı Kontrolleri: Ek Maliyet ve Süre Belirsizliği</strong></h3>
-<p style="text-align: justify">Rusya, birkaç hafta önce tüm yabancı gemiler için <strong>underwater hull inspection</strong> zorunluluğu da getirmişti. Bu kontroller; mayın, patlayıcı cihaz, sabotaj ekipmanı veya <strong>external impact</strong> yaratabilecek objelerin taranmasını içeriyor.</p>
-<p style="text-align: justify">Yeni düzenlemeye göre:</p>
+<p style="text-align: justify">Rusya, birkaç hafta önce tüm yabancı gemiler için <strong>underwater hull inspection</strong> şartını da yürürlüğe koydu. Bu kontroller; mayın, patlayıcı cihaz, sabotaj ekipmanı ve <strong>external impact</strong> riski taşıyan objelerin taranmasını kapsıyor.</p>
+<p style="text-align: justify">Yeni düzenleme şu çerçeveyi getiriyor:</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">Liman operatörleri sualtı muayenesi talep edebiliyor.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Bu muayenenin <strong>tüm maliyeti shipowner</strong> üzerine yıkılıyor.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Kontrolün ne zaman yapılacağı, ne kadar süreceği ve kaç uzman dalgıç gerektireceği belirsiz durumda.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Liman operatörleri, sualtı muayenesi talep edebiliyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Muayenenin <strong>tüm maliyetini shipowner</strong> üstleniyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Kontrolün zamanı, süresi ve gereken uzman dalgıç sayısı belirsizliğini koruyor.</p></li>
 </ul>
-<p style="text-align: justify">Bu nedenle gemi sahipleri, Rusya yolculuklarında sadece zaman değil <strong>cost predictability</strong> açısından da zorlanıyor.</p>
+<p style="text-align: justify">Bu nedenle gemi sahipleri, Rusya yolculuklarında hem zaman hem de <strong>cost predictability</strong> açısından baskı altına giriyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Karadeniz Risk Ortamı Sertleşiyor</strong></h3>
-<p style="text-align: justify">Son haftalarda sigorta piyasasında <strong>Black Sea war-risk premiums</strong> ciddi şekilde yükseldi. Marsh ve Vessel Protect verilerine göre primler bazı seferlerde <strong>%0,25’ten → %1</strong> seviyesine çıktı. Bu artışın arkasında:</p>
+<p style="text-align: justify">Sigorta piyasası, son haftalarda <strong>Black Sea war-risk premiums</strong>’da ciddi yükseliş gördü. Marsh ve Vessel Protect verileri, bazı seferlerde primlerin <strong>%0,25’ten → %1</strong> seviyesine tırmandığını ortaya koydu. Bu artışı şu faktörler tetikliyor:</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">Ukrayna’nın Rusya bağlantılı gemilere yönelik saldırılar,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Kairos suurtanker olayında olduğu gibi <strong>external blast</strong> vakaları,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Ukrayna’nın Rusya bağlantılı gemilere yönelik saldırıları,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Kairos suurtanker olayında görüldüğü gibi <strong>external blast</strong> vakaları,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Rusya’nın sınırlı misilleme tehditlerini genişletme sinyalleri,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Karadeniz ve Akdeniz’de <strong>shadow fleet</strong> kaynaklı operasyonel riskler</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Karadeniz ve Akdeniz’de <strong>shadow fleet</strong> kaynaklı operasyonel riskler.</p></li>
 </ul>
-<p style="text-align: justify">gibi faktörler bulunuyor.</p>
 <p><br></p>
-<p style="text-align: justify">Rusya Devlet Başkanı <strong>Vladimir Putin</strong>, Kairos saldırısı ve diğer olaylar sonrasında; “misillemenin, yalnızca Ukrayna bağlantılı gemilerle sınırlı olmayabileceğini ve <strong>Ukraine-supporting countries</strong> bayraklı gemileri de kapsayabileceğini” açıkladı. Bu durum, bölgedeki jeopolitik risk seviyesini daha da yükseltiyor.</p>
+<p style="text-align: justify">Rusya Devlet Başkanı <strong>Vladimir Putin</strong>, Kairos saldırısı ve diğer olayların ardından; “misillemenin, yalnızca Ukrayna bağlantılı gemilerle sınırlı olmayabileceğini ve <strong>Ukraine-supporting countries</strong> bayraklı gemileri de kapsayabileceğini” açıkladı. Bu açıklama, bölgedeki jeopolitik risk seviyesini bir adım daha yukarı taşıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Ukrayna özel kuvvetlerinin Senegal açıklarında bir tanker (product tanker) operasyonuna karışmış olabileceğine dair iddialar ise çatışmanın <strong>geographical spillover</strong> potansiyelini gösteriyor.</p>
+<p style="text-align: justify">Ukrayna özel kuvvetlerinin Senegal açıklarında bir tanker (product tanker) operasyonuna karışmış olabileceğine dair iddialar ise çatışmanın <strong>geographical spillover</strong> potansiyeline işaret ediyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Operasyonel Etki: Tedarik Zinciri İçin Üçlü Baskı</strong></h3>
-<p style="text-align: justify">Yeni FSB rejimiyle birlikte Rus limanına uğramayı planlayan taşıyıcılar <strong>üç boyutlu bir risk matrisine</strong> hazırlanmak zorunda:</p>
+<p style="text-align: justify">Yeni FSB rejimi, Rus limanına uğrama planı olan taşıyıcıları <strong>üç boyutlu bir risk matrisine</strong> hazırlanmaya itiyor:</p>
 <ol>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Regulatory friction:</strong> 48–53 saatlik clearance gecikmeleri, program bozulmaları.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Financial exposure:</strong> Zorunlu sualtı muayenesi + artan war-risk sigortası primleri.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Regulatory friction:</strong> 48–53 saatlik clearance gecikmeleri ve program bozulmaları.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Financial exposure:</strong> Zorunlu sualtı muayenesi ve artan war-risk sigortası primleri.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Geopolitical unpredictability:</strong> Rusya’nın genişleyebilecek misilleme politikaları.</p></li>
 </ol>
-<p style="text-align: justify">Tanker ve dökme yük segmentlerinde <strong>laycan flexibility</strong> azalıyor; konteyner operatörleri ise Rusya hizmetlerinde <strong>buffer time</strong> eklemeye zorlanıyor.</p>
-<p style="text-align: justify">American Club, özellikle charterer’lara <strong>FSB-delay clauses</strong>, <strong>underwater inspection cost allocation</strong> ve <strong>war-risk deviation</strong> hükümlerinin sözleşmelere eklenmesini tavsiye ediyor.</p>
+<p style="text-align: justify">Tanker ve dökme yük segmentlerinde <strong>laycan flexibility</strong> daralıyor; konteyner operatörleri ise Rusya hizmetlerine <strong>buffer time</strong> eklemek zorunda kalıyor.</p>
+<p style="text-align: justify">American Club, charterer’lara <strong>FSB-delay clauses</strong>, <strong>underwater inspection cost allocation</strong> ve <strong>war-risk deviation</strong> hükümlerini sözleşmelere ekleme tavsiyesini iletiyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar:</strong></h3>
 <ul>
