@@ -7,13 +7,13 @@ const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 ---
 <header class="sticky top-0 z-40 border-b border-ink-200 dark:border-ink-800 bg-white/80 dark:bg-ink-950/80 backdrop-blur">
-  <div class="container-wide flex items-center justify-between h-16">
-    <a href={localizedPath(lang, '/')} class="flex items-center gap-2 group" aria-label={t('site.title')}>
+  <div class="container-wide flex flex-col sm:flex-row sm:items-center sm:justify-between sm:h-16 py-2 sm:py-0 gap-1 sm:gap-0">
+    <a href={localizedPath(lang, '/')} class="flex items-center gap-2 group self-start sm:self-auto" aria-label={t('site.title')}>
       <img src="/logo-light.png" alt="" width="32" height="32" class="block dark:hidden w-8 h-8 object-contain" />
       <img src="/logo-dark.png" alt="" width="32" height="32" class="hidden dark:block w-8 h-8 object-contain" />
-      <span class="font-semibold text-lg hidden sm:inline">{t('site.title')}</span>
+      <span class="font-semibold text-base sm:text-lg">{t('site.title')}</span>
     </a>
-    <nav class="flex items-center gap-1 sm:gap-3 text-sm">
+    <nav class="flex items-center justify-between sm:justify-end gap-1 sm:gap-3 text-sm w-full sm:w-auto">
       <a href={localizedPath(lang, '/')} class="p-2 hover:text-brand-600 inline-flex items-center justify-center" aria-label={t('nav.home')} title={t('nav.home')}>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5" aria-hidden="true">
           <path d="M3 11.5L12 4l9 7.5"/><path d="M5 10.5V20a1 1 0 0 0 1 1h4v-6h4v6h4a1 1 0 0 0 1-1v-9.5"/>
