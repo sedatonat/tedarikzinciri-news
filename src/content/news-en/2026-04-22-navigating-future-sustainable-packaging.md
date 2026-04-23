@@ -1,6 +1,5 @@
 ---
 title: "Navigating the Future of Sustainable Packaging"
-subtitle: "SCB/iStock 1460995270: Navigating Future Sustainable Packaging; David Gray SCB Contributor SVP Sustainability Ranpak; Packaging World Call Sustainability Loud Online Shopping E-Commerce Grow Volume Packaging Waste; Oversized Box Excessive Void Fill Material Difficult Recycle Liability; Government Regulator Consumer Demand Shift Sustainable Packaging Practice Business Supply Chain Adapt; EPR Extended Producer Responsibility Manufacture Distribute Packaging Material Take Responsibility End-of-Life Product; California EPR Law Packaging Producer Pay Fee Type Amount Packaging Fund Collection Recycling Disposal Waste; Producer Responsibility Organization PRO Manufacturer-Led Resource Comply EPR Standard; 2025 12 State Introduce EPR Legislation Active Law California Colorado Maine Minnesota Oregon"
 date: "2026-04-22T23:59:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2024/04/11/iStock-1460995270.webp"

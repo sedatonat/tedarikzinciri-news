@@ -1,6 +1,5 @@
 ---
 title: "California Valisi Çığır Açan AI Güvenlik Yasasını İmzalamakta"
-subtitle: "SCB/iStock: Gavin Newsom California Governor SB 53 Transparency in Frontier Artificial Intelligence Act; 29 Eylül İmza; California Office of Emergency Services Kritik Güvenlik Olay Raporlama; Whistleblower Koruma; Etik AI Konsorsiyumu; Top 50 AI Şirketinin 32'si California'da OpenAI Anthropic Google Meta Apple; 2024 Küresel AI/ML VC Yarısı Bay Area; Silicon Valley Super PAC 200M Dolar"
 date: '2026-04-22T11:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

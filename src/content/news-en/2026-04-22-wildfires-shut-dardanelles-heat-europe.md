@@ -1,6 +1,5 @@
 ---
 title: "Wildfires Briefly Shut Dardanelles as Heat Blasts Europe"
-subtitle: "SCB/iStock Guven Ozdemir: Wildfires Dardanelles Strait Brief Closure August 11; Heat Blasts Europe Mediterranean Wind; Turkish Firefighters Aegean Coast Pine Forest 2,900 Residents Evacuated; Anadolu Agency Reporting; Madrid London Greek Islands Balkans Wildfire; Black Sea Central Asia Oil Gas Chokepoint; Vital Maritime Strait Bosphorus Twin; Suez Canal Bab el-Mandab Strait Hormuz Comparable Risk; Climate Change Mediterranean Risk"
 date: "2026-04-22T23:45:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/08/12/DARDANELLES-STRAIT-iStock-Guven-Ozdemir-1480507345.webp"

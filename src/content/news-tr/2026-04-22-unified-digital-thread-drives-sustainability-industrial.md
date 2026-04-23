@@ -1,6 +1,5 @@
 ---
 title: "Birleşik Bir Dijital İplik Endüstriyel Şirketlerde Sürdürülebilirliği Yönlendirmekta"
-subtitle: "SCB/iStock noLimit46 1309308047: Unified Digital Thread Drive Sustainability Industrial Company; Pawel Chadzynski Senior Director Strategic Research Aras; Analyst Insight Industrial Company Three Interconnected Challenge Drive Sustainability Ensure Compliance Foster Innovation; Digital Thread Consistent Seamless Flow Information Product Lifecycle Decision-Making Green Initiative Better Decision; Sustainability Evolve Corporate Responsibility Initiative Business Imperative Consumer Premium Environmental Responsible Product; Profitability Efficiency Long-Term Resilience; 2025 Research Report Future Product Lifecycle Management Digital Engineering 92 Percent Sustainability Key Economic Success; Real-Time Data Track Adapt Strategy Foster Collaboration Supplier Partner"
 date: '2026-04-22T23:55:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

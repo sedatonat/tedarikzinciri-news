@@ -1,6 +1,5 @@
 ---
 title: "AstraZeneca Commits 50 Billion to U.S. Drug Manufacturing"
-subtitle: "SCB/iStock SweetBunFactory: AstraZeneca 50 Billion U.S. Drug Manufacturing 2030; Trump 200% Tariff Threat Imported Drug; New York Times Pascal Soriot CEO 21 July Washington DC Announcement; Virginia Central Project Facility; California Indiana Maryland Texas Planned Facilities; Maryland Massachusetts Expanded R&D; Pharmaceutical Innovation America Patient Commitment; Other Drugmaker Similar Plan U.S. Manufacturing Ramp"
 date: "2026-04-22T22:55:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2023/05/15/PHARMACEUTICAL-PILLS-CAPSULES-DRUGS-MEDICINE-iStock-SweetBunFactory-1465073112.webp"

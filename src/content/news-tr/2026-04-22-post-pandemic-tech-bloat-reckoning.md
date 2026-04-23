@@ -1,6 +1,5 @@
 ---
 title: "Pandemi Sonrası Teknoloji Şişkinliği Hesaplaşması"
-subtitle: "SCB Webinar/iStock: Post-Pandemic Tech Bloat Reckoning Webinar; OneRail Bill Catania Founder CEO; Jeff Toewe CPO; David Rye Board Operating Advisor; Helen Atkinson SCB Managing Editor; 5 Yıl Sonra Pandemic Disruption Peak; Retailer Wholesaler Patchwork Point Solution Adoption; Idle Redundant Resource Drain Operation Slow; Hidden Cost Fragmented Tech Stack Siloed Tool Overdependence; Unified Strategy Efficiency Flexibility Performance"
 date: '2026-04-22T23:15:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

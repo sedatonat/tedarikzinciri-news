@@ -1,6 +1,5 @@
 ---
 title: "ABD Limanlarında Yaklaşan Kriz Belirmekta"
-subtitle: "SCB/iStock 1215099790: Impending Crisis Loom U.S. Port; Nick Bowman Senior Editor SupplyChainBrain; Analyst Insight Trump Administration Sweeping Tariff Lead Slowdown Most Crucial Shipping Hub Brought On Rapidly Rising Number Blank Sailing Plummeting Import Growing Fear Potential Recession; April 21 Release Freight Forwarder Flexport Ocean Carrier Withdraw Capacity Transpacific Eastbound Trade Faster Rate Pandemic Eight Carrier Completely Suspended Seven Weekly Service Loop; Port Optimizer Port Los Angeles Scheduled Vessel Week April 27 Down 27 Percent Previous Week 9 Percent Year; Wall Street Journal 35 Percent Drop Import Volume Two Week Executive Director Worry; Blank Sailing Nearly Doubled Week April 13 20; 25 Percent Weekly Service Loop Canceled Late April Early May"
 date: '2026-04-22T23:55:30Z'
 category: Lojistik
 secondaryCategories:

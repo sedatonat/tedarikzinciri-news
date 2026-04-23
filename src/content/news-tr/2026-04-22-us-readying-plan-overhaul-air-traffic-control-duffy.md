@@ -1,6 +1,5 @@
 ---
 title: "ABD Hava Trafik Kontrolünü Elden Geçirme Planı Hazırlamakta, Duffy Söylemekta"
-subtitle: "SCB/iStock CRobertson 1716046836: US Readying Plan Overhaul Air Traffic Control Duffy Say; SupplyChainBrain Analyst Insight; Trump Administration Plan Announce Brand New US Air Traffic Control System Next Couple Day Transportation Secretary Sean Duffy Say; Change Include Shift Copper Communication Infrastructure Fiber Line New Radar System Terminal Air Traffic Controller; Key Speed Problem Air Traffic Control Known Take Too Long Make Upgrade Then Technology Change Congress Give Money Up Front; FAA System Manage 45000 Flight 2.9 Million Passenger Each Day; Starlink SpaceX Trump Adviser Elon Musk Test February"
 date: '2026-04-22T23:54:30Z'
 category: Lojistik
 secondaryCategories:

@@ -1,6 +1,5 @@
 ---
 title: "Building a Resilient Supply Chain in the Face of Economic Uncertainty"
-subtitle: "SCB/iStock 1214448534: Building Resilient Supply Chain Face Economic Uncertainty; Amy Dean SCB Contributor; Analyst Insight Supply Chain Focus Boost Continuity Efficiency 2025 Looking Warehouse Management System Cutting-Edge Application Cope Demand Fluctuation Potential Disruption Rising Cost; WMS Data Help Company Diversify Predict Enable Flexibility Within Supply Chain Better Anticipate Shift Consumer Spending Proactively Adjust Inventory Strategy Navigate Inflationary Pressure Financial Downturn; AI Predictive Analytics Real-Time Visibility Inventory Optimization"
 date: "2026-04-22T23:54:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/04/07/supply-chain-data-economy-iStock-1214448534.webp"

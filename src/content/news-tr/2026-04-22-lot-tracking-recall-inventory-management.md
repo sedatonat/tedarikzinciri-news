@@ -1,6 +1,5 @@
 ---
 title: "Lot Takibi Geri Çağırma ve Envanter Yönetiminin Hayati Bir Parçası"
-subtitle: "SCB Think Tank/iStock gustavofrazao: Lot Tracking Vital Recall Inventory Management; Eric Allais SCB Contributor; Grocery Deli Meat Drive-Thru Burger Daily Impact; Industrial Adhesive Food Building Material Airplane Part Medical Supply Tight Regulation; Expiration Date Ingredient Manufacturer Supplier Production Date Detail; Warehouse DC Manager Daily Necessity; FDA USDA FSMA 204 Food Traceability Rule; Section 204 Compliance Deadline"
 date: '2026-04-22T23:20:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

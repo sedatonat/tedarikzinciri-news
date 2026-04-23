@@ -1,6 +1,5 @@
 ---
 title: "DHL Express Canada Temporarily Halting Deliveries"
-subtitle: "SupplyChainBrain/iStock JHVEPhoto: DHL Express Canada Ceases Deliveries; June 20, 2025 Suspend Service Across Country; Unifor 2,000+ Worker Strike Since June 8; Truck Driver Courier Warehouse Call Center Employee; German-Owned Lockout Negotiation Breakdown; New Federal Legislation Replacement Worker Ban; Wage Working Condition Surveillance Automation Bargaining Priority; Lululemon Shein Siemens Canada Customer; Brampton Ontario Headquarters; CBC Coverage"
 date: "2026-04-22T23:45:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/06/23/DHL-BRAMPTON-ONTARIO-CANADA-iStock-JHVEPhoto-1328332987.webp"

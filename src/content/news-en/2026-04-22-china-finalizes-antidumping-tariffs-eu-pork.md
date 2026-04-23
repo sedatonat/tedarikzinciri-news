@@ -1,6 +1,5 @@
 ---
 title: "China, EU Finalize Anti-Dumping Tariffs on Pork Imports"
-subtitle: "AP/CNBC: December 17 rates of 4.9%-19.8% for five years; investigation launched June 2024; provisional tariffs September 2025 at 15.6%-32.7% for cooperating companies, 62.4% for non-cooperating; EU world's largest pork exporter at 13% of output; €2.4 billion from China 2023/2024; 45% EV tariff retaliation"
 date: "2026-04-22T09:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2024/06/17/china-european-union-eu-iStock-1126991801.webp"

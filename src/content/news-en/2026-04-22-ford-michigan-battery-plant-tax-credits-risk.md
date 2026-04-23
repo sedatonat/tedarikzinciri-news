@@ -1,6 +1,5 @@
 ---
 title: "Ford's Michigan Battery Plant at Risk If Tax Credits Are Cut"
-subtitle: "Bill Ford Executive Chair, Mackinac Policy Conference, May 29; Marshall Michigan facility threatens 1,700 jobs if tax credit eliminated; Joe Biden Climate Bill IRA EV Supply Chain Plug-In Consumer Demand; Republican Lawmakers Seek to Unwind Policy, Phase Out $7,500 Consumer Tax Credit and Manufacturing Credit for Battery Makers End 2031; Strict Chinese Component and Material Restrictions Could Render Incentives Useless, Analysts Say; Politicians Agree to Disagree but Don't Change Rules for Investments Made"
 date: "2026-04-22T23:57:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2023/11/30/FORD-DEALERSHIP-SIGN-iStock--BalkansCat--1040694160.webp"

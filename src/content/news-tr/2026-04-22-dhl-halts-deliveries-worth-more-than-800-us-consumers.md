@@ -1,6 +1,5 @@
 ---
 title: "DHL ABD Tüketicilerine 800 Doların Üzerindeki Teslimatları Durdurmakta"
-subtitle: "SCB/iStock 1470591554: DHL Halt Delivery Worth More 800 U.S. Consumer; BBC News Report; Analyst Insight DHL Express Suspending Delivery U.S. Worth More 800 Significant Increase Red Tape Customs Donald Trump New Tariff Regime; Previously Package Worth 2500 Enter U.S. Minimal Paperwork Threshold Lowered 800; German Delivery Giant Temporarily Stop Shipment Company All Country American Consumer April 21 Until Further Notice Business-to-Business Continue Possible Delay; Customs Requirement Surge Formal Customs Clearance Handle Around Clock; De Minimis Rule Less 800 Continue Minimal Check; Shein Temu Price Adjustment U.S. Warning"
 date: '2026-04-22T23:58:30Z'
 category: Lojistik
 secondaryCategories:

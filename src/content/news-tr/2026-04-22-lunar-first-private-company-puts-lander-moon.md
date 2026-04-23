@@ -1,6 +1,5 @@
 ---
 title: "Ay'da İlk: Özel Şirket Başarılı Şekilde Aya İniş Aracı Koymakta"
-subtitle: "SCB/iStock 470801450: Lunar First Private Company Successfully Put Lander Moon; SupplyChainBrain Analyst Insight; Firefly Aerospace Become First Private Company Successfully Land Spacecraft Upright Moon Blue Ghost Lander Touch Down Lunar Surface March 2; Associated Press Touchdown Moon Northeastern Slope Confirm Firefly Mission Control Facility Outside Austin Texas; Blue Ghost Launch Florida Mid-January Reportedly Carry Drill Vacuum Other Equipment NASA Pay Firefly Combined 145 Million Between Delivery Science Technology Board"
 date: '2026-04-22T23:57:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

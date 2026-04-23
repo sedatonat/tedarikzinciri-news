@@ -1,6 +1,5 @@
 ---
 title: "Podcast: Operasyonunuz için Doğru Teknoloji ve Otomasyonu Bulmak"
-subtitle: "SCB/iStock 1353561607: Podcast Find Right Technology Automation Operation; SupplyChainBrain Analyst Insight; Just About Every Logistics Supply Chain Facility Benefit Modern-Day Automation How Go About Select Right Vendor Right System; Technology Both Form Software Hardware Play Essential Role Boost Performance Logistics Facility Today So Many Option Out There Easy Become Paralyze Try Determine Best You; This Episode Offer Guide Getting Most Out Technology Acquisition Initial Assessment Implementation Follow Up Maximize Return Investment Pricey System"
 date: '2026-04-22T23:57:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

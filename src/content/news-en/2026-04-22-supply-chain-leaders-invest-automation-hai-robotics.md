@@ -1,6 +1,5 @@
 ---
 title: "Supply Chain Leaders Invest in Automation — and How That Will Change"
-subtitle: "HAI Robotics' McAleenan: VC appetite was robust 5 years ago; interest rates high now; careers at risk; network/planning/delivery mindset essential; 'mutually assured success'; correct data drives correct processes"
 date: "2026-04-22T16:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2022/11/30/SEMICONDUCTOR-CHIP-iStock-Mykola-Pokhodzhay-1296135863.webp"

@@ -1,6 +1,5 @@
 ---
 title: "Görünürlüğün Ötesinde: AI, Lojistiği Yeniden Tanımlamakta"
-subtitle: "Aptean Jim Endres Director TMS/Chris Peel Director TMS PM/Robert Bowman SCB Editor-in-Chief: Görünürlük Tek Başına Çeviklik/Esneklik/Performans Sunmamakta; GenAI Akıllı Ajanlar; Pasif İçgörüden Proaktif Orkestrasyona; Ajanlar Sadece Analiz Değil; Eylem Almakta"
 date: '2026-04-22T20:00:00Z'
 category: Lojistik
 secondaryCategories:

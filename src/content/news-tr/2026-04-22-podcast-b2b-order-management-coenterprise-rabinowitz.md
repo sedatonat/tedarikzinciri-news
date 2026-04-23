@@ -1,6 +1,5 @@
 ---
 title: "Podcast: B2B Sipariş Yönetimi Yaşam Döngüsünü Otomatikleştirmekte Zamanı Olmakta"
-subtitle: "Bob Bowman EIC SupplyChainBrain/Michael Rabinowitz CoEnterprise CEO: Agentic AI Sipariş Yönetimi Dönüşüm; Zamanında Senkronize Veri Değişimi; Ortaklar Arası Güven Kültürü; Daha Hızlı Akıllı Karar Kesinti Önce; B2B Manuel Süreç Hala Norm; EDI/API Köprü"
 date: '2026-04-22T18:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

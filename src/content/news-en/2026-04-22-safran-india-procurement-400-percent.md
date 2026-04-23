@@ -1,6 +1,5 @@
 ---
 title: "Safran Plans to Increase Sourcing from India by 400% by 2030"
-subtitle: "Bloomberg/Matthieu Rondel: 500M Euro 579M Dollar 2030; Olivier Andriès CEO; LEAP MRO Hyderabad November 26 Opening; Safran Electronics & Defense/Bharat Electronics Hammer Air-Ground Weapon; 30M Euro Half Safran; Indian Air Force 36 Rafale; Dassault 26 Rafale Marine"
 date: "2026-04-22T10:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/11/26/SAFRAN-AEROSPACE-BLOOMBERG.webp"

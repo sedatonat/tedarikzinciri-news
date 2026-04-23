@@ -1,6 +1,5 @@
 ---
 title: "Kawasaki Signals Price Hikes for Motorcycles to Offset Tariffs"
-subtitle: "Bloomberg TV/CEO Yoshinori Kanehana December 1: High-end motorcycle price increases 17%; motors and components from Japan subject to U.S. tariffs; Nebraska 4,000 hiring plans affected; premium models will be purchased by the wealthy; Boeing 787/737 fuselage; H1 current fiscal year net tariff impact 90 billion yen approximately 580 million dollars"
 date: "2026-04-22T09:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/12/01/kawasaki-motorcyle-bloomberg-445220085.webp"

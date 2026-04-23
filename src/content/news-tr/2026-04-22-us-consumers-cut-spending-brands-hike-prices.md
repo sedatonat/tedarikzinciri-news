@@ -1,6 +1,5 @@
 ---
 title: "ABD Tüketicileri Markalar Fiyatları Yükseltirken Harcamalarını Kesmekta"
-subtitle: "SCB/iStock zhihao: U.S. Consumers Cut Spending Brands Hike Prices; k-ecommerce Survey 1000 U.S. Shoppers; 84% Worry Tariff Push Higher; 44% Reduced Spending; 36% Delayed Non-Essential Purchase; Federal Reserve June 4 Data 75% Service Firm Pass Tariff Cost; Amazon Walmart Macy's Best Buy Raise Price Plan; 14% Brand Clearly Explain Price Change; Michael Netto k-ecommerce General Manager; Forward-Thinking Manufacturer Flexible Surcharge Model Transparent Communication"
 date: '2026-04-22T23:30:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

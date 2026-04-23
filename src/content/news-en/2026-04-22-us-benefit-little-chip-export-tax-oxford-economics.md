@@ -1,6 +1,5 @@
 ---
 title: "U.S. Will Benefit Little from Chip Export Tax, Economic Advisory Firm Says"
-subtitle: "Economic Consulting Firm: U.S. Chip Export Tax Unlikely to Generate Significant Revenue; Nvidia, AMD Accept 15% Government Cut on China Exports; Treasury Secretary Bessent Floats Export Tax Expansion to Other Industries; Maximum Revenue Expected: $1.5 Billion; U.S. Budget Deficit Exceeds $2 Trillion; Policy May Harm Trade Deficit Reduction Efforts"
 date: "2026-04-22T23:30:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2023/10/17/NVIDIA-CHIPS-iStock--Antonio-Bordunovi--1141488976.webp"

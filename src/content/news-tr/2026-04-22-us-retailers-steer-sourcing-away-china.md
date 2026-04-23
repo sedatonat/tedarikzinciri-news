@@ -1,6 +1,5 @@
 ---
 title: "ABD Perakendecileri Tedariki Çin'den Uzaklaştırmaya Çalışmakta"
-subtitle: "SCB/Michael Nagle Bloomberg: U.S. Retailers Look Steer Sourcing Away China; Trade Tension Trump Tariff Reduce Reliance Chinese Manufacturing; Target Rick Gomez Chief Commercial Officer 60% 2017 30% Today 25% End 2026; Gap Richard Dickson CEO Less Than 3% End 2025; Macy's Tony Spring CEO 18% National Brand Down From 20%; Walmart Warn Tariff-Driven Price Surge; Sourcing Strategy Common Factor Vietnam India Bangladesh Indonesia Mexico Diversification Friendshoring"
 date: '2026-04-22T23:50:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

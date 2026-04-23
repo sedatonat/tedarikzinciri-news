@@ -1,6 +1,5 @@
 ---
 title: "Will Trump Tariffs Put an End to Nearshoring in Mexico?"
-subtitle: "SCB/iStock gguy44 2193997968: Will Trump Tariff Put End Nearshoring Mexico; SupplyChainBrain Analyst Insight; Don't Expect President Trump Latest Round Tariff Either Impose Threaten Trigger Boom Domestic Manufacturing US End Growth Nearshored Production Capacity Mexico; Opinion Ivan Hernandez Managing Director Latin America QIMA Provider Software Service Enable Supply Chain Compliance Consumer Product Food Life Science Industry; Among Stated Goal Trump Tariff Force American Manufacturer Return Production US Envisioned Stampede Reshoring Face Multiple Hurdle Practicality Hernandez"
 date: "2026-04-23T00:01:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/02/21/TARIFFS-US-TRADE-WAR-iStock-gguy44-2193997968.jpg"

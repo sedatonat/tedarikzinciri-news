@@ -1,6 +1,5 @@
 ---
 title: "Tarife Türbülansı ile AI ile Mücadele Etmekte"
-subtitle: "SCB Think Tank/iStock Floriana: Tarife Türbülans AI Mücadele; Trump 2025 Nisan Sweeping Tariff %10 Baseline; Reciprocal Higher Rate Selected Countries; WTO Global Trade Volume %0.2 Düşüş; %1.5 Worst Case Forecast; Haziran Steel Aluminum %25-%50 Çift; War Room Decision Maker; Product Line Customer Segment Profitability; Pricing Promotional Strategy; AI Scenario Modeling Demand Forecasting"
 date: '2026-04-22T22:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

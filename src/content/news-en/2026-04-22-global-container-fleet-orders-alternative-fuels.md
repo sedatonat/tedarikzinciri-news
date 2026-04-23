@@ -1,6 +1,5 @@
 ---
 title: "Global Container Fleet Orders Tilting Toward Alternative Fuels"
-subtitle: "SCB/iStock Natallia Pershaj: BIMCO End August 2025 534 Container Ships Alternative Fuel; Order %53 Container Ship; Total TEU Capacity %77; 2030 Container Fleet Quarter Alternative Fuel; 8000 TEU+ Large Ship %81 Alternative Fuel; Bulker %8 Tanker %9-17 Slow; LNG Most Popular 2/3 Methanol %31; Methanol 2023 Leader LNG Surpassing"
 date: "2026-04-22T16:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2023/07/27/LNG-CARRIER-iStock--Natallia-Pershaj--1438894666.webp"

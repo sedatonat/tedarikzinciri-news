@@ -1,6 +1,5 @@
 ---
 title: "ATC Personel Eksiklikleri Uçuş Gecikmelerine Neden Olmakta"
-subtitle: "SCB/Guardian/iStock gorodenkoff: FAA Federal Aviation Administration; Nashville Boston Dallas Chicago Philadelphia Havalimanları; Atlanta Houston DFW ATC Merkezleri Personel Eksikliği; ABD Hükümet Kapanması 7. Gün; Sean Duffy Ulaştırma Bakanı 7 Ekim Uyarı; NATCA Air Traffic Controllers Birliği; Burbank Airport Kapanmakta; Nashville 2 Saat Gecikme"
 date: '2026-04-22T07:00:00Z'
 category: Lojistik
 secondaryCategories:

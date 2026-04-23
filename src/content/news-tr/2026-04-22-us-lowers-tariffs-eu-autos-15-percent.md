@@ -1,6 +1,5 @@
 ---
 title: "U.S. AB Otomobillerine Tarifeleri %15'e İndirmekte; Ticaret Anlaşması Şartlarını Sağlamlaştırmakta"
-subtitle: "SCB/Bloomberg/iStock Ivan Kyryk: ABD AB Otomobil Tarifelerini %15 İndirmekte; 1 Ağustos Geriye Dönük; Department of Commerce ve USTR 24 Eylül Doküman Yayınlamakta; Trump Iskoçya Golf Sahası Anlaşma Detayları; German Otomobil Üreticisi Volkswagen Porsche Mercedes-Benz Hisse Yükselmekte; Porsche %3.8 Frankfurt; Aircraft Parts Generic Pharma Cork Metals Muafiyetler 1 Eylül; MFN Most Favored Nation Tarife"
 date: '2026-04-22T14:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

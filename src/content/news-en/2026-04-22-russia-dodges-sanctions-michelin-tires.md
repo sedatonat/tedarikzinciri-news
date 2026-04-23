@@ -1,6 +1,5 @@
 ---
 title: "Russia Bypasses Sanctions to Import Michelin Tires"
-subtitle: "Guardian/Economic Security Council of Ukraine: Civilian/Aviation Tire Sanctions; Intermediary Companies U.K.; March 2022 Export Halt; 2023 $28M; October 2024-March 2025 2,687 Tires $7M+; Diversion Monitoring Being Adapted"
 date: "2026-04-22T14:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/12/30/RUSSIA-SANCTIONS-UKRAINE-WAR-iStock-traffic_analyzer-1390510568.webp"

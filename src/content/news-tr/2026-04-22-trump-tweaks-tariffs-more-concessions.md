@@ -1,6 +1,5 @@
 ---
 title: "Trump Tarifelere İnce Ayar Yapmakta; Daha Fazla Taviz Gelmekte Olabilmekte"
-subtitle: "BBC News/Guardian: 13 Kasım Kahve/Muz İndirim Argentina/Guatemala/El Salvador/Ecuador; 14 Kasım İsviçre/Liechtenstein %15 Maksimum (Önceki %39); Bağlayıcı Olmayan MoU; Nisan 2025 Ulusal Acil Durum Geniş Cezalı Tarife; AB Trading Bloğu Müzakere; SCOTUS IEEPA Karar Bekleniyor"
 date: '2026-04-22T16:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

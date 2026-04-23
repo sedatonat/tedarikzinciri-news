@@ -1,6 +1,5 @@
 ---
 title: "U.S. Import Tariffs Will Drive Up Prices, Experts Say"
-subtitle: "U.S. Import Tariff Drive Up Price Expert Say; SupplyChainBrain Analyst Insight; With Imposition Punitive Tariff U.S. Import Mexico Canada Set Go Effect 12:01am March 4 Threat Price Rise Popular Consumer Product Loom; Just Hour Go Before Deadline President Trump Say March 3 No Chance Either Country Strike Last-Minute Deal Avert Tariff New York Times; They All Set Trump Say They Go Effect Tomorrow; BBC News Item Most Likely Affect Immediately Automobile Fuel Lumber New House Avocado Maple Syrup; Modelo Beer No. 1 Spot U.S."
 date: "2026-04-22T23:58:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/03/03/MODELO-BEER-US-MEXICO-iStock-NoDerog-458664369.jpg"

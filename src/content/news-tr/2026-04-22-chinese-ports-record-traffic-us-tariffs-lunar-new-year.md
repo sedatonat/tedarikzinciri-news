@@ -1,6 +1,5 @@
 ---
 title: "Çin Limanları ABD Tarifleri ve Ay Yılbaşı Öncesi Rekor Trafik Görmekta"
-subtitle: "SCB/Bloomberg 419695920: Chinese Port See Record Traffic Ahead US Tariff Lunar New Year; SupplyChainBrain Analyst Insight; China Busiest Port Process Record Amount Good January Company Rush Get Product Onto Ship Before US Tariff Kick Ahead Long Local Holiday; Shanghai Port Process Record 5 Million Container January Data Release February 10 Well Above Previous Month Data Back 2007; Last Year Port First Globally Process Over 50 Million Container One Year Rise Global Demand Fall Chinese Price Threat Tariff Combine Push Value Export Record"
 date: '2026-04-22T23:57:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

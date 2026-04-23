@@ -1,6 +1,5 @@
 ---
 title: "Ford Pikaplarına Tedarik Sağlamakta Olunan Alüminyum Tesisi Yeniden Yangın Çıkartmakta"
-subtitle: "Bloomberg/iStock shaunl: Novelis New York 20 Kasım Çalışan Güvenli Tahliye; Eylül Hasarlı Yangın Üretim Durdurmakta; Ford Düzeltilmiş Kâr 2B Dolar Azalmakta; Cold Mill Siyah Duman Yerel Medya; F-150 Pikap Alüminyum Sac Üretimi; Ford Etki Değerlendirmekte"
 date: '2026-04-22T12:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

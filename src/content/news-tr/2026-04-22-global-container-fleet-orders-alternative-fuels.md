@@ -1,6 +1,5 @@
 ---
 title: "Küresel Konteyner Filo Siparişleri Alternatif Yakıtlara Eğilmekte"
-subtitle: "SCB/iStock Natallia Pershaj: BIMCO Ağustos 2025 Sonu 534 Konteyner Gemisi Alternatif Yakıt; Sipariş %53 Konteyner Gemi; Toplam TEU Kapasitesinin %77'si; 2030 Konteyner Filosunun Çeyreği Alternatif Yakıt; 8000 TEU+ Büyük Gemi %81 Alternatif Yakıt; Bulker %8 Tanker %9-17 Yavaş; LNG En Popüler 2/3 Methanol %31; Methanol 2023 Lider LNG Üstün Geçmekte"
 date: '2026-04-22T16:00:00Z'
 category: Lojistik
 secondaryCategories:

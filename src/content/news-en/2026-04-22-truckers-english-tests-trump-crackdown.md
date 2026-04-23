@@ -1,6 +1,5 @@
 ---
 title: "Truckers Failing English Tests Pulled Off Roads as Trump Tightens Scrutiny"
-subtitle: "Bloomberg/Vadym Shpak Illinois Trucking Owner: Eastern European Drivers Refusing Southern Routes; Insurance Premiums Rising; Sean Duffy Transportation Secretary September CDL Foreign-Born Restrictions; Federal Judge Halts; Thaw Myanmar Asylum Photo"
 date: "2026-04-22T06:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/12/10/TRUCKER-THAW-BLOOMBERG.webp"

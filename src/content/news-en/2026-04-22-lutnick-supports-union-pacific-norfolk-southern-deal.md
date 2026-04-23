@@ -1,6 +1,5 @@
 ---
 title: "Lutnick Signals Support for Union Pacific-Norfolk Southern Deal"
-subtitle: "Commerce Secretary Howard Lutnick backs Union Pacific's proposed 72 billion dollar acquisition of Norfolk Southern; would create first true transcontinental single-operator Class I railroad; aims to alleviate interchange bottlenecks across middle America; STB approval required; western and eastern coast tracks combine"
 date: "2026-04-22T23:55:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/07/20/NORFOLK-SOUTHERN-UNION-PACIFIC-RAIL-BLOOMBERG.webp"

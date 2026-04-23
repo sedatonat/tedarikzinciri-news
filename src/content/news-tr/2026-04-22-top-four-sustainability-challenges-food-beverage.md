@@ -1,6 +1,5 @@
 ---
 title: "Gıda ve İçecek Şirketleri için En Önemli Dört Sürdürülebilirlik Zorluğu"
-subtitle: "SCB/iStock 1464153380: Top Four Sustainability Challenge Food Beverage Company; Arsira Thumaprudti EUDR Expert Head Business Development Acclym Formerly Agritask; Analyst Insight 87 Percent Global Sustainability Professional Struggle Adapt Reporting Process Comply New Regulation; Food Beverage Company Exceptional Challenge Sustainability Regulation Complex Supply Chain Strict Safety Labeling Requirement High Resource Dependency Water Energy Agriculture; Environmental Social Impact Scrutiny; Four Key Challenge Address Reporting Greater Accuracy Widespread Adoption Stakeholder Detailed Insight; Industry Estimate Verifiable Metric; Smallholder Farmer Ghana Large-Scale Producer Brazil"
 date: '2026-04-22T23:53:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

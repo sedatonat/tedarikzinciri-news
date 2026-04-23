@@ -1,6 +1,5 @@
 ---
 title: "U.K. Grants Permission for Drones to Patrol Railways"
-subtitle: "U.K. Civil Aviation Authority (CAA) authorizes Drone Major to conduct first beyond visual line of sight (BVLOS) operations over critical national infrastructure; CAA statement on June 13 confirms green light for long-distance BVLOS approval; drone patrol applications include rail networks, energy utilities, defense, border management, and national infrastructure surveillance; pilot trial on 7.5-mile route between Wolverhampton and Sandwell Dudley Station in partnership with Network Rail; technology to speed trespasser verification and interception, reduce train delays, and save millions annually"
 date: "2026-04-22T23:20:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/06/13/DRONE-MAJOR.webp"

@@ -1,6 +1,5 @@
 ---
 title: "CSCO'lar Küresel Tarif Belirsizliği Ortasında Risk Yönetimini Güçlendirmek Zorunda"
-subtitle: "SCB/iStock 2189862167: CSCO Must Strengthen Risk Management Amid Global Tariff Uncertainty; SupplyChainBrain SCB Think Tank Analyst Insight; Chief Supply Chain Officer Become Accustom Uncertainty 2025 Expect No Different Especially Company Brace Unpredictability Tariff Potential Market Fluctuation; Climate CSCO Need Find Effective Way Enhance Organization Responsiveness Possible Gain Competitive Edge Shift Trade Environment; Critical Strong Risk Management Strategy Place Yet Confusion Meaning Resilience Create Challenge Many Organization; Recent Gartner Survey 82 Supply Chain Leader Indicate Resource Mean Proactive Risk Mitigation Direct Wrong Risk 18 Decrease Profitability"
 date: '2026-04-22T23:58:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

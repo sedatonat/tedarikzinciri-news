@@ -1,6 +1,5 @@
 ---
 title: "OPEX Avantajı Londra Konferansı Gerçek Dünya Stratejileri Sunmakta"
-subtitle: "SCB: OPEX Advantage London Conference Real-World Strategies; Operational Excellence Business Improvement Conference; 10 Eylül 2025 Copthorne Tara Hotel Kensington London Single-Day Immersion; Jaguar Land Rover Shell Tesco Network Rail Philips Leader Cross-Sector; Damian Hall Ralph Lauren Head of Programme Change AI Role; Ravi Jay Jaguar Land Rover Global AI Transformation; Shell AXA Partners Real-World Case Study Cost Savings Efficiency; Anglian Water Services Thames People-Powered Excellence Leader"
 date: '2026-04-23T00:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

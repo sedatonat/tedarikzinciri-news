@@ -1,6 +1,5 @@
 ---
 title: "ABD İthalat Tarifeleri Fiyatları Yukarı İtecek, Uzmanlar Söylemekta"
-subtitle: "SCB/iStock NoDerog 458664369: US Import Tariff Drive Up Price Expert Say; SupplyChainBrain Analyst Insight; With Imposition Punitive Tariff US Import Mexico Canada Set Go Effect 12:01am March 4 Threat Price Rise Popular Consumer Product Loom; Just Hour Go Before Deadline President Trump Say March 3 No Chance Either Country Strike Last-Minute Deal Avert Tariff New York Times; They All Set Trump Say They Go Effect Tomorrow; BBC News Item Most Likely Affect Immediately Automobile Fuel Lumber New House Avocado Maple Syrup; Modelo Beer No. 1 Spot US"
 date: '2026-04-22T23:58:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

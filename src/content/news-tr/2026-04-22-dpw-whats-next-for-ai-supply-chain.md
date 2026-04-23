@@ -1,6 +1,5 @@
 ---
 title: "DPW Tedarik Zincirinde Yapay Zeka İçin Sıradaki Ne Olmakta"
-subtitle: "SCB/iStock JuSun: DPW What Next AI Supply Chain; Helen Atkinson Managing Editor; William Gibson Neuromancer 1984 Future Already Here Not Evenly Distributed; Jay Koganti VP Supply Chain Center Excellence Estee Lauder; AI Trends Transforming Supply Chain DPW New York 11 Haziran; 20-30% GDP 450 Million People 1.45 Trillion U.S.; Algorithm to Semantic Self-Learning Decision-Making Spatial Computing XR; Human Agency Steer AI Age Augment Decision; Foresight Function Planning Tool Scenario Trend Proactive Human Oversight"
 date: '2026-04-22T23:25:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

@@ -1,6 +1,5 @@
 ---
 title: "Trump H-1B Visa Fee Opens Door for Germany to Attract Indian Workers"
-subtitle: "SCB/iStock: Trump Administration $100,000 Fee on New H-1B Applications; Germany Seeks Indian Workers; German Ambassador Philipp Ackermann Social Media Video Sept. 23; 124,000 Indians Working in Germany; Indians Earning More Than German Citizens; German Institute of Economic Research 387,000 Open Tech Jobs by End of March; 70% of 2024 U.S. H-1B Approvals to Indians at Microsoft, Amazon, Meta"
 date: "2026-04-22T13:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2024/10/17/India-manufacturing-iStock-1301936058.webp"

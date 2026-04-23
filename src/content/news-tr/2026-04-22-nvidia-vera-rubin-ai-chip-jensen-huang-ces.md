@@ -1,6 +1,5 @@
 ---
 title: "Nvidia, Bu Yıl Yeni AI Çipi Sunmakta Olunacak; CEO Açıklamakta"
-subtitle: "Jensen Huang CES 5 Ocak Las Vegas: Vera Rubin Çipi 3 Yıl Geliştirme; Daha Fazla Hesap Gücü Daha Az Elektrik; Mercedes-Benz Otonom Araç Ortaklığı; Microsoft/Amazon Alıcılar; Trump H200 Çin Onaylı Liste %25 Gelir Payı"
 date: '2026-04-22T19:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

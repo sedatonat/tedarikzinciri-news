@@ -1,6 +1,5 @@
 ---
 title: "Trump Pledges Aid to Farmers; But U.S. Agriculture Faces Multiple Challenges"
-subtitle: "Helen Atkinson Managing Editor: Farmer Bridge Assistance $12B December 8; FDA One-Time Bridge Payments Relieve Unfair Market Disruptions; BBC News $11B Commodity Crops Corn/Cotton/Peanut/Sorghum/Soy/Wheat/Canola; $1B Other; One Big Beautiful Bill"
 date: "2026-04-22T05:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/12/09/US-SOYBEAN-FARMER-HARVEST-iStock-DS70-1739592503.webp"

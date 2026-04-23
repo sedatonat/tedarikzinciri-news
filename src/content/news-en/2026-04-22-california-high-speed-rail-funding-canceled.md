@@ -1,6 +1,5 @@
 ---
 title: "California High-Speed Rail Funding Canceled"
-subtitle: "Federal Railroad Administration Revokes $4 Billion in Unspent Funding; Sean Duffy Transportation Secretary Makes July 17 Announcement; 16 Years of Failure Without a Single Completed High-Speed Track; Critics Call Project \"Train to Nowhere\" Boondoggle; California High-Speed Rail Authority CHSRA Mismanagement and Project Deficiencies Cited; Governor Newsom and Democrats Blamed for Enabling Waste; Federal Dollars Are Not a Blank Check, Duffy Says—Results Must Be Delivered"
 date: "2026-04-22T23:15:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/07/18/HIGH-SPEED-RAIL-CALIFORNIA-TRAIN-TO-NOWHERE-SELMA-iStock-JasonDoiy-2221328301.webp"

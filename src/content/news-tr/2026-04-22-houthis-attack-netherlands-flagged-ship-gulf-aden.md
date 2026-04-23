@@ -1,6 +1,5 @@
 ---
 title: "Husiler Aden Körfezinde Hollanda Bayraklı Gemiye Saldırmakta"
-subtitle: "SCB/AP/iStock bogdanserban: Houthi Roket Saldırısı Aden Körfezi Yangın; Netherlands-Bayraklı Kargo Gemisi; Minervagracht 29 Eylül; Yaralı Yok; Önceki Hafta Başarısız Saldırı; French Military Officials AP'ye Açıklama; Spliethoff Amsterdam-Merkez Taşıyıcı; Israeli Bağlantılı Hedef; Temmuz 2025 Genişletilmekte Saldırı Vaadi; 2 Greek Gemi Saldırısı 4 Mürettebat Ölüm 11 Esir; Aralık 2024 Ateşkes Bozulmakta Gaza Eskalasyon"
 date: '2026-04-22T12:00:00Z'
 category: Lojistik
 secondaryCategories:

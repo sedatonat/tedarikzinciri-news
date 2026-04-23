@@ -1,6 +1,5 @@
 ---
 title: "Watch AI in Shipping: What's Really Going On"
-subtitle: "SCB/iStock Mykola Pokhodzhay; Watch AI Shipping What Going On; Robert J. Bowman SupplyChainBrain Editor; Jason Murray Shipium CEO Co-Founder; 10-15 Year More Sophisticated Data Collect Decision Support; Game-Changing Internet Order Early Inning Optimization Forecasting Model Multiple Source; Agentic AI Self-Running Task Without Human Intervention Communicate Tell How Supply Chain Huge; Shipment Wrong Group Human Scale Carrier Call Out; Machine Learning Large Dataset Training Model Transportation Flow Lane Historical Seasonality; Generative AI Three-Four Year Tech Headline Dominate Enhanced Information Analysis"
 date: "2026-04-22T23:05:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2022/11/30/SEMICONDUCTOR-CHIP-iStock-Mykola-Pokhodzhay-1296135863.webp"

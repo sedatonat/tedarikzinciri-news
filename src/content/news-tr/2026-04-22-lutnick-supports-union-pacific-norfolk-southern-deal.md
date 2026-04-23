@@ -1,6 +1,5 @@
 ---
 title: "Lutnick Union Pacific-Norfolk Southern Anlaşmasına Destek Sinyali Vermekta"
-subtitle: "SCB/Bloomberg Luke Sharrett: Lutnick Union Pacific Norfolk Southern Anlaşma Destek Sinyali; Commerce Secretary Howard Lutnick CNBC 19 Ağustos; Union Pacific Norfolk Southern 72 Milyar Dolar Cash Stock Satın Alma; Western Eastern Coast Tracks Combine; First Transcontinental Single Operator; Interchange Middle Country Bottleneck Alleviation; STB Surface Transportation Board Onay; Burnside Kentucky Freight Lokomotif; Class I Railroad Consolidation"
 date: '2026-04-22T23:55:00Z'
 category: Lojistik
 secondaryCategories:

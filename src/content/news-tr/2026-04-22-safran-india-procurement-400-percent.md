@@ -1,6 +1,5 @@
 ---
 title: "Safran, Hindistan'dan Tedariki 2030'a Kadar %400 Artırmakta Planlamakta"
-subtitle: "Bloomberg/Matthieu Rondel: 500M Euro 579M Dolar 2030; Olivier Andriès CEO; LEAP MRO Hyderabad 26 Kasım Açılış; Safran Electronics & Defense/Bharat Electronics Hammer Hava-Yer Silah; 30M Euro Yarısı Safran; Indian Air Force 36 Rafale; Dassault 26 Rafale Marine"
 date: '2026-04-22T10:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

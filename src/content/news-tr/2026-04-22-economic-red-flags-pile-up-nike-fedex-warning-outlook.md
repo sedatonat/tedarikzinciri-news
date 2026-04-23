@@ -1,6 +1,5 @@
 ---
 title: "Nike, FedEx Görünüm Uyarısıyla Ekonomik Kırmızı Bayraklar Birikmekta"
-subtitle: "SCB/Bloomberg FEDEX-PACKAGE-DELIVERY: Economic Red Flag Pile Up Nike FedEx Warning Outlook; Bloomberg News Report; Analyst Insight Earnings Season Come Close Corporate America Financial Outlook Only Getting Worse President Donald Trump Policy Ramp Up Unpredictability; FedEx Corp Nike Inc Two Giant Company Broad View Global Economy Serve Latest Warning Sign Tariff Confusion Currency Swing Inflation Macroeconomic Force Make Harder Come Business Decision Plan Future Communicate Financial Expectation Investor; Nike Signal Further Revenue Decline Trump China Mexico Tariff Contribute Sharp Decline Profitability"
 date: '2026-04-22T23:52:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

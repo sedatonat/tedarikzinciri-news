@@ -1,6 +1,5 @@
 ---
 title: "FDA Delays Food Traceability Rules as Foodborne Illnesses Surge"
-subtitle: "SCB/iStock 1464153380: FDA Delay Food Traceability Rule Foodborne Illness Surge; SupplyChainBrain Analyst Insight; Food Drug Administration FDA Delay Implementation New Food Traceability Rule 30 Month Give Company More Time Bring Supply Chain Compliance Announce March 20; Rule First Propose Trump First Term Require Improved Record-Keeping Visibility Across Food Supply Chain Allow Company Identify Remove Contaminated Product Circulation Before Make Restaurant Grocery Shelf; Initially Schedule January 2026 Now January 2028; FSMA Section 204 Food Safety Modernization Act"
 date: "2026-04-22T23:53:30Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/01/14/food-storage-warehouse-iStock-1464153380.webp"

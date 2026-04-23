@@ -1,6 +1,5 @@
 ---
 title: "Lojistik Şirketleri Neden Araştırma ve İnovasyon Merkezleri Yakınında Konumlanmakta"
-subtitle: "SCB/iStock gorodenkoff: Lojistik Şirketler Araştırma İnovasyon Merkezleri Yakın Konumlanmakta; Innovation District Research Park Yetenek Talent Acquisition; Tax Incentive Logistics Market Access; Innovation Accelerator Incubator Program; Supply Chain Technology Startup Ecosystem; University Industry Collaboration; Cluster Effect Network Externality; Regional Economic Growth Driver; Geographic Proximity Knowledge Spillover"
 date: '2026-04-22T19:00:00Z'
 category: Lojistik
 secondaryCategories:

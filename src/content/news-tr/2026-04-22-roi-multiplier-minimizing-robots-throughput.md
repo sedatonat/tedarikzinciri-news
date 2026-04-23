@@ -1,6 +1,5 @@
 ---
 title: "ROI Çarpanı: Robotları Minimize Etmekte Throughput ve Tasarrufları Nasıl Maksimize Etmekte"
-subtitle: "Sponsored by Zebra/iStock 1933bkk: Next Move Strategy Consulting 2023 51,000+ AMR Sevkiyatı; 2030 180,000 Birim Projeksiyon; Depo Robotik Verimlilik İşgücü Zorluk; Cloud/Edge Computing Optimizasyon; Diminishing Returns Daha Fazla Robot; Modern Teknoloji Throughput Maksimizasyon"
 date: '2026-04-22T12:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

@@ -1,6 +1,5 @@
 ---
 title: "Fashion Cannot Afford to Be Out of Step with EUDR"
-subtitle: "Nicole Rycroft SCB Contributor: EUDR December 2026 One-Year Delay; Printed Product Exemptions Books/Newspapers; Sector-by-Sector Carve-Out Risk; Full Traceability/Deforestation-Free Supply Chain Norm; Consistent EU-Wide Economic Rules; Brands Must Invest"
 date: "2026-04-22T04:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2023/11/22/DEFORESTATION-TREES-CUT-DOWN-iStock--Daniel-Chetroni--1475937737.webp"

@@ -1,6 +1,5 @@
 ---
 title: "İklim Değişikliği ABD Tıbbi Tedarik Zincirlerindeki Zayıf Halkaları Ortaya Çıkarmakta"
-subtitle: "SCB/iStock Sergii Kolesnikov: İklim Değişikliği US Medical Supply Chain Zayıf Halka Ortaya Çıkarmakta; Hurricane Helene 2024 Eylül Florida Georgia Yıkım; North Carolina Yağış Sel; Baxter International North Cove Plant Kapanma; IV Sıvı Üretim; Chris Luoma GHX Senior VP Strategy; Single Site Manufacturing JIT Inventory; Last Mile Fragile; Warmer Ocean Supercharge Storm; Cost Efficiency Resiliency Balance"
 date: '2026-04-22T20:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories: []

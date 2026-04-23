@@ -1,6 +1,5 @@
 ---
 title: "Tesla Çin Sevkiyatları 10 Ayın Sekizincisinde Düşmekte"
-subtitle: "Bloomberg/David Paul Morris: Tesla Shanghai Plant Ekim 61,497 Araç -%10 YoY; CPCA Ön Veri; Elon Musk Karşılaşmakta Zorlu Q4; 2025'te 10 Aydan 8'inde Düşüş; Avrupa Da Düşüş Eğilimi; Çin EV Pazarı Yoğun Rekabet BYD Xiaomi Nio Xpeng Li Auto"
 date: '2026-04-22T14:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

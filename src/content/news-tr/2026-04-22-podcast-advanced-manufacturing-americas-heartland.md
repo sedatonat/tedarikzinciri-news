@@ -1,6 +1,5 @@
 ---
 title: "Podcast | İleri Üretim Amerika'nın Heartland'ını Nasıl Dönüştürmekte"
-subtitle: "SCB Podcast/JLL: İleri Üretim Heartland Dönüştürmekte; Bob Bowman SCB Editör Sohbeti; JLL Sponsor; Adapting Shifting Trade Policies 5 Predictions Industrial Real Estate; CHIPS Act 280B; Inflation Reduction Act IRA; Trump 2.0 Tariff Reshoring Driver; Midwest Manufacturing Renaissance; Ohio Indiana Michigan Tennessee North Carolina Investment; Industrial Real Estate Demand"
 date: '2026-04-22T16:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

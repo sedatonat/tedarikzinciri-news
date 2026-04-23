@@ -1,6 +1,5 @@
 ---
 title: "ATA Kaliforniya Emisyon Kuralının Yürürlükten Kaldırılmasını Onaylamakta"
-subtitle: "SCB/iStock vitpho: ATA Approves Revocation California Emissions Rule; American Trucking Associations Trump EV Mandate Revoke; National Emissions Standard Realistic Achievable; Chris Spear ATA President CEO 12 Haziran Statement; EPA Administrator Zeldin Congressional Leadership; Congressional Review Act Resolution Federal Waiver Biden Administration; 20 Haziran Supreme Court Fossil Fuel Company Challenge California Stricter Standard; Seven to Two Vote Oil Gas Company 17 Republican-Led State; 1967 Waiver 2035 Zero-Emission Car"
 date: '2026-04-22T23:40:00Z'
 category: Lojistik
 secondaryCategories:

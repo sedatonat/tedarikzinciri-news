@@ -1,6 +1,5 @@
 ---
 title: "Lunar First: Private Company Successfully Puts Lander on Moon"
-subtitle: "Lunar First Private Company Successfully Put Lander Moon; SupplyChainBrain Analyst Insight; Firefly Aerospace Become First Private Company Successfully Land Spacecraft Upright Moon Blue Ghost Lander Touch Down Lunar Surface March 2; Associated Press Touchdown Moon Northeastern Slope Confirm Firefly Mission Control Facility Outside Austin Texas; Blue Ghost Launch Florida Mid-January Reportedly Carry Drill Vacuum Other Equipment NASA Pay Firefly Combined 145 Million Between Delivery Science Technology Board"
 date: "2026-04-22T23:57:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/03/06/lunar-surface-iStock-470801450.jpg"

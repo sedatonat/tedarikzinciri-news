@@ -1,6 +1,5 @@
 ---
 title: "Target Appoints New CEO"
-subtitle: "SCB/BBC/Bloomberg Michael Nagle: Target Appoints New CEO; Brian Cornell Retires After 10 Years; Michael Fiddelke COO Takes Over February 2026; 20 Years Company Experience; Stock Down 6% August 20; Discretionary Apparel Electronics Consumer Concerns; US Tariff Impact; Walmart Costco Amazon Competition; Quality Improvement Technology Embed Pledge; Sales Decline Share Price Drop; Faster Much Faster Statement"
 date: "2026-04-22T23:50:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2024/03/05/TARGET-A-shopper-leaves-a-Target-store-in-New-York.-Photographer-Michael-Nagle-Bloomberg.webp"

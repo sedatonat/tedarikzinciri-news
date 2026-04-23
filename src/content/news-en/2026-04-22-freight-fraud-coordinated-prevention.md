@@ -1,6 +1,5 @@
 ---
 title: "Freight Fraud Demands Coordinated Prevention"
-subtitle: "SCB Think Tank/iStock: Freight Fraud Increasing Threat Coordinated Prevention; Karl Fillhouer SCB Contributor; CargoNet Data Cargo Theft 13% Q2 2025; Organized Crime High-Value Commodity Nationwide; 25 Billion Dollar U.S. Business Annual Cost; 1500% Growth Since 2020; Average Theft Value 200K Dollar Per Incident; Federal Unified Approach Technology-Backed Mitigation; Strategic Crisis Federally Enforced Intervention"
 date: "2026-04-22T23:30:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2024/07/02/cargo-theft-iStock-1001622498.webp"

@@ -1,6 +1,5 @@
 ---
 title: "U.S. Container Volumes Set for Sharp Reversal on Tariff Disruption"
-subtitle: "SCB/Bloomberg Tim Rue: U.S. Container Volume Sharp Reversal Tariff Disruption; John McCown Veteran Analyst Monthly Report July 20; Inbound Volume 7.9% June Decline 6.6% May Decline; 10 Largest U.S. Ports Based; Q2 1.8% Decline; April 10% Increase Inventory Front-Loading; 15% Last Year Gain Following; Trump Tariff Goods Purchase Disrupt; 2025 Decline Outlook Not Short-Lived"
 date: "2026-04-22T22:50:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/05/07/CHINA-SHIPPING-BLOOMBERG.webp"

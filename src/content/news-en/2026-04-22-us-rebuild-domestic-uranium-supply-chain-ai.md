@@ -1,6 +1,5 @@
 ---
 title: "The U.S. Needs to Rebuild Its Domestic Uranium Supply Chain to Support AI Development"
-subtitle: "LIS Technologies Co-founder/President Christo Liebenberg: AI Boom and Uranium Supply Chain on Collision Course; 99% Concentrate Foreign; Canada/Kazakhstan/Australia Dominant; Russia Banned Biden Aug 2024; Trump 4x by 2050 100 GW; 5 Components Mining/Milling/Conversion/Enrichment/Fuel Production"
 date: "2026-04-22T18:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2022/11/04/NUCLEAR-POWER-PLANT-ENERGY-iStock-vlastas-658599072.webp"

@@ -1,6 +1,5 @@
 ---
 title: "EU Accelerates Timeline to End De Minimis Exemptions"
-subtitle: "EU Finance Ministers November 13 Vote: 150 Euro/175 Dollar Threshold Brought Forward to 2026 (Previously 2028); Maros Sefcovic Trade Commissioner Addresses European Retailers' Delays; Shein/Temu Chinese Direct-to-Consumer; 2024 4.6 Billion Low-Value E-Commerce Packages (2x); 90%+ from China; Dirk Gotink"
 date: "2026-04-22T15:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/02/12/PACKAGE-INSPECTION-DE-MINIMIS-CBP-CUSTOMS-iStock-alvarez-875011674.webp"

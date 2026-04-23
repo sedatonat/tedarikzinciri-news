@@ -1,6 +1,5 @@
 ---
 title: "Delta Air, Hükümet Kapanması Etkisinden 200 Milyon Dolarlık Bir Etki Görmekte"
-subtitle: "Bloomberg/Elijah Nouvelage: Q4 2025 200M Dolar Kâr Etkisi; Trump 40 Büyük Havalimanı Geçici Uçuş Kesintisi En Uzun ABD Hükümet Kapanması; Hava Trafik Kontrolörü/Güvenlik Görevlisi Eksikliği; Ed Bastian CEO 2,000+ İptal Kasım; Tatil Rezervasyon Yavaşlamakta; 3 Aralık Yatırımcı Konferansı; Hisse %7.7 YTD; S&P %16"
 date: '2026-04-22T08:00:00Z'
 category: Lojistik
 secondaryCategories:

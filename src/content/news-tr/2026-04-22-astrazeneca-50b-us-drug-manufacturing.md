@@ -1,6 +1,5 @@
 ---
 title: "AstraZeneca ABD İlaç Üretimine 50 Milyar Dolar Taahhüt Etmekta"
-subtitle: "SCB/iStock SweetBunFactory: AstraZeneca 50 Milyar Dolar U.S. Drug Manufacturing 2030; Trump 200% Tariff Tehdit Imported Drug; New York Times Pascal Soriot CEO 21 Temmuz Washington DC Duyuru; Virginia Central Project Facility; California Indiana Maryland Texas Planlanmakta Tesis; Maryland Massachusetts Genişletilmiş R&D; Pharmaceutical Innovation America Patient Commitment; Other Drugmaker Similar Plan U.S. Manufacturing Ramp"
 date: '2026-04-22T22:55:00Z'
 category: Tedarik Zinciri
 secondaryCategories: []

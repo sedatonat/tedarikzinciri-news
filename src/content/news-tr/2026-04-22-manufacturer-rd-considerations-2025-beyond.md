@@ -1,6 +1,5 @@
 ---
 title: "Üreticiler için 2025 ve Ötesi Ar-Ge Değerlendirmeleri"
-subtitle: "SCB/iStock ATHVisions 2148178472: Manufacturer R D Consideration 2025 Beyond; SupplyChainBrain SCB Think Tank Analyst Insight; Innovation Lifeblood Manufacturing Result Manufacturer Conduct Research Develop New Product Enhancement Production Efficiency Regular Basis Keep Up Stay Ahead Competitor; Federal Credit Increasing Research Expense R D Credit Help Offset Some Expense Associate These Effort; Most Manufacturer Likely Quite Familiar R D Credit Few Key Update Manufacturer Top Mind 2025 Beyond; January 2025 IRS Internal Revenue Service Publish Final Version"
 date: '2026-04-22T23:59:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

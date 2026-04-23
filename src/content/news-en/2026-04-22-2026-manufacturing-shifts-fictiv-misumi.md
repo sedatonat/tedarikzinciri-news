@@ -1,6 +1,5 @@
 ---
 title: "The 2026 Manufacturing Shifts You Can't Ignore"
-subtitle: "Fictiv/MISUMI Dave Evans and Nate Evans, Frost & Sullivan Sankara Narayanan: 300+ Leader Insights; AI Foundation; Digital Platforms Essential; Regional Flexibility/Tariffs/Sustainability/Compliance; Nick Bowman Moderating"
 date: "2026-04-22T05:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2026/03/10/Upcoming-Webinar-Fictiv-Wed-Apr-22-2026-1p-ET.webp"

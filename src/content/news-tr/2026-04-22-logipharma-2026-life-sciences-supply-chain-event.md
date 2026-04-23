@@ -1,6 +1,5 @@
 ---
 title: "LogiPharma 2026: Önde Gelen Küresel Yaşam Bilimleri Tedarik Zinciri Etkinliği"
-subtitle: "SCB/LogiPharma: 2,500+ Üst Düzey Lider Pharma/Biotech/Medtech; Tema 'Intelligent Futures Resilient Networks Global Health Impact'; 150+ Uzman Konuşmacı; AI/Veri/Liderlik End-to-End Değer Zincirleri Bilim Üretim Lojistik Hasta Bakımı; Dijital Otonomi Geçişi; Direnç Küresel Sorumluluk"
 date: '2026-04-22T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

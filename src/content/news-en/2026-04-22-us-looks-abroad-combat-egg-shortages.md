@@ -1,6 +1,5 @@
 ---
 title: "US Looks Abroad to Combat Egg Shortage"
-subtitle: "SCB/iStock 463279383: US Look Abroad Combat Egg Shortage; SupplyChainBrain Analyst Insight; Avian Flu Continue Spread American Chicken Farm US Plan Import 420 Million Egg Turkey Help Fill Gap Supply; CNN Report US Expect Take Around 240 Million Egg Turkey July Remainder Set Arrive End Year Total Value 37 Million; Substantial Increase 2024 Turkey World Fifth Largest Exporter Egg Export 71 Million Egg US; Turkey Only Country US Import Fridge Staple US Produce More 7.5 Billion Egg Year American Egg Board"
 date: "2026-04-23T00:00:30Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/02/06/eggs-grocery-store-iStock-463279383.jpg"

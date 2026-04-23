@@ -1,6 +1,5 @@
 ---
 title: "Regional Supply Chains Becoming a Competitive Advantage"
-subtitle: "Pandemic as Turning Point: Single-Country Dependency Exposes Fragility; Companies Shift to Regional Production; Risk Mitigation; Geopolitical/Trade/Natural Disaster Exposure; Production/Sourcing Near Markets"
 date: "2026-04-22T09:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2023/05/12/APAC-GLOBE-iStock--NicoElNino--1190455899.webp"

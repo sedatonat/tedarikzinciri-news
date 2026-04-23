@@ -1,6 +1,5 @@
 ---
 title: "İzle: İş Gücü Yönetimi ve Yük Konsolidasyonunda Harcama Azaltma"
-subtitle: "SCB/iStock 1296135863: Watch Spend Reduction Labor Management Freight Consolidation; Jeff Clark Executive Vice President ODW Logistics; Russell Goodman SupplyChainBrain Interview; Analyst Insight Right Framework Training Crucial Lowering Cost Labor Management Freight Consolidation Operation; Client Always Look Way Lower Cost Today Artificial Intelligence Help Warehouse Order Picking Timely Cost-Efficient Manner; Inefficiency Factor Number Situation Time Wasted Start Up Shift Break Restroom Reasonable Standard Determine Employee Not Productive Environment; Freight Consolidation Cost Reduction LTL Less Than Truckload Pool Distribution Multi-Stop Truckload; AI Picking Process Improvement Workforce Management Engineered Standard"
 date: '2026-04-22T23:56:00Z'
 category: Lojistik
 secondaryCategories:

@@ -1,6 +1,5 @@
 ---
 title: "Watch Supply Chains in the Eye of the Geopolitical Storm"
-subtitle: "SCB/iStock Mykola Pokhodzhay: Watch Supply Chain Eye Geopolitical Storm; Robert J. Bowman SupplyChainBrain Editor; Nick Banich Miebach Consulting Partner Chief Revenue Officer USA Canada; U.S. Cold War One Central Pole Power End Blue Marble Again Company Come Terms; Tariff Here Stay One Form Rethinking Volatility New Norm Network Redesign Upstream Risk Less Frozen; Pivot Quickly Resiliency Redundancy Next Four Year Like Last Previous 40; What-If Scenario Planning Past Performance Not Indicative Future Result; AI Machine Learning Tool Not Necessary Wholesale Replacement"
 date: "2026-04-23T00:01:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2022/11/30/SEMICONDUCTOR-CHIP-iStock-Mykola-Pokhodzhay-1296135863.webp"

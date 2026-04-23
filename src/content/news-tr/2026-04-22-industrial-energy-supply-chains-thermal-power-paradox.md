@@ -1,6 +1,5 @@
 ---
 title: "Endüstriyel Enerji Tedarik Zincirleri Termal Güç Paradoksu ve Dört Sütunlu Çözüm"
-subtitle: "SCB Think Tank/iStock kamilpetran: Termal Güç Üretim Tedarik Zinciri ESG Paradoks; 37.4 Milyar Ton CO2 Yıllık Emisyon; Power Sector 40% Enerji Emisyon; India 60-70% Kömür Elektrik; 1.4 Milyar Nüfus Bağımlılık; Four-Pillar Solution; Energy Security Economic Growth Tradeoff; Developing Economies Thermal Dependency; ESG Risk Carbon Intensive; Coal Fired Power Plants Industrial Backbone"
 date: '2026-04-22T18:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories: []

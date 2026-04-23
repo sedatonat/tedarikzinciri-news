@@ -1,6 +1,5 @@
 ---
 title: "Aluminum Plant Supplying Ford Pickups Erupts in Fire Again"
-subtitle: "Bloomberg/iStock shaunl: Novelis New York November 20 workers safely evacuated; September fire damage halts production; Ford adjusted profit reduced by $2 billion; Cold Mill black smoke local media; F-150 pickup aluminum sheet production; Ford assesses impact"
 date: "2026-04-22T12:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/11/21/FORD-F-150-PICKUP-TRUCK-iStock-shaunl-1209372602.webp"

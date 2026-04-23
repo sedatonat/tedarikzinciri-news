@@ -1,6 +1,5 @@
 ---
 title: "U.S. Limanları Hükümet Kapanması Sırasında Aksaklık Beklememekte"
-subtitle: "SCB/Nick Bowman/iStock: 750,000 Federal Çalışan Ücretsiz İzin; Kongre Onayı Olmamakta FY26 Bütçesi; 2018-2019'dan Beri İlk ABD Kapanması; Port of Seattle 30 Eylül Tam Açık Operasyonel; Port of LA Houston Tacoma Normal Operasyonlar; Port of Oakland Marine Terminalleri Açık; PANYNJ Kendi Kendini Finanse Etmekte; Mario Cordero PoLB CEO; Federal Çalışan Essential Worker"
 date: '2026-04-22T10:00:00Z'
 category: Lojistik
 secondaryCategories:

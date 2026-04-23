@@ -1,6 +1,5 @@
 ---
 title: "Trump Yönetimi U.S. Steel Tesisinin Kapatılmasını Engellemekte"
-subtitle: "SCB/iStock: Trump Yönetimi U.S. Steel Granite City Illinois Tesis Kapanma Engellemekte; White House Golden Share Yetkisi; Nippon Steel Birleşmesi 14B Dolar Haziran Onay; 800 İşçi Eylül Erken Bilgi; Kasım'a Kadar Steel Slab İşleme Durdurma; Howard Lutnick Commerce Secretary Müdahale; 19 Eylül Tesis Açık Tutmakta Anlaşma; Federal Government Board Koltuk Kontrol; Todd Tucker Roosevelt Institute Industrial Policy"
 date: '2026-04-22T15:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

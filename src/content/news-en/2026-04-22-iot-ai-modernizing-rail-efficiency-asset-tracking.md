@@ -1,6 +1,5 @@
 ---
 title: "How IoT and AI Are Modernizing Rail Efficiency and Asset Tracking"
-subtitle: "SCB Think Tank/Steven Payne/iStock CSX: U.S. Rail Freight System 140,000 Miles 40%+ Long-Distance Freight; IoT Devices AI-Based Analytics; Operator Asset Tracking Fleet Management; Modernization Pressure; Climate-Related Disruptions; Demand Model Changes; Digital Technology Adoption"
 date: "2026-04-22T06:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2024/08/22/csx-rail-train-iStock-1179420420.webp"

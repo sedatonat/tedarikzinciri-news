@@ -1,6 +1,5 @@
 ---
 title: "İzle Soya Piyasaları Küresel Ticaret Savaşının İlk Şoklarını Yaşamakta"
-subtitle: "SCB/iStock Mykola Pokhodzhay: Watch Soy Market First Shock Global Trade War; Robert J. Bowman SupplyChainBrain Editor; Simi Thambi FAIRR Climate Nature Economist; Trump Administration Tariff Product China Unexpected Environmental Consequence; FAIRR Network Investor 400+ 80 Trillion AUM Global Food System Reduce Risk Explore Opportunity; Chinese Buyer Diversify Soy Away U.S. Brazil Poor Traceability Deforestation Linked; 2018 2019 Previous Trade War Accelerated Deforestation Reputational Regulatory Risk Value Chain; Coller FAIRR Protein Producer Index 60 Livestock 10 KPI GHG Biodiversity Water"
 date: '2026-04-23T00:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

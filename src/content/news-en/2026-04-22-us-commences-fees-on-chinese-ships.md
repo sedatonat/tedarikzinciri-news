@@ -1,6 +1,5 @@
 ---
 title: "U.S. Begins Imposing Fees on Chinese Ships"
-subtitle: "SCB/iStock Sjo: Trump Administration Starting October 14 Chinese Ships at American Ports; China's Commercial Shipping Dominance; U.S. Shipbuilding Sector Revival; China Ministry of Transport October 10 Retaliation; U.S.-Linked Vessels 400 Yuan/56 Dollars Net Ton; CCTV State Media; NYT Tit-for-Tat Escalation"
 date: "2026-04-22T01:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/04/18/COSCO-SHIPPING-SHIP-iStock-Sjo-1460994118.webp"

@@ -1,6 +1,5 @@
 ---
 title: "Tariffs Drive Volkswagen to First Quarterly Loss in 5 Years"
-subtitle: "Volkswagen reports Q3 operating loss of $1.5 billion amid tariff pressures and strategic reversals; Trump tariffs to cost $5.7 billion by year-end; Porsche's retreat from all-electric strategy carries additional $5.4 billion hit; CFO Arno Antlitz to address results on October 30; first quarterly loss in five years; Mosel, Germany facility"
 date: "2026-04-22T11:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2024/09/12/volkswagen-factory-iStock-2114317920.webp"

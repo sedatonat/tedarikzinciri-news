@@ -1,6 +1,5 @@
 ---
 title: "İlaç ve Yaşam Bilimlerinde Uçtan Uca Dijital Tedarik Zinciri Ağlarının Durumu"
-subtitle: "SCB/iStock jittawit.21 1374389013: State End-to-End Digital Supply Chain Network Pharma Life Science; Dan Walles SCB Contributor; Analyst Insight Today Life Science Healthcare Company Need Boost Resilience Increase Efficiency Stay Competitive Increasingly Complex Global Landscape; Solution Lie Adoption End-to-End Digital Supply Chain Network Number Challenge Overcome Effort; End-to-End Digital Supply Chain Network Fully Integrated Ecosystem Connecting Every Component Supply Chain Raw-Material Supplier Patient; Pharmaceutical Supply Chain Achieve Goal Challenge"
 date: '2026-04-22T23:52:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

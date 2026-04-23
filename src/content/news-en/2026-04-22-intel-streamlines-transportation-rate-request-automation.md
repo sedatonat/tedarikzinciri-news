@@ -1,6 +1,5 @@
 ---
 title: "Intel Radically Streamlines Transportation Spending with Rate Request Automation"
-subtitle: "SCB/iStock royyimzy: Intel Corp Global Logistics Org GLO and Corporate Strategic Procurement CSP Units; Carrier Contract/Rate Management; Legacy Process Intensive Human Intervention; Information Gathering External Quote Tool Loading; All Transportation Modes Contracted Rate Cumbersome Collection; AI/Automation Transformation; Efficiency Savings"
 date: "2026-04-22T04:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/10/16/ARTIFICIAL-INTELLIGENCE-AI-TECHNOLOGY-iStock-royyimzy-2201625894.webp"

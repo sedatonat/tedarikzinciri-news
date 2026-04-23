@@ -1,6 +1,5 @@
 ---
 title: "Husiler İsrail'in Hayfa Limanı Üzerine Deniz Blokajı İlan Etmekta"
-subtitle: "SCB/iStock Kateryna Mashkevych: Houthi Declare Maritime Blockade Israel Haifa Port; Yemen Rebel Houthi Movement Commercial Shipping Steer Clear Risk Target Breakbulk News; Yahya Saree Military Spokesperson Reuters May 19 Televised Statement Officially Added Maritime Target List Change Course Immediately; Iron Dome Defense System Intercept Most Missile Many Month Hundred Mile Force Project Shipper On Edge Significant Rerouting Global Trade; U.S.-Flagged Vessel Halt Attack Earlier This Year Washington Ramped Retaliatory Strike Allied Israeli Port Vulnerable"
 date: '2026-04-22T23:59:30Z'
 category: Lojistik
 secondaryCategories:

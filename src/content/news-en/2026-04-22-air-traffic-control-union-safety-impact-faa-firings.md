@@ -1,6 +1,5 @@
 ---
 title: "Air Traffic Control Union Analyzing Safety Impact of FAA Firings"
-subtitle: "SCB/Bloomberg 427431568: Air Traffic Control Union Analyzing Safety Impact FAA Firing; SupplyChainBrain Analyst Insight; National Air Traffic Controllers Association NATCA Review Fallout February 14 Firing Affecting Hundreds Probationary FAA Workers Just Weeks After Worst US Civil Aviation Disaster in Decade; Statement Says Analyzing Effect Reported Federal Employee Terminations on Aviation Safety and National Airspace System Members; DOGE-Driven Federal Workforce Cuts by Trump Administration Affecting FAA Probationary Workers Mid-February"
 date: "2026-04-22T23:58:30Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/02/18/air-traffic-control-tower-bloomberg-427431568.jpg"

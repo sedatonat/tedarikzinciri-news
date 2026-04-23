@@ -1,6 +1,5 @@
 ---
 title: "Jaguar Land Rover Siber Saldırısı U.K. Araç Üretiminde %27 Düşüşe Neden Olmakta"
-subtitle: "Bloomberg/Chris Ratcliffe: JLR Solihull U.K. Range Rover SUV; Eylül %27 Üretim Düşüşü 51,090 Birim; SMMT 24 Ekim Veri; Toplam Ticari Araçlar Dahil %36 Düşüş; Stellantis Vauxhall Luton Tesisi Erken Kapanış; British Otomotiv Sektörü Yeni Baskı; Cyberattack JLR Felç Etmekte"
 date: '2026-04-22T07:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

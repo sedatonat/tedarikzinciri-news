@@ -1,6 +1,5 @@
 ---
 title: "Trump Yönetimi, Three Mile Island Nükleer Reaktörünü Yeniden Başlatmakta 1 Milyar Dolar Kredi Vermekte"
-subtitle: "NYT/iStock: Constellation Energy Microsoft Pennsylvania Unit 1 Reaktör; 800,000 Hane Elektrik; AI Veri Merkezi Güç; 1.6B Dolar Toplam Yarısı Aşmakta; 1979 Unit 2 Kısmi Erime; Energy Secretary Chris Wright Düşük Karbon Bool; Sırada SMR/Uranyum Tedarik Lojistik"
 date: '2026-04-22T13:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

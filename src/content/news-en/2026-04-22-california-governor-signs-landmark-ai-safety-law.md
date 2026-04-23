@@ -1,6 +1,5 @@
 ---
 title: "California Governor Signs Landmark AI Safety Law"
-subtitle: "SCB/iStock: Gavin Newsom California Governor SB 53 Transparency in Frontier Artificial Intelligence Act; September 29 Signature; California Office of Emergency Services Critical Security Event Reporting; Whistleblower Protection; Ethics AI Consortium; 32 of Top 50 AI Companies Based in California OpenAI Anthropic Google Meta Apple; 2024 Global AI/ML VC Half Bay Area; Silicon Valley Super PAC 200M Dollars"
 date: "2026-04-22T11:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2024/11/25/artificial-intelligence-manufacturing-iStock-2152031133.webp"

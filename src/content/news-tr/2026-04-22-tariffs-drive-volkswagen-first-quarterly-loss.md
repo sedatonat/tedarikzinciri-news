@@ -1,6 +1,5 @@
 ---
 title: "Tarifeler Volkswagen'i 5 Yılın İlk Çeyrek Zararına Sürüklemekte"
-subtitle: "SCB/iStock aquatarkus: VW Q3 1.5B Dolar Operasyonel Zarar; Trump Tarife Mali Baskı; Porsche Tüm-Elektrik Stratejisi Geri Çekmekte 5.4B Hit; Yıl Sonu 5.7B Tarife Maliyet; CFO Arno Antlitz 30 Ekim Açıklama; 5 Yılda İlk Çeyrek Zararı; Mosel Germany Tesisi"
 date: '2026-04-22T11:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

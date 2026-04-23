@@ -1,6 +1,5 @@
 ---
 title: "Podcast: It's Time to Automate the B2B Order Management Lifecycle"
-subtitle: "Bob Bowman EIC SupplyChainBrain/Michael Rabinowitz CoEnterprise CEO: Agentic AI Order Management Transformation; Timely Synchronized Data Exchange; Trust Culture Among Partners; Faster Intelligent Decision-Making Before Disruptions; B2B Manual Processes Still the Norm; EDI/API Bridge"
 date: "2026-04-22T18:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/11/13/SPREADSHEET-MANUAL-BUSINESS-PLANNING-iStock-simpson33-1181407201.webp"

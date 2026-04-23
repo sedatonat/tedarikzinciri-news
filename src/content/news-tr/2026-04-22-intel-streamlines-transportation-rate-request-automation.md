@@ -1,6 +1,5 @@
 ---
 title: "Intel Taşımacılık Harcamasını Rate Request Otomasyonu ile Radikal Olarak Akıcılaştırmakta"
-subtitle: "SCB/iStock royyimzy: Intel Corp Global Logistics Org GLO ve Corporate Strategic Procurement CSP Birimleri; Carrier Sözleşme/Rate Yönetimi; Eski Süreç Yoğun İnsan Müdahale; Bilgi Toplama Harici Teklif Aracı Yükleme; Tüm Taşımacılık Modları Sözleşmeli Rate Hantal Toplama; AI/Otomasyon Dönüşümü; Verimlilik Tasarrufu"
 date: '2026-04-22T04:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

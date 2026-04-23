@@ -1,6 +1,5 @@
 ---
 title: "DHL Express Canada Şimdilik Teslimatları Durdurmakta"
-subtitle: "SCB/iStock JHVEPhoto: DHL Express Canada Cease Deliveries; 20 Haziran 2025 Suspend Service Across Country; Unifor 2000+ Worker Strike Since 8 Haziran; Truck Driver Courier Warehouse Call Center Employee; German-Owned Lockout Negotiation Breakdown; New Federal Legislation Replacement Worker Ban; Wage Working Condition Surveillance Automation Bargaining Priority; Lululemon Shein Siemens Canada Customer; Brampton Ontario Headquarters; CBC Coverage"
 date: '2026-04-22T23:45:00Z'
 category: Lojistik
 secondaryCategories:

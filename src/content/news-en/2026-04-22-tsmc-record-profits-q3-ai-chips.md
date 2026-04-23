@@ -1,6 +1,5 @@
 ---
 title: "TSMC Reports Record Profits in Q3 as AI Chip Demand Surges"
-subtitle: "SCB/AP/iStock: Taiwan Semiconductor Manufacturing Q3 Net Profit ~40% YoY Growth; 15B Dollars Net Profit Single Quarter Record; Exceeds 13.6B Analyst Estimate; 33B+ Revenue Surpasses 1B+ Estimate; Q2 61% Profit Growth Previously; AI Advanced Chip Demand Global; Hsinchu Taiwan; C.C. Wei CEO"
 date: "2026-04-22T02:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2024/05/08/iStock-1363056798.webp"

@@ -1,6 +1,5 @@
 ---
 title: "Italy Presses Fashion Giants in Labor Abuse Probe"
-subtitle: "Milan Prosecutors: 13 Luxury Brands Lack Governance and Internal Controls; Chinese Workers Face Severe Exploitation Including Excessive Hours, Low Wages, Degrading Housing and Unsafe Conditions; Tod's Under Initial Scrutiny for \"Willful Blindness\"; Dolce & Gabbana, Versace, Prada, Gucci, Adidas Italy; Marche Region"
 date: "2026-04-22T03:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/12/04/gucci-italian-fashion-iStock-2226860329.webp"

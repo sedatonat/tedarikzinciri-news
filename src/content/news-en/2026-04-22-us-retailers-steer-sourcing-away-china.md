@@ -1,6 +1,5 @@
 ---
 title: "U.S. Retailers Look to Steer Sourcing Away From China"
-subtitle: "SupplyChainBrain/Michael Nagle Bloomberg: U.S. Retailers Look to Steer Sourcing Away from China; Trade Tension Trump Tariff Reduce Reliance on Chinese Manufacturing; Target Rick Gomez Chief Commercial Officer 60% 2017 30% Today 25% End 2026; Gap Richard Dickson CEO Less Than 3% End 2025; Macy's Tony Spring CEO 18% National Brand Down From 20%; Walmart Warn Tariff-Driven Price Surge; Sourcing Strategy Common Factor Vietnam India Bangladesh Indonesia Mexico Diversification Friendshoring"
 date: "2026-04-22T23:50:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2024/03/05/TARGET-A-shopper-leaves-a-Target-store-in-New-York.-Photographer-Michael-Nagle-Bloomberg.webp"

@@ -1,6 +1,5 @@
 ---
 title: "Duffy Proposes Six New Air Traffic Control Centers Following Operational Mishaps"
-subtitle: "SCB/Bloomberg Samuel Corum: Duffy Pitch Six New Air Traffic Control Center After Mishap; Sean Duffy U.S. Transportation Secretary Press Conference May 8 600+ Radar Replace 45000 Flight Daily; More Than Dozen Airport Tower Revamp Telecommunications Network Fiber Wireless Satellite Connection; Donald Trump Phone One Big Beautiful Contract Single Responsibility; Philadelphia Facility Newark Liberty International Airport Radar Radio Lost 90 Second; Delta Air Lines United Airlines American Airlines Southwest Airlines JetBlue CEO Stage Endorse; FAA Federal Aviation Administration NOTAM Telecommunications Aging System; Newark Outage Air Traffic Controller Shortage Modernization Decade Overdue"
 date: "2026-04-22T23:58:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/05/08/SEAN-DUFFY-SECRETARY-TRANSPORTATION-BLOOMBERG.webp"

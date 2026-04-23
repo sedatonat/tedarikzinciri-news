@@ -1,6 +1,5 @@
 ---
 title: "Tarifeler Şirketlerin Karlarını Şişirme Kapısını Açabilmekta"
-subtitle: "SCB/iStock 2134810249: Tariff Could Open Door Company Pad Profit; Nick Bowman Senior Editor SupplyChainBrain; Analyst Insight Company After Company Warn U.S. Tariff Force Raise Price Variety Product Concern Mount Possibility Some Exploit Situation Hike Price Well Beyond Justified Levy; March 25 Letter Commerce Secretary Howard Lutnick Senator Elizabeth Warren Highlight Fear Trump Administration Chaotic Approach Trade Enable Corporation Increase Price Regardless Goods Actually Subject Tariff; 2018 Trump First Term Washing Machine Tariff Domestic Machine Dryer Not Subject Levy Also Increased; Federal Reserve Chair Jerome Powell Manufacturer Just Followed Crowd Raised Price; Federal Trade Commission Chair Andrew Ferguson Levy Should Not Interpreted Green Light Price Fixing; April 13 Sony PS5 Price Hike"
 date: '2026-04-22T23:58:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

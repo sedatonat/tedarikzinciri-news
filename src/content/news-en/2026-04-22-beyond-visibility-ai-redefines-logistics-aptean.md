@@ -1,6 +1,5 @@
 ---
 title: "Beyond Visibility: AI Redefines Logistics"
-subtitle: "Aptean Jim Endres Director TMS/Chris Peel Director TMS PM/Robert Bowman SCB Editor-in-Chief: Visibility Alone Does Not Deliver Agility/Flexibility/Performance; GenAI Intelligent Agents; From Passive Insights to Proactive Orchestration; Agents Not Just Analyzing; Taking Action"
 date: "2026-04-22T20:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2022/11/30/SEMICONDUCTOR-CHIP-iStock-Mykola-Pokhodzhay-1296135863.webp"

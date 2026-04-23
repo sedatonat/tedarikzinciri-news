@@ -1,6 +1,5 @@
 ---
 title: "Sağlık Sevkiyatında Gümrük Uyumunun Yüksek Riski"
-subtitle: "SCB Think Tank/Josh Medow/iStock Chawanakorn Soaim: Sağlık ve Yaşam Bilimleri Lojistiği; Araştırma İlaçları Biyolojikler Cihazlar Hasta Numuneleri Hassas Koşul Taşıma; FDA USDA Düzenleme Sıkılaşma; Cold-Chain Düzenleyici Mayın Tarlası; Gümrük Uyum Yönetim Kurulu Risk; Klinik Deneme Zaman Çizelgesi"
 date: '2026-04-22T05:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

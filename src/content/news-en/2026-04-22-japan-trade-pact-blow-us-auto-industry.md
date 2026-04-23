@@ -1,6 +1,5 @@
 ---
 title: "Japan Trade Pact Deals Blow to U.S. Auto Industry"
-subtitle: "SCB/iStock BalkansCat: Japan Trade Pact Blow U.S. Auto; Trump July 22 Agreement Sets 15% Tariff on Japanese Cars; Reduced from 25% Threat Previously; U.S. Companies Engines and Transmissions from Canada Mexico Face 25% Tariff; UAW United Auto Workers Deeply Angered; AAPC American Automotive Policy Council Represents GM Ford Stellantis; Japanese Imports with Virtually No U.S. Content Face Lower Tariff Bad Deal; North America Built Vehicles with High U.S. Content"
 date: "2026-04-22T23:05:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2023/11/30/FORD-DEALERSHIP-SIGN-iStock--BalkansCat--1040694160.webp"

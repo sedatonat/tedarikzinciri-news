@@ -1,6 +1,5 @@
 ---
 title: "U.S. Reduces Tariffs on EU Automobiles to 15%; Cementing Trade Agreement Terms"
-subtitle: "SCB/Bloomberg/iStock Ivan Kyryk: U.S. Reduces EU Auto Tariffs to 15%; Retroactive to August 1; Department of Commerce and USTR Release Documents on September 24; Trump Scotland Golf Course Deal Details; German Automakers Volkswagen, Porsche, Mercedes-Benz Shares Rise; Porsche Up 3.8% in Frankfurt; Aircraft Parts, Generic Pharma, Cork, Metals Exemptions from September 1; MFN Most Favored Nation Tariff"
 date: "2026-04-22T14:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2023/09/29/VOLKSWAGEN-TIRE-iStock--Ivan-Kyryk--1462221368.webp"

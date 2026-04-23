@@ -1,6 +1,5 @@
 ---
 title: "Impending Crisis Looms Over U.S. Ports"
-subtitle: "SCB/iStock 1215099790: Impending Crisis Looms Over U.S. Ports; Nick Bowman Senior Editor SupplyChainBrain; Analyst Insight Trump Administration Sweeping Tariff Lead Slowdown Most Crucial Shipping Hubs Brought On Rapidly Rising Number of Blank Sailings, Plummeting Imports, and Growing Fear of Potential Recession; April 21 Release from Freight Forwarder Flexport Shows Ocean Carriers Withdrawing Capacity from Transpacific Eastbound Trade at Faster Rate Than Pandemic with Eight Carriers Completely Suspending Seven Weekly Service Loops; Port Optimizer Data Shows Port of Los Angeles Scheduled Vessels for Week of April 27 Down 27 Percent from Previous Week and 9 Percent Year-over-Year; Wall Street Journal Reports 35 Percent Drop in Import Volume Over Two Weeks, Executive Director Expresses Concern; Blank Sailings Nearly Doubled Between Week of April 13-20; 25 Percent of Weekly Service Loops Canceled for Late April and Early May"
 date: "2026-04-22T23:55:30Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/04/28/ports-supply-chain-econony-iStock-1215099790.webp"

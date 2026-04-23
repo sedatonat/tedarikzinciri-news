@@ -1,6 +1,5 @@
 ---
 title: "Argentina Emerging as New Opportunity in Latin America's Industrial Sector"
-subtitle: "SCB Think Tank/iStock: Argentina New Opportunity Latin America Industrial; Diego Rodriguez SCB Contributor; Manufacturing Sector Latin America Imported Component Heavy Reliance Chinese Import Spike Mid-Sized Manufacturer Out of Business; Currency Control Economic Volatility Long Hindered; 2023 End Macroeconomic Shift; 2025 5.5% GDP Growth World Bank Forecast Brazil Mexico Higher; Currency Restriction Lift Exchange Rate Unify Dollar Access Equipment Raw Material Bureaucratic Gridlock Remove; First Four Month 2025 24 Billion Import 36% YoY Increase 45% Quantity Rise Machinery U.S. Europe; Outdated Equipment Outsourcing Modernize"
 date: "2026-04-22T23:15:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/07/03/argentina-manufacturing-factory-iStock-1198042349.webp"

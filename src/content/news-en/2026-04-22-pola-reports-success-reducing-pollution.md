@@ -1,6 +1,5 @@
 ---
 title: "PoLA Reports Success in Reducing Pollution"
-subtitle: "SCB/iStock Tramino: Port of Los Angeles 16 October Inventory of Air Emissions; 2024 19% Container Volume Growth; Emissions per Container at Record Low; DPM Down 90%, SOx Down 98%, NOx Down 73% Since 2005; San Pedro Bay; Drayage Truck Cleanup"
 date: "2026-04-22T03:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2024/03/29/TRUCK-EMISSIONS-GHG-GREENHOUSE-GAS-POLLUTION-ENVIRONMENT-SUSTAINABILITY-iStock-Tramino-1324589360.webp"

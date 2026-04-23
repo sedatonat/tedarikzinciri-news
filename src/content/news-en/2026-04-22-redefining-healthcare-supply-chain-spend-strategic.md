@@ -1,6 +1,5 @@
 ---
 title: "Redefining Healthcare Supply Chain Performance: From Spend Control to Strategic Value"
-subtitle: "University Hospitals Chad Fleischer VP Supply Chain: Every Product/Equipment/Service Under Review; Thin Margins/Disruptions/Cost Management; Mission-Critical Lever; Enterprise-Level Governance/Expense Cabinet; Clinical Workflow Integration"
 date: "2026-04-22T14:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2026/02/11/MEDICAL-SUPPLIES-HOSPITAL-iStock-Hispanolistic-1773073564.webp"

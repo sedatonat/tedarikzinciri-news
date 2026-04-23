@@ -1,6 +1,5 @@
 ---
 title: "CSCO'lar İşte Çok Daha Önemli Hale Gelmekta Gartner Söylemekta"
-subtitle: "SCB/Helen Atkinson Gartner: CSCO Become Far More Significant Business Gartner Tom Enright VP Analyst Supply Chain Symposium XPO Orlando Florida May 5; Top Strategic Supply Chain Prediction 2025 Beyond; Robot Manager 5 Percent Workforce Manage Robot Like People No Sickness Vacation Cigarette Break; Fleet Robot Going Forward Distribution Center Store Call Center Factory Everywhere Support Replace Human Decision-Making; Drastic Technology-Driven Change Shift Chief Supply Chain Officer Far More Central; Truck Shed Customer-Oriented Role; AI Machine Learning 2028 15 Percent Day-to-Day Supply Chain Decision Autonomous AI Agent Free Human Critical Decision; Big Change Three Main Area People AI Customer 50 Percent Prediction Correct Role CSCO Beyond Recognition"
 date: '2026-04-22T23:56:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

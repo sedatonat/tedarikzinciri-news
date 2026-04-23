@@ -1,6 +1,5 @@
 ---
 title: "Özel Filo Yiyecek Hizmeti Dağıtıcılarını Karşı Karşıya Bırakmakta Beş Zorluk"
-subtitle: "Descartes White Paper: Statik Rotalama/Manuel Evrak/Siloed İletişim Sürdürülemez; OS&D Fazla/Eksik/Hasar; İşgücü/İşe Alım/Tutma; Son Dakika Sipariş Kesintisi; Verimsiz Filo Kullanımı; Dijital Müşteri Etkileşimi Eksikliği; Dinamik Rota Optimizasyon e-POD Mobil"
 date: '2026-04-22T11:00:00Z'
 category: Lojistik
 secondaryCategories:

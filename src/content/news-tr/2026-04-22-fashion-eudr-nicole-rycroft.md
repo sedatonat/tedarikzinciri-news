@@ -1,6 +1,5 @@
 ---
 title: "Moda, EUDR ile Adım Atmamakta Olunmasını Karşılayamamakta"
-subtitle: "Nicole Rycroft SCB Contributor: EUDR Aralık 2026 Bir Yıl Erteleme; Basılı Ürün Muafiyeti Kitap/Gazete; Sektör Bazlı Oyma Tehlikeli Emsal; Tam İzlenebilirlik/Ormansızlaşma Olmayan TZ Norm; AB Tutarlı Ekonomi Çapında Kural; Markalar Yatırım"
 date: '2026-04-22T04:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

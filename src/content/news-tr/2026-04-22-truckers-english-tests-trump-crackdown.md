@@ -1,6 +1,5 @@
 ---
 title: "İngilizce Testlerinde Başarısız Olan Kamyoncular, Trump Sıkı Takibinde Yollardan Çekilmekte"
-subtitle: "Bloomberg/Vadym Shpak Illinois Trucking Owner: Doğu Avrupalı Sürücüler Güney Eyaletlere Reddetmekte; Sigorta Primleri Tırmanmakta; Sean Duffy Transportation Secretary Eylül CDL Yabancı Doğumlu Sınırlama; Federal Hakim Duraklatma; Thaw Myanmar Asylum Photo"
 date: '2026-04-22T06:00:00Z'
 category: Lojistik
 secondaryCategories:

@@ -1,6 +1,5 @@
 ---
 title: "Climate Change Exposes Weak Links in U.S. Medical Supply Chains"
-subtitle: "SCB/iStock Sergii Kolesnikov: Climate Change Exposes Weak Links in U.S. Medical Supply Chain; Hurricane Helene September 2024 Florida Georgia Devastation; North Carolina Precipitation Flooding; Baxter International North Cove Plant Closure; IV Fluid Production; Chris Luoma GHX Senior VP Strategy; Single Site Manufacturing JIT Inventory; Last Mile Fragile; Warmer Ocean Supercharge Storm; Cost Efficiency Resiliency Balance"
 date: "2026-04-22T20:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2024/10/02/iv-fluids-iStock-1806224504.webp"

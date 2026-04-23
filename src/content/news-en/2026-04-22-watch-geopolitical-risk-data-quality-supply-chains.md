@@ -1,6 +1,5 @@
 ---
 title: "Watch Grappling with Geopolitical Risk and Data Quality in Supply Chains"
-subtitle: "SCB/iStock Mykola Pokhodzhay; Watch Grappling Geopolitical Risk Data Quality Supply Chains; Bart De Muynck Industry Expert Adviser; SupplyChainBrain Seagull Software Survey Resilience Uncertainty; Tariff Impact Visibility Data Use Assessment; Data Availability Quality Major Concern; Right Intelligence Right Time Disruption Predict Demand Trend Crucial; COVID-19 Pandemic 5 Year Risk Reminiscent; Complacency Pandemic Faded Shake Executive; Wait-and-See vs React Now Readiness Variance"
 date: "2026-04-22T23:50:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2022/11/30/SEMICONDUCTOR-CHIP-iStock-Mykola-Pokhodzhay-1296135863.webp"

@@ -1,6 +1,5 @@
 ---
 title: "Modernizing the Mile: US Foods Builds a Smarter Future for Daily Planning"
-subtitle: "SCB/iStock 1296135863: Modernize Mile US Foods Smarter Future Daily Planning; Descartes Sponsored Content; Analyst Insight US Foods Operate One Largest Private Fleet Country Deliver More 250000 Customer Independent Restaurant Hospital Hotel; Leading Major Initiative Modernize Daily Route Planning Decentralized Network 70+ Distribution Center; Streamline Operation Reduce Complexity Build Smarter More Agile Routing Model; Replace Outdated System Capture Critical Tribal Knowledge Technology Improve Service Reliability Drive Efficiency"
 date: "2026-04-22T23:55:30Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2022/11/30/SEMICONDUCTOR-CHIP-iStock-Mykola-Pokhodzhay-1296135863.webp"

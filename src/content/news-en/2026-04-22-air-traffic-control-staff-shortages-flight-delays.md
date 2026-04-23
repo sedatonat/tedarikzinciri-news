@@ -1,6 +1,5 @@
 ---
 title: "ATC Staff Shortages Causing Flight Delays"
-subtitle: "SCB/Guardian/iStock gorodenkoff: FAA Federal Aviation Administration; Nashville Boston Dallas Chicago Philadelphia Airports; Atlanta Houston DFW ATC Centers Staff Shortage; U.S. Government Shutdown Day 7; Sean Duffy Transport Secretary October 7 Warning; NATCA Air Traffic Controllers Union; Burbank Airport Closing; Nashville 2 Hour Delays"
 date: "2026-04-22T07:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2023/01/11/AIR-TRAFFIC-CONTROL-TOWER-iStock-gorodenkoff-1319258465.webp"

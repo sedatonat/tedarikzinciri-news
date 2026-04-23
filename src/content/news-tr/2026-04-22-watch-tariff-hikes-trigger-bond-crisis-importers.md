@@ -1,6 +1,5 @@
 ---
 title: "İzle: Tarife Artışları İthalatçılar İçin Tahvil Krizini Nasıl Tetikleyebilir"
-subtitle: "SCB/iStock 1296135863: Watch Tariff Hike Trigger Bond Crisis Importer; Dan Swartz Tariffs Customs Principal Crowe; Robert Bowman SupplyChainBrain Interview; Analyst Insight Rapid Rise Tariff Especially Good China Threaten Impose Huge Financial Burden U.S. Importer Well Beyond Amount Tariff Themselves; Importer Obtain Surety Bond Speed Up Receipt Goods Enter Country Bond Allow Take Delivery Import Shipment Port Release Customs Before Pay Duty 10 Day Make Payment Bond Serve Backup Fail; Trump Administration Steep Increase Tariff Possibility Bond Not Cover Full Amount Liability Bond Limit 10 Percent Estimated Import Duty Fee Tax 12 Month Period; Saturated Insufficiency Notice Increase Bond Forced Stack Multiple Bond"
 date: '2026-04-22T23:59:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

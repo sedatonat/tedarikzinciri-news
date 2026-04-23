@@ -1,6 +1,5 @@
 ---
 title: "Hava Trafik Kontrol Sendikası FAA İşten Çıkarmalarının Güvenlik Etkisini Analiz Etmekta"
-subtitle: "SCB/Bloomberg 427431568: Air Traffic Control Union Analyzing Safety Impact FAA Firing; SupplyChainBrain Analyst Insight; National Air Traffic Controllers Association NATCA Review Fallout February 14 Firing Affect Hundred Probationary FAA Worker Just Week After Worst US Civil Aviation Disaster Decade; Statement Say Analyzing Effect Reported Federal Employee Termination Aviation Safety National Airspace System Member; DOGE Driven Federal Workforce Cut Trump Administration Affect FAA Probationary Worker Mid-February"
 date: '2026-04-22T23:58:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

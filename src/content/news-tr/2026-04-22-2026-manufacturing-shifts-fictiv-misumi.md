@@ -1,6 +1,5 @@
 ---
 title: "Yok Saymakta Olunamamakta Olan 2026 İmalat Kaymaları"
-subtitle: "Fictiv/MISUMI Dave Evans ve Nate Evans, Frost & Sullivan Sankara Narayanan: 300+ Lider İçgörü; AI Temel; Dijital Platform Zorunlu; Bölgesel Esneklik/Tarife/Sürdürülebilirlik/Uyumluluk; Nick Bowman Sunmakta"
 date: '2026-04-22T05:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

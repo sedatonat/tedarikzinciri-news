@@ -1,6 +1,5 @@
 ---
 title: "Tesla China Shipments Drop for the Eighth Time in 10 Months"
-subtitle: "Bloomberg/David Paul Morris: Tesla Shanghai Plant October 61,497 Vehicles -10% YoY; CPCA Preliminary Data; Elon Musk Faces Challenging Q4; Decline in 8 of 10 Months in 2025; Europe Also Shows Downtrend; China EV Market Intense Competition BYD Xiaomi Nio Xpeng Li Auto"
 date: "2026-04-22T14:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/06/21/TESLAS-IN-CALIFORNIA-BLOOMBERG.webp"

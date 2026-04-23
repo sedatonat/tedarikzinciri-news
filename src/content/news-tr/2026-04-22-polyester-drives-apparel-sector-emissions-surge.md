@@ -1,6 +1,5 @@
 ---
 title: "Polyester Hazır Giyim Sektörü Emisyonlarındaki Artışı Yönlendirmekta"
-subtitle: "SCB/iStock: Polyester Apparel Sector GHG Emisyon Artış %7.5 2023; Apparel Impact Institute Aii Lewis Perkins President Demekta; 23 Temmuz Aii Raporu; %2 Küresel Emisyon Apparel Sektör; %57 Küresel Fiber Üretim Polyester; %20 Cotton İkinci Sıra; Man-Made Cellulosic Fiber; Fast Fashion Talep Artış; Carbon Intensive Polyester Dependence; 2030 Carbon Footprint Halve Hedef Geri"
 date: '2026-04-23T00:10:00Z'
 category: Tedarik Zinciri
 secondaryCategories: []

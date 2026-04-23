@@ -1,6 +1,5 @@
 ---
 title: "Trump H-1B Vize Ücreti; Almanya'nın Hint İşçileri Çekmesinin Kapısını Açmakta"
-subtitle: "SCB/iStock: Trump Yönetimi 100,000 Dolar Ücret Yeni H-1B Başvuru; Germany Indian İşçi Çekme; 23 Eylül Philipp Ackermann German Ambassador to India Sosyal Medya Video; 124,000 Indian Germany'da Çalışmakta; Indians Germany Citizens'tan Fazla Kazanmakta; German Institute of Economic Research 387,000 Boş Tech İş Mart Sonu; 2024'te ABD H-1B Onaylarının %70'i Indians Microsoft Amazon Meta"
 date: '2026-04-22T13:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

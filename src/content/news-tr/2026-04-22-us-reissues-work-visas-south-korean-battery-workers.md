@@ -1,6 +1,5 @@
 ---
 title: "U.S. Bazı Güney Koreli Pil Tesisi Çalışanları için Çalışma Vizelerini Yeniden Vermekte"
-subtitle: "NYT/iStock: State Department Hyundai-LG Energy Solution Eylül Başı ICE Baskını; ~180 B-1 İş Vizesi Yenilemekte; Kim Min-su En Az 30 Tesise Geri Dönmekte; Class-Action Tutuklamaya Karşı; Tutuklama Merkezi Sağlıksız İddia; South Korea Foreign Ministry Rahatlama"
 date: '2026-04-22T17:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

@@ -1,6 +1,5 @@
 ---
 title: "Watch: The New World of Digital Transformation in Supply Chain Planning"
-subtitle: "SCB/iStock Mykola Pokhodzhay: Watch New World Digital Transformation Supply Chain Planning; Philip Vervloesem OMP Chief Commercial Officer; Top Organization Fast Time to Value Demand; Six to Eight Week First Value Drop Target; ROI Inventory Service Level Sustainability Demonstrate; Cost Cash Customer Balance; Quick Pilot Core Platform Spot Solution Integration; Data Touchpoint Real-Time Intensify; Consumer Goods Sector Innovation Most Advanced; Industry Variation Digital Adoption"
 date: "2026-04-23T00:10:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2022/11/30/SEMICONDUCTOR-CHIP-iStock-Mykola-Pokhodzhay-1296135863.webp"

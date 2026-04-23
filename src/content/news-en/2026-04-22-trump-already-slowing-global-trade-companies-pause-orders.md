@@ -1,6 +1,5 @@
 ---
 title: "Trump Already Slowing Global Trade as Companies Pause Orders"
-subtitle: "SCB/Bloomberg AMAZON-WAREHOUSE-NJ: Trump Already Slowing Global Trade as Company Pause Orders; Bloomberg News Report; Analyst Insight President Donald Trump Announces Delay in Tariff Plan; First Signs of Economically Damaging Slowdown in Global Trade Already Emerging; Companies Worldwide Hit Own Pause Button as Orders Continue to Escalate Trade War with China; April 9 Increase Import Duty on Chinese Goods to 125 Percent with 90-Day Pause on Higher Tariffs for Dozen Other Countries; Amazon Cancels Orders from China and Asia, Reduces Inventory; Buyers, Cargo Shippers Re-evaluating Orders; Container Volume Drops Across Pacific; Apparel, Footwear, Toy, and Consumer Electronics Hit Hard"
 date: "2026-04-22T23:58:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/04/10/AMAZON-WAREHOUSE-NJ-BLOOMBERG.webp"

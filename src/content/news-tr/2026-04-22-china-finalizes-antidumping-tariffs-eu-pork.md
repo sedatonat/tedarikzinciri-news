@@ -1,6 +1,5 @@
 ---
 title: "China, EU Domuz Eti İthalatına Antidumping Tarifelerini Sonuçlandırmakta"
-subtitle: "AP/CNBC: 17 Aralık %4.9-19.8 5 Yıl; Haziran 2024 Soruşturma Açılmakta; Eylül 2025 Geçici %15.6-32.7 İşbirliği %62.4 Olmama; EU Dünyanın En Büyük Domuz İhracatçısı %13 Yurt Dışı; €2.4 Milyar Çin 2023/2024; %45 EV Tarifesi Misilleme"
 date: '2026-04-22T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

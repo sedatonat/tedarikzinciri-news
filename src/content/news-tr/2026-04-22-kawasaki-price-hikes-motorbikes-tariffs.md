@@ -1,6 +1,5 @@
 ---
 title: "Kawasaki, Motosikletler için Tarifeleri Dengelemekte Fiyat Artışları Sinyali Vermekte"
-subtitle: "Bloomberg TV/Yoshinori Kanehana CEO 1 Aralık: Yüksek Uç Motosiklet Fiyat Artışı %17; Japonya'dan Motor/Bileşen ABD Tarifelerine Tabi; Nebraska 4,000 İşe Alım Etkilenmekte; Pahalı Modeller Zenginler Alacak; Boeing 787/737 Gövde; H1 Cari Yıl Net Tarife Etkisi 90B Yen 580M Dolar"
 date: '2026-04-22T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

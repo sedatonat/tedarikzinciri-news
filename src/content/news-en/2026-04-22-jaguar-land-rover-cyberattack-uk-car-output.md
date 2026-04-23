@@ -1,6 +1,5 @@
 ---
 title: "Jaguar Land Rover Cyberattack Causes 27% Slump in U.K. Vehicle Production"
-subtitle: "Bloomberg/Chris Ratcliffe: JLR Solihull U.K. Range Rover SUV; September 27% Production Decline 51,090 Units; SMMT October 24 Data; Total Commercial Vehicles Including 36% Decline; Stellantis Vauxhall Luton Plant Early Closure; British Automotive Sector Under New Pressure; Cyberattack Paralyzes JLR"
 date: "2026-04-22T07:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/10/23/JAGUAR-LAND-ROVER-UK-BLOOMBERG.webp"

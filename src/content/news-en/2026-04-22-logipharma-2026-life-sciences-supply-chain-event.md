@@ -1,6 +1,5 @@
 ---
 title: "LogiPharma 2026: Leading Global Life Sciences Supply Chain Event"
-subtitle: "SCB/LogiPharma: 2,500+ Senior Leaders from Pharma/Biotech/Medtech; Theme 'Intelligent Futures Resilient Networks Global Health Impact'; 150+ Expert Speakers; AI/Data/Leadership Across End-to-End Value Chains Science Manufacturing Logistics Patient Care; Digital Autonomy Transition; Resilience Global Responsibility"
 date: "2026-04-22T09:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/10/28/LogiPharma-2026-MP-Banner-(1200-x-800-px).webp"

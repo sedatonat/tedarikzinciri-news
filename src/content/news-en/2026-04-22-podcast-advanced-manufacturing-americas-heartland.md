@@ -1,6 +1,5 @@
 ---
 title: "Podcast | Advanced Manufacturing Is Transforming America's Heartland"
-subtitle: "SCB Podcast/JLL: Advanced Manufacturing Transforming Heartland; Bob Bowman SCB Editor Conversation; JLL Sponsor; Adapting Shifting Trade Policies 5 Predictions Industrial Real Estate; CHIPS Act 280B; Inflation Reduction Act IRA; Trump 2.0 Tariff Reshoring Driver; Midwest Manufacturing Renaissance; Ohio Indiana Michigan Tennessee North Carolina Investment; Industrial Real Estate Demand"
 date: "2026-04-22T16:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/podcasts/SCB_PODCAST_LOGO_2024.jpg"

@@ -1,6 +1,5 @@
 ---
 title: "A.P. Moller-Maersk NY ve New Jersey Limanı'nda Kira Sözleşmesini Uzatmakta"
-subtitle: "SCB/iStock Edgar Feliz 861104470: AP Moller-Maersk Extend Lease Port NY New Jersey; SupplyChainBrain Analyst Insight; A.P. Moller Maersk APM Ink Deal Port New York New Jersey Extend Lease Terminal Elizabeth New Jersey 33 Year; APM Release Elizabeth Terminal Handle More 25 Percent Yearly Container Throughput Port Complex Largest Company Terminal East Coast; Largest Reefer Capacity Port New York New Jersey Super Post-Panamax Ship-Shore Crane Capable Handle Vessel 23 Container Wide On-Deck; APM Terminals Port Authority"
 date: '2026-04-22T23:53:00Z'
 category: Lojistik
 secondaryCategories:

@@ -1,6 +1,5 @@
 ---
 title: "U.S. Supreme Court Hearing on Trump Tariffs: Key Takeaways"
-subtitle: "Bloomberg/Eric Lee: SCOTUS November 5, 2025 Consolidated Case—Small Businesses and Approximately One Dozen Democratic-Led States; IEEPA Legality; Trump Punitive Tariff Authority; April 2025 National Emergency Declaration; Major Questions Doctrine; Court of International Trade Prior Ruling"
 date: "2026-04-22T15:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/11/05/TARIFF-SCOTUS-HEARING-NOV-5-2025-BLOOMBERG.webp"

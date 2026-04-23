@@ -1,6 +1,5 @@
 ---
 title: "Watch Preparing Supply Chains Against Tariffs and Turbulence"
-subtitle: "SCB/iStock Mykola Pokhodzhay: Watch Preparing Supply Chains Tariffs Turbulence; Ray DeMelfi Hy-Tek Intralogistics Senior VP Strategic Services; Dynamic Chaos Disruption Series Forecast Difficulty; Scenario-Based Approach Variable Awareness Plan Adjust; Course-Correcting Effort Two Three Year Major Overhaul; Tariff Pressure Global Market Planning Approach Alter; ROI to Cost Per Unit CFO Metric Shift; Chief Supply Chain Officer Resilience Long-term Saving; Automation C-Suite Flexibility Solution; U.S. Lag Technology Adoption Catch-Up Nimble System"
 date: "2026-04-22T23:35:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2022/11/30/SEMICONDUCTOR-CHIP-iStock-Mykola-Pokhodzhay-1296135863.webp"

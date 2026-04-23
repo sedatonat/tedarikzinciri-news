@@ -1,6 +1,5 @@
 ---
 title: "Kaliforniya Yüksek Hızlı Tren Finansmanı İptal Edilmekta"
-subtitle: "SCB/iStock JasonDoiy: Calif. High-Speed Rail Funding Canceled; Sean Duffy Transportation Secretary 17 Temmuz Duyuru; 4 Milyar Dolar Unspent Federal Funding FRA Federal Railroad Administration İptal; 16 Years Failure No Completed High-Speed Track; Train To Nowhere Critics Boondoggle; California High-Speed Rail Authority CHSRA Mismanagement Project Deficiencies; Governor Newsom Complicit Democrats Waste; Federal Dollar No Blank Check Promise Deliver Result"
 date: '2026-04-22T23:15:00Z'
 category: Lojistik
 secondaryCategories:

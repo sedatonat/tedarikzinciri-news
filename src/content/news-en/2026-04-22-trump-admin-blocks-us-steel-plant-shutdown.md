@@ -1,6 +1,5 @@
 ---
 title: "Trump Administration Blocks Shutdown of U.S. Steel Plant"
-subtitle: "SCB/iStock: Trump Administration Blocks U.S. Steel Granite City Illinois Plant Closure; White House Golden Share Authority; Nippon Steel Merger 14B Dollars June Approval; 800 Workers Early September Notice; Steel Slab Processing Halt Through November; Commerce Secretary Howard Lutnick Intervention; September 19 Plant Remains Open Agreement; Federal Government Board Seat Control; Todd Tucker Roosevelt Institute Industrial Policy"
 date: "2026-04-22T15:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2024/09/05/us-steel-facility-iStock-1058859950.webp"

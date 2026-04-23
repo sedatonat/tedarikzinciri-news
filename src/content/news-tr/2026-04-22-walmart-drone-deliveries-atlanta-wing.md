@@ -1,6 +1,5 @@
 ---
 title: "Walmart, Atlanta'da Drone Teslimatlarını Başlatmakta"
-subtitle: "Wing Partnership/Heather Rivera Chief Business Officer: 6 Mağaza Atlanta Metro 5 Şehir 2026 Ortası; 3 Aralık Bakkal/Ev Eşyası/Oyuncak/Reçetesiz İlaç; 5 Dakika Uçuş; Houston/Orlando/Tampa/Charlotte Sonraki; Yoğun Nüfus Yüksek Talep; Drone Norm/Yenilik"
 date: '2026-04-22T07:00:00Z'
 category: Lojistik
 secondaryCategories:

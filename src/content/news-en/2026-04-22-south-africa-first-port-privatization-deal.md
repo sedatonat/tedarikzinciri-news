@@ -1,6 +1,5 @@
 ---
 title: "South Africa Signs First-Ever Port Privatization Deal"
-subtitle: "Transnet/ICTSI: Filipino billionaire Enrique Razon's Durban Container Terminal Pier 2; 11 billion rand $647M; 50% stake 25-year management; Michelle Phillips CEO December 10; World Bank among world's least efficient ports; 40% capacity increase to 2.8M TEU"
 date: "2026-04-22T08:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/12/11/south-africa-port-bloomberg-445719055.webp"

@@ -1,6 +1,5 @@
 ---
 title: "U.S. Reissuing Work Visas for Some South Korean Battery Plant Workers"
-subtitle: "NYT/iStock: State Department Hyundai-LG Energy Solution September Early ICE Raid; ~180 B-1 Work Visas Reissued; Kim Min-su Returning to at Least 30 Facilities; Class-Action Lawsuit Against Detention; Detention Center Unhealthy Claims; South Korea Foreign Ministry Relieved"
 date: "2026-04-22T17:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/09/11/hyundai-iStock-458106175.webp"

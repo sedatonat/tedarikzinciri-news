@@ -1,6 +1,5 @@
 ---
 title: "World's Largest Sailing Cargo Ship Completes First Transatlantic Voyage"
-subtitle: "SupplyChainBrain/Neoline: Neoliner Origin 446 ft 5,200 Ton 80% CO2 Reduction; Nantes France to Port of Baltimore 2 Weeks; 216 ft Carbon Fiber Masts; 32,300 sq ft Sail Area; Roll-on/Roll-off Cargo; Wind-Assisted Propulsion; Maritime Decarbonization"
 date: "2026-04-22T13:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/11/03/Neoliner-Origin-Sailing-Cargo-Ship-COURTESY-PHOTO.webp"

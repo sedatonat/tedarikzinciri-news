@@ -1,6 +1,5 @@
 ---
 title: "Depo Operasyonlarında Yönetişimi Geliştirmekta"
-subtitle: "SCB/iStock AerialPerspective Works 2173942254: Enhance Governance Warehouse Operation; Keith Moore CEO AutoScheduler; Analyst Insight Today Fast-Paced Supply Chain Environment Warehouse Operation Increasing Pressure Improve Efficiency Meet Service Level Agreement SLA Compliance Regulatory Corporate Governance Standard; Achieve Goal More Than Automation Warehouse Orchestration System Real-Time Visibility Enforce Compliance Track Performance Metric Drive Accountability; Governance Warehouse Refer Policy Process Control Efficiency Compliance Accountability Movement Storage Good; Strong Governance Maintain Regulatory Compliance Reduce Operational Risk Schedule Conflict Labor Mismanagement Resource Inefficiency; Financial Performance Minimize Error Delay Penalty Predictive Analytics Proactive Decision-Making"
 date: '2026-04-22T23:54:30Z'
 category: Lojistik
 secondaryCategories:

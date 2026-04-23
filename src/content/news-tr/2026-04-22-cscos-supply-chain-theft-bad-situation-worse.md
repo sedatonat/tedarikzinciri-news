@@ -1,6 +1,5 @@
 ---
 title: "CSCO'lar ve Tedarik Zinciri Hırsızlığı Kötü Bir Durumu Daha da Kötüleştirmekta"
-subtitle: "SCB/iStock 1001622498: CSCO Supply Chain Theft Making Bad Situation Worse; Glenn Koepke SCB Contributor; Supply Chain Theft All-Time High Broker Fraud Shipment Interception Cargo Theft 35 Billion Annually Homeland Security Investigations Senate Subcommittee Hearing February; Business Reconfigure Supply Chain Tariff Inadvertently Expose Greater Risk; Chief Supply Chain Officer Door Unlocked Wide Open Thief Walk Through; Sophisticated Organized Crime Ring Tail Trucker Hundred Mile Pilfer Truckload 273 Percent Increase 2024 BSI Consulting Hold Ransom; Cut Air Brake Hose Freight Train Nike Shoe Half Million Dollar; Facebook DOT Number Fake Safety Rating Federal Motor Carrier Safety Administration"
 date: '2026-04-22T23:57:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

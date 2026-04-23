@@ -1,6 +1,5 @@
 ---
 title: "Post-Pandemic Tech Bloat Reckoning"
-subtitle: "SupplyChainBrain Webinar/iStock: Post-Pandemic Tech Bloat Reckoning Webinar; OneRail Bill Catania Founder CEO; Jeff Toewe CPO; David Rye Board Operating Advisor; Helen Atkinson SupplyChainBrain Managing Editor; Five Years After Pandemic Disruption Peak; Retailer Wholesaler Patchwork Point Solution Adoption; Idle Redundant Resource Drain Operation Slow; Hidden Cost Fragmented Tech Stack Siloed Tool Overdependence; Unified Strategy Efficiency Flexibility Performance"
 date: "2026-04-22T23:15:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2022/11/30/SEMICONDUCTOR-CHIP-iStock-Mykola-Pokhodzhay-1296135863.webp"

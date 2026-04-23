@@ -1,6 +1,5 @@
 ---
 title: "Trump Fine-Tunes Tariffs; More Concessions May Be Coming"
-subtitle: "BBC News/Guardian: November 13 Coffee/Banana Cuts for Argentina/Guatemala/El Salvador/Ecuador; November 14 Switzerland/Liechtenstein at 15% Maximum (Down from 39%); Non-Binding MoU; April 2025 National Emergency Broad Penalty Tariffs; EU Trading Bloc Negotiations; SCOTUS IEEPA Decision Pending"
 date: "2026-04-22T16:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/06/12/tariffs-data-economy-iStock-2197351521.webp"

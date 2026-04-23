@@ -1,6 +1,5 @@
 ---
 title: "Mid-2025'te Yapılması Gereken Dört Anahtar Dijital Tedarik Zinciri Değişimi Olmakta"
-subtitle: "SCB/iStock: Four Key Digital Supply Chain Shifts Mid-2025; Amit Patel SCB Contributor; Digital Transformation Essential Beyond Traditional Method New Technology Streamline Operation Reduce Cost Enhance Customer Satisfaction; 82% Supply Chain Professional Significant Impact Five Year Survey; Digital Marketplace Buyer Supplier Centralized Cloud-Based Platform Transparency Accelerate Procurement Cycle Real-Time Price Comparison Availability Check; AI-Driven Automation Demand Forecast Inventory Optimization Warehouse Transportation; Real-Time Visibility IoT Sensor Track Trace Smart Contract Blockchain"
 date: '2026-04-22T23:59:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

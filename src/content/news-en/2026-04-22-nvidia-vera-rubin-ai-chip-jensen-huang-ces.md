@@ -1,6 +1,5 @@
 ---
 title: "Nvidia to Launch New AI Chip This Year, CEO Says"
-subtitle: "Jensen Huang at CES January 5 Las Vegas; Vera Rubin Chip Three Years in Development; More Compute Power, Less Power Consumption; Mercedes-Benz Autonomous Vehicle Partnership; Microsoft/Amazon Buyers; Trump H200 China-Approved List 25% Revenue Share"
 date: "2026-04-22T19:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2026/01/07/NVIDIA-CHIP-iStock-Antonio-Bordunovi-1141488976.webp"

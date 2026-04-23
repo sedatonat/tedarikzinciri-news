@@ -1,6 +1,5 @@
 ---
 title: "Rusya Trump'ın Tarife Listesinde Dikkate Değer Şekilde Yok Olmakta"
-subtitle: "SCB/iStock mashabuba 172750694: Russia Notably Absent Trump Tariff List; SupplyChainBrain Analyst Insight; Dust Settle President Donald Trump Stunning Announcement Punitive Range Reciprocal Tariff Practically Every Country World Including Uninhabited Island Standout Omission List Target Russia; U.S. Outlet Axios Quote White House Press Secretary Karoline Leavitt April 2 Existing U.S. Sanction Russia Preclude Meaningful Trade Cuba Belarus North Korea Not Included Same Reason; BBC News Russian Media April 3 Argue Country Not Trump Reciprocal Tariff List Sanction; Trade U.S. Russia Continue Despite War Ukraine"
 date: '2026-04-22T23:56:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

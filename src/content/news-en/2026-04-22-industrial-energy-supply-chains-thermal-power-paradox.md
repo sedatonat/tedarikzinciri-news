@@ -1,6 +1,5 @@
 ---
 title: "Industrial Energy Supply Chains: The Thermal Power Paradox and Four-Pillar Solution"
-subtitle: "SCB Think Tank/iStock kamilpetran: Thermal Power Generation Supply Chain ESG Paradox; 37.4 Billion Tons Annual CO2 Emissions; Power Sector 40% Energy Emissions; India 60-70% Coal Electricity; 1.4 Billion Population Dependency; Four-Pillar Solution; Energy Security Economic Growth Tradeoff; Developing Economies Thermal Dependency; ESG Risk Carbon Intensive; Coal Fired Power Plants Industrial Backbone"
 date: "2026-04-22T18:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2023/12/01/COAL-POWER-PLANTS-iStock--kamilpetran--623296954.webp"

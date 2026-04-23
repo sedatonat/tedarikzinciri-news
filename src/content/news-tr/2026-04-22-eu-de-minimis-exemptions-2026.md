@@ -1,6 +1,5 @@
 ---
 title: "AB, De Minimis Muafiyetlerini Sona Erdirmekte Zaman Çizelgesini Öne Çekmekte"
-subtitle: "AB Maliye Bakanları 13 Kasım Oylama: 150 Euro 175 Dolar Altı 2026 (önceki 2028); Maros Sefcovic Trade Commissioner Avrupa Perakendeciler Geciktirmemekte; Shein/Temu Çinli Doğrudan Tüketici; 2024 4.6 Milyar Düşük Değer e-Ticaret Paketi (2x); %90+ Çin; Dirk Gotink"
 date: '2026-04-22T15:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

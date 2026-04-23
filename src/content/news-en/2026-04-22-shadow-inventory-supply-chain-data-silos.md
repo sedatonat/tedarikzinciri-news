@@ -1,6 +1,5 @@
 ---
 title: "Shadow Inventory Supply Chain Data Living in Silos"
-subtitle: "SCB Think Tank/iStock af_istocker: Shadow Inventory Supply Chain Data Silos; Stephen Dyke SCB Contributor; Purchase Order Landed Cost Real-Time Profitability Disconnect; August Back-to-School September Holiday Stock Lock-In; Working Capital Climbing Cost Risk; Finished Goods DC Overstock Not Occurring; Financial Reality Planning Assumption Mismatch; Liability Profitable Liability Conversion"
 date: "2026-04-23T00:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/07/08/WAREHOUSE-INVENTORY-WORKERS-iStock-af_istocker-2207794178.webp"

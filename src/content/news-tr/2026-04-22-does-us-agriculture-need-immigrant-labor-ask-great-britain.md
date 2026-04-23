@@ -1,6 +1,5 @@
 ---
 title: "ABD Tarımı Göçmen İşgücüne İhtiyaç Duymakta mı? İngiltere'ye Sorun."
-subtitle: "SCB/iStock JABilton 1629551919: U.S. Agriculture Need Immigrant Labor Ask Great Britain; Robert Bowman SupplyChainBrain Analyst Insight; Anyone Looking Assess Impact President Trump Immigration Policy U.S. Agriculture Might Study Labor Shortage Hit Farm United Kingdom Arrival COVID-19; 2020 Combination Pandemic Lockdown Britain Withdrawal European Union Country Find Itself Without Enough Worker Pick Crop; Foreign Labor Mostly Eastern Europe Accounting Much 95 Percent Workforce Supply Largely Cut Off; Crops Rotting Field Without Pickers; Brexit Lesson H-2A Visa Program"
 date: '2026-04-22T23:54:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

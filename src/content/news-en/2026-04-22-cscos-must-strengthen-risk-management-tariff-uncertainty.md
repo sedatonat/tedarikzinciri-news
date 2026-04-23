@@ -1,6 +1,5 @@
 ---
 title: "CSCOs Must Strengthen Risk Management Amid Global Tariff Uncertainty"
-subtitle: "SupplyChainBrain SCB Think Tank Analyst Insight; Chief Supply Chain Officers Become Accustomed to Uncertainty in 2025 Expect No Different—Especially as Companies Brace for Tariff Unpredictability and Potential Market Fluctuations; In this Climate CSCOs Need to Find Effective Ways to Enhance Organizational Responsiveness and Possibly Gain Competitive Edge in the Shifting Trade Environment; Critical to Have Strong Risk Management Strategy in Place, Yet Confusion over the Meaning of Resilience Creates Challenge for Many Organizations; Recent Gartner Survey Indicates 82% of Supply Chain Leaders Are Allocating Resources for Proactive Risk Mitigation to the Wrong Risks—18% Decrease in Profitability"
 date: "2026-04-22T23:58:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/02/20/tariffs-shipping-iStock-2189862167.jpg"

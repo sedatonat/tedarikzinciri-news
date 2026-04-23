@@ -1,6 +1,5 @@
 ---
 title: "Sekreter Duffy: Süregelen Hükümet Kapanışı Uçuş Gecikmelerini Kötüleştirmekte"
-subtitle: "SCB/iStock Matthieu Douhaire: Sean Duffy U.S. Transportation Sekreteri Uyarı; 50+ ATC Personel Eksiklik 24-26 Ekim Havalimanları; 3,000+ Uçuş Gecikme 26 Ekim Tek Gün; Fox News Röportaj; Controller Wearing Thin Call Out; Essential Federal Personnel Ödeme Olmamakta; CNN Raporu"
 date: '2026-04-22T08:00:00Z'
 category: Lojistik
 secondaryCategories:

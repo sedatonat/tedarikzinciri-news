@@ -1,6 +1,5 @@
 ---
 title: "Walmart Launches Drone Deliveries in Atlanta"
-subtitle: "Wing Partnership/Heather Rivera Chief Business Officer: 6 Stores Atlanta Metro 5 Cities by Mid-2026; December 3 Groceries/Home Goods/Toys/OTC Medicines; 5-Minute Flights; Houston/Orlando/Tampa/Charlotte Next; Dense Population High Demand; Drone Normalization/Innovation"
 date: "2026-04-22T07:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2023/10/19/AMAZON-DRONE-2022-AMAZON.webp"

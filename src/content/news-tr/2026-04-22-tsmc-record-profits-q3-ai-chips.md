@@ -1,6 +1,5 @@
 ---
 title: "TSMC Q3'te Rekor Kâr Raporlamakta; AI Çip Talebini Körüklemekte"
-subtitle: "SCB/AP/iStock: Taiwan Semiconductor Manufacturing Q3 Net Kâr ~%40 YoY Artış; 15B Dolar Net Kâr Tek Çeyrek Rekor; 13.6B Analist Tahmin Aşmakta; 33B+ Gelir 1B+ Tahmin Aşmakta; Q2 %61 Kâr Artışı Daha Önce; AI Gelişmiş Çip Talep Küresel; Hsinchu Taiwan; C.C. Wei CEO"
 date: '2026-04-22T02:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

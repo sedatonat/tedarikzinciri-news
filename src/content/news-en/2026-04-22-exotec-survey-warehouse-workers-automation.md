@@ -1,6 +1,5 @@
 ---
 title: "Survey: 98% of Warehouse Workers Say Automation Is Boosting Productivity"
-subtitle: "Exotec/Romain Moulin CEO November 17: 400+ Warehouse Workers Survey; 48% Wage Growth Impact; Two-Thirds High Job Satisfaction; 48% Optimistic/32% Cautious/20% Neutral; 70% Lower Holiday Rush Stress; 32% Fewer Quit Rates During Peak Season; Human-Centered Engineering Ergonomics; AMR/AS-RS/Goods-to-Person"
 date: "2026-04-22T14:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2024/09/27/warehouse-automation-iStock-1993704307.webp"

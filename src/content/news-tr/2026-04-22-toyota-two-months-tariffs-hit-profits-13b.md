@@ -1,6 +1,5 @@
 ---
 title: "Toyota İki Aylık Tarifelerin Karlarını 1.3 Milyar Dolar Etkilemekta Söylemekta"
-subtitle: "SCB/iStock josefkubes 853165500: Toyota Two Month Tariff Hit Profit 1.3B; Toyota Predict May 8 Operating Profit Decline About One-Fifth Fiscal Year End March 1.3 Billion President Donald Trump Tariff April May Alone; New York Times Automaker Estimate Auto Tariff Start April Only Two Month Impact Very Difficult Forecast Koji Sato CEO Brief May 8 Current Environment Surround Auto Industry Trade Relation Extreme Flux; Times Pain Toyota Already Experiencing Tariff Highlight Difficult Bind Japan Face Ongoing Negotiation Trump Administration; 24 Percent Across-The-Board Tax Import Japan Pause Early July 25 Percent Automobile Auto Part Hurt Country Main Export U.S.; April 30 Japan Central Bank More Than Halve Economic Growth Forecast Cite Imposition Unprecedented Level Tariff"
 date: '2026-04-22T23:57:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

@@ -1,6 +1,5 @@
 ---
 title: "U.S. Ports Do Not Expect Disruptions During Government Shutdown"
-subtitle: "SCB/Nick Bowman/iStock: 750,000 Federal Workers on Furlough; Congress Lacks FY26 Budget Approval; First U.S. Shutdown Since 2018-2019; Port of Seattle Operating at Full Capacity on September 30; Port of LA Houston Tacoma Normal Operations; Port of Oakland Marine Terminals Open; PANYNJ Self-Funded; Mario Cordero PoLB CEO; Federal Workers Designated as Essential"
 date: "2026-04-22T10:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2024/06/24/port-of-seattle-iStock-957609674.webp"

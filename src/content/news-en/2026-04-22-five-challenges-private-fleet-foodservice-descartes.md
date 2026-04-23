@@ -1,6 +1,5 @@
 ---
 title: "Five Challenges Facing Private Fleet Foodservice Distributors"
-subtitle: "Descartes White Paper: Static Routing/Manual Documentation/Siloed Communication Unsustainable; OS&D Overages/Shortages/Damages; Labor/Hiring/Retention; Last-Minute Order Disruptions; Inefficient Fleet Utilization; Digital Customer Engagement Gap; Dynamic Route Optimization e-POD Mobile"
 date: "2026-04-22T11:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/11/24/Descartes-Foodservice-Top-Five.webp"

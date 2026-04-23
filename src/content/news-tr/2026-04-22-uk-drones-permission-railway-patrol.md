@@ -1,6 +1,5 @@
 ---
 title: "İngiltere Drone'lara Demiryollarını Devriye Etme İzni Vermekta"
-subtitle: "SCB/Drone Major: U.K. Permission Drone Patrol Railway; Civil Aviation Authority CAA Drone Major Consulting Firm; First Beyond Visual Line of Sight BVLOS Critical National Infrastructure; 13 Haziran Statement Long-Distance BVLOS Approved Green Light; Rail Network Energy Utility Defense Border Management National Infrastructure Surveillance; Trial 7.5 Mile Wolverhampton Sandwell Dudley Station Partnership Network Rail; Trespasser Verification Interception Speed Up Train Delay Reduce Life Saving Million Annual Saving"
 date: '2026-04-22T23:20:00Z'
 category: Lojistik
 secondaryCategories:

@@ -1,6 +1,5 @@
 ---
 title: "U.S. Corn Industry Says Coca-Cola's Switch to Cane Sugar 'Doesn't Make Sense'"
-subtitle: "SCB/iStock Juanmonino: U.S. Corn Industry Coca-Cola Cane Sugar Switch Doesnt Make Sense; HFCS High-Fructose Corn Syrup Cane Sugar; John Bode Corn Refiners Association President 16 July Statement; Trump Truth Social Post Coca-Cola Agreed Switch; 17 July Coca-Cola Defending HFCS Statement; Mexico UK Cane Sugar Use Reference; Robert F. Kennedy HHS Secretary Obese Diabetic Critique; American Food Manufacturing Jobs Farm Income Foreign Sugar Import Risk; Make America Healthy Again MAHA"
 date: "2026-04-22T23:20:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2024/12/03/COCA-COLA-PLASTIC-BOTTLE-WASTE-iStock-Juanmonino-481695375.webp"

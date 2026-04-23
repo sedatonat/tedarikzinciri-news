@@ -1,6 +1,5 @@
 ---
 title: "Chinese Ports See Record Traffic Ahead of U.S. Tariffs and Lunar New Year"
-subtitle: "SCB/Bloomberg 419695920: Chinese Ports See Record Traffic Ahead U.S. Tariff Lunar New Year; SupplyChainBrain Analyst Insight; China Busiest Port Processes Record Amount of Goods January Company Rush to Get Product Onto Ships Before U.S. Tariffs Kick in Ahead of Long Local Holiday; Shanghai Port Processes Record 5 Million Containers January Data Released February 10 Well Above Previous Month Data Back to 2007; Last Year Port First Globally to Process Over 50 Million Containers in One Year as Rise in Global Demand, Fall in Chinese Prices, Threat of Tariffs Combine to Push Export Value to Record"
 date: "2026-04-22T23:57:30Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2024/11/05/shanghai-port-bloomberg-419695920.jpg"

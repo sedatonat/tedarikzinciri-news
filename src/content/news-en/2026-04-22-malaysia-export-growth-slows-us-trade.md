@@ -1,6 +1,5 @@
 ---
 title: "Malaysia's Export Growth Slows as Trade with U.S. Declines"
-subtitle: "Bloomberg/Department of Statistics Malaysia: November 7% vs. Expectation 11.6%; U.S. Shipments -0.9% Second Month; Imports 15.8%; Trade Surplus 6.1 Billion Ringgit; 19% Tariff from August; Mohd Afzanizam Bank Muamalat Chief Economist 2026"
 date: "2026-04-22T11:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/10/07/malaysia-port-bloomberg-441509855.webp"

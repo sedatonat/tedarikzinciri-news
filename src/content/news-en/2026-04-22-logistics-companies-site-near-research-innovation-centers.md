@@ -1,6 +1,5 @@
 ---
 title: "Why Logistics Companies Should Position Themselves Near Research and Innovation Centers"
-subtitle: "SCB/iStock gorodenkoff: Logistics Companies Positioning Near Research and Innovation Centers; Innovation District Research Park Talent Acquisition; Tax Incentive Logistics Market Access; Innovation Accelerator Incubator Program; Supply Chain Technology Startup Ecosystem; University Industry Collaboration; Cluster Effect Network Externality; Regional Economic Growth Driver; Geographic Proximity Knowledge Spillover"
 date: "2026-04-22T19:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2023/04/12/PROCUREMENT-SOURCING-BUSINESS-WOMEN-iStock-gorodenkoff-1357661160.webp"

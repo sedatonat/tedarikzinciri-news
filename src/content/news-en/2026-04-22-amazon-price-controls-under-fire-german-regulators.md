@@ -1,6 +1,5 @@
 ---
 title: "Amazon Price Controls Under Fire from German Regulators"
-subtitle: "SCB/iStock: Amazon Price Control Under Fire German Regulator; Federal Cartel Office FCO Andreas Mundt President; Competition Law Pricing Control Limit Visibility Seller Product; June 2 Preliminary Assessment Algorithm Deprioritize Search Result Exclude Advertising Too High Not Competitive Flag; Direct Competitor Marketplace Retailer Influencing Pricing Cap Questionable Perspective; CNBC Statement Strongly Disagree Bad Customer Selling Partner; EU Settlement 2022 Preferential Treatment 17 States FTC Lawsuit Inflate Price Stifle Reach Lower Price"
 date: "2026-04-22T23:55:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/02/19/amazon-app-iStock-1045290168.webp"

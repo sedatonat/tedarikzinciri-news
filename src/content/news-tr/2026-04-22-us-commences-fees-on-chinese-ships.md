@@ -1,6 +1,5 @@
 ---
 title: "U.S. Çinli Gemilere Ücret Uygulamakta Başlamakta"
-subtitle: "SCB/iStock Sjo: Trump Yönetimi 14 Ekim Çinli Gemiler Amerikan Liman Ücret; China Ticari Gemicilik Hakimiyeti Karşı; ABD Gemi İnşa Sektörü Canlandırma; China Ministry of Transport 10 Ekim Misilleme; ABD-Bağlantılı Gemi 400 Yuan/56 Dolar Net Ton; CCTV State Media; NYT Tit-for-Tat Bozulma"
 date: '2026-04-22T01:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

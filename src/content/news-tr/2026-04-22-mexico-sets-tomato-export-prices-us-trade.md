@@ -1,6 +1,5 @@
 ---
 title: "Meksika Domates İhracat Fiyatlarını Belirlemekta ABD Ticaret Anlaşmazlığını Hafifletmekta"
-subtitle: "SCB/Bloomberg Mauricio Palos: Mexico Tomato Export Price Floor U.S. Trade Spat; Trump 2.0 Anti-Dumping Duty 17% Temmuz; 90-Day Tariff Delay Trade Deal Space; Federal Gazette Decree Late 8 August; Distortion Avoidance Mexican Government; U.S. Growers Unfair Low Price Accusation; Tomato Suspension Agreement Withdrawal; Georgina Felix Arizona Florida Tomato Exchange; Sinaloa Baja California Production Origin"
 date: '2026-04-22T23:40:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

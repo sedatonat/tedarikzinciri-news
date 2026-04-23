@@ -1,6 +1,5 @@
 ---
 title: "DHL Suspends Deliveries Exceeding $800 to U.S. Consumers"
-subtitle: "SCB/iStock 1470591554: DHL Halts Delivery Worth More Than $800 to U.S. Consumer; BBC News Report; Analyst Insight DHL Express Suspending Delivery to U.S. Worth More Than $800 Significant Increase in Red Tape Customs Under Donald Trump New Tariff Regime; Previously Packages Worth $2,500 Could Enter U.S. with Minimal Paperwork Threshold Lowered to $800; German Delivery Giant Temporarily Stops Shipments from Companies in All Countries to American Consumers April 21 Until Further Notice; Business-to-Business Shipments to Continue with Possible Delays; Customs Requirements Surge with Formal Customs Clearance Handling Around the Clock; De Minimis Rule Under $800 to Continue with Minimal Checks; Shein and Temu Issue Price Adjustment Warnings for U.S."
 date: "2026-04-22T23:58:30Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2024/02/14/DHL-SUPPLY-CHAIN-TRUCK-iStock--Jaroslaw-Kilian--1470591554.webp"

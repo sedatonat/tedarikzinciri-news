@@ -1,6 +1,5 @@
 ---
 title: "Silosuz Planlama Hexcel Dayanıklı Kalmakta için Entegre Zekayı Nasıl Kullanmakta"
-subtitle: "SCB Webinar/Dassault Systemes: Hexcel Silosuz Planning Integrated Intelligence Resilience; Dan Carrick Hexcel Supply Chain Manager; Adrian Wood DELMIA Director Strategy Marketing; Sarah Barnes-Humphrey Let's Talk Supply Chain Founder; AI Virtual Twin Real-Time Execution; Multi-Site Operation Synchronize; Fragmented Tool Unify; Internal Silo Connect; Service Cost Performance Improvement; Carbon Composite Aerospace Material"
 date: '2026-04-22T23:45:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

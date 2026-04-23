@@ -1,6 +1,5 @@
 ---
 title: "GM 5,500 İşçiyi Geçici Olarak Çıkartmakta; EV Baskısını Göstermekte"
-subtitle: "Bloomberg/Emily Elconin: General Motors 3 Tesis 5,500 Çalışan Geçici İşten Çıkartma; Trump EV Vergi Kredisi Eliminasyonu; Factory Zero Detroit 3,400 Yaz Furlough; Chevrolet Silverado EV/GMC Sierra EV/Hummer EV; 29 Ekim Açıklama; 2,200 Ocak Geri Çağırma; EV Üretim Yeniden Değerlendirmekte"
 date: '2026-04-22T10:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

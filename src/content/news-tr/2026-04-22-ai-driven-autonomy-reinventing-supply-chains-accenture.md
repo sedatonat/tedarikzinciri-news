@@ -1,6 +1,5 @@
 ---
 title: "Yapay Zeka Tabanlı Özerklik Tedarik Zincirlerini Yeniden İcat Etmekta Nasıl Olmakta"
-subtitle: "SCB Think Tank/iStock cofotoisme: AI-Driven Autonomy Reinventing Supply Chain; Kris Timmermans Max Blanchet Accenture SCB Contributor; Disruption Frequency Complexity Traditional Model Limit; Long-term Transformation Resilience Agility Priority; Accenture Global Study 1000 C-Suite Executive North America South America Europe Asia Pacific 10 Industry; 66% Two-Thirds Significant Autonomy Advance Decade; 40% Higher Autonomy System Handle Operational Decision; Autonomy Spectrum Stage Human-Driven Augmented Decision; 25% Started Autonomy Journey Few Progressing"
 date: '2026-04-22T23:55:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

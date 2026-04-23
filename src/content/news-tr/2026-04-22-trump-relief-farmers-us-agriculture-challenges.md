@@ -1,6 +1,5 @@
 ---
 title: "Trump Çiftçilere Yardım Sözü Vermekte; Ancak U.S. Tarımı Çoklu Zorluklarla Karşı Karşıya Kalmakta"
-subtitle: "Helen Atkinson Managing Editor: Farmer Bridge Assistance $12B 8 Aralık; FDA Bir Defalık Köprü Ödemeleri Adil Olmayan Pazar Aksaklıkları; BBC News $11B Sıralı Ürün Mısır/Pamuk/Yer Fıstığı/Sorgum/Soya/Buğday/Kanola; $1B Diğer; One Big Beautiful Bill"
 date: '2026-04-22T05:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

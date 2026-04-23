@@ -1,6 +1,5 @@
 ---
 title: "Mexico Sets Tomato Export Prices to Ease U.S. Trade Spat"
-subtitle: "Mexico establishes minimum price floor for fresh tomato exports to the U.S. following Trump administration's 17% anti-dumping duty in July; 90-day tariff delay creates negotiating space; federal decree issued late August; Mexican government aims to prevent price distortion; U.S. growers accuse Mexican competitors of unfair low pricing; tomato suspension agreement terminated; Arizona and Florida Tomato Exchange; Sinaloa and Baja California production origins"
 date: "2026-04-22T23:40:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/08/10/MEXICO-TOMATOES-TOMATO-BLOOMBERG.webp"

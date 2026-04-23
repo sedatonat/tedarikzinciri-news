@@ -1,6 +1,5 @@
 ---
 title: "From Farms to Factories: The Shocking Reach of the Child Labor Crisis"
-subtitle: "SCB/iStock 1211297448: From Farm Factory Shocking Reach Child Labor Crisis; SupplyChainBrain Analyst Insight; Despite Decade Progress Child Labor Remain Deeply Embed Global Supply Chain Million Child Engage Hazardous Exploitative Work Produce Everyday Goods Scope Problem Truly Shocking; United Nations Data Estimate 152 Million Child 5 17 Year Old Engage Child Labor Globally Half Whom Work Hazardous Condition Nearly 90 Percent Found Africa Asia Pacific Remain 10 Percent Spread North America Europe Central Asia Arab State; Scrutiny Intensify Corporation Face Grow Pressure Enforce"
 date: "2026-04-22T23:56:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/03/13/child-labor-iStock-1211297448.jpg"

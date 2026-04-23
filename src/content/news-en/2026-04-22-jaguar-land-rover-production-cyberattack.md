@@ -1,6 +1,5 @@
 ---
 title: "Jaguar Land Rover Production Crippled by Cyberattack"
-subtitle: "SCB/BBC/iStock: Jaguar Land Rover JLR Production Crippled by Cyberattack; Solihull Halewood UK Factories Halted Until September 24; Slovakia China India Facilities Halted; Wolverhampton Engine Plant Halted; Tata Motors Ownership; Warning of Continuation Until November; Supplier Financial Difficulties; IT Network Shut Down; Criminal Investigation; UK Automotive Supply Chain Crisis"
 date: "2026-04-22T17:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/09/02/JAGUAR-LAND-ROVER-UK-DEALERSHIP-iStock-jax10289-1243246655.webp"

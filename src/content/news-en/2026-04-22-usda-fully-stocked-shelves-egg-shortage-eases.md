@@ -1,6 +1,5 @@
 ---
 title: "USDA Reports Fully Stocked Shelves as Egg Shortage Eases"
-subtitle: "SCB/iStock 463279383: USDA Fully Stocked Shelves Egg Shortage Ease; SupplyChainBrain Analyst Insight; U.S. Department Agriculture USDA Supply Chain Issue Egg Grocery Store Greatly Improved Wholesale Price Fall Ahead Easter Holiday; Egg Market Overview March 28 Consumer Once Again Seeing Fully Stocked Shelves Enjoying Range Choice Without Purchase Restriction; Average Wholesale Price Dozen Egg Dipped 8 Percent March 21 28 Down 63 Percent Late-February Record High; Recently Decline Retail Price; HPAI Avian Influenza Outbreak Recede"
 date: "2026-04-22T23:55:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/02/06/eggs-grocery-store-iStock-463279383.webp"

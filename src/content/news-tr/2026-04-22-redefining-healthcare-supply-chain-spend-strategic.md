@@ -1,6 +1,5 @@
 ---
 title: "Sağlık Tedarik Zinciri Performansını Yeniden Tanımlamakta: Harcama Kontrolünden Stratejik Değere"
-subtitle: "University Hospitals Chad Fleischer VP Supply Chain: Her Ürün/Ekipman/Servis Gözden Geçirilmekte; İnce Marjlar/Aksaklıklar/Maliyet Denetimi; Mission-Critical Lever; Enterprise-Level Governance/Expense Cabinet; Klinik İş Akışı Entegrasyonu"
 date: '2026-04-22T14:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

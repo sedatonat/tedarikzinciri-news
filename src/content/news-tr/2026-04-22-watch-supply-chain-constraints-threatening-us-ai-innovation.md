@@ -1,6 +1,5 @@
 ---
 title: "İzle: Tedarik Zinciri Kısıtlamaları ABD Yapay Zeka İnovasyonunu Boğmaya Tehdit Etmekta"
-subtitle: "SCB/iStock 1296135863: Watch Supply Chain Constraint Threaten Stifle U.S. Innovation AI; David Carter Industrials Senior Analyst RSM US; Robert Bowman SupplyChainBrain Interview; Analyst Insight Major Supply Chain Constraint Bedeviling Major U.S. Data Center Effort Move Ahead Artificial Intelligence Innovation; Last Couple Quarter U.S. Data Center Developer Known Hyperscaler Begin Mention Earning Call Problem Acquiring Enough Microchip Land Drive Continuing AI Innovation Effort; Heart Issue Need Heavy Capital Investment Construction Chip Manufacturing Plant U.S. CHIPS Science Act 2022 Long-Term Process Years; Most Complex Semiconductor Manufacturing Power Hungry Land Hungry; TSMC Samsung Intel Foundry Hyperscaler Microsoft Google Meta Amazon AWS"
 date: '2026-04-22T23:57:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

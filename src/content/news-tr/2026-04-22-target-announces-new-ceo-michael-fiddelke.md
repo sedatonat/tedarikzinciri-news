@@ -1,6 +1,5 @@
 ---
 title: "Target Yeni CEO Atamakta"
-subtitle: "SCB/BBC/Bloomberg Michael Nagle: Target Yeni CEO Atamakta; Brian Cornell 10 Yıl Sonra Emekli; Michael Fiddelke COO Şubat 2026 Devralma; 20 Yıl Şirket Tecrübe; Hisse 6% Düşüş 20 Ağustos; Discretionary Apparel Electronics Tüketici Endişe; US Tariff Etki; Walmart Costco Amazon Rekabet; Quality Improvement Technology Embed Pledge; Sales Decline Share Price Düşüş; Faster Much Faster Statement"
 date: '2026-04-22T23:50:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

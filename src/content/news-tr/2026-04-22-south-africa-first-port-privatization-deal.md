@@ -1,6 +1,5 @@
 ---
 title: "South Africa, İlk Liman Özelleştirme Anlaşmasını İmzalamakta"
-subtitle: "Transnet/ICTSI: Filipino Milyarder Enrique Razon Durban Container Terminal Pier 2; 11 Milyar Rand $647M; %50 Hisse 25 Yıl Yönetim; Michelle Phillips CEO 10 Aralık; Dünya Bankası En Verimsiz Limanlar; %40 Kapasite Artış 2.8M TEU"
 date: '2026-04-22T08:00:00Z'
 category: Lojistik
 secondaryCategories:

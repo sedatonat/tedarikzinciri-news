@@ -1,6 +1,5 @@
 ---
 title: "ATA Approves Revocation of California Emissions Rule"
-subtitle: "SCB/iStock photo: ATA Approves Revocation California Emissions Rule; American Trucking Associations Trump EV Mandate Revoke; National Emissions Standard Realistic Achievable; Chris Spear ATA President CEO June 12 Statement; EPA Administrator Zeldin Congressional Leadership; Congressional Review Act Resolution Federal Waiver Biden Administration; June 20 Supreme Court Fossil Fuel Company Challenge California Stricter Standard; Seven to Two Vote Oil Gas Company 17 Republican-Led State; 1967 Waiver 2035 Zero-Emission Car"
 date: "2026-04-22T23:40:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2023/11/03/FLEET-OF-TRUCKS-iStock--vitpho--1458968151.webp"

@@ -1,6 +1,5 @@
 ---
 title: "Supply Chain Woes Stall Airbus Deliveries in July"
-subtitle: "SCB/Bloomberg American Airlines Airbus: Supply Chain Woes Stall Airbus Delivery July 63 Plane 18% Decline; A320neo Engine Shortage Best-Seller Model Hampered; 370 Plane First Seven Months 2025; 820 Annual Guidance Maintain Bulk H2 Push; Guillaume Faury CEO Statement; Investor Watch Bulk Payment Delivery Time; CFM International LEAP Engine Pratt Whitney GTF; Boeing 737 MAX Comparable Production Strain"
 date: "2026-04-22T23:25:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/07/28/american-airlines-airbus-jet-bloomberg-437216378.webp"

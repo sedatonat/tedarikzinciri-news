@@ -1,6 +1,5 @@
 ---
 title: "U.S. Logistics Sector Growth Slows as Freight Demand Eases"
-subtitle: "SCB/iStock jonathanfilskov-photography: Logistic Managers Index LMI September 57.4; August 59.3 -2 Points; Lowest Reading Since March; Transportation Capacity 55.1 -2.2 Points; Transportation Utilization 55.0 -5 Points; Warehouse Capacity 51.6; Warehouse Utilization 65.3 +3 Points; Council of Supply Chain Management Professionals CSCMP; Coalition of University Business Schools"
 date: "2026-04-22T06:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/04/28/ports-supply-chain-econony-iStock-1215099790.webp"

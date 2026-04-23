@@ -1,6 +1,5 @@
 ---
 title: "FAA, Musk'ın Starlink'i Lehine Verizon Sözleşmesini İptal Etmeyi Tartmakta"
-subtitle: "SCB/Bloomberg 427431568: FAA Weigh Cancel Verizon Contract Favor Musk Starlink; SupplyChainBrain Analyst Insight; US Federal Aviation Administration FAA Near Decision Whether Cancel 2 Billion Verizon Communications Contract People Familiar Matter; Crucial Step Could Clear Way Billionaire Elon Musk SpaceX Take More Work Upgrade Information Technology Network National Airspace System; Outright Cancellation One Option Consideration Alternative Let Verizon Continue Hand Some Work SpaceX People Not Authorized Speak Publicly; Decision Soon February 28"
 date: '2026-04-22T23:58:30Z'
 category: Lojistik
 secondaryCategories:

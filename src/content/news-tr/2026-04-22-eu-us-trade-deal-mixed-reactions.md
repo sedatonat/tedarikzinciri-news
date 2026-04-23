@@ -1,6 +1,5 @@
 ---
 title: "AB-ABD Ticaret Anlaşması Avrupa Liderlerinden Karışık Tepkiler Almakta"
-subtitle: "SCB/iStock AlxeyPnferov: EU-U.S. Trade Deal Mixed Reactions Europe Leader; Framework Deal 27 Temmuz; 15% EU Goods Tariff Set; 27 Nation Bloc Support Sınırlı; Ursula von der Leyen Economic Stability Praise; François Bayrou Dark Day Decry; Pedro Sanchez Without Enthusiasm; Benjamin Dousa Least Bad Alternative; New York Times 600 Milyar Dolar EU U.S. Investment Pledge; 750 Milyar Dolar American Energy Purchase 3 Yıl; Aircraft Parts Chemical 0% Tariff"
 date: '2026-04-22T23:10:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

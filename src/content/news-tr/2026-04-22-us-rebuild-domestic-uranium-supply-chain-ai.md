@@ -1,6 +1,5 @@
 ---
 title: "AI Gelişimini Desteklemekte İçin U.S. Yerli Uranyum Tedarik Zincirini Yeniden İnşa Etmekte Olunması Gerekmekte"
-subtitle: "LIS Technologies Christo Liebenberg Co-founder/President: AI Boom ve Uranyum Tedarik Zinciri Çarpışma Rotası; %99 Konsantrat Yabancı; Canada/Kazakhstan/Australia Hakim; Russia Yasak Biden Aug 2024; 100 GW Trump 4x 2050; 5 Bileşen Mining/Milling/Conversion"
 date: '2026-04-22T18:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

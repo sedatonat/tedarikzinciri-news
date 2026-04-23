@@ -1,6 +1,5 @@
 ---
 title: "The High Risk of Customs Compliance in Healthcare Shipping"
-subtitle: "SCB Think Tank/Josh Medow/iStock Chawanakorn Soaim: Health and Life Sciences Logistics; Research Medications Biologics Devices Patient Samples Sensitive Condition Transport; FDA USDA Regulatory Tightening; Cold-Chain Regulatory Minefield; Customs Compliance Board Risk; Clinical Trial Timeline"
 date: "2026-04-22T05:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2023/11/28/HEALTHCARE-WAREHOUSE-MANAGEMENT-SYSTEM-iStock--Chawanakorn-Soaim--1426970237.webp"

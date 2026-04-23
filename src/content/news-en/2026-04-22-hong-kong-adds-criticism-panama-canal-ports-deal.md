@@ -1,6 +1,5 @@
 ---
 title: "Hong Kong Adds Criticism to Panama Canal Ports Deal"
-subtitle: "SCB/iStock Marina113 1194830504: Hong Kong Add Criticism Panama Canal Port Deal; SupplyChainBrain Analyst Insight; John Lee Chief Executive Hong Kong Special Administrative Region SAR People Republic China Say March 18 Deal CK Hutchison Sell Off Interest Two Port Flank Entrance Panama Canal Deserve Serious Attention New York Times Report; Add Criticism Chinese Government Strongly Worded Opinion Ta Kung Pao March 14 Attack US Pressure Deal Despicable Mean; CK Hutchison BlackRock World Biggest Asset"
 date: "2026-04-22T23:55:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2023/12/01/PANAMA-CANAL-SHIPPING-VESSELS-iStock--Marina113--1194830504.jpg"

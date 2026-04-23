@@ -1,6 +1,5 @@
 ---
 title: "Tackling Tariff Turbulence with AI"
-subtitle: "SCB Think Tank/iStock Floriana: Tariff Turbulence Tackled with AI; Trump 2025 April Sweeping Tariff 10% Baseline; Reciprocal Higher Rates Selected Countries; WTO Global Trade Volume 0.2% Decline; 1.5% Worst Case Forecast; June Steel Aluminum 25%-50% Double; War Room Decision Makers; Product Line Customer Segment Profitability; Pricing Promotional Strategy; AI Scenario Modeling Demand Forecasting"
 date: "2026-04-22T22:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/07/17/THINKER-SMART-AI-ARTIFICIAL-INTELLIGENCE-iStock-Floriana-2190515873.webp"

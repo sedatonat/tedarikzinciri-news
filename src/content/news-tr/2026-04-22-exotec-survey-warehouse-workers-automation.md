@@ -1,6 +1,5 @@
 ---
 title: "Anket: Depo Çalışanlarının %98'i Otomasyonun Verimliliği Artırmakta Olunduğunu Söylemekte"
-subtitle: "Exotec/Romain Moulin CEO 17 Kasım: 400+ Depo Çalışanı Anket; %48 Maaş Artışı; 2/3 Yüksek Memnuniyet; %48 Optimist/%32 Çekingen/%20 Tarafsız; %70 Azalmakta Stres Tatil Rüşü; %32 Azalmakta İş Bırakmakta Peak; İnsan Mühendis Ergonomik; AMR/AS-RS/Goods-to-Person"
 date: '2026-04-22T14:00:00Z'
 category: Lojistik
 secondaryCategories:

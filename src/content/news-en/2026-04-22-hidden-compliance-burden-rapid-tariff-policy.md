@@ -1,6 +1,5 @@
 ---
 title: "The Hidden Compliance Burden of Rapid Tariff Policy"
-subtitle: "SCB Think Tank/iStock Douglas Rissing: Hidden Compliance Burden Rapid Tariff Policy; Karyl Fowler SCB Contributor; Manufacturer Unprecedented Challenge Policy Change Beyond Pace; Compliance Burden Crushing Each Policy Shift; Fragmented Data Infrastructure; Interoperable Shared Digital Record Trade Partner Lack; Real-Time Authenticated Structured Data Supplier Input Documentation; Policy Clarity vs Quality Data Exposure; Weather Pandemic Geopolitical Agility Need; Verifiable Credential Self-Sovereign Identity Data Standard"
 date: "2026-04-22T23:30:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/07/20/US-CUSTOMS-AND-BORDER-SECURITY-iStock-Douglas-Rissing-2162517300.webp"

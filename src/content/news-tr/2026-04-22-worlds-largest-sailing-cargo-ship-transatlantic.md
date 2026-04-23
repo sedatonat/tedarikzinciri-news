@@ -1,6 +1,5 @@
 ---
 title: "Dünyanın En Büyük Yelkenli Kargo Gemisi İlk Transatlantik Yolculuğunu Yapmakta"
-subtitle: "SupplyChainBrain/Neoline: Neoliner Origin 446 ft 5,200 Ton 80% CO2 Düşüşü; Nantes France'tan Port of Baltimore'a 2 Hafta; 216 ft Karbon Fiber Direk; 32,300 sq ft Yelken; Roll-on/Roll-off Cargo; Wind-Assisted Propulsion; Maritime Decarbonization"
 date: '2026-04-22T13:00:00Z'
 category: Lojistik
 secondaryCategories:

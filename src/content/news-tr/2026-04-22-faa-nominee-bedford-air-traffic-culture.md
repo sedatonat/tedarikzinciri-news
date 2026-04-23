@@ -1,6 +1,5 @@
 ---
 title: "FAA Adayı Hava Trafiği Sorunlarını Ajansın Kültürüne Bağlamakta"
-subtitle: "SCB/Bloomberg: FAA Nominee Blame Air Traffic Woes Agency Culture; Donald Trump Federal Aviation Administration Risk-Averse Culture Strong Leadership Lack; U.S. Air Traffic Control System Modernization Stymied; Bryan Bedford FAA Administrator Nominee Republic Airways Holdings CEO; Senate Commerce Committee Confirmation Hearing Questionnaire; Strategic Vision Competent Leadership Root Cause; Innovation Risk Cautious; Sean Duffy Transportation Secretary May Proposal System Overhaul; House $12.5 Billion Tax Spending Plan Senate Same; Tens of Billions Needed; January Deadly Midair Collision Washington DC Boeing Quality Lapse"
 date: '2026-04-22T23:00:00Z'
 category: Lojistik
 secondaryCategories:

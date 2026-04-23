@@ -1,6 +1,5 @@
 ---
 title: "Red Sea Ship Set Ablaze and Abandoned Following Attack Near Yemen"
-subtitle: "SCB/Bloomberg: Red Sea Ship Ablaze Abandoned Attack Yemen Al Hudaydah; Multiple Small Vessel Self-Propelled Grenade Fire; UKMTO UK Maritime Trade Operations 6 July Social Post; 51 Nautical Mile Southwest Al Hudaydah; Iran-Backed Houthi Militia Strategic Waterway 1+ Year Targeting; IDF Israel Defense Forces Al Hudaydah Ras Issa Al-Salif Port Power Plant Airstrike Retaliation; Civilian Infrastructure Terrorist Use Telegram Statement; Maritime Commerce Global Threat"
 date: "2026-04-22T23:45:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/03/17/HOUTHI-YEMEN-STRIKES-BLOOMBERG.webp"

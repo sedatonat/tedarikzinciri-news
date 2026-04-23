@@ -1,6 +1,5 @@
 ---
 title: "GM Temporarily Cuts 5,500 Workers; Shows EV Pressure"
-subtitle: "Bloomberg/Emily Elconin: General Motors Temporary Layoffs 5,500 Workers Across 3 Facilities; Trump EV Tax Credit Elimination; Factory Zero Detroit 3,400 Summer Furlough; Chevrolet Silverado EV/GMC Sierra EV/Hummer EV; October 29 Announcement; 2,200 January Recall; EV Production Under Review"
 date: "2026-04-22T10:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/10/29/GM-WORKER-ASSEMBLY-PLANT-BLOOMBERG.webp"

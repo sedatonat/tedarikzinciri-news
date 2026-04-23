@@ -1,6 +1,5 @@
 ---
 title: "ESG Hâlâ İlgili Olmakta mı?"
-subtitle: "SCB/Magazine Vol 29 No 2: Is ESG Still Relevant; Robert Bowman Editor-in-Chief SupplyChainBrain Annual Special Issue ESG Supply Chain; Analyst Insight Trump Administration Pushback Environmental Regulation Withdrawal Paris Agreement Climate Change ESG Environmental Social Governance Still Concern International Business; Company Pressing Forward Effort Reduce Impact Global Supply Chain Air Water Land Climate; Increased Concern Goodness Heart Growing Pressure Consumer Human Right Factory Farm Mine Warehouse; Annual Special Issue ESG Supply Chain Dozen Industry Expert Update Latest Thinking Topic Every Step Product Journey Design Disposal; Sustainability Reporting Verifiable Metric Investor Demand"
 date: '2026-04-22T23:59:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

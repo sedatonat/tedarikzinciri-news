@@ -1,6 +1,5 @@
 ---
 title: "Yangınlar Çanakkale Boğazını Kısa Süre Kapatmakta Avrupayı Sıcak Vurmakta"
-subtitle: "SCB/iStock Guven Ozdemir: Wildfires Çanakkale Boğaz Kısa Kapatma 11 Ağustos; Heat Blasts Europe Mediterranean Wind; Turkish Firefighters Aegean Coast Pine Forest 2900 Resident Evacuated; Anadolu Agency Reporting; Madrid London Greek Island Balkans Wildfire; Black Sea Central Asia Oil Gas Chokepoint; Vital Maritime Strait Bosphorus Twin; Suez Canal Bab el-Mandeb Strait Hormuz Comparable Risk; Climate Change Mediterranean Risk"
 date: '2026-04-22T23:45:00Z'
 category: Lojistik
 secondaryCategories: []

@@ -1,6 +1,5 @@
 ---
 title: "Podcast Gümrükler Sizi Zorla Çalıştırma İhlalleri için Kaç Şekilde Vurabilmekta"
-subtitle: "SCB Podcast/iStock Niran_pr: Customs Forced-Labor Violations Podcast; Bob Bowman SCB Editor-in-Chief Sunucu; Angela Santos ArentFox Schiff Customs Practice Leader Partner Konuk; Trump 2.0 CBP Enforcement Approach; Civil Criminal Audit Investigation Form Thicket; Manufacturer Importer Extended Supply Chain Compliance; UFLPA Uyghur Forced Labor Prevention Act; Section 307 Tariff Act 1930; WRO Withhold Release Order Tool"
 date: '2026-04-22T23:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories: []

@@ -1,6 +1,5 @@
 ---
 title: "China Demands Controlling Stake in Panama Canal Ports Sale"
-subtitle: "WSJ/$22.8B Deal: Cosco Seeks Majority Stake; BlackRock/MSC March Consortium; CK Hutchison Hong Kong Faces Trump Pressure; Previous Equal Stake Demand Raised to Controlling Interest; Closing by End of 2026; National Security Risk"
 date: "2026-04-22T10:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/02/05/panama-canal-iStock-2025570424.webp"

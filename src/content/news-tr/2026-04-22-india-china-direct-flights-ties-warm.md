@@ -1,6 +1,5 @@
 ---
 title: "Hindistan ve Çin İlişkiler Isınmakta İken Doğrudan Uçuşlara Başlamakta"
-subtitle: "SCB/Bloomberg: India China Doğrudan Uçuşlar 5 Yıl Aradan Sonra Yeniden; Indian Ministry of External Affairs 2 Ekim Açıklama; Aylık Sonu Başlangıç; COVID-19 Sonrası Askıya Alınmakta; 2020 Sınır Çatışmaları Düşük Nokta; Hong Kong Singapore Hub Transit; Trump Tarifeleri Belirsizlik; IndiGo Hindistan Büyük Taşıyıcı 26 Ekim Günlük Hizmet"
 date: '2026-04-22T08:00:00Z'
 category: Lojistik
 secondaryCategories:

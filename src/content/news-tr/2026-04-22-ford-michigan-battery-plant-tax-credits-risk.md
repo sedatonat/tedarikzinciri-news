@@ -1,6 +1,5 @@
 ---
 title: "Ford Vergi Kredileri Kesilirse Michigan Batarya Fabrikasının Risk Altında Olmakta"
-subtitle: "SCB/iStock BalkansCat: Ford Says Michigan Battery Plant Risk If Tax Credits Cut; Bill Ford Executive Chair Mackinac Policy Conference May 29; Marshall Michigan 1700 Worker Imperiled Tax Credit Eliminate; Joe Biden Climate Bill IRA EV Supply Chain Plug-In Consumer Demand; Republican Lawmaker Unwind Policy 7500 Consumer Tax Credit Phase Out Manufacturing Credit Battery Maker End 2031; Strict Restriction Chinese Component Material Render Useless Analyst; Politicians Agree Disagree Don't Change Rule Investment Made"
 date: '2026-04-22T23:57:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

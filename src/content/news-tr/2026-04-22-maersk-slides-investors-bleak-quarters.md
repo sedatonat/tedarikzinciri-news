@@ -1,6 +1,5 @@
 ---
 title: "Maersk Yatırımcılar 'Karanlık' Çeyrekler Beklerken Kayıyor"
-subtitle: "Bloomberg/iStock: A.P. Moller-Maersk Hisse %7.5 Düşmekte Kopenhag Nisan Sonrası En Çok; 5 Kasım 2025 EBITDA Rehber 9-9.5B Dolar (Önceki Düşük Uç 8B); Analistler Ortalama 9.11B; Konteyner Pazar %4 Genişleme; Q3 Tahmin Aşmakta; Mikkel Emil Jensen Sydbank Bubble Yorum"
 date: '2026-04-22T20:00:00Z'
 category: Lojistik
 secondaryCategories:

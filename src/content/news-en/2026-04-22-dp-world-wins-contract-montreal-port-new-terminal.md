@@ -1,6 +1,5 @@
 ---
 title: "DP World Wins Contract to Operate Montreal Port's New Terminal"
-subtitle: "SCB/Bloomberg/Andrej Ivanov: DP World Montreal Port Contrecoeur Terminal Contract; Container Handling Capacity +50% Increase; September 8 Agreement; Montreal Port Authority MPA; Caisse de Depot Quebec 45% Ownership; St. Lawrence River Location; C$1.6 Billion / $1.2 Billion USD Investment; Canada Fisheries Department Approval; 5 Other Canada Port Facilities; In-Water Works Commencement"
 date: "2026-04-22T21:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/08/29/PORT-OF-MONTREAL-BLOOMBERG.webp"

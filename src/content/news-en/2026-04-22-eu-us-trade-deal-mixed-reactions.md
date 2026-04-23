@@ -1,6 +1,5 @@
 ---
 title: "EU-U.S. Trade Deal Met With Mixed Reactions From Europe's Leaders"
-subtitle: "EU-U.S. Trade Deal Mixed Reactions Europe Leader; Framework Deal July 27; 15% EU Goods Tariff Set; 27 Nation Bloc Support Limited; Ursula von der Leyen Economic Stability Praise; François Bayrou Dark Day Decry; Pedro Sanchez Without Enthusiasm; Benjamin Dousa Least Bad Alternative; New York Times 600 Billion Dollar EU U.S. Investment Pledge; 750 Billion Dollar American Energy Purchase 3 Years; Aircraft Parts Chemical 0% Tariff"
 date: "2026-04-22T23:10:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2024/02/09/EUROPE-EU-FLAG-iStock--AlxeyPnferov--1386827642.webp"

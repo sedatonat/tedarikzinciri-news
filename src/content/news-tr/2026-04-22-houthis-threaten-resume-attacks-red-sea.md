@@ -1,6 +1,5 @@
 ---
 title: "Husiler Kızıldeniz'de Saldırıları Yeniden Başlatma Tehdidi Yapmakta"
-subtitle: "SCB/iStock 157400107: Houthi Threaten Resume Attack Red Sea; SupplyChainBrain Analyst Insight; Houthi Rebel Yemen Threaten Resume Attack Commercial Ship Move Red Sea Region Unless Israel Reopen Gaza International Aid; Israel Begin Blockade All Aid Supply Gaza March 2 Then Move Cut Region Electricity Following Week Demand Hamas Return 24 Live Israeli Hostage Terrorist Group Continue Hold Since Two Side Agree Ceasefire January; Houthi Issue Ultimatum Israel Lift Blockade Gaza March 11 Rebel Group Restart Attack Vessel Red Sea Gulf Aden Al Jazeera Report"
 date: '2026-04-22T23:56:30Z'
 category: Lojistik
 secondaryCategories:

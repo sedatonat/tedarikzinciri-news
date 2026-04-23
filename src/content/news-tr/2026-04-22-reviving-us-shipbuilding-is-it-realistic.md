@@ -1,6 +1,5 @@
 ---
 title: "ABD Gemi İnşaatını Canlandırmak: Gerçekçi Olmakta mı?"
-subtitle: "SCB/iStock Carmen K Sisson 2179436521: Reviving U.S. Shipbuilding Realistic; Helen Atkinson Managing Editor SupplyChainBrain; Analyst Insight America Used Great Build Commercial Oceangoing Ship Current Administration Try Find Out; President Biden First Float Idea Push Back Chinese Dominance Shipbuilding President Trump Threaten Fine Chinese-Built Ship Up 1.5 Million Enter U.S. Port; First Two Year Plan Put Forth Office U.S. Trade Representative USTR 1 Percent U.S. Export Carry U.S.-Built Ship Up 15 Percent 7 Year; Guided Missile Destroyer Ted Stevens DDG 128 Ingalls Shipbuilding Pascagoula Mississippi"
 date: '2026-04-22T23:57:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

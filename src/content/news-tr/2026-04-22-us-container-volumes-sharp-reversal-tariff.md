@@ -1,6 +1,5 @@
 ---
 title: "ABD Konteyner Hacimleri Tarife Aksaklığında Keskin Tersine Dönüş İçin Hazırlanmakta"
-subtitle: "SCB/Bloomberg Tim Rue: U.S. Container Volume Sharp Reversal Tariff Disruption; John McCown Veteran Analyst Aylık Rapor 20 Temmuz; İnbound Volume 7.9% Haziran Düşüş 6.6% Mayıs Düşüş; 10 Largest U.S. Ports Bazlı; Q2 1.8% Düşüş; April 10% Artış Inventory Front-Loading; 15% Last Year Gain Sonra; Trump Tariff Goods Purchase Disrupt; 2025 Decline Outlook Short-Lived Değil"
 date: '2026-04-22T22:50:00Z'
 category: Lojistik
 secondaryCategories:

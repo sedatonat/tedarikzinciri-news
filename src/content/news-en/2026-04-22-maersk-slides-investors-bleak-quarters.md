@@ -1,6 +1,5 @@
 ---
 title: "Maersk Slides as Investors Brace for 'Bleak' Quarters"
-subtitle: "Bloomberg/iStock: A.P. Moller-Maersk stock down 7.5% in Copenhagen since late April; Nov. 5, 2025 EBITDA guidance 9-9.5B dollars (prior low end 8B); analyst consensus 9.11B; container market expanding 4%; Q3 beats estimates; Mikkel Emil Jensen Sydbank remarks on bubble quarter"
 date: "2026-04-22T20:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2024/11/04/Maersk-containers-iStock-478003383.webp"

@@ -1,6 +1,5 @@
 ---
 title: "İzle Senaryo Planlamanın Yeni Dünyası"
-subtitle: "SCB Video/iStock: New World Scenario Planning; Ruth Abbott John Galt Solutions Senior Business Consultant; Robert J. Bowman SCB Sunucu; Element Control Constant Change Complexity Disruption; Multiple Possible Situation Lever; End-to-End Supply Chain Impact; Tariff War Transportation Route Closure Modeling; Promotion Production Lead Time Customer Order Drill-Down; COVID-19 Spreadsheet Move Sophisticated; Confidence Take Next Step"
 date: '2026-04-22T23:35:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

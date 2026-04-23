@@ -1,6 +1,5 @@
 ---
 title: "ABD Yüksek Mahkemesi Trump Tarifeleri Duruşmasından Önemli Çıkarımlar"
-subtitle: "Bloomberg/Eric Lee: SCOTUS 5 Kasım 2025 Konsolide Dava Küçük İşletmeler ve Yaklaşık Bir Düzine Demokrat Liderliğindeki Eyalet; IEEPA Yasallığı; Trump Cezalı Tarife Yetkisi; April 2025 Ulusal Acil Durum İlanı; Major Questions Doctrine; Court of International Trade Önceki Karar"
 date: '2026-04-22T15:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

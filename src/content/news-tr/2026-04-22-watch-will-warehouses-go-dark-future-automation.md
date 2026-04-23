@@ -1,6 +1,5 @@
 ---
 title: "İzle: Depolar Hiç 'Karanlık' Olacak mı? Otomasyonun Geleceği"
-subtitle: "SCB/iStock 1296135863: Watch Will Warehouse Ever Go Dark Future Automation; Mark Richardson CEO Ocado Intelligent Automation; Robert Bowman SupplyChainBrain Interview; Analyst Insight Visualize Future Warehouse Automation Including Possibility Fully Autonomous Dark Warehouse; Continued Trend Scarcity Labor Higher Cost Available Work Increasing Number Warehouse Think Automating Even Relatively Low-Cost Operation Never Contemplate Notion; Steady March Increased Automation Among Buyer Already Onboard; Cobot Collaborative Robot AMR Autonomous Mobile Robot AS/RS"
 date: '2026-04-22T23:56:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

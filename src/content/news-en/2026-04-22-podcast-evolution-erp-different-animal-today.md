@@ -1,6 +1,5 @@
 ---
 title: "The Evolution of ERP: Is It a Different Animal Today?"
-subtitle: "SCB/iStock 1737085508: Podcast Evolution ERP Different Animal Today; Robert J. Bowman SupplyChainBrain Editor; Three Decades After Introduction ERP Monster Finally Tamed; Enterprise Resource Planning Debut Name 1990 Successor Material Requirements Planning; ERP Offers Business Compelling Means Manage Inventory Accounting Finance Sales; Implementation Massive Headache Years Million Dollar Complete; Easier Now Modern-Day ERP Differs Earlier Incarnation; Episode Sponsor Doss; Tackle Question Episode; Material Requirement Planning MRP MRP-II Manufacturing Resource Planning History; SAP Oracle Microsoft Dynamics Workday Infor NetSuite Modern ERP Cloud Native"
 date: "2026-04-22T23:53:30Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/05/01/ERP-iStock-1737085508.webp"

@@ -1,6 +1,5 @@
 ---
 title: "Perakende ve İmalatta Tedarik Zinciri Risklerini Azaltmakta Beş Yol"
-subtitle: "SCB Think Tank/iStock Thapana Onphalai: Five Ways Mitigate Supply Chain Risk Retail Manufacturing; Steve Durbin SCB Contributor; Cyberattack Pervasive Across Industry; 2024 Report 35.5% Data Breach Third-Party Compromise; UNFI United Natural Foods Inc Whole Foods Amazon 30000 Store Distributor 5 Haziran 2025 Cyberattack; Sensata Technologies March Ransomware Auto Aerospace Sensor Manufacturer; Employee Social Security Financial Medical Data Exfiltration; Single Hacked Supplier Coordinated Attack Vector"
 date: '2026-04-22T23:35:00Z'
 category: 'Tedarik Zinciri'
 secondaryCategories:

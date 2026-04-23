@@ -1,6 +1,5 @@
 ---
 title: "IoT ve AI Demiryolu Verimliliğini ve Varlık Takibini Nasıl Modernize Etmekte"
-subtitle: "SCB Think Tank/Steven Payne/iStock CSX: U.S. Rail Freight Sistemi 140,000 Mil 40%+ Uzun Mesafe Yük; IoT Cihazları AI-Tabanlı Analitik; Operatör Varlık Takip Filo Yönet; Modernleşme Baskısı; İklim İlişkili Kesintiler; Talep Modeli Değişimi; Dijital Teknoloji Adaptasyon"
 date: '2026-04-22T06:00:00Z'
 category: Lojistik
 secondaryCategories:

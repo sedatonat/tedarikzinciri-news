@@ -1,6 +1,5 @@
 ---
 title: "U.S. Probe of Maritime Chokepoints Seeks Evidence of Unfair Treatment"
-subtitle: "SCB/Bloomberg PANAMA-CANAL: US Probe Maritime Chokepoint Seek Evidence Unfair Treatment; SupplyChainBrain Analyst Insight; Federal Maritime Commission FMC Investigate Global Maritime Chokepoint Assess Whether Country Ocean Carrier Other Maritime Operator Create Condition Unfavorable US Shipping Foreign Trade; Recent Event Indicate Transit Constraint Several Critical Point Global Shipping Supply Chain Lead Condition Appropriate Commission Investigate Federal Register Notice; Panama Canal Vulnerability Drought Recently Cause Long Wait Time Costly Disruption Shipper"
 date: "2026-04-22T23:55:30Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/03/15/PANAMA-CANAL-BLOOMBERG.jpg"

@@ -1,6 +1,5 @@
 ---
 title: "Delta Air Sees $200 Million Impact from Government Shutdown Fallout"
-subtitle: "Bloomberg/Elijah Nouvelage: Q4 2025 $200M Profit Impact; Trump Temporary Flight Disruptions at 40 Major Airports During Longest U.S. Government Shutdown; Air Traffic Controller/Security Officer Shortage; CEO Ed Bastian Reports 2,000+ Cancellations in November; Holiday Bookings Slowing; December 3 Investor Conference; Stock Down 7.7% YTD; S&P Up 16%"
 date: "2026-04-22T08:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/12/03/DELTA-AIRLINES-BLOOMBERG.webp"

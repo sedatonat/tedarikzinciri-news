@@ -1,6 +1,5 @@
 ---
 title: "Houthis Attack Netherlands-Flagged Vessel in Gulf of Aden"
-subtitle: "Houthi Rocket Attack Ignites Fire in Gulf of Aden; Netherlands-Flagged Cargo Ship; Minervagracht September 29; No Casualties; Failed Attack Previous Week; French Military Officials Brief AP; Spliethoff Amsterdam-Based Carrier; Israeli-Linked Target; Attack Escalation Vowed Extended July 2025; 2 Greek Ships Attack 4 Crew Deaths 11 Captured; December 2024 Ceasefire Breakdown Gaza Escalation"
 date: "2026-04-22T12:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2024/05/03/MAP-MEDITERRANEAN-MIDDLE-EAST-YEMEN-iStock-bogdanserban-613907618.webp"

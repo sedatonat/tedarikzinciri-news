@@ -1,6 +1,5 @@
 ---
 title: "Brezilya BYD'yi Zorla Çalıştırma İddialarıyla Dava Etmekta"
-subtitle: "SCB/iStock Robert Way: Brazil Sues BYD Forced Labor Allegation; Chinese Automaker Slave-Like Condition Human Trafficking; Associated Press Brazilian Labor Prosecutor May 27 Lawsuit Two Contractor 257 Million Brazilian Reais 50 Million USD Damage; 220 Chinese Worker Rescued December 2024 Construction Site BYD Factory False Pretenses Extremely Degrading; Five Settlement Bed Without Mattress Limited Bathroom Exhausting Hour No Weekly Rest 70% Salary Withheld Passport Deposit Refund Airline Ticket"
 date: '2026-04-22T23:58:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

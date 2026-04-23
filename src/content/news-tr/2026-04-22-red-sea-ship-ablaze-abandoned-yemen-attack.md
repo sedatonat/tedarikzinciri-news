@@ -1,6 +1,5 @@
 ---
 title: "Kızıldeniz Gemisi Yemen Yakınında Saldırı Sonrası Ateşe Verilmekta ve Terk Edilmekta"
-subtitle: "SCB/Bloomberg: Red Sea Ship Ablaze Abandoned Attack Yemen Al Hudaydah; Multiple Small Vessel Self-Propelled Grenade Fire; UKMTO UK Maritime Trade Operations 6 Temmuz Social Post; 51 Nautical Mile Southwest Al Hudaydah; Iran-Backed Houthi Militia Strategic Waterway 1+ Year Targeting; IDF Israel Defense Forces Al Hudaydah Ras Issa Al-Salif Port Power Plant Airstrike Retaliation; Civilian Infrastructure Terrorist Use Telegram Statement; Maritime Commerce Global Threat"
 date: '2026-04-22T23:45:00Z'
 category: Lojistik
 secondaryCategories: []

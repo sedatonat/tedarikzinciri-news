@@ -1,6 +1,5 @@
 ---
 title: "Four Key Digital Supply Chain Shifts to Make in Mid-2025"
-subtitle: "SCB/iStock: Four Key Digital Supply Chain Shifts Mid-2025; Amit Patel SCB Contributor; Digital Transformation Essential Beyond Traditional Methods; New Technology Streamlines Operations, Reduces Cost, Enhances Customer Satisfaction; 82% of Supply Chain Professionals Expect Significant Impact Over Five-Year Period; Digital Marketplaces Connect Buyers and Suppliers on Centralized Cloud-Based Platforms for Transparency, Accelerated Procurement Cycles, Real-Time Price Comparison and Availability Checks; AI-Driven Automation for Demand Forecasting and Inventory Optimization in Warehouse and Transportation; Real-Time Visibility via IoT Sensors to Track and Trace with Smart Contracts and Blockchain"
 date: "2026-04-22T23:59:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/03/13/global-trade-data-supply-chains-iStock-1315756585.webp"

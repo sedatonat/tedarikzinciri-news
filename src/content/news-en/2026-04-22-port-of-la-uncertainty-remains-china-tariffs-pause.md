@@ -1,6 +1,5 @@
 ---
 title: "Port of Los Angeles Says 'Uncertainty Persists' Following China Tariff Pause"
-subtitle: "SCB/iStock Photo: Port LA Uncertainty Remains After China Tariff Pause; Gene Seroka Executive Director May 19 Briefing; 90-Day Pause Reciprocal Tariff U.S. China; No Sizable Surge Cargo Volume; Vessel Volume Below Pandemic Peak; Lower Inventory Retail Sector Part Supply U.S. Factory Higher Price; Uncertainty Every Business Meeting Best Decision Elusive; U.S. Companies Resume Shipment China Tariff Pause Early May Sudden Demand Cargo Space Spike Shipping Rate Carefully Plan"
 date: "2026-04-23T00:00:30Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2023/11/21/PORT-OF-LOS-ANGELES-iStock--KKStock--1311532986.webp"

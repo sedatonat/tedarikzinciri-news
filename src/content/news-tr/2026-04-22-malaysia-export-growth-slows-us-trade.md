@@ -1,6 +1,5 @@
 ---
 title: "Malaysia İhracat Büyümesi U.S. ile Ticaret Düşmekte Yavaşlamakta"
-subtitle: "Bloomberg/Department of Statistics Malaysia: Kasım %7 Beklenti %11.6; U.S. Sevkiyatlar -%0.9 İkinci Ay; İthalat %15.8; Ticaret Fazlası 6.1 Milyar Ringgit; %19 Tarife Ağustos; Mohd Afzanizam Bank Muamalat Chief Economist 2026"
 date: '2026-04-22T11:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

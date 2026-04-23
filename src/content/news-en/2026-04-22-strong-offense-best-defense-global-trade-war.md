@@ -1,6 +1,5 @@
 ---
 title: "Strong Offense Is Best Defense in a Global Trade War"
-subtitle: "Strong Offense Best Defense Global Trade War; Ray Grove SCB Contributor; Analyst Insight Major Global Trade Policy Change Used Unfold Gradually Year Decade Today Launched Overnight Business Multinational Supply Chain Constant State Second-Guess; Trump Administration Chaotic Mercurial Introduction Tariff Latest Example Quickly Thing Change Business Source Goods Materials Globally; Scale Proposed Tariff Blanket Application Major Global Economy Rattle Most Seasoned Global Trade Corporate Finance Professional Overnight Policy Whipsaw Not New; First Trump Administration Period Relative Calm Tariff Retaliatory Tariff; Proactive Trade Strategy Tariff Engineering FTA HTS Classification"
 date: "2026-04-23T00:00:30Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/04/11/WARRIOR-iStock-peepo-1952332326.webp"

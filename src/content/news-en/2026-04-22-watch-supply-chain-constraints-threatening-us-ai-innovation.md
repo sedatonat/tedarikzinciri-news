@@ -1,6 +1,5 @@
 ---
 title: "Watch: Supply Chain Constraints Threaten to Stifle U.S. AI Innovation"
-subtitle: "Supply Chain Constraints Threaten to Stifle U.S. AI Innovation; David Carter, Industrials Senior Analyst at RSM US; Robert Bowman, SupplyChainBrain Interview; Analyst Insight into Major Supply Chain Constraints Bedeviling U.S. Data Center Efforts Advancing Artificial Intelligence Innovation; Over the Last Couple of Quarters, U.S. Data Center Developers Known as Hyperscalers Have Begun Mentioning in Earnings Calls Problems Acquiring Enough Microchips and Land to Drive Continued AI Innovation Efforts; At the Heart of the Issue is the Need for Heavy Capital Investment in Constructing Chip Manufacturing Plants in the U.S.; the CHIPS and Science Act of 2022 is a Long-Term Process Taking Years; Semiconductor Manufacturing is the Most Complex Industry, Power-Hungry and Land-Hungry; TSMC, Samsung, Intel Foundry, Hyperscalers Microsoft, Google, Meta, Amazon AWS"
 date: "2026-04-22T23:57:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2022/11/30/SEMICONDUCTOR-CHIP-iStock-Mykola-Pokhodzhay-1296135863.webp"

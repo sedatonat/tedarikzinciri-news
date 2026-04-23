@@ -1,6 +1,5 @@
 ---
 title: "Polyester Drives Surge in Apparel Sector Emissions"
-subtitle: "SCB/iStock: Polyester Apparel Sector GHG Emissions Growth 7.5% in 2023; Apparel Impact Institute Aii President Lewis Perkins Says; 23 July Aii Report; 2% Global Emissions Apparel Sector; 57% Global Fiber Production Polyester; 20% Cotton Second Place; Man-Made Cellulosic Fiber; Fast Fashion Demand Growth; Carbon Intensive Polyester Dependence; 2030 Carbon Footprint Halve Target Behind"
 date: "2026-04-23T00:10:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/08/14/apparel-manufacturing-clothing-iStock-585525382.webp"

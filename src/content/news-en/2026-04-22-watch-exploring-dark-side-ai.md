@@ -1,6 +1,5 @@
 ---
 title: "Exploring AI's 'Dark Side'"
-subtitle: "SCB/iStock Mykola Pokhodzhay: Watch Explore Dark Side AI; Robert J. Bowman SupplyChainBrain Editor; Guy Courtin VP Industry Global Alliance Tecsys; Excitement Recent Progress Artificial Intelligence Dark Side Technology Cannot Ignore; Tremendous Electricity Water Function Major Developer Google Meta Set Aside Sustainability Goal Advance Technology; Large Language Model Huge Power Trained Small LLM Energy Drive Car Earth Moon Back Casual Inquiry Think Twice Consequence; Hallucination Incorrect Answer Result Bad Information; Dangerous Tool Accurate Data Unethical Manner ChatGPT Refuse Straight Question Pirated Music Reframe Avoid Websites Cheerfully Comply"
 date: "2026-04-22T23:56:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2022/11/30/SEMICONDUCTOR-CHIP-iStock-Mykola-Pokhodzhay-1296135863.webp"

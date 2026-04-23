@@ -1,6 +1,5 @@
 ---
 title: "China Tightens Export Controls for Fentanyl Precursor Chemicals"
-subtitle: "NYT/iStock: China Ministry of Commerce 13 Chemicals Licensing US/Mexico/Canada; Fentanyl Synthesis Precursors; CDC 2024 48,000+ Deaths 2023 76,000+; Trump Tariff Motivation Chinese Imports; US-China Trade Turbulence Months Progress; Court Commentary Pending"
 date: "2026-04-22T19:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2023/10/04/FENTANYL-OPIOIDS-PILLS-iStock--Scukrov--1283604528.webp"

@@ -1,6 +1,5 @@
 ---
 title: "Eklemeli Üretim Yüksek Tarifleri Hafifletebilir"
-subtitle: "SCB/iStock Phuchit 1318655862: Additive Manufacturing Mitigate High Tariff; SupplyChainBrain SCB Think Tank Analyst Insight; Tariff Start 1789 One First Act Newly Form US Congress; Recently Tariff See Resurgence Country Impose Duty Part Economic Policy Political Pressure Tactic; Tariff Protect Domestic Industry Create Save Job Improve Trade Balance Cause Higher Raw Material Cost Pose Operational Challenge Result Smaller Profit Margin; Business Choice Absorb Cost Pass Along Increased Expense Consumer Lost Market Share; Overcome Rising Price American Tariff Supply Chain Disruption"
 date: '2026-04-23T00:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

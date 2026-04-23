@@ -1,6 +1,5 @@
 ---
 title: "Trump Şirketlerin Siparişleri Duraklatmasıyla Küresel Ticareti Zaten Yavaşlatmakta"
-subtitle: "SCB/Bloomberg AMAZON-WAREHOUSE-NJ: Trump Already Slowing Global Trade Company Pause Order; Bloomberg News Report; Analyst Insight President Donald Trump Announce Delay Tariff Plan First Sign Economically Damaging Slowdown Global Trade Already Emerge Company World Hit Own Pause Button Order Continue Escalate Trade War China; April 9 Increase Import Duty Chinese Good 125 Percent 90-Day Pause Higher Tariff Dozen Other Country; Amazon Cancel Order China Asia Reduce Inventory Buyer Cargo Shipper Re-evaluating Order Container Volume Drop Across Pacific; Apparel Footwear Toy Consumer Electronic Hit Hard"
 date: '2026-04-22T23:58:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

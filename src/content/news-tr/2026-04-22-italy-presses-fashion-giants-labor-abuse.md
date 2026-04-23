@@ -1,6 +1,5 @@
 ---
 title: "Italy, Moda Devlerini İşçi İstismarı Soruşturmasında Sıkıştırmakta"
-subtitle: "AP/Milan Savcıları: 13 Lüks Marka Yönetişim/İç Kontrol Belgesi; Çinli İşçi Ağır İstismar Mesai/Düşük Ücret/Aşağılayıcı Konut/Güvensiz Koşul; Tod's Başlangıç Kasıtlı Körlük; Dolce & Gabbana/Versace/Prada/Gucci/Adidas Italy; Marche Bölgesi"
 date: '2026-04-22T03:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

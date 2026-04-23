@@ -1,6 +1,5 @@
 ---
 title: "Jaguar Land Rover Üretimi Siber Saldırı ile Felç Olmakta"
-subtitle: "SCB/BBC/iStock: Jaguar Land Rover JLR Üretim Siber Saldırı Felç; Solihull Halewood UK Fabrikaları 24 Eylül'e Kadar Durmakta; Slovakia China India Tesisleri Durmakta; Wolverhampton Motor Tesis Durmakta; Tata Motors Sahiplik; Kasım'a Kadar Devam Uyarısı; Tedarikçi Finansal Zorluklar; IT Network Kapatılmakta; Kriminal Soruşturma; UK Otomotiv Tedarik Zinciri Kriz"
 date: '2026-04-22T17:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories: []

@@ -1,6 +1,5 @@
 ---
 title: "Surging UK Shipping Costs Threaten a New Price Shock"
-subtitle: "SCB/Bloomberg Chris Ratcliffe: Surging UK Shipping Costs New Price Shock; Felixstowe Port U.K. Container Ship Loaded; China-UK 40-Foot Container 60% 3 Monthly 3305 Dollar Increase; Xeneta Drewry Shipping Analytics; American Business Trump Tariff Hike Front-Load Capacity Absorption; Bank of England Interest Rate Plan Complicate; British Retailer Razor-Thin Margin Pass-Through; Andrew Opie British Retail Consortium Director Food Sustainability"
 date: "2026-04-22T23:40:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/06/12/PORT-OF-FELIXSTOWE-UK-PORT-CONTAINER-SHIP-BLOOMBERG.webp"

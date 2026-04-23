@@ -1,6 +1,5 @@
 ---
 title: "Japonya ile Ticaret Anlaşması ABD Otomotiv Endüstrisine Darbe Vurmakta"
-subtitle: "SCB/iStock BalkansCat: Japan Trade Pact Blow U.S. Auto; Trump 22 Temmuz Anlaşma 15% Tariff Japan Cars; 25% Tehdit Önceki Düşürme; U.S. Companies Canada Mexico Engine Transmission 25% Tariff Maruz; UAW United Auto Workers Deeply Angered; AAPC American Automotive Policy Council GM Ford Stellantis Temsil; Japanese Import Lower Tariff Virtually No U.S. Content Bad Deal; North America Built Vehicle High U.S. Content"
 date: '2026-04-22T23:05:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

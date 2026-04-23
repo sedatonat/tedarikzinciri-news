@@ -1,6 +1,5 @@
 ---
 title: "ABD Çip İhracat Vergisinden Az Fayda Sağlayacak Ekonomik Danışmanlık Firması Demekta"
-subtitle: "SCB/iStock Antonio Bordunovi: US Chip Export Tax Az Fayda Oxford Economics Demekta; Nvidia AMD %15 Kesinti China Export Lisans; Surprising Move; Treasury Secretary Bessent Export Tax Diğer Endüstri Genişletme; 1.5 Milyar Dolar Maximum Gelir; 2 Trilyon Dolar Bütçe Açığı; Adam Slater Lead Economist; Trade Deficit Narrow Effort Zarar; Advanced Semiconductor Export License"
 date: '2026-04-22T23:30:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

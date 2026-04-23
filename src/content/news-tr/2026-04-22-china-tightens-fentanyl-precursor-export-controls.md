@@ -1,6 +1,5 @@
 ---
 title: "Çin, Fentanil Öncül Kimyasallar için İhracat Kontrollerini Sıkılaştırmakta"
-subtitle: "NYT/iStock: China Ministry of Commerce 13 Kimyasal Lisans ABD/Meksika/Kanada; Fentanil Sentezi Öncülleri; CDC 2024 48,000+ Ölüm 2023 76,000+; Trump Tarife Motivasyon Çinli İthalat; ABD-Çin Ticaret Çalkantısı Aylar İlerleme; Mahkeme Yorumu Bekleniyor"
 date: '2026-04-22T19:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

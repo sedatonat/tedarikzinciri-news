@@ -1,6 +1,5 @@
 ---
 title: "Podcast Bir 'Metahuman' ile Konuşmaya Hazır Olmakta mı"
-subtitle: "SCB/iStock Dragon Claws: Podcast Are You Ready Talk Metahuman; Robert J. Bowman SupplyChainBrain Editor; Kiosk Screen Real Human Virtual; Voice-Enabled Interface Human-Like Empathy Understanding Emotional Intelligence; Ivan Lau Pantheon Lab Founder Guest; Artificial Intelligence Large Language Model Digital Human Detect Interpret Respond Human Emotion Real-Time; Where When Metahuman Pop Up Accept Reject Person-to-Person; LLM Multimodal Generative AI Avatar Digital Twin Customer Service Hospitality Retail Healthcare Supply Chain Application"
 date: '2026-04-22T23:10:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

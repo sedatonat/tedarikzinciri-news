@@ -1,6 +1,5 @@
 ---
 title: "DP World Montreal Limanı Yeni Terminali İşletme Sözleşmesi Kazanmakta"
-subtitle: "SCB/Bloomberg/Andrej Ivanov: DP World Montreal Port Contrecoeur Terminal Sözleşme; Container Handling Kapasite %50+ Artış; 8 Eylül Anlaşma; Montreal Port Authority MPA; Caisse de Depot Quebec %45 Sahiplik; St. Lawrence River Lokasyon; C$1.6 Milyar 1.2 Milyar Dolar Yatırım; Canada Fisheries Department Onay; 5 Diğer Canada Port Tesis; In-Water Works Başlangıç"
 date: '2026-04-22T21:00:00Z'
 category: Lojistik
 secondaryCategories:

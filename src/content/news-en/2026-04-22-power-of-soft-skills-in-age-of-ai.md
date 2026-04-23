@@ -1,6 +1,5 @@
 ---
 title: "The Power of Soft Skills in the Age of AI"
-subtitle: "SCB/iStock Sean Anthony Eddy 1675096614: Power Soft Skills Age AI; SupplyChainBrain Analyst Insight; Artificial Intelligence Rewrite Rulebook Procurement Professional Face Tough New Workforce Challenge Balance Technology Advancement Irreplaceable Human Touch; AI Game Changer Offer Greater Efficiency Increase Automation Cost Saving Smarter Decision-Making Also Create Skill Gap Hard Ignore Procurement Leader Juggle Tech Integration Make Most Human Quality Keep Team Competitive; Take Supplier Relationship AI Analyze Performance Data Predict Risk Suggest Cost-Saving Opportunity"
 date: "2026-04-22T23:59:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2024/10/03/AI-MANUFACTURING-ARTIFICIAL-INTELLIGENCE-ROBOTICS-ROBOTS-iStock-Sean-Anthony-Eddy-1675096614.jpg"

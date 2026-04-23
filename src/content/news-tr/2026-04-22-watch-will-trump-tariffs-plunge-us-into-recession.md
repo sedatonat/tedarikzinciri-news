@@ -1,6 +1,5 @@
 ---
 title: "İzle: Trump Tarifleri ABD'yi Resesyona Sürüklemekta mi?"
-subtitle: "SCB/iStock 1296135863: Watch Will Trump Tariff Plunge U.S. Recession; Connor Lokar Senior Forecaster ITR Economics; Robert Bowman SupplyChainBrain Interview; Analyst Insight Weigh Prospect Recession Result Trump Administration Latest Round Tariff Probability Great Depression Occur Next Decade; Bring Recession Not Point While Emphasize Potential Damage Escalating Trade War Believe OK Moment Think Economy Still Grow Despite Some Tariff Pressure; Many Sector U.S. Economy Single-Family Housing Inflation-Adjusted Capital Goods New Order Sound Footing; Possibility Great Depression Trade War Worsen"
 date: '2026-04-22T23:57:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

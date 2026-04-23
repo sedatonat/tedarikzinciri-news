@@ -1,6 +1,5 @@
 ---
 title: "Russia, Michelin Lastiklerini İthal Etmekte Yaptırımları Atlamakta"
-subtitle: "Guardian/Economic Security Council of Ukraine: Sivil/Havacılık Lastik Yaptırımları; Aracı Şirketler U.K.; March 2022 İhracat Durdurulması; 2023 $28M; Ekim 2024-Mart 2025 2,687 Lastik $7M+; Diversiyon İzleme Adapte Edilmekte"
 date: '2026-04-22T14:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

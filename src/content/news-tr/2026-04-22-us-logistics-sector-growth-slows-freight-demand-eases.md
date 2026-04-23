@@ -1,6 +1,5 @@
 ---
 title: "U.S. Lojistik Sektörü Büyümesi Yavaşlamakta; Yük Talebi Hafiflemekte"
-subtitle: "SCB/iStock jonathanfilskov-photography: Logistic Managers Index LMI Eylül 57.4; Ağustos 59.3 -2 Puan; Mart'tan Beri En Düşük Okuma; Taşımacılık Kapasitesi 55.1 -2.2 Puan; Taşımacılık Kullanımı 55.0 -5 Puan; Depo Kapasitesi 51.6; Depo Kullanımı 65.3 +3 Puan; Council of Supply Chain Management Professionals CSCMP; Üniversite İş Okulları Koalisyonu"
 date: '2026-04-22T06:00:00Z'
 category: Lojistik
 secondaryCategories:

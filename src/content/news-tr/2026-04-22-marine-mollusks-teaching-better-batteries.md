@@ -1,6 +1,5 @@
 ---
 title: "Deniz Yumuşakçaları Bize Daha İyi Bataryalar Yapmayı Öğretmekte"
-subtitle: "SCB/iStock: Marine Mollusks Chiton Better Battery Material; UC Irvine David Kisailus Profesör Materials Engineering; Japan Partner Araştırma; Biomimetic Nanostructured Materials Laboratory; Intertidal Tiny Sea Creature; Ultra-Hard Teeth Layer Layer; Room Temperature Nanoscale Precision; Fuel Cell Next Generation Electronics; Industrial Cutting Tool Grinding Media; Dental Surgical Implant Protective Coating"
 date: '2026-04-22T23:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

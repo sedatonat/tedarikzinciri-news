@@ -1,6 +1,5 @@
 ---
 title: "India and China Resume Direct Flights as Relations Thaw"
-subtitle: "India-China Direct Flights Resume After 5-Year Gap; Indian Ministry of External Affairs Announces October 2; Service to Begin at Month-End; Suspended After COVID-19; 2020 Border Conflict Hit Low Point; Hong Kong Singapore Hub Transit; Trump Tariffs Uncertainty; IndiGo India's Major Carrier Launches Daily Service October 26"
 date: "2026-04-22T08:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2025/10/03/india-airplane-bloomberg-441305961.webp"

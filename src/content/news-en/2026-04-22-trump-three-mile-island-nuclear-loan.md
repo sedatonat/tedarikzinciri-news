@@ -1,6 +1,5 @@
 ---
 title: "Trump Administration Extends $1 Billion Loan to Restart Three Mile Island Nuclear Reactor"
-subtitle: "NYT/iStock: Constellation Energy Microsoft Pennsylvania Unit 1 Reactor; 800,000 Homes Electricity; AI Data Center Power; $1.6B Total Exceeding Half; 1979 Unit 2 Partial Meltdown; Energy Secretary Chris Wright Low-Carbon Bool; Ahead SMR/Uranium Supply Logistics"
 date: "2026-04-22T13:00:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2025/11/20/three-mile-island-nuclear-plant-iStock-172484512.webp"

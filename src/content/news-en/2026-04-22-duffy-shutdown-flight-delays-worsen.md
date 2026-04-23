@@ -1,6 +1,5 @@
 ---
 title: "Secretary Duffy: Ongoing Government Shutdown Worsening Flight Delays"
-subtitle: "SCB/iStock Matthieu Douhaire: Sean Duffy U.S. Transportation Secretary Warning; 50+ ATC Personnel Shortage Oct 24-26 Airports; 3,000+ Flight Delays Single Day Oct 26; Fox News Interview; Controllers Wearing Thin Call Out; Essential Federal Personnel Unpaid; CNN Report"
 date: "2026-04-22T08:00:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2024/09/03/AIRBUS-A350-PLANE-iStock-Matthieu-Douhaire-1977549461.webp"

@@ -1,6 +1,5 @@
 ---
 title: "İzle Kritik Hammaddelere Erişimde Kriz Olmakta"
-subtitle: "SCB/iStock Mykola Pokhodzhay: Watch Crisis Access Critical Raw Materials; Robert J. Bowman SupplyChainBrain Editor; Carrie Wibben Kaupp Exiger President; China Cut Off Critical Mineral; Multi-Tier Visibility; Weaponization Periodic Table; 100% Seven Mineral 50% 30-40 Reliance; Rare Earth Export Ban Trump Administration Huge Tariff Escalation; High-Tech Product Raw Material Stage Visibility; Manufacturer Tier Supplier Beyond Single Tier; Technical Document Bill of Material Component Sourcing"
 date: '2026-04-22T23:40:00Z'
 category: Tedarik Zinciri
 secondaryCategories:

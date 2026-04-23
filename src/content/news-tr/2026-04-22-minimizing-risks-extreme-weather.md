@@ -1,6 +1,5 @@
 ---
 title: "Aşırı Hava Olaylarıyla İlişkili Riskleri En Aza İndirmekta"
-subtitle: "SCB/iStock Daria Nipot 1363027437: Minimize Risk Associate Extreme Weather; Renny Vandewege SCB Contributor; Weather Once Predictable Risk Global Supply Chain Erratic Frequency Intensity; National Centers Environmental Information NCEI 1980-2019 Annual Average Weather Event U.S. Billion Dollar Damage 9 Event 2020-2024 22 Event Tenfold Increase Five Year; Hurricane Ian September 2022 Florida Shipment Drop 75 Percent; Buffalo Christmas Freeze 40 Percent; Canadian Wildfire June 2023 Chicago New York Delivery Delay 2 Day; Hurricane Helene 2024 North Carolina Flooding; Advanced Weather Modeling TMS Transportation Management System Hyperlocal Forecast Reroute Severe Storm; Driver Safety Alternative Route"
 date: '2026-04-22T23:58:30Z'
 category: Tedarik Zinciri
 secondaryCategories:

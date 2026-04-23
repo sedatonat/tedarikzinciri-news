@@ -1,6 +1,5 @@
 ---
 title: "A Summer Security Tune-Up for Manufacturers"
-subtitle: "SupplyChainBrain Think Tank/iStock: Summer Security Tune-Up for Manufacturers; Cybercriminals Hunting Season; Lean Operation IT Vacation Vulnerability; Phishing 31% 2025 Breach; Human Error 68% Breach Trigger; Floor Staff Cybersecurity Training Gap; Holiday Schedule Reduced Monitoring; Manufacturing Ransomware Phishing Supply Chain Attack; UK Jaguar Land Rover Cyberattack; Predictable Pattern Get Ahead"
 date: "2026-04-23T00:05:00Z"
 category: "Tedarik Zinciri"
 image: "https://www.supplychainbrain.com/ext/resources/2024/05/01/iStock-1397398956.webp"
