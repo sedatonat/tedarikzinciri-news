@@ -20,55 +20,55 @@ tags:
 - mega gemi
 - navlun maliyeti
 ---
-<p style="text-align: justify">CMA CGM, Kızıldeniz’de iki yıldır devam eden güvenlik krizinin ardından <strong>ilk büyük ölçekli test geçişini</strong> gerçekleştiriyor. Ocean Alliance’ın NEU4 ve NEU5 servislerinde çalışan iki megamax sınıfı geminin <strong>Süveyş Kanalı’na doğru yönelmesi</strong>, hat operatörlerinin rotayı temkinli şekilde yeniden açmayı değerlendirdiğini gösteriyor.</p>
+<p style="text-align: justify">CMA CGM, Kızıldeniz&rsquo;de iki yıldır süren güvenlik krizinin ardından <strong>ilk büyük ölçekli test geçişini</strong> hayata geçirdi. Ocean Alliance&rsquo;ın NEU4 ve NEU5 servislerinde çalışan iki megamax sınıfı geminin <strong>Süveyş Kanalı&rsquo;na doğru yönelmesi</strong>, hat operatörlerinin rotayı temkinli biçimde yeniden açmayı değerlendirdiğini ortaya koydu.</p>
 <p><br></p>
-<p style="text-align: justify">Analist <strong>Linerlytica</strong>, NEU4 hattında çalışan <strong>17.859 TEU’luk CMA CGM Benjamin Franklin</strong> gemisinin Avrupa çıkışlı dönüş (eastbound backhaul) seferinde <strong>Akdeniz’e dönerek Süveyş yönüne ilerlediğini</strong> bildirdi. Aynı şekilde, NEU5 hattındaki <strong>23.112 TEU’luk CMA CGM Sorbonne</strong> da benzer bir şekilde Akdeniz’e doğru seyrediyor.</p>
+<p style="text-align: justify">Analist <strong>Linerlytica</strong>, NEU4 hattında çalışan <strong>17.859 TEU&rsquo;luk CMA CGM Benjamin Franklin</strong> gemisinin Avrupa çıkışlı dönüş (eastbound backhaul) seferinde <strong>Akdeniz&rsquo;e dönüp Süveyş yönüne ilerlediğini</strong> bildirdi. NEU5 hattındaki <strong>23.112 TEU&rsquo;luk CMA CGM Sorbonne</strong> da benzer biçimde Akdeniz&rsquo;e doğru seyrini sürdürdü.</p>
 <p><br></p>
-<p style="text-align: justify">Bu iki gemi, <strong>Ocean Alliance’a ait mega gemilerin</strong> çatışma bölgesine iki yıl sonra ilk kez girmesi anlamına geliyor ve taşıyıcıların Red Sea rotasını <strong>kontrollü biçimde yeniden devreye alıp alamayacağını test ettiği</strong> düşünülüyor.</p>
+<p style="text-align: justify">Bu iki gemi, <strong>Ocean Alliance&rsquo;a ait mega gemilerin</strong> çatışma bölgesine iki yıl sonra ilk girişi anlamına geldi; taşıyıcıların Red Sea rotasını <strong>kontrollü biçimde yeniden devreye alıp alamayacağını sınadığı</strong> değerlendirildi.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Temkinli dönüş: “Test, tam dönüş değil”</strong></h4>
-<p style="text-align: justify">Konteyner hatları genel olarak Kızıldeniz’den uzak durmaya devam ederken, CMA CGM’nin bu hamlesi henüz tam ölçekli bir geri dönüş olarak yorumlanmamakta.<br>
+<p style="text-align: justify">Konteyner hatları genel olarak Kızıldeniz&rsquo;den uzak durmayı sürdürdü; CMA CGM&rsquo;nin bu hamlesi ise henüz tam ölçekli bir geri dönüş olarak yorum bulmadı.<br>
 Sektör kaynaklarına göre test seferleri:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">rotadaki yeni risk seviyesini ölçmek,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">sigorta maliyetlerini değerlendirmek,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">askeri koridorların etkinliğini test etmek,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Süveyş geçişinin operasyonel uygulanabilirliğini görmek<br>
-için kullanılıyor.</p></li>
+amacıyla hizmet gördü.</p></li>
 </ul>
-<p style="text-align: justify">Ocean Alliance’ın diğer üyeleri — COSCO, OOCL ve Evergreen — henüz bölgeye dönüş sinyali vermiş değil.</p>
+<p style="text-align: justify">Ocean Alliance&rsquo;ın diğer üyeleri &mdash; COSCO, OOCL ve Evergreen &mdash; henüz bölgeye dönüş sinyali vermedi.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Neden CMA CGM testleri başlattı?</strong></h4>
 <p style="text-align: justify">Sektör analistlerine göre:</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>1) Transit maliyetleri ve Ümit Burnu rotası baskısı</strong></h5>
-<p>Ümit Burnu dolaşımlarının maliyet ve süre yükü, özellikle boş dönüş bacaklarında (eastbound backhaul) çok daha belirgin hâle geliyor.</p>
+<p>Ümit Burnu dolaşımlarının maliyet ve süre yükü, özellikle boş dönüş bacaklarında (eastbound backhaul) çok daha belirgin hâle geldi.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>2) AB donanma koridorları daha etkin</strong></h5>
-<p>2025’in ikinci yarısında Avrupa Birliği ve bazı uluslararası güvenlik güçlerinin devriye kapasitesi artmış durumda.</p>
+<p>2025&rsquo;in ikinci yarısında Avrupa Birliği ve bazı uluslararası güvenlik güçlerinin devriye kapasitesi arttı.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>3) Ticaret ateşkesi ve Husi saldırılarına ara verilmesi</strong></h5>
-<p>Husilerin saldırılara geçici ara verdiğini ilan etmesi bölgeyi tamamen güvenli yapmasa da, bazı hatların test amaçlı kontrollü dönüşleri mümkün hâle gelmiş durumda.</p>
+<p>Husilerin saldırılara geçici ara verdiğini ilan etmesi bölgeyi tamamen güvenli kılmasa da bazı hatların test amaçlı kontrollü dönüşlerini mümkün hâle getirdi.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Riskler hâlen yüksek</strong></h4>
-<p style="text-align: justify">Her ne kadar iki mega geminin Süveyş’e yönelmesi umut verici görünse de analistler, riskin önemli ölçüde devam ettiğini vurguluyor:</p>
+<p style="text-align: justify">Her ne kadar iki mega geminin Süveyş&rsquo;e yönelmesi umut verici görünse de analistler, riskin önemli ölçüde sürdüğünü vurguladı:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Deniz sigortası primleri hâlâ çok yüksek,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Husi güçlerinin yeniden silahlanma sinyalleri bulunuyor,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Bab el-Mendeb’de donanma koridorları tam koruma sağlayamamakta,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Husi güçlerinin yeniden silahlanma sinyalleri mevcut,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Bab el-Mendeb&rsquo;de donanma koridorları tam koruma sağlayamadı,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Tek bir olay, hatların yeniden Ümit Burnu rotasına dönmesine yol açabilir.</p></li>
 </ul>
-<p style="text-align: justify">Bu nedenle geçişler “<strong>keşif niteliğinde</strong>” değerlendiriliyor.</p>
+<p style="text-align: justify">Bu nedenle sektör, geçişleri &ldquo;<strong>keşif niteliğinde</strong>&rdquo; değerlendirdi.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Asya–Avrupa ticaretine etkisi</strong></h4>
-<p style="text-align: justify">Eğer Kızıldeniz rotası güvenli biçimde yeniden açılırsa:</p>
+<p style="text-align: justify">Kızıldeniz rotası güvenli biçimde yeniden açılırsa:</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">Transit süreleri <strong>10–14 gün kısalabilir</strong>,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Transit süreleri <strong>10&ndash;14 gün kısalabilir</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Yakıt ve navlun maliyetleri düşebilir,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Avrupa aktarma limanlarındaki yük dengesi değişebilir,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Ümit Burnu kaynaklı küresel program bozulmaları azalabilir.</p></li>
 </ul>
-<p style="text-align: justify">Ancak tam dönüşün <strong>bir anda kapasite yığılmalarına ve Avrupa limanlarında kongesyon artışına</strong> yol açabileceği de belirtiliyor.</p>
+<p style="text-align: justify">Ancak analistler, tam dönüşün <strong>bir anda kapasite yığılmalarına ve Avrupa limanlarında kongesyon artışına</strong> yol açabileceğini de belirtti.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Önemli Notlar</strong></h4>
 <ul>
