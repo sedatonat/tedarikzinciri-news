@@ -22,6 +22,17 @@ const articles = await getArticlesByTag('tr', tag as string);
 >
   <Timeline lang="tr" />
   <section class="container-wide py-10">
+    <button
+      type="button"
+      data-back-button
+      class="inline-flex items-center gap-1.5 text-sm text-ink-600 dark:text-ink-300 hover:text-brand-600 dark:hover:text-brand-300 mb-4 px-2 py-1 -ml-2 rounded transition-colors"
+      aria-label="Geri"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4" aria-hidden="true">
+        <path d="M19 12H5"/><path d="m12 19-7-7 7-7"/>
+      </svg>
+      <span>Geri</span>
+    </button>
     <nav class="text-sm text-ink-500 dark:text-ink-400 mb-3">
       <a href="/" class="hover:text-brand-600">Ana Sayfa</a>
       <span class="mx-2">/</span>
@@ -34,4 +45,17 @@ const articles = await getArticlesByTag('tr', tag as string);
       {articles.map(e => <NewsCard entry={e} />)}
     </div>
   </section>
+  <script is:inline>
+    (function () {
+      document.querySelectorAll('[data-back-button]').forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          if (window.history.length > 1 && document.referrer && new URL(document.referrer).origin === window.location.origin) {
+            window.history.back();
+          } else {
+            window.location.href = '/';
+          }
+        });
+      });
+    })();
+  </script>
 </BaseLayout>
