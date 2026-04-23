@@ -205,7 +205,19 @@ const cfBeaconToken = import.meta.env.PUBLIC_CF_BEACON_TOKEN;
           if (e.target === modal) closePopup(true);
         });
         document.addEventListener('keydown', function (e) {
-          if (e.key === 'Escape' && !modal.classList.contains('hidden')) closePopup(true);
+          if (modal.classList.contains('hidden')) return;
+          // Ignore when user is typing in a form field
+          var tag = e.target && e.target.tagName;
+          if (tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT' || (e.target && e.target.isContentEditable)) return;
+          if (e.key === 'Escape') { closePopup(true); return; }
+          if (e.key === 'ArrowLeft' || e.key === 'ArrowRight') {
+            var dir = e.key === 'ArrowLeft' ? 'newer' : 'older';
+            var link = content.querySelector('a[data-news-nav="' + dir + '"]');
+            if (link && link.getAttribute('href')) {
+              e.preventDefault();
+              openPopup(link.getAttribute('href'), true);
+            }
+          }
         });
         window.addEventListener('popstate', function () {
           if (history.state && history.state.newsPopup) {
