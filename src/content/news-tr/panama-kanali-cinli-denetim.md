@@ -38,7 +38,7 @@ tags:
 <p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">Panama, <strong>Panama Kanalı</strong>'na bitişik limanları işleten Çin bağlantılı <strong>Hutchison Ports</strong>'un faaliyetlerini denetlemekte.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Panama, <strong>Panama Kanalı</strong>'na bitişik limanları işleten Çin bağlantılı <strong>Hutchison Ports</strong>'un faaliyetlerini denetliyyor.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Denetim, eski ABD Başkanı <strong>Donald Trump</strong>'ın Panama ziyareti öncesinde gerçekleşiyor.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Çin'in küresel liman yatırımları, stratejik altyapıların kontrolü konusunda endişelere yol açıyor.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Panama Kanalı</strong>, dünya ticaretinin önemli bir noktası olup, burada faaliyet gösteren şirketlerin ulusal güvenlik üzerindeki etkileri büyüktür.​</p></li>

@@ -22,7 +22,7 @@ tags:
 ---
 <p style="text-align: justify"><strong>Rusya</strong>, Batı yaptırımlarını aşma stratejisinde yeni bir aşamaya geçti. Ülke, Çinli bir LNG taşıyıcısıyla iş birliği kurarak <strong>ilk kez “karanlık filo (shadow fleet)” üzerinden sıvılaştırılmış doğalgaz (LNG) gemiden-gemiye aktarımını (ship-to-ship transfer / STS)</strong> hayata geçirdi. Uzmanlar, uydu görüntüleri ve kısmen kapalı <strong>AIS (Automatic Identification System)</strong> verileri aracılığıyla operasyonun <strong>18 Ekim 2025’te Malezya açıklarında</strong> gerçekleştiğini tespit etti.</p>
 <p><br></p>
-<p style="text-align: justify">Aktarma operasyonunu <strong>170.471 m³ kapasiteli Perle</strong> gemisi ile <strong>145.000 m³ kapasiteli CCH Gas</strong> üstlendi. <strong>Perle</strong>, yükünü <strong>Gazprom’un Portovaya LNG tesisinden</strong> aldı; tesis, <strong>ABD tarafından Ocak 2025’te yaptırıma tabi tutuldu</strong> ve o tarihten bu yana yabancı alıcı bulmakta ciddi güçlük çekti.</p>
+<p style="text-align: justify">Aktarma operasyonunu <strong>170.471 m³ kapasiteli Perle</strong> gemisi ile <strong>145.000 m³ kapasiteli CCH Gas</strong> üstlendi. <strong>Perle</strong>, yükünü <strong>Gazprom’un Portovaya LNG tesisinden</strong> aldı; tesis, <strong>ABD tarafından Ocak 2025’te yaptırıma tabi tutuldu</strong> ve o tarihten bu yana yabancı alıcı buluyor ciddi güçlük çekti.</p>
 <p><br></p>
 <p style="text-align: justify">Analistler bu hamleyi, Rusya’nın enerji ihracatını <strong>Batı denetimi dışına taşıma</strong> çabasının bir parçası olarak yorumladı. Operatörler LNG’yi yüksek denizlerde “karanlık transfer” yöntemiyle taşıyarak yükün menşeini gizledi ve alıcı ülkeleri yaptırımların etkisinden koruma yolunu seçti.</p>
 <p><br></p>

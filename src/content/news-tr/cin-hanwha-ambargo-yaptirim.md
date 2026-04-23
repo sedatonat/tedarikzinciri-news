@@ -69,7 +69,7 @@ Her iki ülke de <strong>Ekim ayında karşılıklı olarak gemilere yönelik ye
 <h5 style="text-align: justify"><strong>Sonuç: Gemi İnşa Sektörü Yeni Bir Ticaret Cephesi Haline Geliyor</strong></h5>
 <p style="text-align: justify">Çin’in Hanwha’ya yönelik yaptırımı, <strong>Asya merkezli savunma ve gemi inşa sanayii rekabetinin</strong> yeni bir döneme girdiğini gösteriyor.</p>
 <p><br>
-ABD’nin <strong>yerli üretimi güçlendirme çabaları</strong>, Çin’in <strong>bölgesel nüfuzunu koruma stratejisiyle</strong> çakışmakta.</p>
+ABD’nin <strong>yerli üretimi güçlendirme çabaları</strong>, Çin’in <strong>bölgesel nüfuzunu koruma stratejisiyle</strong> çakışıyor.</p>
 <p style="text-align: justify">Bu gelişme, <strong>ABD-Çin ticaret savaşının savunma sanayi boyutuna taşındığının</strong> açık bir göstergesi.</p>
 <p><br>
 Hanwha gibi çok uluslu aktörler için bu durum, <strong>jeopolitik risk yönetimi, tedarik zinciri çeşitlendirmesi</strong> ve <strong>pazar dengesi</strong> açısından yeni stratejik kararlar gerektiriyor.</p>

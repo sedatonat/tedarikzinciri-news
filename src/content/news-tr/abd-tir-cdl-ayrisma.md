@@ -39,7 +39,7 @@ tags:
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">ABD’de yaklaşık <strong>200.000 non-domiciled CDL</strong> sahibi bulunuyor</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Önerilen düzenleme, bazı göçmenlerin ticari araç kullanmasını engellemeyi hedefliyor</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Artan <strong>enforcement activity</strong>, kısa vadede kamyon kapasitesini daraltmakta</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Artan <strong>enforcement activity</strong>, kısa vadede kamyon kapasitesini daraltıyor</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Bazı sektör temsilcileri, fiyatlar için asıl belirleyicinin talep toparlanması olduğunu savunuyor</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Denetimler, <strong>compliance</strong> ve rekabet dengesi açısından uzun vadeli etkiler yaratıyor</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Tartışma, ABD kamyonculuk sektöründeki yapısal iş gücü sorunlarını görünür kılıyor</p></li>

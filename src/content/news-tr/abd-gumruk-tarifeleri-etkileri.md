@@ -66,7 +66,7 @@ Bu durum, 2025’in ilk çeyreğinde <strong>ABD’nin ithalat hacmini geçici o
 <p><br>
 Bu gelişme, özellikle <strong>Asya, Afrika ve Avrupa arasındaki tedarik zincirlerini</strong> güçlendirdi.</p>
 <p><br></p>
-<h5 style="text-align: justify"><strong>Sonuç: Küresel Ticaret Çok Merkezli Bir Yapıya Evrilmekte</strong></h5>
+<h5 style="text-align: justify"><strong>Sonuç: Küresel Ticaret Çok Merkezli Bir Yapıya Evriliyor</strong></h5>
 <p style="text-align: justify">DHL raporu, <strong>ABD’nin korumacı politikalarına rağmen küresel ticaretin büyümeye devam ettiğini</strong> açıkça ortaya koydu.<br>
 Yeni dönemde, ticaretin merkezi <strong>tek bir ülke yerine bölgesel ağlara</strong> kaydı.<br>
 Çin, ASEAN, AB ve Afrika’nın yükselen rolü, dünya ticaretinin geleceğinde <strong>çok merkezli (multipolar)</strong> bir yapının şekillendiğine işaret etti.</p>

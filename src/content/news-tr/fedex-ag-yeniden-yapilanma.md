@@ -42,7 +42,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">FedEx, ağ entegrasyonu ve maliyet azaltım stratejisinin ilk finansal sonuçlarını açıklamış oldu.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Yıl geneli kâr beklentisinin alt bandı yukarı yönlü revize edildi.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Ground ve air-freight</strong> ağlarının birleşimi operasyonel verimlilik yaratıyor.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>MD-11 uçaklarının</strong> yere indirilmesi kısa vadeli kârlılığı baskılamakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>MD-11 uçaklarının</strong> yere indirilmesi kısa vadeli kârlılığı baskılıyyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Çin–ABD hattındaki hacim düşüşü kârlı gönderileri olumsuz etkilemiş oldu.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Yatırımcı güveni artarken, makro ve operasyonel riskler devam ediyor.</p></li>
 </ul>

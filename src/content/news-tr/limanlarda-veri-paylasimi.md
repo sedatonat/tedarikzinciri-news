@@ -43,7 +43,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Ocean carriers</strong> ile veri paylaşımında ilerleme sağlanıyor</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Bazı paydaşlar, <strong>proprietary information</strong> endişesi nedeniyle çekimser kalıyor</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Advance shipment data</strong>, operasyonel planlama için kritik rol oynuyor</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Gelecek yük dalgaları için mevcut iş birliği yeterli görülmemekte</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Gelecek yük dalgaları için mevcut iş birliği yeterli görülmiyyor</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Daha kapsamlı <strong>data sharing</strong>, limanlarda dayanıklılığı artırıyor</p></li>
 </ul>
 <p>----------</p>

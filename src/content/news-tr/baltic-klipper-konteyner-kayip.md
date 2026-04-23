@@ -36,7 +36,7 @@ tags:
 Bu tür buluntuları izinsiz sahiplenmek <strong>yasal suç</strong> niteliğindedir. MCA, olası yağmalama girişimlerine karşı sahil boyunca polis ile koordineli devriye yürütüldüğünü açıkladı.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Hava Gözetimi ve Arama Çalışmaları Sürüyor</strong></h3>
-<p style="text-align: justify">Kıyıya vurmuş konteynerlerin yanı sıra bazı üniteler hâlen <strong>adrift</strong> durumda. Bu nedenle <strong>Coastguard helicopters</strong> ile hava gözetimi sürdürülüyor. Amaç; konteynerlerin konumunu doğrulamak, potansiyel çarpışma rotalarını belirlemek ve küçük tekneler için riskleri minimize etmek. MCA ayrıca bölgedeki ticari gemileri <strong>NAVTEX</strong> ve <strong>SafetyNet</strong> üzerinden düzenli olarak bilgilendirmekte.</p>
+<p style="text-align: justify">Kıyıya vurmuş konteynerlerin yanı sıra bazı üniteler hâlen <strong>adrift</strong> durumda. Bu nedenle <strong>Coastguard helicopters</strong> ile hava gözetimi sürdürülüyor. Amaç; konteynerlerin konumunu doğrulamak, potansiyel çarpışma rotalarını belirlemek ve küçük tekneler için riskleri minimize etmek. MCA ayrıca bölgedeki ticari gemileri <strong>NAVTEX</strong> ve <strong>SafetyNet</strong> üzerinden düzenli olarak bilgilendiriyor.</p>
 <p><br></p>
 <p style="text-align: justify">Baltic Klipper olayının nedeni tamamen meteorolojik unsurlara bağlanmış olsa da, olay 2025 son çeyreğinde Avrupa kıyılarında artan fırtına şiddeti, konteyner lashing standartları ve ekipman yaşlanması gibi konuların tekrar gündeme gelmesine yol açabilir. IMO ve EMSA, son yıllarda konteyner kayıplarını azaltmaya yönelik global girişimler yürütüyor; ancak kötü hava koşulları ve yapısal lashing yetersizlikleri hâlen ciddi bir problem alanı.</p>
 <p><br></p>

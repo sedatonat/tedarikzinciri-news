@@ -36,7 +36,7 @@ tags:
 <p><br></p>
 <p style="text-align: justify">HDF Energy CEO’su <strong>Hanane El Hamraoui</strong>, bu iş birliğinin denizcilik sektörünü karbonsuzlaştırmak için pratik ve ölçeklenebilir bir çözüm sunduğunu vurguluyor. ABB Marine &amp; Ports Başkanı <strong>Rune Braastad</strong> ise, büyük gemiler için uygulanabilir yakıt hücresi çözümleri geliştirme yolunda uzun süredir önemli ilerlemeler kaydedildiğini ve bu anlaşmanın süreci bir adım ileri taşıdığını ifade ediyor.</p>
 <p><br></p>
-<p style="text-align: justify">Genel çerçevede ABB ve HDF Energy iş birliği, yakıt hücrelerinin denizcilikte <strong>yardımcı bir teknoloji</strong> oluyorn çıkarak, <strong>ana güç mimarisinin</strong> önemli bir bileşeni haline gelme potansiyelini ortaya koyuyor. Bu adım, denizcilikte karbonsuzlaşma hedeflerinin teknik ve ticari açıdan daha gerçekçi bir zemine oturmakta olduğunu gösteriyor.</p>
+<p style="text-align: justify">Genel çerçevede ABB ve HDF Energy iş birliği, yakıt hücrelerinin denizcilikte <strong>yardımcı bir teknoloji</strong> oluyorn çıkarak, <strong>ana güç mimarisinin</strong> önemli bir bileşeni haline gelme potansiyelini ortaya koyuyor. Bu adım, denizcilikte karbonsuzlaşma hedeflerinin teknik ve ticari açıdan daha gerçekçi bir zemine oturuyor olduğunu gösteriyor.</p>
 <p><br></p>
 <p style="text-align: justify"><br></p>
 <p><strong>Önemli Notlar</strong></p>

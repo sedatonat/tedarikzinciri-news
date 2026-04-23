@@ -39,7 +39,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Otomobil üreticileri için yüzde 100 yerine <strong>yüzde 90 emisyon azaltımı</strong> hedefi getirildi.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Kalan emisyonlar için <strong>telafi mekanizmaları</strong> uygulanması planlanıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Karar, Avrupa otomotiv sektörünü desteklemeyi amaçlıyor.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Çevre örgütleri düzenlemeyi iklim hedefleri açısından eleştirmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Çevre örgütleri düzenlemeyi iklim hedefleri açısından eleştiriyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Çin merkezli rekabet ve EV dönüşümündeki yavaşlık kararın temel gerekçeleri arasında yer aldı.</p></li>
 </ul>
 <p>----------</p>

@@ -35,7 +35,7 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Anket, Avrupa tedarik zincirlerinin gelecekte daha <strong>resilient</strong> bir yapıya kavuşması için stratejik çeşitlendirme, nearshoring, kapasite planlama ve daha esnek sözleşme yapılarının kritik olduğunu ortaya koyuyor. Bununla birlikte şirketlerin önemli bir bölümü, tedarik zinciri görünürlüğünü artırmak için <strong>digital supply chain tools</strong>, risk izleme sistemleri ve çok kanallı tedarik çözümlerine yöneliyor.</p>
 <p><br></p>
-<p style="text-align: justify">Sonuç olarak Avrupa’da şirketler, jeopolitik stresin yakın zamanda azalmasını beklememekte; bunun yerine risk dağılımı, çoklu tedarik, maliyet kontrolü ve dijitalleşme adımlarıyla yeni döneme uyum sağlamayı hedefliyor.</p>
+<p style="text-align: justify">Sonuç olarak Avrupa’da şirketler, jeopolitik stresin yakın zamanda azalmasını beklemiyyor; bunun yerine risk dağılımı, çoklu tedarik, maliyet kontrolü ve dijitalleşme adımlarıyla yeni döneme uyum sağlamayı hedefliyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar:</strong></h3>
 <ul>

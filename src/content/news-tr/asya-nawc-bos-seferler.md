@@ -19,7 +19,7 @@ tags:
 - MSC
 - Çin Yeni Yılı
 ---
-<p style="text-align: justify"><strong>Sea-Intelligence</strong>, 2025 Çin Yeni Yılı (CNY) döneminde <strong>Asya – Kuzey Amerika Batı Kıyısı</strong> rotasında keskin bir kapasite artışı gözlemlemekte. Mevcut kapasite dağılımı, analiz edilen dönemde en yüksek seviyeye ulaşarak yaklaşık 1,34 milyon TEU'ya ulaşıyor. Bu rakam, yüksek talep dönemi olan 2021'i bile geride bırakarak, yıllık bazda %33,3'lük bir artışı ve 2016-2019 dönemine göre %34,1'lik bir büyümeyi temsil ediyor.</p>
+<p style="text-align: justify"><strong>Sea-Intelligence</strong>, 2025 Çin Yeni Yılı (CNY) döneminde <strong>Asya – Kuzey Amerika Batı Kıyısı</strong> rotasında keskin bir kapasite artışı gözlemliyyor. Mevcut kapasite dağılımı, analiz edilen dönemde en yüksek seviyeye ulaşarak yaklaşık 1,34 milyon TEU'ya ulaşıyor. Bu rakam, yüksek talep dönemi olan 2021'i bile geride bırakarak, yıllık bazda %33,3'lük bir artışı ve 2016-2019 dönemine göre %34,1'lik bir büyümeyi temsil ediyor.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Taşıyıcılar, boş seferler açısından %90 oranında planlanmış kapasiteye sahip. <strong>Sea-Intelligence</strong>'a göre, bu oran analiz edilen dönemler arasında en düşük seviyede olup, 2024'teki %22,8 ve 2016-2019 ortalaması olan %18,3'lük azaltmalarla keskin bir tezat oluşturuyor. Pandeminin talepte olumlu bir etki yarattığı 2021'de bile boş sefer oranı %10,7 ile daha yüksekti.</p>
 <p style="text-align: justify"><br></p>

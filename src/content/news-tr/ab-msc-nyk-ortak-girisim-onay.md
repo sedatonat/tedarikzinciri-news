@@ -59,7 +59,7 @@ tags:
 </ul>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Rekabet Etkisi ve AB Değerlendirmesi</strong></h3>
-<p style="text-align: justify">Komisyon’un analizine göre, ortak girişim Afrika pazarında iki büyük küresel lojistik oyuncusunun birleşik gücünü sunacak olsa da, EEA içinde rekabet açısından risk yaratmamakta. Çünkü:</p>
+<p style="text-align: justify">Komisyon’un analizine göre, ortak girişim Afrika pazarında iki büyük küresel lojistik oyuncusunun birleşik gücünü sunacak olsa da, EEA içinde rekabet açısından risk yaratmıyyor. Çünkü:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Afrika yönlü forwarding pazarında çok sayıda küresel ve bölgesel oyuncu bulunuyor,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Ortak girişim EEA içi lojistik faaliyetlerinde sınırlı etkiye sahip,</p></li>

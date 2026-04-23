@@ -24,7 +24,7 @@ tags:
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">ABD Ticaret Temsilciliği (<strong>USTR</strong>), Çin'in küresel gemi inşa, denizcilik ve lojistik sektörlerindeki hedeflenen hakimiyetinin "makul olmadığını" ve ABD ticaret yasalarına göre "işlem yapılabilir" olduğunu belirtmiştir.</p>
 <p style="text-align: justify"><br></p>
-<p style="text-align: justify">USTR'nin soruşturma bulguları, Pekin'e karşı belirli bir ceza önerisi içermemekte olup, sonraki adımların 20 Ocak'ta göreve başlayacak olan Başkan Donald Trump'a bırakıldığı ifade ediliyordir.</p>
+<p style="text-align: justify">USTR'nin soruşturma bulguları, Pekin'e karşı belirli bir ceza önerisi içermiyyor olup, sonraki adımların 20 Ocak'ta göreve başlayacak olan Başkan Donald Trump'a bırakıldığı ifade ediliyordir.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">USTR raporunda, Çin'in denizcilik, lojistik ve gemi inşa sektörlerinde hakimiyet hedeflemesinin makul olmadığı ve ABD ticaretini engellediği veya kısıtladığı, dolayısıyla işlem yapılabilir olduğu belirtiliyordir.</p>
 <p style="text-align: justify"><br></p>

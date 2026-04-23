@@ -31,7 +31,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>İnşaat Süreci:</strong> Nisan 2025'te başlayıp 2028'de tamamlanması planlanıyor.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Kapasite Artışı:</strong> Yıllık kömür ihracat kapasitesi 30 milyon ton artarak 165 milyon tona ulaşacak.​<a href="https://www.railfreight.com/beltandroad/2025/02/24/mongolia-and-china-plan-to-open-second-rail-border-crossing-by-2028/" rel="noopener" target="_blank">pl.railfreight.com+2railfreight.com+2es.railfreight.com+2</a></p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>2024 İhracatı:</strong> Moğolistan, 2024 yılında Çin'e 83 milyon ton kömür ihraç etti.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Çin'in Kömür Arayışı:</strong> Pekin, metalurji endüstrisi için ek kömür kaynakları aramakta, zira mevcut yaptırımlar ve tarifeler Rusya ve ABD'den ithalatı zorlaştırıyor.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Çin'in Kömür Arayışı:</strong> Pekin, metalurji endüstrisi için ek kömür kaynakları arıyyor, zira mevcut yaptırımlar ve tarifeler Rusya ve ABD'den ithalatı zorlaştırıyor.</p></li>
 </ul>
 <p><br></p>
 <p>---</p>

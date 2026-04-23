@@ -26,7 +26,7 @@ tags:
 <h3 style="text-align: justify"><strong>Teknik Zorluklar ve Yenilik</strong></h3>
 <p style="text-align: justify">Purdue Üniversitesi Elektrik ve Bilgisayar Mühendisliği Profesörü <strong>Dionysios Aliprantis</strong>; teknolojinin arkasındaki temel zorluğu şu sözlerle ifade etti:<br>
  <strong>“Transferring power through a magnetic field at these relatively large distances is challenging.”</strong><br>
-Aliprantis'e göre asıl güçlük; bu transferi <strong>akıllı telefonlardan binlerce kat daha yüksek güç seviyelerine ihtiyaç duyan ağır vasıtalar</strong> için güvenli ve verimli biçimde gerçekleştirmekte yatıyor.</p>
+Aliprantis'e göre asıl güçlük; bu transferi <strong>akıllı telefonlardan binlerce kat daha yüksek güç seviyelerine ihtiyaç duyan ağır vasıtalar</strong> için güvenli ve verimli biçimde gerçekleştiriyor yatıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Ekip, test edilen yol kesimini <strong>Indiana Department of Transportation (INDOT)</strong> iş birliğiyle inşa etti. Purdue tarafından tasarlanan bobinler; beton kaplama altına yerleştirildi ve üzerleri standart otoyol yüzeyiyle kapatıldı. Böylece sistem, geleneksel bir otoyoldan dış görünüşüyle ayırt edilemez hâle geldi. Enerji; yolun altından yukarı doğru iletilerek kamyonun altındaki alıcıya aktarılıyor.</p>
 <p><br></p>

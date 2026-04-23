@@ -48,7 +48,7 @@ tags:
 <p style="text-align: justify">Raporda; <strong>ileri otomasyonun</strong> yalnızca üretim hızını değil, aynı zamanda <strong>tedarik zinciri esnekliğini, kaliteyi ve sürdürülebilirliği</strong> de artırabileceği ön plana çıktı. Ancak Gartner şu uyarıyı paylaştı: “<strong>uygulama stratejisi olmadan teknoloji yatırımı tek başına verimlilik getirmez.</strong>”</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Sonuç: Endüstriyel dönüşümün eşiğinde bir sektör</strong></h5>
-<p style="text-align: justify">Gartner analizine göre üretim sektörü; şu anda <strong>teknoloji yatırımı ile organizasyonel değişim arasındaki dengeyi kurmakta zorlandı.</strong> Şirketler, önümüzdeki dönemde <strong>esnek, veri temelli, otonom sistemlerle desteklenen bir üretim ekosistemine geçişi</strong> hızlandırmak durumunda kaldı.</p>
+<p style="text-align: justify">Gartner analizine göre üretim sektörü; şu anda <strong>teknoloji yatırımı ile organizasyonel değişim arasındaki dengeyi kuruyor zorlandı.</strong> Şirketler, önümüzdeki dönemde <strong>esnek, veri temelli, otonom sistemlerle desteklenen bir üretim ekosistemine geçişi</strong> hızlandırmak durumunda kaldı.</p>
 <p><br></p>
 <p style="text-align: justify">Bu dönüşümün başarıyla tamamlanması; yalnızca verimliliği değil, <strong>rekabet avantajını ve tedarik zinciri dayanıklılığını</strong> da belirleyen temel faktörlerden biri olarak öne çıktı.</p>
 <p><br></p>

@@ -45,7 +45,7 @@ tags:
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>AI tabanlı fiyat teklifi 32 saniyede</strong> oluşturulabiliyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Daha önce <strong>4 saat süren bir sipariş süreci, 90 saniyede</strong> tamamlanıyor.<br>
-Bu hız, tedarik zincirinin tüm aşamalarında zincirleme bir etki yaratarak teslimat sürelerini kısaltmakta ve <strong>pazar rekabet gücünü artırıyor</strong>.</p></li>
+Bu hız, tedarik zincirinin tüm aşamalarında zincirleme bir etki yaratarak teslimat sürelerini kısaltıyor ve <strong>pazar rekabet gücünü artırıyor</strong>.</p></li>
 </ul>
 <p style="text-align: justify"><strong>Maliyet optimizasyonu</strong> da sistemin bir diğer temel getirisi. CHR’nin devasa veri havuzu, <strong>dinamik fiyatlandırma (dynamic pricing)</strong> algoritmalarıyla birleşerek <strong>taşıma modunu, rotayı, taşıyıcıyı ve günü</strong> otomatik optimize edebiliyor. Neill’e göre, bu sayede <strong>taşıma maliyetlerinde %30’a kadar düşüş</strong> elde ediliyor.</p>
 <p><br></p>

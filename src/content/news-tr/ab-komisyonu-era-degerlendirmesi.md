@@ -43,7 +43,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">ulusal istisnalar,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">bürokratik farklılıklar,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">sertifikasyon süreçlerindeki ek talepler<br>
-gibi nedenlerle <strong>uyumlaştırma yavaşlamakta</strong>.</p></li>
+gibi nedenlerle <strong>uyumlaştırma yavaşlıyyor</strong>.</p></li>
 </ul>
 <p style="text-align: justify">ERA bu engelleri azaltma konusunda daha “etkin yönetişim” rolü üstlenmeli.</p>
 <p><br></p>

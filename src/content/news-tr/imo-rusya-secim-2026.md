@@ -30,7 +30,7 @@ tags:
 <p><br></p>
 <p style="text-align: justify">IMO, Birleşmiş Milletler’e bağlı uzman bir ajans kimliğiyle küresel deniz taşımacılığının düzenleyici çerçevesini şekillendiriyor. Kurum; üye devletlerin <strong>deniz güvenliği</strong>, <strong>environmental performance</strong>, <strong>security requirements</strong> ve <strong>international shipping standards</strong> alanlarında uyumlu politikalar benimsemesine zemin hazırlıyor. Category A üyeleri, bu çerçevede söz konusu standartların belirlenmesi sürecinde stratejik ağırlık taşıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Son seçimler; gelişmekte olan ülkelerin denizcilikte artan temsil taleplerini ve jeopolitik dengelerdeki değişimi bir kez daha gözler önüne serdi. Rusya’nın 2026–2027 döneminde Category A dışında kalması, ülkenin küresel denizcilik politikalarındaki yönelimlerini yeniden değerlendirme baskısı altına girebileceğine işaret ediyor.</p>
+<p style="text-align: justify">Son seçimler; gelişiyor olan ülkelerin denizcilikte artan temsil taleplerini ve jeopolitik dengelerdeki değişimi bir kez daha gözler önüne serdi. Rusya’nın 2026–2027 döneminde Category A dışında kalması, ülkenin küresel denizcilik politikalarındaki yönelimlerini yeniden değerlendirme baskısı altına girebileceğine işaret ediyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar:</strong></h3>
 <ul>

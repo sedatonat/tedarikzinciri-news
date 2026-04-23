@@ -40,7 +40,7 @@ tags:
 <p><br></p>
 <p style="text-align: justify">Programın ikinci aşaması, federal kurumlar arasındaki <strong>interagency coordination</strong>. NSTC, Chief Data Officer Council ve Chief AI Officer Council; federal veri tabanlarının, altyapıların ve Ar-Ge faaliyetlerinin bu misyonla uyumlu hâle getirilmesini koordine ediyor. Kararname aynı zamanda öğrenci araştırmacıları, AI fellowship programlarını ve ulusal laboratuvarlarda staj/çıraklık modellerini içeren bir <strong>workforce development</strong> ayağı da oluşturuyor.</p>
 <p><br></p>
-<p style="text-align: justify">Genesis Mission, kamu-özel iş birlikleri için geniş bir çerçeve tanımlıyor. DOE’nin <strong>cooperative research agreements</strong>, kullanıcı tesisi programları, veri kullanım protokolleri ve IP yönetimi gibi alanlarda standartlar oluşturması ve dış ortaklarla en yüksek siber güvenlik seviyesinde çalışması istenmekte.</p>
+<p style="text-align: justify">Genesis Mission, kamu-özel iş birlikleri için geniş bir çerçeve tanımlıyor. DOE’nin <strong>cooperative research agreements</strong>, kullanıcı tesisi programları, veri kullanım protokolleri ve IP yönetimi gibi alanlarda standartlar oluşturması ve dış ortaklarla en yüksek siber güvenlik seviyesinde çalışması isteniyor.</p>
 <p><br></p>
 <p style="text-align: justify">Son olarak Başkan, DOE’den her yıl platformun ilerlemesi, AI modellerinin çıktıları, laboratuvarlar arası entegrasyon, kamu-özel projeler ve ticari dönüşüm sonuçlarına ilişkin kapsamlı bir <strong>annual report</strong> talep ediyor.</p>
 <p><br></p>

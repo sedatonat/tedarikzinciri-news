@@ -66,7 +66,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">imtiyaz (concession) süresi,</p></li>
   <li style="text-align: justify"><p style="text-align: justify">inşaat ve devreye alma takvimi</p></li>
 </ul>
-<p style="text-align: justify">yer almamakta. Bu unsurların, ilerleyen dönemde imzalanacak bağlayıcı sözleşmelerle netleşmesi bekleniyor.</p>
+<p style="text-align: justify">yer almıyyor. Bu unsurların, ilerleyen dönemde imzalanacak bağlayıcı sözleşmelerle netleşmesi bekleniyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Genel Değerlendirme</strong></h3>
 <p style="text-align: justify">Afganistan’ın DP World ile Hairatan ve Torkham sınır kapıları için imzaladığı yatırım çerçevesi, ülkenin <strong>bölgesel lojistik entegrasyon</strong> hedefleri açısından önemli bir adım olarak öne çıkıyor. Proje, hayata geçmesi hâlinde Afganistan’ın sınır ticaretinde <strong>verimlilik, şeffaflık ve kapasite artışı</strong> sağlamasına katkı sunabilir. Aynı zamanda DP World’ün Orta Asya–Güney Asya ekseninde büyüyen lojistik ağını daha da güçlendirmesi bekleniyor.</p>

@@ -19,7 +19,7 @@ tags:
 - stok optimizasyonu
 - otomasyon
 ---
-<p style="text-align: justify"><strong>Üreticiler</strong>, tedarik zinciri yönetiminde <strong>yapay zekâ (AI)</strong> uygulamalarını hızla ölçeklendirmekte. Artık hedef, yalnızca veri toplamak değil; bu veriyi <strong>öngörü, optimizasyon ve otomasyon</strong> yoluyla doğrudan operasyonel değere dönüştürmek. AI’nin etkisi, üretimden dağıtıma kadar pek çok alanda hissediliyor.</p>
+<p style="text-align: justify"><strong>Üreticiler</strong>, tedarik zinciri yönetiminde <strong>yapay zekâ (AI)</strong> uygulamalarını hızla ölçeklendiriyor. Artık hedef, yalnızca veri toplamak değil; bu veriyi <strong>öngörü, optimizasyon ve otomasyon</strong> yoluyla doğrudan operasyonel değere dönüştürmek. AI’nin etkisi, üretimden dağıtıma kadar pek çok alanda hissediliyor.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">En yoğun etki alanları arasında <strong>demand forecasting (talep tahmini)</strong>, <strong>predictive maintenance (öngörülü bakım)</strong>, <strong>inventory optimization (stok optimizasyonu)</strong>, <strong>quality inspection (görüntü işleme tabanlı kalite kontrol)</strong> ve <strong>dynamic scheduling (dinamik planlama)</strong> yer alıyor. Bu uygulamalar, üretim hatlarını daha öngörülebilir hale getirirken; stok seviyelerini optimize ederek hem maliyetleri hem de gecikmeleri azaltıyor.</p>
 <p style="text-align: justify"><br></p>

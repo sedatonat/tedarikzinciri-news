@@ -20,7 +20,7 @@ tags:
 - tedarik zinciri
 - dijital ticaret
 ---
-<p style="text-align: justify"><strong>Amerika Birleşik Devletleri</strong>, <strong>Güneydoğu Asya’daki ticaret ilişkilerini</strong> güçlendiren bir dizi anlaşma imzalayarak, aynı zamanda <strong>Çin ile ticaret geriliminde yumuşama sinyali</strong> verdi. <strong>Malezya</strong>, <strong>Tayland</strong>, <strong>Kamboçya</strong> ve <strong>Vietnam</strong> ile yapılan anlaşmalar, hem <strong>karşılıklı gümrük tarifelerini sabitlemekte</strong> hem de <strong>ABD ihracatçılarına yeni pazar erişimi</strong> kazandırıyor.</p>
+<p style="text-align: justify"><strong>Amerika Birleşik Devletleri</strong>, <strong>Güneydoğu Asya’daki ticaret ilişkilerini</strong> güçlendiren bir dizi anlaşma imzalayarak, aynı zamanda <strong>Çin ile ticaret geriliminde yumuşama sinyali</strong> verdi. <strong>Malezya</strong>, <strong>Tayland</strong>, <strong>Kamboçya</strong> ve <strong>Vietnam</strong> ile yapılan anlaşmalar, hem <strong>karşılıklı gümrük tarifelerini sabitliyyor</strong> hem de <strong>ABD ihracatçılarına yeni pazar erişimi</strong> kazandırıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Anlaşmalar, <strong>Malezya’daki ASEAN Zirvesi</strong> sırasında açıklandı. Beyaz Saray, hafta sonu yapılan görüşmelerin ardından, <strong>Malezya ve Kamboçya ile resmî ticaret anlaşmaları</strong>, <strong>Tayland ve Vietnam ile de çerçeve anlaşmaları (framework deals)</strong> imzaladığını duyurdu.</p>
 <p><br></p>

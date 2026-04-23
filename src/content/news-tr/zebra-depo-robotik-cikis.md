@@ -43,7 +43,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Zebra Technologies, depo robotik otomasyon işinden çıkmayı planlıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Karar, 2021’de yapılan <strong>Fetch Robotics</strong> satın alımının ardından gelen stratejik bir geri çekilmeyi temsil ediyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Robotik birimin elden çıkarılması ya da kapatılması seçenekleri değerlendiriliyordir.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Şirket, odağını <strong>RFID, AI, machine vision ve yazılım çözümlerine</strong> kaydırmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Şirket, odağını <strong>RFID, AI, machine vision ve yazılım çözümlerine</strong> kaydırıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">AMR pazarı büyüyor olsa da, segmentasyon ve ölçeklenebilirlik zorlukları artıyordır.</p></li>
 </ul>
 <p><br></p>

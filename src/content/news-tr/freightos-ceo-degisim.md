@@ -43,7 +43,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Zvi Schreiber, 31 Ocak 2026 itibarıyla Freightos CEO’luğundan ayrılacak.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Schreiber, şirkette icracı olmayan yönetim kurulu üyesi olarak kalacak.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">CFO Pablo Pinillos, 1 Şubat 2026’dan itibaren geçici CEO görevini üstlenecek.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Değişim, Freightos’un ölçeklenme ve yeni büyüme fazına geçişiyle ilişkilendirilmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Değişim, Freightos’un ölçeklenme ve yeni büyüme fazına geçişiyle ilişkilendiriliyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Şirket, kalıcı CEO için arayış sürecini başlatmış durumda.</p></li>
 </ul>
 <p><br></p>

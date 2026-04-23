@@ -19,7 +19,7 @@ tags:
 - doğal gaz
 - enerji politikası
 ---
-<p style="text-align: justify">Almanya, doğrudan sevkiyatlara uyguladığı yasağa rağmen, Avrupa limanları üzerinden Rus sıvılaştırılmış doğal gaz (<strong>LNG</strong>) ithalatını önemli ölçüde artırıyor. Bu durum, Berlin'in enerji politikaları ve Avrupa'nın enerji arz güvenliği konusundaki tartışmaları yeniden alevlendirmekte.​</p>
+<p style="text-align: justify">Almanya, doğrudan sevkiyatlara uyguladığı yasağa rağmen, Avrupa limanları üzerinden Rus sıvılaştırılmış doğal gaz (<strong>LNG</strong>) ithalatını önemli ölçüde artırıyor. Bu durum, Berlin'in enerji politikaları ve Avrupa'nın enerji arz güvenliği konusundaki tartışmaları yeniden alevlendiriyor.​</p>
 <p><br></p>
 <p style="text-align: justify">Almanya, Rusya'dan doğrudan <strong>LNG</strong> ithalatını yasaklamış olsa da, Avrupa'nın diğer limanları üzerinden dolaylı olarak bu ithalatı sürdürüyor. Bu strateji, Berlin'in enerji ihtiyaçlarını karşılama çabası olarak görülüyor. Ancak, bu durum, Almanya'nın enerji politikalarının tutarlılığı ve Avrupa'nın genel enerji güvenliği konularında soru işaretlerine yol açıyor.</p>
 <p><br></p>

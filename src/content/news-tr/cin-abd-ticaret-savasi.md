@@ -40,7 +40,7 @@ Bu hacim, Pekin’in ekonomik büyümesini yıllık hedeflerine uygun biçimde s
 </ul>
 <p style="text-align: justify">Buna karşın, <strong>LCD televizyonlar</strong> ve <strong>oyun konsolları</strong> gibi sektörlerde ihracat sert düşüş yaşadı.<br>
 </p>
-<p><strong>Nintendo</strong> ve <strong>Microsoft</strong> gibi firmalar, yüksek tarifelerden kaçınmak için üretimlerini <strong>Vietnam</strong> gibi ülkelere kaydırmakta.</p>
+<p><strong>Nintendo</strong> ve <strong>Microsoft</strong> gibi firmalar, yüksek tarifelerden kaçınmak için üretimlerini <strong>Vietnam</strong> gibi ülkelere kaydırıyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Çin’in Stratejik Ürünlerdeki Hakimiyeti Devam Ediyor</strong></h5>
 <p style="text-align: justify">ABD’nin tarife baskısına rağmen, Çin <strong>nadir toprak elementleri (rare earths)</strong>, <strong>elektronik bileşenler</strong>, <strong>ilaç hammaddeleri</strong> ve <strong>batarya kimyasalları</strong> gibi stratejik sektörlerde hâlâ vazgeçilmez tedarikçi konumunda.<br>

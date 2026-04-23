@@ -42,7 +42,7 @@ tags:
 <p style="text-align: justify">Ancak sektör temsilcileri, yüksek fiyatların <strong>kartel veya fiyat sabitlemeden değil</strong>, arz tarafındaki yapısal sorunlardan kaynaklandığını savunuyor. <strong>Meat Institute</strong> CEO’su <strong>Julie Anna Potts</strong>, durumu şu sözlerle özetliyor:<br>
  <strong>“Despite high consumer prices for beef, beef packers have been losing money because the price of cattle is at record highs.”</strong></p>
 <p><br></p>
-<p style="text-align: justify">Potts’a göre sığır arzındaki daralma ve güçlü talep, işleyicilerin marjlarını eritmekte. Bu baskının bir sonucu olarak <strong>Tyson Foods</strong>, <strong>4.000’den fazla çalışanı işten çıkarma</strong> ve en büyük tesislerinden birini kapatma planlarını açıklamıştı. Bu gelişmeler, sektörde <strong>profitability crisis</strong> yaşandığını gösteriyor.</p>
+<p style="text-align: justify">Potts’a göre sığır arzındaki daralma ve güçlü talep, işleyicilerin marjlarını eridiyor. Bu baskının bir sonucu olarak <strong>Tyson Foods</strong>, <strong>4.000’den fazla çalışanı işten çıkarma</strong> ve en büyük tesislerinden birini kapatma planlarını açıklamıştı. Bu gelişmeler, sektörde <strong>profitability crisis</strong> yaşandığını gösteriyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Hukuki ve Tedarik Zinciri Etkileri</strong></h3>
 <p style="text-align: justify">Başlatılan soruşturma, ABD gıda tedarik zincirinde belirsizliği artırıyor. Olası sonuçlar arasında:</p>

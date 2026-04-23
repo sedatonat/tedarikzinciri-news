@@ -70,7 +70,7 @@ tags:
 Hölzl’e göre aylık veya kullanım bazlı ödeme modelleri, şirketlerin büyük sermaye bağlamadan yeni teknolojileri test etmesine imkân tanıyor. Bakım, yazılım güncelleme ve servis yükünün sağlayıcıda olması, <strong>downtime</strong> riskini azaltıyor ve projelerin daha hızlı hayata geçirilmesini sağlıyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>2028’e Doğru Stratejik Anlam</strong></h3>
-<p style="text-align: justify">RobCo araştırması, otomasyonun artık “isteğe bağlı” bir yatırım değil, <strong>rekabet edebilmenin temel şartı</strong> hâline geldiğini ortaya koyuyor. ABD’de üretimin yeniden canlandırılması hedefleri, iş gücü açığı ve verimlilik baskıları birleştiğinde, otomasyon önümüzdeki üç yıl içinde sanayi operasyonlarının merkezine yerleşmekte.</p>
+<p style="text-align: justify">RobCo araştırması, otomasyonun artık “isteğe bağlı” bir yatırım değil, <strong>rekabet edebilmenin temel şartı</strong> hâline geldiğini ortaya koyuyor. ABD’de üretimin yeniden canlandırılması hedefleri, iş gücü açığı ve verimlilik baskıları birleştiğinde, otomasyon önümüzdeki üç yıl içinde sanayi operasyonlarının merkezine yerleşiyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Genel Değerlendirme</strong></h3>
 <p style="text-align: justify">2028’e gelindiğinde ABD sanayiinde otomasyon, robotlar ve yapay zekâ; üretimin istisnası değil normu olacak. Şirketler için soru artık “otomasyona geçmeli miyiz?” değil, <strong>“ne kadar hızlı ve hangi modelle geçmeliyiz?”</strong> hâline gelmiş durumda.</p>

@@ -41,7 +41,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Honda, Japonya ve Çin’de bazı tesislerde üretimi geçici olarak durduruyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Kararın temel nedeni küresel <strong>yarı iletken tedarik sorunlarının</strong> devam etmesi.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Çin’deki <strong>Guangqi Honda</strong> tesisleri yıl sonunda tamamen üretim dışı kalacak.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Çin’in <strong>Nexperia</strong> ürünlerine yönelik ihracat kısıtları krizi derinleştirmekte.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Çin’in <strong>Nexperia</strong> ürünlerine yönelik ihracat kısıtları krizi derinleştiriyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Honda, küresel satış tahminini aşağı yönlü revize etti.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Çip krizi, otomotiv tedarik zincirlerinde yapısal kırılganlıkları yeniden gündeme getirdi.</p></li>
 </ul>

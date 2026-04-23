@@ -52,7 +52,7 @@ tags:
 <h3 style="text-align: justify"><strong>Stratejik Değerlendirme</strong></h3>
 <p style="text-align: justify">Amazon’un bir saatlik mağazadan teslim alma modeli, üç açıdan kritik önem taşıyor:</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>Speed differentiation:</strong> Online alışveriş ile fiziksel teslim alma arasındaki fark neredeyse ortadan kalkmakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>Speed differentiation:</strong> Online alışveriş ile fiziksel teslim alma arasındaki fark neredeyse ortadan kalkıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Inventory efficiency:</strong> Online ve mağaza stoklarının birlikte kullanılması, stok devir hızını artırıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Omnichannel derinleşme:</strong> Amazon’un dijital DNA’sı, fiziksel mağazalarla daha güçlü bağlanıyor.</p></li>
 </ul>

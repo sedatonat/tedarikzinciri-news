@@ -22,7 +22,7 @@ tags:
 ---
 <p style="text-align: justify">Avrupa limanlarında süregelen tıkanıklık, bölgenin hem deniz terminallerinde hem de iç lojistik ağlarında <strong>yetersiz tampon (buffer) kapasitesine</strong> sahip olduğunu net şekilde ortaya koyuyor. Kuehne + Nagel’ın <strong>SeaExplorer</strong> görünürlük aracına göre, Avrupa’nın üç ana ithalat kapısı — <strong>Rotterdam, Antwerp ve Hamburg</strong> — hâlâ “ağır şekilde bozulan operasyonlar” kategorisinde yer alıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Drewry Supply Chain Advisors’ın danışmanlık direktörü <strong>Chantal McRoberts</strong>, tıkanıklığın kök nedeninin, Avrupa’nın büyük liman ağının yüksek hacimlere karşı <strong>elastikiyetinin zayıf olması</strong> olduğunu belirtiyor. Şu anda görülen kısmi rahatlama ise kalıcı bir iyileşme anlamına gelmiyor; limanlar hem biriken iş yükünü eritmekte hem de sezon geçişlerini yönetiyor zorlanıyor.</p>
+<p style="text-align: justify">Drewry Supply Chain Advisors’ın danışmanlık direktörü <strong>Chantal McRoberts</strong>, tıkanıklığın kök nedeninin, Avrupa’nın büyük liman ağının yüksek hacimlere karşı <strong>elastikiyetinin zayıf olması</strong> olduğunu belirtiyor. Şu anda görülen kısmi rahatlama ise kalıcı bir iyileşme anlamına gelmiyor; limanlar hem biriken iş yükünü eridiyor hem de sezon geçişlerini yönetiyor zorlanıyor.</p>
 <p><br></p>
 <h4 style="text-align: justify"><strong>Tampon kapasite eksikliği sistemi kırılgan hale getiriyor</strong></h4>
 <p style="text-align: justify">McRoberts, Avrupa liman sisteminde yaşanan kapasite sorunlarını üç temel noktada özetliyor:</p>
