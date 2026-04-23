@@ -51,3 +51,44 @@
   .standard-grid { display: none !important; }
   .flow-grid     { display: flex !important; }
 }
+
+/* ============================================================
+   Icon tooltip — hover label for action icons / chevrons
+   ------------------------------------------------------------
+   Usage: add `icon-tip` class + `data-tip="label"` to any element.
+   Appears instantly on hover/focus, fades in, sits above the icon.
+   Hidden on touch devices (no reliable hover).
+   ============================================================ */
+@media (hover: hover) {
+  .icon-tip { position: relative; }
+  .icon-tip::after {
+    content: attr(data-tip);
+    position: absolute;
+    bottom: calc(100% + 6px);
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+    padding: 4px 8px;
+    font-size: 11px;
+    line-height: 1.2;
+    font-weight: 500;
+    color: rgb(var(--bg));
+    background: rgb(var(--fg));
+    border-radius: 6px;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 120ms ease-in-out;
+    z-index: 40;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  }
+  .icon-tip:hover::after,
+  .icon-tip:focus-visible::after { opacity: 1; }
+  /* Hide tooltip once a details menu has been opened, to avoid overlap with the popover */
+  details.icon-tip[open]::after,
+  details.icon-tip[open]:hover::after { opacity: 0 !important; }
+  /* Variant that anchors the tooltip below the icon (for elements near the top of the viewport) */
+  .icon-tip-below::after {
+    bottom: auto;
+    top: calc(100% + 6px);
+  }
+}
