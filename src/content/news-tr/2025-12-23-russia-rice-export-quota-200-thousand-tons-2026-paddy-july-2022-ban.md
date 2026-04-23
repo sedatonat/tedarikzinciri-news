@@ -14,7 +14,7 @@ tags:
 - rice export
 - paddy rice
 - quota
-- 2026
+- "2026"
 - agriculture
 - export ban
 ---

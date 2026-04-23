@@ -18,7 +18,7 @@ tags:
 - beech
 - ash
 - sawn goods
-- 2028
+- "2028"
 ---
 <p style="text-align: justify"><strong>Rusya Federasyonu Hükümeti</strong>; bazı kereste ürünlerinin ihracatına yönelik kısıtlamaları uzattı. Hükümet basın ofisinin açıklamasına göre; <strong>iğne yapraklı kereste, meşe, kayın ve dişbudak ağacından yapılan kesme ve kare biçili tomruklar için artırılmış ihracat tarifeleri</strong>; <strong>31 Aralık 2028</strong>'e kadar <strong>üç yıl daha uzatıldı</strong>.</p><p style="text-align: justify">Rusya; kereste ürünleri ihracat kısıtlamalarını <strong>2022'de ilk kez uygulamaya koymuştu</strong>. Amaç; yerli ahşap işleme sektörüne ham maddeyi korumak ve katma değerli ürünlere yönlendirmek. Yaptırımlar; Avrupa pazarlarına Rus kerestesi ihracatını zaten sınırlamıştı; kısıtlamalar; kalan hacimlerin iç pazarda kullanılmasını zorluyor.</p><p style="text-align: justify">Rusya; <strong>dünyanın en büyük orman alanına</strong> sahip ülke olarak uluslararası kereste piyasasında tarihsel olarak önemli bir oyuncu. İğne yapraklı ağaçlar (karakış, ladin, çam); inşaat sektörü için kilit hammadde. Meşe, kayın ve dişbudak; mobilya ve parke endüstrisinde tercih edilen sert ağaçlar. İhracat kısıtlamalarının uzatılması; Rus orman ürünleri ihracatçılarının Asya pazarlarına (Çin, Japonya, Güney Kore) yönelmesini hızlandıracak. İç pazarda ise kereste fiyatlarında düşüş ve ahşap işleme sanayisinde yatırım artışı bekleniyor. Rus hükümetinin 2030 orman sektörü stratejisi; katma değerli ürünlerin ihracat payını %70'e çıkarmayı hedefliyor.</p>
 

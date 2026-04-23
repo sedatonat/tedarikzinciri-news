@@ -13,7 +13,7 @@ tags:
 - Russia
 - ferrous metal scrap
 - export quota
-- 2026
+- "2026"
 - industry ministry
 - steel
 - recycling

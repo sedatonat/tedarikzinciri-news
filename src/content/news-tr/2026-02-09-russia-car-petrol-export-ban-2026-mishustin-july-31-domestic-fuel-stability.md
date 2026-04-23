@@ -16,7 +16,7 @@ tags:
 - fuel market
 - diesel
 - domestic stability
-- 2026
+- "2026"
 ---
 <p style="text-align: justify"><strong>Rusya Federasyonu Hükümeti</strong>; otomobil benzini, dizel yakıt ve diğer yakıt türlerinin ihracatına yönelik yeni bir yasak uyguladığını duyurdu. Hükümet basın ofisinin raporuna göre yasak; <strong>Başbakan Mikhail Mishustin</strong> tarafından imzalanan bir hükümet kararnamesiyle resmi hale getirildi. Benzin ihracat yasağı; <strong>31 Temmuz 2026'ya kadar</strong> yürürlükte olacak.</p><p style="text-align: justify">Yasak; <strong>benzin üreticilerini kapsam dışı</strong> bırakıyor. Rafineriler ve entegre petrol şirketleri; kendi ürettikleri benzini ihraç edebilecek. Bu istisna; Rosneft, Gazprom Neft ve Lukoil gibi büyük oyuncuların ihracat faaliyetlerinin devam etmesini sağlıyor. Bağımsız tüccarlar ve spot trade operatörleri ise yasak kapsamında.</p><p style="text-align: justify">Kararın amacı; <strong>iç yakıt piyasasında istikrarlı bir durumu korumak</strong>. 2025 boyunca Rus benzin fiyatları; askeri ve sivil iç taleple birlikte yukarı baskı altındaydı. İhracat yasağı; iç piyasadaki arzı artırarak pompa fiyatlarını sabit tutmayı amaçlıyor. Benzer benzin ihracat yasakları; daha önce 2023 ve 2024'te de uygulanmıştı ve genellikle 3-6 aylık dönemler için geçerli olmuştu. Rusya'nın yakıt ihracatındaki kısıtlama; uluslararası piyasalarda fiyat baskısı yaratıyor; Türkiye ve Merkez Asya cumhuriyetleri ana etkilenen pazarlar arasında yer alıyor.</p>
 

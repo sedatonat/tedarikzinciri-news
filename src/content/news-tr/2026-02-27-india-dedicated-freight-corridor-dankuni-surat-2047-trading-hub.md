@@ -18,7 +18,7 @@ tags:
 - Dankuni
 - Surat
 - infrastructure
-- 2047
+- "2047"
 ---
 <p style="text-align: justify"><strong>Hindistan</strong>; 1 Şubat'taki bütçenin ardından yurtiçi demiryolu yük koridorlarında ilerlemeye devam ediyor. Hükümet; ülkenin <strong>2047'ye kadar önemli bir ticaret merkezi olması</strong> için iddialı planlarını hızlandırdı. Bu kapsamda <strong>Hindistan Demiryolları</strong>; yeni <strong>Dankuni-Surat Dedicated Freight Corridor (DFC)</strong> için hızlı iş başlattı.</p><p style="text-align: justify">Yeni DFC; Batı Bengal'deki <strong>Dankuni</strong> ile Gujarat'taki <strong>Surat</strong>'ı bağlayarak Hindistan'ın doğu ve batı kıyılarını birleştirecek. Koridor; ülkenin iki büyük liman bölgesi (Kalküta/Haldia ve Surat/Mumbai) arasındaki yük trafiğini kara içi rotalardan geçirebilecek. Hindistan'ın mevcut DFC ağı; halihazırda <strong>Doğu DFC</strong> (Ludhiana-Dankuni) ve <strong>Batı DFC</strong> (Dadri-JNPT Mumbai) ile operasyonel.</p><p style="text-align: justify">Yeni koridor; saatte 100 km hızla çalışan çift katlı konteyner trenlerine imkân tanıyacak. Konvansiyonel hattın aksine tamamen yük taşımaya ayrılmış olması; yolcu treni çatışması yaşamadan yüksek verim sunuyor. Hindistan'ın hedefi; yük taşımacılığındaki demiryolu payını yüzde 27'den <strong>2030'a kadar yüzde 45'e çıkarmak</strong>. Bu hedef; hem karayolu kaynaklı karbon emisyonunu azaltmayı hem de üretim rekabetçiliğini artırmayı amaçlıyor.</p>
 
