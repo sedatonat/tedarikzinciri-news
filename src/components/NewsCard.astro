@@ -46,15 +46,14 @@ if (entry.data.sourceUrl) {
       <a href={dayHref} class="hover:text-brand-600 hover:underline underline-offset-4 decoration-dotted">
         <time datetime={dateObj.toISOString()}>{date}</time>
       </a>
-      {sourceHost && (
-        <>
-          <span aria-hidden="true" class="text-ink-400">·</span>
-          <a href={entry.data.sourceUrl} target="_blank" rel="noopener noreferrer nofollow"
-             class="hover:text-brand-600 hover:underline underline-offset-4 decoration-dotted truncate"
-             title={entry.data.sourceUrl}>{sourceHost}</a>
-        </>
-      )}
     </div>
+    {sourceHost && (
+      <div class="text-xs text-ink-500">
+        <a href={entry.data.sourceUrl} target="_blank" rel="noopener noreferrer nofollow"
+           class="hover:text-brand-600 hover:underline underline-offset-4 decoration-dotted break-all"
+           title={entry.data.sourceUrl}>{sourceHost}</a>
+      </div>
+    )}
     <a href={href} class="block">
       <h3 class="text-lg font-semibold leading-snug group-hover:text-brand-600">{entry.data.title}</h3>
       {entry.data.subtitle && <p class="mt-2 text-sm text-ink-600 dark:text-ink-300 line-clamp-2">{entry.data.subtitle}</p>}
