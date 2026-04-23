@@ -1,0 +1,34 @@
+---
+import { getLangFromUrl } from '../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+const label = lang === 'tr' ? 'Geri' : 'Back';
+const fallback = lang === 'tr' ? '/' : '/en/';
+---
+<button
+  type="button"
+  data-back-button
+  data-back-fallback={fallback}
+  class="inline-flex items-center gap-1 px-2.5 py-1 rounded-md border border-ink-200 dark:border-ink-800 bg-white/60 dark:bg-ink-900/60 text-ink-700 dark:text-ink-200 hover:bg-ink-100 dark:hover:bg-ink-800 hover:border-brand-500 transition-colors"
+  aria-label={label}
+>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4" aria-hidden="true">
+    <path d="m15 18-6-6 6-6"/>
+  </svg>
+  <span>{label}</span>
+</button>
+<script is:inline>
+  (function () {
+    document.querySelectorAll('[data-back-button]:not([data-bound])').forEach(function (btn) {
+      btn.setAttribute('data-bound', '1');
+      btn.addEventListener('click', function () {
+        var fallback = btn.getAttribute('data-back-fallback') || '/';
+        if (window.history.length > 1 && document.referrer && new URL(document.referrer).origin === window.location.origin) {
+          window.history.back();
+        } else {
+          window.location.href = fallback;
+        }
+      });
+    });
+  })();
+</script>

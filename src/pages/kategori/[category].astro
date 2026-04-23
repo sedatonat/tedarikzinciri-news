@@ -5,6 +5,7 @@ import NewsCard from '../../components/NewsCard.astro';
 import FlowCard from '../../components/FlowCard.astro';
 import Timeline from '../../components/Timeline.astro';
 import TrendingTags from '../../components/TrendingTags.astro';
+import BackButton from '../../components/BackButton.astro';
 import { categoryLabel, categorySlug } from '../../i18n/utils';
 
 export async function getStaticPaths() {
@@ -20,13 +21,17 @@ const label = categoryLabel[cat].tr;
 <BaseLayout title={label}>
   <Timeline lang="tr" />
   <section class="container-wide py-10">
-    <nav class="text-sm text-ink-500 dark:text-ink-400 mb-3">
-      <a href="/" class="hover:text-brand-600">Ana Sayfa</a>
-      <span class="mx-2">/</span>
-      <a href="/kategoriler/" class="hover:text-brand-600">Kategoriler</a>
-      <span class="mx-2">/</span>
-      <span>{label}</span>
-    </nav>
+    <div class="flex items-center flex-wrap gap-3 mb-3 text-sm">
+      <BackButton />
+      <span class="text-ink-400 dark:text-ink-600" aria-hidden="true">·</span>
+      <nav class="text-ink-500 dark:text-ink-400">
+        <a href="/" class="hover:text-brand-600">Ana Sayfa</a>
+        <span class="mx-2">/</span>
+        <a href="/kategoriler/" class="hover:text-brand-600">Kategoriler</a>
+        <span class="mx-2">/</span>
+        <span>{label}</span>
+      </nav>
+    </div>
     <h1 class="sticky top-16 z-30 bg-transparent text-3xl sm:text-4xl font-bold mb-2 py-2">{label}</h1>
     <p class="text-ink-600 dark:text-ink-300 mb-8">{all.length} haber</p>
     <div class="standard-grid grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
