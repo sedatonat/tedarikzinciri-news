@@ -19,20 +19,20 @@ tags:
 - planlama
 - Gartner
 ---
-<p>Tedarik zincirleri bazen sorunlarını uçtan uca yönetim sırasında değil, daha başlamadan yaşıyor. Başarısız tedarik zincirlerinin temel nedeni veri siloları, kötü planlama altyapısı ve süreç sahipliği eksikliğidir. Gartner verilerine göre, şirketlerin %62’si zincir içi verinin %40’ına erişememekte.</p>
+<p>Tedarik zincirleri sorunlarını bazen uçtan uca yönetim sürecinde değil, daha başlamadan yaşıyor. Başarısız tedarik zincirlerinin temelinde; veri siloları, yetersiz planlama altyapısı ve süreç sahipliği eksikliği yatıyor. Gartner verileri, şirketlerin %62'sinin zincir içi verinin %40'ına erişemediğini ortaya koyuyor.</p>
 <p><br></p>
-<p>Bu durum, tedarik ve talep planlamasında tahmin doğruluğunu ve stok yönetimini ciddi biçimde zayıflatıyor. AI tabanlı entegrasyon katmanları, farklı sistemler arasındaki veri akışını birleştirerek görünürlüğü artırıyor. Ancak, teknoloji tek başına yeterli değildir; süreç sahipliğinin net olmaması, verinin anlamlı kullanılmasını engelliyor.</p>
+<p>Bu durum; tedarik ve talep planlamasında tahmin doğruluğunu ve stok yönetimini ciddi biçimde zayıflatıyor. AI tabanlı entegrasyon katmanları, farklı sistemler arasındaki veri akışını birleştiriyor ve görünürlüğü artırıyor. Ancak teknoloji tek başına yetmiyor; süreç sahipliğinin belirsiz kalması, verinin anlamlı kullanımını engelliyor.</p>
 <p><br></p>
-<p><strong>Başarılı örneklerde, şirketler süreç sorumluluğunu yeniden tanımlayarak, her zincir halkasının KPI’larını birbirine bağlıyor.</strong> <strong>Digital twin tabanlı modelleme, zincirin başlangıcında darboğazı tespit ederek kaynak tahsisini optimize ediyor.</strong></p>
+<p><strong>Başarılı örneklerde şirketler; süreç sorumluluğunu yeniden tanımlıyor ve her zincir halkasının KPI'larını birbirine bağlıyor.</strong> <strong>Digital twin tabanlı modelleme, zincirin başlangıcında darboğazı tespit ediyor ve kaynak tahsisini optimize ediyor.</strong></p>
 <p><br></p>
-<p>Sonuçta, tedarik zinciri “daha başlamadan” başarısız olmamak için, veri entegrasyonu kadar kurumsal disiplin ve süreç sahipliği gerektiriyordir.</p>
+<p>Sonuçta tedarik zinciri "daha başlamadan" başarısız olmamak için; veri entegrasyonu kadar kurumsal disiplin ve süreç sahipliği gerektiriyor.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
-- Veri siloları zincirin başlamadan tıkanmasına neden oluyordır.<br>
-- Gartner: Şirketler verinin %40’ına erişememektedir.<br>
-- AI tabanlı entegrasyon görünürlüğü artırıyordır.<br>
-- Süreç sahipliği eksikliği veriyi etkisiz kılıyordır.<br>
-- Digital twin darboğazları önceden tespit ediyordir.</p>
+- Veri siloları zincirin başlamadan tıkanmasına neden oluyor.<br>
+- Gartner: Şirketler verinin %40'ına erişemiyor.<br>
+- AI tabanlı entegrasyon görünürlüğü artırıyor.<br>
+- Süreç sahipliği eksikliği veriyi etkisiz kılıyor.<br>
+- Digital twin darboğazları önceden tespit ediyor.</p>
 <p><strong>!!! DUYURU !!!</strong></p>
 <p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
 <p>#ERP Nedir?</p>

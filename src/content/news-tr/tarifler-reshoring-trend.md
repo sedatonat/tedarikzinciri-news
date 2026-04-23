@@ -19,13 +19,13 @@ tags:
 - multi-sourcing
 - tariff volatility
 ---
-<p>Küresel ticaret ortamındaki tarifeler, yeniden yurda getirme (reshoring) eğilimini hızlandırıyor. Think Tank analizine göre, artan tariff volatility, işletmeleri üretim ağlarını yeniden şekillendirmeye zorluyor. Özellikle ABD, Meksika ve Kanada üçgeninde üretim kapasitesi kaymaları gözlenmekte. Reshoring Initiative verilerine göre, 2025’in ilk yarısında ABD’ye dönen üretim projelerinin sayısı %23 artıyor.</p>
+<p>Küresel ticaret ortamındaki tarifeler, yeniden yurda getirme (reshoring) eğilimini hızlandırıyor. Think Tank analizi, artan tariff volatility'nin işletmeleri üretim ağlarını yeniden şekillendirmeye zorladığını ortaya koyuyor. Özellikle ABD, Meksika ve Kanada üçgeninde üretim kapasitesi kaymaları dikkat çekiyor. Reshoring Initiative verileri, 2025'in ilk yarısında ABD'ye dönen üretim projelerinin sayısının %23 arttığını gösteriyor.</p>
 <p><br></p>
-<p>Ancak reshoring yalnız maliyet hesaplamasıyla açıklanıyor değil. Şirketler, tedarik güvenliği, regülasyon uyumu ve siyasi riskleri birlikte değerlendiriyor. Kearney Reshoring Index bu eğilimin kalıcı olabileceğine işaret ediyor. Tedarik zincirleri, uzun vadeli stratejilerinde “çoklu kaynak” (multi‑sourcing) ve “yakın üretim” (nearshoring) politikalarını ağırlıklandırmakta.</p>
+<p>Ancak reshoring kararını yalnız maliyet hesabı belirlemiyor. Şirketler; tedarik güvenliğini, regülasyon uyumunu ve siyasi riskleri birlikte değerlendiriyor. Kearney Reshoring Index bu eğilimin kalıcı olabileceğine işaret ediyor. Tedarik zincirleri, uzun vadeli stratejilerinde "çoklu kaynak" (multi-sourcing) ve "yakın üretim" (nearshoring) politikalarına ağırlık veriyor.</p>
 <p><br></p>
-<p>AI tabanlı tedarik planlama araçları, üretim lokasyonu kararlarında toplam sahip olma maliyetini (TCO) gerçek zamanlı analiz ediyor. Böylece sadece işçilik değil, enerji, taşıma, gümrük ve karbon etkileri de karar matrisine dahil ediliyor. Tariff scenario planning yazılımları, ani politika değişimlerinin etkilerini simüle ederek, tedarik ağlarını daha dayanıklı hâle getiriyor.</p>
+<p>AI tabanlı tedarik planlama araçları, üretim lokasyonu kararlarında toplam sahip olma maliyetini (TCO) gerçek zamanlı analiz ediyor. Bu yaklaşım; işçilik, enerji, taşıma, gümrük ve karbon etkilerini karar matrisine birlikte dahil ediyor. Tariff scenario planning yazılımları, ani politika değişimlerinin etkilerini simüle ederek tedarik ağlarını daha dayanıklı kılıyor.</p>
 <p><br></p>
-<p>Sonuçta, tarifeler kısa vadede maliyet baskısı yaratıyor ancak aynı zamanda tedarik zincirlerinin dayanıklılığını güçlendiren yeniden yapılanmayı tetikliyor. Şirketler artık “nerede üretelim” sorusunu yalnız fiyatla değil, risk ve hız parametreleriyle birlikte yanıtlamakta.</p>
+<p>Sonuçta tarifeler kısa vadede maliyet baskısı yaratıyor; ancak aynı zamanda tedarik zincirlerinin dayanıklılığını güçlendiren yeniden yapılanmayı tetikliyor. Şirketler artık "nerede üretelim" sorusunu yalnız fiyatla değil; risk ve hız parametreleriyle birlikte yanıtlıyor.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 - Tariff volatility reshoring eğilimini hızlandırıyor.<br>

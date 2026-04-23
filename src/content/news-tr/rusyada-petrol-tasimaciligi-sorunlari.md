@@ -20,33 +20,33 @@ tags:
 - Rosneft
 - Ukrayna saldırıları
 ---
-<p style="text-align: justify">Rusya'da demiryolu ağı üzerinde dikkat çekici bir sorun yaşanıyor. Ülkenin rafinerilerindeki petrolün yüzde 40'ına kadar olan kısmı, <strong>Russian Railways (RZD)</strong> tarafından taşınmak üzere kabul edilmemekte. Bu durum, petrol şirketleri tarafından bu şekilde açıklanıyor. Öte yandan, <strong>RZD</strong>, rafinerilerin taşınacak planlanan hacimleri sunmadığını belirtiyor.</p>
+<p style="text-align: justify">Rusya'nın demiryolu ağında dikkat çekici bir sorun baş gösteriyor. Petrol şirketleri; ülkenin rafinerilerindeki petrolün yüzde 40'ına kadar olan kısmını <strong>Russian Railways (RZD)</strong>'nin taşımak üzere kabul etmediğini açıklıyor. Öte yandan <strong>RZD</strong>, rafinerilerin taşınacak planlanan hacimleri sunmadığını öne sürüyor.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Petrol Şirketlerinin Şikayetleri</strong></p>
-<p style="text-align: justify"><strong>RN-Trans</strong> (Rosneft'in bir parçası) ve <strong>Gazprom Neft</strong> gibi Rus şirketleri, <strong>RZD</strong> yetkililerine önemli teslimat gecikmelerini vurgulayan şikayetlerde bulunuyor. Bu gecikmeler hem yurt içi hem de ihracat teslimatlarında yaşanıyor. Şirketler, yakıt taşımacılığındaki düşüşün gelecekte iç tedarik sorunlarına yol açabileceğinden endişe duyuyor. ​</p>
+<p style="text-align: justify"><strong>RN-Trans</strong> (Rosneft'in bir parçası) ve <strong>Gazprom Neft</strong> gibi Rus şirketleri; <strong>RZD</strong> yetkililerine önemli teslimat gecikmelerini vurgulayan şikayetler iletiyor. Bu gecikmeler, hem yurt içi hem de ihracat teslimatlarında ortaya çıkıyor. Şirketler, yakıt taşımacılığındaki düşüşün gelecekte iç tedarik sorunlarını tetikleyebileceğinden endişe duyuyor. ​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Yeni Öncelik Kurallarının Etkisi</strong></p>
-<p style="text-align: justify">Bu yeni petrol taşımacılığı sorunlarının yılbaşına denk gelmesi dikkat çekici. 1 Ocak'ta, Rusya'da yeni öncelik kuralları yürürlüğe girdi ve bu kurallar, ağ üzerindeki önceki yakıt önceliklendirmesini iptal etti. Petrol şirketleri, bunun <strong>RZD</strong>'nin önceki döneme göre neden daha az yakıt taşıdığını açıklamasını kolaylaştırdığını ifade ediyor. ​</p>
+<p style="text-align: justify">Yeni petrol taşımacılığı sorunlarının yılbaşına denk gelmesi dikkat çekiyor. 1 Ocak'ta Rusya'da yeni öncelik kuralları yürürlüğe girdi; bu kurallar, ağ üzerindeki önceki yakıt önceliklendirmesini iptal etti. Petrol şirketleri; bu değişikliğin, <strong>RZD</strong>'nin önceki döneme göre neden daha az yakıt taşıdığını açıklamasını kolaylaştırdığını ifade ediyor. ​</p>
 <p><br></p>
 <p style="text-align: justify"><strong>RZD'nin Görüşü</strong></p>
-<p style="text-align: justify"><strong>RZD</strong> ise durumu farklı bir şekilde yorumlamakta. Demiryolu operatörü, petrol şirketlerinin taşınacak kadar yakıt sunmadığını ve bu nedenle önceki döneme göre taşınacak yakıt miktarının azaldığını belirtiyor. Bu durum, Rus medyasına göre <strong>RZD</strong>'nin planlama sistemindeki verilerle destekleniyor.</p>
+<p style="text-align: justify"><strong>RZD</strong> ise durumu farklı biçimde yorumluyor. Demiryolu operatörü; petrol şirketlerinin taşınacak kadar yakıt sunmadığını ve bu nedenle önceki döneme göre taşınan yakıt miktarının azaldığını savunuyor. Rus medyasına göre bu görüşü, <strong>RZD</strong>'nin planlama sistemindeki veriler destekliyor.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Diğer Olası Faktörler</strong></p>
-<p style="text-align: justify">Yeni öncelik kuralları sorunun kaynağı değilse, bazı Rus pazar aktörleri iş gücü eksikliklerini olası bir neden olarak gösteriyor. Petrol rafinerileri, önceki döneme göre daha az yakıt üretebiliyor. Bu durum, devam eden durumu da açıklayabilir. Diğerleri, üretim hedeflerine zamanında ulaşamadıklarını ve katı demiryolu taşımacılığı programıyla, tahsis edilen zaman dilimlerini kaçırabileceklerini öne sürüyor.&nbsp;</p>
+<p style="text-align: justify">Yeni öncelik kuralları sorunun kaynağı değilse, bazı Rus pazar aktörleri iş gücü eksikliklerini olası bir neden olarak öne sürüyor. Petrol rafinerileri, önceki döneme göre daha az yakıt üretiyor. Bu durum, mevcut tabloyu da açıklayabilir. Diğerleri ise üretim hedeflerine zamanında ulaşamadıklarını ve katı demiryolu taşımacılığı programı nedeniyle tahsis edilen zaman dilimlerini kaçırabileceklerini belirtiyor.&nbsp;</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Ukrayna Saldırıları ve Rafineri Kapasitesi</strong></p>
-<p style="text-align: justify">Rus petrol tesislerine yönelik devam eden Ukrayna insansız hava aracı saldırılarından bahsedilmemiştir, ancak bu durum da demiryollarındaki yakıt düşüşüne katkıda bulunabilir. <strong>The Moscow Times</strong>'a göre, bu saldırılar Rusya'nın rafineri kapasitesinin yüzde 10'unu devre dışı bırakmıştır.&nbsp;</p>
+<p style="text-align: justify">Rus petrol tesislerine yönelik süregelen Ukrayna insansız hava aracı saldırılarından söz edilmedi; ancak bu durum da demiryollarındaki yakıt düşüşünü besleyebilir. <strong>The Moscow Times</strong>'a göre bu saldırılar, Rusya'nın rafineri kapasitesinin yüzde 10'unu devre dışı bıraktı.&nbsp;</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar</strong></h5>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">Rusya'daki rafinerilerde üretilen petrolün yüzde 40'ı <strong>RZD</strong> tarafından taşınmak üzere kabul edilmemekte.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>RN-Trans</strong> ve <strong>Gazprom Neft</strong>, <strong>RZD</strong>'ye önemli teslimat gecikmeleri konusunda şikayette bulunuyor.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Rusya'daki rafinerilerde üretilen petrolün yüzde 40'ını <strong>RZD</strong>, taşımak üzere kabul etmiyor.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>RN-Trans</strong> ve <strong>Gazprom Neft</strong>; <strong>RZD</strong>'ye önemli teslimat gecikmeleri konusunda şikayette bulunuyor.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">1 Ocak'ta yürürlüğe giren yeni öncelik kuralları, yakıt taşımacılığındaki sorunların başlangıcıyla örtüşüyor.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>RZD</strong>, petrol şirketlerinin taşınacak yakıt miktarını sunmadığını iddia ediyor.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">İş gücü eksiklikleri ve üretim hedeflerine ulaşamama gibi faktörler de sorunlara katkıda bulunabilir.​</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Ukrayna'nın petrol tesislerine yönelik saldırıları, Rusya'nın rafineri kapasitesinin yüzde 10'unu devre dışı bırakmıştır.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">İş gücü eksiklikleri ve üretim hedeflerine ulaşamama gibi faktörler de sorunları derinleştirebilir.​</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Ukrayna'nın petrol tesislerine yönelik saldırıları, Rusya'nın rafineri kapasitesinin yüzde 10'unu devre dışı bıraktı.​</p></li>
 </ul>
-<p style="text-align: justify">Bu durum, Rusya'nın enerji sektöründe önemli bir soruna işaret ediyor ve hem iç hem de dış piyasalar için potansiyel riskler barındırmaktadır.</p>
+<p style="text-align: justify">Bu durum, Rusya'nın enerji sektöründe önemli bir soruna işaret ediyor; hem iç hem de dış piyasalar için potansiyel riskler barındırıyor.</p>
 <p><br></p>
 <p><br></p>
 <p>---</p>

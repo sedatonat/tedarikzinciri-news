@@ -19,64 +19,64 @@ tags:
 - diplomatik gerilim
 - Manila
 ---
-<p style="text-align: justify"><strong>Washington–Manila hattında diplomatik gerilim tırmanıyor.</strong></p>
+<p style="text-align: justify"><strong>Washington–Manila hattında diplomatik gerilim tırmandı.</strong></p>
 <p><br>
-Son aylarda <strong>ABD limanlarında artan sayıda Filipinli denizcinin ülkeye girişinin reddedilmesi ve sınır dışı edilmesi</strong>, Filipin hükümetinin resmî diplomatik girişim başlatmasına neden oldu.</p>
+Son aylarda <strong>ABD limanlarında artan sayıda Filipinli denizcinin ülkeye girişinin reddedilmesi ve sınır dışı edilmesi</strong>, Filipin hükümetini resmî diplomatik girişim başlatmaya sevk etti.</p>
 <p><br></p>
-<p style="text-align: justify"><strong>Filipin Büyükelçiliği</strong>, Salı günü yaptığı açıklamada, konuyla ilgili olarak <strong>ABD Dışişleri Bakanlığı</strong> ve <strong>İç Güvenlik Bakanlığı (DHS)</strong> dahil olmak üzere çeşitli kurumlarla iletişime geçtiğini duyurdu.</p>
+<p style="text-align: justify"><strong>Filipin Büyükelçiliği</strong>, Salı günü yaptığı açıklamada konuyla ilgili olarak <strong>ABD Dışişleri Bakanlığı</strong> ve <strong>İç Güvenlik Bakanlığı (DHS)</strong> dahil çeşitli kurumlarla iletişime geçtiğini duyurdu.</p>
 <p><br>
-Büyükelçilik, son dönemde yaşanan vakaların “endişe verici bir eğilim” oluşturduğunu belirtti.</p>
+Büyükelçilik, son dönemde yaşanan vakaların “endişe verici bir eğilim” oluşturduğunu vurguladı.</p>
 <p><br></p>
 <p style="text-align: justify">Filipin hükümeti verilerine göre, <strong>2025 yılının ortasına kadar yaklaşık 100 Filipinli denizci ABD’den sınır dışı edildi.</strong></p>
 <p><br>
-Kaynaklara göre bu vakaların çoğu <strong>yolcu gemilerinde (cruise ships)</strong> görev yapan mürettebatı kapsıyor.</p>
+Kaynaklar; bu vakaların çoğunun <strong>yolcu gemilerinde (cruise ships)</strong> görev yapan mürettebatı kapsadığını bildirdi.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Manila: “Denizcilerimizin Refahı Önceliğimizdir”</strong></h5>
 <p style="text-align: justify">Büyükelçilik açıklamasında şu ifadelere yer verildi:</p>
 <blockquote style="text-align: justify">“Denizcilerimizin refahı birincil önceliğimizdir.<br>
 ABD’ye gelen Filipinli denizcilere adil ve şeffaf bir muamele sağlanması için Washington’daki muhataplarımızla aktif olarak temas halindeyiz.”</blockquote>
-<p style="text-align: justify">Açıklamada ayrıca, Manila yönetiminin <strong>sendikalar, armatörler ve liman acenteleriyle iş birliği içinde olayların doğrulanmış bir listesini oluşturuyor</strong> olduğu belirtildi.</p>
+<p style="text-align: justify">Açıklamada ayrıca Manila yönetiminin <strong>sendikalar, armatörler ve liman acenteleriyle iş birliği içinde olayların doğrulanmış bir listesini oluşturduğu</strong> belirtildi.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Olası Neden: Yeni Vize Prosedürleri ve Güvenlik İncelemeleri</strong></h5>
-<p style="text-align: justify">Denizci giriş reddi olayları genellikle <strong>vize düzensizlikleri, belge uyuşmazlıkları veya liman devleti denetimlerinde (Port State Control) tespit edilen güvenlik endişeleriyle</strong> ilişkilendiriliyor.</p>
+<p style="text-align: justify">Sektör, denizci giriş reddi olaylarını genellikle <strong>vize düzensizlikleri, belge uyuşmazlıkları veya liman devleti denetimlerinde (Port State Control) tespit edilen güvenlik endişeleriyle</strong> ilişkilendirdi.</p>
 <p><br>
 Ancak son dönemdeki artışın ölçeği, <strong>ABD’nin yeni tarama protokolleri veya güvenlik uygulamaları</strong> konusunda değişiklik yapmış olabileceği yönünde şüphe uyandırdı.</p>
 <p><br></p>
 <p style="text-align: justify">ABD Dışişleri Bakanlığı ve İç Güvenlik Bakanlığı, haberin yayımlandığı saate kadar konuya ilişkin resmî bir açıklama yapmadı.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Filipin Denizcilik Otoritesi Verileri İnceliyor</strong></h5>
-<p style="text-align: justify">Manila’daki <strong>Denizcilik İdaresi</strong>, yerel <strong>manning ajanslarından (mürettebat tedarik şirketleri)</strong> veri talep ederek yaşanan olayların <strong>sistematik bir değişikliğin mi yoksa münferit olayların mı</strong> göstergesi olduğunu araştırıyor.</p>
+<p style="text-align: justify">Manila’daki <strong>Denizcilik İdaresi</strong>, yerel <strong>manning ajanslarından (mürettebat tedarik şirketleri)</strong> veri talep etti ve yaşanan olayların <strong>sistematik bir değişikliğin mi yoksa münferit olayların mı</strong> göstergesi olduğunu araştırdı.</p>
 <p><br></p>
-<p style="text-align: justify">Ülke medyası, olayın <strong>Filipin kamuoyunda büyük yankı uyandırdığını</strong> ve hükümetin ABD’den “açıklık ve iş birliği” beklediğini bildirdi.</p>
+<p style="text-align: justify">Ülke medyası; olayın <strong>Filipin kamuoyunda büyük yankı uyandırdığını</strong> ve hükümetin ABD’den “açıklık ve iş birliği” beklediğini duyurdu.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>ABD Vize Politikalarındaki Değişim: Sektörü Zorluyor</strong></h5>
-<p style="text-align: justify"><strong>Splash</strong> tarafından elde edilen bilgilere göre, birçok <strong>gemi işletmecisi ve mürettebat yönetim firması</strong>, ABD vizeleri konusunda son aylarda ciddi zorluklar yaşıyor.</p>
+<p style="text-align: justify"><strong>Splash</strong>’in elde ettiği bilgilere göre birçok <strong>gemi işletmecisi ve mürettebat yönetim firması</strong>, ABD vizeleri konusunda son aylarda ciddi zorluklar yaşadı.</p>
 <p><br></p>
-<p style="text-align: justify">Bu sorunlar, <strong>Donald Trump yönetimi</strong> tarafından imzalanan bir dizi <strong>başkanlık kararnamesinden</strong> kaynaklanıyor.</p>
+<p style="text-align: justify">Bu sorunlar, <strong>Donald Trump yönetimi</strong> tarafından imzalanan bir dizi <strong>başkanlık kararnamesinden</strong> kaynaklandı.</p>
 <p><br>
-Yeni düzenlemeler, uzun süredir uygulanan <strong>çok girişli (multiple-entry)</strong> denizci vizelerini kaldırarak, yerlerine <strong>tek girişli (single-entry)</strong> vizeleri getirdi.</p>
+Yeni düzenlemeler; uzun süredir uygulanan <strong>çok girişli (multiple-entry)</strong> denizci vizelerini kaldırdı ve yerlerine <strong>tek girişli (single-entry)</strong> vizeleri getirdi.</p>
 <p style="text-align: justify">Bu sistem kapsamında:</p>
 <ul>
-  <li style="text-align: justify"><p style="text-align: justify">Denizciler ilk ABD liman ziyaretinden sonra <strong>ülkelerine geri gönderilmekte</strong>,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Aynı gemide çalışmaya devam edebilmeleri için <strong>yeniden vize başvurusu yapmaları gerekiyor.</strong></p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Yetkililer, denizcileri ilk ABD liman ziyaretinden sonra <strong>ülkelerine geri gönderdi</strong>,</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Denizciler, aynı gemide çalışmaya devam edebilmek için <strong>yeniden vize başvurusu yaptı.</strong></p></li>
 </ul>
-<p style="text-align: justify">Ayrıca <strong>vize geçerlilik süreleri kısaltıldı</strong>, bu da <strong>Denizcilik Çalışma Sözleşmesi (MLC)</strong> kapsamındaki standart sözleşme süreleriyle çelişmekte.</p>
+<p style="text-align: justify">Ayrıca <strong>vize geçerlilik süreleri kısaltıldı</strong>; bu durum, <strong>Denizcilik Çalışma Sözleşmesi (MLC)</strong> kapsamındaki standart sözleşme süreleriyle çelişti.</p>
 <p><br>
-Sonuç olarak, denizciler sürekli iş akışlarını sürdüremiyor, gemi işletmecileri ise <strong>mürettebat rotasyonlarında ciddi operasyonel zorluklarla</strong> karşılaşıyor.</p>
+Sonuç olarak denizciler sürekli iş akışlarını sürdüremedi; gemi işletmecileri ise <strong>mürettebat rotasyonlarında ciddi operasyonel zorluklarla</strong> karşı karşıya kaldı.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Analiz: İşgücü Politikaları Denizcilik Akışını Etkiliyor</strong></h5>
-<p style="text-align: justify">Uzmanlar, ABD’nin vize politikasındaki bu daralmanın yalnızca bireysel denizcileri değil, <strong>uluslararası denizcilik akışını</strong> da etkileyebileceği uyarısında bulunuyor.</p>
+<p style="text-align: justify">Uzmanlar; ABD’nin vize politikasındaki bu daralmanın yalnızca bireysel denizcileri değil, <strong>uluslararası denizcilik akışını</strong> da etkileyebileceği uyarısında bulundu.</p>
 <p><br>
-Filipinli denizciler, küresel gemi mürettebatının <strong>yaklaşık %25’ini</strong> oluşturuyor — yani her dört gemi çalışandan biri Filipinli.</p>
+Filipinli denizciler, küresel gemi mürettebatının <strong>yaklaşık %25’ini</strong> oluşturdu — yani her dört gemi çalışandan birini Filipinliler teşkil etti.</p>
 <p><br></p>
-<p style="text-align: justify">Dolayısıyla, bu grubun ABD pazarına erişiminde yaşanacak kalıcı bir engel, <strong>deniz taşımacılığı operasyonlarını</strong> da etkileyebilir.</p>
+<p style="text-align: justify">Dolayısıyla bu grubun ABD pazarına erişiminde yaşanacak kalıcı bir engel, <strong>deniz taşımacılığı operasyonlarını</strong> da etkileyebilir.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Sonuç: Diplomasi ve Denizcilik Arasında Yeni Bir Gerginlik Hattı</strong></h5>
-<p style="text-align: justify">Filipinli denizcilerin sınır dışı edilmesi meselesi, <strong>uluslararası denizcilik iş gücü hareketliliği ile ulusal güvenlik politikalarının kesiştiği yeni bir tartışma alanı</strong> oluşturuyor.</p>
+<p style="text-align: justify">Filipinli denizcilerin sınır dışı edilmesi meselesi, <strong>uluslararası denizcilik iş gücü hareketliliği ile ulusal güvenlik politikalarının kesiştiği yeni bir tartışma alanı</strong> oluşturdu.</p>
 <p><br>
-Manila hükümeti, <strong>diplomatik kanallar üzerinden çözüm arayışında</strong>, ancak ABD’nin <strong>güvenlik odaklı yeni vize politikaları</strong> kısa vadede geri adım sinyali vermiyor.</p>
+Manila hükümeti <strong>diplomatik kanallar üzerinden çözüm aradı</strong>; ancak ABD’nin <strong>güvenlik odaklı yeni vize politikaları</strong> kısa vadede geri adım sinyali vermedi.</p>
 <p><br></p>
-<p style="text-align: justify">Bu gelişme, <strong>küresel denizcilik sektöründe iş gücü erişimi ve seyahat özgürlüğü</strong> konularının önümüzdeki dönemde daha da tartışmalı hale geleceğini gösteriyor.</p>
+<p style="text-align: justify">Bu gelişme, <strong>küresel denizcilik sektöründe iş gücü erişimi ve seyahat özgürlüğü</strong> konularının önümüzdeki dönemde daha da tartışmalı hale geleceğini gösterdi.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
