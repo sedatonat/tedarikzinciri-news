@@ -89,7 +89,7 @@ const postsLabel = (n: number) => lang === 'tr' ? `${n} gönderi` : `${n} posts`
                 </div>
               )}
               <a href={tagPath(lang, t.display)} class="block group">
-                <div class="font-bold text-base text-ink-900 dark:text-ink-50 leading-snug group-hover:text-brand-600 dark:group-hover:text-brand-400">
+                <div class="font-bold text-base capitalize text-ink-900 dark:text-ink-50 leading-snug group-hover:text-brand-600 dark:group-hover:text-brand-400">
                   #{t.display}
                 </div>
                 <div class="text-xs text-ink-500 dark:text-ink-400 mt-0.5">{postsLabel(t.count)}</div>
