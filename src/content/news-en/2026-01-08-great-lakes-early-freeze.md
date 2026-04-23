@@ -28,9 +28,6 @@ tags: ['Great Lakes', 'USCG', 'CCG', 'buzkıran', 'demir cevheri', 'tahıl taş�
 3. The <strong>LCA</strong> emphasizes that minor disruptions can cascade dramatically by season's end.<br>
 4. <strong>Iron ore</strong>, <strong>steel</strong>, <strong>coal</strong>, and <strong>grain</strong> transportation is racing against winter closure.<br>
 5. The limited icebreaker capacity of the <strong>USCG</strong> and <strong>CCG</strong> stands out as a strategic vulnerability.</p>
-<p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/43091-early-freeze-tests-great-lakes-supply-chains"><u>https://www.supplychainbrain.com/articles/43091-early-freeze-tests-great-lakes-supply-chains</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

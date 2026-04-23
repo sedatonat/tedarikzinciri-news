@@ -38,7 +38,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Article Link: </strong><a href="https://www.joc.com/article/mexico-curtails-duty-free-fulfillment-option-for-apparel-textile-importers-5911557"><u>https://www.joc.com/article/mexico-curtails-duty-free-fulfillment-option-for-apparel-textile-importers-5911557</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>

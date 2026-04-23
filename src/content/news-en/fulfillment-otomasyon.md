@@ -45,11 +45,6 @@ tags:
 - Marked improvements are achieved in cycle time and accuracy metrics.<br>
 - Flexibility enables seamless capacity expansion during peak periods.</p>
 
-<p><br>
----<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/42551-rethinking-e-commerce-fulfillment-automation-in-a-fast-moving-market"><u>https://www.supplychainbrain.com/articles/42551-rethinking-e-commerce-fulfillment-automation-in-a-fast-moving-market</u></a><br>
--------------------</p>
-
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 
 <p><strong>How to Procure ERP? Our Book is Now Published on Google Play Books.</strong></p>

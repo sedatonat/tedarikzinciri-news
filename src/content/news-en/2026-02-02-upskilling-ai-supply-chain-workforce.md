@@ -28,9 +28,6 @@ tags: ['yapay zeka', 'iş gücü gelişimi', 'upskilling', 'generative AI', 'MIT
 3. The fastest gains lie in administrative and operational automation.<br>
 4. Subject matter experts are being paired with tools such as <strong>Fireflies</strong>, <strong>CustomGPT</strong>, and <strong>Perplexity</strong>.<br>
 5. The <strong>no-code ops engineer</strong> role is being positioned at the center of new competitiveness.</p>
-<p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/43161-upskilling-the-supply-chain-workforce-for-the-ai-age"><u>https://www.supplychainbrain.com/articles/43161-upskilling-the-supply-chain-workforce-for-the-ai-age</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

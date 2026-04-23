@@ -43,7 +43,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Article Link: </strong><a href="https://www.supplychainbrain.com/articles/40753-mexicos-president-says-shes-sure-country-can-avoid-us-tariffs"><u>https://www.supplychainbrain.com/articles/40753-mexicos-president-says-shes-sure-country-can-avoid-us-tariffs</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! NOTICE !!!</strong></p>
 <p><strong>How to Purchase ERP? Our Book Has Been Published on Google Play Books.</strong></p>

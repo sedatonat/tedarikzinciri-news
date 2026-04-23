@@ -20,4 +20,3 @@ tags:
 <p>An illuminating article by Norman Kanz, published on Supply Chain Management Review.</p>
 <p><br></p>
 <p><br></p>
-<p>Article link: <a href="https://www.scmr.com/article/using-ai-to-detect-supply-chain-fraud"><u>https://www.scmr.com/article/using-ai-to-detect-supply-chain-fraud</u></a></p>

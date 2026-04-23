@@ -20,9 +20,6 @@ tags: ['DP World', 'BII', 'Sultan Ahmed bin Sulayem', 'Jeffrey Epstein', 'liman 
 3. The allegations are based on correspondence between <strong>DP World CEO Sultan Ahmed bin Sulayem</strong> and <strong>Epstein</strong>.<br>
 4. The <strong>African platform</strong> jointly created by <strong>BII</strong> and <strong>DP World</strong> covers ports in <strong>Senegal</strong>, <strong>Egypt</strong>, and <strong>Somaliland</strong>.<br>
 5. <strong>BII</strong> identifies business integrity and gender equality as impact investment priorities.</p>
-<p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/43456-second-firm-suspends-deals-with-dp-world-over-epstein-files"><u>https://www.supplychainbrain.com/articles/43456-second-firm-suspends-deals-with-dp-world-over-epstein-files</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

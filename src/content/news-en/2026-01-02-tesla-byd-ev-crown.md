@@ -28,9 +28,6 @@ tags: ['Tesla', 'BYD', 'elektrikli araç', 'EV pazarı', 'Elon Musk', 'federal t
 3. The <strong>Trump</strong> administration has eliminated federal plug-in incentives.<br>
 4. Analysts note <strong>Tesla</strong>'s valuation is shaped by the real-world AI theme.<br>
 5. <strong>BYD</strong>'s vertical integration model provides significant advantages in battery and motor supply chains.</p>
-<p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/43071-tesla-loses-ev-crown-to-byd-after-second-annual-sales-drop"><u>https://www.supplychainbrain.com/articles/43071-tesla-loses-ev-crown-to-byd-after-second-annual-sales-drop</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Purchase ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

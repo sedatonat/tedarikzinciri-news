@@ -40,7 +40,6 @@ tags:
   <li><p>Low-carbon DC design is becoming standardized.</p></li>
 </ul>
 <p>----------</p>
-<p><strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/42315-adidas-sets-the-standard-for-modern-dcs" rel="noopener" target="_new">https://www.supplychainbrain.com/articles/42315-adidas-sets-the-standard-for-modern-dcs</a></p>
 <p>----------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>

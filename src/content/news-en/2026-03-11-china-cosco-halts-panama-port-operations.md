@@ -28,9 +28,6 @@ tags: ['Cosco', 'Panama', 'Balboa', 'CK Hutchison', 'BlackRock', 'Trump', 'Xi Ji
 3. <strong>Panama</strong> forcibly took over two terminals from <strong>CK Hutchison</strong> in February.<br>
 4. The $19 billion, 43-port deal involving <strong>BlackRock</strong> is stalled.<br>
 5. Resolution hopes are pinned on a <strong>Trump</strong>-<strong>Xi</strong> meeting.</p>
-<p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/43630-chinas-cosco-halts-panama-port-operations-as-tensions-rise"><u>https://www.supplychainbrain.com/articles/43630-chinas-cosco-halts-panama-port-operations-as-tensions-rise</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

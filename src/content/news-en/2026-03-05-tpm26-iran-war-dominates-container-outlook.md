@@ -28,9 +28,6 @@ tags: ['TPM26', 'ONE', 'Jeremy Nixon', 'Janet Yellen', 'Hürmüz', 'Brent', 'kon
 3. <strong>Yellen</strong> notes 15 million barrels of crude oil daily are being affected.<br>
 4. <strong>Brent</strong> climbs 13 percent to $82, with a $100 scenario in play.<br>
 5. <strong>ONE</strong> CEO <strong>Nixon</strong> characterizes the conflict as a "Black Swan" event.</p>
-<p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/43580-report-from-tpm26-the-iran-war-dominates-discussion-of-container-shippings-outlook"><u>https://www.supplychainbrain.com/articles/43580-report-from-tpm26-the-iran-war-dominates-discussion-of-container-shippings-outlook</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

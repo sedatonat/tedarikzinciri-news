@@ -81,7 +81,6 @@ The nine security vulnerabilities identified in the newer E3 model are predomina
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Article Link: </strong><a href="https://www.supplychainbrain.com/articles/42941-how-security-flaws-hidden-in-control-systems-can-threaten-the-entire-cold-chain"><u>https://www.supplychainbrain.com/articles/42941-how-security-flaws-hidden-in-control-systems-can-threaten-the-entire-cold-chain</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

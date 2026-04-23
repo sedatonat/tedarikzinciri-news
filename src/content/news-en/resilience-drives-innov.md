@@ -32,10 +32,6 @@ tags:
 3. Distributed authority accelerates agile response.<br>
 4. Financial discipline softens the impact of shocks.<br>
 5. Resilience triggers innovation.</p>
-<p><br>
----<br>
-<strong>Article Link: </strong><a href="https://www.supplychainbrain.com/articles/38356-supply-chain-resiliency-driving-innovation-through-evolution"><u>https://www.supplychainbrain.com/articles/38356-supply-chain-resiliency-driving-innovation-through-evolution</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure an ERP? Our Book is now published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

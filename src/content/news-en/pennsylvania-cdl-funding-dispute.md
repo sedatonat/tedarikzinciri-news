@@ -44,7 +44,6 @@ tags:
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Article Link: </strong><a href="https://www.supplychainbrain.com/articles/42896-trump-admin-pressures-pennsylvania-in-clash-over-immigrant-trucker-licenses"><u>https://www.supplychainbrain.com/articles/42896-trump-admin-pressures-pennsylvania-in-clash-over-immigrant-trucker-licenses</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

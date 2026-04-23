@@ -19,4 +19,3 @@ tags:
 ---
 <p>An article published on SupplyChainBrain.com outlines a project by U.S.-based Langham Logistics involving the use of drones to conduct inventory control.</p>
 <p><br></p>
-<p>Article link: <a href="https://www.supplychainbrain.com/articles/38493-using-drones-to-improve-inventory-count-accuracy"><u>https://www.supplychainbrain.com/articles/38493-using-drones-to-improve-inventory-count-accuracy</u></a>&nbsp;</p>

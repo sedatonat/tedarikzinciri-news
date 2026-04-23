@@ -27,9 +27,6 @@ tags: ['LIS Technologies', 'Christo Liebenberg', 'uranyum', 'nükleer', 'AI veri
 3. <strong>Russia</strong> was banned by <strong>Biden</strong> in August 2024.<br>
 4. <strong>Trump</strong> has pledged to quadruple nuclear capacity by 2050.<br>
 5. The supply chain consists of 5 components: mining, milling, conversion, enrichment, and fuel production.</p>
-<p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/43100-to-support-ai-development-the-us-needs-to-rebuild-its-domestic-uranium-supply-chain"><u>https://www.supplychainbrain.com/articles/43100-to-support-ai-development-the-us-needs-to-rebuild-its-domestic-uranium-supply-chain</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Acquire ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>

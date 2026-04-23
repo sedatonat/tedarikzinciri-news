@@ -28,9 +28,6 @@ tags: ['Libya', 'Misrata Free Zone', 'MSC', 'Katar', 'İtalya', 'liman yatırım
 3. Annual operating revenue of $600 million and 8,400 jobs are projected.<br>
 4. <strong>MSC</strong> participates in the project through a foreign direct investment model.<br>
 5. <strong>Misrata Free Zone</strong> manages 60 percent of <strong>Libya</strong>'s non-oil trade.</p>
-<p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/43282-libya-in-multinational-27-billion-deal-to-develop-misrata-zone"><u>https://www.supplychainbrain.com/articles/43282-libya-in-multinational-27-billion-deal-to-develop-misrata-zone</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book is Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

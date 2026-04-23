@@ -27,9 +27,6 @@ tags: ['EUDR', 'Nicole Rycroft', 'moda', 'ormansızlaşma', 'izlenebilirlik', 'A
 3. <strong>Nicole Rycroft</strong>, <strong>Canopy</strong> founder, writes as an <strong>SCB Contributor</strong>.<br>
 4. Full traceability and deforestation-free supply chains must become the norm.<br>
 5. Brands must seize the opportunity for transparency and responsible sourcing.</p>
-<p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/42950-fashion-cant-afford-to-be-out-of-step-with-the-eudr"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/42950-fashion-cant-afford-to-be-out-of-step-with-the-eudr</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book is Now Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>

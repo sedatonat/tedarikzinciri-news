@@ -33,8 +33,7 @@ Gen Z's move into skilled trades is creating significant opportunities for the l
 5. The aging workforce gap can be bridged through this pathway.</p>
 <p><br></p>
 <p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/blogs/1-think-tank/post/41279-gen-zs-shift-to-the-skilled-trades-presents-a-unique-opportunity-for-the-supply-chain"><u>https://www.supplychainbrain.com/blogs/1-think-tank/post/41279-gen-zs-shift-to-the-skilled-trades-presents-a-unique-opportunity-for-the-supply-chain</u></a><br>
--------------------<br>
+<br>
 -------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>

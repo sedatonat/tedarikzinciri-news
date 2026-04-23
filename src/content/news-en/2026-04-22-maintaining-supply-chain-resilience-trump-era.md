@@ -28,9 +28,6 @@ tags: ['Blue Tiger International', 'Thomas Cook', 'Trump', 'esneklik', 'sürdür
 3. Diversification/visibility/contingency planning are core strategies.<br>
 4. Senior leadership must demonstrate intensity when facing disruptions.<br>
 5. Critical areas are <strong>procurement</strong>/<strong>logistics</strong>/<strong>planning</strong>/<strong>manufacturing</strong>/<strong>distribution</strong>.</p>
-<p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/43123-maintaining-supply-chain-resilience-and-sustainability-in-the-trump-era"><u>https://www.supplychainbrain.com/articles/43123-maintaining-supply-chain-resilience-and-sustainability-in-the-trump-era</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free through this link.</p>

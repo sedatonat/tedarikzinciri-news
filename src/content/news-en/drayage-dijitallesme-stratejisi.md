@@ -134,7 +134,6 @@ Successful firms share common traits:</p>
 </ul>
 <p><br></p>
 <p>----------</p>
-<p><strong>Article Link: </strong><a href="https://www.supplychainbrain.com/articles/42873-drayage-best-practices-five-tips-to-elevate-operations"><u>https://www.supplychainbrain.com/articles/42873-drayage-best-practices-five-tips-to-elevate-operations</u></a></p>
 <p>--------------------</p>
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
 <p>--------------------</p>

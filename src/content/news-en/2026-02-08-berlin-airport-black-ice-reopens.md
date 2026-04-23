@@ -28,9 +28,6 @@ tags: ['Berlin Brandenburg', 'havalimanı kapanması', 'buzlanma', 'Deutsche Bah
 3. <strong>British Airways</strong> and <strong>EasyJet</strong> cancelled morning flights.<br>
 4. <strong>DWD</strong> issued a "<strong>significant slipperiness</strong>" warning.<br>
 5. <strong>Deutsche Bahn</strong> reported delays on the <strong>Berlin</strong>-<strong>Hanover</strong> line.</p>
-<p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/43436-berlin-airport-reopens-after-black-ice-triggered-groundings"><u>https://www.supplychainbrain.com/articles/43436-berlin-airport-reopens-after-black-ice-triggered-groundings</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What Is ERP?</p>

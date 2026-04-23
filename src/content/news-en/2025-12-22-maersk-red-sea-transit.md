@@ -28,9 +28,6 @@ tags: ['Maersk', 'Kızıldeniz', 'Bab-el-Mandeb', 'Süveyş Kanalı', 'Maersk Se
 3. <strong>Maersk</strong> is planning a limited number of additional <strong>trans-Suez</strong> sailings with a <strong>"stepwise approach."</strong><br>
 4. <strong>CMA CGM</strong> is planning to resume its <strong>India-Mediterranean Express</strong> in January 2026.<br>
 5. <strong>Ocean Network Express</strong> is deploying a new <strong>Red Sea-China</strong> service on January 15.</p>
-<p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/43033-maersk-makes-first-red-sea-transit-in-two-years"><u>https://www.supplychainbrain.com/articles/43033-maersk-makes-first-red-sea-transit-in-two-years</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

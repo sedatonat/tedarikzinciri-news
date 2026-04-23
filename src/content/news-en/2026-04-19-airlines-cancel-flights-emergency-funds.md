@@ -28,9 +28,6 @@ tags: ['Air Canada', 'Spirit Airlines', 'easyJet', 'jet yakıtı', 'Hürmüz Bo�
 3. <strong>Spirit Airlines</strong> is requesting hundreds of millions of dollars in <strong>emergency funding</strong> from the <strong>U.S.</strong><br>
 4. <strong>easyJet</strong> is forecasting losses of £540–560 million for the six-month period ending in March.<br>
 5. Uncertainty in the <strong>Strait of Hormuz</strong> is directly affecting aviation supply chains.</p>
-<p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/43890-airlines-cancel-flights-request-emergency-funds"><u>https://www.supplychainbrain.com/articles/43890-airlines-cancel-flights-request-emergency-funds</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What Is ERP?</p>

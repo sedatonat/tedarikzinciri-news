@@ -28,9 +28,6 @@ tags: ['CPC', 'Caspian Pipeline Consortium', 'Karadeniz', 'Kazakistan', 'petrol 
 3. <strong>Thenamaris</strong> stated that <strong>Matilda</strong> remains seaworthy.<br>
 4. <strong>Chevron</strong> reports no impact on <strong>Kazakhstan</strong> operations.<br>
 5. The incidents are moderating surplus in the global oil market and supporting prices.</p>
-<p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/43199-two-oil-tankers-attacked-near-key-cpc-terminal-in-black-sea"><u>https://www.supplychainbrain.com/articles/43199-two-oil-tankers-attacked-near-key-cpc-terminal-in-black-sea</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

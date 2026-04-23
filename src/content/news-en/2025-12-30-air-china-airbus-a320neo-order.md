@@ -28,9 +28,6 @@ tags: ['Air China', 'Airbus', 'A320neo', 'Çin havacılığı', 'Spring Airlines
 3. <strong>China's</strong> planned major package encompasses approximately 500 aircraft.<br>
 4. The order provides significant support to <strong>Airbus</strong> amid a software-related global recall process.<br>
 5. <strong>Spring Airlines</strong> and <strong>Juneyao Airlines</strong> previously signed additional agreements valued at <strong>$8.2 billion</strong>.</p>
-<p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/43057-air-china-to-buy-60-airbus-a320neo-planes-for-953b"><u>https://www.supplychainbrain.com/articles/43057-air-china-to-buy-60-airbus-a320neo-planes-for-953b</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Acquire ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

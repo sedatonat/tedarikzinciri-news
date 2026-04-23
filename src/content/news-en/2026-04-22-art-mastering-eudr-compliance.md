@@ -27,9 +27,6 @@ tags: ['EUDR', 'AB', 'ormansızlaşma', 'Inverto', 'BCG', 'uyum', 'Paul Mohr', '
 3. Seven core commodities: cattle, cocoa, coffee, palm oil, rubber, soy, and wood.<br>
 4. The <strong>Due Diligence Statement</strong> (<strong>DDS</strong>) must include geolocation data and risk assessment.<br>
 5. Penalties are set at a minimum of 4 percent of turnover as the primary enforcement threshold.</p>
-<p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/41690-the-art-of-mastering-eudr-compliance"><u>https://www.supplychainbrain.com/articles/41690-the-art-of-mastering-eudr-compliance</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Purchase ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>

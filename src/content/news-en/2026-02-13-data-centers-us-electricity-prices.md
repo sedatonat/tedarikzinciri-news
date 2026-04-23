@@ -28,9 +28,6 @@ tags: ['veri merkezi', 'elektrik fiyatı', 'yapay zeka', 'ABD enerji', 'Goldman 
 3. 40% of demand growth over the coming decade will come from data centers.<br>
 4. Household electricity prices are expected to rise a further 6% through 2027.<br>
 5. <strong>Goldman Sachs</strong> projects <strong>AI</strong> will increase data center power demand by 160% by 2030.</p>
-<p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/43470-data-centers-fuel-surge-in-us-electricity-prices"><u>https://www.supplychainbrain.com/articles/43470-data-centers-fuel-surge-in-us-electricity-prices</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

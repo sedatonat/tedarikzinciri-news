@@ -28,9 +28,6 @@ tags: ['Seegrid', 'Shawn Durr', 'otonomi', 'AMR', 'AGV', 'otomasyon', 'imalat', 
 3. <strong>Interoperability</strong> is central to the modern manufacturing ecosystem.<br>
 4. <strong>Shawn Durr</strong> speaks as Strategic Sales Director of <strong>Seegrid</strong>.<br>
 5. Smart connected ecosystems support human and technology synergy.</p>
-<p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/43260-how-manufacturers-can-prepare-for-a-more-dynamic-future"><u>https://www.supplychainbrain.com/articles/43260-how-manufacturers-can-prepare-for-a-more-dynamic-future</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our book "How to Procure an ERP" has been published on Google Play Books.</strong></p>
 <p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it free via this link.</p>

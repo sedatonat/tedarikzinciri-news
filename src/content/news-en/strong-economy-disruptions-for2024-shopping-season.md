@@ -44,7 +44,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Article Link: </strong><a href="https://www.supplychainbrain.com/articles/40819-how-strong-economy-year-of-disruptions-defined-2024s-shopping-season"><u>https://www.supplychainbrain.com/articles/40819-how-strong-economy-year-of-disruptions-defined-2024s-shopping-season</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>Our Book "How to Procure an ERP System?" Has Been Published on Google Play Books.</strong></p>

@@ -28,9 +28,6 @@ tags: ['Meksika', 'CIIT', 'Tehuantepec', 'Hyundai Glovis', 'Panama Kanalı', 'in
 3. <strong>Hyundai Glovis</strong> is moving 900 vehicles in the 2025 pilot.<br>
 4. Full ocean-to-ocean transfer takes approximately 72 hours.<br>
 5. Climate drought risk at the <strong>Panama Canal</strong> is accelerating the search for alternatives.</p>
-<p>---<br>
-<strong>Article Link:</strong> <a href="https://www.supplychainbrain.com/articles/43792-mexicos-alternative-to-the-panama-canal-set-to-open-fully-this-year"><u>https://www.supplychainbrain.com/articles/43792-mexicos-alternative-to-the-panama-canal-set-to-open-fully-this-year</u></a><br>
--------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Purchase ERP? Our Book Has Been Published on Google Play Books.</strong></p>
 <p>#What is ERP?</p>

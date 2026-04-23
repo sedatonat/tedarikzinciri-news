@@ -44,7 +44,6 @@ tags:
 </ul>
 <p><br></p>
 <p>---</p>
-<p><strong>Article Link: </strong><a href="https://www.supplychainbrain.com/articles/40976-extension-from-biden-admin-grants-us-steel-sale-second-life"><u>https://www.supplychainbrain.com/articles/40976-extension-from-biden-admin-grants-us-steel-sale-second-life</u></a></p>
 <p>-------------------</p>
 <p><strong>!!! ANNOUNCEMENT !!!</strong></p>
 <p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>
