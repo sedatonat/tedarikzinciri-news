@@ -24,6 +24,12 @@ const cat = entry.data.category;
 const topTags: string[] = Array.isArray(entry.data.tags)
   ? entry.data.tags.filter((t: any) => typeof t === 'string' && t.trim()).slice(0, 3)
   : [];
+let sourceHost = '';
+if (entry.data.sourceUrl) {
+  try {
+    sourceHost = new URL(entry.data.sourceUrl).hostname.replace(/^www\./, '');
+  } catch {}
+}
 ---
 <article class="group flex flex-col rounded-xl overflow-hidden border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 hover:border-brand-500 transition">
   {entry.data.image && (
@@ -40,6 +46,14 @@ const topTags: string[] = Array.isArray(entry.data.tags)
       <a href={dayHref} class="hover:text-brand-600 hover:underline underline-offset-4 decoration-dotted">
         <time datetime={dateObj.toISOString()}>{date}</time>
       </a>
+      {sourceHost && (
+        <>
+          <span aria-hidden="true" class="text-ink-400">·</span>
+          <a href={entry.data.sourceUrl} target="_blank" rel="noopener noreferrer nofollow"
+             class="hover:text-brand-600 hover:underline underline-offset-4 decoration-dotted truncate"
+             title={entry.data.sourceUrl}>{sourceHost}</a>
+        </>
+      )}
     </div>
     <a href={href} class="block">
       <h3 class="text-lg font-semibold leading-snug group-hover:text-brand-600">{entry.data.title}</h3>
