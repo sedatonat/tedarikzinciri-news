@@ -3,7 +3,7 @@ title: "Turkmenbashi port represented Turkmenistan at Brussels forum on Europe-A
 subtitle: "Turkmenistan's Caspian Sea port of Turkmenbashi highlighted the country's strategic role in East-West and North-South corridors at the Europe-Asia connectivity forum in Brussels."
 date: "2026-04-21T12:59:00Z"
 category: "Lojistik"
-image: "/images/news/turkmenbashi-port-brussels.jpg"
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Caspian_sea_satellite.jpg/640px-Caspian_sea_satellite.jpg
 imageAlt: "Turkmenbashi port Europe-Asia connectivity"
 sourceUrl: "https://en.portnews.ru/news/390575/"
 author: "Sedat Onat"

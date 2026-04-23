@@ -5,7 +5,7 @@ date: '2026-04-07T07:47:34Z'
 category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Noun_Project_ship_icon.svg/640px-Noun_Project_ship_icon.svg.png
+image: https://imgproxy.watchmedier.dk/SXWL66kGiYLLqmOfX8XoR9hyCnUPNvhEHF1hGWOCeYE/resize:fill:960:0:0/plain/https%3A%2F%2Fphotos.watchmedier.dk%2FImages%2F19176376%2Fh1j8vj%2FALTERNATES%2Fschema-16_9%2Fglobal-banksjp-morgan
 imageAlt: "Gemi yatırımı temsili görsel"
 sourceUrl: https://shippingwatch.com/suppliers/article19114606.ece
 author: Sedat Onat

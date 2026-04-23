@@ -5,7 +5,7 @@ date: '2026-04-21T15:56:34Z'
 category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/640px-Flag_of_Europe.svg.png
+image: https://imgproxy.watchmedier.dk/n7skh1L7gTXZ_YJtJHWSOHhKREiEMmGn04ODDr29yCI/resize:fill:960:0:0/plain/https%3A%2F%2Fphotos.watchmedier.dk%2FImages%2F19221371%2Fgj341a%2FALTERNATES%2Fschema-16_9%2Fbelgium-eu-palestinian-diplomacy
 imageAlt: "Avrupa Birliği bayrağı"
 sourceUrl: https://shippingwatch.com/regulation/article19221638.ece
 author: Sedat Onat

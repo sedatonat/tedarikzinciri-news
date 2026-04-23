@@ -5,7 +5,7 @@ date: '2026-04-22T08:40:00Z'
 category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
-image: /images/news/tanker-stocks-covid.jpg
+image: https://splash247.com/wp-content/uploads/2025/01/Wall-Street.jpeg
 imageAlt: "Tanker piyasası hisse değerlemesi"
 sourceUrl: https://splash247.com/tanker-stocks-face-covid-style-reckoning/
 author: Sedat Onat

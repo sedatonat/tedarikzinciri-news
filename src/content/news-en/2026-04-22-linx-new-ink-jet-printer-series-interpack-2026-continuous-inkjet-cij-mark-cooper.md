@@ -3,7 +3,7 @@ title: "Linx to unveil new ink jet printer series at interpack"
 subtitle: "Linx Printing Technologies will display its new-generation continuous ink jet (CIJ) printer series at interpack 2026 (Hall 8B, stand C59) in Düsseldorf."
 date: "2026-04-22T11:00:00Z"
 category: "Teknoloji"
-image: "/images/news/linx-ink-jet-printer.jpg"
+image: https://warehousinglogisticsinternational.com/wp-content/uploads/2026/04/alice-Linx-260326-0006-without-truck.jpg
 imageAlt: "Linx continuous ink jet printer"
 sourceUrl: "https://warehousinglogisticsinternational.com/linx-to-unveil-new-ink-jet-printer-series-at-interpack/"
 author: "Sedat Onat"

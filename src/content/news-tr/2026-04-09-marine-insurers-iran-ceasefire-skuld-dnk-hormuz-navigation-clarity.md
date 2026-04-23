@@ -5,7 +5,7 @@ date: '2026-04-09T12:56:07Z'
 category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Strait_of_hormuz_full.jpg/640px-Strait_of_hormuz_full.jpg
+image: https://imgproxy.watchmedier.dk/4NWAbbeUTlLBOto-KubsSwi2zfjt9CwUBIFKN8Kkf_U/resize:fill:960:0:0/plain/https%3A%2F%2Fphotos.watchmedier.dk%2FImages%2F19185148%2Fdkhz2s%2FALTERNATES%2Fschema-16_9%2Firan-crisisoman-hormuz
 imageAlt: "Hürmüz Boğazı haritası"
 sourceUrl: https://shippingwatch.com/carriers/Tanker/article19185653.ece
 author: Sedat Onat

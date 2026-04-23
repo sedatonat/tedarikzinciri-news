@@ -6,7 +6,7 @@ category: Lojistik
 secondaryCategories:
   - Satınalma
   - Tedarik Zinciri
-image: /images/news/performance-shipping-lr1.jpg
+image: https://splash247.com/wp-content/uploads/2025/03/Performance_Shipping.jpg
 imageAlt: "LR1 ürün tankeri sat-geri kirala"
 sourceUrl: https://splash247.com/performance-shipping-seals-sale-and-leaseback-for-lr1-newbuild/
 author: Sedat Onat

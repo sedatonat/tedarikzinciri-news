@@ -5,7 +5,7 @@ date: '2026-04-23T15:00:00Z'
 category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Panama_Canal_Bridge.jpg/640px-Panama_Canal_Bridge.jpg
+image: https://imgproxy.watchmedier.dk/iXNSROjjQTIw2gpwQ1K98Pp3iMmksabbh9S4J1Ne28A/resize:fill:960:0:0/plain/https%3A%2F%2Fphotos.watchmedier.dk%2FImages%2F19230013%2Fpn9cbp%2FALTERNATES%2Fschema-16_9%2Fpanama-canaltraffic
 imageAlt: "Panama Kanalı temsili görsel"
 sourceUrl: https://shippingwatch.com/carriers/Tanker/article19230058.ece
 author: Sedat Onat

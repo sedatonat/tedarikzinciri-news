@@ -3,7 +3,7 @@ title: "Marine Insurers Are Waiting for Clarity on Ceasefire"
 subtitle: "According to ShippingWatch, P&I groups like Skuld and DNK are advising their customers to wait and see how the situation in Iran develops before resuming navigation through the Strait of Hormuz"
 date: "2026-04-09T12:56:07Z"
 category: "Lojistik"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Strait_of_hormuz_full.jpg/640px-Strait_of_hormuz_full.jpg"
+image: https://imgproxy.watchmedier.dk/4NWAbbeUTlLBOto-KubsSwi2zfjt9CwUBIFKN8Kkf_U/resize:fill:960:0:0/plain/https%3A%2F%2Fphotos.watchmedier.dk%2FImages%2F19185148%2Fdkhz2s%2FALTERNATES%2Fschema-16_9%2Firan-crisisoman-hormuz
 imageAlt: "Strait of Hormuz map"
 sourceUrl: "https://shippingwatch.com/carriers/Tanker/article19185653.ece"
 author: "Sedat Onat"

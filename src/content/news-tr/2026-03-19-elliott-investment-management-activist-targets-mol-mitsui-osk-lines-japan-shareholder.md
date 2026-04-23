@@ -5,7 +5,7 @@ date: '2026-03-19T07:54:00Z'
 category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
-image: /images/news/elliott-mol.jpg
+image: https://splash247.com/wp-content/uploads/2015/07/MOL-Car-e1615444499856.jpg
 imageAlt: "MOL Mitsui OSK Lines aktivist yatırımcı"
 sourceUrl: https://splash247.com/american-activist-investor-targets-mol/
 author: Sedat Onat

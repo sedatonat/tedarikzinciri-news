@@ -6,7 +6,7 @@ category: Lojistik
 secondaryCategories:
   - Teknoloji
   - Tedarik Zinciri
-image: /images/news/hugo-beck-sleeve-wrapper.jpg
+image: https://warehousinglogisticsinternational.com/wp-content/uploads/2026/03/alice-Interpack-2026-transport-paper-packaging.jpg
 imageAlt: "Hugo Beck sürdürülebilir paketleme"
 sourceUrl: https://warehousinglogisticsinternational.com/hugo-beck-to-launch-new-sleeve-wrapper-for-sustainable-transport-packaging-at-interpack/
 author: Sedat Onat

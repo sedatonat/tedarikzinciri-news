@@ -5,7 +5,7 @@ date: '2026-04-21T12:59:00Z'
 category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
-image: /images/news/turkmenbashi-port-brussels.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Caspian_sea_satellite.jpg/640px-Caspian_sea_satellite.jpg
 imageAlt: "Türkmenbaşı limanı Avrupa-Asya bağlantısı"
 sourceUrl: https://en.portnews.ru/news/390575/
 author: Sedat Onat

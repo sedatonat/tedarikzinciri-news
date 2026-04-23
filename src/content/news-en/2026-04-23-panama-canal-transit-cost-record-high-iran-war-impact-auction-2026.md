@@ -3,7 +3,7 @@ title: "Cost of Panama Canal Transit Hits Record High"
 subtitle: "According to ShippingWatch, the Iran war is also affecting the vital shipping route between the Atlantic and the Pacific; Panama Canal transit auction fees have reached a new peak"
 date: "2026-04-23T15:00:00Z"
 category: "Lojistik"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Panama_Canal_Bridge.jpg/640px-Panama_Canal_Bridge.jpg"
+image: https://imgproxy.watchmedier.dk/iXNSROjjQTIw2gpwQ1K98Pp3iMmksabbh9S4J1Ne28A/resize:fill:960:0:0/plain/https%3A%2F%2Fphotos.watchmedier.dk%2FImages%2F19230013%2Fpn9cbp%2FALTERNATES%2Fschema-16_9%2Fpanama-canaltraffic
 imageAlt: "Panama Canal representative image"
 sourceUrl: "https://shippingwatch.com/carriers/Tanker/article19230058.ece"
 author: "Sedat Onat"

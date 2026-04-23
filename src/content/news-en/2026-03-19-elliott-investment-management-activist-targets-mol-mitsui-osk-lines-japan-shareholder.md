@@ -3,7 +3,7 @@ title: "American activist investor Elliott targets MOL"
 subtitle: "MOL shares surged 11% to a record high after Elliott Investment Management disclosed a stake in the Japanese shipping giant Mitsui OSK Lines."
 date: "2026-03-19T07:54:00Z"
 category: "Lojistik"
-image: "/images/news/elliott-mol.jpg"
+image: https://splash247.com/wp-content/uploads/2015/07/MOL-Car-e1615444499856.jpg
 imageAlt: "MOL Mitsui OSK Lines activist investor"
 sourceUrl: "https://splash247.com/american-activist-investor-targets-mol/"
 author: "Sedat Onat"

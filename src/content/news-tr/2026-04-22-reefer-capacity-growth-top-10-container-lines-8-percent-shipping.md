@@ -5,7 +5,7 @@ date: '2026-04-22T10:35:13Z'
 category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Reefer_container.jpg/640px-Reefer_container.jpg
+image: https://imgproxy.watchmedier.dk/MCCejG0xk2oNQuXsg5AYqR_2YHLqqyQnF_ywaUfHEIo/resize:fill:960:0:0/plain/https%3A%2F%2Fphotos.watchmedier.dk%2FImages%2F19223947%2F90pcrr%2FALTERNATES%2Fschema-16_9%2Fpanama-canal-transport
 imageAlt: "Soğutmalı (reefer) konteyner temsili görsel"
 sourceUrl: https://shippingwatch.com/carriers/Container/article19224037.ece
 author: Sedat Onat

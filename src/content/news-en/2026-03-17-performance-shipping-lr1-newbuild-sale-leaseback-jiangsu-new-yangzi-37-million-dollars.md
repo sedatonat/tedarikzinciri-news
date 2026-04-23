@@ -3,7 +3,7 @@ title: "Performance Shipping seals $37.8m sale and leaseback for LR1 newbuild"
 subtitle: "Performance Shipping has signed a $37.8m sale and leaseback agreement for an LR1 product tanker to be delivered in 2027 from Jiangsu New Yangzi shipyard."
 date: "2026-03-17T17:15:00Z"
 category: "Lojistik"
-image: "/images/news/performance-shipping-lr1.jpg"
+image: https://splash247.com/wp-content/uploads/2025/03/Performance_Shipping.jpg
 imageAlt: "LR1 product tanker sale and leaseback"
 sourceUrl: "https://splash247.com/performance-shipping-seals-sale-and-leaseback-for-lr1-newbuild/"
 author: "Sedat Onat"

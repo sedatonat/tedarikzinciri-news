@@ -3,7 +3,7 @@ title: "Hugo Beck to launch new sleeve wrapper for sustainable transport packagi
 subtitle: "Hugo Beck will showcase its new compact sleeve wrapper 'paper S' using kraft paper at interpack 2026 (hall 11, stand A74) in Düsseldorf."
 date: "2026-04-22T10:00:00Z"
 category: "Lojistik"
-image: "/images/news/hugo-beck-sleeve-wrapper.jpg"
+image: https://warehousinglogisticsinternational.com/wp-content/uploads/2026/03/alice-Interpack-2026-transport-paper-packaging.jpg
 imageAlt: "Hugo Beck sustainable packaging"
 sourceUrl: "https://warehousinglogisticsinternational.com/hugo-beck-to-launch-new-sleeve-wrapper-for-sustainable-transport-packaging-at-interpack/"
 author: "Sedat Onat"

@@ -3,7 +3,7 @@ title: "Tanker stocks face Covid-style reckoning"
 subtitle: "Evercore ISI analyst Jonathan Chappell warns tanker stocks could face a sharp correction similar to April 2020 following the Iran ceasefire."
 date: "2026-04-22T08:40:00Z"
 category: "Lojistik"
-image: "/images/news/tanker-stocks-covid.jpg"
+image: https://splash247.com/wp-content/uploads/2025/01/Wall-Street.jpeg
 imageAlt: "Tanker market stock valuation"
 sourceUrl: "https://splash247.com/tanker-stocks-face-covid-style-reckoning/"
 author: "Sedat Onat"

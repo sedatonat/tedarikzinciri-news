@@ -3,7 +3,7 @@ title: "First Time in Years: Older Tankers in Higher Demand Than Newbuilds"
 subtitle: "Per ShippingWatch, research firm data documents rising interest in older tankers while significant orders are simultaneously being placed for newbuilds"
 date: "2026-04-22T12:18:58Z"
 category: "Lojistik"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Oil_tanker.jpg/640px-Oil_tanker.jpg"
+image: https://imgproxy.watchmedier.dk/9x1MU6q8nwgQcJel6ITc3H7uF_nQfvxUJYi8PM2hlq8/resize:fill:960:0:0/plain/https%3A%2F%2Fphotos.watchmedier.dk%2FImages%2F19224286%2Fy6fiui%2FALTERNATES%2Fschema-16_9%2Firan-crisisshipping-greece
 imageAlt: "Crude oil tanker representative image"
 sourceUrl: "https://shippingwatch.com/carriers/Tanker/article19224526.ece"
 author: "Sedat Onat"

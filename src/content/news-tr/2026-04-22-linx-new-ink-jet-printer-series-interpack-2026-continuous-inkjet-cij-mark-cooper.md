@@ -6,7 +6,7 @@ category: Teknoloji
 secondaryCategories:
   - Lojistik
   - Tedarik Zinciri
-image: /images/news/linx-ink-jet-printer.jpg
+image: https://warehousinglogisticsinternational.com/wp-content/uploads/2026/04/alice-Linx-260326-0006-without-truck.jpg
 imageAlt: "Linx sürekli mürekkep püskürtmeli yazıcı"
 sourceUrl: https://warehousinglogisticsinternational.com/linx-to-unveil-new-ink-jet-printer-series-at-interpack/
 author: Sedat Onat
