@@ -7,7 +7,7 @@ secondaryCategories:
   - Teknoloji
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mersin_International_Port_logo.svg/640px-Mersin_International_Port_logo.svg.png
 imageAlt: "Mersin Uluslararası Limanı logosu"
-sourceUrl: https://www.porttechnology.org/news/mersin-port-to-launch-turkiyes-first-fully-automated-container-terminal/
+sourceUrl: https://www.porttechnology.org/mersin-port-launches-turkiyes-first-yard-automation-system/
 author: Sedat Onat
 translated: false
 draft: false

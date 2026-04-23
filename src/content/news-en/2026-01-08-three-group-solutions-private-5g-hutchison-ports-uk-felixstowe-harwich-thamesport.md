@@ -5,7 +5,7 @@ date: "2026-01-08T10:03:40Z"
 category: "Teknoloji"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Three_logo.svg/640px-Three_logo.svg.png"
 imageAlt: "Three Group logo"
-sourceUrl: "https://www.porttechnology.org/news/three-group-solutions-deploys-private-5g-at-hutchison-ports-uk/"
+sourceUrl: https://www.porttechnology.org/three-group-solutions-completes-private-5g-ports-rollout/
 author: "Sedat Onat"
 translated: true
 draft: false

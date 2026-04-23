@@ -7,7 +7,7 @@ secondaryCategories:
   - Tedarik Zinciri
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Port_of_Portland_%28Oregon%29_logo.svg/640px-Port_of_Portland_%28Oregon%29_logo.svg.png
 imageAlt: "Portland Limanı logosu"
-sourceUrl: https://www.porttechnology.org/news/oregon-container-terminal-launches-at-port-of-portland/
+sourceUrl: https://www.porttechnology.org/oregon-container-terminal-launches/
 author: Sedat Onat
 translated: false
 draft: false

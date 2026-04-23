@@ -7,7 +7,7 @@ secondaryCategories:
   - Tedarik Zinciri
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hapag-Lloyd_Logo.svg/640px-Hapag-Lloyd_Logo.svg.png
 imageAlt: "Hapag-Lloyd logosu"
-sourceUrl: https://www.porttechnology.org/news/hapag-lloyd-wins-zemba-e-methanol-shipping-tender/
+sourceUrl: https://www.porttechnology.org/hapag-lloyd-wins-zemba-e-methanol-shipping-tender/
 author: Sedat Onat
 translated: false
 draft: false
