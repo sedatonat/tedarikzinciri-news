@@ -10,9 +10,6 @@ const lang = getLangFromUrl(Astro.url);
 const href = newsPath(lang, entry.slug);
 const cat = entry.data.category;
 const catLabel = categoryLabel[cat]?.[lang] ?? cat;
-const handle = '@' + (catLabel || cat).toLocaleLowerCase(lang === 'tr' ? 'tr-TR' : 'en-US')
-  .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
-  .replace(/[^a-z0-9]+/g, '');
 const dateObj = new Date(entry.data.date);
 const dateAbs = dateObj.toLocaleDateString(
   lang === 'tr' ? 'tr-TR' : 'en-US',
@@ -50,16 +47,25 @@ function relativeTime(d: Date, lang: 'tr' | 'en'): string {
 }
 const timeLabel = relativeTime(dateObj, lang);
 
-// Category color palette for avatar circle
-const palette: Record<string, string> = {
-  'Lojistik': 'bg-sky-500',
-  'Tedarik Zinciri': 'bg-emerald-500',
-  'Teknoloji': 'bg-violet-500',
-  'Envanter': 'bg-amber-500',
-  'Satınalma': 'bg-rose-500',
+// Category icon color (transparent background, colored stroke)
+const iconColor: Record<string, string> = {
+  'Lojistik': 'text-sky-500',
+  'Tedarik Zinciri': 'text-emerald-500',
+  'Teknoloji': 'text-violet-500',
+  'Envanter': 'text-amber-500',
+  'Satınalma': 'text-rose-500',
 };
-const avatarColor = palette[cat] ?? 'bg-brand-500';
-const avatarLetter = (catLabel || cat).trim().charAt(0).toUpperCase();
+const avatarColor = iconColor[cat] ?? 'text-brand-500';
+
+// Category SVG icons (same as /kategoriler page)
+const ICONS: Record<string, string> = {
+  'Lojistik': '<path d="M3 17V6a1 1 0 0 1 1-1h11v12"/><path d="M15 8h4l3 4v5h-7"/><circle cx="7" cy="18" r="2"/><circle cx="17" cy="18" r="2"/>',
+  'Tedarik Zinciri': '<path d="M10 13a5 5 0 0 0 7.07 0l3-3a5 5 0 0 0-7.07-7.07l-1.5 1.5"/><path d="M14 11a5 5 0 0 0-7.07 0l-3 3a5 5 0 0 0 7.07 7.07l1.5-1.5"/>',
+  'Teknoloji': '<rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/><path d="M9 2v2"/><path d="M15 2v2"/><path d="M9 20v2"/><path d="M15 20v2"/><path d="M2 9h2"/><path d="M2 15h2"/><path d="M20 9h2"/><path d="M20 15h2"/>',
+  'Envanter': '<path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><path d="m3.3 7 8.7 5 8.7-5"/><path d="M12 22V12"/>',
+  'Satınalma': '<circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/>',
+};
+const avatarIcon = ICONS[cat] ?? ICONS['Tedarik Zinciri'];
 
 // Body text: subtitle preferred; otherwise empty
 const body = (entry.data.subtitle ?? '').toString();
@@ -70,21 +76,18 @@ const topTags: string[] = Array.isArray(entry.data.tags)
 ---
 <article class="border-b border-ink-200 dark:border-ink-800 px-4 sm:px-5 py-3 hover:bg-ink-50/50 dark:hover:bg-ink-900/40 transition-colors">
   <div class="flex gap-3">
-    <!-- Avatar -->
+    <!-- Avatar: transparent background, category icon -->
     <a href={categoryPath(lang, cat)} class="shrink-0" aria-label={catLabel}>
-      <div class={`w-10 h-10 sm:w-12 sm:h-12 rounded-full ${avatarColor} text-white flex items-center justify-center font-bold text-base sm:text-lg shadow-sm`}>
-        {avatarLetter}
+      <div class={`w-10 h-10 sm:w-12 sm:h-12 rounded-full bg-transparent ${avatarColor} flex items-center justify-center ring-1 ring-ink-200 dark:ring-ink-800`}>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5 sm:w-6 sm:h-6" aria-hidden="true" set:html={avatarIcon} />
       </div>
     </a>
 
     <div class="flex-1 min-w-0">
-      <!-- Header line: name + handle + dot + time -->
+      <!-- Header line: category name + dot + time -->
       <div class="flex flex-wrap items-center gap-x-1.5 text-sm leading-tight">
         <a href={categoryPath(lang, cat)} class="font-bold text-ink-900 dark:text-ink-100 hover:underline truncate">
           {catLabel}
-        </a>
-        <a href={categoryPath(lang, cat)} class="text-ink-500 dark:text-ink-400 hover:underline truncate">
-          {handle}
         </a>
         <span class="text-ink-400 dark:text-ink-600">·</span>
         <time datetime={dateObj.toISOString()} class="text-ink-500 dark:text-ink-400" title={dateAbs}>
