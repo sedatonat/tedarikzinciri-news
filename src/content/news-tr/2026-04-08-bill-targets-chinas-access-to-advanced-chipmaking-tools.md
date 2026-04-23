@@ -5,8 +5,8 @@ category: Teknoloji
 secondaryCategories:
   - Tedarik Zinciri
   - Lojistik
-image: https://www.supplychainbrain.com/ext/resources/2024/06/11/semiconductor-chips-china-bloomberg-412730151.jpg
-imageAlt: "Çin yarı iletken çipleri"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Semiconductor_wafer.jpg?width=640
+imageAlt: "Yarı iletken / çip temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43803-bill-targets-chinas-access-to-advanced-chipmaking-tools
 newsSequence: 43803
 author: Sedat Onat

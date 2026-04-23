@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2025/12/23/INTERNATIONAL-PACKAGES-CUSTOMS-iStock-Angelica-Zander-2207636051.jpg
-imageAlt: "Customs operations and parcel flow at a border crossing"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Seal_of_United_States_Customs_and_Border_Protection.svg?width=640
+imageAlt: "US CBP seal"
 sourceUrl: https://www.supplychainbrain.com/articles/43041-end-of-de-minimis-strains-delivery-companies-but-cbp-says-its-coping
 newsSequence: 43041
 author: Sedat Onat

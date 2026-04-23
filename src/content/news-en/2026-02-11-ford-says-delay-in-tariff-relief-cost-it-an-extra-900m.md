@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2023/11/30/FORD-DEALERSHIP-SIGN-iStock--BalkansCat--1040694160.jpg
-imageAlt: "Ford assembly line view"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Ford_logo_flat.svg?width=640
+imageAlt: "Ford Motor logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43458-ford-says-delay-in-tariff-relief-cost-it-an-extra-900m
 newsSequence: 43458
 author: Sedat Onat

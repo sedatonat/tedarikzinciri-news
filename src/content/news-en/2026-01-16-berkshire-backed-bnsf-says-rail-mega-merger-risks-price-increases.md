@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2023/08/01/BNSF-RAILWAY-TRAIN-iStock--Angel-Di-Billo--1390786210.jpg
-imageAlt: "Freight train moving along a U.S. railroad"
+image: https://en.wikipedia.org/wiki/Special:FilePath/BNSF_Railway_Logo.svg?width=640
+imageAlt: "BNSF Railway logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43242-berkshire-backed-bnsf-says-rail-mega-merger-risks-price-increases
 newsSequence: 43242
 author: Sedat Onat

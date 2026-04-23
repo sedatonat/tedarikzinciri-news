@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2025/12/04/OIL-TANKER-AT-SEA-BLOOMBERG.jpg
-imageAlt: "Crude oil tanker sailing in open sea"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Crude_oil_tanker_AbQaiq.jpg?width=640
+imageAlt: "Petrol tankeri representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43337-france-boards-russia-linked-oil-tanker-in-shadow-fleet-move
 newsSequence: 43337
 author: Sedat Onat

@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2026/01/13/Japan-Deep-Sea-Mining-Vessel-GOVERNMENT-PHOTO-OK-TO-USE.jpg
-imageAlt: "Japon Chikyu derin deniz madencilik gemisi"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Rare_Earth_Oxides.jpg?width=640
+imageAlt: "Nadir toprak elementleri temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43194-japan-launches-worlds-first-deep-sea-rare-earth-mining-mission
 newsSequence: 43194
 author: Sedat Onat

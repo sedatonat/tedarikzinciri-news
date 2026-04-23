@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2024/12/12/usps-mail-delivery-iStock-1218829216.jpg
-imageAlt: "USPS mail delivery vehicle on a residential delivery route"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Amazon_logo.svg?width=640
+imageAlt: "Amazon logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43801-amazon-reaches-deal-with-usps-on-cuts-to-deliveries
 newsSequence: 43801
 author: Sedat Onat

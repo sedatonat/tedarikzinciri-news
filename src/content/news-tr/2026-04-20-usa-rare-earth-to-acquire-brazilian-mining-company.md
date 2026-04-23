@@ -4,8 +4,8 @@ date: '2026-04-20T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2025/12/12/RARE-EARTH-WOLFRAMITE-TUNGSTEN-iStock-Wirestock-1441844571.jpg
-imageAlt: "Nadir toprak elementleri madenciliği"
+image: https://en.wikipedia.org/wiki/Special:FilePath/USA_Rare_Earth_Logo.png?width=640
+imageAlt: "USA Rare Earth logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43891-usa-rare-earth-to-acquire-brazilian-mining-company
 newsSequence: 43891
 author: Sedat Onat

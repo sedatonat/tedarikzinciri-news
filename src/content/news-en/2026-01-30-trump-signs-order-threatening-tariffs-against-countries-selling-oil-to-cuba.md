@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2026/01/30/united-states-cuba-iStock-1096893936.jpg
-imageAlt: "U.S. and Cuban flags"
+image: https://en.wikipedia.org/wiki/Special:FilePath/U.S._Customs_and_Border_Protection_inspect_imports.jpg?width=640
+imageAlt: "Gümrük representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43379-trump-signs-order-threatening-tariffs-against-countries-selling-oil-to-cuba
 newsSequence: 43379
 author: Sedat Onat

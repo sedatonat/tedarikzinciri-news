@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Lojistik
-image: https://www.supplychainbrain.com/ext/resources/2026/03/05/iceland-grocery-store-iStock-1022319138.jpg
-imageAlt: "Iceland supermarket storefront in the United Kingdom"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Container_ship_at_terminal.jpg?width=640
+imageAlt: "Supply chain representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43600-iceland-wins-trademark-battle-with-uk-grocery-chain
 newsSequence: 43600
 author: Sedat Onat

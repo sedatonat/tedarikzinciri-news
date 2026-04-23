@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2024/12/09/India-cochin-port-iStock-506180222.jpg
-imageAlt: "Container ship operations at India's Cochin Port in Kerala"
+image: https://en.wikipedia.org/wiki/Special:FilePath/CSCL_Globe_arriving_at_Felixstowe%2C_United_Kingdom.jpg?width=640
+imageAlt: "Konteyner gemisi representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43430-india-launches-state-backed-container-line
 newsSequence: 43430
 author: Sedat Onat

@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2026/02/16/VERONICA-III-BLOOMBERG.png
-imageAlt: "Oil tanker Veronica III sailing in open waters"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Crude_oil_tanker_AbQaiq.jpg?width=640
+imageAlt: "Petrol tankeri representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43482-us-forces-board-second-sanctioned-oil-tanker-in-indian-ocean
 newsSequence: 43482
 author: Sedat Onat

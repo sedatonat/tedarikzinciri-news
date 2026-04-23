@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2026/03/29/US-FARMERS-SUBSIDIES-BLOOMBERG.jpg
-imageAlt: "Maryland'de bir çiftlikte taze hasat edilmiş pazıları arabalarla taşımakta olan işçiler"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Field_with_corn.jpg?width=640
+imageAlt: "Tarım temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43747-trump-unveils-new-loan-guarantees-for-beleaguered-farmers
 newsSequence: 43747
 author: Sedat Onat

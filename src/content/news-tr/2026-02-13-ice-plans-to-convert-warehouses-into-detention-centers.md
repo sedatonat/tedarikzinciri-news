@@ -5,8 +5,8 @@ category: Envanter
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2026/02/13/ICE-POLICE-IMMIGRATION-ENFORCEMENT-DETENTION-CENTER-WAREHOUSE-iStock-Douglas-Rissing-2209273886.jpg
-imageAlt: "ICE göçmenlik gözaltı merkezi depo dönüşümü"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Seal_of_the_U.S._Immigration_and_Customs_Enforcement.svg?width=640
+imageAlt: "US ICE seal"
 sourceUrl: https://www.supplychainbrain.com/articles/43479-ice-plans-to-convert-warehouses-into-detention-centers
 newsSequence: 43479
 author: Sedat Onat

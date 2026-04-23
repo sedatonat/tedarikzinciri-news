@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2026/04/16/fiji-pacific-islands-ferry-iStock-640144814.jpg
-imageAlt: "Passenger ferry approaching a port in Fiji in the Pacific islands"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Pacific_Islands_aerial.jpg?width=640
+imageAlt: "Pasifik adaları representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43876-iran-war-exposes-fragility-of-pacific-islands
 newsSequence: 43876
 author: Sedat Onat

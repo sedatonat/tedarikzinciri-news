@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2023/07/12/EVERGREEN-SHIPS-AT-DOCK-iStock-hapabapa-1409333523.jpg
-imageAlt: "Evergreen Marine container ships at dock during loading operations"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Evergreen_Marine_Logo.svg?width=640
+imageAlt: "Evergreen Marine logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43371-evergeen-books-orders-for-23-new-container-ships
 newsSequence: 43371
 author: Sedat Onat

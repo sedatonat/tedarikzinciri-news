@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Envanter
   - Tedarik Zinciri
-image: https://www.supplychainbrain.com/ext/resources/2025/09/25/whales-ocean-conservation-environment-iStock-1691211636.jpg
-imageAlt: "ABD doğu kıyısında balina ve geçiş yapmakta gemi"
+image: https://en.wikipedia.org/wiki/Special:FilePath/NOAA_logo.svg?width=640
+imageAlt: "NOAA logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43480-noaa-to-change-rules-on-vessel-speeds
 newsSequence: 43480
 author: Sedat Onat

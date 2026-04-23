@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Satınalma
-image: https://www.supplychainbrain.com/ext/resources/2024/12/31/US-TARIFFS-ISOLATION-PROTECTIONISM-TRADE-iStock-aprott-2183720452.jpg
-imageAlt: "U.S. flag with tariff and trade-protectionism imagery"
+image: https://en.wikipedia.org/wiki/Special:FilePath/U.S._Customs_and_Border_Protection_inspect_imports.jpg?width=640
+imageAlt: "Gümrük representative image"
 sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/43323-the-upside-of-tariffs-why-us-manufacturing-is-entering-a-rebuild-cycle
 newsSequence: 43323
 author: Sedat Onat

@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Teknoloji
   - Satınalma
-image: https://www.supplychainbrain.com/ext/resources/2025/11/26/CargoWiseTop-Five.jpg
-imageAlt: "Drayage trucks moving containers around a port terminal"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Volvo_FH16_750_Globetrotter_XL.jpg?width=640
+imageAlt: "Kamyon / TIR representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/42912-drayage-best-practices-five-tips-to-elevate-operations
 newsSequence: 42912
 author: Sedat Onat

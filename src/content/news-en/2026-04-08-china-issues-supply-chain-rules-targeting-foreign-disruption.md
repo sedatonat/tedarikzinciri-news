@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Lojistik
-image: https://www.supplychainbrain.com/ext/resources/2025/02/04/XI-JINPING-CHINA-BLOOMBERG.jpg
-imageAlt: "Official portrait of Chinese President Xi Jinping"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Container_ship_at_terminal.jpg?width=640
+imageAlt: "Supply chain representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43806-china-issues-supply-chain-rules-targeting-foreign-disruption
 newsSequence: 43806
 author: Sedat Onat

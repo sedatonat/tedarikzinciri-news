@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Envanter
   - Lojistik
-image: https://www.supplychainbrain.com/ext/resources/2025/09/13/PORT-OF-SHANGHAI-CHINA-iStock-dongfang-zhao-1315197056.jpg
-imageAlt: "Heavy trade activity at the Port of Shanghai, China's largest container terminal"
+image: https://en.wikipedia.org/wiki/Special:FilePath/U.S._Customs_and_Border_Protection_inspect_imports.jpg?width=640
+imageAlt: "Gümrük representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43205-chinas-2025-trade-surplus-hits-record-12-trillion-despite-us-tariffs
 newsSequence: 43205
 author: Sedat Onat

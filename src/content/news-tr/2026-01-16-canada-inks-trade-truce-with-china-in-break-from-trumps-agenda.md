@@ -4,8 +4,8 @@ date: '2026-01-16T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2025/03/26/MARK-CARNEY-CANADA-BLOOMBERG.jpg
-imageAlt: "Kanada Başbakanı Mark Carney; Çin lideri Xi Jinping ile diplomatik görüşme"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Container_ship_at_terminal.jpg?width=640
+imageAlt: "Tedarik zinciri temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43257-canada-inks-trade-truce-with-china-in-break-from-trumps-agenda
 newsSequence: 43257
 author: Sedat Onat

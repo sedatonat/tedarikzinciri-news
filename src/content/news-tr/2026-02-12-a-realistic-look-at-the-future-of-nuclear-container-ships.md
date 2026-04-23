@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2024/02/01/SHIPBUILDING-BUILDING-SHIP-iStock--mady70--465643251.jpg
-imageAlt: "Tersanede inşa halindeki büyük konteyner gemisi gövde yapısı"
+image: https://en.wikipedia.org/wiki/Special:FilePath/CSCL_Globe_arriving_at_Felixstowe%2C_United_Kingdom.jpg?width=640
+imageAlt: "Konteyner gemisi temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43459-a-realistic-look-at-the-future-of-nuclear-container-ships
 newsSequence: 43459
 author: Sedat Onat

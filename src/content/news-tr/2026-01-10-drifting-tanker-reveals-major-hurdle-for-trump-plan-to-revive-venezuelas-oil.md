@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2026/01/09/STRANDED-TANKER-BLOOMBERG.png
-imageAlt: "Karayipler&rsquo;de sürüklenmekta tanker harita görseli"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Crude_oil_tanker_AbQaiq.jpg?width=640
+imageAlt: "Petrol tankeri temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43181-drifting-tanker-reveals-major-hurdle-for-trump-plan-to-revive-venezuelas-oil
 newsSequence: 43181
 author: Sedat Onat

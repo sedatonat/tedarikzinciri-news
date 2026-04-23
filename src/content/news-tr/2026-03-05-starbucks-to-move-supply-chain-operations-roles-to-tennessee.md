@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Lojistik
-image: https://www.supplychainbrain.com/ext/resources/2022/12/14/STARBUCKS-iStock-martinrlee-1310936055.jpg
-imageAlt: "Caddedeki Starbucks mağazasının cephesinde yer almakta olan logo ve tabela"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Starbucks_Corporation_Logo_2011.svg?width=640
+imageAlt: "Starbucks logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43596-starbucks-to-move-supply-chain-operations-roles-to-tennessee
 newsSequence: 43596
 author: Sedat Onat

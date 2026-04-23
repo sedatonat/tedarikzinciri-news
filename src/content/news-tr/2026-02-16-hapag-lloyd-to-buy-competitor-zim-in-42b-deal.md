@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2026/02/16/HAPAG-LLOYD-ZIM-BLOOMBERG.jpg
-imageAlt: "Limanda istiflenmekte olan ZIM Integrated Shipping konteynerleri"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Hapag-Lloyd_logo.svg?width=640
+imageAlt: "Hapag-Lloyd logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43484-hapag-lloyd-to-buy-competitor-zim-in-42b-deal
 newsSequence: 43484
 author: Sedat Onat

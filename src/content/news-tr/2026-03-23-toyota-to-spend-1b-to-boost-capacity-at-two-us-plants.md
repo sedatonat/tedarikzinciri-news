@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Envanter
-image: https://www.supplychainbrain.com/ext/resources/2024/01/09/TOYOTA-SIGN-CAR-DEALERSHIP-iStock--josefkubes--853165500.jpg
-imageAlt: "Toyota fabrikasında montaj operasyonu"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Toyota_carlogo.svg?width=640
+imageAlt: "Toyota logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43705-toyota-to-spend-1b-to-boost-capacity-at-two-us-plants
 newsSequence: 43705
 author: Sedat Onat

@@ -5,8 +5,8 @@ category: Teknoloji
 secondaryCategories:
   - Lojistik
   - Tedarik Zinciri
-image: https://www.supplychainbrain.com/ext/resources/2025/09/16/artificial-intelligence-supply-chain-data-iStock-1477430842.jpg
-imageAlt: "AI-driven supply chain data analytics and planning interface"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048.jpg?width=640
+imageAlt: "Yapay zeka representative image"
 sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/43082-ai-as-co-pilot-for-supply-chain-planners
 newsSequence: 43082
 author: Sedat Onat

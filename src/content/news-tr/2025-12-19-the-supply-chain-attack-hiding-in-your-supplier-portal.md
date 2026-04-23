@@ -5,8 +5,8 @@ category: Satınalma
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2023/09/07/CYBERSECURITY-CYBER-ATTACK-iStock-Thapana-Onphalai-1453891703.jpg
-imageAlt: "Tedarik zinciri siber saldırı kavramı"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Port_of_Long_Beach_Aerial.jpg?width=640
+imageAlt: "Liman temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/42979-the-supply-chain-attack-hiding-in-your-supplier-portal
 newsSequence: 42979
 author: Sedat Onat

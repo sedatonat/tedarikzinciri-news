@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2024/01/25/INDIA-CHINA-FLAGS-iStock--daboost--498273004.jpg
-imageAlt: "Yan yana dalgalanmakta olan Hindistan ve Çin bayrakları"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Container_ship_at_terminal.jpg?width=640
+imageAlt: "Tedarik zinciri temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43055-china-blasts-us-for-report-that-sows-discord-with-india
 newsSequence: 43055
 author: Sedat Onat

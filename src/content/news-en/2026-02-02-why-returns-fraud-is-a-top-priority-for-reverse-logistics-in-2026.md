@@ -5,8 +5,8 @@ category: Envanter
 secondaryCategories:
   - Lojistik
   - Tedarik Zinciri
-image: https://www.supplychainbrain.com/ext/resources/2026/01/22/RETURNS-FRAUD-ONLINE-SHOPPING-ECOMMERCE-iStock-ISMOLOEX-2197632717.jpg
-imageAlt: "Person processing e-commerce returns at a laptop with parcels nearby"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Container_ship_at_terminal.jpg?width=640
+imageAlt: "Supply chain representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43250-why-returns-fraud-is-a-top-priority-for-reverse-logistics-in-2026
 newsSequence: 43250
 author: Sedat Onat

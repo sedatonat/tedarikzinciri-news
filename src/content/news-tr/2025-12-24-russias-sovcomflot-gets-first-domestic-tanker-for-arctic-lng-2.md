@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Envanter
-image: https://www.supplychainbrain.com/ext/resources/2023/03/30/RUSSIA-ICE-BREAKER-ARCTIC-NORTHERN-SEA-SHIPPING-ROUTE-iStock-Sergey-Zemnuhov-1221369839.jpg
-imageAlt: "Kuzey Buz Denizi'nde Kuzey Kutbu'na doğru ilerlemekte olan Rus buzkıran gemisi"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Sovcomflot_logo.svg?width=640
+imageAlt: "Sovcomflot logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43046-russias-sovcomflot-gets-first-domestic-tanker-for-arctic-lng-2
 newsSequence: 43046
 author: Sedat Onat

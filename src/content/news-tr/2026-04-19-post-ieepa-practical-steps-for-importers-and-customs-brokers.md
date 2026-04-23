@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Satınalma
-image: https://www.supplychainbrain.com/ext/resources/2026/04/15/TARIFF-REFUND-CHECK-CBP-CUSTOMS-iStock-LPETTET-2261147421.jpg
-imageAlt: "ABD Gümrük ve Sınır Koruma tarife geri ödeme çek belgesi"
+image: https://en.wikipedia.org/wiki/Special:FilePath/U.S._Customs_and_Border_Protection_inspect_imports.jpg?width=640
+imageAlt: "Gümrük temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/43887-post-ieepa-practical-steps-for-importers-and-customs-brokers
 newsSequence: 43887
 author: Sedat Onat

@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2026/03/18/satellite-space-industry-iStock-1323369594.jpg
-imageAlt: "Yeryüzünün üzerinde yörüngede dönmekte olan uzay uydusu"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Falcon_Heavy_Demo_Mission_%2840126461851%29.jpg?width=640
+imageAlt: "Roket / uzay fırlatma temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43684-report-space-launch-boom-risks-outpacing-supply-chain-capacity
 newsSequence: 43684
 author: Sedat Onat

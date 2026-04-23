@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2026/03/04/SCOTT-BESSENT-BLOOMBERG.jpg
-imageAlt: "U.S. Treasury Secretary Scott Bessent speaking at a Senate committee hearing"
+image: https://en.wikipedia.org/wiki/Special:FilePath/U.S._Customs_and_Border_Protection_inspect_imports.jpg?width=640
+imageAlt: "Gümrük representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43593-bessent-says-tariffs-will-rise-to-15-this-week
 newsSequence: 43593
 author: Sedat Onat

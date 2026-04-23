@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2023/11/03/MAERSK-SHIPPING-iStock--Marina113--1414339712.jpg
-imageAlt: "Açık denizde seyrüsefer halinde olan mavi gövdeli Maersk konteyner gemisi"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Maersk_Group_Logo.svg?width=640
+imageAlt: "Maersk Group logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43193-maersk-makes-another-voyage-through-red-sea-in-test-of-safety
 newsSequence: 43193
 author: Sedat Onat

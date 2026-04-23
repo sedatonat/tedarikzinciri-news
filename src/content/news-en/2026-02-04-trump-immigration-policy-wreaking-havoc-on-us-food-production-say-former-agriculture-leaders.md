@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Envanter
   - Lojistik
-image: https://www.supplychainbrain.com/ext/resources/2025/07/13/IMMIGRANT-LABOR-FARM-WORKERS-CALIFORNIA-iStock-NNehring-157189463.jpg
-imageAlt: "Farm workers harvesting yellow peppers in California"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Field_with_corn.jpg?width=640
+imageAlt: "Tarım representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43404-trump-immigration-policy-wreaking-havoc-on-us-food-production-say-former-agriculture-leaders
 newsSequence: 43404
 author: Sedat Onat

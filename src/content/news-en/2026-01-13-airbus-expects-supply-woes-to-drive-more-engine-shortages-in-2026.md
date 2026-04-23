@@ -5,8 +5,8 @@ category: Teknoloji
 secondaryCategories:
   - Lojistik
   - Envanter
-image: https://www.supplychainbrain.com/ext/resources/2024/09/03/AIRBUS-A350-PLANE-iStock-Matthieu-Douhaire-1977549461.jpg
-imageAlt: "Airbus A350 taxiing at Charles de Gaulle Airport"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Airbus_Logo_2017.svg?width=640
+imageAlt: "Airbus logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43191-airbus-expects-supply-woes-to-drive-more-engine-shortages-in-2026
 newsSequence: 43191
 author: Sedat Onat

@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2026/01/08/IKEA-STORE-iStock-ermingut-458414901.jpg
-imageAlt: "IKEA mağazasının önündeki sarı-mavi cephe ve otopark görüntüsü"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Ikea_logo.svg?width=640
+imageAlt: "IKEA logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43097-ikeas-retailer-uses-innovative-approach-to-reducing-transport-emissions
 newsSequence: 43097
 author: Sedat Onat

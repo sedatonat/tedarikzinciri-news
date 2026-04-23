@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2025/04/10/eggs-grocery-store-iStock-1073140210.jpg
-imageAlt: "Egg production and supermarket shelf view"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Brown_eggs.jpg?width=640
+imageAlt: "Yumurta representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43785-us-egg-prices-on-the-decline-ahead-of-easter-holiday
 newsSequence: 43785
 author: Sedat Onat

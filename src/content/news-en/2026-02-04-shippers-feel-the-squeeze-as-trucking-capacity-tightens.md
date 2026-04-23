@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2025/09/17/WALMART-TRUCK-iStock-WendellandCarolyn-458961503.jpg
-imageAlt: "Heavy-duty U.S. tractor-trailer hauling freight along the highway"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Volvo_FH16_750_Globetrotter_XL.jpg?width=640
+imageAlt: "Kamyon / TIR representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43409-shippers-feel-the-squeeze-as-trucking-capacity-tightens
 newsSequence: 43409
 author: Sedat Onat

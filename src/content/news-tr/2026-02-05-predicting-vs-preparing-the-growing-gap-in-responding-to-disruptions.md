@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Lojistik
-image: https://www.supplychainbrain.com/ext/resources/2026/02/04/supply-chain-orchestration-artificial-intelligence-iStock-2200526237.jpg
-imageAlt: "Tedarik zinciri kontrol odasında veri ekranları"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Container_ship_at_terminal.jpg?width=640
+imageAlt: "Tedarik zinciri temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43416-predicting-vs-preparing-the-growing-gap-in-responding-to-disruptions
 newsSequence: 43416
 author: Sedat Onat

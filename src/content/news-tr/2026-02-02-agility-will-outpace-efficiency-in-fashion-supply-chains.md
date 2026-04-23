@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Satınalma
-image: https://www.supplychainbrain.com/ext/resources/2025/11/20/FASHION-IMPORTER-IMPORT-TARIFF-CUSTOMS-iStock-filadendron-510170394.jpg
-imageAlt: "Moda perakende deposu ve giyim ürünleri akışı"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Fashion_design_studio.jpg?width=640
+imageAlt: "Moda / tekstil temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43226-agility-will-outpace-efficiency-in-fashion-supply-chains
 newsSequence: 43226
 author: Sedat Onat

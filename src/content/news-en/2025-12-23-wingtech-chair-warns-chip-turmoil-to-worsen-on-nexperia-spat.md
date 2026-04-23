@@ -4,8 +4,8 @@ date: '2025-12-23T09:00:00Z'
 category: Teknoloji
 secondaryCategories:
   - Tedarik Zinciri
-image: https://www.supplychainbrain.com/ext/resources/2025/12/22/wingtech-chipmaker-bloomberg-446661022.jpg
-imageAlt: "Wingtech Technology semiconductor production facility and chip manufacturing line"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Wingtech_logo.png?width=640
+imageAlt: "Wingtech logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43036-wingtech-chair-warns-chip-turmoil-to-worsen-on-nexperia-spat
 newsSequence: 43036
 author: Sedat Onat

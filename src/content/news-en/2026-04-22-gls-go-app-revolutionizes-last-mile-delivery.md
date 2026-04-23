@@ -2,8 +2,8 @@
 title: "Our GLS Go! App Revolutionizes Last-Mile Delivery With Smart Sustainable Solutions"
 date: "2026-04-23T00:01:30Z"
 category: "Lojistik"
-image: "https://www.supplychainbrain.com/ext/resources/2025/06/13/GLS-FEATURED-PRODUCT.webp"
-imageAlt: "GLS Featured Product image"
+image: "https://en.wikipedia.org/wiki/Special:FilePath/GLS_Logo_2021.svg?width=640"
+imageAlt: "GLS Group logo"
 sourceUrl: "https://www.supplychainbrain.com/articles/41790-our-gls-go-app-revolutionizes-last-mile-delivery-with-smart-sustainable-solutions"
 newsSequence: 41790
 author: "Sedat Onat"

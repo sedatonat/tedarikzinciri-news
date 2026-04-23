@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Lojistik
-image: https://www.supplychainbrain.com/ext/resources/2026/02/23/rare-earth-minerals-united-states-china-iStock-2253927248.jpg
-imageAlt: "Nadir toprak madenciliği ve mıknatıs üretimi görseli"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Rare_Earth_Oxides.jpg?width=640
+imageAlt: "Nadir toprak elementleri temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43828-the-struggle-to-diversify-rare-earth-supply-chains
 newsSequence: 43828
 author: Sedat Onat

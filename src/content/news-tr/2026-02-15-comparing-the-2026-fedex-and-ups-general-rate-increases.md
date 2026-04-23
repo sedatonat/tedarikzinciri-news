@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2026/02/10/020326_Supply-Chain-Brain-595x841.jpg
-imageAlt: "2026 FedEx ve UPS genel tarife artışlarını karşılaştırmakta olan rapor kapağı"
+image: https://en.wikipedia.org/wiki/Special:FilePath/FedEx_Express.svg?width=640
+imageAlt: "FedEx logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43453-comparing-the-2026-fedex-and-ups-general-rate-increases
 newsSequence: 43453
 author: Sedat Onat

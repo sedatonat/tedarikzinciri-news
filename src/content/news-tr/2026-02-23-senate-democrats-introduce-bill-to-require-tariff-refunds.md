@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2025/04/03/WASHINGTON-DC-MONEY-COSTS-TARIFFS-TRADE-WAR-iStock-Douglas-Rissing-2201098032.jpg
-imageAlt: "ABD Senato kürsüsünde tarife yasası tartışması"
+image: https://en.wikipedia.org/wiki/Special:FilePath/U.S._Customs_and_Border_Protection_inspect_imports.jpg?width=640
+imageAlt: "Gümrük temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43520-senate-democrats-introduce-bill-to-require-tariff-refunds
 newsSequence: 43520
 author: Sedat Onat

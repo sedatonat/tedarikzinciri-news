@@ -5,8 +5,8 @@ category: Teknoloji
 secondaryCategories:
   - Tedarik Zinciri
   - Lojistik
-image: https://www.supplychainbrain.com/ext/resources/2026/04/16/tsmc-taiwan-chipmaker-iStock-1402088635.jpg
-imageAlt: "TSMC Taiwan chipmaker facility"
+image: https://en.wikipedia.org/wiki/Special:FilePath/TSMC.svg?width=640
+imageAlt: "TSMC logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43874-tsmc-sees-58-boost-to-profits-in-q1-of-2026
 newsSequence: 43874
 author: Sedat Onat

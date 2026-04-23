@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2026/03/29/US-FARMERS-SUBSIDIES-BLOOMBERG.jpg
-imageAlt: "Workers pushing carts with freshly picked chard at a farm in Maryland"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Field_with_corn.jpg?width=640
+imageAlt: "Tarım representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43747-trump-unveils-new-loan-guarantees-for-beleaguered-farmers
 newsSequence: 43747
 author: Sedat Onat

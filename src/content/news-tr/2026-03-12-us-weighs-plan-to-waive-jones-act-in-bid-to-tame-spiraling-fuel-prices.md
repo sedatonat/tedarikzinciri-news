@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2026/03/12/us-port-bloomberg-451344739.jpg
-imageAlt: "ABD limanında yakıt tankerleri"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Container_ship_at_terminal.jpg?width=640
+imageAlt: "Tedarik zinciri temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43647-us-weighs-plan-to-waive-jones-act-in-bid-to-tame-spiraling-fuel-prices
 newsSequence: 43647
 author: Sedat Onat

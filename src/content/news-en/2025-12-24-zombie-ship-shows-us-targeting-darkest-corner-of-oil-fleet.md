@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2025/12/24/SHADOW-TANKER-VENEZUELA-BLOOMBERG.png
-imageAlt: "Shadow fleet tanker off the coast of Venezuela"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Crude_oil_tanker_AbQaiq.jpg?width=640
+imageAlt: "Petrol tankeri representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43047-zombie-ship-shows-us-targeting-darkest-corner-of-oil-fleet
 newsSequence: 43047
 author: Sedat Onat

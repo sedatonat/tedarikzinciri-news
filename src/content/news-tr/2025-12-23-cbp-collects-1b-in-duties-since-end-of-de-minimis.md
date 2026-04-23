@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2025/10/20/US-CUSTOMS-AND-BORDER-PROTECTION-INSIGNIA-iStock-Douglas-Rissing-2157103167.jpg
-imageAlt: "ABD Gümrük ve Sınır Koruma rozeti"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Seal_of_United_States_Customs_and_Border_Protection.svg?width=640
+imageAlt: "US CBP seal"
 sourceUrl: https://www.supplychainbrain.com/articles/43038-cbp-collects-1b-in-duties-since-end-of-de-minimis
 newsSequence: 43038
 author: Sedat Onat

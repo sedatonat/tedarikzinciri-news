@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Satınalma
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2023/01/31/PAYMENT-ELECTRONIC-iStock-AntonioSolano-1358389594.jpg
-imageAlt: "Elektronik ödeme şeffaflığı"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Container_terminal_with_cranes.jpg?width=640
+imageAlt: "Tedarik zinciri temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43249-payment-transparency-in-your-supply-chains-is-as-critical-as-ever
 newsSequence: 43249
 author: Sedat Onat

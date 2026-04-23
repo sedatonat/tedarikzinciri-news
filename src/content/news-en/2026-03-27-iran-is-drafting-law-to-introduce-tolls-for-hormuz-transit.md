@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2026/03/24/SHIP-IN-STRAIT-OF-HORMUZ-BLOOMBERG.jpg
-imageAlt: "Cargo ship in the Strait of Hormuz"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Oil_pumpjack.jpg?width=640
+imageAlt: "Petrol representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43739-iran-is-drafting-law-to-introduce-tolls-for-hormuz-transit
 newsSequence: 43739
 author: Sedat Onat

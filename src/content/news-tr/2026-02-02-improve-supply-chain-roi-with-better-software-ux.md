@@ -5,8 +5,8 @@ category: Teknoloji
 secondaryCategories:
   - Tedarik Zinciri
   - Lojistik
-image: https://www.supplychainbrain.com/ext/resources/2025/10/24/DISAPPOINTMENT-FRUSTRATION-ANXIETY-iStock-PeopleImages-936117884.jpg
-imageAlt: "Yazılım kullanırken hayal kırıklığı yaşamakta olan tedarik zinciri çalışanı"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Container_terminal_with_cranes.jpg?width=640
+imageAlt: "Tedarik zinciri temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43247-improve-supply-chain-roi-with-better-software-ux
 newsSequence: 43247
 author: Sedat Onat

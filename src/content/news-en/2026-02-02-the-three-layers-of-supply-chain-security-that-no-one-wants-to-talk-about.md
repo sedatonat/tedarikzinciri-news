@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Lojistik
-image: https://www.supplychainbrain.com/ext/resources/2025/12/05/CYBER-ATTACK-SECURITY-HACKING-RISK-iStock-dem10-1569506045.jpg
-imageAlt: "Conceptual image of supply chain security controls"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Container_ship_at_terminal.jpg?width=640
+imageAlt: "Supply chain representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43302-the-three-layers-of-supply-chain-security-that-no-one-wants-to-talk-about
 newsSequence: 43302
 author: Sedat Onat

@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2026/01/06/japan-china-trade-iStock-1442749116.jpg
-imageAlt: "Chinese export operations at a container port facility"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Container_ship_at_terminal.jpg?width=640
+imageAlt: "Supply chain representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43083-china-bans-dual-use-item-exports-to-japan
 newsSequence: 43083
 author: Sedat Onat

@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Satınalma
   - Lojistik
-image: https://www.supplychainbrain.com/ext/resources/2026/03/24/COPYRIGHT-INTELLECTUAL-PROPERTY-PATENT-iStock-da-kuk-2196156746.jpg
-imageAlt: "Intellectual property patent file and copyright documentation"
+image: https://en.wikipedia.org/wiki/Special:FilePath/U.S._Customs_and_Border_Protection_inspect_imports.jpg?width=640
+imageAlt: "Gümrük representative image"
 sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/43716-beyond-tariffs-why-chinese-patents-have-become-supply-chain-assets
 newsSequence: 43716
 author: Sedat Onat

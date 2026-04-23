@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Lojistik
-image: https://www.supplychainbrain.com/ext/resources/2026/03/05/CHINA-MINING-EXPORTS-BLOOMBERG.jpg
-imageAlt: "China rare earth mining"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Rare_Earth_Oxides.jpg?width=640
+imageAlt: "Nadir toprak elementleri representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43595-china-prioritizes-rare-earths-robotics-in-manufacturing-agenda
 newsSequence: 43595
 author: Sedat Onat

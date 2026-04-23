@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Satınalma
-image: https://www.supplychainbrain.com/ext/resources/2026/02/04/Tire.png
-imageAlt: "Otomotiv lastiği üretim hattı ve hammadde bileşenleri"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Tires_pile.jpg?width=640
+imageAlt: "Lastik temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/43418-navigating-volatility-and-resilience-in-the-tire-supply-chain
 newsSequence: 43418
 author: Sedat Onat

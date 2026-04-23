@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Envanter
-image: https://www.supplychainbrain.com/ext/resources/2025/02/21/ORCHESTRA-ORCHESTRATION-iStock-jeancliclac-139960732.jpg
-imageAlt: "Bir orkestrayı yönetmekte olan şefin elindeki şef değneği"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Container_terminal_with_cranes.jpg?width=640
+imageAlt: "Tedarik zinciri temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43225-the-missing-orchestration-link-between-planning-and-performance
 newsSequence: 43225
 author: Sedat Onat

@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2026/01/27/india-european-unon-iStock-914754038.jpg
-imageAlt: "India and EU flags side by side representing the trade pact"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Container_ship_at_terminal.jpg?width=640
+imageAlt: "Supply chain representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43350-india-and-eu-reach-mother-of-all-deals-with-free-trade-pact
 newsSequence: 43350
 author: Sedat Onat

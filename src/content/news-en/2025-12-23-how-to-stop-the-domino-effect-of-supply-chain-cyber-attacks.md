@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Satınalma
-image: https://www.supplychainbrain.com/ext/resources/2025/07/24/MARITIME-CYBERSECURITY-DATA-NETWORK-PORT-iStock-metamorworks-1408189762.jpg
-imageAlt: "Maritime cybersecurity data network at a port"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Computer_keyboard_lit_red.jpg?width=640
+imageAlt: "Siber güvenlik representative image"
 sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/42981-how-to-stop-the-domino-effect-of-supply-chain-cyber-attacks
 newsSequence: 42981
 author: Sedat Onat

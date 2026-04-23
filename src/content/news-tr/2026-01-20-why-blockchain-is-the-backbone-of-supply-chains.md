@@ -5,8 +5,8 @@ category: Teknoloji
 secondaryCategories:
   - Tedarik Zinciri
   - Lojistik
-image: https://www.supplychainbrain.com/ext/resources/2026/01/09/BLOCKCHAIN-iStock-basiczto-1571784137.jpg
-imageAlt: "Tedarik zinciri için blok zinciri kavramı"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Blockchain_concept.jpg?width=640
+imageAlt: "Blok zinciri temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43162-why-blockchain-is-the-backbone-of-supply-chains
 newsSequence: 43162
 author: Sedat Onat

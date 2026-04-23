@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Envanter
   - Lojistik
-image: https://www.supplychainbrain.com/ext/resources/2026/02/16/CHINA-AFRICA-TRADE-iStock-Anastasiia_Guseva-1225776132.jpg
-imageAlt: "Çin Afrika ticaret ortaklığı"
+image: https://en.wikipedia.org/wiki/Special:FilePath/U.S._Customs_and_Border_Protection_inspect_imports.jpg?width=640
+imageAlt: "Gümrük temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43483-china-to-grant-zerotariff-access-to-53-african-nations-from-may
 newsSequence: 43483
 author: Sedat Onat

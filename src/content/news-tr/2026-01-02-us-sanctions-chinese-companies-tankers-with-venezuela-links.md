@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2022/11/29/PDVSA-VENEZUELA-OIL-iStock-Wirestock-1443187155.jpg
-imageAlt: "Venezuela petrol tesisi"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Crude_oil_tanker_AbQaiq.jpg?width=640
+imageAlt: "Petrol tankeri temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43067-us-sanctions-chinese-companies-tankers-with-venezuela-links
 newsSequence: 43067
 author: Sedat Onat

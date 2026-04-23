@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2023/11/01/HANDSHAKE-BUSINESS-CONTRACT-VENDOR-iStock-38359-1474838897.jpg
-imageAlt: "Lojistik profesyonelleri yeni bir okyanus taşımacılığı sözleşmesi imzalamakta"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Container_ship_at_terminal.jpg?width=640
+imageAlt: "Tedarik zinciri temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43305-how-logistics-pros-should-prepare-to-build-ocean-stability
 newsSequence: 43305
 author: Sedat Onat

@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2023/05/25/CAR-MANUFACTURING-iStock--Traimak_Ivan--1069360792.jpg
-imageAlt: "Automobile production line"
+image: https://en.wikipedia.org/wiki/Special:FilePath/U.S._Customs_and_Border_Protection_inspect_imports.jpg?width=640
+imageAlt: "Gümrük representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43432-canada-to-revamp-tariffs-to-keep-auto-plants-trump-covets
 newsSequence: 43432
 author: Sedat Onat

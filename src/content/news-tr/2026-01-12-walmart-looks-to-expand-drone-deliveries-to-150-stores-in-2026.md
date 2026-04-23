@@ -5,8 +5,8 @@ category: Teknoloji
 secondaryCategories:
   - Tedarik Zinciri
   - Lojistik
-image: https://www.supplychainbrain.com/ext/resources/2024/06/10/delivery-drone-iStock-1155027994.jpg
-imageAlt: "Walmart ve Wing son mil teslimatı için drone uçuş hazırlığı"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Walmart_logo.svg?width=640
+imageAlt: "Walmart logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43185-walmart-looks-to-expand-drone-deliveries-to-150-stores-in-2026
 newsSequence: 43185
 author: Sedat Onat

@@ -5,8 +5,8 @@ category: Satınalma
 secondaryCategories:
   - Tedarik Zinciri
   - Lojistik
-image: https://www.supplychainbrain.com/ext/resources/2025/12/30/T-SHIRT-TEE-SHIRT-iStock-Radionphoto-685889060.jpg
-imageAlt: "Cotton T-shirt illustrating customs HS code classification decision-making"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048.jpg?width=640
+imageAlt: "Yapay zeka representative image"
 sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/43059-why-customs-classification-is-broken-and-how-ai-can-fix-it
 newsSequence: 43059
 author: Sedat Onat

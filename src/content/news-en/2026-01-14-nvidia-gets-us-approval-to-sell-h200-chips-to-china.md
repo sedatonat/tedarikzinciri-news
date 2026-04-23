@@ -5,8 +5,8 @@ category: Teknoloji
 secondaryCategories:
   - Tedarik Zinciri
   - Lojistik
-image: https://www.supplychainbrain.com/ext/resources/2026/01/07/NVIDIA-CHIP-iStock-Antonio-Bordunovi-1141488976.jpg
-imageAlt: "Nvidia chip close-up"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Nvidia_logo.svg?width=640
+imageAlt: "NVIDIA logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43211-nvidia-gets-us-approval-to-sell-h200-chips-to-china
 newsSequence: 43211
 author: Sedat Onat

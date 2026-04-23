@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2025/02/05/panama-canal-iStock-2025570424.jpg
-imageAlt: "Vessels queued at the Panama Canal transit zone"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Panama_Canal_Gatun_Locks_opening.jpg?width=640
+imageAlt: "Panama Kanalı representative image"
 sourceUrl: https://www.supplychainbrain.com/articles/43877-panama-canal-traffic-jam-spurs-4m-line-jumping-payment
 newsSequence: 43877
 author: Sedat Onat

@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2024/11/21/undersea-fiber-optic-cables-iStock-1362710800.jpg
-imageAlt: "Baltık Denizi&rsquo;nde devriye gezmekta deniz aracı"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Submarine_cable_repair.jpg?width=640
+imageAlt: "Denizaltı kablo temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/articles/43063-finnish-authorities-seize-ship-suspected-of-sabotaging-underwater-cables
 newsSequence: 43063
 author: Sedat Onat

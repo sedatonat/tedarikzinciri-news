@@ -5,8 +5,8 @@ category: Teknoloji
 secondaryCategories:
   - Lojistik
   - Tedarik Zinciri
-image: https://www.supplychainbrain.com/ext/resources/2023/10/19/AMAZON-DRONE-2022-AMAZON.jpg
-imageAlt: "Amazon'un MK27-2 model teslimat drone'u havada uçmakta"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Seal_of_the_United_States_Federal_Communications_Commission.svg?width=640
+imageAlt: "US FCC seal"
 sourceUrl: https://www.supplychainbrain.com/articles/43039-fcc-bans-importing-of-new-foreign-made-drones
 newsSequence: 43039
 author: Sedat Onat

@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2025/02/26/CUSTOMS-INSPECTION-PORT-SHIP-TARIFFS-iStock-SimonSkafar-1401294647.jpg
-imageAlt: "Limanda gümrük denetiminden geçirilmekte olan konteyner gemisi"
+image: https://en.wikipedia.org/wiki/Special:FilePath/U.S._Customs_and_Border_Protection_inspect_imports.jpg?width=640
+imageAlt: "Gümrük temsili görseli"
 sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/43066-cracking-down-on-tariff-evasion-and-customs-fraud
 newsSequence: 43066
 author: Sedat Onat

@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2026/01/06/venezuela-oil-tankers-bloomberg-447156083.jpeg
-imageAlt: "Chevron oil tankers loading in Venezuela"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Chevron_Corporation_-_Logo.svg?width=640
+imageAlt: "Chevron Corporation logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43087-chevron-lines-up-11-ships-as-venezuelas-dark-fleet-vanishes
 newsSequence: 43087
 author: Sedat Onat

@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2024/07/02/offshore-wind-power-turbines-iStock-1460136934.jpg
-imageAlt: "Offshore wind turbines lined up across an open ocean"
+image: https://en.wikipedia.org/wiki/Special:FilePath/%C3%98rsted_logo.svg?width=640
+imageAlt: "Ørsted logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43074-danish-developer-sues-trump-admin-over-wind-farm-work-stoppage
 newsSequence: 43074
 author: Sedat Onat

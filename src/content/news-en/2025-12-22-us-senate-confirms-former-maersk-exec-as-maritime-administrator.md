@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://www.supplychainbrain.com/ext/resources/2024/09/23/port-of-charleston-iStock-501884660.jpg
-imageAlt: "Container ships and harbor cranes at the Port of Charleston"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Maersk_Group_Logo.svg?width=640
+imageAlt: "Maersk Group logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43032-us-senate-confirms-former-maersk-exec-as-maritime-administrator
 newsSequence: 43032
 author: Sedat Onat
