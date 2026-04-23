@@ -19,70 +19,70 @@ tags:
 - emisyon düzenlemeleri
 - denizcilik
 ---
-<p style="text-align: justify"><strong>Küresel konteyner filosu</strong>, son yılların en ciddi <strong>geri dönüşüm (recycling) tıkanıklığıyla</strong> karşı karşıya.<br>
- <strong>BIMCO</strong> tarafından yapılan son analize göre, <strong>en az 500 gemi ve toplam 1,8 milyon TEU’luk kapasite</strong>, geri dönüşüm yaşını çoktan aşmasına rağmen hâlâ aktif ticari faaliyet gösteriyor.</p>
+<p style="text-align: justify"><strong>Küresel konteyner filosu</strong>; son yılların en ciddi <strong>geri dönüşüm (recycling) tıkanıklığıyla</strong> yüz yüze.<br>
+ <strong>BIMCO</strong> tarafından yapılan son analize göre; <strong>en az 500 gemi ve toplam 1,8 milyon TEU’luk kapasite</strong>, geri dönüşüm yaşını çoktan geçmesine karşın hâlâ aktif ticari faaliyet sürdürüyor.</p>
 <p><br>
-Bu durum, <strong>filonun yaş ortalamasını yükseltirken</strong>, önümüzdeki yıllarda <strong>yenileme ve hurdaya çıkarma (demolition)</strong> süreçlerinde büyük bir yığılmaya işaret ediyor.</p>
+Bu tablo; <strong>filonun yaş ortalamasını yukarı iterken</strong>, önümüzdeki yıllarda <strong>yenileme ve hurdaya çıkarma (demolition)</strong> süreçlerinde büyük bir yığılmayı haber veriyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Geri Dönüşüm Faaliyetleri 2021’den Bu Yana Düşüşte</strong></h5>
-<p style="text-align: justify">2025 yılı itibarıyla <strong>sadece 10 konteyner gemisi geri dönüştürüldü</strong>. Bu rakam, 2021’den bu yana süren <strong>düşük hurdaya çıkarma temposunun</strong> devam ettiğini gösteriyor.<br>
+<p style="text-align: justify">Sektör 2025 yılı itibarıyla <strong>sadece 10 konteyner gemisini geri dönüştürdü</strong>. Bu rakam; 2021’den bu yana süren <strong>düşük hurdaya çıkarma temposunun</strong> hâlâ sürdüğünü kanıtlıyor.<br>
 </p>
-<p><strong>20 yaş ve üzerindeki gemilerin oranı</strong>, 2020 başındaki <strong>%16 seviyesinden %24’e</strong> yükselerek <strong>1970’lerin başından bu yana en yüksek seviyeye</strong> ulaştı.</p>
+<p><strong>20 yaş ve üzerindeki gemilerin oranı</strong>; 2020 başındaki <strong>%16 seviyesinden %24’e</strong> tırmanarak <strong>1970’lerin başından bu yana en yüksek seviyeye</strong> ulaştı.</p>
 <p><br></p>
-<p style="text-align: justify"><strong>BIMCO Baş Analisti Niels Rasmussen</strong>, bu tabloyu şöyle özetliyor:</p>
+<p style="text-align: justify"><strong>BIMCO Baş Analisti Niels Rasmussen</strong>; bu tabloyu şöyle özetliyor:</p>
 <blockquote style="text-align: justify">“2000–2019 arasındaki ortalama geri dönüşüm eğilimlerine göre, mevcut minimum geri dönüşüm birikimi 500 gemi ve 1,8 milyon TEU civarında. O dönem, güçlü piyasalarda düşük geri dönüşüm ve zayıf piyasalarda artan hurdaya çıkarma arasında dengeyi temsil ediyor.”</blockquote>
 <blockquote><br></blockquote>
 <p style="text-align: justify">Verilere göre, 2000–2019 döneminde:</p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Gemilerin <strong>%20’si 20 yaşına gelmeden</strong>,</p></li>
-  <li style="text-align: justify"><p style="text-align: justify"><strong>%53’ü ise 25 yaşına gelmeden</strong> geri dönüştürülmekteydi.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify"><strong>%53’ü ise 25 yaşına gelmeden</strong> geri dönüşüm hattına giriyordu.</p></li>
 </ul>
-<p style="text-align: justify">Bugünkü oranlar, bu eğilimin <strong>tersine döndüğünü</strong> gösteriyor.</p>
+<p style="text-align: justify">Bugünkü oranlar; bu eğilimin <strong>tersine döndüğünü</strong> kanıtlıyor.</p>
 <p><br></p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Gerçek Geri Dönüşüm Açığı Daha da Büyük Olabilir</strong></h5>
-<p style="text-align: justify">BIMCO analizine göre <strong>gerçek geri dönüşüm fazlası (recycling overhang)</strong>, belirtilenden çok daha yüksek olabilir. Eğer 2010’lardaki <strong>düşük piyasa koşulları</strong> temel alınırsa, toplam geri dönüşüm potansiyelinin <strong>850 gemi ve 3,1 milyon TEU’ya</strong> kadar çıkabileceği tahmin ediliyor.</p>
+<p style="text-align: justify">BIMCO analizine göre <strong>gerçek geri dönüşüm fazlası (recycling overhang)</strong>; belirtilen rakamın çok daha üzerine çıkabilir. 2010’lardaki <strong>düşük piyasa koşulları</strong> temel alındığında; toplam geri dönüşüm potansiyelinin <strong>850 gemi ve 3,1 milyon TEU’ya</strong> kadar tırmanabileceği tahmin ediliyor.</p>
 <p style="text-align: justify"><br></p>
-<p>Bu artışın arkasında üç temel dinamik bulunuyor:</p>
+<p>Bu artışın arkasında üç temel dinamik yatıyor:</p>
 <ol>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Yeni siparişlerdeki (order book) yüksek hacim</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Süveyş Kanalı’ndaki olası rota değişiklikleri</strong>,</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Yeni verimlilik ve emisyon düzenlemeleri</strong> (örneğin EEXI ve CII standartları).</p></li>
 </ol>
-<p style="text-align: justify">Bu faktörler, yaşlı gemilerin piyasadan daha hızlı çekilmesine neden olabilir.</p>
+<p style="text-align: justify">Bu faktörler; yaşlı gemilerin piyasadan daha hızlı çekilmesine kapı aralayabilir.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Geri Dönüşüm Birikimi: Yıllarca Sürecek Bir Temizlik</strong></h5>
-<p style="text-align: justify">Geri dönüşümdeki mevcut yığılmanın <strong>tamamen temizlenmesi yıllar alacak.&nbsp;</strong></p>
+<p style="text-align: justify">Geri dönüşümdeki mevcut yığılmanın <strong>tamamen eritilmesi yıllar sürecek.&nbsp;</strong></p>
 <p><br>
-Tarihsel olarak <strong>en yüksek geri dönüşüm yılı 2016</strong> olmuştu:<br>
-O yıl <strong>185 gemi ve 0,6 milyon TEU’luk kapasite</strong> hurdaya ayrıldı.</p>
+Tarihsel olarak <strong>en yüksek geri dönüşüm yılı 2016</strong> olarak kayıtlara geçti:<br>
+Sektör o yıl <strong>185 gemi ve 0,6 milyon TEU’luk kapasiteyi</strong> hurdaya ayırdı.</p>
 <p style="text-align: justify"><br></p>
-<p>Bu referansla, <strong>mevcut 1,8 milyon TEU’luk fazlanın</strong> temizlenmesinin <strong>en az üç ila dört yıl</strong> sürebileceği öngörülüyor.</p>
+<p>Uzmanlar bu referansla; <strong>mevcut 1,8 milyon TEU’luk fazlanın</strong> eritilmesinin <strong>en az üç ila dört yıl</strong> sürebileceğini öngörüyor.</p>
 <p><br>
-BIMCO’ya göre, bu süreçte <strong>küçük tonajlı gemiler (8.000 TEU altı)</strong> daha fazla etkilenecek, çünkü yeni büyük tonajlı gemiler devreye girdikçe <strong>kapasite kademelenmesi (cascading)</strong> hızlanacak.</p>
+BIMCO’ya göre; bu süreçte <strong>küçük tonajlı gemiler (8.000 TEU altı)</strong> daha ağır darbe alacak, çünkü yeni büyük tonajlı gemiler devreye girdikçe <strong>kapasite kademelenmesi (cascading)</strong> hızlanacak.</p>
 <p><br></p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Alphaliner: Piyasa Henüz Hurda Fiyatlarını Desteklemiyor</strong></h5>
-<p style="text-align: justify"><strong>Alphaliner</strong>, BIMCO’nun analizine paralel olarak yaptığı değerlendirmede, <strong>taşıma ücretlerindeki düşüş</strong> henüz <strong>geri dönüşüm piyasasını hareketlendirecek seviyede olmadığını</strong> bildirdi.</p>
+<p style="text-align: justify"><strong>Alphaliner</strong>; BIMCO’nun analizine paralel yaptığı değerlendirmede, <strong>taşıma ücretlerindeki düşüşün</strong> henüz <strong>geri dönüşüm piyasasını hareketlendirecek seviyeye ulaşmadığını</strong> duyurdu.</p>
 <p><br>
-Kâr marjları daralmakla birlikte, birçok armatör <strong>eski gemilerini kullanmaya devam etmeyi</strong> tercih ediyor.<br>
-Yalnızca <strong>navlun gelirlerinin kârlılığı ciddi şekilde düştüğünde</strong> hurdaya çıkışların hızlanacağı tahmin ediliyor.</p>
+Kâr marjları daralsa da birçok armatör; <strong>eski gemilerini kullanmaya devam etmeyi</strong> yeğliyor.<br>
+Uzmanlar; yalnızca <strong>navlun gelirlerinin kârlılığı ciddi biçimde gerilediğinde</strong> hurdaya çıkışların hızlanacağını öngörüyor.</p>
 <p><br></p>
 <h3 style="text-align: justify"><strong>Filo Dinamikleri: Yaşlanan Gemiler, Büyüyen Dev Tonajlar</strong></h3>
-<p style="text-align: justify">Rasmussen’e göre, mevcut tablo <strong>filo büyümesinde bir yön değişikliğine</strong> işaret ediyor:</p>
+<p style="text-align: justify">Rasmussen’e göre mevcut tablo; <strong>filo büyümesinde bir yön değişikliğine</strong> işaret ediyor:</p>
 <blockquote style="text-align: justify">“Geri dönüşüm birikimi, mevcut filonun %6–10’una eşit. Bu oran, 20 yaşın üzerindeki gemilerin %33–55’ine denk geliyor. İlginç olan, bu fazlanın 8.000 TEU altındaki tüm gemi segmentlerinin sipariş defterinden daha büyük olması.”</blockquote>
-<p style="text-align: justify">Bu durum, gelecekte <strong>büyük tonajlı gemilerin filo büyümesini domine edeceğini</strong>, küçük tonajlı gemilerin ise <strong>ikincil rotalara kayacağını</strong> gösteriyor.</p>
+<p style="text-align: justify">Bu tablo; gelecekte <strong>büyük tonajlı gemilerin filo büyümesini domine edeceğini</strong>, küçük tonajlı gemilerin ise <strong>ikincil rotalara kayacağını</strong> gözler önüne seriyor.</p>
 <p><br>
-Sonuç olarak, <strong>küresel konteyner taşımacılığı filosu</strong>, giderek daha büyük ve teknolojik olarak ileri gemilerden oluşacak.</p>
+Sonuç olarak <strong>küresel konteyner taşımacılığı filosu</strong>; giderek daha büyük ve teknolojik olarak ileri gemilerden meydana gelecek.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Sonuç: Konteyner Taşımacılığı Yeni Bir Dönüm Noktasında</strong></h5>
-<p style="text-align: justify"><strong>Küresel konteyner filosu</strong>, bugün hem <strong>yaşlı gemi stoğu</strong> hem de <strong>düşük geri dönüşüm oranı</strong> nedeniyle bir <strong>dönüşüm eşiğinde</strong> bulunuyor.</p>
+<p style="text-align: justify"><strong>Küresel konteyner filosu</strong>; bugün hem <strong>yaşlı gemi stoğu</strong> hem de <strong>düşük geri dönüşüm oranı</strong> nedeniyle <strong>dönüşüm eşiğinde</strong> duruyor.</p>
 <p><br>
-Navlun oranlarındaki gerileme ve enerji verimliliği düzenlemeleri, <strong>eski gemilerin ekonomik ömrünü kısaltacak</strong>; bu da 2026–2028 döneminde <strong>geri dönüşüm faaliyetlerinde keskin bir artışa</strong> neden olabilir.</p>
+Navlun oranlarındaki gerileme ve enerji verimliliği düzenlemeleri; <strong>eski gemilerin ekonomik ömrünü kısaltacak</strong> ve 2026–2028 döneminde <strong>geri dönüşüm faaliyetlerinde keskin bir sıçrayışa</strong> yol açabilir.</p>
 <p style="text-align: justify"><br></p>
-<p>Ancak kısa vadede, <strong>taşıyıcıların düşük navlun ortamında maliyetlerini dengeleyebilmek için eski gemileri daha uzun süre kullanması</strong>, geri dönüşüm sürecini geciktirmekte.</p>
+<p>Ancak kısa vadede; <strong>taşıyıcıların düşük navlun ortamında maliyetlerini dengelemek için eski gemileri daha uzun süre kullanması</strong>, geri dönüşüm sürecini yavaşlatıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Yine de, <strong>BIMCO’nun uyarısına göre</strong>, bugünkü 1,8 milyon TEU’luk geri dönüşüm fazlası, <strong>küresel filo büyümesinin sürdürülebilirliği açısından alarm verici</strong> bir tabloyu ortaya koyuyor.</p>
+<p style="text-align: justify">Yine de <strong>BIMCO’nun uyarısına göre</strong>; bugünkü 1,8 milyon TEU’luk geri dönüşüm fazlası, <strong>küresel filo büyümesinin sürdürülebilirliği açısından alarm veren</strong> bir tabloyu gözler önüne seriyor.</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>

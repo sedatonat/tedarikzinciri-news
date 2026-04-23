@@ -19,19 +19,19 @@ tags:
 - deniz güvenliği
 - Hong Kong
 ---
-<p style="text-align: justify">Hong Kong bayraklı konteyner gemisi <strong>ASL Bauhinia</strong>, Kızıldeniz'de seyrederken yangın çıktı. Yangının hızla yayılması üzerine mürettebat, güvenlik gerekçesiyle gemiyi terk etmek zorunda kaldı.</p>
+<p style="text-align: justify">Hong Kong bayraklı konteyner gemisi <strong>ASL Bauhinia</strong>, Kızıldeniz'de seyir hâlindeyken yangınla karşı karşıya kaldı. Yangının hızla yayılması üzerine mürettebat, güvenlik gerekçesiyle gemiyi terk etti.</p>
 <p><br></p>
-<p style="text-align: justify">Olay, denizcilik sektöründe endişe yarattı. Yangının çıkış nedeni henüz bilinmemekte olup, ilgili makamlar tarafından soruşturma başlatıldı. Mürettebatın güvenli bir şekilde tahliye edilmesi, olası can kayıplarının önüne geçti.​</p>
+<p style="text-align: justify">Olay, denizcilik sektöründe endişe yarattı. Yangının çıkış nedeni hâlâ belirsizliğini koruyor; ilgili makamlar soruşturma başlattı. Mürettebatın güvenli şekilde tahliyesi, olası can kayıplarının önüne geçti.​</p>
 <p><br></p>
-<p style="text-align: justify"><strong>ASL Bauhinia</strong>, Hong Kong bayraklı bir konteyner gemisi olarak uluslararası sularda faaliyet gösteriyorydi. Gemi, rutin seferlerinden birini gerçekleştirirken beklenmedik bir şekilde yangınla karşı karşıya kaldı. Mürettebatın hızlı ve etkili müdahalesi sayesinde can kaybı yaşanmadı.</p>
+<p style="text-align: justify"><strong>ASL Bauhinia</strong>, Hong Kong bayraklı bir konteyner gemisi olarak uluslararası sularda faaliyet yürütüyordu. Gemi, rutin seferlerinden birini sürdürürken beklenmedik şekilde yangınla karşılaştı. Mürettebatın hızlı ve etkili müdahalesi sayesinde can kaybı yaşanmadı.</p>
 <p><br></p>
-<p style="text-align: justify">Yangının ardından bölgedeki diğer deniz trafiği uyarıldı ve gerekli önlemler alındı. Yakınlardaki gemiler, <strong>ASL Bauhinia</strong> mürettebatına yardım etmek için seferber oldu. Uluslararası denizcilik kuralları gereği, denizde tehlike altında olan gemilere yardım etmek bir zorunluluktur.​</p>
+<p style="text-align: justify">Yetkililer, yangının ardından bölgedeki diğer deniz trafiğini uyardı ve gerekli önlemleri aldı. Yakınlardaki gemiler, <strong>ASL Bauhinia</strong> mürettebatına yardım için seferber oldu. Uluslararası denizcilik kuralları, denizde tehlike altındaki gemilere yardım etmeyi zorunlu kılıyor.​</p>
 <p><br></p>
-<p style="text-align: justify">Denizcilik uzmanları, bu tür olayların deniz taşımacılığının risklerini bir kez daha gözler önüne serdiğini belirtiyor. Gemi yangınları, hem çevresel hem de ekonomik açıdan ciddi sonuçlar doğurabilir. Bu nedenle, gemi işletmecileri ve mürettebatın yangın güvenliği konusunda sürekli eğitim alması ve gerekli önlemleri alması hayati önem taşıyor.​</p>
+<p style="text-align: justify">Denizcilik uzmanları, bu tür olayların deniz taşımacılığının risklerini bir kez daha gözler önüne serdiğini belirtti. Gemi yangınları, hem çevresel hem de ekonomik açıdan ciddi sonuçlar doğurabilir. Bu nedenle sektör, gemi işletmecileri ve mürettebatın yangın güvenliği konusunda sürekli eğitim almasına ve gerekli önlemleri hayata geçirmesine hayati önem atfediyor.​</p>
 <p><br></p>
-<p style="text-align: justify"><strong>ASL Bauhinia</strong>'nın uğradığı hasarın boyutu ve geminin geleceği hakkında henüz resmi bir açıklama yapılmadı. Sigorta şirketleri ve gemi sahibi firma, olayın maddi boyutunu değerlendirmek için çalışmalara başladı. Ayrıca, çevresel etkilerin minimumda tutulması için de gerekli adımlar atılıyor.​</p>
+<p style="text-align: justify">Yetkililer, <strong>ASL Bauhinia</strong>'nın uğradığı hasarın boyutu ve geminin geleceği hakkında henüz resmi açıklama yapmadı. Sigorta şirketleri ve gemi sahibi firma, olayın maddi boyutunu değerlendirmek için çalışmalara başladı. Ekipler ayrıca, çevresel etkileri minimumda tutmak amacıyla gerekli adımları hayata geçiriyor.​</p>
 <p><br></p>
-<p style="text-align: justify">Bu olay, denizcilik sektöründe güvenlik protokollerinin ve acil durum planlarının ne kadar önemli olduğunu bir kez daha hatırlattı. Mürettebatın soğukkanlılığı ve profesyonelliği sayesinde can kaybı yaşanmaması, bu tür eğitimlerin ne kadar etkili olduğunu gösteriyor.​</p>
+<p style="text-align: justify">Bu olay, denizcilik sektöründe güvenlik protokollerinin ve acil durum planlarının önemini bir kez daha gözler önüne serdi. Mürettebatın soğukkanlılığı ve profesyonelliği sayesinde can kaybının yaşanmaması, bu tür eğitimlerin etkinliğini açıkça ortaya koydu.​</p>
 <p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>

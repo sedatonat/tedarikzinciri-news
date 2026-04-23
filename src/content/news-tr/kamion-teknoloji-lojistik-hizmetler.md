@@ -18,11 +18,11 @@ tags:
 - karbon emisyonu
 - lojistik platformu
 ---
-<p>2020 yılında kurulan Kamion, dijital lojistik platformu olarak sektöre adım atmıştır. Bu platform, teknolojik altyapısıyla kamyon ve yüklerin doğru zaman ve yerde buluşmasını sağlayarak lojistik süreçlerinde verimliliği artırmayı hedefliyordir. Kamion, Vestel ve Pepsico gibi 200'e yakın büyük kurumsal firma ile çalışıyor ve bu firmaların karayolu taşımacılık operasyonlarını yönetiyordir. Platform, yaklaşık 16 bin kamyonu bünyesinde barındırmakta ve yıllık ciroda büyük artışlar kaydetmiştir. 2023 yılı itibarıyla 10 milyon dolar ciro elde eden Kamion, ulusal ve uluslararası alanda lojistik hizmetler sunuyordır.</p>
+<p>Kamion, 2020 yılında dijital lojistik platformu olarak sektöre girdi. Platform, teknolojik altyapısıyla kamyonları ve yükleri doğru zamanda ve yerde buluşturarak lojistik süreçlerinde verimliliği artırmayı hedefliyor. Kamion, Vestel ve Pepsico gibi 200'e yakın büyük kurumsal firmaya hizmet veriyor ve bu firmaların karayolu taşımacılık operasyonlarını yönetiyor. Platform, yaklaşık 16 bin kamyonu bünyesinde barındırıyor ve yıllık ciroda güçlü bir büyüme kaydetti. 2023 yılı itibarıyla 10 milyon dolar ciroya ulaşan Kamion, ulusal ve uluslararası alanda lojistik hizmetler sunuyor.</p>
 <p><br></p>
-<p>Kamion'un teknolojisi, lojistik süreçlerdeki maliyetleri azaltma konusunda önemli bir rol oynuyordır. Berkay Adlim, firmanın kurucusu olarak, lojistik takımlarının karmaşıklığı ve yönetilmesi gereken maliyetler hakkında bilgi vermiş ve Kamion teknolojisinin bu maliyetleri yarı yarıya düşürdüğünü belirtmiştir. Adlim ayrıca, Türkiye'de boş sefer yapan kamyonların ekonomiye ve çevreye olan olumsuz etkilerine dikkat çekmiş, Kamion'un bu sorunu azaltma konusunda nasıl bir yol izlediğini açıklamıştır.</p>
+<p>Kamion'un teknolojisi, lojistik süreçlerdeki maliyetleri azaltma konusunda kritik bir rol üstleniyor. Firmanın kurucusu Berkay Adlim, lojistik takımlarının karmaşıklığını ve yönetilmesi gereken maliyet kalemlerini aktardı; Kamion teknolojisinin bu maliyetleri yarı yarıya düşürdüğünü belirtti. Adlim ayrıca Türkiye'de boş sefer yapan kamyonların ekonomiye ve çevreye yarattığı olumsuz etkilere dikkat çekti; Kamion'un bu sorunu azaltmak için izlediği yolu açıkladı.</p>
 <p><br></p>
-<p>Kamion aynı zamanda, karbon emisyonlarını ölçme ve azaltma hizmetleri sunmayı planlıyor, kamyon sahiplerine tedarik hizmetleri sağlamak ve globalleşme adımları atmak için hazırlıklar yapıyordır. Firmanın gelecek planları arasında Doğu Avrupa ve ABD pazarlarına açılma hedefleri bulunuyordır.</p>
+<p>Kamion, karbon emisyonlarını ölçme ve azaltma hizmetleri sunmayı da planlıyor; kamyon sahiplerine tedarik hizmetleri sağlamak ve küreselleşme adımları atmak için hazırlık yürütüyor. Firma, gelecek planları arasında Doğu Avrupa ve ABD pazarlarına açılmayı hedefliyor.</p>
 <p><br></p>
 <p><br></p>
 <h5>Önemli Notlar</h5>
