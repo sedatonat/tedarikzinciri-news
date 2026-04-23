@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/U.S._Customs_and_Border_Protection_inspect_imports.jpg?width=640
-imageAlt: "Gümrük representative image"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Seal_of_the_U.S._Immigration_and_Customs_Enforcement.svg?width=640
+imageAlt: "U.S. ICE seal"
 sourceUrl: https://www.supplychainbrain.com/articles/43432-canada-to-revamp-tariffs-to-keep-auto-plants-trump-covets
 newsSequence: 43432
 author: Sedat Onat

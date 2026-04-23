@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/Crude_oil_tanker_AbQaiq.jpg?width=640
-imageAlt: "Petrol tankeri temsili görseli"
+image: https://en.wikipedia.org/wiki/Special:FilePath/CSCL_Globe_arriving_at_Felixstowe%2C_United_Kingdom.jpg?width=640
+imageAlt: "Konteyner gemisi temsili görsel"
 sourceUrl: https://www.supplychainbrain.com/articles/43067-us-sanctions-chinese-companies-tankers-with-venezuela-links
 newsSequence: 43067
 author: Sedat Onat

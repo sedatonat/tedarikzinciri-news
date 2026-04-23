@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Satınalma
-image: https://en.wikipedia.org/wiki/Special:FilePath/Tires_pile.jpg?width=640
-imageAlt: "Lastik representative image"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Ford_logo_flat.svg?width=640
+imageAlt: "Ford logo"
 sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/43418-navigating-volatility-and-resilience-in-the-tire-supply-chain
 newsSequence: 43418
 author: Sedat Onat

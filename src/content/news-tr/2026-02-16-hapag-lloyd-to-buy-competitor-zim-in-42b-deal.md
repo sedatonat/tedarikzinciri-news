@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/Hapag-Lloyd_logo.svg?width=640
-imageAlt: "Hapag-Lloyd logo"
+image: https://en.wikipedia.org/wiki/Special:FilePath/CSCL_Globe_arriving_at_Felixstowe%2C_United_Kingdom.jpg?width=640
+imageAlt: "Konteyner gemisi temsili görsel"
 sourceUrl: https://www.supplychainbrain.com/articles/43484-hapag-lloyd-to-buy-competitor-zim-in-42b-deal
 newsSequence: 43484
 author: Sedat Onat

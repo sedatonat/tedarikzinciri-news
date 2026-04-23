@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/BNSF_Railway_Logo.svg?width=640
-imageAlt: "BNSF Railway logo"
+image: https://en.wikipedia.org/wiki/Special:FilePath/CSCL_Globe_arriving_at_Felixstowe%2C_United_Kingdom.jpg?width=640
+imageAlt: "Konteyner gemisi temsili görsel"
 sourceUrl: https://www.supplychainbrain.com/articles/43242-berkshire-backed-bnsf-says-rail-mega-merger-risks-price-increases
 newsSequence: 43242
 author: Sedat Onat

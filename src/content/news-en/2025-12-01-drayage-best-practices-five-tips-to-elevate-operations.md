@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Teknoloji
   - Satınalma
-image: https://en.wikipedia.org/wiki/Special:FilePath/Volvo_FH16_750_Globetrotter_XL.jpg?width=640
-imageAlt: "Kamyon / TIR representative image"
+image: https://en.wikipedia.org/wiki/Special:FilePath/FedEx_Express.svg?width=640
+imageAlt: "FedEx Express logo"
 sourceUrl: https://www.supplychainbrain.com/articles/42912-drayage-best-practices-five-tips-to-elevate-operations
 newsSequence: 42912
 author: Sedat Onat

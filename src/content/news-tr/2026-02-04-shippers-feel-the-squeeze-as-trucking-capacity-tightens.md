@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/Volvo_FH16_750_Globetrotter_XL.jpg?width=640
-imageAlt: "Kamyon / TIR temsili görseli"
+image: https://en.wikipedia.org/wiki/Special:FilePath/FedEx_Express.svg?width=640
+imageAlt: "FedEx Express logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43409-shippers-feel-the-squeeze-as-trucking-capacity-tightens
 newsSequence: 43409
 author: Sedat Onat

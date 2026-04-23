@@ -4,8 +4,8 @@ date: '2026-01-16T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/Container_ship_at_terminal.jpg?width=640
-imageAlt: "Supply chain representative image"
+image: https://en.wikipedia.org/wiki/Special:FilePath/CSCL_Globe_arriving_at_Felixstowe%2C_United_Kingdom.jpg?width=640
+imageAlt: "Konteyner gemisi temsili görsel"
 sourceUrl: https://www.supplychainbrain.com/articles/43257-canada-inks-trade-truce-with-china-in-break-from-trumps-agenda
 newsSequence: 43257
 author: Sedat Onat

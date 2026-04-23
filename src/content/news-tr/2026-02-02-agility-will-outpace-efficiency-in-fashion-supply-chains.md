@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Satınalma
-image: https://en.wikipedia.org/wiki/Special:FilePath/Fashion_design_studio.jpg?width=640
-imageAlt: "Moda / tekstil temsili görseli"
+image: /og-default.png
+imageAlt: "Tedarik Zinciri Haberleri"
 sourceUrl: https://www.supplychainbrain.com/articles/43226-agility-will-outpace-efficiency-in-fashion-supply-chains
 newsSequence: 43226
 author: Sedat Onat

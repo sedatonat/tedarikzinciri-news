@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/Container_ship_at_terminal.jpg?width=640
-imageAlt: "Supply chain representative image"
+image: https://en.wikipedia.org/wiki/Special:FilePath/CSCL_Globe_arriving_at_Felixstowe%2C_United_Kingdom.jpg?width=640
+imageAlt: "Konteyner gemisi temsili görsel"
 sourceUrl: https://www.supplychainbrain.com/articles/43055-china-blasts-us-for-report-that-sows-discord-with-india
 newsSequence: 43055
 author: Sedat Onat

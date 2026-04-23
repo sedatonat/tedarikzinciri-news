@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/Seal_of_United_States_Customs_and_Border_Protection.svg?width=640
-imageAlt: "US CBP seal"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Seal_of_the_U.S._Immigration_and_Customs_Enforcement.svg?width=640
+imageAlt: "U.S. ICE seal"
 sourceUrl: https://www.supplychainbrain.com/articles/43041-end-of-de-minimis-strains-delivery-companies-but-cbp-says-its-coping
 newsSequence: 43041
 author: Sedat Onat

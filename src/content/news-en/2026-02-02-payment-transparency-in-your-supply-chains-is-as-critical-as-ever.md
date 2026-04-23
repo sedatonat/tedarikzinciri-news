@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Satınalma
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/Container_terminal_with_cranes.jpg?width=640
-imageAlt: "Supply chain representative image"
+image: https://en.wikipedia.org/wiki/Special:FilePath/CSCL_Globe_arriving_at_Felixstowe%2C_United_Kingdom.jpg?width=640
+imageAlt: "Konteyner gemisi temsili görsel"
 sourceUrl: https://www.supplychainbrain.com/articles/43249-payment-transparency-in-your-supply-chains-is-as-critical-as-ever
 newsSequence: 43249
 author: Sedat Onat

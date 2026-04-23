@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/U.S._Customs_and_Border_Protection_inspect_imports.jpg?width=640
-imageAlt: "Gümrük temsili görseli"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Seal_of_the_U.S._Immigration_and_Customs_Enforcement.svg?width=640
+imageAlt: "U.S. ICE seal"
 sourceUrl: https://www.supplychainbrain.com/articles/43379-trump-signs-order-threatening-tariffs-against-countries-selling-oil-to-cuba
 newsSequence: 43379
 author: Sedat Onat

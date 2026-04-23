@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/Oil_pumpjack.jpg?width=640
-imageAlt: "Petrol temsili görseli"
+image: /og-default.png
+imageAlt: "Tedarik Zinciri Haberleri"
 sourceUrl: https://www.supplychainbrain.com/articles/43739-iran-is-drafting-law-to-introduce-tolls-for-hormuz-transit
 newsSequence: 43739
 author: Sedat Onat

@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/Pacific_Islands_aerial.jpg?width=640
-imageAlt: "Pasifik adaları temsili görseli"
+image: https://en.wikipedia.org/wiki/Special:FilePath/CSCL_Globe_arriving_at_Felixstowe%2C_United_Kingdom.jpg?width=640
+imageAlt: "Konteyner gemisi temsili görsel"
 sourceUrl: https://www.supplychainbrain.com/articles/43876-iran-war-exposes-fragility-of-pacific-islands
 newsSequence: 43876
 author: Sedat Onat

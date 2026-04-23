@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Satınalma
-image: https://en.wikipedia.org/wiki/Special:FilePath/Computer_keyboard_lit_red.jpg?width=640
-imageAlt: "Siber güvenlik representative image"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048.jpg?width=640
+imageAlt: "Yapay zeka temsili görsel"
 sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/42981-how-to-stop-the-domino-effect-of-supply-chain-cyber-attacks
 newsSequence: 42981
 author: Sedat Onat

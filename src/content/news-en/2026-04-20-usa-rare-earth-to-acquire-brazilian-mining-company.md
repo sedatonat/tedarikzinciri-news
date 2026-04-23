@@ -4,8 +4,8 @@ date: '2026-04-20T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/USA_Rare_Earth_Logo.png?width=640
-imageAlt: "USA Rare Earth logo"
+image: /og-default.png
+imageAlt: "Tedarik Zinciri Haberleri"
 sourceUrl: https://www.supplychainbrain.com/articles/43891-usa-rare-earth-to-acquire-brazilian-mining-company
 newsSequence: 43891
 author: Sedat Onat

@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Lojistik
-image: https://en.wikipedia.org/wiki/Special:FilePath/Rare_Earth_Oxides.jpg?width=640
-imageAlt: "Nadir toprak elementleri temsili görseli"
+image: /og-default.png
+imageAlt: "Tedarik Zinciri Haberleri"
 sourceUrl: https://www.supplychainbrain.com/articles/43828-the-struggle-to-diversify-rare-earth-supply-chains
 newsSequence: 43828
 author: Sedat Onat

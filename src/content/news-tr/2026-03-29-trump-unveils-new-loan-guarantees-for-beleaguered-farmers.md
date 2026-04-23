@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/Field_with_corn.jpg?width=640
-imageAlt: "Tarım temsili görseli"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Brown_eggs.jpg?width=640
+imageAlt: "Gıda temsili görsel"
 sourceUrl: https://www.supplychainbrain.com/articles/43747-trump-unveils-new-loan-guarantees-for-beleaguered-farmers
 newsSequence: 43747
 author: Sedat Onat

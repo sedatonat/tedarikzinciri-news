@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Lojistik
-image: https://en.wikipedia.org/wiki/Special:FilePath/Rare_Earth_Oxides.jpg?width=640
-imageAlt: "Nadir toprak elementleri temsili görseli"
+image: /og-default.png
+imageAlt: "Tedarik Zinciri Haberleri"
 sourceUrl: https://www.supplychainbrain.com/articles/43595-china-prioritizes-rare-earths-robotics-in-manufacturing-agenda
 newsSequence: 43595
 author: Sedat Onat

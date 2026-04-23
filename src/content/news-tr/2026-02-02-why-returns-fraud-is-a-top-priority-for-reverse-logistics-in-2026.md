@@ -5,8 +5,8 @@ category: Envanter
 secondaryCategories:
   - Lojistik
   - Tedarik Zinciri
-image: https://en.wikipedia.org/wiki/Special:FilePath/Container_ship_at_terminal.jpg?width=640
-imageAlt: "Tedarik zinciri temsili görseli"
+image: https://en.wikipedia.org/wiki/Special:FilePath/CSCL_Globe_arriving_at_Felixstowe%2C_United_Kingdom.jpg?width=640
+imageAlt: "Konteyner gemisi temsili görsel"
 sourceUrl: https://www.supplychainbrain.com/articles/43250-why-returns-fraud-is-a-top-priority-for-reverse-logistics-in-2026
 newsSequence: 43250
 author: Sedat Onat

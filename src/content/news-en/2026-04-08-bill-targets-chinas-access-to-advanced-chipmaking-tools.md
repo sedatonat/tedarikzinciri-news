@@ -5,8 +5,8 @@ category: Teknoloji
 secondaryCategories:
   - Tedarik Zinciri
   - Lojistik
-image: https://en.wikipedia.org/wiki/Special:FilePath/Semiconductor_wafer.jpg?width=640
-imageAlt: "Yarı iletken / çip representative image"
+image: https://en.wikipedia.org/wiki/Special:FilePath/Nvidia_logo.svg?width=640
+imageAlt: "NVIDIA logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43803-bill-targets-chinas-access-to-advanced-chipmaking-tools
 newsSequence: 43803
 author: Sedat Onat

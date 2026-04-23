@@ -5,8 +5,8 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Envanter
-image: https://en.wikipedia.org/wiki/Special:FilePath/Sovcomflot_logo.svg?width=640
-imageAlt: "Sovcomflot logo"
+image: https://en.wikipedia.org/wiki/Special:FilePath/CSCL_Globe_arriving_at_Felixstowe%2C_United_Kingdom.jpg?width=640
+imageAlt: "Konteyner gemisi temsili görsel"
 sourceUrl: https://www.supplychainbrain.com/articles/43046-russias-sovcomflot-gets-first-domestic-tanker-for-arctic-lng-2
 newsSequence: 43046
 author: Sedat Onat

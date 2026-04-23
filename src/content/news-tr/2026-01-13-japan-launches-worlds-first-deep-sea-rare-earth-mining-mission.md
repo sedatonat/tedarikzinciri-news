@@ -5,8 +5,8 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/Rare_Earth_Oxides.jpg?width=640
-imageAlt: "Nadir toprak elementleri temsili görseli"
+image: /og-default.png
+imageAlt: "Tedarik Zinciri Haberleri"
 sourceUrl: https://www.supplychainbrain.com/articles/43194-japan-launches-worlds-first-deep-sea-rare-earth-mining-mission
 newsSequence: 43194
 author: Sedat Onat
