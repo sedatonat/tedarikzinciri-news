@@ -19,15 +19,15 @@ tags:
 - tedarik zinciri
 - LCA
 ---
-<p>Modern tedarik zincirleri artık yalnız maliyet ve teslim süresiyle ölçülmemekte; değer odaklı ekonomi anlayışında, işletmelerin topluma, paydaşlara ve çevreye kattıkları toplam etki de hesaplanıyor.&nbsp;</p>
+<p>Modern tedarik zincirleri artık yalnız maliyet ve teslim süresiyle ölçülmedi; değer odaklı ekonomi anlayışında, işletmelerin topluma, paydaşlara ve çevreye kattığı toplam etki de hesaba katıldı.&nbsp;</p>
 <p><br></p>
-<p>Think Tank içeriğinde, toplam değer yaklaşımı (Total Value Delivery) yalnız ürünün değil, tüm ekosistemin performansına odaklanıyor.&nbsp;</p>
+<p>Think Tank içeriğine göre toplam değer yaklaşımı (Total Value Delivery) yalnız ürünün değil, tüm ekosistemin performansına odaklandı.&nbsp;</p>
 <p><br></p>
-<p>Purpose‑driven ekonomilerde, “ne kadar kazandık” sorusu “nasıl kazandık” sorusuyla birlikte yanıtlanmakta. Bain &amp; Company ve Accenture raporları, paydaş değerine odaklanan işletmelerin uzun vadede %15–25 daha yüksek pazar değeri yaratıyor olduğunu gösteriyor. Bu eğilim, ESG metriklerinin finansal göstergelere entegrasyonunu hızlandırıyor; yatırımcı beklentileri sürdürülebilir kârlılığa yöneliyor.&nbsp;</p>
+<p>Purpose‑driven ekonomilerde “ne kadar kazandık” sorusu “nasıl kazandık” sorusuyla birlikte yanıtlandı. Bain &amp; Company ve Accenture raporlarına göre paydaş değerine odaklanan işletmeler uzun vadede %15–25 daha yüksek pazar değeri yarattı. Bu eğilim, ESG metriklerinin finansal göstergelere entegrasyonunu hızlandırdı; yatırımcı beklentileri sürdürülebilir kârlılığa yöneldi.&nbsp;</p>
 <p><br></p>
-<p>Operasyonel düzeyde, “total value” ölçümü için LCA, social impact accounting ve dijital izlenebilirlik platformları kullanılıyor. Bu araçlar, ürün yaşam döngüsünün her aşamasında emisyon, enerji, su ve toplumsal etkiyi sayısallaştırmakta. Karar verme süreçlerinde AI tabanlı analizler, değer üretmeyen veya riskli süreçleri ayıklamakta. Böylece maliyet‑merkezli optimizasyon yerini çok boyutlu fayda maksimizasyonuna bırakıyor.</p>
+<p>Operasyonel düzeyde işletmeler “total value” ölçümü için LCA, social impact accounting ve dijital izlenebilirlik platformlarını kullandı. Bu araçlar, ürün yaşam döngüsünün her aşamasında emisyon, enerji, su ve toplumsal etkiyi sayısallaştırdı. Karar verme süreçlerinde AI tabanlı analizler, değer üretmeyen veya riskli süreçleri ayıkladı. Böylece maliyet‑merkezli optimizasyon, yerini çok boyutlu fayda maksimizasyonuna bıraktı.</p>
 <p><br></p>
-<p>Sonuçta, toplam değer yaklaşımı kısa vadeli kârlılıktan çok uzun vadeli dayanıklılığı hedefliyor. Tedarik zinciri liderleri, finansal sonuçları çevresel ve sosyal performansla birlikte okuyarak, markanın hem kazanan hem de güvenilir kalmasını sağlıyor.</p>
+<p>Sonuçta toplam değer yaklaşımı, kısa vadeli kârlılıktan çok uzun vadeli dayanıklılığı hedefledi. Tedarik zinciri liderleri, finansal sonuçları çevresel ve sosyal performansla birlikte okuyarak markanın hem kazanan hem de güvenilir kalmasını sağladı.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 - Toplam değer (Total Value) yalnız maliyet değil, toplumsal etkiyi de kapsıyor.<br>
