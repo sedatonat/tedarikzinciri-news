@@ -1,6 +1,5 @@
 ---
 title: "Watch: Why Deploy RFID in Your Warehouse"
-subtitle: "SCB Video/Lyngsoe Zebra: RFID Warehouse Deployment Why; Sean Stephens Lyngsoe Systems Business Development; Wes Coleman Zebra Technologies Industry Principal Warehouse; Radio Frequency Identification World War II Origins; Mass Adoption Customer Demand; 5 Key Benefits; Enhanced Tracking Visibility; Real-Time Visibility Critical; Tag Price 30 Cents 2003 3 Cents Today; Reduced Labor Cost Staff Time; Supply Chain Labor Market Pressure"
 date: "2026-04-23T00:15:00Z"
 category: "Lojistik"
 image: "https://www.supplychainbrain.com/ext/resources/2022/11/30/SEMICONDUCTOR-CHIP-iStock-Mykola-Pokhodzhay-1296135863.webp"
