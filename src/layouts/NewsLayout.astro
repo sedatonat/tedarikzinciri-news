@@ -168,16 +168,35 @@ const jsonLd = {
       <div class="mt-4 flex items-center gap-3 text-sm text-ink-500">
         <span><span class="text-ink-400">{t('news.author')}:</span> {frontmatter.author}</span>
       </div>
-      {Array.isArray(frontmatter.tags) && frontmatter.tags.length > 0 && (
-        <div class="mt-4 flex flex-wrap gap-2">
-          {frontmatter.tags.map((tag: string) => (
-            <a
-              href={tagPath(lang, tag)}
-              class="inline-flex items-center px-2.5 py-1 rounded-full text-xs capitalize border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 text-ink-700 dark:text-ink-200 hover:border-brand-500 hover:bg-brand-50 dark:hover:bg-brand-900/30 hover:text-brand-700 dark:hover:text-brand-300 transition-colors"
-            >{tag}</a>
-          ))}
-        </div>
-      )}
+      <div class="mt-4 flex flex-wrap items-center gap-x-2 gap-y-2 text-ink-500 dark:text-ink-400">
+        <details class="share-menu relative icon-tip shrink-0" data-tip={lang === 'tr' ? 'Haberi paylaş' : 'Share article'}>
+          <summary class="list-none cursor-pointer [&::-webkit-details-marker]:hidden inline-flex items-center hover:text-sky-500" aria-label={lang === 'tr' ? 'Paylaş' : 'Share'}>
+            <span class="p-1.5 rounded-full hover:bg-sky-500/10">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-[18px] h-[18px]" aria-hidden="true">
+                <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/>
+              </svg>
+            </span>
+          </summary>
+          <div class="absolute left-0 top-full mt-2 z-30 w-56 rounded-xl bg-white dark:bg-ink-900 border border-ink-200 dark:border-ink-800 shadow-lg overflow-hidden text-sm">
+            <button data-share="copy" data-url={slug ? `${newsBase}${slug}/` : Astro.url.pathname} data-copied={lang === 'tr' ? 'Kopyalandı!' : 'Copied!'} type="button" class="block w-full text-left px-4 py-2.5 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-900 dark:text-ink-100 font-medium">
+              <span class="share-label">{lang === 'tr' ? 'Linki Kopyala' : 'Copy link'}</span>
+            </button>
+            <div class="h-px bg-ink-200 dark:bg-ink-800"></div>
+            <button data-share="twitter" data-url={slug ? `${newsBase}${slug}/` : Astro.url.pathname} data-title={frontmatter.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">X (Twitter)</button>
+            <button data-share="linkedin" data-url={slug ? `${newsBase}${slug}/` : Astro.url.pathname} data-title={frontmatter.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">LinkedIn</button>
+            <button data-share="facebook" data-url={slug ? `${newsBase}${slug}/` : Astro.url.pathname} data-title={frontmatter.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">Facebook</button>
+            <button data-share="whatsapp" data-url={slug ? `${newsBase}${slug}/` : Astro.url.pathname} data-title={frontmatter.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">WhatsApp</button>
+            <button data-share="telegram" data-url={slug ? `${newsBase}${slug}/` : Astro.url.pathname} data-title={frontmatter.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">Telegram</button>
+            <button data-share="email" data-url={slug ? `${newsBase}${slug}/` : Astro.url.pathname} data-title={frontmatter.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">{lang === 'tr' ? 'E-posta' : 'Email'}</button>
+          </div>
+        </details>
+        {Array.isArray(frontmatter.tags) && frontmatter.tags.map((tag: string) => (
+          <a
+            href={tagPath(lang, tag)}
+            class="inline-flex items-center px-2.5 py-1 rounded-full text-xs capitalize border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 text-ink-700 dark:text-ink-200 hover:border-brand-500 hover:bg-brand-50 dark:hover:bg-brand-900/30 hover:text-brand-700 dark:hover:text-brand-300 transition-colors"
+          >{tag}</a>
+        ))}
+      </div>
     </header>
     {frontmatter.image && (
       <figure class="mb-8">
