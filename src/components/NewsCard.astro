@@ -61,7 +61,7 @@ const excerpt = resolveExcerpt(entry.data.subtitle, (entry as any).body, 220);
       {excerpt && <p class="mt-2 text-sm text-ink-600 dark:text-ink-300 line-clamp-3">{excerpt}</p>}
     </a>
     <div class="mt-auto pt-2 flex flex-wrap items-center gap-x-2 gap-y-1.5 text-ink-500 dark:text-ink-400">
-      <details class="share-menu relative icon-tip shrink-0" data-tip={lang === 'tr' ? 'Haberi paylaş' : 'Share article'}>
+      <details class="share-menu relative icon-tip shrink-0" data-tip={lang === 'tr' ? 'Haberi paylaş' : 'Share news'}>
         <summary class="list-none cursor-pointer [&::-webkit-details-marker]:hidden inline-flex items-center hover:text-sky-500" aria-label={lang === 'tr' ? 'Paylaş' : 'Share'}>
           <span class="p-1 rounded-full hover:bg-sky-500/10">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4" aria-hidden="true">
