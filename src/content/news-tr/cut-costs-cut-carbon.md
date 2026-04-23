@@ -19,9 +19,9 @@ tags:
 - Scope 3
 - sürdürülebilirlik
 ---
-<p>Şirketler, maliyetleri düşürmek ve karbon ayak izini azaltmak için ikili hedef güdümlü stratejiler geliştiriyor. Makale, energy efficiency, route optimization, ve packaging right-sizing gibi hızlı geri dönüşlü uygulamaları odağa alıyor. Üretimde variable frequency drives, atölye iklimlendirmesinde akıllı kontrol ve heat recovery çözümleri, enerji tüketimini azaltıyor. Lojistikte network redesign ve mode shift (karayolundan demiryolu/denizyoluna) maliyeti ve emisyonu birlikte düşürüyor. Depolarda LED dönüşümü ve smart sensors, tüketim piklerini kontrol ediyor. Satın almada supplier decarbonization programları, Scope 3 azaltımını hızlandırıyor.&nbsp;</p>
+<p>Şirketler, maliyetleri düşürmek ve karbon ayak izini azaltmak amacıyla ikili hedef güdümlü stratejiler geliştiriyor. Makale; energy efficiency, route optimization ve packaging right-sizing gibi hızlı geri dönüşlü uygulamaları odağa alıyor. Üretimde variable frequency drives, atölye iklimlendirmesinde akıllı kontrol ve heat recovery çözümleri enerji tüketimini düşürüyor. Lojistikte network redesign ve mode shift (karayolundan demiryolu/denizyoluna) maliyeti ve emisyonu birlikte aşağı çekiyor. Depolarda LED dönüşümü ve smart sensors, tüketim piklerini kontrol altına alıyor. Satın almada supplier decarbonization programları, Scope 3 azaltımını hızlandırıyor.&nbsp;</p>
 <p><br></p>
-<p>Sonuçta, maliyet ve karbon hedefleri çelişmemekte; doğru dizayn ile birbirini beslemekte.</p>
+<p>Sonuçta, maliyet ve karbon hedefleri birbiriyle çelişmiyor; doğru dizayn sayesinde birbirini besliyor.</p>
 <p><br></p>
 <p><strong>Önemli Notlar:</strong><br>
 1. Energy efficiency hızlı geri dönüş sağlar.<br>
