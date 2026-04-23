@@ -172,17 +172,90 @@ const topTags: string[] = Array.isArray(entry.data.tags)
               </svg>
             </span>
           </a>
-          {entry.data.sourceUrl && (
-            <a href={entry.data.sourceUrl} target="_blank" rel="noopener noreferrer nofollow" class="group inline-flex items-center hover:text-sky-500" aria-label="Kaynak">
-              <span class="p-1.5 rounded-full group-hover:bg-sky-500/10">
+          <details class="share-menu relative">
+            <summary class="list-none cursor-pointer [&::-webkit-details-marker]:hidden inline-flex items-center hover:text-sky-500" aria-label={lang === 'tr' ? 'Paylaş' : 'Share'}>
+              <span class="p-1.5 rounded-full hover:bg-sky-500/10">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-[18px] h-[18px]" aria-hidden="true">
                   <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/>
                 </svg>
               </span>
-            </a>
-          )}
+            </summary>
+            <div class="absolute right-0 bottom-full mb-2 z-30 w-56 rounded-xl bg-white dark:bg-ink-900 border border-ink-200 dark:border-ink-800 shadow-lg overflow-hidden text-sm">
+              <button data-share="copy" data-url={href} data-copied={lang === 'tr' ? 'Kopyalandı!' : 'Copied!'} type="button" class="block w-full text-left px-4 py-2.5 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-900 dark:text-ink-100 font-medium">
+                <span class="share-label">{lang === 'tr' ? 'Linki Kopyala' : 'Copy link'}</span>
+              </button>
+              <div class="h-px bg-ink-200 dark:bg-ink-800"></div>
+              <button data-share="twitter" data-url={href} data-title={entry.data.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">X (Twitter)</button>
+              <button data-share="linkedin" data-url={href} data-title={entry.data.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">LinkedIn</button>
+              <button data-share="facebook" data-url={href} data-title={entry.data.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">Facebook</button>
+              <button data-share="whatsapp" data-url={href} data-title={entry.data.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">WhatsApp</button>
+              <button data-share="telegram" data-url={href} data-title={entry.data.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">Telegram</button>
+              <button data-share="email" data-url={href} data-title={entry.data.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">{lang === 'tr' ? 'E-posta' : 'Email'}</button>
+            </div>
+          </details>
         </div>
       </div>
     </div>
   </div>
 </article>
+
+<script>
+  (() => {
+    if ((window as any).__shareMenuBound) return;
+    (window as any).__shareMenuBound = true;
+
+    const TEMPLATES: Record<string, (u: string, t: string) => string> = {
+      twitter: (u, t) => `https://twitter.com/intent/tweet?text=${encodeURIComponent(t)}&url=${encodeURIComponent(u)}`,
+      linkedin: (u) => `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(u)}`,
+      facebook: (u) => `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(u)}`,
+      whatsapp: (u, t) => `https://wa.me/?text=${encodeURIComponent(t + ' ' + u)}`,
+      telegram: (u, t) => `https://t.me/share/url?url=${encodeURIComponent(u)}&text=${encodeURIComponent(t)}`,
+      email: (u, t) => `mailto:?subject=${encodeURIComponent(t)}&body=${encodeURIComponent(u)}`,
+    };
+
+    document.addEventListener('click', (e) => {
+      const target = e.target as HTMLElement;
+      const btn = target.closest('[data-share]') as HTMLElement | null;
+      if (btn) {
+        const kind = btn.dataset.share || '';
+        const rawUrl = btn.dataset.url || '';
+        const title = btn.dataset.title || '';
+        const absoluteUrl = new URL(rawUrl, window.location.origin).toString();
+
+        if (kind === 'copy') {
+          e.preventDefault();
+          if (navigator.clipboard?.writeText) {
+            navigator.clipboard.writeText(absoluteUrl).catch(() => {});
+          }
+          const label = btn.querySelector('.share-label') as HTMLElement | null;
+          if (label) {
+            const original = label.textContent;
+            label.textContent = btn.dataset.copied || 'Copied!';
+            setTimeout(() => { if (label) label.textContent = original; }, 1500);
+          }
+        } else if (TEMPLATES[kind]) {
+          e.preventDefault();
+          window.open(TEMPLATES[kind](absoluteUrl, title), '_blank', 'noopener,noreferrer');
+        }
+
+        const d = btn.closest('details') as HTMLDetailsElement | null;
+        if (d) setTimeout(() => { d.open = false; }, kind === 'copy' ? 1400 : 200);
+        return;
+      }
+
+      // Close any open share menu when clicking outside
+      document.querySelectorAll('details.share-menu[open]').forEach((d) => {
+        if (!d.contains(target)) (d as HTMLDetailsElement).open = false;
+      });
+    });
+
+    // Close menu on Escape
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        document.querySelectorAll('details.share-menu[open]').forEach((d) => {
+          (d as HTMLDetailsElement).open = false;
+        });
+      }
+    });
+  })();
+</script>
