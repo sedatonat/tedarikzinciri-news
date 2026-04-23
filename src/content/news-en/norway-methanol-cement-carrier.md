@@ -2,6 +2,7 @@
 title: Hartmann and Heidelberg Materials Order Methanol-Fueled Cement Ship for Norway
 subtitle: Hartmann and Heidelberg Materials Order Methanol-Fueled Cement Ship for Norway
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385733/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_f12ed24f5d5341ad8442300d68d83cb2~mv2.jpg
 imageAlt: Operational model of the methanol-fueled cement carrier to be deployed by Hartmann Group and Heidelberg Materials Northern Europe for Norwegian coastal shipping, including detailed overview of emission reduction targets and impact on green shipping strategy

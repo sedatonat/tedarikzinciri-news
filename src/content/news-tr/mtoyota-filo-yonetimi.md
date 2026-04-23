@@ -2,6 +2,7 @@
 title: Toyota’nın Yeni MyToyota Portalı, Forklift Filo Yönetimini Dönüştürüyor
 subtitle: Toyota’nın Yeni MyToyota Portalı, Forklift Filo Yönetimini Dönüştürüyor
 date: '2025-11-09T09:00:00Z'
+sourceUrl: https://warehousinglogisticsinternational.com/toyotas-new-customer-portal-will-transform-forklift-fleet-management/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_f0762cb1cbcd4ffdb0515ab35a8f4f95~mv2.jpeg
 imageAlt: Toyota Material Handling UK’nin yeni MyToyota portalı, forklift filoları için maliyet, enerji tüketimi, sözleşmeler, güvenlik ve servis yönetimini tek platformda birleştirerek veri odaklı, şeffaf ve verimli operasyonlar sunuyor.

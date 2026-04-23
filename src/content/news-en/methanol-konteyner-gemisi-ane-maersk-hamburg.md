@@ -2,6 +2,7 @@
 title: Methanol-Powered Container Vessel 'Ane Maersk' Calls at Hamburg
 subtitle: Methanol-Powered Container Vessel 'Ane Maersk' Calls at Hamburg
 date: '2024-03-28T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/maersks-methanol-enabled-boxship-calls-at-hamburg/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d3313b8a07d6458a82bd65f66776deac~mv2.jpg
 imageAlt: Methanol-Powered Container Vessel 'Ane Maersk' Calls at Hamburg

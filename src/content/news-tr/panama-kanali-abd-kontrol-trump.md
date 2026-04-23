@@ -2,6 +2,7 @@
 title: Panama Kanalı Üzerindeki Çin Etkisi ve ABD'nin Kontrol Talebi
 subtitle: Panama Kanalı Üzerindeki Çin Etkisi ve ABD'nin Kontrol Talebi
 date: '2025-01-28T09:00:00Z'
+sourceUrl: https://gcaptain.com/senate-hearing-grills-chinese-influence-over-panama-canal-amid-trumps-call-for-us-control/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2503c867ac4a4d73b25d12d6ca12984e~mv2.jpg
 imageAlt: Panama Kanalı Üzerindeki Çin Etkisi ve ABD'nin Kontrol Talebi

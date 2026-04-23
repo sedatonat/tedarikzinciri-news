@@ -2,6 +2,7 @@
 title: 2024'te Merger & Acquisition Anlaşmalarını Artıran Trendler
 subtitle: 2024'te Merger & Acquisition Anlaşmalarını Artıran Trendler
 date: '2024-05-09T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/39522-the-trends-that-are-driving-a-surge-in-manufacturing-m-and-a-deals
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_b3e492e6aed349e9b5b6e7e0e7ff98fc~mv2.jpg
 imageAlt: 2024'te Merger & Acquisition Anlaşmalarını Artıran Trendler

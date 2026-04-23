@@ -2,6 +2,7 @@
 title: CMA CGM Tests Red Sea Route with Two Megaships on Return to Asia
 subtitle: CMA CGM Tests Red Sea Route with Two Megaships on Return to Asia
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://www.joc.com/article/cma-cgm-alliance-megaships-test-red-sea-waters-on-return-to-asia-6105787
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_ad76fd7d3e76451b874e44e901a255d9~mv2.jpeg
 imageAlt: CMA CGM is conducting its first pilot passage in two years on the Suez–Red Sea corridor with the Ocean Alliance megaships Benjamin Franklin (17,859 TEU) and Sorbonne (23,112 TEU), a move signaling the region is cautiously returning to normalcy after two years of security crisis.

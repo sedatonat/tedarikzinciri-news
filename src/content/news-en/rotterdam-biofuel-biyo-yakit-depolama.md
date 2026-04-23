@@ -2,6 +2,7 @@
 title: Peninsula Expands Bio-Fuel Storage and Blending Facility at Rotterdam Chane Terminal
 subtitle: Peninsula Expands Bio-Fuel Storage and Blending Facility at Rotterdam Chane Terminal
 date: '2025-11-18T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384622/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_422a58b90e62409bafab8afe02ac8230~mv2.jpg
 imageAlt: Peninsula has increased bio-fuel storage and blending capacity at Rotterdam's Chane Terminal with nine new tanks with 30,000 m³ capacity; a second phase to be completed in 2026 will bring total capacity to 110,000 m³.

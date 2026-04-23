@@ -2,6 +2,7 @@
 title: Toyota’nın Traigo_i Forklifti, Alman Tasarım Ödülü 2026’yı da Kazandı
 subtitle: Toyota’nın Traigo_i Forklifti, Alman Tasarım Ödülü 2026’yı da Kazandı
 date: '2025-02-06T09:00:00Z'
+sourceUrl: https://warehousinglogisticsinternational.com/another-design-award-for-toyotas-lithium-ion-traigo_i-counterbalanced-forklift/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_95a079e56823447f83098965edaf740e~mv2.jpg
 imageAlt: Toyota’nın entegre lityum-iyon teknolojili yeni Traigo_i elektrikli forklift modeli, 2026 Alman Tasarım Ödülü’nü kazanarak 2025 Red Dot başarısının ardından ikinci büyük uluslararası tasarım ödülünü aldı.

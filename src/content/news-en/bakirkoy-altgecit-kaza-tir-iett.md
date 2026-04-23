@@ -2,6 +2,7 @@
 title: 'Truck Crashes Into Underpass in Bakırköy, Overturns Onto Adjacent IETT Bus: 6 Injured'
 subtitle: 'Truck Crashes Into Underpass in Bakırköy, Overturns Onto Adjacent IETT Bus: 6 Injured'
 date: '2024-08-27T09:00:00Z'
+sourceUrl: https://video.haber7.com/video-galeri/289545-bakirkoyde-ust-gecide-carpan-tirin-iett-otobusunu-ezme-ani-kamerada
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_53a3d2a717804d3197695712eb8a8598~mv2.jpg
 imageAlt: Security camera footage of the accident on Bakırköy's Rauf Orbay Street, where a truck flatbed crashed into an underpass and overturned onto an IETT bus on the BN1 line, injuring 6 people.

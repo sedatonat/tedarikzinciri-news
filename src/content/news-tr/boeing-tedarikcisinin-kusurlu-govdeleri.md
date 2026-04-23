@@ -2,6 +2,7 @@
 title: Boeing Tedarikçisinin Kusurlu Gövdeler Teslim Ettiği İddiaları
 subtitle: Boeing Tedarikçisinin Kusurlu Gövdeler Teslim Ettiği İddiaları
 date: '2024-05-09T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/39684-whistleblower-claims-boeing-supplier-delivered-defective-737-max-fuselages-for-years
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_3a413df7637644ee9583bc2d0f729214~mv2.jpg
 imageAlt: Boeing Tedarikçisinin Kusurlu Gövdeler Teslim Ettiği İddiaları

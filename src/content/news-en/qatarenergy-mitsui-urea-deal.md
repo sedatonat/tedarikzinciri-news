@@ -2,6 +2,7 @@
 title: QatarEnergy and Mitsui Sign 20-Year Urea Supply Agreement
 subtitle: QatarEnergy and Mitsui Sign 20-Year Urea Supply Agreement
 date: '2025-11-11T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384323/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/nsplsh_794554716b4c6e68735549~mv2_d_5637_3758_s_4_2.jpg
 imageAlt: QatarEnergy has signed a 20-year long-term supply agreement with Mitsui to deliver 0.5 million tons of urea annually beginning in 2026, supporting Qatar's growth strategy in global fertilizer exports.

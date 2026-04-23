@@ -2,6 +2,7 @@
 title: ABD ve Japonya, Kritik Maden Tedarik Güvenliği İçin Yeni Çerçeve Anlaşması İmzaladı
 subtitle: ABD ve Japonya, Kritik Maden Tedarik Güvenliği İçin Yeni Çerçeve Anlaşması İmzaladı
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/us-japan-critical-mineral-rare-earth-deal/804065/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_d4f3856b3c2f47fa8b72a7acb9f0d9c6~mv2.jpg
 imageAlt: ABD Başkanı Donald Trump ve Japonya Başbakanı Sanae Takaichi, Tokyo’daki Akasaka Sarayı’nda kritik mineraller ve nadir toprak elementleri tedarikine ilişkin stratejik iş birliği çerçevesi imzaladı. Anlaşma, madencilik, cevher ayrıştırma ve işleme süreçlerinde güvenli ağlar kurmayı hedefliyor.

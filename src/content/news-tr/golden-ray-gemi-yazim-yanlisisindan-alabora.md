@@ -2,6 +2,7 @@
 title: Golden Ray Gemisi Yazım Yanlışının Bedeli Olmaya Devam Etti
 subtitle: Golden Ray Gemisi Yazım Yanlışının Bedeli Olmaya Devam Etti
 date: '2024-07-12T09:00:00Z'
+sourceUrl: https://www.haber7.com/dunya/haber/3440977-yazim-yanlisi-geminin-sonu-oldu-7-bin-400-arac-ile-batti
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7cdc612f4fe74335bb45dc00eb95fcce~mv2.jpg
 imageAlt: Golden Ray Gemisi Yazım Yanlışının Bedeli Olmaya Devam Etti

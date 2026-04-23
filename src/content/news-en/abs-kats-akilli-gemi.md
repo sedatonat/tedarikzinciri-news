@@ -2,6 +2,7 @@
 title: ABS and KATS Collaborate to Advance Smart Ship Technology and Equipment Certification
 subtitle: ABS and KATS Collaborate to Advance Smart Ship Technology and Equipment Certification
 date: '2025-11-06T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384150/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_58b3e7e09f674b1cbd94ee443ea9f9bb~mv2.jpg
 imageAlt: ABS and the Korean Agency for Technology and Standards (KATS) have signed a collaboration protocol aimed at advancing international standardization of smart ship and smart shipyard technologies and harmonizing equipment certification processes.

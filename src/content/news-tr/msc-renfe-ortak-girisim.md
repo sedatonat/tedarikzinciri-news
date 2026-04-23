@@ -2,6 +2,7 @@
 title: MSC ve Renfe Ortak Demiryolu Girişimi İçin Ön Anlaşma İmzaladı
 subtitle: MSC ve Renfe Ortak Demiryolu Girişimi İçin Ön Anlaşma İmzaladı
 date: '2024-12-24T09:00:00Z'
+sourceUrl: https://www.railfreight.com/business/2024/12/24/msc-and-renfe-sign-preliminary-agreement-on-joint-rail-venture/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b3cd1d7563ea4d19bacc5f9cac0a6b16~mv2.jpg
 imageAlt: MSC ve Renfe Ortak Demiryolu Girişimi İçin Ön Anlaşma İmzaladı

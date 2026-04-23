@@ -2,6 +2,7 @@
 title: 'Armed Pirate Attack on Stolt Tanker off Somalia: Gunfire Exchange Reported'
 subtitle: 'Armed Pirate Attack on Stolt Tanker off Somalia: Gunfire Exchange Reported'
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://splash247.com/gunfire-exchange-as-pirates-target-stolt-tanker-in-somali-waters/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8028986e6ea348469d075afbbea1f734~mv2.jpg
 imageAlt: The Cayman Islands-flagged chemical tanker Stolt Sagaland, operated by Stolt Tankers, came under attack by pirates off the Somali coast. The ship's armed security team returned fire and repelled the assault. No casualties or damage were reported in the incident.

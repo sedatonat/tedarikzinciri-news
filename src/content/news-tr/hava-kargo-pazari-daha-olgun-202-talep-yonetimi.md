@@ -2,6 +2,7 @@
 title: Hava Kargo Pazarında Beklenen Kasım Hareketliliği Yerini Durgunluğa Bırakıyor
 subtitle: Hava Kargo Pazarında Beklenen Kasım Hareketliliği Yerini Durgunluğa Bırakıyor
 date: '2024-12-20T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/matured-air-cargo-market-avoid-peak-november-xeneta-niall-van-de-wouw/735570/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_ed548aad62fb4fa09d2730d1219fbd30~mv2.jpg
 imageAlt: Hava Kargo Pazarında Beklenen Kasım Hareketliliği Yerini Durgunluğa Bırakıyor

@@ -2,6 +2,7 @@
 title: 'USPS–Amazon Contract at Risk in 2026: "Reverse Auction" Plan Shakes Market'
 subtitle: 'USPS–Amazon Contract at Risk in 2026: "Reverse Auction" Plan Shakes Market'
 date: '2025-12-05T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/usps_amazon_contract_uncertainty_grows_as_reverse_auction_plan_raises_stakes_for_2026_renewal
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2153bd8995d44a9bb809318e81b64706~mv2.jpg
 imageAlt: USPS Amazon contract 2026 renewal process with reverse auction plan, USPS financial pressures, Amazon operational risk assessment, and detailed summary of impacts on the U.S. parcel delivery ecosystem

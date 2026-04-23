@@ -2,6 +2,7 @@
 title: HMM and JNPA Partnership for New Mega Container Port in India
 subtitle: HMM and JNPA Partnership for New Mega Container Port in India
 date: '2025-01-23T09:00:00Z'
+sourceUrl: https://container-news.com/hmm-partners-with-jnpa-to-develop-new-mega-container-port-in-india/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_265c539434d248bf88c58c15b93fb9d0~mv2.jpg
 imageAlt: HMM and JNPA Partnership for New Mega Container Port in India

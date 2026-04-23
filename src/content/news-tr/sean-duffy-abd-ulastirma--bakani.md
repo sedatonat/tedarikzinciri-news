@@ -2,6 +2,7 @@
 title: Sean Duffy ABD Ulaştırma Bakanı Olarak Onaylandı
 subtitle: Sean Duffy ABD Ulaştırma Bakanı Olarak Onaylandı
 date: '2025-01-28T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/transportation-secretary-sean-duffy-nomination-confirmed-senate/738576/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_d0baa9b12fff4e85bc419938dcfd3dce~mv2.jpg
 imageAlt: Sean Duffy ABD Ulaştırma Bakanı Olarak Onaylandı

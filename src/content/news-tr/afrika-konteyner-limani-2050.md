@@ -2,6 +2,7 @@
 title: Afrika 2050’ye Kadar Konteyner Talebinde Dev Sıçrama Vaat Ediyor, Ancak Limanlar 2025’te Krizi Kaldıramıyor
 subtitle: Afrika 2050’ye Kadar Konteyner Talebinde Dev Sıçrama Vaat Ediyor, Ancak Limanlar 2025’te Krizi Kaldıramıyor
 date: '2025-12-01T09:00:00Z'
+sourceUrl: https://shippingwatch.com/carriers/Container/article18796879.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_99d08440560b4186922a51d3ce06c298~mv2.jpg
 imageAlt: Sea-Intelligence’ın Afrika’nın 5% yıllık büyüme potansiyelini açıklayan projeksiyonları ile 2025’te Red Sea krizinin Afrika limanlarını nasıl zayıf halkaya dönüştürdüğüne dair kapsamlı lojistik analizi

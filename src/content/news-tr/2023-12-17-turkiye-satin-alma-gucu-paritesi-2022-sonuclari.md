@@ -2,6 +2,7 @@
 title: Türkiye'nin Satınalma Gücü Paritesi (SGP) Verileri
 subtitle: Türkiye'nin Satınalma Gücü Paritesi (SGP) Verileri
 date: '2023-12-17T09:00:00Z'
+sourceUrl: https://www.oncevatan.com.tr/satinalma-gucu-paritesi-2022-yili-sonuclari-aciklandi-1
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_bdd85e22711d4c999d194a4f6941ac6b~mv2.jpg
 imageAlt: Türkiye'nin Satınalma Gücü Paritesi (SGP) Verileri

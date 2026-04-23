@@ -2,6 +2,7 @@
 title: The Race to Decarbonize International Shipping
 subtitle: The Race to Decarbonize International Shipping
 date: '2024-03-11T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/39224-a-call-for-more-shippers-and-carriers-to-get-on-board-with-decarbonizing-shipping
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1227fd2c1dd74ba38461712841a0fd9c~mv2.jpg
 imageAlt: The Race to Decarbonize International Shipping

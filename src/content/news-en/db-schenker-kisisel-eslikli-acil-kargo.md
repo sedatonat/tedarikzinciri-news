@@ -2,6 +2,7 @@
 title: DB Schenker Launches Personal Escort Emergency Air Freight Service
 subtitle: DB Schenker Launches Personal Escort Emergency Air Freight Service
 date: '2024-03-28T09:00:00Z'
+sourceUrl: https://www.dbschenker.com/global/insights/news-and-stories/press-releases/fasten-the-seatbelt-db-schenker-launches-onboard-courier-service-1710282
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_08c128d6234044b8a9a37e75ac999cce~mv2.jpg
 imageAlt: DB Schenker Launches Personal Escort Emergency Air Freight Service

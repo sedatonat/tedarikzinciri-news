@@ -2,6 +2,7 @@
 title: Portchain Ağı, Taşımacılıkta 800 Bin Ton CO₂ Emisyonunu Önledi
 subtitle: Portchain Ağı, Taşımacılıkta 800 Bin Ton CO₂ Emisyonunu Önledi
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/portchain-network-helps-carriers-save-800000-tonnes-of-co2/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c519589e7a604410a0def0ce50d52ec1~mv2.jpg
 imageAlt: Portchain Network, denizcilik sektöründe dijital veri paylaşımı ve Just-In-Time (JIT) liman çağrıları sayesinde 2022’den bu yana 800.000 ton CO₂ tasarrufu sağladı. Platform, ana hat taşımacıları, feeder operatörleri ve terminalleri birbirine bağlayarak yakıt tüketimini ve bekleme sürelerini azaltıyor.

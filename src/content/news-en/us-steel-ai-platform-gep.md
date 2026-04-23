@@ -2,6 +2,7 @@
 title: US Steel Modernizes Procurement Processes with AI-Powered Platform
 subtitle: US Steel Modernizes Procurement Processes with AI-Powered Platform
 date: '2025-01-03T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/us-steel-procurement-processes-ai-software-gep/736468/
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_3762afd5d88d4464b7d6257890ec02e6~mv2.jpg
 imageAlt: US Steel Modernizes Procurement Processes with AI-Powered Platform

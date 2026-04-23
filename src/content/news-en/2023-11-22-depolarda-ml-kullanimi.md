@@ -2,6 +2,7 @@
 title: Using Machine Learning to Smartly Stock Grocery Stores
 subtitle: Using Machine Learning to Smartly Stock Grocery Stores
 date: '2023-11-22T09:00:00Z'
+sourceUrl: https://www.scmr.com/article/using-machine-learning-to-smartly-stock-grocery-stores
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_efa5be96ce564528b1db77ad254f6995~mv2.jpg
 imageAlt: Using Machine Learning to Smartly Stock Grocery Stores

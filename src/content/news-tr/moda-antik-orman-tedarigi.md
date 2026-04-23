@@ -2,6 +2,7 @@
 title: Moda Markaları Antik ve Tehlike Altındaki Ormanlardan Tedariği Sonlandırıyor
 subtitle: Moda Markaları Antik ve Tehlike Altındaki Ormanlardan Tedariği Sonlandırıyor
 date: '2025-11-25T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42901-fashion-brands-collaborate-to-end-sourcing-from-climate-critical-forests
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_c448b4086a974f138a956ae7f1a77480~mv2.jpg
 imageAlt: Moda markalarının antik ve tehlike altındaki ormanlardan tedariki bırakmak üzere oluşturduğu yeni küresel işbirliğini, MMCF ve ambalaj tedarik zincirlerindeki riskleri, iklim açısından kritik ormanların korunması için öngörülen dönüşümü ve sektör genelindeki etkilerini anlatan detaylı özet.

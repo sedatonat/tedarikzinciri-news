@@ -2,6 +2,7 @@
 title: US Investigates China's Compliance with 2020 Trade Agreement
 subtitle: US Investigates China's Compliance with 2020 Trade Agreement
 date: '2025-10-24T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/us-china-2020-trade-deal-section-301-investigation/803772/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_dc4e83f045934c6c97043876474490f1~mv2.jpg
 imageAlt: US Investigates China's Compliance with 2020 Trade Agreement

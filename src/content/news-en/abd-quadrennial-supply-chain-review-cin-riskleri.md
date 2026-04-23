@@ -2,6 +2,7 @@
 title: 'U.S. Supply Chain Chart New Course: First U.S. Quadrennial Supply Chain Review'
 subtitle: 'U.S. Supply Chain Chart New Course: First U.S. Quadrennial Supply Chain Review'
 date: '2024-12-24T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/first-u.s-quadrennial-supply-chain-review-explores-risks-from-china
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_5240885ef772446587e529d93cbbf198~mv2.jpg
 imageAlt: 'U.S. Supply Chain Chart New Course: First U.S. Quadrennial Supply Chain Review'

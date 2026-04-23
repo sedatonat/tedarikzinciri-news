@@ -2,6 +2,7 @@
 title: CMA CGM Launches Feeder Service Between Bulgarian and Turkish Ports
 subtitle: CMA CGM Launches Feeder Service Between Bulgarian and Turkish Ports
 date: '2025-01-16T09:00:00Z'
+sourceUrl: https://container-news.com/cma-cgm-feeder-service-bulgarian-ports-turkey/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5c7e9c77c5d94e22843d5b6b48938c3a~mv2.jpg
 imageAlt: CMA CGM Launches Feeder Service Between Bulgarian and Turkish Ports

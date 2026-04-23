@@ -2,6 +2,7 @@
 title: White House Tariff Decision on Chinese Goods and Potential Consequences
 subtitle: White House Tariff Decision on Chinese Goods and Potential Consequences
 date: '2024-05-16T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10268-trade-groups-criticize-white-house-tariffs-on-chinese-goods
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_f359a5fb23cc4af2ac0b1461743cf3ae~mv2.png
 imageAlt: White House Tariff Decision on Chinese Goods and Potential Consequences

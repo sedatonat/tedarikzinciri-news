@@ -2,6 +2,7 @@
 title: Container Ship Fire Halts Operations at Port of Los Angeles
 subtitle: Container Ship Fire Halts Operations at Port of Los Angeles
 date: '2025-11-22T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42891-container-ship-fire-halts-operations-at-port-of-los-angeles
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1048900e337a4411811b5b2ea5b07598~mv2.jpg
 imageAlt: A detailed overview of the incident at the Port of Los Angeles where a hazardous materials fire broke out aboard the container ship One Henry Hudson, resulting in the vessel being moved to open water and operations suspended at four terminals.

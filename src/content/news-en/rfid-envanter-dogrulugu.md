@@ -2,6 +2,7 @@
 title: Five RFID Applications to Manage Costs and Inventory Risks in 2025
 subtitle: Five RFID Applications to Manage Costs and Inventory Risks in 2025
 date: '2025-09-13T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42494-five-ways-rfid-can-help-manage-rising-costs-and-inventory-risks-in-2025
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_08808f82ec0f4ee09eccc4acf63416af~mv2.png
 imageAlt: Five RFID Applications to Manage Costs and Inventory Risks in 2025

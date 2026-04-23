@@ -2,6 +2,7 @@
 title: 'Container Ship Fires: Mitigating Risk Through Better Data'
 subtitle: 'Container Ship Fires: Mitigating Risk Through Better Data'
 date: '2024-09-19T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/cig-container-ship-fires-could-be-reduced-by-better-data
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_aabff8cedc1541a5bffa56336c40ee49~mv2.jpeg
 imageAlt: 'Container Ship Fires: Mitigating Risk Through Better Data'

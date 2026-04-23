@@ -2,6 +2,7 @@
 title: 'China''s $3.6 Billion Peru Port Opens: Transforming Latin American Trade Routes'
 subtitle: 'China''s $3.6 Billion Peru Port Opens: Transforming Latin American Trade Routes'
 date: '2024-11-19T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/chancay-port-opens-peru-china-latin-america
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e77d832db3464ea6936bfc30f2053eb5~mv2.jpg
 imageAlt: 'China''s $3.6 Billion Peru Port Opens: Transforming Latin American Trade Routes'

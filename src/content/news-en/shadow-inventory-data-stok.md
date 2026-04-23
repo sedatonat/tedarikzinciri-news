@@ -2,6 +2,7 @@
 title: 'Shadow Inventory: The Truths Hidden in Data Silos'
 subtitle: 'Shadow Inventory: The Truths Hidden in Data Silos'
 date: '2025-08-26T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/42320-shadow-inventory-when-supply-chain-data-lives-in-silos
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_8dab9fd938414d57af5fa2c6049cade9~mv2.png
 imageAlt: 'Shadow Inventory: The Truths Hidden in Data Silos'

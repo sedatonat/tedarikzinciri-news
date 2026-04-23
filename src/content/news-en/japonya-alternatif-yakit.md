@@ -2,6 +2,7 @@
 title: Japan's Shipyards and Shipping Lines Agree on Common Design Standards for Alternative-Fuel Vessels
 subtitle: Japan's Shipyards and Shipping Lines Agree on Common Design Standards for Alternative-Fuel Vessels
 date: '2025-12-01T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385177/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_13b662561d73415c824e0abc607e547f~mv2.jpg
 imageAlt: Japan's seven leading ship construction and maritime companies' decision to develop standard ship designs via the MILES common design platform for LCO₂ carriers and alternative-fuel vessels, and detailed news summary on its supply chain implications

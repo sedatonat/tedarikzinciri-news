@@ -2,6 +2,7 @@
 title: DHL, ABD’li İlaç Lojistik Şirketi Cryopdp’yi Satın Alıyor
 subtitle: DHL, ABD’li İlaç Lojistik Şirketi Cryopdp’yi Satın Alıyor
 date: '2025-03-31T09:00:00Z'
+sourceUrl: https://www.reuters.com/markets/deals/germanys-dhl-acquire-us-pharma-logistics-firm-cryopdp-source-says-2025-03-31/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5f5a8fd7e1c64bce85c88868e49bdd63~mv2.jpg
 imageAlt: DHL, ABD’li İlaç Lojistik Şirketi Cryopdp’yi Satın Alıyor

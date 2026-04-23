@@ -2,6 +2,7 @@
 title: Ningbo-Zhoushan ve HAROPA Limanları Arasında Çin–Fransa Yeşil Denizcilik Koridoru Kuruldu
 subtitle: Ningbo-Zhoushan ve HAROPA Limanları Arasında Çin–Fransa Yeşil Denizcilik Koridoru Kuruldu
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/china-france-green-corridor-advances-maritime-decarbonisation/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a4b243247364449aaea653107ef3c953~mv2.jpg
 imageAlt: Ningbo-Zhoushan (Çin) ve HAROPA (Fransa) limanları arasında başlatılan yeşil denizcilik koridoru, Uluslararası Yeşil Denizcilik Koridoru İş Birliği Girişimi kapsamında deniz taşımacılığının karbonsuzlaşmasını hızlandırmayı hedefliyor. Projede Bureau Veritas, MSC, CMA CGM, Zhejiang Seaport Group ve China Waterborne Transport Research Institute yer alıyor.

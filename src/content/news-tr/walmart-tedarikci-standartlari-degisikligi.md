@@ -2,6 +2,7 @@
 title: Walmart'ın Tedarikçi Standartlarında Yapılan Değişiklikler ve Tedarik Zinciri Üzerindeki Etkileri
 subtitle: Walmart'ın Tedarikçi Standartlarında Yapılan Değişiklikler ve Tedarik Zinciri Üzerindeki Etkileri
 date: '2024-02-27T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/walmart-slashes-otif-supplier-shipment-requirements
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_a6539802133b4350b9029d7f1c223184~mv2.jpg
 imageAlt: Walmart'ın Tedarikçi Standartlarında Yapılan Değişiklikler ve Tedarik Zinciri Üzerindeki Etkileri

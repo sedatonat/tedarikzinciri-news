@@ -2,6 +2,7 @@
 title: Ship Accident Topples Cranes at Evyapport
 subtitle: Ship Accident Topples Cranes at Evyapport
 date: '2024-03-16T09:00:00Z'
+sourceUrl: https://www.netgaste.com/video/19590087/evyapport-limaninda-dehset-anlari
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a583a26170ee4ff68a212e3429007f3b~mv2.jpg
 imageAlt: Ship Accident Topples Cranes at Evyapport

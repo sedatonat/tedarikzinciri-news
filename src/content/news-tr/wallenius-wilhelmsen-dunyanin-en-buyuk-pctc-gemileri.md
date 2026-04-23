@@ -2,6 +2,7 @@
 title: Wallenius Wilhelmsen, Dünyanın En Büyük PCTC Gemilerini İnşa Ediyor
 subtitle: Wallenius Wilhelmsen, Dünyanın En Büyük PCTC Gemilerini İnşa Ediyor
 date: '2024-09-27T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/wallenius-wilhelmsen-to-build-worlds-largest-pctc-ships/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b79c188e9c454c3bb6a6881dee143eae~mv2.jpg
 imageAlt: Wallenius Wilhelmsen, Dünyanın En Büyük PCTC Gemilerini İnşa Ediyor

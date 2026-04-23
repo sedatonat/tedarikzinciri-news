@@ -2,6 +2,7 @@
 title: Ford’a Tedarik Eden Novelis Fabrikasında Yeniden Yangın Çıktı
 subtitle: Ford’a Tedarik Eden Novelis Fabrikasında Yeniden Yangın Çıktı
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42890-aluminum-plant-supplying-ford-pickups-erupts-in-fire-again
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_cef3adede9274c3e8642f34d9123ec08~mv2.jpg
 imageAlt: New York’taki Novelis tesisinde Ford F-150 gibi modeller için alüminyum üreten fabrikanın tekrar yangın çıkarması, tahliye süreci, potansiyel üretim etkisi ve Ford’un finansal risk değerlendirmesini anlatan ayrıntılı özet.

@@ -2,6 +2,7 @@
 title: DHL Enhances Operations and Customer Communication with HappyRobot AI Agents
 subtitle: DHL Enhances Operations and Customer Communication with HappyRobot AI Agents
 date: '2025-11-25T09:00:00Z'
+sourceUrl: https://warehousinglogisticsinternational.com/dhl-boosts-operational-efficiency-and-customer-communications-with-happyrobots-ai-agents/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_14f64166743f40b6b5ffc8ef0056dea7~mv2.jpg
 imageAlt: DHL Supply Chain's collaboration with HappyRobot to automate phone, email, and messaging processes with autonomous AI agents, detailing the transformation in operational efficiency and customer experience

@@ -2,6 +2,7 @@
 title: ABD'li İthalatçılar İçin Artan Tarife Maliyetleri Büyük Finansal Değişim Yaratıyor
 subtitle: ABD'li İthalatçılar İçin Artan Tarife Maliyetleri Büyük Finansal Değişim Yaratmakta
 date: '2025-03-14T09:00:00Z'
+sourceUrl: https://www.joc.com/article/escalating-tariff-costs-are-massive-financial-shift-for-us-importers-experts-5962308
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_77cbb4eeebce4a11864f648034d66cd4~mv2.jpg
 imageAlt: ABD'li İthalatçılar İçin Artan Tarife Maliyetleri Büyük Finansal Değişim Yaratmakta

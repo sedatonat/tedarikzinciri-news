@@ -2,6 +2,7 @@
 title: 'Linerless Labels: The Triple Win of Sustainability, Efficiency and Cost Savings in Warehousing and Manufacturing'
 subtitle: 'Linerless Labels: The Triple Win of Sustainability, Efficiency and Cost Savings in Warehousing and Manufacturing'
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42553-linerless-labels-a-triple-win-of-benefits-in-warehousing-and-manufacturing
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_f84eeefa82c44dbc9478cec22e99e4ff~mv2.jpg
 imageAlt: Linerless label technology delivers environmental, economic and operational benefits to companies by reducing waste, lowering costs and improving labeling efficiency in manufacturing and warehouse operations. Pioneered by Peak Technologies and Honeywell, this system is becoming the new standard in sustainable logistics solutions.

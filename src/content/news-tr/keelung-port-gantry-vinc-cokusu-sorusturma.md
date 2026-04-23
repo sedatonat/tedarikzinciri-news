@@ -2,6 +2,7 @@
 title: 'Keelung Port''ta Gantry Vinç Çöktü: Soruşturma Başlatıldı'
 subtitle: 'Keelung Port''ta Gantry Vinç Çöktü: Soruşturma Başlatıldı'
 date: '2024-10-15T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/container-crane-collapses-at-keelung-port/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_fcd32897066f4a01bcc1a730d8988290~mv2.jpg
 imageAlt: 'Keelung Port''ta Gantry Vinç Çöktü: Soruşturma Başlatıldı'

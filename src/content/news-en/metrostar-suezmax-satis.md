@@ -2,6 +2,7 @@
 title: Metrostar Exits Crude Oil Shipping With Double Suezmax Tanker Sale
 subtitle: Metrostar Exits Crude Oil Shipping With Double Suezmax Tanker Sale
 date: '2025-10-28T09:00:00Z'
+sourceUrl: https://splash247.com/metrostar-sails-out-of-crude-trade-with-double-suezmax-sale/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d1c010e5b35a450a9fd2ca71cb087a52~mv2.jpg
 imageAlt: Greek shipowner Metrostar Management has formally exited its crude oil transportation operations by selling two Suezmax-type tankers to Delta Tankers. The sale reflects the continued strength in the secondhand tanker market.

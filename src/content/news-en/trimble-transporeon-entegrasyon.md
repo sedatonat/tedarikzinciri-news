@@ -2,6 +2,7 @@
 title: 'Trimble and Transporeon: Real-Time Freight Tracking and TMS Integration'
 subtitle: 'Trimble and Transporeon: Real-Time Freight Tracking and TMS Integration'
 date: '2025-02-03T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/trimble-transporeon-visibility-real-time-freight-tracking-with-seamless-tms-integration
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a749cb4b64f9458d9f1a65b512ae450a~mv2.jpg
 imageAlt: 'Trimble and Transporeon: Real-Time Freight Tracking and TMS Integration'

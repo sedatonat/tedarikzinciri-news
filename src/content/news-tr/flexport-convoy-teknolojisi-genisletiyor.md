@@ -2,6 +2,7 @@
 title: Flexport, Convoy Teknolojisi ile Broker Platformunu Genişletiyor
 subtitle: Flexport, Convoy Teknolojisi ile Broker Platformunu Genişletiyor
 date: '2024-06-04T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10362-flexport-continues-to-invest-in-convoy-freight-matching-technology
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b84e48e27fc442618cb5128d4dae461c~mv2.jpg
 imageAlt: Flexport, Convoy Teknolojisi ile Broker Platformunu Genişletiyor

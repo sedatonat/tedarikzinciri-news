@@ -2,6 +2,7 @@
 title: 'Red Sea Crisis: Tanker Market Surge and Turkish Shipowners'' Opportunity'
 subtitle: 'Red Sea Crisis: Tanker Market Surge and Turkish Shipowners'' Opportunity'
 date: '2024-03-21T09:00:00Z'
+sourceUrl: https://www.lojiport.com/kizildeniz-krizinin-kazanani-tanker-piyasasi-116345h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_61e3feef37054cdc92d3cc535cc50525~mv2.jpg
 imageAlt: 'Red Sea Crisis: Tanker Market Surge and Turkish Shipowners'' Opportunity'

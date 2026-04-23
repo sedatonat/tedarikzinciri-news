@@ -2,6 +2,7 @@
 title: ABD Tarifelerine Rağmen Çok Merkezli Küresel Ticaret Güçleniyor
 subtitle: ABD Tarifelerine Rağmen Çok Merkezli Küresel Ticaret Güçleniyor
 date: '2025-10-14T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/move/dhl-global-trade-has-flourished-even-as-u-s-tariffs-rocked-american-trade
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_83d50220f32c4c2b8d238f5413990f04~mv2.jpg
 wixId: c9e0eab4-d478-41e5-a972-c0d9533eaba1

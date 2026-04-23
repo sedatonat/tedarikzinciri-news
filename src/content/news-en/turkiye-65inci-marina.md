@@ -2,6 +2,7 @@
 title: 'Turkey Opens Its 65th Marina: Strengthening Global Position in Maritime and Logistics'
 subtitle: 'Turkey Opens Its 65th Marina: Strengthening Global Position in Maritime and Logistics'
 date: '2025-11-11T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384343/
 category: Lojistik
 image: https://static.wixstatic.com/media/0cf27a8746ec4dd887e5a716f301b49b.jpg
 imageAlt: With the opening of Gazipaşa Marina, Turkey's marina count has risen to 65; Uraloğlu emphasized sector growth, the merchant fleet's rise to 53.1 million DWT, Aliağa's entry into the world's top 100 ports, and growth in cruise and yacht tourism.

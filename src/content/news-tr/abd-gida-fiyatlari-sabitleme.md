@@ -2,6 +2,7 @@
 title: Trump, Gıda Tedarik Zincirlerinde Olası Fiyat Sabitleme İçin Federal Soruşturma Emri Verdi
 subtitle: Trump, Gıda Tedarik Zincirlerinde Olası Fiyat Sabitleme İçin Federal Soruşturma Emri Verdi
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/food-supply-chain-meat-price-fixing-investigation-trump-grocery/807301/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_41328419ea914dbbab8e126e453a5dbb~mv2.jpg
 imageAlt: Trump yönetiminin artan market fiyatları karşısında gıda tedarik zincirlerinde fiyat sabitleme ve rekabet ihlali iddialarını incelemek üzere DOJ ve FTC’ye yetki vermesi, özellikle yabancı sermayeli şirketlere odaklanan soruşturmanın kapsamı ve sektörel yansımalarının detaylı özeti

@@ -2,6 +2,7 @@
 title: "Kairos Tankeri Ahtopol Açıklarında Stabilize Edildi: Ortak Kurtarma Operasyonu Sürüyor"
 subtitle: 'Kairos Tankeri Ahtopol Açıklarında Stabilize Edildi: Ortak Kurtarma Operasyonu Sürmekte'
 date: '2025-12-07T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385478/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_940535ba9dd9462c9a96126c69711a67~mv2.jpg
 imageAlt: Kairos tankerinin İstanbul Boğazı kuzeyinde yaşanan patlama sonrası sürüklenerek Ahtopol açıklarına ulaşması, Bulgar–Türk kurumlarının koordinasyonu, hava şartlarının operasyonu engellemesi ve çevresel risklerin değerlendirilmesine dair detaylı özet

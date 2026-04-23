@@ -2,6 +2,7 @@
 title: Shell's Singapore Refinery Experiences Second Oil Spill in Two Months
 subtitle: Shell's Singapore Refinery Experiences Second Oil Spill in Two Months
 date: '2024-12-27T09:00:00Z'
+sourceUrl: https://container-news.com/shells-singapore-refinery-suffers-second-oil-leak-in-two-months/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_9baa3e161eab47c0957daaa45f53bbfa~mv2.jpeg
 imageAlt: Shell's Singapore Refinery Experiences Second Oil Spill in Two Months

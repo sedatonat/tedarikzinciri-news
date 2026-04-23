@@ -2,6 +2,7 @@
 title: 'Black Sea War Insurance Premiums Surge 250%: Ship Attacks Escalate Regional Risks'
 subtitle: 'Black Sea War Insurance Premiums Surge 250%: Ship Attacks Escalate Regional Risks'
 date: '2025-12-04T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42933-black-sea-war-insurance-soars-250-after-ship-attacks
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_fed46065883b40acbd71286d756df46b~mv2.jpg
 imageAlt: Following Ukraine's attacks on Russia-linked vessels, war-risk insurance premiums in the Black Sea have tripled, detailed summary of shadow fleet impacts, regional security risks, and supply chain consequences

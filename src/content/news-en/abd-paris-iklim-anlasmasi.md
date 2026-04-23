@@ -2,6 +2,7 @@
 title: US Withdraws Again from Paris Climate Agreement
 subtitle: US Withdraws Again from Paris Climate Agreement
 date: '2025-01-21T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/372564/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/11062b_1c96ba4feade49898451a679c7686f56~mv2.jpg
 imageAlt: US Withdraws Again from Paris Climate Agreement

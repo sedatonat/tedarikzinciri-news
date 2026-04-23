@@ -2,6 +2,7 @@
 title: Rusya ve İran, Mahaçkale–İran Limanları Arasında Konteyner Hattı Kurulmasını Görüşüyor
 subtitle: Rusya ve İran, Mahaçkale–İran Limanları Arasında Konteyner Hattı Kurulmasını Görüşüyor
 date: '2025-11-13T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/11/13/en-russia-and-iran-discuss-container-line-between-makhachkala-and-iran/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_55beddde3b6346c79c99089bd1d3f3c8~mv2.jpg
 imageAlt: Rusya ve İran heyetleri, Mahaçkale Limanı’nın modernizasyonu ve Mahaçkale–İran arasında yeni bir konteyner hattı kurulması üzerine görüştü; planlar, Kuzey–Güney Koridoru kapsamında limanın kapasitesinin 2030’a kadar 10 milyon tona çıkarılmasını içeriyor.

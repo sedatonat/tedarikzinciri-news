@@ -2,6 +2,7 @@
 title: Denizcilik Devleri Medya Dünyasına Yelken Açıyor
 subtitle: Denizcilik Devleri Medya Dünyasına Yelken Açıyor
 date: '2024-03-29T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/39391-msc-to-buy-italian-shipping-newspaper-group
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_785ca5104003459491e050a5de508155~mv2.jpg
 imageAlt: Denizcilik Devleri Medya Dünyasına Yelken Açıyor

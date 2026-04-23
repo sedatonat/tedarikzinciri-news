@@ -2,6 +2,7 @@
 title: Commitment to Triple Nuclear Capacity by 2050
 subtitle: Commitment to Triple Nuclear Capacity by 2050
 date: '2025-03-13T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/374568/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_e276101090fd45f6bb4dceb1f9aa5b91~mv2.jpg
 imageAlt: Commitment to Triple Nuclear Capacity by 2050

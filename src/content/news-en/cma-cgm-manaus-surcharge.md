@@ -2,6 +2,7 @@
 title: CMA CGM Postpones Implementation of Low Water Surcharge on Manaus Routes
 subtitle: CMA CGM Postpones Implementation of Low Water Surcharge on Manaus Routes
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://container-news.com/cma-cgm-postpones-implementation-of-low-water-surcharge-for-manaus/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_30afa68c8d584611864eb5199dd13213~mv2.jpg
 imageAlt: CMA CGM has postponed the implementation of the planned Low Water Surcharge (LWS) for shipments on its Far East–Manaus route to November 15, 2025, citing slower-than-expected decline in water levels on the Amazon River.

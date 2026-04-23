@@ -2,6 +2,7 @@
 title: Giresun Port Included in MSC's Container Line
 subtitle: Giresun Port Included in MSC's Container Line
 date: '2023-12-15T09:00:00Z'
+sourceUrl: https://www.lojiport.com/giresun-limaninda-ilk-konteyner-tasimaciligi-heyecani-115954h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_debb508075d744d596696e7dc744a418~mv2.jpg
 imageAlt: Giresun Port Included in MSC's Container Line

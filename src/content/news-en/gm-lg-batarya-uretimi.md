@@ -2,6 +2,7 @@
 title: 'GM and LG: Low-Cost EV Battery Production in Tennessee'
 subtitle: 'GM and LG: Low-Cost EV Battery Production in Tennessee'
 date: '2025-07-15T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42146-gm-and-lg-to-outfit-tennessee-plant-for-low-cost-ev-battery-production
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_8dca8ef1f666420ea966bf553dbdcd4b~mv2.png
 imageAlt: 'GM and LG: Low-Cost EV Battery Production in Tennessee'

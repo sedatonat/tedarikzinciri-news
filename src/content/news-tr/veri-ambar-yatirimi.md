@@ -2,6 +2,7 @@
 title: Veri Ambarı Yatırımlarıyla Yazılım Seçeneklerini Artıran Göndericiler
 subtitle: Veri Ambarı Yatırımlarıyla Yazılım Seçeneklerini Artıran Göndericiler
 date: '2025-03-11T09:00:00Z'
+sourceUrl: https://www.joc.com/article/shippers-investing-in-data-warehousing-capability-to-increase-software-options-5960783
 category: Teknoloji
 image: https://static.wixstatic.com/media/11062b_5b8d6b0dcb864a1394ad23f6bcff6e01~mv2.jpg
 imageAlt: Veri Ambarı Yatırımlarıyla Yazılım Seçeneklerini Artıran Göndericiler

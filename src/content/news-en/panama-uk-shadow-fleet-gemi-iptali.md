@@ -2,6 +2,7 @@
 title: Panama Cancels Ship Registrations Following UK's Shadow Fleet Crackdown
 subtitle: Panama Cancels Ship Registrations Following UK's Shadow Fleet Crackdown
 date: '2024-11-29T09:00:00Z'
+sourceUrl: https://gcaptain.com/panama-cancels-ship-registrations-after-uks-shadow-fleet-crackdown/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_48f8b4dbc0d441398bd67b0565fd4d2e~mv2.jpg
 imageAlt: Panama Cancels Ship Registrations Following UK's Shadow Fleet Crackdown

@@ -2,6 +2,7 @@
 title: BlackRock's Role in Game-Changing Port Acquisition Deal
 subtitle: BlackRock's Role in Game-Changing Port Acquisition Deal
 date: '2025-03-07T09:00:00Z'
+sourceUrl: https://container-news.com/inside-blackrocks-role-in-the-game-changing-port-acquisition-deal/
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_45adc15b80134407af94c5fb0b1460bf~mv2.jpg
 imageAlt: BlackRock's Role in Game-Changing Port Acquisition Deal

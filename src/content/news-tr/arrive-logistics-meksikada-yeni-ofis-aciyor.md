@@ -2,6 +2,7 @@
 title: Arrive Logistics, Nearshoring Akımıyla Meksika'da Yeni Bir Ofis Açıyor
 subtitle: Arrive Logistics, Nearshoring Akımıyla Meksika'da Yeni Bir Ofis Açıyor
 date: '2024-02-14T09:00:00Z'
+sourceUrl: https://www.supplychainquarterly.com/articles/9621-arrive-logistics-opens-guadalajara-office-as-nearshoring-boom-continues
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_d421bbec6cba46319d09d27f59af6626~mv2.jpg
 imageAlt: Arrive Logistics, Nearshoring Akımıyla Meksika'da Yeni Bir Ofis Açıyor

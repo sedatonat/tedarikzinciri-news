@@ -2,6 +2,7 @@
 title: Cyberattack on Supplier Leaves Whole Foods Shelves Empty
 subtitle: Cyberattack on Supplier Leaves Whole Foods Shelves Empty
 date: '2025-06-14T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42021-cyberattack-on-supplier-causes-empty-shelves-at-whole-foods
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_4cef3eec4341451eadcfe3ba722a698d~mv2.png
 imageAlt: Cyberattack on Supplier Leaves Whole Foods Shelves Empty

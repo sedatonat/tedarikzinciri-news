@@ -2,6 +2,7 @@
 title: 'CMA CGM''s "Quiet" Return to Russia: No Direct Service, But Feeder Network Present'
 subtitle: 'CMA CGM''s "Quiet" Return to Russia: No Direct Service, But Feeder Network Present'
 date: '2025-12-01T09:00:00Z'
+sourceUrl: https://shippingwatch.com/carriers/Container/article18798214.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b89d0da026c44b59ae1a68634893d5a1~mv2.jpg
 imageAlt: According to November-December 2025 logistics reports, a detailed analysis of CMA CGM's delayed planned direct return to Russia, India-linked feeder operations, and the company's risk management strategy

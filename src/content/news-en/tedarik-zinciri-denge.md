@@ -2,6 +2,7 @@
 title: 'View from the Fence: Seeking Balance in Supply'
 subtitle: 'View from the Fence: Seeking Balance in Supply'
 date: '2025-05-13T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41573-view-from-the-fence
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_120add6c163f4c4491aa248ce647efcc~mv2.png
 imageAlt: 'View from the Fence: Seeking Balance in Supply'

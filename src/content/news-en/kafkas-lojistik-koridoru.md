@@ -2,6 +2,7 @@
 title: Political Breakthrough Between Armenia and Azerbaijan Opens New Transit Corridors in the Caucasus
 subtitle: Political Breakthrough Between Armenia and Azerbaijan Opens New Transit Corridors in the Caucasus
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/10/29/a-political-breakthrough-opens-up-the-caucasus-for-more-freight-transit/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d35f03f3d5b84cadad321b115da48fb3~mv2.jpg
 imageAlt: Political rapprochement between Armenia and Azerbaijan is reshaping railway and road transportation networks in the Caucasus region. Following decades of closed borders and transit bans, the region is now reopening to international freight transportation.

@@ -2,6 +2,7 @@
 title: Yeni Küresel Konteyner Limanları Endeksi (LCP - Leading Container Ports)
 subtitle: Yeni Küresel Konteyner Limanları Endeksi (LCP - Leading Container Ports)
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://splash247.com/new-container-port-index-launches/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_df87c3b1fb084da898b2476b205c4e2c~mv2.jpg
 wixId: 2212ecf6-6e3d-46c4-852a-9d408325d28d

@@ -2,6 +2,7 @@
 title: Vancouver Port to Provide Vessel Arrival Notice 96 Hours in Advance with New Planning System
 subtitle: Vancouver Port to Provide Vessel Arrival Notice 96 Hours in Advance with New Planning System
 date: '2025-12-05T09:00:00Z'
+sourceUrl: https://www.joc.com/article/vancouvers-new-scheduling-system-gives-96-hour-advance-notice-of-vessel-arrivals-6129517
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_36880165ab864f93b2dd622135c1b935~mv2.jpg
 imageAlt: Summary of Vancouver Port's centralized planning system requiring vessel arrival information to be communicated to terminal operators at least 96 hours in advance and its detailed impacts on labor, equipment, congestion, and Trans-Pacific operations

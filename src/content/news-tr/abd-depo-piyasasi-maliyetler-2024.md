@@ -2,6 +2,7 @@
 title: 'ABD Depo Piyasasında Karışık Sinyaller: Büyüme Hızı Yavaşlıyor'
 subtitle: 'ABD Depo Piyasasında Karışık Sinyaller: Büyüme Hızı Yavaşlıyor'
 date: '2024-02-27T09:00:00Z'
+sourceUrl: https://www.scdigest.com/ONTARGET/24-02-27_WAREHOUSE_SPACE_MARKET_COOLING.PHP?cid=21283&amp;ctype=content
 category: Envanter
 image: https://static.wixstatic.com/media/11062b_939204ae9b614238a9e6d17a9368b38f~mv2.jpeg
 imageAlt: 'ABD Depo Piyasasında Karışık Sinyaller: Büyüme Hızı Yavaşlıyor'

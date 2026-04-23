@@ -2,6 +2,7 @@
 title: Argo Merchant Oil Spill Drift Card Found on Scottish Isle
 subtitle: Argo Merchant Oil Spill Drift Card Found on Scottish Isle
 date: '2024-12-27T09:00:00Z'
+sourceUrl: https://gcaptain.com/five-decades-at-sea-argo-merchant-oil-spill-drift-card-turns-up-on-scottish-isle/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6ef2dc28020b4f3f8ae5533a1bec4d85~mv2.jpg
 imageAlt: Argo Merchant Oil Spill Drift Card Found on Scottish Isle

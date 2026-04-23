@@ -2,6 +2,7 @@
 title: Will US–EU Pharma Tariffs Restore Domestic Production?
 subtitle: Will US–EU Pharma Tariffs Restore Domestic Production?
 date: '2025-11-17T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42845-will-the-us-eu-pharma-deal-tariffs-trigger-a-resurgence-of-domestic-production
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_6d6893e461d443a4af1a73b78eb100b7~mv2.jpg
 imageAlt: The US–EU pharmaceutical tariff agreement reached last summer imposes a 15% tax on medicines imported from Europe and provides Section 232 exemptions for certain products. In the short term, it is expected to raise drug prices and insurance premiums; in the long term, it may trigger a restructuring of the supply chain.

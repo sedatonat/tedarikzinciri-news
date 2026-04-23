@@ -2,6 +2,7 @@
 title: 2025'te Deniz Taşımacılığı Tedarik Zincirini İleriye Taşıyan Beş Eğilim
 subtitle: 2025'te Deniz Taşımacılığı Tedarik Zincirini İleriye Taşıyan Beş Eğilim
 date: '2024-11-19T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/maritime-supply-chain-2025-trends
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_846a18d71502440995a341bab52ee50c~mv2.jpg
 imageAlt: 2025'te Deniz Taşımacılığı Tedarik Zincirini İleriye Taşıyan Beş Eğilim

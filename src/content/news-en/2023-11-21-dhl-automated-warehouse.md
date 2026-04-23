@@ -2,6 +2,7 @@
 title: DHL to Open 4 New Smart Warehouses
 subtitle: DHL to Open 4 New Smart Warehouses
 date: '2023-11-21T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/DHL-Supply-Chain-AutoStore-warehouses-reinforces-robotics-and-automation-strategy/699805/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_5036cd849efe493b927d3ef51944cb88~mv2.jpg
 imageAlt: DHL to Open 4 New Smart Warehouses

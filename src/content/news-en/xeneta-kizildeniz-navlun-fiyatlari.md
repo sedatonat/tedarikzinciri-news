@@ -2,6 +2,7 @@
 title: 'Xeneta: Calm in the Red Sea Could Sharply Drive Down Freight Rates'
 subtitle: 'Xeneta: Calm in the Red Sea Could Sharply Drive Down Freight Rates'
 date: '2025-11-12T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384378/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5273021686624cec8e54e121a9c31e8a~mv2.jpg
 imageAlt: A reduction in Red Sea risk following a Houthi halt to attacks, coupled with a mass return to Suez, could increase global container capacity and trigger sharp declines in freight rates; Xeneta analysts emphasize that uncertainty remains very high.

@@ -2,6 +2,7 @@
 title: Zebra Depo Robotik İşinden Çıkış Kararı Aldı
 subtitle: Zebra Depo Robotik İşinden Çıkış Kararı Aldı
 date: '2025-12-18T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/zebra-plans-exit-warehouse-robotics-fetch
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_8e75f3d5275d4c9d80b525949984de01~mv2.jpg
 imageAlt: Zebra Technologies, Fetch Robotics satın alımıyla girdiği depo içi mobil robot pazarından çıkmayı planlarken, odağını RFID, mobil bilişim, makine görüşü, yapay zeka ve yazılım tabanlı büyüme alanlarına kaydırıyor.

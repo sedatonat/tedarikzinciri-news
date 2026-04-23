@@ -2,6 +2,7 @@
 title: DHL Global Forwarding Launches Consolidated Customs Service for U.S. Retailers
 subtitle: DHL Global Forwarding Launches Consolidated Customs Service for U.S. Retailers
 date: '2025-10-20T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/dhl_global_forwarding_launches_consolidated_clearance_service_to_simplify_u.s_import_process_for_retailers
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_811e814521a54fe0b11d3b4266eb235d~mv2.jpeg
 imageAlt: DHL Global Forwarding announced a new "Consolidated Clearance Service" that consolidates customs processes under a single declaration for high-volume imports to the United States. The system provides retailers with cost, speed, and compliance advantages, aiming to enhance operational efficiency especially during Black Friday and holiday seasons.

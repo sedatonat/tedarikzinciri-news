@@ -2,6 +2,7 @@
 title: Çin'in Gemi İnşa Hakimiyetine Karşı ABD'den Ticari Hamle
 subtitle: Çin'in Gemi İnşa Hakimiyetine Karşı ABD'den Ticari Hamle
 date: '2024-03-12T09:00:00Z'
+sourceUrl: https://gcaptain.com/us-labor-unions-call-for-investigation-into-chinas-unfair-shipbuilding-practices/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7a6b4cf9de79432fb9933d44dca4f086~mv2.jpeg
 imageAlt: Çin'in Gemi İnşa Hakimiyetine Karşı ABD'den Ticari Hamle

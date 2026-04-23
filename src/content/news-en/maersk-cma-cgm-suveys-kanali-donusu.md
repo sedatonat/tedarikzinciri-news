@@ -2,6 +2,7 @@
 title: 'Maersk and CMA CGM Return to Suez at Full Capacity in December: New Partnership Agreement Accelerates Timeline'
 subtitle: 'Maersk and CMA CGM Return to Suez at Full Capacity in December: New Partnership Agreement Accelerates Timeline'
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384992/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_68248f4aecb44ec5a8dc230c659f5519~mv2.jpg
 imageAlt: Following the strategic partnership agreement signed between the Suez Canal Authority and Maersk, Maersk and CMA CGM vessels are expected to return to full capacity Suez Canal transits in December.

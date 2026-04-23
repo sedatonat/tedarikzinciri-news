@@ -2,6 +2,7 @@
 title: 'Sea-Intelligence: Structural Transformation Underway in Global Vessel Cascading'
 subtitle: 'Sea-Intelligence: Structural Transformation Underway in Global Vessel Cascading'
 date: '2025-12-13T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385740/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_046495df615646aba3d79786e918ab5b~mv2.jpg
 imageAlt: According to Sea-Intelligence analysis, in the second half of 2025, the global container fleet is entering a new and permanent phase in the vessel cascading process, with capacity being structurally redistributed from primary mainlines to secondary trade lanes

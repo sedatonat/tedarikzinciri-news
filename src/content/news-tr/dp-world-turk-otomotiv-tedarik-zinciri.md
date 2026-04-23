@@ -2,6 +2,7 @@
 title: DP World, Türk Otomotiv Endüstrisi İçin Yeni Tedarik Zinciri Güzergahları Sunuyor
 subtitle: DP World, Türk Otomotiv Endüstrisi İçin Yeni Tedarik Zinciri Güzergahları Sunuyor
 date: '2024-05-03T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/dp-world-bolsters-turkish-imports/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_049756a29ff34e5eace94912ff20bdd3~mv2.jpg
 imageAlt: DP World, Türk Otomotiv Endüstrisi İçin Yeni Tedarik Zinciri Güzergahları Sunuyor

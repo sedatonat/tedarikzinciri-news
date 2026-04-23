@@ -2,6 +2,7 @@
 title: 'Veri Hazırlığıyla Fark Yaratan Perakendeciler: Beş Kat Daha Yüksek Büyüme'
 subtitle: 'Veri Hazırlığıyla Fark Yaratan Perakendeciler: Beş Kat Daha Yüksek Büyüme'
 date: '2025-10-20T09:00:00Z'
+sourceUrl: https://www.scmr.com/article/are-you-data-ready-or-in-data-despair
 category: Teknoloji
 image: https://static.wixstatic.com/media/11062b_ae708cec5f3242a588b44741a32efc05~mv2.jpg
 imageAlt: 'Veri Hazırlığıyla Fark Yaratan Perakendeciler: Beş Kat Daha Yüksek Büyüme'

@@ -2,6 +2,7 @@
 title: '"Sendeo" and "Kolay Gelsin" Merge Under "Kolay Gelsin" Umbrella'
 subtitle: '"Sendeo" and "Kolay Gelsin" Merge Under "Kolay Gelsin" Umbrella'
 date: '2024-05-30T09:00:00Z'
+sourceUrl: https://www.lojiport.com/iki-dev-birlesti-turkiyenin-en-buyuk-kargo-sirketi-dogdu-116594h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6ebd5403de7a407da346e27e0305c61c~mv2.jpg
 imageAlt: '"Sendeo" and "Kolay Gelsin" Merge Under "Kolay Gelsin" Umbrella'

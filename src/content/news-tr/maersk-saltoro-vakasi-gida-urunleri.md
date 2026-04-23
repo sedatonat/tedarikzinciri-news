@@ -2,6 +2,7 @@
 title: 'Maersk Saltoro Vakası: Hükümetler, Sigortacılar ve Göndericiler İçin Dersler'
 subtitle: 'Maersk Saltoro Vakası: Hükümetler, Sigortacılar ve Göndericiler İçin Dersler'
 date: '2025-03-11T09:00:00Z'
+sourceUrl: https://container-news.com/maersk-saltoro-case-lessons-for-government-insurers-and-shippers/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_629f1ff6bc014d04b4172534677b01c3~mv2.jpg
 imageAlt: 'Maersk Saltoro Vakası: Hükümetler, Sigortacılar ve Göndericiler İçin Dersler'

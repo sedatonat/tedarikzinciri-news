@@ -2,6 +2,7 @@
 title: 'USPS Leadership: The Legacy of Controversial Cuts'
 subtitle: 'USPS Leadership: The Legacy of Controversial Cuts'
 date: '2025-03-25T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41426-usps-head-leaves-behind-legacy-of-controversial-cuts
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_ecb4b36d14434687a56df787853755d6~mv2.png
 imageAlt: 'USPS Leadership: The Legacy of Controversial Cuts'

@@ -2,6 +2,7 @@
 title: Şubat Ayı Spot Yük Hacmi ve Fiyat Düşüşleri
 subtitle: Şubat Ayı Spot Yük Hacmi ve Fiyat Düşüşleri
 date: '2025-03-14T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/dat_truckload_volume_index_highlights_february_spot_truckload_volume_and_rate_declines
 category: Lojistik
 image: https://static.wixstatic.com/media/11062b_0f594c6bce5841ad80043b561a101bbe~mv2.jpeg
 imageAlt: Şubat Ayı Spot Yük Hacmi ve Fiyat Düşüşleri

@@ -2,6 +2,7 @@
 title: 'Geleceğin Depoları: AI ve Robotikle Yönetilen Otonom Depolar'
 subtitle: 'Geleceğin Depoları: AI ve Robotikle Yönetilen Otonom Depolar'
 date: '2024-06-04T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10363-microsoft-and-arvato-to-design-self-managing-warehouse-of-the-future
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_2015069e3e0c4a3bac3e2a28646c65b7~mv2.jpg
 imageAlt: 'Geleceğin Depoları: AI ve Robotikle Yönetilen Otonom Depolar'

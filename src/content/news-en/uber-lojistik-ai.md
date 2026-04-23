@@ -2,6 +2,7 @@
 title: Uber Freight Is Redefining Logistics with Artificial Intelligence
 subtitle: Uber Freight Is Redefining Logistics with Artificial Intelligence
 date: '2025-10-22T09:00:00Z'
+sourceUrl: https://www.scmr.com/article/beyond-the-algorithm-how-uber-freight-is-using-ai-to-redefine-logistics
 category: Lojistik
 image: https://static.wixstatic.com/media/11062b_0ef3b6692292423cbd488e7714c5c691~mv2.jpeg
 imageAlt: Uber Freight is redefining logistics with artificial intelligence

@@ -2,6 +2,7 @@
 title: Reducing Carbon Footprint While Cutting Costs
 subtitle: Reducing Carbon Footprint While Cutting Costs
 date: '2025-02-10T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41682-cutting-costs-while-reducing-your-carbon-footprint
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7437913ac0594f8d9f3949c627dd5f5c~mv2.png
 imageAlt: Reducing Carbon Footprint While Cutting Costs

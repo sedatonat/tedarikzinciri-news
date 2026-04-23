@@ -2,6 +2,7 @@
 title: Robots Reduce Employee Turnover in Retail Sector
 subtitle: Robots Reduce Employee Turnover in Retail Sector
 date: '2024-06-07T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10383-simbe-says-inventory-counting-robots-boost-retail-worker-retention
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_e3c837513dca40d893eb33e3153ed521~mv2.jpeg
 imageAlt: Robots Reduce Employee Turnover in Retail Sector

@@ -2,6 +2,7 @@
 title: Accenture Strengthens Sustainability Position by Acquiring Net Zero Infrastructure Consultant Boslan
 subtitle: Accenture Strengthens Sustainability Position by Acquiring Net Zero Infrastructure Consultant Boslan
 date: '2024-08-09T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10709-accenture-acquires-net-zero-infrastructure-consultant-boslan
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_16820f6e2ace4dc69688de2608253a09~mv2.png
 imageAlt: Accenture Strengthens Sustainability Position by Acquiring Net Zero Infrastructure Consultant Boslan

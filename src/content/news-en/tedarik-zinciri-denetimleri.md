@@ -2,6 +2,7 @@
 title: Rising Supply Chain Scrutiny Strains Customs Capacity
 subtitle: Rising Supply Chain Scrutiny Strains Customs Capacity
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.joc.com/article/increased-supply-chain-scrutiny-at-odds-with-customs-enforcement-capability-6108523
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_8c8252acee704cbca062c12b15a5c25a~mv2.jpg
 imageAlt: The U.S. Customs and Border Protection (CBP) is running a pilot project with Altana to conduct detailed examinations of supply chains. However, rising trade regulations and complex supply structures are creating an unprecedented burden that exceeds the inspection capacity of customs authorities worldwide.

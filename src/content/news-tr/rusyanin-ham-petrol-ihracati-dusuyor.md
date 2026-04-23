@@ -2,6 +2,7 @@
 title: Rusya’nın Ham Petrol İhracatı Eylül Ayından Bu Yana En Düşük Seviyede
 subtitle: Rusya’nın Ham Petrol İhracatı Eylül Ayından Bu Yana En Düşük Seviyede
 date: '2024-11-15T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/west-coast-rail-operations-challenges-what-shippers-can-do/732680/
 category: Satınalma
 image: https://static.wixstatic.com/media/fb82545edb1641db909d551d5f65382b.jpg
 imageAlt: Rusya’nın Ham Petrol İhracatı Eylül Ayından Bu Yana En Düşük Seviyede

@@ -2,6 +2,7 @@
 title: 'Konteyner Gemilerindeki Yangınlar: Daha İyi Veriyle Risk Azaltımı'
 subtitle: 'Konteyner Gemilerindeki Yangınlar: Daha İyi Veriyle Risk Azaltımı'
 date: '2024-09-19T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/cig-container-ship-fires-could-be-reduced-by-better-data
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_aabff8cedc1541a5bffa56336c40ee49~mv2.jpeg
 imageAlt: 'Konteyner Gemilerindeki Yangınlar: Daha İyi Veriyle Risk Azaltımı'

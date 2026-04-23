@@ -2,6 +2,7 @@
 title: Gelecek Liman Tıkanıklıklarını Önlemede Veri Paylaşımı Kritik
 subtitle: Gelecek Liman Tıkanıklıklarını Önlemede Veri Paylaşımı Kritik
 date: '2025-12-15T09:00:00Z'
+sourceUrl: https://www.joc.com/article/more-data-sharing-crucial-to-avoiding-future-port-congestion-officials-6135162
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e460b63b418c4aa0be3adb7c46fcd976~mv2.jpg
 imageAlt: ABD konteyner limanlarında 2021–22 dönemindeki tıkanıklıkların tekrarını önlemek için taşıyıcılar ve tedarik zinciri paydaşları arasında data sharing iş birliğinin neden kritik hale geldiğini ele alan kapsamlı sektör özeti

@@ -2,6 +2,7 @@
 title: Son Denizcilik Haberleri ve Gelişmeleri
 subtitle: Son Denizcilik Haberleri ve Gelişmeleri
 date: '2025-01-16T09:00:00Z'
+sourceUrl: https://gcaptain.com/page/2/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_437130fd148e40bb9f2838db862dff64~mv2.jpg
 imageAlt: Son Denizcilik Haberleri ve Gelişmeleri

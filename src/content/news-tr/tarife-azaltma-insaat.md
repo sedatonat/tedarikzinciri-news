@@ -2,6 +2,7 @@
 title: İnşaatta Tarife Etkisini Azaltma Stratejileri
 subtitle: İnşaatta Tarife Etkisini Azaltma Stratejileri
 date: '2025-04-17T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/41445-how-construction-contractors-can-mitigate-the-impact-of-tariffs
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_fe4d6a4670574dd5bd1821fd631758a0~mv2.png
 imageAlt: İnşaatta Tarife Etkisini Azaltma Stratejileri

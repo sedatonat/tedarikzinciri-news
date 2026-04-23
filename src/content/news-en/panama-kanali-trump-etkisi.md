@@ -2,6 +2,7 @@
 title: 'The Panama Canal and Donald Trump: Impacts on Your Supply Chain'
 subtitle: 'The Panama Canal and Donald Trump: Impacts on Your Supply Chain'
 date: '2024-12-23T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/panama-canal-donald-trump-disuption
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f522307c69b94859b0d2864662f40aa7~mv2.jpg
 imageAlt: 'The Panama Canal and Donald Trump: Impacts on Your Supply Chain'

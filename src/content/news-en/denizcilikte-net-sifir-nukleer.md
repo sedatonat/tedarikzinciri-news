@@ -2,6 +2,7 @@
 title: Nuclear Energy Is Essential for Shipping to Achieve Net Zero
 subtitle: Nuclear Energy Is Essential for Shipping to Achieve Net Zero
 date: '2025-02-12T09:00:00Z'
+sourceUrl: https://gcaptain.com/the-calculus-for-net-zero-in-shipping-by-2050-must-include-nuclear-says-abs-chairman-and-ceo/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_adc34ea517b745f89b239c36e62f66f7~mv2.jpg
 imageAlt: Nuclear Energy Is Essential for Shipping to Achieve Net Zero

@@ -2,6 +2,7 @@
 title: 'Yurtiçi Kargo''dan Eskişehir’e Teknolojik Devrim: Robotik Otomasyon Merkezi'
 subtitle: 'Yurtiçi Kargo''dan Eskişehir’e Teknolojik Devrim: Robotik Otomasyon Merkezi'
 date: '2024-02-16T09:00:00Z'
+sourceUrl: https://www.lojiport.com/yurtici-kargodan-eskisehire-buyuk-robotik-ve-otomasyon-yatirimi-116223h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_64917f61b5e14422baac9c95368dad6b~mv2.jpg
 imageAlt: 'Yurtiçi Kargo''dan Eskişehir’e Teknolojik Devrim: Robotik Otomasyon Merkezi'

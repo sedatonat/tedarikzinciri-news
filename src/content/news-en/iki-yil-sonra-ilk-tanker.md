@@ -2,6 +2,7 @@
 title: 'First Supertanker Scrapped in Two Years: A ''Dark Ship'''
 subtitle: 'First Supertanker Scrapped in Two Years: A ''Dark Ship'''
 date: '2024-12-27T09:00:00Z'
+sourceUrl: https://gcaptain.com/first-supertanker-to-be-scrapped-in-two-years-is-a-dark-ship/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_aea91a7dab3840d59bf576301411adab~mv2.jpeg
 imageAlt: 'First Supertanker Scrapped in Two Years: A ''Dark Ship'''

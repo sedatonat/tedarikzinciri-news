@@ -2,6 +2,7 @@
 title: GXO Deploys 500 Robots at French Distribution Center to Boost Automation
 subtitle: GXO Deploys 500 Robots at French Distribution Center to Boost Automation
 date: '2024-05-16T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10267-gxo-deploys-500-robots-at-french-dc
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_67ba6c1c74b046c593606122dbbba8b4~mv2.jpg
 imageAlt: GXO Deploys 500 Robots at French Distribution Center to Boost Automation

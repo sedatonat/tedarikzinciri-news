@@ -2,6 +2,7 @@
 title: DeepOcean Wins Major Subsea Decommissioning Project Off Western Australia
 subtitle: DeepOcean Wins Major Subsea Decommissioning Project Off Western Australia
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://splash247.com/deepocean-wins-western-australia-decommissioning-job/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8f654f89398b4ae3b0c029d29fdb735e~mv2.jpg
 imageAlt: DeepOcean has secured a new contract for subsea decommissioning operations in oil and gas fields offshore Western Australia. The project will combine Shelf Subsea's regional expertise with DeepOcean's global experience.

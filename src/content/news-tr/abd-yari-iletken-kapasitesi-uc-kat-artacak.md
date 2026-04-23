@@ -2,6 +2,7 @@
 title: ABD'nin Yarı İletken Üretim Kapasitesi 2032'ye Kadar 3 Katına Çıkacak
 subtitle: ABD'nin Yarı İletken Üretim Kapasitesi 2032'ye Kadar 3 Katına Çıkacak
 date: '2024-05-08T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/39677-new-report-projects-us-will-triple-semiconductor-capacity-by-2032
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_3d37b5457e404a7bb49ef93498eff0a2~mv2.jpg
 imageAlt: ABD'nin Yarı İletken Üretim Kapasitesi 2032'ye Kadar 3 Katına Çıkacak

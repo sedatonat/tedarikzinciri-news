@@ -2,6 +2,7 @@
 title: Birleşik Krallık, Demiryollarında Drone Devriyelerine İzin Verdi
 subtitle: Birleşik Krallık, Demiryollarında Drone Devriyelerine İzin Verdi
 date: '2025-06-13T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41970-uk-gives-permission-for-drones-to-patrol-railways
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_d558a740e55648c5931068c1eba5bd87~mv2.png
 imageAlt: Birleşik Krallık Demiryollarında Drone Devriyelerine İzin Verdi

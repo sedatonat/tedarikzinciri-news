@@ -2,6 +2,7 @@
 title: Panama Maritime Authority Takes Swift Action Against Sanctioned Vessels
 subtitle: Panama Maritime Authority Takes Swift Action Against Sanctioned Vessels
 date: '2024-12-02T09:00:00Z'
+sourceUrl: https://splash247.com/panama-takes-action-against-sanctioned-ships/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_868e609e24464645b79090bd1137fc7d~mv2.jpg
 imageAlt: Panama Maritime Authority Takes Swift Action Against Sanctioned Vessels

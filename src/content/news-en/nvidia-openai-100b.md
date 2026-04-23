@@ -2,6 +2,7 @@
 title: Nvidia Allocating $100B to Data Centers Through OpenAI Partnership
 subtitle: Nvidia Allocating $100B to Data Centers Through OpenAI Partnership
 date: '2025-09-23T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42534-nvidia-to-pour-100b-into-data-center-deal-with-openai
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_8ce299e54c1547e3a4e4ab6293413ff6~mv2.png
 imageAlt: Nvidia Allocating $100B to Data Centers Through OpenAI Partnership

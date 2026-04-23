@@ -2,6 +2,7 @@
 title: 'Sürdürülebilirlik ve Etik: 3PL''lerin Geleceği'
 subtitle: 'Sürdürülebilirlik ve Etik: 3PL''lerin Geleceği'
 date: '2023-12-29T09:00:00Z'
+sourceUrl: https://www.warehousinglogisticsinternational.com/the-only-way-is-ethics/
 category: Lojistik
 image: https://static.wixstatic.com/media/11062b_e107cf4ee66a43feae2e57c7abde32a8~mv2.jpg
 imageAlt: 'Sürdürülebilirlik ve Etik: 3PL''lerin Geleceği'

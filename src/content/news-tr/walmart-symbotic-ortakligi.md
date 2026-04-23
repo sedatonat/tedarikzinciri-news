@@ -2,6 +2,7 @@
 title: 'Walmart ve Symbotic''ten Stratejik Ortaklık: Robotik İş Birimi Satışı ve 400 Otomasyon Merkezi Yatırımı​'
 subtitle: 'Walmart ve Symbotic''ten Stratejik Ortaklık: Robotik İş Birimi Satışı ve 400 Otomasyon Merkezi Yatırımı​'
 date: '2025-01-21T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/walmart-sells-robotics-business-supply-chain-automation-symbotic/737763/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_f7acf89d2f864c7ab5479b74fd627ab4~mv2.jpg
 imageAlt: 'Walmart ve Symbotic''ten Stratejik Ortaklık: Robotik İş Birimi Satışı ve 400 Otomasyon Merkezi Yatırımı​'

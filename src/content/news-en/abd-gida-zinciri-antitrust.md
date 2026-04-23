@@ -2,6 +2,7 @@
 title: Trump Takes Tough Stance Against Competition Violations in Food Supply Chain
 subtitle: Trump Takes Tough Stance Against Competition Violations in Food Supply Chain
 date: '2025-12-07T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42949-trump-signs-order-to-tackle-alleged-food-supply-chain-risks
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_4991eabbef88424cad6376b037df96d8~mv2.jpg
 imageAlt: Detailed summary of President Donald Trump's executive order mandating the establishment of new task forces within the DOJ and FTC to investigate price fixing and anti-competitive practices in the U.S. food supply chain

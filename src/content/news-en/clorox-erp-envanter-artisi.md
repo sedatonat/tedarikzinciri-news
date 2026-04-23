@@ -2,6 +2,7 @@
 title: Clorox Successfully Recovers from ERP Transition-Driven Inventory Build
 subtitle: Clorox Successfully Recovers from ERP Transition-Driven Inventory Build
 date: '2025-11-19T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/clorox-recovers-erp-inventory-increase/805740/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_468de4cecdfc41e5961f18764f074f56~mv2.jpg
 imageAlt: As Clorox moved its U.S. supply chain and business operations to a new ERP system, the company proactively increased inventory levels at retailers by 1.5 weeks to prevent temporary disruptions. The company announced it has fully recovered from transition-related inventory imbalances and sees no material risk for the remainder of the year.

@@ -2,6 +2,7 @@
 title: 'Russia''s "Shadow Fleet" and Soft Sanctions: Risks Mount as Oil Flows Continue'
 subtitle: 'Russia''s "Shadow Fleet" and Soft Sanctions: Risks Mount as Oil Flows Continue'
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://shippingwatch.com/carriers/Tanker/article18764243.ece
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_581637a0957f4b5789e0146304ab702c~mv2.jpg
 imageAlt: Detailed news summary explaining the "soft" application of sanctions against Russian energy giants by end of 2025, the shadow fleet mechanism transporting Russian oil, false flag operations, STS transfers, and its impact on global supply chain risks

@@ -2,6 +2,7 @@
 title: 'CMA CGM''den Yenilik ve Eğitim Hamlesi: Marseilles''te Tangram Merkezi Açıldı'
 subtitle: 'CMA CGM''den Yenilik ve Eğitim Hamlesi: Marseilles''te Tangram Merkezi Açıldı'
 date: '2024-05-08T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10244-cma-cgm-launches-training-and-innovation-center
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1852d82e700b443296ba90fb2bcb31df~mv2.png
 imageAlt: 'CMA CGM''den Yenilik ve Eğitim Hamlesi: Marseilles''te Tangram Merkezi Açıldı'

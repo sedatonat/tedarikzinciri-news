@@ -2,6 +2,7 @@
 title: 'Artificial Intelligence in Logistics According to Gartner: High-Return Use Cases Come Into Focus'
 subtitle: 'Artificial Intelligence in Logistics According to Gartner: High-Return Use Cases Come Into Focus'
 date: '2025-12-09T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/ai-in-logistics-key-use-cases-real-world-business-impact
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_66042d66384c44c09bdf43dee09e51a9~mv2.jpg
 imageAlt: Detailed analysis of AI scenarios offering high value and applicability in warehousing, transportation, and fulfillment processes, according to Gartner's AI use-case framework published for logistics

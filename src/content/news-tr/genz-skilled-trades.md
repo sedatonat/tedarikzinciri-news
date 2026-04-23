@@ -2,6 +2,7 @@
 title: 'Z Kuşağının Ustalık Mesleklerine Yönelişi: Tedarik Zinciri İçin Fırsat'
 subtitle: 'Z Kuşağının Ustalık Mesleklerine Yönelişi: Tedarik Zinciri İçin Fırsat'
 date: '2025-03-04T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/41279-gen-zs-shift-to-the-skilled-trades-presents-a-unique-opportunity-for-the-supply-chain
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_ba24a5282df9417488ba4d0e0692c706~mv2.png
 imageAlt: 'Gen Z’nin Ustalık Mesleklerine Yönelişi: Tedarik Zinciri İçin Fırsat'

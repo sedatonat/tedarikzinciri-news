@@ -2,6 +2,7 @@
 title: Shoreham Port Wins 2025 ESPO Award for Inclusion Strategy
 subtitle: Shoreham Port Wins 2025 ESPO Award for Inclusion Strategy
 date: '2025-11-10T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/shoreham-port-wins-espo-award-for-inclusion/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0430abdaa53a4237a59a8b8f725ade54~mv2.jpg
 imageAlt: Shoreham Port won the 2025 ESPO Award with its Diversity & Inclusion Strategy project supporting female employees; the share of women in management reached 50–55% and diversity-focused transformation increased the port's revenue by 52%.

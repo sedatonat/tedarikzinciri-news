@@ -2,6 +2,7 @@
 title: Performance Shipping Retains Its Oldest Tanker as FPSO Conversion Tender Collapses
 subtitle: Performance Shipping Retains Its Oldest Tanker as FPSO Conversion Tender Collapses
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://splash247.com/performance-shipping-keeps-oldest-tanker-as-fpso-conversion-bid-fails/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e3ffd9c7a99049d1818770f703e13fa0~mv2.jpg
 imageAlt: A detailed overview of the cancellation of the planned forward sale agreement for Performance Shipping's 2009-built aframax tanker P Sophia due to its failure to be selected for an FPSO conversion project, and the impacts on the company's fleet

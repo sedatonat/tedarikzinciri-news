@@ -2,6 +2,7 @@
 title: Cabotage Laws Expand to 85% of Global Coastlines Amid Rising Geopolitical Tensions
 subtitle: Cabotage Laws Expand to 85% of Global Coastlines Amid Rising Geopolitical Tensions
 date: '2025-10-22T09:00:00Z'
+sourceUrl: https://gcaptain.com/report-cabotage-laws-surge-to-85-of-global-coastlines-amid-rising-geopolitical-tensions/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_af4ef568bbda4f10a74fdddecebceac8~mv2.jpg
 imageAlt: Cabotage Laws Expand to 85% of Global Coastlines Amid Rising Geopolitical Tensions

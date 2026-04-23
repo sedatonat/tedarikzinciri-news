@@ -2,6 +2,7 @@
 title: ESA ve Ortaklarından Denizcilikte Karbon Azaltımı İçin DECARDIS Girişimi
 subtitle: ESA ve Ortaklarından Denizcilikte Karbon Azaltımı İçin DECARDIS Girişimi
 date: '2024-10-31T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/esa-awake-ai-abb-wallenius-launch-decardis-to-enhance-ship-port-data-sharing/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a43fdb8f72a74d19aef778c6c3f38877~mv2.jpg
 imageAlt: ESA ve Ortaklarından Denizcilikte Karbon Azaltımı İçin DECARDIS Girişimi

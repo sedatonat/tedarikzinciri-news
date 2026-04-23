@@ -2,6 +2,7 @@
 title: Aylar Süren Çalkantının Ardından Çin–ABD Blank Sailing’leri Sakinleşiyor
 subtitle: Aylar Süren Çalkantının Ardından Çin–ABD Blank Sailing’leri Sakinleşiyor
 date: '2025-11-14T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/blank-sailings-ease-as-tariff-pressure-shifts
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f01842f52f494d7d8692646bb525c603~mv2.jpg
 imageAlt: 2025 boyunca tarifeler nedeniyle keskin şekilde artan Çin–ABD blank sailing oranları, ABD–Çin ticaret ateşkesinin ardından %82 düşüşle normale dönmeye başladı; taşıyıcılar yeni talep seviyelerine uyum sağlıyor.

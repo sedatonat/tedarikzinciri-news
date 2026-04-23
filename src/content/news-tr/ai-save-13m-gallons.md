@@ -2,6 +2,7 @@
 title: Yapay Zeka ABD’de 13 Milyon Galon Yakıt Tasarrufu Sağlayabilir
 subtitle: Yapay Zeka ABD’de 13 Milyon Galon Yakıt Tasarrufu Sağlayabilir
 date: '2025-05-05T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41697-how-ai-can-save-the-us-13m-gallons-of-fuel
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_eba21480519a4f429dcf613e3148ae4a~mv2.png
 imageAlt: Yapay Zeka Abd’de 13 Milyon Galon Yakıt Tasarrufu Sağlayabilir

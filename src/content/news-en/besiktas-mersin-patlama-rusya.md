@@ -2,6 +2,7 @@
 title: Beşiktaş Shipping Suspends All Russia-Linked Operations Following M/T Mersin Incident
 subtitle: Beşiktaş Shipping Suspends All Russia-Linked Operations Following M/T Mersin Incident
 date: '2025-12-03T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385302/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_437883bd2a15496789202ed778c134bd~mv2.jpg
 imageAlt: Following four external explosions experienced by M/T Mersin tanker off the coast of Dakar, Beşiktaş Shipping's decision to terminate all Russia-linked operations, detailed summary of security risk assessment and supply chain impacts

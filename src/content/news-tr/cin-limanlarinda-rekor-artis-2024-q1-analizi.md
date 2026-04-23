@@ -2,6 +2,7 @@
 title: 'Çin Limanlarında Rekor Artış: 2024 İlk Çeyrek Analizi'
 subtitle: 'Çin Limanlarında Rekor Artış: 2024 İlk Çeyrek Analizi'
 date: '2024-05-16T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/shanghai-boosts-12-5-million-teu-in-q1/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_64676ac97432405eb605a5334e2520d0~mv2.jpg
 imageAlt: 'Çin Limanlarında Rekor Artış: 2024 İlk Çeyrek Analizi'

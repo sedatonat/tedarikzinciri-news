@@ -2,6 +2,7 @@
 title: Stellantis, Trump Tarifeleri Tehdidi Altında Meksika'dan Uzaklaşmayı Düşünüyor
 subtitle: Stellantis, Trump Tarifeleri Tehdidi Altında Meksika'dan Uzaklaşmayı Düşünüyor
 date: '2024-11-25T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40724-stellantis-mulls-pivoting-mexico-push-amid-trump-tariff-threat
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_a0735e4634924e6d8f1451a709ee6c1b~mv2.jpg
 imageAlt: Stellantis, Trump Tarifeleri Tehdidi Altında Meksika'dan Uzaklaşmayı Düşünüyor

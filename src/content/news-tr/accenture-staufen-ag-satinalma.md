@@ -2,6 +2,7 @@
 title: Accenture, Staufen AG'yi Satın Alarak Üretim Verimliliğini Artırıyor
 subtitle: Accenture, Staufen AG'yi Satın Alarak Üretim Verimliliğini Artırıyor
 date: '2025-02-07T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/accenture-acquires-staufen-ag-improve-manufacturing-efficiency
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_074ede3f7198403cbd97b1460325830a~mv2.jpg
 imageAlt: Accenture, Staufen AG'yi Satın Alarak Üretim Verimliliğini Artırıyor

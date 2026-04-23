@@ -2,6 +2,7 @@
 title: Yüksek Hızlı Trenler Gece Yük Taşımacılığına Başlıyor
 subtitle: Yüksek Hızlı Trenler Gece Yük Taşımacılığına Başlıyor
 date: '2024-09-09T09:00:00Z'
+sourceUrl: https://www.yenisafak.com/ekonomi/yht-geceleri-yuk-tasiyacak-4643703
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7cdf308358e94b08b5bfea0e91b78270~mv2.jpg
 imageAlt: Yüksek Hızlı Trenler Gece Yük Taşımacılığına Başlıyor

@@ -2,6 +2,7 @@
 title: 'ABD Bankası’ndan Nakliye Sevkiyatlarında %21 Düşüş: Zorlu Taşıma Pazarı Sinyalleri'
 subtitle: 'ABD Bankası’ndan Nakliye Sevkiyatlarında %21 Düşüş: Zorlu Taşıma Pazarı Sinyalleri'
 date: '2024-11-07T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/q3-us-bank-shipments-spending-index/732159/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_bd5cd22767864013b177d18954eb5b67~mv2.jpg
 imageAlt: 'ABD Bankası’ndan Nakliye Sevkiyatlarında %21 Düşüş: Zorlu Taşıma Pazarı Sinyalleri'

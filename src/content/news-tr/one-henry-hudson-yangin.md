@@ -2,6 +2,7 @@
 title: Los Angeles’ta ONE Henry Hudson Yangını Limanı Acil Duruma Geçirdi
 subtitle: Los Angeles’ta ONE Henry Hudson Yangını Limanı Acil Duruma Geçirdi
 date: '2025-11-23T09:00:00Z'
+sourceUrl: https://splash247.com/one-henry-hudson-fire-spurs-port-emergency-in-los-angeles/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_930b9de459eb434ba14e8b433f6df815~mv2.jpg
 imageAlt: ONE Henry Hudson adlı 8.212 TEU’luk konteyner gemisinde Los Angeles Yusen Terminali’nde çıkan yangının seyri, acil müdahale detayları, tehlikeli maddeler nedeniyle artan risk ve liman operasyonlarının etkileri.

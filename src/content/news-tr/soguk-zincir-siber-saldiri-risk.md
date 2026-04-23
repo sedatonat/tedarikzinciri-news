@@ -2,6 +2,7 @@
 title: 'Soğuk Zinciri Tehdit Eden Gizli Risk: Kontrol Sistemlerindeki Siber Açıklar'
 subtitle: 'Soğuk Zinciri Tehdit Eden Gizli Risk: Kontrol Sistemlerindeki Siber Açıklar'
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42941-how-security-flaws-hidden-in-control-systems-can-threaten-the-entire-cold-chain
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_490b787fd54d4cd2afc709ab62bfb49b~mv2.jpg
 imageAlt: Copeland’ın soğuk zincir kontrol sistemlerinde tespit edilen “Frostbyte 10” güvenlik açıkları, OT sistemlerinin siber saldırılara açıklığı ve gıda ile ilaç tedarik zinciri üzerindeki potansiyel etkilerin detaylı özeti

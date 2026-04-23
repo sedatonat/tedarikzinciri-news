@@ -2,6 +2,7 @@
 title: European Union Steps Back from 2035 Internal Combustion Engine Ban
 subtitle: European Union Steps Back from 2035 Internal Combustion Engine Ban
 date: '2025-12-16T09:00:00Z'
+sourceUrl: https://www.haber7.com/otomobil/haber/3588539-avrupa-birliginden-geri-adim-benzin-ve-dizel-araclar-icin-yeni-karar
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_b276eff5f5034aefb13188ce6eb2d7e1~mv2.jpg
 imageAlt: Detailed industry overview examining the European Union's reversal of its decision to ban new petrol and diesel vehicle sales by 2035, replacing it with a 90% exhaust emissions reduction requirement for automakers, and analyzing the impacts of this decision on the automotive sector and climate policies

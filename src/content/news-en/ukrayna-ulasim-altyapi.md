@@ -2,6 +2,7 @@
 title: 'Ukraine Establishes New Support Fund for Transport Infrastructure: Joint Declaration Signed with Canada, Lithuania, and Sweden'
 subtitle: 'Ukraine Establishes New Support Fund for Transport Infrastructure: Joint Declaration Signed with Canada, Lithuania, and Sweden'
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://www.railfreight.com/railfreight/2025/12/08/ukraine-and-partners-sign-joint-declaration-for-transport-support-fund/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e4b501ae77dc4295a32591d8c68ac10f~mv2.jpg
 imageAlt: Ukraine's UTSF joint declaration signed with Canada, Lithuania, and Sweden detailing the objectives of the international support fund for transport infrastructure, European connectivity, and strategic modernization targets

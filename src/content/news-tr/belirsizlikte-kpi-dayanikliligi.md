@@ -2,6 +2,7 @@
 title: Belirsizlikte Kpi’ları Ve Dayanıklılığı Güçlendirmenin Beş Adımı
 subtitle: Belirsizlikte Kpi’ları Ve Dayanıklılığı Güçlendirmenin Beş Adımı
 date: '2025-08-26T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42283-five-steps-to-strengthen-kpis-and-resilience-in-uncertain-times
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_b7321448b92d4887ab46a436555a295f~mv2.png
 imageAlt: Belirsizlikte Kpi’ları Ve Dayanıklılığı Güçlendirmenin Beş Adımı

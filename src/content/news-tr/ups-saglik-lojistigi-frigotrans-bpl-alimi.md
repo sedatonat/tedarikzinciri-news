@@ -2,6 +2,7 @@
 title: 'UPS, Soğuk Zincir Lojistiğinde Zirveye Oynuyor: Frigo-Trans ve BPL Satın Alması'
 subtitle: 'UPS, Soğuk Zincir Lojistiğinde Zirveye Oynuyor: Frigo-Trans ve BPL Satın Alması'
 date: '2024-09-21T09:00:00Z'
+sourceUrl: https://www.lojiport.com/ups-iki-firma-satin-aldi-saglik-lojistiginde-zirveyi-hedefliyor-117099h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_31cda25df8a3464a9398b68714d4f045~mv2.jpg
 imageAlt: 'UPS, Soğuk Zincir Lojistiğinde Zirveye Oynuyor: Frigo-Trans ve BPL Satın Alması'

@@ -2,6 +2,7 @@
 title: Port Houston'a 25 Milyon Dolarlık Hidrojen Yakıt İstasyonu Hibesi
 subtitle: Port Houston'a 25 Milyon Dolarlık Hidrojen Yakıt İstasyonu Hibesi
 date: '2025-02-20T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/port-houston-awarded-25-million-to-build-hydrogen-fuelling-station/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_3142f45ded36404895c2d33a20a0c727~mv2.jpg
 imageAlt: Port Houston'a 25 Milyon Dolarlık Hidrojen Yakıt İstasyonu Hibesi

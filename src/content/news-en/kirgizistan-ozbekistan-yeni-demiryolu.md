@@ -2,6 +2,7 @@
 title: 'Kyrgyzstan''s New Railway Plans: The China-Kyrgyzstan-Uzbekistan Line and Beyond'
 subtitle: 'Kyrgyzstan''s New Railway Plans: The China-Kyrgyzstan-Uzbekistan Line and Beyond'
 date: '2025-03-10T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/03/10/after-the-cku-line-kyrgyzstan-wants-more-plans-for-another-line-to-uzbekistan/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_9457a4db012c4e46b2e2ecb17cc7ef84~mv2.jpg
 imageAlt: 'Kyrgyzstan''s New Railway Plans: The China-Kyrgyzstan-Uzbekistan Line and Beyond'

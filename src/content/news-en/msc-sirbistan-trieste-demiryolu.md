@@ -2,6 +2,7 @@
 title: MSC Launches New Intermodal Rail Link Between Serbia and Port of Trieste
 subtitle: MSC Launches New Intermodal Rail Link Between Serbia and Port of Trieste
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/msc-launches-new-intermodal-rail-link-from-serbia-to-trieste/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e2a928c1b47d4599ab124a82e37a080b~mv2.jpg
 imageAlt: Mediterranean Shipping Company (MSC) has launched a new intermodal rail line extending from the Batajnica terminal near Belgrade to the Port of Trieste in Italy. The new connection links Serbia directly to global markets, offering more sustainable and faster shipping solutions.

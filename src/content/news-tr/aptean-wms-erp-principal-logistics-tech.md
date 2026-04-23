@@ -2,6 +2,7 @@
 title: Aptean, İrlandalı WMS firması Principal Logistics Technologies'i satın aldı.
 subtitle: Aptean, İrlandalı WMS firması Principal Logistics Technologies'i satın aldı.
 date: '2024-07-16T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10570-aptean-stays-in-acquisition-mode
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_e72d598ea8074e84b87c4437c82c6e75~mv2.jpeg
 imageAlt: Aptean, İrlandalı WMS firması Principal Logistics Technologies'i satın aldı.

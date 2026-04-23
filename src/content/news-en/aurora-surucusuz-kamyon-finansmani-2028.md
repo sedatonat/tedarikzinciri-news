@@ -2,6 +2,7 @@
 title: Aurora Raises Another $483 Million for Driverless Trucks
 subtitle: Aurora Raises Another $483 Million for Driverless Trucks
 date: '2024-08-05T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10677-aurora-raises-another-483-million-for-driverless-trucks
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_aa0e23fff90d40bdb7297ab0ed221afb~mv2.jpeg
 imageAlt: Aurora Raises Another $483 Million for Driverless Trucks

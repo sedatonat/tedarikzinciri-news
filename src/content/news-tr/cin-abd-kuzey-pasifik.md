@@ -2,6 +2,7 @@
 title: Kuzey Pasifik’te Çin Araştırma Gemileri ve ABD Askerî Faaliyetleri Artıyor
 subtitle: Kuzey Pasifik’te Çin Araştırma Gemileri ve ABD Askerî Faaliyetleri Artıyor
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://gcaptain.com/chinese-research-ships-us-military-active-in-north-pacific-monitor-shows-2/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e97eb940835a44308a99799befef8662~mv2.jpg
 imageAlt: Pasifik Center for Island Security verilerine göre Çin’in uzay–füze izleme ve denizaltı haritalama gemileri Kuzey Pasifik’te aktif; aynı dönemde ABD bölgedeki çok uluslu askerî tatbikatlarını artırdı.

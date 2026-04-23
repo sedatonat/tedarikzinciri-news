@@ -2,6 +2,7 @@
 title: Kuzey Denizi’ndeki Ölümcül Çarpışmanın Ardından Stena Immaculate Satıldı
 subtitle: Kuzey Denizi’ndeki Ölümcül Çarpışmanın Ardından Stena Immaculate Satıldı
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://gcaptain.com/stena-immaculate-sold-for-repairs-after-fatal-north-sea-collision/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_09aed4a2b93842438fa360fbc6f8f6a2~mv2.jpg
 imageAlt: Stena Bulk, Mart 2025’te Kuzey Denizi’nde yaşanan ölümcül kaza sonrası ağır hasar gören Stena Immaculate tankerinin onarım amacıyla Desan Tersanesi’ne satıldığını açıkladı. Gemi, satış öncesinde ABD bayrağından Malta bayrağına geçirildi.

@@ -2,6 +2,7 @@
 title: 'Panama-Flagged Mersin Tanker Creates Emergency Off Dakar: Environmental Alarm Over 30,000-Ton Cargo'
 subtitle: 'Panama-Flagged Mersin Tanker Creates Emergency Off Dakar: Environmental Alarm Over 30,000-Ton Cargo'
 date: '2025-12-01T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385186/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_437883bd2a15496789202ed778c134bd~mv2.jpg
 imageAlt: Large-scale rescue operation launched off Dakar after the Panama-flagged Mersin tanker suffered water ingress in the machinery space, with detailed coverage of the 30,000-ton petroleum product risk and environmental protection measures

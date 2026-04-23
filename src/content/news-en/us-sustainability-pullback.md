@@ -2,6 +2,7 @@
 title: 'Survey: U.S. Logistics Firms Pull Back on Sustainability'
 subtitle: 'Survey: U.S. Logistics Firms Pull Back on Sustainability'
 date: '2025-03-18T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42619-survey-us-logistics-firms-pull-back-on-sustainability
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_468d63d8d7a64e3ea5530cfde731bac3~mv2.png
 imageAlt: 'Survey: U.S. Logistics Firms Pull Back on Sustainability'

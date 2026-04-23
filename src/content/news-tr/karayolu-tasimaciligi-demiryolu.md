@@ -2,6 +2,7 @@
 title: 'Karayolu Taşımacılığı: Demiryolunun Düşmanı mı, Zorunlu Tamamlayıcısı mı?'
 subtitle: 'Karayolu Taşımacılığı: Demiryolunun Düşmanı mı, Zorunlu Tamamlayıcısı mı?'
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://www.railfreight.com/in-depth/2025/11/21/road-transport-friend-or-foe/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c986f8e522fd473ba7e701bc1a00d37f~mv2.jpg
 imageAlt: Avrupa’da demiryolu sektörü kamyon taşımacılığının ayrıcalıklı konumda olduğunu savunurken, karayolu temsilcileri bunun bir önyargı olduğunu ve iki modun aslında birbirine bağımlı olduğunu vurguluyor; Febetra ve RailGood yöneticileri sektörel rekabet, regülasyon ve modal shift üzerine görüşlerini paylaşıyor.

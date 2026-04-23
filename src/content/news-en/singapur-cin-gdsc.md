@@ -2,6 +2,7 @@
 title: Singapore and China Sign Green and Digital Shipping Corridor Agreement
 subtitle: Singapore and China Sign Green and Digital Shipping Corridor Agreement
 date: '2025-10-26T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/383739/
 category: Lojistik
 image: https://static.wixstatic.com/media/793277055bb04056b376713b6ae752ee.jpg
 imageAlt: Singapore and China signed a Memorandum of Understanding (MoU) to launch a joint initiative called the Green and Digital Shipping Corridor (GDSC) to advance decarbonisation and digital transformation in maritime transport. The agreement elevates bilateral cooperation on sustainability and efficiency in shipping to the national level.

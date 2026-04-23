@@ -2,6 +2,7 @@
 title: 'Avrupa Demiryolu Yük Taşımacılığı Kriz Noktasında: Sektör Yardım Çığlıklarını Duyuramıyor'
 subtitle: 'Avrupa Demiryolu Yük Taşımacılığı Kriz Noktasında: Sektör Yardım Çığlıklarını Duyuramıyor'
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.railfreight.com/in-depth/2025/11/03/is-europe-failing-at-rail-freight/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d917004caa9d413392bd7aaf0ceb6469~mv2.jpg
 imageAlt: Avrupa’daki demiryolu yük taşımacılığı sektörü, mali baskılar, operasyonel aksaklıklar ve politik ilgisizlik nedeniyle kırılma noktasına yaklaşıyor. Sektör temsilcileri, AB kurumlarının yetersiz desteği ve ulusal önceliklerin öne çıkması nedeniyle reformların tıkanmasından endişe ediyor.

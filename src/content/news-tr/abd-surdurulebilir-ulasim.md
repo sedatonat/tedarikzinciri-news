@@ -2,6 +2,7 @@
 title: ABD Sürdürülebilir Ulaşım Geleceğinde Deniz Taşımacılığının Kritik Rolü
 subtitle: ABD Sürdürülebilir Ulaşım Geleceğinde Deniz Taşımacılığının Kritik Rolü
 date: '2024-12-20T09:00:00Z'
+sourceUrl: https://gcaptain.com/dont-overlook-shippings-critical-role-in-u-s-sustainable-transport-future-abs-chairman-and-ceo-urges-washington/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_586a2c64cb5643c28fc5ab226a672582~mv2.jpg
 imageAlt: ABD Sürdürülebilir Ulaşım Geleceğinde Deniz Taşımacılığının Kritik Rolü

@@ -2,6 +2,7 @@
 title: Turkey Temporarily Halts Dardanelles Passage Due to Subsea Security Tests
 subtitle: Turkey Temporarily Halts Dardanelles Passage Due to Subsea Security Tests
 date: '2025-11-19T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384679/
 category: Teknoloji
 image: https://static.wixstatic.com/media/nsplsh_375241656d2d4d696a6d59~mv2_d_4000_3000_s_4_2.jpg
 imageAlt: Turkey closed the Dardanelles Strait to two-way vessel traffic on November 19 between 07:00–18:00 for testing activities under the Subsea Security Project; the strategic corridor, which handles approximately 100 daily ship transits, was temporarily suspended.

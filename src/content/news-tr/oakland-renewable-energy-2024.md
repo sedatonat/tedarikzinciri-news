@@ -2,6 +2,7 @@
 title: Oakland Limanı 2024’te Elektriğinin %86’sını Yenilenebilir Kaynaktan Sağladı
 subtitle: Oakland Limanı 2024’te Elektriğinin %86’sını Yenilenebilir Kaynaktan Sağladı
 date: '2025-11-05T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/port-of-oakland-achieves-86-per-cent-renewable-power-in-2024/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6696b58a4c7746e5be0ab2166d1bc579~mv2.jpg
 imageAlt: Port of Oakland, 2024’te elektriğinin %86’sını yenilenebilir veya sıfır karbon kaynaklardan sağlayarak ABD’nin en temiz limanlarından biri olma hedefinde önemli ilerleme kaydetti; ayrıca 20 yıllık 4 MW enerji depolama anlaşmasıyla temiz enerji dönüşümünü hızlandırdı.

@@ -2,6 +2,7 @@
 title: FESCO'nun Vladivostok Terminalindeki Blok Tren İşleme Hızında Büyük Artış
 subtitle: FESCO'nun Vladivostok Terminalindeki Blok Tren İşleme Hızında Büyük Artış
 date: '2024-02-28T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2024/02/28/en-better-block-train-handling-efficiency-at-commercial-port-of-vladivostok/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_cd57527fa77d4ffba75905785697b42d~mv2.jpg
 imageAlt: FESCO'nun Vladivostok Terminalindeki Blok Tren İşleme Hızında Büyük Artış

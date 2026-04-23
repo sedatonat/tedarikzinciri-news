@@ -2,6 +2,7 @@
 title: DHL Supply Chain, GenAI ile Veri Yönetimini Geliştiriyor
 subtitle: DHL Supply Chain, GenAI ile Veri Yönetimini Geliştiriyor
 date: '2024-11-12T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/dhl-supply-chain-experiments-with-genai/732593/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_10f74442f51b48568245e196e4b639d1~mv2.jpg
 imageAlt: DHL Supply Chain, GenAI ile Veri Yönetimini Geliştiriyor

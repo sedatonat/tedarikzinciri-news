@@ -2,6 +2,7 @@
 title: Meksika Giyim ve Tekstil İthalatçıları İçin Gümrüksüz Sipariş Seçeneğini Kısıtlıyor
 subtitle: Meksika Giyim ve Tekstil İthalatçıları İçin Gümrüksüz Sipariş Seçeneğini Kısıtlıyor
 date: '2024-12-26T09:00:00Z'
+sourceUrl: https://www.joc.com/article/mexico-curtails-duty-free-fulfillment-option-for-apparel-textile-importers-5911557
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_2b4c2b4d5c3b433cbdfa3669d0dd1f1b~mv2.jpg
 imageAlt: Meksika Giyim ve Tekstil İthalatçıları İçin Gümrüksüz Sipariş Seçeneğini Kısıtlıyor

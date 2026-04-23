@@ -2,6 +2,7 @@
 title: Five Supply Chain Startups Highlighted in LinkedIn's 2025 List
 subtitle: Five Supply Chain Startups Highlighted in LinkedIn's 2025 List
 date: '2025-10-17T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/linkedin-top-startups-2025-supply-chain-standouts
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/11062b_57c2da3a807f47e88454df6356003ab5~mv2.jpg
 imageAlt: Five Supply Chain Startups Highlighted in LinkedIn's 2025 List

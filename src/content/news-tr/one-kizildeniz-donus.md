@@ -2,6 +2,7 @@
 title: ONE Slot Charter Anlaşmasıyla Kızıldeniz Hattına Geri Dönüyor
 subtitle: ONE Slot Charter Anlaşmasıyla Kızıldeniz Hattına Geri Dönüyor
 date: '2025-12-17T09:00:00Z'
+sourceUrl: https://www.joc.com/article/one-returns-to-red-sea-under-slot-charter-deal-with-thailands-rcl-partners-6136866
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f3ca11410d234c8aa9ac8cf7bd414e12~mv2.jpg
 imageAlt: Ocean Network Express, güvenlik riskleri nedeniyle askıya aldığı Kızıldeniz operasyonlarına, Thailand merkezli RCL ve bölgesel ortaklarla yapılan slot charter anlaşması kapsamında kontrollü şekilde yeniden başlamayı planlıyor.

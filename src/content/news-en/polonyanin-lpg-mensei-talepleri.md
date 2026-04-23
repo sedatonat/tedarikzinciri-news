@@ -2,6 +2,7 @@
 title: Poland's LPG Origin Requirements Leave Hundreds of Wagons Stranded at Belarus Border
 subtitle: Poland's LPG Origin Requirements Leave Hundreds of Wagons Stranded at Belarus Border
 date: '2025-01-28T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/01/28/as-poland-demands-more-proof-of-lpg-origin-hundreds-of-tanker-wagons-get-stuck-in-belarus/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5a3625318ef0426d96dda03f1109dc16~mv2.jpg
 imageAlt: Poland's LPG Origin Requirements Leave Hundreds of Wagons Stranded at Belarus Border

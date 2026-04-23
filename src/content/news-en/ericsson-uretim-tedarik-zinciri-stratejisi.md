@@ -2,6 +2,7 @@
 title: Ericsson's Broad-Based Manufacturing Strategy and Supply Chain Resilience
 subtitle: Ericsson's Broad-Based Manufacturing Strategy and Supply Chain Resilience
 date: '2025-01-28T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/ericsson-tariff-trump-supply-chain-resilience/738405/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_aa32c248a1744783a304e887b65c6d57~mv2.jpg
 imageAlt: Ericsson's Broad-Based Manufacturing Strategy and Supply Chain Resilience

@@ -2,6 +2,7 @@
 title: Flexport Sells Convoy Technology Unit
 subtitle: Flexport Sells Convoy Technology Unit
 date: '2025-08-15T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42345-flexport-sells-tech-company-convoy
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_733fb10386144c268711aaa6ec2650e2~mv2.png
 imageAlt: Flexport Sells Convoy Technology Unit

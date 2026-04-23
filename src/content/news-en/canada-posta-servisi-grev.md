@@ -2,6 +2,7 @@
 title: 'Canada Post Strikes: How Can Shippers Manage Holiday Peak Season?'
 subtitle: 'Canada Post Strikes: How Can Shippers Manage Holiday Peak Season?'
 date: '2025-11-05T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/canada-post-strike-holiday-delays-shipper-guide/804664/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8c9599d7e30e4539bd1459db0cb71129~mv2.jpg
 imageAlt: Canada Post workers' rotating strikes create unpredictable delivery delays as the holiday season approaches. Experts recommend that businesses strengthen customer communications, add alternative carriers, and maintain strong local delivery partners in major cities.

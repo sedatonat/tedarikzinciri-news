@@ -2,6 +2,7 @@
 title: DP World Brings Wan Hai Lines' New Far East–East Mediterranean Service to Turkey
 subtitle: DP World Brings Wan Hai Lines' New Far East–East Mediterranean Service to Turkey
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/dp-world-welcomes-new-wan-hai-lines-service-in-turkiye/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_43fae8bc2686413e84d52713298e302b~mv2.jpg
 imageAlt: Under an agreement with Taiwan-based Wan Hai Lines, DP World has launched the Far East–East Mediterranean (FM1) shipping line through Turkey's Gulf Terminal. The service connects ports in China and Southeast Asia to Turkey via the Suez Canal with weekly connections.

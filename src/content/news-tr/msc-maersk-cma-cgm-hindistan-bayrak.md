@@ -2,6 +2,7 @@
 title: MSC ve Maersk, CMA CGM’nin Ardından Gemilerini Hindistan Bayrağına Geçiriyor
 subtitle: MSC ve Maersk, CMA CGM’nin Ardından Gemilerini Hindistan Bayrağına Geçiriyor
 date: '2025-10-24T09:00:00Z'
+sourceUrl: https://splash247.com/msc-and-maersk-join-cma-cgm-in-moving-tonnage-to-india/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_132c9c1b1722490883bf53eef0c4e5ea~mv2.jpg
 imageAlt: MSC ve Maersk, CMA CGM’nin Ardından Gemilerini Hindistan Bayrağına Geçiriyor

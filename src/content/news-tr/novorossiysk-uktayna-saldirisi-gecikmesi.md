@@ -2,6 +2,7 @@
 title: Ukrayna Saldırısı Sonrası Novorossiysk’te Ham Petrol Yüklemeleri 2–3 Gün Gecikiyor
 subtitle: Ukrayna Saldırısı Sonrası Novorossiysk’te Ham Petrol Yüklemeleri 2–3 Gün Gecikiyor
 date: '2025-11-18T09:00:00Z'
+sourceUrl: https://gcaptain.com/russias-novorossiysk-behind-schedule-on-loadings-due-to-jetty-damage/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_58c2039ae77147349874ab313eae4ae3~mv2.jpg
 imageAlt: Novorossiysk limanındaki Şeskharis terminaline yönelik Ukrayna saldırısı, Suezmax iskelelerini hasara uğratarak Rusya’nın ham petrol yüklemelerinde 2–3 günlük gecikmeye yol açtı.

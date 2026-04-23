@@ -2,6 +2,7 @@
 title: 'Russia''s Oil Transportation Crisis: Railways and Oil Companies Trade Blame'
 subtitle: 'Russia''s Oil Transportation Crisis: Railways and Oil Companies Trade Blame'
 date: '2025-02-14T09:00:00Z'
+sourceUrl: https://www.railfreight.com/business/2025/02/14/up-to-40-of-russian-oil-not-reaching-the-rails-russian-railways-and-oil-companies-blame-one-another/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_d3a558074f2b476e8a01351ce17754a7~mv2.jpg
 imageAlt: 'Russia''s Oil Transportation Crisis: Railways and Oil Companies Trade Blame'

@@ -2,6 +2,7 @@
 title: Cost to Ship Russian ESPO Oil to China Triples Following Sanctions
 subtitle: Cost to Ship Russian ESPO Oil to China Triples Following Sanctions
 date: '2025-01-16T09:00:00Z'
+sourceUrl: https://gcaptain.com/cost-to-ship-russian-espo-oil-to-china-triples-after-sanctions/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_48abb8a9c68a4aa293bc7675940200b0~mv2.jpg
 imageAlt: Cost to Ship Russian ESPO Oil to China Triples Following Sanctions

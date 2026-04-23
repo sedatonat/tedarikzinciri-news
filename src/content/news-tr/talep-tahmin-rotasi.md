@@ -2,6 +2,7 @@
 title: Talep Tahmininde Gelecek Rotasını Çizmek
 subtitle: Talep Tahmininde Gelecek Rotasını Çizmek
 date: '2025-05-05T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41647-navigating-the-future-of-demand-forecasting
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_791627cce58749aa89c4d1be4fd3a029~mv2.png
 imageAlt: Talep Tahmininde Gelecek Rotasını Çizmek

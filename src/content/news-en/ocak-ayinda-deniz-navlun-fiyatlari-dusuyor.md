@@ -2,6 +2,7 @@
 title: Ocean Freight Rates Decline in January as Tariffs and Red Sea Tensions Stoke Concern
 subtitle: Ocean Freight Rates Decline in January as Tariffs and Red Sea Tensions Stoke Concern
 date: '2025-01-28T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/ocean-rates-drop-season-demand-eases-tariff-concerns/738285/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_bb5318fb2be04e448c0ea1c38a4db88f~mv2.jpg
 imageAlt: Ocean Freight Rates Decline in January as Tariffs and Red Sea Tensions Stoke Concern

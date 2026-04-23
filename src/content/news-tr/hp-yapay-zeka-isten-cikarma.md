@@ -2,6 +2,7 @@
 title: HP, Yapay Zekâ Destekli Yeniden Yapılanma Kapsamında 6.000 Kişiyi İşten Çıkarmaya Hazırlanıyor
 subtitle: HP, Yapay Zekâ Destekli Yeniden Yapılanma Kapsamında 6.000 Kişiyi İşten Çıkarmaya Hazırlanıyor
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42911-hp-to-cut-6-000-jobs-touts-savings-from-ai
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_ad564aa5986a43ccbe075cbb6849eec9~mv2.jpg
 imageAlt: HP’nin yapay zekâ entegrasyonuyla ürün geliştirmeyi hızlandırmak ve maliyetleri azaltmak amacıyla 2028’e kadar 6.000 kişilik küresel işten çıkarma planı, beklenenden düşük kâr tahminleri, CEO’nun açıklamaları, AI destekli verimlilik hedefleri ve sektör genelindeki otomasyon eğiliminin iş gücü üzerindeki etkileri.

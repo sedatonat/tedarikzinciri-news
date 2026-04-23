@@ -2,6 +2,7 @@
 title: Iran Railway Corridor Plan for Landlocked Central Asian Countries
 subtitle: Iran Railway Corridor Plan for Landlocked Central Asian Countries
 date: '2025-01-14T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/01/14/ocean-access-for-landlocked-central-asian-countries-in-iranian-rail-corridor-plan/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_abb0a107ae9d40c5aa9666bbf26fb8ff~mv2.jpg
 imageAlt: Iran Railway Corridor Plan for Landlocked Central Asian Countries

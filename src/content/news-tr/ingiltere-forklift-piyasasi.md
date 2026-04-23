@@ -2,6 +2,7 @@
 title: Forklift Pazarı 2026’dan İtibaren Güven Toparlayarak Kademeli Büyümeye Giriyor
 subtitle: Forklift Pazarı 2026’dan İtibaren Güven Toparlayarak Kademeli Büyümeye Giriyor
 date: '2025-11-28T09:00:00Z'
+sourceUrl: https://warehousinglogisticsinternational.com/forklift-market-positions-for-recovery-as-confidence-expected-to-build-from-2026/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_d6ef6b716b2044c486872df70b260523~mv2.jpg
 imageAlt: Oxford Economics tarafından hazırlanan UK Forklift Truck Market Outlook raporunda 2025’teki zayıf talep, 2026’daki toparlanma beklentisi ve segment bazlı sipariş projeksiyonlarının detaylı özeti

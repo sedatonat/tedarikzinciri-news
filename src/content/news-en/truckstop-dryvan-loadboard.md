@@ -2,6 +2,7 @@
 title: Truckstop Launches Low-Cost Load Platform Tailored for Dry Van Carriers
 subtitle: Truckstop Launches Low-Cost Load Platform Tailored for Dry Van Carriers
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/truckstop-dry-van-load-board-small-fleets
 category: Lojistik
 image: https://static.wixstatic.com/media/11062b_574aaeed779948a185188ffc86ebae34~mv2.jpg
 imageAlt: Truckstop.com has developed a new low-cost load platform focused exclusively on dry van freight for small fleets and independent drivers, priced at $35 per month. The system combines verified loads with real-time rate data, providing small carriers with equivalent data visibility to large enterprises.

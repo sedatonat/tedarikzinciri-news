@@ -2,6 +2,7 @@
 title: The Impact of Trump-Era Tariff Policies on the Economy and Supply Chain
 subtitle: The Impact of Trump-Era Tariff Policies on the Economy and Supply Chain
 date: '2024-12-11T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40811-the-trouble-with-trumps-tariffs
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_7c98b6b5c5804269948e5a2816eca309~mv2.jpg
 imageAlt: The Impact of Trump-Era Tariff Policies on the Economy and Supply Chain

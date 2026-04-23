@@ -2,6 +2,7 @@
 title: Artificial Intelligence, Tariffs and the 'Great Escape' Strategy
 subtitle: Artificial Intelligence, Tariffs and the 'Great Escape' Strategy
 date: '2025-04-15T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/41439-ai-tariffs-and-the-great-supply-chain-escape-act
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_c60755fb18344bb09b87fa4202f2c150~mv2.png
 imageAlt: Artificial Intelligence, Tariffs and the 'Great Escape' Strategy

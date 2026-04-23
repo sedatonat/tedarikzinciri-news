@@ -2,6 +2,7 @@
 title: PITT OHIO Achieves $11 Million in Savings Through AI-Powered System
 subtitle: PITT OHIO Achieves $11 Million in Savings Through AI-Powered System
 date: '2024-11-04T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40617-a-trucker-uses-ai-to-boost-efficiency-for-linehaul-operations
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_45572e24b87c401299989e6c6017ccef~mv2.jpg
 imageAlt: PITT OHIO Achieves $11 Million in Savings Through AI-Powered System

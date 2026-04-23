@@ -2,6 +2,7 @@
 title: Malta Freeport Terminals'e Elektrikli Boş Konteyner Taşıyıcı Teslim Edilecek
 subtitle: Malta Freeport Terminals'e Elektrikli Boş Konteyner Taşıyıcı Teslim Edilecek
 date: '2025-01-17T09:00:00Z'
+sourceUrl: https://www.warehousinglogisticsinternational.com/hyster-to-provide-electric-empty-container-handler-at-malta-freeport-terminals/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_f0130ece6fe94ca5a28654698c7fd29d~mv2.jpg
 imageAlt: Malta Freeport Terminals'e Elektrikli Boş Konteyner Taşıyıcı Teslim Edilecek

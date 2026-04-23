@@ -2,6 +2,7 @@
 title: Union Pacific–Norfolk Southern Merger Could Shift Trucking Dynamics
 subtitle: Union Pacific–Norfolk Southern Merger Could Shift Trucking Dynamics
 date: '2025-12-09T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/union-pacific-norfolk-southern-merger-impact-otr-long-haul/807171/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4f1486fc53a7498aad6c00c5a38363e8~mv2.jpg
 imageAlt: Detailed overview of the potential impact of the major railroad merger between Union Pacific and Norfolk Southern on the intermodal transportation and trucking industry, including pressure on long-haul OTR transportation, drayage and last-mile opportunities, and industry perspectives

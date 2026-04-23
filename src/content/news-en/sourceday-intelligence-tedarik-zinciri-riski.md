@@ -2,6 +2,7 @@
 title: SourceDay Introduces New Platform for Proactive Supply Chain Risk Management
 subtitle: SourceDay Introduces New Platform for Proactive Supply Chain Risk Management
 date: '2024-11-04T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40579-introducing-sourceday-intelligence
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_6d2b7cb1f05e4a5da58acda1f91bc856~mv2.png
 imageAlt: SourceDay Introduces New Platform for Proactive Supply Chain Risk Management

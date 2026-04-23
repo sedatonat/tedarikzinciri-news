@@ -2,6 +2,7 @@
 title: MSC, Sırbistan ile Trieste Limanı Arasında Yeni Intermodal Demiryolu Hattını Hizmete Açtı
 subtitle: MSC, Sırbistan ile Trieste Limanı Arasında Yeni Intermodal Demiryolu Hattını Hizmete Açtı
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/msc-launches-new-intermodal-rail-link-from-serbia-to-trieste/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e2a928c1b47d4599ab124a82e37a080b~mv2.jpg
 imageAlt: Mediterranean Shipping Company (MSC), Belgrad yakınındaki Batajnica terminalinden başlayarak İtalya’nın Trieste Limanı’na uzanan yeni bir intermodal demiryolu hattını devreye aldı. Yeni bağlantı, Sırbistan’ı doğrudan küresel pazarlara bağlayarak daha sürdürülebilir ve hızlı taşımacılık çözümleri sunuyor.

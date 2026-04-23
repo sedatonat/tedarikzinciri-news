@@ -2,6 +2,7 @@
 title: According to Accenture Research, Businesses Target Doubling Onshoring Rate from 38% to 65% by 2026
 subtitle: According to Accenture Research, Businesses Target Doubling Onshoring Rate from 38% to 65% by 2026
 date: '2023-12-14T09:00:00Z'
+sourceUrl: https://www.supplychainquarterly.com/articles/9278-accenture-companies-are-shifting-from-global-to-regional-sourcing-and-production
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_fcd7649466ff402285749d7d0276f033~mv2.jpeg
 imageAlt: According to Accenture Research, Businesses Target Doubling Onshoring Rate from 38% to 65% by 2026

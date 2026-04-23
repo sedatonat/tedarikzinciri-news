@@ -2,6 +2,7 @@
 title: Güney Kore Gemi İnşa Sektöründe İşgücü Açığını Özbekistan ile Kapatıyor
 subtitle: Güney Kore Gemi İnşa Sektöründe İşgücü Açığını Özbekistan ile Kapatıyor
 date: '2025-03-13T09:00:00Z'
+sourceUrl: https://splash247.com/south-korea-turns-to-landlocked-uzbekistan-to-fill-gaps-in-shipbuilding-workforce/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_eaf71368f2594fce8f9b219156c5ab68~mv2.jpg
 imageAlt: Güney Kore Gemi İnşa Sektöründe İşgücü Açığını Özbekistan ile Kapatıyor

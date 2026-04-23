@@ -2,6 +2,7 @@
 title: Russia and Iran Discuss Container Line Between Makhachkala and Iranian Ports
 subtitle: Russia and Iran Discuss Container Line Between Makhachkala and Iranian Ports
 date: '2025-11-13T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/11/13/en-russia-and-iran-discuss-container-line-between-makhachkala-and-iran/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_55beddde3b6346c79c99089bd1d3f3c8~mv2.jpg
 imageAlt: Russian and Iranian delegations discussed the modernization of Makhachkala Port and the establishment of a new container line between Makhachkala and Iran; the plans include increasing the port's capacity to 10 million tons by 2030 under the North-South Corridor framework.

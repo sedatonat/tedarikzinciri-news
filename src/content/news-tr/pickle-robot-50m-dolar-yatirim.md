@@ -2,6 +2,7 @@
 title: Pickle Robot, AI ile Kamyon Boşaltımını Değiştirmek İçin 50 Milyon Dolar Topladı
 subtitle: Pickle Robot, AI ile Kamyon Boşaltımını Değiştirmek İçin 50 Milyon Dolar Topladı
 date: '2024-11-20T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/pickle-robot-artificial-intelligence-truck-unloading-raises-50-million
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_00537493dea0489ea9ad2d51fc79a894~mv2.jpg
 imageAlt: Pickle Robot, AI ile Kamyon Boşaltımını Değiştirmek İçin 50 Milyon Dolar Topladı

@@ -2,6 +2,7 @@
 title: Russia and China Circumvent Sanctions with First "Dark" LNG Transfer
 subtitle: Russia and China Circumvent Sanctions with First "Dark" LNG Transfer
 date: '2025-10-20T09:00:00Z'
+sourceUrl: https://gcaptain.com/china-joins-russias-dark-fleet-with-first-ever-lng-ship-to-ship-transfer/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f7dfd260682d4d7d99ab69900e748e8d~mv2.jpg
 imageAlt: Russia and China Circumvent Sanctions with First "Dark" LNG Transfer

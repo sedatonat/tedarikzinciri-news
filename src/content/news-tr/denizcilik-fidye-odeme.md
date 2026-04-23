@@ -2,6 +2,7 @@
 title: 'Denizcilik Sektöründe Fidye Ödemeleri: Şirketlerin Yüzde 7''si Son 12 Ayda Fidye Ödedi'
 subtitle: 'Denizcilik Sektöründe Fidye Ödemeleri: Şirketlerin Yüzde 7''si Son 12 Ayda Fidye Ödedi'
 date: '2025-03-13T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/374567/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_d286fac324a7435996993adc96121566~mv2.jpg
 imageAlt: 'Denizcilik Sektöründe Fidye Ödemeleri: Şirketlerin Yüzde 7''si Son 12 Ayda Fidye Ödedi'

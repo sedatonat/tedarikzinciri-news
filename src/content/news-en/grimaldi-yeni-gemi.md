@@ -2,6 +2,7 @@
 title: Grimaldi Fleet Expands with New Multipurpose Vessel
 subtitle: Grimaldi Fleet Expands with New Multipurpose Vessel
 date: '2024-12-24T09:00:00Z'
+sourceUrl: https://container-news.com/new-multipurpose-ship-joins-grimaldi-fleet/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_27c0dd662e6b4b68b437c1d4391dd32b~mv2.jpg
 imageAlt: Grimaldi Fleet Expands with New Multipurpose Vessel

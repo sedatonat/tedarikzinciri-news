@@ -2,6 +2,7 @@
 title: Çin, Ningbo–Ho Chi Minh Hattında İlk ASEAN “Zamanında ve Maliyet Düşürücü” Servisini Başlattı
 subtitle: Çin, Ningbo–Ho Chi Minh Hattında İlk ASEAN “Zamanında ve Maliyet Düşürücü” Servisini Başlattı
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385750/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_20f68b5032684c339befab10ad36be72~mv2.jpg
 imageAlt: Çin’in ulusal “on-time, cost-reduction” deniz taşımacılığı programı kapsamında Ningbo-Zhoushan ile Ho Chi Minh City arasında açtığı ilk ASEAN konteyner hattının zamanlama, maliyet ve emisyon etkilerini ortaya koyan detaylı haber özeti

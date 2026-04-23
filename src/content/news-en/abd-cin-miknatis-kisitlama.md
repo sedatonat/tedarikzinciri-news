@@ -2,6 +2,7 @@
 title: 'Chinese Analysts: US May Ease Export Restrictions to Address Rare Magnet Crisis'
 subtitle: 'Chinese Analysts: US May Ease Export Restrictions to Address Rare Magnet Crisis'
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://gcaptain.com/china-analysts-expect-us-to-ease-export-curbs-for-magnet-relief/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_75e9e340d43f4fe891b55fbe9a31b8d3~mv2.jpg
 imageAlt: According to Bloomberg, Chinese analysts predict that ahead of this week's meeting between Xi Jinping and Donald Trump, the US may relax newly imposed export restrictions to ease the supply of rare earth magnets. The talks cover multiple areas including tariffs, fentanyl, and high-tech trade restrictions.

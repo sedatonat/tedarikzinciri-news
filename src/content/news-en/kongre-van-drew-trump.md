@@ -2,6 +2,7 @@
 title: Congressman Van Drew and Trump Team Up to Block Biden's Offshore Wind Targets
 subtitle: Congressman Van Drew and Trump Team Up to Block Biden's Offshore Wind Targets
 date: '2025-01-16T09:00:00Z'
+sourceUrl: https://gcaptain.com/congressman-van-drew-trump-team-up-to-sink-bidens-offshore-wind-ambitions/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_5dd37be9341d4fee9dbde7e4aae2d38b~mv2.jpg
 imageAlt: Congressman Van Drew and Trump Team Up to Block Biden's Offshore Wind Targets

@@ -2,6 +2,7 @@
 title: Canadian Retail Sales Slow in Third Quarter as U.S. Tariffs Persist
 subtitle: Canadian Retail Sales Slow in Third Quarter as U.S. Tariffs Persist
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42887-canada-retail-sales-slow-in-third-quarter-as-tariffs-persist
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_68e36d43cf534371b9c48cb343d45257~mv2.jpg
 imageAlt: Canadian retail sales slowed markedly in the third quarter of 2025 due to the ongoing trade war with the U.S., slowing population growth, and consumer caution. Automotive sales in particular showed a sharp decline due to the impact of U.S. tariffs.

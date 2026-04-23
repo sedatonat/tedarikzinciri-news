@@ -2,6 +2,7 @@
 title: Neural Networks are Reshaping Order Picking Processes in Warehouses
 subtitle: Neural Networks are Reshaping Order Picking Processes in Warehouses
 date: '2025-12-10T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/how-neural-networks-are-changing-warehouse-picking
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_957d246206a64ae7894ba3d5fd2a4ec2~mv2.jpg
 imageAlt: Detailed analysis of how neural networks in warehouses use real operational data to improve time estimation, route optimization, and workforce planning in order picking processes

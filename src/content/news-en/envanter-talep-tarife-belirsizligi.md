@@ -2,6 +2,7 @@
 title: 'Warehouse Demand Surges Despite Tariff Uncertainty: Strong Third Quarter for U.S. Industrial Real Estate'
 subtitle: 'Warehouse Demand Surges Despite Tariff Uncertainty: Strong Third Quarter for U.S. Industrial Real Estate'
 date: '2025-11-05T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/warehouse-demand-2025-tariff-impact-colliers/804591/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_1516d1c2162e4c2c8ecb5070f424aca7~mv2.jpg
 imageAlt: U.S. net industrial real estate absorption reached 60 million sq ft in Q3 2025; Phoenix and Indianapolis led demand growth, as companies continued long-term warehouse investments despite tariff uncertainty.

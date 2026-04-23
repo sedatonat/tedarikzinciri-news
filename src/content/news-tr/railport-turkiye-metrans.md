@@ -2,6 +2,7 @@
 title: Türkiye’nin İlk Özel Intermodal Terminali Railport Operasyona Başladı
 subtitle: Türkiye’nin İlk Özel Intermodal Terminali Railport Operasyona Başladı
 date: '2025-11-24T09:00:00Z'
+sourceUrl: https://www.railfreight.com/intermodal/2025/11/24/turkish-railport-terminal-launches-operations-with-metrans-train/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_883f4730340c4bd49e75062d3b1eb966~mv2.jpg
 imageAlt: Railport’un METRANS operatörlüğündeki ilk treniyle faaliyete geçmesi, terminalin kapasitesi, altyapısı, intermodal avantajları ve Türkiye–Avrupa yük taşımacılığına etkilerinin detaylı özeti.

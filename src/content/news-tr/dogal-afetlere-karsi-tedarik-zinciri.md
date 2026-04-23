@@ -2,6 +2,7 @@
 title: Doğal Afetlere Karşı Tedarik Zincirini Korumak İçin 5 Yol​
 subtitle: Doğal Afetlere Karşı Tedarik Zincirini Korumak İçin 5 Yol​
 date: '2025-02-24T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/five-ways-protect-supply-chain-natural-disasters
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_cc1d4302a9764e26a82b0c1f6aa052f9~mv2.jpg
 imageAlt: Doğal Afetlere Karşı Tedarik Zincirini Korumak İçin 5 Yol​

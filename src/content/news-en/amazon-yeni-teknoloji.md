@@ -2,6 +2,7 @@
 title: Amazon Introduces Three New Technologies Strengthening Its Warehouse and Delivery Network
 subtitle: Amazon Introduces Three New Technologies Strengthening Its Warehouse and Delivery Network
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/amazon-delivery-glasses-fulfillment-robots-ai-model/803748/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_14e2be769e194e009e718db6832250ea~mv2.jpg
 imageAlt: Amazon aims to increase efficiency in warehouse and delivery operations with Blue Jay, a multi-armed robotic system, Project Eluna, an autonomous AI model, and smart delivery glasses.

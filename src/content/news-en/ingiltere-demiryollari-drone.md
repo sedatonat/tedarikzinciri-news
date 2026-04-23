@@ -2,6 +2,7 @@
 title: UK Approves Drone Patrols for Railway Infrastructure
 subtitle: UK Approves Drone Patrols for Railway Infrastructure
 date: '2025-06-13T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41970-uk-gives-permission-for-drones-to-patrol-railways
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_d558a740e55648c5931068c1eba5bd87~mv2.png
 imageAlt: UK Approves Drone Patrols for Railway Infrastructure

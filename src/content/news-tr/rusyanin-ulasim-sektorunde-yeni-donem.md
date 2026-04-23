@@ -2,6 +2,7 @@
 title: Rusya'nın Ulaştırma Sektöründe Yapısal Değişiklikler ve Yeni Öncelikler
 subtitle: Rusya'nın Ulaştırma Sektöründe Yapısal Değişiklikler ve Yeni Öncelikler
 date: '2024-05-21T09:00:00Z'
+sourceUrl: https://www.railfreight.com/railfreight/2024/05/21/new-government-setup-is-supposed-to-enhance-russian-rail/
 category: Lojistik
 image: https://static.wixstatic.com/media/f5526380b69b4de58dcf8fc112145de9.jpg
 imageAlt: Rusya'nın Ulaştırma Sektöründe Yapısal Değişiklikler ve Yeni Öncelikler

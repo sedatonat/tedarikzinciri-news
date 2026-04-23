@@ -2,6 +2,7 @@
 title: COSCO Achieves Full Shore Power Compliance at Port of Oakland
 subtitle: COSCO Achieves Full Shore Power Compliance at Port of Oakland
 date: '2025-12-09T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/cosco-shore-power-oakland-electric-drayage-2024
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2e936e328d5743b6bda4e8b8337fdefb~mv2.jpg
 imageAlt: COSCO SHIPPING North America's transition to 100% shore power usage at Port of Oakland, high compliance rates at Los Angeles–Long Beach ports, electric drayage trucks, and detailed overview of emissions reduction strategy in U.S. port operations

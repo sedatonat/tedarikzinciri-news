@@ -2,6 +2,7 @@
 title: 'AB Komisyonu, ERA Değerlendirmesini Açıkladı: Sonuç Olumlu, Ancak Beklentiler Tam Karşılanmadı'
 subtitle: 'AB Komisyonu, ERA Değerlendirmesini Açıkladı: Sonuç Olumlu, Ancak Beklentiler Tam Karşılanmadı'
 date: '2025-11-11T09:00:00Z'
+sourceUrl: https://www.railfreight.com/policy/2025/11/11/eu-commission-evaluates-era-positive-but-expectations-not-met/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f052c080e1a84b188ed9cc58f29fe9e9~mv2.jpg
 imageAlt: Avrupa Komisyonu, ERA’nın AB demiryolu güvenliği ve uyumlaştırma rolünü önemli buldu, ancak tek pazar entegrasyonu ve tam interoperabilite konularında kurumun hâlen beklenen etki seviyesine ulaşmadığını belirtti.

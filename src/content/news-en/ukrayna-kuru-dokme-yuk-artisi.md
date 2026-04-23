@@ -2,6 +2,7 @@
 title: Ukraine's Dry Bulk Shipments Surge 87 Percent
 subtitle: Ukraine's Dry Bulk Shipments Surge 87 Percent
 date: '2025-02-24T09:00:00Z'
+sourceUrl: https://container-news.com/ukraines-dry-bulk-shipments-take-87-leap-three-years-after-russias-invasion/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_91a346e157a24da2af3f7d5773ea716c~mv2.jpg
 imageAlt: Ukraine's Dry Bulk Shipments Surge 87 Percent

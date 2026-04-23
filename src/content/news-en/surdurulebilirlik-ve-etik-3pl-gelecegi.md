@@ -2,6 +2,7 @@
 title: 'Sustainability and Ethics: The Future of 3PLs'
 subtitle: 'Sustainability and Ethics: The Future of 3PLs'
 date: '2023-12-29T09:00:00Z'
+sourceUrl: https://www.warehousinglogisticsinternational.com/the-only-way-is-ethics/
 category: Lojistik
 image: https://static.wixstatic.com/media/11062b_e107cf4ee66a43feae2e57c7abde32a8~mv2.jpg
 imageAlt: 'Sustainability and Ethics: The Future of 3PLs'

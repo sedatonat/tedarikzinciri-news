@@ -2,6 +2,7 @@
 title: LNG Becoming Preferred Alternative Fuel in Container Shipping Lines
 subtitle: LNG Becoming Preferred Alternative Fuel in Container Shipping Lines
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://www.joc.com/article/lng-increasingly-alternative-fuel-of-choice-for-container-lines-6104125
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a71a45d4ee374490a970371862fa8e33~mv2.jpg
 imageAlt: Despite uncertainties in the International Maritime Organization (IMO)'s decarbonization agenda, LNG (liquefied natural gas) has become the most widely preferred alternative fuel among container lines. LNG-powered vessel orders have risen from 194 at the end of 2023 to 362 by mid-2025.

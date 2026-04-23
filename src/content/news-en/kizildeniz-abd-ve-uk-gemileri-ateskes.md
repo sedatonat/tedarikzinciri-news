@@ -2,6 +2,7 @@
 title: U.S. and UK Ships Return to Red Sea After Houthis Vow Ceasefire
 subtitle: U.S. and UK Ships Return to Red Sea After Houthis Vow Ceasefire
 date: '2025-01-29T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41108-us-and-uk-ships-return-to-red-sea-after-houthis-vow-to-hold-fire
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e5072049e1c041b890e4835738302866~mv2.jpg
 imageAlt: U.S. and UK Ships Return to Red Sea After Houthis Vow Ceasefire

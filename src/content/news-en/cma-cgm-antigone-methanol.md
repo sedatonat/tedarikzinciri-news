@@ -2,6 +2,7 @@
 title: CMA CGM Commissions First Methanol Dual-Fuel Container Ship ANTIGONE Built in China
 subtitle: CMA CGM Commissions First Methanol Dual-Fuel Container Ship ANTIGONE Built in China
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385741/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0569df8f19b84f97a958610027952d10~mv2.jpeg
 imageAlt: Technical specifications of CMA CGM ANTIGONE, the first methanol dual-fuel container ship built by Jiangnan Shipyard for CMA CGM, innovations within the Kun series, and the vessel's place in the group's low-carbon fleet strategy

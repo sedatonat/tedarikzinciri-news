@@ -2,6 +2,7 @@
 title: 'Gartner’a Göre Lojistikte Yapay Zekâ: Yüksek Getiri Sağlayan Kullanım Alanları Netleşiyor'
 subtitle: 'Gartner’a Göre Lojistikte Yapay Zekâ: Yüksek Getiri Sağlayan Kullanım Alanları Netleşiyor'
 date: '2025-12-09T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/ai-in-logistics-key-use-cases-real-world-business-impact
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_66042d66384c44c09bdf43dee09e51a9~mv2.jpg
 imageAlt: Gartner’ın lojistik için yayımladığı AI kullanım alanları çerçevesine göre depolama, taşımacılık ve fulfillment süreçlerinde yüksek değer ve uygulanabilirlik sunan yapay zekâ senaryolarının detaylı analizi

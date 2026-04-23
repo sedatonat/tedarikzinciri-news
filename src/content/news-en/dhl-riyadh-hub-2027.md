@@ -2,6 +2,7 @@
 title: DHL Supply Chain Reshapes Regional Logistics with €130 Million Mega Distribution Hub in Riyadh
 subtitle: DHL Supply Chain Reshapes Regional Logistics with €130 Million Mega Distribution Hub in Riyadh
 date: '2025-11-24T09:00:00Z'
+sourceUrl: https://shippingwatch.com/logistics/article18773850.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_eba0f599e84d47488cfe6d4cf08bea79~mv2.jpg
 imageAlt: Detailed analysis of DHL's €130 million investment in new SILZ logistics hub in Riyadh, marking shift from Dubai-centric to Riyadh-centric hub model in Middle East and Africa transportation

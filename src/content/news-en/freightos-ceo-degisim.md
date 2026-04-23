@@ -2,6 +2,7 @@
 title: CEO Transition at Freightos Marks Company's Move Into New Growth Phase
 subtitle: CEO Transition at Freightos Marks Company's Move Into New Growth Phase
 date: '2025-12-17T09:00:00Z'
+sourceUrl: https://www.joc.com/article/freightos-founder-to-step-down-as-ceo-as-company-moves-into-next-phase-6137072
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_7696a38162f8472eb65c210374747f68~mv2.jpg
 imageAlt: Zvi Schreiber, founder and CEO of Freightos, has decided to step down from his role; as the company enters a new growth phase and pursues scaling, CFO Pablo Pinillos will assume the position of interim CEO.

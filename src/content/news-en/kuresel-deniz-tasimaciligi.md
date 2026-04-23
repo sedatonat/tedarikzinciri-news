@@ -2,6 +2,7 @@
 title: 'Geopolitical Tensions and Trade Wars in Global Shipping: Bloodbath in the Freight Market'
 subtitle: 'Geopolitical Tensions and Trade Wars in Global Shipping: Bloodbath in the Freight Market'
 date: '2025-03-14T09:00:00Z'
+sourceUrl: https://container-news.com/geopolitics-tariffs-and-war-result-in-rates-bloodbath/
 category: Lojistik
 image: https://static.wixstatic.com/media/11062b_3ee1d028888042cd859a8683909714a2~mv2_d_4380_2920_s_4_2.jpg
 imageAlt: 'Geopolitical Tensions and Trade Wars in Global Shipping: Bloodbath in the Freight Market'

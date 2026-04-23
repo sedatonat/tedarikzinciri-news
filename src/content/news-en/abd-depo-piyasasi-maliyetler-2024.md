@@ -2,6 +2,7 @@
 title: 'U.S. Warehouse Market Sends Mixed Signals: Growth Rate Slowing'
 subtitle: 'U.S. Warehouse Market Sends Mixed Signals: Growth Rate Slowing'
 date: '2024-02-27T09:00:00Z'
+sourceUrl: https://www.scdigest.com/ONTARGET/24-02-27_WAREHOUSE_SPACE_MARKET_COOLING.PHP?cid=21283&ctype=content
 category: Envanter
 image: https://static.wixstatic.com/media/11062b_939204ae9b614238a9e6d17a9368b38f~mv2.jpeg
 imageAlt: 'U.S. Warehouse Market Sends Mixed Signals: Growth Rate Slowing'

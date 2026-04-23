@@ -2,6 +2,7 @@
 title: Growth in the Procurement Software Market
 subtitle: Growth in the Procurement Software Market
 date: '2024-11-20T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40702-procurement-software-market-growth-brings-exciting-times-for-cpos
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_87aa52c8c4c7443d80bd90ac3d18c85d~mv2.jpg
 imageAlt: Growth in the Procurement Software Market

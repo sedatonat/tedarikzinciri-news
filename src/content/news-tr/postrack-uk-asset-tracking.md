@@ -2,6 +2,7 @@
 title: Postrack, İngiltere’de Lojistik ve Karayolu Taşımacılığına Yönelik Varlık Takip Hizmeti Başlattı
 subtitle: Postrack, İngiltere’de Lojistik ve Karayolu Taşımacılığına Yönelik Varlık Takip Hizmeti Başlattı
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://warehousinglogisticsinternational.com/postrack-launches-asset-tracking-business-in-the-uk-to-target-logistics-and-road-transport-sector/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f96a16e9b4b9483698d35c63be67d942~mv2.jpg
 imageAlt: Avrupa merkezli GPS takip uzmanı Postrack, İngiltere’de yeni bir operasyon başlatarak lojistik, karayolu taşımacılığı ve konteyner yönetimi sektörlerine yönelik ileri varlık izleme (asset tracking) çözümlerini pazara sundu.

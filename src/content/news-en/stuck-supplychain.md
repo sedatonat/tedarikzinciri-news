@@ -2,6 +2,7 @@
 title: Why Your Supply Chain Is Stuck Before It Starts
 subtitle: Why Your Supply Chain Is Stuck Before It Starts
 date: '2025-09-03T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/42324-why-your-supply-chain-is-stuck-before-it-starts
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_50a85936b66b46a2af70ab92fb31289c~mv2.png
 imageAlt: Why Your Supply Chain Is Stuck Before It Starts

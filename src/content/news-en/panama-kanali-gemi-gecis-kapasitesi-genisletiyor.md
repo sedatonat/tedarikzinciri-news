@@ -2,6 +2,7 @@
 title: Panama Canal Expands Ship Transit Capacity as Water Levels Rise
 subtitle: Panama Canal Expands Ship Transit Capacity as Water Levels Rise
 date: '2024-05-31T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/panama-canal-raises-vessel-draft-to-45-feet/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1f62205106804a4cb6fec2e35da12df4~mv2.jpg
 imageAlt: Panama Canal Expands Ship Transit Capacity as Water Levels Rise

@@ -2,6 +2,7 @@
 title: First Grain Shipment to Armenia via Azerbaijan Completed
 subtitle: First Grain Shipment to Armenia via Azerbaijan Completed
 date: '2025-11-13T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/11/13/en-first-grain-shipment-to-armenia-via-azerbaijan/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_a5b4e1bf0b6f4c598ee311e3195e85c8~mv2.jpg
 imageAlt: The first 1,050-ton wheat shipment from Russia to Armenia was made possible by the reopening of the Azerbaijan transit route, which had been closed since the 1990s; RZD plans to send an additional 132 cars by year-end.

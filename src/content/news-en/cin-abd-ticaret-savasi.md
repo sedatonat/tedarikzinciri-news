@@ -2,6 +2,7 @@
 title: 'Daily $1 Billion in Exports: China Preserves Negotiating Power Despite US Tariffs'
 subtitle: 'Daily $1 Billion in Exports: China Preserves Negotiating Power Despite US Tariffs'
 date: '2025-10-22T09:00:00Z'
+sourceUrl: https://gcaptain.com/chinas-1-billion-of-daily-us-exports-show-xis-bargaining-power/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/11062b_9bd869e00b774de699f1d757e8286d11~mv2.jpg
 imageAlt: 'Daily $1 Billion in Exports: China Preserves Negotiating Power Despite US Tariffs'

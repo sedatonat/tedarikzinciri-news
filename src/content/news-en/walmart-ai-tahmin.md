@@ -2,6 +2,7 @@
 title: 'Walmart: Artificial Intelligence Can Anticipate Supply Chain Shifts'
 subtitle: 'Walmart: Artificial Intelligence Can Anticipate Supply Chain Shifts'
 date: '2025-09-18T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42512-ai-allows-walmart-to-even-anticipate-changes-in-supply-chain
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_73d00124691f46c6becf359d19539e6b~mv2.png
 imageAlt: 'Walmart: Artificial Intelligence Can Anticipate Supply Chain Shifts'

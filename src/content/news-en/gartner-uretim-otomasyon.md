@@ -2,6 +2,7 @@
 title: 'Gartner: Manufacturing Sector Needs Fundamental Overhaul in Advanced Automation Strategy'
 subtitle: 'Gartner: Manufacturing Sector Needs Fundamental Overhaul in Advanced Automation Strategy'
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42737-gartner-manufacturing-industry-needs-reset-on-advanced-automation
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_0ec560d38ca241aead3d54de08494a80~mv2.jpg
 imageAlt: According to Gartner's new report, the manufacturing sector faces a significant strategy gap in adopting advanced automation practices. Half of companies believe their current manufacturing strategies will fail to deliver expected business results over the next three years.

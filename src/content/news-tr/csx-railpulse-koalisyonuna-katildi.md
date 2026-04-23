@@ -2,6 +2,7 @@
 title: CSX, Demiryolu Güvenliğini Artırmak İçin RailPulse Koalisyonuna Katıldı
 subtitle: CSX, Demiryolu Güvenliğini Artırmak İçin RailPulse Koalisyonuna Katıldı
 date: '2024-07-15T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10560-csx-joins-railpulse-digitization-initative
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_966e7211fdca4980b96f05cbf3fa87d7~mv2.jpg
 imageAlt: CSX, Demiryolu Güvenliğini Artırmak İçin RailPulse Koalisyonuna Katıldı

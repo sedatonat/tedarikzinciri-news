@@ -2,6 +2,7 @@
 title: CMA CGM ve Marsa Maroc, Nador West Med Terminali için Ortak Girişim Anlaşması İmzaladı
 subtitle: CMA CGM ve Marsa Maroc, Nador West Med Terminali için Ortak Girişim Anlaşması İmzaladı
 date: '2024-10-29T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/cma-cgm-buys-into-moroccan-container-terminal/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7c7c9b506af1401dbfc2ba80ae79cfd6~mv2.jpg
 imageAlt: CMA CGM ve Marsa Maroc, Nador West Med Terminali için Ortak Girişim Anlaşması İmzaladı

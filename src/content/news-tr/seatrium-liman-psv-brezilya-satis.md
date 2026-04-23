@@ -2,6 +2,7 @@
 title: Seatrium, İki Platform Tedarik Gemisini Brezilyalı Posidonia’ya 60 Milyon Dolar Karşılığında Sattı
 subtitle: Seatrium, İki Platform Tedarik Gemisini Brezilyalı Posidonia’ya 60 Milyon Dolar Karşılığında Sattı
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://splash247.com/seatrium-offloads-psv-duo-to-brazilian-firm-for-60m/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5dee12ed40f74af687d465ff24040faa~mv2.jpg
 imageAlt: Singapurlu gemi inşa grubu Seatrium, iki platform destek gemisini (PSV) Brezilya merkezli Posidonia Shipping and Trading’e yaklaşık 59,7 milyon dolar karşılığında sattı. Satış, şirketin çekirdek dışı varlıkları elden çıkarma ve operasyonel verimliliği artırma stratejisi kapsamında gerçekleştiriliyor.

@@ -2,6 +2,7 @@
 title: 'Kairos Tanker Stabilized Off Ahtopol: Joint Rescue Operation Underway'
 subtitle: 'Kairos Tanker Stabilized Off Ahtopol: Joint Rescue Operation Underway'
 date: '2025-12-07T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385478/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_940535ba9dd9462c9a96126c69711a67~mv2.jpg
 imageAlt: Following an explosion in the northern Istanbul Strait, the Kairos tanker drifted to waters off Ahtopol, involving coordination between Bulgarian and Turkish authorities, with adverse weather conditions hampering operations and environmental risks being assessed in detail

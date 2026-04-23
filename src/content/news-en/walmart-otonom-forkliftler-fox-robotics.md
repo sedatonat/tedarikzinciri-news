@@ -2,6 +2,7 @@
 title: 'Walmart Ramps Up Automation: Autonomous Forklifts and Fox Robotics Partnership'
 subtitle: 'Walmart Ramps Up Automation: Autonomous Forklifts and Fox Robotics Partnership'
 date: '2024-04-11T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10113-walmart-to-operate-19-autonomous-forklifts-to-unload-pallets-from-trucks
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_9d4dd57bd6444f6ea778ca408af8a413~mv2.jpeg
 imageAlt: 'Walmart Ramps Up Automation: Autonomous Forklifts and Fox Robotics Partnership'

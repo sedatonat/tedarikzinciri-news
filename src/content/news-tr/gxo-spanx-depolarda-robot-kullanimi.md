@@ -2,6 +2,7 @@
 title: GXO, Spanx Depolarında İnsansı Robotlar Kullanıyor
 subtitle: GXO, Spanx Depolarında İnsansı Robotlar Kullanıyor
 date: '2024-06-28T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10510-gxo-deploys-humanoid-robots-in-spanx-warehouse
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_53f5638e0c304d688d82ad03ef945d9c~mv2.jpeg
 imageAlt: GXO, Spanx Depolarında İnsansı Robotlar Kullanıyor

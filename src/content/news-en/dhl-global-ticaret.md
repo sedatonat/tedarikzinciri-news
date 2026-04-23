@@ -2,6 +2,7 @@
 title: 'DHL: Global Trade Continues to Grow Despite U.S. Tariffs'
 subtitle: 'DHL: Global Trade Continues to Grow Despite U.S. Tariffs'
 date: '2025-10-23T09:00:00Z'
+sourceUrl: https://gcaptain.com/china-keeps-importing-russian-lng-after-dodging-new-us-curbs/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_b0cef5af6d7a4339933404978e91e3db~mv2.jpg
 imageAlt: 'DHL: Global Trade Continues to Grow Despite U.S. Tariffs'

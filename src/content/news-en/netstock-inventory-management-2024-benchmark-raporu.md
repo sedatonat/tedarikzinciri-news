@@ -2,6 +2,7 @@
 title: Netstock's 2024 Inventory Management Report Guides SMBs
 subtitle: Netstock's 2024 Inventory Management Report Guides SMBs
 date: '2024-10-18T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40514-global-inventory-trends-and-challenges-shaping-smbs
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_e831974233c4439abab8d50302337f9d~mv2.jpg
 imageAlt: Netstock's 2024 Inventory Management Report Guides SMBs

@@ -2,6 +2,7 @@
 title: Trump Administration Backs Away From Atlantic Offshore Oil Drilling Plans
 subtitle: Trump Administration Backs Away From Atlantic Offshore Oil Drilling Plans
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://gcaptain.com/trump-administration-backs-off-bid-for-atlantic-oil-drilling/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_d97ceb1ba78d461cb70ee559a44a1e71~mv2.jpg
 imageAlt: The Trump administration has withdrawn its plan to auction offshore oil and natural gas exploration licenses along the U.S. East Coast. The decision came amid concerns about potential damage to tourism, particularly in Southeast Republican states, and environmental backlash.

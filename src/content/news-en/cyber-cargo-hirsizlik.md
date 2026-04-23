@@ -2,6 +2,7 @@
 title: Cyber Crime Gangs Infiltrate Trucking Companies to Steal Shipments
 subtitle: Cyber Crime Gangs Infiltrate Trucking Companies to Steal Shipments
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42778-hackers-and-crime-rings-are-teaming-up-to-steal-cargo-cyber-firm-says
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_5d60e94ed0384043b27f26d28f49e8de~mv2.jpg
 imageAlt: According to Bloomberg, cybersecurity research conducted by Proofpoint has revealed that hacker groups are collaborating with organized crime networks to steal cargo from logistics and transportation companies. This emerging threat could lead to billions of dollars in losses across the global supply chain.

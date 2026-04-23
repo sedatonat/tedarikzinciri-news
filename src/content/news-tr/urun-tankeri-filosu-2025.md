@@ -2,6 +2,7 @@
 title: Ürün Tankeri Filosu 2025'te 16 Yılın Zirvesine Ulaşacak
 subtitle: Ürün Tankeri Filosu 2025'te 16 Yılın Zirvesine Ulaşacak
 date: '2025-01-16T09:00:00Z'
+sourceUrl: https://gcaptain.com/product-tanker-fleet-growth-to-hit-16-year-high-in-2025-bimco-reports/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d47bdc0d0ad3468c88d8ca3d4fc157f1~mv2.jpg
 imageAlt: Ürün Tankeri Filosu 2025'te 16 Yılın Zirvesine Ulaşacak

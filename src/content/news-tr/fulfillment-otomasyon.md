@@ -2,6 +2,7 @@
 title: Hızlı Piyasada E‑Ticaret Fulfillment Otomasyonu Yeniden Düşünülüyor
 subtitle: Hızlı Piyasada E‑Ticaret Fulfillment Otomasyonu Yeniden Düşünülmekte
 date: '2025-10-06T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42551-rethinking-e-commerce-fulfillment-automation-in-a-fast-moving-market
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_8053247382754c7c92b0e24984cf1c3d~mv2.jpg
 imageAlt: Hızlı Piyasada E‑Ticaret Fulfillment Otomasyonu Yeniden Düşünülmekte

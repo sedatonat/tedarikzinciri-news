@@ -2,6 +2,7 @@
 title: 'Modern Tedarik Zincirlerinin Anahtarı: WMS Başarısı İçin Otomatik Testler'
 subtitle: 'Modern Tedarik Zincirlerinin Anahtarı: WMS Başarısı İçin Otomatik Testler'
 date: '2025-03-06T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/the_key_to_modern_supply_chains_automated_testing_for_wms_success
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_cf5d37c7fbb54940a7ad441f58c8bed2~mv2.jpg
 imageAlt: 'Modern Tedarik Zincirlerinin Anahtarı: WMS Başarısı İçin Otomatik Testler'

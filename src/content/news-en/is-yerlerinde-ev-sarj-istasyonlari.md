@@ -2,6 +2,7 @@
 title: 'Attracting Employees: EV Charging Stations in Workplaces'
 subtitle: 'Attracting Employees: EV Charging Stations in Workplaces'
 date: '2024-05-07T09:00:00Z'
+sourceUrl: https://chatgpt.com/c/0380aa70-1344-40d4-9beb-da56fe1d9c23
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_f91b32e596fa4b66b3395ad2e604333a~mv2.jpg
 imageAlt: 'Attracting Employees: EV Charging Stations in Workplaces'

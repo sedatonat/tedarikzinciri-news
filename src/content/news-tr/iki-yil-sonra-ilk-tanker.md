@@ -2,6 +2,7 @@
 title: 'İki Yıl Sonra Hurdaya Ayrılan İlk Süpertanker: Bir ''Karanlık Gemi'''
 subtitle: 'İki Yıl Sonra Hurdaya Ayrılan İlk Süpertanker: Bir ''Karanlık Gemi'''
 date: '2024-12-27T09:00:00Z'
+sourceUrl: https://gcaptain.com/first-supertanker-to-be-scrapped-in-two-years-is-a-dark-ship/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_aea91a7dab3840d59bf576301411adab~mv2.jpeg
 imageAlt: 'İki Yıl Sonra Hurdaya Ayrılan İlk Süpertanker: Bir ''Karanlık Gemi'''

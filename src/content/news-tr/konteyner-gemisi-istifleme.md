@@ -2,6 +2,7 @@
 title: Konteyner Gemilerinde Yükleme ve İstifleme Nasıl Yapılıyor?
 subtitle: Konteyner Gemilerinde Yükleme ve İstifleme Nasıl Yapılıyor?
 date: '2024-11-27T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/video-how-containers-are-stacked-organized
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c180e96d92394228a05e6cba047fd990~mv2.jpg
 imageAlt: Bir konteyner gemisinde kutuların ağırlık, boyut ve varış noktasına göre nasıl organize edildiğini gösteren video ve süreç açıklaması.

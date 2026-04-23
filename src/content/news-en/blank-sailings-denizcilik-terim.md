@@ -2,6 +2,7 @@
 title: What Is Blank Sailing and What Does It Mean for Shippers?
 subtitle: What Is Blank Sailing and What Does It Mean for Shippers?
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/supply-chain-101-blank-sailing
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4875860a00f64767bc146c1960e5242e~mv2.jpg
 imageAlt: Blank sailing is when a carrier cancels an entire voyage or skips certain port calls on a route; this condition creates longer transit times, additional costs, and planning difficulties.

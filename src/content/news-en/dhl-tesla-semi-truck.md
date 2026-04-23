@@ -2,6 +2,7 @@
 title: DHL Supply Chain Expands Electric Heavy-Duty Vehicle Fleet with Tesla Semi
 subtitle: DHL Supply Chain Expands Electric Heavy-Duty Vehicle Fleet with Tesla Semi
 date: '2025-12-10T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/dhl-supply-chain-tesla-semi-california-2025-plans-more/807625/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_670e4bb5917b4eecb62dc7979865b87c~mv2.jpg
 imageAlt: DHL Supply Chain's deployment of Tesla Semi in Central California, pilot results, 2026 EV fleet growth plans, and detailed overview of heavy-duty vehicle electrification logistics impact within 2050 net-zero objectives

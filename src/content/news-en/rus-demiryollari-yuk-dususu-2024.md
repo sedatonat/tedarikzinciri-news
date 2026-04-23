@@ -2,6 +2,7 @@
 title: Russian Railways Records Largest Loading Decline in 15 Years
 subtitle: Russian Railways Records Largest Loading Decline in 15 Years
 date: '2025-01-10T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/01/10/russian-railways-records-biggest-loading-collapse-in-15-years/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3a54bd3665c642dfb840a047931e7a14~mv2.jpeg
 imageAlt: Russian Railways Records Largest Loading Decline in 15 Years

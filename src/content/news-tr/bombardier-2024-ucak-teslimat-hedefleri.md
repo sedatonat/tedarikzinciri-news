@@ -2,6 +2,7 @@
 title: Bombardier, 2024 Yılına Yönelik Uçak Teslimat Hedeflerini Yükseltti
 subtitle: Bombardier, 2024 Yılına Yönelik Uçak Teslimat Hedeflerini Yükseltti
 date: '2024-03-11T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/bombardier-supplier-support-system-q4-supply-chain-aerospace/709122/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_28b47daf52674abca7d8a0dd8cf97365~mv2.jpg
 imageAlt: 2024 Yılına Yönelik Uçak Teslimat Hedeflerini Yükselten Bombardier

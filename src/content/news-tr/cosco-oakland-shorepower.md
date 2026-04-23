@@ -2,6 +2,7 @@
 title: COSCO, Oakland Limanı’nda Tam Shore Power Uyumuna Ulaştı
 subtitle: COSCO, Oakland Limanı’nda Tam Shore Power Uyumuna Ulaştı
 date: '2025-12-09T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/cosco-shore-power-oakland-electric-drayage-2024
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2e936e328d5743b6bda4e8b8337fdefb~mv2.jpg
 imageAlt: COSCO SHIPPING North America’nın Port of Oakland’da %100 shore power kullanımına geçmesi, Los Angeles–Long Beach limanlarındaki yüksek uyum oranları, elektrikli drayage kamyonları ve ABD liman operasyonlarında emisyon azaltım stratejisinin detaylı özeti

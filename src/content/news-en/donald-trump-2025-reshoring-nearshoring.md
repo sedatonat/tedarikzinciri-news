@@ -2,6 +2,7 @@
 title: 'Donald Trump''s 2025 Trade Agenda: Procurement and Reshoring Tactics'
 subtitle: 'Donald Trump''s 2025 Trade Agenda: Procurement and Reshoring Tactics'
 date: '2025-01-28T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/donald-trump-2025-trade-agenda-procurement-reshoring-tactics
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/nsplsh_ebb778ff96d2483893c2b95ba0db2d3a~mv2.jpg
 imageAlt: 'Donald Trump''s 2025 Trade Agenda: Procurement and Reshoring Tactics'

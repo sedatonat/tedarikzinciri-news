@@ -2,6 +2,7 @@
 title: MS Soroysund’un Karaya Oturması Sonrası 4.000 Litre Dizel Denize Sızdı
 subtitle: MS Soroysund’un Karaya Oturması Sonrası 4.000 Litre Dizel Denize Sızdı
 date: '2025-11-10T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384280/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_eea2a04d7aaa4a7090dd2d321c13413f~mv2.jpg
 imageAlt: MS Sørøysund adlı 62 metrelik çıkarma gemisi Tjeldsund’da karaya oturdu; yaklaşık 4.000 litre dizel denize sızdı, 27.000 litrelik yakıt tankı taşınarak boşaltılıyor ve çevre ekipleri sızıntıyı bariyerlerle kontrol altına almaya çalışıyor.

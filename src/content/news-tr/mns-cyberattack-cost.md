@@ -2,6 +2,7 @@
 title: 'Marks & Spencer: Siber Saldırı Maliyeti 300 Milyon Sterline Ulaşabilir'
 subtitle: 'Marks & Spencer: Siber Saldırı Maliyeti 300 Milyon Sterline Ulaşabilir'
 date: '2025-05-21T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41829-marks-and-spencer-expects-cyberattack-to-cost-300-million
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_1a0171d722894b58858522f5a8f887c7~mv2.png
 imageAlt: 'Marks & Spencer: Siber Saldırı Maliyeti 300 Milyon Sterline Ulaşabilir'

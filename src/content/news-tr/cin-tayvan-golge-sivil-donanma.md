@@ -2,6 +2,7 @@
 title: 'Reuters: Çin’in “Gölgeli Sivil Donanması” Tayvan Çıkarması İçin Tatbikat Yapıyor'
 subtitle: 'Reuters: Çin’in “Gölgeli Sivil Donanması” Tayvan Çıkarması İçin Tatbikat Yapıyor'
 date: '2025-11-20T09:00:00Z'
+sourceUrl: https://gcaptain.com/reuters-investigation-reveals-chinas-civilian-shadow-navy-practices-for-invasion-of-taiwan/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_d1aa9a0bc7ac460990680664773ca970~mv2.jpg
 imageAlt: Reuters araştırması, Çin’in sivil feribotlar ve kargo gemilerini kullanarak Tayvan’a olası bir amfibi çıkarma için tatbikat yürüttüğünü; uydu görüntülerinin gemilerin plaj çıkarmaları yaptığını ortaya koydu.

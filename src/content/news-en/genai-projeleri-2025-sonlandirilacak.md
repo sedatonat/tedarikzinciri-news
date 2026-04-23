@@ -2,6 +2,7 @@
 title: 'Gartner: One-Third of GenAI Projects Will Be Abandoned by End of 2025'
 subtitle: 'Gartner: One-Third of GenAI Projects Will Be Abandoned by End of 2025'
 date: '2024-08-14T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10727-one-third-of-generative-ai-projects-will-be-abandoned-by-2025-gartner-says
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_7aa5d25a24834ab4bd30d41417c73267~mv2.jpg
 imageAlt: 'Gartner: One-Third of GenAI Projects Will Be Abandoned by End of 2025'

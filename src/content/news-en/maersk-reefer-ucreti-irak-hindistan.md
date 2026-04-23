@@ -2,6 +2,7 @@
 title: Maersk Revises Reefer Surcharge from India to Iraq
 subtitle: Maersk Revises Reefer Surcharge from India to Iraq
 date: '2025-01-10T09:00:00Z'
+sourceUrl: https://container-news.com/maersk-revises-reefer-surcharge-from-india-to-iraq/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2dbaed1b6f4d4a8593c3ccad06dfbba5~mv2.jpg
 imageAlt: Maersk Revises Reefer Surcharge from India to Iraq

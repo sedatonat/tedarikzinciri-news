@@ -2,6 +2,7 @@
 title: Kanada Yeni Inland Gateway Stratejisiyle Tedarik Zincirini Güçlendiriyor
 subtitle: Kanada Yeni Inland Gateway Stratejisiyle Tedarik Zincirini Güçlendiriyor
 date: '2025-11-24T09:00:00Z'
+sourceUrl: https://www.joc.com/article/canada-looks-for-new-container-gateways-for-decoupling-from-us-6122714
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_fc6339ea95544844b499e350d6ce328e~mv2.jpg
 imageAlt: Kanada’nın Corridors Fund programı kapsamında Great Lakes ve St. Lawrence koridorunda inland port yetkilendirmeleri, CBSA genişlemesi, gümrük modernizasyonu ve ABD kaynaklı ticari belirsizliklere karşı tedarik zinciri koruma adımlarını açıklayan detaylı haber özeti

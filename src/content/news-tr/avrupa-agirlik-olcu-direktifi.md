@@ -2,6 +2,7 @@
 title: Avrupa’da Ağırlık ve Boyutlar Direktifi, Intermodal Taşımacılığı Tehlikeye Atıyor
 subtitle: Avrupa’da Ağırlık ve Boyutlar Direktifi, Intermodal Taşımacılığı Tehlikeye Atıyor
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://www.railfreight.com/policy/2025/10/30/weights-and-dimensions-directive-endangers-intermodal-developments/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2dc52c5658e84ea9a89f98deca1ea596~mv2.jpg
 imageAlt: Avrupa’daki Ağırlık ve Boyutlar Direktifi (Weights and Dimensions Directive – WDD) kapsamında daha büyük kamyonların (European Modular System – EMS) devreye alınması planı, 16 Avrupa lojistik ve demiryolu birliği tarafından eleştirildi. Kuruluşlar, bunun demiryolu yatırımlarını baltalayacağını ve intermodal taşımacılığı geriye götüreceğini savundu.

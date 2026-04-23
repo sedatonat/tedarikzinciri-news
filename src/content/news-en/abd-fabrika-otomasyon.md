@@ -2,6 +2,7 @@
 title: Nearly All U.S. Factories Plan to Shift to Automation by 2028
 subtitle: Nearly All U.S. Factories Plan to Shift to Automation by 2028
 date: '2025-12-10T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/us-manufacturers-automation-reshoring-robots-2025
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_4c1a4e67192349f3a162f8d0245a4d37~mv2.jpg
 imageAlt: According to RobCo research, 95% of U.S. industrial companies plan new automation investments by 2028, a comprehensive overview of labor shortages, reshoring effects, increased robot and artificial intelligence adoption, and transformation in financing models

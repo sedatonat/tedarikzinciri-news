@@ -2,6 +2,7 @@
 title: MRO Operasyonlarında Risk ve Stok Optimizasyonu Önem Kazanıyor
 subtitle: MRO Operasyonlarında Risk ve Stok Optimizasyonu Önem Kazanıyor
 date: '2024-09-16T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/mro-experts-call-for-greater-focus-on-business-risks
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_0652ef48fa14456b88d1b5dd31952ce3~mv2.jpg
 imageAlt: MRO Operasyonlarında Risk ve Stok Optimizasyonu Önem Kazanıyor

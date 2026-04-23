@@ -2,6 +2,7 @@
 title: U.S. Blocks Nippon Steel's Acquisition of U.S. Steel
 subtitle: U.S. Blocks Nippon Steel's Acquisition of U.S. Steel
 date: '2025-01-03T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40925-biden-blocks-sale-of-us-steel-to-nippon
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_baba3a1de80344d0b0e2c3e19e5d44f1~mv2.jpg
 imageAlt: U.S. Blocks Nippon Steel's Acquisition of U.S. Steel

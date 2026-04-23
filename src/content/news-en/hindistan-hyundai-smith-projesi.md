@@ -2,6 +2,7 @@
 title: 'India and HD Hyundai Seal $2 Billion Megayard Deal: SMITH Project Launches'
 subtitle: 'India and HD Hyundai Seal $2 Billion Megayard Deal: SMITH Project Launches'
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://shippingwatch.com/suppliers/article18818859.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_9ece6194bc4d45ffa53c9bb13985e7ff~mv2.jpg
 imageAlt: HD Hyundai joint shipyard agreement signed for the SMITH Project in Thoothukudi, Tamil Nadu, India, detailing the $2 billion investment objectives, site selection, supply chain impacts, and Maritime Amrit Kaal Vision 2047 context

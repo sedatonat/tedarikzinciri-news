@@ -2,6 +2,7 @@
 title: Baltimore Port Bridge Collapse Triggers Supply Chain Disruptions
 subtitle: Baltimore Port Bridge Collapse Triggers Supply Chain Disruptions
 date: '2024-03-27T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10025-baltimore-port-closure-could-trigger-freight-rate-hikes-delays
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_49ce9cbe26204e89a2adbc413a9b8b6d~mv2.png
 imageAlt: Baltimore Port Bridge Collapse Triggers Supply Chain Disruptions

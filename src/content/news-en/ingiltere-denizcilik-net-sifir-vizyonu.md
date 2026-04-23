@@ -2,6 +2,7 @@
 title: United Kingdom Shipping Sector Net Zero Vision
 subtitle: United Kingdom Shipping Sector Net Zero Vision
 date: '2024-06-01T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/uk-committee-releases-net-zero-and-shipping-report/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_35160c2aac1747ebaed13d7e28cda9c5~mv2.jpg
 imageAlt: United Kingdom Shipping Sector Net Zero Vision

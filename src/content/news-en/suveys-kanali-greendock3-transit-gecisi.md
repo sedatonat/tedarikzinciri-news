@@ -2,6 +2,7 @@
 title: Suez Canal Successfully Completes Transit of 42,000-Ton GREEN DOCK 3 Floating Dock
 subtitle: Suez Canal Successfully Completes Transit of 42,000-Ton GREEN DOCK 3 Floating Dock
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://container-news.com/suez-canal-successfully-transits-floating-dock-green-dock-3/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_74494102b1ba47908f5ee155d9c65c24~mv2.jpg
 imageAlt: Detailed overview of the special transit operation of the massive GREEN DOCK 3 floating dock through the Suez Canal in 24 hours under escort of five tugboats, covering security procedures, economic impacts, and significance for global maritime navigation

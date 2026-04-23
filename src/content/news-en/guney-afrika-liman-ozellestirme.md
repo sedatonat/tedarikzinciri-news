@@ -2,6 +2,7 @@
 title: 'South Africa Signs First Port Privatization Deal: Durban Port Enters a New Era'
 subtitle: 'South Africa Signs First Port Privatization Deal: Durban Port Enters a New Era'
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42990-south-africa-signs-its-first-ever-port-privatization-deal
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3149c21c76334f2cbb2394ab0cbdd60e~mv2.jpg
 imageAlt: South Africa's first port privatization agreement signed by Transnet with ICTSI led by Enrique Razon for Durban Port's Pier 2 terminal, featuring a comprehensive overview of the $647 million investment, capacity increases, and impact on logistics costs

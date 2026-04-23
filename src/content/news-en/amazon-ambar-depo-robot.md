@@ -2,6 +2,7 @@
 title: Amazon Deploys Its Millionth Robot at Japan Fulfillment Center
 subtitle: Amazon Deploys Its Millionth Robot at Japan Fulfillment Center
 date: '2025-07-02T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42067-amazons-millionth-robot-rolled-out-at-japan-fulfillment-center
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_6ab1d699789e42cfb8a33fe0d5470fcf~mv2.png
 imageAlt: Amazon Deploys Its Millionth Robot at Japan Fulfillment Center

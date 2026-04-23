@@ -2,6 +2,7 @@
 title: 'Artificial Intelligence in Procurement: Strategic Transformation and Growth Journey'
 subtitle: 'Artificial Intelligence in Procurement: Strategic Transformation and Growth Journey'
 date: '2024-03-04T09:00:00Z'
+sourceUrl: https://www.scmr.com/article/ai-procurement-efficiency-insight
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_70cc9a6e38f74e2891de815d214e7af2~mv2.jpg
 imageAlt: 'Artificial Intelligence in Procurement: Strategic Transformation and Growth Journey'

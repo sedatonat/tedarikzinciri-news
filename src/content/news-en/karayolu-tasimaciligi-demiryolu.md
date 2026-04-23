@@ -2,6 +2,7 @@
 title: 'Road Transport: Enemy of Rail or Necessary Complement?'
 subtitle: 'Road Transport: Enemy of Rail or Necessary Complement?'
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://www.railfreight.com/in-depth/2025/11/21/road-transport-friend-or-foe/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c986f8e522fd473ba7e701bc1a00d37f~mv2.jpg
 imageAlt: As Europe's rail sector argues that truck transport occupies a privileged position, road representatives emphasize this is a bias and that the two modes are actually interdependent; Febetra and RailGood executives share their views on sectoral competition, regulation, and modal shift.

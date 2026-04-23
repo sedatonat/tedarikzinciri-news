@@ -2,6 +2,7 @@
 title: Amazon Approaching Delivery Speed Record with Intelligent Inventory Placement
 subtitle: Amazon Approaching Delivery Speed Record with Intelligent Inventory Placement
 date: '2025-11-04T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/amazon-2025-delivery-speeds-fulfillment-improvements/804515/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_3cc89bf671414915b8a22b98c24d846d~mv2.jpg
 imageAlt: Amazon is preparing to push Prime delivery speeds to record levels again in 2025 by optimizing inventory placement. With U.S. inbound lead time cut by approximately 4 days, the company is targeting shorter distances, fewer handling points, and faster fulfillment.

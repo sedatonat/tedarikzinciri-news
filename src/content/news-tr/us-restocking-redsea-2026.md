@@ -2,6 +2,7 @@
 title: '2026 İçin İki Büyük Belirsizlik: ABD Restocking Dalgası ve Kızıldeniz’e Dönüş'
 subtitle: '2026 İçin İki Büyük Belirsizlik: ABD Restocking Dalgası ve Kızıldeniz’e Dönüş'
 date: '2025-11-19T09:00:00Z'
+sourceUrl: https://www.joc.com/article/us-restocking-red-sea-return-the-two-big-unknowns-for-2026-hapag-briefing-6120248
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_422afbe89af644f98ed070ae7cf4aba7~mv2.jpg
 imageAlt: 'Hapag-Lloyd CEO’su Rolf Habben Jansen, 2026’da konteyner taşımacılığını şekillendirecek iki kritik değişkeni vurguluyor: ABD’de stok yenileme dalgasının ne zaman başlayacağı ve Kızıldeniz–Süveyş geçişlerinin yeniden açılmasıyla küresel rotaların nasıl etkileneceği.'

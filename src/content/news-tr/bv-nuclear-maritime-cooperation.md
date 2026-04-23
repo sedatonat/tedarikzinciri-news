@@ -2,6 +2,7 @@
 title: Bureau Veritas, Denizcilikte Nükleer Teknolojileri Hızlandırmak İçin İş Birliği Bildirisini İmzaladı
 subtitle: Bureau Veritas, Denizcilikte Nükleer Teknolojileri Hızlandırmak İçin İş Birliği Bildirisini İmzaladı
 date: '2025-11-06T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384152/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_8d5c9626c3e14aa9bb40bc98c4dfb548~mv2.jpg
 imageAlt: Bureau Veritas, 30’dan fazla Avrupa nükleer ve denizcilik kuruluşuyla birlikte küçük modüler reaktörler (SMR) ve nükleer teknolojilerin güvenli, sürdürülebilir ve düşük karbonlu denizcilik uygulamaları için hızlandırılmasını amaçlayan iş birliği deklarasyonunu imzaladı.

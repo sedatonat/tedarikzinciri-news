@@ -2,6 +2,7 @@
 title: GrayMatter Robotics Opens 100,000-Square-Foot AI Robotics Innovation Center in California
 subtitle: GrayMatter Robotics Opens 100,000-Square-Foot AI Robotics Innovation Center in California
 date: '2025-10-24T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/graymatter_robotics_unveils_100000_square_foot_ai_robotics_innovation_center_in_california
 category: Teknoloji
 image: https://static.wixstatic.com/media/f808ef49161b483baeb323114519dde8.jpg
 imageAlt: GrayMatter Robotics Opens 100,000-Square-Foot AI Robotics Innovation Center in California

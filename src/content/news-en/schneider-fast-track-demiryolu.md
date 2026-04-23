@@ -2,6 +2,7 @@
 title: Schneider National Launches Fast Track Premium Rail Service
 subtitle: Schneider National Launches Fast Track Premium Rail Service
 date: '2025-11-20T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/schneider-national-fast-track-premium-rail/806041/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_997e5a18b12a4c31908060c45bf16d8d~mv2.jpg
 imageAlt: With its new premium intermodal rail service called Fast Track, Schneider National aims to deliver "truck-speed intermodal experience" on US-Mexico lanes, offering transit times up to two days faster than competitors, 95% on-time delivery, priority rail placement, optimized drayage, and 24/7 tracking.

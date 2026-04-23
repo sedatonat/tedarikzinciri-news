@@ -2,6 +2,7 @@
 title: '"Sendeo" ve "Kolay Gelsin", "Kolay Gelsin" çatısı altında birleşti'
 subtitle: '"Sendeo" ve "Kolay Gelsin", "Kolay Gelsin" çatısı altında birleşti'
 date: '2024-05-30T09:00:00Z'
+sourceUrl: https://www.lojiport.com/iki-dev-birlesti-turkiyenin-en-buyuk-kargo-sirketi-dogdu-116594h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6ebd5403de7a407da346e27e0305c61c~mv2.jpg
 imageAlt: '"Sendeo" ve "Kolay Gelsin", "Kolay Gelsin" çatısı altında birleşti'

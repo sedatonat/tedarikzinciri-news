@@ -2,6 +2,7 @@
 title: Toyota's Traigo_i Forklift Wins the German Design Award 2026
 subtitle: Toyota's Traigo_i Forklift Wins the German Design Award 2026
 date: '2025-02-06T09:00:00Z'
+sourceUrl: https://warehousinglogisticsinternational.com/another-design-award-for-toyotas-lithium-ion-traigo_i-counterbalanced-forklift/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_95a079e56823447f83098965edaf740e~mv2.jpg
 imageAlt: Toyota's new Traigo_i electric forklift model with integrated lithium-ion technology has won the 2026 German Design Award, securing the second major international design accolade following its 2025 Red Dot success.

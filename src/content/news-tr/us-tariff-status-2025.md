@@ -2,6 +2,7 @@
 title: 'Trump Döneminde Tarifeler: 2025’te Uluslararası Ticarette Son Durum'
 subtitle: 'Trump Döneminde Tarifeler: 2025’te Uluslararası Ticarette Son Durum'
 date: '2025-03-28T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/trump-tariffs-status-canada-mexico-china-eu/743577/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_c049597494e04d61a5953984a28297b0~mv2.jpg
 imageAlt: ABD’nin 2025 boyunca uygulamaya aldığı ülkeye özel tarifeler, karşılıklı vergiler ve ticaret soruşturmaları, küresel tedarik zincirlerinde geniş çaplı dalgalanma yaratıyor. Trump yönetimi; Kanada, Meksika, Çin, AB, Japonya ve Güney Kore ile değişken tarife politikaları yürütürken, IEEPA kapsamında uygulanan tarifeler Yüksek Mahkeme incelemesinde bulunuyor.

@@ -2,6 +2,7 @@
 title: 'Turkey''s Ports Turn Red Sea Crisis into Opportunity: Record-Breaking Performance and New Routes'
 subtitle: 'Turkey''s Ports Turn Red Sea Crisis into Opportunity: Record-Breaking Performance and New Routes'
 date: '2024-03-28T09:00:00Z'
+sourceUrl: https://www.lojiport.com/kizildeniz-krizine-hizli-cozum-limanlarimiza-tarihi-rekor-getirdi-116374h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e68f3170a381431a8fe486dcd26646ff~mv2.jpg
 imageAlt: 'Turkey''s Ports Turn Red Sea Crisis into Opportunity: Record-Breaking Performance and New Routes'

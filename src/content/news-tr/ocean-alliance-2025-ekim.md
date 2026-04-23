@@ -2,6 +2,7 @@
 title: 2025 Yeniden Yapılanmasının Ardından Ocean Alliance, Küresel Konteyner Taşımacılığında Liderliğini Pekiştirdi
 subtitle: 2025 Yeniden Yapılanmasının Ardından Ocean Alliance, Küresel Konteyner Taşımacılığında Liderliğini Pekiştirdi
 date: '2025-10-16T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/ocean-alliance-cements-lead-after-2025-restructuring/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8c863f83b51c4849bb18ae108ec1d0ff~mv2.jpg
 imageAlt: 2025 Yeniden Yapılanmasının Ardından Ocean Alliance, Küresel Konteyner Taşımacılığında Liderliğini Pekiştirdi

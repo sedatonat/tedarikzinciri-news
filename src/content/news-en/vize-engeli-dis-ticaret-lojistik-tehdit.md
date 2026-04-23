@@ -2,6 +2,7 @@
 title: 'Visa Barriers: How They Threaten Turkey''s Foreign Trade and Logistics Sector'
 subtitle: 'Visa Barriers: How They Threaten Turkey''s Foreign Trade and Logistics Sector'
 date: '2024-04-05T09:00:00Z'
+sourceUrl: https://www.lojiport.com/vize-sorunu-turkiyenin-dis-ticaretini-tehdit-ediyor-116402h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b31cfafeca374acba5523e42f145d350~mv2.jpg
 imageAlt: 'Visa Barriers: How They Threaten Turkey''s Foreign Trade and Logistics Sector'

@@ -2,6 +2,7 @@
 title: BP and JLL Partnership Marks a New Era in the Energy Sector
 subtitle: BP and JLL Partnership Marks a New Era in the Energy Sector
 date: '2024-11-04T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40615-how-bp-and-jll-are-reinventing-the-strategic-outsourcing-of-real-estate
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_746161d57e4c4cbe8bb63a22b130a14d~mv2.jpg
 imageAlt: BP and JLL Partnership Marks a New Era in the Energy Sector

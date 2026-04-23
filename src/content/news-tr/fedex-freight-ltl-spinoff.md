@@ -2,6 +2,7 @@
 title: FedEx Freight LTL Birimini Bağımsız Şirkete Dönüştürmeyi Planlıyor
 subtitle: FedEx Freight LTL Birimini Bağımsız Şirkete Dönüştürmeyi Planlıyor
 date: '2024-12-19T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/fedex-spinoff-fedex-freight-ltl-unit/736119/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_729c7d5dfc4c4eb9bc14c35932d5ff04~mv2.jpg
 imageAlt: FedEx Freight LTL Birimini Bağımsız Şirkete Dönüştürmeyi Planlıyor

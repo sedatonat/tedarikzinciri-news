@@ -2,6 +2,7 @@
 title: 'Maersk, Süveyş Kanalı Rotasına Geri Dönüyor: Kızıldeniz Yeniden Gündemde'
 subtitle: 'Maersk, Süveyş Kanalı Rotasına Geri Dönüyor: Kızıldeniz Yeniden Gündemde'
 date: '2023-12-27T09:00:00Z'
+sourceUrl: https://www.reuters.com/world/middle-east/maersk-schedules-dozens-vessels-travel-via-suez-canal-2023-12-27/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5d9766fd0fe24ed5a83cf2fadb8a9ae5~mv2.jpg
 imageAlt: 'Maersk, Süveyş Kanalı Rotasına Geri Dönüyor: Kızıldeniz Yeniden Gündemde'

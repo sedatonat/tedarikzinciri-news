@@ -2,6 +2,7 @@
 title: Class 1 Railroads' Speed, Dwell Time, and Car Online Data
 subtitle: Class 1 Railroads' Speed, Dwell Time, and Car Online Data
 date: '2025-03-14T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/railroad-speed-dwell-carsonline-bnsf-csx-up-cn-cp-kcs-ns/588233/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a2a531c6fca749bca9332b9573dc729e~mv2.jpg
 imageAlt: ''

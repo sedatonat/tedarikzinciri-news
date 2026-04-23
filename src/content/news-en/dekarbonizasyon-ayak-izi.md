@@ -2,6 +2,7 @@
 title: Three Steps to Supply Chain Decarbonization
 subtitle: Three Steps to Supply Chain Decarbonization
 date: '2025-05-05T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41671-three-steps-to-improving-supply-chain-decarbonization-strategies
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_47f8ca0f88304ecab823a41785b16558~mv2.png
 imageAlt: Three Steps to Supply Chain Decarbonization

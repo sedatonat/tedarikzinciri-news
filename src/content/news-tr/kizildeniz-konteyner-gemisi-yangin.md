@@ -2,6 +2,7 @@
 title: 'Kızıldeniz''de Yangın: ASL Bauhinia Mürettebatı Tahliye Edildi'
 subtitle: 'Kızıldeniz''de Yangın: ASL Bauhinia Mürettebatı Tahliye Edildi'
 date: '2025-01-29T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/372883/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_78240bb589fa477caa9cfad90f7182bb~mv2.jpg
 imageAlt: 'Kızıldeniz''de Yangın: ASL Bauhinia Mürettebatı Tahliye Edildi'

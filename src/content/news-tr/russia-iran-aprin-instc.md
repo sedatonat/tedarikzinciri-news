@@ -2,6 +2,7 @@
 title: Rusya’dan İran’daki Aprin Kuru Limanına İlk Düzenli Tren Hizmeti Başladı
 subtitle: Rusya’dan İran’daki Aprin Kuru Limanına İlk Düzenli Tren Hizmeti Başladı
 date: '2025-11-12T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/11/12/first-russian-regular-train-reaches-iranian-aprin-dry-port/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_fbdd500ec95249fa8263ddc2a2b2a5a7~mv2.jpg
 imageAlt: Uluslararası Kuzey-Güney Ulaştırma Koridoru (INSTC) kapsamında Rusya’dan İran’ın Tahran yakınındaki Aprin Dry Port’a ilk düzenli tren servisi başlatıldı; transit süresi iki haftanın altında gerçekleşti ve koridorun gelişiminde kritik bir eşik aşıldı.

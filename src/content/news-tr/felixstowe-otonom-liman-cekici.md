@@ -2,6 +2,7 @@
 title: Felixstowe Limanı Otonom Kamyon Filosunu 34 Araçla Genişletiyor
 subtitle: Felixstowe Limanı Otonom Kamyon Filosunu 34 Araçla Genişletiyor
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/port-of-felixstowe-receives-two-of-34-autonomous-trucks/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c4911ef9746747d1b6bcce170e91d9d5~mv2.jpg
 imageAlt: Port of Felixstowe’nin Westwell’den aldığı yeni otonom kamyonlarla operasyonel verimliliğini, emisyon azaltımını ve net-sıfır hedeflerini güçlendirmesine dair detaylı özet.

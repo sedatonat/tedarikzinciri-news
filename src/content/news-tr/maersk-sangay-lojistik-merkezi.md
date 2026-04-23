@@ -2,6 +2,7 @@
 title: Maersk, Şanghay’da 140 Milyon Dolarlık Amiral Lojistik Merkezini Açtı
 subtitle: Maersk, Şanghay’da 140 Milyon Dolarlık Amiral Lojistik Merkezini Açtı
 date: '2025-11-20T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/maersk-opens-140m-flagship-logistics-centre-in-shanghai/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_391718d129434643beeb81e1f3b8d1cf~mv2.jpg
 imageAlt: Maersk, Şanghay Lin-gang’da 113.000 m²’lik yeni amiral depolama ve lojistik merkezini açarak 147.000 m² depolama kapasitesi, çok kanallı fulfilment hizmetleri, AEO sertifikası ve entegre okyanus–hava–kara ağını tek çatı altında birleştirdi.

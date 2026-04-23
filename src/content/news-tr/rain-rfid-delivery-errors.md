@@ -2,6 +2,7 @@
 title: RAIN RFID, Teslimat Hatalarını Azaltarak Lojistikte Görünürlüğü Artırıyor
 subtitle: RAIN RFID, Teslimat Hatalarını Azaltarak Lojistikte Görünürlüğü Artırıyor
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/why-holiday-packages-still-get-misrouted
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_532823d09997466abf38d2e7f70320d6~mv2.jpg
 imageAlt: Impinj’in RAIN RFID teknolojisinin misload ve teslimat hatalarının kök nedenlerini nasıl ortadan kaldırdığı, UPS örneğiyle ölçülebilir operasyonel kazanımlar ve yoğun sezonlarda lojistik doğruluğa etkisinin detaylı özeti

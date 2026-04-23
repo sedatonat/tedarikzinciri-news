@@ -2,6 +2,7 @@
 title: 2023 Yılında Nakliye Sektöründe Karlılık Düşüşü
 subtitle: 2023 Yılında Nakliye Sektöründe Karlılık Düşüşü
 date: '2024-06-26T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10495-atri-most-trucking-operating-margins-were-6-or-lower-in-2023
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_57a23428d0b74be781e25b11f4efeaee~mv2.png
 imageAlt: 2023 Yılında Nakliye Sektöründe Karlılık Düşüşü

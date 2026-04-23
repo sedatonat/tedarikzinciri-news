@@ -2,6 +2,7 @@
 title: Tariff Impact Mitigation Strategies in Construction
 subtitle: Tariff Impact Mitigation Strategies in Construction
 date: '2025-04-17T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/41445-how-construction-contractors-can-mitigate-the-impact-of-tariffs
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_fe4d6a4670574dd5bd1821fd631758a0~mv2.png
 imageAlt: Tariff Impact Mitigation Strategies in Construction

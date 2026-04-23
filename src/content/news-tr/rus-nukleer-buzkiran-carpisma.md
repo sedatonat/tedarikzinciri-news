@@ -2,6 +2,7 @@
 title: Rus Nükleer Buzkıran Arktik'te Kargo Gemisiyle Çarpıştı
 subtitle: Rus Nükleer Buzkıran Arktik'te Kargo Gemisiyle Çarpıştı
 date: '2025-01-28T09:00:00Z'
+sourceUrl: https://gcaptain.com/russian-nuclear-icebreaker-sustains-damage-in-arctic-collision-with-cargo-ship/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8dc8b5f99bb44aafaf3c09620d890d1f~mv2.jpg
 imageAlt: Rus Nükleer Buzkıran Arktik'te Kargo Gemisiyle Çarpıştı

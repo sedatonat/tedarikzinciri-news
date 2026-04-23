@@ -2,6 +2,7 @@
 title: 'Rusya’nın “Shadow Fleet” Filosu ve Yumuşak Yaptırımlar: Petrol Akışı Sürerken Riskler Tırmanıyor'
 subtitle: 'Rusya’nın “Shadow Fleet” Filosu ve Yumuşak Yaptırımlar: Petrol Akışı Sürerken Riskler Tırmanıyor'
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://shippingwatch.com/carriers/Tanker/article18764243.ece
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_581637a0957f4b5789e0146304ab702c~mv2.jpg
 imageAlt: 2025 sonunda Rus enerji devlerine yönelik yaptırımların “yumuşak” uygulanması, Rus petrolünü taşıyan shadow fleet mekanizması, sahte bayrak operasyonları, STS transferleri ve bunun küresel tedarik zinciri risklerine etkisini anlatan detaylı haber özeti

@@ -2,6 +2,7 @@
 title: Meksika'nın Nearshoring Teşvikleri ile Bölgesel Entegrasyon Hamlesi
 subtitle: Meksika'nın Nearshoring Teşvikleri ile Bölgesel Entegrasyon Hamlesi
 date: '2025-01-24T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/plan-mexico-nearshoring-incentives-sheinbaum/738202/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_d20ee61eb73343c583a7c9934ad91711~mv2.jpg
 imageAlt: Meksika'nın Nearshoring Teşvikleri ile Bölgesel Entegrasyon Hamlesi

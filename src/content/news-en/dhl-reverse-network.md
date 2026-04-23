@@ -2,6 +2,7 @@
 title: DHL Ushers in New Era in Reverse Logistics with Inmar Integration
 subtitle: DHL Ushers in New Era in Reverse Logistics with Inmar Integration
 date: '2025-10-03T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/move/store/dhl-integrates-inmar-into-reverse-logistics-operation
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4411493101ea482c81aa457aebcc85a0~mv2.jpg
 imageAlt: DHL Ushers in New Era in Reverse Logistics with Inmar Integration

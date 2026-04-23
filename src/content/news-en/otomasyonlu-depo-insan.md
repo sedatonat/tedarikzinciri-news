@@ -2,6 +2,7 @@
 title: Does Human Labour Still Matter in Automated Warehouses?
 subtitle: Does Human Labour Still Matter in Automated Warehouses?
 date: '2025-12-15T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/do-people-still-matter-in-the-warehouse
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_d2e2ac7b51c145fca9e64c00aaf512f1~mv2.jpg
 imageAlt: A comprehensive industry assessment examining how human labour is being transformed in modern warehouses where automation, robotics and AI investments are accelerating, which roles are disappearing, and what new competencies are emerging

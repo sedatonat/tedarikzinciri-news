@@ -2,6 +2,7 @@
 title: Yeni ABD Tarifesi Öncesi Çin Hava Kargo Talebi ve Fiyatları Yükseliyor
 subtitle: Yeni ABD Tarifesi Öncesi Çin Hava Kargo Talebi ve Fiyatları Yükselmekte
 date: '2025-10-20T09:00:00Z'
+sourceUrl: https://www.joc.com/article/china-air-freight-demand-rates-surge-on-new-100-us-tariff-6099961
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a42a43e40d034145bc732c828e6d4fe0~mv2.jpeg
 imageAlt: Yeni ABD Tarifesi Öncesi Çin Hava Kargo Talebi ve Fiyatları Yükselmekte

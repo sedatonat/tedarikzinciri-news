@@ -2,6 +2,7 @@
 title: 'Oxford Research: Fragile Maritime Chokepoints Cost Global Trade $14 Billion Annually'
 subtitle: 'Oxford Research: Fragile Maritime Chokepoints Cost Global Trade $14 Billion Annually'
 date: '2025-11-27T09:00:00Z'
+sourceUrl: https://splash247.com/oxford-flags-14bn-annual-hit-as-fragile-chokepoints-strain-global-trade/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_74375d66a21740b58747d34f1ef5b7ef~mv2.jpg
 imageAlt: 'Detailed summary of the University of Oxford''s study analyzing the economic impacts of disruptions in global maritime chokepoints: annual losses, risk types, geographic effects, and supply chain vulnerability'

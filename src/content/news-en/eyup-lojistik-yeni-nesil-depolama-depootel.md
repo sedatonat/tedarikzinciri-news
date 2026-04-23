@@ -2,6 +2,7 @@
 title: 'Eyüp Logistics Introduces Innovative Storage Solution: Depootel'
 subtitle: 'Eyüp Logistics Introduces Innovative Storage Solution: Depootel'
 date: '2024-07-29T09:00:00Z'
+sourceUrl: https://lojistikhatti.com/haber/2024/07/eyup-lojistikten-yeni-nesil-depolama-cozumu-depootel
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5370f10b47ec4d599cfb969803a81154~mv2.jpeg
 imageAlt: 'Eyüp Logistics Introduces Innovative Storage Solution: Depootel'

@@ -2,6 +2,7 @@
 title: Tedarik Zincirleri Yalnızca Tarifelere Tepki Vermemeli, Aynı Zamanda Yatırım Yapmalı
 subtitle: Tedarik Zincirleri Yalnızca Tarifelere Tepki Vermemeli, Aynı Zamanda Yatırım Yapmalı
 date: '2025-02-07T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/why-supply-chains-should-invest-not-just-react-to-tariffs
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_a65782cccbd848bbb1a48d6110ba7cde~mv2.jpg
 imageAlt: Tedarik Zincirleri Yalnızca Tarifelere Tepki Vermemeli, Aynı Zamanda Yatırım Yapmalı

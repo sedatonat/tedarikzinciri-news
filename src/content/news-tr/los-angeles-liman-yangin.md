@@ -2,6 +2,7 @@
 title: Los Angeles Limanı, ONE Henry Hudson Yangını Sonrası Tam Operasyona Döndü
 subtitle: Los Angeles Limanı, ONE Henry Hudson Yangını Sonrası Tam Operasyona Döndü
 date: '2025-11-25T09:00:00Z'
+sourceUrl: https://www.joc.com/article/normal-operations-resume-at-port-of-los-angeles-following-vessel-electrical-fire-6122663
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d9b30e040ce04e929974811495e60318~mv2.jpg
 imageAlt: Port of Los Angeles’ta ONE Henry Hudson konteyner gemisindeki elektrik kaynaklı yangın sonrası terminal kapatmalarının kaldırılması ve limanın yeniden tam kapasite çalışmaya başlaması hakkında detaylı özet.

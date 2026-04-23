@@ -2,6 +2,7 @@
 title: CMA CGM's $20 Billion Investment in the United States
 subtitle: CMA CGM's $20 Billion Investment in the United States
 date: '2025-03-06T09:00:00Z'
+sourceUrl: https://www.joc.com/article/cma-cgm-to-invest-20-billion-in-us-shipping-ports-and-logistics-5957748
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_cbdf8269aec54d5cae3821d3c5ce924d~mv2.jpg
 imageAlt: CMA CGM's $20 Billion Investment in the United States

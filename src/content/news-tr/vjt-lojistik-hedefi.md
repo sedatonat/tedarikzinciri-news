@@ -2,6 +2,7 @@
 title: VJT Teknoloji Grubu, Yazılım Patenti Aldıktan Sonra Lojistik Sektörüne Yöneliyor
 subtitle: VJT Teknoloji Grubu, Yazılım Patenti Aldıktan Sonra Lojistik Sektörüne Yöneliyor
 date: '2025-01-13T09:00:00Z'
+sourceUrl: https://www.warehousinglogisticsinternational.com/vjt-targets-logistics-sector-following-software-patent-award/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5605ff95b5834f3fa2d7052e4cab2c4f~mv2.jpg
 imageAlt: VJT Teknoloji Grubu, Yazılım Patenti Aldıktan Sonra Lojistik Sektörüne Yöneliyor

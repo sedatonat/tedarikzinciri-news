@@ -2,6 +2,7 @@
 title: U.S. Bipartisan Bill Would Require Companies to Report AI-Related Layoffs
 subtitle: U.S. Bipartisan Bill Would Require Companies to Report AI-Related Layoffs
 date: '2025-11-18T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/bipartisan-bill-ai-related-layoffs-hawley-warner/805621/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_abb5e22af9984214811bddcb831431b6~mv2.jpg
 imageAlt: The AI-Related Job Impacts Clarity Act, introduced by Senators Josh Hawley and Mark Warner, would require large employers and federal agencies to report AI-related layoffs to the U.S. Department of Labor. The legislation also mandates public reporting on AI's impact on the workforce.

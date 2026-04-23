@@ -2,6 +2,7 @@
 title: HMM Surpasses 1 Million TEU Capacity, Joins Exclusive "TEU Millionaires Club"
 subtitle: HMM Surpasses 1 Million TEU Capacity, Joins Exclusive "TEU Millionaires Club"
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://splash247.com/hmm-joins-the-exclusive-teu-millionaires-club/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7d9cdcb77dd240b093c6d7df8e7b9b43~mv2.jpg
 imageAlt: South Korea's national shipping company HMM reached a fleet capacity of 1,007,180 TEU, becoming the eighth shipping line globally to exceed this threshold. The company's fleet has doubled over the past five years, with new-build vessels expected to nearly double capacity by 2030.

@@ -2,6 +2,7 @@
 title: 'Shipbuilding Revival in Louisiana: The Era of AI-Powered and Autonomous Vessels'
 subtitle: 'Shipbuilding Revival in Louisiana: The Era of AI-Powered and Autonomous Vessels'
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42739-shipbuilding-revival-in-louisiana-showcases-hi-tech-capabilities
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_8f9d41e94091444aa05b2e6ac6401150~mv2.jpg
 imageAlt: Louisiana's shipbuilding sector is experiencing a resurgence. Companies such as Metal Shark, HavocAI, Bollinger Shipyards, and Saronic are playing a role in autonomous vessel and Arctic icebreaker production, shaping the U.S. vision for high-technology maritime operations.

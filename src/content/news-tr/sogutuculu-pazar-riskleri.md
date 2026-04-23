@@ -2,6 +2,7 @@
 title: Soğutuculu Konteyner Pazarında 2025 Riskleri
 subtitle: Soğutuculu Konteyner Pazarında 2025 Riskleri
 date: '2024-12-27T09:00:00Z'
+sourceUrl: https://www.joc.com/article/reefer-market-growth-in-2025-filled-with-risk-5911954
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_32407111589c4471b502bc4bbeac9ace~mv2.jpg
 imageAlt: Soğutuculu Konteyner Pazarında 2025 Riskleri

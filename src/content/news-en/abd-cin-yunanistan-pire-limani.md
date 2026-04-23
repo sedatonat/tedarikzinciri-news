@@ -2,6 +2,7 @@
 title: 'Piraeus–Elefsis Tension: US–China Competition Dividing Mediterranean Logistics'
 subtitle: 'Piraeus–Elefsis Tension: US–China Competition Dividing Mediterranean Logistics'
 date: '2025-11-24T09:00:00Z'
+sourceUrl: https://container-news.com/how-piraeus-port-became-battleground-for-us-china-rivalry/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_6ed5a42482ad48a29ef0f55909cbabe1~mv2.jpg
 imageAlt: Detailed analysis of US–China power struggle over Piraeus Port, DFC-backed strategic rise of Elefsis Shipyard, NATO-aligned infrastructure requirements, and 2026 regional supply chain implications

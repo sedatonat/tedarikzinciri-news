@@ -2,6 +2,7 @@
 title: Ralph Lauren Plans to Lower China Sourcing to Single-Digit Percentages
 subtitle: Ralph Lauren Plans to Lower China Sourcing to Single-Digit Percentages
 date: '2024-11-18T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/ralph-lauren-supply-chain-tariff-trump-earnings-q2/733113/
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_d34eed642827485e8abb441822e7094e~mv2.jpg
 imageAlt: Ralph Lauren Plans to Lower China Sourcing to Single-Digit Percentages

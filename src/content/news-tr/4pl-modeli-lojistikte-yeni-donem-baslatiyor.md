@@ -2,6 +2,7 @@
 title: 4PL Modeli Lojistik Sektöründe Yeni Bir Dönem Başlatıyor
 subtitle: 4PL Modeli Lojistik Sektöründe Yeni Bir Dönem Başlatıyor
 date: '2024-10-30T09:00:00Z'
+sourceUrl: https://www.scdigest.com/ontarget/24-10-30_gartner_4pls.php?cid=21637
 category: Lojistik
 image: https://static.wixstatic.com/media/11062b_940e5d285a7849d7ad53db377fabf5b4~mv2.jpg
 imageAlt: 4PL Modeli Lojistik Sektöründe Yeni Bir Dönem Başlatıyor

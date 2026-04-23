@@ -2,6 +2,7 @@
 title: Fashion Industry Concerned About Potential Tariffs on Vietnam
 subtitle: Fashion Industry Concerned About Potential Tariffs on Vietnam
 date: '2025-03-13T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/fashion-industry-vietnam-tariff-risks/742433/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_763537cefbe44cf2832db7e1b8537905~mv2.jpg
 imageAlt: Fashion Industry Concerned About Potential Tariffs on Vietnam

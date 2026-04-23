@@ -2,6 +2,7 @@
 title: ABD’de Üretimin Geri Dönmesi İçin Gerçekte Ne Gerekiyor?
 subtitle: ABD’de Üretimin Geri Dönmesi İçin Gerçekte Ne Gerekiyor?
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42856-podcast-what-will-it-really-take-to-reshore-manufacturing-back-to-the-us
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_81061bd6d39547f8ae324f8752f451de~mv2.jpg
 imageAlt: SupplyChainBrain Podcast bu bölümde, Matt Dollard (RSM) ile ABD’ye üretimin geri taşınması (reshoring) sürecinin neden tarifelerle sağlanamayacağını ve hangi kritik unsurların yeniden sanayileşme için gerekli olduğunu ele alıyor.

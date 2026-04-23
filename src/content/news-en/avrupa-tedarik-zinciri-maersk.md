@@ -2,6 +2,7 @@
 title: Companies Turn to Multi-Geography Sourcing as Geopolitical Pressure Persists on European Supply Chains
 subtitle: Companies Turn to Multi-Geography Sourcing as Geopolitical Pressure Persists on European Supply Chains
 date: '2025-12-01T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42918-survey-no-end-in-sight-for-geopolitical-stress-on-europes-supply-chains
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_37834725b3ea4420acae465711dc601b~mv2.jpg
 imageAlt: Detailed summary of a Maersk survey of 900 European companies showing how supply chains are affected by geopolitical stress, tariffs, and cost volatility

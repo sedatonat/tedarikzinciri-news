@@ -2,6 +2,7 @@
 title: Argo Merchant Petrol Sızıntısı Sürüklenme Kartı İskoç Adasında Bulundu
 subtitle: Argo Merchant Petrol Sızıntısı Sürüklenme Kartı İskoç Adasında Bulundu
 date: '2024-12-27T09:00:00Z'
+sourceUrl: https://gcaptain.com/five-decades-at-sea-argo-merchant-oil-spill-drift-card-turns-up-on-scottish-isle/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6ef2dc28020b4f3f8ae5533a1bec4d85~mv2.jpg
 imageAlt: Argo Merchant Petrol Sızıntısı Sürüklenme Kartı İskoç Adasında Bulundu

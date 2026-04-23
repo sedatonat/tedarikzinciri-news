@@ -2,6 +2,7 @@
 title: Lojistik ve Ticaret Eğitimiyle Tarihi Topluma Yeni Fırsatlar
 subtitle: Lojistik ve Ticaret Eğitimiyle Tarihi Topluma Yeni Fırsatlar
 date: '2024-12-10T09:00:00Z'
+sourceUrl: https://gcaptain.com/new-dhl-backed-school-of-logistics-and-trade-in-africatown-aims-to-unlock-global-career-and-commerce-opportunities-for-historically-disadvantaged-community/
 category: Lojistik
 image: https://static.wixstatic.com/media/f19660f6c6e0436e9d2f00362db46eef.jpg
 imageAlt: Lojistik ve Ticaret Eğitimiyle Tarihi Topluma Yeni Fırsatlar

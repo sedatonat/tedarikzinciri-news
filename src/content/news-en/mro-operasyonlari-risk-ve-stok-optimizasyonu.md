@@ -2,6 +2,7 @@
 title: Risk Management and Inventory Optimization Gaining Importance in MRO Operations
 subtitle: Risk Management and Inventory Optimization Gaining Importance in MRO Operations
 date: '2024-09-16T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/mro-experts-call-for-greater-focus-on-business-risks
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_0652ef48fa14456b88d1b5dd31952ce3~mv2.jpg
 imageAlt: Risk Management and Inventory Optimization Gaining Importance in MRO Operations

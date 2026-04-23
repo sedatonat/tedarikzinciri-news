@@ -2,6 +2,7 @@
 title: Stanley 1913, Kinaxis Maestro ile Tedarik Zincirinde Yapay Zeka Kullanıyor
 subtitle: Stanley 1913, Kinaxis Maestro ile Tedarik Zincirinde Yapay Zeka Kullanıyor
 date: '2024-10-29T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/stanley-tumbler-using-ai-to-predict-supply-disruptions/731367/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_81f65a4303ba4b80977484c03ce844b5~mv2.jpg
 imageAlt: Stanley 1913, Kinaxis Maestro ile Tedarik Zincirinde Yapay Zeka Kullanıyor

@@ -2,6 +2,7 @@
 title: Kanadalı Havayolu Air Transat, Pilot Grevi Tehdidi Nedeniyle Uçuşları Askıya Almaya Başlıyor
 subtitle: Kanadalı Havayolu Air Transat, Pilot Grevi Tehdidi Nedeniyle Uçuşları Askıya Almaya Başlıyor
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42951-canadian-airline-says-it-will-suspend-flights-in-response-to-strike-threat
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0fc33f202ef24f79b444e8cc8d0b0d0d~mv2.jpg
 imageAlt: Air Transat pilotlarının 72 saatlik grev bildirimi sonrası havayolunun kademeli uçuş askıya alma kararı, sendika–yönetim gerilimi, operasyonel riskler ve Kanada havacılık sektörü üzerindeki etkilerin detaylı özeti

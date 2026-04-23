@@ -2,6 +2,7 @@
 title: 'Sürdürülebilirlik: Tedarik Zincirindeki Bilinç ve Sorumluluk'
 subtitle: 'Sürdürülebilirlik: Tedarik Zincirindeki Bilinç ve Sorumluluk'
 date: '2024-05-06T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/39587-caveat-emptor-procurement-continues-to-ignore-sustainability-at-its-own-risk
 category: Satınalma
 image: https://static.wixstatic.com/media/11062b_be928fefe3cf42c0960e13b0289714a8~mv2.jpg
 imageAlt: 'Sürdürülebilirlik: Tedarik Zincirindeki Bilinç ve Sorumluluk'

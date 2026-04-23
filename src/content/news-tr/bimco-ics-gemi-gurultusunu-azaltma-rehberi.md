@@ -2,6 +2,7 @@
 title: BIMCO ve ICS, Gemi Gürültüsünü Azaltmak İçin Rehber Yayınladı
 subtitle: BIMCO ve ICS, Gemi Gürültüsünü Azaltmak İçin Rehber Yayınladı
 date: '2024-10-07T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/bimco-ics-release-maritime-industry-guide-to-minimise-noise-underwater/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_35770bd10cf347aca97903a0a2041111~mv2.jpg
 imageAlt: BIMCO ve ICS, Gemi Gürültüsünü Azaltmak İçin Rehber Yayınladı

@@ -2,6 +2,7 @@
 title: 'Dematic ve Tesco Ortaklığı: Perakende Çözümlerinde Yeni Bir Dönem'
 subtitle: 'Dematic ve Tesco Ortaklığı: Perakende Çözümlerinde Yeni Bir Dönem'
 date: '2025-02-18T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/dematic-transcend-retail-solutions-tesco-partnership-grocery-fulfillment
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_f5c3c4bf75ec4b47be23f4a20888930a~mv2.jpg
 imageAlt: 'Dematic ve Tesco Ortaklığı: Perakende Çözümlerinde Yeni Bir Dönem'

@@ -2,6 +2,7 @@
 title: CMA CGM, Manaus Hatlarındaki Düşük Su Seviyesi Ek Ücretinin Uygulamasını Erteledi
 subtitle: CMA CGM, Manaus Hatlarındaki Düşük Su Seviyesi Ek Ücretinin Uygulamasını Erteledi
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://container-news.com/cma-cgm-postpones-implementation-of-low-water-surcharge-for-manaus/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_30afa68c8d584611864eb5199dd13213~mv2.jpg
 imageAlt: CMA CGM, Uzak Doğu–Manaus hattındaki taşımalar için planlanan Low Water Surcharge (LWS) uygulamasını, Amazon Nehri’nin su seviyesinin beklenenden yavaş düşmesi nedeniyle 15 Kasım 2025’e erteledi.

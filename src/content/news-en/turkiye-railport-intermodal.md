@@ -2,6 +2,7 @@
 title: Turkey Launches First Intermodal Terminal Railport
 subtitle: Turkey Launches First Intermodal Terminal Railport
 date: '2025-12-11T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/turkiye-launches-first-intermodal-terminal-railport/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6f1e6f4f18bc4fa4a03d60215c87c961~mv2.jpg
 imageAlt: Turkey's first intermodal terminal Railport commencing operations in Kartepe, the duisport–Arkas partnership, Marmara and Middle Corridor connections, and detailed overview of implications for Turkey's role as a Europe–Asia logistics bridge

@@ -2,6 +2,7 @@
 title: Mercedes-Benz Almanya'da Yeni Batarya Geri Dönüşüm Tesisi Kuruyor
 subtitle: Mercedes-Benz Almanya'da Yeni Batarya Geri Dönüşüm Tesisi Kuruyor
 date: '2024-10-31T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/mercedes-benz-circularity-germany-battery-recycling/731611/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_e5eb5c4b07d646cb85365000247135a0~mv2.jpg
 imageAlt: Mercedes-Benz Almanya'da Yeni Batarya Geri Dönüşüm Tesisi Kuruyor

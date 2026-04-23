@@ -2,6 +2,7 @@
 title: 'Anket: Tedarik Zinciri Liderleri Geleceğe Nasıl Hazırlanıyor?'
 subtitle: 'Anket: Tedarik Zinciri Liderleri Geleceğe Nasıl Hazırlanıyor?'
 date: '2024-12-24T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/rrd-survey-how-supply-chain-leaders-preparing-for-future
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_93e269313ff645f5ab4397abf33f5655~mv2.jpg
 imageAlt: 'Anket: Tedarik Zinciri Liderleri Geleceğe Nasıl Hazırlanıyor?'

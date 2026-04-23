@@ -2,6 +2,7 @@
 title: DB Cargo Tests 360-Degree AI-Based Inspection System for Freight Cars at Munich North
 subtitle: DB Cargo Tests 360-Degree AI-Based Inspection System for Freight Cars at Munich North
 date: '2025-12-10T09:00:00Z'
+sourceUrl: https://www.railfreight.com/technology/2025/12/10/db-cargo-tests-underfloor-sensors-for-improved-wagon-inspections/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_fd6d1c5ef668467d9355b71d27620588~mv2.jpg
 imageAlt: Technical overview of the automated inspection pilot deployed by DB Cargo at Munich North marshaling yard, based on underfloor imaging, acoustic analysis and AI integration, including detailed summary of its objectives and role in the "Smart Freight Wagon" vision

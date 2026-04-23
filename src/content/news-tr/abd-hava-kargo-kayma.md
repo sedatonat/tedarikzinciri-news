@@ -2,6 +2,7 @@
 title: ABD Hava Kargosunda Çin’den Tayvan ve Vietnam’a Kayma
 subtitle: ABD Hava Kargosunda Çin’den Tayvan ve Vietnam’a Kayma
 date: '2025-12-16T09:00:00Z'
+sourceUrl: https://www.joc.com/article/rising-us-air-freight-imports-from-taiwan-vietnam-offset-drop-in-china-trade-6136057
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2c1a15c3517546bda9a4a512a6a2d430~mv2.jpg
 imageAlt: ABD’nin de minimis exemption uygulamasını kaldırmasının ardından trans-Pasifik hava kargo akışlarının Çin’den Taiwan ve Vietnam kaynaklı ithalata yönelmesini ve bunun ürün bazlı etkilerini ele alan detaylı sektör özeti

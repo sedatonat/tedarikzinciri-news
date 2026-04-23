@@ -2,6 +2,7 @@
 title: ABD’de Fabrikaların Neredeyse Tamamı 2028’e Kadar Otomasyona Yönelmeyi Planlıyor
 subtitle: ABD’de Fabrikaların Neredeyse Tamamı 2028’e Kadar Otomasyona Yönelmeyi Planlıyor
 date: '2025-12-10T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/us-manufacturers-automation-reshoring-robots-2025
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_4c1a4e67192349f3a162f8d0245a4d37~mv2.jpg
 imageAlt: RobCo araştırmasına göre ABD’li sanayi şirketlerinin %95’inin 2028’e kadar yeni otomasyon yatırımları planlaması, iş gücü açığı, reshoring etkisi, robot ve yapay zekâ kullanımındaki artış ile finansman modellerindeki dönüşümün detaylı özeti

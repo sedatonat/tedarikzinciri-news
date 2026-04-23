@@ -2,6 +2,7 @@
 title: 'JLR Cyber Attack: Smart Factories Come to a Halt'
 subtitle: 'JLR Cyber Attack: Smart Factories Come to a Halt'
 date: '2025-09-20T09:00:00Z'
+sourceUrl: https://www.theguardian.com/business/2025/sep/20/jaguar-land-rover-hack-factories-cybersecurity-jlr
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_2b736b80dfef491a99e130b8e8406463~mv2.jpg
 imageAlt: 'JLR Cyber Attack: Smart Factories Come to a Halt, Outsourced Cyber Security Questioned, Supply Chain in Crisis'

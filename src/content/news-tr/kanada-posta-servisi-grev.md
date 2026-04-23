@@ -2,6 +2,7 @@
 title: 'Canada Post Grevleri Anlaşma Sonrası Askıya Alındı: Teslimatlarda Rahatlama Beklentisi'
 subtitle: 'Canada Post Grevleri Anlaşma Sonrası Askıya Alındı: Teslimatlarda Rahatlama Beklentisi'
 date: '2025-11-22T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42892-canada-post-strike-is-suspended-as-tentative-union-deal-reached
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_ea68a875529546659597afa2e2364ed7~mv2.jpg
 imageAlt: Canada Post ile sendika arasında prensip anlaşmasına varılması sonucu grevlerin askıya alınması ve ülke genelinde teslimatların normale dönme beklentisini özetleyen detaylı açıklama.

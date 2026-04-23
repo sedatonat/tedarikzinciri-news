@@ -2,6 +2,7 @@
 title: Union Pacific ve Norfolk Southern Birleşmesi Sonuçları
 subtitle: Union Pacific ve Norfolk Southern Birleşmesi Sonuçları
 date: '2025-10-24T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/up-ns-merger-cut-carload-transit-times-shippers-not-convinced/802684/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_814b0a7fa2e24adba1fe2bb262e4e74e~mv2.jpg
 imageAlt: Union Pacific ve Norfolk Southern Birleşmesi Sonuçları

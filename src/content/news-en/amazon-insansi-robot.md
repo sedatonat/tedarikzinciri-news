@@ -2,6 +2,7 @@
 title: Amazon Plans to Test Humanoid Delivery Robots
 subtitle: Amazon Plans to Test Humanoid Delivery Robots
 date: '2025-06-05T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41906-amazon-looks-to-test-humanoid-delivery-robots
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_cfdd908669f140d1a73647a452a898f4~mv2.png
 imageAlt: Amazon Plans to Test Humanoid Delivery Robots

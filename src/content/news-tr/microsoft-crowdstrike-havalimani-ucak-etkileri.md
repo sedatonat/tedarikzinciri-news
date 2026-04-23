@@ -2,6 +2,7 @@
 title: Crowdstrike'ın Tedarik Zincirlerine Dalga Etkisi
 subtitle: Crowdstrike'ın Tedarik Zincirlerine Dalga Etkisi
 date: '2024-07-22T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10604-supply-chains-see-ripple-effects-of-microsoft-computer-crash
 category: Teknoloji
 image: https://static.wixstatic.com/media/a80096d63aa94b24b64edf3a5a72f8e8.jpg
 imageAlt: Crowdstrike'ın Tedarik Zincirlerine Dalga Etkisi

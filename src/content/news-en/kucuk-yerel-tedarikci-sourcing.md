@@ -2,6 +2,7 @@
 title: Companies Increasingly Turning to Smaller and Local Suppliers in Procurement
 subtitle: Companies Increasingly Turning to Smaller and Local Suppliers in Procurement
 date: '2025-12-10T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/small-suppliers-supply-chain-strategy-2025
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_fc9271da527a48ebbd3989876153e051~mv2.jpg
 imageAlt: Comprehensive summary of how companies are positioning small and local suppliers as strategic sources due to rising tariffs, geopolitical risks, and supply chain fragility, according to Supplier.io's 2025 State of Supplier Diversity Report

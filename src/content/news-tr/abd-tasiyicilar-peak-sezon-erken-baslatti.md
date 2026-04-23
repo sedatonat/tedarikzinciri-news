@@ -2,6 +2,7 @@
 title: ABD'li Taşıyıcılar Okyanus Peak Sezonunu Erken Başlattı
 subtitle: ABD'li Taşıyıcılar Okyanus Peak Sezonunu Erken Başlattı
 date: '2024-08-09T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10711-shippers-launch-ocean-peak-season-early-project44-says
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c0f2055a838d47909bd455bcc720effc~mv2.png
 imageAlt: ABD'li Taşıyıcılar Okyanus Yoğun Sezonunu Erken Başlattı

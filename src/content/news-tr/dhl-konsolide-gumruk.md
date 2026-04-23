@@ -2,6 +2,7 @@
 title: DHL Global Forwarding, ABD Perakendecileri İçin Konsolide Gümrük Hizmetini Başlattı
 subtitle: DHL Global Forwarding, ABD Perakendecileri İçin Konsolide Gümrük Hizmetini Başlattı
 date: '2025-10-20T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/dhl_global_forwarding_launches_consolidated_clearance_service_to_simplify_u.s_import_process_for_retailers
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_811e814521a54fe0b11d3b4266eb235d~mv2.jpeg
 imageAlt: DHL Global Forwarding, ABD’ye yapılan yüksek hacimli ithalatlarda gümrük süreçlerini tek beyan altında birleştiren yeni “Consolidated Clearance Service” hizmetini duyurdu. Bu sistem, perakendecilere maliyet, hız ve uyumluluk avantajı sağlayarak özellikle Black Friday ve tatil dönemlerinde operasyonel verimliliği artırmayı hedefliyor.

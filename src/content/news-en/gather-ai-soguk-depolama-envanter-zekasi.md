@@ -2,6 +2,7 @@
 title: Gather AI Expands Inventory Intelligence in Cold Storage Sector
 subtitle: Gather AI Expands Inventory Intelligence in Cold Storage Sector
 date: '2024-11-22T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40722-gather-ai-expands-into-freezer-and-cold-storage-inventory-intelligence
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_3bea862270b24823b3bdd21349a973fc~mv2.png
 imageAlt: Gather AI Expands Inventory Intelligence in Cold Storage Sector

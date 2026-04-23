@@ -2,6 +2,7 @@
 title: CMA CGM, Çin’de İnşa Edilen İlk Metanol Çift Yakıtlı Gemisi ANTIGONE’u Hizmete Aldı
 subtitle: CMA CGM, Çin’de İnşa Edilen İlk Metanol Çift Yakıtlı Gemisi ANTIGONE’u Hizmete Aldı
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385741/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0569df8f19b84f97a958610027952d10~mv2.jpeg
 imageAlt: CMA CGM’in Jiangnan Shipyard’da inşa edilen ilk metanol çift yakıtlı konteyner gemisi CMA CGM ANTIGONE’un teknik özellikleri, Kun serisi kapsamındaki yenilikler ve grubun düşük karbonlu filo stratejisindeki yeri

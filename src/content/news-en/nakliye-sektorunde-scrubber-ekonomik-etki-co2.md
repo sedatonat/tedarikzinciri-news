@@ -2,6 +2,7 @@
 title: The Economic Impact of Scrubbers in the Shipping Sector
 subtitle: The Economic Impact of Scrubbers in the Shipping Sector
 date: '2024-02-26T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/scrubbers-save-13-billion-in-shipping-fuel/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f9e3abe063ef4de28f949f0dd7fae8d5~mv2.png
 imageAlt: The Economic Impact of Scrubbers in the Shipping Sector

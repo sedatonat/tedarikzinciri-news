@@ -2,6 +2,7 @@
 title: Wärtsilä Provides Meghna Fresh LPG Carrier with Cargo Handling System
 subtitle: Wärtsilä Provides Meghna Fresh LPG Carrier with Cargo Handling System
 date: '2024-11-29T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/wartsila-provides-meghna-freshs-lpg-carrier-with-cargo-handling-system/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0f4863edcb234a6baf92a4723626baef~mv2.jpeg
 imageAlt: Wärtsilä Provides Meghna Fresh LPG Carrier with Cargo Handling System

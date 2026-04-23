@@ -2,6 +2,7 @@
 title: Eng Kong, Singapur'un İlk Otomatik Konteyner Mühür Dağıtım Sistemini Başlattı
 subtitle: Eng Kong, Singapur'un İlk Otomatik Konteyner Mühür Dağıtım Sistemini Başlattı
 date: '2024-10-23T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/eng-kong-installs-singapores-first-automated-seal-dispenser-system/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_01e9383c84364a63a8f7e3d71d979053~mv2.jpg
 imageAlt: Eng Kong, Singapur'un İlk Otomatik Konteyner Mühür Dağıtım Sistemini Başlattı

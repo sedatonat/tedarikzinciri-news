@@ -2,6 +2,7 @@
 title: Somaliland'ın Kızıldeniz'de Yeni Bir Ticaret Merkezi Olarak Potansiyeli
 subtitle: Somaliland'ın Kızıldeniz'de Yeni Bir Ticaret Merkezi Olarak Potansiyeli
 date: '2025-01-02T09:00:00Z'
+sourceUrl: https://container-news.com/somalilands-potential-to-emerge-as-new-trade-hub-in-red-sea/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_76a01789dfa649d3b92ebf7ecb613375~mv2.jpg
 imageAlt: Somaliland'ın Kızıldeniz'de Yeni Bir Ticaret Merkezi Olarak Potansiyeli

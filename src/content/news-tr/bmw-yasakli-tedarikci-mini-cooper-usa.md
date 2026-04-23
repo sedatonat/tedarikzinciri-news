@@ -2,6 +2,7 @@
 title: BMW'nin Yasaklı Tedarikçiden Parça Kullanarak ABD'ye Mini Cooper İhracatı
 subtitle: BMW'nin Yasaklı Tedarikçiden Parça Kullanarak ABD'ye Mini Cooper İhracatı
 date: '2024-05-23T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/bmw-imports-banned-supplier-senate-report/716930/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_e17764650e60469a918e15e8343bd611~mv2.jpg
 imageAlt: BMW'nin Yasaklı Tedarikçiden Parça Kullanarak ABD'ye Mini Cooper İhracatı

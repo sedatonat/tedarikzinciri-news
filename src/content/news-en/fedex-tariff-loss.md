@@ -2,6 +2,7 @@
 title: FedEx Braces for $1 Billion Loss Due to Tariffs
 subtitle: FedEx Braces for $1 Billion Loss Due to Tariffs
 date: '2025-09-23T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42533-fedex-sees-1b-hit-as-tariffs-upend-parcel-business
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a8b9d91dcb644679b253a149c2760a6b~mv2.png
 imageAlt: FedEx Braces for $1 Billion Loss Due to Tariffs

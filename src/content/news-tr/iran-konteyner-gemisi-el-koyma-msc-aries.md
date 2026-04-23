@@ -2,6 +2,7 @@
 title: İran'ın Konteyner Gemisine El Koymasıyla Beklenen Deniz Nakliye Ücretlerinde Artış
 subtitle: İran'ın Konteyner Gemisine El Koymasıyla Beklenen Deniz Nakliye Ücretlerinde Artış
 date: '2024-04-15T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10121-ocean-freight-rates-expected-to-jump-after-iran-seizes-containership
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8326b989c75342368f3eed8791eb68a8~mv2.png
 imageAlt: İran'ın Konteyner Gemisine El Koymasıyla Beklenen Deniz Nakliye Ücretlerinde Artış

@@ -2,6 +2,7 @@
 title: Hindistan’ın En Büyük Şirketi Reliance, Rus Petrolü İthalatını Durdurdu
 subtitle: Hindistan’ın En Büyük Şirketi Reliance, Rus Petrolü İthalatını Durdurdu
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42886-major-indian-business-ceases-russian-oil-imports
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_aa35f69770de4d639c0e91267f0815ca~mv2.jpg
 imageAlt: Reliance Industries, AB’nin 2026’da yürürlüğe girecek Rus petrolü kısıtlamaları ve ABD’nin Rosneft–Lukoil yaptırımları nedeniyle Rus ham petrolü alımını durdurdu. Bu karar, ABD–Hindistan ticaret ilişkileri ve küresel petrol akışları açısından kritik bir dönemeç olarak değerlendiriliyor.

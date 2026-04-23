@@ -2,6 +2,7 @@
 title: Çin Limanları 250 Milyon TEU Hedefine Yaklaşıyor
 subtitle: Çin Limanları 250 Milyon TEU Hedefine Yaklaşıyor
 date: '2024-11-01T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/chinese-ports-near-250-million-teus/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6d0c3c404c6548b9b399a341a89d564c~mv2.jpg
 imageAlt: Çin Limanları 250 Milyon TEU Hedefine Yaklaşıyor

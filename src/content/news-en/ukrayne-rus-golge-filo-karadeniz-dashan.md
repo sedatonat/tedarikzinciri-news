@@ -2,6 +2,7 @@
 title: Ukraine Strikes Russia's "Shadow Fleet" Tanker Dashan with Sea Baby Drones in Black Sea
 subtitle: Ukraine Strikes Russia's "Shadow Fleet" Tanker Dashan with Sea Baby Drones in Black Sea
 date: '2025-12-10T09:00:00Z'
+sourceUrl: https://gcaptain.com/ukraine-hits-third-russia-shadow-fleet-tanker-in-black-sea/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3eda22a6a97244e29bad4ff2a66e31d0~mv2.jpg
 imageAlt: Ukraine's SBU strikes Comoros-flagged tanker Dashan in Black Sea with Sea Baby maritime drones, marking third attack on shadow fleet, rising insurance risks, and logistics impacts of regional tensions—detailed overview

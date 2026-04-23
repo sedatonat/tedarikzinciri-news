@@ -2,6 +2,7 @@
 title: Triton Acquires GCI in Deal Exceeding $1 Billion
 subtitle: Triton Acquires GCI in Deal Exceeding $1 Billion
 date: '2025-03-14T09:00:00Z'
+sourceUrl: https://container-news.com/triton-acquires-gci-in-a-deal-exceeding-us1-billion/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_46ef2ecda1394ef590b82bdcee819b12~mv2.jpg
 imageAlt: Triton Acquires GCI in Deal Exceeding $1 Billion

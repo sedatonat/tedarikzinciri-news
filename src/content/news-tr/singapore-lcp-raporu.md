@@ -2,6 +2,7 @@
 title: Singapore Yeni LCP Raporunda Dünyanın Lider Konteyner Limanı Seçildi
 subtitle: Singapore Yeni LCP Raporunda Dünyanın Lider Konteyner Limanı Seçildi
 date: '2025-11-27T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385091/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e210000ac2984e34aa595849c102c4a2~mv2.jpg
 imageAlt: DNV ve Menon Economics tarafından yayımlanan Leading Container Ports of the World raporunda Singapore’un küresel lider seçilmesi, metodoloji, sıralamalar ve bölgesel lojistik etkilerini anlatan kapsamlı özet

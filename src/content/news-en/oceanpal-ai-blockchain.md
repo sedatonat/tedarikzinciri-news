@@ -2,6 +2,7 @@
 title: OceanPal Establishes SovereignAI, Expanding into Artificial Intelligence and Blockchain
 subtitle: OceanPal Establishes SovereignAI, Expanding into Artificial Intelligence and Blockchain
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://splash247.com/oceanpal-charts-new-course-into-ai-and-crypto-infrastructure/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_f71cbecdffd743f4981f8f9cb4fefce7~mv2.jpeg
 imageAlt: Greek shipping company OceanPal has ventured beyond traditional maritime transport to establish SovereignAI, a new digital subsidiary focused on artificial intelligence and blockchain. Developed in partnership with NEAR Foundation, the project aims to create privacy-focused AI cloud infrastructure powered by NVIDIA technology.

@@ -2,6 +2,7 @@
 title: 'Kamion: Teknoloji ile Dönüşen Lojistik Hizmetler'
 subtitle: 'Kamion: Teknoloji ile Dönüşen Lojistik Hizmetler'
 date: '2024-05-09T09:00:00Z'
+sourceUrl: https://www.lojiport.com/bos-seferler-14-milyar-kayip-yaratiyor-116489h.htm
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_ab4201d448bf486d94328ef2eae30da5~mv2.jpg
 imageAlt: 'Kamion: Teknoloji ile Dönüşen Lojistik Hizmetler'

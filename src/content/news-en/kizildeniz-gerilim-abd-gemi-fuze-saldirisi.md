@@ -2,6 +2,7 @@
 title: 'Red Sea Tensions Escalate: U.S. Vessel Hit by Missile Attack'
 subtitle: 'Red Sea Tensions Escalate: U.S. Vessel Hit by Missile Attack'
 date: '2024-01-16T09:00:00Z'
+sourceUrl: https://www.haber7.com/dunya/haber/3383123-korfezde-sular-isiniyor-yemen-aciklarinda-abdnin-ticari-yuk-gemisi-fuzeyle-vuruldu
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_58202542d43642448a2be6a9445ec973~mv2.jpg
 imageAlt: 'Red Sea Tensions Escalate: U.S. Vessel Hit by Missile Attack'

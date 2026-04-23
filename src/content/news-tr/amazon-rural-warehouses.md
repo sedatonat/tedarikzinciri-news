@@ -2,6 +2,7 @@
 title: 'Amazon’un Kırsal Depo Hamlesi: Onlarca Yeni Tesis'
 subtitle: 'Amazon’un Kırsal Depo Hamlesi: Onlarca Yeni Tesis'
 date: '2025-02-08T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41666-amazon-plans-to-build-dozens-of-us-warehouses-in-rural-expansion
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_26fb59fffde141a4b461ebca74ec64d4~mv2.png
 imageAlt: 'Amazon’un Kırsal Depo Hamlesi: Onlarca Yeni Tesis'

@@ -2,6 +2,7 @@
 title: U.S. Launches "Genesis Mission" to Advance AI-Powered Scientific Breakthrough Program
 subtitle: U.S. Launches "Genesis Mission" to Advance AI-Powered Scientific Breakthrough Program
 date: '2025-11-24T09:00:00Z'
+sourceUrl: https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_f2e8f9355f1c48b49f8b88117384f2f9~mv2.jpg
 imageAlt: Summary of the U.S. Genesis Mission Executive Order dated 2025, detailing the establishment of a major national platform led by DOE to accelerate AI-enabled scientific research, encompassing data integration, HPC infrastructure, and scientific challenges

@@ -2,6 +2,7 @@
 title: ABD, İran Petrol Tankerlerini Denizde Durdurmayı Değerlendiriyor
 subtitle: ABD, İran Petrol Tankerlerini Denizde Durdurmayı Değerlendiriyor
 date: '2025-03-07T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/374324/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/11062b_aa90b5dbcfcb4071b3ec6d890e0b77ed~mv2.jpg
 imageAlt: ABD, İran Petrol Tankerlerini Denizde Durdurmayı Değerlendiriyor

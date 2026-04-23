@@ -2,6 +2,7 @@
 title: Trafik Sıkışıklığı ABD'de Kamyon Taşımacılığına 108 Milyar Dolara Mal Oluyor
 subtitle: Trafik Sıkışıklığı ABD'de Kamyon Taşımacılığına 108 Milyar Dolara Mal Oluyor
 date: '2025-02-19T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/traffic_jams_cause_108_billion_in_wasted_trucking_costs_atri_estimate_says
 category: Lojistik
 image: https://static.wixstatic.com/media/11062b_18629bdf5e6c4c9f96c4e077116edeb7~mv2.jpg
 imageAlt: Trafik Sıkışıklığı ABD'de Kamyon Taşımacılığına 108 Milyar Dolara Mal Oluyor

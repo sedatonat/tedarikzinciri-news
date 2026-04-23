@@ -2,6 +2,7 @@
 title: Airbus A320 Serisinde Panel Kalite Sorunu İçin Geniş Çaplı İnceleme Başlattı
 subtitle: Airbus A320 Serisinde Panel Kalite Sorunu İçin Geniş Çaplı İnceleme Başlattı
 date: '2025-12-01T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42916-airbus-says-quality-lapses-on-a320-panels-need-inspection
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_cc17f1e6d68846bbad7c1e1853026c05~mv2.jpg
 imageAlt: Airbus’ın A320 gövde panellerindeki kalite sorunları nedeniyle başlattığı incelemeler, teslimat hedefleri, yatırımcı etkileri ve yazılım sorunlarının ardından ortaya çıkan süreç üzerine detaylı haber özeti

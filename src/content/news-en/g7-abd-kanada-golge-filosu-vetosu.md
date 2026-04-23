@@ -2,6 +2,7 @@
 title: Trump Opposes Canada's Task Force Plan Against Russia's Shadow Fleet
 subtitle: Trump Opposes Canada's Task Force Plan Against Russia's Shadow Fleet
 date: '2025-03-10T09:00:00Z'
+sourceUrl: https://shippingwatch.com/regulation/article17980781.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5475d488f80c4238ac2c6a40d0c80799~mv2.jpg
 imageAlt: Trump Opposes Canada's Task Force Plan Against Russia's Shadow Fleet

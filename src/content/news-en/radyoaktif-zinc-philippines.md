@@ -2,6 +2,7 @@
 title: Ship Carrying Radioactive Zinc Dust Denied Entry to Philippines Port
 subtitle: Ship Carrying Radioactive Zinc Dust Denied Entry to Philippines Port
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42738-ship-with-radioactive-zinc-dust-stuck-near-philippines-port
 category: Lojistik
 image: https://static.wixstatic.com/media/nsplsh_3578412d4e5a43496c366b~mv2_d_5184_3456_s_4_2.jpg
 imageAlt: A vessel carrying 23 containers of radioactive zinc dust returned from Indonesia is anchored off Manila, awaiting port entry. Filipino authorities have refused the ship permission to enter the harbor because there is no facility capable of receiving or disposing of the cargo.

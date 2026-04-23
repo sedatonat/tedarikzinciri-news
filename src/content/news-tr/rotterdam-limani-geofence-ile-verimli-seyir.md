@@ -2,6 +2,7 @@
 title: Rotterdam Limanı'ndan Gemi Hareketlerinde "Geofence" Dönemi
 subtitle: Rotterdam Limanı'ndan Gemi Hareketlerinde "Geofence" Dönemi
 date: '2024-10-30T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/port-of-rotterdam-introduces-geofence-for-just-in-time-sailing/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_16ced623d8b14b63891d07da1b5dc700~mv2.jpg
 imageAlt: Rotterdam Limanı'ndan Gemi Hareketlerinde "Geofence" Dönemi

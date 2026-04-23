@@ -2,6 +2,7 @@
 title: UK Rail Freight's Net Zero and 75% Growth Targets on Collision Course
 subtitle: UK Rail Freight's Net Zero and 75% Growth Targets on Collision Course
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://www.railfreight.com/railfreight/2025/12/12/british-rail-freight-ready-to-go-net-zero/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7161583be62e419d88514dcb0dc54309~mv2.jpg
 imageAlt: Comprehensive analysis by RailFreight.com author Simon Walton addressing the technological, infrastructure, and operational challenges the UK faces in achieving both net zero emissions and 75% growth in rail freight by 2050

@@ -2,6 +2,7 @@
 title: Panama, Çinli Liman Operatörünü Denetliyor
 subtitle: Panama, Çinli Liman Operatörünü Denetliyor
 date: '2025-01-21T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/372577/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f9e021e4459241d6827769d6221f151e~mv2.jpg
 imageAlt: Panama, Çinli Liman Operatörünü Denetliyor

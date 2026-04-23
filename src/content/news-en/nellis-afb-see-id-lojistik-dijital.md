@@ -2,6 +2,7 @@
 title: Nellis AFB Digitalizes Logistics Management with SEE ID Inc.
 subtitle: Nellis AFB Digitalizes Logistics Management with SEE ID Inc.
 date: '2024-11-04T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40611-a-us-air-force-base-automates-and-streamlines-asset-tracking
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4b0f49c5d02542f1b00bf8820eedef81~mv2.jpg
 imageAlt: Nellis AFB Digitalizes Logistics Management with SEE ID Inc.

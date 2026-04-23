@@ -2,6 +2,7 @@
 title: Airbus A320 Filosu İçin Acil Güvenlik Çağrısı ve Küresel Uçuş Etkileri
 subtitle: Airbus A320 Filosu İçin Acil Güvenlik Çağrısı ve Küresel Uçuş Etkileri
 date: '2025-11-30T09:00:00Z'
+sourceUrl: https://container-news.com/airbus-issues-urgent-a320-family-safety-directive/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_16898683f19f4e3682183ded3249fb1f~mv2.png
 imageAlt: Airbus’ın A320 uçaklarında tespit edilen radyasyon kaynaklı veri bozulması riski nedeniyle başlattığı acil yazılım ve donanım güncellemelerinin küresel havayolu operasyonlarına etkisi

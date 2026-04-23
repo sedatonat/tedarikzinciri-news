@@ -2,6 +2,7 @@
 title: İran Kuvvetleri, Talara Tankerini İran Sularına Yönlendirdi
 subtitle: İran Kuvvetleri, Talara Tankerini İran Sularına Yönlendirdi
 date: '2025-11-14T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384499/
 category: Lojistik
 image: https://static.wixstatic.com/media/nsplsh_64001c153d654cbc823819de103690da~mv2.jpg
 imageAlt: Marshall Adaları bayraklı Talara tankeri, Khor Fakkan açıklarında üç küçük teknenin yaklaşmasının ardından rotasını keskin biçimde değiştirerek İran’ın Cask terminali yönüne ilerledi; olayın IRGC Navy müdahalesi olduğu değerlendiriliyor.

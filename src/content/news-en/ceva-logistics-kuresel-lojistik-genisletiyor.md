@@ -2,6 +2,7 @@
 title: CEVA Logistics Expands Global Logistics Network with Bolloré Logistics
 subtitle: CEVA Logistics Expands Global Logistics Network with Bolloré Logistics
 date: '2024-07-03T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10524-ceva-logistics-to-fold-bollore-logistics-into-its-operations
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_be011ca380fd459db6c0dbb061fa59a8~mv2.jpg
 imageAlt: CEVA Logistics Expands Global Logistics Network with Bolloré Logistics

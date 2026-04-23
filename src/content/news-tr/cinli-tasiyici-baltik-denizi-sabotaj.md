@@ -2,6 +2,7 @@
 title: Çinli Taşıyıcı, Baltık Denizi'nde Telekom Hatlarına Müdahale Şüphesiyle Gözaltında
 subtitle: Çinli Taşıyıcı, Baltık Denizi'nde Telekom Hatlarına Müdahale Şüphesiyle Gözaltında
 date: '2024-11-21T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40716-chinese-carrier-detained-for-suspected-sabotage-of-telecom-lines
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_ef314cf438e04494be344452247cf41d~mv2.jpg
 imageAlt: Çinli Taşıyıcı, Baltık Denizi'nde Telekom Hatlarına Müdahale Şüphesiyle Gözaltında

@@ -2,6 +2,7 @@
 title: Konecranes ve TBA Depo Yönetimi ve Otomasyon Ekiplerini Birleştiriyor
 subtitle: Konecranes ve TBA Depo Yönetimi ve Otomasyon Ekiplerini Birleştiriyor
 date: '2025-01-02T09:00:00Z'
+sourceUrl: https://container-news.com/konecranes-and-tba-merge-warehouse-management-and-automation-teams/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_a819b93ed3634e60821dd1e9d4a7c4a5~mv2.jpg
 imageAlt: Konecranes ve TBA Depo Yönetimi ve Otomasyon Ekiplerini Birleştiriyor

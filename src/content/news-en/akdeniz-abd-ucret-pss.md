@@ -2,6 +2,7 @@
 title: New Peak Season Surcharge from Mediterranean to U.S. East Coast and Gulf
 subtitle: New Peak Season Surcharge from Mediterranean to U.S. East Coast and Gulf
 date: '2025-01-03T09:00:00Z'
+sourceUrl: https://container-news.com/cma-cgm-announces-pss-from-med-to-us-east-coast-and-us-gulf/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_ee45ed0890814463acb23306e3e4886a~mv2.jpg
 imageAlt: New Peak Season Surcharge from Mediterranean to U.S. East Coast and Gulf

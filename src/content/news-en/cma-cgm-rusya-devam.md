@@ -2,6 +2,7 @@
 title: CMA CGM Resumes Limited Commercial Operations in Russia
 subtitle: CMA CGM Resumes Limited Commercial Operations in Russia
 date: '2025-11-23T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384872/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b89d0da026c44b59ae1a68634893d5a1~mv2.jpg
 imageAlt: CMA CGM's resumption of food and consumer goods transportation to Russia in compliance with sanctions regulations and a comprehensive overview of the operational, legal and sectoral implications of this process.

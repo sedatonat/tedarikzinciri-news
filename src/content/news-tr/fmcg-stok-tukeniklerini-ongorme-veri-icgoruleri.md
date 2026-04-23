@@ -2,6 +2,7 @@
 title: 'FMCG Sektöründe Stok Tükeniklerini Öngörme: Veriye Dayalı İçgörülerle Direnci Artırma'
 subtitle: 'FMCG Sektöründe Stok Tükeniklerini Öngörme: Veriye Dayalı İçgörülerle Direnci Artırma'
 date: '2024-04-03T09:00:00Z'
+sourceUrl: https://www.scmr.com/article/predicting-stockouts-enhancing-fmcg-resilience-through-data-driven-insights
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_8779abf50acf48e0885ec76e646a7fad~mv2.jpg
 imageAlt: 'FMCG Sektöründe Stok Tükeniklerini Öngörme: Veriye Dayalı İçgörülerle Direnci Artırma'

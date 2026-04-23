@@ -2,6 +2,7 @@
 title: İngiltere ve ABD İlaç Tarifelerini Sıfırda Tutmak İçin Yeni Anlaşmaya Vardı
 subtitle: İngiltere ve ABD İlaç Tarifelerini Sıfırda Tutmak İçin Yeni Anlaşmaya Vardı
 date: '2025-12-01T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42917-uk-agrees-to-deal-with-us-to-avoid-drug-tariffs
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_18edea7aedd44f54a597d297993f1bd6~mv2.jpg
 imageAlt: ABD–İngiltere arasında imzalanan ve ilaç tarifelerini sıfırda tutan anlaşmanın, NHS’in ilaç harcamalarını artırma taahhütleri, Trump yönetiminin baskıları ve iki ülke arasındaki ticari etkileri üzerine detaylı haber özeti

@@ -2,6 +2,7 @@
 title: Geopolitics Is Redrawing Global Maritime Trade Routes
 subtitle: Geopolitics Is Redrawing Global Maritime Trade Routes
 date: '2025-10-23T09:00:00Z'
+sourceUrl: https://splash247.com/how-geopolitics-is-redrawing-the-worlds-shipping-routes/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c7bd84f0271542c8bae816de963e6108~mv2.jpg
 imageAlt: Geopolitics Is Redrawing Global Maritime Trade Routes

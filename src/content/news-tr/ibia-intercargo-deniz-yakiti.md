@@ -2,6 +2,7 @@
 title: IBIA ve INTERCARGO, Deniz Yakıtları Alanında İş Birliğini Güçlendirdi
 subtitle: IBIA ve INTERCARGO, Deniz Yakıtları Alanında İş Birliğini Güçlendirdi
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/ibia-intercargo-strengthen-partnership-on-marine-fuels/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_759eaa7eaa3949a7a31c560ece2616f7~mv2.jpg
 imageAlt: Uluslararası Bunker Endüstrisi Birliği (IBIA) ile Uluslararası Kuru Dökme Yük Armatörleri Birliği (INTERCARGO), yakıt kalitesi, güvenlik ve karbonsuzlaşma konularında daha yakın iş birliği sağlamak amacıyla karşılıklı üyelik anlaşması imzaladı. Bu adım, deniz yakıtı tedarik zinciriyle armatörler arasındaki diyaloğu güçlendirmeyi hedefliyor.

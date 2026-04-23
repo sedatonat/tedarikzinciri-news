@@ -2,6 +2,7 @@
 title: Ulaşım Yönetiminin Geleceği
 subtitle: Ulaşım Yönetiminin Geleceği
 date: '2025-07-15T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42099-the-future-of-transportation-management-navigating-the-next-era-of-supply-chains
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_70bb056084b442be86a3f8fbce151491~mv2.png
 imageAlt: 'Ulaşım Yönetiminin Geleceği: Yeni Dönemi Yönetmek'

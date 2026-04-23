@@ -2,6 +2,7 @@
 title: Optimism and Technology Investment Rise in Global Container Shipping in 2024
 subtitle: Optimism and Technology Investment Rise in Global Container Shipping in 2024
 date: '2024-01-01T09:00:00Z'
+sourceUrl: https://www.scmr.com/article/global-container-shipping-industry-sets-sights-on-tech-investment-capacity
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_454603779ee64e489325aefd5066402d~mv2.jpg
 imageAlt: Optimism and Technology Investment Rise in Global Container Shipping in 2024

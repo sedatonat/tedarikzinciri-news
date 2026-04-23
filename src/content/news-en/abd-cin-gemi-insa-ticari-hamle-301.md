@@ -2,6 +2,7 @@
 title: U.S. Files Trade Challenge Against China's Shipbuilding Dominance
 subtitle: U.S. Files Trade Challenge Against China's Shipbuilding Dominance
 date: '2024-03-12T09:00:00Z'
+sourceUrl: https://gcaptain.com/us-labor-unions-call-for-investigation-into-chinas-unfair-shipbuilding-practices/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7a6b4cf9de79432fb9933d44dca4f086~mv2.jpeg
 imageAlt: U.S. Files Trade Challenge Against China's Shipbuilding Dominance

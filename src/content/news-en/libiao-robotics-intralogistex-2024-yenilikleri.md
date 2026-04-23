@@ -2,6 +2,7 @@
 title: LiBiao Robotics' Innovative Parcel Sorting Solutions at 2024 IntraLogisteX
 subtitle: LiBiao Robotics' Innovative Parcel Sorting Solutions at 2024 IntraLogisteX
 date: '2024-03-19T09:00:00Z'
+sourceUrl: https://www.warehousinglogisticsinternational.com/discover-libiaos-robot-based-sorting-solutions-at-intralogistex/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_5fce73bc8d644d01978090647fe98acc~mv2.jpg
 imageAlt: LiBiao Robotics' Innovative Parcel Sorting Solutions at 2024 IntraLogisteX

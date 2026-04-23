@@ -2,6 +2,7 @@
 title: 'ABD Uzun Menzilli Drone Kurallarını Gevşetiyor: Walmart Ve Alphabet İçin İvme'
 subtitle: 'ABD Uzun Menzilli Drone Kurallarını Gevşetiyor: Walmart Ve Alphabet İçin İvme'
 date: '2025-08-06T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42278-us-to-ease-long-range-drone-rules-in-boon-for-walmart-alphabet
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3000e0d0c5ee4b91a93d335ce94357d1~mv2.png
 imageAlt: 'Abd Uzun Menzilli Drone Kurallarını Gevşetiyor: Walmart Ve Alphabet İçin İvme'

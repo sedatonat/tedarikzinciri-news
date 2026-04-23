@@ -2,6 +2,7 @@
 title: DHL 4 Yeni Akıllı Depo Açacak
 subtitle: DHL 4 Yeni Akıllı Depo Açacak
 date: '2023-11-21T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/DHL-Supply-Chain-AutoStore-warehouses-reinforces-robotics-and-automation-strategy/699805/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_5036cd849efe493b927d3ef51944cb88~mv2.jpg
 imageAlt: DHL 4 Yeni Akıllı Depo Açacak

@@ -2,6 +2,7 @@
 title: Airbus A320 Fleet Faces Urgent Safety Directive with Global Flight Disruptions
 subtitle: Airbus A320 Fleet Faces Urgent Safety Directive with Global Flight Disruptions
 date: '2025-11-30T09:00:00Z'
+sourceUrl: https://container-news.com/airbus-issues-urgent-a320-family-safety-directive/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_16898683f19f4e3682183ded3249fb1f~mv2.png
 imageAlt: Global airline operations affected by emergency software and hardware updates issued by Airbus to address radiation-induced data corruption risk detected in A320 aircraft flight control systems

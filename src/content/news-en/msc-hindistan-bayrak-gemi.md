@@ -2,6 +2,7 @@
 title: MSC to Reflag 12 Container Ships Under Indian Flag, Supporting Nation's Maritime Goals
 subtitle: MSC to Reflag 12 Container Ships Under Indian Flag, Supporting Nation's Maritime Goals
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.joc.com/article/msc-agrees-to-reflag-12-container-ships-in-india-in-diversification-push-6108526
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_937441646a66494aa4ecb24a88905ba1~mv2.jpeg
 imageAlt: Mediterranean Shipping Co. (MSC), the world's largest container carrier, has decided to reflag 12 container ships under the Indian flag. This move strengthens the company's long-term support for India's maritime and trade infrastructure by expanding its investments in ports and land logistics.

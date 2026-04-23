@@ -2,6 +2,7 @@
 title: Maersk, Miami'de Stratejik Hava Kargo Kapısı Açtı
 subtitle: Maersk, Miami'de Stratejik Hava Kargo Kapısı Açtı
 date: '2024-05-10T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/maersk-launches-air-freight-gateway-in-miami/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0c052d7b281845a28dfbd960a20f6a3e~mv2.jpg
 imageAlt: Maersk, Miami'de Stratejik Hava Kargo Kapısı Açtı

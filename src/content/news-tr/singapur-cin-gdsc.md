@@ -2,6 +2,7 @@
 title: Singapur ve Çin, Yeşil ve Dijital Denizcilik Koridoru Anlaşması İmzaladı
 subtitle: Singapur ve Çin, Yeşil ve Dijital Denizcilik Koridoru Anlaşması İmzaladı
 date: '2025-10-26T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/383739/
 category: Lojistik
 image: https://static.wixstatic.com/media/793277055bb04056b376713b6ae752ee.jpg
 imageAlt: Singapur ve Çin, deniz taşımacılığında karbonsuzlaşma ve dijital dönüşüm hedefleri doğrultusunda Green and Digital Shipping Corridor (GDSC) adlı ortak bir girişim başlatmak için Mutabakat Zaptı (MoU) imzaladı. Anlaşma, iki ülkenin denizcilikte sürdürülebilirlik ve verimlilik odaklı iş birliğini ulusal düzeye taşıyor.

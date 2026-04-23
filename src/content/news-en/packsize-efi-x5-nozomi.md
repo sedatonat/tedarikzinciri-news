@@ -2,6 +2,7 @@
 title: Packsize and EFI Introduce Integrated Box Manufacturing and Printing System
 subtitle: Packsize and EFI Introduce Integrated Box Manufacturing and Printing System
 date: '2025-10-02T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42609-packsize-efi-debut-combined-packaging-and-printing-system
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_21ca60f9bdf04b5a8946aee1f2bc771a~mv2.jpg
 imageAlt: Packsize and EFI Introduce Integrated Box Manufacturing and Printing System

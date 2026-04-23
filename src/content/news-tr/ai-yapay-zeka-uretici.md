@@ -2,6 +2,7 @@
 title: Üreticilerde Tedarik Zinciri Yönetiminde Yapay Zekâ Kullanımı
 subtitle: Üreticilerde Tedarik Zinciri Yönetiminde Yapay Zekâ Kullanımı
 date: '2025-04-30T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41662-manufacturers-supply-chain-management-popular-use-for-ai
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_555f7a8151cf4212a23f57dda7907e49~mv2.png
 imageAlt: Üreticilerde Tedarik Zinciri Yönetiminde Yapay Zekâ Kullanımı

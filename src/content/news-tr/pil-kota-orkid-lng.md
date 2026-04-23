@@ -2,6 +2,7 @@
 title: PIL, Dördüncü LNG Çift Yakıtlı “O” Sınıfı Gemisi Kota Orkid’i Hizmete Aldı
 subtitle: PIL, Dördüncü LNG Çift Yakıtlı “O” Sınıfı Gemisi Kota Orkid’i Hizmete Aldı
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/pil-names-fourth-lng-dual-fuel-o-class-vessel/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_9a594132ebc341eb9ad87c9b490354ec~mv2.jpg
 imageAlt: Pacific International Lines (PIL), 8.200 TEU kapasiteli LNG çift yakıtlı “O” sınıfı gemi serisinin dördüncüsü Kota Orkid’i Çin’in Jiangsu bölgesindeki Yangzijiang Tersanesi’nde düzenlenen törenle denize indirdi. Yeni gemi, Asya–Batı Afrika hattında hizmet verecek.

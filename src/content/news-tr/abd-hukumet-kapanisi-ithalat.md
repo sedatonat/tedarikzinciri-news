@@ -2,6 +2,7 @@
 title: 'ABD Hükümet Kapanması İthalat Kararlarını Zora Sokuyor: Los Angeles Limanı Uyardı'
 subtitle: 'ABD Hükümet Kapanması İthalat Kararlarını Zora Sokuyor: Los Angeles Limanı Uyardı'
 date: '2025-11-24T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/port-los-angeles-us-importers-purchase-orders-lunar-new-year/806094/
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_bd49e0f7d76740bda56b19f73cc0f79e~mv2.jpg
 imageAlt: ABD’de federal veri akışının durması nedeniyle ithalatçıların satın alma ve yatırım kararlarında yaşanan belirsizlik, Los Angeles Limanı’nın beklentileri ve Lunar New Year öncesi yük hareketliliğine dair kapsamlı haber özeti

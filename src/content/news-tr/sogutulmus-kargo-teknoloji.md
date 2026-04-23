@@ -2,6 +2,7 @@
 title: Soğutulmuş Kargo İçin Yeni Görünürlük Teknolojisi
 subtitle: Soğutulmuş Kargo İçin Yeni Görünürlük Teknolojisi
 date: '2025-02-03T09:00:00Z'
+sourceUrl: https://www.joc.com/article/msc-launches-new-visibility-technology-for-refrigerated-cargo-5935929
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_fec7ee73793049cc9a4ebdd30a9539ab~mv2.jpg
 imageAlt: Soğutulmuş Kargo İçin Yeni Görünürlük Teknolojisi

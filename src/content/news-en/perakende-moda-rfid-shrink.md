@@ -2,6 +2,7 @@
 title: Fashion Retail Tackles Rising "Shrink" Problem with RFID Technology
 subtitle: Fashion Retail Tackles Rising "Shrink" Problem with RFID Technology
 date: '2025-11-24T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42884-fighting-retail-fashion-shrink-with-rfid-technology
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_f40b5b84c889409fbe0921e5b234b5e2~mv2.jpg
 imageAlt: A comprehensive overview of the rapidly growing causes of shrink losses in fashion retail, visibility gaps across the supply chain, and the role RFID technology plays in improving inventory accuracy and combating theft

@@ -2,6 +2,7 @@
 title: India's Largest Company Reliance Halts Russian Oil Imports
 subtitle: India's Largest Company Reliance Halts Russian Oil Imports
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42886-major-indian-business-ceases-russian-oil-imports
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_aa35f69770de4d639c0e91267f0815ca~mv2.jpg
 imageAlt: Reliance Industries has ceased purchasing Russian crude oil due to EU restrictions on Russian oil taking effect in 2026 and US sanctions on Rosneft–Lukoil. This decision is viewed as a critical turning point in US–India trade relations and global oil flows.

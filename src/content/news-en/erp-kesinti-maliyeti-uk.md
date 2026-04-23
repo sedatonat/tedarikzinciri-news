@@ -2,6 +2,7 @@
 title: ERP Downtime Could Cost UK E-Commerce Firms More Than £26,000 a Day
 subtitle: ERP Downtime Could Cost UK E-Commerce Firms More Than £26,000 a Day
 date: '2025-03-07T09:00:00Z'
+sourceUrl: https://www.warehousinglogisticsinternational.com/erp-downtime-could-cost-uk-ecommerce-firms-more-than-26000-a-day/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_3b333e4b4be748f898ce4229ff8394b2~mv2.jpg
 imageAlt: ERP Downtime Could Cost UK E-Commerce Firms More Than £26,000 a Day

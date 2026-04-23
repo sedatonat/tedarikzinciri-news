@@ -2,6 +2,7 @@
 title: Liebherr, Mississippi'de Lojistik Merkezi İnşa Ediyor
 subtitle: Liebherr, Mississippi'de Lojistik Merkezi İnşa Ediyor
 date: '2024-07-23T09:00:00Z'
+sourceUrl: https://chatgpt.com/c/5cdd72d3-95d0-4e97-87d1-7f430533d080
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_ca7002cd6660466aa37e4bd1276fc2b5~mv2.jpg
 imageAlt: Liebherr, Mississippi'de Lojistik Merkezi İnşa Ediyor

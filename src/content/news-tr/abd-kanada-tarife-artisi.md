@@ -2,6 +2,7 @@
 title: Trump, Kanada’dan İthal Ürünlere %10 Ek Gümrük Vergisi Getirmeye Hazırlanıyor
 subtitle: Trump, Kanada’dan İthal Ürünlere %10 Ek Gümrük Vergisi Getirmeye Hazırlanıyor
 date: '2025-10-25T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/trump-raises-canada-tariffs-10-percent/803811/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_bace6252b58f4ed6a3fcd72df4d5d779~mv2.jpg
 imageAlt: ABD Başkanı Donald Trump, Kanada ile yürütülen ticaret görüşmelerinin askıya alınmasının ardından ithal ürünlere %10 oranında ek gümrük vergisi uygulamayı planladığını duyurdu. Gerginlik, Ontario hükümetinin Ronald Reagan’ın 1987 tarihli konuşmasından alınan kesitlerle hazırladığı anti-tarife reklam kampanyası sonrasında tırmandı.

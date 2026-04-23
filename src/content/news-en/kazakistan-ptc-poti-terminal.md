@@ -2,6 +2,7 @@
 title: Kazakhstan and PTC Holding Build New Container Terminal at Georgia's Poti Port
 subtitle: Kazakhstan and PTC Holding Build New Container Terminal at Georgia's Poti Port
 date: '2025-03-07T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/03/07/en-kazakhstan-to-develop-poti-port-in-georgia/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0dcf4514e5ee4eecacd61c479826703c~mv2.jpg
 imageAlt: Kazakhstan and PTC Holding Build New Container Terminal at Georgia's Poti Port

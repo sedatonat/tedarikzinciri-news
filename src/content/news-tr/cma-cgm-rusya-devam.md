@@ -2,6 +2,7 @@
 title: CMA CGM Rusya’da Ticari Faaliyetlerini Sınırlı Kapsamda Yeniden Başlattı
 subtitle: CMA CGM Rusya’da Ticari Faaliyetlerini Sınırlı Kapsamda Yeniden Başlattı
 date: '2025-11-23T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384872/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b89d0da026c44b59ae1a68634893d5a1~mv2.jpg
 imageAlt: CMA CGM’nin yaptırım kurallarına uyumlu şekilde Rusya’ya gıda ve tüketim ürünleri taşımacılığını yeniden başlatması ve bu sürecin operasyonel, hukuki ve sektörel etkilerine dair kapsamlı özet.

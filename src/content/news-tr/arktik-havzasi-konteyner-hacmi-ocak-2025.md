@@ -2,6 +2,7 @@
 title: Arktik Havzası Konteyner Hacmi Ocak 2025'te %10,9 Arttı
 subtitle: Arktik Havzası Konteyner Hacmi Ocak 2025'te %10,9 Arttı
 date: '2025-03-05T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/03/05/ru-kontejnerooborot-arkticheskogo-bassejna-v-janvare-2025-vyros-na-10-9/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_66202202dc4d49b0913d2796c08936fb~mv2.jpg
 imageAlt: Arktik Havzası Konteyner Hacmi Ocak 2025'te %10,9 Arttı

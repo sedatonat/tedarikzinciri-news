@@ -2,6 +2,7 @@
 title: 'Netstock''s 2024 Inventory Management Report: Critical Findings for SMEs'
 subtitle: 'Netstock''s 2024 Inventory Management Report: Critical Findings for SMEs'
 date: '2024-10-01T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40359-2024-inventory-management-benchmark-report
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_cfda771b8a2f41c4a3fcdbbf3af7af46~mv2.png
 imageAlt: 'Netstock''s 2024 Inventory Management Report: Critical Findings for SMEs'

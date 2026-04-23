@@ -2,6 +2,7 @@
 title: 'ABD Palet Piyasasında İyileşme Sinyalleri: İlk Çeyrek Anket Sonuçları'
 subtitle: 'ABD Palet Piyasasında İyileşme Sinyalleri: İlk Çeyrek Anket Sonuçları'
 date: '2024-05-29T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10328-survey-pallet-market-is-beginning-a-gradual-recovery
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_ba5fdbbf88f94607b59bab8d244e28c3~mv2.png
 imageAlt: 'ABD Palet Piyasasında İyileşme Sinyalleri: İlk Çeyrek Anket Sonuçları'

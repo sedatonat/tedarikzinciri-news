@@ -2,6 +2,7 @@
 title: Hapag-Lloyd's Bid for ZIM Seen as Facing Political and Security Obstacles
 subtitle: Hapag-Lloyd's Bid for ZIM Seen as Facing Political and Security Obstacles
 date: '2025-12-04T09:00:00Z'
+sourceUrl: https://www.joc.com/article/hapag-lloyd-buyout-offer-for-zim-unlikely-to-get-far-report-6128796
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1d6b7e365f514c9381698fc7582f5ee1~mv2.jpg
 imageAlt: Detailed analysis of why Hapag-Lloyd's acquisition offer for ZIM has low success prospects due to Israel's state "special state share" authority, Qatar–Saudi investor structure, and ZIM employees' national security objections

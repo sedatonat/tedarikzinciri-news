@@ -2,6 +2,7 @@
 title: Iberian Peninsula Power Outage
 subtitle: Iberian Peninsula Power Outage
 date: '2025-04-28T09:00:00Z'
+sourceUrl: https://en.wikipedia.org/wiki/2025_Iberian_Peninsula_blackout
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_f476b83cb8634c908d306cf03128baef~mv2.jpg
 imageAlt: Iberian Peninsula Power Outage

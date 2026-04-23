@@ -2,6 +2,7 @@
 title: 'Trump-Era Tariffs: Current Status of Global Trade Moves'
 subtitle: 'Trump-Era Tariffs: Current Status of Global Trade Moves'
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/trump-tariffs-status-canada-mexico-china-eu/743577/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_86db15e1a5ad491c84aee89cc6d26b2b~mv2.jpg
 imageAlt: The Trump administration has launched numerous reciprocal tariffs and reviews throughout 2025; country-specific rates take effect from August 7th, while agreements and framework accords with the EU, Japan, and South Korea have been announced; a ceasefire signal emerged with China at the end of October.

@@ -2,6 +2,7 @@
 title: 'Depo Yönetiminde Oyunlaştırma: Çalışan Bağlılığı ve Üretkenliği Artırmanın Yeni Yolu'
 subtitle: 'Depo Yönetiminde Oyunlaştırma: Çalışan Bağlılığı ve Üretkenliği Artırmanın Yeni Yolu'
 date: '2024-02-16T09:00:00Z'
+sourceUrl: https://www.scmr.com/article/warehouse-workers-embracing-gamification
 category: Envanter
 image: https://static.wixstatic.com/media/11062b_ea86441d3460487bae226e163fbccd7c~mv2.jpg
 imageAlt: 'Depo Yönetiminde Oyunlaştırma: Çalışan Bağlılığı ve Üretkenliği Artırmanın Yeni Yolu'

@@ -2,6 +2,7 @@
 title: 'Shift to Regional Supply Chains: A Resilient Approach to Global Disruptions'
 subtitle: 'Shift to Regional Supply Chains: A Resilient Approach to Global Disruptions'
 date: '2024-05-14T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/39578-outpacing-disruption-by-regionalizing-supply-chains
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_c08d1cee8bd440739d6adae6422cb1aa~mv2.jpg
 imageAlt: 'Shift to Regional Supply Chains: A Resilient Approach to Global Disruptions'

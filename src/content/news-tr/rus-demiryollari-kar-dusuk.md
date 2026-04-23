@@ -2,6 +2,7 @@
 title: Rus Demiryolları'nın Net Kârı Beklenenden %90 Daha Düşük
 subtitle: Rus Demiryolları'nın Net Kârı Beklenenden %90 Daha Düşük
 date: '2024-12-23T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2024/12/23/russian-railways-net-profit-90-per-cent-lower-than-projected/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_80ac8cac983446d888225e5b6202789b~mv2.jpeg
 imageAlt: Rus Demiryolları'nın Net Kârı Beklenenden %90 Daha Düşük

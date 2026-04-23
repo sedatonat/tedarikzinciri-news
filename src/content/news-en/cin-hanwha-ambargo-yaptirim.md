@@ -2,6 +2,7 @@
 title: China Sanctions Hanwha's U.S.-Linked Subsidiaries Amid Rising Trade Tensions
 subtitle: China Sanctions Hanwha's U.S.-Linked Subsidiaries Amid Rising Trade Tensions
 date: '2025-10-16T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/china-sanctions-hanwha-units-amid-rising-trade-tensions/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_faf3a8d7a2cd46d58dc2e117679597fa~mv2.jpg
 imageAlt: China Implements Sanctions Against Hanwha's U.S.-Linked Subsidiaries Amid Rising Trade Tensions

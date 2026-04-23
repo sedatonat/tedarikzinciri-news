@@ -2,6 +2,7 @@
 title: Uber Freight ve Better Trucks, Son Mil Kapasitesini ve Teknolojisini Genişletmek İçin Güçlerini Birleştirdi
 subtitle: Uber Freight ve Better Trucks, Son Mil Kapasitesini ve Teknolojisini Genişletmek İçin Güçlerini Birleştirdi
 date: '2025-11-13T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/uber-freight-better-trucks-investment-stake-partnership/805331/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_b80cc07072854722ad97d231343c2917~mv2.jpg
 imageAlt: Uber Freight, Better Trucks’a azınlık hissedar olarak yatırım yaparak iki şirketin karşılıklı teslimat hacmi paylaşımı, ortak teknoloji kullanımı ve ABD’nin %85’ine kadar ulaşan son mil kapsaması hedeflerini destekleyen genişletilmiş bir ortaklık kurdu.

@@ -2,6 +2,7 @@
 title: Red Sea Attacks Redirect Maritime Trade to Cape of Good Hope
 subtitle: Red Sea Attacks Redirect Maritime Trade to Cape of Good Hope
 date: '2024-05-28T09:00:00Z'
+sourceUrl: https://www.lojiport.com/gemi-trafigi-suveyste-dip-umit-burnunda-tavan-yapti-116563h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c74ff5d762db4840b25e9fdf55c40569~mv2.jpg
 imageAlt: Red Sea Attacks Redirect Maritime Trade to Cape of Good Hope

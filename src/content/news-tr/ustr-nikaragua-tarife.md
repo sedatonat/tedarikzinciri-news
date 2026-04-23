@@ -2,6 +2,7 @@
 title: ABD, İnsan Hakları Gerekçesiyle Nikaragua’ya %15 Ek Gümrük Vergisi Getiriyor
 subtitle: ABD, İnsan Hakları Gerekçesiyle Nikaragua’ya %15 Ek Gümrük Vergisi Getiriyor
 date: '2025-12-11T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42986-ustr-announces-15-tariffs-against-nicaragua-over-human-rights-abuses
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_24bf6d44dab14e998a0ab023c4a588ad~mv2.jpg
 imageAlt: USTR’nin Section 301 soruşturması sonrası Nikaragua’ya uygulanacak kademeli %15 ek tarifeler, mevcut vergilerle birleşen yük, CAFTA-DR istisnaları ve ABD–Orta Amerika tedarik zincirine etkilerin detaylı özeti

@@ -2,6 +2,7 @@
 title: MSC, Hindistan’a 12 Konteyner Gemisini Yeniden Bayraklayarak Ülkenin Denizcilik Hedeflerini Destekleyecek
 subtitle: MSC, Hindistan’a 12 Konteyner Gemisini Yeniden Bayraklayarak Ülkenin Denizcilik Hedeflerini Destekleyecek
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.joc.com/article/msc-agrees-to-reflag-12-container-ships-in-india-in-diversification-push-6108526
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_937441646a66494aa4ecb24a88905ba1~mv2.jpeg
 imageAlt: Mediterranean Shipping Co. (MSC), Hindistan bayrağı altında 12 konteyner gemisini yeniden tescil etme (reflagging) kararı aldı. Bu adım, şirketin liman ve kara lojistiği yatırımlarını genişleterek Hindistan’ın denizcilik ve ticaret altyapısına uzun vadeli desteğini güçlendiriyor.

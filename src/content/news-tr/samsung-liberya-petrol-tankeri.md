@@ -2,6 +2,7 @@
 title: Samsung Heavy Industries, Liberyalı Armatörle 341,1 Milyar Wonluk Petrol Tankeri Sözleşmesi İmzaladı
 subtitle: Samsung Heavy Industries, Liberyalı Armatörle 341,1 Milyar Wonluk Petrol Tankeri Sözleşmesi İmzaladı
 date: '2025-10-24T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/383703/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_aea91a7dab3840d59bf576301411adab~mv2.jpeg
 imageAlt: Samsung Heavy Industries, Liberyalı Armatörle 341,1 Milyar Wonluk Petrol Tankeri Sözleşmesi İmzaladı

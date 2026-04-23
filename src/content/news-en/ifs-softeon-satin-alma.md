@@ -2,6 +2,7 @@
 title: IFS Makes Strategic Industrial AI Push in Warehouse Software with Softeon Acquisition
 subtitle: IFS Makes Strategic Industrial AI Push in Warehouse Software with Softeon Acquisition
 date: '2025-12-17T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/ifs_to_acquire_warehouse_management_software_provider_softeon
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_eabf006f2738451a9d5f4e56d34f28b6~mv2.jpg
 imageAlt: IFS has agreed to acquire Softeon, which provides cloud-based WMS, WES, and DOM solutions; the move aims to unite Industrial AI, robotic integration, and intelligent warehouse operations on a single platform.

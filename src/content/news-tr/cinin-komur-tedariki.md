@@ -2,6 +2,7 @@
 title: Çin'in Kömür Tedariğinde Moğolistan'ın Artan Rolü
 subtitle: Çin'in Kömür Tedariğinde Moğolistan'ın Artan Rolü
 date: '2025-01-21T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/372582/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_6cb973cc0f6e4e4ea5493ab124a722a3~mv2.jpg
 imageAlt: Çin'in Kömür Tedarikinde Moğolistan'ın Artan Rolü

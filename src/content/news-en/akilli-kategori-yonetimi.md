@@ -2,6 +2,7 @@
 title: Five Key Challenges in Intelligent Category Management and Direct Materials
 subtitle: Five Key Challenges in Intelligent Category Management and Direct Materials
 date: '2025-03-11T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41318-five-key-challenges-of-intelligent-category-management-and-direct-materials
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_4ac5c7f94dae47428cab67911e864593~mv2.png
 imageAlt: Five Key Challenges in Intelligent Category Management and Direct Materials

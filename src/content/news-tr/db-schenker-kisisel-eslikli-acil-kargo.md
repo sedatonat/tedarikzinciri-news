@@ -2,6 +2,7 @@
 title: DB Schenker'dan Kişisel Eşlikli Acil Hava Kargo Hizmeti
 subtitle: DB Schenker'dan Kişisel Eşlikli Acil Hava Kargo Hizmeti
 date: '2024-03-28T09:00:00Z'
+sourceUrl: https://www.dbschenker.com/global/insights/news-and-stories/press-releases/fasten-the-seatbelt-db-schenker-launches-onboard-courier-service-1710282
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_08c128d6234044b8a9a37e75ac999cce~mv2.jpg
 imageAlt: DB Schenker'dan Kişisel Eşlikli Acil Hava Kargo Hizmeti

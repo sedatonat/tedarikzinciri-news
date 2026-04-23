@@ -2,6 +2,7 @@
 title: Biden Yönetimi "Tedarik Zinciri Destek Politikaları" Paketini açıkladı
 subtitle: Biden Yönetimi "Tedarik Zinciri Destek Politikaları" Paketini açıkladı
 date: '2023-11-27T09:00:00Z'
+sourceUrl: https://www.supplychainquarterly.com/articles/9181-biden-administration-unwraps-package-of-supply-chain-support-policies
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_9d70a21285e342f2b29fa15adb385700~mv2.jpg
 imageAlt: Biden Yönetimi "Tedarik Zinciri Destek Politikaları" Paketini açıkladı

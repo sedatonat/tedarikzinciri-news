@@ -2,6 +2,7 @@
 title: 'Maersk ve CMA CGM Aralık Ayında Süveyş’e Tam Kapasite Dönüyor: Yeni Ortaklık Anlaşması Süreci Hızlandırıyor'
 subtitle: 'Maersk ve CMA CGM Aralık Ayında Süveyş’e Tam Kapasite Dönüyor: Yeni Ortaklık Anlaşması Süreci Hızlandırıyor'
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384992/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_68248f4aecb44ec5a8dc230c659f5519~mv2.jpg
 imageAlt: Süveyş Kanalı İdaresi ile Maersk arasında imzalanan stratejik ortaklık anlaşmasının ardından Maersk ve CMA CGM gemilerinin Aralık ayında Süveyş Kanalı transitlerine tam kapasite dönmesi.

@@ -2,6 +2,7 @@
 title: 'Red Sea Danger: Yemen''s Houthis to Monitor Ceasefire, but Ships Remain at Risk'
 subtitle: 'Red Sea Danger: Yemen''s Houthis to Monitor Ceasefire, but Ships Remain at Risk'
 date: '2025-01-16T09:00:00Z'
+sourceUrl: https://gcaptain.com/red-sea-roulette-yemens-houthis-to-monitor-ceasefire-but-ships-remain-at-risk/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7db01c48f6354fb196352adef628e1dc~mv2.jpg
 imageAlt: 'Red Sea Danger: Yemen''s Houthis to Monitor Ceasefire, but Ships Remain at Risk'

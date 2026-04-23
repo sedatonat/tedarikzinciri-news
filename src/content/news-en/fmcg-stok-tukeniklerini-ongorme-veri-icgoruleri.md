@@ -2,6 +2,7 @@
 title: 'Predicting Stockouts in FMCG: Enhancing Resilience Through Data-Driven Insights'
 subtitle: 'Predicting Stockouts in FMCG: Enhancing Resilience Through Data-Driven Insights'
 date: '2024-04-03T09:00:00Z'
+sourceUrl: https://www.scmr.com/article/predicting-stockouts-enhancing-fmcg-resilience-through-data-driven-insights
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_8779abf50acf48e0885ec76e646a7fad~mv2.jpg
 imageAlt: 'Predicting Stockouts in FMCG: Enhancing Resilience Through Data-Driven Insights'

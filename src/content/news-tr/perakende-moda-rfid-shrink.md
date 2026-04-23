@@ -2,6 +2,7 @@
 title: Moda Perakendesi, Artan “Shrink” Sorununa RFID Teknolojisiyle Karşılık Veriyor
 subtitle: Moda Perakendesi, Artan “Shrink” Sorununa RFID Teknolojisiyle Karşılık Veriyor
 date: '2025-11-24T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42884-fighting-retail-fashion-shrink-with-rfid-technology
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_f40b5b84c889409fbe0921e5b234b5e2~mv2.jpg
 imageAlt: Moda perakendecilerinde hızla büyüyen shrink kayıplarının nedenleri, tedarik zinciri boyunca artan görünürlük sorunları ve RFID teknolojisinin envanter doğruluğu ile hırsızlıkla mücadelede oynadığı rolün detaylı özeti

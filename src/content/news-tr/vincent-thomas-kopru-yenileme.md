@@ -2,6 +2,7 @@
 title: Los Angeles Limanı’ndaki Vincent Thomas Köprüsü Yenileme Projesi 2026 Başında Başlıyor
 subtitle: Los Angeles Limanı’ndaki Vincent Thomas Köprüsü Yenileme Projesi 2026 Başında Başlıyor
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://www.joc.com/article/redecking-project-on-los-angeles-harbor-bridge-to-begin-in-early-2026-6105309
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_200bd6e421d745d8a83f62498033fb79~mv2.jpg
 imageAlt: Vincent Thomas Köprüsü, Los Angeles Limanı’nın girişinde günde 53.000 araç (3.400 ağır vasıta dahil) taşıyor. Kaliforniya Ulaştırma Ajansı (CalSTA), 63 yıllık köprüde yeniden döşeme (redecking) çalışmalarının 2026 başında başlayacağını duyurdu.

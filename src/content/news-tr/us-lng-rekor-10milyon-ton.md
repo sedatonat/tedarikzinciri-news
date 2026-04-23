@@ -2,6 +2,7 @@
 title: ABD, Aylık 10 Milyon Ton LNG İhracatıyla Dünya Rekoru Kırdı
 subtitle: ABD, Aylık 10 Milyon Ton LNG İhracatıyla Dünya Rekoru Kırdı
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://gcaptain.com/u-s-becomes-first-country-to-export-10-million-tonnes-of-lng-in-single-month/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_b95e431cef7648f79082d32b9c8b517d~mv2.jpg
 wixId: 3ac92748-d614-4218-8661-7536cbabe693

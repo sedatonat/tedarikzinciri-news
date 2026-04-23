@@ -2,6 +2,7 @@
 title: Container Vessels Collide in Hong Kong
 subtitle: Container Vessels Collide in Hong Kong
 date: '2025-03-04T09:00:00Z'
+sourceUrl: https://container-news.com/one-vessel-scrapes-maersk-boxship-in-hong-kong/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c77a9e774ae0406a88ce562af51ec469~mv2.jpg
 imageAlt: Container Vessels Collide in Hong Kong

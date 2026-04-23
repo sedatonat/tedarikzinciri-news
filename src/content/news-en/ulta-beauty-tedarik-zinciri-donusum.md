@@ -2,6 +2,7 @@
 title: Ulta Beauty Makes Major Supply Chain Investment
 subtitle: Ulta Beauty Makes Major Supply Chain Investment
 date: '2024-11-12T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/ulta-beauty-micro-fulfillment-model-supply-chain-transformation-erik-lopez-csco/730845/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_016b24ee12824bf094220dbec75aca6e~mv2.jpg
 imageAlt: Ulta Beauty Makes Major Supply Chain Investment

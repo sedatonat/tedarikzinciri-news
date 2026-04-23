@@ -2,6 +2,7 @@
 title: Israel's Attacks on Palestine Put Suez Canal's Safety Under Threat
 subtitle: Israel's Attacks on Palestine Put Suez Canal's Safety Under Threat
 date: '2023-12-16T09:00:00Z'
+sourceUrl: https://www.supplychainquarterly.com/articles/9292-container-traffic-slows-at-suez-canal-after-red-sea-missile-attacks
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6d47efac409044528f3836eb4a5588da~mv2.jpg
 imageAlt: Israel's Attacks on Palestine Put Suez Canal's Safety Under Threat

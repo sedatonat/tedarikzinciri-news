@@ -2,6 +2,7 @@
 title: The Critical Role of Maritime Transportation in the U.S. Sustainable Transportation Future
 subtitle: The Critical Role of Maritime Transportation in the U.S. Sustainable Transportation Future
 date: '2024-12-26T09:00:00Z'
+sourceUrl: https://gcaptain.com/russias-first-domestically-built-lng-carrier-begins-sea-trials-poised-to-strengthen-arctic-shadow-fleet/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c57f724ff1a3422d82f02dae92a8b36d~mv2.jpg
 imageAlt: The Critical Role of Maritime Transportation in the U.S. Sustainable Transportation Future

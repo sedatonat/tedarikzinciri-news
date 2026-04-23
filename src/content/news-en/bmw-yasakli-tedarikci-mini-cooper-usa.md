@@ -2,6 +2,7 @@
 title: BMW Exports Mini Cooper to US Using Parts From Banned Supplier
 subtitle: BMW Exports Mini Cooper to US Using Parts From Banned Supplier
 date: '2024-05-23T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/bmw-imports-banned-supplier-senate-report/716930/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_e17764650e60469a918e15e8343bd611~mv2.jpg
 imageAlt: BMW Exports Mini Cooper to US Using Parts From Banned Supplier

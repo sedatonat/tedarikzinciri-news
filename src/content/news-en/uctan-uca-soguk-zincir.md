@@ -2,6 +2,7 @@
 title: 'End-to-End Monitoring: How the Cold Chain Keeps Its Cool'
 subtitle: 'End-to-End Monitoring: How the Cold Chain Keeps Its Cool'
 date: '2025-05-29T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41856-end-to-end-monitoring-how-the-cold-chain-keeps-its-cool
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_922d5ac3c827480fa7f103c92e4f3419~mv2.png
 imageAlt: 'End-to-End Monitoring: How the Cold Chain Keeps Its Cool'

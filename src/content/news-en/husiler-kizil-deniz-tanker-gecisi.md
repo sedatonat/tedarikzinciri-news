@@ -2,6 +2,7 @@
 title: Houthis Permit Tanker Passage But Uncertainty Persists
 subtitle: Houthis Permit Tanker Passage But Uncertainty Persists
 date: '2025-01-21T09:00:00Z'
+sourceUrl: https://container-news.com/houthis-permit-tanker-passage-through-red-sea-but-uncertainty-remains/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2f7fba74faab40eda0f1615193dc4f2d~mv2.jpg
 imageAlt: Houthis Permit Tanker Passage But Uncertainty Persists

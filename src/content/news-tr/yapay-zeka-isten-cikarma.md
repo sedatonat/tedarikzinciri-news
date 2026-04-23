@@ -2,6 +2,7 @@
 title: 'ABD’de İki Partili Tasarı: Şirketlere Yapay Zekâ Kaynaklı İşten Çıkarmaları Bildirme Zorunluluğu'
 subtitle: 'ABD’de İki Partili Tasarı: Şirketlere Yapay Zekâ Kaynaklı İşten Çıkarmaları Bildirme Zorunluluğu'
 date: '2025-11-18T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/bipartisan-bill-ai-related-layoffs-hawley-warner/805621/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_abb5e22af9984214811bddcb831431b6~mv2.jpg
 imageAlt: Senatörler Josh Hawley ve Mark Warner’ın sunduğu AI-Related Job Impacts Clarity Act, büyük ölçekli işverenlere ve federal kurumlara yapay zekâ kaynaklı işten çıkarmaları ABD Çalışma Bakanlığı’na bildirme zorunluluğu getiriyor; yasa ayrıca AI’nin iş gücü üzerindeki etkilerine ilişkin kamuya açık raporlama öngörüyor.

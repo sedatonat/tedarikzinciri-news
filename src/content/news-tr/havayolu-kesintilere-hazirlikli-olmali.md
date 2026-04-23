@@ -2,6 +2,7 @@
 title: 'ABD Kongresi Tavsiyesi: Havayolları Gelecek Kesintilere Karşı Hazırlıklı Olmalı'
 subtitle: 'ABD Kongresi Tavsiyesi: Havayolları Gelecek Kesintilere Karşı Hazırlıklı Olmalı'
 date: '2024-07-25T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10627-congress-says-airlines-should-be-prepared-for-future-disruptions
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3c77afa287de407e8342d86dd208c45d~mv2.jpeg
 imageAlt: 'ABD Kongresi Tavsiyesi: Havayolları Gelecek Kesintilere Karşı Hazırlıklı Olmalı'

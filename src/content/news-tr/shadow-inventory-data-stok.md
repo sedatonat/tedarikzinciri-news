@@ -2,6 +2,7 @@
 title: 'Gölge Envanter: Veri Silolarının Sakladığı Gerçekler'
 subtitle: 'Gölge Envanter: Veri Silolarının Sakladığı Gerçekler'
 date: '2025-08-26T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/42320-shadow-inventory-when-supply-chain-data-lives-in-silos
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_8dab9fd938414d57af5fa2c6049cade9~mv2.png
 imageAlt: 'Gölge Envanter: Veri Silolarının Sakladığı Gerçekler'

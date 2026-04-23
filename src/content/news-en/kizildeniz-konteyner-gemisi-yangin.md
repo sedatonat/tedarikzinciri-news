@@ -2,6 +2,7 @@
 title: 'Fire in the Red Sea: ASL Bauhinia Crew Evacuated'
 subtitle: 'Fire in the Red Sea: ASL Bauhinia Crew Evacuated'
 date: '2025-01-29T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/372883/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_78240bb589fa477caa9cfad90f7182bb~mv2.jpg
 imageAlt: 'Fire in the Red Sea: ASL Bauhinia Crew Evacuated'

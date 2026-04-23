@@ -2,6 +2,7 @@
 title: ABD’li Robotik Üreticisi, Maliyet Krizi Nedeniyle Üretim Reformu Çağrısı Yapıyor
 subtitle: ABD’li Robotik Üreticisi, Maliyet Krizi Nedeniyle Üretim Reformu Çağrısı Yapıyor
 date: '2025-12-02T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/standard-bots-ceo-urges-robotics-automation-reforms-cost-china-concerns/806544/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_b4edb3e255064d1a90a33d995ff44e21~mv2.jpg
 imageAlt: Standard Bots CEO’su Evan Beard’in ABD Kongresi’ndeki konuşmasında Çin’in ucuz robotlarının pazar tehditi, ABD’nin strateji eksikliği, maliyet dezavantajı ve üretim reformu önerilerine dair detaylı haber özeti

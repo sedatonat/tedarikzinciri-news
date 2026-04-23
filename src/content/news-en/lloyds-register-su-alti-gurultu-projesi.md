@@ -2,6 +2,7 @@
 title: Lloyd's Register Joins Underwater Noise Pollution Project
 subtitle: Lloyd's Register Joins Underwater Noise Pollution Project
 date: '2025-02-05T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/lr-joins-underwater-noise-pollution-project/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_009a2d0be54848929227acaa4ebc9b46~mv2.jpg
 imageAlt: Lloyd's Register Joins Underwater Noise Pollution Project

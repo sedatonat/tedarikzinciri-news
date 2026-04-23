@@ -2,6 +2,7 @@
 title: South Korean Mid-Sized Shipyards Enter US Navy MRO Market Under MASGA Program
 subtitle: South Korean Mid-Sized Shipyards Enter US Navy MRO Market Under MASGA Program
 date: '2025-11-27T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385068/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_80e7c90969d548bba214b22b87db3047~mv2.jpeg
 imageAlt: Process of South Korean mid-sized shipbuilding companies entering the US Navy maintenance-repair market under the MASGA framework, detailed summary of MSRA applications and strategic investments

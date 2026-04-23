@@ -2,6 +2,7 @@
 title: Yeni Trump Yönetiminde Dikkat Edilmesi Gereken 4 Üretim Sorunu
 subtitle: Yeni Trump Yönetiminde Dikkat Edilmesi Gereken 4 Üretim Sorunu
 date: '2024-11-12T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/donald-trump-manufacturing-issues-tariffs-taxes-energy-regulation/732650/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_15b96612048940c69910daabb2146803~mv2.png
 imageAlt: Yeni Trump Yönetiminde Dikkat Edilmesi Gereken 4 Üretim Sorunu

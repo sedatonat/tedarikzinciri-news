@@ -2,6 +2,7 @@
 title: Fatigue Cracks Found in Engine Mount of Crashed UPS MD-11F Aircraft
 subtitle: Fatigue Cracks Found in Engine Mount of Crashed UPS MD-11F Aircraft
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42883-ups-plane-that-crashed-had-fatigue-cracks-in-engine-mount
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0f5e900f27fc479ea2efd255da2924a1~mv2.jpg
 imageAlt: The left engine separation of a UPS MD-11F cargo aircraft that crashed shortly after takeoff from Louisville on November 4 revealed significant "fatigue cracks" in the engine pylon and attachment points, according to NTSB preliminary reports. The crash resulted in 14 fatalities.

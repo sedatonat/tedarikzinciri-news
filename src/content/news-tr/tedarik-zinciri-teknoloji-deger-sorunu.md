@@ -2,6 +2,7 @@
 title: 'Tedarik Zinciri Teknolojilerine Yatırım: Beklenen Değer Neden Sağlanamıyor?'
 subtitle: 'Tedarik Zinciri Teknolojilerine Yatırım: Beklenen Değer Neden Sağlanamıyor?'
 date: '2024-08-15T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10736-why-you-may-not-be-getting-your-planned-value-out-of-your-tech-investment
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_f1a82425436d4d81b03bfc7d33b75ff7~mv2.jpg
 imageAlt: 'Tedarik Zinciri Teknolojilerine Yatırım: Beklenen Değer Neden Sağlanamıyor?'

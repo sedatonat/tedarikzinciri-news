@@ -2,6 +2,7 @@
 title: 'Panama Canal: Current Status on Transit Restrictions and Water Levels'
 subtitle: 'Panama Canal: Current Status on Transit Restrictions and Water Levels'
 date: '2024-02-13T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/panama-canal-delays-transit-restrictions-until-spring/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_fa20aec7588f4bdb9a969f6998d9750d~mv2.jpg
 imageAlt: 'Panama Canal: Current Status on Transit Restrictions and Water Levels'

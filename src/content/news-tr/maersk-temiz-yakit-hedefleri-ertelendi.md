@@ -2,6 +2,7 @@
 title: Maersk Temiz Yakıt Hedeflerini Erteledi
 subtitle: Maersk Temiz Yakıt Hedeflerini Erteledi
 date: '2025-03-05T09:00:00Z'
+sourceUrl: https://shippingwatch.com/carriers/Container/article17950678.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3f6990530c5e46b2b72262a245c12d8c~mv2.png
 imageAlt: Maersk Temiz Yakıt Hedeflerini Erteledi

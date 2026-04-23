@@ -2,6 +2,7 @@
 title: Levi's Nears Completion of Distribution Network Transformation
 subtitle: Levi's Nears Completion of Distribution Network Transformation
 date: '2025-10-23T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/levis-distributuion-center-transition-ramp-down/803252/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_a2858d4b90f042f78e359392d7194a8d~mv2.jpg
 imageAlt: Levi's is in the process of phasing out owned distribution centers and transitioning to leased facilities. The new model aims to provide more flexible and efficient service to direct-to-consumer (DTC) channels.

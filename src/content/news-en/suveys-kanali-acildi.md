@@ -2,6 +2,7 @@
 title: Reopening of the Suez Canal Could Add 2.1 Million TEU to Global Fleet Capacity
 subtitle: Reopening of the Suez Canal Could Add 2.1 Million TEU to Global Fleet Capacity
 date: '2025-10-24T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/suez-canal-reopening-to-unlock-2-1-million-teu-capacity/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1c3c1f5ee88542d78da83a8aa9641c7a~mv2.jpg
 imageAlt: Reopening of the Suez Canal Could Add 2.1 Million TEU to Global Fleet Capacity

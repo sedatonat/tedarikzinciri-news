@@ -2,6 +2,7 @@
 title: Monster, Alüminyum Tarifeleri Nedeniyle Artan Maliyetlerde “Sınırlı Etki” Bekliyor
 subtitle: Monster, Alüminyum Tarifeleri Nedeniyle Artan Maliyetlerde “Sınırlı Etki” Bekliyor
 date: '2025-11-20T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/monster-faces-modest-tariff-impact-from-aluminum-costs/806002/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_f6fbdd2cd3df44d3881b9b929207ff29~mv2.jpg
 imageAlt: Monster Beverage, ithal alüminyum üzerindeki Section 232 tarifelerinin artırdığı Midwest aluminum premium nedeniyle kutu maliyetlerinin yükseldiğini açıkladı; şirket etkileri “mütevazı” düzeyde tutmak için mitigasyon stratejileri uyguluyor.

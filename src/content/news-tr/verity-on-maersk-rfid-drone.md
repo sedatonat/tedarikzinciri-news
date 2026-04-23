@@ -2,6 +2,7 @@
 title: Verity, On ve Maersk, RFID Drone Teknolojisiyle Depo Takibini Test Ediyor​
 subtitle: Verity, On ve Maersk, RFID Drone Teknolojisiyle Depo Takibini Test Ediyor​
 date: '2025-02-06T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/verity-on-maersk-rfid-drones-warehouse-tracking
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_63ec1697d7164664bc158863b6bad4f4~mv2.jpg
 imageAlt: Verity, On ve Maersk, RFID Drone Teknolojisiyle Depo Takibini Test Ediyor​

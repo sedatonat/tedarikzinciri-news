@@ -2,6 +2,7 @@
 title: 2024 IntraLogisteX'te LiBiao Robotics'in Yenilikçi Parsel Sıralama Çözümleri
 subtitle: 2024 IntraLogisteX'te LiBiao Robotics'in Yenilikçi Parsel Sıralama Çözümleri
 date: '2024-03-19T09:00:00Z'
+sourceUrl: https://www.warehousinglogisticsinternational.com/discover-libiaos-robot-based-sorting-solutions-at-intralogistex/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_5fce73bc8d644d01978090647fe98acc~mv2.jpg
 imageAlt: 2024 IntraLogisteX'te LiBiao Robotics'in Yenilikçi Parsel Sıralama Çözümleri

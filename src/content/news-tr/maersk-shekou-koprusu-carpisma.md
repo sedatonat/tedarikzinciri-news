@@ -2,6 +2,7 @@
 title: Maersk Shekou Çarpışmasında Köprüüstü İletişim Hatası Zinciri Ortaya Çıktı
 subtitle: Maersk Shekou Çarpışmasında Köprüüstü İletişim Hatası Zinciri Ortaya Çıktı
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://gcaptain.com/bridge-team-breakdown-how-communication-failures-led-to-containerships-collision-with-tall-ship/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b57fbb23132c4e2b914bc44228cf92c9~mv2.jpg
 imageAlt: Maersk Shekou’nun Fremantle Limanı’nda Leeuwin II’ye çarpmasına yol açan iletişim kopuklukları, pilot hataları, dikkat dağınıklığı ve prosedür ihlallerinin detaylı analizi.

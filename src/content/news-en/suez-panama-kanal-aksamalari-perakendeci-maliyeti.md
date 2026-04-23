@@ -2,6 +2,7 @@
 title: Disruptions at Suez and Panama Canals Could Cost Retailers Dearly
 subtitle: Disruptions at Suez and Panama Canals Could Cost Retailers Dearly
 date: '2024-02-15T09:00:00Z'
+sourceUrl: https://www.supplychainquarterly.com/articles/9626-report-retailers-likely-to-take-a-hit-from-suez-panama-disruptions
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_413f611a20894c10a948e71eb5c5f69c~mv2.jpg
 imageAlt: Disruptions at Suez and Panama Canals Could Cost Retailers Dearly

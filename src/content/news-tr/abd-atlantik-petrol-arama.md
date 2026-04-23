@@ -2,6 +2,7 @@
 title: Trump Yönetimi, Atlantik’teki Açık Deniz Petrol Arama Planlarından Geri Adım Attı
 subtitle: Trump Yönetimi, Atlantik’teki Açık Deniz Petrol Arama Planlarından Geri Adım Attı
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://gcaptain.com/trump-administration-backs-off-bid-for-atlantic-oil-drilling/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_d97ceb1ba78d461cb70ee559a44a1e71~mv2.jpg
 imageAlt: Trump yönetimi, ABD’nin Doğu Kıyısı boyunca açık deniz petrol ve doğalgaz arama lisanslarını satışa çıkarma planını geri çekti. Karar, özellikle Güneydoğu’daki Cumhuriyetçi eyaletlerde turizme olası zarar endişeleri ve çevreci tepkiler üzerine alındı.

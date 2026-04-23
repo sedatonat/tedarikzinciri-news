@@ -2,6 +2,7 @@
 title: 'Poland Deploys Military to Eastern Rail Lines: Russia-Backed Sabotage Confirmed'
 subtitle: 'Poland Deploys Military to Eastern Rail Lines: Russia-Backed Sabotage Confirmed'
 date: '2025-11-19T09:00:00Z'
+sourceUrl: https://www.railfreight.com/railfreight/2025/11/19/poland-sends-army-to-patrol-eastern-rail-routes-points-to-russia-as-culprit/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1291bfd66fa14ff29c93e0dd8c0f9f99~mv2.jpg
 imageAlt: Poland confirms that an explosion on strategic Line No.7 stretching to Ukraine was carried out by two Ukrainian agents on behalf of Russian intelligence; eastern rail lines are now protected by the military following the incident.

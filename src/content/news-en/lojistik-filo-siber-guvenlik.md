@@ -2,6 +2,7 @@
 title: Fleet Cybersecurity Risk Mitigation Strategies
 subtitle: Fleet Cybersecurity Risk Mitigation Strategies
 date: '2025-02-05T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/protect-your-fleet-from-cybersecurity-risks-with-these-proactive-strategies
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_59c09d2eb4ac4dc2b44669553cd6eac3~mv2.jpg
 imageAlt: Fleet Cybersecurity Risk Mitigation Strategies

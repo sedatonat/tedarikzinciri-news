@@ -2,6 +2,7 @@
 title: Körber Strengthens Supply Chain Software Business with New CEO
 subtitle: Körber Strengthens Supply Chain Software Business with New CEO
 date: '2024-06-13T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10414-korber-hires-blue-yonder-exec-to-lead-supply-chain-software-business
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_ab164a5ffc1344909439bf0e54374c47~mv2.png
 imageAlt: Körber Strengthens Supply Chain Software Business with New CEO

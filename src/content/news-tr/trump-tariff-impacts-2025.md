@@ -2,6 +2,7 @@
 title: Trump Dönemindeki “Tariff” Uygulamalarının Ekonomi ve Tedarik Zincirine Etkisi
 subtitle: Trump Dönemindeki “Tariff” Uygulamalarının Ekonomi ve Tedarik Zincirine Etkisi
 date: '2024-12-11T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40811-the-trouble-with-trumps-tariffs
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_7c98b6b5c5804269948e5a2816eca309~mv2.jpg
 imageAlt: Trump Dönemindeki “Tariff” Uygulamalarının Ekonomi ve Tedarik Zincirine Etkisi

@@ -2,6 +2,7 @@
 title: Trump Considers Applying Economic Pressure on BRICS Nations with 100% Tariff Threat
 subtitle: Trump Considers Applying Economic Pressure on BRICS Nations with 100% Tariff Threat
 date: '2024-12-02T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40758-trump-threatens-brics-nations-with-100-tariffs
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_843819b7dab1421ba260a9368847a3e7~mv2.jpg
 imageAlt: Trump Considers Applying Economic Pressure on BRICS Nations with 100% Tariff Threat

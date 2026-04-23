@@ -2,6 +2,7 @@
 title: Nearly All New Alternative Fuel Ship Orders Concentrated in a Single Category
 subtitle: Nearly All New Alternative Fuel Ship Orders Concentrated in a Single Category
 date: '2025-03-03T09:00:00Z'
+sourceUrl: https://shippingwatch.com/suppliers/article17958207.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3a56d2f3728e4972b2b0e1ecd9a06d57~mv2.jpg
 imageAlt: Nearly All New Alternative Fuel Ship Orders Concentrated in a Single Category

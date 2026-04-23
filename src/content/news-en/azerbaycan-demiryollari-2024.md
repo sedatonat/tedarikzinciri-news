@@ -2,6 +2,7 @@
 title: 'Azerbaijan Railways Reviews 2024: Major Milestones in Advancing International Corridors'
 subtitle: 'Azerbaijan Railways Reviews 2024: Major Milestones in Advancing International Corridors'
 date: '2025-01-13T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/01/13/azerbaijan-railways-takes-stock-of-2024-major-milestones-in-advancing-international-corridors/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7b8802beaa744e97bf529106c15f275d~mv2.jpeg
 imageAlt: 'Azerbaijan Railways Reviews 2024: Major Milestones in Advancing International Corridors'

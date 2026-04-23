@@ -2,6 +2,7 @@
 title: 'ABD Yaptırımları Rus Petrolünü Denizde Sıkıştırıyor: 48 Milyon Varil Alıcı Bekliyor'
 subtitle: 'ABD Yaptırımları Rus Petrolünü Denizde Sıkıştırıyor: 48 Milyon Varil Alıcı Bekliyor'
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://gcaptain.com/russian-oil-risks-being-stuck-at-sea-amid-us-sanctions/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_6415e0f014774faa8009ee3b7be8be1a~mv2.jpg
 imageAlt: ABD’nin Rosneft ve Lukoil’e yönelik yaptırımları yürürlüğe girince yaklaşık 48 milyon varil Rus ham petrolü denizde sıkıştı; onlarca tanker yön değiştirerek alternatif liman arıyor.

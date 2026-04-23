@@ -2,6 +2,7 @@
 title: ABD’de Temmuz–Ağustos 2025 Döneminde Öne Çıkan 10 Tedarik Zinciri Teknolojisi Yatırımı ve Satın Alması
 subtitle: ABD’de Temmuz–Ağustos 2025 Döneminde Öne Çıkan 10 Tedarik Zinciri Teknolojisi Yatırımı ve Satın Alması
 date: '2025-08-31T09:00:00Z'
+sourceUrl: https://castleplacement.com/top-10-supply-chain-tech-capital-raises-and-investors-in-the-u-s-july-16th-august-31st-2025/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_6a9b33395bd0491aaef22e0a559b4543~mv2.png
 imageAlt: ABD’de Temmuz–Ağustos 2025 Döneminde Öne Çıkan 10 Tedarik Zinciri Teknolojisi Yatırımı ve Satın Alması

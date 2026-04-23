@@ -2,6 +2,7 @@
 title: US Trucking Sector Splits on Non-Domiciled CDL Enforcement
 subtitle: US Trucking Sector Splits on Non-Domiciled CDL Enforcement
 date: '2025-12-15T09:00:00Z'
+sourceUrl: https://www.joc.com/article/impact-of-non-domiciled-cdl-enforcement-splits-us-trucking-sector-6135184
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5a6ce4a40dff4a33b539cbef4b957302~mv2.jpg
 imageAlt: Detailed industry overview addressing the impact of enforcement actions and proposed regulations targeting non-domiciled CDL practices in the US on truck driver supply, freight rates, and capacity balance

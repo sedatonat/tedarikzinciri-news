@@ -2,6 +2,7 @@
 title: 'Süveyş Kanalı Tam Kapasiteye Hazır: Denizcilik Sektörü Normale Dönüyor'
 subtitle: 'Süveyş Kanalı Tam Kapasiteye Hazır: Denizcilik Sektörü Normale Dönüyor'
 date: '2025-01-22T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/372627/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b6af7745c65e49a390fd93c737603515~mv2.jpg
 imageAlt: 'Süveyş Kanalı Tam Kapasiteye Hazır: Denizcilik Sektörü Normale Dönüyor'

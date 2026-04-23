@@ -2,6 +2,7 @@
 title: Microsoft Wisconsin’de İkinci Yapay Zeka Veri Merkezi İçin 4Milyar Dolar Yatırım Yapıyor
 subtitle: Microsoft Wisconsin’de İkinci Yapay Zeka Veri Merkezi İçin 4Milyar Dolar Yatırım Yapıyor
 date: '2025-09-19T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42521-microsoft-to-invest-4b-in-second-wisconsin-ai-data-center
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_e56b06b56fea46a285b06ccedd8b322a~mv2.png
 imageAlt: Microsoft Wisconsin’de İkinci Yapay Zeka Veri Merkezi İçin 4b$ Yatırım Yapıyor

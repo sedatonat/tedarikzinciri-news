@@ -2,6 +2,7 @@
 title: Amazon Surpasses Walmart for the First Time as Quarterly Sales Leader
 subtitle: Amazon Surpasses Walmart for the First Time as Quarterly Sales Leader
 date: '2025-02-21T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/amazon-surpasses-walmart-quarterly-sales-first-time
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_492a18b67d004ba78a95118cd7bd4684~mv2.jpg
 imageAlt: Amazon Surpasses Walmart for the First Time as Quarterly Sales Leader

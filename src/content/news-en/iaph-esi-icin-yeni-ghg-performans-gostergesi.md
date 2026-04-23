@@ -2,6 +2,7 @@
 title: IAPH Develops New GHG Performance Indicator for Environmental Ship Index
 subtitle: IAPH Develops New GHG Performance Indicator for Environmental Ship Index
 date: '2024-10-01T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/iaph-develops-ghg-performance-indicator/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1fd5e95efb9246ffb1f6a0c7dcbd3c46~mv2.jpg
 imageAlt: IAPH Develops New GHG Performance Indicator for Environmental Ship Index

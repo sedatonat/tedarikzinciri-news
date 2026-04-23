@@ -2,6 +2,7 @@
 title: 'Panama Canal Shows Recovery with Rainfall: Additional Transit Slots Added'
 subtitle: 'Panama Canal Shows Recovery with Rainfall: Additional Transit Slots Added'
 date: '2024-03-12T09:00:00Z'
+sourceUrl: https://splash247.com/panama-canal-authority-adds-three-more-daily-transit-slots/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_59dbb66aa8194f00be105736153ab39d~mv2.jpg
 imageAlt: 'Panama Canal Shows Recovery with Rainfall: Additional Transit Slots Added'

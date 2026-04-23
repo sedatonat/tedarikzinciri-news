@@ -2,6 +2,7 @@
 title: CMA CGM Pursues Digital Transformation in Logistics with Google AI
 subtitle: CMA CGM Pursues Digital Transformation in Logistics with Google AI
 date: '2024-07-18T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10594-cma-cgm-launches-plan-to-improve-logistics-with-google-ai
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_64bc9e2879434dd3a63b47e8f374b09b~mv2.jpg
 imageAlt: CMA CGM Pursues Digital Transformation in Logistics with Google AI

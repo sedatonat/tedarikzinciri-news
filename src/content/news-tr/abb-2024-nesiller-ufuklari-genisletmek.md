@@ -2,6 +2,7 @@
 title: 'ABB''nin 2024 Nesiller Yayını: Ufukları Genişletmek'
 subtitle: 'ABB''nin 2024 Nesiller Yayını: Ufukları Genişletmek'
 date: '2024-12-17T09:00:00Z'
+sourceUrl: https://gcaptain.com/abb-releases-2024-edition-of-generations-expanding-horizons/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2946375ba56744a5818e0caef036f9e7~mv2.jpg
 imageAlt: 'ABB''nin 2024 Nesiller Yayını: Ufukları Genişletmek'

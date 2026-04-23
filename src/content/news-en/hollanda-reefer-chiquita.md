@@ -2,6 +2,7 @@
 title: Dutch Container Merchants Signs 1,000-Unit High-Tech Refrigerated Container Agreement with Chiquita
 subtitle: Dutch Container Merchants Signs 1,000-Unit High-Tech Refrigerated Container Agreement with Chiquita
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://www.railfreight.com/business/2025/10/29/dutch-container-merchants-closes-reefer-deal-with-chiquita/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_dccd095a31c34b02905b6c5c78ebb3ff~mv2.jpeg
 imageAlt: Dutch Container Merchants (DCM) has signed a supply agreement with Chiquita, the world's largest banana producer, for 1,000 units of 40HC Reefer containers. The new containers will be equipped with Carrier Transicold OptimaLine cooling systems and Controlled Atmosphere (CA) technology to increase energy efficiency.

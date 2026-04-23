@@ -2,6 +2,7 @@
 title: 'The Smart Buying Journey: How OMS Connects Your Supply Chain'
 subtitle: 'The Smart Buying Journey: How OMS Connects Your Supply Chain'
 date: '2025-08-01T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42168-infusing-intelligence-into-the-buying-journey-how-order-management-links-your-supply-chain
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_883445a6fa764902a1c6cc852665e320~mv2.png
 imageAlt: 'The Smart Buying Journey: How OMS Connects Your Supply Chain'

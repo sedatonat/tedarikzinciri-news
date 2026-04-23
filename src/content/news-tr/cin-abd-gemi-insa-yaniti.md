@@ -2,6 +2,7 @@
 title: ABD'nin Gemi İnşa Soruşturmasına Pekin'den Yanıt
 subtitle: ABD'nin Gemi İnşa Soruşturmasına Pekin'den Yanıt
 date: '2025-01-17T09:00:00Z'
+sourceUrl: https://splash247.com/beijing-dismisses-us-shipbuilding-probe/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_df82e8e8522f4f5e8ccc1a9e22c73534~mv2.jpg
 imageAlt: ABD'nin Gemi İnşa Soruşturmasına Pekin'den Yanıt

@@ -2,6 +2,7 @@
 title: Singapur ve Güney Kore, Yeşil ve Dijital Denizcilik Koridoru Kurulması İçin Anlaşma İmzaladı
 subtitle: Singapur ve Güney Kore, Yeşil ve Dijital Denizcilik Koridoru Kurulması İçin Anlaşma İmzaladı
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/singapore-korea-launch-green-and-digital-maritime-corridor/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_9303c2d15e8e4296a2f3325b50d0964f~mv2.jpg
 imageAlt: Singapur Ulaştırma Bakanlığı ile Güney Kore Okyanuslar ve Balıkçılık Bakanlığı, Singapur–ROK Yeşil ve Dijital Denizcilik Koridoru (GDSC) kurmak üzere mutabakat zaptı (MoU) imzaladı. Anlaşma, temiz yakıt altyapısı, dijitalleşme ve denizcilik profesyonellerinin eğitimi alanlarında ortak çalışmaları kapsıyor.

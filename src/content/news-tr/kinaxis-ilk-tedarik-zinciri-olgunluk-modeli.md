@@ -2,6 +2,7 @@
 title: Kinaxis, İlk Tedarik Zinciri Orkestrasyon Olgunluk Modelini Tanıttı
 subtitle: Kinaxis, İlk Tedarik Zinciri Orkestrasyon Olgunluk Modelini Tanıttı
 date: '2024-11-19T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/kinaxis-launches-first-ever-supply-chain-orchestration-maturity-model
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_582642804a7a48e9a548ab9c8fe14ef8~mv2.jpg
 imageAlt: Kinaxis, İlk Tedarik Zinciri Orkestrasyon Olgunluk Modelini Tanıttı

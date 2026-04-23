@@ -2,6 +2,7 @@
 title: Satınalma Süreçlerinde Yapay Zeka Benimseme Zorluklarını Aşmak
 subtitle: Satınalma Süreçlerinde Yapay Zeka Benimseme Zorluklarını Aşmak
 date: '2024-11-04T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/navigating-ai-adoption-procurement/731773/
 category: Satınalma
 image: https://static.wixstatic.com/media/11062b_1e2176ef42184348836267cbc4852168~mv2.jpg
 imageAlt: Satın Alma Süreçlerinde Yapay Zeka Benimseme Zorluklarını Aşmak

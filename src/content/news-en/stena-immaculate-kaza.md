@@ -2,6 +2,7 @@
 title: Stena Immaculate Sold Following Fatal North Sea Collision
 subtitle: Stena Immaculate Sold Following Fatal North Sea Collision
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://gcaptain.com/stena-immaculate-sold-for-repairs-after-fatal-north-sea-collision/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_09aed4a2b93842438fa360fbc6f8f6a2~mv2.jpg
 imageAlt: Stena Bulk announced that the Stena Immaculate tanker, severely damaged following a fatal accident in the North Sea in March 2025, has been sold to Desan Shipyard for repairs. The vessel was re-flagged from the United States flag to the Malta flag prior to the sale.

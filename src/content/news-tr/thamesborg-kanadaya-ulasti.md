@@ -2,6 +2,7 @@
 title: Thamesborg’un 10 Haftalık Arktik Yolculuğu Kanada’da Sona Erdi
 subtitle: Thamesborg’un 10 Haftalık Arktik Yolculuğu Kanada’da Sona Erdi
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://gcaptain.com/cargoship-thamesborg-arrives-in-eastern-canada-after-10-week-odyssey-grounding-in-arctic/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_02497799b6ab4867b59b76ea267dd063~mv2.png
 imageAlt: Çin’den Kanada’ya giderken Arktik’te karaya oturan genel kargo gemisi Thamesborg, iki aylık zorlu kurtarma sürecinin ardından güvenli şekilde Baie Comeau Limanı’na ulaştı.

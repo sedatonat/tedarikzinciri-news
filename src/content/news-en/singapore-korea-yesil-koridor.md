@@ -2,6 +2,7 @@
 title: Singapore and South Korea Sign Agreement to Establish Green and Digital Maritime Corridor
 subtitle: Singapore and South Korea Sign Agreement to Establish Green and Digital Maritime Corridor
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/singapore-korea-launch-green-and-digital-maritime-corridor/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_9303c2d15e8e4296a2f3325b50d0964f~mv2.jpg
 imageAlt: Singapore's Ministry of Transport and South Korea's Ministry of Oceans and Fisheries signed a Memorandum of Understanding (MoU) to establish the Singapore–ROK Green and Digital Shipping Corridor (GDSC). The agreement encompasses collaborative efforts in clean fuel infrastructure, digitalization, and training for maritime professionals.

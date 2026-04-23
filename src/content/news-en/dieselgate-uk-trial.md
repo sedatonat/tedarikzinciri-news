@@ -2,6 +2,7 @@
 title: 'After Dieselgate: Automakers Face Trial in the UK'
 subtitle: 'After Dieselgate: Automakers Face Trial in the UK'
 date: '2025-10-13T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42651-carmakers-face-uk-trial-a-decade-after-dieselgate-scandal
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_bb7220e5ca7948b3b1a6e16b3ca3cbca~mv2.png
 imageAlt: 'After Dieselgate: Automakers Face Trial in the UK'

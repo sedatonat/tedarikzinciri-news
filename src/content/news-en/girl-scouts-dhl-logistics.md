@@ -2,6 +2,7 @@
 title: Girl Scouts and DHL Launch Logistics Education Program
 subtitle: Girl Scouts and DHL Launch Logistics Education Program
 date: '2025-07-24T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42216-girl-scouts-of-the-usa-and-dhl-supply-chain-introduce-logistics-program-for-girls
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6abeb08f353440fcad39ebc2cbde49d1~mv2.png
 imageAlt: Girl Scouts and DHL Logistics Education Program

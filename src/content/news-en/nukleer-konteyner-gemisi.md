@@ -2,6 +2,7 @@
 title: Seaspan Evaluates New SMR Report for Nuclear-Powered Container Ships
 subtitle: Seaspan Evaluates New SMR Report for Nuclear-Powered Container Ships
 date: '2025-11-27T09:00:00Z'
+sourceUrl: https://splash247.com/seaspan-eyes-nuclear-powered-boxships/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5a7acf81b84a4f85bb14f8e43622db0c~mv2.jpeg
 imageAlt: A detailed summary of the report prepared by Lloyd's Register and LucidCatalyst, presenting Seaspan's technical, economic and supply chain analysis for container ships powered by small modular reactors.

@@ -2,6 +2,7 @@
 title: Uzay Lojistiği İçin Yeni Gemi Projesi Project Cargo Pazarını Hedefliyor
 subtitle: Uzay Lojistiği İçin Yeni Gemi Projesi Project Cargo Pazarını Hedefliyor
 date: '2025-12-16T09:00:00Z'
+sourceUrl: https://www.joc.com/article/space-logistics-newbuilding-to-service-booming-project-cargo-sector-6136182
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_473ac77eda874139aa877856fa213a7a~mv2.jpg
 imageAlt: Compagnie Maritime Nantaise, büyüyen uzay lojistiği ve project cargo pazarına hizmet etmek üzere, yüksek hassasiyetli ve özel tasarıma sahip yeni bir gemi inşa etmeyi planlıyor.

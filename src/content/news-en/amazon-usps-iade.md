@@ -2,6 +2,7 @@
 title: Amazon Launches Doorstep Return Service with USPS
 subtitle: Amazon Launches Doorstep Return Service with USPS
 date: '2025-10-23T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/amazon-us-postal-service-doorstep-returns/803544/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4750aff9d6de472682d3231835e8a223~mv2.jpg
 imageAlt: Amazon has partnered with the U.S. Postal Service (USPS) to offer customers doorstep return pickup capabilities. The pilot program was rolled out in select regions during summer months and aims to streamline the e-commerce giant's return process, making it faster and more convenient.

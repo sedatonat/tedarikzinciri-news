@@ -2,6 +2,7 @@
 title: U.K. Bans Nike–Superdry–Lacoste's "Sustainable" Advertisements
 subtitle: U.K. Bans Nike–Superdry–Lacoste's "Sustainable" Advertisements
 date: '2025-12-03T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42928-uk-bans-ads-claiming-sustainability-by-major-clothing-retailers
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_3bf5ab284b034c2b8899c6990a7cea8a~mv2.jpg
 imageAlt: The U.K. Advertising Standards Authority's ban on unsubstantiated "sustainable" claims by Nike, Superdry, and Lacoste in Google advertisements represents a detailed summary of stricter greenwashing enforcement and implications for supply chains

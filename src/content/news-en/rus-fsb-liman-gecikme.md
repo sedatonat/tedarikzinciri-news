@@ -2,6 +2,7 @@
 title: 'American Club: New FSB Rules for Russian Port Entry Create Serious Delay Risk for Vessels'
 subtitle: 'American Club: New FSB Rules for Russian Port Entry Create Serious Delay Risk for Vessels'
 date: '2025-12-06T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385463/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_99e4e9bd30c0485cb2c80a9b5ab42f32~mv2.jpg
 imageAlt: Summary of American Club warning that Russia's new FSB port entry rules taking effect on November 25, 2025, could cause delays of up to 48–53 hours, increased costs, and operational uncertainty for shipowners

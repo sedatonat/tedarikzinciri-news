@@ -2,6 +2,7 @@
 title: Kaliforniya Valisi Landmark Yapay Zeka Güvenlik Yasasını İmzaladı
 subtitle: Kaliforniya Valisi Landmark Yapay Zeka Güvenlik Yasasını İmzaladı
 date: '2025-10-01T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42590-california-governor-signs-landmark-ai-safety-law
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_cb3ec6f920e045e8ba0f6b24ac8d8aa5~mv2.png
 imageAlt: Kaliforniya Vali Landmark Yapay Zeka Güvenlik Yasasını İmzaladı

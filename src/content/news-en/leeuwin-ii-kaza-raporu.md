@@ -2,6 +2,7 @@
 title: 'ATSB: Bridge Team Coordination Failures Found to be Decisive in Leeuwin II Collision'
 subtitle: 'ATSB: Bridge Team Coordination Failures Found to be Decisive in Leeuwin II Collision'
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://splash247.com/bridge-team-lapse-behind-leeuwin-ii-disaster/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_fa11dc616e3a49c59a1230c0d96aa836~mv2.jpg
 imageAlt: Australia's Transport Safety Bureau (ATSB) has published its final report into the collision between the container ship Maersk Shekou and the sailing vessel Leeuwin II at Fremantle Port. The investigation revealed that poor coordination of the bridge team, communication failures, and inattention played a decisive role in the accident.

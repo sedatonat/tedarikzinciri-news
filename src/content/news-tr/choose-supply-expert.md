@@ -2,6 +2,7 @@
 title: İşiniz İçin Doğru Tedarik Zinciri Uzmanını Seçmek
 subtitle: İşiniz İçin Doğru Tedarik Zinciri Uzmanını Seçmek
 date: '2025-05-15T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41771-picking-the-right-supply-chain-expert-for-your-business
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_5799e57388464fa1b5f1127d24eeb7c1~mv2.png
 imageAlt: İşiniz İçin Doğru Tedarik Zinciri Uzmanını Seçmek

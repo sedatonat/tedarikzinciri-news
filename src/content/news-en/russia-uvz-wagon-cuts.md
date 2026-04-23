@@ -2,6 +2,7 @@
 title: 'Russian Wagon Production Contracts: UralVagonZavod Prepares Workforce Cuts'
 subtitle: 'Russian Wagon Production Contracts: UralVagonZavod Prepares Workforce Cuts'
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://www.railfreight.com/business/2025/12/12/russian-wagon-producers-cutting-staff-amid-business-deterioration/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0a19d329749a471d94b50f156e5744a8~mv2.jpg
 imageAlt: Detailed summary of UralVagonZavod's layoffs according to RailFreight.com analysis, structural contraction facing the company due to declining civilian wagon demand, shift to military production, and wagon surplus in the Russian rail sector

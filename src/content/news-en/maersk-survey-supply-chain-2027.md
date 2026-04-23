@@ -2,6 +2,7 @@
 title: 'Maersk Survey: Most Supply Chain Leaders Expect Disruptions to Continue Through 2027'
 subtitle: 'Maersk Survey: Most Supply Chain Leaders Expect Disruptions to Continue Through 2027'
 date: '2025-11-11T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384335/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_5ab7bbde0a9547c6a0b723964115ade3~mv2.jpg
 imageAlt: According to a Maersk survey of 900+ European companies, 80% of supply chain leaders believe global disruptions will persist through 2027, with tariffs, geopolitical tensions, and trade policies continuing to impact operations.

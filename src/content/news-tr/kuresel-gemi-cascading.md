@@ -2,6 +2,7 @@
 title: 'Sea-Intelligence: Küresel Gemi Cascading’inde Yapısal Dönüşüm Başladı'
 subtitle: 'Sea-Intelligence: Küresel Gemi Cascading’inde Yapısal Dönüşüm Başladı'
 date: '2025-12-13T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385740/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_046495df615646aba3d79786e918ab5b~mv2.jpg
 imageAlt: Sea-Intelligence analizine göre 2025’in ikinci yarısında küresel konteyner filosu vessel cascading sürecinde yeni ve kalıcı bir faza girerken, kapasite ana hatlardan ikincil rotalara doğru yapısal biçimde yeniden dağılıyor

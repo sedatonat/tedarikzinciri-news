@@ -2,6 +2,7 @@
 title: 'U.S. Bank Reports 21% Drop in Freight Shipments: Signs of Challenging Transportation Market'
 subtitle: 'U.S. Bank Reports 21% Drop in Freight Shipments: Signs of Challenging Transportation Market'
 date: '2024-11-07T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/q3-us-bank-shipments-spending-index/732159/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_bd5cd22767864013b177d18954eb5b67~mv2.jpg
 imageAlt: 'U.S. Bank Reports 21% Drop in Freight Shipments: Signs of Challenging Transportation Market'

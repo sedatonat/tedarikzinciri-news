@@ -2,6 +2,7 @@
 title: 'Tough Times for Panamax Ships: China''s Grain Imports Drop 51%'
 subtitle: 'Tough Times for Panamax Ships: China''s Grain Imports Drop 51%'
 date: '2025-01-28T09:00:00Z'
+sourceUrl: https://gcaptain.com/panamax-pain-as-chinas-grain-imports-plunge-51/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_0698a5424a3c4c8dbc06cdec29275c7e~mv2.jpg
 imageAlt: 'Tough Times for Panamax Ships: China''s Grain Imports Drop 51%'

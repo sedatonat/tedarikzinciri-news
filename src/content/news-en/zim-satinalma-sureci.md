@@ -2,6 +2,7 @@
 title: 'Zim Acquisition Process: CEO and Strategic Investors at the Table'
 subtitle: 'Zim Acquisition Process: CEO and Strategic Investors at the Table'
 date: '2025-11-25T09:00:00Z'
+sourceUrl: https://www.joc.com/article/zim-says-reviewing-buyout-offers-including-one-from-ceo-6123362
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1107093ed296467596d5e0710f8b0e22~mv2.jpg
 imageAlt: Board process evaluating multiple acquisition initiatives, including an offer from CEO Eli Glickman and Rami Ungar, along with detailed news summary covering the company's fleet strategy, financial structure, and sector implications

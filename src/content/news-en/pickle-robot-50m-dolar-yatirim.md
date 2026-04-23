@@ -2,6 +2,7 @@
 title: Pickle Robot Raises $50 Million to Transform Truck Unloading with AI
 subtitle: Pickle Robot Raises $50 Million to Transform Truck Unloading with AI
 date: '2024-11-20T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/pickle-robot-artificial-intelligence-truck-unloading-raises-50-million
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_00537493dea0489ea9ad2d51fc79a894~mv2.jpg
 imageAlt: Pickle Robot Raises $50 Million to Transform Truck Unloading with AI

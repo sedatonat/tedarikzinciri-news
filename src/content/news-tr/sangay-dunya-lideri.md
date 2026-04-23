@@ -2,6 +2,7 @@
 title: Şanghay, 40 Milyon TEU’yu Aşarak Dünya Liderliğini Pekiştirdi
 subtitle: Şanghay, 40 Milyon TEU’yu Aşarak Dünya Liderliğini Pekiştirdi
 date: '2025-11-07T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/shanghai-undefeated-asurpasses-40-million-teus/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_90aee42c415a46608be38f2b5df84a9b~mv2.jpg
 imageAlt: Çin’in Şanghay Limanı, Eylül ayında 4.83 milyon TEU elleçleyerek 2025’te toplam 41.5 milyon TEU’ya ulaştı; Ningbo-Zhoushan ve diğer büyük Çin limanları da güçlü çift haneli büyüme kaydetti.

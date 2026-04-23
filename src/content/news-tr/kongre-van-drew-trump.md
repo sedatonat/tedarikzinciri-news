@@ -2,6 +2,7 @@
 title: Kongre Üyesi Van Drew ve Trump, Biden'ın Açık Deniz Rüzgar Enerjisi Hedeflerini Engellemek İçin Bir Araya Geldi
 subtitle: Kongre Üyesi Van Drew ve Trump, Biden'ın Açık Deniz Rüzgar Enerjisi Hedeflerini Engellemek İçin Bir Araya Geldi
 date: '2025-01-16T09:00:00Z'
+sourceUrl: https://gcaptain.com/congressman-van-drew-trump-team-up-to-sink-bidens-offshore-wind-ambitions/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_5dd37be9341d4fee9dbde7e4aae2d38b~mv2.jpg
 imageAlt: Kongre Üyesi Van Drew ve Trump, Biden'ın Açık Deniz Rüzgar Enerjisi Hedeflerini Engellemek İçin Bir Araya Geldi

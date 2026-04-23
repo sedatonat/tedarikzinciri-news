@@ -2,6 +2,7 @@
 title: Tedarik Zincirinde Yapay Zeka Devrimi Kapıda
 subtitle: Tedarik Zincirinde Yapay Zeka Devrimi Kapıda
 date: '2024-10-10T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40467-automation-of-procurement-functions-could-make-a-better-world
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_ae58d9106a7a472f8392c6ba0317c01e~mv2.jpg
 imageAlt: Tedarik Zincirinde Yapay Zeka Devrimi Kapıda

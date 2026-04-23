@@ -2,6 +2,7 @@
 title: Pasifik Holding'in Küresel Teknoloji Ortaklıkları ve Liman Operasyonlarına Yönelik Stratejik Hedefleri
 subtitle: Pasifik Holding'in Küresel Teknoloji Ortaklıkları ve Liman Operasyonlarına Yönelik Stratejik Hedefleri
 date: '2025-01-15T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/372360/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b8dfa50bb9474f17b77c899a33e6981a~mv2.png
 imageAlt: Pasifik Holding'in Küresel Teknoloji Ortaklıkları ve Liman Operasyonlarına Yönelik Stratejik Hedefleri

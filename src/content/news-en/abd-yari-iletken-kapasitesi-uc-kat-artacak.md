@@ -2,6 +2,7 @@
 title: U.S. Semiconductor Manufacturing Capacity to Triple by 2032
 subtitle: U.S. Semiconductor Manufacturing Capacity to Triple by 2032
 date: '2024-05-08T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/39677-new-report-projects-us-will-triple-semiconductor-capacity-by-2032
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_3d37b5457e404a7bb49ef93498eff0a2~mv2.jpg
 imageAlt: U.S. Semiconductor Manufacturing Capacity to Triple by 2032

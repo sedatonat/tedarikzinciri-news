@@ -2,6 +2,7 @@
 title: 'Pire–Elefsis Gerilimi: ABD–Çin Rekabeti Akdeniz Lojistiğini İkiye Bölüyor'
 subtitle: 'Pire–Elefsis Gerilimi: ABD–Çin Rekabeti Akdeniz Lojistiğini İkiye Bölüyor'
 date: '2025-11-24T09:00:00Z'
+sourceUrl: https://container-news.com/how-piraeus-port-became-battleground-for-us-china-rivalry/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_6ed5a42482ad48a29ef0f55909cbabe1~mv2.jpg
 imageAlt: Pire Limanı üzerindeki ABD–Çin nüfuz mücadelesi, Elefsis Shipyard’ın DFC destekli stratejik yükselişi, NATO uyumlu altyapı ihtiyacı ve 2026 için bölgesel tedarik zinciri etkilerinin detaylı analizi

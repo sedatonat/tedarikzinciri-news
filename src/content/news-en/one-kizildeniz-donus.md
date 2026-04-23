@@ -2,6 +2,7 @@
 title: ONE Returns to Red Sea Under Slot Charter Agreement
 subtitle: ONE Returns to Red Sea Under Slot Charter Agreement
 date: '2025-12-17T09:00:00Z'
+sourceUrl: https://www.joc.com/article/one-returns-to-red-sea-under-slot-charter-deal-with-thailands-rcl-partners-6136866
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f3ca11410d234c8aa9ac8cf7bd414e12~mv2.jpg
 imageAlt: Ocean Network Express is planning a controlled return to Red Sea operations that it suspended due to security risks, through a slot charter agreement with Thailand-based RCL and regional partners.

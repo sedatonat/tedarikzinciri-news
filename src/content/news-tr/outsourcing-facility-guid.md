@@ -2,6 +2,7 @@
 title: İleri Üreticiler İçin Tesis Yönetimi Dış Kaynak Kılavuzu
 subtitle: İleri Üreticiler İçin Tesis Yönetimi Dış Kaynak Kılavuzu
 date: '2025-02-25T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42098-a-guide-to-outsourcing-facilities-management-for-advanced-manufacturers
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_c9f54090af104cf396c802337a44e7f4~mv2.png
 imageAlt: İleri Üreticiler İçin Tesis Yönetimi Dış Kaynak Kılavuzu

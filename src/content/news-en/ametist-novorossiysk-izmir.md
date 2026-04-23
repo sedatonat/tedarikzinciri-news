@@ -2,6 +2,7 @@
 title: Russia's Ametist Line Launches New Novorossiysk–Izmir Shuttle Service
 subtitle: Russia's Ametist Line Launches New Novorossiysk–Izmir Shuttle Service
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://container-news.com/russias-ametist-line-launches-new-novorossiysk-izmir-shuttle/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_cb0f1c5f032343b08437730ea4837a9d~mv2.jpg
 imageAlt: A detailed summary of the Novorossiysk–Izmir shuttle service that Ametist Line will bring into operation in early 2026, covering capacity expansion over existing single-vessel routes, regional logistics implications, and the strengthening of East Mediterranean–Black Sea connections.

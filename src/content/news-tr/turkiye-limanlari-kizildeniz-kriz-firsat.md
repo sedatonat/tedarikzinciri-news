@@ -2,6 +2,7 @@
 title: 'Türkiye Limanları Kızıldeniz Krizini Fırsata Çevirdi: Tarihi Rekorlar ve Yeni Yollar'
 subtitle: 'Türkiye Limanları Kızıldeniz Krizini Fırsata Çevirdi: Tarihi Rekorlar ve Yeni Yollar'
 date: '2024-03-28T09:00:00Z'
+sourceUrl: https://www.lojiport.com/kizildeniz-krizine-hizli-cozum-limanlarimiza-tarihi-rekor-getirdi-116374h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e68f3170a381431a8fe486dcd26646ff~mv2.jpg
 imageAlt: 'Türkiye Limanları Kızıldeniz Krizini Fırsata Çevirdi: Tarihi Rekorlar ve Yeni Yollar'

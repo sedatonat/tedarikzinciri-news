@@ -2,6 +2,7 @@
 title: India Launches First Indigenous Hydrogen Fuel Cell Passenger Vessel on the Ganges River
 subtitle: India Launches First Indigenous Hydrogen Fuel Cell Passenger Vessel on the Ganges River
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385748/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_a4cc4e77353541528fbc4d9cd1667793~mv2.jpg
 imageAlt: Technical specifications of India's first indigenous hydrogen fuel cell passenger vessel now in commercial operation on the Ganges River in Varanasi, detailing IWAI-CSL collaboration, hydrogen infrastructure, and contributions to zero-emission goals on inland waterways

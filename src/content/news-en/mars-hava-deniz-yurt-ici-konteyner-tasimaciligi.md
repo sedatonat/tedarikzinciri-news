@@ -2,6 +2,7 @@
 title: Mars Air and Sea Cargo Launches Domestic Container Transportation
 subtitle: Mars Air and Sea Cargo Launches Domestic Container Transportation
 date: '2024-07-31T09:00:00Z'
+sourceUrl: https://lojistikhatti.com/haber/2024/07/mars-hava-ve-deniz-kargo-yurt-ici-konteyner-tasimaciligi-hizmeti-vermeye-basladi
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b3e58a1fb0574a5cbe7cf1de0a2f8ede~mv2.jpeg
 imageAlt: Mars Air and Sea Cargo Launches Domestic Container Transportation

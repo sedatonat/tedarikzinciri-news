@@ -2,6 +2,7 @@
 title: 'Çalışanları Cezbeden Modern İmkan: İş Yerlerinde EV Şarj İstasyonları'
 subtitle: 'Çalışanları Cezbeden Modern İmkan: İş Yerlerinde EV Şarj İstasyonları'
 date: '2024-05-07T09:00:00Z'
+sourceUrl: https://chatgpt.com/c/0380aa70-1344-40d4-9beb-da56fe1d9c23
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_f91b32e596fa4b66b3395ad2e604333a~mv2.jpg
 imageAlt: 'Çalışanları Cezbeden Modern İmkan: İş Yerlerinde EV Şarj İstasyonları'

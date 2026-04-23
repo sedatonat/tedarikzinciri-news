@@ -2,6 +2,7 @@
 title: Amazon, Akıllı Stok Yerleşimiyle Teslimat Hızlarında Yeni Rekorun Eşiğinde
 subtitle: Amazon, Akıllı Stok Yerleşimiyle Teslimat Hızlarında Yeni Rekorun Eşiğinde
 date: '2025-11-04T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/amazon-2025-delivery-speeds-fulfillment-improvements/804515/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_3cc89bf671414915b8a22b98c24d846d~mv2.jpg
 imageAlt: Amazon, stok yerleşimini optimize ederek Prime teslimat hızlarını 2025’te yeniden rekor seviyeye taşımaya hazırlanıyor. ABD inbound lead time’ı yaklaşık 4 gün kısalırken, daha kısa mesafe, daha az dokunuş ve daha hızlı fulfillment hedefleniyor.

@@ -2,6 +2,7 @@
 title: Süveyş Kanalı 2025 Sonunda Yeniden Açılıyor
 subtitle: Süveyş Kanalı 2025 Sonunda Yeniden Açılıyor
 date: '2025-02-12T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/suez-canal-to-reopen-by-late-2025-drewry-survey
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_725ebb652b664c009717b3f240b1e60e~mv2.jpg
 imageAlt: Süveyş Kanalı 2025 Sonunda Yeniden Açılıyor

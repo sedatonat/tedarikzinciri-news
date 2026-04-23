@@ -2,6 +2,7 @@
 title: Süveyş Kanalı’nın Yeniden Açılması Küresel Filo Kapasitesine 2,1 Milyon TEU Ekleyebilir
 subtitle: Süveyş Kanalı’nın Yeniden Açılması Küresel Filo Kapasitesine 2,1 Milyon TEU Ekleyebilir
 date: '2025-10-24T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/suez-canal-reopening-to-unlock-2-1-million-teu-capacity/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1c3c1f5ee88542d78da83a8aa9641c7a~mv2.jpg
 imageAlt: Süveyş Kanalı’nın Yeniden Açılması Küresel Filo Kapasitesine 2,1 Milyon TEU Ekleyebilir

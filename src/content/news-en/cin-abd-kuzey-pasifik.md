@@ -2,6 +2,7 @@
 title: Chinese Research Vessels and U.S. Military Activities Surge in North Pacific
 subtitle: Chinese Research Vessels and U.S. Military Activities Surge in North Pacific
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://gcaptain.com/chinese-research-ships-us-military-active-in-north-pacific-monitor-shows-2/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e97eb940835a44308a99799befef8662~mv2.jpg
 imageAlt: According to data from the Pacific Center for Island Security, Chinese space-missile tracking and submarine mapping vessels are active in the North Pacific; during the same period, the U.S. intensified multilateral military exercises in the region.

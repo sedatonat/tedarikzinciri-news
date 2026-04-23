@@ -2,6 +2,7 @@
 title: Konecranes Expands Ecolifting With First Electric Reach Stacker and Global Remote Services Network
 subtitle: Konecranes Expands Ecolifting With First Electric Reach Stacker and Global Remote Services Network
 date: '2025-11-25T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384938/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0cf65f0b3d7f4893b16f3b615bb10ca0~mv2.jpg
 imageAlt: Detailed news summary describing Konecranes' launch of its first electric reach stacker, the global expansion of Remote Services, and the strategic expansion of the Ecolifting program toward low-emission port equipment

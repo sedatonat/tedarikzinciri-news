@@ -2,6 +2,7 @@
 title: ABD, Güneydoğu Asya ile Ticaret Anlaşmaları İmzaladı ve Çin ile Ateşkes Sinyali Verdi
 subtitle: ABD, Güneydoğu Asya ile Ticaret Anlaşmaları İmzaladı ve Çin ile Ateşkes Sinyali Verdi
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/trump-tariffs-trade-deals-asean-china-vietnam-thailand-cambodia-malaysia/803868/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_622cbbaef029477a8e0559dd518eec75~mv2.jpg
 imageAlt: ABD, Vietnam, Tayland, Kamboçya ve Malezya ile karşılıklı gümrük tarifeleri içeren ticaret anlaşmaları imzaladı. Ayrıca Çin ile yürütülen müzakerelerde ilerleme sağlandığı ve olası bir ticaret ateşkesinin yakın olduğu bildirildi.

@@ -2,6 +2,7 @@
 title: US and EU Impose Fresh Sanctions on Russia Over Navalny's Death and Ukraine Invasion
 subtitle: US and EU Impose Fresh Sanctions on Russia Over Navalny's Death and Ukraine Invasion
 date: '2024-02-24T01:00:00Z'
+sourceUrl: https://www.bbc.co.uk/news/world-us-canada-68380251
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_03bfab521d994d208e6d272df437a161~mv2.jpg
 imageAlt: US and EU Impose Fresh Sanctions on Russia Over Navalny's Death and Ukraine Invasion

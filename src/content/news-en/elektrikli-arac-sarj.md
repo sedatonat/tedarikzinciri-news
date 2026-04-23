@@ -2,6 +2,7 @@
 title: 'U.S. First: Highway Charges Electric Trucks While Moving'
 subtitle: 'U.S. First: Highway Charges Electric Trucks While Moving'
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/wireless-charging-electric-truck-roadway-purdue-university
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_c77a22a992d74091a41ee947a9288668~mv2.jpg
 imageAlt: Summary of a test conducted by Purdue University researchers in Indiana, featuring coils embedded beneath asphalt to wirelessly charge heavy-duty electric trucks while in motion, detailing the technology and its implications for long-distance freight.

@@ -2,6 +2,7 @@
 title: 2024 Supply Chain Predictions
 subtitle: 2024 Supply Chain Predictions
 date: '2024-02-19T09:00:00Z'
+sourceUrl: https://www.allthingssupplychain.com/supply-chain-predictions-for-2024/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_22e9d98772cb43f9b13b6d15e1119a54~mv2.jpg
 imageAlt: 2024 Supply Chain Predictions

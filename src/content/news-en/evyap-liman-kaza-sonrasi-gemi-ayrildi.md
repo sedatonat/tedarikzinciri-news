@@ -2,6 +2,7 @@
 title: YM Witness Container Ship Departs Evyap Port After Accident
 subtitle: YM Witness Container Ship Departs Evyap Port After Accident
 date: '2024-03-31T09:00:00Z'
+sourceUrl: https://www.denizhaber.com/evyapi-yikan-konteyner-gemisi-sonundarihtimdan-ayrilabildi
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c688d376fa7f4dfab7404bbaa61a750b~mv2.jpg
 imageAlt: YM Witness Container Ship Departs Evyap Port After Accident

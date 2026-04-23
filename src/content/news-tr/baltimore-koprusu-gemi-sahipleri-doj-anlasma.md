@@ -2,6 +2,7 @@
 title: Baltimore'da Köprü Çarpışmasına Karışan Geminin Sahipleri DOJ ile 102 Milyon Dolarlık Anlaşma Yaptı
 subtitle: Baltimore'da Köprü Çarpışmasına Karışan Geminin Sahipleri DOJ ile 102 Milyon Dolarlık Anlaşma Yaptı
 date: '2024-10-28T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/doj-settlement-dali-key-bridge/731071/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e9eafba5b9a04a7cba4092b8f4082e62~mv2.jpg
 imageAlt: Baltimore'da Köprü Çarpışmasına Karışan Geminin Sahipleri DOJ ile 102 Milyon Dolarlık Anlaşma Yaptı

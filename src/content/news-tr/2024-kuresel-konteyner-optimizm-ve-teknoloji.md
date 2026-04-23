@@ -2,6 +2,7 @@
 title: 2024 Yılında Küresel Konteyner Taşımacılığında Optimizm ve Teknolojiye Yatırım Artıyor
 subtitle: 2024 Yılında Küresel Konteyner Taşımacılığında Optimizm ve Teknolojiye Yatırım Artıyor
 date: '2024-01-01T09:00:00Z'
+sourceUrl: https://www.scmr.com/article/global-container-shipping-industry-sets-sights-on-tech-investment-capacity
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_454603779ee64e489325aefd5066402d~mv2.jpg
 imageAlt: 2024 Yılında Küresel Konteyner Taşımacılığında Optimizm ve Teknolojiye Yatırım Artıyor

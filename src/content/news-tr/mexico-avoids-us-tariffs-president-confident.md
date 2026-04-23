@@ -2,6 +2,7 @@
 title: Meksika Başkanı, ABD Tarifelerinden Kaçınma Konusunda Güven Duyuyor
 subtitle: Meksika Başkanı, ABD Tarifelerinden Kaçınma Konusunda Güven Duyuyor
 date: '2024-11-30T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40753-mexicos-president-says-shes-sure-country-can-avoid-us-tariffs
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_124b2ee5fd5e4b3598cc4b72a9fa51dc~mv2.jpg
 imageAlt: Meksika Başkanı, ABD Tarifelerinden Kaçınma Konusunda Güven Duyuyor

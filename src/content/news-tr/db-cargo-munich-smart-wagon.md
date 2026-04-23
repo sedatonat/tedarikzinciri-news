@@ -2,6 +2,7 @@
 title: DB Cargo, Münih Kuzey’de Yük Vagonları İçin 360 Derece Yapay Zekâ Tabanlı Denetim Sistemini Test Ediyor
 subtitle: DB Cargo, Münih Kuzey’de Yük Vagonları İçin 360 Derece Yapay Zekâ Tabanlı Denetim Sistemini Test Ediyor
 date: '2025-12-10T09:00:00Z'
+sourceUrl: https://www.railfreight.com/technology/2025/12/10/db-cargo-tests-underfloor-sensors-for-improved-wagon-inspections/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_fd6d1c5ef668467d9355b71d27620588~mv2.jpg
 imageAlt: DB Cargo’nun Münih Kuzey manevra sahasında devreye aldığı, vagon altı görüntüleme, ses analizi ve yapay zekâ entegrasyonuna dayalı otomatik denetim pilotunun teknik yapısı, hedefleri ve “Akıllı Yük Vagonu” vizyonundaki rolünün detaylı özeti

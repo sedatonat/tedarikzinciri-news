@@ -2,6 +2,7 @@
 title: Yeni CEO ile Körber Tedarik Zinciri Yazılım İşini Güçlendiriyor
 subtitle: Yeni CEO ile Körber Tedarik Zinciri Yazılım İşini Güçlendiriyor
 date: '2024-06-13T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10414-korber-hires-blue-yonder-exec-to-lead-supply-chain-software-business
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_ab164a5ffc1344909439bf0e54374c47~mv2.png
 imageAlt: Yeni CEO ile Körber Tedarik Zinciri Yazılım İşini Güçlendiriyor

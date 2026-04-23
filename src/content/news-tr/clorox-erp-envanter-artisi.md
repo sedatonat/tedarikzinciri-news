@@ -2,6 +2,7 @@
 title: Clorox, ERP Geçişinin Yol Açtığı Stok Artışını Başarıyla Toparladı
 subtitle: Clorox, ERP Geçişinin Yol Açtığı Stok Artışını Başarıyla Toparladı
 date: '2025-11-19T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/clorox-recovers-erp-inventory-increase/805740/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_468de4cecdfc41e5961f18764f074f56~mv2.jpg
 imageAlt: Clorox, ABD tedarik zincirini yeni bir ERP sistemine taşırken yaşanan geçici aksaklıkları önlemek için perakendecilerdeki stok seviyesini 1,5 hafta artırmıştı. Şirket, geçiş kaynaklı stok dengesizliklerini tamamen toparladığını ve yılın geri kalanı için maddi bir risk görmediğini açıkladı.

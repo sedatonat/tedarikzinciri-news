@@ -2,6 +2,7 @@
 title: Türkiye, İlk İntermodal Terminali Railport’u Hizmete Aldı
 subtitle: Türkiye, İlk İntermodal Terminali Railport’u Hizmete Aldı
 date: '2025-12-11T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/turkiye-launches-first-intermodal-terminal-railport/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6f1e6f4f18bc4fa4a03d60215c87c961~mv2.jpg
 imageAlt: Türkiye’nin ilk intermodal terminali Railport’un Kartepe’de faaliyete başlaması, duisport–Arkas ortaklığı, Marmara ve Orta Koridor bağlantıları ile Türkiye’nin Avrupa–Asya lojistik köprüsü rolüne etkilerinin detaylı özeti

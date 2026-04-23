@@ -2,6 +2,7 @@
 title: '2025 Denizcilik Güvenliği Yeniden Tanımlanıyor: Korsanlıktan Uzaktan Savaşa Geçiş'
 subtitle: '2025 Denizcilik Güvenliği Yeniden Tanımlanıyor: Korsanlıktan Uzaktan Savaşa Geçiş'
 date: '2025-12-01T09:00:00Z'
+sourceUrl: https://container-news.com/threat-for-container-shipping-how-drones-are-redefining-maritime-security/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_20fa6e3313384fac9410906c213f5b3a~mv2.jpg
 imageAlt: 2025’te deniz taşımacılığını etkileyen yeni tehdit modelinin—dronlarla yapılan uzaktan saldırılar, swarm taktikleri, liman güvenlik açıkları ve büyük hatların Red Sea geri dönüşünü ertelemesinin arka planı—üzerine detaylı haber özeti

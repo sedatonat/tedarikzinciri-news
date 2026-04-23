@@ -2,6 +2,7 @@
 title: 'Türkiye''nin İlk Kıyı Elektriği Sağlayan Limanı: Asyaport'
 subtitle: 'Türkiye''nin İlk Kıyı Elektriği Sağlayan Limanı: Asyaport'
 date: '2024-10-30T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/asyaport-first-to-offer-ops-in-turkiye/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_500c3a536f9c490baad3a3354fec98af~mv2.jpg
 imageAlt: 'Türkiye''nin İlk Kıyı Elektriği Sağlayan Limanı: Asyaport'

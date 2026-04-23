@@ -2,6 +2,7 @@
 title: Ocean Alliance Strengthens Leadership in Global Container Shipping After 2025 Restructuring
 subtitle: Ocean Alliance Strengthens Leadership in Global Container Shipping After 2025 Restructuring
 date: '2025-10-16T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/ocean-alliance-cements-lead-after-2025-restructuring/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8c863f83b51c4849bb18ae108ec1d0ff~mv2.jpg
 imageAlt: Ocean Alliance Strengthens Leadership in Global Container Shipping After 2025 Restructuring

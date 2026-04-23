@@ -2,6 +2,7 @@
 title: Is Manufacturing Coming Back to the US? The Reality of Reshoring, Obstacles, and a New Model
 subtitle: Is Manufacturing Coming Back to the US? The Reality of Reshoring, Obstacles, and a New Model
 date: '2025-10-31T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/tariffs-reshoring-institute-women-in-manufacturing-session/803265/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_7b34918722dc448dbc08d8399a345d03~mv2.jpg
 imageAlt: Rosemary Coates, Director of the Reshoring Institute, emphasizes that while a partial transformation in US manufacturing efforts is possible due to workforce skill gaps, inadequate infrastructure, high costs, and insufficient factory capacity, it will be limited. The real opportunity lies in sophisticated, automation-heavy manufacturing.

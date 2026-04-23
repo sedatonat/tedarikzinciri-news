@@ -2,6 +2,7 @@
 title: TSMC Races to Meet Soaring Demand
 subtitle: TSMC Races to Meet Soaring Demand
 date: '2025-07-17T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42172-tsmc-races-to-meet-soaring-chip-demand-as-profits-surge
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_514b25fa7e4d42f88f5753d3cdd14a1e~mv2.png
 imageAlt: TSMC Races to Meet Soaring Demand

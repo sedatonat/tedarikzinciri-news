@@ -2,6 +2,7 @@
 title: Trump's China Trade Crackdown Sparks Shipping Chaos and Price Hikes
 subtitle: Trump's China Trade Crackdown Sparks Shipping Chaos and Price Hikes
 date: '2025-02-09T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41180-trumps-china-trade-crackdown-sparks-shipping-chaos-price-hikes
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_432800174fb94ad7ad6fb558b2afed99~mv2.jpg
 imageAlt: Trump's China Trade Crackdown Sparks Shipping Chaos and Price Hikes

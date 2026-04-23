@@ -2,6 +2,7 @@
 title: 'Yeni Gemilerden Daha Temiz: 11–15 Yaş Arası Konteyner Gemileri Emisyonlarda En İyi Performansı Gösteriyor'
 subtitle: 'Yeni Gemilerden Daha Temiz: 11–15 Yaş Arası Konteyner Gemileri Emisyonlarda En İyi Performansı Gösteriyor'
 date: '2025-11-11T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/older-container-ships-running-cleaner-than-new-fleets
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a1ccce3c31924461b0110b058b1608c6~mv2.jpg
 imageAlt: VesselBot’un 73.000+ seferlik analizine göre, 11–15 yaşındaki konteyner gemileri, rota seçimi, yükleme ve hız optimizasyonu sayesinde yeni filolardan daha düşük emisyon üretiyor; büyük ve tam yüklü gemiler küçük gemilere kıyasla çok daha verimli.

@@ -2,6 +2,7 @@
 title: Project44, Nakliye Yazılımına Elektronik Konşimento (eBOL) İmkanı Ekliyor
 subtitle: Project44, Nakliye Yazılımına Elektronik Konşimento (eBOL) İmkanı Ekliyor
 date: '2024-07-03T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10525-project44-adds-electronic-bill-of-lading-capability-to-its-freight-software
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_5554ffa5fcbf45e8a65c96925126c8de~mv2.png
 imageAlt: Project44, Nakliye Yazılımına Elektronik Konşimento (eBOL) İmkanı Ekliyor

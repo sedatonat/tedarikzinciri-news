@@ -2,6 +2,7 @@
 title: Hapag-Lloyd, GSBN Altyapısı Üzerinden Elektronik Konşimento Uygulamasına Geçiyor
 subtitle: Hapag-Lloyd, GSBN Altyapısı Üzerinden Elektronik Konşimento Uygulamasına Geçiyor
 date: '2024-04-25T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/hapag-lloyd-to-utilise-iqax-ebl-via-gsbn/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6c2feeb8fcf14ce88b6d6bc6f4735337~mv2.jpg
 imageAlt: Hapag-Lloyd, GSBN Altyapısı Üzerinden Elektronik Konşimento Uygulamasına Geçiyor

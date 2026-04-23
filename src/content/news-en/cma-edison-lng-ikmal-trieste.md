@@ -2,6 +2,7 @@
 title: CMA CGM and Edison Complete Italy's First LNG Ship-to-Ship Bunkering in Trieste
 subtitle: CMA CGM and Edison Complete Italy's First LNG Ship-to-Ship Bunkering in Trieste
 date: '2025-11-13T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384441/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3bcbe330f590455e902b3a514b3cf376~mv2.jpg
 imageAlt: CMA CGM SALAMANQUE, the first container vessel to receive LNG via ship-to-ship bunkering at Trieste Port, was serviced by Ravenna Knutsen; the operation represents a significant milestone in the development of Italy's LNG bunkering infrastructure.

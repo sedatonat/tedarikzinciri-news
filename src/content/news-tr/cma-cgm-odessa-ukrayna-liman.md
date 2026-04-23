@@ -2,6 +2,7 @@
 title: CMA CGM, Odesa Limanı’na Geri Dönmeye Hazırlanıyor
 subtitle: CMA CGM, Odesa Limanı’na Geri Dönmeye Hazırlanıyor
 date: '2024-12-24T09:00:00Z'
+sourceUrl: https://splash247.com/cma-cgm-ships-set-to-call-odesa/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8326630044564ee0ac1877bc6958171e~mv2.jpg
 imageAlt: CMA CGM, Odesa Limanı’na Geri Dönmeye Hazırlanıyor

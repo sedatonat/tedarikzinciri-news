@@ -2,6 +2,7 @@
 title: COSCO, Newcastlemax Filosunu Büyütüyor
 subtitle: COSCO, Newcastlemax Filosunu Büyütüyor
 date: '2024-12-23T09:00:00Z'
+sourceUrl: https://splash247.com/cosco-continues-bulker-fleet-expansion-with-newcastlemax-series/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1c5fde16d3a14734b632d9e1d385b9a6~mv2.jpg
 imageAlt: COSCO, Newcastlemax Filosunu Büyütüyor

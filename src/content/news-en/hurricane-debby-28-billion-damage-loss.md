@@ -2,6 +2,7 @@
 title: 'Hurricane Debby: $28 Billion in Damage and Economic Loss'
 subtitle: 'Hurricane Debby: $28 Billion in Damage and Economic Loss'
 date: '2024-08-12T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10715-hurricane-debby-caused-28-billion-in-damage-and-economic-loss
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_ccd722f2fdb94fc4966e6f7a980a7540~mv2.png
 imageAlt: 'Hurricane Debby: $28 Billion in Damage and Economic Loss'

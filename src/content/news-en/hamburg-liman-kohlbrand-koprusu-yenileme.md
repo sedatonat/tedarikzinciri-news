@@ -2,6 +2,7 @@
 title: 'Hamburg Port''s Future: Renewal of the Köhlbrand Bridge'
 subtitle: 'Hamburg Port''s Future: Renewal of the Köhlbrand Bridge'
 date: '2024-04-04T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/hamburg-senate-advocates-for-kohlbrand-bridge-replacement/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8ca8045bbbde47deae05f043a603d0ec~mv2.jpg
 imageAlt: 'Hamburg Port''s Future: Renewal of the Köhlbrand Bridge'

@@ -2,6 +2,7 @@
 title: 'Trump, “Tiny Car” Üretimine Onay Verdi: Talep Belirsizliği Otomotivde Soru İşareti Yaratıyor'
 subtitle: 'Trump, “Tiny Car” Üretimine Onay Verdi: Talep Belirsizliği Otomotivde Soru İşareti Yaratıyor'
 date: '2025-12-09T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/trump-approves-tiny-cars-us-manufacturing
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_a9ef39c0d1c741f39458e0e8f1462f50~mv2.jpg
 imageAlt: Trump yönetiminin ABD’de küçük ölçekli “tiny car” araçların üretimine yeşil ışık yakması, Japon kei car modelinden esinlenen yaklaşım, regülasyon belirsizlikleri ve otomotiv üreticilerinin temkinli tutumunun detaylı özeti

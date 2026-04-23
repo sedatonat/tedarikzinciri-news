@@ -2,6 +2,7 @@
 title: 'Reshoring: Fundamental Shifts in Manufacturing After the Pandemic'
 subtitle: 'Reshoring: Fundamental Shifts in Manufacturing After the Pandemic'
 date: '2024-05-10T09:00:00Z'
+sourceUrl: https://www.scmr.com/article/a-reshoring-history-lesson
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_af4a39ed286d419b91843b80b646b9fb~mv2.jpg
 imageAlt: 'Reshoring: Fundamental Shifts in Manufacturing After the Pandemic'

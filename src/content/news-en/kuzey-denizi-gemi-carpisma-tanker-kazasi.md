@@ -2,6 +2,7 @@
 title: Oil Spill Following Ship Collision in North Sea
 subtitle: Oil Spill Following Ship Collision in North Sea
 date: '2025-03-10T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/oil-spill-in-north-sea-following-vessel-collision/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e754aded26dc436a8e874fedc92f6af6~mv2.jpg
 imageAlt: Oil Spill Following Ship Collision in North Sea

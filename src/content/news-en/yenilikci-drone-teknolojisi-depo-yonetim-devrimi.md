@@ -2,6 +2,7 @@
 title: Revolutionary Drone Technology Transforms Warehouse Management
 subtitle: Revolutionary Drone Technology Transforms Warehouse Management
 date: '2024-02-21T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/39130-anyline-launches-autonomous-drone-barcode-scanning-technology
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_f9585c64396f4b7f9fbec22f606e2a79~mv2.png
 imageAlt: Revolutionary Drone Technology Transforms Warehouse Management

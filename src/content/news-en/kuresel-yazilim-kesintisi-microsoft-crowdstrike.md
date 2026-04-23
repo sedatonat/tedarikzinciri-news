@@ -2,6 +2,7 @@
 title: 'Global Software Outage: Microsoft and CrowdStrike System Failure Rattles the World'
 subtitle: 'Global Software Outage: Microsoft and CrowdStrike System Failure Rattles the World'
 date: '2024-07-19T09:00:00Z'
+sourceUrl: https://www.haber7.com/teknoloji/haber/3443330-son-dakika-dunya-genelinde-yazilim-sorunu-yasaniyor-bircok-sektorde-islemler-durdu
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_d50fc4f9997040a393020249fd3e467e~mv2.jpg
 imageAlt: 'Global Software Outage: Microsoft and CrowdStrike System Failure Rattles the World'

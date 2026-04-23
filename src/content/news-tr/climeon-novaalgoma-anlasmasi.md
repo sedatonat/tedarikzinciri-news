@@ -2,6 +2,7 @@
 title: Climeon ve NovaAlgoma, Çimento Taşıyıcısında Isı Geri Kazanım Sistemi Kuruyor
 subtitle: Climeon ve NovaAlgoma, Çimento Taşıyıcısında Isı Geri Kazanım Sistemi Kuruyor
 date: '2024-12-09T09:00:00Z'
+sourceUrl: https://gcaptain.com/climeon-signs-order-with-novaalgoma-for-heatpower-300-installation-on-groundbreaking-cement-carrier/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_e048c27b8fc44190b76892091e0ef2bd~mv2.jpg
 imageAlt: Climeon ve NovaAlgoma, Çimento Taşıyıcısında Isı Geri Kazanım Sistemi Kuruyor

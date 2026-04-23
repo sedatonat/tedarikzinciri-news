@@ -2,6 +2,7 @@
 title: C.H. Robinson, Yapay Zekâ Destekli “Agentic Supply Chain” ile Lojistikte Yeni Bir Dönem Başlattı
 subtitle: C.H. Robinson, Yapay Zekâ Destekli “Agentic Supply Chain” ile Lojistikte Yeni Bir Dönem Başlattı
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/c.h_robinson_launches_agentic_supply_chain_ushering_in_a_new_era_of_ai_driven_logistics_intelligence
 category: Teknoloji
 image: https://static.wixstatic.com/media/nsplsh_e75c298a94764892bc13f014d6ff0676~mv2.jpg
 imageAlt: C.H. Robinson, “Agentic Supply Chain” adını verdiği yapay zekâ tabanlı ekosistemle küresel lojistik yönetiminde gerçek zamanlı karar alma, kendi kendini optimize eden operasyonlar ve Lean AI yaklaşımını birleştirerek sektörde yeni bir standart belirledi.

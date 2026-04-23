@@ -2,6 +2,7 @@
 title: 2023'te ABD'de Sıfır Emisyonlu Kamyon Kullanımında Büyük Artış
 subtitle: 2023'te ABD'de Sıfır Emisyonlu Kamyon Kullanımında Büyük Artış
 date: '2024-05-21T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10299-cargo-vans-led-burst-of-deployments-of-zero-emission-trucks-in-2023
 category: Lojistik
 image: https://static.wixstatic.com/media/11062b_41884d0c6bbb4a6d8f1fdb654f93670b~mv2.jpg
 imageAlt: 2023'te ABD'de Sıfır Emisyonlu Kamyon Kullanımında Büyük Artış

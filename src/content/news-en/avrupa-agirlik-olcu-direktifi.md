@@ -2,6 +2,7 @@
 title: Europe's Weights and Dimensions Directive Threatens Intermodal Transportation
 subtitle: Europe's Weights and Dimensions Directive Threatens Intermodal Transportation
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://www.railfreight.com/policy/2025/10/30/weights-and-dimensions-directive-endangers-intermodal-developments/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2dc52c5658e84ea9a89f98deca1ea596~mv2.jpg
 imageAlt: Under Europe's Weights and Dimensions Directive (WDD), plans to introduce larger trucks under the European Modular System (EMS) have drawn criticism from 16 European logistics and rail associations. The organizations argue that this will undermine railroad investments and set back intermodal transportation.

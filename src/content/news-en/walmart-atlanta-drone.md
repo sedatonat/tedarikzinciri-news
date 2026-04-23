@@ -2,6 +2,7 @@
 title: 'Walmart Launches Drone Deliveries in Atlanta: Last-Mile Transformation Accelerating in Retail'
 subtitle: 'Walmart Launches Drone Deliveries in Atlanta: Last-Mile Transformation Accelerating in Retail'
 date: '2025-12-11T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42980-walmart-launches-drone-deliveries-in-atlanta
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_980a1be4c8d14000ab96d60eb641e374~mv2.jpg
 imageAlt: Walmart's launch of drone delivery service in the Atlanta metro area through its Wing partnership, featuring sub-five-minute delivery times, city-based scaling strategy, and detailed summary of retail logistics impacts

@@ -2,6 +2,7 @@
 title: 'ABD Hava Trafik Kontrol Sistemi Yenileniyor: Peraton, Çok Milyar Dolarlık Modernizasyonun Lideri Oldu'
 subtitle: 'ABD Hava Trafik Kontrol Sistemi Yenileniyor: Peraton, Çok Milyar Dolarlık Modernizasyonun Lideri Oldu'
 date: '2025-12-05T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42945-us-dot-announces-partner-in-air-traffic-overhaul-plans
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_472cd125371846b6a2d4c83c0f858507~mv2.jpg
 imageAlt: ABD Ulaştırma Bakanlığı ve FAA’in, Peraton’u 12.5 milyar dolarlık ATC modernizasyon projesinin yürütücüsü olarak seçmesi ve 3 yıllık hava trafik kontrol altyapı dönüşümünün kapsamına dair detaylı haber özeti

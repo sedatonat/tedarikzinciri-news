@@ -2,6 +2,7 @@
 title: Worker health takes a back seat at Amazon facilities, according to University of Illinois study
 subtitle: Worker health takes a back seat at Amazon facilities, according to University of Illinois study
 date: '2023-10-27T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/38371-amazon-injuries-more-widespread-than-thought-study-says
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_20bdc0623e88456caa44e19cbc4a5072~mv2.jpg
 imageAlt: ''

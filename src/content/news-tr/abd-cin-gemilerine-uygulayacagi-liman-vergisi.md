@@ -2,6 +2,7 @@
 title: 'ABD''nin Çin Gemilerine Uygulayacağı Liman Vergisi Bazı Rotaları Sürdürülemez Hale Getiriyor: MSC CEO''su Toft''in Görüşleri'
 subtitle: 'ABD''nin Çin Gemilerine Uygulayacağı Liman Vergisi Bazı Rotaları Sürdürülemez Hale Getiriyor: MSC CEO''su Toft''in Görüşleri'
 date: '2025-03-03T09:00:00Z'
+sourceUrl: https://www.joc.com/article/tpm25-port-tax-on-chinese-ships-will-make-some-routes-unviable-mscs-toft-5954640
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_03c31bb7e77341208db52798c90bbb67~mv2.jpg
 imageAlt: 'ABD''nin Çin Gemilerine Uygulayacağı Liman Vergisi Bazı Rotaları Sürdürülemez Hale Getiriyor: MSC CEO''su Toft''in Görüşleri'

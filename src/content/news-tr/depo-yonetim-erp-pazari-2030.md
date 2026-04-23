@@ -2,6 +2,7 @@
 title: Depo Yönetim Sistemleri Pazarı 2030'da 10 Milyar Dolara Ulaşacak
 subtitle: Depo Yönetim Sistemleri Pazarı 2030'da 10 Milyar Dolara Ulaşacak
 date: '2025-02-24T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/warehouse-software-market-10-billion-2030-abi-research
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_a9b020aac2e04c05b2101c977f410a2d~mv2.jpg
 imageAlt: Depo Yönetim Sistemleri Pazarı 2030'da 10 Milyar Dolara Ulaşacak

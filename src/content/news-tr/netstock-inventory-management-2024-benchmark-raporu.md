@@ -2,6 +2,7 @@
 title: Netstock'ın 2024 Envanter Yönetimi Raporu KOBİ'lere Yol Gösteriyor
 subtitle: Netstock'ın 2024 Envanter Yönetimi Raporu KOBİ'lere Yol Gösteriyor
 date: '2024-10-18T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40514-global-inventory-trends-and-challenges-shaping-smbs
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_e831974233c4439abab8d50302337f9d~mv2.jpg
 imageAlt: Netstock'ın 2024 Envanter Yönetimi Raporu KOBİ'lere Yol Gösteriyor

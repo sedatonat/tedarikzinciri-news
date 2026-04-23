@@ -2,6 +2,7 @@
 title: Biden Administration Announces $3 Billion Green Investment in U.S. Ports
 subtitle: Biden Administration Announces $3 Billion Green Investment in U.S. Ports
 date: '2024-10-30T09:00:00Z'
+sourceUrl: https://www.scdigest.com/ontarget/24-10-30_biden_port_funding.php?cid=21636
 category: Lojistik
 image: https://static.wixstatic.com/media/11062b_3e26c21e64ae48a1b02ff442ab562bcf~mv2_d_3991_2661_s_4_2.jpg
 imageAlt: Biden Administration Announces $3 Billion Green Investment in U.S. Ports

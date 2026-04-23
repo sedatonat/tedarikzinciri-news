@@ -2,6 +2,7 @@
 title: 'New FSB Rules at Russian Ports Driving Delays: Ship Owners Forced to Prepare for Intense Regulatory Pressure'
 subtitle: 'New FSB Rules at Russian Ports Driving Delays: Ship Owners Forced to Prepare for Intense Regulatory Pressure'
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://splash247.com/fsb-clearance-and-underwater-checks-slow-russian-port-calls/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e744f4d7123a41abad645b21b84c6df6~mv2.jpg
 imageAlt: Detailed summary of Russia's FSB port-entry regime in effect since November 25, covering 48–53 hour delay risks, mandatory underwater inspections, rising war-risk insurance premiums, and impacts of the Black Sea security environment on supply chains

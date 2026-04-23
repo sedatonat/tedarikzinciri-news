@@ -2,6 +2,7 @@
 title: New Secure Release Process at German Ports
 subtitle: New Secure Release Process at German Ports
 date: '2024-04-26T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/german-ports-to-introduce-new-import-solution/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_338363c370624da5906f9722ec382d26~mv2.jpg
 imageAlt: New Secure Release Process at German Ports

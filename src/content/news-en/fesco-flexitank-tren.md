@@ -2,6 +2,7 @@
 title: FESCO Launches First 40' Flexitank Block Train to China
 subtitle: FESCO Launches First 40' Flexitank Block Train to China
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/11/26/en-fesco-launches-first-40-flexitank-block-train-to-china/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c63538d41ddd48c2a7828223eb4cf7a9~mv2.jpg
 imageAlt: FESCO's first 40' flexitank block train dispatched from Omsk to China, carrying 62 containers of rapeseed oil, transiting through Kazakhstan and featuring the company's new flexitank model—detailed news summary

@@ -2,6 +2,7 @@
 title: Uber Freight and Better Trucks Join Forces to Expand Last-Mile Capacity and Technology
 subtitle: Uber Freight and Better Trucks Join Forces to Expand Last-Mile Capacity and Technology
 date: '2025-11-13T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/uber-freight-better-trucks-investment-stake-partnership/805331/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_b80cc07072854722ad97d231343c2917~mv2.jpg
 imageAlt: Uber Freight invested as a minority shareholder in Better Trucks, establishing an expanded partnership supporting mutual delivery volume sharing between the two companies, shared technology utilization, and goals to achieve last-mile coverage reaching up to 85% of the United States.

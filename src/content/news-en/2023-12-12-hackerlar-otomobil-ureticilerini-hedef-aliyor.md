@@ -2,6 +2,7 @@
 title: Hackers Target Third-Party Suppliers in Automakers' Supply Chains
 subtitle: Hackers Target Third-Party Suppliers in Automakers' Supply Chains
 date: '2023-12-12T09:00:00Z'
+sourceUrl: https://www.supplychainquarterly.com/articles/9261-report-hackers-target-third-party-suppliers-in-automakers-supply-chains
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_2114144feda349f8a70c91363e107a4e~mv2.jpeg
 imageAlt: Hackers Target Third-Party Suppliers in Automakers' Supply Chains

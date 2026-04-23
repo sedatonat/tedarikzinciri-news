@@ -2,6 +2,7 @@
 title: Konteyner Hatlarının 2025'te Karlılığı Sürdürmesi Bekleniyor
 subtitle: Konteyner Hatlarının 2025'te Karlılığı Sürdürmesi Bekleniyor
 date: '2024-12-27T09:00:00Z'
+sourceUrl: https://www.joc.com/article/continued-volatility-to-keep-container-line-profits-on-course-in-2025-5911923
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_ac4cce78292d4be48b69c5810be5f15d~mv2.jpg
 imageAlt: Konteyner Hatlarının 2025'te Karlılığı Sürdürmesi Bekleniyor

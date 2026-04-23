@@ -2,6 +2,7 @@
 title: International Segment Drives Intermodal Volume Growth
 subtitle: International Segment Drives Intermodal Volume Growth
 date: '2024-07-30T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10645-intermodal-volumes-buoyed-by-international-segment
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b6199be628a941839de68494eecc022f~mv2.png
 imageAlt: International Segment Drives Intermodal Volume Growth

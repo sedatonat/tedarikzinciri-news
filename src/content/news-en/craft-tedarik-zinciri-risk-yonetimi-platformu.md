@@ -2,6 +2,7 @@
 title: Managing Supply Chain Risks with Craft Just Got Easier
 subtitle: Managing Supply Chain Risks with Craft Just Got Easier
 date: '2024-05-08T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/39661-introducing-the-craft-supplier-risk-management-platform
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_c5f43e7e93444e8bbac0095cc96bd9cb~mv2.jpg
 imageAlt: Managing Supply Chain Risks with Craft Just Got Easier

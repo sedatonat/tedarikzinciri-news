@@ -2,6 +2,7 @@
 title: 'NTSB: Single Loose Cable Caused Dali''s Francis Scott Key Bridge Collision'
 subtitle: 'NTSB: Single Loose Cable Caused Dali''s Francis Scott Key Bridge Collision'
 date: '2025-11-18T09:00:00Z'
+sourceUrl: https://gcaptain.com/single-loose-wire-caused-dalis-catastrophic-bridge-strike-ntsb-concludes/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c3fcbbf658014c5e87bc2d1f79d99529~mv2.jpg
 imageAlt: The NTSB determined that the power outage leading to the container ship Dali's collision with the Francis Scott Key Bridge in 2024 was caused by a single loose signal cable that did not fully seat in the terminal block.

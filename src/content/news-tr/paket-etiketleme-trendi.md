@@ -2,6 +2,7 @@
 title: Tedarik Zinciri Liderlerinin İzlemesi Gereken Dört Paket Etiketleme Trendi
 subtitle: Tedarik Zinciri Liderlerinin İzlemesi Gereken Dört Paket Etiketleme Trendi
 date: '2025-10-20T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/four-package-labeling-trends-supply-chain-leaders-should-watch
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_2b4c2b4d5c3b433cbdfa3669d0dd1f1b~mv2.jpg
 imageAlt: Tedarik Zinciri Liderlerinin İzlemesi Gereken Dört Paket Etiketleme Trendi

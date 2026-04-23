@@ -2,6 +2,7 @@
 title: Wärtsilä, Denizcilikte Karbonsuzlaştırma İçin 'TwinShip' Projesine Katılıyor
 subtitle: Wärtsilä, Denizcilikte Karbonsuzlaştırma İçin 'TwinShip' Projesine Katılıyor
 date: '2024-10-29T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/wartsila-joins-twinship-data-project/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d1d98be8b0fb468bb900811284c02b2b~mv2.jpg
 imageAlt: Wärtsilä, Denizcilikte Karbonsuzlaştırma İçin 'TwinShip' Projesine Katılıyor

@@ -2,6 +2,7 @@
 title: Airbus Launches Broad Investigation into A320 Series Panel Quality Issues
 subtitle: Airbus Launches Broad Investigation into A320 Series Panel Quality Issues
 date: '2025-12-01T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42916-airbus-says-quality-lapses-on-a320-panels-need-inspection
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_cc17f1e6d68846bbad7c1e1853026c05~mv2.jpg
 imageAlt: Detailed news summary on investigations launched by Airbus due to quality issues in A320 fuselage panels, covering delivery targets, investor impacts, and processes following software problems

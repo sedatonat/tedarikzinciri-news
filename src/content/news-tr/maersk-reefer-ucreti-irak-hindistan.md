@@ -2,6 +2,7 @@
 title: Maersk, Hindistan'dan Irak'a Soğutuculu Konteyner Ek Ücretini Revize Etti
 subtitle: Maersk, Hindistan'dan Irak'a Soğutuculu Konteyner Ek Ücretini Revize Etti
 date: '2025-01-10T09:00:00Z'
+sourceUrl: https://container-news.com/maersk-revises-reefer-surcharge-from-india-to-iraq/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2dbaed1b6f4d4a8593c3ccad06dfbba5~mv2.jpg
 imageAlt: Maersk, Hindistan'dan Irak'a Soğutuculu Konteyner Ek Ücretini Revize Etti

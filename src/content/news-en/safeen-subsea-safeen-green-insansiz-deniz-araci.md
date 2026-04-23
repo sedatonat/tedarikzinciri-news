@@ -2,6 +2,7 @@
 title: 'SAFEEN Subsea Launches Eco-Friendly Unmanned Vessel: ''SAFEEN Green'''
 subtitle: 'SAFEEN Subsea Launches Eco-Friendly Unmanned Vessel: ''SAFEEN Green'''
 date: '2024-10-30T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/ad-ports-launches-unmanned-vessel-for-offshore-operations/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4f603231626646a496eab606b020520a~mv2.jpg
 imageAlt: SAFEEN Green, an eco-friendly unmanned surface vessel from SAFEEN Subsea

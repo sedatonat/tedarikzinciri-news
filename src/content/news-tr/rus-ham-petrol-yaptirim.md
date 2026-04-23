@@ -2,6 +2,7 @@
 title: Rus Petrolüne Yönelik Yeni Yaptırımlar
 subtitle: Rus Petrolüne Yönelik Yeni Yaptırımlar
 date: '2025-10-23T09:00:00Z'
+sourceUrl: https://splash247.com/trump-hits-rosneft-and-lukoil-with-sanctions/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f8814f43deb840ba8031e523cf40d4e1~mv2.jpg
 imageAlt: Rus Petrolüne Yönelik Yeni Yaptırımlar

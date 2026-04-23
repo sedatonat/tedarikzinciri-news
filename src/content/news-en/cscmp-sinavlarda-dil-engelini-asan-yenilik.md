@@ -2,6 +2,7 @@
 title: 'CSCMP''s Exam Innovation: Breaking Language Barriers with Instant Translation'
 subtitle: 'CSCMP''s Exam Innovation: Breaking Language Barriers with Instant Translation'
 date: '2024-07-01T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10456-cscmp-launches-instant-translate-feature-for-scpro-exams
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_eafa8eafdfa44ecda2d3ffe7c1b124a2~mv2.png
 imageAlt: 'CSCMP''s Exam Innovation: Breaking Language Barriers with Instant Translation'

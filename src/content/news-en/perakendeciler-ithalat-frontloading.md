@@ -2,6 +2,7 @@
 title: Retailers Accelerate Imports Ahead of Tariffs
 subtitle: Retailers Accelerate Imports Ahead of Tariffs
 date: '2025-03-10T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/loaded-import-volume-forecast-national-retail-federation-tariffs-trump/742071/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_525692a42a9f4060aa967f5f63802843~mv2.jpg
 imageAlt: Retailers Accelerate Imports Ahead of Tariffs

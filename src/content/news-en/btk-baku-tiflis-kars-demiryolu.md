@@ -2,6 +2,7 @@
 title: Georgia Unveils Plans for New Terminal and Digital Customs to Strengthen BTC Railway Line
 subtitle: Georgia Unveils Plans for New Terminal and Digital Customs to Strengthen BTC Railway Line
 date: '2025-10-23T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/10/23/georgia-unveils-big-plans-for-btk-upgrade/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a498628229014d198011ae2a7467696b~mv2.jpg
 imageAlt: Georgia Unveils Plans for New Terminal and Digital Customs to Strengthen BTC Railway Line

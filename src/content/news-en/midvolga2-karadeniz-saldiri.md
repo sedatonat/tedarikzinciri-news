@@ -2,6 +2,7 @@
 title: Russian-Flagged MIDVOLGA-2 Tanker Reports Attack off Turkish Coast; Crew Safe
 subtitle: Russian-Flagged MIDVOLGA-2 Tanker Reports Attack off Turkish Coast; Crew Safe
 date: '2025-12-02T09:00:00Z'
+sourceUrl: https://www.reuters.com/business/aerospace-defense/russian-flagged-tanker-reports-attack-off-turkey-coast-maritime-body-says-2025-12-02/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_83225039282149589aa32a6ff9fae2d1~mv2.jpeg
 imageAlt: The Russian-flagged MIDVOLGA-2 tanker's attack report 80 nautical miles off Turkey's coast, the vessel's status, regional security context, and detailed news summary regarding escalating risks in the Black Sea

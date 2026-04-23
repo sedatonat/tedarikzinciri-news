@@ -2,6 +2,7 @@
 title: Ust-Luga Container Terminal Expands Fertilizer Handling Capacity
 subtitle: Ust-Luga Container Terminal Expands Fertilizer Handling Capacity
 date: '2024-11-12T09:00:00Z'
+sourceUrl: https://www.globalports.com/en/news-and-media/press-releases-and-news/20241112/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4abd2ac2e47d4ee299b0bfe760c189ac~mv2.jpg
 imageAlt: Ust-Luga Container Terminal Expands Fertilizer Handling Capacity

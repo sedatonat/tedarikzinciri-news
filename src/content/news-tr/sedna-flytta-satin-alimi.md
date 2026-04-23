@@ -2,6 +2,7 @@
 title: Sedna, Flytta'yı Satın Aldı
 subtitle: Sedna, Flytta'yı Satın Aldı
 date: '2025-03-04T09:00:00Z'
+sourceUrl: https://splash247.com/sedna-buys-workflow-automation-platform-flytta/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_6ebd413680444286a9310436f28affd6~mv2.jpg
 imageAlt: Sedna, Flytta'yı Satın Aldı

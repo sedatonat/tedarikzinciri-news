@@ -2,6 +2,7 @@
 title: Suez Canal Traffic and Revenues Expected to Fully Normalize by End of 2026
 subtitle: Suez Canal Traffic and Revenues Expected to Fully Normalize by End of 2026
 date: '2025-11-27T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385071/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c4c1e02a45e74090903ad52517f99eed~mv2.jpg
 imageAlt: Suez Canal Authority's statement on revenues and vessel traffic returning to full normality by end of 2026, Maersk's return, incentives, transit data and regional stability impacts comprehensive overview

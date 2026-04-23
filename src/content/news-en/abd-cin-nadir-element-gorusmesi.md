@@ -2,6 +2,7 @@
 title: US and China Agree on Temporary Ceasefire Over Rare Earths and Tariffs
 subtitle: US and China Agree on Temporary Ceasefire Over Rare Earths and Tariffs
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://gcaptain.com/us-china-talks-sketch-out-rare-earths-tariff-pause-for-trump-and-xi-to-consider/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_1fef2bac644244db947a9ca1a87a1099~mv2.jpg
 imageAlt: During talks held at the ASEAN Summit in Kuala Lumpur, US and Chinese delegations reached a framework agreement on rare earth element exports and customs tariffs. The agreement is expected to be approved at a meeting between Trump and Xi in South Korea.

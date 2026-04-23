@@ -2,6 +2,7 @@
 title: Vize Engeli, Türkiye'nin Dış Ticaret ve Lojistik Sektörünü Nasıl Tehdit Ediyor?
 subtitle: Vize Engeli, Türkiye'nin Dış Ticaret ve Lojistik Sektörünü Nasıl Tehdit Ediyor?
 date: '2024-04-05T09:00:00Z'
+sourceUrl: https://www.lojiport.com/vize-sorunu-turkiyenin-dis-ticaretini-tehdit-ediyor-116402h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b31cfafeca374acba5523e42f145d350~mv2.jpg
 imageAlt: Vize Engeli, Türkiye'nin Dış Ticaret ve Lojistik Sektörünü Nasıl Tehdit Ediyor?

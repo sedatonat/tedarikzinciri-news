@@ -2,6 +2,7 @@
 title: Fashion Brands End Sourcing from Ancient and Endangered Forests
 subtitle: Fashion Brands End Sourcing from Ancient and Endangered Forests
 date: '2025-11-25T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42901-fashion-brands-collaborate-to-end-sourcing-from-climate-critical-forests
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_c448b4086a974f138a956ae7f1a77480~mv2.jpg
 imageAlt: A detailed overview of the new global collaboration created by fashion brands to cease sourcing from ancient and endangered forests, addressing risks in MMCF and packaging supply chains, the transition planned to protect climate-critical forests, and the sector-wide implications.

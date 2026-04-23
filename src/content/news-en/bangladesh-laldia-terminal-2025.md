@@ -2,6 +2,7 @@
 title: Bangladesh Formally Approves 550 Million Dollar Laldia Terminal Concession Agreement
 subtitle: Bangladesh Formally Approves 550 Million Dollar Laldia Terminal Concession Agreement
 date: '2025-11-17T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/bangladesh-confirms-550-million-laldia-terminal-project/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_bf43403df6de4c9ebfaed3fda1d0a5cd~mv2.jpg
 imageAlt: Bangladesh has signed a 550 million dollar PPP agreement with APM Terminals and QNS Container Services for the Laldia Container Terminal in Chattogram, opening the way for a low-emission deep-water terminal that will increase the country's annual capacity by 800,000 TEU, accommodate vessels up to 6,000 TEU, and become operational by 2030.

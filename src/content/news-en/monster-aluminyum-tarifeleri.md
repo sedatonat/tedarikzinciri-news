@@ -2,6 +2,7 @@
 title: Monster Expects "Modest Impact" From Rising Aluminum Tariffs
 subtitle: Monster Expects "Modest Impact" From Rising Aluminum Tariffs
 date: '2025-11-20T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/monster-faces-modest-tariff-impact-from-aluminum-costs/806002/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_f6fbdd2cd3df44d3881b9b929207ff29~mv2.jpg
 imageAlt: Monster Beverage disclosed that can costs are rising due to elevated Midwest aluminum premiums driven by Section 232 tariffs on imported aluminum; the company is implementing mitigation strategies to keep impacts at "modest" levels.

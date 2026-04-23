@@ -2,6 +2,7 @@
 title: Software Glitch Causes Disruptions at South Carolina Ports
 subtitle: Software Glitch Causes Disruptions at South Carolina Ports
 date: '2024-05-21T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/sc-ports-to-resume-ops-after-software-issue/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c8f33f98e75642e8bda123851323db17~mv2.jpg
 imageAlt: Software Glitch Causes Disruptions at South Carolina Ports

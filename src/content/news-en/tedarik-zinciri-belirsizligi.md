@@ -2,6 +2,7 @@
 title: Global Trade Slows as Companies Pause Orders
 subtitle: Global Trade Slows as Companies Pause Orders
 date: '2025-04-10T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41520-trump-is-already-slowing-global-trade-as-companies-pause-orders
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_d218058b113241d19787d1c840dceea1~mv2.png
 imageAlt: Global Trade Slows as Companies Pause Orders

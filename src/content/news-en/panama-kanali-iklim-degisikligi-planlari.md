@@ -2,6 +2,7 @@
 title: Threatened by Climate Change, Panama Canal Pushes Ambitious Plans to Combat Drought
 subtitle: Threatened by Climate Change, Panama Canal Pushes Ambitious Plans to Combat Drought
 date: '2024-12-02T09:00:00Z'
+sourceUrl: https://gcaptain.com/threatened-by-climate-change-panama-canal-has-big-plans-to-deal-with-drought/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_db230b7415a041098674ca689b4a2de8~mv2.jpg
 imageAlt: Threatened by Climate Change, Panama Canal Pushes Ambitious Plans to Combat Drought

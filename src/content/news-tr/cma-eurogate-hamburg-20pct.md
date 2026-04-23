@@ -2,6 +2,7 @@
 title: CMA CGM, Hamburg’daki EUROGATE Terminalinde %20 Hisse Alarak Intermodal Ağını Güçlendiriyor
 subtitle: CMA CGM, Hamburg’daki EUROGATE Terminalinde %20 Hisse Alarak Intermodal Ağını Güçlendiriyor
 date: '2025-11-17T09:00:00Z'
+sourceUrl: https://www.railfreight.com/business/2025/11/17/cma-cgm-to-acquire-stake-in-eurogate-terminal-in-hamburg/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0a399391c9fb498790a5dae32df48867~mv2.jpg
 imageAlt: CMA CGM, EUROGATE Container Terminal Hamburg (CTH)’de %20 hisse alarak terminal kapasitesinin 4 milyon TEU’dan 6 milyon TEU’ya çıkarılacağı Western Expansion projesine ortak oldu; şirket bu adımla dikey entegre lojistik stratejisini daha da derinleştiriyor.

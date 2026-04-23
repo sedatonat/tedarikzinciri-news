@@ -2,6 +2,7 @@
 title: 'Danimarka, iPort Zealand ile 2029 Fehmarnbelt Çağına Hazırlanıyor: 1 Milyar Avroluk Mega Lojistik Yatırım'
 subtitle: 'Danimarka, iPort Zealand ile 2029 Fehmarnbelt Çağına Hazırlanıyor: 1 Milyar Avroluk Mega Lojistik Yatırım'
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://www.railfreight.com/intermodal/2025/12/08/denmark-gets-ready-for-fehmarnbelt-tunnel-with-1-bn-euros-mega-hub/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6c582ae038ce4556b76bcd857ee0b2a4~mv2.jpg
 imageAlt: iPort Zealand’ın 1 milyar avroluk yatırımla Ringsted’de kurulması, 720 kamyonluk trafiği raylara kaydıracak kapasitesi, Fehmarnbelt tüneli açılışıyla oluşacak Kuzey Avrupa lojistik dönüşümü ve intermodal stratejinin detaylı özeti

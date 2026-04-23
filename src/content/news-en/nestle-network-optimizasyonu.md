@@ -2,6 +2,7 @@
 title: Nestlé Balances Cost, Resilience and Sustainability Through Distribution Network Optimization
 subtitle: Nestlé Balances Cost, Resilience and Sustainability Through Distribution Network Optimization
 date: '2025-10-07T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/move/store/nestle-shares-process-for-optimizing-distribution-network
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_b680461280114ce1a498cb419f717f77~mv2.jpg
 imageAlt: Nestlé Balances Cost, Resilience and Sustainability Through Distribution Network Optimization

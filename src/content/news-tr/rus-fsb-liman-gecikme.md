@@ -2,6 +2,7 @@
 title: 'American Club: Rus Limanlarına Girişte Yeni FSB Kuralları Gemiler İçin Ciddi Gecikme Riski Yaratıyor'
 subtitle: 'American Club: Rus Limanlarına Girişte Yeni FSB Kuralları Gemiler İçin Ciddi Gecikme Riski Yaratıyor'
 date: '2025-12-06T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385463/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_99e4e9bd30c0485cb2c80a9b5ab42f32~mv2.jpg
 imageAlt: Rusya’nın 25 Kasım 2025’te yürürlüğe giren yeni FSB liman giriş kurallarının gemi sahipleri için 48–53 saate varan gecikmelere, maliyet artışlarına ve operasyonel belirsizliğe yol açabileceğine dair American Club uyarısının detaylı özeti

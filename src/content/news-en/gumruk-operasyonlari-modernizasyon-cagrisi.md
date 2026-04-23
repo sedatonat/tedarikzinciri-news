@@ -2,6 +2,7 @@
 title: EU and Industry Call for Customs Operations Modernization
 subtitle: EU and Industry Call for Customs Operations Modernization
 date: '2025-01-24T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/372702/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_803f213a8be24c31b0d57adab823a1cc~mv2.jpg
 imageAlt: EU and Industry Call for Customs Operations Modernization

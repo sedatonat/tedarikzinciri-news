@@ -2,6 +2,7 @@
 title: CMA CGM Launches Asia–Indian Subcontinent Service
 subtitle: CMA CGM Launches Asia–Indian Subcontinent Service
 date: '2023-11-28T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/cma-cgm-introduces-asia-indian-subcontinent-service/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7e466861bebd48e386e9d16970e34e98~mv2.png
 imageAlt: CMA CGM Launches Asia–Indian Subcontinent Service

@@ -2,6 +2,7 @@
 title: ZIM Line’ın Gemi Trafiği Malezya'da Yasaklandı
 subtitle: ZIM Line’ın Gemi Trafiği Malezya'da Yasaklandı
 date: '2023-12-25T09:00:00Z'
+sourceUrl: https://container-news.com/zim-ships-banned-from-malaysia-as-gaza-war-drags-on/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_bd67f47cf87049d49e2b5c3a4b0a9a9f~mv2.jpg
 imageAlt: ZIM Line’ın Gemi Trafiği Malezya'da Yasaklandı

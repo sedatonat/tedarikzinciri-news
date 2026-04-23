@@ -2,6 +2,7 @@
 title: 'Türkiye''nin Lojistik Haritası Yeniden Çiziliyor: 2053 Vizyonu'
 subtitle: 'Türkiye''nin Lojistik Haritası Yeniden Çiziliyor: 2053 Vizyonu'
 date: '2024-02-29T09:00:00Z'
+sourceUrl: https://www.lojiport.com/lojistik-merkez-sayisi-2-katina-cikacak-demiryolunun-payi-artacak-116272h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_9a10dbaf57914f80acea28d26ba75c2f~mv2.jpg
 imageAlt: 'Türkiye''nin Lojistik Haritası Yeniden Çiziliyor: 2053 Vizyonu'

@@ -2,6 +2,7 @@
 title: 'Tren Hırsızlığı: Üç Hafta Bekleyen Araç Yüklü Tren Yağmalandı'
 subtitle: 'Tren Hırsızlığı: Üç Hafta Bekleyen Araç Yüklü Tren Yağmalandı'
 date: '2025-01-10T09:00:00Z'
+sourceUrl: https://www.railfreight.com/railfreight/2025/01/10/thieves-raid-train-with-cars-idling-for-three-weeks/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d91fb4a224ad44c8aad0dd48e9baaa4c~mv2.jpg
 imageAlt: 'Tren Hırsızlığı: 3 Hafta Bekleyen Araç Yüklü Tren Yağmalandı'

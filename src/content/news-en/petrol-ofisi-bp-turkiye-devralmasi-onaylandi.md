@@ -2,6 +2,7 @@
 title: 'Petrol Ofisi''s Acquisition of BP Turkey Approved: A New Era Begins in the Sector'
 subtitle: 'Petrol Ofisi''s Acquisition of BP Turkey Approved: A New Era Begins in the Sector'
 date: '2024-09-13T09:00:00Z'
+sourceUrl: https://www.lojiport.com/petrol-ofisinin-bp-turkiyeyi-devralmasi-onaylandi-117046h.htm
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_4a46e1b79c3c43cfb19f0825982d4470~mv2.jpg
 imageAlt: 'Petrol Ofisi''s Acquisition of BP Turkey Approved: A New Era Begins in the Sector'

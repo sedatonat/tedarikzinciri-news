@@ -2,6 +2,7 @@
 title: DHL Invests $90 Million to Relocate Manhattan Operations to Jersey City
 subtitle: DHL Invests $90 Million to Relocate Manhattan Operations to Jersey City
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/dhl-expands-nyc-network-with-new-jersey-city-facility
 category: Lojistik
 image: https://static.wixstatic.com/media/563916d42dce4dc3a6da1d427d33658c.jpg
 imageAlt: DHL Express has announced a $90 million investment plan to double its capacity in the New York region and accelerate delivery speeds. The company will relocate its Manhattan service center to a new 92,505 square-meter facility in Jersey City by November 2025.

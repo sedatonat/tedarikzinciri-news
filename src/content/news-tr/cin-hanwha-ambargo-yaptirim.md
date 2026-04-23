@@ -2,6 +2,7 @@
 title: Çin, Artan Ticaret Gerilimleri Ortasında Hanwha’nın ABD Bağlantılı Şirketlerine Yaptırım Uyguluyor
 subtitle: Çin, Artan Ticaret Gerilimleri Ortasında Hanwha’nın ABD Bağlantılı Şirketlerine Yaptırım Uyguluyor
 date: '2025-10-16T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/china-sanctions-hanwha-units-amid-rising-trade-tensions/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_faf3a8d7a2cd46d58dc2e117679597fa~mv2.jpg
 imageAlt: Çin, Artan Ticaret Gerilimleri Ortasında Hanwha’nın ABD Bağlantılı Şirketlerine Yaptırım Uygulamakta

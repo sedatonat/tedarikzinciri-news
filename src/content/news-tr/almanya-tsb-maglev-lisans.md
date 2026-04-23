@@ -2,6 +2,7 @@
 title: 'Almanya, TSB Manyetik Trenine İlk İşletme Lisansını Verdi: “Transrapid Travması” Resmen Aşıldı'
 subtitle: 'Almanya, TSB Manyetik Trenine İlk İşletme Lisansını Verdi: “Transrapid Travması” Resmen Aşıldı'
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://www.railfreight.com/technology/2025/12/08/germany-issues-first-magnetic-levitation-train-license-in-europe/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_0192fe0c668342b4abcbd391ea3303b4~mv2.jpg
 imageAlt: EBA’nın Transport System Bögl (TSB) maglev hattına yolcu taşımacılığı için işletme lisansı vermesi, Transrapid sonrası Avrupa’daki ilk ticari maglev onayı, teknik özellikler ve potansiyel Nürnberg pilot hattının detaylı özeti

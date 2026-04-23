@@ -2,6 +2,7 @@
 title: Ukrayna Demiryolları, Alstom’dan 55 Yeni Lokomotif Satın Alıyor
 subtitle: Ukrayna Demiryolları, Alstom’dan 55 Yeni Lokomotif Satın Alıyor
 date: '2025-11-17T09:00:00Z'
+sourceUrl: https://www.railfreight.com/business/2025/11/17/ukrainian-railways-acquires-55-much-needed-new-locomotives-from-alstom/
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_399b79804be54419b92843f9712a5a0a~mv2.jpg
 imageAlt: Ukrayna Demiryolları, Alstom’dan 55 Yeni Lokomotif Satın Alıyor

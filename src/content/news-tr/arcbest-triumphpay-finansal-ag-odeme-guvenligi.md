@@ -2,6 +2,7 @@
 title: ArcBest, TriumphPay Ağına Katılarak Ödeme Güvenliğini Artırıyor
 subtitle: ArcBest, TriumphPay Ağına Katılarak Ödeme Güvenliğini Artırıyor
 date: '2024-08-06T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10683-freight-broker-arcbest-joins-triumphpay-financial-network
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_40df264e82704e32a8637ec5df6aa916~mv2.jpg
 imageAlt: ArcBest, TriumphPay Ağına Katılarak Ödeme Güvenliğini Artırıyor

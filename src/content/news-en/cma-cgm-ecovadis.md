@@ -2,6 +2,7 @@
 title: CMA CGM Enters Top 3% of EcoVadis Sustainability Assessment Globally
 subtitle: CMA CGM Enters Top 3% of EcoVadis Sustainability Assessment Globally
 date: '2025-10-16T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/cma-cgm-earns-top-3-per-cent-ecovadis-sustainability-rating/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_46f21a48bec646edb9d72ecd010afa24~mv2.jpg
 imageAlt: CMA CGM Enters Top 3% of EcoVadis Sustainability Assessment Globally

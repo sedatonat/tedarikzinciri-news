@@ -2,6 +2,7 @@
 title: ABD’de Kamyon Yük Talebi Zirve Sezonunda Sert Düştü
 subtitle: ABD’de Kamyon Yük Talebi Zirve Sezonunda Sert Düştü
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42881-trucking-freight-demand-falls-off-as-peak-season-weakens
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_563af23d84f442b0ba002005b38e1189~mv2.jpg
 imageAlt: ABD’de kamyon taşımacılığı talebi, Nisan–Ekim 2025 arasında yaklaşık %33 gerileyerek tatil öncesi zirve sezonuna rağmen ciddi bir yavaşlama gösterdi. Tarife baskıları, fazla kapasite ve yüksek stok seviyeleri sektörün görünümünü zayıflatıyor.

@@ -2,6 +2,7 @@
 title: 'Reuters: China''s "Shadow Civilian Navy" Conducts Drills for Taiwan Invasion'
 subtitle: 'Reuters: China''s "Shadow Civilian Navy" Conducts Drills for Taiwan Invasion'
 date: '2025-11-20T09:00:00Z'
+sourceUrl: https://gcaptain.com/reuters-investigation-reveals-chinas-civilian-shadow-navy-practices-for-invasion-of-taiwan/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_d1aa9a0bc7ac460990680664773ca970~mv2.jpg
 imageAlt: Reuters investigation reveals China is conducting drills using civilian ferries and cargo ships for a potential amphibious landing on Taiwan; satellite imagery shows the vessels conducting beach landings.

@@ -2,6 +2,7 @@
 title: 2025 - 2028 Dönemi İçin Küresel İmalat Sektöründe Güçlü Toparlanma Beklentisi
 subtitle: 2025 - 2028 Dönemi İçin Küresel İmalat Sektöründe Güçlü Toparlanma Beklentisi
 date: '2024-05-29T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10329-after-sluggish-2024-global-manufacturing-could-see-strong-2025-2028
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_4bd0857a47af40688b9e070edaa58dd3~mv2.jpeg
 imageAlt: 2025 - 2028 Dönemi İçin Küresel İmalat Sektöründe Güçlü Toparlanma Beklentisi

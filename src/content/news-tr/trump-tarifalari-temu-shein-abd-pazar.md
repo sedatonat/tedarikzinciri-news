@@ -2,6 +2,7 @@
 title: Trump Tarifalarının Temu ve Shein’in ABD Pazarındaki Geleceğini Etkileyip Etkilemeyeceği
 subtitle: Trump Tarifalarının Temu ve Shein’in ABD Pazarındaki Geleceğini Etkileyip Etkilemeyeceği
 date: '2024-11-27T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40738-will-trump-tariffs-spell-the-end-of-temu-shein-in-the-us
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_b476443684d046b88a47986d02c95fa8~mv2.jpg
 imageAlt: Trump Tarifalarının Temu ve Shein’in ABD Pazarındaki Geleceğini Etkileyip Etkilemeyeceği

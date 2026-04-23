@@ -2,6 +2,7 @@
 title: ABD’nin Rosneft ve Lukoil’e Yaptırımlarının Ardından Petrol Fiyatları %5 Arttı
 subtitle: ABD’nin Rosneft ve Lukoil’e Yaptırımlarının Ardından Petrol Fiyatları %5 Arttı
 date: '2025-10-23T09:00:00Z'
+sourceUrl: https://gcaptain.com/oil-surges-after-u-s-sanctions-on-russias-rosneft-and-lukoil/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_d67635ac7ac14ed8bf1bcd5bb050944e~mv2.jpg
 imageAlt: ABD’nin Rosneft ve Lukoil’e Yaptırımlarının Ardından Petrol Fiyatları %5 Arttı

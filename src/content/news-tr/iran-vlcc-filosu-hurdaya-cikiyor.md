@@ -2,6 +2,7 @@
 title: İran'a Bağlı VLCC Filosu Hurdaya Çıkmaya Hazırlanıyor
 subtitle: İran'a Bağlı VLCC Filosu Hurdaya Çıkmaya Hazırlanıyor
 date: '2024-12-06T09:00:00Z'
+sourceUrl: https://splash247.com/shadow-vlccs-lined-up-for-demolition/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c6b39a65d5b343369ea29b0b977b336b~mv2.jpg
 imageAlt: İran'a Bağlı VLCC Filosu Hurdaya çıkmak için hazırlanıyor

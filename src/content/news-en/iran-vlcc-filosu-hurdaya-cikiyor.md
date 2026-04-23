@@ -2,6 +2,7 @@
 title: Iran-Linked VLCC Fleet Prepared for Scrapping
 subtitle: Iran-Linked VLCC Fleet Prepared for Scrapping
 date: '2024-12-06T09:00:00Z'
+sourceUrl: https://splash247.com/shadow-vlccs-lined-up-for-demolition/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c6b39a65d5b343369ea29b0b977b336b~mv2.jpg
 imageAlt: Iran-linked VLCC fleet being prepared for scrapping

@@ -2,6 +2,7 @@
 title: Bulgaria and North Macedonia Sign Official Agreement for First Railway Border Crossing
 subtitle: Bulgaria and North Macedonia Sign Official Agreement for First Railway Border Crossing
 date: '2025-11-10T09:00:00Z'
+sourceUrl: https://www.railfreight.com/infrastructure/2025/11/10/bulgaria-and-north-macedonia-sign-official-agreement-for-first-railway-border-crossing/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_95da2acf22474e87b56cfc30885ab24d~mv2.jpeg
 imageAlt: Bulgaria and North Macedonia have signed an agreement to create the first railway border crossing in history between the two countries by constructing a railway tunnel that will pass beneath the Deve Bair mountain; the project marks a critical step in completing Corridor VIII.

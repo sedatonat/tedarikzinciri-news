@@ -2,6 +2,7 @@
 title: Gıda Tedarik Zincirinde Akıllı Etiketlerin Rolü
 subtitle: Gıda Tedarik Zincirinde Akıllı Etiketlerin Rolü
 date: '2025-01-10T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/smart-label-tracks-food-giesecke-devrient/736608/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_4740d6265a4149d7aef1dc0747eb27fd~mv2.jpg
 imageAlt: Gıda Tedarik Zincirinde Akıllı Etiketlerin Rolü

@@ -2,6 +2,7 @@
 title: Data Sharing Critical to Preventing Future Port Congestion
 subtitle: Data Sharing Critical to Preventing Future Port Congestion
 date: '2025-12-15T09:00:00Z'
+sourceUrl: https://www.joc.com/article/more-data-sharing-crucial-to-avoiding-future-port-congestion-officials-6135162
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e460b63b418c4aa0be3adb7c46fcd976~mv2.jpg
 imageAlt: A comprehensive industry overview examining why data sharing collaboration between carriers and supply chain stakeholders has become critical in preventing a repeat of the 2021–22 congestion period at U.S. container ports

@@ -2,6 +2,7 @@
 title: Daimler Truck Seeks Partner for Autonomous Unit Torc
 subtitle: Daimler Truck Seeks Partner for Autonomous Unit Torc
 date: '2025-09-05T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42443-daimler-truck-said-to-seek-partner-for-self-driving-unit-torc
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_fd5e977d02564f479926a0118d56bcb1~mv2.png
 imageAlt: Daimler Truck Seeks Partner for Autonomous Unit Torc

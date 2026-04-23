@@ -2,6 +2,7 @@
 title: 'İran–Türkiye Arasında 200 km’lik “Southern Silk Road” Hattı: Orta Koridor Rekabetinde Yeni Hamle'
 subtitle: 'İran–Türkiye Arasında 200 km’lik “Southern Silk Road” Hattı: Orta Koridor Rekabetinde Yeni Hamle'
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/11/26/iran-plans-new-railway-for-china-europe-traffic/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_dcfb5ef4c0eb46c58d5263825d6db0ff~mv2.jpg
 imageAlt: İran’ın Türkiye sınırında 1,6 milyar dolarlık yeni demir yolu ile Orta Koridoru dengelemeye çalışması, Türkiye’nin KIAD hattı ile koordinasyonu ve Çin–Avrupa lojistiğinde ortaya çıkan yeni jeopolitik rotanın detayları

@@ -2,6 +2,7 @@
 title: Rusya’nın ‘Gölge Filosu’ Kuzey Deniz Rotasında Erken Buzlarla Mücadele Ediyor
 subtitle: Rusya’nın ‘Gölge Filosu’ Kuzey Deniz Rotasında Erken Buzlarla Mücadele Ediyor
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://gcaptain.com/russia-pushes-shadow-fleet-to-limit-as-lng-carrier-struggles-through-early-arctic-ice-on-northern-sea-route/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_6873dc5f3c464bdc9b7f395b26837045~mv2.jpg
 imageAlt: Russia’nın Buran adlı gölge filo LNG tankerinin Kuzey Deniz Rotası’nda erken kış buzlarıyla mücadele ederek ilerleyememesi ve bunun Rusya’nın Arktik LNG ihracatı için yarattığı riskleri anlatan detaylı özet.

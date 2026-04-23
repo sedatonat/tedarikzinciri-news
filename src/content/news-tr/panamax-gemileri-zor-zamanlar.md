@@ -2,6 +2,7 @@
 title: 'Panamax Gemileri İçin Zor Zamanlar: Çin''in Tahıl İthalatı %51 Azaldı'
 subtitle: 'Panamax Gemileri İçin Zor Zamanlar: Çin''in Tahıl İthalatı %51 Azaldı'
 date: '2025-01-28T09:00:00Z'
+sourceUrl: https://gcaptain.com/panamax-pain-as-chinas-grain-imports-plunge-51/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_0698a5424a3c4c8dbc06cdec29275c7e~mv2.jpg
 imageAlt: 'Panamax Gemileri İçin Zor Zamanlar: Çin''in Tahıl İthalatı %51 Azaldı'

@@ -2,6 +2,7 @@
 title: Major Step Forward in Sustainable Rail Transport Between Europe and Turkey
 subtitle: Major Step Forward in Sustainable Rail Transport Between Europe and Turkey
 date: '2024-02-27T09:00:00Z'
+sourceUrl: https://www.lojistikhatti.com/haber/2024/02/hodlmayr-avrupa-ile-turkiye-arasinda-demiryolu-tasimasini-surekli-hale-getiriyor
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a6dfc1d707c24d6d97c19abd8f1882da~mv2.jpeg
 imageAlt: Major Step Forward in Sustainable Rail Transport Between Europe and Turkey

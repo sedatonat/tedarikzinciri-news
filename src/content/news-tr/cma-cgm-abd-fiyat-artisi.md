@@ -2,6 +2,7 @@
 title: CMA CGM ABD Sevkiyatları İçin Fiyatları Artırıyor
 subtitle: CMA CGM ABD Sevkiyatları İçin Fiyatları Artırıyor
 date: '2025-01-15T09:00:00Z'
+sourceUrl: https://container-news.com/cma-cgm-increases-rates-for-us-shipments/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d1ca241e862247cb8265f46c2e8c5a2a~mv2.jpg
 imageAlt: CMA CGM ABD Sevkiyatları İçin Fiyatları Artırıyor

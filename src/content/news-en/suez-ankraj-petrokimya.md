@@ -2,6 +2,7 @@
 title: Suez Canal Authority and Anchorage Investments Sign $2 Billion Petrochemical Complex Agreement
 subtitle: Suez Canal Authority and Anchorage Investments Sign $2 Billion Petrochemical Complex Agreement
 date: '2025-10-24T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/383698/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c74ff5d762db4840b25e9fdf55c40569~mv2.jpg
 imageAlt: The Suez Canal Authority (SCA) has signed a strategic partnership agreement with Anchorage Investments to develop a $2 billion petrochemical complex in the Ain Sokhna region. The project aims to increase Egypt's foreign exchange earnings and create more than 2,500 jobs.

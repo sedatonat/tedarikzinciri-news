@@ -2,6 +2,7 @@
 title: 'Epicor’un Yeni Özel Sermaye Sahibi: CVC'
 subtitle: 'Epicor’un Yeni Özel Sermaye Sahibi: CVC'
 date: '2024-08-13T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10719-epicor-gains-new-private-equity-owner
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_db8b99ab732a4dd29733080a4558422e~mv2.png
 imageAlt: 'Epicor’un Yeni Özel Sermaye Sahibi: CVC'

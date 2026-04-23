@@ -2,6 +2,7 @@
 title: Top Universities for Supply Chain Education
 subtitle: Top Universities for Supply Chain Education
 date: '2024-07-17T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10579-gartner-ranks-best-colleges-for-studying-supply-chain
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_91802d91c6fb4674a16bfcae7af36260~mv2.jpeg
 imageAlt: Top Universities for Supply Chain Education

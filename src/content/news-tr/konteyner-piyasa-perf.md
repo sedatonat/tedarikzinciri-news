@@ -2,6 +2,7 @@
 title: 'Konteyner Piyasasında Haftalık Performans: Eğilimler, Kazançlar ve Kayıplar'
 subtitle: 'Konteyner Piyasasında Haftalık Performans: Eğilimler, Kazançlar ve Kayıplar'
 date: '2025-03-14T09:00:00Z'
+sourceUrl: https://container-news.com/container-market-weekly-performance/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1eea0ff23c974500b2cdce5c1ce2b9eb~mv2.jpg
 imageAlt: 'Konteyner Piyasasında Haftalık Performans: Eğilimler, Kazançlar ve Kayıplar'

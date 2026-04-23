@@ -2,6 +2,7 @@
 title: Amazon Sellers Grapple with Capacity Constraints
 subtitle: Amazon Sellers Grapple with Capacity Constraints
 date: '2024-11-07T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/amazon-inbound-fulfillment-AWD-capacity-issues/732189/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_c5932e14e4614039aa1afabad43105e2~mv2.jpg
 imageAlt: Amazon Sellers Grapple with Capacity Constraints

@@ -2,6 +2,7 @@
 title: Middle Corridor Positioning Turkey as a Strategic Logistics Hub in Europe–Asia Trade
 subtitle: Middle Corridor Positioning Turkey as a Strategic Logistics Hub in Europe–Asia Trade
 date: '2025-12-11T09:00:00Z'
+sourceUrl: https://ekonomi.haber7.com/ekonomi/haber/3587123-rusyayi-by-pass-eden-plan-turkiye-orta-koridor-ile-ticarette-oyunu-yeniden-kuruyor
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8700a83eea574bac8d28131623536b42~mv2.jpg
 imageAlt: The Trans-Caspian Middle Corridor's geo-economic role bypassing Russia, Turkey's strengthened transit position through expanded Railport and Ro-Ro capacity, detailed news summary of changing regional architecture through the Zangezur Corridor and TRIPP initiatives

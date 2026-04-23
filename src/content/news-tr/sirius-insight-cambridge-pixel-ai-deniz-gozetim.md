@@ -2,6 +2,7 @@
 title: Sirius Insight ve Cambridge Pixel, AI Destekli Deniz Gözetim Çözümü İçin İş Birliği Yapıyor
 subtitle: Sirius Insight ve Cambridge Pixel, AI Destekli Deniz Gözetim Çözümü İçin İş Birliği Yapıyor
 date: '2024-10-25T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/sirius-insight-cambridge-pixel-launch-ai-maritime-surveillance-solution/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f8c7fd76b45b4aeebbc72147c365ba1a~mv2.jpg
 imageAlt: Sirius Insight ve Cambridge Pixel, AI Destekli Deniz Gözetim Çözümü İçin İş Birliği Yapıyor

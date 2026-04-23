@@ -2,6 +2,7 @@
 title: OceanPal, Yapay Zekâ ve Blockchain Alanına Giriş Yaparak SovereignAI’yi Kurdu
 subtitle: OceanPal, Yapay Zekâ ve Blockchain Alanına Giriş Yaparak SovereignAI’yi Kurdu
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://splash247.com/oceanpal-charts-new-course-into-ai-and-crypto-infrastructure/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_f71cbecdffd743f4981f8f9cb4fefce7~mv2.jpeg
 imageAlt: Yunan denizcilik şirketi OceanPal, geleneksel taşımacılıktan çıkarak yapay zekâ ve blockchain odaklı SovereignAI adlı yeni bir dijital iştirak kurdu. NEAR Foundation ortaklığıyla geliştirilen proje, NVIDIA teknolojisiyle desteklenen gizlilik odaklı AI bulut altyapısı oluşturmayı hedefliyor.

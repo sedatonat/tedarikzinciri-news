@@ -2,6 +2,7 @@
 title: 'Europe''s Rail Freight Crisis: Sector''s Pleas for Help Go Unheard'
 subtitle: 'Europe''s Rail Freight Crisis: Sector''s Pleas for Help Go Unheard'
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.railfreight.com/in-depth/2025/11/03/is-europe-failing-at-rail-freight/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d917004caa9d413392bd7aaf0ceb6469~mv2.jpg
 imageAlt: Europe's rail freight sector is approaching a breaking point due to financial pressures, operational disruptions, and political indifference. Sector representatives are concerned about stalled reforms due to insufficient EU support and the prioritization of national interests over Europe's rail objectives.

@@ -2,6 +2,7 @@
 title: 'ABB''s 2024 Generations Publication: Expanding Horizons'
 subtitle: 'ABB''s 2024 Generations Publication: Expanding Horizons'
 date: '2024-12-17T09:00:00Z'
+sourceUrl: https://gcaptain.com/abb-releases-2024-edition-of-generations-expanding-horizons/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2946375ba56744a5818e0caef036f9e7~mv2.jpg
 imageAlt: 'ABB''s 2024 Generations Publication: Expanding Horizons'

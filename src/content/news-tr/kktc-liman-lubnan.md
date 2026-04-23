@@ -2,6 +2,7 @@
 title: KKTC, Güney Kıbrıs Rum Yönetimi ile Lübnan Arasındaki Deniz Sınırı Anlaşmasına İtiraz Etti
 subtitle: KKTC, Güney Kıbrıs Rum Yönetimi ile Lübnan Arasındaki Deniz Sınırı Anlaşmasına İtiraz Etti
 date: '2025-11-27T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385083/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_35e0dc955c844f0683c622a4027ef892~mv2.jpg
 wixId: a8fa4aaf-c42b-4e87-aa2f-e1e3098966c7

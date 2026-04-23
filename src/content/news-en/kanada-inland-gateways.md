@@ -2,6 +2,7 @@
 title: Canada Strengthens Supply Chain with New Inland Gateway Strategy
 subtitle: Canada Strengthens Supply Chain with New Inland Gateway Strategy
 date: '2025-11-24T09:00:00Z'
+sourceUrl: https://www.joc.com/article/canada-looks-for-new-container-gateways-for-decoupling-from-us-6122714
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_fc6339ea95544844b499e350d6ce328e~mv2.jpg
 imageAlt: A detailed news summary explaining Canada's Corridors Fund program initiatives, including inland port authorizations in the Great Lakes and St. Lawrence corridor, CBSA expansion, customs modernization, and supply chain protection measures against U.S.-sourced trade uncertainty

@@ -2,6 +2,7 @@
 title: 'MS Sørøysund Grounds: 4,000 Liters of Diesel Spills Into Sea'
 subtitle: 'MS Sørøysund Grounds: 4,000 Liters of Diesel Spills Into Sea'
 date: '2025-11-10T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384280/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_eea2a04d7aaa4a7090dd2d321c13413f~mv2.jpg
 imageAlt: The 62-meter landing craft MS Sørøysund ran aground in Tjeldsund; approximately 4,000 liters of diesel spilled into the sea, a 27,000-liter fuel tank is being transferred and emptied, and environmental teams are attempting to contain the spill with barriers.

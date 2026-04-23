@@ -2,6 +2,7 @@
 title: ABD Sahil Güvenlik Siber Güvenlik Kuralı Yürürlükte
 subtitle: ABD Sahil Güvenlik Siber Güvenlik Kuralı Yürürlükte
 date: '2025-07-25T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42222-new-us-coast-guard-cybersecurity-rule-enters-into-force
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_d84bbfe3ded1455796c970cbdb016171~mv2.png
 imageAlt: Abd Sahil Güvenlik Siber Güvenlik Kuralı Yürürlükte

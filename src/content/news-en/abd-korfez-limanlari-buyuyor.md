@@ -2,6 +2,7 @@
 title: U.S. Gulf Coast Ports Expand to Handle Continued Volume Growth
 subtitle: U.S. Gulf Coast Ports Expand to Handle Continued Volume Growth
 date: '2024-12-26T09:00:00Z'
+sourceUrl: https://www.joc.com/article/us-gulf-coast-ports-expanding-to-handle-continued-volume-growth-5911512
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3fa61acaf9fa4443963f49169d2d7345~mv2.jpg
 imageAlt: U.S. Gulf Coast Ports Expand to Handle Continued Volume Growth

@@ -2,6 +2,7 @@
 title: Ermenistan ve Azerbaycan Arasındaki Politik Uzlaşı, Kafkasya’da Yeni Transit Koridorlarını Açıyor
 subtitle: Ermenistan ve Azerbaycan Arasındaki Politik Uzlaşı, Kafkasya’da Yeni Transit Koridorlarını Açıyor
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/10/29/a-political-breakthrough-opens-up-the-caucasus-for-more-freight-transit/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d35f03f3d5b84cadad321b115da48fb3~mv2.jpg
 imageAlt: Ermenistan ve Azerbaycan arasındaki politik uzlaşma, Kafkasya bölgesinde demiryolu ve kara taşımacılığı ağlarını yeniden şekillendiriyor. Uzun yıllar süren kapalı sınırlar ve transit yasağının ardından, bölge artık uluslararası yük taşımacılığına yeniden açılıyor.

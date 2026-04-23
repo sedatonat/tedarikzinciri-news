@@ -2,6 +2,7 @@
 title: 'Measuring Carbon Emissions in the Shipping Sector: A New Era with "Carbon Dashboard"'
 subtitle: 'Measuring Carbon Emissions in the Shipping Sector: A New Era with "Carbon Dashboard"'
 date: '2024-08-16T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10739-carbon-dashboard-lets-shippers-measure-freight-carbon-emissions
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_637800032fe6437892661655198225fe~mv2.png
 imageAlt: 'Measuring Carbon Emissions in the Shipping Sector: A New Era with "Carbon Dashboard"'

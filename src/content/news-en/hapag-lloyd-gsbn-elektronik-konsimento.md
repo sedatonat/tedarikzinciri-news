@@ -2,6 +2,7 @@
 title: Hapag-Lloyd Transitions to Electronic Bill of Lading via GSBN Infrastructure
 subtitle: Hapag-Lloyd Transitions to Electronic Bill of Lading via GSBN Infrastructure
 date: '2024-04-25T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/hapag-lloyd-to-utilise-iqax-ebl-via-gsbn/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6c2feeb8fcf14ce88b6d6bc6f4735337~mv2.jpg
 imageAlt: Hapag-Lloyd transitions to electronic bill of lading via GSBN infrastructure

@@ -2,6 +2,7 @@
 title: 'Two Major Uncertainties for 2026: US Restocking Wave and Return to the Red Sea'
 subtitle: 'Two Major Uncertainties for 2026: US Restocking Wave and Return to the Red Sea'
 date: '2025-11-19T09:00:00Z'
+sourceUrl: https://www.joc.com/article/us-restocking-red-sea-return-the-two-big-unknowns-for-2026-hapag-briefing-6120248
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_422afbe89af644f98ed070ae7cf4aba7~mv2.jpg
 imageAlt: 'Hapag-Lloyd CEO Rolf Habben Jansen emphasizes two critical variables that will shape container shipping in 2026: when a restocking wave will begin in the US and how global routes will be affected by the reopening of Red Sea–Suez passages.'

@@ -2,6 +2,7 @@
 title: Saudi Arabia Pivots to Logistics as Kingdom Reshapes Investment Strategy
 subtitle: Saudi Arabia Pivots to Logistics as Kingdom Reshapes Investment Strategy
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://container-news.com/saudi-arabia-pivots-to-logistics-as-kingdom-reshapes-investment-strategy/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d8a5d280ccd240138d6e72ef68c7be67~mv2.jpg
 imageAlt: Saudi Arabia is shifting its investment focus from real estate megaprojects to maritime and logistics infrastructure due to geopolitical risks in the Red Sea and global supply chain disruptions. The kingdom is prioritizing port, logistics center, and maritime shipping investments under its Vision 2030 objectives.

@@ -2,6 +2,7 @@
 title: MACN, Asya ve Avrupa’da Denizcilik Tedarik Zincirleri İçin Yeni Yolsuzlukla Mücadele Programını Başlattı
 subtitle: MACN, Asya ve Avrupa’da Denizcilik Tedarik Zincirleri İçin Yeni Yolsuzlukla Mücadele Programını Başlattı
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://splash247.com/new-anti-corruption-campaign-rolls-out-across-asian-and-european-hubs/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0c0e4d32d6f243b3b0aa4cd2203f4e3c~mv2.jpg
 imageAlt: Maritime Anti-Corruption Network’ün Siemens Integrity Initiative desteğiyle Endonezya, Malezya ve Almanya’da hayata geçirdiği üç yıllık “Transparent Trade Routes” programının kapsamı, araçları ve denizcilik tedarik zincirlerinde şeffaflık hedeflerinin detaylı özeti

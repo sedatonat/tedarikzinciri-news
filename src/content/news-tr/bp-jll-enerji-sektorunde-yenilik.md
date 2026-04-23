@@ -2,6 +2,7 @@
 title: BP ve JLL İşbirliğiyle Enerji Sektöründe Yeni Bir Dönem Başladı
 subtitle: BP ve JLL İşbirliğiyle Enerji Sektöründe Yeni Bir Dönem Başladı
 date: '2024-11-04T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40615-how-bp-and-jll-are-reinventing-the-strategic-outsourcing-of-real-estate
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_746161d57e4c4cbe8bb63a22b130a14d~mv2.jpg
 imageAlt: BP ve JLL İşbirliğiyle Enerji Sektöründe Yeni Bir Dönem Başladı

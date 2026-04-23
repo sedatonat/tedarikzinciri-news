@@ -2,6 +2,7 @@
 title: ABD “Genesis Mission” ile Yapay Zekâ Destekli Bilimsel Atılım Programını Başlattı
 subtitle: ABD “Genesis Mission” ile Yapay Zekâ Destekli Bilimsel Atılım Programını Başlattı
 date: '2025-11-24T09:00:00Z'
+sourceUrl: https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_f2e8f9355f1c48b49f8b88117384f2f9~mv2.jpg
 imageAlt: ABD’nin 2025 tarihli Genesis Mission Executive Order ile AI destekli bilimsel araştırmaları hızlandırmak için DOE liderliğinde dev bir ulusal platform kurmasını, veri entegrasyonu, HPC altyapısı ve bilimsel meydan okumaları hedefleyen kapsamlı ulusal programın detaylı özeti

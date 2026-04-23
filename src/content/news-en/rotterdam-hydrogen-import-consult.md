@@ -2,6 +2,7 @@
 title: Port of Rotterdam Launches Market Consultation to Accelerate Hydrogen Import Terminals
 subtitle: Port of Rotterdam Launches Market Consultation to Accelerate Hydrogen Import Terminals
 date: '2025-11-11T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384350/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7920f8a457d640cfa5b04018242f1617~mv2.png
 imageAlt: Port of Rotterdam has initiated a market consultation process to accelerate the development of import terminals for hydrogen and hydrogen carriers (ammonia, methanol, LOHC); the aim is to overcome the energy transition's "chicken-and-egg" problem by identifying financial and operational bottlenecks.

@@ -2,6 +2,7 @@
 title: India and Iran Sign 10-Year Agreement for Chabahar Port
 subtitle: India and Iran Sign 10-Year Agreement for Chabahar Port
 date: '2024-05-14T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/india-iran-partner-to-develop-chabahar-port/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_dfaea3d5c82345d6b0638d1e5fdd0556~mv2.jpg
 imageAlt: India and Iran Sign 10-Year Agreement for Chabahar Port

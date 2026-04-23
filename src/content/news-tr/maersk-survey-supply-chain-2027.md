@@ -2,6 +2,7 @@
 title: 'Maersk Anketi: Tedarik Zinciri Liderlerinin Çoğu 2027’ye Kadar Kesintilerin Süreceğini Öngörüyor'
 subtitle: 'Maersk Anketi: Tedarik Zinciri Liderlerinin Çoğu 2027’ye Kadar Kesintilerin Süreceğini Öngörüyor'
 date: '2025-11-11T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384335/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_5ab7bbde0a9547c6a0b723964115ade3~mv2.jpg
 imageAlt: Maersk’in 900+ Avrupa şirketiyle yaptığı ankete göre tedarik zinciri liderlerinin %80’i küresel kesintilerin 2027’ye kadar devam edeceğini, tarifeler, jeopolitik gerilimler ve ticaret politikalarının operasyonları etkilemeye devam edeceğini düşünüyor.

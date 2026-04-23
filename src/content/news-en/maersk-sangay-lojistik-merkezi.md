@@ -2,6 +2,7 @@
 title: Maersk Opens $140 Million Flagship Logistics Center in Shanghai
 subtitle: Maersk Opens $140 Million Flagship Logistics Center in Shanghai
 date: '2025-11-20T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/maersk-opens-140m-flagship-logistics-centre-in-shanghai/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_391718d129434643beeb81e1f3b8d1cf~mv2.jpg
 imageAlt: Maersk opened its new flagship storage and logistics center of 113,000 m² in Shanghai Lin-gang, consolidating 147,000 m² of storage capacity, omnichannel fulfilment services, AEO certification, and an integrated ocean-air-land network under one roof.

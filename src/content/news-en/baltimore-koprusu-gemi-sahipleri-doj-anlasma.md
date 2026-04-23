@@ -2,6 +2,7 @@
 title: 'Baltimore Bridge Collision: Ship Owners Reach $102 Million Settlement with DOJ'
 subtitle: 'Baltimore Bridge Collision: Ship Owners Reach $102 Million Settlement with DOJ'
 date: '2024-10-28T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/doj-settlement-dali-key-bridge/731071/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e9eafba5b9a04a7cba4092b8f4082e62~mv2.jpg
 imageAlt: 'Baltimore Bridge Collision: Ship Owners Reach $102 Million Settlement with DOJ'

@@ -2,6 +2,7 @@
 title: 'Temu and Shein Face Investigation Threats in the US: Forced Labor and Counterfeit Product Allegations in Focus'
 subtitle: 'Temu and Shein Face Investigation Threats in the US: Forced Labor and Counterfeit Product Allegations in Focus'
 date: '2025-12-03T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42926-temu-and-shein-come-under-threat-of-investigations-in-us
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_04c2d8f4963749adba2ea987b9535317~mv2.jpg
 imageAlt: Detailed news summary explaining the connection between forced labor, counterfeiting, and IP violations allegations against Shein and Temu in the US, linked to e-commerce supply chains and the elimination of the de minimis rule

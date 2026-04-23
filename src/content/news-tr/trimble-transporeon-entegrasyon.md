@@ -2,6 +2,7 @@
 title: 'Trimble ve Transporeon: Gerçek Zamanlı Yük Takibi ve TMS Entegrasyonu'
 subtitle: 'Trimble ve Transporeon: Gerçek Zamanlı Yük Takibi ve TMS Entegrasyonu'
 date: '2025-02-03T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/trimble-transporeon-visibility-real-time-freight-tracking-with-seamless-tms-integration
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a749cb4b64f9458d9f1a65b512ae450a~mv2.jpg
 imageAlt: 'Trimble ve Transporeon: Gerçek Zamanlı Yük Takibi ve TMS Entegrasyonu'

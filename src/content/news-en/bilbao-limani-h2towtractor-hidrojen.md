@@ -2,6 +2,7 @@
 title: 'Port of Bilbao Launches Operational Tests with Hydrogen-Powered H2TowTractor: The Retrofit Era in Logistics'
 subtitle: 'Port of Bilbao Launches Operational Tests with Hydrogen-Powered H2TowTractor: The Retrofit Era in Logistics'
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/port-of-bilbao-trials-hydrogen-powered-h2towtractor/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d17c6973f5f84ca0bc189fc25a04471a~mv2.jpg
 imageAlt: H2TowTractor powered by hydrogen fuel cell and lithium-ion battery combination being tested for zero-emission port operations at the Port of Bilbao.

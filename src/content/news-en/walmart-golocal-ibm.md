@@ -2,6 +2,7 @@
 title: 'Walmart GoLocal and IBM Partnership: A New Era in Retail Logistics'
 subtitle: 'Walmart GoLocal and IBM Partnership: A New Era in Retail Logistics'
 date: '2025-01-27T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/walmart-golocal-ibm-sterling-order-management/738103/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_545d3f3271104348b250a849fef064ab~mv2.jpg
 imageAlt: 'Walmart GoLocal and IBM Partnership: A New Era in Retail Logistics'

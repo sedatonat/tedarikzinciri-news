@@ -2,6 +2,7 @@
 title: Postrack Launches Asset Tracking Service for Logistics and Road Transport in the United Kingdom
 subtitle: Postrack Launches Asset Tracking Service for Logistics and Road Transport in the United Kingdom
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://warehousinglogisticsinternational.com/postrack-launches-asset-tracking-business-in-the-uk-to-target-logistics-and-road-transport-sector/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f96a16e9b4b9483698d35c63be67d942~mv2.jpg
 imageAlt: Europe-based GPS tracking specialist Postrack has launched a new operation in the United Kingdom, bringing advanced asset tracking solutions to the logistics, road transport, and container management sectors.

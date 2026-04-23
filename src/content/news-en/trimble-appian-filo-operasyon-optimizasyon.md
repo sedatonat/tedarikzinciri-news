@@ -2,6 +2,7 @@
 title: Optimize Your Fleet Operations with Trimble Appian's Latest Technology Enhancements
 subtitle: Optimize Your Fleet Operations with Trimble Appian's Latest Technology Enhancements
 date: '2025-02-03T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/optimize-your-fleet-operations-with-trimble-appians-latest-technology-enhancements
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_65defaba06a944988378e731e5c6ee0f~mv2.jpg
 imageAlt: Optimize Your Fleet Operations with Trimble Appian's Latest Technology Enhancements

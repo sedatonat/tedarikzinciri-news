@@ -2,6 +2,7 @@
 title: Trump Reverses Steel and Aluminum Tariff Increase on Canada
 subtitle: Trump Reverses Steel and Aluminum Tariff Increase on Canada
 date: '2025-03-11T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/trump-reverses-canada-steel-aluminum-tariff-hike/742159/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_80cac6eb90bd429888eb25c00bcda3fc~mv2.jpg
 imageAlt: Trump Reverses Steel and Aluminum Tariff Increase on Canada

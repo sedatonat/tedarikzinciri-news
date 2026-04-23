@@ -2,6 +2,7 @@
 title: U.S. Logistics Sector Growth Slows
 subtitle: U.S. Logistics Sector Growth Slows
 date: '2025-10-09T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42640-us-logistics-sector-growth-slows-as-freight-demand-eases
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e923ac03daa14210af266ce539412ef4~mv2.png
 imageAlt: U.S. Logistics Sector Growth Slows

@@ -2,6 +2,7 @@
 title: Talks Continue Between İzmir Port and ADP on Partnership
 subtitle: Talks Continue Between İzmir Port and ADP on Partnership
 date: '2024-08-12T09:00:00Z'
+sourceUrl: https://www.lojiport.com/izmir-limaninin-bae-sirketine-satisi-yakin-116915h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_efa2f2a09b2d44ec9dc1dbc57d88d7b4~mv2.jpg
 imageAlt: Talks Continue Between İzmir Port and ADP on Partnership

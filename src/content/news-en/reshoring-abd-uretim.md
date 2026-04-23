@@ -2,6 +2,7 @@
 title: What Will It Really Take to Bring Manufacturing Back to the U.S.?
 subtitle: What Will It Really Take to Bring Manufacturing Back to the U.S.?
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42856-podcast-what-will-it-really-take-to-reshore-manufacturing-back-to-the-us
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_81061bd6d39547f8ae324f8752f451de~mv2.jpg
 imageAlt: In this episode of the SupplyChainBrain Podcast, Matt Dollard of RSM discusses why the reshoring of manufacturing to the U.S. cannot be achieved through tariffs alone and what critical factors are necessary for reindustrialization.

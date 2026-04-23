@@ -2,6 +2,7 @@
 title: ABD, Brezilya’dan Gelen Kahve ve Tarım Ürünlerine Uygulanan Tarifeleri Kaldırdı
 subtitle: ABD, Brezilya’dan Gelen Kahve ve Tarım Ürünlerine Uygulanan Tarifeleri Kaldırdı
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/trump-tariffs-us-exempts-coffee-food-products-brazil/806176/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_73feb1867bc24d8fa22187474fd48b33~mv2.jpg
 imageAlt: ABD, kahve, et, tropikal meyveler ve baharatlar dahil olmak üzere Brezilya menşeli yüzlerce tarım ve gıda ürünü için tarife muafiyeti getirdi. Karar, ağırlaşan tarife baskısını hafifletirken iki ülke arasındaki ticaret müzakerelerindeki ilerlemenin bir sonucu olarak görülüyor.

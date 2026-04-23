@@ -2,6 +2,7 @@
 title: Legacy Systems Are Quietly Sabotaging Your Supply Chain
 subtitle: Legacy Systems Are Quietly Sabotaging Your Supply Chain
 date: '2025-09-02T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/42287-are-legacy-systems-quietly-sabotaging-your-supply-chain
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_3d8f2d6e5bd348d4b595b88b5cf5e945~mv2.png
 imageAlt: Legacy Systems Quietly Sabotaging Supply Chain

@@ -2,6 +2,7 @@
 title: Intel Radically Reduces Transportation Costs with AI-Powered "Rate Request Automation"
 subtitle: Intel Radically Reduces Transportation Costs with AI-Powered "Rate Request Automation"
 date: '2025-11-19T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42690-intel-radically-streamlines-its-transportation-spend-with-rate-request-automation
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_d3e9b11d4fd442dbbadad2a24eb58b1a~mv2.jpg
 imageAlt: Intel has fully automated quote collection, contract renewal, auditing, and cost optimization across its global logistics transportation rate management using its Rate Request Automation (RRA) system; the initiative has delivered $20 million in contracted savings, $4 million in non-contracted savings, and accelerated quote processes by 10-fold.

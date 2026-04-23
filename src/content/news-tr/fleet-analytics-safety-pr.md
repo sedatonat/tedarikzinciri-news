@@ -2,6 +2,7 @@
 title: Analitikle Filo Güvenliği Ve Kârlılığı Artırma
 subtitle: Analitikle Filo Güvenliği Ve Kârlılığı Artırma
 date: '2025-06-01T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41872-proven-ways-to-increase-fleet-safety-and-profitability-with-analytics
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_06719f7cd7c148409a84b943baffabb8~mv2.png
 imageAlt: Analitikle Filo Güvenliği Ve Kârlılığı Artırma

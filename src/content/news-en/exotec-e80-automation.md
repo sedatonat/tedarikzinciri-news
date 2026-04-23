@@ -2,6 +2,7 @@
 title: 'Exotec and E80 Partnership: Automation for CPG and Grocery Warehouses'
 subtitle: 'Exotec and E80 Partnership: Automation for CPG and Grocery Warehouses'
 date: '2025-09-10T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42471-exotec-and-e80-group-partner-on-warehouse-automation-for-cpg-and-grocery-industries
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_75203954941645a8a57c72b68f6433bb~mv2.png
 imageAlt: 'Exotec and E80 Partnership: Automation for CPG and Grocery Warehouses'

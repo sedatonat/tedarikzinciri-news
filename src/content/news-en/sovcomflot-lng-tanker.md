@@ -2,6 +2,7 @@
 title: Sovcomflot Takes Delivery of New LNG-Ready Tanker "Ivan Aivazovsky"
 subtitle: Sovcomflot Takes Delivery of New LNG-Ready Tanker "Ivan Aivazovsky"
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/11/26/en-sovcomflot-takes-delivery-of-lng-ready-tanker/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5f7943ac63064277bbd72bb95af5392f~mv2.jpg
 imageAlt: Detailed news summary explaining Sovcomflot's acceptance of the LNG-ready MR tanker "Ivan Aivazovsky" built at Zvezda shipyard and the technical specifications of the new tanker class developed for product transportation in ice conditions

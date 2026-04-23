@@ -2,6 +2,7 @@
 title: Apple, Sorunlu Kaynak Kullanımı Gerekçesiyle 14 Tedarikçi ile Yollarını Ayırdı
 subtitle: Apple, Sorunlu Kaynak Kullanımı Gerekçesiyle 14 Tedarikçi ile Yollarını Ayırdı
 date: '2024-04-25T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/apple-cuts-14-suppliers-conflict-minerals/714301/
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_472aa15e85f04a2f9ec3d8bc8385f074~mv2.jpg
 imageAlt: Apple, Sorumlu Kaynak Kullanımı Gerekçesiyle 14 Tedarikçi ile Yollarını Ayırdı

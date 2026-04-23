@@ -2,6 +2,7 @@
 title: 'Turning Point in North American Trucking: The Future of Demand and Spot Rates'
 subtitle: 'Turning Point in North American Trucking: The Future of Demand and Spot Rates'
 date: '2024-02-21T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/9663-spot-rates-may-have-hit-bottom-owner-operators-and-small-fleets-say
 category: Lojistik
 image: https://static.wixstatic.com/media/35950e5c49ae4628b4e4546d017b576e.jpg
 imageAlt: 'Turning Point in North American Trucking: The Future of Demand and Spot Rates'

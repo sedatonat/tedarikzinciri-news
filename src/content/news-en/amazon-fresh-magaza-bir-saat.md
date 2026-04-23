@@ -2,6 +2,7 @@
 title: Amazon Prepares to Test One-Hour In-Store Pickup Model
 subtitle: Amazon Prepares to Test One-Hour In-Store Pickup Model
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/amazon-one-hour-in-store-pickup-rush-service
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_2e3a6dd417ac4db4acf4117975eadd22~mv2.jpg
 imageAlt: Amazon's "rush pickup" model that combines online and physical store inventory in a single order and offers one-hour pickup capability—a detailed summary of its competitive implications and impact on fulfillment strategy in the click-and-collect market

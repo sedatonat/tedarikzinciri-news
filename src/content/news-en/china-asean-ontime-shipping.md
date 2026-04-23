@@ -2,6 +2,7 @@
 title: China Launches First ASEAN "On-Time, Cost-Reduction" Service on Ningbo–Ho Chi Minh Route
 subtitle: China Launches First ASEAN "On-Time, Cost-Reduction" Service on Ningbo–Ho Chi Minh Route
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385750/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_20f68b5032684c339befab10ad36be72~mv2.jpg
 imageAlt: Detailed news summary showing the timing, cost, and emissions impacts of the first ASEAN container service opened by China between Ningbo-Zhoushan and Ho Chi Minh City under the nation's "on-time, cost-reduction" maritime shipping programme

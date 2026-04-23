@@ -2,6 +2,7 @@
 title: NorthStandard, BetterSea Ortaklığıyla FuelEU Uyumunu Kolaylaştırıyor
 subtitle: NorthStandard, BetterSea Ortaklığıyla FuelEU Uyumunu Kolaylaştırıyor
 date: '2025-02-14T09:00:00Z'
+sourceUrl: https://gcaptain.com/northstandard-eases-fueleu-compliance-with-bettersea-platform-offer/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_debd7dd6282144328c38f4427d184cb8~mv2.png
 imageAlt: NorthStandard, BetterSea Ortaklığıyla FuelEU Uyumunu Kolaylaştırıyor

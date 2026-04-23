@@ -2,6 +2,7 @@
 title: Hapag-Lloyd Orders Eight Methanol-Fueled Container Ships for Green Transformation
 subtitle: Hapag-Lloyd Orders Eight Methanol-Fueled Container Ships for Green Transformation
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/hapag-lloyd-orders-eight-methanol-ships-in-green-push/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c71d09f856684e9ca58cbd947c7a2901~mv2.jpg
 imageAlt: Hapag-Lloyd's order for eight 4,500 TEU methanol-fueled new ships from CIMC Raffles, investment exceeding 500 million dollars, detailed summary of fleet renewal and carbon reduction targets within Strategy 2030

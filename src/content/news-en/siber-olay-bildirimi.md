@@ -2,6 +2,7 @@
 title: 'Cydome: Free Tool for Cyber Incident Reporting'
 subtitle: 'Cydome: Free Tool for Cyber Incident Reporting'
 date: '2025-08-11T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42306-cydome-launches-no-cost-tool-for-cyber-incident-reporting
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_d38a8729bf1b40fb97d154139c66d5f6~mv2.png
 imageAlt: 'Cydome: Free Tool for Cyber Incident Reporting'

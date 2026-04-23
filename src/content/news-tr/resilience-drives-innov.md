@@ -2,6 +2,7 @@
 title: 'Dayanıklılık: Evrim Yoluyla İnovasyonu Sürmek'
 subtitle: 'Dayanıklılık: Evrim Yoluyla İnovasyonu Sürmek'
 date: '2025-02-04T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/38356-supply-chain-resiliency-driving-innovation-through-evolution
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_ddf81ee51fc34e87b7f8b4e90d00f6b6~mv2.png
 imageAlt: 'Dayanıklılık: Evrim Yoluyla İnovasyonu Sürmek'

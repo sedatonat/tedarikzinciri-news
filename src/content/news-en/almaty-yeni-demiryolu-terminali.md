@@ -2,6 +2,7 @@
 title: Almaty to Get New Multifunctional Rail Freight Terminal
 subtitle: Almaty to Get New Multifunctional Rail Freight Terminal
 date: '2025-03-07T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/03/07/almaty-will-get-a-new-multifunctional-rail-freight-terminal/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_26b9aef662c147138624f12edbc7b339~mv2.jpg
 imageAlt: Almaty to Get New Multifunctional Rail Freight Terminal

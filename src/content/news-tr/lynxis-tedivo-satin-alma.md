@@ -2,6 +2,7 @@
 title: Lynxis, TEDIVO'yu Satın Alarak Dijital Çözümlerini Genişletiyor
 subtitle: Lynxis, TEDIVO'yu Satın Alarak Dijital Çözümlerini Genişletiyor
 date: '2025-01-16T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/lynxis-expands-digital-solutions-with-tedivo-acquisition/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_e020a04258cb4a5daade8fdbff500ded~mv2.jpg
 imageAlt: Lynxis, TEDIVO'yu Satın Alarak Dijital Çözümlerini Genişletiyor

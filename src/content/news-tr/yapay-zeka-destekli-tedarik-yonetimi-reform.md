@@ -2,6 +2,7 @@
 title: 'Yapay Zeka Destekli Tedarik Yönetiminde Devrim: GEP''nin Yeni Platformu'
 subtitle: 'Yapay Zeka Destekli Tedarik Yönetiminde Devrim: GEP''nin Yeni Platformu'
 date: '2024-05-30T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10338-ai-co-pilot-can-guide-untrained-users-through-procurement-applications
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_3efee120146247209968ec201912f41d~mv2.png
 imageAlt: 'Yapay Zeka Destekli Tedarik Yönetiminde Devrim: GEP''nin Yeni Platformu'

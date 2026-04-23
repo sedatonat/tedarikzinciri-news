@@ -2,6 +2,7 @@
 title: 'UPS Plane Crash: At Least 9 Killed, Worldport Operations Disrupted'
 subtitle: 'UPS Plane Crash: At Least 9 Killed, Worldport Operations Disrupted'
 date: '2025-11-05T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/ups-plane-crash-louisville-shipping-delay-impact/804721/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_bc518d8d306e4bc3b951588f9198f16d~mv2.jpg
 imageAlt: A UPS MD-11 cargo aircraft crashed near Louisville, resulting in at least 9 deaths. The incident has caused sort operations at UPS's main air hub Worldport to halt and poses a risk of delays in domestic and international deliveries.

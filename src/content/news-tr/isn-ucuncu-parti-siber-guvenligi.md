@@ -2,6 +2,7 @@
 title: ISN, Üçüncü Taraf Siber Güvenlik Gözetimini Geliştirdi
 subtitle: ISN, Üçüncü Taraf Siber Güvenlik Gözetimini Geliştirdi
 date: '2025-09-04T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42439-isn-launches-enhanced-ability-to-manage-third-party-cybersecurity-oversight
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_e82dff8251ab419c82a387478884afee~mv2.png
 imageAlt: Isn, Üçüncü Taraf Siber Güvenlik Gözetimini Geliştirdi

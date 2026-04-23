@@ -2,6 +2,7 @@
 title: NYK Orders Next-Generation Car Carrier with AI-Enabled Autonomous Navigation System
 subtitle: NYK Orders Next-Generation Car Carrier with AI-Enabled Autonomous Navigation System
 date: '2025-12-10T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385628/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_3ff5855f228b4827b04721bd92b526e4~mv2.jpg
 imageAlt: Technical specifications and maritime safety implications of the next-generation car carrier ordered by NYK from Shinkai Toyohashi Shipbuilding, equipped with AI-based autonomous navigation and Marine DX systems developed under the MEGURI2040 program

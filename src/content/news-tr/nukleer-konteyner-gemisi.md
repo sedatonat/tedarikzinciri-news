@@ -2,6 +2,7 @@
 title: Seaspan Nükleer Güçlü Konteyner Gemileri İçin Yeni SMR Raporunu Değerlendiriyor
 subtitle: Seaspan Nükleer Güçlü Konteyner Gemileri İçin Yeni SMR Raporunu Değerlendiriyor
 date: '2025-11-27T09:00:00Z'
+sourceUrl: https://splash247.com/seaspan-eyes-nuclear-powered-boxships/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5a7acf81b84a4f85bb14f8e43622db0c~mv2.jpeg
 imageAlt: Lloyd’s Register ve LucidCatalyst’in hazırladığı raporun, Seaspan’ın nükleer modüler reaktörlü konteyner gemileri için ortaya koyduğu teknik, ekonomik ve tedarik zinciri analizini içeren detaylı özet

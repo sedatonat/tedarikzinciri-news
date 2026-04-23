@@ -2,6 +2,7 @@
 title: NKT and TenneT Sign $1 Billion Cable Deal in Germany
 subtitle: NKT and TenneT Sign $1 Billion Cable Deal in Germany
 date: '2024-12-27T09:00:00Z'
+sourceUrl: https://splash247.com/nkt-scores-1bn-cabling-deal-in-germany-with-tennet/
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_1bd3787731c143a4a8e0fbbc07c662c1~mv2.jpg
 imageAlt: NKT and TenneT Sign $1 Billion Cable Deal in Germany

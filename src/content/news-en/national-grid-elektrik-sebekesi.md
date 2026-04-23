@@ -2,6 +2,7 @@
 title: National Grid Secures Share of $76.4 Billion High Voltage Supply Chain Framework
 subtitle: National Grid Secures Share of $76.4 Billion High Voltage Supply Chain Framework
 date: '2025-03-13T09:00:00Z'
+sourceUrl: https://www.reuters.com/business/energy/national-grid-awarded-764-billion-supply-chain-framework-2025-03-13/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_84db95f0eaf34cdea37b9a653818806e~mv2.jpg
 imageAlt: National Grid Secures Share of $76.4 Billion High Voltage Supply Chain Framework

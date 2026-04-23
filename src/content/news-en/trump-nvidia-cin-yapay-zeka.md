@@ -2,6 +2,7 @@
 title: Trump Approves Nvidia's Sale of Advanced AI Chips to China
 subtitle: Trump Approves Nvidia's Sale of Advanced AI Chips to China
 date: '2025-12-09T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42957-trump-to-allow-nvidia-to-sell-advanced-ai-chips-to-chinese-customers
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_ee880828c96e401cb8a5ad99de219a28~mv2.jpg
 imageAlt: Detailed summary of the Trump administration's approval for Nvidia to sell H200 AI chips to limited Chinese customers, a 25% revenue-sharing model, new approach to export controls, and impacts on U.S.–China technology trade

@@ -2,6 +2,7 @@
 title: ABD ve AB'den Rusya'ya Navalny'nin Ölümü ve Ukrayna İşgali Nedeniyle Yeni Yaptırımlar
 subtitle: ABD ve AB'den Rusya'ya Navalny'nin Ölümü ve Ukrayna İşgali Nedeniyle Yeni Yaptırımlar
 date: '2024-02-24T01:00:00Z'
+sourceUrl: https://www.bbc.co.uk/news/world-us-canada-68380251
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_03bfab521d994d208e6d272df437a161~mv2.jpg
 imageAlt: ABD ve AB'den Rusya'ya Navalny'nin Ölümü ve Ukrayna İşgali Nedeniyle Yeni Yaptırımlar

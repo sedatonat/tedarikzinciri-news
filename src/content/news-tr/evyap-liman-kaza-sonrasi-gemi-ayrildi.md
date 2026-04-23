@@ -2,6 +2,7 @@
 title: Evyap Limanı'ndaki Kaza Sonrası YM Witness Konteyner Gemisi Ayrıldı
 subtitle: Evyap Limanı'ndaki Kaza Sonrası YM Witness Konteyner Gemisi Ayrıldı
 date: '2024-03-31T09:00:00Z'
+sourceUrl: https://www.denizhaber.com/evyapi-yikan-konteyner-gemisi-sonundarihtimdan-ayrilabildi
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c688d376fa7f4dfab7404bbaa61a750b~mv2.jpg
 imageAlt: Evyap Limanı'ndaki Kaza Sonrası YM Witness Konteyner Gemisi Ayrıldı

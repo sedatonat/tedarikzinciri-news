@@ -2,6 +2,7 @@
 title: ABD ve Çin, Nadir Topraklar ve Gümrük Vergileri Üzerine Geçici Ateşkeste Anlaştı
 subtitle: ABD ve Çin, Nadir Topraklar ve Gümrük Vergileri Üzerine Geçici Ateşkeste Anlaştı
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://gcaptain.com/us-china-talks-sketch-out-rare-earths-tariff-pause-for-trump-and-xi-to-consider/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_1fef2bac644244db947a9ca1a87a1099~mv2.jpg
 imageAlt: Kuala Lumpur’daki ASEAN Zirvesi kapsamında yapılan görüşmelerde, ABD ve Çin heyetleri nadir toprak elementleri ihracatı ve gümrük tarifeleri konusunda çerçeve anlaşmasına vardı. Anlaşma, Trump ve Xi’nin Güney Kore’deki görüşmesinde onaylanacak.

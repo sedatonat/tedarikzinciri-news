@@ -2,6 +2,7 @@
 title: 'New Research: AI Isn''t Replacing Workers, Creating More Roles in Warehouses'
 subtitle: 'New Research: AI Isn''t Replacing Workers, Creating More Roles in Warehouses'
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/ai-is-helping-warehouse-jobs-grow
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_27d76cac21c0445dbce2933785352753~mv2.jpg
 imageAlt: Comprehensive analysis explaining how artificial intelligence and automation support the workforce in warehouses, increase productivity, and create new specialized roles.

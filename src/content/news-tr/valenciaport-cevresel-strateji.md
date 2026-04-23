@@ -2,6 +2,7 @@
 title: 'Valenciaport, Yeni Çevresel Stratejisini Tanıttı: Odakta Net Sıfır, Yeşil Koridorlar ve Hidrojen'
 subtitle: 'Valenciaport, Yeni Çevresel Stratejisini Tanıttı: Odakta Net Sıfır, Yeşil Koridorlar ve Hidrojen'
 date: '2025-11-12T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/valenciaport-unveils-new-environmental-strategy/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_69951156436a41f58649b848cbbb2cf8~mv2.jpeg
 imageAlt: Valenciaport, Ecofira 2025’te açıkladığı yeni çevre stratejisinde Net Zero Planı, yenilenebilir enerji, shore-power (OPS), alternatif yakıtlar, yeşil koridorlar ve Sagunto’daki Hydrogen Valley projeleriyle iklim uyumu ve sürdürülebilir liman hedefini güçlendirdi.

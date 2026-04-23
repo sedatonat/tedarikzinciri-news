@@ -2,6 +2,7 @@
 title: Maersk, 20 Çift Yakıtlı Yeni İnşa Konteyner Gemisi Siparişini Tamamladı
 subtitle: Maersk, 20 Çift Yakıtlı Yeni İnşa Konteyner Gemisi Siparişini Tamamladı
 date: '2024-12-02T09:00:00Z'
+sourceUrl: https://www.7deniz.net/maersk-cift-yakitli-20-gemi-siparisi-verdi
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4cc5233856a44907b1c288a03b4ec300~mv2.jpg
 imageAlt: Maersk, 20 Çift Yakıtlı Yeni İnşa Konteyner Gemisi Siparişini Tamamladı

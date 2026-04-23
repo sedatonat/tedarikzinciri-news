@@ -2,6 +2,7 @@
 title: MSC Set to Maintain Leadership Through 2026
 subtitle: MSC Set to Maintain Leadership Through 2026
 date: '2024-05-01T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/msc-set-to-reign-as-largest-carrier-through-2026/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_26c35892a5374fe0ae36bfeb1b74ff8d~mv2.png
 imageAlt: MSC Set to Maintain Leadership Through 2026

@@ -2,6 +2,7 @@
 title: Ocean Network Express Announces Aegean Express and Levant Express Routes
 subtitle: Ocean Network Express Announces Aegean Express and Levant Express Routes
 date: '2024-10-10T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/one-unveils-northern-europe-mediterranean-routes/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_032f7aa501cd463a972b53a23c7187e2~mv2.jpg
 imageAlt: Ocean Network Express Announces Aegean Express and Levant Express Routes

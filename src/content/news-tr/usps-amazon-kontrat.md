@@ -2,6 +2,7 @@
 title: 'USPS–Amazon Sözleşmesi 2026’da Tehlikede: “Reverse Auction” Planı Pazarı Sarsıyor'
 subtitle: 'USPS–Amazon Sözleşmesi 2026’da Tehlikede: “Reverse Auction” Planı Pazarı Sarsıyor'
 date: '2025-12-05T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/usps_amazon_contract_uncertainty_grows_as_reverse_auction_plan_raises_stakes_for_2026_renewal
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2153bd8995d44a9bb809318e81b64706~mv2.jpg
 imageAlt: USPS’in Amazon sözleşmesi için 2026 yenileme sürecinde reverse auction planı, USPS’in finansal baskıları, Amazon’un operasyonel risk değerlendirmesi ve ABD paket teslimat ekosistemine etkilerin detaylı özeti

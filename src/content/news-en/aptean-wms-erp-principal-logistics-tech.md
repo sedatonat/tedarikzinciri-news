@@ -2,6 +2,7 @@
 title: Aptean acquires Irish WMS firm Principal Logistics Technologies
 subtitle: Aptean acquires Irish WMS firm Principal Logistics Technologies
 date: '2024-07-16T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10570-aptean-stays-in-acquisition-mode
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_e72d598ea8074e84b87c4437c82c6e75~mv2.jpeg
 imageAlt: Aptean acquires Irish WMS firm Principal Logistics Technologies

@@ -2,6 +2,7 @@
 title: COSCO ve Standard Chartered'dan Konteyner Endüstrisini Dönüştürme Anlaşması
 subtitle: COSCO ve Standard Chartered'dan Konteyner Endüstrisini Dönüştürme Anlaşması
 date: '2024-05-29T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/cosco-shipping-to-develop-container-industry-chain/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_cf65b263e0154af8b0ffaaede56e1abc~mv2.jpg
 imageAlt: COSCO ve Standard Chartered'dan Konteyner Endüstrisini Dönüştürme Anlaşması

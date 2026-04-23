@@ -2,6 +2,7 @@
 title: Africa Promises Dramatic Container Demand Surge through 2050, But Ports Cannot Weather 2025 Crisis
 subtitle: Africa Promises Dramatic Container Demand Surge through 2050, But Ports Cannot Weather 2025 Crisis
 date: '2025-12-01T09:00:00Z'
+sourceUrl: https://shippingwatch.com/carriers/Container/article18796879.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_99d08440560b4186922a51d3ce06c298~mv2.jpg
 imageAlt: Sea-Intelligence projections outlining Africa's 5% annual growth potential through 2050, with comprehensive logistics analysis of how the Red Sea crisis transformed African ports into weak links in 2025

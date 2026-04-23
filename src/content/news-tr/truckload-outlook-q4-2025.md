@@ -2,6 +2,7 @@
 title: 'RXO: Truckload Pazarı 2025 Son Çeyrekte Zayıf, 2026’da Kademeli Toparlanma Bekleniyor'
 subtitle: 'RXO: Truckload Pazarı 2025 Son Çeyrekte Zayıf, 2026’da Kademeli Toparlanma Bekleniyor'
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/rxo-curve-q4-2025-truckload-market-outlook/807757/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1756d10b84fd4d26abf8e2594c36b173~mv2.png
 imageAlt: RXO’nun Curve raporuna göre truckload pazarında 2025’in son çeyreğinde hacimlerin zayıf seyretmesi, spot navlunların sıkışması, imalat sektöründeki durgunluk ve 2026 için faiz destekli toparlanma beklentilerinin detaylı özeti

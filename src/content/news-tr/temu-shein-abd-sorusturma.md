@@ -2,6 +2,7 @@
 title: 'Temu ve Shein ABD’de Soruşturma Tehdidi Altında: Zorla Çalıştırma ve Sahte Ürün İddiaları Gündemde'
 subtitle: 'Temu ve Shein ABD’de Soruşturma Tehdidi Altında: Zorla Çalıştırma ve Sahte Ürün İddiaları Gündemde'
 date: '2025-12-03T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42926-temu-and-shein-come-under-threat-of-investigations-in-us
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_04c2d8f4963749adba2ea987b9535317~mv2.jpg
 imageAlt: ABD’de Shein ve Temu’ya yönelik zorla çalıştırma, sahtecilik ve IP ihlali iddiaları nedeniyle başlatılan siyasi ve hukuki baskının, e-ticaret tedarik zincirleri ve de minimis kuralının kaldırılmasıyla bağlantısını anlatan detaylı haber özeti

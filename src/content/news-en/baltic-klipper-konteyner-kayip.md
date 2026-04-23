@@ -2,6 +2,7 @@
 title: 'Baltic Klipper Loses 16–18 Containers in Severe Weather: Solent Traffic and Coastguard Alarmed'
 subtitle: 'Baltic Klipper Loses 16–18 Containers in Severe Weather: Solent Traffic and Coastguard Alarmed'
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://shippingwatch.com/carriers/Container/article18819333.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1fd79017ce3b464bb7c8c1f0ed94c7df~mv2.webp
 imageAlt: ''

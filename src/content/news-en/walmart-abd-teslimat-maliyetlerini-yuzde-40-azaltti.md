@@ -2,6 +2,7 @@
 title: Walmart Cuts U.S. Delivery Costs by 40% for Third Consecutive Quarter
 subtitle: Walmart Cuts U.S. Delivery Costs by 40% for Third Consecutive Quarter
 date: '2024-11-20T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/walmart-reduces-delivery-costs-earnings/733492/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4bb2a291d16a445b9ce9cb59bcfb20b5~mv2.jpg
 imageAlt: Walmart Cuts U.S. Delivery Costs by 40% for Third Consecutive Quarter

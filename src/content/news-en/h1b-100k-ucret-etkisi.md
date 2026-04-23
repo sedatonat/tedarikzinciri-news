@@ -2,6 +2,7 @@
 title: The $100,000 Fee for H‑1B Visas and Its Impact on U.S. Innovation
 subtitle: The $100,000 Fee for H‑1B Visas and Its Impact on U.S. Innovation
 date: '2025-10-09T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42632-trumps-100k-h-1b-visa-fee-puts-us-innovation-engine-to-the-test
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_5b1aace803da49ad92a192f9f374340a~mv2.jpg
 imageAlt: The $100,000 Fee for H‑1B Visas and Its Impact on U.S. Innovation

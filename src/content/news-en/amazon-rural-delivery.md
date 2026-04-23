@@ -2,6 +2,7 @@
 title: Amazon Expanding Rural Delivery Network
 subtitle: Amazon Expanding Rural Delivery Network
 date: '2025-06-25T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42024-amazon-looks-to-expand-rural-delivery-network
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e8cbaa076b9c4196a745d40ade5c24fa~mv2.png
 imageAlt: Amazon Expanding Rural Delivery Network

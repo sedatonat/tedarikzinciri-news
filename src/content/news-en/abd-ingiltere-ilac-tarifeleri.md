@@ -2,6 +2,7 @@
 title: UK and US Reach New Agreement to Keep Drug Tariffs at Zero
 subtitle: UK and US Reach New Agreement to Keep Drug Tariffs at Zero
 date: '2025-12-01T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42917-uk-agrees-to-deal-with-us-to-avoid-drug-tariffs
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_18edea7aedd44f54a597d297993f1bd6~mv2.jpg
 imageAlt: Detailed news summary on the agreement signed between the US and UK maintaining drug tariffs at zero, covering NHS commitments to increase drug spending, Trump administration pressures, and commercial implications for both nations

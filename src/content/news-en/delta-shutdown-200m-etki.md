@@ -2,6 +2,7 @@
 title: Delta Air Lines Faces $200 Million Profit Hit in Wake of Government Shutdown
 subtitle: Delta Air Lines Faces $200 Million Profit Hit in Wake of Government Shutdown
 date: '2025-12-03T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42930-delta-air-sees-200-million-impact-from-shutdown-fallout
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_dadb069155f145caa637c38336bc8fff~mv2.jpg
 imageAlt: Following the longest government shutdown in U.S. history, Delta projects a $200 million USD profit loss in the fourth quarter, detailed overview of flight cancellations, demand dynamics, and premium segment strategy

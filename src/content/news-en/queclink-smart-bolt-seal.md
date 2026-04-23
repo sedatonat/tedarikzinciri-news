@@ -2,6 +2,7 @@
 title: 'Queclink''s Smart Bolt-Seal Innovation: Container Security Elevated to New Heights'
 subtitle: 'Queclink''s Smart Bolt-Seal Innovation: Container Security Elevated to New Heights'
 date: '2025-11-02T09:00:00Z'
+sourceUrl: https://warehousinglogisticsinternational.com/smart-bolt-seal-innovation-from-queclink-to-enhance-container-security/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_fb9862a8f8a643858f7302e040bd70c2~mv2.png
 imageAlt: IoT device manufacturer Queclink Wireless Solutions is targeting enhanced security in high-value container shipping with its new smart bolt-seal (GES100CG) compliant with ISO 17712 standards. The device provides real-time container integrity protection with LTE connectivity, GNSS positioning, and instant breach alert capabilities.

@@ -2,6 +2,7 @@
 title: 'MSC''nin Asya-Kuzey Avrupa Ağından Megagemileri Çekmesi: Alphaliner​'
 subtitle: 'MSC''nin Asya-Kuzey Avrupa Ağından Megagemileri Çekmesi: Alphaliner​'
 date: '2025-02-27T09:00:00Z'
+sourceUrl: https://www.joc.com/article/msc-pulls-megaships-from-asia-north-europe-network-alphaliner-5951934
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d732591c97ac4abe935f5abf08167ebb~mv2.jpg
 imageAlt: 'MSC''nin Asya-Kuzey Avrupa Ağından Megagemileri Çekmesi: Alphaliner​'

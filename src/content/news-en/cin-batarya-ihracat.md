@@ -2,6 +2,7 @@
 title: China Adds Electric Vehicle Battery Technologies to Export Restriction List
 subtitle: China Adds Electric Vehicle Battery Technologies to Export Restriction List
 date: '2025-07-16T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42157-chinese-adds-ev-battery-tech-to-export-restriction-list
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_af8c7204842d4eac9818ff223e916b4b~mv2.png
 imageAlt: China Adds Residential Battery Technologies to Export Restriction List

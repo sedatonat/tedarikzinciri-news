@@ -2,6 +2,7 @@
 title: Turkey's First Private Intermodal Terminal Railport Commences Operations
 subtitle: Turkey's First Private Intermodal Terminal Railport Commences Operations
 date: '2025-11-24T09:00:00Z'
+sourceUrl: https://www.railfreight.com/intermodal/2025/11/24/turkish-railport-terminal-launches-operations-with-metrans-train/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_883f4730340c4bd49e75062d3b1eb966~mv2.jpg
 imageAlt: Railport's launch of its first train under METRANS operations marks the terminal's opening, with a detailed overview of its capacity, infrastructure, intermodal advantages, and impact on Turkey–Europe freight transportation.

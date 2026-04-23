@@ -2,6 +2,7 @@
 title: Hazar Havzası Limanları Üzerinden Konteyner Trafiği Kasım 2024'te İki Katına Çıktı
 subtitle: Hazar Havzası Limanları Üzerinden Konteyner Trafiği Kasım 2024'te İki Katına Çıktı
 date: '2025-01-13T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/01/13/container-traffic-via-caspian-basin-ports-in-november-2024-up-2-fold/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c7c71900aba04e1d9558f4c4ec1afe2c~mv2.jpg
 imageAlt: Hazar Havzası Limanları Üzerinden Konteyner Trafiği Kasım 2024'te İki Katına Çıktı

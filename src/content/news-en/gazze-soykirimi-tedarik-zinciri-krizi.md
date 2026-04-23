@@ -2,6 +2,7 @@
 title: New Crisis in Global Supply Chain Following Gaza Conflict
 subtitle: New Crisis in Global Supply Chain Following Gaza Conflict
 date: '2024-05-31T09:00:00Z'
+sourceUrl: https://www.lojiport.com/konteynerde-gemi-arzi-azalinca-navlun-tavan-yapti-116597h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_769f7d7cde06449da027a7fcf6015640~mv2.jpg
 imageAlt: New Crisis in Global Supply Chain Following Gaza Conflict

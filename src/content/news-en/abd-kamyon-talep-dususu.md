@@ -2,6 +2,7 @@
 title: U.S. Trucking Freight Demand Plummets During Peak Season
 subtitle: U.S. Trucking Freight Demand Plummets During Peak Season
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42881-trucking-freight-demand-falls-off-as-peak-season-weakens
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_563af23d84f442b0ba002005b38e1189~mv2.jpg
 imageAlt: U.S. trucking demand declined approximately 33% between April and October 2025, showing severe slowdown despite the pre-holiday peak season. Tariff pressures, excess capacity, and elevated inventory levels are weakening the sector's outlook.

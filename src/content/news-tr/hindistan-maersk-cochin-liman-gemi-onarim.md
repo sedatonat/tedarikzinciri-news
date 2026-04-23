@@ -2,6 +2,7 @@
 title: Maersk ve Cochin Shipyard Hindistan'da Gemi Onarımını Genişletiyor
 subtitle: Maersk ve Cochin Shipyard Hindistan'da Gemi Onarımını Genişletiyor
 date: '2025-02-18T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/maersk-cochin-shipyard-india-partnershp-ship-repair-expansion
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7d27e6ca0c1044d290658acf1e6c9eb6~mv2.jpg
 imageAlt: Maersk ve Cochin Shipyard Hindistan'da Gemi Onarımını Genişletiyor

@@ -2,6 +2,7 @@
 title: Rusya’nın Ametist Line Şirketi Yeni Novorossiysk–İzmir Shuttle Servisini Başlatıyor
 subtitle: Rusya’nın Ametist Line Şirketi Yeni Novorossiysk–İzmir Shuttle Servisini Başlatıyor
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://container-news.com/russias-ametist-line-launches-new-novorossiysk-izmir-shuttle/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_cb0f1c5f032343b08437730ea4837a9d~mv2.jpg
 imageAlt: Ametist Line’ın 2026 başında devreye alacağı Novorossiysk–İzmir shuttle servisi ile mevcut tek-gemilik hatların kapasitesi, bölgesel lojistik etkiler ve Doğu Akdeniz–Karadeniz bağlantılarının güçlenmesine dair detaylı özet

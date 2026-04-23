@@ -2,6 +2,7 @@
 title: 'U.S. Congress Recommendation: Airlines Should Be Prepared for Future Disruptions'
 subtitle: 'U.S. Congress Recommendation: Airlines Should Be Prepared for Future Disruptions'
 date: '2024-07-25T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10627-congress-says-airlines-should-be-prepared-for-future-disruptions
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3c77afa287de407e8342d86dd208c45d~mv2.jpeg
 imageAlt: 'U.S. Congress Recommendation: Airlines Should Be Prepared for Future Disruptions'

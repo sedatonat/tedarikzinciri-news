@@ -2,6 +2,7 @@
 title: Finlandiya, 'Eagle S' Tankerini Karaya Yaklaştırıyor
 subtitle: Finlandiya, 'Eagle S' Tankerini Karaya Yaklaştırıyor
 date: '2024-12-28T09:00:00Z'
+sourceUrl: https://gcaptain.com/finland-moves-eagle-s-tanker-closer-to-land-as-probe-intensifies/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_c9ce1ac7583d49e09bbe8270d1774a4b~mv2.jpg
 imageAlt: Finlandiya, 'Eagle S' Tankerini Karaya Yaklaştırıyor

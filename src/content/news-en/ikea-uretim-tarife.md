@@ -2,6 +2,7 @@
 title: IKEA Ramps Up U.S. Manufacturing in Response to Tariffs
 subtitle: IKEA Ramps Up U.S. Manufacturing in Response to Tariffs
 date: '2025-12-09T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/ikea-ramps-up-us-manufacturing-tariffs-2025
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_8f2493e913ee44c8a5bde229d575da83~mv2.jpg
 imageAlt: IKEA's decision to expand local manufacturing in the U.S. in response to rising tariffs and logistics costs, aimed at improving delivery speed, reducing supply chain risks, and integrating with U.S. logistics infrastructure

@@ -2,6 +2,7 @@
 title: CrowdStrike's Ripple Effects on Supply Chains
 subtitle: CrowdStrike's Ripple Effects on Supply Chains
 date: '2024-07-22T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10604-supply-chains-see-ripple-effects-of-microsoft-computer-crash
 category: Teknoloji
 image: https://static.wixstatic.com/media/a80096d63aa94b24b64edf3a5a72f8e8.jpg
 imageAlt: CrowdStrike's Ripple Effects on Supply Chains

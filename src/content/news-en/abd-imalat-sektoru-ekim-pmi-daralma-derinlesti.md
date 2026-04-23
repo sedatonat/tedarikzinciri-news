@@ -2,6 +2,7 @@
 title: U.S. Manufacturing Contraction Deepened in October
 subtitle: U.S. Manufacturing Contraction Deepened in October
 date: '2024-11-05T09:00:00Z'
+sourceUrl: https://www.scdigest.com/ontarget/24-11-05_october_pmi_shows_manu_contraction_again.php?cid=21642
 category: Satınalma
 image: https://static.wixstatic.com/media/3206646ceb6b41fa90c3f63279531957.jpg
 imageAlt: U.S. Manufacturing Contraction Deepened in October

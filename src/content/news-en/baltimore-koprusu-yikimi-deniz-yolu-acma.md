@@ -2,6 +2,7 @@
 title: 'Baltimore Bridge Demolition: Reopening the Shipping Channel'
 subtitle: 'Baltimore Bridge Demolition: Reopening the Shipping Channel'
 date: '2024-05-13T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/francis-scott-key-bridge-baltimore-demolished-explosion-video
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8f53b3e2cb3d462d866437252cc92185~mv2.jpg
 imageAlt: 'Baltimore Bridge Demolition: Reopening the Shipping Channel'

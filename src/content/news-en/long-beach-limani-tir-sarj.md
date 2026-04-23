@@ -2,6 +2,7 @@
 title: Port of Long Beach Opens North America's Largest Zero-Emission Truck Charging Hub
 subtitle: Port of Long Beach Opens North America's Largest Zero-Emission Truck Charging Hub
 date: '2024-12-02T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/port-long-beach-opens-largest-charging-depot-zero-emission-trucks
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_96933ca3430a4f82b152cb60568a0d25~mv2.jpg
 imageAlt: The massive facility with 30 ultra-fast charging units opened at the Port of Long Beach serves a fleet of 79 zero-emission Class 8 trucks and supports California's 2035 zero-emission targets.

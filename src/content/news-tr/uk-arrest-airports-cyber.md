@@ -2,6 +2,7 @@
 title: Avrupa Havaalanlarına Yapılan Siber Saldırı Soruşturmasında İngiltere’de Gözaltı
 subtitle: Avrupa Havaalanlarına Yapılan Siber Saldırı Soruşturmasında İngiltere’de Gözaltı
 date: '2025-09-14T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42549-uk-arrests-man-during-european-airports-cyberattack-probe
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_50f0702cc9d947c4b28ac43586d15220~mv2.png
 imageAlt: Avrupa Havaalanlarına Yapılan Siber Saldırı Soruşturmasında İngiltere’de Gözaltı

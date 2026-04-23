@@ -2,6 +2,7 @@
 title: Suspect Arrested in UK During Probe into Cyberattack on European Airports
 subtitle: Suspect Arrested in UK During Probe into Cyberattack on European Airports
 date: '2025-09-14T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42549-uk-arrests-man-during-european-airports-cyberattack-probe
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_50f0702cc9d947c4b28ac43586d15220~mv2.png
 imageAlt: Suspect Arrested in UK During Probe into Cyberattack on European Airports

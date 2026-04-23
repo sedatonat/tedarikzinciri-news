@@ -2,6 +2,7 @@
 title: Ukrayna Suriye'ye İlk Gıda Yardımını Gönderdi
 subtitle: Ukrayna Suriye'ye İlk Gıda Yardımını Gönderdi
 date: '2024-12-28T09:00:00Z'
+sourceUrl: https://gcaptain.com/ukraine-sends-its-first-batch-of-food-aid-to-syria/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_8058fde008cb4b8ca96918be977fbd70~mv2.jpg
 imageAlt: Ukrayna Suriye'ye İlk Gıda Yardımını Gönderdi

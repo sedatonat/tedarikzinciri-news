@@ -2,6 +2,7 @@
 title: EU's "Broken Wheels" Regulations to be Completed by Year-End
 subtitle: EU's "Broken Wheels" Regulations to be Completed by Year-End
 date: '2025-11-12T09:00:00Z'
+sourceUrl: https://www.railfreight.com/policy/2025/11/12/eus-new-broken-wheel-regulations-to-be-ready-by-years-end/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f1ed2a907d704dd6a88a6b4796348093~mv2.jpg
 imageAlt: Following the 2023 Gotthard train accident in Europe, the Broken Wheels Task Force launched new safety standards. The EU is preparing to publish new regulations by year-end that update wheel safety and maintenance rules in rail freight transport.

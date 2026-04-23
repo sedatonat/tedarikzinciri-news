@@ -2,6 +2,7 @@
 title: Amazon Launches Same-Day Drone Delivery in Tolleson, Arizona
 subtitle: Amazon Launches Same-Day Drone Delivery in Tolleson, Arizona
 date: '2024-11-08T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/amazon-launches-same-day-drone-delivery-in-arizona-city/732275/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_da1429f7a1d54c708c4d1a155fa21ac6~mv2.jpg
 imageAlt: Amazon Launches Same-Day Drone Delivery in Tolleson, Arizona

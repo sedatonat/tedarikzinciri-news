@@ -2,6 +2,7 @@
 title: Türkiye ve Somali'den Stratejik Deniz Kuvvetleri Anlaşması
 subtitle: Türkiye ve Somali'den Stratejik Deniz Kuvvetleri Anlaşması
 date: '2024-02-22T09:00:00Z'
+sourceUrl: https://www.youtube.com/watch?v=PdtZzbJdjR4
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_125388793d304668b9a1d3ffb2287439~mv2.jpg
 imageAlt: Türkiye ve Somali'den Stratejik Deniz Kuvvetleri Anlaşması

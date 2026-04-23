@@ -2,6 +2,7 @@
 title: U.S. Navy Selects Damen LST 100 Design for Medium Landing Ship Program
 subtitle: U.S. Navy Selects Damen LST 100 Design for Medium Landing Ship Program
 date: '2025-12-10T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385611/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_224925880078463bbbf57c4726859638~mv2.jpg
 imageAlt: Summary of the U.S. Navy's selection of the Damen Shipyards Group LST 100 design for the Medium Landing Ship (LSM) program, plans for construction of up to 35 vessels at U.S. shipyards, and implications for distributed maritime operations doctrine

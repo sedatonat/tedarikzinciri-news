@@ -2,6 +2,7 @@
 title: Long Beach Limanı, Kuzey Amerika’nın En Büyük Sıfır Emisyonlu Tır Şarj Üssünü Açtı
 subtitle: Long Beach Limanı, Kuzey Amerika’nın En Büyük Sıfır Emisyonlu Tır Şarj Üssünü Açtı
 date: '2024-12-02T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/port-long-beach-opens-largest-charging-depot-zero-emission-trucks
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_96933ca3430a4f82b152cb60568a0d25~mv2.jpg
 imageAlt: Long Beach Limanı’nda açılan 30 hiper hızlı şarj cihazına sahip dev tesis, 79 adet sıfır emisyonlu Class 8 tır filosuna hizmet vererek Kaliforniya’nın 2035 sıfır emisyon hedeflerini destekliyor.

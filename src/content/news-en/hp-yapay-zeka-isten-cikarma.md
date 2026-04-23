@@ -2,6 +2,7 @@
 title: HP Prepares to Cut 6,000 Jobs as Part of AI-Driven Restructuring
 subtitle: HP Prepares to Cut 6,000 Jobs as Part of AI-Driven Restructuring
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42911-hp-to-cut-6-000-jobs-touts-savings-from-ai
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_ad564aa5986a43ccbe075cbb6849eec9~mv2.jpg
 imageAlt: HP's plan to cut 6,000 jobs globally by 2028 through AI integration aimed at accelerating product development and reducing costs, coupled with lower-than-expected profit forecasts, CEO remarks, AI-driven productivity targets, and the sector-wide impact of automation trends on the workforce.

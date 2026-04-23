@@ -2,6 +2,7 @@
 title: CEVA Logistics, Borusan Lojistik’i Satın Alarak Türkiye’deki Konumunu Güçlendirdi
 subtitle: CEVA Logistics, Borusan Lojistik’i Satın Alarak Türkiye’deki Konumunu Güçlendirdi
 date: '2025-11-05T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384127/
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_cf188828e69643c8879ae0782ed30c4c~mv2.jpg
 imageAlt: CEVA Logistics, Borusan Lojistik’in bağlı şirketini 383 milyon dolara satın alarak Türkiye’de 1,19 milyon m² depolama alanı, yıllık 1 milyon FTL taşımacılık hacmi ve güçlü LTL, araç lojistiği, hava–deniz taşımacılığı kapasitesi kazandı; Türkiye artık CEVA’nın gelir bazında üçüncü büyük ülkesi.

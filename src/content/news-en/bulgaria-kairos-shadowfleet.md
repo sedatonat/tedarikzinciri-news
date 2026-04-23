@@ -2,6 +2,7 @@
 title: Bulgaria Secures Damaged Kairos Tanker Off Burgas
 subtitle: Bulgaria Secures Damaged Kairos Tanker Off Burgas
 date: '2025-12-11T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385702/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_101af0a8660f4ed5871b1706529a0c73~mv2.jpg
 imageAlt: Status of the Kairos tanker following a Ukrainian maritime drone attack, evacuated from Turkish waters and drifting toward Bulgarian shores, detailing Bulgarian and Turkish authorities' intervention, shadow fleet risks, and implications for maritime security in the Black Sea

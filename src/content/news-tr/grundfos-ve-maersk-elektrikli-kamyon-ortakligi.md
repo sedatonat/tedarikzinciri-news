@@ -2,6 +2,7 @@
 title: Grundfos ve Maersk Elektrikli Kamyon Dağıtımını Hızlandırmak İçin Ortaklık Kurdu
 subtitle: Grundfos ve Maersk Elektrikli Kamyon Dağıtımını Hızlandırmak İçin Ortaklık Kurdu
 date: '2025-01-23T09:00:00Z'
+sourceUrl: https://container-news.com/grundfos-partners-with-maersk-to-drive-electric-truck-deployment/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5c41654cb2ca4fd4a085bbb578a99b10~mv2.jpg
 imageAlt: Grundfos ve Maersk Elektrikli Kamyon Dağıtımını Hızlandırmak İçin Ortaklık Kurdu

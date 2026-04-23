@@ -2,6 +2,7 @@
 title: TSMC'nin ABD'ye 100 Milyar Dolarlık Yatırımı
 subtitle: TSMC'nin ABD'ye 100 Milyar Dolarlık Yatırımı
 date: '2025-03-06T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/tsmc-invest-100-billion-us-trump-tariffs/741449/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_c461be90f4334a498218d18c0f43cbe4~mv2.jpg
 imageAlt: TSMC'nin ABD'ye 100 Milyar Dolarlık Yatırımı

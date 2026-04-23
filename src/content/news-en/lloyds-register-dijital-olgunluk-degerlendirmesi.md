@@ -2,6 +2,7 @@
 title: Lloyd's Register Releases Digital Maturity Assessment for Maritime Sector
 subtitle: Lloyd's Register Releases Digital Maturity Assessment for Maritime Sector
 date: '2024-10-02T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/lr-establishes-platform-to-drive-digital-maturity-in-maritime/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_41876b5951754d4ead43bcc006bc3953~mv2.jpg
 imageAlt: Lloyd's Register Releases Digital Maturity Assessment for Maritime Sector

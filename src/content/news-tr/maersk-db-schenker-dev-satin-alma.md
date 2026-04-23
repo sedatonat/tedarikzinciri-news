@@ -2,6 +2,7 @@
 title: Maersk, DB Schenker'i Satın Alma Peşinde
 subtitle: Maersk, DB Schenker'i Satın Alma Peşinde
 date: '2024-03-13T09:00:00Z'
+sourceUrl: https://splash247.com/maersk-studies-possible-db-schenker-acquisition/
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_6209676632634a9491da5127bee33e6c~mv2.jpg
 imageAlt: Maersk, DB Schenker'i Satın Alma Peşinde

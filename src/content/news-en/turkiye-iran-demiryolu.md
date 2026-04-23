@@ -2,6 +2,7 @@
 title: Turkey and Iran Continue Work to Achieve Rail Freight Targets
 subtitle: Turkey and Iran Continue Work to Achieve Rail Freight Targets
 date: '2025-01-29T09:00:00Z'
+sourceUrl: https://www.railfreight.com/railfreight/2025/01/29/turkiye-and-iran-still-working-to-achieve-common-rail-freight-goals-for-2021/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_992b0bb8070349139d9f03611a1eca66~mv2.jpg
 imageAlt: Turkey and Iran Continue Work to Achieve Rail Freight Targets

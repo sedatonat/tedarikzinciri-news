@@ -2,6 +2,7 @@
 title: U.S. and Australia Launch Strategic Partnership on Critical Minerals
 subtitle: U.S. and Australia Launch Strategic Partnership on Critical Minerals
 date: '2025-10-23T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/us-australia-framework-critical-mineral-supply-chain/803445/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_2b850b0f978241a59d2c187582adca5d~mv2.jpg
 imageAlt: The U.S. and Australia have agreed on a multi-billion-dollar joint investment plan to secure supply chains for rare earth elements and critical minerals in response to China's export restrictions.

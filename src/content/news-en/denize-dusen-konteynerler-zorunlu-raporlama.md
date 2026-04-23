@@ -2,6 +2,7 @@
 title: Mandatory Reporting for Containers Lost at Sea Now Required
 subtitle: Mandatory Reporting for Containers Lost at Sea Now Required
 date: '2024-06-03T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10354-wsc-applauds-mandatory-reporting-rule-for-containers-lost-at-sea
 category: Lojistik
 image: https://static.wixstatic.com/media/11062b_02801667808141c4a24587ddf51c8964~mv2.jpg
 imageAlt: Mandatory Reporting for Containers Lost at Sea Now Required

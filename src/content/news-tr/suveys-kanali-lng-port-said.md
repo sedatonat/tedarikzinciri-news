@@ -2,6 +2,7 @@
 title: Süveyş Kanalı Otoritesi ve Petrol Bakanlığı Port Said’de LNG Sıvılaştırma ve Yakıt İkmal Tesisi Kuruyor
 subtitle: Süveyş Kanalı Otoritesi ve Petrol Bakanlığı Port Said’de LNG Sıvılaştırma ve Yakıt İkmal Tesisi Kuruyor
 date: '2025-11-24T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384886/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_b138afb021134c03a0e933e57ce16dba~mv2.jpg
 imageAlt: Mısır’ın Port Said Raswa bölgesinde LNG sıvılaştırma, depolama ve bunker ikmal tesisi için Süveyş Kanalı Otoritesi ile Petrol ve Maden Kaynakları Bakanlığı arasında imzalanan mutabakat zaptı ve projenin “green channel” kalkınma planındaki rolünün detayları.

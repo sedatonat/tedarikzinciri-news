@@ -2,6 +2,7 @@
 title: ABB Ve HDF Energy Denizcilik İçin Yüksek Güçlü Yakıt Hücresi Geliştiriyor
 subtitle: ABB Ve HDF Energy Denizcilik İçin Yüksek Güçlü Yakıt Hücresi Geliştiriyor
 date: '2025-12-15T09:00:00Z'
+sourceUrl: https://gcaptain.com/abb-and-hdf-energy-to-develop-high-power-fuel-cell-unit-for-large-seagoing-ships/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_727337c8f7024c00a992ca85d45c44a1~mv2.jpg
 imageAlt: ABB ve HDF Energy, büyük deniz aşırı gemiler için megavat ölçekli hidrojen yakıt hücresi geliştirmek üzere anlaşma imzaladı; proje, denizcilikte karbonsuzlaşma ve hibrit güç sistemlerinde esnekliği artırmayı hedefliyor.

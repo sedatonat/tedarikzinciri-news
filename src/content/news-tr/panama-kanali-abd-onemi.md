@@ -2,6 +2,7 @@
 title: Panama Kanalı'nın ABD Ekonomisi İçin Önemi
 subtitle: Panama Kanalı'nın ABD Ekonomisi İçin Önemi
 date: '2025-01-29T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/fmc-highlights-panama-canals-importance-to-us-economy/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5035aabb1ecd45a0b13b22eec5662c6e~mv2.jpg
 imageAlt: Panama Kanalı'nın ABD Ekonomisi İçin Önemi

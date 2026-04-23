@@ -2,6 +2,7 @@
 title: Leading Trends in Supply Chain Digital Transformation
 subtitle: Leading Trends in Supply Chain Digital Transformation
 date: '2024-05-08T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10247-gartner-spotlights-eight-supply-chain-technology-trends
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_8665c0f065d9461a98558fbb6210e18f~mv2.jpg
 imageAlt: Leading Trends in Supply Chain Digital Transformation

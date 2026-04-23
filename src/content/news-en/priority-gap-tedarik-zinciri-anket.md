@@ -2,6 +2,7 @@
 title: 'Survey: Major Disconnect Between Supply Chain Executives and the C-Suite'
 subtitle: 'Survey: Major Disconnect Between Supply Chain Executives and the C-Suite'
 date: '2024-12-02T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40743-the-priority-gap-survey-reveals-major-disconnect-between-supply-chain-execs-and-the-c-suite
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_f0aa167fc31a42cda619229b4ac66f3d~mv2.jpg
 imageAlt: 'Survey: Major Disconnect Between Supply Chain Executives and the C-Suite'

@@ -2,6 +2,7 @@
 title: Zebra Exits Warehouse Robotics Business
 subtitle: Zebra Exits Warehouse Robotics Business
 date: '2025-12-18T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/zebra-plans-exit-warehouse-robotics-fetch
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_8e75f3d5275d4c9d80b525949984de01~mv2.jpg
 imageAlt: Zebra Technologies is planning to exit the in-warehouse mobile robot market that it entered through the acquisition of Fetch Robotics, shifting its focus toward growth areas including RFID, mobile computing, machine vision, artificial intelligence, and software-based solutions.

@@ -2,6 +2,7 @@
 title: Suez Diversions and IMO Discord Jeopardize 2030 Emissions Targets
 subtitle: Suez Diversions and IMO Discord Jeopardize 2030 Emissions Targets
 date: '2025-01-03T09:00:00Z'
+sourceUrl: https://www.joc.com/article/suez-diversions-lack-of-imo-agreement-put-2030-emissions-targets-at-risk-5916392
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2dc213247246489fb2aa6bdc9ee9d9fa~mv2.jpg
 imageAlt: Suez Diversions and IMO Discord Put 2030 Emissions Targets at Risk

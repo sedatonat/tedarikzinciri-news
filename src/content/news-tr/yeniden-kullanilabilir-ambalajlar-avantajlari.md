@@ -2,6 +2,7 @@
 title: Tedarik Zincirlerinde Yeniden Kullanılabilir Ambalajların Çift Yönlü Avantajları
 subtitle: Tedarik Zincirlerinde Yeniden Kullanılabilir Ambalajların Çift Yönlü Avantajları
 date: '2024-11-21T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/dual-case-reusable-transport-packaging-sustainability-cost-48forty-tosca-marrad/732961/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_00370951a2e9481bad7e3206560ce4ef~mv2.jpg
 imageAlt: Tedarik Zincirlerinde Yeniden Kullanılabilir Ambalajların Çift Yönlü Avantajları

@@ -2,6 +2,7 @@
 title: DHL, Inmar Entegrasyonu ile Tersine Lojistikte Yeni Dönem Başlatıyor
 subtitle: DHL, Inmar Entegrasyonu ile Tersine Lojistikte Yeni Dönem Başlatmakta
 date: '2025-10-03T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/move/store/dhl-integrates-inmar-into-reverse-logistics-operation
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4411493101ea482c81aa457aebcc85a0~mv2.jpg
 imageAlt: DHL, Inmar Entegrasyonu ile Tersine Lojistikte Yeni Dönem Başlatmakta

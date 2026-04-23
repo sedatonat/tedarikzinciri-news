@@ -2,6 +2,7 @@
 title: ABD, U.S. Steel'in Nippon Steel'e Satışını Engelledi
 subtitle: ABD, U.S. Steel'in Nippon Steel'e Satışını Engelledi
 date: '2025-01-03T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40925-biden-blocks-sale-of-us-steel-to-nippon
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_baba3a1de80344d0b0e2c3e19e5d44f1~mv2.jpg
 imageAlt: ABD, U.S. Steel'in Nippon Steel'e Satışını Engelledi

@@ -2,6 +2,7 @@
 title: 'Suez Canal Traffic Up 10%: Major Shipping Lines Return to Route'
 subtitle: 'Suez Canal Traffic Up 10%: Major Shipping Lines Return to Route'
 date: '2025-11-06T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/suez-canal-traffic-rebound-shipping-lines-return
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_072b7c50271e43968b3da9bddd1640f9~mv2.jpg
 imageAlt: The Suez Canal is experiencing its largest traffic surge since the crisis that began in 2023. In October, 229 vessels transited, total tonnage rose 10%, and major lines like CMA CGM and MSC have begun testing the route again.

@@ -2,6 +2,7 @@
 title: General Motors Halts BrightDrop Electric Van Production Due to Weak Demand
 subtitle: General Motors Halts BrightDrop Electric Van Production Due to Weak Demand
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/gm-shuts-down-brightdrop-after-weak-demand-for-electric-vans
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_bed6be3db24c4ea993a5dd2ee4ce5c2e~mv2.jpg
 imageAlt: General Motors has ended production of BrightDrop, its commercial electric van brand, citing poor sales and high costs. The company is restructuring its EV strategy to focus on long-term profitability and cost reduction.

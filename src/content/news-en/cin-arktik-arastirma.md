@@ -2,6 +2,7 @@
 title: China Delivers Arctic Research Vessel
 subtitle: China Delivers Arctic Research Vessel
 date: '2024-12-27T09:00:00Z'
+sourceUrl: https://gcaptain.com/china-delivers-arctic-capable-research-vessel-expanding-polar-presence/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_d918c192891b4f839e97eaa3630f0b6e~mv2.jpg
 imageAlt: China Delivers Arctic Research Vessel

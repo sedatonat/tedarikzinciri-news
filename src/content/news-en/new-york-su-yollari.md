@@ -2,6 +2,7 @@
 title: 'New York City Activates Waterways for Freight: Blue Highways Pilot Program Launched'
 subtitle: 'New York City Activates Waterways for Freight: Blue Highways Pilot Program Launched'
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/nyc-blue-highways-water-freight-pilot
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c0f47e05131942b0a46e8eda6dd83f85~mv2.jpg
 imageAlt: New York City's Blue Highways program, which has launched a water-based freight pilot between Manhattan and Brooklyn, aims to reduce truck traffic, integrates electric cargo bikes, and seeks resilience in urban logistics—detailed overview

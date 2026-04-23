@@ -2,6 +2,7 @@
 title: Koreli Orta Ölçekli Tersaneler MASGA Kapsamında ABD Donanması MRO Pazarına Giriyor
 subtitle: Koreli Orta Ölçekli Tersaneler MASGA Kapsamında ABD Donanması MRO Pazarına Giriyor
 date: '2025-11-27T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385068/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_80e7c90969d548bba214b22b87db3047~mv2.jpeg
 imageAlt: Güney Koreli orta ölçekli gemi inşa şirketlerinin MASGA çerçevesi altında ABD Donanması bakım-onarım pazarına giriş süreci, MSRA başvuruları ve stratejik yatırımların detaylı özeti

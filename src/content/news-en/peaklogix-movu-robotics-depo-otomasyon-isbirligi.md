@@ -2,6 +2,7 @@
 title: Strategic Partnership Between PeakLogix and Movu Robotics in Warehouse Automation
 subtitle: Strategic Partnership Between PeakLogix and Movu Robotics in Warehouse Automation
 date: '2024-03-01T09:00:00Z'
+sourceUrl: https://www.warehousinglogisticsinternational.com/movu-robotics-and-peaklogix-introduce-a-dynamic-collaboration-to-bring-easier-automation-to-more-warehouses/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_1022671aa74f4cda9af5b5d8557fc80c~mv2.jpg
 imageAlt: Strategic Partnership Between PeakLogix and Movu Robotics in Warehouse Automation

@@ -2,6 +2,7 @@
 title: Latest Maritime News and Developments
 subtitle: Latest Maritime News and Developments
 date: '2025-01-16T09:00:00Z'
+sourceUrl: https://gcaptain.com/page/2/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_437130fd148e40bb9f2838db862dff64~mv2.jpg
 imageAlt: Latest Maritime News and Developments

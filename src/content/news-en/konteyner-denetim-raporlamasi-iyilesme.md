@@ -2,6 +2,7 @@
 title: Call for Improvement in Container Inspection Reporting
 subtitle: Call for Improvement in Container Inspection Reporting
 date: '2024-09-19T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/cargo-integrity-group-calls-for-greater-maritime-safety/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_cdaf774ffc3e40ad97000cbbcf09209e~mv2.jpg
 imageAlt: Call for Improvement in Container Inspection Reporting

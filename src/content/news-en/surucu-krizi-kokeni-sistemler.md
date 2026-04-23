@@ -2,6 +2,7 @@
 title: 'The Root of the Driver Crisis: The Problem Is Systems, Not People'
 subtitle: 'The Root of the Driver Crisis: The Problem Is Systems, Not People'
 date: '2025-11-25T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/qa-matt-cartwright-magnus-technologies
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_386cfcfaff524c1dae2d4cb7d18e2e11~mv2.jpg
 imageAlt: Comprehensive news summary explaining that the real cause of the driver shortage in the trucking sector is not human resources, but fragmented operations, inconsistent workflows, and disconnected data structures

@@ -2,6 +2,7 @@
 title: U.S. Signs Trade Agreements with Southeast Asia and Signals Ceasefire with China
 subtitle: U.S. Signs Trade Agreements with Southeast Asia and Signals Ceasefire with China
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/trump-tariffs-trade-deals-asean-china-vietnam-thailand-cambodia-malaysia/803868/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_622cbbaef029477a8e0559dd518eec75~mv2.jpg
 imageAlt: The U.S. signed trade agreements with Vietnam, Thailand, Cambodia, and Malaysia that include reciprocal tariff rates. Progress was also reported in negotiations with China, with an imminent trade ceasefire in the offing.

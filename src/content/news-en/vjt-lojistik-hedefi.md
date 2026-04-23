@@ -2,6 +2,7 @@
 title: VJT Technology Group Eyes Logistics Sector Following Software Patent Award
 subtitle: VJT Technology Group Eyes Logistics Sector Following Software Patent Award
 date: '2025-01-13T09:00:00Z'
+sourceUrl: https://www.warehousinglogisticsinternational.com/vjt-targets-logistics-sector-following-software-patent-award/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5605ff95b5834f3fa2d7052e4cab2c4f~mv2.jpg
 imageAlt: VJT Technology Group Eyes Logistics Sector Following Software Patent Award

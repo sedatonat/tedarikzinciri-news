@@ -2,6 +2,7 @@
 title: Mitsubishi Heavy Industries Signs EPC Contract for Major Ammonia and Urea Complex in Turkmenistan
 subtitle: Mitsubishi Heavy Industries Signs EPC Contract for Major Ammonia and Urea Complex in Turkmenistan
 date: '2025-11-10T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384273/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_c24f89fa288e4c28a80a27948d05984f~mv2.jpg
 imageAlt: Mitsubishi Heavy Industries, together with GAP İnşaat, signed an EPC contract to build the country's largest fertilizer complex on the Kiyanly shore in the Balkan region of Turkmenistan, which will produce 2,000 tons of ammonia and 3,500 tons of urea daily.

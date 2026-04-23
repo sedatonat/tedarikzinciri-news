@@ -2,6 +2,7 @@
 title: CMA CGM, İki Mega Gemiyi Red Sea Üzerinden Asya’ya Geri Göndererek Güzergâhı Test Ediyor
 subtitle: CMA CGM, İki Mega Gemiyi Red Sea Üzerinden Asya’ya Geri Göndererek Güzergâhı Test Etmekte
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://www.joc.com/article/cma-cgm-alliance-megaships-test-red-sea-waters-on-return-to-asia-6105787
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_ad76fd7d3e76451b874e44e901a255d9~mv2.jpeg
 imageAlt: CMA CGM, Benjamin Franklin (17.859 TEU) ve Sorbonne (23.112 TEU) adlı Ocean Alliance megaship’lerini Süveyş–Kızıldeniz rotasında iki yıl sonra ilk kez yeniden denemekte; bu hareket, bölgenin temkinli şekilde normale dönmeye başladığına işaret etmekte.

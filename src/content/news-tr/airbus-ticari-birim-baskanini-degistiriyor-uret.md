@@ -2,6 +2,7 @@
 title: Airbus SE, Ticari Uçak Biriminin Başını Değiştiriyor ve Üretim Hedeflerine Bağlı Kalıyor
 subtitle: Airbus SE, Ticari Uçak Biriminin Başını Değiştiriyor ve Üretim Hedeflerine Bağlı Kalıyor
 date: '2024-11-01T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40616-airbus-reaffirms-delivery-goals-after-months-of-supply-chain-turmoil
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_554836ee0bc84824b0da4385fbcdcf2f~mv2.jpg
 imageAlt: Airbus SE, Ticari Uçak Biriminin Başını Değiştiriyor ve Üretim Hedeflerine Bağlı Kalıyor

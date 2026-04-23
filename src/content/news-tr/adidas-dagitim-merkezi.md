@@ -2,6 +2,7 @@
 title: Adidas Modern Dağıtım Merkezlerinde Standart Belirliyor
 subtitle: Adidas Modern Dağıtım Merkezlerinde Standart Belirlemekte
 date: '2025-08-15T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42315-adidas-sets-the-standard-for-modern-dcs
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_3d0d23df86d64f898556c4dc651300be~mv2.png
 imageAlt: Adidas Modern Dağıtım Merkezlerinde Standart Belirlemekte

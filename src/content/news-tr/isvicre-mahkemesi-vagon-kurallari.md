@@ -2,6 +2,7 @@
 title: 'İsviçre’de Vagon Kuralları Askıya Alındı: Mahkeme AB ile Uyum Eksikliğine Dikkat Çekti'
 subtitle: 'İsviçre’de Vagon Kuralları Askıya Alındı: Mahkeme AB ile Uyum Eksikliğine Dikkat Çekti'
 date: '2025-12-10T09:00:00Z'
+sourceUrl: https://www.railfreight.com/policy/2025/12/10/swiss-court-blocks-fots-wheel-regulations/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_dbb038d623f0471bbf6044642c69b0dd~mv2.jpg
 imageAlt: İsviçre Federal İdare Mahkemesi’nin, Federal Ulaştırma Dairesi’nin tek taraflı vagon güvenlik kurallarını askıya alması, Gotthard kazası sonrası gündeme gelen tekerlek düzenlemeleri ve Avrupa demiryolu yük sektörünün verdiği tepkinin detaylı özeti

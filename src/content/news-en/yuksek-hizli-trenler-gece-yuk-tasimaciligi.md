@@ -2,6 +2,7 @@
 title: High-Speed Trains Begin Night Freight Operations
 subtitle: High-Speed Trains Begin Night Freight Operations
 date: '2024-09-09T09:00:00Z'
+sourceUrl: https://www.yenisafak.com/ekonomi/yht-geceleri-yuk-tasiyacak-4643703
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7cdf308358e94b08b5bfea0e91b78270~mv2.jpg
 imageAlt: High-Speed Trains Begin Night Freight Operations

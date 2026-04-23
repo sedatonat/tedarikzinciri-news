@@ -2,6 +2,7 @@
 title: Lockheed Martin Invests $50 Million in Saildrone for Armed Autonomous Marine Platforms
 subtitle: Lockheed Martin Invests $50 Million in Saildrone for Armed Autonomous Marine Platforms
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://gcaptain.com/lockheed-martin-invests-50-million-in-saildrone-to-arm-unmanned-surface-vessels/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_350cd713b5674c309b5e8223dc62903d~mv2.jpg
 imageAlt: With its $50 million investment in Saildrone, Lockheed Martin aims to integrate armed systems into autonomous maritime vehicles. Under the partnership, armed USV (Unmanned Surface Vessel) platforms being developed for the U.S. Navy will undergo live-fire testing in 2026.

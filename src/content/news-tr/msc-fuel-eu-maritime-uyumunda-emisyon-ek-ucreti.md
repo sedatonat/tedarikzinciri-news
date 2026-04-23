@@ -2,6 +2,7 @@
 title: MSC, FuelEU Maritime Uyum Sürecinde Emisyon Ek Ücreti Getiriyor
 subtitle: MSC, FuelEU Maritime Uyum Sürecinde Emisyon Ek Ücreti Getiriyor
 date: '2024-10-01T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/msc-responds-to-fueleu-maritime-with-new-emissions-surcharge/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_de03ba988dcc47b1957e5f9d3fecaafa~mv2.jpg
 imageAlt: MSC, FuelEU Maritime Uyum Sürecinde Emisyon Ek Ücreti Getiriyor

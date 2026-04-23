@@ -2,6 +2,7 @@
 title: Hindistan, DP World ve Maersk’ten 7 Milyar Dolarlık Yeni Liman ve Lojistik Yatırımı Aldı
 subtitle: Hindistan, DP World ve Maersk’ten 7 Milyar Dolarlık Yeni Liman ve Lojistik Yatırımı Aldı
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://splash247.com/india-nets-7bn-in-fresh-investment-from-dp-world-and-maersk/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_368399c0316444fca4761f815f3b8e12~mv2.jpg
 imageAlt: Hindistan, Dubai merkezli DP World ve Danimarkalı APM Terminals (Maersk Group)’ten toplam 7 milyar doların üzerinde yeni yatırım alarak küresel denizcilik ve lojistik gücü olma hedefinde önemli bir adım attı. Yatırımlar, liman kapasitesi, yeşil deniz taşımacılığı ve intermodal bağlantılar üzerine yoğunlaşıyor.

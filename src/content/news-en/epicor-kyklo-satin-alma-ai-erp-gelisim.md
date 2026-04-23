@@ -2,6 +2,7 @@
 title: Epicor Accelerates AI-Powered ERP Development with Kyklo Acquisition
 subtitle: Epicor Accelerates AI-Powered ERP Development with Kyklo Acquisition
 date: '2024-06-12T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10404-epicor-acquires-enterprise-software-startup-kyklo
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_54c7b0bb0d044abe8cad623fbf0d8251~mv2.png
 imageAlt: Epicor Accelerates AI-Powered ERP Development with Kyklo Acquisition

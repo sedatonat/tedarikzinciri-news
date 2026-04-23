@@ -2,6 +2,7 @@
 title: Denizcilik Sektöründe İstihdamın Sürdürülebilirliği İçin ISWAN'dan Çağrı
 subtitle: Denizcilik Sektöründe İstihdamın Sürdürülebilirliği İçin ISWAN'dan Çağrı
 date: '2024-05-13T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/iswan-addresses-maritime-recruiting-crisis/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_410c34e78e7a4a4eae1928b52a06e319~mv2.jpg
 imageAlt: Denizcilik Sektöründe İstihdamın Sürdürülebilirliği İçin ISWAN'dan Çağrı

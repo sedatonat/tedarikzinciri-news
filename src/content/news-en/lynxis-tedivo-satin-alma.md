@@ -2,6 +2,7 @@
 title: Lynxis Expands Digital Solutions with TEDIVO Acquisition
 subtitle: Lynxis Expands Digital Solutions with TEDIVO Acquisition
 date: '2025-01-16T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/lynxis-expands-digital-solutions-with-tedivo-acquisition/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_e020a04258cb4a5daade8fdbff500ded~mv2.jpg
 imageAlt: Lynxis Expands Digital Solutions with TEDIVO Acquisition

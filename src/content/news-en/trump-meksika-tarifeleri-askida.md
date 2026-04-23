@@ -2,6 +2,7 @@
 title: Trump Suspends Mexico Tariffs Until April 2
 subtitle: Trump Suspends Mexico Tariffs Until April 2
 date: '2025-03-06T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/trump-pause-mexico-tariffs-april-2/741786/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_92212f3ed01a45d196c0ba6471f03dd4~mv2.png
 imageAlt: Trump Suspends Mexico Tariffs Until April 2

@@ -2,6 +2,7 @@
 title: DSV, Rakibini Geride Bırakarak Dünyanın En Büyük Freight Forwarder’ı Oldu
 subtitle: DSV, Rakibini Geride Bırakarak Dünyanın En Büyük Freight Forwarder’ı Oldu
 date: '2025-11-18T09:00:00Z'
+sourceUrl: https://shippingwatch.com/logistics/article18752718.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e86e2e974ef94729a6cd2cf0b9c84478~mv2.jpg
 imageAlt: DSV, son finansal sonuçların karşılaştırılmasıyla Alman rakibini geçerek dünyanın en büyük freight forwarder’ı konumuna yükseldi; DHL ve Kuehne+Nagel ise zor bir çeyrek geçirdi.

@@ -2,6 +2,7 @@
 title: EU Introduces New Regulations to Reduce Emissions in Shipping Sector
 subtitle: EU Introduces New Regulations to Reduce Emissions in Shipping Sector
 date: '2025-01-17T09:00:00Z'
+sourceUrl: https://shippingwatch.com/regulation/article17819252.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_60d7b7d57e4e4ca18a8e1dce935ba648~mv2.jpg
 imageAlt: EU Introduces New Regulations to Reduce Emissions in Shipping Sector

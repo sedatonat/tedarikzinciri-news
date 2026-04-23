@@ -2,6 +2,7 @@
 title: Los Angeles Yangınlarında ALAN'ın Rolü
 subtitle: Los Angeles Yangınlarında ALAN'ın Rolü
 date: '2025-01-22T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/los-angeles-wildfires-ALAN-assistance
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d22fa0c5bf6b43b182fa31242e48a5ca~mv2.jpg
 imageAlt: Los Angeles Yangınlarında ALAN'ın Rolü

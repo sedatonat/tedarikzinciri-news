@@ -2,6 +2,7 @@
 title: 'CMA CGM Launches Innovation and Training Center: Tangram Opens in Marseilles'
 subtitle: 'CMA CGM Launches Innovation and Training Center: Tangram Opens in Marseilles'
 date: '2024-05-08T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10244-cma-cgm-launches-training-and-innovation-center
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1852d82e700b443296ba90fb2bcb31df~mv2.png
 imageAlt: 'CMA CGM Launches Innovation and Training Center: Tangram Opens in Marseilles'

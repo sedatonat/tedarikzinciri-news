@@ -2,6 +2,7 @@
 title: Kızıldeniz’deki Sakinlik Navlun Fiyatlarını %25 Azaltabilir
 subtitle: Kızıldeniz’deki Sakinlik Navlun Fiyatlarını %25 Azaltabilir
 date: '2025-01-23T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/red-sea-calm-could-cut-freight-prices-by-25-says-dp-world
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d050a3eeb6b84d0ebcbf58695dbca961~mv2.jpg
 imageAlt: Kızıldeniz’deki Sakinlik Navlun Fiyatlarını %25 Azaltabilir

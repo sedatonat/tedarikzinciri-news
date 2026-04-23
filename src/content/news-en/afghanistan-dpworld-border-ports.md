@@ -2,6 +2,7 @@
 title: Afghanistan Signs Framework Agreement with DP World to Modernize Hairatan and Torkham Border Gates
 subtitle: Afghanistan Signs Framework Agreement with DP World to Modernize Hairatan and Torkham Border Gates
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385489/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c095a284ad414cc69129e13d2ed94aef~mv2.jpg
 imageAlt: Afghanistan's Ministry of Finance framework investment agreement with DP World for modernization of Hairatan and Torkham border ports, detailing impact on Central Asia–South Asia logistics corridors and pathway to binding agreements

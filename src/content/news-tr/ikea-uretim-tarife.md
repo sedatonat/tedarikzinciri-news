@@ -2,6 +2,7 @@
 title: IKEA, Tarifeler Nedeniyle ABD’de Üretimi Artırmaya Yöneliyor
 subtitle: IKEA, Tarifeler Nedeniyle ABD’de Üretimi Artırmaya Yöneliyor
 date: '2025-12-09T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/ikea-ramps-up-us-manufacturing-tariffs-2025
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_8f2493e913ee44c8a5bde229d575da83~mv2.jpg
 imageAlt: IKEA’nın artan tarifeler ve lojistik maliyetler karşısında ABD’de yerel üretimi büyütme kararı, teslimat hızını artırma hedefi, tedarik zinciri risklerini azaltma stratejisi ve ABD lojistik altyapısıyla entegrasyonunun detaylı özeti

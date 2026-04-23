@@ -2,6 +2,7 @@
 title: 'Xiaomi''den Otomotiv Sektörüne Büyük Adım: İlk Elektrikli Araç Mart''ta Yollarda'
 subtitle: 'Xiaomi''den Otomotiv Sektörüne Büyük Adım: İlk Elektrikli Araç Mart''ta Yollarda'
 date: '2024-03-12T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/39254-chinas-xiaomi-to-start-electric-car-sales
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_a96f84eb2d504b30a4a4317922e8b587~mv2.jpg
 imageAlt: 'Xiaomi''den Otomotiv Sektörüne Büyük Adım: İlk Elektrikli Araç Mart''ta Yollarda'

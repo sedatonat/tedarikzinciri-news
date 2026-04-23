@@ -2,6 +2,7 @@
 title: MACN Launches New Anti-Corruption Program for Maritime Supply Chains in Asia and Europe
 subtitle: MACN Launches New Anti-Corruption Program for Maritime Supply Chains in Asia and Europe
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://splash247.com/new-anti-corruption-campaign-rolls-out-across-asian-and-european-hubs/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0c0e4d32d6f243b3b0aa4cd2203f4e3c~mv2.jpg
 imageAlt: Overview of the scope, tools and transparency objectives of the three-year "Transparent Trade Routes" program implemented by Maritime Anti-Corruption Network with support from Siemens Integrity Initiative in Indonesia, Malaysia and Germany

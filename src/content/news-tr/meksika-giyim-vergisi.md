@@ -2,6 +2,7 @@
 title: Meksika, Giyim İthalatına Ek Gümrük Vergileri Getirdi
 subtitle: Meksika, Giyim İthalatına Ek Gümrük Vergileri Getirdi
 date: '2025-01-03T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40926-mexico-announces-increased-tariffs-on-apparel-imports
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_3657a84bedfa4aecb9b7070cdf6e387c~mv2.jpg
 imageAlt: Meksika, Giyim İthalatına Ek Gümrük Vergileri Getirdi

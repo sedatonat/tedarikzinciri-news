@@ -2,6 +2,7 @@
 title: 'Warehouse Crisis Looms: Occupancy Rates Exceed 90%'
 subtitle: 'Warehouse Crisis Looms: Occupancy Rates Exceed 90%'
 date: '2024-09-18T09:00:00Z'
+sourceUrl: https://www.lojiport.com/doluluk-oranlari-90lara-cikti-depo-krizi-gelebilir-117072h.htm
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_d1f237a7f7dc4eee8060106b7877d434~mv2.jpg
 imageAlt: 'Warehouse Crisis Looms: Occupancy Rates Exceed 90%'

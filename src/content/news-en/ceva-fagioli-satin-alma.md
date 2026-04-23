@@ -2,6 +2,7 @@
 title: CEVA Logistics Acquires Heavy Hauling Specialist Fagioli Group
 subtitle: CEVA Logistics Acquires Heavy Hauling Specialist Fagioli Group
 date: '2025-12-15T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/ceva-logistics-fagioli-project-logistics-acquisition
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_b4dc0cabd16146e1a71812ec33caae77~mv2.jpg
 imageAlt: Detailed sector overview addressing CEVA Logistics' acquisition of Fagioli Group, providing end-to-end competency in heavy hauling, project logistics, and complex cargo operations

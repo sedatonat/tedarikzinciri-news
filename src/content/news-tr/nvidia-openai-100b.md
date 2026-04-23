@@ -2,6 +2,7 @@
 title: Nvidia Openai İşbirliğiyle Veri Merkezlerine 100b$ Ayırıyor
 subtitle: Nvidia Openai İşbirliğiyle Veri Merkezlerine 100b$ Ayırıyor
 date: '2025-09-23T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42534-nvidia-to-pour-100b-into-data-center-deal-with-openai
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_8ce299e54c1547e3a4e4ab6293413ff6~mv2.png
 imageAlt: Nvidia Openai İşbirliğiyle Veri Merkezlerine 100b$ Ayırıyor

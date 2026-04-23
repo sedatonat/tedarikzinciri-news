@@ -2,6 +2,7 @@
 title: Rusya, Bir Milyon Varilden Fazla Petrolle Kuzey Kore'ye Destek Sağlıyor
 subtitle: Rusya, Bir Milyon Varilden Fazla Petrolle Kuzey Kore'ye Destek Sağlıyor
 date: '2024-11-22T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40721-russia-supplies-north-korea-with-oil-breaking-sanctions
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_9279f620b08c4ced9b7d7b49333a07aa~mv2.jpg
 imageAlt: Rusya, Bir Milyon Varilden Fazla Petrolle Kuzey Kore'ye Destek Sağlıyor

@@ -2,6 +2,7 @@
 title: 'Generative AI in Procurement and Supply Chain Processes: From Expectations to Reality'
 subtitle: 'Generative AI in Procurement and Supply Chain Processes: From Expectations to Reality'
 date: '2024-07-25T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10630-generative-ai-for-procurement-moves-beyond-hype
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_8e4b816434fd41868b9f1193dd6048d2~mv2.jpg
 imageAlt: 'Generative AI in Procurement and Supply Chain Processes: From Expectations to Reality'

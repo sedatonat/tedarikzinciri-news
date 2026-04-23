@@ -2,6 +2,7 @@
 title: Amazon Cuts Carbon Emissions by 15% at Market Logistics Centers
 subtitle: Amazon Cuts Carbon Emissions by 15% at Market Logistics Centers
 date: '2025-12-09T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/amazon-sustainability-grocery-fulfillment/807445/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_22b437dd30074c7bae9b0a378618d350~mv2.jpg
 imageAlt: Amazon's pilot program with Trane Technologies and BrainBox AI has reduced energy consumption by 15% at grocery fulfillment centers, a detailed summary of logistics impacts related to the national rollout plan and 2040 carbon neutrality goal

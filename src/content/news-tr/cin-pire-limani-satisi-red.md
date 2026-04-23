@@ -2,6 +2,7 @@
 title: 'Çin: Pire Limanı Satılık Değil'
 subtitle: 'Çin: Pire Limanı Satılık Değil'
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://shippingwatch.com/Ports/article18767800.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_37b16e322015409ebc80d7268603c2e6~mv2.jpg
 imageAlt: Çin, ABD’nin açıklamalarına yanıt vererek Pire Limanı’nın satılmadığını ve COSCO’nun limandaki stratejik varlığını sürdüreceğini açıkladı; liman Afrika–Asya–Avrupa ticaretinin merkezindeki en önemli konteyner merkezlerinden biri.

@@ -2,6 +2,7 @@
 title: 'NTSB: Dali’nin Francis Scott Key Köprüsü Çarpışmasına Tek Bir Gevşek Kablo Neden Oldu'
 subtitle: 'NTSB: Dali’nin Francis Scott Key Köprüsü Çarpışmasına Tek Bir Gevşek Kablo Neden Oldu'
 date: '2025-11-18T09:00:00Z'
+sourceUrl: https://gcaptain.com/single-loose-wire-caused-dalis-catastrophic-bridge-strike-ntsb-concludes/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c3fcbbf658014c5e87bc2d1f79d99529~mv2.jpg
 imageAlt: NTSB, Dali adlı konteyner gemisinin 2024’te Francis Scott Key Köprüsü’ne çarpmasına yol açan elektrik kesintisinin, terminal bloğuna tam oturmayan tek bir gevşek sinyal kablosundan kaynaklandığını açıkladı.

@@ -2,6 +2,7 @@
 title: 'U.S. Ports: Ocean Cargo Trends by Volume'
 subtitle: 'U.S. Ports: Ocean Cargo Trends by Volume'
 date: '2025-01-17T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/largest-us-ports-by-volume-month-coast-cargo-trends/693493/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f2da2eaf1bd5408e81f85a54d6d82668~mv2.jpg
 imageAlt: 'U.S. Ports: Ocean Cargo Trends by Volume'

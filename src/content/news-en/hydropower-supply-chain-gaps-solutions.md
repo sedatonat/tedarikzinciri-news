@@ -2,6 +2,7 @@
 title: Major Gaps and Solutions in Hydropower Supply Chain
 subtitle: Major Gaps and Solutions in Hydropower Supply Chain
 date: '2024-08-07T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40158-us-dept-of-energy-highlights-major-gaps-in-hydropower-supply-chain
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_9386064b06364d9bbf42eb736fd17405~mv2.jpg
 imageAlt: Major Gaps and Solutions in Hydropower Supply Chain

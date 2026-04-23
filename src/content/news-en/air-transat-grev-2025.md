@@ -2,6 +2,7 @@
 title: Canadian Airline Air Transat Begins Suspending Flights Amid Pilot Strike Threat
 subtitle: Canadian Airline Air Transat Begins Suspending Flights Amid Pilot Strike Threat
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42951-canadian-airline-says-it-will-suspend-flights-in-response-to-strike-threat
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0fc33f202ef24f79b444e8cc8d0b0d0d~mv2.jpg
 imageAlt: Following a 72-hour strike notice from Air Transat pilots, the airline's phased flight suspension decision, union-management tensions, operational risks, and detailed summary of impacts on Canada's aviation sector

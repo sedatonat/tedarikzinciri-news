@@ -2,6 +2,7 @@
 title: 'Denizde Kaybolan Konteyner Sayısında Tarihi Düşüş: 2023 Yılında 221 Konteyner Kayboldu'
 subtitle: 'Denizde Kaybolan Konteyner Sayısında Tarihi Düşüş: 2023 Yılında 221 Konteyner Kayboldu'
 date: '2024-06-11T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10400-number-of-shipping-containers-lost-at-sea-sinks-to-new-low
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1aade18a1478471f9c8ef6d0d4c634c2~mv2.png
 imageAlt: 'Denizde Kaybolan Konteyner Sayısında Tarihi Düşüş: 2023 Yılında 221 Konteyner Kayboldu'

@@ -2,6 +2,7 @@
 title: As Logistics Companies Accelerate Technology Investment in 2026, Cybersecurity Falls Behind
 subtitle: As Logistics Companies Accelerate Technology Investment in 2026, Cybersecurity Falls Behind
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/logistics-firms-tech-investment-2026
 category: Lojistik
 image: https://static.wixstatic.com/media/9112846f96204977a0464974d2073fc3.jpg
 imageAlt: According to OntegosCloud's global survey, 40% of logistics and 3PL companies plan to allocate more than a quarter of their 2026 budgets to technology. However, only 11% view cybersecurity and regulatory compliance as a priority agenda item.

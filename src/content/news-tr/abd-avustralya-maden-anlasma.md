@@ -2,6 +2,7 @@
 title: ABD ve Avustralya Kritik Madenler İçin Stratejik İş Birliği Başlattı
 subtitle: ABD ve Avustralya Kritik Madenler İçin Stratejik İş Birliği Başlattı
 date: '2025-10-23T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/us-australia-framework-critical-mineral-supply-chain/803445/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_2b850b0f978241a59d2c187582adca5d~mv2.jpg
 imageAlt: ABD ve Avustralya, Çin’in ihracat kısıtlamaları karşısında nadir toprak ve kritik minerallerin tedarik zincirini güvence altına almak amacıyla milyarlarca dolarlık ortak yatırım planı üzerinde anlaştı.

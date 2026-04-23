@@ -2,6 +2,7 @@
 title: U.S. Drug Shortages 40% More Likely Than in Canada
 subtitle: U.S. Drug Shortages 40% More Likely Than in Canada
 date: '2024-11-01T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40608-supply-chain-issues-continue-to-fuel-drug-shortages-in-us
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_f10d9afb3cff453e8eb6f359dc7910bf~mv2.jpg
 imageAlt: U.S. Drug Shortages 40% More Likely Than in Canada

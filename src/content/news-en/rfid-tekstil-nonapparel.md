@@ -2,6 +2,7 @@
 title: Key Technical Considerations for RFID Product Tagging of Non-Apparel Items
 subtitle: Key Technical Considerations for RFID Product Tagging of Non-Apparel Items
 date: '2024-09-12T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/blog/rfid-item-tagging
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_43916d89423f4ac7be87dd949f66b4ed~mv2.jpg
 imageAlt: Key Technical Considerations for RFID Product Tagging of Non-Apparel Items

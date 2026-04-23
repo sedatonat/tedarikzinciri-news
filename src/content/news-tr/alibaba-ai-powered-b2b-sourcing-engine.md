@@ -2,6 +2,7 @@
 title: Alibaba, Yapay Zeka Destekli Tedarik Motorunu B2B E-Ticaret İçin Piyasaya Sürüyor
 subtitle: Alibaba, Yapay Zeka Destekli Tedarik Motorunu B2B E-Ticaret İçin Piyasaya Sürüyor
 date: '2024-08-02T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/topics/129-procurement
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_7b47c0f177be491da565cacdb58b2c6d~mv2.png
 imageAlt: Alibaba, Yapay Zeka Destekli Tedarik Motorunu B2B E-Ticaret İçin Piyasaya Sürüyor

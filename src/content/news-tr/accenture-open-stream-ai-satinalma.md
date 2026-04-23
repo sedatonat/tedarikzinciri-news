@@ -2,6 +2,7 @@
 title: Accenture, Open Stream Holdings'i Bünyesine Katıyor
 subtitle: Accenture, Open Stream Holdings'i Bünyesine Katıyor
 date: '2024-07-01T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10514-accenture-completes-acquisition-of-open-stream-holdings
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_9ea3ce0775b143faba3df94df6270da8~mv2.jpeg
 imageAlt: Accenture, Open Stream Holdings'i Bünyesine Katıyor

@@ -2,6 +2,7 @@
 title: Saudi Arabia Launches First Container Rail Transport
 subtitle: Saudi Arabia Launches First Container Rail Transport
 date: '2024-04-29T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/mawani-launches-first-railway-transport-between-major-saudi-ports/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_da119d572ba34863ad1bdc0de016de91~mv2.jpg
 imageAlt: Saudi Arabia Launches First Container Rail Transport

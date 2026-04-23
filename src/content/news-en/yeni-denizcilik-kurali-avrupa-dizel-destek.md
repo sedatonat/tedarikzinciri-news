@@ -2,6 +2,7 @@
 title: New Shipping Rule to Support Europe's Faltering Diesel Demand
 subtitle: New Shipping Rule to Support Europe's Faltering Diesel Demand
 date: '2024-10-31T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40599-new-shipping-pollution-rule-to-aid-europes-ailing-diesel-demand
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1d6d4f9952f241d8b5f2894dfba71d21~mv2.jpg
 imageAlt: New Shipping Rule to Support Europe's Faltering Diesel Demand

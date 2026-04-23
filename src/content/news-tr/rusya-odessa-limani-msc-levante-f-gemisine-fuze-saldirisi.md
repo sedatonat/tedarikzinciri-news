@@ -2,6 +2,7 @@
 title: Rusya'nın Odessa Limanı'nda MSC Levante F Gemisine Füze Saldırısı​
 subtitle: Rusya'nın Odessa Limanı'nda MSC Levante F Gemisine Füze Saldırısı​
 date: '2025-03-04T09:00:00Z'
+sourceUrl: https://container-news.com/russian-strikes-hit-msc-ship-in-odessa/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7b9ea2c8f3754f1f828339bf7e7c74ba~mv2.jpg
 imageAlt: Rusya'nın Odessa Limanı'nda MSC Levante F Gemisine Füze Saldırısı​

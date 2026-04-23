@@ -2,6 +2,7 @@
 title: Tedarik Zincirinde Kaynak Kısıtlamalarını Yönetmenin Üç Adımı
 subtitle: Tedarik Zincirinde Kaynak Kısıtlamalarını Yönetmenin Üç Adımı
 date: '2024-06-11T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10401-gartner-names-three-steps-to-mitigate-long-term-resource-constraints
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_7e459351a3b347af843c8ff78a098f4b~mv2.png
 imageAlt: Tedarik Zincirinde Kaynak Kısıtlamalarını Yönetmenin Üç Adımı

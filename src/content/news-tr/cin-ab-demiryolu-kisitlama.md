@@ -2,6 +2,7 @@
 title: Çin-AB Demiryolu Taşımacılığında Rusya'dan Yeni Kısıtlama Yok
 subtitle: Çin-AB Demiryolu Taşımacılığında Rusya'dan Yeni Kısıtlama Yok
 date: '2024-12-19T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2024/12/19/russia-has-no-plans-to-introduce-additional-restrictions-on-china-eu-rail-cargo-transit/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5b7f7efc490a4eb09afd01a1fd785d02~mv2.jpg
 imageAlt: Çin-AB Demiryolu Taşımacılığında Rusya'dan Yeni Kısıtlama Yok

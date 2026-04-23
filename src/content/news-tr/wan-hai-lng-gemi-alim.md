@@ -2,6 +2,7 @@
 title: Wan Hai, 6 LNG Yakıtlı Konteyner Gemi Siparişi Verdi
 subtitle: Wan Hai, 6 LNG Yakıtlı Konteyner Gemi Siparişi Verdi
 date: '2025-12-16T09:00:00Z'
+sourceUrl: https://www.joc.com/article/wan-hai-inks-roughly-500-million-deal-for-six-lng-powered-ships-6136125
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_4a51affc6cf74d158326685530fa3c60~mv2.jpg
 imageAlt: Wan Hai Lines’ın yaklaşık 500 milyon dolar tutarındaki dual-fuel LNG-powered konteyner gemi yatırımıyla filo yapısını güçlendirmesini ve trans-Pasifik stratejisine etkilerini ele alan detaylı sektör özeti

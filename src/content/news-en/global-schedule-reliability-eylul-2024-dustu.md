@@ -2,6 +2,7 @@
 title: Global Schedule Reliability Declined in September 2024
 subtitle: Global Schedule Reliability Declined in September 2024
 date: '2024-11-01T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/maersk-remains-the-most-reliable-carrier-in-september/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5f4655670de34d0e92389a4296d49c5d~mv2.jpg
 imageAlt: Global Schedule Reliability Declined in September 2024

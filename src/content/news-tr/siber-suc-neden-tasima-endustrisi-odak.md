@@ -2,6 +2,7 @@
 title: Siber Suçlular Neden Taşıma Endüstrisini Hedef Alıyor?
 subtitle: Siber Suçlular Neden Taşıma Endüstrisini Hedef Alıyor?
 date: '2024-05-06T09:00:00Z'
+sourceUrl: https://www.allthingssupplychain.com/why-cybercriminals-target-the-freight-industry/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_82fd88c9d5c8491ebf8a3160fe39f1e2~mv2.jpg
 imageAlt: Siber Suçlular Neden Taşıma Endüstrisini Hedef Alıyor?

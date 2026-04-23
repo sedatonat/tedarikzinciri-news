@@ -2,6 +2,7 @@
 title: MSC Filosunu 7 Milyon TEU’nun Üzerine Çıkardı
 subtitle: MSC Filosunu 7 Milyon TEU’nun Üzerine Çıkardı
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://splash247.com/msc-crosses-the-7m-teu-mark/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6aabc3b91fcf4f81830ba6d94d99e171~mv2.jpg
 imageAlt: MSC’nin filosunun 7 milyon TEU’yu aşarak küresel konteyner taşımacılığında rakipsiz büyüklüğe ulaştığını açıklayan kapsamlı özet.

@@ -2,6 +2,7 @@
 title: Türkiye'de lojistik merkezlerinin kriterleri belirlendi
 subtitle: Türkiye'de lojistik merkezlerinin kriterleri belirlendi
 date: '2023-12-23T09:00:00Z'
+sourceUrl: https://www.lojiport.com/lojistik-merkezlere-yeni-kriterler-geliyor-115992h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_414bd42ad52642c1baa6b78cf8e394b8~mv2.jpg
 imageAlt: Türkiye'de lojistik merkezlerinin kriterleri belirlendi

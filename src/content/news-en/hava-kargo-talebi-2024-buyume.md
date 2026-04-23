@@ -2,6 +2,7 @@
 title: Air Cargo Demand on Track for Double-Digit Growth in 2024
 subtitle: Air Cargo Demand on Track for Double-Digit Growth in 2024
 date: '2024-11-06T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/xeneta-air-cargo-demand-port-strike-2024-october/732091/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c1174edf01524e4fb49608ddae791337~mv2.jpg
 imageAlt: Air Cargo Demand on Track for Double-Digit Growth in 2024

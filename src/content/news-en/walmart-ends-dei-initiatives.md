@@ -2,6 +2,7 @@
 title: Walmart Ends DEI Initiatives
 subtitle: Walmart Ends DEI Initiatives
 date: '2024-11-28T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40752-walmart-to-end-its-dei-initiatives
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_86429d811604438a80c677efd1a4fb8d~mv2.jpg
 imageAlt: Walmart Ends DEI Initiatives

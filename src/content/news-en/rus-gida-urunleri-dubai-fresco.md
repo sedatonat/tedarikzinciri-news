@@ -2,6 +2,7 @@
 title: First Refrigerated Container of Russian Food Products Shipped from Moscow to Dubai
 subtitle: First Refrigerated Container of Russian Food Products Shipped from Moscow to Dubai
 date: '2025-01-28T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/01/28/en-the-first-refrigerated-container-with-russian-food-products-from-moscow-to-dubai/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_ac444aa20f584f48aa36dad6a9c60a5a~mv2.jpg
 imageAlt: First Refrigerated Container of Russian Food Products Shipped from Moscow to Dubai

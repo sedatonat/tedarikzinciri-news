@@ -2,6 +2,7 @@
 title: 'TriVenture Logistics Growth: Built on WMS Innovation'
 subtitle: 'TriVenture Logistics Growth: Built on WMS Innovation'
 date: '2025-02-03T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41067-triventure-logistics-growth-built-on-wms-innovation
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_713484bf6dac4d8e922989c9f4ca9328~mv2.jpg
 imageAlt: 'TriVenture Logistics Growth: Built on WMS Innovation'

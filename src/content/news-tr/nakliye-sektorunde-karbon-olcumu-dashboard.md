@@ -2,6 +2,7 @@
 title: 'Nakliye Sektöründe Karbon Emisyonlarını Ölçme: "Carbon Dashboard" ile Yeni Bir Dönem'
 subtitle: 'Nakliye Sektöründe Karbon Emisyonlarını Ölçme: "Carbon Dashboard" ile Yeni Bir Dönem'
 date: '2024-08-16T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10739-carbon-dashboard-lets-shippers-measure-freight-carbon-emissions
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_637800032fe6437892661655198225fe~mv2.png
 imageAlt: 'Nakliye Sektöründe Karbon Emisyonlarını Ölçme: "Carbon Dashboard" ile Yeni Bir Dönem'

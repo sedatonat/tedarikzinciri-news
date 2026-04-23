@@ -2,6 +2,7 @@
 title: Herson Limanı'nda Türk Gemisine Saldırı
 subtitle: Herson Limanı'nda Türk Gemisine Saldırı
 date: '2024-02-29T09:00:00Z'
+sourceUrl: https://www.lojiport.com/ukraynada-limanda-demirli-turk-gemisini-vurdular-116269h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_aa6dd0c24b764d408c31b84e3f5039f3~mv2.jpg
 imageAlt: Herson Limanı'nda Türk Gemisine Saldırı

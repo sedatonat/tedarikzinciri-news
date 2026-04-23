@@ -2,6 +2,7 @@
 title: 'Kodiak Robotics'' Autonomous Trucks Hit 50,000 Miles: A New Era in Freight'
 subtitle: 'Kodiak Robotics'' Autonomous Trucks Hit 50,000 Miles: A New Era in Freight'
 date: '2024-08-07T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10693-kodiak-says-its-autonomous-trucks-have-covered-50-000-driverless-miles
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e7c7c3efc2754f0b9fbc112b67a86238~mv2.jpg
 imageAlt: 'Kodiak Robotics'' Autonomous Trucks Hit 50,000 Miles: A New Era in Freight'

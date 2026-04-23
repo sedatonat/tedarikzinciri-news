@@ -2,6 +2,7 @@
 title: Global Multilateral Trade Strengthens Despite U.S. Tariffs
 subtitle: Global Multilateral Trade Strengthens Despite U.S. Tariffs
 date: '2025-10-14T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/move/dhl-global-trade-has-flourished-even-as-u-s-tariffs-rocked-american-trade
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_83d50220f32c4c2b8d238f5413990f04~mv2.jpg
 imageAlt: ''

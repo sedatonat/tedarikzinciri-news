@@ -2,6 +2,7 @@
 title: Pharmaceutical Manufacturer Overcomes Shipping Delays With Systech
 subtitle: Pharmaceutical Manufacturer Overcomes Shipping Delays With Systech
 date: '2025-03-04T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42314-pharmaceutical-manufacturer-mitigates-risk-of-revenue-loss-by-switching-to-systech-unitrace-to-resolve-3-month-shipping-delays
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8ad82a3b103e445db01158db322cd61c~mv2.jpg
 imageAlt: Pharmaceutical Manufacturer Overcomes Shipping Delays With Systech

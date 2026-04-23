@@ -2,6 +2,7 @@
 title: Türkiye Şirket Birleşmelerinde Rekor Artış
 subtitle: Türkiye Şirket Birleşmelerinde Rekor Artış
 date: '2023-12-17T09:00:00Z'
+sourceUrl: https://www.posta.com.tr/ekonomi/sirket-satinalma-ve-evliliklerde-rekor-2681827
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_21d47dbb8470483da9676fa1ccc70523~mv2.jpg
 imageAlt: Türkiye Şirket Birleşmelerinde Rekor Artış

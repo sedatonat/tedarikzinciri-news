@@ -2,6 +2,7 @@
 title: Russian Sea Ports Handle 5.1% More Cargo in October 2025
 subtitle: Russian Sea Ports Handle 5.1% More Cargo in October 2025
 date: '2025-11-19T09:00:00Z'
+sourceUrl: https://seanews.ru/2025/11/19/gruzooborot-rossijskih-portov-v-oktjabre-2025-vyros-na-5-1/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_92f310a0b7924636b86f2332bca5579c~mv2.jpg
 imageAlt: Cargo volumes across Russia's maritime ports increased 5.1% year-on-year in October 2025, with growth driven by strong performance in oil, coal, LNG and scrap cargo, while imports fell 13%.

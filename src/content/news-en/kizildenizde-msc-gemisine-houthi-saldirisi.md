@@ -2,6 +2,7 @@
 title: Houthi Attack on MSC Container Vessel in Red Sea
 subtitle: Houthi Attack on MSC Container Vessel in Red Sea
 date: '2024-03-04T09:00:00Z'
+sourceUrl: https://container-news.com/houthis-hit-msc-vessel-in-gulf-of-aden-with-missile/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4dafd288edeb433c89708c376a3ffd10~mv2.png
 imageAlt: Houthi Attack on MSC Container Vessel in Red Sea

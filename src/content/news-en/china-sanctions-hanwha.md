@@ -2,6 +2,7 @@
 title: China Imposes Sanctions on Hanwha Ocean's US Subsidiaries
 subtitle: China Imposes Sanctions on Hanwha Ocean's US Subsidiaries
 date: '2025-10-14T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42656-china-sanctions-us-subsidiaries-of-shipbuilder-hanwha-ocean
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f760cebdacbe467abad5dc39587c5350~mv2.png
 imageAlt: China Imposes Sanctions on Hanwha Ocean's US Subsidiaries

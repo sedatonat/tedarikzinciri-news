@@ -2,6 +2,7 @@
 title: Wan Hai Orders Six LNG-Powered Container Ships
 subtitle: Wan Hai Orders Six LNG-Powered Container Ships
 date: '2025-12-16T09:00:00Z'
+sourceUrl: https://www.joc.com/article/wan-hai-inks-roughly-500-million-deal-for-six-lng-powered-ships-6136125
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_4a51affc6cf74d158326685530fa3c60~mv2.jpg
 imageAlt: Detailed sector overview covering Wan Hai Lines' approximately 500 million dollar dual-fuel LNG-powered container ship investment to strengthen its fleet and the implications for its trans-Pacific strategy

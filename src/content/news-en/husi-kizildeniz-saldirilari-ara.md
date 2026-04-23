@@ -2,6 +2,7 @@
 title: Houthi Pause on Shipping Attacks Lowers Tensions, But Risk Remains in Red Sea
 subtitle: Houthi Pause on Shipping Attacks Lowers Tensions, But Risk Remains in Red Sea
 date: '2025-11-12T09:00:00Z'
+sourceUrl: https://www.joc.com/article/houthi-pause-on-shipping-attacks-lowers-tensions-but-risk-remains-6114790
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7579308f142f4acbaa7e974836f42d58~mv2.jpg
 imageAlt: ''

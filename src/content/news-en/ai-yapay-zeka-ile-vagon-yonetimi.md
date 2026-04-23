@@ -2,6 +2,7 @@
 title: The Age of Artificial Intelligence in Railway Wagon Identification and Inspection
 subtitle: The Age of Artificial Intelligence in Railway Wagon Identification and Inspection
 date: '2025-01-13T09:00:00Z'
+sourceUrl: https://www.railfreight.com/technology/2025/01/13/automatic-railcar-recognition-for-identification-and-inspection-powered-by-cutting-edge-ai/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7a0c19b5d0214d6f96d5eaaf7f7b878f~mv2.jpeg
 imageAlt: The Age of Artificial Intelligence in Railway Wagon Identification and Inspection

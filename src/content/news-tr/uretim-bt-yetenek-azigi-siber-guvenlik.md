@@ -2,6 +2,7 @@
 title: Üreticiler, BT Yetenek Açığı ve Siber Güvenlikte Zorluk Yaşıyor
 subtitle: Üreticiler, BT Yetenek Açığı ve Siber Güvenlikte Zorluk Yaşıyor
 date: '2024-11-20T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/state-of-network-security-survey-finds-manufacturers-struggle-with-it-skills-cybersecurity
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_56d39428d2784ac3999cca66d8b5bfe6~mv2.jpg
 imageAlt: Üreticiler, BT Yetenek Açığı ve Siber Güvenlikte Zorluk Yaşıyor

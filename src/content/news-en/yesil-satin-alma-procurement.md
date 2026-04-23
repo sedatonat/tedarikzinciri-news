@@ -2,6 +2,7 @@
 title: 'Green Procurement: The Most Effective Resistance Strategy Against Tariff Pressures'
 subtitle: 'Green Procurement: The Most Effective Resistance Strategy Against Tariff Pressures'
 date: '2025-10-10T09:00:00Z'
+sourceUrl: https://www.scmr.com/article/green-procurement-and-tariff-resilience-strategies
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_cd0dc1128d584647854f1223dcd87bf0~mv2.jpg
 imageAlt: 'Green Procurement: The Most Effective Resistance Strategy Against Tariff Pressures'

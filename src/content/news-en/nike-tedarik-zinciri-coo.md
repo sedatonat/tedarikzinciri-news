@@ -2,6 +2,7 @@
 title: 'Nike Expands Supply Chain Chief''s Authority: New COO Role Created'
 subtitle: 'Nike Expands Supply Chain Chief''s Authority: New COO Role Created'
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/nike-leadership-changes-chief-supply-chain-officer-operations/807188/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_3e3845de5a164177931bfc17c1377a15~mv2.jpg
 imageAlt: A detailed overview of Nike's appointment of Chief Supply Chain Officer Venkatesh Alagirisamy to the newly created COO position, placing technology integration at the center of operations and the subsequent leadership restructuring

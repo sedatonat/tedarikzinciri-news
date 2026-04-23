@@ -2,6 +2,7 @@
 title: CEVA Logistics Strengthens Turkish Position with Borusan Lojistik Acquisition
 subtitle: CEVA Logistics Strengthens Turkish Position with Borusan Lojistik Acquisition
 date: '2025-11-05T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384127/
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_cf188828e69643c8879ae0782ed30c4c~mv2.jpg
 imageAlt: CEVA Logistics acquires Borusan Lojistik subsidiary for $383 million, gaining 1.19 million m² of warehouse space, annual FTL transportation volume of 1 million, and strong LTL, finished-vehicle logistics, and air-sea freight capabilities; Turkey is now CEVA's third-largest country by revenue.

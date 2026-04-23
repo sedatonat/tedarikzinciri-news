@@ -2,6 +2,7 @@
 title: DHL Express ile ABD'li Küçük İşletmelerin Küresel Büyüme Fırsatları
 subtitle: DHL Express ile ABD'li Küçük İşletmelerin Küresel Büyüme Fırsatları
 date: '2024-08-06T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10682-dhl-express-says-program-will-help-us-small-businesses-grow-globally
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_537544e34b104dc189d7d6a3a6e47256~mv2.jpeg
 imageAlt: DHL Express ile ABD'li Küçük İşletmelerin Küresel Büyüme Fırsatları

@@ -2,6 +2,7 @@
 title: Gamification Boosts Warehouse Productivity and Strengthens Employee Engagement
 subtitle: Gamification Boosts Warehouse Productivity and Strengthens Employee Engagement
 date: '2024-11-26T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/gamification-boosts-warehouse-productivity-joe-mcmanus-korber-supply-chain-software
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_ae3fa646bf534f36b2ec6c75baed2fb8~mv2.jpg
 imageAlt: Gamification Boosts Warehouse Productivity and Strengthens Employee Engagement

@@ -2,6 +2,7 @@
 title: 'Kaçan Teslimatları Başarıya Dönüştürmek: Son Kilometre Yeniden Tasarlandı'
 subtitle: 'Kaçan Teslimatları Başarıya Dönüştürmek: Son Kilometre Yeniden Tasarlandı'
 date: '2025-06-15T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42059-turning-missed-into-delivered-the-final-mile-reinvented
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_ce0afd8e849a4b64b0f280ebf091429a~mv2.png
 imageAlt: 'Kaçan Teslimatları Başarıya Dönüştürmek: Son Kilometre Yeniden Tasarlandı'

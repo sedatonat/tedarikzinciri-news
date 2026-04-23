@@ -2,6 +2,7 @@
 title: 'AB Komisyonu, MSC–NYK Ortak Girişimini Onayladı: Afrika Lojistiğinde Yeni İttifak'
 subtitle: 'AB Komisyonu, MSC–NYK Ortak Girişimini Onayladı: Afrika Lojistiğinde Yeni İttifak'
 date: '2025-12-03T09:00:00Z'
+sourceUrl: https://container-news.com/eu-commission-approves-msc-and-nyk-joint-venture/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0002e447956f42ab885bdb09400fdbb7~mv2.jpg
 imageAlt: Avrupa Komisyonu’nun MSC Group ve NYK Group arasında Afrika odaklı yeni freight forwarding joint venture’ını AB Birleşme Tüzüğü kapsamında onaylaması, rekabet analizi, AGL Kenya–Yusen Logistics iş birliği ve bölgesel lojistik etkilerinin detaylı özeti

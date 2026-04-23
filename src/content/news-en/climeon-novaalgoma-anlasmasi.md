@@ -2,6 +2,7 @@
 title: Climeon and NovaAlgoma Install Waste Heat Recovery System on Cement Carrier
 subtitle: Climeon and NovaAlgoma Install Waste Heat Recovery System on Cement Carrier
 date: '2024-12-09T09:00:00Z'
+sourceUrl: https://gcaptain.com/climeon-signs-order-with-novaalgoma-for-heatpower-300-installation-on-groundbreaking-cement-carrier/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_e048c27b8fc44190b76892091e0ef2bd~mv2.jpg
 imageAlt: Climeon and NovaAlgoma Install Waste Heat Recovery System on Cement Carrier

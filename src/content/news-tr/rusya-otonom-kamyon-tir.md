@@ -2,6 +2,7 @@
 title: Rusya, Otonom Kara Taşımacılığı İçin Yol Haritasını Onayladı
 subtitle: Rusya, Otonom Kara Taşımacılığı İçin Yol Haritasını Onayladı
 date: '2025-10-24T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/10/24/en-road-map-for-unmanned-road-transport-approved/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_406aa5557d7a48ce81988b75b5b8f99f~mv2.jpg
 imageAlt: Rusya, Sürücüsüz Kara Taşımacılığı İçin Yol Haritasını Onayladı

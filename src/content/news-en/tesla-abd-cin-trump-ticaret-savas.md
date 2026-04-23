@@ -2,6 +2,7 @@
 title: Tesla Warns It Faces Retaliation and Cost Risks from Trump's Trade War
 subtitle: Tesla Warns It Faces Retaliation and Cost Risks from Trump's Trade War
 date: '2025-03-14T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41364-tesla-warns-it-faces-retaliation-costs-from-trump-trade-war
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_f8b95e6d48644c80b252e5edc5d81dc5~mv2.jpg
 imageAlt: Tesla Warns It Faces Retaliation and Cost Risks from Trump's Trade War

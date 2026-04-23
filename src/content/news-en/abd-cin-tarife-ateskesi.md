@@ -2,6 +2,7 @@
 title: U.S. and China Agree to Cut Tariffs and Suspend Investigations Under Trade Truce
 subtitle: U.S. and China Agree to Cut Tariffs and Suspend Investigations Under Trade Truce
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/us-china-trade-truce-donald-trump-xi-jinping-apec/804233/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_fdade5592372422584566fa3b12f241e~mv2.jpg
 imageAlt: U.S. President Donald Trump and Chinese State President Xi Jinping reached a trade war ceasefire agreement at talks held in Busan, South Korea. The agreement includes tariff reductions, suspension of mutual investigations, and a halt to rare earth export controls.

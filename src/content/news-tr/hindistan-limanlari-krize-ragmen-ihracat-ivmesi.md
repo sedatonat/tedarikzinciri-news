@@ -2,6 +2,7 @@
 title: Hindistan Limanları Kızıldeniz Krizine Rağmen İhracatta İvme Kazanıyor
 subtitle: Hindistan Limanları Kızıldeniz Krizine Rağmen İhracatta İvme Kazanıyor
 date: '2024-03-08T09:00:00Z'
+sourceUrl: https://container-news.com/indian-box-volumes-tick-up-despite-red-sea-linked-supply-chain-disruption/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_138f5c3b65c94d38abada65c775be808~mv2.jpg
 imageAlt: Hindistan Limanları Kızıldeniz Krizine Rağmen İhracatta İvme Kazanıyor

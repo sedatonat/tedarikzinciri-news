@@ -2,6 +2,7 @@
 title: 'Historic Drop in Containers Lost at Sea: 221 Containers Lost in 2023'
 subtitle: 'Historic Drop in Containers Lost at Sea: 221 Containers Lost in 2023'
 date: '2024-06-11T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10400-number-of-shipping-containers-lost-at-sea-sinks-to-new-low
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1aade18a1478471f9c8ef6d0d4c634c2~mv2.png
 imageAlt: 'Historic Drop in Containers Lost at Sea: 221 Containers Lost in 2023'

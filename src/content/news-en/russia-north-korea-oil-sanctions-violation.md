@@ -2,6 +2,7 @@
 title: Russia Provides North Korea with More Than One Million Barrels of Oil
 subtitle: Russia Provides North Korea with More Than One Million Barrels of Oil
 date: '2024-11-22T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40721-russia-supplies-north-korea-with-oil-breaking-sanctions
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_9279f620b08c4ced9b7d7b49333a07aa~mv2.jpg
 imageAlt: Russia Provides North Korea with More Than One Million Barrels of Oil

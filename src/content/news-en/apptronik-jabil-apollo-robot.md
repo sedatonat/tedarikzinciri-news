@@ -2,6 +2,7 @@
 title: 'Apptronik and Jabil Partnership: Manufacturing Apollo Humanoid Robots'
 subtitle: 'Apptronik and Jabil Partnership: Manufacturing Apollo Humanoid Robots'
 date: '2025-02-25T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/apptronik-jabil-partnership-apollo-humanoid-robots
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_c263a9d683464e8796b152c713f61c17~mv2.jpg
 imageAlt: 'Apptronik and Jabil Partnership: Manufacturing Apollo Humanoid Robots'

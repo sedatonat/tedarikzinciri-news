@@ -2,6 +2,7 @@
 title: Global Schedule Reliability Ekim Ayında Hafif Artış Gösterdi
 subtitle: Global Schedule Reliability Ekim Ayında Hafif Artış Gösterdi
 date: '2024-11-28T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/global-schedule-reliability-increases-modestly-in-october-2024/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7d66996fd50e4e27b746005cbaa4aa36~mv2.jpg
 imageAlt: Global Schedule Reliability Ekim Ayında Hafif Artış Gösterdi

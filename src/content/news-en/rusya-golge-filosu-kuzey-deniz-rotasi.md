@@ -2,6 +2,7 @@
 title: Russia's 'Shadow Fleet' Battles Early Ice on Northern Sea Route
 subtitle: Russia's 'Shadow Fleet' Battles Early Ice on Northern Sea Route
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://gcaptain.com/russia-pushes-shadow-fleet-to-limit-as-lng-carrier-struggles-through-early-arctic-ice-on-northern-sea-route/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_6873dc5f3c464bdc9b7f395b26837045~mv2.jpg
 imageAlt: Detailed overview of Russia's shadow fleet LNG tanker Buran struggling with early winter ice conditions on the Northern Sea Route and the risks this creates for Russia's Arctic LNG exports.

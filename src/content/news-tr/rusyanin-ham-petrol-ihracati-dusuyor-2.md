@@ -2,6 +2,7 @@
 title: Rusya’nın Ham Petrol İhracatı Eylül Ayından Bu Yana En Düşük Seviyede
 subtitle: Rusya’nın Ham Petrol İhracatı Eylül Ayından Bu Yana En Düşük Seviyede
 date: '2024-11-20T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40696-russias-crude-exports-slump-to-the-lowest-since-september
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_9cf857fad1ab48919f7fd23b2bf66709~mv2.jpg
 imageAlt: Rusya’nın Ham Petrol İhracatı Eylül Ayından Bu Yana En Düşük Seviyede

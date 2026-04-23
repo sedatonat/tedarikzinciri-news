@@ -2,6 +2,7 @@
 title: Maersk Launches Ethanol–Methanol Dual Fuel Tests on Laura Mærsk
 subtitle: Maersk Launches Ethanol–Methanol Dual Fuel Tests on Laura Mærsk
 date: '2025-12-05T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385451/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_45989e0b1df74ab8bdef8c1efb48721e~mv2.jpg
 imageAlt: Comprehensive overview of Maersk's new trial using 50/50 ethanol–methanol blend on the Laura Mærsk vessel, E10 test results, dual-fuel methanol engine option expansion, and sectoral implications of multiple fuel strategy

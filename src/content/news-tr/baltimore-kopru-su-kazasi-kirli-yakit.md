@@ -2,6 +2,7 @@
 title: Baltimore Köprüsü Kazasına Kirli Yakıt Sebep Olmuş Olabilir
 subtitle: Baltimore Köprüsü Kazasına Kirli Yakıt Sebep Olmuş Olabilir
 date: '2024-03-28T09:00:00Z'
+sourceUrl: https://www.denizhaber.com/yuk-gemisi-dalinin-kopru-kazasina-kirli-yakit-neden-olmus-olabilir
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d54876b048bb44f8833da361aa18211e~mv2.jpg
 imageAlt: Baltimore Köprüsü Kazasına Kirli Yakıt Sebep Olmuş Olabilir

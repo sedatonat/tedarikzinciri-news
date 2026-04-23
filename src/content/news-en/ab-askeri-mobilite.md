@@ -2,6 +2,7 @@
 title: What Does the EU's Military Mobility Package Mean for Rail Freight?
 subtitle: What Does the EU's Military Mobility Package Mean for Rail Freight?
 date: '2025-11-20T09:00:00Z'
+sourceUrl: https://www.railfreight.com/policy/2025/11/20/what-does-the-european-commissions-military-mobility-package-mean-for-rail-freight/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d2c0cc06a4104d81965c203d0eb7fc16~mv2.jpg
 imageAlt: The European Commission's Military Mobility Package aims to accelerate the transport of military equipment and personnel within the EU, taking a step toward "military Schengen," and promoting more compatible use of rail infrastructure for both civilian and military purposes.

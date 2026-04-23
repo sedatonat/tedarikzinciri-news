@@ -2,6 +2,7 @@
 title: Delta Air Lines, Hükümet Kapanmasının Ardından 200 Milyon Dolarlık Kâr Darbesi Bekliyor
 subtitle: Delta Air Lines, Hükümet Kapanmasının Ardından 200 Milyon Dolarlık Kâr Darbesi Bekliyor
 date: '2025-12-03T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42930-delta-air-sees-200-million-impact-from-shutdown-fallout
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_dadb069155f145caa637c38336bc8fff~mv2.jpg
 imageAlt: ABD’de tarihin en uzun government shutdown’ı sonrası Delta’nın dördüncü çeyrekte 200 milyon USD kâr kaybı öngörmesi, uçuş iptalleri, talep dinamikleri ve premium segment stratejisinin detaylı özeti

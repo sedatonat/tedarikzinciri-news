@@ -2,6 +2,7 @@
 title: Real-Time Location and Condition Tracking Support Resilient Supply Chains
 subtitle: Real-Time Location and Condition Tracking Support Resilient Supply Chains
 date: '2025-01-13T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/spons/real-time-location-and-condition-tracking-drives-resilient-supply-chains/736565/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_afc7f9a464624447a15516b6b313dee5~mv2.jpg
 imageAlt: Real-Time Location and Condition Tracking Support Resilient Supply Chains

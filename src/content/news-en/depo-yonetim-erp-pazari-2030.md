@@ -2,6 +2,7 @@
 title: Warehouse Management Systems Market to Reach $10 Billion by 2030
 subtitle: Warehouse Management Systems Market to Reach $10 Billion by 2030
 date: '2025-02-24T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/warehouse-software-market-10-billion-2030-abi-research
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_a9b020aac2e04c05b2101c977f410a2d~mv2.jpg
 imageAlt: Warehouse Management Systems Market to Reach $10 Billion by 2030

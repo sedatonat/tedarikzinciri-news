@@ -2,6 +2,7 @@
 title: QatarEnergy ve Mitsui, 20 Yıllık Üre Tedarik Anlaşması İmzaladı
 subtitle: QatarEnergy ve Mitsui, 20 Yıllık Üre Tedarik Anlaşması İmzaladı
 date: '2025-11-11T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384323/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/nsplsh_794554716b4c6e68735549~mv2_d_5637_3758_s_4_2.jpg
 imageAlt: QatarEnergy, Mitsui ile 2026’dan itibaren yılda 0,5 milyon ton üre tedarik edecek 20 yıllık uzun vadeli bir anlaşma imzaladı; anlaşma, Katar’ın küresel gübre ihracatındaki büyüme stratejisini destekliyor.

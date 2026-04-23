@@ -2,6 +2,7 @@
 title: CMA CGM Launches New "Maya" Service for Central America's West Coast
 subtitle: CMA CGM Launches New "Maya" Service for Central America's West Coast
 date: '2024-11-29T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/cma-cgm-unveils-west-coast-central-america-route/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_964ed5bda6674872969e07e7b8a3397e~mv2.jpg
 imageAlt: CMA CGM announced a new weekly Maya service originating from Lazaro Cardenas and extending across Central America's west coast to Puerto Caldera, Corinto, Acajutla, and Puerto Quetzal.

@@ -2,6 +2,7 @@
 title: U.S. and South Korea Near Completion of Trade Agreement
 subtitle: U.S. and South Korea Near Completion of Trade Agreement
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/us-south-korea-trade-deal-tariffs-donald-trump-lee-jae-myung/804092/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_29751cf84bf94a19b4888ab81c370810~mv2.jpg
 imageAlt: U.S. President Donald Trump and South Korean President Lee Jae Myung met in Gyeongju as part of the Asia-Pacific Economic Cooperation (APEC) summit. Trump announced that there is an "almost completed trade agreement" between the two countries.

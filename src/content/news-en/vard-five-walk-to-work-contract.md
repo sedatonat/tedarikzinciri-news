@@ -2,6 +2,7 @@
 title: VARD Signs Contract for Five Walk-to-Work Vessels with International Customer
 subtitle: VARD Signs Contract for Five Walk-to-Work Vessels with International Customer
 date: '2024-11-24T09:00:00Z'
+sourceUrl: https://gcaptain.com/international-customer-contracts-vard-for-five-walk-to-work-vessels/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_59f41518a0e447e5a882538dc21ee425~mv2.png
 imageAlt: VARD Signs Contract for Five Walk-to-Work Vessels with International Customer

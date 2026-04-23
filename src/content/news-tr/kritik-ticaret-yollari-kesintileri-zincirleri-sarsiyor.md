@@ -2,6 +2,7 @@
 title: Kritik Ticaret Yollarındaki Kesintiler Küresel Tedarik Zincirlerini Sarsıyor
 subtitle: Kritik Ticaret Yollarındaki Kesintiler Küresel Tedarik Zincirlerini Sarsıyor
 date: '2024-03-12T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/360632/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_aca3991278ff44799c5529a5ec73e10b~mv2.png
 imageAlt: Kritik Ticaret Yollarındaki Kesintiler Küresel Tedarik Zincirlerini Sarsıyor

@@ -2,6 +2,7 @@
 title: CEVA Logistics and Almajdouie Logistics Establish Joint Venture in Saudi Arabia
 subtitle: CEVA Logistics and Almajdouie Logistics Establish Joint Venture in Saudi Arabia
 date: '2024-10-15T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/ceva-logistics-almajdouie-logistics-form-new-joint-venture/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_24179b65ddc54cefba470bd59d5ed1c1~mv2.jpg
 imageAlt: CEVA Logistics and Almajdouie Logistics Establish Joint Venture in Saudi Arabia

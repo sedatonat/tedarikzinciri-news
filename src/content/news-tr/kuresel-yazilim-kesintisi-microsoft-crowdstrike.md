@@ -2,6 +2,7 @@
 title: 'Küresel Yazılım Kesintisi: Microsoft ve CrowdStrike Sistem Sorunu Dünyayı Sarsıyor'
 subtitle: 'Küresel Yazılım Kesintisi: Microsoft ve CrowdStrike Sistem Sorunu Dünyayı Sarsıyor'
 date: '2024-07-19T09:00:00Z'
+sourceUrl: https://www.haber7.com/teknoloji/haber/3443330-son-dakika-dunya-genelinde-yazilim-sorunu-yasaniyor-bircok-sektorde-islemler-durdu
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_d50fc4f9997040a393020249fd3e467e~mv2.jpg
 imageAlt: 'Küresel Yazılım Kesintisi: Microsoft ve CrowdStrike Sistem Sorunu Dünyayı Sarsıyor'

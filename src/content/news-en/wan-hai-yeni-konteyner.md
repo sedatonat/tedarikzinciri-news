@@ -2,6 +2,7 @@
 title: Wan Hai Orders 49,300 New Containers for Fleet Expansion
 subtitle: Wan Hai Orders 49,300 New Containers for Fleet Expansion
 date: '2025-12-07T09:00:00Z'
+sourceUrl: https://container-news.com/wan-hai-orders-49300-new-containers/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_27575cd3dc3a42e09d38ebdfd19c09c7~mv2.jpg
 imageAlt: Wan Hai Lines places order for 49,300 new containers with total investment of 118.1 million USD; breakdown between container manufacturers CIMC and Dong Fang, unit price analysis and global capacity strategy overview

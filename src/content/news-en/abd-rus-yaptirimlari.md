@@ -2,6 +2,7 @@
 title: U.S. Announces Largest Maritime Sanctions Package Against Russia
 subtitle: U.S. Announces Largest Maritime Sanctions Package Against Russia
 date: '2025-01-13T09:00:00Z'
+sourceUrl: https://splash247.com/us-unveils-largest-russian-shipping-sanctions-package/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_d165e2c47729433a8f78f9a311eae687~mv2.jpeg
 imageAlt: U.S. Announces Largest Maritime Sanctions Package Against Russia

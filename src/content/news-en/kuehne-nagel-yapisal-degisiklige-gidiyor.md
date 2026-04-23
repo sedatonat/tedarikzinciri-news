@@ -2,6 +2,7 @@
 title: Kuehne+Nagel Restructures Organization to Boost Agility and Customer Proximity
 subtitle: Kuehne+Nagel Restructures Organization to Boost Agility and Customer Proximity
 date: '2024-04-08T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10077-kuehnenagel-streamlines-reporting-structure-to-boost-agility
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a280bf8dcbfb4fcca598d2ee262bd018~mv2.jpeg
 imageAlt: Kuehne+Nagel Restructures Organization to Boost Agility and Customer Proximity

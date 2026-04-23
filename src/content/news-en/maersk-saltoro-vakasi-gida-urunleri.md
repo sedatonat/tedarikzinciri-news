@@ -2,6 +2,7 @@
 title: 'The Maersk Saltoro Case: Lessons for Governments, Insurers, and Shippers'
 subtitle: 'The Maersk Saltoro Case: Lessons for Governments, Insurers, and Shippers'
 date: '2025-03-11T09:00:00Z'
+sourceUrl: https://container-news.com/maersk-saltoro-case-lessons-for-government-insurers-and-shippers/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_629f1ff6bc014d04b4172534677b01c3~mv2.jpg
 imageAlt: 'The Maersk Saltoro Case: Lessons for Governments, Insurers, and Shippers'

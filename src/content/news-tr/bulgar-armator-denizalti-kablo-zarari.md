@@ -2,6 +2,7 @@
 title: Bulgar Armatör, Denizaltı Kablosuna Verilen Zararı Kasıtlı Olarak Yapmadığını İddia Ediyor
 subtitle: Bulgar Armatör, Denizaltı Kablosuna Verilen Zararı Kasıtlı Olarak Yapmadığını İddia Ediyor
 date: '2025-01-29T09:00:00Z'
+sourceUrl: https://shippingwatch.com/regulation/article17848231.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7fe2794f856e488589aa745f7ccea9b5~mv2.jpg
 imageAlt: Bulgar Armatör, Denizaltı Kablosuna Verilen Zararı Kasıtlı Olarak Yapmadığını İddia Ediyor

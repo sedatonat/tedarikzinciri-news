@@ -2,6 +2,7 @@
 title: Gartner 'ın Raporuna Göre, Satınalma Yöneticileri Yetenek Anketi Yayınlandı
 subtitle: Gartner 'ın Raporuna Göre, Satınalma Yöneticileri Yetenek Anketi Yayınlandı
 date: '2023-11-29T09:00:00Z'
+sourceUrl: https://www.supplychainquarterly.com/articles/9198-gartner-procurement-leaders-say-their-talent-is-not-ready-to-meet-future-needs
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_655743bebb7d4029839093b61c815948~mv2.png
 imageAlt: Gartner 'ın Raporuna Göre, Satınalma Yöneticileri Yetenek Anketi Yayınlandı

@@ -2,6 +2,7 @@
 title: DeliverDirect Ushers in a New Era in Small Package Delivery
 subtitle: DeliverDirect Ushers in a New Era in Small Package Delivery
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/spons/deliverdirect-redefines-small-package-delivery-as-traditional-carriers-shri/803301/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b2c611065ecc41f68b9b1d066ef9e879~mv2.jpg
 imageAlt: DeliverDirect, developed through Delta Cargo's collaboration with SmartKargo, leverages Delta Air Lines' flight network to create a new delivery model that delivers speed, transparency, and cost advantages in small package transportation.

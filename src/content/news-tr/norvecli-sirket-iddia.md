@@ -2,6 +2,7 @@
 title: Norveçli Denizcilik Şirketi, Rusya'nın Yardım Reddetme İddiasını Yalanladı
 subtitle: Norveçli Denizcilik Şirketi, Rusya'nın Yardım Reddetme İddiasını Yalanladı
 date: '2024-12-27T09:00:00Z'
+sourceUrl: https://gcaptain.com/five-decades-at-sea-argo-merchant-oil-spill-drift-card-turns-up-on-scottish-isle/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0dfa4486ea824ab8bf781caee2c67854~mv2.jpg
 imageAlt: Norveçli Denizcilik Şirketi, Rusya'nın Yardım Reddetme İddiasını Yalanladı

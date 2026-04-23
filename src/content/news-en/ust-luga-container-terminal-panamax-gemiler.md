@@ -2,6 +2,7 @@
 title: Ust-Luga Container Terminal Opens to Panamax Class Vessels
 subtitle: Ust-Luga Container Terminal Opens to Panamax Class Vessels
 date: '2024-08-01T09:00:00Z'
+sourceUrl: https://www.globalports.com/en/news-and-media/press-releases-and-news/20240801/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a91a9d74fde74e49a767d822e9b30c08~mv2.jpg
 imageAlt: Ust-Luga Container Terminal Opens to Panamax Class Vessels

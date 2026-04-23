@@ -2,6 +2,7 @@
 title: Blank Sailing Nedir ve Yük Sahipleri İçin Ne Anlama Gelir?
 subtitle: Blank Sailing Nedir ve Yük Sahipleri İçin Ne Anlama Gelir?
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/supply-chain-101-blank-sailing
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4875860a00f64767bc146c1960e5242e~mv2.jpg
 imageAlt: Blank sailing, taşıyıcının bir seferi tamamen iptal etmesi veya rotadaki bazı liman çağrılarını atlamasıdır; bu durum daha uzun transit süreleri, ek maliyetler ve planlama zorlukları yaratır.

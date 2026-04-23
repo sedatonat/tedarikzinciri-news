@@ -2,6 +2,7 @@
 title: Fredriksen Kuru Yükten Çekildi ve Golden Ocean'ı Saverys Ailesine Sattı
 subtitle: Fredriksen Kuru Yükten Çekildi ve Golden Ocean'ı Saverys Ailesine Sattı
 date: '2025-03-05T09:00:00Z'
+sourceUrl: https://shippingwatch.com/carriers/Bulk/article17964183.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7d9e9b8d33944b1f9c0cd00da95143bb~mv2.jpeg
 imageAlt: Fredriksen Kuru Yükten Çekildi ve Golden Ocean'ı Saverys Ailesine Sattı

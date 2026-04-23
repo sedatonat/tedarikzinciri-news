@@ -2,6 +2,7 @@
 title: Latvia-Sweden Fiber Optic Cable in Baltic Sea Damaged by External Interference
 subtitle: Latvia-Sweden Fiber Optic Cable in Baltic Sea Damaged by External Interference
 date: '2025-02-26T09:00:00Z'
+sourceUrl: https://gcaptain.com/baltic-undersea-cable-between-latvia-and-sweden-damaged-by-external-force/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_0afcc0530e4e49528cb9416c72ffd991~mv2.jpg
 imageAlt: Latvia-Sweden Fiber Optic Cable in Baltic Sea Damaged by External Interference

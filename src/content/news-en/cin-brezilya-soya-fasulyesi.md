@@ -2,6 +2,7 @@
 title: China Increases Brazilian Soybean Purchases Following U.S.–China Trade Thaw
 subtitle: China Increases Brazilian Soybean Purchases Following U.S.–China Trade Thaw
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://gcaptain.com/chinese-buyers-purchase-brazilian-soybeans-as-prices-ease-over-us-china-trade-thaw/
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_0a1f71b23bab4ea29dca36e9cbbc045d~mv2.jpg
 imageAlt: Detailed news summary explaining Chinese importers' rapid purchases of soybean shipments from Brazil, which have become cheaper, amid expectations of a U.S.–China trade agreement.

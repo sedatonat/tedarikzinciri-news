@@ -2,6 +2,7 @@
 title: ABD ve Çin, Ticaret Anlaşması Kapsamında Karşılıklı Liman Ücretlerini Bir Yıllığına Askıya Aldı
 subtitle: ABD ve Çin, Ticaret Anlaşması Kapsamında Karşılıklı Liman Ücretlerini Bir Yıllığına Askıya Aldı
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://www.joc.com/article/us-china-suspend-reciprocal-port-fees-as-part-of-wider-trade-deal-6105849
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_0fd3a3038fcd48f1a49a8381dea4e48e~mv2.jpg
 imageAlt: ABD Başkanı Donald Trump ve Çin Devlet Başkanı Xi Jinping, Güney Kore’deki APEC Zirvesi kapsamında gerçekleştirdikleri görüşmede, iki ülke arasındaki liman ücretleri ve ticari yaptırımların bir bölümünü bir yıl süreyle askıya alma kararı aldı.

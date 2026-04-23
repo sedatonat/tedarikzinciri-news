@@ -2,6 +2,7 @@
 title: Arkas Expands Fleet with Six Eco-Design Vessels
 subtitle: Arkas Expands Fleet with Six Eco-Design Vessels
 date: '2024-09-30T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/arkas-splashes-360-million-in-six-eco-design-vessels/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d15b8e5a64fd4a4dbc61b12357235f92~mv2.jpg
 imageAlt: Arkas Expands Fleet with Six Eco-Design Vessels

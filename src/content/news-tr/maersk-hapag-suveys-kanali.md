@@ -2,6 +2,7 @@
 title: 'Maersk ve Hapag-Lloyd’dan Suez Kanalı Duyurusuna Düzeltme: “Kesin Tarih Yok”'
 subtitle: 'Maersk ve Hapag-Lloyd’dan Suez Kanalı Duyurusuna Düzeltme: “Kesin Tarih Yok”'
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://shippingwatch.com/carriers/Container/article18782672.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a7937c4cdd564a90a2b10d11d308873d~mv2.jpg
 imageAlt: Suez Canal Authority’nin erken dönüş açıklamasına karşı Maersk ve Hapag-Lloyd’un temkinli yaklaşımı, Gemini Cooperation’ın operasyonel yapısı, risk yönetimi ve 2025–2026 tedarik zinciri etkileri üzerine detaylı haber özeti

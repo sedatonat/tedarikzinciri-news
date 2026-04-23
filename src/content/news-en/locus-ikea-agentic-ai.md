@@ -2,6 +2,7 @@
 title: 'Locus CEO: How IKEA Acquisition and Agentic AI Are Transforming the Future of Delivery'
 subtitle: 'Locus CEO: How IKEA Acquisition and Agentic AI Are Transforming the Future of Delivery'
 date: '2025-11-11T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/ikea-locus-ai-last-mile-delivery
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_3270cf5633e445c6bded87435302c470~mv2.jpg
 imageAlt: Locus CEO Nishith Rastogi explains the company's global logistics OS vision following its acquisition by Ingka Group, IKEA's parent company, discussing how agentic AI is transforming delivery networks, innovations such as tandem deliveries and route optimization, and the "dynamic supply chains" AI will create in the future.

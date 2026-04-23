@@ -2,6 +2,7 @@
 title: US Air Freight Shifts from China to Taiwan and Vietnam
 subtitle: US Air Freight Shifts from China to Taiwan and Vietnam
 date: '2025-12-16T09:00:00Z'
+sourceUrl: https://www.joc.com/article/rising-us-air-freight-imports-from-taiwan-vietnam-offset-drop-in-china-trade-6136057
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2c1a15c3517546bda9a4a512a6a2d430~mv2.jpg
 imageAlt: Detailed industry overview examining the shift of trans-Pacific air cargo flows from China toward imports sourced from Taiwan and Vietnam following the US removal of its de minimis exemption, and the product-level implications of this change

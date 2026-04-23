@@ -2,6 +2,7 @@
 title: 'Bakırköy’de Alt Geçide Çarpan TIR, Yanındaki İETT Otobüsünün Üzerine Devrildi: 6 Yaralı'
 subtitle: 'Bakırköy’de Alt Geçide Çarpan TIR, Yanındaki İETT Otobüsünün Üzerine Devrildi: 6 Yaralı'
 date: '2024-08-27T09:00:00Z'
+sourceUrl: https://video.haber7.com/video-galeri/289545-bakirkoyde-ust-gecide-carpan-tirin-iett-otobusunu-ezme-ani-kamerada
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_53a3d2a717804d3197695712eb8a8598~mv2.jpg
 imageAlt: Bakırköy Rauf Orbay Caddesi’nde alt geçide çarpan TIR dorsesinin devrilerek BN1 hattındaki İETT otobüsünü ezdiği, 6 kişinin yaralandığı kazanın güvenlik kamerası görüntüleri.

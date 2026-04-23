@@ -2,6 +2,7 @@
 title: 'Drewry: Crude Tankers Could Outpace Product Tankers by 2026'
 subtitle: 'Drewry: Crude Tankers Could Outpace Product Tankers by 2026'
 date: '2025-12-15T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385844/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_562a8145226d4dc6970f07b4b777c2ed~mv2.jpg
 imageAlt: Drewry's 2026 tanker market outlook, highlighting a detailed sector summary examining the expected stronger performance of crude tankers compared to product tankers due to limited fleet growth and inventory dynamics

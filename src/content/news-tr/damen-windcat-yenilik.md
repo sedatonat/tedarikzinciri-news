@@ -2,6 +2,7 @@
 title: Damen ve Windcat Offshore Enerjisi İçin Yeni Innovation Series Gemilerini Tanıttı
 subtitle: Damen ve Windcat Offshore Enerjisi İçin Yeni Innovation Series Gemilerini Tanıttı
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://gcaptain.com/damen-and-windcat-introduce-innovation-series-a-new-class-of-offshore-support-vessels/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b757eef1c616445da387be057fd2f2e2~mv2.jpg
 imageAlt: Damen Shipyards Group ve Windcat’in offshore enerji projeleri için geliştirdiği yeni Innovation Series MP-ASV gemilerinin özellikleri, teknolojik yenilikleri ve sektörel etkisini özetleyen detaylı açıklama

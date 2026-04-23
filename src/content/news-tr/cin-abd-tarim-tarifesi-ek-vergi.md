@@ -2,6 +2,7 @@
 title: Çin'in ABD Tarım Ürünlerine Yönelik Tarife Uygulamaları
 subtitle: Çin'in ABD Tarım Ürünlerine Yönelik Tarife Uygulamaları
 date: '2025-03-10T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41343-china-enacts-tariffs-against-us-agricultural-products
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_6ad5169958f04d838f814a9a9a809e35~mv2.jpg
 imageAlt: Çin'in ABD Tarım Ürünlerine Yönelik Tarife Uygulamaları

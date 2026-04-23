@@ -2,6 +2,7 @@
 title: Fire Erupts Again at Novelis Plant Supplying Ford
 subtitle: Fire Erupts Again at Novelis Plant Supplying Ford
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42890-aluminum-plant-supplying-ford-pickups-erupts-in-fire-again
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_cef3adede9274c3e8642f34d9123ec08~mv2.jpg
 imageAlt: Detailed summary explaining how a second fire at Novelis facility in New York—which produces aluminum for models like the Ford F-150—caused evacuation, potential production impact, and Ford's financial risk assessment.

@@ -2,6 +2,7 @@
 title: California, Forklift Emisyonlarını Sıfırlıyor
 subtitle: California, Forklift Emisyonlarını Sıfırlıyor
 date: '2024-07-02T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10518-california-air-resources-board-approves-final-rule-requiring-zero-emission-forklifts
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0ff6814b049d4fd99898aacfb5786cbd~mv2.jpg
 imageAlt: California, Forklift Emisyonlarını Sıfırlıyor

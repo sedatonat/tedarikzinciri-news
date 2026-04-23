@@ -2,6 +2,7 @@
 title: Five Trends Advancing Maritime Supply Chain in 2025
 subtitle: Five Trends Advancing Maritime Supply Chain in 2025
 date: '2024-11-19T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/maritime-supply-chain-2025-trends
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_846a18d71502440995a341bab52ee50c~mv2.jpg
 imageAlt: Five Trends Advancing Maritime Supply Chain in 2025

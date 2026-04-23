@@ -2,6 +2,7 @@
 title: MIDVOLGA-2 Tankeri Türk Kıyıları Açığında Saldırı Bildirdi; Mürettebat Güvende
 subtitle: MIDVOLGA-2 Tankeri Türk Kıyıları Açığında Saldırı Bildirdi; Mürettebat Güvende
 date: '2025-12-02T09:00:00Z'
+sourceUrl: https://www.reuters.com/business/aerospace-defense/russian-flagged-tanker-reports-attack-off-turkey-coast-maritime-body-says-2025-12-02/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_83225039282149589aa32a6ff9fae2d1~mv2.jpeg
 imageAlt: Rus bayraklı MIDVOLGA-2 tankerinin Türkiye kıyılarından 80 mil açıkta saldırı bildirmesi, geminin durumu, bölgesel güvenlik bağlamı ve Karadeniz’de artan risklere dair detaylı haber özeti

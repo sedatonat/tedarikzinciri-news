@@ -2,6 +2,7 @@
 title: Hapag-Lloyd Uses Craft Platform for Supplier Visibility
 subtitle: Hapag-Lloyd Uses Craft Platform for Supplier Visibility
 date: '2025-01-16T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/hapag-lloyd-ai-supplier-visibility-craft/736873/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a18e789b28da4ad18ede620d7e72870d~mv2.jpg
 imageAlt: Hapag-Lloyd Uses Digital Tool for Supplier Visibility

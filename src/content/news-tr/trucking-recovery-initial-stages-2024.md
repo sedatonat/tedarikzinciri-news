@@ -2,6 +2,7 @@
 title: Kamyon Taşımacılığı Sektöründe Toparlanma Sürecinde
 subtitle: Kamyon Taşımacılığı Sektöründe Toparlanma Sürecinde
 date: '2024-07-18T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10592-ftr-trucking-is-in-the-initial-stages-of-a-recovery
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_afe820633b64439e914af36cdb900507~mv2.png
 imageAlt: Kamyon Taşımacılığı Sektöründe Toparlanma Sürecinde

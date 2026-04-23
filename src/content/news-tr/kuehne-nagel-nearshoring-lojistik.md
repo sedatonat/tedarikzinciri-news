@@ -2,6 +2,7 @@
 title: Kuehne+Nagel, Nearshoring Trendini Desteklemek İçin Texas'ta Yeni Lojistik Tesis Açıyor
 subtitle: Kuehne+Nagel, Nearshoring Trendini Desteklemek İçin Texas'ta Yeni Lojistik Tesis Açıyor
 date: '2024-05-28T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10323-kuehnenagel-opens-texas-facility-to-support-nearshoring-trend
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_676158dd0eef4500a31bac81fb45e459~mv2.png
 imageAlt: Kuehne+Nagel, Nearshoring Trendini Desteklemek İçin Texas'ta Yeni Lojistik Tesis Açıyor

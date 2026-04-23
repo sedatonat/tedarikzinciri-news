@@ -2,6 +2,7 @@
 title: Ukrayna, Karadeniz’de Rusya’nın “Gölge Filosu” Tankeri Dashan’ı Sea Baby Dronlarıyla Vurdu
 subtitle: Ukrayna, Karadeniz’de Rusya’nın “Gölge Filosu” Tankeri Dashan’ı Sea Baby Dronlarıyla Vurdu
 date: '2025-12-10T09:00:00Z'
+sourceUrl: https://gcaptain.com/ukraine-hits-third-russia-shadow-fleet-tanker-in-black-sea/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3eda22a6a97244e29bad4ff2a66e31d0~mv2.jpg
 imageAlt: Ukrayna SBU’nun Sea Baby deniz dronlarıyla Comoros bayraklı Dashan tankerini Karadeniz’de vurması, gölge filosuna yönelik üçüncü saldırı, sigorta risklerindeki artış ve bölgesel gerilimin lojistik etkilerinin detaylı özeti

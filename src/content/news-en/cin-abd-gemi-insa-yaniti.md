@@ -2,6 +2,7 @@
 title: Beijing Rejects U.S. Shipbuilding Inquiry
 subtitle: Beijing Rejects U.S. Shipbuilding Inquiry
 date: '2025-01-17T09:00:00Z'
+sourceUrl: https://splash247.com/beijing-dismisses-us-shipbuilding-probe/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_df82e8e8522f4f5e8ccc1a9e22c73534~mv2.jpg
 imageAlt: Beijing Rejects U.S. Shipbuilding Inquiry

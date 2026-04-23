@@ -2,6 +2,7 @@
 title: Europe's Electric Truck Revolution in Supply Chains
 subtitle: Europe's Electric Truck Revolution in Supply Chains
 date: '2024-03-18T09:00:00Z'
+sourceUrl: https://www.allthingssupplychain.com/the-impact-of-electric-trucks-in-the-european-supply-chain/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_434123f407194313ac06939d7444baf7~mv2.jpg
 imageAlt: Europe's Electric Truck Revolution in Supply Chains

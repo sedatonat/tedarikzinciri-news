@@ -2,6 +2,7 @@
 title: Project44 Rolling Out New AI Tools to Make Supply Chains Smarter
 subtitle: Project44 Rolling Out New AI Tools to Make Supply Chains Smarter
 date: '2025-02-13T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/project44-rolls-out-new-ai-tools-to-make-supply-chains-smarter
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_0f7b3dad18a44432809d667da91d2859~mv2.jpg
 imageAlt: Project44 Rolling Out New AI Tools to Make Supply Chains Smarter

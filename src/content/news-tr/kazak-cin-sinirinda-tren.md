@@ -2,6 +2,7 @@
 title: Kazak-Çin Sınırında 2024'te Tren Trafiği Rekor Kırdı
 subtitle: Kazak-Çin Sınırında 2024'te Tren Trafiği Rekor Kırdı
 date: '2025-01-14T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/01/14/the-kazakh-chinese-border-saw-significantly-more-trains-in-2024/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_940cba240f254b76a81ed4c7cee49fc6~mv2.jpg
 imageAlt: Kazak-Çin Sınırında 2024'te Tren Trafiği Rekor Kırdı

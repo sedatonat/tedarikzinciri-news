@@ -2,6 +2,7 @@
 title: Warehouse Automation Orders Decline, Recovery Expected in 2024
 subtitle: Warehouse Automation Orders Decline, Recovery Expected in 2024
 date: '2025-02-05T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/warehouse-automation-orders-dropped-2024-recovery-expected
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_38d00159bc4a4ec9b7f34bccf83f68ba~mv2.jpg
 imageAlt: Warehouse Automation Orders Decline, Recovery Expected in 2024

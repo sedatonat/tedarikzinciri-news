@@ -2,6 +2,7 @@
 title: Singapur'daki Shell Rafinerisi İki Ay İçinde İkinci Petrol Sızıntısını Yaşadı
 subtitle: Singapur'daki Shell Rafinerisi İki Ay İçinde İkinci Petrol Sızıntısını Yaşadı
 date: '2024-12-27T09:00:00Z'
+sourceUrl: https://container-news.com/shells-singapore-refinery-suffers-second-oil-leak-in-two-months/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_9baa3e161eab47c0957daaa45f53bbfa~mv2.jpeg
 imageAlt: Singapur'daki Shell Rafinerisi İki Ay İçinde İkinci Petrol Sızıntısını Yaşadı

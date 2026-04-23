@@ -2,6 +2,7 @@
 title: IMO Konseyinin 2026–2027 Üst Kategori A Listesinde Rusya Yer Almadı
 subtitle: IMO Konseyinin 2026–2027 Üst Kategori A Listesinde Rusya Yer Almadı
 date: '2025-11-28T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385138/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0de2ea83070b462fa1636b7268e7661e~mv2.jpg
 imageAlt: IMO’nun 2026–2027 dönemi için açıkladığı Category A sonuçlarında Rusya’nın yeniden seçilememesi ve bunun küresel denizcilik düzenlemelerine etkisine dair kapsamlı haber özeti

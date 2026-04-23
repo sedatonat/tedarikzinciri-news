@@ -2,6 +2,7 @@
 title: 'RXO: Truckload Market Shows Weakness in Q4 2025, Gradual Recovery Expected in 2026'
 subtitle: 'RXO: Truckload Market Shows Weakness in Q4 2025, Gradual Recovery Expected in 2026'
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/rxo-curve-q4-2025-truckload-market-outlook/807757/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1756d10b84fd4d26abf8e2594c36b173~mv2.png
 imageAlt: Summary of RXO's Curve report detailing weak volumes in the truckload market during Q4 2025, spot rate compression, manufacturing sector stagnation, and expectations for interest-rate-driven recovery in 2026

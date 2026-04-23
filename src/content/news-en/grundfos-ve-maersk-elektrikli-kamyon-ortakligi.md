@@ -2,6 +2,7 @@
 title: Grundfos and Maersk Partner to Accelerate Electric Truck Deployment
 subtitle: Grundfos and Maersk Partner to Accelerate Electric Truck Deployment
 date: '2025-01-23T09:00:00Z'
+sourceUrl: https://container-news.com/grundfos-partners-with-maersk-to-drive-electric-truck-deployment/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5c41654cb2ca4fd4a085bbb578a99b10~mv2.jpg
 imageAlt: Grundfos and Maersk Partner to Accelerate Electric Truck Deployment

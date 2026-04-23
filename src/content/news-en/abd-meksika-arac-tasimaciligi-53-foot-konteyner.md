@@ -2,6 +2,7 @@
 title: DP World Launches Innovative Intermodal Service for Vehicle Transport from Mexico to the U.S.
 subtitle: DP World Launches Innovative Intermodal Service for Vehicle Transport from Mexico to the U.S.
 date: '2024-05-20T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10284-dp-world-says-mexico-us-intermodal-service-will-relieve-auto-capacity-crunch
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_97553644e6834db99a6e2c00ecbb696b~mv2.jpg
 imageAlt: DP World Launches Innovative Intermodal Service for Vehicle Transport from Mexico to the U.S.

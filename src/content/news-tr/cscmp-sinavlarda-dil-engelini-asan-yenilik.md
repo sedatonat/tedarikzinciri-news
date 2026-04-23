@@ -2,6 +2,7 @@
 title: 'CSCMP''den Sınavlarda Dil Engellerini Aşan Yenilik: Anında Çeviri'
 subtitle: 'CSCMP''den Sınavlarda Dil Engellerini Aşan Yenilik: Anında Çeviri'
 date: '2024-07-01T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10456-cscmp-launches-instant-translate-feature-for-scpro-exams
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_eafa8eafdfa44ecda2d3ffe7c1b124a2~mv2.png
 imageAlt: 'CSCMP''den Sınavlarda Dil Engellerini Aşan Yenilik: Anında Çeviri'

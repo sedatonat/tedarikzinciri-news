@@ -2,6 +2,7 @@
 title: 'November 2025 Class 8 Truck Orders Plunge: Ten-Month Contraction Pressures 2026 Outlook'
 subtitle: 'November 2025 Class 8 Truck Orders Plunge: Ten-Month Contraction Pressures 2026 Outlook'
 date: '2025-12-05T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/preliminary_november_class_8_truck_orders_see_another_month_of_declines
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_13cc595ab37c42dcb3bd17a8124aed62~mv2.jpg
 imageAlt: FTR and ACT Research preliminary data showing a sharp year-over-year decline in November 2025 Class 8 truck orders, highlighting weakening fleet investment appetite, risks to 2026 order cycles, and impacts of EPA'27 and tariff uncertainties

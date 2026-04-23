@@ -2,6 +2,7 @@
 title: İtalyan Domates Püresi Ürünlerinin Çin Kaynaklı Olduğu Ortaya Çıktı
 subtitle: İtalyan Domates Püresi Ürünlerinin Çin Kaynaklı Olduğu Ortaya Çıktı
 date: '2024-12-02T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40756-some-italian-tomato-puree-products-in-uk-supermarkets-come-from-china
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_a65b3549ba884821b2b76439233c5a78~mv2.jpg
 imageAlt: İtalyan Domates Püresi Ürünlerinin Çin Kaynaklı Olduğu Ortaya Çıktı

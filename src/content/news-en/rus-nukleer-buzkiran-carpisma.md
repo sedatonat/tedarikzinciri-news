@@ -2,6 +2,7 @@
 title: Russian Nuclear Icebreaker Collides with Cargo Vessel in Arctic
 subtitle: Russian Nuclear Icebreaker Collides with Cargo Vessel in Arctic
 date: '2025-01-28T09:00:00Z'
+sourceUrl: https://gcaptain.com/russian-nuclear-icebreaker-sustains-damage-in-arctic-collision-with-cargo-ship/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8dc8b5f99bb44aafaf3c09620d890d1f~mv2.jpg
 imageAlt: Russian Nuclear Icebreaker Collides with Cargo Vessel in Arctic

@@ -2,6 +2,7 @@
 title: CMA CGM Launches New Barge Corridor in Northern Vietnam for U.S. Trade
 subtitle: CMA CGM Launches New Barge Corridor in Northern Vietnam for U.S. Trade
 date: '2025-11-24T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/cma-cgm-expands-barge-network-to-boost-us-trade/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2193876fb5944a36b5839a23c46082e1~mv2.jpg
 imageAlt: Detailed summary of CMA CGM deploying the Que Vo–Haiphong barge line in Northern Vietnam to provide faster, cost-effective and low-emission transportation connectivity to the U.S. market.

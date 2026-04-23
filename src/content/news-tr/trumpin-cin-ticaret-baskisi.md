@@ -2,6 +2,7 @@
 title: Trump'ın Çin Ticaret Baskısı Sevkiyat Kaosu ve Fiyat Artışlarına Yol Açtı
 subtitle: Trump'ın Çin Ticaret Baskısı Sevkiyat Kaosu ve Fiyat Artışlarına Yol Açtı
 date: '2025-02-09T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41180-trumps-china-trade-crackdown-sparks-shipping-chaos-price-hikes
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_432800174fb94ad7ad6fb558b2afed99~mv2.jpg
 imageAlt: Trump'ın Çin Ticaret Baskısı Sevkiyat Kaosu ve Fiyat Artışlarına Yol Açtı

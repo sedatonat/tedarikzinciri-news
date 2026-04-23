@@ -2,6 +2,7 @@
 title: Spain–Morocco Rail Tunnel Extremely Complex But Technically Viable
 subtitle: Spain–Morocco Rail Tunnel Extremely Complex But Technically Viable
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.railfreight.com/infrastructure/2025/11/03/spain-morocco-rail-tunnel-extremely-complex-but-technically-viable/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_343ed86788af4346828f55d61f87831a~mv2.jpg
 imageAlt: The Spain–Morocco rail tunnel project to be built beneath the Strait of Gibraltar is technically feasible according to a feasibility report commissioned by the Spanish government, but represents an extraordinarily complex undertaking from geological and engineering perspectives. A final decision is expected in 2027.

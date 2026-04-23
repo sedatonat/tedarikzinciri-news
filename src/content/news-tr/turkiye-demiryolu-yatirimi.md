@@ -2,6 +2,7 @@
 title: Türkiye Demiryolu Altyapısına Çin'den 60 Milyar Dolarlık Yatırım
 subtitle: Türkiye Demiryolu Altyapısına Çin'den 60 Milyar Dolarlık Yatırım
 date: '2025-01-15T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/01/15/china-may-invest-60-billion-dollars-in-turkish-rail-infrastructure/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7221efba04cb491a831b279a3dc756e4~mv2.jpg
 imageAlt: Türkiye Demiryolu Altyapısına Çin'den 60 Milyar Dolarlık Yatırım

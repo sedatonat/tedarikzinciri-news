@@ -2,6 +2,7 @@
 title: Artan Tedarik Zinciri Denetimleri, Gümrüklerin Kapasite Sınırlarını Zorluyor
 subtitle: Artan Tedarik Zinciri Denetimleri, Gümrüklerin Kapasite Sınırlarını Zorluyor
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.joc.com/article/increased-supply-chain-scrutiny-at-odds-with-customs-enforcement-capability-6108523
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_8c8252acee704cbca062c12b15a5c25a~mv2.jpg
 imageAlt: ABD Gümrük ve Sınır Koruma Kurumu (CBP), tedarik zincirlerinin detaylı incelenmesi için Altana ile pilot proje yürütüyor. Ancak artan ticaret regülasyonları ve karmaşık tedarik yapıları, dünya genelinde gümrük kurumlarının denetim kapasitesini aşan bir yük oluşturuyor.

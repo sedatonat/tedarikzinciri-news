@@ -2,6 +2,7 @@
 title: First Container Shipment From China to Europe via Arctic Northern Sea Route Successfully Completed
 subtitle: First Container Shipment From China to Europe via Arctic Northern Sea Route Successfully Completed
 date: '2025-10-17T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/10/17/en-first-ever-container-transit-from-china-to-europe-by-northern-sea-route-completed/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_eea2a04d7aaa4a7090dd2d321c13413f~mv2.jpg
 imageAlt: The first container shipping voyage from China to Europe via the Northern Sea Route (Northern Sea Route) has been successfully completed. The vessel departed from China on September 23 and reached the Port of Felixstowe in the United Kingdom in just 20 days, delivering approximately 25,000 tons of cargo.

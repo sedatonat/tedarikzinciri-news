@@ -2,6 +2,7 @@
 title: 'ABD Liman Vergisi Okyanus Hizmetlerini Altüst Edebilir, Gönderici Maliyetlerini Artırabilir: Drewry'
 subtitle: 'ABD Liman Vergisi Okyanus Hizmetlerini Altüst Edebilir, Gönderici Maliyetlerini Artırabilir: Drewry'
 date: '2025-02-02T09:00:00Z'
+sourceUrl: https://www.joc.com/article/us-port-tax-would-scramble-ocean-services-raise-shipper-costs-drewry-5952046
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5bd60a62c49441f7ad5914e48e0f33cd~mv2.jpg
 imageAlt: 'ABD Liman Vergisi Okyanus Hizmetlerini Altüst Edebilir, Gönderici Maliyetlerini Artırabilir: Drewry'

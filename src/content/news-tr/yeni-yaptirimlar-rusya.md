@@ -2,6 +2,7 @@
 title: Yeni Yaptırımlar Rusya'nın Gölge Filosu Dayanıklılığını Test Ediyor
 subtitle: Yeni Yaptırımlar Rusya'nın Gölge Filosu Dayanıklılığını Test Ediyor
 date: '2025-01-13T09:00:00Z'
+sourceUrl: https://gcaptain.com/new-sanctions-to-test-russias-shadow-fleet-resilience/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3fcc1271825c42beadf3bd71e98b9a7e~mv2.jpg
 imageAlt: Yeni Yaptırımlar Rusya'nın Gölge Filosu Dayanıklılığını Test Ediyor

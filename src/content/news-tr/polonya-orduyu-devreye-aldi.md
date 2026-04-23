@@ -2,6 +2,7 @@
 title: 'Polonya, Doğu Hatlarında Orduyu Devreye Aldı: Rusya Destekli Sabotaj Kesinleşti'
 subtitle: 'Polonya, Doğu Hatlarında Orduyu Devreye Aldı: Rusya Destekli Sabotaj Kesinleşti'
 date: '2025-11-19T09:00:00Z'
+sourceUrl: https://www.railfreight.com/railfreight/2025/11/19/poland-sends-army-to-patrol-eastern-rail-routes-points-to-russia-as-culprit/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1291bfd66fa14ff29c93e0dd8c0f9f99~mv2.jpg
 imageAlt: Polonya, Ukrayna’ya uzanan stratejik hat Line No.7’deki patlamanın iki Ukraynalı ajan tarafından Rus istihbaratı adına gerçekleştirildiğini açıkladı; olay sonrası doğu demiryolu hatları ordu tarafından korunmaya alındı.

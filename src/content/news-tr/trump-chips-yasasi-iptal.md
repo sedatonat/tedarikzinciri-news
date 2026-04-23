@@ -2,6 +2,7 @@
 title: Trump'ın CHIPS Yasası'nı İptal Etme Girişimi ve Olası Sonuçları
 subtitle: Trump'ın CHIPS Yasası'nı İptal Etme Girişimi ve Olası Sonuçları
 date: '2025-03-12T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/trump-to-kill-chips-act-not-that-simple-defunding/741963/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_55f11c04948d459983cbe6f68f2be0bf~mv2.jpg
 imageAlt: Trump'ın CHIPS Yasası'nı İptal Etme Girişimi ve Olası Sonuçları

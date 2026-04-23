@@ -2,6 +2,7 @@
 title: Iranian Forces Divert Talara Tanker to Iranian Waters
 subtitle: Iranian Forces Divert Talara Tanker to Iranian Waters
 date: '2025-11-14T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384499/
 category: Lojistik
 image: https://static.wixstatic.com/media/nsplsh_64001c153d654cbc823819de103690da~mv2.jpg
 imageAlt: The Marshall Islands-flagged Talara tanker sharply changed course toward Iran's Cask terminal after three small vessels approached it off Khor Fakkan; the incident is assessed to be an intervention by the IRGC Navy.

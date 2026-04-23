@@ -2,6 +2,7 @@
 title: U.S. Imposes 15% Additional Tariffs on Nicaragua Over Human Rights Violations
 subtitle: U.S. Imposes 15% Additional Tariffs on Nicaragua Over Human Rights Violations
 date: '2025-12-11T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42986-ustr-announces-15-tariffs-against-nicaragua-over-human-rights-abuses
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_24bf6d44dab14e998a0ab023c4a588ad~mv2.jpg
 imageAlt: Phased 15% additional tariffs on Nicaragua following USTR's Section 301 investigation, combined tariff burden with existing duties, CAFTA-DR exemptions, and detailed summary of impacts on U.S.–Central America supply chains

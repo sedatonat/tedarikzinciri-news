@@ -2,6 +2,7 @@
 title: Russia Excluded from IMO Council's Top-Tier Category A List for 2026–2027
 subtitle: Russia Excluded from IMO Council's Top-Tier Category A List for 2026–2027
 date: '2025-11-28T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385138/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0de2ea83070b462fa1636b7268e7661e~mv2.jpg
 imageAlt: Comprehensive news summary on Russia's failure to secure re-election in the IMO's Category A results for the 2026–2027 period and its impact on global maritime regulations

@@ -2,6 +2,7 @@
 title: Mitsubishi Electric'in MiFly Depo Drone'ları Karanlıkta Geziniyor
 subtitle: Mitsubishi Electric'in MiFly Depo Drone'ları Karanlıkta Gezinmekte
 date: '2025-02-19T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/mits-mifly-warehouse-drones-navigate-dark
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_41297c7389ee4f2bb4f252972f96655f~mv2.jpg
 imageAlt: Mitsubishi Electric'in MiFly Depo Drone'ları Karanlıkta Gezinmekte

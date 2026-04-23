@@ -2,6 +2,7 @@
 title: 2023'te Taşıyıcıların Karlılığı İçin Artan Çaba ve Çözümler
 subtitle: 2023'te Taşıyıcıların Karlılığı İçin Artan Çaba ve Çözümler
 date: '2024-03-19T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/9980-survey-freight-carriers-had-to-work-harder-in-2023-to-stay-profitable
 category: Lojistik
 image: https://static.wixstatic.com/media/35950e5c49ae4628b4e4546d017b576e.jpg
 imageAlt: 2023'te Taşıyıcıların Karlılığı İçin Artan Çaba ve Çözümler

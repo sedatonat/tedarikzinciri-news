@@ -2,6 +2,7 @@
 title: Port Congestion Triggers Blank Sailings
 subtitle: Port Congestion Triggers Blank Sailings
 date: '2024-05-15T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/blank-sailings-surge-amid-widespread-port-congestion/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_620f7e42478847b2bcd4feb9371eb577~mv2.jpg
 imageAlt: Port Congestion Triggers Blank Sailings

@@ -2,6 +2,7 @@
 title: COSCO SHIPPING Launches Comprehensive Logistics Warehouse Operations in the U.S.
 subtitle: COSCO SHIPPING Launches Comprehensive Logistics Warehouse Operations in the U.S.
 date: '2024-05-13T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/cosco-shipping-unveils-warehouse-in-the-us/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_5aaee75280e8427fbdf34bb7fec36ba8~mv2.jpg
 imageAlt: COSCO SHIPPING Launches Comprehensive Logistics Warehouse Operations in the U.S.

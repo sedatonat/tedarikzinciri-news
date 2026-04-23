@@ -2,6 +2,7 @@
 title: CEVA Logistics, Ağır Yük Uzmanı Fagioli Group’u Satın Alıyor
 subtitle: CEVA Logistics, Ağır Yük Uzmanı Fagioli Group’u Satın Alıyor
 date: '2025-12-15T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/ceva-logistics-fagioli-project-logistics-acquisition
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_b4dc0cabd16146e1a71812ec33caae77~mv2.jpg
 imageAlt: CEVA Logistics’in Fagioli Group’u satın alma anlaşmasıyla ağır yük, proje lojistiği ve kompleks kargo operasyonlarında uçtan uca yetkinlik kazanmasını ele alan detaylı sektör özeti

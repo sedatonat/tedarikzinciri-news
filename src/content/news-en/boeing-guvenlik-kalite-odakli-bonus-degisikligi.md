@@ -2,6 +2,7 @@
 title: Boeing Overhauls Worker Bonus Structure to Prioritize Safety and Quality
 subtitle: Boeing Overhauls Worker Bonus Structure to Prioritize Safety and Quality
 date: '2024-03-11T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/39236-boeing-to-tie-more-worker-bonuses-to-safety-after-series-of-lapses
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_b7076c3b96974ef3be664fb0d0395c8f~mv2.jpg
 imageAlt: Boeing Overhauls Worker Bonus Structure to Prioritize Safety and Quality

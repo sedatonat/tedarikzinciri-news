@@ -2,6 +2,7 @@
 title: 'China''s Investigation Into PVH Corp: Xinjiang Cotton Boycott and Potential Consequences'
 subtitle: 'China''s Investigation Into PVH Corp: Xinjiang Cotton Boycott and Potential Consequences'
 date: '2025-01-24T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/china-ministry-commerce-pvh-improper-behavior/737979/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_95d327c11ba845b2abb04923b5a74da2~mv2.jpg
 imageAlt: 'China''s Investigation Into PVH Corp: Xinjiang Cotton Boycott and Potential Consequences'

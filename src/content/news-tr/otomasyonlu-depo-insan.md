@@ -2,6 +2,7 @@
 title: Otomasyonlu Depolarda İnsan Hâlâ Önemli mi?
 subtitle: Otomasyonlu Depolarda İnsan Hâlâ Önemli Mi?
 date: '2025-12-15T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/do-people-still-matter-in-the-warehouse
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_d2e2ac7b51c145fca9e64c00aaf512f1~mv2.jpg
 imageAlt: Otomasyon, robotlar ve AI yatırımlarının hızlandığı modern depolarda insan emeğinin nasıl dönüştüğünü, hangi rollerin ortadan kalktığını ve hangi yeni yetkinliklerin öne çıktığını ele alan kapsamlı sektör değerlendirmesi

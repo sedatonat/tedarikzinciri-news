@@ -2,6 +2,7 @@
 title: Trump Prepares to Impose 10% Additional Tariff on Canadian Imports
 subtitle: Trump Prepares to Impose 10% Additional Tariff on Canadian Imports
 date: '2025-10-25T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/trump-raises-canada-tariffs-10-percent/803811/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_bace6252b58f4ed6a3fcd72df4d5d779~mv2.jpg
 imageAlt: US President Donald Trump announced plans to impose an additional 10% tariff on imports from Canada following a suspension of trade negotiations with the country. Tensions escalated after Ontario's government launched an anti-tariff advertising campaign using excerpts from a 1987 speech by Ronald Reagan.

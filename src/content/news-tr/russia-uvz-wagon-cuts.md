@@ -2,6 +2,7 @@
 title: 'Rusya’da Vagon Üretimi Daralıyor: UralVagonZavod İşgücünü Azaltmaya Hazırlanıyor'
 subtitle: 'Rusya’da Vagon Üretimi Daralıyor: UralVagonZavod İşgücünü Azaltmaya Hazırlanıyor'
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://www.railfreight.com/business/2025/12/12/russian-wagon-producers-cutting-staff-amid-business-deterioration/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0a19d329749a471d94b50f156e5744a8~mv2.jpg
 imageAlt: RailFreight.com analizine göre Uralvagonzavod’un işten çıkarmalar, azalan sivil vagon talebi, askeri üretime kaydırma ve Rus demiryolu sektöründe oluşan vagon fazlası nedeniyle karşı karşıya kaldığı yapısal daralmanın detaylı özeti

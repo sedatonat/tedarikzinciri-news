@@ -2,6 +2,7 @@
 title: Konteyner Hatlarının Büyüyen Gemilere Olan Bitmeyen İlgisi
 subtitle: Konteyner Hatlarının Büyüyen Gemilere Olan Bitmeyen İlgisi
 date: '2024-03-06T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/39205-why-container-lines-dont-fear-the-massive-supply-of-new-ships-on-order
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_aaf3570a7751410ba7fedc2a4b473cd2~mv2.jpg
 imageAlt: Konteyner Hatlarının Büyüyen Gemilere Olan Bitmeyen İlgisi

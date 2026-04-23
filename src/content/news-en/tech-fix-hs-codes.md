@@ -2,6 +2,7 @@
 title: Solving the HS Code Nightmare with Technology
 subtitle: Solving the HS Code Nightmare with Technology
 date: '2025-07-17T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42148-untangling-the-nightmare-of-hs-codes-with-technology
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_8aa7a72789bb4434b3d8cb3d2086e2d5~mv2.png
 imageAlt: Solving the HS Code Nightmare with Technology

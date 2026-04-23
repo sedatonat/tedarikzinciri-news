@@ -2,6 +2,7 @@
 title: 'Son Mil Teslimatında Güven Açığını Kapatmak: Teknolojinin Köprüsü'
 subtitle: 'Son Mil Teslimatında Güven Açığını Kapatmak: Teknolojinin Köprüsü'
 date: '2025-09-09T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/42364-how-technology-bridges-the-trust-gap-in-last-mile-deliveries
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_daa0aaf20fb5419a874bfcebec83464f~mv2.png
 imageAlt: 'Son Mil Teslimatında Güven Açığını Kapatmak: Teknolojinin Köprüsü'

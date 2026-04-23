@@ -2,6 +2,7 @@
 title: Europe's Railway Sector Warns of "Reverse Modal Shift" Over 44-Ton Truck Approval
 subtitle: Europe's Railway Sector Warns of "Reverse Modal Shift" Over 44-Ton Truck Approval
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://www.railfreight.com/policy/2025/12/08/weights-and-dimensions-directive-to-have-damaging-impact-on-eu-rail-freight/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b878eda8869a40d89f38fcfc3c626bec~mv2.jpg
 imageAlt: Joint warning by CER, ERFA, UIRR, UIP and UNIFE against the Weights & Dimensions Directive, detailing the impact of cross-border permits for 44-ton fossil-fuel trucks on rail freight, reverse modal shift risks, and threats to 2050 targets

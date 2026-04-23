@@ -2,6 +2,7 @@
 title: Yunanistan, Bulgaristan ve Romanya Yeni Kara Deniz–Ege Koridor Platformunu Kurdu
 subtitle: Yunanistan, Bulgaristan ve Romanya Yeni Kara Deniz–Ege Koridor Platformunu Kurdu
 date: '2025-12-05T09:00:00Z'
+sourceUrl: https://www.railfreight.com/policy/2025/12/05/greece-bulgaria-and-romania-establish-new-corridor-platform/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_17ce723270ad4622b700a5e60619301d~mv2.jpeg
 imageAlt: Greece–Bulgaria–Romania tarafından oluşturulan Black Sea–Aegean Sea Corridor Platform (BACP) girişiminin amaçları, sınır ötesi altyapı planlaması, AB entegrasyonu ve bölgesel lojistik etkilerine dair kapsamlı özet

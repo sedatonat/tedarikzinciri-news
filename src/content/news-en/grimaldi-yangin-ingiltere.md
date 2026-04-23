@@ -2,6 +2,7 @@
 title: Engine Room Fire Causes Power Loss on Grimaldi Car Carrier
 subtitle: Engine Room Fire Causes Power Loss on Grimaldi Car Carrier
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://splash247.com/engine-room-blaze-knocks-out-power-on-grimaldi-car-carrier/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c008c82aab8f416eacf14847ced8284a~mv2.jpg
 imageAlt: An engine room fire broke out on Grande Roma, a car carrier operated by Grimaldi Euromed, at the exit of the English Channel. Thanks to the swift response of the crew, no injuries or environmental pollution occurred, and the vessel is being towed to Le Havre Port under escort of the Abeille Liberté tugboat.

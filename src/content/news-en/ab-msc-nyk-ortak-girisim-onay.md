@@ -2,6 +2,7 @@
 title: 'EU Commission Approves MSC–NYK Joint Venture: New Alliance in African Logistics'
 subtitle: 'EU Commission Approves MSC–NYK Joint Venture: New Alliance in African Logistics'
 date: '2025-12-03T09:00:00Z'
+sourceUrl: https://container-news.com/eu-commission-approves-msc-and-nyk-joint-venture/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0002e447956f42ab885bdb09400fdbb7~mv2.jpg
 imageAlt: The European Commission's approval of a new Africa-focused freight forwarding joint venture between MSC Group and NYK Group under the EU Merger Regulation, including detailed summary of competition analysis, AGL Kenya–Yusen Logistics cooperation, and regional logistics implications

@@ -2,6 +2,7 @@
 title: 'Sibirya’dan Dondurma İhracatı: 2025’te 3,5 Bin Tonluk Stabil Performans'
 subtitle: 'Sibirya’dan Dondurma İhracatı: 2025’te 3,5 Bin Tonluk Stabil Performans'
 date: '2025-11-10T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/11/10/en-ice-cream-export-from-siberia/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_222567fff5a64fdcbdca9207c713bee9~mv2.jpg
 imageAlt: 2025’in ilk dokuz ayında Sibirya’dan 3,5 bin ton dondurma ihraç edildi; ana pazar %69 payla Kazakistan olurken Özbekistan, Ermenistan ve Türkmenistan’a ihracat belirgin şekilde arttı.

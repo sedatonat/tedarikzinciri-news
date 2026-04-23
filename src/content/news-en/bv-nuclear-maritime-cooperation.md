@@ -2,6 +2,7 @@
 title: Bureau Veritas Signs Cooperation Declaration to Accelerate Nuclear Technologies in Maritime
 subtitle: Bureau Veritas Signs Cooperation Declaration to Accelerate Nuclear Technologies in Maritime
 date: '2025-11-06T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384152/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_8d5c9626c3e14aa9bb40bc98c4dfb548~mv2.jpg
 imageAlt: Bureau Veritas, alongside more than 30 European nuclear and maritime organizations, signed a cooperation declaration aimed at accelerating Small Modular Reactors (SMRs) and nuclear technologies for safe, sustainable and low-carbon maritime applications.

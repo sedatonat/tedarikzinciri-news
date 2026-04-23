@@ -2,6 +2,7 @@
 title: Walmart ve J.B. Hunt'tan Stratejik Intermodal İş Birliği
 subtitle: Walmart ve J.B. Hunt'tan Stratejik Intermodal İş Birliği
 date: '2024-02-22T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/39142-jb-hunt-buys-walmarts-intermodal-assets
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_83ff281df79f4b8f9f3cefdb643b9664~mv2.jpg
 imageAlt: Walmart ve J.B. Hunt'tan Stratejik Intermodal İş Birliği

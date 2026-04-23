@@ -2,6 +2,7 @@
 title: Rusya Baklagil Ürünleri İçin İhracat Vergisi Getirdi
 subtitle: Rusya Baklagil Ürünleri İçin İhracat Vergisi Getirdi
 date: '2025-01-10T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/01/10/en-russia-introduces-export-dues-for-leguminous-crops/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_95a2a998146947229f199c1cbd3b8a2d~mv2.png
 imageAlt: Rusya Baklagil Ürünleri İçin İhracat Vergisi Getirdi

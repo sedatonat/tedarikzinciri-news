@@ -2,6 +2,7 @@
 title: Avrupa Tedarik Zincirlerinde Jeopolitik Baskı Sürerken Şirketler Çoklu Kaynağa Yöneliyor
 subtitle: Avrupa Tedarik Zincirlerinde Jeopolitik Baskı Sürerken Şirketler Çoklu Kaynağa Yöneliyor
 date: '2025-12-01T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42918-survey-no-end-in-sight-for-geopolitical-stress-on-europes-supply-chains
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_37834725b3ea4420acae465711dc601b~mv2.jpg
 imageAlt: Maersk’in 900 Avrupa şirketiyle gerçekleştirdiği ankette tedarik zincirlerinin jeopolitik stres, tarifeler ve maliyet dalgalanmaları nedeniyle nasıl etkilendiğine dair detaylı haber özeti

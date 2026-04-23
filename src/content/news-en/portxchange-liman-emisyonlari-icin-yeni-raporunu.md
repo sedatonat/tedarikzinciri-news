@@ -2,6 +2,7 @@
 title: PortXchange Releases New Report on Port Emissions
 subtitle: PortXchange Releases New Report on Port Emissions
 date: '2024-09-25T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/portxchange-releases-port-emissions-report/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d71fa04704ce434cba304ce7ecc6cfd0~mv2.jpg
 imageAlt: PortXchange Releases New Report on Port Emissions

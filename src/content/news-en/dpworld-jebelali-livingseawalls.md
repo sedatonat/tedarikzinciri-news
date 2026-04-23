@@ -2,6 +2,7 @@
 title: DP World Installs First 1,000 Living Seawalls Panels at Jebel Ali Port
 subtitle: DP World Installs First 1,000 Living Seawalls Panels at Jebel Ali Port
 date: '2025-12-10T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385623/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_757aa03cb5824663a3aa650897a83f42~mv2.jpg
 imageAlt: DP World's Living Seawalls program at Jebel Ali Port, featuring the first 1,000 ecological panels designed to strengthen marine habitats, detailed summary of biodiversity impacts and scaling plans through 2028

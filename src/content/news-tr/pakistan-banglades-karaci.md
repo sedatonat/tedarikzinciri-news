@@ -2,6 +2,7 @@
 title: Pakistan, Bangladeş’e Çin ile Ticareti Kolaylaştırmak İçin Karaçi Limanı’nı Kullanma Teklifi Yaptı
 subtitle: Pakistan, Bangladeş’e Çin ile Ticareti Kolaylaştırmak İçin Karaçi Limanı’nı Kullanma Teklifi Yaptı
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://container-news.com/pakistan-offers-bangladesh-to-use-its-karachi-port-trust-to-facilitate-trade-with-china/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a37351dd244c414d8b5981d4dfd310a7~mv2.jpg
 imageAlt: Pakistan, Bangladeş’in Çin ve diğer ülkelerle ticaretini kolaylaştırmak amacıyla, Karaçi Port Trust (KPT) limanını kullanmasına izin teklif etti. Bu teklif, 9. Bangladeş–Pakistan Ortak Ekonomik Komisyonu toplantısında gündeme geldi.

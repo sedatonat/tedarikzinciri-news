@@ -2,6 +2,7 @@
 title: Breitling Achieves Sales Success with Centralized Inventory Management via Fluent Commerce
 subtitle: Breitling Achieves Sales Success with Centralized Inventory Management via Fluent Commerce
 date: '2024-08-07T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/38467-fluent-commerces-centralized-inventory-management-increased-breitling-online-sales-by-20
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_c49836bab9d0474ab4ef07e78a7bd446~mv2.jpg
 imageAlt: Breitling Achieves Sales Success with Centralized Inventory Management via Fluent Commerce

@@ -2,6 +2,7 @@
 title: Eyüp Lojistik'ten Avrupa'ya 3 Günde Teslim İçin Büyük Yatırım
 subtitle: Eyüp Lojistik'ten Avrupa'ya 3 Günde Teslim İçin Büyük Yatırım
 date: '2024-02-21T09:00:00Z'
+sourceUrl: https://www.lojiport.com/eyup-lojistik-3-gunde-avrupa-icin-40-fiat-ducato-aldi-116240h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_66b4501138f64c1dba37272edee46881~mv2.jpg
 imageAlt: Eyüp Lojistik'ten Avrupa'ya 3 Günde Teslim İçin Büyük Yatırım

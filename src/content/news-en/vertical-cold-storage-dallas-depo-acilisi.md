@@ -2,6 +2,7 @@
 title: Vertical Cold Storage Opens Second Temperature-Controlled Facility in Dallas
 subtitle: Vertical Cold Storage Opens Second Temperature-Controlled Facility in Dallas
 date: '2024-08-09T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10710-vertical-cold-storage-opens-second-dallas-temperature-controlled-dc
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_a41a266c87b04dab84acec4d89fdb8f4~mv2.png
 imageAlt: Vertical Cold Storage Opens Second Temperature-Controlled Facility in Dallas

@@ -2,6 +2,7 @@
 title: Thyssenkrupp Tests Tesla Electric Trucks
 subtitle: Thyssenkrupp Tests Tesla Electric Trucks
 date: '2025-06-27T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42043-3pl-provider-thyssenkrupp-trials-tesla-ev-semi-truck
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8709eb5486744dbbb2653ef9ac5df13a~mv2.png
 imageAlt: Thyssenkrupp Tests Tesla Electric Trucks

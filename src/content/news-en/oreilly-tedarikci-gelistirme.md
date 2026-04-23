@@ -2,6 +2,7 @@
 title: O'Reilly Automotive Places Supplier Health at Center of Tariff Strategy
 subtitle: O'Reilly Automotive Places Supplier Health at Center of Tariff Strategy
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/oreilly-automotive-supplier-health-tariff-shield/804320/
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_1c48c66c752149bc83966381e128a4b1~mv2.jpg
 imageAlt: O'Reilly Automotive is strengthening supplier risk management to mitigate the impact of tariffs through financial soundness, product quality, shipping performance, and supply diversification. China dependency has fallen to the mid-20s percent range.

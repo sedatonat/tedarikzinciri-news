@@ -2,6 +2,7 @@
 title: CMA CGM, Bulgaristan Limanları ile Türkiye Arasında Feeder Servisi Başlatıyor
 subtitle: CMA CGM, Bulgaristan Limanları ile Türkiye Arasında Feeder Servisi Başlatıyor
 date: '2025-01-16T09:00:00Z'
+sourceUrl: https://container-news.com/cma-cgm-feeder-service-bulgarian-ports-turkey/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5c7e9c77c5d94e22843d5b6b48938c3a~mv2.jpg
 imageAlt: CMA CGM, Bulgaristan Limanları ile Türkiye Arasında Feeder Servisi Başlatıyor

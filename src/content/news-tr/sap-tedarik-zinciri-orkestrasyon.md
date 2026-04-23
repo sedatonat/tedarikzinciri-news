@@ -2,6 +2,7 @@
 title: 'SAP: Yeni Dalga Tedarik Zinciri Dalgalanmalarıyla Başa Çıkmanın Yolu Orkestrasyon ve Gerçek Zamanlı İş Birliği'
 subtitle: 'SAP: Yeni Dalga Tedarik Zinciri Dalgalanmalarıyla Başa Çıkmanın Yolu Orkestrasyon ve Gerçek Zamanlı İş Birliği'
 date: '2025-11-14T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42772-coping-with-new-sources-of-supply-chain-volatility-the-more-the-merrier
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_22d5e47c4b2a4d35808a1d196967f707~mv2.jpg
 imageAlt: SAP’nin sunduğu Supply Chain Orchestration yaklaşımı, şirketlerin artan enflasyon, tarifeler, uyum baskıları, yetenek kıtlığı ve görünürlük sorunları karşısında tedarik zincirini uçtan uca bağlamasını, gerçek zamanlı veri paylaşmasını ve yapay zekâ destekli kararlar almasını sağlayarak volatiliteyi yönetebilir hâle getiriyor.

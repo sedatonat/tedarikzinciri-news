@@ -2,6 +2,7 @@
 title: Şanghay’ın Deniz–Demiryolu Hacmi 2025’te 1 Milyon TEU Eşiğini Aştı
 subtitle: Şanghay’ın Deniz–Demiryolu Hacmi 2025’te 1 Milyon TEU Eşiğini Aştı
 date: '2025-12-05T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385440/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b8a5e5ac850c4dd6a805ab4217e82853~mv2.jpg
 imageAlt: Şanghay’ın 2025 yılında deniz–demiryolu multimodal taşımada 1 milyon TEU barajını aşması, Luchaogang İstasyonu’nun kapasite artışları, operasyonel iyileştirmeler ve Çin’in intermodal stratejisinin bölgesel etkileri üzerine detaylı özet

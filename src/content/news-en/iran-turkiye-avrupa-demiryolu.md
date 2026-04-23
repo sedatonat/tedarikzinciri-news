@@ -2,6 +2,7 @@
 title: 'Iran–Turkey 200 km "Southern Silk Road" Corridor: A New Move in Middle Corridor Competition'
 subtitle: 'Iran–Turkey 200 km "Southern Silk Road" Corridor: A New Move in Middle Corridor Competition'
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/11/26/iran-plans-new-railway-for-china-europe-traffic/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_dcfb5ef4c0eb46c58d5263825d6db0ff~mv2.jpg
 imageAlt: Iran's attempt to balance the Middle Corridor with a new 1.6 billion dollar railway on its Turkish border, Turkey's coordination with the KIAD line, and details of the emerging new geopolitical route in China–Europe logistics

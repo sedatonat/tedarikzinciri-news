@@ -2,6 +2,7 @@
 title: 'Trump-Era Tariffs: The State of International Trade in 2025'
 subtitle: 'Trump-Era Tariffs: The State of International Trade in 2025'
 date: '2025-03-28T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/trump-tariffs-status-canada-mexico-china-eu/743577/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_c049597494e04d61a5953984a28297b0~mv2.jpg
 imageAlt: Country-specific tariffs, reciprocal taxes, and trade investigations implemented by the U.S. throughout 2025 are creating widespread disruptions in global supply chains. The Trump administration is pursuing variable tariff policies with Canada, Mexico, China, the EU, Japan, and South Korea, while tariffs applied under IEEPA are under Supreme Court review.

@@ -2,6 +2,7 @@
 title: Amazon, USPS ile Kapıdan İade Hizmetini Başlattı
 subtitle: Amazon, USPS ile Kapıdan İade Hizmetini Başlattı
 date: '2025-10-23T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/amazon-us-postal-service-doorstep-returns/803544/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4750aff9d6de472682d3231835e8a223~mv2.jpg
 imageAlt: Amazon, ABD Posta Servisi (USPS) ile iş birliği yaparak müşterilerine kapıdan iade imkânı sunmaya başladı. Pilot uygulama, yaz aylarında seçili bölgelerde devreye alındı ve e-ticaret devinin iade sürecini daha hızlı ve kolay hale getirmeyi hedefliyor.

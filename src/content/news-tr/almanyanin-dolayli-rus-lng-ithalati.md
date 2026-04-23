@@ -2,6 +2,7 @@
 title: Almanya'nın Dolaylı Rus LNG İthalatı Avrupa Limanları Üzerinden Artış Gösteriyor
 subtitle: Almanya'nın Dolaylı Rus LNG İthalatı Avrupa Limanları Üzerinden Artış Gösteriyor
 date: '2025-01-28T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/372849/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_a8e0faecaa4842379f7a36a5eb05363c~mv2.jpg
 imageAlt: Almanya'nın Dolaylı Rus LNG İthalatı Avrupa Limanları Üzerinden Artış Gösteriyor

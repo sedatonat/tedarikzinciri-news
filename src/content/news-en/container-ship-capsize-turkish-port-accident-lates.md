@@ -2,6 +2,7 @@
 title: Container Ship Capsizes at Ambarli Port
 subtitle: Container Ship Capsizes at Ambarli Port
 date: '2024-12-24T09:00:00Z'
+sourceUrl: https://splash247.com/boxship-capsizes-at-turkish-port/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_397a7164a6924cb4a37317023f3926d8~mv2.jpg
 imageAlt: Container Ship That Capsized at Ambarli Port

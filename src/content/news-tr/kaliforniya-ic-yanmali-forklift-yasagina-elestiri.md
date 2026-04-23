@@ -2,6 +2,7 @@
 title: Kaliforniya'nın İçten Yanmalı Forklift Yasağına Propan Grubundan Eleştiri
 subtitle: Kaliforniya'nın İçten Yanmalı Forklift Yasağına Propan Grubundan Eleştiri
 date: '2024-05-30T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10339-propane-group-criticizes-california-plan-to-ban-internal-combustion-forklifts
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e3bcac42facb432fa2821877835dfbdf~mv2.png
 imageAlt: Kaliforniya'nın İçten Yanmalı Forklift Yasağına Propan Grubundan Eleştiri

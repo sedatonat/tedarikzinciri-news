@@ -2,6 +2,7 @@
 title: Tedarik Eğitim Bütçeleri Düşük, Yapay Zeka Boşluğu Doldurabilir mi?
 subtitle: Tedarik Eğitim Bütçeleri Düşük, Yapay Zeka Boşluğu Doldurabilir mi?
 date: '2025-02-11T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/procurement-training-artificial-intelligence
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_1d3d81a45d2a48c7aef6b1714de0e58c~mv2.jpg
 imageAlt: Tedarik Eğitim Bütçeleri Düşük, Yapay Zeka Boşluğu Doldurabilir mi?

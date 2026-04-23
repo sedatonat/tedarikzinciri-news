@@ -2,6 +2,7 @@
 title: Suez Canal Authority and Ministry of Petroleum Establish LNG Liquefaction and Bunkering Facility in Port Said
 subtitle: Suez Canal Authority and Ministry of Petroleum Establish LNG Liquefaction and Bunkering Facility in Port Said
 date: '2025-11-24T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384886/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_b138afb021134c03a0e933e57ce16dba~mv2.jpg
 imageAlt: A memorandum of understanding signed between the Suez Canal Authority and the Ministry of Petroleum and Mineral Resources for an LNG liquefaction, storage, and bunkering facility in the Raswa region of Port Said, Egypt, detailing the project's role in the "green channel" development plan.

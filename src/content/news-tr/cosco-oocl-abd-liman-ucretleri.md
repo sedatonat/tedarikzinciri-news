@@ -2,6 +2,7 @@
 title: Yeni ABD Liman Ücretleri COSCO ve OOCL’e İlk Haftada 42 Milyon Dolar Maliyete Yol Açtı
 subtitle: Yeni ABD Liman Ücretleri COSCO ve OOCL’e İlk Haftada 42 Milyon Dolar Maliyete Yol Açtı
 date: '2025-10-24T09:00:00Z'
+sourceUrl: https://www.joc.com/article/cosco-oocl-incurred-over-40-million-in-initial-us-port-fees-6103025
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_9849c225aee44aa2b2f22b531a2e524e~mv2.jpg
 imageAlt: Yeni ABD Liman Ücretleri COSCO ve OOCL’e İlk Haftada 42 Milyon Dolar Maliyete Yol Açtı

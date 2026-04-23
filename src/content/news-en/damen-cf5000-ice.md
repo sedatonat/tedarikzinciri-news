@@ -2,6 +2,7 @@
 title: Damen Introduces New CF 5000 ICE Ice Class Cargo Vessel
 subtitle: Damen Introduces New CF 5000 ICE Ice Class Cargo Vessel
 date: '2025-11-05T09:00:00Z'
+sourceUrl: https://gcaptain.com/damen-unveils-combi-freighter-5000-ice/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a839b8953cce4864b467f97d02262a96~mv2.jpg
 imageAlt: Detailed news summary of design innovations, energy efficiency, sustainability features, and operational capabilities of the CF 5000 ICE ice class cargo vessel unveiled by Damen Shipyards Group at Europort 2025 in Rotterdam

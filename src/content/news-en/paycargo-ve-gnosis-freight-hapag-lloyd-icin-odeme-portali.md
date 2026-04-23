@@ -2,6 +2,7 @@
 title: PayCargo and Gnosis Freight Develop Container Payment Portal for Hapag-Lloyd
 subtitle: PayCargo and Gnosis Freight Develop Container Payment Portal for Hapag-Lloyd
 date: '2025-03-04T09:00:00Z'
+sourceUrl: https://gcaptain.com/paycargo-and-gnosis-freight-to-power-container-payment-portal-for-hapag-lloyd/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5384ce62dc5549968ecf4840fd0c8bf6~mv2.png
 imageAlt: PayCargo and Gnosis Freight Develop Container Payment Portal for Hapag-Lloyd

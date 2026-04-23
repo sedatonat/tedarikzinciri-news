@@ -2,6 +2,7 @@
 title: Amazon'un Shreveport'daki Yeni Fulfillment Center'ı Robotikte Devrim Yaratıyor
 subtitle: Amazon'un Shreveport'daki Yeni Fulfillment Center'ı Robotikte Devrim Yaratıyor
 date: '2024-10-22T09:00:00Z'
+sourceUrl: https://www.scdigest.com/ontarget/24-10-22_amazon_new_fc_design_robots.php?cid=21625
 category: Envanter
 image: https://static.wixstatic.com/media/11062b_8ce3b16ee2c2452a83dc9793a0e80056~mv2.jpg
 imageAlt: Amazon'un Shreveport'daki Yeni Fulfillment Center'ı Robotikte Devrim Yaratıyor

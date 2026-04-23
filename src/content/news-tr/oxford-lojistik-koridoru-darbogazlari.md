@@ -2,6 +2,7 @@
 title: 'Oxford Araştırması: Kırılgan Deniz Darboğazları Küresel Ticarete Yıllık 14 Milyar USD Kaybettiriyor'
 subtitle: 'Oxford Araştırması: Kırılgan Deniz Darboğazları Küresel Ticarete Yıllık 14 Milyar USD Kaybettiriyor'
 date: '2025-11-27T09:00:00Z'
+sourceUrl: https://splash247.com/oxford-flags-14bn-annual-hit-as-fragile-chokepoints-strain-global-trade/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_74375d66a21740b58747d34f1ef5b7ef~mv2.jpg
 imageAlt: 'Oxford Üniversitesi’nin küresel denizcilik darboğazlarında yaşanan kesintilerin ekonomik etkilerini analiz eden çalışmasının detaylı özeti: yıllık kayıplar, risk türleri, coğrafi etkiler ve tedarik zinciri kırılganlığı'

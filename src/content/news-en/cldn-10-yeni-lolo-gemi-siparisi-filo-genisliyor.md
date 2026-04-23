@@ -2,6 +2,7 @@
 title: 'CLdN Orders 10 New LoLo Container Ships: Fleet Expansion'
 subtitle: 'CLdN Orders 10 New LoLo Container Ships: Fleet Expansion'
 date: '2024-09-25T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/cldn-orders-10-newbuild-lolo-container-carriers/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8f88f3b0da834a229846919429eb7e72~mv2.jpg
 imageAlt: 'CLdN Orders 10 New LoLo Container Ships: Fleet Expansion'

@@ -2,6 +2,7 @@
 title: Walmart to Use RFID Labels to Track Fresh Food Inventory
 subtitle: Walmart to Use RFID Labels to Track Fresh Food Inventory
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42779-walmart-to-use-rfid-labels-to-track-fresh-food-inventory
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_5c2cecf8cefc4b86a578963973d0cbb9~mv2.jpg
 imageAlt: Walmart is partnering with Avery Dennison to deploy RFID technology on meat, bakery, and deli products. The system aims to reduce food waste and provide customers with fresher products by tracking fresh food inventory through digital expiration dates.

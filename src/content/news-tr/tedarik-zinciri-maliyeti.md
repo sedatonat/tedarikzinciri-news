@@ -2,6 +2,7 @@
 title: 'Tedarik Zinciri Kırılma Noktası: Parçalanmış Sistemlerin Gerçek Maliyeti'
 subtitle: 'Tedarik Zinciri Kırılma Noktası: Parçalanmış Sistemlerin Gerçek Maliyeti'
 date: '2025-02-01T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41145-supply-chain-breaking-point-the-true-cost-of-fragmented-systems
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_4ef40364db9144a38db4f75cff2d5ff2~mv2.jpg
 imageAlt: 'Tedarik Zinciri Kırılma Noktası: Parçalanmış Sistemlerin Gerçek Maliyeti'

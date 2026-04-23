@@ -2,6 +2,7 @@
 title: 'Kion ve Fox Robotics''ten Stratejik Ortaklık: Otonom Forkliftlerin Yükselişi'
 subtitle: 'Kion ve Fox Robotics''ten Stratejik Ortaklık: Otonom Forkliftlerin Yükselişi'
 date: '2024-05-07T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10232-kion-north-america-to-manufacture-fox-robotics-autonomous-forklifts
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_60bf5e392bbc42b69fa7313f3a91d0f5~mv2.png
 imageAlt: 'Kion ve Fox Robotics''ten Stratejik Ortaklık: Otonom Forkliftlerin Yükselişi'

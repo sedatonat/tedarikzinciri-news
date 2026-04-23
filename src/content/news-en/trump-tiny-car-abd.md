@@ -2,6 +2,7 @@
 title: 'Trump Approves "Tiny Car" Production: Demand Uncertainty Raises Questions in Automotive Sector'
 subtitle: 'Trump Approves "Tiny Car" Production: Demand Uncertainty Raises Questions in Automotive Sector'
 date: '2025-12-09T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/trump-approves-tiny-cars-us-manufacturing
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_a9ef39c0d1c741f39458e0e8f1462f50~mv2.jpg
 imageAlt: A comprehensive overview of the Trump administration's green light for small-scale "tiny car" vehicle production in the United States, an approach inspired by Japanese kei car models, regulatory uncertainties, and automotive manufacturers' cautious stance

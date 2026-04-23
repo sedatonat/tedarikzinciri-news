@@ -2,6 +2,7 @@
 title: 'EU Commission Releases ERA Assessment: Positive Outcome, but Expectations Not Fully Met'
 subtitle: 'EU Commission Releases ERA Assessment: Positive Outcome, but Expectations Not Fully Met'
 date: '2025-11-11T09:00:00Z'
+sourceUrl: https://www.railfreight.com/policy/2025/11/11/eu-commission-evaluates-era-positive-but-expectations-not-met/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f052c080e1a84b188ed9cc58f29fe9e9~mv2.jpg
 imageAlt: The European Commission found the ERA's role in EU railway safety and harmonization significant, but noted that the agency has not yet reached the expected impact level in single market integration and full interoperability.

@@ -2,6 +2,7 @@
 title: '2025 Maritime Security Redefined: The Shift from Piracy to Remote Warfare'
 subtitle: '2025 Maritime Security Redefined: The Shift from Piracy to Remote Warfare'
 date: '2025-12-01T09:00:00Z'
+sourceUrl: https://container-news.com/threat-for-container-shipping-how-drones-are-redefining-maritime-security/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_20fa6e3313384fac9410906c213f5b3a~mv2.jpg
 imageAlt: Detailed news summary on the new threat model affecting maritime transport in 2025—remote attacks conducted with drones, swarm tactics, port security vulnerabilities, and the backdrop of major shipping lines delaying their return to the Red Sea

@@ -2,6 +2,7 @@
 title: 'Red Sea Houthi Attack: Vessel Tutor Sunk'
 subtitle: 'Red Sea Houthi Attack: Vessel Tutor Sunk'
 date: '2024-06-20T09:00:00Z'
+sourceUrl: https://www.yenisafak.com/dunya/kizildenizde-gerilim-tirmaniyor-husiler-tutor-adli-gemiyi-batirdi-4628344
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_64ba72777f4a4befa0e8dc6f819b5304~mv2.jpg
 imageAlt: 'Red Sea Houthi Attack: Vessel Tutor Sunk'

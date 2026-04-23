@@ -2,6 +2,7 @@
 title: Mongolia and China Plan to Open Second Rail Border Crossing by 2028
 subtitle: Mongolia and China Plan to Open Second Rail Border Crossing by 2028
 date: '2025-01-28T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/02/24/mongolia-and-china-plan-to-open-second-rail-border-crossing-by-2028/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a4530176c23b4a2c8139f8b1a2e8595e~mv2.jpg
 imageAlt: Mongolia and China Plan to Open Second Rail Border Crossing by 2028

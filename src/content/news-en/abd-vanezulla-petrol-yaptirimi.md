@@ -2,6 +2,7 @@
 title: 'U.S. Seizes Sanctioned Oil Tanker Off Venezuela''s Coast: Tensions Escalate to New Level'
 subtitle: 'U.S. Seizes Sanctioned Oil Tanker Off Venezuela''s Coast: Tensions Escalate to New Level'
 date: '2025-12-10T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42976-us-seizes-sanctioned-oil-tanker-off-the-coast-of-venezuela
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_dba315d703114a9da83be81027905b2e~mv2.jpg
 imageAlt: Detailed news summary on the U.S. seizure of the Skipper VLCC oil tanker off Venezuela's coast, the shift from sanctions to physical naval intervention, impact on oil prices, and escalation of Washington–Caracas tensions

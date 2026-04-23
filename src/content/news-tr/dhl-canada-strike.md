@@ -2,6 +2,7 @@
 title: 'DHL Kanada’da Grev: Çalışanlar Lockout Sonrası İş Bıraktı'
 subtitle: 'DHL Kanada’da Grev: Çalışanlar Lockout Sonrası İş Bıraktı'
 date: '2025-06-09T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41927-dhl-express-canada-workers-on-strike-following-lockout
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_9ecd6356f4de4391929912253e984967~mv2.png
 imageAlt: 'Dhl Kanada’da Grev: Çalışanlar Lockout Sonrası İş Bıraktı'

@@ -2,6 +2,7 @@
 title: 'Satın Alma Sonrası Süreci Güvenceye Almak: Post-purchase Tedarik Zinciri'
 subtitle: 'Satın Alma Sonrası Süreci Güvenceye Almak: Post-purchase Tedarik Zinciri'
 date: '2025-08-27T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42395-beyond-buy-securing-the-post-purchase-supply-chain
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_684dbf7facbe4d5b9783459f27d64e13~mv2.png
 imageAlt: 'Satın Alma Sonrası Süreci Güvenceye Almak: Post-purchase Tedarik Zinciri'

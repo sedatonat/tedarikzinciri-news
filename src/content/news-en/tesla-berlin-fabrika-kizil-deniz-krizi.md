@@ -2,6 +2,7 @@
 title: Tesla's Berlin Factory Halts Production Due to Red Sea Crisis
 subtitle: Tesla's Berlin Factory Halts Production Due to Red Sea Crisis
 date: '2024-01-12T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/38849-tesla-halts-berlin-factory-operations-due-to-red-sea-disruptions
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_5dc80a88cb2d4080b8445b07d52fe110~mv2.jpg
 imageAlt: Tesla's Berlin Factory Halts Production Due to Red Sea Crisis

@@ -2,6 +2,7 @@
 title: Antwerp-Bruges Limanı, Grev Sonrası 190 Gemilik Yığılmayla Karşı Karşıya
 subtitle: Antwerp-Bruges Limanı, Grev Sonrası 190 Gemilik Yığılmayla Karşı Karşıya
 date: '2025-10-16T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/port-of-antwerp-bruges-hit-by-post-strike-vessel-backlog/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8d909a69fa914b3f8ac6ec1ecf3e70ab~mv2.jpg
 imageAlt: Antwerp-Bruges Limanı, Grev Sonrası 190 Gemilik Yığılmayla Karşı Karşıya

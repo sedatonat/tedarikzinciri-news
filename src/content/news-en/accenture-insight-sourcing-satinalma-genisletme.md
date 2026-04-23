@@ -2,6 +2,7 @@
 title: Accenture Expands Sourcing and Procurement Services with Acquisition of Insight Sourcing
 subtitle: Accenture Expands Sourcing and Procurement Services with Acquisition of Insight Sourcing
 date: '2024-02-13T09:00:00Z'
+sourceUrl: https://newsroom.accenture.com/news/2024/accenture-to-strengthen-sourcing-and-procurement-services-with-acquisition-of-insight-sourcing
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_2218dd51b6224125973d27ebf1caee64~mv2.jpg
 imageAlt: Accenture Expands Sourcing and Procurement Services with Acquisition of Insight Sourcing

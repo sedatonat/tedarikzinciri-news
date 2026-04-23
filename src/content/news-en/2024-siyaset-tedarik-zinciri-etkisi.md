@@ -2,6 +2,7 @@
 title: How Politics Will Impact Supply Chains in 2024
 subtitle: How Politics Will Impact Supply Chains in 2024
 date: '2024-02-23T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/supply-chain-waits-on-political-winds
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_21fcae7a7129422094874dcc092216ef~mv2.jpg
 imageAlt: How Politics Will Impact Supply Chains in 2024

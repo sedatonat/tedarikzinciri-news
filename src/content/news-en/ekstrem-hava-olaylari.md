@@ -2,6 +2,7 @@
 title: Minimizing the Risks Associated with Extreme Weather
 subtitle: Minimizing the Risks Associated with Extreme Weather
 date: '2025-05-28T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41760-minimizing-the-risks-associated-with-extreme-weather
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_9dd10aab313542bfae427f40d3a4ec5f~mv2.png
 imageAlt: Minimizing the Risks Associated with Extreme Weather

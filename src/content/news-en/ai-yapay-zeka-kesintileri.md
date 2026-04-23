@@ -2,6 +2,7 @@
 title: AI Disruptions Create Bumps, Not Sinkholes
 subtitle: AI Disruptions Create Bumps, Not Sinkholes
 date: '2025-08-19T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/42309-how-ai-can-turn-supply-chain-disruptions-into-bumps-rather-than-sinkholes
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_8332bcdb7cc74c87811f5fd8d2446d73~mv2.png
 imageAlt: AI Disruptions Create Bumps, Not Sinkholes

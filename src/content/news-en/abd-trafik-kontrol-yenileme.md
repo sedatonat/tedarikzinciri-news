@@ -2,6 +2,7 @@
 title: 'U.S. Air Traffic Control System Overhaul: Peraton Named Leader of Multi-Billion Dollar Modernization'
 subtitle: 'U.S. Air Traffic Control System Overhaul: Peraton Named Leader of Multi-Billion Dollar Modernization'
 date: '2025-12-05T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42945-us-dot-announces-partner-in-air-traffic-overhaul-plans
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_472cd125371846b6a2d4c83c0f858507~mv2.jpg
 imageAlt: Detailed news summary of the U.S. Department of Transportation and FAA's selection of Peraton as the lead contractor for the $12.5 billion ATC modernization project and the scope of the three-year air traffic control infrastructure transformation

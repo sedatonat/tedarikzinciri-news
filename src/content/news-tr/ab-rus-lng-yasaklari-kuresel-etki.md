@@ -2,6 +2,7 @@
 title: AB'nin Rus LNG Yasaklarının Küresel Gaz Piyasasına Etkileri
 subtitle: AB'nin Rus LNG Yasaklarının Küresel Gaz Piyasasına Etkileri
 date: '2024-05-14T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/39700-what-eu-sanctions-on-russian-lng-would-mean-for-global-gas
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_227edfe2248445eca4f65181c66adf34~mv2.jpg
 imageAlt: AB'nin Rus LNG Yasaklarının Küresel Gaz Piyasasına Etkileri

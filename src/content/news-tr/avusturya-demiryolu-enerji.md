@@ -2,6 +2,7 @@
 title: Avusturya'nın Yeni Hükümeti Demiryolu Sektörüne Enerji Vergisi Muafiyeti Getirmeyi Planlıyor
 subtitle: Avusturya'nın Yeni Hükümeti Demiryolu Sektörüne Enerji Vergisi Muafiyeti Getirmeyi Planlıyor
 date: '2025-03-07T09:00:00Z'
+sourceUrl: https://www.railfreight.com/policy/2025/03/07/new-austrian-government-seeks-energy-tax-exemption-for-rail/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_fe1c16aad8a74fe3bba54ca3de565215~mv2.jpg
 imageAlt: Avusturya'nın Yeni Hükümeti Demiryolu Sektörüne Enerji Vergisi Muafiyeti Getirmeyi Planlıyor

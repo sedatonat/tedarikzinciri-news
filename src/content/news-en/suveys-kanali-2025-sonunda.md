@@ -2,6 +2,7 @@
 title: Suez Canal to Reopen by End of 2025
 subtitle: Suez Canal to Reopen by End of 2025
 date: '2025-02-12T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/suez-canal-to-reopen-by-late-2025-drewry-survey
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_725ebb652b664c009717b3f240b1e60e~mv2.jpg
 imageAlt: Suez Canal to Reopen by End of 2025

@@ -2,6 +2,7 @@
 title: Avrupa Birliği, 2035 İçten Yanmalı Motor Yasağında Geri Adım Attı
 subtitle: Avrupa Birliği, 2035 İçten Yanmalı Motor Yasağında Geri Adım Attı
 date: '2025-12-16T09:00:00Z'
+sourceUrl: https://www.haber7.com/otomobil/haber/3588539-avrupa-birliginden-geri-adim-benzin-ve-dizel-araclar-icin-yeni-karar
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_b276eff5f5034aefb13188ce6eb2d7e1~mv2.jpg
 imageAlt: Avrupa Birliği'nin 2035’e kadar yeni benzinli ve dizel araç satışını yasaklama kararından vazgeçerek otomobil üreticilerine %90 egzoz emisyonu azaltımı yükümlülüğü getirmesini ve bu kararın otomotiv sektörü ile iklim politikalarına etkilerini ele alan detaylı sektör özeti

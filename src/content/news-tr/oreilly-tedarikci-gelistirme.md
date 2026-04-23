@@ -2,6 +2,7 @@
 title: O’Reilly Automotive, Tarifelere Karşı Tedarikçi Sağlığını Merkeze Alıyor
 subtitle: O’Reilly Automotive, Tarifelere Karşı Tedarikçi Sağlığını Merkeze Alıyor
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/oreilly-automotive-supplier-health-tariff-shield/804320/
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_1c48c66c752149bc83966381e128a4b1~mv2.jpg
 imageAlt: O’Reilly Automotive, tedarikçi risk yönetimini güçlendirerek finansal sağlamlık, ürün kalitesi, gönderim performansı ve tedarik çeşitlendirmesi üzerinden tarifelerin etkisini azaltmaya odaklanıyor. Çin’e bağımlılık %20’lerin ortasına düşmüş durumda.

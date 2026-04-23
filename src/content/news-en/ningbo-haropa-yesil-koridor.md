@@ -2,6 +2,7 @@
 title: China–France Green Shipping Corridor Established Between Ningbo-Zhoushan and HAROPA Ports
 subtitle: China–France Green Shipping Corridor Established Between Ningbo-Zhoushan and HAROPA Ports
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/china-france-green-corridor-advances-maritime-decarbonisation/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a4b243247364449aaea653107ef3c953~mv2.jpg
 imageAlt: The green shipping corridor launched between Ningbo-Zhoushan (China) and HAROPA (France) ports aims to accelerate maritime decarbonisation under the International Green Shipping Corridor Cooperation Initiative. The project includes Bureau Veritas, MSC, CMA CGM, Zhejiang Seaport Group and China Waterborne Transport Research Institute.

@@ -2,6 +2,7 @@
 title: Turkish Republic of Northern Cyprus Protests Maritime Boundary Agreement Between Cyprus and Lebanon
 subtitle: Turkish Republic of Northern Cyprus Protests Maritime Boundary Agreement Between Cyprus and Lebanon
 date: '2025-11-27T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385083/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_35e0dc955c844f0683c622a4027ef892~mv2.jpg
 imageAlt: ''

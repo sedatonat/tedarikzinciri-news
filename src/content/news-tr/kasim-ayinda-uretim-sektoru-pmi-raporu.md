@@ -2,6 +2,7 @@
 title: 'Kasım Ayında Üretim Sektörü İstikrara Yaklaştı: PMI Raporu'
 subtitle: 'Kasım Ayında Üretim Sektörü İstikrara Yaklaştı: PMI Raporu'
 date: '2024-12-02T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/pmi-november-2024-donald-trump-tariffs-demand-layoffs/734316/
 category: Satınalma
 image: https://static.wixstatic.com/media/3206646ceb6b41fa90c3f63279531957.jpg
 imageAlt: 'Kasım Ayında Üretim Sektörü İstikrara Yaklaştı: PMI Raporu'

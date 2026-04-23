@@ -2,6 +2,7 @@
 title: Çalışan Güvenliğini Önceliklendirmede Teknolojinin Rolü
 subtitle: Çalışan Güvenliğini Önceliklendirmede Teknolojinin Rolü
 date: '2025-02-03T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/using_tech_to_prioritize_employee_safety
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_c6a343e016504f0db67d7ae8c4154382~mv2.jpg
 imageAlt: Çalışan Güvenliğini Önceliklendirmede Teknolojinin Rolü

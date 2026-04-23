@@ -2,6 +2,7 @@
 title: Avrupa Tedarik Zincirinde Elektrikli Kamyon Devrimi
 subtitle: Avrupa Tedarik Zincirinde Elektrikli Kamyon Devrimi
 date: '2024-03-18T09:00:00Z'
+sourceUrl: https://www.allthingssupplychain.com/the-impact-of-electric-trucks-in-the-european-supply-chain/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_434123f407194313ac06939d7444baf7~mv2.jpg
 imageAlt: Avrupa Tedarik Zincirinde Elektrikli Kamyon Devrimi

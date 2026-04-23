@@ -2,6 +2,7 @@
 title: Cyber Attack Leaves Whole Foods Shelves Empty
 subtitle: Cyber Attack Leaves Whole Foods Shelves Empty
 date: '2025-06-11T09:00:00Z'
+sourceUrl: https://nypost.com/2025/06/11/business/whole-foods-tells-customers-of-temporary-supply-challenges/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_949956845e5342fba1f382148bd1d71d~mv2.jpg
 imageAlt: Cyber Attack Leaves Whole Foods Shelves Empty

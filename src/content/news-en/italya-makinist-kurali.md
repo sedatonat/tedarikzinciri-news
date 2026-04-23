@@ -2,6 +2,7 @@
 title: Italy Launches "Single-Driver Rule" Era for Freight Trains
 subtitle: Italy Launches "Single-Driver Rule" Era for Freight Trains
 date: '2025-10-24T09:00:00Z'
+sourceUrl: https://www.railfreight.com/policy/2025/10/24/the-single-driver-rule-in-italy-is-an-epochal-shift/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_dbe31058e3e2468887848f9b585192a4~mv2.jpg
 imageAlt: Italy Launches "Single-Driver Rule" Era for Freight Trains

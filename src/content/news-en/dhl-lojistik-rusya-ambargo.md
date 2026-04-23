@@ -2,6 +2,7 @@
 title: Major Logistics Companies Continue Shipping Through Russia
 subtitle: Major Logistics Companies Continue Shipping Through Russia
 date: '2025-03-11T09:00:00Z'
+sourceUrl: https://shippingwatch.com/logistics/article17983025.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6f2db5340aca4d6b8d0da02cb23f9d9d~mv2.jpg
 imageAlt: Major Logistics Companies Continue Shipping Through Russia

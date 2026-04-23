@@ -2,6 +2,7 @@
 title: DHL, HappyRobot Yapay Zekâ Ajanlarıyla Operasyon ve Müşteri İletişimini Güçlendiriyor
 subtitle: DHL, HappyRobot Yapay Zekâ Ajanlarıyla Operasyon ve Müşteri İletişimini Güçlendiriyor
 date: '2025-11-25T09:00:00Z'
+sourceUrl: https://warehousinglogisticsinternational.com/dhl-boosts-operational-efficiency-and-customer-communications-with-happyrobots-ai-agents/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_14f64166743f40b6b5ffc8ef0056dea7~mv2.jpg
 imageAlt: DHL Supply Chain’in HappyRobot ile yaptığı iş birliği kapsamında telefon, e-posta ve mesajlaşma süreçlerini otonom yapay zekâ ajanlarıyla otomatikleştirmesi, operasyonel verimlilik ve müşteri deneyimindeki dönüşümü anlatan kapsamlı haber özeti

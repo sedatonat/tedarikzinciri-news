@@ -2,6 +2,7 @@
 title: 'Yurtiçi Kargo''s Technological Revolution in Eskişehir: Robotic Automation Hub'
 subtitle: 'Yurtiçi Kargo''s Technological Revolution in Eskişehir: Robotic Automation Hub'
 date: '2024-02-16T09:00:00Z'
+sourceUrl: https://www.lojiport.com/yurtici-kargodan-eskisehire-buyuk-robotik-ve-otomasyon-yatirimi-116223h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_64917f61b5e14422baac9c95368dad6b~mv2.jpg
 imageAlt: 'Yurtiçi Kargo''s Technological Revolution in Eskişehir: Robotic Automation Hub'

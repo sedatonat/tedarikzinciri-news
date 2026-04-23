@@ -2,6 +2,7 @@
 title: Tayvan Depremi, Küresel Tedarik Zincirlerinin Dirençliliğini Ön Plana Çıkarıyor
 subtitle: Tayvan Depremi, Küresel Tedarik Zincirlerinin Dirençliliğini Ön Plana Çıkarıyor
 date: '2024-04-03T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10062-taiwans-earthquake-heightens-need-for-antifragile-global-supply-chains
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_eb188d5ed5df41f3baca0e102d8d42a1~mv2.jpg
 imageAlt: Tayvan Depremi, Küresel Tedarik Zincirlerinin Dirençliliğini Ön Plana Çıkarıyor

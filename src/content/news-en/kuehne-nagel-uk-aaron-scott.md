@@ -2,6 +2,7 @@
 title: Kuehne+Nagel Appoints Former DSV Executive Aaron Scott to Head UK Operations from 2026
 subtitle: Kuehne+Nagel Appoints Former DSV Executive Aaron Scott to Head UK Operations from 2026
 date: '2025-11-18T09:00:00Z'
+sourceUrl: https://shippingwatch.com/logistics/article18751899.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_78b1c7ea862e489b892030aaa6aee1ba~mv2.jpg
 imageAlt: Kuehne+Nagel strengthens its UK strategy by appointing Aaron Scott, a former DSV executive with approximately 30 years of industry experience, as the new leader of its UK division from 2026.

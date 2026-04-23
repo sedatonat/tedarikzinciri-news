@@ -2,6 +2,7 @@
 title: 'Schneider Fast Track: Intermodal Taşımacılıkta Kamyon Hızında Yeni Dönem'
 subtitle: 'Schneider Fast Track: Intermodal Taşımacılıkta Kamyon Hızında Yeni Dönem'
 date: '2025-11-11T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/schneider-fast-track-intermodal-freight
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a23a76a421044b8aa24f69d70325e338~mv2.jpg
 imageAlt: Schneider National, Fast Track hizmetiyle ABD–Meksika hatlarında 2 güne kadar daha hızlı transit, %95+ zamanında teslimat ve 99.99% hırsızlıksız operasyon sunarak intermodal taşımacılığı kamyon seviyesinde hız ve güvenilirliğe taşıyor.

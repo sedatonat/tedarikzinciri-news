@@ -2,6 +2,7 @@
 title: Volvo and Westport Launch Strategic Partnership for Renewable-Fuel Vehicles
 subtitle: Volvo and Westport Launch Strategic Partnership for Renewable-Fuel Vehicles
 date: '2024-06-04T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10361-volvo-and-partner-launch-joint-venture-to-provide-renewable-fueled-ice-vehicles
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_9a4674647b384d6b8d4a54551d68b682~mv2.jpg
 imageAlt: Volvo and Westport Launch Strategic Partnership for Renewable-Fuel Vehicles

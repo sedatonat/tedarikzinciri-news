@@ -2,6 +2,7 @@
 title: U.S. Coast Guard Cybersecurity Rule Enters Into Force
 subtitle: U.S. Coast Guard Cybersecurity Rule Enters Into Force
 date: '2025-07-25T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42222-new-us-coast-guard-cybersecurity-rule-enters-into-force
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_d84bbfe3ded1455796c970cbdb016171~mv2.png
 imageAlt: U.S. Coast Guard Cybersecurity Rule Enters Into Force

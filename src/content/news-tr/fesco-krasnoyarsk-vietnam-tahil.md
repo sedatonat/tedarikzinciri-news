@@ -2,6 +2,7 @@
 title: FESCO, Krasnoyarsk’tan Vietnam’a Konteynerli Tahıl Hattını Devreye Aldı
 subtitle: FESCO, Krasnoyarsk’tan Vietnam’a Konteynerli Tahıl Hattını Devreye Aldı
 date: '2025-12-05T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/12/05/en-first-containerized-wheat-shipment-from-krasnoyarsk-region-to-viet-nam/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_71b80e3589a143b8b72814cbec784e10~mv2.jpg
 imageAlt: FESCO Taşıma Grubu’nun Krasnoyarsk bölgesinden Vietnam’a konteynerize tahıl ihracatını başlatması, Sibirya tarım üreticileri için yeni pazar açılması, intermodal entegrasyon ve FVDL hattının stratejik rolünün detaylı özeti

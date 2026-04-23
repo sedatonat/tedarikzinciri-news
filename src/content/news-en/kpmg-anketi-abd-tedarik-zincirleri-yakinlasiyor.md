@@ -2,6 +2,7 @@
 title: U.S. Companies Bring Supply Chains Closer to Home, According to KPMG Survey
 subtitle: U.S. Companies Bring Supply Chains Closer to Home, According to KPMG Survey
 date: '2024-10-31T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40585-watch-the-proximity-premium-can-nearshoring-shockproof-us-supply-chains
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/06566537e7943a68d8440b7b57a6da7f.jpg
 imageAlt: U.S. Companies Bring Supply Chains Closer to Home, According to KPMG Survey

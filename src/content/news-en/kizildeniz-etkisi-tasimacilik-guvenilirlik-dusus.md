@@ -2,6 +2,7 @@
 title: Red Sea Disruptions Trigger Sharp Decline in Global Shipping Reliability
 subtitle: Red Sea Disruptions Trigger Sharp Decline in Global Shipping Reliability
 date: '2024-02-27T09:00:00Z'
+sourceUrl: https://www.linkedin.com/posts/larsjensenvespuccimaritime_sea-intelligence-has-released-reliability-activity-7168291802859388928-rzAm
 category: Lojistik
 image: https://static.wixstatic.com/media/11062b_3ee1d028888042cd859a8683909714a2~mv2_d_4380_2920_s_4_2.jpg
 imageAlt: Red Sea Disruptions Trigger Sharp Decline in Global Shipping Reliability

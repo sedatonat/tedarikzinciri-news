@@ -2,6 +2,7 @@
 title: İsveç'te Dijital Otomatik Bağlama Denemesi Başlıyor
 subtitle: İsveç'te Dijital Otomatik Bağlama Denemesi Başlıyor
 date: '2024-12-18T09:00:00Z'
+sourceUrl: https://www.railfreight.com/technology/2024/12/18/digital-automatic-coupling-trial-to-start-in-sweden/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3ef50158f246493ea388b07360c0b869~mv2.jpg
 imageAlt: İsveç'te Dijital Otomatik Bağlama Denemesi Başlıyor

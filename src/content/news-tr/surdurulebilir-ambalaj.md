@@ -2,6 +2,7 @@
 title: Sürdürülebilir Ambalajla Uyumlu Ve Rekabetçi Kalmak
 subtitle: Sürdürülebilir Ambalajla Uyumlu Ve Rekabetçi Kalmak
 date: '2025-05-05T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41694-staying-compliant-and-competitive-through-sustainable-packaging
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_a74b68679fa5416aac80bc1f088c868a~mv2.png
 imageAlt: Sürdürülebilir Ambalajla Uyumlu Ve Rekabetçi Kalmak

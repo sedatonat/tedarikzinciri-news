@@ -2,6 +2,7 @@
 title: Maersk Appoints New CFO With Logistics Background as Strategic Focus Shifts to Land-Based Operations
 subtitle: Maersk Appoints New CFO With Logistics Background as Strategic Focus Shifts to Land-Based Operations
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42993-maersk-picks-new-cfo-with-logistics-background-to-drive-strategy
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4677923e07094887b3e35a2e175f7f42~mv2.jpg
 imageAlt: A.P. Moller–Maersk's appointment of Robert Erni as new CFO, highlighting his logistics background's impact on the company's land-based logistics growth strategy, potential M&A signals, and detailed summary of management team changes

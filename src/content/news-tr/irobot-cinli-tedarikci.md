@@ -2,6 +2,7 @@
 title: Çinli Tedarikçi iRobot’un Kontrolünü Devralıyor
 subtitle: Çinli Tedarikçi iRobot’un Kontrolünü Devralıyor
 date: '2025-12-15T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/43005-chinese-supplier-to-assume-control-of-roomba-parent-company
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_10a14b656399480298be4174394e3e29~mv2.jpg
 imageAlt: Borç yükü ve finansal belirsizlik nedeniyle iflas sürecine giren iRobot’un, ana Çinli tedarikçisi Picea tarafından devralınarak özel şirkete dönüştürülmesini konu alan detaylı sektör özeti

@@ -2,6 +2,7 @@
 title: Russia Extends Ban on Precious Metals Scrap and Waste Exports Until May 2026
 subtitle: Russia Extends Ban on Precious Metals Scrap and Waste Exports Until May 2026
 date: '2025-12-05T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/12/05/en-russia-extends-ban-on-precious-metals-waste-and-scrap-export-again/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_2b89be554cb34265a974cdcdf579c883~mv2.jpg
 imageAlt: A detailed summary of the rationale, scope, exemptions, and strategic background of Russia's extension of the ban on exports of scrap and electronic waste containing precious metals, aimed at protecting domestic refining capacity

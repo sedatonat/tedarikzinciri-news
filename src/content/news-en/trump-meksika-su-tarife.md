@@ -2,6 +2,7 @@
 title: Trump Threatens 5% Additional Tariff on Mexico Over Water Treaty Violations
 subtitle: Trump Threatens 5% Additional Tariff on Mexico Over Water Treaty Violations
 date: '2025-12-09T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/trump-mexico-tariffs-water-treaty/807402/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_094a51b9d94446a29e027b0b75131605~mv2.jpg
 imageAlt: Summary of Trump administration's threat of 5% additional tariffs on Mexican products citing non-compliance with obligations under the 1944 U.S.–Mexico Water Treaty, its interaction with current USMCA tariffs, and potential impacts on North American trade

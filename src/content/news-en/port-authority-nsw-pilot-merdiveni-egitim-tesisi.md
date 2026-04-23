@@ -2,6 +2,7 @@
 title: Port Authority of New South Wales Develops New Pilot Ladder Training Facility at Port Kembla
 subtitle: Port Authority of New South Wales Develops New Pilot Ladder Training Facility at Port Kembla
 date: '2024-10-31T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/port-kembla-unveils-ladder-training-facility/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_bfa673973b7b4f65b21f21cabbdca1d3~mv2.jpg
 imageAlt: Port Authority of New South Wales Develops New Pilot Ladder Training Facility at Port Kembla

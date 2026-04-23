@@ -2,6 +2,7 @@
 title: 'SAP Accused of Trade Secret Theft: o9 Solutions Files Lawsuit'
 subtitle: 'SAP Accused of Trade Secret Theft: o9 Solutions Files Lawsuit'
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42908-ai-firm-accuses-sap-of-stealing-supply-chain-trade-secrets
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_787f148b62094fff8532b98cd9ffac6c~mv2.jpg
 imageAlt: Detailed explanation summarizing the scope of the trade secret theft lawsuit filed by o9 Solutions against SAP, the allegations, the role of former executives, and the sector impact of competition among supply chain planning software providers.

@@ -2,6 +2,7 @@
 title: Veson Nautical Renews User Experience with IMOS X
 subtitle: Veson Nautical Renews User Experience with IMOS X
 date: '2024-09-25T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/veson-nautical-enhancing-tools-for-freight-management-platform/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d81f7ce51ccf42a5abf18b388ff148ef~mv2.jpg
 imageAlt: Veson Nautical Renews User Experience with IMOS X

@@ -2,6 +2,7 @@
 title: Oil Surges 5% Following U.S. Sanctions on Rosneft and Lukoil
 subtitle: Oil Surges 5% Following U.S. Sanctions on Rosneft and Lukoil
 date: '2025-10-23T09:00:00Z'
+sourceUrl: https://gcaptain.com/oil-surges-after-u-s-sanctions-on-russias-rosneft-and-lukoil/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_d67635ac7ac14ed8bf1bcd5bb050944e~mv2.jpg
 imageAlt: Oil Surges 5% Following U.S. Sanctions on Rosneft and Lukoil

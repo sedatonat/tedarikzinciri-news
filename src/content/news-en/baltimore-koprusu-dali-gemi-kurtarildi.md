@@ -2,6 +2,7 @@
 title: Dali Vessel Finally Salvaged From Baltimore Bridge Wreckage
 subtitle: Dali Vessel Finally Salvaged From Baltimore Bridge Wreckage
 date: '2024-05-21T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/dali-containership-moved-from-baltimore-bridge-ruins/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2b3df508f0cb4f2ca5ff2f4ba2bf5b3f~mv2.jpg
 imageAlt: Dali Vessel Finally Salvaged From Baltimore Bridge Wreckage

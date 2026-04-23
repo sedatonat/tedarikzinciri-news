@@ -2,6 +2,7 @@
 title: 'U.S. Enforcement of Pest Detection in Project Cargo Shipments Intensifying: Cost Pressures Mount for Importers'
 subtitle: 'U.S. Enforcement of Pest Detection in Project Cargo Shipments Intensifying: Cost Pressures Mount for Importers'
 date: '2025-11-10T09:00:00Z'
+sourceUrl: https://www.joc.com/article/penalties-for-pests-found-in-project-cargo-packing-add-to-shipper-woes-6112200
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3e43cd8bcd61499ab73ccc28c13b65be~mv2.jpg
 imageAlt: CBP's strict enforcement of pest detection in wooden packaging materials (WPM) is imposing significant penalties and re-export risks on project cargo importers, with inspection practices tightening throughout 2025.

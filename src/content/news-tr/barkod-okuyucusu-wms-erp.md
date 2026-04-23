@@ -2,6 +2,7 @@
 title: Donanım Barkod Okuyucular Miadını Dolduruyor mu?
 subtitle: Donanım Barkod Okuyucular Miadını Dolduruyor Mu?
 date: '2025-03-06T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/41323-are-hardware-scanners-a-thing-of-the-past
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_4d9f36467f9e452a841b0ecf3d8cb47c~mv2.png
 imageAlt: Donanım Barkod Okuyucular Miadını Dolduruyor Mu?

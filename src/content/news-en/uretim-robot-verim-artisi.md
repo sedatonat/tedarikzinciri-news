@@ -2,6 +2,7 @@
 title: 'More Throughput with Fewer Robots: How AMR Optimization Multiplies ROI?'
 subtitle: 'More Throughput with Fewer Robots: How AMR Optimization Multiplies ROI?'
 date: '2025-11-06T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42770-the-roi-multiplier-how-minimizing-robots-maximizes-throughput-and-savings
 category: Envanter
 image: https://static.wixstatic.com/media/nsplsh_f042d9bb6c2a47739454c521e79abc90~mv2.jpg
 imageAlt: Zebra's orchestration approach optimizes AMR fleets with cloud + edge technology, enabling the same work to be accomplished with 30% fewer robots, higher throughput, lower capex, and more efficient workflows.

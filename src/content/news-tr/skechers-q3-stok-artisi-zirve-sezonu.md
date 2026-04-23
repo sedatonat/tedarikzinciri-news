@@ -2,6 +2,7 @@
 title: Skechers’in Q3 Stok Artışı Zirve Sezonuna Gölge Düşürmüyor
 subtitle: Skechers’in Q3 Stok Artışı Zirve Sezonuna Gölge Düşürmüyor
 date: '2024-11-04T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/skechers-holiday-inventory-Q3-earnings/731442/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_c8ffe2a018a1452dbde1dd7aac979770~mv2.jpg
 imageAlt: Skechers’in Q3 Stok Artışı Zirve Sezonuna Gölge Düşürmüyo

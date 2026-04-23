@@ -2,6 +2,7 @@
 title: Electric Empty Container Handler to Be Delivered to Malta Freeport Terminals
 subtitle: Electric Empty Container Handler to Be Delivered to Malta Freeport Terminals
 date: '2025-01-17T09:00:00Z'
+sourceUrl: https://www.warehousinglogisticsinternational.com/hyster-to-provide-electric-empty-container-handler-at-malta-freeport-terminals/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_f0130ece6fe94ca5a28654698c7fd29d~mv2.jpg
 imageAlt: Electric Empty Container Handler to Be Delivered to Malta Freeport Terminals

@@ -2,6 +2,7 @@
 title: Will Russia Acquire a New Private Rail Freight Operator?
 subtitle: Will Russia Acquire a New Private Rail Freight Operator?
 date: '2025-03-03T09:00:00Z'
+sourceUrl: https://www.railfreight.com/business/2025/03/03/will-russia-get-a-new-private-rail-freight-operator/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_9c96b73c2a014323b5d4229328d78594~mv2.jpg
 imageAlt: Will Russia Acquire a New Private Rail Freight Operator?

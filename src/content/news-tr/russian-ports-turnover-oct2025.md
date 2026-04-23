@@ -2,6 +2,7 @@
 title: Rus Deniz Limanlarında Yük Hacmi Ekim 2025’te %5,1 Arttı
 subtitle: Rus Deniz Limanlarında Yük Hacmi Ekim 2025’te %5,1 Arttı
 date: '2025-11-19T09:00:00Z'
+sourceUrl: https://seanews.ru/2025/11/19/gruzooborot-rossijskih-portov-v-oktjabre-2025-vyros-na-5-1/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_92f310a0b7924636b86f2332bca5579c~mv2.jpg
 imageAlt: Rusya’nın tüm deniz limanlarındaki yük hacmi 2025 Ekim ayında yıllık bazda %5,1 arttı; büyümeyi özellikle petrol, kömür, LNG ve hurda yükleri desteklerken ithalat %13 düştü.

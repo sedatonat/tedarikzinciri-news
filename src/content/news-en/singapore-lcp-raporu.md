@@ -2,6 +2,7 @@
 title: Singapore Named World's Leading Container Port in New LCP Report
 subtitle: Singapore Named World's Leading Container Port in New LCP Report
 date: '2025-11-27T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385091/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e210000ac2984e34aa595849c102c4a2~mv2.jpg
 imageAlt: The inaugural Leading Container Ports of the World report published by DNV and Menon Economics names Singapore as the global leader, presenting a comprehensive overview of the methodology, rankings, and regional logistics implications.

@@ -2,6 +2,7 @@
 title: You Don't Have to Choose Between Sustainability and Cost
 subtitle: You Don't Have to Choose Between Sustainability and Cost
 date: '2025-05-05T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41679-think-you-have-to-choose-between-sustainability-and-cost-think-again
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_b3c8b98191c74159824a9429e31ac27e~mv2.png
 imageAlt: You Don't Have to Choose Between Sustainability and Cost

@@ -2,6 +2,7 @@
 title: Australian Port Operations Under Pressure Amid Chinese Military Activities
 subtitle: Australian Port Operations Under Pressure Amid Chinese Military Activities
 date: '2025-03-09T09:00:00Z'
+sourceUrl: https://container-news.com/australian-port-operations-under-pressure-amid-chinese-military-actions/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_619b57458b9e426bb23f8c4a527e1417~mv2.png
 imageAlt: Australian Port Operations Under Pressure Amid Chinese Military Activities

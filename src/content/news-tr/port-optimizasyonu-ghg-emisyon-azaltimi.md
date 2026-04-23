@@ -2,6 +2,7 @@
 title: Port Optimizasyonuyla GHG Emisyonlarında Dramatik Azalma Sağlandı
 subtitle: Port Optimizasyonuyla GHG Emisyonlarında Dramatik Azalma Sağlandı
 date: '2024-12-06T09:00:00Z'
+sourceUrl: https://splash247.com/study-finds-dramatic-ghg-cuts-brought-by-improved-port-optimisation/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_9dc4e490c25747618eab7dd4f2ee1b70~mv2.jpg
 imageAlt: Port Optimizasyonuyla GHG Emisyonlarında Dramatik Azalma Sağlandı

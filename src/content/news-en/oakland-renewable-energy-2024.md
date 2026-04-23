@@ -2,6 +2,7 @@
 title: Port of Oakland Sourced 86% of Its Electricity from Renewable Sources in 2024
 subtitle: Port of Oakland Sourced 86% of Its Electricity from Renewable Sources in 2024
 date: '2025-11-05T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/port-of-oakland-achieves-86-per-cent-renewable-power-in-2024/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6696b58a4c7746e5be0ab2166d1bc579~mv2.jpg
 imageAlt: Port of Oakland achieved significant progress toward its goal of becoming one of the U.S.'s cleanest ports in 2024 by sourcing 86% of its electricity from renewable or zero-carbon sources; the port also accelerated its clean energy transition through a 20-year, 4 MW energy storage agreement.

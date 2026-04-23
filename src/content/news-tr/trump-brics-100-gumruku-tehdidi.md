@@ -2,6 +2,7 @@
 title: Trump, BRICS Ülkelerine %100 Gümrük Vergisi Tehdidiyle Ekonomik Baskı Uygulamayı Düşünüyor
 subtitle: Trump, BRICS Ülkelerine %100 Gümrük Vergisi Tehdidiyle Ekonomik Baskı Uygulamayı Düşünüyor
 date: '2024-12-02T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40758-trump-threatens-brics-nations-with-100-tariffs
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_843819b7dab1421ba260a9368847a3e7~mv2.jpg
 imageAlt: Trump, BRICS Ülkelerine %100 Gümrük Vergisi Tehdidiyle Ekonomik Baskı Uygulamayı Düşünüyor

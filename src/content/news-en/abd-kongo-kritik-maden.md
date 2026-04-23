@@ -2,6 +2,7 @@
 title: U.S. Commits Over $1 Billion in Support for Congo's Critical Minerals Supply Chain
 subtitle: U.S. Commits Over $1 Billion in Support for Congo's Critical Minerals Supply Chain
 date: '2025-12-05T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42944-us-vows-over-1b-for-congo-critical-minerals-supply-chain
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_29cacafc157e42c09a9f3abb9c8f2c50~mv2.jpg
 imageAlt: Detailed overview of the U.S. DFC's financing plan exceeding $1 billion for copper-cobalt joint venture in Congo and railway rehabilitation linked to the Lobito corridor, and its impacts on the global critical minerals supply chain

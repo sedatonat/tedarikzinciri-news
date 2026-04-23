@@ -2,6 +2,7 @@
 title: İspanya–Fas Demiryolu Tüneli Son Derece Karmaşık Ama Teknik Olarak Mümkün
 subtitle: İspanya–Fas Demiryolu Tüneli Son Derece Karmaşık Ama Teknik Olarak Mümkün
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.railfreight.com/infrastructure/2025/11/03/spain-morocco-rail-tunnel-extremely-complex-but-technically-viable/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_343ed86788af4346828f55d61f87831a~mv2.jpg
 imageAlt: Cebelitarık Boğazı’nın altından geçecek İspanya–Fas demiryolu tüneli projesi, İspanya hükümeti tarafından hazırlatılan fizibilite raporuna göre teknik olarak uygulanabilir, ancak jeolojik ve mühendislik açısından son derece karmaşık bir girişim olacak. Nihai kararın 2027’de verilmesi bekleniyor.

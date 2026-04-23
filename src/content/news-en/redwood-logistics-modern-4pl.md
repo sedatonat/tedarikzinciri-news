@@ -2,6 +2,7 @@
 title: Redwood Logistics Unveils "Modern 4PL For Dummies" Book
 subtitle: Redwood Logistics Unveils "Modern 4PL For Dummies" Book
 date: '2025-03-03T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/press-release/20250303-redwood-logistics-unveils-new-book-modern-4pl-for-dummies-1/
 category: Lojistik
 image: https://static.wixstatic.com/media/11062b_940e5d285a7849d7ad53db377fabf5b4~mv2.jpg
 imageAlt: Redwood Logistics Unveils "Modern 4PL For Dummies" Book

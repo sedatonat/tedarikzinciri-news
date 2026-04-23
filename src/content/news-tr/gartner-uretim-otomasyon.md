@@ -2,6 +2,7 @@
 title: 'Gartner: Üretim Sektörü Gelişmiş Otomasyon Stratejisinde Kökten Yenilenmeye İhtiyaç Duyuyor'
 subtitle: 'Gartner: Üretim Sektörü Gelişmiş Otomasyon Stratejisinde Kökten Yenilenmeye İhtiyaç Duyuyor'
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42737-gartner-manufacturing-industry-needs-reset-on-advanced-automation
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_0ec560d38ca241aead3d54de08494a80~mv2.jpg
 imageAlt: Gartner’ın yeni raporuna göre, üretim sektörünün ileri otomasyon uygulamalarını benimseme sürecinde ciddi bir strateji boşluğu bulunuyor. Şirketlerin yarısı, mevcut üretim stratejilerinin önümüzdeki üç yılda beklenen iş sonuçlarını sağlayamayacağına inanıyor.

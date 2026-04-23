@@ -2,6 +2,7 @@
 title: 'U.S. Sanctions Squeeze Russian Oil at Sea: 48 Million Barrels Await Buyers'
 subtitle: 'U.S. Sanctions Squeeze Russian Oil at Sea: 48 Million Barrels Await Buyers'
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://gcaptain.com/russian-oil-risks-being-stuck-at-sea-amid-us-sanctions/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_6415e0f014774faa8009ee3b7be8be1a~mv2.jpg
 imageAlt: As U.S. sanctions against Rosneft and Lukoil take effect, approximately 48 million barrels of Russian crude oil remain stranded at sea; dozens of tankers are changing course to seek alternative ports.

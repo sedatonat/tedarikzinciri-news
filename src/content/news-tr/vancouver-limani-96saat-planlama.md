@@ -2,6 +2,7 @@
 title: Vancouver Limanı Yeni Planlama Sistemiyle Gemi Varışlarını 96 Saat Önceden Bildirecek
 subtitle: Vancouver Limanı Yeni Planlama Sistemiyle Gemi Varışlarını 96 Saat Önceden Bildirecek
 date: '2025-12-05T09:00:00Z'
+sourceUrl: https://www.joc.com/article/vancouvers-new-scheduling-system-gives-96-hour-advance-notice-of-vessel-arrivals-6129517
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_36880165ab864f93b2dd622135c1b935~mv2.jpg
 imageAlt: Vancouver Limanı’nın merkezi planlama sistemiyle gemi varış bilgilerinin terminal operatörlerine en az 96 saat önce iletilmesi ve bunun iş gücü, ekipman, tıkanıklık ve Trans-Pasifik operasyonları üzerindeki etkilerinin detaylı özeti

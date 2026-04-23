@@ -2,6 +2,7 @@
 title: APM Terminals to Build Bangladesh's Deepest Container Terminal in Chittagong
 subtitle: APM Terminals to Build Bangladesh's Deepest Container Terminal in Chittagong
 date: '2025-11-17T09:00:00Z'
+sourceUrl: https://www.joc.com/article/apm-terminals-to-build-bangladeshs-deepest-container-terminal-at-chittagong-6118271
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b0068ca939fb446da02912a7b9d46cbd~mv2.jpg
 imageAlt: APM Terminals will construct the $550 million Laldia Container Terminal at Chittagong Port, Bangladesh's main gateway. Scheduled to open in 2030, the terminal will be the country's deepest and most modern container facility and will be operated by APMT under a 30-year concession agreement.

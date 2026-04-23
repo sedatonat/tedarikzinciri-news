@@ -2,6 +2,7 @@
 title: MSC Fleet Surpasses 7 Million TEU Milestone
 subtitle: MSC Fleet Surpasses 7 Million TEU Milestone
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://splash247.com/msc-crosses-the-7m-teu-mark/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6aabc3b91fcf4f81830ba6d94d99e171~mv2.jpg
 imageAlt: Comprehensive overview explaining how MSC's fleet has exceeded 7 million TEU, achieving unrivaled scale in global container shipping.

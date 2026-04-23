@@ -2,6 +2,7 @@
 title: Greece, Bulgaria and Romania Establish New Black Sea–Aegean Corridor Platform
 subtitle: Greece, Bulgaria and Romania Establish New Black Sea–Aegean Corridor Platform
 date: '2025-12-05T09:00:00Z'
+sourceUrl: https://www.railfreight.com/policy/2025/12/05/greece-bulgaria-and-romania-establish-new-corridor-platform/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_17ce723270ad4622b700a5e60619301d~mv2.jpeg
 imageAlt: Comprehensive overview of the Black Sea–Aegean Sea Corridor Platform (BACP) initiative created by Greece–Bulgaria–Romania, detailing objectives, cross-border infrastructure planning, EU integration and regional logistics implications

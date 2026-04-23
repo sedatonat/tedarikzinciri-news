@@ -2,6 +2,7 @@
 title: Amazon, Inbound Fulfillment Sürecinde Büyük Değişiklikler Yapıyor
 subtitle: Amazon, Inbound Fulfillment Sürecinde Büyük Değişiklikler Yapıyor
 date: '2024-11-01T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/amazon-inbound-fulfillment-q3-2024-earnings/731523/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_0b9a69684c694372a3a6a4d3af7528a8~mv2.png
 imageAlt: Amazon, Inbound Fulfillment Sürecinde Büyük Değişiklikler Yapıyor

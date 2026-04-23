@@ -2,6 +2,7 @@
 title: 'Lineage Logistics’in Nasdaq Halka Arzı: Soğuk Depo Devinden 18 Milyar Dolar Hedefi'
 subtitle: 'Lineage Logistics’in Nasdaq Halka Arzı: Soğuk Depo Devinden 18 Milyar Dolar Hedefi'
 date: '2024-07-25T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10629-cold-storage-powerhouse-lineage-to-raise-18-billion-on-nasdaq
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_603cbae20e4c4ee6aa68abef387623d3~mv2.jpeg
 imageAlt: 'Lineage Logistics’in Nasdaq Halka Arzı: Soğuk Depo Devinden 18 Milyar Dolar Hedefi'

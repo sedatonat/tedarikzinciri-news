@@ -2,6 +2,7 @@
 title: 'Cofactr Acquires Factor.io: Automating Supplier Tracking'
 subtitle: 'Cofactr Acquires Factor.io: Automating Supplier Tracking'
 date: '2025-02-10T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/cofactr-acquires-factor.io-automate-supplier-tracking
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_16541b193151440baa89063ce8f1cad0~mv2.jpg
 imageAlt: 'Cofactr Acquires Factor.io: Automating Supplier Tracking'

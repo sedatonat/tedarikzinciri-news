@@ -2,6 +2,7 @@
 title: Wan Hai, Filosu İçin 49.300 Yeni Konteyner Sipariş Etti
 subtitle: Wan Hai, Filosu İçin 49.300 Yeni Konteyner Sipariş Etti
 date: '2025-12-07T09:00:00Z'
+sourceUrl: https://container-news.com/wan-hai-orders-49300-new-containers/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_27575cd3dc3a42e09d38ebdfd19c09c7~mv2.jpg
 imageAlt: Wan Hai Lines’ın 49.300 adet yeni konteyneri toplam 118.1 milyon USD yatırımla sipariş etmesi, konteyner üreticileri CIMC ve Dong Fang’ın payları, birim fiyat analizi ve küresel kapasite stratejisine dair detaylı özet

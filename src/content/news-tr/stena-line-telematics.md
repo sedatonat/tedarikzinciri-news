@@ -2,6 +2,7 @@
 title: Stena Line, Irish Sea Limanlarında Güvenliği Kamera Telematics Çözümüyle Güçlendirdi
 subtitle: Stena Line, Irish Sea Limanlarında Güvenliği Kamera Telematics Çözümüyle Güçlendirdi
 date: '2025-11-25T09:00:00Z'
+sourceUrl: https://warehousinglogisticsinternational.com/stena-line-teams-up-with-camera-telematics-to-drive-safety-improvements-at-irish-sea-ports/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_248914fddc7b45d595849b7e9b329eea~mv2.jpg
 imageAlt: Stena Line’ın Irish Sea limanlarında Camera Telematics’in çoklu kamera tabanlı video telematics sistemini uygulayarak operasyonel güvenliği, olay incelemelerini ve risk yönetimini geliştirmesine ilişkin detaylı haber özeti

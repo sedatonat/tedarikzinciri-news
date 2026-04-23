@@ -2,6 +2,7 @@
 title: Amazon Birleşik Krallık'ta Elektrikli Kamyon Siparişi Verdi
 subtitle: Amazon Birleşik Krallık'ta Elektrikli Kamyon Siparişi Verdi
 date: '2025-01-21T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/amazon-places-united-kingdom-largest-ever-order-electric-trucks
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_347f0e9b64e24b7f96194c94275b1348~mv2.jpg
 imageAlt: Amazon Birleşik Krallık'ta Elektrikli Kamyon Siparişi Verdi

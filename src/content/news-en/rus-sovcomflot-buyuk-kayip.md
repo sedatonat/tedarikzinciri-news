@@ -2,6 +2,7 @@
 title: Russian Sovcomflot Faces Significant Losses Due to Sanctions
 subtitle: Russian Sovcomflot Faces Significant Losses Due to Sanctions
 date: '2025-03-10T09:00:00Z'
+sourceUrl: https://shippingwatch.com/carriers/Tanker/article17980028.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_ccfddd0a2fe74af387fadba3d2b44291~mv2.jpg
 imageAlt: Sovcomflot Faces Significant Losses Due to Sanctions

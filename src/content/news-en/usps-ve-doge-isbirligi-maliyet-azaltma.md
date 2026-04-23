@@ -2,6 +2,7 @@
 title: U.S. Postal Service and DOGE Target Cost Reduction Through Collaboration
 subtitle: U.S. Postal Service and DOGE Target Cost Reduction Through Collaboration
 date: '2025-03-14T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/us-postal-service-dejoy-doge-agreement/742549/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_a74939e4959e44b9b9da05d8d20ccfe8~mv2.jpg
 imageAlt: U.S. Postal Service and DOGE Target Cost Reduction Through Collaboration

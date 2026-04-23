@@ -2,6 +2,7 @@
 title: 2024'te Hava Kargo Talebi Çifte Haneli Büyüme Yolunda
 subtitle: 2024'te Hava Kargo Talebi Çifte Haneli Büyüme Yolunda
 date: '2024-11-06T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/xeneta-air-cargo-demand-port-strike-2024-october/732091/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c1174edf01524e4fb49608ddae791337~mv2.jpg
 imageAlt: 2024'te Hava Kargo Talebi Çifte Haneli Büyüme Yolunda

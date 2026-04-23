@@ -2,6 +2,7 @@
 title: Amazon Invests in Nuclear Energy for Data Centers
 subtitle: Amazon Invests in Nuclear Energy for Data Centers
 date: '2024-10-17T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40509-amazon-latest-tech-giant-to-invest-in-nuclear-power-for-data-centers
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_9d5221203a4045b8beb2864d31614dbd~mv2.jpg
 imageAlt: Amazon Invests in Nuclear Energy for Data Centers

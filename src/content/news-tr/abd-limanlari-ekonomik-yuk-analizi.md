@@ -2,6 +2,7 @@
 title: 'ABD Limanları ve Ekonomik Göstergeler: Yük Hacmi Analizi'
 subtitle: 'ABD Limanları ve Ekonomik Göstergeler: Yük Hacmi Analizi'
 date: '2023-10-17T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/largest-us-ports-by-volume-month-coast-cargo-trends/693493/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_545dd504f924462695fb5e8434e5b302~mv2.jpg
 imageAlt: 'ABD Limanları ve Ekonomik Göstergeler: Yük Hacmi Analizi'

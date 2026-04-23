@@ -2,6 +2,7 @@
 title: Warehouse Workers Push for More Automation
 subtitle: Warehouse Workers Push for More Automation
 date: '2025-02-27T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/warehouse-workers-push-for-more-automation-zebra-technologies-report
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_4b498735efe649ceaa2554aac3145a3e~mv2.jpg
 imageAlt: Warehouse Workers Push for More Automation

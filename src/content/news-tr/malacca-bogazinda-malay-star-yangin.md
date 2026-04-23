@@ -2,6 +2,7 @@
 title: Malacca Boğazı'nda Yangın Sonrası Malaysia Star Limanda
 subtitle: Malacca Boğazı'nda Yangın Sonrası Malaysia Star Limanda
 date: '2024-12-06T09:00:00Z'
+sourceUrl: https://container-news.com/car-carrier-moored-in-malacca-strait-after-fire-incident/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c0a5fe9c888d49d8bb93e8a5b9876b5c~mv2.jpg
 imageAlt: Malacca Boğazı'nda Yangın Sonrası Malaysia Star Limanda

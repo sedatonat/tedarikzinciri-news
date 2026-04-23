@@ -2,6 +2,7 @@
 title: Rising U.S. Deportations of Filipino Seafarers Spark Diplomatic Intervention from Manila
 subtitle: Rising U.S. Deportations of Filipino Seafarers Spark Diplomatic Intervention from Manila
 date: '2025-10-23T09:00:00Z'
+sourceUrl: https://splash247.com/rising-us-deportations-of-filipino-crew-spark-diplomatic-intervention/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_62b68bad31324fe1a2ce90282647bc28~mv2.jpg
 imageAlt: Rising U.S. Deportations of Filipino Seafarers Spark Diplomatic Intervention from Manila

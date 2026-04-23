@@ -2,6 +2,7 @@
 title: Ocak Ayında Deniz Navlun Fiyatları Düşerken, Tarifeler ve Kızıldeniz'deki Gerilimler Endişe Yaratıyor
 subtitle: Ocak Ayında Deniz Navlun Fiyatları Düşerken, Tarifeler ve Kızıldeniz'deki Gerilimler Endişe Yaratıyor
 date: '2025-01-28T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/ocean-rates-drop-season-demand-eases-tariff-concerns/738285/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_bb5318fb2be04e448c0ea1c38a4db88f~mv2.jpg
 imageAlt: Ocak Ayında Deniz Navlun Fiyatları Düşerken, Tarifeler ve Kızıldeniz'deki Gerilimler Endişe Yaratıyor

@@ -2,6 +2,7 @@
 title: 'Denizcilikte Dijital Dönüşüm: Elektronik Konşimentoların Yükselişi'
 subtitle: 'Denizcilikte Dijital Dönüşüm: Elektronik Konşimentoların Yükselişi'
 date: '2024-05-03T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/dcsa-addresses-ebls-in-shipping/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d483ce1934044c0cab8314453788145d~mv2.png
 imageAlt: 'Denizcilikte Dijital Dönüşüm: Elektronik Konşimentoların Yükselişi'

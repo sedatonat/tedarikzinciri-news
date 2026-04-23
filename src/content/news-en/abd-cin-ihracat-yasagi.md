@@ -2,6 +2,7 @@
 title: U.S. Adds More Chinese Companies to Export Ban List
 subtitle: U.S. Adds More Chinese Companies to Export Ban List
 date: '2025-03-26T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41434-us-adds-more-chinese-firms-to-export-ban-list
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_b8dd03788b8f4f7ab85c8f70260a3ef4~mv2.png
 imageAlt: U.S. Adds More Chinese Companies to Export Ban List

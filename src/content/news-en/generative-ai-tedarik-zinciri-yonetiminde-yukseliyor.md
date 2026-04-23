@@ -2,6 +2,7 @@
 title: 'The Rise of GenAI in Supply Chain Management: Opportunities and Barriers'
 subtitle: 'The Rise of GenAI in Supply Chain Management: Opportunities and Barriers'
 date: '2024-02-21T09:00:00Z'
+sourceUrl: https://procurementmag.com/articles/ey-overcoming-hurdles-to-introduce-genai-into-supply-chains
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/11062b_dd7eac35853745cfbe041ab3acb2e3b7~mv2.jpg
 imageAlt: 'The Rise of GenAI in Supply Chain Management: Opportunities and Barriers'

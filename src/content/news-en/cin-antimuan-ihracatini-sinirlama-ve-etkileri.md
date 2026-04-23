@@ -2,6 +2,7 @@
 title: China's Decision to Restrict Antimony Exports and Its Global Impact
 subtitle: China's Decision to Restrict Antimony Exports and Its Global Impact
 date: '2024-08-16T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40215-china-to-limit-exports-of-mineral-used-in-batteries-and-weapons
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_1d4764629e5f46b7b602eb0e9b9a2709~mv2.jpg
 imageAlt: China's Decision to Restrict Antimony Exports and Its Global Impact

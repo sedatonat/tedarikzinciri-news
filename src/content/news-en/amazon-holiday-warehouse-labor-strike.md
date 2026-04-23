@@ -2,6 +2,7 @@
 title: Labor Tensions at Amazon Ahead of Holiday Season
 subtitle: Labor Tensions at Amazon Ahead of Holiday Season
 date: '2024-12-20T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/amazon-workers-strike-holiday-teamsters/736142/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_a72d441dd7af44698a8327bd70728333~mv2.jpg
 imageAlt: Labor Tensions at Amazon Ahead of Holiday Season

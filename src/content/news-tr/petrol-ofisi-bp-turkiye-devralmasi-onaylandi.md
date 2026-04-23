@@ -2,6 +2,7 @@
 title: 'Petrol Ofisi''nin BP Türkiye''yi Devralması Onaylandı: Sektörde Yeni Dönem Başlıyor'
 subtitle: 'Petrol Ofisi''nin BP Türkiye''yi Devralması Onaylandı: Sektörde Yeni Dönem Başlıyor'
 date: '2024-09-13T09:00:00Z'
+sourceUrl: https://www.lojiport.com/petrol-ofisinin-bp-turkiyeyi-devralmasi-onaylandi-117046h.htm
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_4a46e1b79c3c43cfb19f0825982d4470~mv2.jpg
 imageAlt: 'Petrol Ofisi''nin BP Türkiye''yi Devralması Onaylandı: Sektörde Yeni Dönem Başlıyor'

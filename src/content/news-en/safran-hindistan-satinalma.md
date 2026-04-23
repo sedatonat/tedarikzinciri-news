@@ -2,6 +2,7 @@
 title: Safran Plans to Boost Procurement from India by 400% by 2030
 subtitle: Safran Plans to Boost Procurement from India by 400% by 2030
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42910-safran-plans-to-boost-procurement-from-india-400-by-2030
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_d2afe7f70bd646bb83096f87e5440c76~mv2.jpg
 imageAlt: Safran's target to increase procurement volume from India from 100 million euros to 500 million euros, MRO investments, Rafale engine projects, localization strategy, and the global supply chain transformation in the context of India's emerging aviation ecosystem.

@@ -2,6 +2,7 @@
 title: 'Maersk and Hapag-Lloyd Correct Suez Canal Announcement: "No Fixed Timeline"'
 subtitle: 'Maersk and Hapag-Lloyd Correct Suez Canal Announcement: "No Fixed Timeline"'
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://shippingwatch.com/carriers/Container/article18782672.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a7937c4cdd564a90a2b10d11d308873d~mv2.jpg
 imageAlt: Suez Canal Authority's early return announcement versus Maersk and Hapag-Lloyd's cautious approach, Gemini Cooperation's operational structure, risk management, and detailed news summary on 2025-2026 supply chain impacts

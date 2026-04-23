@@ -2,6 +2,7 @@
 title: Truckstop, Dry Van Taşımacılara Özel Düşük Maliyetli Yük Platformunu Tanıttı
 subtitle: Truckstop, Dry Van Taşımacılara Özel Düşük Maliyetli Yük Platformunu Tanıttı
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/truckstop-dry-van-load-board-small-fleets
 category: Lojistik
 image: https://static.wixstatic.com/media/11062b_574aaeed779948a185188ffc86ebae34~mv2.jpg
 imageAlt: Truckstop.com, küçük filolar ve bağımsız sürücüler için yalnızca dry van taşımacılığa odaklanan, aylık 35 dolar ücretli yeni bir yük platformu geliştirdi. Sistem, doğrulanmış yüklerle anlık fiyat verilerini birleştirerek küçük taşımacılara büyük firmalarla eşdeğer veri görünürlüğü sağlıyor.

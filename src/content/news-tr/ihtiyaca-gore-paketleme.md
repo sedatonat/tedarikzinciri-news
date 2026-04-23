@@ -2,6 +2,7 @@
 title: Akıllı, İhtiyaca Göre Üretilen Paketleme ile Verimlilik ve Sürdürülebilirlik Artıyor
 subtitle: Akıllı, İhtiyaca Göre Üretilen Paketleme ile Verimlilik ve Sürdürülebilirlik Artıyor
 date: '2025-11-17T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42841-driving-efficiency-and-sustainability-in-packaging
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_16dec01e583c419daf37459aeed5ae10~mv2.jpg
 imageAlt: Packsize’nin on-demand, right-sized packaging çözümleri, şirketlerin DIM maliyetlerini düşürmesini, malzeme kullanımını azaltmasını, depolama alanı kazanmasını ve operasyon verimliliğini artırmasını sağlayarak hem sürdürülebilirlik hem de finansal fayda sunuyor.

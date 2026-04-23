@@ -2,6 +2,7 @@
 title: Shanghai's Sea-Rail Intermodal Volume Surpasses 1 Million TEU Threshold in 2025
 subtitle: Shanghai's Sea-Rail Intermodal Volume Surpasses 1 Million TEU Threshold in 2025
 date: '2025-12-05T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385440/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b8a5e5ac850c4dd6a805ab4217e82853~mv2.jpg
 imageAlt: Detailed summary of Shanghai's sea-rail multimodal transport surpassing 1 million TEU in 2025, covering Luchaogang Station capacity expansions, operational improvements, and regional implications of China's intermodal strategy

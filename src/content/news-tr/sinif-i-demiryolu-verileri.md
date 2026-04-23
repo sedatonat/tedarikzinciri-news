@@ -2,6 +2,7 @@
 title: Sınıf 1 Demiryollarının Hız, Bekleme Süresi ve Vagon İzleme Verileri
 subtitle: Sınıf 1 Demiryollarının Hız, Bekleme Süresi ve Vagon İzleme Verileri
 date: '2025-03-14T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/railroad-speed-dwell-carsonline-bnsf-csx-up-cn-cp-kcs-ns/588233/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a2a531c6fca749bca9332b9573dc729e~mv2.jpg
 wixId: 00226226-ec5a-4fbe-8df6-a553e38d0c58

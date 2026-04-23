@@ -2,6 +2,7 @@
 title: Maersk Reports Strong Growth and Improved Profitability in Third Quarter
 subtitle: Maersk Reports Strong Growth and Improved Profitability in Third Quarter
 date: '2024-10-31T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/maersk-reports-41-per-cent-increase-in-ocean-revenue/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8d937e75e068482c8796dbc986637172~mv2.jpg
 imageAlt: Maersk Reports Strong Growth and Improved Profitability in Third Quarter

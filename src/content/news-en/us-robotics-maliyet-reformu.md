@@ -2,6 +2,7 @@
 title: U.S. Robotics Maker Calls for Manufacturing Reform Amid Cost Crisis
 subtitle: U.S. Robotics Maker Calls for Manufacturing Reform Amid Cost Crisis
 date: '2025-12-02T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/standard-bots-ceo-urges-robotics-automation-reforms-cost-china-concerns/806544/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_b4edb3e255064d1a90a33d995ff44e21~mv2.jpg
 imageAlt: Standard Bots CEO Evan Beard addresses Congress on the market threat of cheap Chinese robots, the U.S. strategy gap, cost disadvantage, and manufacturing reform proposals

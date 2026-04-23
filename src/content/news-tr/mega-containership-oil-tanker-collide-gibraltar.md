@@ -2,6 +2,7 @@
 title: Mega-Containership ve Yağ Tankeri Cebelitarık Boğazı'nda Çarpıştı
 subtitle: Mega-Containership ve Yağ Tankeri Cebelitarık Boğazı'nda Çarpıştı
 date: '2024-12-04T09:00:00Z'
+sourceUrl: https://gcaptain.com/mega-containership-and-oil-tanker-collide-in-strait-of-gibraltar/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e5d155bf23e545d2a338d3864ac72a2d~mv2.png
 imageAlt: Mega-Containership ve Yağ Tankeri Cebelitarık Boğazı'nda Çarpıştı

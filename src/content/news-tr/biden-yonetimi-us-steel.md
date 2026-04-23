@@ -2,6 +2,7 @@
 title: Biden Yönetiminden Gelen Uzatma, U.S. Steel Satışına İkinci Bir Şans Verdi
 subtitle: Biden Yönetiminden Gelen Uzatma, U.S. Steel Satışına İkinci Bir Şans Verdi
 date: '2025-01-13T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40976-extension-from-biden-admin-grants-us-steel-sale-second-life
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_cfbf1afdfefb439bbdc053defa2246db~mv2.jpg
 imageAlt: Biden Yönetiminden Gelen Uzatma, U.S. Steel Satışına İkinci Bir Şans Verdi

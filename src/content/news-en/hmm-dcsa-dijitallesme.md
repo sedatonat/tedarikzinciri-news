@@ -2,6 +2,7 @@
 title: HMM Advances Digitalization with DCSA Pilot Success
 subtitle: HMM Advances Digitalization with DCSA Pilot Success
 date: '2025-11-04T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/hmm-advances-digitalisation-with-dcsa-pilot-success/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_63a5a35a4ad74edd8c495d43050a429d~mv2.jpg
 imageAlt: HMM achieved significant gains in accuracy, speed, and visibility by successfully testing API-based, standardized data sharing through DCSA Booking and Bill of Lading pilots conducted with Genesis, Samsung SDS, and HelloContainer.

@@ -2,6 +2,7 @@
 title: NYC Trafik Ücreti Üzerine Siyasi Çekişme
 subtitle: NYC Trafik Ücreti Üzerine Siyasi Çekişme
 date: '2025-02-05T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41596-duffy-and-hochul-face-off-over-nyc-congestion-charge
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_94674632d8ee4a5181e16151ba0ea8cf~mv2.png
 imageAlt: Nyc Trafik Ücreti Üzerine Siyasi Çekişme

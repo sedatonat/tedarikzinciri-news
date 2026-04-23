@@ -2,6 +2,7 @@
 title: Karadeniz’de Iki Tankere Yönelik Saldırı Sonrası Acil Müdahale Başlatıldı
 subtitle: Karadeniz’de Iki Tankere Yönelik Saldırı Sonrası Acil Müdahale Başlatıldı
 date: '2025-11-28T09:00:00Z'
+sourceUrl: https://splash247.com/black-sea-blasts-set-sanctioned-tankers-ablaze-off-turkish-coast/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_91ca45d212a44176b3d0a76fbe8f8abd~mv2.jpg
 imageAlt: Karadeniz’de Rusya bağlantılı Kairos ve Virat tankerlerinde yaşanan patlamalar sonrası tüm mürettebatın tahliye edildiği, gemilerde “harici etki” bulgularının incelendiği ve Türkiye’nin bölgede geniş ölçekli deniz güvenlik operasyonları yürüttüğü olaylara ilişkin detaylı haber özeti

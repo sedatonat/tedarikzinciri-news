@@ -2,6 +2,7 @@
 title: GPS Signal Jamming Activities Involving Ships in the Baltic Sea
 subtitle: GPS Signal Jamming Activities Involving Ships in the Baltic Sea
 date: '2025-03-04T09:00:00Z'
+sourceUrl: https://splash247.com/polish-study-suggests-ships-are-conducting-gps-jamming-operations-in-the-baltic/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f300d3778e7243d390de316e7901b275~mv2.jpg
 imageAlt: GPS Signal Jamming Activities Involving Ships in the Baltic Sea

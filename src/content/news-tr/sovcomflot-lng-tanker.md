@@ -2,6 +2,7 @@
 title: Sovcomflot Yeni LNG-Ready Tanker “Ivan Aivazovsky”yi Filosuna Ekledi
 subtitle: Sovcomflot Yeni LNG-Ready Tanker “Ivan Aivazovsky”yi Filosuna Ekledi
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/11/26/en-sovcomflot-takes-delivery-of-lng-ready-tanker/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5f7943ac63064277bbd72bb95af5392f~mv2.jpg
 imageAlt: Sovcomflot’un Zvezda tersanesinde inşa edilen LNG-ready MR tanker “Ivan Aivazovsky”yi teslim alması ve buz şartlarında ürün taşımacılığı için geliştirilen yeni tanker sınıfının teknik özelliklerini anlatan detaylı haber özeti

@@ -2,6 +2,7 @@
 title: 'Gemini’nin “Güvenilirlik Ücreti” Tartışma Yarattı: Göndericiler İkiye Bölündü'
 subtitle: 'Gemini’nin “Güvenilirlik Ücreti” Tartışma Yarattı: Göndericiler İkiye Bölündü'
 date: '2025-11-18T09:00:00Z'
+sourceUrl: https://www.joc.com/article/shippers-split-as-gemini-floats-premium-charge-on-reliability-6118881
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_37863dfb55ed4c69b4fa955605fcc4d9~mv2.jpg
 imageAlt: Maersk–Hapag-Lloyd ortaklığındaki Gemini Cooperation, %89’un üzerindeki zamanında varış performansı için premium güvenilirlik ücreti talep etmeyi değerlendiriyor; ancak göndericiler arasında ücretin haklılığı konusunda ciddi görüş ayrılığı oluşmuş durumda.

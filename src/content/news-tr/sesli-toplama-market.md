@@ -2,6 +2,7 @@
 title: Butik Süpermarket Zinciri Sesli Toplamayı Optimize Etti
 subtitle: Butik Süpermarket Zinciri Sesli Toplamayı Optimize Etti
 date: '2025-08-04T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42155-a-specialty-supermarket-chain-optimizes-voice-distribution
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_a2096fadcca240cd80acbd18eeaf0bf6~mv2.png
 imageAlt: Butik Süpermarket Zinciri Sesli Dağıtımı Optimize Etti

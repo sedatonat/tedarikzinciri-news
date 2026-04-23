@@ -2,6 +2,7 @@
 title: SeaLead and GFS Launch New STM Service in Mediterranean
 subtitle: SeaLead and GFS Launch New STM Service in Mediterranean
 date: '2024-09-15T09:00:00Z'
+sourceUrl: https://www.lojiport.com/sealead-stm-hatti-ile-fas-ispanya-ve-turkiyeyi-birbirine-baglayacak-117050h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f391ca4c214141a8acd49857876a1e73~mv2.jpg
 imageAlt: SeaLead and GFS Launch New STM Service in Mediterranean

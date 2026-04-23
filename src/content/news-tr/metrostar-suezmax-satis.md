@@ -2,6 +2,7 @@
 title: Metrostar, İki Suezmax Tanker Satışıyla Ham Petrol Taşımacılığından Çekildi
 subtitle: Metrostar, İki Suezmax Tanker Satışıyla Ham Petrol Taşımacılığından Çekildi
 date: '2025-10-28T09:00:00Z'
+sourceUrl: https://splash247.com/metrostar-sails-out-of-crude-trade-with-double-suezmax-sale/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d1c010e5b35a450a9fd2ca71cb087a52~mv2.jpg
 imageAlt: Yunan armatör Metrostar Management, Delta Tankers’a iki Suezmax tipi tanker satarak ham petrol taşımacılığındaki faaliyetlerine resmen son verdi. Satış, güçlü ikinci el tanker piyasasının sürdüğünü gösteriyor.

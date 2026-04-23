@@ -2,6 +2,7 @@
 title: '2024 Tedarik Zinciri Tehditleri: Aşırı Hava Olaylarından Siber Suçlara'
 subtitle: '2024 Tedarik Zinciri Tehditleri: Aşırı Hava Olaylarından Siber Suçlara'
 date: '2024-01-04T09:00:00Z'
+sourceUrl: https://www.supplychainquarterly.com/articles/9370-extreme-weather-tops-list-of-possible-logistics-disruptions-in-2024-forecast
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_defb14b60e824a028351322cdbbebf67~mv2.png
 imageAlt: '2024 Tedarik Zinciri Tehditleri: Aşırı Hava Olaylarından Siber Suçlara'

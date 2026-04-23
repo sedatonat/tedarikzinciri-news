@@ -2,6 +2,7 @@
 title: Ukrayna, TürkAkım Boru Hattına Saldırı Girişiminde Bulundu İddiası
 subtitle: Ukrayna, TürkAkım Boru Hattına Saldırı Girişiminde Bulundu İddiası
 date: '2025-01-13T09:00:00Z'
+sourceUrl: https://www.youtube.com/watch?v=QOj9W1RlcIA
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_996bdd421155434f89067a1cdb2ed8d8~mv2.jpeg
 imageAlt: Ukrayna, TürkAkım Boru Hattına Saldırı Girişiminde Bulundu İddiası

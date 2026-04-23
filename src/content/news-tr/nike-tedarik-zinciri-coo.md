@@ -2,6 +2,7 @@
 title: 'Nike, Tedarik Zinciri Liderinin Yetkilerini Genişletti: COO Rolü Oluşturuldu'
 subtitle: 'Nike, Tedarik Zinciri Liderinin Yetkilerini Genişletti: COO Rolü Oluşturuldu'
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/nike-leadership-changes-chief-supply-chain-officer-operations/807188/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_3e3845de5a164177931bfc17c1377a15~mv2.jpg
 imageAlt: Nike’ın Chief Supply Chain Officer’ı Venkatesh Alagirisamy’yi yeni oluşturulan COO pozisyonuna ataması, teknoloji entegrasyonunun operasyonların merkezine alınması ve liderlik yapılanmasındaki değişimin detaylı özeti

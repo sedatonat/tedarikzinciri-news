@@ -2,6 +2,7 @@
 title: Depolama Sektöründe Enerji Tasarrufu ve Çevresel Düzenlemeler
 subtitle: Depolama Sektöründe Enerji Tasarrufu ve Çevresel Düzenlemeler
 date: '2024-05-13T09:00:00Z'
+sourceUrl: https://www.allthingssupplychain.com/energy-conservation-and-environmental-regulations-in-warehousing/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_27d104aae3584617b81b3550609821b2~mv2.jpg
 imageAlt: Depolama Sektöründe Enerji Tasarrufu ve Çevresel Düzenlemeler

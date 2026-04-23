@@ -2,6 +2,7 @@
 title: Kuehne+Nagel Expanding Warehousing and Distribution Capacity in India
 subtitle: Kuehne+Nagel Expanding Warehousing and Distribution Capacity in India
 date: '2025-10-20T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/kuehnenagel-expands-fulfilment-footprint-in-india/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1aca55a2e9e14823a92118c06dd55b53~mv2.jpg
 imageAlt: Kuehne+Nagel Expanding Warehousing and Distribution Capacity in India by 100,000 m²

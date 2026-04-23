@@ -2,6 +2,7 @@
 title: CMA CGM, EcoVadis Sürdürülebilirlik Değerlendirmesinde Dünyanın İlk %3’lük Dilimine Girdi
 subtitle: CMA CGM, EcoVadis Sürdürülebilirlik Değerlendirmesinde Dünyanın İlk %3’lük Dilimine Girdi
 date: '2025-10-16T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/cma-cgm-earns-top-3-per-cent-ecovadis-sustainability-rating/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_46f21a48bec646edb9d72ecd010afa24~mv2.jpg
 imageAlt: CMA CGM, EcoVadis Sürdürülebilirlik Değerlendirmesinde Dünyanın İlk %3’lük Dilimine Girdi

@@ -2,6 +2,7 @@
 title: Ontario Strikes Back at Trump's Tariffs with Tax on Power Exports
 subtitle: Ontario Strikes Back at Trump's Tariffs with Tax on Power Exports
 date: '2025-03-10T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41345-ontario-hits-back-against-trump-tariffs-with-tax-on-power-exports
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_f61f9358337c4b478107d47e6f7e2a95~mv2.jpg
 imageAlt: Ontario Strikes Back at Trump's Tariffs with Tax on Power Exports

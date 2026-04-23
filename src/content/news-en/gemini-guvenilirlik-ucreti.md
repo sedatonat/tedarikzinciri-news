@@ -2,6 +2,7 @@
 title: 'Gemini''s "Reliability Surcharge" Sparks Debate: Shippers Divided'
 subtitle: 'Gemini''s "Reliability Surcharge" Sparks Debate: Shippers Divided'
 date: '2025-11-18T09:00:00Z'
+sourceUrl: https://www.joc.com/article/shippers-split-as-gemini-floats-premium-charge-on-reliability-6118881
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_37863dfb55ed4c69b4fa955605fcc4d9~mv2.jpg
 imageAlt: Gemini Cooperation, the Maersk–Hapag-Lloyd partnership, is considering charging a premium reliability surcharge for on-time arrival performance above 89%; however, shippers remain deeply divided on the legitimacy of the fee.

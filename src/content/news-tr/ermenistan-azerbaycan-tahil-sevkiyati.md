@@ -2,6 +2,7 @@
 title: Azerbaycan Üzerinden Ermenistan’a İlk Tahıl Sevkiyatı Gerçekleşti
 subtitle: Azerbaycan Üzerinden Ermenistan’a İlk Tahıl Sevkiyatı Gerçekleşti
 date: '2025-11-13T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/11/13/en-first-grain-shipment-to-armenia-via-azerbaijan/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_a5b4e1bf0b6f4c598ee311e3195e85c8~mv2.jpg
 imageAlt: Rusya’dan Ermenistan’a yapılan 1.050 tonluk ilk buğday sevkiyatı, 1990’lardan beri kapalı olan Azerbaycan transit hattının yeniden açılmasıyla mümkün oldu; RZD yıl sonuna kadar 132 vagon daha göndermeyi planlıyor.

@@ -2,6 +2,7 @@
 title: Boosting Warehouse Efficiency with Intelligent Locker Systems and Key Cabinets
 subtitle: Boosting Warehouse Efficiency with Intelligent Locker Systems and Key Cabinets
 date: '2025-02-18T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/boost-warehouse-efficiency-with-intelligent-locker-systems-and-key-cabinets
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_443d2c19b686483bad4cc647524de0fc~mv2.jpg
 imageAlt: Boosting Warehouse Efficiency with Intelligent Locker Systems and Key Cabinets

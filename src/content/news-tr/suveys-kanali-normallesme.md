@@ -2,6 +2,7 @@
 title: Suez Kanalı Trafik ve Gelirlerinin 2026 Sonunda Tam Normalleşmesi Bekleniyor
 subtitle: Suez Kanalı Trafik ve Gelirlerinin 2026 Sonunda Tam Normalleşmesi Bekleniyor
 date: '2025-11-27T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385071/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c4c1e02a45e74090903ad52517f99eed~mv2.jpg
 imageAlt: Suez Canal Authority’nin 2026 sonunda gelirlerin ve gemi trafiğinin tamamen normale döneceğine dair açıklaması, Maersk’in dönüşü, teşvikler, transit verileri ve bölgesel istikrar etkileri üzerine kapsamlı özet

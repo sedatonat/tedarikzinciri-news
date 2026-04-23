@@ -2,6 +2,7 @@
 title: Volkswagen Faces Lawsuits Over Cargo Ship Fire
 subtitle: Volkswagen Faces Lawsuits Over Cargo Ship Fire
 date: '2024-03-05T09:00:00Z'
+sourceUrl: https://www.autobodynews.com/news/volkswagen-faces-lawsuits-over-cargo-ship-fire
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_41d390d91d034f30982b8d1a22593910~mv2.jpg
 imageAlt: Volkswagen Faces Lawsuits Over Cargo Ship Fire

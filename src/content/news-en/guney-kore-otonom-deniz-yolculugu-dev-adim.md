@@ -2,6 +2,7 @@
 title: South Korea Takes Major Stride in Autonomous Maritime Navigation
 subtitle: South Korea Takes Major Stride in Autonomous Maritime Navigation
 date: '2024-03-12T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/360628/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_89c412378a7a4a5da275c12ac0555a0b~mv2.png
 imageAlt: South Korea Takes Major Stride in Autonomous Maritime Navigation

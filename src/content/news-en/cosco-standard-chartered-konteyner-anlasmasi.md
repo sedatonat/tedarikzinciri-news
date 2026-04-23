@@ -2,6 +2,7 @@
 title: COSCO and Standard Chartered Sign Agreement to Transform Container Industry
 subtitle: COSCO and Standard Chartered Sign Agreement to Transform Container Industry
 date: '2024-05-29T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/cosco-shipping-to-develop-container-industry-chain/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_cf65b263e0154af8b0ffaaede56e1abc~mv2.jpg
 imageAlt: COSCO and Standard Chartered Sign Agreement to Transform Container Industry

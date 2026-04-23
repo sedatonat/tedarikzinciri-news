@@ -2,6 +2,7 @@
 title: Right-Sized Packaging Delivers Three Environmental Benefits
 subtitle: Right-Sized Packaging Delivers Three Environmental Benefits
 date: '2025-05-05T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41670-three-ways-that-right-sizing-packaging-benefits-the-environment
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_24e4ad0b337f4c39b46174071667fe0b~mv2.png
 imageAlt: Right-Sized Packaging Delivers Three Environmental Benefits

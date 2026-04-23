@@ -2,6 +2,7 @@
 title: Deniz Ürünleri Tedarik Zincirinde İzlenebilirlik ve Veri Yönetimi İş Birliği
 subtitle: Deniz Ürünleri Tedarik Zincirinde İzlenebilirlik ve Veri Yönetimi İş Birliği
 date: '2024-04-25T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10177-seafood-supply-chain-gains-improved-track-and-trace-network
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_81743ad4c12747d78385adef0b1e9531~mv2.png
 imageAlt: Deniz Ürünleri Tedarik Zincirinde İzlenebilirlik ve Veri Yönetimi İş Birliği

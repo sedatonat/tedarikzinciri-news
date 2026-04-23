@@ -2,6 +2,7 @@
 title: The U.S. Military Plans for the Panama Canal
 subtitle: The U.S. Military Plans for the Panama Canal
 date: '2025-03-13T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41359-us-develops-military-plans-for-panama-canal
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e7f462a965904a9b86389cf8c2400f4e~mv2.jpg
 imageAlt: The U.S. Military Plans for the Panama Canal

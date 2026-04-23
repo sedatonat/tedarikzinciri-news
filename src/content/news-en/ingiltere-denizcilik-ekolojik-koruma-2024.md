@@ -2,6 +2,7 @@
 title: UK Implements New Regulations for Marine Environmental Protection in Shipping
 subtitle: UK Implements New Regulations for Marine Environmental Protection in Shipping
 date: '2024-05-10T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/uk-government-implements-anti-fouling-shipping-regulation/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_cec9df16eafe45c6a7bf88a7586340ec~mv2.jpg
 imageAlt: UK Implements New Regulations for Marine Environmental Protection in Shipping

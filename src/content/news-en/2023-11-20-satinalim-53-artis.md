@@ -2,6 +2,7 @@
 title: 53% Rise in Procurement Spending Expected in 2024
 subtitle: 53% Rise in Procurement Spending Expected in 2024
 date: '2023-11-20T20:15:00Z'
+sourceUrl: https://www.supplychainquarterly.com/articles/9131-53-of-procurement-leaders-expect-to-increase-their-spending-in-2024
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_368c1f702e274dee969f3a3e04f804dc~mv2.png
 imageAlt: ''

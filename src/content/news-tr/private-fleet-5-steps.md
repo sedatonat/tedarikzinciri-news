@@ -2,6 +2,7 @@
 title: Özel Filolar İçin Beş Kolay Sürdürülebilirlik Girişimi
 subtitle: Özel Filolar İçin Beş Kolay Sürdürülebilirlik Girişimi
 date: '2025-03-25T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41497-five-easy-to-implement-sustainability-initiatives-for-private-fleets
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_df2c93e45ff54b5c9aec19da3ac8b910~mv2.png
 imageAlt: Özel Filolar İçin Beş Kolay Sürdürülebilirlik Girişimi

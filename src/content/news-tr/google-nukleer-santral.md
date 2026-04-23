@@ -2,6 +2,7 @@
 title: Google Tennessee’de İleri Nükleer Santral Planlarını Açıkladı
 subtitle: Google Tennessee’de İleri Nükleer Santral Planlarını Açıkladı
 date: '2025-08-16T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42351-google-unveils-plans-for-advanced-nuclear-plant-in-tennessee
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_516ea73140e6435992df6030dd327c22~mv2.png
 imageAlt: Google Tennessee’de İleri Nükleer Santral Planlarını Açıkladı

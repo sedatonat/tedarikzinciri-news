@@ -2,6 +2,7 @@
 title: CMA CGM, INDAMEX Servisinde Süveyş Kanalı Üzerinden Tam Döngü Geçişlere Dönüyor
 subtitle: CMA CGM, INDAMEX Servisinde Süveyş Kanalı Üzerinden Tam Döngü Geçişlere Dönüyor
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385495/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_130ffae4c75b42e2a7c7b0f96ac1ee72~mv2.jpg
 imageAlt: CMA CGM’in INDAMEX hattında hem fronthaul hem backhaul için Süveyş'e tam dönüş kararı, transit süresi etkileri, kapasite azaltımı, piyasa fiyatlaması ve Red Sea risk ortamındaki sektörel yansımaların detaylı özeti

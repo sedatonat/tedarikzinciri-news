@@ -2,6 +2,7 @@
 title: 'No One Is Ready: AI''s Rapid Rise Is Outpacing Our Infrastructure'
 subtitle: 'No One Is Ready: AI''s Rapid Rise Is Outpacing Our Infrastructure'
 date: '2025-07-16T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42112-nobodys-ready-ais-rapid-rise-is-outpacing-our-infrastructure
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_1850977eda8043a7a8b5ba2ad8650688~mv2.png
 imageAlt: 'No One Is Ready: AI''s Rapid Rise Is Outpacing Our Infrastructure'

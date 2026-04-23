@@ -2,6 +2,7 @@
 title: 'Gartner: CSCO’lar İş Dünyasında Çok Daha Etkili Olacak'
 subtitle: 'Gartner: CSCO’lar İş Dünyasında Çok Daha Etkili Olacak'
 date: '2025-05-06T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41720-cscos-will-become-far-more-significant-in-business-says-gartner
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_354e7380b772468aa099b3d457341f0d~mv2.jpg
 imageAlt: 'Gartner: Csco’lar İş Dünyasında Çok Daha Etkili Olacak'

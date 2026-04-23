@@ -2,6 +2,7 @@
 title: Panama Kanalı Daha Esnek Rezervasyon Sistemi Sunuyor
 subtitle: Panama Kanalı Daha Esnek Rezervasyon Sistemi Sunuyor
 date: '2025-10-02T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42604-panama-canal-offers-shippers-more-flexible-booking-system
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_625558dda8e8434da419e92647522acc~mv2.png
 imageAlt: Panama Kanalı Daha Esnek Rezervasyon Sistemi Sunuyor

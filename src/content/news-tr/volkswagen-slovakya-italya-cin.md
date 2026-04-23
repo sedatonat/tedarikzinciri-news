@@ -2,6 +2,7 @@
 title: Volkswagen, Slovakya–İtalya–Çin Arasında Yeni Intermodal Taşımacılık Hattı Başlattı
 subtitle: Volkswagen, Slovakya–İtalya–Çin Arasında Yeni Intermodal Taşımacılık Hattı Başlattı
 date: '2025-10-31T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/10/31/volkswagen-launches-slovakia-italy-china-intermodal-service/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2e682321fba041409c807b62d8f7cfe0~mv2.jpg
 imageAlt: Volkswagen, Bratislava’daki üretim tesisinden İtalya’nın Venedik Limanı’na (Marghera) uzanan demiryolu bağlantısı üzerinden Çin’e otomobil sevkiyatı başlattı. Yeni intermodal hat, demiryolu ve denizyolu taşımacılığını entegre ederek sürdürülebilir ve hızlı lojistik çözümler sunuyor.

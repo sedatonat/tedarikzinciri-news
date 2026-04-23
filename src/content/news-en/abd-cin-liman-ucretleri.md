@@ -2,6 +2,7 @@
 title: US and China Suspend Reciprocal Port Fees Under Trade Agreement for One Year
 subtitle: US and China Suspend Reciprocal Port Fees Under Trade Agreement for One Year
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://www.joc.com/article/us-china-suspend-reciprocal-port-fees-as-part-of-wider-trade-deal-6105849
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_0fd3a3038fcd48f1a49a8381dea4e48e~mv2.jpg
 imageAlt: US President Donald Trump and Chinese State President Xi Jinping, during their meeting at the APEC Summit in South Korea, agreed to suspend reciprocal port fees and a portion of commercial sanctions between the two countries for one year.

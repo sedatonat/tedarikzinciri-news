@@ -2,6 +2,7 @@
 title: UPS Cuts 34,000 Positions and Closes 93 Facilities in 2025 Amid Amazon Volume Decline
 subtitle: UPS Cuts 34,000 Positions and Closes 93 Facilities in 2025 Amid Amazon Volume Decline
 date: '2025-10-28T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/ups-layoffs-driver-buyouts-q3-2025/803945/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0a61d7ca68d64f5ba7cdf7a25f279fd4~mv2.jpg
 imageAlt: In the first nine months of 2025, UPS shed 34,000 employees and closed 93 facilities. The company aims to reduce costs by up to 3.5 billion dollars as it contends with a 21 percent decline in package volume from Amazon and restructures its U.S. operations network.

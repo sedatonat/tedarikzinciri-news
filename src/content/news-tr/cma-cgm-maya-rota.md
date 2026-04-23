@@ -2,6 +2,7 @@
 title: CMA CGM, Orta Amerika Batı Kıyısı İçin Yeni “Maya” Servisini Başlattı
 subtitle: CMA CGM, Orta Amerika Batı Kıyısı İçin Yeni “Maya” Servisini Başlattı
 date: '2024-11-29T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/cma-cgm-unveils-west-coast-central-america-route/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_964ed5bda6674872969e07e7b8a3397e~mv2.jpg
 imageAlt: CMA CGM, Lazaro Cardenas’tan başlayarak Orta Amerika’nın batı kıyısındaki Puerto Caldera, Corinto, Acajutla ve Puerto Quetzal’e uzanan yeni haftalık Maya servisini duyurdu.

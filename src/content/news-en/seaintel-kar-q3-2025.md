@@ -2,6 +2,7 @@
 title: Container Carriers Reported 5.12 Billion Dollars Profit in Q3 2025
 subtitle: Container Carriers Reported 5.12 Billion Dollars Profit in Q3 2025
 date: '2025-11-28T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385120/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_649bb2b6c30b4eb4ac0b73e82d5e2390~mv2.jpg
 imageAlt: According to Sea-Intelligence data, the decline in total operating profit of global container lines in the third quarter of 2025, together with carriers' volume increases, Red Sea bypass networks, and EBIT/TEU results, with detailed analysis

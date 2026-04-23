@@ -2,6 +2,7 @@
 title: ABB 2026’da Robotik Birimini Halka Arz İçin Ayırıyor
 subtitle: ABB 2026’da Robotik Birimini Halka Arz İçin Ayırıyor
 date: '2025-04-20T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41579-abb-to-spin-off-robotics-unit-for-2026-stock-market-listing
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_e5b381ed8a1d480193f4ffbee494d6c3~mv2.png
 imageAlt: Abb 2026’da Robotik Birimini Halka Arz İçin Ayırıyor

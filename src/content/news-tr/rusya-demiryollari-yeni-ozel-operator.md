@@ -2,6 +2,7 @@
 title: Rusya Yeni Bir Özel Demiryolu Yük Taşımacılığı Operatörü Edinecek mi?
 subtitle: Rusya Yeni Bir Özel Demiryolu Yük Taşımacılığı Operatörü Edinecek Mi?
 date: '2025-03-03T09:00:00Z'
+sourceUrl: https://www.railfreight.com/business/2025/03/03/will-russia-get-a-new-private-rail-freight-operator/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_9c96b73c2a014323b5d4229328d78594~mv2.jpg
 imageAlt: Rusya Yeni Bir Özel Demiryolu Yük Taşımacılığı Operatörü Edinecek Mi?

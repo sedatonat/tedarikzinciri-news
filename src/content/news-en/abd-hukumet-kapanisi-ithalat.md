@@ -2,6 +2,7 @@
 title: 'U.S. Government Shutdown Complicates Import Decisions: Los Angeles Port Warns'
 subtitle: 'U.S. Government Shutdown Complicates Import Decisions: Los Angeles Port Warns'
 date: '2025-11-24T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/port-los-angeles-us-importers-purchase-orders-lunar-new-year/806094/
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_bd49e0f7d76740bda56b19f73cc0f79e~mv2.jpg
 imageAlt: Amid the halt of federal data flows in the U.S., uncertainty in importers' purchasing and investment decisions has impacted the Port of Los Angeles' expectations and cargo movement ahead of Lunar New Year, a comprehensive news summary.

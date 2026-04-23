@@ -2,6 +2,7 @@
 title: Chinese Air Cargo Demand and Prices Surge Ahead of New U.S. Tariffs
 subtitle: Chinese Air Cargo Demand and Prices Surge Ahead of New U.S. Tariffs
 date: '2025-10-20T09:00:00Z'
+sourceUrl: https://www.joc.com/article/china-air-freight-demand-rates-surge-on-new-100-us-tariff-6099961
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a42a43e40d034145bc732c828e6d4fe0~mv2.jpeg
 imageAlt: Chinese Air Cargo Demand and Prices Surge Ahead of New U.S. Tariffs

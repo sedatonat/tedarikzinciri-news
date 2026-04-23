@@ -2,6 +2,7 @@
 title: 'Uçtan Uca 3pl: Dayanıklı Tedarik Zincirinin Rolü'
 subtitle: 'Uçtan Uca 3pl: Dayanıklı Tedarik Zincirinin Rolü'
 date: '2025-05-01T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41641-building-a-resilient-supply-chain-the-role-of-an-end-to-end-3pl-in-logistics
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5e5ff212a8dc44b4b46833c531986ba6~mv2.png
 imageAlt: 'Uçtan Uca 3pl: Dayanıklı Tedarik Zincirinin Rolü'

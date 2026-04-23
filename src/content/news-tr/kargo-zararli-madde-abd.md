@@ -2,6 +2,7 @@
 title: "ABD’de Proje Kargosunda Zararlı Tespiti Yaptırımları Artıyor: İthalatçılar İçin Maliyet Baskısı Yükseliyor"
 subtitle: 'ABD’de Proje Kargosunda Zararlı Tespiti Yaptırımları Artıyor: İthalatçılar İçin Maliyet Baskısı Yükselmekte'
 date: '2025-11-10T09:00:00Z'
+sourceUrl: https://www.joc.com/article/penalties-for-pests-found-in-project-cargo-packing-add-to-shipper-woes-6112200
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3e43cd8bcd61499ab73ccc28c13b65be~mv2.jpg
 imageAlt: ABD CBP’nin ahşap ambalaj malzemelerinde (WPM) zararlı tespiti nedeniyle uyguladığı yüksek para cezaları ve yeniden ihraç riskleri, proje kargo ithalatçılarının maliyetlerini ciddi biçimde artırmakta; inceleme uygulamaları 2025’te daha sıkı hâle geldi.

@@ -2,6 +2,7 @@
 title: Shippers Conditions Index (SCI) Ağustos 2023'ten Bu Yana İkinci Kez Negatifte
 subtitle: Shippers Conditions Index (SCI) Ağustos 2023'ten Bu Yana İkinci Kez Negatifte
 date: '2025-03-07T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/ftrs_shippers_conditions_index_turns_negative_for_second_time_since_august_2023
 category: Lojistik
 image: https://static.wixstatic.com/media/11062b_4e6fd7f022c4422a85d4de58cb28ffec~mv2.jpg
 imageAlt: Shippers Conditions Index (SCI) Ağustos 2023'ten Bu Yana İkinci Kez Negatifte

@@ -2,6 +2,7 @@
 title: ABD LNG İhracatında Yeni Lisans Moratoryumunu Kaldırdı
 subtitle: ABD LNG İhracatında Yeni Lisans Moratoryumunu Kaldırdı
 date: '2025-01-21T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/372567/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/fb82545edb1641db909d551d5f65382b.jpg
 imageAlt: ABD LNG İhracatında Yeni Lisans Moratoryumunu Kaldırdı

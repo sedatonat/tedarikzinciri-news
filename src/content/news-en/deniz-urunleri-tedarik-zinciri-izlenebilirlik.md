@@ -2,6 +2,7 @@
 title: Traceability and Data Management Collaboration in Seafood Supply Chain
 subtitle: Traceability and Data Management Collaboration in Seafood Supply Chain
 date: '2024-04-25T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10177-seafood-supply-chain-gains-improved-track-and-trace-network
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_81743ad4c12747d78385adef0b1e9531~mv2.png
 imageAlt: Traceability and Data Management Collaboration in Seafood Supply Chain

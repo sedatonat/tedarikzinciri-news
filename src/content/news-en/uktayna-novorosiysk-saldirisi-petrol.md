@@ -2,6 +2,7 @@
 title: Ukrainian Strike Temporarily Disrupts 2% of Global Oil Supply at Novorossiysk
 subtitle: Ukrainian Strike Temporarily Disrupts 2% of Global Oil Supply at Novorossiysk
 date: '2025-11-14T09:00:00Z'
+sourceUrl: https://gcaptain.com/ukraine-hits-novorossiysk-knocking-out-2-of-global-oil-supply/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_85b310f7c629494fa8b81ce00df8ab94~mv2.jpg
 imageAlt: Ukraine's missile and drone attack on Novorossiysk halts oil loading operations at Russia's Black Sea port; approximately 2% of global supply temporarily disrupted with two major oil piers sustaining damage.

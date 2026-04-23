@@ -2,6 +2,7 @@
 title: ABD Donanması Mühimmat Yönetiminde Teknoloji Devrimi
 subtitle: ABD Donanması Mühimmat Yönetiminde Teknoloji Devrimi
 date: '2024-11-04T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40611-a-us-air-force-base-automates-and-streamlines-asset-tracking
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_37af30b0e83f4171be14ca5147489b61~mv2.jpg
 imageAlt: ABD Donanması Mühimmat Yönetiminde Teknoloji Devrimi

@@ -2,6 +2,7 @@
 title: SGP, Dammam Lojistik Bölgesi ve Terminal 2 Genişlemesini Başlattı
 subtitle: SGP, Dammam Lojistik Bölgesi ve Terminal 2 Genişlemesini Başlattı
 date: '2025-11-25T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384961/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_34ee825863134600b2b39016927315ae~mv2.jpg
 imageAlt: Saudi Global Ports’un Dammam Integrated Logistics Zone için temel atması ve Terminal 2 kapasite artırımıyla KAP Dammam’da oluşturduğu yeni entegre lojistik ekosistemine ilişkin kapsamlı haber özeti

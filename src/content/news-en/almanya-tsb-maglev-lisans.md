@@ -2,6 +2,7 @@
 title: 'Germany Issues First Operating License for TSB Magnetic Levitation Train: "Transrapid Trauma" Officially Overcome'
 subtitle: 'Germany Issues First Operating License for TSB Magnetic Levitation Train: "Transrapid Trauma" Officially Overcome'
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://www.railfreight.com/technology/2025/12/08/germany-issues-first-magnetic-levitation-train-license-in-europe/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_0192fe0c668342b4abcbd391ea3303b4~mv2.jpg
 imageAlt: The Federal Railway Authority (EBA) grants Transport System Bögl (TSB) maglev line an operating license for passenger transport, marking Europe's first commercial maglev approval since Transrapid, with detailed overview of technical specifications and potential Nuremberg pilot line

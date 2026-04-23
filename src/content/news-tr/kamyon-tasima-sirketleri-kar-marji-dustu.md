@@ -2,6 +2,7 @@
 title: Kamyon Taşıma Şirketlerinin Kar Marjları 14 Yılın En Düşük Seviyesinde
 subtitle: Kamyon Taşıma Şirketlerinin Kar Marjları 14 Yılın En Düşük Seviyesinde
 date: '2024-05-16T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10269-truckload-carrier-profits-sank-to-14-year-low-in-first-quarter
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_ca2f463d3a744cacabb71dacb3fc2bae~mv2.png
 imageAlt: Kamyon Taşıma Şirketlerinin Kar Marjları 14 Yılın En Düşük Seviyesinde

@@ -2,6 +2,7 @@
 title: Bulgaristan ve Kuzey Makedonya, İlk Demiryolu Sınır Geçişi İçin Resmî Anlaşma İmzaladı
 subtitle: Bulgaristan ve Kuzey Makedonya, İlk Demiryolu Sınır Geçişi İçin Resmî Anlaşma İmzaladı
 date: '2025-11-10T09:00:00Z'
+sourceUrl: https://www.railfreight.com/infrastructure/2025/11/10/bulgaria-and-north-macedonia-sign-official-agreement-for-first-railway-border-crossing/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_95da2acf22474e87b56cfc30885ab24d~mv2.jpeg
 imageAlt: Bulgaristan ve Kuzey Makedonya, Deve Bair Dağı’nın altından geçecek bir demiryolu tüneli inşa ederek iki ülke arasında tarihte ilk kez demiryolu sınır geçişi oluşturacak olan anlaşmayı imzaladı; proje, Koridor VIII’in tamamlanmasında kritik bir adım.

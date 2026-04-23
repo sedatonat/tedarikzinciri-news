@@ -2,6 +2,7 @@
 title: Turkish Cargo Board Chair Turhan Özen Removed from Position
 subtitle: Turkish Cargo Board Chair Turhan Özen Removed from Position
 date: '2023-11-27T07:00:00Z'
+sourceUrl: https://www.lojiport.com/thy-kargoda-deprem-turhan-ozen-gorevinden-alindi-115861h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f80d630763c14f63a4813ee92bf0c3af~mv2.jpg
 imageAlt: Turkish Cargo Board Chair Turhan Özen Removed from Position

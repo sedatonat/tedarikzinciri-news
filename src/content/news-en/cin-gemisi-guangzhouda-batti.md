@@ -2,6 +2,7 @@
 title: 'Chinese-Flagged Ship Sinks Off Guangzhou: Two Crew Members Missing'
 subtitle: 'Chinese-Flagged Ship Sinks Off Guangzhou: Two Crew Members Missing'
 date: '2025-10-26T09:00:00Z'
+sourceUrl: https://gcaptain.com/chinese-ship-sinks-off-guangzhou-waters-with-two-crew-missing/
 category: Lojistik
 image: https://static.wixstatic.com/media/cb034225cc5a43e0ba8ed240fa7af950.jpg
 imageAlt: 'Chinese-Flagged Ship Sinks Off Guangzhou: Two Crew Members Missing'

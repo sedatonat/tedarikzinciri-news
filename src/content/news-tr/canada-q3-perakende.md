@@ -2,6 +2,7 @@
 title: ABD Tarifeleri Sürerken Kanada’da Perakende Satışlar Üçüncü Çeyrekte Yavaşladı
 subtitle: ABD Tarifeleri Sürerken Kanada’da Perakende Satışlar Üçüncü Çeyrekte Yavaşladı
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42887-canada-retail-sales-slow-in-third-quarter-as-tariffs-persist
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_68e36d43cf534371b9c48cb343d45257~mv2.jpg
 imageAlt: Kanada’da perakende satışlar, ABD ile devam eden ticaret savaşı, yavaşlayan nüfus artışı ve tüketici temkinliliği nedeniyle 2025’in üçüncü çeyreğinde belirgin şekilde yavaşladı. Özellikle otomotiv satışları, ABD tarifelerinin etkisiyle sert düşüş gösterdi.

@@ -2,6 +2,7 @@
 title: 'Küresel Deniz Taşımacılığında Jeopolitik Gerilimler ve Tarife Savaşları: Navlun Piyasasında Kan Banyosu'
 subtitle: 'Küresel Deniz Taşımacılığında Jeopolitik Gerilimler ve Tarife Savaşları: Navlun Piyasasında Kan Banyosu'
 date: '2025-03-14T09:00:00Z'
+sourceUrl: https://container-news.com/geopolitics-tariffs-and-war-result-in-rates-bloodbath/
 category: Lojistik
 image: https://static.wixstatic.com/media/11062b_3ee1d028888042cd859a8683909714a2~mv2_d_4380_2920_s_4_2.jpg
 imageAlt: 'Küresel Deniz Taşımacılığında Jeopolitik Gerilimler ve Tarife Savaşları: Navlun Piyasasında Kan Banyosu'

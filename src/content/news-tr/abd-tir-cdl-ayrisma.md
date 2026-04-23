@@ -2,6 +2,7 @@
 title: ABD Kamyonculuk Sektöründe Göçmen CDL Denetimleri Ayrışma Yaratıyor
 subtitle: ABD Kamyonculuk Sektöründe Göçmen CDL Denetimleri Ayrışma Yaratıyor
 date: '2025-12-15T09:00:00Z'
+sourceUrl: https://www.joc.com/article/impact-of-non-domiciled-cdl-enforcement-splits-us-trucking-sector-6135184
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5a6ce4a40dff4a33b539cbef4b957302~mv2.jpg
 imageAlt: ABD’de non-domiciled CDL uygulamalarına yönelik denetimlerin ve önerilen düzenlemelerin kamyoncu arzı, navlun fiyatları ve kapasite dengesi üzerindeki etkilerini ele alan detaylı sektör özeti

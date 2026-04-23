@@ -2,6 +2,7 @@
 title: 'Depo Otomasyonunda Gerçek Getiri: Maliyet Tasarrufunun Ötesi'
 subtitle: 'Depo Otomasyonunda Gerçek Getiri: Maliyet Tasarrufunun Ötesi'
 date: '2025-09-10T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/42402-beyond-cost-savings-the-true-roi-of-warehouse-automation
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_d3c7a45490fc46d8baa020c5ab70b9b5~mv2.png
 imageAlt: 'Depo Otomasyonunda Gerçek Getiri: Maliyet Tasarrufunun Ötesi'

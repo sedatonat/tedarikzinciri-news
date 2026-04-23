@@ -2,6 +2,7 @@
 title: Finlandiya’da ‘Neptune Dynamic’ Alarmı
 subtitle: Finlandiya’da ‘Neptune Dynamic’ Alarmı
 date: '2024-12-26T09:00:00Z'
+sourceUrl: https://splash247.com/finland-detains-russia-linked-tanker-after-latest-baltic-sea-cables-incident/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a11dafc9a27d4ce8ae6a0de18da3f6dc~mv2.jpg
 imageAlt: Finlandiya’da ‘Neptune Dynamic’ Alarmı

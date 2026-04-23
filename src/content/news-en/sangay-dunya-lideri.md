@@ -2,6 +2,7 @@
 title: Shanghai Reinforces Global Leadership as It Surpasses 40 Million TEU
 subtitle: Shanghai Reinforces Global Leadership as It Surpasses 40 Million TEU
 date: '2025-11-07T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/shanghai-undefeated-asurpasses-40-million-teus/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_90aee42c415a46608be38f2b5df84a9b~mv2.jpg
 imageAlt: China's Shanghai Port handled 4.83 million TEU in September, reaching a total of 41.5 million TEU in 2025; Ningbo-Zhoushan and other major Chinese ports also recorded robust double-digit growth.

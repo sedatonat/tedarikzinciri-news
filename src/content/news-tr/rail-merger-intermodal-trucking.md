@@ -2,6 +2,7 @@
 title: Union Pacific–Norfolk Southern Birleşmesi Kamyonculukta Dengeleri Değiştirebilir
 subtitle: Union Pacific–Norfolk Southern Birleşmesi Kamyonculukta Dengeleri Değiştirebilir
 date: '2025-12-09T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/union-pacific-norfolk-southern-merger-impact-otr-long-haul/807171/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4f1486fc53a7498aad6c00c5a38363e8~mv2.jpg
 imageAlt: Union Pacific ile Norfolk Southern arasındaki dev demiryolu birleşmesinin intermodal taşımacılık ve kamyonculuk sektörü üzerindeki olası etkileri, uzun mesafe OTR taşımaya baskı, drayage ve son kilometre fırsatları ile sektör görüşlerinin detaylı özeti

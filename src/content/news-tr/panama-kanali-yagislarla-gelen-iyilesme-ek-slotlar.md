@@ -2,6 +2,7 @@
 title: 'Panama Kanalı''nda Yağışlarla Gelen İyileşme: Ek Geçiş Slotları Eklendi'
 subtitle: 'Panama Kanalı''nda Yağışlarla Gelen İyileşme: Ek Geçiş Slotları Eklendi'
 date: '2024-03-12T09:00:00Z'
+sourceUrl: https://splash247.com/panama-canal-authority-adds-three-more-daily-transit-slots/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_59dbb66aa8194f00be105736153ab39d~mv2.jpg
 imageAlt: 'Panama Kanalı''nda Yağışlarla Gelen İyileşme: Ek Geçiş Slotları Eklendi'

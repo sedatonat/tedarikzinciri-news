@@ -2,6 +2,7 @@
 title: 'Locus CEO’su: IKEA Satın Alımı ve Agentic AI, Teslimatın Geleceğini Nasıl Değiştiriyor?'
 subtitle: 'Locus CEO’su: IKEA Satın Alımı ve Agentic AI, Teslimatın Geleceğini Nasıl Değiştiriyor?'
 date: '2025-11-11T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/ikea-locus-ai-last-mile-delivery
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_3270cf5633e445c6bded87435302c470~mv2.jpg
 imageAlt: Locus CEO Nishith Rastogi, IKEA’nın ana şirketi Ingka Group tarafından satın alınmasının ardından küresel lojistik OS vizyonunu, agentic AI’nin teslimat ağlarını nasıl dönüştürdüğünü, tandem teslimatlar ve rota optimizasyonu gibi yenilikleri ve AI’nın gelecekte oluşturacağı “dinamik tedarik zincirleri”ni anlatıyor.

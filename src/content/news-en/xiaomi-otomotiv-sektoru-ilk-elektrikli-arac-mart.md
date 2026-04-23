@@ -2,6 +2,7 @@
 title: 'Xiaomi Takes Major Step Into Automotive Sector: First Electric Vehicle to Hit Roads in March'
 subtitle: 'Xiaomi Takes Major Step Into Automotive Sector: First Electric Vehicle to Hit Roads in March'
 date: '2024-03-12T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/39254-chinas-xiaomi-to-start-electric-car-sales
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_a96f84eb2d504b30a4a4317922e8b587~mv2.jpg
 imageAlt: 'Xiaomi Takes Major Step Into Automotive Sector: First Electric Vehicle to Hit Roads in March'

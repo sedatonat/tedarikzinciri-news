@@ -2,6 +2,7 @@
 title: Asyaport Sets Turkey Record with February 2024 Breakthrough
 subtitle: Asyaport Sets Turkey Record with February 2024 Breakthrough
 date: '2024-03-24T09:00:00Z'
+sourceUrl: https://www.lojiport.com/asyaport-aylik-elleclemede-turkiye-rekorunu-kirdi-116354h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7bdd730b18bb4521b01f2c71490cbc32~mv2.jpg
 imageAlt: Asyaport Sets Turkey Record with February 2024 Breakthrough

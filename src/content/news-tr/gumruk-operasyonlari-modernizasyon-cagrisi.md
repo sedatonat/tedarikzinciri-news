@@ -2,6 +2,7 @@
 title: Gümrük Operasyonlarının Modernizasyonu İçin AB ve Endüstri Çağrısı
 subtitle: Gümrük Operasyonlarının Modernizasyonu İçin AB ve Endüstri Çağrısı
 date: '2025-01-24T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/372702/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_803f213a8be24c31b0d57adab823a1cc~mv2.jpg
 imageAlt: Gümrük Operasyonlarının Modernizasyonu İçin AB ve Endüstri Çağrısı

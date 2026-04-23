@@ -2,6 +2,7 @@
 title: 'Tedarik Zinciri Yönetiminde GenAI''nin Yükselişi: Fırsatlar ve Engeller'
 subtitle: 'Tedarik Zinciri Yönetiminde GenAI''nin Yükselişi: Fırsatlar ve Engeller'
 date: '2024-02-21T09:00:00Z'
+sourceUrl: https://procurementmag.com/articles/ey-overcoming-hurdles-to-introduce-genai-into-supply-chains
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/11062b_dd7eac35853745cfbe041ab3acb2e3b7~mv2.jpg
 imageAlt: 'Tedarik Zinciri Yönetiminde GenAI''nin Yükselişi: Fırsatlar ve Engeller'

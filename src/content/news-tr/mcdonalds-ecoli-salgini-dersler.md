@@ -2,6 +2,7 @@
 title: 'McDonald’s’in E. coli Salgını: Restoranlar ve Tedarikçiler İçin Öğrenilecek Dersler'
 subtitle: 'McDonald’s’in E. coli Salgını: Restoranlar ve Tedarikçiler İçin Öğrenilecek Dersler'
 date: '2024-11-18T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/mcdonalds-ecoli-response-teaches-suppliers-restaurants/732699/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_5e7f1b9eb9554ac3bd2ec2b58aba6972~mv2.jpg
 imageAlt: 'McDonald’s’in E. coli Salgını: Restoranlar ve Tedarikçiler İçin Öğrenilecek Dersler'

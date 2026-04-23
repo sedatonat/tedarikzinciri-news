@@ -2,6 +2,7 @@
 title: ISWAN Calls for Sustainable Employment in Maritime Sector
 subtitle: ISWAN Calls for Sustainable Employment in Maritime Sector
 date: '2024-05-13T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/iswan-addresses-maritime-recruiting-crisis/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_410c34e78e7a4a4eae1928b52a06e319~mv2.jpg
 imageAlt: ISWAN Calls for Sustainable Employment in Maritime Sector

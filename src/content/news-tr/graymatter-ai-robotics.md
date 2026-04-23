@@ -2,6 +2,7 @@
 title: GrayMatter Robotics, Kaliforniya’da 100.000 Metrekarelik Yapay Zeka Robotik İnovasyon Merkezi Açtı
 subtitle: GrayMatter Robotics, Kaliforniya’da 100.000 Metrekarelik Yapay Zeka Robotik İnovasyon Merkezi Açtı
 date: '2025-10-24T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/graymatter_robotics_unveils_100000_square_foot_ai_robotics_innovation_center_in_california
 category: Teknoloji
 image: https://static.wixstatic.com/media/f808ef49161b483baeb323114519dde8.jpg
 imageAlt: GrayMatter Robotics, Kaliforniya’da 100.000 Metrekarelik Yapay Zeka Robotik İnovasyon Merkezi Açtı

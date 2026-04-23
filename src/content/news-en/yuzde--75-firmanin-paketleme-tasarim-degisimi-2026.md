@@ -2,6 +2,7 @@
 title: 75% of Companies Will Redesign Packaging for Functionality by 2026
 subtitle: 75% of Companies Will Redesign Packaging for Functionality by 2026
 date: '2024-11-19T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/RRD-2024-packaging-labels-insight-report-sustainability-safety
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_d7ed6922967a4fc0884054b644cdb0a7~mv2.jpg
 imageAlt: 75% of Companies Will Redesign Packaging for Functionality by 2026

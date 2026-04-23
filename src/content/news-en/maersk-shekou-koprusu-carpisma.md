@@ -2,6 +2,7 @@
 title: Maersk Shekou Collision Reveals Chain of Bridge Communication Failures
 subtitle: Maersk Shekou Collision Reveals Chain of Bridge Communication Failures
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://gcaptain.com/bridge-team-breakdown-how-communication-failures-led-to-containerships-collision-with-tall-ship/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b57fbb23132c4e2b914bc44228cf92c9~mv2.jpg
 imageAlt: Detailed analysis of communication breakdowns, pilot errors, distraction, and procedural violations that led to Maersk Shekou's collision with the Leeuwin II at Fremantle Port.

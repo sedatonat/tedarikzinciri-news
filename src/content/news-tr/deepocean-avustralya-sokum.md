@@ -2,6 +2,7 @@
 title: DeepOcean, Batı Avustralya’daki Deniz Altı Altyapısının Sökümü İçin Yeni Proje Kazandı
 subtitle: DeepOcean, Batı Avustralya’daki Deniz Altı Altyapısının Sökümü İçin Yeni Proje Kazandı
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://splash247.com/deepocean-wins-western-australia-decommissioning-job/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8f654f89398b4ae3b0c029d29fdb735e~mv2.jpg
 imageAlt: DeepOcean, Batı Avustralya açıklarındaki petrol ve gaz sahalarında bulunan deniz altı altyapısının devreden çıkarılması (decommissioning) için yeni bir sözleşme kazandı. Proje, Shelf Subsea’nin bölgesel uzmanlığı ve DeepOcean’ın küresel tecrübesini birleştirecek.

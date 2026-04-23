@@ -2,6 +2,7 @@
 title: Depolama Kapasitesi, Yükleme Stratejilerine Rağmen Dayanıklılığını Koruyor
 subtitle: Depolama Kapasitesi, Yükleme Stratejilerine Rağmen Dayanıklılığını Koruyor
 date: '2025-02-27T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/frontloading-cargo-impact-warehouse-space-tariff-concerns/740818/
 category: Envanter
 image: https://static.wixstatic.com/media/11062b_939204ae9b614238a9e6d17a9368b38f~mv2.jpeg
 imageAlt: Depolama Kapasitesi, Yükleme Stratejilerine Rağmen Dayanıklılığını Koruyor

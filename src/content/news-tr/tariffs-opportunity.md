@@ -2,6 +2,7 @@
 title: Orta Ölçekli Şirketler İçin Tarifeleri Fırsata Dönüştürme Yolu
 subtitle: Orta Ölçekli Şirketler İçin Tarifeleri Fırsata Dönüştürme Yolu
 date: '2025-08-21T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/42322-how-middle-market-companies-can-turn-tariffs-into-opportunity-to-build-resilient-supply-chains
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_cf9cadf760b84996985cb1ccac577e73~mv2.png
 imageAlt: Orta Ölçekli Şirketler İçin Tarifeleri Fırsata Dönüştürme Yolu

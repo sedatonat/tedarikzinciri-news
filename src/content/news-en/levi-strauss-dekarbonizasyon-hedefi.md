@@ -2,6 +2,7 @@
 title: Levi Strauss Targets Decarbonization of Supply Chain
 subtitle: Levi Strauss Targets Decarbonization of Supply Chain
 date: '2024-11-04T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/levis-strauss-unveils-first-climate-transition-plan/731217/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_905450d024d04e46a61409a54a21e97d~mv2.jpg
 imageAlt: Levi Strauss Targets Decarbonization of Supply Chain

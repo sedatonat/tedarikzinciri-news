@@ -2,6 +2,7 @@
 title: 'Global Manufacturing Surge in May: First Positive Movement in 14 Months'
 subtitle: 'Global Manufacturing Surge in May: First Positive Movement in 14 Months'
 date: '2024-06-13T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10416-gep-report-global-manufacturing-activity-jumped-in-may
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_df9aa7fbec8c420bbdc66aaafb4cd048~mv2.jpg
 imageAlt: 'Global Manufacturing Surge in May: First Positive Movement in 14 Months'

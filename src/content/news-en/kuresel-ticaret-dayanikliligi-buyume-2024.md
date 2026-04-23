@@ -2,6 +2,7 @@
 title: 'Global Trade''s Resilience: Growth Despite Geopolitical Headwinds'
 subtitle: 'Global Trade''s Resilience: Growth Despite Geopolitical Headwinds'
 date: '2024-03-18T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/9961-dhl-says-globalization-expands-despite-geopolitical-and-policy-headwinds
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_2e79aba1fe154383b1b21c08cf008fe5~mv2.jpeg
 imageAlt: 'Global Trade''s Resilience: Growth Despite Geopolitical Headwinds'

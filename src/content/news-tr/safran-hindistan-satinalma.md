@@ -2,6 +2,7 @@
 title: Safran, Hindistan’dan Tedariği 2030’a Kadar %400 Artırmayı Planlıyor
 subtitle: Safran, Hindistan’dan Tedariği 2030’a Kadar %400 Artırmayı Planlıyor
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42910-safran-plans-to-boost-procurement-from-india-400-by-2030
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_d2afe7f70bd646bb83096f87e5440c76~mv2.jpg
 imageAlt: Safran’ın Hindistan’dan tedarik hacmini 100 milyon avrodan 500 milyon avroya çıkarma hedefi, MRO yatırımları, Rafale motor projeleri, yerelleştirme stratejisi ve Hindistan’ın yükselen havacılık-ekosistemi bağlamında uluslararası tedarik zinciri dönüşümü.

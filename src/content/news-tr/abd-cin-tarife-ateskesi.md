@@ -2,6 +2,7 @@
 title: ABD ve Çin Ticaret Ateşkesi Kapsamında Tarifeleri Düşürme ve Soruşturmaları Askıya Alma Kararı Aldı
 subtitle: ABD ve Çin Ticaret Ateşkesi Kapsamında Tarifeleri Düşürme ve Soruşturmaları Askıya Alma Kararı Aldı
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/us-china-trade-truce-donald-trump-xi-jinping-apec/804233/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_fdade5592372422584566fa3b12f241e~mv2.jpg
 imageAlt: ABD Başkanı Donald Trump ve Çin Devlet Başkanı Xi Jinping, Güney Kore’nin Busan kentinde düzenlenen görüşmede ticaret savaşına ilişkin ateşkes anlaşmasına vardı. Anlaşma; tarifelerin düşürülmesi, karşılıklı soruşturmaların durdurulması ve nadir toprak ihracat kontrollerinin askıya alınmasını kapsıyor.

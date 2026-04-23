@@ -2,6 +2,7 @@
 title: China's Russian Railway Investments Not Limited to Moscow
 subtitle: China's Russian Railway Investments Not Limited to Moscow
 date: '2025-03-03T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/03/03/china-may-invest-in-russian-rail-not-only-in-moscow/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2baea6a9fc2a4f12863e3664cdccec14~mv2.jpeg
 imageAlt: China's Russian Railway Investments Not Limited to Moscow

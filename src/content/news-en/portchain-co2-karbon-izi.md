@@ -2,6 +2,7 @@
 title: Portchain Network Prevented 800,000 Tonnes of CO₂ Emissions in Shipping
 subtitle: Portchain Network Prevented 800,000 Tonnes of CO₂ Emissions in Shipping
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/portchain-network-helps-carriers-save-800000-tonnes-of-co2/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c519589e7a604410a0def0ce50d52ec1~mv2.jpg
 imageAlt: Portchain Network has delivered 800,000 tonnes of CO₂ savings in the maritime sector since 2022 through digital data sharing and Just-In-Time (JIT) port calls. The platform connects mainline carriers, feeder operators, and terminals to reduce fuel consumption and waiting times.

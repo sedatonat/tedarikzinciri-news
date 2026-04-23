@@ -2,6 +2,7 @@
 title: ABD Adalet Bakanlığı ve Grace Ocean ile Synergy Marine Arasında 103 Milyon Dolarlık Anlaşma
 subtitle: ABD Adalet Bakanlığı ve Grace Ocean ile Synergy Marine Arasında 103 Milyon Dolarlık Anlaşma
 date: '2024-10-25T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/us-obtains-100-million-settlement-for-baltimore-bridge-collapse/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_fcfe9fbcd21b4f928c435149ca677c93~mv2.jpg
 imageAlt: ABD Adalet Bakanlığı ve Grace Ocean ile Synergy Marine Arasında 103 Milyon Dolarlık Anlaşma

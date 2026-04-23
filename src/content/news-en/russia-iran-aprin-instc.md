@@ -2,6 +2,7 @@
 title: First Regular Train Service from Russia Reaches Iran's Aprin Dry Port
 subtitle: First Regular Train Service from Russia Reaches Iran's Aprin Dry Port
 date: '2025-11-12T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/11/12/first-russian-regular-train-reaches-iranian-aprin-dry-port/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_fbdd500ec95249fa8263ddc2a2b2a5a7~mv2.jpg
 imageAlt: The first regular train service from Russia to the Aprin Dry Port near Tehran, Iran, has been launched as part of the International North-South Transport Corridor (INSTC); transit time was achieved in under two weeks, marking a critical milestone in the corridor's development.

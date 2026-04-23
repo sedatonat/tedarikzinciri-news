@@ -2,6 +2,7 @@
 title: FESCO, İlk 40’ Flexitank Blok Trenini Çin’e Sevk Etti
 subtitle: FESCO, İlk 40’ Flexitank Blok Trenini Çin’e Sevk Etti
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/11/26/en-fesco-launches-first-40-flexitank-block-train-to-china/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c63538d41ddd48c2a7828223eb4cf7a9~mv2.jpg
 imageAlt: FESCO’nun Omsk’tan Çin’e gönderdiği ilk 40’ flexitank blok treni, 62 konteynerlik rapiska yağı yükü, Kazakistan transit rotası ve şirketin yeni flexitank modeli hakkında detaylı haber özeti

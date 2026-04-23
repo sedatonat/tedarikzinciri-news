@@ -2,6 +2,7 @@
 title: 'Tensions at the Panama Canal: Trump''s Threat and Cortizo''s Response'
 subtitle: 'Tensions at the Panama Canal: Trump''s Threat and Cortizo''s Response'
 date: '2024-12-23T09:00:00Z'
+sourceUrl: https://splash247.com/panama-president-hits-back-at-trump-over-canal-takeover-threat/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1c7850716fbd4b7aa453209300708acc~mv2.jpg
 imageAlt: 'Tensions at the Panama Canal: Trump''s Threat and Cortizo''s Response'

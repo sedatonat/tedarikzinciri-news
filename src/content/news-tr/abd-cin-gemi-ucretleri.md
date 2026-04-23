@@ -2,6 +2,7 @@
 title: ABD'nin Çin Yapımı Gemilere Uyguladığı Ücretler Tartışma Yaratıyor
 subtitle: ABD'nin Çin Yapımı Gemilere Uyguladığı Ücretler Tartışma Yaratıyor
 date: '2025-03-03T09:00:00Z'
+sourceUrl: https://shippingwatch.com/carriers/Container/article17958446.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_117d9ebd00484cf893c43e22befca0b2~mv2.jpg
 imageAlt: ABD'nin Çin Yapımı Gemilere Uyguladığı Ücretler Tartışma Yaratıyor

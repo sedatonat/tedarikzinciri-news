@@ -2,6 +2,7 @@
 title: 2025’te Daha Akıllı, Yapay Zekâ Destekli Çözüm Neden Gerekli
 subtitle: 2025’te Daha Akıllı, Yapay Zekâ Destekli Çözüm Neden Gerekli
 date: '2025-06-01T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41854-why-your-supply-chain-needs-a-smarter-ai-enabled-software-solution-in-2025
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_013daf547b514a37990de768e49c345a~mv2.png
 imageAlt: 2025’te Daha Akıllı, Yapay Zekâ Destekli Çözüm Neden Gerekli

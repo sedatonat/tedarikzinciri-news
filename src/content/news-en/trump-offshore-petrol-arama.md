@@ -2,6 +2,7 @@
 title: U.S. Plans to Open Coasts to Oil Exploration Activities
 subtitle: U.S. Plans to Open Coasts to Oil Exploration Activities
 date: '2025-10-25T09:00:00Z'
+sourceUrl: https://gcaptain.com/trump-plan-would-open-almost-all-coast-to-offshore-drilling/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_331fd9d423994c4ab6d8fac0406e81fb~mv2.jpg
 imageAlt: ''

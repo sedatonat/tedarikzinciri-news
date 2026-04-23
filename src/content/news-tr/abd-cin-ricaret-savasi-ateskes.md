@@ -2,6 +2,7 @@
 title: 'ABD–Çin Ticaret Ateşkesi: Tarifeler Düşüyor, Karşılıklı Önlemler Askıya Alınıyor'
 subtitle: 'ABD–Çin Ticaret Ateşkesi: Tarifeler Düşüyor, Karşılıklı Önlemler Askıya Alınıyor'
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/us-china-trade-truce-donald-trump-xi-jinping-apec/804233/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_cfb2a69863504957b776c4665894baba~mv2.jpg
 imageAlt: ABD ve Çin, Busan’daki liderler görüşmesinde tarifelerin düşürüldüğü, karşılıklı yaptırımların askıya alındığı, nadir toprak ihracat kontrollerinin durdurulduğu ve bir yıllık ticaret ateşkesinin başlatıldığı kapsamlı bir anlaşmaya vardı.

@@ -2,6 +2,7 @@
 title: Amazon, Market Lojistik Merkezlerinde Karbon Emisyonlarını %15 Azalttı
 subtitle: Amazon, Market Lojistik Merkezlerinde Karbon Emisyonlarını %15 Azalttı
 date: '2025-12-09T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/amazon-sustainability-grocery-fulfillment/807445/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_22b437dd30074c7bae9b0a378618d350~mv2.jpg
 imageAlt: Amazon’un Trane Technologies ve BrainBox AI ile yürüttüğü pilot program sayesinde grocery fulfillment center’larda enerji tüketimini %15 azaltması, ulusal yayılım planı ve 2040 karbon nötr hedefiyle ilişkili lojistik etkilerin detaylı özeti

@@ -2,6 +2,7 @@
 title: Baltimore Köprüsü Kazasında Beşinci İşçi Cesedi Bulundu
 subtitle: Baltimore Köprüsü Kazasında Beşinci İşçi Cesedi Bulundu
 date: '2024-05-03T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/fifth-body-recovered-from-baltimore-bridge-collapse/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5957d98d299c4d8084ba947825f0c9d1~mv2.jpg
 imageAlt: Baltimore Köprüsü Kazasında Beşinci İşçi Cesedi Bulundu

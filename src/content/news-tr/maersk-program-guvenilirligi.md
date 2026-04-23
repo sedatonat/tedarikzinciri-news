@@ -2,6 +2,7 @@
 title: Kasım 2024'te Maersk Program Güvenilirliğinde Zirvede
 subtitle: Kasım 2024'te Maersk Program Güvenilirliğinde Zirvede
 date: '2025-01-03T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/maersk-tops-schedule-reliability-in-november-2024/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5ab7bbde0a9547c6a0b723964115ade3~mv2.jpg
 imageAlt: Kasım 2024'te Maersk Program Güvenilirliğinde Zirvede

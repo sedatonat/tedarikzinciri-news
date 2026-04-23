@@ -2,6 +2,7 @@
 title: 'Toxic Leak on Tanker off Istanbul: One Crew Member Dies'
 subtitle: 'Toxic Leak on Tanker off Istanbul: One Crew Member Dies'
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://shippingwatch.com/carriers/Tanker/article18767678.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e90f2fa112a84695afc9d8706a7e57e8~mv2.jpg
 imageAlt: A newly built Panama-flagged tanker transiting near Istanbul experienced a toxic substance leak; one crew member died in the incident and emergency chemical response teams were activated aboard the vessel.

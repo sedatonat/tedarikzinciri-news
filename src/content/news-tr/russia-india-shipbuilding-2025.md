@@ -2,6 +2,7 @@
 title: Rusya, Hindistan’a Buz Sınıfı ve Yeşil Gemi İnşasında Stratejik İş Birliği Teklif Etti
 subtitle: Rusya, Hindistan’a Buz Sınıfı ve Yeşil Gemi İnşasında Stratejik İş Birliği Teklif Etti
 date: '2025-11-18T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384618/
 category: Lojistik
 image: https://static.wixstatic.com/media/nsplsh_025e4b30a3bb45d49eea6c105c93e29d~mv2.jpg
 imageAlt: Rusya, Hindistan’a buz sınıfı gemiler, balıkçı ve yolcu gemisi tasarımları, yeşil gemi inşası, Ar-Ge, mürettebat eğitimi ve Mumbai/Chennai’de ortak tersane kümeleri kurulması dahil geniş kapsamlı bir gemi inşa iş birliği paketi sundu.

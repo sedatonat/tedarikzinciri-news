@@ -2,6 +2,7 @@
 title: Toyota to Build $100 Million Electric Forklift Manufacturing Facility in Indiana
 subtitle: Toyota to Build $100 Million Electric Forklift Manufacturing Facility in Indiana
 date: '2024-05-30T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10340-toyota-material-handling-to-build-100-million-factory-for-electric-forklifts
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_8a7334fe0f44453a8ef2e81cbe73158f~mv2.png
 imageAlt: Toyota to Build $100 Million Electric Forklift Manufacturing Facility in Indiana

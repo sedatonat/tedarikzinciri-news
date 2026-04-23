@@ -2,6 +2,7 @@
 title: 'Kasım 2025 Class 8 Kamyon Siparişleri Sert Düştü: On Aydır Süren Daralma 2026’yı Baskı Altına Alıyor'
 subtitle: 'Kasım 2025 Class 8 Kamyon Siparişleri Sert Düştü: On Aydır Süren Daralma 2026’yı Baskı Altına Alıyor'
 date: '2025-12-05T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/preliminary_november_class_8_truck_orders_see_another_month_of_declines
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_13cc595ab37c42dcb3bd17a8124aed62~mv2.jpg
 imageAlt: FTR ve ACT Research’ün öncü verilerine göre Kasım 2025 Class 8 kamyon siparişlerinde yıllık sert düşüş, filo yatırım iştahındaki zayıflama, 2026 sipariş döngüsüne ilişkin riskler ve EPA’27–tarife belirsizliğinin etkilerine dair detaylı özet

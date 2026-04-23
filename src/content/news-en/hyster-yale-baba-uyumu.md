@@ -2,6 +2,7 @@
 title: Hyster-Yale Commits to Complying with BABA Requirements for Its Equipment
 subtitle: Hyster-Yale Commits to Complying with BABA Requirements for Its Equipment
 date: '2024-12-28T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/hyster-yale-commits-to-baba-requirements-for-its-equipment/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_3bc119c991804f6f8b413081f2bab7f4~mv2.jpg
 imageAlt: Hyster-Yale Commits to Complying with BABA Requirements for Its Equipment

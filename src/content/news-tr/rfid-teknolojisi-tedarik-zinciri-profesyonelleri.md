@@ -2,6 +2,7 @@
 title: RFID Teknolojisi, Tedarik Zinciri Profesyonellerinin %97'sini Çekiyor
 subtitle: RFID Teknolojisi, Tedarik Zinciri Profesyonellerinin %97'sini Çekiyor
 date: '2023-11-30T09:00:00Z'
+sourceUrl: https://www.scdigest.com/experts/2023-11-30_Farley_SC_Profs_RFID.php?cid=21126
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_4932b33a709d4f2ebd79502275c6d0c4~mv2.jpg
 imageAlt: RFID Teknolojisi, Tedarik Zinciri Profesyonellerinin %97'sini Çekiyor

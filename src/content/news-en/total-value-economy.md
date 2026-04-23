@@ -2,6 +2,7 @@
 title: Total Value Delivery in a Values-Driven Economy
 subtitle: Total Value Delivery in a Values-Driven Economy
 date: '2025-10-10T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/42406-delivering-total-value-in-a-values-driven-economy
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_f154821ad8cc40dfa15a6f4dcb201b56~mv2.png
 imageAlt: Total Value Delivery in a Values-Driven Economy

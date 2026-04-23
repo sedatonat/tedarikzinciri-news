@@ -2,6 +2,7 @@
 title: Port of Los Angeles Returns to Full Operations Following ONE Henry Hudson Fire
 subtitle: Port of Los Angeles Returns to Full Operations Following ONE Henry Hudson Fire
 date: '2025-11-25T09:00:00Z'
+sourceUrl: https://www.joc.com/article/normal-operations-resume-at-port-of-los-angeles-following-vessel-electrical-fire-6122663
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d9b30e040ce04e929974811495e60318~mv2.jpg
 imageAlt: Detailed summary of the electrical fire on the ONE Henry Hudson container vessel at the Port of Los Angeles, including the lifting of terminal closures and the resumption of full-capacity port operations.

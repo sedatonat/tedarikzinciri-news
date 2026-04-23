@@ -2,6 +2,7 @@
 title: Volvo and Waabi Autonomous Truck Collaboration
 subtitle: Volvo and Waabi Autonomous Truck Collaboration
 date: '2025-02-05T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41159-volvo-tags-waabi-to-develop-ai-system-for-autonomous-semi-trucks
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4c8ebf5c84394a7e974cc2d66035bdf3~mv2.png
 imageAlt: ''

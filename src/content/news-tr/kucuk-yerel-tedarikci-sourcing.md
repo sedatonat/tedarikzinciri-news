@@ -2,6 +2,7 @@
 title: Şirketler Tedarikte Daha Fazla Küçük ve Yerel Tedarikçiye Yöneliyor
 subtitle: Şirketler Tedarikte Daha Fazla Küçük ve Yerel Tedarikçiye Yöneliyor
 date: '2025-12-10T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/small-suppliers-supply-chain-strategy-2025
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_fc9271da527a48ebbd3989876153e051~mv2.jpg
 imageAlt: Supplier.io’nun 2025 State of Supplier Diversity Report’una göre şirketlerin artan tarifeler, jeopolitik riskler ve tedarik zinciri kırılganlığı nedeniyle küçük ve yerel tedarikçileri stratejik kaynak olarak konumlandırmasına dair kapsamlı özet

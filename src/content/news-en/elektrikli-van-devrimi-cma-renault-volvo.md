@@ -2,6 +2,7 @@
 title: 'Electric Van Revolution: New Venture Flexis SAS from CMA CGM, Renault and Volvo'
 subtitle: 'Electric Van Revolution: New Venture Flexis SAS from CMA CGM, Renault and Volvo'
 date: '2024-04-04T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/cma-cgm-renault-volvo-commences-operations-for-electric-van-venture/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_e52ebfe255bb4649b885fd9d03a13f11~mv2.jpg
 imageAlt: 'Electric Van Revolution: New Venture Flexis SAS from CMA CGM, Renault and Volvo'

@@ -2,6 +2,7 @@
 title: Hapag-Lloyd’un ZIM’i Satın Alma Girişimi Siyasi ve Güvenlik Engelleri Nedeniyle Zayıf Görülüyor
 subtitle: Hapag-Lloyd’un ZIM’i Satın Alma Girişimi Siyasi ve Güvenlik Engelleri Nedeniyle Zayıf Görülüyor
 date: '2025-12-04T09:00:00Z'
+sourceUrl: https://www.joc.com/article/hapag-lloyd-buyout-offer-for-zim-unlikely-to-get-far-report-6128796
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1d6b7e365f514c9381698fc7582f5ee1~mv2.jpg
 imageAlt: Hapag-Lloyd’un ZIM için sunduğu satın alma teklifinin, İsrail devletinin “special state share” yetkisi, Katar–Suudi hissedar yapısı ve ZIM çalışanlarının ulusal güvenlik itirazları nedeniyle neden düşük başarı şansına sahip olduğuna dair detaylı analiz

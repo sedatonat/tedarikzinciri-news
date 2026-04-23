@@ -2,6 +2,7 @@
 title: Truckload Visibility Provider Secures Funding to Expand Sensor Network
 subtitle: Truckload Visibility Provider Secures Funding to Expand Sensor Network
 date: '2025-02-03T09:00:00Z'
+sourceUrl: https://www.joc.com/article/truckload-visibility-vendor-gets-funding-to-expand-sensor-network-5936129
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5e2d2e1cd397452885790e0a9535a87e~mv2.jpg
 imageAlt: Truckload Visibility Provider Secures Funding to Expand Sensor Network

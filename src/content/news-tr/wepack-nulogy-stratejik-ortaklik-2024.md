@@ -2,6 +2,7 @@
 title: WePack ve Nulogy'den Dijital Dönüşümde Stratejik Ortaklık
 subtitle: WePack ve Nulogy'den Dijital Dönüşümde Stratejik Ortaklık
 date: '2024-03-01T09:00:00Z'
+sourceUrl: https://www.warehousinglogisticsinternational.com/wepack-selects-nulogy-to-digitalise-its-contract-packing-operations/
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_949aded2fc9343568bae5a0d43938a6b~mv2.jpg
 imageAlt: WePack ve Nulogy'den Dijital Dönüşümde Stratejik Ortaklık

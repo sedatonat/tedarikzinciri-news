@@ -2,6 +2,7 @@
 title: CMA CGM Returns to Full Suez Canal Loop on INDAMEX Service
 subtitle: CMA CGM Returns to Full Suez Canal Loop on INDAMEX Service
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385495/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_130ffae4c75b42e2a7c7b0f96ac1ee72~mv2.jpg
 imageAlt: Detailed summary of CMA CGM's decision to return fully to Suez for both fronthaul and backhaul on the INDAMEX line, covering impacts on transit times, capacity reduction, market pricing, and sector implications in the Red Sea risk environment

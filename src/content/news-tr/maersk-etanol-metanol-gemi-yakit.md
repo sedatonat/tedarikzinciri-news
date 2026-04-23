@@ -2,6 +2,7 @@
 title: Maersk, Laura Mærsk Üzerinde Etanol–Metanol Çift Yakıt Testlerine Başladı
 subtitle: Maersk, Laura Mærsk Üzerinde Etanol–Metanol Çift Yakıt Testlerine Başladı
 date: '2025-12-05T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385451/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_45989e0b1df74ab8bdef8c1efb48721e~mv2.jpg
 imageAlt: Maersk’in Laura Mærsk gemisinde 50/50 etanol–metanol karışımıyla başlattığı yeni deneme, E10 test sonuçları, çift yakıtlı metanol motorlarının opsiyon genişlemesi ve çoklu yakıt stratejisinin sektörel etkilerine dair kapsamlı özet

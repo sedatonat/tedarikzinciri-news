@@ -2,6 +2,7 @@
 title: Three Ways to Secure Microchip Supply in a Global Crisis
 subtitle: Three Ways to Secure Microchip Supply in a Global Crisis
 date: '2024-05-02T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/39483-three-steps-to-securing-microchip-supply-in-a-chaotic-global-market
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_aa28513e0d7d482d878f6b7ccb621aef~mv2.jpg
 imageAlt: Three Ways to Secure Microchip Supply in a Global Crisis

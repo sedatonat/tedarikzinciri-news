@@ -2,6 +2,7 @@
 title: Supply Chain Leaders React to Trump's Re-election
 subtitle: Supply Chain Leaders React to Trump's Re-election
 date: '2024-11-06T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/donald-trump-president-election-reactions-2024-supply-chain/732156/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_aea660ef0994484d853379f0fe0044a2~mv2.jpg
 imageAlt: Supply Chain Leaders React to Trump's Re-election

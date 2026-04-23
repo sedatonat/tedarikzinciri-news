@@ -2,6 +2,7 @@
 title: Bulgaristan, Hasar Gören Kairos Tankerini Burgaz Açıklarında Emniyete Aldı
 subtitle: Bulgaristan, Hasar Gören Kairos Tankerini Burgaz Açıklarında Emniyete Aldı
 date: '2025-12-11T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385702/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_101af0a8660f4ed5871b1706529a0c73~mv2.jpg
 imageAlt: Ukrayna deniz dronu saldırısının ardından Türkiye’den çekilen ve Bulgaristan kıyılarına sürüklenen Kairos tankerinin durumu, Bulgar ve Türk makamlarının müdahalesi, gölge filo riski ve Karadeniz’de deniz güvenliğine etkilerinin detaylı özeti

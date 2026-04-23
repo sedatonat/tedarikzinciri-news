@@ -2,6 +2,7 @@
 title: Supply Chain Risks and Anti-Fragility Strategy for 2025
 subtitle: Supply Chain Risks and Anti-Fragility Strategy for 2025
 date: '2025-03-28T09:00:00Z'
+sourceUrl: https://www.xeneta.com/blog/the-biggest-global-supply-chain-risks-of-2025
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e105317a067d4392bda3d596b542f32e~mv2.jpg
 imageAlt: '2025 Supply Chain Risks and Anti-Fragility Strategy: Visibility, Data and Flexible Contracts Come to the Fore'

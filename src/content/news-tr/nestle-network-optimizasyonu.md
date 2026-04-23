@@ -2,6 +2,7 @@
 title: Nestlé, Dağıtım Ağı Optimizasyonuyla Maliyet, Dayanıklılık ve Sürdürülebilirliği Dengeliyor
 subtitle: Nestlé, Dağıtım Ağı Optimizasyonuyla Maliyet, Dayanıklılık ve Sürdürülebilirliği Dengeliyor
 date: '2025-10-07T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/move/store/nestle-shares-process-for-optimizing-distribution-network
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_b680461280114ce1a498cb419f717f77~mv2.jpg
 imageAlt: Nestlé, Dağıtım Ağı Optimizasyonuyla Maliyet, Dayanıklılık ve Sürdürülebilirliği Dengeliyor

@@ -2,6 +2,7 @@
 title: Shipping Industry Tightens Security to Prevent Coal Fires on Vessels
 subtitle: Shipping Industry Tightens Security to Prevent Coal Fires on Vessels
 date: '2025-01-17T09:00:00Z'
+sourceUrl: https://gcaptain.com/shipping-industry-adopts-tougher-safety-standards-to-snuff-out-charcoal-fires-on-ships/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_00371f6fb424492cad775a85f34acf3b~mv2.jpg
 imageAlt: Shipping Industry Tightens Security to Prevent Coal Fires on Vessels

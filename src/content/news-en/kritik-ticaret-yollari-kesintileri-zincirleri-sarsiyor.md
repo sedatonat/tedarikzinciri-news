@@ -2,6 +2,7 @@
 title: Disruptions on Critical Trade Routes Shake Global Supply Chains
 subtitle: Disruptions on Critical Trade Routes Shake Global Supply Chains
 date: '2024-03-12T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/360632/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_aca3991278ff44799c5529a5ec73e10b~mv2.png
 imageAlt: Disruptions on Critical Trade Routes Shake Global Supply Chains

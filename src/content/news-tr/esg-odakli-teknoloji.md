@@ -2,6 +2,7 @@
 title: 2025’te ESG Odaklı Teknolojiyi Kurgulamak
 subtitle: 2025’te ESG Odaklı Teknolojiyi Kurgulamak
 date: '2025-05-05T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41635-conceptualizing-esg-focused-technology-in-2025
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_b9eed94f3dfd4d2696fc959fdf9f7c3a~mv2.png
 imageAlt: 2025’te Esg Odaklı Teknolojiyi Kurgulamak

@@ -2,6 +2,7 @@
 title: Konteyner Denetim Raporlamasında İyileştirme Çağrısı
 subtitle: Konteyner Denetim Raporlamasında İyileştirme Çağrısı
 date: '2024-09-19T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/cargo-integrity-group-calls-for-greater-maritime-safety/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_cdaf774ffc3e40ad97000cbbcf09209e~mv2.jpg
 imageAlt: Konteyner Denetim Raporlamasında İyileştirme Çağrısı

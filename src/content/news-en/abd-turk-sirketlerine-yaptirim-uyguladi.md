@@ -2,6 +2,7 @@
 title: U.S. Imposes Sanctions on 16 Turkish Companies
 subtitle: U.S. Imposes Sanctions on 16 Turkish Companies
 date: '2023-12-13T09:00:00Z'
+sourceUrl: https://www.ekonomim.com/dunya/abd-bircok-turk-sirketini-yaptirim-listesine-aldi-haberi-720172
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_20fcd35a03fc4d17848b7bc9bf92d510~mv2.jpg
 imageAlt: U.S. Imposes Sanctions on 16 Turkish Companies

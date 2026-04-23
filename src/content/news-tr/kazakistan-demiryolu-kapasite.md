@@ -2,6 +2,7 @@
 title: Kazakistan, Kritik Demiryolu Sınır Kapısında Kapasiteyi %40 Artırdı
 subtitle: Kazakistan, Kritik Demiryolu Sınır Kapısında Kapasiteyi %40 Artırdı
 date: '2025-12-16T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/12/16/kazakhstan-boosts-capacity-by-40-at-key-rail-border-crossing/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_afaa546484b1487589bbb345dffd5d8b~mv2.jpg
 imageAlt: Kazakistan’ın Altynkol–Khorgos demiryolu sınır hattında yaptığı yatırımlarla Asia–Europe rail routes üzerindeki kapasiteyi artırmasını, tıkanıklıkları azaltmasını ve transit performansı güçlendirmesini ele alan detaylı sektör özeti

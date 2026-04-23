@@ -2,6 +2,7 @@
 title: Lenovo, Çin Dışında Üretim Faaliyetlerini Artırmayı Planlıyor
 subtitle: Lenovo, Çin Dışında Üretim Faaliyetlerini Artırmayı Planlıyor
 date: '2024-11-19T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40695-lenovo-to-move-some-manufacturing-out-of-china
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_6ceb82afddf84fd98a344c90622b9e3a~mv2.jpg
 imageAlt: Lenovo, Çin Dışında Üretim Faaliyetlerini Artırmayı Planlıyor

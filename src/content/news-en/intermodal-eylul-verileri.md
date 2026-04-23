@@ -2,6 +2,7 @@
 title: Intermodal Shipments Continue Growth in September, According to IANA
 subtitle: Intermodal Shipments Continue Growth in September, According to IANA
 date: '2025-10-24T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/intermodal_volumes_head_up_in_september_reports_iana
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4542ebd37a9a4e7e990d6a2bbcb468fc~mv2.jpg
 imageAlt: The Intermodal Association of North America (IANA) reported that intermodal shipments grew 2.4% year-over-year in September 2025. The increase provided stability in both domestic and international container shipments, driven by "frontloading" activity ahead of tariff implementation.

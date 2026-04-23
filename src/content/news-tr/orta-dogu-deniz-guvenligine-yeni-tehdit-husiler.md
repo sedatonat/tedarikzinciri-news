@@ -2,6 +2,7 @@
 title: 'Orta Doğu''da Deniz Güvenliğine Yeni Tehdit: Husilerin MV Torm Thor''a Saldırısı'
 subtitle: 'Orta Doğu''da Deniz Güvenliğine Yeni Tehdit: Husilerin MV Torm Thor''a Saldırısı'
 date: '2024-02-25T03:45:00Z'
+sourceUrl: https://www.reuters.com/world/middle-east/yemens-houthis-target-fuel-tanker-torm-thor-gulf-aden-2024-02-24/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_c7685e0e3f87466f9a9ca9dfec812795~mv2.jpeg
 imageAlt: 'Orta Doğu''da Deniz Güvenliğine Yeni Tehdit: Husilerin MV Torm Thor''a Saldırısı'

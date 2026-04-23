@@ -2,6 +2,7 @@
 title: Los Angeles Limanı’nda Konteyner Gemisi Yangını Operasyonları Durdurdu
 subtitle: Los Angeles Limanı’nda Konteyner Gemisi Yangını Operasyonları Durdurdu
 date: '2025-11-22T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42891-container-ship-fire-halts-operations-at-port-of-los-angeles
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1048900e337a4411811b5b2ea5b07598~mv2.jpg
 imageAlt: Los Angeles Limanı’nda One Henry Hudson adlı konteyner gemisinde tehlikeli madde içeren bir yangının çıkması, geminin açık alana çekilmesi ve dört terminalde operasyonların durmasıyla sonuçlanan olayın detaylı özeti.

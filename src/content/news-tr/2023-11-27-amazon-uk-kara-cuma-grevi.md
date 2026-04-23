@@ -2,6 +2,7 @@
 title: Amazon 'un Birleşik Krallık'taki Kara Cuma Grevi Yayılıyor
 subtitle: Amazon 'un Birleşik Krallık'taki Kara Cuma Grevi Yayılıyor
 date: '2023-11-27T08:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/38564-amazon-black-friday-strikes-spread-internationally
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_b63a72921d5442629d52e13ad77ebdc1~mv2.jpg
 imageAlt: Amazon 'un Birleşik Krallık'taki Kara Cuma Grevi Yayılıyor

@@ -2,6 +2,7 @@
 title: 'Data-Ready Retailers Stand Out: Five Times Higher Growth'
 subtitle: 'Data-Ready Retailers Stand Out: Five Times Higher Growth'
 date: '2025-10-20T09:00:00Z'
+sourceUrl: https://www.scmr.com/article/are-you-data-ready-or-in-data-despair
 category: Teknoloji
 image: https://static.wixstatic.com/media/11062b_ae708cec5f3242a588b44741a32efc05~mv2.jpg
 imageAlt: 'Data-Ready Retailers Stand Out: Five Times Higher Growth'

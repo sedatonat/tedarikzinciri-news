@@ -2,6 +2,7 @@
 title: ABD, Güney Kore ile Ticaret Anlaşmasında Sona Yaklaştı
 subtitle: ABD, Güney Kore ile Ticaret Anlaşmasında Sona Yaklaştı
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/us-south-korea-trade-deal-tariffs-donald-trump-lee-jae-myung/804092/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_29751cf84bf94a19b4888ab81c370810~mv2.jpg
 imageAlt: ABD Başkanı Donald Trump ve Güney Kore Devlet Başkanı Lee Jae Myung, Asya-Pasifik Ekonomik İşbirliği (APEC) zirvesi kapsamında Gyeongju’da bir araya geldi. Trump, iki ülke arasında “neredeyse tamamlanmış bir ticaret anlaşması” olduğunu açıkladı.

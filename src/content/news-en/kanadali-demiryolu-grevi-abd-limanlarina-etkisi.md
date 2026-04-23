@@ -2,6 +2,7 @@
 title: Impact of Canadian Railway Strike on U.S. Ports
 subtitle: Impact of Canadian Railway Strike on U.S. Ports
 date: '2024-05-17T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10278-potential-canadian-rail-worker-strike-impacts-us-west-coast-ports
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a59bc9a7024c49cf9a5994e7d932cfc3~mv2.jpg
 imageAlt: Impact of Canadian Railway Strike on U.S. Ports

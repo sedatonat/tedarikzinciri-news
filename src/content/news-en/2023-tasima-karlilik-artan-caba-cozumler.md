@@ -2,6 +2,7 @@
 title: Growing Effort and Solutions for Carrier Profitability in 2023
 subtitle: Growing Effort and Solutions for Carrier Profitability in 2023
 date: '2024-03-19T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/9980-survey-freight-carriers-had-to-work-harder-in-2023-to-stay-profitable
 category: Lojistik
 image: https://static.wixstatic.com/media/35950e5c49ae4628b4e4546d017b576e.jpg
 imageAlt: Growing Effort and Solutions for Carrier Profitability in 2023

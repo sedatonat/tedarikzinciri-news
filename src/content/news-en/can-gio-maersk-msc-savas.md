@@ -2,6 +2,7 @@
 title: Competition Heats Up Between Maersk and MSC for Vietnam's $6 Billion "Can Gio Mega Port"
 subtitle: Competition Heats Up Between Maersk and MSC for Vietnam's $6 Billion "Can Gio Mega Port"
 date: '2025-12-03T09:00:00Z'
+sourceUrl: https://shippingwatch.com/carriers/Container/article18805818.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8e3045ecdd9e4892b36aecea808da582~mv2.jpg
 imageAlt: The competition between Maersk and MSC for Vietnam's Can Gio International Transshipment Port project near Ho Chi Minh City, detailing the strategic importance of the mega-port with 16.9 million TEU capacity and the new power struggle emerging after the dissolution of the 2M alliance

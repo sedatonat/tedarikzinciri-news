@@ -2,6 +2,7 @@
 title: US Removes Tariffs on Coffee and Agricultural Products from Brazil
 subtitle: US Removes Tariffs on Coffee and Agricultural Products from Brazil
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/trump-tariffs-us-exempts-coffee-food-products-brazil/806176/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_73feb1867bc24d8fa22187474fd48b33~mv2.jpg
 imageAlt: The US has granted tariff exemptions for hundreds of agricultural and food products of Brazilian origin, including coffee, meat, tropical fruits, and spices. The decision is seen as a result of progress in trade negotiations between the two countries while easing mounting tariff pressure.

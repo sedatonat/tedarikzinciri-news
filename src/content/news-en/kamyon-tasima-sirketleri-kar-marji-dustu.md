@@ -2,6 +2,7 @@
 title: Truckload Carrier Profit Margins Hit 14-Year Low
 subtitle: Truckload Carrier Profit Margins Hit 14-Year Low
 date: '2024-05-16T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10269-truckload-carrier-profits-sank-to-14-year-low-in-first-quarter
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_ca2f463d3a744cacabb71dacb3fc2bae~mv2.png
 imageAlt: Truckload Carrier Profit Margins Hit 14-Year Low

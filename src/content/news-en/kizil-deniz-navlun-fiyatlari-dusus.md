@@ -2,6 +2,7 @@
 title: Red Sea Calm Could Cut Freight Prices by 25%, Says DP World
 subtitle: Red Sea Calm Could Cut Freight Prices by 25%, Says DP World
 date: '2025-01-23T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/red-sea-calm-could-cut-freight-prices-by-25-says-dp-world
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d050a3eeb6b84d0ebcbf58695dbca961~mv2.jpg
 imageAlt: Red Sea Calm Could Cut Freight Prices by 25%, Says DP World

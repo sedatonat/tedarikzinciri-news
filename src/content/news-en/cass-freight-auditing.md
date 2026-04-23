@@ -2,6 +2,7 @@
 title: Cass International Freight Expands Invoice Auditing Tools
 subtitle: Cass International Freight Expands Invoice Auditing Tools
 date: '2025-01-02T09:00:00Z'
+sourceUrl: https://www.joc.com/article/cass-acquires-international-freight-invoice-auditing-tool-to-widen-modal-reach-5914637
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_b98bd1d2c3c74a45badd9c1993adb5ed~mv2.jpg
 imageAlt: Cass International Freight Expands Invoice Auditing Tools

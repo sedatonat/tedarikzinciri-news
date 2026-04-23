@@ -2,6 +2,7 @@
 title: ABD Hazine Bakanlığı Çin'e Yatırım Yasağını Son Haline Getirdi
 subtitle: ABD Hazine Bakanlığı Çin'e Yatırım Yasağını Son Haline Getirdi
 date: '2024-10-30T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40588-china-claims-new-rule-barring-us-tech-investments-will-harm-global-supply-chain
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_3eea29c429b54944bef019a29d21f289~mv2.jpg
 imageAlt: ABD Hazine Bakanlığı Çin'e Yatırım Yasağını Son Haline Getirdi

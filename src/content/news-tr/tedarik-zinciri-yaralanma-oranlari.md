@@ -2,6 +2,7 @@
 title: Tedarik Zincirinde En Yüksek İş Yeri Yaralanma Oranlarına Sahip Meslekler
 subtitle: Tedarik Zincirinde En Yüksek İş Yeri Yaralanma Oranlarına Sahip Meslekler
 date: '2025-02-25T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/supply-chain-jobs-highest-workplace-injury-rates
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_96f5e0429d6949508071b9f8bcdfbd6e~mv2.jpg
 imageAlt: Tedarik Zincirinde En Yüksek İş Yeri Yaralanma Oranlarına Sahip Meslekler

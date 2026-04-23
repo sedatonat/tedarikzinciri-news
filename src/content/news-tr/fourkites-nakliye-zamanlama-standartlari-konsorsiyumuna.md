@@ -2,6 +2,7 @@
 title: FourKites, Nakliye Zamanlama Standartları Konsorsiyumu'na Katıldı
 subtitle: FourKites, Nakliye Zamanlama Standartları Konsorsiyumu'na Katıldı
 date: '2024-05-28T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10321-fourkites-joins-freight-industry-consortium-ssc
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6c59629f62454ba8b11c2f7bd34f1177~mv2.png
 imageAlt: FourKites, Nakliye Zamanlama Standartları Konsorsiyumu'na Katıldı

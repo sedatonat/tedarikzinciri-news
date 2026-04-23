@@ -2,6 +2,7 @@
 title: Isa Star General Cargo Vessel Evacuates Crew Following Red Sea Fire
 subtitle: Isa Star General Cargo Vessel Evacuates Crew Following Red Sea Fire
 date: '2024-12-06T09:00:00Z'
+sourceUrl: https://splash247.com/crew-abandon-ship-in-the-red-sea/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7b59ab11ae3148ed9841915e0d33e6a0~mv2.jpeg
 imageAlt: Isa Star General Cargo Vessel Evacuates Crew Following Red Sea Fire

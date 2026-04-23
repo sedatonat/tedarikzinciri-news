@@ -2,6 +2,7 @@
 title: US and Japan Sign New Framework Agreement for Critical Mineral Supply Security
 subtitle: US and Japan Sign New Framework Agreement for Critical Mineral Supply Security
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/us-japan-critical-mineral-rare-earth-deal/804065/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_d4f3856b3c2f47fa8b72a7acb9f0d9c6~mv2.jpg
 imageAlt: US President Donald Trump and Japanese Prime Minister Sanae Takaichi signed a strategic partnership framework on critical minerals and rare earth element supply at Akasaka Palace in Tokyo. The agreement aims to establish secure supply networks in mining, ore separation, and processing operations.

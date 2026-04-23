@@ -2,6 +2,7 @@
 title: Failure to Update SAP Systems Creates Major Risk in Manufacturing Sector
 subtitle: Failure to Update SAP Systems Creates Major Risk in Manufacturing Sector
 date: '2024-08-07T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/40159-manufacturings-hidden-risk-will-be-outdated-sap-systems
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_247d75d37cc646d1b685ceb7b154379b~mv2.jpg
 imageAlt: Failure to Update SAP Systems Creates Major Risk in Manufacturing Sector

@@ -2,6 +2,7 @@
 title: Contract Talks Have Stalled at East Coast and Gulf Coast Ports, Raising Retailer Concerns
 subtitle: Contract Talks Have Stalled at East Coast and Gulf Coast Ports, Raising Retailer Concerns
 date: '2024-08-08T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10707-nrf-contract-talks-have-stalled-at-east-coast-and-gulf-coast-ports
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4c8e7e854a404bc3b9d72fe472425d26~mv2.png
 imageAlt: Contract talks stalled at East Coast and Gulf Coast ports

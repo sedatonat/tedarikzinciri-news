@@ -2,6 +2,7 @@
 title: 'Baltimore Köprüsü''nde Kaza: Maersk''in Kiraladığı Gemi Çarptı'
 subtitle: 'Baltimore Köprüsü''nde Kaza: Maersk''in Kiraladığı Gemi Çarptı'
 date: '2024-03-26T09:00:00Z'
+sourceUrl: https://www.cnbc.com/2024/03/26/shipping-giant-maersk-confirms-it-chartered-ship-that-collided-with-baltimore-bridge.html
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a059993628dc470d90739385aad66622~mv2.png
 imageAlt: 'Baltimore Köprüsü''nde Kaza: Maersk''in Kiraladığı Gemi Çarptı'

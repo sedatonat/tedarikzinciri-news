@@ -2,6 +2,7 @@
 title: Kuzey Amerika Tarifeleri Askıya Alındı, Çin Misilleme Yapıyor
 subtitle: Kuzey Amerika Tarifeleri Askıya Alındı, Çin Misilleme Yapıyor
 date: '2025-03-04T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/north-america-tariffs-suspended-whilst-china-retaliates/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_95757a84e0ee47d4bf8ed8caa74e56f0~mv2.jpg
 imageAlt: Kuzey Amerika Tarifeleri Askıya Alındı, Çin Misilleme Yapıyor

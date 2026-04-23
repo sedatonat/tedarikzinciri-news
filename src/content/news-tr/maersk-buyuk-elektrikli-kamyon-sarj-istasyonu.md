@@ -2,6 +2,7 @@
 title: Kaliforniya'nın En Büyük Elektrikli Kamyon Şarj İstasyonu Açıldı
 subtitle: Kaliforniya'nın En Büyük Elektrikli Kamyon Şarj İstasyonu Açıldı
 date: '2024-05-23T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10309-prologis-and-maersk-open-96-truck-ev-charging-depot-near-port-of-la
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c62a89c8c3e243c4bc6b2d81b2a67a6c~mv2.jpeg
 imageAlt: Kaliforniya'nın En Büyük Elektrikli Kamyon Şarj İstasyonu Açıldı

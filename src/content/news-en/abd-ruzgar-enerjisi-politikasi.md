@@ -2,6 +2,7 @@
 title: Trump Administration's Wind Energy Policies Harm U.S. Ports
 subtitle: Trump Administration's Wind Energy Policies Harm U.S. Ports
 date: '2025-10-23T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/us-ports-face-679-million-loss-from-wind-policy-shift/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_02633b913132468fa713f6312a7708da~mv2.jpg
 imageAlt: Trump Administration's Wind Energy Policies Harm U.S. Ports

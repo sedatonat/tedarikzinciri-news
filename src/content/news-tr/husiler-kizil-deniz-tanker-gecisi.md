@@ -2,6 +2,7 @@
 title: Husiler Tanker Geçişine İzin Verdi Ancak Belirsizlik Sürüyor
 subtitle: Husiler Tanker Geçişine İzin Verdi Ancak Belirsizlik Sürüyor
 date: '2025-01-21T09:00:00Z'
+sourceUrl: https://container-news.com/houthis-permit-tanker-passage-through-red-sea-but-uncertainty-remains/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2f7fba74faab40eda0f1615193dc4f2d~mv2.jpg
 imageAlt: Husiler Tanker Geçişine İzin Verdi Ancak Belirsizlik Sürüyor

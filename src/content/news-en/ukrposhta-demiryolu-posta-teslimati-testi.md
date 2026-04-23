@@ -2,6 +2,7 @@
 title: Ukrposhta Tests Rail Service for International Mail
 subtitle: Ukrposhta Tests Rail Service for International Mail
 date: '2023-12-30T09:00:00Z'
+sourceUrl: https://www.railfreight.com/intermodal/2023/12/27/ukrainian-international-mail-is-back-on-the-rail-after-21-years/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f441f57877374657ac65d49516b3120f~mv2.jpeg
 imageAlt: Ukrposhta Tests Rail Service for International Mail

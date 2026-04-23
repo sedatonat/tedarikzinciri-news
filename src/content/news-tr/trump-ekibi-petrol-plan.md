@@ -2,6 +2,7 @@
 title: Trump Ekibi, Rusya Anlaşması ve İran Baskısı İçin Petrol Yaptırımları Planını Hazırlıyor
 subtitle: Trump Ekibi, Rusya Anlaşması ve İran Baskısı İçin Petrol Yaptırımları Planını Hazırlıyor
 date: '2025-01-16T09:00:00Z'
+sourceUrl: https://gcaptain.com/trump-team-readies-oil-sanctions-plan-for-russia-deal-iran-squeeze/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_5f0fb1901e624c24b1e9b4a3ccd32341~mv2.jpg
 imageAlt: Trump Ekibi, Rusya Anlaşması ve İran Baskısı İçin Petrol Yaptırımları Planını Hazırlıyor

@@ -2,6 +2,7 @@
 title: 'Turkey''s Public Procurement System Goes Digital: Certificate Era Begins'
 subtitle: 'Turkey''s Public Procurement System Goes Digital: Certificate Era Begins'
 date: '2025-01-14T09:00:00Z'
+sourceUrl: https://www.yenisafak.com/ekonomi/ihale-sistemi-sil-bastan-4669727
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_d358e4247eb14d85b385dd9711139901~mv2.jpg
 imageAlt: A comprehensive reform summary explaining how the public procurement legislation dating from 1983 and 2002 will be completely renewed through a digital platform, certificate system, and centralized data registry.

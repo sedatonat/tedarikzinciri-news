@@ -2,6 +2,7 @@
 title: Intermodal Should Be Treated Like Passenger Rail
 subtitle: Intermodal Should Be Treated Like Passenger Rail
 date: '2025-01-24T09:00:00Z'
+sourceUrl: https://www.railfreight.com/policy/2025/01/24/intermodal-has-to-be-treated-like-passenger-rail/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_421586cfeecc4c5489ee0211a7b72219~mv2.jpg
 imageAlt: Intermodal Should Be Treated Like Passenger Rail

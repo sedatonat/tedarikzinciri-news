@@ -2,6 +2,7 @@
 title: Gazze Soykırımı Sonrası Küresel Tedarik Zincirindeki Yeni Kriz
 subtitle: Gazze Soykırımı Sonrası Küresel Tedarik Zincirindeki Yeni Kriz
 date: '2024-05-31T09:00:00Z'
+sourceUrl: https://www.lojiport.com/konteynerde-gemi-arzi-azalinca-navlun-tavan-yapti-116597h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_769f7d7cde06449da027a7fcf6015640~mv2.jpg
 imageAlt: Gazze Soykırımı Sonrası Küresel Tedarik Zincirindeki Yeni Kriz

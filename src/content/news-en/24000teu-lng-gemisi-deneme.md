@@ -2,6 +2,7 @@
 title: 24,000 TEU LNG-Fueled Container Ship Completes Sea Trials
 subtitle: 24,000 TEU LNG-Fueled Container Ship Completes Sea Trials
 date: '2025-03-15T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/374628/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_58d752d3893f41ac918c0ee8843f2028~mv2.jpg
 imageAlt: 24,000 TEU LNG-Fueled Container Ship Completes Sea Trials

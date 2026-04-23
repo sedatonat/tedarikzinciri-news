@@ -2,6 +2,7 @@
 title: PIL Puts Fourth LNG Dual-Fuel "O" Class Vessel Kota Orkid into Service
 subtitle: PIL Puts Fourth LNG Dual-Fuel "O" Class Vessel Kota Orkid into Service
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/pil-names-fourth-lng-dual-fuel-o-class-vessel/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_9a594132ebc341eb9ad87c9b490354ec~mv2.jpg
 imageAlt: Pacific International Lines (PIL) launched the fourth vessel in its 8,200 TEU capacity LNG dual-fuel "O" class ship series, Kota Orkid, at a ceremony held at Yangzijiang Shipyard in Jiangsu province, China. The new vessel will serve the Asia–West Africa route.

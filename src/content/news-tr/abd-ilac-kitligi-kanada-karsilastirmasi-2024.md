@@ -2,6 +2,7 @@
 title: ABD'de İlaç Kıtlığı, Kanada'ya Göre %40 Daha Olası
 subtitle: ABD'de İlaç Kıtlığı, Kanada'ya Göre %40 Daha Olası
 date: '2024-11-01T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40608-supply-chain-issues-continue-to-fuel-drug-shortages-in-us
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_f10d9afb3cff453e8eb6f359dc7910bf~mv2.jpg
 imageAlt: ABD'de İlaç Kıtlığı, Kanada'ya Göre %40 Daha Olası

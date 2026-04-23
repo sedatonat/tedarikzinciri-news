@@ -2,6 +2,7 @@
 title: 'Sürücü Krizinin Kökeni: Sorun İnsanlar Değil Sistemler'
 subtitle: 'Sürücü Krizinin Kökeni: Sorun İnsanlar Değil Sistemler'
 date: '2025-11-25T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/qa-matt-cartwright-magnus-technologies
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_386cfcfaff524c1dae2d4cb7d18e2e11~mv2.jpg
 imageAlt: Trucking sektöründe sürücü krizinin gerçek nedeninin insan kaynağı değil, parçalı operasyonlar, tutarsız iş akışları ve kopuk veri yapıları olduğunu açıklayan kapsamlı haber özeti

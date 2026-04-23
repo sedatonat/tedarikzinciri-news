@@ -2,6 +2,7 @@
 title: 'U.S.–China Trade Truce: Tariffs Falling, Reciprocal Measures Suspended'
 subtitle: 'U.S.–China Trade Truce: Tariffs Falling, Reciprocal Measures Suspended'
 date: '2025-10-30T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/us-china-trade-truce-donald-trump-xi-jinping-apec/804233/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_cfb2a69863504957b776c4665894baba~mv2.jpg
 imageAlt: The U.S. and China reached a comprehensive agreement at a leaders' meeting in Busan in which tariffs were reduced, reciprocal sanctions were suspended, rare earth export controls were halted, and a one-year trade truce was launched.

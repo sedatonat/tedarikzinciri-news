@@ -2,6 +2,7 @@
 title: Seatrium Sells Two Platform Supply Vessels to Brazilian Posidonia for $60 Million
 subtitle: Seatrium Sells Two Platform Supply Vessels to Brazilian Posidonia for $60 Million
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://splash247.com/seatrium-offloads-psv-duo-to-brazilian-firm-for-60m/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5dee12ed40f74af687d465ff24040faa~mv2.jpg
 imageAlt: Singapore-based shipbuilding group Seatrium has sold two platform support vessels (PSVs) to Brazil-based Posidonia Shipping and Trading for approximately $59.7 million. The sale is part of the company's strategy to divest non-core assets and enhance operational efficiency.

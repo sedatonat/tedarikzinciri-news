@@ -2,6 +2,7 @@
 title: UK Says "Military Options Ready" If Russian Yantar Vessel Poses Threat
 subtitle: UK Says "Military Options Ready" If Russian Yantar Vessel Poses Threat
 date: '2025-11-19T09:00:00Z'
+sourceUrl: https://gcaptain.com/uk-says-military-options-ready-as-russian-ship-uses-lasers-against-raf-pilots/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_938d227faad940a7ab2a46f6d5c1c426~mv2.jpg
 imageAlt: After the Russian spy ship Yantar directed laser light at RAF pilots, Britain's Defence Secretary announced that military options would be deployed if the vessel poses a threat.

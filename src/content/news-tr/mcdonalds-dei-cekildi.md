@@ -2,6 +2,7 @@
 title: McDonald's Tedarik Zincirinde Çeşitlilik Hedeflerini Sonlandırdı
 subtitle: McDonald's Tedarik Zincirinde Çeşitlilik Hedeflerini Sonlandırdı
 date: '2025-01-17T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/mcdonalds-ends-supplier-diversity-goals/737583/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_472045c141f340de977622b72392f801~mv2.jpg
 imageAlt: McDonald's Tedarik Zincirinde Çeşitlilik Hedeflerini Sonlandırdı

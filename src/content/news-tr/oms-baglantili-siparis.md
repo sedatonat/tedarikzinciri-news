@@ -2,6 +2,7 @@
 title: "OMS Manzarası Değişiyor: Bağlantılı Sipariş Yönetimi"
 subtitle: 'OMS Manzarası Değişmekte: Bağlantılı Sipariş Yönetimi'
 date: '2025-04-29T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41620-the-changing-landscape-of-order-management-systems-oms
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_36ea48ce0f754a2ebba4a9a1f4bc45a5~mv2.png
 imageAlt: 'Oms Manzarası Değişmekte: Bağlantılı Sipariş Yönetimi'

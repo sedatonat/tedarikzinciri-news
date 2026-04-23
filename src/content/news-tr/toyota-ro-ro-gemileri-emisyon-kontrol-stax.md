@@ -2,6 +2,7 @@
 title: Toyota, Ro-Ro Gemilerinin Baca Emisyonlarını Kontrol Etmek İçin Stax Engineering ile Anlaştı
 subtitle: Toyota, Ro-Ro Gemilerinin Baca Emisyonlarını Kontrol Etmek İçin Stax Engineering ile Anlaştı
 date: '2024-09-04T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10821-toyota-picks-vendor-to-control-smokestack-emissions-from-its-ro-ro-ships
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e5b41cabd51c4c0b9af2e7effdc04d0b~mv2.jpg
 imageAlt: Toyota, Ro-Ro Gemilerinin Baca Emisyonlarını Kontrol Etmek İçin Stax Engineering ile Anlaştı

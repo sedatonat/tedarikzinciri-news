@@ -2,6 +2,7 @@
 title: 'Çiçek Sevkiyatındaki Zorlu Maraton: Lojistik Ağlar Sınırlarını Zorluyor'
 subtitle: 'Çiçek Sevkiyatındaki Zorlu Maraton: Lojistik Ağlar Sınırlarını Zorluyor'
 date: '2024-04-29T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10188-annual-flower-shipment-rush-pushes-perishable-logistics-networks-to-new-limits
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_702f93a1714d411680caad8c94219579~mv2.png
 imageAlt: 'Çiçek Sevkiyatındaki Zorlu Maraton: Lojistik Ağlar Sınırlarını Zorluyor'

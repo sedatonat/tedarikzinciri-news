@@ -2,6 +2,7 @@
 title: Alternatif Yakıtlar Hakkında Bilinmesi Gereken Üç Şey
 subtitle: Alternatif Yakıtlar Hakkında Bilinmesi Gereken Üç Şey
 date: '2025-05-27T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41688-three-things-to-know-about-alternative-fuels
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_bdf8839e4ee94c37a8e8b5b2022e9302~mv2.png
 imageAlt: Alternatif Yakıtlar Hakkında Bilinmesi Gereken Üç Şey

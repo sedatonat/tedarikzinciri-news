@@ -2,6 +2,7 @@
 title: Pakistan Offers Bangladesh Use of Karachi Port to Facilitate Trade with China
 subtitle: Pakistan Offers Bangladesh Use of Karachi Port to Facilitate Trade with China
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://container-news.com/pakistan-offers-bangladesh-to-use-its-karachi-port-trust-to-facilitate-trade-with-china/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a37351dd244c414d8b5981d4dfd310a7~mv2.jpg
 imageAlt: Pakistan has proposed allowing Bangladesh to use the Karachi Port Trust (KPT) to facilitate its trade with China and other countries. The proposal was raised at the 9th Bangladesh–Pakistan Joint Economic Commission meeting.

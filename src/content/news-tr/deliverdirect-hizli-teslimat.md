@@ -2,6 +2,7 @@
 title: DeliverDirect, Küçük Paket Teslimatında Yeni Bir Dönem Başlattı
 subtitle: DeliverDirect, Küçük Paket Teslimatında Yeni Bir Dönem Başlattı
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/spons/deliverdirect-redefines-small-package-delivery-as-traditional-carriers-shri/803301/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b2c611065ecc41f68b9b1d066ef9e879~mv2.jpg
 imageAlt: Delta Cargo’nun SmartKargo iş birliğiyle geliştirdiği DeliverDirect, Delta Air Lines’ın uçuş ağını kullanarak küçük paket taşımacılığında hız, şeffaflık ve maliyet avantajı sunan yeni bir teslimat modeli oluşturdu.

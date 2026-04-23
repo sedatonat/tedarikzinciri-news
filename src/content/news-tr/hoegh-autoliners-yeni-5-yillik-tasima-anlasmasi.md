@@ -2,6 +2,7 @@
 title: Höegh Autoliners, Büyük Bir Uluslararası Otomobil Üreticisi ile 5 Yıllık Yeni Taşıma Anlaşması İmzaladı
 subtitle: Höegh Autoliners, Büyük Bir Uluslararası Otomobil Üreticisi ile 5 Yıllık Yeni Taşıma Anlaşması İmzaladı
 date: '2024-12-06T09:00:00Z'
+sourceUrl: https://splash247.com/hoegh-autoliners-secures-new-five-year-car-shipping-deal/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_eed03f1990054183b4ed97986bcbfe08~mv2.jpg
 imageAlt: Höegh Autoliners, Büyük Bir Uluslararası Otomobil Üreticisi ile 5 Yıllık Yeni Taşıma Anlaşması İmzaladı

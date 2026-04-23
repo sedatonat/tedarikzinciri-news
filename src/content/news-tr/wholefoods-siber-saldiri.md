@@ -2,6 +2,7 @@
 title: Siber Saldırı Tedarikçiyi Vurdu, Whole Foods Rafları Boş Kaldı
 subtitle: Siber Saldırı Tedarikçiyi Vurdu, Whole Foods Rafları Boş Kaldı
 date: '2025-06-14T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42021-cyberattack-on-supplier-causes-empty-shelves-at-whole-foods
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_4cef3eec4341451eadcfe3ba722a698d~mv2.png
 imageAlt: Siber Saldırı Tedarikçiyi Vurdu, Whole Foods Rafları Boş Kaldı

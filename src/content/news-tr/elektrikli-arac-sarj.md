@@ -2,6 +2,7 @@
 title: 'ABD’de Bir İlk: Otoyol, Elektrikli Kamyonları Seyir Halindeyken Şarj Ediyor'
 subtitle: 'ABD’de Bir İlk: Otoyol, Elektrikli Kamyonları Seyir Halindeyken Şarj Ediyor'
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/wireless-charging-electric-truck-roadway-purdue-university
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_c77a22a992d74091a41ee947a9288668~mv2.jpg
 imageAlt: Purdue University araştırmacılarının Indiana’da gerçekleştirdiği testte, asfalt altına yerleştirilen bobinlerle ağır vasıta elektrikli kamyonların seyir hâlindeyken kablosuz olarak şarj edilmesi ve bu teknolojinin uzun mesafe taşımacılığına etkilerinin detaylı özeti

@@ -2,6 +2,7 @@
 title: 'New York City, Yük Taşımacılığında Su Yollarını Devreye Alıyor: Blue Highways Pilot Programı Başladı'
 subtitle: 'New York City, Yük Taşımacılığında Su Yollarını Devreye Alıyor: Blue Highways Pilot Programı Başladı'
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/nyc-blue-highways-water-freight-pilot
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c0f47e05131942b0a46e8eda6dd83f85~mv2.jpg
 imageAlt: New York City’nin Blue Highways programı kapsamında Manhattan–Brooklyn arasında başlattığı su yolu bazlı freight pilotu, kamyon trafiğini azaltma hedefi, elektrikli cargo bike entegrasyonu ve kentsel lojistikte dayanıklılık arayışının detaylı özeti

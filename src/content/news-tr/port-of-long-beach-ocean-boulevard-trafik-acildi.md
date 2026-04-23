@@ -2,6 +2,7 @@
 title: Port of Long Beach, Ocean Boulevard ve Vincent Thomas Bridge'i Trafiğe Yeniden Açtı
 subtitle: Port of Long Beach, Ocean Boulevard ve Vincent Thomas Bridge'i Trafiğe Yeniden Açtı
 date: '2024-09-30T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/port-of-long-beach-reports-road-reopening-after-battery-fire/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a1def5de47884e269654036cf902effc~mv2.jpg
 imageAlt: Port of Long Beach, Ocean Boulevard ve Vincent Thomas Bridge'i Trafiğe Yeniden Açtı

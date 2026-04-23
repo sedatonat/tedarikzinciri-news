@@ -2,6 +2,7 @@
 title: 'Britanya: Rus Yantar Gemisi Tehdit Olursa “Askerî Seçenekler Hazır”'
 subtitle: 'Britanya: Rus Yantar Gemisi Tehdit Olursa “Askerî Seçenekler Hazır”'
 date: '2025-11-19T09:00:00Z'
+sourceUrl: https://gcaptain.com/uk-says-military-options-ready-as-russian-ship-uses-lasers-against-raf-pilots/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_938d227faad940a7ab2a46f6d5c1c426~mv2.jpg
 imageAlt: Rus casus gemisi Yantar’ın RAF pilotlarına lazer tuttuğu olay sonrası İngiltere Savunma Bakanı, geminin tehdit oluşturması hâlinde askeri seçeneklerin devreye gireceğini açıkladı.

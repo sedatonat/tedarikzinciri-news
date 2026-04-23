@@ -2,6 +2,7 @@
 title: 'Kamu İhale Sistemi Dijitalleşiyor: Sertifika Dönemi Başlıyor'
 subtitle: 'Kamu İhale Sistemi Dijitalleşiyor: Sertifika Dönemi Başlıyor'
 date: '2025-01-14T09:00:00Z'
+sourceUrl: https://www.yenisafak.com/ekonomi/ihale-sistemi-sil-bastan-4669727
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_d358e4247eb14d85b385dd9711139901~mv2.jpg
 imageAlt: 1983 ve 2002 tarihli kamu ihale mevzuatının dijital platform, sertifika sistemi ve merkezi veri kaydıyla tamamen yenileneceğini anlatan geniş kapsamlı reform özeti.

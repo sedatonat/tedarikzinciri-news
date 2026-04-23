@@ -2,6 +2,7 @@
 title: Singapore's New Step to Boost LNG Potential
 subtitle: Singapore's New Step to Boost LNG Potential
 date: '2024-12-27T09:00:00Z'
+sourceUrl: https://splash247.com/equatorial-books-lng-bunkering-newbuild-at-cimc-soe/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e0ff53d8aa994ee8be4a4082181eead3~mv2.jpg
 imageAlt: Singapore's New Step to Boost LNG Potential

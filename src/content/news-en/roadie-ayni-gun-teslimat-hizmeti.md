@@ -2,6 +2,7 @@
 title: Roadie Launches Same-Day Delivery Service for Big and Bulky Goods
 subtitle: Roadie Launches Same-Day Delivery Service for Big and Bulky Goods
 date: '2024-06-05T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10368-roadie-launches-same-day-delivery-for-big-and-bulky-goods
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c4522c2a040f4c648d1b5d307b652486~mv2.png
 imageAlt: Roadie Launches Same-Day Delivery Service for Big and Bulky Goods

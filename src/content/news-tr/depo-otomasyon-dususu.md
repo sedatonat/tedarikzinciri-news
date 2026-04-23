@@ -2,6 +2,7 @@
 title: Depo Otomasyonu Siparişlerinde Düşüş ve 2024'te Beklenen Toparlanma
 subtitle: Depo Otomasyonu Siparişlerinde Düşüş ve 2024'te Beklenen Toparlanma
 date: '2025-02-05T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/warehouse-automation-orders-dropped-2024-recovery-expected
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_38d00159bc4a4ec9b7f34bccf83f68ba~mv2.jpg
 imageAlt: Depo Otomasyonu Siparişlerinde Düşüş ve 2024'te Beklenen Toparlanma

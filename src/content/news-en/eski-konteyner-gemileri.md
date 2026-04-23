@@ -2,6 +2,7 @@
 title: 'Cleaner Than New Ships: Container Vessels Aged 11–15 Years Show Best Emissions Performance'
 subtitle: 'Cleaner Than New Ships: Container Vessels Aged 11–15 Years Show Best Emissions Performance'
 date: '2025-11-11T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/older-container-ships-running-cleaner-than-new-fleets
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a1ccce3c31924461b0110b058b1608c6~mv2.jpg
 imageAlt: According to VesselBot's analysis of 73,000+ vessel transits, container ships aged 11–15 years produce lower emissions than new fleets thanks to route selection, loading optimization, and speed optimization; larger, fully-loaded vessels are far more efficient compared to smaller ships.

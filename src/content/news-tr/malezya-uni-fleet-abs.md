@@ -2,6 +2,7 @@
 title: Malezya Merkezli Uni-Fleet, Bakım ve Satınalma Operasyonlarını Optimize Etmek için ABS
 subtitle: Malezya Merkezli Uni-Fleet, Bakım ve Satınalma Operasyonlarını Optimize Etmek için ABS
 date: '2024-12-18T09:00:00Z'
+sourceUrl: https://gcaptain.com/malaysia-based-uni-fleet-chooses-abs-wavesight-nautical-systems-to-optimize-maintenance-and-purchasing-operations/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_48a602b832bf4f83a75a6cd2e974c96a~mv2.png
 imageAlt: Malezya Merkezli Uni-Fleet, Bakım ve Satın Alma Operasyonlarını Optimize Etmek İçin ABS

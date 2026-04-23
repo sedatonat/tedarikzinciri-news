@@ -2,6 +2,7 @@
 title: Product Tanker Fleet to Reach 16-Year High in 2025
 subtitle: Product Tanker Fleet to Reach 16-Year High in 2025
 date: '2025-01-16T09:00:00Z'
+sourceUrl: https://gcaptain.com/product-tanker-fleet-growth-to-hit-16-year-high-in-2025-bimco-reports/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d47bdc0d0ad3468c88d8ca3d4fc157f1~mv2.jpg
 imageAlt: Product Tanker Fleet to Reach 16-Year High in 2025

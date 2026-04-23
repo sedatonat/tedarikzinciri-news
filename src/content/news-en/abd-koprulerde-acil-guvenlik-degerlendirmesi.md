@@ -2,6 +2,7 @@
 title: Urgent Safety Assessment Launched on U.S. Bridges
 subtitle: Urgent Safety Assessment Launched on U.S. Bridges
 date: '2024-05-29T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10330-engineers-launch-urgent-safety-assessment-of-us-bridges-near-ports
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5e74bc7934084e5e8a08cee9ba9451bd~mv2.jpg
 imageAlt: Urgent Safety Assessment Launched on U.S. Bridges

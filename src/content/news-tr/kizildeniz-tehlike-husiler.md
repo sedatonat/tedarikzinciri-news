@@ -2,6 +2,7 @@
 title: 'Kızıldeniz''de Tehlike: Yemen''in Husileri Ateşkesi İzleyecek, Ancak Gemiler Hâlâ Risk Altında'
 subtitle: 'Kızıldeniz''de Tehlike: Yemen''in Husileri Ateşkesi İzleyecek, Ancak Gemiler Hâlâ Risk Altında'
 date: '2025-01-16T09:00:00Z'
+sourceUrl: https://gcaptain.com/red-sea-roulette-yemens-houthis-to-monitor-ceasefire-but-ships-remain-at-risk/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7db01c48f6354fb196352adef628e1dc~mv2.jpg
 imageAlt: 'Kızıldeniz''de Tehlike: Yemen''in Husileri Ateşkesi İzleyecek, Ancak Gemiler Hâlâ Risk Altında'

@@ -2,6 +2,7 @@
 title: Çin, ABD–Çin Ticaret Yumuşamasının Ardından Brezilya Soya Fasulyesi Alımlarını Artırdı
 subtitle: Çin, ABD–Çin Ticaret Yumuşamasının Ardından Brezilya Soya Fasulyesi Alımlarını Artırdı
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://gcaptain.com/chinese-buyers-purchase-brazilian-soybeans-as-prices-ease-over-us-china-trade-thaw/
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_0a1f71b23bab4ea29dca36e9cbbc045d~mv2.jpg
 imageAlt: Çinli ithalatçıların Brezilya’dan daha ucuz hâle gelen soya fasulyesi yüklerini ABD–Çin ticaret uzlaşısı beklentisiyle hızla satın almasını açıklayan detaylı haber özeti.

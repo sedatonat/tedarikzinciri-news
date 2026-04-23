@@ -2,6 +2,7 @@
 title: 'Denmark Prepares for 2029 Fehmarnbelt Era with iPort Zealand: €1 Billion Mega Logistics Investment'
 subtitle: 'Denmark Prepares for 2029 Fehmarnbelt Era with iPort Zealand: €1 Billion Mega Logistics Investment'
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://www.railfreight.com/intermodal/2025/12/08/denmark-gets-ready-for-fehmarnbelt-tunnel-with-1-bn-euros-mega-hub/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6c582ae038ce4556b76bcd857ee0b2a4~mv2.jpg
 imageAlt: iPort Zealand's €1 billion investment in Ringsted, capacity to shift 720 trucks to rail, the North European logistics transformation upon Fehmarnbelt tunnel opening, and detailed overview of intermodal strategy

@@ -2,6 +2,7 @@
 title: Crude Oil Loadings Delayed 2–3 Days at Novorossiysk Following Ukrainian Attack
 subtitle: Crude Oil Loadings Delayed 2–3 Days at Novorossiysk Following Ukrainian Attack
 date: '2025-11-18T09:00:00Z'
+sourceUrl: https://gcaptain.com/russias-novorossiysk-behind-schedule-on-loadings-due-to-jetty-damage/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_58c2039ae77147349874ab313eae4ae3~mv2.jpg
 imageAlt: Ukrainian attack on the Sheskharis terminal at Novorossiysk port has damaged Suezmax jetties, causing 2–3 day delays in Russia's crude oil loadings.

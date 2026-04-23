@@ -2,6 +2,7 @@
 title: Russia Proposes Strategic Cooperation with India in Ice-Class and Green Shipbuilding
 subtitle: Russia Proposes Strategic Cooperation with India in Ice-Class and Green Shipbuilding
 date: '2025-11-18T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384618/
 category: Lojistik
 image: https://static.wixstatic.com/media/nsplsh_025e4b30a3bb45d49eea6c105c93e29d~mv2.jpg
 imageAlt: Russia presented India with a comprehensive shipbuilding cooperation package including ice-class vessels, fishing and passenger ship designs, green shipbuilding, R&D, crew training, and the establishment of joint shipyard clusters in Mumbai and Chennai.

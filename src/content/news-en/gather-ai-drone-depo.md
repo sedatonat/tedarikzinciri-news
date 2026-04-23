@@ -2,6 +2,7 @@
 title: Gather AI Shifts From Drone Vision to Warehouse Intelligence
 subtitle: Gather AI Shifts From Drone Vision to Warehouse Intelligence
 date: '2025-10-24T09:00:00Z'
+sourceUrl: https://www.scmr.com/article/gather-ais-next-chapter-from-drone-vision-to-warehouse-intelligence
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_29ce9f918845411cacc10a69fc6752b3~mv2.jpeg
 imageAlt: Gather AI Transitioning From Drone Vision to Warehouse Intelligence

@@ -2,6 +2,7 @@
 title: Effective Strategies Against Return Fraud in the Retail Sector
 subtitle: Effective Strategies Against Return Fraud in the Retail Sector
 date: '2024-04-24T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10163-five-ways-to-tackle-return-fraud
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_93f0982cb652423a9cfe22ec87072b3f~mv2.jpg
 imageAlt: Effective Strategies Against Return Fraud in the Retail Sector

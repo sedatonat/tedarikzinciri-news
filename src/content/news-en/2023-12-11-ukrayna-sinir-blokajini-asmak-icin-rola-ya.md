@@ -2,6 +2,7 @@
 title: Ukraine Turns to Ro-La to Break Border Blockade
 subtitle: Ukraine Turns to Ro-La to Break Border Blockade
 date: '2023-12-11T09:00:00Z'
+sourceUrl: https://www.railfreight.com/railfreight/2023/12/08/ukrainian-railways-puts-trucks-on-trains-to-break-border-blockade/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_556ae4eb0fbd44aea42ea4595be1a815~mv2.jpg
 imageAlt: Ukraine Turns to Ro-La to Break Border Blockade

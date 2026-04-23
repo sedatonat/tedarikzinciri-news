@@ -2,6 +2,7 @@
 title: Protests in Libya Halt Oil Shipments at Eastern Ports
 subtitle: Protests in Libya Halt Oil Shipments at Eastern Ports
 date: '2025-01-29T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/372863/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_a65fd43ba7f746359a1f36cb9a8dd7c0~mv2.jpg
 imageAlt: Protests in Libya Halt Oil Shipments at Eastern Ports

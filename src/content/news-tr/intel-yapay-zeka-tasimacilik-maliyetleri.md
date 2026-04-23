@@ -2,6 +2,7 @@
 title: Intel, Taşımacılık Maliyetlerini Yapay Zekâ Destekli “Rate Request Automation” ile Radikal Şekilde Azalttı
 subtitle: Intel, Taşımacılık Maliyetlerini Yapay Zekâ Destekli “Rate Request Automation” ile Radikal Şekilde Azalttı
 date: '2025-11-19T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42690-intel-radically-streamlines-its-transportation-spend-with-rate-request-automation
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_d3e9b11d4fd442dbbadad2a24eb58b1a~mv2.jpg
 imageAlt: Intel, küresel lojistik taşıma ücretlerini yönetmek için geliştirdiği Rate Request Automation (RRA) sistemiyle, teklif toplama, sözleşme yenileme, denetim ve maliyet optimizasyonunu uçtan uca otomatikleştirdi; 20 milyon $ sözleşmeli, 4 milyon $ sözleşmesiz tasarruf elde etti ve teklif süreçlerini 10 kat hızlandırdı.

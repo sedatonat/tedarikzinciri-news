@@ -2,6 +2,7 @@
 title: Walmart Opens 1.5M m² Next-Generation Distribution Center in Pennsylvania
 subtitle: Walmart Opens 1.5M m² Next-Generation Distribution Center in Pennsylvania
 date: '2024-05-17T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10279-walmart-opens-fourth-next-generation-fulfillment-center
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_5152d0ebe89a42469466d08e56f60ed9~mv2.jpeg
 imageAlt: Walmart Opens 1.5M m² Next-Generation Distribution Center in Pennsylvania

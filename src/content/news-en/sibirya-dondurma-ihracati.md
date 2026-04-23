@@ -2,6 +2,7 @@
 title: 'Siberian Ice Cream Exports: Stable 3,500-Ton Performance in 2025'
 subtitle: 'Siberian Ice Cream Exports: Stable 3,500-Ton Performance in 2025'
 date: '2025-11-10T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/11/10/en-ice-cream-export-from-siberia/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_222567fff5a64fdcbdca9207c713bee9~mv2.jpg
 imageAlt: In the first nine months of 2025, Siberia exported 3,500 tons of ice cream; Kazakhstan dominated as the main market with a 69% share, while exports to Uzbekistan, Armenia, and Turkmenistan increased significantly.

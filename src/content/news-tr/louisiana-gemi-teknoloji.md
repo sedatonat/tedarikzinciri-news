@@ -2,6 +2,7 @@
 title: 'Louisiana’da Gemi İnşa Sektöründe Yeniden Canlanma: Yapay Zekâlı ve Otonom Gemiler Dönemi'
 subtitle: 'Louisiana’da Gemi İnşa Sektöründe Yeniden Canlanma: Yapay Zekâlı ve Otonom Gemiler Dönemi'
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42739-shipbuilding-revival-in-louisiana-showcases-hi-tech-capabilities
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_8f9d41e94091444aa05b2e6ac6401150~mv2.jpg
 imageAlt: Louisiana eyaletinde gemi inşa sektörü yeniden yükselişe geçti. Metal Shark, HavocAI, Bollinger Shipyards ve Saronic gibi şirketler, otonom gemiler ve Arktik buz kırıcılar üretiminde rol alarak ABD’nin yüksek teknoloji odaklı denizcilik vizyonunu şekillendiriyor.

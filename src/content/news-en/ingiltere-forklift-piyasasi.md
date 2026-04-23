@@ -2,6 +2,7 @@
 title: Forklift Market Poised for Gradual Recovery as Confidence Builds from 2026
 subtitle: Forklift Market Poised for Gradual Recovery as Confidence Builds from 2026
 date: '2025-11-28T09:00:00Z'
+sourceUrl: https://warehousinglogisticsinternational.com/forklift-market-positions-for-recovery-as-confidence-expected-to-build-from-2026/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_d6ef6b716b2044c486872df70b260523~mv2.jpg
 imageAlt: UK Forklift Truck Market Outlook report prepared by Oxford Economics detailing weak demand in 2025, expected recovery in 2026, and detailed segment-based order projections

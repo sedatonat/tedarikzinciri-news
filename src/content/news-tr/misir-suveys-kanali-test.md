@@ -2,6 +2,7 @@
 title: Mısır, Yeni Süveyş Kanalı Uzantısının Deneme Geçişini Tamamladı
 subtitle: Mısır, Yeni Süveyş Kanalı Uzantısının Deneme Geçişini Tamamladı
 date: '2024-12-28T09:00:00Z'
+sourceUrl: https://gcaptain.com/egypt-completes-trial-run-of-new-suez-canal-channel-extension/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2e1a99f79b994d7e878d988a404c0ba3~mv2.jpg
 imageAlt: Mısır, Yeni Süveyş Kanalı Uzantısının Deneme Geçişini Tamamladı

@@ -2,6 +2,7 @@
 title: Bangladeş, 550 Milyon Dolarlık Laldia Terminali İçin İmtiyaz Anlaşmasını Resmen Onayladı
 subtitle: Bangladeş, 550 Milyon Dolarlık Laldia Terminali İçin İmtiyaz Anlaşmasını Resmen Onayladı
 date: '2025-11-17T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/bangladesh-confirms-550-million-laldia-terminal-project/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_bf43403df6de4c9ebfaed3fda1d0a5cd~mv2.jpg
 imageAlt: Bangladeş, Chattogram’daki Laldia Container Terminali için APM Terminals ve QNS Container Services ile 550 milyon dolarlık PPP anlaşması imzalayarak ülkenin yıllık kapasitesini 800.000 TEU artıracak, 6.000 TEU gemileri ağırlayacak ve 2030’da faaliyete geçecek düşük emisyonlu derin su terminalinin yolunu açtı.

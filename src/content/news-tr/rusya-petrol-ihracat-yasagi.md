@@ -2,6 +2,7 @@
 title: Rusya, Benzin İhracat Yasağını 2025 Sonuna Kadar Uzattı
 subtitle: Rusya, Benzin İhracat Yasağını 2025 Sonuna Kadar Uzattı
 date: '2025-10-13T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/10/13/en-car-petrol-export-ban-extended-2/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_d2d350a75d7e492a95cee63df0848262~mv2.jpg
 imageAlt: Rusya, Benzin İhracat Yasağını 2025 Sonuna Kadar Uzattı

@@ -2,6 +2,7 @@
 title: Charting the Future Course in Demand Forecasting
 subtitle: Charting the Future Course in Demand Forecasting
 date: '2025-05-05T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41647-navigating-the-future-of-demand-forecasting
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_791627cce58749aa89c4d1be4fd3a029~mv2.png
 imageAlt: Charting the Future Course in Demand Forecasting

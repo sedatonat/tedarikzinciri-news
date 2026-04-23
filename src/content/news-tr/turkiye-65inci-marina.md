@@ -2,6 +2,7 @@
 title: 'Türkiye 65’inci Marinasını Açtı: Denizcilik ve Lojistikte Küresel Konum Güçleniyor'
 subtitle: 'Türkiye 65’inci Marinasını Açtı: Denizcilik ve Lojistikte Küresel Konum Güçleniyor'
 date: '2025-11-11T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384343/
 category: Lojistik
 image: https://static.wixstatic.com/media/0cf27a8746ec4dd887e5a716f301b49b.jpg
 imageAlt: Gazipaşa Marina’nın açılmasıyla Türkiye’nin marina sayısı 65’e yükseldi; Uraloğlu sektördeki büyümeyi, ticaret filosunun 53,1 milyon DWT seviyesine çıkmasını, Aliağa’nın dünya ilk 100 liman arasına girmesini ve kruvaziyer ile yat turizmindeki artışı vurguladı.

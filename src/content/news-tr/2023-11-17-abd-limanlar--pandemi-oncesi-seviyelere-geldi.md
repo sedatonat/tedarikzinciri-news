@@ -2,6 +2,7 @@
 title: ABD Limanları İşleme Hacimleri Pandemi Öncesi Seviyelere Döndü
 subtitle: ABD Limanları İşleme Hacimleri Pandemi Öncesi Seviyelere Döndü
 date: '2023-11-20T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/largest-us-ports-by-volume-month-coast-cargo-trends/693493/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_9e5cf911a4954d45be86173f2247ec09~mv2.jpg
 imageAlt: ABD Limanları İşleme Hacimleri Pandemi Öncesi Seviyelere Döndü

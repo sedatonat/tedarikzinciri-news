@@ -2,6 +2,7 @@
 title: 'Dieselgate’in Ardından: Otomobil Üreticileri İngiltere’de Yargılanacak'
 subtitle: 'Dieselgate’in Ardından: Otomobil Üreticileri İngiltere’de Yargılanacak'
 date: '2025-10-13T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42651-carmakers-face-uk-trial-a-decade-after-dieselgate-scandal
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_bb7220e5ca7948b3b1a6e16b3ca3cbca~mv2.png
 imageAlt: 'Dizelgate’in Ardından: Otomobil Üreticileri İngiltere’de Yargılanacak'

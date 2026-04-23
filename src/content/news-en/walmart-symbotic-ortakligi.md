@@ -2,6 +2,7 @@
 title: 'Walmart and Symbotic Strategic Partnership: Robotics Business Sale and 400 Automation Center Investment'
 subtitle: 'Walmart and Symbotic Strategic Partnership: Robotics Business Sale and 400 Automation Center Investment'
 date: '2025-01-21T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/walmart-sells-robotics-business-supply-chain-automation-symbotic/737763/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_f7acf89d2f864c7ab5479b74fd627ab4~mv2.jpg
 imageAlt: 'Walmart and Symbotic Strategic Partnership: Robotics Business Sale and 400 Automation Center Investment'

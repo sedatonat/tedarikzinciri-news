@@ -2,6 +2,7 @@
 title: Illinois Üniversitesi Tarafından yayınlanan araştırmaya göre, Amazon tesislerinde işçi sağlığı ikinci planda
 subtitle: Illinois Üniversitesi Tarafından yayınlanan araştırmaya göre, Amazon tesislerinde işçi sağlığı ikinci planda
 date: '2023-10-27T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/38371-amazon-injuries-more-widespread-than-thought-study-says
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_20bdc0623e88456caa44e19cbc4a5072~mv2.jpg
 wixId: d8f459f8-9994-41df-a23c-933af3f7d600

@@ -2,6 +2,7 @@
 title: U.S. Justice Department Reaches $103 Million Settlement with Grace Ocean and Synergy Marine
 subtitle: U.S. Justice Department Reaches $103 Million Settlement with Grace Ocean and Synergy Marine
 date: '2024-10-25T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/us-obtains-100-million-settlement-for-baltimore-bridge-collapse/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_fcfe9fbcd21b4f928c435149ca677c93~mv2.jpg
 imageAlt: U.S. Justice Department Reaches $103 Million Settlement with Grace Ocean and Synergy Marine

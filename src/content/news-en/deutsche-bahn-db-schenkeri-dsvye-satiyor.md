@@ -2,6 +2,7 @@
 title: Deutsche Bahn Selling DB Schenker to DSV
 subtitle: Deutsche Bahn Selling DB Schenker to DSV
 date: '2024-10-02T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/db-schenker-sale-receives-approval/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_cf235d5d8ed44059a0bbebb562c0edd2~mv2.jpg
 imageAlt: Deutsche Bahn Selling DB Schenker to DSV

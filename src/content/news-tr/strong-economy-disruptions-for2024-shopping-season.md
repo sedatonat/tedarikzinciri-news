@@ -2,6 +2,7 @@
 title: 2024 Alışveriş Sezonunda Ekonomi ve Dalgalanmalar Dengesi
 subtitle: 2024 Alışveriş Sezonunda Ekonomi ve Dalgalanmalar Dengesi
 date: '2024-12-12T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40819-how-strong-economy-year-of-disruptions-defined-2024s-shopping-season
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_f91a1f48696e46fe99141a64ea605334~mv2.jpg
 imageAlt: 2024 Alışveriş Sezonunda Ekonomi ve Dalgalanmalar Dengesi

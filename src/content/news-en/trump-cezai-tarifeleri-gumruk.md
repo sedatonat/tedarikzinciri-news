@@ -2,6 +2,7 @@
 title: Trump's Punitive Tariffs on Canada and Mexico Take Effect
 subtitle: Trump's Punitive Tariffs on Canada and Mexico Take Effect
 date: '2025-03-04T09:00:00Z'
+sourceUrl: https://shippingwatch.com/regulation/article17960582.ece
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_35a9357dcb7a44f88bb90ab710d700e1~mv2.jpg
 imageAlt: Trump's Punitive Tariffs on Canada and Mexico Take Effect

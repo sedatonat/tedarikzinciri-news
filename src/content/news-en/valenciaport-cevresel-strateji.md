@@ -2,6 +2,7 @@
 title: 'Valenciaport Unveils New Environmental Strategy: Net Zero, Green Corridors and Hydrogen at the Core'
 subtitle: 'Valenciaport Unveils New Environmental Strategy: Net Zero, Green Corridors and Hydrogen at the Core'
 date: '2025-11-12T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/valenciaport-unveils-new-environmental-strategy/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_69951156436a41f58649b848cbbb2cf8~mv2.jpeg
 imageAlt: Valenciaport strengthened its climate adaptation and sustainable port goals through its new environmental strategy unveiled at Ecofira 2025, featuring a Net Zero Plan, renewable energy, shore-power (OPS), alternative fuels, green corridors and the Hydrogen Valley project in Sagunto.

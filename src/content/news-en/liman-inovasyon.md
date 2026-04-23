@@ -2,6 +2,7 @@
 title: Ports Accelerate Digitalization and Innovation Investments Despite October 2025 Headwinds
 subtitle: Ports Accelerate Digitalization and Innovation Investments Despite October 2025 Headwinds
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/ports-fast-track-innovation-amid-headwinds-in-october-2025/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_9388e3fd635c4a62b2dfa24ce4b9842f~mv2.jpg
 imageAlt: October 2025 stood out for intense investment, automation, and digital transformation projects across global maritime trade and port operations. DP World's new initiatives in Africa and Europe, expectations for Suez Canal reopening, and the impact of labor strikes revealed both opportunities and vulnerabilities in the sector.

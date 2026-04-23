@@ -2,6 +2,7 @@
 title: Barcelona Port Shifts into Higher Gear on Carbon-Free Logistics with €265 Million New Rail Hub
 subtitle: Barcelona Port Shifts into Higher Gear on Carbon-Free Logistics with €265 Million New Rail Hub
 date: '2025-12-02T09:00:00Z'
+sourceUrl: https://container-news.com/port-of-barcelona-approves-e265m-south-rail-hub/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_9b5e26dbe01a4a68b292e6daa04f72e5~mv2.jpg
 imageAlt: Barcelona Port's €265 million South Rail Hub project to be built by transforming the former Llobregat riverbed, detailed news summary covering modal shift strategy, carbon reduction, and impact on European logistics infrastructure

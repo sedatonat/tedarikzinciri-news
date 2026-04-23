@@ -2,6 +2,7 @@
 title: Kazakhstan Reaffirms Plan for Special Logistics Terminal at Iran's Shahid Rajaee Port
 subtitle: Kazakhstan Reaffirms Plan for Special Logistics Terminal at Iran's Shahid Rajaee Port
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385721/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e08fff0a78504989b577cbea9313295c~mv2.jpg
 imageAlt: A detailed overview of Kazakhstan's renewed commitment to establishing a special logistics terminal at Iran's Shahid Rajaee Port, detailing its impact on the Kazakhstan–Turkmenistan–Iran corridor, Central Asia's maritime access strategy, and alternative transit routes outside the Middle Corridor

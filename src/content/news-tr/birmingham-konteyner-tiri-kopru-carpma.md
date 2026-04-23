@@ -2,6 +2,7 @@
 title: Birmingham'da Bir Haftada Üç Ciddi Konteyner Tırı Köprü Çarpması
 subtitle: Birmingham'da Bir Haftada Üç Ciddi Konteyner Tırı Köprü Çarpması
 date: '2025-01-09T09:00:00Z'
+sourceUrl: https://www.railfreight.com/railfreight/2025/01/09/multiple-serious-bridge-strikes-in-birmingham/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_bf11148a16dd41ceb68456c427220b77~mv2.jpg
 imageAlt: Birmingham'da Bir Haftada Üç Ciddi Köprü Çarpması

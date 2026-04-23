@@ -2,6 +2,7 @@
 title: NorthStandard Eases FuelEU Compliance with BetterSea Partnership
 subtitle: NorthStandard Eases FuelEU Compliance with BetterSea Partnership
 date: '2025-02-14T09:00:00Z'
+sourceUrl: https://gcaptain.com/northstandard-eases-fueleu-compliance-with-bettersea-platform-offer/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_debd7dd6282144328c38f4427d184cb8~mv2.png
 imageAlt: NorthStandard Eases FuelEU Compliance with BetterSea Partnership

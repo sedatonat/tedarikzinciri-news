@@ -2,6 +2,7 @@
 title: RAIN RFID Boosts Logistics Visibility by Reducing Delivery Errors
 subtitle: RAIN RFID Boosts Logistics Visibility by Reducing Delivery Errors
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/why-holiday-packages-still-get-misrouted
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_532823d09997466abf38d2e7f70320d6~mv2.jpg
 imageAlt: A detailed summary of how Impinj's RAIN RFID technology eliminates root causes of misload and delivery errors, with a UPS example showing measurable operational gains and impact on logistics accuracy during peak seasons

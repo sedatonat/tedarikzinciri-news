@@ -2,6 +2,7 @@
 title: Iranian Tankers Return to "Dark Operations" After Three Days of Visibility
 subtitle: Iranian Tankers Return to "Dark Operations" After Three Days of Visibility
 date: '2025-10-21T09:00:00Z'
+sourceUrl: https://gcaptain.com/iranian-tankers-go-dark-again-after-three-days-of-unusual-ais-transparency/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b093509a20f3474ca548b41354f72250~mv2.jpg
 imageAlt: Iranian Tankers Return to "Dark Operations" After Three Days of Visibility

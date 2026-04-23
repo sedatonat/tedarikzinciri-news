@@ -2,6 +2,7 @@
 title: Alphabet Spinning Off 'Moonshot' Supply Chain Project
 subtitle: Alphabet Spinning Off 'Moonshot' Supply Chain Project
 date: '2025-04-17T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41558-alphabet-spins-off-moonshot-supply-chain-project
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_5c53cc2ec93440db984748aa6599523c~mv2.png
 imageAlt: Alphabet spinning off 'moonshot' supply chain project

@@ -2,6 +2,7 @@
 title: Gather AI Soğuk Depolama Alanında Envanter Zekasını Genişletiyor
 subtitle: Gather AI Soğuk Depolama Alanında Envanter Zekasını Genişletiyor
 date: '2024-11-22T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/40722-gather-ai-expands-into-freezer-and-cold-storage-inventory-intelligence
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_3bea862270b24823b3bdd21349a973fc~mv2.png
 imageAlt: Gather AI Soğuk Depolama Alanında Envanter Zekasını Genişletiyor

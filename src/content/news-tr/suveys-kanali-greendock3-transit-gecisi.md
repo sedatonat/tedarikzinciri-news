@@ -2,6 +2,7 @@
 title: Süveyş Kanalı, 42.000 Tonluk GREEN DOCK 3 Yüzer Havuzunun Geçişini Başarıyla Tamamladı
 subtitle: Süveyş Kanalı, 42.000 Tonluk GREEN DOCK 3 Yüzer Havuzunun Geçişini Başarıyla Tamamladı
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://container-news.com/suez-canal-successfully-transits-floating-dock-green-dock-3/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_74494102b1ba47908f5ee155d9c65c24~mv2.jpg
 imageAlt: GREEN DOCK 3 adlı dev yüzer havuzun beş römorkör eşliğinde Süveyş Kanalı’ndan 24 saatte gerçekleştirdiği özel geçiş operasyonu, güvenlik prosedürleri, ekonomik etkiler ve global seyrüsefer açısından önemine dair detaylı özet

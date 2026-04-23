@@ -2,6 +2,7 @@
 title: Gürcistan, BTK Hattını Güçlendirecek Yeni Terminal ve Dijital Gümrük Planlarını Açıkladı
 subtitle: Gürcistan, BTK Hattını Güçlendirecek Yeni Terminal ve Dijital Gümrük Planlarını Açıkladı
 date: '2025-10-23T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/10/23/georgia-unveils-big-plans-for-btk-upgrade/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a498628229014d198011ae2a7467696b~mv2.jpg
 imageAlt: Gürcistan, BTK Hattını Güçlendirecek Yeni Terminal ve Dijital Gümrük Planlarını Açıkladı

@@ -2,6 +2,7 @@
 title: CMA CGM ve Edison, Trieste’de İtalya’nın İlk LNG Gemiden Gemiye İkmalini Tamamladı
 subtitle: CMA CGM ve Edison, Trieste’de İtalya’nın İlk LNG Gemiden Gemiye İkmalini Tamamladı
 date: '2025-11-13T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384441/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3bcbe330f590455e902b3a514b3cf376~mv2.jpg
 imageAlt: CMA CGM SALAMANQUE, Trieste Limanı’nda Ravenna Knutsen tarafından LNG ile gemiden gemiye ikmal alan ilk konteyner gemisi oldu; operasyon, İtalya’nın LNG bunker altyapısının gelişiminde önemli bir kilometre taşı niteliğinde.

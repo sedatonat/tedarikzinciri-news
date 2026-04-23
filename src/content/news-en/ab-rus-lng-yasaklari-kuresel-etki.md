@@ -2,6 +2,7 @@
 title: The Global Gas Market Impact of the EU's Russian LNG Ban
 subtitle: The Global Gas Market Impact of the EU's Russian LNG Ban
 date: '2024-05-14T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/39700-what-eu-sanctions-on-russian-lng-would-mean-for-global-gas
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_227edfe2248445eca4f65181c66adf34~mv2.jpg
 imageAlt: The Global Gas Market Impact of the EU's Russian LNG Ban

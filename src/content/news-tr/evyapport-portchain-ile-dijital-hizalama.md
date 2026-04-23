@@ -2,6 +2,7 @@
 title: Evyapport, Portchain Connect ile İskele Hizalamasını Dijitalleştiriyor
 subtitle: Evyapport, Portchain Connect ile İskele Hizalamasını Dijitalleştiriyor
 date: '2024-03-14T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/evyapport-joins-the-portchain-connect-network/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c3fb156df10349efbd26a30d33abe34e~mv2.jpg
 imageAlt: Evyapport, Portchain Connect ile İskele Hizalamasını Dijitalleştiriyor

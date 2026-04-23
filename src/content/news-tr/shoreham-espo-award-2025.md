@@ -2,6 +2,7 @@
 title: Shoreham Port, Kapsayıcılık Stratejisiyle 2025 ESPO Ödülünü Kazandı
 subtitle: Shoreham Port, Kapsayıcılık Stratejisiyle 2025 ESPO Ödülünü Kazandı
 date: '2025-11-10T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/shoreham-port-wins-espo-award-for-inclusion/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0430abdaa53a4237a59a8b8f725ade54~mv2.jpg
 imageAlt: Shoreham Port, kadın çalışanları destekleyen Diversity & Inclusion Strategy projesiyle 2025 ESPO Ödülü’nü kazandı; yönetimde kadın oranı %50–55’e çıktı ve çeşitlilik odaklı dönüşüm limanın gelirini %52 artırdı.

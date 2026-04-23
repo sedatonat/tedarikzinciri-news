@@ -2,6 +2,7 @@
 title: Konteyner Taşımacıları Q3 2025’te 5.12 Milyar Dolar Kâr Açıkladı
 subtitle: Konteyner Taşımacıları Q3 2025’te 5.12 Milyar Dolar Kâr Açıkladı
 date: '2025-11-28T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385120/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_649bb2b6c30b4eb4ac0b73e82d5e2390~mv2.jpg
 imageAlt: Sea-Intelligence verilerine göre 2025’in üçüncü çeyreğinde küresel konteyner hatlarının toplam işletme kârındaki düşüş, taşıyıcıların hacim artışı, Red Sea bypass ağları ve EBIT/TEU sonuçlarıyla birlikte detaylı analiz

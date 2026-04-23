@@ -2,6 +2,7 @@
 title: Alphabet to Build $15 Billion Data Center in India
 subtitle: Alphabet to Build $15 Billion Data Center in India
 date: '2025-03-21T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42655-alphabet-to-build-15b-data-hub-in-india
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_cc24b4c9426c43f9b3b94f384fd8f969~mv2.png
 imageAlt: Alphabet to Build $15 Billion Data Center in India

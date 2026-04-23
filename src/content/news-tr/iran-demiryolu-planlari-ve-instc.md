@@ -2,6 +2,7 @@
 title: 'İran''ın Demiryolu Planları ve INSTC''nin Geleceği: Trump''ın Etkisi'
 subtitle: 'İran''ın Demiryolu Planları ve INSTC''nin Geleceği: Trump''ın Etkisi'
 date: '2025-01-21T09:00:00Z'
+sourceUrl: https://www.railfreight.com/beltandroad/2025/01/21/with-trump-behind-the-wheel-are-irans-rail-plans-and-the-instc-in-danger/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5d6499350c9a4b129a58295fe7372267~mv2.png
 imageAlt: 'İran''ın Demiryolu Planları ve INSTC''nin Geleceği: Trump''ın Etkisi'

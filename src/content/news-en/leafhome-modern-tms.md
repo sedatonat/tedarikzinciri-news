@@ -2,6 +2,7 @@
 title: Leaf Home Cuts Logistics Costs by 20% After Modernizing Supply Chain with Uber Freight TMS
 subtitle: Leaf Home Cuts Logistics Costs by 20% After Modernizing Supply Chain with Uber Freight TMS
 date: '2025-11-20T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42743-transforming-the-complex-supply-chain-with-a-modern-tms
 category: Lojistik
 image: https://static.wixstatic.com/media/nsplsh_39507362355131544c4434~mv2.jpg
 imageAlt: Leaf Home digitized its increasingly complex supply chain following rapid growth by deploying Uber Freight's modern TMS platform, achieving 1,000 hours of labor savings, a 20% reduction in FTL costs, and improved delivery performance.

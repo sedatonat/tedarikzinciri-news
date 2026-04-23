@@ -2,6 +2,7 @@
 title: Amazon Workers Strike Over Pay and Working Conditions
 subtitle: Amazon Workers Strike Over Pay and Working Conditions
 date: '2024-12-19T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/amazon-labor-teamsters-strike-seven-domestic-facilities
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_f0d7bb99abb445f298565f869a515bd9~mv2.jpg
 imageAlt: Amazon Workers Strike Over Pay and Working Conditions

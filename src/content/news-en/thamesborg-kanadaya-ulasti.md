@@ -2,6 +2,7 @@
 title: Thamesborg's 10-Week Arctic Journey Concludes in Canada
 subtitle: Thamesborg's 10-Week Arctic Journey Concludes in Canada
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://gcaptain.com/cargoship-thamesborg-arrives-in-eastern-canada-after-10-week-odyssey-grounding-in-arctic/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_02497799b6ab4867b59b76ea267dd063~mv2.png
 imageAlt: The general cargo ship Thamesborg, which ran aground in the Arctic while traveling from China to Canada, safely reached Baie Comeau Port after a challenging two-month rescue operation.

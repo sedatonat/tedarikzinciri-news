@@ -2,6 +2,7 @@
 title: 'SAP: The Path to Managing a New Wave of Supply Chain Volatility is Orchestration and Real-Time Collaboration'
 subtitle: 'SAP: The Path to Managing a New Wave of Supply Chain Volatility is Orchestration and Real-Time Collaboration'
 date: '2025-11-14T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42772-coping-with-new-sources-of-supply-chain-volatility-the-more-the-merrier
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_22d5e47c4b2a4d35808a1d196967f707~mv2.jpg
 imageAlt: SAP's Supply Chain Orchestration approach enables companies to manage volatility by connecting their supply chains end-to-end, sharing real-time data, and making AI-powered decisions in the face of rising inflation, tariffs, compliance pressures, talent shortages, and visibility challenges.

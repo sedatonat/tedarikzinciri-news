@@ -2,6 +2,7 @@
 title: Trump, Kanada’nın Gölge Filosuna karşı Görev Gücü Planına Karşı Çıktı
 subtitle: Trump, Kanada’nın Gölge Filosuna karşı Görev Gücü Planına Karşı Çıktı
 date: '2025-03-10T09:00:00Z'
+sourceUrl: https://shippingwatch.com/regulation/article17980781.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5475d488f80c4238ac2c6a40d0c80799~mv2.jpg
 imageAlt: Trump, Kanada’nın Gölge Filosuna karşı Görev Gücü Planına Karşı Çıktı

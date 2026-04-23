@@ -2,6 +2,7 @@
 title: 'Warehouses of the Future: Autonomous Facilities Managed with AI and Robotics'
 subtitle: 'Warehouses of the Future: Autonomous Facilities Managed with AI and Robotics'
 date: '2024-06-04T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10363-microsoft-and-arvato-to-design-self-managing-warehouse-of-the-future
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_2015069e3e0c4a3bac3e2a28646c65b7~mv2.jpg
 imageAlt: 'Warehouses of the Future: Autonomous Facilities Managed with AI and Robotics'

@@ -2,6 +2,7 @@
 title: Emergency Response Launched Following Attacks on Two Tankers in the Black Sea
 subtitle: Emergency Response Launched Following Attacks on Two Tankers in the Black Sea
 date: '2025-11-28T09:00:00Z'
+sourceUrl: https://splash247.com/black-sea-blasts-set-sanctioned-tankers-ablaze-off-turkish-coast/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_91ca45d212a44176b3d0a76fbe8f8abd~mv2.jpg
 imageAlt: Detailed news summary of the explosions that occurred on the Russia-linked Kairos and Virat tankers in the Black Sea, with all crew members evacuated, external impact findings under investigation, and Turkey conducting large-scale maritime security operations in the region

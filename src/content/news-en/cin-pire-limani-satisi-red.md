@@ -2,6 +2,7 @@
 title: 'China: Piraeus Port Is Not for Sale'
 subtitle: 'China: Piraeus Port Is Not for Sale'
 date: '2025-11-21T09:00:00Z'
+sourceUrl: https://shippingwatch.com/Ports/article18767800.ece
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_37b16e322015409ebc80d7268603c2e6~mv2.jpg
 imageAlt: China responded to U.S. statements, confirming that Piraeus Port is not for sale and that COSCO will maintain its strategic presence at the port; the port is one of the most important container hubs at the center of Africa-Asia-Europe trade.

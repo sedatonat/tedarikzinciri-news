@@ -2,6 +2,7 @@
 title: Configura ve BEUMER Group Dijital Sistem Planlama ve Görselleştirme İçin Ortaklık Kurdu
 subtitle: Configura ve BEUMER Group Dijital Sistem Planlama ve Görselleştirme İçin Ortaklık Kurdu
 date: '2025-02-25T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/configura_and_beumer_group_partner_on_digital_system_planning_and_visualization
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_d33a88dba71d46ab92c469ca9c7cc167~mv2.jpg
 imageAlt: Configura ve BEUMER Group Dijital Sistem Planlama ve Görselleştirme İçin Ortaklık Kurdu

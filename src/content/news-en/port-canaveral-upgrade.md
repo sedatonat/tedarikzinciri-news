@@ -2,6 +2,7 @@
 title: 'Port Canaveral: $500 Million Capacity and Berth Investment'
 subtitle: 'Port Canaveral: $500 Million Capacity and Berth Investment'
 date: '2025-05-05T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41716-port-canaveral-plans-500m-in-upgrades-to-cruise-capacity-cargo-berths
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7920f8a457d640cfa5b04018242f1617~mv2.png
 imageAlt: 'Port Canaveral: $500 Million Capacity and Berth Investment'

@@ -2,6 +2,7 @@
 title: Maersk Completes Order for 20 New Dual-Fuel Container Vessels
 subtitle: Maersk Completes Order for 20 New Dual-Fuel Container Vessels
 date: '2024-12-02T09:00:00Z'
+sourceUrl: https://www.7deniz.net/maersk-cift-yakitli-20-gemi-siparisi-verdi
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4cc5233856a44907b1c288a03b4ec300~mv2.jpg
 imageAlt: Maersk Completes Order for 20 New Dual-Fuel Container Vessels

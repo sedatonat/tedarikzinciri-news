@@ -2,6 +2,7 @@
 title: ABD Körfez Kıyısı Limanları Hacim Artışını Karşılamak İçin Genişliyor
 subtitle: ABD Körfez Kıyısı Limanları Hacim Artışını Karşılamak İçin Genişliyor
 date: '2024-12-26T09:00:00Z'
+sourceUrl: https://www.joc.com/article/us-gulf-coast-ports-expanding-to-handle-continued-volume-growth-5911512
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3fa61acaf9fa4443963f49169d2d7345~mv2.jpg
 imageAlt: ABD Körfez Kıyısı Limanları Hacim Artışını Karşılamak İçin Genişliyor

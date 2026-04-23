@@ -2,6 +2,7 @@
 title: LNG, Konteyner Hatlarında Tercih Edilen Alternatif Yakıt Haline Geliyor
 subtitle: LNG, Konteyner Hatlarında Tercih Edilen Alternatif Yakıt Haline Geliyor
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://www.joc.com/article/lng-increasingly-alternative-fuel-of-choice-for-container-lines-6104125
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_a71a45d4ee374490a970371862fa8e33~mv2.jpg
 imageAlt: Uluslararası Denizcilik Örgütü (IMO)’nun karbonsuzlaşma gündeminde yaşanan belirsizliklere rağmen, LNG (Sıvılaştırılmış Doğal Gaz), konteyner hatları arasında en yaygın tercih edilen alternatif yakıt konumuna geldi. LNG ile çalışan gemi siparişleri, 2023 sonundaki 194’ten 2025 ortasında 362’ye yükseldi.

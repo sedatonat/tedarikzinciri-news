@@ -2,6 +2,7 @@
 title: Depo Robotları, İş Gücü Açığını Kapatmada Kritik Rol Üstleniyor
 subtitle: Depo Robotları, İş Gücü Açığını Kapatmada Kritik Rol Üstleniyor
 date: '2025-12-10T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/how-warehouse-robots-help-solve-the-labor-shortage
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_d4f1bcc003a7411c8d89454dd61180b1~mv2.jpg
 imageAlt: ABD’de süregelen depo iş gücü açığı karşısında AMR, AGV ve AI destekli otomasyon çözümlerinin verimlilik, güvenlik ve ölçeklenebilirlik sağlayarak e-ticaret fulfillment operasyonlarını dönüştürmesine dair kapsamlı analiz

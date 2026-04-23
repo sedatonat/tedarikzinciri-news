@@ -2,6 +2,7 @@
 title: DP World Launches Digital Port Community System in Kenya
 subtitle: DP World Launches Digital Port Community System in Kenya
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/383765/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d12623df9c674ae28bf1b1370b14e5c7~mv2.png
 imageAlt: DP World Launches Digital Port Community System in Kenya

@@ -2,6 +2,7 @@
 title: Sixth and Final Victim's Body Recovered in Baltimore Bridge Collapse
 subtitle: Sixth and Final Victim's Body Recovered in Baltimore Bridge Collapse
 date: '2024-05-08T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/last-missing-body-recovered-from-baltimore-bridge-collapse/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_df1f4bb30d394374ae8df5f8c571d51e~mv2.jpg
 imageAlt: Sixth and Final Victim's Body Recovered in Baltimore Bridge Collapse

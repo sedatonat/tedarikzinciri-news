@@ -2,6 +2,7 @@
 title: General Motors ve Vianode Arasında Sentetik Grafit Tedarik Anlaşması
 subtitle: General Motors ve Vianode Arasında Sentetik Grafit Tedarik Anlaşması
 date: '2025-01-16T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41002-gm-inks-deal-with-vianode-for-synthetic-graphite-for-ev-batteries
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_2ad4b418908c4adeaab359bbba0f2aa5~mv2.jpg
 imageAlt: General Motors ve Vianode Arasında Sentetik Grafit Tedarik Anlaşması

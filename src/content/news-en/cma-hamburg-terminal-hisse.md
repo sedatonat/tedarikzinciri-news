@@ -2,6 +2,7 @@
 title: CMA CGM Strengthens European Infrastructure Network with 20% Stake in Hamburg CTH Terminal
 subtitle: CMA CGM Strengthens European Infrastructure Network with 20% Stake in Hamburg CTH Terminal
 date: '2025-11-13T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/cma-cgm-to-acquire-stake-in-hamburg-terminal/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6637de6aac754660a7a3e09de7e26b8f~mv2.jpg
 imageAlt: CMA CGM signs agreement to acquire 20% stake in EUROGATE Container Terminal Hamburg (CTH), joining the expansion project that will increase terminal capacity from 4 million to 6 million TEU and strengthen its European logistics network in Hamburg.

@@ -2,6 +2,7 @@
 title: SGP Launches Dammam Logistics Zone and Terminal 2 Expansion
 subtitle: SGP Launches Dammam Logistics Zone and Terminal 2 Expansion
 date: '2025-11-25T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384961/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_34ee825863134600b2b39016927315ae~mv2.jpg
 imageAlt: Saudi Global Ports' groundbreaking ceremony for Dammam Integrated Logistics Zone and Terminal 2 capacity enhancement, marking the creation of a new integrated logistics ecosystem at KAP Dammam

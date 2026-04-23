@@ -2,6 +2,7 @@
 title: 'Taşımacılık Sektörüne Özel Hukuki Rehber: Taşımacının Başucu Kitabı'
 subtitle: 'Taşımacılık Sektörüne Özel Hukuki Rehber: Taşımacının Başucu Kitabı'
 date: '2024-03-24T09:00:00Z'
+sourceUrl: https://www.lojiport.com/und-tasimacinin-basucu-kitabini-tanitti-116359h.htm
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_23809ddaa48d429eadd9bd87d14d414a~mv2.jpg
 imageAlt: 'Taşımacılık Sektörüne Özel Hukuki Rehber: Taşımacının Başucu Kitabı'

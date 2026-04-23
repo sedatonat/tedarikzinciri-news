@@ -2,6 +2,7 @@
 title: Toyota's New MyToyota Portal Transforms Forklift Fleet Management
 subtitle: Toyota's New MyToyota Portal Transforms Forklift Fleet Management
 date: '2025-11-09T09:00:00Z'
+sourceUrl: https://warehousinglogisticsinternational.com/toyotas-new-customer-portal-will-transform-forklift-fleet-management/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_f0762cb1cbcd4ffdb0515ab35a8f4f95~mv2.jpeg
 imageAlt: Toyota Material Handling UK's new MyToyota portal unifies cost, energy consumption, contracts, safety, and service management for forklift fleets in a single platform, delivering data-driven, transparent, and efficient operations.

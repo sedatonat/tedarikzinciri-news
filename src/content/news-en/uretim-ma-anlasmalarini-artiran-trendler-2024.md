@@ -2,6 +2,7 @@
 title: Trends Driving Surge in Manufacturing Merger & Acquisition Deals in 2024
 subtitle: Trends Driving Surge in Manufacturing Merger & Acquisition Deals in 2024
 date: '2024-05-09T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/39522-the-trends-that-are-driving-a-surge-in-manufacturing-m-and-a-deals
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_b3e492e6aed349e9b5b6e7e0e7ff98fc~mv2.jpg
 imageAlt: Trends Driving Surge in Manufacturing Merger & Acquisition Deals in 2024

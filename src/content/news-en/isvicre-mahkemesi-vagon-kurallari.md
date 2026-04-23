@@ -2,6 +2,7 @@
 title: 'Swiss Court Suspends Rail Wagon Rules: Court Points to EU Coordination Gaps'
 subtitle: 'Swiss Court Suspends Rail Wagon Rules: Court Points to EU Coordination Gaps'
 date: '2025-12-10T09:00:00Z'
+sourceUrl: https://www.railfreight.com/policy/2025/12/10/swiss-court-blocks-fots-wheel-regulations/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_dbb038d623f0471bbf6044642c69b0dd~mv2.jpg
 imageAlt: A detailed summary of the Swiss Federal Administrative Court's suspension of the Federal Office of Transport's unilateral wagon security rules, the wheel regulations that emerged after the Gotthard accident, and the response from Europe's rail freight sector

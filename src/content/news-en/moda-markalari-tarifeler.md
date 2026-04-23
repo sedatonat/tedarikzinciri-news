@@ -2,6 +2,7 @@
 title: Fashion Brands' Battle with Customs Tariffs
 subtitle: Fashion Brands' Battle with Customs Tariffs
 date: '2025-02-10T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/fashion-brands-navigate-tariffs-paul-magel-computer-generated-solutions
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_16428487450f44e0a15a4887284525a2~mv2.jpg
 imageAlt: Fashion Brands' Battle with Customs Tariffs

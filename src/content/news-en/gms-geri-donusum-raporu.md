@@ -2,6 +2,7 @@
 title: 'GMS: Ship Recycling Market Contracts Amid Weak Steel Prices and Currency Pressure'
 subtitle: 'GMS: Ship Recycling Market Contracts Amid Weak Steel Prices and Currency Pressure'
 date: '2025-11-25T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/384947/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_b106a8fd44144652a44cd84fca4a0213~mv2.jpg
 imageAlt: GMS Week 47 update provides a comprehensive news summary explaining how global ship recycling markets are struggling due to weak steel prices, foreign exchange volatility, sanctions pressure, and low tonnage flows

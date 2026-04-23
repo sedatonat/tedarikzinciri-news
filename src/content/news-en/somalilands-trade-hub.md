@@ -2,6 +2,7 @@
 title: Somaliland's Potential as a New Trade Hub in the Red Sea
 subtitle: Somaliland's Potential as a New Trade Hub in the Red Sea
 date: '2025-01-02T09:00:00Z'
+sourceUrl: https://container-news.com/somalilands-potential-to-emerge-as-new-trade-hub-in-red-sea/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_76a01789dfa649d3b92ebf7ecb613375~mv2.jpg
 imageAlt: Somaliland's Potential as a New Trade Hub in the Red Sea

@@ -2,6 +2,7 @@
 title: Shanghai Port Breaches 50 Million TEU Threshold Again
 subtitle: Shanghai Port Breaches 50 Million TEU Threshold Again
 date: '2024-12-24T09:00:00Z'
+sourceUrl: https://splash247.com/shanghai-box-volume-crosses-50m-teu-mark/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_6ff1518d485c4e65aa86ff79c4dba33d~mv2.jpg
 imageAlt: Shanghai Port Breaches 50 Million TEU Threshold Again

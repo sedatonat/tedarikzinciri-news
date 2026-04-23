@@ -2,6 +2,7 @@
 title: 'Doğu ve Körfez Kıyıları Limanlarında Grev Tehlikesi: Anlaşma Zamanı Daralıyor'
 subtitle: 'Doğu ve Körfez Kıyıları Limanlarında Grev Tehlikesi: Anlaşma Zamanı Daralıyor'
 date: '2024-05-16T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/east-coast-gulf-coast-port-union-negotiations-ila-usmx/716372/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_317fa8b66eb24ea0b1a12fbc5c97a2f9~mv2.jpg
 imageAlt: 'Doğu ve Körfez Kıyıları Limanlarında Grev Tehlikesi: Anlaşma Zamanı Daralıyor'

@@ -2,6 +2,7 @@
 title: NYK and Knutsen Unveil New-Look LCO₂ Tanker
 subtitle: NYK and Knutsen Unveil New-Look LCO₂ Tanker
 date: '2024-12-02T09:00:00Z'
+sourceUrl: https://splash247.com/knutsen-nyk-carbon-carriers-unveils-new-look-tanker/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_b250f1b8cb8b45d69e9f9077f654c171~mv2.jpg
 imageAlt: NYK and Knutsen Unveil New-Look LCO₂ Tanker

@@ -2,6 +2,7 @@
 title: Port of Long Beach Maintains Record Volumes Through 2025 Despite Tariff Pressures
 subtitle: Port of Long Beach Maintains Record Volumes Through 2025 Despite Tariff Pressures
 date: '2025-11-12T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/port-of-long-beach-cargo-volumes-tariffs-national-retail-federation/805182/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_527497e481584769a80575789ce98489~mv2.jpg
 imageAlt: The Port of Long Beach, which recorded strong cargo volumes throughout 2025 despite tariff uncertainty, has processed 8.2 million TEU as of end-October and is approaching last year's record levels. However, volume declines are expected in the final two months of the year due to frontloading effects.

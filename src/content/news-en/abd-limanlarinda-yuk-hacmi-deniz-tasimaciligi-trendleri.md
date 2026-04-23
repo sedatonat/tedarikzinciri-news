@@ -2,6 +2,7 @@
 title: 'U.S. Port Cargo Volumes: How Are Maritime Shipping Trends Shaping Up?'
 subtitle: 'U.S. Port Cargo Volumes: How Are Maritime Shipping Trends Shaping Up?'
 date: '2024-11-17T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/largest-us-ports-by-volume-month-coast-cargo-trends/693493/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_d02177638fed49ddae20e1ade76c1388~mv2.jpg
 imageAlt: 'U.S. Port Cargo Volumes: How Are Maritime Shipping Trends Shaping Up?'

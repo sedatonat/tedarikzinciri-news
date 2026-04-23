@@ -2,6 +2,7 @@
 title: New Vessel Project for Space Logistics Targets Growing Project Cargo Market
 subtitle: New Vessel Project for Space Logistics Targets Growing Project Cargo Market
 date: '2025-12-16T09:00:00Z'
+sourceUrl: https://www.joc.com/article/space-logistics-newbuilding-to-service-booming-project-cargo-sector-6136182
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_473ac77eda874139aa877856fa213a7a~mv2.jpg
 imageAlt: Compagnie Maritime Nantaise plans to build a new vessel with high precision and specialized design to serve the growing space logistics and project cargo market.

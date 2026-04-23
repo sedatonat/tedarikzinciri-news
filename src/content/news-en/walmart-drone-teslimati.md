@@ -2,6 +2,7 @@
 title: Walmart Aims to Expand Drone Deliveries to Five Cities
 subtitle: Walmart Aims to Expand Drone Deliveries to Five Cities
 date: '2025-06-10T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41929-walmart-looks-to-expand-drone-deliveries-to-five-cities
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_772867ca711f4908b6e75d36712e8102~mv2.png
 imageAlt: Walmart Aims to Expand Drone Deliveries to Five Cities

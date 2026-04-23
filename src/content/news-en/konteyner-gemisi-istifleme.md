@@ -2,6 +2,7 @@
 title: How Are Containers Loaded and Stowed on Container Ships?
 subtitle: How Are Containers Loaded and Stowed on Container Ships?
 date: '2024-11-27T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/video-how-containers-are-stacked-organized
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c180e96d92394228a05e6cba047fd990~mv2.jpg
 imageAlt: A video and process explanation showing how boxes are organized on a container ship according to weight, size, and destination.

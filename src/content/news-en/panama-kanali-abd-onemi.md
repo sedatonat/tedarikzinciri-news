@@ -2,6 +2,7 @@
 title: The Panama Canal's Importance to the U.S. Economy
 subtitle: The Panama Canal's Importance to the U.S. Economy
 date: '2025-01-29T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/fmc-highlights-panama-canals-importance-to-us-economy/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_5035aabb1ecd45a0b13b22eec5662c6e~mv2.jpg
 imageAlt: The Panama Canal's Importance to the U.S. Economy

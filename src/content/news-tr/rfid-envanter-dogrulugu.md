@@ -2,6 +2,7 @@
 title: 2025’te Maliyet Ve Envanter Risklerini Yönetmek İçin 5 RFID Uygulaması
 subtitle: 2025’te Maliyet Ve Envanter Risklerini Yönetmek İçin 5 RFID Uygulaması
 date: '2025-09-13T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42494-five-ways-rfid-can-help-manage-rising-costs-and-inventory-risks-in-2025
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_08808f82ec0f4ee09eccc4acf63416af~mv2.png
 imageAlt: 2025’te Maliyet Ve Envanter Risklerini Yönetmek İçin Beş Rfid Uygulaması

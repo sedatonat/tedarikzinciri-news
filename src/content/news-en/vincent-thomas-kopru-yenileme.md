@@ -2,6 +2,7 @@
 title: Los Angeles Harbor's Vincent Thomas Bridge Renewal Project to Begin in Early 2026
 subtitle: Los Angeles Harbor's Vincent Thomas Bridge Renewal Project to Begin in Early 2026
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://www.joc.com/article/redecking-project-on-los-angeles-harbor-bridge-to-begin-in-early-2026-6105309
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_200bd6e421d745d8a83f62498033fb79~mv2.jpg
 imageAlt: The Vincent Thomas Bridge at the entrance to Los Angeles Harbor carries 53,000 vehicles daily, including 3,400 heavy vehicles. The California Transportation Agency (CalSTA) announced that redecking work on the 63-year-old bridge will begin in early 2026.

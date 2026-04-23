@@ -2,6 +2,7 @@
 title: Platform Science ve Trimble'dan Filoları Dönüştüren Stratejik Anlaşma
 subtitle: Platform Science ve Trimble'dan Filoları Dönüştüren Stratejik Anlaşma
 date: '2024-09-16T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/platform-science-buys-telematics-business-units-from-trimble
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_a375b91dc44b49a28e3d3e51740953fb~mv2.jpg
 imageAlt: Platform Science ve Trimble'dan Filoları Dönüştüren Stratejik Anlaşma

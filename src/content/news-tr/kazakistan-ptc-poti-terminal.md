@@ -2,6 +2,7 @@
 title: Kazakistan ve PTC Holding, Gürcistan'ın Poti Limanı'nda Yeni Konteyner Terminali İnşa Ediyor
 subtitle: Kazakistan ve PTC Holding, Gürcistan'ın Poti Limanı'nda Yeni Konteyner Terminali İnşa Ediyor
 date: '2025-03-07T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/03/07/en-kazakhstan-to-develop-poti-port-in-georgia/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_0dcf4514e5ee4eecacd61c479826703c~mv2.jpg
 imageAlt: Kazakistan ve PTC Holding, Gürcistan'ın Poti Limanı'nda Yeni Konteyner Terminali İnşa Ediyor

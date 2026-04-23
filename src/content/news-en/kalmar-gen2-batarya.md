@@ -2,6 +2,7 @@
 title: Kalmar Introduces Gen 2 Battery for Electric Straddle Carriers
 subtitle: Kalmar Introduces Gen 2 Battery for Electric Straddle Carriers
 date: '2025-12-15T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/kalmar-introduces-gen-2-battery-for-electric-straddle-carriers/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_684a7b6a288b452786638db4475115c7~mv2.jpg
 imageAlt: A detailed industry overview of the Gen 2 lithium-ion battery solution developed by Kalmar, highlighting innovations it brings to electric straddle carrier operations in terms of energy capacity, operating duration, charging flexibility, and sustainability

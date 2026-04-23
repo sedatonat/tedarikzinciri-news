@@ -2,6 +2,7 @@
 title: Chabahar Limanı için Hindistan ve İran Arasında 10 Yıllık Anlaşma
 subtitle: Chabahar Limanı için Hindistan ve İran Arasında 10 Yıllık Anlaşma
 date: '2024-05-14T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/india-iran-partner-to-develop-chabahar-port/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_dfaea3d5c82345d6b0638d1e5fdd0556~mv2.jpg
 imageAlt: Chabahar Limanı için Hindistan ve İran Arasında 10 Yıllık Anlaşma

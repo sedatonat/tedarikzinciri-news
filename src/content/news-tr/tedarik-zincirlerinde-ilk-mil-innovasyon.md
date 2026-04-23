@@ -2,6 +2,7 @@
 title: Tedarik Zincirlerinde First-Mile Yenilik Çağı Başlıyor
 subtitle: Tedarik Zincirlerinde First-Mile Yenilik Çağı Başlıyor
 date: '2024-10-30T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/first-mile-supply-chain-reinvention-opinion-zero100/731115/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3b6e538a40ab49bc94b39dbb22abe8cd~mv2.jpg
 imageAlt: Tedarik Zincirlerinde First-Mile Yenilik Çağı Başlıyor

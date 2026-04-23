@@ -2,6 +2,7 @@
 title: Evergreen Expands Fleet by Nearly $3 Billion with Order for 14 New LNG-Fueled Vessels
 subtitle: Evergreen Expands Fleet by Nearly $3 Billion with Order for 14 New LNG-Fueled Vessels
 date: '2025-11-12T09:00:00Z'
+sourceUrl: https://www.joc.com/article/evergreen-says-will-spend-almost-3-billion-on-14-new-lng-fueled-ships-6114739
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f130457e9c40406ea41e1bb1ce06ee55~mv2.jpg
 imageAlt: Evergreen Marine has placed an order for a total of 14 LNG-fueled vessels of 14,000 TEU at South Korean and Chinese shipyards, adding approximately $3 billion in capacity to its fleet; with these orders, Evergreen's total fleet capacity reaches 2,747,549 TEU.

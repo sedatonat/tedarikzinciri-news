@@ -2,6 +2,7 @@
 title: Artan Navlun Dolandırıcılığına Karşı Koordineli Önleme Gerekliliği
 subtitle: Artan Navlun Dolandırıcılığına Karşı Koordineli Önleme Gerekliliği
 date: '2025-08-27T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/42280-freight-fraud-an-increasing-threat-demands-coordinated-prevention
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_508b6199ab0247a99a973779e30b3e72~mv2.png
 imageAlt: Artan Navlun Dolandırıcılığına Karşı Koordineli Önleme Gerekliliği

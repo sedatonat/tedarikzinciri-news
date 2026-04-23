@@ -2,6 +2,7 @@
 title: Costco, Trump Yönetimine Karşı Tarife İadesi Davası Açtı
 subtitle: Costco, Trump Yönetimine Karşı Tarife İadesi Davası Açtı
 date: '2025-12-03T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/costco-sues-trump-administration-for-tariff-refund/806825/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_22bcc5a307d14b9790b2a7d2d48b91ea~mv2.jpg
 imageAlt: Costco’nun Trump yönetiminin IEEPA kapsamında uyguladığı küresel tarifeler için iade talebiyle açtığı dava, Supreme Court süreci, presedans etkisi ve potansiyel yüz milyar dolarlık iade riskinin detaylı özeti

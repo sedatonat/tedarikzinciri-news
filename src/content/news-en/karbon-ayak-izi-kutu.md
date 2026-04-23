@@ -2,6 +2,7 @@
 title: Retailers Redesign Boxes to Cut Costs and Carbon Footprint
 subtitle: Retailers Redesign Boxes to Cut Costs and Carbon Footprint
 date: '2025-03-27T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41436-cutting-costs-and-carbon-why-retailers-are-rethinking-their-boxes
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_f3b1ed036b2640048fa23584347a26d8~mv2.png
 imageAlt: 'Cost and Carbon: Retailers Rethinking Their Boxes'

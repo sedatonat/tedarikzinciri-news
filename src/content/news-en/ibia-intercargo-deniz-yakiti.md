@@ -2,6 +2,7 @@
 title: IBIA and INTERCARGO Strengthen Partnership on Marine Fuels
 subtitle: IBIA and INTERCARGO Strengthen Partnership on Marine Fuels
 date: '2025-11-03T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/ibia-intercargo-strengthen-partnership-on-marine-fuels/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_759eaa7eaa3949a7a31c560ece2616f7~mv2.jpg
 imageAlt: The International Bunker Industry Association (IBIA) and the International Association of Dry Bulk Shipowners (INTERCARGO) signed a reciprocal membership agreement to foster closer collaboration on fuel quality, safety, and decarbonisation. This initiative aims to strengthen dialogue between shipowners and the marine fuel supply chain.

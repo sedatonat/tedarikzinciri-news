@@ -2,6 +2,7 @@
 title: 'Zim Satınalma Sürecinde: CEO ve Stratejik Yatırımcılar Masada'
 subtitle: 'Zim Satınalma Sürecinde: CEO ve Stratejik Yatırımcılar Masada'
 date: '2025-11-25T09:00:00Z'
+sourceUrl: https://www.joc.com/article/zim-says-reviewing-buyout-offers-including-one-from-ceo-6123362
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_1107093ed296467596d5e0710f8b0e22~mv2.jpg
 imageAlt: Zim’in CEO’su Eli Glickman ve Rami Ungar tarafından verilen teklif dahil olmak üzere çoklu satın alma girişimlerini değerlendiren yönetim kurulunun süreci, şirketin filo stratejisi, finansal yapısı ve sektörel etkileriyle birlikte ayrıntılı haber özeti

@@ -2,6 +2,7 @@
 title: MSC, GSBN İle İşbirliği Yaparak Lityum Pil Sevkiyat Güvenliğini Artırıyor
 subtitle: MSC, GSBN İle İşbirliği Yaparak Lityum Pil Sevkiyat Güvenliğini Artırıyor
 date: '2024-04-25T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10176-msc-improves-lithium-battery-shipping-safety-through-deal-with-gsbn
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_face521f32c1403293d5afec53520c2f~mv2.jpg
 imageAlt: MSC, GSBN İle İşbirliği Yaparak Lityum Pil Sevkiyat Güvenliğini Artırıyor

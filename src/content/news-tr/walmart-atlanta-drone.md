@@ -2,6 +2,7 @@
 title: 'Walmart, Atlanta’da Drone Teslimatlarını Başlattı: Perakendede Son Kilometre Dönüşümü Hızlanıyor'
 subtitle: 'Walmart, Atlanta’da Drone Teslimatlarını Başlattı: Perakendede Son Kilometre Dönüşümü Hızlanıyor'
 date: '2025-12-11T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42980-walmart-launches-drone-deliveries-in-atlanta
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_980a1be4c8d14000ab96d60eb641e374~mv2.jpg
 imageAlt: Walmart’ın Wing iş birliğiyle Atlanta metro bölgesinde drone teslimat hizmetini başlatması, beş dakikanın altındaki teslim süreleri, şehir bazlı ölçeklenme stratejisi ve perakende lojistiğine etkilerinin detaylı özeti

@@ -2,6 +2,7 @@
 title: 'Sustainable Shipping Through Wind Power: A Summary of the ''Windshipped'' Film'
 subtitle: 'Sustainable Shipping Through Wind Power: A Summary of the ''Windshipped'' Film'
 date: '2024-01-09T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/38805-windshipped-offers-a-vision-of-alternative-to-commercial-trucking-in-hudson-valley
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_3fc9363ebdcb47fd84ee2931d6024184~mv2.png
 imageAlt: 'Sustainable Shipping Through Wind Power: A Summary of the ''Windshipped'' Film'

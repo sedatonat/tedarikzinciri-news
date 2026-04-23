@@ -2,6 +2,7 @@
 title: Union Maritime, Çin Yapımı LR2 Tankerlerine Rüzgar Destekli İtme Teknolojisi Ekliyor
 subtitle: Union Maritime, Çin Yapımı LR2 Tankerlerine Rüzgar Destekli İtme Teknolojisi Ekliyor
 date: '2024-03-12T09:00:00Z'
+sourceUrl: https://splash247.com/union-maritime-taps-wind-assisted-propulsion-for-lr2-newbuilds/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_106ab2523268499694eec29553aa5a62~mv2.jpg
 imageAlt: Union Maritime, Çin Yapımı LR2 Tankerlerine Rüzgar Destekli İtme Teknolojisi Ekliyor

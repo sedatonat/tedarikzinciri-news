@@ -2,6 +2,7 @@
 title: Ukraine Receives First U.S. LNG Shipment
 subtitle: Ukraine Receives First U.S. LNG Shipment
 date: '2024-12-28T09:00:00Z'
+sourceUrl: https://gcaptain.com/ukraine-received-first-us-lng-shipment/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_1347b84e0e034f0ab4053178d25f3d05~mv2.jpg
 imageAlt: Ukraine Receives First U.S. LNG Shipment

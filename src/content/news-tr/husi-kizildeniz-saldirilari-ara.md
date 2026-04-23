@@ -2,6 +2,7 @@
 title: Husi Saldırılarına Ara Verilmesi Gerginliği Azalttı, Ancak Kızıldeniz’de Risk Sürüyor
 subtitle: Husi Saldırılarına Ara Verilmesi Gerginliği Azalttı, Ancak Kızıldeniz’de Risk Sürmekte
 date: '2025-11-12T09:00:00Z'
+sourceUrl: https://www.joc.com/article/houthi-pause-on-shipping-attacks-lowers-tensions-but-risk-remains-6114790
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_7579308f142f4acbaa7e974836f42d58~mv2.jpg
 wixId: 34713456-aa57-4ec6-99b5-08162f4d513e

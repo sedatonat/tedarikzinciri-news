@@ -2,6 +2,7 @@
 title: AB’nin “Kırık Tekerlek” Yönetmelikleri Yıl Sonuna Kadar Tamamlanacak
 subtitle: AB’nin “Kırık Tekerlek” Yönetmelikleri Yıl Sonuna Kadar Tamamlanacak
 date: '2025-11-12T09:00:00Z'
+sourceUrl: https://www.railfreight.com/policy/2025/11/12/eus-new-broken-wheel-regulations-to-be-ready-by-years-end/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_f1ed2a907d704dd6a88a6b4796348093~mv2.jpg
 imageAlt: Avrupa’daki Gotthard 2023 tren kazası sonrası başlatılan Broken Wheels Task Force, demiryolu yük taşımacılığında tekerlek güvenliği ve bakım kurallarını güncelleyen yeni AB yönetmeliklerini yıl sonuna kadar yayımlamaya hazırlanıyor.

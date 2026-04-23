@@ -2,6 +2,7 @@
 title: CMA CGM ABD Ticareti İçin Kuzey Vietnam’da Yeni Barge Koridoru Başlattı
 subtitle: CMA CGM ABD Ticareti İçin Kuzey Vietnam’da Yeni Barge Koridoru Başlattı
 date: '2025-11-24T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/cma-cgm-expands-barge-network-to-boost-us-trade/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_2193876fb5944a36b5839a23c46082e1~mv2.jpg
 imageAlt: CMA CGM’nin Kuzey Vietnam’da Que Vo–Haiphong barge hattını devreye alarak ABD pazarına daha hızlı, maliyet etkin ve düşük emisyonlu taşımacılık bağlantısı sağlamasına ilişkin detaylı özet.

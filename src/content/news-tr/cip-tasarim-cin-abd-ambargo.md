@@ -2,6 +2,7 @@
 title: ABD, Çin’e Çip Tasarım Yazılımları ve Kimyasal Ürün İhracatına Yeni Kısıtlamalar Getirdi
 subtitle: ABD, Çin’e Çip Tasarım Yazılımları ve Kimyasal Ürün İhracatına Yeni Kısıtlamalar Getirdi
 date: '2025-05-29T09:00:00Z'
+sourceUrl: https://www.reuters.com/world/china/trump-tells-us-chip-designers-stop-selling-china-ft-reports-2025-05-28/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_520ef35fe21247ef96731fc6d0950188~mv2.jpg
 imageAlt: ABD, Çin’e Çip Tasarım Yazılımları ve Kimyasal Ürün İhracatına Yeni Kısıtlamalar Getirdi

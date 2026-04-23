@@ -2,6 +2,7 @@
 title: International Intermodal Market Expected to Contract in 2025
 subtitle: International Intermodal Market Expected to Contract in 2025
 date: '2024-12-27T09:00:00Z'
+sourceUrl: https://www.joc.com/article/international-intermodal-market-enters-constrained-2025-analyst-5912000
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_cb7d263c0de54f3b8ebeb7a7052bd33e~mv2.jpg
 imageAlt: International Intermodal Market Expected to Contract in 2025

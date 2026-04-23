@@ -2,6 +2,7 @@
 title: Munich Airport Reopens After Drone Scare
 subtitle: Munich Airport Reopens After Drone Scare
 date: '2025-10-03T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42615-munich-airport-reopens-after-drone-scare
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_fd71ec7c1db048e3bff059c4e7a48b20~mv2.png
 imageAlt: Munich Airport Reopening After Drone Scare

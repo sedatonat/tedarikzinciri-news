@@ -2,6 +2,7 @@
 title: Chinese Supplier Takes Control of iRobot
 subtitle: Chinese Supplier Takes Control of iRobot
 date: '2025-12-15T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/43005-chinese-supplier-to-assume-control-of-roomba-parent-company
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_10a14b656399480298be4174394e3e29~mv2.jpg
 imageAlt: Detailed sector overview on iRobot's transition to private ownership under its main Chinese supplier Picea as the company enters bankruptcy proceedings due to debt burden and financial uncertainty

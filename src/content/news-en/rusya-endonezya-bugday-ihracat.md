@@ -2,6 +2,7 @@
 title: Russia Resumes Wheat Exports to Indonesia
 subtitle: Russia Resumes Wheat Exports to Indonesia
 date: '2025-10-23T09:00:00Z'
+sourceUrl: https://seanews.ru/en/2025/10/23/en-russia-resumes-wheat-export-to-indonesia/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_fe4e71b0159a42f5b09f9ac5bea56df3~mv2.jpg
 imageAlt: Russia Resumes Wheat Exports to Indonesia

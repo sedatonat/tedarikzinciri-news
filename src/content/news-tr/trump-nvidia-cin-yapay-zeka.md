@@ -2,6 +2,7 @@
 title: Trump, Nvidia’nın Gelişmiş Yapay Zekâ Çiplerini Çin’e Satmasına Onay Veriyor
 subtitle: Trump, Nvidia’nın Gelişmiş Yapay Zekâ Çiplerini Çin’e Satmasına Onay Veriyor
 date: '2025-12-09T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42957-trump-to-allow-nvidia-to-sell-advanced-ai-chips-to-chinese-customers
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_ee880828c96e401cb8a5ad99de219a28~mv2.jpg
 imageAlt: Trump yönetiminin Nvidia’ya H200 yapay zekâ çiplerini sınırlı Çinli müşterilere satma izni vermesi, %25 gelir paylaşımı modeli, ihracat kontrollerinde yeni yaklaşım ve ABD–Çin teknoloji ticaretine etkilerinin detaylı özeti

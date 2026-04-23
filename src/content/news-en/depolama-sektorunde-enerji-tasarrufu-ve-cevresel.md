@@ -2,6 +2,7 @@
 title: Energy Conservation and Environmental Regulations in the Warehousing Sector
 subtitle: Energy Conservation and Environmental Regulations in the Warehousing Sector
 date: '2024-05-13T09:00:00Z'
+sourceUrl: https://www.allthingssupplychain.com/energy-conservation-and-environmental-regulations-in-warehousing/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_27d104aae3584617b81b3550609821b2~mv2.jpg
 imageAlt: Energy Conservation and Environmental Regulations in the Warehousing Sector

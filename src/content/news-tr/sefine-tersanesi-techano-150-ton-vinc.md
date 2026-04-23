@@ -2,6 +2,7 @@
 title: Sefine Tersanesi, Techano Oceanlift ile 150 Tonluk Vinç Anlaşması İmzaladı
 subtitle: Sefine Tersanesi, Techano Oceanlift ile 150 Tonluk Vinç Anlaşması İmzaladı
 date: '2025-03-13T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/374530/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_098b149e8cc54a58b0f26636af6c1de0~mv2.jpg
 imageAlt: Sefine Tersanesi, Techano Oceanlift ile 150 Tonluk Vinç Anlaşması İmzaladı

@@ -2,6 +2,7 @@
 title: Trump Orders Federal Investigation into Alleged Price Fixing in Food Supply Chains
 subtitle: Trump Orders Federal Investigation into Alleged Price Fixing in Food Supply Chains
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/food-supply-chain-meat-price-fixing-investigation-trump-grocery/807301/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_41328419ea914dbbab8e126e453a5dbb~mv2.jpg
 imageAlt: Summary of Trump administration authorizing DOJ and FTC to investigate allegations of price fixing and competition violations in food supply chains in response to rising grocery prices, with particular focus on foreign-controlled companies and sectoral implications

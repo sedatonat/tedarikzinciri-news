@@ -2,6 +2,7 @@
 title: Baltimore Köprüsü Kazası Ön Raporu Yayımlandı
 subtitle: Baltimore Köprüsü Kazası Ön Raporu Yayımlandı
 date: '2024-05-14T09:15:00Z'
+sourceUrl: https://gcaptain.com/ntsb-preliminary-report-on-baltimore-bridge-collapse-released/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_20267e1aaa284b4bb7a13ecc77c9f028~mv2.jpeg
 imageAlt: Baltimore Köprüsü Kazası Ön Raporu Yayımlandı

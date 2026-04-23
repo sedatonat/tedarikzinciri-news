@@ -2,6 +2,7 @@
 title: 'Yeni Araştırma: AI İşçileri Değiştirmiyor, Depolarda Daha Fazla Rol Yaratıyor'
 subtitle: 'Yeni Araştırma: AI İşçileri Değiştirmiyor, Depolarda Daha Fazla Rol Yaratıyor'
 date: '2025-11-26T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/ai-is-helping-warehouse-jobs-grow
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_27d76cac21c0445dbce2933785352753~mv2.jpg
 imageAlt: Depolarda yapay zekâ ve otomasyonun iş gücünü nasıl desteklediğini, üretkenliği artırdığını ve yeni uzmanlık rollerini ortaya çıkardığını anlatan kapsamlı analiz.

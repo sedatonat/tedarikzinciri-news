@@ -2,6 +2,7 @@
 title: Tedarik Zinciri'nde Yapay Zekâ için Sırada Ne Var
 subtitle: Tedarik Zinciri'nde Yapay Zekâ için Sırada Ne Var
 date: '2025-07-18T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/41980-dpw-whats-next-for-ai-in-supply-chain
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_66019cf08e3e431d98ab797f2d08d81f~mv2.png
 imageAlt: Tedarik Zincirinde Yapay Zekâ İçin Sırada Ne Var

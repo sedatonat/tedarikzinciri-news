@@ -2,6 +2,7 @@
 title: Kamion Achieves Major Success in 2023
 subtitle: Kamion Achieves Major Success in 2023
 date: '2023-12-25T09:00:00Z'
+sourceUrl: https://www.lojistikhatti.com/haber/2023/12/kamion-2023u-musteri-sayisinda-2-ciroda-3-kat-artis-ile-kapatiyor
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_8123d50594284d0d90120fc4f8b2949e~mv2.jpeg
 imageAlt: Kamion Achieves Major Success in 2023

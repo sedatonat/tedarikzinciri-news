@@ -2,6 +2,7 @@
 title: Küresel Tedarik Zincirlerine Yansıyan Jeopolitik Belirsizlikler
 subtitle: Küresel Tedarik Zincirlerine Yansıyan Jeopolitik Belirsizlikler
 date: '2024-05-07T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10239-keynote-geopolitical-recession-is-putting-a-tax-on-global-supply-chains
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_41788c38185a42d8b3f8558c31c26854~mv2.jpg
 imageAlt: Küresel Tedarik Zincirlerine Yansıyan Jeopolitik Belirsizlikler

@@ -2,6 +2,7 @@
 title: Afganistan, Hairatan ve Torkham Sınır Kapılarını Modernize Etmek İçin DP World ile Çerçeve Anlaşma İmzaladı
 subtitle: Afganistan, Hairatan ve Torkham Sınır Kapılarını Modernize Etmek İçin DP World ile Çerçeve Anlaşma İmzaladı
 date: '2025-12-08T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385489/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c095a284ad414cc69129e13d2ed94aef~mv2.jpg
 imageAlt: Afganistan Maliye Bakanlığı’nın DP World ile Hairatan ve Torkham sınır limanlarının modernizasyonu için imzaladığı yatırım çerçevesi, Orta Asya–Güney Asya lojistik koridorlarına etkisi ve bağlayıcı sözleşmelere giden sürecin detaylı özeti

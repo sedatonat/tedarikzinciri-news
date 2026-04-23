@@ -2,6 +2,7 @@
 title: Lockheed Martin, Silahlı Otonom Deniz Platformları İçin Saildrone’a 50 Milyon Dolar Yatırım Yaptı
 subtitle: Lockheed Martin, Silahlı Otonom Deniz Platformları İçin Saildrone’a 50 Milyon Dolar Yatırım Yaptı
 date: '2025-10-29T09:00:00Z'
+sourceUrl: https://gcaptain.com/lockheed-martin-invests-50-million-in-saildrone-to-arm-unmanned-surface-vessels/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_350cd713b5674c309b5e8223dc62903d~mv2.jpg
 imageAlt: Lockheed Martin, Saildrone’a yaptığı 50 milyon dolarlık yatırım ile otonom deniz yüzey araçlarına silahlı sistemler entegre etmeyi hedefliyor. Ortaklık kapsamında ABD Donanması için geliştirilecek silahlı USV (Unmanned Surface Vessel) platformları, 2026’da canlı atış testlerine girecek.

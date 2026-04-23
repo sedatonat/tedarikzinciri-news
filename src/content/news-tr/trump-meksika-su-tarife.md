@@ -2,6 +2,7 @@
 title: Trump, Su Anlaşması Gerekçesiyle Meksika’ya %5 Ek Gümrük Vergisi Tehdidinde Bulundu
 subtitle: Trump, Su Anlaşması Gerekçesiyle Meksika’ya %5 Ek Gümrük Vergisi Tehdidinde Bulundu
 date: '2025-12-09T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/trump-mexico-tariffs-water-treaty/807402/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_094a51b9d94446a29e027b0b75131605~mv2.jpg
 imageAlt: Trump yönetiminin 1944 ABD–Meksika Su Anlaşması kapsamındaki yükümlülüklerin yerine getirilmemesi gerekçesiyle Meksika menşeli ürünlere %5 ek tarife tehdidi, mevcut USMCA tarifeleriyle etkileşim ve Kuzey Amerika ticaretine olası etkilerin detaylı özeti

@@ -2,6 +2,7 @@
 title: Empty Sailings Expected to Rise on Asia-NAWC Routes
 subtitle: Empty Sailings Expected to Rise on Asia-NAWC Routes
 date: '2025-01-16T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/blank-sails-set-to-rise-on-asia-nawc-route/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_dd379f942abb4c5eb744c582d3bc6f45~mv2.jpg
 imageAlt: Empty Sailings Expected to Rise on Asia-NAWC Routes

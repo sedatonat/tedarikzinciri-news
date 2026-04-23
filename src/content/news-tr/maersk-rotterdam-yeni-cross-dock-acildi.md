@@ -2,6 +2,7 @@
 title: Maersk, Rotterdam'da Yenilikçi Cross Dock Tesisi Açtı
 subtitle: Maersk, Rotterdam'da Yenilikçi Cross Dock Tesisi Açtı
 date: '2024-05-16T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/maersk-unveils-new-cross-dock-facility-in-rotterdam/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_bf25870813c64397918af1cc243c5b4b~mv2.jpg
 imageAlt: Maersk, Rotterdam'da Yenilikçi Cross Dock Tesisi Açtı

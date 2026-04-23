@@ -2,6 +2,7 @@
 title: 'India and Singapore: Deepening AI Chip Ties Amid U.S. Tariff Risks'
 subtitle: 'India and Singapore: Deepening AI Chip Ties Amid U.S. Tariff Risks'
 date: '2025-09-04T00:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42435-india-and-singapore-deepen-ai-chips-ties-as-us-tariff-risks-grow
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_75537f847d664cffa0f31301d14375ac~mv2.png
 imageAlt: 'India-Singapore: Deepening AI Chip Ties Amid U.S. Tariff Risks'

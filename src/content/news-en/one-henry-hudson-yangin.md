@@ -2,6 +2,7 @@
 title: Fire Aboard ONE Henry Hudson Triggers Emergency at Los Angeles Port
 subtitle: Fire Aboard ONE Henry Hudson Triggers Emergency at Los Angeles Port
 date: '2025-11-23T09:00:00Z'
+sourceUrl: https://splash247.com/one-henry-hudson-fire-spurs-port-emergency-in-los-angeles/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_930b9de459eb434ba14e8b433f6df815~mv2.jpg
 imageAlt: The course of a fire that broke out at Los Angeles Yusen Terminal aboard the 8,212 TEU container vessel ONE Henry Hudson, details of emergency response, increased risk due to hazardous materials, and impacts on port operations.

@@ -2,6 +2,7 @@
 title: Panama Deniz Otoritesi, Yaptırım Altındaki Gemilere Karşı Hızlı Önlem Alıyor
 subtitle: Panama Deniz Otoritesi, Yaptırım Altındaki Gemilere Karşı Hızlı Önlem Alıyor
 date: '2024-12-02T09:00:00Z'
+sourceUrl: https://splash247.com/panama-takes-action-against-sanctioned-ships/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_868e609e24464645b79090bd1137fc7d~mv2.jpg
 imageAlt: Panama Deniz Otoritesi, Yaptırım Altındaki Gemilere Karşı Hızlı Önlem Alıyor

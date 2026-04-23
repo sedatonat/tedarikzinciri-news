@@ -2,6 +2,7 @@
 title: Mayıs Ayında Çin'den İthalat Rekoru ve ABD'nin İthalat Artışı
 subtitle: Mayıs Ayında Çin'den İthalat Rekoru ve ABD'nin İthalat Artışı
 date: '2024-06-07T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10384-may-imports-from-china-were-highest-in-16-months
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_bac2a97f86e04774b0025f633c446bb6~mv2.png
 imageAlt: Mayıs Ayında Çin'den İthalat Rekoru ve ABD'nin İthalat Artışı

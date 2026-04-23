@@ -2,6 +2,7 @@
 title: 'Trump Dönemi Tarifeleri: Küresel Ticaret Hamlelerinin Güncel Durumu'
 subtitle: 'Trump Dönemi Tarifeleri: Küresel Ticaret Hamlelerinin Güncel Durumu'
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/trump-tariffs-status-canada-mexico-china-eu/743577/
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_86db15e1a5ad491c84aee89cc6d26b2b~mv2.jpg
 imageAlt: Trump yönetimi 2025 boyunca çok sayıda karşılıklı (reciprocal) tarife ve inceleme başlattı; ülke bazlı oranlar 7 Ağustos’tan itibaren geçerli olurken, AB, Japonya ve Güney Kore ile anlaşma/çerçeve mutabakatları açıklandı, Çin ile ise Ekim sonunda ateşkes sinyali geldi.

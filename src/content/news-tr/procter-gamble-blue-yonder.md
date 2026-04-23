@@ -2,6 +2,7 @@
 title: Procter & Gamble Operasyonlarında TMS Kesintisinin Etkileri
 subtitle: Procter & Gamble Operasyonlarında TMS Kesintisinin Etkileri
 date: '2025-01-27T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/procter-gamble-operations-tms-outage-blue-yonder/738293/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_af879fef607b40c6995ef30f3e8c09e1~mv2.jpg
 imageAlt: Procter & Gamble Operasyonlarında TMS Kesintisinin Etkileri

@@ -2,6 +2,7 @@
 title: Hindistan, Ganj Nehri’nde İlk Yerli Hidrojen Yakıt Hücreli Yolcu Teknesini Hizmete Aldı
 subtitle: Hindistan, Ganj Nehri’nde İlk Yerli Hidrojen Yakıt Hücreli Yolcu Teknesini Hizmete Aldı
 date: '2025-12-12T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/385748/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_a4cc4e77353541528fbc4d9cd1667793~mv2.jpg
 imageAlt: Hindistan’ın Varanasi’de Ganj Nehri üzerinde ticari faaliyete başlayan ilk yerli hidrojen yakıt hücreli yolcu teknesinin teknik özellikleri, IWAI–CSL iş birliği, hidrojen altyapısı ve iç su yollarında sıfır emisyon hedeflerine katkısının detaylı özeti

@@ -2,6 +2,7 @@
 title: 'Suez Canal Under Threat: What Shippers Need to Know and Routing Strategies'
 subtitle: 'Suez Canal Under Threat: What Shippers Need to Know and Routing Strategies'
 date: '2023-12-22T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/transiting-the-red-sea-what-shippers-should-know-vessel-attacks-suez-canal/703132/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_743ef9f0c31d4c8988fd97f713fe1853~mv2.jpg
 imageAlt: 'Suez Canal Under Threat: What Shippers Need to Know and Routing Strategies'

@@ -2,6 +2,7 @@
 title: C.H. Robinson Launches AI-Powered "Agentic Supply Chain," Ushering in a New Era of Logistics Intelligence
 subtitle: C.H. Robinson Launches AI-Powered "Agentic Supply Chain," Ushering in a New Era of Logistics Intelligence
 date: '2025-10-27T09:00:00Z'
+sourceUrl: https://www.supplychain247.com/article/c.h_robinson_launches_agentic_supply_chain_ushering_in_a_new_era_of_ai_driven_logistics_intelligence
 category: Teknoloji
 image: https://static.wixstatic.com/media/nsplsh_e75c298a94764892bc13f014d6ff0676~mv2.jpg
 imageAlt: C.H. Robinson has established a new industry standard in global logistics management through its AI-based ecosystem called "Agentic Supply Chain," combining real-time decision-making, self-optimizing operations, and a Lean AI approach.

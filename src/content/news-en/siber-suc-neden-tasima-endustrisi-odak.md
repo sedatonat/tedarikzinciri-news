@@ -2,6 +2,7 @@
 title: Why Do Cybercriminals Target the Transportation Industry?
 subtitle: Why Do Cybercriminals Target the Transportation Industry?
 date: '2024-05-06T09:00:00Z'
+sourceUrl: https://www.allthingssupplychain.com/why-cybercriminals-target-the-freight-industry/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_82fd88c9d5c8491ebf8a3160fe39f1e2~mv2.jpg
 imageAlt: Why Do Cybercriminals Target the Transportation Industry?

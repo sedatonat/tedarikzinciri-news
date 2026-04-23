@@ -2,6 +2,7 @@
 title: Smart, On-Demand Packaging Boosts Efficiency and Sustainability
 subtitle: Smart, On-Demand Packaging Boosts Efficiency and Sustainability
 date: '2025-11-17T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42841-driving-efficiency-and-sustainability-in-packaging
 category: Tedarik Zinciri
 image: https://static.wixstatic.com/media/6c3915_16dec01e583c419daf37459aeed5ae10~mv2.jpg
 imageAlt: Packsize's on-demand, right-sized packaging solutions enable companies to reduce DIM costs, minimize material consumption, free up warehouse space, and increase operational efficiency, delivering both sustainability and financial benefits.

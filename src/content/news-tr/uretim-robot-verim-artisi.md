@@ -2,6 +2,7 @@
 title: 'Daha Az Robotla Daha Fazla Verim: AMR Optimizasyonu Nasıl ROI’yi Katlıyor?'
 subtitle: 'Daha Az Robotla Daha Fazla Verim: AMR Optimizasyonu Nasıl ROI’yi Katlıyor?'
 date: '2025-11-06T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42770-the-roi-multiplier-how-minimizing-robots-maximizes-throughput-and-savings
 category: Envanter
 image: https://static.wixstatic.com/media/nsplsh_f042d9bb6c2a47739454c521e79abc90~mv2.jpg
 imageAlt: Zebra’nın orkestrasyon yaklaşımı, AMR filolarını bulut + edge teknolojisiyle optimize ederek aynı işi %30 daha az robotla, daha yüksek throughput, daha düşük capex ve daha verimli iş akışlarıyla gerçekleştirmeyi sağlıyor.

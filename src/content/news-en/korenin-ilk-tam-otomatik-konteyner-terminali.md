@@ -2,6 +2,7 @@
 title: South Korea's First Fully Automated Container Terminal Opens at Busan New Port
 subtitle: South Korea's First Fully Automated Container Terminal Opens at Busan New Port
 date: '2024-04-11T09:00:00Z'
+sourceUrl: https://www.porttechnology.org/news/busan-new-port-unveils-first-fully-automated-container-terminal-in-korea/
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_c5b1c0b60b1e44b8952d0e478110ebdd~mv2.jpg
 imageAlt: South Korea's First Fully Automated Container Terminal Unveiled at Busan New Port

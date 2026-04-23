@@ -2,6 +2,7 @@
 title: 'FedEx: Küresel Tedarik Zinciri Şokları Kalıcı Olacak, Yeni Bölgesel Denge Oluşuyor'
 subtitle: 'FedEx: Küresel Tedarik Zinciri Şokları Kalıcı Olacak, Yeni Bölgesel Denge Oluşuyor'
 date: '2025-11-20T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/42878-global-supply-chain-shocks-to-cause-lasting-impacts-fedex-says
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e6b51b4eac8d479c905c11eb67ab9951~mv2.jpg
 imageAlt: FedEx CEO’su Raj Subramaniam, küresel ticaretin teknoloji, jeopolitik riskler ve tarifeler nedeniyle kalıcı olarak değiştiğini, tedarik zincirlerinin bölgeselleşmeye kaydığını ve bu dönüşümün geri döndürülmesinin zor olduğunu belirtti.

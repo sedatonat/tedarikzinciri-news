@@ -2,6 +2,7 @@
 title: 'JLR Siber Saldırısı: Akıllı Fabrikalar Durdu'
 subtitle: 'JLR Siber Saldırısı: Akıllı Fabrikalar Durdu'
 date: '2025-09-20T09:00:00Z'
+sourceUrl: https://www.theguardian.com/business/2025/sep/20/jaguar-land-rover-hack-factories-cybersecurity-jlr
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_2b736b80dfef491a99e130b8e8406463~mv2.jpg
 imageAlt: 'JLR Siber Saldırısı: Akıllı Fabrikalar Durdu, Dış Kaynaklı Siber Güvenlik Sorgulandı, Tedarik Zinciri Krize Girdi'

@@ -2,6 +2,7 @@
 title: 2025’te Tedarik Zinciri Riskleri ve Anti-Fragil Stratejisi
 subtitle: 2025’te Tedarik Zinciri Riskleri ve Anti-Fragil Stratejisi
 date: '2025-03-28T09:00:00Z'
+sourceUrl: https://www.xeneta.com/blog/the-biggest-global-supply-chain-risks-of-2025
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_e105317a067d4392bda3d596b542f32e~mv2.jpg
 imageAlt: '2025’te Tedarik Zinciri Riskleri ve Anti-Fragil Strateji: Görünürlük, Veri ve Esnek Sözleşmeler Öne Çıkmakta'

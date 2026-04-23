@@ -2,6 +2,7 @@
 title: 'Ransom Payments in Maritime Sector: 7% of Companies Paid Ransoms in the Last 12 Months'
 subtitle: 'Ransom Payments in Maritime Sector: 7% of Companies Paid Ransoms in the Last 12 Months'
 date: '2025-03-13T09:00:00Z'
+sourceUrl: https://en.portnews.ru/news/374567/
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_d286fac324a7435996993adc96121566~mv2.jpg
 imageAlt: 'Ransom Payments in Maritime Sector: 7% of Companies Paid Ransoms in the Last 12 Months'

@@ -2,6 +2,7 @@
 title: Baltimore Bridge Crash Caused by Lack of Backup Power
 subtitle: Baltimore Bridge Crash Caused by Lack of Backup Power
 date: '2024-05-16T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/39731-dali-would-have-needed-six-story-generator-for-backup-power-to-avoid-bridge-crash
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_76e9f39acdeb46a296acc5d7bd51e6ac~mv2.jpg
 imageAlt: Baltimore Bridge Crash Caused by Lack of Backup Power

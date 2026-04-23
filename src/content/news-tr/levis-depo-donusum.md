@@ -2,6 +2,7 @@
 title: Levi’s Depo Ağı Dönüşümünü Tamamlama Aşamasına Geldi
 subtitle: Levi’s Depo Ağı Dönüşümünü Tamamlama Aşamasına Geldi
 date: '2025-10-23T09:00:00Z'
+sourceUrl: https://www.supplychaindive.com/news/levis-distributuion-center-transition-ramp-down/803252/
 category: Envanter
 image: https://static.wixstatic.com/media/6c3915_a2858d4b90f042f78e359392d7194a8d~mv2.jpg
 imageAlt: Levi’s, sahip olduğu depoları kademeli olarak kapatarak kiralık tesislere geçişini tamamlamak üzere. Yeni model, doğrudan tüketiciye satış (DTC) kanallarına daha esnek ve verimli hizmet sunmayı hedefliyor.

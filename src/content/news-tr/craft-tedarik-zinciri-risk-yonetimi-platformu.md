@@ -2,6 +2,7 @@
 title: Craft ile Tedarik Zinciri Risklerini Yönetmek Artık Daha Kolay
 subtitle: Craft ile Tedarik Zinciri Risklerini Yönetmek Artık Daha Kolay
 date: '2024-05-08T09:00:00Z'
+sourceUrl: https://www.supplychainbrain.com/articles/39661-introducing-the-craft-supplier-risk-management-platform
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_c5f43e7e93444e8bbac0095cc96bd9cb~mv2.jpg
 imageAlt: Craft ile Tedarik Zinciri Risklerini Yönetmek Artık Daha Kolay

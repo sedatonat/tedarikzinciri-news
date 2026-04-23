@@ -2,6 +2,7 @@
 title: Accenture, Net Sıfır Altyapı Danışmanı Boslan'ı Satın Alarak Sürdürülebilirlikte Gücünü Artırıyor
 subtitle: Accenture, Net Sıfır Altyapı Danışmanı Boslan'ı Satın Alarak Sürdürülebilirlikte Gücünü Artırıyor
 date: '2024-08-09T09:00:00Z'
+sourceUrl: https://www.thescxchange.com/articles/10709-accenture-acquires-net-zero-infrastructure-consultant-boslan
 category: Satınalma
 image: https://static.wixstatic.com/media/6c3915_16820f6e2ace4dc69688de2608253a09~mv2.png
 imageAlt: Accenture, Net Sıfır Altyapı Danışmanı Boslan'ı Satın Alarak Sürdürülebilirlikte Gücünü Artırıyor
