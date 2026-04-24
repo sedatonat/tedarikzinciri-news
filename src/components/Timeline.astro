@@ -12,33 +12,17 @@ const years = await getTimelineData(lang);
 const L = {
   aria: lang === 'tr' ? 'Tarih kaydırıcı' : 'Date timeline',
   haber: lang === 'tr' ? 'haber' : 'articles',
-  kronoloji: lang === 'tr' ? 'Kronoloji' : 'Chronology',
 };
-const kronoHref = lang === 'tr' ? '/kronoloji/' : '/en/chronology/';
 
 function pad2(n: number): string {
   return String(n).padStart(2, '0');
 }
 ---
 <aside
-  class="timeline-rail hidden lg:flex flex-col fixed left-0 top-20 bottom-8 z-30 select-none bg-ink-100/85 dark:bg-ink-950/70 border-r border-ink-200 dark:border-ink-800 backdrop-blur-sm rounded-r-lg"
+  class="timeline-rail hidden lg:flex fixed left-0 top-20 bottom-8 z-30 select-none bg-ink-100/85 dark:bg-ink-950/70 border-r border-ink-200 dark:border-ink-800 backdrop-blur-sm rounded-r-lg"
   aria-label={L.aria}
 >
-  <a
-    href={kronoHref}
-    class="timeline-krono group flex items-center gap-1.5 mx-2 mt-2 mb-1 px-2 py-1.5 rounded-md border border-ink-200/80 dark:border-ink-700/80 bg-white/80 dark:bg-ink-900/80 text-[11px] font-semibold uppercase tracking-wider text-brand-600 dark:text-brand-300 hover:border-brand-500 hover:bg-brand-50 dark:hover:bg-brand-900/40 transition-colors shrink-0"
-    title={L.kronoloji}
-  >
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 h-3.5 shrink-0" aria-hidden="true">
-      <path d="M4 6h8a3 3 0 0 1 0 6H9a3 3 0 0 0 0 6h10"/>
-      <circle cx="6" cy="6" r="1.6" fill="currentColor" stroke="none"/>
-      <circle cx="13" cy="12" r="1.6" fill="currentColor" stroke="none"/>
-      <circle cx="11" cy="18" r="1.6" fill="currentColor" stroke="none"/>
-      <path d="m17 15 3 3-3 3"/>
-    </svg>
-    <span class="leading-none truncate">{L.kronoloji}</span>
-  </a>
-  <div class="timeline-scroll flex-1 min-h-0 overflow-y-auto overflow-x-visible py-1 pl-3 pr-2 text-sm font-mono tabular-nums">
+  <div class="timeline-scroll h-full overflow-y-auto overflow-x-visible py-2 pl-3 pr-2 text-sm font-mono tabular-nums">
     {years.map((yg) => (
       <div class="timeline-group">
         <div class="timeline-year mt-3 mb-1 text-[14px] uppercase tracking-wider text-ink-700 dark:text-white font-semibold">
