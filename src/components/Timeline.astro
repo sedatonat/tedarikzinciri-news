@@ -34,6 +34,7 @@ function pad2(n: number): string {
               href={m.url}
               class="timeline-month block py-0.5 px-1.5 rounded text-[13px] text-ink-700 dark:text-white hover:text-brand-600 dark:hover:text-brand-300 hover:bg-ink-900/10 dark:hover:bg-white/10 transition-colors text-center origin-center"
               data-month
+              data-ym={`${yg.year}-${pad2(m.month)}`}
               title={`${yg.year}/${pad2(m.month)} — ${m.count} ${L.haber}`}
             >{pad2(m.month)}</a>
             <div class="timeline-days absolute left-full top-0 ml-1 hidden group-hover/month:grid bg-white dark:bg-ink-900 border border-ink-200 dark:border-ink-800 rounded-lg shadow-xl p-2 grid-cols-7 gap-1 z-10" style="min-width: 15rem;">
@@ -79,15 +80,33 @@ function pad2(n: number): string {
 
     let raf = 0;
     let lastY = 0;
+    let mouseActive = false;          // is the user actively hovering the rail?
+    let scrollTargetY = null;         // Y position derived from scroll-spied article
+
+    // Map YYYY-MM -> month element for fast lookup
+    const monthByYm = new Map();
+    for (const m of months) {
+      const ym = m.getAttribute('data-ym');
+      if (ym) monthByYm.set(ym, m);
+    }
 
     function apply() {
       raf = 0;
+      // While mouse is on rail, lastY follows cursor.
+      // Otherwise, follow the scroll-spied article position (if any).
+      const targetY = mouseActive ? lastY : scrollTargetY;
+      if (targetY == null) {
+        for (const m of months) {
+          m.style.transform = '';
+          m.style.fontWeight = '';
+        }
+        return;
+      }
       for (const m of months) {
         const rect = m.getBoundingClientRect();
         const center = rect.top + rect.height / 2;
-        const dist = Math.abs(lastY - center);
+        const dist = Math.abs(targetY - center);
         const t = Math.max(0, 1 - dist / DOCK_REACH);
-        // Ease so the falloff is smoother than linear.
         const eased = t * t * (3 - 2 * t);
         const scale = 1 + (DOCK_MAX - 1) * eased;
         m.style.transform = 'scale(' + scale.toFixed(3) + ')';
@@ -95,23 +114,103 @@ function pad2(n: number): string {
       }
     }
 
-    function onMove(e) {
-      lastY = e.clientY;
+    function schedule() {
       if (!raf) raf = requestAnimationFrame(apply);
     }
 
-    function reset() {
-      if (raf) {
-        cancelAnimationFrame(raf);
-        raf = 0;
-      }
-      for (const m of months) {
-        m.style.transform = '';
-        m.style.fontWeight = '';
-      }
+    function onMove(e) {
+      mouseActive = true;
+      lastY = e.clientY;
+      schedule();
+    }
+
+    function onLeave() {
+      mouseActive = false;
+      schedule();
     }
 
     rail.addEventListener('mousemove', onMove);
-    rail.addEventListener('mouseleave', reset);
+    rail.addEventListener('mouseleave', onLeave);
+
+    // ---------- Scroll-spy: highlight the month of the most-visible article ----------
+    function ymFromTime(t) {
+      const dt = t.getAttribute('datetime') || t.textContent || '';
+      const m = dt.match(/(\d{4})-(\d{2})/);
+      return m ? `${m[1]}-${m[2]}` : null;
+    }
+
+    // Collect article time elements: NewsCard / FlowCard / NewsLayout all use
+    // <time datetime="...">. We restrict to <time> inside <article> elements
+    // so unrelated dates (e.g. footer, header) are ignored.
+    const articleTimes = Array.from(document.querySelectorAll('article time[datetime]'));
+
+    function setActiveYm(ym) {
+      if (!ym) {
+        scrollTargetY = null;
+        if (!mouseActive) schedule();
+        return;
+      }
+      const el = monthByYm.get(ym);
+      if (!el) {
+        scrollTargetY = null;
+        if (!mouseActive) schedule();
+        return;
+      }
+      const rect = el.getBoundingClientRect();
+      // If the target month is not currently visible inside the rail (it could
+      // be scrolled out), bring it into view smoothly so the magnification is
+      // actually visible.
+      const railRect = rail.getBoundingClientRect();
+      if (rect.top < railRect.top + 20 || rect.bottom > railRect.bottom - 20) {
+        try { el.scrollIntoView({ block: 'center', behavior: 'smooth' }); } catch {}
+      }
+      scrollTargetY = rect.top + rect.height / 2;
+      if (!mouseActive) schedule();
+    }
+
+    if (articleTimes.length === 1) {
+      // Article detail page — only one date, set it once on load.
+      setActiveYm(ymFromTime(articleTimes[0]));
+      // Also re-anchor on resize/scroll because viewport-relative Y may shift.
+      const update = () => setActiveYm(ymFromTime(articleTimes[0]));
+      window.addEventListener('resize', update);
+      window.addEventListener('scroll', update, { passive: true });
+    } else if (articleTimes.length > 1 && 'IntersectionObserver' in window) {
+      // Listing pages — pick the most-visible article and follow it.
+      const visibility = new Map();      // time element -> intersectionRatio
+      let pickRaf = 0;
+      function pickBest() {
+        pickRaf = 0;
+        let bestEl = null;
+        let bestRatio = 0;
+        // Prefer items closer to viewport center for tie-breaks.
+        const vh = window.innerHeight || document.documentElement.clientHeight;
+        const vCenter = vh / 2;
+        let bestDist = Infinity;
+        for (const [el, ratio] of visibility) {
+          if (ratio <= 0) continue;
+          const r = el.getBoundingClientRect();
+          const c = r.top + r.height / 2;
+          const dist = Math.abs(c - vCenter);
+          if (ratio > bestRatio + 0.05) {
+            bestRatio = ratio; bestEl = el; bestDist = dist;
+          } else if (Math.abs(ratio - bestRatio) <= 0.05 && dist < bestDist) {
+            bestRatio = ratio; bestEl = el; bestDist = dist;
+          }
+        }
+        setActiveYm(bestEl ? ymFromTime(bestEl) : null);
+      }
+      const io = new IntersectionObserver((entries) => {
+        for (const e of entries) {
+          visibility.set(e.target, e.isIntersecting ? e.intersectionRatio : 0);
+        }
+        if (!pickRaf) pickRaf = requestAnimationFrame(pickBest);
+      }, {
+        // Start tracking slightly above/below viewport so updates feel responsive.
+        rootMargin: '-20% 0px -20% 0px',
+        threshold: [0, 0.25, 0.5, 0.75, 1],
+      });
+      for (const t of articleTimes) io.observe(t);
+    }
   })();
 </script>
