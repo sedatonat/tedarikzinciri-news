@@ -12,7 +12,7 @@ interface Props {
   /** How many tags to display */
   limit?: number;
 }
-const { lang, days = 30, limit = 10 } = Astro.props as Props;
+const { lang, days = 30, limit = 5 } = Astro.props as Props;
 
 const collection = lang === 'tr' ? 'news-tr' : 'news-en';
 const entries = await getCollection(collection, ({ data }) => !data.draft);
@@ -103,28 +103,28 @@ const chronoHref = lang === 'tr' ? '/kronoloji/' : '/en/chronology/';
       </svg>
     </a>
     <div class="rounded-2xl bg-ink-100/70 dark:bg-ink-900/70 border border-ink-200 dark:border-ink-800 overflow-hidden">
-      <div class="px-4 pt-3 pb-2 flex items-center gap-2">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5 text-brand-500" aria-hidden="true">
+      <div class="px-3.5 pt-2.5 pb-1.5 flex items-center gap-1.5">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4 text-brand-500" aria-hidden="true">
           <polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/><polyline points="16 7 22 7 22 13"/>
         </svg>
-        <h2 class="text-lg font-bold tracking-tight">{heading}</h2>
+        <h2 class="text-base font-bold tracking-tight">{heading}</h2>
       </div>
       <ul class="divide-y divide-ink-200 dark:divide-ink-800">
         {trending.map(t => {
           const cat = topCategory(t.cats);
           const catLabel = cat ? (categoryLabel[cat]?.[lang] ?? cat) : '';
           return (
-            <li class="px-4 py-3 hover:bg-ink-200/50 dark:hover:bg-ink-800/50 transition-colors">
+            <li class="px-3.5 py-2.5 hover:bg-ink-200/50 dark:hover:bg-ink-800/50 transition-colors">
               {catLabel && (
-                <div class="text-[11px] uppercase tracking-wide text-ink-500 dark:text-ink-400">
+                <div class="text-[9px] uppercase tracking-wide text-ink-500 dark:text-ink-400">
                   <a href={categoryPath(lang, cat)} class="hover:text-brand-600 dark:hover:text-brand-400 hover:underline">{catLabel}</a>
                 </div>
               )}
               <a href={tagPath(lang, t.display)} class="block group">
-                <div class="font-bold text-base capitalize text-ink-900 dark:text-ink-50 leading-snug group-hover:text-brand-600 dark:group-hover:text-brand-400">
+                <div class="font-bold text-sm capitalize text-ink-900 dark:text-ink-50 leading-snug group-hover:text-brand-600 dark:group-hover:text-brand-400">
                   #{t.display}
                 </div>
-                <div class="text-xs text-ink-500 dark:text-ink-400 mt-0.5">{postsLabel(t.count)}</div>
+                <div class="text-[10px] text-ink-500 dark:text-ink-400 mt-0.5">{postsLabel(t.count)}</div>
               </a>
             </li>
           );
