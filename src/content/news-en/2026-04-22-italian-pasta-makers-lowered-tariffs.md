@@ -28,8 +28,3 @@ tags: ['İtalyan makarna', 'Trump', 'Barilla', 'La Molisana', 'Pastificio Lucio 
 3. <strong>Italian</strong> government makes announcement on January 1.<br>
 4. 13 producers, including <strong>Barilla</strong>, <strong>La Molisana</strong>, and <strong>Pastificio Lucio Garofalo</strong>, face allegations.<br>
 5. Additional 2-4 percent added on top of existing 15 percent tariff.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge through this link.</p>
-<p><br></p>
-<p>[43070]</p>

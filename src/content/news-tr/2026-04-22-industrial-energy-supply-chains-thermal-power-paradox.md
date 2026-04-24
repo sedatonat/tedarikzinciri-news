@@ -34,8 +34,3 @@ tags:
 3. Gelişiyor olan ekonomiler; termal güce milyonlarca iş ve 1.4 milyar+ nüfus için bağımlı oluyor.<br>
 4. Dört sütunlu çözüm; verimlilik; <strong>CCUS</strong>; yakıt geçişi; yenilenebilir entegrasyon kapsıyor.<br>
 5. <strong>JETP</strong>; <strong>South Africa</strong>; <strong>Indonesia</strong>; <strong>Vietnam</strong>; <strong>Senegal</strong> ile <strong>G7</strong> finansman ortaklıkları oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42490]</p>

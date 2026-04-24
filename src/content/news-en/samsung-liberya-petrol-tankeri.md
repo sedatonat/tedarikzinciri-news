@@ -66,12 +66,3 @@ The agreement also demonstrates the company's continued <strong>strategic focus 
   <li><p><strong>Geoje Shipyard</strong> is positioned as the primary facility where the vessels are expected to be built.</p></li>
   <li><p>The agreement is regarded as part of SHI's <strong>energy transportation-focused growth strategy</strong>.</p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through this link.</p>
-<p>Your feedback would make us happy.</p>
-<p>We wish you happy reading.</p>

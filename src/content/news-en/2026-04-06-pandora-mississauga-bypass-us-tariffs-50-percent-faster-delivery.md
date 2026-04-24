@@ -23,8 +23,3 @@ tags: ["Pandora", "Canada", "USMCA", "tariffs", "GXO Logistics", "nearshoring"]
 3. The facility has a daily capacity of 12,500 orders.<br>
 4. GXO Logistics operates the site.<br>
 5. The move balances tariff exposure ahead of the July USMCA review.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

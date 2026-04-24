@@ -23,8 +23,3 @@ tags: ["UPS", "RFID", "FedEx", "Ingram Micro", "shipment visibility", "smart lab
 3. Twenty million manual scans per day are being eliminated.<br>
 4. Ingram Micro is among the first large-scale customers to use the system.<br>
 5. FedEx is running RFID trials in parallel.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

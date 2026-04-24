@@ -22,4 +22,3 @@ tags:
 <p>Bu cihaz, geniş kullanım alanlarına sahip olup, özellikle konteyner takibi, soğuk zincir yönetimi ve değerli eşyaların takibinde etkili bir çözüm sunuyor. Bu gelişme, tedarik zinciri ve lojistik alanında teknolojik yeniliklerin ne kadar önemli olduğunu gösteriyor.&nbsp;</p>
 <p><br></p>
 <p>Bu ödül, aynı zamanda Türk girişimcilerin uluslararası arenada nasıl önemli başarılar elde edebileceğinin de bir göstergesi.</p>
-<p><br></p>

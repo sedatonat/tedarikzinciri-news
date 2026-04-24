@@ -37,13 +37,6 @@ tags:
   <li><p><strong>Cost Assumptions Evolving:</strong> Businesses are reconsidering old assumptions about costs and recognizing the value that proximity brings.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
+
 <p>We would be delighted to hear your feedback.</p>
 <p>Wishing you happy reading.</p>

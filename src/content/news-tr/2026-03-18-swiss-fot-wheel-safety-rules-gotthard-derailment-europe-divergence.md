@@ -27,8 +27,3 @@ tags:
 3. İsviçre kuralları daha sıkı ve uygulaması daha maliyetli.<br>
 4. Vagon sahipleri ek bakım maliyetlerinden ve sınır geçiş sorunlarından şikayetçi.<br>
 5. Avrupa Komisyonu'nun arabuluculuk yapması talep ediliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

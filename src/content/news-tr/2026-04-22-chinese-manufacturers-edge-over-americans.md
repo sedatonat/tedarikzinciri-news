@@ -36,9 +36,3 @@ tags:
 3. <strong>U.S.</strong> &ldquo;<strong>contractual</strong>&rdquo;; <strong>China</strong> &ldquo;<strong>cultural</strong>&rdquo; iş gücü modeline sahip oluyor.<br>
 4. Tedarikçi yoğunluğu; <strong>China</strong>&rsquo;nın kalıcı avantajlarından biri oluyor.<br>
 5. <strong>CHIPS Act</strong> ve otomasyon; <strong>U.S.</strong>&rsquo;nin rekabet edebiliyor olunmasını sağlıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43871]</p>

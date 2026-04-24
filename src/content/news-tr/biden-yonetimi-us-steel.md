@@ -43,14 +43,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Nippon Steel, U.S. Steel'in tesislerine yatırım yaparak rekabet gücünü artırmayı vaat ediyor.<a href="https://apnews.com/article/7899061b41e9597daaee77f4d7ac2b9e?utm_source=chatgpt.com" rel="noopener" target="_blank">AP News</a></p></li>
   <li style="text-align: justify"><p style="text-align: justify">U.S. Steel ve Nippon Steel, Biden'ın kararına karşı federal mahkemede dava açtı.<a href="https://abcnews.go.com/Business/us-steel-nippon-steel-sue-biden-administration-blocked/story?id=117375339&amp;utm_source=chatgpt.com" rel="noopener" target="_blank">ABC News</a></p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p><br></p>

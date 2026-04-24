@@ -34,11 +34,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>China</strong>'s railway vehicle manufacturer <strong>CRRC</strong> operates a production facility in Turkey and is building an electric vehicle factory.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book on How to Obtain ERP Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
+
 <p>Your feedback would make us happy.</p>
 <p>We wish you happy reading in advance.</p>

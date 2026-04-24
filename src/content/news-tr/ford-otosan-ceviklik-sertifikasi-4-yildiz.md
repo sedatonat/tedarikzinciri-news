@@ -25,8 +25,6 @@ tags:
 <p>Şirket, çevik dönüşüm yolculuğunda dört ana alana; organizasyon ve kültürel dönüşüm, değişim yönetimi ve iş yapış biçimlerinin dönüşümüne odaklandı. Bu süreçte, tüm değer zincirinde çevik çalışma yöntemleri tam anlamıyla uygulanmaya başlandı.&nbsp;</p>
 <p><br></p>
 <p>Ford Otosan İnsan Kaynakları ve Dönüşüm Lideri <a href="https://www.linkedin.com/in/başak-çalıkoğlu-akyol-95982a1/"><u>Başak Akyol</u></a>, çevik dönüşümün sadece operasyonel verimliliği artırmakla kalmayıp, aynı zamanda müşteri memnuniyeti ve süreç iyileştirmelerinde de belirgin iyileşmeler sağladığını belirtti.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ul>
   <li><p>Ford Otosan, "<a href="https://businessagility.institute/"><u>Business Agility Institute</u></a>" tarafından "4 Yıldızlı Organizasyon" sertifikasını alan ilk Türk otomotiv üretim şirketi oldu.</p></li>
@@ -36,4 +34,3 @@ tags:
   <li><p>Çevik çalışma yöntemleri, şirketin tüm değer zincirinde yüzde 100 oranında uygulanmaya başlandı.</p></li>
   <li><p>Çevik dönüşüm, operasyonel verimliliğin yanı sıra müşteri memnuniyeti ve süreç iyileştirmelerinde de iyileşmelere yol açtı.</p></li>
 </ul>
-<p><br></p>

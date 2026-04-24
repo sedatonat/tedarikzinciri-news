@@ -40,12 +40,6 @@ tags:
   <li><p>The company views the continuity of security corridors in the region and international cooperation as critical.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via this link.</p>
+
 <p>We would appreciate your feedback.</p>
 <p>Wishing you happy reading.</p>
-<p><br></p>

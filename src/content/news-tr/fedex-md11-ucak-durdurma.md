@@ -35,8 +35,6 @@ tags:
 <p style="text-align: justify">Müşteri tarafında ise daha olumlu bir tablo öne çıkıyor. FedEx <strong>EVP ve Chief Customer Officer’ı Brie Carere</strong>, devam eden MD-11 sorunlarına rağmen şirketin yoğun sezon talebini etkili biçimde yönettiğini vurguladı. Carere, özellikle hava operasyon ekiplerinin gösterdiği performansın altını çizerken, önümüzdeki haftanın kritik önem taşıdığına dikkat çekti.</p>
 <p><br></p>
 <p style="text-align: justify">Genel değerlendirme, MD-11 filosunun yere indirilmesinin kısa vadede maliyetleri artırdığını ve kapasite planlamasını zorlaştırdığını ortaya koyuyor. Ancak FedEx’in devreye aldığı alternatif taşıma çözümleri ve operasyonel esneklik, hizmet seviyelerini koruma konusunda belirleyici rol üstleniyor.</p>
-<p><br></p>
-<p style="text-align: justify"><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">FedEx, MD-11 filosunun yere indirilmesi nedeniyle 175 milyon dolarlık olumsuz etki bekliyor.</p></li>

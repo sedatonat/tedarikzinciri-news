@@ -39,13 +39,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The partnership is seen as a significant step toward the deployment of autonomous trucks on U.S. highways.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through this link.</p>
+
 <p>We would be pleased to receive your feedback.</p>
 <p>We wish you happy reading in advance.</p>
-<p><br></p>
-<p><br></p>

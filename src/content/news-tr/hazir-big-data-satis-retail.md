@@ -45,12 +45,3 @@ tags:
   <li><p>Veri hazırlığı düşük olan firmalar, <strong>yenilikçilik, müşteri kazanımı ve tedarik zinciri yönetimi</strong> konularında dezavantaj yaşıyor.</p></li>
   <li><p>Güvenilir ve zamanında veri, <strong>eylemlenebilir içgörünün</strong> ve <strong>sürdürülebilir büyümenin</strong> temelini oluşturuyor.</p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

@@ -21,8 +21,3 @@ tags: ["Port of Antwerp-Bruges", "oil spill", "Deurganckdok", "bunkering", "Sche
 3. The spill occurred on 10 April during a bunkering operation.<br>
 4. The pollution spread overnight to the Scheldt River, affecting shipping traffic and locks.<br>
 5. Port officials announced that safety procedures in bunker operations will be reviewed.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

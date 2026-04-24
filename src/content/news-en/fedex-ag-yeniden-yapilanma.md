@@ -35,8 +35,6 @@ tags:
 <p style="text-align: justify">Additionally, FedEx is grappling with <strong>persistent global shipment demand weakness</strong> that has become permanent since the pandemic. Erratic tariff policies implemented during the Trump era have particularly hurt high-margin shipments on the <strong>China-U.S. corridor</strong>. The company has previously stated that this volatility generated a <strong>$1 billion</strong> negative impact on adjusted operating profit. Nevertheless, FedEx is painting a more optimistic picture by raising its annual revenue growth guidance to a range of <strong>5 to 6 percent</strong>.</p>
 <p><br></p>
 <p style="text-align: justify">Among analysts, cautious optimism prevails. <strong>Citi</strong> analyst <strong>Ariel Rosa</strong> emphasizes that progress signals toward long-term margin improvement goals are evident, but the process could advance unevenly due to macroeconomic conditions and cost pressures.</p>
-<p><br></p>
-<p style="text-align: justify"><br></p>
 <h3 style="text-align: justify"><strong>Key Takeaways</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">FedEx has disclosed the first financial results of its network integration and cost reduction strategy.</p></li>

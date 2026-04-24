@@ -22,8 +22,6 @@ tags:
 <p><a href="https://www.und.org.tr/"><u>UND </u></a>tarafından "Taşımacının Başucu Kitabı" adıyla yeni bir yayın tanıtıldı. 10 yıl süren birikimle ve alanında uzman avukatlarca hazırlanan bu eser, taşımacılık sektöründe karşılaşılan hukuki sorunlar hakkında bilgiler içeriyor. Kitap, sektördeki firmaların ve çalışanların başvurabileceği önemli bir kaynak olma özelliği taşıyor. 25 Mart'ta İstanbul'da düzenlenen lansman etkinliğine <a href="https://www.und.org.tr/"><u>UND </u></a>Yönetim Kurulu Başkanı, yazarlar ve sponsor firmaların temsilcileri katıldı. Kitap, taşımacılıkla ilgili hukuki konular, sözleşmeler, talimatlar ve tutanaklar gibi pratik bilgiler sunuyor.&nbsp;</p>
 <p><br></p>
 <p>Ayrıca, CMR &amp; TTK, Gümrük ve Kaçakçılık Kanunu, İş Kanunu gibi alanlarda bilgi notlarına da yer veriliyor. Yazarlar, konuları akademik bilgiden ziyade, pratik ve yalın bir şekilde anlatmayı tercih etmişler.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ul>
   <li><p>Kitap, taşımacılık sektöründeki hukuki meselelere dair kapsamlı bir kaynak sunuyor.</p></li>
@@ -32,5 +30,3 @@ tags:
   <li><p>Kitap, CMR &amp; TTK, Gümrük ve Kaçakçılık Kanunu, İş Kanunu gibi önemli konuları kapsıyor.</p></li>
   <li><p>Pratik uygulamalara ve gerçek hayattan örneklerle dolu.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

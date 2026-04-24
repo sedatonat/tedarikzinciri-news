@@ -29,9 +29,6 @@ tags:
 </ol>
 <p><br></p>
 <p>Bremmer, bu sorunların bir sonraki seçim döngüsünde çözülemeyeceği konusunda uyardı ve işletmelerin tedarik zincirlerine yönelik jeopolitik risklerin bir süre daha devam edeceğini öngörmeleri gerektiğini belirtti. Özellikle Ortadoğu'daki mevcut krizin, İsrail ve İran arasında doğrudan bir çatışmaya yol açması ve bu durumun petrol akışının kritik bir noktası olan Hürmüz Boğazı'nı etkilemesi, küresel ekonomi üzerinde ciddi sonuçlar doğurabilir.</p>
-<p><br></p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ol>
   <li><p>Jeopolitik durgunluk, küresel tedarik zincirlerine bir vergi olarak yansıyor.</p></li>
@@ -40,4 +37,3 @@ tags:
   <li><p>Batılı demokrasilerde artan karşıt-establishment duygusu politik kurumların meşruiyetini sorgulatıyor.</p></li>
   <li><p>Jeopolitik risklerin bir sonraki seçim döngüsünde çözülemeyeceği, bu sorunların devam edeceği öngörülüyor.</p></li>
 </ol>
-<p><br></p>

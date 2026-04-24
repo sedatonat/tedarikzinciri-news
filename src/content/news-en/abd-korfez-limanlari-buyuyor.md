@@ -48,11 +48,6 @@ tags:
   <li><p>Port authorities and logistics firms are working on new strategies and technologies to enhance operational efficiency.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Acquire ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via the link above.</p>
+
 <p>We would appreciate any feedback you may have.</p>
 <p>Wishing you happy reading in advance.</p>

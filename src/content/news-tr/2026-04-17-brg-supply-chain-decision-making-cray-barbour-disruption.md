@@ -27,8 +27,3 @@ tags:
 3. Başarılı ekipler tek komuta merkezinden yönetiliyor ve stratejiyi dakikalar içinde revize edebiliyor.<br>
 4. Nathan Cray ve Ken Barbour; karar yetkisinin önceden tanımlanmasını ve oyun kitapçıklarını öneriyor.<br>
 5. Teknoloji yatırımından çok, onu destekleyen karar kültürü kritik öneme sahip.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -39,14 +39,3 @@ tags:
   <li><p><strong>Kritik Öncelikler:</strong> Gerçek zamanlı ağ görünürlüğü, güvenli küresel bağlantı ve maliyet kontrolü üreticilerin ana öncelikleri arasında yer alıyor.</p></li>
   <li><p><strong>Dijital Dönüşüm:</strong> Üreticiler, dijital dönüşüm sürecinde ağ güvenliğini sağlama konusunda zorluklar yaşıyorlar.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

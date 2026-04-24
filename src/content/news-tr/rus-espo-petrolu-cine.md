@@ -43,12 +43,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Kozmino</strong> limanından Çin'e yapılan <strong>ESPO</strong> petrolü sevkiyatlarında kullanılan <strong>Aframax</strong> tipi tankerlerin taşıma maliyetleri, 1,5 milyon dolardan 5 milyon ila 5,5 milyon dolara yükseldi.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Shandong</strong> eyaletindeki limanlar, yaptırıma tabi gemileri kabul etme konusunda temkinli davranmakta, bu da gemilerin</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

@@ -30,8 +30,3 @@ tags:
 3. MOBIUS öngörücü bakım yıllık 10 milyon ABD doları tasarruf sağlıyor.<br>
 4. Berkshire Grey treyler boşaltıcı 20+ hub'a yayılacak.<br>
 5. RFID sensörleri seçili müşteri paketlerinde test ediliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

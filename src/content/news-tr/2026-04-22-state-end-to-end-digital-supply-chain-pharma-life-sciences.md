@@ -35,8 +35,3 @@ tags:
 3. <strong>DSCSA</strong>; <strong>EU FMD</strong>; ana <strong>serialization</strong> düzenleyici çerçeveler oluyor.<br>
 4. <strong>TraceLink</strong>; <strong>SAP ATTP</strong>; ana <strong>track-and-trace</strong> platformları oluyor.<br>
 5. <strong>McKesson</strong>; <strong>Cencora</strong>; <strong>Cardinal Health</strong>; ABD &ldquo;Big 3&rdquo; distribütörleri oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41400]</p>

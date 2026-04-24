@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">As part of that effort, an <em>e-Allegations</em> program enables the trade community and general public to report suspected trade violations to CBP via an electronic portal. DOJ and CBP have their work cut out for them — fraudsters are executing carefully calculated schemes to evade duties and tariffs, often at substantial scale. For example, an Indonesian jewelry company was recently charged with running a years-long scheme to evade more than $86 million in customs duties and tariffs on $1.2 billion of jewelry imports.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, this tightening enforcement environment makes supplier transparency beyond <em>tier 1</em>, origin verification and <strong>HTS</strong> classification discipline strategic imperatives rather than back-office tasks. Importers will need to reassess <em>first sale</em> valuation practices, <em>transshipment</em> risk maps and use of foreign trade zones. Failing to do so risks retroactive tariff payments, treble damages and reputational harm that can land hard on the balance sheet.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43066]</p>

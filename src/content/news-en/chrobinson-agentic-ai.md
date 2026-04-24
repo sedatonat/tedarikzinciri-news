@@ -69,14 +69,8 @@ This speed creates a ripple effect across all phases of the supply chain, shorte
   <li style="text-align: justify"><p style="text-align: justify">The company is now positioned as <strong>"the AI leader in logistics."</strong></p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Procure ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
 <p>Your feedback would make us happy.</p>
 <p>We wish you happy reading from now on.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

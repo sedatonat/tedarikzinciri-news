@@ -28,8 +28,3 @@ tags: ['UniUni', 'Joshua Haun', 'McKinsey', 'son mil', 'e-ticaret', 'güvenilirl
 3. <strong>Joshua Haun</strong> speaks as <strong>UniUni</strong> <strong>VP Business Development</strong>.<br>
 4. Rate transparency is critical for thin-margin <strong>e-commerce</strong>.<br>
 5. Missed <strong>SLA</strong>s disrupt forecasting/cost/brand reliability.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Purchase ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free through this link.</p>
-<p><br></p>
-<p>[43604]</p>

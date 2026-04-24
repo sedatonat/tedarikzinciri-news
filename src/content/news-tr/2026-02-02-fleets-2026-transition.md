@@ -35,11 +35,3 @@ tags:
 3. Küçük filolar bile çok sayıda <strong>enterprise-grade integration</strong>&rsquo;a ihtiyaç duyuyor.<br>
 4. Veri hacmi ve istisna olayları operasyonel karmaşıklığı keskin biçimde yükseltiyor.<br>
 5. Modernizasyon artık tam yenileme değil; aşamalı yetkinlik artışı anlamına geliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43146]</p>

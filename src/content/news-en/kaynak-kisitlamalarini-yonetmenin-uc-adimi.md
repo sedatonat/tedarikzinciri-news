@@ -41,4 +41,3 @@ tags:
   <li><p>The most effective way to gain stakeholder support is to emphasize short-term impacts on business survival.</p></li>
   <li><p>Supply chain leaders should focus their strategies on three categories: de-prioritizing long-term constraints, re-prioritizing long-term constraints to design solutions, and using the market to learn and innovate.</p></li>
 </ol>
-<p><br></p>

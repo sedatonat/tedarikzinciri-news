@@ -27,4 +27,3 @@ tags:
   <li><p>İzmir Limanı, Türkiye'nin en büyük limanlarından biri ve yatırıma ihtiyacı olan eski bir yapı.</p></li>
   <li><p>Potansiyel başka alıcılarla görüşülmüş ancak ADP ile ilerlenmiş.</p></li>
 </ol>
-<p><br></p>

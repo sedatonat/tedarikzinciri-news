@@ -33,12 +33,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>2024 İhracatı:</strong> Moğolistan, 2024 yılında Çin'e 83 milyon ton kömür ihraç etti.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Çin'in Kömür Arayışı:</strong> Pekin, metalurji endüstrisi için ek kömür kaynakları arıyyor, zira mevcut yaptırımlar ve tarifeler Rusya ve ABD'den ithalatı zorlaştırıyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

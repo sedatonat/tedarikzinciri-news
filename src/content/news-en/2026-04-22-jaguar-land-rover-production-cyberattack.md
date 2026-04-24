@@ -27,8 +27,3 @@ tags: ['Jaguar Land Rover', 'JLR', 'siber saldırı', 'Tata Motors', 'otomotiv',
 3. Industry sources warn disruption could extend through November.<br>
 4. <strong>Tata Motors</strong> is the parent company of <strong>JLR</strong>.<br>
 5. Small and medium-sized suppliers face financial difficulties.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>
-<p><br></p>
-<p>[42500]</p>

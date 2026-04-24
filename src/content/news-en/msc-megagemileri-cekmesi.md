@@ -31,14 +31,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Following the end of its <strong>2M</strong> partnership with <strong>Maersk</strong>, <strong>MSC</strong> has entered into a new slot-sharing agreement with <strong>ONE</strong>, <strong>HMM</strong>, and <strong>Yang Ming Marine Transportation</strong>, covering nine services.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">These moves are seen as part of <strong>MSC</strong>'s efforts in capacity management and adapting to market conditions.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book "How to Acquire ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
-<p>Your feedback would make us happy.</p>
-<p>We wish you happy reading.</p>
-<p><br></p>
-<p><br></p>

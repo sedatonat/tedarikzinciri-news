@@ -30,4 +30,3 @@ tags:
   <li><p>Yaklaşık 1000 dijital uzman ekleniyor.</p></li>
   <li><p>Accenture, tüm ürün değer zinciri boyunca otomasyon çözümleri sunacak kapasiteye sahip olacak.</p></li>
 </ul>
-<p><br></p>

@@ -29,8 +29,3 @@ tags:
 3. Sipariş 2025 Q4'te verildi; teslimat 2026 Q2'de gerçekleşecek.<br>
 4. Transtec World; Santos'ta sekiz saha işletip yıllık 710.000'in üzerinde konteyner elleçliyor.<br>
 5. Elektrikli ECC serisi; sıfır emisyon, düşük gürültü ve operasyonel maliyet avantajları sunuyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -35,8 +35,3 @@ tags:
 3. <strong>Port of Los Angeles</strong>; 27 Nisan haftası gemi sayısı %27 düşüyor.<br>
 4. <strong>Wall Street Journal</strong>; iki haftada %35 ithalat hacmi düşüşü öngörüyor.<br>
 5. <strong>Trump</strong>; <strong>Çin</strong>&rsquo;e %145+ tarife; ana baskı kaynağı oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41640]</p>

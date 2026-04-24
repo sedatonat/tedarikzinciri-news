@@ -50,12 +50,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">This agreement contributes to <strong>Ukraine</strong>'s economic development and strengthens its geopolitical position.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">An increase in similar collaborations in the future will enable rare earth elements supply to achieve a more balanced structure.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
-<p>We would be delighted to hear your feedback.</p>
-<p>We wish you happy reading.</p>

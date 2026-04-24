@@ -27,8 +27,3 @@ tags: ['Jaguar Land Rover', 'JLR', 'siber saldırı', 'Bloomberg', 'SMMT', 'İng
 3. <strong>SMMT</strong> data reported September at 51,090 units.<br>
 4. The <strong>British</strong> automotive sector faces multiple structural pressures.<br>
 5. The <strong>U.K. government</strong> provided <strong>JLR</strong> suppliers with £1.5 billion in credit guarantees.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our Book Is Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[42720]</p>

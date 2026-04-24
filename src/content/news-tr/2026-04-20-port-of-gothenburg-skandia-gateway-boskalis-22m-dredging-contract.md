@@ -32,8 +32,3 @@ tags:
 3. Beş teklif sahibinin yer aldığı rekabetçi ihale sonucunda Boskalis seçildi.<br>
 4. Proje Yöneticisi Jan Andersson; Boskalis'i 'son derece yetkin bir yüklenici' olarak nitelendirdi.<br>
 5. 2024'te tamamlanan rıhtım güçlendirme çalışmaları; tarama aşamasının ön koşuluydu.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

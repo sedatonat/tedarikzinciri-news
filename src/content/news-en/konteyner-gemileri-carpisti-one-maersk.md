@@ -38,12 +38,3 @@ tags:
 <p><br></p>
 <p><strong>For a detailed presentation related to the collision, you can access the following YouTube link:</strong></p>
 <p><a href="https://www.youtube.com/watch?v=JuBK_1aiLDc"><u>https://www.youtube.com/watch?v=JuBK_1aiLDc</u></a></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Acquire ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a>&nbsp;You can download and read it for free through this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

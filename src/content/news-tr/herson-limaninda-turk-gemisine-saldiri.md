@@ -34,4 +34,3 @@ tags:
   <li><p>Olay, deniz ticareti ve Türk denizcilerinin güvenliğine yönelik tehdidi gösteriyor.</p></li>
   <li><p>Uzmanlar, Türk gemilerinin güvenliğinin sağlanması ve savaşın sonlandırılması için adımların atılmasının önemini vurguluyor.</p></li>
 </ol>
-<p><br></p>

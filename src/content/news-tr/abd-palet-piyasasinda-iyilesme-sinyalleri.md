@@ -26,8 +26,6 @@ tags:
 <p>Fiyatlama konusunda ise piyasa koşullarına rağmen nötrden hafif artış yönünde bir eğilim görülüyor; bu da talep ile arz arasında bir denge kurulduğunu ve piyasa gelişmelerine uygun ılımlı fiyat ayarlamalarının mümkün olduğunu gösteriyor.&nbsp;</p>
 <p><br></p>
 <p>PalletTrader Satış ve Operasyonlardan Sorumlu Kıdemli Başkan Yardımcısı Kevin Kull, elde edilen verilerin sadece mevcut durumu değil, aynı zamanda sektördeki gelecekteki olası değişikliklere hazırlıklı olmanın önemini vurguladığını belirtti.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>
   <li><p>ABD palet piyasası, belirsizliklerle dolu bir dönemden sonra istikrar sinyalleri göstermeye başladı.</p></li>
@@ -35,5 +33,3 @@ tags:
   <li><p>Önümüzdeki altı ay içinde palet talebinde iyimser bir artış bekleniyor.</p></li>
   <li><p>Fiyatlama konusunda, piyasa koşulları değişken olmasına rağmen, nötrden hafifçe artan bir eğilim söz konusu.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

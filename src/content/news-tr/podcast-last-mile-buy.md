@@ -30,5 +30,3 @@ tags:
 3. Hibrit modeller yaygındır.<br>
 4. Karar talep ve SLA parametrelerine bağlıdır.<br>
 5. Uzun vadede özelleştirme maliyeti düşürebilir.</p>
-<p><br></p>
-<p>[825]</p>

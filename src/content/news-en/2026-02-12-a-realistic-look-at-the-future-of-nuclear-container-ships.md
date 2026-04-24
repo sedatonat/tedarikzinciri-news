@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">So what is stopping ocean carriers from rolling out a fleet of ultra-efficient vessels powered by nuclear reactors right now? "The problem is the operational feasibility, and that's where it gets ludicrously expensive, fast," says Scott LaFoy, VP for nuclear and technology security programs at supply chain management platform Exiger. The biggest issue is the lack of infrastructure, since ports do not currently have any systems in place to host and refuel nuclear container ships, and establishing that infrastructure would represent a substantial investment.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the commercial scaling of nuclear container ships will require deep updates to the <strong>IMO</strong>'s <strong>SOLAS</strong> and <strong>STCW</strong> frameworks, while "nuclear exclusion" clauses in <strong>P&I Club</strong> coverage will need to be revisited. Alongside the methanol and ammonia investments being pursued by <strong>Maersk</strong>, <strong>CMA CGM</strong> and <strong>NYK Line</strong>, nuclear could become a complementary medium-term decarbonization pathway, but commercial scale is unlikely before the 2030s. For <strong>BCOs</strong>, this introduces a new scenario layer in alternative-fuel surcharge planning.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43459]</p>

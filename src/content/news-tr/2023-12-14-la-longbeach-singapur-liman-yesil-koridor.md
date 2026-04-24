@@ -28,4 +28,3 @@ tags:
 <p>Ayrıca, küresel ekonominin dörtte birini temsil eden 96 şehirden oluşan <a href="https://www.c40.org/"><u>C40 Şehirler Grubu</u></a> da bu sürece dahil olacak.&nbsp;</p>
 <p><br></p>
 <p>İlerleyen süreçte, Singapur, Los Angeles ve Long Beach arasındaki ticaret akışlarını ve gemi trafiğini analiz edecek bir çalışma yapılacak. Bu çalışma, koridorun gelişimine rehberlik edecek ve 2024'te yeni katılımcıların dahil olması planlanıyor.</p>
-<p><br></p>

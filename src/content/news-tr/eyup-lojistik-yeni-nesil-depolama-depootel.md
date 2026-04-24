@@ -29,4 +29,3 @@ tags:
   <li><p>Müşterilerin ihtiyaçlarına göre esnek ve kişiselleştirilmiş depolama çözümleri sunuluyor.</p></li>
   <li><p>Depootel, hem kurumsal hem de bireysel depolama ihtiyaçlarına hitap ediyor.</p></li>
 </ol>
-<p><br></p>

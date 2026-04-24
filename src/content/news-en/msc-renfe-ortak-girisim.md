@@ -41,11 +41,6 @@ tags:
   <li><p>This partnership represents an important example in the context of public-private sector cooperation in Europe.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge through this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>We wish you happy reading in advance.</p>

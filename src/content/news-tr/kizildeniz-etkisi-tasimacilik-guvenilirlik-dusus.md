@@ -34,4 +34,3 @@ tags:
   <li><p>Bu durum, sistemin bütününde bir "bulaşma" etkisi yaratabilir.</p></li>
   <li><p><a href="https://en.wikipedia.org/wiki/CMA_CGM"><u>CMA CGM</u></a>, ilk kez en güvenilir taşıyıcı olarak kaydedildi.</p></li>
 </ul>
-<p><br></p>

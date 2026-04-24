@@ -23,8 +23,3 @@ tags: ["UPS", "Teamsters", "buyout", "Driver Choice Program", "labor", "workforc
 3. The total driver workforce is roughly 105,000.<br>
 4. UPS targets a 30,000-position reduction in 2026.<br>
 5. Most of the program will be executed in the first half of 2026.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

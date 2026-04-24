@@ -46,13 +46,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">When developing data warehouse strategies, shippers should pay attention to cost, security, and compatibility issues.</p></li>
 </ul>
 <p style="text-align: justify">These developments further demonstrate the importance of digital transformation in the logistics sector. Shippers must update their data management strategies and optimize the integration of <strong>SaaS</strong> solutions to gain a competitive advantage.</p>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Procure ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through this link.</p>
-<p>We would be happy to receive your feedback.</p>
-<p>We wish you happy reading.</p>

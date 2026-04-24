@@ -23,4 +23,3 @@ tags:
 <p>Based on surveys of 1,484 warehouse workers at 451 facilities across 42 states, the study found that 69% of workers had taken unpaid leave to recover, and that 34% of those had done so three or more times.</p>
 <p><br></p>
 <p>The findings suggest that workplace injuries and pain at Amazon are more widespread than previously known. Amazon's demanding work pace is believed to be a contributing factor to these issues.</p>
-<p><br></p>

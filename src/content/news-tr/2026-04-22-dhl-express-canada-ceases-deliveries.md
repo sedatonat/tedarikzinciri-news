@@ -35,8 +35,3 @@ tags:
 3. <strong>Bill C-58</strong>; federal yedek işçi yasağı; aynı gün yürürlüğe giriyor.<br>
 4. <strong>Lululemon</strong>; <strong>Shein</strong>; <strong>Siemens</strong>; etkileniyor ana <strong>DHL Canada</strong> müşterileri oluyor.<br>
 5. Pazarlık öncelikleri; ücretler; çalışma koşulları; gözetim ve otomasyon oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42020]</p>

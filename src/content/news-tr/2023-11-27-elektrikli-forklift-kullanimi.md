@@ -28,6 +28,4 @@ tags:
 <p><strong>4-</strong> <strong>Yakıt dolumu veya şarj etme hızı ve kolaylığı </strong>kriterinde ise, elektrikli forkliftlerin şarj edilmesi zaman alsa da daha basit bir yöntem sunar.</p>
 <p><br></p>
 <p><strong>5- </strong>Son olarak, <strong>maliyet faktörü</strong> var. Elektrikli forkliftlerin başlangıçta daha yüksek maliyetli olabileceği, ancak uzun vadede daha düşük bakım maliyetleri ve yakıt tasarrufu sağlayabileceği barizdir.</p>
-<p><br></p>
-<p><br></p>
 <p><strong>Makale linki:</strong> <a href="https://www.allthingssupplychain.com/should-i-electrify-my-forklift-fleet-5-factors-to-consider/"><u>https://www.allthingssupplychain.com/should-i-electrify-my-forklift-fleet-5-factors-to-consider/</u></a></p>

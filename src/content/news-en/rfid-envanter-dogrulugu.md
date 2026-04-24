@@ -40,13 +40,6 @@ tags:
   <li><p>Omnichannel accuracy reduces returns and cancellations.</p></li>
   <li><p>Asset tracking optimizes operations.</p></li>
 </ul>
-<p>--------</p>
-<p>--------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
+
 <p>We would be pleased to hear your feedback.</p>
 <p>Happy reading!</p>
-<p><br></p>
-<p>[850]</p>

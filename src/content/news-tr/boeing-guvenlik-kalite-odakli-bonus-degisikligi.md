@@ -30,8 +30,6 @@ tags:
 <p>Araştırmacılar, pilotların iniş yaparken uçağın dümen sisteminin arızalandığı başka bir 737 Max olayını da inceliyor.&nbsp;</p>
 <p><br></p>
 <p>Boeing'in diğer iş birimleri bonus yapısında küçük değişiklikler görecek. Savunma, Uzay ve Güvenlik bölümünde ve Boeing Global Hizmetlerinde operasyonel metrikler, iş birimi puanlarının %25'ini oluşturmaya devam edecek, ancak yalnızca güvenlik ve kaliteye odaklanacak. Kurumsal plan, üç iş biriminin puanlarının ortalaması olacak.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ul>
   <li><p>Boeing, çalışan bonuslarında güvenlik ve kalite metriklerini artıracak.</p></li>
@@ -40,4 +38,3 @@ tags:
   <li><p>ABD kaza araştırmacıları, Boeing'in işbirliği yapmadığı konusunda eleştiri yaptı.</p></li>
   <li><p>Savunma, Uzay ve Güvenlik ile Boeing Global Hizmetler bölümlerinde küçük değişiklikler yapılacak.</p></li>
 </ul>
-<p><br></p>

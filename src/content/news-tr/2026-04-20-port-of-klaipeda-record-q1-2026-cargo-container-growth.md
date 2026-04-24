@@ -31,8 +31,3 @@ tags:
 3. İlk üç ayda 374.000 TEU işlendi; Mart limanın tüm zamanların en güçlü ayı oldu.<br>
 4. Klaipėda; pozitif büyüme rapor eden tek Baltık limanı olarak öne çıktı.<br>
 5. CEO Algis Latakas büyümenin altyapı ve terminal kapasitesi yatırımlarına bağlı olduğunu vurguladı.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

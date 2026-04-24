@@ -39,12 +39,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The use of electric trucks reduces carbon emissions while also lowering operational costs.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">This partnership serves as an example for other companies to develop sustainable logistics solutions.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via the link.</p>
-<p>Your feedback would make us happy.</p>
-<p>We wish you happy reading.</p>

@@ -35,8 +35,3 @@ tags:
 3. İşçilere; %70 maaş kesintisi; pasaport el koyma; depozito iadesi gibi koşullar uygulanıyor.<br>
 4. <strong>BYD</strong>; <strong>Camaçari Bahia</strong>&rsquo;da 600 milyon USD yatırımla eski <strong>Ford</strong> tesisini alıyor.<br>
 5. <strong>Lula</strong> hükümeti; otomotiv yatırımlarını <strong>Mover</strong> programıyla teşvik ediyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41860]</p>

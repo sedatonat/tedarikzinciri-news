@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">ABD ticaret denizciliği subaylarını temsil eden <strong>American Maritime Officers</strong> («AMO») sendikası, 19 Aralık tarihli açıklamasında Carmel&rsquo;in atamasını övdü ve onu MARAD&rsquo;ı yönetebilmek için «doğru tercih» olarak niteledi. AMO ulusal başkanı Willie Barrere&rsquo;e göre Carmel, iş dünyası lideri olarak edindiği deneyim ile denizcilik subayı olarak biriktirdiği kariyerini bir araya getirdi ve ABD denizcilik sektörünün büyümesi ile başarısı için neyin gerekli olduğunu çok iyi biliyordu.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu atama, Trump yönetiminin «Made in America» eksenli denizcilik politikasının somut bir göstergesi oldu. Yurt içi gemi inşa kapasitesinin yeniden ayağa kaldırılabilmesi, Çin tersanelerine olan bağımlılığın azaltılabilmesi açısından stratejik önem taşıdı; ancak bu hedefin gerçekleştirilebilmesi on yıllar sürecek yatırım ve iş gücü yetiştirme programlarını gerektirdi. Konteyner taşıyıcıları, tanker operatörleri ve liman işletmecileri, önümüzdeki dönemde MARAD kaynaklı yeni teşvik programları ile düzenleyici çerçeveye hazırlık yapmak durumunda kaldı.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43032]</p>

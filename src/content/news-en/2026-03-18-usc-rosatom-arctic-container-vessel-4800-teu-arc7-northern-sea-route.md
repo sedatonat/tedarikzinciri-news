@@ -22,8 +22,3 @@ tags: ["USC", "United Shipbuilding Corporation", "Rosatom Arctic", "Arctic conta
 3. The vessel will have a 4,800 TEU capacity and Arc7 ice class.<br>
 4. It will operate in 1.5-1.7 m thick ice depending on season and density.<br>
 5. USC has developed a digital base for information modelling technology.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

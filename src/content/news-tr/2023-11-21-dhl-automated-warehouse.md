@@ -24,4 +24,3 @@ tags:
 <p>Şu anda dünya genelinde 9 otomatik depo işletiyor (4 'ü ABD 'de) ve gelecekte 5 adet daha inşa etmeyi planlıyor.&nbsp;</p>
 <p><br></p>
 <p>Bu depolar, AutoStore'un otomatik depolama ve geri alma sistemlerini kullanıyor ve depolama ağlarında 1.000'den fazla robotu istihdam ediyor. DHL, bu teknoloji ile yeni depo sistemlerini uygulama süresini yarıya indirmeyi hedefliyor. Otomatik sistem, özellikle moda ve teknoloji ürünleri gibi küçük ürünlerin işlenmesi için uygun olup E-ticaret için değerli bir araç olarak kabul ediliyor.&nbsp;</p>
-<p><br></p>

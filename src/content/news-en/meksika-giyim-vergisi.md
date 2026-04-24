@@ -43,12 +43,3 @@ tags:
   <li><p>President Donald Trump's threats of 25% additional tariffs prompted Mexico to reassess its trade policies.</p></li>
   <li><p>Mexico is focused on protecting its own industries and creating a fair competitive environment in international trade.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Acquire ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge through the link above.</p>
-<p>We would appreciate your feedback.</p>
-<p>We wish you happy reading.</p>

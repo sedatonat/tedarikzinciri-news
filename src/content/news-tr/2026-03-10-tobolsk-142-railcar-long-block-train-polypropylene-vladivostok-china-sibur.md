@@ -30,8 +30,3 @@ tags:
 3. Servis; 2024'te bir petrokimya holdingine polipropilen taşımak için başlatıldı.<br>
 4. İlk 100 vagonlu bloktren 16 Eylül 2024'te yola çıktı; 2025'te 125 vagona çıkarıldı.<br>
 5. 2026'da 17 adet 125 vagonlu tren yola çıktı; 142 vagon yeni bir eşik oluşturdu.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

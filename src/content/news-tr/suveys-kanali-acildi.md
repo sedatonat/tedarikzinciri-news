@@ -87,12 +87,3 @@ Ancak uzmanlara göre, geçişlerin yeniden başlaması <strong>kısa vadeli lim
   <li style="text-align: justify"><p style="text-align: justify">Analistler, kısa vadede <strong>liman tıkanıklığı</strong>, uzun vadede ise <strong>navlun dengelenmesi</strong> öngörüyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Süveyş’in yeniden açılması</strong>, küresel lojistikte <strong>stratejik bir normalleşme dönemi</strong> başlatabilir.</p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

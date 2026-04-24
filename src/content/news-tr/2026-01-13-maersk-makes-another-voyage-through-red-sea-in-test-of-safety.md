@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Dünyanın en yoğun taşımacılık tıkanıklık noktalarından birinin kademeli olarak açılması, tedarik hatları için olumlu bir gelişme oldu; ancak denizcilik sektöründe kâr marjları üzerinde baskı yaratacağı tahmin edildi. <strong>Maersk</strong> ve diğer konteyner şirketleri, Afrika&rsquo;nın güneyinden geçilmesinin gerektirdiği ek seyahat süresinden yararlandı. Bu durum küresel gemi kapasitesini fiilen yüzde 7-8 azalttı ve gemi sahipleri arasında kargo için yaşanan kıyasıya rekabetin tam ortasında bir tampon işlevi gördü.</p>
 <p><br></p>
 <p style="text-align: justify">Maersk, ilk güvenli geçişini Aralık ayında gerçekleştirdi. 12 Ocak tarihli açıklamaya göre şirket, bölge için «şu an duyurulacak başka bir sefer bulunmadığını» belirtti. Yine de «güvenlik eşiklerinin karşılanmaya devam etmesi koşuluyla, kademeli yaklaşımı sürdüreceğiz» şeklinde bir mesaj iletti. Tedarik zinciri perspektifinden bakıldığında <strong>Süveyş Kanalı</strong> rotasının yeniden açılması, özellikle Avrupa-Asya konteyner trafiği için spot navlun fiyatlarında düşüş baskısı oluşturdu; ancak güvenlik belirsizliği, sigorta primlerini ve charter sözleşmelerinin yapısını yeniden şekillendirdi.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43193]</p>

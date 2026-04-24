@@ -22,8 +22,3 @@ tags: ["reefer", "container shipping", "refrigerated", "capacity growth", "top 1
 3. Reefer is critical in global food, pharmaceuticals, and temperature-controlled chemicals.<br>
 4. Major lines are investing in reefer services and temperature monitoring technology.<br>
 5. Reefer offers higher freight yield per ton than standard dry cargo.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

@@ -36,11 +36,3 @@ tags:
 3. <strong>Trump</strong> yönetimi federal <strong>plug-in</strong> teşviklerini kaldırıyor.<br>
 4. Analistler <strong>Tesla</strong>&rsquo;nın değerlemesinin <strong>real-world AI</strong> teması üzerinde şekilleniyor olduğunu belirtiyor.<br>
 5. <strong>BYD</strong>&rsquo;nin <strong>vertical integration</strong> modeli, batarya ve motor tedarik zincirinde güçlü avantaj sağlıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43071]</p>

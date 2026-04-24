@@ -27,8 +27,3 @@ tags:
 3. Yeni kota; önceki Ağustos 2025 kotasından 400 ton daha fazla.<br>
 4. Kota kapsamında gümrük vergisi %5 (min 15 euro/ton); aşan kısım için %5 (min 290 euro/ton).<br>
 5. Türkiye, geleneksel olarak Rus hurda ihracatının en büyük alıcısı.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

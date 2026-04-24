@@ -36,13 +36,6 @@ tags:
   <li><p>Training times are shortened, productivity increases.</p></li>
   <li><p>Delivery performance improves.</p></li>
 </ul>
-<p>----------</p>
-<p>----------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" rel="noopener" target="_new"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
+
 <p>Your feedback would make us happy.</p>
 <p>Wishing you happy reading.</p>
-<p><br></p>
-<p>[867]</p>

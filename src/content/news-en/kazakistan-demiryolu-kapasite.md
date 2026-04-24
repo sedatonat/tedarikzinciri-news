@@ -44,15 +44,9 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Wagon count growing modestly while transported tonnage rises significantly</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
+
 <p><strong>Source: </strong><a href="https://www.railfreight.com/beltandroad/2025/12/16/kazakhstan-boosts-capacity-by-40-at-key-rail-border-crossing/"><u>https://www.railfreight.com/beltandroad/2025/12/16/kazakhstan-boosts-capacity-by-40-at-key-rail-border-crossing/</u></a></p>
-<p>--------------------</p>
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/">SedatOnat.com</a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book on How to Implement ERP is now published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p>You can download and read it free of charge via the link <a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

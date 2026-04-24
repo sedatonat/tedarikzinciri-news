@@ -49,11 +49,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Public concerns and high investment costs are among the challenges that must be considered in nuclear energy expansion.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it free of charge via this link.</p>
+
 <p>Your feedback would be greatly appreciated.</p>
 <p>Wishing you happy reading ahead of time.</p>

@@ -78,14 +78,8 @@ The sea-rail model is gaining priority in line with China's environmental target
   <li><p><a href="https://www.tedarikzinciriportali.com/post/terim-teu-twenty-foot-equivalent-unit"><u>TEU - Twenty-foot Equivalent Unit</u></a></p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it free of charge via this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

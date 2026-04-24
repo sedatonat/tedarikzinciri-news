@@ -32,8 +32,3 @@ tags:
 3. YTD toplam konteyner hacmi 714.719 TEU oldu; yüzde 14,2 azaldı.<br>
 4. Mart 2026'da hacim 278.829 TEU; yıllık bazda yüzde 10,1 düşüş kaydetti.<br>
 5. Yurtiçi hacimler YTD yüzde 0,2 büyüdü; Alaska yüzde 0,3 yükseldi, Hawaii yüzde 0,4 geriledi.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

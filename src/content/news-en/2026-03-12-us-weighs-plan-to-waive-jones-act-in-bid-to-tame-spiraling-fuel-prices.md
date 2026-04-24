@@ -29,7 +29,3 @@ tags:
 <p style="text-align: justify">On March 11, the administration announced it would release 172 million barrels of crude from the <strong>Strategic Petroleum Reserve</strong>. Overall, countries are coordinating to release 400 million barrels from their stockpiles. U.S. gasoline futures pared gains after the news. Waiving the Jones Act could save East Coast motorists roughly 10 cents a gallon, according to a 2022 JP Morgan Chase &amp; Co. estimate.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, this waiver significantly alters the competitive dynamics of the U.S. domestic shipping sector. For Jones Act-flagged operators such as <strong>Crowley</strong>, <strong>Kirby Corporation</strong> and <strong>Overseas Shipholding Group</strong>, short-term market share losses are likely &mdash; while refinery operators and East Coast consumers gain cost relief. From a supply chain perspective, such ad hoc waivers also rekindle structural Jones Act reform debates &mdash; particularly around LNG capacity and fertilizer logistics.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43647]</p>

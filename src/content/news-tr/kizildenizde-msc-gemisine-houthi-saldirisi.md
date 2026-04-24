@@ -32,5 +32,3 @@ tags:
   <li><p>Houthiler, Kızıldeniz'de İsrail-Gazze çatışmasına yanıt olarak gemilere saldırıyor.</p></li>
   <li><p><a href="https://www.vesselfinder.com/vessels/details/9138898"><u>Rubymar</u></a>, Houthi saldırıları sonucu batan ilk gemi oldu.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

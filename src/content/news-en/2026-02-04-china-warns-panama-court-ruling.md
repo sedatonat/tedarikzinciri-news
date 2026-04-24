@@ -28,11 +28,5 @@ tags: ['Çin', 'Panama', 'CK Hutchison', 'Panama Kanalı', 'liman jeopolitiği',
 3. The <strong>Hong Kong and Macao Affairs Office</strong> issues a <strong>"heavy price"</strong> warning.<br>
 4. Panama President Mulino rejects the criticism by citing judicial independence.<br>
 5. The ruling increases tensions ahead of <strong>Trump's</strong> April visit to <strong>China</strong>.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via the link above.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading in advance.</p>
-<p><br></p>
-<p>[43414]</p>

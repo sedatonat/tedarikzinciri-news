@@ -34,4 +34,3 @@ tags:
   <li><p>This creates a "contagion" effect across the entire system.</p></li>
   <li><p><a href="https://en.wikipedia.org/wiki/CMA_CGM"><u>CMA CGM</u></a> has been recorded as the most reliable carrier for the first time.</p></li>
 </ul>
-<p><br></p>

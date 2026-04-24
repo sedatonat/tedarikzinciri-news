@@ -24,8 +24,6 @@ tags:
 <p>Miami'deki bu yeni kapı, Avrupa ve Asya'dan gelen malların Latin Amerika'ya nakledilmesine odaklanacak ve rekabetçi yük taşıyıcı ve yolcu kapasitesi sunacak. Kuzey Amerika'dan Latin Amerika'ya ihracatı ve aynı zamanda Latin Amerika tedarik zincirini destekleyen Asya pazarını hedefleyen bu hareket, maliyet etkin ABD güzergahları üzerinden avantajlar sunmayı amaçlıyordır.</p>
 <p><br></p>
 <p>90,000 ayak kare büyüklüğündeki tesis, önemli güney akışları bekliyor ve ABD Gümrük bağlantılı Konteyner Yük İstasyonu (CFS) ve Sertifikalı Kargo Tarama Tesisi (CCSF) gibi önemli sertifikasyonlara sahiptir. Brent Mayhew, Kuzey Amerika Bölgesel Hava Kargo Başkanı, Miami'deki bu yeni ekleme ile müşterilere yapılandırılmış yönlendirme ve sorunsuz kamyon bağlantısı sağlayarak etkili ve güvenilir entegre lojistik çözümler sunduklarını belirtti. Fabio Acerbi, Latin Amerika Bölgesel Hava Kargo Başkanı, Miami Kapısı'nın, küresel ağdan tahmin edilebilir transit süreler sunan alternatif bir rota seçeneği olarak hizmet verdiğini ve Kuzey Amerika ile Asya'nın ihracat pazarlarını destekleyerek Latin Amerika'daki müşteriler için yeni olanaklar açtığını ifade etti.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>
   <li><p>Maersk, Miami, Florida'da bir hava kargo kapısı açtı.</p></li>
@@ -34,4 +32,3 @@ tags:
   <li><p>90,000 ayak karelik tesis, önemli sertifikalara sahip ve büyük güney akışları bekleniyor.</p></li>
   <li><p>Miami kapısı, Kuzey Amerika ve Asya'nın ihracat pazarlarını destekleyerek Latin Amerika'da yeni fırsatlar sunuyor.</p></li>
 </ol>
-<p><br></p>

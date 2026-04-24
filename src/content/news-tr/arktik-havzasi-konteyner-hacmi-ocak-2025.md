@@ -37,12 +37,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Murmansk Limanı</strong>, %15,1'lik bir artışla 51,2 bin TEU'ya ulaşarak en yüksek konteyner hacmini kaydetti.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Tüm limanlarda konteyner hacimlerinde artış gözlendi, bu da bölgedeki deniz taşımacılığının gelişimine işaret ediyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

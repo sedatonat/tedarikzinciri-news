@@ -22,8 +22,3 @@ tags: ["Oregon Container Terminal", "Port of Portland", "Terminal 6", "Harbor In
 3. The facility offers dual-rail access to BNSF Railway and Union Pacific lines.<br>
 4. The launch falls within the "Ship Oregon" initiative that strengthens Oregon's export infrastructure.<br>
 5. The new terminal will reduce the region's dependence on alternative ports such as Long Beach and Tacoma.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

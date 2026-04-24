@@ -48,8 +48,6 @@ tags:
 <p><br></p>
 <p><strong>Conclusion</strong></p>
 <p>While the idea of reasserting control over the Panama Canal may resonate in some political circles, its impacts on supply chains could be far-reaching. Disruptions in canal operations, heightened geopolitical tensions, and economic instability could negatively affect global trade as well as the economies of the U.S. and Panama. To mitigate these risks, supply chain stakeholders must closely monitor developments and prepare for potential scenarios.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Key Points:</strong></h5>
 <ul>
   <li><p><strong>Operational Uncertainty:</strong> A change in control could create uncertainties in canal operations.</p></li>
@@ -60,11 +58,6 @@ tags:
   <li><p><strong>Industry Concerns:</strong> Shipping companies and retailers are concerned about potential disruptions.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
+
 <p>Your feedback would make us happy.</p>
 <p>We wish you happy reading from the outset.</p>

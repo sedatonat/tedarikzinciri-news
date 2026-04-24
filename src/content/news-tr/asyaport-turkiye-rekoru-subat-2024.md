@@ -31,4 +31,3 @@ tags:
   <li><p>2024 hedefi, liman genişletme projesiyle elleçleme kapasitesini 4 milyon TEU'ya çıkarmak.</p></li>
   <li><p>Asyaport, sürekli yatırımlarla operasyonel verimliliği ve müşteri memnuniyetini artırmayı hedefliyor.</p></li>
 </ol>
-<p><br></p>

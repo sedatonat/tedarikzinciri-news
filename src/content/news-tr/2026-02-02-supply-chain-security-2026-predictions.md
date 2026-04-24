@@ -36,11 +36,3 @@ tags:
 3. Düzenleyiciler tek seferlik güvence yerine sürekli ve veri odaklı izleme talep ediyor.<br>
 4. <strong>AI agents</strong>, tekrarlayan risk görevlerini otomatikleştirmekte.<br>
 5. <strong>Explainable AI</strong> ve <strong>human-in-the-loop</strong> mimarisi öne çıkıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43106]</p>

@@ -35,8 +35,3 @@ tags:
 3. <strong>Aras Innovator</strong>; <strong>Airbus</strong>; <strong>Honda</strong>; <strong>GM</strong>; <strong>Hitachi</strong> tarafından kullanılıyor.<br>
 4. <strong>EU CSRD</strong>; <strong>CSDDD</strong>; <strong>CBAM</strong>; ana zorlayıcı düzenlemeler oluyor.<br>
 5. <strong>Digital Product Passport</strong>; 2027&rsquo;ye kadar piller ve tekstil için zorunlu oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41700]</p>

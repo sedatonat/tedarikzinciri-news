@@ -28,4 +28,3 @@ tags:
   <li><p>eBOL usage provides improvements in areas such as real-time visibility and automation of invoice processes.</p></li>
   <li><p>Project44 aims to advance digital transformation and supply chain efficiency across the industry.</p></li>
 </ol>
-<p><br></p>

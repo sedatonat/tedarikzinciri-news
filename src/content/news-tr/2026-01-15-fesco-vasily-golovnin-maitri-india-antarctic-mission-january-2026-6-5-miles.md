@@ -27,8 +27,3 @@ tags:
 3. Gemi; Aralık ayı sonunda Cape Town'dan yola çıktı, keşif Nisan 2026'ya kadar sürecek.<br>
 4. Bharrati ve Maitri istasyonlarına yakıt ve malzeme teslim edecek.<br>
 5. Sert buz koşulları; geminin kıyıya 6,5 milden daha yakın yaklaşmasına izin vermiyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

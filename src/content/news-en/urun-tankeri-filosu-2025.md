@@ -42,12 +42,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">10% of fleet capacity consists of vessels older than 20 years, indicating an aging fleet. <a href="https://www.bimco.org/news-and-trends/market-reports/shipping-number-of-the-week/20250116-snow?utm_source=chatgpt.com" rel="noopener" target="_blank">BIMCO Home</a></p></li>
   <li style="text-align: justify"><p style="text-align: justify">Slowing oil demand growth and geopolitical tensions may lead to decreased tanker demand and market imbalances. <a href="https://www.bimco.org/news-and-trends/market-reports/shipping-number-of-the-week/20250116-snow?utm_source=chatgpt.com" rel="noopener" target="_blank">BIMCO Home</a></p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book on How to Get ERP has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

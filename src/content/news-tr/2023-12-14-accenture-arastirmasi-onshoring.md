@@ -26,4 +26,3 @@ tags:
 <p>Rapor, 2023'ün başlarında, çeşitli endüstrilerden 1230 üst düzey yöneticinin katıldığı bir anket üzerine kurulu. Araştırmaya göre, bölgesel tedarik ve üretim, kesintilere karşı daha güçlü olmak için önemli, ancak uzun vadeli dayanıklılığa ulaşmak için yeterli değil. Bu hedefe ulaşmak için, şirketler veri, yapay zeka ve dijital ikizler gibi çözümlere yatırım yaparak dijital olgunluğunu artırmaya çalışıyor.</p>
 <p><br></p>
 <p>Accenture 'dan <a href="https://www.linkedin.com/in/sunitasury/"><u>Sunita Suryanarayan</u></a>, şirketlerin karmaşık küresel üretim ve tedarik ağlarını kısa vadeli çözümlerle hızla düzelttiklerini, ancak şimdi bu ağları çok kaynaklı, veri ve yapay zeka ile daha şeffaf ve çevik hale getirerek stratejik olarak yeniden tasarlamaları gerektiğini belirtiyor.</p>
-<p><br></p>

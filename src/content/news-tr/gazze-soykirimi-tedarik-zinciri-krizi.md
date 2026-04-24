@@ -25,8 +25,6 @@ tags:
 <p>MSC Türkiye Genel Müdürü, bu yeni durumun rotaları uzatıp gemi ve ekipman sıkıntısına yol açtığını belirtti. Singapur Limanı’nda, gelen gemi sayısının artmasıyla yoğunluk arttı ve bekleme süreleri uzadı. Konteyner navlunlarındaki yükselişin, yakın dönemde pandemi öncesindeki seviyelere ulaşmasının beklenmediği vurgulandı.&nbsp;</p>
 <p><br></p>
 <p>Öte yandan, Alonso Lojistik Ülke Direktörü, Türk iş insanlarına çabuk karar vermeleri ve alternatif seçenekleri değerlendirmeleri tavsiyesinde bulundu.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>
   <li><p>Husilerin saldırıları nedeniyle Süveyş Kanalı yerine Ümit Burnu kullanılmaya başlandı.</p></li>
@@ -36,4 +34,3 @@ tags:
   <li><p>Konteyner navlunlarında artış; ancak pandemi öncesi seviyelere ulaşması beklenmiyor.</p></li>
   <li><p>Türk iş insanlarına çabuk karar verme ve alternatif seçenekleri değerlendirme tavsiyesi.</p></li>
 </ol>
-<p><br></p>

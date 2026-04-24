@@ -77,11 +77,6 @@ Rising <strong>port congestion, strike risks, and dependence on energy shipping<
   <li style="text-align: justify"><p style="text-align: justify">Analysts note that <strong>labor management and automation investments</strong> could prevent similar situations in the future.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it free of charge through this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading in advance.</p>

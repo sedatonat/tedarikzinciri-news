@@ -22,8 +22,6 @@ tags:
 <p><a href="https://en.wikipedia.org/wiki/Red_Sea"><u>Kızıldeniz</u></a>'deki kriz, Türkiye limanları için beklenmedik bir fırsat yarattı. Husilerin ticari gemilere yönelik saldırıları nedeniyle küresel tedarik zincirinde yaşanan aksaklıklar, Marmara Bölgesi'ndeki limanların transit taşımacılıkta öne çıkmasına ve denizcilik şirketlerinin alternatif hatlar oluşturmasına yol açtı. Bu durum, Türkiye limanlarının konteyner trafiğinde tarihi bir rekor kırmasını sağladı.&nbsp;</p>
 <p><br></p>
 <p>Şubat 2024'te, Türkiye limanlarında elleçlenen konteyner miktarı %38,9 artışla 1 milyon 167.210 TEU'ya ulaştı, özellikle transit konteyner trafiğindeki artış %100'ü aştı. Türk denizcilik sektörü, bu krizi hızla fırsata çevirerek, limanlarda rekor kırmayı başardı. Asyaport, Ambarlı ve Aliağa limanları bu dönemde ön plana çıktı. Ayrıca, Ortadoğu'ya ihracat yapan yeni servisler başlatıldı ve küresel navlun oranları iki ayda %25 düştü.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ul>
   <li><p><a href="https://en.wikipedia.org/wiki/Red_Sea_crisis"><u>Kızıldeniz Krizi</u></a>, Türkiye limanlarının transit taşımacılıkta öne çıkmasına ve tarihi rekorlar kırmasına neden oldu.</p></li>
@@ -34,4 +32,3 @@ tags:
   <li><p>Yeni ihracat yönlü servisler başlatıldı, Ortadoğu'ya taşımalar arttı.</p></li>
   <li><p>Küresel navlun oranları iki ayda %25 düşüş gösterdi.</p></li>
 </ul>
-<p><br></p>

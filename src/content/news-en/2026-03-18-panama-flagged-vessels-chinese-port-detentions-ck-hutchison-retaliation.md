@@ -22,8 +22,3 @@ tags: ["Panama", "China", "port state control", "CK Hutchison", "vessel detentio
 3. The sector interprets this as a coordinated response to Panama's revocation of CK Hutchison terminal concessions.<br>
 4. The five-day total exceeds 2025's monthly Panama-flagged detention figures.<br>
 5. The crisis could affect freight rates, routes, and Panama's flag-state revenues.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

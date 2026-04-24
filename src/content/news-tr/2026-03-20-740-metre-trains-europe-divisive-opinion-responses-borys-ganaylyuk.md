@@ -27,8 +27,3 @@ tags:
 3. AB TEN-T politikası, ana koridorlarda 740 metrelik trenleri standartlaştırmayı hedefliyor.<br>
 4. Peron uzatmaları, tünel yenilemeleri ve sinyalizasyon güncellemeleri maliyetli.<br>
 5. Destekçiler uzun trenleri sıkışıklık çözme ve modal kaydırma için vazgeçilmez buluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -43,4 +43,3 @@ tags:
   <li><p>Gerçek zamanlı izleme, işbirliği ve süreç otomasyonuna önem veriliyor.</p></li>
   <li><p>Konteyner fazlalığına karşılık çeşitli stratejiler geliştiriliyor.</p></li>
 </ol>
-<p><br></p>

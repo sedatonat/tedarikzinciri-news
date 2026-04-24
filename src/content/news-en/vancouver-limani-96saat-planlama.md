@@ -57,14 +57,8 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">A more predictable supply chain is targeted for Trans-Pacific container flows.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book on How to Implement ERP Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it free of charge via this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading from the start.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

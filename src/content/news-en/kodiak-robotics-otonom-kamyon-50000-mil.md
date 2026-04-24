@@ -35,4 +35,3 @@ tags:
   <li><p>The technology is equipped with advanced sensors and artificial intelligence-powered algorithms.</p></li>
   <li><p>Kodiak Robotics aims to increase safety and efficiency in the logistics sector through this technology.</p></li>
 </ol>
-<p><br></p>

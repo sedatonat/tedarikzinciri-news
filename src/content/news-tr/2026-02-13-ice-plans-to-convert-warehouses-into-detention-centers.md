@@ -29,7 +29,3 @@ tags:
 <p style="text-align: justify">Washington Post tarafından ilk kez bildirilen <strong>USCIS</strong> planlarının özetine göre; <strong>U.S. Immigration and Enforcement</strong> (<strong>ICE</strong>) ABD genelinde 16 binayı satın alacak ve her biri 1,000 ila 1,500 kişi tutabilecek bölgesel işleme merkezlerine dönüştürecekte. Diğer sekiz büyük ölçekli gözaltı merkezi; bir seferde 7,000 ila 10,000 kişiyi barındırıyor &mdash; ve sınır dışı etmeler için &laquo;ana lokasyonlar&raquo; olarak hizmet verecek.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu plan; ABD ticari gayrimenkul piyasasında önemli bir yapısal değişimi tetikliyor. Sınıf B ve C depoların kamu sektörüne aktarılması; e-ticaret ve 3PL operatörleri için kapasite kıtlığı yaratabiliyor. <strong>Prologis</strong>, <strong>Duke Realty</strong> ve <strong>Brookfield</strong> gibi büyük endüstriyel emlak yatırım fonları için bu; depo arz-talep dengesinde yeni bir değişken oluyor. Lojistik operatörleri için ise; özellikle ikincil pazarlardaki <em>fulfillment center</em> kiralama maliyetlerinin yükselebileceği anlamına geliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43479]</p>

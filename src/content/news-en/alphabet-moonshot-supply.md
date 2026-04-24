@@ -42,11 +42,5 @@ tags:
   <li><p>Industry-focused packages can be developed.</p></li>
   <li><p>Go-to-market focus increases.</p></li>
 </ul>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What Is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" rel="noopener" target="_new">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>We wish you happy reading in advance.</p>
-<p><br></p>
-<p>[919]</p>

@@ -42,13 +42,6 @@ tags:
   <li><p><strong>Impact on Global Maritime Commerce:</strong> Panama's move aims to enhance transparency and accountability in international maritime commerce.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>We wish you happy reading in advance.</p>

@@ -36,8 +36,3 @@ tags:
 3. Diversifikasyon/görünürlük/acil durum planlama; temel stratejiler oluyor.<br>
 4. Üst yönetim liderliği; aksaklık karşısında yoğunluk gösteriyor gerekiyor.<br>
 5. Kilit alanlar; <strong>procurement</strong>/<strong>logistics</strong>/<strong>planning</strong>/<strong>manufacturing</strong>/<strong>distribution</strong> oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43123]</p>

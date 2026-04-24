@@ -28,8 +28,3 @@ tags:
 <p style="text-align: justify">2024 yılında istisnadan yararlanan tahmini 1,2 milyar paket bulunuyordu. Bir <strong>CBP</strong> sözcüsü <strong>SupplyChainBrain</strong>&rsquo;e; «<em>De minimis</em> askıya alındığından bu yana kargo işlemede herhangi bir gecikme yaşanmadı» şeklinde açıklama yaptı. 15 Aralık 2025 itibarıyla <strong>CBP</strong>; daha önce gümrüksüz girecek sevkiyatlardan 1 milyar ABD dolarını aşkın gümrük vergisi tahsil etti. Ajans; Trump yönetimi süresince 40&rsquo;ı aşkın tarife ile ilgili başkanlık kararını başarıyla uyguladığını ve gelişmiş paket taraması yapma kapasitesine sahip olduğunu ekliyor.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu dönüşüm; <strong>UPS</strong>, <strong>FedEx</strong>, <strong>DHL</strong> ve özellikle <strong>USPS</strong> gibi son mil oyuncularının veri yönetimi, beyanname kalitesi ve gümrük entegrasyonu yatırımlarını hızlandırıyor. <strong>Shein</strong>, <strong>Temu</strong> ve <strong>AliExpress</strong> başta olmak üzere düşük değerli e-ticaret platformları; fiyatlama modellerini, depolama stratejilerini ve <strong>section 321</strong> sonrası ithalat akışlarını yeniden yapılandırmak zorunda kalıyor. Yeni dönem; uyumlu taşıyıcı ile uyumsuz taşıyıcı arasındaki rekabet farkını belirgin şekilde açıyor &mdash; bu durum sektörde konsolidasyonu hızlandırıyor.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book’da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43041]</p>

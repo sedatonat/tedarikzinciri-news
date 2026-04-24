@@ -42,15 +42,3 @@ tags:
   <li><p>Kremlin oil revenues fell to $1.25 billion due to declining export volumes and crude prices.</p></li>
   <li><p>Russia continues to restrict production in line with the OPEC+ agreement and plans deeper cuts in October-November 2024.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>
-<p><br></p>

@@ -42,13 +42,6 @@ tags:
   <li><p>The UK ports sector has also been called upon to improve data recording.</p></li>
 </ol>
 <p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
+
 <p>We would be happy to receive your feedback.</p>
 <p>Wishing you a good read in advance.</p>

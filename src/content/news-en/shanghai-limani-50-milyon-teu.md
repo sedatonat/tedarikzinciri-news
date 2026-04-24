@@ -46,11 +46,6 @@ tags:
   <li><p>Post-Covid-19 risk management and sustainable supply chain initiatives stand out.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
+
 <p>Your feedback would make us happy.</p>
 <p>Wishing you happy reading in advance.</p>

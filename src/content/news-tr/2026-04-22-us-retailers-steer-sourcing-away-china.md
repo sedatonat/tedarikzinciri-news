@@ -35,8 +35,3 @@ tags:
 3. <strong>Macy&rsquo;s</strong> (<strong>Tony Spring</strong>); ulusal marka <strong>Çin</strong> payı %18&rsquo;e düşüyor &mdash; %20&rsquo;den.<br>
 4. <strong>Trump</strong> tarifeleri; ortak yönlendirici faktör oluyor.<br>
 5. <strong>Vietnam</strong>; <strong>India</strong>; <strong>Bangladesh</strong>; ana alternatif tedarik ülkeleri oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41890]</p>

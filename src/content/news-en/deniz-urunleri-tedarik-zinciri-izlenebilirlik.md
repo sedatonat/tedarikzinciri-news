@@ -25,8 +25,6 @@ tags:
 <p><a href="https://www.traceregister.com/"><u>Trace Register</u></a> has been sharing traceability data with seafood suppliers since 2005 for regulatory, food safety, and sustainability purposes. <a href="https://repositrak.com/"><u>ReposiTrak</u></a> operates a network spanning 30,000 companies that share regulatory, financial, and compliance documentation, as well as traceability data.&nbsp;</p>
 <p><br></p>
 <p>The new collaboration enables rapid and straightforward sharing of Key Data Elements (KDEs) required by the <a href="https://en.wikipedia.org/wiki/Food_and_Drug_Administration"><u>FDA</u></a>. By combining the complementary aspects of both companies' datasets, the partnership allows KDEs collected from seafood suppliers to be transmitted directly to retailers and wholesalers without requiring access to an additional portal or system.</p>
-<p><br></p>
-<p><br></p>
 <h5>Key Points</h5>
 <ol>
   <li><p><a href="https://www.traceregister.com/"><u>Trace Register</u></a> and <a href="https://repositrak.com/"><u>ReposiTrak</u></a> are collaborating to facilitate compliance with FSMA 204 regulations.</p></li>
@@ -35,4 +33,3 @@ tags:
   <li><p><a href="https://repositrak.com/"><u>ReposiTrak</u></a> operates a network of 30,000 companies and shares regulatory, financial, and compliance documentation, as well as traceability data.</p></li>
   <li><p>The new partnership allows KDEs collected from seafood suppliers to be transmitted to retailers and wholesalers without the need for an additional portal or system.</p></li>
 </ol>
-<p><br></p>

@@ -29,8 +29,3 @@ tags:
 3. Uygulama; istilacı türlerin yayılmasını azaltırken gemi verimliliğini artırıyor.<br>
 4. Standart; Clean Hull Initiative (CHI) ve Bellona Vakfı liderliğinde geliştirildi.<br>
 5. Gövde temizliği işlerinin belgelenmesi için net bir yapı sunuyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -49,12 +49,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Dashboard:</strong> <strong>Supply Chain Dive</strong> presents this data in a user-friendly format to facilitate analysis.</p></li>
 </ul>
 <p style="text-align: justify">Regular monitoring of these metrics helps supply chain and logistics professionals make more informed decisions and improve operational efficiency.</p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
-<p>We would appreciate your feedback.</p>
-<p>We wish you happy reading.</p>

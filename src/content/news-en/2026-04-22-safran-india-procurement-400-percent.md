@@ -27,8 +27,3 @@ tags: ['Safran', 'Hindistan tedarik', 'Olivier Andriès', 'LEAP', 'Hyderabad', '
 3. <strong>Hammer</strong> air-ground weapon joint production agreement signed with <strong>Bharat Electronics</strong>.<br>
 4. <strong>Indian Air Force</strong> acquiring 36 <strong>Rafale</strong>; <strong>Indian Navy</strong> acquiring 26 <strong>Rafale Marine</strong>.<br>
 5. <strong>India Defence Acquisition Procedure 2020</strong> mandates local reinvestment.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[42910]</p>

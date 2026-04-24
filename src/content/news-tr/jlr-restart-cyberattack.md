@@ -21,13 +21,3 @@ tags:
 <p>Otomotiv tedarik zincirlerinde siber saldırılar, üretim sürekliliğini doğrudan etkiliyor. Jaguar Land Rover (JLR), yaşanan bir siber olayın ardından İngiltere tesislerinde üretimi kademeli olarak yeniden başlatıyor.&nbsp;</p>
 <p><br></p>
 <p>Olay, supplier connectivity, production scheduling, ve parts sequencing süreçlerinde aksamalara yol açtı; özellikle just-in-time (JIT) ve just-in-sequence (JIS) akışlarındaki kırılganlık gözler önüne serildi.&nbsp;</p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[836]</p>

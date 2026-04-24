@@ -27,8 +27,6 @@ tags:
 <p style="text-align: justify"><strong>GEP</strong> yazılımı, US Steel'in harcamalarını daha etkili bir şekilde analiz etmesine, maliyet modelleme ve tahminleme yapmasına, tedarik projeleri portföyünü yönetmesine, tasarrufları takip etmesine ve belirlenen tasarrufları elde etmek için ilgili RFx/Müzayedelerini başlatmasına olanak tanıyor. Ayrıca, otomatik raporlama ve veri toplama yoluyla, tedarikçi riskini ve performansını ölçüp izleyerek riskleri azaltmayı amaçlıyor.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">Yazılımın bu yıl içinde devreye alınması planlanıyor olup, <strong>GEP Sourcing</strong> modülü ilk olarak kullanılmaya başlanacak.</p>
-<p style="text-align: justify"><br></p>
-<p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">US Steel, tedarik süreçlerini modernize etmek için yapay zeka destekli <strong>GEP Software</strong> platformunu kullanıyor.</p></li>
@@ -36,12 +34,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Yeni platform, harcama analizi, maliyet modelleme, tahminleme ve tedarikçi risk yönetimi gibi alanlarda iyileştirmeler sunuyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>GEP Sourcing</strong> modülünün bu yıl içinde ilk olarak devreye alınması planlanıyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

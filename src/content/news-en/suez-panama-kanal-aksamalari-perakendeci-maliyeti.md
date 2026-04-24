@@ -42,4 +42,3 @@ tags:
   <li><p>Rising freight rates could negatively impact retailer profitability.</p></li>
   <li><p>U.S.-based retailers can mitigate the situation by redirecting shipments to West Coast ports.</p></li>
 </ul>
-<p><br></p>

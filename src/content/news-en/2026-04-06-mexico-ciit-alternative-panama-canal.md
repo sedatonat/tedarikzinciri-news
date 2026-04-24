@@ -28,10 +28,4 @@ tags: ['Meksika', 'CIIT', 'Tehuantepec', 'Hyundai Glovis', 'Panama Kanalı', 'in
 3. <strong>Hyundai Glovis</strong> is moving 900 vehicles in the 2025 pilot.<br>
 4. Full ocean-to-ocean transfer takes approximately 72 hours.<br>
 5. Climate drought risk at the <strong>Panama Canal</strong> is accelerating the search for alternatives.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Purchase ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
 <p>We would be delighted to receive your feedback.</p>
-<p><br></p>
-<p>[43792]</p>

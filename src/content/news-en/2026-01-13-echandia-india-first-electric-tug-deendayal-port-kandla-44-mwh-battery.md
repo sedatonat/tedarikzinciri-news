@@ -23,8 +23,3 @@ tags: ["Echandia", "Kandla Limanı", "Deendayal Port Authority", "elektrikli rö
 3. The 4.4 MWh battery system is designed for a 15-year lifetime.<br>
 4. The system guarantees 30,000 cycles without mid-life replacement.<br>
 5. Ripley Group won the tender; Kongsberg Maritime will serve as system integrator.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

@@ -49,12 +49,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">China has increased its share of global shipbuilding orders from less than 10 percent to 65 percent.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">President-elect Donald Trump is seeking cooperation with Korean and Japanese shipyards as non-China alternatives.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book "How to Purchase ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via this link.</p>
-<p>Your feedback would make us happy.</p>
-<p>We wish you happy reading.</p>

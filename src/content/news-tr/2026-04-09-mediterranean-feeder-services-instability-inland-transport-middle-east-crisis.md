@@ -29,8 +29,3 @@ tags:
 3. Barselona, Algeciras, Piraeus ve Valencia gibi transshipment hub'larında gelme düzeni bozuldu.<br>
 4. Terminal kapılarında beklenmeyen yığılmalar yaşanıyor, intermodal rezervasyonlar planlanamıyor.<br>
 5. Sektör, ikili feeder hub rotasyonuna ve esnek planlamaya yatırım yapmalı.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

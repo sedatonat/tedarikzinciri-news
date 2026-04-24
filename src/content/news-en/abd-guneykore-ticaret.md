@@ -60,14 +60,8 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Trump plans to meet with <strong>Xi Jinping on October 30</strong> to also finalize the <strong>U.S.-China trade framework.</strong></p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p>You can download and read it for free via the link <a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a></p>
 <p>Your feedback would make us happy.</p>
 <p>We wish you good reading in advance.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

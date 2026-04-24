@@ -35,8 +35,3 @@ tags:
 3. <strong>Expense cabinet</strong>; kurumsal yönetişim yapısı olarak öne çıkıyor.<br>
 4. Ürün seçimleri; klinik iş akışlarına doğrudan etki ediyor.<br>
 5. İnce marjlar ve aksaklıklar; mevcut ortamı tanımlıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43457]</p>

@@ -37,6 +37,4 @@ tags:
   <li><p>The navigation bridge of Liang Hui 688 suffered severe damage.</p></li>
   <li><p>The company was fined in January for failure to conduct proper supervision.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>
 <p><strong>Youtube Video Link:</strong> <a href="https://www.youtube.com/watch?v=lc4Uz18xU4s"><u>Video shows partial bridge collapse after ship collision in China</u></a></p>

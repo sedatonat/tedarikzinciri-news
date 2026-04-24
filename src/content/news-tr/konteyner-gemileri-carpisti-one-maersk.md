@@ -38,12 +38,3 @@ tags:
 <p><br></p>
 <p><strong>Çarpışma ile alakalı detaylı sunuma aşağıdaki youtube linkinden ulaşabilirsiniz:</strong></p>
 <p><a href="https://www.youtube.com/watch?v=JuBK_1aiLDc"><u>https://www.youtube.com/watch?v=JuBK_1aiLDc</u></a></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

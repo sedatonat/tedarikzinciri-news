@@ -79,12 +79,6 @@ The center functions not only as a research, development, and manufacturing hub,
   <li style="text-align: justify"><p style="text-align: justify"><strong>"Physical AI"</strong> represents a new era where artificial intelligence transitions from digital data to physical production.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The new center aims to become the epicenter of <strong>AI-driven transformation in U.S. manufacturing</strong>.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book "How to Acquire ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a>&nbsp;You can download and read it for free via this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading.</p>
-<p><br></p>

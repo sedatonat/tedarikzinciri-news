@@ -40,14 +40,3 @@ tags:
   <li><p><strong>Vergi Kredisi</strong>: $7.500’lük EV tüketici vergi kredisinin kaldırılması, elektrikli araç benimsenmesini zorlaştırabilir.</p></li>
   <li><p><strong>Stratejik Esneklik</strong>: Stellantis, gazlı, hibrit ve elektrikli kamyon üretiminde esnek kalmayı hedefliyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

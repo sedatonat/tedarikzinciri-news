@@ -43,11 +43,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">In conclusion, this strategic partnership emphasizes the importance of digital transformation in the intralogistics sector and enhances companies' competitiveness.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Procure ERP" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it free of charge via this link.</p>
+
 <p>We would be delighted to hear your feedback.</p>
 <p>Wishing you happy reading.</p>

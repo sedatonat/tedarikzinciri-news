@@ -63,14 +63,8 @@ all clearly visible.</p></li>
 <p><br></p>
 <p><strong>We recommend reading our detailed analysis titled "</strong><a href="https://www.tedarikzinciriportali.com/post/konteyner-tirlarinin-kopruye-carpmalarinin-kok-sebebi"><u><strong>Root Cause Analysis of Container Truck Collisions with Bridges</strong></u></a><strong>"</strong> related to this topic.</p>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/">SedatOnat.com</a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Obtain ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a>&nbsp;You can download and read it for free via this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading in advance.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

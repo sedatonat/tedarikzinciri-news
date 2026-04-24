@@ -45,10 +45,5 @@ tags:
   <li><p>The company will deliver integrated transport services through its existing land-based logistics network.</p></li>
 </ul>
 <p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Purchase ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading.</p>

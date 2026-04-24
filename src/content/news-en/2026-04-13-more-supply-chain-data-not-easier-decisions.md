@@ -28,9 +28,3 @@ tags: ['büyük veri', 'öngörücü analitik', 'senaryo modelleme', 'havacılı
 3. <strong>Predictive analytics</strong> and <strong>scenario modeling</strong> transform reactive behavior into proactive foresight.<br>
 4. Clean, consistent, and relevant data shorten decision cycles.<br>
 5. Artificial intelligence does not create value without a connected data foundation.</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>Our Book "How to Procure ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via the link above.</p>
-<p><br></p>
-<p>[43841]</p>

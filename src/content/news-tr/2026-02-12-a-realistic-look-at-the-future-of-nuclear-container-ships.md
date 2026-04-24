@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Peki okyanus taşıyıcılarını; nükleer reaktörle çalışan ultra verimli gemi filosunu hemen devreye almaktan ne alıkoyuyor? Tedarik zinciri yönetim platformu Exiger'in nükleer ve teknoloji güvenliği programları başkan yardımcısı Scott LaFoy; «Sorun operasyonel uygulanabilirlik; bu da hızla saçma derecede pahalı bir hâle dönüşüyor» ifadesini kullanıyor. En belirgin engel altyapı eksikliği olarak öne çıkıyor. Limanlar; nükleer konteyner gemilerini ağırlayacak ve yeniden yakıtlandıracak hiçbir sisteme sahip değil. Bu altyapının kurulması da büyük ölçekli bir yatırım gerektiriyor.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında nükleer konteyner gemilerinin ticari ölçeğe çıkması; <strong>IMO</strong>'nun <strong>SOLAS</strong> ve <strong>STCW</strong> çerçevelerinde köklü güncellemeler gerektiriyor. Ayrıca <strong>P&I Club</strong> sigortalarında «nükleer hariç tutma» («nuclear exclusion») hükümlerinin yeniden ele alınması zorunlu bir hâle geldi. <strong>Maersk</strong>, <strong>CMA CGM</strong> ve <strong>NYK Line</strong>'ın metanol ve amonyak yatırımlarına paralel olarak nükleer; orta vadede tamamlayıcı bir karbonsuzlaşma rotası işlevi görebilir. Ancak 2030'lardan önce ticari yaygınlık beklenmiyor. <strong>BCO</strong>'lar açısından bu tablo; alternatif yakıt sürşarjı planlamasında yeni bir senaryo katmanı oluşturuyor.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43459]</p>

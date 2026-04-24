@@ -34,4 +34,3 @@ tags:
   <li><p>Disruptions in lower-level components within supply chains could occur, which may have long-term impacts.</p></li>
   <li><p>Companies need to proactively understand where materials are manufactured, distributed, and stored.</p></li>
 </ul>
-<p><br></p>

@@ -46,10 +46,5 @@ tags:
   <li><p>The settlement does not cover the costs necessary for the reconstruction of the bridge; the State of Maryland filed a separate claim for this.</p></li>
 </ul>
 <p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
 <p>Your feedback would make us happy.</p>
 <p>We wish you pleasant reading.</p>

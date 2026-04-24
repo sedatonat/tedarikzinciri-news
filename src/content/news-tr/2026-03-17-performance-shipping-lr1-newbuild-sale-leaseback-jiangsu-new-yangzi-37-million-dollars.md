@@ -31,8 +31,3 @@ tags:
 3. Bareboat günlük kirası 5.451 dolar olarak belirlendi.<br>
 4. Faiz yapısı SOFR artı yüzde 2 marj üzerinden yapılandırıldı.<br>
 5. Sözleşme sonunda 18,1 milyon dolarlık balon ödemeyle geri alım opsiyonu bulunuyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

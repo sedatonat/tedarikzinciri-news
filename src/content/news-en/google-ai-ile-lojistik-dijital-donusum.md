@@ -30,4 +30,3 @@ tags:
   <li><p>An intelligent management tool developed with Google's technology will enhance demand forecasting.</p></li>
   <li><p>The initiative aims to reduce costs and lower carbon footprint.</p></li>
 </ol>
-<p><br></p>

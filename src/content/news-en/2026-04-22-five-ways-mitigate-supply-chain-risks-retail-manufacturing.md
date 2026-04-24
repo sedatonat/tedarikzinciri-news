@@ -27,8 +27,3 @@ tags: ['siber güvenlik', 'tedarik zinciri riski', 'UNFI', 'Sensata', 'Whole Foo
 3. <strong>UNFI</strong> halted <strong>Whole Foods</strong> distribution following the June 5, 2025 cyberattack.<br>
 4. <strong>Sensata Technologies</strong> experienced operational disruption from a March 2025 ransomware attack.<br>
 5. <strong>Zero trust</strong>, <strong>EDR/XDR/SIEM</strong>, and <strong>employee training</strong> are key mitigation tools.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our Book is Now Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[42120]</p>

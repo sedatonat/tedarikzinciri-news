@@ -27,8 +27,3 @@ tags: ['konteyner', 'ABD limanları', 'John McCown', 'Trump 2.0', 'tarifeler', '
 3. Q2 2025 is 1.8% lower compared to the prior year.<br>
 4. The 10% increase in front-loading in April has been erased by May-June declines.<br>
 5. <strong>Trump 2.0</strong> tariffs are the primary volume decline driver.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[42190]</p>

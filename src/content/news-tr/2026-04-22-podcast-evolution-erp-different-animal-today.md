@@ -35,9 +35,3 @@ tags:
 3. Modern ERP; bulut yerel, modüler ve yapay zekâ öncelikli mimariyi benimsiyor.<br>
 4. <strong>SAP</strong>, <strong>Oracle</strong>, <strong>Microsoft</strong>, <strong>Workday</strong> ve <strong>Infor</strong> önde gelen sağlayıcılar.<br>
 5. Bölümün sponsoru <strong>Doss</strong>; modern ERP alternatifi sunuyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41660]</p>

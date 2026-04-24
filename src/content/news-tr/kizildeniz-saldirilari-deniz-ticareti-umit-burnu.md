@@ -30,5 +30,3 @@ tags:
   <li><p>İngiltere merkezli lojistik şirketi, bu rotanın geçici bir çözüm olduğunu ve ek yakıt masraflarını karşılamak için tarifelerin yükseltildiğini belirtti.</p></li>
   <li><p>IMO, Kızıldeniz'deki saldırıları kınayarak uluslararası toplumdan müdahale çağrısınd</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

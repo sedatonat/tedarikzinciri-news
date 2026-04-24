@@ -74,14 +74,8 @@ services.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Gemini's objective: boost speed, efficiency, connection reliability, and on-time performance.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book is published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
 <p>We would appreciate your feedback.</p>
 <p>Happy reading.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

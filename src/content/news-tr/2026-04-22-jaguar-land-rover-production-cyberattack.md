@@ -34,8 +34,3 @@ tags:
 3. Endüstri kaynakları; kesintinin Kasım&rsquo;a kadar sürebileceğini uyarıyor.<br>
 4. <strong>Tata Motors</strong>; <strong>JLR</strong>&rsquo;in ana şirketi oluyor.<br>
 5. Küçük ve orta ölçekli tedarikçiler; finansal zorluklarla karşı karşıya kalıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42500]</p>

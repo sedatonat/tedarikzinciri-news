@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Programın bir parçası olan <em>e-Allegations</em> uygulaması; ticaret topluluğu ile genel kamuoyunun şüpheli ticaret ihlallerini elektronik bir portal üzerinden CBP'ye bildirmesine olanak tanıyor. DOJ ile CBP'nin önünde zorlu bir görev bulunuyor. Çünkü dolandırıcılar; vergi ve tarife kaçakçılığı planlarını çoğu zaman büyük ölçekte titizlikle hayata geçiriyor. Örneğin Endonezyalı bir mücevher şirketi; 1,2 milyar ABD doları tutarındaki mücevher ithalatı üzerinde 86 milyon ABD dolarını aşan gümrük vergisi ve tarife ödememek için yıllar boyu süren bir plan uygulamakla yakın zamanda suçlandı.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu sıkılaşan icra ortamı; <em>tier 1</em>'in ötesinde tedarikçi şeffaflığını, menşe doğrulamasını ve <strong>HTS</strong> sınıflandırma disiplinini stratejik bir zorunluluk hâline getirdi. İthalatçıların; <em>first sale</em> değerleme uygulamalarını, <em>transshipment</em> risk haritalarını ve serbest ticaret bölgesi kullanımını yeniden değerlendirmesi kritik önem taşıyor. Aksi hâlde; geriye dönük tarife ödemeleri, üçlü zarar tazminatı ve itibar riski bilanço üzerinde ağır maliyet yaratabilir.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43066]</p>

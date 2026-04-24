@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Ingka's third-largest Scope 3 component covers transport-related emissions from delivery services, as well as customer, co-worker and business travel. The retailer has reduced this footprint by just 13% to 2.3 million tCO2e since the 2016 baseline. What's more, emissions actually rose slightly between 2023 and 2024. Ingka's transition plan calls for an additional 40% reduction by 2030 to 1.6 million tCO2e.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, IKEA's multi-modal last-mile approach offers a particularly relevant template for Europe's dense urban centers. Trellis reports in its "Chasing Net Zero" series that at least half of the world's biggest retailers don't have a formal net-zero target at all. <strong>Walmart</strong>, often cited as a pioneer in supply chain decarbonization, is itself struggling to deliver on its own short-term emissions goals. IKEA's ability to scale a river-transport-plus-EV combination represents a critical reference point for the broader retail sector.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43097]</p>

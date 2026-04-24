@@ -30,8 +30,6 @@ tags:
 <p>Stax CEO'su Mike Walker, "Güvenilir, kolay erişilebilir ve maliyet etkin bir emisyon yakalama ve kontrol çözümü sunmayı hedefledik. Toyota'ya hizmet vermeye başladıkça, denizcilik sektörünün tüm ihtiyaçlarını karşılayabileceğimize inanıyoruz. Kaliforniya'nın ötesine genişlerken, güçlü ortaklıklar kurmak teknolojimize olan güveni ve ivmeyi artıracaktır." şeklinde bir açıklama yaptı.</p>
 <p><br></p>
 <p>Bu gelişme, hem yerel hava kalitesi hem de halk sağlığı ve çevre için olumlu bir adım olarak görülüyor. Stax Engineering'in yenilikçi yaklaşımı, denizcilik sektöründe daha sürdürülebilir uygulamalara geçişi hızlandırabilir.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li><p>Toyota Motor Kuzey Amerika, Stax Engineering ile beş yıllık bir anlaşma imzaladı.</p></li>
@@ -42,12 +40,3 @@ tags:
   <li><p>Stax'ın sistemi, PM emisyonlarını %99, NOx emisyonlarını %95 oranında azaltıyor.</p></li>
   <li><p>Anlaşma süresince yaklaşık 47 ton emisyon kontrol edilecek.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir">https://www.sedatonat.com/erpnasilalinir</a>Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

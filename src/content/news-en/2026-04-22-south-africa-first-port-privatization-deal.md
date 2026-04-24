@@ -27,8 +27,3 @@ tags: ['South Africa', 'Transnet', 'ICTSI', 'Enrique Razon', 'Durban', 'Pier 2',
 3. <strong>Michelle Phillips</strong>, <strong>Transnet</strong> CEO, made the announcement on December 10.<br>
 4. <strong>Pier 2</strong> handles 40 percent of <strong>South Africa</strong>'s container volume.<br>
 5. Capacity is expected to increase by 40 percent to 2.8 million <strong>TEU</strong>.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[42990]</p>

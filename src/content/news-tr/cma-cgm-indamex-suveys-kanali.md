@@ -61,14 +61,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Süveyş dönüşü henüz sektör genelinde trend değil; Kasım 2025’te yalnızca 120 geçiş gerçekleşti.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Spot navlunlar: FE–USEC <strong>–%57</strong>, FE–NEU <strong>–%53</strong>; kapasite artışı fiyatları daha da düşürebilir.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

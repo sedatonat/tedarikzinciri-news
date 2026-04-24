@@ -21,8 +21,3 @@ tags: ["Oleg Belozyorov", "Russian Railways", "RZD", "Mikhail Mishustin", "CEO",
 3. Belozyorov has led RZD since 2015; this is his third 5-year term.<br>
 4. He previously headed the RF Federal Road Agency during 2004-2009.<br>
 5. RZD faces challenges including an aging wagon fleet and declining loading volumes.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

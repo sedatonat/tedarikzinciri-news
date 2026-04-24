@@ -44,14 +44,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Enforcement creates long-term effects on <strong>compliance</strong> and competitive balance</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The debate highlights structural labor challenges in the US trucking sector</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it free of charge via this link.</p>
-<p>We will be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

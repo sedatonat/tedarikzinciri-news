@@ -37,11 +37,6 @@ tags:
   <li><p>The acquisition is scheduled to be completed in the first quarter of 2025.</p></li>
 </ol>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Choose ERP? Our book is now published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge through this link.</p>
+
 <p>We would be happy to receive your feedback.</p>
 <p>We wish you happy reading from the start.</p>

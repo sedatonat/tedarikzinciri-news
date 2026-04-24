@@ -35,8 +35,3 @@ tags:
 3. <strong>Nike</strong>; ABD&rsquo;ye <strong>Çin</strong>&rsquo;den ürünlerin %18&rsquo;ini ithal ediyor.<br>
 4. <strong>FedEx</strong>; <strong>One FedEx</strong> birleşmesi ve <strong>DRIVE</strong> 4 milyar dolar maliyet hedefi oluyor.<br>
 5. <strong>AAFA</strong>; <strong>FDRA</strong>; <strong>NRF</strong>; ana ABD baskı grupları oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41410]</p>

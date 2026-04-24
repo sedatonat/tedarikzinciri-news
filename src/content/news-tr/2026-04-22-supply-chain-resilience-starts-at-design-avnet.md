@@ -36,8 +36,3 @@ tags:
 3. <strong>Robert Cowan</strong>; <strong>Avnet Velocity</strong> direktörü olarak konuşuyor.<br>
 4. Aksaklıkların yarısı; yüksek etki olarak sınıflandırılmakta.<br>
 5. Yüksek-tek sektörü; kelebek etkisine tanıklık ediyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43111]</p>

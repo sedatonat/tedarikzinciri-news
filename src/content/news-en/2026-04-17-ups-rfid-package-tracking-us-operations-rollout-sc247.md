@@ -22,8 +22,3 @@ tags: ["UPS", "RFID", "package tracking", "U.S. network", "automation", "visibil
 3. Shipment accuracy improves and error rates drop.<br>
 4. Rival FedEx is pursuing a similar RFID strategy.<br>
 5. The expansion is expected to extend to international operations.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

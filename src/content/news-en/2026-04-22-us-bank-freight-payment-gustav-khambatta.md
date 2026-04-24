@@ -28,8 +28,3 @@ tags: ['U.S. Bank', 'Gustav Khambatta', 'Freight Payment', 'yük ödeme', 'audit
 3. <strong>Cass</strong>, <strong>nVision Global</strong>, <strong>Trax</strong>, and <strong>CTSI-Global</strong> are other market players.<br>
 4. <strong>EDI 210</strong>/<strong>110</strong>/<strong>310</strong> are industry-standard transaction codes.<br>
 5. <strong>SCF</strong>, <strong>reverse factoring</strong>, and <strong>dynamic discounting</strong> are modern working capital tools.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free through this link.</p>
-<p><br></p>
-<p>[43040]</p>

@@ -48,11 +48,6 @@ tags:
   <li><p>The <strong>ABB Azipod®</strong> propulsion system is being used in the modernization of <strong>Juan Carlos I</strong>, the flagship of the <strong>Spanish Navy</strong>.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via the link above.</p>
+
 <p>Your feedback would make us happy.</p>
 <p>Wishing you happy reading.</p>

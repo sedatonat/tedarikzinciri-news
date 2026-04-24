@@ -29,4 +29,3 @@ tags:
   <li><p>Companies can counter this problem by deploying return management software and implementing strict return policies.</p></li>
   <li><p>Employee training and appropriate partnerships are among the effective methods in combating fraud.</p></li>
 </ol>
-<p><br></p>

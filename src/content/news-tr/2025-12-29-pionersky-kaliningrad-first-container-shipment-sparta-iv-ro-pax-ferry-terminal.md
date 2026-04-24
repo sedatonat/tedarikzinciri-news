@@ -27,8 +27,3 @@ tags:
 3. Terminalin konteyner elleçleme kabiliyeti; bölgeye yönelik taşımacılığın güvenilirliğini artıracak.<br>
 4. Kaliningrad; AB topraklarıyla çevrili Rus ekonomik bölgesi; direkt deniz bağlantısı stratejik.<br>
 5. 2025'te terminal; 18 ro-pax feribot, 56.000 ton yük ve 2.500+ ro-ro birimini elleçledi.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

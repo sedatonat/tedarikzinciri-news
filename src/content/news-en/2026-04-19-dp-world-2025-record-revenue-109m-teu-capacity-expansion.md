@@ -23,8 +23,3 @@ tags: ["DP World", "liman kapasitesi", "TEU", "yıllık sonuçlar", "Yuvraj Nara
 3. Total group throughput reached 93.4 million TEUs (+5.8 per cent).<br>
 4. Net profit climbed 32.2 per cent to $1.96 billion.<br>
 5. Port capacity expanded to 109 million TEUs.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

@@ -44,13 +44,6 @@ tags:
   <li><p>An increase in reshoring and nearshoring trends is expected.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book "How to Get ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
+
 <p>We would be delighted to hear your feedback.</p>
 <p>Wishing you happy reading.</p>

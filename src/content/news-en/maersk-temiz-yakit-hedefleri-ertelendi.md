@@ -45,11 +45,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Maersk</strong> continues its work in researching and developing alternative fuels.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book on How to Implement ERP Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via the link above.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>We wish you pleasant reading.</p>

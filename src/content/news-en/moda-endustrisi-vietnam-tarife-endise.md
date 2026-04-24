@@ -46,11 +46,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Levi Strauss</strong> appears protected from this situation according to analysts.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Potential tariffs could lead to significant changes in the fashion industry's supply chain and increased costs.</p></li>
 </ul>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Acquire ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>
+
 <p>Your feedback would make us happy.</p>
 <p>Wishing you happy reading.</p>

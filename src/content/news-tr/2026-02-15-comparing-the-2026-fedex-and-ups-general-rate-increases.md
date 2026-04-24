@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Tedarik zinciri planlama, lojistik ve operasyon liderleri için tasarlanan rapor, parsel fiyatlandırma dinamiklerini bütçeleme, <strong>S&OP</strong>, ağ stratejisi ve taşıyıcı karması kararları dahil olmak üzere daha geniş planlama değerlendirmeleri ile bağladı. Okuyucular; hizmet seviyesi tercihlerinin, kayan taşıyıcı avantajlarının ve evrilen ek ücret yapılarının planlama yaklaşımına bağlı olarak hem risk hem de fırsat yaratabildiğine dair içgörü kazandı.</p>
 <p><br></p>
 <p style="text-align: justify">Oynaklığın norm haline geldiği bir ortamda, parsel fiyatlandırması artık reaktif biçimde yönetilemez bir noktaya geldi. Tedarik zinciri perspektifinden rapor, tedarik zinciri liderlerine varsayımları sorgulamaları, maliyet etkilerini öngörmeleri ve 2026 ve sonrası için daha dayanıklı, marj bilinçli parsel stratejileri kurmaları için gereken görünürlüğü ve bağlamı sundu. <em>Dimensional weight</em>, <em>residential surcharge</em> ve <em>peak season</em> ücretleri konusunda tedarik zinciri analitiği yatırımı, rekabet avantajının belirleyici unsuru haline geldi.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43453]</p>

@@ -36,10 +36,4 @@ tags:
 3. <strong>Yellen</strong>; günlük 15 milyon varil ham petrolün etkileniyor olduğunu belirtiyor.<br>
 4. <strong>Brent</strong>; %13 artışla 82 dolara çıkıyor; 100 dolar senaryosu masada.<br>
 5. <strong>ONE</strong> CEO&rsquo;su <strong>Nixon</strong>; çatışmayı &ldquo;Black Swan&rdquo; olarak nitelendiriyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
 <p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p><br></p>
-<p>[43580]</p>

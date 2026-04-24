@@ -25,8 +25,3 @@ tags: ["MPA Singapore", "Port of Los Angeles", "Port of Long Beach", "GDSC", "gr
 3. Dedicated workstreams cover alternative fuels, digitalisation and energy efficiency.<br>
 4. Following the 2024 baseline study, industry stakeholders are advancing pilot opportunities.<br>
 5. C40 Cities-backed partnership aligns with IMO's 2050 net-zero emissions target.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

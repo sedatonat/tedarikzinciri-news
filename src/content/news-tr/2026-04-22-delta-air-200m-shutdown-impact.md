@@ -35,8 +35,3 @@ tags:
 3. <strong>Ed Bastian</strong>; Kasım&rsquo;da 2,000+ iptal ve tatil rezervasyon yavaşlaması raporluyor.<br>
 4. <strong>Delta</strong> hissesi %7.7 düşüyor; <strong>S&amp;P 500</strong> %16 yükseliyor.<br>
 5. Yolcu talebi; 2026&rsquo;ya doğru sağlıklı kalıyor olduğu vurgulanıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42930]</p>

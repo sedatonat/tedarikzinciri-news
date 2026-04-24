@@ -27,8 +27,3 @@ tags:
 3. Kota içi ihracat sıfır vergiye tabi; kotayı aşanlar %50 gümrük değeri vergisi ödeyecek.<br>
 4. Kota; Temmuz 2022'den beri yürürlükteki yasağın yerini alacak.<br>
 5. Krasnodar Krayı; Rusya'nın en büyük pirinç üreticisi bölgesi olarak fırsattan yararlanacak.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

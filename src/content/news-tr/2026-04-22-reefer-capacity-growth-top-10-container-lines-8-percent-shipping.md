@@ -27,8 +27,3 @@ tags:
 3. Reefer; küresel gıda, farmasötik ve sıcaklık kontrollü kimyasal taşımacılıkta kritik.<br>
 4. Büyük hatlar; reefer servisleri ve sıcaklık izleme teknolojilerine yatırım yapıyor.<br>
 5. Reefer; standart kuru yüke kıyasla tonluk başına daha yüksek navlun getirisi sağlıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

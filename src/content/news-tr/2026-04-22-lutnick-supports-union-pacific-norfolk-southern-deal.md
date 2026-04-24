@@ -35,8 +35,3 @@ tags:
 3. Birleşme; <strong>U.S.</strong>&rsquo;nin ilk transkontinental tek-operatör <strong>Class I</strong> demiryolu yaratıyor.<br>
 4. <strong>Surface Transportation Board</strong> (<strong>STB</strong>); birleşmeyi onaylamakta zorunda oluyor.<br>
 5. <strong>Chicago</strong>; <strong>Memphis</strong>; <strong>St. Louis</strong>; ana değişim noktası darboğazları oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42360]</p>

@@ -40,13 +40,6 @@ tags:
   <li><p>Throughout 2024, schedule reliability generally ranged between 50% and 55%.</p></li>
   <li><p>On a year-to-date basis, 12 of the top-13 carriers experienced double-digit declines in schedule reliability.</p></li>
 </ul>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Obtain ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via the link above.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you good reading in advance.</p>

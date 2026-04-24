@@ -28,8 +28,3 @@ tags: ['FAA', 'hava trafik kontrol', 'Sean Duffy', 'Trump', 'SpaceX', 'Starlink'
 3. <strong>FAA</strong> manages 45,000 daily flights and 2.9 million passengers.<br>
 4. <strong>SpaceX Starlink</strong> begins testing at <strong>FAA</strong> in February 2025.<br>
 5. <strong>NATCA</strong>, <strong>NextGen</strong>, <strong>NAS</strong> are key US air traffic context terms.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Is Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[41390]</p>

@@ -27,11 +27,3 @@ tags:
 3. US-China tensions are straining supply chains.<br>
 4. South Korea's trade balance is at risk.<br>
 5. The sanctions could disrupt global shipbuilding supplies.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>
-<p><br></p>
-<p>[781]</p>

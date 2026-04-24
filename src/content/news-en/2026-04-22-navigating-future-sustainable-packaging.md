@@ -27,8 +27,3 @@ tags: ['ambalaj', 'sürdürülebilirlik', 'EPR', 'David Gray', 'Ranpak', 'e-tica
 3. As of 2025, five U.S. states have active EPR laws—<strong>California</strong>, <strong>Colorado</strong>, <strong>Maine</strong>, <strong>Minnesota</strong>, and <strong>Oregon</strong>.<br>
 4. Manufacturers are required to join a <strong>PRO</strong>, pay fees, and share data.<br>
 5. The <strong>EU PPWR</strong> mandates that all packaging be recyclable by 2030.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[41780]</p>

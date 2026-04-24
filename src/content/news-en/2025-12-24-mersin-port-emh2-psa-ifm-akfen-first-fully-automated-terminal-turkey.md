@@ -22,8 +22,3 @@ tags: ["Mersin Port", "MIP", "PSA International", "IFM Investors", "Akfen Holdin
 3. The new site was deployed in the expansion area known as East Med Hub 2 (EMH2).<br>
 4. 4 STS cranes and 14 fully automated aRMG cranes commenced operations at EMH2.<br>
 5. The investment will strengthen Mersin's position as a transit hub in the Eastern Mediterranean.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

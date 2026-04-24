@@ -27,8 +27,3 @@ tags: ['GLS', 'son-mil', 'rota optimizasyonu', 'uygulama', 'sürdürülebilirlik
 3. Smart sequencing prioritizes time-sensitive packages.<br>
 4. Fuel consumption and carbon emissions are reduced—delivering sustainability gains.<br>
 5. Customers receive real-time tracking and SMS alerts.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[41790]</p>

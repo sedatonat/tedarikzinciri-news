@@ -75,14 +75,8 @@ This will enable vessel traffic, fuel bunkering, and customs processes to be opt
   <li style="text-align: justify"><p style="text-align: justify">The GDSC is viewed as a strategic initiative that will integrate <strong>Asia's green port network and digital data infrastructure</strong>.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Get ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p>You can freely download and read it from the link <a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a>.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

@@ -71,14 +71,8 @@ factors.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The company aims to enhance global flexibility through mid-size vessels.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p>You can download and read it for free at <a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a></p>
 <p>Your feedback would make us happy.</p>
 <p>Wishing you happy reading in advance.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

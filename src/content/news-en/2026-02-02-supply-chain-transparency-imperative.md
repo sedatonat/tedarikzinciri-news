@@ -28,11 +28,5 @@ tags: ['şeffaflık', 'UFLPA', 'EUDR', 'Digital Product Passport', 'izlenebilirl
 3. <strong>Digital Product Passport</strong> embeds product origin throughout the lifecycle.<br>
 4. Transparency is embedded in trade flows and ceases to be a separate platform.<br>
 5. <strong>AI</strong> makes multi-tier traceability possible at scale.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge via this link.</p>
 <p>We would be delighted to hear your feedback.</p>
 <p>Wishing you happy reading.</p>
-<p><br></p>
-<p>[43171]</p>

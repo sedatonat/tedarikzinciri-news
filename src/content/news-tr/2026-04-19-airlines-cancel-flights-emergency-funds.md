@@ -36,11 +36,3 @@ tags:
 3. <strong>Spirit Airlines</strong>, <strong>ABD</strong>&rsquo;den yüz milyonlarca dolarlık <strong>emergency funding</strong> talep ediyor.<br>
 4. <strong>easyJet</strong>, <strong>Mart</strong> sonu bitmekte olan altı aylık dönemde <strong>£540&ndash;560 milyon</strong> zarar öngörüyor.<br>
 5. <strong>Strait of Hormuz</strong>&rsquo;daki belirsizlik, havacılık tedarik zincirini doğrudan etkiliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43890]</p>

@@ -27,8 +27,3 @@ tags: ['Sean Duffy', 'DOT', 'shutdown', 'ATC', 'hava trafik kontrolörü', 'FAA'
 3. More than 3,000 flight delays recorded on October 26 alone.<br>
 4. <strong>ATC</strong>s, designated as essential personnel, are working without compensation.<br>
 5. The government shutdown is shaping up to be the longest in history.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it free through this link.</p>
-<p><br></p>
-<p>[42730]</p>

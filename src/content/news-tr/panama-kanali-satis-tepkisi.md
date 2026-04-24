@@ -38,18 +38,10 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>CK Hutchison</strong>'ın Çin ve Hong Kong'daki diğer iş kollarının bu satıştan olumsuz etkilenebileceği belirtiliyor.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
+
 <p><strong>Haber Linkleri:</strong></p>
 <ul>
   <li><p><a href="https://www.joc.com/article/beijing-issues-warning-over-hutchisons-proposed-sale-of-panama-ports-company-5962910"><u>https://www.joc.com/article/beijing-issues-warning-over-hutchisons-proposed-sale-of-panama-ports-company-5962910</u></a></p></li>
   <li><p><a href="https://splash247.com/beijing-blasts-sale-of-hutchison-ports/"><u>https://splash247.com/beijing-blasts-sale-of-hutchison-ports/</u></a></p></li>
   <li><p><a href="https://www.supplychainbrain.com/articles/41365-china-slams-sale-of-panama-canal-ports"><u>https://www.supplychainbrain.com/articles/41365-china-slams-sale-of-panama-canal-ports</u></a></p></li>
 </ul>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

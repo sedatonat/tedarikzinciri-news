@@ -27,8 +27,3 @@ tags: ['Ar-Ge', 'vergi', 'IRS', 'imalat', 'Section 174', 'inovasyon', 'R&D Credi
 3. <strong>Section 174</strong>; <strong>R&E</strong> amortization—five years U.S./15 years foreign.<br>
 4. <strong>QREs</strong>; wages, materials, contract research, computer leasing.<br>
 5. <strong>NAM</strong>, <strong>SIA</strong>, <strong>AIA</strong>, <strong>PhRMA</strong>; primary manufacturing advocacy groups.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it free of charge via this link.</p>
-<p><br></p>
-<p>[41280]</p>

@@ -31,8 +31,3 @@ tags:
 3. 32 knot'u aşan rüzgâr sonrası istif değerlendirmeleri için personelin operasyonel alana girmesi gerekiyordu.<br>
 4. Yüksek çözünürlüklü zoom kameralı drone'lar manuel yüksekte çalışma riskini ortadan kaldırıyor.<br>
 5. Drone verisi dijital kayıt sistemine entegre edilerek konteyner terminalleri için ölçeklenebilir bir güvenlik şablonu sunuluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

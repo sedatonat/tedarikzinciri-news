@@ -35,5 +35,3 @@ tags:
   <li><p>IKEA's target to reduce GHG emissions by 70 percent by 2030.</p></li>
   <li><p>CMA CGM's plan to offer biogas and biomethanol.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

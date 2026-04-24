@@ -34,5 +34,3 @@ tags:
   <li><p>SC Ports, denizcilik ortakları ve taşıyıcılarına operasyonlarla ilgili güncellemeler sağlayacak.</p></li>
   <li><p>Liman, olağanüstü hizmet sunma ve operasyonları hızla yeniden başlatma konusunda odaklandı.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

@@ -28,8 +28,3 @@ tags:
 3. Belirsizlik nedenleri: IMO 2050, jeopolitik riskler, yüksek yeni inşa maliyetleri, faiz volatilitesi.<br>
 4. Geleneksel fuel oil yakan gemiler hurda pazarı baskısı altında.<br>
 5. Borç verenler yeşil finansman gerekliliklerini sıkılaştırıyor; leasing yapıları pazarda ağırlık kazanıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -32,4 +32,3 @@ tags:
   <li><p>Gatun ve Alhajuela Gölleri'nde su seviyeleri 2024'te ilk kez 2023 seviyelerinin üzerine çıktı.</p></li>
   <li><p>Panama Kanalı, günlük olarak hava şartlarını izleyerek uygun operasyonel ayarlamalar yapıyor.</p></li>
 </ol>
-<p><br></p>

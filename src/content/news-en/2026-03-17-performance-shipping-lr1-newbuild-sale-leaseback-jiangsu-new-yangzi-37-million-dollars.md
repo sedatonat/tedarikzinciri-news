@@ -25,8 +25,3 @@ tags: ["performance shipping", "lr1", "ürün tankeri", "sat-geri kirala", "jian
 3. The daily bareboat rate is set at $5,451.<br>
 4. The interest structure is priced at SOFR plus a 2% margin.<br>
 5. There is a repurchase option at the end of the charter via an $18.1m balloon payment.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

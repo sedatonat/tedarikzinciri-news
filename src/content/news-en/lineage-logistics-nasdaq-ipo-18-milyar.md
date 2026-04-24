@@ -28,4 +28,3 @@ tags:
   <li><p>Proceeds will be allocated to debt repayment, employee bonuses, and general corporate expenses.</p></li>
   <li><p>The company's objective is to transform the global food supply chain and reduce waste.</p></li>
 </ol>
-<p><br></p>

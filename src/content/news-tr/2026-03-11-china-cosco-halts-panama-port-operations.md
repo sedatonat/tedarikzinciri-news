@@ -36,10 +36,4 @@ tags:
 3. <strong>Panama</strong>; <strong>CK Hutchison</strong>&rsquo;dan iki terminali Şubat&rsquo;ta zorla devralıyor.<br>
 4. <strong>BlackRock</strong>&rsquo;ın yer aldığı 19 milyar dolarlık 43 liman anlaşması tıkanıyor.<br>
 5. Çözüm umudu <strong>Trump</strong>-<strong>Xi</strong> görüşmesine bağlanıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
 <p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p><br></p>
-<p>[43630]</p>

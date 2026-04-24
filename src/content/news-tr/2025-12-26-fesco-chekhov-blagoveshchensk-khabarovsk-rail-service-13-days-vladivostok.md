@@ -31,8 +31,3 @@ tags:
 3. Çehov'dan Çita'ya da gruplajlı konteyner teslimatı yapılıyor.<br>
 4. FESCO; Vladivostok'tan Çehov'a ithalat bloktrenleri başlattı.<br>
 5. Çift yönlü hizmet; boş konteyner repo zorluklarını ortadan kaldırıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

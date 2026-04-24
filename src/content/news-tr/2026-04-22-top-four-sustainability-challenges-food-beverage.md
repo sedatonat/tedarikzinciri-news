@@ -35,8 +35,3 @@ tags:
 3. <strong>Scope 3</strong> emisyonları gıdada tedarik zincirinin %70-90&rsquo;ını oluşturuyor.<br>
 4. <strong>Acclym</strong>; eski <strong>Agritask</strong>; <strong>Coca-Cola</strong>; <strong>Bayer</strong>; <strong>Cargill</strong> kullanıyor.<br>
 5. <strong>EUDR</strong>; <strong>CSRD</strong>; <strong>CSDDD</strong>; <strong>PPWR</strong>; ana zorlayıcı düzenlemeler oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41650]</p>

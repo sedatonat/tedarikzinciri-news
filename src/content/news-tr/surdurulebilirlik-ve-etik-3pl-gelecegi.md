@@ -20,8 +20,6 @@ tags:
 - Walker Logistics
 ---
 <p>Charlie Walker, iş etiği ve sürdürülebilirliğe olan taahhüdün ticari dünyada oynadığı önemli rolü göz ardı eden herhangi bir 3PL'nin (Üçüncü Parti Lojistik sağlayıcı) mücadele etmesinin beklendiğini belirtiyor. Lojistik hizmet sağlayıcılarının, maliyet ve hizmet kalitesi kadar, etik bir şekilde faaliyet gösterdikleri ve sosyal adalet ile çevresel sürdürülebilirliğe gerçekten bağlı olduklarını göstermeleri giderek daha kritik hale geliyor. Bu durum, etik davranış ve çevresel sorumluluk beklentisi artan bir toplumsal eğilime ve iş sektörlerinin geniş bir yelpazesinde faaliyet gösteren şirketlerin bu eğilime yanıt vermelerine kısmen bağlıdır. Walker Logistics, ESG (Çevresel, Sosyal ve Yönetişim) stratejisini etkin bir şekilde planlama ve uygulama sürecinde olup, enerji kullanımını izlemek ve operasyonlarını daha yeşil ve maliyet etkin hale getirmek için araçlar geliştiriyordir. Şirket, kısa vadede emisyonlarını 2030'a kadar yarıya indirme ve 2050'ye kadar emisyonlarında %90-95 azalma hedefliyordir. Walker, lojistik şirketlerinin rekabet etmesi gereken yeni cephelerden biri olarak sürdürülebilirliği vurguluyor ve sadece 'yeşil yıkama' yapmanın veya iş yerinde çeşitlilik ve kapsayıcılığı bir 'kutu işaretleme egzersizi' olarak ele almanın artık yeterli olmadığını ifade ediyor.</p>
-<p><br></p>
-<p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ol>
   <li><p>Etik ve sürdürülebilirlik taahhüdü, 3PL'ler için kritik bir öneme sahip.</p></li>
@@ -31,5 +29,3 @@ tags:
   <li><p>Sürdürülebilirlik, lojistik şirketlerinin yeni rekabet cephesi olarak öne çıkıyor.</p></li>
   <li><p>'Yeşil yıkama' ve yüzeysel çeşitlilik politikaları yetersiz kalıyor.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

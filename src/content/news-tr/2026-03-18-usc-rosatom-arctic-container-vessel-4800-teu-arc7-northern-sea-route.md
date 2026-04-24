@@ -29,8 +29,3 @@ tags:
 3. Gemi 4.800 TEU kapasiteli olacak ve Arc7 buz sınıfına sahip olacak.<br>
 4. Sezon ve buz yoğunluğuna göre 1,5-1,7 m kalınlıkta buzda çalışabilecek.<br>
 5. USC; bilgi modellemesi teknolojisi için dijital taban geliştirdi.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

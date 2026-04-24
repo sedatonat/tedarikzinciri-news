@@ -47,13 +47,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>ERP</strong> systems are critical for the effective management of key processes such as order management, inventory control, and logistics in the e-commerce sector.​</p></li>
 </ul>
 <p style="text-align: justify">In conclusion, <strong>ERP</strong> system disruptions negatively impact the operations of e-commerce firms and result in significant financial losses. By taking proactive measures to prevent such disruptions, companies can enhance operational efficiency and ensure customer satisfaction.</p>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Acquire ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

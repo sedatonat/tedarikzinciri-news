@@ -23,8 +23,3 @@ tags: ["Sealloyd Arc", "Tayland", "Phuket", "Andaman Denizi", "kargo gemisi batm
 3. All 16 crew members were safely rescued.<br>
 4. A multi-agency response is being led by the Royal Thai Navy.<br>
 5. The oil leak is being monitored by environmental agencies and the process to retrieve sunken containers has begun.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

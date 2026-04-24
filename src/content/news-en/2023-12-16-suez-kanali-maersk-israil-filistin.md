@@ -29,4 +29,3 @@ tags:
 <p>John Donigian from Moody's Analytics stated, "The recent Houthi attacks in the Red Sea clearly demonstrate the geopolitical risks facing global commerce. The attacks have immediately affected oil and agricultural shipments, but this trade route is used for many products and industries that require timely and cost-effective transportation. If these attacks become more regular and frequent, the impact on global trade and supply chains could be quite extensive."</p>
 <p><br></p>
 <p>Donigian noted that alternative routes would result in significantly longer travel distances, extended delivery times for goods, and short-term supply chain disruptions until trading partners adjust their delivery schedules.</p>
-<p><br></p>

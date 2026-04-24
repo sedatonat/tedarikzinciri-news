@@ -31,5 +31,3 @@ tags:
   <li><p>In the first quarter of 2024, carriers' profit margins fell to as low as 2.6%.</p></li>
   <li><p>Carriers' ability to raise contract rates and profits is limited due to current market conditions.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

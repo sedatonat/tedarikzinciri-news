@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Returns service providers are increasingly dedicating resources and innovation to helping retailers and brands tackle fraudulent returns. The issue is becoming so problematic that "refund and returns policy abuse" has been deemed by the global <strong>Merchant Risk Council</strong> as the most prevalent fraud type facing merchants such as online retailers.</p>
 <p><br></p>
 <p style="text-align: justify">A series of factors are causing returns fraud to become more complex and widespread. <em>Wardrobing</em> — where a consumer uses a product and sends it back — is being pushed to the extreme. Influencer culture is contributing to this, while tough economic conditions squeezing personal finances are also playing a role. Consumers feel pressure to wear the latest fashions and not to repeat outfits, but this isn't always affordable. From a supply chain perspective, retailers won't be able to keep reverse logistics costs sustainable unless they invest in identity verification, return-behavior analytics and <em>condition-based grading</em> processes.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43250]</p>

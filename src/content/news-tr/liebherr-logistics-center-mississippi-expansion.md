@@ -28,8 +28,6 @@ tags:
 <p>Bu projenin, yalnızca lojistik değil, aynı zamanda teknoloji ve sürdürülebilirlik açısından da büyük yenilikler içereceği ifade ediliyor. Liebherr, bu merkezde en son teknolojiye sahip otomatik depolama ve taşıma sistemlerini kullanarak, operasyonel verimliliği en üst düzeye çıkarmayı hedefliyor. Ayrıca, enerji verimliliğini artırmak ve karbon ayak izini azaltmak için sürdürülebilirlik odaklı çözümler de uygulamayı planlıyor.</p>
 <p><br></p>
 <p>Bu yeni lojistik merkezinin, Liebherr’in ABD’deki varlığını daha da güçlendireceği ve şirketin küresel tedarik zinciri stratejisinde kritik bir rol oynayacağı öngörülüyor. Özellikle inşaat ekipmanları ve madencilik makineleri alanındaki rekabet avantajını pekiştirecek olan bu yatırım, Liebherr’in küresel büyüme hedeflerine ulaşmasında önemli bir kilometre taşı olarak değerlendiriliyor.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ol>
   <li><p>Liebherr, Mississippi'de yeni bir lojistik merkezi kuracağını duyurdu.</p></li>
@@ -40,4 +38,3 @@ tags:
   <li><p>Merkezde en son teknoloji ve sürdürülebilirlik odaklı çözümler kullanılacak.</p></li>
   <li><p>Liebherr’in ABD’deki varlığını güçlendirecek ve küresel tedarik zinciri stratejisinde kritik bir rol oynayacak.</p></li>
 </ol>
-<p><br></p>

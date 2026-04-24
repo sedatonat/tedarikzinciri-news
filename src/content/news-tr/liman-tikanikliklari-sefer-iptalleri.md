@@ -41,4 +41,3 @@ tags:
   <li><p>Kızıl Deniz krizi iptallere büyük etki yapıyor.</p></li>
   <li><p>Alan Murphy, tıkanıklıkların kontrol altına alınması gerektiğini vurguluyor.</p></li>
 </ol>
-<p><br></p>

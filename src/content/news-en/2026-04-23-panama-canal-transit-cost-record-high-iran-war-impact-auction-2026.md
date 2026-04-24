@@ -22,8 +22,3 @@ tags: ["Panama Canal", "transit cost", "record high", "Iran war", "Atlantic", "P
 3. Hormuz instability diverted Asia-Europe trade toward transpacific routes via Panama.<br>
 4. Auction (line-jumping) fees reached historic peaks, exceeding the 2023-2024 drought period.<br>
 5. The global supply chain is under simultaneous pressure at Suez, Hormuz, and Panama choke points.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

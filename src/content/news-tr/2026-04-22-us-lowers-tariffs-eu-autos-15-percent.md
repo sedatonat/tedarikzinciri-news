@@ -35,8 +35,3 @@ tags:
 3. <strong>VW</strong>; <strong>Porsche</strong>; <strong>Mercedes-Benz</strong> hisseleri olumlu tepki veriyor.<br>
 4. <strong>Porsche</strong>; <strong>Frankfurt</strong>&rsquo;ta %3.8 kadar yükseliyor.<br>
 5. Uçak; jenerik ilaç ve mantar/metal muafiyetleri 1 Eylül&rsquo;den itibaren oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42550]</p>

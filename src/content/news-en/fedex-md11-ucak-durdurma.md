@@ -35,8 +35,6 @@ tags:
 <p style="text-align: justify">The picture on the customer side is more positive. <strong>FedEx EVP and Chief Customer Officer Brie Carere</strong> stated that despite the ongoing MD-11 issues, the company has effectively managed peak season demand. Carere highlighted the performance of the air operations teams while noting that the coming week is of critical importance.</p>
 <p><br></p>
 <p style="text-align: justify">The overall assessment indicates that the grounding of the MD-11 fleet is raising costs in the short term and straining capacity planning. However, the alternative transportation solutions and operational flexibility that FedEx has deployed are playing a decisive role in maintaining service levels.</p>
-<p><br></p>
-<p style="text-align: justify"><br></p>
 <h3 style="text-align: justify"><strong>Key Takeaways</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">FedEx expects a $175 million negative impact from the grounding of its MD-11 fleet.</p></li>

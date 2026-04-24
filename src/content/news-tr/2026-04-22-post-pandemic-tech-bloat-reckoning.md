@@ -35,8 +35,3 @@ tags:
 3. Kurumsal <strong>SaaS</strong> harcamasının %30-40&rsquo;ı kullanılmamakta veya gereksiz oluyor.<br>
 4. Birleşik (<strong>unified</strong>) strateji; <strong>best-of-breed</strong> çoklu satıcıdan ge&ccedil;iş trendi oluyor.<br>
 5. <strong>iPaaS</strong>; <strong>API</strong>; <strong>EDI</strong>; <strong>master data management</strong>; ana entegrasyon altyapıları oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42240]</p>

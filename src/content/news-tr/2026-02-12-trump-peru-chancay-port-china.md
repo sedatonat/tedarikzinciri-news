@@ -36,11 +36,3 @@ tags:
 3. Liman; <strong>Cosco Shipping Ports</strong> tarafından işletiliyor.<br>
 4. Yerel mahkeme, <strong>Ositran</strong>&rsquo;ın <strong>Chancay</strong> üzerinde denetim yetkisi bulunmuyor olduğuna hükmediyor.<br>
 5. <strong>China</strong>, <strong>Peru</strong>&rsquo;nun en büyük ticaret ortağı oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43461]</p>

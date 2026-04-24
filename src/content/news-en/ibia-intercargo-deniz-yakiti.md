@@ -62,14 +62,8 @@ This collaboration will help our members develop safe and pragmatic transition s
   <li style="text-align: justify"><p style="text-align: justify">This collaboration is viewed as a significant milestone in <strong>the transition to low and zero-carbon fuels in maritime shipping</strong>.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p>You can download and read it for free through the link <a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a></p>
 <p>Your feedback would make us happy.</p>
 <p>Wishing you good reading.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

@@ -28,11 +28,3 @@ tags: ['filo yönetimi', 'TMS', 'entegrasyon', 'veri yoğunluğu', 'modüler yaz
 3. Even small fleets need multiple <strong>enterprise-grade integration</strong> capabilities.<br>
 4. Data volume and exception events are sharply elevating operational complexity.<br>
 5. Modernization now means incremental capability advancement, not wholesale replacement.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge via this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>
-<p><br></p>
-<p>[43146]</p>

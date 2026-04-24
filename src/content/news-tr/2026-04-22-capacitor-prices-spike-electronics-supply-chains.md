@@ -36,9 +36,3 @@ tags:
 3. Son bir yılda kapasitör fiyatları ortalama %31 düşüyor; trend tersine dönüyor.<br>
 4. Etkileniyor olan diğer sektörler; havacılık-savunma; tıbbi; endüstriyel edge AI oluyor.<br>
 5. Kapasitör üreticileri; <strong>China</strong>&rsquo;dan çeşitlenmekte; ancak yoğunlaşma sürüyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43881]</p>

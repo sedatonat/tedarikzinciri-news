@@ -27,8 +27,3 @@ tags: ['teknoloji şişkinliği', 'OneRail', 'last mile', 'SaaS', 'entegrasyon',
 3. Companies waste 30-40% of enterprise <strong>SaaS</strong> spending on shadow IT or redundant licenses.<br>
 4. The trend is shifting from best-of-breed multi-vendor to unified single-vendor strategies.<br>
 5. <strong>iPaaS</strong>, <strong>API</strong>, <strong>EDI</strong>, and <strong>master data management</strong> are core integration infrastructures.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our Book is Now Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[42240]</p>

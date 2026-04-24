@@ -102,12 +102,3 @@ With major buyers like India changing course, <strong>long routes stretching fro
   <li style="text-align: justify"><p style="text-align: justify">The <strong>number of sanctioned vessels</strong> has risen from <strong>350 since 2020 to 1,700</strong>.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">According to experts, this development will lead to <strong>a redefinition of routes and price dynamics in the tanker sector</strong>.</p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a>&nbsp;You can download and read it for free through this link.</p>
-<p>We would be delighted to hear your feedback.</p>
-<p>We wish you happy reading.</p>

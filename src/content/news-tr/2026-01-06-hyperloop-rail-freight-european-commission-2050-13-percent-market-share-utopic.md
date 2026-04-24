@@ -29,8 +29,3 @@ tags:
 3. Komisyon; 2050'ye kadar AB genelinde 10.000 km'lik ağ kurulabileceğini varsayıyor.<br>
 4. Eleştirmenler; trilyonluk inşaat maliyeti ve entegrasyon sorunları nedeniyle tahminleri gerçek dışı buluyor.<br>
 5. Kısa vadede hyperloop ütopik bir vizyon olarak kalacak.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -30,5 +30,3 @@ tags:
   <li><p>Satın alma, müşterilere birden fazla kanalda ürün bilgilerini yönetme ve dağıtma yeteneği kazandıracak.</p></li>
   <li><p>Kyklo, tedarikçilerle işbirliğini ve e-ticaret stratejilerini güçlendirecek araçları destekliyordir.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

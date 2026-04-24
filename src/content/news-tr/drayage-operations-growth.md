@@ -28,11 +28,3 @@ tags:
 3. API/TOS entegrasyonu per-diem riskini azaltıyordır.<br>
 4. Chassis optimization saha kayıplarını düşürüyordir.<br>
 5. Dynamic dispatch sürücü verimini yükseltiyordir.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[812]</p>

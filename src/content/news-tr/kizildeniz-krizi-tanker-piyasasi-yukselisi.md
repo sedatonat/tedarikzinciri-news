@@ -30,5 +30,3 @@ tags:
   <li><p>Yeni inşa tanker fiyatları, finansal kriz sonrası en yüksek seviyeye ulaştı.</p></li>
   <li><p>Yerli armatörler, kârlı kiralama bedelleriyle piyasada aktif rol almaya başladı.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

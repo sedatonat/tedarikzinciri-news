@@ -28,11 +28,5 @@ tags: ['parsel taşımacılığı', 'GRI', 'accessorial', 'DIM faktör', 'senary
 3. <strong>Scenario modeling</strong> reveals differences between the initial proposal and the optimal structure.<br>
 4. Shipping data is analyzed together with contracts, invoices, and accessorial charge documentation.<br>
 5. <strong>Parcel intelligence</strong> platforms leave manual reporting behind.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
 <p>We would be delighted to hear your feedback.</p>
 <p>Wishing you happy reading from the start.</p>
-<p><br></p>
-<p>[43154]</p>

@@ -21,8 +21,3 @@ tags: ["Russia", "wheat export", "Sudan", "Rusagrotrans", "agriculture", "grain"
 3. Exports to Türkiye rose 2.6 times to 5.8 mn tons.<br>
 4. To Iran rose 2.5-fold to 1.86 mn tons, to Israel 1.4-fold to 1.67 mn tons.<br>
 5. Egypt maintained last year's level with 7.6 mn tons.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

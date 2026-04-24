@@ -27,8 +27,3 @@ tags: ['Italy', 'işçi istismarı', \"Tod's\", 'Dolce & Gabbana', 'Versace', 'P
 3. <strong>Dolce & Gabbana</strong>, <strong>Versace</strong>, <strong>Prada</strong>, <strong>Gucci</strong>, and <strong>Adidas Italy</strong> are included in the probe.<br>
 4. <strong>Chinese</strong> workers face severe exploitation in hours, wages, housing and safety.<br>
 5. <strong>Tod's</strong> denies all misconduct allegations.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free through this link.</p>
-<p><br></p>
-<p>[42940]</p>

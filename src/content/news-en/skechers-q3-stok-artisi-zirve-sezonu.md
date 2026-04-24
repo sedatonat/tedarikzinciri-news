@@ -43,11 +43,6 @@ tags:
   <li><p>National Retail Federation CEO Matthew Shay said retailers are well-stocked and delivery delays have been minimized.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free at this link.</p>
+
 <p>Your feedback would make us happy.</p>
 <p>We wish you happy reading from the start.</p>

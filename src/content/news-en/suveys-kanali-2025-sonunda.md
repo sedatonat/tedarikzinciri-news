@@ -43,11 +43,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The need for alternative routes will decline, making maritime shipping more sustainable.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book "How to Implement ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
+
 <p>We would be delighted to hear your feedback.</p>
 <p>Happy reading!</p>

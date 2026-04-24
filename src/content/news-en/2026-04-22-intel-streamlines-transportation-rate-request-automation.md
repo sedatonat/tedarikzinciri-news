@@ -27,8 +27,3 @@ tags: ['Intel', 'taşımacılık', 'otomasyon', 'AI', 'rate request', 'procureme
 3. Consolidating contracted rates across all modes into internal systems was cumbersome.<br>
 4. The process is being radically streamlined with <strong>AI</strong>/automation.<br>
 5. <strong>Lip-Bu Tan</strong> has served as <strong>Intel</strong> CEO since March 2025.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy an ERP? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[42690]</p>

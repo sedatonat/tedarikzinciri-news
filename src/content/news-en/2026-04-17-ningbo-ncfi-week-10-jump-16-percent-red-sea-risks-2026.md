@@ -23,8 +23,3 @@ tags: ["NCFI", "Ningbo Navlun Endeksi", "Kızıldeniz", "navlun oranları", "kon
 3. The Europe route fell 3.1 per cent to 956 points.<br>
 4. Eastern Mediterranean dropped 8.1 per cent and Western Mediterranean slipped 0.6 per cent.<br>
 5. Weak demand on transpacific routes pushed spot rates lower.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

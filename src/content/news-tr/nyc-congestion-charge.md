@@ -32,11 +32,3 @@ tags:
 3. Lojistikte off-peak ve micro-hubs öne çıkıyor.<br>
 4. Hukuki tartışma federal–yerel yetkide yoğunlaşıyor.<br>
 5. Tasarım dengesi toplu taşıma ve ticareti koruyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[826]</p>

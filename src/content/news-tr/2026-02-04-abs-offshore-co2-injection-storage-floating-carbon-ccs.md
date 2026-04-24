@@ -29,8 +29,3 @@ tags:
 3. Yüzer CO2 enjeksiyon platformları; kara alanı sınırlı ülkeler için kritik alternatif sunuyor.<br>
 4. Avrupa'daki Northern Lights gibi projeler, açık deniz depolamanın uygulanabilirliğini kanıtlıyor.<br>
 5. Başarı için sınıflandırma kuruluşları, düzenleyiciler ve endüstri paydaşlarının koordineli çalışması gerekiyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

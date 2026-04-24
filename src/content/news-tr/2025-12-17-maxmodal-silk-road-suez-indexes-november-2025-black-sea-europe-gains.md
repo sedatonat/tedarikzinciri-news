@@ -29,8 +29,3 @@ tags:
 3. MSCI sıçraması daha sert: sırasıyla %7,94 ve %9,33.<br>
 4. Batı Karadeniz-Avrupa rotaları karasal artışın büyük kısmını sağladı.<br>
 5. Deniz-kara fiyat farkının daralmaya devam etmesi bekleniyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

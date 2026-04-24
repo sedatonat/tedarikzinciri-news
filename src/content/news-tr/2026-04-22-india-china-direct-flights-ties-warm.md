@@ -35,8 +35,3 @@ tags:
 3. <strong>IndiGo</strong>; 26 Ekim&rsquo;den itibaren günlük <strong>China</strong> hizmeti başlatıyor.<br>
 4. 2020 <strong>Galwan Valley</strong> sınır çatışması ile uçuşlar uzun süre askıda kalıyor.<br>
 5. <strong>Trump</strong> tarifeleri ortamında <strong>China-India</strong> normalleşmekte.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42620]</p>

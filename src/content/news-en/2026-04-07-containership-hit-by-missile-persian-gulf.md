@@ -28,10 +28,4 @@ tags: ['UKMTO', 'Basra Körfezi', 'konteyner gemisi', 'füze saldırısı', 'Kis
 3. No environmental impact reported; authorities conducting investigation.<br>
 4. <strong>UKMTO</strong> is the <strong>Royal Navy's Dubai</strong>-based office.<br>
 5. Container sector is directly targeted, beyond the tanker-focused threat perception.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge via this link.</p>
 <p>We would be delighted to hear your feedback.</p>
-<p><br></p>
-<p>[43798]</p>

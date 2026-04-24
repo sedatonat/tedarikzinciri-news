@@ -29,8 +29,3 @@ tags:
 3. eFBL; 1968'den bu yana kullanılan FBL'nin dijital versiyonu.<br>
 4. FBL; UNCTAD ve ICC tarafından geliştirilen kurallarla uyumlu olarak yapılandırılmış.<br>
 5. Dijital konşimento; evrak hatalarını ortadan kaldırıyor ve işlem sürelerini kısaltıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

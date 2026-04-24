@@ -25,8 +25,3 @@ tags: ["hugo beck", "interpack 2026", "sleeve wrapper", "sürdürülebilir ambal
 3. The machine uses kraft paper wrapping instead of plastic stretch film.<br>
 4. It targets sustainable packaging demand in e-commerce and logistics hubs.<br>
 5. EU PPWR regulation is driving market growth for paper-based packaging.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

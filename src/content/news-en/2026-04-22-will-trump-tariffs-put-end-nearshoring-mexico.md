@@ -27,8 +27,3 @@ tags: ['Mexico', 'nearshoring', 'Trump', 'tarife', 'QIMA', 'reshoring', 'Ivan He
 3. <strong>Monterrey</strong>; <strong>Tijuana</strong>; <strong>Querétaro</strong>; are the main <strong>Mexico</strong> manufacturing hubs.<br>
 4. <strong>Mexico</strong> has a labor cost advantage of approximately 50%-70% lower than the U.S.<br>
 5. <strong>Tesla</strong>; <strong>Foxconn</strong>; <strong>BMW</strong>; are among the major investor companies in <strong>Mexico</strong>.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[41250]</p>

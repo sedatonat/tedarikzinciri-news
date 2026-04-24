@@ -22,8 +22,3 @@ tags: ["European rail freight", "Eurostat", "decline", "modal shift", "EU", "dat
 3. Tonne-km volumes continue to fall in Germany, France, Italy, Poland, and Spain.<br>
 4. The EU's 2030 target (30% of freight by rail and inland waterway) is becoming increasingly unreachable.<br>
 5. The sector warned that without decisive Commission intervention the decline will worsen.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

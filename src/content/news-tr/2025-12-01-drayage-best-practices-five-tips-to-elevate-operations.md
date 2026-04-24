@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Lider operatörler beklemiyor. Otomatik teklif sistemleri sayesinde yanıtlar dakikalar içinde ulaşıyor. Sürücüler; gecikmeleri azaltan ve sadakati güçlendiren mobil araçlarla donatılıyor. Bekleme süreleri otomatik olarak kayıt altına alınıyor; böylece ücretler kanıtlanıyor ve ihtilaflar azalıyor. Faturalama süreçleri sadeleşiyor; ödemeler hızlanıyor ve nakit akışı korunuyor. Tedarik zinciri perspektifinden bakıldığında bu uygulamaları birleştiren ortak unsur; nokta çözümler değil, entegre sistemlerdir. Bu sistemleri benimseyen operatörler; daha hızlı hareket ediyor, müşterilerine daha iyi hizmet veriyor ve istihdam artırmadan büyüyor.</p>
 <p><br></p>
 <p style="text-align: justify">Rekabet açığı her geçen gün genişliyor. <strong>CargoWise Landslide</strong>, tüm bu yetenekleri tek bir platformda topluyor. Tarifeler, dispatch, görünürlük, faturalama ve dönüşüm desteği tek bir noktada bulunuyor. Operatörler; parçalı sistemlerin maliyet ve karmaşıklığından kurtulup geleceğe hazır bir altyapı kazanıyor. Tedarik zinciri perspektifinden bakıldığında dijital liderlerin ritmi belirlediği drayage sektöründe; rekabetçi kalmak isteyen taşıyıcıların entegre platform yatırımını ertelemesi, sürdürülebilir bir strateji olarak kabul edilmiyor.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[42912]</p>

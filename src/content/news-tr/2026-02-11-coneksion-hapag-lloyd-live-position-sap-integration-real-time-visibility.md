@@ -31,8 +31,3 @@ tags:
 3. Live Position, Hapag-Lloyd Online Business Suite ve özel API üzerinden sunuluyor.<br>
 4. Entegrasyon, müşterilerin kendi sistemlerine veri akıtmak için ihtiyaç duyduğu özel geliştirmeyi ortadan kaldırıyor.<br>
 5. Çözüm, S/4HANA TM ve diğer SAP modüllerinde gerçek zamanlı konteyner görünürlüğü sağlıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

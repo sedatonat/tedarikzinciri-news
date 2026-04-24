@@ -30,4 +30,3 @@ tags:
   <li><p>Demiryolu kullanımı, CO2 emisyonlarını kamyon taşımacılığına göre %75 azaltıyor.</p></li>
   <li><p>Yıllık 1,9 milyon aracın yaklaşık %14'ü demiryolu ile taşınıyor.</p></li>
 </ul>
-<p><br></p>

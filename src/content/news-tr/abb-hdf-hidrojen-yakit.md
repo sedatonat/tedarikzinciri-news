@@ -37,8 +37,6 @@ tags:
 <p style="text-align: justify">HDF Energy CEO’su <strong>Hanane El Hamraoui</strong>, bu iş birliğinin denizcilik sektörünü karbonsuzlaştırmak için pratik ve ölçeklenebilir bir çözüm sunduğunu vurguluyor. ABB Marine &amp; Ports Başkanı <strong>Rune Braastad</strong> ise, büyük gemiler için uygulanabilir yakıt hücresi çözümleri geliştirme yolunda uzun süredir önemli ilerlemeler kaydedildiğini ve bu anlaşmanın süreci bir adım ileri taşıdığını ifade ediyor.</p>
 <p><br></p>
 <p style="text-align: justify">Genel çerçevede ABB ve HDF Energy iş birliği, yakıt hücrelerinin denizcilikte <strong>yardımcı bir teknoloji</strong> oluyorn çıkarak, <strong>ana güç mimarisinin</strong> önemli bir bileşeni haline gelme potansiyelini ortaya koyuyor. Bu adım, denizcilikte karbonsuzlaşma hedeflerinin teknik ve ticari açıdan daha gerçekçi bir zemine oturuyor olduğunu gösteriyor.</p>
-<p><br></p>
-<p style="text-align: justify"><br></p>
 <p><strong>Önemli Notlar</strong></p>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">ABB ve HDF Energy, denizcilik için megavat ölçekli yakıt hücresi geliştirmek üzere anlaşma imzaladı.</p></li>
@@ -47,14 +45,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Green hydrogen</strong> kullanımıyla denizcilikte emisyonların ciddi biçimde azaltılması hedefleniyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">ABB Onboard DC Grid™, hibrit güç sistemlerinde entegrasyon ve esneklik sağlıyordır.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

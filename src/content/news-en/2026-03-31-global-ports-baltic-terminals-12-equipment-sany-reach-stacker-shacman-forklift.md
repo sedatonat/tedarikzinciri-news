@@ -22,8 +22,3 @@ tags: ["Global Ports", "Baltic terminals", "Sany", "Shacman", "reach stacker", "
 3. First Container Terminal got 5 and Ust-Luga Container Terminal 4 Shacman port tractors.<br>
 4. Two electric 3.5-ton forklifts were purchased for Moby Dik Kronstadt.<br>
 5. The investment reflects the localisation trend toward Chinese equipment makers.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

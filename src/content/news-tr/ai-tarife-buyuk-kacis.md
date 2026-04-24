@@ -39,11 +39,3 @@ Küresel ticaret, öngörülebilirliğin azaldığı bir döneme girmiş bulunuy
 3. Amazon.com ağını dinamik olarak yeniden konumlandırıyor.<br>
 4. Tesla üretimde otomasyon ve enerji optimizasyonu uyguluyor.<br>
 5. Sonuç: reshoring/nearshoring ve dinamik stok yerleşimi öne çıkıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[750]</p>

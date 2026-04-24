@@ -24,8 +24,6 @@ tags:
 <p>Anket, çeşitli taşıma biçimlerinde faaliyet gösteren 148 katılımcıyı içeriyordu ve katılımcıların %52'si yalnızca bir TIR işlediyorydi. Talep zorluklarının ve spot fiyatların dip noktasına ulaştığına dair bir görüş birliği var gibi görünüyor. Katılımcıların %68'i düşük hacim bildirirken, %23'ü yüklerin sabit kaldığını rapor etti. Ek olarak, taşıyıcıların %14'ü önümüzdeki altı ay içinde ek TIR satın alma olasılığını belirtti. Spot fiyatlar, katılımcıların %46'sının önümüzdeki 3-6 ay içinde sabit kalacağını tahmin ettiği, yakıt ek ücretleri hariç ortalama %14 düşüş gösterdi. Ekonomik belirsizlikler ve sektördeki olumsuz koşullar, birçok sahibi-operatörün gelecek altı ay içindeki durumlarından emin olmamalarına neden oluyor.&nbsp;</p>
 <p><br></p>
 <p>FTR'nin TIR taşımacılığı sektörü raporu, pazar koşullarının 2024 boyunca nötr pazar koşullarının altında kalacağını öngörüyor. Ancak, bu durum uzun vadede sektördeki fazla kapasiteyi azaltarak olumlu bir etki yaratabilir.</p>
-<p><br></p>
-<p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
   <li><p>Anket, TIR yük talebinin ve spot fiyatların dip noktasına ulaşmış olabileceğini gösteriyor.</p></li>
@@ -35,4 +33,3 @@ tags:
   <li><p>FTR'nin tahminlerine göre, olumsuz TIR taşımacılığı koşullarının 2024 boyunca devam etmesi bekleniyor.</p></li>
   <li><p>Dizel fiyatlarındaki artış, küçük taşıyıcılar arasında kapasite kaybını hızlandırabilir.</p></li>
 </ul>
-<p><br></p>

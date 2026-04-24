@@ -86,14 +86,8 @@ Tariffs introduced after August had pushed retail prices higher for many agricul
   <li style="text-align: justify"><p style="text-align: justify">The Section 301 investigation continues; tariff policies have not been fully resolved despite this decision.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book on How to Acquire ERP has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p>You can download and read it for free through the link <a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a>.</p>
 <p>We would be delighted to hear your feedback.</p>
 <p>Wishing you good reading in advance.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

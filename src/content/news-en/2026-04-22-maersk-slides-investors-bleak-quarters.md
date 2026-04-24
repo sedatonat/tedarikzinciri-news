@@ -27,8 +27,3 @@ tags: ['Maersk', 'konteyner taşımacılığı', 'Bloomberg', 'Sydbank', 'EBITDA
 3. Container market growth forecast revised upward from 2%-4% to 4%.<br>
 4. <strong>Mikkel Emil Jensen</strong> at <strong>Sydbank</strong> describes the Q3 report as a "bubble quarter."<br>
 5. Investors remain concerned about tough earnings conditions ahead.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[42810]</p>

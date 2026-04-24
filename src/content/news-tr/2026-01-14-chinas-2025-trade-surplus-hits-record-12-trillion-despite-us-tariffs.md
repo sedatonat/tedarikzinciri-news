@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify"><strong>Güneydoğu Asya</strong> ve <strong>Avrupa</strong>'ya yapılan sevkiyatlardaki birleşik artış, geçen yıl ABD'ye yapılan satışlarda derinleşen daralmayı fazlasıyla telafi etti. Üst düzey ürünlerin ihracatındaki yükseliş, Çin'in değer zincirinde yukarı doğru ilerlediğini gösterdi; bu durum aynı zamanda otomobil gibi ürünlerin ithalatını azalttı. Tedarik zinciri perspektifinden bakıldığında, tedarik zincirleri yurt dışına kaydıkça başka ülkelerdeki fabrika inşaatı (kısmen Çin yatırımıyla yönlendirilen bir süreç), Çin bileşenleri, ekipmanları ve makineleri talebini yukarı çekti.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Bloomberg Economics</strong>'e göre Çin'in Aralık ayındaki beklentilerden güçlü ihracat büyümesi, iç dinamikler zayıflarken 2025'in son çeyreğinde ihracat motorunun ekonomiyi desteklemeye devam ettiğini ortaya koydu. Tedarik zinciri perspektifinden bakıldığında bu trend; <strong>Vietnam</strong>, <strong>Meksika</strong> ve <strong>Hindistan</strong> üzerinden yürütülen <strong>nearshoring</strong> ve <strong>China+1</strong> stratejilerinin, Çin'in ara malı ihracatını yapısal olarak ortadan kaldırmadığını, aksine farklı bir biçimde sürdürdüğünü gösterdi. Küresel BCO'lar için bu gelişme, tarife planlamasında yalnızca menşe ülkesini değil, «menşe değer zinciri» mantığını da hesaba katma zorunluluğu doğurdu.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43205]</p>

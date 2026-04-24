@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">For supply chain leaders, this will feel like having a digital team of planners, analysts and coordinators "riding along" with human teams, handling routine analysis, monitoring and transactions at scale so humans can focus on judgment calls and collaboration. From a supply chain perspective, every stage of the end-to-end lifecycle stands to be reshaped by this AI-enabled evolution. Across demand planning, production execution, procurement and support operations, the possibilities are transformative.</p>
 <p><br></p>
 <p style="text-align: justify">In demand planning, the co-pilot detects <strong>SKU</strong>-level forecast deviations in real time and isolates promotion and seasonality effects. In production execution, it provides early warnings on capacity collisions and material shortages. In procurement, it monitors supplier performance and price deviations and proposes alternative sources. From a supply chain perspective, the AI assistants being developed by platforms such as <strong>SAP IBP</strong>, <strong>Kinaxis Maestro</strong>, <strong>o9 Solutions</strong> and <strong>Blue Yonder</strong> are structurally redefining the planner's daily workload.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43082]</p>

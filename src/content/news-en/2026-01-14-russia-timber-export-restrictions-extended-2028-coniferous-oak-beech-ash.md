@@ -21,8 +21,3 @@ tags: ["Russia", "timber export", "restrictions", "coniferous", "oak", "beech", 
 3. Russia first introduced the restrictions in 2022.<br>
 4. The goal is to preserve raw material for domestic wood-processing and channel it to value-added products.<br>
 5. Exporters are expected to pivot to Asian markets (China, Japan, South Korea).</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

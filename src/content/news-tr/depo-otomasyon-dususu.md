@@ -27,12 +27,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Beklenen Toparlanma:</strong> Sektör uzmanları, 2024 yılında depo otomasyonu siparişlerinde bir toparlanma öngörüyor.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Gelecek Trendleri:</strong> 2025 yılında yapay zeka, robotik ve dijital ikizlerin entegrasyonuyla depo otomasyonunda önemli gelişmeler bekleniyor. ​</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

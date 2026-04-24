@@ -27,8 +27,3 @@ tags: ['Meksika', 'domates', 'ABD', 'ticaret anlaşmazlığı', 'anti-damping', 
 3. <strong>Trump</strong> delays sweeping tariff increases for 90 days to create room for a trade deal.<br>
 4. <strong>Mexico</strong> supplies approximately 70% of the <strong>U.S.</strong> fresh tomato market.<br>
 5. Tomato Suspension Agreement (1996) is terminated on July 14, 2025.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Purchase ERP? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[42300]</p>

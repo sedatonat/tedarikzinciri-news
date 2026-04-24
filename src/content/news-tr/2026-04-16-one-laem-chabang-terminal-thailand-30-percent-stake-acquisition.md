@@ -31,8 +31,3 @@ tags:
 3. Terminal portföyü otomatik D Terminali ile C1, C2 ve A3'ü içeriyor.<br>
 4. Yatırım, ONE'ın Güneydoğu Asya'daki konumunu güçlendirecek.<br>
 5. Hamle, okyanus taşıyıcılarının kara altyapısında dikey entegrasyon eğilimini yansıtıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

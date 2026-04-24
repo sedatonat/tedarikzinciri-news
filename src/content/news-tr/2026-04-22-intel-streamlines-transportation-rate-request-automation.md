@@ -35,8 +35,3 @@ tags:
 3. Tüm modlardaki sözleşmeli rate&rsquo;ler; iç sistemlere yüklemek hantal oluyor.<br>
 4. <strong>AI</strong>/otomasyon ile süreç radikal olarak akıcılaştırılmakta.<br>
 5. <strong>Lip-Bu Tan</strong>; <strong>Intel</strong> CEO olarak Mart 2025&rsquo;ten beri görev yapıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42690]</p>

@@ -27,8 +27,6 @@ tags:
 <p>The developed strategy recommends improvements in three key areas to enhance the maritime industry's capacity to attract and retain seafarers: 'Fair Working Conditions', 'Inclusive Culture', and 'Impact of Changing Technologies on Welfare'. ISWAN emphasized that the maritime sector must take practical steps to bridge the gap between seafarers' current working conditions and their expectations.</p>
 <p><br></p>
 <p>Additionally, it was noted that the sector must go beyond existing regulations to remove barriers to attracting diverse and inclusive talent. The seminar highlighted the importance of listening to seafarers' views on the challenges of living and working at sea and implementing their recommendations.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Key Points</strong></h5>
 <ol>
   <li><p>ISWAN emphasizes the importance of the maritime sector engaging in direct communication with seafarers.</p></li>
@@ -38,5 +36,3 @@ tags:
   <li><p>Attention was drawn to technology's potential to revitalize the maritime industry.</p></li>
   <li><p>The importance of listening to seafarers' perspectives and implementing their recommendations was emphasized.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

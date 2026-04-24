@@ -31,5 +31,3 @@ tags:
   <li><p>NCFI'nin Nisan 2024 değeri, önceki yıla göre %80.5 artarak 1304.9 puan oldu.</p></li>
   <li><p>21 yük rotasından 16'sında aylık yük endeksi artışı, 5'inde ise azalış gözlendi.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

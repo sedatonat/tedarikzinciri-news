@@ -23,8 +23,3 @@ tags: ["Stena Imperative", "Bahreyn Limanı", "ABD bayraklı tanker", "Stena Bul
 3. The incident is the first known attack on a US-flagged vessel since the conflict began.<br>
 4. Three earlier vessels — Skylight, Mkd Vyom, and Sea La Donna — were also targeted in the Gulf.<br>
 5. The Stena Imperative supplies fuel to armed forces under the US Tanker Security Program.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

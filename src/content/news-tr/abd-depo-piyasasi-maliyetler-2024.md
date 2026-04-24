@@ -35,5 +35,3 @@ tags:
   <li><p>Colliers ve Prologis, kira ücretlerindeki artış trendinin devam edeceğini öngörüyor.</p></li>
   <li><p>Inland Empire bölgesinde depolama ve dağıtım için hızlı büyüme durdu, işler ve kamyon taşımacılığı aktivitesi düşüşte.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

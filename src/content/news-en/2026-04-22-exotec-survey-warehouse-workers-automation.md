@@ -27,8 +27,3 @@ tags: ['Exotec', 'depo otomasyonu', 'Romain Moulin', 'iş gücü', 'AMR', 'ASRS'
 3. CEO <strong>Romain Moulin</strong> interprets findings as "clear data."<br>
 4. <strong>Exotec</strong> is known for its <strong>Skypod</strong> 3D mobile robot system.<br>
 5. Sample size of 400+ workers; released globally on November 17.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our Book Is Now Available on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it free of charge via this link.</p>
-<p><br></p>
-<p>[42870]</p>

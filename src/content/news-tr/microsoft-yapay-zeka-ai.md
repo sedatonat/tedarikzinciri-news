@@ -37,13 +37,3 @@ tags:
   <li><p>Fiber ve güç şebekesi güçlendirmesi gerekiyordir.</p></li>
   <li><p>Su yönetimi ve ısı geri kazanımı değerlendiriliyordir.</p></li>
 </ul>
-<p>--------</p>
-<p>--------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>
-<p><strong>#ERP Nedir?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" rel="noopener" target="_new">https://www.sedatonat.com/erpnasilalinir</a> linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[848]</p>

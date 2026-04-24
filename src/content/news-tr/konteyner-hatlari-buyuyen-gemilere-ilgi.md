@@ -31,5 +31,3 @@ tags:
   <li><p>Taşıyıcılar, kriz zamanlarında kullanılmak üzere bir miktar fazla kapasiteye sahip olmayı tercih ediyor.</p></li>
   <li><p>Kırmızı Deniz'deki kriz ve benzeri durumlar, gemilerin daha uzun rotaları kullanmasını ve dolayısıyla daha fazla kapasiteye ihtiyaç duyulmasını gerektiriyor.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

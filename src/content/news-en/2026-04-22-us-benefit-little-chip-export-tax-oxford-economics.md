@@ -27,8 +27,3 @@ tags: ['Nvidia', 'AMD', 'yarı iletken', 'ihracat vergisi', 'Çin', 'Oxford Econ
 3. Expected annual revenue is a maximum of $1.5 billion.<br>
 4. The <strong>U.S.</strong> budget deficit exceeds $2 trillion.<br>
 5. <strong>Treasury Secretary Bessent</strong> has proposed extending export taxes to other industries.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our book is now published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[42410]</p>

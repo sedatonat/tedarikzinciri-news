@@ -36,8 +36,3 @@ tags:
 3. <strong>Joshua Haun</strong>, <strong>UniUni</strong>&rsquo;nin <strong>VP Business Development</strong>&rsquo;i olarak konuşuyor.<br>
 4. Tarife şeffaflığı, ince marjlı <strong>e-commerce</strong> için kritik.<br>
 5. Kaçırılan <strong>SLA</strong>&rsquo;lar; tahminlemeyi, maliyeti ve marka güvenilirliğini bozuyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43604]</p>

@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">The agreement, which still requires approval from the Postal Regulatory Commission, comes as <strong>USPS</strong> grapples with mounting financial pressures, having accumulated roughly $118 billion in net losses since 2007. At a recent hearing in Congress, Postmaster General David Steiner detailed how the agency is at a critical juncture and warned that less than a year from now, USPS will be unable to deliver the mail if the status quo is maintained.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, this 20% volume cut is being absorbed by Amazon's own <strong>Amazon Logistics</strong> (AMZL) network and shifted to <strong>UPS</strong>, <strong>FedEx Ground</strong> and regional couriers. <strong>USPS</strong>'s <strong>last-mile parcel</strong> share, especially in less-dense rural ZIP codes, is opening the door for gig-based networks such as <strong>OneRail</strong>, <strong>Bringg</strong> and <strong>Roadie</strong>. From a supply chain perspective, USPS's pressure to diversify its revenue base will, over the long term, push it toward <strong>SOA (Service-Oriented Agreements)</strong>-based enterprise contracts.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43801]</p>

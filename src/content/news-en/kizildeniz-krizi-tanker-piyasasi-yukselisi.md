@@ -30,5 +30,3 @@ tags:
   <li><p>Newbuilding tanker prices have reached their highest level since the financial crisis.</p></li>
   <li><p>Domestic shipowners have become active market participants with lucrative charter rates.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

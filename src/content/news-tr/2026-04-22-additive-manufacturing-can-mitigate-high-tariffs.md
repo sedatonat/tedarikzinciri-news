@@ -35,8 +35,3 @@ tags:
 3. <strong>FDM</strong>; <strong>SLA</strong>; <strong>SLS</strong>; <strong>DMLS</strong>; ana 3D baskı teknolojileri oluyor.<br>
 4. <strong>Stratasys</strong>; <strong>3D Systems</strong>; <strong>HP</strong>; <strong>EOS</strong>; ana üreticiler oluyor.<br>
 5. <strong>Distributed manufacturing</strong>; <strong>on-demand spare parts</strong>; ana stratejiler oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41270]</p>

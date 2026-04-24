@@ -38,5 +38,3 @@ tags:
   <li><p>Auriemma, 8 Temmuz'da yeni görevine başlayacak.</p></li>
   <li><p>Körber'in CEO'su Stephan Seifert, Auriemma'nın pazar ve müşteri ihtiyaçlarını anlama yeteneğine vurgu yaptı.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

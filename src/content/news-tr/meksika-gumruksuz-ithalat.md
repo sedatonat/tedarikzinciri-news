@@ -37,12 +37,3 @@ tags:
   <li><p>Bu gelişme, Meksika'nın <strong>IMMEX</strong> programı üzerindeki potansiyel etkileri açısından da önemlidir.</p></li>
   <li><p>Özellikle, <strong>Shein</strong> ve <strong>Temu</strong> gibi e-ticaret devleri bu durumdan olumsuz etkilenebilir.<a href="https://www.reuters.com/world/americas/mexico-unveils-new-tariffs-popular-e-tailers-like-shein-temu-may-be-crosshairs-2024-12-31/?utm_source=chatgpt.com" rel="noopener" target="_blank">Reuters</a></p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

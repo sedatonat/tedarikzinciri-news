@@ -30,4 +30,3 @@ tags:
   <li><p><strong>Altyapı ve İş Gücü Gelişimi</strong>: Limanın bu yeni işlevselliği, altyapı gelişimini ve ek istihdam yaratılmasını gerektirebilir. Bu da bölgedeki iş gücü piyasasına olumlu etkiler yapabilir.</p></li>
   <li><p><strong>Uluslararası İlişkiler ve İtibar</strong>: Türk bayrağını taşıyan Gözde Bayraktar Gemisi'nin bu seferi, Türkiye'nin uluslararası ticaretteki itibarını ve güvenilirliğini artırabilir.</p></li>
 </ol>
-<p><br></p>

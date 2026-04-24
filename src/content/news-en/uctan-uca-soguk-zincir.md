@@ -36,14 +36,6 @@ tags:
   <li><p>GDP/FSMA compliance ensures auditability.</p></li>
   <li><p>Loss and complaint rates decline.</p></li>
 </ul>
-<p>----------</p>
-<p>----------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP?</strong> Our book is now published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" rel="noopener" target="_new"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
+
 <p>We would be delighted to hear your feedback.</p>
 <p>Wishing you happy reading from the start.</p>
-<p><br></p>
-<p><br></p>
-<p>[893]</p>

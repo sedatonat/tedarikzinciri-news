@@ -43,12 +43,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Sedna</strong>, yakın zamanda e-posta yönetim uzmanı <strong>Nordic IT</strong>'yi de bünyesine katmıştır.​<a href="https://splash247.com/sedna-buys-email-management-specialist-nordic-it/" rel="noopener" target="_blank">splash247.com</a></p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Sedna</strong>, <strong>Noon Report Analysis Automation</strong> gibi yeni yapay zekâ destekli iş akışlarını piyasaya sürmeyi planlıyordır.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

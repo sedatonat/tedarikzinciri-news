@@ -35,8 +35,3 @@ tags:
 3. 150+ uzman konuşmacı; <strong>AI</strong>; veri ve liderliği konuşuyor.<br>
 4. Geçiş yönü; dijital dönüşümden dijital otonomiye oluyor.<br>
 5. <strong>End-to-end</strong> değer zinciri; bilim/üretim/lojistik/hasta bakımı kapsıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42740]</p>

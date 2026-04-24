@@ -32,4 +32,3 @@ tags:
   <li><p>Ulaştırma ve lojistik alanının ülke ekonomisindeki artan önemi ve diğer ekonomik sektörlerle etkileşiminin güçlendirilmesi gerekliliği.</p></li>
   <li><p>Uluslararası Kuzey-Güney Taşımacılık Koridoru (INSTC) ve Orta Asya üzerinden Hindistan Okyanusu'na bağlanacak yeni bir demiryolu koridoru planları.</p></li>
 </ol>
-<p><br></p>

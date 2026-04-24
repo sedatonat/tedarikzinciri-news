@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">While a gradual reopening of one of the world's busiest transport bottlenecks bodes well for global supply lines, it is also expected to weigh on profit margins in the shipping industry. <strong>Maersk</strong> and other container lines have benefited from the extra transit time required to sail south of Africa, which has effectively reduced global vessel capacity by 7-8% — a meaningful cushion at a time of fierce competition for cargo among ship owners.</p>
 <p><br></p>
 <p style="text-align: justify">Maersk made its first safe transit in December. In the January 12 statement, the company said it had "no additional sailings to announce at this time" for the area. Still, "assuming that security thresholds continue to be met, we will continue our stepwise approach," the company said. From a supply chain perspective, the gradual reopening of the <strong>Suez Canal</strong> route will pressure spot freight rates, particularly on Europe-Asia container lanes, while persistent security uncertainty continues to reshape insurance premiums and charter contract structures.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43193]</p>

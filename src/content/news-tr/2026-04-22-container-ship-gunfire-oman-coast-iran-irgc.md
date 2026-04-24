@@ -30,8 +30,3 @@ tags:
 3. Gemi, Yunan Technomar yönetiminde olup A.P. Moeller-Maersk çarter ağında kullanılıyordu.<br>
 4. Mürettebattan herhangi bir yaralanma bildirilmedi; olay UKMTO'ya raporlandı.<br>
 5. Olay, Hürmüz Boğazı ve geniş Orta Doğu su yollarındaki ticari denizcilik için artan güvenlik risklerini gösteriyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

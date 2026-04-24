@@ -29,8 +29,3 @@ tags:
 3. YMSlite; tam kurumsal platform uygulamadan saha süreçlerini dijitalleştirmek isteyen siteler için daha hafif bir çözüm olarak konumlandırıldı.<br>
 4. Özellikler; kapı plaka tanıma, sürücü mobil uygulaması, saha haritalama ve gerçek zamanlı bildirimler.<br>
 5. Bulut tabanlı yapı; uygulama süresini kısaltıyor ve IT altyapısı yatırımlarını azaltıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -28,4 +28,3 @@ tags:
   <li><p>Çin, dünya antimuan tedarikinin büyük bir kısmını kontrol ediyor.</p></li>
   <li><p>ABD ve Avrupa, Çin dışındaki kaynaklardan antimuan tedariki arayışında.</p></li>
 </ol>
-<p><br></p>

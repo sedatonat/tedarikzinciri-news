@@ -35,8 +35,3 @@ tags:
 3. <strong>Coca-Cola</strong>; 17 Temmuz&rsquo;da <strong>HFCS</strong> kullanımını savunuyor açıklama yayınlıyor.<br>
 4. <strong>RFK Jr.</strong> (<strong>HHS</strong> Bakanı); <strong>HFCS</strong>&rsquo;ye uzun süredir karşı çıkıyor.<br>
 5. <strong>Mexican Coke</strong>; <strong>Coca-Cola</strong>&rsquo;nın şeker kamışı kullanıyor versiyonu oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42170]</p>

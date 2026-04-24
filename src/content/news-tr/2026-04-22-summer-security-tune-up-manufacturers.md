@@ -34,8 +34,3 @@ tags:
 3. Yaz tatil dönemi; saldırganlar için hedefli kampanya zamanlaması oluyor.<br>
 4. <strong>NIST CSF</strong>; <strong>ISO 27001</strong>; <strong>IEC 62443</strong>; ana siber güvenlik çerçeveleri oluyor.<br>
 5. <strong>MFA</strong>; <strong>backup</strong>; <strong>OT segmentation</strong>; <strong>EDR/XDR</strong>; ana koruma kontrolleri oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42350]</p>

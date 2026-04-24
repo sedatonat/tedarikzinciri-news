@@ -23,8 +23,3 @@ tags: ["Liebherr", "Grangemouth Limanı", "STS vinç", "crane raise", "straddle 
 3. The upgrade enables higher stacks and the use of next-generation straddle carriers.<br>
 4. The port handles more than 250,000 TEUs annually.<br>
 5. Liebherr Transform raised each crane within six weeks while it remained on the rail.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

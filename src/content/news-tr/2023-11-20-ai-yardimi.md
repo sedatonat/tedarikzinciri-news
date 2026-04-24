@@ -17,5 +17,3 @@ tags:
 - tedarik zinciri güvenliği
 ---
 <p>Norman Kanz 'ın Supply Chain Management Review sitesinde yazdığı zihin açıcı makale.</p>
-<p><br></p>
-<p><br></p>

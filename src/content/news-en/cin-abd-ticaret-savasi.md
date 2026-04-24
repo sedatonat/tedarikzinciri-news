@@ -98,12 +98,3 @@ Nevertheless, today's figures clearly demonstrate that <strong>China's role in t
   <li style="text-align: justify"><p style="text-align: justify">Beijing holds <strong>a strong negotiating position ahead of November talks on extending the tariff ceasefire.</strong></p></li>
   <li style="text-align: justify"><p style="text-align: justify">While <strong>global supply chain restructuring continues long term,</strong> <strong>China's production and supply power will not change in the short term.</strong></p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Get ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via the link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

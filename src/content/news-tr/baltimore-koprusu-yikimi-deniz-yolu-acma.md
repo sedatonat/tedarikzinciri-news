@@ -20,8 +20,6 @@ tags:
 - altyapı hasarı
 ---
 <p>Baltimore'daki Francis Scott Key Köprüsü'nün kontrollü bir patlama ile yıkılması, 26 Mart'tan bu yana enkaz altında sıkışmış olan Dali isimli konteyner gemisinin kurtarılmasında önemli bir adım oldu. Yıkım, köprünün yedi hafta önce kısmen çökmesinin ardından gerçekleştirildi ve Baltimore Limanı'na giden ana nakliye kanalını yeniden açma çabasının bir parçası. Yıkım sonucunda Dali gemisinin suya yeniden yüzdürülmesi ve iskeleye trafik akışının normale dönmesi bekleniyor. Bu süreç, limandaki uzun vadeli tıkanıklığı sona erdirerek liman çalışanlarına ve küçük işletme sahiplerine rahatlama sağlayacak. Köprünün yerine yenisi inşa edilmesinin tahmini maliyeti 1.7 ile 1.9 milyar dolar arasında değişiyor ve yaklaşık dört yıl sürecek.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ol>
   <li><p>Francis Scott Key Köprüsü, kontrollü bir patlama ile yıkıldı.</p></li>
@@ -33,4 +31,3 @@ tags:
 </ol>
 <p><br></p>
 <p><strong>İlgili Makalemiz:</strong> <a href="https://www.tedarikzinciriportali.com/post/maersk-baltimore-koprusu-kazasi"><u>https://www.tedarikzinciriportali.com/post/maersk-baltimore-koprusu-kazasi</u></a></p>
-<p><br></p>

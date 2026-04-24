@@ -28,9 +28,3 @@ tags: ['Bart A. De Muynck', 'LWASC', 'podcast', 'satın almakta', 'ihale', 'teda
 3. The wine-making metaphor is applied to supply chain.<br>
 4. <strong>Procurement</strong> is a complex global balancing act.<br>
 5. Frost and tariffs are presented as examples of disruptions.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our Book is Now Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[43655]</p>

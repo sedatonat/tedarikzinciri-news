@@ -23,8 +23,3 @@ tags: ["Honda", "Fastport", "eQuad", "Bird", "Spin", "last-mile", "EV", "urban l
 3. It will be used for battery swapping and scooter repositioning.<br>
 4. Suitable for parcel, grocery and food-service distribution.<br>
 5. Offered as hardware plus a fleet-as-a-service software bundle.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

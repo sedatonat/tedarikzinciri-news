@@ -32,4 +32,3 @@ tags:
   <li><p><a href="https://www.we-pack.co.uk/"><u>WePack</u></a> has over 30 years of experience in the industry and works with recognized brands across multiple sectors.</p></li>
   <li><p><a href="https://nulogy.com/"><u>Nulogy</u></a> launched its 'Essential Package' at the <a href="https://www.packagingbirmingham.com/"><u>Packaging Innovations & Empack 2024</u></a> event, offering a solution tailored for smaller contract packing operations.</p></li>
 </ul>
-<p><br></p>

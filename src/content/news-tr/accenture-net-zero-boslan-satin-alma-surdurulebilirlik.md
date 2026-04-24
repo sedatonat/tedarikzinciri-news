@@ -34,4 +34,3 @@ tags:
   <li><p>Boslan, Accenture'ın dijital dönüşüm kapasitesine entegre edilerek daha geniş kapsamlı çözümler sunacak.</p></li>
   <li><p>Satın alma, Accenture'ın Avrupa'daki varlığını güçlendirecek.</p></li>
 </ul>
-<p><br></p>

@@ -28,10 +28,4 @@ tags: ['TPM26', 'ONE', 'Jeremy Nixon', 'Janet Yellen', 'Hürmüz', 'Brent', 'kon
 3. <strong>Yellen</strong> notes 15 million barrels of crude oil daily are being affected.<br>
 4. <strong>Brent</strong> climbs 13 percent to $82, with a $100 scenario in play.<br>
 5. <strong>ONE</strong> CEO <strong>Nixon</strong> characterizes the conflict as a "Black Swan" event.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
 <p>We would be happy to receive your feedback.</p>
-<p><br></p>
-<p>[43580]</p>

@@ -33,4 +33,3 @@ tags:
   <li><p>The semiconductor sector is showing positive developments, particularly in South Asia.</p></li>
   <li><p>Improvement signals are evident in consumer spending and post-Covid supply chain issues.</p></li>
 </ul>
-<p><br></p>

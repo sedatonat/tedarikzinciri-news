@@ -24,4 +24,3 @@ tags:
 <p>KPMG Türkiye'nin 'Birleşme ve Satınalma Trendleri 2023' raporuna göre, bu işlemlerin hacmi kasım sonu itibarıyla 2.7 milyar dolar olarak belirlendi. Önceki yılın aynı dönemine kıyasla, işlem sayısı 205'ten 486'ya yükselerek önemli bir artış gösterdi. Bu rakam, 2021'de 338 ve 2020'de 263 idi. 2024 için iyimser beklentiler korunurken, teknoloji, medya, telekomünikasyon, enerji ve endüstriyel üretim sektörlerinde yoğun bir ilgi bekleniyor.&nbsp;</p>
 <p><br></p>
 <p>Öne çıkan büyük işlemler arasında TOFAŞ'ın, Stellantis Otomotiv'i 439.1 milyon dolarlık bir işlemle satın alması ve İş Bankası'nın, Greeneco Enerji Elektrik Üretim'in %50 hissesini 130.9 milyon dolara satın alması yer aldı​.</p>
-<p><br></p>

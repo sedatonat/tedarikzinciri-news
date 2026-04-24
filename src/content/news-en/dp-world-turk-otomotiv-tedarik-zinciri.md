@@ -29,8 +29,6 @@ tags:
 <p>Kris Adams, CEO of DP World Yarimca, noted that this new land route offers a middle ground in terms of speed and price and was designed to assist customers during global disruptions. While air transport offers speed, it faces challenges such as high costs and insufficient capacity. The new route utilizes railway and truck services to provide a seamless and efficient transport process from source to destination.</p>
 <p><br></p>
 <p>Rashid Abdulla, DP World Europe CEO and MD, stated that the new route demonstrates the company's commitment to facilitating trade in Europe and its ability to develop rapid solutions to urgent challenges for customers. Abdulla emphasized the company's determination to continue supporting global supply chains and maintaining trade flows.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Key Points</strong></h5>
 <ol>
   <li><p>DP World has established new routes to address raw material shortages for Turkey's automotive industry.</p></li>
@@ -38,5 +36,3 @@ tags:
   <li><p>DP World is offering a faster and more economical alternative using Chinese railways.</p></li>
   <li><p>A new route passing through Georgia will be launched in 2025.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

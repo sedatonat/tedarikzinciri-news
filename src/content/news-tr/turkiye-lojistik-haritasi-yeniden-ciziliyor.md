@@ -30,4 +30,3 @@ tags:
   <li><p>Demiryolu taşımacılığının payını yüzde 5'ten yüzde 22'ye yükseltme planı.</p></li>
   <li><p>Kara yollarındaki yük taşımacılığı payını yüzde 72'den yüzde 57'ye düşürme niyeti.</p></li>
 </ol>
-<p><br></p>

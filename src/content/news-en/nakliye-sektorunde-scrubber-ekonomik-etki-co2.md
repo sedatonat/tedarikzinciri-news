@@ -41,5 +41,3 @@ tags:
   <li><p>Using scrubbers is more cost-effective than switching to low-sulphur fuel.</p></li>
   <li><p>We are subject to the impact of policies aimed at reducing carbon emissions.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

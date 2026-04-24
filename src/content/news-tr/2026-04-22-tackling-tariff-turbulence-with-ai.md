@@ -35,8 +35,3 @@ tags:
 3. <strong>WTO</strong>; küresel ticaret hacminde %0.2-%1.5 düşüş tahmin ediyor.<br>
 4. <strong>AI</strong> ve <strong>ML</strong>; tarife türbülansı yönetiminde kritik araçlar oluyor.<br>
 5. <strong>HTS</strong> sınıflandırma; menşei optimizasyonu; <strong>tariff engineering</strong>; ana <strong>AI</strong> uygulama alanları oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42440]</p>

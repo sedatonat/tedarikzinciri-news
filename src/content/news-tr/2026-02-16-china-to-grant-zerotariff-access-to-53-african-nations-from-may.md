@@ -28,7 +28,3 @@ tags:
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu düzenleme; <strong>Belt and Road Initiative</strong> çerçevesinde gelişen Çin-Afrika lojistik koridorlarına ek bir hacim katıyor. <strong>COSCO</strong>, <strong>China Merchants Group</strong> ve <strong>Sinotrans</strong> gibi Çinli lojistik devleri için Afrika rotalarındaki konteyner sayıları artması bekleniyor. Aynı zamanda; Lobito Koridoru, Mombasa-Nairobi ve Cibuti-Addis Ababa demiryolu projeleri gibi altyapı yatırımlarının ekonomik gerekçesi güçleniyor.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında ABD ve <strong>European Union</strong> için bu gelişme; küresel ticaret düzeninde alternatif bir blok şekillenmesinin hızlandığını gösteren bir gösterge oluyor. <em>African Continental Free Trade Area</em> (AfCFTA) bağlamında; Çin'in tarife indirimleri Afrika içi entegrasyon ile birleşerek; kıtanın küresel değer zincirlerindeki konumunu yeniden tanımlıyor. Batılı şirketler için bu; Afrika kaynaklı tedarikte Çinli rakiplerle artan rekabet anlamına geliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43483]</p>

@@ -31,4 +31,3 @@ tags:
   <li><p>The 2024 target is to increase handling capacity to 4 million TEU through the port expansion project.</p></li>
   <li><p>Asyaport aims to improve operational efficiency and customer satisfaction through continuous investments.</p></li>
 </ol>
-<p><br></p>

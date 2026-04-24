@@ -47,13 +47,6 @@ tags:
   <li><p>First-mile reinvention forms the foundation of supply chain transformation, and failure to invest in this area will likely leave companies behind.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>We wish you pleasant reading.</p>

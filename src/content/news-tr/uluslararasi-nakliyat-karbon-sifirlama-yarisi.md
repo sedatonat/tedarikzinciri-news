@@ -35,5 +35,3 @@ tags:
   <li><p>IKEA'nın 2030'a kadar GHG emisyonlarını %70 azaltma hedefi.</p></li>
   <li><p>CMA CGM'nin biyogaz ve biyometanol sunma planı.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

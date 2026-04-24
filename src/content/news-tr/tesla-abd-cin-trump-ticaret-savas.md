@@ -40,12 +40,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Tesla</strong>, ticaret politikalarının, şirketin Çin'deki operasyonlarını ve pazar payını olumsuz etkileyebileceğini ifade etti.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Tesla</strong>, ABD Ticaret Temsilciliği'ne gönderdiği mektupta, ticaret uygulamalarının ABD'li üreticileri ve ihracatçıları olumsuz etkilememesi için dikkatli bir değerlendirme yapılması gerektiğini vurguladı.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

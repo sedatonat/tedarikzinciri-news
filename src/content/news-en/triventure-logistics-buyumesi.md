@@ -37,12 +37,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">This partnership has resulted in the development of a flexible and robust WMS platform suited to the complex requirements of healthcare logistics.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">TVL's innovative approach has contributed to the company's prominence in the healthcare logistics sector.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

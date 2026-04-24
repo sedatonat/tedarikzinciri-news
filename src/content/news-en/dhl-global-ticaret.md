@@ -92,12 +92,3 @@ The U.S. failure to expand LNG sanctions provides <strong>indirect relief to Mos
   <li style="text-align: justify"><p style="text-align: justify">Through this move, China is <strong>strengthening energy solidarity with Russia</strong> and <strong>expanding Asia-centered energy networks.</strong></p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>The exclusion of LNG transportation from U.S. sanctions</strong> is creating <strong>strategic breathing room</strong> for Russia.</p></li>
 </ul>
-<p style="text-align: justify"><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

@@ -37,4 +37,3 @@ tags:
   <li><p>Markalar, Walmart'ın katı gereksinimlerini karşılamaları durumunda, standartlardaki düşüşü rekabet avantajına çevirebilir.</p></li>
   <li><p>Tedarikçiler, uygun taşıma sağlayıcısını seçerken, perakende konusunda uzmanlaşmış ve uygunluk sorunlarına aşina olanları tercih etmeli.</p></li>
 </ul>
-<p><br></p>

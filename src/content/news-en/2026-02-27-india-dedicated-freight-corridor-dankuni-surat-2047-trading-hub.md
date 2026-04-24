@@ -22,8 +22,3 @@ tags: ["India", "Indian Railways", "Dedicated Freight Corridor", "Dankuni", "Sur
 3. The government aims to make the country a key trading hub by 2047.<br>
 4. The existing Eastern and Western DFCs are already operational.<br>
 5. India targets rail's freight share rising to 45 per cent by 2030.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

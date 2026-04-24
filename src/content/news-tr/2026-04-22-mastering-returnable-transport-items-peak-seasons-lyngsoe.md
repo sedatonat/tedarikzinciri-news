@@ -36,9 +36,3 @@ tags:
 3. <strong>RFID</strong> ve <strong>BLE</strong>; uçtan uca varlık görünürlüğü sağlıyor.<br>
 4. <strong>Lyngsoe Systems</strong>; <strong>postal/parcel</strong> kökenli pazara <strong>RTI</strong> alanına genişliyor.<br>
 5. 100K+ varlıklı vaka; kayıp azalması ve dengeli dağılım sağlıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43809]</p>

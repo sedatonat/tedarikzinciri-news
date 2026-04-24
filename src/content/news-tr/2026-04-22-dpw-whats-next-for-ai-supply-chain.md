@@ -35,8 +35,3 @@ tags:
 3. Tedarik zinciri; küresel olarak <strong>GDP</strong>&rsquo;nin %20-30&rsquo;u; 450 milyon istihdam; 1,45 trilyon dolar <strong>U.S.</strong> katkı yapıyor.<br>
 4. <strong>AI</strong>; algoritmadan anlamsallığa; mekansal bilişime ve <strong>XR</strong>&rsquo;e evrim geçiriyor.<br>
 5. <strong>Foresight function</strong>; planlama araçlarında ana yetkinlik oluyor &mdash; insan denetimi ile birlikte oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41980]</p>

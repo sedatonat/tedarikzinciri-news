@@ -27,4 +27,3 @@ tags:
   <li><p>Şirketler, yatırımların dolaylı mali getirilerini doğrudan finansal faydalara dönüştürüyor zorlanıyor.</p></li>
   <li><p>Erken benimseyenlerin bazıları gelir ve verimlilikte önemli iyileşmeler bildiriyor.</p></li>
 </ol>
-<p><br></p>

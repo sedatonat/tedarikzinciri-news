@@ -54,14 +54,3 @@ tags:
   <li><p><strong>Government Plan:</strong> A credible compensation plan for those displaced needs to be established.</p></li>
   <li><p><strong>Climate Change:</strong> Rising drought and water resource depletion are increasing the project's urgency.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book on How to Acquire ERP has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
-<p>Your feedback would make us happy.</p>
-<p>We wish you happy reading.</p>

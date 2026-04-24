@@ -35,8 +35,3 @@ tags:
 3. 7 ana emtia: sığır; kakao; kahve; palmiye yağı; lastik; soya; odun.<br>
 4. <strong>Due Diligence Statement</strong> (<strong>DDS</strong>); coğrafi konum verisi ve risk değerlendirmesi içeriyor.<br>
 5. Cezalar cironun en az %4&rsquo;ü &mdash; ana yaptırım eşiği oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41690]</p>

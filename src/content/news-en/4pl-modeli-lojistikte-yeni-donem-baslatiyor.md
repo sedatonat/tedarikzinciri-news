@@ -40,13 +40,6 @@ tags:
   <li><p>Reasons for unsuccessful 4PL relationships include misunderstanding of the model and poor relationship management.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book "How to Procure an ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you good reading in advance.</p>

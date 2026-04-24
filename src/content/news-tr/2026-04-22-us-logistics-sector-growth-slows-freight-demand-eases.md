@@ -35,8 +35,3 @@ tags:
 3. Depo kullanımı 65.3&rsquo;e yükseliyor; kapasite 51.6 mütevazi genişlemeyi işaret ediyor.<br>
 4. <strong>CSCMP</strong> + üniversite koalisyonu; <strong>LMI</strong>&rsquo;i her ay yayınlıyor.<br>
 5. <strong>U.S.</strong> lojistik; daha yumuşak zirve sezonuna hazırlanıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42640]</p>

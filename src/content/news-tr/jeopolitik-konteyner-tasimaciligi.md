@@ -123,12 +123,3 @@ Yerine, <strong>jeopolitik bloklar arasında yeniden yönlenen, stratejik ürün
   <li style="text-align: justify"><p style="text-align: justify"><strong>Gemi sahipleri ve navlun operatörleri</strong>, talep dalgalanmalarına karşı <strong>esnek filo ve rota planlamasına</strong> yönelmek zorunda.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Sonuç:</strong> Ticaret ölmedi, sadece <strong>jeopolitik tarafından yeniden çizilen bir harita</strong> üzerinde akmaya devam ediyor.</p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a>&nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

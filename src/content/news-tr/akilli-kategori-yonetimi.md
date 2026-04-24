@@ -47,13 +47,3 @@ AI ve otomasyon araçlarının değere dönüşmesi için sadece teknoloji yeter
   <li><p>Design-to-value/ESI değer yakalamayı hızlandırıyor.</p></li>
   <li><p>Teknoloji–insan dengesi başarıyı belirliyor.</p></li>
 </ul>
-<p>----------</p>
-<p>----------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>
-<p><strong>#ERP Nedir?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" rel="noopener" target="_new">https://www.sedatonat.com/erpnasilalinir</a> linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[925]</p>

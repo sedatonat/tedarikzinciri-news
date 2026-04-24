@@ -27,8 +27,3 @@ tags: ['China', 'Panama Canal', 'Cosco', 'BlackRock', 'MSC', 'CK Hutchison', 'Tr
 3. <strong>Trump</strong> is pressuring <strong>CK Hutchison</strong> on national security grounds.<br>
 4. <strong>CK Hutchison</strong> says the deal is unlikely to close before 2026.<br>
 5. The previous equal stake demand has been escalated to a controlling interest.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[43020]</p>

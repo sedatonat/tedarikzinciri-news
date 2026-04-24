@@ -32,8 +32,3 @@ tags:
 3. Elektrikli RMG vinçleriyle desteklenen dock üstü demiryolu sahası genişletildi.<br>
 4. Terminal operatörü için yeni 30 yıllık yetkilendirme öngörüldü; 2014 kapsamı sadeleştirildi.<br>
 5. USACE; Limana HMTF kapsamında ayrıca yaklaşık 70 milyon dolar bakım fonu tahsis etti.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

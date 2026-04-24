@@ -30,5 +30,3 @@ tags:
   <li><p>Elektrikli forkliftler, Kuzey Amerika pazarının %65'ini oluşturuyor ve bu oranın artması bekleniyordir.</p></li>
   <li><p>Brett Wood, şirketin gelecek on yıl için stratejik planlamalar yaptığını ve sektörde öncü bir rol oynamayı hedeflediğini ifade etti.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

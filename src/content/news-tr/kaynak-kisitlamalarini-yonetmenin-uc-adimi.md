@@ -41,4 +41,3 @@ tags:
   <li><p>Paydaş desteğini kazanmanın en etkili yolu, işletmenin hayatta kalmasına yönelik kısa vadeli etkileri vurgulamaktır.</p></li>
   <li><p>Tedarik zinciri liderleri stratejilerini üç kategoriye odaklamalıdır: uzun vadeli kısıtlamaları öncelik sırasından çıkarmak, çözümler tasarlamak için uzun vadeli kısıtlamaları yeniden önceliklendirmek ve pazarı öğrenmek ve yenilik yapmak için kullanmak.</p></li>
 </ol>
-<p><br></p>

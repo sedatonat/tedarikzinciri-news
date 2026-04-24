@@ -28,4 +28,3 @@ tags:
   <li><p>Fırtına, sahil erozyonu ve su baskınlarına yol açarak turizmde ciddi kayıplara neden oldu.</p></li>
   <li><p>Havaalanı kapanmaları ve uçuş iptalleri büyük ölçüde ekonomik zararı artırdı.</p></li>
 </ol>
-<p><br></p>

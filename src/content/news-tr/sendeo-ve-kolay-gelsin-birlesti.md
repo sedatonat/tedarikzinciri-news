@@ -29,4 +29,3 @@ tags:
   <li><p>Yeni şirketin adı "Kolay Gelsin" olarak belirlendi.</p></li>
   <li><p>Bu birleşme, pandemi sonrası kargo ve taşımacılık sektöründeki önemini daha da artırıyor.</p></li>
 </ul>
-<p><br></p>

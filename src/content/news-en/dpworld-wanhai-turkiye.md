@@ -57,14 +57,8 @@ tags:
   <li><p>Objectives: <strong>Shorter transit times, increased capacity, and strengthening Turkey's role in Asia–Europe trade.</strong></p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Choose ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a>&nbsp;You can download and read it for free via this link.</p>
 <p>We would be happy to receive your feedback.</p>
 <p>We wish you pleasant reading.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

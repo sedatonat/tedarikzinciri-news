@@ -30,4 +30,3 @@ tags:
   <li><p><strong>Avrupa Pazarı Genişlemesi</strong>: İngiltere ve Avusturya’daki firmaların satın alınmasıyla Avrupa'da büyüme.</p></li>
   <li><p><strong>Covid-19'un Etkisi</strong>: Dijital çözümler talebinin artması, stratejinin başarısını pekiştiriyor.</p></li>
 </ul>
-<p><br></p>

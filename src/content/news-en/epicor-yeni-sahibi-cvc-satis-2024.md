@@ -29,4 +29,3 @@ tags:
   <li><p>Epicor's annual recurring revenue has exceeded $1 billion.</p></li>
   <li><p>The company's SaaS transformation and international expansion are proceeding at pace.</p></li>
 </ol>
-<p><br></p>

@@ -33,12 +33,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>MSC</strong>, önümüzdeki yıllarda tüm filosunu bu teknoloji ile donatmayı planlıyor.​<a href="https://www.joc.com/article/msc-launches-new-visibility-technology-for-refrigerated-cargo-5935929" rel="noopener" target="_blank">joc.com</a></p></li>
   <li style="text-align: justify"><p style="text-align: justify">Bu sistem, ürün kalitesi ve güvenliğini artırarak, olası sorunların erken tespit edilmesine yardımcı oluyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

@@ -36,4 +36,3 @@ tags:
   <li><p>Eskişehir projesi, dosya gönderileri için robotlar kullanılarak ayrıştırma yapılmasını sağlıyor.</p></li>
   <li><p>Ankara'da daha büyük bir otomasyon merkezi projesine başlandı.</p></li>
 </ul>
-<p><br></p>

@@ -27,8 +27,6 @@ tags:
 <p>COSCO SHIPPING, aynı zamanda güncel OMS/WMS sistemlerini kullanarak EDI sürecini iyileştirdi ve kapsamlı IT destekli operasyonlarla sürekli ve tam görünürlük sağlayan yönetim imkanı sunuyor. Müşteriler, gerçek zamanlı kargo dinamiklerine erişebilir ve çeşitli operasyonel zorlukları etkin bir şekilde yönetebilir.&nbsp;</p>
 <p><br></p>
 <p>Yeni tesis, özellikle orta ve büyük boyutlu ürün satıcılarının ihtiyaçlarına odaklanacak ve ev aletleri ile mobilya gibi ürünler için hem standart hem de özelleştirilmiş lojistik çözümler sunacak.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ol>
   <li><p>COSCO SHIPPING, ABD'de kendi işlettiği bir lojistik deposu açtı.</p></li>
@@ -39,5 +37,3 @@ tags:
   <li><p>Gerçek zamanlı kargo takibi ve operasyonel zorlukların etkin yönetimi sağlanıyor.</p></li>
   <li><p>Ortalama ve büyük boyutlu ürün satıcılarına yönelik hizmetler öne çıkarılıyor.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

@@ -35,8 +35,3 @@ tags:
 3. <strong>Working capital</strong> taşıma maliyeti; son 2 yılda %30+ artıyor.<br>
 4. Ağustos okul-&ouml;ncesi ve Eylül holiday stoku zamanlaması; risk yoğun oluyor.<br>
 5. <strong>Real-time landed cost</strong>; <strong>SKU-level ROIC</strong>; <strong>IBP</strong>; ana azaltma taktikleri oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42320]</p>

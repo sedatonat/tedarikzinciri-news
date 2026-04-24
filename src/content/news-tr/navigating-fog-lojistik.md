@@ -52,11 +52,3 @@ tags:
   <li><p><strong>Resilience</strong>, sektörde artık <strong>stratejik zorunluluk</strong> olarak görülüyor.</p></li>
   <li><p><strong>AI ve otomasyon</strong>, dayanıklı tedarik zincirleri kurmanın maliyetini azaltıyor.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

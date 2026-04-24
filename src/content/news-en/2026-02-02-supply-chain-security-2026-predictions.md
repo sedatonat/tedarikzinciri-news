@@ -28,11 +28,5 @@ tags: ['TPRM', 'üçüncü taraf riski', 'ESG', 'yapay zeka yönetişimi', 'sibe
 3. Regulators are demanding continuous and data-driven monitoring instead of one-time assurance.<br>
 4. <strong>AI agents</strong> are automating repetitive risk tasks.<br>
 5. <strong>Explainable AI</strong> and <strong>human-in-the-loop</strong> architecture are taking the lead.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
 <p>We would be delighted to hear your feedback.</p>
 <p>Wishing you happy reading from the start.</p>
-<p><br></p>
-<p>[43106]</p>

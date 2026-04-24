@@ -49,11 +49,6 @@ tags:
   <li><p>Companies are taking strategic steps to manage costs and maintain competitive advantages.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
+
 <p>Your feedback would make us happy.</p>
 <p>We wish you happy reading in advance.</p>

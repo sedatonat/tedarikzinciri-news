@@ -21,8 +21,3 @@ tags: ["MSC", "Mediterranean Shipping Company", "Aponte family", "ownership tran
 3. Diego Aponte serves as Group President; Alexa Aponte as Group Chief Financial Officer.<br>
 4. The transfer aims to ensure long-term stability and sustained growth.<br>
 5. MSC remains the global container market leader.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

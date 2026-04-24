@@ -34,8 +34,6 @@ tags:
 <p style="text-align: justify">On the Chinese side, the matter is not being treated solely as a port operations issue. In a statement to the Wall Street Journal, a senior Chinese official indicated that control of the Panama Canal ports would be used as a <strong>bargaining chip in upcoming U.S.–China trade negotiations</strong>. This approach reveals that the port sale has become part of a broader trade and power struggle between the two nations.</p>
 <p><br></p>
 <p style="text-align: justify">The overall picture shows that the ports surrounding the Panama Canal have been placed at the center of <strong>major power competition</strong>, far beyond global logistics networks. The ultimate outcome of the sales process will shape not only port ownership but also spheres of influence in global maritime shipping and the balance of control over trade routes.</p>
-<p><br></p>
-<p style="text-align: justify"><br></p>
 <h3><strong>Key Points</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">China is demanding a controlling stake for <strong>Cosco</strong> in the Panama Canal port sale.</p></li>

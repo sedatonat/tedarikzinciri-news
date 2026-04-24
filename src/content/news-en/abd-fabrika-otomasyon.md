@@ -85,14 +85,8 @@ According to Hölzl, monthly or usage-based payment models allow companies to te
   <li style="text-align: justify"><p style="text-align: justify"><strong>Robot-as-a-service</strong> and leasing models are rapidly expanding.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Procure ERP?" has been published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through the link above.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading in advance.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

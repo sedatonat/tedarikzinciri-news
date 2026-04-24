@@ -27,8 +27,3 @@ tags: ['gümrük uyumu', 'sağlık lojistiği', 'Josh Medow', 'cold-chain', 'FDA
 3. Cold-chain logistics must manage multiple temperature ranges.<br>
 4. <strong>Josh Medow</strong> is a contributor to the <strong>SCB Think Tank</strong>.<br>
 5. Customs compliance is positioned as a board-level risk.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[42700]</p>

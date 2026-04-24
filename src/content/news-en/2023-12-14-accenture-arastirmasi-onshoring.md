@@ -26,4 +26,3 @@ tags:
 <p>The report is based on a survey conducted in early 2023 with 1,230 senior executives from various industries. According to the research, regional supply and production are important for becoming more resilient to disruptions, but insufficient to achieve long-term resilience. To reach this goal, companies are attempting to increase their digital maturity by investing in solutions such as data, artificial intelligence, and digital twins.</p>
 <p><br></p>
 <p>Sunita Suryanarayan from Accenture notes that while companies have rapidly remedied complex global production and supply networks with short-term solutions, they now need to strategically redesign these networks to make them multi-sourced, more transparent and agile through data and artificial intelligence.</p>
-<p><br></p>

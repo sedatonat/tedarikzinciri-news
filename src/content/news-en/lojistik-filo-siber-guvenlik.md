@@ -56,12 +56,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Case Study:</strong> The <strong>Colonial Pipeline</strong> attack demonstrated the vulnerability of critical infrastructure to cyber threats and emphasized the importance of proactive measures.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Conclusion:</strong> Adopting proactive strategies and technological solutions for fleet cybersecurity ensures operational efficiency and security.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via the link above.</p>
-<p>We would be pleased to receive your feedback.</p>
-<p>We wish you happy reading.</p>

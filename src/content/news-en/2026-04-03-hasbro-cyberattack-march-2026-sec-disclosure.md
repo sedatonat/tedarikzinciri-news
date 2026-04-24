@@ -23,8 +23,3 @@ tags: ["Hasbro", "cyberattack", "SEC 8-K", "supply chain risk", "forensics"]
 3. Affected systems were isolated; manufacturing continues.<br>
 4. Back-office processes experienced temporary disruption.<br>
 5. A final assessment of customer data impact is pending.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

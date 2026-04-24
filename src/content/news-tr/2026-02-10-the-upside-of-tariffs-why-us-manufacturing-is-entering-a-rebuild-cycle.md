@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Hareket halindeki projelerin tamamlanmasının zorluğunun ötesinde, birçok ABD imalatçısı yerinde dondu. Ancak 2026'da kritik bir şey değişti: <em>Predictability</em> geri döndü. Büyük ticaret pozisyonlarının çoğu artık belirlendi. Acil önlemler, <em>Federal Trade Expansion Act</em>'in 1962 tarihli <strong>Section 232</strong>'sine ilişkin yeni raporlama gibi köklü mekanizmalara yerini bıraktı; bu madde, ulusal güvenliği korumak için cumhurbaşkanına tarifeleri ayarlama yetkisi tanıdı.</p>
 <p><br></p>
 <p style="text-align: justify">Söz konusu raporlama, tüm tedarik kaynakları hakkında daha derin şeffaflık ve doğruluk getirdi. Tedarik zinciri perspektifinden bakıldığında bu ortam, <em>nearshoring</em>, <em>reshoring</em> ve <em>friend-shoring</em> kararlarının çok yıllı bir sermaye yatırımı dalgasına dönüşmesini sağladı. CFO'lar, toplam yer maliyetleri («TLC») ve sermaye geri dönüş süreleri konusunda daha güvenli senaryolar kurdu; bu durum, fabrika yatırımları, otomasyon ve iş gücü yetiştirme programlarının önünü açtı.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43323]</p>

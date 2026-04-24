@@ -30,4 +30,3 @@ tags:
   <li><p>Yeni köprünün 2040 yılında trafiğe açılması planlanıyor.</p></li>
   <li><p>Mevcut köprü, yeni köprü tamamlanana kadar kullanılmaya devam edilecek.</p></li>
 </ul>
-<p><br></p>

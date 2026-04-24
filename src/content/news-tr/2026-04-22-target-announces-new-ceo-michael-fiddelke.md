@@ -35,8 +35,3 @@ tags:
 3. Hisseler; duyurudan sonra %6 düşüyor.<br>
 4. <strong>Fiddelke</strong>; ürün kalitesi ve teknoloji yatırımı sözü veriyor.<br>
 5. <strong>Walmart</strong>; <strong>Costco</strong>; <strong>Amazon</strong> rekabeti ve <strong>U.S.</strong> tarifeleri ana zorluklar oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42370]</p>

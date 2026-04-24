@@ -28,8 +28,6 @@ tags:
 <p>12 Ocak'ta Frankfurt borsasında Tesla hisseleri %1.7 düşüş gösterdi.</p>
 <p><br></p>
 <p>Tesla'nın duyurusu, ABD ve İngiltere'nin Yemen'de Houthi hedeflerine karşı "başarılı saldırılar gerçekleştirdiklerini" açıklamasından kısa bir süre sonra geldi. ABD Hava Kuvvetleri, 11 Ocak'ta Yemen'in başkenti Sanaa'da 16 Houthi militan konumunda 60'tan fazla hedefe saldırdı.</p>
-<p><br></p>
-<p><br></p>
 <p><strong>Önemli Notalar:</strong></p>
 <ol>
   <li><p>Tesla'nın Berlin yakınlarındaki fabrikasının çoğu operasyonu 29 Ocak - 11 Şubat arasında askıya alındı.</p></li>
@@ -40,4 +38,3 @@ tags:
   <li><p>Tesla'nın hisseleri, 12 Ocak'ta %1.7 düşüş gösterdi.</p></li>
   <li><p>ABD ve İngiltere'nin Yemen'deki Houthi hedeflerine saldırıları, Tesla'nın duyurusundan kısa bir süre sonra gerçekleşti.</p></li>
 </ol>
-<p><br></p>

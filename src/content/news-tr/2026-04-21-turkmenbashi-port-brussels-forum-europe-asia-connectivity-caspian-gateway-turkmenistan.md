@@ -30,8 +30,3 @@ tags:
 3. Türkmenbaşı aynı zamanda Kuzey-Güney koridoru üzerinde kritik bir birleşme noktası.<br>
 4. Orta Koridor Kızıldeniz ve Rusya riskleri nedeniyle Avrupa-Çin kargosu için alternatif güzergâh haline geldi.<br>
 5. Türkmenistan AB'nin Global Gateway girişimi kapsamında yatırım desteği hedefliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

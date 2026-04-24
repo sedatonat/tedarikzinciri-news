@@ -25,8 +25,6 @@ tags:
 <p>California gibi bölgelerde yeni yasaların yürürlüğe girmesiyle birlikte yalnızca batarya elektrikli araçların kullanımını zorunlu kılacak olan bu yeni çaba, Biden Yönetimi tarafından sağlanan milyarlarca dolarlık fonlama ile destekleniyordir. Ancak bu federal çaba, hidrojen yanma motorları yerine elektrik üreten hidrojen yakıt hücrelerini desteklemeye odaklanmıştır.</p>
 <p><br></p>
 <p>Volvo ve Westport'a göre, yenilenebilir yakıtlarla çalışan içten yanmalı motor kullanımı, belirli sektörlerde taşımacılığın karbon salınımını azaltmanın en iyi yoludur. Ortak girişim, bağımsız bir birim olarak faaliyet gösterecek ve Westport, HPDI ile ilgili sabit varlıkları, fikri mülkiyeti ve işi katkıda bulunacaktır. Volvo Group, ortak girişime yaklaşık 28 milyon dolar karşılığında %45 hisse ile katılmıştır.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ol>
   <li><p>Ortak girişim, ağır taşımacılık ve arazi uygulamaları için yenilenebilir yakıtlı ICE teknolojisi üzerine odaklanacak.</p></li>
@@ -35,5 +33,3 @@ tags:
   <li><p>Biden Yönetimi, yeşil hidrojen pazarını desteklemek için milyarlarca dolarlık fon sağlıyor.</p></li>
   <li><p>Ortak girişim, Westport CEO'su Dan Sceli tarafından geçici olarak yönetilecek.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

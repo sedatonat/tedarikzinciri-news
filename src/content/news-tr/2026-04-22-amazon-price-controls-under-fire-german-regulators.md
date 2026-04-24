@@ -35,8 +35,3 @@ tags:
 3. <strong>Amazon</strong>; bulgulara şiddetle karşı çıkıyor &mdash; değişikliklerin müşteri ve ortaklara zarar vereceğini söylüyor.<br>
 4. 2022 <strong>EU</strong> uzlaşması ve 2023 <strong>FTC</strong> davası; tarihsel düzenleyici emsalleri oluyor.<br>
 5. <strong>EU DMA</strong>; <strong>Amazon</strong>&rsquo;u <strong>gatekeeper</strong> olarak belirliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41880]</p>

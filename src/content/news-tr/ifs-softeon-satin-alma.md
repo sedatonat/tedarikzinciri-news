@@ -37,8 +37,6 @@ tags:
 <p style="text-align: justify">Softeon CEO’su <strong>Jim Hoefflin</strong> ise, müşterilerin uzun süredir daha gelişmiş AI yetenekleri, robotik sistemlerle sorunsuz entegrasyon ve depo operasyonları ile geniş tedarik zinciri süreçleri arasında daha güçlü bir bağ talep ediyor olduğunu belirtti. IFS ile yapılan bu anlaşmanın, Softeon’un inovasyon hızını artırırken, mevcut alan uzmanlığını ve müşteri odaklı yaklaşımını koruyacağı aktarıldı.</p>
 <p><br></p>
 <p style="text-align: justify">Genel çerçevede bu satın alma, depo yönetimi yazılımlarının klasik stok ve görev takibi araçlarından çıkarak, <strong>akıllı, otonom ve üretimle entegre operasyon platformlarına</strong> dönüştüğünü gösteriyor. IFS–Softeon birleşimi, Industrial AI, robotik entegrasyon ve yazılım mimarisinin tedarik zinciri operasyonlarını nasıl yeniden şekillendiriyor olduğuna dair güçlü bir örnek sunuyor.</p>
-<p><br></p>
-<p style="text-align: justify"><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">IFS, bulut tabanlı WMS, WES ve DOM çözümleri sunan Softeon’u satın almak üzere anlaşmaya vardı.</p></li>
@@ -48,14 +46,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Softeon’un kurumsal müşteri tabanı, IFS portföyüne operasyonel derinlik katıyor.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a>&nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

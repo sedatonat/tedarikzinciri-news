@@ -27,8 +27,3 @@ tags:
 3. Tünel; Perthus Tüneli ile birlikte İber-Fransa yük trafiğinin büyük kısmını taşıyor.<br>
 4. Otomotiv parçaları ve tarım ürünleri sevkıyatı özellikle etkilenecek.<br>
 5. Navlun maliyetlerinde ciddi artış bekleniyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

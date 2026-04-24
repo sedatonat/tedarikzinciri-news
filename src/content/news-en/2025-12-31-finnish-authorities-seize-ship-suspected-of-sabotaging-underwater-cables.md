@@ -28,8 +28,3 @@ tags:
 <p style="text-align: justify"><strong>NATO</strong> stepped up its naval presence in the region in January with the launch of operation <strong>Baltic Sentry</strong>. The move came after Finnish commandos seized another vessel, the <strong>Eagle S</strong>, on Christmas Day 2024 after it damaged critical infrastructure. A court in Helsinki later acquitted that crew on the grounds that the incident took place outside Finnish territorial waters &mdash; underscoring the jurisdictional gap that complicates sabotage prosecutions.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the <strong>Baltic Sea</strong> is a critical corridor for European energy and data flows, hosting <strong>Nord Stream</strong>, <strong>BalticConnector</strong> and a dense web of fiber-optic links. Submarine cables carry more than 95 percent of global data traffic and underpin financial settlement, insurance and military command-and-control systems. Operators including <strong>Cinia</strong> (Finland) and <strong>Tele2</strong> (Sweden) face mounting repair costs and growing demand for specialized <em>cable repair vessels</em>, deepening capacity bottlenecks. <strong>NATO</strong>&rsquo;s evolving hybrid-threat doctrine has reignited debate over how attacks on undersea infrastructure should be assessed under <strong>Article 5</strong>.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43063]</p>

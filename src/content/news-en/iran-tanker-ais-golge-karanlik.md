@@ -94,12 +94,3 @@ The brief AIS disclosure will likely be remembered as <strong>a temporary respon
   <li style="text-align: justify"><p style="text-align: justify">The Iranian fleet continues to <strong>use dark routes and AIS manipulation methods to transport oil to China.</strong></p></li>
   <li style="text-align: justify"><p style="text-align: justify">According to experts, this incident provides a new example of how "shadow fleets" circumvent international energy monitoring systems.</p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>Our book "How to Get ERP?" has been published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>Wishing you happy reading in advance.</p>

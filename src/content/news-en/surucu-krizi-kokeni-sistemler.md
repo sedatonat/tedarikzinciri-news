@@ -43,14 +43,8 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">By 2026, the industry's focus should be on sustainable retention and standardized workflows.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a>&nbsp;You can download and read it free of charge via the link above.</p>
 <p>Your feedback would make us happy.</p>
 <p>We wish you happy reading from now on.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

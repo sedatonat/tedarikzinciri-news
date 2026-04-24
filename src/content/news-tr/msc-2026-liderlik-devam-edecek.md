@@ -29,8 +29,6 @@ tags:
 <p>CMA CGM'in ikinci sıraya yükselmesi beklenirken, Maersk'in üçüncü sıraya düşmesi öngörülüyor.&nbsp;</p>
 <p><br></p>
 <p>Hapag-Lloyd, ilk beş içinde kalmayı hedeflediği yeni 2030 stratejisini açıklamıştır, ancak Sea-Intelligence, bu hedefe ulaşmak için son iki yılda izlenen yaklaşımda bir değişiklik yapılması gerektiği konusunda uyarıda bulunuyor.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>
   <li><p>MSC, 2026 yılına kadar filosunu önemli ölçüde genişleterek dünyanın en büyük taşıyıcı şirketi olmaya devam edecek.</p></li>
@@ -40,4 +38,3 @@ tags:
   <li><p>2026 için yapılan tahminlere göre, CMA CGM ikinci sıraya yükselecek, Maersk ise üçüncü sıraya düşecek.</p></li>
   <li><p>Hapag-Lloyd'un ilk beş içinde kalma hedefi, son iki yılda benimsenen stratejilerde değişiklik yapılmasını gerektirebilir.</p></li>
 </ol>
-<p><br></p>

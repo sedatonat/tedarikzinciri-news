@@ -27,8 +27,3 @@ tags: ['Nvidia', 'Vera Rubin', 'Jensen Huang', 'CES', 'AI çip', 'Mercedes-Benz'
 3. <strong>Mercedes-Benz</strong> autonomous vehicle partnership is an additional announcement.<br>
 4. <strong>Microsoft</strong> and <strong>Amazon</strong> emerge as <strong>Rubin</strong> buyers.<br>
 5. <strong>Trump</strong> permits <strong>H200</strong> China sales in exchange for 25% revenue share.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement an ERP System? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it free through this link.</p>
-<p><br></p>
-<p>[43090]</p>

@@ -36,12 +36,3 @@ tags:
   <li><p><strong>CMA CGM'nin Fas'taki Varlığı:</strong> Şirket, Eurogate Tangiers ve Casablanca limanlarındaki faaliyetleriyle Fas'taki konumunu güçlendiriyor.</p></li>
   <li><p><strong>Amaç:</strong> Ülkenin lojistik ve alternatif enerji sektörlerindeki gelişimine katkı sağlamak.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

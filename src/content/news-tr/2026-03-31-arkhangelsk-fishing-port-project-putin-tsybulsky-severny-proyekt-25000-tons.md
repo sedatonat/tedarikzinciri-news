@@ -29,8 +29,3 @@ tags:
 3. İki ek lojistik projesi; 25 gemilik filo işleten Severny Proyekt tarafından yürütülüyor.<br>
 4. Arkhangelsk; Kuzey Deniz Rotası'na erişim sağlayan stratejik bir liman.<br>
 5. Yatırımlar; iklim değişikliğiyle açılan kuzey rotaları ticaret fırsatlarını hedefliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

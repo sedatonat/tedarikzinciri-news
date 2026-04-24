@@ -45,12 +45,5 @@ tags:
   <li><p>Deliveries will begin in January 2027.</p></li>
   <li><p>CEO <strong>Florent Maes</strong> stated that their entry into the LoLo segment has been positively received by customers.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you good reading from the start.</p>

@@ -45,14 +45,8 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Virtual Twin</strong> and virtual simulation support error-free execution and rapid innovation.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Integrated and secure digital ecosystems enable fast decision-making and agility.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Procure ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a>You can download and read it for free via the link above.</p>
 <p>Your feedback would be greatly appreciated.</p>
 <p>We wish you happy reading from the start.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

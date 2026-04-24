@@ -34,8 +34,3 @@ tags:
 3. Sınır ötesi taşıma; Amazon Global Logistics ile entegre edilmiş durumda.<br>
 4. Çin merkezli satıcılar Amazon'un global satıcı tabanının yaklaşık yarısını oluşturuyor.<br>
 5. Yangtze River Delta, Avrupa ve Japonya genişlemesi planlanıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

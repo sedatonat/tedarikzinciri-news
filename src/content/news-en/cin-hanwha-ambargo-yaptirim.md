@@ -85,11 +85,6 @@ For multinational actors like Hanwha, this situation requires <strong>new strate
   <li style="text-align: justify"><p style="text-align: justify"><strong>U.S.-China trade competition</strong> has now extended to <strong>maritime and defense industries.</strong></p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Book.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
+
 <p>If you have feedback, we would be delighted to hear from you.</p>
 <p>Wishing you happy reading.</p>

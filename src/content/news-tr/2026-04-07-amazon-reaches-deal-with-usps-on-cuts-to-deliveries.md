@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Posta Düzenleme Komisyonu'nun onayını hâlâ gerektiren anlaşma; <strong>USPS</strong>'nin artan finansal baskılarla boğuştuğu bir dönemde geldi. Ajans; 2007'den bu yana yaklaşık 118 milyar ABD doları'lık net zarar biriktirdi. Kongre'de yakın zamanda gerçekleşen bir oturumda; Posta Genel Müdürü David Steiner; ajansın kritik bir dönüm noktasında durduğunu ve mevcut durum sürdüğü takdirde bir yıldan kısa bir süre içinde postayı teslim edemez hâle geleceğini belirtti.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu yüzde 20'lik hacim azalması; Amazon'un kendi <strong>Amazon Logistics</strong> (AMZL) ağına ve <strong>UPS</strong>, <strong>FedEx Ground</strong> ile bölgesel kuryelere kayıyor. <strong>USPS</strong>'nin <strong>last-mile parcel</strong> piyasa payı; özellikle yoğun olmayan kırsal kodlarda, <strong>OneRail</strong>, <strong>Bringg</strong> ve <strong>Roadie</strong> gibi gig-tabanlı ağların önünü açıyor. Tedarik zinciri perspektifinden bakıldığında <strong>USPS</strong>'nin gelir tabanını çeşitlendirme zorunluluğu; uzun vadede <strong>SOA (Service-Oriented Agreements)</strong> tabanlı kurumsal anlaşmalara doğru yöneliyor.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43801]</p>

@@ -32,8 +32,6 @@ tags:
 <p>The latest incident occurred during a period of heightened environmental sensitivity in Singapore. In June 2024, a collision between a barge and a fixed bunkering vessel at Pasir Panjang Terminal resulted in more than 400 tonnes of oil spilling into the sea, affecting areas including Labrador Nature Reserve, Sentosa, East Coast Park, and Changi. That incident was recorded as the largest oil spill in the past decade, and cleanup operations were completed in September 2024.</p>
 <p><br></p>
 <p><strong>Shell</strong> stated that it will continue to monitor the situation in cooperation with authorities following the latest spill and will draw lessons from the incident to enhance its safety performance. The company emphasised that it has deployed emergency response teams and will implement necessary measures to prevent similar incidents from recurring, in order to minimise negative impacts on the environment and community.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Key Points:</strong></h5>
 <ul>
   <li><p>A second oil spill occurred at <strong>Shell</strong>'s Pulau Bukom facility within two months.</p></li>
@@ -47,11 +45,6 @@ tags:
   <li><p>Environmental sensitivity in Singapore has increased; a major oil spill occurred in June 2024.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
+
 <p>We would be delighted to hear your feedback.</p>
 <p>Wishing you happy reading.</p>

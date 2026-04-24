@@ -32,11 +32,3 @@ tags:
 3. Distributed authority accelerates agile response.<br>
 4. Financial discipline softens the impact of shocks.<br>
 5. Resilience triggers innovation.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our Book is now published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>Your feedback would make us happy.</p>
-<p>We wish you happy reading.</p>
-<p><br></p>
-<p>[827]</p>

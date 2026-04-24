@@ -28,9 +28,3 @@ tags: ['MHI', 'Deloitte', 'MODEX 2026', 'John Paxton', 'Carvana', 'Camille Blake
 3. Next two years: 33% inventory optimization; 30% <strong>predictive maintenance</strong>; 27% decision automation.<br>
 4. <strong>Paxton</strong> sees connected, intelligent, and automated real-time networks as essential.<br>
 5. <strong>Blake</strong> emphasizes that deploying AI amid operational instability carries high failure risk.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book "How to Procure an ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>
-<p><br></p>
-<p>[43867]</p>

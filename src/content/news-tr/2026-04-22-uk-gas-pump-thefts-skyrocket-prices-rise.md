@@ -36,9 +36,3 @@ tags:
 3. Aile aracı dolumu £14; dizel tankı £27 daha pahalı oluyor.<br>
 4. Pompa çalışanlarına yöneliyor olan istismar da artıyor; <strong>U.K. Petrol Retailers Association</strong> hükümetle anlaşmazlığa giriyor.<br>
 5. <strong>U.K.</strong> hükümeti; yakıt hırsızlarının &ldquo;<strong>full force of the law</strong>&rdquo; ile karşılaşıyor olunacağını belirtiyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43897]</p>

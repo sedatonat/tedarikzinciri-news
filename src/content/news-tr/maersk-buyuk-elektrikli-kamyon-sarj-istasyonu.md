@@ -33,5 +33,3 @@ tags:
   <li><p>Prologis, şebeke iyileştirmelerini beklemek yerine hızlı bir şekilde şarj altyapısı kurdu.</p></li>
   <li><p>Tesis, 9 MW'a kadar şarj kapasitesi sunan bir mikrogrid tarafından destekleniyordir.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

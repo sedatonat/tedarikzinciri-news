@@ -27,8 +27,3 @@ tags: ['sağlık tedarik zinciri', 'University Hospitals', 'Chad Fleischer', 'ex
 3. <strong>Expense cabinet</strong> governance structures are emerging as critical tools.<br>
 4. Product selection directly impacts clinical workflows.<br>
 5. Thin margins and supply disruptions define the current environment.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book on How to Procure ERP Systems Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free through this link.</p>
-<p><br></p>
-<p>[43457]</p>

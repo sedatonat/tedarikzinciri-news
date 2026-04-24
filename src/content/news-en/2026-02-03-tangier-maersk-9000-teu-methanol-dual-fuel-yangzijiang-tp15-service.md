@@ -23,8 +23,3 @@ tags: ["Maersk", "Tangier Maersk", "Yangzijiang Shipbuilding", "metanol", "çift
 3. Delivery occurred three months ahead of schedule.<br>
 4. After calling at Shanghai, Tangier Maersk will operate the TP15 East Asia–US Gulf service.<br>
 5. Maersk expects four more deliveries from the series this year and a final vessel in early 2027.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

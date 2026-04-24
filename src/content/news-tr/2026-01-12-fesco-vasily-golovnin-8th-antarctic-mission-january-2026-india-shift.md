@@ -28,8 +28,3 @@ tags:
 3. Keşif seferi Nisan 2026'ya kadar sürecek.<br>
 4. Bharrati ve Maitri istasyonlarına yakıt ve malzeme teslim edilecek.<br>
 5. Buz kırıcı; Hintli kutup araştırmacılarının yeni vardiyasını taşıyacak.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

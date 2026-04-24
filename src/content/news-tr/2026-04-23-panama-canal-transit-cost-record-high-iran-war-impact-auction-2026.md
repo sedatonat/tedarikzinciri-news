@@ -29,8 +29,3 @@ tags:
 3. Hürmüz istikrarsızlığı Asya-Avrupa ticaretini Panama üzerinden transpasifik rotalara yönlendirdi.<br>
 4. Açık artırma ücretleri (line-jumping) tarihsel zirvelerine ulaştı, 2023-2024 kuraklık dönemini aştı.<br>
 5. Küresel tedarik zinciri; Süveyş, Hürmüz ve Panama çoke noktalarında eş zamanlı baskı altında.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -36,10 +36,4 @@ tags:
 3. Toplam elleçleme 93,4 milyon <strong>TEU</strong>; %5,8 artıyor.<br>
 4. <strong>Capex</strong> 3,1 milyar dolar; <strong>Manila</strong> 100 mn $, <strong>Port Botany</strong> 400 mn $ alıyor.<br>
 5. <strong>Bin Sulayem</strong>&rsquo;in görevden alınıyor olunmasının ardından <strong>Kazim</strong> başkan oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
 <p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p><br></p>
-<p>[43650]</p>

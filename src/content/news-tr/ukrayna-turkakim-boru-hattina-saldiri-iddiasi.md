@@ -43,12 +43,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Saldırı girişimi, Türkiye'nin enerji güvenliği açısından önemli bir gelişme.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Bu olay, Rusya-Ukrayna savaşı'nın bölgesel ve küresel etkilerinin giderek arttığını gösteriyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

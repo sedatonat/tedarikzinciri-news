@@ -28,10 +28,4 @@ tags: ['APM Terminals', 'Terminal Investment', 'MSC', 'Maersk', 'Balboa', 'Crist
 3. <strong>Supreme Court</strong> invalidating <strong>CK Hutchison</strong>'s concessions.<br>
 4. <strong>CK Hutchison</strong> planning to pursue legal remedies against the seizure.<br>
 5. <strong>China</strong> ordering its own firms to halt <strong>Panama</strong> projects.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>
 <p>Your feedback would be greatly appreciated.</p>
-<p><br></p>
-<p>[43536]</p>

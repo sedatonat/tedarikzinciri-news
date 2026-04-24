@@ -27,8 +27,3 @@ tags:
 3. Sızıntı 10 Nisan'da bir bunker ikmal operasyonu sırasında gerçekleşti.<br>
 4. Kirlilik gece boyunca Scheldt Nehri'ne yayılarak gemi trafiğini ve su bentlerini etkiledi.<br>
 5. Liman yetkilileri bunker operasyonlarında kullanılan güvenlik prosedürlerinin gözden geçirileceğini açıkladı.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

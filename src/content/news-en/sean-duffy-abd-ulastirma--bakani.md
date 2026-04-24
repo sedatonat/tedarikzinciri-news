@@ -40,12 +40,3 @@ tags:
   <li><p>Duffy said he will oversee the management of unspent infrastructure funds and that the ongoing safety investigation into <strong>Tesla</strong> will continue.​</p></li>
   <li><p>Wisconsin Senator <strong>Tammy Baldwin</strong> said she hopes Duffy will advance bipartisan major projects.​<a href="https://www.supplychaindive.com/news/transportation-secretary-sean-duffy-nomination-confirmed-senate/738576/" rel="noopener" target="_blank">supplychaindive.com</a></p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via this link.</p>
-<p>We would be delighted to hear your feedback.</p>
-<p>We wish you happy reading.</p>

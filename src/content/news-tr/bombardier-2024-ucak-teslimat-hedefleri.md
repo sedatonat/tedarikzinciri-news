@@ -26,8 +26,6 @@ tags:
 <p><a href="https://bombardier.com/en"><u>Bombardier</u></a>, tedarikçi teslimatlarının hızına bağlı olarak 2024 hedeflerini yükseltti. Pandemi sonrası yaşanan işgücü, malzeme ve taşıma sorunları stabilize olmuş olsa da, finansal piyasalardaki dalgalanmalar, jeopolitik meseleler ve tedarikçi kalitesi gibi yeni zorluklar beklenenden daha uzun süreli iyileşmeleri engelledi. Şirket, 2023'te programlarını yeniden sıralayarak bazılarını yavaşlattı, diğerlerini hızlandırdı. 2024'ün ilk yarısında envanter inşa etmeyi ve daha sonra daha yüksek hacimlerde teslimat yapmayı planlıyor.&nbsp;</p>
 <p><br></p>
 <p>Tedarik zinciri trendlerini yakından izlemeye devam eden Bombardier, tedarikçi ekosistemi içindeki üretim tesislerinin yer değiştirmesi gibi durumların üretim gecikmelerine neden olabileceğini belirtiyor. Ayrıca, hükümetlerin malzeme kullanımı üzerindeki düzenlemeleri artırması ve dijitalleşmenin hızlanması, tedarik zincirlerinde çok katmanlı görünürlük sağlayarak operasyonları iyileştiriyor.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ul>
   <li><p><a href="https://bombardier.com/en"><u>Bombardier</u></a>, 2024 için 150-155 uçak teslimatı hedefliyor.</p></li>
@@ -38,5 +36,3 @@ tags:
   <li><p>Üretim tesislerinin yer değiştirmesi üretim gecikmelerine yol açabiliyor.</p></li>
   <li><p>Dijitalleşme,<a href="https://www.tedarikzinciriportali.com/post/terim-scv-supply-chain-visibility"> </a><a href="https://www.tedarikzinciriportali.com/post/terim-scv-supply-chain-visibility"><u>tedarik zinciri görünürlüğünü</u></a> artırıyor.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

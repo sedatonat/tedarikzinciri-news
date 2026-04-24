@@ -29,8 +29,3 @@ tags:
 3. Singapur, Fujairah ve Rotterdam bunker terminallerinde fiyatlar çift haneli arttı.<br>
 4. Körfez petrol arzının hızlı telafisi mümkün değil; Sahra altı Afrika ve ABD Körfezi için aylar gerekiyor.<br>
 5. Sektör; uzun vadeli bunker sözleşmeleri ve stratejik yedek stok stratejilerini gündeme aldı.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

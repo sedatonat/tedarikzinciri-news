@@ -37,12 +37,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The establishment of the new private operator could increase competition in the sector, improve service quality, and reduce transport costs.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">This merger could strengthen Russia's position on trade routes between Asia and Europe.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it free of charge through this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

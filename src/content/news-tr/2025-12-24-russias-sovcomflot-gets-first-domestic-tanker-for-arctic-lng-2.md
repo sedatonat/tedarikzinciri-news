@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify"><strong>Novatek PJSC</strong> liderliğindeki Arctic LNG 2, Rusya'nın on yılın sonuna kadar süper-soğutulmuş yakıt üretimini üçe katlama hedefi açısından kritik önem taşıyor. Söz konusu plan, uluslararası yaptırımlar nedeniyle tehdit altında bulunuyor; ancak Çin'in tesisten LNG alma kararı, hedefin yeniden canlanmasına katkı sağlıyor. Çin, uzak Beihai terminali aracılığıyla Ağustos ayında Arctic LNG 2'den yakıt ithal etmeye başlıyor ve Aralık ortası itibarıyla Rus tesisinden yaklaşık 20 kargo boşaltılıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Bununla birlikte Arctic LNG 2, kış buzlarının ihracatı zorlaştırmasıyla birlikte üretimi kısmak zorunda kalıyor ve bugüne kadar gelişmiş Arc-7 sınıfı yalnızca tek bir Rus gölge filo tankeri tespit ediliyor. Tedarik zinciri perspektifinden bakıldığında Alexey Kosygin'in devreye girmesi, <strong>Asia-Pacific</strong> alıcılarına yıl boyu LNG sevkiyatı sunabilme kapasitesini yapısal biçimde güçlendiriyor. <strong>JERA</strong>, <strong>CNPC</strong> ve <strong>Sinopec</strong> gibi uzun vadeli alım sözleşmelerine sahip oyuncular, ikincil yaptırım riskini sürekli biçimde yeniden değerlendiriyor.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43046]</p>

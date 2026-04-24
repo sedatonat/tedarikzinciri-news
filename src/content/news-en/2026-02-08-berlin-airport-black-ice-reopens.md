@@ -28,11 +28,5 @@ tags: ['Berlin Brandenburg', 'havalimanı kapanması', 'buzlanma', 'Deutsche Bah
 3. <strong>British Airways</strong> and <strong>EasyJet</strong> cancelled morning flights.<br>
 4. <strong>DWD</strong> issued a "<strong>significant slipperiness</strong>" warning.<br>
 5. <strong>Deutsche Bahn</strong> reported delays on the <strong>Berlin</strong>-<strong>Hanover</strong> line.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading in advance.</p>
-<p><br></p>
-<p>[43436]</p>

@@ -27,8 +27,3 @@ tags: ['Kaliforniya', 'yüksek hızlı tren', 'FRA', 'Sean Duffy', 'altyapı', '
 3. California High-Speed Rail has produced no completed high-speed track in 16 years.<br>
 4. Initial cost estimates have risen from $33 billion to $128 billion.<br>
 5. Governor <strong>Newsom</strong> and Democrats are criticized by the Trump administration.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free through this link.</p>
-<p><br></p>
-<p>[42180]</p>

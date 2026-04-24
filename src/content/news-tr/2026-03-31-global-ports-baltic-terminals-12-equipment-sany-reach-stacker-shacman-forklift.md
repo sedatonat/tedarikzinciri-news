@@ -30,8 +30,3 @@ tags:
 3. First Container Terminal 5 ve Ust-Luga Container Terminal 4 Shacman port tractor aldı.<br>
 4. Moby Dik Kronstadt için 2 elektrikli 3,5 ton kapasiteli forklift satın alındı.<br>
 5. Yatırım; Çinli ekipman üreticilerine yönelen yerlileştirme eğilimini yansıtıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

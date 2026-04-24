@@ -30,8 +30,3 @@ tags:
 3. CEO Anthony Delaney, telsiz tıkanıklığının azaldığını ve güvenlik iletişimlerinin iyileştiğini bildirdi.<br>
 4. Erken testlerde bağlantı kopması yaşanmadı; operasyonel verimde belirgin iyileşme tespit edildi.<br>
 5. Bir sonraki adımda 5G destekli CCTV ve daha fazla liman varlığına genişletme planlanıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -29,4 +29,3 @@ tags:
   <li><p><strong>Capabilities:</strong> The facility features rooms convertible to -20°F and 53 loading docks.</p></li>
   <li><p><strong>Company Strategy:</strong> The company opened a second facility as part of its expansion strategy.</p></li>
 </ol>
-<p><br></p>

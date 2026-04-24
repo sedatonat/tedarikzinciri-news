@@ -34,4 +34,3 @@ tags:
   <li><p>Sınırlı feribot ile Finlandiya'ya yük teslimi fırsatları mevcut.</p></li>
   <li><p><a href="https://en.wikipedia.org/wiki/CMA_CGM"><u>CMA CGM</u></a>, Renault Group ve Volvo Group ile birlikte <a href="https://media.renaultgroup.com/renault-group-volvo-group-and-cma-cgm-group-launch-flexis-sas/"><u>Flexis SAS</u></a>'ın kurucu üyeleri arasında.</p></li>
 </ol>
-<p><br></p>

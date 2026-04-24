@@ -28,7 +28,3 @@ tags:
 <p style="text-align: justify"><strong>Airbus</strong>; Aralık ayında teslimatları 136 birime çıkararak yıllık teslimat sayısını 793'e ulaştırıyor &mdash; 790 hedefinin hemen üzerinde. Şirket geçen yıl 889 net sipariş kaydediyor ve toplam birikmiş siparişi 8,754 uçağa ulaşıyor. Üretici; Aralık ayının son haftasında Çinli havayolları ve bir kiralayıcıdan 140'tan fazla A320 dar gövdeli jet için anlaşma imzalıyor. <strong>Airbus</strong>; geçen yıl 607 A320 ailesi jeti teslim ediyor &mdash; 2019'dan bu yana en yüksek seviye oluyor.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında havacılık sektöründeki bu kalıcı motor darboğazı; havayolu filo planlamasını, leasing piyasasını ve bakım-onarım operasyonlarını derinden etkiliyor. <strong>Pratt &amp; Whitney</strong> ve <strong>CFM International</strong>'ın altyapı kapasitesi; titanium ve nikel alaşım gibi kritik girdilerin tedarik sürelerine bağlı oluyor. Havayolları için bu durum; eski uçakların hizmet sürelerinin uzatılması, leasing maliyetlerinin yükselmesi ve operasyonel verimliliğin yeniden modellemesi gerekliliği yaratıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43191]</p>

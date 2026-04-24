@@ -28,7 +28,3 @@ tags:
 <p style="text-align: justify">Garanti kayıt formları, RMA portalları, tedarikçi onboarding iş akışları ve partner intake süreçleri; her gün bu kritik verileri taşır. Tedarik zinciri perspektifinden bu kanallar; saldırganlar için son derece çekici bir hedef haline gelir &mdash; çünkü çoğu üretici bu noktaları &laquo;güvenli arka plan&raquo; olarak değerlendirir ve kapsamlı bir form güvenliği denetimi uygulamaz. Üreticilerin yüksek değerli fikri mülkiyet, kimlik bilgileri ve ticari sırları işlemesi; saldırganların ROI hesabını oldukça cazip kılar.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bu tablo; yalnızca BT departmanlarına bırakılamayacak stratejik bir risk teşkil eder. Şirketler; form altyapılarını düzenli penetrasyon testlerinden geçirmeli; üçüncü taraf script'lerin envanterini tutmalı; tedarikçi onboarding süreçlerini <strong>zero-trust</strong> ilkelerine göre yeniden tasarlamalı; ve form verilerini sınıflandırarak en hassas alanları ek şifreleme katmanlarıyla korumalıdır. Aksi takdirde; tedarik zinciri ekosistemindeki en zayıf halka; tüm ağın güvenliğini tehdit eder.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[42979]</p>

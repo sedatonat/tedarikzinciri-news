@@ -18,4 +18,3 @@ tags:
 - logistics technology
 ---
 <p>An article published on SupplyChainBrain.com outlines a project by U.S.-based Langham Logistics involving the use of drones to conduct inventory control.</p>
-<p><br></p>

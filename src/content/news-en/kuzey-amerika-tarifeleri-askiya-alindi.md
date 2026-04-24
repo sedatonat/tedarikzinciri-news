@@ -34,12 +34,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">In response to the U.S. 10% tariff, <strong>China</strong> announced it would impose 15% tariffs on American goods such as coal and liquefied natural gas, and 10% tariffs on crude oil and agricultural machinery.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Shipping expert Lars Jensen</strong> noted that carriers are likely to attempt to move as much cargo as possible during the 30-day window.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book on How to Obtain ERP has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p>You can download and read it for free via the link <a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a></p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

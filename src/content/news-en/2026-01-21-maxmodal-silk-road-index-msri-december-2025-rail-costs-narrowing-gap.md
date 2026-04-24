@@ -22,8 +22,3 @@ tags: ["Maxmodal", "Silk Road", "MSRI", "rail freight", "December 2025", "Suez C
 3. The price gap narrowed between rail-based Silk Road routes and Suez Canal shipping.<br>
 4. The Maxmodal Silk Road Index (MSRI) has been launched as the world's first truly multimodal container index.<br>
 5. Rail's container traffic share could rise 2-3 percentage points through 2026.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

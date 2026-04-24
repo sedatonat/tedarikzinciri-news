@@ -28,8 +28,3 @@ tags:
 <p style="text-align: justify">An estimated 1.2 billion packages qualified for the exemption in 2024. &ldquo;CBP has not experienced any delays in cargo processing since the suspension of de minimis,&rdquo; a CBP spokesperson told <strong>SupplyChainBrain</strong>. As of December 15, 2025, the agency reports having collected more than $1 billion in duty on shipments that would previously have entered duty-free. CBP added that it has successfully implemented more than 40 tariff-related presidential actions during the Trump administration and remains prepared to carry out enhanced package screenings.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the shift is forcing last-mile players such as <strong>UPS</strong>, <strong>FedEx</strong>, <strong>DHL</strong> and notably <strong>USPS</strong> to accelerate investments in data quality, declaration accuracy and customs integration. Low-value e-commerce platforms led by <strong>Shein</strong>, <strong>Temu</strong> and <strong>AliExpress</strong> must restructure pricing models, fulfillment strategies and post&ndash;<em>section 321</em> import flows. The new regime is widening the competitive gap between compliant and non-compliant carriers, accelerating consolidation across the cross-border parcel sector.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43041]</p>

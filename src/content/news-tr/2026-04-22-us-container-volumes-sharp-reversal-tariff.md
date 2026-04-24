@@ -35,8 +35,3 @@ tags:
 3. Q2 2025; bir önceki yıla göre %1.8 daha düşük bulunuyor.<br>
 4. Nisan&rsquo;daki <strong>front-loading</strong> %10 artışı; Mayıs-Haziran düşüşleriyle silinmekte.<br>
 5. <strong>Trump 2.0</strong> tarifeleri; ana hacim düşüş sürücüsü oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42190]</p>

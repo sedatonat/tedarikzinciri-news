@@ -43,14 +43,3 @@ tags:
   <li><p><strong>Spot Pazar Durumu:</strong> Kuru van spot oranları, sözleşme oranlarının %9 altında seyrediyor, bu da zayıf bir spot pazar olduğunu gösteriyor.</p></li>
   <li><p><strong>Enflasyon Etkisi:</strong> Ekim ayında kuru van göndericileri için enflasyon etkisi başlamış, ancak reefer ve flatbed taşımalarında henüz etkili olmamış durumda.</p></li>
 </ol>
-<p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir">https://www.sedatonat.com/erpnasilalinir</a>Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

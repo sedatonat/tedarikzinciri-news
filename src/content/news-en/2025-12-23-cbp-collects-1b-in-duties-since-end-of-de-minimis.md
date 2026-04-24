@@ -29,7 +29,3 @@ tags:
 <p style="text-align: justify">The phase-out, restarted in May, was extended to all other countries by late August. Chinese e-commerce retailers such as <strong>Shein</strong> and <strong>Temu</strong> have leveraged <em>de minimis</em> exemptions for years to ship billions of small parcels into the U.S. daily. From a supply chain perspective, this loophole has also been exploited by criminal networks to move counterfeit goods and fentanyl precursor chemicals &mdash; because <em>de minimis</em>-eligible packages face far less scrutiny than larger, formally declared imports.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, in mid-December the <strong>European Union</strong> introduced a plan to end its own 150 euro ($176) <em>de minimis</em> exemption. This global trend is forcing a redesign of cross-border e-commerce business models &mdash; with a clear acceleration toward local warehousing and fulfillment strategies in place of direct-to-consumer (D2C) shipping. For manufacturers and retailers, this means a thorough rethink of customs compliance, logistics cost structures and pricing strategy.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43038]</p>

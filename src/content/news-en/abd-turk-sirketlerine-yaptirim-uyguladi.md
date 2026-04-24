@@ -37,8 +37,6 @@ tags:
 <p>Companies such as these have been added to the list due to various product shipments.</p>
 <p><br></p>
 <p>This action is seen as part of the U.S.'s aggressive policy toward those engaged in illegal trade with Russia.</p>
-<p><br></p>
-<p><br></p>
 <p><strong>Key Points:</strong></p>
 <ol>
   <li><p>The United States has imposed sanctions on hundreds of individuals and organizations on the grounds that they have contributed to violations of the embargo on Russia.</p></li>
@@ -47,4 +45,3 @@ tags:
   <li><p>Among Turkish companies added to the sanctions list are Bosfor Avrasya and Egetir Otomotiv.</p></li>
   <li><p>The sanctions target activities such as technology shipments, transfer of weapons and technological equipment.</p></li>
 </ol>
-<p><br></p>

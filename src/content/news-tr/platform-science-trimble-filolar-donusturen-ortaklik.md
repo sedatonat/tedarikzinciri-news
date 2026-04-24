@@ -35,4 +35,3 @@ tags:
   <li><p><strong>Trimble</strong>'ın diğer ulaşım iş birimleri anlaşmaya dahil değil ve mevcut segmentlerinde kalmaya devam edecek.</p></li>
   <li><p>Satın alma, Platform Science'ın sektördeki inovasyonu hızlandırma stratejisinin bir parçası ve Trimble'ın varlıklarını yeniden yapılandırma sürecinin devamı niteliğinde.</p></li>
 </ul>
-<p><br></p>

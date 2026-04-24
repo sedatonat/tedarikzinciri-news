@@ -27,8 +27,3 @@ tags: ['Three Mile Island', 'nükleer enerji', 'Trump', 'Constellation Energy', 
 3. 800,000 homes electricity capacity — allocated for <strong>AI</strong> data centers.<br>
 4. Estimated total cost $1.6 billion — with cost overruns experienced in the past.<br>
 5. <strong>Three Mile Island</strong> was shut down in 1979 following <strong>Unit 2</strong>'s partial meltdown.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>
-<p><br></p>
-<p>[42880]</p>

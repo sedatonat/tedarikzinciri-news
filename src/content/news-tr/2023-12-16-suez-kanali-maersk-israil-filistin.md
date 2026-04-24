@@ -29,4 +29,3 @@ tags:
 <p>Moody's Analytics'ten John Donigian, "Kızıldeniz'deki son Husi saldırıları, küresel ticaretin karşı karşıya olduğu jeopolitik riskleri açıkça gösteriyor. Saldırılar hemen petrol ve tarım sevkiyatlarını etkiledi ancak bu ticaret yolu, zamanında ve maliyet etkin nakliye gerektiren birçok ürün ve endüstri için kullanılıyor. Eğer saldırılar daha düzenli ve sık hale gelirse, küresel ticaret ve tedarik zincirleri üzerindeki etkisi oldukça geniş olabilir," dedi.</p>
 <p><br></p>
 <p>Donigian, Alternatif rotaların önemli seyahat mesafesi artışları, mal teslim sürelerinin uzaması ve ticaret ortakları teslimat programlarını ayarlayana kadar kısa vadeli tedarik sorunlarına yol açacağını belirtti.</p>
-<p><br></p>

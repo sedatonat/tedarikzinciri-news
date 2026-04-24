@@ -35,8 +35,6 @@ tags:
 <p>However, there are certain challenges associated with DAC implementation. Uncertainties regarding financing, economic returns, and the tangibility of digital components have raised concerns among some sector stakeholders. Furthermore, the 2030 target set for widespread DAC implementation is considered quite ambitious by many.</p>
 <p><br></p>
 <p>In this context, the pilot project launched in Sweden is regarded as an important step toward testing DAC technology under real-world conditions and identifying potential challenges. Findings from the project will provide valuable information for future DAC implementations.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Key Highlights:</strong></h5>
 <ul>
   <li><p>A two-year pilot project for <strong>Digital Automatic Coupling (DAC)</strong> technology has been launched in Sweden.</p></li>
@@ -49,11 +47,6 @@ tags:
   <li><p>The project is regarded as an important step toward testing DAC technology under real-world conditions and identifying potential challenges.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading.</p>

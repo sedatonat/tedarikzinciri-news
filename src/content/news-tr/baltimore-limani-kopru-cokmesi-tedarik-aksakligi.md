@@ -24,8 +24,6 @@ tags:
 <p>Kısa vadede, tedarik zinciri yöneticileri etkilenen kara yolu üzerinden teslimatları hızlandırmak zorunda kalacak. Bu durum, bölgedeki yolların etrafındaki trafiği artırarak, taşımacılık ücretlerinin yükselmesine neden olacak. Uzun vadede, deniz yoluyla yapılan nakliyat daha uzun gecikmelerle karşı karşıya kalabilir. Baltimore, Kuzeydoğu sahilindeki en küçük konteyner limanlarından biri olmasına rağmen, bu durum konteyner hareketlerini olumsuz etkileyecek.</p>
 <p><br></p>
 <p>Buna ek olarak, Baltimore'a varması beklenen gemilerin yön değiştirme oranında son iki günde %50 artış oldu. Diğer limanlara yönlendirilen veya ABD'yi tamamen es geçen gemiler mevcut. Bazı gemiler, daha fazla talimat alana kadar denizde yavaşlayarak veya demirleyerek bekliyor. Ancak, okyanus taşımacılığının "yavaş sezon"unda olması ve diğer büyük Doğu Kıyısı limanlarında önemli bir sıkışıklık olmaması, Baltimore'dan diğer limanlara yapılan taşımacılığın fazla bir aksama yaratmadan gerçekleştirilebileceğini gösteriyor.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ul>
   <li><p>Baltimore Limanı'na giriş çıkışlar, Key Köprüsü'nün çökmesi nedeniyle durduruldu.</p></li>
@@ -37,4 +35,3 @@ tags:
   <li><p>Okyanus taşımacılığının yavaş sezonu, Baltimore'un taşıma hacimlerinin fazla aksama olmadan diğer limanlara kaydırılmasını sağlıyor.</p></li>
 </ul>
 <p><strong>İlgili Makale:</strong> <a href="https://www.tedarikzinciriportali.com/post/maersk-baltimore-koprusu-kazasi"><u>Maersk Baltimore Francis Scott Key Köprüsü Kazası</u></a></p>
-<p><br></p>

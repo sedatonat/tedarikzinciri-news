@@ -28,12 +28,3 @@ tags:
   <li><p>Storage duration extended, costs increased.</p></li>
   <li><p>Warehouse supply is insufficient in Istanbul and surrounding areas.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<h5><strong>!!! ANNOUNCEMENT !!!</strong></h5>
-<p><strong>Our Book "How to Implement ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a>&nbsp;You can download and read it for free via this link.</p>
-<p>Your feedback would be greatly appreciated.</p>
-<p>We wish you happy reading.</p>

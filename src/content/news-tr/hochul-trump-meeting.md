@@ -28,11 +28,3 @@ New York Valisi Kathy Hochul, Congestion Pricing politikasını savunmak amacıy
 3. Muhalefet maliyet baskısına odaklanır.<br>
 4. Muafiyet ve kredi mekanizmaları tartışılır.<br>
 5. Trafik sapması riskine önlem planlanır.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[834]</p>

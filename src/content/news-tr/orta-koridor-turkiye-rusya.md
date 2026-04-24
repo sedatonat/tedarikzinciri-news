@@ -50,14 +50,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Hazar’da <strong>Ro-Ro kapasitesi</strong> artırılıyor; <strong>KTZ</strong> ve özel sektör iş birlikleri devrede.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Zengezur Koridoru</strong> ve <strong>TRIPP</strong> gibi girişimler kapasiteyi büyütme potansiyeli taşıyor.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

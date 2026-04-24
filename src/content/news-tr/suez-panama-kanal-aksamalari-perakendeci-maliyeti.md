@@ -42,4 +42,3 @@ tags:
   <li><p>Navlun oranlarındaki artış perakendecilerin karlarını olumsuz etkileyebilir.</p></li>
   <li><p>ABD merkezli perakendeciler, teslimatları Batı Kıyısı limanlarına yönlendirerek durumu hafifletebilir.</p></li>
 </ul>
-<p><br></p>

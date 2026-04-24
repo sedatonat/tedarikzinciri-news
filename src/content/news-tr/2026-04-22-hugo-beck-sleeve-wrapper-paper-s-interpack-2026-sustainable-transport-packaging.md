@@ -31,8 +31,3 @@ tags:
 3. Makine plastik streç film yerine kraft kâğıt sarım kullanıyor.<br>
 4. E-ticaret ve lojistik merkezlerinde sürdürülebilir ambalaj talebini hedefliyor.<br>
 5. AB PPWR mevzuatı kâğıt tabanlı ambalajların pazar büyümesini destekliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

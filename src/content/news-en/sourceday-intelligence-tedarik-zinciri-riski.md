@@ -45,14 +45,3 @@ tags:
   <li><p>SourceDay Intelligence supports proactive risk management by providing supply chain managers with real-time data and analytics.</p></li>
   <li><p>Automated PO changes reduce manual intervention and contribute to more efficient process operations.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via this link.</p>
-<p>Your feedback would make us happy.</p>
-<p>We wish you happy reading.</p>

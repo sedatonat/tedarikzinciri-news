@@ -51,14 +51,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The route is unusable for Western shippers due to high <strong>sanctions risk</strong>.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The project will not be ready before 2029–2030; it is not a short-term solution, but a strategic infrastructure move.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a>&nbsp;You can download and read it for free via the link above.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

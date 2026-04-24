@@ -35,8 +35,3 @@ tags:
 3. Akıllı sıralama (<strong>smart sequencing</strong>); zaman duyarlı paketleri öncelendirmekte.<br>
 4. Yakıt tüketimi ve karbon emisyonları azaltılıyor &mdash; sürdürülebilirlik kazancı sağlıyor.<br>
 5. Müşteri gerçek zamanlı izleme ve SMS uyarıları sunuyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41790]</p>

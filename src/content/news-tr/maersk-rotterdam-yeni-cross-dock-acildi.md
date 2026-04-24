@@ -24,8 +24,6 @@ tags:
 <p>Ayrıca, Maasvlakte II'de, taze sebzeler, ilaçlar ve diğer dondurulmuş ürünler gibi sıcaklığa duyarlı yükler için büyük bir soğuk hava deposu inşa ediliyor. Bu tesis 40,000 metrekarelik bir alana sahip olacak ve 2024 sonunda faaliyete geçmesi bekleniyor.&nbsp;</p>
 <p><br></p>
 <p>Maersk ayrıca, 2040 yılına kadar kara, deniz ve hava yoluyla lojistiği sıfır emisyon hedefine ulaştırmayı planlıyor. Yeni cross dock tesisi, BREEAM Mükemmel çevresel seviyesine göre tasarlandı ve yanındaki soğuk hava deposundan çıkan ısıyı kullanarak yılda 200,000 kilowatt-saat enerji tasarrufu sağlayacak.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>
   <li><p>Maersk, Rotterdam Maasvlakte II'de yeni bir cross dock deposu açtı.</p></li>
@@ -38,4 +36,3 @@ tags:
 </ol>
 <p><br></p>
 <p><strong>İlgili Makalemiz: </strong><a href="https://www.tedarikzinciriportali.com/post/terim-cross-docking-capraz-sevkiyat"><u>https://www.tedarikzinciriportali.com/post/terim-cross-docking-capraz-sevkiyat</u></a></p>
-<p><br></p>

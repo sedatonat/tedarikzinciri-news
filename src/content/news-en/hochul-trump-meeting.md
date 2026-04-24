@@ -27,11 +27,5 @@ New York Governor Kathy Hochul is meeting with Donald Trump to defend the Conges
 3. Opposition focuses on cost pressures.<br>
 4. Exemption and credit mechanisms are under discussion.<br>
 5. Measures are planned to mitigate traffic diversion risks.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Purchase ERP? Our Book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading in advance.</p>
-<p><br></p>
-<p>[834]</p>

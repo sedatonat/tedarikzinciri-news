@@ -38,13 +38,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>LNG</strong> imports through other European ports provide flexibility in energy supply, but it remains disputed whether this approach serves the goal of reducing dependence on Russia.</p></li>
 </ul>
 <p style="text-align: justify">Germany's energy policies require developing new strategies on energy independence and security. The long-term effects of indirect <strong>LNG</strong> imports hold critical significance for the future direction of Berlin's energy policies.</p>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a>&nbsp;You can download and read it free of charge via this link.</p>
+
 <p>Your feedback would make us happy.</p>
 <p>We wish you happy reading in advance.</p>

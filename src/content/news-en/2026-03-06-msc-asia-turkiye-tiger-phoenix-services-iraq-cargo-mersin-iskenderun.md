@@ -22,8 +22,3 @@ tags: ["MSC", "Türkiye", "Iraq", "Mersin", "İskenderun", "Tiger service", "Pho
 3. Cargo can move inland to Iraq via Mersin and İskenderun.<br>
 4. Key inland destinations include Zakho, Dohuk, Mosul, Erbil, Sulaymaniyah, and Baghdad.<br>
 5. MSC's East-West network includes six Asia-Mediterranean services.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

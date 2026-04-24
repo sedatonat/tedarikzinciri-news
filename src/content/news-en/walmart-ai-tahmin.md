@@ -38,13 +38,6 @@ tags:
   <li><p>Dynamic routing lowers wait times.</p></li>
   <li><p>Control tower accelerates exception management.</p></li>
 </ul>
-<p>-------</p>
-<p>-------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Purchase an ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What Is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via the link above.</p>
+
 <p>We would appreciate your feedback.</p>
 <p>Wishing you happy reading.</p>
-<p><br></p>
-<p>[849]</p>

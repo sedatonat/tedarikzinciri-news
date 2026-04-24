@@ -30,8 +30,6 @@ tags:
 <p>With this new service, SeaLead and GFS are strengthening their strategic positions in the Mediterranean region. They aim to provide customers with a broader service network and more efficient logistics solutions while facilitating trade flows in the region. The STM service is viewed as an important step that will support growing trade volumes and ease the flow of global commerce.</p>
 <p><br></p>
 <p>In conclusion, the STM service launched by SeaLead and GFS makes a significant contribution to trade development in the Mediterranean region. Through the fast, reliable, and comprehensive service network they offer customers, they are setting new standards in the region's logistics and transportation sector. This initiative will positively impact global trade dynamics and help strengthen regional and international trade relations.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Key Points:</strong></h5>
 <ul>
   <li><p><strong>SeaLead and GFS Partnership:</strong> SeaLead launched the STM service in partnership with GFS.</p></li>
@@ -41,5 +39,3 @@ tags:
   <li><p><strong>CEO Statement:</strong> Süleyman Avcı stated that the STM service has strengthened the company's presence in the Mediterranean.</p></li>
   <li><p><strong>Vice President's View:</strong> Cho Kit Wei stated that the service offers customers enhanced connectivity and efficient transit times.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

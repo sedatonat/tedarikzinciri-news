@@ -49,13 +49,6 @@ tags:
   <li><p>Competitive advantage has been gained by integrating competitor shipments without requiring additional personnel.</p></li>
   <li><p>Future enhancements and industry-wide model creation are targeted going forward.</p></li>
 </ul>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge through this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>We wish you happy reading in advance.</p>

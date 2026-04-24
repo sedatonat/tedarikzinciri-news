@@ -34,4 +34,3 @@ tags:
   <li><p>Tedarik zincirlerindeki düşük seviyeli bileşenlerde aksamalar olabilir, bu da uzun vadede etkileri olabilir.</p></li>
   <li><p>Şirketlerin, malzemelerin nerede üretildiğini, dağıtıldığını ve depolandığını proaktif bir şekilde anlamaları gerekiyor.</p></li>
 </ul>
-<p><br></p>

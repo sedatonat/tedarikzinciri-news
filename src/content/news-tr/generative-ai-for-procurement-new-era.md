@@ -33,4 +33,3 @@ tags:
   <li><p>Tedarik liderlerinin %73'ü, GenAI'yi 2024 yılı sonuna kadar benimsemeyi planlıyor.</p></li>
   <li><p>Teknolojinin yaygınlaşmasıyla birlikte, iş süreçlerinde verimlilik ve hızda önemli artışlar bekleniyor.</p></li>
 </ol>
-<p><br></p>

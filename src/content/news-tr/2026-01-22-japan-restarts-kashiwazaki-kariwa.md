@@ -36,11 +36,3 @@ tags:
 3. <strong>Japonya</strong>, 2011 felaketinin ardından 54 reaktörünü kapatıyor idi.<br>
 4. Karbon dışı, sürekli güç talebi <strong>AI</strong> veri merkezleri için kritik oluyor.<br>
 5. Felaket sonrası 33 reaktörden yalnızca 15&rsquo;i bugüne kadar yeniden başlatılıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43314]</p>

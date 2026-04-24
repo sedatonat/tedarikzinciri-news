@@ -50,11 +50,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">This partnership represents a significant step forward in digitalization and efficiency for the shipping industry.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book "How to Get ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p>You can download and read it for free at <a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a></p>
+
 <p>We would be happy to receive your feedback.</p>
 <p>Wishing you happy reading in advance.</p>

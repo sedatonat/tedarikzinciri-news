@@ -54,14 +54,6 @@ as multifaceted improvements.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The port has taken another critical step toward its 2035 net-zero goal.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/">SedatOnat.com</a></p>
-<p>--------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a>&nbsp;You can download and read it for free through this link.</p>
-<p>Your feedback would make us happy.</p>
-<p>We wish you happy reading in advance.</p>
-<p><a href="https://www.tedarikzinciriportali.com/">https://www.tedarikzinciriportali.com/</a></p>

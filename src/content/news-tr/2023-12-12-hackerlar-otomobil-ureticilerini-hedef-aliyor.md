@@ -28,4 +28,3 @@ tags:
 <p>Bu arada, otomotiv endüstrisi, fidye yazılımı ve sızdırılan verilerin veya kişisel tanımlanabilir bilgilerin (PII) ifşası gibi siber saldırılardan dolayı zarar görmeye devam ediyor.&nbsp;</p>
 <p><br></p>
 <p>Raporda, siber saldırıların %90'dan fazlasının OEM'lere değil, tedarik zincirindeki diğer kuruluşlara yönelik olduğu ve saldırganların iyi korunan şirketleri hedefliyor zorlandıkları için daha az dikkatli firmaları hedef aldıkları belirtiliyor. Bu durum, Tedarik Zinciri kesintilerinden dolayı OEM'leri de etkiliyor. Sonuç olarak, siber saldırılara karşı sistemleri savunmak, artık sadece bireysel bir şirketi korumakla ilgili değil; tüm tedarik zincirini güçlendirmekle ilgili.</p>
-<p><br></p>

@@ -28,10 +28,4 @@ tags: ['Panama Kanalı', 'Bridge of the Americas', 'yakıt tankeri patlaması', 
 3. The structural integrity of the 60-year-old bridge is being evaluated through concrete and metal inspections.<br>
 4. <strong>Mulino</strong> expects operations to return to normal in the shortest possible time.<br>
 5. The <strong>Centennial Bridge</strong> and <strong>Atlantic Bridge</strong> serve as temporary alternative passage options.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book is Now Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free at this link.</p>
 <p>We would be pleased to receive your feedback.</p>
-<p><br></p>
-<p>[43805]</p>

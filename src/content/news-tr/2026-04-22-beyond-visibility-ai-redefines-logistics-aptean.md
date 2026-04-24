@@ -35,8 +35,3 @@ tags:
 3. <strong>Aptean</strong>&rsquo;dan <strong>Jim Endres</strong> ve <strong>Chris Peel</strong>; <strong>TMS</strong> liderleri olarak konuşuyor.<br>
 4. Sunucu; <strong>SCB Editor-in-Chief</strong> <strong>Robert Bowman</strong> oluyor.<br>
 5. Akıllı ajanlar; sadece analiz değil; eylem alıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43080]</p>

@@ -36,10 +36,4 @@ tags:
 3. <strong>Colombo</strong>; mevcut tıkanıklık nedeniyle <strong>Gulf</strong> kargosunu reddediyor.<br>
 4. <strong>FEU</strong> başına yüzlerce dolar acil yakıt sürşarjı duyuruluyor.<br>
 5. <strong>BCO</strong>&rsquo;lar; doğrudan etkilenmemekte olunan hatlarda <strong>war surcharge</strong>&rsquo;a karşı çıkıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
 <p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p><br></p>
-<p>[43673]</p>

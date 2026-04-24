@@ -37,6 +37,4 @@ tags:
   <li><p>Liang Hui 688'in navigasyon köprüsü ciddi hasar gördü.</p></li>
   <li><p>Şirket, Ocak'ta uygun gözetim yapılmadığı için para cezasına çarptırıldı.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>
 <p><strong>Youtube Video Linki:</strong> <a href="https://www.youtube.com/watch?v=lc4Uz18xU4s"><u>Video shows partial bridge collapse after ship collision in China</u></a></p>

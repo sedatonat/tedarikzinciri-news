@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">A judicial investigation has been opened and the vessel has been diverted, Macron said. <strong>UN</strong> rules allow checks to be carried out on ships suspected of carrying false flags, according to a statement from France's administration for maritime affairs in the Mediterranean. The French navy said the tanker, which came from Murmansk on Russia's Arctic coast, was boarded in the Alboran Sea south of Spain and taken to a mooring.</p>
 <p><br></p>
 <p style="text-align: justify">The tanker was loaded with cargo at the time, vessel-tracking data compiled by Bloomberg show. While not giving a destination, it was sailing in the direction of the <strong>Suez Canal</strong>, a common waypoint for tankers carrying Russian barrels to Asia. From a supply chain perspective, naval operations of this kind are materially complicating the gray-market logistics of Russian crude. Insurance premiums, P&I club terms and classification society audits are accelerating structural change in the shadow fleet segment, and a meaningful narrowing of the Brent-Urals spread will require these enforcement actions to become more frequent.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43337]</p>

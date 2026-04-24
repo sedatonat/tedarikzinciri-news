@@ -27,8 +27,6 @@ tags:
 <p>Yenilenebilir enerji kaynaklarına yönelmek, özellikle güneş panelleri ve rüzgar türbinleri, enerji tüketimini dengelemeye ve fosil yakıtlara olan bağımlılığı azaltmaya yardımcı olur. Ayrıca, forkliftler ve konveyör sistemleri gibi malzeme taşıma ekipmanlarının düzenli bakımı ve optimizasyonu, enerji verimliliğini artırır ve ekipman ömrünü uzatır.</p>
 <p><br></p>
 <p>Çevresel düzenlemelerin karmaşık manzarasına ek olarak, depolama şirketleri, sera gazı emisyonlarını azaltmak ve sürdürülebilir uygulamaları teşvik etmek için dünya genelinde yürürlüğe giren katı yasalara uyum sağlamak zorundadır. Emisyon standartlarına, atık yönetimine ve su tasarrufuna uyum, depolama tesislerinin çevresel etkisini en aza indirirken operasyonel verimliliği ve maliyet etkinliğini artırır. Çevresel performans metriklerinin düzenli raporlanması ve dokümantasyonu da bu süreçte önemlidir.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ol>
   <li><p>Depolama operasyonları çeşitli aşamalarda önemli enerji tüketir.</p></li>
@@ -38,5 +36,3 @@ tags:
   <li><p>Ekipman bakımı ve optimizasyonu enerji verimliliğini artırır.</p></li>
   <li><p>Çevresel düzenlemelere uyum zorunludur ve sürekli raporlama gerektirir.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

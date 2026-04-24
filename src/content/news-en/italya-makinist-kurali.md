@@ -59,12 +59,4 @@ This will enable Italian operators, particularly on <strong>Europe's north-south
   <li style="text-align: justify"><p style="text-align: justify"><strong>Most European countries</strong> are already using the single-driver system.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">This change aims to strengthen <strong>international integration and competitiveness of Italian rail freight transport</strong>.</p></li>
 </ul>
-<p style="text-align: justify"><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it free of charge via this link.</p>
-<p>We would be delighted to hear your feedback.</p>
 <p>We wish you happy reading in advance.</p>

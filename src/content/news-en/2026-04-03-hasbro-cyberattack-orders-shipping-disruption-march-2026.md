@@ -23,8 +23,3 @@ tags: ["Hasbro", "cyberattack", "8-K", "Play-Doh", "Transformers", "business con
 3. An 8-K filing was submitted to the SEC.<br>
 4. Select systems were proactively taken offline.<br>
 5. A third-party forensics investigation is underway.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

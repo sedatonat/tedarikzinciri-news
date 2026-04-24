@@ -29,8 +29,3 @@ tags:
 3. Hamle; Azerbaycan'ın Orta Koridor'daki öncü rolünü güçlendiriyor.<br>
 4. Azerbaycan coğrafyası, Orta Koridor'un en verimli çalışan orta segmentini oluşturuyor.<br>
 5. BTK hattı entegrasyonu ve Alat Limanı yatırımları koridoru cazip kılıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

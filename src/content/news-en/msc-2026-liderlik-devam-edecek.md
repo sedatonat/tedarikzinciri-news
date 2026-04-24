@@ -29,8 +29,6 @@ tags:
 <p>CMA CGM is expected to move up to the second position, while Maersk is projected to drop to third.</p>
 <p><br></p>
 <p>Hapag-Lloyd has announced its new 2030 strategy with the goal of remaining in the top five, but Sea-Intelligence warns that achieving this objective will require a shift from the approach pursued over the past two years.</p>
-<p><br></p>
-<p><br></p>
 <h5>Key Takeaways</h5>
 <ol>
   <li><p>MSC will continue to be the world's largest shipping carrier through 2026 by substantially expanding its fleet.</p></li>
@@ -40,4 +38,3 @@ tags:
   <li><p>Based on 2026 forecasts, CMA CGM will move up to second place, while Maersk will drop to third.</p></li>
   <li><p>Hapag-Lloyd's goal of remaining in the top five may require changes to the strategies adopted over the past two years.</p></li>
 </ol>
-<p><br></p>

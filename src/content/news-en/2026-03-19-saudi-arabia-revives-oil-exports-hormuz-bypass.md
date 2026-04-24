@@ -28,10 +28,4 @@ tags: ['Suudi Arabistan', 'Yanbu', 'Hürmüz Boğazı', 'Saudi Aramco', 'IEA', '
 3. At least 32 <strong>VLCC</strong>/<strong>Suezmax</strong> vessels await in the <strong>Red Sea</strong>.<br>
 4. The <strong>UAE</strong>'s <strong>Fujairah</strong> route is disrupted by drone attacks.<br>
 5. The <strong>IEA</strong> has emphasized that the conflict is causing the largest supply disruption in history.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book is Now Available on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free through this link.</p>
 <p>We would be delighted to receive your feedback.</p>
-<p><br></p>
-<p>[43685]</p>

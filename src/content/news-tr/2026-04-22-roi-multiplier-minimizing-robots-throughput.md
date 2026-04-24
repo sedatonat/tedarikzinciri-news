@@ -35,8 +35,3 @@ tags:
 3. Bulut + edge bilişim; <strong>AMR</strong> filo verimliliğini optimize ediyor.<br>
 4. <strong>Zebra Technologies</strong> sponsorluğunda makale yayınlanıyor.<br>
 5. Otomasyonda yazılım-orkestrasyon; sırf donanım eklemenin önüne geçiyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42770]</p>

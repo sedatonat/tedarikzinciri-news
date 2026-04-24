@@ -28,4 +28,3 @@ tags:
   <li><p>eBOL kullanımı, real-time izlenebilirlik ve fatura süreçlerinin otomasyonu gibi alanlarda iyileştirmeler sağlar.</p></li>
   <li><p>Project44, sektör genelinde dijital dönüşümü ve tedarik zinciri verimliliğini ilerletmeyi amaçlar.</p></li>
 </ol>
-<p><br></p>

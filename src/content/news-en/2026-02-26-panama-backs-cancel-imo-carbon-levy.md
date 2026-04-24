@@ -28,10 +28,4 @@ tags: ['IMO', 'karbon vergisi', 'Net-Zero Framework', 'Panama', 'Liberia', 'Arja
 3. <strong>Panama Canal</strong> carries approximately 5% of global shipping volume.<br>
 4. The <strong>NZF</strong> aimed for 20% reduction by 2030, 70% by 2040, and net-zero by 2050.<br>
 5. The vote was delayed in October 2025 to the end of 2026.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via the link.</p>
 <p>We would be happy to receive your feedback.</p>
-<p><br></p>
-<p>[43548]</p>

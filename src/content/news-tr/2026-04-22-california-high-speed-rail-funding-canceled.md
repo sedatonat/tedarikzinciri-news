@@ -35,8 +35,3 @@ tags:
 3. <strong>California High-Speed Rail</strong>; 16 yılda hiçbir tamamlanmış yüksek hızlı ray üretmemekte.<br>
 4. Başlangıç maliyet tahmini 33 milyar dolardan 128 milyar dolara yükseliyor.<br>
 5. <strong>Newsom</strong> ve Demokratlar; <strong>Trump</strong> yönetimi tarafından eleştirilmekte.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42180]</p>

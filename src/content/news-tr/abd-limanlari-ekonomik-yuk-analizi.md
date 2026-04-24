@@ -28,5 +28,3 @@ tags:
   <li><p>2023'te hacimler pandemi öncesi seviyelere döndü.</p></li>
   <li><p>Aylık veriler, kargo ticaretinin mevcut durumunu anlamada önemli.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

@@ -35,8 +35,3 @@ tags:
 3. <strong>Federal Reserve</strong> 4 Haziran verisinde; hizmet firmalarının %75&rsquo;i tarife maliyetini aktarıyor.<br>
 4. <strong>Amazon</strong>; <strong>Walmart</strong>; <strong>Macy&rsquo;s</strong>; <strong>Best Buy</strong>; fiyat artış planlarını açıklıyor.<br>
 5. Tüketicilerin yalnızca %14&rsquo;ü markaların fiyat değişikliğini açıkça açıkladığını hissediyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41910]</p>

@@ -38,4 +38,3 @@ tags:
   <li><p>Kritik madde tedarik zincirlerini güçlendirmek için düzenlenen yapay zeka (AI) hackathonları, USGS, Savunma İleri Araştırma Projeleri Ajansı (DARPA) ve Enerji İleri Araştırma Projeleri Ajansı-Enerji (ARPA-E) tarafından organize edilecek.</p></li>
   <li><p>İşçi hakları ihlalleri için risk haritalama, Çalışma Bakanlığı (DOL) tarafından denetlenecek.</p></li>
 </ul>
-<p><br></p>

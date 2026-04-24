@@ -30,4 +30,3 @@ tags:
   <li><p><strong>Infrastructure and Workforce Development</strong>: This new functionality of the port may require infrastructure improvements and the creation of additional employment. This can have positive effects on the region's labor market.</p></li>
   <li><p><strong>International Relations and Reputation</strong>: The voyage of the Gözde Bayraktar vessel, flying the Turkish flag, can enhance Turkey's reputation and credibility in international commerce.</p></li>
 </ol>
-<p><br></p>

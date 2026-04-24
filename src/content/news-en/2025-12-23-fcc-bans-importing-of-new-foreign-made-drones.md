@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">The move is expected to have wide-ranging implications for commercial drone users and public safety agencies, given the dominant market share held by Chinese manufacturers. In a statement to CNN, a Chinese foreign ministry spokesperson criticized the action as "discriminatory," while Chinese drone manufacturer <strong>DJI</strong> said it was "disappointed" by the FCC's decision and claimed that the company had not been given specific information about how the agency reached its determination.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the dominance of Chinese players such as DJI and Autel in the global commercial drone market creates serious sourcing constraints for U.S. retailers, logistics providers and government agencies. Last-mile delivery players including <strong>Amazon</strong>, <strong>Walmart</strong> and <strong>Zipline</strong> will need to accelerate alternative supplier development programs and brace for price inflation while domestic production capacity remains limited. The ruling is also being read as part of the broader U.S. strategy of gradually decoupling Chinese technology from the country's critical infrastructure.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43039]</p>

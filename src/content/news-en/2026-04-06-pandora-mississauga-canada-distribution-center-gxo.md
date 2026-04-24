@@ -23,8 +23,3 @@ tags: ["Pandora", "GXO Logistics", "Canada", "distribution center", "USMCA", "pi
 3. The site can process up to 12,500 orders per day.<br>
 4. Pick-to-light systems have been installed.<br>
 5. The investment timing aligns with the July 2026 USMCA review.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

@@ -36,11 +36,3 @@ tags:
 3. İddialar, <strong>DP World CEO Sultan Ahmed bin Sulayem</strong>&rsquo;in <strong>Epstein</strong> ile yazışmalarına dayanıyor.<br>
 4. <strong>BII</strong> ile <strong>DP World</strong>&rsquo;ün <strong>African platform</strong>&rsquo;u, <strong>Senegal</strong>, <strong>Egypt</strong> ve <strong>Somaliland</strong>&rsquo;daki limanları kapsıyor.<br>
 5. <strong>BII</strong>; iş dürüstlüğü ile cinsiyet eşitliğini etki yatırımı önceliği olarak tanımlıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43456]</p>

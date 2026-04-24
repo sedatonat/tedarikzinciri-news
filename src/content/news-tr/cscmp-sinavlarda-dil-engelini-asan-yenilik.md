@@ -27,4 +27,3 @@ tags:
   <li><p>Adaylar, sınav sırasında metinleri vurgulayarak anında çeviri alabiliyorlar.</p></li>
   <li><p>Özellik, adayların sınav esnasında daha fazla güven ve anlayış kazanmalarına yardımcı oluyor.</p></li>
 </ol>
-<p><br></p>

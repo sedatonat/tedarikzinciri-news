@@ -29,9 +29,6 @@ tags:
 </ol>
 <p><br></p>
 <p>Bremmer warned that these issues cannot be resolved in the next election cycle and stressed that businesses should anticipate continued geopolitical risks to their supply chains for some time. In particular, the current crisis in the Middle East, which could lead to direct conflict between Israel and Iran and impact the Strait of Hormuz—a critical chokepoint for oil flows—could have serious consequences for the global economy.</p>
-<p><br></p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Key Takeaways</strong></h5>
 <ol>
   <li><p>Geopolitical recession is imposing a tax on global supply chains.</p></li>
@@ -40,4 +37,3 @@ tags:
   <li><p>Rising anti-establishment sentiment in Western democracies is calling into question the legitimacy of political institutions.</p></li>
   <li><p>Geopolitical risks are expected to persist beyond the next election cycle, with these challenges continuing unabated.</p></li>
 </ol>
-<p><br></p>

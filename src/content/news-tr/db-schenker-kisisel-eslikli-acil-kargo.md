@@ -31,5 +31,3 @@ tags:
   <li><p>Gerçek zamanlı takip ile şeffaflık sağlanıyor.</p></li>
   <li><p>DB Schenker, <a href="https://www.dbschenker.com/global/insights/news-and-stories/press-releases/fasten-the-seatbelt-db-schenker-launches-onboard-courier-service-1710282"><u>OBC</u></a> hizmeti için küresel bir ekip kurdu ve 24/7 hizmet veriyor.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

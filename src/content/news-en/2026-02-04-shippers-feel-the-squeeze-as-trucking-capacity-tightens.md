@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">The good news for carriers is that while trucking volumes have remained soft, the pace of decline is easing. Although national shipment volumes declined year-over-year for the 15th straight quarter in Q4 2025, that was also the smallest quarterly drop since Q2 of 2022. For 2025 as a whole, freight volumes declined 9.9% from 2024 — less than half the 20.4% annual decline recorded the year before.</p>
 <p><br></p>
 <p style="text-align: justify">The increase in shipper spending also marked the first year-over-year bump in three years, underscoring how tightening capacity has been driving rates higher across the trucking market. U.S. Bank noted that the spending gains are unlikely to be the result of higher fuel costs — a common culprit when freight prices increase — with analysts pointing instead to capacity contraction as the primary driver of rising rates. From a supply chain perspective, this cycle suggests that large shippers including <strong>Walmart</strong> and <strong>Amazon</strong> will be forced to renegotiate carrier rate models heading into 2026.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43409]</p>

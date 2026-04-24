@@ -28,10 +28,4 @@ tags: ['DP World', 'Essa Kazim', 'terminal işletmeciliği', 'TEU', 'EBITDA', 'M
 3. Total throughput of 93.4 million <strong>TEU</strong> grew 5.8%.<br>
 4. Capex of $3.1 billion with $100 million for <strong>Manila</strong> and $400 million for <strong>Port Botany</strong>.<br>
 5. <strong>Kazim</strong> became chairman following <strong>bin Sulayem</strong>'s removal.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Is Now Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge via this link.</p>
 <p>Your feedback would make us happy.</p>
-<p><br></p>
-<p>[43650]</p>

@@ -26,8 +26,6 @@ tags:
 <p>Maersk hisseleri, olayın ardından %2.6 düşüşle günü kapattı. Baltimore limanına giriş ve çıkış trafiği askıya alındı. <a href="https://en.wikipedia.org/wiki/Francis_Scott_Key_Bridge_(Baltimore)"><u>Francis Scott Key Köprüsü</u></a>'nün çökmesi, Panama Kanalı'nın 2016'da genişletilmesinden bu yana Asya ve diğer yerlerden gelen dünyanın en büyük kargo gemilerini ağırlayan Baltimore limanının önemini vurguluyor.&nbsp;</p>
 <p><br></p>
 <p>Singapur bayraklı <a href="https://www.vesselfinder.com/vessels/details/9697428"><u>DALI </u></a>gemisi, 300mt uzunluğunda olup, kaza sırasında 22 mürettebat taşıyordu ve hiçbiri yaralanmadı. Lloyd's List Intelligence'tan David Osler, olayla ilgili hukuki sorumluluğu belirlemek üzere bir soruşturma başlatılacağını ve bunun yüz milyonlarca doları bulabileceğini belirtti. Zararın boyutu, sigortacılar için sigorta sağlayan küresel reasürans piyasasına sıçrayacak.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ul>
   <li><p><a href="https://en.wikipedia.org/wiki/Maersk"><u>Maersk</u></a>, Baltimore'daki köprü kazasına karışan gemiyi kiraladı.</p></li>
@@ -40,4 +38,3 @@ tags:
   <li><p>Hukuki sorumluluğu belirlemek üzere bir soruşturma başlatılacak.</p></li>
 </ul>
 <p><strong>İlgili Makale:</strong> <a href="https://www.tedarikzinciriportali.com/post/maersk-baltimore-koprusu-kazasi"><u>Maersk Baltimore Francis Scott Key Köprüsü Kazası</u></a></p>
-<p><br></p>

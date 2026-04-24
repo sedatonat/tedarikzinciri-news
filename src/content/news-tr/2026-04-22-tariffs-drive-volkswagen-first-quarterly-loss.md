@@ -35,8 +35,3 @@ tags:
 3. <strong>Porsche</strong> tüm-elektrik stratejisi geri çekiliş; ek 5.4 milyar dolar darbe.<br>
 4. <strong>CFO Arno Antlitz</strong>; 30 Ekim açıklamasında sonuçları duyuruyor.<br>
 5. Bu; <strong>VW</strong>&rsquo;nin 5 yıldaki ilk çeyrek zararı oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42760]</p>

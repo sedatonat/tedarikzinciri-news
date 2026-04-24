@@ -36,10 +36,4 @@ tags:
 3. <strong>Hyundai Glovis</strong>; 2025 pilotunda 900 aracı geçiriyor.<br>
 4. Tam okyanus-okyanus transfer; ~72 saatte gerçekleşiyor.<br>
 5. <strong>Panama Canal</strong>&rsquo;da iklimsel kuraklık riski alternatif arayışını hızlandırıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
 <p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p><br></p>
-<p>[43792]</p>

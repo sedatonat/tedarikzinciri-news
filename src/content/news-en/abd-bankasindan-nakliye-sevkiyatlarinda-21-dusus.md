@@ -43,14 +43,3 @@ tags:
   <li><p><strong>Spot Market Condition:</strong> Dry van spot rates are trading 9 percent below contract rates, indicating a weak spot market.</p></li>
   <li><p><strong>Inflation Impact:</strong> In October, inflation began affecting dry van shippers, but has not yet impacted reefer and flatbed transportation.</p></li>
 </ol>
-<p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir">https://www.sedatonat.com/erpnasilalinir</a>You can download and read it for free through this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

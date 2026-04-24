@@ -37,12 +37,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The collaboration contributes positively to India's maritime sector and economic growth.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">This partnership underscores the importance of operational efficiency in the maritime sector and regional collaboration.</p></li>
 </ul>
-<p style="text-align: justify"><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Acquire ERP? Our Book is Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

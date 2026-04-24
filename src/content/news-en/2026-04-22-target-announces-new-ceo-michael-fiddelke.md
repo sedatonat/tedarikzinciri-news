@@ -27,8 +27,3 @@ tags: ['Target', 'Brian Cornell', 'Michael Fiddelke', 'CEO atama', 'perakende', 
 3. Stock falls 6% following the announcement.<br>
 4. <strong>Fiddelke</strong> pledges product quality and technology investment.<br>
 5. Competition from <strong>Walmart</strong>, <strong>Costco</strong>, and <strong>Amazon</strong>, plus <strong>U.S.</strong> tariffs, are primary challenges.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>  You can download and read it free of charge via this link.</p>
-<p><br></p>
-<p>[42370]</p>

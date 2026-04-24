@@ -36,10 +36,4 @@ tags:
 3. Küresel ham petrolün ve <strong>LNG</strong>&rsquo;nin yaklaşık %20&rsquo;si bu boğazdan geçiyor.<br>
 4. <strong>U.S.</strong> ham petrol fiyatları %35 yükseliyor; <strong>Gulf</strong> üreticileri üretim geri çekiyor.<br>
 5. <strong>DFC</strong> CEO&rsquo;su <strong>Ben Black</strong>; planın enerji akışını yeniden başlatıyor olacağını vurguluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
 <p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p><br></p>
-<p>[43612]</p>

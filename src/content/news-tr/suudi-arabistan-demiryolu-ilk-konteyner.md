@@ -28,8 +28,6 @@ tags:
 <p>Ayrıca MAWANI, Nisan ayı başlarında Suudi Arabistan Demiryolları ile limanlarından demiryolu ile yapılan yük taşıma faaliyetleri için birleşik bir çerçeve oluşturmak ve genel bir organizasyonel ve yasal model benimsemek üzere bir ortaklık anlaşması imzalamıştır.</p>
 <p><br></p>
 <p>MAWANI'nın açıklamasına göre, "Demiryolu hattının işletilmesi, deniz ve demiryolu taşıma modları arasında bağlantıyı güçlendirir, lojistik operasyonlarının verimliliğini artırır. Bu girişim, endüstriyel ve ticari limanlara lojistik destek sağlayacak, rekabetçiliklerini artıracak ve ticaret hareketlerini destekleyerek zararlı emisyonları azaltacak ve çevrenin korunmasına yardımcı olacak güvenli ve sürdürülebilir çözümler sunacaktır."</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ol>
   <li><p>MAWANI, Jubail Ticaret Limanı'ndan Riyad Kuru Limanı'na ilk konteyner sevkiyatını demiryolu ile gerçekleştirdi.</p></li>
@@ -39,4 +37,3 @@ tags:
   <li><p>MAWANI ve SAR, demiryolu ile yük taşımacılığı için birleşik bir çerçeve ve yasal model oluşturmak üzere ortaklık anlaşması imzaladı.</p></li>
   <li><p>Demiryolu hattı, deniz ve demiryolu taşımacılığı arasındaki bağlantıyı güçlendiriyor ve lojistik operasyonlarının verimliliğini artırıyor.</p></li>
 </ol>
-<p><br></p>

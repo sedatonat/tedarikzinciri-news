@@ -31,4 +31,3 @@ tags:
   <li><p><strong>Cargo Volumes:</strong> 2.16 million TEU in June, expected to reach 2.34 million TEU in July.</p></li>
   <li><p><strong>NRF Position:</strong> The necessity for parties to reach an agreement and the economic consequences of a strike.</p></li>
 </ol>
-<p><br></p>

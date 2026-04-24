@@ -43,12 +43,5 @@ tags:
   <li><p><strong>Technologies:</strong> OVERSEA voyage optimization platform, Awake.AI port call optimization</p></li>
   <li><p><strong>Aligned Targets:</strong> International Maritime Organization (IMO) 2050 net zero emissions target, European Union's 2030 Climate Target Plan</p></li>
 </ul>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book is Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via the link.</p>
 <p>Your feedback would make us happy.</p>
 <p>Wishing you happy reading in advance.</p>

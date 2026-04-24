@@ -41,12 +41,3 @@ tags:
   <li><p>The company has invested in more than 125 dual-fuel LNG vessels.</p></li>
   <li><p>The emissions surcharge will enable customers to contribute to decarbonization costs.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our Book is Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
-<p>We would be happy to receive your feedback.</p>
-<p>We wish you happy reading.</p>

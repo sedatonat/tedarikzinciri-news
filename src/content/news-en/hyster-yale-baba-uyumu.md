@@ -56,12 +56,4 @@ tags:
   <li><p>Dual empty-container handling capability increases operational efficiency.</p></li>
   <li><p>The company aims to maintain industry-leading standards in design, durability, and performance.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book is Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
-<p>We would be delighted to hear your feedback.</p>
 <p>Wishing you happy reading in advance.</p>

@@ -48,12 +48,3 @@ tags:
   <li><p><strong>GEODIS</strong> tarafından hazırlanan rehber, ithalatçıların 2025 tarifelerine hazırlanmaları için altı adım sunuyor.<a href="https://www.supplychain247.com/article/six-steps-prepare-2025-tariffs-avoid-disruption?utm_source=chatgpt.com" rel="noopener" target="_blank">Supply Chain 24/7</a></p></li>
   <li><p>Firmalar, maliyetleri yönetmek ve rekabet avantajlarını sürdürmek için stratejik adımlar atıyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

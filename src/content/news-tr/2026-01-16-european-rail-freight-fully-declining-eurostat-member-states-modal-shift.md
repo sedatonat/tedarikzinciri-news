@@ -29,8 +29,3 @@ tags:
 3. Almanya, Fransa, İtalya, Polonya ve İspanya'da ton-km hacimleri düşmeye devam etti.<br>
 4. AB'nin 2030 hedefi (yükün %30'unun demiryolu ve içsu yolu ile) giderek ulaşılmaz hale geliyor.<br>
 5. Sektör AB Komisyonu'nun kararlı politika müdahalesi olmadan düşüşün kötüleşeceği uyarısında bulundu.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

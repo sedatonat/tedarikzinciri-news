@@ -27,8 +27,3 @@ tags:
 3. Belozyorov 2015'ten beri RZD başında; bu onun üçüncü 5 yıllık dönemi.<br>
 4. Daha önce 2004-2009 yıllarında RF Federal Yol Ajansı'nın başında görev yaptı.<br>
 5. RZD; vagon filosu yaşlanması ve yükleme hacmi düşüşü gibi zorluklarla yüz yüze.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -22,8 +22,3 @@ tags: ["FESCO", "Antarctic mission", "Vasily Golovnin", "India polar stations", 
 3. At Queen Maud Land, the crew assisted Indian researchers.<br>
 4. This was the eighth Antarctic mission under the FESCO-India cooperation framework.<br>
 5. Over 1,000 tons of scientific equipment, food, fuel, and medical supplies were delivered.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

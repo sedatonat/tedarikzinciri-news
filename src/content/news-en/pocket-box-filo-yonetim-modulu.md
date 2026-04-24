@@ -25,8 +25,6 @@ tags:
 <p>The asset module offers a flexible framework for managing various logistics and material handling equipment, including trailers, containers, and forklifts. The control panel and notification system feature a user-friendly interface that includes maintenance, compliance, and inventory management capabilities, streamlining task management. Through the application, drivers can conduct daily vehicle and asset security checks while also identifying the last known location and condition of their assigned equipment.</p>
 <p><br></p>
 <p>Finnegan states that this digital solution will help businesses achieve time and cost savings, reach the highest health and safety compliance standards, and will introduce new security features going forward. Additionally, the module aims to combat issues such as equipment theft.</p>
-<p><br></p>
-<p><br></p>
 <h5>Key Points</h5>
 <ul>
   <li><p>Pocket Box has added an asset module for SME fleet management.</p></li>
@@ -35,4 +33,3 @@ tags:
   <li><p>The digital solution helps businesses achieve time and cost savings while improving security and compliance levels.</p></li>
   <li><p>New security features to combat equipment theft will be added in the future.</p></li>
 </ul>
-<p><br></p>

@@ -29,8 +29,3 @@ tags:
 3. Askıya alma rıhtım ve giriş kapısı operasyonlarının her ikisini de kapsıyor.<br>
 4. Tüm kapı randevuları iptal edildi, müşterilere terminale sevkiyat yapmamaları bildirildi.<br>
 5. Liman, Bahreyn'in ana ticari kapısı olarak konteynerli kargo elleçliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -36,4 +36,3 @@ tags:
   <li><p><a href="https://en.wikipedia.org/wiki/Global_shipping_network"><u>GSBN</u></a>, işbirliğini genişletmeyi ve daha fazla sertifika sunmayı planlıyor.</p></li>
   <li><p><a href="https://en.wikipedia.org/wiki/Hapag-Lloyd"><u>Hapag-Lloyd</u></a>, <a href="https://en.wikipedia.org/wiki/Global_shipping_network"><u>GSBN</u></a>’in elektronik konşimento (eBL) çözümünü benimsiyor ve 2030 yılına kadar %100 elektronik konşimento hedefliyor.</p></li>
 </ol>
-<p><br></p>

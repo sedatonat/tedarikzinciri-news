@@ -110,8 +110,6 @@ This period demonstrated sustained strong capital flows toward both <strong>logi
 </ol>
 <p style="text-align: justify">The total investment volume demonstrates continued digital transformation in the sector and shows that investors are <strong>focusing on long-term infrastructure platforms.</strong><br>
 Major acquisitions (particularly <strong>WiseTech–E2open</strong>) also highlight <strong>strengthening consolidation trends in the supply chain software market.</strong></p>
-<p><br></p>
-<p><br></p>
 <h5 style="text-align: justify"><strong>Key Highlights:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Total transaction value:</strong> Over $2.3 billion (M&A + VC + PE).</p></li>
@@ -122,12 +120,7 @@ Major acquisitions (particularly <strong>WiseTech–E2open</strong>) also highli
   <li style="text-align: justify"><p style="text-align: justify">These investments signal that <strong>global supply chain technologies are entering a maturation and consolidation phase.</strong></p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
+
 <p><strong>Source: </strong><a href="https://castleplacement.com/top-10-supply-chain-tech-capital-raises-and-investors-in-the-u-s-july-16th-august-31st-2025/"><u>https://castleplacement.com/top-10-supply-chain-tech-capital-raises-and-investors-in-the-u-s-july-16th-august-31st-2025/</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Buy ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading.</p>

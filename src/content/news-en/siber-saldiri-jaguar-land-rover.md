@@ -54,14 +54,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Lessons:</strong> <strong>Zero-trust</strong>, <strong>OT security standards</strong>, <strong>immutable backups</strong>, <strong>exercise-backed crisis plans</strong>, <strong>partial production strategies</strong>, and <strong>supplier cash buffers</strong> became critical.</p></li>
 </ul>
 <p style="text-align: justify"><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book on How to Procure ERP Systems has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it free through this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

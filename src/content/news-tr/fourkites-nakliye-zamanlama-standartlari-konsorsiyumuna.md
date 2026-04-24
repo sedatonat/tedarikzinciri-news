@@ -33,5 +33,3 @@ tags:
   <li><p>SSC'nin hedefleri arasında API standardını tanımlamak, manuel süreçleri azaltmak ve endüstri genelinde standardı savunmak bulunuyor.</p></li>
   <li><p>FourKites'in katılımı, maliyetlerin düşürülmesine ve operasyonel verimliliğin artırılmasına katkıda bulunacak.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

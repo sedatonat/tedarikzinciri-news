@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Pasifik'in başka noktalarında <strong>Fiji</strong>; vatandaşlarına panik içinde alışveriş yapmamaları veya yakıt stoklamamaları çağrısında bulunuyor. <strong>Marshall Adaları</strong>; 90 günlük ekonomik olağanüstü hal ilan etti. <strong>Vanuatu</strong> ise yükselen elektrik fiyatları konusunda uyarıyor. SIDS'lerdeki birçok ev; halihazırda hizmet istikrarsızlığıyla karşılaşıyor. Tuvalu; yakıt sıkıntılarından kaynaklanan günlük elektrik kesintilerini bildiriyor.</p>
 <p><br></p>
 <p style="text-align: justify"><strong>Hürmüz Boğazı</strong>'nın yakın gelecekte tankerlere tamamen açılacağına dair çok az işaret bulunuyor. Pasifik'teki adalar; sonu görünmeyen ve derinleşen bir kriz ile karşı karşıya kalıyor. «Uzaktaki bir taşıma tıkanıklık noktasında başlayan bir kriz; hızla bir karşılanabilirlik ve güç tedarik krizine dönüşebilir; savunmasız ada topluluklarını dünyanın geri kalanından koparabilir» ifadesini UN News uyarı olarak iletiyor. Tedarik zinciri perspektifinden bu durum; <em>chokepoint risk</em>'in jeopolitik şoklar karşısında gerçek zamanlı insani sonuçları nasıl doğurduğunun çarpıcı bir örneğini oluşturuyor. Petrol şirketleri, uluslararası yardım kuruluşları ve sigorta sağlayıcıları için adalara yönelik <em>resilience</em> planlamasını artık ertelemek olanaksızlaştı.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43876]</p>

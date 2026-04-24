@@ -33,13 +33,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">These strategies are seen as part of <strong>Pasifik Holding</strong>'s objectives for international growth and diversification.</p></li>
 </ul>
 <p style="text-align: justify">These moves are expected to strengthen <strong>Pasifik Holding</strong>'s position in the sector and create opportunities in new business areas.</p>
-<p style="text-align: justify"><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Implement ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p>You can download and read it for free via the link <a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a></p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

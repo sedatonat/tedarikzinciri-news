@@ -41,13 +41,6 @@ tags:
   <li><p>AI safety/MRM become corporate standards.</p></li>
   <li><p>Focus is on scalable and measurable value.</p></li>
 </ul>
-<p>----------</p>
-<p>----------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Acquire an ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" rel="noopener" target="_new"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading.</p>
-<p><br></p>
-<p>[886]</p>

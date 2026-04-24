@@ -33,5 +33,3 @@ tags:
   <li><p>Prologis rapidly deployed charging infrastructure rather than waiting for grid improvements.</p></li>
   <li><p>The facility is supported by a microgrid that delivers up to 9 MW of charging capacity.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

@@ -37,12 +37,5 @@ tags:
   <li><p>The planned changes will include a separate innovation module to reward on-board vessel innovations.</p></li>
   <li><p>IAPH views the Carbon Intensity Indicator (CII) as a positive development but acknowledges shortcomings in its current form.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book on How to Procure an ERP System has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>We wish you happy reading in advance.</p>

@@ -36,10 +36,4 @@ tags:
 3. <strong>Brent</strong>; haberin ardından varil başına yaklaşık 80 dolardan işlem görüyor.<br>
 4. <strong>U.S.</strong>-<strong>Israel</strong> saldırılarından bu yana petrol fiyatları %10&rsquo;dan fazla yükseliyor.<br>
 5. <strong>Rapidan</strong>&rsquo;dan <strong>McNally</strong>; uygulamanın zaman alacağını vurguluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
 <p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p><br></p>
-<p>[43579]</p>

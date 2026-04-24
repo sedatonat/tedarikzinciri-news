@@ -36,8 +36,6 @@ tags:
 <p style="text-align: justify">Bu çerçevede Zebra’nın aldığı karar, robotik pazarının potansiyelini reddetmekten çok, şirketin kendi <strong>çekirdek yetkinlikleri</strong> ile daha uyumlu alanlara odaklanma tercihini yansıttı. Zebra, depo ve saha operasyonlarında veri yakalama, görünürlük ve karar destek çözümleriyle uzun süredir güçlü bir konum korudu. Sektör, robotik otomasyonun bu portföy içinde beklenen stratejik getiriyi sağlamadığı yönünde değerlendirme ortaya koydu.</p>
 <p><br></p>
 <p style="text-align: justify">Sonuç olarak Zebra’nın depo robotik işinden çekilmesi, tedarik zinciri teknolojileri pazarında <strong>büyümenin her zaman kârlı ve sürdürülebilir ölçek anlamına gelmediğini</strong> ortaya koyan önemli bir örnek oluşturdu. Şirket, bundan sonraki adımlarında yazılım ve veri odaklı çözümler üzerinden değer yaratma yolunu seçti.</p>
-<p><br></p>
-<p style="text-align: justify"><br></p>
 <h3><strong>Önemli Notlar</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Zebra Technologies, depo robotik otomasyon işinden çıkmayı planlıyor.</p></li>
@@ -47,14 +45,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">AMR pazarı büyüyor olsa da, segmentasyon ve ölçeklenebilirlik zorlukları artıyordır.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

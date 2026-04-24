@@ -76,11 +76,6 @@ The two sections won by National Grid will enable the company to play a critical
   <li style="text-align: justify"><p style="text-align: justify">National Grid has strengthened its position as a <strong>key player in the UK's carbon-free energy infrastructure</strong>.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a>&nbsp;You can download and read it for free through the link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>We wish you happy reading in advance.</p>

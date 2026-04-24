@@ -29,8 +29,3 @@ tags:
 3. Tesis; BNSF Railway ve Union Pacific hatlarına çift demiryolu erişimi sunuyor.<br>
 4. Açılış, Oregon'un ihracat altyapısını güçlendiren "Ship Oregon" girişimi kapsamında gerçekleşti.<br>
 5. Yeni terminal, bölgenin Long Beach ve Tacoma gibi alternatif limanlara bağımlılığını azaltacak.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

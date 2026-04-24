@@ -35,8 +35,3 @@ tags:
 3. <strong>Chiton</strong> dişleri; oda sıcaklığında nano-ölçekli hassasiyetle yapılıyor.<br>
 4. Bulgular; yakıt hücresi; sonraki nesil elektronik; batarya malzemelerini yönlendiriyor.<br>
 5. Biyomimetik; doğadan ilham alan tasarım disiplini oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42430]</p>

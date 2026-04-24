@@ -27,11 +27,5 @@ tags:
 3. AI forecasting strategies are strengthening.<br>
 4. Cost-sharing models are reducing impacts.<br>
 5. E-commerce logistics is directly affected.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge through this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you pleasant reading.</p>
-<p><br></p>
-<p>[792]</p>

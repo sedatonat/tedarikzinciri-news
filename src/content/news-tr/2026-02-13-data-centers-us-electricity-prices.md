@@ -36,11 +36,3 @@ tags:
 3. Önümüzdeki on yıl içinde talep büyümesinin %40&rsquo;ı veri merkezlerinden geliyor.<br>
 4. Hane elektrik fiyatlarının 2027&rsquo;ye kadar %6 daha artıyor olduğu bekleniyor.<br>
 5. <strong>Goldman Sachs</strong>, <strong>AI</strong>&rsquo;nın 2030&rsquo;a kadar veri merkezi güç talebini %160 artırıyor olacağını öngörüyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43470]</p>

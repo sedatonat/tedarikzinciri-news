@@ -31,8 +31,3 @@ tags:
 3. Teslimat planlanan zamandan üç ay önce gerçekleşti.<br>
 4. Tangier Maersk, Şangay'a uğradıktan sonra TP15 servisinde Doğu Asya–ABD Körfezi hattında çalışacak.<br>
 5. Maersk, yeni seriden bu yıl içinde dört, 2027 başında bir gemi daha teslim almayı bekliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

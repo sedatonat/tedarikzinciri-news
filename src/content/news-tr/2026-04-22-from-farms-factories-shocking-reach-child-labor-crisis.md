@@ -35,8 +35,3 @@ tags:
 3. <strong>Cocoa</strong>; <strong>cobalt</strong>; <strong>pamuk</strong>; ana yüksek riskli sektörler oluyor.<br>
 4. <strong>UFLPA</strong>; <strong>CSDDD</strong>; <strong>LkSG</strong>; ana düzenleyici çerçeveler oluyor.<br>
 5. <strong>Fairtrade</strong>; <strong>Rainforest Alliance</strong>; <strong>SA8000</strong>; ana sertifika kuruluşları oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41360]</p>

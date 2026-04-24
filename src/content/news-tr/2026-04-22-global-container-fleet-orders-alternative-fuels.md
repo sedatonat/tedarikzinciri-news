@@ -35,8 +35,3 @@ tags:
 3. 8,000+ <strong>TEU</strong> büyük gemilerin %81&rsquo;i alternatif yakıtlı oluyor.<br>
 4. <strong>LNG</strong>; alternatif siparişlerin 2/3&rsquo;ünü; methanol %31&rsquo;ini oluşturuyor.<br>
 5. 2030&rsquo;a kadar küresel konteyner filosunun çeyreği alternatif yakıtla çalışıyor projekte ediliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42520]</p>

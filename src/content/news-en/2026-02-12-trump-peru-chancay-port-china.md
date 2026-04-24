@@ -28,11 +28,5 @@ tags: ['Peru', 'Chancay', 'Cosco', 'Trump', 'Çin', 'liman jeopolitiği', 'Latin
 3. The port is operated by <strong>Cosco Shipping Ports</strong>.<br>
 4. A local court ruled that <strong>Ositran</strong> has no regulatory authority over <strong>Chancay</strong>.<br>
 5. <strong>China</strong> is <strong>Peru</strong>'s largest trade partner.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book Is Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>
 <p>We would be delighted to hear your feedback.</p>
 <p>We wish you happy reading in advance.</p>
-<p><br></p>
-<p>[43461]</p>

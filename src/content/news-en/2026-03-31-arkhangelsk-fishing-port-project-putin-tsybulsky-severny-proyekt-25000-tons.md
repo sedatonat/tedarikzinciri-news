@@ -22,8 +22,3 @@ tags: ["Arkhangelsk", "fishing port", "Vladimir Putin", "Alexander Tsybulsky", "
 3. Two additional logistics projects are run by Severny Proyekt, operating a 25-vessel fleet.<br>
 4. Arkhangelsk is a strategic port providing access to the Northern Sea Route.<br>
 5. The investments target trade opportunities from climate-opened northern routes.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

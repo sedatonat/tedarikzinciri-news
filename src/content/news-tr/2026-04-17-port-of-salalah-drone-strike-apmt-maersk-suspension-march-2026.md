@@ -31,8 +31,3 @@ tags:
 3. Saldırıda bir gemi-rıhtım (STS) vinci hasar gördü, bir işçi yaralandı.<br>
 4. Hapag-Lloyd, LISBON EXPRESS gemisinin etkilendiğini duyurdu.<br>
 5. Operasyonlar yaklaşık 48 saatlik bir aranın ardından yeniden değerlendirildi.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

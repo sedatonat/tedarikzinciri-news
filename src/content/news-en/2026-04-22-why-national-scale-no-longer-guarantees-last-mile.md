@@ -28,8 +28,3 @@ tags: ['son mil', 'ulusal ağ', 'bölgesel taşıyıcı', 'asset-light', 'akıll
 3. <strong>Asset-light</strong> networks and intelligent routing are the next-generation solution.<br>
 4. Regional carriers are outperforming giants through specialization.<br>
 5. Tech-driven regional networks are redefining reliability.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book is Now Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free through this link.</p>
-<p><br></p>
-<p>[43566]</p>

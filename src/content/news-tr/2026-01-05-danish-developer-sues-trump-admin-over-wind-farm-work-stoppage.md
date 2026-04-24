@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Benzer hukuki başvuruları; iki diğer ABD rüzgar tarlası projesinin geliştiricileri de gerçekleştirdi. Virginia merkezli <strong>Dominion Energy</strong>; 23 Aralık tarihinde dava açtı. Norveçli geliştirici <strong>Equinor</strong> ise 2 Ocak tarihinde aynı yolu izledi. Doğu Kıyısı geliştiricisi <strong>Avangrid</strong>; Massachusetts açıklarındaki rüzgar tarlasının kısmen faaliyette olması nedeniyle, durdurma kararına itiraz edip etmeyeceğini değerlendiriyor.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu durdurma kararları; offshore wind ekipman tedarikçileri açısından ciddi belirsizlik yaratıyor. Türbin imalatçıları, kablo döşeme gemisi operatörleri ve liman lojistiği sağlayıcıları; kapsamlı yatırımlarını ABD pazarındaki çok yıllı boru hattına dayandırıyor. Hukuki sürecin uzaması; siparişlerin Avrupa veya Asya'daki diğer rüzgar projelerine kaymasına yol açabilir ve böylece ABD'nin yenilenebilir enerji kapasite hedeflerini önemli ölçüde geriletebilir.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43074]</p>

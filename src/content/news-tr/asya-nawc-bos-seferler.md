@@ -33,13 +33,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>MSC</strong>, <strong>Gemini Cooperation</strong> ve <strong>Premier Alliance</strong> tarafından yeni ağların devreye alınması, boş sefer planlamasında belirsizlik yaratıyor.</p></li>
 </ul>
 <p style="text-align: justify">Bu gelişmeler, deniz taşımacılığı sektöründe arz ve talep dengesinin dikkatle izlenmesi gerektiğini ve taşıyıcıların stratejik planlamalarının önemini bir kez daha ortaya koyuyor.</p>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

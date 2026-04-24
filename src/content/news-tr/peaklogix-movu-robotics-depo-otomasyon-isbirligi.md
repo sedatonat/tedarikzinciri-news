@@ -36,4 +36,3 @@ tags:
   <li><p><a href="https://www.movu-robotics.com/en"><u>Movu Robotics</u></a>, modüler, ölçeklenebilir, esnek ve enerji verimli çözümlerle otomasyonu kolaylaştırıyor.</p></li>
   <li><p><a href="https://www.movu-robotics.com/en"><u>Movu Robotics</u></a>'in yenilikçi alt sistemleri arasında <a href="https://www.movu-robotics.com/en/atlas"><u>Movu atlas</u></a>, <a href="https://www.movu-robotics.com/en/escala"><u>Movu escala</u></a>, <a href="https://www.movu-robotics.com/en/ifollow"><u>Movu ifollow</u></a> ve <a href="https://www.movu-robotics.com/en/eligo"><u>Movu eligo</u></a> bulunuyor.</p></li>
 </ul>
-<p><br></p>

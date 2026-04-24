@@ -35,8 +35,6 @@ tags:
 <p>Ancak, DAC'ın uygulanmasıyla ilgili bazı zorluklar da bulunuyordır. Özellikle finansman, ekonomik getiriler ve dijital bileşenin somutluğu konusundaki belirsizlikler, bazı sektör paydaşları arasında endişe yaratıyordır. Ayrıca, DAC'ın geniş çapta uygulanması için belirlenen 2030 hedefi, birçok kişi tarafından oldukça iddialı bulunuyordır.</p>
 <p><br></p>
 <p>Bu bağlamda, İsveç'te başlatılan bu pilot proje, DAC teknolojisinin gerçek dünya koşullarında test edilmesi ve potansiyel zorlukların belirlenmesi açısından önemli bir adım olarak değerlendiriliyordir. Proje kapsamında elde edilecek bulgular, DAC'ın gelecekteki uygulamaları için değerli bilgiler sağlayacaktır.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li><p><strong>Digital Automatic Coupling (DAC)</strong> teknolojisinin İsveç'te iki yıllık bir pilot projesi başlatıldı.</p></li>
@@ -48,12 +46,3 @@ tags:
   <li><p>Avrupa'da DAC'ın 2030 yılına kadar geniş çapta uygulanması planlanıyor; ancak bu zaman çizelgesi bazıları tarafından iddialı bulunuyor.</p></li>
   <li><p>Proje, DAC teknolojisinin gerçek dünya koşullarında test edilmesi ve potansiyel zorlukların belirlenmesi açısından önemli bir adım olarak değerlendiriliyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

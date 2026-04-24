@@ -27,8 +27,3 @@ tags: ['Neoline', 'Neoliner Origin', 'yelkenli kargo', 'denizcilik', 'karbon aza
 3. Carbon emissions are 80% lower compared to similarly sized vessels.<br>
 4. Equipped with two 216 ft carbon fiber masts and approximately 32,300 sq ft of sail area.<br>
 5. <strong>Neoline</strong>, based in <strong>Nantes France</strong>, transports cargo for <strong>Renault</strong>, <strong>Beneteau</strong>, and <strong>Manitou</strong>.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>
-<p><br></p>
-<p>[42780]</p>

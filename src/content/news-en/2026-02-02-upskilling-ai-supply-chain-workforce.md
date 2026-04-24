@@ -28,11 +28,5 @@ tags: ['yapay zeka', 'iş gücü gelişimi', 'upskilling', 'generative AI', 'MIT
 3. The fastest gains lie in administrative and operational automation.<br>
 4. Subject matter experts are being paired with tools such as <strong>Fireflies</strong>, <strong>CustomGPT</strong>, and <strong>Perplexity</strong>.<br>
 5. The <strong>no-code ops engineer</strong> role is being positioned at the center of new competitiveness.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>
 <p>We would be delighted to hear your feedback.</p>
 <p>We wish you happy reading in advance.</p>
-<p><br></p>
-<p>[43161]</p>

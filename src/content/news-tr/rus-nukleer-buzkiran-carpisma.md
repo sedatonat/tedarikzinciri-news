@@ -37,12 +37,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Daha önce, 2017'de <strong>Vaygach</strong> buzkıranı ve <strong>Nordic Barents</strong> kargo gemisi arasında benzer bir çarpışma yaşanmıştı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Rusya'nın, buz sınıfı olmayan gemileri Kuzey Deniz Rotası'nda kullanması, uluslararası ve ulusal düzenlemeleri ihlal ediyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

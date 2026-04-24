@@ -29,8 +29,3 @@ tags:
 3. Rusya ilk kısıtlamayı 2022'de uygulamaya koymuştu.<br>
 4. Amaç; yerli ahşap işleme sektörüne ham maddeyi korumak ve katma değerli ürünlere yönlendirmek.<br>
 5. İhracatçıların Asya pazarlarına (Çin, Japonya, Güney Kore) yönelmesi bekleniyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

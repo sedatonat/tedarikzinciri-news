@@ -36,11 +36,3 @@ tags:
 3. Konteynerler <strong>LNG</strong> bölmesine değil yerleşim bölümüne çarpmakta.<br>
 4. <strong>Dutch Safety Board</strong> dahil üç kurum olayı soruşturmakta.<br>
 5. <strong>K. Lotus</strong>, palamar sistemi onarımı için limanda kalıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43441]</p>

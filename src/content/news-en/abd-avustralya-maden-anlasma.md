@@ -47,15 +47,8 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>EXIM Bank</strong> expressed financing interest totaling <strong>2.2 billion dollars</strong> for seven Australian companies.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The parties are establishing new structures for <strong>supply chain security</strong>, <strong>recycling technologies</strong>, and <strong>national security-based oversight</strong>.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>Our book "How to Acquire ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through this link.</p>
 <p>We would be happy to receive your feedback.</p>
 <p>Wishing you good reading in advance.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>
-<p><br></p>

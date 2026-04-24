@@ -35,8 +35,3 @@ tags:
 3. <strong>Chevrolet Silverado EV</strong>; <strong>GMC Sierra EV</strong>; <strong>Hummer EV</strong>; ana etkilenen modeller oluyor.<br>
 4. <strong>Trump</strong>&rsquo;ın <strong>EV</strong> vergi kredilerini kaldırıyor hareketi; ana neden oluyor.<br>
 5. Yaklaşık 2,200 çalışan; Ocak&rsquo;ta geri çağırılmakta planlanıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42750]</p>

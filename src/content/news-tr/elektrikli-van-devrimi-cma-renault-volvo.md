@@ -33,4 +33,3 @@ tags:
   <li><p>Kamyon, lojistik şirketlerinin küresel kullanım maliyetlerini %30'a kadar düşürecek yeni bir elektronik platforma sahip olacak.</p></li>
   <li><p>Üretim, Renault Grubu'nun Sandouville tesisinde gerçekleşecek ve önümüzdeki dört yıl içinde 550 kişi istihdam edilecek.</p></li>
 </ul>
-<p><br></p>

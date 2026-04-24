@@ -23,8 +23,3 @@ tags: ["CMA CGM", "Fattal Group", "satın alma", "lojistik", "MENA", "dikey ente
 3. The deal aims to strengthen cargo flows across MENA markets.<br>
 4. The move reflects ongoing vertical integration by major ocean carriers.<br>
 5. CMA CGM will expand reach into inland transport, warehousing, and distribution.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

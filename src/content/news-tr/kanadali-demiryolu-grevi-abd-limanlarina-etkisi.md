@@ -28,8 +28,6 @@ tags:
 <p>Rapora göre, grevler özellikle ABD'nin Orta Batısı ve Toronto'daki rampa operasyonlarını olumsuz etkileyecek. En iyi operasyonel plan, ithalatları giriş limanında sonlandırmak ve DC ağlarına yük taşımak için dray off, transload ve tek yönlü kamyon taşımacılığı kullanmaktır.</p>
 <p><br></p>
 <p>ITS, ihracat için benzer bir strateji benimsemeyi ve liman/konteyner sahasından (CY) rezervasyon yapmayı öneriyor. Limana veya terminal yakınında tek yönlü kamyon yükü, transload ve terminal içine dray yapmak, demiryolu üzerindeki gecikmeleri önleyecektir. Sektör profesyonelleri, geçerli talepleri yerine getirmek için çok modlu, Kuzey Amerika çapında bir ağa sahip taşıma sağlayıcılarını göz önünde bulundurmalıdır.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>
   <li><p>Kanadalı demiryolu çalışanlarının grevi, ABD'nin Batı ve Doğu Yakası limanlarında operasyonel zorluklara yol açıyor.</p></li>
@@ -38,5 +36,3 @@ tags:
   <li><p>Greve bağlı olarak, ABD'nin Orta Batısı ve Toronto'daki rampa operasyonları olumsuz etkilenecek.</p></li>
   <li><p>ITS Lojistik, ihracat ve ithalat operasyonları için alternatif stratejiler öneriyor.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

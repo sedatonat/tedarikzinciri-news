@@ -42,13 +42,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Amazon aims to achieve net-zero carbon emissions in its operations by 2040.</p></li>
 </ul>
 <p style="text-align: justify">These measures demonstrate Amazon's commitment to reducing the carbon footprint of its delivery operations in the United Kingdom and advancing sustainable logistics solutions.</p>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our Book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it free of charge via the link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

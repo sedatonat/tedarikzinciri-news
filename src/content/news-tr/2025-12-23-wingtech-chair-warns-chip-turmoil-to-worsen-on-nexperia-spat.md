@@ -28,8 +28,3 @@ tags:
 <p style="text-align: justify">Açıklamalar, <strong>Nexperia</strong>&rsquo;daki derin çatlakları gözler önüne serdi ve otomotiv ile tüketici elektroniği endüstrileri için kritik öneme sahip bileşenlerin tedarik istikrarı konusunda ciddi soru işaretleri doğurdu. Tedarik zinciri perspektifinden bakıldığında <strong>Nexperia</strong>, gofretleri («wafer») Avrupa&rsquo;dan nihai montaj için Asya&rsquo;ya sevk etti. En büyük tesisi Çin&rsquo;de bulundu ve bu tesis, ana şirketle iş birliği yapmadı. Çin ile Hollanda devleti arasındaki siyasi gerilimler yumuşasa da kurumsal düzeydeki husumet sürdü.</p>
 <p><br></p>
 <p style="text-align: justify">Krizin yan etkileri kapsamında <strong>Honda Motor Co.</strong>, tedarik sıkıntıları nedeniyle önümüzdeki haftalarda Japonya ve Çin&rsquo;deki fabrikalarında üretimi durdurmayı planladığını açıkladı. Tedarik zinciri perspektifinden bakıldığında <strong>just-in-time</strong> üretim modeline bağımlı OEM&rsquo;ler, tek bir tedarikçi düğümünden kaynaklanan jeopolitik şokların tüm hatları durdurma kapasitesine sahip olduğunu bir kez daha deneyimledi. <strong>Bosch</strong>, <strong>Continental</strong> ve <strong>Aptiv</strong> gibi Tier-1 tedarikçiler, alternatif kaynak bulma çabalarını hızlandırdı; ancak güç yarı iletkenleri segmentinde Nexperia&rsquo;nın boşluğunu kısa vadede doldurmak teknik olarak mümkün olmadı.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43036]</p>

@@ -30,8 +30,3 @@ tags:
 3. Queen Maud karasında mürettebat Hintli araştırmacılara yardım etti.<br>
 4. Bu, FESCO-Hindistan işbirliği çerçevesinde gerçekleştirilen sekizinci Antarktika görevi.<br>
 5. 1.000 tondan fazla bilimsel ekipman, gıda, yakıt ve tıbbi malzeme teslim edildi.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

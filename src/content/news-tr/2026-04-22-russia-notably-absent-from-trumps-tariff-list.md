@@ -35,8 +35,3 @@ tags:
 3. <strong>Küba</strong>; <strong>Beyaz Rusya</strong>; <strong>Kuzey Kore</strong>; aynı sebeple dışarıda oluyor.<br>
 4. ABD-<strong>Rusya</strong> ticareti 2021&rsquo;in 35 milyar dolarından 5 milyara düşüyor.<br>
 5. <strong>Uranyum</strong>; <strong>palladyum</strong>; gübre; titanium; ana stratejik bağımlılıklar oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41480]</p>

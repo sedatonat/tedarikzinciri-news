@@ -66,14 +66,8 @@ This statement indicates that Tesla Semi can be utilized not only in urban or re
   <li style="text-align: justify"><p style="text-align: justify">Target: <strong>2/3 of fleet EVs by 2030</strong>, <strong>net-zero by 2050</strong>.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it free through this link.</p>
 <p>Your feedback would make us happy.</p>
 <p>Wishing you happy reading in advance.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

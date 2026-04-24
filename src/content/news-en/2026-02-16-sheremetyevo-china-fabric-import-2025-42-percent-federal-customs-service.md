@@ -22,8 +22,3 @@ tags: ["Sheremetyevo", "China", "fabric import", "Federal Customs Service", "air
 3. In January 2026, 1.8 tons were imported by air — +10% YoY.<br>
 4. China remains a main raw material supplier for Russia's textile sector.<br>
 5. Air freight offers rapid delivery and avoids sea/land corridor delays.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

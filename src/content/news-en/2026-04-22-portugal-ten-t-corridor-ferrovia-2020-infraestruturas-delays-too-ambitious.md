@@ -22,8 +22,3 @@ tags: ["Portugal", "TEN-T", "Infraestruturas de Portugal", "Ferrovia 2020", "rai
 3. The plan positioned freight operators, not passengers, as the main beneficiary.<br>
 4. Most of the works remain incomplete after 10 years.<br>
 5. Portugal's delays directly affect the EU's 2030/2050 TEN-T targets.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

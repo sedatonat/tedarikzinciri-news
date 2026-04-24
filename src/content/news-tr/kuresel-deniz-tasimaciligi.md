@@ -42,12 +42,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>A.P. Møller-Maersk</strong> CEO'su <strong>Vincent Clerc</strong>, ticaret gerilimlerinin artacağını ve bunun deniz taşımacılığı sektörünü olumsuz etkileyeceğini öngörüyordir.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Konteyner taşımacılığında spot fiyatlar, pandemi dönemindeki zirvelerinden %75 oranında düşüş göstermiştir.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

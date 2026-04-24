@@ -25,8 +25,6 @@ tags:
 <p>Flexport, küresel ticareti basitleştirdiğini ve tedarik zincirindeki herkesi birbirine bağladığını belirten platformu sayesinde, Seattle merkezli başlangıç şirketi Convoy'un teknoloji yığınını satın aldı. Convoy, sekiz yıl süren faaliyetlerinin ardından yüz milyonlarca dolarlık girişim sermayesi desteğine rağmen kapandı. Amerika'daki pandemi sonrası taşımacılık resesyonu ve hızla artan faiz oranları nedeniyle zor durumda kaldığı ifade edildi.</p>
 <p><br></p>
 <p>Flexport, bu teknolojiyi satın alarak, müşterilerinin tüm lojistik ihtiyaçları için "tek durak" olma hedefine bir adım daha yaklaştığını belirtti. Şirket liderleri, bu haftaki hamlenin bu hedefe doğru güçlü bir adım olduğunu söyledi. Flexport’in Kamyon Taşımacılığı Başkan Yardımcısı Bill Driegert, teknolojinin, küçük taşıyıcıların işlerini telefonları üzerinden yönetmesine olanak tanıyan yeni bir dönem başlattığını ve brokerlerle bu kapasiteyi bağlamanın operasyonları basitleştirip maliyetleri düşürürken, küçük taşıyıcılar için fırsatlar yaratacağını ifade etti. Ayrıca, Driegert bu teknolojinin, tüm kamyon taşımacılığı ekosistemini güçlendirme konusunda kritik bir rol oynadığını ve taşıyıcıların, brokerlerin ve yük gönderenlerin sürekli değişen bir pazarda uyum sağlamaları ve gelişmeleri için yeni çözümlere ihtiyaç duyduğunu belirtti.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ul>
   <li><p>Flexport, iflas eden Convoy'dan yazılım satın aldı.</p></li>
@@ -36,5 +34,3 @@ tags:
   <li><p>Yeni teknoloji, küçük taşıyıcıların işlerini mobil cihazlar üzerinden yönetmelerine imkan tanıyor.</p></li>
   <li><p>Flexport, teknolojinin taşımacılık ekosistemini güçlendirmede önemli bir rol oynadığını vurguluyor.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

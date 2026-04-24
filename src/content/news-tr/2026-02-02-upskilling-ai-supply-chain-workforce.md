@@ -36,11 +36,3 @@ tags:
 3. En hızlı kazanımlar idari ve operasyonel otomasyonda yer alıyor.<br>
 4. Alan uzmanları, <strong>Fireflies</strong>, <strong>CustomGPT</strong>, <strong>Perplexity</strong> gibi araçlarla eşleştiriliyor.<br>
 5. <strong>No-code ops engineer</strong> rolü yeni rekabet gücünün merkezine yerleşiyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43161]</p>

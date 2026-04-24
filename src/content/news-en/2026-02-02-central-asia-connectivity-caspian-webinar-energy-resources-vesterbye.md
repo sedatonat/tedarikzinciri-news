@@ -22,8 +22,3 @@ tags: ["Central Asia", "Middle Corridor", "Caspian", "Samuel Doveri Vesterbye", 
 3. Kazakhstan, Uzbekistan and other regional nations are critical suppliers to global markets.<br>
 4. EU Global Gateway, China's Belt and Road, and US C5+1 initiatives compete in Central Asia.<br>
 5. 2026 will be a critical year with corridor investments and new block train services.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

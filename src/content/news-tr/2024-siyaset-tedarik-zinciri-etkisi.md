@@ -43,5 +43,3 @@ tags:
   <li><p>Çevresel düzenlemeler tedarik zincirlerinde önemli bir yer tutacak.</p></li>
   <li><p>Yapay zeka kullanımı artacak fakat yeni düzenlemeler bekleniyor.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

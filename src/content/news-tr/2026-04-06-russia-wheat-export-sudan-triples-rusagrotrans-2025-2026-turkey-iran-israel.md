@@ -28,8 +28,3 @@ tags:
 3. Türkiye'ye ihracat 2,6 kat artarak 5,8 mn tona ulaştı.<br>
 4. İran'a %2,5 katlayarak 1,86 mn ton, İsrail'e %1,4 katlayarak 1,67 mn ton.<br>
 5. Mısır 7,6 mn tonla geçen yılın seviyesini korudu.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

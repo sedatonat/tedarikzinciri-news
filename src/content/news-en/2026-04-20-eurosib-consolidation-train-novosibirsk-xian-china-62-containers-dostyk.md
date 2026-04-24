@@ -22,8 +22,3 @@ tags: ["EuroSib", "Novosibirsk", "Xian", "Dostyk", "consolidation train", "rail 
 3. The consolidation train will operate monthly in addition to existing regular block train services.<br>
 4. EuroSib operates from its own terminal at the Inya Vostochnaya station in Novosibirsk.<br>
 5. The consolidation train will carry grain, food, vegetable oil, beverages, and timber products.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

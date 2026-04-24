@@ -29,8 +29,3 @@ tags:
 3. Savaş bölgeleri standart poliyete kapsamı dışında; ek 'savaş primi' gerekiyor.<br>
 4. Sigortacılar kalıcı istikrar için daha uzun gözlem dönemi talep ediyor.<br>
 5. Ümit Burnu alternatifi Asya-Avrupa voyajlarını 10-14 gün uzatıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

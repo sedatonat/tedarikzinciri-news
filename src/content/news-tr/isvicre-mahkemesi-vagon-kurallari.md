@@ -59,14 +59,6 @@ Vagonların çok daha <strong>kısa kilometre aralıklarıyla</strong> teknik ko
   <li style="text-align: justify"><p style="text-align: justify"><strong>UIP</strong>, kararı Avrupa çapında ortak çözüm için fırsat olarak değerlendirdi.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Gözler, <strong>JNS’nin</strong> yayımlayacağı ortak güvenlik tavsiyelerine çevrildi.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

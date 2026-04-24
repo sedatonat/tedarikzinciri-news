@@ -35,8 +35,3 @@ tags:
 3. <strong>Çin</strong>&rsquo;e %125 (sonradan %145) tarife; 90 günlük diğer ülke duraklaması.<br>
 4. Konteyner hacimleri; <strong>Pasifik</strong> boyunca düşüyor.<br>
 5. Konfeksiyon; ayakkabı; oyuncak; tüketici elektroniği; ana etkileniyor sektörler oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41520]</p>

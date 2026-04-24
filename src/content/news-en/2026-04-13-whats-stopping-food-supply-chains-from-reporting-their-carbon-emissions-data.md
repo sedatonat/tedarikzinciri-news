@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Concerns over data privacy and security can also play a role. Battey emphasizes that the challenge is largely one of education, enlightenment and collaboration. "It's about finding how to engage suppliers in ways that are going to empower them." Suppliers can also become frustrated by the differing data demands of their many downstream buyers. <strong>HowGood</strong>'s supplier connection platform addresses that problem by simplifying and standardizing the type of product-level data required.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, Scope 3 reporting is becoming mandatory under the <strong>CSRD (Corporate Sustainability Reporting Directive)</strong> and the <strong>SEC Climate Rule</strong>, and combines with food-sector <strong>FLAG (Forest, Land and Agriculture)</strong> targets to create an additional layer of complexity. <strong>Nestlé</strong>, <strong>Unilever</strong>, <strong>Danone</strong> and <strong>PepsiCo</strong> are embedding sustainability data quality into their supplier scorecards. <strong>SAP Sustainability Footprint Management</strong> and <strong>Salesforce Net Zero Cloud</strong> are emerging as the leading platforms in data collection infrastructure.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43825]</p>

@@ -28,10 +28,4 @@ tags: ['Hürmüz Boğazı', 'savaş riski sigortası', 'Trump', 'DFC', 'UKMTO', 
 3. Most pricing is being cut for vessels linked to <strong>China</strong>, <strong>India</strong>, and <strong>Pakistan</strong>.<br>
 4. <strong>UKMTO</strong> has reported 20 security incidents since March 1, with the latest on March 12 involving a container ship.<br>
 5. The <strong>DFC</strong>'s $20 billion reinsurance program is attracting insurer interest.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
 <p>We would be delighted to hear your feedback.</p>
-<p><br></p>
-<p>[43665]</p>

@@ -33,12 +33,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>MSC</strong> plans to equip its entire fleet with this technology in the coming years.<a href="https://www.joc.com/article/msc-launches-new-visibility-technology-for-refrigerated-cargo-5935929" rel="noopener" target="_blank">joc.com</a></p></li>
   <li style="text-align: justify"><p style="text-align: justify">This system improves product quality and safety by helping detect potential issues early.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge through the link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

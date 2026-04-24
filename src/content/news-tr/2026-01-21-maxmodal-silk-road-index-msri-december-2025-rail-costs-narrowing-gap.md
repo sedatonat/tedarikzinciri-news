@@ -29,8 +29,3 @@ tags:
 3. İpek Yolu demiryolu rotaları ile Süveyş Kanalı deniz taşımacılığı arasındaki fark daraldı.<br>
 4. Maxmodal Silk Road Index (MSRI); dünyanın ilk gerçek multimodal konteyner endeksi olarak lanse edildi.<br>
 5. Demiryolunun konteyner trafiğindeki payı 2026 boyunca 2-3 puan artabilir.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

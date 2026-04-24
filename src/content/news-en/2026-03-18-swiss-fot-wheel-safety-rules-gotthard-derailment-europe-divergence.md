@@ -21,8 +21,3 @@ tags: ["Switzerland", "FOT", "wheel safety", "Gotthard Base Tunnel", "rail freig
 3. The Swiss rules are more strict and more costly to implement.<br>
 4. Wagon owners complain about extra maintenance costs and cross-border friction.<br>
 5. The European Commission is being asked to mediate.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

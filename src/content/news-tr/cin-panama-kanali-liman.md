@@ -34,8 +34,6 @@ tags:
 <p style="text-align: justify">Çin tarafı ise konuyu yalnızca liman işletmeciliği meselesi olarak ele almıyor. Üst düzey bir Çinli yetkili, Wall Street Journal’a yaptığı açıklamada Panama Kanalı limanlarının kontrolünün <strong>önümüzdeki ABD–Çin ticaret görüşmelerinde</strong> bir pazarlık unsuru olarak kullanılacağını ifade etti. Bu yaklaşım, liman satışını iki ülke arasındaki daha geniş kapsamlı ticaret ve güç mücadelesinin parçası hâline getiriyor.</p>
 <p><br></p>
 <p style="text-align: justify">Genel tablo, Panama Kanalı çevresindeki limanların küresel lojistik ağların ötesinde <strong>büyük güç rekabetinin</strong> merkezine yerleştiğini gösteriyor. Satış sürecinin nihai sonucu, yalnızca liman mülkiyetini değil; küresel deniz taşımacılığındaki etki alanlarını ve ticaret rotaları üzerindeki kontrol dengesini de şekillendirecek.</p>
-<p><br></p>
-<p style="text-align: justify"><br></p>
 <h3><strong>Önemli Notlar</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Çin, Panama Kanalı liman satışında <strong>Cosco</strong> için kontrol payı talep ediyor.</p></li>

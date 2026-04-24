@@ -38,5 +38,3 @@ tags:
   <li><p>Biden yönetimi, liman altyapısını güçlendirmek için 20 milyar dolarlık yatırımı duyurdu.</p></li>
   <li><p><a href="https://ustr.gov/"><u>USTR</u></a>, Çin gemi inşasıyla ilgili bir soruşturma başlatıp başlatmamaya karar verecek.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

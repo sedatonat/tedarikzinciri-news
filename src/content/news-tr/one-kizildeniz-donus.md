@@ -36,8 +36,6 @@ tags:
 <p style="text-align: justify">ONE’ın merkezinin <strong>Singapore</strong>’da bulunması ve güçlü Asya–Avrupa ağı; şirketin bu hatta yönelik stratejik ilgisini uzun vadede sürdürdüğünü gösteriyor. Ancak mevcut adım, daha çok <strong>pazar varlığını koruma</strong> ve müşterilere alternatif rota seçenekleri sunma amacı taşıyor. Slot charter yoluyla gerçekleşen bu dönüş; şirketin risk iştahını sınırlı tuttuğunu, ancak ticari fırsatları tamamen kaçırma niyetinde olmadığını ortaya koyuyor.</p>
 <p><br></p>
 <p style="text-align: justify">Genel çerçevede ONE’ın Kızıldeniz hattına dönüşü; küresel konteyner taşımacılığında <strong>normalleşme sinyallerinin</strong> henüz kırılgan olduğunu ortaya koyuyor. Taşıyıcılar; güvenlik koşullarındaki en küçük değişimi dahi yakından takip ediyor ve operasyonlarını esnek ile geri çekilebilir modeller üzerinden kurguluyor. ONE örneği; bu yeni dönemde deniz taşımacılığında <strong>esnek kapasite yönetiminin</strong> ve iş birliklerinin kritik önemini açık biçimde gözler önüne seriyor.</p>
-<p><br></p>
-<p style="text-align: justify"><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">ONE, Kızıldeniz hattına slot charter modeliyle geri dönüyor.</p></li>
@@ -46,14 +44,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">ONE, kapasite tahsis detaylarını paylaşmamaktadır.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Geri dönüş, güvenlik riskleri nedeniyle temkinli ve sınırlı düzeyde gerçekleşiyordir.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a>&nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

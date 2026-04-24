@@ -48,11 +48,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The <strong>Chabahar-Zahedan Railway Line</strong> stands out as a strategic project that will facilitate Central Asian countries' access to the Indian Ocean.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
+
 <p>We will be happy to receive your feedback.</p>
 <p>We wish you happy reading in advance.</p>

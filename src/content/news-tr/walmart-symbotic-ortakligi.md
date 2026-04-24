@@ -45,12 +45,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Walmart</strong>'ın mağaza içi teslimatları, 2024'te yıllık bazda neredeyse %50 artarak, aylık 2,5 milyar dolarlık bir seviyeyi aştı.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Bu stratejik ortaklık, perakende sektöründe otomasyon ve yapay zekâ çözümlerinin artan önemini vurguluyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a><u> </u>&nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

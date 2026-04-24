@@ -35,8 +35,3 @@ tags:
 3. <strong>Elon Musk</strong>; küresel satışlar için zorlu Q4 ile karşılaşıyor.<br>
 4. <strong>Europe</strong> da paralel düşüş eğilimi gösteriyor.<br>
 5. <strong>BYD</strong>; <strong>Xiaomi</strong> ve diğer <strong>Chinese</strong> oyuncular pazar payı kapmakta.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42790]</p>

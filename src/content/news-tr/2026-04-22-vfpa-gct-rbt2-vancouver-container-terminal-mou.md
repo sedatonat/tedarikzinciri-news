@@ -30,8 +30,3 @@ tags:
 3. VFPA, geliştirme sürecinin liderliğini sürdürecek; GCT, Major Projects Office başvurusunu geri çekecek.<br>
 4. RBT2; konteyner kapasitesi, dayanıklılık ve dış ticaret büyümesinin desteklenmesi için kritik öneme sahip.<br>
 5. Anlaşma, Kanada'nın en büyük planlı konteyner projelerinden birinin teslim modelini şekillendiriyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

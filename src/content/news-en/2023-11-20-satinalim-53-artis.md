@@ -18,5 +18,3 @@ tags:
 - Supply Chain Quarterly
 ---
 <p>According to a survey conducted by Supply Chain Quarterly, 53% of procurement leaders expect to increase their spending in 2024.</p>
-<p><br></p>
-<p><br></p>

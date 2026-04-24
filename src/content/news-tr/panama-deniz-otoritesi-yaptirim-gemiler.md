@@ -41,13 +41,3 @@ tags:
   <li><p>Ramón Franco, Panama gemi sicilinin uluslararası yaptırımlardan korunmasının devletin temel sorumluluğu olduğunu belirtti.</p></li>
   <li><p>Kpler verilerine göre, Kasım ayında Gabon, Liberya ve Cook Adaları bayrakları en fazla gri ve yaptırım altındaki gemileri sicillerinden kaldırdı.</p></li>
 </ul>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

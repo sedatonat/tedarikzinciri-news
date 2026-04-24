@@ -28,9 +28,3 @@ tags: ['paket lojistiği', 'Zero Down', 'Brad McBride', 'UPS', 'FedEx', 'GRI', '
 3. Revenue leakage can occur at multiple points.<br>
 4. Shippers should renegotiate with carriers on an annual basis.<br>
 5. <strong>UPS</strong> and <strong>FedEx</strong> are open to adjustments under competitive pressure.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge via this link.</p>
-<p><br></p>
-<p>[43901]</p>

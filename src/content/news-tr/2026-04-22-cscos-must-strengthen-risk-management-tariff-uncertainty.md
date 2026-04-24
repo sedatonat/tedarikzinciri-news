@@ -35,8 +35,3 @@ tags:
 3. %18 karlılık düşüşü; yanlış risk tahsis etkisi oluyor.<br>
 4. <strong>Resilinc</strong>; <strong>Everstream</strong>; <strong>Interos</strong>; ana <strong>SCRM</strong> yazılım sağlayıcıları oluyor.<br>
 5. <strong>Multi-sourcing</strong>; <strong>nearshoring</strong>; <strong>visibility</strong>; ana <strong>resilience</strong> stratejileri oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41210]</p>

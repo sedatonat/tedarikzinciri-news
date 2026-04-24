@@ -77,11 +77,6 @@ The digital nature of the new system will provide advantages such as <strong>red
   <li style="text-align: justify"><p style="text-align: justify">The project is being implemented in integration with <strong>green logistics and digital transformation objectives.</strong></p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
+
 <p>Your feedback will make us happy.</p>
 <p>We wish you happy reading in advance.</p>

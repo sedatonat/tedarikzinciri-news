@@ -34,5 +34,3 @@ tags:
   <li><p>Gemi, sekiz hafta boyunca enkaz altında kaldı ve kontrollü patlamalarla serbest bırakıldı.</p></li>
   <li><p>Geminin 22 mürettebat üyesi, olaydan bu yana gemide mahsur kalmış ve sonunda serbest bırakılmışlardır.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

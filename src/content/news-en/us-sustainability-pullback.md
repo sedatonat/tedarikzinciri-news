@@ -27,11 +27,5 @@ tags:
 3. EV fleets and fuel programs are slowing.<br>
 4. ESG compliance maintains agenda momentum.<br>
 5. Regulations will accelerate sustainability again.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
 <p>Your feedback would make us happy.</p>
 <p>Wishing you happy reading ahead.</p>
-<p><br></p>
-<p>[785]</p>

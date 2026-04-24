@@ -30,8 +30,3 @@ tags:
 3. Proje; Haziran 2025'teki Xi'an Free Trade Port işbirliği mutabakat zaptının ürünü.<br>
 4. Servis; Shensi, Hebei, Shandong, Zhejiang ve Guangdong eyaletlerinden kargo konsolide ediyor.<br>
 5. Trenler haftalık program halinde çalışacak.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

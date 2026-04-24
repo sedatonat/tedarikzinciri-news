@@ -40,13 +40,3 @@ tags:
   <li><p>Pallet and cube optimization cuts carbon.</p></li>
   <li><p>Data integration strengthens compliance and speed.</p></li>
 </ul>
-<p>----------</p>
-<p>----------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" rel="noopener" target="_new"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>
-<p><br></p>
-<p>[899]</p>

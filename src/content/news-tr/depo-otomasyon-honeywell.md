@@ -27,8 +27,6 @@ tags:
 <p>Pandemi sonrası e-ticaretin hızlanmasıyla birlikte depo otomasyonuna olan talep arttı. Ancak 2022'de, pandemi sırasında oluşturulan fazla kapasiteye, e-ticaret oranlarındaki düşüşe ve küresel ekonominin genel yavaşlamasına yanıt olarak, robotlar dışındaki uçtan uca depo otomasyon teknolojilerine olan talep azaldı.</p>
 <p><br></p>
 <p>Yine de, Amazon gibi büyük depo operatörleri, işgücü zorluklarını yönetirken ve yüksek e-ticaret hacimleriyle başa çıkarken teknolojiye büyük yatırımlar yapmaya devam ediyor. Amazon, depo operasyonlarında kullanılmak üzere Digit adında iki bacaklı bir robotu test etmeye başlayacağını duyurdu.</p>
-<p><br></p>
-<p><br></p>
 <p><strong>Önemli Notalar:</strong></p>
 <ul>
   <li><p>E-ticaret gönderilerindeki artış ve işgücü sıkıntıları, depo otomasyon pazarı için olumlu trendler.</p></li>
@@ -37,5 +35,3 @@ tags:
   <li><p>Pandemi sonrası depo otomasyonuna talep arttı, fakat 2022'de azaldı.</p></li>
   <li><p>Büyük depo operatörleri, teknolojiye yatırım yapmaya devam ediyor.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

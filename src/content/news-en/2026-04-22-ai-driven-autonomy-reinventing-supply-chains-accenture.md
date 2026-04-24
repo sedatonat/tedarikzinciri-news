@@ -27,8 +27,3 @@ tags: ['yapay zeka', 'otonom tedarik zinciri', 'Accenture', 'Kris Timmermans', '
 3. Nearly 40% are targeting higher autonomy levels—with systems managing operational decisions.<br>
 4. Only 25% of participants have begun their autonomy journey—most remain in the human-based stage.<br>
 5. Autonomous supply chains span a spectrum from human-AI to autonomous to fully autonomous stages.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge through this link.</p>
-<p><br></p>
-<p>[42070]</p>

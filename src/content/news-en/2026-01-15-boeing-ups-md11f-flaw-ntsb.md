@@ -28,11 +28,3 @@ tags: ['Boeing', 'UPS', 'MD-11F', 'NTSB', 'BBC News', 'Louisville', 'kargo havac
 3. <strong>Boeing</strong> issued a service letter in 2011 informing operators.<br>
 4. The manufacturer had concluded that the issue would not pose a threat at the flight safety level.<br>
 5. The <strong>NTSB</strong> is refraining from comment until it publishes its final report.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>
-<p><br></p>
-<p>[43214]</p>

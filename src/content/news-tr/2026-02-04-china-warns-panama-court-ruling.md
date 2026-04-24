@@ -36,11 +36,3 @@ tags:
 3. <strong>Hong Kong and Macao Affairs Office</strong>, &ldquo;<strong>heavy price</strong>&rdquo; uyarısında bulunuyor.<br>
 4. <strong>Panama President Mulino</strong>, yargı bağımsızlığını öne sürerek tepkiyi reddediyor.<br>
 5. Karar, <strong>Trump</strong>&rsquo;ın Nisan&rsquo;daki <strong>China</strong> ziyareti öncesinde gerilimi büyütüyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43414]</p>

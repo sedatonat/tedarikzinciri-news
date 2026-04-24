@@ -36,10 +36,4 @@ tags:
 3. <strong>Panama Canal</strong>; küresel denizcilik hacminin yaklaşık %5&rsquo;ini taşıyor.<br>
 4. <strong>NZF</strong>; 2030-%20, 2040-%70, 2050 net-sıfır hedefliyor idi.<br>
 5. Oylama, Ekim 2025&rsquo;te 2026 sonuna ertelenmekte.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
 <p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p><br></p>
-<p>[43548]</p>

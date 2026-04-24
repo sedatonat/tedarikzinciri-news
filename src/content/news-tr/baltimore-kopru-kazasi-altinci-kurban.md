@@ -23,8 +23,6 @@ tags:
 <p>Kaza sonrasında tüm kurbanların kalıntılarını bulmak altı hafta sürdü, ilk iki kurban 28 Mart'ta bulunmuştu. Beşinci kurbanın kalıntıları, altıncı kurbanın bulunmasından dört gün önce kurtarma ekipleri tarafından tespit edilmişti.&nbsp;</p>
 <p><br></p>
 <p>Maryland Polis Teşkilatı'ndan Albay Roland L. Butler Jr., bu sürecin önemli bir kilometre taşı olduğunu ve bu trajik olayda yaşamını yitiren altı işçinin yakınlarına kapanış sağlamak adına önemli bir adım olduğunu belirtti. Baltimore Belediye Başkanı Brandon M. Scott, zor zamanlarda ailelere sürekli destek olacaklarını ve dualarının ailelerle olduğunu ifade etti.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>
   <li><p>Altıncı ve son kurbanın cesedi 7 Mayıs'ta bulundu.</p></li>
@@ -34,4 +32,3 @@ tags:
   <li><p>Albay Roland L. Butler Jr., bu sürecin önemli bir aşama olduğunu ve olayda hayatını kaybedenlerin ailelerine kapanış sağladığını belirtti.</p></li>
   <li><p>Baltimore Belediye Başkanı Brandon M. Scott, ailelere sürekli destek olacaklarını ve dualarının ailelerle olduğunu belirtti.</p></li>
 </ol>
-<p><br></p>

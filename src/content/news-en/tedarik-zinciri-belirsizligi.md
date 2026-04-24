@@ -44,13 +44,3 @@ tags:
   <li><p>Logistics contracts are being reconfigured.</p></li>
   <li><p>Control tower systems are accelerating exception management.</p></li>
 </ul>
-<p>----------</p>
-<p>----------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
-<p>We would appreciate your feedback.</p>
-<p>We wish you happy reading.</p>
-<p><br></p>
-<p>[921]</p>

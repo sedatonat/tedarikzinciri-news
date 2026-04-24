@@ -22,8 +22,3 @@ tags: ["Middle Corridor", "Trans-Caspian", "Kazakhstan", "Azerbaijan", "Irina Bi
 3. A few major European companies such as MSC and Maersk are active, but progress is slow.<br>
 4. Interest from Beijing and the Arab World in the corridor is rising rapidly.<br>
 5. Europe could lose the market if it does not step up.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

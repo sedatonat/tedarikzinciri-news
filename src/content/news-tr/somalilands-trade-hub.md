@@ -44,12 +44,3 @@ tags:
   <li><p><strong>Berbera Koridoru</strong>, limanı Etiyopya sınırına bağlayarak Etiyopya'nın denize erişimini çeşitlendirmeyi hedefliyordir.<a href="https://en.wikipedia.org/wiki/DP_World_Berbera_New_Port?utm_source=chatgpt.com" rel="noopener" target="_blank">Wikipedia</a></p></li>
   <li><p>Somaliland'ın uluslararası tanınma eksikliği, bölgedeki yatırımlar ve diplomatik ilişkiler üzerinde belirsizlikler yaratıyordır.<a href="https://www.ft.com/content/c4593986-94dd-478b-96db-ac070e99861e?utm_source=chatgpt.com" rel="noopener" target="_blank">Financial Times</a></p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

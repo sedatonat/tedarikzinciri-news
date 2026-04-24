@@ -21,8 +21,3 @@ tags: ["FESCO", "Kaliningrad", "Baltiysk", "FSKL", "FESCO Navarin", "FESCO Novik
 3. Road delivery distances to Kaliningrad Commercial Sea Port are shorter; last-mile delivery is optimised.<br>
 4. FSKL remains FESCO's first cabotage service in the Baltic.<br>
 5. The line operates with FESCO Navarin and FESCO Novik totalling over 1,400 TEU capacity.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

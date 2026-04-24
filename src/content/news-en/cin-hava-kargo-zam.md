@@ -55,11 +55,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">According to experts, this development is increasing the need for <strong>diversification in global supply chains</strong>.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">If new tariffs take effect, there is a risk of <strong>further increases in air transport costs and consumer prices</strong>.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book on How to Implement ERP has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

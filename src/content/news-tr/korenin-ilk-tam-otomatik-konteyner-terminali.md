@@ -26,8 +26,6 @@ tags:
 <p>Yeni terminalde yatay taşıma, Terminal İşletim Sistemi (TOS) henüz devreye alınmamışken kapsamlı bir şekilde test edildi. Piscesoft ve AKQUINET ortak firmaları, hibrit test senaryoları oluşturmak için işbirliği yaptı. AKQUINET’in CHESSCON simülasyon yazılımı sayesinde, gelecekteki TOS'tan gerekli tüm verilerle gerçek AGV'ler sağlanarak terminalde yatay trafik, henüz hiç gemi boşaltılmamışken gerçek koşullar altında çalıştırılabildi.&nbsp;</p>
 <p><br></p>
 <p>DGT’nin Yönetim ve İşletme Başkanı Jungwoo Kim, DGT'nin Dijital İkiz ortamını gerçek AGV'lerle entegre ederek doğrulama sürecini akıcı hale getiren yenilikçi yaklaşımını övdü ve endüstri içindeki verimlilik ve yenilikte yeni standartlar belirlediğini belirtti.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>
   <li><p>Busan Yeni Limanı, Kore'de ilk tam otomatik konteyner terminalini açtı.</p></li>
@@ -36,4 +34,3 @@ tags:
   <li><p>AKQUINET’in CHESSCON simülasyon yazılımı, gerçek koşullar altında test yapılmasını sağladı.</p></li>
   <li><p>DGT, Dijital İkiz ve gerçek AGV'lerin entegrasyonuyla doğrulama sürecini iyileştirdi.</p></li>
 </ol>
-<p><br></p>

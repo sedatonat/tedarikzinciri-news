@@ -30,8 +30,3 @@ tags:
 3. Platform, Singapur ile partner limanlar arasında elektronik gemi sertifikası değişimine olanak tanıyor.<br>
 4. OCEANS-X şu anda 100'den fazla API ve veri setini barındırıyor.<br>
 5. Sektör, akademi ve kamu seçilmiş veri setlerine erişebilecek; uygulama geliştirme için açık altyapı sağlanıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

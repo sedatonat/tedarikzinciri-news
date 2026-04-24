@@ -35,11 +35,3 @@ tags:
 3. <strong>AGMA One Device</strong>, <strong>CBP Donations Acceptance Program</strong> aracılığıyla kuruma bağışlanmakta.<br>
 4. 2025 yılında ele geçirilen <strong>79 milyon</strong> taklit ürün, yaklaşık <strong>7,3 milyar dolar</strong> <strong>MSRP</strong> değer taşıyor.<br>
 5. Model, <strong>&ldquo;operational friction&rdquo;</strong> yaratmadan kamu-özel iş birliğini sahaya taşıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43838]</p>

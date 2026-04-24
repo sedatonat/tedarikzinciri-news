@@ -31,4 +31,3 @@ tags:
   <li><p>No loss of life occurred, thanks to the absence of workers or operators in the vicinity at the time.</p></li>
   <li><p>The moments of fear experienced by workers were captured on mobile phone cameras.</p></li>
 </ol>
-<p><br></p>

@@ -36,8 +36,6 @@ tags:
 <p style="text-align: justify">The fact that ONE is headquartered in <strong>Singapore</strong> and has a strong Asia–Europe network indicates that the company maintains long-term strategic interest in this route. However, the current step is primarily aimed at <strong>maintaining market presence</strong> and offering customers alternative routing options. This return through slot charter demonstrates that the company is limiting its risk appetite while not wanting to completely miss out on commercial opportunities.</p>
 <p><br></p>
 <p style="text-align: justify">In the broader context, ONE's return to the Red Sea route shows that <strong>normalization signals</strong> in global container shipping remain fragile. Carriers closely monitor even the smallest changes in security conditions, structuring their operations around flexible and reversible models. The ONE example clearly demonstrates how critical <strong>flexible capacity management</strong> and partnerships have become in maritime transportation in this new era.</p>
-<p><br></p>
-<p style="text-align: justify"><br></p>
 <h3 style="text-align: justify"><strong>Key Points</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">ONE is returning to the Red Sea route through a slot charter model.</p></li>
@@ -46,14 +44,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">ONE is not sharing capacity allocation details.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The return is taking place in a cautious and limited manner due to security risks.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a>&nbsp;You can download and read it for free through the link above.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

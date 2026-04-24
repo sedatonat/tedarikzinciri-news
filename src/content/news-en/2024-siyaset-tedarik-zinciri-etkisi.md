@@ -43,5 +43,3 @@ tags:
   <li><p>Environmental regulations will play an important role in supply chains.</p></li>
   <li><p>Artificial intelligence use will increase, though new regulations are expected.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

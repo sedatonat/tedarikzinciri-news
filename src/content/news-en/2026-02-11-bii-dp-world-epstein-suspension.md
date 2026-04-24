@@ -20,11 +20,5 @@ tags: ['DP World', 'BII', 'Sultan Ahmed bin Sulayem', 'Jeffrey Epstein', 'liman 
 3. The allegations are based on correspondence between <strong>DP World CEO Sultan Ahmed bin Sulayem</strong> and <strong>Epstein</strong>.<br>
 4. The <strong>African platform</strong> jointly created by <strong>BII</strong> and <strong>DP World</strong> covers ports in <strong>Senegal</strong>, <strong>Egypt</strong>, and <strong>Somaliland</strong>.<br>
 5. <strong>BII</strong> identifies business integrity and gender equality as impact investment priorities.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge via this link.</p>
 <p>We would be delighted to hear your feedback.</p>
 <p>Wishing you happy reading.</p>
-<p><br></p>
-<p>[43456]</p>

@@ -48,8 +48,6 @@ tags:
 <p><br></p>
 <p><strong>Sonuç</strong></p>
 <p>Panama Kanalı üzerindeki kontrolün yeniden ele geçirilmesi fikri, bazı siyasi çevrelerde yankı bulsa da, tedarik zincirleri üzerindeki etkileri geniş kapsamlı olabilir. Kanal operasyonlarındaki aksaklıklar, artan jeopolitik gerilimler ve ekonomik istikrarsızlık, küresel ticaret ile ABD ve Panama ekonomilerini olumsuz etkileyebilir. Bu riskleri azaltmak için, tedarik zinciri paydaşlarının gelişmeleri yakından takip etmeleri ve olası senaryolara hazırlıklı olmaları önem taşıyordır.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li><p><strong>Operasyonel Belirsizlik:</strong> Kontrol değişikliği, kanal operasyonlarında belirsizliklere yol açabilir.</p></li>
@@ -59,12 +57,3 @@ tags:
   <li><p><strong>ABD Ticareti Üzerindeki Etkiler:</strong> Mevcut düzenlemelerin değişmesi, Amerikan ticaretini olumsuz etkileyebilir.</p></li>
   <li><p><strong>Sektör Endişeleri:</strong> Nakliye şirketleri ve perakendeciler, olası aksaklıklardan endişe duyuyordır.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

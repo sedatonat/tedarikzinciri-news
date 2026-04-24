@@ -38,5 +38,3 @@ tags:
   <li><p>A significant decline in transit fee revenue is projected for the Panama Canal.</p></li>
   <li><p>There is a decline in the number of U.S. LNG vessels, though the situation could change.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

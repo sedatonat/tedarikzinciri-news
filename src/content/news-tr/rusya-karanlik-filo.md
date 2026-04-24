@@ -68,11 +68,3 @@ LNG gibi <strong>izlenebilirliği yüksek bir emtia</strong> üzerinde dahi AIS 
   <li style="text-align: justify"><p style="text-align: justify"><strong>Birleşik Krallık’ın Beihai Terminali yaptırımı</strong>, Çin’in rotaları yeniden düzenlemesiyle etkisiz kalıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Gelişme, <strong>küresel enerji ticaretinde gölge operasyonların artan rolüne</strong> işaret ediyor.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a>&nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

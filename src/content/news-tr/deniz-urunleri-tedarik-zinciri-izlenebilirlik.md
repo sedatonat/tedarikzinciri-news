@@ -25,8 +25,6 @@ tags:
 <p><a href="https://www.traceregister.com/"><u>Trace Register</u></a>, 2005 yılından bu yana deniz ürünleri tedarikçileriyle düzenleyici, gıda güvenliği ve sürdürülebilirlik amaçları için izlenebilirlik verilerini paylaşıyordır. <a href="https://repositrak.com/"><u>ReposiTrak </u></a>ise 30.000 şirketi kapsayan bir ağa sahip olup, bu şirketler düzenleyici, finansal ve uyum belgelerini, ayrıca izlenebilirlik verilerini paylaşıyordır.&nbsp;</p>
 <p><br></p>
 <p>Yeni iş birliği, <a href="https://en.wikipedia.org/wiki/Food_and_Drug_Administration"><u>FDA </u></a>tarafından gerekli olan Anahtar Veri Elemanlarının (KDEs) hızlı ve kolay bir şekilde paylaşılmasını sağlıyor. Bu durum, her iki şirketin veri setlerinin tamamlayıcı yönlerini birleştirerek, deniz ürünleri tedarikçilerinden toplanan KDE'leri, perakendeciler ve toptancılara, ek bir portal veya sisteme giriş yapmadan doğrudan iletebilmesine olanak tanıyor.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>
   <li><p><a href="https://www.traceregister.com/"><u>Trace Register</u></a> ve <a href="https://repositrak.com/"><u>ReposiTrak</u></a>, FSMA 204 yönetmeliğine uyumu kolaylaştırmak için iş birliği yapıyordır.</p></li>
@@ -35,4 +33,3 @@ tags:
   <li><p><a href="https://repositrak.com/"><u>ReposiTrak</u></a>, 30.000 şirketi kapsayan bir ağa sahip olup, düzenleyici, finansal ve uyum belgelerini, ayrıca izlenebilirlik verilerini paylaşıyordır.</p></li>
   <li><p>Yeni iş birliği, deniz ürünleri tedarikçilerinden toplanan KDE'leri, perakendeciler ve toptancılara ek bir portal veya sistem kullanımı olmaksızın iletebilmesine olanak tanır.</p></li>
 </ol>
-<p><br></p>

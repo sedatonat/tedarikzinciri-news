@@ -46,11 +46,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Levi Strauss</strong>, analistlere göre bu durumdan korunmuş görünüyordir.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Olası tarifeler, moda endüstrisinin tedarik zincirinde önemli değişikliklere ve maliyet artışlarına yol açabilir.</p></li>
 </ul>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

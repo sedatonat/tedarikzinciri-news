@@ -29,8 +29,6 @@ tags:
 <p>DP World Yarimca'nın CEO'su Kris Adams, bu yeni kara yolu güzergahının hız ve fiyat açısından orta bir yol sunduğunu ve küresel aksamalar sırasında müşterilere yardımcı olmak için tasarlandığını belirtti. Hava yolu taşımacılığı hız sunarken, maliyetli ve kapasite yetersizliği gibi sorunlara sahiptir. Yeni güzergah, kaynaktan varış noktasına kadar sorunsuz ve verimli bir taşıma süreci sağlamak için demiryolu ve kamyon hizmetlerini kullanıyordır.</p>
 <p><br></p>
 <p>DP World Avrupa CEO'su ve MD'si Rashid Abdulla, yeni güzergahın Avrupa'daki ticareti kolaylaştırma taahhüdümüzü ve müşterilerimiz için acil sorunlara hızlı çözümler geliştirme yeteneğimizi sergilediğini ifade etti. Abdulla, küresel tedarik zincirlerini desteklemeye ve ticareti sürdürmeye devam etme konusundaki kararlılıklarını vurguladı.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ol>
   <li><p>DP World, Türkiye'deki otomotiv endüstrisi için ham madde kıtlıklarını çözmek üzere yeni güzergahlar oluşturdu.</p></li>
@@ -38,5 +36,3 @@ tags:
   <li><p>DP World, Çin demiryollarını kullanarak daha hızlı ve ekonomik bir alternatif sunuyordır.</p></li>
   <li><p>2025'te Gürcistan üzerinden geçecek yeni bir güzergah devreye girecek.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

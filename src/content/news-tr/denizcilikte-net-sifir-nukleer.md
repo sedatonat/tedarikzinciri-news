@@ -45,12 +45,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Teknolojik gelişmelerin ötesinde, yeni kamu/özel sektör ortaklıklarına, sigorta modellerinin revizyonuna, düzenleyici boşlukların kapatılmasına, küresel lisanslama standartlarının geliştirilmesine ve mürettebat eğitimi için yatırımlara ihtiyaç duyuluyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>ABS</strong>, yüzer nükleer enerji için sektörün ilk kapsamlı kurallarını yayınladı ve bu kurallar ücretsiz olarak indirilebiliyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

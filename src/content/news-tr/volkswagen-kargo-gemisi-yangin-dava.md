@@ -40,5 +40,3 @@ tags:
   <li><p>Araç kayıpları ve Ultimae Aventador'lar dahil milyonlarca dolarlık zarar meydana geldi.</p></li>
   <li><p>Zararın maliyeti 334 ile 401 milyon ABD doları arasında tah</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

@@ -25,8 +25,3 @@ tags: ["linx", "interpack 2026", "mürekkep püskürtmeli yazıcı", "cij", "kod
 3. The new series is based on continuous ink jet (CIJ) technology.<br>
 4. Senior Product Director Mark Cooper highlights high reliability and low maintenance cost.<br>
 5. CIJ technology is the standard on high-speed packaging lines in food, pharma and cosmetics.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

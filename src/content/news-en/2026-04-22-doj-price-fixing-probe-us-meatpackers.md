@@ -20,9 +20,3 @@ tags: ['DOJ', 'et paketleyici', 'National Beef', 'Cargill', 'Tyson Foods', 'JBS'
 3. <strong>U.S.</strong> cattle herds are at their lowest level since 1951.<br>
 4. <strong>Tyson</strong> and <strong>Cargill</strong> agreed to pay an $87.5 million class-action settlement in January 2026.<br>
 5. <strong>New World screwworm</strong> is reemerging, creating additional pressure on cattle ranchers.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book is Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[43899]</p>

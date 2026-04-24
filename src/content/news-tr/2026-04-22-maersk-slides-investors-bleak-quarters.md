@@ -35,8 +35,3 @@ tags:
 3. Konteyner pazar büyüme tahmini %2-%4&rsquo;ten %4&rsquo;e revize ediliyor.<br>
 4. <strong>Mikkel Emil Jensen</strong>; <strong>Sydbank</strong>; Q3 raporunu &ldquo;balon&rdquo; olarak değerlendiriyor.<br>
 5. Yatırımcılar; önümüzdeki çok zor kazanç koşullarına karşı endişe duyuyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42810]</p>

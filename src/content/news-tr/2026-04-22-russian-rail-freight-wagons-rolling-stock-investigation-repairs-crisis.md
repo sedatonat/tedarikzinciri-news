@@ -27,8 +27,3 @@ tags:
 3. Durumu tersine çevirmek için onarım hızının iki katına çıkarılması gerekiyor.<br>
 4. Batılı parça tedarikçilerinin çekilmesi ve yaptırımlar filonun yaşlanmasını hızlandırdı.<br>
 5. Sektör; yaklaşan kışta kömür sevkiyatlarının aksamaması için acil tedbirler talep ediyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

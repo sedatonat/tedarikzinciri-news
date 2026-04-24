@@ -35,8 +35,3 @@ tags:
 3. <strong>Infios</strong>; eski <strong>K&ouml;rber Supply Chain Software</strong>; 2024 yeniden markalama oluyor.<br>
 4. <strong>BOPIS</strong>; <strong>ship from store</strong>; <strong>endless aisle</strong>; ana omnichannel kullanım durumları oluyor.<br>
 5. <strong>composable commerce</strong>; <strong>headless</strong>; <strong>API-first</strong>; ana modern mimari trendleri oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41620]</p>

@@ -28,10 +28,4 @@ tags: ['feribot', 'hava kirliliği', 'SOx', 'Transport Environment', 'Avrupa lim
 3. In <strong>Barcelona</strong>, ferries produce 1.8 times more <strong>SOx</strong> than automobiles.<br>
 4. The <strong>North-East Atlantic ECA</strong> is scheduled to take effect in 2027.<br>
 5. <strong>T&amp;E</strong> highlights that approximately 2,000 aging ferries are the primary culprits.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free through this link.</p>
 <p>We would be delighted to receive your feedback.</p>
-<p><br></p>
-<p>[43584]</p>

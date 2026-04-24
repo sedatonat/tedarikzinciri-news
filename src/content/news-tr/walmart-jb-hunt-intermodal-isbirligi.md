@@ -33,5 +33,3 @@ tags:
   <li><p>J.B. Hunt, Walmart ile onlarca yıldır yakın iş birliği içinde.</p></li>
   <li><p>Anlaşma, karşılıklı güven ve ortak vizyonun bir sonucu olarak değerlendiriliyor.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

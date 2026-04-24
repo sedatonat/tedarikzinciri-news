@@ -38,12 +38,5 @@ tags:
   <li><p>HMM experienced the largest monthly decline of 7.8 percentage points.</p></li>
   <li><p>On a year-on-year basis, MSC and Wan Hai recorded the largest declines.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book is Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
 <p>We would be happy to hear your feedback.</p>
 <p>Wishing you happy reading.</p>

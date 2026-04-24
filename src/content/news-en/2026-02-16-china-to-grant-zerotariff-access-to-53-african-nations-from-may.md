@@ -28,7 +28,3 @@ tags:
 <p style="text-align: justify">From a supply chain perspective, this arrangement adds further volume to China-Africa logistics corridors developing under the <strong>Belt and Road Initiative</strong> framework. Chinese logistics giants such as <strong>COSCO</strong>, <strong>China Merchants Group</strong> and <strong>Sinotrans</strong> are expected to see increased container volumes on Africa routes. At the same time, the economic rationale strengthens for infrastructure investments such as the Lobito Corridor, the Mombasa-Nairobi line and the Djibouti-Addis Ababa railway projects.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, for the U.S. and the <strong>European Union</strong>, this development serves as a clear signal that an alternative bloc is taking shape in the global trade order at an accelerating pace. In the context of the <em>African Continental Free Trade Area</em> (AfCFTA), China's tariff cuts &mdash; combined with intra-African integration &mdash; are redefining the continent's position in global value chains. For Western companies, this means heightened competition from Chinese rivals in African-origin sourcing.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43483]</p>

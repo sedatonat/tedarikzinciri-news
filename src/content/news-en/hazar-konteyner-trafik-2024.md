@@ -48,12 +48,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Caspian Sea</strong> ports are implementing various measures to expand capacity and improve service quality in response to growing trade volumes.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The security of trade routes through the <strong>Caspian Sea</strong> is of critical importance to regional countries, and cooperation in this area is ongoing.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book "How to Acquire ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge through this link.</p>
-<p>We would be delighted to hear your feedback.</p>
-<p>We wish you happy reading.</p>

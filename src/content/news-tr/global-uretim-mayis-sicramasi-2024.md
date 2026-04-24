@@ -27,8 +27,6 @@ tags:
 <p>Kuzey Amerika'ya tedarikçiler de Mayıs ayında daha yoğun hale geldi ve kapasiteleri biraz zorlandı. Bu, kısmen ABD ve Meksika'daki işletmeler için daha destekleyici talep koşullarını yansıtıyordu. Avrupa pazarı ise, 2022 ortalarından bu yana geride kalmasına rağmen, Mayıs ayında önemli bir iyileşme gösterdi fakat hala negatif bölgede.</p>
 <p><br></p>
 <p>GEP Consulting Başkan Yardımcısı Mudit Kumar, "Mayıs ayında gördüğümüz geniş tabanlı patlama, 2024'ün ikinci yarısına girerken küresel ekonomi için oldukça cesaret verici bir işaret" dedi. "Bu trend devam ederse, işletmeler, özellikle birçok emtianın maliyetindeki son artış göz önüne alındığında, satıcıların fiyatları artırma çabalarının yenilendiğini görebilirler."</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>
   <li><p><strong>Küresel Üretim Artışı:</strong> Mayıs ayında küresel üretim faaliyetlerinde önemli bir artış yaşandı.</p></li>
@@ -41,4 +39,3 @@ tags:
   <li><p><strong>Fiyat Artışları:</strong> Emtia maliyetlerindeki artış nedeniyle, satıcıların fiyatları artırma çabaları bekleniyor.</p></li>
   <li><p><strong>Gelecek Görünümü:</strong> 2024'ün ikinci yarısı için güçlü bir ekonomik görünüm öngörülüyor.</p></li>
 </ol>
-<p><br></p>

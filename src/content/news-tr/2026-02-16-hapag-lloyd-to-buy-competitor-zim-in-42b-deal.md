@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Hamburg merkezli taşıyıcı; hafta sonu boyunca anlaşmaya yaklaştığını bildiriyor. Sektörde; pandemi yıllarındaki kazançlı dönemden gelen düşen navlun ücretleri ve taşıyıcıların talebi karşılamak için rekor sayıda gemi sipariş etmesi nedeniyle artan konsolidasyon baskısı hâkim oluyor. Hem Hapag-Lloyd hem de ZIM; son dönemde küçülen kârlar raporluyor. Hayfa merkezli ZIM; resmi raporlara göre 130 konteyner gemisi ve 15 araç taşıyıcı gemi dahil olmak üzere 145 gemi işletiyor.</p>
 <p><br></p>
 <p style="text-align: justify">Şirket; «<em>charter-intensive fleet model</em>» veya «<em>asset-light</em>» yaklaşımı benimsediğini söylüyor; bu da gemilerinin büyük bölümünün sahip olunandan çok kiralanan niteliğe büründüğü anlamına geliyor. <strong>İsrail hükümeti</strong>; ZIM'i stratejik bir varlık olarak görüyor ve şirkette kritik kararlar üzerinde kontrol sağlayan bir altın hisseye sahip bulunuyor. Tedarik zinciri perspektifinden bakıldığında bu birleşme; küresel konteyner pazarındaki ilk üç oyuncunun («Big 3») gücünü daha da pekiştiriyor ve özellikle Asya-Akdeniz koridorunda kapasite ile fiyatlandırma dinamiklerini önemli ölçüde değiştiriyor.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43484]</p>

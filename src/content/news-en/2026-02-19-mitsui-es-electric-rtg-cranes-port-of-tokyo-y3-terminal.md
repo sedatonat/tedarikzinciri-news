@@ -23,8 +23,3 @@ tags: ["MITSUI E&S", "Port of Tokyo", "Tokyo Port Terminal Corporation", "RTG vi
 3. Delivery will be completed by the end of March 2028.<br>
 4. Powered by an electrical busbar instead of diesel gensets, the cranes produce zero on-site emissions.<br>
 5. The order strengthens MITSUI E&S's position in the electrification race among Asia's container gateways.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

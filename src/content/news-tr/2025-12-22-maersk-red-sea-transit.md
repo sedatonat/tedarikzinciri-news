@@ -36,11 +36,3 @@ tags:
 3. <strong>Maersk</strong>, <strong>&ldquo;stepwise approach&rdquo;</strong> ile sınırlı sayıda ek <strong>trans-Suez</strong> sefer planlıyor.<br>
 4. <strong>CMA CGM</strong>, Ocak 2026&rsquo;da <strong>India-Mediterranean Express</strong>&rsquo;i yeniden başlatmayı planlıyor.<br>
 5. <strong>Ocean Network Express</strong>, 15 Ocak&rsquo;ta <strong>Red Sea-China</strong> hattını devreye alıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43033]</p>

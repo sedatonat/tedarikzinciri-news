@@ -36,10 +36,4 @@ tags:
 3. <strong>China</strong>; iddiaları reddediyor; sözcü <strong>Lin Jian</strong> tepki veriyor.<br>
 4. <strong>CK Hutchison</strong>; <strong>Panama</strong>&rsquo;ya karşı 2+ milyar dolar tahkim açıyor.<br>
 5. Gerilim; <strong>Trump</strong>&rsquo;ın Mayıs&rsquo;taki <strong>Beijing</strong> ziyareti öncesi yükseliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
 <p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p><br></p>
-<p>[43786]</p>

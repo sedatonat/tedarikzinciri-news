@@ -33,4 +33,3 @@ tags:
   <li><p><a href="https://www.libiaorobot.com/en"><u>LiBiao Robotics</u></a>'in Avrupa ve küresel müşteri tabanı büyüyor; 2024'te 30 milyar parselin işlenmesi bekleniyor.</p></li>
   <li><p>Şirket, Frankfurt, Almanya'da Avrupa merkezine sahip ve geniş bir yetkili bayi ağı tarafından destekleniyor.</p></li>
 </ul>
-<p><br></p>

@@ -23,8 +23,3 @@ tags: ["Coneksion", "Hapag-Lloyd", "Live Position", "SAP", "IoT", "konteyner izl
 3. Live Position is delivered via the Hapag-Lloyd Online Business Suite and a dedicated API.<br>
 4. The integration eliminates the custom development customers previously needed to ingest the data.<br>
 5. The solution provides real-time container visibility within S/4HANA TM and other SAP modules.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

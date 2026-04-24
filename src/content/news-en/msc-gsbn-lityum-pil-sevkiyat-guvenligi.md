@@ -36,4 +36,3 @@ tags:
   <li><p><a href="https://en.wikipedia.org/wiki/Global_shipping_network"><u>GSBN</u></a> plans to expand its collaboration and offer more certificates.</p></li>
   <li><p><a href="https://en.wikipedia.org/wiki/Hapag-Lloyd"><u>Hapag-Lloyd</u></a> is adopting <a href="https://en.wikipedia.org/wiki/Global_shipping_network"><u>GSBN</u></a>'s electronic bill of lading (eBL) solution and aims for 100% electronic bills of lading by 2030.</p></li>
 </ol>
-<p><br></p>

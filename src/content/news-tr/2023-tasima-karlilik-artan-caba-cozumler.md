@@ -24,8 +24,6 @@ tags:
 <p>Bu zorluklar, sigorta maliyetlerindeki artış, artan nakliye dolandırıcılığı ve hırsızlık endişeleri gibi sorunların üstesinden gelmek zorunda kalan şirketler, yakıt giderlerindeki azalma sayesinde mil başına düşen maliyetlerde düşüş yaşadı. <a href="https://truckstop.com/about/"><u>Truckstop </u></a>CEO'su <a href="https://www.linkedin.com/in/kendra-tucker-4102491/"><u>Kendra Tucker</u></a>, taşıyıcıların her gün değişken piyasa koşulları, dolandırıcılık faaliyetleri ve dalgalanan kar marjları gibi birçok iş zorluğuyla karşı karşıya kaldıklarını belirtti.</p>
 <p><br></p>
 <p>Şirket, kullanıcılarının bu sorunlarla başa çıkabilmesi için Genişletilmiş Arama Sonuçları ve Rota Haritası gibi yeni operasyon özellikleri sunmuş ve yük panosu, faktöring ve RMIS taşıyıcı kullanıcıları için çok faktörlü kimlik doğrulama (MFA) gerekliliği getirdi.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ul>
   <li><p>2023'te taşıyıcılar, karlı kalmak adına ekstra 3,000 mil sürmüş ve ayda iki fazla yük taşımışlar.</p></li>
@@ -33,4 +31,3 @@ tags:
   <li><p>Yakıt giderlerindeki düşüş, mil başına maliyetleri azaltmış.</p></li>
   <li><p>Truckstop, kullanıcılarını desteklemek için yeni özellikler ve çok faktörlü kimlik doğrulama gerekliliği sunmuş.</p></li>
 </ul>
-<p><br></p>

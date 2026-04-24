@@ -29,11 +29,5 @@ tags:
 3. AI procurement balances carbon and cost.<br>
 4. Waste-to-value generates additional revenue.<br>
 5. Sustainability creates net profitability.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
 <p>We would be pleased to receive your feedback.</p>
 <p>Wishing you happy reading in advance.</p>
-<p><br></p>
-<p>[822]</p>

@@ -27,9 +27,3 @@ tags: ['bölgesel tedarik zinciri', 'nearshoring', 'regionalization', 'pandemi',
 3. Companies are shifting toward manufacturing and sourcing closer to markets.<br>
 4. Regionalization reduces exposure to geopolitical, trade, and disaster risks.<br>
 5. <strong>Mexico</strong> has become <strong>U.S.</strong>'s largest trading partner.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[43704]</p>

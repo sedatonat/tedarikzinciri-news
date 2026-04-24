@@ -27,4 +27,3 @@ tags:
   <li><p>Kaza sonucu geminin üzerine düşen kreyn bomu, geminin hareketini kısıtladı.</p></li>
   <li><p>Gemi, kreyn bomunun kaldırılması sonrası rıhtımdan ayrıldı.</p></li>
 </ol>
-<p><br></p>

@@ -37,13 +37,6 @@ tags:
   <li><p>Vendor risk assessments will be strengthened.</p></li>
   <li><p>Contractual security requirements will be enhanced.</p></li>
 </ul>
-<p>----------</p>
-<p>----------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" rel="noopener" target="_new">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via the link above.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading.</p>
-<p><br></p>
-<p>[885]</p>

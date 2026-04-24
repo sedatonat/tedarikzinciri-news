@@ -31,8 +31,3 @@ tags:
 3. Yeni saha East Med Hub 2 (EMH2) adıyla bilinen genişleme bölgesinde konuşlandırıldı.<br>
 4. EMH2'de 4 adet STS vinci ve 14 adet tam otomatik aRMG vinci faaliyete geçti.<br>
 5. Yatırım, Mersin'in Doğu Akdeniz'deki transit merkezi konumunu güçlendirecek.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

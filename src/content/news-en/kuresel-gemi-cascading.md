@@ -47,14 +47,8 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>97 percent</strong> of displaced vessels did not return to their previous routes</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The process is being evaluated as permanent rather than temporary <strong>capacity redistribution</strong></p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book on How to Implement ERP Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via this link.</p>
 <p>We would be delighted to hear your feedback.</p>
 <p>We wish you happy reading in advance.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

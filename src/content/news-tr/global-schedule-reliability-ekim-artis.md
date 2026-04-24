@@ -40,13 +40,3 @@ tags:
   <li><p>2024 yılı genelinde sefer güvenilirliği genellikle %50-%55 arasında seyretti.</p></li>
   <li><p>Yıllık bazda top-13 taşıyıcının 12’si sefer güvenilirliğinde çift haneli düşüşler yaşadı.</p></li>
 </ul>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

@@ -33,4 +33,3 @@ tags:
   <li><p>Spirit AeroSystems, çalışanları endişelerini dile getirmeye teşvik ediyor ve iş yerinde güvenlik standartlarını iyileştirmeye devam ettiğini söylüyor.</p></li>
   <li><p>Bu iddialar, Boeing 787 Dreamliner uçaklarının gövdelerinin doğru şekilde birleştirilmediği ve zamanla parçalanabileceği iddialarıyla aynı döneme denk geliyordir.</p></li>
 </ol>
-<p><br></p>

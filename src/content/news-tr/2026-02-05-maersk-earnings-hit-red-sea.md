@@ -36,11 +36,3 @@ tags:
 3. <strong>Red Sea</strong>&rsquo;in açılması, küresel kapasitenin %6-7&rsquo;sini serbest bırakıyor olduğu öngörülüyor.<br>
 4. <strong>Maersk</strong>, hisse geri alımını kısmakta ve 1.000 idari pozisyonu lağvediyor.<br>
 5. <strong>ME11</strong> hattı Şubat ortasında <strong>Suez Canal</strong> üzerinden yeniden çalışıyor olmayı planlıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43427]</p>

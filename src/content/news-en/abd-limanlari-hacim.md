@@ -42,12 +42,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">In 2023, port volumes returned to pre-pandemic levels, but East Coast ports increased their market share.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">In 2024, import volumes are expected to rise, which is being viewed as an indicator of economic recovery.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge through this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

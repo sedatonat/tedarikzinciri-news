@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">For example, a buyer navigating a procurement platform does not need to remember steps from a training session when they receive contextual instructions directly in the application, triggered by their activity. That means fewer mistakes, faster onboarding and more consistent process adherence, all without leaving the software they are working in. Modern supply chain visibility now extends beyond shipment tracking. It includes insight into how users engage with the software that drives operations.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, adoption rates across <strong>SAP Fiori</strong>, <strong>Oracle Redwood</strong> and <strong>Microsoft Dynamics 365</strong> interfaces typically remain in the 40-60% band, leaving millions of dollars in annual license and training investment underutilized. <strong>Digital adoption platform (DAP)</strong> solutions such as <strong>WalkMe</strong>, <strong>Pendo</strong> and <strong>Whatfix</strong> are emerging as a critical tooling layer to close that adoption gap. For <strong>S&OP</strong>, <strong>MRP</strong> and <strong>WMS</strong> users, in-context guidance accelerates ROI and shortens transformation timelines.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43247]</p>

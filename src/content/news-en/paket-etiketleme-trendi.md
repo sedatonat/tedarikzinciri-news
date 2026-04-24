@@ -78,12 +78,5 @@ In short, <strong>labeling is no longer a routine task but a strategic component
   <li style="text-align: justify"><p style="text-align: justify">Labels are no longer mere information carriers but are taking on a strategic role as <strong>indicators of performance, trust, and sustainability</strong>.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
+
 <p><strong>Source: </strong><a href="https://www.supplychain247.com/article/four-package-labeling-trends-supply-chain-leaders-should-watch"><u>https://www.supplychain247.com/article/four-package-labeling-trends-supply-chain-leaders-should-watch</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book "How to Procure ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p>You can download and read it for free at <a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a>.</p>
-<p>We would be delighted to hear your feedback.</p>
-<p>We wish you happy reading.</p>

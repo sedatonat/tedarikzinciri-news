@@ -42,14 +42,6 @@ tags:
 </ul>
 <p style="text-align: justify">Yeni LCP endeksi, halihazırda World Bank–S&amp;P Global tarafından yayımlanan <strong>Container Port Performance Index (CPPI)</strong> ile rekabet edecek. CPPI’nin son raporunda birinci olan Şanghay dikkat çekerken, Singapur ilk 10’a bile girememişti. Yeni LCP metodolojisi ise limanların <strong>geniş kapsamlı etki ve dönüşüm kapasitesini</strong> daha fazla ön plana çıkarıyor.</p>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

@@ -90,12 +90,3 @@ This mechanism was also the legal basis for the 2018 trade war.</p>
   <li style="text-align: justify"><p style="text-align: justify">This move could trigger <strong>a new wave of tension in US–China relations following the tariff ceasefire</strong>.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Experts point out that this investigation signals the Trump administration's <strong>renewed pressure campaign against China</strong>.</p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Get ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

@@ -47,12 +47,3 @@ tags:
   <li><p><strong>Washington State Ferries</strong> ile beş yeni hibrit feribot için tahrik sistemleri konusunda anlaşma sağlandı.</p></li>
   <li><p><strong>ABB Azipod®</strong> tahrik sistemi, <strong>İspanyol Donanması</strong>'nın amiral gemisi <strong>Juan Carlos I</strong>'in modernizasyonunda kullanılıyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

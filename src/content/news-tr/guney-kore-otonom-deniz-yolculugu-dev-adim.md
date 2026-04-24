@@ -28,8 +28,6 @@ tags:
 <p><a href="https://www.imo.org/"><u>Uluslararası Denizcilik Örgütü'nün (IMO)</u></a> Denizde Otonom Yüzey Gemileri (MASS) için düzenleyici çerçevesine göre, derece 3 otonomi, geminin denizciler olmadan başka bir yerden kontrol edilip işletildiği durumu ifade eder. Pos Singapore'un bu ay içinde Pan Ocean'a teslim edilmesi bekleniyor.&nbsp;</p>
 <p><br></p>
 <p>Geçen yıl, Güney Kore hükümeti, yeni nesil gemi inşa teknolojisi ve karbonsuz yakıtlara 710 milyar KRW (545 milyon dolar) yatırım yapmayı planladığını açıkladı. Hükümet, diğer projelerin yanı sıra, otonom kendiliğinden yönlenebilen gemilerin erken ticarileştirilmesini destekleyecek.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ul>
   <li><p>Güney Kore'nin ilk otonom navigasyon için tasarlanmış pilot gemisi tanıtıldı.</p></li>
@@ -39,5 +37,3 @@ tags:
   <li><p>Derece 3 otonom operasyon, denizciler olmadan uzaktan kontrol edilen gemileri ifade eder.</p></li>
   <li><p>Güney Kore hükümeti, yeni nesil gemi inşa teknolojisine ve karbonsuz yakıtlara büyük yatırım yapmayı planlıyor.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

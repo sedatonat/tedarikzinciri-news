@@ -28,8 +28,3 @@ tags:
 3. Platform; Rheinmetall Deniz Sistemleri ve İngiliz Kraken Technology Group tarafından birlikte geliştirildi.<br>
 4. Araç; gözetim, kritik altyapı koruması ve silah taşıma konfigürasyonlarıyla sunuluyor.<br>
 5. USV'ler Ukrayna savaşı ve Kızıldeniz krizi gibi çatışma alanlarında stratejik araç haline geldi.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

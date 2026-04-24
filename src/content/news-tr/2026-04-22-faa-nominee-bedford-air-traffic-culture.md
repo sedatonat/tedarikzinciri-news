@@ -35,8 +35,3 @@ tags:
 3. <strong>Sean Duffy</strong>; Mayıs&rsquo;ta sistem yükseltme teklifi sunuyor.<br>
 4. <strong>House</strong> ve <strong>Senate</strong>; her biri 12,5 milyar dolar tahsis öneriyor.<br>
 5. Ocak 2025 <strong>Washington D.C.</strong> çarpışması; 67 ölü ile 16 yılın en ölümcül kazası oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41930]</p>

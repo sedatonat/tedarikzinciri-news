@@ -31,4 +31,3 @@ tags:
   <li><p><strong>Yük Miktarları:</strong> Haziran ayında 2.16 milyon TEU, Temmuz ayında 2.34 milyon TEU kargo işleme.</p></li>
   <li><p><strong>NRF'nin Tavrı:</strong> Tarafların anlaşmaya varmasının gerekliliği ve grevin ekonomik zararları.</p></li>
 </ol>
-<p><br></p>

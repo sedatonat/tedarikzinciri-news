@@ -36,10 +36,4 @@ tags:
 3. Bölge etkisi 2003 <strong>Gulf War</strong> seviyesine yakın ya da daha şiddetli boyutlara ulaşabiliyor.<br>
 4. <strong>S&amp;OP</strong> ile <strong>tower</strong> izleme; ilk hafta karar desteğinde kritik rol oynuyor.<br>
 5. Etki, <strong>Middle East</strong> sınırlarının çok ötesine yayılabiliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
 <p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p><br></p>
-<p>[43573]</p>

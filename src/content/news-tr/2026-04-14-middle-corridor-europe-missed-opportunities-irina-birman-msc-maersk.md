@@ -30,8 +30,3 @@ tags:
 3. MSC ve Maersk gibi birkaç büyük Avrupalı şirket bölgede aktif ama ilerleme yavaş.<br>
 4. Pekin ve Arap dünyasının koridora ilgisi hızla artıyor.<br>
 5. Avrupa adım atmazsa pazarı kaybedebilir.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify"><strong>American Maritime Officers</strong> (AMO) — the union representing U.S. merchant marine officers — praised the appointment in a December 19 news release, calling Carmel "the right choice" to lead MARAD. AMO national president Willie Barrere noted that Carmel brings extensive experience and knowledge as a business leader to the job, combined with a career as a maritime officer. "He knows what it takes to help the U.S. maritime industry grow and succeed," Barrere said.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the appointment is a tangible signal of the Trump administration's "Made in America"-anchored maritime policy. Rebuilding domestic shipbuilding capacity is strategically important for reducing reliance on Chinese yards, but achieving that goal will require decades of sustained investment and workforce development. Container carriers, tanker operators and port authorities will need to prepare for a new wave of MARAD-driven incentive programs and regulatory frameworks in the period ahead.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43032]</p>

@@ -38,12 +38,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Proje maliyeti yaklaşık 76.220 crore ₹ olarak tahmin ediliyor ve <strong>Vadhavan Port Project Limited (VPPL)</strong> tarafından yürütülecek.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Liman, ultra büyük konteyner gemilerini barındırabilecek kapasitede olacak ve Hindistan'ın deniz taşımacılığı kapasitesini artırmayı hedefliyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

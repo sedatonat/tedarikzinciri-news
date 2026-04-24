@@ -35,8 +35,6 @@ tags:
 <p>Bu satınalma, <a href="https://www.accenture.com/us-en"><u>Accenture’ın </u></a>özel sermaye müşterilerine yönelik yeteneklerini genişletme stratejisinin bir parçası. <a href="https://www.insightsourcing.com/"><u>Insight Sourcing</u></a>, Kuzey Amerika'daki en büyük 25 fondan 10'u dahil olmak üzere bu endüstride 60'tan fazla şirkete hizmet veriyor. <a href="https://www.accenture.com/us-en"><u>Accenture</u></a>, özel sermaye şirketlerine destek olan <a href="https://impendi.com/"><u>Impendi </u></a>ve <a href="https://www.theshelbygroup.com/"><u>The Shelby Group</u></a> gibi diğer kaynak ve satınalma hizmet sağlayıcılarını da son zamanlarda bünyesine katmıştı.</p>
 <p><br></p>
 <p><a href="https://www.accenture.com/us-en/about/leadership/leadership-index"><u>Accenture Strateji Global Lideri</u></a> <a href="https://www.linkedin.com/in/muqsitashraf/"><u>Muqsit Ashraf</u></a>, bu satın almanın özel sermaye yatırımcılarının değer yaratan, özelleştirilmiş ve tekrarlanabilir çözümler arayışına yanıt olarak yapıldığını belirtti. <a href="https://www.insightsourcing.com/"><u>Insight Sourcing</u></a>'in eklenmesiyle birlikte, <a href="https://www.accenture.com/us-en"><u>Accenture</u></a>'ın strateji, danışmanlık, teknoloji ve yönetilen hizmetler alanlarındaki kanıtlanmış uzmanlığına kritik harcama ve kaynak yetenekleri eklenmiş olacak.</p>
-<p><br></p>
-<p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
   <li><p>Accenture, Insight Sourcing’i satın alacak.</p></li>
@@ -46,4 +44,3 @@ tags:
   <li><p>Insight Sourcing, Kuzey Amerika'daki büyük özel sermaye fonlarına hizmet veriyor.</p></li>
   <li><p>Accenture, özel sermaye için strateji, danışmanlık, teknoloji ve yönetilen hizmetler alanlarında uzmanlık sunuyor.</p></li>
 </ul>
-<p><br></p>

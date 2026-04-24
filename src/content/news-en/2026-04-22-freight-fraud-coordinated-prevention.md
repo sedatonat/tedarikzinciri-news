@@ -27,8 +27,3 @@ tags: ['yük dolandırıcılığı', 'kargo hırsızlığı', 'CargoNet', 'organ
 3. Freight fraud has experienced increases exceeding 1,500% since 2020.<br>
 4. Average theft value reaches 200K dollars per incident.<br>
 5. <strong>Strategic theft</strong>, <strong>fictitious pickup</strong>, and <strong>double brokering</strong> are principal modern fraud types.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[42280]</p>

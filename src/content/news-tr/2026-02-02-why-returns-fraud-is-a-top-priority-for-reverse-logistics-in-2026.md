@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">İade hizmet sağlayıcıları; perakendecilerin ve markaların sahte iadelerle mücadele etmesine yardımcı olmak amacıyla giderek daha fazla kaynak ve inovasyon ayırıyor. Sorun; o kadar problemli bir hale geliyor ki «iade ve geri ödeme politikası suistimali»; küresel <strong>Merchant Risk Council</strong> tarafından çevrimiçi perakendeciler gibi tacirlerin karşılaşıyor olduğu en yaygın sahtekarlık türü olarak değerlendiriliyor.</p>
 <p><br></p>
 <p style="text-align: justify">İade sahtekarlığının daha karmaşık ve yaygın hale gelmesine yol açıyor olan bir dizi faktör bulunuyor. <em>Wardrobing</em> — bir tüketicinin ürünü kullanıp ardından geri gönderiyor olduğu uygulama — uç noktalara taşınıyor. Etkileyici (influencer) kültürü buna katkıda bulunuyor; aynı zamanda kişisel finansları sıkıştırıyor olan zorlu ekonomik koşullar da rol oynuyor. Tüketiciler; en son moda kıyafetleri giymek ve aynı kombini tekrar etmemek için baskı hissediyor; ancak bu her zaman karşılanabiliyor olmuyor. Tedarik zinciri perspektifinden bakıldığında perakendeciler; kimlik doğrulama, dönüş davranışı analitiği ve <em>condition-based grading</em> süreçlerine yatırım yapmadıkları sürece tersine lojistik maliyetlerini sürdürülebilir kılamayacak.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43250]</p>

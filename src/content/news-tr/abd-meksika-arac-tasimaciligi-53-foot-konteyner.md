@@ -24,8 +24,6 @@ tags:
 <p>Yeni hizmet, Meksika'daki fabrikalarda veya üretim merkezlerine yakın belirlenmiş "doldurma alanlarında" bitmiş araçları doğrudan konteynerlere yükleyecek. Konteynerler daha sonra kamyonlarla intermodal demiryolu rampalarına taşınıyor ve Los Angeles, Chicago, Detroit ve Toronto gibi destinasyonlara demiryolu ile sevk ediliyor. Varış noktasında, konteynerler demiryolu rampasından alınıp belirlenmiş alanlara taşınıyor ve araçlar buradan bayilere sevk ediliyor. Kapıdan kapıya transit süreleri, rotaya bağlı olarak 8 ile 14 gün arasında değişiyor. 2024 yılında bu yeni hizmetin, ticaret ortakları arasında ek 30,000 bitmiş aracın taşınmasını sağlaması bekleniyor.</p>
 <p><br></p>
 <p>2023 Yılında Meksika'nın artan üretim sektörü, özellikle otomotiv alanında, ve 2020 Kuzey Amerika Serbest Ticaret Anlaşması (USMCA) sayesinde, Meksika'nın Çin'i geçerek ABD'nin en büyük ticaret ortağı haline geldiğini DP World belirtiyor.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ul>
   <li><p>DP World, Meksika'dan ABD ve Kanada'ya araç taşımacılığı için intermodal hizmet başlattı.</p></li>
@@ -34,5 +32,3 @@ tags:
   <li><p>2024'te 30,000 ek aracın taşınması hedefleniyor.</p></li>
   <li><p>Meksika, 2023'te ABD'nin en büyük ticaret ortağı oldu.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

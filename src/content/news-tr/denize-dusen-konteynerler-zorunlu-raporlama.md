@@ -24,5 +24,3 @@ tags:
 <p>WSC’nin Güvenlik ve Güvenlikten Sorumlu Kıdemli Başkan Yardımcısı Lars Kjaer, düzenlemenin denizcilikte navigasyon güvenliğini artıracağını vurguladı ve kayıp ile sürüklenen konteynerlerin hızlı ve detaylı biçimde raporlanmasının önemine değindi. Bu raporlama, olası çevresel tehlikelerin önlenmesinde de kritik rol üstlenecek.&nbsp;</p>
 <p><br></p>
 <p>WSC, 2008’den beri üyelerinden denize düşen konteyner sayısı hakkında bilgi topluyor ve bu bilgileri düzenli olarak “Denize Düşen Konteynerler Raporu”nda yayımlıyor. Sektör paydaşları, bu raporları konteyner ve yük güvenliğini artırmaya yönelik çabalarda önemli bir bilgi kaynağı olarak kullanıyor. Konsey, 2023 verilerini içerecek “Denize Düşen Konteynerler Raporu – 2024 Güncellemesi”ni yakın zamanda yayımlayacak.</p>
-<p><br></p>
-<p><br></p>

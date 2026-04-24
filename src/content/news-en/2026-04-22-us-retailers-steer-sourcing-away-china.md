@@ -27,8 +27,3 @@ tags: ['Çin', 'tedarik', 'Target', 'Gap', \"Macy's\", 'Walmart', 'tarife', 'nea
 3. <strong>Macy's</strong> (<strong>Tony Spring</strong>) has reduced national brand <strong>China</strong> share to 18%—down from 20%.<br>
 4. <strong>Trump</strong> tariffs serve as a common driving factor.<br>
 5. <strong>Vietnam</strong>, <strong>India</strong>, and <strong>Bangladesh</strong> are primary alternative sourcing countries.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book is Now Available on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free through this link.</p>
-<p><br></p>
-<p>[41890]</p>

@@ -21,8 +21,3 @@ tags: ["Spain", "ADIF", "Rubi Tunnel", "Barcelona", "France", "rail freight", "i
 3. Together with the Perthus Tunnel, it carries most Iberian-French freight traffic.<br>
 4. Automotive parts and agricultural shipments will be particularly affected.<br>
 5. A significant rise in freight costs is expected.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

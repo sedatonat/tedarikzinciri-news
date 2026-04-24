@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Taşıyıcılar açısından iyi haber; karayolu hacimlerinin sönük kalmaya devam ediyor olmasına rağmen düşüş hızının yavaşlıyyor oluyor olması. Ulusal sevkiyat hacimleri; 2025'in dördüncü çeyreğinde üst üste 15. çeyrek için yıllık bazda geriliyor. Ancak bu; 2022'nin ikinci çeyreğinden bu yana kaydediliyor olan en küçük çeyreklik düşüş oluyor. Tüm 2025 yılı için ise navlun hacimleri; 2024'e kıyasla %9,9 oranında düşüyor. Bu da bir önceki yılın %20,4 oranındaki yıllık düşüşünün yarısından az bir oranı temsil ediyor.</p>
 <p><br></p>
 <p style="text-align: justify">Yükleten harcamasındaki artış aynı zamanda üç yılın ardından gerçekleşiyor olan ilk yıllık yukarı yönlü hareket oluyor. Bu durum; daralıyor olan kapasitenin tüm karayolu pazarında nasıl ücret artışlarını tetikliyor olduğunu vurguluyor. U.S. Bank; harcama artışlarının daha yüksek yakıt maliyetlerinden kaynaklanıyor olmasının olası bulunmuyor olduğunu belirtiyor. Tedarik zinciri perspektifinden bakıldığında bu döngü; perakendecilerin <strong>Walmart</strong> ve <strong>Amazon</strong> gibi büyük yükleten şirketlerin tedarikçi ücret modellerini yeniden müzakere etmek zorunda bulunuyor olacaklarını işaret ediyor.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43409]</p>

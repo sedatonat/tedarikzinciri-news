@@ -36,9 +36,3 @@ tags:
 3. Panel; &ldquo;<strong>irreparable harm</strong>&rdquo; iddiasını kabul ediyor; hızlandırılmış yargılama öneriliyor.<br>
 4. <strong>Trump</strong> tarafından atanmakta olunan iki hâkim; geçmişte ulusal güvenlik davalarında hükümet lehine eğilim gösteriyor.<br>
 5. 200 milyon dolarlık <strong>DOD</strong> anlaşması; sistemlere kısıtlamasız erişim talebinin reddediliyor olunması üzerine çökmekte.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43826]</p>

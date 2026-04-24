@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">The company, currently the seventh-largest container carrier in the world, now has 76 vessels on its orderbook, representing nearly half of its current fleet capacity. From a supply chain perspective, this wave of orders is creating a serious overcapacity risk for the <strong>liner</strong> market that runs well beyond underlying demand growth. Industry data shows that carriers collectively have hundreds of vessels on order, with the bulk of deliveries concentrated in 2026 and 2027.</p>
 <p><br></p>
 <p style="text-align: justify">A record 633 ships were ordered in 2025 alone, representing roughly 5.1 million TEUs of capacity and pushing the global container ship orderbook to around one-third of the existing fleet. From a supply chain perspective, the new tonnage being deployed by Evergreen alongside <strong>Maersk</strong>, <strong>MSC</strong>, <strong>CMA CGM</strong>, <strong>Hapag-Lloyd</strong> and <strong>COSCO</strong> is being priced into <strong>spot</strong> and <strong>contract</strong> rates in a way that will exert structural downward pressure for the next two years. For <strong>BCOs</strong>, this opens a clear window to reassess contract strategies.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43371]</p>

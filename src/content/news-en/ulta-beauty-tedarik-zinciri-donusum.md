@@ -46,13 +46,6 @@ tags:
   <li><p>Omnichannel fulfillment strategy: online shopping, in-store pickup, same-day delivery.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book "How to Acquire ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
+
 <p>We would be delighted to hear your feedback.</p>
 <p>Wishing you happy reading in advance.</p>

@@ -27,8 +27,3 @@ tags:
 3. ONE CEO'su Jeremy Nixon; bu hamleyi ONE 2030 stratejik büyüme planına bağladı.<br>
 4. Seaspan; gemileri operatör hatlara uzun vadeli charter sözleşmeleriyle kiralıyor.<br>
 5. ONE; yakın zamanda West Coast South America (AX4) hizmetini de geliştirerek Latin Amerika-Asya ağını genişletti.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

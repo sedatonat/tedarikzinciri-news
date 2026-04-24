@@ -70,11 +70,6 @@ As <strong>Level 5 autonomous vehicle testing</strong> accelerates worldwide, co
   <li><p>This step aims to position Russia ahead in the <strong>global autonomous transport race</strong>.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
+
 <p>We would be delighted to hear your feedback.</p>
 <p>Wishing you happy reading from the start.</p>

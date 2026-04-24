@@ -35,8 +35,6 @@ tags:
 <p style="text-align: justify">VTC, Kuzey Amerika’da toplam <strong>altı üretim tesisi</strong> işlediyor. Idaho’daki tesisin yanı sıra <strong>Georgia</strong>, <strong>Virginia</strong> ve <strong>Meksika Chihuahua</strong> bölgelerinde faaliyet gösteriyor. Virginia’daki tesislerde <strong>2020–2025</strong> arasında yapılan <strong>21 denetimde</strong> toplam <strong>29 ihlal</strong> tespit edildi; bazı dosyalar hâlen açık durumda.</p>
 <p><br></p>
 <p style="text-align: justify">Pocatello tesisinin operasyonel yapısı, yüksek riskli üretim süreçlerini içeriyor. Tesiste <strong>100 tonluk transformatörler</strong>, <strong>hava paletleri</strong> ile taşınıyor; <strong>50 tonluk çekirdekler</strong> ise <strong>overhead crane</strong> sistemleriyle kaldırılıyor. Üretim alanlarında toz kontrolü amacıyla <strong>pozitif basınçlı winding shop</strong> kullanılıyor ve <strong>ANSI</strong> limitlerinin altında <strong>partial discharge</strong> değerleri hedefleniyor. Bu ileri teknik altyapıya rağmen, iş güvenliği uygulamalarındaki eksiklikler, operasyonel mükemmeliyet ile saha güvenliği arasındaki kopukluğu gözler önüne seriyor.</p>
-<p><br></p>
-<p style="text-align: justify"><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>OSHA</strong>, VTC’nin Pocatello tesisinde 53 ciddi ve tekrar eden ihlal tespit etti.</p></li>

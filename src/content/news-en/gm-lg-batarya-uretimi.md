@@ -40,13 +40,6 @@ tags:
   <li><p>In-line metrology ensures quality assurance.</p></li>
   <li><p>JIT/JIS flows are strengthened by proximity sourcing.</p></li>
 </ul>
-<p>-----</p>
-<p>-----</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" rel="noopener" target="_new"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Happy reading in advance.</p>
-<p><br></p>
-<p>[878]</p>

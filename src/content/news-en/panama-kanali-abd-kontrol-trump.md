@@ -49,11 +49,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The Panama Canal remains a critical waterway, handling approximately 6% of global maritime commerce and 40% of U.S. maritime container traffic.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a>&nbsp;You can download and read it for free through this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading.</p>

@@ -128,12 +128,3 @@ Start with green procurement, develop agility, and transform these capabilities 
   <li style="text-align: justify"><p style="text-align: justify"><strong>U.S. manufacturers</strong> can increase tariff resilience and competitiveness by collaborating with suppliers on sustainability-focused initiatives.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Bottom line: <strong>Green procurement is no longer just an environmental strategy—it is a commercial survival tool.</strong></p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Implement ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

@@ -29,8 +29,3 @@ tags:
 3. Kazakistan, Özbekistan ve diğer bölge ülkeleri kritik küresel tedarikçi konumunda.<br>
 4. EU Global Gateway, Çin Belt and Road ve ABD C5+1 girişimleri Orta Asya'da yarışıyor.<br>
 5. 2026; koridor yatırımları ve yeni bloktren servisleriyle kritik bir yıl olacak.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

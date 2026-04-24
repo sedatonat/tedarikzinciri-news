@@ -39,5 +39,3 @@ tags:
   <li><p>Doğu ve Körfez Kıyıları limanları, ABD'ye yapılan ithalatın büyük bir kısmını oluşturuyor.</p></li>
   <li><p>Perakendeciler, olası liman aksamalarını azaltmak için şimdiden önlemler alıyor.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

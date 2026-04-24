@@ -36,9 +36,3 @@ tags:
 3. <strong>ML</strong>; sipariş boyutu/saha/ekip dinamiklerinden öğrenmekte.<br>
 4. Gerçek zamanlı <strong>ETA</strong>; sevkiyat-sürücü-müşteri uyumunu sağlıyor.<br>
 5. <strong>Cyndi Brandt</strong> ile <strong>Sergio Torres</strong>; konuşmacılar oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43756]</p>

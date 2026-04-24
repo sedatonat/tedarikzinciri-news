@@ -28,11 +28,3 @@ tags: ['CPC', 'Caspian Pipeline Consortium', 'Karadeniz', 'Kazakistan', 'petrol 
 3. <strong>Thenamaris</strong> stated that <strong>Matilda</strong> remains seaworthy.<br>
 4. <strong>Chevron</strong> reports no impact on <strong>Kazakhstan</strong> operations.<br>
 5. The incidents are moderating surplus in the global oil market and supporting prices.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free through this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>
-<p><br></p>
-<p>[43199]</p>

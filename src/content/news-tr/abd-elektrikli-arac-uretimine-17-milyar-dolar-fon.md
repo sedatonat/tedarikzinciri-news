@@ -33,4 +33,3 @@ tags:
   <li><p>Bu girişim, Başkan Biden'ın iklim değişikliği ile mücadele ve enerji bağımsızlığı stratejisinin bir parçası.</p></li>
   <li><p>Program, ABD'nin küresel elektrikli araç pazarında lider olmasını amaçlıyor.</p></li>
 </ol>
-<p><br></p>

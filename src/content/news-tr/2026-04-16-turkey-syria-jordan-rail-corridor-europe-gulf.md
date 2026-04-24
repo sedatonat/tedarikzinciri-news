@@ -36,9 +36,3 @@ tags:
 3. <strong>Saudi Arabia</strong> demiryolu sistemine bağlantı planlanıyor.<br>
 4. Projenin finansmanı henüz netleşmekte değil; görüşmeler sürüyor.<br>
 5. <strong>Türkiye</strong>&rsquo;ye yöneliyor olan karayolu iyileştirmeleri de plana dahil oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43870]</p>

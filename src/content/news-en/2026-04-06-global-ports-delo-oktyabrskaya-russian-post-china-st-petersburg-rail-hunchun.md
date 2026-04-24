@@ -22,8 +22,3 @@ tags: ["Global Ports", "Delo Group", "Oktyabrskaya Railway", "Russian Post", "St
 3. The new service will launch by end of Q2 2026; estimated transit time is 15 days.<br>
 4. The service will carry mail, consumer goods, clothing, and footwear.<br>
 5. Block trains will run from Hunchun via the Kamyshovaya border crossing into Russia.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

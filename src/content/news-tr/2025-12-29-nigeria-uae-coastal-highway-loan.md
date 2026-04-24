@@ -35,11 +35,3 @@ tags:
 3. <strong>First Abu Dhabi Bank</strong>, işlemi tam kapsamlı olarak <strong>underwrite</strong> ediyor.<br>
 4. <strong>ICIEC</strong>, risk azaltım güvencesini sağlıyor.<br>
 5. Otoyol nihai aşamada 700 km uzunluğunda oluyor ve <strong>Atlantic</strong> kıyısını boylu boyunca bağlıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43053]</p>

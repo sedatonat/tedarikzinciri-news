@@ -35,8 +35,3 @@ tags:
 3. En az 30 işçi; <strong>Georgia</strong> tesisine geri dönüyor.<br>
 4. <strong>Class-action</strong> dava; sağlıksız tutuklama koşulları ve yasadışı tutuklama iddiası içeriyor.<br>
 5. <strong>South Korea</strong> Dışişleri; &ldquo;hızlı ve esnek&rdquo; <strong>U.S.</strong> hareketini takdir ediyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42840]</p>

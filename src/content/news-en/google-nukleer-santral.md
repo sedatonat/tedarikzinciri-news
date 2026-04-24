@@ -37,13 +37,6 @@ tags:
   <li><p>Local employment and grid flexibility impacts are expected.</p></li>
   <li><p>Aligns with 24/7 carbon-free energy goals.</p></li>
 </ul>
-<p>-----</p>
-<p>-----</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" rel="noopener" target="_new"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via the link.</p>
+
 <p>Your feedback would make us happy.</p>
 <p>Wishing you good reading from the start.</p>
-<p><br></p>
-<p>[860]</p>

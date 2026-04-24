@@ -39,12 +39,5 @@ tags:
   <li><p>The installation demonstrates <strong>Turkish engineering</strong> success and contribution to sustainable trade.</p></li>
   <li><p>Asyaport continues to reduce environmental impact through fully electric crane operations.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Acquire ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
 <p>We would be happy to receive your feedback.</p>
 <p>Wishing you happy reading.</p>

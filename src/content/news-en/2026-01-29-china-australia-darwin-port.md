@@ -28,11 +28,5 @@ tags: ['Çin', 'Avustralya', 'Darwin Limanı', 'Landbridge', 'jeopolitik', 'lima
 3. The <strong>Albanese</strong> government is committed to returning the port to local control.<br>
 4. The port is located near facilities hosting <strong>U.S. Marines</strong> rotations.<br>
 5. <strong>China</strong> stands out as <strong>Australia</strong>'s largest trade partner.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
 <p>We would be pleased to receive your feedback.</p>
 <p>Wishing you happy reading in advance.</p>
-<p><br></p>
-<p>[43363]</p>

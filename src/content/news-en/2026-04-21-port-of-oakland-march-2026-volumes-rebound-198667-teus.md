@@ -25,8 +25,3 @@ tags: ["Port of Oakland", "March 2026", "TEU", "container volumes", "Bryan Brand
 3. Imports reached 99,091 TEUs and exports 99,576 TEUs, nearly evenly split.<br>
 4. March volume fell 8.6 per cent YoY; YTD throughput dropped 7.3 per cent.<br>
 5. Maritime Director Bryan Brandes characterised the month as evidence of operational stability.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

@@ -38,13 +38,3 @@ tags:
   <li><p>Community consensus is important.</p></li>
   <li><p>Carbon and access benefits are expected.</p></li>
 </ul>
-<p>---------</p>
-<p>----------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Obtain ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free from the link above.</p>
-<p>Your feedback will make us happy.</p>
-<p>We wish you happy reading.</p>
-<p><br></p>
-<p>[865]</p>

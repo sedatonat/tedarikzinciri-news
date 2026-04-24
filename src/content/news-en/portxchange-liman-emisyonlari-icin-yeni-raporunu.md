@@ -37,10 +37,5 @@ tags:
   <li><p>CEO Sjoerd de Jager highlighted the need for a unified global standard for port emissions reporting.</p></li>
 </ul>
 <p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Acquire ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
 <p>Your feedback would make us happy.</p>
 <p>We wish you pleasant reading in advance.</p>

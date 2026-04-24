@@ -36,9 +36,3 @@ tags:
 3. <strong>Predictive analytics</strong> ve <strong>scenario modeling</strong>, reaktif davranışı proaktif öngörüye dönüştürüyor.<br>
 4. Temiz, tutarlı ve uygun veri, karar döngülerini kısaltıyor.<br>
 5. Yapay zeka, bağlı veri temeli olmadan değer üretmiyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43841]</p>

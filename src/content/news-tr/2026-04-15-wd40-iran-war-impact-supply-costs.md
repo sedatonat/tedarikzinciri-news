@@ -33,8 +33,3 @@ tags:
 3. Brüt marj etkisi FY2026 Q4'ten önce beklenmiyor.<br>
 4. Ham petrol varsayımı 65-85 USD'den 95-115 USD aralığına yükseltildi.<br>
 5. İran Savaşı; CPG paketleme tedarik zincirini ve teslimat maliyetlerini de etkiliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

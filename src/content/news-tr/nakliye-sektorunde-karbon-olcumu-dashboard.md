@@ -27,4 +27,3 @@ tags:
   <li><p><strong>Sürdürülebilirlik Hedefleri</strong>: Araç, şirketlerin sürdürülebilirlik hedeflerine ulaşmalarını kolaylaştırır.</p></li>
   <li><p><strong>Veri Tutarsızlıkları</strong>: Farklı kaynaklardan gelen verilerin tutarlı bir şekilde işlenmesine olanak tanır.</p></li>
 </ol>
-<p><br></p>

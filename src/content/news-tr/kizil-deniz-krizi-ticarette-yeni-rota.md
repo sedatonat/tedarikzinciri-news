@@ -30,4 +30,3 @@ tags:
 <p>Alternatif rotalar arayan gemiler, Panama Kanalı gibi diğer geçiş noktalarında da zorluklarla karşılaşıyor. Küresel ticaretteki bu kritik noktaların karşı karşıya olduğu riskler, tüketici fiyatlarına yansıyarak merkez bankaları ve tüketiciler için endişe kaynağı oluşturuyor.&nbsp;</p>
 <p><br></p>
 <p>Ayrıca, kış tatillerinden sonra stoklarda eksiklikler yaşanabilir. Bu durum, özellikle tatil alışveriş sezonundan sonra Şubat ayında daha belirgin hale gelebilir.</p>
-<p><br></p>

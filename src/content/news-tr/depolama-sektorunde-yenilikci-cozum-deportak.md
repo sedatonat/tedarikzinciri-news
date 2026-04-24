@@ -33,4 +33,3 @@ tags:
   <li><p>Dijitalleşme ve artırılmış zeka destekli teknolojilerle lojistik yönetiminin dönüşümü.</p></li>
   <li><p>Dünya e-ticaret pazarının 2023’de 6 trilyon Doları aşması ve Türkiye e-ticaret sektörünün büyümesi.</p></li>
 </ul>
-<p><br></p>

@@ -46,11 +46,6 @@ tags:
   <li><p>CEO AJ Meyer and Ranpak CEO Omar Asali praised the company's success.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir">https://www.sedatonat.com/erpnasilalinir</a>You can download and read it for free via the link above.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading from the start.</p>

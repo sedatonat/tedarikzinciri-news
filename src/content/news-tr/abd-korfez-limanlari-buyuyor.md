@@ -47,12 +47,3 @@ tags:
   <li><p>Artan yük hacimleri, liman operasyonlarında bazı zorlukları da beraberinde getiriyor; konteynerlerin limanlarda bekleme süreleri uzuyor.<a href="https://www.joc.com/article/rising-volumes-slowing-port-flow-on-east-gulf-coasts-5228112?utm_source=chatgpt.com" rel="noopener" target="_blank">Joc</a></p></li>
   <li><p>Liman yetkilileri ve lojistik firmaları, operasyonel verimliliği artırmak için yeni stratejiler ve teknolojiler üzerinde çalışıyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

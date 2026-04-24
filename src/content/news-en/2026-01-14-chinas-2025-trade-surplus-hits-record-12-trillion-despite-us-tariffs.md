@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">The combined increase in shipments to <strong>Southeast Asia</strong> and <strong>Europe</strong> more than offset a deepening contraction in sales to the U.S. last year. A surge in exports of high-end goods illustrates the headway China has made in moving up the value chain, which has also led to shrinking imports of products such as cars. From a supply chain perspective, as supply chains shift overseas, the construction of factories elsewhere, partly funded by Chinese investment, is pulling up demand for Chinese components, equipment and machinery.</p>
 <p><br></p>
 <p style="text-align: justify">According to <strong>Bloomberg Economics</strong>, China's stronger-than-expected export growth in December shows its export engine continued to support the economy in the final quarter of 2025 even as domestic drivers weakened. From a supply chain perspective, this trend reveals that <strong>nearshoring</strong> and <strong>China+1</strong> strategies routed through <strong>Vietnam</strong>, <strong>Mexico</strong> and <strong>India</strong> are not structurally eliminating Chinese intermediate exports, but extending them in a different form. For global BCOs, this requires tariff planning that accounts not only for country of origin but also for the broader "value-chain origin" logic.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43205]</p>

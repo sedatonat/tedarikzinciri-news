@@ -48,11 +48,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The merger supports clients in developing more effective and efficient solutions in their digital transformation processes, helping them gain competitive advantages.</p></li>
 </ul>
 <p style="text-align: justify"><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Select ERP? Our Book is Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through this link.</p>
+
 <p>We would be pleased to hear your feedback.</p>
 <p>Wishing you happy reading.</p>

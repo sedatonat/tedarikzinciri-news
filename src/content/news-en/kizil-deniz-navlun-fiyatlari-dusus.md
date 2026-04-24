@@ -44,11 +44,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Military measures led by the United States and United Kingdom</strong> have prompted some companies to reassess the Suez Canal route.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>DP World</strong> emphasizes that <strong>geopolitical risks must be reduced</strong> for supply chains to normalize.</p></li>
 </ul>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a>&nbsp;You can download and read it for free via this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading ahead.</p>

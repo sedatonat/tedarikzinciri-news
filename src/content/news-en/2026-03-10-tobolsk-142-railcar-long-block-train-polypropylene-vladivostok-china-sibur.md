@@ -22,8 +22,3 @@ tags: ["Russian Railways", "Tobolsk", "Vladivostok", "long block train", "142 ra
 3. The service was launched in 2024 to carry polypropylene for a major petrochemical holding.<br>
 4. The first 100-railcar block train departed on September 16, 2024; extended to 125 in 2025.<br>
 5. In 2026, 17 125-railcar trains have departed; the 142-railcar mark sets a new threshold.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

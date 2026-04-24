@@ -18,5 +18,3 @@ tags:
 - supply chain security
 ---
 <p>An illuminating article by Norman Kanz, published on Supply Chain Management Review.</p>
-<p><br></p>
-<p><br></p>

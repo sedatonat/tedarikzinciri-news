@@ -36,10 +36,4 @@ tags:
 3. <strong>Red Sea</strong>&rsquo;de en az 32 <strong>VLCC</strong>/<strong>Suezmax</strong> bekliyor.<br>
 4. <strong>UAE</strong>&rsquo;nin <strong>Fujairah</strong> rotası; drone saldırılarıyla aksamakta.<br>
 5. <strong>IEA</strong>; savaşın tarihteki en büyük arz aksamasına yol açıyor olduğunu vurguluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
 <p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p><br></p>
-<p>[43685]</p>

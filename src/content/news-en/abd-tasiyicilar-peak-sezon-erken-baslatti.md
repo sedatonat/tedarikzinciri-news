@@ -29,4 +29,3 @@ tags:
   <li><p>The risk of a potential strike at East Coast ports influenced import decisions.</p></li>
   <li><p>Peak season began in June.</p></li>
 </ul>
-<p><br></p>

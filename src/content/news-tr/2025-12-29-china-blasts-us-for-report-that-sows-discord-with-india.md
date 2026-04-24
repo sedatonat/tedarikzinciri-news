@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">İlişkilerdeki bu iyileşme, her iki ülkenin de Başkan Donald Trump'ın ticaret savaşından yara aldığı bir döneme denk geldi. Pekin daha önce de aynı Pentagon raporunu eleştirdi; söz konusu raporda Çin'in, ABD anavatanını «giderek savunmasız hale getiren» «tarihi bir askeri yapılanmanın» içinde bulunduğu da öne sürüldü.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında Çin-Hindistan yakınlaşması, küresel üretim ağları açısından kritik önem taşıdı. Apple, Foxconn ve Samsung gibi oyuncuların Hindistan'a yönelik «China+1» yatırımları, iki ülke arasındaki yumuşamanın istikrarlı seyretmesine bağlı kaldı. ABD'nin diplomatik manevralarına karşılık Çin'in Hindistan ile köprüleri onarması, özellikle elektronik, ilaç ve tekstil tedarik zincirlerinde alternatif konumlanma stratejilerini yeniden şekillendirebilir.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43055]</p>

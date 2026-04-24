@@ -28,11 +28,5 @@ tags: ['Great Lakes', 'USCG', 'CCG', 'buzkıran', 'demir cevheri', 'tahıl taş�
 3. The <strong>LCA</strong> emphasizes that minor disruptions can cascade dramatically by season's end.<br>
 4. <strong>Iron ore</strong>, <strong>steel</strong>, <strong>coal</strong>, and <strong>grain</strong> transportation is racing against winter closure.<br>
 5. The limited icebreaker capacity of the <strong>USCG</strong> and <strong>CCG</strong> stands out as a strategic vulnerability.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge via this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>We wish you happy reading from the start.</p>
-<p><br></p>
-<p>[43091]</p>

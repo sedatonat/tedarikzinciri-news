@@ -89,12 +89,3 @@ Ocean Alliance, hem <strong>Asya–Avrupa</strong> hem de <strong>Transpasifik</
   <li style="text-align: justify"><p style="text-align: justify">Ocean Alliance’ın başarısında <strong>COSCO, CMA CGM, OOCL ve Evergreen’in koordinasyonu</strong> belirleyici.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Analistler, ittifakın <strong>yüksek kapasite yönetimi, düşük boş sefer oranı ve küresel kapsama alanıyla</strong> 2026’da da liderliğini sürdürmesini bekliyor.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>

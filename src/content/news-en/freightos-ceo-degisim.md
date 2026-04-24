@@ -36,8 +36,6 @@ tags:
 <p style="text-align: justify">Zvi Schreiber's use of the phrase "moving toward new ventures" in his statements also signals a personal turning point. However, in the Freightos case, this departure is positioned as a planned and strategic transition rather than an abrupt or crisis-driven change. In this respect, the decision reflects a typical evolution followed by maturing ventures in the logistics technology sector.</p>
 <p><br></p>
 <p style="text-align: justify">In broad terms, the CEO transition at Freightos demonstrates that the company has moved beyond the <strong>foundation and product validation</strong> phase and is now entering an era of <strong>scaling, consolidation, and institutionalization</strong>. The steps taken in the coming period will serve to further clarify Freightos's role within the global logistics ecosystem.</p>
-<p><br></p>
-<p style="text-align: justify"><br></p>
 <h3 style="text-align: justify"><strong>Key Points</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Zvi Schreiber will step down from his role as Freightos CEO effective January 31, 2026.</p></li>
@@ -47,14 +45,8 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The company has initiated a search process for a permanent CEO.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Obtain ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Happy reading in advance.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

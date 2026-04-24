@@ -23,4 +23,3 @@ ZER is moving toward its "Unmanned Procurement" goal...</p>
 <p><br></p>
 <p>ZerGo Website: <a href="https://www.zergo.com.tr"><u>https://www.zergo.com.tr</u></a>&nbsp;</p>
 <p>ZerGo LinkedIn Page: <a href="https://www.linkedin.com/company/zergocomtr/about/"><u>https://www.linkedin.com/company/zergocomtr/about/</u></a>&nbsp;</p>
-<p><br></p>

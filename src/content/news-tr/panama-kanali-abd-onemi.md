@@ -40,12 +40,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>ABD ekonomisi</strong>, büyük ölçüde deniz yoluyla taşınan mallara bağlıdır ve <strong>Panama Kanalı</strong> bu tedarik zincirinin kritik bir parçasıdır.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Donald Trump</strong>'ın tarifeleri artırma planları, konteyner taşımacılığı talebini ve dolayısıyla <strong>Panama Kanalı</strong>'ndan geçen ticareti olumsuz etkileyebilir.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

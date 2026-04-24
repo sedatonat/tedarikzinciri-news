@@ -38,13 +38,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Avrupa'nın diğer limanları üzerinden yapılan <strong>LNG</strong> ithalatı, enerji tedarikinde esneklik sağlıyor, ancak Rusya'ya olan bağımlılığı azaltma hedefine hizmet edip etmediği tartışmalı.​</p></li>
 </ul>
 <p style="text-align: justify">Almanya'nın enerji politikaları, enerji bağımsızlığı ve güvenliği konularında yeni stratejiler geliştirmeyi gerektiriyor. Dolaylı <strong>LNG</strong> ithalatının uzun vadeli etkileri, Berlin'in enerji politikalarının geleceği açısından kritik önem taşıyor.</p>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

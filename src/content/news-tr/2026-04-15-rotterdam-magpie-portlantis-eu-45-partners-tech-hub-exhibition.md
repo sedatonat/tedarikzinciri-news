@@ -29,8 +29,3 @@ tags:
 3. Açık deniz şarj çözümü, hibrit manevra lokomotifi ve otomatik kamyon şarj sistemleri sergileniyor.<br>
 4. Fiziksel modeller ve artırılmış gerçeklik uygulamaları kullanılıyor.<br>
 5. MAGPIE projesi; AB finansmanlı ve 45 ortakla yürütülüyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

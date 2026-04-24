@@ -34,11 +34,5 @@ tags:
 - Tariff analytics improve decision quality at the product level.<br>
 - Reshoring/nearshoring reduce risk and timelines.<br>
 - Tariffs become catalysts for flexibility and innovation.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank"><u>https://www.sedatonat.com/erpnasilalinir</u></a>&nbsp;You can download and read it for free via this link.</p>
 <p>Your feedback would make us happy.</p>
 <p>Wishing you happy reading.</p>
-<p><br></p>
-<p>[660]</p>

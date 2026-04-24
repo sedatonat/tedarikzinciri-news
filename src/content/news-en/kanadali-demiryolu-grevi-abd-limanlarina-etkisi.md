@@ -28,8 +28,6 @@ tags:
 <p>According to the report, strikes would particularly impact ramp operations in the U.S. Midwest and Toronto. The optimal operational plan is to terminate imports at the port of entry and use dray off, transload, and one-way truck transportation to move freight to DC networks.</p>
 <p><br></p>
 <p>ITS recommends adopting a similar strategy for exports and making reservations from the port/container yard (CY). One-way truck loading near the port or terminal, transload, and dray into the terminal will prevent delays on the railway. Industry professionals should consider transportation providers with multimodal, North America-wide networks to fulfill current demand.</p>
-<p><br></p>
-<p><br></p>
 <h5>Key Takeaways</h5>
 <ol>
   <li><p>A Canadian railway worker strike is causing operational challenges at U.S. West and East Coast ports.</p></li>
@@ -38,5 +36,3 @@ tags:
   <li><p>Due to the strike, ramp operations in the U.S. Midwest and Toronto will be negatively affected.</p></li>
   <li><p>ITS Logistics recommends alternative strategies for export and import operations.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

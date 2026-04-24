@@ -33,4 +33,3 @@ tags:
   <li><p>Transformation of logistics management through digitalization and artificial intelligence-enabled technologies.</p></li>
   <li><p>Global e-commerce market exceeding 6 trillion dollars in 2023 and growth of Turkey's e-commerce sector.</p></li>
 </ul>
-<p><br></p>

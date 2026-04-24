@@ -29,5 +29,3 @@ tags:
   <li><p><strong>Çevre Dostu İnisiyatif:</strong> GoGreen Plus programı, karbon ayak izini azaltmayı hedefliyor.</p></li>
   <li><p><strong>Kapsamlı Destek:</strong> E-ticaret rehberliği, mentorluk, eğitim web seminerleri ve kişiye özel uluslararası uzman desteği sağlanıyor.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

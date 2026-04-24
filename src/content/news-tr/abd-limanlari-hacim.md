@@ -42,12 +42,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">2023'te liman hacimleri pandemi öncesi seviyelere dönmüş, ancak Doğu Kıyısı limanları pazar payını artırmıştır.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">2024'te ithalat hacimlerinin artması bekleniyor, bu da ekonomik toparlanmanın bir göstergesi olarak değerlendiriliyordir.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

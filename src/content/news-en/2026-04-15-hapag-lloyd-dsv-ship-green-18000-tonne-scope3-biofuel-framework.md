@@ -23,8 +23,3 @@ tags: ["Hapag-Lloyd", "DSV", "Ship Green", "Kapsam 3", "biyoyakıt", "well-to-wa
 3. The deal is calculated on a well-to-wake basis, effective from 2026.<br>
 4. A book-and-claim model allows allocation of emission savings independent of physical fuel.<br>
 5. The framework leaves room to incorporate additional sustainable fuel types in the future.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

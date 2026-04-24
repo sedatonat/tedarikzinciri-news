@@ -24,8 +24,6 @@ tags:
 <p>Mühendis Michael Shields, bu köprülerin büyük kargo gemilerinin artan boyutu ve sayısına uygun olarak inşa edilmediğini belirterek, Key Köprüsü'nün çöküşünün bir uyanış çağrısı olduğunu vurguladı. Araştırma ekibi, küresel nakliye verilerini kullanarak, ABD'deki kritik köprülerin büyük bir gemi çarpması sonucu felaketle sonuçlanabilecek durumda olup olmadığını belirlemek için modern risk modelleri geliştirecek.&nbsp;</p>
 <p><br></p>
 <p>Ön bulgular, mega yük gemilerinin hızlı büyümesi ve küresel nakliye trafiğindeki artış göz önünde bulundurulduğunda, mevcut köprülerin bu yeni koşullara dayanıklı olmadığını gösteriyor.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>
   <li><p>Johns Hopkins Üniversitesi'nden mühendisler, ABD'deki köprülerin, özellikle büyük limanlara yakın olanların, acil bir değerlendirme sürecine başladı.</p></li>
@@ -34,5 +32,3 @@ tags:
   <li><p>Araştırma ekibi, mevcut köprülerin tasarımının yeterli olmadığını ve risklerin yüksek olduğunu ifade ediyor.</p></li>
   <li><p>Özellikle Key Köprüsü'nün çöküşü, köprülerin mevcut risklerinin yeniden değerlendirilmesi gerektiğini gösteren bir örnek olarak sunuldu.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

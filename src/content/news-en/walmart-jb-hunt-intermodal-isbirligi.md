@@ -33,5 +33,3 @@ tags:
   <li><p>J.B. Hunt and Walmart have maintained close business collaboration for decades.</p></li>
   <li><p>The agreement is viewed as a result of mutual trust and shared vision.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

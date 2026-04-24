@@ -29,8 +29,3 @@ tags:
 3. Uluslararası yük trafiğinde trenler hâlâ kamyonları geçiyor.<br>
 4. Gotthard Base Tüneli ve Brenner Koridoru bu trafiğin bel kemiği.<br>
 5. İtalya, AB'nin 2030 modal kaydırma hedeflerinde geride kalıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

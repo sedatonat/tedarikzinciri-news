@@ -24,4 +24,3 @@ tags:
 <p>The company currently operates 9 automated warehouses globally, with 4 of them in the United States, and plans to build 5 more in the future.</p>
 <p><br></p>
 <p>These warehouses utilize AutoStore's automated storage and retrieval systems and employ more than 1,000 robots across their storage networks. DHL aims to cut implementation time for new warehouse systems in half through this technology. The automated system is particularly suited for handling small items such as fashion and technology products, and is recognized as a valuable tool for e-commerce.</p>
-<p><br></p>

@@ -28,8 +28,3 @@ tags:
 3. Azak Denizi'nde mart başında kapanan sezonda 6 gemi 1.190'dan fazla gemiye eskort yaptı.<br>
 4. Hazar'da görev yapan buz kırıcılar: Kapitan Bukaev, Kapitan Metsaik, Kapitan Chechkin.<br>
 5. Azak Denizi'nde eskort edilen limanlar: Azov, Yeisk, Taganrog, Rostov-na-Donu.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

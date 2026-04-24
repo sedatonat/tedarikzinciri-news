@@ -31,8 +31,3 @@ tags:
 3. Çift yakıtlı motorlar konvansiyonel bunker veya sıvılaştırılmış gazla çalışabilecek.<br>
 4. Bu siparişle Maersk'in toplam sipariş portföyü 33 gemiye ulaştı.<br>
 5. Anlaşma, Hapag-Lloyd–ZIM birleşmesine karşı kapasite yarışında stratejik bir hamle olarak değerlendirilebilir.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -102,12 +102,3 @@ Hindistan gibi büyük alıcıların yön değiştirmesiyle, <strong>Atlantik’
   <li style="text-align: justify"><p style="text-align: justify"><strong>Yaptırıma tabi gemi sayısı</strong>, 2020’den bu yana <strong>350’den 1.700’e</strong> yükseldi.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Uzmanlara göre, bu gelişme tanker sektöründe <strong>rotaların ve fiyat dinamiklerinin yeniden tanımlanmasına</strong> yol açacak.</p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a>&nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

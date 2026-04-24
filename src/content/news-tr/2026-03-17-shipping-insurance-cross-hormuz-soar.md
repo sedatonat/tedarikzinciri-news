@@ -36,10 +36,4 @@ tags:
 3. Çoğu fiyat, <strong>China</strong>, <strong>India</strong> ve <strong>Pakistan</strong> bağlantılı gemiler için kesiliyor.<br>
 4. <strong>UKMTO</strong>, 1 Mart&rsquo;tan bu yana 20 güvenlik olayı raporluyor; sonuncusu 12 Mart&rsquo;taki konteyner gemisi.<br>
 5. <strong>DFC</strong>&rsquo;nin 20 milyar dolarlık reasürans programı, sigortacıların ilgisini çekiyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
 <p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p><br></p>
-<p>[43665]</p>

@@ -76,12 +76,3 @@ Küresel ölçekte artan <strong>liman yoğunluğu, grev riskleri ve enerji taş
   <li style="text-align: justify"><p style="text-align: justify">Olay, <strong>liman lojistiğinin iş gücü kaynaklı risklere karşı kırılganlığını</strong> ortaya koydu.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Analistler, <strong>emek yönetimi ve otomasyon yatırımlarının</strong> gelecekte benzer durumların önüne geçebileceğini belirtiyor.</p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

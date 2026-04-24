@@ -27,8 +27,3 @@ tags: ['Hexcel', 'Dassault Systemes', 'DELMIA', 'entegre planlama', 'sanal ikiz'
 3. Speakers include <strong>Daniel Carrick</strong> (<strong>Hexcel</strong>), <strong>Adrian Wood</strong> (<strong>DELMIA</strong>), and <strong>Sarah Barnes-Humphrey</strong>.<br>
 4. <strong>Hexcel</strong> is a key composite materials supplier to <strong>Boeing</strong>, <strong>Airbus</strong>, <strong>Lockheed</strong>, and <strong>Vestas</strong>.<br>
 5. Virtual twins and <strong>S&amp;OP/IBP</strong> are core integrated planning methodologies.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Acquire ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it free of charge through this link.</p>
-<p><br></p>
-<p>[42380]</p>

@@ -21,8 +21,3 @@ tags: ["Russia", "rail freight", "rolling stock", "wagon maintenance", "RZD", "w
 3. The repair rate would need to double to turn the situation around.<br>
 4. The withdrawal of Western parts suppliers and sanctions have accelerated fleet aging.<br>
 5. The sector calls for urgent measures to prevent coal shipment disruption in the approaching winter.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

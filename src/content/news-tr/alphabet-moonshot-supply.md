@@ -42,11 +42,3 @@ tags:
   <li><p>Sektör odaklı paketler geliştirilebilir.</p></li>
   <li><p>Go-to-market odağı artar.</p></li>
 </ul>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>
-<p><strong>#ERP Nedir?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" rel="noopener" target="_new">https://www.sedatonat.com/erpnasilalinir</a> linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu eder.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[919]</p>

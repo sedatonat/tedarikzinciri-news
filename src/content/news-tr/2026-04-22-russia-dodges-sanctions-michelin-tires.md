@@ -35,8 +35,3 @@ tags:
 3. 2023&rsquo;te 28 milyon dolar; Ekim 2024-Mart 2025 arası 2,687 lastik $7M+ oluyor.<br>
 4. <strong>ESCU</strong> kayıtları; <strong>U.K.</strong> aracı dahil aracı zincirini ortaya çıkarıyor.<br>
 5. <strong>Michelin</strong>; izleme sistemlerini adapte ediyor ancak ürünler geçiyor devam ediyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43060]</p>

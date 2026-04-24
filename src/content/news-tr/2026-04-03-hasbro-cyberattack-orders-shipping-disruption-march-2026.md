@@ -29,8 +29,3 @@ tags:
 3. 8-K formu SEC'e sunuldu.<br>
 4. Seçili sistemler proaktif olarak çevrim dışı alındı.<br>
 5. Üçüncü taraf adli bilişim soruşturması sürüyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

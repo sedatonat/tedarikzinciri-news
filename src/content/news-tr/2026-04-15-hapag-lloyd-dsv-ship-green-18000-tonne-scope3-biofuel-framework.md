@@ -32,8 +32,3 @@ tags:
 3. Anlaşma, well-to-wake bazda hesaplanıyor ve 2026'dan itibaren geçerli.<br>
 4. Book-and-claim modeli, fiziksel yakıt tahsisinden bağımsız emisyon tasarrufu tahsisine imkân veriyor.<br>
 5. Çerçeve, gelecekte ek sürdürülebilir yakıt türlerinin dahil edilmesine açık.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

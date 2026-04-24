@@ -32,4 +32,3 @@ tags:
   <li><p>It increases operational efficiency and reduces costs.</p></li>
   <li><p>It improves customer experience and makes locating lost items easier.</p></li>
 </ul>
-<p><br></p>

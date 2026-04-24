@@ -30,5 +30,3 @@ tags:
   <li><p>Şarj altyapısı ve elektrik maliyetleri, operasyonel maliyetleri artırıyor.</p></li>
   <li><p>Tedarik zinciri yöneticileri, elektrikli kamyonları entegre etmek için mevcut operasyonlarını yeniden değerlendirmeli.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

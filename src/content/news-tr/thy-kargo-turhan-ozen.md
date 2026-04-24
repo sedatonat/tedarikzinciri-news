@@ -25,5 +25,3 @@ Yerine, geçen hafta Turkcell’de görevine son verilen <strong>Akif Konar’ı
 <p><br></p>
 <p><strong>Arka plan:</strong><br>
 Bir süre önce Turkish Cargo’da ortaya çıkan <strong>yolsuzluk iddiaları</strong> nedeniyle Özen’in <strong>üç yardımcısı görevden alınmıştı</strong>. Bu sürecin ardından şimdi en üst koltuk da değişmiş oldu.</p>
-<p><br></p>
-<p><br></p>

@@ -29,8 +29,3 @@ tags:
 3. Toplam sürücü sayısı yaklaşık 105.000.<br>
 4. UPS'in 2026 küçülme hedefi 30.000 kişi.<br>
 5. Programın büyük bölümü 2026 ilk yarıda uygulanacak.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

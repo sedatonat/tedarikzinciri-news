@@ -28,11 +28,5 @@ tags: ['CMA CGM', 'Stonepeak', 'United Ports', 'liman terminali', 'ortak girişi
 3. <strong>CMA CGM</strong> retains full operational control of the terminals.<br>
 4. <strong>Stonepeak</strong> may allocate an additional 3.6 billion dollars toward future joint projects.<br>
 5. The transaction is expected to be finalized in the second half of 2026.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge via the link above.</p>
 <p>Your feedback would make us happy.</p>
 <p>We wish you happy reading in advance.</p>
-<p><br></p>
-<p>[43368]</p>

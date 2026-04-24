@@ -29,4 +29,3 @@ tags:
   <li><p>Şirketler, iade yönetimi yazılımları kullanarak ve sıkı iade politikaları uygulayarak bu soruna karşı önlemler alabilir.</p></li>
   <li><p>Çalışan eğitimleri ve uygun ortaklıklar, dolandırıcılıkla mücadelede etkili yöntemler arasında yer alıyor.</p></li>
 </ol>
-<p><br></p>

@@ -22,8 +22,3 @@ tags: ["Eurosib", "Xian", "Moscow", "Orekhovo-Zuevo", "China", "rail freight", "
 3. The project stems from the June 2025 Xi'an Free Trade Port cooperation memorandum.<br>
 4. The service consolidates cargo from Shensi, Hebei, Shandong, Zhejiang, and Guangdong provinces.<br>
 5. Trains will operate on a weekly schedule.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

@@ -27,8 +27,6 @@ tags:
 <p>Geliştirilen strateji, denizcilik endüstrisinin denizcileri çekme ve tutma kapasitesini artırmak için üç ana alanda iyileştirmeler yapılmasını öneriyor: ‘Adil İş Koşulları’, ‘Kapsayıcı Kültür’ ve ‘Değişen Teknolojilerin Refah Üzerindeki Etkisi’. ISWAN, denizcilik sektörünün, denizcilerin mevcut çalışma koşulları ile beklentileri arasındaki farkları gidermek için pratik adımlar atması gerektiğinin altını çizdi.&nbsp;</p>
 <p><br></p>
 <p>Ayrıca, sektörün çeşitlilik ve farklılık barındıran yetenekleri çekme engellerini kaldırmak adına mevcut düzenlemelerin ötesine geçmesi gerektiği belirtildi. Seminerde, denizcilerin denizde yaşam ve çalışma zorlukları hakkında görüşlerini dinlemenin ve önerilerini uygulamanın önemi vurgulandı.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ol>
   <li><p>ISWAN, denizcilik sektörünün denizcilerle doğrudan iletişim kurmasının önemini vurguluyordır.</p></li>
@@ -38,5 +36,3 @@ tags:
   <li><p>Teknolojinin denizcilik endüstrisini yeniden canlandırma potansiyeline dikkat çekildi.</p></li>
   <li><p>Denizcilerin perspektiflerini dinlemenin ve önerilerini uygulamanın önemi öne çıkarıldı.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

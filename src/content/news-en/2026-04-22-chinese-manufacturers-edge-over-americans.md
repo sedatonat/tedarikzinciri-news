@@ -28,9 +28,3 @@ tags: ['Çin imalat', 'Unusual Machines', 'Allan Evans', 'drone', 'CHIPS Act', '
 3. The <strong>U.S.</strong> operates on a "<strong>contractual</strong>" workforce model; <strong>China</strong> operates on a "<strong>cultural</strong>" one.<br>
 4. Supplier density remains one of <strong>China</strong>'s enduring advantages.<br>
 5. The <strong>CHIPS Act</strong> and automation enable the <strong>U.S.</strong> to compete.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book "How to Procure an ERP System?" Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge via this link.</p>
-<p><br></p>
-<p>[43871]</p>

@@ -41,13 +41,6 @@ tags:
   <li><p>Tabletop and BCP drills are required.</p></li>
   <li><p>Compliance affects insurance terms.</p></li>
 </ul>
-<p>----------</p>
-<p>----------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via the link above.</p>
+
 <p>Your feedback would make us happy.</p>
 <p>Wishing you happy reading.</p>
-<p><br></p>
-<p>[871]</p>

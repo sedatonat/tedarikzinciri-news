@@ -37,13 +37,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">How <strong>Golden Ocean</strong> will perform under new management is a matter of speculation.</p></li>
 </ul>
 <p style="text-align: justify">These developments are regarded as a significant turning point in the maritime sector and are expected to influence the industry's future dynamics.</p>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Get ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p>You can download and read it for free via the link <a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a>&nbsp;</p>
-<p>Your feedback would be greatly appreciated.</p>
-<p>We wish you happy reading.</p>

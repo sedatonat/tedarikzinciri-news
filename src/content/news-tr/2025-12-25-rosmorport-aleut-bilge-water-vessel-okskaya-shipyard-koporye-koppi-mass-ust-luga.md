@@ -31,8 +31,3 @@ tags:
 3. İlk iki gemi "Koporye" ve "Koppi" Ağustos 2024'te teslim edildi.<br>
 4. "Koppi" Vanino Limanı'nda konuşlandırıldı; "Koporye" modernize edilip MASS sertifikası aldı.<br>
 5. "Koporye" Ust-Luga Limanı'nda otonom operasyonlara başlayacak.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

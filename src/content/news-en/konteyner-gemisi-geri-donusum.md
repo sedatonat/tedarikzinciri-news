@@ -38,8 +38,6 @@ This situation is raising the fleet's <strong>average age</strong> while signali
   <li style="text-align: justify"><p style="text-align: justify"><strong>while 53 percent</strong> were recycled before reaching age 25.</p></li>
 </ul>
 <p style="text-align: justify">Today's figures show this trend has <strong>reversed</strong>.</p>
-<p><br></p>
-<p><br></p>
 <h5 style="text-align: justify"><strong>The Actual Recycling Overhang May Be Even Larger</strong></h5>
 <p style="text-align: justify">According to BIMCO's analysis, the <strong>true recycling overhang</strong> could be significantly higher than stated. If based on the <strong>weak market conditions of the 2010s</strong>, the total recycling potential could reach as high as <strong>850 vessels and 3.1 million TEU</strong>.</p>
 <p style="text-align: justify"><br></p>
@@ -60,8 +58,6 @@ That year <strong>185 vessels and 0.6 million TEU of capacity</strong> were scra
 <p>Using this as a benchmark, clearing the <strong>current surplus of 1.8 million TEU</strong> could take <strong>at least three to four years</strong>.</p>
 <p><br>
 According to BIMCO, during this process <strong>smaller-tonnage vessels (below 8,000 TEU)</strong> will be disproportionately affected, as <strong>cascading</strong> will accelerate as new large-tonnage vessels enter service.</p>
-<p><br></p>
-<p><br></p>
 <h5 style="text-align: justify"><strong>Alphaliner: Market Not Yet Supporting Scrap Prices</strong></h5>
 <p style="text-align: justify"><strong>Alphaliner</strong>, in an assessment parallel to BIMCO's analysis, noted that the <strong>decline in freight rates</strong> has not yet reached a level that would <strong>stimulate the recycling market</strong>.</p>
 <p><br>
@@ -96,11 +92,6 @@ Declining freight rates and energy efficiency regulations will <strong>shorten t
   <li style="text-align: justify"><p style="text-align: justify">This situation is bringing <strong>sustainable fleet management and carbon efficiency</strong> back to the forefront in global shipping.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Is Now Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading.</p>

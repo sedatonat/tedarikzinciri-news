@@ -36,9 +36,3 @@ tags:
 3. &ldquo;<strong>Orchestrate</strong>&rdquo; kavramı; tüm kaynak ve teknolojilerin koordinasyonu için anahtar oluyor.<br>
 4. Gerçek zamanlı veri; insan karar gücünün ötesine geçiyor; <strong>AI</strong> ve <strong>agentic AI</strong> kritik rol oynuyor.<br>
 5. <strong>AI</strong>; günlük hedefleri optimal maliyetle gerçekleştiriyor olunmasına olanak sağlıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43893]</p>

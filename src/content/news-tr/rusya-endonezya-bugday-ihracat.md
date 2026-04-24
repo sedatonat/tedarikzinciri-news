@@ -69,12 +69,3 @@ Akreditasyon kararı, iki ülke arasında <strong>tarım ve gıda güvenliği al
   <li style="text-align: justify"><p style="text-align: justify"><strong>2022–2025 arasında Rusya, Endonezya’ya 2,6 milyon ton tahıl</strong> ihraç etti.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Yeni akreditasyon, Rus üreticilere <strong>Asya pazarında daha geniş ihracat fırsatları</strong> sunuyor.</p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

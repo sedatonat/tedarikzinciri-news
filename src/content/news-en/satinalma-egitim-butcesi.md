@@ -47,12 +47,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">According to <strong>Gartner</strong> research, <strong>GenAI</strong> offers three critical innovations redefining supply processes: <strong>agentic reasoning</strong>, <strong>multimodality</strong>, and <strong>AI agents</strong>.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">According to <strong>Gartner</strong>'s survey, 72 percent of supply leaders are prioritizing <strong>GenAI</strong> integration.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Procure ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p>You can download and read it for free via the link <a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a></p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

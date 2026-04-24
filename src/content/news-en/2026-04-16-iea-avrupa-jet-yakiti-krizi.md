@@ -38,11 +38,5 @@ tags:
 <p>Source:<br>
 ---<br>
 </p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge via this link.</p>
 <p>We would be delighted to hear your feedback.</p>
 <p>Wishing you happy reading.</p>
-<p><br></p>
-<p>[43869]</p>

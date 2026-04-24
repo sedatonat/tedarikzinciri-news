@@ -23,8 +23,3 @@ tags: ["ONE", "Ocean Network Express", "Laem Chabang", "Tayland", "HLT", "Hutchi
 3. The terminal portfolio includes the automated Terminal D plus C1, C2, and A3.<br>
 4. The investment will strengthen ONE's position in Southeast Asia.<br>
 5. The move reflects vertical integration trends among ocean carriers.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

@@ -89,12 +89,3 @@ The Manila government is <strong>pursuing solutions through diplomatic channels<
   <li style="text-align: justify"><p style="text-align: justify">According to experts, this development could cause <strong>serious disruptions in global maritime labor flows</strong>.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The Philippine government has launched diplomatic intervention to ensure seafarers receive "fair and transparent treatment."</p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Get ERP? Our Book is Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a>&nbsp;You can download and read it for free via this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>Wishing you happy reading in advance.</p>

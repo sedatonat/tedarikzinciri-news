@@ -40,12 +40,3 @@ tags:
   <li><p>Duffy, harcanmamış altyapı fonlarının denetimini üstlenecek ve <strong>Tesla</strong>'ya yönelik devam eden güvenlik soruşturmasının süreceğini belirtti.​</p></li>
   <li><p>Wisconsin Senatörü <strong>Tammy Baldwin</strong>, Duffy'nin iki partili önemli projeleri hayata geçireceğini umduğunu ifade etti.​<a href="https://www.supplychaindive.com/news/transportation-secretary-sean-duffy-nomination-confirmed-senate/738576/" rel="noopener" target="_blank">supplychaindive.com</a></p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

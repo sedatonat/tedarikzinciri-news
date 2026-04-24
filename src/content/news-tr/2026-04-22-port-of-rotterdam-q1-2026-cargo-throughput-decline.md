@@ -31,8 +31,3 @@ tags:
 3. Karayolu konteyner akışları Asya ve Kuzey Amerika hatlarındaki güçlü taleple yüzde 11 büyüdü.<br>
 4. Sıvı dökme yük yüzde 2,2; mineral yağ ürünleri yüzde 10,3 ve LNG yüzde 1,7 oranında arttı.<br>
 5. Hürmüz Boğazı kapanışı Rotterdam petrol elleçlemesinin yüzde 10-14'ünü etkileyebilir; tam yansıma sonraki çeyreklerde beklendi.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

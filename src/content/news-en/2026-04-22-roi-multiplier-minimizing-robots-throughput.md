@@ -27,8 +27,3 @@ tags: ['Zebra Technologies', 'AMR', 'depo robotik', 'throughput', 'ROI', 'cloud 
 3. Cloud plus edge computing optimize <strong>AMR</strong> fleet efficiency.<br>
 4. This article is published under <strong>Zebra Technologies</strong> sponsorship.<br>
 5. Software orchestration in automation is replacing mere hardware addition.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our Book is Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[42770]</p>

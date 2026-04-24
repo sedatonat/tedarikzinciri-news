@@ -31,8 +31,3 @@ tags:
 3. Terminal, Northeast Georgia'yı Savannah ve Brunswick'in derin su limanlarına bağlayacak.<br>
 4. Doğrudan Norfolk Southern demiryolu hizmeti sunulacak.<br>
 5. Tam elektrikli RTG'ler sıfır lokal emisyon sağlarken hinterland kapsamasını genişletiyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

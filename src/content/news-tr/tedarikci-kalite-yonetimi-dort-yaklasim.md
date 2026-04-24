@@ -42,4 +42,3 @@ tags:
   <li><p>İyileştirme uygulamasında rehberlik sunmak, denetim ve raporlama gereksinimlerini azaltmak, iş operasyonlarına olumsuz etkileri azaltmak ve diğer iş alanları için değeri vurgulamak, teşvik olarak değerlendirilebilir.<br>
 </p></li>
 </ul>
-<p><br></p>

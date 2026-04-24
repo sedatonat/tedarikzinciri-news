@@ -36,11 +36,3 @@ tags:
 3. <strong>Boeing</strong>, 2011&rsquo;de operatörleri bilgilendiren bir <strong>service letter</strong> yayımladı.<br>
 4. Üretici, sorunun uçuş güvenliği düzeyinde tehlike oluşturmayacağı sonucuna varmıştı.<br>
 5. <strong>NTSB</strong>, nihai raporunu yayımlayacağı tarihe kadar yorum yapmaktan kaçınıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43214]</p>

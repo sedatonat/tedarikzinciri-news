@@ -36,9 +36,3 @@ tags:
 3. Gelir sızıntısı; çoklu noktalarda oluşuyor olabiliyor.<br>
 4. Taşıyıcılar; yıllık bazda yeniden müzakere yapıyor olmalı.<br>
 5. <strong>UPS</strong> ve <strong>FedEx</strong>; rakip baskısı ile ayarlamalara açık oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43901]</p>

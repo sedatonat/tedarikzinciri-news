@@ -27,8 +27,3 @@ tags: ['Trump', 'tarife', 'Mexico', 'Canada', 'ithalat', 'fiyat artışı', 'oto
 3. <strong>Modelo</strong>, a <strong>Constellation Brands</strong> product, is the U.S. beer market leader.<br>
 4. There is a 30-day additional delay for products covered under <strong>USMCA</strong>.<br>
 5. <strong>Mexico</strong>'s <strong>Sheinbaum</strong> and <strong>Canada</strong>'s <strong>Carney</strong> lead the main countermeasure efforts.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free through this link.</p>
-<p><br></p>
-<p>[41310]</p>

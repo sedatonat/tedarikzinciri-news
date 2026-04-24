@@ -35,8 +35,3 @@ tags:
 3. <strong>UNFI</strong>; <strong>Whole Foods</strong> dağıtımını 5 Haziran 2025 siber saldırıyla durduruyor.<br>
 4. <strong>Sensata Technologies</strong>; Mart 2025 ransomware saldırısıyla operasyonları kesintiye uğramakta.<br>
 5. <strong>Zero trust</strong>; <strong>EDR/XDR/SIEM</strong>; <strong>employee training</strong>; ana azaltma araçları oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42120]</p>

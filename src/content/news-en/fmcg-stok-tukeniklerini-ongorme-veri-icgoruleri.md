@@ -32,4 +32,3 @@ tags:
   <li><p>Forecast accuracy and demand variability have been identified as key drivers of CFR.</p></li>
   <li><p>Hybrid models and advanced time series machine learning models have demonstrated high accuracy and precision in CFR prediction.</p></li>
 </ul>
-<p><br></p>

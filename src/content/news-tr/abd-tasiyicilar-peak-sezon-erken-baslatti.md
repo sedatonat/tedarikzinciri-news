@@ -29,4 +29,3 @@ tags:
   <li><p>Doğu Kıyısı limanlarında beklenen grev riski, ithalat kararlarını etkiledi.</p></li>
   <li><p>Yoğun sezon, Haziran ayında başladı.</p></li>
 </ul>
-<p><br></p>

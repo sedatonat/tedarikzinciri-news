@@ -29,8 +29,3 @@ tags:
 3. Uzak Doğu havzası (Vladivostok, Nakhodka, Vostochny) büyümenin ana motoru.<br>
 4. Baltık limanları AB yaptırımları ve gemi denetimleri nedeniyle baskı altında.<br>
 5. Karadeniz havzası Türkiye, İran, BAE ve Orta Asya ticareti sayesinde stabil.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

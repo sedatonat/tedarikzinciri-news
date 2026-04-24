@@ -27,12 +27,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Elektrikli taşıyıcılar, düşük emisyon ve işletme maliyetleriyle çevre dostu bir çözüm sunuyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Bu adım, terminalin operasyonel verimliliğini artırıyor ve sürdürülebilir lojistik çözümlerine olan bağlılığı gösteriyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

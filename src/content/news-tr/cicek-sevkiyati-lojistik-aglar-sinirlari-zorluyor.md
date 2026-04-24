@@ -34,4 +34,3 @@ tags:
   <li><p>Çiçekler 34 derecede soğutularak tazeliği korunuyor.</p></li>
   <li><p>ABD'deki çiçek satışları son beş yılda %48 artarak 8 milyar dolara ulaştı.</p></li>
 </ol>
-<p><br></p>

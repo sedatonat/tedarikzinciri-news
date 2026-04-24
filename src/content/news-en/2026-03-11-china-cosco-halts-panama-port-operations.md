@@ -28,10 +28,4 @@ tags: ['Cosco', 'Panama', 'Balboa', 'CK Hutchison', 'BlackRock', 'Trump', 'Xi Ji
 3. <strong>Panama</strong> forcibly took over two terminals from <strong>CK Hutchison</strong> in February.<br>
 4. The $19 billion, 43-port deal involving <strong>BlackRock</strong> is stalled.<br>
 5. Resolution hopes are pinned on a <strong>Trump</strong>-<strong>Xi</strong> meeting.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>
 <p>Your feedback will make us happy.</p>
-<p><br></p>
-<p>[43630]</p>

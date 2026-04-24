@@ -47,13 +47,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>ERP</strong> sistemleri, e-ticaret sektöründe sipariş yönetimi, envanter kontrolü ve lojistik gibi kritik süreçlerin etkin yönetimi için hayati öneme sahiptir.​</p></li>
 </ul>
 <p style="text-align: justify">Sonuç olarak, <strong>ERP</strong> sistemlerindeki kesintiler, e-ticaret şirketlerinin operasyonlarını olumsuz etkiliyor ve ciddi mali kayıplara yol açıyordır. Şirketlerin bu tür kesintileri önlemek için proaktif önlemler alması, operasyonel verimliliği artırıyor ve müşteri memnuniyetini sağlıyordır.</p>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

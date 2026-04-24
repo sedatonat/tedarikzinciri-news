@@ -35,9 +35,3 @@ tags:
 3. <strong>AI</strong>; imalat operasyonlarının temeli oluyor.<br>
 4. Dijital platformlar; opsiyondan zorunlu altyapıya kaymakta.<br>
 5. <strong>Nick Bowman</strong>; <strong>SupplyChainBrain</strong> kıdemli editörü olarak sunuyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43629]</p>

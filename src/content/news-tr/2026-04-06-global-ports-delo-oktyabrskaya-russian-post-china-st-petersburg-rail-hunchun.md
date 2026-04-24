@@ -30,8 +30,3 @@ tags:
 3. Yeni servis 2026 Q2 sonunda başlayacak; tahmini transit süre 15 gün.<br>
 4. Hizmet; posta, tüketici ürünleri, giyim ve ayakkabı taşıyacak.<br>
 5. Bloktrenler Hunchun'dan başlayıp Kamyshovaya sınır geçidi üzerinden Rusya'ya girecek.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -30,8 +30,6 @@ tags:
 <p>Bu yeni hizmetle birlikte, SeaLead ve GFS, Akdeniz bölgesindeki stratejik konumlarını güçlendiriyor. Müşterilere daha geniş bir hizmet ağı ve daha verimli lojistik çözümler sunmayı hedefleyerek, bölgedeki ticaret akışını kolaylaştırmayı amaçlıyorlar. STM servisi, artan ticaret hacmini destekleyerek küresel ticaretin akışını kolaylaştıracak önemli bir adım olarak görülüyor.</p>
 <p><br></p>
 <p>Sonuç olarak, SeaLead ve GFS'nin başlattığı STM hizmeti, Akdeniz bölgesindeki ticaretin gelişimine önemli bir katkı sunuyor. Müşterilere sundukları hızlı, güvenilir ve geniş kapsamlı hizmet ağıyla, bölgedeki lojistik ve taşımacılık sektöründe yeni bir standart belirliyorlar. Bu girişim, küresel ticaret dinamiklerini olumlu yönde etkileyerek, bölgesel ve uluslararası ticaret ilişkilerinin güçlenmesine yardımcı olacak.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li><p><strong>SeaLead ve GFS İşbirliği:</strong> SeaLead, GFS ile işbirliği yaparak STM servisini başlattı.</p></li>
@@ -41,5 +39,3 @@ tags:
   <li><p><strong>CEO Açıklaması:</strong> Süleyman Avcı, STM hizmetinin Akdeniz'deki varlıklarını güçlendirdiğini belirtti.</p></li>
   <li><p><strong>Başkan Yardımcısı Görüşü:</strong> Cho Kit Wei, hizmetin müşterilere gelişmiş bağlantı ve verimli geçiş süreleri sunduğunu ifade etti.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

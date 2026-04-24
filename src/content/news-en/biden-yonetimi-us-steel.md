@@ -43,13 +43,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">U.S. Steel and Nippon Steel have filed a federal lawsuit challenging Biden's decision.<a href="https://abcnews.go.com/Business/us-steel-nippon-steel-sue-biden-administration-blocked/story?id=117375339&utm_source=chatgpt.com" rel="noopener" target="_blank">ABC News</a></p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading.</p>
-<p><br></p>
-<p><br></p>

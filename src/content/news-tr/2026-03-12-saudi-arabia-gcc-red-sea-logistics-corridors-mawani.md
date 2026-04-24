@@ -30,8 +30,3 @@ tags:
 3. Bonded warehouse zonları operasyonel esneklik sağlıyor.<br>
 4. ZATCA, gümrük ve lojistik prosedürlerini entegre ediyor.<br>
 5. Mawani altyapısı tam kapasitede kullanıma hazır.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

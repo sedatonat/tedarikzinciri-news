@@ -28,9 +28,3 @@ tags: ['WMS', 'ajansal yapay zeka', 'Logistics Reply', 'Todd Kolber', 'depo yön
 3. The concept of "<strong>orchestrate</strong>" is key to coordinating all resources and technologies.<br>
 4. Real-time data exceeds human decision-making capacity; <strong>AI</strong> and <strong>agentic AI</strong> play a critical role.<br>
 5. <strong>AI</strong> enables achievement of daily goals at optimal cost.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>
-<p>[43893]</p>

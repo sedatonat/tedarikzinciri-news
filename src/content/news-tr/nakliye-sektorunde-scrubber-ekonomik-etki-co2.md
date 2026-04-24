@@ -41,5 +41,3 @@ tags:
   <li><p>Düşük kükürt içerikli yakıta geçmek yerine, scrubber kullanımı daha maliyet etkilidir.</p></li>
   <li><p>Karbon emisyonlarını azaltmaya yönelik politikaların etkisi altındayız.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

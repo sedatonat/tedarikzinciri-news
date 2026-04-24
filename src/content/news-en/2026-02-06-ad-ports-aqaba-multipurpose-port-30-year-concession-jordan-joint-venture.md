@@ -23,8 +23,3 @@ tags: ["AD Ports", "Akabe", "Ürdün", "ADC", "imtiyaz", "ortak girişim", "ASEZ
 3. AD Ports will hold 70% and ADC 30% in the Joint Venture.<br>
 4. AD Ports' investment commitment stands at AED 141 million ($38.4 million).<br>
 5. Formal operations transfer is planned for August, marking strategic expansion in the Red Sea corridor.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

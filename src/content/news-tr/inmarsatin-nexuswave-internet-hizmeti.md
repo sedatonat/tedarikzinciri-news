@@ -39,17 +39,9 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Gelecekte, <strong>ViaSat-3</strong> Ka-band hizmetinin entegrasyonu ile birleşik bağlantı hızlarının daha da artırılması planlanıyordır.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
+
 <p><strong>Haber Linkleri:</strong></p>
 <ul>
   <li><p><a href="https://www.porttechnology.org/news/inmarsat-maritimes-connectivity-service-hits-340-mbps/"><u>https://www.porttechnology.org/news/inmarsat-maritimes-connectivity-service-hits-340-mbps/</u></a></p></li>
   <li><p><a href="https://gcaptain.com/inmarsat-verifies-unparalleled-340-mbps-nexuswave-download-speeds-to-demonstrate-power-of-network-bonding-for-maritime-market/"><u>https://gcaptain.com/inmarsat-verifies-unparalleled-340-mbps-nexuswave-download-speeds-to-demonstrate-power-of-network-bonding-for-maritime-market/</u></a></p></li>
 </ul>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

@@ -36,9 +36,3 @@ tags:
 3. Çoğu şirket; öngörücüden generatif <strong>AI</strong>&rsquo;ya geçiyor; ajansala değil.<br>
 4. Kötü veri; ajansal <strong>AI</strong>&rsquo;nın tam faydasının görülüyor olunmasını engelliyor.<br>
 5. <strong>AI</strong>; eğitim sürelerini 30-45 günden 1 güne kadar indiriyor olabiliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43872]</p>

@@ -31,4 +31,3 @@ tags:
   <li><p>Kazada can kaybı yaşanmaması, çevrede çalışan veya operatörlerin o sırada bölgede bulunmamasından kaynaklandı.</p></li>
   <li><p>Çalışanların yaşadığı korku anları, telefon kameralarına yansıdı.</p></li>
 </ol>
-<p><br></p>

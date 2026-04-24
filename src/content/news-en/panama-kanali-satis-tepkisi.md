@@ -38,7 +38,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>CK Hutchison</strong>'s other business operations in China and Hong Kong may be negatively affected by this sale.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
+
 <p><strong>News Links:</strong></p>
 <ul>
   <li><p><a href="https://www.joc.com/article/beijing-issues-warning-over-hutchisons-proposed-sale-of-panama-ports-company-5962910"><u>https://www.joc.com/article/beijing-issues-warning-over-hutchisons-proposed-sale-of-panama-ports-company-5962910</u></a></p></li>
@@ -46,10 +46,5 @@ tags:
   <li><p><a href="https://www.supplychainbrain.com/articles/41365-china-slams-sale-of-panama-canal-ports"><u>https://www.supplychainbrain.com/articles/41365-china-slams-sale-of-panama-canal-ports</u></a></p></li>
 </ul>
 <p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
 <p>Your feedback would make us happy.</p>
 <p>Wishing you good reading from the start.</p>

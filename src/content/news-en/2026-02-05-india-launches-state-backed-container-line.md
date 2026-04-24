@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">India spends an estimated $70-75 billion annually on foreign shipping services, reflecting what leaders have described as an untenable reliance on non-Indian carriers to serve the vast majority of the country's maritime trade. The country also set aside an additional $5.4 billion earlier in 2026 to fund direct subsidies supporting shipbuilding infrastructure. Currently ranked around 20th in the world for shipbuilding, India aims to break into the top 10 by 2030 and the top five by 2047.</p>
 <p><br></p>
 <p style="text-align: justify">Meanwhile, India has aggressively pursued trade deals with both the <strong>European Union</strong> and the <strong>United States</strong> in recent weeks. The Trump administration made the relevant announcement on February 2. From a supply chain perspective, the entry of <strong>BCSL</strong> could moderate medium-term pricing power for <strong>Maersk</strong>, <strong>MSC</strong>, <strong>CMA CGM</strong> and <strong>Hapag-Lloyd</strong> on Indian subcontinent services. A domestic flag advantage is becoming structural in <strong>Indo-EU</strong> connectivity strategies and the <strong>IMEC (India-Middle East-Europe Economic Corridor)</strong> through <strong>JNPT</strong>, <strong>Mundra</strong> and <strong>Cochin</strong>.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43430]</p>

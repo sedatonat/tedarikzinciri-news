@@ -77,12 +77,3 @@ The cancelled projects threaten not only the port and shipbuilding sectors but a
   <li style="text-align: justify"><p style="text-align: justify"><strong>Industry representatives</strong> are demanding <strong>consistent policy and financial support</strong> from the government.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Energy analysts suggest that this decision could result in <strong>a 5–10 year setback for the U.S. offshore wind industry.</strong></p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a>&nbsp;You can download and read it free of charge via the link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

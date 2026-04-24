@@ -51,5 +51,3 @@ tags:
   <li><p>AB'nin yaptırımları, silah tedarikini ve Ukraynalı çocukların kaçırılmasını hedef alıyor.</p></li>
   <li><p>Rusya, AB yetkililerine ve politikacılara yönelik giriş yasağı listesini genişletti.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

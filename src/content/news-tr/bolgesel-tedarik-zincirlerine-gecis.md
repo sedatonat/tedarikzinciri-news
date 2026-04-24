@@ -26,8 +26,6 @@ tags:
 <p>Tedarik zinciri liderleri, müşteri deneyiminde hız ve hizmete daha fazla önem vererek, küresel ağların yerine bölgesel modellere geçiş yapıyor. Bu strateji, tedarik zinciri yüzey alanını azaltarak ve bölgedeki çeşitli tesislerde çok kaynaklı stratejiler uygulayarak kesinti risklerini düşürüyor.&nbsp;</p>
 <p><br></p>
 <p>Ayrıca, Meksika ve Kanada'nın 2023 yılında ABD'nin en büyük iki ticaret ortağı haline gelmesi gibi maliyet tasarrufları da bölgeselleşmenin avantajları arasında yer alıyor.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ol>
   <li><p>Küresel tedarik zinciri kesintileri artarken, şirketler ana pazarlarına yakın yerlerde üretim yapmayı tercih ediyor.</p></li>
@@ -38,4 +36,3 @@ tags:
 </ol>
 <p><br></p>
 <p><strong>İlgili makalemiz: </strong><a href="https://www.tedarikzinciriportali.com/post/terim-regionalization-bolgesel-uretim-tedarik"><u>https://www.tedarikzinciriportali.com/post/terim-regionalization-bolgesel-uretim-tedarik</u></a></p>
-<p><br></p>

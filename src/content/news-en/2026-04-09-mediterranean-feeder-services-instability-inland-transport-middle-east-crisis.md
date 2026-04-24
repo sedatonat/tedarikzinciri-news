@@ -22,8 +22,3 @@ tags: ["Mediterranean", "feeder services", "Middle East crisis", "inland transpo
 3. The arrival rhythm has broken at transshipment hubs such as Barcelona, Algeciras, Piraeus, and Valencia.<br>
 4. Unexpected congestion is hitting terminal gates; intermodal bookings cannot be planned.<br>
 5. The sector must invest in dual feeder hub rotation and flexible planning.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

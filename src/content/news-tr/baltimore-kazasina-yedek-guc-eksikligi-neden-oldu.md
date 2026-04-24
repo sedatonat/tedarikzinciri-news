@@ -36,4 +36,3 @@ tags:
   <li><p>Yedek güç sistemi, yük gemileri için değil, genellikle yolcu gemilerinde bulunur.</p></li>
   <li><p>Geminin elektrik kesintileri, köprüye çarpmadan önce ve limandan ayrılmadan önce yaşandı.</p></li>
 </ol>
-<p><br></p>

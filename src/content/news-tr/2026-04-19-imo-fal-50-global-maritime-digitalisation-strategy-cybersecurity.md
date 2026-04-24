@@ -30,8 +30,3 @@ tags:
 3. Strateji birlikte çalışabilirlik, veri paylaşımı ve yönetişimi ön plana çıkarıyor.<br>
 4. 2027'deki 35. IMO Asamblesi öncesinde Hukuk, Deniz Güvenliği ve Çevre Komiteleri inceleyecek.<br>
 5. FAL Konvansiyonu eki değişiklikleriyle denizcilik tek pencereleri için siber güvenlik zorunlu hale geldi.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

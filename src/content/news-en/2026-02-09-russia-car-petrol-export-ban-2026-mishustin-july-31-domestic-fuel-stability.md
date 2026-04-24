@@ -21,8 +21,3 @@ tags: ["Russia", "petrol export ban", "Mikhail Mishustin", "fuel market", "diese
 3. The order was signed by Premier Mikhail Mishustin.<br>
 4. Car petrol manufacturers (refineries) are excluded from the ban.<br>
 5. The goal is to maintain price stability in the domestic fuel market.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

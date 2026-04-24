@@ -28,10 +28,4 @@ tags: ['DFC', 'reasürans', 'Hürmüz Boğazı', 'Ben Black', 'savaş riski', 'L
 3. Approximately 20% of global crude oil and <strong>LNG</strong> transits this strait.<br>
 4. <strong>U.S.</strong> crude prices up 35%; <strong>Gulf</strong> producers cutting output.<br>
 5. <strong>DFC</strong> CEO <strong>Ben Black</strong> emphasizes the plan will restart energy flows.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book is Now Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
 <p>Your feedback would make us happy.</p>
-<p><br></p>
-<p>[43612]</p>

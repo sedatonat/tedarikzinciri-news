@@ -60,15 +60,9 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Dragon service is the first to continuously deploy vessels at this capacity on the route.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">NAEC terminals face heightened operational stress due to large vessels.</p></li>
 </ul>
-<p>----------</p>
+
 <p><strong>Source: </strong><a href="https://www.porttechnology.org/news/mscs-ultra-large-vessels-create-two-tier-fleet-on-med-naec/"><u>https://www.porttechnology.org/news/mscs-ultra-large-vessels-create-two-tier-fleet-on-med-naec/</u></a></p>
-<p>--------------------</p>
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Acquire ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a>&nbsp;You can download and read it for free via this link.</p>
 <p>We would appreciate your feedback.</p>
 <p>Happy reading!</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

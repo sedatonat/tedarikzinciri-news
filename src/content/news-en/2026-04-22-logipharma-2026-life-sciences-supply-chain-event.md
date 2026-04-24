@@ -27,8 +27,3 @@ tags: ['LogiPharma', 'ilaç tedarik zinciri', 'biyoteknoloji', 'medtech', 'yapay
 3. 150+ expert speakers addressing <strong>AI</strong>, data and leadership.<br>
 4. Transition trajectory: from digital transformation to digital autonomy.<br>
 5. <strong>End-to-end</strong> value chain spanning science, manufacturing, logistics and patient care.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our Book is Now Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[42740]</p>

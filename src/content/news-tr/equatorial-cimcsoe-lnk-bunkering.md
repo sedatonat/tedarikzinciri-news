@@ -36,13 +36,3 @@ tags:
 • Singapur’un LNG hub’ı olma hedeflerine katkı sunuyor<br>
 • Düşük emisyonlu gemi yakıtlarına geçişi hızlandırmayı amaçlıyor<br>
 • CIMC SOE tarafından üstlenilen inşayla sektörde çevre dostu teknolojilerin yaygınlaşması bekleniyor</p>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

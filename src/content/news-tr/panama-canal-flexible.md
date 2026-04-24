@@ -26,11 +26,3 @@ tags:
 3. AI scheduling operasyon verimliliği sağlıyordır.<br>
 4. Reform, kanalın rekabet gücünü artırıyordır.<br>
 5. Küresel deniz taşımacılığında öngörülebilirlik güçleniyordir.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[786]</p>

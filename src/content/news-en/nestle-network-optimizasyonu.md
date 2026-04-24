@@ -93,11 +93,6 @@ This approach enables the company to both <strong>enhance customer experience</s
   <li style="text-align: justify"><p style="text-align: justify"><strong>Karan Gill:</strong> "Network optimization sits at the heart of Nestlé's supply chain flexibility."</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Procure ERP?" is now published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading from the start.</p>

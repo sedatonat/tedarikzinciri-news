@@ -35,8 +35,3 @@ tags:
 3. <strong>CDC</strong>; 2024 fentanil ölümleri 48,000+; 2023 76,000+ olarak raporluyor.<br>
 4. <strong>Trump</strong>; fentanili <strong>China</strong> tarifelerinin ana motivasyonu olarak gösteriyor.<br>
 5. <strong>U.S.-China</strong> ticaret çalkantısı; ilerleme yönünde sinyal oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42820]</p>

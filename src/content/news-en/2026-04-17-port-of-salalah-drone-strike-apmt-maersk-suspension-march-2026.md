@@ -23,8 +23,3 @@ tags: ["Salalah Limanı", "Umman", "drone saldırısı", "APM Terminals", "Maers
 3. A ship-to-shore (STS) crane was damaged and one worker was injured.<br>
 4. Hapag-Lloyd confirmed its vessel LISBON EXPRESS was affected.<br>
 5. Operations were paused for approximately 48 hours for damage assessment.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">It is reasonable to expect a modest 1% to 4% volume lift in the back half of 2026, but it will still be a shippers' market. The combination of weakened demand, ongoing tariff anxiety and persistent overcapacity gives shippers an unusual degree of bargaining power and flexibility. Many will secure highly favorable rates for 2026 and reshape their ocean strategies with less margin pressure. For <strong>U.S.</strong> importers, the desire for clarity, especially final resolution on Trump-era tariffs and a stabilizing trade framework with China, remains the central concern.</p>
 <p><br></p>
 <p style="text-align: justify">For carriers, the next 18 months will be defined by rate compression and overcapacity risk. The pendulum has swung decisively away from the pandemic peak, with soft trades, flat demand and extensive newbuild commitments creating tight margins. From a supply chain perspective, in contract negotiations with <strong>Maersk</strong>, <strong>MSC</strong>, <strong>CMA CGM</strong>, <strong>Hapag-Lloyd</strong> and <strong>ZIM</strong>, shippers are well positioned to keep <strong>NAC (Named Account Contracts)</strong> volume commitments flexible, lower <strong>MQC (Minimum Quantity Commitment)</strong> levels and tie <strong>BAF</strong>, <strong>EBAF</strong> and <strong>PSS</strong> surcharges to a contract baseline.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43305]</p>

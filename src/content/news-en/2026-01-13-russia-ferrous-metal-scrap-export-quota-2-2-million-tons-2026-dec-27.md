@@ -21,8 +21,3 @@ tags: ["Russia", "ferrous metal scrap", "export quota", "2026", "industry minist
 3. The new quota is 400 tons more than the previous August 2025 one.<br>
 4. Duty within the quota: 5% (min 15 euro/ton); exceeding it: 5% (min 290 euro/ton).<br>
 5. Türkiye is traditionally the largest buyer of Russian scrap exports.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

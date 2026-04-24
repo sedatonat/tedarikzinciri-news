@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">The Hamburg-based shipper had said over the weekend that it was nearing a deal. There has been increased consolidation pressure in the industry due to a slump in freight rates from the lucrative pandemic years, when carriers ordered a record number of ships to meet demand. Both Hapag-Lloyd and ZIM have reported shrinking profits recently. Haifa-based ZIM operates 145 ships including 130 container vessels and 15 vehicle transport vessels, according to official reports.</p>
 <p><br></p>
 <p style="text-align: justify">The company says it operates a "<em>charter-intensive fleet model</em>" or "<em>asset-light</em>" approach, meaning many of its vessels are leased rather than owned. The <strong>Israeli government</strong> regards ZIM as a strategic asset and holds a golden share in the company, granting it control over key decisions. From a supply chain perspective, this merger further consolidates the power of the global container market's "Big 3" and meaningfully reshapes capacity and pricing dynamics, particularly on Asia–Mediterranean trade lanes.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43484]</p>

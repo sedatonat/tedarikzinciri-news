@@ -22,8 +22,3 @@ tags: ["marine insurance", "P&I", "Skuld", "DNK", "Iran ceasefire", "Strait of H
 3. War zones fall outside standard coverage; additional 'war premium' is required.<br>
 4. Insurers demand a longer observation period for lasting stability.<br>
 5. The Cape of Good Hope alternative adds 10-14 days to Asia-Europe voyages.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

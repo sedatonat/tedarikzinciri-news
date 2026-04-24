@@ -44,13 +44,3 @@ Küçük kutularla ürünlerin uyumlu hale getirilmesi, taşımada <strong>hasar
   <li><p>Spec management veri bütünlüğü sağlar.</p></li>
   <li><p>P&amp;L ve çevre performansı birlikte iyileşir.</p></li>
 </ul>
-<p>----------</p>
-<p>----------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>
-<p><strong>#ERP Nedir?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" rel="noopener" target="_new"><u>https://www.sedatonat.com/erpnasilalinir</u></a> linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[908]</p>

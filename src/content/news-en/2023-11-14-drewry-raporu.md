@@ -25,4 +25,3 @@ Despite remaining stable over the past week, the downward trend is expected to c
 The shipment of automobiles in containers is driven in part by the need to return empty containers.<br>
 <br>
 We continue to monitor developments.</p>
-<p><br></p>

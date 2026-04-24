@@ -35,12 +35,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>CBRE</strong>'den <strong>John Morris</strong>, kargoların öne çekilmesinin depolama kapasitesini marjinal olarak etkilediğini, ancak endişe verici bir seviyede olmadığını belirtiyor.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Port of Los Angeles</strong>'tan <strong>Gene Seroka</strong>, Güney Kaliforniya'da 2 milyar metrekareden fazla depolama alanı bulunduğunu ve bu yüksek seviyelerde gelen kargoları bile karşılayabilecek kapasitede olduklarını ifade ediyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

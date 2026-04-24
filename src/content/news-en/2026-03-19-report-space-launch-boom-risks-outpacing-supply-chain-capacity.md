@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">At the same time, that reliance on aging infrastructure has begun to expose capacity constraints, as facilities designed for far lower production volumes have struggled to keep pace with rapidly accelerating demand. The space sector is also at a structural disadvantage when it comes to competing with other industrial manufacturers for key supplier contracts, the report notes, given that space is a small-volume industry.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, the core challenge for players such as <strong>SpaceX</strong>, <strong>Blue Origin</strong>, <strong>Rocket Lab</strong> and <strong>Lockheed Martin</strong> sits in bottlenecks at the second- and third-tier supplier layers — specialty composites, precision-machined parts and traditional <em>aerospace-grade</em> alloys. In a national security context, the delivery cadence of pLEO constellations is becoming a defining parameter for programs such as the Pentagon's <em>Golden Dome</em> defense architecture. Multi-year capital investment in the supplier base will set the trajectory of the sector for the coming decade.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43684]</p>

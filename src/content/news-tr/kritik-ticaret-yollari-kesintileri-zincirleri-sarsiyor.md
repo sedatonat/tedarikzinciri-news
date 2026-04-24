@@ -23,8 +23,6 @@ tags:
 <p><br></p>
 <p>IMF'nin <a href="https://portwatch.imf.org/"><u>PortWatch</u></a> platformundan alınan verilere göre, Ümit Burnu çevresindeki ticaret hacmi geçen yılın seviyelerine kıyasla %74 artış gösterirken, Sahra Altı Afrika'daki 70 limana yapılan liman çağrıları Ocak ve Şubat 2024'te yıllık %6.7 azaldı. Avrupa Birliği ve Orta Doğu ile Orta Asya, %5.3'lük bir düşüş yaşadı.</p>
 <p>IMF, bu kesintilerin nakliye maliyetlerindeki artış nedeniyle enflasyon oranlarını potansiyel olarak etkileyebileceği ve küresel ticaret ile ekonomik aktivite istatistikleri için komplikasyonlar yaratabileceği konusunda uyarıyor. Afrika, Orta Doğu ve Avrupa'da Ocak ayına ait mal ticareti raporları, bu kesintiler nedeniyle yavaşlayan ithalat büyümesini gösterebilir. Ayrıca, büyük oranda ithalat gümrük vergileri ve ihracat vergilerine bağlı olan düşük gelirli ülkeler, Ocak ayı için beklenenden daha düşük gelir rapor edebilir.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ul>
   <li><p><a href="https://en.wikipedia.org/wiki/Suez_Canal"><u>Suez </u></a>ve <a href="https://en.wikipedia.org/wiki/Panama_Canal"><u>Panama Kanallarındaki </u></a>ticaretin önemli düşüşler yaşaması, küresel tedarik zincirlerini kesintiye uğratıyor.</p></li>
@@ -34,5 +32,3 @@ tags:
   <li><p>Sahra Altı Afrika'ya yapılan liman çağrıları %6.7, Avrupa Birliği ve Orta Doğu ile Orta Asya %5.3 düştü.</p></li>
   <li><p>Nakliye maliyetlerindeki artış, enflasyon oranlarını ve küresel ticaret ile ekonomik aktivite istatistiklerini etkileyebilir.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

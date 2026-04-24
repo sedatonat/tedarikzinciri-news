@@ -28,10 +28,4 @@ tags: ['Hürmüz Boğazı', 'İran', 'Devrim Muhafızları', 'ham petrol', 'BIMC
 3. In 2025, 13 million barrels of crude pass through the strait daily, representing 31% of global seaborne flows.<br>
 4. <strong>BIMCO</strong> expects disruptions to remain minor in scale.<br>
 5. <strong>U.S.</strong>-<strong>Iran</strong> negotiations continue in <strong>Geneva</strong> focused on the nuclear program.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
 <p>Your feedback would make us happy.</p>
-<p><br></p>
-<p>[43487]</p>

@@ -51,11 +51,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Future Targets:</strong> Plans to increase cargo volumes on the East-West and North-South corridors by two to four times by 2030.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
+
 <p>We would be delighted to hear your feedback.</p>
 <p>Wishing you good reading in advance.</p>

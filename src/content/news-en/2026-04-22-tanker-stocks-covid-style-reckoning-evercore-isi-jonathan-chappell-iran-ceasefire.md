@@ -25,8 +25,3 @@ tags: ["tanker", "hisse senedi", "evercore isi", "jonathan chappell", "iran ate≈
 3. In April 2020 spot rates peaked but share valuations failed to permanently capture the rally.<br>
 4. Easing tensions at the Strait of Hormuz could normalise freight rates.<br>
 5. Cautious positioning is advised for publicly listed crude and product tanker companies.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

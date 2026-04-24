@@ -35,8 +35,3 @@ tags:
 3. <strong>SMMT</strong> verisi; Eylül 51,090 birim olarak raporluyor.<br>
 4. <strong>British</strong> otomotiv sektörü; çoklu yapısal baskı altında oluyor.<br>
 5. <strong>U.K. government</strong>; <strong>JLR</strong> tedarikçilerine 1.5B GBP kredi garantisi sağlıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42720]</p>

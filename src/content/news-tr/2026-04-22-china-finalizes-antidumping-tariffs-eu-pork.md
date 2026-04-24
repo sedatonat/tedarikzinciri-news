@@ -35,8 +35,3 @@ tags:
 3. <strong>EU</strong>; dünyanın en büyük domuz ihracatçısı &mdash; üretiminin %13&rsquo;ü yurt dışına gidiyor.<br>
 4. <strong>China</strong>; <strong>EU</strong>&rsquo;dan 2.4 milyar avro değerinde domuz alıyor 2023/2024.<br>
 5. <strong>EU</strong>&rsquo;nun %45 <strong>EV</strong> tarifesi; karşılıklı misillemenin tetikleyicisi oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43010]</p>

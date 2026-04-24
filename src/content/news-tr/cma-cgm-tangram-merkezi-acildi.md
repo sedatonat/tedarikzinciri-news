@@ -24,8 +24,6 @@ tags:
 <p>90,000 ayak karelik bir alana sahip olan merkez, Marseilles'in 8. bölgesinde, Ecole Nationale Supérieure Maritime'in kalbinde yer alıyor. Tangram, eğitim odaları, simülasyonlar, bir inovasyon merkezi ve bir etkinlik alanı içeren bir site olarak tasarlanmıştır. Ayrıca, sanal gerçeklik ve yapay zeka avatarları gibi yenilikçi teknolojilere ev sahipliği yapıyor.</p>
 <p><br></p>
 <p>Üç eğitim programı sunan Tangram, BCG University, Imperial College London ve HEC Paris gibi üniversitelerle işbirliği içinde "iklim", "yapay zeka" ve "liderlik" üzerine kurslar düzenliyor. Her program, on saatlik uzaktan eğitimle başlayıp, site üzerinde bir hafta süren yoğun bir eğitimle devam ediyor. Her oturum, dünya genelinden çeşitli meslek gruplarından ve CMA CGM bölümlerinden katılımcıların bir araya gelmesine olanak tanıyor.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>
   <li><p>Tangram, yılda 3,000 CMA CGM çalışanını ağırlayacak.</p></li>
@@ -35,4 +33,3 @@ tags:
   <li><p>İnovasyon için yapay zeka avatarları ve sanal gerçeklik kullanılıyor.</p></li>
   <li><p>"İklim", "yapay zeka", "liderlik" temalı eğitim programları mevcut.</p></li>
 </ol>
-<p><br></p>

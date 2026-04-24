@@ -28,11 +28,5 @@ tags: ['Tesla', 'BYD', 'elektrikli araç', 'EV pazarı', 'Elon Musk', 'federal t
 3. The <strong>Trump</strong> administration has eliminated federal plug-in incentives.<br>
 4. Analysts note <strong>Tesla</strong>'s valuation is shaped by the real-world AI theme.<br>
 5. <strong>BYD</strong>'s vertical integration model provides significant advantages in battery and motor supply chains.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Purchase ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via the link above.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading.</p>
-<p><br></p>
-<p>[43071]</p>

@@ -28,4 +28,3 @@ tags:
   <li><p>The storm caused coastal erosion and flooding, resulting in significant losses to the tourism sector.</p></li>
   <li><p>Airport closures and flight cancellations substantially increased economic damage.</p></li>
 </ol>
-<p><br></p>

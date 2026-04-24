@@ -27,8 +27,3 @@ tags: ['OPEX', 'operasyonel mükemmellik', 'Londra konferansı', 'Jaguar Land Ro
 3. <strong>Jaguar Land Rover</strong>, <strong>Shell</strong>, <strong>Tesco</strong>, <strong>Network Rail</strong>, and <strong>Philips</strong> are main participating institutions.<br>
 4. <strong>Damian Hall</strong> (<strong>Ralph Lauren</strong>) will explore the balance between <strong>AI</strong> and human expertise.<br>
 5. <strong>Ravi Jay</strong> (<strong>Jaguar Land Rover</strong>) will examine global <strong>AI</strong> transformations.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[42060]</p>

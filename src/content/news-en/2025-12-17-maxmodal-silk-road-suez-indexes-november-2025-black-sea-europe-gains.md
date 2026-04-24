@@ -22,8 +22,3 @@ tags: ["Maxmodal", "MSRI", "MSCI", "Silk Road", "Suez Canal", "Black Sea", "Nove
 3. MSCI jumped more sharply: 7.94% and 9.33% respectively.<br>
 4. Western Black Sea-Europe routes drove most of the overland gains.<br>
 5. The sea-land price gap is expected to continue narrowing.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

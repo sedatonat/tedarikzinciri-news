@@ -27,8 +27,3 @@ tags:
 3. Gemi; genel ve kuru dökme yük, kereste, hurda, kömür ve tehlikeli kargo taşıyabiliyor.<br>
 4. Özellikler: LOA 140,88 m, deniz/nehirde taşıma kapasitesi 5.128/7.535 ton, 2 kargo ambarı.<br>
 5. RSD59 sınıfı; Rus iç su yolu filosunu modernleştirmede kritik rol oynuyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

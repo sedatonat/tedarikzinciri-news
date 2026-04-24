@@ -67,14 +67,8 @@ tags:
   <li><p><a href="https://www.tedarikzinciriportali.com/post/terim-zaibatsu"><u>Zaibatsu: Symbol of Japanese Industrial Alliance</u></a></p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Procure an ERP System?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p>You can download and read it free of charge through <a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a></p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading from now on.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

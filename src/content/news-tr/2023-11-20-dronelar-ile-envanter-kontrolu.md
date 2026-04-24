@@ -17,4 +17,3 @@ tags:
 - lojistik teknolojisi
 ---
 <p>SupplyChainBrain.com 'da yayınlanan bu makalede, ABD merkezli Langham Logistics firmasının envanter kontrolünün drone 'lar aracılığı ile yapılması ile alakalı projesi özetlenmiş.</p>
-<p><br></p>

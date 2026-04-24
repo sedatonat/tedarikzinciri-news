@@ -36,9 +36,3 @@ tags:
 3. %47 envanter ve tedarik optimizasyonunda; %41 lojistik ve rotalamada yapay zeka uyguluyor.<br>
 4. %71 üretken ve ajansal yapay zekaya; %60 öngörücü yapay zekaya 3-5 yılda yatırım planlıyor.<br>
 5. %44 tüketici talep volatilitesini en üst sıradaki zorluk olarak işaret ediyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43849]</p>

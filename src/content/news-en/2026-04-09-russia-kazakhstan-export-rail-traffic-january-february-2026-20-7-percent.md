@@ -22,8 +22,3 @@ tags: ["Russia", "Kazakhstan", "export", "rail freight", "RZD", "oil", "ferrous 
 3. Oil and products: 1.6 mn tons (+3.5%); ferrous metals: 1.1 mn tons (+26.5%).<br>
 4. Grain, meal, and flour exports rose 2.2-fold to 623 thousand tons.<br>
 5. Border checkpoints (Kanisay, Kigash, Ozinki, Kartaly, Orsk, Petropavlovsk, Zauralye) are being modernised.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

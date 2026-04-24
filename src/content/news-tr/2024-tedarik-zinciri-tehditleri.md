@@ -40,4 +40,3 @@ tags:
   <li><p>Emtia kıtlıkları, korumacılık eğilimini güçlendirecek.</p></li>
   <li><p>Siber suçlar, tedarik zincirlerine yönelik tehdit seviyesini artıracak.</p></li>
 </ol>
-<p><br></p>

@@ -27,8 +27,3 @@ tags: ['Japonya', 'ABD', 'otomotiv', 'ticaret anlaşması', 'tarifeler', 'UAW', 
 3. The <strong>UAW</strong> and <strong>AAPC</strong> (<strong>GM</strong>, <strong>Ford</strong>, <strong>Stellantis</strong>) have expressed deep anger at the agreement.<br>
 4. The <strong>USMCA</strong>'s 75% North America content requirement is effectively rendered moot in practice.<br>
 5. Japan exports more than 1.5 million vehicles annually to the <strong>U.S.</strong></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Acquire ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via the link.</p>
-<p><br></p>
-<p>[42220]</p>

@@ -37,13 +37,6 @@ tags:
   <li><p>Notification and handoff templates reduce errors.</p></li>
   <li><p>Maturity scales across wider ecosystems.</p></li>
 </ul>
-<p>----------</p>
-<p>----------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" rel="noopener" target="_new"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via this link.</p>
+
 <p>We would appreciate your feedback.</p>
 <p>We wish you good reading.</p>
-<p><br></p>
-<p>[864]</p>

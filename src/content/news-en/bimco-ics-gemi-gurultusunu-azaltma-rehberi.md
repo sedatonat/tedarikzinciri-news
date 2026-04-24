@@ -39,11 +39,3 @@ tags:
   <li><p>Energy-efficient ships also reduce underwater noise, contributing to environmental protection.</p></li>
   <li><p>The guide provides practical information for technical personnel to understand and reduce underwater noise.</p></li>
 </ul>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via the link above.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

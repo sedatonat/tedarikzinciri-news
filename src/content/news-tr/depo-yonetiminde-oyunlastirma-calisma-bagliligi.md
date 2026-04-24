@@ -31,4 +31,3 @@ tags:
   <li><p>Teşvikler, katılımı artırıyor; ankete katılanların %91'den fazlası teşvikler için yarışmalara katılmaya istekli.</p></li>
   <li><p>Gamification (oyunlaştırma) çabaları, çalışan ihtiyaçlarına odaklanmalı.</p></li>
 </ul>
-<p><br></p>

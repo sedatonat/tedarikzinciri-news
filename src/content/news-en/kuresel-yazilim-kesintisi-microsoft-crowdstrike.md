@@ -47,15 +47,5 @@ tags:
   <li><p><strong>Social Media Response:</strong> Elon Musk addressed the incident humorously on the X platform.</p></li>
 </ul>
 <p>This global software outage once again highlighted how critical and interconnected technology infrastructure is. International cooperation and technical interventions continue to resolve the issue promptly.</p>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Obtain ERP? Our Book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge through this link.</p>
 <p>Your feedback would make us happy.</p>
 <p>We wish you happy reading from now on.</p>

@@ -35,11 +35,3 @@ tags:
 3. <strong>Laptop farm</strong> modeli, <strong>ABD</strong>&rsquo;deki cihazları yurt dışından uzaktan kullanıyor.<br>
 4. <strong>DOJ</strong>, Haziran 2025&rsquo;te 29 yasadışı <strong>laptop farm</strong> tespit ediyor.<br>
 5. Elde ediliyor olan ücretler, rejimin silah programlarına aktarılıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43037]</p>

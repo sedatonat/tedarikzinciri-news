@@ -25,8 +25,3 @@ tags: ["türkmenbaşı limanı", "türkmenistan", "hazar denizi", "avrupa asya k
 3. Turkmenbashi is also a critical junction on the North-South corridor.<br>
 4. The Middle Corridor has become an alternative route for Europe-China cargo amid Red Sea and Russia risks.<br>
 5. Turkmenistan targets investment support under the EU's Global Gateway initiative.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

@@ -25,8 +25,3 @@ tags: ["OOCL", "CIS3", "China-Indonesia", "intra-Asia", "Jakarta", "Surabaya", "
 3. CIS3 rotation will call at Xiamen, Nansha, Jakarta, Surabaya and Yantian.<br>
 4. Premier Alliance member OOCL is reinforcing intra-Asia feeder capacity strategy.<br>
 5. The new service adds weekly capacity at Tanjung Priok and Tanjung Perak terminals.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

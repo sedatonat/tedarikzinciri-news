@@ -40,13 +40,6 @@ tags:
   <li><p>Shift toward LFP and Mn-rich cathodes is increasing.</p></li>
   <li><p>The decision is creating a technology diplomacy impact.</p></li>
 </ul>
-<p>----------</p>
-<p>----------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" rel="noopener" target="_new"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading from now on.</p>
-<p><br></p>
-<p>[876]</p>

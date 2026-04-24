@@ -32,4 +32,3 @@ tags:
   <li><p>Tarifelerin, enflasyonu tetikleme ve tedarik zincirlerini olumsuz etkileme riski var.</p></li>
   <li><p>Elektrikli araçlara uygulanan %100 tarife, ABD'nin net sıfır hedefleri ile çelişebilir.</p></li>
 </ol>
-<p><br></p>

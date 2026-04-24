@@ -40,4 +40,3 @@ tags:
   <li><p>Commodity shortages will strengthen protectionist tendencies.</p></li>
   <li><p>Cyber crimes will escalate the threat level to supply chains.</p></li>
 </ol>
-<p><br></p>

@@ -30,8 +30,3 @@ tags:
 3. Yükseltme, daha yüksek istif ve yeni nesil straddle taşıyıcıları karşılamayı hedefliyor.<br>
 4. Liman yıllık 250.000 TEU'dan fazla elleçliyor.<br>
 5. Liebherr Transform her vinci altı hafta içinde, ray üzerinden inmeden yükseltti.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -21,8 +21,3 @@ tags: ["740-metre trains", "rail freight", "Europe", "Borys Ganaylyuk", "policy"
 3. EU TEN-T policy aims to make 740-metre trains standard on main corridors.<br>
 4. Platform extensions, tunnel rebuilds, and signalling upgrades are expensive.<br>
 5. Supporters view longer trains as indispensable for easing congestion and modal shift.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

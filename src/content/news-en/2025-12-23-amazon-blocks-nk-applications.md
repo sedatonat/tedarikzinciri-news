@@ -28,11 +28,5 @@ tags: ['Amazon', 'Kuzey Kore', 'siber güvenlik', 'laptop farm', 'uzaktan çalı
 3. The <strong>laptop farm</strong> model allows devices in the <strong>U.S.</strong> to be accessed remotely from outside the country.<br>
 4. The <strong>DOJ</strong> identified 29 illegal <strong>laptop farms</strong> in June 2025.<br>
 5. Salaries obtained are being funneled to the regime's weapons programs.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
 <p>Your feedback would make us happy.</p>
 <p>Wishing you happy reading.</p>
-<p><br></p>
-<p>[43037]</p>

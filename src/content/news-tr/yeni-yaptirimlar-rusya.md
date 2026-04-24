@@ -39,8 +39,6 @@ tags:
 <p style="text-align: justify">Rusya'nın yaptırımları aşmak için kullandığı "gölge filo"nun güvenliği ve çevresel riskleri de endişe yaratıyor. Eski ve bakımsız gemilerin kullanımı; deniz kazaları ve petrol sızıntıları riskini artırıyor, bu tablo da deniz ekosistemleri ile kıyı bölgeleri için ciddi tehditler oluşturuyor.</p>
 <p><br></p>
 <p style="text-align: justify">Sonuç olarak ABD'nin Rusya'ya yönelik yeni yaptırımları; Moskova'nın petrol ihracatını zorlaştırıyor ve maliyetleri yukarı çekiyor. Bu durum; küresel enerji piyasalarında dalgalanmalara neden oluyor ve enerji güvenliği konusundaki endişeleri derinleştiriyor. Rusya'nın bu yaptırımlara nasıl yanıt vereceği ve petrol ihracatını sürdürmek için hangi stratejileri geliştireceği; önümüzdeki dönemde yakından izlenecek konular arasında öne çıkıyor.</p>
-<p style="text-align: justify"><br></p>
-<p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">ABD, Rusya'nın petrol endüstrisine yönelik geniş kapsamlı yaptırımlar uyguluyor.</p></li>
@@ -54,13 +52,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">ABD'nin yaptırımları, küresel enerji güvenliği ve piyasa istikrarı konularında yeni endişelere yol açıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Moskova, bu yaptırımlara karşı koymak için stratejik çözümler üretmeye çalışıyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>

@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Malzeme sınıflandırmaları da tutarsızlık gösterir. Aynı kimyasal ürün; satınalma, kalite veya lojistik departmanından hangisi sisteme giriş yaparsa yapsın; farklı dahili kodlar taşıyabilir. 250 milyon ABD doları portföy denetleyen bir şirkette bu tutarsızlıklar; sadece veri sorunu değil; tüm planlama modelini bozan yapısal bir kusurdur. Tahmini talep; sınıflandırma mantığının hatalı olduğu fark edildiğinde tamamen alt üst olur. Bu başarısızlıklar maliyetli olur ve kurum genelinde etki yaratır.</p>
 <p><br></p>
 <p style="text-align: justify">Yapay zekâ destekli sınıflandırma çözümleri; ürün açıklamalarını, malzeme bileşimlerini ve son kullanım amacını okur ve doğru HS koduna ulaşmak için <strong>WCO</strong> kurallarını otomatik olarak uygular. Bu yaklaşım; yalnızca hız değil; tutarlılık da sağlar. Tedarik zinciri perspektifinden <strong>SAP GTS</strong>, <strong>Oracle GTM</strong>, <strong>E2open</strong> ve <strong>Descartes</strong> gibi platformların yapay zekâ modüllerine yapılan yatırım; gümrük denetimindeki <strong>binding ruling</strong> taleplerinin azalmasına ve <strong>post-clearance audit</strong> risklerinin minimize edilmesine doğrudan katkı sağlar.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43059]</p>

@@ -36,10 +36,4 @@ tags:
 3. <strong>APM Terminals</strong>&rsquo;in geçici idari operatör rolü gündemde tutuluyor.<br>
 4. <strong>Supreme Court</strong>; Temmuz 2025&rsquo;te imtiyaz sözleşmesini anayasaya aykırı buluyor.<br>
 5. <strong>CK Hutchison</strong>, devralmaya karşı yasal işlem ihtimalini öne çıkarıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
 <p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p><br></p>
-<p>[43519]</p>

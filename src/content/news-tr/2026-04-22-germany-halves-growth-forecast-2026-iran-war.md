@@ -36,9 +36,3 @@ tags:
 3. <strong>DIHK</strong>, şirketlerin %83&rsquo;ünün enerji ve malzeme sıkıntısı yaşadığını bildirdi.<br>
 4. <strong>Merz-Klingbeil</strong>, 2029&rsquo;a kadar 140 milyar euro açığı kapatmaya çalışıyor.<br>
 5. Enflasyonun 2026&rsquo;da %2,7, 2027&rsquo;de ise %2,8 olması öngörülüyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43907]</p>

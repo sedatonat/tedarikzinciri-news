@@ -25,8 +25,3 @@ tags: ["mol", "mitsui osk lines", "elliott investment management", "aktivist yat
 3. Elliott is known as an aggressive fund pressuring boards to enhance shareholder value.<br>
 4. MOL's LNG, dry bulk, tanker, and energy portfolio attracts activist interest.<br>
 5. Activist investor pressure in Japan has now spread to the shipping sector.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

@@ -67,11 +67,5 @@ The shutdown of AIS systems even for <strong>a commodity as traceable as LNG</st
   <li style="text-align: justify"><p style="text-align: justify"><strong>The UK's sanctions on Beihai Terminal</strong> are proving ineffective as China has rerouted its shipments.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The development points to the <strong>growing role of shadow operations in global energy trade</strong>.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>Our Book "How to Buy an ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p>You can download and read it for free via the link <a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a></p>
 <p>Your feedback would make us happy.</p>
 <p>We wish you happy reading from the start.</p>

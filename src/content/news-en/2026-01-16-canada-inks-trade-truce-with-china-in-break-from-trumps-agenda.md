@@ -28,8 +28,3 @@ tags:
 <p style="text-align: justify">"If this marks a genuine about-face for Canada, and not just another reactionary flip-flop then we should acknowledge it as a possible inflection point," said Josef Gregory Mahoney, a professor of international relations at Shanghai's East China Normal University. The centerpieces of the agreement are tariff concessions. Carney anticipates a drop in canola tariffs from 85% to about 15% combined by March 1, citing "a high degree of confidence that that's going to happen."</p>
 <p><br></p>
 <p style="text-align: justify">Following the announcement, canola futures in New York extended gains to 2.6%, reaching their highest level since early December. From a supply chain perspective, this agreement positions Canada as an alternative bridge alongside the <strong>USMCA</strong> framework in North American agricultural and automotive supply chains. The soft entry of Chinese EV makers such as <strong>BYD</strong>, <strong>NIO</strong>, <strong>Geely</strong> and <strong>Chery</strong> into the Canadian market structurally increases competitive pressure on the Ontario-based production plans of <strong>Ford</strong>, <strong>GM</strong> and <strong>Stellantis</strong>.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43257]</p>

@@ -46,12 +46,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">ABD'nin gemi inşa pazarındaki payı %1'in altına düştü.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Soruşturma, Çin'in finansal destekler, zorunlu teknoloji transferi ve fikri mülkiyet hırsızlığı gibi yöntemlerle avantaj elde etti</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

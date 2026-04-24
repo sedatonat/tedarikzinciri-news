@@ -28,9 +28,3 @@ tags: ['Türkiye', 'Suriye', 'Ürdün', 'Suudi Arabistan', 'Abdulkadir Uraloğlu
 3. Connection to <strong>Saudi Arabia</strong>'s railway system is planned.<br>
 4. Project financing is not yet clear; discussions are ongoing.<br>
 5. Road improvements leading into <strong>Turkey</strong> are included in the plan.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via the link above.</p>
-<p><br></p>
-<p>[43870]</p>

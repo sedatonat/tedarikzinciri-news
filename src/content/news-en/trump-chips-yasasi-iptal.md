@@ -43,11 +43,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The US share of global chip manufacturing was 40 percent in 1990, but declined to 12 percent by 2021.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Repeal of the legislation could have adverse effects on US national security and economic stability.</p></li>
 </ul>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it free of charge through this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>We wish you happy reading from the start.</p>

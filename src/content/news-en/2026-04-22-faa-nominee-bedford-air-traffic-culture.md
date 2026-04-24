@@ -27,8 +27,3 @@ tags: ['FAA', 'Bryan Bedford', 'Republic Airways', 'Sean Duffy', 'hava trafiği'
 3. <strong>Sean Duffy</strong> will propose a system upgrade plan in May.<br>
 4. Both <strong>House</strong> and <strong>Senate</strong> propose allocating $12.5 billion each.<br>
 5. The January 2025 <strong>Washington D.C.</strong> collision, which killed 67 people, is the deadliest accident in 16 years.</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Purchase ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it free of charge via the link above.</p>
-<p><br></p>
-<p>[41930]</p>

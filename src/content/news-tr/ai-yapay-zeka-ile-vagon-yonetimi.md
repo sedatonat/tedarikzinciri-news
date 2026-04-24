@@ -41,12 +41,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><a href="https://www.himmelsbach-gmbh.de/"><u><strong>Himmelsbach GmbH</strong></u></a>, dünya genelinde yaklaşık 140 kurulum gerçekleştirmiştir; bunlar arasında İstanbul'daki <a href="https://tr.wikipedia.org/wiki/Marmaray"><u><strong>Marmaray</strong></u></a> hattındaki sistemler de bulunuyordır.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Şirket, topladığı verilerin işlenmesi için <a href="https://en.wikipedia.org/wiki/XML"><u><strong>XML</strong></u></a><strong> </strong>tabanlı yazılım arayüzleri sunarak, diğer endüstri sistemleriyle entegrasyon sağlıyordır.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

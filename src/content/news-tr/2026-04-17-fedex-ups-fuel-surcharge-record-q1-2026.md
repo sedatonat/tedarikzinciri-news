@@ -33,8 +33,3 @@ tags:
 3. İran Savaşı ve Hürmüz Boğazı aksaması petrol arzını ve yakıt ücretlerini baskılıyor.<br>
 4. Atlanta-New York 5 paund kara gönderi 2022'ye göre %41,8 daha pahalı.<br>
 5. Mart ekspres yakıt ek ücretleri; 2025 Q1'e göre %46 daha yüksek.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

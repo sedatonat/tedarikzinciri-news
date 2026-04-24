@@ -30,8 +30,3 @@ tags:
 3. Toplam grup elleçleme hacmi 93,4 milyon TEU oldu (+5,8 yüzde).<br>
 4. Net kar yüzde 32,2 artarak 1,96 milyar dolar olarak gerçekleşti.<br>
 5. Şirketin liman kapasitesi 109 milyon TEU seviyesine çıktı.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

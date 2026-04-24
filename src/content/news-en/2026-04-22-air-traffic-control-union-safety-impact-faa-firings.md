@@ -27,8 +27,3 @@ tags: ['NATCA', 'FAA', 'DOGE', 'işten çıkarma', 'hava trafik', 'güvenlik', '
 3. <strong>DOGE</strong>; <strong>Trump</strong> administration federal efficiency initiative.<br>
 4. <strong>FAA</strong>; ~14,000 controllers; 313 facilities &mdash; <strong>Oklahoma City</strong> academy.<br>
 5. 1981 <strong>PATCO</strong> strike; <strong>Reagan</strong> firing 11,000 controllers &mdash; historical reference.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge via this link.</p>
-<p><br></p>
-<p>[41230]</p>

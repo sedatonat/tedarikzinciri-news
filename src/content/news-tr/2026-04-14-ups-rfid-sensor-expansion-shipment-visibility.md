@@ -29,8 +29,3 @@ tags:
 3. Günde 20 milyon manuel tarama devre dışı kalıyor.<br>
 4. Ingram Micro, sistemi büyük ölçekli olarak kullanan ilk müşterilerden biri.<br>
 5. FedEx de RFID denemelerini paralel olarak yürütüyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -42,11 +42,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The company provides <a href="https://en.wikipedia.org/wiki/XML"><u><strong>XML</strong></u></a><strong> </strong>-based software interfaces for processing collected data, enabling integration with other industrial systems.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
+
 <p>Your feedback would be greatly appreciated.</p>
 <p>Wishing you happy reading.</p>

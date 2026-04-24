@@ -29,8 +29,3 @@ tags:
 3. Barkod tarayıcı, mobil bilgisayar ve etiket yazıcıları portföye dahil.<br>
 4. Brady, depo ve lojistikte entegre teklif oluşturmayı hedefliyor.<br>
 5. Intelligrated ve Transnorm dahil WWS birimi için de seçenekler değerlendiriliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -37,12 +37,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Göndericiler, tedarik zinciri stratejilerini yeniden değerlendiriyor ve maliyetleri optimize etmek için yeni yöntemler aramakta.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>FTR Transportation Intelligence</strong> analistleri, piyasa koşullarının dalgalı seyretmeye devam edeceğini ve göndericilerin bu duruma uyum sağlamaları gerektiğini belirtiyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

@@ -47,14 +47,7 @@ Performance monitoring should not be limited to data collection alone. The <stro
   <li><p>Scenario and stress planning test capacity.</p></li>
   <li><p>Closed-loop improvement enables sustainability.</p></li>
 </ul>
-<p>----------</p>
+
 <p><strong>Source Link:</strong> <a href="https://www.supplychainbrain.com/articles/42283-five-steps-to-strengthen-kpis-and-resilience-in-uncertain-times" rel="noopener" target="_new">https://www.supplychainbrain.com/articles/42283-five-steps-to-strengthen-kpis-and-resilience-in-uncertain-times</a></p>
-<p>----------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Purchase ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" rel="noopener" target="_new">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
 <p>Your feedback would make us happy.</p>
 <p>Wishing you good reading from now on.</p>
-<p><br></p>
-<p>[859]</p>

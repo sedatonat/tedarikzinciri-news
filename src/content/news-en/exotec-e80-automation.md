@@ -40,10 +40,3 @@ tags:
   <li><p>Digital twin reduces implementation time.</p></li>
   <li><p>Micro-fulfillment lowers last-mile costs.</p></li>
 </ul>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP System?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge through this link.</p>
-<p>Your feedback would be greatly appreciated.</p>
-<p>We wish you happy reading.</p>

@@ -27,8 +27,6 @@ tags:
 <p>İran donanmasına ait özel kuvvetlerin, İsrail şirketine ait olan <a href="https://www.vesselfinder.com/vessels/details/9857169"><u>MSC Aries</u></a> isimli gemiyi helikopterle zorla ele geçirmesi sonucunda, petrol fiyatları, nakliye rotaları ve enerji güvenliği üzerinde küresel etkiler oluşabileceği öngörülüyor.&nbsp;</p>
 <p><br></p>
 <p><a href="https://en.wikipedia.org/wiki/Strait_of_Hormuz"><u>Hürmüz Boğazı</u></a>'nın stratejik önemi ve bölgedeki artan gerginlikler, özellikle Dubai'nin<a href="https://en.wikipedia.org/wiki/Jebel_Ali"><u> Jebel Ali limanı</u></a> gibi küresel nakliye ağlarında önemli bir merkez olan yerlerde belirsizliklere neden oluyordır. Bu durum, konteyner piyasalarını etkileyerek nakliye fiyatlarının yükselmesine sebep olabilir. Risk yönetimi stratejilerinin güçlendirilmesi ve jeopolitik istikrarsızlıklar karşısında esnek ve uyumlu planlar yapılması öneriliyordir.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ol>
   <li><p>İran'ın <a href="https://www.vesselfinder.com/vessels/details/9857169"><u>MSC Aries</u></a> isimli gemiyi ele geçirmesi, deniz nakliye ücretlerinde ve sigorta masraflarında artışa yol açabilir.</p></li>
@@ -37,4 +35,3 @@ tags:
   <li><p>Artan gerginlikler, <a href="https://en.wikipedia.org/wiki/Jebel_Ali"><u>Jebel Ali</u></a> gibi önemli nakliye merkezlerini olumsuz etkileyebilir.</p></li>
   <li><p>Şirketlerin risk yönetimi stratejilerini güçlendirmeleri ve jeopolitik dalgalanmalara karşı esnek planlar yapmaları gerekiyordir.</p></li>
 </ol>
-<p><br></p>

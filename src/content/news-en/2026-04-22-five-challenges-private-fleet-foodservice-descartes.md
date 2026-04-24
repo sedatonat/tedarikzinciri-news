@@ -27,8 +27,3 @@ tags: ['Descartes', 'yiyecek hizmeti', 'özel filo', 'rota optimizasyonu', 'e-PO
 3. Static routing and manual documentation are characterized as unsustainable.<br>
 4. Dynamic route optimization, <strong>e-POD</strong>, and mobile workforce solutions are recommended.<br>
 5. A technology-focused mindset is essential to remain competitive.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[42900]</p>

@@ -28,11 +28,5 @@ tags: ['Maersk', 'Kızıldeniz', 'Bab-el-Mandeb', 'Süveyş Kanalı', 'Maersk Se
 3. <strong>Maersk</strong> is planning a limited number of additional <strong>trans-Suez</strong> sailings with a <strong>"stepwise approach."</strong><br>
 4. <strong>CMA CGM</strong> is planning to resume its <strong>India-Mediterranean Express</strong> in January 2026.<br>
 5. <strong>Ocean Network Express</strong> is deploying a new <strong>Red Sea-China</strong> service on January 15.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you good reading.</p>
-<p><br></p>
-<p>[43033]</p>

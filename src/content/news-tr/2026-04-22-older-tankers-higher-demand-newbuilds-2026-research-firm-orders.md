@@ -28,8 +28,3 @@ tags:
 3. Yaşlı talep; Kızıldeniz-Hürmüz güvenlik krizleri ve Rus 'gölge filosundan' kaynaklanıyor.<br>
 4. Yeni inşaatlar; IMO 2050 karbon hedefleri için LNG/metanol çift yakıtlı tanker yatırımlarına işaret ediyor.<br>
 5. Tanker pazarı büyük bir filo yenileme dönemine hazırlanıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Synthetic rubber ties tire manufacturers to petroleum markets, creating another layer of volatility. As crude oil prices fluctuate, so do the costs of butadiene and styrene, the building blocks of synthetic rubber. A $10 increase in crude oil prices can raise production costs for passenger car tires by 8% to 12%, squeezing margins across the industry. Steel prices add yet another variable. The steel belts that give tires their strength and durability represent 15% to 20% of raw material costs, and trade disputes, tariffs and capacity constraints amplify their volatility.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, <strong>Michelin</strong>, <strong>Bridgestone</strong>, <strong>Goodyear</strong>, <strong>Continental</strong> and <strong>Pirelli</strong> are being forced to invest in traceability infrastructure for natural rubber under the <strong>EUDR (EU Deforestation Regulation)</strong>. Recycled carbon black ("rCB") and <strong>guayule</strong>-derived alternative rubber are emerging as medium-term risk-mitigation pathways. <strong>VMI</strong> programs and long-term <strong>offtake</strong> contracts are critical levers to absorb commodity volatility before it cascades into OEM supply.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43418]</p>

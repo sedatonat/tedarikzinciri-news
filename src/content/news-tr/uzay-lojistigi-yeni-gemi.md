@@ -37,8 +37,6 @@ tags:
 <p style="text-align: justify">Yeni gemi ile birlikte MN, yalnızca taşıma kapasitesini artırmayı değil, aynı zamanda <strong>uzay lojistiği alanında referans taşıyıcı</strong> konumunu güçlendirmeyi hedefliyor. Bu yaklaşım, deniz taşımacılığında niş pazarlara odaklanmanın, dalgalı navlun piyasalarına karşı daha dayanıklı bir iş modeli sunduğunu da gösteriyor.</p>
 <p><br></p>
 <p style="text-align: justify">Genel çerçevede MN’nin yeni gemi planı, uzay endüstrisinin büyümesinin denizcilik ve project cargo pazarlarına nasıl somut yatırımlar olarak yansıdığını ortaya koyuyor. Uzay lojistiği, önümüzdeki yıllarda yalnızca teknolojik değil, <strong>lojistik açıdan da stratejik bir rekabet alanı</strong> olmaya devam edecek gibi görünüyor.</p>
-<p><br></p>
-<p style="text-align: justify"><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">MN, uzay lojistiği project cargo pazarına özel yeni bir gemi inşa etmeyi planlıyor.</p></li>
@@ -47,14 +45,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Uzay sektöründeki büyüme, daha büyük ve hassas yükler için yeni gemi ihtiyacını artırıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Yeni proje, MN’nin niş ve yüksek katma değerli taşımacılık stratejisini güçlendiriyor.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

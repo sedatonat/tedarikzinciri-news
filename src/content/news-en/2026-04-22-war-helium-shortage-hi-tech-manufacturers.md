@@ -28,9 +28,3 @@ tags: ['helyum', \"Moody's Ratings\", 'yarı iletken', 'Katar', 'Samsung', 'SK H
 3. There are only 14 helium refineries worldwide.<br>
 4. <strong>Samsung</strong> and <strong>SK hynix</strong> have stocks sufficient to last at least through June.<br>
 5. <strong>Pan</strong> emphasizes that <strong>GPUs</strong> depend on <strong>Qatari helium</strong>, <strong>Israeli bromine</strong>, and <strong>LNG tankers</strong>.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Acquire ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it free of charge via this link.</p>
-<p><br></p>
-<p>[43904]</p>

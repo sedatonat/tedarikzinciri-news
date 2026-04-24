@@ -32,4 +32,3 @@ tags:
   <li><p>Şirket, Meksika'daki müşteri tabanına olan bağlılığını ve bölgedeki kaynakları kullanmayı hedefliyor.</p></li>
   <li><p>ABD ile Meksika arasındaki ticaret artışı, yerel kaynak talebini artırdı.</p></li>
 </ul>
-<p><br></p>

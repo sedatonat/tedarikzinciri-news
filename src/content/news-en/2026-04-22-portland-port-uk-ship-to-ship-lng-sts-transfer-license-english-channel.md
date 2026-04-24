@@ -21,8 +21,3 @@ tags: ["Portland Port", "United Kingdom", "LNG", "ship-to-ship", "STS transfer",
 3. The first licence has been issued to international provider STS Marine Solutions.<br>
 4. The new capability will reduce transit times and leverage existing marine infrastructure.<br>
 5. Portland Port is transitioning from its coal-import history to clean energy transport such as LNG.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

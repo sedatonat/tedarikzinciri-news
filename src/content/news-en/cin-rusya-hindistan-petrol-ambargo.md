@@ -66,11 +66,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The global energy balance is being reshaped in line with <strong>OPEC's production strategies</strong> and <strong>U.S. energy diplomacy.</strong></p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it free of charge through this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading from the start.</p>

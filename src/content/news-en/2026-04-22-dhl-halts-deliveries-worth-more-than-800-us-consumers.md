@@ -27,8 +27,3 @@ tags: ['DHL', 'gümrük', 'tarife', 'de minimis', 'Trump', '800 dolar', 'e-ticar
 3. <strong>De minimis</strong> remains in effect for packages under $800.<br>
 4. <strong>Shein</strong> and <strong>Temu</strong> are warning of price adjustments for the U.S. market.<br>
 5. <strong>UPS</strong> and <strong>FedEx</strong> are implementing similar service restrictions.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge via this link.</p>
-<p><br></p>
-<p>[41580]</p>

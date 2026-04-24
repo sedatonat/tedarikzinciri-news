@@ -32,4 +32,3 @@ tags:
   <li><p>Yeşil ve sürdürülebilir gelişim projelerinin teşvik edilmesine odaklanılacak.</p></li>
   <li><p>Proje, konteyner endüstrisinin yeşil ve düşük karbonlu dönüşüm yollarını belirlemeyi amaçlıyordır.</p></li>
 </ol>
-<p><br></p>

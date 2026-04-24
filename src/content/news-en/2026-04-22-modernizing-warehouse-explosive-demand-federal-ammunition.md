@@ -27,8 +27,3 @@ tags: ['Federal Ammunition', 'depo modernizasyonu', 'WMS', 'ERP', 'Czechoslovak 
 3. <strong>Remington</strong>, <strong>Hevi Shot</strong>, <strong>Speer</strong>, and <strong>CCI</strong> are among the brands being integrated.<br>
 4. The legacy <strong>ERP</strong> and <strong>WMS</strong> provide limited functionality, with much of the warehouse still paper-based.<br>
 5. Manual picking is slowing operations and creating accuracy issues.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book on How to Procure ERP Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge via this link.</p>
-<p><br></p>
-<p>[42150]</p>

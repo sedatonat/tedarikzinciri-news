@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Similar legal challenges have been put forward by developers of two other U.S. wind farm projects. Virginia-based <strong>Dominion Energy</strong> filed a lawsuit on December 23, and Norwegian developer <strong>Equinor</strong> followed suit on January 2. East Coast developer <strong>Avangrid</strong> is reportedly still considering whether to challenge the work stoppage, given that its wind farm off the coast of Massachusetts is already partly operational.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, these stoppage orders create significant uncertainty for offshore wind equipment suppliers. Turbine manufacturers, cable-laying vessel operators and port logistics providers had anchored substantial investments to the multi-year U.S. project pipeline. Prolonged litigation could push orders to other wind projects in Europe or Asia, materially setting back U.S. renewable energy capacity targets and complicating the country's broader decarbonization roadmap.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43074]</p>

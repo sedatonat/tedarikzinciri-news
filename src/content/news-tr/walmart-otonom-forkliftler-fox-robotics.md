@@ -24,8 +24,6 @@ tags:
 <p><a href="https://en.wikipedia.org/wiki/Walmart"><u>Walmart </u></a>yöneticileri, robotların işçilerin yerini almayacağını, aksine onlara destek olacağını vurguladı. Dağıtım merkezi genel müdürü Maurice Gray, otomasyonun iş yükünü hafifletmekle kalmayıp, çalışanların daha verimli çalışmalarını sağladığını belirtti. <a href="https://foxrobotics.com/our-product/"><u>FoxBot </u></a>forkliftleri, AI destekli makine görüşü ve dinamik planlama kullanarak kamyonlardan paletleri boşaltıyor ve bu paletleri otomatik depolama ve alma sistemine (AS/RS) taşıyor. Bu sistem, gelen malları kataloglayıp depoluyor. <a href="https://en.wikipedia.org/wiki/Walmart"><u>Walmart </u></a>çalışanları ise, daha önce elle yaptıkları bu işleri artık daha verimli stratejiler geliştirerek otonom forkliftlere yönlendirme görevini üstleniyorlar.</p>
 <p><br></p>
 <p><a href="https://foxrobotics.com/"><u>Fox Robotics</u></a>'in yönetim kurulu üyesi Till Reuter, şirketin otonom yükleyici/boşaltıcı kapasitesiyle tamamen otomatikleşmiş bir depo geleceğinin son adımını gerçekleştirdiğini ifade etti. Reuter, lojistik alanının önümüzdeki 5-10 yıl içinde otomasyon için en büyük pazar olacağını ve özellikle de elle yapılan işlerin yoğun olduğu nakliye ve alma bölgelerinde bu otomasyonun yoğunlaşacağını belirtti.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>
   <li><p><a href="https://en.wikipedia.org/wiki/Walmart"><u>Walmart</u></a>, 19 otonom forklift kullanarak lojistik operasyonlarını otomatikleştirecek.</p></li>
@@ -34,4 +32,3 @@ tags:
   <li><p>Otonom forkliftler, AI destekli makine görüşü kullanıyor.</p></li>
   <li><p>Otomasyon, depolama ve alma işlemlerini kapsayacak şekilde geniş bir yelpazeye sahip.</p></li>
 </ol>
-<p><br></p>

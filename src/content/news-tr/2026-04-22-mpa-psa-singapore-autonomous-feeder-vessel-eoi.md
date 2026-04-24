@@ -28,8 +28,3 @@ tags:
 3. Teknolojik olgunluk, operasyonel uygulanabilirlik ve güvenlik performansı senaryolar bazında değerlendirilecek.<br>
 4. Bir uzaktan operasyon merkezi planı, kıyıdan gemi yönetimini ve müdahaleyi mümkün kılacak.<br>
 5. EOI, Singapur'un denizcilikte dijital ve otomatik dönüşüm vizyonunun bir parçası.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -45,13 +45,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The <strong>BetterSea FuelEU Platform Solution</strong> enables users to monitor compliance balances, manage internal and external pooling, and submit final pool data for verification.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>NorthStandard</strong> members benefit from discounted platform access and zero transaction fees for the first six-month reporting period.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Acquire an ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through this link.</p>
+
 <p>We would be delighted to hear your feedback.</p>
 <p>Wishing you happy reading.</p>

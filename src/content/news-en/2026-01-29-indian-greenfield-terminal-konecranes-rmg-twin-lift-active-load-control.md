@@ -23,8 +23,3 @@ tags: ["Konecranes", "RMG", "RTG", "Hindistan", "demiryolu vinci", "ikiz spreade
 3. The cranes will be equipped with twin-lift spreaders and rotating trolleys.<br>
 4. Active Load Control technology eliminates container sway and improves placement accuracy.<br>
 5. The investment aligns with port-rail integration objectives under the Sagarmala and PM Gati Shakti programmes.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

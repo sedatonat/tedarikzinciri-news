@@ -28,11 +28,3 @@ tags: ['Rotterdam Limanı', 'Hapag-Lloyd', 'Bangkok Express', 'K. Lotus', 'LNG b
 3. Containers struck the accommodation section, not the <strong>LNG</strong> compartment.<br>
 4. Three agencies, including the <strong>Dutch Safety Board</strong>, are investigating.<br>
 5. <strong>K. Lotus</strong> remains in port for mooring system repairs.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>
-<p><br></p>
-<p>[43441]</p>

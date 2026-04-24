@@ -61,14 +61,8 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Suez return is not yet an industry-wide trend; only 120 transits occurred in November 2025.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Spot rates: FE–USEC <strong>–57%</strong>, FE–NEU <strong>–53%</strong>; further capacity additions could depress prices further.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
 <p>We would be delighted to hear your feedback.</p>
 <p>Wishing you happy reading in advance.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

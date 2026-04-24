@@ -39,12 +39,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Önemli güvenlik önlemleri arasında, kömürün paketleme gününde 40°C'yi aşmaması ve yük ile konteyner tavanı arasında 30 cm'lik bir boşluk bırakılması yer alıyordır.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Sektör paydaşları, uyumu sağlamak için derhal harekete geçmeye çağrılmaktadır.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

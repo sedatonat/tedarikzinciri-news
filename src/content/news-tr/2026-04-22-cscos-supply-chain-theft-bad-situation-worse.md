@@ -35,8 +35,3 @@ tags:
 3. Sofistike organize suç çeteleri; aracı sahtekarlığı ve fidye yapıyor.<br>
 4. <strong>Facebook</strong>&rsquo;ta sahte <strong>DOT</strong> numaraları ve güvenlik puanları satılıyor.<br>
 5. <strong>CSCO</strong>&rsquo;lar; tarife yeniden yapılandırma sırasında istemeden risk artırıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41730]</p>

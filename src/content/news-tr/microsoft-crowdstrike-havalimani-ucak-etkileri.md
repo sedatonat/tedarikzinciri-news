@@ -29,4 +29,3 @@ tags:
   <li><p>Deniz limanları, kamyon taşımacılığı ve demiryolu şirketleri sorunları hızla çözse de, havayolu endüstrisi daha yavaş toparlanıyor.</p></li>
   <li><p>E-ticaretin yoğun olduğu bir döneme denk gelmesi, son mil teslimatlarında gecikmelere neden oldu.</p></li>
 </ol>
-<p><br></p>

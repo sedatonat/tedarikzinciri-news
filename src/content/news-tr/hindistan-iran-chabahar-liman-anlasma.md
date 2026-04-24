@@ -26,8 +26,6 @@ tags:
 <p>BBC News'e göre, 14 Mayıs'ta bir basın toplantısında ABD Dışişleri Bakanlığı Baş Yardımcı Sözcüsü Vedant Patel, İran'a yönelik ABD yaptırımlarının hâlâ geçerli olduğunu ve uygulanacağını belirtti. Patel, "İran ile iş anlaşmaları düşünen her kurum ve kişi, karşı karşıya kalabilecekleri potansiyel risklerin ve yaptırım risklerinin farkında olmalıdır," dedi.</p>
 <p><br></p>
 <p>Anlaşma, 13 Mayıs'ta Hindistan Limanlar Küresel Limited (IPGL) ve İran Liman ve Denizcilik Organizasyonu arasında imzalandı. Reuters, IPGL'nin anlaşma kapsamında yaklaşık 120 milyon dolar yatırım yapacağını, ek olarak 250 milyon dolar finansman sağlayacağını, böylece sözleşmenin toplam değerinin 370 milyon dolara ulaşacağını belirtti.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ul>
   <li><p>Hindistan ve İran arasında 10 yıllık bir anlaşma imzalandı.</p></li>
@@ -36,5 +34,3 @@ tags:
   <li><p>IPGL, toplamda 370 milyon dolarlık bir yatırım yapacak.</p></li>
   <li><p>Anlaşma, İran'a uygulanan ABD yaptırımlarına rağmen gerçekleşti.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

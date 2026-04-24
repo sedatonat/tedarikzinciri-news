@@ -33,8 +33,3 @@ tags:
 3. İşbirliği; insansız yüzey araçları ve uzaktan gemi operasyonları siber güvenliğini kapsadı.<br>
 4. Mutabakat; 2024 yılındaki dijitalleşme ve dekarbonizasyon niyet mektubunu temel aldı.<br>
 5. Anlaşma; gemi-kıyı bağlantısı ve liman platformları için ortak savunma standardı geliştirmeyi hedefledi.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -45,11 +45,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The decision is expected to create <strong>short-term effects on global fuel supply and prices.</strong></p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it free of charge through this link.</p>
+
 <p>We will be pleased to receive your feedback.</p>
 <p>We wish you happy reading from now on.</p>

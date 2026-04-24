@@ -27,8 +27,3 @@ tags: ['CSCO', 'risk yönetimi', 'tarife', 'Gartner', 'resilience', 'SCB Think T
 3. <strong>18% profitability decline</strong>: impact of misaligned risk allocation.<br>
 4. Leading <strong>SCRM</strong> software providers: <strong>Resilinc</strong>; <strong>Everstream</strong>; <strong>Interos</strong>.<br>
 5. Core resilience strategies: <strong>multi-sourcing</strong>; <strong>nearshoring</strong>; <strong>visibility</strong>.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[41210]</p>

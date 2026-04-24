@@ -28,9 +28,3 @@ tags: ['2026 kontrol listesi', 'tarifeler', 'yapay zeka', 'jeopolitik', 'esnekli
 3. Legacy systems and disconnected tools cannot keep pace.<br>
 4. The checklist is positioned as a practical benchmarking tool.<br>
 5. Resilience, agility and profitability are key capabilities for 2026.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[43660]</p>

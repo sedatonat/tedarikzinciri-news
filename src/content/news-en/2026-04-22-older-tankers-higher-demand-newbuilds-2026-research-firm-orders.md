@@ -22,8 +22,3 @@ tags: ["tanker", "secondhand", "newbuilds", "vessel orders", "research", "shippi
 3. Older demand stems from Red Sea/Hormuz security crises and the Russian 'shadow fleet'.<br>
 4. Newbuilds point to LNG/methanol dual-fuel investment for IMO 2050 carbon targets.<br>
 5. The tanker market is preparing for a major fleet renewal period.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

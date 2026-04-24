@@ -59,11 +59,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Uber Freight's vision is redefining logistics through <strong>technology–network–human integration</strong>.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book on How to Choose an ERP System Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>We wish you happy reading in advance.</p>

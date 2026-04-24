@@ -39,11 +39,5 @@ Global trade has entered a period of declining predictability. Tariffs, geopolit
 3. Amazon is repositioning its network dynamically.<br>
 4. Tesla is implementing automation and energy optimization in manufacturing.<br>
 5. Result: reshoring/nearshoring and dynamic inventory positioning are taking center stage.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Purchase an ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading in advance.</p>
-<p><br></p>
-<p>[750]</p>

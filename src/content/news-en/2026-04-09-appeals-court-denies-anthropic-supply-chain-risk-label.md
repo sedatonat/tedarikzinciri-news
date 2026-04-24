@@ -28,9 +28,3 @@ tags: ['Anthropic', 'tedarik zinciri riski', 'DOD', 'Trump', 'temyiz mahkemesi',
 3. The panel accepts the claim of "<strong>irreparable harm</strong>"; expedited trial is recommended.<br>
 4. Two judges appointed by <strong>Trump</strong> have historically favored the government in national security cases.<br>
 5. The $200 million DOD agreement collapsed following the rejection of the unrestricted access demand to systems.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free through this link.</p>
-<p><br></p>
-<p>[43826]</p>

@@ -55,13 +55,6 @@ tags:
 </ul>
 <p><br></p>
 <p style="text-align: justify">In conclusion, the <strong>Warehouse Management Systems</strong> market is expected to demonstrate significant growth in the coming years. This growth is supported by technological innovations and digital transformation efforts across industries.</p>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
+
 <p>We will be delighted to receive your feedback.</p>
 <p>Wishing you happy reading from the outset.</p>

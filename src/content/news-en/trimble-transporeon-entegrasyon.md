@@ -43,11 +43,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">This partnership supports sustainable logistics practices.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Get ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through this link.</p>
+
 <p>We would be happy to hear your feedback.</p>
 <p>Best wishes for your reading.</p>

@@ -27,8 +27,3 @@ tags: ['AB', 'de minimis', 'Shein', 'Temu', 'Maros Sefcovic', 'Çin', 'e-ticaret
 3. In 2024, 4.6 billion low-value packages were shipped — over 90 percent from <strong>China</strong>.<br>
 4. <strong>Shein</strong> and <strong>Temu</strong> are the primary target business models.<br>
 5. The <strong>U.S.</strong> ended <strong>de minimis</strong> globally from all countries effective May 2, 2025.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge via this link.</p>
-<p><br></p>
-<p>[42860]</p>

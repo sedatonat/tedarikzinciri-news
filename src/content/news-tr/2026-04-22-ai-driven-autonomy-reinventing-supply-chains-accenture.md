@@ -35,8 +35,3 @@ tags:
 3. %40&rsquo;a yakın; daha yüksek özerklik düzeyi hedefliyor &mdash; sistem operasyonel kararları yönetiyor.<br>
 4. Yalnızca %25 katılımcı; özerklik yolculuğuna başlıyor &mdash; çoğu hala insan tabanlı aşamada oluyor.<br>
 5. Otonom tedarik zinciri; insan-AI; özerk; tam özerk aşamalarına yayılıyor spektrum oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42070]</p>

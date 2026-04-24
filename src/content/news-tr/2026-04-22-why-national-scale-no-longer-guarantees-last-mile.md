@@ -36,8 +36,3 @@ tags:
 3. <strong>Asset-light</strong> ağlar ve akıllı yönlendirme; yeni nesil çözüm oluyor.<br>
 4. Bölgesel taşıyıcılar; uzmanlaşma ile devleri performansta geçiyor.<br>
 5. Teknoloji tabanlı bölgesel ağlar; güvenilirliği yeniden tanımlıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43566]</p>

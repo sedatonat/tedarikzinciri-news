@@ -27,8 +27,3 @@ tags: ['Trump', 'tarife', 'İsviçre', 'kahve', 'muz', 'BBC', 'Guardian', 'IEEPA
 3. Non-binding <strong>MoU</strong> aligns with <strong>EU</strong> neighbors.<br>
 4. April 2025 national emergency — launching point for broad penalty tariffs.<br>
 5. Multiple countries and <strong>EU</strong> are engaged in tariff negotiations.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book is Now Available on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free through the link above.</p>
-<p><br></p>
-<p>[42850]</p>

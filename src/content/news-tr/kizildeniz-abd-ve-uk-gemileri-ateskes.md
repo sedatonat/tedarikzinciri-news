@@ -36,13 +36,3 @@ tags:
   <li><p>Saldırılar nedeniyle, birçok gemi daha uzun rotalar izleyerek nakliye maliyetlerini artırdı.​</p></li>
 </ul>
 <p>Sektör çevreleri, bu gelişmeleri Kızıldeniz'deki deniz trafiğinin normalleşmesi ve küresel ticaretin istikrarı açısından önemli bir dönüm noktası olarak değerlendiriyor. Ancak bölgedeki güvenlik durumunun tamamen normale dönmesi, daha fazla zamana ihtiyaç duyuyor.</p>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

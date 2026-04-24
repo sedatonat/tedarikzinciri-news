@@ -23,8 +23,3 @@ tags: ["Honeywell", "Brady", "M&A", "warehouse technology", "barcode scanner", "
 3. Barcode scanners, mobile computers and label printers are included.<br>
 4. Brady aims to build an integrated warehouse and logistics offering.<br>
 5. Options are also being reviewed for the WWS unit (Intelligrated, Transnorm).</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

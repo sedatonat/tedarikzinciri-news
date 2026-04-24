@@ -84,11 +84,6 @@ According to experts, <strong>the problem is not the merger itself, but the lack
   <li><p>Shippers are adopting a <strong>"wait-and-see" approach to witness the real benefits of the new merger.</strong></p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it free of charge through this link.</p>
+
 <p>Your feedback would make us happy.</p>
 <p>Wishing you good reading from the start.</p>

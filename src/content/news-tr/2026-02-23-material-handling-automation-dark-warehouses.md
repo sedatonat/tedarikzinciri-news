@@ -36,10 +36,4 @@ tags:
 3. <strong>3D vision</strong> ile <strong>force-sensing grippers</strong>, tekil ürün toplamaya olanak veriyor.<br>
 4. Doğruluk oranı %99&rsquo;a kadar çıkıyor olabiliyor.<br>
 5. Pharma, küçük elektronik ve <strong>grocery</strong>, otomasyona en uygun kategoriler oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
 <p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p><br></p>
-<p>[43503]</p>

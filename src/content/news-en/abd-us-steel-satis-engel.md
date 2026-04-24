@@ -43,12 +43,3 @@ tags:
   <li><p>Nippon Steel and U.S. Steel claim the decision is politically motivated and plan to pursue legal action.<a href="https://nypost.com/2025/01/03/business/biden-to-block-us-steel-sale-to-japanese-buyer-report/?utm_source=chatgpt.com" rel="noopener" target="_blank">New York Post</a></p></li>
   <li><p>The situation may create tension in U.S.-Japan economic relations.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Acquire ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

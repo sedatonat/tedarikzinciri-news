@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">The New York Times; Bessent'ın, federal hükümetin yıl için öngörülen tarife gelirinin mahkeme kararına rağmen değişmeden kalacağını beklediğini aktarıyor. Bessent, «Tarife oranlarının beş ay içinde eski seviyelerine geri dönüyor olunması güçlü inancım oluyor» sözlerini kullanıyor. Buna ek olarak başkan 3 Mart'ta; İspanya'nın Amerikan askeri üslerinin kullanımına izin vermemesi nedeniyle öfkesini çeken ülkeye karşı tam ticaret ambargosu uygulama yetkisini kullanmakla tehdit ediyor.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu yüzde 5 puanlık ek tarife yükü; <strong>landed cost</strong> hesaplarında <strong>HTS</strong> sınıfı düzeyinde anlık yeniden fiyatlama gerektiriyor. <strong>SAP GTS</strong>, <strong>Oracle GTM</strong> ve <strong>Descartes</strong> kullanan ithalatçılar; <strong>Section 122</strong> ile <strong>Section 232</strong> birikimli etki senaryolarını paralel hesaplama ortamında kalibre ediyor. <strong>FTZ (Foreign Trade Zone)</strong>, <strong>bonded warehouse</strong> ve <strong>duty drawback</strong> programları; nakit akışı esnekliği için yeniden gündeme geliyor; <strong>customs broker</strong> kapasitesi ise piyasada darboğaza dönüşüyor.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43593]</p>

@@ -35,8 +35,3 @@ tags:
 3. Yaralı yok; <strong>French military</strong> <strong>AP</strong>&rsquo;ye konfirme ediyor.<br>
 4. <strong>Houthis</strong>; Temmuz&rsquo;da <strong>Israeli</strong>-bağlantılı tüm gemileri hedef vaatte bulunuyor.<br>
 5. 2 <strong>Greek</strong> gemi saldırısı; 4 mürettebat ölümü; 11 esir önceden gerçekleşiyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42580]</p>

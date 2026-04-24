@@ -28,9 +28,3 @@ tags: ['Aravo', 'üçüncü taraf risk yönetimi', 'TPRM', 'yapay zeka', 'otomas
 3. <strong>TPRM</strong> stands out as a use case for AI because it is data-intensive and time-critical.<br>
 4. Continuous processes are replacing point-in-time reviews.<br>
 5. Teams can review and override AI outputs at every stage.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy an ERP? Our book is now available on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[43908]</p>

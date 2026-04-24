@@ -41,11 +41,3 @@ tags:
   <li><p>The vessel underwent testing in the North Sea before being deployed in the United Arab Emirates.</p></li>
   <li><p>It can serve sectors including oil and gas, wind energy, and deep-sea minerals.</p></li>
 </ul>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Get ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
-<p>Your feedback would make us happy.</p>
-<p>We wish you happy reading.</p>

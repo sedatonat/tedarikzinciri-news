@@ -28,11 +28,5 @@ tags: ['Nijerya', 'BAE', 'Lagos-Calabar Highway', 'First Abu Dhabi Bank', 'Bola 
 3. <strong>First Abu Dhabi Bank</strong> is fully <strong>underwriting</strong> the transaction.<br>
 4. <strong>ICIEC</strong> is providing risk mitigation coverage.<br>
 5. The highway will ultimately be 700 km in length and will connect along the <strong>Atlantic</strong> coast.</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
 <p>Your feedback would make us happy.</p>
 <p>Wishing you good reading from now on.</p>
-<p><br></p>
-<p>[43053]</p>

@@ -22,8 +22,3 @@ tags: ["Kaja Kallas", "EU", "Iran", "Strait of Hormuz", "transit fees", "UNCLOS"
 3. 17-20 million barrels of oil pass through this route daily.<br>
 4. The UN Convention on the Law of the Sea (UNCLOS) safeguards innocent passage through international straits.<br>
 5. A chaos scenario could push oil prices into the $120-150 band.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

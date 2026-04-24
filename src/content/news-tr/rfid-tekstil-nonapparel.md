@@ -32,4 +32,3 @@ tags:
   <li><p>Operasyonel verimliliği artırır ve maliyetleri düşürür.</p></li>
   <li><p>Müşteri deneyimini iyileştirir ve kayıp ürünlerin bulunmasını kolaylaştırır.</p></li>
 </ul>
-<p><br></p>

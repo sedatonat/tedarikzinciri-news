@@ -38,13 +38,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Rising tensions in the region and fluctuations in global oil markets are expected.</p></li>
 </ul>
 <p style="text-align: justify">These developments are once again drawing international attention to energy security and geopolitical risks in the Middle East. In the coming period, the steps taken by the U.S. and Iran's potential responses will be decisive for regional stability and global energy markets.</p>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
-<p>Your feedback would be much appreciated.</p>
-<p>We wish you happy reading.</p>

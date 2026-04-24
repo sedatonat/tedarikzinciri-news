@@ -31,8 +31,3 @@ tags:
 3. Operasyon, Rotterdam üzerinden yaklaşık 210 kilogram kokainin ithalatıyla sonuçlandı.<br>
 4. Uyuşturucu, Eylül 2020'de ele geçirilen Callao Express gemisindeki bir şarap konteynerinde gizliydi.<br>
 5. Olay, liman OT/IT siber güvenliğinde çok katmanlı erişim kontrolü ihtiyacının altını çiziyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">American farmers have been one of the president's most loyal constituencies, but their businesses have been rocked by volatile market conditions caused in part by Trump's own policies. The administration's efforts are aimed at shoring up their support ahead of November midterm elections that will determine control of Congress. Trump on March 27 also said his administration would update renewable fuel standards for 2026 and 2027 — a boost to biofuel producers.</p>
 <p><br></p>
 <p style="text-align: justify">Trump said the new standards will "generate over $10 billion of rural economic benefit, create an estimated 100,000 new jobs." From a supply chain perspective, these measures highlight how vulnerable U.S. agricultural commodity flows remain to global geopolitical shocks. Soy, corn, wheat and meat supply chains are facing layered pressures from freight costs, fertilizer prices and access to foreign markets — signaling that government support is likely to continue in the near term as well.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43747]</p>

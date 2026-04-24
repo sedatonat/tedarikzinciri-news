@@ -36,8 +36,6 @@ tags:
 <p style="text-align: justify">Zvi Schreiber, açıklamalarında “yeni maceralara yönelme” ifadesini kullandı; bu tercih kişisel bir dönüm noktasına da işaret etti. Ancak Freightos örneğinde bu ayrılık; ani ya da kriz kaynaklı bir değişim değil, planlı ve stratejik bir geçiş olarak konumlandı. Bu yönüyle karar; lojistik teknolojileri alanında olgunlaşan girişimlerin izlediği tipik bir evrimi yansıttı.</p>
 <p><br></p>
 <p style="text-align: justify">Genel çerçevede Freightos’taki CEO değişimi; şirketin artık <strong>kuruluş ve ürün doğrulama</strong> aşamasını geride bıraktığını, <strong>ölçeklenme, konsolidasyon ve kurumsallaşma</strong> dönemine girdiğini ortaya koydu. Önümüzdeki dönemde atılacak adımlar; Freightos’un küresel lojistik ekosistemindeki rolünü daha da netleştiren bir nitelik taşıdı.</p>
-<p><br></p>
-<p style="text-align: justify"><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Zvi Schreiber, 31 Ocak 2026 itibarıyla Freightos CEO’luğundan ayrılacak.</p></li>
@@ -47,14 +45,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Şirket, kalıcı CEO için arayış sürecini başlatmış durumda.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

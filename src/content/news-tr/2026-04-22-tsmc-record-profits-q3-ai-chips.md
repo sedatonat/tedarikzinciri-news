@@ -35,8 +35,3 @@ tags:
 3. Q3 geliri 33 milyar dolar+ oluyor &mdash; analist tahmininin 1B+ üzeri oluyor.<br>
 4. <strong>AI</strong>-tabanlı ileri çip talebi; ana büyüme motoru oluyor.<br>
 5. <strong>Nvidia</strong>; <strong>Apple</strong>; <strong>AMD</strong>; <strong>TSMC</strong>&rsquo;nin ana müşterileri oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42670]</p>

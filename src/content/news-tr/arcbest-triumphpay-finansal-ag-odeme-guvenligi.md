@@ -29,4 +29,3 @@ tags:
   <li><p>TriumphPay, ulaştırma sektöründe güvenli bir ödeme ağı sunuyor.</p></li>
   <li><p>ArcBest, şeffaf ve güvenli ödeme süreci sunmayı amaçlıyor.</p></li>
 </ul>
-<p><br></p>

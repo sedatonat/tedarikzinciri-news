@@ -45,12 +45,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">With sensor network expansion, trucking companies and shippers will access more accurate and real-time data for strategic decision-making. ​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The investment is an important milestone in <strong>GenLogs</strong>' growth strategy and sector services.</p></li>
 </ul>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book "How to Purchase ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
+
 <p>We would be delighted to hear your feedback.</p>
 <p>We wish you happy reading from the start.</p>
-<p><br></p>

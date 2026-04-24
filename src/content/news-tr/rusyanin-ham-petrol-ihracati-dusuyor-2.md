@@ -42,15 +42,3 @@ tags:
   <li><p>Kremlin’in petrol gelirleri, ihracat hacmi ve ham petrol fiyatlarındaki düşüş nedeniyle 1.25 milyar dolara geriledi.</p></li>
   <li><p>Rusya, OPEC+ anlaşmasına bağlı olarak üretimini kısıtlamaya devam ediyor ve Ekim-Kasım 2024’te daha derin kesintiler yapmayı planlıyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>

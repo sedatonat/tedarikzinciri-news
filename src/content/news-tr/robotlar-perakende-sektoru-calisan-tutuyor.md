@@ -36,5 +36,3 @@ tags:
   <li><p>Çalışanların %85'i Tally teknolojisinin kullanılmasıyla işlerinden daha fazla memnuniyet duyuyor.</p></li>
   <li><p>Robot, sipariş süreçlerini hızlandırıyor ve müşteri hizmetlerine odaklanmayı kolaylaştırıyor.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

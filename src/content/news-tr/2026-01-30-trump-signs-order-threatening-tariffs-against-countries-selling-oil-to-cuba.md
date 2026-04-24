@@ -29,7 +29,3 @@ tags:
 <p style="text-align: justify">Küba; geçen yıl boyunca artan ABD ekonomik yaptırımları nedeniyle ciddi bir enerji krizi ile karşı karşıya kalıyor. Meksika devlet petrol şirketi <strong>Pemex</strong>; 2025 yılı Ocak-Eylül arasında Küba'ya günde tahminen 20,000 varil petrol sevk ettiğini bildiriyor &mdash; bu rakam ABD Dışişleri Bakanı <strong>Marco Rubio</strong>'nun Eylül ayında Mexico City'yi ziyaret etmesinin ardından yaklaşık 7,000 varile düşüyor. Meksika Cumhurbaşkanı <strong>Claudia Sheinbaum</strong>; 27 Ocak'ta <strong>Pemex</strong>'in Küba'ya yapılan bazı petrol sevkiyatlarını geçici olarak durdurduğunu kabul ediyor &mdash; ancak kararın siyasi nedenlerden değil arz dalgalanmalarından kaynaklandığını savunuyor.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu kararname; küresel enerji ticaretinde ikincil yaptırım rejiminin kapsamını genişlediyor. ABD pazarına ihracat yapan üçüncü taraf ülkelerin Küba ile ilişkileri; tarife maruziyeti açısından artık yeni bir uyum riski oluyor. Petrol şirketleri, gemi sahipleri ve sigorta sağlayıcılar için bu durum; rota planlamasında ve müşteri taraması süreçlerinde köklü bir gözden geçirmeyi zorunlu kılıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43379]</p>

@@ -40,13 +40,3 @@ tags:
   <li><p>Omnichannel doğruluk iade/iptali düşürüyordir.</p></li>
   <li><p>Asset tracking operasyonu optimize ediyordir.</p></li>
 </ul>
-<p>--------</p>
-<p>--------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır?</strong> kitabımız Google Play Book’da yayınlanmıştır.</p>
-<p><strong>#ERP Nedir?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[850]</p>

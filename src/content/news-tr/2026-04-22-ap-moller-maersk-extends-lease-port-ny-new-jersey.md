@@ -35,8 +35,3 @@ tags:
 3. Süper <strong>post-Panamax</strong> vinçler; 23 konteyner genişliğine kadar gemileri işliyor.<br>
 4. <strong>Port of NY/NJ</strong>; ABD doğu yakası en büyük konteyner limanı oluyor.<br>
 5. <strong>APM Terminals</strong>; <strong>Maher</strong>; <strong>PNCT</strong>; <strong>GCT</strong>; ana liman terminal işletmecileri oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41420]</p>

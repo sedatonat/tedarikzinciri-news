@@ -31,8 +31,3 @@ tags:
 3. Teslimat 2028 yılı Mart ayı sonuna kadar tamamlanacak.<br>
 4. Elektrik barasından beslenen vinçler dizel jeneratör yerine doğrudan elektrik kullanarak sahada sıfır emisyon üretiyor.<br>
 5. Sipariş, Asya konteyner limanlarındaki elektrifikasyon yarışında MITSUI E&S'nin konumunu güçlendiriyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

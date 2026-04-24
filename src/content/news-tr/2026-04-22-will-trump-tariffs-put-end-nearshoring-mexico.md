@@ -35,8 +35,3 @@ tags:
 3. <strong>Monterrey</strong>; <strong>Tijuana</strong>; <strong>Querétaro</strong>; ana <strong>Mexico</strong> üretim merkezleri oluyor.<br>
 4. <strong>Mexico</strong>; ABD&rsquo;den ~%50-70 düşük işgücü maliyeti avantajı oluyor.<br>
 5. <strong>Tesla</strong>; <strong>Foxconn</strong>; <strong>BMW</strong>; ana <strong>Mexico</strong> yatırımcı şirketler oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41250]</p>

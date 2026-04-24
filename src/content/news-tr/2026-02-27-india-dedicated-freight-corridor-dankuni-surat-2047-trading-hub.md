@@ -29,8 +29,3 @@ tags:
 3. Hükümet 2047'ye kadar ülkeyi önemli bir ticaret merkezi yapmayı hedefliyor.<br>
 4. Mevcut Doğu ve Batı DFC'ler halihazırda operasyonel.<br>
 5. Hindistan yük taşımacılığında demiryolu payını 2030'a kadar %45'e çıkarmayı amaçlıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

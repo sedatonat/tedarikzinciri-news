@@ -26,8 +26,6 @@ tags:
 <p>Araçların teslim töreni Gaziantep'te gerçekleşti ve bu törene şirketin yönetim kurulu başkanı ve üyeleri ile FIAT'ın üst düzey yöneticileri katıldı. Eyüp Lojistik, bu yeni lojistik paketiyle Türkiye'den Avrupa'nın her köşesine en geç 3 gün içinde teslimat yapmayı garantiliyor ve Türk ihracatçılarının en önemli partneri olmayı hedefliyor. Şirket, bu hizmetin Türkiye'nin Avrupa'ya ihracatını güçlendireceğine ve küresel rekabette önemli bir avantaj sağlayacağına inanıyor.&nbsp;</p>
 <p><br></p>
 <p>FIAT ise Eyüp Lojistik ile olan işbirliğinin devam edeceğini ve Ducato modelinin bu ortaklıkta önemli bir rol oynayacağını belirtti.</p>
-<p><br></p>
-<p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ol>
   <li><p>Eyüp Lojistik, Avrupa'ya 3 günde teslim hizmeti için 40 FIAT Ducato satın aldı.</p></li>
@@ -36,4 +34,3 @@ tags:
   <li><p>Eyüp Lojistik, Türkiye'den Avrupa'ya ihracatı destekleyerek küresel rekabette önemli bir rol oynamayı hedefliyor.</p></li>
   <li><p>FIAT, Eyüp Lojistik ile işbirliğinin devam edeceğini ve Ducato modelinin bu ortaklıkta kilit bir rol oynadığını ifade etti.</p></li>
 </ol>
-<p><br></p>

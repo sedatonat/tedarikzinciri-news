@@ -35,8 +35,3 @@ tags:
 3. Karbon emisyonu; benzer boyutlu gemilere göre %80 düşüyor.<br>
 4. İki adet 216 ft karbon fiber direk; ~32,300 sq ft yelken alanı içeriyor.<br>
 5. <strong>Neoline</strong>; <strong>Nantes France</strong> kökenli; <strong>Renault</strong>/<strong>Beneteau</strong>/<strong>Manitou</strong> taşıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42780]</p>

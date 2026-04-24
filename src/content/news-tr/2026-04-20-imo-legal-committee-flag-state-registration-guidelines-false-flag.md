@@ -32,8 +32,3 @@ tags:
 3. IMO Genel Sekreteri Arsenio Dominguez kararı 'olumlu bir adım' olarak nitelendirdi.<br>
 4. Karar; Londra'daki Hukuk Komitesi'nin 113. oturumunda (13-17 Nisan) onaylandı.<br>
 5. Yeni çerçeve; karanlık filo ve sahte bayrak operasyonlarına karşı küresel uyum standardı sunuyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

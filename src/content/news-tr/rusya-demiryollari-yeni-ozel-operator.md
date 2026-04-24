@@ -37,12 +37,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Yeni özel operatörün kurulması, sektörde rekabeti artırarak hizmet kalitesini yükseltebilir ve taşımacılık maliyetlerini düşürebilir.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Bu birleşme, Rusya'nın Asya ve Avrupa arasındaki ticaret yollarındaki konumunu güçlendirebilir.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

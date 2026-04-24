@@ -32,8 +32,6 @@ tags:
 <p>Son olay, Singapur'da çevresel hassasiyetlerin arttığı bir dönemde meydana geldi. Haziran 2024'te, Pasir Panjang Terminali'nde bir tarama gemisinin sabit bir yakıt ikmal gemisine çarpması sonucu 400 tondan fazla petrol denize sızmış ve Labrador Doğa Rezervi, Sentosa, Doğu Kıyısı Parkı ve Changi gibi bölgelere yayılmıştı. Bu olay, son on yılın en büyük petrol sızıntısı olarak kaydedilmiş ve temizleme çalışmaları Eylül 2024'te tamamlanmıştı.</p>
 <p><br></p>
 <p><strong>Shell</strong>, son sızıntının ardından yetkililerle iş birliği yaparak durumu izlemeye devam edeceğini ve güvenlik performansını artırmak için bu olaydan dersler çıkaracağını belirtti. Şirket, çevre ve toplum üzerindeki olumsuz etkileri en aza indirmek için acil müdahale ekiplerini devreye soktuğunu ve benzer olayların tekrarlanmaması için gerekli önlemleri alacağını vurguladı.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li><p><strong>Shell</strong>'in Pulau Bukom tesisinde iki ay içinde ikinci petrol sızıntısı yaşandı.</p></li>
@@ -46,12 +44,3 @@ tags:
   <li><p>Şirket, Singapur'daki tesislerini <strong>Chandra Asri</strong> ve <strong>Glencore</strong> ortak girişimine satmayı planlıyor.</p></li>
   <li><p>Singapur'da çevresel hassasiyetler artmış durumda; Haziran 2024'te büyük bir petrol sızıntısı yaşanmıştı.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

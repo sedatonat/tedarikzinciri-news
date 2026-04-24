@@ -35,8 +35,3 @@ tags:
 3. Ana <strong>U.S.</strong> limanları (<strong>Seattle</strong>; <strong>LA</strong>; <strong>Long Beach</strong>; <strong>Houston</strong>; <strong>Tacoma</strong>; <strong>Oakland</strong>; <strong>PANYNJ</strong>); normal operasyon bekliyor.<br>
 4. <strong>PANYNJ</strong>; tamamen kendi kendini finanse ediyor bir kuruluş oluyor.<br>
 5. Federal liman çalışanları; <strong>essential worker</strong> kategorisinde oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42600]</p>

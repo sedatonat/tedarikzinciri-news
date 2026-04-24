@@ -25,8 +25,6 @@ tags:
 <p>18 Mart'tan itibaren geçiş tarihleri için iki ek slot açık artırmayla sunulacak ve 25 Mart'tan itibaren ek bir slot daha kullanıma sunulacak. Tam kapasitede çalıştığında, kanal günde 40 gemiyi idare edebiliyor. Panama Kanal İdaresi, günlük geçişleri kısıtlamanın yanı sıra, büyük kilitlerindeki maksimum draftı yaklaşık 2 metre azalttı.&nbsp;</p>
 <p><br></p>
 <p>Şu anda kanalı geçmek için bekleyen 54 gemi bulunuyor, bu sayı geçen Ağustos ayında 160'ın üzerindeydi. Geçmiş 10 ay içerisinde, uzun kuyruklar ve yüksek geçiş ücretleri nedeniyle küresel ticaret filosunun büyük bir kısmı kanalı kullanıyorn kaçınmaya karar verdi.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ul>
   <li><p><a href="https://en.wikipedia.org/wiki/Panama_Canal"><u>Panama Kanalı</u></a>, son yağışlarla birlikte ekstra üç slot ekleyerek günlük geçiş sayısını 27'ye çıkardı.</p></li>
@@ -36,4 +34,3 @@ tags:
   <li><p>Kanalı geçmeyi bekleyen gemi sayısı 160'tan 54'e düştü.</p></li>
   <li><p>Uzun bekleme süreleri ve yüksek ücretler nedeniyle birçok gemi kanalı kullanıyorn kaçındı.</p></li>
 </ul>
-<p><br></p>

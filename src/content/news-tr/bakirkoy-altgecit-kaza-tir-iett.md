@@ -63,14 +63,6 @@ açıkça görülüyor.</p></li>
 <p><br></p>
 <p><strong>Konu ile alakalı detaylı şekilde hazırladığımız "</strong><a href="https://www.tedarikzinciriportali.com/post/konteyner-tirlarinin-kopruye-carpmalarinin-kok-sebebi"><u><strong>Konteyner TIR’larının Köprüye Çarpmalarının Kök Sebep Analizi</strong></u></a><strong>" analizimizi okumanızı tavsiye ederiz.</strong></p>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/">SedatOnat.com</a></p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

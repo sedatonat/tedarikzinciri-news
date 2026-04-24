@@ -19,4 +19,3 @@ tags:
 - cargo volume
 ---
 <p>Understanding demand trends is critical for supply chain managers. Cargo volumes passing through seaports can serve as a valuable indicator for identifying those trends. In 2022, maritime shipping lanes handled 40% of international freight volumes. Port volumes underwent significant shifts during the pandemic in particular. <strong>As of 2023, volumes have returned to pre-pandemic levels.</strong> However, when exactly they will revert to 2019 figures remains an open question.</p>
-<p><br></p>

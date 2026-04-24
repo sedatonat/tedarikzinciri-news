@@ -40,4 +40,3 @@ tags:
   <li><p>Maersk, 2027'ye kadar 23 adet methanolle çalışabilen gemi inşa edecek.</p></li>
   <li><p>‘<a href="https://www.vesselfinder.com/?imo=9948748"><u>Ane Maersk</u></a>’, 14 limana uğrayacak ve toplamda 98 gün süren bir tur tamamlayacak.</p></li>
 </ul>
-<p><br></p>

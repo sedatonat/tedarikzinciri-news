@@ -29,5 +29,3 @@ tags:
   <li><p>Demiryolu sektörü, taşıma garantisi, tarife indirimi ve taşıma süreçlerinde iyileştirmeler talep ediyor.</p></li>
   <li><p>Konferans sonuçlarına göre, fiyatların değil, demiryolu ağının güvenilirliğinin taşıma tercihlerini etkilediği belirlendi.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

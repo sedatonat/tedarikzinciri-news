@@ -36,11 +36,3 @@ tags:
 3. <strong>British Airways</strong> ve <strong>EasyJet</strong>, sabah uçuşlarını iptal ediyor.<br>
 4. <strong>DWD</strong>, &ldquo;<strong>significant slipperiness</strong>&rdquo; uyarısı yayımlıyor.<br>
 5. <strong>Deutsche Bahn</strong>, <strong>Berlin</strong>-<strong>Hanover</strong> hattındaki gecikmeleri raporluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43436]</p>

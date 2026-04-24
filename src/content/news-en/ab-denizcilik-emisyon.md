@@ -31,12 +31,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Ship owners and operators will be required to reduce emissions by using cleaner fuels and improving energy efficiency.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">While the regulations impose additional costs on companies, they offer long-term environmental and economic benefits.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
-<p>If you have any feedback, we would be delighted to hear from you.</p>
-<p>We wish you happy reading.</p>

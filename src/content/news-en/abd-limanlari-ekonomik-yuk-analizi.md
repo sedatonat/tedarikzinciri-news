@@ -28,5 +28,3 @@ tags:
   <li><p>In 2023, volumes returned to pre-pandemic levels.</p></li>
   <li><p>Monthly data is important for understanding the current state of cargo trade.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

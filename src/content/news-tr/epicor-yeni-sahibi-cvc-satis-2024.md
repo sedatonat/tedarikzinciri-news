@@ -29,4 +29,3 @@ tags:
   <li><p>Epicor’un yıllık tekrarlayan geliri 1 milyar doları aştı.</p></li>
   <li><p>Şirketin SaaS dönüşümü ve uluslararası genişlemesi hızla devam ediyor.</p></li>
 </ol>
-<p><br></p>

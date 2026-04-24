@@ -27,8 +27,3 @@ tags: ['Panama Kanalı', 'CK Hutchison', 'BlackRock', 'Hong Kong', 'John Lee', '
 3. <strong>BlackRock</strong>/<strong>GIP</strong>/<strong>TIL</strong>; primary acquisition consortium.<br>
 4. <strong>Panama Canal</strong>; carries 5-6% of global maritime trade.<br>
 5. <strong>Trump</strong>; threatened in December 2024 to "reclaim the canal."</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it free of charge via the link.</p>
-<p><br></p>
-<p>[41380]</p>

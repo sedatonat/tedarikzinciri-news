@@ -35,5 +35,3 @@ tags:
   <li><p>Rusya, alternatif olarak Kuzey Deniz Yolu'nu veya Murmansk'ta gemiden gemiye aktarma işlemlerini kullanabilir.</p></li>
   <li><p>Avrupa şirketleri, özellikle SEFE ve Fluxys, yasaklardan ciddi şekilde etkilenebilir.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

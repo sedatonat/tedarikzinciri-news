@@ -85,14 +85,8 @@ from a single dashboard.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The next-generation TMS continues to be developed with emphasis on <strong>AI and automation</strong>.</p></li>
 </ul>
 <p style="text-align: justify"><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Procure ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a> You can download and read it free of charge via this link.</p>
 <p>We would be pleased to receive your feedback.</p>
 <p>We wish you happy reading from the start.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

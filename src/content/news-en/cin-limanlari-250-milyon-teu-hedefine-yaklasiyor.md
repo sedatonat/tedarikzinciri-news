@@ -41,10 +41,5 @@ tags:
   <li><p><strong>Global Impact</strong>: Chinese port performance contributes positively to global economic growth.</p></li>
 </ul>
 <p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book has been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through the link above.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>We wish you happy reading in advance.</p>

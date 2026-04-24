@@ -37,12 +37,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Among other alternative fuels are <strong>ammonia</strong>, <strong>methanol</strong>, and <strong>hydrogen</strong>; however, there are technological and economic challenges related to the use of these fuels.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The maritime sector views <strong>LNG</strong> as the most suitable alternative fuel in the short term; however, in the long term, other alternative fuels must also be developed and adopted to achieve zero carbon emission targets.</p></li>
 </ul>
-<p style="text-align: justify"><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book is Now Available on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through this link.</p>
-<p>We would be pleased to receive your feedback.</p>
-<p>We wish you happy reading.</p>

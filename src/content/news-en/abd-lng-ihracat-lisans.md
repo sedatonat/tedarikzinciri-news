@@ -56,11 +56,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The decision has received both support and criticism in domestic politics.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
+
 <p>Your feedback will make us happy.</p>
 <p>We wish you good reading from the start.</p>

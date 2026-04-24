@@ -30,8 +30,6 @@ tags:
 <p>Stax CEO Mike Walker stated, "We set out to provide a reliable, easily accessible, and cost-effective emissions capture and control solution. As we begin serving Toyota, we believe we can meet the needs of the entire maritime sector. As we expand beyond California, establishing strong partnerships will increase confidence in and momentum for our technology."</p>
 <p><br></p>
 <p>This development is viewed as a positive step for both local air quality and public health and the environment. Stax Engineering's innovative approach could accelerate the transition to more sustainable practices in the maritime sector.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Key Points:</strong></h5>
 <ul>
   <li><p>Toyota Motor North America has signed a five-year agreement with Stax Engineering.</p></li>
@@ -42,12 +40,3 @@ tags:
   <li><p>Stax's system reduces PM emissions by 99% and NOx emissions by 95%.</p></li>
   <li><p>Over the term of the agreement, approximately 47 tons of emissions will be controlled.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book is Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir">https://www.sedatonat.com/erpnasilalinir</a>You can download and read it for free via the link above.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

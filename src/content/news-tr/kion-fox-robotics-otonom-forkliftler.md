@@ -34,4 +34,3 @@ tags:
   <li><p>FoxBot, depo yükleme alanlarında kullanılmak üzere tasarlanmış bir otonom mobil robot.</p></li>
   <li><p>Fox Robotics, AI ve makine öğrenimi algoritmaları ile endüstride lider konumda.</p></li>
 </ol>
-<p><br></p>

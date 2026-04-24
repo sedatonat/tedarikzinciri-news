@@ -44,11 +44,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>ABD ve İngiltere öncülüğündeki askeri önlemler</strong>, bazı şirketleri Süveyş Kanalı rotasını yeniden değerlendirmeye yönlendirdi.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>DP World</strong>, tedarik zincirlerinin normalleşmesi için <strong>jeopolitik risklerin azalması gerektiğini</strong> vurguluyor.</p></li>
 </ul>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

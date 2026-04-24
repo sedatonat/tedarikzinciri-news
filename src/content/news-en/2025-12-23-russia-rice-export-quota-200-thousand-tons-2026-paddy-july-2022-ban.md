@@ -21,8 +21,3 @@ tags: ["Russia", "rice export", "paddy rice", "quota", "2026", "agriculture", "e
 3. Exports within the quota are subject to zero tax; exceeding amounts face 50% of customs value.<br>
 4. The quota replaces a ban in force since July 2022.<br>
 5. Krasnodar Krai — Russia's largest rice-producing region — will benefit from the opportunity.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

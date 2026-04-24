@@ -36,5 +36,3 @@ tags:
   <li><p>İşbirliği, iskele hizalamasında verimlilik ve hız artışı hedefliyor.</p></li>
   <li><p><a href="https://www.portchain.com/"><u>Portchain</u></a>, sürekli iyileştirme ve kullanıcı geri bildirimlerine açık bir yaklaşım benimsiyor.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

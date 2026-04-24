@@ -34,4 +34,3 @@ tags:
 </ul>
 <p><br></p>
 <p>Bu veriler, mevcut ve gelecekteki en önemli yetenekler için <strong>mevcut ve gelecekteki ihtiyaçlar arasında önemli farklar olduğu</strong>nu gösteriyor. Katılımcıların %96 'sı teknoloji ve veri becerilerinde en azından küçük bir eksiklik olduğunu bildirirken, %86 'sı iş anlayışı konusunda aynı durumu bildirdi.</p>
-<p><br></p>

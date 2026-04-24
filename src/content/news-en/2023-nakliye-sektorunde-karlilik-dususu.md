@@ -28,4 +28,3 @@ tags:
   <li><p>Driver wages and maintenance expenses increased substantially.</p></li>
   <li><p>Empty mile ratios and driver turnover rates increased.</p></li>
 </ul>
-<p><br></p>

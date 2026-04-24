@@ -28,4 +28,3 @@ tags:
   <li><p>Çalışanların dijital yeteneklerinin geliştirilmesi ve yeni çalışma yöntemlerine adaptasyonu kritik önem taşıyor.</p></li>
   <li><p>Yatırımlar, sadece maliyet optimizasyonu yerine uzun vadeli büyüme ve yeniliklere odaklanmalı.</p></li>
 </ol>
-<p><br></p>

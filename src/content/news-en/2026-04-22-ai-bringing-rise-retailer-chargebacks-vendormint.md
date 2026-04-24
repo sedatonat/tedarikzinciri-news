@@ -28,9 +28,3 @@ tags: ['Vendormint', 'Dallas Counts', 'chargeback', 'perakendeci', 'tedarikçi',
 3. Early payment discount abuse is a separate revenue leak source.<br>
 4. Seasonal color changes can lead to artificial spikes in chargebacks.<br>
 5. <strong>BOL</strong>, <strong>POD</strong>, and packing lists are automatically read by <strong>AI</strong>.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>
-<p><br></p>
-<p>[43856]</p>

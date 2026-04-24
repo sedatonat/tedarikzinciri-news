@@ -17,4 +17,3 @@ tags:
 - depo güvenliği
 ---
 <p>Kocaeli 'nde bir Lojistik Deposu 'nda yangın çıktı. Kimyasal maddelerin olduğu depoda yangın devam ediyor. Can kaybı yok.</p>
-<p><br></p>

@@ -30,4 +30,3 @@ tags:
   <li><p>Google teknolojisi ile geliştirilmiş akıllı yönetim aracı talep tahminini iyileştirecek.</p></li>
   <li><p>Bu girişim, maliyetleri düşürmeyi ve karbon ayak izini azaltmayı amaçlıyor.</p></li>
 </ol>
-<p><br></p>

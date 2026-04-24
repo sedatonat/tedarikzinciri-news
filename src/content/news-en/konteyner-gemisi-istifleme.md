@@ -73,8 +73,6 @@ This ensures:</p>
   <li style="text-align: justify"><p style="text-align: justify">The cage and bay-row-tier arrangement<br>in detailed fashion.</p></li>
 </ul>
 <p style="text-align: justify">The footage demonstrates that the loading process resembles solving a "giant puzzle": even a small error can jeopardize ship stability.</p>
-<p><br></p>
-<p><br></p>
 <h4 style="text-align: justify"><strong>Key Points:</strong></h4>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Containers are planned according to <strong>weight, size, and destination port</strong>.</p></li>
@@ -84,14 +82,6 @@ This ensures:</p>
   <li style="text-align: justify"><p style="text-align: justify">The video clearly demonstrates how technical and critical container arrangement is.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book "How to Acquire ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

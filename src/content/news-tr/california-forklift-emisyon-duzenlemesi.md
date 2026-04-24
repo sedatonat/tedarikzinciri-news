@@ -28,4 +28,3 @@ tags:
   <li><p>Düşük kullanımlı ve acil durum forkliftleri gibi bazı forkliftler için muafiyetler bulunuyor.</p></li>
   <li><p>Uygulama maliyetleri ve altyapı zorlukları nedeniyle endüstri tarafından eleştiriler var.</p></li>
 </ul>
-<p><br></p>

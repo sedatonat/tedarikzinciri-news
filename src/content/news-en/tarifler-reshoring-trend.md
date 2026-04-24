@@ -33,11 +33,5 @@ tags:
 - AI-driven TCO analysis improves decision quality.<br>
 - Political uncertainty is reshaping production networks.<br>
 - Tariff planning tools provide scenario-based flexibility.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it free of charge via the link above.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading.</p>
-<p><br></p>
-<p>[636]</p>

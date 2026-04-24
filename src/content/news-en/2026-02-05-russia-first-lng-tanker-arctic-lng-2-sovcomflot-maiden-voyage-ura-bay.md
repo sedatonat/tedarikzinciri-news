@@ -22,8 +22,3 @@ tags: ["Sovcomflot", "LNG tanker", "Arctic LNG 2", "Russian shipbuilding", "Nort
 3. The NSR transit averaged 8.7 knots with icebreaker assistance.<br>
 4. Unassisted ice tests proved superior capability vs the "Christophe de Margerie" class Arc7.<br>
 5. Arctic LNG 2 is a strategic project under Novatek on the Yamal Peninsula.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

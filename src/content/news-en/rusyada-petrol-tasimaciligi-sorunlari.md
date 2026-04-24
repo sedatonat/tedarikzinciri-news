@@ -47,13 +47,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Ukraine's attacks on oil facilities have disabled 10 percent of Russia's refinery capacity.​</p></li>
 </ul>
 <p style="text-align: justify">This situation points to a significant challenge in Russia's energy sector and carries potential risks for both domestic and external markets.</p>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our Book is Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>We wish you happy reading from the start.</p>

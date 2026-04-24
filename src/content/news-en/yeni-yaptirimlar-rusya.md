@@ -39,8 +39,6 @@ tags:
 <p style="text-align: justify">Additionally, security and environmental risks associated with the "shadow fleet" that Russia uses to circumvent sanctions are raising concerns. The use of aging and poorly maintained vessels increases the risk of maritime accidents and oil spills, posing serious threats to marine ecosystems and coastal areas.</p>
 <p><br></p>
 <p style="text-align: justify">In conclusion, new U.S. sanctions on Russia are making it harder for Moscow to export oil and increasing costs. This is causing fluctuations in global energy markets and amplifying concerns about energy security. How Russia responds to these sanctions and what strategies it develops to sustain oil exports will be closely watched in the coming period.</p>
-<p style="text-align: justify"><br></p>
-<p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>Key Points:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">The U.S. is implementing broad-based sanctions on Russia's oil industry.</p></li>
@@ -55,12 +53,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Moscow is working to develop strategic solutions to counter these sanctions.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading in advance.</p>
-<p><br></p>

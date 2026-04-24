@@ -35,5 +35,3 @@ tags:
   <li><p>Microsoft, veri analizi ve bilişsel hizmetlerle projeye destek veriyor.</p></li>
   <li><p>AI, toplama rotalarını ve taşıma şikayetlerini yönetmede kullanılacak.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

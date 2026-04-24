@@ -34,8 +34,6 @@ tags:
 <p>Resmi yetkililer, federal kanalın önümüzdeki ay açılmasını bekliyor. FBI, Nisan ayında köprünün çöküşüyle ilgili cezai soruşturma başlattı.</p>
 <p><br></p>
 <p>NTSB 'nin Ön Raporu'na bu <a href="https://www.ntsb.gov/investigations/Documents/DCA24MM031_PreliminaryReport%203.pdf"><u>Link</u></a>'ten ulaşabilirsiniz.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ol>
   <li><p>NTSB, Baltimore'daki Francis Scott Key Köprüsü kazasıyla ilgili ön raporunu yayımladı.</p></li>
@@ -48,4 +46,3 @@ tags:
 </ol>
 <p><br></p>
 <p><strong>İlgili Makalemiz:</strong> <a href="https://www.tedarikzinciriportali.com/post/maersk-baltimore-koprusu-kazasi" target="_blank"><u>https://www.tedarikzinciriportali.com/post/maersk-baltimore-koprusu-kazasi</u></a></p>
-<p><br></p>

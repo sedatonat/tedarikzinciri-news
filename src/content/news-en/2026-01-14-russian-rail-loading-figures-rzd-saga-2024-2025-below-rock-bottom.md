@@ -21,8 +21,3 @@ tags: ["Russian Railways", "RZD", "loading figures", "rail freight", "Russia", "
 3. The Russian wagon fleet has aged; more than one tenth of wagons are out of service.<br>
 4. Far East corridors (Vladivostok, Nakhodka) are regaining importance for coal exports.<br>
 5. RZD expects to leave rock bottom behind in Q1 2026 but independent analysts remain cautious.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

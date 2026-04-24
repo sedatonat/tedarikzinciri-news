@@ -78,12 +78,5 @@ These moves have the potential to invigorate a broad economic chain spanning <st
   <li style="text-align: justify"><p style="text-align: justify">This trend has the potential to establish <strong>India as a new logistics center in Asian maritime trade.</strong></p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
+
 <p><strong>News Source: </strong><a href="https://splash247.com/msc-and-maersk-join-cma-cgm-in-moving-tonnage-to-india/"><u>https://splash247.com/msc-and-maersk-join-cma-cgm-in-moving-tonnage-to-india/</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Procure ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p>You can download and read it for free via the link <a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a></p>
-<p>Your feedback would make us happy.</p>
-<p>We wish you happy reading.</p>

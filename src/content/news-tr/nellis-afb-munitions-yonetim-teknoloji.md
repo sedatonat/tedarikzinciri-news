@@ -36,8 +36,6 @@ tags:
 <p>Bu takip yeteneği, radyo trafiğini azalttı, emirlerin gerçek zamanlı durumunun daha iyi bilinmesini sağladı ve olayları araştırmak için değerli sorumluluk verileri sundu. Güvenliği artırırken, acil durumlarda muster süresini minimize etti. SEE ID teknolojisinin uygulanmasından elde edilen ek faydalar arasında haftalık 250 insan saatinden tasarruf, envanter doğruluğunun artması ve operasyonel karar verme süreçlerinin iyileşmesi yer aldı.</p>
 <p><br></p>
 <p>Air Force, SEE ID sisteminin Nellis AFB'deki Phase II programının başarılı test ve gösterimi sonucunda, sistemin hizmetin genel operasyonlarına uygulanabilirliğini değerlendirmek için şu anda incelendiğini belirtti. Bu amaçla bir Tactical Funding Increase (TACFI) program başvurusu sürecinde olduğu ifade edildi. Araştırma projesinin odak noktası MUNS operasyonları olmasına rağmen, sistemin Semi-Automatic Ground Environment (SAGE), güvenlik güçleri, sivil mühendislik ve tıbbi operasyonlar gibi diğer birçok alanda da uygulanabileceği belirtildi.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li><p>57th Munitions Squadron (MUNS) manuel operasyonlarla zorluk yaşıyordu.</p></li>
@@ -50,14 +48,3 @@ tags:
   <li><p>Sistem, Semi-Automatic Ground Environment (SAGE) ve diğer operasyonel alanlara uygulanabilir.</p></li>
   <li><p>Air Force, sistemin genel operasyonlara entegrasyonu için TACFI programına başvurdu.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

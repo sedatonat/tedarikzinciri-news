@@ -27,8 +27,3 @@ tags: ['Walmart', 'Wing', 'Heather Rivera', 'drone teslimat', 'Atlanta', 'last m
 3. <strong>Houston</strong>, <strong>Orlando</strong>, <strong>Tampa</strong>, and <strong>Charlotte</strong> are next cities.<br>
 4. <strong>Heather Rivera</strong> speaks as <strong>Wing</strong>'s Chief Business Officer.<br>
 5. Five cities targeted by mid-2026.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book is Now Available on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>  You can download and read it for free through this link.</p>
-<p><br></p>
-<p>[42980]</p>

@@ -36,12 +36,3 @@ tags:
   <li><p>This development is also significant in terms of its potential impact on Mexico's <strong>IMMEX</strong> program.</p></li>
   <li><p>In particular, e-commerce giants such as <strong>Shein</strong> and <strong>Temu</strong> could be negatively affected.<a href="https://www.reuters.com/world/americas/mexico-unveils-new-tariffs-popular-e-tailers-like-shein-temu-may-be-crosshairs-2024-12-31/?utm_source=chatgpt.com" rel="noopener" target="_blank">Reuters</a></p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via the link above.</p>
-<p>We would appreciate your feedback.</p>
-<p>We wish you happy reading.</p>

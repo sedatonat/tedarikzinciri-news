@@ -27,4 +27,3 @@ tags:
   <li><p>Verilerde tutarsızlık, verimsiz stok yönetimine neden oluyor.</p></li>
   <li><p>Yapay zeka (AI) gibi yeni teknolojiler, MRO süreçlerini iyileştirme potansiyeli taşıyor.</p></li>
 </ul>
-<p><br></p>

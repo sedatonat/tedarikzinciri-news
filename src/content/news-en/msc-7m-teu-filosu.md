@@ -58,15 +58,8 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Switzerland ranks <strong>9th in global ship ownership rankings</strong> thanks to MSC.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">MSC's secondhand acquisitions and newbuild programs are reshaping power dynamics across the sector.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP System? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you good reading ahead of time.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>
-<p><br></p>

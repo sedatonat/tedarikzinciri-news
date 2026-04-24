@@ -25,8 +25,6 @@ tags:
 <p>From March 18 onwards, two additional slots will be offered for transit dates through auction, with one more slot becoming available starting March 25. At full capacity, the canal can handle 40 vessels per day. In addition to restricting daily transits, the Panama Canal Authority has reduced the maximum draft in its larger locks by approximately 2 metres.</p>
 <p><br></p>
 <p>Currently, 54 vessels are waiting to transit the canal, down from over 160 in August. Over the past 10 months, lengthy queues and high transit fees have prompted a significant portion of the global shipping fleet to avoid using the canal.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Key Points</strong></h5>
 <ul>
   <li><p>The <a href="https://en.wikipedia.org/wiki/Panama_Canal"><u>Panama Canal</u></a>, bolstered by recent rainfall, has added three extra slots, raising the maximum daily transits to 27.</p></li>
@@ -36,4 +34,3 @@ tags:
   <li><p>The number of vessels waiting to transit has fallen from 160 to 54.</p></li>
   <li><p>Long waiting times and high fees have prompted many vessels to avoid the canal.</p></li>
 </ul>
-<p><br></p>

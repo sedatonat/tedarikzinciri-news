@@ -41,14 +41,3 @@ tags:
   <li><p><strong>Yaptırım Altındaki Gemiler:</strong> Rusya’nın shadow fleet’inden 73 tanker, İngiltere tarafından yaptırım altına alındı.</p></li>
   <li><p><strong>Küresel Deniz Ticaretinde Etkiler:</strong> Panama’nın hamlesi, uluslararası deniz ticaretinde şeffaflık ve hesap verebilirliği artırmayı hedefliyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

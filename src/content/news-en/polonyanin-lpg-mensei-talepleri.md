@@ -45,12 +45,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Poland has closed its eastern border with Belarus to trucks from both that country and Russia.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Approximately 300,000 Polish minorities reside in Belarus, further complicating relations between the two countries.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a>&nbsp;You can download and read it free of charge via this link.</p>
-<p>We would be delighted to hear your feedback.</p>
-<p>We wish you happy reading.</p>

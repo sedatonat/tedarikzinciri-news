@@ -25,8 +25,6 @@ tags:
 <p>Through its platform, which Flexport says simplifies global trade and connects everyone in the supply chain, the company acquired the technology stack of Seattle-based startup Convoy. Convoy shut down after eight years of operations despite hundreds of millions of dollars in venture capital backing. The company faced headwinds from the post-pandemic transportation recession in America and rapidly rising interest rates.</p>
 <p><br></p>
 <p>By acquiring this technology, Flexport said it has moved a step closer to its goal of becoming a "one-stop shop" for all of its customers' logistics needs. Company leaders said this week's move represents a strong step toward that objective. Bill Driegert, vice president of trucking at Flexport, said the technology ushers in a new era that allows small carriers to manage their business from their phones, and connecting this capacity with brokers will simplify operations and reduce costs while creating opportunities for small carriers. Driegert also noted that the technology plays a critical role in strengthening the entire trucking ecosystem, as carriers, brokers, and shippers need new solutions to adapt and grow in a rapidly changing market.</p>
-<p><br></p>
-<p><br></p>
 <h5>Key Takeaways</h5>
 <ul>
   <li><p>Flexport acquired software from bankrupt Convoy.</p></li>
@@ -36,5 +34,3 @@ tags:
   <li><p>The new technology enables small carriers to manage their operations from mobile devices.</p></li>
   <li><p>Flexport emphasizes that the technology plays an important role in strengthening the transportation ecosystem.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

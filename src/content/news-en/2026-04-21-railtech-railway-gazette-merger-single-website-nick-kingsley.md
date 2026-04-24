@@ -21,8 +21,3 @@ tags: ["RailFreight.com", "RailTech", "Railway Gazette International", "merger",
 3. RailTech visitors are now redirected to railwaygazette.com.<br>
 4. The RailTech archive (10 years of articles) has moved to Railway Gazette.<br>
 5. Existing RailTech subscribers will receive an equivalent Railway Gazette subscription free of charge.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

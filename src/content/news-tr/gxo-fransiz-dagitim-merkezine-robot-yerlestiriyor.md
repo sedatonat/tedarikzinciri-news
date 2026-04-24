@@ -35,5 +35,3 @@ tags:
   <li><p>AMR'lar, üretkenlik, doğruluk ve güvenlikte iyileşmeler sağladı.</p></li>
   <li><p>Robotlar kolayca taşınabiliyor ve mevsimsel ihtiyaçlara göre hızlıca yerleştirilebiliyor.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

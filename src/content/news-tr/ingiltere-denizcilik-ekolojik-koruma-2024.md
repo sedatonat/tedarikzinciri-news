@@ -25,8 +25,6 @@ tags:
 <p>Cybutryne, deniz florası ve faunasına zarar verebilen ve besin zincirine girebilen bir madde olarak biliniyor. Yeni yasalar, 10 Mayıs'ta yürürlüğe girecek ve tüm İngiltere bayraklı gemilere, nerede seyir yaparlarsa yapsınlar, uygulanacak. Ayrıca, İngiltere veya kontrolü altındaki denizlerde bulunan diğer ülke bayraklı gemileri de kapsayacak. Mevcut, organotin kimyasalları gibi eşit derecede tehlikeli maddelere yönelik kısıtlamalar da devam edecek.</p>
 <p><br></p>
 <p>Denizcilik ve Sahil Güvenlik Ajansı (MCA) tarafından yasal olarak kabul edilen Tüccar Denizcilik (Anti-Fouling Sistemleri) Yönetmelikleri 2024, Uluslararası Denizcilik Örgütü'nün (IMO) değiştirilmiş sözleşmesine dayanıyor. Yeni önlemler bu tür deniz kirliliğini ele almanın yanı sıra, kuralları tek bir noktada birleştirerek gelecekteki değişiklikleri takip etmeyi kolaylaştırıyor. MCA Başkanı Virginia McVea, bu maddelerin zararlı ekolojik etkileri olduğunun kanıtlandığını ve bu yüzden çevreyi korumak adına bu adımların önemli olduğunu belirtti. Bu düzenlemelerle İngiltere, deniz ekosistemlerini koruma konusunda küresel çabaya katkıda bulunuyor.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ol>
   <li><p>İngiltere, deniz boyalarında cybutryne kullanımını yasaklayan yasaları hayata geçiriyor.</p></li>
@@ -36,4 +34,3 @@ tags:
   <li><p>Yeni önlemler, kuralları tek bir noktada toplama ve gelecekteki değişikliklere uyumu kolaylaştırma amacı taşıyor.</p></li>
   <li><p>MCA Başkanı Virginia McVea, bu adımların ekolojik koruma için önemini vurguladı.</p></li>
 </ol>
-<p><br></p>

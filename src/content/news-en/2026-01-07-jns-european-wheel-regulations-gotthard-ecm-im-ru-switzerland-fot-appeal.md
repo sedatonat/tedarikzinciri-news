@@ -21,8 +21,3 @@ tags: ["JNS", "European wheel regulations", "Gotthard Base Tunnel", "ECM", "Swit
 3. The Swiss FOT secured an extended deadline to appeal the cancellation of its rules.<br>
 4. The Swiss rules are stricter; they place national safety authority above EU/JNS harmonisation.<br>
 5. Operators on the Rotterdam-Genova corridor must work under two different standards.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

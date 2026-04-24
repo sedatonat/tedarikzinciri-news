@@ -41,4 +41,3 @@ tags:
   <li><p>Dijital teknolojilere yatırım yapmanın stratejik önemi, iş liderleri arasında yüksek düzeyde kabul görüyor.</p></li>
   <li><p>Siber fidye saldırıları, işletmeler üzerinde ciddi mali zararlara neden oluyor.</p></li>
 </ul>
-<p><br></p>

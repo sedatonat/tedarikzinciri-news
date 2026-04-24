@@ -28,8 +28,3 @@ tags:
 3. Etkilenen sistemler izole edildi; üretim sürüyor.<br>
 4. Arka ofis süreçlerinde geçici aksamalar raporlandı.<br>
 5. Müşteri verisi etkisi konusunda nihai değerlendirme bekleniyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

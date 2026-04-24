@@ -27,8 +27,6 @@ tags:
 <p style="text-align: justify"><strong>GEP</strong> software allows US Steel to analyze spending more effectively, perform cost modeling and forecasting, manage its procurement project portfolio, track savings, and launch relevant RFx/auctions to realize identified savings. Additionally, through automated reporting and data collection, it aims to reduce risks by measuring and monitoring supplier risk and performance.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify">The software is scheduled to be deployed within the year, with the <strong>GEP Sourcing</strong> module to be implemented first.</p>
-<p style="text-align: justify"><br></p>
-<p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>Key Takeaways:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">US Steel is deploying the AI-powered <strong>GEP Software</strong> platform to modernize its procurement processes.</p></li>
@@ -36,12 +34,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The new platform delivers improvements in spend analysis, cost modeling, forecasting, and supplier risk management.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The <strong>GEP Sourcing</strong> module is expected to be deployed first within the year.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

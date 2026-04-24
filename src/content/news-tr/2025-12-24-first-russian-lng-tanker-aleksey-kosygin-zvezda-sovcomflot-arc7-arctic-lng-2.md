@@ -29,8 +29,3 @@ tags:
 3. İnşa süreci Rus Gemicilik Sicili denetimi altında gerçekleştirildi.<br>
 4. Geminin adı; 1973'te Sovcomflot'un temelini atan USSR Bakanlar Kurulu Başkanı'na ithafen verildi.<br>
 5. Gemi; buz kalınlığından bağımsız olarak zorlu Arktik koşullarda çalışabilecek.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

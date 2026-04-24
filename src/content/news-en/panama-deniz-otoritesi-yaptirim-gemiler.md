@@ -41,13 +41,5 @@ tags:
   <li><p>Ramón Franco stated that protecting the Panama registry from international sanctions is a fundamental state responsibility.</p></li>
   <li><p>According to Kpler data, in November, the flags of Gabon, Liberia, and the Cook Islands removed the highest numbers of grey and sanctioned vessels from their registries.</p></li>
 </ul>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading from the start.</p>

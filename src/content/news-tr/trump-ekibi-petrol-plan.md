@@ -46,12 +46,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Trump ve Vladimir Putin arasında planlanan görüşme, Ukrayna'daki savaşın sona erdirilmesi için müzakerelerin başlayabileceği ihtimalini artırıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Trump ekibi, ekonomik yaptırımların etkisini yönetirken doların küresel rezerv para birimi statüsünü koruma zorluğuyla karşı karşıya.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

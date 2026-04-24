@@ -35,12 +35,3 @@ tags:
   <li><p>Port of Long Beach continues cooperation with Los Angeles Fire Department and operations have returned to normal.</p></li>
   <li><p>The port continues to expand operational capacity through infrastructure investments and technological innovations.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p>You can download and read it free of charge via the link <a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a>.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

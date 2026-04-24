@@ -29,4 +29,3 @@ tags:
   <li><p>The highest growth of 21.5 percent was recorded in the Midwest-Northwest trade corridor.</p></li>
   <li><p>Federal Reserve decisions will determine future growth prospects.</p></li>
 </ol>
-<p><br></p>

@@ -35,8 +35,3 @@ tags:
 3. <strong>Trump</strong>; geniş tarife artışını 90 g&uuml;n ertelemekte &mdash; ticaret anlaşması için alan yaratıyor.<br>
 4. <strong>Mexico</strong>; <strong>U.S.</strong> taze domates pazarının %70&rsquo;ini sağlıyor.<br>
 5. <strong>Tomato Suspension Agreement</strong> (1996); 14 Temmuz 2025&rsquo;te feshediliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42300]</p>

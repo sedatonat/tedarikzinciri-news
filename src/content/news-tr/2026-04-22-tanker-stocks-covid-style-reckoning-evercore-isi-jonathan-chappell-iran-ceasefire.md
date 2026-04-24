@@ -30,8 +30,3 @@ tags:
 3. Nisan 2020'de spot navlunlar tavan yaparken hisse değerlemeleri bu yükselişi sindirememişti.<br>
 4. Hürmüz Boğazı'nda tansiyonun düşmesi navlun normalleşmesine yol açabilir.<br>
 5. Ham petrol ve ürün tankeri segmentindeki halka açık şirketlerde dikkatli pozisyonlanma öneriliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

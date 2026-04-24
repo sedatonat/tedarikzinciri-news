@@ -34,8 +34,6 @@ tags:
 <p>Other factors that pose threats to manufacturing and supply chains in 2024 include inflation, employment trends, upcoming elections, regulatory changes, cybersecurity concerns, and natural disasters.</p>
 <p><br></p>
 <p>For now, successive interest rate increases by the Federal Reserve and other central banks have successfully addressed rising inflation, which means deal makers can operate with more certainty. Global M&amp;A volumes increased 10% compared to the same period last year, likely paving the way for an M&amp;A recovery to be driven by industries.</p>
-<p><br></p>
-<p><br></p>
 <h5>Key Takeaways</h5>
 <ol>
   <li><p>Declining inflation and interest rates are increasing manufacturing investments.</p></li>
@@ -49,5 +47,3 @@ tags:
   <li><p>M&amp;A deal completion rates declined from 49% to 45%, with increased scrutiny and due diligence processes.</p></li>
   <li><p>Inflation, employment trends, upcoming elections, regulatory changes, cybersecurity concerns, and natural disasters pose threats to manufacturing in 2024.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

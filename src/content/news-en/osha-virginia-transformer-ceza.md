@@ -35,8 +35,6 @@ tags:
 <p style="text-align: justify">VTC operates a total of <strong>six production facilities</strong> across North America. In addition to the Idaho facility, the company operates in <strong>Georgia</strong>, <strong>Virginia</strong>, and <strong>Chihuahua, Mexico</strong>. Inspections conducted at the Virginia facilities between <strong>2020–2025</strong> identified a total of <strong>29 violations</strong> across <strong>21 inspections</strong>; some cases remain open.</p>
 <p><br></p>
 <p style="text-align: justify">The Pocatello facility's operational structure involves high-risk manufacturing processes. The facility transports <strong>100-ton transformers</strong> using <strong>air pallets</strong>, while <strong>50-ton cores</strong> are lifted with <strong>overhead crane</strong> systems. Production areas employ a <strong>positively pressurized winding shop</strong> for dust control, with targets for <strong>partial discharge</strong> values below <strong>ANSI</strong> limits. Despite this advanced technical infrastructure, the deficiencies in workplace safety practices reveal a disconnect between operational excellence and field safety.</p>
-<p><br></p>
-<p style="text-align: justify"><br></p>
 <h3 style="text-align: justify"><strong>Key Points</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>OSHA</strong> identified 53 serious and repeated violations at VTC's Pocatello facility.</p></li>

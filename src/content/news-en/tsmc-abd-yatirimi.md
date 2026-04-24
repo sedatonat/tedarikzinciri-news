@@ -38,11 +38,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Other technology giants like <strong>Apple</strong> are also planning large-scale investments in the United States, further strengthening the country's position in technology production.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
+
 <p>Your feedback would make us happy.</p>
 <p>Wishing you good reading ahead.</p>

@@ -38,5 +38,3 @@ tags:
   <li><p>Panama Kanalı'nın geçiş ücreti gelirlerinde büyük bir düşüş öngörülüyor.</p></li>
   <li><p>ABD'nin LNG gemilerinin sayısında azalma var, ancak durum değişebilir.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

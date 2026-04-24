@@ -29,4 +29,3 @@ tags:
   <li><p>Şirketin müşteri tabanı ve üretime hazır platformları mevcut.</p></li>
   <li><p>Continental ile 2027'de üretim anlaşması yapıldı.</p></li>
 </ol>
-<p><br></p>

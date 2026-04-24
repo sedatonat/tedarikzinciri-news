@@ -24,8 +24,6 @@ tags:
 <p>Ayrıca, Apple 2030 yılına kadar tüm tedarik zincirini tamamen karbon nötr hale getirme hedefi doğrultusunda sera gazı emisyonlarını azaltma çabalarını sürdürüyordir. Şirket, tedarikçilerinden yenilenebilir enerji gibi yöntemlerle operasyonlarını karbonsuzlaştırmalarını talep ediyordir. Apple, tedarik zincirindeki bir tedarikçiyi çıkarma kararını son çare olarak gördüğünü, çünkü bu durumun çalışanlara gerekli çözümü sağlamadığını ve endüstri genelinde ihlallerin devam etmesine olanak tanıyabileceğini belirtmiştir.</p>
 <p><br></p>
 <p>2012 yılında yürürlüğe giren bir SEC kuralı, şirketlerin ürünlerinde çatışma mineralleri bulunup bulunmadığını SD Formu aracılığıyla açıklamalarını zorunlu kılıyordır. Çatışma minerali riski taşıyan maddeler sıklıkla "3TG" — kalay, tantal, tungsten ve altın olarak adlandırılır. Apple'ın tedarikçilerden aldığı bilgilerle yürüttüğü titiz çalışmalar, 2023 yılında 3TG işlediğine inandığı çok kıtalı 235 eritme ve rafine tesisinin bir listesini ortaya çıkarmıştır. Bu tesislerden 221'i Apple'ın 3TG tedarik zincirinde kalmaya devam ediyordir.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ul>
   <li><p>Apple, standartlara uymayan 14 tedarikçi ile ilişkisini kesmiştir.</p></li>
@@ -33,4 +31,3 @@ tags:
   <li><p>SEC, çatışma mineralleri içeren ürünler hakkında raporlama zorunluluğu getirmiştir.</p></li>
   <li><p>Apple, tedarik zincirinden bir tedarikçiyi çıkarmayı son çare olarak görüyordir.</p></li>
 </ul>
-<p><br></p>

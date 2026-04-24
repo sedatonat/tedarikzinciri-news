@@ -34,8 +34,6 @@ tags:
 <p style="text-align: justify">Honda; çip tedarikindeki bu aksaklıklar nedeniyle <strong>küresel satış tahminini</strong> aşağı yönlü revize etti. Şirket; daha önce <strong>3,62 milyon adet</strong> olarak açıkladığı satış beklentisini <strong>3,34 milyon adede</strong> çekti. Bu revizyon; yalnızca Asya pazarındaki değil, küresel ölçekteki arz kısıtlarının da satış performansını baskıladığını gözler önüne seriyor. Honda; benzer nedenlerle daha önce <strong>Kuzey Amerika’daki</strong> bazı tesislerinde üretimi kısmen azalttı ya da geçici olarak askıya aldı.</p>
 <p><br></p>
 <p style="text-align: justify">Ortaya çıkan tablo; yarı iletken tedarik krizinin yalnızca pandemi dönemine özgü geçici bir sorun kalmadığını, jeopolitik kararlar, ihracat kısıtları ve bölgesel regülasyonlarla birlikte <strong>yapısal bir risk</strong> biçimine dönüştüğünü ortaya koyuyor. Honda örneği; otomotiv tedarik zincirlerinde tekil bileşenlere olan bağımlılığın, tüm üretim sistemini ne kadar hızlı etkileyebildiğini bir kez daha gözler önüne seriyor.</p>
-<p><br></p>
-<p style="text-align: justify"><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Honda, Japonya ve Çin’de bazı tesislerde üretimi geçici olarak durduruyor.</p></li>

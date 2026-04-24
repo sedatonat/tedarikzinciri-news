@@ -20,9 +20,3 @@ tags: ['Almanya', 'Katherina Reiche', 'Iran savaşı', 'büyüme tahmini', 'ener
 3. <strong>DIHK</strong> reports 83% of companies experiencing energy and material shortages.<br>
 4. <strong>Merz-Klingbeil</strong> attempting to close €140 billion deficit by 2029.<br>
 5. Inflation projected at 2.7% in 2026 and 2.8% in 2027.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[43907]</p>

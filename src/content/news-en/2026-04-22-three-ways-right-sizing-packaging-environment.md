@@ -27,8 +27,3 @@ tags: ['ambalaj', 'right-sizing', 'Paccurate', 'Taylor Pacifico', 'e-ticaret', '
 3. The average person receives 64 packages annually — 90 percent in corrugated cardboard.<br>
 4. In the U.S., 56 percent of corrugated cardboard still goes to landfills.<br>
 5. <strong>UPS</strong>, <strong>FedEx</strong>, <strong>USPS</strong> mandate right-sizing with DIM weight pricing.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[41670]</p>

@@ -31,11 +31,5 @@ tags: ['küresel lojistik', 'veri ekosistemi', 'platform katmanı', 'EDI', 'API'
 <p>---<br>
 <strong>Source:</strong> <a href="https://www.supplychainbrain.com/articles/43286-the-next-era-of-global-logistics-is-a-connected-data-ecosystem"><u>https://www.supplychainbrain.com/articles/43286-the-next-era-of-global-logistics-is-a-connected-data-ecosystem</u></a><br>
 -------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Purchase ERP? Our Book is Now Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading from the start.</p>
-<p><br></p>
-<p>[43286]</p>

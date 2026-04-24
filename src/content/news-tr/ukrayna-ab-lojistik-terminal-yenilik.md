@@ -26,8 +26,6 @@ tags:
 <p>Yeni multimodal terminal, Ukrayna'nın 1.520 mm genişliğindeki hatları ile Avrupa standartı 1.435 mm genişliğindeki hatlardan gelen trenleri kabul edecek ve iki hat arasında transferleri sağlayacak. Terminalin saatlik işleme kapasitesi 1.000 ton yük. Aynı zaman diliminde standart Avrupa genişliğindeki 16 vagona 50'şer ton yük yüklenebilecek.</p>
 <p><br></p>
 <p>Daha önce, AB ve Avrupa Yatırım Bankası, AB ile Moldova ve Ukrayna arasında demiryolu entegrasyonu için bir plan geliştirdi. Plan, sonunda her iki ülkede tam bir Avrupa genişliğinde demiryolu ağı vizyonunu öngörüyor.</p>
-<p><br></p>
-<p><br></p>
 <h4><strong>Önemli Notlar</strong></h4>
 <ul>
   <li><p>Yeni intermodal terminal, Batı Ukrayna'da, Romanya sınırına yakın <a href="https://www.google.com/maps/place/Hlyboka,+Chernivtsi+Oblast,+Ukraine/@48.0848749,25.9061049,14z/data=!3m1!4b1!4m6!3m5!1s0x47341493a1a036eb:0xf9f6c22a16b94ade!8m2!3d48.0931021!4d25.9224603!16zL20vMDlteXZ0?entry=ttu"><u>Hlyboka'da </u></a>inşa ediliyor.</p></li>
@@ -36,4 +34,3 @@ tags:
   <li><p>Saatlik 1.000 ton yük işleme kapasitesine ve aynı zamanda 16 vagonun standart Avrupa genişliğine yüklenebilmesine olanak tanıyacak.</p></li>
   <li><p>AB ve Avrupa Yatırım Bankası, Ukrayna ve Moldova'da Avrupa genişliğinde demiryolu ağının entegrasyonu için bir plan geliştirdi.</p></li>
 </ul>
-<p><br></p>

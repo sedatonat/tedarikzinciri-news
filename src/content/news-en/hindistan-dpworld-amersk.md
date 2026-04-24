@@ -68,15 +68,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">These initiatives represent <strong>India's largest leap forward in achieving its Maritime Amrit Kaal Vision 2047 goals</strong> toward becoming <strong>a global maritime powerhouse</strong>.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
+
 <p><strong>News Source:</strong> <a href="https://splash247.com/india-nets-7bn-in-fresh-investment-from-dp-world-and-maersk/"><u>https://splash247.com/india-nets-7bn-in-fresh-investment-from-dp-world-and-maersk/</u></a></p>
-<p>--------------------</p>
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>Our book "How to Acquire ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through this link.</p>
-<p>Your feedback would make us happy.</p>
-<p>We wish you happy reading.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

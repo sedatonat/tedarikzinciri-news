@@ -28,11 +28,5 @@ tags: ['Air Canada', 'Spirit Airlines', 'easyJet', 'jet yakıtı', 'Hürmüz Bo�
 3. <strong>Spirit Airlines</strong> is requesting hundreds of millions of dollars in <strong>emergency funding</strong> from the <strong>U.S.</strong><br>
 4. <strong>easyJet</strong> is forecasting losses of £540–560 million for the six-month period ending in March.<br>
 5. Uncertainty in the <strong>Strait of Hormuz</strong> is directly affecting aviation supply chains.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free through this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you good reading from the start.</p>
-<p><br></p>
-<p>[43890]</p>

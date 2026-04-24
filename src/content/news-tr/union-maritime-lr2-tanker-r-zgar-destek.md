@@ -25,8 +25,6 @@ tags:
 <p>Şanghay Waigaoqiao Gemi İnşaası'nda (SWS) yapımı devam eden ve 2025'in sonlarında teslim edilmesi planlanan bu iki gemi, her biri üç WindWings katı yelkeni özelliği taşıyacak. Union Maritime'ın LR'leri, 2023'ün ikinci yarısında Pyxis Ocean ve Berge Olympus gemilerine bu teknolojinin montajının ardından BAR Tech'in WindWings çözümünü benimseyen en son gemiler arasında yer alıyor. BAR Tech CEO'su John Cooper, bu son anlaşmanın, WindWings teknolojisine olan artan talebi ve bu teknolojinin denizcilik endüstrisine getirebileceği faydaları gösterdiğini belirtti.&nbsp;</p>
 <p><br></p>
 <p>Ayrıca, BAR Technologies'ın üretim ortağı CM Energy Tech (CMET) ile olan ortaklığı, WindWings'in değer zinciri, satınalma, inşa ve Asya'daki tersanelerde montajını yönetiyor. WindWings, rüzgar koşulları ve gemi hızı gibi kriterlere bağlı olarak katı yelkenlerin ayarlanmasını sağlayan bir rota optimizasyon sistemi ile birlikte çalışıyor. BAR Tech'e göre, bu teknoloji tipik küresel rotalarda her kanat başına günlük olarak 1,5 ton yakıt ve yaklaşık 5 ton CO2 tasarrufu sağlama potansiyeline sahip.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ul>
   <li><p>Union Maritime, iki LR2 tankerine rüzgar destekli itme teknolojisi ekliyor.</p></li>
@@ -35,5 +33,3 @@ tags:
   <li><p>WindWings teknolojisi, denizcilik endüstrisinde artan bir talep görüyor.</p></li>
   <li><p>Teknoloji, her kanat başına günlük olarak 1,5 ton yakıt ve 5 ton CO2 tasarrufu vaat ediyor.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

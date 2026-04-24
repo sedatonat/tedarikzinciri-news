@@ -29,4 +29,3 @@ tags:
   <li><p><strong>Kapasiteler:</strong> -20°F'ye kadar dönüştürülebilir odalar ve 53 yükleme kapısı bulunuyor.</p></li>
   <li><p><strong>Şirket Stratejisi:</strong> Şirket, genişleme stratejisinin bir parçası olarak ikinci bir tesis açtı.</p></li>
 </ol>
-<p><br></p>

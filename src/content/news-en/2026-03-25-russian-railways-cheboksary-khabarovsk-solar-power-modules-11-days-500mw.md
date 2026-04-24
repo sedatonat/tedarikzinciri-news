@@ -22,8 +22,3 @@ tags: ["Russian Railways", "Cheboksary", "Khabarovsk", "solar power", "block tra
 3. By end August 2026, 20 block trains will deliver over 500 MW of solar equipment.<br>
 4. Cheboksary is a Russian energy-equipment production centre; Khabarovsk a Far East industrial hub.<br>
 5. Over 6,000 km is covered in 11 days using the Trans-Siberian mainline.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

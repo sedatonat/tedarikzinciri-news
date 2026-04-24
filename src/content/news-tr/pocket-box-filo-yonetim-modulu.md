@@ -25,8 +25,6 @@ tags:
 <p>Varlık modülü, römorklar, konteynerler, forkliftler gibi çeşitli lojistik ve malzeme taşıma ekipmanlarının yönetimi için esnek bir yapı sunuyor. Kontrol paneli ve bildirim sistemi, bakım, güvenlik uyumu ve envanter yönetimi özelliklerini içeren, kullanımı kolay bir arayüz ile görev yönetimini sorunsuz hale getiriyor. Uygulama üzerinden sürücüler, günlük araç ve varlık güvenlik kontrolleri yaparken, kendilerine tahsis edilen ekipmanların son bilinen konumunu ve durumunu da belirleyebilecekler.</p>
 <p><br></p>
 <p>Finnegan, bu dijital çözümün işletmelerin zaman ve para tasarrufu sağlamalarına yardımcı olacağını, en yüksek sağlık ve güvenlik uyum seviyelerine ulaşmalarını sağlayacağını ve ileriye dönük olarak yeni güvenlik özelliklerini de sunacaklarını ifade ediyor. Ayrıca, bu modül sayesinde ekipman hırsızlığı gibi sorunlarla mücadelede de yardımcı olmayı hedefliyorlar.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ul>
   <li><p>Pocket Box, SME filo yönetimi için varlık modülü ekledi.</p></li>
@@ -35,4 +33,3 @@ tags:
   <li><p>Dijital çözüm, işletmelerin zaman ve para tasarrufu sağlamasına, güvenlik ve uyum seviyelerini artırmasına yardımcı oluyor.</p></li>
   <li><p>Gelecekte ekipman hırsızlığına karşı yeni güvenlik özellikleri eklenecek.</p></li>
 </ul>
-<p><br></p>

@@ -29,4 +29,3 @@ tags:
   <li><p>En yüksek artış %21,5 ile Midwest-Kuzeybatı ticaret koridorunda görüldü.</p></li>
   <li><p>Federal Rezerv'in kararları, gelecekteki büyümeyi belirleyecek.</p></li>
 </ol>
-<p><br></p>

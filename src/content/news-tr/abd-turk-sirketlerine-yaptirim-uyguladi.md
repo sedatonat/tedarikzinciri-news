@@ -37,8 +37,6 @@ tags:
 <p>&nbsp;gibi şirketler çeşitli ürün sevkiyatları nedeniyle listeye eklendi.&nbsp;</p>
 <p><br></p>
 <p>Bu hareket, ABD'nin Rusya ile yasadışı ticaret yapanlara yönelik agresif politikasının bir parçası olarak görülüyor.</p>
-<p><br></p>
-<p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ol>
   <li><p>ABD, Rusya'ya ambargo ihlallerine katkıda bulundukları gerekçesiyle yüzlerce kişi ve kuruluşa yaptırım uyguladı.</p></li>
@@ -47,4 +45,3 @@ tags:
   <li><p>Türkiye'den yaptırım listesine alınan şirketler arasında Bosfor Avrasya, Egetir Otomotiv gibi şirketler yer alıyor.</p></li>
   <li><p>Yaptırımlar, teknoloji sevkiyatı, silah ve teknolojik ekipmanların transferi gibi faaliyetleri hedef alıyor.</p></li>
 </ol>
-<p><br></p>

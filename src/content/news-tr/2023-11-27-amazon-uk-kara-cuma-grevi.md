@@ -28,5 +28,3 @@ tags:
 <p>Make Amazon Pay kampanyasının koorganizatörlerinden biri olan UNI küresel sendikasının yardımcı genel sekreteri Alke Bössiger, 24 Kasım'da 30'dan fazla ülkede Amazon'a karşı 150 eylemin gerçekleştiğini söyledi.</p>
 <p><br></p>
 <p>ABD regülatörü Federal Ticaret Komisyonu (Federal Trade Commission), şirkete karşı rekabeti engelleme suçlamasıyla bir dava açtı ve Amazon'un bu suçlamaları reddettiğini iddia etti.</p>
-<p><br></p>
-<p>---</p>

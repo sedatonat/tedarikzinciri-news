@@ -24,8 +24,6 @@ tags:
 <p>Spanning 90,000 square feet, the center is located in the 8th district of Marseilles, in the heart of Ecole Nationale Supérieure Maritime. Tangram has been designed as a site encompassing training rooms, simulations, an innovation center, and an event space. It also houses cutting-edge technologies such as virtual reality and artificial intelligence avatars.</p>
 <p><br></p>
 <p>Offering three educational programs, Tangram operates in partnership with universities including BCG University, Imperial College London, and HEC Paris, delivering courses on "climate," "artificial intelligence," and "leadership." Each program begins with ten hours of remote training, followed by an intensive week-long session on-site. Each session brings together participants from diverse professions and CMA CGM departments from around the world.</p>
-<p><br></p>
-<p><br></p>
 <h5>Key Points</h5>
 <ol>
   <li><p>Tangram will welcome 3,000 CMA CGM employees annually.</p></li>
@@ -35,4 +33,3 @@ tags:
   <li><p>Artificial intelligence avatars and virtual reality are used for innovation.</p></li>
   <li><p>Training programs are available on "climate," "artificial intelligence," and "leadership."</p></li>
 </ol>
-<p><br></p>

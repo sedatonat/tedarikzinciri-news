@@ -28,10 +28,4 @@ tags: ['Marco Rubio', 'Çin', 'Panama', 'FMC', 'CK Hutchison', 'tahkim', 'Panama
 3. <strong>China</strong> denies the allegations; spokesperson <strong>Lin Jian</strong> responds.<br>
 4. <strong>CK Hutchison</strong> launches $2+ billion arbitration against <strong>Panama</strong>.<br>
 5. Tensions escalate ahead of <strong>Trump</strong>'s <strong>Beijing</strong> visit planned for May.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
 <p>We would be delighted to hear your feedback.</p>
-<p><br></p>
-<p>[43786]</p>

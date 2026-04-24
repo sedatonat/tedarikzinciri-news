@@ -80,14 +80,8 @@ The nine security vulnerabilities identified in the newer E3 model are predomina
   <li style="text-align: justify"><p style="text-align: justify">The cold chain should now be regarded as <strong>critical infrastructure carrying cyber security risk</strong>.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book "How to Implement ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p>You can download and read it free of charge via the link <a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a></p>
 <p>We would be delighted to receive your feedback.</p>
 <p>We wish you happy reading in advance.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

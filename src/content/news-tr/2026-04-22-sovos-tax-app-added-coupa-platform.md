@@ -36,8 +36,3 @@ tags:
 3. Manuel vergi girişi elimine ediliyor; <strong>header</strong>/<strong>line</strong> düzeyde doğrulama yapılıyor.<br>
 4. <strong>Kevin Akeroyd</strong>; <strong>Sovos CEO</strong> olarak entegrasyonu açıklıyor.<br>
 5. <strong>Coupa</strong>; <strong>AI</strong> tabanlı toplam harcama yönetimi platformu oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43605]</p>

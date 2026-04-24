@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Sentetik kauçuk; lastik üreticilerini petrol piyasalarına bağlıyor ve başka bir oynaklık katmanı yaratıyor. Ham petrol fiyatları dalgalandıkça; sentetik kauçuğun yapı taşları olan bütadien ve stiren maliyetleri de değişiyor. Ham petrol fiyatlarındaki 10 ABD doları'lık bir artış; binek otomobil lastikleri için üretim maliyetlerini yüzde 8 ile yüzde 12 arasında yükseltebiliyor ve endüstri genelinde marjları sıkıştırıyor. Çelik fiyatları; başka bir değişken ekliyor. Lastiklere güç ve dayanıklılık sağlayan çelik kuşaklar; hammadde maliyetlerinin yüzde 15 ile yüzde 20'sini temsil ediyor.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında <strong>Michelin</strong>, <strong>Bridgestone</strong>, <strong>Goodyear</strong>, <strong>Continental</strong> ve <strong>Pirelli</strong>; doğal kauçuk için <strong>EUDR (EU Deforestation Regulation)</strong> uyumu kapsamında izlenebilirlik altyapısına yatırım yapmak zorunda kalıyor. Geri dönüştürülmüş karbon siyahı («rCB») ve <strong>guayule</strong> kaynaklı alternatif kauçuk; orta vadeli risk azaltma stratejisi olarak öne çıkıyor. <strong>VMI</strong> programları ve uzun vadeli <strong>offtake</strong> sözleşmeleri; emtia oynaklığının OEM tedariki üzerine yansımasını engellemek için kritik önem taşıyor.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43418]</p>

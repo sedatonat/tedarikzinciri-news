@@ -37,12 +37,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Diğer alternatif yakıtlar arasında <strong>amonyak</strong>, <strong>metanol</strong> ve <strong>hidrojen</strong> bulunuyor, ancak bu yakıtların kullanımıyla ilgili teknolojik ve ekonomik zorluklar mevcut.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Denizcilik sektörü, kısa vadede <strong>LNG</strong>'yi en uygun alternatif yakıt olarak görüyor, ancak uzun vadede sıfır karbon emisyonu hedeflerine ulaşmak için diğer alternatif yakıtların da geliştirilmesi ve benimsenmesi gerekiyor.</p></li>
 </ul>
-<p style="text-align: justify"><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

@@ -50,12 +50,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Uncertainty in tariff policies is creating adverse effects on economic growth.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Consumer price increases are expected, which will intensify inflationary pressures.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>Our book "How to Get ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via the link.</p>
-<p>Your feedback would make us happy.</p>
-<p>Wishing you happy reading in advance.</p>

@@ -31,8 +31,3 @@ tags:
 3. Vinçler ikiz spreader ve döner trolley ile donatılacak.<br>
 4. Active Load Control teknolojisi konteyner sallanmasını ortadan kaldırarak yerleştirme doğruluğunu artırıyor.<br>
 5. Yatırım, Sagarmala ve PM Gati Shakti programları kapsamında liman-demiryolu entegrasyon hedefleriyle uyumlu.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

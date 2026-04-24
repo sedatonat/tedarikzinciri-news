@@ -59,12 +59,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">New Jersey, 2040 yılına kadar 11 gigawatt açık deniz rüzgar elektriği üretmeyi hedefliyor, bu da Doğu Kıyısı rüzgar enerjisi üretiminin %30'unu temsil ediyor.<a href="https://gcaptain.com/congressman-van-drew-trump-team-up-to-sink-bidens-offshore-wind-ambitions/?utm_source=chatgpt.com" rel="noopener" target="_blank">gCaptain</a></p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Bureau of Ocean Energy Management (BOEM)</strong>, Ekim 2024'te New Jersey kıyılarında yer alacak olan <strong>Atlantic Shores South</strong> projesini onayladı; bu proje yaklaşık bir milyon eve yetecek 2.800 megawatt enerji üretecek.<a href="https://gcaptain.com/congressman-van-drew-trump-team-up-to-sink-bidens-offshore-wind-ambitions/?utm_source=chatgpt.com" rel="noopener" target="_blank">gCaptain</a></p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

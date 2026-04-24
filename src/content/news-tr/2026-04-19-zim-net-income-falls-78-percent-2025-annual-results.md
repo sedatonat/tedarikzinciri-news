@@ -30,8 +30,3 @@ tags:
 3. Şirket 3,66 milyon TEU taşıdı, ortalama navlun oranı TEU başına 1.551 dolara düştü.<br>
 4. Yıl sonu itibariyle net borç 2,92 milyar dolar, kaldıraç oranı 1,3x olarak kayda geçti.<br>
 5. ZIM, filo modernizasyonu kapsamında 22 yeni inşa charter sözleşmesi imzaladı.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -43,4 +43,3 @@ tags:
   <li><p>AI, risk yönetimi ve tahmin analizlerinde kilit bir rol oynuyor.</p></li>
   <li><p>AI'ın entegrasyonu veri gizliliği ve yetenekli profesyonel kıtlığı gibi zorluklarla karşı karşıya.</p></li>
 </ul>
-<p><br></p>

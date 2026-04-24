@@ -62,14 +62,8 @@ Rail:</strong> Barcelona's major rail investment makes inland distribution carbo
   <li style="text-align: justify"><p style="text-align: justify">Entering 2026, maritime routes appear <strong>risky and expensive</strong>, while rail and air–land solutions are <strong>increasingly attractive</strong>.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge through this link.</p>
 <p>We would be happy to receive your feedback.</p>
 <p>Wishing you happy reading.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

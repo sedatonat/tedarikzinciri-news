@@ -37,4 +37,3 @@ tags:
   <li><p>Üreticilerin, SAP sistemlerini modernize ederek siber saldırılara karşı savunmalarını güçlendirmesi gerekiyor.</p></li>
   <li><p>Otomatik güvenlik süreçleri ve sürekli tehdit istihbaratı, ERP sistemlerinin güvenliğini sağlamak için kritik öneme sahip.</p></li>
 </ol>
-<p><br></p>

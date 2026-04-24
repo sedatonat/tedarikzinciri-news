@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Veri gizliliği ve güvenliği konusundaki endişeler de bir başka sebep olabiliyor. Battey; zorluğun büyük ölçüde eğitim, aydınlatma ve iş birliği meselesi oluyor olduğunu vurguluyor. «Önemli olan; tedarikçilerle onları güçlendirecek biçimde nasıl etkileşime geçiliyor olunacağını bulmak oluyor». Tedarikçiler; çoklu alt akış alıcısının farklı veri taleplerinden de bunalmış olabiliyor. <strong>HowGood</strong>'un tedarikçi bağlantı platformu; gerekli ürün düzeyindeki veri türünü basitleştirip standartlaştırarak bu sorunu çözmeye çalışıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında <strong>CSRD (Corporate Sustainability Reporting Directive)</strong> ve <strong>SEC Climate Rule</strong> kapsamında zorunlu hâle geliyor olan Scope 3 raporlaması; gıda sektöründe <strong>FLAG (Forest, Land and Agriculture)</strong> hedefleri ile birleşince ek bir karmaşıklık katmanı oluşturuyor. <strong>Nestlé</strong>, <strong>Unilever</strong>, <strong>Danone</strong> ve <strong>PepsiCo</strong>; tedarikçi karne sistemine sürdürülebilirlik veri kalitesini yerleştiriyor. <strong>SAP Sustainability Footprint Management</strong> ile <strong>Salesforce Net Zero Cloud</strong>; veri toplama altyapısında öne çıkıyor olan platformlar oluyor.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43825]</p>

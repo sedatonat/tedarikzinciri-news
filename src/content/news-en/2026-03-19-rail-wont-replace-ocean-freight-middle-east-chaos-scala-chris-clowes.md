@@ -22,8 +22,3 @@ tags: ["SCALA", "Chris Clowes", "rail freight", "ocean freight", "Middle East", 
 3. Only a small percentage of Europe-Asia container traffic can move by rail.<br>
 4. Even the Middle Corridor's existing capacity is limited and cannot absorb large volumes.<br>
 5. Fast capacity growth requires infrastructure, ship/wagon investment, and cross-border policy alignment.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

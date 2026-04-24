@@ -33,5 +33,3 @@ tags:
   <li><p>Hindistan'ın mal ihracatı değeri Ocak ayında yıllık %3 artarak umut verici işaretler sundu.</p></li>
   <li><p>FIEO Başkanı Israr Ahmed, ihracatçı topluluğunun direncini ve ekonomiye olan katkısını vurguladı.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

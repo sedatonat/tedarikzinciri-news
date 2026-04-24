@@ -29,7 +29,3 @@ tags:
 <p style="text-align: justify">According to an overview of the <strong>USCIS</strong> plans, first reported by the Washington Post, <strong>U.S. Immigration and Enforcement</strong> (<strong>ICE</strong>) would buy 16 buildings across the U.S. and convert them into regional processing centers, each capable of holding 1,000 to 1,500 people. Another eight large-scale detention centers would hold 7,000 to 10,000 people at a time &mdash; and serve as "the primary locations" for deportations.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, this plan triggers a significant structural shift in the U.S. commercial real estate market. The transfer of class B and C warehouses to the public sector could create capacity scarcity for e-commerce operators and 3PLs. For major industrial REITs such as <strong>Prologis</strong>, <strong>Duke Realty</strong> and <strong>Brookfield</strong>, this becomes a new variable in warehouse supply-demand dynamics. For logistics operators, it means that <em>fulfillment center</em> leasing costs could rise &mdash; particularly in secondary markets.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43479]</p>

@@ -21,8 +21,3 @@ tags: ["PMMI", "PACK gives BACK", "charitable foundation", "501(c)(3)", "packagi
 3. The goal is to amplify the philanthropic impact of the packaging and processing technology sector.<br>
 4. The decision was announced at the 2026 Executive Leadership Conference (Amelia Island, Florida).<br>
 5. First grants are expected to be announced in the coming months.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

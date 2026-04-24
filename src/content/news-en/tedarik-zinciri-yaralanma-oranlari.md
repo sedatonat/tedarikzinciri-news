@@ -59,12 +59,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Legal regulations</strong> require employers to comply with specific standards and enhance worker safety.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Workers'</strong> compliance with safety protocols and proper use of protective equipment are vital for their own safety.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via the link above.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

@@ -45,12 +45,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Beyond technological advances, new public-private partnerships, revised insurance models, closed regulatory gaps, developed global licensing standards, and investment in crew training are needed.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>ABS</strong> published the industry's first comprehensive rules for floating nuclear power, and these rules are available for free download.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Purchase ERP? Our Book Is Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

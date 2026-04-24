@@ -28,8 +28,3 @@ tags: ['tarife', 'Trump', 'Elizabeth Warren', 'Sony', 'PS5', 'enflasyon', 'FTC',
 3. <strong>Jerome Powell</strong> noted that "manufacturers just followed the crowd and raised prices."<br>
 4. <strong>FTC Chair Andrew Ferguson</strong> cautioned that "tariffs are not a green light for price fixing."<br>
 5. <strong>Sony PS5</strong> price increases in the <strong>U.K.</strong>, <strong>EU</strong>, and <strong>Australia</strong> represent an early example of tariff-related pricing actions.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[41590]</p>

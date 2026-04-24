@@ -27,8 +27,3 @@ tags: ['Çanakkale Boğazı', 'yangın', 'iklim değişikliği', 'Akdeniz', 'den
 3. Approximately 2,900 residents evacuated from Çanakkale province—<strong>Anadolu Agency</strong> reports.<br>
 4. <strong>Mediterranean basin</strong> warming 20 percent faster than global average.<br>
 5. <strong>Spain</strong>, <strong>Greece</strong>, <strong>Portugal</strong>, <strong>Italy</strong>, <strong>France</strong>, and <strong>Turkey</strong> among the most affected by 2025 wildfires.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge via this link.</p>
-<p><br></p>
-<p>[42310]</p>

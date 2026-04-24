@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">The <strong>Veronica III</strong>, which travels under the Panamanian flag, is subject to U.S. sanctions related to <strong>Iran</strong>, according to the Treasury Department's Office of Foreign Assets Control (OFAC). In December, the U.S. imposed what the Trump administration has described as an energy quarantine, deploying its naval fleet to cut off Venezuela's oil exports and seizing sanctioned oil vessels. The blockade has continued even after a January 3 military strike to remove Nicolas Maduro from power.</p>
 <p><br></p>
 <p style="text-align: justify">The interdiction follows a cat-and-mouse chase along the same body of water. From a supply chain perspective, this incident structurally alters the operational risk profile of <strong>shadow fleet</strong> tankers, demonstrating that vessels operating outside <strong>P&I Club</strong> coverage are exposed to a renewed U.S. "unlimited range" tracking strategy. <strong>BIMCO</strong> and <strong>INTERTANKO</strong> have issued warnings to members urging them to update <strong>OFAC</strong> compliance checklists. Major commodity traders such as <strong>Vitol</strong>, <strong>Trafigura</strong> and <strong>Glencore</strong> must now manage sanctioned cargo exposure with zero tolerance.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43482]</p>

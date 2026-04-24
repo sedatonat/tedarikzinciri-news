@@ -48,13 +48,6 @@ tags:
   <li><p>All five vessels will be constructed at the Vard Vung Tau facility in Vietnam, with the first four vessels scheduled for delivery in the second half of 2027 and the fifth vessel in early 2028.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
+
 <p>We would be delighted if you have any feedback.</p>
 <p>Wishing you good reading from now on.</p>

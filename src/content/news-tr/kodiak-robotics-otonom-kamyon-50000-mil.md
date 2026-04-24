@@ -35,4 +35,3 @@ tags:
   <li><p>Teknoloji, ileri seviye sensörler ve yapay zeka destekli algoritmalarla donatıldı.</p></li>
   <li><p>Kodiak Robotics, bu teknolojiyle lojistik sektöründe güvenlik ve verimliliği artırmayı hedefliyor.</p></li>
 </ol>
-<p><br></p>

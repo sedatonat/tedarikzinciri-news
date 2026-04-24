@@ -47,14 +47,3 @@ tags:
   <li><p>Vard Interiors, gemilerde fonksiyonel ve konforlu ortamlar yaratacak modern iç tasarım çözümleri sunacak.</p></li>
   <li><p>Tüm beş gemi, Vietnam’daki Vard Vung Tau tesislerinde inşa edilecek ve 2027’in ikinci yarısında ilk dört gemi, 2028 başında ise beşinci gemi teslim edilecek.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

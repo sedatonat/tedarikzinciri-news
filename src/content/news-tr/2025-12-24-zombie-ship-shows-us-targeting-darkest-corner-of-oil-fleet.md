@@ -29,7 +29,3 @@ tags:
 <p style="text-align: justify">&laquo;Venezuela; ham petrolün hem menşeini hem de mülkiyetini gizliyor ve dolayısıyla finansal ve ticari kontrolleri atlatıyor dikkat çekici biçimde başarılı oluyor&raquo; ifadelerini <strong>Kpler</strong>'da kıdemli risk ve uyum analisti <strong>Dimitris Ampatzidis</strong> kullandı. &laquo;Bu nedenle Washington; saf finansal önlemlerden fiziksel kesintiye doğru giderek daha fazla yöneliyor.&raquo; Tedarik zinciri perspektifinden ABD kuvvetleri; Karayipler'de uyuşturucu kaçakçılığı yaptığı iddia edilen tekneleri vurur ve Aralık başından bu yana üç tankeri kovalar veya bunlara çıkarma yapar.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bu zombi gemi vakaları; küresel denizcilik sektörü için ciddi izlenebilirlik ve sigortalanabilirlik sorunları yaratır. <strong>AIS</strong> (<strong>Automatic Identification System</strong>) verilerinin manipülasyonu, IMO numaralarının çoğaltılması ve sahte bayraklı kayıtlar; deniz sigortacıları ve <em>charterer</em>'lar için risk profilini köklü biçimde değiştirir. Yaptırımlara uyum gerektiren büyük ham petrol alıcıları; menşe doğrulaması ve gemi geçmişi denetiminde çok daha sıkı süreçlere yönelmek zorunda kalır.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43047]</p>

@@ -37,13 +37,6 @@ tags:
   <li><p>Corrective action workflows are standardized.</p></li>
   <li><p>The least-privilege principle secures data sharing.</p></li>
 </ul>
-<p>--------</p>
-<p>--------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a>You can download and read it for free through this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading.</p>
-<p><br></p>
-<p>[853]</p>

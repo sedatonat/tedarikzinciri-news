@@ -32,4 +32,3 @@ tags:
   <li><p>DOE, yerli tedarikçilerin izlenmesi ve belirlenmesi için bir veri tabanı öneriyor.</p></li>
   <li><p>Hidroelektrik enerjisi ABD'nin yenilenebilir enerji üretiminin %27'sini oluşturuyor.</p></li>
 </ol>
-<p><br></p>

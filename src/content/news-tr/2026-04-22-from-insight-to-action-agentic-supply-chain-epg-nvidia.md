@@ -36,9 +36,3 @@ tags:
 3. Ajansal <strong>AI</strong>; lojistiği görünürlükten otonom yürütüme dönüştürüyor.<br>
 4. <strong>NVIDIA cuOpt</strong>; <strong>VRP</strong> ile rotalama optimizasyonunu hızlandırıyor.<br>
 5. <strong>EPG Greenstone</strong>; otomasyon donanımı orkestrasyon katmanı oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43810]</p>

@@ -42,13 +42,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Depolama İhtiyacı:</strong> Yeniden inşa sürecinde, yapı malzemeleri için depolama alanı talebinde artış olacaktır.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Tedarik Zinciri Dayanıklılığı:</strong> İşletmeler, müşterilerini desteklemek için faaliyetlerine devam etmenin yollarını bulmalıdır.</p></li>
 </ul>
-<p style="text-align: justify"><br></p>
-<p style="text-align: justify"><br></p>
-<p style="text-align: justify">---</p>
-<p style="text-align: justify">-------------------</p>
-<p style="text-align: justify"><strong>!!! DUYURU !!!</strong></p>
-<p style="text-align: justify"><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p style="text-align: justify">#ERP Nedir?</p>
-<p style="text-align: justify"><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p style="text-align: justify">Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p style="text-align: justify">Şimdiden iyi okumalar dileriz.</p>

@@ -36,9 +36,3 @@ tags:
 3. Eski sistemler ve bağlantısız araçlar; ayak uyduruyor olamamakta.<br>
 4. Kontrol listesi; pratik kıyaslama aracı olarak konumlanıyor.<br>
 5. Esneklik; çeviklik ve karlılık; 2026 için anahtar yetkinlikler oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43660]</p>

@@ -22,8 +22,3 @@ tags: ["Sovcomflot", "Aleksey Kosygin", "LNG tanker", "Zvezda Shipbuilding", "Ar
 3. Construction was carried out under the supervision of the Russian Register of Shipping.<br>
 4. The ship is named after the USSR Chairman who approved founding Sovcomflot in 1973.<br>
 5. The vessel can operate in harsh Arctic conditions regardless of ice thickness.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

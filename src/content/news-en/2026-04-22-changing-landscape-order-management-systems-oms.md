@@ -27,8 +27,3 @@ tags: ['OMS', 'Infios', 'WMS', 'TMS', 'ERP', 'omnichannel', 'fulfillment', 'mod√
 3. <strong>Infios</strong> is the rebranding of legacy <strong>K√∂rber Supply Chain Software</strong> as of 2024.<br>
 4. <strong>BOPIS</strong>, ship from store, and endless aisle are key omnichannel use cases.<br>
 5. Composable commerce, headless, and API-first are leading modern architecture trends.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>
-<p><br></p>
-<p>[41620]</p>

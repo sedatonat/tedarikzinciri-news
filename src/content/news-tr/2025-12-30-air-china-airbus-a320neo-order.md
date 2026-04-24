@@ -35,11 +35,3 @@ tags:
 3. <strong>Çin</strong>&rsquo;in planlıyor olduğu büyük paket yaklaşık 500 uçak içeriyor.<br>
 4. Sipariş, yazılım kaynaklı küresel geri çağırma sürecindeki <strong>Airbus</strong>&rsquo;a önemli bir destek sağlıyor.<br>
 5. <strong>Spring Airlines</strong> ve <strong>Juneyao Airlines</strong>, önceden <strong>8,2 milyar dolar</strong>lık ek anlaşmalar imzalıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43057]</p>

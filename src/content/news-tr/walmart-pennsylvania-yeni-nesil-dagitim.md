@@ -34,5 +34,3 @@ tags:
   <li><p>Tesis, Walmart'ın hızlı teslimat hizmetlerini genişletmesine yardımcı olacak.</p></li>
   <li><p>Beşinci sonraki nesil tesisin 2026'da Kaliforniya'da açılması planlanıyor.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

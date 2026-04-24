@@ -28,9 +28,3 @@ tags: ['UniUni', 'son mil', 'e-ticaret', 'güvenilirlik', 'SLA', 'ölçeklenebil
 3. Scalable networks address viral demand spikes.<br>
 4. Data integrity is mandatory across multiple handoffs.<br>
 5. <strong>UniUni</strong> operates an <strong>Asian e-commerce</strong>-focused last-mile network.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[43659]</p>

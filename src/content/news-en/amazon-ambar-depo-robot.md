@@ -38,13 +38,6 @@ tags:
   <li><p>Energy and maintenance planning ensure uninterrupted operations.</p></li>
   <li><p>The workforce realizes gains in ergonomics and training.</p></li>
 </ul>
-<p>----------</p>
-<p>----------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" rel="noopener" target="_new"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
+
 <p>Your feedback would make us very happy.</p>
 <p>Wishing you good reading ahead.</p>
-<p><br></p>
-<p>[882]</p>

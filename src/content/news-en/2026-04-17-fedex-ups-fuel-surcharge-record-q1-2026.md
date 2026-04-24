@@ -25,8 +25,3 @@ tags: ["FedEx", "UPS", "yakıt ek ücreti", "TD Cowen", "AFS Logistics", "kara t
 3. Iran war and Strait of Hormuz disruption pressuring oil supply and fuel fees.<br>
 4. Atlanta-NYC 5-pound ground shipment is 41.8% more expensive than 2022.<br>
 5. March express fuel surcharges 46% higher than Q1 2025 levels.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

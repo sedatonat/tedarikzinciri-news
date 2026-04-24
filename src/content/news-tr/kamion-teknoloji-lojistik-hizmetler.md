@@ -23,8 +23,6 @@ tags:
 <p>Kamion'un teknolojisi, lojistik süreçlerdeki maliyetleri azaltma konusunda kritik bir rol üstleniyor. Firmanın kurucusu Berkay Adlim, lojistik takımlarının karmaşıklığını ve yönetilmesi gereken maliyet kalemlerini aktardı; Kamion teknolojisinin bu maliyetleri yarı yarıya düşürdüğünü belirtti. Adlim ayrıca Türkiye'de boş sefer yapan kamyonların ekonomiye ve çevreye yarattığı olumsuz etkilere dikkat çekti; Kamion'un bu sorunu azaltmak için izlediği yolu açıkladı.</p>
 <p><br></p>
 <p>Kamion, karbon emisyonlarını ölçme ve azaltma hizmetleri sunmayı da planlıyor; kamyon sahiplerine tedarik hizmetleri sağlamak ve küreselleşme adımları atmak için hazırlık yürütüyor. Firma, gelecek planları arasında Doğu Avrupa ve ABD pazarlarına açılmayı hedefliyor.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>
   <li><p>Kamion, 2020'de kurulan bir dijital lojistik platformudur ve 200'e yakın büyük firmayla çalışıyordır.</p></li>
@@ -34,4 +32,3 @@ tags:
   <li><p>Şirket, boş sefer yapan kamyon sayısını azaltarak hem ekonomik hem de çevresel kayıpları minimize etmeyi amaçlıyordır.</p></li>
   <li><p>Gelecek planları arasında Doğu Avrupa ve ABD pazarlarına açılma ve bu bölgelerde lojistik pazarını geliştirme hedefleri bulunuyordır.</p></li>
 </ol>
-<p><br></p>

@@ -36,12 +36,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The sanction could negatively affect PVH's operations in China.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">PVH stated it was surprised and disappointed by the decision.</p></li>
 </ul>
-<p style="text-align: justify"><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Acquire ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it free of charge through the link above.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

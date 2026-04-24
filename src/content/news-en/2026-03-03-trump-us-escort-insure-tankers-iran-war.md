@@ -28,10 +28,4 @@ tags: ['Trump', 'Hürmüz Boğazı', 'DFC', 'ABD Donanması', 'petrol tankeri', 
 3. <strong>Brent</strong> trades at approximately $80 per barrel following the news.<br>
 4. Oil prices have risen more than 10 percent since <strong>U.S.</strong>-<strong>Israel</strong> strikes.<br>
 5. <strong>McNally</strong> from <strong>Rapidan</strong> emphasizes that implementation will take time.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free through this link.</p>
 <p>We would be delighted to receive your feedback.</p>
-<p><br></p>
-<p>[43579]</p>

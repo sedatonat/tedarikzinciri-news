@@ -35,8 +35,3 @@ tags:
 3. <strong>H-2A</strong> vize programı; 2024&rsquo;te 380.000+ vize veriliyor.<br>
 4. <strong>Trump</strong> 2.0 <strong>mass deportation</strong>; tarım ve inşaat sektörlerini etkiliyor.<br>
 5. <strong>John Deere</strong>; <strong>FFRobotics</strong>; <strong>FarmWise</strong>; ana tarım otomasyon oyuncuları oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41450]</p>

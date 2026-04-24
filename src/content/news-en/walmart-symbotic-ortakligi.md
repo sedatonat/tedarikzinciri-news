@@ -45,12 +45,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Walmart</strong>'s in-store deliveries grew nearly 50% year-over-year in 2024, exceeding a monthly run rate of $2.5 billion.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">This strategic partnership highlights the rising importance of automation and AI solutions in the retail sector.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a><u> </u>&nbsp;You can download and read it for free via the link above.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

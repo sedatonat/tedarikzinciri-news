@@ -48,12 +48,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Container traffic restrictions are being applied due to terminal congestion in the Moscow region.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Planned investments for 2025 are set to be reduced by 36.7%, being cut to 834 billion rubles.</p></li>
 </ul>
-<p style="text-align: justify"><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
-<p>We would be pleased to receive your feedback.</p>
-<p>We wish you happy reading.</p>

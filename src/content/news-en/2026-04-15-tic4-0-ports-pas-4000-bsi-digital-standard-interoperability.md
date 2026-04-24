@@ -23,8 +23,3 @@ tags: ["TIC4.0", "PAS 4000", "BSI", "dijital standart", "birlikte çalışabilir
 3. The standard provides a common semantic framework for structuring operational data.<br>
 4. The goal is to improve interoperability across ports and lower supply chain costs.<br>
 5. The call recalls global trade's historic reliance on standards like ISO 668.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

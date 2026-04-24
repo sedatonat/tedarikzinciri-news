@@ -27,8 +27,6 @@ tags:
 <p>Demand for warehouse automation increased as e-commerce accelerated in the post-pandemic period. However, in 2022, demand for end-to-end warehouse automation technologies, excluding robots, declined in response to excess capacity built during the pandemic, falling e-commerce rates, and a broader slowdown in the global economy.</p>
 <p><br></p>
 <p>Nevertheless, major warehouse operators like Amazon continue to invest heavily in technology while managing labor challenges and handling high e-commerce volumes. Amazon announced it will begin testing Digit, a two-legged robot, for use in warehouse operations.</p>
-<p><br></p>
-<p><br></p>
 <p><strong>Key Takeaways:</strong></p>
 <ul>
   <li><p>Rising e-commerce shipments and labor shortages are positive trends for the warehouse automation market.</p></li>
@@ -37,5 +35,3 @@ tags:
   <li><p>Demand for warehouse automation increased post-pandemic but declined in 2022.</p></li>
   <li><p>Major warehouse operators continue to invest in technology.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

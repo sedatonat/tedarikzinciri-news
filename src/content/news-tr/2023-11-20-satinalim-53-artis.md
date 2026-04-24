@@ -17,5 +17,3 @@ tags:
 - Supply Chain Quarterly
 ---
 <p>Supply Chain Quarterly Sitesinde yapılan bir araştırmaya göre 2024 'te Satınalma 'da %53 'lük bir artış bekleniyor.</p>
-<p><br></p>
-<p><br></p>

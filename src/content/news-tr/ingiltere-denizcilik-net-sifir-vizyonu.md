@@ -31,4 +31,3 @@ tags:
   <li><p>Denizcilik sektörünün net sıfıra geçişini destekleme konusunda hükümet tarafından güçlü sinyaller verilmeli.</p></li>
   <li><p>Sıfır emisyonlu deniz yakıtlarının üretimi için strateji ve teslimat planı hazırlanmalı.</p></li>
 </ol>
-<p><br></p>

@@ -26,8 +26,6 @@ tags:
 <p>The vehicle delivery ceremony took place in Gaziantep and was attended by the company's board chairman, board members, and senior executives from FIAT. Through this new logistics offering, Eyüp Lojistik guarantees delivery to every corner of Europe within 3 days from Turkey and aims to become the most important partner for Turkish exporters. The company believes this service will strengthen Turkey's exports to Europe and provide a significant competitive advantage in global competition.</p>
 <p><br></p>
 <p>FIAT stated that its partnership with Eyüp Lojistik will continue and that the Ducato model will play an important role in this collaboration.</p>
-<p><br></p>
-<p><br></p>
 <p><strong>Key Points:</strong></p>
 <ol>
   <li><p>Eyüp Lojistik purchased 40 FIAT Ducato vehicles for its 3-day Europe delivery service.</p></li>
@@ -36,4 +34,3 @@ tags:
   <li><p>Eyüp Lojistik aims to play an important role in global competition by supporting exports from Turkey to Europe.</p></li>
   <li><p>FIAT stated that its partnership with Eyüp Lojistik will continue and that the Ducato model plays a key role in this collaboration.</p></li>
 </ol>
-<p><br></p>

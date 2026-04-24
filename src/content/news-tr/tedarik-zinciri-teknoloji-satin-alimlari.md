@@ -111,8 +111,6 @@ Bu dönem, hem <strong>lojistik yazılımı hem de yapay zekâ destekli tedarik 
 </ol>
 <p style="text-align: justify">Toplam yatırım hacmi, sektördeki dijital dönüşümün devam ettiğini ve yatırımcıların <strong>uzun vadeli altyapı platformlarına odaklandığını</strong> ortaya koyuyor.<br>
 Büyük satın almalar (özellikle <strong>WiseTech–E2open</strong>) tedarik zinciri yazılım pazarında <strong>konsolidasyon eğiliminin güçlendiğini</strong> de gösteriyor.</p>
-<p><br></p>
-<p><br></p>
 <h5 style="text-align: justify"><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Toplam işlem değeri:</strong> 2,3 milyar doların üzerinde (M&amp;A + VC + PE).</p></li>
@@ -122,12 +120,3 @@ Büyük satın almalar (özellikle <strong>WiseTech–E2open</strong>) tedarik z
   <li style="text-align: justify"><p style="text-align: justify"><strong>Friendlier ve Olivery</strong>, 2025’in döngüsel ekonomi ve KOBİ lojistiği alanlarında dikkat çeken tohum yatırımları oldu.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Yatırımlar, <strong>küresel tedarik zinciri teknolojilerinin olgunlaşma ve konsolidasyon evresine</strong> girdiğini gösteriyor.</p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

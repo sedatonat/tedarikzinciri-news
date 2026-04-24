@@ -35,11 +35,5 @@ Gen Z's move into skilled trades is creating significant opportunities for the l
 <p>---<br>
 <br>
 -------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge through this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading from the start.</p>
-<p><br></p>
-<p>[833]</p>

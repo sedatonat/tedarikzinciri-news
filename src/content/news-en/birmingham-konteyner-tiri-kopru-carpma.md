@@ -45,12 +45,5 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>West Midlands</strong> police launched an investigation into the driver who left the scene.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Network Rail</strong> aims to raise driver awareness through the "Wise Up, Size Up" campaign.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge through this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading from the start.</p>

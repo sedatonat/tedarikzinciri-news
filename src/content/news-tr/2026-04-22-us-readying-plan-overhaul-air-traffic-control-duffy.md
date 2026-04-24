@@ -35,8 +35,3 @@ tags:
 3. <strong>FAA</strong> günlük 45.000 uçuş; 2.9M yolcu yönetiyor.<br>
 4. <strong>SpaceX Starlink</strong>; Şubat 2025&rsquo;te <strong>FAA</strong>&rsquo;de test başlatılıyor.<br>
 5. <strong>NATCA</strong>; <strong>NextGen</strong>; <strong>NAS</strong>; ana ABD hava trafik bağlamı oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41390]</p>

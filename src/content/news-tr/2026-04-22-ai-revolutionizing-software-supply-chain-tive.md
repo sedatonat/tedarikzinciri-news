@@ -36,9 +36,3 @@ tags:
 3. Kazanma için üç yol: özel veri; fiziksel ürün; doğrudan müşteri ilişkisi.<br>
 4. Soğutucu konteyner sıcaklık alarmı; ajansal <strong>AI</strong>&rsquo;nın somut lojistik uygulaması oluyor.<br>
 5. İnsan; istisnalarda kalıyor olacak; rutin kararlar <strong>AI</strong>&rsquo;ya devrediliyor olunacak.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43859]</p>

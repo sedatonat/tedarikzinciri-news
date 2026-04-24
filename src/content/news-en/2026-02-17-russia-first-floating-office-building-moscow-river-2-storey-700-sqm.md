@@ -21,8 +21,3 @@ tags: ["Russia", "floating office", "Moscow", "Moscow River", "first", "houseboa
 3. Project cost estimated at about 500,000 rubles per square metre.<br>
 4. The structure will serve as a sales office for a new apartment building.<br>
 5. Similar investments are expected in St. Petersburg, Kazan, and Nizhny Novgorod.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

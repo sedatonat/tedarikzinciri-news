@@ -27,8 +27,3 @@ tags: ['Trump', 'ticaret savaşı', 'Bloomberg', 'Amazon', 'Çin', 'tarife', 'ko
 3. 125% (later 145%) tariff on <strong>China</strong> with 90-day pause on other countries.<br>
 4. Container volumes are dropping across the <strong>Pacific</strong>.<br>
 5. Apparel, footwear, toys, and consumer electronics are the main impacted sectors.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our Book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[41520]</p>

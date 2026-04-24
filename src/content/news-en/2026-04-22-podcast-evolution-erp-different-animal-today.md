@@ -27,8 +27,3 @@ tags: ['ERP', 'podcast', 'Doss', 'MRP', 'bulut', 'SAP', 'Oracle', 'modernizasyon
 3. Modern <strong>ERP</strong> adopts cloud-native, composable, and AI-first architecture.<br>
 4. <strong>SAP</strong>, <strong>Oracle</strong>, <strong>Microsoft</strong>, <strong>Workday</strong>, and <strong>Infor</strong> are leading providers.<br>
 5. The episode sponsor, <strong>Doss</strong>, offers a modern <strong>ERP</strong> alternative.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book "How to Buy ERP?" Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge through this link.</p>
-<p><br></p>
-<p>[41660]</p>

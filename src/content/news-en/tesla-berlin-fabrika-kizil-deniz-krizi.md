@@ -28,8 +28,6 @@ tags:
 <p>Tesla shares fell 1.7 percent on the Frankfurt exchange on January 12.</p>
 <p><br></p>
 <p>Tesla's announcement came shortly after the United States and the United Kingdom stated they had conducted "successful strikes" against Houthi targets in Yemen. On January 11, the U.S. Air Force launched attacks against more than 60 targets at 16 Houthi militant positions in Sanaa, Yemen's capital.</p>
-<p><br></p>
-<p><br></p>
 <p><strong>Key Points:</strong></p>
 <ol>
   <li><p>Most operations at Tesla's factory near Berlin were suspended between January 29 and February 11.</p></li>
@@ -40,4 +38,3 @@ tags:
   <li><p>Tesla's shares fell 1.7 percent on January 12.</p></li>
   <li><p>U.S. and U.K. strikes against Houthi targets in Yemen occurred shortly after Tesla's announcement.</p></li>
 </ol>
-<p><br></p>

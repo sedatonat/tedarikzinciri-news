@@ -47,15 +47,3 @@ tags:
   <li><p><strong>Sosyal Medya Tepkisi:</strong> Elon Musk, X platformunda olaya esprili bir şekilde değindi.</p></li>
 </ul>
 <p>Bu küresel yazılım kesintisi, teknoloji altyapısının ne kadar kritik ve birbirine bağlı olduğunu bir kez daha gözler önüne serdi. Sorunun hızlı bir şekilde çözülmesi için uluslararası işbirlikleri ve teknik müdahaleler sürüyor.</p>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

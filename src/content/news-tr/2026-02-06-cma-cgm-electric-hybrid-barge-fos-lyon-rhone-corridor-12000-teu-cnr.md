@@ -31,8 +31,3 @@ tags:
 3. Proje Akdeniz–Rhône–Saône (MeRS) ekseninde düşük karbonlu lojistiğe yeni bir katkı sağlıyor.<br>
 4. Compagnie Nationale du Rhône (CNR) koridorda özel şarj altyapısı geliştiriyor.<br>
 5. Çözüm, karayolu yükünü azaltarak kentsel hava kalitesi üzerindeki baskıyı hafifletiyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -36,4 +36,3 @@ tags:
   <li><p>Sorun sadece Avrupa ile değil, karayolu ile erişilen diğer coğrafyalara yapılan ticareti de etkiliyor.</p></li>
   <li><p>Vize başvurularındaki belirsizlikler ve uzun süreçler, sektörü daha da zor bir duruma sokuyor.</p></li>
 </ol>
-<p><br></p>

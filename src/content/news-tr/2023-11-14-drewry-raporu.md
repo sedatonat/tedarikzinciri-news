@@ -25,4 +25,3 @@ Son hafta stabil kalmasına rağmen aşağı yönlü düşüşün sürmesi muhte
 Otomobillerin konteynerler ile nakledilmesi biraz da boş konteynerlerin geri gitme zorunluluğundan.<br>
 <br>
 İzlemeye devam ediyoruz.</p>
-<p><br></p>

@@ -36,10 +36,4 @@ tags:
 3. 2025&rsquo;te boğazdan günde 13 milyon varil ham petrol geçiyor; küresel deniz akışının %31&rsquo;i.<br>
 4. <strong>BIMCO</strong>; aksamanın küçük çaplı kalıyor olacağını öngörüyor.<br>
 5. <strong>U.S.</strong>-<strong>Iran</strong> müzakereleri <strong>Geneva</strong>&rsquo;da nükleer program odaklı olarak sürüyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
 <p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p><br></p>
-<p>[43487]</p>

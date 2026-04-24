@@ -29,8 +29,3 @@ tags:
 3. 2026'nın ilk ayında 1,8 ton kumaş havayoluyla geldi — %10 artış.<br>
 4. Çin; Rus tekstil sektörünün ana hammadde tedarikçisi konumunda.<br>
 5. Havayolu; hızlı teslimat ve deniz/kara gecikme önleme avantajı sunuyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

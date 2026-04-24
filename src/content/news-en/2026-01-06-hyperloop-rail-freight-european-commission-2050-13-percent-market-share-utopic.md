@@ -22,8 +22,3 @@ tags: ["hyperloop", "European Commission", "rail freight", "2050", "market share
 3. The Commission assumes a 10,000 km EU network could be built by 2050.<br>
 4. Critics call the estimates unrealistic due to trillion-euro construction costs and integration issues.<br>
 5. In the short term hyperloop will remain a utopic vision.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

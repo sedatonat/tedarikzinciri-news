@@ -32,4 +32,3 @@ tags:
   <li><p>Tahmin doğruluğu ve talep değişkenliği, CFR üzerindeki ana etkenler olarak belirlenmiştir.</p></li>
   <li><p>Hibrit model ve ileri düzey zaman serisi makine öğrenimi modelleri, CFR tahmininde yüksek doğruluk ve hassasiyet göstermiştir.</p></li>
 </ul>
-<p><br></p>

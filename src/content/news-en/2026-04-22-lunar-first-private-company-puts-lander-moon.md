@@ -27,8 +27,3 @@ tags: ['Firefly Aerospace', 'Blue Ghost', 'Ay', 'NASA', 'uzay', 'CLPS', 'ticari 
 3. <strong>NASA</strong>'s <strong>CLPS</strong> program has approximately 2.6 billion dollars in potential contracts across 14 contractors.<br>
 4. <strong>Intuitive Machines</strong> and <strong>Astrobotic</strong> are key additional <strong>CLPS</strong> players.<br>
 5. <strong>Artemis III</strong> targets a human landing in 2027.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book is Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>
-<p><br></p>
-<p>[41330]</p>

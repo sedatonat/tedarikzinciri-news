@@ -37,4 +37,3 @@ tags:
   <li><p>GEP Quantum, satın alma süreçlerini yönlendirmede, süreçleri düzenlemede ve şirket harcamaları üzerindeki kontrolü artırmada kritik bir rol oynar.</p></li>
   <li><p>Yazılım, sözleşme yönetimi ve veri analizi gibi önemli işlevleri otomatikleştirerek, kullanıcıların iş yükünü hafifletir.</p></li>
 </ol>
-<p><br></p>

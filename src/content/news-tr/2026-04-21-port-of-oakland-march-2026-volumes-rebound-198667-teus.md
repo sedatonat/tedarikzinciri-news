@@ -31,8 +31,3 @@ tags:
 3. İthalat 99.091 TEU; ihracat 99.576 TEU olarak neredeyse eşit dağıldı.<br>
 4. Mart hacmi yıllık bazda yüzde 8,6; YTD verim yüzde 7,3 düştü.<br>
 5. Denizcilik Direktörü Bryan Brandes; ayı operasyonel istikrar göstergesi olarak değerlendirdi.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

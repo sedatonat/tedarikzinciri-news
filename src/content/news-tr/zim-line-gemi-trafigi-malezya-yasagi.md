@@ -23,4 +23,3 @@ tags:
 <p>ZIM Line'ın gemileri, Malezya'nın İsrail bayraklı gemilere yönelik uyguladığı yasağa bağlı olarak 20 Aralık'tan itibaren Malezya limanlarına giriş yapamayacak.&nbsp;</p>
 <p><br></p>
 <p>Malezya Başbakanı Anwar Ibrahim, bu kararı, İsrail'in Gazze'deki eylemleri nedeniyle aldıklarını belirtti.&nbsp;</p>
-<p><br></p>

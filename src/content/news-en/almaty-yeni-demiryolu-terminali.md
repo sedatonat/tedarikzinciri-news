@@ -39,11 +39,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Upon completion of the project, an increase in Almaty's logistics capacity and growth in regional trade volumes are expected.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through the link above.</p>
+
 <p>We would be happy to receive your feedback.</p>
 <p>Wishing you happy reading in advance.</p>

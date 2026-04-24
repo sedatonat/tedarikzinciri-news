@@ -34,4 +34,3 @@ tags:
   <li><p>EV şarj istasyonları, çalışanların ofise gelme sıklığını artırma potansiyeline sahiptir.</p></li>
   <li><p>İş yerlerindeki EV şarj hizmetinin çoğunluğu çalışanlar için ücretsizdir.</p></li>
 </ol>
-<p><br></p>

@@ -30,8 +30,3 @@ tags:
 3. Petrol ve ürünleri 1,6 milyon ton (%3,5 artış), demir-çelik 1,1 milyon ton (%26,5 artış).<br>
 4. Tahıl, un ve yem ihracatı 2,2 kat artarak 623 bin tona ulaştı.<br>
 5. Sınır geçiş kapıları (Kanisay, Kigash, Ozinki, Kartaly, Orsk, Petropavlovsk, Zauralye) modernize ediliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

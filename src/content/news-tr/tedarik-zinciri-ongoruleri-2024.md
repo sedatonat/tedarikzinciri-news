@@ -37,8 +37,6 @@ tags:
 <p><br></p>
 <p><strong>Özetle...</strong></p>
 <p>Tedarik zinciri kesintileri yeni bir durum olmasa da, jeopolitik gerilimlerin yol açtığı artan navlun oranları ve gecikmeler, 2024'te tedarik zinciri liderlerinin AI teknolojilerini kullanarak tedarik zincirlerini optimize etmeleri, nakliye sürelerini azaltmaları ve kârlılıklarını maksimize etmeleri gereken bir senaryo oluşturdu.</p>
-<p><br></p>
-<p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
   <li><p>2024'te sürdürülebilirlik, enflasyon baskısı altında geri plana düşecek.</p></li>
@@ -46,4 +44,3 @@ tags:
   <li><p>İklim değişikliği, tedarik zincirlerini tehdit eden uzun vadeli bir faktör olarak kalıyor.</p></li>
   <li><p>"Rightshoring" ve AI teknolojilerinin benimsenmesi, zorlukların üstesinden gelmede kritik öneme sahip.</p></li>
 </ul>
-<p><br></p>

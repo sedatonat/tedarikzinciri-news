@@ -34,8 +34,6 @@ tags:
 <p>2024'te üretim ve tedarik zincirlerini bozma tehdidinde bulunan diğer faktörler arasında enflasyon, istihdam trendleri, yaklaşan seçimler, düzenleyici değişiklikler, siber güvenlik endişeleri ve doğal felaketler bulunuyor.</p>
 <p><br></p>
 <p>Şu an için, Federal Reserve ve diğer merkez bankaları tarafından yapılan ardışık faiz artışları, artan enflasyonu karşılıyor başarılı oldu, bu da anlaşma yapıcıların daha fazla kesinlik ile hareket edebilecekleri anlamına geliyor. Küresel M&amp;A hacimleri, geçen yılın aynı dönemiyle karşılaştırıldığında %10 arttı, bu da muhtemelen sanayiler tarafından yönlendirilecek bir M&amp;A canlanmasının yolunu açıyor.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>
   <li><p>Enflasyon ve faiz oranlarının düşmesi, üretim yatırımlarını artırıyor.</p></li>
@@ -49,5 +47,3 @@ tags:
   <li><p>M&amp;A anlaşma tamamlama oranları %49'dan %45'e düştü, inceleme ve due diligence süreçleri arttı.</p></li>
   <li><p>Enflasyon, istihdam trendleri, yaklaşan seçimler, düzenleyici değişiklikler, siber güvenlik endişeleri ve doğal felaketler 2024'te üretimi tehdit ediyor.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

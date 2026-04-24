@@ -36,9 +36,3 @@ tags:
 3. <strong>State Department</strong>; <strong>allied manufacturing</strong> için amaca yönelik platform olarak nitelendiriyor.<br>
 4. <strong>Philippines</strong>; <strong>nickel</strong>, <strong>copper</strong>, <strong>chromite</strong>, <strong>cobalt</strong> rezervleriyle stratejik oluyor.<br>
 5. <strong>Indo-Pacific</strong>&rsquo;te ticaret için coğrafi dayanak noktası olarak değerlendiriliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43902]</p>

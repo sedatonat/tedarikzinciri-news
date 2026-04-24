@@ -28,4 +28,3 @@ tags:
   <li><p>Fonlar borç ödemeleri, çalışan primleri ve genel şirket giderleri için kullanılacak.</p></li>
   <li><p>Şirketin hedefi, küresel gıda tedarik zincirini dönüştürmek ve atıkları azaltmak.</p></li>
 </ol>
-<p><br></p>

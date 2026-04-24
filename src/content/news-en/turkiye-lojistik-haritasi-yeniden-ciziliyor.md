@@ -30,4 +30,3 @@ tags:
   <li><p>Plan to raise rail transport's share from 5 percent to 22 percent.</p></li>
   <li><p>Intention to reduce road freight transport's share from 72 percent to 57 percent.</p></li>
 </ol>
-<p><br></p>

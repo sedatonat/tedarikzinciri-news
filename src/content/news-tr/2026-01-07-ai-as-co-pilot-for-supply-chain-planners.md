@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Tedarik zinciri liderleri için bu yapı; insan ekiplerin yanında yol alan dijital bir planlamacı, analist ve koordinatör ekibine sahip olmayı andırıyor; sistem, rutin analiz, izleme ve işlemleri ölçekte yönetiyor; insanlar ise yargı gerektiren kararlara ve iş birliğine odaklanabiliyor. Tedarik zinciri perspektifinden bakıldığında uçtan uca yaşam döngüsünün her aşaması; bu yapay zekâ destekli evrimle yeniden şekilleniyor. Talep planlama, üretim icrası, satınalma ve destek operasyonları genelinde olasılıklar dönüştürücü bir nitelik kazanıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Talep planlamasında sistem; <strong>SKU</strong> bazlı tahmin sapmalarını gerçek zamanlı tespit ediyor; promosyon ve sezonsallık etkilerini ayrıştırıyor. Üretim icrasında kapasite çakışmalarını ve malzeme yetersizliklerini erkenden uyarıyor. Satınalmada tedarikçi performansını ve fiyat sapmalarını izliyor; alternatif kaynak öneriyor. Tedarik zinciri perspektifinden bakıldığında <strong>SAP IBP</strong>, <strong>Kinaxis Maestro</strong>, <strong>o9 Solutions</strong> ve <strong>Blue Yonder</strong> gibi platformların geliştirdiği yapay zekâ asistanları; planlamacının günlük iş yükünü yapısal biçimde yeniden tanımlıyor.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43082]</p>

@@ -21,8 +21,3 @@ tags: ["Rosmorport", "icebreaker", "Sea of Azov", "Caspian", "Astrakhan", "Olya"
 3. In the Sea of Azov the season closed in early March with 6 vessels escorting more than 1,190 ships.<br>
 4. Icebreakers in the Caspian: Kapitan Bukaev, Kapitan Metsaik, Kapitan Chechkin.<br>
 5. Sea of Azov escort destinations: Azov, Yeisk, Taganrog, Rostov-na-Donu.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

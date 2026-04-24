@@ -31,8 +31,3 @@ tags:
 3. CareVet'teki rolünde 200'den fazla iş satın alımının hukuki yürütmesini yönetti.<br>
 4. Rabobank North America üst düzey liderlik geçmişine sahip.<br>
 5. İcra Direktörü Curtis Robinhold; deneyimini öne çıkan kriter olarak gösterdi.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

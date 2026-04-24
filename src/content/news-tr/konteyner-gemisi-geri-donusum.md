@@ -38,8 +38,6 @@ Bu tablo; <strong>filonun yaş ortalamasını yukarı iterken</strong>, önümü
   <li style="text-align: justify"><p style="text-align: justify"><strong>%53’ü ise 25 yaşına gelmeden</strong> geri dönüşüm hattına giriyordu.</p></li>
 </ul>
 <p style="text-align: justify">Bugünkü oranlar; bu eğilimin <strong>tersine döndüğünü</strong> kanıtlıyor.</p>
-<p><br></p>
-<p><br></p>
 <h5 style="text-align: justify"><strong>Gerçek Geri Dönüşüm Açığı Daha da Büyük Olabilir</strong></h5>
 <p style="text-align: justify">BIMCO analizine göre <strong>gerçek geri dönüşüm fazlası (recycling overhang)</strong>; belirtilen rakamın çok daha üzerine çıkabilir. 2010’lardaki <strong>düşük piyasa koşulları</strong> temel alındığında; toplam geri dönüşüm potansiyelinin <strong>850 gemi ve 3,1 milyon TEU’ya</strong> kadar tırmanabileceği tahmin ediliyor.</p>
 <p style="text-align: justify"><br></p>
@@ -60,8 +58,6 @@ Sektör o yıl <strong>185 gemi ve 0,6 milyon TEU’luk kapasiteyi</strong> hurd
 <p>Uzmanlar bu referansla; <strong>mevcut 1,8 milyon TEU’luk fazlanın</strong> eritilmesinin <strong>en az üç ila dört yıl</strong> sürebileceğini öngörüyor.</p>
 <p><br>
 BIMCO’ya göre; bu süreçte <strong>küçük tonajlı gemiler (8.000 TEU altı)</strong> daha ağır darbe alacak, çünkü yeni büyük tonajlı gemiler devreye girdikçe <strong>kapasite kademelenmesi (cascading)</strong> hızlanacak.</p>
-<p><br></p>
-<p><br></p>
 <h5 style="text-align: justify"><strong>Alphaliner: Piyasa Henüz Hurda Fiyatlarını Desteklemiyor</strong></h5>
 <p style="text-align: justify"><strong>Alphaliner</strong>; BIMCO’nun analizine paralel yaptığı değerlendirmede, <strong>taşıma ücretlerindeki düşüşün</strong> henüz <strong>geri dönüşüm piyasasını hareketlendirecek seviyeye ulaşmadığını</strong> duyurdu.</p>
 <p><br>
@@ -95,12 +91,3 @@ Navlun oranlarındaki gerileme ve enerji verimliliği düzenlemeleri; <strong>es
   <li style="text-align: justify"><p style="text-align: justify">Uzmanlara göre, sektör 2026–2028 döneminde <strong>filo yenileme ve dönüşüm döngüsüne</strong> girecek.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Bu durum, <strong>küresel taşımacılıkta sürdürülebilir filo yönetimini ve karbon verimliliğini</strong> yeniden gündeme taşıyor.</p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

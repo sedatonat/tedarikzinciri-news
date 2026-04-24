@@ -34,12 +34,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Freightos Baltic Index (FBX)</strong>, navlun oranlarındaki dalgalanmaları izlemek için önemli bir endekstir.​<a href="https://en.wikipedia.org/wiki/Freightos_Baltic_Index" rel="noopener" target="_blank">en.wikipedia.org</a></p></li>
   <li style="text-align: justify"><p style="text-align: justify">Konteyner piyasasındaki dalgalanmalar, küresel ticaretin değişken doğasını yansıtıyordır.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

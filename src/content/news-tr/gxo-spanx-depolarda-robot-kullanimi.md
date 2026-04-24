@@ -29,4 +29,3 @@ tags:
   <li><p>Robotların kullanımı, çalışanların iş yükünü azaltmayı ve operasyonel verimliliği artırmayı amaçlıyor.</p></li>
   <li><p>Uygulama, robotları bir hizmet olarak sunma modeline dayanıyor.</p></li>
 </ol>
-<p><br></p>

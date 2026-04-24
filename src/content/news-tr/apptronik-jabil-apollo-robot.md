@@ -37,12 +37,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Apptronik</strong>, daha önce <strong>Mercedes-Benz</strong> ile benzer bir anlaşma yapmış ve <strong>BMW</strong>, <strong>Figure</strong> robotlarını fabrikasında başarıyla test etmiştir.​<a href="https://www.businessinsider.com/apptronik-jabil-apollo-robots-could-build-themselves-factory-lines-2025-2" rel="noopener" target="_blank">businessinsider.com</a></p></li>
   <li style="text-align: justify"><p style="text-align: justify">Bu ortaklık, insansı robotların üretim süreçlerine entegrasyonunda önemli bir adım olarak görülüyordir.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

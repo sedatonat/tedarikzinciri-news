@@ -29,8 +29,3 @@ tags:
 3. Plan, yolcu yerine yük operatörlerini ana faydalanıcı olarak konumlandırmıştı.<br>
 4. 10 yıl geçmesine rağmen çalışmaların büyük kısmı hâlâ tamamlanmadı.<br>
 5. Portekiz'in gecikmeleri, AB'nin 2030/2050 TEN-T hedeflerini doğrudan etkiliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

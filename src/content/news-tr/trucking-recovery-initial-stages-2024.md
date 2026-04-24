@@ -34,4 +34,3 @@ tags:
   <li><p>Spot taşıma oranlarında iyileşme görülse de, genel piyasa koşulları henüz düzelmedi.</p></li>
   <li><p>Toparlanmanın hızlanması, kapasite fazlasının azalmasına bağlı.</p></li>
 </ol>
-<p><br></p>

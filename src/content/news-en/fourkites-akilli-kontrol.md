@@ -50,11 +50,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Intelligent Control Tower</strong> offers seven specialized packages: <strong>Supplier Connect AI</strong>, <strong>PO Connect AI</strong>, <strong>Customer Connect AI</strong></p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our Book is Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> ​You can download and read it free of charge through this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading from the start.</p>

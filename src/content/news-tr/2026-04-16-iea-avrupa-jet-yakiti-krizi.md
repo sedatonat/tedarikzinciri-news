@@ -35,11 +35,3 @@ tags:
 3. <strong>United States</strong>, <strong>Japan</strong>, <strong>South Korea</strong> ve <strong>Germany</strong> gibi büyük tüketicilerin hiçbiri bu senaryoda bağışık kalmıyor.<br>
 4. Nisan 2026 <strong>OMR</strong>&rsquo;una göre <strong>Strait of Hormuz</strong>&rsquo;un yeniden açılması piyasa için en belirleyici değişken olarak öne çıkıyor.<br>
 5. <strong>Strategic petroleum reserves</strong> ve <strong>OPEC+</strong> koordinasyonu, olası kaybı ancak kısmen karşılayabiliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43869]</p>

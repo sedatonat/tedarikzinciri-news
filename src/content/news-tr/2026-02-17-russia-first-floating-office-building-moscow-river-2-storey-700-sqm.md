@@ -28,8 +28,3 @@ tags:
 3. Proje maliyeti metrekare başına yaklaşık 500 bin ruble olarak tahmin edildi.<br>
 4. Yapı; yeni bir apartman binası için satış ofisi olarak kullanılacak.<br>
 5. Benzer yatırımların St. Petersburg, Kazan ve Nizhny Novgorod'da da görülmesi bekleniyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

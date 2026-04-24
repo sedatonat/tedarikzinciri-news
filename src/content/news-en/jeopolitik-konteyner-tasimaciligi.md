@@ -123,12 +123,3 @@ In its place is emerging <strong>a global trade network redirected among geopoli
   <li style="text-align: justify"><p style="text-align: justify"><strong>Shipowners and freight operators</strong> must shift toward <strong>flexible fleet and route planning</strong> to counter demand volatility.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Conclusion:</strong> Trade has not died; it continues to flow across <strong>a map redrawn by geopolitics.</strong></p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a>&nbsp;You can download and read it free of charge via the link.</p>
-<p>We would be delighted to hear your feedback.</p>
-<p>We wish you happy reading.</p>

@@ -75,12 +75,6 @@ The new fulfilment centers align with the company's sustainability goals through
   <li style="text-align: justify"><p style="text-align: justify">The company's investment aligns with India's <strong>2030 economic growth targets and logistics modernization initiatives</strong>.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book "How to Procure ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
+
 <p>We would appreciate your feedback.</p>
 <p>Wishing you happy reading.</p>
-<p><br></p>

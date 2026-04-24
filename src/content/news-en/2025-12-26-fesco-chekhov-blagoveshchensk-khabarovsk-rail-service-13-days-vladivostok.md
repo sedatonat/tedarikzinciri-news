@@ -22,8 +22,3 @@ tags: ["FESCO", "Chekhov", "Blagoveshchensk", "Khabarovsk", "Chita", "Vladivosto
 3. Groupage container deliveries also run from Chekhov to Chita.<br>
 4. FESCO has started import block trains from Vladivostok to Chekhov.<br>
 5. Two-way service removes empty container repositioning difficulties.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

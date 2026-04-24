@@ -36,11 +36,3 @@ tags:
 3. Yıllık 600 milyon dolar işletme geliri ve 8.400 istihdam öngörülüyor.<br>
 4. <strong>MSC</strong>, doğrudan yabancı yatırım modeliyle projede yer alıyor.<br>
 5. <strong>Misrata Free Zone</strong>, <strong>Libya</strong>&rsquo;nın petrol dışı ticaretinin %60&rsquo;ını yönetiyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43282]</p>

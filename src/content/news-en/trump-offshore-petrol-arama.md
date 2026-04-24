@@ -102,12 +102,5 @@ Nevertheless, the draft clearly demonstrates <strong>Trump's determination to ma
   <li style="text-align: justify"><p style="text-align: justify">Environmental organizations are preparing <strong>to block the plan through legal means.</strong></p></li>
   <li style="text-align: justify"><p style="text-align: justify">The draft represents <strong>a reversal of Trump's 2020 promise to ban coastal drilling,</strong> signaling a new energy strategy.</p></li>
 </ul>
-<p style="text-align: justify"><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a>&nbsp;You can download and read it for free via the link above.</p>
 <p>We would be delighted if you have any feedback.</p>
 <p>Wishing you good reading in advance.</p>

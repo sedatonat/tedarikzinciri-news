@@ -32,8 +32,3 @@ tags:
 3. Son günlerde bölgede birden fazla konteyner gemisinin hedef alındığı raporlandı.<br>
 4. Umman ve Suudi Arabistan üzerinden kara köprüsü alternatifleri sınırlı kapasite ve yüksek maliyetle karşılaştı.<br>
 5. Armatörler güvenliği önceliklendirirken bölgesel ekipler durumu sürekli değerlendiriyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

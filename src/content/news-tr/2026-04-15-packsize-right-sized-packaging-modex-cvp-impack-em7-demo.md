@@ -28,8 +28,3 @@ tags:
 3. Doğru boyutlu ambalajlama; nakliye hacmini ve karbon ayak izini azaltıyor.<br>
 4. Yaklaşım, e-ticaret büyümesi ve artan dolum hızlarıyla birlikte depo gündemine yerleşti.<br>
 5. Otomasyon, depoların geleneksel "paketleme darboğazını" ortadan kaldırabiliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

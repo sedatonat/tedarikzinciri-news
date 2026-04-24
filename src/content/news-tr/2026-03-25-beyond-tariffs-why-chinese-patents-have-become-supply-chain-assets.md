@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Ticaret politikası, kaynak bulma kararlarını şüphesiz etkiliyor. Tarifeler ve ihracat kontrolleri, şirketleri maliyet yapılarını ve siyasi maruziyetlerini yeniden değerlendirmeye zorluyor. Pek çoğu üretimi <strong>Güneydoğu Asya</strong>, <strong>Hindistan</strong> ya da <strong>Meksika</strong>'ya genişleterek yanıt veriyor. Ancak çeşitlendirmenin pratik sınırları var. Belirli imalat uzmanlık biçimleri hızlıca yer değiştiremiyor. Kimyasal işleme altyapısı, malzeme arıtma kapasitesi, ekipman ekosistemleri ve nitelikli iş gücü ağları; Çin'de derin bir şekilde yerleşik kalıyor.</p>
 <p><br></p>
 <p style="text-align: justify">Sonuç olarak pek çok şirket artık <strong>hibrit tedarik zincirleri</strong> işletiyor. Tedarik zinciri perspektifinden bakıldığında <strong>CNIPA (China National Intellectual Property Administration)</strong> nezdinde yapılan patent başvuruları; hem teknoloji transferinde hem de yerli ortaklıkta yapısal bir kalkan görevi üstleniyor. <strong>Apple</strong>, <strong>Tesla</strong>, <strong>BASF</strong> ve <strong>Bosch</strong> gibi oyuncular; Çin patent portföylerini stratejik bir tedarik zinciri varlığı olarak değerlendiriyor. <strong>Trade secret</strong> koruma çerçeveleri ile <strong>WFOE (Wholly Foreign-Owned Enterprise)</strong> yapıları; üretim ortağı seçiminde kritik karar değişkenlerine dönüşüyor.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43716]</p>

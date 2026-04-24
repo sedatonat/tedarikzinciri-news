@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Trade policy has unquestionably influenced sourcing decisions. Tariffs and export controls forced companies to reconsider cost structures and political exposure. Many responded by expanding manufacturing into <strong>Southeast Asia</strong>, <strong>India</strong> or <strong>Mexico</strong>. But diversification has practical limits. Certain forms of manufacturing expertise do not relocate quickly. Chemical processing infrastructure, materials purification capability, equipment ecosystems and skilled labor networks remain deeply established in China.</p>
 <p><br></p>
 <p style="text-align: justify">As a result, many companies now operate <strong>hybrid supply chains</strong>. From a supply chain perspective, patent filings made with the <strong>CNIPA (China National Intellectual Property Administration)</strong> serve as a structural shield in both technology transfer and domestic partnership models. Players such as <strong>Apple</strong>, <strong>Tesla</strong>, <strong>BASF</strong> and <strong>Bosch</strong> are treating their Chinese patent portfolios as strategic supply chain assets. <strong>Trade secret</strong> protection frameworks and <strong>WFOE (Wholly Foreign-Owned Enterprise)</strong> structures are becoming critical decision variables in manufacturing partner selection.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43716]</p>

@@ -49,12 +49,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The book was written by <strong>Eric Rempel</strong> and consists of six chapters.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Redwood is planning various events to promote the book.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

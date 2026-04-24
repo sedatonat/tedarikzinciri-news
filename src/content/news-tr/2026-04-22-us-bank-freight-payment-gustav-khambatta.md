@@ -36,8 +36,3 @@ tags:
 3. <strong>Cass</strong>; <strong>nVision Global</strong>; <strong>Trax</strong>; <strong>CTSI-Global</strong>; pazarın diğer oyuncuları oluyor.<br>
 4. <strong>EDI 210</strong>/<strong>110</strong>/<strong>310</strong>; endüstri standardı işlem kodları oluyor.<br>
 5. <strong>SCF</strong>; <strong>reverse factoring</strong>; <strong>dynamic discounting</strong>; modern <strong>working capital</strong> araçları oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43040]</p>

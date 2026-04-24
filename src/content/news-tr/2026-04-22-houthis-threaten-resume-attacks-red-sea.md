@@ -35,8 +35,3 @@ tags:
 3. <strong>Suez</strong> trafiği %70-80 düşüyor; <strong>Cape</strong> rotası +10-14 gün ek transit oluyor.<br>
 4. <strong>Operation Prosperity Guardian</strong>; <strong>EU Aspides</strong>; ana koalisyon operasyonları oluyor.<br>
 5. <strong>SCA</strong>; <strong>Husi</strong> krizi nedeniyle ~%50 gelir kaybı yaşıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41350]</p>

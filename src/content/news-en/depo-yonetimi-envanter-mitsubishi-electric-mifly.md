@@ -36,13 +36,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Reduce dependence on manual labor and increase workplace safety.​</p></li>
 </ul>
 <p style="text-align: justify">These developments enhance efficiency in the storage and logistics sector, paving the way for more automated and intelligent warehouses in the future.</p>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book "How to Implement ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
-<p>Your feedback would make us happy.</p>
-<p>We wish you happy reading.</p>

@@ -50,13 +50,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Kazakhstan</strong> and <strong>China</strong> are increasing cooperation and developing new projects to make railway transportation growth sustainable.</p></li>
 </ul>
 <p style="text-align: justify">These developments demonstrate the increasing importance of railway transportation between <strong>Kazakhstan</strong> and <strong>China</strong> and the continuous development of logistical infrastructure in the region.</p>
-<p style="text-align: justify"><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>We wish you happy reading in advance.</p>

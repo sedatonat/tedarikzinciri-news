@@ -37,12 +37,3 @@ tags:
   <li><p>Analysts believe that some informal instructions and rising delivery costs may explain cargo detention claims.</p></li>
   <li><p>Thanks to China's diplomatic efforts, Russia plans to lift existing restrictions.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
-<p>Your feedback would make us happy.</p>
-<p>We wish you happy reading.</p>

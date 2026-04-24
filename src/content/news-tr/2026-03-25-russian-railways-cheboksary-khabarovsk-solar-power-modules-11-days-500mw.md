@@ -29,8 +29,3 @@ tags:
 3. Ağustos 2026 sonuna kadar 20 bloktren ile 500 MW'ın üzerinde güneş ekipmanı teslim edilecek.<br>
 4. Cheboksary Rus enerji ekipmanı üretim merkezi; Khabarovsk Uzak Doğu endüstriyel hub.<br>
 5. Transsibirya hattıyla 6.000+ km mesafe 11 günde kat ediliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

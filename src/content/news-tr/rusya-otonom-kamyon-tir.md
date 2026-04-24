@@ -69,12 +69,3 @@ Dünya genelinde <strong>5. seviye otonom araç testleri</strong> hız kazanırk
   <li><p>Stratejik amaç: <strong>dijital lojistik altyapısı kurmak ve sürücüsüz taşımacılığı yaygınlaştırmak.</strong></p></li>
   <li><p>Bu adım, Rusya’yı <strong>küresel otonom taşımacılık yarışında</strong> öne çıkarmayı hedefliyor.</p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

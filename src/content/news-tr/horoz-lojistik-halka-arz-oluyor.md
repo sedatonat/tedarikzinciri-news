@@ -18,5 +18,3 @@ tags:
 - hisse fiyatı
 ---
 <p>Horoz Lojistik Kargo Hizmetleri ve Tic. A.Ş. tarafından gerçekleştirilecek olan halka arz, 29, 30 ve 31 Mayıs 2024 tarihlerinde üç gün süreyle gerçekleşecektir. Şirket, Yıldız Pazar'da 'HOROZ' borsa koduyla işlem görecek ve her hisse için belirlenen fiyat 55,00 TL olarak açıklanmıştır. Halka arz süreci, yatırımcılara eşit dağıtım yöntemiyle sunulacak, bu da her bir yatırımcının belirlenen oranda hisse alabilmesini sağlayacaktır.</p>
-<p><br></p>
-<p><br></p>

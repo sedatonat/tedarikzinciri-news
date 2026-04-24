@@ -22,8 +22,3 @@ tags: ["Russia", "container traffic", "ports", "March 2026", "SeaNews", "maritim
 3. The Far East basin (Vladivostok, Nakhodka, Vostochny) is the main growth engine.<br>
 4. Baltic ports are under pressure from EU sanctions and vessel inspections.<br>
 5. The Black Sea basin remains stable thanks to trade with Türkiye, Iran, the UAE, and Central Asia.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

@@ -29,8 +29,3 @@ tags:
 3. Sektör; bu durumu Panama'nın CK Hutchison terminal imtiyazlarını iptal kararına koordineli yanıt olarak yorumluyor.<br>
 4. Beş günlük toplam; 2025'in aylık Panama bayraklı alıkonma rakamlarını aşıyor.<br>
 5. Kriz; navlun tarifelerini, rotaları ve Panama bayrak devleti gelirlerini etkileyebilir.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

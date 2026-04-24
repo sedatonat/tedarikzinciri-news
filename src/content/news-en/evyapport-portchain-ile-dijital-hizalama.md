@@ -36,5 +36,3 @@ tags:
   <li><p>The partnership aims to increase efficiency and speed in berth coordination.</p></li>
   <li><p><a href="https://www.portchain.com/"><u>Portchain</u></a> adopts a continuous improvement approach and is open to user feedback.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

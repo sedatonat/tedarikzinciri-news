@@ -29,8 +29,3 @@ tags:
 3. Günde 17-20 milyon varil petrol bu rotadan taşınıyor.<br>
 4. BM Deniz Hukuku Sözleşmesi (UNCLOS) uluslararası boğazlarda zararsız geçiş hakkını güvence altına alıyor.<br>
 5. Kaos senaryosu; petrol fiyatlarını 120-150 dolar bandına çıkarabilir.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

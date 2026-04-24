@@ -36,5 +36,3 @@ tags:
   <li><p>Eighty-five percent of employees report greater job satisfaction with the implementation of Tally technology.</p></li>
   <li><p>The robot accelerates order processes and facilitates focus on customer service.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

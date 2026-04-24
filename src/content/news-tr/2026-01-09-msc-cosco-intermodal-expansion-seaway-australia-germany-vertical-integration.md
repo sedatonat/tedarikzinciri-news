@@ -30,8 +30,3 @@ tags:
 3. Cosco; Almanya'da intermodal bağlantılar ve terminal erişimi için yatırım yaptı.<br>
 4. Tek taşıyıcının deniz, terminal ve kara taşımacılığını yönetmesi eğilim haline geliyor.<br>
 5. Bağımsız freight forwarder'lar için rekabet giderek zorlaşıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

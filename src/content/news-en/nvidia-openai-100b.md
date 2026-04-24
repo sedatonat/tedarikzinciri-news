@@ -40,14 +40,6 @@ tags:
   <li><p>The software stack plays a critical role in efficiency.</p></li>
   <li><p>Vertical integration and capacity assurance are emerging priorities.</p></li>
 </ul>
-<p>--------</p>
-<p>--------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" rel="noopener" target="_new">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via the link above.</p>
+
 <p>Your feedback would make us happy.</p>
 <p>Happy reading to you in advance.</p>
-<p><br></p>
-<p>[846]</p>
-<p><br></p>

@@ -32,13 +32,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Integrated platform</strong> combines different data sources to provide a comprehensive perspective.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Integration with <strong>Appian</strong>'s <strong>business process management</strong> solutions enhances operational efficiency.</p></li>
 </ul>
-<p style="text-align: justify"><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Procure an ERP System?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>
+
 <p>Your feedback would make us happy.</p>
 <p>We wish you a good read from the start.</p>

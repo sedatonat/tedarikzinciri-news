@@ -27,4 +27,3 @@ tags:
   <li><p>The fallen crane boom restricted the vessel's movement following the collision.</p></li>
   <li><p>The ship departed the quay after the crane boom was removed.</p></li>
 </ol>
-<p><br></p>

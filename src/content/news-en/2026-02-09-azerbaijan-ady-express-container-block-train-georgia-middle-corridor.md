@@ -22,8 +22,3 @@ tags: ["Azerbaijan", "ADY Express", "Georgia", "Middle Corridor", "container blo
 3. The move strengthens Azerbaijan's leading role on the Middle Corridor.<br>
 4. Azerbaijan's geography forms the most efficiently operating mid-segment of the corridor.<br>
 5. BTK line integration and Alat Port investment make the corridor attractive.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

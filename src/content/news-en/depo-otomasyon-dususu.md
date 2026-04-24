@@ -27,12 +27,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Expected Recovery:</strong> Industry experts anticipate a rebound in warehouse automation orders in 2024.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Future Trends:</strong> Significant developments in warehouse automation are expected in 2025 with the integration of artificial intelligence, robotics, and digital twins. ​</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
-<p>Your feedback would make us happy.</p>
-<p>We wish you happy reading.</p>

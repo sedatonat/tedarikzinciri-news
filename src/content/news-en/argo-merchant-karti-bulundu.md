@@ -40,12 +40,3 @@ tags:
   <li><p>The <strong>Argo Merchant</strong> disaster led to the establishment of the <strong>Office of Response and Restoration (OR&amp;R)</strong>.</p></li>
   <li><p>Today, drift cards are produced from biodegradable materials.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p>You can download and read it for free at <a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a></p>
-<p>We would be pleased to receive your feedback.</p>
-<p>We wish you happy reading.</p>

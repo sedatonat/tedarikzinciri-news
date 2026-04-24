@@ -36,10 +36,4 @@ tags:
 3. Çevresel etki bildirilmemekte; yetkililer soruşturma yürütüyor.<br>
 4. <strong>UKMTO</strong>; <strong>Royal Navy</strong>&rsquo;nin <strong>Dubai</strong> merkezli ofisi oluyor.<br>
 5. Konteyner sektörü; <strong>tanker</strong> odaklı tehdit algısının ötesinde doğrudan hedef oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
 <p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p><br></p>
-<p>[43798]</p>

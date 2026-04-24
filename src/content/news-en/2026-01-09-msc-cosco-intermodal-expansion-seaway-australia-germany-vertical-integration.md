@@ -22,8 +22,3 @@ tags: ["MSC", "Cosco", "Seaway", "vertical integration", "intermodal", "Australi
 3. Cosco invested in intermodal connections and terminal access in Germany.<br>
 4. A trend is emerging of single carriers managing sea, terminal, and inland transport.<br>
 5. Competition is becoming increasingly difficult for independent freight forwarders.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

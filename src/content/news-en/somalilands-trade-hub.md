@@ -45,11 +45,6 @@ tags:
   <li><p>Somaliland's lack of international recognition creates uncertainties over investments and diplomatic relations in the region.<a href="https://www.ft.com/content/c4593986-94dd-478b-96db-ac070e99861e?utm_source=chatgpt.com" rel="noopener" target="_blank">Financial Times</a></p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>We wish you happy reading in advance.</p>

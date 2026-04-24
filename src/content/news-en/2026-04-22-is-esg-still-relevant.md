@@ -27,8 +27,3 @@ tags: ['ESG', 'sürdürülebilirlik', 'Trump', 'Paris Anlaşması', 'insan hakla
 3. Companies continue efforts to reduce the impact of their global supply chains.<br>
 4. <strong>EU CSRD</strong>, <strong>CSDDD</strong>, and <strong>EUDR</strong> represent major cross-border compliance pressures.<br>
 5. <strong>SCB Magazine Vol 29 No 2</strong> is the annual <strong>ESG</strong> special issue.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy an ERP? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[41550]</p>

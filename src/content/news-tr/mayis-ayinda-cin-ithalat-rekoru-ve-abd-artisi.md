@@ -26,8 +26,6 @@ tags:
 <p>Buna rağmen, Doğu ve Körfez Kıyısı'ndaki ithalat hacimleri üzerinde bu unsurların şimdilik belirgin bir etkisi görülmediği, liman geçiş gecikmelerinin iyileşme gösterdiği bildirildi.&nbsp;</p>
 <p><br></p>
 <p>Descartes'ten Chris Jones, 2024'ün ilk beş ayında ABD'nin konteyner ithalat hacminin geçen yılın aynı dönemine göre %15.5 arttığını, özellikle Mayıs ayında Çin'den yapılan ithalatların %17.6 oranında artışla büyümede önemli bir rol oynadığını ifade etti.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ol>
   <li><p>ABD'nin toplam ithalat hacmi Mayıs ayında Nisan ayına göre %6.2, geçen yılın Mayıs ayına göre %11.9 arttı.</p></li>
@@ -37,5 +35,3 @@ tags:
   <li><p>2024'ün ilk beş ayında, ABD'nin konteyner ithalat hacmi geçen yılın aynı dönemine göre %15.5 artış gösterdi.</p></li>
   <li><p>Çin'den yapılan ithalat, Mayıs'ta %17.6 oranında artarak büyümenin ana itici gücü oldu.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

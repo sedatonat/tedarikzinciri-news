@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify"><strong>Novatek PJSC</strong>-led Arctic LNG 2 is central to Russia's ambition to triple production of the super-chilled fuel by the end of the decade. Although that plan is under threat from international sanctions, China's decision to begin taking LNG from the plant could help revive the goal. The Asian nation began importing fuel from Arctic LNG 2 through its remote Beihai terminal in August, with about 20 cargoes offloaded from the Russian facility as of mid-December.</p>
 <p><br></p>
 <p style="text-align: justify">Even so, Arctic LNG 2 has had to cut output as winter ice complicates exports, and until now only one identified Russian shadow-fleet tanker of the advanced Arc-7 ice class was in service. From a supply chain perspective, the introduction of the Alexey Kosygin structurally strengthens the project's ability to deliver year-round LNG cargoes to <strong>Asia-Pacific</strong> buyers. Players with long-term offtake contracts such as <strong>JERA</strong>, <strong>CNPC</strong> and <strong>Sinopec</strong> will need to continually reassess secondary sanctions exposure on every voyage.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43046]</p>

@@ -36,9 +36,3 @@ tags:
 3. Şirket; yakıtı <strong>Singapore</strong>&rsquo;dan <strong>Seattle</strong>&rsquo;a taşıyor olmaya başlıyor.<br>
 4. Mayıs-Haziran uçuş kesintileri; gece geç kalkışlara odaklanıyor.<br>
 5. <strong>Air Canada</strong>, <strong>Delta</strong> ve <strong>Lufthansa</strong> da benzer kesintiler uyguluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43900]</p>

@@ -93,12 +93,3 @@ Rozicki explains this transformation as follows:<br>
   <li style="text-align: justify"><p style="text-align: justify">Gather AI follows a <strong>disciplined implementation strategy, distancing itself from AI hype culture</strong>.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The company, now <strong>a data intelligence provider rather than a drone manufacturer</strong>, is shaping supply chain innovation.</p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our Book "How to Buy ERP?" Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through the link above.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

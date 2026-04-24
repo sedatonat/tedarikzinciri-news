@@ -30,8 +30,3 @@ tags:
 3. Standart, operasyonel verilerin yapılandırılması için ortak semantik çerçeve sağlıyor.<br>
 4. Hedef, limanlar arası birlikte çalışabilirliği artırmak ve tedarik zinciri maliyetlerini düşürmek.<br>
 5. Çağrı, küresel ticaretin ISO 668 gibi standartlara olan tarihsel bağımlılığını hatırlatıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

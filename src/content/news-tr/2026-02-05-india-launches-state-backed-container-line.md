@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Hindistan; yabancı denizcilik hizmetlerine yıllık tahmini 70-75 milyar ABD doları harcıyor; bu durum liderlerin tanımladığı; ülkenin denizcilik ticaretinin büyük bölümüne hizmet veren Hint dışı taşıyıcılara olan sürdürülemez bağımlılığını yansıtıyor. Ülke ayrıca 2026'nın başlarında gemi inşa altyapısını desteklemek üzere doğrudan sübvansiyonlar için 5,4 milyar ABD doları daha ayırıyor. Şu anda dünya gemi inşasında yaklaşık 20. sırada bulunuyor olan Hindistan; 2030'a kadar ilk 10'a, 2047'ye kadar ise ilk 5'e girmeyi hedefliyor.</p>
 <p><br></p>
 <p style="text-align: justify">Bu arada Hindistan; son haftalarda hem <strong>Avrupa Birliği</strong> hem de <strong>Amerika Birleşik Devletleri</strong> ile agresif biçimde ticaret anlaşmaları peşinde oluyor. 2 Şubat'ta Trump yönetimi; ilgili duyuruyu yapıyor. Tedarik zinciri perspektifinden bakıldığında <strong>BCSL</strong>'in piyasaya girmesi; <strong>Maersk</strong>, <strong>MSC</strong>, <strong>CMA CGM</strong> ve <strong>Hapag-Lloyd</strong>'un Hint Yarımadası servislerinde fiyatlama gücünü orta vadede yumuşatabiliyor. <strong>JNPT</strong>, <strong>Mundra</strong> ve <strong>Cochin</strong> üzerinden yürütülüyor olan <strong>Indo-EU</strong> ile <strong>IMEC (India-Middle East-Europe Economic Corridor)</strong> bağlantı stratejilerinde yerli bayrak avantajı yapısal hâle geliyor.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43430]</p>

@@ -30,8 +30,3 @@ tags:
 3. Elliott hissedar değerini artırmak için yönetim kurullarına baskı uygulayan agresif bir fon olarak biliniyor.<br>
 4. MOL'un LNG, kuru yük, tanker ve enerji portföyü aktivist ilgisini cezbediyor.<br>
 5. Japonya'da aktivist yatırımcı baskısı artık denizcilik sektörüne de sıçradı.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

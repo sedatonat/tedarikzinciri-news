@@ -48,14 +48,8 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Policy responses focused on <strong>synchronous condensers</strong>, <strong>grid-forming batteries</strong>, <strong>expanded black start deployment</strong>, and <strong>increased safety margins</strong>.</p></li>
 </ul>
 <p style="text-align: justify"><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
 <p>Your feedback would make us happy.</p>
 <p>Wishing you good reading from the start.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

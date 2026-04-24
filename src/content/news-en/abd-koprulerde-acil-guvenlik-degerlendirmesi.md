@@ -24,8 +24,6 @@ tags:
 <p>Engineer Michael Shields noted that these bridges were not built to accommodate the increasing size and number of large cargo vessels, emphasizing that the collapse of the Key Bridge served as a wake-up call. Using global shipping data, the research team will develop modern risk models to determine whether critical bridges in the United States could be destroyed following a major ship strike.&nbsp;</p>
 <p><br></p>
 <p>Preliminary findings indicate that existing bridges are not resilient to these new conditions, given the rapid growth of mega container vessels and the increase in global shipping traffic.</p>
-<p><br></p>
-<p><br></p>
 <h5>Key Takeaways</h5>
 <ol>
   <li><p>Engineers from Johns Hopkins University have initiated an urgent assessment process for bridges across the United States, particularly those near major ports.</p></li>
@@ -34,5 +32,3 @@ tags:
   <li><p>The research team indicates that the current design of existing bridges is insufficient and risks are elevated.</p></li>
   <li><p>The collapse of the Key Bridge is presented as an example demonstrating that current bridge risks require reassessment.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

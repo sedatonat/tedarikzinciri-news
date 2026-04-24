@@ -36,11 +36,3 @@ tags:
 3. <strong>Knoll Drive</strong>, yeniden hizalanmış haliyle trafiğe açılıyor.<br>
 4. Çalışmalar Mart 2024&rsquo;te başlıyor; Aralık 2026&rsquo;da tamamlanıyor olacak.<br>
 5. Proje, <strong>Terminal Island</strong> ve <strong>West Basin Container Terminal</strong> erişimini iyileştiriyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43190]</p>

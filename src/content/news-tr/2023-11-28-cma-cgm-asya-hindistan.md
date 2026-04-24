@@ -30,4 +30,3 @@ tags:
 <p>Şanghay - Ningbo - Shekou - Singapur - Colombo - Mundra - Nhava Sheva - Singapur - Şanghay</p>
 <p><br></p>
 <p>Ayrıca, AS2 hizmeti Colombo'dan Hindistan'a iç-alt kıtasal bir bağlantı sağlar ve Güneydoğu Asya'dan Hindistan Alt Kıtası limanlarına Singapur üzerinden CMA CGM'nin geniş ağına erişim sağlar.</p>
-<p><br></p>

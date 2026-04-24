@@ -28,4 +28,3 @@ tags:
   <li><p>Sürücü maaşları ve bakım giderleri önemli oranda yükseldi.</p></li>
   <li><p>Boşta geçen mil oranları ve sürücü devir hızları arttı.</p></li>
 </ul>
-<p><br></p>

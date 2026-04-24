@@ -25,8 +25,3 @@ tags: ["NWSA", "Seattle", "Tacoma", "Q1 2026", "container volumes", "TEU", "tari
 3. YTD total container volumes reached 714,719 TEUs, down 14.2 per cent.<br>
 4. March 2026 volume was 278,829 TEUs, a 10.1 per cent YoY decline.<br>
 5. Domestic volumes grew 0.2 per cent YTD; Alaska up 0.3 per cent, Hawaii down 0.4 per cent.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

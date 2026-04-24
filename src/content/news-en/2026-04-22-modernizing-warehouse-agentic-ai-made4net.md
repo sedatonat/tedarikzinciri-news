@@ -28,9 +28,3 @@ tags: ['Made4Net', 'ajansal yapay zeka', 'Jeff Jones', 'depo otomasyonu', 'self-
 3. Most companies are transitioning from predictive to generative <strong>AI</strong>, not agentic.<br>
 4. Bad data prevents the full benefit of agentic <strong>AI</strong> from being realized.<br>
 5. <strong>AI</strong> can reduce training periods from 30-45 days to as little as 1 day.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our Book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge via this link.</p>
-<p><br></p>
-<p>[43872]</p>

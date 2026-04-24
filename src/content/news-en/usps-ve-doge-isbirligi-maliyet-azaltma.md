@@ -44,12 +44,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Proposals for <strong>USPS</strong> privatization or merger with the <strong>Commerce Department</strong> create uncertainty about the future of postal services.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>National Association of Letter Carriers</strong> President <strong>Brian Renfroe</strong> opposes privatization efforts.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book on How to Procure ERP has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

@@ -31,5 +31,3 @@ tags:
   <li><p>2024'ün ilk çeyreğinde, taşıyıcıların kar marjları %2,6'ya kadar düştü.</p></li>
   <li><p>Taşıyıcıların anlaşma oranlarını ve karlarını artırma yetenekleri, mevcut piyasa koşulları nedeniyle sınırlı.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

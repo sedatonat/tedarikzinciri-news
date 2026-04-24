@@ -46,12 +46,5 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">A planned meeting between Trump and Vladimir Putin increases the likelihood that negotiations to end the war in Ukraine could begin shortly.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The Trump team faces the challenge of managing economic sanctions while preserving the dollar's status as the global reserve currency.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via this link.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading from the start.</p>

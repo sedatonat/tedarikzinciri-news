@@ -22,8 +22,6 @@ tags:
 <p><a href="https://en.wikipedia.org/wiki/Mediterranean_Shipping_Company"><u>Mediterranean Shipping Co. (MSC)</u></a>, İtalyan basın sektörüne büyük bir adım atarak Cenova merkezli gazete grubu <a href="https://www.ilsecoloxix.it/"><u>Il Secolo XIX</u></a>'ı satın aldı. Bu satın alma, denizcilikle ilgili yayınlar olan <a href="https://www.themeditelegraph.com/en/"><u>The MediTelegraph</u></a>, <a href="https://www.avvisatore.com/"><u>L’Avvisatore Marittimo</u></a>, Il Giornale del Ponente Ligure ve TTM – Tecnologie Trasporti Mare'yi de kapsıyor. Bu hamle, Gianluigi Aponte tarafından kurulan şirketin, <a href="https://en.wikipedia.org/wiki/CMA_CGM"><u>CMA CGM</u></a>'nin medya işine giriş yapmasının ardından benzer bir stratejiyi izlediğini gösteriyor. İtalyan armatörler arasında yerel medya kuruluşlarına yatırım yapma eğilimi bulunuyor; örneğin, Kuzey Avrupa ve Akdeniz'de önemli bir yolcu taşıma operatörü olan The Grimaldi Group sahipleri, Economy Magazine'e yatırım yapmış durumda.</p>
 <p><br></p>
 <p><a href="https://en.wikipedia.org/wiki/CMA_CGM"><u>CMA CGM Group</u></a>'un başkanı Rodolphe Saadé ise, medya sektöründe daha büyük yatırımlar yaparak dikkat çekiyor. Fransız bölgesel basın grubu La Provence, iş dünyası haber sitesi La Tribune'i satın aldıktan ve La Tribune Dimanche'ı başlattıktan sonra, şimdi de Fransa'nın önde gelen medya gruplarından biri olan Altice Media'nın başına geçti ve grubu yönetmesi için eşi Véronique'e emanet etti. COVID-19 sırasında deniz nakliye fiyatlarının artması ve avantajlı bir vergi rejimi, dünyanın üçüncü büyük nakliye şirketinin sahibine hızlı bir şekilde bir medya grubu kurma imkanı tanıdı.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ul>
   <li><p><a href="https://en.wikipedia.org/wiki/Mediterranean_Shipping_Company"><u>MSC</u></a>, <a href="https://www.ilsecoloxix.it/"><u>Il Secolo XIX </u></a>gazete grubunu satın aldı, bu satın alma denizcilikle ilgili birkaç yayını da içeriyor.</p></li>
@@ -32,4 +30,3 @@ tags:
   <li><p>Rodolphe Saadé, medya sektöründe büyük yatırımlar yaparak dikkat çekiyor ve şimdi Altice Media'nın başında.</p></li>
   <li><p>COVID-19 sırasındaki deniz nakliye fiyatlarındaki artış ve vergi avantajları, bu tür büyük yatırımları mümkün kılıyor.</p></li>
 </ul>
-<p><br></p>

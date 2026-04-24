@@ -30,8 +30,3 @@ tags:
 3. Proje, Anaheim Caddesi ile bağlantı koridorunu genişletip yeniden hizalayacak ve dar boğazı ortadan kaldıracak.<br>
 4. İyileştirmeler, daha büyük Pier B On-Dock Rail Support Facility projesiyle koordineli yürütülüyor.<br>
 5. Aşırı boyutlu izin hacimlerinin yenilenebilir enerji ve elektrikli ulaşım yatırımlarıyla artması bekleniyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

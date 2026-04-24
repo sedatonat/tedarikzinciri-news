@@ -28,8 +28,3 @@ tags:
 <p style="text-align: justify">The latest restrictions on dual-use exports were announced on January 6, with China&rsquo;s Commerce Ministry labeling Takaichi&rsquo;s critique a &ldquo;crude inference in China&rsquo;s internal affairs.&rdquo; The curbs risk disrupting supply chains for Japanese industries that depend on Chinese technology and rare earth minerals &mdash; particularly electronics, aerospace and industrial machinery makers, where dual-use components are commonly embedded in civilian products.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, rare earth elements are also widely used in advanced weapons systems including fighter jets, guided missiles and communications equipment. <strong>Japan</strong> has been working to reduce its dependence on <strong>China</strong> since the 2010 Senkaku crisis, building strategic stockpiles and partnerships with miners such as <strong>Lynas</strong> (Australia) for downstream players including <strong>Toyota</strong>, <strong>Sony</strong>, <strong>Panasonic</strong>, <strong>Mitsubishi Electric</strong> and <strong>Nidec</strong>. The new ban is accelerating <strong>JOGMEC</strong>-led diversification programs and lifting investment into <strong>Vietnam</strong>, <strong>India</strong> and deep-sea mining projects throughout 2026.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43083]</p>

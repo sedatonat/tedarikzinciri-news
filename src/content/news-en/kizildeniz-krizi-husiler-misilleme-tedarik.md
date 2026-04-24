@@ -28,4 +28,3 @@ tags:
 </ol>
 <p>Notably, while the Trump administration added Yemen to its list of terrorist countries, the Biden administration placed Yemen back on the whitelist in February 2021 to keep open the possibility of official dialogue with Yemen.</p>
 <p>Related link: <a href="https://www.uae-embassy.org/sites/default/files/inline-files/Yemen%20White%20Paper_02-01-22_v4.pdf"><u>https://www.uae-embassy.org/sites/default/files/inline-files/Yemen%20White%20Paper_02-01-22_v4.pdf</u></a></p>
-<p><br></p>

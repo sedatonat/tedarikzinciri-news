@@ -46,12 +46,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The incentive package allocates 28.5 billion pesos to companies investing in new fixed assets and 1.5 billion pesos to education and innovation incentives.<a href="https://www.supplychaindive.com/news/plan-mexico-nearshoring-incentives-sheinbaum/738202/" rel="noopener" target="_blank">supplychaindive.com</a></p></li>
   <li style="text-align: justify"><p style="text-align: justify">Mexico aims to strengthen its national economy and increase regional integration by replacing imports with domestic production.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book is Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a>&nbsp;You can download and read it free through this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>

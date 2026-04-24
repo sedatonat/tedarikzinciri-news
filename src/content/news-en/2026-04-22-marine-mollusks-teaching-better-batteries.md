@@ -27,8 +27,3 @@ tags: ['biyomimetik', 'batarya', 'yakıt hücresi', 'UC Irvine', 'chiton', 'nano
 3. Chiton teeth are made at room temperature and nanoscale precision.<br>
 4. Findings are driving fuel cell, next-generation electronics, and battery materials.<br>
 5. Biomimetics is a design discipline inspired by nature.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>
-<p><br></p>
-<p>[42430]</p>

@@ -23,8 +23,3 @@ tags: ["Maersk", "New Times Shipbuilding", "çift yakıtlı", "18.600 TEU", "fil
 3. Dual-fuel engines will be able to run on conventional bunker fuel or liquefied gas.<br>
 4. With this order, Maersk's total orderbook now stands at 33 vessels.<br>
 5. The deal can be seen as a strategic move in the capacity race against the Hapag-Lloyd–ZIM merger.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

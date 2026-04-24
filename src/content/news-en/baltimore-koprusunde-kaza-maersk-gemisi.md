@@ -26,8 +26,6 @@ tags:
 <p>Maersk shares closed the day down 2.6 percent following the incident. Vessel traffic entering and departing the Port of Baltimore has been suspended. The collapse of the <a href="https://en.wikipedia.org/wiki/Francis_Scott_Key_Bridge_(Baltimore)"><u>Francis Scott Key Bridge</u></a> underscores the importance of the Port of Baltimore, which handles some of the world's largest cargo vessels arriving from Asia and elsewhere since the Panama Canal's 2016 expansion.&nbsp;</p>
 <p><br></p>
 <p>The Singapore-flagged <a href="https://www.vesselfinder.com/vessels/details/9697428"><u>DALI</u></a> vessel, measuring 300 meters in length, was carrying 22 crew members at the time of the accident, none of whom were injured. David Osler of Lloyd's List Intelligence noted that an investigation will be launched to determine legal liability, with potential damages reaching hundreds of millions of dollars. The extent of losses will ripple through to the global reinsurance market, which provides insurance coverage for insurers.</p>
-<p><br></p>
-<p><br></p>
 <h5>Key Points</h5>
 <ul>
   <li><p><a href="https://en.wikipedia.org/wiki/Maersk"><u>Maersk</u></a> chartered the vessel involved in the Baltimore bridge collision.</p></li>
@@ -40,4 +38,3 @@ tags:
   <li><p>An investigation will be launched to determine legal liability.</p></li>
 </ul>
 <p><strong>Related Article:</strong> <a href="https://www.tedarikzinciriportali.com/post/maersk-baltimore-koprusu-kazasi"><u>Maersk Baltimore Francis Scott Key Bridge Accident</u></a></p>
-<p><br></p>

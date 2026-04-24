@@ -41,11 +41,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The effectiveness of sanctions and the monitoring of "shadow fleets" became an important issue in future diplomatic negotiations.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through this link.</p>
+
 <p>Your feedback will make us happy.</p>
 <p>We wish you happy reading from now on.</p>

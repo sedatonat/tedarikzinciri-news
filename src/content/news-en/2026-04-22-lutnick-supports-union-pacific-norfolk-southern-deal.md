@@ -27,8 +27,3 @@ tags: ['Union Pacific', 'Norfolk Southern', 'Howard Lutnick', 'demiryolu birleş
 3. The merger creates the <strong>U.S.</strong>'s first transcontinental single-operator <strong>Class I</strong> railroad.<br>
 4. The <strong>Surface Transportation Board</strong> (<strong>STB</strong>) must approve the merger.<br>
 5. <strong>Chicago</strong>, <strong>Memphis</strong>, and <strong>St. Louis</strong> are major interchange bottleneck points.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP System? Our Book is now published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free through this link.</p>
-<p><br></p>
-<p>[42360]</p>

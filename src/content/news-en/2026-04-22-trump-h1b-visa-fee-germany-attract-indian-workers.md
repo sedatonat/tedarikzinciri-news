@@ -30,8 +30,3 @@ tags: ['H-1B', 'Trump', 'Almanya', 'Hindistan', 'vize', 'yetenek göçü', 'Phil
 <p>---<br>
 <strong>Source:</strong> <a href="https://www.supplychainbrain.com/articles/42570-trump-h-1b-visa-fee-opens-door-for-germany-to-attract-indian-workers"><u>https://www.supplychainbrain.com/articles/42570-trump-h-1b-visa-fee-opens-door-for-germany-to-attract-indian-workers</u></a><br>
 -------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Is Now Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free through this link.</p>
-<p><br></p>
-<p>[42570]</p>

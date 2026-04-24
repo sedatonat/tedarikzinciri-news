@@ -40,13 +40,6 @@ tags:
   <li><p>Jag Lamba presented a demonstration showing that artificial intelligence will revolutionize procurement processes.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Purchase ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free through this link.</p>
+
 <p>We would be delighted to hear your feedback.</p>
 <p>We wish you happy reading in advance.</p>

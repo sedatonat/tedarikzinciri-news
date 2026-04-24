@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Industry leaders are not waiting. They have automated quoting so that responses arrive within minutes. They equip drivers with mobile tools that reduce delays and build loyalty. Wait times are captured automatically, which proves accessorial charges and reduces disputes. Streamlined invoicing accelerates payments and protects cash flow. From a supply chain perspective, what unites these practices is not point solutions but integrated systems. Operators that adopt them move faster, serve customers better and grow without adding headcount.</p>
 <p><br></p>
 <p style="text-align: justify">The competitive gap is widening. <strong>CargoWise Landslide</strong> brings these capabilities together in a single environment. Rates, dispatch, visibility, invoicing and transformation support all live in one place. Operators avoid the cost and complexity of patchwork systems and gain a foundation built for the future. From a supply chain perspective, in a market where digital leaders set the pace, postponing platform investment is no longer a sustainable competitive strategy for drayage carriers.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[42912]</p>

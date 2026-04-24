@@ -24,4 +24,3 @@ tags:
 <p>Bu hamle, Maersk ve Hapag-Lloyd gibi global denizcilik firmalarının bölgeye yeniden dönüş yaptığının bir işareti. Maersk'in hisse fiyatları, bu rotaların kısalığı nedeniyle nakliye oranlarında düşüşe neden olabilecek olması sebebiyle düştü.&nbsp;</p>
 <p><br></p>
 <p>Diğer denizcilik şirketlerinin hisseleri de değer kaybetti. ABD liderliğindeki askeri operasyonun gemilere koruma sağlaması planlanırken, Maersk ve diğer firmalar, güvenliği sürekli değerlendirip rotalarını buna göre ayarlıyor.</p>
-<p><br></p>

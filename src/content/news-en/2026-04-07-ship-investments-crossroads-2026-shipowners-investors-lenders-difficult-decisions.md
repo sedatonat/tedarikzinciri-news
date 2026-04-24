@@ -22,8 +22,3 @@ tags: ["ship investment", "shipowners", "investors", "lenders", "cargo ships", "
 3. Uncertainty drivers: IMO 2050, geopolitical risks, high newbuild costs, interest rate volatility.<br>
 4. Traditional fuel-oil ships face scrap market pressure.<br>
 5. Lenders tighten green financing requirements; leasing structures weight more heavily on the market.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

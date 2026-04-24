@@ -43,12 +43,5 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The alleged attack is a significant development for Turkey's energy security.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">This incident demonstrates that the regional and global impacts of the Russia-Ukraine war are increasing.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
 <p>We would be happy to receive your feedback.</p>
 <p>Wishing you good reading.</p>

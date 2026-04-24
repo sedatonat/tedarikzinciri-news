@@ -36,4 +36,3 @@ tags:
   <li><p>ABD ve İngiltere, Husi'lere karşı saldırılar başlattı ve onları terörist grup olarak tanımladı.</p></li>
   <li><p>İsrail'in Filistin soykırımı etkisi Orta Doğu'nun diğer bölgelerine taştı.</p></li>
 </ul>
-<p><br></p>

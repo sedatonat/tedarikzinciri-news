@@ -27,8 +27,3 @@ tags: ['direnç', 'WMS', 'envanter', 'belirsizlik', 'Amy Dean', 'AI', 'tahminsel
 3. <strong>Manhattan</strong>; <strong>Blue Yonder</strong>; <strong>Infios</strong>; <strong>SAP</strong>; are leading <strong>WMS</strong> players.<br>
 4. <strong>Multi-sourcing</strong>; <strong>nearshoring</strong>; <strong>postponement</strong>; are key resilience strategies.<br>
 5. <strong>Kinaxis</strong>; <strong>o9</strong>; <strong>Anaplan</strong>; <strong>RELEX</strong>; are leading planning platforms.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[41440]</p>

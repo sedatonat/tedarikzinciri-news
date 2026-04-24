@@ -38,11 +38,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">LVRTC announced that communications services are continuing through alternative routes and repair work is being planned.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through this link.</p>
+
 <p>We would be happy to hear your feedback.</p>
 <p>We wish you good reading in advance.</p>

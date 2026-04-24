@@ -35,4 +35,3 @@ tags:
   <li><p>Yeni vergi teşvikleri ve teknolojik gelişmeler, Kuzey Amerika'da üretimi cazip hale getiriyor.</p></li>
   <li><p>Reshoring ve yakın yerelleştirme, çeşitlendirilmiş tedarik zincirleri oluşturma eğiliminde.</p></li>
 </ol>
-<p><br></p>

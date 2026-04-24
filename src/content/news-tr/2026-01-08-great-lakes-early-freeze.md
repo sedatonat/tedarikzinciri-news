@@ -36,11 +36,3 @@ tags:
 3. <strong>LCA</strong>, kısa aksamaların sezon sonunda zincirleme büyüyebiliyor olduğunu vurguluyor.<br>
 4. <strong>Iron ore</strong>, <strong>steel</strong>, <strong>coal</strong>, <strong>grain</strong> taşımacılığı kış kapanmasına karşı yarışmakta.<br>
 5. <strong>USCG</strong> ve <strong>CCG</strong>&rsquo;nin sınırlı buzkıran kapasitesi stratejik bir kırılganlık olarak öne çıkıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[43091]</p>

@@ -36,10 +36,4 @@ tags:
 3. <strong>Barcelona</strong>&rsquo;da feribotlar otomobillerden 1,8 kat daha fazla <strong>SOx</strong> üretiyor.<br>
 4. 2027&rsquo;de <strong>North-East Atlantic ECA</strong> yürürlüğe giriyor olmayı planlıyor.<br>
 5. <strong>T&amp;E</strong>; yaklaşık 2.000 yaşlanmakta olan feribot filosunun başlıca sorumlu oluyor olduğunu vurguluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
 <p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p><br></p>
-<p>[43584]</p>

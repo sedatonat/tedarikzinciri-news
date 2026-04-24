@@ -28,4 +28,3 @@ tags:
   <li><p>Yurt içi ve yurt dışı taşımacılığı birleştirerek süreçleri hızlandırmayı hedefliyor.</p></li>
   <li><p>Geniş ofis ağıyla Türkiye genelinde hizmet veriyor.</p></li>
 </ol>
-<p><br></p>

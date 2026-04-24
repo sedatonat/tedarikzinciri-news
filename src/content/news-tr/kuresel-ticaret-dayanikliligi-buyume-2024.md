@@ -24,8 +24,6 @@ tags:
 <p>E-ticaretin küresel ticarette demokratikleştirici bir güç olduğunu vurgulayan Williams, dünya çapında mağazalarını açan ülkelerin daha büyük gelirler ve daha az iade ile daha fazla başarı gördüğünü belirtiyor. DHL ve <a href="https://en.wikipedia.org/wiki/FedEx"><u>FedEx</u></a> gibi uluslararası kargo şirketleri, ABD politika yapıcılarını daha iddialı ticaret anlaşmalarını yeniden önceliklendirmeye çağırıyor.</p>
 <p><br></p>
 <p>2022'de rekor seviyeye ulaşan ve 2023'te bu seviyeye yakın kalan küresel ticaret akışları, 2008 finansal krizinin ardından toparlandı. <a href="https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war"><u>ABD ile Çin arasındaki ticaret, 2016'da başlayan ticaret savaşı</u></a>ndan bu yana her iki yönde de %25 düşüş gösterdi. Rusya'nın Avrupa Birliği ile ticaret akışları, Ukrayna'yı işgal etmesinden bu yana düşüş gösterse de, küresel ticaret aktivitesinin kırılmadığı; çoğu ülkenin geleneksel ticaret ortaklarıyla bağlarını sürdürdüğü görülüyor. Uluslararası akışlar, ulusal sınırlar içindeki akışlardan çok daha küçük olmasına rağmen, küresel akışların dayanıklılığı, bağlantılı bir dünyanın değerini vurguluyor ve liderleri globalleşmenin faydalarını genişletme ve zorluklarını daha iyi yönetme konusunda teşvik ediyor.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ul>
   <li><p>Küresel ticaret hacimlerinde jeopolitik çatışmalara rağmen güçlü büyüme.</p></li>
@@ -36,4 +34,3 @@ tags:
   <li><p>Rusya'nın AB ile ticaret akışları düştü, ancak global ticaret aktivitesi kırılmadı.</p></li>
   <li><p>Uluslararası akışlar, ulusal akışlardan daha küçük olmasına rağmen, global bağlantılılığın dayanıklılığı vurgulanıyor.</p></li>
 </ul>
-<p><br></p>

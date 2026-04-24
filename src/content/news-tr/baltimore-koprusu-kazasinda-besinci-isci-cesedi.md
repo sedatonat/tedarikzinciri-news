@@ -23,8 +23,6 @@ tags:
 <p>İlk günlerde iki ceset su altından çıkarılmıştı. Maryland Eyalet Polisi Başkanı Albay Roland L. Butler Jr., devam eden kurtarma çalışmalarına olan bağlılıklarını vurgulayarak, bu trajedide kaybedilen her kişinin ardında sevgi dolu bir ailenin olduğunu belirtti.&nbsp;</p>
 <p><br></p>
 <p>The Independent'a göre, Jose Mynor Lopez adında bir işçi hala bulunamadı. Olaydan bir aydan fazla bir süre sonra, beşinci kişinin cesedi bulundu ve halen kayıp olan bir kişi var.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ol>
   <li><p>Baltimore'da Francis Scott Key Köprüsü'nün çökmesi sonucunda beşinci işçi cesedi bulundu.</p></li>
@@ -33,4 +31,3 @@ tags:
   <li><p>Toplamda altı işçi kaybolmuştu, beşinin cesedi bulundu, bir işçi, Jose Mynor Lopez hala kayıp.</p></li>
   <li><p>Olay, 26 Mart'ta meydana geldi ve köprü çökmesinin ardından bir aydan fazla süre geçti.</p></li>
 </ol>
-<p><br></p>

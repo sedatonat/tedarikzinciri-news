@@ -28,4 +28,3 @@ tags:
   <li><p>Developing employees' digital capabilities and their adaptation to new working methods is of critical importance.</p></li>
   <li><p>Investments should focus on long-term growth and innovation rather than cost optimization alone.</p></li>
 </ol>
-<p><br></p>

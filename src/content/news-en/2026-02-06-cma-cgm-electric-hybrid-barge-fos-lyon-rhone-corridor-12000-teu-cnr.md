@@ -23,8 +23,3 @@ tags: ["CMA CGM", "Fos–Lyon", "elektrikli mavna", "Rhône Vadisi", "iç su yol
 3. The project marks a new contribution to low-carbon logistics along the Mediterranean–Rhône–Saône (MeRS) axis.<br>
 4. Compagnie Nationale du Rhône (CNR) is developing dedicated charging infrastructure along the corridor.<br>
 5. The solution eases pressure on urban air quality by shifting freight off the road.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

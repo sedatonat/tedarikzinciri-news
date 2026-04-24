@@ -50,13 +50,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Kazakistan</strong> ve <strong>Çin</strong>, demiryolu taşımacılığındaki büyümeyi sürdürülebilir kılmak için işbirliğini artırıyor ve yeni projeler geliştiriyor.</p></li>
 </ul>
 <p style="text-align: justify">Bu gelişmeler, <strong>Kazakistan</strong> ile <strong>Çin</strong> arasındaki demiryolu taşımacılığının artan önemini ve bölgedeki lojistik altyapının sürekli gelişimini gösteriyor.</p>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

@@ -23,4 +23,3 @@ tags:
 <p>Ukrposhta, Omniva (Estonya Ulusal Postası), Ukrayna Demiryolları ve Slovakya şirketi Interport ile işbirliği yapıyor. Küresel pazarlardan yaklaşık 80,000 parça içeren üç vagon, Ukrayna'ya teslim edildi. Ukrposhta, "Karayollarına göre, demiryoluyla teslim edildiğinde, paketler sınırı bir günde geçiyor" dedi.&nbsp;</p>
 <p><br></p>
 <p>Ukrayna ve Polonya arasındaki birçok karayolu sınır geçişinde Kasım ayının başında başlayan engellemelerden kaçınmak için alternatif taşıma çözümleri bulmak şu anda bir zorunluluk. Aralık ayının başında, Ukrayna Demiryolları, Sknyliv ve Slawkow (Polonya'da) arasında, İzov-Hrubeshiv sınır geçişine uygun yarı römorklar için yeni bir hizmet başlattı.</p>
-<p><br></p>

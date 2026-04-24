@@ -32,5 +32,3 @@ tags:
   <li><p>Tesisin açılması, tedarik zinciri süreçlerinde verimlilik sağlayarak ve kargo akışını iyileştirerek müşterilere avantaj sağlıyor.</p></li>
   <li><p>Bu adım, nearshoring trendini destekleyerek, küresel şirketlerin Meksika'ya yatırım yapmalarını teşvik ediyor.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

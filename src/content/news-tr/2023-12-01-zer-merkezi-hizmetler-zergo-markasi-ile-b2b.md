@@ -23,4 +23,3 @@ ZER, "İnsansız Satınalma" hedefine doğru ilerliyor...</p>
 <p><br></p>
 <p>ZerGo İnternet Sitesi: <a href="https://www.zergo.com.tr"><u>https://www.zergo.com.tr</u></a>&nbsp;</p>
 <p>ZerGo Linkedin Sayfası: <a href="https://www.linkedin.com/company/zergocomtr/about/"><u>https://www.linkedin.com/company/zergocomtr/about/</u></a>&nbsp;</p>
-<p><br></p>

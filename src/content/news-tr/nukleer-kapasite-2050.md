@@ -48,12 +48,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Enerji sektöründe yeni iş fırsatları ve ekonomik büyüme beklentisi bulunuyor.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Toplumsal endişeler ve yüksek yatırım maliyetleri, nükleer enerjinin genişletilmesinde dikkate alınması gereken zorluklar arasında.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

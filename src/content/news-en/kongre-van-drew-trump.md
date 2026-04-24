@@ -60,11 +60,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The <strong>Bureau of Ocean Energy Management (BOEM)</strong> approved the <strong>Atlantic Shores South</strong> project in October 2024, located off New Jersey's coast; the project will generate 2,800 megawatts of power, enough to supply approximately one million homes.<a href="https://gcaptain.com/congressman-van-drew-trump-team-up-to-sink-bidens-offshore-wind-ambitions/?utm_source=chatgpt.com" rel="noopener" target="_blank">gCaptain</a></p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Get ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>We wish you happy reading in advance.</p>

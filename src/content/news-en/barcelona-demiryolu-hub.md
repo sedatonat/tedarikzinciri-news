@@ -55,14 +55,8 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Over 10 years, a total of <strong>1.7 million</strong> truck journeys were eliminated from the system.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">From 2026 onwards, Barcelona's position as Europe's primary Mediterranean gateway is strengthening.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it free of charge via this link.</p>
 <p>Your feedback would make us happy.</p>
 <p>Wishing you good reading.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

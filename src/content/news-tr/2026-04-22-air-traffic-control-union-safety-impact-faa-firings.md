@@ -35,8 +35,3 @@ tags:
 3. <strong>DOGE</strong>; <strong>Trump</strong> yönetimi federal verimlilik girişimi oluyor.<br>
 4. <strong>FAA</strong>; ~14.000 kontrolör; 313 tesis &mdash; <strong>Oklahoma City</strong> akademi oluyor.<br>
 5. 1981 <strong>PATCO</strong> grevi; <strong>Reagan</strong> 11.000 kontrolör işten çıkarma &mdash; tarihsel referans oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41230]</p>

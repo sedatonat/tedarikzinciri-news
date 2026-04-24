@@ -21,8 +21,3 @@ tags: ["EPAMINONDAS", "Iran", "IRGC", "Oman", "UKMTO", "container shipping", "ma
 3. The vessel is managed by Greek operator Technomar and was running under an A.P. Moeller-Maersk charter.<br>
 4. No crew injuries were reported; the master notified UKMTO immediately.<br>
 5. The event underscores intensifying security risks for commercial shipping in and around the Strait of Hormuz.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

@@ -35,8 +35,6 @@ tags:
 <p style="text-align: justify">FedEx; pandemi sonrası dönemde kalıcı hâle gelen <strong>küresel gönderi talebi zayıflığı</strong> ile de mücadele yürüttü. Trump döneminde uygulanan düzensiz tarife politikaları, özellikle <strong>Çin &ndash; ABD hattındaki</strong> yüksek kârlı taşımaları olumsuz etkiledi. Şirket; bu oynaklığın düzeltilmiş faaliyet kârı üzerinde <strong>1 milyar dolarlık</strong> negatif etki yarattığını daha önce açıkladı. Buna karşın FedEx; yıllık satış büyümesi beklentisini <strong>yüzde 5 &ndash; 6</strong> aralığına yükselterek daha iyimser bir tablo çizdi.</p>
 <p><br></p>
 <p style="text-align: justify">Analist cephesinde temkinli iyimserlik egemen oldu. <strong>Citi</strong> analisti <strong>Ariel Rosa</strong>; uzun vadeli marj iyileştirme hedeflerine doğru ilerleme sinyalleri görüldüğünü, ancak makroekonomik koşullar ve maliyet baskıları nedeniyle sürecin kesintili ilerleyebileceğini vurguladı.</p>
-<p><br></p>
-<p style="text-align: justify"><br></p>
 <h3 style="text-align: justify"><strong>Önemli Notlar</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">FedEx, ağ entegrasyonu ve maliyet azaltım stratejisinin ilk finansal sonuçlarını açıklamış oldu.</p></li>

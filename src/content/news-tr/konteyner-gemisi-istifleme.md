@@ -77,8 +77,6 @@ eş zamanlı analiz ederek optimum bir yükleme planı oluşturur.</p></li>
 detaylı bir şekilde açıklıyor.</p></li>
 </ul>
 <p style="text-align: justify">Görüntü, yükleme sürecinin bir “dev bulmacayı çözme”ye benzediğini ispatlıyor: küçük bir hata dahi gemi stabilitesini riske atabiliyor.</p>
-<p><br></p>
-<p><br></p>
 <h4 style="text-align: justify"><strong>Önemli Notlar:</strong></h4>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">Konteynerler <strong>ağırlık, boyut ve varış limanına göre</strong> planlanıyor.</p></li>
@@ -88,14 +86,6 @@ detaylı bir şekilde açıklıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Video, konteyner düzeninin ne kadar teknik ve kritik olduğunu açıkça gösteriyor.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Yazar: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

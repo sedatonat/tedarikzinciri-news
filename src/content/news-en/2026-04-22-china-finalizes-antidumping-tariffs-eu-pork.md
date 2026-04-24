@@ -18,4 +18,4 @@ tags: ['China', 'EU', 'domuz eti', 'antidumping', 'AP', 'CNBC', 'EV tarifesi', '
 2. The investigation was opened in June 2024; provisional duties were applied in September 2025.<br>
 3. The <strong>EU</strong> is the world's largest pork exporter—13% of its production goes abroad.<br>
 4. <strong>China</strong> purchases €2.4 billion worth of pork from the <strong>EU</strong> in 2023/2024.<br>
-5. The <strong>EU</strong>'s 45% <strong>EV</strong> tariff served as a trigger for mutual retaliation.</p>\n\n<p><strong>!!! ANNOUNCEMENT !!!</strong></p>\n<p><strong>How to Implement ERP? Our book is now available on Google Play Books.</strong></p>\n<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it free through this link.</p>\n<p><br></p>\n<p>[43010]</p>
+5. The <strong>EU</strong>'s 45% <strong>EV</strong> tariff served as a trigger for mutual retaliation.</p>\n\n\n<p><br></p>\n<p>[43010]</p>

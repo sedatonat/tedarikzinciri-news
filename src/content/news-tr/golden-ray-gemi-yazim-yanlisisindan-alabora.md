@@ -42,14 +42,3 @@ tags:
   <li><p>Olay, 2012 Costa Concordia faciasından sonra en büyük gemi kazalarından biri olarak kaydedildi.</p></li>
   <li><p>Golden Ray'ın okyanustan çıkarılması işlemi iki yıl sürdü ve 5 Eylül 2021'de tamamlandı.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

@@ -28,9 +28,3 @@ tags: ['Lyngsoe Systems', 'RTI', 'RFID', 'BLE', 'pik sezon', 'görünürlük', '
 3. <strong>RFID</strong> and <strong>BLE</strong> provide end-to-end asset visibility.<br>
 4. <strong>Lyngsoe Systems</strong> is expanding from <strong>postal/parcel</strong> origins into the <strong>RTI</strong> domain.<br>
 5. The 100K+ asset case demonstrates reduced losses and balanced distribution.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[43809]</p>

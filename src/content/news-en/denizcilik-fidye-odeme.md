@@ -34,13 +34,6 @@ tags:
 </ul>
 <p><br></p>
 <p style="text-align: justify">This information highlights the importance of cyber security in the maritime sector once again and demonstrates that companies need to be more careful and better prepared in this area.</p>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free through this link.</p>
+
 <p>We would be happy to receive your feedback.</p>
 <p>We wish you good reading in advance.</p>

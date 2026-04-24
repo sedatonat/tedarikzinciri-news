@@ -44,12 +44,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Negotiations between the government and protesters are ongoing.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The international community is calling for restraint and closely monitoring the situation.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
-<p>Your feedback would be greatly appreciated.</p>
-<p>We wish you happy reading.</p>

@@ -28,8 +28,3 @@ tags:
 3. Kaliningrad Commercial Sea Port karayolu teslim mesafesi daha kısa; son mil delivery optimize oldu.<br>
 4. FSKL; FESCO'nun Baltık'taki ilk kabotaj servisi olma özelliğini koruyor.<br>
 5. Hat; toplam 1.400 TEU kapasiteli FESCO Navarin ve FESCO Novik ile hizmet veriyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

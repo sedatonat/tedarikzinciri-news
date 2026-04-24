@@ -27,8 +27,3 @@ tags: ['FAA', 'Verizon', 'SpaceX', 'Starlink', 'Musk', 'DOGE', 'hava trafik kont
 3. The <strong>FTI</strong> contract was renewed to <strong>Verizon</strong> in 2023 for 15 years at $2.4 billion.<br>
 4. <strong>Starlink</strong> operates 7,000+ satellites with 4 million+ subscribers as the leading <strong>LEO</strong> provider.<br>
 5. <strong>Amazon Kuiper</strong> and <strong>OneWeb</strong> emerge as leading <strong>LEO</strong> competitors.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Purchase ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[41300]</p>

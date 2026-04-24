@@ -32,4 +32,3 @@ tags:
   <li><p>Şirketin işten çıkarma yapılıp yapılmayacağı konusunda bilgi verilmedi.</p></li>
   <li><p>Kuehne+Nagel, yaklaşık 100 ülkede neredeyse 1,300 lokasyonda 81,000 çalışana sahip.</p></li>
 </ul>
-<p><br></p>

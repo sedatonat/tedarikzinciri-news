@@ -26,8 +26,6 @@ tags:
 <p>Regarding pricing, despite market conditions, a trend toward neutral to slight increases is observed; this demonstrates that a balance between demand and supply has been established, and moderate price adjustments aligned with market developments are possible.</p>
 <p><br></p>
 <p>Kevin Kull, Senior Vice President of Sales and Operations at PalletTrader, noted that the data obtained underscores not only the current situation but also the importance of being prepared for potential future changes in the sector.</p>
-<p><br></p>
-<p><br></p>
 <h5>Key Takeaways</h5>
 <ol>
   <li><p>The U.S. pallet market is beginning to show stability signals following a period fraught with uncertainty.</p></li>
@@ -35,5 +33,3 @@ tags:
   <li><p>Optimistic growth in pallet demand is expected over the coming six months.</p></li>
   <li><p>Regarding pricing, despite volatile market conditions, a trend from neutral to slightly increasing is evident.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

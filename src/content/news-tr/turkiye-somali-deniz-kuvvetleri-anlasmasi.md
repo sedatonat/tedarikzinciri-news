@@ -25,8 +25,6 @@ tags:
 <p>Bu anlaşma, terörizm, yasa dışı balıkçılık, korsanlık ve dış tehditlerle mücadele etmeyi hedefliyor. Türkiye'nin Somali'deki varlığı aracılığıyla Kızıldeniz ve Süveyş Kanalı gibi stratejik bölgeler üzerinde kontrol sahibi olması planlanıyor. Anlaşma, Türkiye'nin Afrika Boynuzu'ndaki önemli rolünü pekiştiriyor ve bölgede ana oyunculardan biri olarak konumunu sağlamlaştırıyor.</p>
 <p><br></p>
 <p>Anlaşma sayesinde Kızıl Deniz çevresinin daha güvende olacağı düşünülüyor.</p>
-<p><br></p>
-<p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
   <li><p>Türkiye ve Somali, Somali'nin deniz sularını koruma ve güçlü bir deniz kuvveti oluşturma konusunda tarihi bir anlaşma imzaladı.</p></li>
@@ -34,5 +32,3 @@ tags:
   <li><p>Türkiye, Somali'deki varlığı sayesinde Kızıldeniz ve Süveyş Kanalı gibi stratejik bölgeler üzerinde kontrol sağlayacak.</p></li>
   <li><p>Bu anlaşma, Türkiye'nin Afrika Boynuzu'ndaki rolünü pekiştirerek bölgede ana oyunculardan biri olarak konumunu güçlendiriyor.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

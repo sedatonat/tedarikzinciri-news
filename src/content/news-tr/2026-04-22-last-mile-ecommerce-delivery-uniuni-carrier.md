@@ -36,9 +36,3 @@ tags:
 3. Ölçeklenebilir ağlar; viral talep sıçramalarını ele alıyor.<br>
 4. Veri bütünlüğü; çoklu eller arasında zorunlu oluyor.<br>
 5. <strong>UniUni</strong>; <strong>Asian e-commerce</strong> odaklı son-mil ağı işlediyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43659]</p>

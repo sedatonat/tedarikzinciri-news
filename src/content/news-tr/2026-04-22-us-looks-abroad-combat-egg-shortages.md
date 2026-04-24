@@ -35,8 +35,3 @@ tags:
 3. <strong>HPAI</strong> krizi nedeniyle 168M+ kümes hayvanı kaybı oluyor.<br>
 4. <strong>Cal-Maine</strong>; <strong>Rose Acre</strong>; ana ABD yumurta üreticileri oluyor.<br>
 5. <strong>BLS</strong>; düzine yumurta Şubat 2025 rekor 8.05 dolar oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41260]</p>

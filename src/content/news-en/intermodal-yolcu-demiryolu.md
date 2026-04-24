@@ -51,12 +51,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Supporting intermodal transport promotes the adoption of sustainable transport solutions and the achievement of environmental targets.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Initiatives by the <strong>European Commission</strong> aim to strengthen intermodal transport infrastructure and drive investment in the sector.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge through this link.</p>
-<p>Your feedback would make us happy.</p>
-<p>We wish you happy reading.</p>

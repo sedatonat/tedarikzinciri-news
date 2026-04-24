@@ -22,8 +22,6 @@ tags:
 <p>FESCO Taşıma Grubu'nun, Rusya'nın Uzak Doğusunda yer alan Vladivostok'taki Ticari Limanı'ndaki Universal terminalinde blok trenlerin işlenme hızını artırdığı bildirildi. Yeni bir sahanın devreye alınması sayesinde, bir blok trenin işlenme süresi önceki süreye göre %36 azalarak 3 saat 40 dakikaya düştü. Bu iyileştirme, kullanılmayan eski bir depo alanının yerine yapılan yeni sahanın devreye alınması ile sağlandı.&nbsp;</p>
 <p><br></p>
 <p>Saha, konteyner yüklü kargoların işlenmesi için tam donanımlı hale getirilmiş olup, yeni beton zemin döşenmiştir. Bu modernizasyon sayesinde, Universal terminalindeki demiryolu uzunluğu 225 metreden 400 metreye çıkarıldı, bu da aynı anda 16 standart uyumlu platformun konumlandırılmasına olanak tanıyor.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar:</h5>
 <ul>
   <li><p>FESCO'nun Vladivostok'taki Universal terminalinde blok tren işleme hızı %36 artırıldı.</p></li>
@@ -33,5 +31,3 @@ tags:
   <li><p>Demiryolu uzunluğu 225 metreden 400 metreye çıkarıldı.</p></li>
   <li><p>Aynı anda 16 standart platformun konumlandırılmasına imkan sağlandı.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

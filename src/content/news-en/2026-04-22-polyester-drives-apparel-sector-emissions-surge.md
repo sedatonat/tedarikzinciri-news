@@ -27,8 +27,3 @@ tags: ['polyester', 'hazır giyim', 'karbon emisyonu', 'Apparel Impact Institute
 3. The apparel sector accounts for 2% of total global emissions.<br>
 4. <strong>Lewis Perkins</strong> (<strong>Aii</strong>) emphasizes that the industry is behind on its 2030 targets.<br>
 5. Fast-fashion demand growth and carbon-intensive polyester are the primary emission drivers.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[42340]</p>

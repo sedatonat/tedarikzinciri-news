@@ -23,8 +23,3 @@ tags: ["Khalifa Bin Salman Port", "Bahreyn", "APM Terminals", "operasyon askıya
 3. The suspension covers both berth and gate operations.<br>
 4. All gate appointments were cancelled and customers were told not to dispatch to the terminal.<br>
 5. The port serves as Bahrain's main commercial gateway handling containerised cargo.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

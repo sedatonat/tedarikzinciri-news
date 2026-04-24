@@ -35,8 +35,3 @@ tags:
 3. <strong>Trump</strong>&rsquo;ın %25 otomobil tarifesi; <strong>Japan</strong>&rsquo;ın ABD&rsquo;ye ana ihracatını vurmakta.<br>
 4. <strong>Bank of Japan</strong>; 2025 GDP büyüme tahminini %1,1&rsquo;den %0,5&rsquo;e düşürüyor.<br>
 5. <strong>Japan</strong>&rsquo;ın 2024 ihracatının %30&rsquo;u <strong>U.S.</strong>&rsquo;ye otomotiv oluyor &mdash; ana risk.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41740]</p>

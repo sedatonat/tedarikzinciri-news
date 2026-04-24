@@ -30,4 +30,3 @@ tags:
   <li><p>Birleşme, küresel lojistik kapasitelerini artırmayı amaçlıyor.</p></li>
   <li><p>Dikey yapılanma, müşteri sorunlarına çözüm geliştirme sürecini hızlandıracak.</p></li>
 </ul>
-<p><br></p>

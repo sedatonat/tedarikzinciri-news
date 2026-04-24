@@ -27,8 +27,3 @@ tags:
 3. Diego Aponte Grup Başkanı, Alexa Aponte Grup Finans Direktörü olarak görevini sürdürüyor.<br>
 4. Devrin amacı; uzun vadeli istikrarı ve sürdürülebilir büyümeyi güvence altına almak.<br>
 5. MSC, konteyner pazarının küresel lideri konumunu koruyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

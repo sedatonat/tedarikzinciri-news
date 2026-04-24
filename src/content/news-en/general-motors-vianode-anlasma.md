@@ -30,8 +30,6 @@ tags:
 <p style="text-align: justify">GM's Senior Vice President of Global Purchasing and Supply Chain, <strong>Jeff Morrison</strong>, stated that this project will help advance battery technologies and deliver greater value to customers. GM aims to establish a sustainable battery supply chain in North America through such strategic partnerships.</p>
 <p style="text-align: justify"><br></p>
 <p style="text-align: justify"><strong>Vianode</strong> has been producing anode graphite solutions at an industrial pilot facility in Kristiansand, Norway, since 2021. The company opened a Technology Center in the same city in 2022 and commenced operations at its first full-scale production facility in Herøya, Norway, in the second half of 2024. Vianode aims to supply advanced battery materials sufficient for 3 million electric vehicles annually by 2030.</p>
-<p style="text-align: justify"><br></p>
-<p style="text-align: justify"><br></p>
 <h5 style="text-align: justify"><strong>Key Highlights:</strong></h5>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify"><strong>General Motors</strong> has signed a multi-year, multi-billion dollar agreement with <strong>Vianode</strong> for synthetic anode graphite supply.</p></li>
@@ -41,13 +39,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">This agreement is part of GM's strategy to build a sustainable battery supply chain in North America.</p></li>
 </ul>
 <p style="text-align: justify"><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you happy reading.</p>
-<p><br></p>
-<p><br></p>

@@ -27,8 +27,3 @@ tags: ['Malaysia', 'ihracat', 'U.S. tarifesi', 'Bloomberg', 'Bank Muamalat', 'Mo
 3. The <strong>U.S.</strong> is imposing a 19% tariff — effective from August.<br>
 4. Electronics exports are growing 15%; exports to <strong>China</strong> and <strong>Taiwan</strong> are offsetting factors.<br>
 5. <strong>Mohd Afzanizam</strong> expects the impact to be more granular in 2026.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it free of charge via this link.</p>
-<p><br></p>
-<p>[43030]</p>

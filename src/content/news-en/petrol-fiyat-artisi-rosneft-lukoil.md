@@ -75,11 +75,6 @@ However, in the short term, this move has <strong>increased supply concerns in t
   <li><p>Over the medium term, <strong>a search for new equilibrium in global energy supply chains</strong> will begin.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a> You can download and read it for free via this link.</p>
+
 <p>If you have feedback, it will make us happy.</p>
 <p>Wishing you happy reading from the start.</p>

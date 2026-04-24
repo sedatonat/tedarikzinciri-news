@@ -24,8 +24,6 @@ tags:
 <p>SIA'nın çalışması, ABD'nin 2032 yılına kadar küresel kapasitenin %28'ini oluşturacak şekilde ileri düzey mantık çipleri üretim payını artıracağını öngörüyor. CHIPS Yasası'nın geçişinden önce ABD'nin bu alanda hiç payı yoktu.&nbsp;</p>
 <p><br></p>
 <p>Ayrıca, ABD'nin on yıllık süre zarfında yarı iletken fabrikasyon kapasitesini %203 oranında artırarak diğer ülkeler arasında en fazla artış gösteren ülke olacağı tahmin ediliyor. Son olarak, Biden yönetimi Micron Technology'ye New York ve Idaho'da yeni yarı iletken üretim tesisleri inşa etmek için 6.1 milyar dolar, Samsung'a ise Teksas'taki yeni yarı iletken tesisleri için 6.5 milyar dolar federal fon sağladığını duyurdu.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar</strong></h5>
 <ol>
   <li><p>ABD'nin yarı iletken üretim kapasitesinin 2022 ve 2032 arasında üç katına çıkması bekleniyor.</p></li>
@@ -35,5 +33,3 @@ tags:
   <li><p>Yarı iletken fabrikasyon kapasitesinde %203'lük bir artış ile ABD diğer ülkeler arasında lider konuma yükselecek.</p></li>
   <li><p>Biden yönetimi, Micron ve Samsung'a yeni tesisler için milyarlarca dolarlık fon sağladı.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

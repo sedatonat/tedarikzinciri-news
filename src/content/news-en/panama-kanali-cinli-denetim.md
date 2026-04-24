@@ -44,12 +44,5 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The <strong>Panama Canal</strong> is a critical nexus of global commerce, and the companies operating there have significant impacts on national security.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The audit's results could spark broader discussions about China's global investments and their geopolitical implications.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
 <p>We would be happy to receive your feedback.</p>
 <p>We wish you good reading in advance.</p>

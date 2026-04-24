@@ -57,14 +57,8 @@ It operates ports, terminals, industrial parks, and logistics services in <stron
   <li style="text-align: justify"><p style="text-align: justify">The <strong>Kenya Ports Authority (KPA)</strong> plans to reduce <strong>dwell time</strong> through digitalization of gate operations.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Mombasa will strengthen its position as <strong>a digital logistics hub for East and Central Africa</strong> through this system.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it free of charge via the link above.</p>
 <p>Your feedback would make us happy.</p>
 <p>Wishing you happy reading.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

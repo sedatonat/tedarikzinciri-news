@@ -34,12 +34,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Fiyat artışları, 20'lik ve 40'lık konteynerler için farklı oranlarda uygulanacak.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Artışın nedeni olarak artan operasyonel maliyetler ve küresel tedarik zincirindeki dalgalanmalar gösteriliyor.</p></li>
 </ul>
-<p style="text-align: justify"><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

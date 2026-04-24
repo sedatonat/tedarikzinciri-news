@@ -25,8 +25,3 @@ tags: ["FedEx", "UPS", "DHL Express", "tarife geri ödemesi", "CBP", "IEEPA", "g
 3. FedEx will file on behalf of all customers for whom it served as customs broker.<br>
 4. DHL will automatically file claims for eligible entries in the first rollout phase.<br>
 5. On the launch day, over 55,000 parties submitted claims for 4M+ imports.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

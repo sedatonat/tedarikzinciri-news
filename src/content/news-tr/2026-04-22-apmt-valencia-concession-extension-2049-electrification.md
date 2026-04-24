@@ -32,8 +32,3 @@ tags:
 3. Yatırımın merkezinde Levante Rıhtımı OPS elektrifikasyonu yer alıyor; toplam dört OPS ünitesi planlandı.<br>
 4. Plan, VPA'nın 2030 dekarbonizasyon hedefleri ve APM Terminals stratejisi ile uyumlu.<br>
 5. Levante Rıhtımı fenderleri büyük E-sınıfı Asya-Akdeniz gemilerine uyumlu hale getirilecek.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -30,8 +30,3 @@ tags:
 3. Avrupa rotası yüzde 3,1 düşerek 956 puana indi.<br>
 4. Doğu Akdeniz endeksi yüzde 8,1, Batı Akdeniz yüzde 0,6 geriledi.<br>
 5. Transpasifik rotalarda talep zayıflığı spot oranları aşağı çekti.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

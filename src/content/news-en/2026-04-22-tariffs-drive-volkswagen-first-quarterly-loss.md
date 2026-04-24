@@ -27,8 +27,3 @@ tags: ['Volkswagen', 'Trump', 'tarife', 'Porsche', 'EV', 'Arno Antlitz', 'otomot
 3. <strong>Porsche</strong>'s all-electric strategy reversal carries an additional $5.4 billion hit.<br>
 4. <strong>CFO Arno Antlitz</strong> announced the results on October 30.<br>
 5. This marks <strong>VW</strong>'s first quarterly loss in five years.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book is now published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[42760]</p>

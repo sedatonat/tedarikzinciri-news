@@ -28,9 +28,3 @@ tags: ['ABD', 'Filipinler', 'Luzon Ekonomik Koridoru', 'kritik mineraller', 'Ind
 3. The <strong>State Department</strong> characterizes it as a purpose-built platform for <strong>allied manufacturing</strong>.<br>
 4. <strong>Philippines</strong> is strategically positioned with reserves of <strong>nickel</strong>, <strong>copper</strong>, <strong>chromite</strong>, and <strong>cobalt</strong>.<br>
 5. It is valued as a geographic foothold for trade in the <strong>Indo-Pacific</strong>.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it free of charge through this link.</p>
-<p><br></p>
-<p>[43902]</p>

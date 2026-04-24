@@ -28,8 +28,3 @@ tags: ['Tesla', 'Model 3', 'NHTSA', 'Bloomberg', 'Kevin Clouse', 'otomotiv güve
 3. <strong>Kevin Clouse</strong> reported in 2023 via petition that he was trapped in his vehicle.<br>
 4. Investigation is reported by <strong>Bloomberg</strong>.<br>
 5. <strong>Tesla</strong>&rsquo;s <strong>flush handle</strong> design is under regulatory scrutiny.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it free of charge through this link.</p>
-<p><br></p>
-<p>[43050]</p>

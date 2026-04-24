@@ -23,8 +23,3 @@ tags: ["CMA CGM", "Biscay Körfezi", "Atlantik fırtınası", "FAL", "EPIC", "Ce
 3. Affected services: FAL, EPIC, US, EURAF, LATAM and SSL.<br>
 4. Navigation in the Bay of Biscay is expected to be disrupted for approximately 72 hours.<br>
 5. The event highlights that climate-driven extreme weather is a persistent supply chain risk in global container chains.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

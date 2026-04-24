@@ -35,8 +35,3 @@ tags:
 3. <strong>Adani Group</strong>; <strong>Haifa</strong> limanını 2023&rsquo;te 1,18 milyar USD&rsquo;ye satın alıyor.<br>
 4. <strong>Red Sea</strong> trafiği; <strong>Suez Canal</strong>&rsquo;dan %50+ azalıyor &mdash; <strong>Cape</strong> rotasına yöneliyor.<br>
 5. <strong>Lloyd&rsquo;s JWC</strong>; <strong>Red Sea</strong> ve <strong>Israel</strong> sularını &ldquo;<strong>Listed Areas</strong>&rdquo; olarak belirliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41840]</p>

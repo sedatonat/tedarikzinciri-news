@@ -44,12 +44,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Verity</strong>'nin drone'ları, depolarda 7/24 çalışabilme kapasitesine sahip olup, insan çalışanlarla birlikte güvenli bir şekilde faaliyet gösterebiliyor. ​<a href="https://www.theverge.com/2024/8/16/24221688/ikea-drones-us-warehouse" rel="noopener" target="_blank">theverge.com</a></p></li>
   <li style="text-align: justify"><p style="text-align: justify">Bu pilot proje, otonom drone'lar ve RFID teknolojisinin depo envanter yönetiminde nasıl devrim yaratabileceğini gösteriyor ve gelecekte depo operasyonlarının daha verimli, güvenilir ve esnek olmasına katkı sağlıyordır.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

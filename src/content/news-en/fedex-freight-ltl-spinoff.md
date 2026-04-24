@@ -41,11 +41,6 @@ tags:
   <li><p>The transition process is of critical importance for employees, the supply chain, and customers.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Acquire an ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through the link above.</p>
+
 <p>We would be happy to receive your feedback.</p>
 <p>We wish you happy reading in advance.</p>

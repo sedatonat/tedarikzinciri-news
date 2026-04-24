@@ -34,8 +34,6 @@ tags:
   <li><p>Düzenleyici Zorluklar ve Maliyet&nbsp;</p></li>
   <li><p>Karmaşıklık.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
   <li><p>GenAI, tedarik zinciri yönetiminde dönüştürücü potansiyele sahip.</p></li>
@@ -44,5 +42,3 @@ tags:
   <li><p>AI, planlama, kaynak, üretim ve daha pek çok alanda değer sunuyor.</p></li>
   <li><p>Maliyet ve düzenleyici uyum, uygulamanın önündeki engeller arasında.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

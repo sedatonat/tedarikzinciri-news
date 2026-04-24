@@ -29,4 +29,3 @@ tags:
   <li><p>Sistem, Breitling'in global envanterini gerçek zamanlı olarak yönetmesini sağladı.</p></li>
   <li><p>Gelecekte Avrupa ve Çin pazarlarına yayılma planları var.</p></li>
 </ol>
-<p><br></p>

@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Beyond the challenge of completing projects already in motion, many U.S. manufacturers were frozen in place. But in 2026, something critical has changed: <em>predictability</em> has returned. Most major trade positions are now set. Emergency measures are giving way to established mechanisms such as new reporting around <strong>Section 232</strong> of the Federal Trade Expansion Act — the 1962 law that grants presidential authority to adjust tariffs to protect national security.</p>
 <p><br></p>
 <p style="text-align: justify">This reporting brings deeper transparency and accuracy about all sourcing decisions. From a supply chain perspective, the environment is enabling <em>nearshoring</em>, <em>reshoring</em> and <em>friend-shoring</em> decisions to consolidate into a multi-year capital investment wave. CFOs can build more confident scenarios on total landed cost (TLC) and capital payback periods, which in turn opens the door to new factory builds, automation programs and workforce development initiatives.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43323]</p>

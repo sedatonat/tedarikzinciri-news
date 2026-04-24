@@ -22,8 +22,3 @@ tags: ["Sheremetyevo", "seafood import", "Federal Customs Service", "UAE", "Egyp
 3. The assortment includes lobsters, crabs, shrimps, scallops, and oysters.<br>
 4. Major suppliers: United Arab Emirates, Egypt, Sri Lanka, and Indonesia.<br>
 5. Perishable products are customs cleared on priority in short terms.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

@@ -27,4 +27,4 @@ tags:
   <li><p>Large firms such as Walmart, Maersk, and Google have successfully adopted procurement management software.</p></li>
   <li><p>Distrust of digital transformation roadmaps and talent shortages among procurement professionals are among the key challenges.</p></li>
   <li><p>Remko van Hoek is focused on developing future leaders in the procurement field.</p></li>
-</ul>\n<p><br></p>\n<p>---</p>\n<p><br></p>\n\n<p><br></p>\n<p>-------------------</p>\n<p><strong>!!! ANNOUNCEMENT !!!</strong></p>\n<p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>\n<p>#What is ERP?</p>\n<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via this link.</p>\n<p>Your feedback would make us happy.</p>\n<p>Wishing you happy reading in advance.</p>
+</ul>\n<p><br></p>\n<p>---</p>\n<p><br></p>\n\n<p><br></p>\n<p>-------------------</p>\n\n<p>Your feedback would make us happy.</p>\n<p>Wishing you happy reading in advance.</p>

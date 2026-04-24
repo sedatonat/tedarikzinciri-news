@@ -37,13 +37,3 @@ tags:
   <li><p>Binding rulings serve as reference.</p></li>
   <li><p>Error and cycle time are reduced.</p></li>
 </ul>
-<p>----------</p>
-<p>----------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" rel="noopener" target="_new"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge through this link.</p>
-<p>We would be pleased to receive your feedback.</p>
-<p>We wish you happy reading.</p>
-<p><br></p>
-<p>[875]</p>

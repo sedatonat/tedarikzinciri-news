@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Panama bayrağı altında seyreden <strong>Veronica III</strong>, Hazine Bakanlığı'nın Yabancı Varlıkları Kontrol Ofisi'ne (OFAC) göre <strong>İran</strong> ile ilgili ABD yaptırımlarına tabi oldu. ABD, Aralık'ta Trump yönetiminin enerji karantinası olarak tanımladığı uygulamayı başlattı; donanma filosunu Venezuela'nın petrol ihracatını kesmek üzere konuşlandırdı ve yaptırımlı petrol gemilerine el koydu. Bu abluka, Nicolas Maduro'nun iktidardan uzaklaştırılması için 3 Ocak'ta gerçekleştirilen askeri operasyondan sonra dahi sürdü.</p>
 <p><br></p>
 <p style="text-align: justify">Müdahale, aynı su kütlesinde yaşanan kedi-fare kovalamacasının ardından gerçekleşti. Tedarik zinciri perspektifinden bakıldığında bu olay, <strong>shadow fleet</strong> tankerlerinin operasyonel risk profilini yapısal olarak değiştirdi; <strong>P&I Club</strong> kapsamı dışında kalan gemilerin yenilenmiş ABD «sınırsız menzil» izleme stratejisine maruz kaldığını gösterdi. <strong>BIMCO</strong> ve <strong>INTERTANKO</strong>, üyelerine <strong>OFAC</strong> uyum kontrol listesini güncellemeleri konusunda uyarı yayımladı. <strong>Vitol</strong>, <strong>Trafigura</strong> ve <strong>Glencore</strong> gibi büyük emtia trader'ları, yaptırımlı yük taşıma riskini sıfır toleransla yönetmek zorunda kaldı.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43482]</p>

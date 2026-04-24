@@ -21,8 +21,3 @@ tags: ["VFPA", "GCT Global Container Terminals", "Roberts Bank Terminal 2", "RBT
 3. VFPA continues leading development; GCT withdraws its Major Projects Office application.<br>
 4. RBT2 is critical to expanding container capacity, resilience and trade growth.<br>
 5. The agreement frames the delivery model for one of Canada's largest planned container terminals.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

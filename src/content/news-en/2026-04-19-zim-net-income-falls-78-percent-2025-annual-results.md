@@ -23,8 +23,3 @@ tags: ["ZIM", "konteyner taşımacılığı", "yıllık sonuçlar", "navlun oran
 3. The company carried 3.66 million TEUs at an average freight rate of $1,551 per TEU.<br>
 4. Year-end net debt stood at $2.92 billion with a 1.3x leverage ratio.<br>
 5. ZIM signed 22 newbuild charter agreements to maintain a modern fleet.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

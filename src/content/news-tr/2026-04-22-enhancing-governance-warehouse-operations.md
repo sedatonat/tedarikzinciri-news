@@ -35,8 +35,3 @@ tags:
 3. Manuel planlama; zayıf görünürlük; yapılandırılmamış iş akışları; ana darboğazlar oluyor.<br>
 4. Gerçek zamanlı veri; yapay zeka entegrasyonu; ana orkestrasyon yetkinlikleri oluyor.<br>
 5. <strong>OSHA</strong>; <strong>FDA</strong>; <strong>SOX</strong>; ana ABD düzenleyici çerçeveleri oluyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[41680]</p>

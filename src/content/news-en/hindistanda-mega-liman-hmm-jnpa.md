@@ -38,12 +38,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The project cost is estimated at approximately 76,220 crore ₹ and will be executed by <strong>Vadhavan Port Project Limited (VPPL)</strong>.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The port will have the capacity to accommodate ultra-large container vessels and aims to enhance India's maritime transport capacity.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain an ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free via this link.</p>
-<p>Your feedback will make us happy.</p>
-<p>We wish you happy reading.</p>

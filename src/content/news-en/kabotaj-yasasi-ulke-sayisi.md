@@ -91,12 +91,4 @@ This figure is viewed not merely as an indicator of <strong>economic protectioni
   <li style="text-align: justify"><p style="text-align: justify">Global trend: <strong>Strengthening maritime sovereignty in response to geopolitical instability.</strong></p></li>
   <li style="text-align: justify"><p style="text-align: justify">Experts foresee cabotage becoming <strong>as critical as strategic infrastructure security</strong> in the future.</p></li>
 </ul>
-<p><br></p>
-<p>----------</p>
-<p>--------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it free of charge via this link.</p>
-<p>We would be delighted to hear your feedback.</p>
 <p>Wishing you happy reading in advance.</p>

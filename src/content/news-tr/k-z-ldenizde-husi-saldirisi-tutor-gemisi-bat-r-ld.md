@@ -38,14 +38,3 @@ tags:
   <li><p>ABD ve İngiltere'nin Yemen'deki bölgelere düzenlediği saldırılar sonrası Husi güçleri, bu ülkelerin tüm gemilerini hedef alacaklarını açıkladı.</p></li>
   <li><p>Kızıldeniz'deki deniz ticareti, Husi saldırıları nedeniyle büyük ölçüde aksadı ve birçok gemicilik şirketi operasyonlarını durdurdu.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

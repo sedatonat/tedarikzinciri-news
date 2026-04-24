@@ -28,11 +28,5 @@ tags: ['yapay zeka çipleri', 'tarife', 'Trump', 'Nvidia', 'AMD', 'yarı iletken
 3. The <strong>US</strong> manufactures only approximately 10% of the chips it requires.<br>
 4. <strong>Trump</strong>'s initial threat of a 100% tariff in August 2025 has been scaled back.<br>
 5. The exemption mechanism allowing a 25% share from <strong>Nvidia</strong>'s <strong>China</strong> sales is preserved.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Choose an ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via the link above.</p>
 <p>We would be delighted to receive your feedback.</p>
 <p>Wishing you good reading ahead.</p>
-<p><br></p>
-<p>[43215]</p>

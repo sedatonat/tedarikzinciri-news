@@ -27,8 +27,3 @@ tags: ['drone', 'BVLOS', 'Network Rail', 'CAA', 'Drone Major', 'demiryolu', 'gü
 3. <strong>Network Rail</strong> partners as pilot operator.<br>
 4. Drones detect unauthorized incursions to reduce train delays.<br>
 5. Energy, defense, and border management represent next-phase application areas.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via the link.</p>
-<p><br></p>
-<p>[41970]</p>

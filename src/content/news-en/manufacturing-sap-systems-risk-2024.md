@@ -37,4 +37,3 @@ tags:
   <li><p>Manufacturers must strengthen their defenses against cyberattacks by modernizing their SAP systems.</p></li>
   <li><p>Automated security processes and continuous threat intelligence are critical to ensuring the security of ERP systems.</p></li>
 </ol>
-<p><br></p>

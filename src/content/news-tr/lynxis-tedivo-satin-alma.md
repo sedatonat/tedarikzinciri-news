@@ -37,12 +37,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Vessel Designer</strong> ve <strong>Library</strong> ürünleri, açık kaynaklı JSON formatıyla gemi tanımları oluşturup paylaşmaya olanak tanıyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Lynxis</strong> ve <strong>TEDIVO</strong> arasındaki entegrasyon, müşterilere hızlı ve yenilikçi çözümler sunmayı amaçlıyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

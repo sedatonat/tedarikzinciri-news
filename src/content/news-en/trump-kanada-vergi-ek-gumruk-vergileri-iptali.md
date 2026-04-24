@@ -43,12 +43,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>The European Union</strong> will impose retaliatory tariffs on U.S. products valued at 28 billion dollars in response to U.S. tariffs.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Economists have warned that such tariffs could trigger global trade wars and cause stagnation in the world economy.</p></li>
 </ul>
-<p style="text-align: justify"><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Get ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free through this link.</p>
-<p>We would be happy to receive your feedback.</p>
-<p>We wish you happy reading.</p>

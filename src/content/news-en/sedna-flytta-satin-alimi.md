@@ -44,11 +44,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Sedna</strong> plans to launch new artificial intelligence-powered workflows such as <strong>Noon Report Analysis Automation</strong>.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>Our book "How to Procure ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
+
 <p>We would be delighted to receive your feedback.</p>
 <p>We wish you good reading.</p>

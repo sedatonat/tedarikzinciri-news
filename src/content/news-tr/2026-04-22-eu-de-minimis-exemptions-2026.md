@@ -35,8 +35,3 @@ tags:
 3. 2024&rsquo;te 4,6 milyar düşük değerli paket gönderildi; %90&rsquo;dan fazlası <strong>China</strong>&rsquo;dan geldi.<br>
 4. <strong>Shein</strong> ve <strong>Temu</strong>, doğrudan hedef alınan iş modelleri olarak öne çıkıyor.<br>
 5. <strong>U.S.</strong>, 2 Mayıs 2025&rsquo;te tüm ülkelerden gelen sevkiyatlar için <strong>de minimis</strong>&rsquo;i sona erdirdi.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42860]</p>

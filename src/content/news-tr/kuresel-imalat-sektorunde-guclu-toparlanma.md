@@ -33,4 +33,3 @@ tags:
   <li><p>Yarı iletken sektörü, özellikle Güney Asya'da olumlu gelişmeler gösteriyor.</p></li>
   <li><p>Tüketici harcamaları ve Covid sonrası tedarik zinciri sorunlarında iyileşme sinyalleri var.</p></li>
 </ul>
-<p><br></p>

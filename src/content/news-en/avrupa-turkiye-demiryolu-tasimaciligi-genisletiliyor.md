@@ -30,4 +30,3 @@ tags:
   <li><p>Rail transport reduces CO2 emissions by 75 percent compared to truck transport.</p></li>
   <li><p>Approximately 14 percent of the company's 1.9 million vehicles transported annually are handled via rail.</p></li>
 </ul>
-<p><br></p>

@@ -35,8 +35,3 @@ tags:
 3. <strong>Dolce &amp; Gabbana</strong>; <strong>Versace</strong>; <strong>Prada</strong>; <strong>Gucci</strong>; <strong>Adidas Italy</strong>; soruşturmaya dahil ediliyor.<br>
 4. <strong>Çinli</strong> işçilere ağır sömürü; mesai/ücret/konut/güvenlik konularında oluyor.<br>
 5. <strong>Tod's</strong>; tüm suistimali reddediyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42940]</p>

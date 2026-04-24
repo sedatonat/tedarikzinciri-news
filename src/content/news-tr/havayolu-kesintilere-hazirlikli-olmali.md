@@ -28,4 +28,3 @@ tags:
   <li><p><strong>Siber Güvenlik:</strong> Tasarı, IT sistemlerinin güvenliği ve siber tehditlere karşı korunmasını içeriyor.</p></li>
   <li><p><strong>Havayolu Şirketleri:</strong> Şirketlerin bu olayların etkilerini en aza indirmek için strateji geliştirmesi gerekiyor.</p></li>
 </ol>
-<p><br></p>

@@ -27,8 +27,3 @@ tags: ['yumurta', 'Türkiye', 'HPAI', 'ithalat', 'gıda güvenliği', 'USDA', 'C
 3. The <strong>HPAI</strong> crisis has resulted in the loss of 168 million-plus poultry.<br>
 4. <strong>Cal-Maine</strong> and <strong>Rose Acre</strong> are leading US egg producers.<br>
 5. <strong>BLS</strong> reported a record price of 8.05 dollars per dozen eggs in February 2025.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our book has been published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[41260]</p>

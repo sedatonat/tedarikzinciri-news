@@ -33,4 +33,3 @@ tags:
   <li><p>Platform, işbirliği odaklı tasarımı ile veri merkezileştirme, iletişim ve risk azaltma işlevlerini geliştiriyor.</p></li>
   <li><p>Büyük hükümet ve ticari kuruluşlar tarafından kullanılıyor.</p></li>
 </ol>
-<p><br></p>

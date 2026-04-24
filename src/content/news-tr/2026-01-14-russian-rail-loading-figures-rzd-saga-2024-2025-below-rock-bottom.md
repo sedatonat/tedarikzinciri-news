@@ -27,8 +27,3 @@ tags:
 3. Rus vagon filosu yaşlandı; onda birinden fazla vagon kullanım dışı.<br>
 4. Uzak Doğu koridorları (Vladivostok, Nakhodka) kömür ihracatı için yeniden önem kazanıyor.<br>
 5. RZD 2026 Q1'de dibin arkasında bırakılacağını öngörüyor ama bağımsız analistler temkinli.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

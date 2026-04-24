@@ -33,12 +33,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Trump</strong> yönetimi, <strong>Panama Kanalı</strong> çevresindeki Çin yatırımlarını ulusal güvenlik tehdidi olarak görüyorydi.​<a href="https://www.investopedia.com/blackrock-leads-consortium-buying-panama-canal-ports-for-nearly-usd23b-11690345" rel="noopener" target="_blank">investopedia.com</a></p></li>
   <li style="text-align: justify"><p style="text-align: justify">Başkan <strong>Donald Trump</strong>, göreve başlama konuşmasında, <strong>Panama Kanalı</strong>'nı geri alma niyetini ifade etmişti.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

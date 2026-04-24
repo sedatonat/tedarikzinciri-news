@@ -38,13 +38,3 @@ tags:
   <li><p>Automated screening and compliance platforms are being deployed.</p></li>
   <li><p>Friend-shoring and OSAT investments are accelerating.</p></li>
 </ul>
-<p>----------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>----------</strong></p>
-<p><strong>How to Purchase an ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>
-<p><br></p>
-<p>[924]</p>

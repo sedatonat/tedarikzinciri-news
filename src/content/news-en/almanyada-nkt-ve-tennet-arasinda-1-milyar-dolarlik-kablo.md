@@ -48,12 +48,3 @@ tags:
   <li><p>NKT is reinforcing its leading position in the high-voltage cable market through such strategic projects.</p></li>
   <li><p>The partnership with TenneT contributes to Europe's energy transition objectives and enhances energy supply security.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>Wishing you happy reading.</p>

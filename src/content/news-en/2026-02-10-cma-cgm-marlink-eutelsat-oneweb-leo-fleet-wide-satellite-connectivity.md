@@ -23,8 +23,3 @@ tags: ["CMA CGM", "Marlink", "Eutelsat", "OneWeb", "LEO", "uydu bağlantısı", 
 3. The architecture provides high resilience, high throughput and low latency.<br>
 4. The system supports decarbonisation goals through real-time optimisation of routes, speeds and fuel consumption.<br>
 5. The edge cloud platform provides the backbone for predictive maintenance, digital twin and AI route optimisation.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

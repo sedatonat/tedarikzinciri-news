@@ -24,8 +24,6 @@ tags:
 <p>Guy, dünya ticaretinde önemli bir yer tutan konşimentoların halen %90'ının kağıt üzerinde düzenlenmesinin şaşırtıcı olduğunu belirtmiş, eBL'lerin ekosistemde 30 ila 40 milyar dolar arasında bir kazanç sağlayabileceğini ifade etti.&nbsp;</p>
 <p><br></p>
 <p>Ayrıca, elektronik konşimentoların, geleneksel kağıt süreçlerinin aksine, kaybolma riskini ortadan kaldırdığı ve işlemleri hızlandırdığı için tercih edilmesi gerektiğini savundu. Cyber güvenlik endişelerine de değinen Guy, elektronik ortamda gerçekleşebilecek dolandırıcılıkların kağıt süreçlerine kıyasla daha az risk taşıdığını, çünkü sektörün bu tür tehditlere karşı önlemler geliştirdiğini ve sürekli olarak iyileştirdiğini belirtti.</p>
-<p><br></p>
-<p><br></p>
 <h5>Önemli Notlar</h5>
 <ol>
   <li><p>eBL'lerin denizcilik sektöründe potansiyel olarak 30-40 milyar dolar kazanç sağlayabileceği.</p></li>
@@ -33,4 +31,3 @@ tags:
   <li><p>Elektronik konşimentoların kaybolma riskini ortadan kaldırması ve işlemleri hızlandırması.</p></li>
   <li><p>Cyber güvenlik endişelerinin kağıt süreçlerine kıyasla daha az risk taşıması.</p></li>
 </ol>
-<p><br></p>

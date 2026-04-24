@@ -27,4 +27,3 @@ tags:
   <li><p>Autonomous forklifts utilize AI-powered machine vision.</p></li>
   <li><p>Automation spans a broad range of storage and retrieval operations.</p></li>
 </ol>
-<p><br></p>

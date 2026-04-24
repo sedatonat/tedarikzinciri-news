@@ -40,11 +40,6 @@ tags:
   <li><p>Contract negotiations between <strong>ILA</strong> and <strong>USMX</strong> will resume in January 2025.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via the link above.</p>
+
 <p>Your feedback will make us happy.</p>
 <p>We wish you good reading in advance.</p>

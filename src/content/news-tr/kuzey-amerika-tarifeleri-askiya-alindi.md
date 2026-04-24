@@ -34,12 +34,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Çin</strong>, ABD'nin %10'luk tarifesine karşılık olarak, kömür ve sıvılaştırılmış doğal gaz gibi Amerikan mallarına %15, ham petrol ve tarım makinelerine %10 oranında tarife uygulayacağını duyurdu.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Denizcilik uzmanı Lars Jensen</strong>, nakliyecilerin 30 günlük süre zarfında mümkün olduğunca fazla kargo taşımaya çalışacaklarını belirtti.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

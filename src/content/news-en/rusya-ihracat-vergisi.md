@@ -41,12 +41,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Export duties are considered part of Russia's strategy to increase self-sufficiency in its agricultural sector.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">The effects of such measures on international trade and global markets should be monitored.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge through this link.</p>
-<p>Your feedback will make us happy.</p>
-<p>We wish you happy reading.</p>

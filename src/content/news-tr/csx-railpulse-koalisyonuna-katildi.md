@@ -28,4 +28,3 @@ tags:
   <li><p>Hedefler arasında sektör genelinde bir telematik altyapısı kurmak ve veriye dayalı dönüşüm sağlamak bulunuyor.</p></li>
   <li><p>CSX, koalisyonun dördüncü büyük demiryolu şirketi ve toplamda on birinci üyesi oldu.</p></li>
 </ul>
-<p><br></p>

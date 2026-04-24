@@ -22,8 +22,3 @@ tags: ["INFORM", "YMSlite", "yard management system", "cloud", "3PL", "distribut
 3. YMSlite is positioned as a lighter solution for sites wanting to digitise yard processes without a full enterprise platform.<br>
 4. Features include licence plate recognition, a driver mobile app, yard mapping, and real-time notifications.<br>
 5. The cloud-based architecture reduces implementation time and IT infrastructure investment.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

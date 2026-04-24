@@ -31,8 +31,3 @@ tags:
 3. 4,4 MWh kapasiteli pil sistemi 15 yıllık ömür için tasarlandı.<br>
 4. Sistem 30.000 şarj-deşarj döngüsünü orta-ömür değişim olmadan garantiliyor.<br>
 5. Ripley Group ihaleyi kazandı; Kongsberg Maritime sistem entegratörü olarak görev alacak.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

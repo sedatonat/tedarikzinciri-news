@@ -32,8 +32,3 @@ tags:
 3. CIS3 rotasyonu Xiamen, Nansha, Jakarta, Surabaya ve Yantian uğraklarını kapsadı.<br>
 4. Premier Alliance üyesi OOCL; intra-Asya feeder kapasitesini güçlendirme stratejisini sürdürüyor.<br>
 5. Yeni servis Tanjung Priok ve Tanjung Perak terminallerinde haftalık kapasite ekledi.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -35,8 +35,3 @@ tags:
 3. 11 milyar dolar; mısır/pamuk/yer fıstığı/sorgum/soya/buğday/kanola; 1 milyar diğer.<br>
 4. <strong>One Big Beautiful Bill</strong>; ek destek sağlıyor.<br>
 5. <strong>Helen Atkinson</strong>; <strong>SupplyChainBrain</strong> <strong>Managing Editor</strong> olarak konuyu işliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[42960]</p>

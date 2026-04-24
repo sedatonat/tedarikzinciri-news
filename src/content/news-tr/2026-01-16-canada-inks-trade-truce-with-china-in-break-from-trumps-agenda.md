@@ -28,8 +28,3 @@ tags:
 <p style="text-align: justify">Şanghay'daki Doğu Çin Normal Üniversitesi'nde uluslararası ilişkiler profesörü Josef Gregory Mahoney; «Bu Kanada için gerçek bir yön değişikliğine işaret ediyor ise; sadece bir başka tepkisel ileri-geri salınım değilse; bunu olası bir dönüm noktası olarak kabul etmemiz gerekiyor» yorumunu yaptı. Anlaşmanın merkezinde tarife tavizleri yer alıyor. Carney; kanola tarifelerinin 1 Mart'a kadar yüzde 85'ten birleşik yaklaşık yüzde 15'e düşmesini bekliyor ve «bunun gerçekleşeceğine yüksek düzeyde güvendiğini» belirtti.</p>
 <p><br></p>
 <p style="text-align: justify">Açıklamanın ardından New York'taki kanola vadeli işlemleri yüzde 2,6 artışla Aralık başından bu yana en yüksek seviyesine ulaştı. Tedarik zinciri perspektifinden bakıldığında bu anlaşma; Kuzey Amerika tarım ve otomotiv tedarik zincirlerinde Kanada'yı <strong>USMCA</strong> çerçevesinin yanında alternatif bir köprü konumuna yerleştiriyor. <strong>BYD</strong>, <strong>NIO</strong>, <strong>Geely</strong> ve <strong>Chery</strong> gibi Çinli EV üreticilerinin Kanada pazarına yumuşak girişi; <strong>Ford</strong>, <strong>GM</strong> ve <strong>Stellantis</strong>'in Ontario tabanlı üretim planlarında rekabet baskısını yapısal olarak artırıyor.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43257]</p>

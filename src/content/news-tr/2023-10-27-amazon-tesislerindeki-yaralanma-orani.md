@@ -22,4 +22,3 @@ tags:
 <p>42 eyalette bulunan 451 tesisteki 1,484 depo işçisinin katıldığı anketlere dayanan bu çalışma, işçilerin %69'unun iyileşmek için ücretsiz izin aldığını ve bunların %34'ünün bunu üç veya daha fazla kez yaptığını buldu.&nbsp;</p>
 <p><br></p>
 <p>Bu, Amazon'daki işyeri yaralanmalarının ve ağrılarının daha önce bilinenden daha yaygın olduğunu gösteriyor. Amazon'un talepkar çalışma temposunun bu sorunlara katkıda bulunduğu düşünülüyor.</p>
-<p><br></p>

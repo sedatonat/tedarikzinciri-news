@@ -27,8 +27,3 @@ tags: ['DHL Express Canada', 'Unifor', 'grev', 'lokavt', 'replacement worker', '
 3. <strong>Bill C-58</strong> federal replacement worker ban takes effect the same day.<br>
 4. <strong>Lululemon</strong>, <strong>Shein</strong>, and <strong>Siemens</strong> are major affected <strong>DHL Canada</strong> customers.<br>
 5. Bargaining priorities include wages, working conditions, surveillance, and automation.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Obtain ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free via this link.</p>
-<p><br></p>
-<p>[42020]</p>

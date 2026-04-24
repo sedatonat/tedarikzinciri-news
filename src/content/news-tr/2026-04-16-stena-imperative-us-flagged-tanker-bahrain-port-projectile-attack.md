@@ -30,8 +30,3 @@ tags:
 3. Olay, çatışma başladığından beri ABD bayraklı bir gemiye yönelik ilk bilinen saldırı.<br>
 4. Daha önce Körfez'de Skylight, Mkd Vyom ve Sea La Donna isimli üç gemi de hedef alınmıştı.<br>
 5. Stena Imperative, ABD Tanker Güvenlik Programı kapsamında silahlı kuvvetlere yakıt sağlıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

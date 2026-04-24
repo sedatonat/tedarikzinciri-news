@@ -33,5 +33,3 @@ tags:
   <li><p>RoadieXD, 200 pound'a kadar ve 12 feet uzunluğa kadar ürünler için geçerli.</p></li>
   <li><p>Bu hizmet, geleneksel taşıyıcıların zorlandığı büyük, hacimli eşyalar için tasarlanmış.</p></li>
 </ol>
-<p><br></p>
-<p><br></p>

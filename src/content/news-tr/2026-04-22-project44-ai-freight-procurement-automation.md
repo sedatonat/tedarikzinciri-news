@@ -36,8 +36,3 @@ tags:
 3. Mini-bid&rsquo;ler ve yenileme müzakereleri; guardrail&rsquo;ler içinde otomatikleştirilmekte.<br>
 4. <strong>Jett McCandless</strong>; <strong>freight procurement</strong>&rsquo;ı en büyük kontrol edilebiliyor olunan maliyet sürücüsü olarak nitelendiriyor.<br>
 5. Otonom eylem; tam kontrol koruması ile dengeleniyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
-<p>[43617]</p>

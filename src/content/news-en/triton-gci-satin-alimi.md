@@ -50,12 +50,5 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">The acquisition serves as an example for other companies in the sector.​</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Global commerce dynamics increase the importance of such strategic moves.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it free of charge via this link.</p>
 <p>Your feedback would make us happy.</p>
 <p>We wish you happy reading from the start.</p>

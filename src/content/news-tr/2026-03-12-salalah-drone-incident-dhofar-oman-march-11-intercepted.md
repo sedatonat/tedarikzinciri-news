@@ -27,8 +27,3 @@ tags:
 3. Üçüncü drone liman alanı yakınında düştü; can kaybı ve hasar yaşanmadı.<br>
 4. Aynı günde Hürmüz Boğazı yakınlarında gemi saldırıları raporlandı.<br>
 5. UK Maritime Trade Operations (UKMTO); Körfez sularında gemilere artan tetikte olma çağrısı yaptı.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

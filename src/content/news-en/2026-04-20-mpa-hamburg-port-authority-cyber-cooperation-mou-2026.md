@@ -25,8 +25,3 @@ tags: ["MPA Singapore", "Hamburg Port Authority", "cybersecurity", "ship-shore c
 3. Cooperation covers cybersecurity for unmanned surface vessels and remote ship operations.<br>
 4. MoU builds on a 2024 letter of intent covering digitalisation and decarbonisation.<br>
 5. The agreement aims to develop a joint defence standard for ship-shore connectivity and port platforms.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

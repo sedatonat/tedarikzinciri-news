@@ -21,8 +21,3 @@ tags: ["Port of Long Beach", "Sully-Miller", "heavy haul", "infrastructure", "Pi
 3. The project will widen and realign the corridor to Anaheim Street, removing a key pinch point.<br>
 4. The work is coordinated with the broader Pier B On-Dock Rail Support Facility project.<br>
 5. Oversized permit volumes are expected to grow as renewable energy and EV infrastructure investment accelerates.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

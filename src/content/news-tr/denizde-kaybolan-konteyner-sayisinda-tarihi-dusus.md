@@ -40,4 +40,3 @@ tags:
   <li><p>Marin TopTier Ortak Endüstri Projesi, konteyner kayıplarını önleme yolları üzerinde çalışıyor.</p></li>
   <li><p>TopTier grubu yıl sonunda nihai raporunu yayınlayacak.</p></li>
 </ol>
-<p><br></p>

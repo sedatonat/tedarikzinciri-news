@@ -37,13 +37,6 @@ tags:
   <li><p>Fiber and power grid strengthening are required.</p></li>
   <li><p>Water stewardship and waste heat recovery are being evaluated.</p></li>
 </ul>
-<p>--------</p>
-<p>--------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP?</strong> Our book has been published on Google Play Books.</p>
-<p><strong>#What is ERP?</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" rel="noopener" target="_new">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free through the link above.</p>
+
 <p>We would be delighted to hear your feedback.</p>
 <p>Wishing you good reading.</p>
-<p><br></p>
-<p>[848]</p>

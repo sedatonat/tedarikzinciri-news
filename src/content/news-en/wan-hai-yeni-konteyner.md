@@ -56,14 +56,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Average unit cost: <strong>2,395 USD</strong></p></li>
   <li style="text-align: justify"><p style="text-align: justify">The investment is part of Wan Hai's capacity expansion and equipment renewal strategy.</p></li>
 </ul>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Acquire ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free from the link above.</p>
-<p>Your feedback would make us happy.</p>
-<p>We wish you happy reading.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

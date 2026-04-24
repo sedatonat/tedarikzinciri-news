@@ -17,4 +17,3 @@ tags:
 - warehouse safety
 ---
 <p>A fire has broken out at a logistics warehouse in Kocaeli. The blaze continues at the facility, which contains chemical materials. There have been no reported casualties.</p>
-<p><br></p>

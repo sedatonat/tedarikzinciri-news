@@ -37,8 +37,6 @@ tags:
 <p style="text-align: justify">Softeon CEO <strong>Jim Hoefflin</strong> noted that customers have long demanded more advanced AI capabilities, seamless integration with robotic systems, and stronger connectivity between warehouse operations and broader supply chain processes. The agreement with IFS is expected to increase Softeon's innovation velocity while preserving its domain expertise and customer-centric approach.</p>
 <p><br></p>
 <p style="text-align: justify">In broader terms, this acquisition demonstrates that warehouse management software is transitioning from conventional inventory and task-tracking tools to <strong>intelligent, autonomous, and production-integrated operation platforms</strong>. The IFS-Softeon combination provides a compelling example of how Industrial AI, robotic integration, and software architecture are reshaping supply chain operations.</p>
-<p><br></p>
-<p style="text-align: justify"><br></p>
 <h3 style="text-align: justify"><strong>Key Takeaways</strong></h3>
 <ul>
   <li style="text-align: justify"><p style="text-align: justify">IFS has agreed to acquire Softeon, which provides cloud-based WMS, WES, and DOM solutions.</p></li>
@@ -48,14 +46,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Softeon's enterprise customer base brings operational depth to IFS's portfolio.</p></li>
 </ul>
 <p><br></p>
-<p>----------</p>
-<p>--------------------</p>
+
+
 <p><strong>Author: </strong><a href="http://sedatonat.com/"><u>SedatOnat.com</u></a></p>
-<p>--------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>Our book "How to Buy ERP?" has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a>&nbsp;You can download and read it free of charge via the link above.</p>
-<p>We would be delighted to hear your feedback.</p>
 <p>We wish you happy reading.</p>
-<p><a href="https://www.tedarikzinciriportali.com/"><u>https://www.tedarikzinciriportali.com/</u></a></p>

@@ -23,8 +23,3 @@ tags: ["Maersk", "AE1", "Asya-Avrupa", "Anvers", "Gemini Cooperation", "Hamburg 
 3. The first westbound sailing will be operated by Hamburg Express, departing Shanghai on 6 March 2026.<br>
 4. Adding Antwerp delivers new hinterland options for shippers along the Belgium–Netherlands axis.<br>
 5. The move supports the Gemini Cooperation schedule reliability objective.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

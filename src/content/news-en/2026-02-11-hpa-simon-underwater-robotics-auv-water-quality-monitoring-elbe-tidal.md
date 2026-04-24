@@ -23,8 +23,3 @@ tags: ["Hamburg Port Authority", "SIMON", "AUV", "sualtı robotik", "Elbe", "su 
 3. Autonomous underwater vehicles will measure suspended solids, oxygen, algae and oil residues in the Elbe.<br>
 4. Collected data will be integrated into operational platforms to support decision-making.<br>
 5. The approach offers a scalable model for smart environmental protection at European ports.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

@@ -38,5 +38,3 @@ tags:
   <li><p>The Biden administration announced a $20 billion investment to strengthen port infrastructure.</p></li>
   <li><p>The <a href="https://ustr.gov/"><u>USTR</u></a> will decide whether to launch an investigation into China's shipbuilding practices.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

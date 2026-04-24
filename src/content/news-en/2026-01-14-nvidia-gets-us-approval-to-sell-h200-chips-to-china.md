@@ -29,7 +29,3 @@ tags:
 <p style="text-align: justify">Chinese customers must demonstrate "sufficient security procedures" and cannot use the chips for military purposes. <strong>Nvidia</strong>'s <strong>Blackwell</strong> processor &mdash; widely considered the world's most advanced AI semiconductor &mdash; remains blocked from sale in China. From a supply chain perspective, this decision significantly reshapes the supply dynamics of the global AI hardware market.</p>
 <p><br></p>
 <p style="text-align: justify">From a supply chain perspective, Chinese demand for the <strong>H200</strong> adds further pressure on <strong>TSMC</strong> production capacity allocation, on <strong>SK Hynix</strong> and <strong>Micron</strong>'s <strong>HBM3e</strong> memory supply, and on <strong>CoWoS</strong> packaging bottlenecks. For U.S. data center operators, the "sufficient supply" precondition implies an allocation regime with unclear priority ordering. <strong>Nvidia</strong> is seeking to preserve long-term access to the Chinese market and maintain ecosystem dominance &mdash; while navigating a narrow corridor between Beijing's domestic chip ecosystem (particularly <strong>Huawei Ascend</strong>) and Washington's export controls.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43211]</p>

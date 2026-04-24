@@ -25,5 +25,3 @@ His replacement is expected to be <strong>Akif Konar, who was terminated at Turk
 <p><br></p>
 <p><strong>Background:</strong><br>
 Following <strong>corruption allegations</strong> that emerged at Turkish Cargo some time ago, <strong>three of Özen's deputies were removed from their positions</strong>. Now, after this process, the top seat has also changed hands.</p>
-<p><br></p>
-<p><br></p>

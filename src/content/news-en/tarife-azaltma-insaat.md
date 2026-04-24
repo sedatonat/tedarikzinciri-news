@@ -51,11 +51,3 @@ tags:
 3. Commodity hedging and should-cost models are enhancing budget visibility.<br>
 4. Material substitutions are being implemented through design-to-value approaches.<br>
 5. S&amp;OP and scenario planning enable simulation of tariff impacts.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure an ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via this link.</p>
-<p>We would be delighted to receive your feedback.</p>
-<p>We wish you happy reading.</p>
-<p><br></p>
-<p>[746]</p>

@@ -26,8 +26,6 @@ tags:
 <p>From the moment a container arrives at the port to when it is collected by the transport company, authorization over the container will be digitalized such that it is always clear who has authority over it. At each step along the supply chain, the authorised party will digitally transfer "collection authority" to the next party. This identity-based "collection authority" will gradually replace the old anonymous PIN procedure.</p>
 <p><br></p>
 <p>The new process encompasses all participants in the supply chain, including carriers, terminals, shipping companies, and transport operators. Communication will no longer be direct but instead conducted in encrypted form via German Ports, a neutral, multi-stakeholder IT platform jointly operated by DAKOSY and dbh. The platform can be used at any time to verify who holds the current right of authority.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Key Points</strong></h5>
 <ol>
   <li><p>A new standard digital release process named "Secure Delivery Order" has been introduced.</p></li>
@@ -37,4 +35,3 @@ tags:
   <li><p>Communication will be conducted encrypted via the German Ports IT platform.</p></li>
   <li><p>All participants in the supply chain will be included in this process.</p></li>
 </ol>
-<p><br></p>

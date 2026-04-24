@@ -41,11 +41,6 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">Criticism regarding employee working conditions continues for both companies.</p></li>
 </ul>
 <p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;You can download and read it for free from the link above.</p>
+
 <p>We would be delighted to hear your feedback.</p>
 <p>Wishing you happy reading ahead.</p>

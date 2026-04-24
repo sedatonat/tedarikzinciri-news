@@ -31,5 +31,3 @@ tags:
   <li><p>Transparency is provided through real-time tracking.</p></li>
   <li><p>DB Schenker has established a global team for the <a href="https://www.dbschenker.com/global/insights/news-and-stories/press-releases/fasten-the-seatbelt-db-schenker-launches-onboard-courier-service-1710282"><u>OBC</u></a> service and operates 24/7.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

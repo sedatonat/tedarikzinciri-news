@@ -32,8 +32,3 @@ tags:
 3. Otonom sualtı araçları, Elbe'de askıda katı madde, oksijen, alg ve petrol kalıntısı ölçecek.<br>
 4. Toplanan veri operasyonel platformlara entegre edilerek karar destek sistemlerini besleyecek.<br>
 5. Yaklaşım, Avrupa limanlarında akıllı çevre koruma uygulamaları için ölçeklenebilir bir model sunuyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

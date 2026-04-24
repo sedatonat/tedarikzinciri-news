@@ -25,8 +25,6 @@ tags:
 <p>The agreement targets combating terrorism, illegal fishing, piracy, and external threats. Through Turkey's presence in Somalia, it is planned that Turkey will gain control over strategic regions such as the Red Sea and the Suez Canal. The agreement reinforces Turkey's significant role in the Horn of Africa and solidifies its position as a major player in the region.</p>
 <p><br></p>
 <p>The agreement is expected to make the Red Sea region more secure.</p>
-<p><br></p>
-<p><br></p>
 <p><strong>Key Points:</strong></p>
 <ul>
   <li><p>Turkey and Somalia have signed a historic agreement on protecting Somalia's territorial waters and establishing a strong naval force.</p></li>
@@ -34,5 +32,3 @@ tags:
   <li><p>Turkey will gain control over strategic regions such as the Red Sea and the Suez Canal through its presence in Somalia.</p></li>
   <li><p>This agreement reinforces Turkey's role in the Horn of Africa and strengthens its position as a major player in the region.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>

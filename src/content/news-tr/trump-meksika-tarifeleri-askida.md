@@ -38,12 +38,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Kanada Başbakanı Justin Trudeau</strong>, ABD'nin gümrük vergisi kararına karşılık olarak 155 milyar dolar değerinde Amerikan malına %25 gümrük vergisi uygulayacaklarını açıkladı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>USMCA</strong> kapsamındaki ürünlere yönelik gümrük vergilerinin askıya alınması, otomobil üreticileri ve ilgili şirketler için ekonomik istikrarı sağlamak adına önemli bir adım olarak görülüyor.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

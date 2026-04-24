@@ -28,10 +28,4 @@ tags: ['Deutsche Bank', 'jet yakıtı', 'havayolları', 'Michael Linenberg', 'cr
 3. <strong>Crack spread</strong> is at its widest level since 2005.<br>
 4. Sector index falls 19 percent over six trading sessions.<br>
 5. <strong>Rothschild &amp; Co. Redburn</strong> downgrade <strong>American Airlines</strong> rating.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp;You can download and read it for free through this link.</p>
 <p>We would be delighted to receive your feedback.</p>
-<p><br></p>
-<p>[43619]</p>

@@ -32,8 +32,3 @@ tags:
 3. Mimari yüksek dayanıklılık, yüksek aktarım hızı ve düşük gecikme sunuyor.<br>
 4. Sistem rota, hız ve yakıt tüketimini gerçek zamanlı optimize ederek dekarbonizasyon hedeflerini destekliyor.<br>
 5. Edge cloud platform, kestirimci bakım, dijital ikiz ve AI rota optimizasyonu için omurga oluşturuyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

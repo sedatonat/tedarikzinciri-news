@@ -23,4 +23,3 @@ tags:
 <p>Şirket, sürdürülebilirlik çalışmaları ve yenilikçi yaklaşımlarla bu büyümeyi sürdürmeyi hedefliyor.&nbsp;</p>
 <p><br></p>
 <p>Kamion, 2024 yılında Türkiye’deki tedarikçilerin %10'unu mobil uygulamaya taşımayı ve uluslararası karayolu taşımacılığında yeni operasyon merkezleri kurmayı planlıyor</p>
-<p><br></p>

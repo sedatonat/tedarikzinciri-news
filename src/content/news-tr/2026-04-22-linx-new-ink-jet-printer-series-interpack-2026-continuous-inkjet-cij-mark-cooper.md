@@ -31,8 +31,3 @@ tags:
 3. Yeni seri sürekli mürekkep püskürtmeli (CIJ) teknolojisine dayalı.<br>
 4. Kıdemli Ürün Direktörü Mark Cooper yüksek güvenilirlik ve düşük bakım maliyetini vurguluyor.<br>
 5. CIJ teknolojisi gıda, ilaç ve kozmetik gibi yüksek hızlı paketleme hatlarında standart.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

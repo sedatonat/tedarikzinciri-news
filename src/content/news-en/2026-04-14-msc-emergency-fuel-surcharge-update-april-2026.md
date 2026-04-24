@@ -21,8 +21,3 @@ tags: ["MSC", "Mediterranean Shipping Company", "Emergency Fuel Surcharge", "EFS
 3. It covers Northern Europe, Scanbaltic, West Mediterranean, Adriatic, Red Sea and East Africa lanes.<br>
 4. Red Sea-to-Northern Europe rates are set at USD 135/TEU dry and USD 205/TEU reefer.<br>
 5. The move reflects a wider trend of carriers adjusting surcharges to absorb rising bunker costs.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

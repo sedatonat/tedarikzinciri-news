@@ -28,4 +28,3 @@ tags:
   <li><p>Tedarik zinciri eğitiminde analitiklerin önemi artıyor.</p></li>
   <li><p>Üretim odaklı içerik azalıyor.</p></li>
 </ul>
-<p><br></p>

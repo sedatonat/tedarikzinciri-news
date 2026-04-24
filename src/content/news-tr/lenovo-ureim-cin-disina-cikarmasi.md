@@ -33,8 +33,6 @@ tags:
 <p>Lenovo'nun Suudi Arabistan'daki yeni yatırımının, bölgedeki teknoloji sektörü için de önemli etkileri olabilir. Kamu Yatırım Fonu ile yapılan bu anlaşma, Suudi Arabistan'ın teknoloji ve üretim alanındaki vizyonunu desteklerken, aynı zamanda bölgesel ekonomik büyümeye de katkıda bulunacak. Lenovo, yeni tesislerinde ileri teknoloji kullanarak, hem yerel hem de uluslararası pazarlara yönelik ürünler üretecek.</p>
 <p><br></p>
 <p>Yang Yuanqing, Lenovo'nun küresel üretim stratejisinin uzun vadeli başarısının anahtarının esneklik ve adaptasyon olduğunu vurguladı. Şirketin, değişen ticaret koşullarına hızla uyum sağlayabilme yeteneği, Lenovo'nun dünya pazarındaki lider konumunu sürdürmesine yardımcı olacak.</p>
-<p><br></p>
-<p><br></p>
 <h5><strong>Önemli Notlar:</strong></h5>
 <ul>
   <li><p>Lenovo, Çin dışında üretim tesislerini artırmayı planlıyor.</p></li>
@@ -48,14 +46,3 @@ tags:
   <li><p>Yeni yatırımlar, Suudi Arabistan'ın teknoloji sektörüne katkıda bulunacak.</p></li>
   <li><p>Yang Yuanqing, Lenovo'nun esneklik ve adaptasyon yeteneğinin uzun vadeli başarısının anahtarı olduğunu belirtti.</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

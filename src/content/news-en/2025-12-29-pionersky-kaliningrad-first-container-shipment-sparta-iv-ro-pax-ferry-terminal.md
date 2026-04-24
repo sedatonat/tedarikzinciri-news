@@ -21,8 +21,3 @@ tags: ["Pionersky", "Kaliningrad", "Sparta IV", "container terminal", "ro-pax fe
 3. The terminal's container handling capability will improve transport service reliability to the region.<br>
 4. Kaliningrad is Russia's EU-surrounded exclave; direct sea connection is strategic.<br>
 5. In 2025 the terminal handled 18 ro-pax ferries, 56,000 tons of cargo, and over 2,500 ro-ro units.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

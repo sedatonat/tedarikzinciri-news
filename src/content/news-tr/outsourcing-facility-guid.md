@@ -29,14 +29,3 @@ tags:
 3. SLA agreements hizmet kalitesini garanti eder.<br>
 4. Automation verimliliği güçlendirir.<br>
 5. Stratejik ortaklıklar uzun vadeli fayda yaratır.</p>
-<p><br>
----<br>
-<br>
-!!! DUYURU !!!<br>
-ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.<br>
-ERP Nedir?<br>
-<a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir </u></a>Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.<br>
-Geri bildirimleriniz olursa bizleri mutlu edersiniz.<br>
-Şimdiden iyi okumalar dileriz.</p>
-<p><br></p>
-<p>[806]</p>

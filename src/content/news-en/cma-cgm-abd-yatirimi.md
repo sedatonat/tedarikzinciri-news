@@ -51,13 +51,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify">President <strong>Trump</strong> is planning new incentive programs to revitalize the U.S. maritime industry.</p></li>
 </ul>
 <p style="text-align: justify">This investment will significantly increase <strong>CMA CGM</strong>'s presence in the United States and strengthen the country's maritime sector.</p>
-<p><br></p>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Get ERP? Our Book Has Been Published on Google Play Books.</strong></p>
-<p>#What Is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free via the link above.</p>
-<p>Your feedback would make us happy.</p>
-<p>Wishing you happy reading in advance.</p>

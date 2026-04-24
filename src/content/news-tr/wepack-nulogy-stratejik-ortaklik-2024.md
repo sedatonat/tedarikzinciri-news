@@ -32,4 +32,3 @@ tags:
   <li><p><a href="https://www.we-pack.co.uk/"><u>WePack</u></a>, endüstride 30 yılı aşkın bir deneyime sahip ve bir dizi sektörde tanınmış markalarla çalışıyor.</p></li>
   <li><p><a href="https://nulogy.com/"><u>Nulogy</u></a>, <a href="https://www.packagingbirmingham.com/"><u>Packaging Innovations &amp; Empack 2024</u></a> Etkinliğinde 'Essential Package'ını piyasaya sürdü, bu da daha küçük sözleşmeli paketleme operasyonları için uyarlanmış bir çözüm sunuyor.</p></li>
 </ul>
-<p><br></p>

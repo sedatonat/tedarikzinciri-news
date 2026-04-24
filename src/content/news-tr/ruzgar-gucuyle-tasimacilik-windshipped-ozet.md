@@ -27,8 +27,6 @@ tags:
 <p>Apollonia, malt arpa, kahve çekirdeği, kereste, un, bira, peynir, balkabağı, giysi, elma suyu, mobilya ve daha birçok şeyi taşıdı. Şirket ayrıca gala etkinliklerine malzeme sağlıyor, gıda bankalarına ve depolarına teslimat yapıyor ve toptan satışların yanı sıra bireysel kargolar taşıyor, yerel ürünlerle dolu "Boat Boxes" sunuyor.</p>
 <p><br></p>
 <p><strong>Belgesel Linki:</strong> <a href="https://www.amazon.com/WindShipped-Oceans-8-Films/dp/B0B8TCS1MV"><u>https://www.amazon.com/WindShipped-Oceans-8-Films/dp/B0B8TCS1MV</u></a></p>
-<p><br></p>
-<p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ol>
   <li><p>Apollonia, karbon-nötr taşımacılığa alternatif bir çözüm sunuyor.</p></li>
@@ -37,4 +35,3 @@ tags:
   <li><p>Film, sürdürülebilir taşımacılık için bir çağrı yapıyor.</p></li>
   <li><p>"Windshipped," Amazon Prime üzerinden kiralanabilir.</p></li>
 </ol>
-<p><br></p>

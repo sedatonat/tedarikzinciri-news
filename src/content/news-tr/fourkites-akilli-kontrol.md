@@ -49,12 +49,3 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>FourKites</strong>, günlük 3,2 milyondan fazla sevkiyatı 200'den fazla ülkede takip ediyor.​<a href="https://www.porttechnology.org/news/fourkites-launches-intelligent-control-tower-for-advanced-supply-chain-automation/" rel="noopener" target="_blank">porttechnology.org</a></p></li>
   <li style="text-align: justify"><p style="text-align: justify"><strong>Intelligent Control Tower</strong>, yedi özel paket sunuyor: <strong>Supplier Connect AI</strong>, <strong>PO Connect AI</strong>, **Customer Connect AI</p></li>
 </ul>
-<p><br></p>
-<p>---</p>
-<p>-------------------</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>Geri bildirimleriniz olursa bizleri mutlu edersiniz.</p>
-<p>Şimdiden iyi okumalar dileriz.</p>

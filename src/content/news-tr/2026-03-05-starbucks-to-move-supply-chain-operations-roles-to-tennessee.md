@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Şirket; Nashville ofisinin faaliyete geçmesinin ardından Seattle'daki global merkezle yakın işbirliği sürdüreceğini açıklıyor. Yer değişikliğini tercih etmeyen çalışanlar tazminat paketlerine hak kazanıyor ve şirket içindeki diğer açık rollere başvurabiliyor. Şirket, taşınacak pozisyon sayısına ilişkin ayrıntı paylaşmıyor. TDECD ise Starbucks'ın Tennessee planlarına ilişkin ek ayrıntıları önümüzdeki aylarda duyuracağını belirtiyor.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu hamle; ABD perakende ve gıda sektöründeki <em>operating hub</em> stratejisinin yeniden şekillendiğini yansıtıyor. Tedarikçi ekosisteminin yoğunlaştığı güneydoğu ABD; lojistik maliyetleri, enerji fiyatları ve yetenek erişimi açısından Batı Yakası'na göre giderek daha cazip bir konuma yükseliyor. <strong>Amazon</strong>, <strong>FedEx</strong>, <strong>Nissan</strong> ve <strong>Volkswagen</strong>; Tennessee'de büyük operasyonlar yürüten diğer büyük şirketler arasında yer alıyor. Starbucks'ın bu adımı; daha geniş bir <em>nearshoring</em> ve <em>operational rebalancing</em> trendinin parçası niteliği taşıyor.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43596]</p>

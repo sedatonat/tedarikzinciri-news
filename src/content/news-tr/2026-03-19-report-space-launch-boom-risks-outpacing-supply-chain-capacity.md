@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Aynı zamanda yaşlanan altyapıya bağımlılık, kapasite kısıtlarını gün yüzüne çıkarıyor; çünkü çok daha düşük üretim hacimleri için tasarlanan tesisler, hızla artan talebi karşılıyyor zorlanıyor. Uzay sektörü, kritik tedarikçi sözleşmeleri için diğer endüstriyel imalatçılarla rekabet ederken yapısal bir dezavantajla karşı karşıya kalıyor. Rapor, uzayın küçük hacimli bir endüstri niteliği taşıdığını vurguluyor.</p>
 <p><br></p>
 <p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında <strong>SpaceX</strong>, <strong>Blue Origin</strong>, <strong>Rocket Lab</strong> ve <strong>Lockheed Martin</strong> gibi oyuncular için temel zorluğu; özel kompozit malzemeler, hassas işlenmiş parçalar ve geleneksel <em>aerospace-grade</em> alaşımların ikincil ya da üçüncül tedarikçi katmanlarındaki dar boğazlar oluşturuyor. Ulusal güvenlik bağlamında pLEO konstellasyonlarının teslim hızı, Pentagon'un <em>Golden Dome</em> savunma mimarisi gibi programlar için belirleyici bir parametreye dönüşüyor. Tedarik tabanına yönelik çok yıllı sermaye yatırımı, sektörün önümüzdeki on yılını belirliyor.</p>
-<p><br></p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book'da yayınlanmıştır.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p>[43684]</p>

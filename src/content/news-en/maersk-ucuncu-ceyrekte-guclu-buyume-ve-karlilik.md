@@ -37,12 +37,4 @@ tags:
   <li><p>Terminals recorded significant growth with $424 million EBITDA and 13% ROIC.</p></li>
   <li><p>Global container market growth is expected to reach approximately 6% for the full year.</p></li>
 </ul>
-<p><br></p>
-<p><br></p>
-<p>-------------------</p>
-<p><strong>!!! NOTICE !!!</strong></p>
-<p><strong>How to Implement ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir"><u>https://www.sedatonat.com/erpnasilalinir</u></a> You can download and read it for free through the link above.</p>
-<p>We would be delighted to hear your feedback.</p>
 <p>We wish you happy reading.</p>

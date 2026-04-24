@@ -33,4 +33,3 @@ tags:
   <li><p>The truck will feature a new electronic platform that will reduce global operating costs for logistics companies by up to 30%.</p></li>
   <li><p>Manufacturing will take place at Renault Group's Sandouville facility and will employ 550 personnel over the coming four years.</p></li>
 </ul>
-<p><br></p>

@@ -29,8 +29,3 @@ tags:
 <p style="text-align: justify">Designed for supply chain planning, logistics and operations leaders, the report connects parcel pricing dynamics to broader planning considerations including budgeting, <strong>S&OP</strong>, network strategy and carrier mix decisions. Readers gain insight into how service-level tradeoffs, shifting carrier advantages and evolving surcharge structures can introduce both risk and opportunity — depending on how they are planned for.</p>
 <p><br></p>
 <p style="text-align: justify">In an environment where volatility has become the norm, parcel pricing can no longer be managed reactively. From a supply chain perspective, this report equips supply chain leaders with the visibility and context needed to challenge assumptions, anticipate cost impacts and build more resilient, margin-aware parcel strategies for 2026 and beyond. Investments in supply chain analytics around <em>dimensional weight</em>, <em>residential surcharge</em> and <em>peak season</em> fees are becoming a defining element of competitive advantage.</p>
-<p><br></p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Buy ERP? Our book is published on Google Play Books.</strong></p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> You can download and read it for free via this link.</p>
-<p>[43453]</p>

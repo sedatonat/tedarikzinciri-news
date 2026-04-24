@@ -28,8 +28,3 @@ tags:
 3. ABD hub'larına RFID sensörleri kurulacak; müşterilere etiket yazıcıları dağıtılacak.<br>
 4. Taşıyıcı, işlediği neredeyse tüm paketleri RFID ile izlenebilir yapmayı planlıyor.<br>
 5. Benzer bir genişlemeyi rakip FedEx de başlattı; RFID sektör standardı haline geliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>
