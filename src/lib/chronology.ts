@@ -1704,42 +1704,6 @@ export const events: ChronologyEvent[] = [
     summary_en: 'India\'s move preserves Russian tanker port access and keeps oil flowing.'
   },
   {
-    date: '2026-04-22',
-    kind: 'accident',
-    slug: '2026-04-22-rus-lng-tankeri-arctic-metagaz-bengazi-serbest-kaldi-tow',
-    title_tr: 'Arctic Metagaz LNG tankerinin yedek hattı koptu, Libya açığında sürüklendi',
-    title_en: 'Arctic Metagaz LNG tanker\'s tow line snaps, drifts off Libya',
-    summary_tr: 'Tanker 120 mil açıkta kontrolsüz; LNG ve yakıt taşıması ciddi risk oluşturuyor.',
-    summary_en: 'The tanker drifts uncontrolled 120 nm offshore; its LNG and fuel pose serious risk.'
-  },
-  {
-    date: '2026-04-23',
-    kind: 'agreement',
-    slug: '2026-04-23-apm-terminals-valencia-imtiyaz-uzatmasi-2049-kiyi-elektrik',
-    title_tr: 'APM Terminals Valencia imtiyazını 2049\'a uzattı',
-    title_en: 'APM Terminals extends Valencia concession to 2049',
-    summary_tr: '10 milyon euro üstü yatırımla kıyı elektrik dahil dekarbonizasyon paketi.',
-    summary_en: 'Over €10m of investment including shore-power decarbonisation.'
-  },
-  {
-    date: '2026-04-23',
-    kind: 'agreement',
-    slug: '2026-04-23-endonezya-malacca-bogazi-transit-ucreti-onerisine-singapur-malezya-red',
-    title_tr: 'Endonezya\'nın Malakka transit ücreti önerisi Singapur ve Malezya\'dan red aldı',
-    title_en: 'Indonesia\'s Malacca toll proposal rejected by Singapore and Malaysia',
-    summary_tr: 'Bölgesel konsensüs boğazın açık ve ücretsiz kalacağını teyit etti.',
-    summary_en: 'Regional consensus reaffirmed the strait stays open and toll-free.'
-  },
-  {
-    date: '2026-04-24',
-    kind: 'agreement',
-    slug: '2026-04-24-maersk-altana-gemini-cooperation-urun-pasaporti-ai-gumruk',
-    title_tr: 'Maersk ve Altana Gemini\'ye AI tabanlı dijital ticaret katmanı ekliyor',
-    title_en: 'Maersk and Altana embed an AI trade layer into Gemini Cooperation',
-    summary_tr: '\'Ürün Pasaportları\' 12 büyük limanda gümrüklerle uyumu otomatikleştirecek.',
-    summary_en: '"Product Passports" will automate customs compliance across 12 major ports.'
-  },
-  {
     date: '2026-04-24',
     kind: 'agreement',
     slug: '2026-04-24-klaipeda-limani-yesil-hidrojen-uretimi-baltik',
@@ -1756,14 +1720,5 @@ export const events: ChronologyEvent[] = [
     title_en: 'Port of Klaipėda advances shore power to testing phase',
     summary_tr: 'Dört gemi aynı anda kıyı elektriğine bağlanıp yardımcı motorları kapatabilecek.',
     summary_en: 'Four vessels will be able to connect to shore power simultaneously, switching off auxiliaries.'
-  },
-  {
-    date: '2026-04-22',
-    kind: 'agreement',
-    slug: '2026-04-22-samsung-heavy-offshore-veri-merkezi-floater-modeli-yeni-pazar',
-    title_tr: 'Samsung Heavy deniz üstü veri merkezi floater modeliyle AI pazarına giriyor',
-    title_en: 'Samsung Heavy targets the AI market with an offshore data centre floater',
-    summary_tr: 'Koreli tersane devi düşük soğutma maliyetli floater konsepti tanıttı.',
-    summary_en: 'The Korean shipbuilder unveiled a low-cooling-cost floater concept.'
   },
 ];
