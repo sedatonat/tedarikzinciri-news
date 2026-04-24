@@ -133,16 +133,17 @@ function pad2(n: number): string {
     rail.addEventListener('mouseleave', onLeave);
 
     // ---------- Scroll-spy: highlight the month of the most-visible article ----------
-    function ymFromTime(t) {
-      const dt = t.getAttribute('datetime') || t.textContent || '';
-      const m = dt.match(/(\d{4})-(\d{2})/);
+    function ymFromIso(iso) {
+      if (!iso) return null;
+      const m = iso.match(/(\d{4})-(\d{2})/);
       return m ? `${m[1]}-${m[2]}` : null;
     }
-
-    // Collect article time elements: NewsCard / FlowCard / NewsLayout all use
-    // <time datetime="...">. We restrict to <time> inside <article> elements
-    // so unrelated dates (e.g. footer, header) are ignored.
-    const articleTimes = Array.from(document.querySelectorAll('article time[datetime]'));
+    function isVisible(el) {
+      // Skip elements that are display:none / collapsed (e.g. the inactive
+      // layout-mode container has zero size).
+      const r = el.getBoundingClientRect();
+      return r.width > 0 && r.height > 0;
+    }
 
     function setActiveYm(ym) {
       if (!ym) {
@@ -157,9 +158,6 @@ function pad2(n: number): string {
         return;
       }
       const rect = el.getBoundingClientRect();
-      // If the target month is not currently visible inside the rail (it could
-      // be scrolled out), bring it into view smoothly so the magnification is
-      // actually visible.
       const railRect = rail.getBoundingClientRect();
       if (rect.top < railRect.top + 20 || rect.bottom > railRect.bottom - 20) {
         try { el.scrollIntoView({ block: 'center', behavior: 'smooth' }); } catch {}
@@ -168,49 +166,45 @@ function pad2(n: number): string {
       if (!mouseActive) schedule();
     }
 
-    if (articleTimes.length === 1) {
-      // Article detail page — only one date, set it once on load.
-      setActiveYm(ymFromTime(articleTimes[0]));
-      // Also re-anchor on resize/scroll because viewport-relative Y may shift.
-      const update = () => setActiveYm(ymFromTime(articleTimes[0]));
+    // Articles carry data-article-date (NewsCard, FlowCard, NewsLayout).
+    const allArticles = Array.from(document.querySelectorAll('article[data-article-date]'));
+
+    if (allArticles.length === 1) {
+      // Article detail page — anchor once.
+      const onlyArt = allArticles[0];
+      const ym = ymFromIso(onlyArt.getAttribute('data-article-date'));
+      const update = () => setActiveYm(ym);
+      update();
       window.addEventListener('resize', update);
       window.addEventListener('scroll', update, { passive: true });
-    } else if (articleTimes.length > 1 && 'IntersectionObserver' in window) {
-      // Listing pages — pick the most-visible article and follow it.
-      const visibility = new Map();      // time element -> intersectionRatio
+    } else if (allArticles.length > 1) {
+      // Listing pages — track viewport-center article every scroll/resize.
+      // Filter out invisible cards (the inactive layout mode is hidden).
       let pickRaf = 0;
       function pickBest() {
         pickRaf = 0;
-        let bestEl = null;
-        let bestRatio = 0;
-        // Prefer items closer to viewport center for tie-breaks.
         const vh = window.innerHeight || document.documentElement.clientHeight;
         const vCenter = vh / 2;
+        let bestEl = null;
         let bestDist = Infinity;
-        for (const [el, ratio] of visibility) {
-          if (ratio <= 0) continue;
+        for (const el of allArticles) {
+          if (!isVisible(el)) continue;
           const r = el.getBoundingClientRect();
+          // Skip articles entirely above viewport top or below viewport bottom.
+          if (r.bottom < 0 || r.top > vh) continue;
           const c = r.top + r.height / 2;
           const dist = Math.abs(c - vCenter);
-          if (ratio > bestRatio + 0.05) {
-            bestRatio = ratio; bestEl = el; bestDist = dist;
-          } else if (Math.abs(ratio - bestRatio) <= 0.05 && dist < bestDist) {
-            bestRatio = ratio; bestEl = el; bestDist = dist;
-          }
+          if (dist < bestDist) { bestDist = dist; bestEl = el; }
         }
-        setActiveYm(bestEl ? ymFromTime(bestEl) : null);
+        setActiveYm(bestEl ? ymFromIso(bestEl.getAttribute('data-article-date')) : null);
       }
-      const io = new IntersectionObserver((entries) => {
-        for (const e of entries) {
-          visibility.set(e.target, e.isIntersecting ? e.intersectionRatio : 0);
-        }
+      function schedulePick() {
         if (!pickRaf) pickRaf = requestAnimationFrame(pickBest);
-      }, {
-        // Start tracking slightly above/below viewport so updates feel responsive.
-        rootMargin: '-20% 0px -20% 0px',
-        threshold: [0, 0.25, 0.5, 0.75, 1],
-      });
-      for (const t of articleTimes) io.observe(t);
+      }
+      window.addEventListener('scroll', schedulePick, { passive: true });
+      window.addEventListener('resize', schedulePick);
+      // First run after initial paint so getBoundingClientRect is reliable.
+      requestAnimationFrame(schedulePick);
     }
   })();
 </script>

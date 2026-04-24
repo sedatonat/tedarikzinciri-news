@@ -31,7 +31,7 @@ if (entry.data.sourceUrl) {
   } catch {}
 }
 ---
-<article class="group flex flex-col rounded-xl overflow-hidden border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 hover:border-brand-500 transition">
+<article data-article-date={dateObj.toISOString()} class="group flex flex-col rounded-xl overflow-hidden border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 hover:border-brand-500 transition">
   {entry.data.image && (
     <a href={href} class="block aspect-[16/9] overflow-hidden bg-ink-100 dark:bg-ink-800" aria-label={entry.data.title}>
       <img src={entry.data.image} alt={entry.data.imageAlt ?? entry.data.title}

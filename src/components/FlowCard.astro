@@ -79,7 +79,7 @@ if (entry.data.sourceUrl) {
   } catch {}
 }
 ---
-<article class="border-b border-ink-200 dark:border-ink-800 px-4 sm:px-5 py-3 hover:bg-ink-50/50 dark:hover:bg-ink-900/40 transition-colors">
+<article data-article-date={dateObj.toISOString()} class="border-b border-ink-200 dark:border-ink-800 px-4 sm:px-5 py-3 hover:bg-ink-50/50 dark:hover:bg-ink-900/40 transition-colors">
   <div class="flex gap-3">
     <!-- Avatar: transparent background, category icon -->
     <a href={categoryPath(lang, cat)} class="icon-tip shrink-0" aria-label={catLabel} data-tip={lang === 'tr' ? `Kategori: ${catLabel}` : `Category: ${catLabel}`}>
