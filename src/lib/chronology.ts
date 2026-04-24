@@ -8,7 +8,7 @@
 export type EventKind =
   | 'attack' | 'ceasefire' | 'accident' | 'collision'
   | 'tariff' | 'sanction' | 'agreement' | 'acquisition'
-  | 'drought' | 'cyber';
+  | 'drought' | 'cyber' | 'strike';
 
 export interface ChronologyEvent {
   date: string;          // YYYY-MM-DD
@@ -51,6 +51,15 @@ export const events: ChronologyEvent[] = [
     title_en: 'Missile strike on US ship in the Red Sea',
     summary_tr: 'Tırmanan gerilim küresel deniz güvenliği endişelerini büyüttü.',
     summary_en: 'Escalating tension fuels global maritime security concerns.'
+  },
+  {
+    date: '2024-02-29',
+    kind: 'attack',
+    slug: 'herson-limaninda-turk-gemisine-saldiri',
+    title_tr: 'Herson Limanı\'nda Türk gemisine saldırı',
+    title_en: 'Turkish ship attacked at Kherson port',
+    summary_tr: 'Karadeniz\'deki Türk bayraklı gemiye füze saldırısı.',
+    summary_en: 'Missile strike on a Turkish-flagged vessel in the Black Sea.'
   },
   {
     date: '2024-02-25',
@@ -307,5 +316,260 @@ export const events: ChronologyEvent[] = [
     title_en: 'Jaguar Land Rover production paralysed by cyberattack',
     summary_tr: 'UK araç üretimi %27 düştü, tedarikçi ağı zincirleme etkilendi.',
     summary_en: 'UK vehicle output down 27%; supplier network hit in cascade.'
+  },
+
+
+  // Additional events (from broader scan)
+  {
+    date: '2024-05-14',
+    kind: 'sanction',
+    slug: 'ab-rus-lng-yasaklari-kuresel-etki',
+    title_tr: 'AB, Rus LNG ithalatını yasakladı',
+    title_en: 'EU bans Russian LNG imports',
+    summary_tr: 'Küresel gaz piyasalarında arz rotalarını yeniden şekillendiren karar.',
+    summary_en: 'Decision reshaping supply routes in the global gas market.'
+  },
+  {
+    date: '2024-11-21',
+    kind: 'sanction',
+    slug: 'cinli-tasiyici-baltik-denizi-sabotaj',
+    title_tr: 'Çinli taşıyıcı Baltık kablo sabotajı şüphesiyle gözaltında',
+    title_en: 'Chinese carrier detained over Baltic cable sabotage suspicion',
+    summary_tr: 'Telekom altyapısına müdahale şüphesi Danimarka donanmasını harekete geçirdi.',
+    summary_en: 'Suspicion of telecom infrastructure interference drew in the Danish navy.'
+  },
+  {
+    date: '2025-01-13',
+    kind: 'attack',
+    slug: 'ukrayna-turkakim-boru-hattina-saldiri-iddiasi',
+    title_tr: 'Ukrayna\'dan TürkAkım boru hattına saldırı girişimi iddiası',
+    title_en: 'Alleged Ukrainian attack attempt on TurkStream pipeline',
+    summary_tr: 'Rus enerji altyapısı hedefli saldırılar yayılıyor.',
+    summary_en: 'Attacks targeting Russian energy infrastructure are spreading.'
+  },
+  {
+    date: '2025-01-13',
+    kind: 'sanction',
+    slug: 'abd-rus-yaptirimlari',
+    title_tr: 'ABD\'den Rusya\'ya en büyük denizcilik yaptırım paketi',
+    title_en: 'US unveils largest-ever maritime sanctions package on Russia',
+    summary_tr: 'Gölge filo gemileri ve petrol trafiği hedefleniyor.',
+    summary_en: 'Shadow-fleet ships and oil traffic are squarely targeted.'
+  },
+  {
+    date: '2025-03-04',
+    kind: 'attack',
+    slug: 'rusya-odessa-limani-msc-levante-f-gemisine-fuze-saldirisi',
+    title_tr: 'MSC Levante F\'ye Odessa\'da füze saldırısı',
+    title_en: 'MSC Levante F hit by missile at Odessa',
+    summary_tr: 'Rusya\'nın konteyner gemisine saldırısı Karadeniz riskini yeniden artırdı.',
+    summary_en: 'Russia\'s strike on a container ship revived Black Sea risk concerns.'
+  },
+  {
+    date: '2025-05-21',
+    kind: 'cyber',
+    slug: 'mns-cyberattack-cost',
+    title_tr: 'Marks & Spencer siber saldırısı: 300 milyon sterline ulaşabilir',
+    title_en: 'Marks & Spencer cyberattack could reach £300 million',
+    summary_tr: 'Büyük perakendecide yıllık kâra doğrudan etki.',
+    summary_en: 'Direct hit to a major retailer\'s annual profit.'
+  },
+  {
+    date: '2025-06-09',
+    kind: 'strike',
+    slug: 'dhl-canada-strike',
+    title_tr: 'DHL Kanada\'da grev: Lockout sonrası iş bırakıldı',
+    title_en: 'DHL Canada strike: workers walk out after lockout',
+    summary_tr: 'Ülke genelinde kargo gecikmelerinin habercisi.',
+    summary_en: 'Foreshadowing nationwide cargo delays.'
+  },
+  {
+    date: '2025-06-14',
+    kind: 'cyber',
+    slug: 'wholefoods-siber-saldiri',
+    title_tr: 'Siber saldırı Whole Foods tedarikçisini vurdu',
+    title_en: 'Cyberattack on Whole Foods supplier empties shelves',
+    summary_tr: 'Rafların kısa sürede boşalması tedarik bağımlılığını gösterdi.',
+    summary_en: 'Rapid shelf outages exposed the supply dependency.'
+  },
+  {
+    date: '2025-09-20',
+    kind: 'cyber',
+    slug: 'siber-saldiri-jaguar-land-rover',
+    title_tr: 'JLR siber saldırısı ilk dalga: akıllı fabrikalar durdu',
+    title_en: 'First JLR cyberattack wave halts smart factories',
+    summary_tr: 'Otomotiv üretimi topyekûn durdu; 2026\'ya sarkan zincir etkisi başladı.',
+    summary_en: 'Auto production came to a full stop; chain effects carry into 2026.'
+  },
+  {
+    date: '2025-10-14',
+    kind: 'sanction',
+    slug: 'china-sanctions-hanwha',
+    title_tr: 'Çin, Hanwha Ocean\'un ABD bağlı şirketlerine yaptırım uyguladı',
+    title_en: 'China sanctions Hanwha Ocean\'s US-linked units',
+    summary_tr: 'Kore-ABD tersane ittifakına karşı sert yanıt.',
+    summary_en: 'A sharp response to the Korea-US shipyard alliance.'
+  },
+  {
+    date: '2025-11-03',
+    kind: 'attack',
+    slug: 'stolt-tanker-somali-korsan-saldirisi',
+    title_tr: 'Somali\'de Stolt tankerine korsan saldırısı',
+    title_en: 'Pirate attack on Stolt tanker off Somalia',
+    summary_tr: 'Silahlı çatışma yaşandı; Hint Okyanusu rotasında risk geri döndü.',
+    summary_en: 'Armed clash reported; risk returns to Indian Ocean routes.'
+  },
+  {
+    date: '2025-11-14',
+    kind: 'attack',
+    slug: 'uktayna-novorosiysk-saldirisi-petrol',
+    title_tr: 'Ukrayna saldırısı Novorossiysk\'te küresel petrol arzının %2\'sini durdurdu',
+    title_en: 'Ukrainian strike halts 2% of global oil supply at Novorossiysk',
+    summary_tr: 'Rus limanına yapılan drone saldırısı ham petrol yüklemelerini kesti.',
+    summary_en: 'Drone strike on the Russian port cut crude loadings.'
+  },
+  {
+    date: '2025-12-02',
+    kind: 'attack',
+    slug: 'midvolga2-karadeniz-saldiri',
+    title_tr: 'MIDVOLGA-2 tankeri Türk kıyıları açığında saldırıya uğradı',
+    title_en: 'MIDVOLGA-2 tanker attacked off Türkiye coast',
+    summary_tr: 'Karadeniz\'de ticari denizciliğe saldırılar yayılıyor.',
+    summary_en: 'Attacks on commercial shipping spread across the Black Sea.'
+  },
+  {
+    date: '2025-12-03',
+    kind: 'agreement',
+    slug: 'ab-msc-nyk-ortak-girisim-onay',
+    title_tr: 'AB, MSC–NYK ortak girişimini onayladı',
+    title_en: 'EU approves MSC-NYK joint venture',
+    summary_tr: 'Afrika lojistiğinde yeni ittifak şekilleniyor.',
+    summary_en: 'A new alliance takes shape in African logistics.'
+  },
+  {
+    date: '2025-12-07',
+    kind: 'agreement',
+    slug: 'wan-hai-yeni-konteyner',
+    title_tr: 'Wan Hai filosu için 49.300 yeni konteyner sipariş etti',
+    title_en: 'Wan Hai orders 49,300 new containers for its fleet',
+    summary_tr: 'Uzakdoğu taşıyıcısından büyük kapasite yatırımı.',
+    summary_en: 'A large capacity investment from the Far East carrier.'
+  },
+  {
+    date: '2025-12-10',
+    kind: 'attack',
+    slug: 'ukrayne-rus-golge-filo-karadeniz-dashan',
+    title_tr: 'Ukrayna Sea Baby dronlarıyla Rus gölge filo tankeri Dashan\'ı vurdu',
+    title_en: 'Ukraine hits Russian shadow-fleet tanker Dashan with Sea Baby drones',
+    summary_tr: 'Gölge filo hedefli saldırılar tırmanıyor.',
+    summary_en: 'Attacks targeting the shadow fleet escalate.'
+  },
+  {
+    date: '2025-12-12',
+    kind: 'agreement',
+    slug: 'hapaglloyd-methanol-yakit',
+    title_tr: 'Hapag-Lloyd 8 adet metanol yakıtlı konteyner gemisi sipariş etti',
+    title_en: 'Hapag-Lloyd orders 8 methanol-fueled container ships',
+    summary_tr: 'Yeşil dönüşümde somut bir yatırım sinyali.',
+    summary_en: 'A concrete investment signal in the green transition.'
+  },
+  {
+    date: '2025-12-23',
+    kind: 'sanction',
+    slug: '2025-12-23-fcc-bans-importing-of-new-foreign-made-drones',
+    title_tr: 'FCC yabancı üretim yeni drone\'ların ithalatını yasakladı',
+    title_en: 'FCC bans import of new foreign-made drones',
+    summary_tr: 'DJI ve Autel ABD pazarına yeni ürün sokamayacak.',
+    summary_en: 'DJI and Autel blocked from shipping new products into the US.'
+  },
+  {
+    date: '2026-01-02',
+    kind: 'sanction',
+    slug: '2026-01-02-us-sanctions-chinese-companies-tankers-with-venezuela-links',
+    title_tr: 'ABD, Venezuela bağlantılı Çinli şirket ve tankerleri yaptırım listesine aldı',
+    title_en: 'US sanctions Chinese companies and tankers with Venezuela links',
+    summary_tr: 'Karakaş-Pekin petrol bağı hedefli yaptırımlarla test ediliyor.',
+    summary_en: 'The Caracas-Beijing oil link tested with targeted sanctions.'
+  },
+  {
+    date: '2026-01-06',
+    kind: 'sanction',
+    slug: '2026-01-06-china-bans-dual-use-item-exports-to-japan',
+    title_tr: 'Çin, Japonya\'ya çift kullanımlı ürün ihracatını yasakladı',
+    title_en: 'China bans dual-use item exports to Japan',
+    summary_tr: 'Teknoloji tedarik zincirinde yeni gerilim hattı.',
+    summary_en: 'A new tension line in the technology supply chain.'
+  },
+  {
+    date: '2026-01-14',
+    kind: 'attack',
+    slug: '2026-01-14-cpc-tankers-black-sea-attack',
+    title_tr: 'Karadeniz\'de CPC terminali yakınında iki petrol tankerine saldırı',
+    title_en: 'Two oil tankers hit near the CPC terminal in the Black Sea',
+    summary_tr: 'Kazak petrolünün ana ihracat kapısı bir kez daha hedef.',
+    summary_en: 'The main export gate for Kazakh oil is again under fire.'
+  },
+  {
+    date: '2026-01-30',
+    kind: 'tariff',
+    slug: '2026-01-30-trump-signs-order-threatening-tariffs-against-countries-selling-oil-to-cuba',
+    title_tr: 'Trump, Küba\'ya petrol satan ülkelere tarife tehdit eden kararnameyi imzaladı',
+    title_en: 'Trump signs order threatening tariffs on countries selling oil to Cuba',
+    summary_tr: 'Küba enerji zincirine baskı yeniden artıyor.',
+    summary_en: 'Pressure on Cuba\'s energy chain ratchets up again.'
+  },
+  {
+    date: '2026-02-09',
+    kind: 'agreement',
+    slug: '2026-02-09-maersk-eight-dual-fuel-18600-teu-vessels-new-times-shipbuilding-order',
+    title_tr: 'Maersk, New Times\'tan 8 adet 18.600 TEU çift yakıtlı gemi sipariş etti',
+    title_en: 'Maersk orders 8 dual-fuel 18,600 TEU ships from New Times',
+    summary_tr: 'Konteyner devinden büyük ölçekli yeşil yatırım.',
+    summary_en: 'A large-scale green investment from the container giant.'
+  },
+  {
+    date: '2026-02-16',
+    kind: 'acquisition',
+    slug: '2026-02-16-hapag-lloyd-confirms-4-billion-acquisition-zim-shipping-fimi-carve-out',
+    title_tr: 'Hapag-Lloyd, 4 milyar dolarlık ZIM satın almasını onayladı',
+    title_en: 'Hapag-Lloyd confirms $4 billion ZIM acquisition',
+    summary_tr: 'FIMI konteyner hattı ayrılıyor; konsolidasyon hızlanıyor.',
+    summary_en: 'FIMI container line to be carved out; consolidation accelerates.'
+  },
+  {
+    date: '2026-04-14',
+    kind: 'attack',
+    slug: '2026-04-14-joc-bunker-fuel-shortages-us-counter-strikes-strait-of-hormuz-block',
+    title_tr: 'ABD karşı saldırıları Hürmüz Boğazı\'nı kapattı',
+    title_en: 'US counter-strikes close Strait of Hormuz',
+    summary_tr: 'Bunker yakıtı kıtlığı kapıda; küresel tanker akışı aksıyor.',
+    summary_en: 'Bunker fuel shortages loom; global tanker flow disrupted.'
+  },
+  {
+    date: '2026-04-22',
+    kind: 'attack',
+    slug: '2026-04-22-houthis-attack-netherlands-flagged-ship-gulf-aden',
+    title_tr: 'Husiler Aden Körfezinde Hollanda bayraklı gemiye saldırdı',
+    title_en: 'Houthis attack Netherlands-flagged ship in Gulf of Aden',
+    summary_tr: 'Saldırı dalgası Kızıldeniz\'in güneyine yayıldı.',
+    summary_en: 'Attack wave spreads to the southern Red Sea.'
+  },
+  {
+    date: '2026-04-22',
+    kind: 'attack',
+    slug: '2026-04-22-container-ship-gunfire-oman-coast-iran-irgc',
+    title_tr: 'Yunan çıkarlı konteyner gemisi Umman açıklarında silahlı saldırıya uğradı',
+    title_en: 'Greek-interest container ship hit by gunfire off Oman',
+    summary_tr: 'İran kıyılarına yakın sularda silahlı müdahale.',
+    summary_en: 'Armed intervention in waters close to the Iranian coast.'
+  },
+  {
+    date: '2026-04-22',
+    kind: 'attack',
+    slug: '2026-04-22-red-sea-ship-ablaze-abandoned-yemen-attack',
+    title_tr: 'Kızıldeniz gemisi Yemen yakınında saldırı sonrası ateşe verildi ve terk edildi',
+    title_en: 'Red Sea ship ablaze, abandoned after Yemen-area attack',
+    summary_tr: 'Mürettebat kurtarıldı; gemi alevler içinde sürükleniyor.',
+    summary_en: 'Crew rescued; vessel drifts in flames.'
   },
 ];
