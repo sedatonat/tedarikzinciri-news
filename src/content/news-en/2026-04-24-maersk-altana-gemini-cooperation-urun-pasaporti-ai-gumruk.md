@@ -25,8 +25,3 @@ tags: ["Maersk", "Altana", "Gemini Cooperation", "AI", "Customs", "Digital Trade
 3. Those 12 ports handle about 70% of global trade.<br>
 4. Gemini operates on seven East-West routes with 29 mainliner + 29 shuttle services.<br>
 5. Altana's passport manager enables pre-arrival customs decisions on product-level data.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

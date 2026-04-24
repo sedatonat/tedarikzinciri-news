@@ -30,8 +30,3 @@ tags:
 3. Günlük trafik zirve günlerde 40 gemiyi aştı.<br>
 4. Bazı açık artırmalarda 1 milyon doları aşan transit ücretleri ödendi.<br>
 5. Ortalama açık artırma fiyatı 385 bin dolara kadar çıktı; savaş öncesi 135-140 bin dolardı.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

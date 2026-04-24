@@ -25,8 +25,3 @@ tags: ["Russia", "Flag State", "Fleet Tonnage", "Tankers", "Sanctions"]
 3. The target is 30 million tonnes by year-end 2026.<br>
 4. Up to 1,000 large tankers are queuing to switch to the Russian flag.<br>
 5. Countries such as India have expanded their list of approved Russian insurers.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

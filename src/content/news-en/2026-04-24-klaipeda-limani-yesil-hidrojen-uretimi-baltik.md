@@ -25,8 +25,3 @@ tags: ["Klaipeda", "Green Hydrogen", "Baltic", "Lithuania", "Port Decarbonizatio
 3. A first refuelling will take place on a vessel and a road vehicle.<br>
 4. The port will become Lithuania's first green hydrogen producer.<br>
 5. It positions as a port-based hydrogen pioneer among Baltic states.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

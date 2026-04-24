@@ -31,8 +31,3 @@ tags:
 3. İlk tanklama bir gemide ve bir karayolu aracında yapılacak.<br>
 4. Litvanya'nın ilk yeşil hidrojen üreticisi olacak.<br>
 5. Baltık devletlerinin port-bazlı hidrojen öncülerinden biri olarak konumlanıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

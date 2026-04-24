@@ -25,8 +25,3 @@ tags: ["Indonesia", "Malacca Strait", "Singapore", "Malaysia", "Transit Fee", "U
 3. Singapore officially stated the littoral states impose no tolls.<br>
 4. Indonesia's foreign ministry signalled alignment with UNCLOS.<br>
 5. The Strait of Malacca remains one of global trade's critical arteries.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

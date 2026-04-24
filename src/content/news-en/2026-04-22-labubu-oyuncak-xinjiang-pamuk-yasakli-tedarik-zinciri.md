@@ -25,8 +25,3 @@ tags: ["Labubu", "Pop Mart", "Xinjiang", "Forced Labor", "US Customs", "Supply C
 3. Pop Mart says it will investigate Xinjiang cotton in its supply chain.<br>
 4. The company is switching to alternative materials for the US market.<br>
 5. Non-profits have shared findings with US Customs and Border Protection.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

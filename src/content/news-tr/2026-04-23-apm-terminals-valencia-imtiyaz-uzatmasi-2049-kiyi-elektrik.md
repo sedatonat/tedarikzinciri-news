@@ -30,8 +30,3 @@ tags:
 3. Levante rıhtımı kıyı elektrik sistemiyle elektrifiye edilecek.<br>
 4. Valencia'da toplam dört kıyı elektrik ünitesi planlanıyor.<br>
 5. APM Terminals 2030'a kadar emisyonları %70 azaltmayı, 2040'ta net sıfıra ulaşmayı hedefliyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

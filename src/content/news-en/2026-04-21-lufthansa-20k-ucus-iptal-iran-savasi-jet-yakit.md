@@ -25,8 +25,3 @@ tags: ["Lufthansa", "Iran War", "Jet Fuel", "Hormuz", "Airline Capacity"]
 3. The Iran war and Hormuz closure have escalated fuel-shortage risk for European airlines.<br>
 4. Air Canada also suspended Toronto-New York flights from June through October.<br>
 5. US carriers such as Spirit Airlines are also planning capacity cuts.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

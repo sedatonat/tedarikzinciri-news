@@ -31,8 +31,3 @@ tags:
 3. Gemi hâlâ LNG ve yakıt taşıyor; seyrüsefer ve çevre riski yüksek.<br>
 4. Diğer gemilere en az beş mil mesafe korumaları bildirildi.<br>
 5. Bu olay Mart başında başlayan kurtarma operasyonunda gerileme yarattı.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -30,8 +30,3 @@ tags:
 3. İran savaşı ve Hürmüz Boğazı'nın kapalı kalması Avrupa havayollarında yakıt sıkıntısı tehlikesini tırmandırdı.<br>
 4. Air Canada da Toronto-New York uçuşlarını Haziran-Ekim arasında askıya aldı.<br>
 5. Spirit Airlines gibi ABD taşıyıcıları da kapasite daraltma planlıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -31,8 +31,3 @@ tags:
 3. Pop Mart tedarik zincirinde soruşturma başlatacağını açıkladı.<br>
 4. Şirket ABD pazarı için alternatif malzemelere geçiyor.<br>
 5. STK'lar bulguları ABD Gümrük ve Sınır Koruma birimine iletti.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

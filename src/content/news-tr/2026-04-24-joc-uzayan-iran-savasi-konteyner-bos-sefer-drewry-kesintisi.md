@@ -31,8 +31,3 @@ tags:
 3. Uzun vadeli petrol sıkıntısı imalatı ve konteyner hacimlerini vurabilir.<br>
 4. Orta Doğu liman altyapısı yatırımlarında artış olabilir.<br>
 5. Bunker yakıt fiyatlarındaki tırmanış navlunlara yansıyabilir.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

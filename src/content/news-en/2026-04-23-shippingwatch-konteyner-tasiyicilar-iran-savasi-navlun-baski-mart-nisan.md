@@ -25,8 +25,3 @@ tags: ["Container Shipping", "Iran War", "Freight Rates", "Blank Sailings", "Car
 3. Some Asia-Europe services have shifted to the Panama-transpacific route.<br>
 4. Panama Canal auction prices sit at record levels.<br>
 5. Rising bunker fuel prices are pressuring carrier margins.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

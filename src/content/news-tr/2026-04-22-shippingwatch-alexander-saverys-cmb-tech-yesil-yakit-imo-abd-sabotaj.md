@@ -32,8 +32,3 @@ tags:
 3. ABD küresel denizcilik emisyon kurallarının yürürlüğe girmesini geciktiriyor.<br>
 4. AB'nin ETS ve FuelEU Maritime çerçeveleri yolu açmaya devam edecek.<br>
 5. CMB.tech 2040 net sıfır hedefine bağlı kalıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

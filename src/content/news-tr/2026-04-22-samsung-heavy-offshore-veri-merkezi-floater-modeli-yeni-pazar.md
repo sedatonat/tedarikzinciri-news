@@ -31,8 +31,3 @@ tags:
 3. Model hyperscaler GPU kapasite talebini hedefliyor.<br>
 4. Karasal veri merkezlerinin su/elektrik baskısı hafifleyebilir.<br>
 5. İlk prototip 2027-2028 arasında hedefleniyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

@@ -25,8 +25,3 @@ tags: ["Samsung Heavy", "Offshore Data Center", "AI", "Floater", "Marine Technol
 3. It targets hyperscaler GPU capacity demand.<br>
 4. It could relieve water and power pressure on onshore data centres.<br>
 5. First prototype is targeted for 2027-2028.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

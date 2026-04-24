@@ -25,8 +25,3 @@ tags: ["CMB.tech", "Alexander Saverys", "IMO", "Green Fuels", "Regulation", "US"
 3. The US is delaying the entry into force of global shipping emissions rules.<br>
 4. EU frameworks like ETS and FuelEU Maritime continue to pave the way.<br>
 5. CMB.tech stays committed to its 2040 net-zero target.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

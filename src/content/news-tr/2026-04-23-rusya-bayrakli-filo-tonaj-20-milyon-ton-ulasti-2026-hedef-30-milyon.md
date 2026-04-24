@@ -30,8 +30,3 @@ tags:
 3. 2026 sonunda 30 milyon ton hedefleniyor.<br>
 4. Bayrağa geçmeyi bekleyen 1.000'e kadar büyük tanker var.<br>
 5. Hindistan gibi ülkeler Rus P&I sigortacı listesini genişletti.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

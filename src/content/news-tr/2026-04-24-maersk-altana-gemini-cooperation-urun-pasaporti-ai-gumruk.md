@@ -32,8 +32,3 @@ tags:
 3. 12 liman küresel ticaretin yaklaşık %70'ini işliyor.<br>
 4. Gemini yedi Doğu-Batı rotasında çalışıyor; 29 ana hat + 29 shuttle servisi var.<br>
 5. Altana'nın pasaport yöneticisi varış öncesi gümrük kararlarını mümkün kılacak.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

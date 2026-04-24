@@ -30,8 +30,3 @@ tags:
 3. Bazı Asya-Avrupa servisleri Panama üzerinden transpasifik rotaya kaydı.<br>
 4. Panama Kanalı açık artırma fiyatları rekor seviyelerde.<br>
 5. Bunker yakıt fiyatlarındaki tırmanış marjları baskılıyor.</p>
-<p><strong>!!! DUYURU !!!</strong></p>
-<p><strong>ERP Nasıl Alınır? Kitabımız Google Play Book&rsquo;da yayınlanmıştır.</strong></p>
-<p>#ERP Nedir?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a> &nbsp;Linki üzerinden ücretsiz olarak indirip okuyabilirsiniz.</p>
-<p><br></p>

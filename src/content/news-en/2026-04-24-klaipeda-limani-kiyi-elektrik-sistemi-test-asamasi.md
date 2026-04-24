@@ -25,8 +25,3 @@ tags: ["Klaipeda", "Shore Power", "Port Decarbonization", "Lithuania", "Cold Iro
 3. Up to four vessels can connect to shore power simultaneously.<br>
 4. Berthed vessels will switch off auxiliary engines for zero-emission hotel power.<br>
 5. The system primarily serves international passenger and RoRo ferries.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

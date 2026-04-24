@@ -25,8 +25,3 @@ tags: ["Panama Canal", "Traffic", "Cargo", "Auction", "Strait of Hormuz"]
 3. Daily traffic exceeded 40 vessels on peak days.<br>
 4. Some auctions saw transit fees exceed $1 million.<br>
 5. Average auction price climbed to about $385k, up from $135-140k before the war.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>

@@ -25,8 +25,3 @@ tags: ["India", "Russia", "Oil", "Insurance", "Sanctions", "Iran War"]
 3. Western insurers avoid Russian cargo; Russian insurers are now the only option.<br>
 4. The US sanctions waiver was extended for another month on 11 April.<br>
 5. India is the world's third-largest oil consumer, sourcing most demand from Russia.</p>
-<p><strong>!!! ANNOUNCEMENT !!!</strong></p>
-<p><strong>How to Procure ERP? Our book has been published on Google Play Books.</strong></p>
-<p>#What is ERP?</p>
-<p><a href="https://www.sedatonat.com/erpnasilalinir" target="_blank">https://www.sedatonat.com/erpnasilalinir</a>&nbsp; You can download and read it for free via the link above.</p>
-<p><br></p>
