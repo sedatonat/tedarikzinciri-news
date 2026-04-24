@@ -24,7 +24,7 @@ export const ui = {
     'site.tagline': 'Tedarik zinciri, lojistik, satınalma ve teknolojide güncel haberler',
     'news.readMore': 'Haberi oku',
     'news.source': 'Kaynak',
-    'news.sourceLink': 'Haber Linki',
+    'news.sourceLink': 'Kaynak Haber Linki',
     'news.author': 'Yazar',
     'news.important': 'Önemli Notlar',
     'news.published': 'Yayın Tarihi',
