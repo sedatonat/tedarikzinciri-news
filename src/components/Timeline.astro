@@ -166,45 +166,54 @@ function pad2(n: number): string {
       if (!mouseActive) schedule();
     }
 
-    // Articles carry data-article-date (NewsCard, FlowCard, NewsLayout).
-    const allArticles = Array.from(document.querySelectorAll('article[data-article-date]'));
+    // Scroll-spy setup runs after DOM is ready, since Timeline is rendered
+    // BEFORE articles in the page source. If we query for articles synchronously
+    // at script execution time, the result is always empty.
+    function initScrollSpy() {
+      // Articles carry data-article-date (NewsCard, FlowCard, NewsLayout).
+      const allArticles = Array.from(document.querySelectorAll('article[data-article-date]'));
+      if (allArticles.length === 0) return;
 
-    if (allArticles.length === 1) {
-      // Article detail page — anchor once.
-      const onlyArt = allArticles[0];
-      const ym = ymFromIso(onlyArt.getAttribute('data-article-date'));
-      const update = () => setActiveYm(ym);
-      update();
-      window.addEventListener('resize', update);
-      window.addEventListener('scroll', update, { passive: true });
-    } else if (allArticles.length > 1) {
-      // Listing pages — track viewport-center article every scroll/resize.
-      // Filter out invisible cards (the inactive layout mode is hidden).
-      let pickRaf = 0;
-      function pickBest() {
-        pickRaf = 0;
-        const vh = window.innerHeight || document.documentElement.clientHeight;
-        const vCenter = vh / 2;
-        let bestEl = null;
-        let bestDist = Infinity;
-        for (const el of allArticles) {
-          if (!isVisible(el)) continue;
-          const r = el.getBoundingClientRect();
-          // Skip articles entirely above viewport top or below viewport bottom.
-          if (r.bottom < 0 || r.top > vh) continue;
-          const c = r.top + r.height / 2;
-          const dist = Math.abs(c - vCenter);
-          if (dist < bestDist) { bestDist = dist; bestEl = el; }
+      if (allArticles.length === 1) {
+        // Article detail page — anchor once.
+        const onlyArt = allArticles[0];
+        const ym = ymFromIso(onlyArt.getAttribute('data-article-date'));
+        const update = () => setActiveYm(ym);
+        update();
+        window.addEventListener('resize', update);
+        window.addEventListener('scroll', update, { passive: true });
+      } else {
+        // Listing pages — track viewport-center article every scroll/resize.
+        let pickRaf = 0;
+        function pickBest() {
+          pickRaf = 0;
+          const vh = window.innerHeight || document.documentElement.clientHeight;
+          const vCenter = vh / 2;
+          let bestEl = null;
+          let bestDist = Infinity;
+          for (const el of allArticles) {
+            if (!isVisible(el)) continue;
+            const r = el.getBoundingClientRect();
+            if (r.bottom < 0 || r.top > vh) continue;
+            const c = r.top + r.height / 2;
+            const dist = Math.abs(c - vCenter);
+            if (dist < bestDist) { bestDist = dist; bestEl = el; }
+          }
+          setActiveYm(bestEl ? ymFromIso(bestEl.getAttribute('data-article-date')) : null);
         }
-        setActiveYm(bestEl ? ymFromIso(bestEl.getAttribute('data-article-date')) : null);
+        function schedulePick() {
+          if (!pickRaf) pickRaf = requestAnimationFrame(pickBest);
+        }
+        window.addEventListener('scroll', schedulePick, { passive: true });
+        window.addEventListener('resize', schedulePick);
+        requestAnimationFrame(schedulePick);
       }
-      function schedulePick() {
-        if (!pickRaf) pickRaf = requestAnimationFrame(pickBest);
-      }
-      window.addEventListener('scroll', schedulePick, { passive: true });
-      window.addEventListener('resize', schedulePick);
-      // First run after initial paint so getBoundingClientRect is reliable.
-      requestAnimationFrame(schedulePick);
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initScrollSpy, { once: true });
+    } else {
+      initScrollSpy();
     }
   })();
 </script>
