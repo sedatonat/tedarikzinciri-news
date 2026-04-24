@@ -57,7 +57,13 @@ function pad2(n: number): string {
 </aside>
 
 <style>
-  .timeline-rail { width: calc(8rem + 3px); }
+  .timeline-rail { width: 5rem; }
+  /* overflow-y:auto with overflow-x:visible spec-quirks to both-axis scrollable,
+     which showed a horizontal scrollbar whenever a month was magnified. `clip`
+     keeps the vertical scroll but suppresses the unwanted horizontal scrollbar
+     without actually hiding anything we render (magnified items stay within
+     the rail width). */
+  .timeline-scroll { overflow-x: clip; }
   .timeline-scroll::-webkit-scrollbar { width: 4px; }
   .timeline-scroll::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.25); border-radius: 2px; }
   :global(html.dark) .timeline-scroll::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.35); }
