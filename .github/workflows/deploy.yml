@@ -44,3 +44,50 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: pages deploy dist --project-name=tedarikzinciri-news --branch=main --commit-dirty=true
+
+      - name: IndexNow ping (Bing/Yandex/Seznam)
+        if: success()
+        env:
+          INDEXNOW_KEY: 38313923ac59a1aa9690cdbf8d4d304c
+        run: |
+          set -e
+          # Collect URLs of news articles changed in this push (TR + EN).
+          # Falls back to a small set of high-priority URLs if no diff is available.
+          BEFORE='${{ github.event.before }}'
+          AFTER='${{ github.sha }}'
+          urls=()
+          if [ -n "$BEFORE" ] && [ "$BEFORE" != "0000000000000000000000000000000000000000" ]; then
+            while IFS= read -r f; do
+              case "$f" in
+                src/content/news-tr/*.md)
+                  slug=$(basename "$f" .md)
+                  urls+=("https://tzp.news/haber/$slug/")
+                  ;;
+                src/content/news-en/*.md)
+                  slug=$(basename "$f" .md)
+                  urls+=("https://tzp.news/en/news/$slug/")
+                  ;;
+              esac
+            done < <(git diff --name-only --diff-filter=AM "$BEFORE" "$AFTER" 2>/dev/null || true)
+          fi
+          # Always include the home pages so the crawl pipeline stays warm.
+          urls+=("https://tzp.news/")
+          urls+=("https://tzp.news/en/")
+          # De-duplicate
+          mapfile -t urls < <(printf '%s\n' "${urls[@]}" | awk 'NF && !seen[$0]++')
+          # Cap to 10000 (IndexNow per-request limit) — almost certainly fine.
+          if [ ${#urls[@]} -eq 0 ]; then
+            echo "No URLs to ping; skipping IndexNow."
+            exit 0
+          fi
+          echo "Pinging ${#urls[@]} URL(s) to IndexNow..."
+          # Build JSON body
+          urls_json=$(printf '%s\n' "${urls[@]}" | jq -R . | jq -s .)
+          body=$(jq -n --arg host "tzp.news" --arg key "$INDEXNOW_KEY" \
+            --arg loc "https://tzp.news/$INDEXNOW_KEY.txt" \
+            --argjson urls "$urls_json" \
+            '{host: $host, key: $key, keyLocation: $loc, urlList: $urls}')
+          echo "$body" | head -c 500; echo
+          curl -sS -X POST -H 'Content-Type: application/json' -d "$body" \
+            'https://api.indexnow.org/IndexNow' -o /tmp/indexnow.out -w 'HTTP %{http_code}\n' || true
+          cat /tmp/indexnow.out 2>/dev/null || true
