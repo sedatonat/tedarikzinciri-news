@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import { categoryLabel, categoryPath } from '../i18n/utils';
 import { slugifyTag, tagPath } from '../lib/tags';
 import type { Lang } from '../i18n/ui';
+import { events as chronologyEvents } from '../lib/chronology';
 
 interface Props {
   lang: Lang;
@@ -67,9 +68,40 @@ function topCategory(cats: Map<string, number>): string {
 
 const heading = lang === 'tr' ? 'Trendler' : 'Trends';
 const postsLabel = (n: number) => lang === 'tr' ? `${n} gönderi` : `${n} posts`;
+
+// Chronology promo bar (sits above Trendler)
+const chronoCount = chronologyEvents.length;
+const chronoYears = (() => {
+  const years = chronologyEvents.map(e => Number(e.date.slice(0, 4))).filter(Number.isFinite);
+  if (!years.length) return '';
+  const min = Math.min(...years);
+  const max = Math.max(...years);
+  return min === max ? `${min}` : `${min}–${max}`;
+})();
+const chronoLabel = lang === 'tr'
+  ? `Kronoloji: ${chronoCount} olay, ${chronoYears}`
+  : `Chronology: ${chronoCount} events, ${chronoYears}`;
+const chronoHref = lang === 'tr' ? '/kronoloji/' : '/en/chronology/';
 ---
 <aside class="hidden lg:block w-[330px] shrink-0">
-  <div class="sticky top-20">
+  <div class="sticky top-20 space-y-3">
+    <a
+      href={chronoHref}
+      class="group flex items-center gap-2.5 px-4 py-2.5 rounded-2xl border border-ink-200 dark:border-ink-800 bg-ink-100/70 dark:bg-ink-900/70 text-ink-700 dark:text-ink-200 hover:border-brand-500 hover:text-brand-700 dark:hover:text-brand-300 transition-colors"
+      aria-label={chronoLabel}
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4 text-brand-500 dark:text-brand-400 shrink-0" aria-hidden="true">
+        <path d="M4 6h8a3 3 0 0 1 0 6H9a3 3 0 0 0 0 6h10"/>
+        <circle cx="6" cy="6" r="1.6" fill="currentColor" stroke="none"/>
+        <circle cx="13" cy="12" r="1.6" fill="currentColor" stroke="none"/>
+        <circle cx="11" cy="18" r="1.6" fill="currentColor" stroke="none"/>
+        <path d="m17 15 3 3-3 3"/>
+      </svg>
+      <span class="flex-1 text-sm font-medium leading-tight truncate">{chronoLabel}</span>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4 text-ink-400 group-hover:translate-x-0.5 transition-transform" aria-hidden="true">
+        <path d="M5 12h14"/><path d="m12 5 7 7-7 7"/>
+      </svg>
+    </a>
     <div class="rounded-2xl bg-ink-100/70 dark:bg-ink-900/70 border border-ink-200 dark:border-ink-800 overflow-hidden">
       <div class="px-4 pt-3 pb-2 flex items-center gap-2">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5 text-brand-500" aria-hidden="true">
