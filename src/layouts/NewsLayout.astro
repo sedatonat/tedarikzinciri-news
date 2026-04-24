@@ -92,7 +92,8 @@ const jsonLd = {
   articleSection: frontmatter.category,
   author: {
     '@type': 'Person',
-    name: frontmatter.author ?? 'Sedat Onat'
+    name: frontmatter.author ?? 'Sedat Onat',
+    url: (frontmatter.author ?? 'Sedat Onat') === 'Sedat Onat' ? 'https://www.sedatonat.com' : undefined
   },
   publisher: {
     '@type': 'Organization',
