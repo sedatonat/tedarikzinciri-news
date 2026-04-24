@@ -246,17 +246,17 @@ const jsonLd = {
         <p><strong>{t('news.sourceLink')}:</strong> <a href={frontmatter.sourceUrl} rel="noopener nofollow" target="_blank">{frontmatter.sourceUrl}</a></p>
       </footer>
     )}
+    {relatedArticles.length > 0 && (
+      <aside class="mt-12 pt-8 border-t border-ink-200 dark:border-ink-800">
+        <h2 class="text-lg sm:text-xl font-semibold mb-5 text-ink-900 dark:text-ink-100">
+          {lang === 'tr' ? 'İlgili haberler' : 'Related articles'}
+        </h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {relatedArticles.map(e => <NewsCard entry={e} />)}
+        </div>
+      </aside>
+    )}
   </article>
-  {relatedArticles.length > 0 && (
-    <aside class="container-narrow mt-12 pt-8 border-t border-ink-200 dark:border-ink-800">
-      <h2 class="text-lg sm:text-xl font-semibold mb-5 text-ink-900 dark:text-ink-100">
-        {lang === 'tr' ? 'İlgili haberler' : 'Related articles'}
-      </h2>
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {relatedArticles.map(e => <NewsCard entry={e} />)}
-      </div>
-    </aside>
-  )}
   <script>
     // Back button: prefer browser history when there is a real previous page
     // on the same origin; otherwise let the <a href> fallback (home) take over.
