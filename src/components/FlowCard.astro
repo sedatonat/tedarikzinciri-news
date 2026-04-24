@@ -89,23 +89,48 @@ if (entry.data.sourceUrl) {
     </a>
 
     <div class="flex-1 min-w-0">
-      <!-- Header line: category name + dot + time -->
-      <div class="flex flex-wrap items-center gap-x-1.5 text-sm leading-tight">
-        <a href={categoryPath(lang, cat)} class="font-bold text-ink-900 dark:text-ink-100 hover:underline truncate">
-          {catLabel}
-        </a>
-        <span class="text-ink-400 dark:text-ink-600">·</span>
-        <time datetime={dateObj.toISOString()} class="text-ink-500 dark:text-ink-400" title={dateAbs}>
-          {timeLabel}
-        </time>
-      </div>
-      {sourceHost && (
-        <div class="text-xs text-ink-500 dark:text-ink-400 mt-0.5 truncate">
-          <a href={entry.data.sourceUrl} target="_blank" rel="noopener noreferrer nofollow"
-             class="hover:text-brand-600 hover:underline underline-offset-4 decoration-dotted break-all"
-             title={entry.data.sourceUrl}>{sourceHost}</a>
+      <!-- Header line: category name + dot + time, with share on the right -->
+      <div class="flex items-start gap-2">
+        <div class="flex-1 min-w-0">
+          <div class="flex flex-wrap items-center gap-x-1.5 text-sm leading-tight">
+            <a href={categoryPath(lang, cat)} class="font-bold text-ink-900 dark:text-ink-100 hover:underline truncate">
+              {catLabel}
+            </a>
+            <span class="text-ink-400 dark:text-ink-600">·</span>
+            <time datetime={dateObj.toISOString()} class="text-ink-500 dark:text-ink-400" title={dateAbs}>
+              {timeLabel}
+            </time>
+          </div>
+          {sourceHost && (
+            <div class="text-xs text-ink-500 dark:text-ink-400 mt-0.5 truncate">
+              <a href={entry.data.sourceUrl} target="_blank" rel="noopener noreferrer nofollow"
+                 class="hover:text-brand-600 hover:underline underline-offset-4 decoration-dotted break-all"
+                 title={entry.data.sourceUrl}>{sourceHost}</a>
+            </div>
+          )}
         </div>
-      )}
+        <details class="share-menu relative icon-tip shrink-0 -mr-1 -mt-1" data-tip={lang === 'tr' ? 'Haberi paylaş' : 'Share news'}>
+          <summary class="list-none cursor-pointer [&::-webkit-details-marker]:hidden inline-flex items-center text-ink-500 dark:text-ink-400 hover:text-sky-500" aria-label={lang === 'tr' ? 'Paylaş' : 'Share'}>
+            <span class="p-1.5 rounded-full hover:bg-sky-500/10">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-[18px] h-[18px]" aria-hidden="true">
+                <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/>
+              </svg>
+            </span>
+          </summary>
+          <div class="absolute right-0 top-full mt-2 z-30 w-56 rounded-xl bg-white dark:bg-ink-900 border border-ink-200 dark:border-ink-800 shadow-lg overflow-hidden text-sm">
+            <button data-share="copy" data-url={href} data-copied={lang === 'tr' ? 'Kopyalandı!' : 'Copied!'} type="button" class="block w-full text-left px-4 py-2.5 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-900 dark:text-ink-100 font-medium">
+              <span class="share-label">{lang === 'tr' ? 'Linki Kopyala' : 'Copy link'}</span>
+            </button>
+            <div class="h-px bg-ink-200 dark:bg-ink-800"></div>
+            <button data-share="twitter" data-url={href} data-title={entry.data.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">X (Twitter)</button>
+            <button data-share="linkedin" data-url={href} data-title={entry.data.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">LinkedIn</button>
+            <button data-share="facebook" data-url={href} data-title={entry.data.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">Facebook</button>
+            <button data-share="whatsapp" data-url={href} data-title={entry.data.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">WhatsApp</button>
+            <button data-share="telegram" data-url={href} data-title={entry.data.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">Telegram</button>
+            <button data-share="email" data-url={href} data-title={entry.data.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">{lang === 'tr' ? 'E-posta' : 'Email'}</button>
+          </div>
+        </details>
+      </div>
 
       <!-- Title (bold, like a tweet's lead line) -->
       <a href={href} class="block mt-1">
@@ -128,36 +153,17 @@ if (entry.data.sourceUrl) {
         </a>
       )}
 
-      <!-- Share + tags row -->
-      <div class="mt-3 flex flex-wrap items-center gap-x-2 gap-y-1.5 text-ink-500 dark:text-ink-400">
-        <details class="share-menu relative icon-tip shrink-0" data-tip={lang === 'tr' ? 'Haberi paylaş' : 'Share news'}>
-          <summary class="list-none cursor-pointer [&::-webkit-details-marker]:hidden inline-flex items-center hover:text-sky-500" aria-label={lang === 'tr' ? 'Paylaş' : 'Share'}>
-            <span class="p-1.5 rounded-full hover:bg-sky-500/10">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-[18px] h-[18px]" aria-hidden="true">
-                <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/>
-              </svg>
-            </span>
-          </summary>
-          <div class="absolute left-0 bottom-full mb-2 z-30 w-56 rounded-xl bg-white dark:bg-ink-900 border border-ink-200 dark:border-ink-800 shadow-lg overflow-hidden text-sm">
-            <button data-share="copy" data-url={href} data-copied={lang === 'tr' ? 'Kopyalandı!' : 'Copied!'} type="button" class="block w-full text-left px-4 py-2.5 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-900 dark:text-ink-100 font-medium">
-              <span class="share-label">{lang === 'tr' ? 'Linki Kopyala' : 'Copy link'}</span>
-            </button>
-            <div class="h-px bg-ink-200 dark:bg-ink-800"></div>
-            <button data-share="twitter" data-url={href} data-title={entry.data.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">X (Twitter)</button>
-            <button data-share="linkedin" data-url={href} data-title={entry.data.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">LinkedIn</button>
-            <button data-share="facebook" data-url={href} data-title={entry.data.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">Facebook</button>
-            <button data-share="whatsapp" data-url={href} data-title={entry.data.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">WhatsApp</button>
-            <button data-share="telegram" data-url={href} data-title={entry.data.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">Telegram</button>
-            <button data-share="email" data-url={href} data-title={entry.data.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">{lang === 'tr' ? 'E-posta' : 'Email'}</button>
-          </div>
-        </details>
-        {topTags.map((tag) => (
-          <a
-            href={tagPath(lang, tag)}
-            class="inline-flex items-center px-2 py-0.5 rounded-full text-[11px] capitalize border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 text-ink-600 dark:text-ink-300 hover:border-brand-500 hover:text-brand-700 dark:hover:text-brand-300 transition-colors"
-          >#{tag}</a>
-        ))}
-      </div>
+      <!-- Tags row -->
+      {topTags.length > 0 && (
+        <div class="mt-3 flex flex-wrap items-center gap-x-2 gap-y-1.5">
+          {topTags.map((tag) => (
+            <a
+              href={tagPath(lang, tag)}
+              class="inline-flex items-center px-2 py-0.5 rounded-full text-[11px] capitalize border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 text-ink-600 dark:text-ink-300 hover:border-brand-500 hover:text-brand-700 dark:hover:text-brand-300 transition-colors"
+            >#{tag}</a>
+          ))}
+        </div>
+      )}
     </div>
   </div>
 </article>
