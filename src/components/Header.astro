@@ -44,6 +44,15 @@ const t = useTranslations(lang);
           <span data-mode-thumb class="absolute top-0.5 left-0.5 w-7 h-7 rounded-full bg-white dark:bg-ink-700 shadow-sm transition-transform duration-200 ease-out" aria-hidden="true"></span>
         </div>
       </div>
+      <a href={lang === 'tr' ? '/kronoloji/' : '/en/chronology/'} class="p-2 hover:text-brand-600 inline-flex items-center justify-center" aria-label={t('nav.chronology')} title={t('nav.chronology')}>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5" aria-hidden="true">
+          <path d="M4 6h8a3 3 0 0 1 0 6H9a3 3 0 0 0 0 6h10"/>
+          <circle cx="6" cy="6" r="1.6" fill="currentColor" stroke="none"/>
+          <circle cx="13" cy="12" r="1.6" fill="currentColor" stroke="none"/>
+          <circle cx="11" cy="18" r="1.6" fill="currentColor" stroke="none"/>
+          <path d="m17 15 3 3-3 3"/>
+        </svg>
+      </a>
       <a href={localizedPath(lang, '/')} class="p-2 hover:text-brand-600 inline-flex items-center justify-center" aria-label={t('nav.home')} title={t('nav.home')}>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5" aria-hidden="true">
           <path d="M3 11.5L12 4l9 7.5"/><path d="M5 10.5V20a1 1 0 0 0 1 1h4v-6h4v6h4a1 1 0 0 0 1-1v-9.5"/>
@@ -52,15 +61,6 @@ const t = useTranslations(lang);
       <a href={lang === 'tr' ? '/kategoriler' : '/en/categories'} class="p-2 hover:text-brand-600 inline-flex items-center justify-center" aria-label={t('nav.categories')} title={t('nav.categories')}>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5" aria-hidden="true">
           <rect x="3" y="3" width="7" height="7" rx="1.2"/><rect x="14" y="3" width="7" height="7" rx="1.2"/><rect x="3" y="14" width="7" height="7" rx="1.2"/><rect x="14" y="14" width="7" height="7" rx="1.2"/>
-        </svg>
-      </a>
-      <a href={lang === 'tr' ? '/kronoloji/' : '/en/chronology/'} class="p-2 hover:text-brand-600 inline-flex items-center justify-center" aria-label={t('nav.chronology')} title={t('nav.chronology')}>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5" aria-hidden="true">
-          <path d="M4 6h8a3 3 0 0 1 0 6H9a3 3 0 0 0 0 6h10"/>
-          <circle cx="6" cy="6" r="1.6" fill="currentColor" stroke="none"/>
-          <circle cx="13" cy="12" r="1.6" fill="currentColor" stroke="none"/>
-          <circle cx="11" cy="18" r="1.6" fill="currentColor" stroke="none"/>
-          <path d="m17 15 3 3-3 3"/>
         </svg>
       </a>
       <a href={lang === 'tr' ? '/ara' : '/en/search'} class="p-2 hover:text-brand-600 inline-flex items-center justify-center" aria-label={t('nav.search')} title={t('nav.search')}>
