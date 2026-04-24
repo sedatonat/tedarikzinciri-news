@@ -1682,4 +1682,88 @@ export const events: ChronologyEvent[] = [
     summary_tr: 'ShippingWatch\'a göre İran savaşı; Atlantik ile Pasifik arasındaki hayati denizyolunu da etkiliyor; Panama Kanalı geçiş açık artırma ücretle…',
     summary_en: 'According to ShippingWatch, the Iran war is also affecting the vital shipping route between the Atlantic and the Pacific; Panama Canal tran…'
   },
+
+
+  // Batch 3: from batch34 + batch35 URL additions
+  {
+    date: '2026-04-21',
+    kind: 'agreement',
+    slug: '2026-04-21-lufthansa-20k-ucus-iptal-iran-savasi-jet-yakit',
+    title_tr: 'Lufthansa İran savaşı nedeniyle 20.000 uçuşu iptal etti',
+    title_en: 'Lufthansa cancels 20,000 flights over the Iran war',
+    summary_tr: 'Alman havayolu, 40.000 ton jet yakıt tasarrufu için kapasitesini düşürüyor.',
+    summary_en: 'The German carrier is cutting capacity to save 40,000 tonnes of jet fuel.'
+  },
+  {
+    date: '2026-04-22',
+    kind: 'sanction',
+    slug: '2026-04-22-hindistan-rus-gemi-sigorta-saglayicilarini-genislettti-petrol',
+    title_tr: 'Hindistan Rus gemi sigortacılarını 8\'den 11\'e çıkardı',
+    title_en: 'India raises approved Russian ship insurers from 8 to 11',
+    summary_tr: 'Hindistan\'ın Rus tanker erişimini koruma kararı petrol akışını sürdürüyor.',
+    summary_en: 'India\'s move preserves Russian tanker port access and keeps oil flowing.'
+  },
+  {
+    date: '2026-04-22',
+    kind: 'accident',
+    slug: '2026-04-22-rus-lng-tankeri-arctic-metagaz-bengazi-serbest-kaldi-tow',
+    title_tr: 'Arctic Metagaz LNG tankerinin yedek hattı koptu, Libya açığında sürüklendi',
+    title_en: 'Arctic Metagaz LNG tanker\'s tow line snaps, drifts off Libya',
+    summary_tr: 'Tanker 120 mil açıkta kontrolsüz; LNG ve yakıt taşıması ciddi risk oluşturuyor.',
+    summary_en: 'The tanker drifts uncontrolled 120 nm offshore; its LNG and fuel pose serious risk.'
+  },
+  {
+    date: '2026-04-23',
+    kind: 'agreement',
+    slug: '2026-04-23-apm-terminals-valencia-imtiyaz-uzatmasi-2049-kiyi-elektrik',
+    title_tr: 'APM Terminals Valencia imtiyazını 2049\'a uzattı',
+    title_en: 'APM Terminals extends Valencia concession to 2049',
+    summary_tr: '10 milyon euro üstü yatırımla kıyı elektrik dahil dekarbonizasyon paketi.',
+    summary_en: 'Over €10m of investment including shore-power decarbonisation.'
+  },
+  {
+    date: '2026-04-23',
+    kind: 'agreement',
+    slug: '2026-04-23-endonezya-malacca-bogazi-transit-ucreti-onerisine-singapur-malezya-red',
+    title_tr: 'Endonezya\'nın Malakka transit ücreti önerisi Singapur ve Malezya\'dan red aldı',
+    title_en: 'Indonesia\'s Malacca toll proposal rejected by Singapore and Malaysia',
+    summary_tr: 'Bölgesel konsensüs boğazın açık ve ücretsiz kalacağını teyit etti.',
+    summary_en: 'Regional consensus reaffirmed the strait stays open and toll-free.'
+  },
+  {
+    date: '2026-04-24',
+    kind: 'agreement',
+    slug: '2026-04-24-maersk-altana-gemini-cooperation-urun-pasaporti-ai-gumruk',
+    title_tr: 'Maersk ve Altana Gemini\'ye AI tabanlı dijital ticaret katmanı ekliyor',
+    title_en: 'Maersk and Altana embed an AI trade layer into Gemini Cooperation',
+    summary_tr: '\'Ürün Pasaportları\' 12 büyük limanda gümrüklerle uyumu otomatikleştirecek.',
+    summary_en: '"Product Passports" will automate customs compliance across 12 major ports.'
+  },
+  {
+    date: '2026-04-24',
+    kind: 'agreement',
+    slug: '2026-04-24-klaipeda-limani-yesil-hidrojen-uretimi-baltik',
+    title_tr: 'Klaipėda Limanı Baltık\'ın ilk yeşil hidrojen üretimini başlatıyor',
+    title_en: 'Port of Klaipėda launches the Baltic\'s first green hydrogen production',
+    summary_tr: 'Litvanya\'nın ilk port-bazlı hidrojen arzı önümüzdeki haftalarda devreye giriyor.',
+    summary_en: 'Lithuania\'s first port-based hydrogen supply comes online in the coming weeks.'
+  },
+  {
+    date: '2026-04-24',
+    kind: 'agreement',
+    slug: '2026-04-24-klaipeda-limani-kiyi-elektrik-sistemi-test-asamasi',
+    title_tr: 'Klaipėda Limanı kıyı elektrik sistemi test aşamasında',
+    title_en: 'Port of Klaipėda advances shore power to testing phase',
+    summary_tr: 'Dört gemi aynı anda kıyı elektriğine bağlanıp yardımcı motorları kapatabilecek.',
+    summary_en: 'Four vessels will be able to connect to shore power simultaneously, switching off auxiliaries.'
+  },
+  {
+    date: '2026-04-22',
+    kind: 'agreement',
+    slug: '2026-04-22-samsung-heavy-offshore-veri-merkezi-floater-modeli-yeni-pazar',
+    title_tr: 'Samsung Heavy deniz üstü veri merkezi floater modeliyle AI pazarına giriyor',
+    title_en: 'Samsung Heavy targets the AI market with an offshore data centre floater',
+    summary_tr: 'Koreli tersane devi düşük soğutma maliyetli floater konsepti tanıttı.',
+    summary_en: 'The Korean shipbuilder unveiled a low-cooling-cost floater concept.'
+  },
 ];
