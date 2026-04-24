@@ -46,27 +46,15 @@ if (entry.data.sourceUrl) {
       <a href={dayHref} class="hover:text-brand-600 hover:underline underline-offset-4 decoration-dotted">
         <time datetime={dateObj.toISOString()}>{date}</time>
       </a>
-    </div>
-    {sourceHost && (
-      <div class="text-xs text-ink-500">
-        <a href={entry.data.sourceUrl} target="_blank" rel="noopener noreferrer nofollow"
-           class="hover:text-brand-600 hover:underline underline-offset-4 decoration-dotted break-all"
-           title={entry.data.sourceUrl}>{sourceHost}</a>
-      </div>
-    )}
-    <a href={href} class="block">
-      <h3 class="text-lg font-semibold leading-snug group-hover:text-brand-600">{entry.data.title}</h3>
-    </a>
-    <div class="mt-auto pt-2 flex flex-wrap items-center gap-x-2 gap-y-1.5 text-ink-500 dark:text-ink-400">
-      <details class="share-menu relative icon-tip shrink-0" data-tip={lang === 'tr' ? 'Haberi paylaş' : 'Share news'}>
-        <summary class="list-none cursor-pointer [&::-webkit-details-marker]:hidden inline-flex items-center hover:text-sky-500" aria-label={lang === 'tr' ? 'Paylaş' : 'Share'}>
-          <span class="p-1 rounded-full hover:bg-sky-500/10">
+      <details class="share-menu relative icon-tip shrink-0 ml-auto -mr-1" data-tip={lang === 'tr' ? 'Haberi paylaş' : 'Share news'}>
+        <summary class="list-none cursor-pointer [&::-webkit-details-marker]:hidden inline-flex items-center text-ink-500 dark:text-ink-400 hover:text-sky-500" aria-label={lang === 'tr' ? 'Paylaş' : 'Share'}>
+          <span class="p-1.5 rounded-full hover:bg-sky-500/10">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4" aria-hidden="true">
               <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/>
             </svg>
           </span>
         </summary>
-        <div class="absolute left-0 bottom-full mb-2 z-30 w-56 rounded-xl bg-white dark:bg-ink-900 border border-ink-200 dark:border-ink-800 shadow-lg overflow-hidden text-sm">
+        <div class="absolute right-0 top-full mt-2 z-30 w-56 rounded-xl bg-white dark:bg-ink-900 border border-ink-200 dark:border-ink-800 shadow-lg overflow-hidden text-sm">
           <button data-share="copy" data-url={href} data-copied={lang === 'tr' ? 'Kopyalandı!' : 'Copied!'} type="button" class="block w-full text-left px-4 py-2.5 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-900 dark:text-ink-100 font-medium">
             <span class="share-label">{lang === 'tr' ? 'Linki Kopyala' : 'Copy link'}</span>
           </button>
@@ -79,12 +67,26 @@ if (entry.data.sourceUrl) {
           <button data-share="email" data-url={href} data-title={entry.data.title} type="button" class="block w-full text-left px-4 py-2 hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-800 dark:text-ink-100">{lang === 'tr' ? 'E-posta' : 'Email'}</button>
         </div>
       </details>
-      {topTags.map((tag) => (
-        <a
-          href={tagPath(lang, tag)}
-          class="inline-flex items-center px-2 py-0.5 rounded-full text-[11px] capitalize border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 text-ink-700 dark:text-ink-200 hover:border-brand-500 hover:bg-brand-50 dark:hover:bg-brand-900/30 hover:text-brand-700 dark:hover:text-brand-300 transition-colors"
-        >{tag}</a>
-      ))}
     </div>
+    {sourceHost && (
+      <div class="text-xs text-ink-500">
+        <a href={entry.data.sourceUrl} target="_blank" rel="noopener noreferrer nofollow"
+           class="hover:text-brand-600 hover:underline underline-offset-4 decoration-dotted break-all"
+           title={entry.data.sourceUrl}>{sourceHost}</a>
+      </div>
+    )}
+    <a href={href} class="block">
+      <h3 class="text-lg font-semibold leading-snug group-hover:text-brand-600">{entry.data.title}</h3>
+    </a>
+    {topTags.length > 0 && (
+      <div class="mt-auto pt-2 flex flex-wrap items-center gap-x-2 gap-y-1.5">
+        {topTags.map((tag) => (
+          <a
+            href={tagPath(lang, tag)}
+            class="inline-flex items-center px-2 py-0.5 rounded-full text-[11px] capitalize border border-ink-200 dark:border-ink-800 bg-white dark:bg-ink-900 text-ink-700 dark:text-ink-200 hover:border-brand-500 hover:bg-brand-50 dark:hover:bg-brand-900/30 hover:text-brand-700 dark:hover:text-brand-300 transition-colors"
+          >{tag}</a>
+        ))}
+      </div>
+    )}
   </div>
 </article>
