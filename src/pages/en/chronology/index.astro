@@ -48,26 +48,37 @@ function formatDateEn(iso: string): string {
       Headline-making attacks, decisions, accidents, ceasefires and major acquisitions — ordered by date. Each event links to its source article.
     </p>
 
-    <div class="flex flex-wrap gap-2 mb-10">
+    <div class="flex flex-wrap items-center gap-2 mb-10" id="chrono-filter">
       {(Object.keys(KIND_META) as EventKind[]).map(k => (
-        <span class={`inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-medium ${KIND_META[k].chip}`}>
+        <button
+          type="button"
+          data-filter={k}
+          aria-pressed="false"
+          class={`chrono-chip inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-medium cursor-pointer ${KIND_META[k].chip} transition-opacity`}
+        >
           <span class={`inline-block w-1.5 h-1.5 rounded-full ${KIND_META[k].dot}`}></span>
           {KIND_META[k].en}
-        </span>
+        </button>
       ))}
+      <button
+        type="button"
+        data-filter-reset
+        class="hidden ml-1 px-2.5 py-1 rounded-full text-xs font-medium text-ink-600 dark:text-ink-300 border border-ink-300 dark:border-ink-700 hover:border-brand-500 hover:text-brand-600 transition-colors"
+      >Show all</button>
+      <span data-filter-count class="hidden text-xs text-ink-500 dark:text-ink-400 ml-1"></span>
     </div>
 
     <div class="relative max-w-5xl mx-auto">
       <div class="md:hidden absolute left-4 top-2 bottom-2 w-px bg-ink-200 dark:bg-ink-800" aria-hidden="true"></div>
       <div class="hidden md:block absolute left-1/2 top-0 bottom-0 w-px bg-ink-200 dark:bg-ink-800 -translate-x-1/2" aria-hidden="true"></div>
 
-      <ol class="space-y-6 md:space-y-10">
+      <ol data-chrono-list class="space-y-6 md:space-y-10">
         {sorted.map((e, i) => {
           const meta = KIND_META[e.kind];
           const isEven = i % 2 === 0;
           const href = `/en/news/${e.slug}/`;
           return (
-            <li>
+            <li data-kind={e.kind}>
               <div class="md:hidden relative pl-12">
                 <span class={`absolute left-0 top-1 flex items-center justify-center w-8 h-8 rounded-full bg-white dark:bg-ink-950 border-2 ring-4 ${meta.ring} ${meta.border} shrink-0`} aria-hidden="true">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class={`w-4 h-4 ${meta.text}`} set:html={meta.icon} />
@@ -120,6 +131,61 @@ function formatDateEn(iso: string): string {
           );
         })}
       </ol>
+      <p data-filter-empty class="hidden text-sm text-ink-500 dark:text-ink-400 text-center py-12">No events match the selected filter.</p>
     </div>
   </section>
+
+  <script is:inline>
+    (function () {
+      const filterRoot = document.getElementById('chrono-filter');
+      const list = document.querySelector('ol[data-chrono-list]') || document.querySelector('section ol');
+      if (!filterRoot || !list) return;
+      const items = Array.from(list.querySelectorAll('li[data-kind]'));
+      if (!items.length) return;
+      const chips = Array.from(filterRoot.querySelectorAll('[data-filter]'));
+      const reset = filterRoot.querySelector('[data-filter-reset]');
+      const counter = filterRoot.querySelector('[data-filter-count]');
+      const empty = document.querySelector('[data-filter-empty]');
+
+      const active = new Set();
+
+      function render() {
+        let visible = 0;
+        for (const li of items) {
+          const k = li.getAttribute('data-kind') || '';
+          const show = active.size === 0 || active.has(k);
+          li.style.display = show ? '' : 'none';
+          if (show) visible++;
+        }
+        for (const chip of chips) {
+          const on = active.has(chip.getAttribute('data-filter'));
+          chip.setAttribute('aria-pressed', on ? 'true' : 'false');
+          chip.style.opacity = active.size === 0 || on ? '1' : '0.4';
+        }
+        if (active.size > 0) {
+          reset.classList.remove('hidden');
+          counter.classList.remove('hidden');
+          counter.textContent = visible + ' events';
+        } else {
+          reset.classList.add('hidden');
+          counter.classList.add('hidden');
+        }
+        empty.classList.toggle('hidden', visible !== 0);
+      }
+
+      for (const chip of chips) {
+        chip.addEventListener('click', function () {
+          const k = chip.getAttribute('data-filter');
+          if (!k) return;
+          if (active.has(k)) active.delete(k);
+          else active.add(k);
+          render();
+        });
+      }
+      reset.addEventListener('click', function () {
+        active.clear();
+        render();
+      });
+    })();
+  </script>
 </BaseLayout>
