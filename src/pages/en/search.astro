@@ -38,6 +38,19 @@ const t = useTranslations('en');
           searching: 'Searching "[SEARCH_TERM]"…'
         }
       });
+      // Dismiss the on-screen keyboard when the user taps the keyboard's
+      // Search/Go/Return button. Pagefind queries on every keystroke, so
+      // Enter here just means "done typing".
+      const root = document.getElementById('search');
+      if (!root) return;
+      root.addEventListener('keydown', (e) => {
+        if (e.key !== 'Enter') return;
+        const t = e.target;
+        if (t && typeof t.blur === 'function') {
+          e.preventDefault();
+          t.blur();
+        }
+      });
     });
   </script>
 </BaseLayout>
