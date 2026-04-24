@@ -3,7 +3,7 @@ title: "Prolonged Iran War Triggers Blank Sailings and Falling Demand in Contain
 subtitle: "Drewry cut its global container port throughput growth forecast from 2.2% to 1.8%; concerns mount over medium-term oil shortages hitting manufacturing."
 date: "2026-04-24T08:00:00Z"
 category: "Lojistik"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Port_of_Singapore_container_ships.jpg/640px-Port_of_Singapore_container_ships.jpg"
+image: https://www.joc.com/images/phoenix/6208761_0.1.jpg
 imageAlt: "Container ships at the Port of Singapore"
 sourceUrl: "https://www.joc.com/article/container-shipping-faces-blank-sailings-falling-demand-from-prolonged-iran-war-6208766"
 author: "Sedat Onat"

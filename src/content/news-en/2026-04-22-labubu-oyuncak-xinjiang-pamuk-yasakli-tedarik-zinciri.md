@@ -3,7 +3,7 @@ title: "Labubu Dolls' Clothing Found to Contain Banned Xinjiang Cotton"
 subtitle: "An independent test commissioned by The New York Times on 20 Pop Mart Labubu dolls found Xinjiang cotton — linked to forced labour — in 16 of them."
 date: "2026-04-22T12:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cotton_field_Xinjiang.jpg/640px-Cotton_field_Xinjiang.jpg"
+image: https://www.supplychainbrain.com/ext/resources/2022/12/07/UYGUR-ABUSE-FORCED-LABOR-iStock-Andrii-Koval-1368403158.jpg
 imageAlt: "Representative cotton field image"
 sourceUrl: "https://www.supplychainbrain.com/articles/43928-labubu-dolls-clothing-found-to-contain-banned-cotton"
 author: "Sedat Onat"

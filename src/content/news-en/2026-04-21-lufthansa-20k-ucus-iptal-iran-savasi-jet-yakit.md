@@ -3,7 +3,7 @@ title: "Lufthansa Cuts 20K Flights to Save Jet Fuel amid Iran War"
 subtitle: "The German airline giant cuts capacity by less than 1% to save 40,000 metric tonnes of jet fuel over the next six months."
 date: "2026-04-21T10:00:00Z"
 category: "Lojistik"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Lufthansa_Airbus_A380-800_D-AIMK.jpg/640px-Lufthansa_Airbus_A380-800_D-AIMK.jpg"
+image: https://www.supplychainbrain.com/ext/resources/2026/04/22/LUFTHANSA-PLANE-iStock-Jetlinerimages-502393508.jpg
 imageAlt: "Lufthansa passenger aircraft"
 sourceUrl: "https://www.supplychainbrain.com/articles/43911-lufthansa-cuts-20k-flights-to-save-jet-fuel"
 author: "Sedat Onat"

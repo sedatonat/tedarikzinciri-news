@@ -3,7 +3,7 @@ title: "India Expands Russian Ship Insurance Providers from 8 to 11 to Keep Oil 
 subtitle: "With the Iran war ongoing, India preserves port access for Russian tankers; the US waiver was extended for another month on 11 April."
 date: "2026-04-22T10:00:00Z"
 category: "Lojistik"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Indian_Oil_Tanker.jpg/640px-Indian_Oil_Tanker.jpg"
+image: https://www.supplychainbrain.com/ext/resources/2024/08/28/port-of-mumbai-iStock-1214341878.jpg
 imageAlt: "Oil tanker at an Indian port"
 sourceUrl: "https://www.supplychainbrain.com/articles/43915-india-expands-russian-ship-insurance-access-to-keep-oil-flowing"
 author: "Sedat Onat"

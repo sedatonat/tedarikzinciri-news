@@ -5,7 +5,7 @@ date: '2026-04-21T10:00:00Z'
 category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Lufthansa_Airbus_A380-800_D-AIMK.jpg/640px-Lufthansa_Airbus_A380-800_D-AIMK.jpg
+image: https://www.supplychainbrain.com/ext/resources/2026/04/22/LUFTHANSA-PLANE-iStock-Jetlinerimages-502393508.jpg
 imageAlt: "Lufthansa yolcu uçağı"
 sourceUrl: https://www.supplychainbrain.com/articles/43911-lufthansa-cuts-20k-flights-to-save-jet-fuel
 author: Sedat Onat

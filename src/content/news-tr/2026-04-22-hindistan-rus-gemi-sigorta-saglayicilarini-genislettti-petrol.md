@@ -5,7 +5,7 @@ date: '2026-04-22T10:00:00Z'
 category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Indian_Oil_Tanker.jpg/640px-Indian_Oil_Tanker.jpg
+image: https://www.supplychainbrain.com/ext/resources/2024/08/28/port-of-mumbai-iStock-1214341878.jpg
 imageAlt: "Petrol tankeri Hindistan limanında"
 sourceUrl: https://www.supplychainbrain.com/articles/43915-india-expands-russian-ship-insurance-access-to-keep-oil-flowing
 author: Sedat Onat
