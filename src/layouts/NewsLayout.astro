@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from './BaseLayout.astro';
+import NewsCard from '../components/NewsCard.astro';
 import { getLangFromUrl, useTranslations, categoryLabel, categoryPath } from '../i18n/utils';
 import { tagPath } from '../lib/tags';
 import { dayUrl } from '../lib/timeline';
@@ -30,6 +31,31 @@ const newerHref = newerEntry ? `${newsBase}${newerEntry.slug}/` : null;
 const olderHref = olderEntry ? `${newsBase}${olderEntry.slug}/` : null;
 const newerLabel = lang === 'tr' ? 'Daha yeni haber' : 'Newer article';
 const olderLabel = lang === 'tr' ? 'Daha eski haber' : 'Older article';
+
+// Compute related articles by tag intersection
+const currentTags: string[] = Array.isArray(frontmatter.tags)
+  ? frontmatter.tags.filter((x: any) => typeof x === 'string' && x.trim()).map((x: string) => x.toLowerCase())
+  : [];
+const currentTagSet = new Set(currentTags);
+const currentCat = frontmatter.category;
+const relatedArticles = currentTagSet.size > 0
+  ? allEntries
+      .filter(e => e.slug !== slug)
+      .map(e => {
+        const tags: string[] = Array.isArray(e.data.tags)
+          ? e.data.tags.filter((x: any) => typeof x === 'string' && x.trim()).map((x: string) => x.toLowerCase())
+          : [];
+        let shared = 0;
+        for (const t of tags) if (currentTagSet.has(t)) shared++;
+        const sameCat = e.data.category === currentCat ? 1 : 0;
+        return { entry: e, shared, sameCat, ts: new Date(e.data.date).getTime() };
+      })
+      .filter(x => x.shared > 0)
+      .sort((a, b) => (b.shared - a.shared) || (b.sameCat - a.sameCat) || (b.ts - a.ts))
+      .slice(0, 3)
+      .map(x => x.entry)
+  : [];
+
 const t = useTranslations(lang);
 const dateObj = new Date(frontmatter.date);
 const date = dateObj.toLocaleDateString(
@@ -218,6 +244,16 @@ const jsonLd = {
       </footer>
     )}
   </article>
+  {relatedArticles.length > 0 && (
+    <aside class="container-narrow mt-12 pt-8 border-t border-ink-200 dark:border-ink-800">
+      <h2 class="text-lg sm:text-xl font-semibold mb-5 text-ink-900 dark:text-ink-100">
+        {lang === 'tr' ? 'İlgili haberler' : 'Related articles'}
+      </h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {relatedArticles.map(e => <NewsCard entry={e} />)}
+      </div>
+    </aside>
+  )}
   <script>
     // Back button: prefer browser history when there is a real previous page
     // on the same origin; otherwise let the <a href> fallback (home) take over.
