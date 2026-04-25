@@ -5,7 +5,7 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Envanter
-image: https://en.wikipedia.org/wiki/Special:FilePath/Toyota_carlogo.svg?width=640
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Toyota_carlogo.svg/1280px-Toyota_carlogo.svg.png
 imageAlt: "Toyota logosu"
 sourceUrl: https://www.supplychainbrain.com/articles/43705-toyota-to-spend-1b-to-boost-capacity-at-two-us-plants
 newsSequence: 43705

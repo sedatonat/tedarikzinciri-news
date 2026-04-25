@@ -5,7 +5,7 @@ date: '2026-04-22T10:00:00Z'
 category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
-image: https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Oman.svg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Oman.svg/1280px-Flag_of_Oman.svg.png
 imageAlt: "Umman bayrağı, Umman açıklarındaki konteyner gemisi saldırısını temsil eder"
 sourceUrl: https://container-news.com/container-ship-hit-by-gunfire-off-oman-coast/
 author: Sedat Onat

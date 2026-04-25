@@ -5,7 +5,7 @@ date: '2026-04-21T10:00:00Z'
 category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
-image: https://upload.wikimedia.org/wikipedia/commons/8/8a/Port_of_Long_Beach_logo.svg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Port_of_Long_Beach_logo.svg/1280px-Port_of_Long_Beach_logo.svg.png
 imageAlt: "Port of Long Beach logosu, ağır yük güzergâhı altyapı yatırımını temsil eder"
 sourceUrl: https://container-news.com/port-of-long-beach-awards-contract-to-improve-heavy-haul-route-infrastructure/
 author: Sedat Onat

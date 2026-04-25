@@ -3,7 +3,7 @@ title: "MSC Updates Emergency Fuel Surcharge After Middle East-Driven Bunker Sho
 subtitle: "Mediterranean Shipping Company has revised its EFS rates across North Europe, Mediterranean, Red Sea and East Africa corridors in response to continued volatility in global fuel markets."
 date: "2026-04-14T10:00:00Z"
 category: "Lojistik"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/47/MSC_logo.svg"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MSC_logo.svg/1280px-MSC_logo.svg.png"
 imageAlt: "MSC logo representing the emergency fuel surcharge update"
 sourceUrl: "https://container-news.com/msc-updates-emergency-fuel-surcharge/"
 author: "Sedat Onat"

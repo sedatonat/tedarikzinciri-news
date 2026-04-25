@@ -5,7 +5,7 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/Ford_logo_flat.svg?width=640
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ford_logo_flat.svg/1280px-Ford_logo_flat.svg.png
 imageAlt: "Ford Motor logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43458-ford-says-delay-in-tariff-relief-cost-it-an-extra-900m
 newsSequence: 43458

@@ -5,7 +5,7 @@ category: Teknoloji
 secondaryCategories:
   - Tedarik Zinciri
   - Lojistik
-image: https://en.wikipedia.org/wiki/Special:FilePath/Nvidia_logo.svg?width=640
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Nvidia_logo.svg/1280px-Nvidia_logo.svg.png
 imageAlt: "NVIDIA logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43874-tsmc-sees-58-boost-to-profits-in-q1-of-2026
 newsSequence: 43874

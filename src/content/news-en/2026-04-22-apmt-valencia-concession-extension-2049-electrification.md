@@ -3,7 +3,7 @@ title: "APMT Valencia Secures Concession Extension to 2049 With €10 Million El
 subtitle: "The Valenciaport Authority approved an eight-year extension to APM Terminals' concession; the investment plan covers Levante Quay electrification and onshore power supply (OPS) infrastructure."
 date: "2026-04-22T10:00:00Z"
 category: "Lojistik"
-image: "https://upload.wikimedia.org/wikipedia/commons/2/2c/APM_Terminals_logo.svg"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/APM_Terminals_logo.svg/1280px-APM_Terminals_logo.svg.png"
 imageAlt: "APM Terminals logo representing the Valenciaport concession extension"
 sourceUrl: "https://www.porttechnology.org/apmt-valencia-secures-long-term-concession-until-2049/"
 author: "Sedat Onat"

@@ -5,7 +5,7 @@ date: '2026-04-21T11:00:00Z'
 category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
-image: https://upload.wikimedia.org/wikipedia/commons/2/2c/Konecranes_logo.svg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Konecranes_logo.svg/1280px-Konecranes_logo.svg.png
 imageAlt: "Konecranes logosu, Lomé Container Terminal sipariş anlaşmasını temsil eder"
 sourceUrl: https://www.porttechnology.org/lct-expands-cargo-handling-fleet-with-konecranes-order/
 author: Sedat Onat

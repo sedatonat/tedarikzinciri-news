@@ -5,7 +5,7 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Lojistik
-image: https://en.wikipedia.org/wiki/Special:FilePath/Starbucks_Corporation_Logo_2011.svg?width=640
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/1280px-Starbucks_Corporation_Logo_2011.svg.png
 imageAlt: "Starbucks logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43596-starbucks-to-move-supply-chain-operations-roles-to-tennessee
 newsSequence: 43596

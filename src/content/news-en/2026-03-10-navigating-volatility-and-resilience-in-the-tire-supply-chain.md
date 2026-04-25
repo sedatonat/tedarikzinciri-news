@@ -5,7 +5,7 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Satınalma
-image: https://en.wikipedia.org/wiki/Special:FilePath/Ford_logo_flat.svg?width=640
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ford_logo_flat.svg/1280px-Ford_logo_flat.svg.png
 imageAlt: "Ford logo"
 sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/43418-navigating-volatility-and-resilience-in-the-tire-supply-chain
 newsSequence: 43418

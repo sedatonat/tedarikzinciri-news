@@ -5,7 +5,7 @@ date: '2026-04-14T10:00:00Z'
 category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
-image: https://upload.wikimedia.org/wikipedia/commons/4/47/MSC_logo.svg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MSC_logo.svg/1280px-MSC_logo.svg.png
 imageAlt: "MSC logosu, acil durum yakıt ek ücretini temsil eder"
 sourceUrl: https://container-news.com/msc-updates-emergency-fuel-surcharge/
 author: Sedat Onat

@@ -5,7 +5,7 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/Ikea_logo.svg?width=640
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ikea_logo.svg/1280px-Ikea_logo.svg.png
 imageAlt: "IKEA logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43097-ikeas-retailer-uses-innovative-approach-to-reducing-transport-emissions
 newsSequence: 43097

@@ -5,7 +5,7 @@ category: Teknoloji
 secondaryCategories:
   - Lojistik
   - Envanter
-image: https://en.wikipedia.org/wiki/Special:FilePath/Airbus_Logo_2017.svg?width=640
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Airbus_Logo_2017.svg/1280px-Airbus_Logo_2017.svg.png
 imageAlt: "Airbus logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43191-airbus-expects-supply-woes-to-drive-more-engine-shortages-in-2026
 newsSequence: 43191

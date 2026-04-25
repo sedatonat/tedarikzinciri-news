@@ -3,7 +3,7 @@ title: "TT Club & BSI 2025 Report: Global Cargo Theft Surge Deepens Supply Chain
 subtitle: "The new report identifies food and beverage cargo as the most-targeted category, while sea piracy surged by 85 per cent in the first half of 2025."
 date: "2026-04-21T10:00:00Z"
 category: "Tedarik Zinciri"
-image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Cargo_container_truck.svg"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cargo_container_truck.svg/1280px-Cargo_container_truck.svg.png"
 imageAlt: "Cargo truck representing the global cargo theft report"
 sourceUrl: "https://www.porttechnology.org/cargo-theft-surge-exposes-global-supply-chain-risk/"
 author: "Sedat Onat"

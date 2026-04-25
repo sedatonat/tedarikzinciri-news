@@ -5,7 +5,7 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/FedEx_Express.svg?width=640
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/FedEx_Express.svg/1280px-FedEx_Express.svg.png
 imageAlt: "FedEx logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43453-comparing-the-2026-fedex-and-ups-general-rate-increases
 newsSequence: 43453

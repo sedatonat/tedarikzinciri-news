@@ -4,7 +4,7 @@ date: '2025-12-23T09:00:00Z'
 category: Teknoloji
 secondaryCategories:
   - Tedarik Zinciri
-image: https://en.wikipedia.org/wiki/Special:FilePath/Nvidia_logo.svg?width=640
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Nvidia_logo.svg/1280px-Nvidia_logo.svg.png
 imageAlt: "NVIDIA logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43036-wingtech-chair-warns-chip-turmoil-to-worsen-on-nexperia-spat
 newsSequence: 43036

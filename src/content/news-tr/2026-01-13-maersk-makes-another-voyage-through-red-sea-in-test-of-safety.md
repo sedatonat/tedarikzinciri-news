@@ -5,7 +5,7 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/Maersk_Group_Logo.svg?width=640
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Maersk_Group_Logo.svg/1280px-Maersk_Group_Logo.svg.png
 imageAlt: "Maersk Group logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43193-maersk-makes-another-voyage-through-red-sea-in-test-of-safety
 newsSequence: 43193

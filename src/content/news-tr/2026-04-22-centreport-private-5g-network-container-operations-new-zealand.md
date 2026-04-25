@@ -5,7 +5,7 @@ date: '2026-04-22T10:30:00Z'
 category: Teknoloji
 secondaryCategories:
   - Lojistik
-image: https://upload.wikimedia.org/wikipedia/commons/9/96/Antenna_5G.svg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Antenna_5G.svg/1280px-Antenna_5G.svg.png
 imageAlt: "5G anteni, CentrePort özel 5G ağ kurulumunu temsil eder"
 sourceUrl: https://www.porttechnology.org/centreport-deploys-private-5g-for-container-operations/
 author: Sedat Onat

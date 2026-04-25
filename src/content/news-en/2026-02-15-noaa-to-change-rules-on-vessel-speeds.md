@@ -5,7 +5,7 @@ category: Lojistik
 secondaryCategories:
   - Envanter
   - Tedarik Zinciri
-image: https://en.wikipedia.org/wiki/Special:FilePath/NOAA_logo.svg?width=640
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/NOAA_logo.svg/1280px-NOAA_logo.svg.png
 imageAlt: "NOAA logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43480-noaa-to-change-rules-on-vessel-speeds
 newsSequence: 43480

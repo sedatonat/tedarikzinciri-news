@@ -3,7 +3,7 @@ title: "Singapore Launches OCEANS-X With Over 100 APIs for Maritime Data Exchang
 subtitle: "MPA's new platform delivers direct system integration for digital port clearance and electronic ship certificate exchange."
 date: "2026-04-21T10:30:00Z"
 category: "Teknoloji"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1280px-Flag_of_Singapore.svg.png"
 imageAlt: "Flag of Singapore representing the OCEANS-X maritime data platform"
 sourceUrl: "https://www.porttechnology.org/mpa-introduces-oceans-x-for-maritime-data-connectivity/"
 author: "Sedat Onat"

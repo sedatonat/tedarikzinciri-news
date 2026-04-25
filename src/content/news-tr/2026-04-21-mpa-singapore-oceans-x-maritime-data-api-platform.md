@@ -6,7 +6,7 @@ category: Teknoloji
 secondaryCategories:
   - Lojistik
   - Tedarik Zinciri
-image: https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1280px-Flag_of_Singapore.svg.png
 imageAlt: "Singapur bayrağı, OCEANS-X denizcilik veri platformunu temsil eder"
 sourceUrl: https://www.porttechnology.org/mpa-introduces-oceans-x-for-maritime-data-connectivity/
 author: Sedat Onat

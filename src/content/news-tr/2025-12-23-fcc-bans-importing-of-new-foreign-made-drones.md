@@ -5,7 +5,7 @@ category: Teknoloji
 secondaryCategories:
   - Lojistik
   - Tedarik Zinciri
-image: https://en.wikipedia.org/wiki/Special:FilePath/Seal_of_the_United_States_Federal_Communications_Commission.svg?width=640
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Seal_of_the_United_States_Federal_Communications_Commission.svg/1280px-Seal_of_the_United_States_Federal_Communications_Commission.svg.png
 imageAlt: "US FCC seal"
 sourceUrl: https://www.supplychainbrain.com/articles/43039-fcc-bans-importing-of-new-foreign-made-drones
 newsSequence: 43039

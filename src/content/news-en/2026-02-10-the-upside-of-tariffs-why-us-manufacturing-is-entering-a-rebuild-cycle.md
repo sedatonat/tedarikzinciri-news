@@ -5,7 +5,7 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Satınalma
-image: https://en.wikipedia.org/wiki/Special:FilePath/Seal_of_the_U.S._Immigration_and_Customs_Enforcement.svg?width=640
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Seal_of_the_U.S._Immigration_and_Customs_Enforcement.svg/1280px-Seal_of_the_U.S._Immigration_and_Customs_Enforcement.svg.png
 imageAlt: "U.S. ICE seal"
 sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/43323-the-upside-of-tariffs-why-us-manufacturing-is-entering-a-rebuild-cycle
 newsSequence: 43323

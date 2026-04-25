@@ -5,7 +5,7 @@ date: '2026-04-21T10:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
-image: https://upload.wikimedia.org/wikipedia/commons/9/9c/Cargo_container_truck.svg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cargo_container_truck.svg/1280px-Cargo_container_truck.svg.png
 imageAlt: "Kargo kamyonu, küresel kargo hırsızlığı raporunu temsil eder"
 sourceUrl: https://www.porttechnology.org/cargo-theft-surge-exposes-global-supply-chain-risk/
 author: Sedat Onat

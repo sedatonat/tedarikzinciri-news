@@ -3,7 +3,7 @@ title: "Lomé Container Terminal Orders Two Konecranes Reach Stackers as Fleet E
 subtitle: "The new SMV 4632 TC5 units strengthen the terminal's 32 electric RTG fleet and expand container handling capacity."
 date: "2026-04-21T11:00:00Z"
 category: "Lojistik"
-image: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Konecranes_logo.svg"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Konecranes_logo.svg/1280px-Konecranes_logo.svg.png"
 imageAlt: "Konecranes logo representing the Lomé Container Terminal order"
 sourceUrl: "https://www.porttechnology.org/lct-expands-cargo-handling-fleet-with-konecranes-order/"
 author: "Sedat Onat"

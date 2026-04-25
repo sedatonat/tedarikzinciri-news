@@ -5,7 +5,7 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/Amazon_logo.svg?width=640
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1280px-Amazon_logo.svg.png
 imageAlt: "Amazon logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43801-amazon-reaches-deal-with-usps-on-cuts-to-deliveries
 newsSequence: 43801

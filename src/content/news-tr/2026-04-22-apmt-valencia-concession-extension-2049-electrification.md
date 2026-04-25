@@ -6,7 +6,7 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: https://upload.wikimedia.org/wikipedia/commons/2/2c/APM_Terminals_logo.svg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/APM_Terminals_logo.svg/1280px-APM_Terminals_logo.svg.png
 imageAlt: "APM Terminals logosu, Valenciaport konsesyon uzatmasını temsil eder"
 sourceUrl: https://www.porttechnology.org/apmt-valencia-secures-long-term-concession-until-2049/
 author: Sedat Onat

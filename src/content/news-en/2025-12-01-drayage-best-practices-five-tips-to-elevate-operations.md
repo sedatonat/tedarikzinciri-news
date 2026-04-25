@@ -5,7 +5,7 @@ category: Lojistik
 secondaryCategories:
   - Teknoloji
   - Satınalma
-image: https://en.wikipedia.org/wiki/Special:FilePath/FedEx_Express.svg?width=640
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/FedEx_Express.svg/1280px-FedEx_Express.svg.png
 imageAlt: "FedEx Express logo"
 sourceUrl: https://www.supplychainbrain.com/articles/42912-drayage-best-practices-five-tips-to-elevate-operations
 newsSequence: 42912

@@ -3,7 +3,7 @@ title: "MPA and PSA Singapore Launch EOI for Autonomous Container Feeder Operati
 subtitle: "A remote operations centre is planned as part of the assessment of autonomous container shipping in the Singapore Strait and port waters."
 date: "2026-04-22T11:30:00Z"
 category: "Teknoloji"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1280px-Flag_of_Singapore.svg.png"
 imageAlt: "Flag of Singapore representing the autonomous container feeder vessel initiative"
 sourceUrl: "https://www.porttechnology.org/singapore-launches-autonomous-feeder-vessel-eoi/"
 author: "Sedat Onat"

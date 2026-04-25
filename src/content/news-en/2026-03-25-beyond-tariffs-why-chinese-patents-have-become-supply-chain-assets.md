@@ -5,7 +5,7 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Satınalma
   - Lojistik
-image: https://en.wikipedia.org/wiki/Special:FilePath/Seal_of_the_U.S._Immigration_and_Customs_Enforcement.svg?width=640
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Seal_of_the_U.S._Immigration_and_Customs_Enforcement.svg/1280px-Seal_of_the_U.S._Immigration_and_Customs_Enforcement.svg.png
 imageAlt: "U.S. ICE seal"
 sourceUrl: https://www.supplychainbrain.com/blogs/1-think-tank/post/43716-beyond-tariffs-why-chinese-patents-have-become-supply-chain-assets
 newsSequence: 43716

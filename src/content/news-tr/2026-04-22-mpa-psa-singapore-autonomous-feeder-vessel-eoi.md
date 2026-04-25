@@ -5,7 +5,7 @@ date: '2026-04-22T11:30:00Z'
 category: Teknoloji
 secondaryCategories:
   - Lojistik
-image: https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1280px-Flag_of_Singapore.svg.png
 imageAlt: "Singapur bayrağı, otonom konteyner besleme gemisi girişimini temsil eder"
 sourceUrl: https://www.porttechnology.org/singapore-launches-autonomous-feeder-vessel-eoi/
 author: Sedat Onat

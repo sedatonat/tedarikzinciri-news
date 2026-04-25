@@ -5,7 +5,7 @@ category: Teknoloji
 secondaryCategories:
   - Tedarik Zinciri
   - Lojistik
-image: https://en.wikipedia.org/wiki/Special:FilePath/Walmart_logo.svg?width=640
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/1280px-Walmart_logo.svg.png
 imageAlt: "Walmart logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43185-walmart-looks-to-expand-drone-deliveries-to-150-stores-in-2026
 newsSequence: 43185

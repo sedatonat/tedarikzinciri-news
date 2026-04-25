@@ -5,7 +5,7 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/Seal_of_the_U.S._Immigration_and_Customs_Enforcement.svg?width=640
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Seal_of_the_U.S._Immigration_and_Customs_Enforcement.svg/1280px-Seal_of_the_U.S._Immigration_and_Customs_Enforcement.svg.png
 imageAlt: "U.S. ICE seal"
 sourceUrl: https://www.supplychainbrain.com/articles/43520-senate-democrats-introduce-bill-to-require-tariff-refunds
 newsSequence: 43520

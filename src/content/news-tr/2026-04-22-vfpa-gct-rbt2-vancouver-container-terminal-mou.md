@@ -5,7 +5,7 @@ date: '2026-04-22T11:00:00Z'
 category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
-image: https://upload.wikimedia.org/wikipedia/commons/8/82/Port_of_Vancouver_logo.svg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Port_of_Vancouver_logo.svg/1280px-Port_of_Vancouver_logo.svg.png
 imageAlt: "Vancouver Limanı logosu, Roberts Bank Terminal 2 anlaşmasını temsil eder"
 sourceUrl: https://www.porttechnology.org/vfpa-gct-explore-rbt2-development-deal/
 author: Sedat Onat

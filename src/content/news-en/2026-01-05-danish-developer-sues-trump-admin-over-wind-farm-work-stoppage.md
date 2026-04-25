@@ -5,7 +5,7 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: https://en.wikipedia.org/wiki/Special:FilePath/%C3%98rsted_logo.svg?width=640
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/%C3%98rsted_logo.svg/1280px-%C3%98rsted_logo.svg.png
 imageAlt: "Ørsted logo"
 sourceUrl: https://www.supplychainbrain.com/articles/43074-danish-developer-sues-trump-admin-over-wind-farm-work-stoppage
 newsSequence: 43074
