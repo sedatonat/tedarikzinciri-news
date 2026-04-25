@@ -245,11 +245,18 @@ const jsonLd = {
       let sourceHost = '';
       try { sourceHost = new URL(frontmatter.sourceUrl).hostname.replace(/^www\./, ''); } catch {}
       return (
-        <footer class="mt-10 pt-6 pb-8 border-t border-ink-200 dark:border-ink-800 text-sm">
-          <p>
-            <strong>{t('news.sourceLink')}:</strong>{' '}
-            <a href={frontmatter.sourceUrl} rel="noopener nofollow" target="_blank">{sourceHost || frontmatter.sourceUrl}</a>
-          </p>
+        <footer class="mt-10 pt-6 pb-8 border-t border-ink-200 dark:border-ink-800">
+          <a
+            href={frontmatter.sourceUrl}
+            rel="noopener nofollow"
+            target="_blank"
+            class="group flex items-center justify-center gap-2 w-full px-6 py-4 rounded-full bg-white dark:bg-ink-100 text-ink-900 font-bold text-base sm:text-lg hover:bg-ink-100 dark:hover:bg-white transition-colors shadow-sm"
+          >
+            <span>{t('news.sourceLink')}{sourceHost ? ': ' + sourceHost : ''}</span>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4 group-hover:translate-x-0.5 transition-transform" aria-hidden="true">
+              <path d="M5 12h14"/><path d="m12 5 7 7-7 7"/>
+            </svg>
+          </a>
         </footer>
       );
     })()}
