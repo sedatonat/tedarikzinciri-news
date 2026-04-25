@@ -241,11 +241,18 @@ const jsonLd = {
     <div class="prose-article" data-pagefind-body>
       <slot />
     </div>
-    {frontmatter.sourceUrl && (
-      <footer class="mt-10 pt-6 pb-8 border-t border-ink-200 dark:border-ink-800 text-sm">
-        <p><strong>{t('news.sourceLink')}:</strong> <a href={frontmatter.sourceUrl} rel="noopener nofollow" target="_blank">{frontmatter.sourceUrl}</a></p>
-      </footer>
-    )}
+    {frontmatter.sourceUrl && (() => {
+      let sourceHost = '';
+      try { sourceHost = new URL(frontmatter.sourceUrl).hostname.replace(/^www\./, ''); } catch {}
+      return (
+        <footer class="mt-10 pt-6 pb-8 border-t border-ink-200 dark:border-ink-800 text-sm">
+          <p>
+            <strong>{t('news.sourceLink')}:</strong>{' '}
+            <a href={frontmatter.sourceUrl} rel="noopener nofollow" target="_blank">{sourceHost || frontmatter.sourceUrl}</a>
+          </p>
+        </footer>
+      );
+    })()}
     {relatedArticles.length > 0 && (
       <aside class="mt-12 pt-8 pb-16 border-t border-ink-200 dark:border-ink-800">
         <h2 class="text-lg sm:text-xl font-semibold mb-5 text-ink-900 dark:text-ink-100">
