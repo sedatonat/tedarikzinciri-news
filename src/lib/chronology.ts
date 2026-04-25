@@ -597,7 +597,7 @@ export const events: ChronologyEvent[] = [
     date: '2023-12-16',
     kind: 'attack',
     slug: '2023-12-16-suez-kanali-maersk-israil-filistin',
-    title_tr: 'İsrail \'in Filistin \'e Saldırısı Sebebi ile Suezh Kanalı da Artık Güvenli oluyorn Uzaklaş…',
+    title_tr: 'İsrail \'in Filistin \'e Saldırısı Sebebi ile Suezh Kanalı da Artık Güvenli oluyorn Uzaklaşıyor',
     title_en: 'Israel\'s Attacks on Palestine Put Suez Canal\'s Safety Under Threat',
     summary_tr: 'İsrail \'in Filistin \'e Saldırısı Sebebi ile Suezh Kanalı da Artık Güvenli oluyorn Uzaklaşıyor',
     summary_en: 'Israel\'s Attacks on Palestine Put Suez Canal\'s Safety Under Threat'
@@ -822,7 +822,7 @@ export const events: ChronologyEvent[] = [
     date: '2024-12-02',
     kind: 'drought',
     slug: 'panama-kanali-iklim-degisikligi-planlari',
-    title_tr: 'İklim Değişikliğinin Tehdit Ettiği Panama Kanalı, Kuraklıkla Mücadelede Büyük Planlar Yap…',
+    title_tr: 'İklim Değişikliğinin Tehdit Ettiği Panama Kanalı, Kuraklıkla Mücadelede Büyük Planlar Yapıyor',
     title_en: 'Threatened by Climate Change, Panama Canal Pushes Ambitious Plans to Combat Drought',
     summary_tr: 'İklim Değişikliğinin Tehdit Ettiği Panama Kanalı, Kuraklıkla Mücadelede Büyük Planlar Yapıyor',
     summary_en: 'Threatened by Climate Change, Panama Canal Pushes Ambitious Plans to Combat Drought'
@@ -858,7 +858,7 @@ export const events: ChronologyEvent[] = [
     date: '2025-01-16',
     kind: 'ceasefire',
     slug: 'kizildeniz-tehlike-husiler',
-    title_tr: '\'Kızıldeniz\'\'de Tehlike: Yemen\'\'in Husileri Ateşkesi İzleyecek, Ancak Gemiler Hâlâ Risk A…',
+    title_tr: '\'Kızıldeniz\'\'de Tehlike: Yemen\'\'in Husileri Ateşkesi İzleyecek, Ancak Gemiler Hâlâ Risk Altında',
     title_en: '\'Red Sea Danger: Yemen\'\'s Houthis to Monitor Ceasefire, but Ships Remain at Risk',
     summary_tr: '\'Kızıldeniz\'\'de Tehlike: Yemen\'\'in Husileri Ateşkesi İzleyecek, Ancak Gemiler Hâlâ Risk Altında',
     summary_en: '\'Red Sea Danger: Yemen\'\'s Houthis to Monitor Ceasefire, but Ships Remain at Risk'
@@ -912,7 +912,7 @@ export const events: ChronologyEvent[] = [
     date: '2025-03-07',
     kind: 'accident',
     slug: 'kazakistan-ptc-poti-terminal',
-    title_tr: 'Kazakistan ve PTC Holding, Gürcistan\'ın Poti Limanı\'nda Yeni Konteyner Terminali İnşa Edi…',
+    title_tr: 'Kazakistan ve PTC Holding, Gürcistan\'ın Poti Limanı\'nda Yeni Konteyner Terminali İnşa Ediyor',
     title_en: 'Kazakhstan and PTC Holding Build New Container Terminal at Georgia\'s Poti Port',
     summary_tr: 'Kazakistan ve PTC Holding, Gürcistan\'ın Poti Limanı\'nda Yeni Konteyner Terminali İnşa Ediyor',
     summary_en: 'Kazakhstan and PTC Holding Build New Container Terminal at Georgia\'s Poti Port'
@@ -1038,7 +1038,7 @@ export const events: ChronologyEvent[] = [
     date: '2025-10-27',
     kind: 'agreement',
     slug: 'chrobinson-agentic-ai',
-    title_tr: 'C.H. Robinson, Yapay Zekâ Destekli “Agentic Supply Chain” ile Lojistikte Yeni Bir Dönem B…',
+    title_tr: 'C.H. Robinson, Yapay Zekâ Destekli “Agentic Supply Chain” ile Lojistikte Yeni Bir Dönem Başlattı',
     title_en: 'C.H. Robinson Launches AI-Powered',
     summary_tr: 'C.H. Robinson, Yapay Zekâ Destekli “Agentic Supply Chain” ile Lojistikte Yeni Bir Dönem Başlattı',
     summary_en: 'C.H. Robinson Launches AI-Powered'
@@ -1074,7 +1074,7 @@ export const events: ChronologyEvent[] = [
     date: '2025-10-28',
     kind: 'accident',
     slug: 'ups-isci-cikarma-2025',
-    title_tr: 'UPS, Amazon Hacmindeki Düşüşe Paralel Olarak Bu Yıl 34 Bin Kişiyi İşten Çıkardı ve 93 Tes…',
+    title_tr: 'UPS, Amazon Hacmindeki Düşüşe Paralel Olarak Bu Yıl 34 Bin Kişiyi İşten Çıkardı ve 93 Tesisi Kapattı',
     title_en: 'UPS Cuts 34,000 Positions and Closes 93 Facilities in 2025 Amid Amazon Volume Decline',
     summary_tr: 'UPS, Amazon Hacmindeki Düşüşe Paralel Olarak Bu Yıl 34 Bin Kişiyi İşten Çıkardı ve 93 Tesisi Kapattı',
     summary_en: 'UPS Cuts 34,000 Positions and Closes 93 Facilities in 2025 Amid Amazon Volume Decline'
@@ -1101,8 +1101,8 @@ export const events: ChronologyEvent[] = [
     date: '2025-10-30',
     kind: 'agreement',
     slug: 'postrack-uk-asset-tracking',
-    title_tr: 'Postrack, İngiltere’de Lojistik ve Karayolu Taşımacılığına Yönelik Varlık Takip Hizmeti B…',
-    title_en: 'Postrack Launches Asset Tracking Service for Logistics and Road Transport in the United K…',
+    title_tr: 'Postrack, İngiltere’de Lojistik ve Karayolu Taşımacılığına Yönelik Varlık Takip Hizmeti Başlattı',
+    title_en: 'Postrack Launches Asset Tracking Service for Logistics and Road Transport in the United Kingdom',
     summary_tr: 'Postrack, İngiltere’de Lojistik ve Karayolu Taşımacılığına Yönelik Varlık Takip Hizmeti Başlattı',
     summary_en: 'Postrack Launches Asset Tracking Service for Logistics and Road Transport in the United Kingdom'
   },
@@ -1128,8 +1128,8 @@ export const events: ChronologyEvent[] = [
     date: '2025-11-03',
     kind: 'accident',
     slug: 'linerless-etiketler-envanter',
-    title_tr: '\'Linerless Etiketler: Depolama ve Üretimde Sürdürülebilirlik, Verimlilik ve Tasarrufun Üç…',
-    title_en: '\'Linerless Labels: The Triple Win of Sustainability, Efficiency and Cost Savings in Wareh…',
+    title_tr: '\'Linerless Etiketler: Depolama ve Üretimde Sürdürülebilirlik, Verimlilik ve Tasarrufun Üçlü Kazancı',
+    title_en: '\'Linerless Labels: The Triple Win of Sustainability, Efficiency and Cost Savings in Warehousing and Manufacturing',
     summary_tr: '\'Linerless Etiketler: Depolama ve Üretimde Sürdürülebilirlik, Verimlilik ve Tasarrufun Üçlü Kazancı',
     summary_en: '\'Linerless Labels: The Triple Win of Sustainability, Efficiency and Cost Savings in Warehousing and Manufacturing'
   },
@@ -1146,7 +1146,7 @@ export const events: ChronologyEvent[] = [
     date: '2025-11-03',
     kind: 'agreement',
     slug: 'singapore-korea-yesil-koridor',
-    title_tr: 'Singapur ve Güney Kore, Yeşil ve Dijital Denizcilik Koridoru Kurulması İçin Anlaşma İmzal…',
+    title_tr: 'Singapur ve Güney Kore, Yeşil ve Dijital Denizcilik Koridoru Kurulması İçin Anlaşma İmzaladı',
     title_en: 'Singapore and South Korea Sign Agreement to Establish Green and Digital Maritime Corridor',
     summary_tr: 'Singapur ve Güney Kore, Yeşil ve Dijital Denizcilik Koridoru Kurulması İçin Anlaşma İmzaladı',
     summary_en: 'Singapore and South Korea Sign Agreement to Establish Green and Digital Maritime Corridor'
@@ -1173,7 +1173,7 @@ export const events: ChronologyEvent[] = [
     date: '2025-11-11',
     kind: 'agreement',
     slug: 'ab-komisyonu-era-degerlendirmesi',
-    title_tr: '\'AB Komisyonu, ERA Değerlendirmesini Açıkladı: Sonuç Olumlu, Ancak Beklentiler Tam Karşıl…',
+    title_tr: '\'AB Komisyonu, ERA Değerlendirmesini Açıkladı: Sonuç Olumlu, Ancak Beklentiler Tam Karşılanmadı',
     title_en: '\'EU Commission Releases ERA Assessment: Positive Outcome, but Expectations Not Fully Met',
     summary_tr: '\'AB Komisyonu, ERA Değerlendirmesini Açıkladı: Sonuç Olumlu, Ancak Beklentiler Tam Karşılanmadı',
     summary_en: '\'EU Commission Releases ERA Assessment: Positive Outcome, but Expectations Not Fully Met'
@@ -1182,7 +1182,7 @@ export const events: ChronologyEvent[] = [
     date: '2025-11-11',
     kind: 'agreement',
     slug: 'rotterdam-hydrogen-import-consult',
-    title_tr: 'Rotterdam Limanı, Hidrojen İthalat Terminallerini Hızlandırmak İçin Piyasa Danışma Süreci…',
+    title_tr: 'Rotterdam Limanı, Hidrojen İthalat Terminallerini Hızlandırmak İçin Piyasa Danışma Süreci Başlattı',
     title_en: 'Port of Rotterdam Launches Market Consultation to Accelerate Hydrogen Import Terminals',
     summary_tr: 'Rotterdam Limanı, Hidrojen İthalat Terminallerini Hızlandırmak İçin Piyasa Danışma Süreci Başlattı',
     summary_en: 'Port of Rotterdam Launches Market Consultation to Accelerate Hydrogen Import Terminals'
@@ -1299,7 +1299,7 @@ export const events: ChronologyEvent[] = [
     date: '2025-12-04',
     kind: 'attack',
     slug: 'karadeniz-gemi-saldiri-sigorta',
-    title_tr: '\'Karadeniz’de Savaş Sigortası Primleri %250 Arttı: Gemi Saldırıları Bölgesel Riskleri Tır…',
+    title_tr: '\'Karadeniz’de Savaş Sigortası Primleri %250 Arttı: Gemi Saldırıları Bölgesel Riskleri Tırmandırıyor',
     title_en: '\'Black Sea War Insurance Premiums Surge 250%: Ship Attacks Escalate Regional Risks',
     summary_tr: '\'Karadeniz’de Savaş Sigortası Primleri %250 Arttı: Gemi Saldırıları Bölgesel Riskleri Tırmandırıyor',
     summary_en: '\'Black Sea War Insurance Premiums Surge 250%: Ship Attacks Escalate Regional Risks'
@@ -1308,8 +1308,8 @@ export const events: ChronologyEvent[] = [
     date: '2025-12-08',
     kind: 'agreement',
     slug: 'afghanistan-dpworld-border-ports',
-    title_tr: 'Afganistan, Hairatan ve Torkham Sınır Kapılarını Modernize Etmek İçin DP World ile Çerçev…',
-    title_en: 'Afghanistan Signs Framework Agreement with DP World to Modernize Hairatan and Torkham Bor…',
+    title_tr: 'Afganistan, Hairatan ve Torkham Sınır Kapılarını Modernize Etmek İçin DP World ile Çerçeve Anlaşma İmzaladı',
+    title_en: 'Afghanistan Signs Framework Agreement with DP World to Modernize Hairatan and Torkham Border Gates',
     summary_tr: 'Afganistan, Hairatan ve Torkham Sınır Kapılarını Modernize Etmek İçin DP World ile Çerçeve Anlaşma İmzaladı',
     summary_en: 'Afghanistan Signs Framework Agreement with DP World to Modernize Hairatan and Torkham Border Gates'
   },
@@ -1326,7 +1326,7 @@ export const events: ChronologyEvent[] = [
     date: '2025-12-10',
     kind: 'agreement',
     slug: 'nyk-ai-autonomous-carrier',
-    title_tr: 'NYK, Yapay Zekâ Destekli Otonom Seyir Sistemine Sahip Yeni Nesil Araç Taşıyıcısı Sipariş …',
+    title_tr: 'NYK, Yapay Zekâ Destekli Otonom Seyir Sistemine Sahip Yeni Nesil Araç Taşıyıcısı Sipariş Etti',
     title_en: 'NYK Orders Next-Generation Car Carrier with AI-Enabled Autonomous Navigation System',
     summary_tr: 'NYK, Yapay Zekâ Destekli Otonom Seyir Sistemine Sahip Yeni Nesil Araç Taşıyıcısı Sipariş Etti',
     summary_en: 'NYK Orders Next-Generation Car Carrier with AI-Enabled Autonomous Navigation System'
@@ -1335,8 +1335,8 @@ export const events: ChronologyEvent[] = [
     date: '2025-12-11',
     kind: 'agreement',
     slug: 'walmart-atlanta-drone',
-    title_tr: '\'Walmart, Atlanta’da Drone Teslimatlarını Başlattı: Perakendede Son Kilometre Dönüşümü Hı…',
-    title_en: '\'Walmart Launches Drone Deliveries in Atlanta: Last-Mile Transformation Accelerating in R…',
+    title_tr: '\'Walmart, Atlanta’da Drone Teslimatlarını Başlattı: Perakendede Son Kilometre Dönüşümü Hızlanıyor',
+    title_en: '\'Walmart Launches Drone Deliveries in Atlanta: Last-Mile Transformation Accelerating in Retail',
     summary_tr: '\'Walmart, Atlanta’da Drone Teslimatlarını Başlattı: Perakendede Son Kilometre Dönüşümü Hızlanıyor',
     summary_en: '\'Walmart Launches Drone Deliveries in Atlanta: Last-Mile Transformation Accelerating in Retail'
   },
@@ -1344,7 +1344,7 @@ export const events: ChronologyEvent[] = [
     date: '2025-12-12',
     kind: 'agreement',
     slug: 'china-asean-ontime-shipping',
-    title_tr: 'Çin, Ningbo–Ho Chi Minh Hattında İlk ASEAN “Zamanında ve Maliyet Düşürücü” Servisini Başl…',
+    title_tr: 'Çin, Ningbo–Ho Chi Minh Hattında İlk ASEAN “Zamanında ve Maliyet Düşürücü” Servisini Başlattı',
     title_en: 'China Launches First ASEAN',
     summary_tr: 'Çin, Ningbo–Ho Chi Minh Hattında İlk ASEAN “Zamanında ve Maliyet Düşürücü” Servisini Başlattı',
     summary_en: 'China Launches First ASEAN'
@@ -1362,7 +1362,7 @@ export const events: ChronologyEvent[] = [
     date: '2025-12-12',
     kind: 'agreement',
     slug: 'macn-asya-avrupa-yolsuzlukla-mucadele',
-    title_tr: 'MACN, Asya ve Avrupa’da Denizcilik Tedarik Zincirleri İçin Yeni Yolsuzlukla Mücadele Prog…',
+    title_tr: 'MACN, Asya ve Avrupa’da Denizcilik Tedarik Zincirleri İçin Yeni Yolsuzlukla Mücadele Programını Başlattı',
     title_en: 'MACN Launches New Anti-Corruption Program for Maritime Supply Chains in Asia and Europe',
     summary_tr: 'MACN, Asya ve Avrupa’da Denizcilik Tedarik Zincirleri İçin Yeni Yolsuzlukla Mücadele Programını Başlattı',
     summary_en: 'MACN Launches New Anti-Corruption Program for Maritime Supply Chains in Asia and Europe'
@@ -1380,10 +1380,10 @@ export const events: ChronologyEvent[] = [
     date: '2025-12-18',
     kind: 'accident',
     slug: '2025-12-18-hapag-lloyd-zemba-e-methanol-shipping-tender-2027-cargo-owners-amazon-ikea-nike',
-    title_tr: 'Hapag-Lloyd ZEMBA İhalesini Kazandı: 2027\'den İtibaren E-Metanol ile Sıfır Emisyonlu Taşı…',
-    title_en: 'Hapag-Lloyd Wins ZEMBA E-Methanol Shipping Tender: Zero-Emission Transport With E-Methano…',
-    summary_tr: 'ZEMBA\'nın ikinci ihalesini kazanan Hapag-Lloyd; 3 yıllık dönemde 120.000 ton CO2e azaltım taahhüt ediyor; Amazon, IKEA ve Nike dahil 45+ ka…',
-    summary_en: 'Hapag-Lloyd, winning ZEMBA\'s second tender, commits to 120,000 tonnes of CO2e abatement over 3 years; 45+ cargo owners including Amazon, IK…'
+    title_tr: 'Hapag-Lloyd ZEMBA İhalesini Kazandı: 2027\'den İtibaren E-Metanol ile Sıfır Emisyonlu Taşımacılık',
+    title_en: 'Hapag-Lloyd Wins ZEMBA E-Methanol Shipping Tender: Zero-Emission Transport With E-Methanol From 2027',
+    summary_tr: 'Hapag-Lloyd ZEMBA İhalesini Kazandı: 2027\'den İtibaren E-Metanol ile Sıfır Emisyonlu Taşımacılık',
+    summary_en: 'Hapag-Lloyd Wins ZEMBA E-Methanol Shipping Tender: Zero-Emission Transport With E-Methanol From 2027'
   },
   {
     date: '2025-12-18',
@@ -1416,19 +1416,19 @@ export const events: ChronologyEvent[] = [
     date: '2025-12-26',
     kind: 'agreement',
     slug: '2025-12-26-fesco-chekhov-blagoveshchensk-khabarovsk-rail-service-13-days-vladivostok',
-    title_tr: 'FESCO Çehov\'dan Rus Uzak Doğusu\'na Demiryolu Servisi Başlattı: Blagoveşçensk ve Habarovsk…',
+    title_tr: 'FESCO Çehov\'dan Rus Uzak Doğusu\'na Demiryolu Servisi Başlattı: Blagoveşçensk ve Habarovsk\'a 13 Gün Transit',
     title_en: 'FESCO Launches Rail Service from Moscow Region to Russian Far East',
-    summary_tr: 'Çehov Transport ve Lojistik Merkezi\'nden Blagoveşçensk ve Krasnaya Rechka (Habarovsk) istasyonlarına ayda iki sefer; Çita\'ya ve Vladivostok…',
-    summary_en: 'Services from Chekhov Transport and Logistics Center to Blagoveshchensk and Krasnaya Rechka (Khabarovsk) twice a month; also groupage to Ch…'
+    summary_tr: 'FESCO Çehov\'dan Rus Uzak Doğusu\'na Demiryolu Servisi Başlattı: Blagoveşçensk ve Habarovsk\'a 13 Gün Transit',
+    summary_en: 'FESCO Launches Rail Service from Moscow Region to Russian Far East'
   },
   {
     date: '2026-01-14',
     kind: 'agreement',
     slug: '2026-01-14-eurosib-xian-moscow-orekhovo-zuevo-rail-direct-container-weekly-china',
-    title_tr: 'Eurosib Xian-Moskova Doğrudan Demiryolu Servisini Başlattı: Orekhovo-Zuevo Terminaline Ha…',
+    title_tr: 'Eurosib Xian-Moskova Doğrudan Demiryolu Servisini Başlattı: Orekhovo-Zuevo Terminaline Haftalık Bloktren',
     title_en: 'Eurosib Launches Rail Service from Xian to Moscow Region',
-    summary_tr: 'Çin\'deki Xian\'dan Moskova bölgesindeki Orekhovo-Zuevo terminaline hizmet veren yeni servis; Haziran 2025\'te Xi\'an Free Trade Port ile imzal…',
-    summary_en: 'New service from Xian in China to Eurosib\'s Orekhovo-Zuevo terminal in Moscow region follows the June 2025 strategic cooperation memorandum…'
+    summary_tr: 'Eurosib Xian-Moskova Doğrudan Demiryolu Servisini Başlattı: Orekhovo-Zuevo Terminaline Haftalık Bloktren',
+    summary_en: 'Eurosib Launches Rail Service from Xian to Moscow Region'
   },
   {
     date: '2026-01-16',
@@ -1443,10 +1443,10 @@ export const events: ChronologyEvent[] = [
     date: '2026-01-29',
     kind: 'agreement',
     slug: '2026-01-29-indian-greenfield-terminal-konecranes-rmg-twin-lift-active-load-control',
-    title_tr: 'Hint Konteyner Terminali, Yeni Demiryolu Operasyonu İçin İki Konecranes RMG Vinci Sipariş…',
+    title_tr: 'Hint Konteyner Terminali, Yeni Demiryolu Operasyonu İçin İki Konecranes RMG Vinci Sipariş Etti',
     title_en: 'Indian Container Terminal Orders Two Konecranes RMG Cranes for New Rail Operations',
-    summary_tr: '30 RTG yatırımının ardından sipariş edilen RMG\'ler 2027\'nin ikinci çeyreğinde devreye girecek; ikiz spreader ve Active Load Control sallanm…',
-    summary_en: 'Following an order for 30 RTGs, the RMGs will be operational by the end of Q2 2027; twin-lift spreaders and Active Load Control will elimin…'
+    summary_tr: 'Hint Konteyner Terminali, Yeni Demiryolu Operasyonu İçin İki Konecranes RMG Vinci Sipariş Etti',
+    summary_en: 'Indian Container Terminal Orders Two Konecranes RMG Cranes for New Rail Operations'
   },
   {
     date: '2026-02-05',
@@ -1461,19 +1461,19 @@ export const events: ChronologyEvent[] = [
     date: '2026-02-09',
     kind: 'agreement',
     slug: '2026-02-09-azerbaijan-ady-express-container-block-train-georgia-middle-corridor',
-    title_tr: 'Azerbaycan Orta Koridor\'da Öne Çıktı: ADY Express Azerbaycan-Gürcistan Hattında İlk Hafta…',
-    title_en: 'Azerbaijan Leading Role in Middle Corridor: ADY Express Launches Weekly Container Block T…',
-    summary_tr: 'Azerbaycan Demiryolları\'nın yük kolu ADY Express; Ocak ayı sonunda Azerbaycan-Gürcistan rotasında ilk ekspres konteyner bloktren servisini …',
-    summary_en: 'ADY Express, the rail freight arm of Azerbaijan Railways, launched the first express container block train on the Azerbaijan-Georgia route …'
+    title_tr: 'Azerbaycan Orta Koridor\'da Öne Çıktı: ADY Express Azerbaycan-Gürcistan Hattında İlk Haftalık Ekspres Bloktren Servisini Başlattı',
+    title_en: 'Azerbaijan Leading Role in Middle Corridor: ADY Express Launches Weekly Container Block Train Service',
+    summary_tr: 'Azerbaycan Orta Koridor\'da Öne Çıktı: ADY Express Azerbaycan-Gürcistan Hattında İlk Haftalık Ekspres Bloktren Servisini Başlattı',
+    summary_en: 'Azerbaijan Leading Role in Middle Corridor: ADY Express Launches Weekly Container Block Train Service'
   },
   {
     date: '2026-02-11',
     kind: 'agreement',
     slug: '2026-02-11-hpa-simon-underwater-robotics-auv-water-quality-monitoring-elbe-tidal',
-    title_tr: 'Hamburg Limanı, Elbe\'de Su Kalitesi İçin 1 Milyon Avroluk SIMON Sualtı Robotik Projesini …',
+    title_tr: 'Hamburg Limanı, Elbe\'de Su Kalitesi İçin 1 Milyon Avroluk SIMON Sualtı Robotik Projesini Başlattı',
     title_en: 'Hamburg Port Launches €1 Million SIMON Underwater Robotics Project for Elbe Water Quality',
-    summary_tr: 'BMFTR\'in Digital GreenTech Robotics çağrısı kapsamında finanse edilen 24 aylık proje, otonom sualtı araçlarıyla askıda katı madde, oksijen,…',
-    summary_en: 'Funded under BMFTR\'s Digital GreenTech Robotics call, the 24-month project will use autonomous underwater vehicles to monitor suspended sol…'
+    summary_tr: 'Hamburg Limanı, Elbe\'de Su Kalitesi İçin 1 Milyon Avroluk SIMON Sualtı Robotik Projesini Başlattı',
+    summary_en: 'Hamburg Port Launches €1 Million SIMON Underwater Robotics Project for Elbe Water Quality'
   },
   {
     date: '2026-02-13',
@@ -1515,7 +1515,7 @@ export const events: ChronologyEvent[] = [
     date: '2026-03-17',
     kind: 'attack',
     slug: '2026-03-17-shipping-insurance-cross-hormuz-soar',
-    title_tr: 'Hürmüz Geçişi İçin Taşımacılık Sigortası Maliyetleri, Gemi Saldırılarının Ardından Sıçrıy…',
+    title_tr: 'Hürmüz Geçişi İçin Taşımacılık Sigortası Maliyetleri, Gemi Saldırılarının Ardından Sıçrıyor',
     title_en: 'Shipping Insurance Costs to Cross Hormuz Soar After Ship Attacks',
     summary_tr: 'Prim Gemi Değerinin %5\'ine Çıkıyor (100 Mn $ Tankere 5 Mn $); UKMTO 1 Mart\'tan Beri 20 Olay Sayılıyor',
     summary_en: 'Premiums Climb to 5% of Ship Value ($5M on $100M Tanker); UKMTO Counts 20 Incidents Since March 1'
@@ -1524,10 +1524,10 @@ export const events: ChronologyEvent[] = [
     date: '2026-03-18',
     kind: 'accident',
     slug: '2026-03-18-panama-flagged-vessels-chinese-port-detentions-ck-hutchison-retaliation',
-    title_tr: 'Panama Bayraklı Gemiler Çin Limanlarında Denetim Patlaması Yaşıyor: CK Hutchison Kararına…',
+    title_tr: 'Panama Bayraklı Gemiler Çin Limanlarında Denetim Patlaması Yaşıyor: CK Hutchison Kararına Tepki',
     title_en: 'Panama-Flagged Vessels Face Surge in Chinese Port Inspections',
-    summary_tr: '8-12 Mart arasında Çin yetkilileri tarafından 28 Panama bayraklı gemi alıkonuldu; Panama\'nın CK Hutchison\'a ait terminal imtiyazlarını ipta…',
-    summary_en: 'Chinese authorities detained 28 Panama-flagged ships between 8-12 March, seen as a coordinated response to Panama\'s revocation of CK Hutchi…'
+    summary_tr: 'Panama Bayraklı Gemiler Çin Limanlarında Denetim Patlaması Yaşıyor: CK Hutchison Kararına Tepki',
+    summary_en: 'Panama-Flagged Vessels Face Surge in Chinese Port Inspections'
   },
   {
     date: '2026-03-19',
@@ -1542,10 +1542,10 @@ export const events: ChronologyEvent[] = [
     date: '2026-03-25',
     kind: 'agreement',
     slug: '2026-03-25-russian-railways-cheboksary-khabarovsk-solar-power-modules-11-days-500mw',
-    title_tr: 'Rus Demiryolları Cheboksary-Khabarovsk Hattında Güneş Paneli Taşıyan Yeni Bloktren Servis…',
+    title_tr: 'Rus Demiryolları Cheboksary-Khabarovsk Hattında Güneş Paneli Taşıyan Yeni Bloktren Servisi Başlattı',
     title_en: 'New Rail Service from Cheboksary to Khabarovsk',
-    summary_tr: 'Orta Rusya\'dan Uzak Doğu\'ya yeni düzenli rota; 11 gün transit süreyle güneş enerji santrali modüllerini taşıyor, Ağustos 2026 sonuna kadar …',
-    summary_en: 'New regular route from central Russia to the Far East with 11-day transit time carries solar power modules; by end August 2026, 20 block tr…'
+    summary_tr: 'Rus Demiryolları Cheboksary-Khabarovsk Hattında Güneş Paneli Taşıyan Yeni Bloktren Servisi Başlattı',
+    summary_en: 'New Rail Service from Cheboksary to Khabarovsk'
   },
   {
     date: '2026-04-03',
@@ -1553,26 +1553,26 @@ export const events: ChronologyEvent[] = [
     slug: '2026-04-03-hasbro-cyberattack-orders-shipping-disruption-march-2026',
     title_tr: 'Hasbro Siber Saldırısında Sipariş ve Sevkiyatlarda Haftalarca Sürebilecek Gecikme Uyarısı',
     title_en: 'Hasbro Cyberattack Could Cause Weeks of Delays in Orders and Shipping',
-    summary_tr: 'Play-Doh ve Transformers gibi markaların üreticisi, 8-K kapsamında iş sürekliliği planlarını devreye aldığını ve seçili sistemleri proaktif…',
-    summary_en: 'The maker of Play-Doh and Transformers said it has activated business continuity plans under its 8-K filing and proactively taken select sy…'
+    summary_tr: 'Hasbro Siber Saldırısında Sipariş ve Sevkiyatlarda Haftalarca Sürebilecek Gecikme Uyarısı',
+    summary_en: 'Hasbro Cyberattack Could Cause Weeks of Delays in Orders and Shipping'
   },
   {
     date: '2026-04-09',
     kind: 'accident',
     slug: '2026-04-09-russia-kazakhstan-export-rail-traffic-january-february-2026-20-7-percent',
-    title_tr: 'Rusya-Kazakistan İhracat Demiryolu Trafiği Ocak-Şubat 2026\'da %20,7 Arttı: 5,7 Milyon Ton…',
+    title_tr: 'Rusya-Kazakistan İhracat Demiryolu Trafiği Ocak-Şubat 2026\'da %20,7 Arttı: 5,7 Milyon Ton Taşındı',
     title_en: 'Export Rail Traffic to Kazakhstan Growing in January-February 2026',
-    summary_tr: 'Rus Demiryolları; konteynerize kargonun %8,5 büyüyerek 58,1 bin TEU\'ya ulaştığını, petrol ve ürünlerinde %3,5, demir-çelikte %26,5 ve tahıl…',
-    summary_en: 'Russian Railways reported containerised cargo grew 8.5% to 58.1K TEU; oil and products rose 3.5%, ferrous metals 26.5%, and grain, meal and…'
+    summary_tr: 'Rusya-Kazakistan İhracat Demiryolu Trafiği Ocak-Şubat 2026\'da %20,7 Arttı: 5,7 Milyon Ton Taşındı',
+    summary_en: 'Export Rail Traffic to Kazakhstan Growing in January-February 2026'
   },
   {
     date: '2026-04-10',
     kind: 'agreement',
     slug: '2026-04-10-fesco-intermodal-russia-turkey-ankara-novorossiysk-gebze-black-sea',
-    title_tr: 'FESCO Türkiye ile Rusya Arasında Intermodal Servisini Başlattı: Ankara-Gebze-Novorossiysk…',
+    title_tr: 'FESCO Türkiye ile Rusya Arasında Intermodal Servisini Başlattı: Ankara-Gebze-Novorossiysk Hattı',
     title_en: 'Intermodal Service Between Russia and Turkey Launched',
-    summary_tr: 'Ankara\'dan Gebze\'ye bloktrenlerle, oradan FESCO Turkey Black Sea servisiyle Novorossiysk\'e; Rusya\'dan Orta Anadolu\'ya ise karayoluyla tesli…',
-    summary_en: 'Cargo is delivered by block trains from Ankara to Gebze and shipped by FESCO Turkey Black Sea service to Novorossiysk; export mode offers r…'
+    summary_tr: 'FESCO Türkiye ile Rusya Arasında Intermodal Servisini Başlattı: Ankara-Gebze-Novorossiysk Hattı',
+    summary_en: 'Intermodal Service Between Russia and Turkey Launched'
   },
   {
     date: '2026-04-16',
@@ -1589,8 +1589,8 @@ export const events: ChronologyEvent[] = [
     slug: '2026-04-19-imo-fal-50-global-maritime-digitalisation-strategy-cybersecurity',
     title_tr: 'IMO Küresel Denizcilik Dijitalleşme Stratejisini Onayladı',
     title_en: 'IMO Approves Global Maritime Digitalisation Strategy',
-    summary_tr: 'Uluslararası Denizcilik Örgütü, denizcilik tek pencereleri için zorunlu siber güvenlik tedbirleri ile birlikte küresel dijitalleşme stratej…',
-    summary_en: 'The International Maritime Organization adopted a global digitalisation strategy alongside mandatory cybersecurity measures for maritime si…'
+    summary_tr: 'IMO Küresel Denizcilik Dijitalleşme Stratejisini Onayladı',
+    summary_en: 'IMO Approves Global Maritime Digitalisation Strategy'
   },
   {
     date: '2026-04-21',
@@ -1598,17 +1598,17 @@ export const events: ChronologyEvent[] = [
     slug: '2026-04-21-lome-container-terminal-konecranes-reach-stacker-order-togo',
     title_tr: 'Togo\'nun Lomé Konteyner Terminali, Konecranes\'ten İki Yeni Reach Stacker Sipariş Etti',
     title_en: 'Lomé Container Terminal Orders Two Konecranes Reach Stackers as Fleet Expands',
-    summary_tr: 'Yeni SMV 4632 TC5 üniteleri, terminalin 32 elektrikli RTG ve geniş Konecranes filosunu güçlendirerek konteyner işleme kapasitesini büyütüyo…',
+    summary_tr: 'Togo\'nun Lomé Konteyner Terminali, Konecranes\'ten İki Yeni Reach Stacker Sipariş Etti',
     summary_en: 'The new SMV 4632 TC5 units strengthen the terminal\'s 32 electric RTG fleet and expand container handling capacity.'
   },
   {
     date: '2026-04-21',
     kind: 'agreement',
     slug: '2026-04-21-port-of-long-beach-heavy-haul-route-sully-miller-contract',
-    title_tr: 'Port of Long Beach, Ağır Yük Güzergâhı Altyapısı için 5,5 Milyon Dolarlık Sözleşme İmzala…',
+    title_tr: 'Port of Long Beach, Ağır Yük Güzergâhı Altyapısı için 5,5 Milyon Dolarlık Sözleşme İmzaladı',
     title_en: 'Port of Long Beach Awards $5.5 Million Heavy Haul Route Infrastructure Contract',
-    summary_tr: 'Sully-Miller Contracting, Pier B On-Dock Rail projesini tamamlayan ağır yük koridoru genişletme işini üstleniyor; inşaat Mayıs 2026\'da başl…',
-    summary_en: 'Sully-Miller Contracting will widen the heavy-haul corridor in a project that complements the larger Pier B On-Dock Rail Support Facility; …'
+    summary_tr: 'Port of Long Beach, Ağır Yük Güzergâhı Altyapısı için 5,5 Milyon Dolarlık Sözleşme İmzaladı',
+    summary_en: 'Port of Long Beach Awards $5.5 Million Heavy Haul Route Infrastructure Contract'
   },
   {
     date: '2026-04-22',
@@ -1623,10 +1623,10 @@ export const events: ChronologyEvent[] = [
     date: '2026-04-22',
     kind: 'accident',
     slug: '2026-04-22-hd-hyundai-heavy-industries-icebreaker-sweden-348-million-overseas-first',
-    title_tr: 'HD Hyundai Heavy Industries, İsveç\'ten 348,9 Milyon Dolarlık Buz Kırıcı Gemi Siparişini K…',
+    title_tr: 'HD Hyundai Heavy Industries, İsveç\'ten 348,9 Milyon Dolarlık Buz Kırıcı Gemi Siparişini Kazandı',
     title_en: 'HD Hyundai Heavy Industries Secures First Overseas Icebreaking Vessel Order From Sweden',
-    summary_tr: 'Güney Koreli tersanenin yurtdışından aldığı ilk özel buz kırıcı gemi siparişi; 126 metre uzunluğunda, yaklaşık 15.000 ton deplasmanlı tekne…',
-    summary_en: 'The South Korean yard\'s first overseas dedicated icebreaking vessel order; the 126-metre, approximately 15,000-tonne displacement vessel wi…'
+    summary_tr: 'HD Hyundai Heavy Industries, İsveç\'ten 348,9 Milyon Dolarlık Buz Kırıcı Gemi Siparişini Kazandı',
+    summary_en: 'HD Hyundai Heavy Industries Secures First Overseas Icebreaking Vessel Order From Sweden'
   },
   {
     date: '2026-04-22',
@@ -1661,7 +1661,7 @@ export const events: ChronologyEvent[] = [
     slug: '2026-04-22-mpa-psa-singapore-autonomous-feeder-vessel-eoi',
     title_tr: 'MPA ve PSA Singapore, Otonom Konteyner Besleme Gemileri için EOI Çağrısı Başlattı',
     title_en: 'MPA and PSA Singapore Launch EOI for Autonomous Container Feeder Operations',
-    summary_tr: 'Singapur Boğazı ve liman sularında otonom konteyner taşımacılığını değerlendirmeye yönelik bir uzaktan operasyon merkezi geliştirilmesi pla…',
+    summary_tr: 'MPA ve PSA Singapore, Otonom Konteyner Besleme Gemileri için EOI Çağrısı Başlattı',
     summary_en: 'A remote operations centre is planned as part of the assessment of autonomous container shipping in the Singapore Strait and port waters.'
   },
   {
@@ -1677,10 +1677,10 @@ export const events: ChronologyEvent[] = [
     date: '2026-04-23',
     kind: 'agreement',
     slug: '2026-04-23-panama-canal-transit-cost-record-high-iran-war-impact-auction-2026',
-    title_tr: 'Panama Kanalı Geçiş Maliyeti Rekor Seviyede: İran Savaşı Atlantik-Pasifik Bağlantısını da…',
+    title_tr: 'Panama Kanalı Geçiş Maliyeti Rekor Seviyede: İran Savaşı Atlantik-Pasifik Bağlantısını da Etkiledi',
     title_en: 'Cost of Panama Canal Transit Hits Record High',
-    summary_tr: 'ShippingWatch\'a göre İran savaşı; Atlantik ile Pasifik arasındaki hayati denizyolunu da etkiliyor; Panama Kanalı geçiş açık artırma ücretle…',
-    summary_en: 'According to ShippingWatch, the Iran war is also affecting the vital shipping route between the Atlantic and the Pacific; Panama Canal tran…'
+    summary_tr: 'Panama Kanalı Geçiş Maliyeti Rekor Seviyede: İran Savaşı Atlantik-Pasifik Bağlantısını da Etkiledi',
+    summary_en: 'Cost of Panama Canal Transit Hits Record High'
   },
 
 
