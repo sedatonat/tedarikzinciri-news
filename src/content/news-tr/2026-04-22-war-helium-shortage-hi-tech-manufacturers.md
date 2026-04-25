@@ -6,7 +6,7 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
 image: https://www.supplychainbrain.com/ext/resources/2026/04/21/HELIUM-GAS-TANKS-iStock-scanrail-531069788.webp
-imageAlt: Bir sıra tank; helyum ve yanıcı olmayan gaz olarak etiketlenmekte olan gaz içeriyor görünüyor
+imageAlt: Helyum ve yanıcı olmayan gaz etiketli bir sıra gaz tüpü
 sourceUrl: https://www.supplychainbrain.com/articles/43904-war-shortage-of-helium-looms-for-hi-tech-manufacturers-others
 newsSequence: 43904
 author: Sedat Onat
