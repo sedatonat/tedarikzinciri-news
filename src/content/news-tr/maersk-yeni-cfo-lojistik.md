@@ -1,11 +1,11 @@
 ---
 title: "Maersk, Lojistik Kökenli Yeni CFO Atadı: Stratejik Odak Kara Lojistiğine Kayıyor"
-subtitle: 'Maersk, Lojistik Kökenli Yeni CFO Atadı: Stratejik Odak Kara Lojistiğine Kaymakta'
+subtitle: 'Maersk Lojistik Kökenli Yeni CFO Atadı: Stratejik Odak Kara Lojistiğine Kayıyor'
 date: '2025-12-12T09:00:00Z'
 sourceUrl: https://www.supplychainbrain.com/articles/42993-maersk-picks-new-cfo-with-logistics-background-to-drive-strategy
 category: Lojistik
 image: https://static.wixstatic.com/media/6c3915_4677923e07094887b3e35a2e175f7f42~mv2.jpg
-imageAlt: A.P. Moller–Maersk’in yeni CFO olarak Robert Erni’yi ataması, lojistik geçmişinin şirketin kara lojistiği büyüme stratejisine etkisi, olası M&A sinyalleri ve yönetim kadrosundaki değişikliklerin detaylı özeti
+imageAlt: "A.P. Moller–Maersk’in yeni CFO’su Robert Erni’nin lojistik geçmişi ve şirketin kara lojistiği stratejisine etkisi"
 wixId: e5b764cd-877c-4afe-b402-f5c1044ddd0c
 author: Sedat Onat
 translated: false
@@ -68,7 +68,7 @@ tags:
   <li style="text-align: justify"><p style="text-align: justify"><strong>Robert Erni</strong>, Maersk’in yeni CFO’su olarak atandı.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Erni’nin geçmişi ağırlıklı olarak <strong>freight forwarding ve kara lojistiği</strong> alanında.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Mevcut CFO <strong>Patrick Jany</strong>, 5 Şubat 2026’da görevden ayrılacak.</p></li>
-  <li style="text-align: justify"><p style="text-align: justify">Analistler, atamayı <strong>lojistik segmentinde M&amp;A sinyali</strong> olarak yorumlamakta.</p></li>
+  <li style="text-align: justify"><p style="text-align: justify">Analistler, atamayı <strong>lojistik segmentinde M&amp;A sinyali</strong> olarak yorumluyor.</p></li>
   <li style="text-align: justify"><p style="text-align: justify">Maersk, tarife savaşları ve Kızıldeniz krizleriyle eş zamanlı olarak yönetim kadrosunu yeniliyor.</p></li>
 </ul>
 <p><br></p>

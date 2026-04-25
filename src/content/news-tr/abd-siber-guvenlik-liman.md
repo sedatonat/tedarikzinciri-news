@@ -1,11 +1,11 @@
 ---
 title: ABD Sahil Güvenlik Siber Güvenlik Kuralı Yürürlükte
-subtitle: ABD Sahil Güvenlik Siber Güvenlik Kuralı Yürürlükte
+subtitle: "ABD Sahil Güvenlik Siber Güvenlik Kuralı Yürürlükte"
 date: '2025-07-25T00:00:00Z'
 sourceUrl: https://www.supplychainbrain.com/articles/42222-new-us-coast-guard-cybersecurity-rule-enters-into-force
 category: Teknoloji
 image: https://static.wixstatic.com/media/6c3915_d84bbfe3ded1455796c970cbdb016171~mv2.png
-imageAlt: Abd Sahil Güvenlik Siber Güvenlik Kuralı Yürürlükte
+imageAlt: "ABD Sahil Güvenlik'in liman siber güvenlik kuralları ve OT sistem denetimleri"
 wixId: ff4f05d6-c638-4b98-8d78-618621d59c05
 author: Sedat Onat
 translated: false
@@ -19,9 +19,9 @@ tags:
 - risk analizi
 - denizcilik altyapısı
 ---
-<p style="text-align: justify"><strong>U.S. Coast Guard (USCG)</strong>, yeni siber güvenlik kural setini yürürlüğe sokuyor ve ABD denizcilik altyapısında yeni bir dönem başlatıyor. Düzenleme, <strong>limanlar ve denizcilik tesisleri</strong> için zorunlu asgari siber güvenlik standartlarını belirliyor. Kural seti; <strong>risk assessment (risk analizi)</strong>, <strong>incident reporting (olay raporlaması)</strong>, <strong>response planning (müdahale planlaması)</strong> ve teknik kontrollerin uygulanmasına dair bağlayıcı hükümleri içeriyor.</p>
+<p style="text-align: justify"><strong>U.S. Coast Guard (USCG)</strong>, yeni siber güvenlik kural setini yürürlüğe soktu ve ABD denizcilik altyapısında yeni bir dönem başlattı. Düzenleme, <strong>limanlar ve denizcilik tesisleri</strong> için zorunlu asgari siber güvenlik standartlarını belirledi. Kural seti; <strong>risk assessment (risk analizi)</strong>, <strong>incident reporting (olay raporlaması)</strong>, <strong>response planning (müdahale planlaması)</strong> ve teknik kontrollerin uygulanmasına dair bağlayıcı hükümleri kapsıyor.</p>
 <p><br></p>
-<p style="text-align: justify">Tedarik zinciri perspektifinden düzenleme, <strong>liman operasyon teknolojileri (OT systems)</strong> —kran, konveyör, yakıt ikmal sistemleri— ile <strong>port community systems</strong>, gümrük arayüzleri ve <strong>terminal operating systems (TOS)</strong> üzerindeki siber dayanıklılık gerekliliklerini yükseltiyor. Bu sistemlerin korunması, gemi-kara operasyonlarının sürekliliği ve güvenliği açısından kritik rol üstleniyor.</p>
+<p style="text-align: justify">Düzenleme, <strong>liman operasyon teknolojileri (OT systems)</strong> —kran, konveyör, yakıt ikmal sistemleri— ile <strong>port community systems</strong>, gümrük arayüzleri ve <strong>terminal operating systems (TOS)</strong> üzerindeki siber dayanıklılık gerekliliklerini yükseltiyor. Bu sistemlerin korunması, gemi-kara operasyonlarının sürekliliği ve güvenliği açısından kritik rol üstleniyor.</p>
 <p><br></p>
 <p style="text-align: justify">Liman operatörleri ve terminal işletmecileri, uyum kapsamında <strong>asset inventory (varlık envanteri)</strong>, <strong>network segmentation (ağ segmentasyonu)</strong>, <strong>multi-factor authentication (MFA)</strong> ile <strong>EDR/XDR</strong> (endpoint detection and response / extended detection and response) gibi temel teknik önlemleri hayata geçiriyor. Taraflar ayrıca <strong>tabletop exercises</strong> ve <strong>business continuity plan (BCP)</strong> tatbikatları ile süreç olgunluğunu artırıyor. Bu tatbikatlar, olası bir siber saldırıda müdahale hızını ve koordinasyonu güçlendiriyor.</p>
 <p><br></p>
@@ -35,9 +35,9 @@ tags:
 <p><br></p>
 <p><strong>Önemli Notlar:</strong></p>
 <ul>
-  <li><p>USCG kuralı risk analizi ve raporlamayı zorunlu kılıyordır.</p></li>
-  <li><p>OT/TOS güvenliği liman operasyonlarını koruyordır.</p></li>
+  <li><p>USCG kuralı risk analizi ve raporlamayı zorunlu kıldı.</p></li>
+  <li><p>OT/TOS güvenliği liman operasyonlarını koruyor.</p></li>
   <li><p>Segmentasyon, MFA ve EDR/XDR temel kontrollerdir.</p></li>
-  <li><p>Tabletop ve BCP tatbikatları şarttır.</p></li>
-  <li><p>Uyum, sigorta şartlarını etkiliyordir.</p></li>
+  <li><p>Tabletop ve BCP tatbikatları zorunludur.</p></li>
+  <li><p>Uyum düzeyi sigorta şartlarını ve prim oranlarını doğrudan belirliyor.</p></li>
 </ul>

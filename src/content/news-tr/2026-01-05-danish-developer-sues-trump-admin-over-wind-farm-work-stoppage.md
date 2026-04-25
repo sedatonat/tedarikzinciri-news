@@ -1,5 +1,5 @@
 ---
-title: "Danimarkalı Geliştirici Ørsted; Rüzgar Tarlası Durdurma Kararı Nedeniyle Trump Yönetimine Dava Açıyor"
+title: "Danimarkalı Geliştirici Ørsted, Rüzgar Tarlası Durdurma Kararı Nedeniyle Trump Yönetimine Dava Açtı"
 date: '2026-01-05T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:
@@ -22,10 +22,10 @@ tags:
 - enerji tedarik zinciri
 - ABD
 ---
-<p style="text-align: justify">Danimarkalı geliştirici <strong>Ørsted</strong>; ABD Doğu Kıyısı'ndaki bir rüzgar tarlası projesinin inşaatının Aralık ayı sonunda durdurulması kararına karşı <strong>Trump yönetimine</strong> hukuki yola başvurdu. The Guardian'ın haberine göre Trump yönetimi; 22 Aralık tarihinde beş rüzgar tarlası projesinin geliştiricilerine çalışmaları durdurmaları yönünde talimat verdi. Beyaz Saray; söz konusu hamlenin temel motivasyonu olarak ulusal güvenlik kaygılarını öne sürüyor; ancak detaylı bir açıklama paylaşmıyor.</p>
+<p style="text-align: justify">Danimarkalı geliştirici <strong>Ørsted</strong>, ABD Doğu Kıyısı'ndaki bir rüzgar tarlası projesinin inşaatını Aralık sonu durduran karara karşı <strong>Trump yönetimine</strong> dava açtı. The Guardian'ın haberine göre Trump yönetimi 22 Aralık'ta beş rüzgar tarlası projesinin geliştiricilerine çalışmaları durdurma talimatı verdi. Beyaz Saray ulusal güvenlik kaygılarını gerekçe gösterdi; ancak ayrıntılı bir açıklama yapmadı.</p>
 <p><br></p>
-<p style="text-align: justify">Ørsted; 1 Ocak tarihinde Trump yönetimine karşı dava açtı ve şirketin halihazırda yürüttüğü iki ABD rüzgar projesinden birinin yeniden başlatılmasını talep etti. Dava dilekçesinde Ørsted; sürecin uzaması durumunda durdurma kararının şirkete «önemli zarar» verebileceğini öne sürüyor. <strong>Ørsted</strong>; projenin %90'ını tamamladığını tahmin ediyor ve proje başlangıçta 2026 yılı içinde Amerikan evlerine elektrik sağlamaya başlayacak şekilde planlanıyordu.</p>
+<p style="text-align: justify"><strong>Ørsted</strong> 1 Ocak'ta Trump yönetimine karşı dava açtı ve yürüttüğü iki ABD rüzgar projesinden birinin yeniden başlatılmasını talep etti. Dava dilekçesinde, sürecin uzaması durumunda durdurma kararının şirkete "önemli zarar" verebileceğini öne sürdü. <strong>Ørsted</strong> projenin %90'ının tamamlandığını açıkladı; proje başlangıçta 2026 içinde Amerikan evlerine elektrik sağlayacak şekilde planlanmıştı.</p>
 <p><br></p>
-<p style="text-align: justify">Benzer hukuki başvuruları; iki diğer ABD rüzgar tarlası projesinin geliştiricileri de gerçekleştirdi. Virginia merkezli <strong>Dominion Energy</strong>; 23 Aralık tarihinde dava açtı. Norveçli geliştirici <strong>Equinor</strong> ise 2 Ocak tarihinde aynı yolu izledi. Doğu Kıyısı geliştiricisi <strong>Avangrid</strong>; Massachusetts açıklarındaki rüzgar tarlasının kısmen faaliyette olması nedeniyle, durdurma kararına itiraz edip etmeyeceğini değerlendiriyor.</p>
+<p style="text-align: justify">Diğer iki rüzgar tarlası projesinin geliştiricileri de benzer hukuki yola başvurdu. Virginia merkezli <strong>Dominion Energy</strong> 23 Aralık'ta, Norveçli geliştirici <strong>Equinor</strong> ise 2 Ocak'ta dava açtı. Doğu Kıyısı geliştiricisi <strong>Avangrid</strong>, Massachusetts açıklarındaki rüzgar tarlasının kısmen faaliyette olması nedeniyle durdurma kararına itiraz edip etmeyeceğini hâlâ değerlendiriyor.</p>
 <p><br></p>
-<p style="text-align: justify">Tedarik zinciri perspektifinden bakıldığında bu durdurma kararları; offshore wind ekipman tedarikçileri açısından ciddi belirsizlik yaratıyor. Türbin imalatçıları, kablo döşeme gemisi operatörleri ve liman lojistiği sağlayıcıları; kapsamlı yatırımlarını ABD pazarındaki çok yıllı boru hattına dayandırıyor. Hukuki sürecin uzaması; siparişlerin Avrupa veya Asya'daki diğer rüzgar projelerine kaymasına yol açabilir ve böylece ABD'nin yenilenebilir enerji kapasite hedeflerini önemli ölçüde geriletebilir.</p>
+<p style="text-align: justify">Bu durdurma kararları, offshore wind ekipman tedarikçileri için ciddi belirsizlik yarattı. Türbin imalatçıları, kablo döşeme gemisi operatörleri ve liman lojistiği sağlayıcıları büyük yatırımlarını ABD'deki çok yıllı proje boru hattına dayandırmıştı. Hukuki sürecin uzaması, siparişlerin Avrupa veya Asya'daki rüzgar projelerine kaymasına yol açabilir ve ABD'nin yenilenebilir enerji kapasite hedeflerini önemli ölçüde geri çekebilir.</p>
