@@ -7,7 +7,7 @@ secondaryCategories:
   - Lojistik
   - Tedarik Zinciri
 image: https://warehousinglogisticsinternational.com/wp-content/uploads/2026/04/alice-Linx-260326-0006-without-truck.jpg
-imageAlt: "Linx sürekli mürekkep püskürtmeli yazıcı"
+imageAlt: "Linx sürekli mürekkep püskürtmeli (CIJ) yazıcı"
 sourceUrl: https://warehousinglogisticsinternational.com/linx-to-unveil-new-ink-jet-printer-series-at-interpack/
 author: Sedat Onat
 translated: false

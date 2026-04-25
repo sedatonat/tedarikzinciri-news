@@ -6,7 +6,7 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Satınalma
 image: https://www.supplychainbrain.com/ext/resources/2022/12/07/UYGUR-ABUSE-FORCED-LABOR-iStock-Andrii-Koval-1368403158.jpg
-imageAlt: "Pamuk tarlası temsili görsel"
+imageAlt: "Pamuk tarlasını temsil eden görsel"
 sourceUrl: https://www.supplychainbrain.com/articles/43928-labubu-dolls-clothing-found-to-contain-banned-cotton
 author: Sedat Onat
 translated: false
