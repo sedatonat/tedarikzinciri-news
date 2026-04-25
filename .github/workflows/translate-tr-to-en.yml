@@ -37,6 +37,17 @@ jobs:
   translate:
     runs-on: ubuntu-latest
     timeout-minutes: 90
+    # Skip when the push is purely TR-side editorial work (rewrites, typo
+    # fixes). The translate script only fills in MISSING EN files anyway, so
+    # running it for a TR-only edit just wastes a workflow minute.
+    if: >-
+      github.event_name != 'push' ||
+      !(
+        contains(github.event.head_commit.message, 'TR rewrite') ||
+        contains(github.event.head_commit.message, 'TR cleanup') ||
+        contains(github.event.head_commit.message, 'TR fix') ||
+        contains(github.event.head_commit.message, '[skip-translate]')
+      )
     steps:
       - name: Checkout
         uses: actions/checkout@v4

@@ -5,7 +5,7 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
 image: https://www.supplychainbrain.com/ext/resources/2025/06/12/tariffs-data-economy-iStock-2197351521.webp
-imageAlt: "TARIFFS" yazan baklava şeklinde sarı sokak tabelası; kırmızı çizgi grafiği ve ABD Capitol binası
+imageAlt: 'TARIFFS yazan baklava şeklinde sarı sokak tabelası; kırmızı çizgi grafiği ve ABD Capitol binası'
 sourceUrl: https://www.supplychainbrain.com/articles/42850-trump-tweaks-more-tariffs-more-concessions-may-be-coming
 newsSequence: 42850
 author: Sedat Onat
