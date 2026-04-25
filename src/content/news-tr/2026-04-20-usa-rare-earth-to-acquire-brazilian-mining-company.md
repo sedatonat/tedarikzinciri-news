@@ -4,7 +4,7 @@ date: '2026-04-20T09:00:00Z'
 category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
-image: /og-default.png
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Itabira_MG_Brasil_-_Mina_de_Ferro_da_Vale_-_panoramio.jpg/1280px-Itabira_MG_Brasil_-_Mina_de_Ferro_da_Vale_-_panoramio.jpg
 imageAlt: "Tedarik Zinciri Haberleri"
 sourceUrl: https://www.supplychainbrain.com/articles/43891-usa-rare-earth-to-acquire-brazilian-mining-company
 newsSequence: 43891

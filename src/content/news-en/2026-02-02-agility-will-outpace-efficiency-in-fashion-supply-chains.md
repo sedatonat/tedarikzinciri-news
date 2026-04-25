@@ -5,7 +5,7 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Satınalma
-image: /og-default.png
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HK_Central_Queen%27s_Road_H%26M_Department_Store_clothing_fashion_figures_night_Aug-2012.JPG/1280px-HK_Central_Queen%27s_Road_H%26M_Department_Store_clothing_fashion_figures_night_Aug-2012.JPG
 imageAlt: "Tedarik Zinciri Haberleri"
 sourceUrl: https://www.supplychainbrain.com/articles/43226-agility-will-outpace-efficiency-in-fashion-supply-chains
 newsSequence: 43226

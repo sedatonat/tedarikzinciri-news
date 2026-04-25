@@ -5,7 +5,7 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: /og-default.png
+image: https://upload.wikimedia.org/wikipedia/commons/6/69/Schematic-of-a-polymetallic-nodule-mining-operation-From-top-to-bottom-the-three_%282%29.png
 imageAlt: "Tedarik Zinciri Haberleri"
 sourceUrl: https://www.supplychainbrain.com/articles/43194-japan-launches-worlds-first-deep-sea-rare-earth-mining-mission
 newsSequence: 43194

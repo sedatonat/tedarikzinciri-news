@@ -5,7 +5,7 @@ category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
   - Teknoloji
-image: /og-default.png
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Submarine_cable_cross-section_3D_plain.svg/1280px-Submarine_cable_cross-section_3D_plain.svg.png
 imageAlt: "Tedarik Zinciri Haberleri"
 sourceUrl: https://www.supplychainbrain.com/articles/43063-finnish-authorities-seize-ship-suspected-of-sabotaging-underwater-cables
 newsSequence: 43063

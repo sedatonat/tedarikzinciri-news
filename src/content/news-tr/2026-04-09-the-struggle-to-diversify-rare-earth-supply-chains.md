@@ -5,7 +5,7 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Teknoloji
   - Lojistik
-image: /og-default.png
+image: https://upload.wikimedia.org/wikipedia/commons/1/10/RareEarthOreUSGOV.jpg
 imageAlt: "Tedarik Zinciri Haberleri"
 sourceUrl: https://www.supplychainbrain.com/articles/43828-the-struggle-to-diversify-rare-earth-supply-chains
 newsSequence: 43828

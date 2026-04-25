@@ -5,7 +5,7 @@ category: Tedarik Zinciri
 secondaryCategories:
   - Lojistik
   - Teknoloji
-image: /og-default.png
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chevron_Logo.svg/1280px-Chevron_Logo.svg.png
 imageAlt: "Tedarik Zinciri Haberleri"
 sourceUrl: https://www.supplychainbrain.com/articles/43087-chevron-lines-up-11-ships-as-venezuelas-dark-fleet-vanishes
 newsSequence: 43087
