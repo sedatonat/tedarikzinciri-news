@@ -1,12 +1,12 @@
 ---
-title: "Tanker hisseleri Covid-dönemi benzeri bir hesaplaşmayla karşı karşıya"
+title: "Tanker Hisseleri Covid Dönemini Andıran Bir Hesaplaşmayla Karşı Karşıya"
 subtitle: "Evercore ISI analisti Jonathan Chappell, İran ateşkesi sonrası tanker hisselerinde Nisan 2020'deki gibi keskin bir düşüş yaşanabileceği konusunda uyarıda bulundu."
 date: '2026-04-22T08:40:00Z'
 category: Lojistik
 secondaryCategories:
   - Tedarik Zinciri
 image: https://splash247.com/wp-content/uploads/2025/01/Wall-Street.jpeg
-imageAlt: "Tanker piyasası hisse değerlemesi"
+imageAlt: "Tanker piyasası hisse değerlendirmesi — Wall Street binası"
 sourceUrl: https://splash247.com/tanker-stocks-face-covid-style-reckoning/
 author: Sedat Onat
 translated: false
