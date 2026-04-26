@@ -21,7 +21,9 @@ interface Props {
 }
 const { lang } = Astro.props as Props;
 
-const CATS = ['Tedarik Zinciri', 'Lojistik', 'Teknoloji', 'Envanter', 'Satınalma'] as const;
+// Display order is the supply-chain workflow itself: source -> buy -> move ->
+// store -> the tech that runs across all of them. Reads naturally left-to-right.
+const CATS = ['Tedarik Zinciri', 'Satınalma', 'Lojistik', 'Envanter', 'Teknoloji'] as const;
 
 // Same icon paths the (now-removed) Categories page used. Stored as inner
 // SVG markup so we can render with a single <svg> wrapper per chip.
