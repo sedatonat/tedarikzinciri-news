@@ -45,15 +45,19 @@
    Set to top:0 for both mobile (was top-[88px]) and desktop
    (was top-16) when header is hidden.
    ============================================================ */
-.site-header {
-  transition: transform 220ms ease;
-  will-change: transform;
+/* Shared easing for all four auto-hide surfaces. ease-out cubic starts
+   fast and settles smoothly — feels instant at the start of the gesture
+   without snapping to a jarring stop. 180ms is the sweet spot for
+   "responsive but not abrupt". */
+.site-header,
+.category-strip-nav,
+.trending-rail-pinned {
+  transition: transform 180ms cubic-bezier(0.16, 1, 0.3, 1),
+              top 180ms cubic-bezier(0.16, 1, 0.3, 1);
 }
+.site-header { will-change: transform; }
 html[data-header-hidden="true"] .site-header {
   transform: translateY(-100%);
-}
-.category-strip-nav {
-  transition: top 220ms ease;
 }
 html[data-header-hidden="true"] .category-strip-nav {
   top: 0 !important;
@@ -67,9 +71,6 @@ html[data-header-hidden="true"] .timeline-rail {
 /* Right-side Trendler/Kronoloji rail mirrors the same auto-hide tracking
    so the three sticky surfaces (strip + left rail + right rail) move as
    one unit when the header tucks away. */
-.trending-rail-pinned {
-  transition: top 220ms ease;
-}
 html[data-header-hidden="true"] .trending-rail-pinned {
   top: 100px;
 }

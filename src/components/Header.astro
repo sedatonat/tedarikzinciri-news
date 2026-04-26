@@ -66,18 +66,21 @@ const t = useTranslations(lang);
   </div>
   <script is:inline>
     // Auto-hide-on-scroll for the Header. Behaviour:
-    //   - At the very top of the page → header always visible
-    //   - Scrolling DOWN past the threshold → translate header off-screen
-    //     and slide the CategoryStrip up to top-0 to take its place
-    //   - Scrolling UP → reveal header again
+    //   - At the very top of the page (<24px) → header always visible
+    //   - Any downward scroll past 24px → translate header off-screen
+    //   - Any upward scroll → reveal header again
+    // Tuned for snappy response: minimal threshold + 1px delta so the
+    // header reacts on the very first scroll wheel tick, no "few-second
+    // wait" feel. The smoothness comes from the cubic-bezier easing in
+    // global.css (180ms ease-out), not from a JS delay.
     // Implementation flag lives on <html data-header-hidden="true"> so any
     // CSS (header, strip, future surfaces) can react with a single rule.
     (function () {
       var html = document.documentElement;
       var lastY = window.scrollY || 0;
       var ticking = false;
-      var THRESHOLD = 80;   // start hiding only once scrolled past this
-      var DELTA = 4;        // ignore tiny scroll jitter
+      var THRESHOLD = 24;   // top safe-zone — header always visible here
+      var DELTA = 1;        // react to even single-tick scrolls
       function update() {
         var y = window.scrollY || 0;
         var delta = y - lastY;

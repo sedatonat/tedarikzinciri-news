@@ -62,8 +62,9 @@ function pad2(n: number): string {
     /* Stays in lockstep with the auto-hide header — see global.css for the
        header-hidden override. The rail slides up by ~64px (header height)
        when the header tucks away, so it parks just under the sticky strip
-       instead of leaving a phantom gap. */
-    transition: top 220ms ease;
+       instead of leaving a phantom gap. Same ease curve + duration as the
+       other auto-hide surfaces in global.css so all four move as one. */
+    transition: top 180ms cubic-bezier(0.16, 1, 0.3, 1);
   }
   /* overflow-y:auto with overflow-x:visible spec-quirks to both-axis scrollable,
      which showed a horizontal scrollbar whenever a month was magnified. `clip`
