@@ -96,7 +96,7 @@ const viewChips: Chip[] = [
 >
   <div class="container-wide">
     <ul
-      class="category-strip flex items-start gap-1 sm:gap-4 overflow-x-auto py-2 -mx-4 px-4 sm:mx-0 sm:px-0 sm:justify-center"
+      class="category-strip flex items-start gap-2 sm:gap-4 overflow-x-auto py-2 -mx-4 px-4 sm:mx-0 sm:px-0 justify-center"
     >
     {[...chips, null, ...viewChips].map((chip, idx) => (
       chip === null ? (
@@ -156,6 +156,12 @@ const viewChips: Chip[] = [
   .category-strip {
     scrollbar-width: none;
     -ms-overflow-style: none;
+    /* `safe center` keeps the group centered when it fits, but falls back
+       to flex-start when content is wider than the viewport (e.g. iPhone
+       SE / 13 mini). Without this, plain center alignment would clip the
+       first chip behind the left edge while the user couldn't even scroll
+       to it because the overflow is symmetric. */
+    justify-content: safe center;
   }
   .category-strip::-webkit-scrollbar {
     display: none;
