@@ -64,6 +64,15 @@ html[data-header-hidden="true"] .category-strip-nav {
 html[data-header-hidden="true"] .timeline-rail {
   top: 80px;
 }
+/* Right-side Trendler/Kronoloji rail mirrors the same auto-hide tracking
+   so the three sticky surfaces (strip + left rail + right rail) move as
+   one unit when the header tucks away. */
+.trending-rail-pinned {
+  transition: top 220ms ease;
+}
+html[data-header-hidden="true"] .trending-rail-pinned {
+  top: 80px;
+}
 
 /* ============================================================
    Akış Modu (Flow Mode) — Standart vs Flow layout switching
