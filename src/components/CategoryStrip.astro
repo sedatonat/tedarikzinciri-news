@@ -86,12 +86,12 @@ const chips: Chip[] = [
           href={chip.href}
           aria-current={chip.active ? 'page' : undefined}
           class:list={[
-            'group flex flex-col items-center gap-1.5 w-16 sm:w-[72px] focus:outline-none',
+            'group flex flex-col items-center gap-1 w-14 sm:w-16 focus:outline-none',
           ]}
         >
           <span
             class:list={[
-              'inline-grid place-items-center w-14 h-14 sm:w-[60px] sm:h-[60px] rounded-2xl transition-colors',
+              'inline-grid place-items-center w-9 h-9 sm:w-10 sm:h-10 rounded-xl transition-colors',
               chip.active
                 ? 'bg-ink-900 text-white dark:bg-white dark:text-ink-900 shadow-sm'
                 : 'bg-ink-100 text-ink-700 dark:bg-ink-800 dark:text-ink-200 group-hover:bg-ink-200 dark:group-hover:bg-ink-700',
@@ -101,8 +101,8 @@ const chips: Chip[] = [
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
-              width="26"
-              height="26"
+              width="22"
+              height="22"
               fill="none"
               stroke="currentColor"
               stroke-width="1.8"
@@ -113,7 +113,7 @@ const chips: Chip[] = [
           </span>
           <span
             class:list={[
-              'text-[11px] sm:text-xs leading-tight text-center whitespace-nowrap transition-colors',
+              'text-[10px] sm:text-[11px] leading-tight text-center whitespace-nowrap transition-colors',
               chip.active
                 ? 'text-ink-900 dark:text-ink-50 font-semibold'
                 : 'text-ink-600 dark:text-ink-300 font-medium group-hover:text-ink-900 dark:group-hover:text-ink-50',
