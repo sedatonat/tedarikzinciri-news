@@ -7,6 +7,7 @@ import Timeline from '../../components/Timeline.astro';
 import TrendingTags from '../../components/TrendingTags.astro';
 import BackButton from '../../components/BackButton.astro';
 import { categoryLabel, categorySlug } from '../../i18n/utils';
+import { collectionPageSchema, breadcrumbSchema, SITE_URL } from '../../lib/seo';
 
 export async function getStaticPaths() {
   const cats = ['Lojistik','Tedarik Zinciri','Teknoloji','Envanter','Satınalma'];
@@ -17,8 +18,24 @@ const all = (await getCollection('news-tr', ({ data }) =>
     (data.category === cat || (data.secondaryCategories ?? []).includes(cat)) && !data.draft))
   .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
 const label = categoryLabel[cat].tr;
+
+const pageUrl = `${SITE_URL}/kategori/${categorySlug(cat)}`;
+const jsonLd = [
+  collectionPageSchema({
+    lang: 'tr',
+    name: `${label} — Haberler`,
+    description: `${label} kategorisinde son haberler ve gelişmeler.`,
+    url: pageUrl,
+    itemCount: all.length,
+  }),
+  breadcrumbSchema([
+    { name: 'Ana Sayfa', url: '/' },
+    { name: 'Kategoriler', url: '/kategoriler/' },
+    { name: label },
+  ]),
+];
 ---
-<BaseLayout title={label}>
+<BaseLayout title={label} jsonLd={jsonLd}>
   <Timeline lang="tr" />
   <section class="container-wide py-10">
     <div class="flex items-center flex-wrap gap-3 mb-3 text-sm">

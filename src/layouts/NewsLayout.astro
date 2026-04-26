@@ -5,13 +5,15 @@ import NewsCard from '../components/NewsCard.astro';
 import { getLangFromUrl, useTranslations, categoryLabel, categoryPath } from '../i18n/utils';
 import { tagPath } from '../lib/tags';
 import { dayUrl } from '../lib/timeline';
+import { newsArticleSchema, breadcrumbSchema } from '../lib/seo';
 
 interface Props {
   frontmatter: any;
   slug?: string;
   alternateSlug?: string;  // slug of same article in the other language, if any
+  body?: string;           // raw markdown body (for JSON-LD wordCount/timeRequired)
 }
-const { frontmatter, slug, alternateSlug } = Astro.props;
+const { frontmatter, slug, alternateSlug, body } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 
 // Compute previous / next article links (sorted by date desc)
@@ -77,37 +79,44 @@ const alternateEn = lang === 'en' && slug
   ? `/en/news/${slug}`
   : (alternateSlug ? `/en/news/${alternateSlug}` : undefined);
 
-// JSON-LD Article schema
-const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? 'https://tzp.news';
+// JSON-LD: NewsArticle + BreadcrumbList — emitted as separate <script> blocks
+// by BaseLayout for crawler-side validation clarity.
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
-const jsonLd = {
-  '@context': 'https://schema.org',
-  '@type': 'NewsArticle',
-  headline: frontmatter.title,
+
+// `body` (raw markdown) is optionally passed from the [slug] page; we use it
+// to compute wordCount + timeRequired for the JSON-LD. If absent the schema
+// still serializes — those two fields are simply omitted by newsArticleSchema.
+const bodyForWordCount = body ?? '';
+
+const articleSchema = newsArticleSchema({
+  lang,
+  title: frontmatter.title,
   description: frontmatter.subtitle,
-  image: frontmatter.image ? [frontmatter.image] : undefined,
-  datePublished: new Date(frontmatter.date).toISOString(),
-  dateModified: new Date(frontmatter.date).toISOString(),
-  inLanguage: lang === 'tr' ? 'tr-TR' : 'en-US',
-  articleSection: frontmatter.category,
-  author: {
-    '@type': 'Person',
-    name: frontmatter.author ?? 'Sedat Onat',
-    url: (frontmatter.author ?? 'Sedat Onat') === 'Sedat Onat' ? 'https://www.sedatonat.com' : undefined
-  },
-  publisher: {
-    '@type': 'Organization',
-    name: t('site.title'),
-    logo: {
-      '@type': 'ImageObject',
-      url: `${siteUrl}/favicon.png`
-    }
-  },
-  mainEntityOfPage: {
-    '@type': 'WebPage',
-    '@id': canonicalUrl
-  }
-};
+  image: frontmatter.image,
+  imageAlt: frontmatter.imageAlt,
+  datePublished: frontmatter.date,
+  dateModified: frontmatter.dateModified ?? frontmatter.date,
+  category: frontmatter.category,
+  tags: Array.isArray(frontmatter.tags) ? frontmatter.tags : [],
+  bodyHtml: bodyForWordCount,
+  sourceUrl: frontmatter.sourceUrl,
+  canonicalUrl,
+});
+
+const homeUrl = lang === 'tr' ? '/' : '/en/';
+const homeName = lang === 'tr' ? 'Ana Sayfa' : 'Home';
+const categoriesUrl = lang === 'tr' ? '/kategoriler/' : '/en/categories/';
+const categoriesName = lang === 'tr' ? 'Kategoriler' : 'Categories';
+const catLabel = categoryLabel[frontmatter.category]?.[lang] ?? frontmatter.category;
+
+const crumbSchema = breadcrumbSchema([
+  { name: homeName, url: homeUrl },
+  { name: categoriesName, url: categoriesUrl },
+  { name: catLabel, url: categoryPath(lang, frontmatter.category) },
+  { name: frontmatter.title }, // current page — no URL per spec
+]);
+
+const jsonLd = [articleSchema, crumbSchema];
 ---
 <BaseLayout
   title={frontmatter.title}

@@ -4,6 +4,7 @@ import NewsCard from '../../../components/NewsCard.astro';
 import Timeline from '../../../components/Timeline.astro';
 import BackButton from '../../../components/BackButton.astro';
 import { getAllTags, getArticlesByTag } from '../../../lib/tags';
+import { collectionPageSchema, breadcrumbSchema, SITE_URL } from '../../../lib/seo';
 
 export async function getStaticPaths() {
   const tags = await getAllTags('en');
@@ -16,10 +17,27 @@ export async function getStaticPaths() {
 const { tag } = Astro.params;
 const { display, count } = Astro.props as { display: string; count: number };
 const articles = await getArticlesByTag('en', tag as string);
+
+const pageUrl = `${SITE_URL}/en/tags/${tag}`;
+const jsonLd = [
+  collectionPageSchema({
+    lang: 'en',
+    name: `${display} — Tag`,
+    description: `${count} articles tagged "${display}".`,
+    url: pageUrl,
+    itemCount: count,
+  }),
+  breadcrumbSchema([
+    { name: 'Home', url: '/en/' },
+    { name: 'Tags' },
+    { name: display },
+  ]),
+];
 ---
 <BaseLayout
   title={`${display} — Tag`}
   description={`${count} articles tagged "${display}".`}
+  jsonLd={jsonLd}
 >
   <Timeline lang="en" />
   <section class="container-wide py-10">

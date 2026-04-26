@@ -5,11 +5,18 @@ import NewsCard from '../components/NewsCard.astro';
 import FlowCard from '../components/FlowCard.astro';
 import Timeline from '../components/Timeline.astro';
 import TrendingTags from '../components/TrendingTags.astro';
+import { websiteSchema, organizationSchema } from '../lib/seo';
 
 const items = (await getCollection('news-tr', ({ data }) => !data.draft))
   .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
+
+// Home page is the right place for site-level schemas: WebSite (with the
+// SearchAction sitelinks-search-box) and Organization (publisher identity
+// for Google News). These appear once per language root and feed every
+// other page on the site.
+const jsonLd = [websiteSchema('tr'), organizationSchema('tr')];
 ---
-<BaseLayout>
+<BaseLayout jsonLd={jsonLd}>
   <Timeline lang="tr" />
   <section class="container-wide pt-10 pb-12">
     <div class="standard-grid grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">

@@ -12,10 +12,15 @@ interface Props {
   type?: 'website' | 'article';
   alternateTr?: string;  // hreflang tr path (absolute or root-relative)
   alternateEn?: string;  // hreflang en path
-  jsonLd?: object;
+  jsonLd?: object | object[];  // single schema OR array of schemas (NewsArticle + BreadcrumbList etc.)
 }
 
 const { title, description, image, canonical, type = 'website', alternateTr, alternateEn, jsonLd } = Astro.props;
+// Normalize to an array so we can render one <script> per schema block. Google
+// recommends keeping each JSON-LD type in its own <script> tag rather than
+// nesting unrelated types in @graph — separate blocks are clearer for crawlers
+// and easier to validate in Rich Results Test.
+const jsonLdBlocks: object[] = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 
@@ -74,7 +79,9 @@ const cfBeaconToken = import.meta.env.PUBLIC_CF_BEACON_TOKEN;
     <meta name="twitter:image" content={ogImageAbs} />
     <meta name="twitter:image:alt" content={fullTitle} />
 
-    {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+    {jsonLdBlocks.map((block) => (
+      <script type="application/ld+json" set:html={JSON.stringify(block)} />
+    ))}
 
     <script is:inline>
       (function () {
