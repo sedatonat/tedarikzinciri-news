@@ -71,7 +71,7 @@ html[data-header-hidden="true"] .timeline-rail {
   transition: top 220ms ease;
 }
 html[data-header-hidden="true"] .trending-rail-pinned {
-  top: 80px;
+  top: 100px;
 }
 
 /* ============================================================
