@@ -96,12 +96,12 @@ const viewChips: Chip[] = [
 >
   <div class="container-wide">
     <ul
-      class="category-strip flex items-start gap-3 sm:gap-4 overflow-x-auto py-2 -mx-4 pl-4 pr-10 sm:mx-0 sm:px-0 sm:justify-center"
+      class="category-strip flex items-start gap-1 sm:gap-4 overflow-x-auto py-2 -mx-4 px-4 sm:mx-0 sm:px-0 sm:justify-center"
     >
     {[...chips, null, ...viewChips].map((chip, idx) => (
       chip === null ? (
         <li class="shrink-0 self-stretch flex items-center" aria-hidden="true">
-          <span class="block w-px h-9 sm:h-10 bg-ink-200 dark:bg-ink-700/70 mx-1 sm:mx-1.5"></span>
+          <span class="block w-px h-8 sm:h-10 bg-ink-200 dark:bg-ink-700/70 mx-0.5 sm:mx-1.5"></span>
         </li>
       ) : (
         <li class="shrink-0">
@@ -109,12 +109,12 @@ const viewChips: Chip[] = [
             href={chip.href}
             aria-current={chip.active ? 'page' : undefined}
             class:list={[
-              'group flex flex-col items-center gap-1 w-14 sm:w-16 focus:outline-none',
+              'group flex flex-col items-center gap-1 w-11 sm:w-16 focus:outline-none',
             ]}
           >
             <span
               class:list={[
-                'inline-grid place-items-center w-9 h-9 sm:w-10 sm:h-10 rounded-xl transition-colors',
+                'inline-grid place-items-center w-8 h-8 sm:w-10 sm:h-10 rounded-xl transition-colors',
                 chip.active
                   ? 'bg-ink-900 text-white dark:bg-white dark:text-ink-900 shadow-sm'
                   : chip.accent
@@ -126,19 +126,18 @@ const viewChips: Chip[] = [
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 24 24"
-                width="22"
-                height="22"
                 fill="none"
                 stroke="currentColor"
                 stroke-width="1.8"
                 stroke-linecap="round"
                 stroke-linejoin="round"
+                class="w-[18px] h-[18px] sm:w-[22px] sm:h-[22px]"
                 set:html={chip.icon}
               />
             </span>
             <span
               class:list={[
-                'text-[10px] sm:text-[11px] leading-tight text-center whitespace-nowrap transition-colors',
+                'text-[9px] sm:text-[11px] leading-[1.1] text-center transition-colors min-h-[22px] sm:min-h-0',
                 chip.active
                   ? 'text-ink-900 dark:text-ink-50 font-semibold'
                   : 'text-ink-600 dark:text-ink-300 font-medium group-hover:text-ink-900 dark:group-hover:text-ink-50',
@@ -152,22 +151,13 @@ const viewChips: Chip[] = [
   </div>
 </nav>
 <style>
-  /* Hide native scrollbar on the mobile horizontal scroll — keeps the iOS
-     App Store look. Functional scroll still works (drag, swipe, keyboard). */
+  /* Hide native scrollbar — strip is now sized to fit on mobile, but we
+     keep overflow-x-auto as a safety net for very narrow viewports. */
   .category-strip {
     scrollbar-width: none;
     -ms-overflow-style: none;
   }
   .category-strip::-webkit-scrollbar {
     display: none;
-  }
-  /* Right-edge fade as a visual cue that more chips (Kronoloji on mobile)
-     live off-screen. Combined with the asymmetric pl-4/pr-10 padding the
-     last chip naturally peeks instead of sitting flush against the cut. */
-  @media (max-width: 639px) {
-    .category-strip {
-      -webkit-mask-image: linear-gradient(to right, #000 0, #000 calc(100% - 36px), transparent 100%);
-              mask-image: linear-gradient(to right, #000 0, #000 calc(100% - 36px), transparent 100%);
-    }
   }
 </style>
