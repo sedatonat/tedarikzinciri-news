@@ -5,6 +5,7 @@ import NewsCard from '../components/NewsCard.astro';
 import FlowCard from '../components/FlowCard.astro';
 import Timeline from '../components/Timeline.astro';
 import TrendingTags from '../components/TrendingTags.astro';
+import CategoryStrip from '../components/CategoryStrip.astro';
 import { websiteSchema, organizationSchema } from '../lib/seo';
 
 const items = (await getCollection('news-tr', ({ data }) => !data.draft))
@@ -18,7 +19,8 @@ const jsonLd = [websiteSchema('tr'), organizationSchema('tr')];
 ---
 <BaseLayout jsonLd={jsonLd}>
   <Timeline lang="tr" />
-  <section class="container-wide pt-10 pb-12">
+  <CategoryStrip lang="tr" />
+  <section class="container-wide pt-6 pb-12">
     <div class="standard-grid grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
       {items.map(e => <NewsCard entry={e} />)}
     </div>

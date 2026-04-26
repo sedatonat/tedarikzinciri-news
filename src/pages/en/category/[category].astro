@@ -5,7 +5,7 @@ import NewsCard from '../../../components/NewsCard.astro';
 import FlowCard from '../../../components/FlowCard.astro';
 import Timeline from '../../../components/Timeline.astro';
 import TrendingTags from '../../../components/TrendingTags.astro';
-import BackButton from '../../../components/BackButton.astro';
+import CategoryStrip from '../../../components/CategoryStrip.astro';
 import { categoryLabel, categorySlug } from '../../../i18n/utils';
 import { collectionPageSchema, breadcrumbSchema, SITE_URL } from '../../../lib/seo';
 
@@ -30,25 +30,14 @@ const jsonLd = [
   }),
   breadcrumbSchema([
     { name: 'Home', url: '/en/' },
-    { name: 'Categories', url: '/en/categories/' },
     { name: label },
   ]),
 ];
 ---
 <BaseLayout title={label} jsonLd={jsonLd}>
   <Timeline lang="en" />
-  <section class="container-wide py-10">
-    <div class="flex items-center flex-wrap gap-3 mb-3 text-sm">
-      <BackButton />
-      <span class="text-ink-400 dark:text-ink-600" aria-hidden="true">·</span>
-      <nav class="text-ink-500 dark:text-ink-400">
-        <a href="/en/" class="hover:text-brand-600">Home</a>
-        <span class="mx-2">/</span>
-        <a href="/en/categories/" class="hover:text-brand-600">Categories</a>
-        <span class="mx-2">/</span>
-        <span>{label}</span>
-      </nav>
-    </div>
+  <CategoryStrip lang="en" />
+  <section class="container-wide pt-6 pb-10">
     <h1 class="sticky top-16 z-30 bg-transparent text-3xl sm:text-4xl font-bold mb-2 py-2">{label}</h1>
     <p class="text-ink-600 dark:text-ink-300 mb-8">{all.length} articles</p>
     <div class="standard-grid grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">

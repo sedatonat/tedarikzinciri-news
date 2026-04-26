@@ -105,13 +105,12 @@ const articleSchema = newsArticleSchema({
 
 const homeUrl = lang === 'tr' ? '/' : '/en/';
 const homeName = lang === 'tr' ? 'Ana Sayfa' : 'Home';
-const categoriesUrl = lang === 'tr' ? '/kategoriler/' : '/en/categories/';
-const categoriesName = lang === 'tr' ? 'Kategoriler' : 'Categories';
 const catLabel = categoryLabel[frontmatter.category]?.[lang] ?? frontmatter.category;
 
+// Categories index page is gone (replaced by the inline strip), so the
+// breadcrumb is just Home › <Category> › <Article Title>.
 const crumbSchema = breadcrumbSchema([
   { name: homeName, url: homeUrl },
-  { name: categoriesName, url: categoriesUrl },
   { name: catLabel, url: categoryPath(lang, frontmatter.category) },
   { name: frontmatter.title }, // current page — no URL per spec
 ]);
@@ -143,8 +142,6 @@ const jsonLd = [articleSchema, crumbSchema];
       </a>
       <span class="text-ink-300 dark:text-ink-700">·</span>
       <a href={lang === 'tr' ? '/' : '/en/'} class="hover:text-brand-600">{lang === 'tr' ? 'Ana Sayfa' : 'Home'}</a>
-      <span class="mx-1">/</span>
-      <a href={lang === 'tr' ? '/kategoriler/' : '/en/categories/'} class="hover:text-brand-600">{lang === 'tr' ? 'Kategoriler' : 'Categories'}</a>
       <span class="mx-1">/</span>
       <a href={categoryPath(lang, frontmatter.category)} class="hover:text-brand-600">{categoryLabel[frontmatter.category]?.[lang] ?? frontmatter.category}</a>
     </nav>

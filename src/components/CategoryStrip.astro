@@ -1,0 +1,137 @@
+---
+/**
+ * iOS App Store-style horizontal category strip.
+ *
+ * Renders a row of square chips (icon on top, small label below) — first chip
+ * is "Tümü / All" linking to the language home, then the 5 supply-chain
+ * categories. The active chip is detected from the current URL pathname so
+ * the same component drops into the home page and any category page without
+ * the caller having to pass anything extra.
+ *
+ * Why a strip instead of a dedicated /kategoriler page: the page itself was a
+ * dead-end click — users just bounced through it to a category. Inlining the
+ * picker makes navigation one click instead of two and keeps the home page
+ * focused on the news feed itself.
+ */
+import { categoryLabel, categorySlug, categoryPath } from '../i18n/utils';
+import type { Lang } from '../i18n/ui';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props as Props;
+
+const CATS = ['Tedarik Zinciri', 'Lojistik', 'Teknoloji', 'Envanter', 'Satınalma'] as const;
+
+// Same icon paths the (now-removed) Categories page used. Stored as inner
+// SVG markup so we can render with a single <svg> wrapper per chip.
+const ICONS: Record<string, string> = {
+  // Truck — Lojistik
+  'Lojistik': '<path d="M3 17V6a1 1 0 0 1 1-1h11v12"/><path d="M15 8h4l3 4v5h-7"/><circle cx="7" cy="18" r="2"/><circle cx="17" cy="18" r="2"/>',
+  // Linked chain — Tedarik Zinciri
+  'Tedarik Zinciri': '<path d="M10 13a5 5 0 0 0 7.07 0l3-3a5 5 0 0 0-7.07-7.07l-1.5 1.5"/><path d="M14 11a5 5 0 0 0-7.07 0l-3 3a5 5 0 0 0 7.07 7.07l1.5-1.5"/>',
+  // CPU — Teknoloji
+  'Teknoloji': '<rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/><path d="M9 2v2"/><path d="M15 2v2"/><path d="M9 20v2"/><path d="M15 20v2"/><path d="M2 9h2"/><path d="M2 15h2"/><path d="M20 9h2"/><path d="M20 15h2"/>',
+  // Warehouse — Envanter
+  'Envanter': '<path d="M3 11 12 4l9 7"/><path d="M5 11v10M19 11v10M5 21h14"/><path d="M9 21v-7h6v7"/><rect x="10.5" y="16.5" width="3" height="4"/>',
+  // Cart — Satınalma
+  'Satınalma': '<circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/>',
+};
+
+// Hamburger-style icon for the "Tümü / All" chip (matches the iOS reference
+// the user shared — three stacked rows).
+const ALL_ICON = '<line x1="4" y1="7" x2="20" y2="7"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="17" x2="20" y2="17"/>';
+
+const homeHref = lang === 'tr' ? '/' : '/en/';
+const allLabel = lang === 'tr' ? 'Tümü' : 'All';
+
+// Active-chip detection — strict match on home, prefix match on /kategori/.
+const path = Astro.url.pathname.replace(/\/$/, '') + '/';
+const homePath = homeHref;
+const isHome = path === homePath;
+
+function isActiveCat(cat: string): boolean {
+  const slug = categorySlug(cat);
+  const target = lang === 'tr' ? `/kategori/${slug}/` : `/en/category/${slug}/`;
+  return path === target;
+}
+
+type Chip = {
+  href: string;
+  label: string;
+  icon: string;
+  active: boolean;
+};
+
+const chips: Chip[] = [
+  { href: homeHref, label: allLabel, icon: ALL_ICON, active: isHome },
+  ...CATS.map<Chip>((cat) => ({
+    href: categoryPath(lang, cat),
+    label: categoryLabel[cat][lang],
+    icon: ICONS[cat],
+    active: isActiveCat(cat),
+  })),
+];
+---
+<nav
+  aria-label={lang === 'tr' ? 'Kategoriler' : 'Categories'}
+  class="container-wide pt-4 pb-2"
+>
+  <ul
+    class="category-strip flex items-start gap-3 sm:gap-4 overflow-x-auto -mx-4 px-4 sm:mx-0 sm:px-0 sm:justify-center"
+  >
+    {chips.map((chip) => (
+      <li class="shrink-0">
+        <a
+          href={chip.href}
+          aria-current={chip.active ? 'page' : undefined}
+          class:list={[
+            'group flex flex-col items-center gap-1.5 w-16 sm:w-[72px] focus:outline-none',
+          ]}
+        >
+          <span
+            class:list={[
+              'inline-grid place-items-center w-14 h-14 sm:w-[60px] sm:h-[60px] rounded-2xl transition-colors',
+              chip.active
+                ? 'bg-ink-900 text-white dark:bg-white dark:text-ink-900 shadow-sm'
+                : 'bg-ink-100 text-ink-700 dark:bg-ink-800 dark:text-ink-200 group-hover:bg-ink-200 dark:group-hover:bg-ink-700',
+            ]}
+            aria-hidden="true"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              width="26"
+              height="26"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.8"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              set:html={chip.icon}
+            />
+          </span>
+          <span
+            class:list={[
+              'text-[11px] sm:text-xs leading-tight text-center whitespace-nowrap transition-colors',
+              chip.active
+                ? 'text-ink-900 dark:text-ink-50 font-semibold'
+                : 'text-ink-600 dark:text-ink-300 font-medium group-hover:text-ink-900 dark:group-hover:text-ink-50',
+            ]}
+          >{chip.label}</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</nav>
+<style>
+  /* Hide native scrollbar on the mobile horizontal scroll — keeps the iOS
+     App Store look. Functional scroll still works (drag, swipe, keyboard). */
+  .category-strip {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .category-strip::-webkit-scrollbar {
+    display: none;
+  }
+</style>
