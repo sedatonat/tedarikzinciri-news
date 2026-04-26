@@ -59,14 +59,8 @@
 html[data-header-hidden="true"] .site-header {
   transform: translateY(-100%);
 }
-/* Desktop only: when the Header tucks away, slide the CategoryStrip up
-   to top:0 so it absorbs the freed space cleanly. On mobile we keep the
-   strip locked at its sticky offset (top-[88px]) so only the Header is
-   perceived as 'hiding' — the strip never appears to move/disappear. */
-@media (min-width: 640px) {
-  html[data-header-hidden="true"] .category-strip-nav {
-    top: 0 !important;
-  }
+html[data-header-hidden="true"] .category-strip-nav {
+  top: 0 !important;
 }
 /* Left-side Timeline rail moves with the same offset so it stays parked
    just under the sticky CategoryStrip instead of getting clipped behind
