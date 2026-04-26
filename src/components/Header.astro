@@ -6,7 +6,7 @@ import ThemeToggle from './ThemeToggle.astro';
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 ---
-<header class="sticky top-0 z-40 border-b border-ink-200 dark:border-ink-800 bg-white/80 dark:bg-ink-950/80 backdrop-blur">
+<header class="site-header sticky top-0 z-40 border-b border-ink-200 dark:border-ink-800 bg-white/80 dark:bg-ink-950/80 backdrop-blur">
   <div class="container-wide flex flex-col sm:flex-row sm:items-center sm:justify-between sm:h-16 py-2 sm:py-0 gap-1 sm:gap-0">
     <a href={localizedPath(lang, '/')} class="flex items-center gap-2 group self-start sm:self-auto" aria-label={t('site.title')}>
       <img src="/logo-light.png" alt="" width="32" height="32" class="block dark:hidden w-8 h-8 object-contain" />
@@ -49,15 +49,6 @@ const t = useTranslations(lang);
           <path d="M3 11.5L12 4l9 7.5"/><path d="M5 10.5V20a1 1 0 0 0 1 1h4v-6h4v6h4a1 1 0 0 0 1-1v-9.5"/>
         </svg>
       </a>
-      <a href={lang === 'tr' ? '/kronoloji/' : '/en/chronology/'} class="p-2 hover:text-brand-600 inline-flex items-center justify-center" aria-label={t('nav.chronology')} title={t('nav.chronology')}>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5" aria-hidden="true">
-          <path d="M4 6h8a3 3 0 0 1 0 6H9a3 3 0 0 0 0 6h10"/>
-          <circle cx="6" cy="6" r="1.6" fill="currentColor" stroke="none"/>
-          <circle cx="13" cy="12" r="1.6" fill="currentColor" stroke="none"/>
-          <circle cx="11" cy="18" r="1.6" fill="currentColor" stroke="none"/>
-          <path d="m17 15 3 3-3 3"/>
-        </svg>
-      </a>
       <a href={lang === 'tr' ? '/ara' : '/en/search'} class="p-2 hover:text-brand-600 inline-flex items-center justify-center" aria-label={t('nav.search')} title={t('nav.search')}>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5" aria-hidden="true">
           <circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/>
@@ -73,6 +64,41 @@ const t = useTranslations(lang);
       >i</a>
     </nav>
   </div>
+  <script is:inline>
+    // Auto-hide-on-scroll for the Header. Behaviour:
+    //   - At the very top of the page → header always visible
+    //   - Scrolling DOWN past the threshold → translate header off-screen
+    //     and slide the CategoryStrip up to top-0 to take its place
+    //   - Scrolling UP → reveal header again
+    // Implementation flag lives on <html data-header-hidden="true"> so any
+    // CSS (header, strip, future surfaces) can react with a single rule.
+    (function () {
+      var html = document.documentElement;
+      var lastY = window.scrollY || 0;
+      var ticking = false;
+      var THRESHOLD = 80;   // start hiding only once scrolled past this
+      var DELTA = 4;        // ignore tiny scroll jitter
+      function update() {
+        var y = window.scrollY || 0;
+        var delta = y - lastY;
+        if (y < THRESHOLD) {
+          html.removeAttribute('data-header-hidden');
+        } else if (delta > DELTA) {
+          html.setAttribute('data-header-hidden', 'true');
+        } else if (delta < -DELTA) {
+          html.removeAttribute('data-header-hidden');
+        }
+        lastY = y;
+        ticking = false;
+      }
+      window.addEventListener('scroll', function () {
+        if (!ticking) {
+          window.requestAnimationFrame(update);
+          ticking = true;
+        }
+      }, { passive: true });
+    })();
+  </script>
   <script is:inline>
     (function () {
       var root = document.getElementById('layout-mode-toggle');

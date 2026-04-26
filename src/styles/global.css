@@ -35,6 +35,31 @@
 }
 
 /* ============================================================
+   Auto-hide Header on scroll
+   ------------------------------------------------------------
+   When the inline JS in Header.astro detects a downward scroll
+   past 80px it sets `data-header-hidden="true"` on <html>. This
+   slides the header off-screen and pulls the sticky CategoryStrip
+   up to top:0 so navigation never disappears entirely — only the
+   marketing surface (logo + utility icons) compacts away.
+   Set to top:0 for both mobile (was top-[88px]) and desktop
+   (was top-16) when header is hidden.
+   ============================================================ */
+.site-header {
+  transition: transform 220ms ease;
+  will-change: transform;
+}
+html[data-header-hidden="true"] .site-header {
+  transform: translateY(-100%);
+}
+.category-strip-nav {
+  transition: top 220ms ease;
+}
+html[data-header-hidden="true"] .category-strip-nav {
+  top: 0 !important;
+}
+
+/* ============================================================
    Akış Modu (Flow Mode) — Standart vs Flow layout switching
    ------------------------------------------------------------
    - Desktop (>=640px):   data-mode on <html> controls which grid is shown.
