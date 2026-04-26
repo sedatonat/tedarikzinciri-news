@@ -96,7 +96,7 @@ const viewChips: Chip[] = [
 >
   <div class="container-wide">
     <ul
-      class="category-strip flex items-start gap-3 sm:gap-4 overflow-x-auto py-2 -mx-4 px-4 sm:mx-0 sm:px-0 sm:justify-center"
+      class="category-strip flex items-start gap-3 sm:gap-4 overflow-x-auto py-2 -mx-4 pl-4 pr-10 sm:mx-0 sm:px-0 sm:justify-center"
     >
     {[...chips, null, ...viewChips].map((chip, idx) => (
       chip === null ? (
@@ -160,5 +160,14 @@ const viewChips: Chip[] = [
   }
   .category-strip::-webkit-scrollbar {
     display: none;
+  }
+  /* Right-edge fade as a visual cue that more chips (Kronoloji on mobile)
+     live off-screen. Combined with the asymmetric pl-4/pr-10 padding the
+     last chip naturally peeks instead of sitting flush against the cut. */
+  @media (max-width: 639px) {
+    .category-strip {
+      -webkit-mask-image: linear-gradient(to right, #000 0, #000 calc(100% - 36px), transparent 100%);
+              mask-image: linear-gradient(to right, #000 0, #000 calc(100% - 36px), transparent 100%);
+    }
   }
 </style>
