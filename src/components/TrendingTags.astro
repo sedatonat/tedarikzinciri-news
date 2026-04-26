@@ -1,6 +1,5 @@
 ---
 import { getCollection } from 'astro:content';
-import { categoryLabel, categoryPath } from '../i18n/utils';
 import { slugifyTag, tagPath } from '../lib/tags';
 import type { Lang } from '../i18n/ui';
 import { events as chronologyEvents } from '../lib/chronology';
@@ -12,7 +11,7 @@ interface Props {
   /** How many tags to display */
   limit?: number;
 }
-const { lang, days = 7, limit = 5 } = Astro.props as Props;
+const { lang, days = 7, limit = 10 } = Astro.props as Props;
 
 const collection = lang === 'tr' ? 'news-tr' : 'news-en';
 const entries = await getCollection(collection, ({ data }) => !data.draft);
@@ -20,16 +19,11 @@ const entries = await getCollection(collection, ({ data }) => !data.draft);
 const cutoff = Date.now() - days * 24 * 60 * 60 * 1000;
 const recent = entries.filter(e => new Date(e.data.date).getTime() >= cutoff);
 
-// Aggregate by tag slug: count occurrences and tally categories.
-type Agg = {
-  display: string;
-  slug: string;
-  count: number;
-  cats: Map<string, number>;
-};
+// Aggregate by tag slug: count occurrences (we still need count for ranking,
+// even though it isn't shown in the UI anymore).
+type Agg = { display: string; slug: string; count: number };
 const bySlug = new Map<string, Agg>();
 for (const entry of recent) {
-  const cat = (entry.data.category as string) || '';
   const tags = (entry.data.tags ?? []) as string[];
   for (const raw of tags) {
     const tag = (raw || '').trim();
@@ -38,11 +32,10 @@ for (const entry of recent) {
     if (!slug) continue;
     let agg = bySlug.get(slug);
     if (!agg) {
-      agg = { display: tag, slug, count: 0, cats: new Map() };
+      agg = { display: tag, slug, count: 0 };
       bySlug.set(slug, agg);
     }
     agg.count += 1;
-    if (cat) agg.cats.set(cat, (agg.cats.get(cat) ?? 0) + 1);
   }
 }
 
@@ -55,20 +48,8 @@ const trending = Array.from(bySlug.values())
   )
   .slice(0, limit);
 
-// Resolve top category per tag
-function topCategory(cats: Map<string, number>): string {
-  if (cats.size === 0) return '';
-  let best = '';
-  let bestCount = -1;
-  for (const [c, n] of cats) {
-    if (n > bestCount) { best = c; bestCount = n; }
-  }
-  return best;
-}
-
 const heading = lang === 'tr' ? 'Trendler' : 'Trends';
 const headingHint = lang === 'tr' ? `(son ${days} gün)` : `(last ${days} days)`;
-const postsLabel = (n: number) => lang === 'tr' ? `${n} gönderi` : `${n} posts`;
 
 // Chronology promo bar (sits above Trendler)
 const chronoCount = chronologyEvents.length;
@@ -114,25 +95,15 @@ const chronoHref = lang === 'tr' ? '/kronoloji/' : '/en/chronology/';
         </h2>
       </div>
       <ul class="divide-y divide-ink-200 dark:divide-ink-800">
-        {trending.map(t => {
-          const cat = topCategory(t.cats);
-          const catLabel = cat ? (categoryLabel[cat]?.[lang] ?? cat) : '';
-          return (
-            <li class="px-3.5 py-2.5 hover:bg-ink-200/50 dark:hover:bg-ink-800/50 transition-colors">
-              {catLabel && (
-                <div class="text-[9px] uppercase tracking-wide text-ink-500 dark:text-ink-400">
-                  <a href={categoryPath(lang, cat)} class="hover:text-brand-600 dark:hover:text-brand-400 hover:underline">{catLabel}</a>
-                </div>
-              )}
-              <a href={tagPath(lang, t.display)} class="block group">
-                <div class="font-bold text-sm capitalize text-ink-900 dark:text-ink-50 leading-snug group-hover:text-brand-600 dark:group-hover:text-brand-400">
-                  #{t.display}
-                </div>
-                <div class="text-[10px] text-ink-500 dark:text-ink-400 mt-0.5">{postsLabel(t.count)}</div>
-              </a>
-            </li>
-          );
-        })}
+        {trending.map(t => (
+          <li class="hover:bg-ink-200/50 dark:hover:bg-ink-800/50 transition-colors">
+            <a href={tagPath(lang, t.display)} class="block px-3.5 py-2 group">
+              <div class="font-bold text-sm capitalize text-ink-900 dark:text-ink-50 leading-snug group-hover:text-brand-600 dark:group-hover:text-brand-400">
+                #{t.display}
+              </div>
+            </a>
+          </li>
+        ))}
       </ul>
     </div>
   </div>
