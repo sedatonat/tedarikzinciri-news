@@ -94,7 +94,7 @@ const chronoHref = lang === 'tr' ? '/kronoloji/' : '/en/chronology/';
           <span class="ml-1 text-xs font-normal text-ink-500 dark:text-ink-400">{headingHint}</span>
         </h2>
       </div>
-      <ul class="divide-y divide-ink-200 dark:divide-ink-800">
+      <ul>
         {trending.map(t => (
           <li class="hover:bg-ink-200/50 dark:hover:bg-ink-800/50 transition-colors">
             <a href={tagPath(lang, t.display)} class="block px-3.5 py-2 group">
