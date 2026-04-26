@@ -38,7 +38,7 @@ const jsonLd = [
   <Timeline lang="en" />
   <CategoryStrip lang="en" />
   <section class="container-wide pt-6 pb-10">
-    <h1 class="sticky top-16 z-30 bg-transparent text-3xl sm:text-4xl font-bold mb-2 py-2">{label}</h1>
+    <h1 class="text-3xl sm:text-4xl font-bold mb-2 py-2">{label}</h1>
     <p class="text-ink-600 dark:text-ink-300 mb-8">{all.length} articles</p>
     <div class="standard-grid grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
       {all.map(e => <NewsCard entry={e} />)}
