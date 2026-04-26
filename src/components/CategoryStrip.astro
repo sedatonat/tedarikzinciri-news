@@ -44,13 +44,20 @@ const ICONS: Record<string, string> = {
 // the user shared — three stacked rows).
 const ALL_ICON = '<line x1="4" y1="7" x2="20" y2="7"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="17" x2="20" y2="17"/>';
 
+// Chronology icon — same shape Header + Trendler-promo use, so users
+// recognize it as the same destination wherever they spot it.
+const CHRONO_ICON = '<path d="M4 6h8a3 3 0 0 1 0 6H9a3 3 0 0 0 0 6h10"/><circle cx="6" cy="6" r="1.6" fill="currentColor" stroke="none"/><circle cx="13" cy="12" r="1.6" fill="currentColor" stroke="none"/><circle cx="11" cy="18" r="1.6" fill="currentColor" stroke="none"/><path d="m17 15 3 3-3 3"/>';
+
 const homeHref = lang === 'tr' ? '/' : '/en/';
 const allLabel = lang === 'tr' ? 'Tümü' : 'All';
+const chronoHref = lang === 'tr' ? '/kronoloji/' : '/en/chronology/';
+const chronoLabel = lang === 'tr' ? 'Kronoloji' : 'Chronology';
 
 // Active-chip detection — strict match on home, prefix match on /kategori/.
 const path = Astro.url.pathname.replace(/\/$/, '') + '/';
 const homePath = homeHref;
 const isHome = path === homePath;
+const isChrono = path === chronoHref;
 
 function isActiveCat(cat: string): boolean {
   const slug = categorySlug(cat);
@@ -63,6 +70,8 @@ type Chip = {
   label: string;
   icon: string;
   active: boolean;
+  /** Treat as a non-category "view" — gets a brand-tinted icon to set it apart */
+  accent?: boolean;
 };
 
 const chips: Chip[] = [
@@ -74,6 +83,12 @@ const chips: Chip[] = [
     active: isActiveCat(cat),
   })),
 ];
+
+// Trailing "view" chip(s) live after a vertical divider so they read as
+// secondary navigation — a different lens on the same data, not a category.
+const viewChips: Chip[] = [
+  { href: chronoHref, label: chronoLabel, icon: CHRONO_ICON, active: isChrono, accent: true },
+];
 ---
 <nav
   aria-label={lang === 'tr' ? 'Kategoriler' : 'Categories'}
@@ -83,47 +98,55 @@ const chips: Chip[] = [
     <ul
       class="category-strip flex items-start gap-3 sm:gap-4 overflow-x-auto py-2 -mx-4 px-4 sm:mx-0 sm:px-0 sm:justify-center"
     >
-    {chips.map((chip) => (
-      <li class="shrink-0">
-        <a
-          href={chip.href}
-          aria-current={chip.active ? 'page' : undefined}
-          class:list={[
-            'group flex flex-col items-center gap-1 w-14 sm:w-16 focus:outline-none',
-          ]}
-        >
-          <span
+    {[...chips, null, ...viewChips].map((chip, idx) => (
+      chip === null ? (
+        <li class="shrink-0 self-stretch flex items-center" aria-hidden="true">
+          <span class="block w-px h-9 sm:h-10 bg-ink-200 dark:bg-ink-700/70 mx-1 sm:mx-1.5"></span>
+        </li>
+      ) : (
+        <li class="shrink-0">
+          <a
+            href={chip.href}
+            aria-current={chip.active ? 'page' : undefined}
             class:list={[
-              'inline-grid place-items-center w-9 h-9 sm:w-10 sm:h-10 rounded-xl transition-colors',
-              chip.active
-                ? 'bg-ink-900 text-white dark:bg-white dark:text-ink-900 shadow-sm'
-                : 'bg-ink-100 text-ink-700 dark:bg-ink-800 dark:text-ink-200 group-hover:bg-ink-200 dark:group-hover:bg-ink-700',
+              'group flex flex-col items-center gap-1 w-14 sm:w-16 focus:outline-none',
             ]}
-            aria-hidden="true"
           >
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 24 24"
-              width="22"
-              height="22"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="1.8"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              set:html={chip.icon}
-            />
-          </span>
-          <span
-            class:list={[
-              'text-[10px] sm:text-[11px] leading-tight text-center whitespace-nowrap transition-colors',
-              chip.active
-                ? 'text-ink-900 dark:text-ink-50 font-semibold'
-                : 'text-ink-600 dark:text-ink-300 font-medium group-hover:text-ink-900 dark:group-hover:text-ink-50',
-            ]}
-          >{chip.label}</span>
-        </a>
-      </li>
+            <span
+              class:list={[
+                'inline-grid place-items-center w-9 h-9 sm:w-10 sm:h-10 rounded-xl transition-colors',
+                chip.active
+                  ? 'bg-ink-900 text-white dark:bg-white dark:text-ink-900 shadow-sm'
+                  : chip.accent
+                    ? 'bg-ink-100 text-brand-600 dark:bg-ink-800 dark:text-brand-400 group-hover:bg-ink-200 dark:group-hover:bg-ink-700'
+                    : 'bg-ink-100 text-ink-700 dark:bg-ink-800 dark:text-ink-200 group-hover:bg-ink-200 dark:group-hover:bg-ink-700',
+              ]}
+              aria-hidden="true"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                width="22"
+                height="22"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.8"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                set:html={chip.icon}
+              />
+            </span>
+            <span
+              class:list={[
+                'text-[10px] sm:text-[11px] leading-tight text-center whitespace-nowrap transition-colors',
+                chip.active
+                  ? 'text-ink-900 dark:text-ink-50 font-semibold'
+                  : 'text-ink-600 dark:text-ink-300 font-medium group-hover:text-ink-900 dark:group-hover:text-ink-50',
+              ]}
+            >{chip.label}</span>
+          </a>
+        </li>
+      )
     ))}
     </ul>
   </div>
