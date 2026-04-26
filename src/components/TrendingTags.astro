@@ -12,7 +12,7 @@ interface Props {
   /** How many tags to display */
   limit?: number;
 }
-const { lang, days = 30, limit = 5 } = Astro.props as Props;
+const { lang, days = 7, limit = 5 } = Astro.props as Props;
 
 const collection = lang === 'tr' ? 'news-tr' : 'news-en';
 const entries = await getCollection(collection, ({ data }) => !data.draft);
@@ -67,6 +67,7 @@ function topCategory(cats: Map<string, number>): string {
 }
 
 const heading = lang === 'tr' ? 'Trendler' : 'Trends';
+const headingHint = lang === 'tr' ? `(son ${days} gün)` : `(last ${days} days)`;
 const postsLabel = (n: number) => lang === 'tr' ? `${n} gönderi` : `${n} posts`;
 
 // Chronology promo bar (sits above Trendler)
@@ -107,7 +108,10 @@ const chronoHref = lang === 'tr' ? '/kronoloji/' : '/en/chronology/';
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4 text-brand-500" aria-hidden="true">
           <polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/><polyline points="16 7 22 7 22 13"/>
         </svg>
-        <h2 class="text-base font-bold tracking-tight">{heading}</h2>
+        <h2 class="text-base font-bold tracking-tight">
+          {heading}
+          <span class="ml-1 text-xs font-normal text-ink-500 dark:text-ink-400">{headingHint}</span>
+        </h2>
       </div>
       <ul class="divide-y divide-ink-200 dark:divide-ink-800">
         {trending.map(t => {
