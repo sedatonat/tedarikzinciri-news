@@ -58,6 +58,12 @@ html[data-header-hidden="true"] .site-header {
 html[data-header-hidden="true"] .category-strip-nav {
   top: 0 !important;
 }
+/* Left-side Timeline rail moves with the same offset so it stays parked
+   just under the sticky CategoryStrip instead of getting clipped behind
+   it (default state) or leaving a header-shaped gap (hidden state). */
+html[data-header-hidden="true"] .timeline-rail {
+  top: 80px;
+}
 
 /* ============================================================
    Akış Modu (Flow Mode) — Standart vs Flow layout switching

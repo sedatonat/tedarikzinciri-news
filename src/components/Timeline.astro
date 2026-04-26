@@ -19,7 +19,7 @@ function pad2(n: number): string {
 }
 ---
 <aside
-  class="timeline-rail hidden lg:flex fixed left-0 top-20 bottom-8 z-30 select-none bg-ink-100/85 dark:bg-ink-950/70 border-r border-ink-200 dark:border-ink-800 backdrop-blur-sm rounded-r-lg"
+  class="timeline-rail hidden lg:flex fixed left-0 top-[140px] bottom-8 z-30 select-none bg-ink-100/85 dark:bg-ink-950/70 border-r border-ink-200 dark:border-ink-800 backdrop-blur-sm rounded-r-lg"
   aria-label={L.aria}
 >
   <div class="timeline-scroll h-full overflow-y-auto overflow-x-visible py-2 pl-3 pr-2 text-sm font-mono tabular-nums">
@@ -57,7 +57,14 @@ function pad2(n: number): string {
 </aside>
 
 <style>
-  .timeline-rail { width: 5rem; }
+  .timeline-rail {
+    width: 5rem;
+    /* Stays in lockstep with the auto-hide header — see global.css for the
+       header-hidden override. The rail slides up by ~64px (header height)
+       when the header tucks away, so it parks just under the sticky strip
+       instead of leaving a phantom gap. */
+    transition: top 220ms ease;
+  }
   /* overflow-y:auto with overflow-x:visible spec-quirks to both-axis scrollable,
      which showed a horizontal scrollbar whenever a month was magnified. `clip`
      keeps the vertical scroll but suppresses the unwanted horizontal scrollbar
